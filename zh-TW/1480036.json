@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5R6tZbm69dE=",
+  "content": "<p>超越氧氣修復</p><p>感謝那位無法妥善完成工作的神奇BO開發者</p><p>&nbsp; 修復了<a href=\"https://www.curseforge.com/minecraft/mc-mods/beyond-oxygen\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/beyond-oxygen</a>中的一個錯誤，該模組的氧氣/呼吸機制<br>&nbsp; 會破壞非太空維度中的原版與模組化空氣供應系統。</p><p>&nbsp; 問題描述：</p><p>&nbsp; 超越氧氣透過混入LivingEntity類別，在每個遊戲刻無差別地消耗所有實體的空氣供應並阻止空氣恢復，而未檢查當前維度是否確實為不可呼吸的太空維度。</p><p>這意味著：</p><p>&nbsp; - 水下呼吸藥水無法正常運作<br>&nbsp; - 深海漫遊附魔效果被忽略<br>&nbsp; - 導管力量無法恢復空氣<br>&nbsp; - 任何透過空氣供應系統運作的其他模組都會失效</p><p>&nbsp; 修復方案：</p><p>&nbsp; 使用<a href=\"https://github.com/Bawnorton/MixinSquared\" target=\"_blank\" rel=\"nofollow\">https://github.com/Bawnorton/MixinSquared</a>移除兩個損壞的混入處理程序，並重新實作它們，<br>&nbsp; &nbsp;補上缺失的維度檢查。現在呼吸消耗與空氣恢復阻斷僅會在被標記為不可呼吸的維度中生效，<br>&nbsp; 符合原始設計意圖。</p><p>&nbsp;</p><p>若您想支持我及我的模組開發，我推薦嘗試BisectHosting。使用代碼「project8gbderam」可讓新客戶首月遊戲伺服器享25%折扣。他們提供24/7支援與閃電般快速回應，確保您獲得完善照顧，並為所有遊戲需求提供卓越協助。&nbsp;<a href=\"https://www.curseforge.com/linkout?remoteUrl=https://www.bisecthosting.com/project8gbderam\" target=\"_blank\" rel=\"nofollow\">https://www.bisecthosting.com/project8gbderam</a></p><p><img src=\"https://www.bisecthosting.com/partners/custom-banners/54bb107c-f9fc-4f32-8515-fb4e3d56c124.png\" alt=\"Bisect\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

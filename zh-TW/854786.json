@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Yb7f97WEtWY=",
+  "content": "<p>此模組改寫了終界之城的生成方式，使其規模更大且擁有更多分支路徑。</p><p>可透過設定檔調整以下參數：</p><p>每座城市的最大船艦數量</p><p>每座中央塔樓的最大高度</p><p>橋梁的長度</p><p>&nbsp;</p><p>我測試後的最佳數值為中央塔樓高度設為6，橋梁長度設為中等。</p><p>但部分城市可能會因高度限制而被截斷。</p><p>若同時使用BetterEnd模組，建議調低設定值，因為起始點會生成於更高處，導致更多城市觸及建築高度上限。</p><p>&nbsp;<br>若要獲得宣傳圖中的終界之城，需使用下列資料包之一。本模組僅改變規模，不改變外觀。</p><p>&nbsp;</p><p>若想增加終界之城及其他所有建築的生成數量，可參考我的另一個模組：<a href=\"https://www.curseforge.com/minecraft/mc-mods/many-more-structures\" rel=\"nofollow\">Many More Structures</a>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>偏好Modrinth的使用者請至：<br><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fbigger-better-end-cities\" rel=\"nofollow\">Bigger Better End Cities - Minecraft Mod (modrinth.com)</a></p><p>&nbsp;<br>以下為提升終界之城視覺效果的推薦選項：</p><p>原版風格：&nbsp;<a href=\"https://legacy.curseforge.com/minecraft/texture-packs/vanilla-better-end-city\" rel=\"nofollow\">\"Vanilla Better End City\" - 資源包 - Minecraft - CurseForge</a></p><p>&nbsp;</p><p>Fabric Better End相容：&nbsp;<a href=\"https://legacy.curseforge.com/minecraft/texture-packs/better-end-city-for-better-end\" rel=\"nofollow\">適用於BetterEnd的終界之城... - 資源包 - Minecraft - CurseForge</a></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

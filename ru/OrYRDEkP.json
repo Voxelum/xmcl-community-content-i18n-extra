@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PybQjms1A6Q=",
+  "content": "Ветка [CITResewn](https://modrinth.com/mod/cit-resewn) для обратной совместимости с версией 1.21, которая позволяет пользователям определять правила сопоставления NBT с компонентами. Имеются специальные патчи для Hypixel+.\n\n\nЧтобы настроить совместимость NBT с компонентами для паков, отличных от Hypixel+, вам потребуется отредактировать файл `(путь к установке Minecraft)/config/citresewn/nbttocomponents.properties`, чтобы указать глобальные правила NBT.\n\nПримечание для создателей ресурс-паков: `nbt.ExtraAttributes` автоматически сопоставляется с компонентом `minecraft:custom_data`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

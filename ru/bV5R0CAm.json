@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zcIm4lHV/vo=",
+  "content": "Предустановленное теневое освещение в Minecraft теперь отключено для всех блоков. Этот мод перехватывает модели блоков во время запуска и воссоздаёт их с выключенным теневым освещением. Он автоматически работает со всеми стандартными и модифицированными блоками.\n\n![деревня](https://cdn.modrinth.com/data/cached_images/793ac9846b9c025444ac48d85160d7557eb5a6b5.png)\n\n**Если у вас установлен [VintageFix](https://www.curseforge.com/minecraft/mc-mods/vintagefix), отключите эту строку:**\n> mixin.dynamic_resources=false\n\n**Отлично сочетается с [Shadeless Mobs](https://modrinth.com/mod/shadeless-mobs)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

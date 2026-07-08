@@ -1,0 +1,6 @@
+{
+  "bodyHash": "erqXCZ6aMFU=",
+  "content": "<p>動態環境模組已針對 Minecraft 1.21.1 版本更新，同時支援 Fabric 和 NeoForge。此版本需依賴 Architectury 框架，必須安裝該框架才能正常運作模組。Architectury 目前尚未支援 MC 1.21.1 的 Forge 版本，待官方提供支援後我將立即發布 Forge 專用版本。</p><p><span style=\"color:#2dc26b\">若需尋找 Fabric 1.20.x 版本，請參閱<a style=\"color:#2dc26b\" href=\"https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition\" target=\"_blank\" rel=\"nofollow\">動態環境：Fabric 版本</a>專案。</span></p><h2>功能特色</h2><ul>\n<li>強化音效處理 - 背景運算空間音效，加入迴音效果</li>\n<li>獨立音效控制 - 設定快捷鍵並在遊戲中啟用，可屏蔽、過濾及調整音效播放音量，還能即時試聽音效</li>\n<li>生態域環境音 - 根據所處生態域播放環境音效，隨玩家移動無縫銜接不同音效</li>\n<li>霧氣密度隨生態域、晝夜與天氣動態變化</li>\n<li>高溫方塊特效 - 熔岩上方會出現火焰噴流，水流接觸高溫方塊時產生蒸汽（高溫方塊包含熔岩、岩漿、營火與裝有熔岩的鍋釜）</li>\n<li>瀑布音效與視覺效果 - 偵測到附近有流動水源時觸發</li>\n<li>以強化版音效取代原版雷聲</li>\n<li>將方塊踩踏音效替換為「強化版」</li>\n<li>多種「DS」客戶端指令可輸出配置資訊（目前主要供開發使用，後續將提供完整使用說明）</li>\n<li>可透過快捷鍵開啟自訂除錯介面，將動態環境資訊與傳統 F3 顯示分離</li>\n<li>兼容寧靜四季模組 - 季節與溫度變化將影響環境效果</li>\n<li>支援連接原版伺服器，Fabric 與 NeoForge 載入器皆可適用</li>\n</ul><p>遊戲內選單支援需安裝 Cloth-Config 模組，Fabric 與 NeoForge 版本皆可使用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

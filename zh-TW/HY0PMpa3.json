@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LvWR/1dNvs0=",
+  "content": "在 Farmer's Delight 中，長期以來一直存在無法將相同食材放入同一個欄位的問題，這使得自動化烹飪變得困難。而這個模組就是為了解決這個問題而製作的。（[原始問題](https://github.com/vectorwing/FarmersDelight/issues/26)）\n\n此外，透過在配方配對前提取相同的邏輯，也略微提升了效能。\n\n**1.21 版本新功能：** 不再對非活躍狀態的配方進行不必要的配對，進一步提升了效能。\n\n[![有興趣支持我與模組開發嗎？BisectHosting 是最佳選擇。新客戶可使用促銷代碼「snownee」，在遊戲伺服器的第一個月享有 25% 折扣。我們提供 24/7 支援與快速回應，確保您的所有遊戲需求都能獲得頂級服務。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MKJF0ovg1kw=",
+  "content": "![连接箱子和熔炉的传送带](https://cdn.modrinth.com/data/cached_images/ac7f13962088c002ca8a82cfdfb644f8cdd0dc89.png)\n\n这款模组为Minecraft 1.21.1添加了整洁、灵活的传送带，兼容**Fabric和NeoForge**两种加载器。设计上可无缝配合**任何物品存储模组**。目前仍处于**测试阶段**，如发现问题请及时反馈。\n\n### 🚚 功能特性：\n\n*   新增**传送带**物品，以及可选的**支撑柱**和**溜槽**方块。\n*   **完全动态的样条曲线传送带**：仅需将起点和终点放置在方块上，中间部分可自由弯曲、扭转。\n*   **物品传输速度**：约1组/秒。\n*   **智能溢出处理**：若目标容器已满，物品会可见地堆积在传送带上。\n*   **着色器兼容**：支持Iris和Oculus光影。\n*   **便捷过滤**：手持物品右键点击传送溜槽可设为过滤器，同时兼容FTB Filters模组的智能过滤器。\n\n***\n\n## 🛠️ 使用方法\n\n1.  （可选）在传送带起点和终点放置**溜槽方块**（使用传送带物品时也可自动放置）。\n2.  （可选）在路径任意位置添加**支撑柱方块**以塑造传送带曲线。\n3.  手持**传送带物品**右键点击起始容器（如箱子）。\n4.  走到目标容器处右键点击，完成传送带连接。\n\n传送带路径将自动在两点间形成连接！\n\n***\n\n## 🔗 前置依赖\n\n*   [Architectury API](https://modrinth.com/mod/architectury)\n*   （仅Fabric）[Fabric API](https://modrinth.com/mod/fabric-api)\n\n***\n\n## 🔍 计划功能\n\n*   传送带实体碰撞/碰撞箱\n*   实体移动\n*   **暂无**回退至1.20.1或其他版本的计划。\n\n***\n\n## 鸣谢\n\n*   传送带纹理基于[malcolriley的unused-textures仓库](https://github.com/malcolmriley/unused-textures)中的修改资源。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

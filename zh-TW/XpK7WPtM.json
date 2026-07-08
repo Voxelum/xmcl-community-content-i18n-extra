@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sj5zKUkDfy4=",
+  "content": "## *** 此模組的開發在可預見的未來將暫停。 ***\n\n*適用於伺服器與單人世界*  \n***\n此模組允許創建動作物品欄，這是一種特殊的物品欄，當點擊物品時會執行特定動作。  \n請參閱 [wiki](https://github.com/RealMegaMinds/ActionInventoryMod/wiki) 以了解如何創建它們。\n\n支援 [PlaceHolderApi](https://placeholders.pb4.eu/) (3.4.0+)\n* 物品欄標題\n* 物品欄物品名稱與描述 (3.5.0+ 版本支援完整 NBT)\n* GiveAction 物品\n* 訊息與指令",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

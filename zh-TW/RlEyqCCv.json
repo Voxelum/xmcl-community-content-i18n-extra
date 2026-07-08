@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IRY0V9ACrBo=",
+  "content": "# 天然動態模糊\n\n此模組旨在透過混合畫面幀來模擬人類視覺動態模糊的運作方式，減少頻閃效應，讓動作看起來更加流暢。\n\n建議使用預設強度值（1）。\n\n可透過以下指令開啟設定介面：```/motionblur``` ```/mb```\n\n![縮圖](https://github.com/ItsPasi/natural-motionblur-fabric/blob/1.20.6/docs/blur%20thumbnail.png?raw=true)\n\n## 功能列表\n- 模糊開關 - 包含可調整的快捷鍵\n- 更新率縮放 - 根據幀數與螢幕更新率調整模糊強度\n- 模糊強度調整\n- 多種模糊方式\n  - 基於速度（預設）\n  - 幀混合\n  - 混合模式\n  - 累積最大值\n  - 累積混合\n- OBS 錄製輸出\n\n## OBS 錄製輸出\n自模組 1.4.0 版本起，你現在可以透過 Spout 發送器，直接在 OBS 中輸出經過幀混合處理的遊戲畫面。這對於無法或不想以 240 FPS 以上幀率錄製流暢遊戲影片的人來說，是個絕佳選擇。現在你可以直接使用此選項，並以一般幀率進行錄製。\n\n設定方式請遵循以下步驟：\n1. 從 https://github.com/Off-World-Live/obs-spout2-plugin 下載 Spout2 外掛安裝程式\n2. 執行安裝程式，然後透過 OBS > 工具 > 外掛管理員啟用外掛\n3. 在 OBS 中新增一個來源，選擇「Spout2 擷取」\n4. 在遊戲中啟用此選項\n\n詳細說明也可在遊戲內的設定介面中檢視。\n\n## 動態模糊範例\n\n![範例1](https://github.com/ItsPasi/natural-motionblur-fabric/raw/1.20.6/docs/blur%20example.png)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Dxp989uGeBQ\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n_本模組感謝 IMS、What42Pizza 與 Romain H. 的協助製作。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

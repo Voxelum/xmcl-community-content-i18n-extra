@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uvkte58tR5Q=",
+  "content": "<h2>平滑启动</h2><h2><span style=\"color:#fff\"><strong><span style=\"color:#34495e\"><span style=\"color:#ced4d9\">如果您未找到所需模组版本，可在我的Modrinth页面查找。</span> <span style=\"color:#236fa1\"><a style=\"color:#236fa1\" href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsmooth-boot\" target=\"_blank\" rel=\"nofollow\">链接</a></span></span></strong></span></h2><p>&nbsp;</p><p>本模组优化了《我的世界》的CPU调度机制。作为Smooth Boot（重载版）的非官方分支版本，新增了对新游戏版本的支持。</p><p>该模组通过重新配置游戏的任务执行器来提升加载效率。默认情况下，这些执行器会在多线程上运行密集的启动任务，经常导致CPU占用率飙升。平滑启动通过调整关键执行器参数（包括线程数量和优先级）来优化此过程，确保工作负载更均衡高效。</p><p>原始模组：&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsmooth-boot-reloaded\" rel=\"nofollow\">https://modrinth.com/mod/smooth-boot-reloaded</a></p><p>原始作者：&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fuser%252fAbdElAziz\" rel=\"nofollow\">https://modrinth.com/user/AbdElAziz</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

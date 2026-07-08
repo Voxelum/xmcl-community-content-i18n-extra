@@ -1,0 +1,6 @@
+{
+  "bodyHash": "suTZ0/3i5/s=",
+  "content": "<p>Мод, который заставляет Torchflower (новый цветок в 1.20) светиться в темноте</p>\n<p>Работает лучше, если установлен как на сервере, так и на клиенте</p>\n<p><img src=\"https://raw.githubusercontent.com/NikitaCartes/Glowing-Torchflower/refs/heads/fabric-1.21.2/screenshot.png\" alt=\"screenshot.png\"></p>\n<p>Также ознакомьтесь с моим модом <a href=\"https://www.curseforge.com/minecraft/mc-mods/glowing-eyeblossom\" target=\"_blank\" rel=\"nofollow\">Glowing Eyeblossom</a>!</p>\n<h3>Уровень освещённости</h3>\n<ul>\n<li>Torchflower: 12</li>\n<li>Torchflower в горшке: 14</li>\n<li>Культура Torchflower, маленькая: 3</li>\n<li>Культура Torchflower, средняя: 7</li>\n<li>Культура Torchflower, большая: 12</li>\n</ul>\n<h3>Конфигурация</h3>\n<p>Вы можете изменить уровень освещённости Eyeblossom в файле конфигурации.<br>\nФайл конфигурации находится по пути <code>&lt;папка игры&gt;/config/GlowingTorchflower/main.conf</code>.</p>\n<p><a href=\"https://discord.gg/UY4nhvUzaK\" target=\"_blank\" rel=\"nofollow\">Discord</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

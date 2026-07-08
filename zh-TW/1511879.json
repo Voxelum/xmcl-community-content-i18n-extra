@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0iRMjE4BjwE=",
+  "content": "<h1>OmniPerf - 1.21 效能修復</h1><p>Minecraft 常常在你意想不到的地方掉幀。OmniPerf 是一款輕量級模組，能清除背景渲染，讓遊戲運行起來更加流暢。</p><p><strong>功能說明：</strong>本模組優化引擎處理文字渲染及 UI 更新的方式。聽起來可能影響不大，但它能防止在熱鬧大廳或遊玩大型模組包時發生的「微卡頓」。它能簡化內部幀時間管理，確保你的 CPU 與 GPU 更有效率地協同運作。</p><p><strong>特色：</strong></p><ul>\n<li>\n<p><strong>FPS 提升：</strong>改良後的幀時間邏輯能帶來顯著的效能躍進。啟動遊戲後看看 F3 畫面就知道。</p>\n</li>\n<li>\n<p><strong>內建變焦：</strong>內建可自訂的變焦按鍵，即使在縮放過程中也能保持畫面流暢。</p>\n</li>\n<li>\n<p><strong>完全相容：</strong>可與 Sodium、Iris 及其他主要效能模組完美搭配使用。</p>\n</li>\n</ul><p><strong>安裝方式：</strong>只需將 .jar 檔案放入 mods 資料夾即可。無需複雜設定——一切功能在遊戲啟動時便自動啟用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

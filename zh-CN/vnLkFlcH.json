@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8vQbupCZzNE=",
+  "content": "## 功能特性\n- 解除玩家NBT操作限制\n\n## 命令列表\n\n为数据包/命令制作者提供的实用指令\n\n`/absorption (实体) get|add|set`：控制实体的吸收生命值，或获取当前值。\n\n`/fire (实体) get|add|set`：控制实体的燃烧时间，或获取当前值。\n\n`/freeze (实体) get|add|set`：控制实体的冰冻时间（细雪效果），或获取当前值。\n\n`/gravity (实体) on|off`：切换实体的重力状态。\n\n`/invulnerable (实体) on|off`：切换实体的无敌状态。\n\n`/motion (实体) add|set|forward`：为实体施加运动力。`forward`选项会根据实体朝向计算方向。\n\n`/player_abilities fly|flyspeed|walkspeed|instantBreak|allowBuild`：修改玩家能力。\n    `instantBreak`：切换创造模式般的秒破方块（可能失效）\n    `allowBuild`：切换方块放置权限。可使冒险模式放置方块，或禁止创造模式放置方块。\n\n`/heal (实体)`：治疗目标实体。\n\n`/food (实体) hunger|saturation add|get|set`：控制玩家的饥饿值或饱食度\n\n`/fallfly`：使玩家进入滑翔坠落状态（鞘翅飞行）。建议每游戏刻重复执行以实现持续滑翔。\n\n`/cooldown (玩家) (物品) (冷却时间)`：设置物品使用冷却（如盾牌、末影珍珠、紫颂果）\n\n`/motionupdate (玩家)`：立即更新玩家运动值。对`/data merge`指令特别有用。\n\n`/explosion (坐标) (强度) (引爆者) (是否着火) (爆炸类型)`：制造爆炸！\n可省略`引爆者`、`是否着火`、`爆炸类型`参数简化使用。\n\n`/cameraset (目标)`：以任意游戏模式无限制旁观目标实体。\n\n`/hotbar (目标) (数字)`：设置目标玩家当前选中的快捷栏位。\n\n`/rotate (目标) add|set (数值)`：不触发传送直接设置/增加目标实体的旋转角度\n\n`/damagetilt (目标) (数值)`：模拟受伤效果倾斜目标玩家的视角\n\n`/ptime (目标) (时间)`：设置目标玩家个人视角的时间\n\n`/timeflow (目标) rate|freeze (数值|布尔值)`：设置目标实体的游戏刻流速",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

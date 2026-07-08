@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Wcgh7HEV6n8=",
+  "content": "這個模組讓你可以直接在物品欄中開啟界伏盒。  \n只需在物品欄中右鍵點擊界伏盒即可打開它。  \n按住潛行鍵可以放置界伏盒。\n\n![](https://media.giphy.com/media/U8eGzAY8suFpuAyMQv/giphy.gif)\n\n## 安裝說明\n\n### *2.x.x 及後續版本*\n\n只需在伺服器端安裝此模組即可使用，但客戶端也可選擇性安裝以獲得更好的體驗。\n\n### *1.x.x 版本*\n\n必須同時在 **伺服器端和客戶端** 安裝此模組才能正常運作。\n\n## 設定選項\n\n### *2.x.x 及後續版本*\n\n設定檔位於 `config/shulkerbox/shulkerbox.properties`。\n\n### *1.x.x 版本*\n\n設定檔位於世界資料夾內的 `serverconfig` 子資料夾中，檔名為 `shulkerbox-server.toml`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

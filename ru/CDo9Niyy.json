@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZfnTHh6HYhU=",
+  "content": "<p align=\"center\">\n\n  <img src=\"https://raw.githubusercontent.com/Scherso/NotSoEssential/main/.github/NOTSOESSENTIAL.svg\">\n\n</p>\n\n## Руководство по установке\n\n1. **Установите Minecraft 1.8.9, 1.12.2, 1.16.5 и выше.**\n2. **Установите [Forge Mod Loader][forge] или [Fabric Mod Loader][fabric].**\n3. **Поместите мод в вашу директорию `minecraft/mods`.**\n4. **Если хотите, [создайте мод самостоятельно][build].**\n\n## Особенности\n\n<h4 align=\"left\">\n\n- Удаляет окно выбора игрока в главном меню.\n- Удаляет окно выбора игрока в меню паузы.\n- Удаляет опцию приглашения друзей.\n- Удаляет все косметические элементы и соответствующие настройки.\n- Удаляет уведомления.\n- «Основные настройки...» удалены и заменены на «Настройки Snooper...».\n- Удаляет индикатор вкладок и тегов с именем.\n- Удаляет возможность подключения Essential к внешним серверам, например, сбор данных для телеметрии.\n</h4>\n\n[forge]: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html\n[fabric]: https://wiki.fabricmc.net/install\n\n[build]: https://github.com/Scherso/NotSoEssential/wiki/Build-With-Gradle\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

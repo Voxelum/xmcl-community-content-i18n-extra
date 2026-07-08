@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FMK1187cuVk=",
+  "content": "<p>Forge伺服器相容性檢查器並非總是準確，有時會導致模組包使用者新增伺服器時，顯示不相容的錯誤訊息。</p><p>這個模組能解決模組包使用時的問題，它會比較模組包作者在設定檔中設定的模組包專案ID與模組包版本ID，相符時顯示打勾圖示，不相符時則顯示叉叉圖示。</p><p>&nbsp;</p><p>伺服器與客戶端皆運行相同版本</p><p><img src=\"https://media.forgecdn.net/attachments/415/879/javaw_2021-12-14_17-06-22.png\" width=\"854\" height=\"480\"></p><p>伺服器或客戶端版本不相容</p><p><img src=\"https://media.forgecdn.net/attachments/415/880/javaw_2021-12-14_17-07-11.png\" width=\"854\" height=\"480\"></p><h4>&nbsp;</h4><h3>如何設定這個模組？</h3><p>&nbsp;</p><p>設定方式非常簡單，首先開啟config資料夾中的bcc-common.toml檔案，接著設定模組包名稱與模組包版本，儲存後即完成。</p><p>請記得在更新模組包時一併更新版本設定。</p><p>&nbsp;</p><p><strong>注意：</strong>Fabric版本的設定檔名稱為bcc.json</p><p>&nbsp;</p><h3>如果伺服器未安裝此模組，但客戶端有安裝會發生什麼事？</h3><p>此模組會先檢查是否已設定必要資料，若未設定，則會回退到預設的Forge實作方式。</p><p>&nbsp;</p><h3>我可以在Modrinth模組包中使用這個模組嗎？</h3><p>只要最終使用者是從CurseForge下載此模組，您就可以將其收錄在Modrinth模組包中。</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>除特別聲明外，所有權利均予保留。已授權FeedTheBeast與CurseForge於模組包中使用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

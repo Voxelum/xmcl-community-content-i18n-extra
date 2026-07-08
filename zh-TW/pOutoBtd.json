@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FznC3tYKvJ8=",
+  "content": "此模組為相容性修復，讓「凋零怪：重生」與「Epic Fight」能夠同時運行而不會崩潰。\n\n一般情況下，同時安裝 Epic Fight 與凋零怪：重生時，嘗試復活凋零怪 Boss 可能會因為實體與戰鬥系統衝突而導致遊戲崩潰。\n本模組透過妥善處理兩個模組之間的互動，解決這些問題，確保 Boss 召喚與戰鬥過程穩定。\n\n功能特色：\n\n修復安裝 Epic Fight 時復活凋零怪導致的崩潰問題\n確保凋零怪：重生與 Epic Fight 之間完全相容\n不影響遊戲玩法 — 僅提升穩定性與相容性\n輕量化，可安全加入現有存檔\n\n所需模組：\n\n凋零怪：重生\nEpic Fight\n如果你正在使用 Epic Fight，又想在無崩潰的狀況下享受凋零怪：重生提供的強化凋零怪體驗，那麼這個模組正是為你設計的。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

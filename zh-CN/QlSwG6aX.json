@@ -1,0 +1,6 @@
+{
+  "bodyHash": "s5zTLAVGnNo=",
+  "content": "<div align=\"center\">\n    <a href=\"https://github.com/vesmaybevesper/Extended-Weather-Radius\">\n    <img src=\"https://cdn.modrinth.com/data/cached_images/0197a0dce279690de37a1f899b3d25edf9d3bac2.png\" alt=\"像素画风格GitHub标志\" width=\"7%\">\n  </a>\n    <a href=\"https://ko-fi.com/vesmaybevesper\">\n    <img src=\"https://cdn.modrinth.com/data/cached_images/8a0c2971228a3266c56e4dcdeef1229af0974192.png\" alt=\"像素画风格Ko-Fi标志\" width=\"7%\">\n  </a>\n</div>\n\n\n<p align=\"center\">提高「天气效果半径」选项的可调上限。</p>\n\n<p align=\"center\">原版《我的世界》中，天气粒子的默认最大半径与实际显示效果之间，在我看来仍有不小的视觉提升空间。本模组通过增大「天气效果半径」选项的最大值来改进这一点。</p>\n\n## 常见问题解答\n\n- 为什么上限是15？\n  - 目前对这项数值设定了若干限制；15是无需过多调试便可稳定使用的最大值。未来有望进一步提高上限。\n\n- 会影响性能吗？\n  - 几乎必然会有影响。虽然未进行精确测试，但请注意：每增加一个单位的半径，就会额外生成对应多个方块范围的粒子数量。\n\n- 会影响其他模组吗？\n  - 如果它们使用的是原版天气效果半径设置，则会有影响。\n\n<a href=\"https://billing.sparkedhost.com/aff.php?aff=3146\"><img src=\"https://cdn.modrinth.com/data/cached_images/dc9280455e1c94978a408dde3d6785bce2a4503d_0.webp\" alt=\"Spark Hosting推广横幅。黄色背景上印有黑色文字「我的世界服务器托管特惠」。另一处文字框内显示「使用优惠码vesmaybevesper享75折优惠」\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HIfHb4sEX58=",
+  "content": "厭倦了等待 `/locate biome` 或 Nature Compass 完成掃描，甚至讓伺服器當機嗎？\n\n**Biome Spy** 重新改寫了生態域搜尋演算法，將生態域定位時間**減少高達 97%**，結構定位時間**減少高達 90%**\n\n本模組假設世界生成時所使用的五種雜訊函數**與高度無關**，因而能在不影響準確性的情況下大幅減少搜尋計算量（仍可搜尋洞穴生態域）。\n\n✅ 支援 **TerraBlender** 與 **AlexsCaves** 生態域  \n🧭 已在 **All The Mods 10** 模組包中測試驗證  \n⚡ 不改變世界生成、無需任何設定——純粹加速。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

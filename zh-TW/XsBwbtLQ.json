@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8VqWvHSsUik=",
+  "content": "![armsrace logo](https://cdn.modrinth.com/data/cached_images/94c7c54ee549e6310e8aac8e630beed3b855d217.png)\n\n# 🔫 軍備競賽 (小型遊戲模組)\n**⚠️ 測試版** *此模組目前處於早期開發階段。核心機制已可運作，但與其他模組的完整相容性仍在測試中。非常感謝您的錯誤回報與意見回饋！*\n\n歡迎來到 **軍備競賽** — 一款為 NeoForge 打造的、完全可自訂、適合伺服器端的小型遊戲模組！\n\n將經典的「槍戰遊戲」體驗帶到您的 Minecraft 伺服器。玩家互相戰鬥以升級他們的武器。第一位用清單上最後一件武器擊殺對手的玩家即可贏得比賽！\n\n此模組是獨立的核心。它依賴於原版機制，這意味著原則上它可以指定任何物品作為武器（原版劍、弓等）。\n\n### ✨ 目前功能\n*   **自訂競技場：** 透過簡潔的 JSON 設定檔建立多個競技場。\n*   **隊伍支援：** 設定自由混戰或團隊死鬥模式。\n*   **自訂武器與護甲階梯：** 使用物品 ID 定義您自己的進度清單。您可以為每個等級設定自動裝備護甲與額外物品（如彈藥或盾牌）！\n*   **動態 UI：** 內建簡潔計分板，用於追蹤擊殺數、大廳狀態與熱身計時器。\n*   **安全環境：** 可設定的方塊破壞保護與重生點管理。\n\n### 📜 指令（設定需要 OP / 權限等級 2）\n*   `/armsrace create <template_id>` - 根據設定檔模板建立一個大廳。\n*   `/armsrace join` - 加入一個可用的大廳。\n*   `/armsrace leave` - 離開當前大廳。\n*   `/armsrace start` - 強制開始遊戲（跳過熱身階段）。\n*   `/armsrace stop` - 停止遊戲並刪除大廳。\n*   `/armsrace setteam <玩家> <隊伍ID>` - 將玩家移動到指定隊伍。\n*   `/armsrace reload` - 重新載入 JSON 設定檔，無需重啟伺服器！\n\n### 🛠️ 設定指南\n當您第一次執行此模組時，它會在 `config/armsrace_arenas.json` 產生一個進階的預設設定檔。\n\n此設定檔允許深度自訂武器、隊伍重生點、護甲進度，甚至是特定的物品欄欄位！\n如何設定設定檔 - 完整說明請參閱 [wiki](https://github.com/aleksti21/ArmsRace/wiki/1.-Home)\n\n#### [贊助我 ❤️](https://pay.cloudtips.ru/p/dfeb976c)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

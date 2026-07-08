@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fUbWj/WIgA0=",
+  "content": "Бывало ли у вас так, что дверь была сломана из-за Зомби, который просто не мог удержать руки подальше от неё?\n\nТеперь у них появился новый объект раздражения — свет!\n\nВ настоящее время они будут искать следующие источники света и стараться избавиться от них, если смогут:\n- minecraft:torch\n- minecraft:wall_torch\n- minecraft:lantern\n- minecraft:shroomlight\n- minecraft:redstone_lamp\n- minecraft:campfire\n- minecraft:beacon\n\nСписок в настоящее время жёстко закодирован, потому что я пока не представляю, как создать полноценную систему конфигураций (пока что).\n\n![](https://user-stats.itssimple.se/p/q230LH5oE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

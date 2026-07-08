@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ak5NVJnUaqY=",
+  "content": "<h1>非安全世界隨機存取偵測器 (Fabric)</h1><p>這是一個偵測非安全跨執行緒世界隨機存取的模組，\n協助找出「從多個執行緒存取 LegacyRandomSource」崩潰的原因。</p><p>這對於尋找帶有 <code>從多個執行緒存取 LegacyRandomSource</code> 的神祕崩潰原因非常有用。<br>\n這<strong>並非</strong>問題的修復方案，但將協助您找出問題的根源。</p><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/uwrad-forge\" rel=\"nofollow\">尋找 Forge 版本？</a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/uwrad-neoforge\" rel=\"nofollow\">尋找 NeoForge 版本？</a></p><p><img src=\"https://media.forgecdn.net/attachments/616/751/uwrad.png\" alt=\"範例\"></p><p>注意：若您已使用 C2ME，則無需此模組（但同時使用也不會導致崩潰）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VEErgOW8Dxc=",
+  "content": "# 高级备份\n\n高级备份是一款功能强大且可配置的备份模组，附带命令行恢复工具。\n\n支持多种 Minecraft 版本和模组加载器 - 如果未支持你想要的版本，请提出请求。\n\n<details>\n<summary>SPIGOT/PAPER 注意事项:</summary>\n\n已知问题：当服务器软件或插件组合将末地/下界维度移出主世界目录时，这些维度会被备份。\n\n虽然我不理解这种做法 - 但它很常见，因此正在开发修复以确保这些维度被备份。\n\n目前，你可能希望考虑使用其他备份解决方案。\n</details>\n\n## 功能：\n- 内置于 jar 文件中的命令行恢复工具，附带运行它的辅助脚本\n- 可选的差异或增量备份，以减少备份大小同时保留相同数据\n- 广泛的配置选项，用于控制计划、日志记录、活动要求等\n- 三种不同的自动清除选项 - 完全控制备份删除时间\n- 基于命令的“快照”，不受自动清除影响\n- 客户端通知 - 当备份发生时收到通知。可以在客户端或服务器端禁用，并限制为管理员或允许所有玩家\n- 设置备份之间的最短或最长时间 - 避免本地世界的常见问题场景\n\n## 常见问题：\n- 客户端通知如何在 Spigot 服务器上工作？\n\n  - 客户端需要安装 Forge、Neoforge 或 Fabric 版本的模组才能看到通知。即使在使用 Spigot 服务器时也能正常工作。\n- 如果自上次备份以来没有人上线，会进行备份吗？\n  - 默认情况下不会。如果需要，可以在配置中更改。\n- 模组可以仅在服务器端运行吗？\n  - 可以，模组可以在服务器端完全运行 - 客户端安装仅用于查看备份通知。\n- 如何运行命令行工具？\n  - 备份文件夹中提供了脚本，或者你可以使用 `java -jar` 运行它。需要在 PATH 中安装 Java。\n  - 有关更多信息，请参阅备份文件夹中的自述文件。\n\n## 链接：\n- [Github](https://github.com/HeatherComputer/AdvancedBackups/)\n- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/advanced-backups/)\n- [Modrinth](https://modrinth.com/mod/advanced-backups)\n- [Hangar](https://hangar.papermc.io/HeatherWhite/AdvancedBackups)\n- [M.O.S.S. Discord](https://discord.gg/PHpuzZS)\n- [Mod Discord](https://discord.gg/SxN7JtzUyX)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

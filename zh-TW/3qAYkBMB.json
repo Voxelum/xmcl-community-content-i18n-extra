@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AKcdSMqL2NI=",
+  "content": "# PolyTone\n\n## 📖 關於 📖\n\nPolytone 是一款客戶端自訂模組，可透過資源包調整遊戲中的各種面向。\n\n本模組在[維基](https://www.curseforge.com/minecraft/mc-mods/polytone)上有詳盡的文件說明，其中還包含一個範例資源包。\n\n若有疑問，歡迎隨時與我聯繫，並請記得將 Polytone 加入你資源包的選用依賴項目中。\n\n主要功能包括：\n\n* 自訂光源地圖 🌅\n* 生態域變體紋理 🦋\n* 自訂客戶端音效 🎵\n* 自訂客戶端粒子 ✨\n* 移動 GUI 欄位 🗓️\n* 新增 GUI 元素 📒\n* 自訂染料顏色 🖌️\n* 自訂地圖顏色 🗺️\n* 變更方塊音效 🪅\n* 自訂方塊色調圖 🎨\n* 自訂粒子顏色 🍭\n* 方塊偏移類型 📐\n* 流體色調圖 🍸\n* 自訂生態域顏色 🌄\n* 變更生怪蛋顏色 🐣\n* 自訂天空顏色 🌈\n* 註冊音效事件 🔔\n\n還有更多功能！\n\n它也向下相容 Optifine 先前提供的 color.properties 系統，讓既有資源包的相關功能也能正常運作。\n\n本模組設計為盡可能快速且輕量，同時保留最大的自訂性。\n\n它不僅取代了 color.properties 系統，還提供了更多先前無法實現的功能與自訂選項。\n\n## 🍭 自訂顏色 🍭\n\n此頁面建置中，請參考維基：https://github.com/MehVahdJukaar/polytone/wiki\n\n## 🪅 自訂方塊屬性 🪅\n\n此頁面建置中，請參考維基：https://github.com/MehVahdJukaar/polytone/wiki\n\n## 🏝️ 自訂生態域效果 🏝️\n\n此頁面建置中，請參考維基：https://github.com/MehVahdJukaar/polytone/wiki\n\n歡迎在您的資源包中使用此橫幅，並請在下方留言區分享您的創作！\n![Polytone 橫幅](https://cdn.modrinth.com/data/cached_images/4e82d3fb3564d63776112b8f8864d6ca036d7e4d.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "n4uxgU1l1rs=",
+  "content": "![RaftCraft Create & VS2+Eureka](https://cdn.modrinth.com/data/cached_images/55c7728369410ca2b417beb4be8bda0c2d7a3beb.png)\n\n_**RaftCraft** 是一个融合探索、生存与创造的整合包。借助 **Valkyrie Skies 2** 与 **Eureka** 驾驶定制船只航行，通过 Create 模组建造机械与自动化系统。_\n\n----------\n\n![特色](https://cdn.modrinth.com/data/cached_images/10c1f5d924d585e04970e7a64bc877b08cb82424.png)\n\n✅ [Valkyrien Skies 2](https://modrinth.com/mod/valkyrien-skies) + [Eureka](https://modrinth.com/mod/eureka) + [Create](https://modrinth.com/mod/create-fabric)\n\n✅ 全面优化的原版加强世界（[Towns and Towers](https://modrinth.com/mod/towns-and-towers)、[Complementary Shaders](https://modrinth.com/shader/complementary-reimagined)、Terralith、YUNG's 模组系列）\n\n✅ +++ 海量优化与实用模组，包含 Mod Menu、JEI 等！\n\n\n\n------------\n\n\n\n**提示/额外信息**\n\n\n- 组装船只时，确保其仅与水和空气接触，与其他方块保持 2-3 格安全距离。船只浸入水中不超过一格，否则易与海草等碰撞。船底避免放置楼梯或半砖，以防水体产生错误。\n\n- 移动船只上的 Create 动态结构不推荐使用，可能导致视觉异常。\n\n\n- 不使用时请拆解船只，有助于减轻服务器压力。\n\n\n- 启用光影并运行 Create 动态结构时，帧率将降低 30%-50%（极高画质下），建议避免同时拥有过多移动/超级粘液结构，或调整光影画质/性能设置。同时请用岩浆烧毁所有无用物品，或安装 [Leaky](https://www.curseforge.com/minecraft/mc-mods/leaky) 模组。\n\n- 自动备份由 [Textile Backup mod](https://modrinth.com/mod/textile_backup/versions) 管理，可有效防止因 VS2 模组问题（如错误组装船只）导致的存档损坏。\n\n- 辅助火炮模组运行正常，别忘了在船上试试它们。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

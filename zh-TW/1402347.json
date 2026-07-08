@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TKQ9LeHAOOk=",
+  "content": "<p>這是一個專為 Forge 1.20.1 設計的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/oculus\" target=\"_blank\" rel=\"nofollow\">oculus</a> 分支版本，而 oculus 本身又是從 fabric 版的 iris 分支而來。<br><br>此版本的 oculus 是專為 Au Naturel 5 模組包打造的，旨在揭露該模組包中各種模組的更多內部機制，讓著色器開發者能夠利用特定的遊戲機制與內部系統。雖然我盡量在基本相容性上保持最低限度的責任感，但它並非明確設計為 oculus 的通用替代版或分支版本。然而，我並不追求與 Au Naturel 模組包以外的任何模組相容，且作為該模組包的作者，我也可能隨技術需求或一時興起，任意進行破壞性更新或更換模組。若考慮將此版本 oculus 用於一般用途，請務必格外謹慎。若在不支援的環境下發生問題，請勿抱怨。</p><p>在此版本中，最初的目標是揭露季節與日期資訊、世界溫度及玩家體溫等變數（例如來自 cold sweat 模組的數據），並以 Au Naturel 設定的世界維度為基準，讓著色器能針對這些模組特定機制開發對應視覺效果。</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fB8fTfwnqnz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/1066205/description_02ede751-f9cb-491c-b12f-539c6dd947d7.png\"></a></p><p>歡迎加入 Discord 討論回饋、問題、疑問與建議。</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

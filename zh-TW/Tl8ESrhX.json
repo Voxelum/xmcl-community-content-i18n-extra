@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WELguUJ+xPw=",
+  "content": "# 注意：Minecraft 1.21+\n我花費時間徹底重新設計了專案結構，讓我能更輕鬆支援不同的模組載入器（感謝 jaredlll08 提供的超實用多載入器模板）。從 MC 1.21 開始，火炬大師將支援 Neoforge 和 Fabric。\n\n兩個版本皆屬於實驗性質，僅經過初步測試。若遇到任何問題，請至 GitHub 回報。\n\n## 火炬大師\n新增一種特殊火炬，能在可設定的半徑內阻止怪物生成。\n\n原始概念來自 RWTema（Extra Utilities 1）\n\n注意：此火炬僅能阻擋因低光源產生的「自然」生成。生怪磚仍應正常運作。我已為原版生怪磚加入特殊處理機制，其他模組的生怪磚理論上也能正常運作！若發現某個模組與巨型火炬不相容，請在我的 GitHub 儲存庫開立問題回報。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

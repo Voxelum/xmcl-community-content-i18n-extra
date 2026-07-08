@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0/9X9j6lXME=",
+  "content": "<p>用於輕鬆實現 SuperbWarfare 載具塗裝的函式庫。</p><p><strong>ColorableLib</strong> 是一個輕量級函式庫，專門為 <strong>SuperbWarfare</strong> 的附加內容而設計。<strong>ColorableLib</strong> 基於 Capability 邏輯，實現了管理引擎與自動伺服器-用戶端同步，同時也修改了 <strong>SuperbWarfare</strong> 的載具渲染器。</p><pre><code>import colorable.capability.EntityColorCapability;\nimport net.minecraft.world.entity.Entity;\n\n/**\n * ColorableLib API 的使用範例。\n */\npublic class ColorableExample {\n\n    /**\n     * 示範如何操縱實體的顏色圖層。\n     * \n     * @param targetEntity 要進行塗裝的實體（必須支援該 Capability）。\n     * @param color        顏色的十進位或十六進位值（例如 0xFF0000 代表紅色）。\n     */\n    public void exampleMethod(Entity targetEntity, int color) {\n        // 取得目標實體的顏色 Capability\n        targetEntity.getCapability(EntityColorCapability.CAPABILITY).ifPresent(cap -&gt; {\n            if (!targetEntity.level().isClientSide) {\n                \n                // 新增或更新特定的顏色圖層\n                cap.setLayer(targetEntity, \"example_id\", color);\n\n                // 移除指定的圖層\n                cap.removeLayer(targetEntity, \"example_id\");\n            }\n        });\n    }\n}</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

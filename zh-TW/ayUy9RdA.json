@@ -1,0 +1,6 @@
+{
+  "bodyHash": "r5S8ipYbW+Y=",
+  "content": "# 投射物偏轉附魔\n\n## 📖 描述\n\n投射物偏轉是一種新的胸甲附魔，可以保護你免受投射物的傷害！\n\n這個附魔可以從附魔台、戰利品箱或與村民交易中獲得。\n\n## ⌨️ 指令\n\n給予：\n\n```mcfunction\n/loot give @s loot projectile_deflection_enchantment:projectile_deflection\n```\n\n附魔：\n\n```mcfunction\n/enchant @s projectile_deflection_enchantment:projectile_deflection\n```\n\n## 🪪 授權\n\n[AGPL-3.0-or-later](https://github.com/lullaby6/data-packs/blob/main/LICENSE)\n\n## 👾 錯誤/問題\n\n請在 [Discord 伺服器](https://discord.gg/5UdcDa5xNC) 中回報任何問題/錯誤/疑難。\n\n## 📃 致謝\n\n感謝 [ALDGamer](https://modrinth.com/user/ALDGamer) 協助製作圖示！\n\n## 💌 贊助\n\n- [在 Ko-Fi 上贊助](https://ko-fi.com/lullaby45743)\n- [在 PayPal 上贊助](https://www.paypal.com/paypalme/lucianobrumer)\n\n## 🎁 伺服器託管\n\n建立自己的伺服器可能是個非常耗時、繁瑣且昂貴的過程。\n\n但透過 BisectHosting，你只需點擊幾下就能擁有自己的伺服器！憑藉他們 24/7 的支援和快速回應時間，沒有任何問題能阻擋你！\n有興趣嗎？那我們有個優惠給你！\n\nhttps://bisecthosting.com/lullaby\n\n![伺服器託管](https://www.bisecthosting.com/partners/custom-banners/e840cd99-59f6-4b27-b542-3023cd08bdfe.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

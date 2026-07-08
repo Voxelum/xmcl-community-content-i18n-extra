@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sJVjP9mFchs=",
+  "content": "# 哭泣天使模組\n\n![哭泣天使標誌](https://raw.githubusercontent.com/Suff99/Weeping-Angels/1.16/src/main/resources/logo.png)\n\n哭泣天使是一款Minecraft模組，將《神秘博士》中的經典生物加入遊戲。此模組最初由a_dizzle為Minecraft 1.5.2版本開發，當前版本是對原版模組的致敬之作。\n\n## 特色功能\n\n-   哭泣天使會將你隨機傳送至不同維度的隨機位置，包括其他模組和資料包添加的維度\n-   「時空探測器」物品會在天使靠近時發出警報\n-   完全兼容Vivecraft虛擬實境模組\n-   哭泣天使只能透過鎬子造成傷害，或使用時間能量生成器徹底消除\n-   支援完整設定選項，可根據喜好自訂模組行為\n\n## 安裝說明\n\n1.  確保已安裝[Minecraft Forge](https://files.minecraftforge.net/)或[Fabric](https://fabricmc.net/use/installer/)框架\n2.  從[發佈頁面](https://modrinth.com/mod/weeping-angels/versions)下載最新版本模組\n3.  將下載的`.jar`檔案拖放至Minecraft目錄中的`mods`資料夾\n\n## 設定配置\n\n開啟Minecraft目錄中的`config/weeping_angels-common.toml`/`config/weeping_angels-client.toml`檔案進行設定。可自訂哭泣天使的行為模式，包括是否允許跨維度傳送玩家等功能。\n\n## 錯誤回報\n\n使用模組時若遇到任何問題，請至此[連結](https://github.com/Suff99/Weeping-Angels/issues)回報。\n\n## 授權條款\n\n本模組採用AGPL授權協議，詳見[授權文件](https://github.com/Suff99/Weeping-Angels/blob/architectury/1.19/LICENSE)。\n\n## 伺服器贊助\n<center>\n  <a href=\"https://www.bisecthosting.com/clients/aff.php?aff=3107\">\n    <img src=\"https://mc.craig.software/media/angels_sponser.png\" alt=\"Bisect贊助\">\n  </a>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

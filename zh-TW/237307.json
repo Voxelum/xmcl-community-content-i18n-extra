@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MlXqeZgtkKo=",
+  "content": "<p><span style=\"font-size:18px\"><strong>此模組必須同時安裝在客戶端與伺服器端，才能在多人遊戲中正常運作。</strong></span></p><p>&nbsp;</p><p>這個模組是我重新修改的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor\" rel=\"nofollow\">Cosmetic Armor</a> 版本，適用於 <strong>Forge</strong>。</p><p>原始模組存在一些錯誤，且採用 MIT 授權。作者一直未修復這些問題，所以我決定打造屬於自己的版本。</p><p>&nbsp;</p><p>此模組讓你能穿戴兩套盔甲：一套用於外觀顯示，另一套用於實際功能。</p><p>你也可以隱藏盔甲，直接顯示你的皮膚。</p><p>針對 PVP 場合，你可以在客戶端停用此模組的功能。</p><p>&nbsp;</p><p>你可以按下按鍵（預設為「無」，需在「控制」→「物品欄」類別中自行設定），或點擊物品欄畫面中新增的按鈕（位於角色右下角，類似 Baubles 的按鈕）來開啟「裝飾盔甲物品欄」。左側為一般盔甲欄，右側則為裝飾盔甲欄。</p><p>放入裝飾盔甲欄的任何盔甲都不會對你產生實際效果，僅供外觀展示。</p><p>死亡時這些裝飾盔甲會掉落。可透過設定選項讓它們在死後保留。</p><p>裝飾欄位上的小方塊按鈕是「皮膚切換」開關。開啟時（白色），該件盔甲將完全不會顯示。</p><p>此模組也會在支援的其他模組物品欄中新增這些按鈕。當按鈕開啟（白色）時，該欄位的物品將完全不會顯示。你可以針對每個模組獨立設定是否停用此功能。</p><p>物品欄按鈕左側的小方塊按鈕是「模組停用」開關。開啟時（白色），客戶端將不會運作此模組，適用於 PVP 場合。</p><p>另有指令 <code>/clearcosarmor [player]</code> 可清除指定玩家的裝飾欄位。</p><p>指令 <code>/coshat</code> 可將主手物品與裝飾頭盔欄位的物品互換。</p><p>&nbsp;</p><p>本模組提供 API 供其他模組進行互動。</p><p>&nbsp;</p><p><del>雖然我一天內趕工完成了程式碼，</del> 可能仍有問題存在，歡迎向我回報。</p><p>&nbsp;</p><p>致謝：</p><p>dmillerw - 原始作者</p><p>azanor - 從 Baubles 學習的部分程式碼</p><p>izuminya - 按鈕圖示</p><p>Deph0 與 sblectric - 在我缺席時的支援</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

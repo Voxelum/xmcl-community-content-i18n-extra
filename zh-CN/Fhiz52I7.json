@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ySSLDhqLXgY=",
+  "content": "将 [Angling](https://modrinth.com/mod/angling) 模组中的功能移植过来，由 [EightSidedSquare](https://modrinth.com/user/EightSidedSquare) 开发，该功能使玻璃旁的水不会呈现蓝色渲染（作为客户端 ~~模组~~ 资源包），从而改善鱼缸和水下窗户的视觉效果。\n\n![一个清澈无蓝水的鱼缸](https://cdn.modrinth.com/data/Fhiz52I7/images/7a8b21c49ebbf337d534d0f6359f501d7eed9d55.png)\n\n与连接玻璃模组/资源包配合良好。\n\n## 鸣谢\n\n原始创意来自 [EightSidedSquare](https://modrinth.com/user/EightSidedSquare)。\n\n本模组与 Angling 无关。**请勿将有关 AAP 的任何问题报告给 Angling。**\n\n<details>\n\n<summary>[已过时] 模组说明</summary>\n\n## 详情\n\n默认包含 `#c:glass_blocks` 中的所有方块。此外，还支持半透明玻璃方块（如 Create 模组中的玻璃门和玻璃活板门），只需将其添加到 `#anglingaquariumport:sided_glass_blocks` 中即可。\n\n## 兼容性\n\n与 [Sodium](https://modrinth.com/mod/sodium) 兼容。**请将渲染问题报告给 [AAP 的问题跟踪器](https://github.com/ThePotatoArchivist/AnglingAquariumPort/issues)，而非 Sodium。**\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

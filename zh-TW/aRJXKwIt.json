@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uJnv0N2sIcw=",
+  "content": "為 Minecraft 多人遊戲提供 **Zstd 高壓縮率資料流**，取代原版 Zlib 壓縮，顯著降低頻寬使用。支援客戶端 Mod + Velocity 伺服端外掛協同運作。\n\n## 運作原理\n\n客戶端與伺服端之間的所有遊戲封包在加密前被批量合併，使用 [Zstd](https://github.com/facebook/zstd) 演算法進行壓縮。相較於原版 Zlib，Zstd 在相同壓縮速度下可減少 **50%–80%** 的資料量。也支援自動訓練字典以進一步提升壓縮比。\n\n## 支援版本\n\n* Fabric：1.21.1、1.20.1\n* Forge：1.20.1\n* Neoforge：1.21.1\n* Velocity：3.4.0+\n\n## 相容性\n\n已知相容於：\n\n* ViaVersion\n* limboauth\n\n## 功能特色\n\n* **透明取代**：無縫接管原版壓縮管線，無需修改伺服端設定\n* **批量壓縮**：在 10ms 時間視窗內聚合小封包，減少 TCP 分段開銷，並使用 32MB 滑動視窗\n* **自適應跳過**：若壓縮後體積未減小，自動傳送原始批量資料\n* **即時統計 HUD**：左上角顯示 TX/RX 位元組數與壓縮率（按 F8 切換）\n* **高度可設定**：YAML 設定檔，支援壓縮等級、視窗大小、統計間隔等\n\n## 使用方法\n\n1. **Velocity**：將外掛放入 `plugins/` 目錄，重新啟動代理\n2. **客戶端**：安裝對應 Minecraft 版本的 Fabric / Forge Mod\n3. 按下 **F8** 切換 HUD 顯示\n\n## 注意事項\n\n* 客戶端與伺服端都必須安裝對應版本才能啟用 Zstd 壓縮\n* 若未偵測到 Zstd 相容客戶端，Velocity 會自動回退為原版傳輸\n* 若未偵測到 Zstd 相容伺服端，客戶端會自動回退為原版傳輸",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

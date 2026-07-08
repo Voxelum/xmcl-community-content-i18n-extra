@@ -1,0 +1,6 @@
+{
+  "bodyHash": "32JXdeYAg5A=",
+  "content": "# Видеоплёнка\n\n[Работа в процессе]\n\n[2025.12.01]\nОбновление: текущая версия (1.5.1) немного более отполирована, однако она значительно уступает тому, что я ожидаю от этого проекта. В следующем выпуске мод изменит свою текущую стратегию. Я по-прежнему пытаюсь придумать что-то, что не будет мешать серьёзным проектам, таким как Sodium.\n\n## Особенности\n\n[Скоро]\n\n### Исправленные проблемы (1.2.1)\n\n- `GL_FRAMEBUFFER_INCOMPLETE_ATTACHMENT`\n- `GL_INVALID_FRAMEBUFFER_OPERATION`\n- `GL_OUT_OF_MEMORY`\n\n## Установка\n\nВидеоплёнка публикуется на Modrinth.\n\n> ![Предупреждение](https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg) <br> Вам потребуется скачать и установить Fabric Loader, чтобы использовать этот мод. Это не требуется, если используемый лаунчер уже устанавливает загрузчик.\n\nРазместите его по следующему пути, чтобы использовать: `.minecraft/mods/videotape-[версия].jar`\n\n### Несовместимости\n\n- [Вулкан-рендерер](https://modrinth.com/mod/vulkanmod)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

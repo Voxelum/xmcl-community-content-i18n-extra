@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BPABwiEi6yg=",
+  "content": "<h1>Расширение «Лучший бой»</h1><p>Это расширение для мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus\" rel=\"nofollow\">«Лучший бой»</a> от Daedelus.<br>\nОно добавляет несколько новых функций и настроек, которые управляются исключительно с серверной стороны.</p><p>В числе особенностей:</p><ul>\n<li>Экспериментальный патч совместимости для «Лучшего боя» и RPG-инвентаря</li>\n<li>Переключаемая двухручная стойка</li>\n<li>Атаки с блокировкой движения</li>\n<li>Предотвращение прыжков во время атак</li>\n<li>Пропуск атак путём обманного движения</li>\n<li>Отключение клиентской настройки «Удерживать для атаки» в «Лучшем бою»</li>\n<li>Исключения из множителя скорости движения «movement_speed_while_attacking» в «Лучшем бою»</li>\n<li>Интеграция с <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/stamina-attributes\" rel=\"nofollow\">«Атрибутами выносливости»</a></li>\n<li>Ограничение угла наклона атак</li>\n<li>Атаки используют значение «minecraft:player.entity_interaction_range» вместо значения «attack_range» в файле weapon_attribute</li>\n</ul><p>Подробную информацию можно найти <a href=\"https://github.com/TheRedBrain/bettercombat-extension/blob/1.21.1/README.md\" rel=\"nofollow\">здесь</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

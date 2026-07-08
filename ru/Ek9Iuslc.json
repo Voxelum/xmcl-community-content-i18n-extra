@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PBg6QI1vCOA=",
+  "content": "Этот мод позволяет выделять предметы в инвентаре, фильтруя их с помощью строки поиска JEI.  \nДважды щёлкните строку поиска JEI, чтобы переключить режим выделения.  \nПоддерживаемые префиксы JEI: `@modid #tooltip $oredict %creativetab &resourceid`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

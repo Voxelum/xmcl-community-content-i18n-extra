@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/nWdFFvZhJ8=",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/7b44fe8ba6ad90bc61a7a6212da5019e1191ffd7_0.webp)\n\n這是一個程式庫模組！如果您不是開發者，不必擔心。這個模組很可能作為其他模組的依賴項存在於您的模組包中。\n\n如果您是開發者，哈囉！這個程式庫專為與我的[多版本範本模組](https://template.txni.dev/)協作而設計，我用它來從單一程式碼庫同時在 Forge 和 Fabric 平台的 1.20 及 1.21 版本上發布模組。除了我發現有用的各種隨機功能外，這個模組主要包含特定平台與版本的實作，以減少在跨版本維護專案時重複的 if/else 判斷。歡迎您使用它，但文件說明僅在我有空閒時間時才會提供。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

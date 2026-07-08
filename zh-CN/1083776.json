@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ApSWaxRZZoc=",
+  "content": "<h2>无 Satin 依赖</h2><p>原版 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fwakes\" target=\"_blank\" rel=\"nofollow\">Wakes</a> 的较新版本依赖于 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsatin-api\" target=\"_blank\" rel=\"nofollow\">Satin API</a>，这会严重影响性能。此分支将 Wakes 的 0.2.2 版本（最后一个不依赖 Satin 的版本）更新至 1.21。与原版相比，根据你安装的其他模组，帧率最多可提升 3 倍。</p><h1>Wakes</h1><h3>此模组旨在添加符合原版风格的简单水花效果</h3><p><img src=\"https://github.com/Commander07/wakes/blob/main/imgs/features_0.2.2.png?raw=true\" alt=\"水花和波浪\"></p><p><em>落入水中时的水花和模拟的波浪效果</em></p><h3>功能</h3><ul>\n<li>模拟所有实体后的波浪</li>\n<li>船桨处出现波浪</li>\n<li>落入水中时产生水花</li>\n<li>水从两侧喷出</li>\n<li>通过 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fyacl\" target=\"_blank\" rel=\"nofollow\">YACL</a>（YetAnotherConfigLib）提供可选的调试和外观配置。可通过 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodmenu\" target=\"_blank\" rel=\"nofollow\">ModMenu</a> 菜单访问。</li>\n<li>支持 Iris 光影（已知兼容性见 <a href=\"https://github.com/Commander07/wakes/blob/main/shader_compat.md\" target=\"_blank\" rel=\"nofollow\">此处</a>）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

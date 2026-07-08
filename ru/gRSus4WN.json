@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ig6Wa9Y6YSE=",
+  "content": "# Том имбуэмент\n\nПозволяет использовать таблицу имбуэйта из [Вторжения иллагеров](https://modrinth.com/mod/illager-invasion) для создания древних томов [Quark](https://modrinth.com/mod/quark).\nТомы можно создавать только с заклинаниями, которые входят КАК в тег заклинаний `illagerinvasion:imbuing`, ТАК и в конфигурацию validEnchants Quark.\n\n![preview.png](https://raw.githubusercontent.com/Partonetrain/tomeimbuement/refs/heads/main/preview.png)\n\nКроме того, есть опция конфигурации, позволяющая ограничить таблицу имбуэйта только этой функциональностью.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

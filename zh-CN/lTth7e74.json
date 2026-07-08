@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9HnoFSLowTQ=",
+  "content": "> **\"吸收效果类似于许多游戏中的护盾机制，但与其他游戏中的护盾不同，该效果无法叠加，这很奇怪。\"**  \n> \n> **\"吸收效果就相当于许多游戏中的护甲机制，但是这个效果却不像其他游戏的护甲能堆叠，真奇怪。\"**\n# 功能\n若生物在已有吸收效果时再次获得吸收效果，吸收效果等级将设为 **原效果的等级** + **新获得效果的等级**；若新获得效果的剩余时间大于原效果的剩余时间，则以新获得效果的剩余时间覆盖原效果的剩余时间。\n# 使用示例视频\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/iT7QXc-1jXM\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

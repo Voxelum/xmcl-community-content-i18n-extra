@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pneCrGzXn18=",
+  "content": "<h2>EmoteTweaks<span><br></span></h2><p>EmoteTweaks 是 EmoteCraft 的擴充模組，新增了額外功能與玩家要求的調整，以提升表情互動體驗。此分支模組將支援範圍從 Minecraft 1.16.5 擴展至 1.20.1，而原始 EmoteTweaks 僅支援 1.18.2 Fabric 版本。</p><hr><p><span>功能特色：</span></p><hr><p>表情音效：將與表情內部名稱相同的 wav 檔案放入「emotes」資料夾後，即可在觸發表情時自動播放。<br>可自訂表情快捷鍵：可為表情快捷鍵設定修飾鍵組合（Shift、Ctrl、Alt）。<br>取消 Shift 中斷功能：可選擇性地關閉個別表情的 Shift 中斷功能。</p><p><span>必要前置模組：</span></p><hr><p>EmoteCraft<br>SimpleVoiceChat</p><hr><p>感謝 RyanV 製作了原始 <a href=\"https://www.curseforge.com/minecraft/mc-mods/emotetweaks\" rel=\"nofollow\">EmoteTweaks</a> 模組。請支持原開發者的傑出作品！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

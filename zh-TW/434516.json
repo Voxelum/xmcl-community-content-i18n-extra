@@ -1,0 +1,6 @@
+{
+  "bodyHash": "U8JMqrNJhUU=",
+  "content": "<div>\n<p><span>這個核心模組是一個為我的模組添加互連功能的模組。它增加了一些合成配方並會執行一些背景任務。請注意，即使沒有這個核心模組，其他模組仍然可以運行，但我強烈建議添加此模組。此外，遊戲中還加入了一些開發者工具（僅限1.16.5版本，未來將支援更多版本）。這些工具對於一擊殺死生物或測試一些超強功能非常有用。以下是我目前所有受inzhefop核心模組支援的模組列表：<br></span></p>\n<p>&nbsp;</p>\n<p><span> <span style=\"text-decoration:underline\">支援的模組：</span></span></p>\n<ul>\n<li><span> 無盡貪婪熔爐 (1.16.5, 1.18.2) </span></li>\n<li><span>終極太陽能板 (1.16.5, 1.18.2)</span></li>\n<li><span> 簡單方塊 (1.16.5) </span></li>\n<li><span>神器：超越 (1.16.5) </span></li>\n<li><span>量子採石場Plus (1.16.5, 1.18.2) </span></li>\n<li><span>機械物質 (1.16.5, 1.18.2)</span></li>\n<li><span>龍之機械 (1.16.5)</span></li>\n<li><span>額外工具重生版 (1.16.5, 1.18.2) </span></li>\n</ul>\n<p>&nbsp;</p>\n<p><span><span style=\"text-decoration:underline\"> 新增指令（僅限1.16.5）：</span> </span></p>\n<ul>\n<li><span>\"/inzhefopcore_DevTool\"（提供用於測試功能的開發者工具） </span></li>\n<li><span>\"/inzhefopcore_version\"（顯示模組版本） </span></li>\n<li><span>\"/inzhefopcore__supported_modifications\"（顯示此模組支援的模組（與上方列表相同））</span></li>\n</ul>\n<p>&nbsp;</p>\n<p><span><span style=\"text-decoration:underline\"> 新增物品：</span> - 開發者工具（僅創造模式 1.16.5） -&gt; 一擊殺死實體<br></span></p>\n</div><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

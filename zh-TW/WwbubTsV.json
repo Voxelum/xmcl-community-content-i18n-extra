@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uIVRI+/PyFA=",
+  "content": "您的選擇權應受到尊重，本模組由「選擇權權利協會」團隊為您呈獻。\n\n這個模組只有一個簡單的功能：如果對應的設定檔不存在，就提供預設的設定選項。\n\n### 範例 1（options.txt）\n\n建立 /config/yosbr/options.txt\n在檔案中放入預設內容\n啟動遊戲！若 /options.txt 不存在，YOSBR 會將 /config/yosbr/options.txt 複製到 /options.txt\n\n### 範例 2（config/roughlyenoughitems/config.json5）\n\n建立 /config/yosbr/config/roughlyenoughitems/config.json5\n在檔案中放入預設內容\n啟動遊戲！若 /config/roughlyenoughitems/config.json5 不存在，YOSBR 會將 /config/yosbr/config/roughlyenoughitems/config.json5 複製到 /config/roughlyenoughitems/config.json5\n\n需要 Fabric Loader。（不需 API）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

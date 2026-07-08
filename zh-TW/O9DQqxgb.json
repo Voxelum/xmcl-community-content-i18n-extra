@@ -1,0 +1,6 @@
+{
+  "bodyHash": "05EskmgtdJQ=",
+  "content": "# 瓶中靈感\n\n這是一個簡單的模組，功能如其名（將靈感放入瓶中）\n\n## 安裝\n### Fabric\n你需要下載適用於你（Minecraft）版本的最新Fabric版本，並取得以下依賴模組：\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n\n## 如何使用？\n\n非常簡單...潛行 + 右鍵點擊靈感即可將其放入瓶中。\n手持「瓶中靈感」物品右鍵點擊方塊即可釋放靈感\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BPuqE1X-vN0\" title=\"YouTube影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n## 為什麼要做這個？\n\n因為這是個很棒的特色\n\n[docm77 與 xisumavoid 一致認同](https://www.youtube.com/clip/Ugkx6wkQZ17IWVnvSuL6fhBg5voR10-hA7uR)\n\n# 授權條款\n\n程式碼採用 MIT 授權條款",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

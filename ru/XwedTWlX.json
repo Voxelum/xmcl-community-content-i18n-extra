@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1dfpbM7rKMo=",
+  "content": "Этот мод добавляет спектральный подзорную трубу, которая заставит предметы, выпавшие при смерти любого существа, светиться при взгляде через неё, включая предметы, выпавшие из игрока.\n\nСпектральная подзорная труба создаётся из четырёх осколков эха, вот так:\n\n![Подзорная труба, окружённая четырьмя осколками эха, превращается в спектральную подзорную трубу](https://raw.githubusercontent.com/friedkeenan/reclamation/main/images/spectral_spyglass.png)\n\nАналогично, рецепт компаса восстановления стал менее затратным — теперь для его создания нужны только четыре осколка эха:\n\n![Компас, окружённый четырьмя осколками эха, превращается в компас восстановления](https://raw.githubusercontent.com/friedkeenan/reclamation/main/images/recovery_compass.png)\n\n## Примеры\n\nПредметы, выпавшие при смерти существа, будут светиться при взгляде через спектральную подзорную трубу:\n\n![](https://raw.githubusercontent.com/friedkeenan/reclamation/main/images/direct_glow.png)\n\nСвет будет проходить сквозь блоки:\n\n![](https://raw.githubusercontent.com/friedkeenan/reclamation/main/images/indirect_glow.png)\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "V2p65faQLFo=",
+  "content": "## YAPI: Choice Chopper\n\n> <span style=\"color:#e67e23\">一個自然延伸自 Farmer’s Delight 的模組，解決模組包問題，同時保留原作風味。</span>\n\nFarmer’s Delight 的切割系統本身運作良好。  \n然而在模組包中，許多配方常被覆蓋，導致部分產出無法取得，或實際上被隱藏在隨機性背後。\n\nChoice Chopper 透過恢復所有可能結果的存取權限來解決此問題，  \n同時維持模組原有的平衡與設計。\n\n它並非取代原有系統，  \n而是補完它。\n\n \n\n### 本模組功能\n\n新增一個方塊，讓你能夠：\n\n*   瀏覽指定輸入物品的所有可用結果\n*   手動選擇想要的產出\n\n不再遺失選項，不再隱藏配方。\n\nundefined\n\n### 設計理念\n\n本模組被設計為一個乾淨、適合遊玩的解決方案，以應對模組包的限制。\n\n它不會過度複雜化系統或引入不必要的機制，  \n而是以一種彷彿本來就屬於 Farmer’s Delight 的方式來強化它。\n\n自動化也獲得支援，使方塊在手動遊玩與技術性配置中皆能派上用場。\n\n \n\n### 特色\n\n*   存取所有有效切割結果\n*   完全控制產出\n*   無縫整合 Farmer’s Delight\n*   支援幸運附魔\n*   自動化支援（輸入/輸出側）\n*   動畫、粒子與音效回饋\n\n### 需求\n\n*   Minecraft Forge 1.20.1\n*   Farmer’s Delight\n*   GeckoLib\n\nundefined\n\n### 許可\n\n允許：\n\n*   將本模組收錄於模組包中\n\n不允許：\n\n*   重新上傳本模組\n*   散布修改版本\n*   未經許可而使用素材或程式碼\n\n保留所有權利。\n\n\n## <span style=\"color:#e67e23\">社群</span>\n\n追蹤模組開發進度、分享點子，並在此獲得最新資訊：\n\n**YouTube：** [https://www.youtube.com/@YAPILabs](https://www.youtube.com/@YAPILabs)\n\n**Discord：** [https://discord.gg/KYGyy9jFCz](https://discord.gg/KYGyy9jFCz)\n\n \n\n### 作者\n\n### <span style=\"color:#e67e23\">Y221</span>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

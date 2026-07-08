@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dq6PewRRnNs=",
+  "content": "Простой мод, который предотвращает зависание сервера Minecraft при остановке сервера с помощью WorldEdit.\n\nОн исправляет ошибку: https://github.com/EngineHub/WorldEdit/issues/2459. Что он делает:\n\n- Останавливает `WorldEdit.getInstance().getExecutorService()` при остановке выделенного сервера (иначе сервер будет зависать на срок до 60 секунд);\n- Убедится, что объект-синглетон `java.util.Timer` в `FutureProgressListener` выполняется в фоновом потоке (иначе сервер застрянет навсегда).\n\nПоддерживаемая среда\n\n| Платформа | Minecraft    | WorldEdit |\n|----------|--------------|-----------|\n| fabric   | MC >= 1.14   | >=7.0.0   |\n| forge    | MC >= 1.15   | >=7.0.0   |\n| neoforge | MC >= 1.20.6 | >=7.0.0   |\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

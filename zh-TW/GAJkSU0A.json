@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Gl1CsktFxJM=",
+  "content": "# Jade Modded Entities\n\n一個為其他模組新增的實體添加 Jade 資訊顯示支援的模組。\n\n## 支援的模組\n- [SWEM](https://www.curseforge.com/minecraft/mc-mods/swem)（1.20.1，Forge/NeoForge）\n- 村民繁殖冷卻時間（所有遊戲版本、所有載入器）\n- [Doggy Talents Next](https://www.curseforge.com/minecraft/mc-mods/doggy-talents-next)（僅 Fabric 1.21.11 尚未支援）\n\n## 維基\n\n請查看[維基](https://github.com/magnushjensen/jade-modded-entities/wiki)以取得詳細文件。\n\n如果你覺得維基中有任何不清楚或缺漏之處，請在 Discord 中發送訊息，或開啟[改善文件議題](https://github.com/MagnusHJensen/jade-modded-entities/issues/new?template=3.Improve_docs.md)。\n\n## 開發藍圖\n\n請查看版本[里程碑](https://github.com/MagnusHJensen/jade-modded-entities/milestones)\n\n## 連結\n\n加入我的 [Discord](https://discord.gg/PHu8k32M3q) 以獲得支援與更新！（剛建立，因此內容較為簡陋）\n- [CurseForge 頁面](https://www.curseforge.com/minecraft/mc-mods/jade-modded-entities)\n- [Modrinth 頁面](https://modrinth.com/mod/jade-modded-entities)\n\n## 感謝\n\n- [Snownee](https://github.com/Snownee) 創作了 [Jade](https://github.com/Snownee/Jade)\n- [jaredlll08](https://github.com/jaredlll08) 創作了 [`Multiloader-Template`](https://github.com/jaredlll08/MultiLoader-Template)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "w9OLBdmdSyk=",
+  "content": "這個模組可以定期呼叫System.gc()來清理你的記憶體。\n\n同時，它新增了/memorysweep指令來手動清理記憶體。\n\n預設的記憶體清理時間間隔是15分鐘，你可以在設定檔中修改它。\n\n記憶體也可以根據使用量來清理。(預設90%)\n\n \n\n如果在垃圾回收時出現延遲，請新增JVM參數-XX:+ExplicitGCInvokesConcurrent\n\n \n\n當然，我也推薦嘗試ZGC，這是Java 11新增的，不需要上述參數：\n\n-XX:+UnlockExperimentalVMOptions -XX:+UseZGC\n\n請不要將ZGC與其他GC同時使用，也不要新增-UseAdaptiveSizePolicy\n\n \n\n如果你有任何建議，可以留言或提交Issues。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

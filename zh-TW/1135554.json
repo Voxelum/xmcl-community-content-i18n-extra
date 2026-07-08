@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9THuhdmXHko=",
+  "content": "<h2>WynnLODGrabber</h2><p>WynnLODGrabber 是為 Wynncraft 模組包創作者設計的工具，讓玩家能自動下載伺服器 LOD，無需手動處理任何檔案。或者，如果你不是製作模組包，這大概也是下載 LOD 最懶人的方法了！</p><p>同時支援 <strong>Distant Horizons</strong> 和 <strong>Voxy</strong> — 此模組會自動偵測你安裝了哪一個，並下載對應的正確 LOD 套件。</p><h3>安裝方式</h3><p>WynnLODGrabber 是專為 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252f\" target=\"_blank\" rel=\"nofollow\">Fabric Loader</a> 打造的模組。它需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a> 和 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fwynntils\" target=\"_blank\" rel=\"nofollow\">Wynntils</a>，再加上 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fdistanthorizons\" target=\"_blank\" rel=\"nofollow\">Distant Horizons</a> 或 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fvoxy\" target=\"_blank\" rel=\"nofollow\">Voxy</a>（兩者擇一，不可同時安裝）。</p><blockquote>\n  <p><strong>模組包創作者：</strong>你可以在你的模組包中包含任何 <code>*.wynncraft.com</code> 的網址 — 自訂 IP 如 <code>igbarvonsquid.wynncraft.com</code> 也完全支援。此模組會自動辨識任何 Wynncraft 子網域，並將 LOD 安裝到正確的資料夾中。</p>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6xaDdMrraIs=",
+  "content": "## 📖 關於\n所以，這個數據包真的加入了物理性的樹木倒塌效果！現在，任何被砍伐的樹木都會嘗試倒下，對其路徑上的所有生物造成傷害。\n\n### 功能特色：\n- 樹木會倒向較重的一側，但如果重心位於樹軸中心，則樹木會倒向玩家。\n  - 較重的一側是根據基本方向的相對重量計算的。變形方塊的重量為1，其他所有方塊的重量為3。\n- 樹木造成的傷害取決於其倒塌速度。\n- 如果被砍伐的樹木的蜂巢中有蜜蜂，牠們會對你生氣。\n- 當樹木倒下後，模型會躺在地上半秒鐘，然後轉化為真實的方塊。但如果樹木在被砍伐後倒塌的時間少於半秒，則會立即轉化。\n\n#\n## ▶️ 示範影片\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Y4XHXqlUCAE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n#\n## 🧩 附加元件\n*我將在2400000小時後撰寫*\n\n#\n## 🔗 相關連結\n你可以在PMC頁面上留言！\n\n[![planetminecraft_logo](https://www.planetminecraft.com/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/data-pack/physical-falling-trees/)\n\n數據包製作者的俄文Discord伺服器 / Русский дискорд сервер датапакеров\n\n如果你是數據包製作者，正在尋找適當的幫助、有用的資源以及分享專案的機會，那麼請加入[СвинСоюз: Датапаки](https://discord.gg/YNsUzsxyu5)！\n這是一個從原本被遺棄的ZeroCaty伺服器「СвинСоюз」分支出來的伺服器。目前我們與它沒有任何關係。\n\n[![SvinSoyuz](https://cdn.modrinth.com/data/cached_images/afb7cdcc943fceaa9f901c538ccfe15ea357f383.png)](https://discord.gg/YNsUzsxyu5)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

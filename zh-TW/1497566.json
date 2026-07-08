@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/tukJd42i28=",
+  "content": "<h1><a href=\"/linkout?remoteUrl=https%253a%252f%252fstarted.ink%252f\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/1472108/description_e60a590a-e5e2-42f8-bc98-24155f26f54f.png\" alt=\"\" width=\"700\" height=\"112\"></a></h1><h1><strong><span style=\"color:#fff\">這是一個記憶體優化模組。</span></strong></h1><p><br><strong><span style=\"color:#fff\">它限制了結構模板快取並將其驅逐，以減少正常遊戲過程中不必要的記憶體使用，並降低長時間運行的壓力。</span></strong><br><strong><span style=\"color:#fff\">在測試中，它減少了約20%的記憶體使用量。</span></strong><br><strong><span style=\"color:#fff\">此優化不會破壞結構完整性或結構生成，因此可以安全地添加到您的模組包或伺服器中。</span></strong><br><strong><span style=\"color:#fff\">配置中的預設快取限制為128。</span></strong><br><strong><span style=\"color:#fff\">較低的值可以進一步減少記憶體開銷，但如果設定過低，可能會增加額外的CPU負載。</span></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/WN65hrQonQ=",
+  "content": "<h2><strong>ArsArms 是 TaCZ 与 Ars Nouveau 的整合扩展模组。</strong></h2><h3><span style=\"color:#f00\">不再需要 ArsCurios、CastLib 和 ArmsLib。</span></h3><h3><strong>核心亮点</strong></h3><ul>\n<li>现在你可以使用 TaCZ 枪械发射 Ars Nouveau 法术。由于法术通过枪械发射，施法速度更快！</li>\n<li>为突破当前魔力上限持续施法，可预先将魔力储存于枪械中！</li>\n<li>Ars Nouveau 法术通过<em>「反应式」</em>附魔触发，因此不会干扰 TaCZ 的默认开火模式，使用安全。</li>\n</ul><h3><strong>使用方法</strong></h3><ol>\n<li><p>使用 Ars Nouveau 附魔装置，为你的<strong>枪械</strong>施加带有目标法术的<strong>反应式附魔</strong>。<br>\n⚠️ <em>注意：此操作仅能通过 Ars Nouveau 附魔装置完成。同时请确保法术起始符文设为<strong>「自身」</strong>。</em></p></li>\n<li><p>将枪械置于物品栏中即可充能魔力。</p></li>\n<li><p>接下来只需开火射击！</p></li>\n</ol><h3><strong>注意事项</strong></h3><ul>\n<li>必须使用<strong>Ars Nouveau 附魔装置</strong>进行附魔，其他附魔方式无效。</li>\n<li>绑定的法术必须<strong>以「自身」符文起始</strong>，这是正确触发的必要条件。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

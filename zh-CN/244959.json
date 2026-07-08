@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AyjRUHRGIg0=",
+  "content": "<p><strong>闻讯！闻讯！自1.9.4版本起，此模组已集成至古董地图（Antique Atlas）中。</strong></p><p>&nbsp;</p><p>这是<a href=\"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-antique-atlas-v4-2-10-17-12-2015\" rel=\"nofollow\">古董地图（Antique Atlas）</a>模组的一个附属插件。它会在玩家物品栏中检视到的首本地图册上显示小地图。</p><p>&nbsp;</p><p>安装方法：</p><ul>\n<li>安装<a href=\"/linkout?remoteUrl=http%253a%252f%252ffiles.minecraftforge.net%252f\" rel=\"nofollow\">Minecraft Forge</a>\n<ul>\n<li>1.7.10 需要10.13.4.1558或更高版本</li>\n<li>1.8 需要11.14.4.1563或更高版本</li>\n<li>1.8.9 需要11.15.1.1722或更高版本</li>\n</ul>\n</li>\n<li>将AntiqueAtlasOverlay-x.x.x-x.x.jar放入mods文件夹</li>\n<li>请确保同时安装了版本不低于4.2.10的<a href=\"http://mods.curse.com/mc-mods/minecraft/227795-antique-atlas\" rel=\"nofollow\">antiqueatlas-x.x.x-x.x.x.jar</a></li>\n</ul><p>配置选项包括：</p><ul>\n<li>地图位置</li>\n<li>地图大小</li>\n<li>标记大小</li>\n<li>玩家图标大小</li>\n<li>显示行为：\n<ul>\n<li>仅在手持时显示地图册的小地图</li>\n<li>显示快捷栏中首本地图册的小地图</li>\n</ul>\n</li>\n</ul><p>源代码可在<a href=\"https://github.com/Kenkron/AntiqueAtlasOverlay\" rel=\"nofollow\">https://github.com/Kenkron/AntiqueAtlasOverlay</a>获取</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

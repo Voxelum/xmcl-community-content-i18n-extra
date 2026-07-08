@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1SyPTCh5lWk=",
+  "content": "为Minecraft添加了几个实用的客户端命令。\n\n这些命令包括但不限于：\n- `/ccalc` - 计算数学表达式。\n- `/cshrug`、`/cmote` - 在聊天中发送`¯\\_(ツ)_/¯`或其他表情。\n- `/cfov`、`/cgamma` - 修改游戏设置，可超出正常范围。\n- `/cfind`、`/cfindblock`、`/cfinditem` - 在客户端的渲染距离内搜索实体、方块，并在附近容器中搜索物品。\n- `/cenchant` - [附魔破解](https://github.com/Earthcomputer/clientcommands/wiki/cenchant)。\n\n查看[社区维护的维基](https://github.com/Earthcomputer/clientcommands/wiki)可了解更完整的功能列表。若缺少某项功能，欢迎补充。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

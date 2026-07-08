@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jzSTmkyDjRo=",
+  "content": "Совместимая версия моего пакета [Переработанных мобов](https://modrinth.com/resourcepack/kassys-mobs) с [Свежими анимациями](https://modrinth.com/resourcepack/fresh-animations).\n\nТребуется Optfine или EMF и ETF:\n- [EMF](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)\n- [ETF](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)\n\n_Чтобы этот пакет корректно работал, сначала установите Свежие анимации, а затем уже этот пакет — в указанной последовательности._\n\nВыглядеть это должно так:\n![Это должно выглядеть именно так!](https://cdn.modrinth.com/data/cached_images/8d2cbb29813d0bf2d39db30f688b33d7e99f350f.png)\n\nТекущие мобы:\nКурица (все разновидности)\nОвца\nСвинья (все разновидности)\nКорова (все разновидности)\nКрипер\nПаук\nПещерный паук\nКальмар\nСветящийся кальмар\nЗомби (9 случайных разновидностей)\nХаски (3 случайные разновидности)\n\nПримечание: для работы случайных разновидностей необходимо включить опцию случайных объектов в настройках Optifine или ETF.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

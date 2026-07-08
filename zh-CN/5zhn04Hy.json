@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GeSa4AqLELo=",
+  "content": "![无着色器时FPS更高，有着色器时画面更佳，两者并列对比图。](https://cdn.modrinth.com/data/cached_images/96cfa24a4d5024cef8ce957a48226e145aee365c.png)\n[![kofi多语言支持标识](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-plural-alt_64h.png)](https://ko-fi.com/lilbroskato)\n\n**Opticore：异步渲染优化**\nOpticore 是 NeoForge 1.21.1 平台上 Embeddium 和 Sodium 的客户端辅助模组。其核心目标为缓解集成显卡系统（如 Intel UHD、Iris Xe 及移动端CPU）中常见的\"主线程\"瓶颈问题。\n\n**核心功能**\n- **异步剔除管线**：与在主渲染线程上执行的传统剔除方法不同，Opticore 将欧几里得距离计算及视锥体裁剪数学运算转移至后台工作线程处理。\n- **并发数据管理**：渲染可见性结果存储于线程安全的 ConcurrentHashMap 中，可在渲染循环期间实现近乎零延迟的 O(1) 复杂度数据查找。\n- **动态负载节流**：该模组通过监测 getSectionStatistics() 检测高负荷区块加载时段。当输入输出峰值（如进入世界或传送时）出现时，模组会临时降低实体渲染开销，优先保障地形生成性能。\n- **技术兼容性**：包含针对自定义方块实体渲染器（如机械动力模组中的渲染器）的安全绕过机制，并与遥远地平线模组集成，在LOD烘焙阶段避免不必要的剔除操作。\n\n**性能影响**\nOpticore 在高实体数量环境（如村庄、农场或模组维度）中效果最为显著。通过将剔除逻辑从主线程卸载，该模组有助于稳定帧生成时间，并在双核及四核处理器上减少世界探索时的\"卡顿\"现象。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "86d/yU6lxS4=",
+  "content": "<p style=\"text-align:center\">2.0.0 委託自 TqLxQuanZ</p><p><strong>TACZ 耐久度</strong></p><p>此模組為 TACZ 模組中的槍械提供了資料驅動的數值修飾器。所有修飾器行為皆透過 JSON 檔案定義，無需編寫程式碼即可調整槍械屬性。</p><p>系統支援修改傷害、後座力、射速、瞄準速度、彈藥速度、不準度等數值。修飾器可在單一定義中套用門檻值、降低限制與多項受影響的屬性，適用於類別或個別槍枝ID。</p><p style=\"text-align:center\">此附加元件專為想透過資料包為 TACZ 武器添加原版風格耐久度的模組包製作者與玩家設計，採用易於設定且可自訂的格式。<br><br>建議使用 KubeJS 全域輕鬆修改資料包，您也可以使用自己的命名空間建立資料包項目，例如 \"my_datapack/gundb/\"。<br><br><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/1065328/description_e198f144-e517-422e-bd96-fd39c659f515.png\" alt=\"資料包範例\" width=\"699\" height=\"1421\"></p><p style=\"text-align:center\">您也可以輕鬆停用特定槍枝ID或類別。槍枝ID會覆寫類別設定，因此即使重型類別已啟用，此迷你機槍也不會擁有耐久度。「enabled」為選用欄位，預設值為true。</p><p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/1065328/description_8dbd635e-1f57-4c4d-b62e-060f803ae2fa.png\"><br><strong><em>（更多詳細資訊即將推出，請參閱模組 .jar 中內含的預設資料包）</em></strong></p><p style=\"text-align:center\"><br><strong><em>我也在 Discord 上接受模組委託！使用者名稱為 jeducklet</em></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

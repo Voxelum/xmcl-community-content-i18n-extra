@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3ZrObS2TDO0=",
+  "content": "<p>Отправляет дополнительный ответ пользователю при успешном выполнении команды <strong>/locate</strong></p><p>При нажатии на неё будет создан новый путевой пункт с <a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap\" target=\"_blank\" rel=\"nofollow\">Xaero's</a> в найденном месте</p><p>Также добавляется новая команда:</p><ul>\n<li>/waypoint_locate_add &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;dimension&gt; &lt;name&gt;</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

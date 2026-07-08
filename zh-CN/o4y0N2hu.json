@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FuWILYwvw9g=",
+  "content": "![横幅](https://raw.githubusercontent.com/uku3lig/betterhurtcam/experimental/subprojects/banner.png) \\\n[![Modrinth页面](https://img.shields.io/modrinth/dt/o4y0N2hu?style=for-the-badge)](https://modrinth.com/mod/betterhurtcam)\n\n*图形设计是我的热情所在*\n\n**BetterHurtCam** 是 [NoHurtCam](https://github.com/UltraBlackLinux/noHurtCam) 的重制版，它不仅允许禁用受伤时的镜头晃动，还能通过内置配置界面或按键绑定来调整其强度！\n\n*支持的Minecraft版本*：b1.7.3 及 1.14 之后的所有版本\n\n## 关于 23w06a 的情况\n\n在 1.19.4 的快照版本 [23w06a](https://www.minecraft.net/en-us/article/minecraft-snapshot-23w06a) 中，Mojang 引入了一个新的无障碍选项：伤害倾斜。顾名思义，它可以用来调整伤害倾斜的强度。从技术上讲，BetterHurtCam 在 1.19.4+ 版本中不再必需，但您可能仍会因以下原因需要它：\n* 使用任意倍率（例如高于1或低于0，如果您喜欢的话）\n* 恢复旧版非方向性的伤害倾斜效果\n* 禁用生命值的闪烁动画\n\n## 依赖项\n* [ukulib](https://modrinth.com/mod/ukulib)（适用于 1.3.3+ 版本）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

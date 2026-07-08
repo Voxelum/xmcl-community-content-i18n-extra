@@ -1,0 +1,6 @@
+{
+  "bodyHash": "T4pTfydgyes=",
+  "content": "<p>Numina 是一個函式庫，包含了我所有模組的通用功能，以及一些使用者要求的額外工具。</p><p>&nbsp;</p><p><strong>合成配方</strong></p><p>- 使用直觀易編輯的 JSON 格式定義合成配方</p><p>- 連線至伺服器時會自動下載最新配方，伺服器管理者可直接調整或新增配方，無需另外製作模組包！</p><p>&nbsp;</p><p><strong>其他調整功能</strong></p><p>- 視野修正：在模組版 Minecraft 中移動速度往往較快，原版視野動態調整容易引發暈眩。此修正能確保視野始終保持合理範圍。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Rdo+ShNUa3c=",
+  "content": "**[![點此前往 CurseForge 下載](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/xxl-packets \"點此前往 CurseForge 下載！\")**\n\n免責聲明：此為原作 XL Packets 模組的分支，此分支將封包限制擴展至 Java Integer 上限\n\n修復了 https://bugs.mojang.com/browse/MC-185901 的問題，將封包大小限制從 2 MB 提升至 2.14 GB（2147483647），使搭載大型資料包、封包等內容的伺服器不會踢出用戶端。進行連線的用戶端皆需安裝此模組。\n\n![圖片](https://cdn.modrinth.com/data/SeCuopwJ/images/4088d622406e783546106108c58ed029f3a09fb2.png)\n\n**[![點此使用 BisectHosting 的 Minecraft 伺服器享 75 折優惠（使用代碼 'Ultimate'）](https://www.bisecthosting.com/images/CF/XXL_Packets/BH_XXL_PromoCard.webp)](https://bh.lazuline.xyz \"點此使用 BisectHosting 的 Minecraft 伺服器享 75 折優惠（使用代碼 'Ultimate'）\")**\n‏‏‎ ‎",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

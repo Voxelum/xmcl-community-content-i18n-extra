@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7czvodh9KhY=",
+  "content": "![pinging](https://cdn.modrinth.com/data/9mtu0sUO/images/5581f99386aba1c78332aab5b75e3fdf3d2de884.gif)\n\n解決直連IP伺服器時的反向DNS查詢延遲問題\n\n萃取自 [TweakerMore](https://modrinth.com/mod/tweakermore) Mod 中的 `yeetServerIpReversedDnsLookup` 選項\n\n### 這是什麼 & 為什麼 & 如何運作\n\n對於以純IP位址表示的伺服器，例如 `192.168.2.10:25565`，停用對應 `InetAddress` 物件中的反向DNS查詢\n\n許多非回環IP沒有關聯的域名，導致反向查詢耗時較長\n\n```java\n// java.net.InetAddress#getHostName(boolean)\nString getHostName(boolean check) {\n    if (holder().getHostName() == null) {  // 若 InetAddress.getByName() 接收的是純IP，則此值為 null\n        holder().hostName = InetAddress.getHostFromNameService(this, check);  // <-- 耗時較長\n    }\n    return holder().getHostName();\n}\n```\n\n此選項會直接將這些伺服器的域名設為其IP位址，從而繞過反向DNS檢查\n\n對於使用純IP位址的伺服器，可減少約1秒至5秒的延遲。影響以下情境：\n\n- 在伺服器列表中進行掃描\n- 連接至伺服器\n\n### 環境\n\n- 僅限客戶端使用\n- 支援 Fabric / Forge / NeoForge 模組載入器。無需其他額外要求。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

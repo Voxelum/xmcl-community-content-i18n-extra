@@ -1,0 +1,6 @@
+{
+  "bodyHash": "v0v3lVcGB4Y=",
+  "content": "新增資料包驅動的戰利品表整合功能。\n\n此模組與「Loot Integrations」模組保持相容性，因此為該模組建立的資料包應可在此正常運作。\n\n## 詳細資訊\n\n- 從 `data/<namespace>/loot/*.json` 載入戰利品修改器 JSON。\n- 從來源戰利品表中取樣額外戰利品，並附加到目標儲物箱戰利品中。\n- 可跳過地圖物品及忽略已標記的物品。\n- 可裁切產生的結果，避免儲物箱戰利品溢出。\n\n## 設定檔\n\n設定檔寫入至 `config/dungeonlootconfigurator.json`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

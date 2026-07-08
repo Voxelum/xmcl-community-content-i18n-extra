@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yywZCA/MXR8=",
+  "content": "![Изображение](https://cdn.modrinth.com/data/JbDI6ogH/images/56d9d9933bc2307090e21dacda73965cd1bfbdfb.png)\n\nПростой мод для Minecraft, который отображает дополнительную информацию в печках. Показывает оставшееся время и количество предметов, которые печь может переплавить с имеющимся топливом. Можно настраивать различные комбинации порядка/видимости строк информации, а также цвет текста.\n\nТребуется [Fabric API](https://modrinth.com/mod/fabric-api/). Для экрана настроек требуется [Mod Menu](https://modrinth.com/mod/modmenu/).\n\n## Получение поддержки\n\nЕсли вы обнаружили баг, пожалуйста, сообщите о нём на [Codeberg](https://codeberg.org/inyourwalls/frank/issues).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

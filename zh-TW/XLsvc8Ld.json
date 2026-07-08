@@ -1,0 +1,6 @@
+{
+  "bodyHash": "93pkV1CwVF8=",
+  "content": "[![在Ko-Fi上支持我！](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/donate/kofi-singular_64h.png)](https://ko-fi.com/sentwayfarer)\n\n這是一個 [KubeJS](https://modrinth.com/mod/kubejs) 附加元件，允許腳本創作者能夠創建自訂的 [Iron's Spells and Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) 功能，例如：\n\n- 自訂法術\n- 自訂法術學派及其屬性\n- 自訂特殊物品，例如法杖、法術書和魔法劍\n- 特殊事件處理器，例如 `PlayerEvents.changeMana`\n- 與EntityJS相容，用於創建自訂施法生物和修改現有生物AI以施放法術\n- 支援煉金術士大鍋配方\n- 完整支援ProbeJS\n- 更多功能即將推出！\n\n更多資訊請參閱 [官方KubeJS Wiki頁面中的第三方附加元件部分。](https://kubejs.com/wiki/addons/irons-spells)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

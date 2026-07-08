@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cQbpAX9QObE=",
+  "content": "# 移动字幕\n\n一个允许你将字幕移动到屏幕上任意位置的Minecraft模组。\n\n## 安装说明\n\n本模组适用于Minecraft 1.20.4及以上版本\n\n## 配置说明\n\n配置文件（首次启动时生成）包含\"edge\"键，可设置为以下任意值：`TOP_LEFT`（左上）、`TOP`（顶部）、`TOP_RIGHT`（右上）、`LEFT`（左侧）、`RIGHT`（右侧）、`BOTTOM_LEFT`（左下）、`BOTTOM`（底部）、`BOTTOM_RIGHT`（右下）。\n你可以使用`deltaX`和`deltaY`数值来手动微调相对于配置边缘位置的具体坐标。\n\n## 模组兼容性\n\n本模组应兼容其他所有模组。推荐搭配使用[Toggle Subtitles](https://modrinth.com/mod/toggle-subtitles)和[Colorful Subtitles](https://modrinth.com/mod/colorful-subtitles)模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

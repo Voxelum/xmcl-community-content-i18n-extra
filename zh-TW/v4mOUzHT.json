@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VSrgALheVq8=",
+  "content": "# 更多飾品欄位\n\n<p align=\"center\">\n  <a href=\"https://modrinth.com/mod/more-curios-slots\"><img src=\"https://i.imgur.com/rJGFMCf.png\" alt=\"Modrinth\" width=\"250\" height=\"auto\"></a>\n  <a href=\"https://www.curseforge.com/minecraft/mc-mods/more-curios-slots\"><img src=\"https://i.imgur.com/ts51S3Q.png\" alt=\"CurseForge\" width=\"298\" height=\"auto\"></a>\n</p>\n\n> ## 警告！！這個模組和 [Curios](https://modrinth.com/mod/curios) 模組一樣，需要其他相容模組才能運作。單獨使用時不會有太多效果。如果你不知道有哪些，可以試試 [Artifacts](https://modrinth.com/mod/artifacts) 或 [Unique Accessories](https://modrinth.com/mod/unique-accessories)。\n\n本模組讓你能夠製作更多飾品欄位，以搭配 Curios 使用。雖然成本較高，但絕對值得。\n\n![護身符製作](https://cdn.modrinth.com/data/v4mOUzHT/images/e6cc2e553e2a7250926b2026e2fea775ffed2006.webp)\n\n你可以透過 KubeJS 或資料包來編輯合成配方。Curios 使用像 `#curios:charm`、`#curios:head` 等標籤來標記適合特定欄位的物品。\n\n> 更多欄位的使用範例。\n![使用範例](https://cdn.modrinth.com/data/v4mOUzHT/images/9d2c646ac22cf9050dbae10fa574e54a9a2267b6.webp)\n\n## 故障排除\n\n> 使用 Artifacts 模組時，效果不會疊加。\n\n\\> 這只是 Artifacts 的程式設計方式所致，有點可惜。理論上可以透過 Mixin 修改這個行為，但我目前還不夠熟悉。\n\n> 我無法在 Enigmatic Legacy 中裝備多個魔法石。\n\n\\> 請確認 Enigmatic Legacy 設定中的 `B:SpellstonesMultiequip` 已設為 true。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

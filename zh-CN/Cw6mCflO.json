@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zP1An6Xss6U=",
+  "content": "你可能已经注意到，[TFMG](https://modrinth.com/mod/create-tfmg)（The Factory Must Grow）中的引擎控制器并没有实现离合器和换挡功能。本模组通过添加适当的离合器和变速箱功能弥补了这一缺陷。它还增加了一个配置物品，允许你更改任意齿轮的传动比。要换挡，你需要按住离合器。\n\n[演示](https://www.youtube.com/watch?v=jca-FNJS_zg)\n\n### 常见用户问题：\n\n- **默认情况下，传动轴不会随引擎旋转** — 你正处于空挡。请挂入下一挡位（检查你的控制设置）。\n\n- **无法换挡** — 你需要按下离合器才能换挡。\n\n- **各挡位间转速没有变化** — 你可能设定了相同的传动比。尝试使用控制器配置工具调整它们。\n\n- **传动比设置未生效** — 必须关闭引擎才能更改这些设置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

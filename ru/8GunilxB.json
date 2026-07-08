@@ -1,0 +1,15 @@
+{
+  "bodyHash": "sfcfqk446S4=",
+  "content": {
+    "error": {
+      "code": "invalid_parameter_error",
+      "param": null,
+      "message": "Parameter limit exceeded",
+      "type": "invalid_request_error"
+    },
+    "id": "chatcmpl-f5cebc09-d512-97ce-9635-954e588fa9c7",
+    "request_id": "f5cebc09-d512-97ce-9635-954e588fa9c7"
+  },
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "A9hOqLxYnvQ=",
+  "content": "<h1>進階牆壁攀爬API (AWCAPI)</h1><p>這是一個專為Minecraft模組設計的強大API，能讓實體實現進階的牆壁攀爬機制。此API讓模組開發者能輕鬆為任何生物添加蜘蛛般的牆壁攀爬行為。</p><h2>功能特色</h2><ul>\n<li><strong>完整3D牆面攀爬</strong>：實體可在牆壁、天花板及任何表面上行走</li>\n<li><strong>平滑方向轉換</strong>：在不同表面間移動時呈現自然流暢的過渡效果</li>\n<li><strong>自訂路徑搜尋</strong>：具備理解3D移動的進階路徑規劃系統</li>\n<li><strong>渲染輔助工具</strong>：簡易使用的渲染工具，確保模型方向正確顯示</li>\n<li><strong>跨平台支援</strong>：同時兼容Fabric與NeoForge平台</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

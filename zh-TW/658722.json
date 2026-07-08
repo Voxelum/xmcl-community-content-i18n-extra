@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cjTJseHPd/c=",
+  "content": "<p>這個模組簡單地移除了遊戲暫停選單畫面中1.19.1+版本新增的聊天檢舉按鈕，並將其替換為像1.19.1之前版本那樣的禁用區域網路開啓按鈕（在多人伺服器上時）。</p><p>支援Fabric、Forge和Quilt的1.19.1+版本<br>\n理論上與所有模組相容，但若發現不相容的情況，請提交問題報告。</p><h3>v1.6.1版本新功能</h3><ul>\n<li>現已支援Minecraft 1.21+的NeoForge</li>\n</ul><p><strong>不需要Fabric API。</strong></p><p>請參閱<a href=\"https://github.com/Lucaslah/No-Report-Button?tab=readme-ov-file#released-versions\" target=\"_blank\" rel=\"nofollow\">此處</a>選擇適用版本，或查看檔案頁面下載支援您當前Minecraft版本的最新NRB版本。&nbsp;&nbsp;</p><p><strong>本模組僅支援客戶端使用，在伺服器端使用將無任何效果</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/+krxZo6fcU=",
+  "content": "<p>BiomeTweaker 允許調整生態域幾乎所有面向。靈感來自 MineTweaker，透過撰寫腳本供 BiomeTweaker 解讀來實現。撰寫這些腳本及與 BiomeTweaker 互動的相關資訊可在<a href=\"https://github.com/superckl/BiomeTweaker/wiki\" target=\"_blank\" rel=\"nofollow\">維基頁面</a>找到。從簡單設定溫度到創建全新自訂生態域，本模組的長期目標是讓整合包創作者能為其模組包帶來全新層級的客製化。</p><p>由於 BiomeTweaker 僅在世界生成時進行修改，可僅安裝在伺服器端。但若需套用顏色覆寫，則需安裝在客戶端。部分功能預設禁用，需啟用<a href=\"https://minecraft.curseforge.com/projects/biometweakercore\" rel=\"nofollow\">BiomeTweakerCore</a>方可使用。</p><p>恕不保證本模組能與模組生態域相容（理論上應可相容），亦不保證完全無錯誤。</p><p>正式版本將發布於此。實驗性版本可於我的<a href=\"/linkout?remoteUrl=http%253a%252f%252fjenkins.superckl.me%252f\" target=\"_blank\" rel=\"nofollow\">Jenkins 伺服器</a>取得。</p><p>以下是 BiomeTweaker 可實現功能的簡要列表：</p><ul>\n<li>調整生態域基礎屬性（名稱、顏色、溫度、方塊等）</li>\n<li>從空白狀態創建新生態域，或複製現有生態域</li>\n<li>從生成過程中移除現有生態域</li>\n<li>微調或完全移除現有裝飾與特徵（草、花、樹木、洞穴、地牢等）</li>\n<li>為生態域與世界添加全新自訂裝飾</li>\n<li>移除與添加生態域中的生物生成</li>\n<li>以每世界每生態域為基礎，替換生成過程中放置的幾乎任何方塊</li>\n<li>對指定生態域中的生物與玩家施加藥水效果</li>\n</ul><p>完整功能列表請參閱維基頁面。可能性永無止境！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

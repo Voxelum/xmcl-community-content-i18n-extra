@@ -1,0 +1,6 @@
+{
+  "bodyHash": "582DFxMbSy8=",
+  "content": "[![mado hosting](https://cdn.modrinth.com/data/cached_images/b4d134c13be5c38e90820569398ca9c692afd3e0.png)](https://www.mado-hosting.com)\n\n# 雾中人\n\n此模组为《我的世界》添加了一种夜间出没并跟踪你的生物。\n最终它会开始追逐并击杀你。你可以在配置文件中修改以下选项：\n\n```\n  \"spawn_rate\": \"normal\",             -> 选项 - often（频繁）、normal（正常）、rare（稀有）\n  \"jumpscare\": true,                   -> 跳吓\n  \"max_chase_duration\": 1000,         -> 以游戏刻为单位\n  \"min_chase_duration\": 400,          -> 以游戏刻为单位\n  \"climbing\": true,                   -> 攀爬\n  \"vanish_distance\": 30,              -> 雾中人消失时与你的距离\n  \"spawn_at_day\": false,              -> 白天生成\n  \"darkness_effect\": true,            -> 黑暗效果\n  \"all_dimensions\": true,             -> 所有维度\n  \"break_blocks\": true                -> 破坏方块\n```\n\n加入 [Discord](https://discord.gg/mproductions) 了解最新消息与版本更新\n \n\n### 必须安装GECKOLIB模组！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

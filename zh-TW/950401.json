@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rAuTozI+la8=",
+  "content": "<p>新增事件&nbsp;<strong>ItemProducedEvent</strong>，可用於追蹤物品由玩家或方塊實體產生的時刻。</p><p>此事件可與自訂合成方式搭配使用，方便其他模組進行追蹤。</p><p>Q：<em>這個事件與&nbsp;<strong>ItemSmeltedEvent</strong> 或&nbsp;<strong>ItemCraftedEvent</strong> 有何不同？</em></p><p>A：那些 Forge 事件是在您&nbsp;<strong><em>取出</em></strong>物品欄中的物品時觸發，而 <strong>ItemProducedEvent</strong> 則是在物品被<strong>創建</strong>時觸發。</p><p>模組開發者如何運用此事件：</p><p>{</p><p>&nbsp; <em>// 物品已由您的方塊實體產生於此</em></p><p><em>&nbsp; // 請務必以事件回傳的結果覆蓋原物品</em></p><p>&nbsp; stack = ItemProductionLib.itemProduced(stack, blockEntity);</p><p>}</p><p><em><strong>或</strong></em></p><p>{</p><p>&nbsp; <em>// 物品已由玩家產生於此</em></p><p><em>&nbsp; // 請務必以事件回傳的結果覆蓋原物品</em></p><p>&nbsp; stack = ItemProductionLib.itemProduced(stack, player);</p><p>}</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

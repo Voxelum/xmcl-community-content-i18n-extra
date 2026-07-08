@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sHuCoBYUpFY=",
+  "content": "<p>Простой мод для Applied Energistics 2. Добавлено больше настроек в конфигурационный файл.</p><p>&nbsp;</p><p>Мой сервер Discord: <a href=\"https://discord.gg/ghrPuEaaWm\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/ghrPuEaaWm</a></p><p>&nbsp;</p><p>Требования: Forge, <a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" rel=\"nofollow\">AE2</a></p><p>&nbsp;</p><p>Файл конфигурации: .minecraft/config/ae2ao.toml</p><p>&nbsp;</p><p><a href=\"https://github.com/Domaman202/AE2AOFE/blob/description/documentation.md\" rel=\"nofollow\">Документация</a></p><p>&nbsp;</p><p><strong>Особенности</strong></p><ul>\n<li><strong>Разрешённые контроллеры с перекрёстным паттерном</strong></li>\n<li><strong>Несколько контроллеров в одном сетевом узле</strong></li>\n<li><strong>Устойчивость к огню</strong></li>\n<li><strong>Устойчивость к взрывам</strong></li>\n<li><strong>Отключение ограничения каналов</strong></li>\n<li><strong>И настройки для всех вышестоящих элементов</strong></li>\n<li><strong>Настройка максимального размера контроллера</strong></li>\n<li><strong>Настройка количества предметов и жидкостей на байт</strong></li>\n</ul><p>&nbsp;</p><p>Этот мод работает только на сервере. На клиенте он не требуется.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

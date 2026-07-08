@@ -1,0 +1,6 @@
+{
+  "bodyHash": "608qbBgr29g=",
+  "content": "## 模組介紹\n\n本模組僅包含**唯一**的靈魂綁定附魔，數項自訂設定選項，無任何冗餘功能。\n\n若要變更設定，請安裝 **Cloth Config API** 或手動開啟 **/config/soulbound.json** 設定檔（Forge 僅支援透過設定檔修改，檔案名稱為 **soulbound-common.toml**）。\n\n \n\n## 功能說明\n\n帶有靈魂綁定附魔的物品在死亡時會自動保留，耐久度將隨機降低，具體數值取決於設定。若設定為 0，則耐久度不會降低。\n\n在**創造模式**或**保留物品欄**狀態下**不會**降低耐久度。\n\n ",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

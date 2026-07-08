@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UtUe81UrXJs=",
+  "content": "Modern Splash 是一个适用于 1.12.2 和 1.7.10 的模组，它将加载界面改为高版本风格，并新增了可配置的暗色模式。\n\n默认暗色模式的配色方案源自 [默认暗色模式](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) 资源包。\n\n一些旧版本元素（例如 Forge 铁砧）默认被禁用，但可在配置中重新启用。\n\n配置文件位于 *config/modernsplash.cfg*\n\n启用 **mimicModern** 选项后，加载界面将仅显示主进度条和徽标，外观与现代版本完全一致。\n\n安装时建议删除已有的 config/splash.properties 文件以清除旧配色设置。\n\n**与所有加载界面模组不兼容。**\n\n**1.12.2 版本需要 [Cleanroom](https://github.com/CleanroomMC/Cleanroom)**。\n\n**1.7.10 版本需要 [UniMixins](https://modrinth.com/mod/unimixins)**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

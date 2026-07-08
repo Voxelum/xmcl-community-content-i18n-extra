@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OU+waYszrCE=",
+  "content": "<h3>流體優化 (Fluidium)</h3><p>此伺服端模組透過延遲流體刻運作，優化遠離玩家之流體。</p><h4>配置</h4><pre><code>[Fluidium]\n\nFluidOptimizableDist = 32    # 距離門檻值（單位：方塊）\n\nFluidTickDelayChance = 0.5   # 刻跳過機率（0.0-1.0）</code></pre><h4>整合</h4><p>於 <a href=\"https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge\" target=\"_blank\" rel=\"nofollow\">FTB Chunks</a> 或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims\" target=\"_blank\" rel=\"nofollow\">Open Parties and Claims</a> 之已宣稱區域或強制載入區塊內的流體刻運作，將永不延遲。</p><h4>備註</h4><p>當您靠近流體時，其仍會正常刻運作，您絕不會在地洞中遇到結凍的水方塊。</p><p>本模組靈感來源為原版 <a href=\"https://www.curseforge.com/minecraft/mc-mods/does-it-tick\" target=\"_blank\" rel=\"nofollow\">DIT</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

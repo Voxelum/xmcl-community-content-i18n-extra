@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oI8fDjkkKAQ=",
+  "content": "# Исправление сохранения чанков\nПорт для версии 1.20.1 мода https://github.com/jaskarth/chunksavingfix-fabric/tree/main, устраняющий ошибку https://bugs.mojang.com/browse/MC-224729\n\nИсправляет баг с сохранением чанков, из-за которого в некоторых чанках могли пропадать такие элементы, как деревья.\n\nБлагодарим моего друга elocindev за портирование кода",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

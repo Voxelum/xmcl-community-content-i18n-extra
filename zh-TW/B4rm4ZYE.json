@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Q4MQ3S9tcRQ=",
+  "content": "這個模組基本上是我的 Mako Mermaids 模組的分支，但移除了力量、H2O 物品等內容。\n我目前只使用 Mako 模組的魚尾，並將其重新命名為：\n- 淺色魚尾（原 Bella）\n- 中色魚尾（原 H2O）\n- 深紅魚尾（原 Mako）\n- 人魚藍魚尾（原 Zac）\n\n當你開啟一個世界時，將會再次看到一個 GUI 介面。\n你可以在這裡選擇你的魚尾顏色，以及是否要在水下獲得正面狀態效果、快速游泳和自動變身。\n\n指令：\n/config 開啟 GUI\n/select medium 選擇中色（其他顏色同理）\n/dospeedswim true/false\n/（嗯，我怎麼沒有切換效果的指令，之後需要新增……）\n\n材質由 Reyeas 提供",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GdpGx6pgdAQ=",
+  "content": "# VanillaConfig by TreSet\n\n## 描述\n\n一个配置API，允许轻松灵活地加载和保存模组配置，并生成类似原版的配置界面。\n\n## 如果你是用户，不用担心这个模组\n\n它只有在安装了依赖它的模组时才会起作用。单独安装它是无用的。\n只有在另一个模组要求你安装时才安装此模组。\n你还需要与这个模组一起安装[Fabric API](https://modrinth.com/mod/fabric-api)。\n\n## 如果你是开发者，请阅读文档\n\n前往文档[这里](https://github.com/Tre5et/vanillaconfig/blob/1.19/docs/DOCS.md)。\n\n## 喜欢这个模组吗？\n\n考虑查看<img src=\"https://treelauncher.net/icon.svg\" width=\"14\" height=\"14\"/> [TreeLauncher](https://treelauncher.net/)，基于组件的Minecraft启动器。\n\n## 许可证\n\n此模组根据GNU GPLv3许可证提供。欢迎自由重新分发、修改并在你自己的开源项目中使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

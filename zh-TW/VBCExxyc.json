@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rFPSbJFwimg=",
+  "content": "這個模組為Pixelmon新增了5種神奇寶貝幸運方塊。\n\n超級球：移除了普通幸運方塊中最差的神奇寶貝（超音蝠、獨角蟲、鐵甲蛹等）<---（這些是被移除的）\n\n- 高級球：只有優質的神奇寶貝（耿鬼、班基拉斯、烈焰猴）<--（這些是高級球讓你更容易獲得的優質神奇寶貝範例）\n\n- 大師球：只有傳說和幻之神奇寶貝\n\n- 究極球：只有究極異獸\n\n- 豪華球：只有閃光神奇寶貝\n\n安裝方法：首先你需要在你想要遊玩的版本中安裝Pixelmon幸運方塊和幸運方塊模組（以向原作者致謝）\n\n然後，用你想要使用的模組內容替換Pixelmon檔案中的內容。\n\n接著，將Pixelmon的zip檔案添加到.minecraft/addons/lucky資料夾中（如果沒有這個資料夾，請自行創建）\n\n如果要添加材質包，請將zip檔案添加到資源包資料夾並啟用。\n\n這樣就完成了！這些方塊除了超級球外都沒有特殊材質，而且超級球的材質也很簡陋。如果你有材質包，請寄信到enderraltormail@gmail.com給我，我會將你列入致謝名單。\n\n這些方塊在生存模式中沒有合成方式或自然生成途徑，所以請自行決定如何取得它們。\n\n致謝：\nModifiedME - 製作原始Pixelmon幸運方塊（精靈球樣式）\nHardy - 最先提出概念（但未提供下載）並給我靈感\nPlayerInDistress - 製作幸運方塊模組\nPixelmon團隊 - 製作Pixelmon\n任天堂和Game Freak - 創造神奇寶貝",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "s+7kBOdqVio=",
+  "content": "**NEI Enchantments** 是一款輕量級的 Fabric 模組，將經典的 **Not Enough Items (NEI)** **X 鍵附魔**功能帶入現代 Minecraft。只要在物品欄中懸停在物品上，按下 **X**，就能透過簡單的圖形介面來附魔。\n\n---\n\n## 特色\n\n- **快速存取：** 在物品欄中懸停物品並按下 **X** 即可開啟附魔選單\n- **智慧過濾：** 僅列出與該物品相容的附魔\n- **高等級：** 大部分附魔最高可達 **10 級**（單等級附魔維持最大 1 級）\n- **即時同步：** 變更會在伺服器端驗證——不會出現物品複製\n- **現代化介面：** 搜尋、可捲動清單、等級滑桿、應用/移除按鈕\n- **所有遊戲模式：** 支援生存、極限與創造模式\n- **JEI 支援：** 若安裝 JEI，使用指南與自訂附魔說明會顯示在資訊分頁中（可選）\n- **英文 & 土耳其文**在地化\n\n---\n\n## 自訂附魔\n\n- **礦脈挖掘（Vein Miner）** — 鎬\n  可一次挖掘相連的同類型礦石（最多 60 個方塊）。包含地獄石英。\n\n- **砍樹（Tree Feller）** — 斧\n  當你破壞一根原木時，會砍伐所有相連的原木，然後僅移除與該樹相連的樹葉。\n\n這兩個附魔都可透過 NEI 附魔選單（X 鍵）來應用。\n\n---\n\n## 按鍵設定\n\n- **X** — 開啟附魔選單（可在設定中更改）\n\n---\n\n## 安裝方式\n\n1. 安裝 **Fabric Loader** 和 **Fabric API**（Minecraft **26.2**）\n2. 將 **NEI Enchantments** 的 jar 檔放入 `mods` 資料夾\n3. （可選）加入 **JEI** 的 jar 檔\n4. 啟動遊戲\n\n---\n\n## 系統需求\n\n- Minecraft **26.2**\n- Fabric Loader **0.19.3 以上**\n- Fabric API\n- Java **25 以上**\n\n---\n\n*NEI Enchantments 靈感來自 chickenbones 的原版 Not Enough Items 模組。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

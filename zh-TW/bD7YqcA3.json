@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PmlbHP9XWXY=",
+  "content": "# Show Me Your Skin！\n\n> **注意：**\n> \n> 自 2.0 版本起，盔甲透明度選項已被移除。盔甲仍可與盔甲紋飾和附魔光效分開隱藏，但無法設定逐漸透明。\n> \n> 這項功能的程式碼過於脆弱，難以因應 Mojang 的眾多改動進行維護。我將盡快更新說明內容™。\n> \n> 如果透明度對你很重要，建議改用 zannagh 製作的 [Armor Hider](https://modrinth.com/mod/zannaghs-armor-hider)，該模組在較新版本中保留了此功能。\n\nShow Me Your Skin！（驚嘆號很重要）是一個用戶端模組，並提供可選的伺服器端支援，能對盔甲渲染進行廣泛的自訂。每項功能皆可切換，並設計得極具彈性。\n\n![https://i.enjarai.dev/u/4Dv46a.png](https://i.enjarai.dev/u/4Dv46a.png)\n\n## 滑桿滿滿\n\n所有你所需的盔甲隱藏選項，都集中在一個直覺的圖形介面中。包含：\n\n- 每個盔甲部件、鞘翅/盾牌的個別設定：\n  - 任意透明度\n  - 隱形\n  - 附魔光效隱藏\n- 基於伺服器的設定同步\n- 玩家名稱標籤顯示切換\n- 情境感知盔甲隱藏\n- 每個玩家的設定覆寫\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/sliders.gif)\n\n## 真正靈活\n\n以下是此模組靈活性的幾個範例。你可以完全依照偏好調整設定，並在需要時隨時更改。\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/merged-framed.gif)\n\n## 情境感知隱藏\n\n可根據特定條件（例如戰鬥中）恢復成原版盔甲顯示行為。這意味著當玩家受傷後，盔甲會顯示一段可設定的秒數。\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/combat.gif)\n\n## 多人遊戲支援\n\n當模組安裝在伺服器上時，它會進入「伺服器模式」，你為自己設定的任何設定都會即時顯示給其他玩家。不過，管理員可以根據需要對可用的設定施加某些限制。\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/multiplayer.gif)\n\n然而，如果模組只安裝在你的用戶端上，你將能為伺服器上的每位玩家設定個人設定。不過這些設定只有你自己看得到。\n\n![](https://github.com/enjarai/show-me-your-skin/raw/master/img/overrides.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

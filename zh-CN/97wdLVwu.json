@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gWAS8U8/qr4=",
+  "content": "## 添加可发射音波尖啸的监守者号角\n### 勇者配得上这份战利品。击败监守者即可获得这个战斗强化道具。\n\n![监守者号角使用演示](https://cdn.modrinth.com/data/97wdLVwu/images/cb9bd3efa01dfcf3b25ef84d914cde22776333c7.jpeg)\n\n### 什么是音波尖啸？\n音波尖啸是监守者的远程攻击方式。持有此号角者可以为自己所用。\n![监守者攻击演示](https://cdn.modrinth.com/data/97wdLVwu/images/aae01dc1107d1c357b6068f8b7fdbde6ef27abbc.png)\n\n### 配置选项：\n监守者号角完全可配置。服务器管理员和整合包制作者可调整以下参数：\n- 攻击范围\n- 伤害值\n- 击退效果\n- 充能时间\n\n若使用Forge或Fabric 1.19.1/1.19.2版本，配置文件位于saves/[世界名称]/serverconfig/目录下。\n\n### 演示视频\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/xuiwj3k2akA\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

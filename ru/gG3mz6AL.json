@@ -1,0 +1,6 @@
+{
+  "bodyHash": "r2V29Dt0cXI=",
+  "content": "Клиентский мод, который позволяет музыке битв Cobblemon иметь вступление, не повторяющееся в цикле.\n\nЕсли ваш музыкальный файл находится по пути `sounds/battle/wild.ogg`, поместите вступление по адресу `sounds/battle/wild_intro.ogg`. (Вступление не нужно указывать отдельно в файле `sounds.json`.)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

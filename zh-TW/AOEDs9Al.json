@@ -1,0 +1,6 @@
+{
+  "bodyHash": "j7TZiNdYdRk=",
+  "content": "[![Bisect Hosting 推廣橫幅](https://www.bisecthosting.com/partners/custom-banners/ee9630c7-c981-45f9-9862-3a1d71a628bf.webp)](https://redirect.daqem.com?to=https%3A%2F%2Fbisecthosting.com%2FDAQEM%3Fr%3DUILibModrinth)\n\n[![Ko-fi 推廣橫幅](https://i.imgur.com/SU7HhbO.png)](https://ko-fi.com/daqem)\n\n<br>\n\n本模組提供專為 Minecraft 模組開發量身打造的使用者介面函式庫。\n\n透過此函式庫，模組開發者能獲得無縫體驗，簡化遊戲內使用者介面的製作流程。\n\n## 包含的 UI 元件：\n\n### 按鈕（九宮格切片）：\n\n建立可自訂材質的互動式按鈕，能無縫適應不同尺寸，確保外觀精緻且一致。\n\n### 文字：\n類型：`一般`、`多行`、`滾動`、`截斷`。  \n輕鬆將文字元素整合至使用者介面，實現動態且資訊豐富的顯示效果。可自訂字型、顏色和大小，以符合模組的美學風格。\n\n### 材質：\n類型：`一般`、`九宮格切片`。  \n直接將豐富的材質嵌入 UI，提升整體視覺體驗。無論是背景元素或裝飾點綴，此元件都能簡化材質整合流程。\n\n### 物品：\n類型：`無裝飾`、`有裝飾`。  \n在使用者介面中展示遊戲內物品，為玩家提供清晰且沉浸式的物品欄內容或合成配方呈現。\n\n### 圖示：\n\n輕鬆加入圖示用於狀態指示、成就顯示或其他視覺提示。圖示可自訂以符合模組風格，並提升玩家參與度。\n\n### 滾動條：\n\n在 UI 中實現可滾動區域，以便高效瀏覽大量內容。非常適合用於物品欄、任務日誌或任何需要動態內容顯示的介面。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

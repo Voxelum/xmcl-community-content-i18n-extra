@@ -1,0 +1,6 @@
+{
+  "bodyHash": "r8hshz63pPE=",
+  "content": "<div align=\"center\">\n___\n\n### 修復 Superb Warfare 與 Valkyrien Skies 之間的命中判定問題\n\n![Mod Loader](https://img.shields.io/badge/mod_loader-forge-ffe8e9?style=for-the-badge&labelColor=ffced2)\n![Environment](https://img.shields.io/badge/environment-client_|_server-ffe8e9?style=for-the-badge&labelColor=ffced2)\n[![Bug Reports](https://img.shields.io/github/issues/kawaiicakes/SuperbVS?style=for-the-badge&logo=github&labelColor=ffe8e9&color=ffced2)](https://github.com/kawaiicakes/SuperbVS/issues)\n\n[![CurseForge](https://img.shields.io/curseforge/dt/1288304?style=for-the-badge&logo=curseforge&labelColor=ffceea&color=ffe8f5)](https://www.curseforge.com/minecraft/mc-mods/superbvs)\n[![Modrinth](https://img.shields.io/modrinth/dt/foPG2Wmv?style=for-the-badge&logo=modrinth&labelColor=ffceea&color=ffe8f5)](https://modrinth.com/project/superbvs)\n---\n</div>\n\n# 📖 資訊\n本模組修復了 Superb Warfare 與 Valkyrien Skies 2 之間的命中判定問題。我將（希望如此）持續維護並根據需要添加更多錯誤修正。\n無論如何，我建議搭配使用最新版本的 Superb。新版本似乎已添加了改善對船隻的方塊破壞計算的修正。\n\n---\n\n# 📝 開發中功能\n- 修正標槍或艦炮等武器的方塊破壞/穿透計算（1.1.0-beta 版本）\n- 當 VS2 的 1.21 版本發布時，將推出 Neoforge 版本",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

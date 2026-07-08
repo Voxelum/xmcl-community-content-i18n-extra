@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lSiJ1kNvt5Q=",
+  "content": "Minecraft 中树苗的方块状态有一个名为 `stage` 的属性，当树苗生长时，该值会变为 1。此资源包的作用是为 `stage=1` 的树苗添加一个自定义模型，使其模拟未来将长成的树木形态。\n\n本资源包不支持模组中的树木/树苗。您可以为此目的自行制作资源包并发布到任何地方，只需附上指向本资源包的链接即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

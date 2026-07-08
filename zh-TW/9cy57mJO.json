@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2+iDeDn24Fk=",
+  "content": "SprintFix 是一款輕量級的用戶端 Fabric 模組，能讓衝刺操作更順暢、更易於使用。\n\n它新增了自動衝刺功能，有助於在重生後保留切換衝刺設定，並包含簡潔的按鍵綁定，讓玩家可隨時開啟或關閉各項功能。SprintFix 設計精簡乾淨，無需安裝 Fabric API。\n\n## 功能特色\n\n### 自動衝刺\n自動衝刺功能可在遊玩期間持續啟用衝刺按鍵，如此一來，你只需向前移動即可自然開始衝刺，無需一直按住衝刺鍵。\n\n### 重生衝刺修復\nMinecraft 在重生時可能會重置黏滯或切換衝刺設定。SprintFix 能協助保留衝刺狀態，讓你在死亡重生後，衝刺行為更加一致。\n\n### 切換按鍵綁定\nSprintFix 在 Minecraft 的控制選單中新增兩個按鍵綁定：\n\n- 切換自動衝刺\n- 切換重生衝刺修復\n\n兩個按鍵綁定預設皆為未指定，你可自行設定喜愛的按鍵。\n\n### 設定儲存\n兩項功能預設皆為啟用。當你切換開關時，SprintFix 會自動儲存你的設定。\n\n## 輕量設計\n\nSprintFix 僅作用於用戶端，且無需安裝 Fabric API。只需安裝 Fabric Loader，將對應你的 Minecraft 版本的 SprintFix jar 檔案放入 mods 資料夾即可遊玩。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

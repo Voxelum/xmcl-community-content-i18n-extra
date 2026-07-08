@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OXxgvbRm/G0=",
+  "content": "<p>專為Dragon Survival與Vampirism設計的快速簡易相容性模組。</p><p>主要功能：每當Vampirism要檢查你是否能加入某個陣營時，它會先確認你是否是龍族，若是則拒絕。這讓龍族免疫於成為吸血鬼或狼人（若使用狼人擴充模組）。而當你嘗試在Dragon Survival中使用龍之祭壇時，它會檢查你是否屬於吸血鬼陣營，若是則阻止該動作。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

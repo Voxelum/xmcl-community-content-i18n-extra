@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/bLBeIicZBA=",
+  "content": "為聊天功能增添更多自訂選項。\n- /chatplus\n- [Discord](https://discord.gg/kHSKCMC6rr)\n- [Wiki](https://github.com/ebicep/ChatPlus/wiki)\n- <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/yJPShNh_xs0\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n# 原版變更\n- 增加 Minecraft 可儲存的最大訊息數量。\n- 增加顯示指令建議的最大數量。\n- 調整聊天框大小/位置。\n- 加快/減慢聊天滾動速度。\n- 將微小滾動條放大並使其實際可用。\n- 移除「伺服器訊息。無法回報」側邊欄。\n- 以及更多！\n\n# 自訂功能\n\n### 一般\n- 建立帶有聊天分頁的聊天視窗。\n- 自訂聊天視窗。\n  - 調整大小\n  - 重新定位\n  - 背景顏色\n  - 縮放\n  - 文字透明度\n  - 未聚焦時透明度\n  - 未聚焦時高度\n  - 行距\n  - 外框\n  - 內邊距\n  - 訊息對齊（左/中/右）\n  - 訊息方向（由上至下/由下至上）\n- 自動建立分頁。\n- 分頁通知。\n- 自動*高亮顯示行。\n- 手動或自動*書籤訊息並跳轉至該處。\n- 高亮顯示當前懸停的行。\n- 在聊天中搜尋訊息並跳轉至該處。\n- 擷取整個聊天或特定訊息的截圖，並自動上傳至 imgur。\n- 透過右鍵點選選擇訊息群組，然後對其執行多種自訂選項（截圖/複製/加入書籤等）。\n- 為訊息添加時間戳。\n- 在訊息旁顯示玩家頭像。\n- 預覽聊天。\n- 壓縮訊息。\n- 以及更多！\n\n### 語言相關\n- 自動*翻譯收到的訊息。\n- 以不同語言發送訊息。\n- 按住 Ctrl 點選訊息進行翻譯。\n- 使用語音轉文字（可自動翻譯）發送訊息，使用 [VOSK](https://alphacephei.com/vosk/models)，下載所需模型並放置於 config/chatplus/models。（注意：此功能使用按鍵發話，較大的模型速度較慢！）\n\n*基於使用者定義的正則表達式。\n\n# 相容性\n\n此模組覆蓋了原版的聊天渲染器。任何對其使用 mixin 的模組可能無法運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

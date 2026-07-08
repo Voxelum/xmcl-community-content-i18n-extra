@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0njDRr2Teg0=",
+  "content": "Позволяет автоматизировать все предметы из Timeless и Classic Zero (TACZ) с помощью Create. Добавляет новые материалы, такие как: сталь, алюминий и свинец, чтобы повысить сложность получения оружия. Добавляет стол исследований, который используется для изучения схем оружия и боеприпасов (время исследования настраивается). \n\nУдаление обычных рецептов TACZ\n1. Установите значение «DefaultPackDebug» в tacz-common.toml на true.\n2. Удалите все папки в «config/tacz/custom/tacz_default_gun/tacz/recipes».",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

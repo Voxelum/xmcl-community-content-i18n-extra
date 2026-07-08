@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PKWZUO/xEoQ=",
+  "content": "# 等级标签\n\n官方名称标签等级模组！\n\n<a href=\"https://mctiers.com\"><img src=\"https://mctiers.com/icons/nav_skip.png\" width=\"350\"/></a>\n\n*本模组由 mctiers.com 官方支持*\n\n*图标作者：SakuraFX*\n\n---\n\n**注意：** 本模组依赖 [ukulib](https://modrinth.com/mod/ukulib) 才能运行！\n\n等级标签是一款能在玩家名称标签中显示其所处 PvP 等级的模组。\n等级标签支持全部 8 种 MCTIERS 游戏模式。自 2.0 版本起，还支持其他等级列表（如 SubTiers）！默认显示的游戏模式可进行配置。\n若玩家在指定游戏模式中处于未定级状态，等级标签将显示其在所有模式中的最高等级。\n\n![名称标签展示](https://cdn.modrinth.com/data/dpkYdLu5/images/f5baba2409a3c129efeba50618548b3a6047d4c7.png)\n\n等级标签还内置了查看玩家资料的系统！\n\n![玩家资料](https://cdn.modrinth.com/data/dpkYdLu5/images/77a754efdb8e409c82b0c7793ef31b170620ae26.png)\n\n## Minecraft 版本支持\n\n**当前支持版本：** 1.21 至 1.21.11\n\n未来版本支持：一旦 Mojang 明年切换到新的版本命名系统，将支持最后 4 个次要版本。在过渡期（直至 26.4），1.21.1 和 1.21.11 仍将保持支持。\n\n## 分支开发\n\n允许您分叉本模组并用于您自己的等级列表，但需满足以下条件：\n- 本模组采用 MPL-2.0 许可协议，这意味着您的分支必须使用相同许可协议保持开源，并正确标注原作来源\n- 本模组当前附带的图标（游戏模式及网站图标）来自 MCTiers 和 SubTiers，明确授权仅限在本模组中使用，您不得在分支中使用这些图标。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

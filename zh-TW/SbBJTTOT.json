@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FdUZWC7WKF0=",
+  "content": "**需求：[Fabric Api](https://modrinth.com/mod/fabric-api)**\n\n# 功能特色\n\n<details>\n<summary>物品高亮</summary>\n\n在您的物品欄或快捷欄中高亮顯示特定物品\n\n|指令|描述|\n|-|-|\n|/cpvp_utils highlight disable|停用「物品高亮」功能|\n|/cpvp_utils highlight enable|啟用「物品高亮」功能|\n|/cpvp_utils highlight toggle|切換「物品高亮」功能|\n|/cpvp_utils highlight get|取得物品的顏色設定|\n|/cpvp_utils highlight list|列出所有已設定顏色的物品|\n|/cpvp_utils highlight remove|移除物品的顏色設定|\n|/cpvp_utils highlight set|設定物品的顏色|\n\n</details>\n\n\n<details>\n<summary>始終顯示副手欄位</summary>\n\n即使副手沒有物品，也會顯示副手欄位。\n\n**注意：若未啟用「始終顯示副手欄位」功能，「無圖騰圖示」僅在欄位非空時顯示**\n\n|指令|描述|\n|-|-|\n|/cpvp_utils always_show_offhand_slot disable|停用「始終顯示副手欄位」功能|\n|/cpvp_utils always_show_offhand_slot enable|啟用「始終顯示副手欄位」功能|\n|/cpvp_utils always_show_offhand_slot toggle|切換「始終顯示副手欄位」功能|\n\n</details>\n\n\n\n<details>\n<summary>無圖騰圖示</summary>\n\n當副手沒有圖騰時，顯示閃爍的圖騰驚嘆號圖示。\n可透過材質包更換此圖示。\n\n**注意：若未啟用「始終顯示副手欄位」功能，「無圖騰圖示」僅在欄位非空時顯示**\n\n|指令|描述|\n|-|-|\n|/cpvp_utils no_totem_icon disable|停用「無圖騰圖示」功能|\n|/cpvp_utils no_totem_icon enable|啟用「無圖騰圖示」功能|\n|/cpvp_utils no_totem_icon toggle|切換「無圖騰圖示」功能|\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

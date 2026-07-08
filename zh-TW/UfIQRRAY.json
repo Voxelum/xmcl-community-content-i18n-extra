@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gl5CS0jEQ9Q=",
+  "content": "# 彎曲月台包\n\n這是適用於 [Minecraft Transit Railway Mod](https://modrinth.com/mod/minecraft-transit-railway) 的資源包，新增了 NTE/MTR 4 軌道模型，重現了港鐵內建的月台方塊模型。  \n根據軌道放置方式，可呈現視覺上的彎曲/傾斜月台效果。\n\n## 內容\n本資源包包含以下月台方塊軌道模型，含翻轉/未翻轉版本：\n- 香港風格（月台 HK）\n- 附月台幕門（月台 PSD）\n- 附自動月台閘門（月台 APG）\n- 北美黃色風格（月台 NA1）\n- 北美黑色風格（月台 NA2）\n- 英國風格（月台 UK）\n\n使用方式：在 MTR 3 + NTE 中對帶有軌道節點的刷具按 Shift+右鍵，或在 MTR 4 中直接對帶有軌道節點的刷具右鍵選擇模型。\n\n## 注意事項與相容性\n- 若使用 MTR 3，需搭配 [Nemo Transit Expansion](https://modrinth.com/mod/mtr-nte) 模組及本資源包 **v1.0.0** 版本。若使用 MTR 4，可直接載入本資源包，無需額外依賴項/模組。\n- 軌道模型不含碰撞體積，建議在下方放置屏障方塊/玻璃\n- 可使用外觀相似的玻璃顏色填補方塊間隙\n- 在 MTR 3 + NTE 中可對刷具右鍵翻轉月台方向\n\n## 授權\n本專案採用 MIT 授權條款。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

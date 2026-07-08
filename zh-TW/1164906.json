@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aYz2t0POVBM=",
+  "content": "<p>你可能看過那些有各種「 dwellers」之類的恐怖模組。它們都有一個共通點：都會加入一個怪物，一開始可能很嚇人，但看久了之後就會變得重複無聊。</p>\n<p>所以為了改變這個狀況，我製作了這個模組。它不加入任何怪物或實體，而是加入各種在森林（叢林除外）中可以聽到的聲音。這些聲音只在夜晚且位於森林時才會播放。</p>\n<p>我這樣設計是為了營造一種即使你知道自己獨自一人，卻仍感覺被監視的氛圍。這增加了心理恐怖的層次，意在讓你放鬆警戒時感到害怕。</p>\n<p>當然，一直聽到同樣的聲音也會變得無聊，所以我讓這些聲音非常罕見。</p>\n<p>&nbsp;</p>\n<h2>相容性</h2>\n<p>只要生態域被標記為 minecraft:is_forest 或 minecraft:is_taiga，SOTF 就能與任何生態域模組相容。</p>\n<p>&nbsp;</p>\n<h2>設定</h2>\n<p>本模組附帶一個設定檔，位於你的 Minecraft 目錄中的 config 資料夾，名稱為 SOTF.toml。你可以在裡面調整每個聲音之間的冷卻時間。如果你更改了冷卻時間並載入一個已有的世界，你需要等待先前的設定時間結束，它才會重置為你設定的時間。</p>\n<h1>需要伺服器嗎？</h1>\n<p>在高效能硬體上與朋友一起執行此模組，一鍵安裝。</p>\n<p>使用優惠券代碼 <strong>SOTF</strong>，即可在任何類型的伺服器上獲得 20% 折扣。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fcrestvale.net%252fref%252fHOST\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/1164906/description_f2146c73-7c0f-44e5-ba3e-f1f6fea06975.png\"></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

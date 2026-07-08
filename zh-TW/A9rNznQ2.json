@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8AocCU0FPqU=",
+  "content": "咒術工藝索引修復\n\n（所有伺服器均可使用此模組！）\n\n咒術工藝索引修復是一款專為咒術無限RPG我的世界伺服器（https://discord.gg/Mr8YnQbHCK）設計的伺服器端Forge模組。它修復了一個已知的網路問題：當客戶端執行咒術工藝模組時，會在登入期間發送無效的難度封包，可能導致玩家斷線。\n\n此模組修復了那個煩人的錯誤——當其他玩家在線遊玩時，你需要靠運氣才能連上自己的伺服器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

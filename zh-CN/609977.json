@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UpeSzYwq2/U=",
+  "content": "<h2>AE2 Things（Forge版）&nbsp;</h2><p>本模组增加了来自AE2Stuff的两个机器：高级压印器和水晶生长仓，以及一种新型存储单元：DISK（深度物品存储盘）。</p><p>需要Forge和AE2。（这是<a href=\"https://www.curseforge.com/minecraft/mc-mods/ae2things\" rel=\"nofollow\">原版AE2 Things</a>的Forge移植版，由ProjectET为Fabric制作。）</p><p>在AE2 Discord服务器上讨论：<a href=\"https://discord.gg/Zd6t9ka7ne\" rel=\"nofollow\">https://discord.gg/Zd6t9ka7ne</a>。</p><h2>特性</h2><h4>DISK - 深度物品存储盘</h4><p>可存储1k、4k、16k和64k物品的存储单元，无类型限制。该单元没有类型限制，每个物品计为一字节。由于单元格式的限制，每千字节会损失24字节，但为了消除类型限制，这个代价很小，对吧？请注意，它们比普通单元更昂贵，因为需要少量下界合金。</p><p><img src=\"https://i.imgur.com/KmZ5mAX.png\" alt=\"\" width=\"513\" height=\"550\"></p><h4>高级压印器 <strong>[因AE2压印器重做，已在1.20版本中移除]</strong></h4><p>无每种槽位堆叠限制，无烦人的侧面自动化限制的压印器。</p><h4><img src=\"https://i.imgur.com/7TxvvUK.png\" alt=\"\" width=\"713\" height=\"329\"></h4><p>&nbsp;</p><h4>水晶生长仓 <strong>[因AE2水晶重做，已在1.19版本中移除]</strong></h4><p>一个可轻松大规模生长水晶或福鲁克斯粉的机器。作为额外福利，它能自动将成品直接送入您的ME网络！</p><p><img src=\"https://i.imgur.com/5cNu7Xo.png\" alt=\"\" width=\"938\" height=\"299\"></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b6uFPfWOsWM=",
+  "content": "# 保護我的寵物！\n\n<a href=\"https://modrinth.com/project/protect-my-pets!\">\n<img alt=\"Modrinth\"\nsrc=\"https://img.shields.io/badge/Modrinth-NA?style=for-the-badge&logo=modrinth&logoColor=000000&color=00AF5C\">\n</a>\n\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/protect-my-pets!\">\n<img alt=\"CurseForge\"\n  src=\"https://img.shields.io/badge/CurseForge-NA?style=for-the-badge&logo=curseforge&logoColor=000000&color=F16436\">\n</a>\n\n這個模組新增了一個新物品：**黃金標籤**。\n這個物品可以應用在寵物身上，給予牠們這個標籤，只要標籤還有耐久度，寵物就會變得無敵。\n\n## 設定\n\n位於每個載入器對應的位置：<br><br>\n**NeoForge：** `config/Protect My Pets/protect-my-pets_config.toml`<br>\n**Forge：** `world/serverconfig/Protect My Pets/protect-my-pets_config.toml`<br><br>\n這個設定檔允許你自訂一些項目。\n你可以自訂：\n- 標籤可以應用在哪些實體上\n- 標籤的耐久度\n\n## 它是如何運作的？\n\n當寵物佩戴標籤時，牠們不會受到傷害。相反地，所有的傷害都會轉移到標籤的耐久度上。一旦耐久度歸零，標籤就會損壞，你需要製作一個新的。標籤無法修復，但你可以按住 `Shift` 並用剪刀 `右鍵點擊` 你的寵物來取下標籤。\n如果你按住 `Shift` 並空手 `右鍵點擊` 你的寵物，你將能夠看到寵物標籤的耐久度。\n\n黃金標籤的合成方式如下：\n![合成配方](https://cdn.modrinth.com/data/cached_images/468b9dea7be3ef71dc914290504bbe170af19534.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

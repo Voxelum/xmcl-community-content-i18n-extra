@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Q9J6FBDzk6E=",
+  "content": "<p>這個模組主要修復了 ApocalypseNow 中的一個嚴重記憶體洩漏問題，並增加了一些模組相容性。&nbsp;</p><p>&nbsp;</p><p><strong>模組相容性：</strong></p><p>Quark：即使模組更新新增了容器，所有 ApocalypseNow 選單都會加入 Quark 物品欄轉移按鈕。</p><p>（可能規劃中）：</p><p>FirstAid</p><p>&nbsp;</p><p><strong>效能表現：</strong></p><p>修復了裝甲相關的嚴重記憶體洩漏，在天空平台上生成約50隻裝甲殭屍時，效能提升超過兩倍（240-260）->（512-546）。<br>記憶體分配速率從 3125mb/s（未修復）降至 400mb/s（已修復）<br>同時大幅降低記憶體使用量，實際效果會因分配的記憶體容量而有所不同。</p><p>&nbsp;</p><p><strong>錯誤修正：</strong></p><p>幸運與戰利品注入：ApocalypseNow 容器現在會像原版容器一樣運作，正確套用幸運值，具體來說現在會以玩家作為參數來解包戰利品表。</p><p>&nbsp;</p><p><strong>額外功能：</strong></p><p>爆頭與爆頭屬性：純屬娛樂功能，預設關閉，需在設定中啟用。為所有武器（包含 ApocalypseNow 武器）新增爆頭倍率屬性和爆頭傷害。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

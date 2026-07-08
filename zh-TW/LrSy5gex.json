@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5KSnf8n0xSs=",
+  "content": "**Ciallo～(∠・ω<)⌒★**  \n這是 Slashblade: Resharped 的附加模組。此模組在遊戲中加入了一把獨特的刀劍，你可以在神社中找到它（僅生成於櫻花林生物群系）。  \n![shrine](https://cdn.modrinth.com/data/cached_images/4be1fcbd8395b8de7a81a511a74d39f0e30778fc_0.webp)  \n\n取得這把刀需要滿足以下三個條件：  \n\n1. 經驗等級 ≥ 50。  \n2. 擊殺不死生物 ≥ 500 隻。  \n3. 擁有至少 5 種正向藥水效果。  \n\n當你點擊神社中嵌著的石頭後，即可獲得名刀「村雨丸」。  \n![embedded stone](https://cdn.modrinth.com/data/cached_images/74153f49a2a604811a957cb1b92a703c3ecd66d6_0.webp)  \n\n獲得名刀「村雨丸」後，還可以進一步進化，條件如下：  \n\n1. 該刀的擊殺數 ≥ 1000。  \n2. 該刀累積的 Proudsoul 數量 ≥ 50000。  \n3. 手持該刀安睡一夜。  \n\n進化後，刀將化為神刀「村雨丸」。當你手持這把刀時，刀靈「村雨」將常伴你左右（不過目前沒有實際意義）。同時，刀內將內置多種語音。  \n\n![blade](https://cdn.modrinth.com/data/cached_images/3c05c72c380eb6b172df59fe52fc6f9bdb761701_0.webp)  \n\n順帶一提，我不太擅長 Java，所以讓 Deepseek 幫了忙 XD  \n\n**由於大部分程式碼由 AI 生成，可能會有許多 Bug。**  \n\n模組測試環境：Forge 47.4.0 / Slashblade: Resharped 0.6.0",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

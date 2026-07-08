@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KgyDvt65hIs=",
+  "content": "## 說明\n這個資料包/模組新增了一個簡單物品：磨損調節器。你可以透過合成來獲得它。當你主手持磨損調節器，而副手持有修復費用至少為30等級的工具時，對空點擊右鍵即可將修復費用降低至5等級。\n\n# 無法修復的工具終結了！\n![wear_modulator_banner](https://www.dropbox.com/scl/fi/6mscity9ayxj10zs8cwc4/wear_modulator_banner.png?rlkey=r8nu190iws51phmhroj6ng68w&st=h1skw7za&dl=1)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/53NRt15PU1A\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### ⚠ 警告 ⚠\n- Fabric版本需要安裝[FabricAPI](https://modrinth.com/mod/fabric-api)。\n- 資料包版本需要搭配資源包使用。\n- 資料包與模組目前僅提供英文和法文翻譯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

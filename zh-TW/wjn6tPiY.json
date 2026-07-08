@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gGyfPto5pk4=",
+  "content": "這個模組允許伺服器管理員將特定物品加入黑名單。被禁止的物品會在存放它的容器更新時立即刪除，並且不再掉落。\n您可以在 `[存檔名稱]/serverconfig/itemblacklist.json` 下找到清單。\n\n您也可以在 `defaultconfigs` 下建立一個名為 `itemblacklist.json` 的預設黑名單。這將會自動套用到您建立的每個新世界。\n\n<details>\n<summary>指令</summary>\n\n```\n/itemblacklist ban [物品] \n  禁止一個物品\n/itemblacklist unban [物品] \n  解除禁止一個物品\n/itemblacklist ban all \n  禁止所有物品\n/itemblacklist list \n  顯示所有被禁止的物品（任何人都可以使用這個指令）\n```\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

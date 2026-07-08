@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5zRgKBllbKM=",
+  "content": "# 亲吻朋友！\n\n想在 Minecraft 中亲吻你的朋友吗？现在你做到了！\n\n![表情](https://codeberg.org/slonk/kiss-a-friend/raw/branch/main/src/main/resources/assets/kiss-a-friend/icon.png)\n\n只需在相对而视时潜行即可触发亲吻！\n\n名称由我的朋友建议，他制作了 [摸摸朋友的头！](https://modrinth.com/plugin/headpat) 模组。\n\n## 雌激素（Estrogen）集成\n\n与 [雌激素](https://modrinth.com/mod/estrogen)（原名 *Create: Estrogen*）模组的集成以“亲吻时传递雌激素”的形式呈现：给予对方玩家你“少女之力”效果一半的持续时间，且不会减少你的效果时长。分享即是关爱！\n\n此功能可在模组选项或配置文件中关闭。\n\n注意：雌激素模组仅适用于 1.20.1 版本，但该集成功能在其移植至最新版本后将无需更新本模组即可生效。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "I9xvfykVTuQ=",
+  "content": "🧪 药水商店\n\n与其依赖运气，不如搭建一套系统。\n前期掉落机制还行，到了后期——纯粹是在浪费时间。\n\n药水商店为你提供结构清晰、可控的药水获取方式——且不破坏平衡性。\n\n它增加了什么？\n– 基于等级的药水定价\n– 对经济的完全掌控\n– 减少对随机掉落机制的依赖\n\n❓ 这会不会太强了？\n→ 除非你忽视资源平衡。\n\n❓ 真正的好处是什么？\n→ 稳定性。你不再盲目刷怪，而是开始做出决策。\n\n🛒 指令：\n\n/shop tier basic 5\n→ 将所有基础药水价格设为5个铁锭\n\n/shop tier combat 3\n→ 战斗药水价格设为3个金锭\n\n/shop tier rare 1\n→ 稀有药水价格设为1个钻石\n\n/shop price strength 5\n→ 为特定药水单独设置价格",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

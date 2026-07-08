@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wioCUJWVjm8=",
+  "content": "# Epic Compat：MrCrayfish的槍械模組\n\n![動畫總覽。](https://cdn.modrinth.com/data/GTKVKl2m/images/1a0bbd2d671ef8db9390562a248ca29cb431573a.png)\n\n[![bisecthosting](https://www.bisecthosting.com/partners/custom-banners/5ea61298-7966-4331-945f-da7b80663a38.webp)](https://bisecthosting.com/hd42)\n\n由Epic Fight驅動的MrCrayfish槍械動畫。\n\n## 說明\n\n僅在啟用Epic Fight動畫時才會顯示動畫。這包括玩家處於**戰鬥模式**，或**過濾動畫**功能被**停用**的情況（此時模式無關緊要）。請注意，在戰鬥模式下持槍時，左鍵點擊仍會進行近戰攻擊。\n\n若您希望在第三人稱使用Epic Fight動畫的同時，第一人稱保留原版動畫，可以使用[Epic Tweaks](https://modrinth.com/mod/epic-tweaks)實現。\n\n同時提供新的武器類型，讓您能定義使用槍械持握動畫的自訂物品。更多資訊請參閱[Epic Fight維基](https://epicfight-docs.readthedocs.io/Guides/page2/#weapon-file)。請注意，任何來自Crayfish槍械模組附加元件的槍械，若屬於預設的*Crayfish槍械類型*，將會自動被分配對應的*Epic Fight武器類型*。\n\n| (Epic Fight) 武器類型      | (Crayfish) 槍械類型 |\n| ------------------------- | ------------------- |\n| `epiccompat_cgm:pistol`   | `ONE_HANDED`        |\n| `epiccompat_cgm:rifle`    | `TWO_HANDED`        |\n| `epiccompat_cgm:bazooka`  | `BAZOOKA`           |\n| `epiccompat_cgm:mini_gun` | `MINI_GUN`          |\n| `epiccompat_cgm:grenade`  |                     |\n\n## 依賴項目\n\n- [Epic Fight](https://modrinth.com/mod/epic-fight)\n- [MrCrayfish的槍械模組](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

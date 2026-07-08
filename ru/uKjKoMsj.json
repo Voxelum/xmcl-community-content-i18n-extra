@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ADPEB8ipdwI=",
+  "content": "# ImmersiveThunder\n\nImmersiveThunder добавляет в игру новые звуки грома и воспроизводит их динамически в зависимости от расстояния игрока до источника. Чем ближе вы находитесь, тем громче и интенсивнее будет звук. Чем дальше вы от него, тем тише и более затяжным будет звук.\n\n**Для работы требуется [Fabric API](https://modrinth.com/mod/fabric-api)!**\n\n---\n\n**Лучше всего звучит с [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

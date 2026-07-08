@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yotlXffl1U4=",
+  "content": "數週前，在多款 Minecraft 模組中發現了一個極其嚴重的漏洞，該漏洞允許在客戶端和伺服器（進而影響伺服器上所有連線的客戶端）上執行任意遠端程式碼。\n\n \n\n有關此主題的更多詳細資訊以及目前已知受影響模組的清單，請參閱[此處](https://github.com/dogboy21/serializationisbad/blob/master/README.md)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

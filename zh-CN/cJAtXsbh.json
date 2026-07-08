@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d+MdYlVe6l8=",
+  "content": "岩浆源控制是一个轻量级的Minecraft数据包，允许玩家开启或关闭岩浆源转换功能。启用后，岩浆将表现得与水相同，使得岩浆源方块能够通过标准的水流机制从相邻源块生成；禁用时则恢复原版岩浆行为。该数据包包含三个功能函数：lava_conversion_on用于启用功能，lava_conversion_off用于禁用功能，toggle用于切换状态。\n\n使用 /function ns:lava_conversion_on 启用功能，/function ns:lava_conversion_off 禁用功能，或 /function ns:toggle_lava_conversion 切换状态。数据包提供清晰的游戏内反馈，设置会在重载后保留，无需模组即可运行，并全局应用于世界。该数据包专为Minecraft 1.21.x版本构建，已在1.21.11版本测试通过。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

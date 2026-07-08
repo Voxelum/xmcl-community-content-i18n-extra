@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gupMGE3zmpM=",
+  "content": "本模组修复了来自 [Create: Factory Logistics](https://modrinth.com/mod/create_factory_logistics) 的复合包装，使其能正确从重新打包器中输出。\n\n修复方式为：将包装或复合包装与一个罐子放入重新打包器，然后为其提供动力以完成组合。每个复合包装仍可正常容纳最多4个罐子和9组物品。本模组仅修复了一个Bug，并未新增复合包装。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

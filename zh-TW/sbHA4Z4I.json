@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rpwX7BPKUoI=",
+  "content": "## 允許所有顏色的玻璃和玻璃板重新染色成不同顏色\n\n### 注意：\n此資料包新增了配方，移除這個資料包會導致控制台出現關於缺失配方的警告。這對您的世界或存檔資訊沒有危險。\n\n### 使用模組版本時的安裝資訊：\n這些功能與資料包相同，但會應用於所有使用此模組創建/啟用的世界。如果您不希望這適用於所有世界，請改用資料包。\n\n**Forge**：\n<br>無需其他依賴，只需將模組放入mods資料夾\n\n**Fabric**：\n<br>需要Fabric API\n\n**Quilt**：\n<br>需要Quilted Fabric API\n\n### Purpur 擴充包\nPurpur 擴充包是建議新增至 Purpur 的功能 - 或符合 Purpur 主題，但更適合以資料包形式呈現！\n<br>這些資料包的功能與 Purpur 中的單一配置設定相同。它們可以隨時新增或移除，不會損壞伺服器。\n<br>這些擴充包在原生 Minecraft 中即可使用，不需要運行 Purpur 伺服器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

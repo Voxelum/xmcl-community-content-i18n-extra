@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Q2RIJAdt/5M=",
+  "content": "# 垂直半磚相容\n\n類似於 Every Compat，此模組旨在透過為所有擁有半磚的方塊新增 Quark 的垂直半磚，來填補模組相容性的缺口。\n\n這項功能會自動運作，且不會註冊已經存在的垂直半磚。\n\n雖然它為 Quark 新增了內容，但這個模組本身並非必要，你也可以將它作為獨立模組使用。\n\n此模組的唯一目的就是新增垂直半磚，所以請不要要求垂直階梯或其他像那樣瘋狂的微方塊。如果你想要那些，我建議使用[這個模組](https://www.curseforge.com/minecraft/mc-mods/additional-placements#:~:text=Additional%20Placements%20is%20a%20Vanilla,the%20original%20blocks%20is%20modified.)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

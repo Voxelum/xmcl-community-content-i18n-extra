@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tryv9vbI+Ik=",
+  "content": "<p>一個可自訂的 Minecraft HUD 覆蓋模組。<span style=\"color:#ba372a\">目前僅設計用於 Mine and Slash 整合。</span></p><hr><p><strong>功能特色</strong></p><ul>\n<li>球體資源顯示 - 以精美的球體 UI 顯示 HP/魔力/體力</li>\n<li>技能快捷欄 - 可自訂的技能管理快捷欄</li>\n<li>傷害彈出顯示 - 自訂字體傷害顯示，依 Mine and Slash 元素顏色區分</li>\n<li>增益/減益效果顯示 - 以圖標列出當前效果</li>\n<li>目標資訊顯示 - 顯示目標 HP 及 Mine and Slash 等級</li>\n<li>天數計數器 - 顯示世界經過的天數</li>\n<li>裝備耐久度 - 顯示已裝備盔甲的耐久度</li>\n</ul><hr><p><strong>配置設定</strong></p><ul>\n<li>按下 <code>O</code>（預設）開啟 HUD 設定</li>\n</ul><hr><p><strong>需求條件</strong></p><ul>\n<li>Minecraft 1.20.1</li>\n<li><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/mine-and-slash-reloaded\" target=\"_blank\" rel=\"nofollow\">Mine and Slash</a></strong>（必要 - 目前僅支援 Mine and Slash）</li>\n<li>Forge 47+（Forge 版本）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

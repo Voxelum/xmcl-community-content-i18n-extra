@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D/am7kGuKOs=",
+  "content": "<p><span style=\"font-size:18px\">Scaling Wealth 是什麼：</span></p><p>Scaling Wealth 是為 <a href=\"https://minecraft.curseforge.com/projects/scaling-health\" rel=\"nofollow\">Scaling Health</a> 所設計的小型生活品質附加模組，由 <em>SilentChaos512</em> 編寫。這個模組（Scaling <em>Wealth</em>）允許你根據遊戲當前的難度，為不同類型的生物指定自訂戰利品掉落。</p><p>&nbsp;</p><p><span style=\"font-size:18px\">為何存在：</span></p><p>Scaling Health 確實允許你根據戰利品表來指定掉落物，但並非所有模組都使用戰利品表來決定生物掉落物。有不少模組使用其他方法來決定哪些戰利品會被掉落。正因如此，Scaling Health 無法為那些生物添加掉落物！為了解決這個問題，Scaling Wealth 添加了它自己簡化的戰利品表形式，這會告訴遊戲根據該生物（或擊殺它的玩家！）當前的難度來掉落哪些額外物品。</p><p>&nbsp;</p><p><span style=\"font-size:18px\">如何使用：</span></p><p>有關編輯生物掉落項目的資訊，請參閱 <a href=\"https://github.com/ejektaflex/Scaling-Wealth/wiki/Editing-Mob-Drops\" rel=\"nofollow\">Wiki</a>。</p><p>&nbsp;</p><p><span style=\"font-size:18px\">需求：</span></p><p>Scaling Wealth 需要 <a href=\"https://minecraft.curseforge.com/projects/scaling-health\" rel=\"nofollow\">Scaling Health</a>（其本身依賴於 SilentLib）和 <a href=\"https://minecraft.curseforge.com/projects/shadowfacts-forgelin\" rel=\"nofollow\">Forgelin</a> 才能運行。</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

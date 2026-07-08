@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fsPNBvEcDpk=",
+  "content": "嘿，你知道吗，当你坠毁飞船时，它就只是停在地上？\n\n我希望坠毁能更有沉浸感，但唯一可选的只有“真实冲击”模组，可那玩意儿真的会摔碎你的飞机！\n\n那如果伤害只是视觉上的呢？\n\n# Sable: Dramatic Impact\nSable: Dramatic Impact 在飞船坠毁时添加了视觉效果爆炸！\n所有效果均可配置，兼容CBC烟雾模组，你的方块不会损坏，\n保证如此！\n\n![坠毁的飞机](https://cdn.modrinth.com/data/cached_images/8934ffca22e4fd18e245f8b4f3ec117746a95a30_0.webp)\n\n\n### 已知问题：\n- 冲击触发条件不够完美，有时不该触发却触发了，有时又触发不足。仍在思考如何解决\n- 碰撞仅作用于物理物体，为螺旋桨和襟翼创建的机械轴承不会引发爆炸。后续会研究修复。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

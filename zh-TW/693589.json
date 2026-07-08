@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ZUcoqkkGCk=",
+  "content": "<p><span style=\"font-family:&amp;#x27;font-size:18px\">這是什麼？</span></p><p>這是CW模組包的依賴模組，為特定槍枝零件加入3D模型。如果單獨使用，此模組不會有任何作用。</p><p><strong>更新：</strong></p><p>各位抱歉！我在製作這個模組時，還不太了解編寫程式碼或製作模組的相關知識。如果要重做一次，我會選擇在模組內部加入合成配方，而不是依賴KubeJS的外部合成配方，這也是我們在CW模組包中採取的做法。（此外，我們也選擇讓這些零件僅能透過探索和戰鬥取得，詳見下文）</p><p>在Cursed Walking模組包中，你可以在某些結構中找到CW槍枝擴充零件。我們也時不時地將其加入或移除於殭屍掉落物中。根據你所玩的版本，這可能是一個取得選項。如果你對此有任何其他疑問，歡迎在LBS / Cursed Walking模組包Discord伺服器（這不是我的伺服器，我會將你導向LBS！）中提問。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

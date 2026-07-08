@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1NavUCu8fPo=",
+  "content": "# Voxarian World Essentials\n\nНеобходимые ресурсы для модпака Voxarian World\n\nЛёгкий клиентский мод Fabric, который настраивает экран загрузки Minecraft\nс брендированием Voxarian World и удаляет заставку с текстом.\n\n## Особенности\n- Индивидуальное логотипа экрана загрузки\n- Только для клиентской стороны\n- Совместим с модпаками Fabric\n- Зависимость для всех пользовательских модов Voxarian World\n- Принудительная установка пакетов ресурсов\n\n## Требования\n- Minecraft 1.20.1\n- Fabric Loader ≥0.18.4\n- Fabric API\n\n## Совместимость\n✔ Sodium  \n✔ Lithium\n✔ Iris  \n✔ Приложение Modrinth \n\n## Примечания\nЭтот мод предназначен только для клиентской стороны и не требует установки на серверах.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

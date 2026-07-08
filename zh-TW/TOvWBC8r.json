@@ -1,0 +1,6 @@
+{
+  "bodyHash": "viaX03BhUq4=",
+  "content": "這個模組重現了 Hypixel Skyblock 中的 Hyperion 物品。目前唯一的取得方式是使用 /give 指令，但我計劃新增一個合成配方，讓它在後期單人遊戲中依然維持平衡。此外，近戰傷害目前有 bug。右鍵技能：向前傳送 10 格，然後產生內爆，對周圍敵人造成 30 點傷害，同時給予玩家吸收 4 和抗性 1，持續 5 秒。\n\n另外，材質是來自 Bedless 550k 的暫用材質。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

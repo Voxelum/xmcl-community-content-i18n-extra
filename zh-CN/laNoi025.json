@@ -1,0 +1,6 @@
+{
+  "bodyHash": "x3VPDXl82S8=",
+  "content": "# 截图查看器\n\n截图查看器是一个模组，允许你在游戏中查看你拍摄的截图（包括你不小心按下F3时拍摄的截图）。\n\n它拥有一个出色的图形用户界面和游戏内配置，这要归功于我开发的库[CatConfigMC](https://github.com/LGatodu47/CatConfigMC)。\n\n以下是游戏内GUI的两个截图：\n\n![游戏内截图管理屏幕的视图](https://raw.githubusercontent.com/LGatodu47/ScreenshotViewer/master/img/ingame_screenshots_view.png)\n\n![从标题屏幕访问的截图管理器，没有截图](https://raw.githubusercontent.com/LGatodu47/ScreenshotViewer/master/img/no_screenshots.png)\n\n如果你想详细查看某张截图，或者只是浏览它们，你可以点击一张截图以放大它，并通过滚动或点击左右按钮来查看下一张或上一张截图。\n\n![当点击屏幕上的截图时](https://raw.githubusercontent.com/LGatodu47/ScreenshotViewer/master/img/selected_screenshot.png)\n\n最后，你可以通过点击标题屏幕或暂停菜单中的按钮，或通过配置按键绑定来访问这个截图管理屏幕。\n\n![暂停菜单中访问截图管理屏幕的按钮](https://raw.githubusercontent.com/LGatodu47/ScreenshotViewer/master/img/manage_screenshots_ingame.png)\n\n希望你喜欢这个模组！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

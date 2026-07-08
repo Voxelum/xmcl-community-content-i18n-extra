@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Pq4UlwW0F5M=",
+  "content": "![使用所有机器和多方块结构的示例配置](https://imgur.com/Xgm3YQJ.png)\n<font size=\"2\">需要 [现代工业化](https://modrinth.com/mod/modern-industrialization)、[敌对神经网络](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)、[Tesseract API](https://modrinth.com/mod/tesseract-api) 和 [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)。您可能已经拥有其中大部分了！</font>\n\n**敌对神经工业化** 弥补了 [现代工业化](https://modrinth.com/mod/modern-industrialization) 的一个盲区：生物养殖。通过利用 [敌对神经网络](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) 的机制，您将能够轻松实现生物战利品的全自动化。**_神经网络必须发展壮大_**。\n\n# 功能特性\n- 为 HNN 的 **模拟室** 和 **战利品制造机** 提供现代工业化风格的侧向升级\n- 将这两台机器以多方块形式呈现，满足您极致的资源养殖需求\n- 支持配方查看器（EMI、JEI、REI）\n- 完整的游戏内文档\n- [丰富的配置选项与 KubeJS 支持，方便模组包制作者使用！](https://github.com/Luligabi1/HostileNeuralIndustrialization/wiki)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "F93rpzn70rc=",
+  "content": "# NEpicloob 霓虹劍\n\n**提升你的戰鬥視覺效果！** 這個模組修改了 **Epic Fight** 的揮劍軌跡，賦予它們充滿活力的霓虹發光效果。\n\n### ✨ 功能特色\n* **發光軌跡：** 為武器揮動軌跡添加霓虹發光效果。\n* **可自訂性：** 包含遊戲內配置設定，可依喜好調整劍刃效果的亮度。\n\n### 💡 光影相容性\n此模組完全相容於光影！\n* **疑難排解：** 若發現軌跡顏色不正確（例如白色軌跡呈現黃色），請調整光影的 **方塊照明顏色**（或 *方塊照明色溫*）設定。\n* *注意：某些亮度設定僅在啟用光影時生效。*\n\n### ⚠️ 相容性說明\n* **支援版本：** Minecraft 1.20.1\n* **Optifine：** ❌ 不相容（請改用 Oculus/Iris）\n\n### 製作群\n靈感來源於 *EpicFight Sword Light Modifications*。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

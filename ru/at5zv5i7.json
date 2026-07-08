@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ifrNdGWg3Io=",
+  "content": "# Круглый кактус\n\nКруглые кактусы! Бывает ли что-то лучше?\n\nПолностью совместимо с другими пакетами ресурсов! Главное, чтобы этот пакет был загружен первым/выше их в списке пакетов ресурсов.\n\n![cacti-main](https://raw.githubusercontent.com/hudsonm62/RoundCactusPack/refs/heads/master/src/main/pack.png)\n\n![1](https://raw.githubusercontent.com/hudsonm62/RoundCactusPack/refs/heads/master/screenshots/1.png)\n![2](https://raw.githubusercontent.com/hudsonm62/RoundCactusPack/refs/heads/master/screenshots/2.png)\n\nИз-за изменений между версиями 1.12.2 и 1.13+ существуют две версии пакета.\n\n- `Round-Cactus-1.9-1.12.2_VERSION.zip` поддерживает Minecraft 1.9 — 1.12.2\n- `Round-Cactus-main_VERSION.zip` поддерживает Minecraft 1.13 — 26.2.\n\nИгнорируйте любые предупреждения о несовместимости — всё будет работать без проблем! Это связано с тем, что до версии 1.20.1 невозможно было задавать поддержку конкретных версий Minecraft.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

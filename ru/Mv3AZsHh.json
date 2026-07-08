@@ -1,0 +1,6 @@
+{
+  "bodyHash": "z6cfAyp1LpY=",
+  "content": "# FPVEffect\n### — (в некоторой степени) Реалистичная симуляция эффекта FPV\n\n[Требуется Fabric API](https://modrinth.com/mod/fabric-api)\n\n## **Команды:**\n\n```\n/fpv toggle true — Включает эффект FPV\n/fpv toggle false — Отключает эффект FPV\n/fpv signal 1.0–0.0 — Задаёт силу сигнала FPV\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EftLh10VGSY=",
+  "content": "# 創造水井\n\n「創造水井」是「Create」模組的擴充內容，同時也是 cubicoder 的「Just a Well」模組移植版本。此模組新增了需要旋轉動力才能產生液體的水井結構。\n\n## 特色功能\n- **自訂配方**：可透過資料包自行設計水井的合成配方。\n- **生態域/維度特定液體**：依據水井所處的生態域或維度，可產生不同類型的液體。\n- **倒置建造**：支援非常規方向的井體建造，可能適用於特定配方需求。\n- **與 Create 模組整合**：水井需藉由 [Create 模組](https://github.com/Creators-of-Create/Create) 提供的機械旋轉動力方能運作。\n- **與 JEI 整合**：水井的配方會同步顯示於 [JEI](https://github.com/mezz/JustEnoughItems) 介面中\n- **方塊環境判定**：根據水井下方的方塊類型，可產生對應的特殊液體",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

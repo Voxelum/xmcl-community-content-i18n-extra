@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wwn9lJHrO4c=",
+  "content": "<h1>关于</h1><p>FastFurnace 利用混入（mixins）来修改熔炉、高炉和烟熏机的功能，提升它们的 TPS 性能（而不是烧炼速度！）。</p><p>与 FastWorkbench 类似，它会缓存最近使用的配方，并在重新扫描整个注册表之前优先检查该配方。由于原版熔炉每 tick 都会扫描整个熔炉注册表，这在原版环境下可能还好，但在模组环境中会迅速变得非常庞大，因此这种方法显著更快。</p><p>这些改动适用于熔炉、高炉和烟熏机。任何使用 AbstractFurnaceTileEntity 的模组也将在安装此模组后受益。</p><p>喜欢数据对比的朋友可以看看 <a href=\"/linkout?remoteUrl=https%253a%252f%252fi.imgur.com%252f6Xg1Xrq.png\" target=\"_blank\" rel=\"nofollow\">原版</a> 与 <a href=\"/linkout?remoteUrl=https%253a%252f%252fi.imgur.com%252fmy9FAFH.png\" target=\"_blank\" rel=\"nofollow\">FastFurnace</a> 的对比。测试期间，9 个熔炉持续烧制圆石。调用次数保持大致相同，以避免数据偏差。该测试在原版环境下进行，仅包含约 70 个熔炉配方。而在整合包中，配方数量可能高达 700 个，性能提升会显著增加。</p><p>请务必也看看 <a href=\"https://minecraft.curseforge.com/projects/fastworkbench\" target=\"_blank\" rel=\"nofollow\">FastWorkbench</a> 和 <a href=\"https://minecraft.curseforge.com/projects/toast-control\" target=\"_blank\" rel=\"nofollow\">Toast Control！</a></p><h1>支持我</h1><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252fservers%252fshadows-mods-613010559532531713\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://i.imgur.com/4D6zgZt.png\" alt=\"\"></a></p><h2>联系方式</h2><p>Discord: <a href=\"https://discord.gg/wdvU5Yz\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/wdvU5Yz</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

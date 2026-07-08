@@ -1,0 +1,6 @@
+{
+  "bodyHash": "B0ECvXvAvp0=",
+  "content": "萨布尔工具是一个用于操作[萨布尔](https://modrinth.com/mod/sable)中子层级的创造模式实用模组。它包含一些简单易用的物品，其中大部分本质上是命令快捷键。\n\n## 克隆枪\n允许复制/粘贴子层级。\n\n<img alt=\"使用克隆枪创建子层级副本\" src=\"https://cdn.modrinth.com/data/HHlTF7u0/images/7b0e10c59a191606a06a513409d06768f60aaa2d.gif\" width=\"65%\">\n\n## 泡泡吹\n通过在世界中选择两个点来轻松创建子层级。\n\n<img alt=\"用泡泡吹将方块组装成子层级\" src=\"https://cdn.modrinth.com/data/HHlTF7u0/images/99e55877d98e782b1cc39fe2e7ffb733b21e7321.gif\" width=\"65%\">\n\n## 相机\n将所有选中的子层级的位置保存到一张照片中。之后可以使用该照片恢复它们的位置。\n\n<img alt=\"用照片恢复一组子层级\" src=\"https://cdn.modrinth.com/data/HHlTF7u0/images/f4c06f2f04bcff3cc8b7b4189ce986402938d278.gif\" width=\"65%\">\n\n## 撬棍\n一个具有额外推力的简单物品。它们可以互相堆叠以增加推力。\n\n<img alt=\"用撬棍击打大型子层级\" src=\"https://cdn.modrinth.com/data/HHlTF7u0/images/f6f92fac41e2ab52eb6a0393890e2f5796ba4037.gif\" width=\"65%\">\n\n## ……还有更多！\n我没动力录更多GIF了，但还有更多的物品<br>\n它们都有游戏内描述\n\n## ⚠️ 克隆枪相关问题\n萨布尔目前不支持任意存储子层级，因此这个想法的实现有些不太稳定。\n- 方块实体的复制效果可能不佳，具体情况各不相同\n- 普通实体完全不会被复制\n- 机械动力（Create）的传动结构不兼容\n<h1></h1>\n<div align=\"center\">\n    <a href=\"https://modrinth.com/mod/sable\">\n        <img alt=\"由萨布尔驱动\" width=\"30%\" src=\"https://cdn.modrinth.com/data/cached_images/d13ac17ef50ed090e7d21fcae0caf8958eeece3d.png\">\n    </a>\n</div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

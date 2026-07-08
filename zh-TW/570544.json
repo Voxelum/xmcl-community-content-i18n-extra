@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cOCOP4Aea3Y=",
+  "content": "<h5><em><strong>本模組 1.19.4 及以上版本需要安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/gml\" rel=\"nofollow\">GroovyModLoader</a></strong></em></h5><p>這是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric\" rel=\"nofollow\"><strong>Eating Animations</strong></a> 模組的 Neo(1.21+)/Forge 移植版，包含其所有功能，並額外提供在物品欄中也顯示進食動畫的選項！(可在 <em>eatinganimation-client.toml</em> 設定檔中調整)</p><h3>在尋求支援前，請確認「Mod Resources」資源包位於原版資源包之上</h3><p>進度條的模型覆蓋是全域的，因此您可以為任何模組中的<strong>任何</strong>物品添加進食動畫。請參考我們提供的<a href=\"https://github.com/MatyrobbrtMods/EatingAnimationForge/tree/1.16.x/src/generated/resources/assets/minecraft/models/item\" rel=\"nofollow\"><strong>模型</strong></a>作為範例。</p><p>本模組也與以下模組相容：additionaladditions、duckling、farmersdelight、snowpig。若要啟用此相容性，請啟用「EatingAnimations Compat」資源包！</p><p>本模組中包含的所有資源皆為原版 Fabric 版本，採用 <strong>MIT 授權條款</strong>。</p><p>加入 Discord 伺服器。</p><p><a href=\"https://discord.gg/vV25kEaWJX\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/925411705461293086?color=5865f2&amp;label=Discord 伺服器&amp;logo=discord&amp;logoColor=ffffff&amp;style=flat\" alt=\"Discord\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

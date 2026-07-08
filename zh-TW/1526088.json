@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YDjKtHpmcsQ=",
+  "content": "<h2>Epic Fight Indestructible 非官方版</h2><p>一個為 Epic Fight 1.20.1 維護的 Indestructible 分支。</p><p>原先的優秀模組為我們帶來了最精彩的戰鬥場景，如今此處持續維護更新，同時 EFI-Unofficial 在原有基礎上新增功能，讓玩家得以打造心中理想的戰鬥體驗。我決定重啟這個專案，因為 cnpc 仍需要它，而我已承諾會讓它回歸——由於找不到公開的 1.20.1 原始碼，我選擇從零重建。若你使用 Combat Evolution，我建議同時啟用 EFI 與此模組。具體而言，EFI 提供標準進階行為與特定生物行為（透過 nbt_tag 欄位），適合新手至進階邏輯；Combat Evolution 則專注於進階至專家級的戰鬥邏輯。兩者各有定位，以上純屬個人建議。</p><hr><h2>新增核心功能！！！</h2><ul>\n<li><strong><code>nbt_tag 生物修補</code></strong> —— 為單一生物類型賦予進階行為，無須影響同類型所有實體。你沒聽錯！！！現在可以創造夢寐以求的精英怪物了。</li>\n<li>** <code>TACZ 戰鬥行為</code>** —— tacz_aim、tacz_shoot、reload 行為讓任何生物都能使用 TACZ 槍械射擊！！！沒錯，任何生物都行，各位朋友！這是我最愛的功能！</li>\n<li><strong><code>gear_swap</code></strong> —— 戰鬥中即時切換裝備，支援 TACZ 槍械、多重欄位陣列，無須指令……除非你想用？</li>\n<li><strong><code>新增判斷條件</code></strong> —— has_target、no_target、target_blocking、target_using_shield、has_ammo、ammo_is_empty、ammo_not_full、ammo_has_reserve、has_gear_in_inventory、mainhand_weapon_category、offhand_weapon_category。這些都是為了讓你更靈活地控制生物行為。未來可能還會增加更多條件，但目前這些是我想到的；部分條件未來可能移除，如果你想保留請告訴我。</li>\n</ul><hr><h2>相容性</h2><ul>\n<li>Epic Fight 20.14.11+</li>\n<li>CustomNPCs 1.20.1-GBPort-Unofficial-1.20.1.20260227（可選）</li>\n<li>TACZ 1.20.1-1.1.7-hotfix2（可選，但若使用此模組則需 Epic Arsenal）</li>\n<li>Tijon's Epic Arsenal - 1.0.2+（可選）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

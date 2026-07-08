@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FcG6BwJqQnc=",
+  "content": "Скрывайте и настраивайте имена других игроков с помощью команд\n\n![](https://media.forgecdn.net/attachments/802/421/2024-02-04-15-55-25-1.gif)\n\n<span style=\"font-size: 14px;\"><strong>Команды</strong></span>\n\n<details>\n<summary>Команды</summary>\n  \n```\n/hiddennames nameplateVisible [игрок(и)] [true/false]\n/hiddennames defaultVisible [true/false]\n/hiddennames blocksHideName [true/false] \n  Блоки, находящиеся на пути, скрывают табличку с именем\n/hiddennames setName [игрок(и)] [цвет] [анимация] [\"имя\"]  \n  Аргумент «имя» должен быть заключён в кавычки\n/hiddennames setName [игрок(и)] имя [\"имя\"]</p><p>\n/hiddennames setName [игрок(и)] цвет [цвет]</p><p>\n/hiddennames setName [игрок(и)] анимация [анимация]\n/hiddennames setName [игрок(и)] reset\n```\n  \n  Для выполнения всех команд требуется уровень оператора 2 или выше.\n</details>\n\n\n**Поддержите меня**\n\n\\- Присоединяйтесь к моему [серверу Discord](https://discord.gg/pCws5wJ2yT)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VMl0ns0z4s0=",
+  "content": "# 瓶中悦灵\n\n![GitHub 最新发布](https://img.shields.io/github/v/release/2mal3/Allay-in-a-Bottle?style=flat-square) ![GitHub 所有发布](https://img.shields.io/github/downloads/2mal3/Allay-in-a-Bottle/total?style=flat-square) ![Minecraft](https://img.shields.io/badge/Minecraft-1.20-orange?style=flat-square)\n\n### 📖 功能\n\n- 有趣的想法\n- 轻量级\n- 自动乘坐矿车\n- 自动与音符盒配对\n- 高性能\n\n用瓶子运输悦灵！\n一个轻量级的数据包，可以更轻松地长距离运输悦灵和恼鬼。\n捕捉或释放时，只需右键点击瓶子即可（有时可能需要多次尝试）。\n\n## 📒 注意事项\n\n- 已在 1.20 版本的 Fabric 和原版 Minecraft 中测试\n- 错误报告和建议最好在 [GitHub](https://github.com/2mal3/Allay-in-a-Bottle/issues) 上提交\n- 要卸载，请运行命令 `/function aiab:core/uninstall`\n- 特别感谢 @giggity404 提供的想法和代码\n- 如需与 [Bottle o Light 数据包](https://www.planetminecraft.com/data-pack/bottle-o-light/) 兼容，请在此处下载相应版本 [here](https://github.com/2mal3/Allay-in-a-Bottle/releases/download/v1.0.3/Allay-in-a-Amethyst-Bottle.zip)\n- 该数据包使用 [mc-build](https://github.com/mc-build/mc-build) 创建",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "leNgStJJbC4=",
+  "content": "Добавляет поддержку JEI для модов, у которых её нет.\n\nДинамически загружает поддержку в зависимости от установленных модов, так что вы можете использовать её, даже если у вас установлен только один мод.\n\nВ настоящее время поддерживаются следующие моды:\n\n<details>\n<summary>1.12:</summary>\n\n##### Animania Farm\n\nСырная форма\n\n##### Bibliocraft\n\nПечатный станок\n\nСтол для набора текста\n\nПисьменная машинка\n\n##### Fish's Undead Rising\n\nТаблица добычи кишечника\n\nРецепты чародейства на наковальне\n\n##### MrCrayfish's Furniture Mod\n\nКомпьютер\n\nДуховка\n\nМорозильник\n\nПринтер\n\nТостер\n\nРазделочная доска\n\nБлендер\n\nПосудомоечная машина\n\nСтиральная машина\n\nМикроволновая печь\n\nГриль\n\n##### MrCrayfish's Gun Mod\n\nСтанок для оружия\n\n##### Ultimate Car Mod\n\nМаслобойня\n\nВзрывная печь\n\nРеактор обратного смешивания\n\nРазделённый резервуар\n\n</details>\n\n\n<details>\n<summary>Будущие планы:</summary>\n\nМастерская автомобилей из мода Ultimate Car Mod\n\nРасширенная поддержка IndustrialCraft 2\n\nПластина агломерации Gaia из Botanic Additions\n</details>\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m19Cyg3ULFo=",
+  "content": "# ResourcePackDirectory\n![设置界面](https://cdn.modrinth.com/data/cached_images/d66618297b3a65520c80a13bb965ba9e43b39ce5_0.webp)\n### 允许热切换Minecraft资源包文件夹（无需重启MC）\n### 更改资源包的文件夹（无需重启MC）\n## 主要用途\n- 对于不同的Minecraft启动器和实例（如MultiMC、PrismMC、LunarClient、FeatherLauncher等）非常实用\n\n## 🎯 功能特性\n\n- **自定义资源包文件夹**：将资源包放置在任何你想要的位置\n- **跨平台支持**：兼容Fabric、NeoForge和Forge\n- **简便配置**：游戏内提供简单的设置界面，便于管理文件夹\n- **实时应用**：无需重启游戏即可更改文件夹位置\n\n## 🚀 安装方法\n\n1. 确保已安装支持的模组加载器（Fabric/NeoForge/Forge）\n2. 将模组文件放入你的 `mods` 文件夹\n3. 启动游戏\n\n## ⚙️ 使用方法\n\n### 通过游戏内设置\n\n1. 安装 [Mod Menu](https://modrinth.com/mod/modmenu) （仅限Fabric）\n2. 在主菜单中点击 \"模组\"\n3. 找到 \"ResourcePackDirectory\" 并点击设置按钮\n4. 使用以下选项：\n   - **路径输入框**：直接输入新的资源包文件夹路径\n   - **浏览按钮**：打开文件浏览器选择文件夹\n   - **重置按钮**：恢复为默认文件夹（`./resourcepacks/`）\n   - **确认**：应用更改\n   - **取消**：放弃更改\n\n### 注意事项\n我将ModMenu设为可选依赖，因为某些客户端无法使用Modmenu，因此我们需要其他模组，如 [Menulogue](https://www.curseforge.com/minecraft/mc-mods/menulogue) 或其他类似模组\n\n### 通过配置文件（需要重启）\n\n配置文件位置：`config/resourcepackdirectory.json`\n\n```json\n{\n  \"resourcepackdirectory\": \"./resourcepacks/\"\n}\n```\n\n## 📄 许可协议\n\n本项目保留所有权利。\n\n## 👤 作者\n\n**Gahaha**\n\n---\n\n*让你的资源包管理更加灵活！*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

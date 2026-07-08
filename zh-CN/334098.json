@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pml4v0mn+Ok=",
+  "content": "<p style=\"text-align:center\"><img src=\"https://i.imgur.com/72LNflb.png\" alt=\"\" width=\"1167\" height=\"624\">展示本模组中各种姿势躺卧的狗狗们</p><p style=\"text-align:center\">&nbsp;</p><h3 style=\"text-align:left\">关于模组</h3><p>正如其名，这个模组让长时间保持坐姿的狗狗能够真正躺下休息。</p><p>当狗狗在主人不在附近的情况下保持坐姿达到可配置的时间后，它们会随机选择一种姿势躺下休息。一旦主人再次靠近，它们就会兴奋地跳回坐姿！</p><p>本模组仅需客户端安装，需要依赖<a href=\"/linkout?remoteUrl=https%253a%252f%252ffiles.minecraftforge.net%252f\" rel=\"nofollow\">Minecraft Forge</a>。由于覆盖了原版狼的模型且仅为外观改动，可能与全面修改狼/狗的模组（如Doggy Talents）不兼容。</p><p>Fabric版本可<a href=\"https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie-for-fabric\" rel=\"nofollow\">在此获取</a>。</p><p>&nbsp;</p><h4>配置选项</h4><p>狗狗生成时躺卧 - 进入世界时，原本处于坐姿的狗狗是否会直接以躺卧姿态生成？</p><p>启用姿势 - 默认启用所有姿势，可随机生成约50种不同的狗狗躺卧组合。</p><p>起身条件 - 根据靠近的实体类型决定狗狗是否会从躺姿恢复为坐姿。</p><p>起身感应范围 - 上述配置的触发距离。</p><p>躺下等待时间 - 狗狗保持坐姿多久后会开始躺下休息。</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

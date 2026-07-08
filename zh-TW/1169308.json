@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PdngbA4Q0t4=",
+  "content": "<h2>Cobblemon: 離別贈禮</h2><p>此 Cobblemon 附加模組新增了高度可自訂的寶可夢放生獎勵系統。靈感來自《寶可夢傳說：阿爾宙斯》中的機制。</p><p>獎勵是透過滾動分配給寶可夢種類及其其中一種屬性的戰利品表來生成，同時還有一個適用於所有放生行為的全域戰利品表。</p><p>請注意，當寶可夢被放生時，所有適用的戰利品表都會被滾動。（全域戰利品表、一種屬性戰利品表、特定種類戰利品表）</p><p>關於自訂的詳細資訊請見 <a href=\"https://github.com/anabsolutesloth/cobblemonreleaserewards/wiki\" target=\"_blank\" rel=\"nofollow\">Github Wiki</a>。</p><p>根據設計，與種類或招式相關的功能應可與任何自訂種類或招式相容。</p><p>預設配置包含一個全域戰利品表（提供努力翅膀、維生素和經驗糖果），以及一個針對索財靈的特定種類戰利品表（提供光輝硬幣）。<a href=\"https://github.com/anabsolutesloth/cobblemonreleaserewards/tree/main/common/src/main/resources/data/releaserewards/loot_table/rewards\" target=\"_blank\" rel=\"nofollow\">所有範例可在 Github 儲存庫中找到</a></p><h2>注意 - 實驗性變更</h2><p>我對預設獎勵的頻率和價值不太滿意，因此正在尋求相關變更的反饋。這些變更從 2.1.0 版本開始成為模組的一部分。</p><p>請在 <a href=\"https://github.com/anabsolutesloth/cobblemonreleaserewards/issues/3\" target=\"_blank\" rel=\"nofollow\">此 Github Issue</a> 或 Cobblemon Discord 的模組支援討論串中提供反饋。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

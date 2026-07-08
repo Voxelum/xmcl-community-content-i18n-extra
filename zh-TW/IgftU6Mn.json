@@ -1,0 +1,6 @@
+{
+  "bodyHash": "iC3xEgj8LoY=",
+  "content": "此模組在下雨時為方塊添加動態音效。目前支援以下方塊的音效：\n\n- 雨水打在玻璃上\n- 雨水打在水面上\n- 雨水打在熔岩／岩漿上\n- 雨水打在樹葉上\n- 雨水打在金屬方塊上\n- 雨水打在羊毛上\n\n音效會根據你與方塊的距離改變音量，也會根據周圍方塊的種類改變音效。\n\n<div align=\"center\">\n\n**此版本支援 Forge 標籤，若有建議可新增更多標籤**\n\n</div>\n\n<div align=\"center\">\n\n**<span></span>**\n\n</div>\n\n此為 [JaizYT](https://www.curseforge.com/members/jaizyt/projects) 的 [Fabric](https://www.curseforge.com/minecraft/mc-mods/cool-rain) 版本移植，已獲得其許可：\n\n![](https://media.forgecdn.net/attachments/description/null/description_f3204cbf-09ab-4c7a-a343-63c2a2f563d3.png)\n\n如果你想支持我以及我的模組開發，我推薦試試 BisectHosting。新客戶使用優惠碼 \"project8gbderam\" 可享第一個月的遊戲伺服器 25% 折扣。他們提供 24/7 支援與極快的回應速度，確保你獲得最佳服務，滿足所有遊戲需求。 [https://www.bisecthosting.com/project8gbderam](https://www.bisecthosting.com/project8gbderam)\n\n![Bisect](https://www.bisecthosting.com/partners/custom-banners/54bb107c-f9fc-4f32-8515-fb4e3d56c124.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

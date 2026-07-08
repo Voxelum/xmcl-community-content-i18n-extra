@@ -1,0 +1,6 @@
+{
+  "bodyHash": "I7gqoWogikg=",
+  "content": "# 流暢捲動\n- 這款 Fabricmc 模組為 Minecraft 中的各種畫面增加了流暢捲動效果，例如：聊天欄、快捷欄、創造模式物品欄、伺服器/世界/資源包列表等等！\n### 設定\n- 您可以**自訂任何動畫速度**\n- **設定畫面**可從 Mod Menu 畫面中進入\n- 設定檔位於 `.minecraft/config/smoothscroll.json`\n  - 編輯設定檔後，在遊戲世界中按下 `F3+T`（重新載入資源）即可重新載入設定\n### NeoForge 相容性\n- 您可以透過 [Sinytra Connector](https://modrinth.com/mod/connector) 模組在 neoforge 上使用此模組\n  - 初次啟動遊戲時，可能會出現不相容的提示，忽略此訊息並重新啟動 Minecraft 即可\n- 我目前沒有計劃讓此模組原生支援 neoforge，但如果您是開發者，可以依照授權條款自行移植",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

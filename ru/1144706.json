@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EyLRdn1JM4o=",
+  "content": "<p style=\"text-align:center\">Этот мод заменяет метод стрельбы Vic's Point Blank — <strong>хитскан</strong> (когда он ищет сущности в вашем прицеле и сразу наносит урон) — на стрельбу с использованием <strong>снарядов</strong>, которая вместо этого использует систему снарядов Minecraft (<strong>сущность — vpb_projectiles:bullet</strong> для разработчиков KubeJS/модов).<br><br><strong>Это делает его совместимым с гораздо большим количеством модов, которые ранее не работали должным образом</strong></p><p style=\"text-align:center\"><strong>-Моды с улучшенной совместимостью-<br><br></strong>-Мод First Aid<br>-Мод Legendary Survival Overhaul<strong><br><br>Пример совместимости с FirstAid — <a href=\"/linkout?remoteUrl=https%253a%252f%252fyoutu.be%252fNAFO-rpDmqY\" target=\"_blank\" rel=\"nofollow\">https://youtu.be/NAFO-rpDmqY</a><br><br></strong>Поскольку мод заменяет хитскан на снаряды, теперь также появляется отклонение пули на больших дистанциях; у оружия с высокой мощностью, например снайперского, отклонение пули меньше.<strong><br></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

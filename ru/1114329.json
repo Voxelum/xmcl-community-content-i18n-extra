@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eG/nu7wtLf8=",
+  "content": "<h1>Замены Ponder</h1><p>Это дополнение для KubeJS и Create, которое позволяет заменять загружаемый Ponder на основе события.</p><p>Это полезно, например, для добавления Ponder к машинам из пользовательского оборудования, где блоки различаются только по данным NBT, а не по ID блока — именно ID блока обычно определяет отображаемый Ponder.</p><p>Этот мод был разработан для модпака <a href=\"https://www.curseforge.com/minecraft/modpacks/create-astral\" rel=\"nofollow\">Create: Astral</a>.</p><p>Пример использования:</p><p><code>client_scripts/ponder.js</code></p><pre><code>onEvent(\"ponder.override\", event =&gt; {\n    // Доступ к предмету и определение Ponder, который вы хотите показать\n    const item = event.getItem();\n    // Доступ к тегу Ponder (это необязательно и присутствует только при открытии через интерфейс Ponder)\n    const tag = event.getTag();\n    // Замена ID Ponder на другой Ponder. Если не вызвать эту функцию, будет показан стандартный Ponder\n    event.override(\"create:super_glue\");\n})\n</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XelWTlRdsws=",
+  "content": "PLAYMATE\n\nPlaymate - 是一款全新恐怖模組，新增一個能與你玩捉迷藏的實體生物。\n\n當你連續兩天未入睡，遊戲將在第三晚啟動並隨機分配以下角色：\n\n躲藏者\n你必須躲藏在最黑暗的角落且不能發出任何聲響，因為他能聽見一切（麥克風除外XD）\n若成功躲藏60秒即獲勝。\n\n恭喜你存活下來！\n\n尋找者\n此情況下你必須在時限內找到Playmate三次，否則...\n\n恭喜你存活下來！\n\n同時存在他燒毀你床鋪的機率，若聽見房屋起火聲響——那確實正在發生。\n\n指令系統\n\nBedfirefalse - 關閉Playmate燒毀房屋的能力\nBedfiretrue - 開啟Playmate燒毀房屋的能力\nEndgame - 若遊戲出現錯誤或其他異常時使用此指令\nPlay - （供內容創作者使用）強制開始遊戲",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

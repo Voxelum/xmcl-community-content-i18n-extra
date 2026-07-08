@@ -1,0 +1,6 @@
+{
+  "bodyHash": "K0zeUhuYSY4=",
+  "content": "在主世界以对数螺旋模式生成生物群系\n![image](https://cdn.modrinth.com/data/cached_images/538a48bd3819112ebe66a48a6abec68453765146.jpeg)\n\n![image](https://cdn.modrinth.com/data/cached_images/c4b27e5d4c4d295a53250d207a73c9dceb291a30_0.webp)\n## 功能特性\n该预设以主世界原点 X=0, Z=0 为螺旋中心，在主世界以对数螺旋模式生成生物群系。\n生物群系从原点向外延伸，形成跨越世界的弧形螺旋布局，而非通常的噪声分布模式。\n\n## 多服务器设置\nserver.properties\n```toml\nlevel-name=world\nlevel-seed=\nlevel-type=logarithmicspiralbiome:logarithmic_spiral\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "h14UYRuoMkw=",
+  "content": "![裝飾性方塊](https://cdn.modrinth.com/data/t6BIRVZn/images/66279b43dfb227b0638a0b0eced4e652d398b538.png)\n\n一個小型模組，新增了多種裝飾性方塊，包括：\n\n- 營火，將烈焰粉丟入火中（可設定）\n- 茅草，用剪刀剪開乾草捆可獲得「流體」效果，用鋤頭可移除\n- 木柵欄\n- 木樑方塊，由 u/ksym_ 設計\n- 火盆\n- 吊燈，可用 4 個火把反向合成\n- 碎石土，可用 4 個泥土反向合成\n- 石柱\n- 大鐵鍊，可攀爬\n- 欄杆面板，可用作地板門\n- 格柵，可用作地板門\n- 木椅，右鍵點擊可坐下\n- 木支架\n- 營火、火盆和吊燈的靈魂火變體（1.16 版本）\n\n- （1.18 以上版本）座椅和支架有額外的狀態，按住 Shift 鍵可顯示物品說明。\n- （1.20 以上版本）使用物品標籤 #decorative_blocks:bonfire_activators 設定營火啟動器。\n- （1.20 以上版本）使用遊戲規則 decorative_blocks:disableThatch 可停用茅草功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

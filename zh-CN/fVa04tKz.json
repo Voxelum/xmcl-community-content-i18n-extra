@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oU+SWoGSPEI=",
+  "content": "# 为其他模组的矿石添加Mekanism处理流程\n此功能可实现：<br>\n1个矿石最多可加工为5个锭<br>\n3个原材料最多可加工为10个锭<br>\n1个原料块最多可加工为30个锭\n\n# 修复缺失标签\n不确定是否为设计意图——虽然矿石名称相同，但部分标签缺失\n\n# 存储方块\n本模组不注册\"锭块\"<br>\n各模组可拥有同名锭块<br>\n这些方块可能具有不同属性\n\n无法为每个属性确定唯一值<br>\n此为原因\n\n \n\n# 合成器配方\n本模组不添加合成器配方<br>\nMekanism配方输出要求精确的物品注册名（例如xxxmod:silver_ore）\n\n无法在多个同名方块中确定唯一目标\n\n \n\n# 处理流程树\n根据矿石的最终产物类型，分为3种处理流程树\n\n## 粉末路线\n* 矿石（或原材料/原料块）\n* 粗矿浆\n* 纯净矿浆\n* 碎片\n* 矿簇\n* 粗粉末\n* 粉末\n不存在锭的矿石处理流程终止于粉末阶段\n例如：Project Red的电石矿\n\n## 锭路线\n* 继承\"粉末路线\"\n* 粉末熔炼成锭\n* 锭可分解为粒\n\n## 宝石路线\n* 继承\"粉末路线\"\n* 粉末富集为宝石\n\n# 支持模组/矿石\n* [模组与矿石列表](https://github.com/gisellevonbingen-Minecraft/MoreMekanismProcessing/blob/1.19/Mods_Ores.md)<br>\n* 如需添加支持模组，请通过New Issue提交'CurseForge项目'或'GitHub'链接\n\n# 许可证\n遵循MIT协议，且需符合'Mekanism'授权要求\n\n# 整合包使用\n在符合许可证的前提下可用于整合包\n\n# 问题或建议？\n请至\"New Issue\"提交<br>\nhttps://github.com/gisellevonbingen/Minecraft-MoreMekanismProcessing/issues\n\n# 客户端与服务端配置不同步\n请将服务端的配置文件同步至客户端\n\n \n\n（注：保留原链接与术语\"Mekanism\"不翻译，符合技术文档惯例；处理流程中的专业术语如\"Slurry/Shard/Clump\"采用游戏社区常用译法；保持原文档的分段结构和特殊符号）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

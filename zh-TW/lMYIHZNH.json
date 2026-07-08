@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uBxqrL83YNk=",
+  "content": "此專案能大幅提升你在使用光影包遊玩 Create 6.0 時的 FPS。\n\n此專案直接修改了 Create 的程式碼，且已有計畫將最佳化後的程式碼合併回官方版本。若成功合併，此專案將會被終止。\n\nFPS 的提升是透過使用 Sodium API 與背面剔除來實現的。\n\n**1.21.1 需要 Sodium 與 Iris**\n\n**1.20.1 需要 Embeddium 與 Oculus**\n\n請查看我的另一個 FPS 模組：Flerovium\n\n建議搭配 immediatelyfast 使用\n\n搭載 512 個水車的光影包\n\n7fps → 35fps\n![Before](https://cdn.modrinth.com/data/cached_images/120598500012bb331cb5c2989d62fa53e02c4054.jpeg)\n![After](https://cdn.modrinth.com/data/cached_images/a73d8344bfe1448cd21b5c38cdce22d4c5096691.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

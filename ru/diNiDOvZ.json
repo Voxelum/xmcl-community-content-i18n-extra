@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JHqbL/eG1xM=",
+  "content": "# TwemojiChat\n\nTwemojiChat добавляет автозаполнение эмодзи и отображение Twemoji в чате Minecraft.\n\nЭто только клиентская часть, которая работает на любом сервере.\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/f9dc2be45fea39bf548aaa31bd4a50af943076f5_0.webp\" alt=\"Автозаполнение TwemojiChat\" width=\"480\" />\n\n## Особенности\n\n- Автозаполнение коротких кодов эмодзи в чате\n- Клавиши «Tab» и «Enter» оба принимают текущее предложение\n- Отображение Twemoji для текста в формате `:shortcode:` и вставленных юникодных эмодзи\n- Улучшенные псевдонимы в стиле Discord, такие как `:thumbs_up:`\n- Поддержка Fabric, NeoForge и Forge\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/eb8517f58926f0799a1e0138cf1936b5f40450e7.png\" alt=\"Сравнение TwemojiChat\" width=\"480\" />\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

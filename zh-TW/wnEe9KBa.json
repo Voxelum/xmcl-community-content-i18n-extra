@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9wFEyxJZgqI=",
+  "content": "# 非常多人玩家\n\n一款旨在提升伺服器在高玩家數量下效能的 Fabric 模組。\n\n**VMP 仍處於早期開發階段，預期會出現問題。請將任何問題回報至我們的問題追蹤器。**\n\n## 那麼 VMP 是什麼？\n非常多人玩家，簡稱 VMP，是一款 Fabric 模組，旨在提升伺服器在高玩家數量下的整體效能，\n**同時不犧牲原版功能或行為**。\n為獲得最佳效能，建議將 VMP 與 [Lithium](https://modrinth.com/mod/lithium) 搭配使用。\n\n## VMP 如何實現效能提升？\n\n**伺服端遊戲邏輯效能提升：**\n- 使用區域地圖最佳化附近封包發送與玩家查詢\n- 使用快取最佳化實體追蹤器、流體狀態查詢與材料匹配\n- 最佳化碰撞用的實體迭代\n- 使用 Paper 專案的 MCUtil 最佳化門票傳播器（基於 MIT 授權的修補程式）\n\n**用戶端遊戲邏輯效能提升：**\n- 使時間來源使用內建 Java 時間來源，而非透過 JNI 呼叫 GLFW\n\n**網路效能與反應速度提升：**\n- 使用自訂區塊發送機制（可選用封包級速率限制）\n- 新增封包級每玩家渲染距離\n- 使用 raknetify 的封包優先權讓原版 TCP 連線更具反應速度\n  （當伺服器**未經由 velocity 或 ssh 埠轉發等反向代理**連線時效果最佳）\n\n**……以及更多**\n\n## 支援\n我們的問題追蹤器：[連結](https://github.com/RelativityMC/VMP-fabric/issues)  \n我們的 Discord 伺服器：[連結](https://discord.relativitymc.org/)\n\n## 更多資訊\n請查看此處的 README.md：https://github.com/RelativityMC/VMP-fabric",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

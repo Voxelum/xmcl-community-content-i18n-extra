@@ -1,0 +1,6 @@
+{
+  "bodyHash": "og6xvGZJo1o=",
+  "content": "Этот мод позволяет деревьям падать, когда вы их рубите. Он использует библиотеку физики Create Aeronautics — Sable. Вы можете настроить силу, прилагаемую к деревьям при ручном спиливании или взрыве.\n\nИспользование поршней для удаления частей дерева не приведёт к его падению, равно как и другие события с блоками, такие как огонь.\n\n(Настройка мода в версии 1.10 может изменить это поведение, однако она значительно больше влияет на производительность, чем отсутствие проверки каждого обновления блока.)\n\nМод реагирует только на игроков или сущности, удаляющие блок, а также на взрывы.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/zyT0EHSa4vU\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n![Падающая ель](https://cdn.modrinth.com/data/cached_images/f10586917195a3043ba92249ff19cd0f0696ee3b.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Pe14oGntsBE=",
+  "content": "這個模組新增了5種新生物，這些生物原本只在我另一個模組的建築結構中生成，現在它們會在主世界自然出現。\n\n生物：\n\n騎士：\n會攻擊你，通常配備鐵製盔甲和鐵劍。\n\n弓箭手：\n會與你保持距離並朝你射箭。\n\n重裝騎士：\n會攻擊你，配備黃金盔甲和鐵劍。\n受傷時可能會獲得強化效果來對抗你。\n\n貴族：\n會逃離你，死亡時會掉落一些不錯的物品，包括手中的烈焰桿或貴族護身符。\n當你持有貴族護身符時，可以與他們交易。\n\n農民：\n會逃離你，死亡時會掉落一些鐵粒。\n當你持有貴族護身符時，可以與他們交易。\n\n魔法騎士：\n會用緩慢發射的魔法彈攻擊你，這些魔法彈會停止你的移動，同時還會為騎士和弓箭手的盔甲與武器附魔。\n\n![knights](https://media.forgecdn.net/attachments/856/921/2024-04-30_11.png)\n<br><br>\n\n物品：\n\n貴族護身符：\n佩戴此護身符會讓所有騎士對你不再恐懼或敵對，並允許你與農民、魔法騎士和貴族交易。\n手持護身符時右鍵點擊，會使區域內所有生物暫停行動幾秒鐘。\n此護身符也會讓我另一個模組（https://www.curseforge.com/minecraft/mc-mods/flying-castles）中的騎士變成中立狀態，但無法與該模組中的貴族和農民交易。\n\n<br>\n交易：\n\n貴族交易：\n貴族大多會用稀有物品與你交易，換取1個綠寶石方塊。（見圖）\n![trade](https://media.forgecdn.net/attachments/391/325/2021-08-28_22.png)\n\n農民交易：\n農民大多會用村民的工作站與你交易，換取1個鐵錠。（見圖）\n![trade](https://media.forgecdn.net/attachments/391/326/2021-08-28_22.png)\n\n魔法交易：\n魔法騎士大多會用釀造物品與你交易，換取1個青金石方塊。（見圖）\n![trade](https://media.forgecdn.net/attachments/856/922/2024-04-30_11.png)\n\n<br>\n<br>\n\n我有一個Discord伺服器，你可以在那裡提問、聊天或提交錯誤報告（如果你願意的話）：https://discord.gg/bBj5vKGFMw。\n\n此模組使用MCreator製作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

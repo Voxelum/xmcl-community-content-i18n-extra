@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Z1E4T/8Q9V4=",
+  "content": "_賦予你的寶可夢真實個性——從口袋大小的夥伴到高聳的巨獸。_\n\n這是一個Cobblemon附加模組，允許Cobblemon以不同尺寸自然生成。尺寸變化的最大與最小限制可在模組配置中調整。\n\n## 查看最新變更日誌[請點此](https://modrinth.com/mod/cobblemon-size-variations/changelog)\n\n在[Wiki](https://github.com/Cudzer/cobblemonsizevariation/wiki)了解更多關於此模組的資訊\n\n## ✨ 功能特色\n⚖️ **可變寶可夢尺寸** – 每隻寶可夢可能以從微小到巨大的任何尺寸出現\n\n🧬 **自訂尺寸演算法** – 支援偏向平均值或完全隨機的分佈模式\n\n🧾 **伺服器端配置** – 可在模組配置檔案中切換功能，如合成配方和尺寸偏向設定\n\n🔁 **網路同步縮放** – 使用尺寸更新封包，確保所有玩家看到的模型縮放比例一致\n\n🧰 **自訂指令** – 使用 /pokesizer 指令調整特定寶可夢的尺寸\n\n🧩 同時支援 **Fabric** 與 **NeoForge** 平台\n\n\n***\n\n### 🧑‍💻 製作群\n\n**作者**: Cudzer\n\n**專為 Cobblemon 1.6+ 打造，採用 Architectury 技術驅動**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

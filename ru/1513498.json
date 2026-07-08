@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZwWu9AoZRSY=",
+  "content": "<h3>Как это работает</h3><p>Этот мод подключается к серверу LibreTranslate для перевода сообщений в чате. Вы можете выбрать свой любимый язык и настроить поведение переводов прямо в игре.</p><hr><h3>Использование</h3><ul>\n<li>Нажмите F7, чтобы открыть меню настроек</li>\n<li>Выберите свой язык</li>\n<li>Перейдите в раздел «Сервер» и установите его на сервер LibreTranslate</li>\n</ul><hr><h3>Команды</h3><ul>\n<li><code>/translator on</code> — Включить переводы</li>\n<li><code>/translator off</code> — Отключить переводы</li>\n<li><code>/translate on</code> — Включить перевод собственных сообщений</li>\n<li><code>/translate off</code> — Отключить перевод собственных сообщений</li>\n</ul><hr><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

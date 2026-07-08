@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RdRSSdpGXdc=",
+  "content": "<h1>🇬🇧 英文</h1><p><strong>TaczOptimization 提升您在 Timeless and Classics Zero 中的遊戲效能。</strong> 它允許您選擇性停用耗費資源的渲染功能並清理 HUD，以提高 FPS，特別是在多人遊戲中。</p><h3>功能特色</h3><ul>\n<li><strong>渲染優化：</strong> 透過隱藏其他玩家的武器、配件和子彈軌跡，顯著減少擁擠區域的延遲。</li>\n<li><strong>簡潔 HUD：</strong> 停用特定疊加元素，如彈藥計數器、熱量條、擊殺提示和互動提示，以獲得更加沉浸或更乾淨的畫面。</li>\n<li><strong>客戶端專用：</strong> 這是一個完全客戶端的模組，無需在伺服器上安裝即可運作。</li>\n</ul><h3>設定配置</h3><p>所有功能均可透過設定檔案（<code>tacz_optimization-client.toml</code>）進行切換：</p><ul>\n<li><strong>渲染：</strong> 切換其他玩家的槍械、配件、自己的子彈以及敵方軌跡的可見性。</li>\n<li><strong>圖形介面：</strong> 獨立切換槍械 HUD、熱量條、擊殺計數和互動鍵疊加層。</li>\n</ul><hr><h1>🇷🇺 俄文</h1><p><strong>TaczOptimization 提升您在 Timeless and Classics Zero 中的遊戲效能。</strong> 此模組允許您選擇性停用耗費資源的視覺效果和介面元素，以提高 FPS，特別是在多人遊戲中。</p><h3>功能特色</h3><ul>\n<li><strong>渲染優化：</strong> 透過隱藏其他玩家的武器、配件和子彈軌跡，顯著減少大規模交戰中的延遲。</li>\n<li><strong>簡潔介面：</strong> 停用個別 HUD 元素，例如彈藥計數器、過熱條、擊殺計數器或互動提示。</li>\n<li><strong>僅限客戶端：</strong> 此模組完全在客戶端運作，無需在伺服器上安裝。</li>\n</ul><h3>設定配置</h3><p>所有功能均可透過設定檔案（<code>tacz_optimization-client.toml</code>）進行配置：</p><ul>\n<li><strong>渲染：</strong> 啟用/停用其他玩家的武器和模組顯示，以及子彈和軌跡（自己和敵方）的顯示。</li>\n<li><strong>介面：</strong> 選擇性停用武器 HUD、熱量條、擊殺列表和互動按鈕。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3rJ+Mm0k/1U=",
+  "content": "**2.x 更新版來了！**\n\n這個模組為你的遊戲新增了一個高度自訂化且極度輕量的 HUD。\n\n### 特色\n*   **簡潔資訊**：顯示座標（XYZ）、FPS 及世界天數。\n*   **優化**：對效能影響極低，非常適合低階設備或大型模組包。\n*   **輕鬆存取**：按下預設的 **『X』** 鍵，或透過 Escape 選單中的『M』按鈕即可開啟設定選單。\n\n### 截圖\n![標準視圖](https://cdn.modrinth.com/data/cached_images/4419ee056ff8ab5a730f63b001996ff51cfdb6a0.jpeg)\n\n### 自訂化\n你可以根據需求完全自訂 HUD：\n*   **切換元件**：關閉任何不需要的 HUD 元件。\n*   **顏色選擇**：分別更改標籤和數值的顏色。\n*   **定位**：將元件拖曳到螢幕上的任何位置。\n\n![主選單](https://cdn.modrinth.com/data/cached_images/d3be34099f1db7e56d8bd3ba7fbb5ce4a466ba03_0.webp)\n![元件設定](https://cdn.modrinth.com/data/cached_images/6c69f9be9efa607e50ad93271cac9f46317dc431.jpeg)\n\n### 移動預覽\n拖曳元件非常簡單！\n![拖曳到指定位置](https://cdn.modrinth.com/data/cached_images/2107a948ae96900dc9f73032ab878843fb788540.jpeg)\n\n### 自訂 HUD 範例\n![自訂變體 1](https://cdn.modrinth.com/data/cached_images/d3b91e9a51065f2cd3bb0819fed848eec92948fb.jpeg)\n![自訂變體 2](https://cdn.modrinth.com/data/cached_images/1118e5ada468cc1a201119b4d518898247cdb937.jpeg)\n\n### 技術細節\n*   支援設定選單的按鍵綁定。\n*   設定會以 .json 格式自動儲存。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

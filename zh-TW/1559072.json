@@ -1,0 +1,6 @@
+{
+  "bodyHash": "J+S54ENFzdM=",
+  "content": "<h1>OptaMod</h1><p><strong>OptaMod</strong>是一款為Minecraft 1.13.2和1.14.4設計的實用與優化模組。它提供多項渲染與遊戲邏輯的微調功能，協助管理效能並調整遊戲體驗。</p><h3>🚀 功能特色</h3><ul>\n<li><strong>實體渲染剔除：</strong>停止渲染超出指定顯示距離的實體。</li>\n<li><strong>智慧刻剔除（僅限單人模式）：</strong>停止對離玩家較遠的實體進行刻計算與AI運作。<em>（注意：此功能會改變伺服器邏輯，因此僅在單人模式下有效。）</em></li>\n<li><strong>雜物減少（僅限單人模式）：</strong>限制集中區域內過多的物品掉落，並防止魷魚和蝙蝠的自然生成。<em>（注意：此功能僅在單人模式下有效。）</em></li>\n<li><strong>變焦：</strong>按住<code>C</code>鍵可放大視野，並自動降低滑鼠靈敏度以進行精確的鏡頭移動。</li>\n<li><strong>關閉迷霧：</strong>移除原版遊戲的渲染迷霧。</li>\n<li><strong>FPS顯示：</strong>在左上角顯示簡易FPS計數器，當F3除錯畫面開啟時會自動隱藏。</li>\n</ul><h3>⚙️ 設定配置</h3><p>OptaMod內建遊戲內設定選單。</p><ul>\n<li><strong>1.13.2：</strong>在主選單中點擊「O」按鈕，或在遊戲中按下<code>O</code>鍵。</li>\n<li><strong>1.14.4：</strong>在主選單左上角點擊「O」按鈕，或在遊戲中按下<code>O</code>鍵。</li>\n<li>設定會儲存至<code>config/optamod-settings.properties</code>檔案。</li>\n</ul><h3>📦 安裝與多人遊戲注意事項</h3><p>此模組可安裝於<strong>用戶端</strong>以使用渲染功能（變焦、迷霧、渲染剔除、FPS）。然而，請注意<strong>改變遊戲邏輯的功能（刻剔除與生物生成限制）僅在單人模式世界中生效</strong>，因為在多人遊戲環境中，這些機制由伺服器端控制。</p><h3>⚠️ 重要警告</h3><p><strong>🚫 速通限制：</strong>OptaMod修改了核心原版機制（生物生成上限與實體刻計算）。此模組<strong>嚴格禁止用於官方Speedrun.com的提交</strong>（例如RSG/SSG）。</p><p><strong>⚙️ 遊戲玩法與自動農場：</strong><em>智慧刻剔除</em>功能可能會破壞依賴生物自行走進陷阱的自動農場。<em>雜物減少</em>功能會完全阻止魷魚和蝙蝠的生成。若您的遊玩過程需要這些機制，可透過遊戲內設定選單關閉這些特定功能。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

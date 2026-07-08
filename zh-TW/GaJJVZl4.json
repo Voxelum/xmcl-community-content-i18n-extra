@@ -1,0 +1,6 @@
+{
+  "bodyHash": "08d/j5Ts9oc=",
+  "content": "自動捕捉任何已「咬鉤」的物品，然後在玩家收集物品時拋出新的釣線。\n\n兼容非原版模組釣竿\n\n附註：雖然有許多模組具有與此模組相似的功能，但我創建此模組的原因是因為其他模組已過時，對於如此簡單的功能需要額外的依賴項，且/或支持不佳/閉源。\n\n---\n**/AutoFish**：開啟或關閉模組\n\n**/AutoFishCommandList**：查看可配置選項列表\n\n**/RodCatchDelay**：設定模組在捕捉前等待的延遲時間。\n\n**/RodReleaseDelay**：設定模組在捕捉後再次釋放釣竿前等待的延遲時間\n\n建議根據玩家與浮標落水處的距離調整此值，距離越遠，此值應越高\n\n**/BobberKillTimeThreshold**：需要經過多少毫秒才追蹤浮標是否被伺服器突然殺死，/RecastIfBobberKilled 使用此設定\n\n**/RecastIfBobberKilled**：有時浮標可能因各種原因（區塊卸載、延遲等）被伺服器殺死，這將使釣竿自動重新拋出\n\n**/StopCastIfAlmostBroken**：如果當前使用中的釣竿耐久度降至 1，將停止捕捉/拋出循環\n\n**/SwapRodIfAlmostBroken**：當幾乎損壞的釣竿有魚咬鉤時，將自動切換到其他釣竿捕捉魚，然後切換回幾乎損壞的釣竿繼續拋出\n\n**/SwitchRodAfterBroken**：當前使用的釣竿損壞後，應自動切換到新的釣竿。\n\n所有這些功能應協同工作，互不衝突。\n\n----\n\n用心製作，非常歡迎任何貢獻、錯誤報告和/或建議 :)\n\n[Discord](https://discord.gg/rKsNdY9Z38)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

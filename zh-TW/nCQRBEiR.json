@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kHzoO5g6KFA=",
+  "content": "*掌控你的GUI位置，修復壞掉快捷欄選取紋理！*\n\n### 四處移動GUI！\nRaised讓你移動原版和模組的GUI圖層（只要有支援）！\n\n想要快捷欄更靠近畫面中央？Raised挺你！掌控一個圖層，隨心所欲移動它！可以個別控制，也可以同步它們，讓整個遊戲內GUI一起移動！\n\n### 與模組相容！\nRaised允許模組為其自身的GUI覆蓋層註冊圖層項目，供你設定其移動方式。此外，Raised也能以幾種不需模組支援的方式，原生地與模組相容！\n\n任何透過（Neo）Forge相應註冊表註冊其覆蓋層的模組，都會被自動捕捉並加入Raised的圖層註冊表中。這讓你可以個別控制許多模組的圖層，無需任何特殊支援！\n\n任何僅透過（Neo）Forge渲染事件，在Raised支援的其中一個原版圖層範圍內渲染覆蓋層的模組，都會隨著該原版圖層一起移動。在Fabric上也類似，任何在程式碼中將覆蓋層渲染插入Raised目標範圍內的模組，也會跟著移動！\n\n### 隨你喜好設定！\n你可以直接從設定檔、一系列指令，或是選項畫面（預設按`~`開啟，或從（Neo）Forge模組畫面進入）來編輯圖層設定。請注意，選項畫面會限制圖層的位移量，以配合滑桿控制的使用。若需無限位移，請使用指令或直接編輯設定檔！\n\n### 取得資源！\n你可以在*[Modrinth]*和*[CurseForge]*上找到Raised的發行版，也可以在*[GitHub]*上取得開發版本！\n\nRaised支援Fabric 1.16+、Forge 1.16+以及NeoForge 1.20.2+。\n\n### 搞懂一切！\n你可以深入*[wiki]*了解詳情，或提交*[錯誤回報]*如果有什麼不對勁！\n\n還有其他需求？請前往*[討論區]*尋求支援、閱讀公告，或討論任何關於這個模組的事情！\n\n[Modrinth]: https://modrinth.com/mod/raised\n[CurseForge]: https://www.curseforge.com/minecraft/mc-mods/raised\n[GitHub]: https://github.com/yurisuika/raised\n[wiki]: https://github.com/yurisuika/raised/wiki\n[bug report]: https://github.com/yurisuika/raised/issues\n[discussions]: https://github.com/yurisuika/raised/discussions\n[Discord]: https://discord.gg/0zdNEkQle7Qg9C1H",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8IrDH1jCbME=",
+  "content": "<h1>天空盒模組 Skyboxify</h1><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fC0C31INYGG\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" alt=\"贊助我們\"></a></p><p>一個天空盒模組，讓你在 Fabric 1.21+ 中使用 OptiFine 的天空效果。</p><p>加入我們的 Discord：<a href=\"https://discord.gg/C8KKgbA8jy\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/C8KKgbA8jy</a></p><h2>功能特色</h2><p>此模組讓你能在資源包中定義天空盒，改變遊戲內天空的外觀。它使用與 OptiFine 相同的檔案格式，目標是與任何為 OptiFine 製作的天空盒資源包相容。天空盒定義了一種紋理，其中包含六個拼接在一起的小紋理，分別定義了世界天空的頂部、底部、左側、右側、前方和後方在 3D 世界空間中的視覺效果。你可以在一個資源包中定義多個天空盒，它們會重疊顯示，產生酷炫的效果；自訂功能包括調整混合模式、軸向旋轉、速度、特定高度顯示等功能。</p><h2>備註</h2><p>特別感謝 UsernameGeri 協助編寫 Wiki，同時也感謝 UsernameGeri 和 Zenith 協助設計標誌！</p><h2>支援</h2><p>遇到任何問題或需要協助嗎？歡迎使用<a href=\"https://github.com/Legacy-Visuals-Project/Skyboxify/issues\" target=\"_blank\" rel=\"nofollow\">問題追蹤器</a>來反映。若您要回報崩潰情況，請務必提供您所使用的模組資訊，並附上相關的日誌檔案。如果想建議新功能，請加入我們的<a href=\"https://discord.gg/C8KKgbA8jy\" target=\"_blank\" rel=\"nofollow\">Discord 伺服器</a>！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

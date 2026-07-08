@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/j4phkg5NUw=",
+  "content": "[![KINETIC HOSTING PARTNER](https://media.forgecdn.net/banner/console-affiliation-banners/banner_bfc6e9fa-4357-4198-9d85-32a3084adf49.webp)](https://billing.kinetichosting.com/aff.php?aff=136)\n\n# WATERMeDIA：YOUTUBE 插件\n這個適用於 WATERMeDIA 的插件新增了 YouTube 支援，它包含了所有必要的庫，並將修補邏輯注入到 WATERMeDIA 中。\n\n它使用 NewPipeExtractor 作為 YouTube 提取引擎，能夠可靠地存取該平台上的影片。\n\n# 重要提示\n此插件僅適用於 JAVA 17（1.18.2 以上版本），任何非 JAVA 17 執行的版本（包括 1.16.5）均不受支援。\n\n# 版本對應\n此插件遵循 WATERMeDIA 的版本對應規則，與其保持一致。\n因此，這是插件的「第 2 版」，因為它是針對 WATERMeDIA 第 2 版開發的。你必須確保插件版本與已安裝的 WATERMeDIA 版本相符，否則若使用插件的第 3 版搭配 WATERMeDIA 的第 2 版，將會導致崩潰。\n\n# 授權條款\n此模組採用 GPL 3.0 授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5SxOZAcLSrM=",
+  "content": "# 世界管理器\n透過指令在遊戲中創建並管理世界。\n\n## 指令\n主要指令為 `/worldmanager`。它有一個簡短的別名 `/wm`。\n\n- `/wm list` 開啟一個概覽介面，顯示所有透過此模組創建的自訂世界\n- `/wm delete <id>` 刪除指定的世界，並踢出所有當前在該世界的玩家\n- `/wm tp <id> [<目標>]` 傳送到指定世界玩家最後的位置。\n- `/wm seticon <id> [<圖示>]` 將世界圖示設定為指定物品，或你手中的物品。\n- `/wm manage [<id>]` 開啟指定世界或當前世界的管理介面\n\n### 創建\n`/wm create <id>` 開啟一個介面，你可以在其中配置你的世界（維度類型、區塊生成器和種子）\n\n`/wm create <id> <nbt>` 允許你不使用介面創建世界（進階）。`{seed: 0L, generator: {biome: \"minecraft:the_void\", type: \"fantasy:void\"}, type: \"minecraft:overworld\"}` 可用於創建一個虛空世界。\n\n### 匯入\n`/wm create <id> <檔案>` 允許你從 zip 或 rar 壓縮檔，或從資料夾匯入世界。\n\n### 重生點\n`/wm setspawn` 將當前世界的重生點設定為你的位置。\n\n`/wm spawn <id> [<目標>]` 傳送到指定世界的重生點。如果重生點未設定，則使用原版的重生點邏輯。\n\n\n檔案/資料夾需要包含有效的 `level.dat` 檔案。\n這將匯入給定世界的主世界維度。\n\n![介面範例](https://github.com/DrexHD/WorldManager/blob/1.21.5/media/gui.png?raw=true)\n\n_由 [fantasy](https://github.com/nucleoidmc/fantasy) 提供動力 <3_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

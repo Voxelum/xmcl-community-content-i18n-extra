@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0KFzchFhjHw=",
+  "content": "這是一個 Minecraft 模組，可以在查看物品詳情時顯示你的第二語言。當你將滑鼠懸停在物品上顯示其描述資訊時，第二語言會以描述資訊第一行的形式顯示。\n\n# 使用說明\n\n預設第二語言是 en_us，也就是美式英語。\n你可以在模組管理中設定需要的語言，前提是你知道它們的代碼。就像美式英語是 en_us。\n這是一個用於搜尋的網站：https://minecraft.wiki/w/Language\n\n# 注意事項\n\n這個模組僅在 Win11 平台上測試過。\n且第二語言僅限於原版翻譯和原版物品支援的語言。\n\n# 意見回饋\n\n如果你有任何更好的建議，歡迎隨時留言。\n[Github](https://github.com/icanzzzz/DisplaySecondLanguage)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

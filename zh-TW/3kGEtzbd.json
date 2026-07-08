@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Rgx462Jy794=",
+  "content": "# 模組介紹\n### 這是一個用於展示物品的裝飾性模組。\n## 內容概述\n- 「如你所見」模組提供了一系列用於展示物品的功能方塊，允許展示任何（模組）物品。\n- 展示的物品可以是木棍、蘋果、鑽石、裝備、界伏盒（支援NBT資料）等等。\n- 方塊支援簡單的除錯（玩家需要空手），展示物品的材質取決於玩家載入的材質包\n- 玩家可以點擊方塊的側面來翻轉它（旋轉），點擊頂面來反轉它（反轉），按住Shift鍵可以使方塊隱形（隱形）\n## 模組內容\n- 展示台（底部和頂部）根據玩家的面向方向旋轉22.5°來展示物品，支援旋轉和隱藏物品。\n- 方塊框架（普通和旋轉）根據玩家的面向方向以90°角展示物品，並支援翻轉、旋轉和隱藏物品。\n## Minecraft內容\n- 展示框（Shift + 右鍵點擊）可以隱藏（並且支援其他模組的展示框）。\n- 對於盔甲架，左鍵點擊可以使其懸浮，Shift + 左鍵點擊可以隱藏它。玩家可以透過使用不同高度的方塊（如雪塊）來自訂盔甲的展示。\n- 對於金屬錠，Shift + 右鍵點擊可以放置它們（是否可以放置可以透過配置自訂）。儲存上限為64，根據數量會顯示不同的金屬錠模型。\n## 留言板\n- 如果您有任何其他需求或建議，請嘗試聯繫作者或在討論串中留言。\n- 當然，一些內容可以在[考古研究](https://modrinth.com/mod/archaeological_research_exploration)中找到。如果您對考古學感興趣，可以查看[考古研究](https://modrinth.com/mod/archaeological_research_exploration)。\n## 遊戲截圖\n![01](https://cdn.modrinth.com/data/cached_images/60da7432b207fe24c2cc887634213fb937b85342.jpeg)\n![02](https://cdn.modrinth.com/data/cached_images/e35569ee7b59e4ce0dec04bf02e1641565a774d5.jpeg)\n![03](https://cdn.modrinth.com/data/cached_images/757ad6d561c555a0d3b1f2b195d158148ec2146e.jpeg)\n![04](https://cdn.modrinth.com/data/cached_images/6e0d0d3b361f5cad453085cadb3e4a4b659fe562.jpeg)\n![05](https://cdn.modrinth.com/data/cached_images/f0fae13c5cdd5bdfa413d9e7b37ec9fcfab033d2.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AgeZIUDBzjo=",
+  "content": "## 功能概述\n- 此模組在 Minecraft 中新增了兩種方塊：硫磺礦與鉀礦。\n- 旨在以貼近原版的方式，提供更便捷的火藥合成途徑。\n- 硫磺礦會掉落生硫磺，可在主世界與地獄中找到，且在地獄的生成率更高。\n- 鉀礦掉落生鉀（如同其他礦物），可熔煉成鉀，僅存在於主世界。\n- 使用 1 個硫磺與 1 個鉀即可合成 2 個火藥！\n\n## 生成機制\n- 鉀礦生成於 y=[6, 56] 與 y=[70, 最高高度] 之間，較大的礦脈出現在最高處。\n- 主世界的硫磺礦生成於 y=[最低高度, 5]（僅限深板岩層）。\n- 地獄硫磺礦則遍布各處，且礦脈規模較大。\n\n## 設定\n設定檔位於 `/config` 資料夾，檔名為 `sulfurpotassiummod.json`。\n啟用/停用值：`0` 代表停用，`1` 代表啟用。\n\n## 截圖\n<details>\n<summary>點擊展開</summary>\n<img src=\"https://i.imgur.com/wpwxQRH.png\">\n<img src=\"https://i.imgur.com/Qk3R4Gf.png\">\n<img src=\"https://i.imgur.com/XbVMoTk.png\">\n<img src=\"https://i.imgur.com/TOpsxyw.png\">\n<img src=\"https://i.imgur.com/UlguOUk.png\">\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

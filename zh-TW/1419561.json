@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GihgP9p4AcA=",
+  "content": "<div>\n<h2>概述：</h2>\n<div>Madoku Craft: API 是一個 Fabric 函式庫模組，為所有 Madoku Craft 模組提供支援。</div>\n<div>&nbsp;</div>\n<div><hr></div>\n<h2>功能特色：</h2>\n<p><strong>專屬 JSON 檔案系統。</strong></p>\n</div><div>\n<div>\n<ul>\n<li>此系統管理模組的 JSON 檔案如何建立、更新與刪除。</li>\n</ul>\n</div>\n<div><strong>專屬資料系統。</strong></div>\n<div>\n<ul>\n<li>此系統管理模組儲存與載入資料的方式。</li>\n<li>能管理全域及世界特定的資料。</li>\n</ul>\n</div>\n<div><strong>專屬排程器系統。</strong></div>\n<div>\n<ul>\n<li>此系統管理事件如何排程與執行。</li>\n<li>讓模組能更一致地掛接至 Minecraft 的 TICK 系統。</li>\n</ul>\n</div>\n<div><strong>專屬 INFO 除錯系統。</strong></div>\n<div>\n<ul>\n<li>此系統管理 INFO 除錯資訊的處理方式。</li>\n<li>讓模組無需修改程式碼即可開啟或關閉除錯功能。</li>\n</ul>\n</div>\n<div><strong>專屬時鐘系統。</strong></div>\n<div>\n<ul>\n<li>此系統建立可設定的時間系統。</li>\n<li>將所有 API 系統串聯起來，並允許使用者改變時間週期。</li>\n</ul>\n<p><strong>專屬季節系統。<br></strong></p>\n<div>\n<ul>\n<li>此系統建立可設定的季節系統。</li>\n<li>在世界及其他系統中增加季節變化。</li>\n</ul>\n<p><strong>專屬合成系統。</strong></p>\n<ul>\n<li>此系統建立可設定的合成系統。</li>\n<li>允許移除、調整或新增合成配方。</li>\n</ul>\n<p><strong>專屬戰利品表系統。</strong></p>\n<ul>\n<li>此系統建立可設定的戰利品表系統。</li>\n<li>允許在寶箱中生成自訂戰利品、由生物掉落等。</li>\n</ul>\n</div>\n</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

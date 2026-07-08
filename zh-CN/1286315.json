@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WRlYyiEK4h0=",
+  "content": "<p>功能與<a href=\"https://www.curseforge.com/minecraft/mc-mods/c2me\" target=\"_blank\" rel=\"nofollow\">並發區塊管理引擎</a>類似，都是為了加速區塊載入的速度。</p>\n<p>並發區塊管理引擎簡介</p>\n<p>C²M 引擎是一個 Fabric 及 NeoForge 模組，旨在提升 Minecraft 區塊的效能，具體來說就是對區塊的生成、I/O、載入進行最佳化。</p>\n<ul>\n<li>\n<p>由於&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f3408.html\" target=\"_blank\" rel=\"nofollow\">井字棋 (tic-tacs)</a>&nbsp;不再被積極維護，且重寫的性質導致其穩定性不佳，因此 C²M-Engine 作為一個追求穩定的區塊最佳化模組應運而生。</p>\n</li>\n<li>\n<p>C²M 引擎不追求極致的區塊效能，相較於 Tacs（井字棋的引擎名），我們更注重穩定性，這可以透過並行利用多個 CPU 核心來實現。</p>\n</li>\n<li>\n<p>我們建議您將 C²M 引擎與&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f2292.html\" target=\"_blank\" rel=\"nofollow\">鋰 (Lithium)</a>&nbsp;和&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f3303.html\" target=\"_blank\" rel=\"nofollow\">星光 (Starlight)</a>&nbsp;一起使用，以獲得最大化的最佳化效益。</p>\n</li>\n<li>\n<p>並發區塊管理引擎的功能與並發區塊管理引擎類似，二者皆旨在加速區塊載入速度。</p>\n<p>並發區塊管理引擎概述</p>\n<p>C²M 引擎是一個 Fabric 和 NeoForge 模組，旨在提升 Minecraft 區塊的效能，具體最佳化區塊的生成、I/O 和載入。</p>\n<p>由於井字棋缺乏積極維護且重寫影響了穩定性，C²M-Engine 作為一個穩定的區塊最佳化模組被創造出來。</p>\n<p>C²M 引擎優先考慮穩定性而非絕對最高的區塊效能，這與 Tacs 引擎不同，並透過並行利用多個 CPU 核心來實現。</p>\n<p>我們建議將 C²M 引擎與鋰和星光一起使用，以最大化最佳化效益。</p>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31iEEeq66/I=",
+  "content": "# Serene Seasons Plus（宁静四季增强版）\n\n本模组为Serene Seasons增加了额外的降雪和季节行为。  \n它与Project Atmosphere协同工作，并在同时安装时会与之共享数据。\n\n## 重要提示\n\n关于需要性能优化模组的提示信息来自本模组。  \n该提示将在下次更新中被修复。\n\nForge版本仅支持至1.20.1。  \n从1.20.2及以上版本开始，本模组将仅支持NeoForge。\n\n## 本模组功能\n\n### 积雪与融化\n\n积雪和融化以玩家个体为单位，而非全局统一。\n\n积雪在降雪期间发生。  \n融化时会逐层移除雪层，而非直接删除方块。\n\n模组会追踪每个方块应有的雪层数量，并动态增减雪层。  \n该体系目前可能存在缺陷，将持续优化改进。\n\n在初冬的第一场降雪时，内部积雪计数器会重置。  \n模组会随机决定每个区域的平均积雪深度并加以应用。\n\n### Project Atmosphere集成\n\n专为Project Atmosphere设计。\n\n积雪可由云层数据驱动驱动。  \nSnowStorm集成正在规划开发中。  \n雪层将仅在云层实际产生降雪的区域堆积。\n\n### Better Days集成\n\n与Better Days配合使用时，昼夜长度将随季节变化。\n\n### 加拿大季节预设\n\n季节时序遵循加拿大魁北克省蒙特利尔的平均气候数据。\n\n例如，若现实世界正值二月，游戏世界将处于隆冬时节。\n\n## 反馈\n\n欢迎提出建设性意见。\n\n如需报告问题或建议修改，请使用Discord。  \n我不常阅读评论，在此发布不保证能得到回复。\n\n## 📦 依赖模组 \n* **Serene Seasons（宁静四季）** \n* **Better Days（更佳的昼夜）**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

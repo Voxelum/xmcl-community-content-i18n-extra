@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AGXVldT0Tl0=",
+  "content": "LimitMobSpawn 專案是一個 Minecraft 模組，旨在控制生物的生成，有效防止它們在特定條件下生成。以下是關於此專案的關鍵細節：\n\n- 目的：此模組協助玩家管理和限制其 Minecraft 世界中的生物生成，使遊戲更具可自訂性，並可能減少不必要的生物遭遇。\n- 語言：整個模組使用 Java 編寫，這是 Minecraft 模組開發的主要語言。\n- 功能：透過使用此模組，玩家可以指定生物不應生成的條件或區域，從而增強遊戲體驗並提供對遊戲環境的更多控制。\n- 使用方法：玩家需要將模組安裝到他們的 Minecraft 遊戲中。安裝完成後，他們可以配置模組設定以建立生物生成的規則。\n\n此模組對於希望在 Minecraft 世界中創建更受控或主題化環境的玩家特別有用。\n\n要變更 LimitMobSpawn 模組的設定，請遵循以下步驟：\n\n1. 找到設定目錄：\n        模組從資料包載入設定。請將 limitmobspawn 目錄放置在您的 Minecraft 世界存檔目錄中，與 recipes 或 advancements 目錄相同的層級。\n\n2. 新增包含規則的 JSON 檔案：\n        在 limitmobspawn 目錄內，新增包含生物生成規則的 JSON 檔案。您可以在這裡找到範例 JSON 檔案。\n\n3. 參考 Wiki：\n        如需詳細範例和額外設定，請查閱 [Wiki](https://github.com/Kotori316/LimitMobSpawn/wiki)。\n\n您可以查看更多詳細資訊和完整的 [README 檔案](https://github.com/Kotori316/LimitMobSpawn/blob/master/README.md)。\n\nCurseForge：[https://legacy.curseforge.com/minecraft/mc-mods/limit-mob-spawn](https://legacy.curseforge.com/minecraft/mc-mods/limit-mob-spawn)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

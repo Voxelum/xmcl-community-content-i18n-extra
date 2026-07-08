@@ -1,0 +1,6 @@
+{
+  "bodyHash": "43CZ6wfUo5k=",
+  "content": "# 更快路徑\n\n更快路徑能讓你在路徑方塊上行走得更快，並無需跳躍即可像階梯一樣走上路徑方塊。搭配 [資料包指令](https://modrinth.com/mod/datapack-commands)（半必要依賴項）可實現完全自訂設定。\n\n\n<details>\n<summary>設定</summary>\n\n## 速度\n\n```\n/fasterpaths speed slow/medium/fast\n```\n\n\n將整體速度變更為速度 1/2/3（預設為 medium）\n\n## 階梯功能\n\n```\n/fasterpaths step on/off\n```\n\n\n開啟或關閉路徑方塊的階梯功能（預設為開啟）\n\n# 隱藏路徑\n```\n/fasterpaths hidden_path on/off\n```\n\n開啟或關閉隱藏路徑功能（預設為開啟）\n\n</details>\n\n\n\n\n如有任何問題或希望新增功能，請在 [Discord 伺服器](https://discord.gg/ZRTzwxD7WD) 中告訴我。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

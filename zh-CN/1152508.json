@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IFio2la86n0=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_882831b6-5ca2-48ba-8eea-eca4f4981f11.png\" alt=\"\" width=\"800\" height=\"400\"></p><p><strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong></p><h1 style=\"text-align:center\"><strong>什么是视频磁带？</strong></h1><p><strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong></p><p>视频磁带是一个修复 GPU 相关内存泄漏的优化模组。本模组由原作者 Anthus 移植而来。由于原项目已不再维护，我决定将其移植到 CurseForge 上。</p><p><strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong></p><h2><strong>已修复的问题：</strong></h2><ul>\n<li>GL_FRAMEBUFFER_INCOMPLETE_ATTACHMENT</li>\n<li>GL_INVALID_FRAMEBUFFER_OPERATION</li>\n<li>GL_OUT_OF_MEMORY</li>\n</ul><p><strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong></p><h2><strong>不兼容性：</strong></h2><ul>\n<li>Vulkan 渲染器</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

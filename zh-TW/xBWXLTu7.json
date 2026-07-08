@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EccEe7irycQ=",
+  "content": "![熱能與太空標誌](https://raw.githubusercontent.com/Mrthomas20121-Mods/Thermal-And-Space/master/src/main/resources/assets/thermal_and_space/thermal_in_space.png)\n# 什麼是熱能與太空？\n熱能與太空是一個 Ad Astra 與 Thermal 的擴充模組，將 Thermal 礦石添加到 Ad Astra 的星球中。\n# 礦石在哪裡生成？\n- 油頁岩可在月球、火星和金星找到。\n- 磷灰石可在月球、火星和金星找到。\n- 硃砂可在水星、火星和金星找到。\n- 鉛可在金星、冰凍星和火星找到。\n- 鎳可在水星和月球找到。\n- 硝石可在水星、冰凍星和月球找到。\n- 紅寶石可在月球、火星和金星找到。\n- 藍寶石可在水星和金星找到。\n- 銀可在月球、火星、水星和金星找到。\n- 錫可在所有星球找到 => 月球、火星、水星、金星、冰凍星。\n\n所有礦石的生成率都高於 Thermal 在主世界的礦石。\n# 我可以調整礦石生成嗎？\n\n是的，礦石生成是通過數據包完成的。\n\n您需要更改位於 `resources/data/thermal/worldgen/placed_feature/space_orename.json` 的放置特徵。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QF2iQI3UZzc=",
+  "content": "[![使用代碼「hellion」在 Nodecraft 享受 30% 折扣](https://cdn.modrinth.com/data/cached_images/064a41cee40a5f8ccb427d77e611bd20f830f7fa.jpeg)](http://nodecraft.com/r/hellion)\n\n這是 zoeytheegoist 同名 Fabric 模組的移植版本。\n\n靈感來自《王國之心》中的同名能力，當你擁有 7 顆或更多生命值時，原本會一擊致命的傷害現在會讓你剩下半顆心！這讓你有機會對原本致命的攻擊做出反應！（你會聽到提示音效。）\n\n為了公平起見，此功能在受到摔落傷害、壓碎傷害或虛空傷害時不會觸發。\n\n它被設計成一種隱藏的輔助功能，對所有人都有益處。如果你聽不到苦力怕悄悄接近而被一擊必殺，那不太公平，對吧？\n\n此外，這個移植版本引入了一個新功能：土狼時間！\n靈感來自《Celeste》中的同名機制，土狼時間讓你在從邊緣掉落的瞬間仍能在空中跳躍！這讓你有機會在因任何原因滑落時修正錯誤。\n\n設定選項：\n\n- 是否啟用「第二次機會」機制\n- 是否啟用「土狼時間」機制\n- 從邊緣掉落後可在空中跳躍的持續時間\n\n- 觸發「第二次機會」時剩餘的生命值\n- 觸發「第二次機會」所需的最低生命值\n- 觸發時是否播放音效\n\n<br/><br/>\n\n你可以在 Twitter 上關注此模組的原創作者：@Astrazoey。模組由 Infernal Studios 的 HellionGames 移植！https://infernalstudios.org/discord\n\n標誌的模型和動畫由 nekomaster1000 創作，靈感來自 Shock Micro 設計的原版標誌。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

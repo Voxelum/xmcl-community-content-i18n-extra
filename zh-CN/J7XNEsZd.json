@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BxIFL/1AgLw=",
+  "content": "# 重要提示！！！\n\n本整合包包含来自CurseForge和Modrinth的模组。\n\n因此，它与GDlauncher、CurseForgeApp等启动器不兼容。\n\n如果您确实希望使用这些启动器游玩，请使用MTR Craft Lite版本。\n\n\n## 使用Lite版本时的注意事项\n\nLite版本不包含部分模组（例如NTE、JCM等）。\n\n同时，更新频率较低。\n\n如果您仍希望使用Lite版本，请选择Lite版本。\n\n\n## 欢迎加入我们的Discord！\n\n[**加入Discord**](https://discord.gg/t6hYy7wt93)\n\n# 概述\n\n本整合包旨在让《我的世界》地铁模组的游玩体验更加有趣且便捷。\n它包含了您所需的大部分模组。\n\n以下是部分模组的详细介绍。\n\n\n\n\n# 核心模组\n\n\n\n## 我的世界地铁模组\n\n\n\n这是本整合包的基础。\n\n没有它，一切都无法实现。\n\n添加了主要的自动化列车、船只、缆车和飞机系统。\n\n\n\n## 伦敦地铁扩展\n\n\n\n我的世界地铁模组的附加组件。\n\n添加了类似世界最古老地铁站——伦敦地铁中的物品、方块等元素。\n\n\n\n## Joban客户端模组\n\n\n\n添加类似香港地铁站中的物品和方块。\n\n\n\n## 车站装饰模组\n\n\n\n为车站添加大量实用物品。\n\n\n\n## Nemo交通扩展模组\n\n\n此模组使轨道看起来更加真实。\n\n\n# 性能优化模组\n\n### 通过以下模组优化帧率：\n\nSodium（Fabric版本）\n\nRubidium（Forge版本）\n\n### 可通过以下模组减轻整合服务器/服务器的负载：\n\nLichium（Forge版本）\n\nRadium Reforged（Forge 1.18+版本）\n\nPerformer（Forge 1.16.5版本）\n\n### 可通过以下模组使用Optifine着色器：\n\nIris着色器（Fabric版本）\n\nOculus（Forge版本）\n\n### 通过以下模组优化光照引擎：\n\nPhosphor（Fabric 1.16.5版本）\n\nRadon（Forge 1.16.5版本）\n\nStarlight（1.17.1+版本）\n\n\n# 实用工具模组\n\n\n\nWorldEdit（全版本）及worldEditCUI（Fabric版本）\n\nJEI（几乎全版本）\n\nREI（仅限Fabric 1.16.5版本）\n\n旅行地图（几乎全版本）\n\nXaero小地图（仅限Fabric 1.16.5与Fabric 1.17.1版本）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

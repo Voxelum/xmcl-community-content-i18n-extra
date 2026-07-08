@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e6bcZRFDkSM=",
+  "content": "Forge伺服器相容性檢查器並非總是準確，當模組包使用者新增伺服器時，可能會出現不相容的錯誤提示。\n\n本模組能解決此問題——只要模組包作者在配置檔案中設定好模組包專案ID與版本ID，它就會自動比對兩者是否一致：相符時顯示勾號，不符則顯示叉號。\n\n伺服器與用戶端皆執行相同版本\n![](https://cdn-raw.modrinth.com/data/KJhXPbHQ/images/dcc8da720c8b426be8a5c79363b6f5864428d051.png)\n伺服器或用戶端版本不相容\n![](https://cdn-raw.modrinth.com/data/KJhXPbHQ/images/0ea169b464a63c5c6fa857b8a6b370552781afa3.png)\n\n## 如何設定本模組？\n\n設定方式非常簡單：首先開啟config資料夾中的bcc-common.toml檔案，接著填入模組包名稱與版本號，儲存後即可完成。\n\n請記得在更新模組包時同步更新版本設定。\n\n注意：Fabric版本的設定檔名稱為bcc.json\n\n## 若伺服器未安裝本模組，但用戶端有安裝會發生什麼事？\n\n本模組會先檢查必要資料是否已設定，若未設定則會回歸使用Forge預設的實作機制。\n\n---\n\n除另行聲明外，保留所有權利。已授權FeedTheBeast於模組包中使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

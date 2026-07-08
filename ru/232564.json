@@ -1,0 +1,15 @@
+{
+  "bodyHash": "T59aZmko80w=",
+  "content": {
+    "error": {
+      "code": "invalid_parameter_error",
+      "param": null,
+      "message": "Parameter limit exceeded",
+      "type": "invalid_request_error"
+    },
+    "id": "chatcmpl-24ba45ac-76b6-9dc3-a8af-9e3cb15073df",
+    "request_id": "24ba45ac-76b6-9dc3-a8af-9e3cb15073df"
+  },
+  "contentType": "text/html",
+  "type": "curseforge"
+}

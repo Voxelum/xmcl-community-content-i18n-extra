@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7NIJOR/KXP4=",
+  "content": "<h2>⚙️ 配置说明</h2><p>所有参数均可在 config/maidbattle-common.toml 中自定义：</p><ul>\n<li>defaultAttackRange（默认值：32.0）—— 攻击检测范围（方块距离）</li>\n<li>attackCooldown（默认值：20）—— 攻击冷却时间（刻数，20刻=1秒）</li>\n<li>moveSpeedMultiplier（默认值：1.2）—— 战斗移动速度倍率</li>\n<li>searchInterval（默认值：10）—— 目标搜索间隔（刻数）</li>\n<li>protectSameOwnerMaids（默认值：true）—— 防止同主人女仆间误伤</li>\n<li>maxTargetTypes（默认值：20）—— 每根指挥棒可记录的最大目标种类数</li>\n<li>showBattleParticles（默认值：true）—— 战斗粒子特效开关</li>\n<li>playBattleSounds（默认值：true）—— 战斗音效开关</li>\n<li>allowTargetPlayers（默认值：true）—— 是否允许以玩家为目标</li>\n</ul><hr><h2>📋 运行要求</h2><ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge 47.2.0+</li>\n<li>必须安装「东方女仆」模组</li>\n</ul><hr><h2>⚠️ 注意事项</h2><ul>\n<li>仅女仆的主人可切换战斗模式</li>\n<li>目标设定为类型制：登记一个僵尸将自动攻击范围内所有僵尸</li>\n<li>所有战斗数据会随世界存档/服务器重启永久保存</li>\n</ul><h2>📜 许可协议</h2><p>MIT 开源协议 —— 允许自由修改与再分发。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1nOq26LMt9A=",
+  "content": "**CTA (Create Tank Additions)** 是一個 Minecraft Forge 的 1.20.1 模組，增加了導彈、炸彈和戰術武器，並與 Create Big Cannons (CBC) 和 Valkyrien Skies (VS) 整合。\n\n- **主要特色：**\n  - VS 船艦整合導彈（追蹤移動船隻的位置/旋轉，導彈始終隨船移動）\n  - CBC 引信系統用於導彈（右鍵點擊使用 CBC 引信安裝）\n  - 導彈飛行期間的區塊加載\n  - 扳手旋轉導彈和瞄準鏡（使用 Create 扳手）\n  - 發射時導彈繼承船隻速度\n  - 有線 CC (允許你使用無線連接器將 CC: Tweaked 電腦與周邊設備無線連接)\n\n### 導彈（9 種 × 3 種彈頭 = 27 個物品）\n每種導彈都有 HE、HEAT 和 HEFRAG 型號：\n- 3M-54 口徑（巡航導彈）\n- AGM-88 哈姆\n- AIM-9 響尾蛇\n- APKWS（導引火箭彈）\n- 地獄火\n- Hydra-70（無導引火箭彈）\n- 喀秋莎（無導引火箭彈）\n- R-77（主動雷達導引）\n- TOW-2（有線導引）\n\n### 炸彈（6 種 × 3 種彈頭 = 18 個物品）\n每種炸彈都有 HE、HEAT 和 HEFRAG 型號：\n- CBU-87（集束炸彈）\n- GBU-12（雷射導引）\n- GBU-24（雷射導引，重型）\n- M64（通用） - 僅限 HE\n- 石眼（集束炸彈）\n- 蛇眼（減速炸彈）\n\n## 依賴項\n- **Forge**\n- **Create**\n- **Valkyrien Skies**\n- Thermodynamica",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

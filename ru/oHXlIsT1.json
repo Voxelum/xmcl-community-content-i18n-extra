@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+kPBStFkTBo=",
+  "content": "# роговица\n\nБиблиотека, предоставляющая Kotlin DSL и расширения\nдля [polymer-virtual-entity](https://github.com/patbox/polymer). Она позволяет писать элементы и обработчики элементов в стиле DSL и использовать полезные расширения.\n\n> Примечание: до версии 1.0.0 API может изменяться без предварительного уведомления.\n\n## Настройка в Gradle\n\n### Kotlin\n\n```kotlin\nrepositories {\n    mavenCentral()\n}\n\ndependencies {\n    modImplementation(\"io.github.kouvali:cornea:ВАША_ВЕРСИЯ\")\n}\n```\n\n### Groovy\n\n```groovy\nrepositories {\n    mavenCentral()\n}\n\ndependencies {\n    modImplementation \"io.github.kouvali:cornea:ВАША_ВЕРСИЯ\"\n}\n```\n\n## Использование\n\nВот быстрый пример:\n\n```kotlin\nfun create() = elementHolder {\n    blockDisplayElement {\n        transformation {\n            translateLocal(-0.5f, -0.5f, -0.5f)\n            scaleLocal(0.75f)\n        }\n\n        onTick {\n            transform {\n                rotateLocalY(11.25f.toRadians())\n            }\n\n            startInterpolation(1)\n        }\n\n        blockState = Blocks.CAKE.defaultState\n    }\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

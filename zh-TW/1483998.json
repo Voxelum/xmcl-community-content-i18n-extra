@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GTmQMi3ld1U=",
+  "content": "<p>針對《EpicFight》和《第一人稱模型》模組的小型相容性修補程式。</p>\n<p><strong>修復內容：</strong></p>\n<p>EpicFight 會故意停用第一人稱模型模組，透過註冊自己的 <code>ActivationHandler</code>，在玩家處於 EpicFight 模式時封鎖第一人稱身體渲染。此外，玩家的頭部和帽子網格在第一人稱視角下並未被隱藏，導致它們會穿入攝影機畫面。</p>\n<p><strong>本模組透過 Mixin 修復上述兩個問題：</strong></p>\n<ul>\n<li>取消 EpicFight 的 <code>ActivationHandler</code> 註冊，使第一人稱模型不再被壓制，並讓動畫化的第一人稱身體正確渲染</li>\n<li>注入 EpicFight 的玩家渲染器，在第三人稱視角下正確隱藏頭部和帽子網格，避免攝影機穿模</li>\n</ul>\n<p><strong>必要條件：</strong></p>\n<ul>\n<li>EpicFight</li>\n<li>第一人稱模型</li>\n</ul>\n<p><strong>可選：</strong></p>\n<ul>\n<li>3D 皮膚層</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

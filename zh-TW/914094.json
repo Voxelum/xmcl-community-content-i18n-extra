@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NssD+fBYZW4=",
+  "content": "<p><strong>SetHomeTCT</strong> 是一款輕量級的 Minecraft 模組，允許玩家使用簡單指令儲存並傳送至自訂的家中位置。目前每位玩家最多可建立<strong> 2 個家</strong>，非常適合生存、探索或多基地玩法。</p><p>🧭 可用指令</p><ul>\n<li><code>/home Set &lt;名稱&gt;</code> 將您目前位置儲存為指定名稱的家。您可使用此指令兩次來建立兩個不同的家。</li>\n<li><code>/home Tp &lt;名稱&gt;</code> 將您傳送至符合指定名稱的家位置。傳送前包含可設定的冷卻時間。</li>\n<li><code>/home Del &lt;名稱&gt;</code> 刪除指定名稱的家。釋放一個欄位，讓您可以建立新家。</li>\n<li><code>/home List</code> 顯示您目前儲存的所有家名稱。</li>\n</ul><p>此模組使用持續性玩家資料來儲存家座標與名稱，確保家能在不同遊戲階段中保存。未來更新可能會增加更多家欄位。</p><p>&nbsp;</p><p>此模組<strong>需要 TCTcore 依賴項</strong>才能正常運作。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

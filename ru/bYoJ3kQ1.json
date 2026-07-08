@@ -1,0 +1,6 @@
+{
+  "bodyHash": "E3l6AYAxOMc=",
+  "content": "![LOGO](https://cdn.modrinth.com/data/cached_images/dd6821e16ada02e2bf09b85bfafd2932ce987eea.png)\n**Описание**: Этот ресурспак добавляет детализацию к [Таверне Калейдоскоп](https://modrinth.com/mod/kaleidoscopetavern), обеспечивая полное покрытие PBR и нормальных карт для всех её предметов. Также к некоторым предметам добавлены эффекты параллакса. Тестировано и совместимо с [Таверной Калейдоскоп: Рефабрикация](https://modrinth.com/mod/kaleidoscope-tavern-refabricated).\n\n**Примечание**: Для работы этого ресурспака необходимо включить шейдеры. Согласно первичным тестам, он хорошо работает с «Eclipse Shader» и «iterationRP Shader», при этом необходимо установить «Режим параллакса» шейдера на «Гладкий».\n\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

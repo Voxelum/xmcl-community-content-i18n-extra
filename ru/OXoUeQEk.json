@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VEwv09eXNAk=",
+  "content": "# Система здоровья тела\n\nЭтот мод добавляет новую систему здоровья в Minecraft.\nЗдоровье игрока разделено на различные части тела; когда часть получает урон, учитывается только броня, соответствующая именно этой части.\nЕсли некоторые части теряют всё здоровье, к игроку применяются дебаффы, такие как замедление, усталость при добыче ресурсов и слабость.\n\n## TODO\n\n- Реализовать лучи для стрел, чтобы наносить урон конкретной части.\n- Добавить пользовательские распределения урона для каждого моба.\n- Создать API и переработать код.\n\n## Крафтинг\n\n### Гипс\n\n![crafting_gypsum](https://raw.githubusercontent.com/SrGnis/Body-Health-System/master/docs/images/plaster_crafting.png)\n\n### Морфий\n\n![crafting_morphine](https://raw.githubusercontent.com/SrGnis/Body-Health-System/master/docs/images/morphine_crafting.png)\n\n### Медкит\n\n![crafting_medkit](https://raw.githubusercontent.com/SrGnis/Body-Health-System/master/docs/images/medkit_crafting.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

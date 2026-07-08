@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IGMVFFM7QZU=",
+  "content": "嘗試在 1.21.2+ 版本中模擬傳統的線材複製功能，因為該功能已被修復。\n請在問題追蹤器上回報任何錯誤。\n\n插件版本（非 Fabric 版）包含設定選項，可修改複製時每根線材掉落的最小和最大數量。預設值為：最小值 1，最大值 3。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zG0DHw9twMc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/H0zHX4-di5U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n測試環境：Spigot、Paper、Purpur、Folia、Fabric\n\n不僅限於這些！它應該能在任何以此為基礎的伺服器軟體上運行。\nFabric 版本的功能**完全**與傳統線材複製器相同，意味著它們仍然具有方向性且必須使用剪刀剪取。\n\n此模組為伺服器端模組，意味著客戶端無需安裝即可運作。（但在單人遊戲中仍可正常使用！）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

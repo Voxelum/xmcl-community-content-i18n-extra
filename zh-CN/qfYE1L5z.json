@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QYPilRMta+k=",
+  "content": "此资源包为原版矿石添加了彩色和发光的轮廓。发光效果不会影响其他方块或世界，它只是一个视觉效果。它适用于大多数资源包（请将此资源包设置为最顶层）。\n\n该资源包有两个变体：\n\n* OptiFine/Continuity：需要 [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)、[Continuity](https://modrinth.com/mod/continuity/) 或 OptiFine。\n* 原版：不需要其他模组。\n\n此资源包适用于以下方块：\n\n* 煤矿石（深层）\n* 铜矿石（深层）\n* 青金石矿石（深层）\n* 铁矿石（深层）\n* 金矿石（深层）\n* 红石矿石（深层）\n* 钻石矿石（深层）\n* 绿宝石矿石（深层）\n* 下界石英矿石\n* 下界金矿石\n* 远古残骸\n* 粗铁块\n* 粗铜块\n* 粗金块\n\n常见问题：\n\n* 问：我看不到轮廓！矿石变暗了！\n  * 答：请确保下载了正确的变体。\n* 问：仍然看不到轮廓或它不发光？\n  * 答：请确保它被设置为最顶层的资源包，并且在 Continuity 或 OptiFine 设置中启用了“自发光纹理”。它可能与某些修改矿石的资源包不兼容。\n* 问：它是否与 [Items on Ores](https://modrinth.com/resourcepack/items-on-ores) 兼容？\n  * 答：不幸的是，不兼容。我会告诉你我找到方法的时候！\n* 问：支持基岩版吗？\n  * 答：不支持。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

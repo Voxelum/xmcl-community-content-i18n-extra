@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DamDUD65n50=",
+  "content": "<p>有時會出現一個錯誤，某個實體可能獲得NaN生命值（非數值），這基本上使該實體變得無法被殺死。此功能會殺死該實體，或將其生命值恢復到先前的非NaN值，然後掉落他們身上儲存的所有裝備/物品。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

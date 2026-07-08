@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xaFKDV8HLZE=",
+  "content": "<p>Nvidium 是一個替代 Sodium 的渲染後端，它使用僅限 NVIDIA 的 OpenGL 擴展功能，能大幅提升 FPS。</p><h2>相容性</h2><p>此模組明確要求使用支援網格著色器 (Mesh Shaders) 的 NVIDIA 顯示卡。此功能自圖靈架構開始引入，因此任何 16xx 系列或更新（20xx 系列也適用）且支援網格著色器的顯示卡皆可使用。</p><h3>問：此模組能在非 NVIDIA 系統上運作嗎？</h3><h3>答：不行，此模組在非 NVIDIA 系統上無法運作，但 Nvidium 會自動停用，不會影響你的遊戲體驗。</h3><h2>警告</h2><p>此模組使用了較少見的技術（網格著色器），可能導致 Minecraft 意外終止。</p><h2>運作原理</h2><p>透過網格著色器，模組實現了近乎完全由 GPU 驅動的渲染管線，能對地形進行高效且快速的幾何剔除，讓你的 GPU 發揮更高效率。</p><h1>需搭配 Sodium 運行</h1><h2>當 Iris 正在使用著色器時會自動停用</h2>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

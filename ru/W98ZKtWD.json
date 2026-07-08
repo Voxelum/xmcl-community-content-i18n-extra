@@ -1,0 +1,6 @@
+{
+  "bodyHash": "w/sV0poXE64=",
+  "content": "**Примечание:** Теперь, когда Apollo обновил Deeper Oceans, добавив смещение океанских монументов (и многое другое), я архивирую этот мод и рекомендую вам установить последнюю версию оригинала [здесь](https://modrinth.com/datapack/deeper-oceans) вместо этого.\n\n# Deeper Oceans: Refabricated\n\nЭто продолжение мода [Deeper Oceans](https://modrinth.com/datapack/deeper-oceans) от Apollo, созданного для Fabric.\n\nКак и в оригинальной версии, этот мод расширяет океаны примерно до 3-кратной нормальной глубины. Он также включает mixin (первоначально взятый из мода [Tectonic](https://modrinth.com/datapack/tectonic)), который корректирует генерацию океанских монументов с учётом более низкого дна моря.\n\n## Несовместимости\nЭтот мод конфликтует с Tectonic. Однако всё, что есть в этом моде, уже входит в Tectonic, поэтому, если у вас установлен Tectonic, этот мод вам не нужен.\n\n## Благодарности\nНичто из этого не было бы возможным без работы [Apollo](https://modrinth.com/user/Apollo) и их щедрости, позволивших выпустить исходный код Deeper Oceans и Tectonic под лицензией MIT.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

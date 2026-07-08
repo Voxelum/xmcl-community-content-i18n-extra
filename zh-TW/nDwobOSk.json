@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bho9+iSNKek=",
+  "content": "# 骷髏使用自訂弓\n\n**讓骷髏能正確使用模組新增的弓。**\n\n許多模組新增的弓依賴玩家專屬的射擊機制，原版骷髏的 AI 無法正確使用。  \n此模組讓骷髏能以**玩家式的射弓行為**發射這些弓，提升與多種弓類模組的相容性。\n\n**自動支援大多數模組新增的弓。**\n\n原版弓不受影響。\n\n---\n\n## 功能特色\n\n- 骷髏能**自動使用大多數模組新增的弓**\n- 對非原版弓採用**玩家式射弓邏輯**\n- 骷髏能**撿拾並升級使用更好的弓**\n- **高階弓會保持裝備狀態**（參見優先級系統）\n\n注意：  \n由於原版生物生成規則，並非所有骷髏都能撿拾掉落物品。\n\nhttps://minecraft.wiki/w/Geared_mobs#Picking_up_gear\n\n---\n\n## 相容性\n\n自動支援大多數繼承原版類別的弓：\n\n`BowItem`\n\n部分未繼承 `BowItem` 的類弓武器需要額外相容性補丁。\n\n目前已包含的補丁：\n\n- Alex's Caves — **恐懼之弓**\n- L_Ender's Cataclysm — **詛咒之弓**、**荒漠之怒**\n\n---\n\n## 給模組包作者\n\n本模組具備**即裝即用、低風險**特性：\n\n- 不替換骷髏 AI  \n- 不修改投射物系統  \n- 不改變戰鬥平衡  \n\n僅調整骷髏**發射模組弓**的方式。\n\n### 弓的優先級（資料包）\n\n可透過資料包設定弓的偏好順序：\n`data/<命名空間>/skeleton_bow/<物品>.json`\n\n```json\n{\n  \"priority\": 5\n}\n```\n\n**優先級 ≥ 3** 的弓**不會被劍替換**。若未指定優先級，弓的預設值為**優先級 1**。\n\n### 禁止骷髏使用\n\n加入物品標籤：\n\n`skeletonusescustombow:skeleton_do_not_use`\n\n即可防止骷髏使用特定弓。\n\n## 相關專案\n\n### 豬布林使用自訂弩：[Piglin Hunt Fix](https://www.curseforge.com/minecraft/mc-mods/piglin-hunt-fix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

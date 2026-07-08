@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t/GFmwYhKNM=",
+  "content": "<p>此模組將原始的Herobrine目擊世界帶入現代Minecraft版本中。</p><p>&nbsp;</p><p>從下載列表中選擇對應版本下載世界，將檔案解壓縮到資料夾，然後移動至位置 %appdata% &gt; .minecraft &gt; saves</p><p>&nbsp;</p><p>啟動Minecraft，進入該世界，玩家預設位置即為原始截圖拍攝的座標。若玩家位置重置至重生點，可手動前往以下座標：</p><p>座標：X=5.16 Y=71 Z=-298.53</p><p>視角角度：RX=93.75 RY=-1.2</p><p>&nbsp;</p><p>注意事項：</p>\n<ol>\n<li>世界移植過程中雖已最小化破壞，但仍可能出現問題；任何在Beta 1.7.3或Release 1.0.0以上版本生成的新區塊，將依據現代地形生成機制轉變為新版區塊。</li>\n<li>部分第三方渲染模組在載入區塊至現代版本時，可能導致異常或直接使世界崩潰。請謹慎使用，或搭配其他輔助模組。</li>\n<li>個人不建議使用光影模組，尤其針對某些特定發行版本。</li>\n<li>可使用環境美化模組來還原Alpha版的迷霧與視覺風格。</li>\n<li>若想生成舊版區塊，請先下載Release 1.0.0版本的遊戲生成區塊，再載入至新版。</li>\n</ol>\n<p>&nbsp;</p>\n<p>推薦載入順序：</p>\n<p>Release 1.0 ➡ Release 1.2 ➡ Release 1.8.9 ➡ Release 1.12.2</p>\n<p>&nbsp;</p>\n<p>與朋友一同享受這個世界，無需煩惱將舊世界轉換至特定版本時產生的區塊損毀問題。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

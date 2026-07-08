@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IdlBk+sSzBg=",
+  "content": "[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/getchoo/smooth-reboot) [![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://fabricmc.net) [![quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg)](https://quiltmc.org)\n\nThreadTweak 允许你改进和调整 Minecraft 的 CPU 调度。它是 [原始 Smooth Boot 模组](https://github.com/UltimateBoomer/mc-smoothboot) 的维护版本，允许你在游戏中仍然更改 CPU 线程优先级。\n\n### 既然不再需要，为什么要制作这个模组？\n\n虽然 Smooth Boot 的主要功能在 1.19.4 中已经修复，但该模组仍然允许你调整线程优先级，这在某些系统上仍然非常有用，如 [UltimateBoomer/mc-smoothboot #54](https://github.com/UltimateBoomer/mc-smoothboot/issues/54) 所示。\n\n### 这个模组比原版更快吗？\n\n没有任何方式更快——这只是 Smooth Boot 最终版本的维护版本。根据需求或我有时间的情况下，可能会添加额外的功能或改进。\n\n<details>\n<summary>来自原作者的许可邮件</summary>\n\n你好，Devin，\n\n如果你想要为 Minecraft 的未来版本维护 Smooth Boot 的分支，我完全没有问题。我理解 Smooth Boot 在 1.20 及以后的版本中仍然有用，尽管我个人目前没有兴趣维护这个模组。我也建议使用一个不同的名称，尽管如果你不想的话，你不必这样做。Smooth Boot 的原始目的是让 Minecraft 启动更快，这个目的已经不再必要，所以一个不同的名称能更准确地传达模组的目的。\n\n谢谢，\n\nUltimateBoomer\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OTy5FAGV9/w=",
+  "content": "<h1>Погружающая Энергетика</h1>\n<p>Официальный дополнительный мод для поддержки Immersive Engineering в AE2. В настоящее время добавляет провода, совместимые с ME.</p>\n<h3>ME-Коннектор</h3>\n<p>ME-коннекторы позволяют подключать провода к устройствам и кабелям AE2. Они принимают только одно подключение к ME-проводу (плотному или нет).</p>\n<h3>ME-Реле</h3>\n<p>ME-реле принимают несколько подключений к ME-проводам, однако не подключаются к устройствам и кабелям AE2.</p>\n<h3>ME-Катушка Провода</h3>\n<p>Стандартные ME-провода. Они могут передавать до 8 каналов (при использовании стандартного режима канала в AE2).</p>\n<h3>Плотная ME-Катушка Провода</h3>\n<p>Плотные ME-провода. Они способны передавать до 32 каналов (при использовании стандартного режима канала в AE2).</p>\n<h3>Скриншоты</h3>\n<p><img src=\"https://raw.githubusercontent.com/AppliedEnergistics/Immersive-Energistics/main/images/setup1.png\" alt=\"setup1\">\n<img src=\"https://raw.githubusercontent.com/AppliedEnergistics/Immersive-Energistics/main/images/setup1_network.png\" alt=\"setup1 network\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

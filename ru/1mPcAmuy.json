@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xcKAo+z3lK0=",
+  "content": "Forgelin-Continuous — это обновлённая версия Forgelin от Shadowfact, которая позволяет разработчикам писать моды в последних версиях Kotlin.\n\n## Отказ от ответственности\nЭтот мод не может использоваться в качестве замены или вместе с Forgelin от Shadowfact, поскольку встроенные библиотеки Kotlin вызовут конфликт.\n\n## Для пользователей\nЭтот мод не добавляет никакого дополнительного контента в игровой процесс; он используется исключительно как библиотечный мод.\n\n## Для разработчиков\nВерсию встроенных библиотек Kotlin можно посмотреть [здесь](https://github.com/ChAoSUnItY/Forgelin-Continuous/releases).\n\nРазработчикам — подробнее ознакомьтесь [здесь](https://github.com/ChAoSUnItY/Forgelin-Continuous).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

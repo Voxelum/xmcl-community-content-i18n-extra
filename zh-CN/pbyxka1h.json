@@ -1,0 +1,6 @@
+{
+  "bodyHash": "J0uHE+zblR8=",
+  "content": "# Beyond Storage 扩展插件\n\n这是一个为 **Beyond Dimensions** 模组开发的扩展插件。\n\n## 功能介绍\n本模组为游戏增加了一个便捷功能：**一键存入维度网络**。\n\n![UI](https://cdn.modrinth.com/data/cached_images/9c65179b8a9f302b88b49124670da53d81e04d95_0.webp)\n\n- 当玩家打开任何容器（如箱子、熔炉等）时，可以通过特定的网络包触发逻辑。\n- 自动将容器内的物品转移到玩家所属的“维度网络（Dimension Network）”统一存储中。\n- 提供屏幕提示，告知存入的物品组数或网络是否已满。\n\n![P1](https://cdn.modrinth.com/data/cached_images/b9a509735ebc3850816798bdad3c321dda81bb01_0.webp)\n\n![P2](https://cdn.modrinth.com/data/cached_images/55c7438e40f04107bd6df5e21fd133a9a82ce4e1.webp)\n\n---\n\n# Beyond Storage 扩展插件 (英文版)\n\n这是为 **Beyond Dimensions** 模组开发的一个扩展插件。\n\n## 功能\n本模组添加了一个便捷功能：**快速存入维度网络**。\n- 当玩家打开任何容器（例如箱子、熔炉）时，可以通过自定义网络数据包触发逻辑。\n- 自动将容器中的物品转移到玩家的“维度网络”统一存储中。\n- 提供屏幕消息提示，显示存储的物品堆叠数量或网络是否已满。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

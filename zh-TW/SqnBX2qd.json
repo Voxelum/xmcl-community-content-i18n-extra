@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bgYKI1MfvH0=",
+  "content": "**此模組僅限客戶端使用，安裝在專用伺服器上沒有任何效果。**\n\n安裝此模組後，會在「區域網路連線」介面中新增幾個選項，讓使用者可以指定連接埠啟動區域網路遊戲，並提供關閉「線上模式」的選項。\n\n此外，您還可以啟用或停用 PVP 並設定玩家人數上限。\n\n自 1.9 版本起，若您使用「離線模式」，可啟用優先採用 Microsoft/Mojang UUID 的選項。這能避免從線上模式切換至離線模式時遺失物品欄內容。\n\n自 1.20.5 起，Minecraft 需要 Java 21。\n從 1.18.1 到 1.20.4，Minecraft 需要 Java 17。\n1.17.1 需要 Java 16。\n舊版本可在 Java 8 上執行。\n\n### 語言支援\n- 英文 (en_us)\n- 法文 (fr_fr)\n- 簡體中文 (zh_cn)\n- 巴西葡萄牙文 (pt_br)\n- 俄文 (ru_ru)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

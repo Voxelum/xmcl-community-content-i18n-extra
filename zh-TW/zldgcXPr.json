@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ox6G6OidN9A=",
+  "content": "### 功能介紹\n\nWrenchest 新增了一個物品：箱子扳手。使用它可以連接和斷開箱子，無需破壞和重新放置。\\\n要將兩個箱子連接在一起，只需用箱子扳手右鍵點擊箱子的側面，該側面需朝向您想要連接的箱子。兩個箱子都必須是單一箱子，否則連接將無法運作。要斷開兩個箱子，只需用箱子扳手右鍵點擊任一箱子。請注意，您無需取出任何物品，當您連接或斷開箱子時，物品會保留在箱子中。\\\n您可以透過點擊相應側面的對應區域來控制連接箱子的朝向。這在下面的影片中有展示。請注意，當十字準星放置在側面較靠後的位置時，箱子將背對玩家；當十字準星放置在較靠前的位置時，箱子將面向玩家。\n\n### 展示影片\n以下是兩個展示模組運作的短片。第二部影片中材質遺失，因為它是在開發過程中錄製的，但模組的功能仍然相同。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lByQPtsh0FQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/eCUeReRLOEo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n### 合成配方\n箱子扳手的合成配方如下所示。它具有256次使用次數，可以在鐵砧上用鐵錠修復。\n![配方](https://i.imgur.com/oUOibGP.png)\n\n### 常見問題\n**問：** 能否將此模組回溯到 xxx 版本？\\\n**答：** 不行。\n\n**問：** 這適用於終界箱嗎？\\\n**答：** 不適用，因為終界箱只能是單一箱子。\n\n**問：** 這適用於陷阱箱嗎？\\\n**答：** 是的。實際上，它應該適用於任何擴展原版箱子的箱子。\n\n**問：** 這適用於其他模組的箱子嗎？\\\n**答：** 請參閱上一個答案。\n\n感謝 MMD 上的 julian 提供名稱。\n\n您可以在任何模組包中使用此模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

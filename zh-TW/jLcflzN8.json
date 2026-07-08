@@ -1,0 +1,6 @@
+{
+  "bodyHash": "B+SoyqXNpjE=",
+  "content": "![bg](https://cdn.modrinth.com/data/jLcflzN8/images/f7bbdfcfc7644d164d6a20665f37e77165c3355e.gif)\n\n這個模組在遊戲中添加了紫羚——非洲森林羚羊中體型最大、最重的物種。\n\n \n\n這些害羞的生物是**草食動物**，所以需要草或小麥物品**來馴服和繁殖**，\n\n並且是**夜行性動物**，意味著牠們在夜晚活動，白天休息或睡覺。\n\n牠們會避開其他生物，但當遭到攻擊或小羚羊受到攻擊時，會進行反擊。\n\n \n\n有時牠們會**剝去附近原木的樹皮**，將其變成剝皮原木（同時會掉落一些木棍）。\n\n你也可以像對待牛一樣**擠奶**。\n\n當牠們從地面吃草時，有機會讓角稍微長長，這也會增加牠們的傷害值；\n\n死亡時，會根據角的長度掉落骨頭和皮革。\n\n \n\n就像我的其他動物模組一樣，這些生物有三種可以通過互動改變的行為模式（會顯示訊息讓你知道正在使用哪種模式）：\n\n**（遊走 - 休息 - 跟隨）**\n\n因此，當設定為休息模式時，可以讓牠們停留在某個位置。\n\n \n\n牠們生成在**風蝕森林**和**稀疏叢林**中。\n\n你可以通過編輯 **data** 資料夾中的 **biome tags** 和 **biome modifier** 資料夾內的 JSON 檔案，\n\n或透過資源包來更改此設定及其他**生成設定**；\n\n但在 Fabric 中，部分生成設定（如權重、最小、最大數量）必須在配置檔案中編輯。\n\n\n**此模組目前支援：**\n\n**Forge       26.x | 1.21.x | 1.20.1**\n\n**Neoforge 26.x | 1.21.x**\n\n**Fabric      26.x | 1.21.x | 1.20.1**\n\n\n如果你需要其他版本的模組，或在 CurseForge 上遇到任何錯誤，請發送私人訊息給我。\n\n[https://legacy.curseforge.com/members/aquarius_playz/projects](https://legacy.curseforge.com/members/aquarius_playz/projects)\n\n \n\n**在 X（Twitter）上關注我**\n\n[https://x.com/Aquarius_playz](https://x.com/Aquarius_playz)\n\n\n\n![aquariuslibs](https://cdn.modrinth.com/data/KkHnyaL6/7d506caf48d26f964f4f789553ce757cfe868742_96.webp)\n\n**[此模組需要安裝 AquariusLibs](https://modrinth.com/mod/aquarius-libs)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

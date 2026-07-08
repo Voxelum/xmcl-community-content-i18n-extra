@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kmmoENSMs7g=",
+  "content": "## Моды\n- Если вы используете Fabric, у вас должна быть установлена также версия [Fabric API](https://modrinth.com/mod/fabric-api)\n- Если вы используете Quilt, у вас должна быть установлена также версия [Quilted Fabric API](https://modrinth.com/mod/qsl)\n\n### Как это работает\nОн уничтожает все кристаллы Края, находящиеся рядом с порталом\n\n\nУдалите мод / datapack, чтобы снова можно было спавнить дракона.\n\nЕсли вы обнаружили какие-либо ошибки или у вас есть предложения по datapackу/моду, пожалуйста, сообщите мне на моём [Discord](https://discord.gg/fy4KuxYKVD).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

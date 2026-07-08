@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ymnMlIGz1Cg=",
+  "content": "# Player Locator Plus Reforged  \nБлагодарю [Mojang](https://www.minecraft.net/ru-ru) за оригинальную идею и [SIT](https://modrinth.com/user/sit) за портирование на Fabric.  \n# **Я не претендую на авторство мода — я лишь сделал порт для Forge.**  \nОтслеживайте местоположение других игроков на своей шкале опыта, как компас! Теперь доступно для Forge!\n\n\n<p><video src=\"https://github.com/danceqqq/PlayerLocatorPlusReforged/raw/refs/heads/main/raw/refs/heads/main/compressed_1108%20(2).mp4\" autoplay loop muted></video></p>\n\n# Цвета маркеров  \nЦвет каждого игрока определяется случайным образом на основе его UUID. Вы не можете изменить свой UUID (если только вы не играете в офлайн-режиме); следовательно, невозможно изменить цвет своего маркера.\n\n# Затухание по мере удаления  \nКогда игрок находится очень далеко, его маркер начинает затухать.\n\n# Исчезновение  \nЕсть три способа скрыться от локатора игроков:  \n- Сидя на корточках  \n- Надевая резную тыкву  \n- Используя эффект невидимости  \n\n# Настройка через меню мода",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

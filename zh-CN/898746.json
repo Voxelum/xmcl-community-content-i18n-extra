@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+b44sFo4Wcc=",
+  "content": "<h2>概述</h2><p>为Mekanism模组的多方块结构添加JEI信息页面。<br>可计算建造成本与多方块功能参数。<br>&nbsp;</p><h2>功能特性</h2><p>1. 支持JEI +按钮交互<br>2. 计算流体/气体储罐容量<br>3. 计算「裂变反应堆」温度与加热速率<br>4. 计算「热电锅炉」钠冷却速率<br>5. 计算「工业涡轮机」运行效率<br>&nbsp;</p><h2>使用指南</h2><h3>1. 如何查找多方块页面</h3><p>在JEI全部类别中查找多方块页面，<br>或对多方块组成物品按下JEI「显示用途」快捷键<br>（默认为U键）</p><p>&nbsp;</p><h3>2. 裂变反应堆高级布局界面操作</h3><p>左键拖拽：在格位放置「燃料组件」<br>右键拖拽：移除格位上的「燃料组件」<br>滚轮滑动：调整格位「燃料组件」高度</p><p>&nbsp;</p><h2>支持的多方块结构</h2><h3># Mekanism本体</h3><p>1. 动态储罐<br>2. 热力蒸发厂<br>3. SPS超级对撞机<br>4. 热电锅炉<br>5. 感应矩阵<br><br></p><h3># Mekanism发电机扩展</h3><p>1. 工业涡轮机<br>2. 裂变反应堆<br>3. 聚变反应堆<br><br></p><h3># Better Fusion Reactor for Mekanism PLUS</h3><p>1. 聚变反应堆<br><br></p><h3># Mekanism Extras附加组件</h3><p>1. 强化感应矩阵<br>2. 娜夸反应堆<br><br></p><h3># Evolved Mekanism进化版</h3><p>1. 反物质质子分子嬗变仪<br>2. 感应矩阵元件方块</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "M7WX3bAE05c=",
+  "content": "<p><em>一个简单的模组，用于在现代MC版本中重现OpenBlocks中的Luggage实体。&nbsp;</em></p><p>&nbsp;</p><ul>\n<li>就像在OpenBlocks中一样，Luggage会跟随你并捡起地上的物品，将它们存储在其物品栏中。你可以通过右键点击它来打开它的物品栏。</li>\n<li>按住Shift并右键点击Luggage可以将它作为物品捡起，方便你轻松存放。物品栏、充电状态和名称都会保存在物品中。&nbsp;</li>\n<li>Luggage是不朽的，所以你不用担心丢失物品。&nbsp;</li>\n<li>如果你的Luggage以某种方式被雷击中，它会变成充电状态并使其物品栏空间翻倍。这一变化会反映在实体和物品的纹理上。&nbsp;</li>\n<li>你的Luggage不再跟随你了吗？你是否找不到Luggage跑到哪里去了，而且它不会传送回你身边？它是否被困在深洞里，而你无法轻易取回它？那么，吹哨功能就是你的救星！只需按下吹哨键（默认绑定为`键），只要Luggage在已加载的区块中，它就会传送回你身边。&nbsp;</li>\n</ul><p>&nbsp;</p><p><strong>Forge版本标记为发布版，Fabric版本标记为测试版。这只是为了让两者都对所有人可见。</strong></p><p>&nbsp;</p><p>请将你发现的任何问题报告到问题跟踪器（上面有链接）。谢谢！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

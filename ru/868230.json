@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DeLt0daQ3Cc=",
+  "content": "<h1>Что такое онлайн-эмодзи?</h1><p>Онлайн-эмодзи — это дополнение для Emotecraft, которое позволяет игрокам видеть эмодзи друг друга даже на стандартных серверах.</p><h1>Как это работает?</h1><p>Если Emotecraft не установлен на сервере, этот мод подключается к внешнему <strong>серверу эмодзи</strong>, чтобы синхронизировать эмодзи в реальном времени (через WebSocket, аналогично плагину Velocity).</p><h1>Часто задаваемые вопросы</h1><ul>\n<li><strong>Что такое сервер эмодзи?</strong><br>\nЭто сервер, который синхронизирует эмодзи, когда Emotecraft недоступен.</li>\n<li><strong>Нужен ли мне <a href=\"https://curseforge.com/minecraft/mc-mods/emotecraft\" target=\"_blank\" rel=\"nofollow\">Emotecraft</a>, чтобы этот мод работал?</strong><br>\nДа. </li>\n<li><strong>Есть ещё вопросы? Присоединяйтесь к нашему <a href=\"https://discord.gg/jdB5JYX7W7\" target=\"_blank\" rel=\"nofollow\">Discord</a>!</strong></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

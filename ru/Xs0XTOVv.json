@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8fe3fce0cdf764b9",
+  "content": "\n\n# Не скачивайте, если вы не разработчик\n\n**Помещение этого файла в папку mods не даст никакого эффекта.**\n\n<br>\n\n### Описание для разработчиков\n\nЭтот jar-файл содержит исходный код и классы, необходимые для взаимодействия с Distant Horizons независимо от Minecraft и загрузчика модов.\nИспользуйте этот jar-файл в процессе разработки вместо полной версии Distant Horizons, чтобы случайно не обращаться к небезопасным внутренним методам.\n\n<br>\n\nПримеры проектов на GitLab содержат все необходимые основы для начала работы с API. <br>\nhttps://gitlab.com/distant-horizons-team/distant-horizons-api-example\n\n<br>\n\n### Дополнительные ресурсы\n\n**JavaDocs для API** <br>\nhttps://distant-horizons-team.gitlab.io/distant-horizons/\n\n**Wiki для разработчиков** <br>\nhttps://gitlab.com/distant-horizons-team/distant-horizons/-/wikis/home\n\n**Discord** <br>\nЕсли у вас возникнут вопросы или проблемы, не освещённые в указанных выше документах. <br>\nhttps://discord.gg/xAB8G4cENx\n\n**Сообщения об ошибках**<br>\nЕсли вы обнаружили баги или хотите предложить новую функцию для API, используйте основную страницу трекера задач Distant Horizons на GitLab. <br>\nhttps://gitlab.com/distant-horizons-team/distant-horizons/-/issues",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8gusM3fVbz4=",
+  "content": "<h2>關於模組</h2><p>你是否曾覺得奇怪，當寶可夢使用「自爆」、「大爆炸」或「薄霧炸裂」時，竟然沒有真正的爆炸效果？這個模組正是為了解決這個令人沮喪的遺漏而設計。</p><p>透過這個Cobblemon附屬模組，每當任何寶可夢在戰鬥中使用爆炸類招式時，都會觸發真實的爆炸效果。運作原理是什麼？模組會偵測招式的使用、特性的觸發，或是寶可夢的瀕死狀態，接著檢查設定檔中是否存在對應條目。若找到匹配項目，就會產生類似苦力怕或TNT的爆炸效果，且爆炸威力可自行調整。</p><p>請務必小心！這很可能會把你的世界變成瑞士起司般千瘡百孔，讓你的房屋化為廢墟！</p><p>爆炸威力以及爆炸招式、特性與寶可夢的清單，都可以在設定檔 <code>config/cobbleboom.json</code> 中自行配置。</p><h2>我的其他模組</h2><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/cobblemon-pokenav\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://i.imgur.com/91ZCh1a.png\" alt=\"Cobblenav\" width=\"160\" height=\"160\"></a><a href=\"https://www.curseforge.com/minecraft/mc-mods/cobblemon-let-me-spawn\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://i.imgur.com/VBgXD5r.png\" alt=\"Cobblemon - Let Me Spawn\" width=\"160\" height=\"160\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Z9AV0C/HtSU=",
+  "content": "# Provi 的血量條\n\n為 Minecraft 新增血量條傷害指示器。\n\nProvi 的血量條同時提供了針對當前目標的 HUD 血量條，以及所有生物的遊戲內血量條。兩者的行為皆可在設定選單中進行廣泛的自訂。\n\n![圖片](https://cdn.modrinth.com/data/4wDQsby8/images/c4164d099ccf2c8c3344cdc99cbbe7471c3a38d6.png)\n\nHUD 血量條會根據你所鎖定生物的實體群組改變外觀。其他模組可利用此模組的 API 入口點，為自訂的實體群組，甚至是特定生物，新增額外的 HUD 頭像與圖示。  \n詳見圖庫中的範例。\n\n## 坐騎血量\n就連被騎乘的生物也會被考慮在內。當你查看一個有坐騎的生物時，將會顯示雙重血量條。坐騎血量甚至會考慮到生物堆疊的情況。\n\n![圖片](https://cdn.modrinth.com/data/4wDQsby8/images/0daafd4f2f64dc6e0681bc2f91d6146156036e0e.png)\n\n## 傷害與治療粒子\n此模組提供了完全客戶端且可自訂的傷害與治療粒子。\n\n這些粒子永遠不會阻擋你的視野，它們只會在生物的左右側（相對於你的視角）生成。  \n![圖片](https://cdn.modrinth.com/data/4wDQsby8/images/60b7e457ead6f65854337c5ab13f20389b9d26e1.gif)\n\n## 展示影片\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ydMUhioQW3k\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

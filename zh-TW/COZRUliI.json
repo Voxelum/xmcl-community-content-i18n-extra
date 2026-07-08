@@ -1,0 +1,6 @@
+{
+  "bodyHash": "30MJdg3j534=",
+  "content": "<img width=\"380\" height=\"224\" alt=\"陰影投射\" src=\"https://github.com/user-attachments/assets/3c5ec8a5-b35e-4f08-90c8-b6a27a3efa61\" />\n\n一款低調的客戶端模組，為 GUI 中的物品添加投影效果，為快捷欄、物品欄界面、進度等增添立體感。預設狀態下，陰影呈半透明、朝右下偏移 1px，並會裁切以符合物品格的範圍。\n\n⚠ *由於陰影會使 GUI 中的物品渲染量翻倍，因此在大量物品同時顯示時，效能將有所取捨。*\n\n<img width=\"1600\" height=\"768\" alt=\"陰影投射範例\" src=\"https://github.com/user-attachments/assets/2ab817a1-1c61-429a-8771-af39e3ccc3e4\" />\n\n可透過產生的 `shadowdrop-client.toml` 檔案進行陰影設定。\n> 注意：陰影裁切功能需偵測每個物品右下角像素的顏色來判斷物品格位置。若資源包或模組化 GUI 中該像素非 #FFFFFF，請調整 `slotBrColors` 以確保相容性。\n\n---\n\n⚠ **可能需要調整設定才能正常相容的模組：**\n- **EMI**：關閉 `use-batched-renderer`\n- **ImmediatelyFast**：關閉 `hud_batching`\n- **Accelerated Rendering**：關閉 `gui_acceleration`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

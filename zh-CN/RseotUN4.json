@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yTqA8AAejxM=",
+  "content": "![Modsender](https://cdn.modrinth.com/data/cached_images/62df71fea87700093836aee672baa25791019e90_0.webp)\n\n⚠️ 注意：这只是一个模组。如果你希望你的服务器能使用此模组，则需要安装 Mod Checker Enhanced 插件。如有需要任何帮助，请联系作者！\n\n[前往 Mod Checker Enhanced 页面！](https://modrinth.com/plugin/modcheckerenhanced)\n\n## **概述**\nModSender 是 ModCheckerEnhanced 的客户端配套模组。它会在你加入服务器时自动将你的模组列表发送至服务器，从而使服务器能够验证你所有的模组均属于白名单内。若未安装 ModSender，服务器将拒绝你的连接。\n\n## **依赖条件**\n- Minecraft 版本：1.21.x\n- 模组：Fabric API\n- 服务器端：Mod Checker Enhanced\n\n## **安装步骤**\n1. 下载 ModSender 的 JAR 文件\n2. 将其放入客户端的 mods 文件夹\n3. 使用 Fabric 加载器启动 Minecraft\n4. 加入任意运行 ModChecker 的服务器\n\n**Modsender —— 维护 Minecraft 服务器公平性的必备工具。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

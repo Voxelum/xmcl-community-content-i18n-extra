@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+YI61KhVzM8=",
+  "content": "# MLEM API\n\nMLEM 是一個輕量級的模組開發API，用於開發支援 Fabric/Neoforge 多重載入器的模組，是對 Neoforge 和 Fabric API 的簡單封裝。\n\n如果你是玩家，這個模組本身不會有任何作用——它僅是其他模組的依賴項。\n\n## 使用 MLEM API\n\n一個好的起點是我們的[範本](https://forgejo.sillyjune.xyz/mlem/template-mod)，你可以複製並修改它，作為開發模組的基礎。至於其功能，你可以參考[維基百科](https://forgejo.sillyjune.xyz/mlem/mlem-api/wiki)，其中詳細介紹了API的所有功能以及如何在你的專案中實現它們。\n\n> 重要通知\n>\n> 此專案仍在開發中，API 可能會發生重大且不兼容的變更。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

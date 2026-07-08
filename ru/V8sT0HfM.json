@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RE1a4bDnTjU=",
+  "content": "## [Поддерживаемые моды](https://hackmd.io/@TagnumElite/PEI_ModList)\n\n## Описание:\n\nИнтеграция ProjectE включает предметы, жидкости, блоки и рецепты из других модов, чтобы по умолчанию или через рецепты получать EMC в ProjectE.\n\nНапример, верстак Immersive Engineering позволит вакуумным трубкам иметь EMC благодаря рецепту из плана.\n\nСообщайте об ошибках или предлагайте идеи на [github здесь](https://github.com/TagnumElite/ProjectE-Integration/issues/new/choose).\n\n### История:\n\nПервоначальным модом, который послужил вдохновением для всего этого, был [Expanded Equivalence](https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence). Мне хотелось поддержки большего количества модов, и я хотел добиться этого без использования базовых методов моддинга. Так родилась PEI.\n\n### Разрешения\n\nВы можете использовать этот код как угодно — он распространяется по лицензии [MIT](https://choosealicense.com/licenses/mit/). Если вы используете этот код в злонамеренных целях, я удалю его.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

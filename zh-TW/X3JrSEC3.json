@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5XXLlyIO3PA=",
+  "content": "這個資料包非常適合想在 Minecraft 1.21.x 中將 Create Ore Excavation 與 Mekanism 結合的玩家。\n\n# ✨ 特色\n5 種預設礦脈與鑽取配方：整合了原料鋨、鉛、錫、鈾以及氟石。\n\n全新分級流體鑽取系統：獎勵你的工廠建設！將 Mekanism 的流體泵入鑽機，可獲得大幅加成：\n\n-   第一級（鹽水）：有 50% 機率獲得額外礦物。需要鑽石或獄髓鑽機。\n\n-   第二級（硫酸）：保證雙倍礦物產量，且鑽取速度提升 2 倍！需要獄髓鑽機。\n\n支援 1.21.x 版本\n礦脈可根據 COE 設定調整為無限或有限。\n\n# ⚙️ 自訂設定（適用於伺服器管理員）\n預設礦脈生成相當常見，方便玩家尋找。你可以輕鬆調整稀有度以平衡伺服器：\n\n開啟資料包，導覽至 data/createoreexcavation/ore_vein_type/。\n\n開啟欲調整的礦石檔案。\n\n在 \"placement\" 區塊中，修改 \"spacing\"（區塊網格大小）與 \"separation\"（區塊間最小間距）的數值。> 注意：separation 數值必須嚴格小於 spacing 數值！\n\n# 📥 安裝方式\n\n## 資料包安裝：\n下載 .zip 檔案。\n\n現有世界：將 .zip 檔案放入世界的 datapacks/ 資料夾，並在遊戲中執行 /reload 指令。\n\n新世界：在創建世界選單中，直接透過「資料包」分頁新增 .zip 檔案。\n\n## 模組（jar 檔案）安裝：\n如同一般模組安裝即可。\n\n### 依賴模組：\nCreate、Create Ore Excavation 與 Mekanism",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

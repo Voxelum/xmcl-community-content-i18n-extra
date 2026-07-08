@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dNQxw78lb84=",
+  "content": "### <big>⚠️**警告：**</big> 客户端必须安装 [**Distant Horizons**](https://modrinth.com/mod/distanthorizons)<small><small><small> 或 [voxy](https://modrinth.com/mod/voxy)</small></small></small> 以及 [**Sodium**](https://modrinth.com/mod/sodium)！<big>⚠️</big>\n\n## <big>**独立可调子层级渲染距离**</big>\n\n**SSRD** 是一款允许玩家看到超越原版渲染距离的 Sable 物理对象的模组。如果你在使用 **机械动力：航空学** 搭配 Distant Horizons 建造飞机、汽车或船只，这款模组基本上是必需品（尤其是在多人游戏中）。\n\n## 配置\n更改 **子层级渲染距离** 的滑块位于 Sodium 视频设置菜单中，紧挨着常规的 **模拟距离** 滑块下方。最大距离会根据你的 Distant Horizons 距离或服务器设定的最大值动态更新。\n\n## 强制加载\n自 2.0.1 版本起，Sable 拥有了自己的强制加载方法：`/sable forceload @`（需要管理员权限）。SSRD 自带的强制加载已全面重构为对服务器更友好的方式。`/ssrd forceload` 无需管理员权限，但受强制加载上限约束，该上限可通过 `/gamerule ssrdForceLoadLimit` 调整（默认值为 10）\n\n---\n<details>\n<summary>重要信息</summary>\n\n* 1.8 及以上版本**必须**使用 Sodium 0.8，若在此版本下使用 voxy，需搭配[此移植版](https://github.com/m3t4f1v3/voxy/tree/mc_1211-sodium0.8.12)\n\n* 部分 Iris 光影包会导致渲染问题，例如某些光影包激活时，子层级会透过LOD被看到。\n\n* 目前无法在 voxy 中使用视频设置滑块，需通过 ssrd 的配置文件来调整子层级渲染距离。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

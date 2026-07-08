@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a+f6ZCzeQcs=",
+  "content": "Просто исправляет совместимость NBT в многопользовательской игре, реализовано так, как показано в этом [pull request](https://github.com/ZsoltMolnarrr/BetterCombat/pull/324)  \nЭто исправляет проблему с неработающей совместимостью NBT в многопользовательской игре; это необходимо для модов с модульными предметами, таких как Truly Modular.  \nЭта проблема [https://github.com/ZsoltMolnarrr/BetterCombat/issues/141](https://github.com/ZsoltMolnarrr/BetterCombat/issues/141) решена этим.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

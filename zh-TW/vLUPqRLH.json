@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IXBErSA7d8c=",
+  "content": "![Alt text](https://cdn-raw.modrinth.com/data/vLUPqRLH/images/7e1db34002c56ad8a6f0500e812f2366560a7eaf.png)\n\n## 關於：\n\n一個簡單的資料包，讓您運送村民的旅途變得更加輕鬆，藉由駱駝與羊駝。非常適合運送擁有獨特交易的已就業村民，以及特定生態域的村民，例如平原、針葉林、叢林或沼澤村民。\n\n## 功能：\n\n### 駱駝\n- 要讓村民坐上駱駝的乘客座位，請騎著配備鞍的駱駝靠近最近的村民。\n\n![Alt text](https://cdn-raw.modrinth.com/data/vLUPqRLH/images/de38cda0d94eac521342fd13833fc472fa663d95.gif)\n\n### 羊駝\n- 要讓村民坐上羊駝，請引導鋪有地毯的羊駝靠近最近的村民。\n**（此外，若村民在範圍內靠近鋪有地毯的羊駝，也會自動騎上去。）**\n\n![Alt text](https://cdn-raw.modrinth.com/data/vLUPqRLH/images/a2164cad86040f95d3db01046e8522d950e27e1b.gif)\n\n### 讓村民下車\n- 對著騎乘中的村民按右鍵，即可讓其從駱駝和羊駝上下來。此外，村民在下車時可以傳送到您身邊。**（也適用於乘坐船和礦車的村民。）**\n\n**更新說明：村民在下車時不再傳送到您身邊，且羊駝在拴繩牽引並騎乘時不再獲得速度提升。**\n\n**已知問題：對著已就業村民按右鍵，會在使其從可騎乘實體上下來時開啟其交易介面。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dkl56c2sr8E=",
+  "content": "在Minecraft的Alpha版本中，階梯物品的渲染是壞掉的。我不知道他是怎麼弄壞的，但它就是壞了。\n\n這個資源包重現了這個效果！祝使用愉快。相容於所有資源包，我想啦。\n\n在models\\item資料夾中，有兩個模型：stairs_gui和stairs_gui_rotated。stairs_gui_rotated是朝不同方向旋轉的，因為我以為Alpha階梯的旋轉方向跟現在的物品模型不一樣。結果其實沒有。如果你想用的話還是可以用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

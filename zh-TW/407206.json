@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DVv/e4G6Drs=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/312/218/chat-heads.png\" alt=\"\" width=\"1022\" height=\"139\">這個客戶端模組會在聊天訊息旁加入玩家頭像，如上圖所示。<br>它能讓你更容易區分聊天中的不同玩家，而且看起來非常美觀。</p><p>&nbsp;</p><p>基於 Fabric Discord 上 Hugman 的請求所製作。</p><p>&nbsp;</p><p>需搭配 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cloth-config\" rel=\"nofollow\">Cloth Config</a>（以及 Fabric 版本的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" rel=\"nofollow\">Mod Menu</a>）才能存取設定，但模組在沒有這些前置的情況下也能運作，會使用預設設定。</p><p>&nbsp;</p><p><strong>注意</strong>：預設設定可能在某些伺服器無法正常運作。若遇此情況，請嘗試使用「僅啟發式」訊息發送者偵測模式。請注意，這可能會導致某些聊天訊息顯示錯誤的頭像。</p><p>&nbsp;</p><p><strong>注意</strong>：與較新版本的 OptiFine (~1.20.1) 不相容，請改用 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252fwiki%252fcommunity%253aoptifine_alternatives\" rel=\"nofollow\">Sodium 等替代方案</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

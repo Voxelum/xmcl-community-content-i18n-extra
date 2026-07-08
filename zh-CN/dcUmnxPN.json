@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/V2PC8xSE5g=",
+  "content": "# Modset Policy Enforcement (MPE)\n\n确保您的Minecraft Fabric服务器公平游戏，使用**Modset Policy Enforcement (MPE)**。本模组引入了一种全新的先进技术来检测作弊者，为您的服务器提供强力保护，防止未经授权的修改。\n\n## 核心功能\n\n### 客户端与服务器双端保护\n\n该模组必须在客户端**和**服务器两端同时安装，确保检测的一致性和可靠性。\n\n### 模组验证\n\n当玩家连接时，服务器会验证客户端是否安装了MPE模组。未安装该模组的客户端将被自动拒绝连接。\n\n### 模组扫描\n\n客户端在连接时会将所有激活模组的列表发送至服务器。\n\n### 禁用模组执行与配置\n\n服务器会检查客户端的模组列表，与可配置的禁用模组列表进行比对，若检测到任何禁止的模组，则会阻止其连接。\n\n![玩家因使用Meteor Client被禁止加入](https://cdn.modrinth.com/data/cached_images/d0f5d76f3819ad23e246aa492e5cde727b32c3c3.png)  \n* 在服务器中，打开 `config/anticheat/banned-mods.txt` 文件。\n* 在配置文件中，输入您想封禁的**模组ID**。\n\n![配置界面](https://i.postimg.cc/kGRwZMvP/grafik.png)\n\n* **如何查找模组ID：**\n  * 下载您想封禁的模组，将文件扩展名从 **.jar** 改为 **.zip**。\n  * 打开该模组的ZIP文件夹（如果无法直接打开，请先解压）。\n  * 读取 `fabric.mod.json` 文件。\n  * 提取 `id` 字段的值。\n    例如：`{ \"id\": \"meteor-client\", \"name\": \"Meteor Client\" }` → 将 `meteor-client` 填入文件。\n* 每个ID必须单独占一行。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

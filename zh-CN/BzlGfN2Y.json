@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zjnjyus6H1s=",
+  "content": "# 半透明界面\n\n这个资源包为Minecraft界面添加了半透明效果，这在1.21.1及以下版本的原版游戏中是无法实现的。为了兼容旧版本游戏，我们采用了黑色与透明像素完美结合的方案，从而呈现出看似半透明的视觉效果。幸运的是，新版本已原生支持半透明效果，使得这种技术方案不再必要。\n\n本资源包旨在保留游戏原版风格的同时，通过添加透明度让界面在游戏过程中减少干扰。\n\n# 截图展示\n\n![主菜单](https://cdn.modrinth.com/data/cached_images/2e879d0b9c5c0be75917291e21ea5a45de3260e3.jpeg)\n![物品栏](https://cdn.modrinth.com/data/cached_images/3e0bce0e43aaef5c4bc3fa1ecd946f173bcc61d5.jpeg)\n![快捷栏](https://cdn.modrinth.com/data/cached_images/a0b45ef169cd438986414a0202ec7e063c958ea8.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

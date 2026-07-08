@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RUWLTdw7W6U=",
+  "content": "# ProjectE：鐵的法術書的EMC\n\n玩[鐵的法術書](https://modrinth.com/mod/irons-spellbooks)搭配[ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)，其材料沒有EMC數值。這個純資料擴充功能修正了這個問題。\n\n- 為核心材料**手工調整EMC**——神祕精華、生祕銀、熾炎金屬、餘燼精華、野豬皮、龍皮、神聖珍珠等其餘材料。\n- 大部分合成物品（錠、符文、鍛造升級裝備鏈）在基礎材料賦值後，**會根據模組的原版風格配方自動衍生EMC**。\n- **熾炎金屬刻意定價高昂**——它能轉化為遠古殘骸，過低數值會造成EMC複製漏洞。開採仍是正規獲取途徑。\n- **有狀態物品刻意不設EMC**：法術書、卷軸、武器、法杖、護甲與升級寶珠都帶有儲存法術、耐久度或升級資料，ProjectE不應為此定價。\n\n它不新增任何物品、方塊或配方——僅提供EMC資料。數值在載入世界時生效；開啟轉化桌即可檢視。\n\n**相依性**\n\n- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)——必備\n- [鐵的法術書](https://modrinth.com/mod/irons-spellbooks)——必備\n- NeoForge 1.21.1\n\n流體類的墨水和靈藥物品（在煉金釜中製作）未納入此首版數值。EMC數值為初步考量；歡迎在問題追蹤器提供平衡性意見。\n\nMIT授權。鐵的法術書由Iron431與Lab3製作；ProjectE由sinkillerj與貢獻者製作。獨立整合模組，與兩者無關。原始碼與問題回報：https://github.com/KURONAMI333/irons-spellbooks-emc",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

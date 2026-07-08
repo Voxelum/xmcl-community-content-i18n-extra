@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UUn6V2pl4j0=",
+  "content": "<p><span style=\"font-size:18px;color:#f00\">需要&nbsp;</span><span style=\"font-size:18px;color:#f00\"><a style=\"color:#f00\" href=\"https://www.curseforge.com/minecraft/mc-mods/apotheosis\" rel=\"nofollow\">Apotheosis</a></span></p><p>此Mod专为ModPack设计</p><p>本Mod会移除Apotheosis的一些配方</p><p>&nbsp;</p><p>被移除的配方列表</p><ul>\n<li>地狱书架</li>\n<li>棱彩蜘蛛网</li>\n<li>头盔之书</li>\n<li>胸甲之书</li>\n<li>护腿之书</li>\n<li>靴子之书</li>\n<li>武器之书</li>\n<li>弓箭手之书</li>\n<li>矿工之书</li>\n<li>渔夫之书</li>\n<li>其他之书</li>\n<li>拆解之书</li>\n<li>烈焰地狱书架</li>\n<li>发光地狱书架</li>\n<li>海洋书架</li>\n<li>水晶海洋书架</li>\n<li>熔心海洋书架</li>\n<li>珍珠末地书架</li>\n<li>龙息末地书架</li>\n<li>蜜蜂书架</li>\n<li>西瓜书架</li>\n</ul><p>在1.1.0版本中，你可以通过配置文件更改Apotheosis药水的材料。你可以更改以下药水的材料（原始药水和添加物品）：</p><ul>\n<li>抗性药水</li>\n<li>破甲药水</li>\n<li>吸收药水</li>\n<li>急迫药水</li>\n<li>疲劳药水</li>\n<li>凋零药水</li>\n<li>远古知识药水</li>\n<li>远古知识药水（II级）</li>\n<li>幸运药水</li>\n<li>治疗增强药水</li>\n<li>治疗减弱药水</li>\n<li>悬浮药水</li>\n<li>飞行药水</li>\n<li>飞行药水（长时间）</li>\n<li>飞行药水（超长时间）</li>\n</ul><p>在添加物品的ID处写入null，即可删除该配方。</p><p>&nbsp;</p><p>此外，在配置文件中还可以删除附魔金苹果的配方，以及禁用幸运兔脚的掉落。</p><p>&nbsp;</p><p><span style=\"color:#f1c40f\">修改配置文件后，请重启Minecraft。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uFB3E9P0PcE=",
+  "content": "# 黑暗恐懼症\n\n### - 此資料包與Smithed相容！\n\n畏懼黑暗，深入洞穴，但務必小心。攜帶光源，牠在暗處狩獵。\n\n此資料包新增一種神祕的新怪物，會在黑暗中潛行跟蹤你，停留過久便會遭受攻擊。\n這生物會極力避免讓你看到其形體，當你獲得夜視效果或牠進入光亮處時便會消失。\n\n一旦進入你的世界，你將被真正的黑暗所困擾。現在光照等級0為漆黑一片，為這生物提供了完美的棲身之所。\n\n若你使用Optifine或Sodium，請下載資料包下方標有「[OPTIFINE]」的資源包版本，嘗試以Sodium或Optifine載入預設資源包將會出現錯誤。\n\n為獲得最完整體驗，若使用Optifine，請嘗試將著色器中的最低光照等級設至最低，使黑暗區域完全漆黑。\n\n請勿要求支援動態光源，因我已決定不添加此功能\n\n### 推薦設定\n\n亮度 - 低（約25 - 50）\n\n\n<details>\n<summary>📠 指令</summary>\n\n設定難度：\n/function nycto:difficulty/(難度)\n\n生成生物：\n/function nycto:grue/give\n\n<details>\n<summary>💀 難度等級</summary>\n\n簡單 - 生物較晚出現\n\n普通（推薦） - 生物正常時間出現\n\n困難 - 生物提早出現，並在出現時賦予緩速效果\n\n</details>\n\n</details>\n\n\n\n## 製作名單\n\n程式設計與模型 - HAK0TA538\n\n音效設計 - [深夜時分](https://store.steampowered.com/app/1450830/At_Dead_Of_Night/)\n\n資料包基於[Grue模組](https://www.curseforge.com/minecraft/mc-mods/grue)製作\n\n真實黑暗著色器 - Shock_Micro",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

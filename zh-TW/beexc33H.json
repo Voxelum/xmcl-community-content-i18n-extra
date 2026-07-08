@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aFnikcCvdzA=",
+  "content": "# Ars Botania\n\n中文用戶可訪問[簡體中文](readme_zh.md)\n\n![封面圖片](https://cdn.modrinth.com/data/cached_images/6617328e3f8adbab9437b96a0d0dd03455c0dd22_0.webp)\n\nBotania 與 Ars Nouveau 之間的魔力互通模組\n\n## 功能特色\n![介紹](https://cdn.modrinth.com/data/cached_images/4b640682c5323c950a7b510880bb44d9a6164ffe_0.webp)\n\n本模組新增以下功能：\n\n+ Ars Nouveau 的魔力罐可綁定 Botania 的產花植物/魔力發射器\n+ Ars Nouveau 的魔力中繼器可在魔力池之間傳輸魔力\n+ 魔力發射器可將魔力射入魔力罐中\n+ 魔力隧道可直接將魔力存入魔力池\n+ Ars Nouveau 的法術書可使用魔力物品作為魔力來源（可設定）\n+ Botania 物品可使用 Ars Nouveau 的玩家魔力（可設定）\n+ Ars Nouveau 的魔力恢復可為 Botania 的魔力物品充能（可設定）\n+ AE2 的 ME 魔力罐/涌動魔力池可同時存取兩種魔力類型\n\n## 設定配置\n```toml\n# 方塊轉換時（例如魔力池→魔力罐），1單位 Ars Nouveau 魔力等於多少 Botania 魔力\nmana_convert = 15.0\n# Botania 方塊間魔力中繼器的最大傳輸速率（以 Ars Nouveau 魔力單位計）\nmax_rate = 1000\n\n[player_mana_convert]\n# 啟用玩家魔力轉換\nenable = true\n# 需要 Ars Nouveau 魔力或儲存為 Botania 魔力時的轉換倍率\na2b = 4.0\n# 需要 Botania 魔力或儲存為 Ars Nouveau 魔力時的轉換倍率\nb2a = 0.006\n# 允許玩家魔力恢復為 Botania 物品充能\ncharge = true\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

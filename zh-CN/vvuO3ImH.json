@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yd7aUikeHhY=",
+  "content": "# 概述\n\nCurios 是一个灵活且可扩展的饰品/装备 API，面向用户和开发者设计。其目的在于为开发者提供便捷且兼容的方式，用于添加额外的饰品/装备栏，同时让用户能够根据个人偏好自由配置这些栏位。默认情况下，Curios 除了一个物品栏界面外不添加任何内容。它不包含任何默认栏位，仅有两个物品——且后者仅可通过创造模式菜单获取，主要作为开发者编写集成代码时的参考范例。\n\n## 特性\n* **通过核心库实现可扩展的装备栏位。** 可通过标识符注册表轻松创建和管理新装备栏位。相同的标识符将自动合并以避免功能冗余，并最大程度兼容潜在物品；而在需要时，仍可使用独特标识符标注特殊类型。\n* **按需生成栏位。** 默认不包含任何栏位，所有栏位仅在实际需要时创建。这减少了无需佩戴物品的冗余栏位出现的情况。\n* **完全可定制与操控的栏位。** 栏位可自定义背景、调整尺寸，甚至默认禁用或隐藏。但玩家如何访问禁用栏位？通过 API，开发者可调用函数启用/禁用玩家栏位，或为特定类型增删指定数量的栏位。\n* **利用原版标签系统实现灵活的物品→饰品映射。** 潜在饰品通过原版标签系统筛选，这意味着只需在 `data/curios/tags` 文件夹中创建 `.json` 文件，即可将物品归类为饰品类型。只要在对应文件中添加标签，物品可被归入任意数量的饰品类型，且这些设置甚至可被完全覆盖。更多信息请参考原版标签系统。\n* **与其他物品机制完全集成。** 经验修补和诅咒附魔将作用于所有已装备的饰品栏物品。此外，还有多种便捷功能帮助开发者将现有物品或机制集成至饰品系统。\n* **通过单一界面访问。** Curios 自带独立界面，可从物品栏中打开并显示玩家所有可用栏位。这让玩家无需切换不同物品栏界面，即可在统一位置查看所有扩展装备栏。当然，开发者仍可为模组专属栏位提供自定义界面。界面默认按键为 'G'。\n\n![](https://i.ibb.co/NNByxcQ/curiogui.png)\n\n## 文档\n* [搭建开发环境](https://docs.illusivesoulworks.com/curios/getting-started)\n* [栏位](https://docs.illusivesoulworks.com/category/slots)\n* [示例数据包](https://docs.illusivesoulworks.com/curios/slots/datapack-example)\n* [栏位配置](https://docs.illusivesoulworks.com/curios/configuration)\n* [命令](https://docs.illusivesoulworks.com/curios/commands)\n* [1.19.x 及以下版本旧文档](https://github.com/TheIllusiveC4/Curios/wiki)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

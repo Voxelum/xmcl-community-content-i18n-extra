@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jX6PYnljrek=",
+  "content": "### 嗨！\n這個模組適合任何想在 Wynncraft 中更真實地點亮黑暗區域的玩家。透過自訂按鍵，你可以切換顯示客戶端的提燈或火把。預設按鍵是 **L** 鍵控制提燈，火把則未設定按鍵。\n\n要讓這個模組正常運作，你需要安裝 [**Sodium**](https://modrinth.com/mod/sodium) + [**Iris**](https://modrinth.com/mod/iris) + **支援動態光影的著色器**。（我使用的是 [**Rethinking Voxels**](https://modrinth.com/shader/rethinking-voxels) 或 [**Sildurs Vibrant Shaders Extreme VL**](https://sildurs-shaders.github.io/downloads/)）\n\n或者，如果你不想使用高需求的著色器，也可以改用 [**LambDynamicLights**](https://modrinth.com/mod/lambdynamiclights)。\n\n**+++ 這裡有一個 [**資源包**](https://modrinth.com/resourcepack/wynnlantern-resource-pack)，可以改變提燈和火把的外觀（截圖中使用的版本）+++**\n\n![在第三人稱視角下手持提燈，並啟用 Rethinking Voxels 著色器](https://cdn.modrinth.com/data/K9vp4EXE/images/5fe7bc39d0a0713d761659f88c8411671559d9a3.png)\n\n如果你發現任何錯誤、對功能有任何建議，或是有其他類似模組的點子，歡迎透過 [Discord 聯絡我](https://discord.com/users/457706754847801355)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

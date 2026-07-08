@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yG7HHL/+RrA=",
+  "content": "<p>模組選單是一個為《我的世界》新增額外選單的模組，讓玩家可以從獨立選單中存取模組設定。</p><p>&nbsp;</p><p>本模組使用內建檔案如 fabric.mod.json，但也可根據模組配置提供額外支援。</p><p>&nbsp;</p><p>當模組作者未在 CurseForge 更新時，本分支會針對後續《我的世界》版本提供維護性更新。</p><p>此分支與原始專案的差異僅在於 CurseForge 的更新速度，因此在主要專案未更新時，能快速提供臨時性（可能功能不完整）的更新。本分支採用 MIT 授權下的現有版本，並將其移植至當前版本，過程中未進行任何額外修改。</p><p>模組更新不提供任何保證或技術支援。</p><p>&nbsp;</p><p>原始專案頁面：<a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/modmenu</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

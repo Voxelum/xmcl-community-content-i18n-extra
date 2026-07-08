@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NnZp9W+kqWM=",
+  "content": "# Narrus Yeetus без ошибок\n### Удалите надоедливого рассказчика и ВСЕ ошибки, связанные с ним.\n\nФорк NarrusYeetus от [TheEnderCore](https://modrinth.com/user/TheEnderCore), этот мод удаляет рассказчика, не вызывая ошибок без причины.\n\n(NarrusYeetus вызывал ошибку после интеграции с Narrator)\n\n**NarrusYeetus:**\n\n<code>[15:35:39] [Поток рендеринга/ОШИБКА] (Рассказчик) Narrus Yeetus!</code>\n\n**NarrusYeetus без ошибок:**\n\n<code>[15:36:49] [Поток рендеринга/ИНФО] (Рассказчик) NarrusYeetus отключил рассказчика!</code>\n\n### Другие изменения от NarrusYeetus:\n- Удаляет информацию о рассказчике с экрана доступности\n- Предотвращает открытие экрана начальной настройки доступности\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8FZOKVgdops=",
+  "content": "<p>更好的消音（Better Muffling）添加了一个方块——消音方块。该方块可以减弱附近的声响。</p><h4>特性</h4><ul>\n<li>根据《我的世界》声音类别设置音量大小。</li>\n<li>主音量与音乐类别除外。</li>\n<li>可设置作用范围，指定球形区域的半径大小。</li>\n<li>最小：2格，最大默认：16格</li>\n<li>最大方块作用范围可在配置文件中指定（1.12版本：bettermuffling.cfg|1.14及以上版本：bettermuffling-common.toml）</li>\n<li>启用私人模式后，仅消音方块的放置者可以调整数值并破坏该方块。</li>\n<li>仅1.14及以上版本支持防破坏功能</li>\n<li>显示玩家是否处于消音区域的指示器。（在1.0.5版本中移除）</li>\n<li>可在配置文件中禁用（1.12版本：bettermuffling.cfg|1.14及以上版本：bettermuffling-client.toml）</li>\n<li>所有音量设置、作用范围以及私人模式状态在破坏方块时都会保存于方块中。</li>\n<li>如需清除方块中保存的数据，只需将其放入合成台。</li>\n<li>高级消音方块可静音或排除特定声音类别中的个别音效。</li>\n<li>监听按钮可启用对特定音效的监听，以便将其添加到高级消音方块的白名单或黑名单中。</li>\n<li>手持高级升级物品对准消音方块Shift+右键点击，可将其升级为高级消音方块。</li>\n</ul><h4>漏洞/问题/功能建议</h4><p>如遇漏洞、问题或有新功能建议，请使用上方的问题标签页或点击此<a href=\"https://github.com/korti11/bettermuffling/issues\" rel=\"nofollow\">链接</a>提交。</p><h4>整合包</h4><p>欢迎在您的整合包中自由使用本模组。我很乐意知晓您将在哪个整合包中使用它，只需给我发条简短消息即可：)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

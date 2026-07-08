@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BZllO0tHPhg=",
+  "content": "**這個模組的功能：**\n\n防止任何生物在蘑菇、樹木和樹葉方塊上生成。\n\n**問題是什麼，以及它為何有用：**\n\n生物生成系統有生物數量上限（簡化來說，不深入細節）。當生物在樹木和大型蘑菇上生成時，你可能無法看到它們，或者難以接近它們（例如，如果它們在樹木內部）。這會讓你感覺周圍的生物數量很少，而且它們出現的速度也會受到影響。  \n換句話說，這個模組只是修正了生物生成系統的奇怪行為，從而改善遊戲體驗，讓尋找和與生物互動變得稍微容易一些。\n\n*你可以在[畫廊](https://modrinth.com/mod/no-mob-spawning-on-plants/gallery)區塊中看到不良生成生物的範例。*\n\n \n\n**備註：** 還有另一個啟發了「No Mob Spawning On Plants」這個模組的模組，也就是[No Mob Spawning on Trees](https://www.curseforge.com/minecraft/mc-mods/no-mob-spawning-on-trees)。雖然沒有百分之百確認的資訊，但似乎在 1.7.10 版本中，這個模組沒有正常運作。在測試過程中，生物仍然會在樹木和蘑菇上生成，沒有任何改變。調整設定檔也沒有效果。因此，我們認為這個模組並未如描述般運作。無論如何，如果只需要修正上述的生物生成問題，「No Mob Spawning On Plants」這個模組比它更小巧、更簡單。\n\n**此模組需要[ASJCore](https://modrinth.com/mod/asjcore)才能運作。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

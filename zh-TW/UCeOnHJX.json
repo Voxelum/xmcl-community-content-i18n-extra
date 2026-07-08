@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zuzzYjH+QvU=",
+  "content": "# 🎨 嬰兒生物畫作\n\n這個模組新增了來自 Minecraft 版本 26.1 的嬰兒生物畫作。\n\n## 📜 可用畫作\n\n| 畫作 | 尺寸 | 作者 |\n|----------|------|--------|\n| 幼雞 | 4×4 | RawMaw |\n\n### 幼雞\n![幼雞](https://cdn.modrinth.com/data/cached_images/0e1019fd4d555027be8ded05c5c9fd6f66d7b922.png)\n\n*一隻在地獄的可愛幼雞*\n\n## 🔧 如何取得特定畫作\n\n**透過指令：**\n/give @p minecraft:painting{EntityTag:{variant:\"babymobpaintings:baby_chicken\"}} 1\n\n**在生存模式中：**\n將畫作放置在 4×4 的牆壁上，直到你得到想要的畫作！\n\n## 📦 支援的版本\n\nForge、NeoForge、Fabric\n\n## 🚀 更多畫作即將推出！\n\n---\n\n*由 RawMaw 與 ringoway 以 ❤️ 製作*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bvuVUXIJxOU=",
+  "content": "<p>这是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/alexs-caves\" rel=\"nofollow\">Alex's Caves</a> 的一个分支，将辐射和酸液保护机制改为使用标签而非物品ID。一旦上游的 Alex's Caves 添加了此功能，该项目将被存档。请支持原作者，而非本人。<br><br>当前新增内容：</p><ul>\n<li>辐射防护物品标签：\"rad_protective_armor\"</li>\n<li>酸液防护物品标签：\"acid_protective_armor\"</li>\n<li>放射性物品标签系统：\n<ul>\n<li>weak_radioactive_items</li>\n<li>radioactive_items</li>\n<li>strong_radioactive_items</li>\n</ul>\n</li>\n</ul><p>以上所有标签均使用ModID \"alexscaves\"。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

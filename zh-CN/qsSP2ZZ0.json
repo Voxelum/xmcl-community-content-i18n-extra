@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/Ple7bm7Pt8=",
+  "content": "这个服务器端 Fabric 模组允许 Simple Voice Chat 与你的 Minecraft 世界互动。\n\n## 下载\n\n- [Modrinth](https://modrinth.com/mod/voice-chat-interaction)\n- [第三方 Paper 移植版](https://github.com/iGalaxyYT/voicechat-interaction-paper)\n\n## 功能\n\n- 自定义可配置的语音振动频率\n- 在语音聊天中说话会激活 sculk 传感器\n- 在语音聊天中说话会被监视者检测到\n- 可选的支持耳语和群聊振动\n- 潜行时说话不会触发振动（可配置）\n- 可配置的音量阈值\n\n## 配置值\n\n*config/vcinteraction/vcinteraction.properties*\n\n|名称| 默认值 | 描述                                                  |\n|---|---------------|--------------------------------------------------------------|\n|`group_interaction`| `false`       | 如果群聊中说话应触发振动               |\n|`whisper_interaction`| `false`       | 如果耳语应触发振动                      |\n|`sneak_interaction`| `false`       | 如果潜行时说话应触发振动          |\n|`voice_sculk_frequency`| `7`           | 语音振动的频率                         |\n|`minimum_activation_threshold`| `-50`         | 激活 sculk 传感器的音频电平阈值（以 dB 为单位） |\n\n## 鸣谢\n\n- [Fabric API](https://github.com/FabricMC/fabric)\n- [Polymer](https://github.com/Patbox/polymer)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vCb1BAZOL1E=",
+  "content": "Употребление зелья увеличит продолжительность активного эффекта.\n\nВключите или отключите складывание длительностей зелий с помощью команды `/gamerule potiontimestacker:stack_potions` (по умолчанию — true)\n\nВключите или отключите складывание длительностей зелий-брызг с помощью команды `/gamerule potiontimestacker:stack_splash_potions` (по умолчанию — false)\n\nИзмените максимальную длительность эффекта с помощью команды `/gamerule potiontimestacker:max_effect_ticks` (по умолчанию — неограниченная) (1 секунда = 20 тиков)\n\nДобавьте зелья в белый или черный список, отредактировав файл конфигурации в `config/potiontimestacker.toml`\n\n\n![Demo.gif](https://cdn.modrinth.com/data/4DFdDQIp/images/8aa8cf807aff811c4c66be49b62ee799f6e97976.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

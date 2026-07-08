@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Cy/dP/DILLY=",
+  "content": "**<span style=\"color:#e03e2d\">Требуется Tinkers' Construct в качестве зависимости.</span>**\n\nДополнение для Tinkers' Construct, восстанавливающее совместимость с платиной и вольфрамом, поскольку они были удалены из базового мода в обновлении Throwback (v3.11.0.148). Детали Tinkers, изготовленные из платины и вольфрама, возвращаются с небольшими улучшениями по сравнению с их предыдущей версией благодаря этому моду.\n\nЭтот мод работает только начиная с версии v3.11.0.148 и выше, поскольку платина и вольфрам по-прежнему доступны в предыдущих версиях. Для получения соответствующих материалов всё ещё требуется отдельный мод, добавляющий вольфрам и/или платину.\n\n![Tinkers](https://media.forgecdn.net/attachments/description/1416902/description_e5a3f92e-3a1a-46c6-b1a5-25ecd4c18f98.png)\n\nБлагодарности Tinkers' Construct за оригинальную реализацию и текстуры платины и вольфрама. Этот мод является поддерживаемым форком неопубликованного патча [Tungsten and Platinum](https://github.com/SlimeKnights/TinkersConstruct/releases/tag/v3.11.0.148) с низким уровнем кода на GitHub.\n\n[Discord-сервер ReversTeam](https://discord.com/invite/TJKZgr6UDg)\n\nСмело используйте в любом модпаке.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

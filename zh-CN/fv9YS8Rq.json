@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mCFCqAgxsms=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/rUuQlpYg-w0\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/SgzfsX54IcQ\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 操作方式：\n\n***\n\n手持微风棒时，会显示子层级边界和中心点，并允许你执行以下操作。\n\n**\\[鼠标右键\\]** - 放置单个方块子层级。默认放置南瓜灯，如果副手持有任意方块，则放置该方块。\n\n**\\[右键点击子层级\\]** - 在其上方创建克隆。\n\n**\\[按住 Shift 并右键点击子层级\\]** - 上传结构文件并立即将其给予玩家。\n\n**\\[按住 Alt\\]（或绑定为创建辅助修改键的任意按键）** - 显示子层级名称。按住 Alt 时右键点击子层级可修改其名称。\n\n**\\[鼠标左键点击子层级\\]** - 选取子层级以便删除。不看向子层级时左键点击会打开删除确认菜单。\n\n**\\[鼠标中键点击子层级\\]**（或绑定为拾取物品的任意按键） - 将玩家传送至所视子层级的顶部中心。\n\n**\\[按住 Ctrl 并点击子层级\\]** - 开始追踪所视子层级的受力。\n\n# 新增功能\n\n***\n\n在机械装置图中添加了一个按钮，用于追踪机械（子层级）的受力情况。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

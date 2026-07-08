@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b/158H0nNI=",
+  "content": "<p><strong>注意：此模組也需要安裝 MaLiLib 函式庫。</strong></p><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/malilib\" rel=\"nofollow\"><strong>https://www.curseforge.com/minecraft/mc-mods/malilib</strong></a></p><p>偏好保持原版遊戲體驗的多人伺服器，通常會因為 EasyPlaceMode（簡易放置模式）功能而特別禁止 Litematica。此功能可讓玩家只需點擊一次，就能將任何 Litematica 藍圖方塊載入手中並放置到遊戲中的任何位置——甚至是在空中。YouArch 移除了或修改了此功能及其他 Litematica 功能，使這些伺服器能夠允許 Litematica 的藍圖功能，同時移除其方塊放置功能。</p><p>本模組處理的具體功能如下：</p><ul>\n<li>EasyPlace（簡易放置）：此選項已從快捷鍵選單中移除，且相關程式碼已停用。</li>\n<li>PickBlockLast（選取上個方塊）和 PickBlockFirst（選取首個方塊）已修改為「取消後續處理」始終設為 TRUE。這可防止玩家將選取方塊快捷鍵對應到 Minecraft 的放置方塊按鍵，從而避免玩家在一次點擊中同時將藍圖方塊載入手部並放置到遊戲中。此功能與 EasyPlace 相似，但無法在空中放置方塊。</li>\n</ul><p><span style=\"color:#f00\"><strong>本模組與 Litematica 並無關聯，亦未獲得 Litematica 開發者的支援。</strong></span></p><p>YouArch？雖然本模組 99.5% 是 Litematica，但為避免混淆，我們選擇了一個完全無關的名稱。YouArch 具有雙重意義——You Architect（你，建築師）以及 uArch（微處理器產業中使用的術語，指晶片架構設計）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

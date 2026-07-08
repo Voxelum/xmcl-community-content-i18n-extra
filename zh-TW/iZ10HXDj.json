@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ngnXBDKreCE=",
+  "content": "## 描述\n此模組能透過在客戶端視窗閒置或一段時間未操作 Minecraft（自 v2.0 起可自訂）時，自動降低畫面更新率，來減少不必要的 GPU 與 CPU 負載。當玩家進行任何操作時，便會立刻恢復至原始畫面更新率。\n\n## 特色\n- 在以下情況下自動降低 FPS：\n    - 在指定時間內無玩家操作。\n    - 遊戲視窗處於閒置或最小化狀態。\n- 若遊戲視窗處於閒置或最小化狀態，則降低遊戲音量。\n- 在畫面邊緣顯示目前 FPS。\\\n    ![目前 FPS 指示](https://i.imgur.com/Yc2EwAH.jpg)\n- 顯示客戶端執行緒的 CPU 使用率。（v1.14 起）\\\n    ![CPU 使用率指示](https://i.imgur.com/CkuuwJj.png)\n\n## 建議使用情境\n- 當你讓遊戲自動運作（例如自動化農業或工業）而暫時離開時。\n- 當你將 Minecraft 背景化並同時進行其他工作時。\n- 當你希望稍微延長電腦的使用壽命時。\n- 當你想節省不必要的電力時。\n- 當房間很熱時……\n\n## 使用方式\n預設情況下，若 5 分鐘內無操作，畫面更新率將降至 10。\\\n按下 [PAUSE] 鍵可手動降低 FPS。（v1.16 新功能）\\\n預設按下 [END] 鍵可開啟設定介面。\\\n![模組設定介面](https://i.imgur.com/aHob2HN.jpg)\n\n## 備註\n這是一個客戶端模組，無需安裝在伺服器端。\n\n## 模組包\n歡迎在任何模組包中使用本模組。\n\n## 特別感謝\n- 感謝 RoCoKo 提供土耳其語翻譯。\n- 感謝 Grreg21 提供波蘭語翻譯。\n- 感謝 cutedobe 與 StarsShine17423 提供簡體中文翻譯。\n- 感謝 cutedobe 與 StarsShine17423 提供繁體中文翻譯。\n- 感謝 agent_rby_ 與 Secret_Rabbit 提供俄語翻譯。\n- 感謝 b14st0 提供法語翻譯。\n- 感謝 Kazuya79H 提供巴西葡萄牙語翻譯。\n- 感謝 AlexDerProGamer_mc 提供德語翻譯。\n- 感謝 귤러리 提供韓語翻譯。\n- 感謝 AceDragoonOfficial 提供烏克蘭語翻譯。\n- 感謝 Giedo 提供荷蘭語翻譯。\n- 感謝 iwafflebro 提供西班牙語翻譯。\n- 感謝 000729735256 提供文言文翻譯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

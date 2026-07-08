@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GpiUZEQXpGw=",
+  "content": "<p>本模组使TAC枪械玩法与ShoulderSurfing模组兼容。</p><h2>功能特性 (3.x ~ 6.x):</h2><ul>\n<li>3.x版为经典TaC准备，4.x版专为TaC Zero打造。</li>\n<li>5.x版适用于ShoulderSurfing 4。</li>\n<li>6.x版适用于ShoulderSurfing 5。<br>&nbsp;</li>\n<li>（仅限3.1+，不包含4.x或5.x）动态瞄准模式：点击瞄准键可在第一人称瞄准/第三人称腰射间切换。</li>\n<li>将枪械（瞄准时）注册为ShoulderSurfing自适应物品。</li>\n<li>开镜射击时第三人称视角会拉近。</li>\n<li>（4.x版）使后坐力在肩后视角模式下生效。</li>\n<li>（6.x版）枪械兼容ShoulderSurfing 5的环顾功能。</li>\n</ul><p><img src=\"https://imgur.com/qCIEcHf.png\" alt=\"\"></p><h2>2.x功能特性（已整合至ShoulderSurfing 3）</h2><ul>\n<li>使玩家旋转仅在瞄准/使用物品时与摄像头旋转同步，可在第三人称视角下观察角色正面。</li>\n<li>移除与此模组功能重复的第二人称视角和原版第三人称视角，使视角切换更流畅（仅保留两种模式）。</li>\n<li>使枪械朝准星指向位置射击，而非遵循玩家实体的视线矢量。</li>\n</ul><h2>常见问题</h2><p>问：有1.16.5版本吗？</p><p>答：没有，降级至MC1.16.5需同步将Java版本从17降至8，这对开发者而言过于繁琐。</p><p>&nbsp;</p><p>问：GitHub上的1.16.5版本怎么回事？</p><p>答：系他人付费委托制作，但不再提供后续更新。</p><p>&nbsp;</p><p>问：Arclight服务端会崩溃</p><p>答：本模组和ShoulderSurfing均为客户端专用模组，不应安装于专用服务器。通过脚本运行的Arclight正属于专用服务器类型。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

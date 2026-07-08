@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IVNXpMlBShc=",
+  "content": "# 外觀裝備重製版分支 🐭\n\n本專案是 [zlainsama](https://github.com/zlainsama/) 所開發的 **CosmeticArmorReworked** 分支版本。😊\n\n## 概述\n外觀裝備重製版能在不影響遊戲數值的前提下，顯示外觀裝備的造型。此分支版本新增了可選的雙重渲染模式，讓你可以同時看到實際裝備與外觀裝備。🔥\n\n## 支援的模組載入器與版本\n- **Fabric**\n- **NeoForge**\n\n## 支援的 Minecraft 版本：\n- **1.21.1**\n- **1.21.2**（開發中）\n- **1.21.3**（開發中）\n- **1.21.4**（開發中）\n- **1.21.5**（開發中）\n- **1.21.6**（開發中）\n- **1.21.7**（開發中）\n- **1.21.8**（開發中）\n- **1.21.9**（開發中）\n- **1.21.10**（開發中）\n- **1.21.11**（開發中）\n\n## 雙重渲染模式（CosArmorStackRendering）\n預設情況下，此模組只會渲染實際裝備或外觀裝備的其中一種。  \n若想同時顯示兩者，請啟用以下用戶端設定選項：\n\n```json\n// cosmeticarmorreworked-client.json\n{\n  \"CosArmorStackRendering\": true\n}\n```\n\n這項功能適用於想保留外觀造型，同時又想確認實際穿戴裝備的場合。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

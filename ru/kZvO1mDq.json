@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FzG7zw45EDE=",
+  "content": "[Информация о портировании обновления 26.1](https://wiki.chaotictrials.de/porting/version/26.1/)\n**[![#StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)**\n## В основном для создателей модпаков\n\nС помощью этого мода вы можете задать тип мира, который выбирается по умолчанию при создании нового мира.\n\nПример: у вас установлен [Skyblock Builder](https://modrinth.com/mod/skyblock-builder), и вы установили значение в конфигурации клиента на `skyblockbuilder:skyblock`. При создании нового мира пользователю не нужно самостоятельно менять тип мира на этот тип.\n\nБлагодаря этому случайное создание неправильного мира станет невозможным. Или, по крайней мере, менее вероятным.\n\nЭтот мод работает **только на клиенте**. Для серверов вам следует просто предоставить правильный файл `servers.properties` или использовать [Стандартные свойства сервера](https://modrinth.com/mod/default-server-properties).\n\nМод генерирует файл с допустимыми значениями конфигурации сразу после перехода на экран создания нового мира.\n\nВы можете включить этот мод в любой модпак, какой пожелаете.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

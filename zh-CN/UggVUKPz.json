@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IlZ3MUqcL0g=",
+  "content": "## [拔刀剑：重铸版](https://modrinth.com/mod/slashblade-resharped) 非官方Fabric移植版\n\n欢迎使用Fabric版的拔刀剑模组。\n\n本模组依然是《鬼泣》、《梦幻之星Online 2》及日本刀题材的粉丝作品，旨在为游戏添加具有鬼泣风格的武士刀玩法。\n\n特色功能：\n- JEI集成支持\n- 数据驱动的自定义拔刀剑\n\n**重要提示：**\n- **本模组需要依赖 [Forge配置接口移植版](https://modrinth.com/mod/forge-config-api-port)**\n- **若安装 [Sodium](https://modrinth.com/mod/sodium)（版本号<0.6.0），必须同时安装 [Indium](https://modrinth.com/mod/indium)，否则拔刀剑将无法正常渲染**\n- **建议安装 [Modern KeyBinding](https://modrinth.com/mod/modernkeybinding) 或类似模组，以确保能正确触发召唤刀剑与特殊招式**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

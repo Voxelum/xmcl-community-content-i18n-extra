@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IqbUvcBORig=",
+  "content": "# 禁用鞘翅推進\n\n這是一個簡單的數據包，提供選項來禁止在使用鞘翅飛行時使用煙火火箭。\n\n---\n\n啟動數據包的方法\n\n```\n/function no_elytra_boosting:settings\n```\n執行此命令後您將看到更多說明！\n\n*忽略此數據包是為舊版/新版Minecraft製作的提示*\n\n### 製作群\n\n此專案由我（Shadowdara）製作，但靈感來自 **[bazoqa](https://modrinth.com/user/bazoqa)** 以及遵循MIT許可證的原始專案 **[此處](https://modrinth.com/datapack/no-elytra-rocket-boosting)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

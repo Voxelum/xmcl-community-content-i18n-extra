@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TqGOm3n9A7Y=",
+  "content": "這是SiverDX的Cave Dweller Evolved Mod的Fabric分支版本，專為FML設計，並增加了Cloth Config API支援，以便在ModMenu中使用。雖然不一定需要配置，但建議使用以便於存取。\n\n如果您因任何原因未使用Cloth Config API，您仍然可以透過AppData\\Roaming\\.minecraft\\config目錄下的cave_dweller.properties檔案來配置Cave Dweller。\n\n是的，這個模組在多人遊戲中也能正常運作。\n\n### 注意\n**我不是這個模組的開發者或原作者，我已獲得SiverDX和Khajiitos的許可，在此以MIT許可證上傳Fabric分支版本。我不會提供與程式碼本身、崩潰或錯誤相關的進一步支援或幫助。**\n\n### Discord\n如果您想討論或協助安裝Cave Dweller Mod，請加入我的[Discord](https://discord.gg/mKNnStqduS)，但請注意，**這不是用於報告問題或錯誤的支援伺服器，請勿在那裡回報您的問題。**\n\n# 致謝\n由Khajiitos在Fiverr上分支並更新。請在[Fiverr](https://www.fiverr.com/freelancers/khajiitos?source=order_page_user_message_inner_link)上查看他的資訊。\n\nForge版本由SiverDX製作：https://www.curseforge.com/minecraft/mc-mods/cave-dweller-evolved\n\n原始模組由Gargin製作：https://www.curseforge.com/minecraft/mc-mods/cave-dweller\n\n## 依賴項目\n+ [Geckolib](https://modrinth.com/mod/geckolib)（必需）\n- [Cloth Config API](https://modrinth.com/mod/cloth-config)（可選）\n* [Mod Menu](https://modrinth.com/mod/modmenu)（可選）\n\n## 許可證\n**MIT許可證（MIT）**\n\n**版權所有（c）2023**\n\n歡迎修改、分支並將此模組包含在模組包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

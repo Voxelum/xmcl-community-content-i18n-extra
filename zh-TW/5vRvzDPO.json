@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kWGsBsHxD4A=",
+  "content": "使祂水偏愛初始寶可夢（Cobblemon）看起來像最終進化型態\n![展示](https://cdn.modrinth.com/data/5vRvzDPO/images/e651b67ad6d0c93679aae54fd1dd28888d72c027.png)\n\n**改動內容：**\n\n火球鼠 區域偏好=祂水\n\n火岩鼠 區域偏好=祂水\n\n木木梟 區域偏好=祂水\n\n投羽梟 區域偏好=祂水\n\n水水獺 區域偏好=祂水\n\n雙刃丸 區域偏好=祂水\n\n## **常見問題**\n問：我需要將這個製作成資料包嗎？  \n答：不需要，這只是個資源包，代表也可以在伺服器上使用。\n\n問：我要如何獲得這些寶可夢？  \n答：由於在普通 Cobblemon 中牠們已經是不同型態，因此都可以在各自的棲息地野外地區找到。也可以在初始寶可夢選擇畫面的「祂水」類別中選取為初始寶可夢，或透過指令 `/pokespawn (寶可夢名稱) regional_bias=hisui` 或 `/pokegive (寶可夢名稱) regional_bias=hisui` 取得／生成。\n\n您可以將此內容包含在模組包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

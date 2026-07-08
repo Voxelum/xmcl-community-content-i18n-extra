@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wnT8uV5WkKw=",
+  "content": "<p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_36fda167-ff11-40cf-9f50-cc04abe6e72a.png\" alt=\"\" width=\"720\" height=\"223\"></p><p style=\"text-align:center\">&nbsp;</p><h2 style=\"text-align:left\"><strong>關於：</strong></h2><p>此模組為L_Ender的Cataclysm Boss新增了每次地城限一次的開場過場動畫。</p><p>播放過場動畫時，玩家將處於無敵且無法被鎖定的狀態。</p><p>過場動畫會對附近所有玩家觸發，但只有處於生存模式的玩家會被傳送。</p><p>&nbsp;</p><p>目前已擁有開場過場動畫的Boss：</p><p>Scylla、Maledictus、Leviathan、Ancient Remnant、Ignis</p><h2 style=\"text-align:left\"><span style=\"color:#e03e2d\"><strong>重要提醒！</strong></span></h2><ol>\n<li>此模組高度依賴Cataclysm的某些內部代碼，若代碼變更，過場動畫可能失效。</li>\n</ol><p>&nbsp;</p><p>當前模組版本應能與Cataclysm 3.16正常配合，若後續版本出現問題，請通知我，我會更新模組。</p><p>Cinematic Cataclysm 1.0.1 專為Cataclysm 3.17+ 設計。</p><p>&nbsp;</p><p>2. 若使用EntityCulling模組，請將以下項目加入實體剔除白名單：</p><ul>\n<li>cinematiccataclysm:maledictus_cutscene</li>\n<li>cinematiccataclysm:scylla_cutscene</li>\n<li>cinematiccataclysm:ignis_cutscene</li>\n<li>cinematiccataclysm:ancient_remnant_cutscene</li>\n<li>cinematiccataclysm:leviathan_cutscene</li>\n</ul><p>若未加入，可能導致伺服器與用戶端嚴重不同步，造成過場動畫運作異常！</p><p>3. 給整合包製作者：過場動畫僅能與Cataclysm結構正常配合，除非您特別為過場動畫設計，否則無法在自訂結構中運作。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

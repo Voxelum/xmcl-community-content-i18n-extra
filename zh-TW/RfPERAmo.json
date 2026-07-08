@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OfQzjYE7eFY=",
+  "content": "# 破壞進度\n\n[![GitHub 發行版](https://img.shields.io/github/release/haykam821/Break-Progress.svg?style=popout&label=github)](https://github.com/haykam821/Break-Progress/releases/latest)\n[![CurseForge](https://img.shields.io/static/v1?style=popout&label=curseforge&message=project&color=6441A4)](https://www.curseforge.com/minecraft/mc-mods/break-progress)\n[![Discord](https://img.shields.io/static/v1?style=popout&label=chat&message=discord&color=7289DA)](https://haykam.com/links/discord)\n\n在 WAILA 中新增破壞進度顯示。\n\n破壞進度需要 [Fabric 模組載入器](https://fabricmc.net/use/)、[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) 和 [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)。\n\n## 安裝方式\n\n1. 如果尚未安裝，請先安裝 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) 和 [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)。\n2. 從 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/break-progress/files) 或 [GitHub](https://github.com/haykam821/Break-Progress/releases) 下載破壞進度。\n3. 將下載的檔案放入你的 `mods` 資料夾。\n\n## 使用方式\n\n安裝此模組後，WAILA 覆蓋層中會出現一行提示，以百分比顯示破壞進度。這行提示僅在方塊正在被破壞時才會出現。因此，對於不可破壞的方塊（如基岩）將不會顯示。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

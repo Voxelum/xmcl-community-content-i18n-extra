@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SaGcYvwcpX0=",
+  "content": "![横幅](https://raw.githubusercontent.com/fixyldev/invisible-armor-model/HEAD/images/banner.webp)\n\n## 🗒️ 简介\n\n隐形盔甲模型是一个适用于 Minecraft Java 版的资源包，它可以移除盔甲的视觉模型。这包括所有原版盔甲，除了鞘翅和海龟壳。请注意，其他玩家可能仍然可以正常看到盔甲，因为资源包是客户端侧的。对于低于 1.21.2 的 Minecraft 版本，海龟壳上的盔甲纹饰也会变得不可见，并且如果你穿着胸甲，披风可能会漂浮在半空中。这些问题在 Minecraft 1.21.2 及更高版本中已不再出现，这是由于资源包的限制所致。\n\n## ✨ 特性\n\n- 使玩家穿戴的盔甲隐形\n  - 这包括使用玩家盔甲模型的生物所穿戴的盔甲\n- 鞘翅和海龟壳保持可见\n- 狼、马等生物的盔甲也保持可见\n\n---\n<center>隐形盔甲模型仅通过 Modrinth 和 CurseForge 官方分发！</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6oOWXLDdxYo=",
+  "content": "<h1><strong>路径放置（PoP）</strong></h1><p>受够了你的土径/草径在放置栅栏、灯笼或花朵时瞬间变回普通泥土？路径放置模组完美解决了这个问题。</p><p>在路径上放置<strong>任意方块</strong>，路径都会保持原样——它会切换为无缝的<strong>全高</strong>版本，与上方方块之间毫无丑陋缝隙。移除方块后，路径又会变回普通路径。</p><h2><strong>特性</strong></h2><ul>\n<li>在土径/草径上放置任意方块，不会变成泥土</li>\n<li>无缝隙——路径在方块下方变为全高，移除方块后恢复原状</li>\n<li>也可在路径上放置植物、花朵、树苗和门</li>\n<li><strong>游戏内配置界面</strong>（模组菜单）：默认所有方块均为绿色（保持路径）——点击方块可将其变为红色，该方块则会使路径变为泥土。可切换整个类别或单个方块，并配备搜索栏。</li>\n<li>轻量级且服务器友好</li>\n</ul><h2><strong>支持版本</strong></h2><ul>\n<li><strong>Fabric：</strong>1.16.5 · 1.18.2 · 1.19.2 · 1.19.4 · 1.20.1 · 1.20.4 · 1.21.1 · 1.21.4</li>\n<li><strong>Forge：</strong>1.18.2 · 1.19.2 · 1.19.4 · 1.20.1 · 1.20.4</li>\n<li><strong>NeoForge：</strong>1.20.4 · 1.21.1 · 1.21.4</li>\n</ul><h2><strong>依赖项</strong></h2><ul>\n<li><strong>Architectury API</strong> - 必需（所有版本）</li>\n<li><strong>Fabric API</strong> - 必需（仅Fabric）</li>\n<li><strong>Mod Menu</strong> - 可选（Fabric，用于配置按钮）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

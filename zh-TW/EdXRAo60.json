@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WREJWZxqk2Q=",
+  "content": "![柯基](https://pbs.twimg.com/profile_banners/1360060648353267712/1658182205/1500x500)\n\n🐌 **環境生物擴充** 🦀  \n---  \n本模組為你的世界增添環境生物與捕捉工具。包含多種全動畫動物，從可愛的柯基、輻射對稱的海星、害羞的螃蟹到迷你犰狳。旨在為世界注入更多野生動物，滿足玩家建造動物園與捕捉小生物的愛好！  \n\n---  \n### 🎯 生物捕捉：吹箭、麻醉鏢與運輸箱！  \n\n為協助收集與運送動物，模組中多數生物可用水桶、花盆、玻璃瓶或碗裝載。此外，我們新增了一套能麻醉並裝箱任何動物的工具，特別是那些無法用常規方式捕捉的生物。  \n\n![運輸箱合成配方](https://i.imgur.com/JAIkpxk.png)  \n\n#### 運輸箱是動物運輸的新形式  \n\n- 對被麻醉的生物右鍵使用空箱即可捕捉  \n- 再次右鍵可釋放箱內生物  \n- 裝有生物的箱子會改變紋理並附上閃爍光效，懸停提示將顯示內裝生物名稱  \n\n#### 吹箭與麻醉鏢能暫時癱瘓生物  \n\n- 吹箭是使用麻醉鏢的遠程武器  \n- 可像弓箭般蓄力，發射單發鏢彈  \n- 每支鏢會使生物累積1層「暈眩」狀態  \n![被麻醉的懶熊](https://i.imgur.com/iAAcuCd.png)  \n\n當暈眩層數達標後，生物將進入30秒麻醉狀態（期間會顯示睡意粒子效果）  \n所需暈眩層數隨生物血量遞增：  \n\n![被麻醉的枯葉龜](https://i.imgur.com/zJszoEI.png)  \n\n<details>  \n<summary>暈眩需求表</summary>  \n2.5顆心 = 1層  \n5顆心 = 2層  \n10顆心 = 3層  \n25顆心 = 4層  \n25+顆心 = 5層  \n</details>  \n\n---  \n#### 製作群  \n\nNinniH - 資源製作、程式碼與音效  \nOmayPaty - 資源製作  \nGRAUS - 資源製作  \nmagmastrider#3837（Discord成員）- 提供截圖  \nfool#1369（Discord成員）- 提供截圖  \n\n特別感謝 BisectHosting 的伺服器贊助！  \n![贊商連結](https://imgur.com/n3uFyrw.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

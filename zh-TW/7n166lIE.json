@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lzksIusWfsI=",
+  "content": "關於\n\n這個模組為您的伺服器添加了傳送指令，讓遊戲更加有趣。您甚至可以跨維度傳送。如果您擁有Minecraft伺服器，可以將此模組加入伺服器，它會自動顯示給所有玩家。除非您想在單人遊戲中使用此模組，否則玩家無需單獨下載。\n\n指令\n\n/tpa <玩家名稱>\n向指定玩家發送傳送請求。對方可以點擊畫面選擇接受或拒絕。請求將在60秒後過期。\n\n/sethome\n將您目前的座標設定為家。\n\n/home\n如果您已設定家，此指令會將您傳送回家的位置。\n\n/grave\n將您傳送至上次死亡的地點。\n\n/back\n若您進行過傳送，此指令會將您帶回傳送前的位置。當您使用/tpa傳送至他人處後想返回原位置時非常實用。\n\n/teleportcraft:update\n若配置文件有變更，此指令可在不重啟伺服器的情況下載入更改（需在遊戲內執行，而非伺服器控制台）\n\n配置\n\n配置文件為\"teleportcraft-preferences.toml\"，位於以下路徑：\n\n- 單人遊戲路徑：.minecraft/saves/<世界名稱>/serverconfig/teleportcraft/teleportcraft-preferences.toml\n- 多人遊戲路徑：<伺服器資料夾>/world/serverconfig/teleportcraft/teleportcraft-preferences.toml\n\n配置文件允許進行以下調整：\n\n- 可開啟或關閉部分指令（預設全部開啟）\n- 可調整使用指令時消耗的經驗等級數量（預設均為0）\n- 可修改TPA請求的過期時間（預設60秒）\n- 可變更使用/teleportcraft:update所需的權限等級（預設為4，即擁有者/OP）\n\n近期更新 v1.1.2\n\n- 修復擊敗終界龍會刪除玩家資料（家、死亡點等）的錯誤\n\n近期更新 v1.1.1\n\n- 玩家死亡和伺服器重啟不再可能導致資料遺失\n- 為訊息添加音效提示\n- 新增配置文件支援自定義設定\n- 新增/teleportcraft:update指令，使配置文件變更無需重啟伺服器即可生效",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

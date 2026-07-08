@@ -1,0 +1,6 @@
+{
+  "bodyHash": "L+1HRhqvbhA=",
+  "content": "<h1>完整盾牌修復！</h1>\n\n這個模組修正了兩個與盾牌有關的 Minecraft 錯誤。它解決了盾牌音效的問題（https://bugs.mojang.com/browse/MC-105068）  \n並修正了玩家盾牌無法正確顯示格擋的動畫錯誤（https://bugs.mojang.com/browse/MC-238293）。\n\n---\n### 資訊：\n**盾牌音效**\n\n此模組為以下事件新增盾牌音效：\n\n- 當玩家的盾牌被禁用時。\n- 當玩家的盾牌受到任何傷害來源的攻擊時。這包括爆炸和投射物。\n---\n**盾牌格擋**\n\n此模組修正了盾牌的動畫問題，即玩家在舉盾但有時不會顯示格擋狀態。這在 PvP 時可能非常煩人，因為  \n你不知道玩家是否正在舉盾。下面的影片顯示玩家在生存模式下舉盾。  \n![格擋-範例](https://i.ibb.co/smWrr2x/SHIELDWORKING-ezgif-com-video-to-gif-converter.gif)\n\n此模組也考量了盾牌的 5 刻延遲。這意味著它不會顯示玩家正在格擋，直到他們實際在格擋。下面的影片顯示玩家連續舉盾，偶爾持續舉盾足夠長時間以讓盾牌實際顯示。但是，如果您認為此功能不實用或令人煩躁，可以透過設定畫面將其停用。\n\n![5刻延遲修正-範例](https://i.ibb.co/MkH1XsP/SHIELD5-TICK-ezgif-com-video-to-gif-converter.gif)\n\n---\n**感謝**\n\n- 模組：Walksy\n- 圖示：SakuraFX",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

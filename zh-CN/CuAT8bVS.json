@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eIeYx1HXYyI=",
+  "content": "# 🪠 创造·管道与物理\n\n![Sable物理](https://cdn.modrinth.com/data/CuAT8bVS/images/9b125bb17a40dce319d982095abdd1b2edbfcdbf.gif)\n\n![重力物理](https://cdn.modrinth.com/data/CuAT8bVS/images/cd2d2f3737e73f402958dd4e34f3418fe513b840_350.webp)\n\n> ⚠️ **已知问题** CROWNS模组与此模组的部分物理效果存在冲突。兼容性修复正在推进中。\n\n# [发展路线图](https://feedback.devinfritz.de/?sort=trending)\n\n# 管道物理特性\n\n- 压力与重力。连接管道后，储罐内的流体会产生压力。因此，两根相连管道中的液面会自动平衡，流体无需水泵即可向下流动。\n- 水泵作为增压装置。水泵可将流体抬升特定方块高度。\n- 流体流速随粘度变化。\n- 新版引擎下虹吸管可正常工作。\n\n# 完整Sable支持\n\n- 自定义流体渲染器\n- 子层级角度决定流体流动方向\n- 流体储罐动态重量系统\n\n# 升级版护目镜\n- 对准管道或水泵即可查看管网状态！\n\n## 技术支持\n\n加入Discord获取支持、反馈漏洞或提出建议：\n**https://discord.gg/sTvftweba8**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Aiz6KlVTq1M=",
+  "content": "Этот мод представляет собой библиотеку, которая предполагает наличие API Architecture.\n\nОсобой функциональности у него нет, но некоторые мои моды требуют, чтобы этот мод был включен.\n\nВ настоящее время этот мод требует наличия API Architecture.\n\n \n\nЭта библиотека лицензирована по лицензии MIT, поэтому вы можете свободно использовать её в рамках данной лицензии.\n\nМоды, требующие MCPitanLib:\n\n- Advanced Reborn (Fabric)...Дополнение к TechReborn\n- Ender Cane (Fabric/Forge)...Добавлен предмет, позволяющий игроку легко телепортироваться\n- Enhanced Quarries (Fabric)...Добавлен карьер, наполнитель и так далее\n- Item Alchemy (Fabric)...Разрабатываемый порт Equivalent Exchange (подобно Project E) для FabricMC.\n- Ordinary Crook (Fabric/Forge)...Добавлен крюк от ExNihiloAdscensio. Крюк — это специальный инструмент для уничтожения листьев.\n- PipePlus (Fabric)...Дополнение к SimpleBCPipes\n- Simple Uncrafting Table (Fabric/Forge)...Добавлена таблица раскроя\n- Small Stairs (Fabric/Forge)...Добавлены маленькие ступени\n- Solomons Rod (Fabric/Forge)...Добавлена палочка Соломона, на которую можно установить блок Соломона прямо в воздухе",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

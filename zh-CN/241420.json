@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RRfXszCLJ5M=",
+  "content": "<p>这个模组允许你在服务器处于离线模式时展示你的皮肤。</p><p>&nbsp;</p><p>如果你的正常皮肤无法加载，你可以在生成的文件夹（.minecraft/cachedImages/skins）中添加你或他人的皮肤，文件以你的用户名命名并以.png结尾。这样，模组将使用提供的文件为你或他人的角色加载皮肤。</p><p>[此功能可以关闭] 当正常皮肤无法加载时，<a href=\"/linkout?remoteUrl=https%253a%252f%252fcrafatar.com%252f\" rel=\"nofollow\">Crafatar</a> 也会被用来提供皮肤。</p><p>你还可以通过配置文件将其设置为使用自定义皮肤服务器。（1.12.2-v2之后版本）</p><p>支持高分辨率皮肤。（1.12.2-v3之后版本）</p><p>&nbsp;</p><p>此模组仅限客户端使用，无需在服务器上安装。</p><p>此模组在<a href=\"http://minecraft.curseforge.com/projects/skinport\" rel=\"nofollow\">SkinPort</a>之前开发，但已经<del>使用SkinPort的代码</del>重写多次。</p><p>可能会有一些错误，欢迎向我报告。</p><p>&nbsp;</p><p>未来的Fabric版本更新在<a href=\"https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric\" target=\"_blank\" rel=\"nofollow\">这个独立项目</a>中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

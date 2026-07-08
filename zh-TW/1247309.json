@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7gDjTn0VeAc=",
+  "content": "<p>此模組使《永恆經典零式》能夠從「resourcepacks」和「shaderpacks」資料夾中尋找並載入槍械包，</p><p>主要供模組包製作者在其作品中整合TaCZ槍械包使用。本模組對終端使用者（玩家）不包含實際遊玩內容。</p><p>由於透過官方CurseForge客戶端安裝時，模組包中的槍械包會下載至`shaderpacks`資料夾而非`tacz`資料夾，若未使用本模組，將無法直接收錄槍械包內容（除非將槍械包檔案手動置入`overrides`資料夾）。</p><p>&nbsp;</p><p>本模組讓模組包作者能透過CurseForge專案引用方式分發槍械包，無需將其內容捆綁至`overrides`資料夾，</p><p>同時使槍械包作者能從包含其作品的模組包下載量中獲得CurseForge積分收益。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

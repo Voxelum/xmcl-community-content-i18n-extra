@@ -1,0 +1,6 @@
+{
+  "bodyHash": "93pkV1CwVF8=",
+  "content": "[![Поддержите меня на Ko-Fi!](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/donate/kofi-singular_64h.png)](https://ko-fi.com/sentwayfarer)\n\nЭто дополнение для [KubeJS](https://modrinth.com/mod/kubejs), которое позволяет создателям скриптов получать доступ к созданию пользовательских функций [Заклинаний и Книг заклинаний Ирона](https://modrinth.com/mod/irons-spells-n-spellbooks), таких как:\n\n- Пользовательские заклинания\n- Пользовательские школы заклинаний и их атрибуты\n- Пользовательские специальные предметы, такие как посохи, книги заклинаний и магические мечи\n- Специальные обработчики событий, например, `PlayerEvents.changeMana`\n- Совместимость с EntityJS для пользовательских мобов, способных использовать заклинания, и возможность изменения существующего AI мобов, чтобы те могли применять заклинания\n- Поддержка рецептов Алхимического Котла\n- Полная поддержка ProbeJS\n- И многое другое в ближайшее время!\n\nБольше информации на [официальной странице Wiki KubeJS для сторонних дополнений.](https://kubejs.com/wiki/addons/irons-spells)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

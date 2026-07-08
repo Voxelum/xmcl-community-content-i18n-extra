@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zKwHhKH/Zfw=",
+  "content": "# 平滑第三人称视角\n\n## 功能特性\n- 第三人称视角下的平滑镜头跟随\n- 可配置的`平滑度`与`最大距离`\n- 可选`极限模式`，支持直接数值输入\n- 集成ModMenu模组菜单，可在游戏内配置（Fabric版本）\n\n## 预览效果\n\n启用平滑镜头（第三人称视角）。  \n*示例设置：平滑度=0.14，最大距离=50.0*  \n> 注意：上述**并非**默认值。默认设置为**平滑度=0.30**和**最大距离=20.0**。\n>\n> 注意：本预览截图基于**Fabric**版本制作。\n\n![平滑镜头全屏预览](https://yoima.com/mc/smooththirdpersoncamera/gallery/a-1.gif)\n\n## 对比（原版 vs 平滑镜头）\n\n**左侧：** 原版（未安装模组）  \n**右侧：** 启用平滑镜头\n\n> 注意：对比GIF动图均来自**Fabric**版本。\n\n| 场景 | 原版 | 平滑镜头 |\n| --- | --- | --- |\n| 鞘翅飞行 | ![原版冲刺转向](https://yoima.com/mc/smooththirdpersoncamera/gallery/2-1.gif) | ![平滑镜头冲刺转向](https://yoima.com/mc/smooththirdpersoncamera/gallery/1-1.gif) |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

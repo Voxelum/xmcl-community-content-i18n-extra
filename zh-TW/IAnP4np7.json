@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pFTWMTamm54=",
+  "content": "Create: Structures 是一個 Create 的附加元件，旨在透過添加自然生成的全新結構，進一步將模組整合至原版遊戲中。\n\n警告：此資料包使用指令方塊來組裝機械裝置，因為 Create 無法妥善支援生成的結構。\n\n這些結構採用了原版的建築風格，同時也使用了來自 Create 模組的方塊與物品。結構僅包含遊戲初期的物品與簡單機械，以免干擾模組本身的進程。\n\n目前，以下村莊已新增獨特的風車結構：\n\n- 平原村莊\n- 針葉林村莊\n- 稀樹草原村莊\n- 雪原村莊\n\n此外，沙漠村莊中新增了水車結構，而所有結構也同樣會在殭屍村莊中生成。\n\n此附加元件的範圍不限於村莊結構，未來更新中可能會加入更多結構。\n\n請在 [問題追蹤器](https://github.com/FusionSwarly/Create-Structures/issues) 上回報問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

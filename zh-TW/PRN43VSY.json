@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Vvbm12n5Ww4=",
+  "content": "# Animatica\n### 更多材質動畫 <br/> <br/>\n\n這是一個為 Fabric 模組載入器設計的 Minecraft 模組，旨在載入 MCPatcher/OptiFine [動畫材質格式](https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/custom_animations.txt)。<br/>\n## 支援哪些資源包？\nAnimatica 增加了對使用**自訂動畫材質**的資源包的支援。<br/>\n這包括：\n- 動畫 GUI 材質 *（其他 GUI 功能請使用 [OptiGUI](https://modrinth.com/mod/optigui)）*\n- 動畫實體材質\n- 動畫方塊實體材質\n- 動畫盔甲材質\n- 其他動畫材質（動畫方塊與物品為原版功能）\n\n## Animatica 不支援：\n- 完全自訂 GUI（[Fabric 版 OptiGUI](https://modrinth.com/mod/optigui)）\n- 自訂實體模型（[Fabric 版 CEM](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)）\n- 自訂實體模型部分的 3D 動畫（[Fabric 版 CEM](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)）\n- 任何其他 MCPatcher/OptiFine 資源包功能，例如連接材質等\n\n**這些功能永遠不會在 Animatica 中實現。** <br/>\n### Animatica 僅專注於動畫材質。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

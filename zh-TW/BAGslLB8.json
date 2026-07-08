@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ntKHoBk/1Q8=",
+  "content": "![NoMoWanderer Banner Image](https://i.imgur.com/2HdZhC2.png)\n\n![Mod 下載總數](http://cf.way2muchnoise.eu/full_nomowanderer_downloads.svg)\n![支援的 MC 版本](http://cf.way2muchnoise.eu/versions/nomowanderer.svg)\n\n厭倦了那些流浪商人踩壞你的草坪和農作物，只為了給你一些微不足道的交易嗎？\n不用再找了……就是這個模組！為玩家提供幾個方塊/物品，用來阻止和/或控制\n流浪商人的生成。\n\n## 功能\n### 禁止推銷標誌\n在距離該方塊（以區塊計）可設定的範圍內，阻止已設定的實體生成。\n\n### 反推銷護符\n這個物品放在「Baubles」欄位、「Curios」欄位或背包中任何地方時，\n會阻止流浪商人在玩家周圍生成。距離與禁止推銷標誌相同。\n\n可以透過 _Shift + 右鍵_ 護符來開啟/關閉效果。\n\n### 商人地毯\n提供一種設定附近流浪商人生成位置的方式。如果流浪商人在地毯的 `半徑` 範圍內生成，\n它將會改為生成在這個方塊上。\n\n## 設定\n### _nomowanderer-common.toml_\n`entityWatchList` 這些實體如果位於禁止推銷標誌的半徑範圍內，將被阻止生成。\n如果該實體未被阻止，其生成將會被轉移到商人地毯（如果在範圍內）。\n預設清單中包含流浪商人、來自 [Rats](https://www.curseforge.com/minecraft/mc-mods/rats) 模組的瘟疫醫生，\n以及來自 [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) 的紅色商人。\n\n`radius` 此模組物品/方塊的有效範圍。預設值為 8。\n\n`disableSpawns` 設為 true 可停用 _entityWatchList_ 中所有已設定實體的生成。預設值為 false。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

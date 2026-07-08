@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ELLwXNpTvuE=",
+  "content": "# 所有道路\n在结构之间生成道路。\n\n## 什么？\n默认情况下，AllRoads 会找到 10 个村庄并生成 4 条道路。\n道路在陆地上很明显，但在水上仍有路径点。\n\n## 其他结构？\n一般来说，任何在结构标签中的结构都可以生成道路。\n\n要生成道路，你必须首先使用 `AllRoads.ROAD_GENERATOR.addRoadPlan(BlockPos[] plan)` 添加一个“道路计划”。\n\n道路计划只是一个包含两个 BlockPos 的数组，表示起点和终点（结构的位置）。\n\n添加完所有道路计划后，你可以使用方法 `AllRoads.ROAD_GENERATOR.planNextRoad(MinecraftServer server)`。\n\n这将依次生成道路，直到没有剩余的道路为止。\n\n此模组需要 [异步定位器](https://modrinth.com/mod/async-locator)。如果你要使用自己的结构，我也推荐使用它。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

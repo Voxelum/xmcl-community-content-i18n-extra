@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TlRYQS/g0Xs=",
+  "content": "#  **VitalStats**\n一款輕量級的客戶端模組，可顯示生命值指示器、護甲HUD與不死圖騰計數器，提升戰鬥感知能力。\n\n![模組預覽](https://i.imgur.com/TwlTz1s.png)\n\n## ✨ 功能特色\n\n### ❤️ 生命值指示器（兩種顯示模式）：\n\n心形圖示\n\n數值生命值\n\n### 🔮 不死圖騰計數器\n\n計算不死圖騰觸發次數\n\n重生或切換世界時自動重置\n\n支援名稱後綴顯示類型（例如：玩家名稱 ¦ 2）\n\n### 🛡️ 護甲HUD\n\n直接在HUD上顯示護甲數值\n\n設計緊湊，能與VitalStats既有元素整齊對齊\n\n### 🚫 實體黑名單\n\n為特定實體隱藏生命值指示器\n\n### ⚙️ 可自訂HUD偏移量\n\n微調所有指示器的顯示位置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

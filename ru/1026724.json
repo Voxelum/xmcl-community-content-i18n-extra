@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3XycGdtLTIY=",
+  "content": "<p>Простой мод для Minecraft, который делает окно игры неизменяемым по размеру</p>\n<p>Это клиентский Fabric-мод, работающий во всех версиях и не требующий дополнительных зависимостей</p>\n<p>Как это работает? С помощью этого волшебного однострочного кода:</p>\n<pre><code>GLFW.glfwWindowHint(GLFW.GLFW_RESIZABLE, GLFW.GLFW_FALSE);\n</code></pre>\n<p><img src=\"https://media.forgecdn.net/attachments/877/250/screenshot.png\" alt=\"скриншот\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

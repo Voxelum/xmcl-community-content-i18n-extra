@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SEDH6FNWmhw=",
+  "content": "Простой мод для Minecraft, который делает окно игры неизменяемым по размеру.\n\nЭто клиентский мод на основе Fabric, который работает во всех версиях и не требует дополнительных зависимостей.\n\nКак это работает? С помощью этого волшебного однострочного кода:\n\n```java\nGLFW.glfwWindowHint(GLFW.GLFW_RESIZABLE, GLFW.GLFW_FALSE);\n```\n\n![скриншот](https://github.com/Fallen-Breath/locked-window-size/raw/master/screenshot.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

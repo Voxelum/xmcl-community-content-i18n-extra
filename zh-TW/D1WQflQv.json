@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JBJRagVkHcE=",
+  "content": "這是一個相對簡單的功能，讓你能夠切換三種不同的誤射無辜者（身為無辜者時）的懲罰方式：\n\n1. 預設 - 你掉落你的槍且無法撿回。你仍然可以撿起其他玩家掉落的槍。\n2. 禁止撿槍 - 你掉落你的槍，且在該回合剩餘時間內無法撿起任何槍支。\n3. 擊殺射擊者 - 你與被你射擊的玩家一同死亡。\n\n所選的懲罰僅在「誤傷反噬」未生效時適用，意味著此附加模組與誤傷反噬功能可以協同運作！\n\n# 指令\n`/setShootInnocentPunishment [default/preventGunPickup/killShooter]` - 需要管理員權限。\n\n如需支援或建議，請加入我的 [Discord 伺服器](https://discord.gg/ZbwgdH8mNQ)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+4pUQ/W2D8I=",
+  "content": "<h1>私人儲物櫃</h1><p>為 NeoForge 26.x 添加一個<strong>81格儲物空間的私人儲物櫃</strong>。</p><h2>功能特色</h2><ul>\n<li>三格高的儲物櫃，僅限<strong>所有者</strong>存取</li>\n<li>底部與中間區塊提供<strong>81格儲物空間</strong>（9×9）</li>\n<li>頂部區塊會顯示放大的所有者<strong>3D 皮膚頭顱</strong></li>\n<li>連鎖破壞 — 破壞任一部件將移除整個結構</li>\n<li>防爆方塊邏輯</li>\n</ul><p>可選的<strong>Guide Lib</strong>整合提供遊戲內手冊與法典條目。</p><h2>管理員指令（OP）</h2><table>\n<thead>\n<tr>\n<th>指令</th>\n<th>權限</th>\n<th>說明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>/privatechest give &lt;目標&gt; &lt;所有者名稱&gt;</code></td>\n<td>OP（等級2以上）</td>\n<td>給予一個所有者玩家頭顱物品（用於儲物櫃放置／展示）</td>\n</tr>\n</tbody>\n</table><h2>致謝</h2><p>本模組在開發過程中，部分借助AI（Claude、Gemini等）協助提升開發效率與程式碼優化。所有遊戲平衡決策與實際測試均由開發者手動進行。若遇到任何非預期問題，請透過GitHub Issues回報。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

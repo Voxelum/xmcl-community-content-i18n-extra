@@ -1,0 +1,6 @@
+{
+  "bodyHash": "A1QkHDxHA8M=",
+  "content": "## 遊戲規則（計分板）\n\n> 基於計分板，可使用 `/scoreboard players set <規則名稱> gamerule (0(否)|1(是))` 來管理遊戲規則。\n>\n\n|    遊戲規則      |            描述            |  類型  |   預設值    |\n| :--------------: | :------------------------: | :----: | :---------: |\n| creeper_griefing | 控制苦力怕爆炸與方塊的互動。停用時，苦力怕將無法破壞方塊。此規則與 `mob_griefing` 規則不衝突。 |  布林  | `false(0)`  |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

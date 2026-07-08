@@ -1,0 +1,6 @@
+{
+  "bodyHash": "K3hAeFpsoVY=",
+  "content": "# Fabric API\n\n與 Fabric 模組開發相關的重要鉤子。\n\nFabric API 是一個為 Fabric 模組提供必要鉤子和互操作機制的函式庫。範例包括：\n\n- 暴露對許多模組來說實用但難以存取的功能，例如粒子、生物群系和維度\n- 新增事件、鉤子和 API，以改善模組之間的互操作性。\n- 基本功能，如註冊表同步和向錯誤報告添加資訊。\n- 一個先進的渲染 API，旨在與最佳化模組和圖形大修模組相容。\n\n也請查看 [Fabric Loader](https://github.com/FabricMC/fabric-loader)，這是驅動 Fabric 的主要（大部分情況下）版本獨立模組載入器。Fabric API 就像其他需要安裝 Fabric Loader 的 Fabric 模組一樣。\n\n如需開發者和使用者的支援與討論，請造訪 [Fabric Discord 伺服器](https://discord.gg/v6v4pMv)。\n\n## 使用 Fabric API 來玩模組\n\n請確保您已先安裝 fabric loader。有關安裝 Fabric Loader 的更多資訊，請參閱 [此處](https://fabricmc.net/use/)。\n\n下載的 jar 檔案應放置在您的 `mods` 資料夾中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

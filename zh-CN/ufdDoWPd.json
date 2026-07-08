@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vHL1pU+Owcs=",
+  "content": "# Kiwi 🥝\n\nSnownee 的模组所使用的 Minecraft 模组开发库。\n\n提供了一些生活品质功能（可配置）：\n\n- 在工具提示中显示物品的 NBT 和标签\n- 禁用微软的遥测功能\n- 简易命令计算器 - `/kalc`\n- 命令用于静音当前通知和声音 - `/kiwic quiet`\n- 抑制实验性世界设置警告（默认关闭）\n- 禁用资源重载或主菜单时的淡入淡出效果（默认关闭）\n\n安装 [Cloth Config](https://modrinth.com/mod/cloth-config) 可在游戏中更改设置。\n\n[![有兴趣支持我和模组开发吗？BisectHosting 是完美的解决方案。新客户可使用推广代码 \"snownee\" 获得游戏服务器的首月 25% 折扣。24/7 支持与快速响应，为您提供所有游戏需求的顶级服务。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HA/lUe8/zKQ=",
+  "content": "FlyHigher 是一款 NeoForge 模组，为 Create Aeronautics 提供高级空气压力调整功能。\n\n该模组允许你自定义空气压力倍率，并配置每个高度节点的压力值，从而让你完全掌控 Create Aeronautics 中飞艇的高度行为。\n\n✨ 功能特性：\n- 可配置的空气压力倍率\n- 每个节点的高度与压力值编辑\n- 图形化配置界面（Cloth Config）\n- 实时配置同步，无需重启游戏\n- 自动数据包注入 —— 无需手动设置\n\n🔧 工作原理：\n该模组会在 `config/flyhigher_datapack/` 目录下生成一个数据包，并通过 NeoForge 的资源包查找系统自动加载到每个世界中。配置更改后，在游戏中执行 `/reload` 命令或重新进入世界即可生效，无需手动复制或打包文件。\n\n📦 前置需求：\n- Minecraft 1.21.1\n- NeoForge 21.1+\n- Create Aeronautics（Sable 1.1+）\n- Cloth Config 15.0+（用于配置界面）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

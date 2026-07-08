@@ -1,0 +1,6 @@
+{
+  "bodyHash": "41LtiHwnhko=",
+  "content": "<p>Позволяет правильно использовать <a href=\"https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric\" rel=\"nofollow\">Entity Texture Features</a>/<a href=\"https://www.curseforge.com/minecraft/mc-mods/entity-model-features\" rel=\"nofollow\">Entity Model Features</a> вместе с шейдерами <a href=\"https://www.curseforge.com/minecraft/mc-mods/oculus\" rel=\"nofollow\">Oculus</a>.</p><p>&nbsp;</p><p>Исправляет ошибку, из-за которой некоторые ресурс-паки, такие как <a href=\"https://www.curseforge.com/minecraft/texture-packs/grays-mob-overhaul\" rel=\"nofollow\">Gray's Mob Overhaul</a>, не отображают случайные части своих моделей при наличии шейдеров Oculus.<br><br>Сам патч уже включен в ETF, но активируется только на шейдерах Fabric+Iris. Этот мод переносит этот патч на шейдеры Oculus, чтобы указанные части отображались корректно.</p><p><br>Посмотрите галерею для примеров!</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

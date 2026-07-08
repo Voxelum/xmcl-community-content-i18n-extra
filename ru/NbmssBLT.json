@@ -1,0 +1,6 @@
+{
+  "bodyHash": "87XyG/RO1U4=",
+  "content": "Сделайте [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) совместимым с [Whimscape](https://modrinth.com/resourcepack/whimscape)! Это патч, а не замена; _вам также необходимо установить Fresh Animations_.\n\n## Порядок загрузки\nWhimscape x Fresh Animations загружается выше Fresh Animations, которая, в свою очередь, загружается выше Whimscape.\n\n![Порядок загрузки ресурс-паков: Fresh Animations выше Whimscape, этот патч сверху обоих.](https://cdn.modrinth.com/data/NbmssBLT/images/6f7b6008311bd3cc380e757c8ddb887fa095ce0e.png)\n\nРасширения для Fresh Animations, которые, на мой взгляд, в настоящее время работают без серьёзных проблем:\n\n- Fresh Animations: Объекты (**размещены ниже Whimscape в порядке загрузки**)\n- Fresh Animations: Расширение для игрока (**размещено ниже Whimscape в порядке загрузки**)\n- Fresh Animations: Колчаны (отсутствует колчан на болоте)\n\n\n## Возникли проблемы?\nПожалуйста, сообщите об ошибках в [трекере проблем Whimscape на GitHub](https://github.com/kavast/Whimscape-Issues/issues). В других местах я, скорее всего, пропущу отчёты или увижу их гораздо позже.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

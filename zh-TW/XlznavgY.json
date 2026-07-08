@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y7CvJxzHBto=",
+  "content": "## 🌿 Easeon - 快速修復\n\n**此模組需要 <a href=\"https://modrinth.com/mod/easeon-ss-core\" target=\"_blank\">EaseonSS-Core</a>**\n\n## 概述\n快速修復是一個伺服器端模組，允許玩家使用經驗值快速修復帶有修補附魔的物品。  \n當你手持損壞的修補物品時右鍵點擊鐵砧，它會根據你擁有的經驗值自動恢復耐久度。\n\n<details>\n<summary>預覽</summary>\n\n![展示圖片](https://github.com/EaseonKit/EaseonSS-QuickMend/blob/1.21.9-1.21.10/showcase.webp?raw=true)\n\n</details>\n\n<br/>\n\n## 功能特色\n- **兩種修復模式**：\n  - 普通點擊：修復最大耐久度的10%\n  - 按住Shift點擊：使用所有可用經驗值完全修復\n- **經驗值系統**：使用原版修補比例（每點經驗值修復2點耐久度）\n- **鐵砧耐久度**：鐵砧有12%機率損耗（原版設定）\n\n<br/>\n\n## 指令\n所有指令都需要OP等級2權限（可配置）。\n\n| 指令                      | 說明          |\n| ------------------------ | ------------- |\n| /easeon quickmend        | 查看目前狀態  |\n| /easeon quickmend <on/off> | 啟用/停用     |\n\n<details>\n<summary>配置設定</summary>\n\n```json\n{\n  \"enabled\": true,\n  \"requiredOpLevel\": 2 // 需要重新啟動伺服器才能生效\n}\n```\n`config/easeon/easeon.ss.quickmend.json`\n\n</details>\n\n<br/>\n\n---\n\n### 🔗 更多 Easeon 模組  \n尋找更多相同風格的輕量實用模組？  \n請在此處查看其他 Easeon 系列模組 <a href=\"https://modrinth.com/user/Teron\" target=\"_blank\" rel=\"noopener noreferrer\">這裡</a>。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

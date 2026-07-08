@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cpHos4Bq2hE=",
+  "content": "这是一个小型、简单的模组，添加了各种可以提高方块实体的刻率（tick rate）的火把。换句话说，它们可以让机器运行得更快。\n\n一些示例用途：\n\n- 加快植物生长\n- 加快矿石熔炼\n- 增加刷怪笼速度\n\n有一个主要的Torcherino，然后还有各种升级可以添加到它们上面。这些功能中的许多都可以在模组配置文件中进行配置，该文件名为Torcherino.cfg，位于config/sci4me文件夹中。\n\n放置Torcherino后，它默认是未激活的。你必须右键点击它并使用GUI来调整其设置，以达到你喜欢的范围和速度（最大值由使用的等级决定）。\n\n### 过去的维护者\n\n- Moze_Intel\n- [sci4me](https://www.curseforge.com/members/sci4me/projects)\n- [3llemes](https://www.curseforge.com/members/3llemes/projects)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

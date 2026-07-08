@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qSQxobGkPv8=",
+  "content": "<p>這個模組可用於在伺服器上建立完整的金錢與貨幣系統。</p><p>它以歐盟貨幣<strong>歐元（€ 和 c）</strong>為基礎。</p><p><strong>這是我最新且最優秀的模組。</strong></p><p>&nbsp;</p><p><strong>Euro27 新增內容：</strong></p><ul>\n<li>玩家綁定的銀行系統</li>\n<li><strong>€</strong> 硬幣與紙鈔（1€、2€、5€、10€、20€、50€、100€、200€、500€）</li>\n<li><strong>c</strong> 硬幣（1c、2c、5c、10c、20c、50c）</li>\n<li><strong>信用卡</strong>（用於存取金錢）</li>\n<li><strong>銀行</strong>方塊（可將金錢轉入信用卡或轉回）</li>\n<li><strong>錢包</strong>（可存放金錢與信用卡）</li>\n<li><strong>支付終端機</strong>（支付特定金額時會輸出紅石訊號）</li>\n<li><strong>鑰匙</strong>（支付終端機擁有者用於更改支付金額與轉帳）</li>\n<li>所有物品的<strong>合成配方</strong>（金錢無法合成，合成信用卡時會獲得 100€）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2en92swKA88=",
+  "content": "重新加入了 Minecraft 過去版本的錯誤。預設情況下，這個模組不會有任何作用。你需要透過修改設定檔來啟用你想要的錯誤。\n\n目前的設定檔包含：\n\n```\nstringDuplicationEnabled（已於 24w33a 修復）\ntripwireHookDuplicationEnabled（已於 26.1 修復）\nvoidTradingEnabled\nCCESuppressionEnabled\nredstoneDustRepeaterComparatorIgnoreUpwardsStateUpdateEnabled\ncomparatorDuplicationEnabled（已於 26.2-snapshot-2 修復）\ncachePoisoningEnabled（已於 26.1 修復）\neidSuppressionEnabled（已於 26.1-pre-1 修復）\n```\n\n如果你希望加入其他功能，請在 GitHub 頁面上提出問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

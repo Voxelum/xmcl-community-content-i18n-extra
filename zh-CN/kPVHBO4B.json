@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bNAgk3U1EQY=",
+  "content": "一个搞笑的模组，让格雷科技CEu现代版本的消声舱口能在\"机械动力：航空学\"中作为推进模块使用。\n\n严格来说，这个模组是为Sable（而非机械动力：航空学本身）设计的，但为了清晰起见，借用了这个名称。\n\n## 使用方法\n只需将螺旋桨等推进模块替换为格雷科技CEu现代版本中使用消声舱口的多方块结构（例如EBF电炉）。  \n该多方块结构必须保持运行状态才能产生推力。\n\n![EBF飞船](https://raw.githubusercontent.com/Lapis256/Powered-by-Pollution/refs/heads/1.21.1/images/ebf_ship.png)\n\n低等级的消声舱口产生推力的效率更高——换句话说，你对地球的污染越严重，效率反而越高。  \n同时，更高的能量消耗和并行度也能产生更强大的推力。\n\n![快得离谱的EBF](https://raw.githubusercontent.com/Lapis256/Powered-by-Pollution/refs/heads/1.21.1/images/ridiculously_fast_ebf.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

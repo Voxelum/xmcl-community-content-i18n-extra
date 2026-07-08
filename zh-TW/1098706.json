@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b67h9cuW9UQ=",
+  "content": "<h3>🌲 關於本模組</h3><p><strong>Terraphilic</strong> 是 Geophilic 與 Terralith 的兼容性模組及資料包。它讓您能同時使用 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/terralith\" rel=\"nofollow\">Terralith</a></strong> 和 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/geophilic\" rel=\"nofollow\">Geophilic</a></strong>，且不會損失任一資料包的功能。</p><p>Terraphilic 透過合併兩個資料包的生態域定義來運作。若兩者存在相同或相似的放置特徵，Geophilic 的內容會被 Terralith 的版本取代。沒有 Terralith 對應版本的原始遊戲特徵仍會被 Geophilic 替換，其餘所有特徵則保持相同的載入順序。</p><p>Terraphilic 提供<strong>適用於 Forge 與 NeoForge 的模組版本</strong>；目前不支援 Fabric。<strong>若使用 Fabric 或 Quilt，請改用資料包版本。</strong></p><p><strong>Terraphilic 不會修改 Terralith 的生態域</strong>，但未來可能會調整此機制。</p><p>若您使用的世界生成模組不只 Terralith，建議考慮改用 <strong>Geophilic Reforged</strong>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

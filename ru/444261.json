@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mpvpX0iAWPg=",
+  "content": "<h2>Креативный один удар</h2><p>Наносите один удар любому существо в креативном режиме, если только вы не держите оружие.</p><p><img src=\"https://raw.githubusercontent.com/Fourmisain/CreativeOnePunch/1.17/BHuehD2.png\" width=\"1125\" height=\"633\"></p><p>Великолепный логотип от <a href=\"https://github.com/oliwoli\" rel=\"nofollow\">@oliwoli</a>, большое спасибо!</p><ul>\n<li>работает на <em>любой</em> версии Minecraft, поддерживаемой Fabric, начиная с 1.14 и до как минимум <del>1.18</del> <del>1.19</del> <del>1.20</del> <del>1.21</del>&nbsp;26.1</li>\n<li>требуется Fabric Loader 0.12+</li>\n<li>работает только на сервере</li>\n</ul><p>С версии 1.8 появился файл конфигурации <code>creativeonepunch.json</code> со следующими параметрами:<br> <code>damage</code>: наносимый урон, по умолчанию — 9999<br> <code>forceKill</code>: обходит любые проверки невосприимчивости, по умолчанию — <code>false</code><br> <code>requireSneak</code>: работает ли «Один удар» только при скрытом режиме, по умолчанию — <code>false</code></p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252ffourmisain\" rel=\"nofollow\"><img src=\"https://cdn.ko-fi.com/cdn/kofi1.png?v=2\" alt=\"Подарите мне кофе на ko-fi.com\" width=\"143\" height=\"36\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

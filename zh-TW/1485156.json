@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rPX6h6rI5IA=",
+  "content": "<h1>Zoomax</h1><hr><h2>將縮放推向極限。</h2><p>Zoomax 為 Minecraft 加入了流暢且反應靈敏的縮放功能，具備智能控制與流暢的過渡效果。專為想要獲得無縫且自然的縮放體驗的玩家設計。</p><hr><h2>特色</h2><h3>動態縮放</h3><ul>\n<li>按住 <strong>C</strong> 啟動縮放模式</li>\n<li>按住 <strong>C</strong> 時滾動滑鼠滾輪，可流暢地放大或縮小</li>\n<li>放開 <strong>C</strong> 即可恢復正常視角</li>\n</ul><h3>智能縮放鎖定</h3><ul>\n<li>在縮放時按下 <strong>Y</strong> 可鎖定目前的縮放倍率</li>\n<li>鎖定後的縮放會持續作用，直到解鎖為止</li>\n<li>再次按下 <strong>Y</strong> 即可重設為正常視角</li>\n</ul><h3>智慧型滾輪行為</h3><ul>\n<li>縮放時：滑鼠滾輪調整縮放倍率</li>\n<li>鎖定時：滑鼠滾輪切換快捷欄物品</li>\n<li>防止在遊戲過程中意外變更縮放</li>\n</ul><hr><h2>控制</h2><table>\n<thead>\n<tr>\n<th>按鍵</th>\n<th>動作</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>C（按住）</strong></td>\n<td>啟動縮放模式</td>\n</tr>\n<tr>\n<td><strong>Y（按下）</strong></td>\n<td>鎖定或解鎖縮放</td>\n</tr>\n</tbody>\n</table><hr><h2>設定</h2><ul>\n<li>可在「控制」設定中的「Zoomax」類別下自訂按鍵綁定</li>\n</ul><hr><h2>授權</h2><p>本專案採用 <strong>ARR</strong> 授權。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

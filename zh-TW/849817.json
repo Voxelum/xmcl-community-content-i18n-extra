@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QQsmHfHrQF0=",
+  "content": "<p>這是一個非常小的<strong>伺服端</strong>模組，能讓記錄檔在伺服器看門狗系統因死結或卡住過久而終止伺服器時，顯示更多資訊。崩潰報告日誌現在會顯示伺服器死結當下所有正在執行的程式碼。換句話說，它會顯示所有執行緒的完整堆疊追蹤，而非通常被截斷（縮短）的版本。</p><p>&nbsp;</p><p>理論上，這有助於診斷是哪個模組程式碼或混入（mixin）導致了「離線執行緒」鎖死。當執行緒鎖死時，伺服器執行緒會被卡住，如果卡住時間過長，看門狗就會因遊戲刻（tick）耗時太久而終止它。<strong>這無法解決所有死結問題。</strong>但或許能提供足夠的資訊，讓你能追蹤到部分死結的原因。<br><br>下方圖片是安裝此模組前後的範例<strong>（圖片標籤頁能更清楚顯示圖片）</strong>：&nbsp;<br><img src=\"https://media.forgecdn.net/attachments/646/693/showcaseoffullstacktracewatchdog-copy2.png\" width=\"1125\" height=\"406\"></p><p>&nbsp;</p><p><strong>是的，您可以將此模組放入模組包中發布。</strong>用戶端也可以安裝此模組，但因看門狗系統僅在伺服器端運作，用戶端不會有任何作用。您也可以在伺服器端僅安裝此模組來執行伺服器。未安裝此模組的用戶端仍可正常連線。<br><br><strong>注意 1：</strong>NeoForge 20.4.107 及以上版本已整合此模組功能！您在 NeoForge 1.20.4 或更新的 Minecraft 版本中不需要此模組！&nbsp;<a href=\"https://github.com/neoforged/NeoForge/pull/512\" target=\"_blank\" rel=\"nofollow\">https://github.com/neoforged/NeoForge/pull/512</a><br><strong>注意 2：</strong>Fabric API 0.104.0+1.21.2 及以上版本已整合此模組功能！您在 Fabric 1.21.2 或更新的 Minecraft 版本中不需要此模組！ <a href=\"https://github.com/FabricMC/fabric/pull/4052\" target=\"_blank\" rel=\"nofollow\">https://github.com/FabricMC/fabric/pull/4052</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

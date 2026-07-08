@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sGMy0NVqHJ4=",
+  "content": "## Пожалуйста, не устанавливайте на свой сервер!\n\n## Пожалуйста, не устанавливайте на свой сервер!\n\n## Пожалуйста, не устанавливайте на свой сервер!\n\nЭто упрощённый мод, который упрощает управление KubeJS с помощью клавиатуры.\n\nС этим модом вы можете отслеживать действия клавиш на клавиатуре, включая нажатие и отпускание.\n\nОпределите, была ли клавиша нажата или отпущена, вернув логическое значение.\n\nСобытие нажатия\n\n```js\nItemEvents.rightClicked(\"emerald\", event => {\n    event.player.tell(Keyboard.pressed(Keys.F3));\n})\n```\n\nСобытие отпускания\n\n```js\nPlayerEvents.tick(event => {\n    event.player.tell(Keyboard.released(Keys.X));\n})\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

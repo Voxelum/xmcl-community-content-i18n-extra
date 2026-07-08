@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vYEdwXV+zZU=",
+  "content": "# Jade 附属模组 (Neo/Forge)\n\n本模组为 [Jade 🔍](https://modrinth.com/mod/jade) 1.18 以上版本增加了模组兼容功能。\n\n### 目前支持：\n\n- 通用\n  - 需要手持或装备特定物品才能使用 Jade\n- 机械动力 (Create)\n  - 精确的机械射线投射，显示机械中的实际方块\n  - 机械物品栏\n  - 烈焰燃烧室燃料信息\n  - 合成蓝图产物物品\n  - 标语牌物品\n  - 不再忽略弧形轨道\n  - 输入输出过滤信息\n  - 隐藏超级胶水实体\n  - 背罐空气含量\n  - 在 Jade 中集成护目镜提示（默认禁用）\n- 匠魂 (Tinkers Construct)\n  - 排液口和管道的流体信息\n  - 浇铸台的配方进度\n- 秘密房间模组 (SecretRoomsMod)\n  - 正确隐藏方块\n- McJtyLib\n  - 机器所有权\n  - 机器可灌注性\n  - 深共振 (Deep Resonance)\n  - 水晶信息\n  - 发电机部件信息\n- Lootr\n  - 基于玩家的物品栏\n  - 刷新与腐败时间\n- 末影IO (EnderIO)\n  - 精确的导管类型\n- 补品 (Supplementaries)\n  - 伪装陷阱礼物\n  - 隐藏礼物或门垫中的物品\n- 遗物 (Artifacts)\n  - 伪装拟态怪物\n\n### 整合包政策\n\n只要整合包仅发布在 CurseForge 或 Modrinth 上，您就可以将其添加到您的整合包中。\n\n[![有兴趣支持我和模组开发吗？BisectHosting 是完美的选择。新客户使用推广代码 \"snownee\" 即可在游戏服务器的首月享受 25% 折扣。凭借 24/7 支持和快速响应，您将获得满足所有游戏需求的一流服务。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/oktbru)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

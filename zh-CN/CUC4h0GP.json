@@ -1,0 +1,6 @@
+{
+  "bodyHash": "drAyHmZph34=",
+  "content": "![原版无缝玻璃](https://i.postimg.cc/yNzy4HBt/vcg.png)\n![下载量](https://img.shields.io/modrinth/dt/CUC4h0GP?label=Downloads)\\\n原版无缝玻璃让玻璃块和玻璃板无缝连接——无需OptiFine或Continuity！它完全兼容所有资源包，仅使用原版剔除面机制，当方块位于左右、上下方向时隐藏面。\n\n每个玻璃模型在边框处包含薄长方体，纹理采用玻璃边缘，从而打造平滑的连接效果。对角线像素通过额外添加几个小方块来处理，确保一切完美对齐。\n\n### ✨ 特性：\n\n- 适用于玻璃块和玻璃板\n- 支持所有玻璃颜色\n- 无需OptiFine或其他模组\n- 与任何资源包完全兼容（从0.8版本开始，将你的资源包放在此包之上）\n- 仅用原版机制实现整洁的连接边缘\n- 轻量且易于安装\n\n### ⚠️ 由于此方法纯粹依赖原版剔除面机制：\n\n- 从玻璃内部看，边框可能会可见\n- 玻璃会与任何方块连接，而不仅仅是其他玻璃（不包括树叶、铁栏杆等方块）\n\n虽然存在一些微小限制，但此资源包依然完全基于原版，非常适合希望在不安装模组的情况下实现无缝玻璃的创作者或玩家。\n\n注意：我知道OptiFine和Continuity的玻璃效果更平滑，但这是实现原版无缝玻璃的唯一方法。如果你知道更好的方式，我很乐意听取建议！ =D\\\n![原版无缝玻璃](https://i.postimg.cc/QNT7QjBh/117237de1a4477533fcfa18e77ddf6dbcd849f02-350.webp)\n\n💡 如果你喜欢这个，不妨看看我的另一个资源包：\n[原版无缝纹理](https://modrinth.com/resourcepack/vanilla-connected-textures)\n\n🔒 官方下载仅可在Modrinth、CurseForge和Planet Minecraft上以sniffercraft34的名称获取。其他来源可能已被修改或不安全。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

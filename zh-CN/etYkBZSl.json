@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hY4eh0eaZ0s=",
+  "content": "# AFK 守卫模组\n\n一款客户端 Fabric 模组，在您挂机时提供保护，若受到伤害将自动断开连接。让您安心挂机。\n\n## 功能特性\n\n- **AFK 保护**：当守卫激活时若受到伤害，客户端将自动断开连接。\n- **自动 AFK**：在可配置的无操作时间后自动启用守卫（默认：30 秒）。\n- **高度可配置**：可自定义延迟时间、状态提示信息及伤害来源。\n- **忽略玩家伤害**：可选是否忽略来自其他玩家的伤害（适用于防止战斗退出，可关闭此功能）。\n\n## 使用方法\n\n### 按键绑定\n- **切换 AFK 守卫**：手动启用/禁用守卫功能（请在按键设置菜单中配置）。\n- **切换自动 AFK**：启用/禁用自动 AFK 计时器。\n\n### 命令\n所有命令均以 `/afkguard` 开头：\n\n- `/afkguard config` - 查看当前配置。\n- `/afkguard delay <秒数>` - 设置触发自动 AFK 前的无操作时间。\n- `/afkguard messages <true|false>` - 切换启用/禁用时的状态提示信息。\n- `/afkguard ignoreplayerdamage <true|false>` - 设置是否因其他玩家造成的伤害触发断开连接。\n\n## 配置说明\n配置文件位于 `.minecraft/config/afkguard.json`。您可以直接编辑该文件，或使用游戏内命令进行配置。同时支持 Cloth Config 配置界面。建议配合 Mod Menu 模组与 Cloth Config API 在游戏内进行配置调整。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

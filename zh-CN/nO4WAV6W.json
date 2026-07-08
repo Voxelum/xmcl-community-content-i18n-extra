@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vxZuXy51vTw=",
+  "content": "# 史莱姆搜寻器\n\n厌倦了要使用外部网站寻找史莱姆区块？史莱姆搜寻器为你提供游戏内的寻找方式。\n\n这是一个Fabric模组，但数据包版本也已发布（数据包版本需要资源包，否则法杖将无法正确渲染）。\n\n![史莱姆搜寻器预览](https://cdn.modrinth.com/data/cached_images/e4793416067a2361dba29071f1c0cf0431391e9c.jpeg)\n\n### 史莱姆占卜法杖\n当手持该物品位于至少有一只史莱姆在洞穴中自然生成的区块时，法杖会闪烁光芒。\n\n![史莱姆占卜法杖合成配方](https://cdn.modrinth.com/data/cached_images/e930f492b0323d94cc53653505691a45aa0bd68c.png)\n\n**如果某个区块中从未生成过史莱姆，此物品将无法识别该史莱姆区块。** 在正常的游戏流程中，当你拥有制作史莱姆占卜法杖的资源时，你基地周围的所有史莱姆区块应该都已被记录。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

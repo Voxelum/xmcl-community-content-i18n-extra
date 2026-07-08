@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rxpvTXWlcHo=",
+  "content": "<p><strong>AlmirionCore</strong> 是一個輕量級的核心依賴庫，為我在 <strong>1.12.2 與 1.20.1</strong> 上的數個 Minecraft Forge 模組提供必要的支援。</p><p>它本身不會增加任何遊戲內容，而是提供共用的初始化邏輯、後端系統以及工具函式，讓其他依賴它的模組能夠正確載入與運作。</p><p>此核心確保在不同 Forge 版本間具有一致的載入行為，集中管理通用程式碼，並維持我模組生態系的整潔與模組化結構。</p><p>如果某個模組需要 AlmirionCore，只需將它與主模組一同放入 <code>mods</code> 資料夾即可。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

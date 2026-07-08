@@ -1,0 +1,6 @@
+{
+  "bodyHash": "M6Z7waE4dJc=",
+  "content": "**重要依赖信息**\n\n要使用此模组，你需要特定版本的 *Create: Bits 'n' Bobs*。Modrinth/CurseForge 上的版本（0.0.44 及以下）**将无法使用**。\n\n请改为直接从 GitHub 发布页下载兼容的预编译 .jar 文件：\n **[Bits 'n' Bobs](https://github.com/qwxon/Create-Bits-n-Bobs-for-Tracks/releases)**\n\n![预览](https://cdn.modrinth.com/data/cached_images/dd528f87816bf4e4edb4fdc369e16d02924c62b9.png)\n\n*（注：Create: Bits 'n' Tracks 仍处于测试阶段，可能会出现错误）。*\n\n### **Bits ’n’ Tracks**\n\n该模组的主要工具是**齿轮对齐工具**。它允许玩家在安装后调整齿轮的放置位置、隐藏可见齿轮、重置齿轮设置，并为支持的装置启用悬挂式物理效果。这使得轨道对齐、车辆运动调整以及建筑最终外观的整理变得更加容易，无需频繁破坏和更换方块。\n\n### **主要功能**\n\n* **针对轨道的齿轮**，提供多种尺寸。\n* **工业齿轮变体** *（模型基于 Create: Gears n' Kinetics 模组中的工业齿轮）。*\n* **隐藏齿轮**，用于更整洁的建筑。\n* **齿轮对齐工具**，用于移动、隐藏、重置和微调齿轮。\n* **悬挂式物理效果**支持，用于履带车辆。\n* **可配置的**物理与运动设置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

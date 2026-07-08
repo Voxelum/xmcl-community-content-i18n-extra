@@ -1,0 +1,6 @@
+{
+  "bodyHash": "X58wR2JoLGY=",
+  "content": "## Bare Bones 3D Doors and Trapdoors\n\n為 Bare Bones 材質包添加了真正的3D門和地板門。它們擁有完整的3D模型、新的側面紋理，以及明顯可見的鉸鏈和鎖定機構。\n\n**這是 [Bare Bones](https://modrinth.com/resourcepack/bare-bones) 材質包的附加組件，必須安裝在其上方才能達到預期效果！**\n\n門在開啟和關閉時，紋理不會「跳動」！你可以在圖片集中看到差異，但在遊戲中使用流暢的門和地板門動畫會更明顯。建議的模組：\n\n[Fancy Door Animations](https://modrinth.com/mod/fancy-door-animations) 是最簡單但速度最快的模組，強烈推薦。\n\n[Fancy World Animations](https://modrinth.com/mod/fwa) 開發迅速，增加了不同的動畫風格和更多動畫物品，但代價是性能較低。\n\n[Physics Mod Pro](https://www.patreon.com/c/Haubna/home) 是 Physics Mod 的擴展版本，你可以從 Haubna 的 Patreon 頁面下載。這是一個完全不同的層級，擁有大量其他功能，但也包含門和地板門動畫。\n\n如果你不喜歡某些內容或發現了錯誤，請在我的 Discord 頻道告訴我。\n\n## 致謝\n\n門和地板門模型來自 [GeForceLegend](https://modrinth.com/user/GeForceLegend) 的 [3D Default](https://modrinth.com/resourcepack/3d-default) 材質包，採用 [GPL-3.0-only](https://spdx.org/licenses/GPL-3.0-only) 授權。\n所有紋理由我自己開發，同樣採用 [GPL-3.0-only](https://spdx.org/licenses/GPL-3.0-only) 授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

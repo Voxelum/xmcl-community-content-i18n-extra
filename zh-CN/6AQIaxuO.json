@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LvScRcdTo6I=",
+  "content": "# 这到底是什么玩意儿？\n\n[![fabric-api](https://images2.imgbox.com/8e/38/bfInI5qv_o.png)](https://modrinth.com/mod/fabric-api)\n[![badpackets](https://images2.imgbox.com/1b/01/DfkvHGbQ_o.png)](https://modrinth.com/mod/badpackets)\n\n> _\"_我对模组开发已经没兴趣了。_\"_\n> \\- TehNut\n\nHwyla 已经🦀啦！！1 现在我还怎么玩我的世界啊？？!!1!    \n别担心，各位女士们先生们，我给你们安排上了！\n\n隆重介绍 WTHIT —— 由 [TehNut](https://www.curseforge.com/members/tehnut) 开发的 [HWYLA](https://minecraft.curseforge.com/projects/hwyla) 的一个分支，而 HWYLA 本身又是 [ProfMobius](https://minecraft.curseforge.com/members/ProfMobius) 开发的 [WAILA](https://minecraft.curseforge.com/projects/waila) 的分支。    \nWTHIT 是一个模组，它会在游戏中添加一个信息提示框，显示玩家正在注视的方块（或流体）的相关信息。\n\n![触摸草地](https://images2.imgbox.com/24/15/jsEUqMnF_o.png)\n\n它还有一个 API，供其他模组添加关于它们自己方块的更多信息。\n\n### WTHIT 支持插件 X 吗？\n当然支持，不过请确保使用 Fabric Loader 0.11 或更高版本。\n\n### 它支持 [插入次要版本号] 吗？\n应该支持。每个版本括号里的数字是 WTHIT 编译时所使用的版本。    \n如果你出于某些原因（比如：哎呀，更新一下不就行了）想用旧版本，它应该也能与任何次要版本兼容。\n\n### 它是个纯客户端模组\n不是的。虽然一些简单的功能可能只需要客户端就能运行，但更高级的功能需要服务器也安装它。需要访问 NBT 数据（例如物品栏内容）的功能可能需要在服务器上安装 WTHIT。\n\n### 请重命名\n不。~~现在想想，\"我到底在看啥\" 这个名字可能更贴切 :/~~\n\n### 模组兼容性？\n可以看看 [Megane](https://modrinth.com/mod/megane)，它为 WTHIT 增加了与技术类模组的兼容性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

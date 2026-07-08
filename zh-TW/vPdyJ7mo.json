@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UlD8irp1SUs=",
+  "content": "# 縮放\n\n這個資料包允許伺服器或單機世界中的玩家，在使用 ```/trigger zoom``` 指令啟動「縮放模式」後，透過蹲下來進行縮放。\n\n\n\n\n## 資料包影片：\n<iframe width=\"280\" height=\"162\" src=\"https://www.youtube-nocookie.com/embed/_19KvvnP5RE\" title=\"Zoom Datapack Showcase\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n\n透過許多設定，你可以自訂伺服器中的玩家如何進行縮放：\n_____________________________________________________\n使用：```/function zoom:config``` 來開啟此選單：\n\n### --設定--\n### \n### 滾輪縮放：[開啟] [關閉]                                                               \n### 縮放強度：[25%] [50%] [75%] [100%]                                               \n### 顯示模式：[頂部] [中間] [底部] [關閉]                                           \n### 通知：[開啟] [關閉]                                                                \n\n______________________________________________________\n\n\n## 複製規則：\n_你可以下載並修改這個資料包，\n除了本頁面的連結之外，不得上傳到任何其他地方！_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

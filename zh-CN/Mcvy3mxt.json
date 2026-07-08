@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Fx4PKXKRFBM=",
+  "content": "# LC²H | 失落之城：多线程版\n\n<p align=\"center\">\n  <a href=\"https://crowdin.com/project/lc2h\">\n    <img src=\"https://badges.crowdin.net/lc2h/localized.svg\" alt=\"Crowdin\">\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/Admany/Quantified-API\">\n    <img src=\"https://i.imghippo.com/files/k1781Ug.png\">\n  </a>\n</p>\n\n---\n\n## 兼容性说明\n\n**官方支持并已测试：**\n\n- **C2ME**\n- **Sinytra Connector** *（V3.2.0 中修复了同步问题及加载器边缘情况）*\n- **Distant Horizons** *（V3.2.0 中修复了启动崩溃并实现了基于拉取的LOD采样）*\n\n以上模组均已在 **LC²H V3** 中验证，并标记为支持。\n\n---\n\n## LC²H 是什么\n\nLC²H 是针对 **失落之城（The Lost Cities）** 的性能与稳定性重构层。\n\n**V3 版本将完整的生成管线移出 Minecraft 主线程。**\n\n城市生成完全异步、并行，且安全应用。\n\n---\n\n## V3.0.0 – 工程奇迹\n\n从零开始重建，包含：\n\n- 基于任务的生成 API\n- 异步调度器\n- 并行工作池\n- 线程安全转换层\n- 多级缓存\n- 可选 GPU 加速\n\n---\n\n## 城市安全结构系统\n\n- 防止城市内生成结构\n- 移除漂浮植被\n- 清除世界生成瑕疵\n\n结果：**清洁的城市天际线**。\n\n---\n\n## 配置界面\n\n已移除指令。配置现在为 **游戏内界面**。\n\n路径：模组 → LC2H → 配置\n\n---\n\n## V3 为何快速\n\n- 基于拉取的主线程应用\n- 无队列溢出\n- 稳定的 TPS\n- 可预见的加载时间\n\n---\n\n## 转换层\n\n通过隔离不安全状态，使失落之城实现线程安全。\n\n---\n\n## 鸣谢\n\n**McJty** – *失落之城（The Lost Cities）* 的创造者。\n\n---\n\nLC²H – 版本 3.2.2  \n由 Admany – BlackRift Studios 创建  \n2026年1月28日",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

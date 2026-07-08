@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JNOq7J2g5JE=",
+  "content": "禁用使用我的資料包時出現的「已成功載入！」聊天彈窗。當你安裝了大量資料包而感到彈窗過多時，這個功能非常實用。\n\n如果彈窗仍然出現，請停用資料包，然後執行以下指令：\n\n```\n/datapack enable \"[NLP]\" last\n```\n\n支援的資料包：\n- [Simple Apple Trees](https://modrinth.com/datapack/simple-apple-trees)\n- [happyfied's Reimagined Crafting](https://modrinth.com/datapack/reimagined-crafting)\n- [The Grinding Table](https://modrinth.com/datapack/the-grinding-table)\n- [The Grinding Table - Biomass Addon](https://modrinth.com/datapack/tgt-biomass)\n- [Icyclo](https://modrinth.com/datapack/icyclo)\n- [Wooden Item Frames](https://modrinth.com/datapack/wif)\n\n此資料包採用 CC BY-NC-SA 4.0 授權。\n更多詳細資訊請參閱 LICENSE 檔案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

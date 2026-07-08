@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kNDj0tu/Pl0=",
+  "content": "## 簡介\n\n安裝此模組後，您就能像其他人一樣正常遊玩遊戲。真的就是這麼簡單。\n\n## 功能\n- 修復 `<1.20.2` 版本中 `Shift` + `滾輪` 無法運作（[MC-121772](https://bugs.mojang.com/browse/MC-121772)），以及 `>=1.20.2` 版本中方向反轉的問題\n- 停用 `Ctrl` + `左鍵` 模擬為 `右鍵` 的功能\n\n## 支援平台\n支援 arm64（M1）與 amd64（x64、Intel）架構。\n\n## 問題或意見回饋\n請使用 GitHub 問題回報平台：https://github.com/MinecraftMachina/McMouser/issues",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

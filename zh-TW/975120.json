@@ -1,0 +1,6 @@
+{
+  "bodyHash": "syBvwHcEMO4=",
+  "content": "<h1>無邊框方塊</h1><p>一個讓你能以無邊框全螢幕模式遊玩 Minecraft 的模組。這表示你可以讓遊戲保持開啟的同時，在其他顯示器上與其他應用程式互動，甚至直接在 Minecraft 遊戲畫面上方操作，遊戲也不會因此縮小化。</p><p>與其他「無邊框全螢幕」模組不同，<strong>無邊框方塊</strong>具有高度可設定性，不會影響你的輸入延遲，並且明確支援所有主要平台——Linux、macOS，甚至是 Windows——而非只為某一群玩家提供尚可的體驗，卻讓其他玩家感覺被忽略。</p><hr><h2>使用方法</h2><p>若要啟用無邊框全螢幕，請前往通常能找到<code>全螢幕</code>設定的<code>影片設定</code>分頁，將其切換為新增的第三個選項：<code>無邊框</code>。</p><p>根據你是否安裝了 Sodium，你可能會在以下其中一個位置找到此選項：</p><p><img src=\"https://raw.githubusercontent.com/Kira-NT/cubes-without-borders/HEAD/media/video-settings.webp\" alt=\"影片設定\"> <img src=\"https://raw.githubusercontent.com/Kira-NT/cubes-without-borders/HEAD/media/video-settings-sodium.webp\" alt=\"影片設定（Sodium）\"></p><p>此外，本模組還引入了 <code>--borderless</code> 啟動參數，可強制遊戲以無邊框全螢幕模式啟動，無論你目前的設定為何。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

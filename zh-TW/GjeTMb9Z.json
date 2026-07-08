@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NPiic4kVWoI=",
+  "content": "**Botania Slot** 是一款適用於 Minecraft Forge 的生活品質（QoL）與便利性模組，能改變你攜帶魔力的方式。不必再將魔力平板與魔力戒指佔用主要背包空間，現在你可以將它們裝備在專屬的飾品欄位中！\n\n---\n\n## 總覽\n\n如果你玩過 Botania，肯定知道為了維持工具運作，總得在背包裡塞滿魔力平板、光環戒指或魔力戒指的麻煩。\n\n此模組直接與 **Curios API** 整合，為你提供專門用來放置魔力物品的欄位。它能整理你的背包、讓魔力來源更有條理，還有一個額外優點：讓遊戲運行得更順暢。\n\n---\n\n## 功能\n\n* **專屬魔力欄位**：在 Curios 選單中新增兩個獨家的「Botania 魔力」飾品欄位（以護身符圖示標示）。\n* **裝備平板**：現在可以安全地將 **魔力平板** 與 **魔力戒指** 直接裝備到這些新欄位中，釋放你的主背包空間來收藏戰利品與方塊。\n* **智能過濾**：自訂欄位具有嚴格的過濾功能。只有有效的魔力承載物品才能放入其中，避免誤存不適用物品。\n* **效能加成**：一般情況下，Botania 每刻會掃描你 36 格背包來尋找魔力。此模組強制遊戲僅檢查這兩個指定的 Curios 欄位，大幅降低 CPU 使用率與伺服器延遲，是大規模模組包的必備良伴。\n\n---\n\n## 技術規格\n\n* **Minecraft 版本**：1.20.1\n* **Mod 載入器**：Forge 47.4.10+\n* **必要依賴**：[Curios API 5.4.1+](https://modrinth.com/mod/curios) 與 [Botania](https://modrinth.com/mod/botania)\n* **環境**：用戶端與伺服器端\n\n---\n\n## 鳴謝與支援\n\n**作者**：[SatDPhoe](https://x.com/SatPhoe)\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/satdphoe)\n\n[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/SatDPhoe)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

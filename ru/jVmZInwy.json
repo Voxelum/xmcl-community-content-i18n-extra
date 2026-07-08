@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bzrPjqveNVE=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/1n-klcWSeRE\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Описание\nGrim Reaper Combat добавляет в игру 4 оружия на тему Смерти и Жнеца. Эти предметы не спавнятся естественным образом и могут быть получены только с помощью команд.\n\nВидео с использованием этого мода приведено выше.\n\n## Содержание\n**_Серп_** — действует как булава и топор, при ударе разбивает щиты. 10 ударов заряжают кровавый бросок, который поднимает игрока в воздух.\n\n**_Глаз Дьявола_** — левый клик создаёт кровавый круг, запирающий игроков внутри. Попавшие в ловушку игроки не могут использовать инвентарь и получают слепоту и замедление. Пользователь внутри круга восстанавливает здоровье.\n\n**_Лук Жнеца_** — арбалет, который при полной зарядке замораживает игроков, в них попавших.\n\n**_Щит Жнеца_** — щит, который при блокировании ударов отбирает здоровье у нападающего.\n\n## Команды\n\n```\n/grimreaper give scythe\n```\n```\n/grimreaper give devils_eye\n```\n```\n/grimreaper give reapers_bow\n```\n```\n/grimreaper give reapers_shield\n```\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

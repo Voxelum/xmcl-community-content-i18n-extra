@@ -1,0 +1,6 @@
+{
+  "bodyHash": "E/Dk2AIqwpk=",
+  "content": "### Общие сведения\nКак следует из названия, этот мод призван предотвратить воздействие дневного света на мобы, то есть их несгорание под солнцем.\n\n### Клиентская или серверная сторона?\nОн необходим **только на стороне сервера**.\n\n### Могу ли я добавить этот мод в свой модпак?\nКонечно.\n\n### В чем разница с [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen)?\n\nРеальная разница заключается в производительности тиков. Мод Mob Sunscreen пытается устранять огонь каждый тик (20 тиков = 1 секунда) у каждого моба, в то время как игра пытается сжигать их под солнцем (подробности можно посмотреть [здесь](https://gitlab.com/kreezxil/Mob-Sunscreen/-/blob/1.19.2/common/src/main/java/com/kreezcraft/mobsunscreen/CommonClass.java)). Такое поведение ухудшает производительность тиков. Однако это излишне, поскольку Minecraft уже предоставляет эффективный способ решения этой задачи. Мод Protect Mobs From Daylight реализует его, отключая горение мобов под солнцем. Более подробную информацию вы можете найти в указанном коде [здесь](https://github.com/muhammedesadcomert/Protect-Mobs-From-DayLight/blob/multiloader-1.19%2B/common/src/main/java/com/muhammedesadcomert/protectmobsfromdaylight/common/mixin/MobMixin.java).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

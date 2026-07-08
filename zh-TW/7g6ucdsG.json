@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4Wgcx34dGp4=",
+  "content": "BreweryLib 是一個輕量級基礎庫，為 Alehouse Utilities 生態系統中所有模組的運行核心。它作為共享程式碼、通用功能與核心系統的中央樞紐，確保所有 Alehouse 模組能夠無縫協作。\n\n透過提供標準化日誌記錄器等共用 API 與工具，BreweryLib 不僅簡化了開發者的工作流程，更為使用者帶來更高的穩定性與相容性。若欲正常運行任何 Alehouse Utilities 模組，皆必須安裝此函式庫。您可以將其視為一座主釀造廠——所有 Alehouse 創作皆從此處汲取不可或缺的原料精髓。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

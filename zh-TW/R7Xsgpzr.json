@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5nG7oUVpAg=",
+  "content": "# 快速排序\n\n## 特色功能\n* **輕量級物品分類**：快速簡便地保持工作坊整潔有序。\n* **兼容原版系統**：無需在伺服器上新增任何方塊。\n* **僅需伺服器端**：客戶端無需安裝此模組。\n* **完全可自訂**：可自行定義快速排序箱的類型。\n\n## 使用方法\n* 在儲存區域中央放置一個綠寶石或鑽石方塊。\n* 在該方塊上方放置普通箱子，即可創建**快速排序器**。\n* 放入快速排序器的物品將自動分發至附近裝有匹配物品的箱子中。\n\n![](https://github.com/pcal43/quicksort/raw/main/etc/quicksort-demo2.gif)\n\n## 細節說明\n* 快速排序器與接收箱子之間必須保持視線暢通\n* 接收箱子必須位於以快速排序器為中心的立方體區域內\n* 快速排序器的範圍取決於使用的方塊類型：\n  * 綠寶石方塊：5 格距離\n  * 鑽石方塊：10 格距離\n* 物品傳輸不受視覺效果影響，即使看似未進入箱子也會完成傳送\n\n## 配置設定\n\n若要配置此模組，請遵循預設設定檔中的說明：\n\nhttps://github.com/pcal43/quicksort/blob/main/src/main/resources/quicksort-default-config.json5\n\n## 致謝\n\n#### 圖標元件由以下提供\n* [Minecraft Toolbox - Minecraft Chest PNG](https://flyclipart.com/minecraft-toolbox-minecraft-chest-png-50783)\n* [transparentpng.com](https://www.transparentpng.com/download/circle-vector-2_15270.html)\n* [freesvg.org](https://freesvg.org/8-directions-arrows)\n\n## 法律聲明\n\n本模組採用 [MIT 許可協議](LICENSE) 發布。\n\n只要註明出處為 pcal.net，您可自由將此模組包含於您的模組包中。\n\n## 有疑問？\n\n如有關於此模組的問題，請加入 Discord 伺服器：\n\n[https://discord.pcal.net](https://discord.pcal.net)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wQE+tLefxDY=",
+  "content": "**KubeJSable** — это дополнение для KubeJS, позволяющее взаимодействовать с **[Sable](https://modrinth.com/mod/sable)**! Оно включает несколько новых привязок и доступ к событиям Sable!\n\n# Особенности\n## Привязки\n- **Сервер**\n  - `Sable`\n  - `DimensionPhysics`\n  - `SubLevelContainer`\n  - `SubLevelHelper`\n    - С методом `getLoadingDependencyChain`\n  - `SubLevelAssemblyHelper`\n  - `SubLevelPhysicsSystem`\n- **Клиент**\n  - `Sable`\n  - `DimensionPhysics`\n  - `SubLevelContainer`\n  - `SubLevelHelper`\n- **Запуск**\n  - `Sable`\n  - `SubLevelHelper`\n    - С методом `registerWindProvider`\n  - `SubLevelHeatMapManager`\n## События\n- `PhysicsEvents`\n  - `pre` — отправляется перед физическим тиком\n  - `post` — отправляется после физического тика\n  - `ready` — отправляется после того, как `SubLevelContainer` готовится",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

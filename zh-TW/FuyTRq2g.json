@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QfEe8neo6YU=",
+  "content": "從 Create 6.0.8 開始，我建議改用 Create 內建的外圍設備，而不要使用這個模組。\n\n---\n\n這是 [Create](https://modrinth.com/mod/create) 和 [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) 的附加組件，可實現更靈活的物流管理和自動化。電腦現在可以透過連接的 Create 物流系統來請求包裹、追蹤包裹、查詢物品數量等——只需將相關方塊連接為外圍設備即可。透過 CC 運行你自己的自訂儲存系統、終端機、分析工具、自動合成機等，同時在你的建構中充分利用 Create 的儲存方案與自動化美學。\n\n目前支援作為外圍設備的方塊及其新增功能：\n- 股票行情機：分析網路的內容，監控透過庫存連結連接的庫存容量與滿載程度。\n- 青蛙埠與郵筒：操控包裹位址並分析包裹內容；為方塊本身分配新位址。\n- 紅石請求器：精細控制包裹訂單。\n- 剪貼板：讀取文字與物品條目；測量材料檢查表中所需的方塊數量。\n\n每個方塊的更多詳細資訊請參閱[參考頁面](https://xeli-cloud.gitlab.io/website/2025/05/11/cc-logistics-api-0.2.0.html)。\n\n---\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/49c2GvM3Eik\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n---\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/3KWeyLIjap0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GujcfD/HSDE=",
+  "content": "無 Fabric。也請勿移植。我（Amo）不希望有人在 Forge 頁面上詢問 Fabric 相關的問題。\n\n![帶有改良光柱的戰利品圖片](https://media.discordapp.net/attachments/981833808666054676/1152696982004047974/javaw_iJ5O9az5hs.gif)\n\n一個客戶端模組，為掉落物品添加色彩繽紛且可自訂的戰利品光柱！\n\n[**__在詢問為何看起來怪怪的之前，請先查看此處連結的配置預設__**](https://github.com/shiroroku/LootBeams/tree/1.20.1/Presets)\n\n戰利品光柱預設會套用至所有物品，並根據物品名稱改變顏色。你可以指定光柱的白名單/黑名單、顏色覆蓋，甚至使用 NBT 標籤來改變顏色！（例如 \"lootbeams.color:\"0xFFFFFF\"\"）。\n\n此外，光柱還附有名牌，當你看著物品或蹲下時會顯示，讓你不必撿起就能知道這是什麼物品。此模組為客戶端專用，意味著它可以在沒有安裝此模組的原版伺服器及 Forge 伺服器上運作。\n\n自 2023 年 9 月 17 日起，此模組的自訂功能經歷了重大更新。關於配置範例，請造訪此處。你可以透過資源包更改此模組的紋理和音效——包括軌跡紋理、粒子紋理、光柱紋理和發光紋理。\n\n有任何問題或需要協助嗎？[在此造訪我的 Discord 頻道。](https://discord.gg/2ZB6MKaTbx)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

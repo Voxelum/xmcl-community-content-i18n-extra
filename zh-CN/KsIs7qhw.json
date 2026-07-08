@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pc7jQbsjVt4=",
+  "content": "![横幅](https://cdn.modrinth.com/data/cached_images/76d2ed3a89c5f0e9b8b51a2fd560dd15a7df9f5e_0.webp)\n\n这是为模组[河豚技能](https://modrinth.com/mod/skills)设计的技能树，它还需要[河豚属性](https://modrinth.com/mod/attributes)模组。\n\n技能树包含3个分支（战斗、采矿、伐木），其中战斗分支最为有趣。\n战斗分支起始提供3条不同路径供选择，随后会进一步分为6条路径。**你必须选择自己的道路，其他路径将被封锁。**\n<details>\n<summary>战斗路径包括：</summary>\n  \n  1 近战              [近战伤害、生命值、攻击速度、治疗能力]\n  \n  2 远程              [远程伤害、跳跃提升、攻击速度、耐力]\n  \n  3 体能              [幸运值、冲刺速度、跳跃提升、生命值]\n  \n\n另外6条路径是上述3种路径的组合变体。\n\n</details>\n\n<details>\n<summary>采矿分支包含：</summary>\n  \n- 挖掘速度\n  \n- 镐子速度\n  \n- 铁砧修复成本\n  \n- 时运效果\n  \n</details>\n\n<details>\n<summary>伐木分支包含：</summary>\n\n- 斧头速度\n\n- 挖掘速度\n\n- 击退效果\n\n</details>\n\n**警告：完成整棵技能树后你会变得非常强大**\n\n如果你不喜欢这种设定或感到厌倦，建议下载类似[这个](https://modrinth.com/mod/rpgdifficulty)的模组进行平衡调整。\n\n**如何游玩？**\n通过以下方式获取技能经验值：\n- 击杀生物\n- 开采矿石\n- 砍伐树木\n\n积累足够经验后，你将获得技能点用于解锁技能。\n按K键打开技能树界面（使用标准操作控制）\n\n**模组整合包**\n\n你可以将此模组用于模组整合包\n\n**漏洞反馈、问题咨询与建议**\n\n如果发现漏洞或有疑问，可在Discord服务器中告知我\n若有改进建议，可通过私信直接联系我",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

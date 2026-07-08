@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3DBpIl2axco=",
+  "content": "<p><img src=\"https://imgur.com/TWLUjTG.png\" alt=\"\"></p><p>Veil 是一套精心设计的工具与实用程序合集，旨在帮助 Minecraft 模组开发者实现高级渲染功能。我们的目标是让 Java 版 Minecraft 能够呈现更现代的引擎级内容，突破模组开发的现有边界。</p><h2>关于 Veil：</h2><ul>\n<li><strong>颜色管理</strong>：高效管理颜色，并支持与主题搭配使用。</li>\n<li><strong>缓动函数</strong>：应用缓动函数以实现更自然的动画运动。</li>\n<li><strong>帧缓冲</strong>：通过 JSON 驱动的自定义帧缓冲功能。</li>\n<li><strong>后处理</strong>：自定义后处理管线，支持便捷的纹理绑定。</li>\n<li><strong>着色器</strong>：全面支持所有 OpenGL 着色器类型，未来可能加入 HLSL 与 Spir-V 支持。</li>\n<li><strong>着色器修改</strong>：注入并修改现有着色器，满足个性化需求。</li>\n<li><strong>亡灵法师</strong>：支持骨骼动画的模型，兼容独立实体骨骼与模型系统。</li>\n</ul><h2>相关链接：</h2><p>在开发者维基了解更多信息：&nbsp;<a href=\"https://github.com/FoundryMC/Veil/wiki\" rel=\"nofollow\">Veil 维基</a></p><p>探索我们的示例模组：<a href=\"\" rel=\"nofollow\">示例模组</a></p><p>加入我们的 Discord 频道：&nbsp;<a href=\"https://discord.gg/2aqTX9QWKU\" rel=\"nofollow\">Foundry Discord</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

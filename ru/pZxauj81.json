@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Eu1/3TzBrVc=",
+  "content": "![](https://i.imgur.com/AsiGOED.png)\n\n<div>\n    <a href=\"https://modrinth.com/mod/plasmo-voice\">Plasmo Voice</a>\n    <span> | </span>\n    <a href=\"https://modrinth.com/plugin/pv-addon-whisper\">Modrinth</a>\n    <span> | </span>\n    <a href=\"https://github.com/plasmoapp/pv-addon-whisper/\">GitHub</a>\n    <span> | </span>\n    <a href=\"https://discord.com/invite/uueEqzwCJJ\">Discord</a>\n     <span> | </span>\n    <a href=\"https://www.patreon.com/plasmomc\">Patreon</a>\n</div>\n\n# pv-addon-whisper\n\nСерверный аддон [Plasmo Voice](https://modrinth.com/mod/plasmo-voice).\n\nПо умолчанию шепот составляет половину текущего расстояния близости. Вы можете изменить процент в конфиге.\n\n## Использование\n\nОткройте меню Plasmo Voice `V` (по умолчанию), перейдите на вкладку `Activation` и настройте активацию `Whisper`.\n\n## Разрешения\n\nРазрешение на использование шепота: `pv.activation.whisper`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

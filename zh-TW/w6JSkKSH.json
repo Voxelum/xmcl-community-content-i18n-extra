@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CjWlEjK60xA=",
+  "content": "***僅需安裝在伺服器端。*** 移除伺服器端對玩家速度的限制，避免控制台出現「玩家 XYZ 移動過快」的訊息以及橡皮筋效應。\n\n程式碼主要源自 Random Patches 的速度限制模組，該模組採用 MIT 授權因此授權相容。不過老實說這功能也沒其他實作方式了：[原始碼](https://github.com/TheRandomLabs/RandomPatches/blob/1.16-forge/src/main/java/com/therandomlabs/randompatches/mixin/ServerPlayNetHandlerPlayerSpeedLimitsMixin.java)\n\n與 Random Patches 模組衝突。若已安裝 Random Patches 就無須安裝本模組。\n\nPatreon 與 Discord 支援\n\n歡迎到 [我的 Patreon](https://www.patreon.com/noobanidus) 贊助我！\n\n本模組所有支援服務都在 [我的 Discord]((https://discord.gg/9YVkaee) 上提供，您也可以追蹤我的最新動態並接收直播通知！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

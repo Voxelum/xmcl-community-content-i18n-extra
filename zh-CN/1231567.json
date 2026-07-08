@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WIenLvL5vrw=",
+  "content": "<p>API 功能特点：</p><ul>\n<li>库存GUI API</li>\n<li>Brigadier 的 Kotlin 封装</li>\n<li>用于创建复杂 <code>Text</code> 对象的 Kotlin DSL</li>\n<li>协程工具和任务</li>\n<li>Minecraft 类的 kotlinx.serialization 支持</li>\n<li>计分板（侧边栏）API</li>\n<li><code>ItemStack</code> 工具</li>\n<li>通过 kotlinx.serialization 将任意类序列化为 NBT</li>\n<li>NBT 构建器</li>\n<li>用于在区块、实体等上存储持久化数据的 API</li>\n<li>基于 kotlinx.serialization 的网络通信（c2s、s2c 和 c2c 数据包）</li>\n<li>Kotlin Compose UI 支持</li>\n<li>实体、世界等的通用扩展</li>\n<li>几何工具\n<h2><span>与原版的区别在于本版本已更新至 1.20.1，后续可能继续更新</span></h2>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

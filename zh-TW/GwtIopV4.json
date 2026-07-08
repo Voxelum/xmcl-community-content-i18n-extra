@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hEgTPDsP8f0=",
+  "content": "# Scorched Guns 2：NeoForge 移植版\n\n**非官方 Scorched Guns 2：NeoForge 移植版** 將原版 [Ribs498 製作的 Scorched Guns 2]（0）的體驗帶入 **Minecraft 1.21.1** 的 **NeoForge** 版本。\n\n此移植版專注於在較新的 Minecraft 版本中保留原版模組的硬派槍械戰鬥、自訂彈藥系統、配件、敵對生物、建築結構、戰利品、機器、砲塔和 ExoSuit 玩法。\n\n## 功能特色\n\n- 大量槍械與自訂武器庫\n- 多種彈藥類型與彈匣\n- 武器配件與槍枝自訂\n- 原版模組的敵對生物\n- 內含戰利品的世界建築結構\n- 砲塔與戰鬥機器\n- 槍械工作台與合成相關系統\n- ExoSuit 裝備與升級機制\n- 自訂粒子、投射物、音效與效果\n- 支援單人、多人與專用伺服器\n- **可選相容 Punchy** - 當 scguns 被列入黑名單時，不再有過度的雙手晃動\n- **可選相容 Fresh Animations：玩家擴展 / 實體模型功能** - 第一人稱手部動畫精準，第三人稱手部動畫與當前使用的武器綁定\n- **可選相容 Create Aeronautics：槍枝可破壞實體方塊，砲塔可建造於其上**\n- **可選相容 Guard Villagers：守衛可完整使用槍械，且生成時可能已攜帶低階槍枝**\n\n## 需求條件\n\n此移植版需要：\n\n- **Minecraft 1.21.1 版本的 NeoForge**\n- **Framework**\n- **Curios**\n- **GeckoLib**\n\n啟動遊戲前請確保所有必要相依模組已安裝。\n\n## 多人與伺服器支援\n\n此移植版已在以下環境測試：\n\n- 客戶端啟動\n- 世界載入\n- 專用伺服器啟動\n- 多人連線\n- 武器射擊與裝填\n- 建築結構生成與戰利品\n- 生物生成\n- 砲塔\n- 機器\n- ExoSuit 圖形介面與抬頭顯示器行為\n\n## 備註\n\n這是 Scorched Guns 2 的 NeoForge 1.21.1 移植版，並非全新原創模組。目標是在較新的 Minecraft 版本中維持原版遊戲體驗，同時盡可能保留原始模組的風格與系統。\n\n可能仍有少量視覺或資產相關的警告訊息，但此移植版已通過遊戲性與伺服器的冒煙測試。\n\n## 致謝\n\n原始 Scorched Guns 2 的概念、資產與遊戲內容歸屬於 Ribs498 及原始模組貢獻者。\n\n此專案為 NeoForge 1.21.1 的移植版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

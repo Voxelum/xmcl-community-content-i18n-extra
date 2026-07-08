@@ -1,0 +1,6 @@
+{
+  "bodyHash": "o1VsIZX2Aho=",
+  "content": "# 随便坐！\n你可以在楼梯和台阶上坐下，实际上，想坐哪儿都行！\n\n## ⚙️ 服务端安装！\n如果你只在服务器或局域网世界中安装此数据包/模组，其他玩家无需安装即可使用！\n\n## 📖 操作说明：\n想要在任何表面上坐下，只需低头看地，快速双击潜行键，然后右键点击即可！:D\n\n若想坐在台阶或楼梯上，只需站在上面并右键点击即可。就是这么简单。\n\n或者直接使用 `/trigger sit` 指令（仅限2.3.0及以上版本）\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BWtH6_-mDMw?si=AJPLYbOrlK8Yemnn\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n## 🤔 为什么这个项目比其他同类更优秀？\n- 因为它本质是一个数据包，这意味着你只需将其放入地图或服务器，任何人都无需额外安装即可使用！\n- 我确保它同时支持数据包和模组形式，这样它可以在你创建的任何世界中生效！实现最大灵活性。想在特定世界使用？用数据包。想在所有世界都生效且无需额外设置？用模组！\n- 灵活且不突兀：与许多坐姿模组一样，你可以坐在任何楼梯或台阶上。但你需要先站在上面！因为我曾因没有这个设定而误坐太多次。但你也可以坐在任何其他地方！不限于台阶或楼梯。这些方块只是提供了明确的坐下位置，能让人物居中。\n- 核心基于数据包而非模组，因此不太容易被未来的Minecraft更新破坏。仍有可能，但概率更低。\n\n## ⤵️ 安装方法：\n### 数据包：\n下载最新版本，将数据包  `.zip` 文件放入Minecraft世界的datapacks文件夹。\n### 模组：\n下载最新版本，将模组  `.jar` 文件放入Minecraft游戏的mods文件夹。\n\n## ✍️ 反馈、问题与建议\n我随时倾听！如果你有任何问题、建议，或遇到了bug，欢迎加入我的Discord服务器，在\"模组与数据包\"板块寻求帮助。[点击加入服务器](https://discord.gg/kwzQWS4)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

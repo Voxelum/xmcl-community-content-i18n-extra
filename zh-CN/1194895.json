@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lbzjfL2+4OM=",
+  "content": "<h1>增强标签页</h1>\n<p>可在玩家列表显示生物生成上限、TPS、MSPT及自定义文本</p>\n<p><img src=\"https://cdn.modrinth.com/data/woulhAPh/images/c05ee2c79539b64eec90a348eb4c4478579bf3a1.png\" alt=\"增强标签页\"></p>\n<h2>指令</h2>\n<ul>\n<li><code>/rg showTPS true|false</code> - 在标签页显示TPS和MSPT</li>\n<li><code>/rg showMobcaps true|false</code> - 在标签页显示生物生成上限</li>\n<li><code>/rg showCustomeLine [自定义文本]</code> - 在标签页显示自定义消息</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

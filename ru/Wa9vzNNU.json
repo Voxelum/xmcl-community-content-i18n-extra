@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rjNhn2vppVQ=",
+  "content": "# Обзор\nЭтот мод — дополнение к [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat), которое позволяет вашему голосу взаимодействовать с вибрациями, влияя на такие элементы, как датчик скулка, крикун скулка и Страж!\n\nКроме того, мод настраиваемый, так что вы можете подстроить его под свои предпочтения.\n\n## Разработка\nМод также содержит API, позволяющий разработчикам передавать собственные вибрации с помощью той же частоты.\n\nbuild.gradle\n```\ndependencies {\n  implementation \"com.codinglitch.vibrativevoice:vibrativevoice-api:API_VERSION_HERE\"\n}\n```\nВы можете перейти на [https://versions.codinglitch.com](https://versions.codinglitch.com), чтобы посмотреть последнюю версию API.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

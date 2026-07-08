@@ -1,0 +1,6 @@
+{
+  "bodyHash": "W7+X+4sSZXg=",
+  "content": "![Packet Ninja Logo](https://cdn.modrinth.com/data/eKxg8CAG/images/e1584128763a58d11bd10b0af281a74509aad812.png)\n\n<p>一個用於自訂傳入與傳出封包紀錄的實用模組。\n<p>目標是讓處理封包，特別是在開發過程中，能更容易進行除錯！ :)\n\n## 螢幕截圖：\n\n![螢幕截圖 1](https://cdn.modrinth.com/data/eKxg8CAG/images/e5dc3ff37994b082832ef8169f5f08c74f6fac9b.png)\n\n![螢幕截圖 2](https://cdn.modrinth.com/data/eKxg8CAG/images/bdb47d8e239219df24ccf3cf1c38baa2b409cff6.png)\n\n![螢幕截圖 3](https://cdn.modrinth.com/data/eKxg8CAG/images/5f4375c27cdab26a055c7a15b31266f9015ff743.png)\n\n## 功能特色：\n\n### 精美的封包格式化：\n\n目前計畫支援所有封包；以下為基礎功能的完整格式化：\n\n#### 客戶端傳送\n\n- ClientboundAddEntityPacket\n- ClientboundCustomPayloadPacket\n- ClientboundRemoveEntitiesPacket\n- SetPassengersHandler\n\n#### 伺服器端傳送\n\n- ServerboundInteractPacket\n- ServerboundPlayerActionPacket\n- ServerboundSwingPacket\n\n> ⚠️ 警告\n> 此模組仍在積極開發中，並非所有封包類型都有完善的格式化（若有的話）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

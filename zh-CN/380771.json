@@ -1,0 +1,6 @@
+{
+  "bodyHash": "q/L9aFj5vFw=",
+  "content": "<h2>指南API-VP版</h2><p>本模组是基于TehNut和Tombenpotter开发的Guide-API原版分支，遵循MIT许可协议发布。<br>\n使用不同的包名和模组ID(guideapi-vp)。</p><p>可便捷地为您的模组创建指南手册。<br>\n手册主要由Guide-API维护（包括注册、专属创造模式标签页等功能）。</p><p>与Patchouli等JSON驱动的方案不同，本指南书主要通过代码实现，这意味着：</p><ul>\n<li>可根据模组配置动态增减内容</li>\n<li>自动处理文本换行与分页，完美适配本地化文本</li>\n<li>支持引用当前按键绑定设置</li>\n<li>绑定内部常量与平衡参数，模组数值变更自动同步至手册</li>\n<li>可自定义页面类型、配方展示等模块</li>\n<li>通过辅助方法自动生成手册内容组件</li>\n</ul><p><strong>其他特性：</strong></p><ul>\n<li>非强制依赖——运行时若未安装Guide-API仅缺失手册功能，不影响模组其他内容</li>\n<li>支持TextFormatting格式代码与手动换行符\\n</li>\n<li>预制多种页面模板：文本页、物品/方块聚焦页、配方页、图片页等</li>\n</ul><h4>使用本API的模组：</h4><ul>\n<li>吸血鬼模组(Vampirism)</li>\n</ul><h4>如何集成到您的模组：</h4><p><a href=\"https://github.com/maxanier/Guide-API#developer-information\" rel=\"nofollow\">开发者文档</a></p><h4>鸣谢</h4><p>原版作者：TehNut与Tombenpotter<br>\n分支维护：Maxanier</p><h4>许可协议</h4><p>采用MIT许可证，允许自由分叉修改。<br>\n欢迎整合到您的模组包中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

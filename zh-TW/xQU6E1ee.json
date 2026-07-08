@@ -1,0 +1,6 @@
+{
+  "bodyHash": "E3/MwlhGCAI=",
+  "content": "在原始 Minecraft 中，豬布林很容易被黃金吸引，不會攻擊穿戴黃金盔甲的玩家。安裝此模組後，黃金的干擾效果將延伸至任何使用黃金紋理裝飾的盔甲！\n\n## 常見問題\n\n### 此效果能否套用於其他紋理材料？\n可以。基礎模組僅針對黃金材質，但您可以透過資料包標籤將此效果套用至其他材料。只要材料被列入 `distractingtrims:distracts_piglins` 標籤中，就會產生此效果。\n\n### 普通黃金盔甲仍能讓豬布林分心嗎？\n是的，此模組僅擴展功能到同時考慮盔甲的紋理裝飾。\n\n### 這是伺服端還是用戶端模組？\n為達最佳效果，建議在用戶端與伺服端皆安裝此模組。雖然僅安裝在伺服端可能也能運作，但未經完整測試，且不提供明確支援。\n\n<h2>致謝與聯絡</h2>\n<p>喜歡這個模組並想支持我嗎？</p>\n<ul>\n<li>在 <a href=\"https://twitter.com/DarkhaxDev\" rel=\"nofollow\">Twitter</a> 上追蹤我</li>\n<li>加入我的 <a href=\"https://discord.darkhax.net/\" rel=\"nofollow\">Discord</a></li>\n<li>逛逛我的 <a href=\"https://darkhax.net/\" rel=\"nofollow\">網站</a></li>\n</ul>\n\n[![Nodecraft 贊助橫幅](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**本專案由 Nodecraft 贊助。使用代碼 [DARKHAX](https://nodecraft.com/r/darkhax) 即可享有首月服務 30% 折扣！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

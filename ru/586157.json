@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gQKVwLO+RgM=",
+  "content": "<h4 style=\"text-align:center\"><em><strong><strong><em>Некрономикон</em></strong></strong></em></h4><p style=\"text-align:center\"><em><strong>Утилитарный API для моих модов.</strong></em></p><p style=\"text-align:center\">&nbsp;</p><p style=\"text-align:center\">Он включает в себя собственную систему конфигураций, а также различные утилиты для генерации данных, генерации мира, реестров, разработки многозагрузчиков и прочие разные вещи.</p><p style=\"text-align:center\">Смело используйте его в своих проектах — он снабжён небольшой документацией в формате Javadoc.</p><p style=\"text-align:center\">&nbsp;</p><p style=\"text-align:center\">Интеграция с помощью Modrinth Maven</p><p style=\"text-align:center\">&nbsp;</p><pre><code>maven {\n    url \"<a href=\"/linkout?remoteUrl=https%253a%252f%252fapi.modrinth.com%252fmaven\" target=\"_blank\" rel=\"nofollow\">https://api.modrinth.com/maven</a>\"\n}</code></pre><p>Fabric</p><pre><code>dependencies {\n    modImplementation \"maven.modrinth:necronomicon:${project.necronomicon_version}-fabric\"\n}</code></pre><p>Forge</p><pre><code>dependencies {\n   implementation fg.deobf(\"maven.modrinth:necronomicon:${project.necronomicon_version}-forge\")\n}</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

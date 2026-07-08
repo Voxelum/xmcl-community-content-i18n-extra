@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jt/yKP40/Mc=",
+  "content": "<p><img src=\"https://tr7zw.dev/curse/disguiseheads-logo.png\" alt=\"\"></p><p><a href=\"https://discord.gg/2wKH8yeThf\" rel=\"nofollow\"><img src=\"https://tr7zw.dev/curse/Discord-long.png\" alt=\"Discord\"></a><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fO5O7ACGRH\" rel=\"nofollow\"><img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" alt=\"ko-fi\"></a></p><h1>偽裝頭顱</h1><p>當佩戴玩家頭顱時，此模組不會僅僅讓頭部稍微變大，而是會視覺上替換整個皮膚。本模組並未新增獲取玩家頭顱的方式，但我推薦在單人遊戲/原版伺服器中使用<a href=\"/linkout?remoteUrl=https%253a%252f%252fvanillatweaks.net%252fpicker%252fdatapacks%252f\" rel=\"nofollow\">Vanilla Tweaks 玩家頭顱掉落</a>資料包，而 Spigot/Paper 則有許多選項，例如<a href=\"https://dev.bukkit.org/projects/player-heads\" rel=\"nofollow\">玩家頭顱</a>。若要測試，原版的給予指令 <code>/give @p player_head{SkullOwner:使用者名稱} 1</code> 總能讓您取得並隨意使用任何想要的皮膚。</p><p>由於此模組純屬視覺效果且完全在客戶端運作，因此無需安裝在伺服器上，且適用於任何地方！</p><h2>依賴項目</h2><ul>\n<li>無</li>\n</ul><h2>已測試相容</h2><ul>\n<li>第一人稱模組</li>\n<li>動畫不足</li>\n<li>3D 皮膚層</li>\n<li>Sodium</li>\n<li>Iris</li>\n<li>Optifine</li>\n</ul><p>支援請透過 <a href=\"https://discord.gg/2wKH8yeThf\" rel=\"nofollow\"><img src=\"https://tr7zw.dev/curse/Discord.png\" alt=\"Discord\"></a> 或 <a href=\"https://github.com/tr7zw/DisguiseHeads\" rel=\"nofollow\">Github</a>！留言區並非用於回報錯誤/崩潰/尋求協助。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "icB7jZwjSsQ=",
+  "content": "![Resonance 橫幅](https://cdn.modrinth.com/data/cached_images/fb74dbf5ea4b4dcc1dde10cba3c795696ed864fa_0.webp)\n---\n\n**Resonance 是一款跨平台客戶端模組，它會根據不同條件播放環境音效，包括：不同生態域、附近的方塊、時間、季節（若安裝了 Serene Seasons 模組）等。**\n\n隨著 1.21.5 版本新增了環境沙粒音效和螢火蟲灌木音效，我認為遊戲在環境氛圍方面還有更多可以發揮的空間，包括增加更多種類的音效，讓遊戲世界感覺更加生動。Resonance 正是為了解決這個問題而誕生。**與其他環境音效模組不同，Resonance 並非簡單播放一個包含生態域所有音效的循環音軌，而是根據特定條件組合播放閒置循環音效和額外音效。** 這使得遊戲更具沉浸感，與其他模組相比，能為你周圍的環境氛圍帶來更真實的感受，同時又不偏離原版遊戲既有環境音效的風格。\n\n除此之外，Resonance 還根據距離播放不同的音效來增強雷聲效果，讓暴風雨現在感覺比以往更加威懾人心。**當然，這一切以及其他提到的功能都可以進行配置。**\n\n# 常見問題\n\n<details>\n<summary>這個模組會回溯移植到 X 版本嗎？</summary>\n\n**不會**，請不要要求回溯移植。本模組將會更新至新版本，但絕不會移植到 1.21.5 之前的任何版本。不過，你可以自行進行回溯移植，**但請務必註明該移植版本是非官方的。**\n\n</details>\n<details>\n<summary>其他新增生態域的模組會有環境音效嗎？</summary>\n\n會的，只要模組新增的生態域使用常規標籤（例如 `#c:is_forest`），大多數模組都會使用這些標籤，所以請隨意使用你想要的任何生態域模組！\n\n</details>\n<details>\n<summary>我可以在連接到非模組伺服器時使用這個模組嗎？</summary>\n\n當然可以！Resonance 是一個客戶端模組，不依賴任何伺服器功能。請隨意在你喜歡的任何伺服器上遊玩時使用這個模組！\n\n</details>\n\n<details>\n<summary>我可以在我的模組包中使用 Resonance 嗎？</summary>\n\n可以！Resonance 可以免費用於任何你想加入的模組包中。沒有任何附加條件。\n\n</details>\n\n\n\n# 聲明\n所有非公共領域或未採用 CC0 授權的音效，其出處皆標註於[此處](https://github.com/TalonFloof/Resonance/blob/main/ATTRIBUTION.md)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

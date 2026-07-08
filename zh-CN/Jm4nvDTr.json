@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tRqT0h6Fm/U=",
+  "content": "**Sable 碰撞伤害** 为 Sable 子层级结构添加了基于冲击的伤害机制，主要针对 Create: Aeronautics 的飞船设计。\n\n当物理结构以足够大的力量撞击世界（或其他结构）时，方块会因碰撞而碎裂，将撞击转变为真正的后果，而非无害的碰撞。此功能适用于以下需求：\n\n- 更真实的飞船物理机制，以及“着陆失误会付出代价”的游戏体验\n- 船对船冲撞及事故产生可见后果\n- 一种轻量化的方式，为 Sable 驱动的装置增加危险，而不影响模组包的其他内容\n\n配置文件（位于 `sablecollisiondamage-common.toml`）：\n\n1. `minBreakSpeed`：触发方块碎裂所需的最小碰撞速度\n1. `staticSlowdownPerBlock`：每个碎裂方块带来的额外减速效果（有助于防止连锁破坏）\n\n**演示**：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/pRTfMe4_vxg\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n兼容性说明：本模组设计为与 Sable 自身的特殊方块行为共存（例如，TNT 仍保持原有处理逻辑）。\n\n[类似此模组，但基于 Valkyrien Skies](https://modrinth.com/mod/vs-collision-damage)\n\n此为 Alpha 版本，仅实现了少量功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

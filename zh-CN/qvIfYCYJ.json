@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WofBJ97Y/uU=",
+  "content": "# 缝合面料API (QFAPI) 和 缝合标准库 (QSL)\n\nQuilt生态系统的基本标准库。QSL为模组开发者提供了Quilt独有的工具，以添加新的和令人兴奋的功能到他们的模组中，而缝合面料API则提供了与使用Fabric API的Fabric模组的兼容性。\n\n**此项目需要Quilt加载器！**\n\n## Quilt项目\n\nQuilt项目是一个开源的、社区驱动的模组工具链，主要为Minecraft设计。通过专注于速度、易用性和模块化，Quilt旨在提供一个简洁和现代的模组工具链，拥有一个开放的生态系统。\n\n在[我们的网站](https://quiltmc.org)上了解更多关于Quilt的信息。\n\n## 注意事项\n\n**Quilt目前仍在开发中，处于测试阶段。** 这意味着可能会出现一些问题，但我们将尽最大努力尽快修复它们。\n\n缝合面料API不支持Fabric API的大多数“实现细节”。使用实现细节的模组可能在Fabric上工作，但在Quilt上将无法工作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SyrZfpvOEJI=",
+  "content": "## 這是什麼？\n這個材質包會顯示 Minecraft 中**每一件盔甲的精確耐久度**。\n包含皮革、鎖鏈、鐵、金、鑽石和獄髓盔甲。\n\n![圖片顯示所有盔甲類型](https://cdn.modrinth.com/data/cached_images/3a88bf670789972721cecd75f30c98e386341575.png)\n\n## 如何使用？\n### 選項 1 – Fabric 使用者（1.21.1 及以下版本）\n**需要安裝**：[Cit Resewn Mod](https://modrinth.com/mod/cit-resewn)\n\n1. 將 CIT Resewn 安裝到你的 mods 資料夾中。\n\n2. 將材質包放入你的 resourcepacks 資料夾並啟用它。\n\n### 選項 2 – Forge 或原版使用者\n**需要安裝**：[OptiFine](https://optifine.net/downloads)\n\n1. 安裝 OptiFine。\n\n2. 進入遊戲後，前往 影片設定 → 品質 → 啟用自訂物品。\n\n3. 將材質包放入你的 resourcepacks 資料夾並啟用它。\n\n### 選項 3 – Fabric 1.21.4+ 及以上版本使用者\n\n我為在 Fabric 1.21.4-1.21.11 上遊玩的玩家製作了一個材質包。\n\n快來看看吧！\n- https://modrinth.com/resourcepack/visible-durability\n\n## 回報的錯誤\n- 若在 Fabric 上使用 OptiFine，此材質包無法正常運作。你必須使用 CIT Resewn。至於 FPS 表現，我推薦使用 [Sodium](https://modrinth.com/mod/sodium)。\n- 部分盔甲（如黃金盔甲）在耐久度接近 100 時會顯示不正確的數值。（如果你知道怎麼修復，請在 Discord 上聯絡我，我會更新這個材質包 😀）\n\n## 伺服器允許使用嗎？\n我？違反規則？絕不 😇 ……不過，保險起見，還是先問問管理員吧 👀\n\n## 聯絡方式\n想在商業專案中使用這個材質包，或有任何建議？歡迎聯絡我！\n\nDiscord：IDreamAboutYou2\n\nMedaltv：https://medal.tv/u/IDreamAboutYou\n\n## 贊助\n\n☕ 想讓我保持清醒繼續做酷東西嗎？請我喝杯咖啡：https://coff.ee/idreamaboutyou",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

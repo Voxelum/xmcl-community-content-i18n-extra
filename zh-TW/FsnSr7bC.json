@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rM0apolEtG4=",
+  "content": "Fexcraft 通用函式庫（簡稱 'FCL'）\n\nFCL 是一個函式庫模組，包含我多個模組中使用的各種工具。\n部分功能：\n- 自動註冊（1.12）\n  - 基於註解，只需一行代碼即可註冊內容，例如：\n    - 方塊（含或不含變體）\n    - 方塊實體（與方塊一起註冊）\n    - 物品（含或不含變體）\n    - 方塊實體特殊渲染器\n- 模型（1.12）\n  - FCLItemModelLoader - 自訂模型載入器，可自訂渲染物品模型\n  - FCLBlockModelLoader - 使用 TMT 模型的自訂方塊（靜態）模型載入器\n- TMT - Fexcraft TMT 分支的官方發行版\n- FRL - Fex 的渲染/函式庫\n- GUI 函式庫/封裝\n- 通用 JSON UI 函式庫\n- 適用於使用 FCL ConfigBase 模組的通用設定介面",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

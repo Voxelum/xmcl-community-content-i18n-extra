@@ -1,0 +1,6 @@
+{
+  "bodyHash": "etYq/jXoF7Q=",
+  "content": "<h2>0. ProbeJS v8.0</h2><p>歡迎來到未來！由於 TypeScript 經歷了一次重大更新，棄用了 ProbeJS 在 v7.7.2 中的型別結構，我們重寫了本模組與擴充套件，以相容新的 TypeScript 版本（並希望向下相容先前的 TypeScript 版本）。</p><p>然而，由於 <code>TypeScript Native</code>（<code>tsgo</code>）尚未完全實作，部分功能目前缺失；待 TypeScript Native 就緒後，我們將持續更新以補上遺漏的功能。</p><p>v8.0 的新功能：</p><ul>\n<li><code>tsgo</code> 相容型別宣告。TypeScript Native 是以 Go 語言編寫的全新 TypeScript 編譯器，速度比原始 TypeScript 快 10 倍，且記憶體佔用更低。我們已在 ATM10 上測試 <code>tsgo</code>，其物品文字補全時間低於 500 毫秒，類別/事件補全則可即時完成。</li>\n<li>提供圖形化介面，讓您輕鬆在遊戲中設定模組並檢視傾印進度。此外，由於 <code>tsgo</code> 尚未支援語言外掛，您可透過該介面將 <code>require()</code> 轉換為 <code>Java.loadClass()</code>。</li>\n<li>（希望如此）更正確的型別生成。由於重寫了型別解析邏輯，先前版本的多數問題現已解決。</li>\n<li>強化對代理程式與大型語言模型（LLM）的支援。您現在可以讓 DeepSeek 或 GPT 等 AI 生成 100% 正確的 KubeJS 程式碼！</li>\n</ul><h2>1. 安裝方式</h2><ol>\n<li>取得 VSCode。並安裝 Microsoft 提供的 <code>Typescript (Native Preview)</code> 擴充套件。</li>\n<li>安裝本模組，<strong>同時</strong>安裝 ProbeJS VSCode 擴充套件。</li>\n<li>在遊戲中使用 <code>/probejs</code> 指令，並點擊傾印按鈕。</li>\n<li>在 VSCode 中開啟 <code>.minecraft</code> 資料夾，應可看到程式碼片段與型別功能正常運作。</li>\n<li>如需重新整理生成的型別，請重新傾印。若 VSCode 未回應檔案變更，請重啟 VSCode 以強制重新整理擴充套件與語言伺服器。</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

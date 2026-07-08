@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EHFem9nxIDg=",
+  "content": "## 使用方法？\n\n对于支持的灯笼，将灯笼放置在方块的侧面，灯笼便会附着在该侧面。\n\n## 兼容性\n\n继承自原版灯笼的灯笼会通过动态方块实体自动获得支持。这并**不**涵盖所有灯笼，但应该能覆盖绝大多数。\n\n<details>\n<summary>面向开发者</summary>\n\n如果你的灯笼继承了`LanternBlock`且**没有**覆写`getStateForPlacement`方法，该方块实体将自动支持它。如果你的灯笼未继承`LanternBlock`，或者你**确实**覆写了`getStateForPlacement`方法，则应自行实现墙壁悬挂功能。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

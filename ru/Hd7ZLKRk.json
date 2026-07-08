@@ -1,0 +1,6 @@
+{
+  "bodyHash": "N+RJ2vHAmmo=",
+  "content": "GoogleChat автоматически переводит все сообщения, отправленные или полученные клиентом, на/с настроенного языка с помощью Google Translate через LibJF.\n\nОба направления перевода можно настроить, а сам GoogleChat можно полностью отключить в конфигурации; однако серверно-специфические настройки пока не реализованы.\n\nЕсли вы хотите использовать GoogleChat на стороне сервера (что, кстати, поддерживается), рекомендуется следующая конфигурация:\n```json\n{\n  \"enabled\": true,\n  \"serverLanguage\": \"en\",\n  \"clientLanguage\": \"auto\"\n}\n```\n\nТакже следует включить previews-chat в вашем server.properties, чтобы разрешить переводы подписанных сообщений.\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"Предложения и поддержка\" src=\"https://img.shields.io/badge/Предложения%20и%20поддержка-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eEze9U/FhS0=",
+  "content": "## 可建造的解除附魔多結構資料包\n\n### 功能特色\n可建造的多結構方塊，用於將工具/盔甲的附魔轉移到書本上\n\n### 建造方式\n\n設置：\n```\nЮ|\n>\n```\n\nЮ：minecraft:grindstone（任意方向）\n\n\\>：minecraft:lectern（任意方向）\n\n\\|：minecraft:item_frame（放置於砂輪上，任意位置）\n\n### 使用指南\n\n將工具放入物品展示框\n\n將可書寫的書本放入講台\n\n→ 帶有工具附魔的附魔書將會彈出",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

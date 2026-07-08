@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7JOOLMxsxK8=",
+  "content": "# 玩家經驗值\n與你的寶可夢並肩作戰時獲得經驗值。\n\n此模組同時支援客戶端和伺服器端，但在伺服器上只需安裝在伺服器端即可運作。\n\n## 特色\n這個模組很簡單，它會根據寶可夢的經驗值給予玩家經驗等級。在遊玩沒有生物生成的 Cobblemon 時，這點非常重要，因為唯一其他獲得經驗的途徑只有村民。\n\n## 設定選項\n你可以在以下路徑找到設定檔：`config/playerxp/playerxp.json`\n\n`shouldGiveLevels` - true / false - 是否給予等級而非經驗值。\n\n`baseXP` - 每級寶可夢應給予玩家多少經驗值。\n\n`baseLevels` - 若 shouldGiveLevels 設為 true，每級寶可夢應給予玩家多少等級。\n\n## 依賴項目\nCobblemon：[Modrinth](https://modrinth.com/mod/cobblemon) / [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cobblemon/files/5375408)\n\nFabric-Loader：[Fabric-Loader](https://fabricmc.net/)\n\nFabric-Api：[Modrinth](https://modrinth.com/mod/fabric-api) / [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/6321634)\n\nNeoforge：[Neoforge](https://neoforged.net/)\n\n# 我的其他模組\n[![Cobblemon：SafePastures](https://cdn.modrinth.com/data/qpe01spE/7aa6cfd294ab0004d2fd7cbe7878ba54025961b9.png)](https://modrinth.com/mod/cobblemon-safepastures)\n\n# 委託製作\n如果你有一個想實現的模組點子，我目前在 Fiverr 上接受委託製作。\n\n[Fiverr](https://www.fiverr.com/chadthemarketer/develop-a-fabric-or-neoforge-minecraft-mod)\n\n# 聯盟行銷\n\n[![Pebblehost](https://cdn.modrinth.com/data/cached_images/f02a9254238a952f4b556b1bdf964860c62225ac.gif)](https://billing.pebblehost.com/aff.php?aff=1063)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

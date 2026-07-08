@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5cCya3aOjpc=",
+  "content": "如果你想將這個模組加入你的模組包，歡迎隨意使用 :)\n\n這個模組新增了一個名為「顯示器」的方塊，讓你可以直接展示來自 Imgur 的圖片（僅允許使用 Imgur 以防止顯示色情內容）。<br>\n最大允許尺寸為 8x8（預設值）。要顯示圖片，只需右鍵點擊方塊並貼上圖片網址（例如「https://i.imgur.com/W7lJrbu.jpeg」或「W7lJrbu」）。<br>\n僅允許 png、jpg、jpeg 或 gif 檔案。\n\n![8x8 顯示器](https://cdn.modrinth.com/data/2LYmwlgc/images/c6a848a16b586c24cc200bc3fcad86cd264b71c6.png)\n![帶有範例圖片的 8x8 顯示器](https://cdn.modrinth.com/data/2LYmwlgc/images/20eb12f0ef3043ba8cd1a986935206697f8c6525.png)\n![帶有範例 gif 的 8x8 顯示器](https://i.imgur.com/wiwHhmV.gif)\n\n![顯示器介面](https://cdn.modrinth.com/data/2LYmwlgc/images/d649f86113615566b51a8a93a6e2e497afad9a5d.png)\n**拉伸：** 將圖片縮放以填滿整個空間。<br>\n**限制編輯：** 限制對介面的存取，僅允許擁有者進行變更。<br>\n**顯示碰撞框：** 切換邊界框的可見性，當十字準星對準方塊時會顯示。\n\n<details>\n<summary>合成配方</summary>\n  \n![顯示器合成配方](https://cdn.modrinth.com/data/2LYmwlgc/images/65ea59e3385d2134ac8f14e48522aab2d0e50418.png)\n  \n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

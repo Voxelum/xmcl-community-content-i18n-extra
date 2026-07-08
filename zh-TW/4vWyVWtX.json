@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Zjo3s4OqCNc=",
+  "content": "# ZoomX Smooth – 流暢縮放模組（Minecraft）\n\n**ZoomX Smooth** 是 ZoomX 的強化版本，專為追求更具電影感與可自訂縮放體驗的玩家設計。它保持輕量化與高效能，並加入可調整的流暢度與縮放速度控制。\n\n本模組為 **Fabric** 打造，並完整相容 **原版**、**Sodium** 及其他效能模組，讓你完全掌控縮放的操控感受。\n\n[![Fast Client](https://cdn.modrinth.com/data/cached_images/3e81436885d7d199d80ffde632b0895d24a2c72b.png)](https://fastclient.net/spunky)\n\n---\n\n## ZoomX Smooth 有何不同？\n\n與標準 ZoomX 不同，此版本允許你自訂：\n\n- **縮放流暢度（毫秒）**\n- **縮放速度（倍率）**\n\n你可以依照喜好微調縮放轉換效果，無論是想快速縮放，還是營造緩慢的電影運鏡效果皆可。\n\n---\n\n## 可調整設定\n\n透過按鍵（預設為 B）即可設定：\n\n### 流暢度（毫秒）\n控制縮放進出時的平滑程度。  \n- 數值越低 = 轉換越快  \n- 數值越高 = 越緩慢、更具電影感  \n\n### 縮放速度（倍率）\n調整縮放效果的快慢。  \n- 倍率越低 = 縮放越慢  \n- 倍率越高 = 縮放越快  \n\n所有設定都能透過選單中的簡易滑桿輕鬆調整。\n\n---\n\n## 功能特色\n\n- 🔍 流暢可調的縮放\n- 🎚 可自訂轉換時間\n- 🎯 可調整縮放強度\n- ⚡ 輕量化且最佳化\n- 🧩 專為 Fabric 打造\n- 🟩 完整相容 Sodium\n- 🎮 簡潔美觀的使用介面\n- 🚀 不影響 FPS 效能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

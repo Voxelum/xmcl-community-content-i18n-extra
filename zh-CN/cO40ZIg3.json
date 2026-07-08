@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NVCYQcRBDBA=",
+  "content": "![Logo](https://i.imgur.com/fW81jPR.png)\n\n![Discord](https://imgur.com/A7U3oXE.png) [加入我的Discord](https://discord.gg/4tPfwjn) ![Patreon](https://imgur.com/m9xyJSE.png) [在Patreon上支持我](https://www.patreon.com/buuz135) ![Twitter](https://imgur.com/A7U3oXE.png) [在Twitter上关注我](https://twitter.com/Buuz135mods)\n\n<strong>功能性存储</strong> 是存储抽屉类存储解决方案的另一种演绎，拥有更新的外观以及额外的功能，包括：\n\n<ul>\n<li><strong>拉取升级</strong>：从相邻的容器中拉取物品\n<li><strong>推送升级</strong>：向相邻的容器推送物品\n<li><strong>收集升级</strong>：收集地面上的物品\n<li><strong>军械库柜</strong>：默认可存储4096个不可堆叠物品，目前仅能通过外部工具（如应用能源2或精致存储的外部存储工具）访问\n<li><strong>存储升级</strong>：有所改变，类型减少，但提供更大的存储提升\n<li><strong>存储控制器</strong>：无需直接接触即可链接抽屉\n<li><strong>流体抽屉</strong>：存储流体\n<li><strong>控制器扩展</strong>：链接后充当存储控制器\n<li><strong>简易压缩抽屉</strong>：类似压缩抽屉但仅有2个槽位\n</ul>\n\n![Image](https://imgur.com/qF7p3d9.png)\n\n<strong>使用方法</strong>\n\n<strong>抽屉控制器</strong>：要链接抽屉到控制器，需要使用链接工具\n<strong>末影抽屉</strong>：用链接工具左键点击可复制抽屉频率，再右键点击另一个末影抽屉，它们的物品内容便会同步\n<strong>链接工具</strong>：右键点击控制器进行配置，然后在范围内（默认8格半径）右键点击普通/压缩/末影抽屉即可链接到控制器\n\n<strong>计划中的功能</strong>\n\n军械库柜的便捷访问",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

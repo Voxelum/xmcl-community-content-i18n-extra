@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OMqbKLokYSI=",
+  "content": "<h1>您的一站式消耗品商店</h1><p>許多食物物品會以狀態效果的形式賦予玩家增益。然而，這些效果從未在遊戲中列出。這是一個麻煩，特別是在模組情境中，玩家並不熟悉所有食物選項及其效果。</p><p>透過食物效果提示，所有效果都會顯示在物品的工具提示中！</p><ul>\n<li>完全客戶端</li>\n<li>處理僅以百分比機率應用的效果</li>\n<li>顯示效果的狀態變化</li>\n<li>與其他顯示食物資訊的模組相容，例如 AppleSkin</li>\n<li>還列出清除狀態效果的物品（如牛奶）、傳送物品（如合唱果）、蘑菇燉湯以及死亡時施加效果的物品（如不死圖騰）的效果</li>\n<li>完全與其他模組相容</li>\n</ul><h2>運作方式</h2><p>此模組讀取懸停物品的組件，解析其數據並在工具提示中顯示。自 v2.0.0 版本起，FoodEffectTooltips 處理：</p><ul>\n<li><code>consume_component</code><ul>\n<li><code>apply_effects</code></li>\n<li><code>remove_effects</code></li>\n<li><code>clear_all_effects</code></li>\n<li><code>teleport_randomly</code></li></ul></li>\n<li><code>death_protection</code></li>\n<li><code>suspicious_stew_effects</code></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

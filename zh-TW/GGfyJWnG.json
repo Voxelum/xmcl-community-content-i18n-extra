@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JSPaU/qVI/M=",
+  "content": "# 一站式消耗品資訊大全\n\n許多食物物品會以狀態效果的形式給予玩家加成。然而，這些效果在遊戲中從未被列出。這造成相當大的不便，特別是在模組環境中，玩家並不熟悉所有食物選項及其效果。\n\n有了食物效果提示（Food Effect Tooltips），所有效果都會顯示在物品的提示資訊中！\n- 完全客戶端運作\n- 處理僅有機率觸發的效果\n- 顯示效果的狀態變化\n- 與其他顯示食物資訊的模組相容，例如 AppleSkin\n- 同時列出消除狀態效果（如牛奶）、傳送（如歌萊果）、蘑菇湯以及死亡時觸發效果（如不死圖騰）等物品的效果\n- 與其他模組完全相容\n\n## 運作方式\n此模組會讀取懸停物品的元件，解析其資料並顯示在提示資訊中。自 v2.0.0 版本起，食物效果提示（FoodEffectTooltips）可處理：\n- `consume_component`\n  - `apply_effects`\n  - `remove_effects`\n  - `clear_all_effects`\n  - `teleport_randomly`\n- `death_protection`\n- `suspicious_stew_effects`\n\n![正常效果](https://cdn.modrinth.com/data/GGfyJWnG/images/f22e5fa3013611fb5588662696aa929c1a96b93b.png)\n\n![機率觸發效果](https://cdn.modrinth.com/data/GGfyJWnG/images/531ff1e28c210beab319cdb192685e1552c878f2.png)\n\n![狀態變化](https://cdn.modrinth.com/data/GGfyJWnG/images/d61df6d59442ba3dece1711e6e423d62a826e3bc.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

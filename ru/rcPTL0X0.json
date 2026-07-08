@@ -1,0 +1,6 @@
+{
+  "bodyHash": "atiTHq97OAM=",
+  "content": "> Reactify — Ядро библиотеки для [Brutal Nightmare](https://modrinth.com/datapack/brutal-nightmare)\n---\n**Особенности**\n+ Исправлены ошибки, связанные с таблицей дропа в BrutalNightmare-`V4+`\n+ Устранены несовместимости\n+ Оптимизировано для функций `delay-function-algorithm`, `low-tick-events-v0` и `random`-`prandom` в FokusAPI-`V2+`\n---\n**Поддержка**\n+ Поддержка модов (NeoForge, Forge, Fabric, Quilt), данных, плагинов (Paper, Spigot, Purpur, Bukkit)\n+ Версии Minecraft: 1.16 и выше\n---\n**Несовместимости**\n+ Нет\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

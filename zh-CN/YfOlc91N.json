@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ttHePyjuzek=",
+  "content": "# 黄色十字表示怪物可以在夜间生成，红色十字表示怪物可以在任何时间生成。<br>蓝色十字表示如果有刷怪笼，怪物可以生成（仅限1.18）\n\n这个模组为用户提供了类似NEI的光照覆盖。\n\n这个模组需要Rift、Forge或Fabric。（Fabric需要Fabric API、Cloth Config和Architectury，Forge需要Cloth Config和Architectury）\n\n按下 **F7** 来切换光照覆盖，可以在控制设置中进行配置。\n\n### 配置\n- Rift 1.13.2: 不可用\n- Forge 1.13.x: 不可用\n- Forge 1.14+: 模组列表 > 配置\n- Fabric 1.14+: 模组菜单 > 配置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

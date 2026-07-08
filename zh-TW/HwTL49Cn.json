@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TBXlWJllkds=",
+  "content": "# Fabricated Exchange\n\nProjectE/Equivalent Exchange 2 的 Fabric 重製版。此模組為每個物品附加一個「EMC」數值。有些物品價值較高，有些則較低。可將物品與方塊轉化為 EMC，再將 EMC 轉化為您先前獲得的不同物品。\n\n# 已實現功能\n\n- 賢者之石\n- 轉化桌與轉化平板\n- 能量收集器 Mk1-Mk3\n- 反物質繼電器 Mk1-Mk3\n- 煉金術儲物箱\n- 能量凝聚器 Mk1、Mk2\n- 知識寶典\n- 煉金燃料與方塊\n- 暗物質/紅物質與方塊\n- （部分）暗物質工具\n- 共價灰塵\n- 可設定的 EMC 映射器\n\n# 全新功能\n\n- 記憶體容量允許範圍內無上限的 EMC\n- 精確無限的 EMC 分數（不再有無 EMC 值的半磚！）\n- 支援轉化桌內含 NBT 資料的物品（可設定）\n- 華麗的動畫轉化桌（可開關）\n\n# 更多資訊\n\n欲了解更多資訊，請參閱 GitHub 的自述文件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

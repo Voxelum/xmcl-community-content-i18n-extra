@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e5KUZCuvA6Q=",
+  "content": "[![Discord](https://img.shields.io/discord/810643286511190016?style=for-the-badge&logo=discord&label=Discord&labelColor=FFFFFF&color=5865F2)](https://discord.com/invite/ZNxRYScDS7)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter Badge](https://img.shields.io/badge/P3pp3rf1y-FFFFFF?style=for-the-badge&logo=x&logoColor=000000&label=Twitter&labelColor=FFFFFF&color=202020)](https://x.com/P3pp3rF1y)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Badge](https://img.shields.io/badge/P3pp3rf1y-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&label=GitHub&labelColor=FFFFFF&color=202020)](https://github.com/P3pp3rF1y)&nbsp;&nbsp;&nbsp;&nbsp;[![Ko-Fi Badge](https://img.shields.io/badge/P3pp3rf1y-FFFFFF?style=for-the-badge&logo=kofi&label=Ko-Fi&labelColor=FFFFFF&color=202020)](https://ko-fi.com/p3pp3rf1y)\n\n這是一個為精密模組（精密背包和精密儲物）設計的函式庫模組。\n\n它為精密模組提供常見功能，主要包括：\n\n- 通用升級功能\n\n- 精密物品欄的處理\n\n- 能與升級及相關物品欄配合操作的 GUI 邏輯\n\n- 升級的渲染\n\n- 通用儲存設定\n\n- 在工具提示中顯示儲物堆疊內容的渲染\n\n- 通用儲物堆疊邏輯\n\n此模組在模組包中可能可以單獨使用，但除了經驗流體之外，它並不會加入任何玩家能在遊戲中看到的內容。其主要用途是作為精密模組的依賴項。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

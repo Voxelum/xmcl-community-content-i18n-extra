@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ptXhoPJ773A=",
+  "content": "<h1 style=\"text-align:center\">Epic Fight X Parcool</h1><p>摘要：</p><p>這是一個為 Epic Fight 與 Parcool 設計的相容性模組，修復了 Parcool 中 Epic Fight 耐力系統的整合問題。同時提供設定選項，讓玩家可以在跑酷動畫中進行閃避。</p><p>&nbsp;</p><p>功能：</p><ul>\n<li>允許閃避取消跑酷動作（預設：關閉）</li>\n<li>調整 Parcool 的 Epic Fight 耐力系統整合方式。耐力消耗期間將不再自動回復</li>\n<li>Parcool 設定檔中的所有耐力消耗數值將除以 100，並受重量影響</li>\n</ul><p>&nbsp;</p><p>依賴模組（皆為必要）</p><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/parcool\" rel=\"nofollow\">Parcool</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod\" rel=\"nofollow\">Epic Fight</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/epic-compat-parcool\" rel=\"nofollow\">Epic Compat: Parcool</a></li>\n</ul><hr><p><a href=\"https://legacy.curseforge.com/linkout?remoteUrl=https://bisecthosting.com/sganarchy\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://www.bisecthosting.com/partners/custom-banners/98088466-431b-4097-89bf-2e68e1bf0d7c.png\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

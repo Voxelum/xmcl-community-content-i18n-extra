@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DytnxdMHtwg=",
+  "content": "## Create: Salvage\n\n終於，那些多餘的工具和盔甲有了用武之地！\n\nCreate: Salvage 提供了一種新的合成配方類別，讓你能從不需要的工具中回收原材料。\n\n## 功能\n\n- 在 Basin 上方放置 Mixer，並在下方放置 Blaze Burner，然後放入你不需要的物品。完成後，你將獲得等同於該物品合成成本一半的錠和金粒。受損的工具會按比例回收較少的原材料。\n- 將 Blaze Burner 加熱至超熱狀態，可將金屬物品的回收率提升至 100%，並能回收更高階的物品，例如鑽石和獄髓。\n- 包含一個自訂的 Ponder 場景來解釋此模組。\n- 一個自訂的 JEI 合成類別，用於查看所有適用的配方。\n- 完全資料驅動的配方，便於模組開發和模組包製作。\n- 內建配方會自動為多個模組套用對應的配方。\n- 新增了鑽石金粒，因為我覺得鑽石鏟什麼都不給實在太不合理了。如果與其他模組衝突，請使用 [Almost Unified](https://modrinth.com/mod/almost-unified)。\n\n![Create Salvage 擁有完整的 Ponder 整合功能。](https://cdn.modrinth.com/data/cached_images/231af4547aa7a9a0d5ad9ac48345e7cd816b68f1_0.webp)\n\n## 內建配方\n\n以下模組擁有內建配方：\n\n- [Create](https://modrinth.com/mod/create)\n- [The Aether](https://modrinth.com/mod/aether)\n- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)\n- [Deep Aether](https://modrinth.com/mod/deep-aether)\n- [Aether's Delight](https://modrinth.com/mod/the-aethers-delight)\n- [Leaf's Copper Backport](https://modrinth.com/mod/copper-backport/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

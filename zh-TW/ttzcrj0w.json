@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fEM/0bAfVPg=",
+  "content": "**你需要 [史詩戰鬥](https://modrinth.com/mod/epic-fight/versions) 作為前置需求。**\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Qcc-JPznKMc\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**變更 / 更新**\n\n- 大部分動畫現在更加流暢。\n\n- 所有武器的連擊鏈已增加至 5 次攻擊。\n\n- 新增武器：鐮刀。\n\n**未來計畫**\n- 增加更多武器。\n\n- 增加更多怪物行為。\n\n**給開發者：**\n```bash\nrepositories {\n\n    exclusiveContent {\n        forRepository { maven { name = \"Modrinth\"; url = \"https://api.modrinth.com/maven\" } }\n        forRepositories(fg.repository)\n        filter { includeGroup \"maven.modrinth\" }\n    }\n\n}\n\ndependencies {\n    implementation fg.deobf(\"maven.modrinth:epicfight-extra:1.1.4-mc1.20.1-forge\")\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

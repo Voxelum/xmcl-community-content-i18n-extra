@@ -1,0 +1,6 @@
+{
+  "bodyHash": "594UHQ5m3uo=",
+  "content": "![dmus](https://cdn.modrinth.com/data/cached_images/577df0e1124171aa07c32f17517457d1feec12c8_0.webp)\n\n## Введение\n\nЭтот ресурсный пакет добавляет поезда NSW Trainlink DMU в Австралии.\n\nДля этого пакета требуется мод «Minecraft Transit Railway» (MTR3, MTR4 Beta 13~) и расширение Nemo's Transit Expansion для версии MTR3 (NTE).\n\n## Условия и информация\n\nЭтот ресурсный пакет можно применить вручную на странице «Ресурсные пакеты» так же, как и другие ресурсные пакеты — после установки необходимых модов и дополнений.\n\nПеред использованием убедитесь, что аргументы JVM установлены на 6 ГБ или выше. Загрузка этого ресурсного пакета может занять некоторое время.\n\nВерсии MTR3 и MTR4 отличаются; для MTR3 рекомендуется правильно задать количество вагонов (информацию можно найти в таблице — ссылка на вики-страницу).\n\nКомплект R был перенесён в пакет [NSW EMU Trains](https://modrinth.com/resourcepack/mtrnsw-trainlink-emu-trains) из-за изменения вместимости.\n\n## Содержание\n\n* NSW Trainlink Xplorer DMU\n* NSW Trainlink Hunter Railcar\n* NSW Trainlink Endeavour Railcar\n* NSW Trainlink XPT\n* NSWGR 620/720 Railcar\n* NSW CPH Railmotor",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

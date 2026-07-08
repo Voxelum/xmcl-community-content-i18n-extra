@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+c9RsvIxU6M=",
+  "content": "![标题](https://cdn.modrinth.com/data/cached_images/087c07c667d2f43701f448b5b96f291705fefa9f.png)\n## v3.0.0\n- 修复南瓜眼附魔现在能完全正常工作\n- 修复末地村民变成僵尸村民后没有贴图的错误\n- 修复末化药水对猫无效的问题\n- 新增末地盔甲匠村民\n- 新增末地工具匠村民\n- 新增末地工具匠工作台方块和盔甲匠工作台方块\n- 新增末地斧、末地剑、末地锹、末地镐、末地锄\n- 新增珍珠头盔、带鞘翅的珍珠胸甲、珍珠护腿、珍珠靴子\n- 穿戴全套盔甲时使用末影珍珠可获得额外生命值和速度加成\n- 新增黑曜石破坏者附魔(I/II/III级)，可大幅加快破坏黑曜石/哭泣黑曜石的速度，只能通过与附魔师村民交易获得\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2YSQZSRXTUQ\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 上个主要版本 v2.4\n- 将酿造结构改为容纳末地酿造台而非普通酿造台\n- 修复农场生成在地下的问题\n- 修复文件布局\n- 修复村民的NBT生成设置\n- 修复铁傀儡在村庄生成的问题，替换为末影傀儡\n- 修复末影猫显示错误名称的问题\n- 新增末地傻子职业\n- 新增通过指令召唤末地傻子的功能\n- 新增末影傀儡\n- 新增末影傀儡刷怪蛋\n- 新增当足够多村民聚集时可自动生成末影傀儡\n- 末影傀儡死亡时掉落末地百合花\n- 新增传送药水/喷溅型药水/滞留型药水 I/II级（随机传送实体50/100格）\n- 新增末化药水/喷溅型药水/滞留型药水 I级（将村民或铁傀儡转变为末地版本）\n- 新增冰冻药水/喷溅型药水/滞留型药水 I/II/III级（冻结实体7秒/13秒/17秒）\n- 新增末影酿造师职业（可交易新增药水，因为这些药水无法酿造）\n- 新增末地酿造台方块（提供末影酿造师职业）\n- 新增使用末地百合花合成末地酿造台的功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

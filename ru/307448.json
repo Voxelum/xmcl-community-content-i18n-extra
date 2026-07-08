@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WDCGW4kaKAw=",
+  "content": "<h1>Мод для Forge</h1><h2>Работа на клиенте и сервере</h2><p>Итак, мне нужен был мод, который просто создавал бы резервные копии моих сохранений, не требуя скачивания самого мода и библиотеки.</p><p>Сервер Discord: <a href=\"https://discord.gg/6cq3skc\" rel=\"nofollow\">https://discord.gg/6cq3skc</a></p><h2>Команды:</h2><ul>\n<li><code>/openbackup backup</code>\nдля создания мгновенной резервной копии вашего мира.</li>\n<li><code>/openbackup restore</code>\nДля распаковки резервной копии в папку openbackups/restore</li>\n<li><code>/openbackup status</code>\nЧтобы узнать текущий статус вашей папки openbackup</li>\n<li><code>/openbackup delete</code>\nЧтобы удалить резервную копию в игре.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

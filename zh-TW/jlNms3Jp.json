@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GXomwofZbjc=",
+  "content": "![Header](https://www.bisecthosting.com/images/CF/Config_Manager/MP_Config_Manager_header.webp)\n**Config Manager** 是一個 Minecraft 模組，讓模組包開發者能夠以簡單且使用者友善的方式提供設定檔。  \n支援 **NeoForge** 和 **Fabric**，相容於 **Minecraft 1.20.1** 及以上版本。\n\n## 功能特色\n\n### 提供模組包預設值，同時不覆蓋使用者偏好設定\n- 將模組包的預設設定檔放置於 `/config/modpack_defaults` 資料夾。\n- 啟動時，該資料夾中的所有檔案僅在使用者尚未擁有時，才會被複製到 Minecraft 目錄中。\n\n**範例：**\n- `.minecraft/config/modpack_defaults/options.txt` → 複製到 `.minecraft/options.txt`\n- `.minecraft/config/modpack_defaults/config/myMod.json` → 複製到 `.minecraft/config/myMod.json`\n\n這確保使用者的設定在模組包更新後仍能保留。\n\n\n### 更新或重設為模組包預設值\n從模組列表（NeoForge）或 Mod Menu（Fabric）中，您可以開啟 Config Manager 圖形介面，並選擇兩種操作之一：\n\n1. **更新** – 將模組包的設定檔覆蓋到使用者的現有檔案上。\n    - 所有模組包變更的設定都會被更新。\n    - 使用者未調整的設定則保持不變。\n\n2. **重設** – 清除整個 `config` 資料夾，並以模組包提供的檔案取代。\n    - 適用於修復損壞或安裝異常的情況。\n\n---\n<a href=\"https://bisecthosting.com/thebossmagnus?r=configMR\" rel=\"Code TheBossMagnus on BisectHosting.com!\">![code TheBossMagnus on BisectHosting.com!](https://www.bisecthosting.com/images/CF/Config_Manager/MP_Config_Manager_promo2.webp)</a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

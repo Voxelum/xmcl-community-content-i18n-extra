@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oobtaXmSSTQ=",
+  "content": "Отображает ваш текущий пинг и FPS справа от вашей горячей шкалы.\n![Отображение пинга/FPS](https://cdn.modrinth.com/data/cached_images/078f9f1757b5db8b93f09ecea4822dbdfe0cd033.png)\nТолько на стороне клиента. Требуется Fabric Loader, Fabric API и Java 21+ (разумеется).\n\nПримечания:\n* Может конфликтовать с другими модами HUD/GUI, которые отображаются рядом с правой частью горячей шкалы\n* Обновления пинга могут быть медленными на некоторых серверах, ограничивающих частоту запросов такой информации\n\nТекущие версии: [1.21.11](https://modrinth.com/mod/ping-overlay/version/1.21.11+1.0.0)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

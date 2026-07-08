@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yuMR6j/R/eU=",
+  "content": "## 描述\n\n這是 [Language Reload](https://modrinth.com/mod/language-reload) 的非官方 Neoforge 移植版本，致力於保留原模組的所有功能並確保相容性。\n\nLanguage Reload 是一個 Fabric 模組，它新增了與語言相關的生活品質改進功能。\n\n### 功能\n\n* 快速切換語言，無需重新載入資源包\n* 在語言選單中新增搜尋框\n* 支援多語言選擇（每種語言的翻譯會覆蓋下方語言的翻譯）\n* 多語言物品搜尋（可在創造模式物品欄與合成書中，以任何已選語言進行搜尋。此功能可透過模組選單或直接修改模組設定檔來停用）\n* 若 options.txt 中沒有「lang:」，則自動偵測語言\n* 使用 F3 + J 重新載入語言，以及 Shift + F3 + J 循環切換語言\n\n### 開發\n\n我會盡量保持與原模組版本同步，還請耐心等待。\n\n### 相容性\n\n#### Modern UI\n\n開啟 Modern UI 的設定畫面，並在文字版面配置區塊中停用「使用文字元件快取」選項。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

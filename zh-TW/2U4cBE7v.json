@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yYBGsZ9tEj4=",
+  "content": "### 注意：此模組實際上並未修復任何錯誤；它僅避免這些錯誤在日誌中反覆出現。\n\n此模組可防止 OpenGL 的 `GL_INVALID_ENUM` 錯誤被重複記錄超過一次。如果你了解這是什麼，這個模組可能對你有用；如果不了解，也無需擔心。這是為閱讀除錯日誌的人（主要是開發者）準備的工具。\n\n自 `v1.1.0` 版本起，它還抑制了 `GL_INVALID_VALUE` 與 `GL_INVALID_OPERATION`。`v1.1.0` 也新增了設定畫面，因此若你仍在使用 `v1.0.0`，請務必下載更新版本。\n\n點擊[此處](https://github.com/AdamRaichu/suppress-OpenGL-1280/wiki)可查看關於此錯誤的更多資訊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

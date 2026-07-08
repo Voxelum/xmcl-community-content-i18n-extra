@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QokGFJ3BMhY=",
+  "content": "<p><strong>Исправления:</strong></p><ul>\n<li>Движение тела во время атак</li>\n<li>Движение ног в зависимости от угла камеры</li>\n<li>Руки не следуют направлению камеры</li>\n<li>Нарушение позы крадущегося во время атак</li>\n<li>Нестабильное движение ног при передвижении и атаке</li>\n</ul><p><strong>Требования:</strong> Модель от первого лица, Улучшенный бой, playerAnimator <strong>Необязательно:</strong> Spell Engine, Combat Roll (автоматически определяется)</p><p>Только на стороне клиента. Просто поместите файлы в папку модов.</p><p>Этот мод используется в паке модов... <a href=\"https://www.curseforge.com/minecraft/modpacks/legends-reborn-medieval\" target=\"_blank\" rel=\"nofollow\">Пак модов «Legends Reborn: Medieval».</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

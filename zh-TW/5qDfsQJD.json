@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RJAQio67BP0=",
+  "content": "一個[Botania](https://github.com/VazkiiMods/Botania)的小型混搭附加模組，讓產生器花朵能夠直接輸出至魔力池。\n![示例](https://cdn.modrinth.com/data/cached_images/dd9d9cc6c12f7ae2bffb55f6d7aa66a91fbe08d0.png)\n\n# 功能特色\n- 直接將魔力產生器花朵連接到魔力池，無需先經過擴散器\n  - 這減少了魔力損失和客戶端粒子渲染壓力，\n  - 並且對於具有自身魔力緩衝機制的花朵來說可能過於強大",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

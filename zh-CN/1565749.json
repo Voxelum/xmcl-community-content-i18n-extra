@@ -1,0 +1,6 @@
+{
+  "bodyHash": "98qyhXQylUI=",
+  "content": "<h1><strong>Atet的基础设施</strong></h1><p><br>是一款轻量级的服务器端实用模组，允许服务器管理员为玩家分配可配置计时器的重复物品奖励。非常适合RPG服务器、经济服务器或任何希望为玩家提供工资、每日登录奖励或被动收入系统的服务器。<br>无需客户端安装——原版客户端即可连接并正常接收奖励，无需安装任何模组。</p><h3><strong>指令</strong></h3><p><br><strong>所有指令需要管理员权限等级2。</strong></p><p>/infrastructure give — 为玩家分配一个重复物品奖励。支持小时单位的小数输入，例如0.5代表每30分钟一次。</p><p>/infrastructure list — 查看分配给玩家的所有活跃奖励及其间隔。</p><p>/infrastructure remove — 移除玩家身上的指定奖励。</p><h3><strong>问答</strong></h3><p><br><strong>奖励到期时玩家离线会怎样？</strong><br>奖励将被保存，所有错过的发放间隔会在玩家下次登录时一次性送达。</p><p><strong>服务器重启后奖励会保留吗？</strong><br>是的。所有奖励数据会保存到世界文件夹内的JSON文件中，服务器重新启动时会自动加载。</p><p><strong>玩家需要安装模组吗？</strong><br>不需要。这是一个纯服务端模组。原版客户端可以正常连接并接收奖励。</p><p><strong>可以为同一玩家分配多种不同物品吗？</strong><br>可以。每个玩家可以拥有任意数量的不同物品奖励，每个奖励可以设置独立的发放间隔。</p><p><strong>可以更新现有奖励吗？</strong><br>可以。再次对同一玩家和物品使用/infrastructure give指令将用新数值替换现有奖励设置。</p><p><strong>最小间隔是多少？</strong><br>0.1小时，即6分钟。适合测试用途。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

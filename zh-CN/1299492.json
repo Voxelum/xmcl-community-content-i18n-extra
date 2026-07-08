@@ -1,0 +1,6 @@
+{
+  "bodyHash": "we48DGYyWmM=",
+  "content": "<p><span style=\"text-decoration:underline\"><strong>Ace's Spell Utils</strong></span> 是一个专为《Iron's Spells and Spellbooks》模组制作扩展而设计的实用API。本模组包含一系列对模组开发者有用的方法和类，可供他们在开发扩展时使用。如有建议或新需求出现，我们将持续添加更多功能。</p><p>&nbsp;</p><p><span style=\"text-decoration:underline\">当前功能：</span></p><ul>\n<li>独特的施法生物类，用于为自定义模型的生物添加长时施法、瞬时施法和持续施法的自定义动画</li>\n<li>通用Boss实体类，简化自定义Boss的制作流程</li>\n<li>通用独特Boss实体类，用于创建具有自定义模型的施法实体</li>\n<li>施法生物的巫师法术连招目标系统</li>\n<li>通用的Boss音乐管理器与Boss音乐实例类，支持自定义动态Boss音乐</li>\n<li>可附魔的饰品类</li>\n<li>可附魔的法杖类</li>\n<li>鞘饰品类</li>\n<li>包含法术与生物专用方法的工具类</li>\n<li>法力窃取属性</li>\n<li>法力撕裂属性</li>\n<li>饥饿窃取属性</li>\n<li>闪避属性</li>\n<li>多种可自由使用的自定义施法动画</li>\n<li>可供使用的自定义物品稀有度系统</li>\n</ul><p>本模组采用MIT开源协议，任何《Iron's Spells and Spellbooks》扩展开发者均可自由使用此API。问题反馈或功能建议请提交至Github项目页。</p><p style=\"text-align:center\"><strong>需要服务器？快来了解Bisect Hosting！</strong></p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252facetheeldritchking\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/6a5e47ed-5d75-4bba-ae85-8ee63a203634.webp\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WxtLltmXiqI=",
+  "content": "这是 **KubeJS** 与 **Valkyrien Skies 2** 的联动扩展模组\n\n本模组在Player、Level和Server对象上额外暴露了VS2的相关信息，同时让你的脚本可以访问`VSGameUtilsKt`、`VectorConversionKt`和`VectorConversionMCKt`工具类。更不用说新增的几个事件能让你获得更深层的控制权限！\n\n虽然还有更多功能正在开发中，但希望各位玩得开心！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

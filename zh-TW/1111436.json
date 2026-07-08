@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1IvLe+ySsx4=",
+  "content": "<div><img src=\"https://cdn.modrinth.com/data/cached_images/9a1df43af41ee5516e157dea1cc2f532b7380e43.png\"></div><p><strong>讓我睡覺</strong>是一個簡單的模組，旨在讓嘗試睡覺時的怪物檢查更加合理。這是通過使只有當前正在追蹤玩家的怪物才會阻止睡覺來實現的。</p><p>不再有因為怪物不<strong>讓我睡覺</strong>而徹夜難眠的夜晚。</p><h2>資訊：</h2><hr><p>這個模組具有高度可配置性，可以根據您的需求調整模組的大部分功能。</p><pre><code>#一般設定\n[general]\n    #附近的怪物是否應該阻止睡覺？\n    monsterCheck = true\n    #是否只有追蹤玩家的怪物才會阻止睡覺？[需要monsterCheck]\n    betterChecking = true\n    #檢查怪物的水平範圍。[需要betterChecking]\n    #範圍：0 ~ 256\n    horizontalRange = 32\n    #檢查怪物的垂直範圍。[需要betterChecking]\n    #範圍：0 ~ 64\n    verticalRange = 16\n</code></pre><h2>常見問題：</h2><hr><p><strong>問：我應該在哪裡留下建議或反饋？</strong></p><p>答：我很樂意聽到您的任何建議或反饋！我只要求您在模組的Github上以新問題的形式留下，這樣更容易讓我管理和追蹤。</p><p><strong>問：我可以在我的模組包中使用這個模組嗎？</strong></p><p>答：當然可以！我只要求您在使用時給予適當的署名。除此之外，您可以隨意將其包含在您的模組包中，並根據需要進行修改。</p><p><strong>問：將支援哪些版本？</strong></p><p>答：只會支援最新的主要版本。如果舊版本有任何重大錯誤/疏忽，我可能會更新它們，但不會將新功能回移植到舊版本。</p><p><strong>問：會有Fabric版本嗎？</strong></p><p>答：我<strong>沒有</strong>計劃移植到Fabric，但歡迎您自行移植。我只要求您在移植時給予署名。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

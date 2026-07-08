@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OehFAF72M5c=",
+  "content": "# FastCraft 数据包\n\n## 一个添加便捷合成配方的小型数据包\n\n厌倦了为了合成所需物品而制作大量中间材料的流程吗？\n\nFastCraft 正是你所需的数据包/模组（即*数据包*）\n\n本数据包为你添加了一些快速合成配方\n\n> 支持版本：`Minecraft 1.21.X 及以上版本`\n\n---\n\n### 如何应用数据包\n\n在 `Releases` 标签页（Github 上）或 `Versions` 标签页（Modrinth 上）下载数据包，然后放入你存档的 `datapacks` 文件夹中\n\n> Modrinth 上也有打包好的模组版本。以模组形式使用时，你无需在每次创建新世界时重新添加数据包\n\n---\n\n### 合成配方示例\n\n> 无需合成木板，直接从原木合成 4 个箱子\n![箱子](https://cdn.modrinth.com/data/AeTvZxVy/images/3dc27dfd4cc5af2f6c13088eefc3c5925af770e8.png)\n---\n> 你也可以从原木直接合成木棍，加快绿宝石交易效率\n![木棍](https://cdn.modrinth.com/data/AeTvZxVy/images/55803f3704036928cdf66fa4f1ac3ff104b2fc0f.png)\n---\n> 这个配方在许多旧版整合包中也经常出现，我认为这是快速合成的最佳功能之一\n![漏斗](https://cdn.modrinth.com/data/AeTvZxVy/images/dd2a7655a4c22766cc6aaada3b9adac6f8a739ae.png)\n\n更多内容请参见 Github 上的 `example` 文件夹或 Modrinth 的 `Gallery` 标签页\n\n---\n\n### 致整合包开发者：你可以在整合包中自由使用本数据包",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

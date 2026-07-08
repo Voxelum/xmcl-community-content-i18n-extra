@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FPMhFb9Bgag=",
+  "content": "Добавляет поддержку мод-логики для правильной обработки стеков животных из [Mob Stacker](https://modrinth.com/mod/mob-stacker) + [Интеграция](https://modrinth.com/mod/mob-stacker-integration), реализуя максимально корректное взаимодействие со стеком.  \nНапример, стрижка овец будет работать с учётом количества овец в стеке.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

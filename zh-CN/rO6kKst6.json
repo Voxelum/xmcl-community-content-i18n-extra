@@ -1,0 +1,6 @@
+{
+  "bodyHash": "R1ekxXADDQA=",
+  "content": "# Railcraft Reborn\nRailcraft Reborn 是 Railcraft 的现代 Minecraft 版本移植版。  \n该移植已获得 CovertJaguar 的**授权**，他允许我们发布它。您可以在此处查看授权 [这里](https://github.com/railcraft-reborn/railcraft/blob/a69036aa10a78d2e479de1d59ffa9e89890f4907/license_covertjaguar.jpg)。\n\n## NeoForge 和 Forge 之间的兼容性\n从 1.21 开始，我们**仅**支持 NeoForge！  \n1.20.1 版本兼容 NeoForge 和 Forge（47.1.3）。\n\n## 功能\n- 通用\n  - 撬棍\n  - 工作信号系统\n  - 矿车链接和机车\n  - 多块结构\n\n- 轨道\n  - 高速轨道\n  - 强化轨道\n  - 电力轨道\n  - 木质轨道\n  - 电梯轨道\n  - 等等更多...\n\n- 矿车\n  - 蒸汽机车\n  - 电力机车\n  - 创造模式机车\n  - 带水箱的矿车\n  - 隧道钻机\n  - 等等更多...\n\n- 方块\n  - 装载器/卸载器\n  - 矿车/列车发射器\n  - 铁/钢水箱\n  - 蒸汽锅炉\n  - 探测器方块\n  - 等等更多...\n\n- Minecraft 的改动\n  - 矿车反转配方。将箱子与矿车分离\n  - 所有铁路配方完全重做，使建造铁路成为一个完整的工业\n\n## 帮助翻译\n如果您的语言缺少翻译，您可以通过此 [链接](https://crowdin.com/project/railcraft-reborn) 为项目做出贡献。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

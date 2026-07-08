@@ -1,0 +1,6 @@
+{
+  "bodyHash": "StRHOXJkaR8=",
+  "content": "# 愚人桶\n\n一個 Fabric 模組，將 Minecraft 愚人節快照版本 `22w13oneBlockAtATime` 中的「頭上戴桶」功能移植到現代版本。戴上木桶，在大庭廣眾下隱藏自己！\n\n## 功能\n\n- 木桶可裝備於頭部欄位，裝備時會播放桶子開啟的音效。\n- 戴著木桶蹲下時，會被視為「躲進木桶內」，並獲得以下效果：\n  - 敵對生物（包括沉靈守衛）在 AI 目標鎖定層級上會忽略你。\n  - 其他玩家與生物不會將視線鎖定在你身上。\n  - 苦力怕不會對你觸發爆炸攻擊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

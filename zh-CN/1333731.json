@@ -1,0 +1,6 @@
+{
+  "bodyHash": "08CmfHeZ4RA=",
+  "content": "<p><strong>MetalMine for Fabric</strong> 是一款专为macOS设计的高性能Minecraft渲染模组，利用苹果<strong>Metal</strong> API替代传统的OpenGL渲染管线。通过这一优化，它消除了OpenGL常见的瓶颈问题，即使在复杂或大量模组的世界中，也能带来更流畅的帧率、更低的延迟和更灵敏的游戏体验。</p><p>本模组引入了<strong>MetalFX超分辨率技术</strong>，在不牺牲性能的前提下提升画面精细度。玩家既能享受更锐利的纹理和更高分辨率的渲染效果，又能保持高帧率运行。此外，模组还支持<strong>帧生成技术</strong>，通过插值帧实现丝滑流畅的动画表现，让移动和快速动作场景更为顺滑。</p><p>MetalMine的一大亮点是<strong>专属设置窗口</strong>。玩家可通过该界面一键开关关键视觉效果，例如<strong>光线追踪</strong>和<strong>MetalFX超分辨率</strong>，根据性能或画质需求自由调整偏好。无需手动编辑配置文件，即可实时定制渲染体验。</p><p>本模组完全兼容<strong>Fabric加载器</strong>，可与其他模组无缝集成，让Minecraft模组环境也能受益于Metal显卡的深度优化。同时，MetalMine内置性能调优，能降低CPU与GPU之间的开销、优化内存使用，并减少卡顿或掉帧现象。</p><p>简而言之，MetalMine通过将<strong>先进的Metal渲染、超分辨率、帧生成与光线追踪选项</strong>整合到用户友好的Fabric模组中，彻底改变了macOS上的Minecraft体验。它带来了<strong>高品质画质、更优性能与更流畅的游戏玩法</strong>，是追求在苹果硬件上同时提升图形与帧率表现的玩家的必备之选。</p><p>您可以通过以下链接为我的开源仓库提供帮助：<a href=\"https://github.com/akirasumeragi699-design/metalfabricmod\" target=\"_blank\" rel=\"nofollow\">https://github.com/akirasumeragi699-design/metalfabricmod</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

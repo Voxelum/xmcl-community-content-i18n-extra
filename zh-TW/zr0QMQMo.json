@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Eq2fSRchnfA=",
+  "content": "這是一個為使用 [Scala](https://www.scala-lang.org/) 撰寫的模組所提供的函式庫。\n\n在 1.12 版本之前，Forge 函式庫內含 Scala 執行環境，但在 1.13 版本中被移除了。\n\n此函式庫包含 Scala 執行環境以及 Cats，後者是一個用於函數式程式設計的函式庫。\n* Scala (https://www.scala-lang.org/) 採用 Apache 許可證 2.0 版 (https://www.scala-lang.org/license/)。\n* Cats (https://typelevel.org/cats/) 採用 MIT 許可證 (https://github.com/typelevel/cats/blob/master/COPYING)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fwiFhSYy3nE=",
+  "content": "<p>在原版1.17中，所有裝有墨西哥蠑螈的桶子無論實際裝的是哪種類型，看起來都像是裝了粉紅色的墨西哥蠑螈。這個客戶端的Fabric模組修正了這個問題，讓物品材質能正確顯示桶內實際裝的蠑螈類型。同時也新增了幼年形態的材質，讓你能清楚知道每個桶子裡裝的是什麼。</p>\n\n<p>新的材質看起來像這樣：</p>\n<p><img src=\"https://i.ibb.co/7RY4m3S/axolotls.png\" alt=\"蠑螈物品\" width=\"400\" height=\"80\"></p>\n<p><img src=\"https://i.ibb.co/6yDMJWW/2021-07-01-22-37-20.png\" alt=\"幼年蠑螈\" width=\"400\" height=\"80\"></p>\n\n<p>&nbsp;</p>\n\n<p>新功能：從1.1.1版本開始，本模組已兼容<a href=\"https://www.curseforge.com/minecraft/mc-mods/mavm\" rel=\"nofollow\">更多蠑螈變種</a>模組，並為該模組新增的所有蠑螈變種提供了對應材質。</p>\n\n<p>&nbsp;</p>\n\n<p>需要FABRIC API</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

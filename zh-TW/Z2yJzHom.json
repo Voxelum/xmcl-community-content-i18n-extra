@@ -1,0 +1,6 @@
+{
+  "bodyHash": "igWmXq476xM=",
+  "content": "# XpBottle Grabber\n\nXpBottle Grabber 是一個伺服端模組，用於將經驗值裝瓶儲存。\n此模組讓你能夠製作經驗等級瓶，就像一般的經驗瓶一樣。\n\n![主介面](https://i.imgur.com/XNgECe6.gif)\n\n## 功能特色\n\n- 將經驗值轉換為經驗瓶\n- 按住 Shift 點擊可一次製作多瓶\n- 預設等級瓶：15、30、50、100\n- 將經驗值儲存於瓶中（NBT）\n- 使用經驗瓶可提取經驗值\n\n透過指令 `/xpbottle` 開啟介面\n\n操作方式：\n- 左鍵點擊 — 製作一瓶\n- Shift + 左鍵點擊 — 製作最大數量\n\n![示範](https://i.imgur.com/wekikng.gif)\n\n## 機制說明\n- 使用原版經驗值計算公式（0–16、17–31、32+）\n- 需要玻璃瓶作為材料\n- 若背包空間已滿，物品會掉落在地上",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

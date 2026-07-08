@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Bx2bj/0TURg=",
+  "content": "這是 Haybale 函式庫的非官方移植版本，原版由 CommodoreThrawn 製作。該函式庫是一個模組庫，用於他的專案中，例如 Straw Golem Rebalanced。此移植版本旨在讓其模組能更輕鬆地移植到其他平台。如果 CommodoreThrawn 希望正式使用此移植版本，或希望移除這個移植版，請隨時聯絡我，我會照辦。\n\n功能特色：\n\n- 專為多載入器模組設計\n\n- 提供註解系統，用於註冊實體、物品、粒子以及音效\n\n- 資料包系統與實體能力系統\n\n- 一些平台專屬的服務，例如伺服器排程器等",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

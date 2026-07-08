@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jZoWpVKVBRw=",
+  "content": "# 這個模組有什麼用途？\n- 允許玩家無需管理員權限即可進入旁觀者模式\n- 將玩家傳送回進入旁觀模式前的位置，防止作弊利用此功能飛行移動\n\n# 使用方法\n玩家可以：\n- 輸入 `/freecam` 指令進入旁觀者模式\n- 再次輸入 `/freecam` 指令即可退出並返回原來位置\n- 若玩家客戶端已安裝此模組，可按下 `左側 Alt 鍵` 替代輸入指令",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

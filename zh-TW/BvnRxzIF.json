@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zeRPxpVAWvg=",
+  "content": "## 描述\n\n此模組能隱藏多餘的實體以減少延遲，尤其在生物農場中特別有用。被隱藏的實體仍存在於世界中，只是無法看見。使用此模組前，需先設定最大實體數量限制（可針對每種實體類型或全域設定）。預設值為 64。若實體限制設為 64 且套用於全域，模組會阻止同一時間顯示超過 64 個同類型實體。您也可以為每種實體類型指定獨立限制，例如將牛的限制設為 5，代表螢幕上同時顯示的牛不會超過 5 隻。這對生物農場尤其實用——當農場中累積數百隻不需特別關注的實體時，隱藏它們可根據實體數量大幅提升 FPS。\n\n此模組需要安裝 [Cloth Config](https://modrinth.com/mod/cloth-config)，且 v1.0.1 以上版本需搭配 [Architectury API](https://modrinth.com/mod/architectury-api)。若使用 Fabric 版本，則需安裝 [Fabric API](https://modrinth.com/mod/fabric-api)，並強烈建議安裝 [Mod Menu](https://modrinth.com/mod/modmenu) 以便在不重啟遊戲的情況下修改設定。若同時安裝 [Entity Culling](https://modrinth.com/mod/entityculling)，可開啟選項讓模組與其協同運作，進一步提升效能。\n\n若模組未生效，請確認設定是否正確。為避免造成困惑或意外行為，預設情況下模組不會隱藏實體。您可透過啟用「全域套用最大實體數量」設定，或至設定選單的「實體」分頁中調整各實體的最大數量來啟用功能。\n\n## 效能\n\n為測試本模組效率，我召喚大量牛並比較使用模組將牛數量上限設為 100 隻，以及關閉模組時的 FPS 差異。左圖為關閉模組的狀態，右圖則為開啟模組並限制牛數量。\n\n![左圖顯示 700 頭牛，FPS 為 50；右圖啟用模組後，顯示牛數上限為 100，FPS 提升至 195](https://cdn.modrinth.com/data/cached_images/197efef138fa1e083cae6fa2e938dc337c798d49.png)\n![左圖顯示 200 頭牛，FPS 為 152；右圖限制顯示牛數為 100 後，FPS 提升至 229](https://cdn.modrinth.com/data/cached_images/71256f866f1d0ea6fd154b36a5661527287aca43.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

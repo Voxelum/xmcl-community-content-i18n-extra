@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aO5Pl0jApVw=",
+  "content": "<p><em><img src=\"https://i.imgur.com/KyeiwRx.png\" alt=\"\" width=\"1000\" height=\"325\"></em></p><p><em>\"我对历史数据的分析显示，有97.34%的概率你知晓我在你们星球上的诞生，以及我在城堡空间站重获新生、化为美丽的存在。\"</em> ——《网络奇兵2》</p><p>Citadel是一个库模组，专为1.14及以上版本中的高级动画和实体属性设计。作为一个库模组，Citadel本身并不增加太多特性，而是为其他模组在动画实体、加载.tbl Tabula和.obj Waveront模型、以及追踪实体属性方面提供框架支持。Citadel的前身LLibrary将不再更新至1.12.2版本，今后我所有的模组都将使用Citadel。Citadel的代码基础很大程度上源自LLibrary，并且已获得LLibrary维护者及近期版本作者Gegy1000的许可使用。</p><p>在1.6.3及以上版本中，还新增了一个配置选项，用于调整区块生成时最大生物生成数量的上限。当与多个需要Citadel的生物模组搭配使用时，这一功能尤为实用，因为若不调整此上限，这些模组可能会导致原版生物变得难以寻觅。</p><p>希望使用Citadel的开发者可以<a href=\"https://github.com/Alex-the-666/Citadel/wiki/Getting-Started\" rel=\"nofollow\">阅读指南，了解如何将其添加到他们的开发环境中</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

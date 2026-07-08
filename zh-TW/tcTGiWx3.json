@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2j+bppY15Qo=",
+  "content": "# 警告 警告\n\nMojang 已於 https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-1 中移除所有 P2P 服務\n\n此模組將僅限於管理好友列表，而 P2P 部分將無法正常運作。一旦 Mojang 重新開放 P2P 功能，本模組將會隨之更新。\n\n# 原始描述\n\n一款快速簡潔的客戶端模組，將 Mojang 在 26.2 快照中推出的「與好友同樂」功能回溯至舊版。包含 Mojang 託管的好友列表及基於 WebRTC 的 P2P 連線。\n\n## 運作原理\n\n26.2 功能主要為客戶端實作，且支撐此功能的 Mojang 服務可於任何已登入帳號中運作。\n因此本模組是基於這些相同服務所進行的精簡重新實作：\n\n- 透過 REST API 與 `api.minecraftservices.com` 同步好友狀態與在線資訊\n- 經由 JSON-RPC/WSS 與 `signaling-afd.franchise.minecraft-services.net` 進行信令傳輸\n- 使用 `webrtc-java` 實現 WebRTC\n- 自 26.2 快照中移植的 P2P 機制\n\n理論上，此模組具有足夠的版本獨立性，可製作成通用模組，使其能在任何基於 Netty 的 Minecraft 版本中運行。至於能否成功實作，尚待驗證。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

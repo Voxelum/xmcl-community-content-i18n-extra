@@ -1,0 +1,6 @@
+{
+  "bodyHash": "szDU0Aq1M0Y=",
+  "content": "# 什么是谢泼德音调？\n谢泼德音调是一种听觉错觉，它会让人感觉声音的音调在持续升高或降低，而实际上其实际频率是循环往复的，永远不会超过某个上限（这一技巧正是《超级马力欧64》中无尽阶梯效果所用的手法）\n\n# 为什么你采用了音调升高而非谢泼德音调？\n这种技巧只能通过固定波形时值来实现，因此无法在实时游戏中应用。但我尝试通过逐个提升独立音调的方式，尽可能复现其效果\n\n演示视频：<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/q5XuCd-Ig4E\" title=\"YouTube 播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n《以撒的结合》中已有类似[模组](https://steamcommunity.com/sharedfiles/filedetails/?id=2196484541)，我的创意正源于此。原始概念的全部功劳归于[IsaacGuru](https://steamcommunity.com/id/OciXCrom)\n\nDiscord - https://discord.gg/DvWt9HAg8e",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

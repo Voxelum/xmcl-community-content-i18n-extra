@@ -1,0 +1,6 @@
+{
+  "bodyHash": "S4Ib5eGvrDg=",
+  "content": "簡單帽子是一個可透過 JSON 設定檔自訂的裝飾性帽子模組，讓玩家能夠自行定義帽子，並支援多種進階選項，例如變體、可染色、粒子效果與季節性功能。\n\n模組預設內建近 300 款自訂帽子，玩家可自由新增、移除或修改。\n\n其他功能：\n\n- 帽子可從敵對生物掉落的「驚喜袋」（右鍵開啟）或各地戰利品箱中取得。\n- 不需要或重複的帽子可回收，用來合成新的或升級的袋子，以獲得新款式或更稀有的帽子。\n- 帽子可放置在可合成的「帽架」上展示。\n- 部分帽子擁有可透過合成輪換的變體模型/材質。\n- 部分帽子可像一般皮革物品一樣染色，並可在鍋釜中洗淨。\n- 部分帽子擁有不同的粒子效果，可在第三人稱視角或其他玩家身上看到。\n- 此外，遊戲內建季節系統，在特定時間段，一般袋子中會掉落特殊的驚喜袋。\n\n依賴項目（Fabric/NeoForge 1.21.1 及以上版本）：\n\n- （必要）Accessories：帽子透過 Accessories 系統裝備\n- （必要）owo-lib：處理簡單帽子的設定檔\n\n依賴項目（Forge 1.20.4 及以下版本）：\n\n- （必要）Curios：帽子裝備於裝飾用 Curio 欄位\n- （選用）JEI：簡單帽子支援將自訂配方加入 JEI\n- （選用）Optifine：若安裝 Optifine，多數帽子會自動啟用發光材質\n\n依賴項目（Fabric 1.20.4 及以下版本）：\n\n- （必要）Trinkets：帽子裝備於 Trinket 的「帽子」欄位\n- （必要）Cloth Config：用於非 JSON 的設定選項\n    選用：\n- （選用）Continuity 或 Optifine+Optifabric：若安裝其中任一，多數帽子會自動啟用發光材質\n- （選用）Mod Menu：簡單帽子支援 Mod Menu，可在遊戲中直接存取設定\n\n**需要聯絡我嗎？點選下方徽章：**\n\n[![Discord](https://img.shields.io/discord/1202561752294760478?labelColor=violet&color=purple)](https://discord.gg/ZPdwrtvBKm)\n\n**需要伺服器嗎？點選下方橫幅，使用優惠碼「fonny」即可在 Bisect Hosting 首次訂閱享 75 折優惠：**\n[![Bisect Banner](https://raw.githubusercontent.com/fonnymunkey/fonnymunkey.github.io/main/docs/assets/banner.webp)](https://fonnymunkey.github.io/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

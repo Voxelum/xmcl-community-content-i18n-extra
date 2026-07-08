@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BkrUsR57+eg=",
+  "content": "![Logo](https://raw.githubusercontent.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png)\n\n此项目包含Forge模组的共享代码，并被SlimeKnights团队使用，如匠魂、自然、匠魂机械、灵感与陶瓷。描述性书籍代码、通用物品栏和JSON解析工具都在这里。\n\n为什么？为了科学和史莱姆，还有什么其他原因呢？\n源代码可以在[GitHub](https://github.com/SlimeKnights/Mantle)上找到。\n\n此外，还添加了一个重新设计的心脏显示，使用叠加的彩色心脏，而不是一行行堆叠的心脏。只有当你有增加最大生命值的方法时，才会出现不同颜色的心脏，普通心脏保持不变。如果你愿意，可以在客户端配置文件中禁用此功能。\n\n----\n\n此项目目前支持1.18.2及以上版本，以及1.7.10、1.12.2和1.16.5。如果你使用的Minecraft版本没有Mantle发布版本，请在我们的Discord上提出请求，我会上传旧版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

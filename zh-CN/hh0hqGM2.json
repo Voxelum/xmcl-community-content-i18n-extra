@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tiv2jwweA+4=",
+  "content": "# 欢迎使用JEI集成重生模组\n\n本模组为更新版本的Minecraft带来了[JEI集成](https://modrinth.com/mod/jei-integration)功能。\n\n## 安装并正确配置模组后，您的物品将显示：\n\n1. 燃烧时间\n2. 耐久度\n3. 最大堆叠数量\n4. 标签\n5. 数据组件\n6. 翻译键\n7. 附魔能力\n8. 饥饿值/饱和度\n\n## 配置须知：\n\n⚠️ 所有功能默认处于关闭状态 您必须编辑配置文件来激活所需功能。这允许您精确控制JEI界面，并防止信息过载。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

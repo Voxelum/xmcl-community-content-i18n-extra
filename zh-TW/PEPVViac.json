@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WTCtXeEbHEY=",
+  "content": "Advanced Loot Info 提供了一種全新方式來顯示戰利品表的資訊。所有資訊都會以清晰的方式呈現。\n\n![Advanced Loot Info 工具提示](https://cdn.modrinth.com/data/PEPVViac/images/7bde0c7d5728dec2576f80aa6bd29d280a902db0.png)\n![Advanced Loot Info 預覽](https://cdn.modrinth.com/data/PEPVViac/images/14fca00909ecd699b1566461c3bd94972fb38320.png)\n\n此模組並非獨立運作，需要搭配以下三種受支援的配方查看器之一：\n- Just Enough Items (JEI)\n- EMI\n- Roughly Enough Items (REI)\n\n內建支援的模組：\n- LootJS\n\n此外，模組也支援以下功能的外掛：\n- 顯示自訂戰利品條目\n- 顯示自訂戰利品條件\n- 顯示自訂戰利品函數\n- 處理自訂數字提供器\n- 建立自訂分類（目前僅限於遊戲玩法戰利品分類）\n\n所有錯誤回報請至 [GitHub](https://github.com/yanny7/AdvancedLootInfo/issues)。\n\n[Discord](https://discord.gg/HauMDpbkNN)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

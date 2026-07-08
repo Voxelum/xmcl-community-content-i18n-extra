@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZwCKfO6YujA=",
+  "content": "## FastXP\n\nFastXP 是一個輕量級的客戶端優化模組，旨在改善你在 Minecraft 中處理經驗瓶（附魔之瓶）時的體驗。\n\n### 功能\n* **無投擲延遲：** 完全移除原版按住右鍵投擲經驗瓶時 4 刻的內部冷卻時間。\n* **快速投擲：** 讓你能夠幾乎瞬間清空整組經驗瓶，節省你在經驗農場或修復裝備時的時間。\n* **純客戶端：** 在任何原版、Paper、Purpur 或 Spigot 伺服器上皆可完美運作，無需在伺服器端安裝此模組。\n\n### 需求\n* Minecraft 1.21.4\n* Fabric Loader",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

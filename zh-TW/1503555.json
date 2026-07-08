@@ -1,0 +1,6 @@
+{
+  "bodyHash": "91wO/zNqZSA=",
+  "content": "<p>svrUptime</p><p>精確掌握您的世界已運行多久——無論是 Minecraft 時間還是真實時間。</p><p>這是一款伺服器端/單人遊戲模組。</p><p>每個遊戲內的早晨，svrUptime 會向所有線上玩家廣播伺服器的總運行時間，並以 Minecraft 日曆單位（日、月、年、十年、世紀、千年）分解顯示，同時附上對應的真實世界時間。每日黃昏時也會觸發簡短的夜晚訊息，標記每個遊戲內日期的結束。</p><p>功能特色</p><ul>\n<li>每日日出時自動廣播運行時間，並提供完整的 Minecraft 日曆分解</li>\n<li>在 Minecraft 時間旁同步顯示真實世界經過的時間</li>\n<li>可透過 svruptime.json 自訂早晨與夜晚的訊息文字</li>\n<li>首次啟動時自動生成設定檔，並採用合理的預設值</li>\n<li>/uptime query [單位] —— 隨時查詢運行時間，可選指定最大單位（從「日」到「千年」）</li>\n<li>/uptime help —— 顯示指令參考</li>\n<li>/uptime admin broadcast enable|disable —— 切換每日運行時間廣播功能</li>\n<li>/uptime admin morning enable|disable —— 切換日出訊息</li>\n<li>/uptime admin evening enable|disable —— 切換日落訊息</li>\n<li>/uptime admin reload —— 重新載入設定檔，無需重啟伺服器</li>\n<li>/uptime admin status —— 查看目前設定狀態</li>\n<li>所有指令均支援 /ut 作為別名</li>\n</ul><p>設定檔 (config/svruptime.json) <br>{ <br>&nbsp; &nbsp;\"broadcastEnabled\": true, <br>&nbsp; &nbsp;\"morningMessageEnabled\": true, <br>&nbsp; &nbsp;\"eveningMessageEnabled\": true, <br>&nbsp; &nbsp;\"morningMessage\": \"§6☀ 新的一天已經開始。\", <br>&nbsp; &nbsp;\"eveningMessage\": \"§9☾ 夜幕已然降臨。\" <br>}</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

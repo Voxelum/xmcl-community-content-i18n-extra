@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fed5c3f8a4984777",
+  "content": "\n\n<h2>EMI Trades</h2>\n<p>Дополнение для EMI, добавляющее поддержку торговли с жителями.</p>\n<p><strong>Примечание: я поддерживаю этот проект на CurseForge по разрешению <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fuser%252fFlamarine\" rel=\"nofollow\">Flamarine</a>.</strong></p>\n<h3>Возможности</h3>\n<ul>\n<li>Отображение стоимости и награды</li>\n<li>Отображение требуемого уровня для сделки</li>\n<li>Поддержка торговли странствующими торговцами</li>\n<li>Автоматическая поддержка жителей из модов</li>\n</ul>\n<h3>Настройки</h3>\n<p>Начиная с версии 1.0.2, в этом моде добавлена очень простая конфигурация (<code>config/emitrades.toml</code>), позволяющая переключаться между старым и новым отображением рецептов. Графического интерфейса пока нет, поэтому вам нужно редактировать файл вручную.</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252ffzzyhmstrs\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp\" alt=\"Баннер Bisect Hosting\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

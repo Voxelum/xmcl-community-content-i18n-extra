@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WA4Lu0cZSLQ=",
+  "content": "# NameFabric\n\n[![Требует Fabric API](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/requires/fabric-api_vector.svg)](https://modrinth.com/mod/fabric-api)  ![Не поддерживает Forge](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/unsupported/forge_vector.svg)  [![Поддерживает версии Minecraft от 1.16](https://notcoded.needs.rest/r/badge_minecraft_1.16plus.svg)](https://minecraft.net)\n\nЭтот мод позволяет получать публичные данные о игроках, такие как прошлые имена пользователя, текущий скин и многое другое, используя [API LabyNet](https://laby.net) и [Mojang](https://api.mojang.com).\n\n## Возможности\n- **/namehistory** | Получает прошлые имена игрока.\n- **/getuuid** | Получает UUID игрока.\n- **/getskin** | Получает текущий скин игрока.\n- **/getcape** | Получает текущую накидку игрока.\n\nСодержание посвящено модам для Minecraft, ресурс-пакам, модпакам, шейдер-пакам или другим связанным с Minecraft ресурсам. Пожалуйста, сохраняйте стиль изложения приятным для геймеров.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6JPCaw01H/M=",
+  "content": "<h1>Exordium</h1><p><strong>以较低的帧率渲染GUI和屏幕，以加速真正重要的部分：世界渲染。</strong></p><p>以较低的固定帧率（可在设置中配置）渲染GUI，从而为世界渲染释放CPU和GPU时间。没有理由以100+ FPS渲染快捷栏。</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fshockbyte.com%252fpartner%252ftr7zw\" rel=\"nofollow\"><img src=\"https://tr7zw.dev/img/shockbyte_black.png?v=2\" alt=\"Shockbyte\"></a></p><h2>兼容性</h2><p><strong>这仍然是一个开发中的软件！可能会与其他模组出现视觉问题/兼容性问题！目前处于维护模式，不会添加新功能或修复与其他模组的错误！</strong></p><h3>不兼容</h3><ul>\n<li>VulkanMod</li>\n<li>MiniHUD（问题出在它们那边，FPS计数器显示的是GUI的FPS而不是世界的FPS）</li>\n<li>Canvas</li>\n<li>Fast Crosshair 与 ImmediatelyFast 不兼容，请保持关闭</li>\n<li>在 BetterF3 中禁用滑动动画或调试屏幕缓冲</li>\n<li>许多其他渲染自己GUI元素的模组，模组越复杂，越可能与此模组不兼容。无需报告此问题，Exordium 仅支持原版UI</li>\n</ul><h2>常见问题</h2><h3>支持(Neo)Forge吗？</h3><p>不支持。</p><h3>这个模组能与xyz模组一起使用吗？</h3><p>试试看吧。请记住，仅支持原版GUI，不要询问替换UI内容的模组。</p><h3>会回移植到1.16.5/1.12.2/1.8.9吗？</h3><p>没有回移植的计划，主要是因为旧版本的引擎限制。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "R7+oS/Vdx7g=",
+  "content": "<h2>🏠 HomeLink – 時尚傳送！</h2><p><strong>HomeLink</strong> 是一款輕量級且完全伺服器端的 Fabric 模組，讓玩家能輕鬆建立、管理並傳送至自訂的家中位置。最適合生存伺服器、SMP 與冒險型社群使用。</p><hr><h3>✨ 功能特色</h3><ul>\n<li>📌 設定與刪除具名家中位置</li>\n<li>🧭 使用 <code>/home &lt;名稱&gt;</code> 傳送至你的家中</li>\n<li>💀 使用 <code>/back</code> 返回先前位置</li>\n<li>👥 向其他玩家發送與接受傳送請求</li>\n<li>⛔ 玩家移動或受傷時取消傳送（可設定）</li>\n<li>📁 以易讀的 JSON 檔案儲存每位玩家的家中資料</li>\n<li>🌍 支援多世界與地獄環境</li>\n<li>💬 直覺的回饋訊息與記錄</li>\n<li>🛡 完全伺服器端 —— 無需用戶端模組！</li>\n</ul><hr><h3>🔧 指令列表</h3><ul>\n<li><code>/sethome &lt;名稱&gt;</code> – 在目前位置設定家中</li>\n<li><code>/delhome &lt;名稱&gt;</code> – 刪除特定家中</li>\n<li><code>/home &lt;名稱&gt;</code> – 傳送至家中</li>\n<li><code>/tpback</code> – 返回上個位置</li>\n<li><code>/tpto &lt;玩家&gt;</code> – 請求傳送至其他玩家</li>\n<li><code>/tphere &lt;玩家&gt;</code> – 請求其他玩家傳送至你</li>\n<li><code>/tpaccept &lt;玩家&gt;</code> – 接受待處理請求</li>\n<li><code>/tpdeny &lt;玩家&gt;</code> – 拒絕待處理請求</li>\n<li><code>/tpcancel</code> - 取消待處理請求</li>\n</ul><hr><h3>⚙️ 設定配置</h3><p>透過 <code>/config/HomeLink/</code> 目錄中生成的 JSON 設定檔，可調整傳送延遲、移動/受傷取消設定與家中數量限制。</p><hr><h3>🧩 需求環境</h3><ul>\n<li><strong>Fabric Loader</strong></li>\n<li><strong>Fabric API</strong></li>\n</ul><hr><h3>🌟 為何選擇 HomeLink？</h3><p>操作簡便、對伺服器友好，並充滿提升遊玩體驗的功能。無論你是休閒玩家或經營大型伺服器，HomeLink 都能讓傳送體驗流暢、公平且可自訂。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

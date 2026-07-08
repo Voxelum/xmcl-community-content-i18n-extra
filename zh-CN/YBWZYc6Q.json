@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EeG6mRG/ygY=",
+  "content": "# 红石机器人\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/IfGuzTshRDQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 📖 模组介绍\n\n使用红石充能的红石机器人，能够跟随玩家，用弓箭和铁剑攻击敌对生物！\n\n## ⌨️ 指令\n\n召唤：\n\n```mcfunction\n/function redstone_robot:redstone_robot/summon\n```\n\n禁用最近的红石机器人：\n\n```mcfunction\n/scoreboard players set @n[tag=redstone_robot.robot] redstone_robot.robot.power 10\n```\n\n杀死所有红石机器人：\n\n```mcfunction\n/kill @e[tag=redstone_robot.robot]\n```\n\n## 🪪 许可证\n\n[AGPL-3.0-or-later](https://github.com/lullaby6/data-packs/blob/main/LICENSE)\n\n## 👾 漏洞/问题反馈\n\n请在[Discord服务器](https://discord.gg/5UdcDa5xNC)中报告任何问题/漏洞/故障。\n\n## 💌 捐赠支持\n\n- [在Ko-Fi上捐赠](https://ko-fi.com/lullaby45743)\n- [在PayPal上捐赠](https://www.paypal.com/paypalme/lucianobrumer)\n\n## 🎁 服务器托管\n\n搭建自己的服务器可能是个非常耗时、繁琐且成本高昂的过程。\n\n但通过BisectHosting，您只需点击几下就能拥有自己的服务器！他们提供24/7全天候支持和快速响应服务，没有任何问题能阻挡您！\n感兴趣吗？我们为您准备了专属优惠！\n\nhttps://bisecthosting.com/lullaby\n\n![服务器托管](https://www.bisecthosting.com/partners/custom-banners/e840cd99-59f6-4b27-b542-3023cd08bdfe.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

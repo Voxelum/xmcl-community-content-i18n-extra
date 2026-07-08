@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mr26lXesuDI=",
+  "content": "<h1 style=\"text-align:center\">&nbsp;</h1><h1>快速落葉</h1><p><span style=\"font-size:18px\">這個原創的伺服器端模組，讓那些討厭的懸浮葉片徹底消失！</span></p><p>&nbsp;</p><p>這是一個簡單的 Minecraft Forge 模組，能在你砍伐樹木後加速落葉的消失。預設情況下，所有葉片大約只需五秒就會消失。</p><p>無需任何設定，也不需要安裝於客戶端！只需將 JAR 檔放入你的 mods 資料夾（若在伺服器上遊玩則放入伺服器端），或使用 CurseForge 客戶端安裝即可開始使用。</p><p>該模組<strong>不會造成任何明顯的延遲</strong>，因為它不會使用任何特殊手段清除葉片，僅遵循 Minecraft 原版的落葉機制。</p><p>&nbsp;</p><p><strong>感謝 beardedgoof 的模組評測！</strong></p><p>&nbsp;</p><p><span><span><iframe src=\"https://www.youtube.com/embed/4Ui_Gs94v5w?wmode=transparent\" width=\"638\" height=\"358\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><p>&nbsp;</p><h2>需求</h2><p><strong>僅有伺服器需要安裝此模組</strong>，因此若你遊玩的伺服器已安裝，客戶端無須再安裝。即使安裝在客戶端，也不會產生任何效果。</p><p>&nbsp;</p><h2>相容性</h2><pre>此模組會加速使用 <span style=\"font-family:&amp;#x27\">leaves</span> 區塊標籤或繼承自 <span style=\"font-family:&amp;#x27\">LeavesBlock</span> 的葉片落葉速度。這表示大多數模組中的樹木也應能正常運作。若遇到問題，請告知我。</pre><p>&nbsp;</p><h2>設定</h2><pre>若要調整落葉速率，請查看世界中 serverconfigs 資料夾內的設定檔。</pre><p>&nbsp;</p><h2>已知相容性問題</h2><p>目前尚未發現與此模組的相容性問題。</p><p>&nbsp;</p><h2>整合包</h2><p>歡迎將此模組加入你的整合包中，無需取得許可！不過，若能留下評論我會很感激。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

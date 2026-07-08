@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0OENryzMj1A=",
+  "content": "![標題](https://cdn.modrinth.com/data/cached_images/44833e7c9fd7229889f1a1289da7765d98aa9e54.png)\n\nchrissi的夜視模組是一款輕量級的客戶端實用工具模組，讓你可以透過按鍵切換夜視效果。\n\n它提供Minecraft內建的夜視效果，而不僅僅是提高亮度，因此你能保留原始的光照和完整的著色器支援；所有功能都以非常輕量的方式實現。\n\n---\n\n**請注意：** 此模組僅適用於Java版，且僅在[Modrinth](https://modrinth.com/mod/chrissi-nightvision)上託管。原始碼可在[GitHub](https://github.com/chrissitxt/chrissi-nightvision)上取得。如果你想聯繫，歡迎加入我的[Discord伺服器](https://discord.gg/Qdk3TcDv6N)。\n\n##\n\n<details>\n<summary>使用方法</summary>\n\n按下 **V**（預設按鍵）來開啟或關閉夜視效果。\n\n若要更改按鍵設定，請前往 **選項 → 控制 → 雜項**，尋找「切換夜視效果」。\n\n你可以透過編輯設定檔來自訂模組的行為，設定檔位於：\n\n```\nconfig/chrissi-nightvision.json\n```\n\n**注意：** 更改設定檔後需要重新啟動Minecraft，變更才會生效。\n\n**Mod Menu整合**正在考慮在正式版中加入，但目前手動編輯設定檔能讓模組保持輕量且無依賴性。\n\n</details>\n\n<details>\n<summary>伺服器使用與合法性</summary>\n\n⚠️ **使用風險自負！**\n\n我的模組在大多數伺服器上通常是被允許的，因為它只提供原版的夜視效果。然而，有些伺服器可能會明確禁止伽瑪值調整模組或類似的亮度修改。使用前請務必查看伺服器規則。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

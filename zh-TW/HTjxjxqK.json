@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RFMwbbOu56Q=",
+  "content": "### 基本資訊\n* 此為非官方移植的 [Origins: Classes](https://modrinth.com/mod/origins-classes) Forge 版本。</br>\n* 本模組需搭配 [Origins (Forge)](https://www.curseforge.com/minecraft/mc-mods/origins-forge) 使用。</br>\n* 本模組不會向下移植舊版本，因 [Origins (Forge)](https://www.curseforge.com/minecraft/mc-mods/origins-forge) 在舊版本穩定性不足且已停止維護。</br>\n\n除了選擇起源外，現在你還可以選擇職業。職業提供比起源更小的增益效果，但沒有任何負面影響。</br>\n\n### 職業列表\n* 弓箭手：你的投射物更精準；使用弓時減速效果減輕</br>\n* 馴獸師：你馴服的動物獲得永久額外生命值和傷害；當你飲用藥水時效果也會作用於附近已馴養的動物</br>\n* 鐵匠：你製作的工具和盔甲提供小幅增益；你能更有效率地修復工具和盔甲，無論是在鐵砧或合成欄</br>\n* 牧師：你可以精煉藥水使其瞬間效果更強、持續時間更長；你在附魔方面更出色</br>\n* 廚師：你製作的食物提供更多飽食度；在煙燻爐烹飪食物可獲得額外經驗值</br>\n* 探險家：遊戲開始時獲得9張空白地圖、指南針和時鐘；衝刺不會消耗飢餓值</br>\n* 農夫：你使用的骨粉效果加倍；採收作物時有時會獲得雙倍產量</br>\n* 伐木工：將原木製成木板時額外獲得兩塊木板；使用斧頭時能一次性砍倒整棵樹</br>\n* 商人：與村民交易時不會消耗其交易次數；流浪商人會給你特別優惠</br>\n* 礦工：你挖掘所有石質方塊速度更快；採礦不會消耗飢餓值</br>\n* 呆瓜：你對任何事情都不太在行 :)</br>\n* 牧場主：繁殖動物時有時會產下雙胞胎；你擊殺的動物有機率掉落雙倍戰利品</br>\n* 盜賊：你的名字不會透過牆壁顯示；潛行10秒後進入隱匿狀態（減少聲響並從背後攻擊造成雙倍傷害）</br>\n* 戰士：使用任何武器時攻擊傷害+1；使用盾牌時減速效果減輕</br>\n\n### 資料包\n你可以透過資料包添加自訂職業，方法是建立一個起源，然後將其添加到 data/origins-classes/origin_layers/class.json 的圖層中。</br>\n但請勿使用 [Origins: Classes](https://modrinth.com/mod/origins-classes) 提供的權能類型，因為它們會被捨棄/重寫。</br>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

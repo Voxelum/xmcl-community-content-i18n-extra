@@ -1,0 +1,6 @@
+{
+  "bodyHash": "g14gzDUgBrE=",
+  "content": "**Map4Image** 是一款 NeoForge 模組，可讓您透過連結將圖片轉換為 Minecraft 地圖藝術。此模組深受 [Image2Map](https://modrinth.com/mod/image2map) 啟發，並作為 Image2Map 的 NeoForge 替代方案。_目前模組處於早期開發階段，功能與完善度尚未達到 Image2Map 的水平。_ 此模組僅需安裝於伺服器端，原版客戶端玩家亦可使用。\n\n![展示於物品展示框中的多張轉換為地圖藝術的圖片](https://cdn.modrinth.com/data/cached_images/4b056b86c996b3b86caebc032b61bc24ab3c1f90.png)\n\n**Map4Image** 具有以下功能：\n- 能在遊戲內生成 Minecraft 地圖藝術\n- 自動將大型地圖藝術放置/拆除於物品展示框上\n- 生成地圖藝術時可指定來源、[抖動類型](https://en.wikipedia.org/wiki/Dither#Digital_photography_and_image_processing) 及寬度/高度\n\n# 使用方法\n### 創建指令\n```\n/map4image create <連結> <抖動類型> <寬度> <高度>\n```\n連結必須為直接圖片連結（即結尾為圖片擴展名如 .png 的連結），**請注意此連結需以引號包圍**。抖動類型建議使用 **floydsteinberg**，因其通常能產生最穩定的品質效果，但若圖片初次效果不佳，建議嘗試其他類型。寬度和高度單位均為像素，單張 Minecraft 地圖僅能容納 128x128 像素，超過此數值將生成「超級地圖」。\n#### 超級地圖\n超級地圖是指透過將寬度或高度設為超過 128 像素所生成的地圖藝術。超級地圖僅會顯示生成的 128x128 版本圖像，但放置於物品展示框時會鋪開所有地圖。需在物品展示框網格的左上角放置「超級地圖」，並確保網格高度與寬度足夠容納全部地圖。請注意，每 128 像素對應一張完整地圖，因此 300x500 的圖像需要 3x4 格的物品展示框網格。\n# ⚠️ 伺服器管理員注意 ⚠️\n目前此模組無法自我限流，雖使用獨立線程進行渲染，仍極易導致伺服器延遲。現階段**建議僅與可信任的玩家共同使用此模組**。未來計畫加入更安全的伺服器支援功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

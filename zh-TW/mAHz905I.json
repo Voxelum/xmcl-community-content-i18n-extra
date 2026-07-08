@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rcMpl+ykMbA=",
+  "content": "# Splinecart\n![使用Splinecart製作的礦車軌道](https://cdn.modrinth.com/data/mAHz905I/images/de32da9ba7572315c76577e36cf56adbf7dbf37b.png)<br/>\n這個模組新增了一種新型鐵軌方塊，可用於打造平滑彎曲的礦車雲霄飛車軌道。\n\n**最初是為了ModFest: Carnival製作的**\n\n## 快速入門\n- 將軌枕方塊放置在任意方塊的其中一個面上。\n- 對軌枕按右鍵可旋轉方向。\n- **重要：** 軌枕有「前進」方向，由方塊上深色箭頭的順序表示。這決定了向外軌道的起點與向內軌道的終點方向。\n- 在別處放置第二個方向正確的軌枕方塊。\n- 對第一個軌枕方塊使用鐵軌物品，再對第二個使用，即可建立連接兩者的軌道。點擊每個軌枕方塊的順序會影響結果。\n- 使用原版鐵軌將礦車導入第一個軌枕方塊。\n### 軌道類型\n- **一般軌道**：礦車可行駛的標準軌道。\n- **鏈條驅動軌道**：能持續將礦車向前推進的軌道，適合用於陡峭上坡段。\n- **磁力軌道**：速度控制軌道，其強度由提供紅石訊號的軌枕控制。可用於動力發射或煞車區段，但在陡坡上效果不佳。\n\n## 動暈症警告\n- **若您容易暈車，請在搭乘Splinecart軌道前執行以下指令：** `/splinecartc config rotate_camera false`\n- Splinecart會造成劇烈的鏡頭旋轉（詳見展示區範例），可能引發動暈症或影響光敏感使用者。\n- **執行上述指令後，搭乘Splinecart軌道時鏡頭將不會旋轉**，以降低此風險。\n- 除上述設定外，啟用第三人稱模式也有助於減輕動暈症狀。\n- 若要重新啟用鏡頭旋轉功能，請使用 `/splinecartc config rotate_camera true`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

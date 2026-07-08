@@ -1,0 +1,6 @@
+{
+  "bodyHash": "36UTOdXPGBk=",
+  "content": "<center><img src=\"https://cdn.modrinth.com/data/qelfSMnn/1aeafcad20bb1dd4f70d48d85dc80ba64f9b7a31.png\" width=\"200\" height=\"200\"></center>\n<p></p>\n如果你想將此模組放入你的模組包中，請隨意使用 :)\n\n這個模組為 Applied Energistics 2 新增了匯入與匯出卡片。<br>\n\n匯入卡片會將你物品欄中特定欄位的物品取出，並存入你的 ME 系統。<br>\n打開你的無線終端，將匯入或匯出卡片放入右側的插槽中。<br>\n<img src=\"https://i.imgur.com/sfeiW9p.png\"><br>\n若要進行設定，請點擊左側的按鈕之一。<br>\n\n<img src=\"https://i.imgur.com/mFd2HaK.png\"><br>\n點擊欄位會出現勾選標記。將物品從你的物品欄拖曳到上方以變更篩選器。支援模糊卡片。若要將篩選器改為黑名單，則需要反轉卡片。<br>\n\n<img src=\"https://i.imgur.com/hlWsGyJ.png\"><br>\n匯出卡片的運作方式完全相同，但它會將物品從你的 ME 系統中取出並放入你的物品欄。若要指定物品，請將物品從物品欄拖曳到上方其中一個欄位中，然後點擊物品欄中的某個欄位，將其變更為所需的數量。右鍵點擊可以清除並恢復為 X。支援模糊卡片。加速卡片可將傳輸速度從 1 個物品提升至整組物品。合成卡片則用於自動請求並合成當前無法取得的物品。<br>\n\n匯入卡片配方：<br>\n<img src=\"https://cdn.modrinth.com/data/qelfSMnn/images/a98e9868b06294b5f4a44e0a61c9471025ed5e20.png\"></img>\n\n\n匯出卡片配方：<br>\n<img src=\"https://cdn.modrinth.com/data/qelfSMnn/images/d51284cc18056272878da4b30f96453354b9de00.png\"></img>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

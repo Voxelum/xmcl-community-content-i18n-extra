@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7mQ2URJ9xOU=",
+  "content": "# Jade VS\n\n为Jade提供与Valkyrien Skies或Sable的兼容性。\n\n它修复了当你请求方块数据时，Jade对服务器端方块距离的检测。因此，你可以在VS飞船上通过Jade查看附加信息。\n\n它还允许你在多人游戏中轻松检查方块的质量、速度以及角速度。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

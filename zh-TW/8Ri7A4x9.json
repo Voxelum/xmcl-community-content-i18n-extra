@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hcv/I/09osU=",
+  "content": "## 功能\nSimpleAnimator 是一個簡單的動畫引擎，允許玩家使用基岩版動畫來播放玩家動畫。\n\n在線上遊玩時，客戶端會同步伺服器載入的動畫。\n\n## 動畫\n動畫可以透過 BlockBench 製作，如果需要，可以在動畫匯出後手動添加一些特殊的布林值：\n- override：指定動畫是否覆蓋現有的動作和攝影機方向。預設值為 true。如果值為 false，動畫將以附加模式運作。\n- movable：播放動畫時玩家是否可以移動。預設為 false。\n- abortable：動畫是否可以中止。預設值為 true。如果為 false，動畫將無法被玩家動作中斷（如果動畫處於循環模式，不建議設定為 false）。\n\n此外，可以從 [GitHub](https://github.com/LouisQuepierts/SimpleAnimator/releases/tag/1.1.0) 下載相應格式的 BlockBench 專案檔案，以便於製作動畫。\n\n該模組提供兩種添加動畫的方式：  \n**資料包：**  \n對於模組開發者，可以選擇將動畫放入 data/[modid]/animations 中。  \nAPI 和更多詳細資訊將在後續版本的文檔中添加。  \n**資料夾：**  \n對於大多數玩家，可以透過將檔案放入 [遊戲版本路徑]/animations 來載入動畫。  \n\n## 互動\n互動是模組版本 1.1.0 後新增的功能，允許兩名玩家互動並播放動畫（在網路不穩定的情況下可能對不齊）。  \n互動檔案的導入方式與普通動畫類似，但需要在動畫檔案中添加子動畫：invite、waiting、cancel（可選）。  \n此外，動畫骨骼需要包含帶有 requester_ 和 receiver_ 前綴的骨骼。具體格式可以查看 [GitHub](https://github.com/LouisQuepierts/SimpleAnimator/releases/tag/1.1.0) 中的 Starting-Kit.interact.bbmodel。\n\n## 指令\n`/animate play <動畫>`  \n`/animate stop`  \n`/interact invite <玩家> <互動>`   \n`/interact accept <玩家>`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

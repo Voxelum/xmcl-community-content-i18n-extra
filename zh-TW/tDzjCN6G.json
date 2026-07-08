@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Lw28UILOhoY=",
+  "content": "# 潛行機制\n  這個地圖製作用的資料包新增了旋轉監視器，可使用 **/function stealth_mechanics:place_projector** 放置，旨在添加潛行機制。\n若要移除監視器，請執行 **/function stealth_mechanics:remove_nearest_projector**\n\n### 範例\n![預覽](https://i.imgur.com/UCiRio8.gif)\n\n## 特色\n- 這些監視器會旋轉，但一旦被監視器發現，就會跟隨玩家的移動。\n- 玩家被發現時，會暫時出現提示訊息。\n\n## 設定\n\n如果你希望在玩家被監視器發現時觸發自訂動作，只需在重複指令方塊或刻函數中寫入：**/execute as @a[tag=spotted] at @s run <你的指令、你的動作>**\n若想針對不同監視器設置不同距離參數（例如，在某個監視器被抓到時傳送到X地點，但在另一個較遠的監視器被抓到時傳送到Y地點），你可以在同一個重複指令方塊中加入距離參數：**/execute as @a[tag=spotted,distance=..30] run <你的指令>**\n\n例如：**/execute as @a[tag=spotted,distance=..30] at @s run teleport @s X Y Z**（監獄座標）\n或 **/execute as @a[tag=spotted,distance=..30] at @s run summon zombie ~ ~ ~**\n若要設定被抓到的通用效果，請勿使用 \"distance=\" 參數。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

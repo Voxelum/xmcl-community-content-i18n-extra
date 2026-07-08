@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EhyNL6lELhY=",
+  "content": "<p>本模组可定期调用System.gc()来清理内存。</p>\n<p>同时添加了/memorysweep_c和/memorysweep_s命令用于手动清理内存。</p>\n<p>默认内存清理时间间隔为15分钟，您可以在配置文件中修改此设置。</p>\n<p>也可根据内存使用率触发清理（默认阈值75%）。</p>\n<p>若垃圾回收时出现卡顿，请添加JVM参数<strong>-XX:+ExplicitGCInvokesConcurrent</strong></p>\n<p>当然，我也推荐尝试Java 11新增的ZGC垃圾收集器，无需上述参数：</p>\n<p><strong>-XX:+UnlockExperimentalVMOptions -XX:+UseZGC</strong></p>\n<p>请注意不要将ZGC与其他GC混合使用，且不要添加<strong>-UseAdaptiveSizePolicy</strong>参数</p>\n<p>&nbsp;</p>\n<p>如有建议可通过评论或<a href=\"https://github.com/Tki-sor/MemorySweep/issues\" target=\"_blank\" rel=\"nofollow\">提交Issues</a><a href=\"https://github.com/Tki-sor/Upd8r/issues\" target=\"_blank\" rel=\"nofollow\">反馈</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

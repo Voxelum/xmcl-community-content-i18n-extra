@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UXHg00e9iyA=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/039TrXtZD08\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n> _《Prominence II RPG》中使用的按鈕特效模組，創造出火焰般的按鈕動畫_\n\n有注意到 Minecraft 的按鈕完全沒有聲音嗎？大多數現代遊戲在滑鼠懸停於 UI 元素時，都會有細微的滴答聲模擬觸覺回饋。這個模組補足了這一點。雖然只是個小改動，卻能讓主選單的操作體驗更加愉悅。\n\n本模組還新增了**淡入效果**，可在按鈕的懸停與非懸停狀態間平滑過渡，讓模組包開發者能為按鈕添加華麗的動畫特效。預設情況下，懸停時還會顯示輕微的暗色疊加層，這些效果均可透過設定調整顏色/透明度或完全關閉。\n\n按鈕音效與懸停特效均可獨立設定開關。音效的音量與音調可自由調整，也能透過資源包替換音效檔案。\n\n以下影片展示預設的原始配置效果：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/lpDF_YdFZjY\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n[Discord](https://discord.gg/kS7auUeYmc)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

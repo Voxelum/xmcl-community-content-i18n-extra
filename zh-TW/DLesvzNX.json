@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d14Vm69jmjY=",
+  "content": "# 終端顯示單元修復\n\n在原始的 Applied Energistics 2 (AE2) 1.21.1 版本中，某些不正確的操作可能會導致模式終端無法直接顯示編碼槽位。此模組針對並修復了這個問題。\n\n## 問與答\nQ: 為什麼要放在左邊\n\nA: 為了避免與 AE 無線終端的升級槽位發生衝突。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

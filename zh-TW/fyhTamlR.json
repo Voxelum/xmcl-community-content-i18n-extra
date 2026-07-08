@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eIJGiWcpDTE=",
+  "content": "# 概述\n為 Minecraft 1.21+ 加入一個幸運方塊，玩家破壞它時會觸發隨機事件。\n\n![事件](https://cdn.modrinth.com/data/fyhTamlR/images/673d61d709954be8063118f377acdab4b37d7b8f.png)\n\n>注意：透過資料包可以輕鬆製作附加元件。（Wiki 即將推出～）\n\n# 遊玩方式\n## 世界生成\n幸運方塊會生成在原版的生態域中。\n\n![世界生成](https://cdn.modrinth.com/data/fyhTamlR/images/59fe080c144e57287428e2fdff7d27345d6bb5b4.png)\n\n## 合成\n幸運方塊可由 8 個金錠和 1 個紅石方塊合成。\n\n![合成](https://cdn.modrinth.com/data/fyhTamlR/images/3fe69bc6239303b6b0bfa8b7831289ea3a4b9995.png)\n\n# 功能\n> 仍在開發中\n\n- 掉落物品\n- 生成生物\n- 放置方塊\n- 掉落方塊\n- 放置儲物箱\n- 產生爆炸\n- 產生粒子效果\n- 發送訊息\n- 顯示訊息\n\n# 注意事項\n- 可能對英文不太友善？\n- 來自 Bilibili 或其他地方的迷因素材\n- 使用絲綢之觸以避免觸發事件並掉落自身\n\n# 為何製作\n- 學習 Minecraft 模組開發\n- 與朋友同樂\n- 原版幸運方塊模組尚未更新至 Minecraft 1.21+",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

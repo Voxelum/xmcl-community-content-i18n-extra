@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HNtgOcmPyvQ=",
+  "content": "这是[Player Animator](https://modrinth.com/mod/playeranimator)的一个附属模组，使其能够兼容人形生物。\n\n与Player Animator一样，它作为库使用，本身不会产生任何效果。该模组最初是为[Better Mob Combat](https://modrinth.com/mod/better-mob-combat)开发的。\n\n它兼容[Guard Villagers](https://modrinth.com/mod/guard-villagers)和[Entity Model Features](https://modrinth.com/mod/entity-model-features)。\n\n本模组通过配置选项修复了Player Animator与Entity Model Features之间现存的兼容性问题。\n\n此外，它还新增了一个名为 \"is_playeranimator_animation_active\" 的Entity Model Features变量，可用于CEM资源包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

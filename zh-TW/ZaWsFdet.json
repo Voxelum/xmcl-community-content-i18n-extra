@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bakaDyko5no=",
+  "content": "M Economy 是一款 Minecraft 模組，為你的世界帶來完整功能的交易系統！設定個人商店，擁有自訂庫存、價格與安全的擁有權。使用 ATM 管理貨幣，並透過便利的銀行券進行交易。對伺服器管理員來說，強大的管理商店提供無限庫存，非常適合創建無限供應商店或全伺服器市場。無論你經營繁華城鎮還是大型多人交易市場，都能建立蓬勃發展的經濟！\n\n### 特色：\n\n**支援 1.20.1、1.21.1 與 1.21.4**\n- 銀行券（$1、$5、$10、$20、$50、$100）\n- ATM - 安全存放你的金錢。\n- 保險箱 - 玩家可保護自己的金錢與貴重物品。\n- 玩家商店 - 設定物品、價格並新增庫存，坐等金錢入帳。玩家商店透過擁有者 UUID 保護。\n- 物品展示盒！（設定好商店方塊後，在上面放置一個。）\n- 管理商店 - 擁有無限庫存的創造模式商店！\n\n**刮刮樂攤位 - 提供 4 種刮刮樂（$1、$5、$10 與 $20）供玩家購買。**\n- $1 刮刮樂 = 贏得 $1 至 $100\n- $5 刮刮樂 = 贏得 $5 至 $500\n- $10 刮刮樂 = 贏得 $10 至 $1,000\n- $20 刮刮樂 = 贏得 $20 至 $2,000\n\n**自 V1.0.5 版本的設定檔**\n- 伺服器擁有者可設定銀行名稱，此名稱會顯示在 ATM 上。\n- 伺服器擁有者可設定玩家的起始餘額。\n\n### V1.0.5 指令\n\n/mecoadmin give <玩家> <數值>（權限等級 3 - 遊戲內與主控台使用）\n/mecoadmin take <玩家> <數值>（權限等級 3 - 遊戲內與主控台使用）\n/meco pay <玩家> <數值>\n/meco balance <玩家>\n/meco help\n\n### V1.0.4 指令\n\n- /meco give <玩家> <數值>（權限等級 3）\n- /meco take <玩家> <數值>（權限等級 3）\n- /meco pay <玩家> <數值>\n- /meco balance <玩家>\n- /meco help\n\n如果你發現任何錯誤或有建議，請在留言區告訴我。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5woDXXMnmW8\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

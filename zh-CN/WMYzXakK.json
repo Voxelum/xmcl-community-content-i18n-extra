@@ -1,0 +1,6 @@
+{
+  "bodyHash": "koaVJu+xzdM=",
+  "content": "![静态徽章](https://img.shields.io/badge/supports-1.21.4-green)\n![静态徽章](https://img.shields.io/badge/supports-1.21.3-green)\n![静态徽章](https://img.shields.io/badge/supports-1.21.1-green)\n![静态徽章](https://img.shields.io/badge/supports-1.21-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20.4-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20.3-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20.2-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20.1-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20-green)\n# 概述\n本模组为游戏添加了一个物品：经验护符。它由钻石和末影珍珠合成。右键使用此物品会消耗你的经验值，并每消耗25点经验掉落一个物品。\n# 可配置选项\n* 你可以在配置文件中修改每次物品掉落所需的经验值数量。\n* 你可以修改每消耗 _x_ 点经验获得的物品数量。\n* 当将所需经验值设置为0时，将激活“等级模式”，这意味着你将按等级而非经验点数获得物品。\n* 可以禁用正常的战利品表（方块掉落、生物战利品、宝箱）\n# 欢迎反馈！\n请在我的Discord中报告你发现的任何漏洞。如果你有改进此模组的想法，或希望添加新内容，也欢迎提供反馈。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

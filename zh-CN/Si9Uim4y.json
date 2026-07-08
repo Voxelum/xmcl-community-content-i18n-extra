@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UXu/Px8smGo=",
+  "content": "# 细节护甲条 重构版\n\n**在护甲条中显示更详细的护甲信息！**\n\n细节护甲条重构版是广受欢迎的 Detail Armor Bar 模组的维护分支，为 Minecraft 1.21.5+ 带来增强的护甲可视化功能。这款客户端模组会在 HUD 中直接显示护甲的详细信息，让您更轻松地管理防护等级和附魔效果。\n\n## ✨ 功能特性\n- 下界合金护甲条\n- 附魔保护类型颜色效果\n- 护甲经验修补效果\n- 荆棘覆层/效果\n- 护甲低耐久警告效果\n- 护甲纹饰显示\n- 以及更多！\n\n## 📖 **关于本分支**\n细节护甲条重构版由 [coredex-source](https://github.com/coredex-source) 维护，延续了 RedLime 原版模组的衣钵。本分支致力于将所有原版模组功能完整移植到新版本 Minecraft 中，并计划在未来扩展模组功能。\n\n## 💳 致谢\n- **RedLime**：原版模组作者\n- **ram6ert**：1.21.5 分支贡献者\n- **snessim 与 Heamaci**：纹理贡献者\n- **Icedude907**：通过修复视觉错误为代码做出贡献\n- **axtrough**：添加铜制护甲纹理\n\n## ⚡ 版本支持策略\n\n- 模组将支持最多三个版本，例如若 1.21.7 为最新 Minecraft 版本，则提供对 1.21.5、1.21.6 和 1.21.7 的支持。\n- 如需请求向下移植，可通过[此处](https://github.com/coredex-source/DetailArmorBarReconstructed/issues)提交 Issue 进行申请。\n\n## 🔗 **链接**\n- **源代码**：[GitHub 仓库](https://github.com/coredex-source/DetailArmorBarReconstructed)\n- **原版模组**：[RedLime 的细节护甲条](https://github.com/redlime/DetailArmorBar)\n\n---\n\n**注**：对于 Minecraft 1.21.4 及以下版本，请使用[原版细节护甲条模组](https://modrinth.com/mod/detail-armor-bar)。（鉴于 1.21.1 在模组社区中的受欢迎程度，我已决定在 5.0.0 版本中为这些版本添加支持）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

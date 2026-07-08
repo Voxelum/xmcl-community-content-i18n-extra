@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JdatAiF4jxk=",
+  "content": "**WorldWeaver（非官方 NeoForge 移植版）**\n\n此專案是 WorldWeaver 的**非官方 NeoForge 移植版**。\n其存在的目的是讓依賴 WorldWeaver 的模組能於 NeoForge 上，在現代 Minecraft 版本中運行。\n僅支援 NeoForge（不支援 Fabric 或 Forge）。\n\n**本專案功能**\n\n提供 WorldWeaver 函式庫於 NeoForge 上（一個由其他模組使用的依賴/工具函式庫）。\n目標是盡可能保持功能與上游一致，僅在必要時進行移植或相容性變更。\n\n**為何下載**\n\n只有在某個模組或模組包需要 NeoForge 上的 WorldWeaver 時，才下載此版本。\nWorldWeaver 是一個函式庫，通常不會單獨添加獨立的遊戲內容。\n需要在：用戶端與伺服器端皆安裝。\n\n**本專案與原版的差異**\n\n- 載入器/平台：NeoForge（上游為 Fabric）\n- 目標：與 Minecraft 在 NeoForge 上的相容性\n- 範圍：盡可能維持上游準確行為；必要時進行相容性修復\n\n**致謝 / 歸屬**\n\n所有美術資源與大部分程式碼皆歸屬於原始函式庫的開發者：BetterX 團隊。\n\n**原始專案（上游）**\n\nWorldWeaver（Fabric）由 BetterX 團隊製作（Modrinth）：https://modrinth.com/mod/worldweaver\n\n上游原始碼（GitHub）：https://github.com/quiqueck/WorldWeaver\n\n**支援 / 問題回報**\n\n這是**非官方 NeoForge 移植版**。請**不要**將問題回報給官方 BetterX 團隊的 Discord 或 GitHub，因為他們不維護此移植版。\n\n關於此 NeoForge 版本的錯誤與支援，請使用此移植版的 GitHub 問題追蹤器：https://github.com/Reijin2312/WorldWeaver_Neoforge\n\n若此移植版造成的任何問題影響到上游社群，請直接與我聯繫。\n\nBetterX Discord（上游社群）：https://discord.com/invite/kYuATbYbKW",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

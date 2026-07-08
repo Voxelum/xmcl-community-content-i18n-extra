@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Tf46Gwc2n3w=",
+  "content": "[![许可证：LICENSE-CC-BY-NC-4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue)](https://github.com/MavLeague/fallen_from_heaven/blob/main/LICENSE-CC-BY-NC-4.0.md)\n# 自天坠落\n本数据包阻止你在虚空中死亡。例如，当你掉入末地维度的虚空时，你将被传送到世界出生点上方的天空中。\n\n## 功能\n### 末地 → 主世界\n当你在虚空中坠落时，你将被传送到主世界。你的位置将位于**世界出生点**的 **y=258** 处。\n\n### 主世界 → 下界\n当你在虚空中坠落时，你将被传送到下界。你的位置将是 **x/8 y=258 z/8**。\n\n## 配置菜单\n<img src=\"https://cdn.modrinth.com/data/cached_images/741cc2172e28eab192efa5a1b938ba0d4282a4b9_0.webp\" alt=\"新配置菜单\" width=\"50%\">\n\n有一个菜单可以通过我的世界对话框更改数据包的配置。\n\n### 打开配置：\n```\n/function fallen_from_heaven:config/get_info\n```\n或者点击重载消息上的 ⛏ 图标：\n\n![重载消息](https://cdn.modrinth.com/data/cached_images/eda70e47b8bbb41c3d3ee95bd80e2bf10ed6ec67.png)\n\n### 可配置设置\n\n**保留坐标：** 当掉入末地维度的虚空时，你将被传送到世界出生点上方的天空中。启用后，坐标将保持不变。\n\n**空岛模式：** 当掉入虚空时，你将在同一维度的极高天空处下降。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

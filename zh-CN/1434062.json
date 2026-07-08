@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HBGZKy3WLZU=",
+  "content": "<p>本模组为机械动力（Create）新增了两种动力源：跑步机与女仆马达。</p><h3>跑步机</h3><ul>\n<li>玩家可点击站上跑步机。当玩家在其上奔跑时，跑步机可产生<strong>手摇曲柄两倍</strong>的动力。</li>\n<li>与<strong>东方人形师</strong>联动。安装后，将为女仆添加\"跑步机\"工作模式。女仆会主动寻找附近的跑步机并上去奔跑。</li>\n</ul><h3>女仆马达</h3><ul>\n<li>一种便携式动力源，仅当安装<strong>东方人形师</strong>后出现。插入女仆的<strong>灵魂珠或照片</strong>即可供能，并自动计算输出应力。</li>\n<li>激活时显示工作动画。</li>\n</ul><h3>重要说明</h3><ul>\n<li>如果只想让女仆操作手摇曲柄，请使用 MaidUseHandCrank 模组。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

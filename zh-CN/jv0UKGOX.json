@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sYjdBqu7C9s=",
+  "content": "# 免责声明\n这不是机械动力（Create）模组的附属模组，本模组不依赖它。它仅修复了 https://bugs.mojang.com/browse/MC-185901 问题。创建本模组的目的是专门解决玩家携带和渲染的大型装置问题，因此使用了\"Create:\"这个名称，但它并非机械动力模组的附属模组。\n\n# 信息\n这是一个仅客户端模组。它能让玩家数据容量从原版的2MB提升至10MB。\n\n未安装模组时的错误提示：\n <img src=\"https://cdn.modrinth.com/data/jv0UKGOX/images/fd9a41a45608bb27e946261d76cb0353d4b8a630.png\" width=\"1000\" />\n\n# 致谢\nXLPackets 1.16版，我移植了该版本中XLPackets的这一功能。与XLPackets不同的是，本模组仅限客户端使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nQtYd2PZw5o=",
+  "content": "### Позволяет разработчикам модов загружать ресурсы и использовать их на клиенте; указывается через версии Minecraft или URL-адреса.\n\n- Загруженные ресурсы будут отображаться в папке `.minecraft/assetmover` (поскольку это псевдо-ресурсный пакет).\n- Полностью совместимо с внутренними версиями.\n\n- Если вы используете Java 8u52 или аналогичные старые сборки Java 8, пожалуйста, установите [CensoredASM](https://legacy.curseforge.com/minecraft/mc-mods/lolasm).\n\nЗависимость от [Subaquatic](https://modrinth.com/mod/subaquatic) и [Extra Sounds Legacy](https://www.curseforge.com/minecraft/mc-mods/extra-sounds-legacy)!\n\nИконка [лицензирована по MIT by mcassets.cloud](https://github.com/InventivetalentDev/mcasset.cloud/blob/master/LICENSE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

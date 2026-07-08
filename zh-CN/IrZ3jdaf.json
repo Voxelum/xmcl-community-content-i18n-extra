@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lbfJf0TRMc8=",
+  "content": "# 食肉植物\n\n<details>\n<summary>食肉植物预览（GIF画质可能引发不适）</summary>\n\n![食肉植物预览（动画+模型/纹理）](https://i.imgur.com/lNSt13S.gif)\n\n</details>\n\n## 食肉植物行为\n\n- 生成于森林中\n- 极易被击杀\n- 造成伤害并附加中毒效果\n- 无法移动\n- 不掉落任何物品，但附近常能找到它上次吞噬的生物留下的肉\n- 被击杀后会消失\n\n## 食肉植物设计\n\n- 自定义纹理\n- 3D模型\n- 动画效果\n\n## 性能优化\n\n- 每95秒自动清除所有食肉植物，防止生成堆积导致卡顿；但可通过 **/function carnivorous_plant:summon_plant_persistent** 指令召唤**持久存在**的食肉植物\n- 出于性能考虑生成概率较低；若想在创造模式下主动寻找，请运行指令 /scoreboard players reset @a timer_plant\n- 被玩家击杀后立即消失\n\n## 前置要求\n\n**完全不需要！**\n纯服务端模组，无需资源包！\n需开启生物生成功能\n\n## 反馈/漏洞报告\n\n[点击此处提交反馈或报告漏洞](https://forms.gle/F9tsNmkmHtLZGBA28)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

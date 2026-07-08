@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wVSOhf4WR18=",
+  "content": "# 試煉更新回溯模組\n\n[![許可證：MIT](https://img.shields.io/badge/License-MIT-ff0000.svg)](https://opensource.org/licenses/MIT)\n[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-00a000.svg)](https://www.minecraft.net/)\n[![Forge](https://img.shields.io/badge/Forge-47.4.10-202c44.svg)](https://files.minecraftforge.net/)\n[![Fabric](https://img.shields.io/badge/Fabric-0.92.7-dbd0b4.svg)](https://fabricmc.net/)\n![試煉更新回溯模組](https://cdn.modrinth.com/data/cached_images/87ba47ec7aee0b138a2c47fbdac2bfbcdc053cf2_0.webp)\n\n一款將試煉更新體驗帶入 1.20.1 版本的 Minecraft 模組。新增了凝灰岩方塊、狼牙棒、風彈等特色內容。\n\n## 依賴模組\n\n### 必要\n1. [銅器時代回溯](https://www.curseforge.com/minecraft/mc-mods/copper-age-backport)（提供試煉大廳所需的銅方塊）\n2. [Trimmed](https://www.curseforge.com/minecraft/mc-mods/trimmed)（支援自訂盔甲紋飾）\n3. [碎片API](https://www.curseforge.com/minecraft/mc-mods/sherdsapi)（支援自訂陶器碎片）\n\n### 可選\n1. [原版回溯](https://www.curseforge.com/minecraft/mc-mods/vanillabackport)（提供裝飾陶罐的戰利品表與生怪蛋材質）\n\n## 鳴謝\n- **作者**：Daniel Dixon（Dandi2k8）\n- **靈感來源**：Minecraft 1.21 試煉更新",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ujYASGyLJXw=",
+  "content": "<p>Minecraft 使用屬性系統來處理許多實體屬性，例如最大生命值、移動速度和攻擊傷害。雖然這個系統非常靈活，但 Mojang 人為地限制了其中許多屬性。本模組透過將這些限制提升到合理的範圍來解決這個問題。您可以<a href=\"/linkout?remoteUrl=https%253a%252f%252fdocs.darkhax.net%252fmods%252fattributefix%252f\" rel=\"nofollow\">在此</a>了解更多關於本模組及其配置方式的資訊。</p><h2>常見問題</h2><h3>如何更改玩家或生物的屬性？</h3><p>本模組僅修改系統本身，不會更改任何個別生物或生物類型的屬性。原版遊戲提供了許多修改屬性值的方法，也有無數模組可以讓這件事更方便。本模組只專注於解除系統本身的限制。</p><p>&nbsp;</p><h3>為什麼更高的護甲值無法抵擋更多傷害？</h3><p>屬性的限制並不等同於使用該屬性的原版系統或公式的限制。原版傷害公式的護甲最大值約為 25，儘管原版限制為 30。HUD 上的護甲條也有類似限制，原版允許您擁有 30 點護甲，但 HUD 最多只會顯示 20 點。更改傷害公式需要重新平衡遊戲，這超出了本模組的範圍。您可以在網路上找到其他會更改護甲公式或更新 HUD 的模組。這些模組通常需要 AttributeFix 作為依賴來實現此功能。</p><p>&nbsp;</p><p><img src=\"https://assets.blamejared.com/nodecraft/darkhax.jpg\" alt=\"Nodecraft 贊助標誌\" width=\"1080\" height=\"40\">本專案由 Nodecraft 贊助。使用代碼 <a href=\"/linkout?remoteUrl=https%253a%252f%252fnodecraft.com%252fr%252fdarkhax\" rel=\"nofollow\">DARKHAX</a> 即可享受首月服務 30% 折扣！</p><p><img src=\"https://skulk.blmj.red/attributefix\" alt=\"\" width=\"1\" height=\"1\"></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

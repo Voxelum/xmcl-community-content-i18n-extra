@@ -1,0 +1,6 @@
+{
+  "bodyHash": "umzfYjZxVNI=",
+  "content": "使用這個模組，你只需破壞樹木底部的一個方塊，就能整棵樹一起倒下，而且樹葉會更快消失。\n\n![示範](https://i.imgur.com/4pxOCh4.gif)\n\n這個模組與我測試過的其他類似模組不同之處在於，它不會移除比原版樹葉自然腐爛更多的樹葉。如果你破壞一棵與其他樹木相連的樹，它不會移除屬於其他樹木的任何樹葉。\n\n你可以透過潛行來破壞單一方塊。\n\n破壞第一個方塊所需的時間也取決於有多少方塊相連，較大的樹木需要更長的時間來破壞。\n\n目前這個模組無法進行配置，不過我將來會加入這個功能。\n\n## 相容性\n這個模組適用於所有在 `minecraft:logs` 標籤中的原木，以及所有繼承 `LeavesBlock` 類別的樹葉。\n\n我測試了以下三個模組中的一些樹木類型，它們都能自動相容：\n- [Biomes O' Plenty](https://modrinth.com/mod/oh-the-biomes-weve-gone)\n- [Oh The Biomes We've Gone](https://modrinth.com/mod/biomes-o-plenty)\n- [Nature's Spirit](https://modrinth.com/mod/natures-spirit)\n\n你可以在伺服器上安裝這個模組，沒有安裝模組的玩家也可以使用它，不過他們會看到被破壞的方塊重新出現，直到經過足夠的時間以滿足增加的方塊破壞時間。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

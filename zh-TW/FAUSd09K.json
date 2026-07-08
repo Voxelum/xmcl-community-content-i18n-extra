@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qhyQFGoOfRU=",
+  "content": "功能庫，讓製作新模組變得更簡單。\n\n其他模組依賴它才能運作\n\n開發者功能：\n\n- 核心模組資料\n\n- 區塊設定（工具提示、旋轉顏色、通電時發光、面向附加）\n\n- 物品欄包裝器\n\n- 附帶建置腳本的新模組範本\n\n- 世界生成特徵建置器（簡單、補丁、礦石）\n\n- 維度工具\n\n- 用於配方的能源材料\n\n- 用於配方的流體標籤材料\n\n- 用於配方的隨機輸出材料\n\n- 釀造配方\n\n- 許多雜項工具\n\n- /flib 指令：可在 flib.toml 設定檔中停用\n\n-- /flib tpx：跨維度傳送\n\n-- /flib health add/set/random/factor\n\n-- /flib hunger add/set/random/factor\n\n-- /flib hearts add/set/random/factor\n\n-- /flib gamemode @p 1\n\n-- /flib scoreboard random @p 4 9 OBJECTIVE\n\n-- /flib attribute minecraft:reach_distance random @p 3 8",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

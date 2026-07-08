@@ -1,0 +1,6 @@
+{
+  "bodyHash": "I4nNYRAinVc=",
+  "content": "這個模組透過幾種不同的方式來減少 Minecraft 的記憶體使用量。技術層面的詳細變更說明可在[此處](https://github.com/malte0811/FerriteCore/blob/main/summary.md)找到。\n\n節省的記憶體量取決於所使用的整合包。在[All Of Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-3) 2.5.9 版本中，它將 RAM 使用量（堆積大小）從 1,792 MB 減少到 984 MB。相比之下，使用 Hydrogen 而非 FerriteCore 的相同設定則使用了 1,335 MB。  \n這些數值是在使用固定種子生成世界並等待兩分鐘後測量得到的。  \n專案圖片是從[這張](https://commons.wikimedia.org/wiki/File:Magnetic-core_memory,_at_angle.jpg)圖片裁剪而來的。\n\n### 常見問題\n\n#### 我應該在伺服器上安裝這個，還是只在用戶端安裝？\n\n部分最佳化僅限於用戶端，但有些影響較大的最佳化對伺服器端也很重要。因此建議在兩端都安裝。\n\n#### 這個模組與[其他模組]相容嗎？\n\n絕大多數情況下是相容的。唯一的例外是 Hydrogen，它在 *Minecraft 版本與 Hydrogen 正式發布版本相容*的情況下與所有近期版本的 FerriteCore 相容。也就是說，1.18 以上的版本不相容於 Hydrogen，因為 Hydrogen 已正式停止維護，不會在這些版本上發布更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

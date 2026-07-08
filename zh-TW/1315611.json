@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bpyN+r5MjQM=",
+  "content": "<h2>飾品相容層</h2><p>本模組以 Accessories 為框架，透過對 Trinkets 和 Curios 兩款模組進行混入補丁，實現對二者的封裝兼容。設計時已預留 Connector 或 Kilt 的支援接口，這意味著無論在 Fabric 或 NeoForge 環境中，Trinkets 或 Curios 的飾品功能皆可正常運作。</p><h3>必要依賴：</h3><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/accessories/\" target=\"_blank\" rel=\"nofollow\">Accessories</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/trinkets\" target=\"_blank\" rel=\"nofollow\">Trinkets</a> 和/或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/curios\" target=\"_blank\" rel=\"nofollow\">Curios</a></li>\n</ul><h3>替代項目：</h3><p>使用此版本後<strong>不再需要</strong>以下兼容層：</p><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/accessories-tc-layer\" target=\"_blank\" rel=\"nofollow\">Trinkets 兼容層</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer\" target=\"_blank\" rel=\"nofollow\">Curios 兼容層</a></li>\n</ul><h3>已知問題：</h3><ul>\n<li>目前所有相關介面與渲染均已統一整合至 Accessories 飾品介面</li>\n<li>Curios 相關：部分功能存在相容問題，後續版本將嘗試解決<ul>\n<li>尚未實作主動狀態切換功能，依賴此機制的模組暫時無法控制裝備飾品的狀態</li>\n<li>未實現 <code>ICurioSlotExtension</code> 接口，因此堆疊替換與工具提示調整等功能將失效</li></ul></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

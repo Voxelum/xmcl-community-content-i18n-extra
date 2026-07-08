@@ -1,0 +1,6 @@
+{
+  "bodyHash": "73IYqHZyBis=",
+  "content": "# 檔案總管\n### 開啟模組包開發的新時代！\n\n## 檔案總管簡介；\n- [檔案總管](https://curseforge.com/minecraft/mc-mods/filedirector) 是 [ModDirector](https://curseforge.com/minecraft/mc-mods/moddirector) 的分支與延續。\n\n- 檔案總管旨在成為模組包創作者的無憂工具，簡化更新流程以提供更無縫的體驗。讓您能直接從網路下載檔案至您的模組包實例中！\n\n## 與 Mod Director 目前有何不同？\n- 檔案總管能再次從 CurseForge 下載模組。\n- 每份 `bundle.json` 配置可批量下載多個檔案，而非為每個模組或檔案分別設置 `url.json` 或 `curse.json`。\n- 提取完整的 .zip 檔案，而非下載單個檔案。\n- 強制更新檔案。\n- 在下載時重新命名檔案。\n- 遠端檢查模組包版本號！\n- 在您的 `.json` 檔案中留下自訂 `註解`，記錄下載內容的相關資訊！\n\n**[新功能已在 Wiki 中說明！](https://github.com/TerraFirmaCraft-The-Final-Frontier/FileDirector/wiki)**\n\n## 預覽；\n\n![檔案下載預覽](https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/FileDirector/master/previews/file-director-preview.webp)\n\n## 在模組包中使用檔案總管；\n- 您無需請求許可即可在模組包/專案中使用檔案總管。但若願意標註出處，我們將不勝感激。\n- [CurseForge 模組下載](https://curseforge.com/minecraft/mc-mods/filedirector)\n- [Modrinth 模組下載](https://modrinth.com/mod/filedirector)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "r5nhnAOxVOQ=",
+  "content": "### [Let's Do Addon] Совместимость\n\nЭтот мод добавляет совместимость между модами Let's Do и множеством других модов, так что вам не придётся заниматься этим вручную.\n\nВ настоящее время (на момент версии 2.1.0) совместимость включает:\n* Все моды на основе Let's Do Farm&Charm (Farm&Charm, Candlelight, Brewery, Bakery) и другие (Vinery, Beachparty...);\n* Все неофициальные дополнения к Farm&Charm (CornExpansion…);\n* Farmer's Delight / Farmer's Delight Refabricated;\n* Все дополнения к Farmer's Delight;\n* Совместимость с модами, связанными с жаждой (Legendary Survival Overhaul, Thirst was Taken, Dehydration...).\n\nПланы:\n* Любые ваши предложения! Не стесняйтесь оставлять их в Discord или в проблемах на GitHub.\n\nМод также оснащён лёгким API для разработчиков, позволяющим добавлять совместимость со всеми поддерживаемыми модами, связанными с жаждой, одним махом, независимо от используемого загрузчика (вы можете использовать его только с Forge, только с Fabric или с обеими поддерживаемыми загрузчиками):\n```java\nThirstCompatHelper#registerDrinkThirst(String itemName, int thirst, float quench);\n// ИЛИ\nThirstCompatHelper#registerFoodThirst(String itemName, int thirst, float quench);\n```\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

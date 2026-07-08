@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ZURrT4lfvI=",
+  "content": "這個函式庫讓註冊方塊變得更簡單，適用於Macaw的橋樑/柵欄/屋頂等API...\n這有什麼用處呢？\n透過這個函式庫，所有相容性模組都能使用相同的程式碼，減少模組數量。\n對於原始模組的更新也很有幫助，可以修正所有像NoclassFound這樣的崩潰錯誤。\n\n這個模組可以單獨安裝而不需要其他模組，但這樣做用處不大。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

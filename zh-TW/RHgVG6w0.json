@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FNVLfbqsGmg=",
+  "content": "# MCLLM\n\n如果你喜歡這個專案，請考慮在 [GitHub](https://github.com/link-fgfgui/MCLLM) 上給它一個 ⭐！\n\n這是 [MCChatGPT](https://github.com/Bawnorton/MCChatGPT) 的分支版本。  \n與原版不同，基礎 URI 不再被硬編碼——現在你可以透過檔案進行配置，使其幾乎相容於任何 LLM 服務，而不僅僅是 OpenAI。\n\n## 使用方法\n\n1. **下載與你的 Minecraft 版本相容的 JAR 檔案**，從 [Modrinth](https://modrinth.com/mod/mcllm) 或 [GitHub](https://github.com/link-fgfgui/MCLLM/releases) 下載，並將其放入你的 `mods` 資料夾中。  \n   *（請確保已安裝適當的模組載入器。）*\n\n2. **從相同來源下載所需的依賴項**，並同樣放入 `mods` 資料夾中。  \n   *（它們通常會在 Modrinth 上列出。）*\n\n   - 支援的平台：**Fabric (>= 1.20.1)**、**Forge (1.19.4–1.20.1)** 以及 **NeoForge (>= 1.21.1)**\n\n3. **啟動遊戲一次**，以生成設定檔案。\n\n4. 開啟 `config/mcllm.json` 並編輯以下欄位：\n   - `baseurl`：設定為你偏好的 LLM 服務端點，例如 `https://api.deepseek.com/v1`\n   - `model`：指定模型名稱，例如 `deepseek-chat`\n\n5. **重新啟動遊戲**，然後執行指令：  \n   `/mcllm-auth 你的令牌`  \n   這會安全地儲存你的令牌（它將在設定檔案中被加密）。\n\n6. 使用 `/ask 你的問題` 來向 LLM 發送訊息。  \n   LLM 的回覆將出現在你的 **本地** 聊天中——只有你能看到。\n\n![使用範例](https://cdn.modrinth.com/data/cached_images/69e5fd9660090a58fd583d03262e30a964dc5ad2.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

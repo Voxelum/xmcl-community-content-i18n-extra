@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XdeuW7qQpJ0=",
+  "content": "![Pennyworth (雷公根) 植物](https://cdn.modrinth.com/data/UaqhqiIU/images/523be3466aa2368f170d7df3994c6ac6b40a9378.png)\n\n# Pennyworth Mod\n\n\n<details>\n<summary>越南語內容</summary>\n\n這個模組只是在遊戲中添加了清化省的雷公根。\n\n雷公根只會在以下生態域生成：**平原、樺木森林、森林、叢林、花海森林**。\n\n當玩家破壞雷公根植物時，會獲得 7 根雷公根（遊戲中物品名稱為 Pennyworth Plants）。食用一根雷公根雖然無法回復太多飢餓值，但玩家會獲得「鐵路破壞者」效果，持續 30 分鐘。\n\n**「鐵路破壞者」效果**會破壞 8x8x8 範圍內的所有鐵軌，以及這些鐵軌下方的方塊，完美還原「吃了雷公根就破壞鐵路」的梗。\n\n技術參數請參考英文版本的 **Pennyworth Plants Generation** 章節。\n\n</details>\n\n\n\n_只有越南人才懂這個模組的真正意義_\n\n這個模組會在 Minecraft 中加入**雷公根**（類似折疊區內的植物）\n\n<details>\n<summary>真實的雷公根</summary>\n\n![真實的雷公根](https://thumbs.dreamstime.com/b/close-up-view-bunch-pennyworth-plants-growing-ground-close-up-view-bunch-pennyworth-plants-growing-207071524.jpg)\n\n</details>\n\n## 關於雷公根植物 + 鐵路破壞者效果\n\n### 主要資訊\n\n當你收穫雷公根方塊時，會獲得 **7 根雷公根**（遊戲中的 Pennyworth Plants 物品）\n\n**雷公根（Pennyworth Plants 物品）** 可以食用，食用後會獲得 **鐵路破壞者效果**，持續 30 分鐘。接著，8x8x8 範圍內的所有鐵軌（包括普通鐵軌、觸發鐵軌、感測鐵軌、動力鐵軌）以及它們下方的方塊都會被破壞。\n\n### 雷公根植物生成\n\n**在這些生態域中**：平原、森林、樺木森林、叢林、花海森林。\n\n**每個區塊的生成頻率**：10\n\n**叢集大小**：64\n\n**可在任何高度生成**\n\n**生成類型**：草地",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

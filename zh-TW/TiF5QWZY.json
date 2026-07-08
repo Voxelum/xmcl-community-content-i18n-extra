@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GKwRgMrmghk=",
+  "content": "# Respackopts\n**重要通知：** Respackopts 依賴於 [LibJF](https://modrinth.com/mod/libjf)，您必須同時安裝它。\n\nRespackopts 為資源包和資料包提供了配置選單\\\n預設情況下，它提供了一個用於條件資源、資源擴展的自定義系統，並與 frabulous shaders 整合\n\n## 使用 Respackopts\n### 使用者\n安裝 Respackopts 後，所有支援的資源包旁邊都會出現一個選單按鈕。\n無需進一步設定。\n\n### 包作者\n請前往 [Wiki](https://mods.jfronny.dev/Respackopts) 了解如何在包中使用 Respackopts 的詳細資訊。\n\n# 效能影響\n效能始終取決於遊戲本身之外的因素，例如磁碟速度、其他程式的資源使用情況、您使用的作業系統等。\n這些測量是在 Minecraft 1.20.1、Fabric Loader 0.14.21、Fabric API 0.84.0 和 LibJF 3.8.0 上，於 Linux 6.3 系統，使用 Ryzen 5 7600X 處理器和 NVMe SSD 進行的。\n請不要期望它們能代表所有其他版本和設定，但它們應該能讓您對使用 Respackopts 的影響有一個總體概念。\n\nLibJF 將鉤子注入資源載入器，這意味著每次資源存取都會有額外的開銷。\n實際上，這導致資源重新載入時間比原版增加了 5%，遊戲載入時間比原版增加了 8%（0.2 秒）。\n\nRespackopts 使用這些鉤子和額外的 Mixin 來運作，增加了額外的開銷。\n實際上，這導致資源重新載入時間比原版增加了 6%，遊戲載入時間比原版增加了 18%（0.43 秒）。\n\n最顯著的增加發生在包掃描期間，與原版 Minecraft 相比，啟用 Respackopts 時掃描時間幾乎增加了 100 倍。\n這是因為 Respackopts 在此階段執行並快取了大部分解析和計算。\n正如遊戲載入統計數據所示，這在啟動期間不一定能被察覺，因為總時間仍然相對較小。\n只有在資源包畫面中才會注意到，因為掃描每 20 刻執行一次，並且每當畫面調整大小時也會執行，這可能導致在畫面顯示時出現輕微的凍結。\n為此，我建立了一個[單獨的模組](https://modrinth.com/mod/async-pack-scan)來調整該畫面以提高效能。\n\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"建議與支援\" src=\"https://img.shields.io/badge/建議與支援-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

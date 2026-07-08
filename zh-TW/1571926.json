@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gn1PUWjbIgE=",
+  "content": "<p>更快的光影陰影映射是一個非常輕量的模組，可以在陰影生成過程中避免渲染非必要的物件。</p><p><strong>此專案無法取代 Iris，兩者必須同時使用才能生效。</strong></p><p><strong>此模組也相容於 Oculus。</strong></p><h1>運作原理</h1><p>在陰影生成過程中，對於不透明模型而言，模型的顏色並不會造成視覺差異——藍色車和紅色車投射出的陰影相同，與顏色無關。因此，這個模組的作用是阻止諸如告示牌上的文字、旗幟圖案、附魔光澤等物件在陰影生成過程中渲染。</p><h1>效能展示</h1><p><strong>平坦世界中的小型基地（1.0.0）</strong></p><p>開啟 / 關閉 | 100FPS / 87FPS（平均） | 63FPS / 58FPS（0.05% 低點）| <img src=\"https://cdn.modrinth.com/data/cached_images/5b37bb3b56bd1587c24be025d4e2b31fc6adbf37.png\" alt=\"開啟：100FPS\"> |<img src=\"https://cdn.modrinth.com/data/cached_images/59940b57658ea0553c9cba19a7e0ea9d143a1865.png\" alt=\"關閉：87FPS\"> | |</p><ul>\n<li>FPS 提升 +10%</li>\n</ul><p><strong>大量告示牌與旗幟（1.0.0）</strong></p><p>開啟 / 關閉 | 15FPS / 9FPS（平均） | 10FPS / 1FPS（0.05% 低點）| <img src=\"https://cdn.modrinth.com/data/cached_images/37aa042ff722457b62dd76c338ce541387c6a2ef.png\" alt=\"開啟：15FPS\"> |<img src=\"https://cdn.modrinth.com/data/cached_images/7d0d9a7fba8133e530437a6088fccc3db7463055.png\" alt=\"關閉：9FPS\"> | |</p><ul>\n<li>平均 FPS 提升 +50%</li>\n<li>0.05% 低點 FPS 提升 +1000%</li>\n</ul><h1>模組包</h1><p>無需事先許可，即可將此模組加入您的模組包中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

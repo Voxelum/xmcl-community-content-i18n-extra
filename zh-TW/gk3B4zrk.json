@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HmOExSVhZWo=",
+  "content": "## 平滑啟動\n\n此模組強化了 Minecraft 的 CPU 排程效率。作為 Smooth Boot (Reloaded) 模組的非官方分支，它新增了對新遊戲版本的支援。\n\n本模組透過重新配置 Minecraft 的任務執行器來提升載入效率。預設情況下，這些執行器會讓多執行緒同時執行繁重的啟動任務，經常導致 CPU 使用率達到高峰。平滑啟動模組透過修改執行緒數量與優先權等關鍵執行器參數來優化此流程，確保工作負載更均衡且有效率。\n\n\n\n\n\n\n\n\n原始模組：https://modrinth.com/mod/smooth-boot-reloaded\n\n原始模組作者：https://modrinth.com/user/AbdElAziz",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

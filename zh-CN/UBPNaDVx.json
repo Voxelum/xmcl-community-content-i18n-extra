@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7J0VUQKkYaU=",
+  "content": "[反馈问题](https://github.com/tailvpscool/CreateGasCanister)，[Discord](https://discord.gg/WcxyTem8Sc)  \n创制罐罐是创制：柴油发电机的附属模组，增加了便携式气体罐，用于在储罐之间运输气体流体。\n\n## 罐罐\n\n提供三种尺寸：\n\n- 小型气罐 — 可容纳 1,500 mB\n- 中型气罐 — 可容纳 5,000 mB\n- 大型气罐 — 可容纳 10,000 mB\n\n## 使用方法\n\n手持空罐右键点击任意流体储罐即可装填，再右键点击另一个储罐即可清空。罐罐的工具提示会显示其中含有的流体类型及数量。\n\n适用于所有兼容流体的储罐，包括创制流体管道及所有创制：柴油发电机中的机械。\n\n## 需求\n\n- Minecraft 1.21.1\n- NeoForge\n- 创制\n- 创制：柴油发电机",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

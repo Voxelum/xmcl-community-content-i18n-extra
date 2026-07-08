@@ -1,0 +1,6 @@
+{
+  "bodyHash": "N6mpajxBm+o=",
+  "content": "**无缝整合TACZ枪战玩法与Leawind第三人称视角**\n\n本兼容性模组旨在衔接[永恒经典零式(TACZ)](https://modrinth.com/mod/timeless-and-classics-zero)与[Leawind第三人称模组](https://modrinth.com/mod/leawind-third-person)，确保您在体验现代第三人称视角时，射击操作依然精准且沉浸感十足。\n\n### ✨ 功能特色\n* **准星精准校准：** 修复第三人称模式下准星与实际弹道偏移错位的问题。\n* **镜头行为优化：** 平滑处理开镜瞄准(ADS)时的镜头过渡与定位。\n* **沉浸式战斗体验：** 实现战术性\"越肩视角\"射击效果，摆脱原版镜头逻辑的笨重感。\n\n### 🛠 运行依赖\n使用本模组**必须**安装以下内容：\n1.  **永恒经典零式(TACZ)**\n2.  **Leawind第三人称模组**\n\n### 📝 安装指南\n1.  确保已安装TACZ与Leawind第三人称模组。\n2.  将本兼容模组文件放入`mods`文件夹。\n3.  按常规方式配置第三人称设置——模组将在后台自动处理同步适配。\n\n### 🔗 相关链接\n* **源代码仓库：** [GitHub项目页](https://github.com/leva-nilla/TACZ-LeawindTPS-Compat)\n* **问题反馈：** [提交错误报告](https://github.com/leva-nilla/TACZ-LeawindTPS-Compat/issues)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

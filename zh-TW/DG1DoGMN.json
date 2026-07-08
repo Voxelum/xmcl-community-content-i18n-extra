@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XsVX+4wNhQI=",
+  "content": "**是否曾覺得在 Create Mod 伺服器中用原版鑽石當貨幣很無趣？** 心想「這可是模組化的 Minecraft，為什麼找不到像樣的貨幣來用」？嘿，我有解決方案給你！\n\n《Create: 簡易錢幣》正如其名，就是添加錢幣！新增五種不同錢幣：銅幣、鐵幣、金幣、鑽石幣和獄髓幣。\n\n需要 [Create Mod](https://modrinth.com/mod/create)。\n\n## 製作方式\n\n每種錢幣大致使用一個對應材料（銅幣除外，使用鋅）加上另一塊材料粒製作。在高爐中熔煉可返還主要材料，意味著錢幣應能有效保值。錢幣透過「序列組裝」進行「鑄造」。\n\n![金幣組裝線範例](https://cdn.modrinth.com/data/cached_images/5c0e78a709e14e308c58009cde4bfaece34d716c.png)\n\n![所有錢幣配方圖示](https://cdn.modrinth.com/data/cached_images/38b00df6027486996686707775b2434ed4dc36fe.png)\n\n建議使用 JEI 在遊戲內查看所有配方。\n\n所有配方皆透過數據完成，因此若想更改，應始終可透過數據包編輯。\n\n## 瑕疵錢幣\n每枚錢幣有微小機率（<1%）鑄造失敗。這些「瑕疵」錢幣幾乎毫無價值，因為熔煉後只能回收極少材料。\n\n## 問題、建議與計畫\n請在 GitHub 上回報錯誤、問題或建議。本模組定位極簡且保持輕量，因此不會添加大型功能。\n\n目前，更新至其他 Forge 版本僅是「可能」。暫無移植至 Fabric 或其他模組加載器的計畫。若有人願意協助移植至更多版本/平台，歡迎聯繫。\n\n當然，根據本模組的設計初衷，歡迎自由用於你的模組包中。 :)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

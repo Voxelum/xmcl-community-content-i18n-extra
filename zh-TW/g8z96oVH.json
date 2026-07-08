@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zkl6IZCGMeY=",
+  "content": "# tconplanner\n\n匠魂藍圖是匠魂3的一個客戶端附加模組，讓玩家可以在藍圖介面中預覽組合完成的工具，並查看其屬性。這可以幫助避免出現你原本期望製作出強力工具，結果卻對成品感到失望的情況。\n\n安裝此模組後，在工匠站與工匠砧的GUI中會出現一個圖示。點擊它即可開啟規劃者UI。\n\n在這裡，你可以自由使用任何零件組合來設計工具（即使你手上沒有這些零件），並預覽最終產品的屬性。\n\n你可以將自己「打造」的設計圖加入書籤供日後參考，根據特定屬性（如挖掘速度與耐久度）對零件進行排序，甚至可以隨機組合材料來玩玩。\n\n1.18.2 1.16.5 forge 作者 \nhttps://modrinth.com/user/tiffit\nhttps://modrinth.com/mod/tinkers-planner\nhttps://www.curseforge.com/minecraft/mc-mods/tinkers-planner\nhttps://github.com/tiffit/tconplanner",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

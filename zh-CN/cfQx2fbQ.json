@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OY3myBt+Gnk=",
+  "content": "像ProjectE一样添加EMC值，并在“炼金台”中转换物品。\n\n使用“贤者之石”可以等价交换方块。\n\n \n\n此模组正在开发中。\n\n我想要一个类似Fabric版Project E的模组，于是就制作了它。\n\n本模组灵感来源于Project E。\n\n \n\n本模组依赖MCPitanLibarch，而MCPitanLibarch需要Architecture API。\n\n目前仅支持Fabric，且需要Fabric API。\n\n![炼金台界面](https://media.forgecdn.net/attachments/514/250/2022-11-10_23.png)\n![炼金物品](https://media.forgecdn.net/attachments/521/825/2022-11-20_01.png)\n# 物品\n- 贤者之石...方块等价交换\n- 炼金台...将物品转换为EMC，或将EMC转换为物品。\n- 炼金板...炼金台的便携版本",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

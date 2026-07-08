@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D1Cd2e+4I4E=",
+  "content": "# 魷魚無異常\n一個修復魷魚各種原版錯誤的小型模組\n\n支援 Minecraft 1.18.2-1.20.x 的 Fabric（可能也支援 Quilt？）/Forge\n\n### 魷魚錯誤修復列表\n- 新增檢查以防止客戶端上的移動不同步。這解決了 [MC-39263](https://bugs.mojang.com/browse/MC-39263)、[MC-58294](https://bugs.mojang.com/browse/MC-58294)、[MC-89883](https://bugs.mojang.com/browse/MC-89883)、[MC-136421](https://bugs.mojang.com/browse/MC-136421)、[MC-212213](https://bugs.mojang.com/browse/MC-212213)、[MC-225422](https://bugs.mojang.com/browse/MC-225422)，並部分修復了 [MC-134626](https://bugs.mojang.com/browse/MC-134626)\n- 修復飄浮效果未重置掉落距離的問題，目前尚未有相關錯誤回報。\n- 為魷魚新增緩降效果的移動向量，並重置掉落距離。[MC-167008](https://bugs.mojang.com/browse/MC-167008)。\n- 將 Y 軸移動向量降低至 `0.15f`，這應該能防止魷魚卡在陸地上。[MC-132473](https://bugs.mojang.com/browse/MC-132473)。\n- 移除 `getNoActionTime()` 檢查，將恢復魷魚在玩家遠離時的移動能力。[MC-212687](https://bugs.mojang.com/browse/MC-212687)。\n\n### 安裝方式\n為達到最佳效果，請確保在客戶端和伺服器端都安裝！\n- 安裝 Fabric Loader/MinecraftForge\n- 將模組複製到 `mods` 資料夾中",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

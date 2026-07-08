@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NffB9jY/ViU=",
+  "content": "[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/no-mining-cooldown)\n![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)\n![neoforge](https://raw.githubusercontent.com/Hyperbole-Devs/vectors/8494ec1ac495cfb481dc7e458356325510933eb0/assets/cozy/supported/neoforge_vector.svg)\n![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg)\n\n# 无挖掘冷却\n修复客户端方块破坏延迟；此功能可通过杂项设置中绑定至“切换挖掘冷却”的按键进行开关。\n\n## 重要提示\n\n部分服务器禁止使用此模组，并有权进行相应处罚；请勿在此类服务器上使用。\n\n## 功能\n默认禁用挖掘冷却。\n\n- 可开关的挖掘冷却\n- 可绑定的切换按键\n\n## 联系方式\n\n欢迎加入我的 [Discord](https://discord.gg/8Mm3g3T5re)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

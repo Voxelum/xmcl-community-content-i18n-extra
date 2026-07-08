@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2cbCOir13l4=",
+  "content": "<h1 style=\"text-align:center\">罪业余烬：类魂系首领战</h1><p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/987539/description_4b421f9d-f931-47db-9758-22aca4fea469.png\"></p><p>配置文件生成在 <code>config\\ash_of_sin</code> 目录下</p><p>配置文件名为 soul_like_boss_battle.toml</p><p>在配置文件中添加实体后，当周围所有玩家被击败时，这些实体会移除所有状态效果（增益与减益）并将生命值恢复至上限</p><p>防止铁傀儡攻击首领的机制</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JAqcxdHT3gU=",
+  "content": "此模組為 FTB Quests 模組添加了少量改進與**流暢**動畫。\n\n您可以透過遊戲內配置來微調所有設定。\n指令：`/certain-questing-additions config`。\n\n**功能特色：**\n*   [新增] 在任務描述或背景中渲染實體；\n*   支援 APNG 圖片（將圖片命名為 \\`\\*.apng.png\\`）；\n*   每個章節可設定基於著色器的背景；\n*   EMI 整合；\n*   任務與面板按鈕的懸浮動畫；\n*   流暢的任務詳情開啟與縮放轉場效果；\n*   可調整按鈕與任務高亮的發光透明度；\n*   1.20.1 版本的流暢章節面板開啟（如同原始模組在 1.21.1+ 版本的效果）；\n*   可選擇為所有 UI 動畫添加緩動效果。\n\n開發者 Discord 社群：[點擊此處加入！](https://discord.0mods.team)\n\n![基於著色器的背景](https://cdn.0mods.team/cqa/shader_bg.gif)\n![懸浮任務圖片](https://cdn.0mods.team/cqa/hovering.gif)\n![放大任務畫面](https://cdn.0mods.team/cqa/zooming.gif)\n![開啟任務描述動畫](https://cdn.0mods.team/cqa/opening.gif)\n![配置畫面](https://cdn.0mods.team/cqa/configuration.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

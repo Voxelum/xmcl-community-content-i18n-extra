@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OAwC4NL8Dxw=",
+  "content": "# 机械奶牛\n\nCreate模组的扩展插件  \n通过旋转和物品原料来生成牛奶\n\n## 1.21.1-2.x版本需要机械库支持\n- [Modrinth](https://modrinth.com/mod/mechanicals-lib \"Modrinth\")\n\n## 功能特性\n\n- 机械奶牛动能方块\n- 内置Ponder教学\n- 兼容: JEI & JADE\n- 可配置选项:\n    - 加工时间\n    - 产出数量\n    - 产出流体\n    - 应力影响\n    - 流体容量\n    - 所需原料\n    - 原料需求量\n    - 音效音量\n\n**特别感谢Create模组的开发者们**\n\n## 授权协议\n机械奶牛模组采用LGPL3协议授权。详见[许可证文件](LICENSE)\n\n部分代码源自Create模组，该模组采用MIT协议授权。详见[Create授权文件](https://github.com/Creators-of-Create/Create/blob/mc1.18/dev/LICENSE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

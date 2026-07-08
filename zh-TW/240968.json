@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IQAVT9mmYMM=",
+  "content": "<h1>DrCyano 的可搜刮遺體</h1><p>一個用於 Minecraft 的死亡儲物箱模組。</p><p>在 Discord 上與開發者交談：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.mcmoddev.com%252f\" rel=\"nofollow\">點擊此處</a></p><p>&nbsp;</p><h2>&nbsp;需求</h2><p>&nbsp;</p><p>此模組需要安裝 Minecraft Forge 1.8-11.14.0.1252 或更新版本。</p><h2>&nbsp;安裝</h2><p>成功安裝 Forge 後，只需將 <em>lootable-bodies-#.#.jar</em> 檔案放入 <em>mods</em> 資料夾即可。您可以從此儲存庫頁面的「Releases」分頁取得 lootable-bodies-#.#.jar 檔案。</p><h2>&nbsp;問答</h2><p><strong>問：為什麼我在 Minecraft 1.7.10 中無法讓屍體顯示玩家皮膚？</strong><br> 答：即時獲取玩家皮膚是 Minecraft 1.8 的新功能。我沒有時間也沒興趣在 Minecraft 1.7.10 中重新實作 Minecraft 1.8 的功能。<br> <br> <strong>問：請問您能為 1.7.10 回溯版本加入玩家皮膚嗎？</strong><br> 答：不行。<br> <br> <strong>問：我在 1.7.10 回溯版本中發現了一個錯誤。您會修復它嗎？</strong><br> 答：可能會，但我優先處理最新 Minecraft 版本的開發。<br> <br> <strong>問：我在 1.8 版本中發現了一個錯誤。您會修復它嗎？</strong><br> 答：會的。請在 GitHub 頁面的「Issues」區塊張貼完整的崩潰報告，以及如何可靠重現崩潰的說明。<br> <br> <strong>問：我可以在我的公開模組包中使用這個模組嗎？</strong><br> 答：可以，您不需要我的書面許可。<br> <br> <strong>問：如果我的屍體掉進虛空會發生什麼事？</strong><br> 答：它會永久消失。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

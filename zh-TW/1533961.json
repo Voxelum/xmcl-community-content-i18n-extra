@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2JrtstWY8+c=",
+  "content": "<p><strong>PATCH - Forge/NeoForge 版本發生的問題已解決！<br><br>HyperLaunch</strong>&nbsp;是一個&nbsp;<strong>Minecraft 啟動優化</strong>&nbsp;模組。它專注於遊戲的啟動階段，透過調整部分內部載入任務的執行方式，以減少到達主選單前所花費的部分時間。</p><p>該模組主要透過改變啟動時的引導程式處理方式來運作。根據載入器和 Minecraft 版本，它會替換或重新導向某些內部執行器，以更好地分配一般背景任務和輸入/輸出工作。目標是改善啟動行為，而不改變實際的遊戲內容。</p><p><strong>HyperLaunch</strong>&nbsp;<strong><em>並非旨在提升遊戲內的 FPS</em></strong>&nbsp;或改善遊戲加載完成後的整體世界效能。其範圍僅限於啟動和初始載入。實際效果可能因 Minecraft 版本、載入器、已安裝的模組和硬體而異。</p><p>該模組還包含一個小的視覺啟動調整，隱藏 Mojang Studios 標誌，同時保留進度條可見。</p><p><strong>HyperLaunch</strong> 目前可用於最近的多個 Fabric、Quilt、NeoForge 以及部分 Forge 版本。實際支援取決於已發布的構建版本。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

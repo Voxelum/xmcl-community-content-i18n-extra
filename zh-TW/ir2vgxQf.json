@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rv1MRGpl7kA=",
+  "content": "透過設定檔與兩種配方類型，新增多種額外的苦力怕變種\n\n當它們爆炸時，若附近存在石頭方塊（可配置），這些方塊將被注入礦物\n\n\n\n\n\n首先佈置陷阱\n\n\n\n接著在陷阱中放置物品\n\n\n\n待陷阱轉化苦力怕後，讓它在特定方塊（如普通石頭）周圍爆炸，將其轉化為礦石方塊\n\n\n\n在此查看範例設定檔與兩種JSON配方類型\n\n\n\n\n\n![用陷阱染色生物](https://imgur.com/LqDnGJr.gif)\n\n\n\n\n另一個範例：青金石苦力怕爆炸效果\n\nhttps://imgur.com/QyCtWtW\n\n![爆炸將石頭轉為礦石](https://imgur.com/QyCtWtW.gif)\n\n \n\n -\n\n基於FORGE與FLIB建構 https://www.curseforge.com/minecraft/mc-mods/flib\n\n\n\n若要為模組包自訂內容，可建立原版資料包，和/或使用 https://www.curseforge.com/minecraft/mc-mods/crafttweaker 範例請參見 https://github.com/Lothrazar/VeinCreeper/tree/trunk/1.20/examples",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

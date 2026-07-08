@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Tzv3xyCoZYk=",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/877ea5f59871975101d1d3d907a4e7c78681b389_0.webp)\n\n本模组为添加 Sodium/Embeddium 选项菜单集成提供了跨平台事件。例如，你可以通过一个事件在 Forge 平台的 Embeddium、1.20.1 的 Fabric Sodium 0.5 以及 1.21.1 的 Fabric/NeoForge Sodium 0.6 中添加选项页面：\n\n```\nOptionGUIConstruction.EVENT.register((pages) -> pages.add(new TestOptionPage()));\n```\n\n如果你是最终用户，且尚未将本模组作为其他 Sodium 附属模组的库安装，你可以结合 Reese's 选项菜单一同安装，以获得更完善的分类菜单（支持下拉功能，便于导航）。即便某些模组未使用本 API 而直接向 Sodium 选项注入内容，此功能依然有效。\n\n![demo](https://cdn.modrinth.com/data/cached_images/3768c862c279cb47278855c2d99aeb568e68573b_0.webp)\n\n本模组部分继承了 Embeddium 分类 API 和选项事件，并进行了重大修改以支持上游 Sodium。虽然它修改了 Reese's Sodium 选项菜单，但出于兼容性考虑采用了 Mixin 方式实现，因此你需要同时安装两个模组。\n\n## 使用 API\n\n首先，你需要将本模组添加到开发环境中，通过 Curseforge 或 Modrinth 的 Maven 仓库：\n\n```\nmodImplementation(\"maven.modrinth:sodium-options-api:版本号\")\n```\n\n本模组在 `toni.sodiumoptionsapi.api` 包中提供了三个事件：\n\n- `OptionGUIConstruction.EVENT`：在 GUI 构造器中调用一次，允许添加完整页面。这可能是你最常用的。\n- `OptionPageConstruction.EVENT`：针对每个选项页面调用。如果你想在性能选项卡等处添加一组开关按钮，可使用此事件。\n- `OptionGroupConstruction.EVENT`：针对每组选项调用。如果你想在现有组中插入单个选项，或修改原版选项组，可使用此事件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

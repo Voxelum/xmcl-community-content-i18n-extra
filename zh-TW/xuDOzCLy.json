@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vYEdwXV+zZU=",
+  "content": "# Jade Addons（Neo/Forge）\n\n此模組為 Jade 🔍 1.18+ 增加了模組整合功能。\n\n### 目前支援的模組：\n\n- 通用\n  - 需要手持或裝備指定物品才能使用 Jade\n- Create（沉浸工程）\n  - 精確的機械投射偵測，並在機械上顯示實際方塊\n  - 機械庫存\n  - 烈焰燃燒室燃料資訊\n  - 設計圖藍圖的產出物品\n  - 告示板物品\n  - 不再忽略彎曲軌道\n  - IO 過濾器資訊\n  - 隱藏超級黏膠實體\n  - 背罐空氣存量\n  - 在 Jade 中整合護目鏡提示（預設關閉）\n- Tinkers Construct（工匠史萊姆）\n  - 排液口與管道的流體\n  - 澆鑄台的配方進度\n- SecretRoomsMod（密室模組）\n  - 正確隱藏方塊\n- McJtyLib\n  - 機器所有權\n  - 機器可灌注資訊\n  - 深度共振\n  - 水晶資訊\n  - 發電機零件資訊\n- Lootr（掠奪者）\n  - 基於玩家的庫存\n  - 刷新與衰減時間\n- EnderIO（終界 IO）\n  - 精確的導管類型\n- Supplementaries（補充品）\n  - 偽裝陷阱禮物\n  - 隱藏禮物或門墊中的物品\n- Artifacts（神器）\n  - 偽裝模仿怪物\n\n### 模組包政策\n\n只要模組包僅發佈於 CurseForge 或 Modrinth，即可將此模組加入您的模組包中。\n\n[![有興趣支持我和模組開發嗎？BisectHosting 是完美選擇。新客戶可使用促銷代碼「snownee」在遊戲伺服器首月享有 25% 折扣。24/7 支援與快速回應，為您的所有遊戲需求提供頂級服務。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/oktbru)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

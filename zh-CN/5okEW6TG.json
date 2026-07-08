@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dNHrIn8DKbs=",
+  "content": "[问题反馈]: https://github.com/PssbleTrngle/Brazier/issues\n[下载地址]: https://www.curseforge.com/minecraft/mc-mods/brazier/files\n[CURSEFORGE]: https://www.curseforge.com/minecraft/mc-mods/brazier\n[MODRINTH]: https://modrinth.com/mod/brazier\n\n![](https://cloud.somethingcatchy.net/s/PAAcwsoT8FrkPRf/preview)\n\n\n\n*本模组仍在开发中，非常需要关于作用范围平衡性或建筑基础方块的[反馈][问题反馈]*\n\n火盆是一个类似于信标或潮涌核心的多方块结构，能够阻止周围特定半径内的怪物生成。\n这解决了玩家为了建筑风格/简洁性而必须始终点亮建筑的问题。\n具有阴森照明的恐怖城堡不再需要您真正害怕它或不得不搬到蘑菇生物群系。\n\n---\n\n## 使用方法\n\n该结构是一个塔式建筑，可由任意底部方块构成。塔的每一层都会将作用范围扩大10格，最大高度为10层。\n这些数值可在配置文件中自定义。\n\n通过在火盆上点燃火把，您将获得活焰火把。手持它时，您可以看到火盆覆盖区域的轮廓。\n\n![](https://media.forgecdn.net/attachments/308/532/base_blocks.png)\n![](https://media.forgecdn.net/attachments/308/537/multiblocks.png)\n\n---\n\n## 获取方式\n有两种使用**活焰**合成火盆的方法。\n\n![](https://media.forgecdn.net/attachments/308/533/crafting.png)\n\n这种稀有物品可以通过在丛林神庙中找到或杀死林地府邸中的疯狂灾厄村民获得。\n这两种方式都可以在配置中单独禁用。\n\n![](https://media.forgecdn.net/attachments/308/536/loot.png)\n\n**疯狂灾厄村民**是类似于卫道士的法师。他们能够使用两种法术：一种为附近所有敌人施加火焰抗性，另一种召唤造成火焰伤害的绿色火焰。\n\n他们仅在林地府邸生成时出现，与卫道士类似，但与他们不同的是，他们不会在袭击中生成。\n\n![](https://media.forgecdn.net/attachments/308/535/crazed_standing.png)\n![](https://media.forgecdn.net/attachments/308/534/crazed_casting.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "V5qIcQKYysk=",
+  "content": "一直覺得很奇怪，那些由Boss掉落的音樂唱片，既然很可能本來就是作為Boss主題曲設計的，為什麼不在Boss戰中直接播放呢？因此，我決定親自動手，把這個想法變成現實。\n\n͏\n\n### 需要 [Foolish](https://modrinth.com/mod/foolish)\n\n͏\n\n執行指令 _\"/trigger fbmm.(插入Boss ID)\\_theme.toggle\"_ 來切換是否播放對應的Boss主題曲。\n\n如果你已經受夠了這個模組/資料包，請務必在解除安裝前執行指令 _\"/function foolish_boss_music_mod:admin/uninstall\"_。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

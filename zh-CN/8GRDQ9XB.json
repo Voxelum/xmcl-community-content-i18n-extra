@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0onefY1D9c0=",
+  "content": "# **💧雨声💧**\n\n雨声模组专注于基于真实材质的声音效果，取代了原版《我的世界》中通用的默认雨声。当靠近以下方块时，将播放独特的音效：\n\n- 紫水晶✨\n- 金属🔩\n- 植物（花草或树叶）🍃\n- 织物🧶\n- 玻璃🪟\n- 木材🪵\n- 熔岩🌋\n- 水🌊\n- 可通过配置文件添加自定义方块:)\n- 更多内容即将推出！\n\n适用场景：建造氛围感基地与建筑、打造沉浸式游戏体验、为雨天探索增添深度、希望材质选择带来真实音效反馈的建筑师，或任何你在《我的世界》中的活动。灵感来源于JaizYT为Fabric制作的[Cool rain](https://www.curseforge.com/minecraft/mc-mods/cool-rain)。\n\n# 视频展示\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/nVe7P1Fg94w\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 安装说明：\n\n当前支持Forge 1.20.1/1.20.4版本，更多版本移植即将推出。\n请确保已安装Forge 1.20.1/1.20.4，将模组文件放入mods文件夹后启动游戏，开启降雨即可聆听……\n\n本模组为客户端专用，仅玩家需要安装。\n\n## 背景信息\n我在游玩包含135个模组的整合包时，发现天气系统始终未被任何模组改变，这让我感到缺憾。因此我决定亲手改造它。我非常享受开发过程，并希望持续完善这个模组。如果你喜欢我的作品，可以请我喝杯[咖啡](https://buymeacoffee.com/jshep)：\n\n计划中的功能包括：\n- 材质音效✔\n- 重制雷声音效✔\n- 随机风声\n- 木材音效✔\n- 沙地音效✔\n- 石质音效\n- 雨后概率出现彩虹\n- 熔岩嘶嘶声✔\n- 水声音效✔\n- 行走于草地/泥地时的泥泞脚步声\n- 斜向降雨\n- 闪电交互音效：闪电击中特定方块时的自定义音效\n- 更精准的方块音效定位✔\n- 音效配置文件✔",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

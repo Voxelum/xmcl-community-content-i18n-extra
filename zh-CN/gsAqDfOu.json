@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IrftgOnCMjU=",
+  "content": "## [包含内容]\n本模组仅修复 [Sable](https://modrinth.com/mod/sable)、[Create: Aeronautics](https://modrinth.com/mod/create-aeronautics) 与 [Create: Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions) 之间的漏洞及兼容性问题。\n\n### [功能特色]\n- 喷气背包子层级地面检测\n- 抓钩子层级挂钩（说实话非常有趣）\n- 方块选取器子层级交互（可从子层级/主层级中拾取与放置方块）\n- 副手持抓钩物品（无法同时生成两条锁链）\n\n### [可配置项]\n- 第一人称视角隐藏下界合金喷气背包/外骨骼（客户端配置）\n- 禁用“方块选取器”对实体方块的选取（部分情况下方块数据会丢失）（通用配置）\n\n### [对原版Stuff & Additions的修复]\n- 抓钩钩住子层级时游戏崩溃\n- 浮空方块与子层级碰撞时游戏崩溃\n\n_-最新版本依赖 Sable >=1.2.2 与 Create Stuff & Additions >= 2.1.3-_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

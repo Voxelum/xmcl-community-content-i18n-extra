@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OLN/v+vIFg0=",
+  "content": "<p>Barrels 2012 讓 TerraFirmaCraft 中的物品可以穿戴在玩家背上，類似於經典模組（即 2012 年版本）的設計。以下物品可被穿戴：</p><ul>\n<li>木桶</li>\n<li>大型容器</li>\n<li>燈具（具備動態光源功能）</li>\n<li>鐵砧</li>\n<li>火藥桶（注意別不小心踩到火源！）</li>\n<li>熔爐坩堝</li>\n</ul><p>&nbsp;</p><p><img src=\"https://raw.githubusercontent.com/eerussianguy/barrels_2012/main/img/logo.png\" width=\"447\" height=\"447\"></p><p>&nbsp;</p><p>使用模組注意事項：</p><ul>\n<li>可透過按下「G」鍵或點擊物品欄中玩家角色旁的按鈕開啟 Curios 選單。</li>\n<li>將物品加入 <code>curios:back</code> 物品標籤後即可將其置於背部。所有渲染效果皆由我自訂實現，Curios 不會自動處理。</li>\n<li>本模組會自動為其他 TFC 擴充模組的方塊註冊渲染器。例如：所有 <code>BarrelBlock</code> 實例的物品都會獲得對應渲染器。</li>\n</ul><p>&nbsp;</p><p>本模組需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/curios\" rel=\"nofollow\">Curios API</a>。本模組需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/tfcraft/\" rel=\"nofollow\">1.18+ 版本的 TerraFirmaCraft</a></p><p>&nbsp;</p><p><em>本模組採用 MIT 授權。這代表您無需經過我的同意即可將本模組收錄於您的模組包中。</em></p><p>&nbsp;</p><p><em>本模組所擴充的 TFC 採用 EUPL 授權。使用本模組部分內容時請注意 TFC 的授權條款可能適用。您可以在該模組頁面查看相關授權內容。</em></p><p><em>本模組依賴的 Curios 採用 LGPL 授權。您可以在該模組頁面查看相關授權內容。</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

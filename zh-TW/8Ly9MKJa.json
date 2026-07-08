@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oYzeGO2JHD4=",
+  "content": "# **[REACTIVE MUSIC](https://modrinth.com/mod/reactive-music/versions) 必備** 及其相依模組 [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)\n\n一個專為 Reactive Music 模組設計的音樂包，以 81 首來自寶可夢系列的曲目取代 Minecraft 音樂，這些音樂會根據你的生態域、時間、維度動態變化，並加入頭目戰鬥音樂。\n\n雖然本音樂包是為 Cobblemon 設計，但並非必要，沒有它也能正常運作。\n\n相容於 **Terralith、Tectonic、Biomes O' Plenty 及 Oh The Biomes We've Gone**。\n\n由於需要 Reactive Music 模組，此音樂包**僅限 Fabric**，且僅支援 **1.21.1、1.21.4** 版本。\n\n也支援 **1.20.1** 版本，但可能會有部分問題。\n\n曲目清單可在更新日誌中查看。\n\n> \n<details>\n<summary>安裝方式</summary>\n\n## 安裝指南\n\n1. 下載最新版本的 [Reactive Music](https://modrinth.com/mod/reactive-music/versions) 及其相依模組 [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)\n2. 將此音樂包放入你的資源包資料夾（**無需啟用**）\n3. 透過 [Mod Menu](https://modrinth.com/mod/modmenu) 或使用 /reactivemusic 指令在遊戲中開啟 Reactive Music 設定\n4. 選擇 jor'sCobblemonMusicPack\n5. 盡情享受！\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

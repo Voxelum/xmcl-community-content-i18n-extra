@@ -1,0 +1,6 @@
+{
+  "bodyHash": "E/42cHgjVTE=",
+  "content": "# 自動區塊預載\n\n一款輕量級的伺服器端實用模組，能在玩家上線時自動暫停世界預生成，並在玩家離開時恢復。\n\n非常適合使用 [Chunky](https://modrinth.com/plugin/chunky) 模組預生成世界的伺服器！您不再需要擔心玩家加入時伺服器卡頓，或忘記在伺服器空閒時恢復 Chunky。\n\n## 運作原理\n- **玩家加入：** 模組會立即在後台暫停 Chunky（執行 `/chunky pause`）。\n- **伺服器無人時：** 模組會啟動一個 2 分鐘的計時器。若在此期間無人加入，它會自動恢復生成（執行 `/chunky continue`）。\n\n## 指令\n*需要 OP 權限 / 權限等級 2*\n- `/autochunky toggle` - 開啟或關閉自動化功能。\n- `/autochunky status` - 檢查自動化功能目前是否正在運行。\n\n## 需求與建議設定\n- **僅限伺服器端！** 您的玩家無需下載此模組即可加入伺服器。\n- **Fabric Loader：** 嚴格要求版本 **0.18.5 或更高**。\n- 必須在伺服器上安裝 **[Chunky](https://modrinth.com/plugin/chunky)**，此模組才能生效。\n- **強烈建議：** 在您的 Chunky 設定中將 `continueOnRestart` 設為 `true`！這能確保 Chunky 在伺服器啟動時立即開始生成，讓 Auto Chunky 從一開始就能完美管理暫停與恢復。\n\n## 權限與模組包\n您完全可以自由地在模組包中使用此模組！若您希望複製、分叉或在自己的專案中使用程式碼，只要適當註明原作者（Gabbe）的貢獻，歡迎您隨意使用。本模組採用 MIT 許可證發布。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

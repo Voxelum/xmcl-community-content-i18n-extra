@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4nPefVJoAbo=",
+  "content": "<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraftstorage.com%252fmods%252fmusical-foxes\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://iili.io/3pN4hX9.png\" alt=\"\" width=\"870\" height=\"174\"></a></p><ul>\n<li>Этот мод для Forge позволяет лисам издавать звуки козьих рогов вместо их обычных звуков, если они держат в руках такой рог.</li>\n<li>Визг заменяется звуком козьего рога с громкостью в 2 раза выше, а храп — звуком козьего рога с громкостью 15%.</li>\n<li>Они удерживают роги особым образом по сравнению с другими предметами.</li>\n<li>Этот мод можно настроить так, чтобы он работал с другими модами, добавляющими предметы, расширяющие <strong>InstrumentItem</strong>, путем добавления их в тег предметов <strong>musicalfoxes:fox_can_play</strong>.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Op2dKgEMLVI=",
+  "content": "<h2>AllTheMafuyu</h2><p>作者的小小私人收藏——一個從各處拾來的奇思妙想盒子，悄悄地化為現實。</p><p>預設僅啟用第一個功能（<strong>MerrySnow</strong>），其餘功能可在配置檔案中開啟。</p><p>若有想看的小功能，歡迎悄悄留下訊息——或許哪天就會悄悄實現。</p><h3>功能列表</h3><ul>\n<li><strong>MerrySnow</strong> – 雪地生態域不會生怪，細雪層擁有階梯般的底部碰撞箱，且不會造成冰凍傷害。適合盡情打雪仗。</li>\n<li><strong>VariedModel</strong> – 極度方便！只需一行KJS事件代碼即可更改物品紋理，並可選擇支援隨機紋理。</li>\n<li><strong>RaidAnywhere</strong> – 輸入<code>/mafuyu raid @p</code>即可立即觸發突襲，無視任何村莊或村民條件。</li>\n<li><strong>ItemZoom</strong> – 自訂特定物品模型的縮放比例（例如三倍大的鑽石劍）。詳情請見配置檔案。</li>\n<li><strong>HNoDamageBar</strong> – 隨心所欲隱藏特定物品的耐久度條。可透過配置檔案設定。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

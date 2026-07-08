@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yPN5HBSSb4A=",
+  "content": "<section class=\"project-description\"><h2 style=\"text-align:left\"><strong>簡易鑽頭</strong></h2>\n<p style=\"text-align:left\">這是一個簡單的模組，新增了分級鑽頭。<br>本模組包含 6 種鑽頭 <em>(銅製、金製、鐵製、紫水晶、鑽石、獄髓、幽匿、綠寶石、多功能鑽頭)</em><br>所有鑽頭都能以 3x3 隧道方式採礦，讓條帶式採礦或挖掘作業更加輕鬆。</p>\n<p>使用 Fabric 版本的簡易鑽頭時，<strong>必須</strong>安裝 Fabric API</p>\n<p>可透過遊戲規則 \"drillRadius\" 調整鑽頭採礦半徑 <em>(1.6 及以上版本)</em></p>\n<p>合成配方範例，任何木製板材皆可使用，建議安裝「Just Enough Items」等模組來查看所有配方</p>\n<p style=\"text-align:left\"><img src=\"https://i.imgur.com/2Z075DE.png\" alt=\"合成配方\" width=\"273\" height=\"125\"></p>\n<p>獄髓鑽頭配方 <em>(模組版本 1.6.1 以上)</em><br><img src=\"https://media.forgecdn.net/attachments/description/502533/description_ecd6fc3c-c8e5-42e0-b33f-9a4545a5a233.png\" width=\"273\" height=\"152\"></p>\n<p style=\"text-align:left\"><strong>分級列表&nbsp;<br></strong><img src=\"https://media.forgecdn.net/attachments/description/502533/description_410dad20-29d8-4892-b7e6-12ed1362332e.png\" alt=\"分級列表\" width=\"612\" height=\"78\"></p>\n<p style=\"text-align:left\">是的，您可以將此模組加入任何模組包中，無論是個人或商業用途皆可。</p></section>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

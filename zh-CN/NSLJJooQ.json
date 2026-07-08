@@ -1,0 +1,6 @@
+{
+  "bodyHash": "O2BmOg5KZ8U=",
+  "content": "[WorldEdit]的图形用户界面。WorldEditCUI旨在协助使用WorldEdit，同时防止意外操作错误。\n\n请注意，这不是能够修改世界的[WorldEdit]，而是WorldEdit的前端界面WorldEditCUI。你必须在服务器上安装WorldEdit。\n\n安装方法\n--------\n\n1. 安装[Fabric](https://fabricmc.net/use)\n2. 将[本模组](https://modrinth.com/mod/worldedit-cui)放入Minecraft的mods文件夹\n\n安装后无需任何配置即可显示WorldEdit的选区，但若安装了[Mod Menu](https://modrinth.com/mod/modmenu)，则可自定义显示颜色。\n\n\n其他信息\n--------\n\n你可以通过关注本项目或[加入EngineHub Discord服务器](https://discord.gg/enginehub)来接收更新动态。技术支持相关疑问请在`#worldedit-cui`频道提出。\n\n鸣谢\n----\n\n * [Mumfrey](https://github.com/Mumfrey)、[yetanotherx](https://github.com/yetanotherx)、[mikroskeem](https://github.com/mikroskeem)、[zml](https://github.com/zml2008) - 此前维护WorldEditCUI的贡献者\n * [lahwran](https://github.com/lahwran) - 原版WorldEdit CUI的创建者！\n * [sk89q](http://sk89q.com) - WorldEdit插件的作者！\n * [Mojang](http://mojang.com) - 创造了如此精彩的游戏！\n\n法律声明\n--------\n\nWorldEditCUI的代码（以及编译后的模组）采用[Eclipse Public License v1]许可协议。\n\n[WorldEdit]: https://enginehub.org/worldedit/\n[Eclipse Public License v1]: https://www.eclipse.org/org/documents/epl-v10.php",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "C1I/eRsfPuU=",
+  "content": "![Анимированное изображение с использованием большой горы, демонстрирующее разницу между Vanilla и Cliff Face. У Vanilla преобладает коричневый цвет, созданный из грязи, тогда как у Cliff Face — камень, и она выглядит более пустынной](https://cdn.modrinth.com/data/TIAnANoy/images/09b338a1676485e0d84b7cc1dd617c6329d280a3.webp)\n\n\n<div align=\"center\"><h1>Cliff Face</h1></div>\n\n![Широкое изображение длинного обрыва](https://cdn.modrinth.com/data/cached_images/abdeb55549f0250c9eb31b96fc7657967f9fae8e_0.webp)\n\n\n# 🪨 Особенности\n- **Лучше всего работает с [MC-258859](https://modrinth.com/mod/mc-258859)** из-за существующей (на мой взгляд) ошибки в коде Minecraft\n- **Работает на сервере** без риска несовместимости с клиентом\n- **Энергоэффективный**, так как использует систему генерации поверхности Minecraft, а не её более ресурсоёмкую систему создания объектов\n- **Поддерживает моды**, которые изменяют мир с помощью системы генерации Minecraft (Terralith, Tectonic, Noisium, Biomes 'O Plenty, Geophilic, Lithopshere и многие другие)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

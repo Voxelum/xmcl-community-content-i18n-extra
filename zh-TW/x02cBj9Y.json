@@ -1,0 +1,6 @@
+{
+  "bodyHash": "X/yteGyGe/M=",
+  "content": "一款客戶端 [Fabric](https://fabricmc.net/) 模組，在狀態效果疊加層與物品欄中增加可自訂的小型進度條，顯示效果的剩餘時間。\n\n功能：\n- 可愛的小進度條\n- 可透過設定介面調整顏色與進度條位置\n- 進度條可在特定情況下自動隱藏，減少畫面雜亂（例如：烽火台效果與持續時間極長的效果）\n\n需要安裝 [Cloth Config]。可透過 [Mod Menu](https://modrinth.com/mod/modmenu) 開啟設定介面。\n\n![HUD 上的進度條](https://cdn.modrinth.com/data/x02cBj9Y/images/c98d161c7500da131ffae614e573d61fcb0c99b2.png \"HUD\")\n\n![物品欄中的進度條](https://cdn.modrinth.com/data/x02cBj9Y/images/b078783e15bacfd25185abbce01cea107e2106bd.png \"Inventory\")\n\n## 感謝\n- 靈感可能來自 [SkyUI](https://www.nexusmods.com/skyrim/mods/3863) 的主動效果 HUD\n- 設定介面由 [Cloth Config] 提供支援\n- `pt_br` 翻譯由 [FITFC](https://github.com/FITFC) 提供\n\n連結：[CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars) · [GitHub](https://github.com/A5b84/status-effect-bars) · [Modrinth](https://modrinth.com/mod/status-effect-bars)\n\n[Cloth Config]: https://modrinth.com/mod/cloth-config",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

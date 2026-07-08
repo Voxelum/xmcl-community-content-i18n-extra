@@ -1,0 +1,6 @@
+{
+  "bodyHash": "avjGFnHasUU=",
+  "content": "相机工具是一个客户端Fabric模组，为玩家镜头操作添加了便捷功能。\n\n# 功能特色\n\n- 动态缩放\n- 镜头分离\n- 可调节第三人称距离\n- 两种可定制的第三人称视角\n- 高级电影镜头控制\n- 移动平滑效果\n\n## 动态缩放\n\n默认缩放键绑定为`Z`键。\n按住缩放键并滚动鼠标滚轮可动态调整缩放幅度。\n\n![](https://media.giphy.com/media/5CA3RhbZLwdWLSnyxn/giphy.gif)\n\n## 镜头分离\n\n按下分离镜头按钮后，玩家视角将被锁定在当前坐标。\n你仍可正常操控角色，只是观察视角会发生变化。\n同时按下`右ALT键`和分离镜头键，镜头将返回上次分离时的位置。\n\n![](https://media.giphy.com/media/NCHDu1S4XB8Bpee2j5/giphy.gif)\n\n## 可调节第三人称距离\n\n在第三人称模式下按住距离调节键时，可将镜头拉远至距离角色100格的位置。\n\n![](https://media.giphy.com/media/3mILufImnwZzagKkMa/giphy.gif)\n\n## 自定义第三人称视角\n\n本模组提供两种可定制的第三人称视角方案。\n默认分别绑定在`F6`和`F7`键。\n通过组合按下`右ALT键`与对应功能键可调整预设参数。\n\n![](https://media.giphy.com/media/2pM70RylJyXvhuVj4R/giphy.gif)\n\n## 高级电影镜头控制\n\n同时按下`右ALT键`和电影镜头按钮，可调整电影镜头的各项参数。\n\n## 补充说明\n\n组合按下`右ALT键`与任何相机工具相关按键时，\n将唤出设置界面用于调整参数，\n或将其重置为默认值。\n\n请注意本模组**不兼容OptiFine**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

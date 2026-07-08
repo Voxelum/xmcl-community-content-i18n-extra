@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rVKBnwLWG7A=",
+  "content": "![專案介紹](https://cdn.modrinth.com/data/cached_images/d1813838e7ccca73eca8e0cc23dfabc84a6f8e09_0.webp)\n\n## 死亡動畫\n- 支援版本：**1.20.2+**\n- 玩家死亡時會爆炸成~紅色方塊！\n- 生物會有不同的碎塊！\n\n目前支援：**殭屍、骷髏、凋零骷髏、苦力怕、沉屍、終界龍、終界使者、地獄幽靈、蜘蛛、喚魔者、衛道士、豬布林、豬布林蠻兵、伏守者**。未來會增加更多！\n\n## 附加功能\n生物碎塊效果預設為啟用，但你可以透過指令停用此功能：\n```\n/scoreboard players set EnableMobGibbing gib.CONFIG 0\n```\n## 製作人員\n#### SCHMOOVE II（chopstickwater）\n\n[SCHMOOVE II](https://discord.gg/B25MX3D5fG) 是由**chopstickwater**在沙盒伺服器[legitimoose.com](https://store.legitimoose.com/)上創作的移動射擊遊戲。碎塊（或稱「死亡動畫」）是她為遊戲引入的一項原創功能，當玩家死亡時會爆炸成彩色小方塊（即「碎塊」）。這些碎塊具有物理效果，讓爆炸看起來更加真實。\n\n可疑連結？\nhttps://files.catbox.moe/8to4ap.mp4",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

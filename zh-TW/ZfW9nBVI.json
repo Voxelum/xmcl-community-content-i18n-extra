@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IKM9tdtLRN0=",
+  "content": "## 關於\n\n**這是 FastWorkbench 針對 Minecraft 1.21+ 的 Fabric 非官方移植版本。原始模組由 [shadows_of_fire](https://www.curseforge.com/members/shadows_of_fire) 為 Forge/NeoForge 開發。**\n\n這是一個旨在提升所有合成相關功能效能的模組。它修復了 Minecraft 1.12 中引入的錯誤，該錯誤會導致在按住 Shift 合成一疊物品時發生短暫卡頓。不過，它的功能不僅限於修復這個問題。\n\n### 合成\n\nFastWorkbench 讓所有合成操作都能快取上一次使用的配方。除此之外，它還減少了對該快取配方的呼叫次數，僅在合成矩陣中儲存的物品實際發生變化時才偵測變更（原版會在每次有任何變動時重新嘗試，例如堆疊數量變化）。這使得比對操作的次數減少到一次，而不是介於一次到近六百次之間。\n\n### 配方手冊\n\n在現代版本中，配方會作為配方系統的一部分進行同步。FastWorkbench 預設會直接移除配方手冊按鈕，但可以透過設定將其恢復。\n\n### 相容性與模組支援\n\n此模組透過 Mixin 應用於 PlayerScreenHandler（2x2 合成格）和 CraftingScreenHandler（3x3 合成格）這兩個類別。任何使用這些處理器的模組都將獲得 FastWorkbench 的完整效能提升。\n\n任何未使用這些處理器的模組，理論上應該已經自行進行了這些優化——畢竟加入這些優化相當簡單。\n\n**原始模組：CurseForge 上的 [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tiv2jwweA+4=",
+  "content": "# 歡迎使用 JEI Integration Reborn 模組\n\n此模組將 [JEI Integration](https://modrinth.com/mod/jei-integration) 的功能帶到新版本的 Minecraft 中。\n\n## 當您安裝並正確配置此模組後，您的物品將會顯示：\n\n1. 燃燒時間\n2. 耐久度\n3. 最大堆疊數量\n4. 標籤\n5. 資料組件\n6. 翻譯鍵值\n7. 附魔能力\n8. 飢餓值/飽食度\n\n## 配置注意事項：\n\n⚠️ 所有功能預設為關閉狀態 您必須編輯設定檔來啟用所需功能。這樣可以精確控制您的 JEI 介面，避免資訊過載。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

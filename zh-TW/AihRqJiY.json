@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mum6sHMLpKI=",
+  "content": "### 描述\n這個資料包會在已點燃的TNT上方添加一個計時器，顯示TNT即將爆炸的剩餘秒數。\n\n### 資料包安裝指南\n\n前往位於Windows系統中的存檔資料夾：\n```\nC:\\Users(您的用戶名)\\AppData\\Roaming\\.minecraft\\saves\n```\n將壓縮檔案放入資料包資料夾中，然後重新載入您的世界或執行 `/reload` 指令。\n\n### 解除安裝指南\n\n- 執行 `/function tnt_timer:uninstall` 指令。在刪除資料包前請勿重新載入。\n- 刪除資料包/模組後，再執行 `/reload` 指令。\n\n### 其他注意事項\n\n- 如需提供意見回饋、回報錯誤或尋求其他協助，請從此頁面的連結區塊加入 [Discord 伺服器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

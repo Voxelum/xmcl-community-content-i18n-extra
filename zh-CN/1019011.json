@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6x4B7WBadaU=",
+  "content": "<h1>概述</h1><p>这个模组是 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fplugin%252fsimple-voice-chat\" rel=\"nofollow\">Simple Voice Chat</a> 的附加组件，它让你的声音与振动互动，影响诸如幽匿感测体、幽匿尖啸体和监守者等事物！</p><p>除此之外，它还具有可配置性，因此你可以根据自己的喜好进行调整。</p><h2>开发</h2><p>该模组还包含一个API，允许开发者使用相同的频率传输他们自己的振动。</p><p>build.gradle</p><pre><code>dependencies {\n  implementation \"com.codinglitch.vibrativevoice:vibrativevoice-api:API_VERSION_HERE\"\n}\n</code></pre><p>你可以访问 <a href=\"/linkout?remoteUrl=https%253a%252f%252fversions.codinglitch.com%252f\" rel=\"nofollow\">https://versions.codinglitch.com</a> 查看最新的API版本。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

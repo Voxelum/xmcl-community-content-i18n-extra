@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gLNW+0+syyU=",
+  "content": "**原版模组**: [穴居者](https://www.curseforge.com/minecraft/mc-mods/cave-dweller)\n\n## 功能\n\n- 穴居者拥有大量额外的（可配置的）行为\n- 修复了一些问题（例如，它在多人游戏中可以正常工作）\n\n## 常见问题\n\n- 另一位用户创建了一个 Fabric 移植版：[穴居者进化 (Fabric)](https://modrinth.com/mod/cave-dweller-evolved-(fabric) \"穴居者进化 (Fabric)\")\n- 目前没有计划支持 &lt; 1.18.2 版本\n\n### 命令\n使用 `/cave_dweller` 时有一些命令可用\n\n- `fast_forward`: 增加（或减少）当前的生成或噪音计时器（以刻为单位）\n- `get_target`: 显示当前的生成目标（穴居者将在其目的地生成并锁定目标）\n- `get_timer`: 显示当前的生成或噪音计时器（以秒为单位），格式为：当前 / 目标\n\n### 生物群系\n\n- 数据包配置优先（\\cave_dweller\\tags\\worldgen\\biome\\cave_dweller_surface_biomes.json），默认包含 #forge:is_spooky\n- 在配置中，你可以设置表面生物群系列表是作为白名单还是黑名单处理\n- 你也可以在配置中配置生物群系，但你需要启用覆盖配置才能生效\n\n### 维度\n\n- 你可以通过配置管理它可以在哪些维度生成 - 默认情况下，穴居者只会在 minecraft:overworld 中生成\n- 条目基于维度资源键，而不是维度类型资源键\n- 如果一个维度中没有有效的玩家，它将不会执行其逻辑（例如，计时器不会减少）\n- 穴居者的最大数量是按维度计算的\n\n### 兼容性\n\n- 如果你使用 [增强 AI](https://modrinth.com/mod/enhanced-ai) 模组，你需要将穴居者添加到 `[Base.Targeting.\"Entity Blacklist\"]` 配置条目中",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QGQnczpvgqY=",
+  "content": "<h4>关于</h4><p>BBB 是一款专注于生物群系颜色混合的&nbsp;<strong>客户端性能和漏洞修复模组</strong>。</p><h4>功能</h4><ul>\n<li>支持更大的混合半径设置（达到原版默认最大值的2倍）</li>\n<li>在三维空间中进行颜色混合，以正确处理洞穴生物群系</li>\n<li>显著提升颜色混合算法的性能</li>\n<li>通过使用OKLabs感知色彩空间，实现更美观的颜色过渡效果</li>\n<li>通过限制内存分配，降低内存占用和垃圾回收开销</li>\n</ul><h4>兼容性</h4><ul>\n<li>自1.18.2版本起兼容Sodium/Embeddium</li>\n<li>兼容低于OptiFine HD U H5版本的Optifine</li>\n</ul><h4>整合包</h4><p>无需为此特别联系我获取许可。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

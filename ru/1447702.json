@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VQ+PHTeellg=",
+  "content": "<h1>Отображение будущих торгов крестьян</h1><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fU7U3EQ9EW\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" alt=\"ko-fi\"></a></p><p>Мод, отображающий будущие торговли крестьян на экране торговли.</p><h2>Предварительный просмотр</h2><p><img src=\"https://github.com/Maeiro/future-villager-trades-visible/blob/port/forge-1.20.1/img/in-game-preview.png?raw=true\" alt=\"Предварительный просмотр в игре\"></p><h2>Особенности</h2><ul>\n<li>Показывает будущие торги в списке предложений без необходимости повторного открытия интерфейса.</li>\n<li>Запрещает взаимодействие с торговлями, которые ещё не разблокированы.</li>\n<li>Совместим с циклом торгов (обновления при смене цикла).</li>\n</ul><h2>Кредиты</h2><ul>\n<li>Ramixin, создатель VisibleTraders-NeoForge: <a href=\"https://github.com/Ramixin/VisibleTraders-NeoForge\" target=\"_blank\" rel=\"nofollow\">https://github.com/Ramixin/VisibleTraders-NeoForge</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

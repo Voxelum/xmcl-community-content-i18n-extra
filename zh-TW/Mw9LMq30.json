@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fW3GpdJ9IH8=",
+  "content": "# DidIGetRobbed\n\n一款能協助你偵測儲物箱、木桶和界伏盒中物品是否遺失的 Minecraft Fabric 模組。\n\n![banner](https://cdn.modrinth.com/data/cached_images/c286f050eaabe7e6c686cb40687126b7155c1666.png)\n\n[⭐️ 這是個特色模組！ ⭐️](https://modrinth.com/collection/7VVhDCVM)\n\n## 功能特色\n\n- **視覺疊加層**：在物品遺失的欄位中顯示幽靈物品\n- **聊天通知**：在聊天視窗顯示完整遺失物品清單，並支援附魔顯示\n- **多重世界支援**：可在多人模式甚至領域服中使用！\n輸入 /didigetrobbed 即可存取設定\n\n## 已知問題 / 限制\n- 部分元件數據尚未支援\n- 幽靈物品不顯示物品數量（但聊天視窗會顯示）\n- 移動界伏盒時會出現嚴重問題\n- **建議使用 /didigetrobbed 停用界伏盒追蹤**\n- 若要追蹤界伏盒，請在命名中包含「shulker」或「box」字樣\n\n## 常見問題：\n- Q：如何將已儲存的物品資料遷移到不同的 Minecraft 資料夾？\n- A：直接複製 DidIGetRobbed 資料夾即可！\n\n\n<a href=\"https://modrinth.com/user/electricdog\">\n     <img src=\"https://raw.githubusercontent.com/e1ectricdog/test/refs/heads/main/ezgif.com-speed.png\"\n         alt=\"我在 Modrinth 上蹦蹦跳跳的使用者名稱\">\n</a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

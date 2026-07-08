@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Pz+5MsPLlpM=",
+  "content": "Этот шейдерпак почти идентичен стандартной визуализации, за исключением поддержки TAA. Он совместим с OptiFine и Iris.\n\n## Кредиты\n* Воссоздание стандартной визуализации из [XorDevs-Default-Shaderpack](https://github.com/XorDev/XorDevs-Default-Shaderpack)\n* Реализация TAA от [BSL](https://bitslablab.com/bslshaders/)\n* FidelityFX CAS от [AMD](https://github.com/GPUOpen-Effects/FidelityFX-CAS), версия фрагментного шейдера от [vkBasalt](https://github.com/DadSchoorse/vkBasalt)\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

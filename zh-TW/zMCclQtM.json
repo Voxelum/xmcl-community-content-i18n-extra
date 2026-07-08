@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e3sFrRFaeb0=",
+  "content": "此模組是 Shoulder Surfing Reforged 的附加元件。當玩家使用 Pehkui 模組改變自身大小時，若體型小於一般玩家尺寸，會導致攝影機鏡頭出現不穩定的穿模情況，特別是在攀爬或緊貼前方方塊時更為明顯。\n\n本模組修復了當玩家體型小於原始遊戲預設尺寸時，Shoulder Surfing 所產生的攝影機問題。\n\n**必須安裝** Shoulder Surfing 才能使此模組正常運作。Pehkui 或其他能改變玩家體型的模組則為完全可選。若您未使用任何改變玩家大小的模組，則無需安裝此附加元件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

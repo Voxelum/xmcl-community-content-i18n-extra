@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hq0GLqNlKXU=",
+  "content": "<h3>Устали от того, что ваш поле зрения становится слишком широким на песке душ? Я тоже. Но я не смог найти мод, который убирает это, поэтому я сделал свой собственный!</h3><h3>Этот мод предназначен для отключения стандартных изменений поля зрения в Minecraft при ходьбе или беге с использованием заклинания скорости душ на песке или почве душ.</h3><p>&nbsp;</p><hr><p>&nbsp;</p><h2>Будущие версии:</h2><ul>\n<li>NeoForge?</li>\n<li>Forge 1.21.8+</li>\n</ul><div>\n<div>\n<h2>Команды мода (в настоящее время поддерживается только Fabric 1.21.8+):</h2>\n<p><strong>/soulspeedfov toggle</strong></p>\n<ul>\n<li>Включает или выключает исправление поля зрения.</li>\n</ul>\n<p><strong>/soulspeedfov icon toggle</strong></p>\n<ul>\n<li>Включает или выключает значок на HUD.</li>\n</ul>\n<p><strong>/soulspeedfov icon position &lt;позиция&gt;</strong></p>\n<ul>\n<li>Устанавливает положение значка на экране.</li>\n<li>Доступные позиции: top_left, top_middle, top_right, bottom_left, bottom_right.</li>\n</ul>\n<p>Добавлен значок, указывающий, когда действует скорость душ. ИСПОЛЬЗУЙТЕ КОМАНДУ «/soulspeedfov icon toggle», ЧТОБЫ ОТКЛЮЧИТЬ ЕГО.</p>\n</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hYz7SSLk3y4=",
+  "content": "<p>Простой мод, который предотвращает зависание сервера Minecraft при остановке сервера WorldEdit</p><p>Он исправляет <a href=\"https://github.com/EngineHub/WorldEdit/issues/2459\" rel=\"nofollow\">https://github.com/EngineHub/WorldEdit/issues/2459</a>. Что он делает:</p><ul>\n<li>Выключает <code>WorldEdit.getInstance().getExecutorService()</code> при остановке выделенного сервера (иначе сервер будет зависать максимум на 60 секунд)</li>\n<li>Убедитесь, что объект-синглетон <code>java.util.Timer</code> в <code>FutureProgressListener</code> работает в фоновом потоке (иначе сервер застрянет навсегда)</li>\n</ul><p>Поддерживаемая среда</p><table>\n<thead>\n<tr>\n<th>Платформа</th>\n<th>Minecraft</th>\n<th>WorldEdit</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>fabric</td>\n<td>MC &gt;= 1.14</td>\n<td>&gt;=7.0.0</td>\n</tr>\n<tr>\n<td>forge</td>\n<td>MC &gt;= 1.15</td>\n<td>&gt;=7.0.0</td>\n</tr>\n<tr>\n<td>neoforge</td>\n<td>MC &gt;= 1.20.6</td>\n<td>&gt;=7.0.0</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

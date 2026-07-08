@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xMJhq7ouWVw=",
+  "content": "<p>Было ли у вас когда-нибудь так, что дверь была сломана из-за Зомби, который просто не мог удержать руки подальше от неё?</p><p>Теперь они нашли новый объект раздражения — свет! </p><p>В настоящее время они будут искать следующие источники света и постараются избавиться от них, если смогут.</p><p>С версии 1.3.0 это можно изменить с помощью данных паков (он называется <code>affected_blocks</code>), а также вы можете задавать, какие мобы будут пытаться уничтожать свет, через <code>affected_entities</code></p><h2><code>affected_blocks.json</code></h2><pre><code>{\n  \"replace\": false,\n  \"values\": [\n    \"minecraft:torch\",\n    \"minecraft:wall_torch\",\n    \"minecraft:lantern\",\n    \"minecraft:shroomlight\",\n    \"minecraft:redstone_lamp\",\n    \"minecraft:campfire\",\n    \"minecraft:beacon\"\n  ]\n}</code></pre><h2><code>affected_entities.json</code></h2><pre><code>{\n  \"replace\": false,\n  \"values\": [\n    \"minecraft:zombie\"\n  ]\n}</code></pre><p><img src=\"https://user-stats.itssimple.se/p/q230LH5oE\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

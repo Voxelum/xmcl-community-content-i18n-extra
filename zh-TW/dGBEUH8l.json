@@ -1,0 +1,6 @@
+{
+  "bodyHash": "S1sghP97fcg=",
+  "content": "# 更多音樂\n\n你是否曾覺得 Minecraft 的音樂播放頻率不夠高？這個模組能讓音樂幾乎持續播放*。\n同時支援設定歌曲之間的間隔時間，如果你因為某些原因真的很討厭音樂，也可以設定讓音樂播放得*更不頻繁*。\n\n主選單、一般遊戲、創造模式及終界**的歌曲間隔時間（以刻為單位）均可單獨設定最小與最大延遲值。\n\n需要 **Fabric API**（或 Quilt 上的 QFAPI）與 **Cloth Config API 11.1 或更新版本**，建議同時安裝 Mod Menu 以便調整設定。\n\n<sup><sub>*預設歌曲間會有 1-2 秒（20-40 刻）的間隔，使轉場更自然流暢，但若需要仍可透過設定調整。</sub></sup>\n\n<sup><sub>**終界龍戰鬥場景除外，該場景預設間隔時間為零。</sub></sup>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

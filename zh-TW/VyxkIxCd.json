@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5jfFT2KmNkw=",
+  "content": "# 全亮度\n\n這是一款為遊戲增加全亮度功能的 Fabric 模組。\n\n## 安裝方式\n從 [modrinth](https://modrinth.com/mod/fullbright) 下載 jar 檔案，並安裝以下 <u>依賴項</u>。\n\n[![](https://github.com/Prospector/badges/blob/master/modrinth-badge-72h-padded.png?raw=true)](https://modrinth.com/mod/fullbright)\n\n或者複製 GitHub 儲存庫，並執行 `./gradlew buildAndCollect`。\n完成後，編譯好的 jar 檔案應出現在 `build/libs/` 目錄中。\n\n## 依賴項\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n- [Mod Menu（可選）](https://modrinth.com/mod/modmenu)\n\n## 使用方法\n\n1. 確保所有依賴項都已安裝。\n2. 使用 `/fullbright toggle` 或按鍵綁定（預設：`B`）來切換全亮度的開關。\n3. 使用 `/fullbright strength <數值>` 來設定亮度強度（預設值：`10`，最大值：`10`，最小值：`0`）。\n4. 使用 `/fullbright config` 或 [Mod Menu](https://modrinth.com/mod/modmenu) 來開啟設定畫面。\n5. 好好享受吧！\n\n### 如果遇到任何問題，請到[我的 GitHub](https://github.com/Greeenman999/fullbright/issues) 建立問題，或在 Discord 上私訊我 `@greenman999`。\n\n## 授權條款\n\n本專案採用 GNU 通用公共授權條款第三版。\n\n### 第三方程式碼\n\n本專案包含來自 [Vigilance](https://github.com/EssentialGG/Vigilance) 及 UI 函式庫 [Elementa](https://github.com/EssentialGG/Elementa) 的部分程式碼，\n採用 GNU 較寬通用公共授權條款第三版。詳細資訊請參閱 [NOTICE.md](https://github.com/Greeenman999/fullbright/blob/newgen/NOTICE.md)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

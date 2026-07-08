@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HA/lUe8/zKQ=",
+  "content": "FlyHigher 是一款為 Create Aeronautics 提供進階氣壓調整功能的 NeoForge 模組。\n\n此模組可讓您自訂氣壓倍率，並為每個高度節點設定氣壓值，讓您能精準控制 Create Aeronautics 中飛船的高度行為。\n\n✨ 功能特色：\n- 可設定的氣壓倍率\n- 各節點的高度與氣壓值編輯\n- 圖形化設定介面（Cloth Config）\n- 即時設定同步，無需重啟\n- 自動注入資料包，無需手動設定\n\n🔧 運作方式：\n模組會在 config/flyhigher_datapack/ 目錄下產生一個資料包，並透過 NeoForge 的包查找系統自動載入至每個世界。設定變更後，只需在遊戲內執行 /reload 指令或重新進入世界即可套用，無需手動複製或打包檔案。\n\n📦 需求：\n- Minecraft 1.21.1\n- NeoForge 21.1+\n- Create Aeronautics (Sable 1.1+)\n- Cloth Config 15.0+（用於設定介面）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

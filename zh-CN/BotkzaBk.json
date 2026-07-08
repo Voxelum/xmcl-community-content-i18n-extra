@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lsQ5l4qRkDM=",
+  "content": "本模组为EnderIO增加了KubeJS集成。\n\n当前功能：\n- 全面支持并提供了所有配方类型的构建器\n- 自定义绑定用于生成特定配方类型的概率及范围输出\n- 可过滤合金熔炼炉中继承的原版熔炉配方\n- 事件：\n  - 注册自定义电容器\n  - 注册自定义导管\n  - 添加新的研磨球\n  - 添加/移除/修改桶槽反应物\n\n![](https://i.imgur.com/Rmi0oMb.png)\n\n有关语法的详细说明，请查阅[Wiki](https://docs.almostreliable.com/kubejs-enderio/)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

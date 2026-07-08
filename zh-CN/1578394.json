@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Pn8JgcrdaRY=",
+  "content": "<h1>SF的铁砧修复</h1><h2>[中文] 关于本模组</h2><p>这是一个增加铁砧修复功能的模组。您可以通过手持铁锭右键点击铁砧来恢复其耐久度。</p><h2>依赖项</h2><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" target=\"_blank\" rel=\"nofollow\">FabricAPI</a>（Fabric版）</li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port\" target=\"_blank\" rel=\"nofollow\">Forge Config API Port</a>（Fabric版）</li>\n</ul><h2>配置</h2><p>配置文件路径 - <code>/config/sfs_anvil_repair-common.toml</code></p><p><code>repairItem</code> - 用于修复铁砧的物品。（默认值：<code>\"minecraft:iron_ingot\"</code>）<br>\n<code>usageCost</code> - 每次修复消耗的物品数量。（默认值：<code>1</code>）</p><p>配置示例：</p><pre><code>[\"Anvil Repair Settings\"]\n#用于修复铁砧的物品。\n#默认值：minecraft:iron_ingot\nrepairItem = \"minecraft:dirt\"\n#每次修复消耗的修复物品数量。\n# 默认值：1\n# 范围：1 ~ 64\nusageCost = 5</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

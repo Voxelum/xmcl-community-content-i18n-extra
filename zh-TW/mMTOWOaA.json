@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e+Jo4UEnzEk=",
+  "content": "# 特色功能：\n\n## 鮮血感知：\n\n**受傷時會在地上留下血跡，生命值低時會不時失血。怪物能感知到血腥味並循跡追蹤你**\n\n## 聲音感知：\n\n**發出以下聲音會暴露你的位置給其他怪物：**\n\n挖掘方塊、放置方塊、爆炸、弓與弩、進食、門、柵欄門、音符盒、唱片機、按鈕、控制桿、壓力板、絆線鉤、儲物箱、木桶、活塞、其他殭屍等！\n\n![挖礦聲音與血腥味](https://raw.githubusercontent.com/Corosauce/ZombieAwareness/1.20/showcase/mining_sound_blood_smell.gif)\n\n**聲音越大，對怪物聽覺的影響越強：**\n\n![TNT爆炸聲](https://raw.githubusercontent.com/Corosauce/ZombieAwareness/1.20/showcase/tnt_sound.gif)\n\n## 光源感知：\n\n**怪物能從極遠距離看見暴露的光源，當視線暢通時會前來探查**\n\n![光源感知](https://raw.githubusercontent.com/Corosauce/ZombieAwareness/1.20/showcase/light_awareness.gif)\n\n## 設定選項：\n\n**選擇你要強化的怪物類型**\n\n預設啟用： \"minecraft:zombie\", \"minecraft:husk\", \"minecraft:creeper\", \"minecraft:skeleton\", \"minecraft:stray\", \"minecraft:witch\", \"minecraft:zombie_villager\"\n\n支援模組新增怪物，載入一次模組包後，請檢查 MobLists.toml → enhanceableMobs 查看可能支援的模組怪物列表！\n\n## 其他功能：\n\n使用活塞或TNT將殭屍引誘到特定區域，可用作分散注意力的手段協助逃脫。它們總是會朝聲音更大的方向前進。\n\n可選的地表隨機遊蕩屍潮（預設關閉）：怪物會成群結隊在地表大規模隨機遊走\n\n需要 CoroUtil\n\n歡迎用於任何模組包！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

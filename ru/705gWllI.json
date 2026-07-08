@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yA2fFVBrSRI=",
+  "content": "# EMIffect\n\nМод-дополнение EMI, которое добавляет эффекты состояния в EMI и предоставляет информацию о каждом из них.\n\nВдохновлено [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed); существующие описания взяты из JEED.\n\nМоддеры могут добавлять описания для своих собственных эффектов состояния через файлы языков. Формат соответствует JEED: `effect.[mod_id].[effect_name].description` или `effect.[mod_id].[effect_name].desc`.\n\nКроме того, пользователи и моддеры могут добавлять собственные стеки для конкретных эффектов. За подробностями смотрите [викисайт](https://github.com/Prismwork/EMIffect/wiki/Append-custom-stacks-for-specific-effects).\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

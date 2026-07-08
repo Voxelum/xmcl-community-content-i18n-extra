@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Gyn1pJxwAAU=",
+  "content": "[![UShader Banner](https://rre36.com/wp-content/uploads/2023/01/UShader-Banner-23-01.jpg)](https://youtu.be/XPqMHXbSd4M)\n\n## **什么是UShader？**\n这个着色器包是我长期私人使用的SEUS v10.1修改版的重制版。我花了一些时间来匹配SEUS版本的一些独特外观，但最终我成功了。\n请注意，由于许多新效果（如体积云和雾）在那个版本中不存在，这个包在默认设置下**不会**比SEUS v10.1表现更好。然而，通过正确的设置，它能够在视觉效果更好的同时大幅超越SEUS v10.1。\n同样重要的是，这个包**不**使用SEUS v10.1的任何代码。\n\n## **它提供了哪些功能？**\n* 大气天空\n* 体积雾\n* 体积云\n* 动态阴影\n* 柔和阴影\n* 屏幕空间光线追踪环境光遮蔽（RTAO）\n* 水体积\n* 维度支持\n* 风效果\n* 时间抗锯齿和上采样（TAAU）\n* 运动模糊\n* 泛光\n\n## **有什么要求？**\n* Optifine 1.16或更新版本/Iris 1.5.0或更新版本\n* GTX 1050/RX 560或类似/更好的显卡（必须支持OpenGL 4.0）\n  * 通常建议使用更快的显卡\n* Windows/Linux\n* **由于反复的问题报告：Intel HD 5000显卡及更早版本**不支持！\n\n## **外部链接：**\n* 我的网站：[链接](https://rre36.com/vanilla-plus)\n* 我的Discord服务器：[链接](https://discord.gg/y5xzQ6H)\n\n[![成为赞助者](https://rre36.com/wp-content/uploads/2023/05/Patreon_ForEmbed.png)](https://www.patreon.com/bePatron?u=19790203)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

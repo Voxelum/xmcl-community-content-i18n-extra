@@ -1,0 +1,6 @@
+{
+  "bodyHash": "i29pc9Z9DCA=",
+  "content": "<h2>欢迎为其他农夫乐事附属模组请求补丁。</h2><p>我会检查并评估是否可以通过外部混入修复此问题。</p><hr><p>相关项目：<a href=\"https://www.curseforge.com/minecraft/mc-mods/farmers-delight-offhand-cutting-board-interaction\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/farmers-delight-offhand-cutting-board-interaction</a></p><hr><p>农夫乐事自1.3+版本起引入了多项破坏性变更，这可能导致在1.20.1 Forge版本的最新版“我的下界乐事”中，当方块放置在下界炉灶上方时发生崩溃。其他附属模组添加的炉灶也存在相同问题。同时该问题还会导致“矿工乐事”在启动时崩溃。</p><p>尽管“我的下界乐事”已针对新版1.21+ NeoForge版本进行更新，但在1.20.1 Forge版本上，此崩溃问题至今已数周未修复。本项目为此问题提供了一个非官方兼容性补丁。</p><h2>本补丁的功能</h2><p>本模组修复了因农夫乐事新版内部机制导致的炉灶变体交互崩溃问题，同时还修复了部分附属模组的无效注册项。鉴于农夫乐事将移除舒适效果，本模组将附属模组食物物品提供的舒适效果替换为滋养效果。</p><p>适用于使用以下内容的整合包或玩家：</p><ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge</li>\n<li>农夫乐事 1.3+（必需）</li>\n<li>我的下界乐事 1.8（可选）</li>\n<li>机械动力：中央厨房 1.4.3b（可选）</li>\n<li>末地乐事 2.4（可选）</li>\n<li>末影乐事 1.1.3（可选）</li>\n<li>微量之喜重制版 1.1.4.1（可选）</li>\n<li>兼容乐事 1.0.1.1（可选）</li>\n</ul><h2>重要说明</h2><p>这是一个非官方补丁，与农夫乐事、我的下界乐事或上述其他农夫乐事附属模组无关联。</p><p>若原始模组在后续更新中修复此问题，请移除本补丁，除非本模组页面另有说明。</p><h2>鸣谢</h2><p>所有原始模组的版权归其各自作者所有。</p><h2>支持</h2><p>如果您希望支持我的模组开发工作（包括维护、更新及兼容性工作），Patreon赞助页面在此：<a href=\"https://patreon.com/vomiter_scp\" target=\"_blank\" rel=\"nofollow\">https://patreon.com/vomiter_scp</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

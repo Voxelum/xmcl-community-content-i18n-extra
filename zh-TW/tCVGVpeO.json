@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5vorPtc4WI8=",
+  "content": "### 使用方式\n\n此資料包/資源包可讓你在鍛造台上將鞘翅與任意胸甲結合，需額外消耗一個回聲碎片。胸甲的所有屬性都會保留。\n\n![圖片顯示在地獄合金胸甲、鞘翅與回聲碎片在鍛造台上結合的過程](https://cdn.modrinth.com/data/cached_images/aca7f29f860f15c4a225b3aaf425fcecaae274b6.png)\n\n### 注意事項\n\n鞘翅與胸甲結合後無法再分離！\n若鞘翅帶有附魔或自訂名稱，這些效果將會被清除。\n\n資料包與資源包兩者皆需安裝。僅安裝資源包不會有任何作用；單獨安裝資料包雖可運作，但部分紋理可能缺失。\n\n### 免責聲明\n\n此資料包的創作動機，是因為我認為原版 [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/) 版本的實現方式較為笨重。Vanilla Tweaks 版本最初是為較舊的 Minecraft 版本設計，當時許多現代資料包/資源包功能尚未推出，因此需要使用變通方法（例如將胸甲與鞘翅丟到鐵砧上結合，或無法顯示胸甲外觀）。即便該版本後續有更新，仍沿用這些迂迴做法。而本資料包旨在重新實現，並運用這些新資料包功能。然而，目前本資料包的功能仍比 Vanilla Tweaks 版本少（詳見上方注意事項）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

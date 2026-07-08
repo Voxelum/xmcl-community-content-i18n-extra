@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mO8m2/UVCY4=",
+  "content": "<h1>Sparkle's Morpher</h1><p>一款全面的《我的世界》模型加载器，让你能够为玩家以及部分实体、载具和弹射物附加自定义模型、动画和音效——告别千篇一律的方块人角色模型。</p><blockquote>\n<p>Sparkle's Morpher 是一款<strong>全能型模型加载器</strong>，支持多种模型格式。</p>\n</blockquote><h2>功能特性</h2><ul>\n<li>自定义玩家模型、皮肤、面部表情及动作动画，其他玩家在多人游戏中可见。</li>\n<li>动画轮盘（默认绑定 <code>Z</code> 键），用于快速切换当前模型的动作或动画。</li>\n<li>内置模型音效，支持角色技能或动作播放捆绑的语音台词或音效，采用 Opus 解码并支持跨平台原生加速。</li>\n<li>多模型管理，包括本地导入、分组、收藏及加速 URL 下载。</li>\n<li>服务端模型列表分发，可配置的黑名单会自动生成于 <code>config/sparkle_morpher/blacklist.txt</code>。</li>\n<li>兼容常见的战斗、装饰、飞行及整合包相关模组，包括 Better Combat、Curios、Create、Iris、Sodium 等。</li>\n<li>跨平台支持，涵盖四个版本：Fabric / NeoForge × Minecraft 1.21.1 / 26.1.2。</li>\n</ul><h2>前置依赖</h2><p>依赖项因所选版本而异，详情请参考 <code>mods.toml</code> 或 <code>fabric.mod.json</code>。</p><p>对于 Fabric 版本，用户需手动安装 Fabric API。其他依赖项已通过 JiJ 机制打包在 JAR 文件内。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

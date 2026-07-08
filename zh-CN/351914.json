@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5+IFBY3TaVE=",
+  "content": "<p>前身为mGui。</p><p>&nbsp;</p><p>包含功能：</p><ul>\n<li>简易数据管理</li>\n<li>网络工具</li>\n<li><span>支持动画的层级化UI渲染系统，采用锚点布局</span></li>\n<li><span>特权查询系统</span></li>\n</ul><p>&nbsp;</p><p>主要应用于<a href=\"https://www.curseforge.com/minecraft/mc-mods/tetra\" target=\"_blank\" rel=\"nofollow\">Tetra模组</a>。</p><p>&nbsp;</p><h3>特权系统</h3><p>mutil在1.19+版本中搭载了特权系统，Tetra（未来可能还有其他模组）通过该系统为贡献者和支持者提供装饰性内容。客户端启动时会向外部服务器发送查询请求（包含玩家UUID并使用SSL加密）以验证玩家特权状态。</p><p>可通过修改<strong>mutil-client.toml</strong>配置文件中的<strong>query_perks</strong>选项为<strong>false</strong>来禁用此功能。由于配置文件在首次启动时生成，我已准备<a href=\"https://gist.github.com/mickelus/33814937088d2ca436e32e344d324921\" target=\"_blank\" rel=\"nofollow\">预设配置文件</a>，将其放入config文件夹可避免首次启动时的特权查询。</p><p>如有疑问或改进建议，欢迎通过Discord联系我。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

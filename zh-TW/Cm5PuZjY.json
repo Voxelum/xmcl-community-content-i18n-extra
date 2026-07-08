@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UXZzmWbHfps=",
+  "content": "![Terrabnormals](https://i.imgur.com/ywRPMkr.png)\n\n# 📖 簡介：\n**Terrabnormals** 是一個數據包，旨在提升 **Terralith** 與 **Abnormal's** 模組之間的相容性。這個想法源自當我嘗試同時遊玩這些模組與 Terralith 時，最終發現一些奇怪的生成問題以及世界相容性的細節缺失。目前包含一些功能，例如生態域相容性、Terralith 生態域中的模組方塊等，提供全新的原版體驗。\n\n# 💻 功能：\n首先，部分 Terralith 生態域（如熱帶叢林、花開山谷、秋季空島及所有櫻花森林）已被替換為所有 Abnormals 模組的新功能，包括模組方塊、樹木、植物及相同生態域的特性，但不改變生態域的分佈。\n在森林高地與雪地楓林中，所有紅色樹木已替換為 Environmental 中松木的原木與樹葉。\n增加更多與世界的標籤相容性，改善並修復部分問題與怪物生成。\n修復 Upgrade Aquatic 中 Terralith 暖河部分區域被原木與植物填滿的問題。\n\n# 📝 常見問題：\n**❔ 這個數據包需要哪些模組？**\n- ✅ 最重要的模組是 Atmospheric、Environmental、Autumnity 和 Upgrade Aquatic，未來可能會有 Buzzies Bees 和其他模組的選用依賴。\n\n**❔ 所有生態域都會出現在遊戲中嗎？**\n- ✅ 並非全部，主要原因是有些生態域（如 Atmospheric 的白楊公園）我難以在不移除其他生態域的情況下實現。尚未加入的生態域未來可能會或可能不會新增。如果你仍想遊玩未包含的生態域，可以安裝 Biome Replacer。\n\n**❔ 為什麼你不喜歡 Blueprint 的生態域生成？**\n- ✅ 主要是因為我發現許多生態域會生成在山區或海洋中央，有些生態域還不錯，但並非全部。你可以自行嘗試預設模組來觀察。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YC6UqNBnpAc=",
+  "content": "停止毫无代价的死亡。有了「傷痕」模組，每一次失誤都會在你的生命條上留下印記。\n\n✨ 主要特色：\n創傷系統：每次死亡都會降低你的最大生命值（預設：-2 顆心）。\n\n難度限制：你不會卡在零點！最低生命值上限取決於遊戲難度（0.5 到 1.5 顆心），並且可以完全自訂。\n\n動態恢復：你的「傷痕」會隨著時間癒合。最大生命值會緩慢恢復正常。恢復速度會隨著遊戲難度調整。\n\n睡眠治療：好好休息是最好的良藥。睡過一夜可以恢復一部分最大生命值。\n\n視覺效果：受傷的玩家周圍會出現紅色「血跡」粒子效果。你的生命值越低，效果越明顯。\n\n🛠 管理員指令：\n/scars lang <ru|en> — 切換語言。\n\n/scars limit <easy|normal|hard> <hp> — 設定最低生命值門檻。\n\n/scars recovery <easy|normal|hard> <ticks> — 設定恢復速度。\n\n/scars sleep <enable|amount> — 設定睡眠治療。\n\n/scars reset — 重置所有創傷與設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

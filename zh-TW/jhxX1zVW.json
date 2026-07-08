@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dd+SXsmR9ck=",
+  "content": "這個模組新增了一些可附魔的高階採礦機。  \n它能夠自動採集資源，並支援幸運或絲綢之觸附魔效果。  \n液體會由 QuarryPlus 搭配 Pump Plus 或 Pump 模組自動清除。更高階的機器「區塊破壞者」無需設定即可清除液體。（Fabric 版本較為簡化，機器無需特殊設定即可清除液體）  \n\n這些機器可接受 EU 和 Forge Energy。部分版本（1.19.2）還能接收來自 IC2 classic 的 EU。  \n\n此模組在所有平台都需要 [Scalable Cat's Force](https://modrinth.com/mod/scalable-cats-force)。  \nFabric ~1.20.x 版本還需要 [Cloth Config](https://modrinth.com/mod/cloth-config)。  \n\n[前往 Curse Forge 查看](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

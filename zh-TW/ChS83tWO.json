@@ -1,0 +1,6 @@
+{
+  "bodyHash": "x/Tk0bO3pFw=",
+  "content": "在螢幕左上角顯示您的FPS和最大FPS設定。\n\n您可以使用指令 /fpsdisplay setPos x y 設定螢幕的x和y座標。\n\n您可以使用 /fpsdisplay enable/disable 啟用或停用顯示。\n\n您可以使用 /fpsdisplay maxFps enable/disable 停用最大FPS顯示。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

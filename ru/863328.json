@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3pdg1+G25og=",
+  "content": "<p>&gt; Нет ничего более постоянного, чем времённое решение.</p><p>Automobility включает <a href=\"https://github.com/FoundationGames/Automobility/blob/1.18.2/src/main/java/io/github/foundationgames/automobility/mixin/myron/AbstractObjLoaderMixin.java\" rel=\"nofollow\">исправление</a> в версии 1.18.2, которое позволяет загружать его вместе с установленным Create.</p><p>Это исправление основано на том, что ID мода Create равен <code>create</code>.</p><p>Create: Steam'n'Rails использует аналогичные методы добавления моделей в Create и, следовательно, сталкивается с теми же проблемами с Automobility (или, точнее, с включённым Myron), что и обычный Create. Этот мод применяет то же самое исправление ко всем ID модов, указанным в конфигурации.</p><p>Приятной езды на автомобилях по монорельсам!</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

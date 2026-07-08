@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zs+I7zL90Js=",
+  "content": "# 应用机械学\n_官方Mekanism与AE2联动增强模组。_ 请通过[问题追踪器](https://github.com/AppliedEnergistics/Applied-Mekanistics/issues/)反馈问题，加入[AE2 Discord服务器](https://discord.gg/Zd6t9ka7ne)进行讨论。\n\n这是一个适用于1.18.2版本的Forge模组，需同时安装AE2和Mekanism。\n\n## 化学品支持\n应用机械学为现有AE2设备添加了化学品支持。这意味着你可以将输入总线连接至化学品储罐、输出总线连接至化学品储罐、存储总线连接至放射性废料桶，或让加压管道与接口交互，甚至在合成配方中使用化学品。\n\n![](https://i.imgur.com/hTShq45.png)\n\n## 化学品存储单元\n应用机械学还新增了1k、4k、16k和64k容量的化学品存储单元。现在你可以将气体存储到ME驱动器中了！但请注意，它们不支持放射性气体！\n\n## 化学品P2P通道\n应用机械学添加了化学品P2P通道，用于高吞吐量的化学品传输。只需右键点击P2P通道上的任意Mekanism化学品储罐即可完成转换。\n\n## 存储总线QIO支持\n应用机械学还允许存储总线与QIO频率中的物品进行交互。将存储总线放置在QIO操作面板侧面即可实现。\n\n![](https://i.imgur.com/EMxQdXR.png)\n![](https://i.imgur.com/sif07Mx.png)\n\n## 合成配方\n\n制作化学品外壳时，需要使用锇锭代替铁锭或铜锭\n\n![](https://i.imgur.com/wXzGjtU.png)\n\n将外壳与存储组件结合即可合成存储单元\n\n![](https://i.imgur.com/7J3EU7l.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

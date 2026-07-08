@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SHtqXlnk94g=",
+  "content": "# EveryMole\n\n![Тест крота](https://cdn.modrinth.com/data/gdQbNnyl/images/b082f8100e96fef409d1ea17f2cfb27045ca818d.png)\n\nОригинальный необходимый мод - https://www.curseforge.com/minecraft/mc-mods/alexs-caves\n\n## Краткое содержание\n\nЭтот аддон поддерживает датапаки, управляемые механизмом жертвоприношения моба Underzealot из пещер Алекса!\n\nЕсли вы хотите создать больше механики жертвоприношения...\n\nв папке \"/data/[modid]/every_mole/sacrifice/\".\n\nЭтот мод имеет поддержку объединения тегов NBT для преобразования мобов.\n \n\n## Пример скрипта датапака\n\n[нажмите и посмотрите здесь!(перейти на Github)](https://github.com/baguchan/EveryMole/blob/master/src/main/resources/example_data/every_mole/every_mole/sacrifice/vex.json)\n\nСодержание относится к моду Minecraft, ресурс-паку, модпаку, шейдер-паку или другим ресурсам, связанным с Minecraft. Пожалуйста, сохраняйте стиль языка приятным для геймеров.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

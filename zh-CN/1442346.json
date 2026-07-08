@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZAIlVpGg7Gw=",
+  "content": "<p>这是一个为我的所有模组提供核心支持的基础模组。该模组不添加任何新的游戏内容，仅作为一个任何人都可以使用的库模组，能让开发者的某些工作变得更加便捷。</p><p>&nbsp;</p><h3><strong>该库的功能：</strong></h3><p>&nbsp;</p><p>这个库模组为开发者提供了多项实用工具，例如配方辅助、数据生成中的战利品表工具，以及方块状态和物品模型的数据生成方法。它还新增了一个工具等级注册系统，通过ToolSetBuilder，能以更少的代码量轻松注册新的工具套装等级。此外，借助TieredWeaponBuilder，可以注册新的武器类型，并自动为每个等级生成同类型的武器。该模组还添加了新的生物群系标签，涵盖了Biomes O'Plenty、Regions Unexplored和Terralith中的生物群系，这对自定义结构和生物群系修改器非常实用。</p><p>&nbsp;</p><h3><strong>对模组开发者：</strong></h3><p>&nbsp;</p><p>任何人都可以将此模组作为依赖项添加到自己的模组中，只需将其作为普通依赖项引入即可。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

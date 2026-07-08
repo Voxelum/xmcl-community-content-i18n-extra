@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t7RNAfERQ+4=",
+  "content": "<p>InsaneLib 是一個函式庫模組，包含了 Insane 模組的通用類別以及一些工具類別。</p>\n<p>&nbsp;</p>\n<p>目前功能：</p>\n<ul>\n<li>模組與功能類別</li>\n<li>將無聊的區域效果雲朵取代為 3D 球狀版本</li>\n<li>一個修正功能，包含移除「殭屍額外生命值」屬性修正、修復 <a href=\"https://bugs.mojang.com/browse/MC-145656\">MC-145656</a> 錯誤，以及修復玩家在無法移動時（例如高等級緩速效果）仍能跳躍的問題</li>\n<li>一個標籤功能，目前僅提供一個用於苦力怕的標籤，使其爆炸時會產生火焰</li>\n<li>工具類別\n<ul>\n<li>Logger</li>\n<li>RandomHelper</li>\n<li>Utils（目前僅含有 searchEnum 方法）</li>\n</ul>\n</li>\n</ul>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

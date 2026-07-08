@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ULJD5o3MO0o=",
+  "content": "# Fuzz\n\n[中文](https://github.com/1024-byteeeee/Fuzz/blob/dev/README.md) | **English**\n\n一个使用 [Carpet Mod](https://github.com/gnembon/fabric-carpet) 操作逻辑的客户端模组，提供一些实用功能。\n\n所有功能默认禁用。\n\n---\n\n![img](https://cdn.modrinth.com/data/cached_images/3cc985048e53ee0179b1687270abfcd40c0b46a4.png)\n\n---\n\n## 快速开始\n\n- 主命令\n\n\n\n  - /fuzz\n\n\n\n\n  \n    - /fuzz list\n\n\n\n\n\n      - /fuzz list &lt;category&gt;\n\n\n\n\n\n    - /fuzz &lt;rule&gt; &lt;option&gt;\n\n\n\n\n\n  /fuzz: 查看当前启用的规则列表\n\n\n\n  /fuzz list: 查看完整的规则列表\n\n\n\n  /fuzz list &lt;category&gt;: 查看指定分类标签下的规则列表\n\n\n\n  /fuzz &lt;rule&gt; &lt;option&gt;: 修改指定规则的选项\n\n\n\n## 文档\n\n- [规则](https://github.com/1024-byteeeee/Fuzz/blob/dev/docs/en/rules_en.md)\n- [命令](https://github.com/1024-byteeeee/Fuzz/blob/dev/docs/en/commands_en.md)\n- [开发](https://github.com/1024-byteeeee/Fuzz/blob/dev/docs/en/development_en.md)\n\n\n\n## 许可证\n本项目基于 [ LGPL-v3.0 ](https://choosealicense.com/licenses/lgpl-3.0/) 许可证。欢迎学习并用于你自己的项目。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

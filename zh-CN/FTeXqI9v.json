@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KkecMdlndjI=",
+  "content": "# Create: 新时代\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/z2vnWVJRK78\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nCreate: 新时代 是机械动力模组的一个附属模组，为其增加了电力系统。\n\n### 该模组在 1.20.1 版本需要 [Botarium](https://modrinth.com/mod/botarium) 才能运行，而在 1.21.1 版本仅需机械动力模组。\n\n以下是其功能：\n- 利用大型旋转铜线圈和磁铁发电。\n- 马达（不止一种！），可将电力转化为旋转动能。\n- 充能器，让你利用旋转动能和电力合成一些新物品。\n- 多方块核反应堆，可产生大量热量，这些热量可用于机械动力的锅炉，为你的蒸汽引擎加热水。\n- 导线，让你轻松传输能量。\n- 太阳能板，可产生热量。\n- 一套热量系统，使你能够将太阳能板和核反应堆产生的热量传输到其他地方。\n\n## 常见问题\n\n### 该附属模组与机械动力：工匠与附加兼容吗？\n是的，这两个附属模组应能协同工作。\n### 我不喜欢本模组中某些不现实的部分，有简单的方法移除它们吗？\n本模组内置一个名为“Create: 新时代 [猴版]”的数据包，它会移除部分磁铁的合成配方，移除充能器前几个等级的配方（仅保留最后一个），移除充能铁、充能金和充能钻石的配方，并修改使用它们的合成配方。\n### 我可以配置这个模组吗？\n可以。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

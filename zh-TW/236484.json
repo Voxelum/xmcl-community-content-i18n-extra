@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JZIenEKx2yE=",
+  "content": "<h3><strong>描述</strong></h3><p>在原版 Minecraft 中，當新的區塊被載入時，它們只是「瞬間出現」。而安裝了這個模組後，這些區塊可以透過動畫效果從下方或上方出現。這個模組不會對 FPS 造成明顯影響，因為它只是將區塊「渲染在別的位置」而已。</p><h3><strong>使用方法</strong></h3><p>安裝這個模組後，它會預設為模式 0，即所有區塊都會從下方出現。您可以在設定檔中切換共 5 種模式，並調整動畫持續時間。此外，您還可以啟用一個選項，讓靠近玩家的區塊<strong>不播放</strong>動畫。</p><p>您也可以更改動畫中使用的緩動函數，<a href=\"/linkout?remoteUrl=http%253a%252f%252feasings.net%252fde\" rel=\"nofollow\">這個網站</a>可以幫助您比較不同函數的效果。若要進一步了解動畫的設定方式，請參閱<a href=\"https://github.com/Harleyoc1/ChunkAnimator/wiki/Config\" rel=\"nofollow\">此配置頁面</a>。</p><p>在 1.12.2 及更早版本中，此模組支援 Forge 內建的設定選單，您可以在遊戲中直接切換模式、緩動函數等選項。</p><h3><strong>OptiFine</strong></h3><p>本模組支援 OptiFine。不過在 1.14.4 及以上版本中，若要讓區塊正常播放動畫，您需要確保「渲染區域」選項為<strong>關閉</strong>狀態。此選項位於影片設定中的效能頁面。</p><h3><strong>媒體</strong></h3><p><em><em>Lumien 之前的展示影片因故已下架，新的展示影片即將發布。</em></em></p><h3><strong>授權</strong></h3><p>允許將此模組用於任何模組包或伺服器中。若能標註出處將是錦上添花，但並非必要。</p><h3><strong>Fabric</strong></h3><p>針對 1.16 版本，有一個名為 <a href=\"https://www.curseforge.com/minecraft/mc-mods/smooth-chunks\" rel=\"nofollow\">Smooth Chunks</a> 的 Fabric 對應模組，功能與本模組非常相似——請<strong>不要</strong>要求提供 Fabric 支援！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

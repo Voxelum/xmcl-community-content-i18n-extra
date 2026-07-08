@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1ITm3KzsH+U=",
+  "content": "<p>PackagedDraconic 是 <a href=\"/mod/packagedauto\">PackagedAuto</a> 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/draconic-evolution\">Draconic Evolution</a> 的擴充模組，它新增了自動化製作 Draconic Evolution 的融合合成核心物品的功能，讓過程更加簡便。本模組設計為可在沒有 Applied Energistics 2 的情況下運作，但建議搭配安裝以獲得最佳體驗。</p>\n<p>此模組新增了「融合套件合成器」。使用時，將其放置在拆包機旁，並讓拆包機處理合成配方（這些配方可透過編碼器編碼至配方容器中）。合成器需要裝有足夠數量的已標記融合合成注入器，且其等級需滿足配方需求。當合成器連接到 ME 網路時，會自動將成品輸出至網路中。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

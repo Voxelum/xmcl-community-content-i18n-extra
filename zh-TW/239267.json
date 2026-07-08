@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lab7WVG5fmA=",
+  "content": "<p>這是 Karob 的 BigTrees 模組的分支/延續版本&nbsp;<a href=\"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278469-the-bigtrees-mod\" rel=\"nofollow\">http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278469-the-bigtrees-mod</a></p><p>&nbsp;</p><p>注意：我的版本與 karob 版本的設定檔不相容！請刪除所有舊的設定檔，讓它們在啟動時重新生成。&nbsp;</p><p>&nbsp;</p><p>更新內容：</p><p>版本 0.2：</p><p>- 更新至 1.8.9（1.7.10 版本目前保持同步）</p><p>- 新增禁用原版樹木生成的標誌</p><p>- 更改了世界生成方法，這應該能修復虛擬區塊錯誤。</p><p>&nbsp;</p><p>版本 0.1：</p><p>- 清理了程式碼</p><p>- 優化了選擇生成哪些樹木的程式碼</p><p>- 廢棄了舊的設定，新增了一個完全新的設定系統，應該更強大且更具表達力。每種樹木可以根據特定的生態域名稱或 Forge BiomeDictionary 群組，設定每個區塊的樹木數量和每棵樹的生成機率。&nbsp;</p><p>- 暫時禁用了樹苗。</p><p>&nbsp;</p><p>下一步計劃：</p><p>- 重新實作樹苗功能</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mo3C8q0pA/Q=",
+  "content": "# 更好的延遲顯示 - Fabric 版本\n\n_這是 Fabric 模組。若需要 Forge 版本，請點擊[此處](https://modrinth.com/mod/better-ping-display)。_\n\n一款在玩家列表中顯示每位玩家延遲數值的模組。\n\n前往[**此處**](https://modrinth.com/mod/better-ping-display)取得 Minecraft Forge 版本的模組。\n\n![](https://vladmarica.com/assets/minecraft/better-ping-display.png)\n\n這是一款客戶端模組，伺服器無需安裝即可使用。即使在原版伺服器上遊玩也能正常運作。\n\n## 設定\n此模組的設定檔為 `betterpingdisplay.json`，包含以下選項：\n\n| 選項  | 預設值  | 說明  |\n|---|---|---|\n| autoColorPingText  | `true` | 是否根據玩家延遲自動顯示顏色（如低延遲=綠色，高延遲=紅色） |\n| renderPingBars  | `false` | 是否同時顯示預設的 Minecraft 延遲條 |\n| pingTextColor  | `#A0A0A0`  | 延遲文字顏色。僅在 `autoColorPingText` 設定為 false 時生效 |\n| pingTextFormatString | `%dms` | 延遲文字的格式字串。必須包含 `%d`，該符號將被動態替換為實際延遲數值 |\n\n> 從模組版本 **1.2.0** 開始，若已安裝 [Mod Menu](https://modrinth.com/mod/modmenu) 與 [YACL](https://modrinth.com/mod/yacl)，即可使用圖形化設定介面。這些為選用依賴，未安裝時模組仍可正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

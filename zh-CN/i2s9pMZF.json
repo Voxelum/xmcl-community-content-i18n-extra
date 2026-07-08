@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gHCCyUS7m3I=",
+  "content": "![置中標點 | 台標字形 | 宋體風格](https://cdn.modrinth.com/data/cached_images/e7df9d763f6f2e4a79f6b2573c3dd9b94da2e0d5.gif)\n\n新增[GNU Unifont](https://unifoundry.com/unifont/index.html) T源繁體中文版，大致遵循國字標準字體，包括置中標點符號。  \nAdds the [GNU Unifont](https://unifoundry.com/unifont/index.html) T-source Chinese version, which uses Taiwanese-style glyphs, including centered punctuation.\n\n本字型包僅收錄與原版不同的T源字形。  \nThis pack only contains glyphs unique to Unifont-T (i.e., it doesn't contain glyphs that are identical in both Unifont-T and the standard Unifont).\n\n需將「日文字形變體」設為「關閉」才能顯示本包字型。  \nThis pack only affects when \"Japanese Glyph Variants\" is OFF.\n\nUnifont最新版本為`17.0.05`（T源部分與`17.0.04`相同）。  \nThe current Unifont version is `17.0.05` (same as `17.0.04` for T-source).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

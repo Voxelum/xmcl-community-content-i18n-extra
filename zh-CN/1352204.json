@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vp7SLFAY7oE=",
+  "content": "<p><img width=\"1024\" height=\"290\" alt=\"模型\" src=\"https://github.com/user-attachments/assets/fe7fffdd-f077-4021-aac6-f4e5c06b2e2c\"></p><h2>机械动力：快速蓝图炮</h2><hr><p>又一个简单的机械动力附属模组，为蓝图炮带来配置修改功能！</p><ol>\n<li>允许自定义蓝图炮每游戏刻执行的打印次数，最终效果为机械动力的刻延迟乘以该打印次数。</li>\n<li>允许自定义蓝图炮禁止打印的方块。一旦添加到列表中，对应方块将无法被蓝图炮破坏，从而有效修复虚空锅炉问题。</li>\n</ol><hr><h1>配置文件说明</h1><h3>启用蓝图炮加速</h3><ul>\n<li><strong>EnableCannonSpeedUp</strong>：<ul>\n<li>此布尔值决定是否启用蓝图炮加速功能。设为<code>true</code>启用，<code>false</code>禁用。</li></ul></li>\n</ul><h3>每刻打印次数</h3><ul>\n<li><strong>SpeedupPerTick</strong>：<ul>\n<li>此变量表示蓝图炮每游戏刻执行的打印次数，与蓝图炮内部的打印延迟相乘生效。</li>\n<li>计算公式：打印速度 = 每刻打印次数（此配置值）× 游戏刻数（默认20）/ [蓝图炮打印延迟]（默认10）。</li>\n<li>范围：1 ~ 400</li></ul></li>\n</ul><h3>实验性游戏刻参数</h3><ul>\n<li><strong>lazyTick</strong>：<ul>\n<li>此为实验性参数，用于减少蓝图炮的游戏刻消耗，指定经过多少游戏刻后才执行蓝图炮代码。</li>\n<li>默认值为1，可增加该值以降低卡顿，但会使蓝图炮响应变慢。</li>\n<li>建议值为5，比默认速度慢四倍，但实际差异可能不明显。</li>\n<li>范围：1 ~ 200</li></ul></li>\n</ul><h3>不可破坏方块列表</h3><ul>\n<li><strong>blocks_unbreak</strong>：<ul>\n<li>此列表中的方块不会被蓝图炮破坏，可防止蓝图炮引发无限锅炉漏洞。</li>\n<li>示例：<code>[\"create:blaze_burner\"]</code></li></ul></li>\n</ul><h3>启用调试信息</h3><ul>\n<li><strong>debug</strong>：<ul>\n<li>此布尔值决定当蓝图炮尝试破坏禁止方块时是否通知控制台。设为<code>true</code>启用通知，<code>false</code>禁用。</li></ul></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

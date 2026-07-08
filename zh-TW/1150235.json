@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FLNRLkbqJnc=",
+  "content": "<h1>我製作這些相容性模組的目標是透過移除重複的物品、生物和方塊，讓模組包中的各種模組能更好地協同運作。<em>它確保任何依賴被移除物品、生物和方塊的功能仍能正常運作，方法是將這些依賴重新導向至剩餘的等效</em><em>物品、生物和方塊</em><em>。</em></h1><h2 style=\"text-align:center\"><strong>變更清單</strong></h2><h4><strong>已移除的重複物品</strong></h4><ul>\n<li>Alex's Mobs 香蕉</li>\n<li>Alex's Mobs 香蕉皮</li>\n</ul><h4><strong>合成配方調整</strong></h4><ul>\n<li><strong>Alex's Mobs 猴肉湯</strong>：現在使用 Neapolitan 的香蕉進行合成</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

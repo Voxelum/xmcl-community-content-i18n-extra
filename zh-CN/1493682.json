@@ -1,0 +1,6 @@
+{
+  "bodyHash": "F4mPFrLAd+4=",
+  "content": "<p><a href=\"https://github.com/MavLeague/fallen_from_heaven/blob/main/LICENSE-CC-BY-NC-4.0.md\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/License-CC BY--NC 4.0-blue\" alt=\"许可证: CC BY-NC 4.0\"></a></p><h1>天降陨落</h1><p>本模组可避免你坠入虚空而死亡。例如当你在地牢维度坠入虚空时，你将会出现在世界出生点上空的高处。</p><p>这是一个以模组形式打包的数据包。<a href=\"https://curseforge.com/minecraft/data-packs/fallen-from-heaven\" target=\"_blank\" rel=\"nofollow\">你可以在此处下载源数据包。</a></p><h2>功能</h2><h3>末地 → 主世界</h3><p>坠入虚空时，你将被传送至主世界。你的位置将位于<strong>世界出生点</strong>的<strong>y=258</strong>高度。</p><h3>主世界 → 下界</h3><p>坠入虚空时，你将被传送至下界。你的位置将是<strong>x/8、y=258、z/8</strong>。</p><h2>配置菜单</h2><p><img src=\"https://cdn.modrinth.com/data/cached_images/741cc2172e28eab192efa5a1b938ba0d4282a4b9_0.webp\" alt=\"新配置菜单\" width=\"50%\"></p><p>存在一个菜单，可通过我的世界对话框更改数据包的配置。</p><h3>打开配置：</h3><pre><code>/function fallen_from_heaven:config/get_info</code></pre><p>或点击重载消息上的⛏图标：</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/eda70e47b8bbb41c3d3ee95bd80e2bf10ed6ec67.png\" alt=\"重载消息\"></p><h3>可配置设置</h3><p><strong>保持坐标：</strong>当你在末地维度坠入虚空时，你会出现在世界出生点上空的高处。启用此项时，坐标将保持不变。</p><p><strong>空岛模式：</strong>坠入虚空时，你将在同一维度的高空中缓缓下落。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

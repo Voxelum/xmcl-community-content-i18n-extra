@@ -1,0 +1,6 @@
+{
+  "bodyHash": "k6uKw++3GJ0=",
+  "content": "將杉木階梯和相思木階梯改為雪階梯。\n任何階梯或是取代階梯的材質，皆可使用資源包中所示範的相同方法來運作。\n\n![複合地板 02](https://cdn.modrinth.com/data/iODcvqeB/images/655131df190b6a0eb131fc27994e8c5308280b76.png)\n\n例如，要新增更多階梯，請複製相同的 code model/block 檔案（每種新階梯需 3 個檔案）。\n接著若要將材質從雪改為其他方塊，請將 textures\\blocks/snow_side.png 更換為其他材質，但請保留相同的檔名。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

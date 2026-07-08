@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fhUNlEt6fKs=",
+  "content": "此为 Diggus Maximus 的分支版本，支持 Minecraft 1.20.2+ 并进行了部分增强。  \n\n本模组旨在简化由相同方块构成的矿脉挖掘流程。当玩家按住\"挖掘\"键（默认绑定为 ~ 键，可配置）挖掘方块时，所有相连的同类方块将同时被挖掘，相较于逐个挖掘能显著节省时间。  \n\n本模组需同时在客户端与服务器端安装。在服务器上游玩时，将以服务器配置为准。  \n\n详见[原版模组](https://modrinth.com/mod/diggus-maximus)（1.20.1 以下版本）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

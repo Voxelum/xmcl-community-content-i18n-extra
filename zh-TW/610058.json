@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ALmuaDngM/Y=",
+  "content": "<h1>簡易工具</h1><p>本模組是針對 1.19+ 版本 Forge 平台，繼承 <a href=\"https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers-forge\" rel=\"nofollow\">原版鎚</a> 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge\" rel=\"nofollow\">原版挖掘鏟</a> 精神的後續作品。\n可搭配 <a href=\"https://www.curseforge.com/minecraft/mc-mods/morevanillalib\" rel=\"nofollow\">更多原版函式庫</a> 為多數工具增添特殊效果。</p><p>鎚類工具具備鎬的採集功能，但採集範圍為 3x3 區域。</p><p>挖掘鏟具備鏟子的採集功能，但採集範圍為 3x3 區域。</p><p>若同時安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/morevanillatools\" rel=\"nofollow\">更多原版工具</a>，本模組的工具材料將同步解鎖對應的鎚類與挖掘鏟工具。</p><p>本模組需預先安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/libx\" rel=\"nofollow\">LibX</a> 函式庫！</p><p><img src=\"https://raw.githubusercontent.com/MelanX/SimplyTools/1.19.x/images/itemgroup.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lzL3uLIEamg=",
+  "content": "<h2>这是一个根据玩家数量动态调整首领生命值和战利品掉落的模组。该模组必须在服务器端安装，仅当启用“战利品袋”功能时才需要在客户端安装。</h2><p>默认设定下，首领将按玩家数量掉落对应数量的战利品袋</p><h3>当前可配置选项如下：</h3><ul>\n<li>是否调整首领生命值</li>\n<li>是否调整首领掉落物</li>\n<li>每增加玩家时的生命值倍率</li>\n<li>固定生命值倍率 - 若非零值则覆盖动态生命值倍率</li>\n<li>固定掉落倍率 - 若非零值则覆盖默认的玩家数量动态调整</li>\n<li>是否使用加载器标签</li>\n<li>是否掉落战利品袋</li>\n<li>首领实体列表 - 需应用此机制的首领实体</li>\n<li>战利品袋染色 - 掉落战利品袋的配色方案</li>\n<li>启用邻近范围调整 - 仅统计首领生成点附近的玩家</li>\n<li>邻近调整范围 - 统计参与首领战玩家的区块距离</li>\n</ul><p>我正在开发Fabric和Forge双版本。</p><p>*注：原版Minecraft的生命值上限为1024。如需突破此限制，建议搭配使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/attributefix\" target=\"_blank\" rel=\"nofollow\">AttributeFix</a> 模组</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

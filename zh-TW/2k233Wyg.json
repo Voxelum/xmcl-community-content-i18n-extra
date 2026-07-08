@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0SB7T1pp/k=",
+  "content": "# Voxy Hypixel Addon\n\n一個專為 **[Voxy](https://modrinth.com/mod/voxy)** 設計的獨立 Fabric 附加元件，旨在修復 Hypixel 中不同遊戲模式之間相同類型維度的區塊資料洩漏問題。\n\n由 **[TBlazeWarriorT](https://linktr.ee/tblazewarriort)** 製作。\n\n## ⚠️ Beta 版注意事項\n此模組是 Voxy 的附加元件，而 Voxy 目前處於 **Beta** 開發階段。Voxy 的更新可能會暫時導致本模組無法運作，如有任何重大問題請回報。\n\n## 這是做什麼的？\nVoxy 是一個世界串流模組，會將區塊資料儲存在本地端。在 Hypixel 上，玩家經常在不同的島嶼之間切換（大廳、私人島嶼、矮人礦山等），但技術上仍然處於同一個「伺服器世界」。\n\n簡單例子：Hypixel 大廳、街機大廳和 Skyblock 大廳原本會在您電腦上共用同一個主世界 Voxy 資料夾，並互相干擾。\n如果沒有這個附加元件，Voxy 會將伺服器中的所有大廳/島嶼視為同一個世界/維度，導致某個區域的「幽靈區塊」出現在另一個區域。\n\n**Voxy Hypixel Addon** 透過以下方式解決此問題：\n- 使用 **HM-API** 偵測您當前的 Hypixel 遊戲模式和區域。\n- 將唯一識別碼注入 Voxy 的世界儲存邏輯中。\n- 強制 Voxy 根據該識別碼將區塊資料隔離到不同的資料夾中。\n\n## 需求\n- **Fabric Loader**\n- **Voxy**（Beta 版）\n- **Fabric API**\n\n*注意：[HM-API](https://github.com/AzureAaron/HM-API) 已內建於模組中，您無需另外下載。*\n\n## 授權條款\n此專案採用 **MIT License** 授權。您可以自由使用、修改及散佈，但需註明原作者。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

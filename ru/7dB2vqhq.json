@@ -1,0 +1,6 @@
+{
+  "bodyHash": "r7TQA84ZVi4=",
+  "content": "![Логотип библиотеки: эмодзи \"|T|/\" с изображением человека, восхваляющего ярко-раскаленное Солнце](https://cdn.modrinth.com/data/cached_images/52f50dfd850d6f7dcfd387706d5e41dfe3d084cb.png)\n\n# Incandescent Lib\nЛегковесная библиотека, предоставляющая API для анимаций мобов и игроков, включая полезные утилиты.\n\n## API\nЧтобы использовать Incandescent Lib в своём проекте, добавьте следующую строку в ваш build.gradle:\n```groovy\nrepositories {\n    maven {\n        url \"https://cursemaven.com\"\n        content {\n            includeGroup \"curse.maven\"\n        }\n    }\n}\ndependencies {\n    implementation fg.deobf(\"curse.maven:incandescent_lib-971520:5085017\")\n}\n```\nIncandescent Lib предлагает достаточно простой, но при этом легковесный API как для анимаций мобов, так и для анимаций игроков, используя систему ключевых кадров Minecraft 1.19+ и делая её совместимой с другими библиотеками анимации. Дополнительную информацию по использованию и реализации см. в исходном коде.\n\n## Предоставляемые возможности\nПоскольку этот мод является библиотекой, он сам по себе не добавляет никаких значимых функций.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

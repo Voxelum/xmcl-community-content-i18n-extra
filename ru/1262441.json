@@ -1,0 +1,14 @@
+{
+  "bodyHash": "5MAOXEEOI+4=",
+  "content": {
+    "error": {
+      "message": "You exceeded your current quota, please check your plan and billing details. For details, see: https://help.aliyun.com/zh/model-studio/error-code#token-limit",
+      "type": "insufficient_quota",
+      "param": null,
+      "code": "insufficient_quota"
+    },
+    "request_id": "3d5c469f-ee0d-9c68-a82f-c926bcd4dc2e"
+  },
+  "contentType": "text/html",
+  "type": "curseforge"
+}

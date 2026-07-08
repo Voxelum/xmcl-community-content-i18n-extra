@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y9owvoCE1EY=",
+  "content": "<h1><span style=\"color:#e67e23\">棄用警告</span></h1><p>對於 <strong><span style=\"color:#2dc26b\">1.21.1 及以上版本</span>，</strong>此模組正被全新的 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/accessories-compat-layer\" target=\"_blank\" rel=\"nofollow\">飾品兼容層</a></strong> 取代，功能完全相同，但需 <span style=\"color:#2dc26b\"><strong>額外安裝</strong></span> Trinkets 模組！</p><h1>飾品與 Trinkets 兼容層</h1><p>此模組作為兼容層，讓使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/trinkets\" target=\"_blank\" rel=\"nofollow\">Trinkets API</a> 的模組能在 <a href=\"https://www.curseforge.com/minecraft/mc-mods/accessories\" target=\"_blank\" rel=\"nofollow\">飾品</a> 生態系統中正常運作。</p><p><strong>請勿安裝 Trinkets 模組，本模組已內含其 API 封裝，功能等同 Trinkets。</strong></p><p>若發生問題，任何現有的 Trinkets 資料應轉移至飾品庫存，或在物品欄中丟棄。</p><h2>Sinytra 連接器：</h2><p>本模組已考量 Sinytra 兼容性，使用 Sinytra 時無需安裝 Fabric 版本，<strong>僅需安裝 NeoForge 版</strong>的飾品模組即可。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

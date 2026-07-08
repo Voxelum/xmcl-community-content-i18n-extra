@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BxbJBuaJL/4=",
+  "content": "<h1>望遠鏡天文同步</h1><p>望遠鏡天文同步是<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fspyglass-astronomy\" target=\"_blank\" rel=\"nofollow\">望遠鏡天文學</a>的擴展模組，新增了多人遊戲支援。安裝此模組後，所有玩家將自動共享相同的天空，無需透過指令手動同步。</p><h2>演示</h2><p><img src=\"https://raw.githubusercontent.com/fliplus/spyglass-astronomy-sync/refs/heads/main/assets/demo.gif\" alt=\"演示\"></p><h2>設定</h2><p>預設情況下，望遠鏡天文同步會停用大多數<code>/sga:admin</code>指令。此行為可在設定檔中修改，位置位於<code>config/spyglass-astronomy-sync.json</code>。</p><p>預設設定：</p><pre><code>{\n  \"allow_admin_commands\": false\n}</code></pre><ul>\n<li>將<code>allow_admin_commands</code>設為<code>true</code>可允許所有玩家使用<code>/sga:admin</code>指令。請注意，權限等級2或以上的玩家將不受此設定限制。</li>\n<li>設定檔僅在伺服器啟動時讀取。修改後需重啟伺服器才能使變更生效。</li>\n</ul><h2>依賴項目</h2><p>使用望遠鏡天文同步需具備以下條件：</p><ul>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n<li>客戶端需安裝<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fspyglass-astronomy\" target=\"_blank\" rel=\"nofollow\">望遠鏡天文學</a>（伺服器不需要）。</li>\n</ul><p>伺服器與客戶端都必須安裝望遠鏡天文同步，同步功能才能生效。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

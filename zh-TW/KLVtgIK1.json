@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VoRfzO5ABuU=",
+  "content": "### 一般描述\n\n這個資料包在獄卒（Warden）頭頂上新增了一個憤怒值顯示。憤怒值越高，代表獄卒攻擊玩家的可能性越大。\n\n![範例](https://cdn.modrinth.com/data/cached_images/50a859eb7c560faea58beff3f11d407df5e09371.png)\n### 安裝指南\n\n前往 Windows 系統中的儲存資料夾，路徑如下：\n```\nC:\\Users（你的使用者名稱）\\AppData\\Roaming\\.minecraft\\saves\n```\n將壓縮檔放入資料包資料夾中，然後重新啟動你的世界或執行 /reload 指令。\n\n### 其他注意事項\n\n- 若要進一步了解獄卒的憤怒值機制，請參閱 [Minecraft 維基](https://minecraft.wiki/w/Warden#Suspense)\n- 如需提供意見回饋、回報錯誤或尋求其他協助，請從本頁面的連結區加入 [Discord 伺服器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

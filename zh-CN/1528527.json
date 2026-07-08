@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xzTm9wQ4Ycw=",
+  "content": "<p>为 Create 与 FTB Ultimine 增加了兼容性。主要功能是让您能使用 Ultimine 批量制作 Create 的机壳。使用 Ultimine 键高亮一些去皮原木，手持安山合金右键点击，它们就会全部转变为安山机壳，而无需逐一操作。黄铜、铜以及铁路机壳也是同样的原理。</p><p>每个方块消耗一个物品，因此如果您有 5 个合金和 8 个高亮原木，您会获得 5 个机壳，其余 3 个原木保持不变。此功能也适用于其他类似的 Create 配方，包括由附属模组添加的配方。</p><p>需要同时加载 Create 和 FTB Ultimine 模组。本模组仅作为两者之间的桥梁。</p><p>欢迎在任何模组包中使用本模组。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

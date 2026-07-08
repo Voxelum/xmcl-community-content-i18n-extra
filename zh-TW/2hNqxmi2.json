@@ -1,0 +1,6 @@
+{
+  "bodyHash": "u+d91DNkdfs=",
+  "content": "# _Epic Compat：ParCool_\n\n_此模組提供 [Epic Fight](https://modrinth.com/mod/epic-fight) 與 [ParCool](https://modrinth.com/mod/parcool) 之間的兼容性。_\n\n## 概述\n\n- 在進行跑酷動作期間，Epic Fight 的動畫會暫時停用（僅有 _快速奔跑_ 是例外）。\n- 同時防止玩家在進行跑酷動作時使用任何來自 Epic Fight 的技能。\n\n## 進一步建議\n\n- 在 Epic Fight 的 **filter_animation** 選項關閉的情況下運作良好（我實際上建議關閉此設定）。\n- 如果你尋求更沉浸的體驗，我也建議啟用 **no_mining_in_combat** 並搭配使用 [Epic Tweaks](https://modrinth.com/mod/epic-fight) 模組。\n\n## 已知問題\n\n我已經測試了所有可用的 ParCool 動作（截至撰寫時），大多數動畫之間的轉換效果尚可至良好。其中一個例外是 ParCool 的 _閃避_ 翻滾。它看起來有點不自然，我建議停用此動作，並改用 Epic Fight 的 _閃避技能_。ParCool 的 _受身_ 翻滾看起來則沒問題。\n\n## 支援提供\n\n[![bisecthosting](https://www.bisecthosting.com/partners/custom-banners/5ea61298-7966-4331-945f-da7b80663a38.webp)](https://bisecthosting.com/hd42)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

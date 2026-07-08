@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bD3xIpLo9BE=",
+  "content": "### 說明\n\n這個資料包會讓界伏蚌死亡時若掉落外殼，則必定掉落2個。這是為了確保您不會獲得奇數個外殼，因為製作一個界伏盒需要2個外殼。\n\n### 安裝指南\n\n請前往存檔資料夾（Windows系統路徑如下）：\n```\nC:\\Users(您的使用者名稱)\\AppData\\Roaming\\.minecraft\\saves\n```\n將壓縮檔放入資料包資料夾中，然後重新載入世界或執行 /reload 指令\n\n### 注意事項\n\n- 這不會讓界伏蚌「總是」掉落外殼！牠們仍然只有50%的機率掉落外殼，但每次必定掉落2個而非1個\n- 如需回饋、錯誤回報或其他協助，請從本頁面的連結區加入[Discord伺服器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0HEkgiiuQME=",
+  "content": "<p><strong>真实需求</strong>为 Minecraft 添加了简单的口渴机制。现在你需要像管理饥饿度一样管理水分。</p><p>&nbsp;</p><p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/1077348/description_b7924da7-07fa-47df-8d68-27d1f19c5660.gif\"></p><h3>&nbsp;</h3><h3><strong>特性：</strong></h3><ul>\n<li><strong>口渴值条：</strong>在饥饿值条上方新增一个水分条。</li>\n<li><strong>脱水：</strong>口渴值归零时会持续造成伤害，直到你喝水为止。</li>\n<li><strong>口渴效果：</strong>一种自定义负面状态效果，会大幅加快水分流失速度。</li>\n</ul><h3>&nbsp;</h3><h3><strong>物品与机制：</strong></h3><ul>\n<li><strong>巨型水瓶：</strong>一种可储存更多水的新容器。</li>\n<li><strong>巨型水瓶（满）：</strong>可在任何水源处装水，拥有 <strong>8 次</strong>使用次数，用完后变回空瓶。</li>\n<li><strong>直接饮水：</strong>若没有水瓶，你可以在任何水源处直接用手喝水。</li>\n</ul><p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/1077348/description_34a9f77b-baad-4762-bfed-8da0776333e2.gif\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

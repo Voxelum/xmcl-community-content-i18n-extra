@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ofFCK6Oq1L0=",
+  "content": "## 如何建造經驗值吸取器\n你需要一個箱子、一個物品展示框和一個玻璃瓶。\n\n放置箱子，然後將玻璃瓶放入物品展示框中，再將展示框放置在箱子的任意一面上。\n\n就是這麼簡單。\n\n![經驗值吸取器](https://cdn.modrinth.com/data/1Aug4gBd/images/5628669574ea257660773d926d645e961816a646.png)\n\n## 運作原理\n任何距離經驗值吸取器箱子12格範圍內的經驗球都會被收集並儲存。當收集到的經驗值達到或超過7點（這是一瓶附魔之瓶平均掉落的經驗值量）時，系統會自動在箱子中放入一瓶附魔之瓶。\n\n查看[我的其他模組](https://modrinth.com/user/Pepsied)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

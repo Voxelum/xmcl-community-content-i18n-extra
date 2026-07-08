@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YO8QlUELHWE=",
+  "content": "Модуль, который генерирует Waystones от KawaMood в святилищах подземелий и тавернах. Это позволяет игрокам получить доступ к точкам быстрого перемещения внутри святилищ.\n\n![Логотип](https://cdn.modrinth.com/data/cached_images/f2229bed890a94d7db413e714fe5c5c9190be9fc.png)\n\n**Для работы модуля необходимо загрузить [KawaMood's Waystones](https://modrinth.com/datapack/waystones-data-pack) и [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns)!**\n\n**Если вы собираетесь использовать его на сервере, установите \"enable-command-block\" в true в файле server.properties.**\n# Структуры\n**🚪 Waystones в святилищах**\n\nС помощью этого модуля теперь все святилища подземелий и таверны становятся точками путешествий с Waystones!\n\n\n<details>\n<summary>Авторы</summary>\n\n[NovaWostra](https://modrinth.com/user/NovaWostra) - Создатель Dungeons and Taverns\n\n</details>\n\n\n\nСодержание посвящено модулю/пакету ресурсов/пакету модификаций/шейдерному пакету или другим связанным с Minecraft ресурсам. Пожалуйста, сохраняйте стиль изложения приятным для геймеров.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

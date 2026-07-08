@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wnahPNbKY9E=",
+  "content": "<p>Теперь мобам можно назначать случайные текстуры из вашей папки resourcepack без OptiFine. Этот мод совместим с resourcepack, в которых есть случайные текстуры мобов, что ранее требовало его использования.<br><br><strong>Требования:&nbsp;</strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/mixin-booter\" target=\"_blank\" rel=\"nofollow\">MixinBooter</a></p><p><strong>Как настроить:</strong></p><p>Отправьте текстурированные варианты моба по вашему выбору в директорию resourcepack следующим образом:</p><pre><code>minecraft/resourcepacks/your-resourcepack/assets/minecraft/optifine/mob/zombie/zombie1.png<br>\nminecraft/resourcepacks/your-resourcepack/assets/minecraft/optifine/mob/zombie/zombie2.png<br>\nminecraft/resourcepacks/your-resourcepack/assets/minecraft/optifine/mob/zombie/zombie1121.png<br>\nminecraft/resourcepacks/your-resourcepack/assets/minecraft/optifine/mob/pig/pig2.png</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

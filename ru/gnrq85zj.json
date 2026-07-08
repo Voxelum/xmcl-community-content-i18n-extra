@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lLEzhkxC4To=",
+  "content": "<p align=\"center\">\n  <img src=\"https://github.com/MapleSugar365/QuarkBackpackPlus/raw/neoforge-1.21.1/src/main/resources/icon.png\" alt=\"Логотип Quark Backpack Plus\" width=\"256\" height=\"256\">\n</p>\n\n---\n\n## 🎒 Quark Backpack Plus\n\nЛегковесный мод для Minecraft 1.21.1 на NeoForge, который добавляет два практичных функциональных элемента в рюкзак Quark:\n\n- **Оснащение в слот «Спина» для Curios** — больше не занимает слот нагрудника.\n- **Открытие шелкерских ящиков прямо из рюкзака** — удобнее, без необходимости перемещать предметы в инвентарь.\n\n---\n\n## 📌 Зависимости\n\n|                              Мод                              | Требуется | Описание    |\n|:-------------------------------------------------------------:|:--------:|:----------------:|\n|            [Quark](https://modrinth.com/mod/quark)            |   Да    | Основная зависимость  |\n|   [Quark Oddities](https://modrinth.com/mod/quark-oddities)   |   Да    | Разблокирует рюкзак |\n|         [Curios API](https://modrinth.com/mod/curios)         |   Да    | Поддержка слотов   |\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

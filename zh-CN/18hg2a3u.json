@@ -1,0 +1,6 @@
+{
+  "bodyHash": "h2XsuEdUPLE=",
+  "content": "## 特性\n\n- 移除了原先饮用脏水会获得饥饿或中毒效果的原版机制。现在，玩家饮用脏水后将会获得一个全新的效果：**水毒**——它会增加玩家的口渴速度，并间歇性地引起恶心感。\n\n- 死亡后保留口渴值与饥饿值（默认关闭，可通过配置启用）。\n\n- **AppleSkin** 兼容：水毒效果会使口渴条变为紫色。\n\n- 玩家现在可以通过潜行并空手右键天空来饮用雨水，取代了以往只需抬头就能补水的方式（雨水的补水量与纯净度均可配置）。\n\n- 禁用了**口渴值被拿走**模组中部分不必要或无用的配置，避免其生效。\n\n## 开发者内容\n\n本模组修复了**口渴值被拿走**代码中的部分逻辑问题，并为开发者提供了一些 API。以下是一些可用功能：\n\n- 现在您可以通过 `Item` 的子类 `DrinkItem` 注册纯净饮品或食物类饮品，从而同时设置物品数据和水分数据。一个简单的 `Supplier<? extends Item>` 示例：\n\n```\n() -> new DrinkItem(\n    new Item.Properties()\n            .food(new FoodProperties.Builder()\n                    .nutrition(2)\n                    .saturationMod(1.0f)\n                    .alwaysEat()\n                    .build()\n                 ),\n    new DrinkItemManager()\n            .thirst(4)\n            .quenched(2)\n            .container(Items.STICK)\n)\n```\n\n您可以使用 `DrinkItemManager` 设置物品的补水总量、使用时长、动画及使用后返还的物品。更多详情请参考[Wiki](https://github.com/Dark2932/Thirst-Was-Tweaked/wiki)或浏览源代码。\n\n- 通过 Mixin 修改了 `ThirstHelper` 和 `WaterPurity` 等类，使其代码逻辑更符合实际开发需求与预期效果。常用方法可通过 `ThirstAPI` 类调用。\n\n- 修复了一些可能导致 Bug 的无意义代码。\n\n## 未来计划\n\n- 新增“干渴”效果，在高温生物群系中会使口渴速度加快，并兼容**Cold Sweat**模组。\n\n- **KubeJS** 兼容，方便整合包作者创建饮品。\n\n- 增加对盛水容器的兼容与自定义功能。\n\n- 修复**口渴值被拿走**中更多 Bug，并为开发者提供更多 API。\n\n- 逐步完善模组的 Wiki。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

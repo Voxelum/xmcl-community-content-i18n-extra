@@ -1,0 +1,6 @@
+{
+  "bodyHash": "T9UspiRvbPI=",
+  "content": "<h2>概述</h2><p>本模组为头盔添加了机械动力的护目镜功能以及原版盔甲属性。如果你想穿戴全套下界合金盔甲，同时又想查看护目镜的统计数据或使用你的背罐，这个模组正是为你准备的！</p><p>提示信息仅在1.18及以上版本中支持！</p><p><strong>现已在Forge和Fabric上可用</strong></p><h2>配方</h2><h3>无序合成</h3><p>原版/机械动力头盔 + 护目镜 → 护目镜头盔</p><p>要取下护目镜，只需将头盔放入粉碎机中粉碎（附魔将会丢失）。</p><h3>锻造台</h3><p>任意头盔 + 护目镜 → 相同的头盔，但附加了NBT数据，使其能够作为护目镜头盔使用</p><p>要移除护目镜，将升级后的头盔与<em>修饰移除器</em>（用黄铜像剪刀一样合成）在锻造台中结合。</p><h3><strong>模组兼容性：</strong></h3><h3>机械动力（必需）：</h3><p>功能：</p><ul>\n<li>护目镜头盔</li>\n<li>装甲背罐</li>\n<li>提示信息</li>\n</ul><h3>Architectury（必需）（0.5.4+）</h3><p>功能：-</p><h3>推荐使用JEI，但非必需</h3><p>功能：-</p><h3>Curios支持（非必需）：（仅限Forge）</h3><p>功能：</p><ul>\n<li>新增护目镜槽位（仅0.5.0版本以下）</li>\n<li>新增背罐支持（0.5.4+）（目前无法使用）</li>\n</ul><h3>通用机械支持（非必需）：（仅限Forge）</h3><p>功能：</p><ul>\n<li>护目镜单元（0.5.1+）</li>\n</ul><p>鸣谢：<a href=\"https://www.curseforge.com/members/furti_two\" rel=\"nofollow\">Furti_Two</a>（图标设计）</p><p>如果你想为自己的模组制作护目镜头盔，请查看<a href=\"https://github.com/Robocraft999/CreatePlus\" rel=\"nofollow\">GitHub</a>页面获取更多信息。</p><h2>不再支持Minecraft 1.14、1.16和1.18-版本</h2>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

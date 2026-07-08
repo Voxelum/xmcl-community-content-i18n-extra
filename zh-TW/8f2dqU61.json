@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lyL9U+U9v4Q=",
+  "content": "一個輕量級資料包，讓玩家可以切換 AFK 模式，在保護他們免受傷害的同時，顯示其 AFK 狀態並記錄離開時間。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/qhUS2DuCA9Q\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### 指令\n- `/trigger afk` 或 `/trigger afk.enable`：啟用 AFK 模式\n- `/trigger afk.display` 或 `Shift`：退出 AFK 模式\n- `/trigger afk.mute`：靜音 AFK 通知訊息\n- `/trigger afk.unmute`：取消靜音 AFK 通知訊息\n\n### 特色\n- 使用簡單指令切換 AFK 模式。\n- 按 Shift 鍵即可輕鬆切換 AFK 模式。\n- 在玩家名稱後方加上「(AFK)」後綴。\n- 在 Tab 列表顯示 AFK 狀態。\n- 在 AFK 期間防止受到傷害。\n- 記錄總 AFK 時間。\n- 當有人進入或離開 AFK 狀態時通知其他玩家。\n- 自動狀態處理，提供更好的多人遊戲體驗。\n\n如果您發現任何錯誤或與版本相關的問題，歡迎直接私訊 [Planet Minecraft ↗](https://www.planetminecraft.com/member/bibekthelegend/) 或 [加入 Discord ↗](https://discord.com/invite/VHHGQSg7gU)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

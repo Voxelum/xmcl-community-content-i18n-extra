@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+rY7mNIolMw=",
+  "content": "<p style=\"text-align:right\">&nbsp;</p><h2 style=\"text-align:center\">這是什麼？</h2><p style=\"text-align:center\">這個模組使用了一點 ASM 黑魔法來移除藥水的發光效果。</p><p style=\"text-align:center\">&nbsp;</p><h2 style=\"text-align:center\">為什麼？</h2><p style=\"text-align:center\">因為我看不到自己喝的是什麼藥水。顏色都被那無用的閃光效果遮住了。</p><p style=\"text-align:center\">&nbsp;</p><h2 style=\"text-align:center\"><a href=\"https://minecraft.curseforge.com/projects/extra-alchemy\" rel=\"nofollow\">Extra Alchemy</a> 不是有同樣的功能嗎？</h2><p style=\"text-align:center\">從 0.3.7 版本開始就沒有了，我決定把這個功能從主模組中分離出來，這樣主模組就不包含 ASM。這個模組雖然用了 ASM，但只是非常微小的一點，不會與其他任何模組產生相容性問題。</p><p style=\"text-align:center\">而且我發現很多人可能只需要這個功能，而不想安裝主模組的所有內容，所以就單獨做出來了。</p><p style=\"text-align:center\">分離這個功能也讓我能夠支援更多 Minecraft 版本，<strong>這個模組從 1.8 到 1.12.2 都能使用，還支援 fabric 上的 1.14.X 系列版本！&nbsp;</strong>（如果某個特定 forge/fabric 版本無法使用，請告訴我，很容易漏掉可能破壞功能的更新）</p><p style=\"text-align:center\">&nbsp;</p><p style=\"text-align:center\">&nbsp;</p><h2 style=\"text-align:center\">你會為 1.14+ 版本新增 forge 支援嗎？</h2><p style=\"text-align:center\">不會，我選擇 fabric 作為主要模組加載器，我真的很不喜歡這些版本上的 forge 環境</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

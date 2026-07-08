@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IYojNMwaOtg=",
+  "content": "# 所有 HUD 狀態條\n\n### 所有 HUD 狀態條將原版的生命值、護甲、飢餓值、氧氣值和坐騎生命值的顯示方式替換為狀態條。\n\n如果你只需要一個修改生命條的模組，請查看 [Simple Health Bar](https://modrinth.com/mod/simple-health-bar)\n\n- 支援生命條顯示 **凋零、中毒、冰凍** 狀態的顏色變化\n- 支援 **自訂最大生命值、吸收值和載具生命值**\n \n### 目前支援的版本：\n\n- **Fabric 1.21 - 1.21.7**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

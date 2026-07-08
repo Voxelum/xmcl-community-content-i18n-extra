@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xzTm9wQ4Ycw=",
+  "content": "<p>增加了 Create 與 FTB Ultimine 之間的相容性。主要功能是讓你能使用 Ultimine 批量製作 Create 的機殼。用 Ultimine 鍵標記一些剝皮原木，手持安山合金右鍵點擊，它們就會全部變成安山機殼，而不需要一個一個手動製作。黃銅、銅和鐵路機殼也是同樣的道理。</p><p>每個方塊會消耗一個物品，所以如果你有 5 個合金和 8 個標記的原木，你會得到 5 個機殼，而剩下的 3 個原木不會被影響。也適用於其他 Create 的配方，包括由附加模組新增的配方。</p><p>需要同時加載 Create 和 FTB Ultimine 才能使用。這個模組只是作為兩者之間的橋樑。</p><p>歡迎在任何模組包中使用此模組。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

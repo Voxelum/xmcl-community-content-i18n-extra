@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FGY0X647t2o=",
+  "content": "這是 [Trinkets](https://modrinth.com/mod/trinkets) 模組的分支版本，已針對 1.21.4-1.21.11 進行更新。未來開發模組時，請使用 [Trinkets Updated](https://modrinth.com/mod/trinkets-updated)。\n\n此模組本身不具備任何功能，您需要搭配另一個與此模組相容且能新增物品的模組。例如 [Craftable Capes](https://modrinth.com/mod/craftablecapes)。\n\n在您的專案中包含此模組：  \nbuild.gradle：\n```\nrepositories {\n    exclusiveContent {\n\t\tforRepository {\n\t\t\tmaven {\n\t\t\t\tname = \"Modrinth\"\n\t\t\t\turl = \"https://api.modrinth.com/maven\"\n\t\t\t}\n\t\t}\n\t\tfilter {\n\t\t\tincludeGroup \"maven.modrinth\"\n\t\t}\n\t}\n}\n\ndependencies {\n\tmodImplementation \"maven.modrinth:trinkets-canary:${project.trinkets_version}\"\n}\n```  \ngradle.properties：  \n```\ntrinkets_version=3.10.0-1.21.4 # 從版本頁面複製版本號\n```\n若使用 Minotaur 插件上傳您的模組，請記得將依賴 ID 更改為 `trinkets-canary`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

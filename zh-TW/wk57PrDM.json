@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kV+IslQgpU8=",
+  "content": "# 鞘翅飾品\n\n一個 Minecraft Fabric 模組，可在 Trinkets API 的披風欄位中裝備鞘翅。\n\n需要 [Fabric API](https://modrinth.com/mod/fabric-api) 和 [Trinkets](https://modrinth.com/mod/trinkets) 或 [Trinkets Canary](https://modrinth.com/mod/trinkets-canary)。\n\n此模組僅為 [Elytra Slot](https://modrinth.com/mod/elytra-slot) 的輕量版本。\n我製作它是因為對其更新速度感到不滿。\n如果該模組已是最新版本，我建議使用它，因為它支援：\n\n- Fabric、Forge 和 Quilt（而不僅限於 Fabric）。\n- 部分模組新增的鞘翅變種。\n\n客戶端和伺服器上任意組合使用 Elytra Slot 和 Elytra Trinket 皆可正常運作。\n\n## 棄用通知\n\n自 Minecraft 版本 26.1 起，本模組將不再更新。主要原因是此模組的核心依賴 Trinkets，截至撰寫本文時已有一年半未更新。雖然存在適用於新版本的 Trinkets Canary 分支版本，但整體而言，未來似乎會有更多模組開始改用 [Accessories](https://modrinth.com/mod/accessories)。由於 Accessories 已內建支援將鞘翅作為飾品使用，本模組已無繼續存在的必要。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

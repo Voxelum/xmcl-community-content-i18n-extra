@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZTRIms+wh2E=",
+  "content": "![自动机动性](https://github.com/FoundationGames/Automobility/raw/1.18.2/md/banner.png)\n\n### 一款添加可定制载具的Minecraft模组\n**自动机动性目前处于BETA阶段！** <br/>\n该模组尚未完善功能，任何功能请求都将受到高度欢迎。欢迎在模组的GitHub讨论页面或[Discord](https://discord.gg/7Aw3y4RtY9)上讨论功能。\n\n## 支持Fabric与NeoForge\n- 需要 **[Fabric API](https://modrinth.com/mod/fabric-api)**（Fabric）\n- NeoForge无需额外模组\n\n**目前适用于Minecraft 1.21.1的alpha版本，旧版本已停止维护。**\n\n### 支持数据包与资源包\n- 使用数据包和资源包添加你自己的自定义载具类型！\n- 这里有一个可供作为模板的[示例](https://github.com/FoundationGames/City-Vehicles-Example-Addon)。\n\n## 新手上路\n- **合成配方：** 可通过[**EMI**](https://www.curseforge.com/minecraft/mc-mods/emi)或[**JEI**](https://www.curseforge.com/minecraft/mc-mods/jei)查看工作台配方。汽车部件配方可在汽车工台GUI中查看。\n- **汽车部件：** 合成汽车工台。使用GUI为你的汽车制作车架、引擎和车轮。你还可以选装附加配件。\n- **组装汽车：** 合成汽车组装台和撬棍。将部件放置在组装台上，直至车辆完整。使用撬棍可拆除车辆。\n- **升级汽车：** 使用汽车工台制作附加配件，可安装在汽车上以增添有趣功能或实用性。\n- **建造：** 可使用斜坡、仪表板、越野路面等方块来建造道路、赛道或障碍赛道。\n\n![汽车建造](https://github.com/FoundationGames/Automobility/raw/1.18.2/md/construction.png)\n![汽车类型](https://github.com/FoundationGames/Automobility/raw/1.18.2/md/parking.png)\n\n## 驾驶操作\n- W - 加速\n- S - 刹车/倒车/烧胎\n- A/D - 左右转向\n- 空格 - 漂移\n- Ctrl - 鸣笛\n\n![驾驶](https://github.com/FoundationGames/Automobility/raw/1.18.2/md/driving.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "O3hyP1UOU84=",
+  "content": "本模组对 Mekanism 进行了各项调整（好吧……未来可能会有更多调整），突破了其机器性能的极限。\n\n当前调整列表：\n- 默认将速度和能量升级上限从 8 提升至 32，当机器达到每 tick 一次操作后，将开始同时执行多次操作。\n- 配置文件允许 Meka 护甲/工具具有附魔能力，默认值为 false，不会为物品添加附魔标签，您需要自行添加。\n\n所有更改均可配置，更改后需重启游戏才能生效。\n\n特别感谢 [nin8995](https://modrinth.com/user/nin8995) 制作了 [Mekanism Tweaks](https://modrinth.com/mod/mekanism-tweaks)，最初的上限提升代码即参考自此模组，随后经过修改以适配 NeoForge 及更新版本的 Mekanism。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

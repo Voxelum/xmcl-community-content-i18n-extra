@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ms9DD4AbL2M=",
+  "content": "<hr><h1>Minecraft 1.20.1 壓制模組</h1><p>壓制模組為 Minecraft 新增了<strong>真實的壓制機制</strong>，透過模擬遭受猛烈火力攻擊時的心理效應，提升戰鬥沉浸感。當玩家暴露於壓制火力下時，將影響瞄準準確度、視野與移動能力，打造更具戰術性與緊張感的遊戲體驗。</p><h2>特色功能</h2><ul>\n<li>動態視覺效果：遭受攻擊時產生畫面震動、模糊與邊緣暗化。</li>\n<li>壓制期間降低武器準確度並減緩移動速度。</li>\n<li>可自訂壓制強度與效果持續時間。</li>\n<li>與熱門槍械模組無縫整合。</li>\n</ul><h2>相容性</h2><p>此模組與 TaCZ（Timeless and Classics Zero）模組完全相容，TaCZ 是 Minecraft 中最詳細且先進的槍械模組之一。兩者結合後，TaCZ 的豐富武器庫與真實射擊機制，搭配動態壓制效果，能模擬戰場壓力與緊迫感，進一步強化戰術遊戲體驗。</p><h2>需求條件</h2><ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge Mod Loader</li>\n<li>安裝 TaCZ（Timeless and Classics Zero）模組以獲得完整相容性優勢。</li>\n</ul><h2>安裝步驟</h2><ol>\n<li>安裝 Minecraft Forge 1.20.1。</li>\n<li>將 <code>SuppressionMod-x.x.x.jar</code> 檔案放入 <code>mods</code> 資料夾。</li>\n<li>確保同一資料夾中已安裝 TaCZ 以獲得強化互動效果。</li>\n<li>使用 Forge 設定檔啟動 Minecraft。</li>\n</ol><h2>作者</h2><p><strong>Nikita Liko</strong><br>\nGitHub：<a href=\"https://github.com/NikitaLiko\" rel=\"nofollow\">https://github.com/NikitaLiko</a><br>\n專案倉庫：<a href=\"https://github.com/NikitaLiko/SuppressionMod\" rel=\"nofollow\">SuppressionMod</a></p><hr>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

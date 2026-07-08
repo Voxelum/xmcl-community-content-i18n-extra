@@ -1,0 +1,6 @@
+{
+  "bodyHash": "02F294cdyw4=",
+  "content": "# Bax\n\nHypixel Skyblock QoL 模組，適用於 Fabric。\n\n大多數功能預設為關閉。\n\n## 功能\n\n### 挖礦\n- **自訂任務介面**\n- **任務完成通知**\n- **任務 HUD**\n\n### 釣魚\n- **熱點通知**\n- **半透明熔岩**\n\n### 戰鬥\n- **生物血量顯示**\n- **可部署道具計時器**\n- **戰利品共享範圍**\n- **雜物過濾器**\n\n### 聊天\n- **寵物通知**\n\n### 其他\n- **儲物箱覆蓋介面**\n- **夜晚提醒**\n- **裝備 HUD**\n- **NPC 尋找器**\n\n## 指令\n\n- `/bax` - 開啟設定介面\n- `/baxgui` - 開啟 HUD 編輯器\n- `/bax npc` - 開啟 NPC 尋找器\n- `RShift` - 開啟設定介面（可按鍵綁定自訂）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

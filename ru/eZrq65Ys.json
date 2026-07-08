@@ -1,0 +1,6 @@
+{
+  "bodyHash": "is0E3UQEGF0=",
+  "content": "## Описание\n\n__Standable Striders__ — это простой мод, который позволяет игрокам стоять на Страйдерах так, будто они являются твёрдыми платформами.\n___\n![Игрок стоит на оседланном Страйдере](https://cdn.modrinth.com/data/eZrq65Ys/images/053172e277d11b2284888cda8d5a922921fca0af.png)\n___\nСтрайдеры больше не ведут себя как скользкие мобы, когда игрок стоит на них — они остаются неподвижными, что позволяет безопасно стоять, прыгать и взаимодействовать с ними, подобно счастливым Гастам.\n\nЭто особенно полезно для:\n\n* Безопасного спешивания со Страйдера\n\n* Строительства или модификации конструкций над озёрами лавы\n\n* Любых ситуаций, где требуется устойчивая опора на Страйдере\n\n## Конфигурация\n\n<details>\n<summary>Standable_Striders.json</summary>\n\n```json\n{\n  \"=====| Standable Striders |=====\": {\n    \"Enabled\": true,\n    \"Apply only to saddled Striders\": false\n  }\n}\n```\n</details>\n\n### Команды\n\n- `/standablestriders` `reload`\t\t\t\t:: Перезагружает конфигурацию\n\n- `/standablestriders` `config`\t\t\t\t:: Открывает файл конфигурации\n\n- `/standablestriders` `enable/disable`\t\t:: Включить / выключить мод\n\n- `/standablestriders` `status`\t\t\t\t:: Показывает текущий статус мода",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

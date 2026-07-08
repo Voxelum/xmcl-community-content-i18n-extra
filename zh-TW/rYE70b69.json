@@ -1,0 +1,6 @@
+{
+  "bodyHash": "05wNGZsoJNM=",
+  "content": "# 純客戶端戰鬥回饋模組，借鑒現代 FPS 遊戲的視覺與鏡頭效果，提升你的 PvP 與 PvE 體驗。\n## 受傷回饋\n傷害方向指示 — 紅色弧形指向攻擊者方向\n近彈警示 — 子彈擦身而過時白色弧形閃爍\n### 相容性\nTACZ（永恆槍械工坊：零） — 透過原生事件整合完整支援\n原版武器 — 劍、斧、三叉戟、弓、弩\nLRTactical / Yumc 近戰武器 — 自動偵測\n純客戶端運行，無需伺服器模組，可在任何伺服器使用\n### 支援版本\nMinecraft 1.20.1 Forge\n### 影片 [Bilibili](https://www.bilibili.com/video/BV1R1dHB4EEG?vd_source=badc55838a05d203c1c774a6667df320)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

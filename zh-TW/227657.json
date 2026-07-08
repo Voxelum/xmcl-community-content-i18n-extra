@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7nwnj1tjvnU=",
+  "content": "<pre>一個允許在載入世界時套用全域遊戲規則的模組。<br>同時允許設定載入時的預設世界難度並鎖定難度<br>當鎖定世界難度後將無法再次解鎖，此操作會在任意難度變更後生效。被鎖定的世界在載入時不會改變其難度。<br>在單一世界中對遊戲規則或難度所做的所有更改，將在其它世界載入時套用至所有世界，並保存至配置文件中。<br><br>在配置檔案或遊戲內配置介面中所做的更改，將在世界載入時生效。<br><br><span style=\"font-size:14px;color:#800000\">在1.16+版本中，建議使用<a style=\"color:#800000\" href=\"https://www.curseforge.com/minecraft/mc-mods/configured\" rel=\"nofollow\">Configured</a>模組來在遊戲內修改配置。</span><br><span style=\"font-size:14px;color:#800000\">1.15.2版本：遊戲內配置功能尚未在Forge中實裝，需直接編輯配置文件。您無需重啟遊戲即可編輯檔案，僅需在主選單時重新載入世界/進行編輯。</span><br><br>預設配置<br><img src=\"http://i.imgur.com/ya2A4rl.png\" alt=\"\" width=\"1920\" height=\"1137\"><br><br>修改後的配置範例<br><img src=\"http://i.imgur.com/It9hOuz.png\" alt=\"\" width=\"1920\" height=\"1137\"><br><br>1.8.9版本範例<br><img src=\"http://i.imgur.com/LcMDnpV.png\" alt=\"\" width=\"1920\" height=\"1137\"><br><br>1.9/1.10.2版本範例<br><img src=\"http://i.imgur.com/y3M5oh8.png\" alt=\"\" width=\"1920\" height=\"1137\"></pre><h2><strong>模組包使用許可？</strong></h2><p>您可以自由將本模組用於您的模組包中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

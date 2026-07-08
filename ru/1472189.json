@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+fEw91+zJe8=",
+  "content": "<p>Добавляет поддержку всех плагинов и модов Multiverse. Отключает уничтожение из-за проклятия судьбы не на уровне сервера, а на уровне мира.<br><br>Переопределяет игровую команду /cursedfate worlddestruction, делая её действующей для каждого мира отдельно, а не для всего сервера.<br><br>Добавлены команды:</p><p>/cfperworld worlddestruction false</p><p>/cfperworld worlddestruction true</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Hy+TYGV2XNM=",
+  "content": "<p>Добавьте обновление стека для ящиков с предметами в мод <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodern-industrialization%252f\" target=\"_blank\" rel=\"nofollow\">Modern Industrialization</a>. Для мода <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodern-industrialization%252f\" target=\"_blank\" rel=\"nofollow\">Modern Industrialization</a> добавьте обновление стека для ящиков с предметами.</p><p>Поддерживается добавление, изменение и удаление обновлений стека с помощью KubeJS:</p><pre><code>// server_scripts\\*.js\nServerEvents.generateData('after_mods', event =&gt; {\n  // Добавьте новое обновление стека.\n  event.setMIStackUpgrade('#minecraft:flowers', 1);\n\n  // Измените количество групп стеков, предоставляемых существующему обновлению стека.\n  event.setMIStackUpgrade('modern_industrialization:basic_stack_upgrade', 200);\n\n  // Удалите существующее обновление стека.\n  event.setMIStackUpgrade('modern_industrialization:quantum_stack_upgrade', 0);\n});</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

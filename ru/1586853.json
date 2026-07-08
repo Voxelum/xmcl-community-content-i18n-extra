@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Rh/WdXJtIp4=",
+  "content": "<ul>\n<li><strong>Чистый таймер HUD</strong>, расположенный по центру над горячей шкалой, с плавным градиентом от бирюзового до фиолетового.</li>\n<li><strong>Адаптивный формат времени</strong> — отображаются только те единицы измерения, которые вам нужны:\n<ul>\n<li><code>12 сек</code></li>\n<li><code>3 мин 5 сек</code></li>\n<li><code>2 ч 3 мин 5 сек</code></li>\n<li><code>1 д 2 ч 3 мин 5 сек</code></li>\n</ul>\n</li>\n<li><strong>Команды чата</strong>, позволяющие управлять всем:\n<ul>\n<li><code>/timer start</code> — начать отсчёт с нуля</li>\n<li><code>/timer pause</code> — приостановить таймер</li>\n<li><code>/timer unpause</code> — возобновить</li>\n<li><code>/timer reset</code> — обнулить таймер</li>\n<li><code>/timer hide</code> — скрыть таймер</li>\n<li><code>/timer show</code> — показать таймер</li>\n</ul>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

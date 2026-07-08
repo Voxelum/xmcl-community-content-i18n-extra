@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LeWuZWf/3s4=",
+  "content": "# Cobblemon 整合模組\n這是一個完全可自訂的模組，為 [Cobblemon](https://modrinth.com/mod/cobblemon) 提供了許多熱門模組的整合功能。所有其他依賴模組皆非必要，可自由選用。\n\n### 目前已整合的模組\n- [JEI](https://modrinth.com/mod/jei)：新增寶可夢掉落物與進化道具的目錄。\n- [Jade](https://modrinth.com/mod/jade)：新增寶可夢資訊、樹果生長狀態、治療器電量、莓叢資訊與化石分析儀資訊的工具提示。\n- [Waystones](https://modrinth.com/mod/waystones)：新增與寶可夢互動的選項，可傳送至傳送石。\n- [Tough as Nails](https://modrinth.com/mod/tough-as-nails)：火系與冰系寶可夢會影響體溫，水屬性寶可夢可裝填水瓶。\n- [Enhanced Celestials](https://modrinth.com/mod/enhanced-celestials)：在月相事件期間調整色違機率、經驗值獲得量與個體值努力值。新增自訂生成/進化條件「lunarEvent」，以及以下變種：血月月亮伊布、豐收月葉伊布、藍月火伊布。可透過資料包停用/修改。\n- [Serene Seasons](https://modrinth.com/mod/serene-seasons)：新增季節性生成/進化條件。將 Cobblemon 的季節系統與 Serene Seasons 整合（如四季鹿的型態變化）。新增 Cobblemon 作物的季節性肥沃度。新增以下變種：春天太陽伊布、夏天雷伊布、秋天仙子伊布、冬天水伊布。可透過資料包停用/修改。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

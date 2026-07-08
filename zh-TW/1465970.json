@@ -1,0 +1,6 @@
+{
+  "bodyHash": "32H8VfIMdwM=",
+  "content": "<p>高度可自訂的模組，可在 GUI 的任何位置計算最多 10 個物品的數量。也支援藥水。</p><p>設定項目：</p>\n<ul>\n<li>疊加層的大小、位置、顏色</li>\n<li>物品計數的格式</li>\n<li>要追蹤的物品數量</li>\n<li>針對每個物品：\n  <ul>\n    <li>要追蹤的物品類型</li>\n    <li>若物品為藥水：\n      <ul>\n        <li>藥水類型</li>\n        <li>需要的形態（任何、滯留、飛濺、一般）</li>\n        <li>需要增強的持續時間</li>\n        <li>需要增強的等級</li>\n      </ul>\n    </li>\n  </ul>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

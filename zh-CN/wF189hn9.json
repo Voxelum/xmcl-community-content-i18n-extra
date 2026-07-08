@@ -1,0 +1,6 @@
+{
+  "bodyHash": "R1o4mXzqODc=",
+  "content": "# uku的护甲HUD\n\n一个Minecraft模组，添加了显示当前穿戴护甲物品的HUD小部件。\n\n本模组添加了一个简约的、原版风格的小部件，用于显示你穿戴的护甲物品，并在耐久度较低时发出警告。与其他要求玩家关注屏幕上数字的模组不同，本模组让你能以原版风格的极简小部件查看护甲物品，无需额外的文字或数字。小部件的位置及其他参数可在配置文件中调整。\n\n鸣谢：\n- [最初由BerdinskiyBear制作](https://www.curseforge.com/minecraft/mc-mods/berdinskiybears-armor-hud)，由uku分叉。\n- 护甲损坏音效来自[Giselbaer的耐久度查看器](https://modrinth.com/mod/durabilityviewer)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

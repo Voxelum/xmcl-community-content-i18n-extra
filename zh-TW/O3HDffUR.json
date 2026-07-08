@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CtXW4D/0Ou8=",
+  "content": "對於 Forge，需要 Atlas Lib。此模組在 1.21+ 版本將僅支援 Neoforge，不再支援 Forge。\n\n## 入侵\n\n_你聽到附近獸群的嚎叫_\n\n![獸群](https://cdn.modrinth.com/data/O3HDffUR/images/eac5c96f136023e3e3b338575d5fcd66e2de5928.png)\n\n在可設定的夜晚，怪物群會從午夜到清晨分批攻擊你的基地，遭遇的怪物種類與時間段也可自訂。\n\n關於 1.2.0+ 版本的模組設定指南，請參考[此處](https://github.com/SmileycorpMC/The-Hordes/wiki/Datapack-Support-The-Hordes-version-1.2.0)。\n\n## 感染\n\n若啟用此功能，玩家與馬匹被殭屍攻擊後可能感染，5 分鐘後或死亡時會轉化為殭屍。\n\n對玩家而言，這會導致死亡並在原地生成一隻殭屍玩家。\n\n預設可使用金蘋果治療感染，但可設定為任何可消耗物品，且治療不可逆。\n\n預設啟用的選項可將感染擴及村民，阻止殭屍村民被治癒。\n\nConfig 中可選擇將其他模組生物的殭屍變體加入可殭屍化的實體清單，前提是有對應的殭屍可供轉化。\n\n1.3.0+ 版本支援自訂材質，可為相似生物添加殭屍化變種。\n\n![殭屍化衛道士](https://cdn.modrinth.com/data/O3HDffUR/images/5e592564a0ffc8ed93dd1e98425b9a9ebc6f0e81.png)\n\n## 殭屍玩家\n\n![殭屍玩家](https://cdn.modrinth.com/data/O3HDffUR/images/c9a1d5003da18d3ec3e60b77fc98a93959e98075.png)\n\n當玩家因感染死亡，或啟用選項後死亡時，會在原地生成帶有所有物品的殭屍化玩家；若在水中死亡，則生成沉屍版本。\n\n預設殭屍玩家免疫陽光，但可在 Config 中關閉此設定。\n\n## 其他雜項調整\n\n可選設定：讓殭屍馬成為敵對生物（預設啟用），以及防止不死生物在陽光下燃燒（預設關閉）。\n\n特別感謝 bstylia14 提供原始模組概念、開發期間的點子與協助，以及 Ski_Z 協助發現大量漏洞並提供模組建議。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

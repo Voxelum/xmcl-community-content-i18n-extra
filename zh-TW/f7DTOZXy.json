@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Tkf5/JWXM30=",
+  "content": "木製鞘翅的耐久度會根據您所在的高度而減少！它還會根據不同情況產生不同的視覺（以及不太明顯的）效果。\n\n每次鞘翅失去耐久度時，也會掉落一些羽毛。您可以藉此判斷自己損失了多少耐久度，以及還剩下多少耐久度（耐久度越低，掉落的羽毛越多）。\n此外，還有一些配置選項可以管理鞘翅永不燃燒的維度。\n基礎數值（可於配置中編輯）：\n\n<details>\n<summary>劇透警告</summary>\n\"高強度\"（預設：Y230以上）= 您將會燃燒（如果\"燃燒\"設為 true）並且每 3 刻失去 1 點耐久度。\n\"燃燒\"（預設：true）= 在高強度下會燃燒\n\"中強度\"（預設：Y150以上）= 每 5 刻失去 1 點耐久度。\n\"低強度\"（預設：Y80以上）= 每 7 刻失去 1 點耐久度。\n\"耐久度\"（預設：80）= 木製鞘翅的耐久度總值。\n</details>\n\n基礎合成配方（可透過 CraftTweaker 或類似模組修改）：\n\n![木製鞘翅合成配方](https://cdn.modrinth.com/data/cached_images/dc6597286408ae7d587ff57d1c47c6e4605494cf.png)\n\n<p align=\"center\">\n  <iframe width=\"560\" height=\"315\" \n          src=\"https://www.youtube.com/embed/x8Zq25fNTT0\" \n          title=\"YouTube 影片播放器\" \n          frameborder=\"0\" \n          allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" \n          allowfullscreen>\n  </iframe>\n</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XBWbPcZCBrU=",
+  "content": "!! **Для наилучшего восприятия отключите пак, когда не играете в эман** !!\n\nВидео с демонстрацией: [https://youtu.be/krrM9Sm8GWE](https://youtu.be/krrM9Sm8GWE)\n\nПоступило несколько просьб обновить пакет minedollcat для 1.8.9, в котором заменены аспекты острова конца и серафа из voidgloom на алые острова и демона-демона из инферно. Я не смог найти оригинальный пакет, поэтому решил создать свой собственный.\n\nРекомендуется использовать файл SkyHanni visual words.zip, который вы найдёте приложенным к каждой версии или [здесь](https://www.mediafire.com/file/sg6mrnbf0mvrevh/sh+visual+words.zip/file). Этот файл содержит .json, который изменяет названия босса, врагов и минибоссов на имена блэйзов, чтобы сделать игру немного более погружённой. (Чтобы использовать этот файл, поместите его в config/skyhanni)\n\n[Требуется Features Entity Model (EMF)](https://modrinth.com/mod/entity-model-features)\n\n[Требуется Features Entity Texture (ETF)](https://modrinth.com/mod/entitytexturefeatures?version=1.21.10&loader=fabric)\n\n[Требуется Cartharsis (.cats pack)](https://modrinth.com/mod/catharsis)\n\nЕсли у вас есть предложения или проблемы — пишите Vyirv в Discord <3",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

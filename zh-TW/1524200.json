@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kqHNrVkU5dE=",
+  "content": "<p>ImGui Minecraft 綁定。讓模組開發者無需任何設定或內建 ImGui 原生程式庫，即可建立簡單的除錯介面。</p><p>此函式庫提供以下功能：</p><ul>\n<li>ImGui <code>1.90.0</code> 版本</li>\n<li>在 Minecraft 幀的開始與結束時繪製 ImGui 的事件</li>\n<li>註冊自訂字型的事件</li>\n<li>自動載入 ImGui 樣式的 .ttf 字型檔案</li>\n<li>支援 <code>GpuTexture</code> 和 <code>GpuTextureView</code> 作為紋理來源</li>\n</ul><p><strong>注意：此模組僅提供綁定與字型載入功能，本身並無任何新增 ImGui 視窗的方式。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6sG6jPf7ork=",
+  "content": "<p><span style=\"font-size:18px\"><strong>Reforgium</strong> — это неофициальный форк <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric Rendering API</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/indium\" rel=\"nofollow\">Indium</a>, разработанный для облегчения портирования клиентских модов на Forge за счёт обеспечения совместимости с хуками Forge.<br> <br>Мод включает два типа рендеринга: <em>Indigo </em>и <em>ReforgiumRenderer</em> (Indium).</span></p><p><span style=\"font-size:18px\">ReforgiumRenderer активируется при наличии Rubidium в модпаке; в противном случае используется Indigo.<br><br></span></p><p><span style=\"font-size:18px\">Моды, использующие Reforgium:</span></p><ul>\n<li><span style=\"font-size:18px\">Connectedness</span></li>\n</ul><p><span style=\"font-size:18px\"><br><em>Примечание: Reforgium не связан с Fabric или Indium.<br>У нас есть <a href=\"https://discord.gg/UCsyn5RS4s\" rel=\"nofollow\"><strong>Discord</strong></a><br></em></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

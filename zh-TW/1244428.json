@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yElniymxg6s=",
+  "content": "<h3>🔄 萬物皆可拆解</h3><p><strong>受夠了合成失誤？想從閒置裝備回收資源？</strong><br>\n<em>萬物皆可拆解</em>就是你的解決方案。</p><p>這個模組為 Minecraft 帶來強大而平衡的機制：<strong>透過拆解台將幾乎任何物品還原成原始材料</strong>。</p><hr><h3>🛠 功能特色</h3><ul>\n<li>🔧&nbsp;拆解工具、武器、防具等各類物品</li>\n<li>♻️ 從不再需要的物品中回收合成材料</li>\n<li>📦 支援原版與模組新增物品</li>\n<li>🔄 遵循配方拆解——嚴格還原原始合成模式</li>\n</ul><hr><h3>⚙️ 配置選項</h3><ul>\n<li>拆解所需經驗值設定</li>\n<li>禁止特定物品被拆解</li>\n<li>FTB Quests 兼容性：可設定需完成特定任務/章節才能解鎖物品拆解配方</li>\n</ul><blockquote>\n  <p>請於 <code>/config/uncrafteverything_common.toml</code> 中修改設定</p>\n</blockquote><hr><h3>🎮 運作方式</h3><p>只需將已合成的物品放入<strong>拆解台</strong>，即可取回製作時消耗的材料。<br>\n非常適合清理背包、回收貴重資源，給予玩家第二次機會。</p><hr><h3>🧩 兼容性</h3><ul>\n<li>兼容大多數使用標準合成配方的模組</li>\n<li>全面支援<strong>資料包</strong>與<strong>模組包整合</strong></li>\n<li>伺服器與單人模式皆可使用</li>\n</ul><hr><h3>📝 注意事項</h3><ul>\n<li>部分物品（如附魔裝備、損壞工具）可能無法拆解</li>\n<li>設計時注重平衡性：並非所有物品都應該能被拆解！</li>\n</ul><hr><h3>💬 反饋與支援</h3><p>歡迎提供建議與錯誤回報！<br>\n請至留言區或我們的<a href=\"https://github.com/CoolerProYT/UncraftEverything/issues\" target=\"_blank\" rel=\"nofollow\">GitHub</a>提交問題。</p><h3>Discord 社群：<span style=\"color:#3598db\"><a style=\"color:#3598db\" href=\"https://discord.gg/hvFfqsqQm8\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/hvFfqsqQm8</a></span></h3>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

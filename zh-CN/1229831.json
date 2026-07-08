@@ -1,0 +1,6 @@
+{
+  "bodyHash": "B6bkrI2TuCw=",
+  "content": "<h1>终末宝库</h1>\n<p><strong>适用于Minecraft 1.21.4及更早版本的模组可在Modrinth获取</strong>：<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fvaulted-end\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/vaulted-end</a></p>\n<p>终末宝库是基于Polymer的Fabric服务端模组，它将末地船中的鞘翅展示框替换为宝库和试炼刷怪笼。该模组旨在改善多人服务器生态，让新玩家无需跋涉数千格寻找未被劫掠的末地城，就能在旧版末地稳定获取鞘翅（以及潜影壳）。</p>\n\n<h2>试炼刷怪笼与宝库</h2>\n<p>末地船现在会生成带有宝库和试炼刷怪笼的结构。甲板上固定生成一个潜影贝试炼刷怪笼，必定掉落鞘翅钥匙。船舱下层还会生成两个末影螨试炼刷怪笼，奖励包括金胡萝卜、烟花火箭和潜影壳。鞘翅仍可在船舱下层找到——就在原先展示框位置的宝库中，使用鞘翅钥匙即可开启。</p>\n<p>约三分之一的末地船会额外生成一个不祥宝库。与试炼密室机制相同，若你携带不祥之兆效果，不祥刷怪笼将掉落不祥鞘翅钥匙。但要注意——不祥刷怪笼的挑战难度会大幅提升！</p>\n<p><img src=\"https://media.githubusercontent.com/media/TheDeathlyCow/vaulted-end/HEAD/docs/ominous_ship.jpg\" alt=\"一艘同时拥有普通宝库、不祥宝库以及末影螨试炼刷怪笼的末地船\"></p>\n\n<h2>服务器安装指南</h2>\n<p>本模组通过Polymer实现纯服务端运行。玩家无需安装任何模组即可在服务器游玩——完全兼容原版客户端。但建议使用配套资源包以获得鞘翅钥匙的专属纹理。服务器资源配置教程详见Polymer维基：<a href=\"/linkout?remoteUrl=https%253a%252f%252fpolymer.pb4.eu%252flatest%252fuser%252fresource-pack-hosting%252f\" target=\"_blank\" rel=\"nofollow\">https://polymer.pb4.eu/latest/user/resource-pack-hosting/</a></p>\n<p>不使用资源包的原版客户端玩家将看到鞘翅钥匙显示为试炼钥匙，不祥鞘翅钥匙显示为不祥试炼钥匙。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

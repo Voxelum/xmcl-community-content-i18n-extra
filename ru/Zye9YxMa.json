@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YFEbCKeYeI0=",
+  "content": "Обзор\n\n[![Загрузки](https://img.shields.io/modrinth/dt/Zye9YxMa?logo=modrinth)](https://modrinth.com/mod/Zye9YxMa)\n[![Версии игры](https://img.shields.io/modrinth/game-versions/Zye9YxMa)](https://modrinth.com/mod/Zye9YxMa/versions)\n\n\nMace PVB — это однопользовательский мод для Fabric, который добавляет полностью управляемого бота для тренировки в PvP-бою с мечом. Бот ведёт себя как настоящий игрок и поддерживает боевые действия с зарядом ветра и воздушный PvP с использованием элитры.\n\nВся логика выполняется локально в однопользовательских мирах с помощью фейковых игроков Carpet и управления на основе тиков.\n\nТребования / Зависимости\n\nMinecraft: 1.21.11\n\nFabric Loader: 0.18.4 или новее\n\nFabric API: Последняя совместимая версия\n\nCarpet Mod: Обязательно (для управления фейковыми игроками)\n\nJava: Java 21\n\nПримечания\n\nТолько для одиночной игры\n\nНе требуется сервер\n\nСовместим с большинством оптимизационных модов для Fabric\n\nКоманды для управления:\n\nuse \n/macebot windp для вызова бота use \n/macebot pause для остановки use \n/macebot resume для возобновления",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

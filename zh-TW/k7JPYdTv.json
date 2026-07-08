@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tQcWLWXprOI=",
+  "content": "<h1 style=\"text-align:center\">事件包装器</h1><p style=\"text-align:center\">适用于Forge与Fabric模组开发的实用事件库</p>\n\n***\n\n \n\n# 为何选择事件包装器？\n\n厌倦了不同模组加载器中的事件系统差异？\n\n开发Forge/Fabric模组时离不开Forge事件？\n\n解决方案在此：\n\n```java\n@EventBusSubscriberWrapper\npublic SomeClass {\n    \n    @SubscriberEventWrapper\n    public static void onHeal (LivingHealEventWrapper event) {\n        //治疗生物时的执行代码...\n    }\n    \n    @SubscriberEventWrapper\n    public static void onEffect(MobEffectEventWrapper event) {\n        //生物获得状态效果时的执行代码...\n    }\n}\n```\n\n只需在原有Forge事件方法后添加`Wrapper`后缀，即可在双平台运行……\n\n模组圈需要一位秦始皇来统一标准。\n\n# 稳定性如何？\n\n当然稳定。\n\n本库在Forge端具有最高兼容性，同时通过Mixin技术在Fabric端实现兼容。\n\n# 长期支持计划\n\n我们计划为每个主要Minecraft版本维护一个主版本：`1.20.1`、`1.21.1`\n\n# 设计原则\n\n### 三易原则：\n\n*   易上手\n*   易迁移\n*   易脱离\n\n鉴于某些库曾造成严重的迁移灾难，我们坚持以易用性和可迁移性为核心设计理念。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

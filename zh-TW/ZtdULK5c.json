@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HW0FVgujGO0=",
+  "content": "# 奇異典籍\n\n這個模組新增了一個物品：奇異典籍。\n\n典籍解決了一個問題：管理你所有的指南書。\n\n典籍允許將多本（無限？）書籍合併為單一物品，並在需要時取出它們。\n\n## 合成方式\n\n在工作台中用書和書架合成典籍\n\n![合成](https://github.com/EccentricVamp/EccentricTome/blob/main/docs/crafting.png?raw=true)\n\n在工作台中將典籍與其他書籍合成以附加它們\n\n![附加](https://github.com/EccentricVamp/EccentricTome/blob/main/docs/attaching.png?raw=true)\n\n## 操作方式\n\n手持典籍時`右鍵點擊`打開書籍選擇畫面\n\n手持典籍時`Shift`+`右鍵點擊`將典籍轉換為你正在查看方塊的對應書籍\n\n對空氣`左鍵點擊`可將書籍還原為典籍\n\n手持轉換後的典籍時`Shift`+`Q`可彈出一本書籍\n\n## 注意事項\n\n**添加到典籍中的一次性物品仍為一次性使用！**\n\n會消失或損壞的物品（如頭盔典籍或星系典籍）會導致奇異典籍連同其中儲存的所有書籍一併消失或損壞。\n\n## 貢獻方式\n\n歡迎提供翻譯和錯誤修正！請閱讀[貢獻指南](CONTRIBUTING.md)後提交拉取請求。\n\n## 常見問題\n\n**問題：**為什麼要重寫Akashic Tome？\n\n**回答：**這個模組最初是因為Akashic Tome的維護者在未經測試的情況下發布了1.18.1的損壞版本。我幾分鐘內就修復了它（修復只有兩行程式碼）並提交了拉取請求。我的拉取請求被忽略近一個月。所以，我關閉了拉取請求並創建了這個模組。\n\n**問題：**奇異典籍與Akashic Tome有何不同？\n\n**回答：**這個模組與Akashic Tome的不同之處在於它確實能在1.18.1上運行，且不需要AutoRegLib。此外，Vazkii也沒有在Akashic Tome的GitHub存儲庫上放置許可證，這意味著它是\"保留所有權利\"。我個人不同意這個選擇，所以我從頭重寫了奇異典籍，並將其授權為LGPL，以便人們可以複製和學習。\n\n## 致謝\n\nVazkii提供原始創意",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

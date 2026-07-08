@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rCgm/KQQZjg=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/description/1267373/description_05dd581d-d956-490b-8704-2ab97faa29cc.png\" alt=\"Логотип\"></p><h1 style=\"text-align:center\">Create: Ограниченный дренаж</h1><h3 style=\"text-align:center\">«Если вам нужна бесконечная лава, то вам придётся отводить её в незер. Но вы это уже знали».</h3><p>&nbsp;</p><hr><p>Дополнение для Create, которое позволяет вам контролировать биомы, чтобы бесконечно отводить определённые жидкости.</p><p>&nbsp;</p><p>По умолчанию оно ограничивает отвод бесконечной лавы только в незере (контролируется тегом биома «#createlimiteddraining:infinite_draining_biomes» и тегом жидкости «#createlimiteddraining:infinite_draining_fluids»).</p><p>&nbsp;</p><p>Это мой первый мод, и он предназначен для использования в моём собственном модпаке <a href=\"https://www.curseforge.com/minecraft/modpacks/path-of-truth\" target=\"_blank\" rel=\"nofollow\">Path of Truth</a>. Я использовал Copilot для получения подсказок по кодированию. Если вы обнаружите какие-либо ошибки или у вас есть предложения, пожалуйста, создайте проблему на GitHub! Спасибо!</p><p>&nbsp;</p><h3>Требуется Create 6.0.4+ на Forge 1.20.1 или NeoForge 1.21.1</h3>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

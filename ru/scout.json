@@ -1,0 +1,6 @@
+{
+  "bodyHash": "biHl2c33NBw=",
+  "content": "**Scout** — это мод, который фокусируется на «физическом» расширении инвентаря (добавлении слотов) за счет ношения различных типов сумок. Он в значительной степени вдохновлен [Satchels](https://www.curseforge.com/minecraft/mc-mods/satchels) от makamys.\n\n![Превью инвентаря с мешочком, улучшенным мешочком и установленным улучшенным саквояжем](https://raw.githubusercontent.com/Cynosphere-mc/Scout/main/.assets/inventory_preview.png)\n\nСумки устанавливаются через слоты [Trinkets](https://modrinth.com/mod/trinkets). У мешочков добавляется собственный слот в области ног.\n\nПредметы сохраняются непосредственно на самом предмете сумки. В подсказке к предмету отображается превью того, что внутри.\n\n## Взаимодействие модов\n* [EMI](https://modrinth.com/mod/emi) — Зоны исключения, стандартные рецепты для дерева рецептов\n* [REI](https://modrinth.com/mod/roughly-enough-items) — Зоны исключения (до версии 2.0.0)\n\n## Совместимость с Forge?\nScout был протестирован на базовом уровне совместно с [Sinytra Connector](https://modrinth.com/mod/connector). На момент написания статьи в [Connector Extras](https://modrinth.com/mod/connector-extras) пока нет возможности переводить Trinkets в Curios.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

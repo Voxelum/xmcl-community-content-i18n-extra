@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fElVjDxnfyE=",
+  "content": "[![](https://violetmoon.org/branding/vm0.png)](https://violetmoon.org)[![](https://violetmoon.org/branding/vm1.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/vm2.png)](https://twitter.com/vazkiimods)[![](https://violetmoon.org/branding/vm3.png)](https://discord.gg/vm)\n\n# 關於\n\nAutoRegLib 是一個模組，為 Vazkii 所製作的其他模組提供通用程式碼。它建立了一個內容註冊的抽象層，讓開發新功能給模組使用的過程能夠更快完成。\n\n除非有其他模組需要依賴它，否則無需下載 AutoRegLib，因為它本身不包含任何遊戲內容。\n\n![](https://violetmoon.org/branding/support.png)\n[![](https://violetmoon.org/branding/patreon.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/store.png)](https://store.vazkii.net)\n[![](https://violetmoon.org/branding/ch.png)](https://violetmoon.org/creeperhost)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

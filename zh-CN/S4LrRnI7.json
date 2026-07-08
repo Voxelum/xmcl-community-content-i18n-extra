@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eS3MESC04dw=",
+  "content": "Diggus Maximus 是一个适用于 Fabric 的模组，带来了快速便捷的“矿脉挖掘”功能。\n\n请务必查看所有启发了此模组的模组，[EasyExcavate](https://www.curseforge.com/minecraft/mc-mods/easyexcavate)、[Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)、[VeinMiner](https://www.curseforge.com/minecraft/mc-mods/veinminer)。\n\n这个模组旨在显著简化挖掘相同方块矿脉的过程。只需在挖掘方块时按住“挖掘”键（默认绑定到 ~，可配置），所有相连的方块都会被一并挖掘，节省了你逐个挖掘的时间。\n\n![](https://media.giphy.com/media/fAD8Jrt4HVqn8BEHF2/giphy.gif \"\")\n![](https://media.giphy.com/media/WTRhcX7JxVw2mpIiUW/giphy.gif \"\")\n\nDiggus Maximus 具有高度可配置性，包括以下功能：\n\n*   自动拾取挖掘的方块\n*   最大挖掘方块数量\n*   从起始方块开始的最大传播距离\n*   空手挖掘的能力\n*   工具耐久度\n*   玩家疲劳度\n*   黑名单/白名单\n*   工具损坏前自动停止\n*   支持挖掘 BlockTags\n\nDiggus Maximus 需要在客户端和服务器上都安装。在服务器上游玩时，服务器配置将覆盖客户端配置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

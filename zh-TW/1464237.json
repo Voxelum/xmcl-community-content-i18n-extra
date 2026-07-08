@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MtihefMvxyo=",
+  "content": "<h1><strong>自訂/更好</strong>的村民 <del>貨幣</del>交易</h1><p><em><span style=\"text-decoration:underline\">原名為村民貨幣，因此指令會反映此名稱。</span></em></p><p><em>（雖然是伺服器端的功能，但也適用於單機與離線模式）</em></p><p>將任何物品設定為村民交易的貨幣。預設為<strong>綠寶石</strong>（原版行為）。想讓村民用<strong>金錠</strong>交易？<strong>鑽石</strong>？<strong>餅乾</strong>？通通沒問題。</p><h2>如何更改貨幣</h2><p>你可以透過遊戲內指令或設定檔來更改貨幣。</p><p><strong>遊戲內：</strong>執行指令：<code>/villagercoin set &lt;物品ID&gt;</code> 範例：<code>/villagercoin set minecraft:diamond</code></p><p><strong>設定檔：</strong>編輯 <code>config/villager_coin.json</code> 並修改 <code>currencyItem</code> 設定。</p><h2>指令</h2><ul>\n<li><code>/villagercoin set &lt;物品&gt;</code> - 設定貨幣。</li>\n<li><code>/villagercoin reload</code> - 重新載入設定檔（立即更新所有村民）。</li>\n<li><code>/villagercoin info</code> - 查看目前使用的貨幣。</li>\n</ul><h3>安裝方式</h3><p>可作為伺服器端插件或單機模組使用。</p><p>&nbsp;</p><p>&nbsp;</p><p># 授權條款</p><p>&gt;如果我停止維護或未針對你的版本發布更新，本授權條款允許任何人進行分支與重新發布。只需註明原作者模組或我的使用者名稱即可。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

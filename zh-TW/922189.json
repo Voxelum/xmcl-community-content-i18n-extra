@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AWokayYl+uc=",
+  "content": "<p>這個模組讓你的Minecraft客戶端能使用VMC協定來操控虛擬主播模型。<br>\n本模組包含一個API，可供其他Minecraft模組建立並實作額外的BlendShapes，透過相同連線傳輸。</p><h2>BlendShapes</h2><p>BlendShapes是透過VMC傳送的數值，虛擬主播應用程式會用這些數值來觸發開關、移動模型等。預設情況下，模組會建立20多個BlendShapes並透過<code>127.0.0.1:35940</code>傳送。</p><p>這些BlendShapes代表遊戲中玩家的各種狀態與事件，包括：</p><ul>\n<li>相對生命值</li>\n<li>衝刺狀態</li>\n<li>潛行狀態</li>\n<li>承受/造成傷害</li>\n</ul><p>請參閱圖庫，查看使用玩家動作來觸發開關的範例。</p><h2>免責聲明與相容性</h2><p>本模組專為搭配開源虛擬主播應用程式<a href=\"/linkout?remoteUrl=https%253a%252f%252finochi2d.com%252f\" rel=\"nofollow\">Inochi Session</a>設計，並已通過<a href=\"https://github.com/gpsnmeajp/VMCProtocolMonitor\" rel=\"nofollow\">VMC協定監測器</a>測試。</p><p>並非所有VMC應用程式都能保證與VMC-MC相容，但以下實作版本經回報可正常運作：</p><ul>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252finochi2d.com%252f\" rel=\"nofollow\">Inochi Session</a></li>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fvrm.dev%252fen%252funivrm%252f\" rel=\"nofollow\">UniVRM</a> (需啟用相容模式)</li>\n</ul><p>VMC是Open Sound Control (OSC)的延伸協定，因此理論上VMC-MC也能與OSC應用程式相容。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

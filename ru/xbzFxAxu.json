@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QxVGaPMb3HE=",
+  "content": "![Логотип AL's Boss Rush](https://cdn.modrinth.com/data/cached_images/01e2479dcdadb8688891dcfe7c5c1a343aef0b62.png)\n\n#\n\nЭтот пакет делает AL's Boss Rush совместимым с Fresh Animations от Fresh_LX!\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Yi-bHjJ9aB4\" title=\"Плеер видео на YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nПоскольку AL's Boss Rush использует пользовательскую модель для своих Стражей и Старших Стражей, он несовместим с Fresh Animations.\n\nЭтот пакет исправляет эту проблему с помощью новых моделей, которые используют соответствующие анимации!\n\n \n\nВажно:\n\nЧтобы этот пакет заработал, необходимо загрузить его выше FA.\n\nТакже обратите внимание, что на данный момент только Страж и Старший Страж анимированы FA, поэтому Эндердрэгон и Уиттер остаются такими же, как в версии без FA.\n\nЗагрузите их в следующем порядке:\n\n- Этот пакет\n\n- Fresh Animations",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

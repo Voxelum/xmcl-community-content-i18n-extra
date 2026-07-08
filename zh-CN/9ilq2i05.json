@@ -1,0 +1,6 @@
+{
+  "bodyHash": "965G8unC/ek=",
+  "content": "# FirstJoinKit\n[![在Modrinth下载](https://img.shields.io/badge/Download-Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/firstjoinkit)\n## 概述\n本数据包为刚加入世界的玩家提供一套**初始工具**，包括**全套铁质工具**、一把**铁剑**和**16块牛排**。\n\nFirstJoinKit 让世界或服务器的**早期游戏阶段**变得**更轻松、更有趣**。\n\n## 配置\n\n若要配置给予玩家的物品，请解压数据包并导航至：\n\n`data/firstjoinkit/function/tick.mcfunction`\n\n打开该文件并编辑代码第一部分的物品名称，即可自定义初始物品。\n\n如需添加附魔或物品组件，请参考此指南：  \n[物品组件 - Minecraft Wiki](https://minecraft.wiki/w/Item_components)\n\n**示例（带有锋利V的附魔铁剑）**\n```\nexecute as @a[tag=!Joined] at @s run give @s iron_sword[enchantments={sharpness:5}]\n```\n## 我刚加入新世界的截图\n![截图](https://cdn.modrinth.com/data/cached_images/c5329880646198f3e75011cb2c16bfd198b83f7f.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

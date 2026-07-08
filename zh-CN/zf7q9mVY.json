@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QijdY/GST5A=",
+  "content": "一款适用于Vulkanite模组的路径追踪着色器包，效果优于演示包\n\nGitHub：[Dirt RT](https://github.com/sjrsjz/Dirt-RT)\n\n采用SVGF降噪技术，支持泛光、丁达尔效应、自动曝光\n\n**你需要加载PBR资源包，并使用Vulkanite 0.0.4才能正常启用着色器**\n\n**警告：请确保你的资源包与游戏版本匹配，否则你将看到一片漆黑的世界！！！**\n\n如果因异常的内存**或**栈溢出导致无法启动游戏，请尝试在JVM参数中添加 `-Dorg.lwjgl.system.stackSize=1024`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

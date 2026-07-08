@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UqvgmWGlYDs=",
+  "content": "<p><strong>描述：</strong></p><p>允許玩家一次挖取整條礦脈、砍伐整棵樹木，或執行任何基於工具的一次性動作。簡單易懂，同時也為模組包開發者提供了配置選項，例如工具或方塊黑名單、大小限制、更新頻率等。</p><p>&nbsp;</p><p><strong>特色功能：</strong></p><p>- 一次挖取整條礦脈</p><p>- 一次砍伐整棵樹木</p><p>- 大量收成/挖掘幾乎任何方塊</p><p>- 直接支援幾乎所有模組工具</p><p>- 工具黑名單（可反轉為白名單）</p><p>- 方塊黑名單（可反轉為白名單）</p><p>- 可配置速度、範圍、距離及消耗</p><p>- 每個客戶端可獨立控制偏好設定</p><p>- 為模組包開發者提供每個工具的獨立覆寫設定</p><p>- 支援礦物辭典以進行黑名單及覆寫設定</p><p>- 遊戲內即時配置，無需重新啟動或重載</p><p>- 內建 TPS 保護機制，防止遊戲明顯卡頓</p><p>- 可自訂形狀挖掘</p><p>- 錯誤操作時可使用復原指令</p><p>- 可自訂方塊分組</p><p>- 提供事件掛鉤以實現跨模組整合與行為</p><p>&nbsp;</p><p><strong>注意事項：</strong></p><ul>\n<li>由於 Minecraft 使用一些過時的輸入庫，挖掘按鍵在非美式鍵盤上可能無法正常運作。請盡量避免將符號或特殊字符設定為此按鍵。</li>\n</ul><p>&nbsp;</p><p><strong>許可權限：</strong></p><p>除非另有說明，否則您可以在您的模組包中使用此模組。同時必須遵守 Minecraft 的 EULA。</p><p>&nbsp;</p><p><strong>Discord：</strong> <a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscordapp.com%252finvite%252fAevsYGa\" target=\"_blank\" rel=\"nofollow\">https://discordapp.com/invite/AevsYGa</a>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

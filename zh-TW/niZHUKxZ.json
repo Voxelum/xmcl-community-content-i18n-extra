@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aN30vfKnzak=",
+  "content": "這是 [LightSpeed](https://modrinth.com/mod/lightspeed) 模組的非官方高版本（1.20.1+）移植版。  \n它移除了已內建於原版 Minecraft 1.20.1 中的模型烘焙最佳化，僅保留資源包快取功能，藉此加快啟動時間。  \n（目前僅計畫移植 Forge 1.20.1 與 NeoForge 1.21.1 版本。）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

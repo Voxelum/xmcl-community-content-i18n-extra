@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nUnp5mMoets=",
+  "content": "這是一個非常簡單的模組，僅添加一個物品——夢境之石。  \n在鐵砧上使用它可以使裝備變得無法破壞。  \n\n從 v1.4 版本開始，它使用 Mixin 攔截耐久度消耗，而非原版的不破壞標籤。  \n您可以透過設定檔案配置哪些物品無法與夢境之石一起使用。  \n\n![dream](https://cdn.modrinth.com/data/cached_images/dc9b8622426d8d20ceb4a2660c9b201679abad31_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eLui39wY/AI=",
+  "content": "<h1>經驗水晶</h1><p>是否曾希望能夠將辛苦賺取的<strong>經驗值</strong>安全儲存，避免死亡時全部損失？或是想與朋友分享經驗？透過<strong>經驗水晶</strong>，你可以用生存模式平衡的可合成物品來<strong>儲存</strong>和<strong>提取</strong>經驗值。支援伺服器與單人遊戲。</p><p><img src=\"https://media.forgecdn.net/attachments/1242/115/textures-png.png\" alt=\"物品圖示\"></p><h2>功能特色</h2><ul>\n<li>將經驗值儲存於可合成的水晶中</li>\n<li>水晶分多種等級，各有不同容量：\n<ul>\n<li>第一階：3級</li>\n<li>第二階：10級</li>\n<li>第三階：30級</li>\n<li>第四階：50級</li>\n<li>第五階：無限儲存</li>\n</ul>\n</li>\n<li>專為生存模式設計，合成配方平衡</li>\n<li>多項成就進度</li>\n<li>操作簡便：右鍵點擊即可存取經驗</li>\n<li>管理員與一般玩家皆可調整設定選單</li>\n<li>伺服器端運作（客戶端需資源包）</li>\n</ul><h2>設定指令</h2><p>管理員可使用 /trigger xp_crystals.globalsettings</p><p>玩家可使用 /trigger xp_crystals.settings</p><p><strong>玩家設定</strong></p><ul>\n<li>音效開關：每位玩家可獨立開關音效</li>\n</ul><p><strong>全域設定</strong></p><ul>\n<li>嚴格模式：啟用精確經驗值計算（預設開啟）</li>\n<li>全域音效開關</li>\n<li>極限模式：死亡時自動獲得專屬成就</li>\n<li>解除安裝功能：清除模組殘留資料</li>\n</ul><h3>安裝說明</h3><ul>\n<li>單人遊戲：將模組放入mods資料夾即可</li>\n<li>多人遊戲：伺服器需安裝模組，客戶端僅需資源包</li>\n</ul><h2>需要協助？想提供建議？</h2><p>加入我們的<a href=\"https://discord.gg/PjaKmhWEFT\" target=\"_blank\" rel=\"nofollow\">Discord社群</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

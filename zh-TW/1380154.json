@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kRQiNyywumM=",
+  "content": "<h1>Qliphoth覺醒次元</h1><p>一個簡單實用的模組，將Qliphoth覺醒中的兩名頭目移至獨立次元，使其更易尋找與進入。</p><h2>特色功能</h2><ul>\n<li>將Qliphoth覺醒的兩名頭目置於專屬次元中</li>\n<li>使用對應頭目之眼即可簡單啟動：\n<ul>\n<li><strong>慈悲之眼</strong> → 慈悲次元</li>\n<li><strong>王國之眼</strong> → 王國次元</li>\n<li><strong>嚴厲之眼</strong> → 嚴厲次元</li>\n</ul>\n</li>\n<li>手持對應之眼時<strong>潛行+右鍵點擊</strong>即可啟動</li>\n<li>另提供指令傳送方式</li>\n</ul><h2>使用方式</h2><h3>主要方法（使用眼睛）：</h3><ol>\n<li>取得<strong>頭目之眼</strong></li>\n<li>手持眼睛時<strong>潛行+右鍵點擊</strong>傳送至對應次元</li>\n</ol><h3>替代方法（使用指令）：</h3><ul>\n<li><code>/fdlib chesed_dim</code> - 傳送至慈悲次元</li>\n<li><code>/fdlib malkuth_dim</code> - 傳送至王國次元</li>\n<li><code>/fdlib geburah_dim</code> - 傳送至嚴厲次元</li>\n</ul><h3>次元ID：</h3><ul>\n<li><code>qliphoth_awakening_dimensions:chesed_dim</code></li>\n<li><code>qliphoth_awakening_dimensions:malkuth_dim</code></li>\n<li><code>qliphoth_awakening_dimensions:geburah_dim</code></li>\n</ul><h2>設定選項</h2><p>本模組提供以下設定項目：</p><ul>\n<li><strong>啟用/停用眼睛傳送功能</strong> - 切換潛行持眼時是否進行傳送</li>\n<li><strong>調整傳送冷卻時間</strong> - 修改傳送使用間隔時間</li>\n<li>可透過<code>config</code>資料夾中的設定檔案進行配置</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

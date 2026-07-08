@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fK/9z4BDB6s=",
+  "content": "# Мне очень жаль\nПривет! Это моя первая модификация для Fabric, и я допустил ошибку, из-за которой мод стал непригодным для использования. Приношу свои извинения. Если вы обнаружите какие-либо баги, напишите мне в Signal: polokalap.01\n\nЭто очень простой индикатор здоровья.\nПо умолчанию вы можете включать/выключать его, нажимая клавишу U, но вы можете изменить этот параметр в настройках игры.\n\n# Цвета:\n20–15: зелёный\n15–10: жёлтый\n10–5: золотой\n5–0: красный\n\nЕсли у игрока осталось меньше 5 единиц здоровья (2,5 сердца), мод будет отображать десятичные значения.\n\nНапример:\n\nPolokalap 20\n\nPolokalap 8\n\nPolokalap 3,17\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BhAXjfX-lQ4\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

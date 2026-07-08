@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KvMrY/kSiQg=",
+  "content": "<p>Этот мод улучшает логирование при доступе мода к <code>LegacyRandomSource</code> из неправильного потока, что приводит к сбою <code>java.lang.IllegalStateException: Accessing LegacyRandomSource from multiple threads</code>, добавляя информацию о втором потоке, участвовавшем в сбое.</p><p><strong>Отказ от ответственности:</strong> этот мод предназначен исключительно для отладки и не должен устанавливаться без необходимости для отладки из-за дополнительной нагрузки, которую он создает на <code>LegacyRandomSource</code>!</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

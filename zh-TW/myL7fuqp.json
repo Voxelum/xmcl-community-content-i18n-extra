@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cxrQeNqHjqw=",
+  "content": "[![Rocket node 橫幅](https://cdn.modrinth.com/data/cached_images/3008c781a7053a397f4ab99a8423285fdb1783af_0.webp)](https://rocketnode.com/frankv)\n\n---\n\n此模組允許掉落物合併，即使它們的堆疊已滿。這有助於減少因小範圍內大量掉落物造成的延遲。\n\n它應能與大多數模組相容，但如果無法與您遊玩的模組正常運作，請回報問題。\n\n目前功能：\n- 讓掉落物合併超過其堆疊上限，且不改變實際最大堆疊數量\n- 可自訂掉落物合併距離\n- 可自訂掉落物最大尺寸\n- 可自訂疊加顯示大小與渲染距離\n- 可設定黑名單或白名單，依名稱、標籤或維度指定你不希望超過預設堆疊限制的物品。你可以從通用設定檔中新增它們，或是為其指定特定物品標籤。\n\n順帶一提，名稱裡有12個a哦。🍔\n\n<img src=\"https://cdn.modrinth.com/data/myL7fuqp/images/ae86decac06068d8aed8af5aa82648d83b2ddb6e.gif\"/>\n<br>\n\n---\n\n[![抱歉，但我真的很需要那些酷酷的錢](https://www.bisecthosting.com/partners/custom-banners/04c26dd8-c4e1-46b5-8681-e491675d41da.webp)](https://bisecthosting.com/frankV)\n\n---\n\n**我與 RocketNode Hosting 合作了！**\n\nRocketNode 在全球提供頂級伺服器託管服務，只需點擊幾下即可設定您的伺服器！他們直觀的控制面板讓伺服器管理變得輕而易舉，您甚至可以排程自動重啟，無需任何程式知識。\n\n使用折扣碼 FRANKV，即可在任一款遊戲伺服器中享有首月 25% 折扣。立即開始：https://rocketnode.com/frankv",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

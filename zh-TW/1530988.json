@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7Oxhnju+dpM=",
+  "content": "<h1>Sable Jade 相容模組</h1><p>Sable Jade 相容模組是 Minecraft 1.21.1 的 NeoForge 客戶端相容性模組。</p><p>它的工作很簡單：當一個方塊屬於 Sable 子層級或移動結構時，Jade 應該辨識出你實際上正在觀看的方塊，而不是來自主要層級的一些錯誤方塊。</p><h2>它修復了什麼</h2><ul>\n<li>修正了 Sable 子層級上的 Jade 方塊選取問題。</li>\n<li>使 Jade 的提示框標題、圖示和選取的方塊與準星下的實際方塊一致。</li>\n<li>使用具備 Sable 感知能力的客戶端重新追蹤路徑，以便在提示框鎖定目標時，移動結構和子層級的渲染使用正確的姿態。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

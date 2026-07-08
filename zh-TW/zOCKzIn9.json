@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jzSTmkyDjRo=",
+  "content": "這是我的 [Remodeled Mobs 包](https://modrinth.com/resourcepack/kassys-mobs) 的 [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) 相容版本。\n\n需要 Optfine 或 EMF 及 ETF\n- [EMF](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)\n- [ETF](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)\n\n_為了讓這個材質包正常運作，你必須先安裝 Fresh Animations，然後再安裝這個材質包，順序不可顛倒。_\n\n應該看起來像這樣：\n![應該看起來像這樣！](https://cdn.modrinth.com/data/cached_images/8d2cbb29813d0bf2d39db30f688b33d7e99f350f.png)\n\n目前的生物：\n雞（所有變種）\n羊\n豬（所有變種）\n牛（所有變種）\n苦力怕\n蜘蛛\n洞穴蜘蛛\n魷魚\n螢光魷魚\n殭屍（9 種隨機變種）\n屍殼（3 種隨機變種）\n\n注意：要讓隨機變種生效，你需要在 Optfine 或 ETF 設定中啟用隨機實體選項。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

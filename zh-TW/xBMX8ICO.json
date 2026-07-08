@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6F2dFnItAA4=",
+  "content": "![](https://github.com/e-splat/WorldEditItems/blob/Quilt/Fabric/cosoworldedititems.png?raw=true)\n\n是否覺得WorldEdit使用原版物品會破壞遊戲體驗？這個模組就是為你而設計的！本模組新增三種專用物品來搭配WorldEdit使用，讓你不必再使用原版物品。\n\n**需搭配 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)**\n\n支援 **Fabric** (需安裝 [Fabric API](https://modrinth.com/mod/fabric-api))、**Quilt** (使用Fabric版本) (需安裝 [Quilt Standard Libraries](https://modrinth.com/mod/qsl)) 及 **Forge**\n\n## 安裝說明\n\n1. 確認已安裝WorldEdit (未安裝則本模組無效)\n1. 將.jar檔案放入mods資料夾\n1. 在遊戲中手持魔杖/導航杖/超級鎬，輸入指令 `/tool selwand` `/tool selwand` (目前超級鎬功能尚未實裝，後續會更新)\n1. 完成後即可嘗試使用魔杖斧或導航杖查看效果\n\n**注意**：若指令無法正常運作，請向 [WorldEdit開發團隊](https://github.com/enginehub/worldedit/issues) 回報問題",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

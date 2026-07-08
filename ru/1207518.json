@@ -1,0 +1,6 @@
+{
+  "bodyHash": "P7WAjG4jgpU=",
+  "content": "<p>Добро пожаловать в PortalJS!</p><h1>Что такое PortalJS?</h1><pЕсли коротко, это возможность создавать пользовательские порталы с помощью Kubejs.</p><h1>Будет ли этот мод портирован на версию 1.20.1?</h1><p>Да! Мне хотелось добавить ещё несколько функций в мод <em>до</em> портирования этого мода назад.</p><h1>Что делает этот мод?</h1><p>Вы можете создать пользовательский портал с помощью KubeJS.</p><p>Вот как можно сделать печально известный портал в эфир... который отправляет вас в нether:</p><p>Внутри ваших стартовых скриптов:</p><pre><code>PortalEvents.register(event =&gt; {\n    event.create()\n        .frameBlock(\"minecraft:glowstone\") // обязательно\n        .lightWithWater()\n        .setDestination(\"minecraft:the_nether\") // обязательно\n})</code></pre><p>Помните: за всей информацией обращайтесь к вики!</p><h1>Могу ли я использовать этот мод в своём модпаке?</h1><p>Конечно! Не стесняйтесь использовать его в своём модпаке.</p><h3>Статистика загрузок</h3><p>CurseForge: <img src=\"https://img.shields.io/curseforge/dt/1207518\" alt=\"Загрузки на CurseForge\"><br>\nModrinth: <img src=\"https://img.shields.io/modrinth/dt/qgrvoFmg\" alt=\"Загрузки на Modrinth\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

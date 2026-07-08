@@ -1,0 +1,6 @@
+{
+  "bodyHash": "K5NjrfMgKSo=",
+  "content": "# 史詩調整  \n\n為 [Epic Fight](https://modrinth.com/mod/epic-fight) 模組提供的小型附加功能。新增幾項額外設定選項：  \n\n**版本 `1.1` (需 Epic Fight >= `20.11`):**  \n\n- `filter_animation_first_person`：當玩家**未**持有*戰鬥偏好*物品時，強制使用原版第一人稱視角渲染（適用於非戰鬥動作）。(預設: `true`)  \n- `enforce_mode`：啟用時，玩家無法在手握*戰鬥偏好*物品時手動切換至*原版模式*，或**未**持有戰鬥偏好物品時切換至*戰鬥模式*。若 `canSwitchPlayerMode` 遊戲規則被禁用則此選項無效。(預設: `true`)  \n- `autoswitch_mode`：啟用時，當玩家切換至*戰鬥偏好*物品時會自動轉為*史詩戰鬥模式*，切換至其他物品時則會自動恢復*原版模式*。若 `canSwitchPlayerMode` 遊戲規則被禁用則此選項無效。(預設: `true`)  \n\n---  \n\n**版本 `1.0` (適用 Epic Fight <= `20.9`):**  \n\n- `filter_animation_first_person`：僅在 Epic Fight 的 `filter_animation` 關閉時生效。設為 `true` 可避免在*採礦模式*下以第一人稱視角渲染史詩戰鬥動畫。(預設: `true`)  \n- `enforce_mode`：啟用時，若玩家手持物品已被指定為特定模式（即物品被加入 Epic Fight 的 `battle_autoswitch_items` 或 `mining_autoswitch_items` 列表），則無法手動切換*戰鬥-*或*採礦模式*。(預設: `true`)  \n\n## 支援平台  \n\n[![bisecthosting](https://www.bisecthosting.com/partners/custom-banners/5ea61298-7966-4331-945f-da7b80663a38.webp)](https://bisecthosting.com/hd42)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

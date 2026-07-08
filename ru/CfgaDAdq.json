@@ -1,0 +1,15 @@
+{
+  "bodyHash": "nmTwkCw22aw=",
+  "content": {
+    "error": {
+      "message": "Input data may contain inappropriate content. For details, see: https://help.aliyun.com/zh/model-studio/error-code#inappropriate-content",
+      "type": "data_inspection_failed",
+      "param": null,
+      "code": "data_inspection_failed"
+    },
+    "id": "chatcmpl-461b3478-3702-4e95-911c-9e2bd4f9ec71",
+    "request_id": "461b3478-3702-4e95-911c-9e2bd4f9ec71"
+  },
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

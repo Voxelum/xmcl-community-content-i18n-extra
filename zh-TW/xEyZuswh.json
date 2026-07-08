@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BcSMG55OhwQ=",
+  "content": "# Animatica Refabricated\n\nAnimatica Refabricated 是 Animatica 的一個分支，支援更新的 Minecraft 版本。<br/>\n這是一款用於 Fabric 模組載入器的 Minecraft 模組，旨在載入 MCPatcher/OptiFine 的[動態紋理格式](https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/custom_animations.txt)。<br/>\n\n## 此模組支援哪些資源包？\n\nAnimatica 為使用**自訂動態紋理**的資源包增加了支援。<br/>\n這包括：\n- 動態 GUI 紋理\n- 動態實體紋理\n- 動態方塊實體紋理\n- 動態盔甲紋理\n- 其他動態紋理（動態方塊與物品為原版功能）\n\n## Animatica 不支援：\n- 完全自訂 GUI（請使用 [OptiGUI for Fabric](https://www.curseforge.com/minecraft/mc-mods/optigui)）\n- 自訂實體模型（請使用 [CEM for Fabric](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)）\n- 實體模型部件 3D 動畫（請使用 [CEM for Fabric](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)）\n- 任何其他 MCPatcher/OptiFine 資源包功能，例如連接紋理等\n\n**這些功能永遠不會在 Animatica 中實作。**<br/>\n\n### Animatica 僅專注於動態紋理。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

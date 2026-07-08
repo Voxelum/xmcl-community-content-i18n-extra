@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZeqhzDfLE+4=",
+  "content": "# Уменьшить количество отображаемых листьев\n\nCull Less Leaves пропускает отрисовку внутренних слоёв листьев, что улучшает производительность.\n\n## Производительность\n\nВ худшем случае, при просмотре мангрового болота, этот мод может обеспечить до _**30%-ного роста производительности**_ (измерено на недорогом оборудовании).\n\nВместо того чтобы оставлять только внешний слой листьев, Cull Less Leaves также отрисовывает определённое количество слоёв, заданных в конфигурации.\n\n**[Лучше всего работает с Sodium](https://modrinth.com/mod/sodium)**\n\n## Почему бы просто не использовать [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)?\n\nCull Leaves отрисовывает только самый внешний слой листьев, что может выглядеть довольно некрасиво (см. быстрое удаление в изображении ниже), но **Cull Leaves даёт больший прирост производительности, чем Cull Less Leaves**.\n\n## Сравнение\n\n![comparison](https://i.imgur.com/yMUQxMX.png)\n\n[![](https://www.bisecthosting.com/partners/custom-banners/08bbd3ff-5c0d-4480-8738-de0f070a04dd.png)](https://bisecthosting.com/xander)\n\nКонфигурация Sodium\n\n![sodium config](https://i.imgur.com/JE0uJ99.png)\n\nКонфигурация меню мода\n\n![mod menu config](https://i.imgur.com/RYNVj3b.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

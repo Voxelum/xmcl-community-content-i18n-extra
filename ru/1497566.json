@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/tukJd42i28=",
+  "content": "<h1><a href=\"/linkout?remoteUrl=https%253a%252f%252fstarted.ink%252f\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/1472108/description_e60a590a-e5e2-42f8-bc98-24155f26f54f.png\" alt=\"\" width=\"700\" height=\"112\"></a></h1><h1><strong><span style=\"color:#fff\">Это мод для оптимизации памяти.</span></strong></h1><p><br><strong><span style=\"color:#fff\">Он ограничивает и удаляет кэш шаблонов структур, чтобы снизить ненужное использование памяти в ходе обычной игры и уменьшить долгосрочную нагрузку на производительность.</span></strong><br><strong><span style=\"color:#fff\">В тестах он сократил использование памяти примерно на 20%.</span></strong><br><strong><span style=\"color:#fff\">Эта оптимизация не нарушает целостность структур и их генерацию, поэтому её безопасно добавлять в ваш модпак/сервер.</span></strong><br><strong><span style=\"color:#fff\">По умолчанию предел кэша в конфигурации составляет 128.</span></strong><br><strong><span style=\"color:#fff\">Более низкие значения дополнительно снижают нагрузку на память, однако если установить слишком низкое значение, это может привести к дополнительной нагрузке на CPU.</span></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

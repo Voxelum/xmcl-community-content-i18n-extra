@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IbvDmGz4l/E=",
+  "content": "<p>此模組修復了在 Minecraft Forge 1.20.1 上，Epic Fight 與 True Ending 之間的一個關鍵相容性問題。</p><p>當兩個模組同時安裝時，終界龍在最終階段可能會永久處於無敵狀態，這是因為 Epic Fight 阻止了龍按照 True Ending 的預期降落在出口傳送門上。這導致在生存模式下無法擊殺終界龍。</p><p>此相容性模組強制在伺服器端移除終界龍的無敵狀態，確保戰鬥始終能正常完成。</p><p>✔ 適用於現有世界</p><p>✔ 僅需伺服器端安裝</p><p>✔ 無需任何配置</p><p>✔ 專為 Forge 1.20.1 上的 Epic Fight + True Ending 設計</p><p>此模組不會改變龍的行為、AI 或動畫——它僅防止遊戲陷入無法進行的軟鎖定狀態。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

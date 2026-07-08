@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9vT3fkxSotY=",
+  "content": "![標誌](https://i.imgur.com/9PXWMXQ.png)\n\n# 實體視距調整\n這個模組讓你可以修改實體變得可見的距離！\n它同時適用於客戶端和伺服器，且兩端都不強制要求安裝（也就是原版客戶端/伺服器仍可連接）。\n如果你想限制物品展示框、盔甲架以及其他任何（包括模組新增的）實體的渲染距離，這會是個理想的選擇。\n\n你可以透過「視訊設定」中的「實體距離設定」或使用指令 `/entityviewdistance` 來調整選項。\n\n*此模組僅適用於 Fabric Mod Loader 並需搭配 Fabric API 或相容版本！*\n\n如有任何疑問，歡迎到我的 [Discord](https://pb4.eu/discord) 提問。\n\n[也歡迎查看我的其他模組和專案，說不定你會覺得它們很有用！](https://pb4.eu)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

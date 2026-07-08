@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CO5M0y2Qpvs=",
+  "content": "# 低火焰介面\n\n一個簡單的 Minecraft 資源包，僅在您的介面上將火焰顯示調低。\n此資源包與大多數資源包的不同之處在於，它**僅**影響介面；\n地面上的火焰保持不變。\n\n## 圖庫\n\n![第一人稱視角下著火的外觀示例](https://raw.githubusercontent.com/ArkhamCookie/better-low-fire-resource-pack/refs/heads/main/docs/gallary/lowfire.gif)\n\n## 致謝\n\n火焰的紋理由 [gitq](https://modrinth.com/user/gitq) 創建，並根據 MIT 許可證授權。\n此資源包的標誌是藍色火焰動畫之一。\n**gitq 為此資源包完成了所有艱難的工作。**\n我只是以不同的方式打包，使其不改變地面上的火焰。\n他們的原始資源包是 [Better Low Fire](https://modrinth.com/resourcepack/better-low-fire)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

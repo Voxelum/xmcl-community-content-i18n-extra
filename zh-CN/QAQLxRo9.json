@@ -1,0 +1,6 @@
+{
+  "bodyHash": "u41ULv9Uy8c=",
+  "content": "Caelum模组改变了Minecraft中星辰与天体的外观及位置。\n\n原版模组由[Nuparu00](https://modrinth.com/user/Nuparu00)开发，可在此处[查看](https://modrinth.com/mod/caelum)。原版源代码与完整功能列表也可在该处获取。\n\n本版本模组适配了Minecraft 1.19.2版本，基于[jmb05](https://modrinth.com/user/jmb05)制作的Fabric移植版，该移植版支持更高版本Minecraft，可在此处[获取](https://modrinth.com/mod/caelum-refabricated)。\n\n**Caelum - 阿尔达工艺特别版**在保留原版精髓的同时，针对阿尔达工艺服务器调整了部分核心功能。具体改动如下：\n\n* 采用纹理贴图(caelum:skybox/stars.png)渲染星辰，色彩更趋真实\n* 根据原始[星体数据](https://github.com/frostoven/BSC5P-JSON-XYZ)重新计算星辰位置，考虑每颗恒星的自行运动，使其在夜空的排布近似呈现[阿尔达纪元时期](https://scifi.stackexchange.com/questions/2237/in-what-time-period-does-the-lord-of-the-rings-take-place-in-the-real-world/252204#252204)的天象\n* 太阳位置现根据玩家纬度、地球轴倾角（至点与分点）进行模拟，并基于[此模型](https://github.com/barrycarter/bcapps/blob/master/ASTRO/solstices-and-equinoxes.txt.bz2)调整了地球轴进动的影响\n* 为天空盒渲染新增多层效果，支持云层等叠加纹理(caelum:skybox/clouds.png)\n* 为阿尔达工艺中的摩瑞亚矿坑添加了条件式天空盒与雾气渲染\n\n本模组需依赖[FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes)和[Iris Shaders](https://modrinth.com/mod/iris)。部分光影包若正确调用Iris提供的方法，可支持自定义日月位置，但因各光影实现方式不同，实际效果可能存在差异。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qsdNPt67CGY=",
+  "content": "# 慢速挖掘\n\n[![在Modrinth下載](https://img.shields.io/badge/Download-Modrinth-1bd96a?style=for-the-badge\\&logo=modrinth\\&logoColor=white)](https://modrinth.com/datapack/slow-mining)\n[![Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xS85W48Cb3)\n\n## 概述\n\n此資料包將玩家**挖掘速度降低75%**（*minecraft:block_break_speed = 0.25*）。\n\n**慢速挖掘**使世界或伺服器的**前期**與**後期**變得**更具挑戰性與趣味性**。\n\n## 設定\n\n若要調整玩家破壞方塊的速度，請解壓縮資料包，開啟資料夾並前往：\n\n**`data/slowmining/function/tick.mcfunction`**\n\n開啟檔案並修改**第2行程式碼**中的數值來自訂挖掘速度。\n\n## ⚠️ 重要事項\n\n若想**停用或移除**此資料包，請執行：\n\n**`/function slowmining:disable`**，\n\n否則資料包**將無法正確停用**。\n\n## 幫助\n\n執行 **`/function slowmining:help`** 取得幫助，或加入我們的 **[Discord](https://discord.gg/xS85W48Cb3)**：\n\n![幫助選單](https://cdn.modrinth.com/data/cached_images/b50a9b66793ae4d3cf07434d13cc4992cb98761b.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

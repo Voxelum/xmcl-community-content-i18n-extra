@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Jkc/pAkO0Ps=",
+  "content": "## 描述\n显示您当前位置的精确坐标。\n\n![预览](https://cdn.modrinth.com/data/3opMvIxN/images/6985cec8e16048113b2945f438fe3e651a823eea.png)\n\n## 使用方法\n要切换坐标显示的可见性，您需要输入以下命令\n\n``` /trigger bizcub.coords.t ```\n\n## 依赖项\n- Fabric加载器需要 [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HP1UyNDWhlY=",
+  "content": "## Наугтириум\n\n#### Патчи, совместимые с Nothirium, включая такие моды, как LoliASM.\n\n**Совместимо с RenderLib 1.4.1 + Nothirium 0.4.2 и выше**\n\nТекущие патчи:\n\n1. Исправлена совместимость с `onDemandAnimatedTextures` от `LoliASM` для блоков и объектов. Теперь вы можете использовать преимущества обеих систем.\n2. Устранена проблема с не полностью реализованной работой `ChunkAnimator`: начальные рендерные чанки не добавляются в очередь на анимацию.\n3. Исправлена совместимость с функцией `Smart Animation` от Optifine. Если у вас установлен LoliASM, пожалуйста, обновитесь как минимум до версии 5.23 или выше.\n4. Исправлена совместимость с пользовательским рендерером от Multiblocked.\n\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/naughthirium) + [Modrinth](https://modrinth.com/mod/naughthirium)\n\n### Лицензия\n\nВсе права защищены",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

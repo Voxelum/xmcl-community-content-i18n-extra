@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CzzyPX/R2Ao=",
+  "content": "![横幅](https://cdn.modrinth.com/data/cached_images/3abed17ca064afe0d3719cd815b9d4193dbf2ac5.png)\n\n---\n\n中央兼容性是我为自己制作的一系列数据包/模组，用于为不同模组之间添加兼容性支持。我觉得这些内容也可以公开给其他人使用，并整合到他们的整合包中。\n\n每个兼容包都按原样提供，并包含所有必要的数据，以确保它们能够在模组之间正常运行。默认情况下，它们以数据包的形式呈现，但如果你更喜欢将其加载为模组，也可以作为模组安装。\n\n## 当前可用的兼容包\n你可以在[中央兼容性合集](https://modrinth.com/collection/oenqPulj)中查看所有适用于特定模组的兼容包。\n\n## 整合包与使用\n你可以自由地将这些内容包含在整合包中，或者出于个人用途进行修改。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

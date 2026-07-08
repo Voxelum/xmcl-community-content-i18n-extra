@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AalhRy/f0u0=",
+  "content": "<p>Подобно более новым версиям Minecraft</p><p>&nbsp;</p><p>Всякий раз, когда вы стреляете в цветок хоруса стрелой, он убирает блок и выпадает.</p><p>&nbsp;</p><p>То же самое касается тыквы и дыни</p><p>&nbsp;</p><p>Файл конфигурации по умолчанию&nbsp;</p><p>arrowharvest.cfg</p><p>&nbsp;</p><pre># Файл конфигурации\n\narrowharvest {\n    # Уничтожать эти блоки как инструмент [по умолчанию: [minecraft:cocoa]]\n    S:willDestroyBlock &lt;\n        minecraft:cocoa\n     &gt;\n\n    # Выпадать в виде стека предметов [по умолчанию: [minecraft:chorus_flower], [minecraft:pumpkin], [minecraft:melon_block], [minecraft:web]]\n    S:willDropAsBlock &lt;\n        minecraft:chorus_flower\n        minecraft:pumpkin\n        minecraft:melon_block\n        minecraft:web\n     &gt;\n}\n\n\n</pre><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

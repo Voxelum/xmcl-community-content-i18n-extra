@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c3oNfOfPlGg=",
+  "content": "# 模組概述\n這是一個輔助模組，為 Beyond Dimensions 模組中的 /bdtools 指令擴充更多功能，並新增一些其他小型實用工具。主要設計來幫助伺服器管理員/擁有者更輕鬆地管理維度網路。\n由於目前模組功能與名稱有顯著差異，此模組已封存並更名為 Beyond_Integration，旨在為 Beyond Dimension 提供更全面的整合支援。\n# 核心功能\n\n### 網路管理\n\n對於 OP 玩家（權限等級 >= 2）：\n\n/bdtools network list – 列出所有網路  \n/bdtools network info – 查看網路資訊  \n/bdtools network insert – 將物品插入網路  \n/bdtools network giveTerminal – 給予玩家終端機  \n/bdtools network batchCreate – 批量建立網路  \n/bdtools network openAny – 開啟任意網路的 GUI  \n\n對於一般玩家：\n\n/bdtools open – 開啟網路 GUI  \n/bdtools addMembers – 將成員加入網路  \n/bdtools addManagers – 將管理員加入網路  \n/bdtools removePlayers – 從網路移除玩家  \n/bdtools myNetworks – 查看自己的網路  \n\n### 附魔書分離\n\n自動分離 – 當多附魔書插入維度網路時，會自動分離成單一附魔書（可設定開關）  \n經驗值消耗 – 分離消耗根據附魔種類與等級計算  \n可自訂公式 – 支援自訂消耗計算公式  \n等級清單系統 – 不同附魔有不同的消耗倍率  \n\n### 語言\n\n預設輸出語言：英文（en_us）  \n可透過修改設定檔變更語言，路徑為：  \nsaves/<世界>/serverconfig/beyond_cmd_extension-server.toml  \n內建語言選項：zh_cn（簡體中文）與 en_us（英文）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

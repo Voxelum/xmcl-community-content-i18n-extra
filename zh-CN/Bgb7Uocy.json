@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DoxjzeQrcp8=",
+  "content": "厌倦了手动编写KubeJS脚本？那么这个模组就是为你准备的！\n\n# 如何使用\n\n> 1.  打开主界面，输入指令`/visualrecipeeditor maingui`或`/vre maingui`\n> 2.  要选择配方，点击文件图标，输入文件名及扩展名，选择目录（服务器/客户端/启动项，通常选服务器），然后点击“确认”\n> 3.  要添加配方，点击“添加”按钮并选择配方类型（目前仅支持3x3和2x2合成网格）。\n> 4.  在网格和输出槽中放入材料，点击“生成”\n> 5.  就这样，你的文件已保存到所选目录，即可供KubeJS加载使用\n\n# 当前功能\n\n1.  3x3和2x2合成台配方生成器\n2.  标签支持\n3.  文件选择器\n4.  单个文件支持多个配方\n5.  Create模组：机械合成器（1.2.0及以上版本）\n6.  按ID移除配方（1.3.0及以上版本）\n\n# 计划功能\n\n1.  更多模组配方支持\n2.  更多配方移除方式\n3.  提示框\n4.  其他原版配方支持\n\n \n\n发现了漏洞？请在此反馈：[https://discord.gg/VwUw5fTCTA](https://discord.gg/VwUw5fTCTA)\n\n灵感来源：[https://www.curseforge.com/minecraft/mc-mods/recipe-generator](https://www.curseforge.com/minecraft/mc-mods/recipe-generator)\n\n_注：本模组并非要取代配方生成器，它只是我的业余项目，我想看看用GUI生成文件能走多远_\n\n_最后更新：2026年4月11日_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

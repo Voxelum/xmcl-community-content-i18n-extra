@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2q3rd9i6ezI=",
+  "content": "![探险者指南针](https://i.imgur.com/HWRqFas.png)\n\n**探险者指南针**是一种能让你定位世界中任意结构的物品。如果你正在寻找能定位生物群系的指南针，不妨看看[自然指南针](https://modrinth.com/mod/natures-compass)。\n\n## 特性\n\n- 手持探险者指南针右键点击可打开GUI界面，在其中选择要搜索的结构或结构群\n- 潜行+右键点击可重置指南针状态\n- HUD会显示结构搜索的相关信息\n- 当指南针未指向任何结构时，将指向世界出生点\n- 支持所有已注册的结构，包括原版与模组添加的\n- 可在配置文件中调整最大搜索半径、禁用黑名单结构等属性\n\n## 图片\n\n![HUD会显示已定位结构的信息](https://i.imgur.com/h6ZHGDM.png)\n\n*HUD显示已定位结构的信息*\n\n![通过指南针GUI可选择要搜索的结构](https://i.imgur.com/Q49Pvjv.png)\n\n*通过指南针GUI可选择要搜索的结构*\n\n## 合成配方\n\n![配方](https://i.imgur.com/xSE8VSc.png)\n\n*探险者指南针的合成配方*\n\n## 整合包\n\n是的，你可以在你的整合包中使用本模组。\n\n## 支持\n\n如果你喜欢这个模组并想支持项目发展，欢迎[通过PayPal捐赠](https://www.paypal.com/donate/?business=46ZL2PNVP4XKE)。非常感谢你的支持！\n\n## 赞助商\n\n本项目由BisectHosting赞助。如果你需要服务器，可以查看他们的主机方案，并在结账时[使用优惠码 *Chaos*](https://www.bisecthosting.com/chaos)享受首月25%折扣！\n\n[![](https://www.bisecthosting.com/partners/custom-banners/0998de1c-6d3e-4370-a553-0da42e986c68.png)](https://bisecthosting.com/chaos)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

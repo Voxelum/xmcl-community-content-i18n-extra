@@ -1,0 +1,6 @@
+{
+  "bodyHash": "l6neOscsVl0=",
+  "content": "新增一個整合AE2與複製系統的機制。\n\n新增一個名為「AE2-複製橋接器」的方塊，讓AE2能夠讀取複製網路。\n\n具體功能包括：\n\n*   在應用能源2（Applied Energistics 2）的終端機中顯示複製物質的數量。\n*   允許向AE2系統發送複製請求。\n*   可透過處理模式自動化分解器運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

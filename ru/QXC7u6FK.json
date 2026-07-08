@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XRz/ZAfOFqY=",
+  "content": "Этот пакет делает модель Гаста от Bleu_2ay совместимой с Fresh Animations от Fresh_LX!\n\nПоскольку модель Гаста от Bleu_2ay использует пользовательскую версию модели, она несовместима с Fresh Animations. Этот пакет исправляет это, предоставив новые модели, которые используют подходящие анимации!\n\nВажно:\n\nЧтобы этот пакет заработал, вам нужно загрузить его выше FA.\n\nЗагружайте их в следующем порядке:\n\n- Этот пакет\n\n- Fresh Animations\n\n\nДизайн и модели: [Bleu_2ay на Twitter](https://x.com/Bleu_2ay)\n\nАвтор: [ALtheGatorMC на Twitter](https://x.com/ALtheGatorMC)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

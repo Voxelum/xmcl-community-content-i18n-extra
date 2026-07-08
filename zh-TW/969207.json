@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f6+05dVFxso=",
+  "content": "<p>這是一個為 TerraFirmaCraft 設計的附加模組，主要改變了惡地生態域在世界中的外觀和生成方式。惡地生態域在較乾燥的地區會像往常一樣生成，但其地形會隨著朝向更潮濕的地區而變得更加「正常」。分配給惡地的較潮濕地形將不再有沙子或砂岩，而是會有草地、泥土和岩石。地形會逐漸過渡到另一種，其中「中間點」（每種地形權重各佔50%）位於降雨量115處。當地區足夠乾燥時，沙丘就會開始生成。生態域地形應轉變為沙丘或常規惡地的閾值是可配置的。</p><p>&nbsp;</p><p>加入我的另一個 TFC 附加模組&nbsp;<a href=\"https://legacy.curseforge.com/minecraft/mc-mods/tfc-weather\" target=\"_blank\" rel=\"nofollow\">TFC Weather</a>&nbsp;可以實現更漸進的沙坡，因為該模組增加了分層沙塊。這在降雨量較低時與沙丘配合得非常好。此外，沙丘和分層沙塊與&nbsp;<a href=\"https://legacy.curseforge.com/minecraft/mc-mods/tfc-barrens\" target=\"_blank\" rel=\"nofollow\">TFC Barrens</a>&nbsp;非常契合，因為它將整個世界完全變成了一個大沙漠。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

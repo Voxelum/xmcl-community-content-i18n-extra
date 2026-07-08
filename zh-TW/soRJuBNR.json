@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DjQ+BwaEyQA=",
+  "content": "# 關於\n\n**EndfieldPanorama** 將《明日方舟：終末地》中精心設計的遊戲載入頁面移植到 Minecraft。這個模組會用可設定的場景，取代遊戲載入畫面與主選單的背景。\n\n此模組包含兩個 jar 檔案（模組本體與 EndfieldEarlywindowModule）。這意味著您需要分別下載它們，並放入「mods」資料夾中。\n\n玩家可以透過修改對應執行目錄下「assets/endfield_panorama/...」資料夾中的內容，來自訂背景的全景圖像（天空盒）與角色動畫。\n\n注意：本模組仍處於開發階段。部分功能尚未完成，且可能存在記憶體洩漏的錯誤。若您遇到崩潰或其他問題，請在 [GitHub 上開啟議題](https://github.com/LouisQuepierts/EndfieldPanorama/issues)。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/8CFhn5_sxls\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

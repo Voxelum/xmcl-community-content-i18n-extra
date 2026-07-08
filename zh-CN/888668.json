@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uzUmcPKTcRc=",
+  "content": "<h4><strong>模组介绍</strong></h4><p><br>本模组仅包含灵魂绑定附魔功能，提供若干自定义配置选项，无冗余特性。</p><p>修改配置需安装Cloth Config API，或直接编辑/config/soulbound.json配置文件（Forge版本仅支持通过soulbound-common.toml文件修改配置）。</p><p>&nbsp;</p><h4><strong>功能说明</strong></h4><p><br>带有灵魂绑定附魔的物品在死亡时会自动保留，并根据配置随机损耗耐久度。若设为0则不会损耗耐久。</p><p>在创造模式或保留物品栏设置开启时，不会损耗耐久度。</p><div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

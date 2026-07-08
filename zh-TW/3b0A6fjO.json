@@ -1,0 +1,6 @@
+{
+  "bodyHash": "M3R7uDgBhiI=",
+  "content": "# TFMG 液體燃料相容\n\n為 **NeoForge 1.21.1** 的 **Create Liquid Fuel** 模組新增 **The Factory Must Grow** 的液體燃料。\n\n這個小型相容性模組是為了解決 Create Liquid Fuel 在 1.21.1 版本的資料包問題。  \n它不依賴有問題的資料包路徑，而是直接將燃料 JSON 檔案放置在模組目前會讀取的位置。\n\n## 功能說明\n\n此模組將下列 TFMG 流體加入 Create Liquid Fuel 的烈焰人燃燒室燃料中：\n\n| 流體 | 熱能等級 | 燃燒時間 | 消耗速率 |\n|---|---:|---:|---:|\n| 重油 | 加熱 | 18 | 1 mB/刻 |\n| 汽油 | 加熱 | 22 | 1 mB/刻 |\n| 煤油 | 加熱 | 27 | 1 mB/刻 |\n| 柴油 | 加熱 | 32 | 1 mB/刻 |\n| 石腦油 | 加熱 | 36 | 1 mB/刻 |\n| 凝固汽油 | 超加熱 | 34 | 2 mB/刻 |\n\n## 平衡性說明\n\n- **重油** 是最弱的選項，主要用於早期或低階燃料。\n- **汽油** 與 **煤油** 為中階燃料。\n- **柴油** 與 **石腦油** 是強力標準燃料。\n- **凝固汽油** 是頂級選項，可提供 **超加熱** 的烈焰人燃燒室輸出，但消耗燃料更快，以避免過度簡化遊戲進程。\n\n## 依賴模組\n\n本模組需要以下所有模組：\n\n- [Create](https://modrinth.com/mod/create)\n- [Create Liquid Fuel](https://modrinth.com/mod/create-liquid-fuel)\n- [The Factory Must Grow](https://modrinth.com/mod/create-tfmg)\n\n## 為何存在\n\n一般 Create Liquid Fuel 的資料包 API 在本專案使用的 1.21.1 版本中目前無法正常運作，因此此模組改以內建資源提供相容性。\n\n## 備註\n\n- 此模組 **不會** 取代 Create Liquid Fuel、Create 或 TFMG。\n- 它僅新增烈焰人燃燒室液體燃料處理的相容條目。\n- 一旦 Create Liquid Fuel 為 1.21.1 提供修復後的外部資料包路徑，且你偏好使用自己的資料包設定，即可移除此模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

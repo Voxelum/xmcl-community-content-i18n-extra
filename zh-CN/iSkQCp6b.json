@@ -1,0 +1,6 @@
+{
+  "bodyHash": "S4Ib5eGvrDg=",
+  "content": "简单帽子（Simple Hats）是一个可通过 JSON 配置的装饰性帽子模组，允许用户自定义帽子，并提供多种额外选项，如变体、染色、粒子效果和季节性。\n\n模组默认包含近 300 顶自定义帽子，用户可以随意添加、删除或修改。\n\n其他功能：\n\n- 帽子可以通过从敌对生物掉落的抓取袋（右键点击打开）获得，或在各种战利品箱中找到。\n- 不需要的或重复的帽子可以回收，用于制作新的或升级的袋子，以获取新的或更稀有的帽子。\n- 帽子可以放置在可制作的帽子架上展示。\n- 一些帽子有变体模型/纹理，可以在合成网格中切换。\n- 一些帽子可以像普通皮革一样染色，并在炼药锅中清洗。\n- 一些帽子有不同的粒子效果，可以在第三人称视角或其他玩家身上看到。\n- 此外，还有一个季节系统，在一年中的某些时间，普通袋子会掉落特殊的抓取袋。\n\n依赖项（Fabric/NeoForge 1.21.1 及以上）：\n\n- （必需）Accessories：帽子通过 Accessories 装备\n- （必需）owo-lib：处理 SimpleHats 的配置文件\n\n依赖项（Forge 1.20.4 及以下）：\n\n- （必需）Curios：帽子装备在装饰性 Curio 槽位中\n- （可选）JEI：Simple Hats 支持在 JEI 中添加自定义配方\n- （可选）Optifine：如果安装了 Optifine，许多帽子将自动启用发光纹理\n\n依赖项（Fabric 1.20.4 及以下）：\n\n- （必需）Trinkets：帽子装备在 Trinkets 的“帽子”槽位中\n- （必需）Cloth Config：用于非 JSON 配置选项\n   可选：\n- （可选）Continuity 或 Optifine+Optifabric：如果安装了其中任何一个，许多帽子将自动启用发光纹理\n- （可选）Mod Menu：Simple Hats 支持 Mod Menu，以便在游戏中访问配置\n\n**需要联系我？点击下面的徽章：**\n\n[![Discord](https://img.shields.io/discord/1202561752294760478?labelColor=violet&color=purple)](https://discord.gg/ZPdwrtvBKm)\n\n**需要服务器？点击下面的横幅，并使用代码“fonny”在 Bisect Hosting 上享受首月 25% 的折扣：**\n[![Bisect Banner](https://raw.githubusercontent.com/fonnymunkey/fonnymunkey.github.io/main/docs/assets/banner.webp)](https://fonnymunkey.github.io/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

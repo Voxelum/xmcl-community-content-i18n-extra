@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VAKVAEu+l+4=",
+  "content": "这是一个简单的圆石生成器。如果有玩家希望添加多个版本，这里有5个等级可供选择。\n\n这个生成器主要是作为一个独立的方块来帮助服务器。拥有一个单独的方块实体比拥有多个方块实体和在世界中生成圆石的性能要好得多。\n\n但你可以随意使用。\n每个等级都有可以在服务器配置文件中编辑的设置。\n\n```\n[server.1]\n    #内部缓冲区中可以容纳的最大物品数量。\n    #范围: > 1\n    max = 64\n    #每次更新生成的物品数量。\n    #范围: > 1\n    count = 1\n    #每次生成更新之间的刻数。\n    #范围: > 1 interval = 40\n    #设置为true以启用自动推送到此方块上方的物品栏。\n    pushes = true\n```\n![生成器](https://puu.sh/ExoJb/f976a457ce.png)\n感谢Drullkus为它们制作了一个漂亮的模型。\n\n这些是默认的配方，但显然可以在数据包中进行编辑。\n\n![等级1配方](https://puu.sh/ExoUA/eb7baae051.png)\n![等级2配方](https://puu.sh/ExoUM/2a9819abb8.png)\n![等级3配方](https://puu.sh/ExoUQ/912f0c32fe.png)\n![等级4配方](https://puu.sh/ExoUS/d304c57fe1.png)\n![等级5配方](https://puu.sh/ExoUw/625b655689.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

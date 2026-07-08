@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7ijJIBjwIN8=",
+  "content": "你是否曾覺得草的頂部紋理應該顯示在所有面上？嗯，這個專案透過將草方塊的頂部紋理應用於所有面來解決這個問題，**這包括底部紋理**。\n\n包含的方塊：\n- 草地\n- 土徑\n- 灰化土\n- 扭曲菌絲石\n- 緋紅菌絲石\n- 雪草地\n- 菌絲土\n\n雪草地沒有實際的_雪_紋理，因為破壞雪方塊卻得到泥土（若有絲綢之觸則得到草方塊）會令人困惑，所以我讓這個方塊帶有一些泥土並增加雪的效果以區分。\n\n注意事項：\n- 若顯示不相容，它很可能仍可正常運作。\n\n![Minecraft 更好的草地 這就像一個圖示](https://cdn.modrinth.com/data/cached_images/cbf0df1a92d9c47f18698d62da3694f66696a570.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RQr51B4KDQ8=",
+  "content": "# SnapshotXBR\n使用 [xBRZ](https://sourceforge.net/projects/xbrz/) 自動放大最新材質，專為搭配 [VanillaXBR](https://modrinth.com/resourcepack/vanillaxbr) 使用而設計。\n\n請確保 [VanillaXBR](https://modrinth.com/resourcepack/vanillaxbr) 在資源包清單中置於 SnapshotXBR 上方以獲得最佳體驗\n![Minecraft 資源包畫面顯示 VanillaXBR 載入於 SnapshotXBR 上方](https://cdn.modrinth.com/data/cached_images/4c85474bf67cf4e488a645b31b8df88ec8b5ec9a.png)\n\n## 為什麼需要這個？\n[Misterk7_-](https://modrinth.com/user/misterk7_-) 相當忙碌，且 [VanillaXBR](https://modrinth.com/resourcepack/vanillaxbr) 更新速度較慢，因此本資源包旨在提供一種「前沿版本」，讓玩家能在第一天就使用尚未經過 [Misterk7_-](https://modrinth.com/user/misterk7_-) 手動優化的材質作為備用方案\n\n### 你可能會注意到...\n- 方塊模型之間的縫隙（例如火把缺少角落）\n- 不自然的像素混合（例如生物的雙眼可能與身體其他部分融為一體）\n- 使用者介面中的材質裁切（例如世界選單的暗化效果異常）\n\n這些問題源自對 Minecraft 材質的「粗略放大」，因此本資源包不會修復這些問題。若需解決，請參閱以下建議使用指南。\n### 建議使用方式\n- 使用最新版本的 [VanillaXBR](https://modrinth.com/resourcepack/vanillaxbr)\n- 在資源包選單中將 VanillaXBR 啟用於 SnapshotXBR 上方（如上圖所示）\n- 自行建立及/或改進自動放大的材質版本\n\n## 如果我想要其他模組或資源包的 xBR 版本材質呢？\n[PackXBR](https://packxbr.f53.dev/) 是最簡便的方式，能讓你自訂的材質與 VanillaXBR 風格相容。\n[![PackXBR 宣傳圖](https://cdn.modrinth.com/data/cached_images/00bf6b71f794771274b4c16fd216cef126ca347e.png)](https://packxbr.f53.dev)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

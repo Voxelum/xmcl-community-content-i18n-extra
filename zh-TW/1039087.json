@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+CRbx3s2g18=",
+  "content": "<p>一個簡單的 Fabric 模組，修改了流浪商人的生成邏輯，使其針對每位玩家獨立計算。相關數據儲存於玩家 NBT 中的 <code>per_player_wandering_traders</code> NBT 標籤內。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

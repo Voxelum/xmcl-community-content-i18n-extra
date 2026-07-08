@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Rp5qes5NqAU=",
+  "content": "用于[MysticMC Minecraft服务器](https://mysticmc.co/)：\n\nMysticMC拍卖行追踪器是一款客户端Fabric模组，它会记录您打开的拍卖列表、存储价格信息，并以悬浮提示和图表形式展示历史数据。\n\n**使用方法：**\n\n- 加入服务器并进入奥秘、宇宙或极乐世界等位面。\n- 打开拍卖行，逐页浏览，每页停留片刻直至该页所有物品被扫描。\n- 在拍卖行中悬停物品即显示追踪信息。\n- 在拍卖行中悬停物品时按H键打开价格图表。\n- 在任意容器界面按O键导出追踪历史至CSV文件。\n\n新增以下指令：\n- /mysticahtracker website\n- /mysticahtracker site\n- /mysticahtracker tooltips off\n- /mysticahtracker tooltips on\n- /mysticahtracker tooltips toggle\n- /mysticahtracker tooltips status\n\n添加可视化物品价格的网站：https://mystic-price-tracker.onrender.com\n\n**显示内容：**\n\n悬浮提示：当前位面、30天最低单价、30天最高单价、上次在拍卖行出现时间\n价格图表：当前位面内悬停物品最近30天的每件价格走势\n\n**重要细节说明：**\n\n数据按位面独立存储，奥秘位面的价格不会与宇宙或极乐世界位面混淆",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

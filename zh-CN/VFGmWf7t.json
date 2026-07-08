@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZpZz1U7RJvs=",
+  "content": "# 暮色森林线程安全附加组件（适用于1.20.1 Forge）\n\n本模组是ishlandmc制作的暮色森林线程安全附加组件的非官方分支版本。\n\n它通过使暮色森林的地形生成过程具备线程安全性并提升速度，让[C2MEF](https://modrinth.com/mod/c2mef)或[C2ME](https://modrinth.com/mod/c2me-fabric) + [Connector](https://modrinth.com/mod/connector)（C2ME + Connector组合未经完整测试）能够在Forge 1.20.1版本中与暮色森林模组兼容运行。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YDd+rfiaXVI=",
+  "content": "<h2>小貓咪</h2><p>將這隻知名又可愛的「oneko」小貓帶入你的遊戲吧！！</p><p><img src=\"https://codeberg.org/ameraincandy29/kittycat/raw/branch/main/kittycatshowcase.gif\" alt=\"模組的小預覽圖\"></p><h3>設定</h3><table>\n<thead>\n<tr>\n<th>選項</th>\n<th>說明</th>\n<th>預設值</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>啟用</td>\n<td>啟用或停用此模組</td>\n<td>開啟</td>\n</tr>\n<tr>\n<td>速度</td>\n<td>小貓移動的速度</td>\n<td>4.0</td>\n</tr>\n<tr>\n<td>停止距離</td>\n<td>距離滑鼠多近時會停止</td>\n<td>16</td>\n</tr>\n<tr>\n<td>大小</td>\n<td>小貓的像素大小</td>\n<td>16</td>\n</tr>\n<tr>\n<td>啟用動畫</td>\n<td>播放閒置動畫</td>\n<td>開啟</td>\n</tr>\n<tr>\n<td>警報持續時間</td>\n<td>警報動畫的持續時間</td>\n<td>7</td>\n</tr>\n</tbody>\n</table><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SzrvSoDieD0=",
+  "content": "# 服务器模组菜单 - 0.8.6.0\n### 直接基于 [ModMenu](https://github.com/TerraformersMC/ModMenu) 的分支，用于下载和获取服务器模组详情\n![一张图片](https://cdn.modrinth.com/data/mdAdBC85/images/bab950bf491ccdb79a2b7b5001cf3ebc86f847cb.png)\n\n## 需要更新吗？\n除了在 SCMC 0.9.4.2 中添加的新翻译 API 支持外，没有太多需要更新的内容。所有之前的 SCMC 版本应该都能正常工作，所以不用担心。\n\n## 运行和使用此模组\n非常简单，下载模组的 jar 文件并运行 Minecraft。\n无需安装额外的依赖或繁琐的步骤，就像原始的 modmenu 模组一样。\n<br>\n**依赖**:\n* Fabric Loader - 推荐 0.16.0\n* Minecraft - 当前版本 1.20.1（我为与朋友一起玩的服务器制作了这个模组，所以希望他们能轻松安装模组 :D。服务器版本是 1.20.1）\n<br> 虽然，当这个模组完成且没有奇怪的错误或问题时，可能会发布 1.21.2 版本\n<br><br>**你应该会看到一个服务器模组的按钮，点击它。\n由于此模组需要查看模组，我创建了一个名为 [SCMC](https://github.com/SkellyBuilds/scmc) 的辅助服务器端模组。如果你的服务器使用通用环境模组，请向你的服务器管理员推荐此模组**\n\n## 对于服务器管理员\n你可以下载适用于你服务器的 [SCMC](https://github.com/SkellyBuilds/scmc) 版本，确保阅读文档，以免让你的成员下载不必要的非服务器专用模组。\n\n## 更新日志\n除了错误修复和添加的调整外，你不会看到太多重大的更新日志，因为第一个版本已经包含了所有内容\n* 翻译 API 支持\n\n## 尚未完成的工作\n* **翻译 - 切换到非 EN_US 的语言会使模组变得混乱。我计划制作一个 crowdin，但现在。抱歉 :(**\n\n## 未来计划\n* 寻找翻译人员，如果你愿意成为翻译人员，加入 [discord 服务器](https://discord.gg/PqHCG2qv)，我们会看看如何进行\n* 修复大多数小的 GUI 错误，但说实话不知道从哪里开始（奇怪的选择颜色）\n* 在断开连接屏幕上添加一个按钮，如果它与服务器模组菜单相关\n* 稍微清理一下代码（但这可能要等到移植到 1.21.2 时才会发生）\n\n## 不重要但可能有助于这个项目\n如果你已经阅读了，我有一个运行 Minecraft 服务器和一些其他东西的主机。这可能会很昂贵，所以支持对我来说非常重要\n<br>[Ko-Fi](https://ko-fi.com/broreallysaid)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

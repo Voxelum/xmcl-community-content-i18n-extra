@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uPvEPWAJqro=",
+  "content": "這是一個可以通過按下 **D** 鍵來尋找優質附魔書的模組。\n\n此模組依賴於 [Trade Cycling](https://modrinth.com/mod/trade-cycling) 模組。\n\n這個模組讓我們能夠刷新圖書管理員的交易。當我們在刷新交易時，可能會因為誤點而錯過一些價格合適且附魔效果良好的交易。為了解決這個問題，我提供了一個自動刷新交易的工具（快捷鍵 D），當我們遇到價格合適的附魔書時，它不會繼續刷新。如果我們不需要這本書，可以再次使用 C 鍵（Trade Cycling 模組的快捷鍵）來繼續刷新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

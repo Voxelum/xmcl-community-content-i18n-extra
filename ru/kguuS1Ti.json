@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Gfii084nEOM=",
+  "content": "# Мод «Поводки для жителей»\n\nЭтот мод позволяет использовать поводки с деревенскими жителями и бродячими торговцами, переопределяя класс AbstractVillager. Метод canBeLeashed возвращает значение true, что даёт возможность привязывать поводки к жителям и перемещать их куда угодно.\n\n## v2.1.0: Настройки и многое другое\n\n- обновлено: добавлен файл конфигурации, теперь вы можете выбирать, какие мобы могут быть привязаны, 0 = ложь, 1 = правда\n- новинка: опциональные поводки для летучих мышей, черепах и зомби-жителей; используйте конфигурацию, чтобы включить поводки для них\n\n![Файл конфигурации](https://cdn.modrinth.com/data/cached_images/4bb300808384474ba47a0f18cd21e4830015de54.png)\n\n## Разрешение на использование в модпаках:\nВы можете использовать этот мод или любые другие мои моды в своих модпаках.\n\n## Сервер Discord\n[Присоединяйтесь к серверу Discord](https://discord.gg/9UVGJGyqbv), чтобы сообщать о багах или предлагать свои идеи.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/8-DA_JOVOaQ\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

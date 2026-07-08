@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KG+YJVNN+nc=",
+  "content": "<p><strong>是否曾覺得在你的Create Mod伺服器上使用原版鑽石作為貨幣感到乏味？</strong>心想「這是模組化的Minecraft，為什麼我找不到一種像樣的貨幣來使用」？好吧，我有解決方案給你！</p><p>Create: Simple Coins 正如其名，增加了硬幣！新增了五種不同的硬幣：銅幣、鐵幣、金幣、鑽石幣和獄髓幣。</p><p>需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate\" rel=\"nofollow\">Create Mod</a>。</p><h2>製作</h2><p>每種硬幣大約使用一種對應的材料製作（除了銅幣使用鋅）加上另一塊材料的碎片。在高爐中熔煉它們可以返還主要材料，這意味著硬幣應該能有效保持其價值。硬幣是使用序列組裝「鑄造」的。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/5c0e78a709e14e308c58009cde4bfaece34d716c.png\" alt=\"金幣組裝線的示例\"></p><p><img src=\"https://cdn.modrinth.com/data/cached_images/38b00df6027486996686707775b2434ed4dc36fe.png\" alt=\"所有硬幣配方的圖形\"></p><p>我建議使用JEI在遊戲中查看所有配方。</p><p>所有配方都是透過數據完成的，因此如果你想要更改它們，應該總是可以透過數據包進行編輯。</p><h2>瑕疵硬幣</h2><p>每枚硬幣在鑄造時有很小的機率（&lt;1%）失敗。這些「瑕疵」硬幣幾乎沒有價值，因為熔煉它們只能返還很少的材料。</p><h2>問題、建議和計劃</h2><p>請在GitHub上報告任何錯誤、問題或建議。這個模組的範圍旨在非常簡單並保持小巧，因此不會添加大型功能。</p><p>就目前而言，更新到其他Forge版本是<em>可能</em>的。目前沒有計劃移植到Fabric或其他模組加載器。如果有人想幫助移植到更多版本/平台，請隨時聯繫。</p><p>當然，考慮到這個模組的初衷，請隨意在你的模組包中使用它。 :)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

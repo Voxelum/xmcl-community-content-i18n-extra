@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oKGUPtaO2SE=",
+  "content": "<h1 id=\"鱼栅\">鱼栅</h1>\n<p>这个模组添加了一种名为“鱼栅”的自动化捕鱼陷阱。</p>\n<p>鱼栅分为三个等级：木质、铁质和钻石质。不同等级的鱼栅捕获鱼类所需的时间不同，产出的物品也各不相同。</p>\n<p>鱼栅需要放置在平坦表面并被水包围，才能生成可通过钓鱼获得的物品。</p>\n<p>鱼栅内部需要放置鱼饵；否则，捕获速度将显著降低。</p>\n<p>Forge版本修复了原作者留下的配置问题。</p>\n<p><a href=\"https://github.com/kylertlove/fish-traps\" target=\"_blank\" rel=\"noopener noreferrer\">原版模组下载</a></p>\n<h3 id=\"描述\">描述：</h3>\n<p>模组最初由<strong>@kylertlove</strong>创建。这是一个用于自动钓鱼的Minecraft模组，支持Forge和Fabric。</p>\n<h3 id=\"免责声明\">免责声明：</h3>\n<ul>\n<li>我不是该模组的原作者！我只是将其移植到了1.20.1和1.21.1版本。</li>\n<li>该模组的创意、资源（纹理、图标等）以及大部分代码均由<strong>@kylertlove</strong>创作。</li>\n</ul>\n<h3 id=\"许可协议\">许可协议：</h3>\n<p>你可以在原版<a href=\"https://github.com/kylertlove/fish-traps\" target=\"_blank\" rel=\"noopener noreferrer\">仓库</a>中找到许可协议。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

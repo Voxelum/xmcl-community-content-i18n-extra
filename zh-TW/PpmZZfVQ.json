@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/ZzcbKJ+0yo=",
+  "content": "# 桶子圖騰模組\n\n透過此模組，你可以將一個帶有你**名字**的圖騰放入桶子中，並在啟動圖騰時消耗它。\n\n## 運作方式\n\n如果玩家的圖騰觸發，同時有一個帶有其名字的圖騰被放置在桶子中，且該桶子所在的區塊已載入，桶子內的圖騰便會被消耗，清空桶子並停止桶子發出的紅石信號。結合停滯艙（stasis chamber），這可以觸發陷阱門，進而啟動陷阱門並將玩家傳送至停滯艙中。\n\n這種配置的範例可在圖庫中找到。\n\n## 配置\n\n### 配置指令\n*僅在 1.3.0+ 版本中可用*\n\n你可以透過新指令 `/tiab <子命令> <...選項>` 管理所有設定。\n\n#### 子命令\n- `... config <Get|EnableTotemConsume|TotemConsumeOnlyWhenLastTotemUsed> [true|false]`\n- `... override <玩家> <EnableTotemConsume|TotemConsumeOnlyWhenLastTotemUsed> <true|false>`\n\n預設配置：\n```json\n{\n  \"EnableTotemConsume\": true,\n  \"TotemConsumeOnlyWhenLastTotemUsed\": true\n}\n```\n| 變數                            | 預設值 | 說明                                                                                       |\n|----------------------------------|--------|-------------------------------------------------------------------------------------------|\n| EnableTotemConsume               | true   | 設為 `true` 時啟用此模組                                                                  |\n| TotemConsumeOnlyWhenLastTotemUsed| true   | 設為 `true` 時，僅在玩家的最後一個圖騰觸發後，才會消耗桶子中的圖騰                         |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

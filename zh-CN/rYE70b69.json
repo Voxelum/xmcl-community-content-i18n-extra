@@ -1,0 +1,6 @@
+{
+  "bodyHash": "05wNGZsoJNM=",
+  "content": "# 纯客户端战斗反馈模组，借鉴现代 FPS 游戏的视觉和镜头效果，提升你的 PvP 和 PvE 体验。\n## 受伤反馈\n伤害方向指示 — 红色弧形指向攻击者方向\n近弹警示 — 子弹擦身而过时白色弧形闪烁\n### 兼容性\nTACZ（永恒枪械工坊） — 通过原生事件集成完整支持\n原版武器 — 剑、斧、三叉戟、弓、弩\nLRTactical / Yumc 近战武器 — 自动检测\n纯客户端运行，无需服务端模组，可在任何服务器使用\n支持版本\nMinecraft 1.20.1 Forge\n### 视频 [Bilibili](https://www.bilibili.com/video/BV1R1dHB4EEG?vd_source=badc55838a05d203c1c774a6667df320)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2IKXyORAxxc=",
+  "content": "<p>VC Admin 是一款輕量級的伺服端管理工具，專為執行 Simple Voice Chat 的伺服器設計。</p><p>它能讓伺服器管理員無需密碼即可加入受密碼保護的語音聊天群組——專為需要監控和管理語音活動以維護社群安全的伺服器工作人員打造。</p><p>透明公開<br>本模組完全透明。當管理員加入群組時，該群組的所有成員都會收到一則可見的聊天通知：</p><p>&nbsp; [VC-Admin] Steve 已加入群組「private」。</p><p>沒有任何隱形監控。玩家永遠知道工作人員何時在場。</p><p>指令<br>所有指令都需要 OP 等級 2 或以上。</p><p>&nbsp; /vclist &nbsp; &nbsp; &nbsp; &nbsp;列出所有活躍的語音群組。鎖定的群組在滑鼠懸停時會顯示密碼，點擊即可複製到剪貼簿。<br>&nbsp; /vcjoin &lt;名稱&gt; 直接以名稱加入群組，跳過密碼提示。<br>&nbsp; /vcleave &nbsp; &nbsp; &nbsp; 離開當前的語音群組。</p><p>使用場景<br>面對年輕玩家或嚴格社群規範的伺服器，需要確保語音頻道不被濫用。Simple Voice Chat 並未內建管理員繞過密碼保護群組的功能——本模組正好填補了這個缺口。</p><p>安裝方式<br>&nbsp; 1. 在伺服器上安裝 Simple Voice Chat。<br>&nbsp; 2. 將 vcadmin 放入伺服器的 mods/ 資料夾。<br>&nbsp; 3. 無需用戶端安裝。<br>&nbsp; 4. 重新啟動伺服器。</p><p>相容性<br>&nbsp; Minecraft &nbsp; 1.21.1<br>&nbsp; NeoForge &nbsp; &nbsp;21.1.x<br>&nbsp; Voice Chat &nbsp;2.5.x<br>&nbsp; 僅需伺服端 是——用戶端無需安裝此模組</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

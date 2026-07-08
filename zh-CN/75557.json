@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uNw14HmBt0k=",
+  "content": "<p>CraftGuide 是一个相当简单的 Minecraft 游戏内配方查看器，旨在能够一次性显示大量信息，并提供一些简单的方式来快速浏览。</p><p>它的主要特点是通过使用滚动条，利用常见的行为模式，即由任何特定模组添加的配方往往会分组在一起，从而允许用户快速导航到列表中与模组相关的部分。最近的更新包括使 GUI 可调整大小，以填充用户感到舒适的屏幕区域（通过拖动右下角的小蓝色三角形按钮实现），以及一个系统，点击某个物品会过滤列表，仅显示使用该物品作为输入或输出的配方。</p><p>CraftGuide 提供了一个 API，允许其他模组提供额外的配方等功能，同时还内置了对显示某些模组配方的支持。通常会根据当前模组作者的请求提供额外的内置模组支持或 API 使用帮助。用户请求的模组支持有时会在与该模组作者协商后实现。</p><p>更新通常较为稀疏，尽管通常每个主要的 Minecraft 版本至少会有一个更新。</p><p>目前（从版本 1.6.8.1 开始），CraftGuide 需要 Forge 或 LiteLoader。（LiteLoader 版本目前可从 minecraftforum.net 的帖子中获取）</p><p>源代码可在 <a href=\"https://github.com/Uristqwerty/CraftGuide\" rel=\"nofollow\">GitHub</a> 上获取。</p><p>有关旧版 Minecraft 的更多信息和下载，请访问 <a href=\"http://www.minecraftforum.net/topic/731133-\" rel=\"nofollow\">minecraftforum.net 的帖子</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

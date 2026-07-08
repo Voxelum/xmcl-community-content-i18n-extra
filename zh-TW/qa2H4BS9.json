@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D6GUQ30XKPo=",
+  "content": "![測試圖片](https://i.imgur.com/bSwtJMD.png)\n\n*安裝 Canary 前後的伺服器刻時間（mspt）圖表。測量於現有世界，視野距離為 18 的環境下進行。*\n\n### Canary for Minecraft Forge\n\n![Github 授權](https://img.shields.io/github/license/AbdElAziz333/Canary)\n![Github 議題](https://img.shields.io/github/issues/AbdElAziz333/Canary)\n![Github 版本](https://img.shields.io/github/v/tag/AbdElAziz333/Canary)\n[![此為分支](https://img.shields.io/badge/This%20is%20port-Support%20the%20original!-darkmagenta)](https://modrinth.com/mod/lithium)\n\nCanary 是一個通用最佳化模組，也是 Minecraft Forge 的 [Lithium](https://modrinth.com/mod/lithium) 模組的非官方分支。它**同時支援用戶端與伺服器**，且可在伺服器上安裝，**無需要求用戶端也安裝此模組**。\n\nCanary 包含了原始 Lithium 的最佳化功能（生物 AI、區塊載入、遊戲物理等），此外，Canary 還加入了新的最佳化，讓遊戲運行更加流暢，且不改變任何行為。\n\n### 設定\n\nCanary 採用了一套特殊的設定系統，可用於啟用或停用特定修補程式。欲了解更多資訊，請參閱 [Wiki 條目](https://github.com/AbdElAziz333/Canary/wiki/Configuration-File)。\n\n### 模組包使用許可\n\n當然可以，歡迎將它加入你的模組包。\n\n### 問題回報與功能請求\n\n請使用頁面底部的議題追蹤器來回報錯誤、崩潰問題，若想提出新功能或為此模組做出貢獻，我也會樂於接受合併請求！\n\n如果你想支持我，請使用我的代碼 **AbdElAziz333**，即可享有首次訂閱 25% 折扣，與朋友一起暢玩！\n\n[![BisectHosting](https://i.imgur.com/ytD8AVA.png)](https://bisecthosting.com/AbdElAziz333)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

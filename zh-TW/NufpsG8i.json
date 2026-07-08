@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XaB5CjMMSF0=",
+  "content": "# Ping to Map\n\n當有人在 Ping-Wheel 上標記一個位置時，立即放下一個暫時的 JourneyMap 路徑點。\n\n你用 Ping-Wheel 標記「來這裡」，但地圖上卻沒有任何顯示，因此在大型建築中，其他人仍然找不到那個位置。這個附加模組會在 ping 發生時立即放置一個路徑點，預設情況下，它會與 Ping-Wheel 的 ping 一起消失，讓地圖保持整潔。\n\n**功能**\n\n- 每次 ping 時產生一個暫時的 JourneyMap 路徑點，顏色為青色或 ping 發送者的隊伍顏色\n- 預設情況下，路徑點的持續時間與 Ping-Wheel 的 ping 同步——它們會一起消失（或者可以設定固定的 1–600 秒，或設為永久）\n- 專為合作模式設計——集合點、「發現敵人」、「這裡有礦」等訊息一目了然\n- 不包含任何物品或方塊；它不會干擾 Ping-Wheel 自身的行為，如果 JourneyMap 不存在也不會崩潰\n\n**設定**（`config/pingtomap-client.toml` 或 Mod Config GUI）\n\n- `appearance.syncWithPingWheel` —— 路徑點與 ping 同時消失，其持續時間跟隨 ping 的設定（預設開啟）\n- `appearance.waypointLifetimeSec` —— 固定的持續時間（秒），僅在同步關閉時使用（-1 = 永久）\n- `appearance.useTeamColor` —— 使用計分板隊伍顏色（false = 固定青色）\n- `feature.registerOwnPings` —— 也為自己的 ping 建立路徑點（false = 僅限隊友的）\n\n**依賴**\n\n- [Ping-Wheel](https://modrinth.com/mod/ping-wheel) —— 必備\n- [JourneyMap](https://modrinth.com/mod/journeymap)（客戶端） —— 路徑點目標\n- 僅 Fabric： [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)\n\nJourneyMap 路徑點在 Fabric、Forge 和 NeoForge 上均可使用。支援 Minecraft 1.20.1、1.21.1、1.21.4 和 1.21.11（1.21.4 和 1.21.11 為 Fabric + NeoForge；Forge 則涵蓋 1.20.1 和 1.21.1）。\n\n僅客戶端 —— 無需安裝伺服器。姊妹模組：Compass to Map。\n\n可自由用於任何模組包。原始碼與問題回報：https://github.com/KURONAMI333/ping-to-map",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

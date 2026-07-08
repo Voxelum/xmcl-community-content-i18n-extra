@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KgGJ6NjkRuc=",
+  "content": "# 正交相機\nMinecraft Fabric 客戶端模組。新增可切換且可設定的正交檢視模式。\n\n![預覽畫面](https://github.com/DimasKama/OrthoCamera/blob/master/preview/preview.gif?raw=true)\n\n## 這是什麼\n在透視檢視（預設模式）中，遠處的物體會比近處的物體小。在正交檢視中，所有物體都會以相同比例顯示。\n\nMinecraft 使用透視檢視來繪製世界，這能帶來第一人稱的體驗。\n\n這個模組讓你可以啟用正交檢視並詳細設定視錐體。\n\n![檢視差異](https://github.com/DimasKama/OrthoCamera/blob/master/preview/views_diff.png?raw=true)\n\n## 使用方法\n你可以透過 ModMenu 或快速鍵開啟設定畫面。你可以設定：\n- 在客戶端重啟之間儲存啟用狀態\n- X 軸和 Y 軸相機縮放比例\n- 最小與最大視距（視錐體近平面與遠平面的位置）\n- 固定相機（鎖定滑鼠旋轉。可正常遊玩遊戲，但使用正交檢視）\n- 固定相機旋轉角度\n- 固定相機旋轉速度（使用快速鍵旋轉時）\n\n還有 8 個快速鍵用於：\n- 切換正交檢視\n- 增加縮放比例\n- 減少縮放比例\n- 固定相機\n- 旋轉固定相機\n\n固定相機示範：\n\n![固定預覽](https://github.com/DimasKama/OrthoCamera/blob/master/preview/fix_preview.gif?raw=true)\n\n## 相容性\n- 使用 **Sodium** 模組時，必須在「效能」分頁中停用「使用方塊面剔除」。否則在較大縮放比例下某些方塊面將不會渲染\n- 然而 **Nvidium** 模組會強制啟用此 Sodium 功能。因此如果你有安裝此模組，必須**停用 Nvidium**\n- 停用後，你可能需要按下 **F3 + T** 來套用變更",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

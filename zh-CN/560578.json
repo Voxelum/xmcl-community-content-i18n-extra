@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MIbz76SbH0Y=",
+  "content": "<p>很久以前，Mojang移除了客户端渲染皮肤Alpha通道的功能，这导致原本利用透明度进行艺术创作的皮肤失效了。<br><br>本模组旨在恢复这一功能。通过使用Mixin技术，它关闭了在渲染时去除皮肤Alpha通道的代码。<br><br><span style=\"font-size:24px\">本模组并不会让其他人看到你的透明皮肤。它只会影响<strong>你</strong>客户端的渲染效果。</span></p><p>&nbsp;</p><p>Fabric的原始Mixin代码可以在<a href=\"https://github.com/MineLittlePony/Kirin/blob/405a8f235b309f8939e9b88624541d08e7601538/src/main/java/com/minelittlepony/common/mixin/MixinPlayerSkinTexture.java\" rel=\"nofollow\">此处</a>找到。我只是利用其中的信息将此Mixin移植到了Forge，并额外添加了几个Mixin，使透明度渲染效果变得如同原生支持般无缝。</p><p>&nbsp;</p><p>本质上本模组添加了3个Mixin。第一个用于禁用皮肤下载类中的Alpha和颜色剥离功能——该类通常会将Alpha设为0导致透明部分不显示。第二个Mixin是同一功能的变体，专门针对SkinProcessor类（似乎仅用于与Realms相关的功能）。<br>第三个Mixin修补了FirstPersonRenderer类，使手部渲染尊重透明度。正常情况下手部渲染完全忽略Alpha通道，但通过头部注入我成功覆盖了这一行为。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

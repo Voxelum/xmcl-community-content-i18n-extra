@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y5dVrZrUubg=",
+  "content": "# 连续性（Continuity）\n\nContinuity是一款Minecraft模组，允许使用OptiFine连接纹理格式、OptiFine自发光纹理格式（仅限方块与物品模型）或OptiFine自定义方块图层格式的资源包在无需OptiFine的情况下正常运行。\n\n该模组为客户端专用，并内置两个资源包。其中\"默认连接纹理\"包可为玻璃、砂岩和书架提供连接纹理效果，与OptiFine自带的连接纹理功能类似；\"玻璃板视差修复\"包可消除垂直堆叠玻璃板之间的面剔除，使其与连接纹理搭配时呈现无缝观感。\n\n严格来说，Continuity实现了Continuity连接纹理规范、Continuity自发光纹理规范及Continuity自定义方块图层规范。这些都是OptiFine对应规范的扩展版本，旨在为资源包作者提供更多功能。相关规范的文档可在[Continuity维基](https://github.com/PepperCode1/Continuity/wiki)中查阅。\n\nContinuity以Fabric模组形式开发，建议配合Fabric使用。不过通过[Connector](https://github.com/Sinytra/Connector)和[Forgified Fabric API](https://github.com/Sinytra/ForgifiedFabricAPI)，Continuity也能在NeoForge和Forge等其它模组加载器上良好运行。在CurseForge和Modrinth上发布的版本会标注兼容这些模组加载器；这些版本与Fabric版本代码相同，但额外添加了元数据声明对Connector和Forgified Fabric API的依赖。由于Fabric与NeoForge的API存在重大技术差异，目前暂无计划推出无需Forgified Fabric API的官方NeoForge版本。\n\n### 相关链接\n\n[CurseForge页面](https://www.curseforge.com/minecraft/mc-mods/continuity)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

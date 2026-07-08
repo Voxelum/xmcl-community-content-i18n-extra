@@ -1,0 +1,6 @@
+{
+  "bodyHash": "J8S3Druz25g=",
+  "content": "<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/modern-ui\" target=\"_blank\" rel=\"nofollow\">Инженер текстового рендеринга мода Modern UI</a> несовместим с <a href=\"https://www.curseforge.com/minecraft/mc-mods/inline\" target=\"_blank\" rel=\"nofollow\">Inline</a>. Этот мод настроит текстовый рендеринг по умолчанию на использование Modern UI, а при наличии данных Inline будет возвращаться к штатному движку текстового рендеринга (который был вставлен Inline).</p>\n<p>Цель этого мода — обеспечить совместное использование <a href=\"https://www.curseforge.com/minecraft/mc-mods/modern-ui\" target=\"_blank\" rel=\"nofollow\">Modern UI</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/hexcasting\" target=\"_blank\" rel=\"nofollow\">Hex Casting</a>.</p>\n<p>Примечание: этот мод использует относительно простой метод и ещё не прошёл полную проверку. Он может быть нестабильным или привести к аварийному завершению игры.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6iXG0Do4Oo8=",
+  "content": "## **幻想光影无界版**\n\n本光影基于[Complementary光影](https://modrinth.com/shader/complementary-unbound/version/latest)修改。幻想光影是对Complementary光影的调整版本，旨在以幻想风格让游戏色彩更丰满、更鲜明、更富活力。\n\n这是我为Minecraft Java版制作的第一个项目，可能存在瑕疵和优化空间。若您能通过我的[Discord服务器](https://discord.gg/7Z6FuKmGwG)提交漏洞报告或改进建议，我将不胜感激。\n\n### **修改内容**\n\n- 夜晚色调改为奇幻的帝王蓝，包含天空、极光、云层、星云等\n- 白天色彩更加明亮，天空呈现白色地平线与浅蓝穹顶，云层同步调整\n- 日落日出色彩更丰富，宛若置身奇幻世界\n- 地表与夜空倒影效果优化，呈现镜面质感\n- 末地环境色重新调整，整体呈现末影人般的紫色调\n- 光线强度提升\n- 夜晚与末地星空璀璨\n- 天空云量增加\n\n### **兼容性**\n- 基于[Iris](https://www.irisshaders.dev/)开发，由于是Complementary光影的衍生版本，理论上也兼容[Optifine](https://optifine.net/home)\n\n### **注意事项**\n\n- 幻想光影完全遵守Complementary光影的所有许可与使用条款\n- 需在设置中启用Unbound选项才能获得图示效果\n- 本光影基于原作开发，完全尊重版权及许可协议。本人亦设有[许可协议](https://github.com/AleGraphics17/privacy-policy/blob/main/License)，敬请遵守\n- 光影主要功劳归于Complementary光影创作者[Emin](5/6)，幻想光影仅为基于其作品的调整版本\n\n### **版本更新**\n\n- 兼容Iris Minecraft v26.1x版本\n- 添加流星划过天空效果\n- 末地星空新增黑洞天体\n- 优化日出色调，提升色彩饱和度与奇幻感\n- 调整日间天顶为更蓝的色调并融入紫色元素，增强幻想风格\n\n### **演示视频**\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/PU-vFbFMJP8\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

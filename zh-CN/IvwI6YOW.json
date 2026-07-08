@@ -1,0 +1,6 @@
+{
+  "bodyHash": "M4iI22H+BtM=",
+  "content": "# 禁止睡觉\n禁止睡觉是一款适用于 Fabric 1.20+ 的 Minecraft 模组，用于阻止玩家在床上睡觉。\n\n# 兼容版本\n[![支持的版本](https://modrinth-shields.imgalvin.me/badge/bansleeping)](https://modrinth.com/mod/bansleeping)\n\n## 新版本系统\n由于 Minecraft 新的版本命名系统及其“特性更新”，每个受支持的游戏版本都有其对应的独立模组版本文件，以减少加载负担和潜在问题。请查看上方版本徽章以获取更多信息。\n\n此外，加载器和 API 的最低版本要求已被标准化为对应 Minecraft 版本的最早可用版本。这是为了防止因新更新而导致的崩溃问题；不过极少有人会遇到此问题，因为大多数玩家会频繁更新其加载器和 API。\n\n我强烈建议使用模组管理器/启动器来自动更新这些依赖项。Modrinth 和 Prism Launcher 是很好的选择。\n\n## 旧版本系统\n*仅适用于 1.21.10 及以下版本*\n\n| 模组版本 | 加载器 | 游戏版本         | 模组版本文件              |\n|----------|--------|------------------|---------------------------|\n| 1.0.1    | Fabric | 1.21-1.21.10     | 1.0.1-fabric+1.21.jar     |\n| 1.0.0    | Fabric | 1.21-1.21.5      | 1.0.0-fabric+1.21.jar     |\n\n# 重要提示\n本模组为**服务端**模组！  \n如果是**单人游戏**或**托管服务器**，则必须安装本模组  \n如果在**服务器**上游玩，则无需下载本模组。\n\n另外：本模组需要 **Fabric API** 作为前置。\n\n# 更新日志\n## 1.0.2（对应 1.21.11）\n- 将所需的加载器版本更新至 0.17.3\n\n## 1.0.1\n1.0.1 仅为重构改动，未添加新功能。\n\n# 模组演示\n![模组效果展示](https://cdn.modrinth.com/data/IvwI6YOW/images/21d6b30795faca98cbeb614ea94d00112d53d322.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

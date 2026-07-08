@@ -1,0 +1,6 @@
+{
+  "bodyHash": "syBvwHcEMO4=",
+  "content": "<h1>无界方块</h1><p>这款模组允许您在无边框全屏窗口中畅玩《我的世界》。这意味着您可以在不同显示器上操作其他应用程序时保持游戏开启，甚至直接在《我的世界》界面上方进行操作，而游戏不会被最小化。</p><p>与其他“无边框全屏”模组不同，<strong>无界方块</strong>具有高度可配置性，不会影响输入延迟，并明确支持所有主流平台——Linux、macOS，甚至Windows——而不是仅为某一类玩家提供勉强可用的体验，同时忽视其他玩家的存在。</p><hr><h2>使用方法</h2><p>要启用无边框全屏模式，请进入<code>视频设置</code>选项卡（通常可在该选项卡找到<code>全屏</code>设置），将其切换至新增的第三个选项：<code>无边框</code>。</p><p>根据您是否安装了Sodium模组，此选项可能位于以下位置之一：</p><p><img src=\"https://raw.githubusercontent.com/Kira-NT/cubes-without-borders/HEAD/media/video-settings.webp\" alt=\"视频设置\"> <img src=\"https://raw.githubusercontent.com/Kira-NT/cubes-without-borders/HEAD/media/video-settings-sodium.webp\" alt=\"视频设置（Sodium版）\"></p><p>此外，本模组还引入了<code>--borderless</code>启动参数，可强制游戏以无边框全屏模式启动，不受当前设置影响。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

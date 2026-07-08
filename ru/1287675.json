@@ -1,0 +1,6 @@
+{
+  "bodyHash": "x05AMdkckeU=",
+  "content": "<p>Некоторые моды не помечают свои очищенные брёвна тегом #forge:stripped_logs, из-за чего их нельзя использовать для создания оболочек в моде Create, а некоторые рецепты, использующие очищенные брёвна, также не работают с ними. Хотя этот мод был разработан для решения проблемы оболочек из Create, он должен работать и с другими рецептами, использующими тег #forge:stripped_logs.</p><p>Поддерживаемые моды:<br>- Autumnity<br>- Atmospheric<br>- BetterEnd<br>- Caverns and Chasms<br>- Environmental<br>- Upgrade Aquatic<br>- Oh The Biomes We've Gone<br><br><strong>Не требует Create</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

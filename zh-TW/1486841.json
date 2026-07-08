@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jG1pluzMRH0=",
+  "content": "<p><strong>CTA (Create Tank Additions)</strong> 是一款適用於 Minecraft 1.20.1 的 Forge 模組，新增了飛彈、炸彈及戰術武器系統，並與 Create Big Cannons (CBC) 和 Valkyrien Skies (VS) 整合。</p><ul>\n<li><strong>主要特色：</strong><ul>\n<li>與 VS 船隻整合的飛彈系統（飛彈會跟隨移動船艦追蹤位置/旋轉）</li>\n<li>CBC 引信系統（可用 CBC 引信右鍵點擊飛彈安裝）</li>\n<li>飛彈飛行期間自動載入區塊</li>\n<li>可用 Create 扳手旋轉飛彈與瞄準鏡</li>\n<li>發射時繼承船隻速度</li>\n<li>無線電腦控制（透過無線連接器將 CC：Tweaked 電腦無線連接周邊設備）</li></ul></li>\n</ul><h3>飛彈（9 種類型 × 3 種彈頭 = 27 個物品）</h3><p>每種飛彈皆有高爆彈（HE）、反戰車高爆彈（HEAT）及高爆破片彈（HEFRAG）版本：</p><ul>\n<li>3M-54 口徑（巡弋飛彈）</li>\n<li>AGM-88 HARM</li>\n<li>AIM-9 響尾蛇</li>\n<li>APKWS（導引火箭）</li>\n<li>地獄火</li>\n<li>九頭蛇-70（無導引火箭）</li>\n<li>卡秋莎（無導引火箭）</li>\n<li>R-77（主動雷達導引）</li>\n<li>TOW-2（線控導引）</li>\n</ul><h3>炸彈（6 種類型 × 3 種彈頭 = 18 個物品）</h3><p>每種炸彈皆有 HE、HEAT 及 HEFRAG 版本：</p><ul>\n<li>CBU-87（集束炸彈）</li>\n<li>GBU-12（雷射導引）</li>\n<li>GBU-24（重型雷射導引）</li>\n<li>M64（通用炸彈）- 僅限 HE 版本</li>\n<li>Rockeye（集束炸彈）</li>\n<li>蛇眼（減速炸彈）</li>\n</ul><h2>前置模組</h2><ul>\n<li><strong>Forge</strong></li>\n<li><strong>Create</strong></li>\n<li><strong>Valkyrien Skies</strong></li>\n<li>Thermodynamica</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

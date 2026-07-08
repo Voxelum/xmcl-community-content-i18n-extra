@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6D4/Wgfxvwc=",
+  "content": "<h2>終於修復柵欄浮在台階上的問題！</h2><p><img src=\"https://cdn.modrinth.com/data/cached_images/c54c61a6edce5158034656b4c632032f34997d82.png\" alt=\"橡木柵欄置於台階示意圖\"></p><h2>適用於所有柵欄類型！</h2><p><img src=\"https://cdn.modrinth.com/data/cached_images/e1e1090b00552c01354e2ea11fbe5aefc1eef13c.png\" alt=\"多種柵欄類型展示\"></p><h2>用台階柵欄完美圈養動物！</h2><p><img src=\"https://cdn.modrinth.com/data/cached_images/ab371df3b542f45df0e929c81914861df30add0a.png\" alt=\"受困牛隻示意\"></p><h1>疑難排解</h1><p>由於NeoForge/Forge/Fabric有時會錯置模組與原版資源包的加載順序，而本模組需添加至Minecraft資源包層級運作，必須確保加載順序靠後<br>\n若您的柵欄顯示如下圖異常，請務必調整資源包排序！\n<img src=\"https://cdn.modrinth.com/data/cached_images/7e0f53f9497e0ee6bc92f2412ae1d557a82447b5.png\" alt=\"常見問題示意\"></p><h1>原版兼容性</h1><p>卸載此模組後，柵欄將恢復顯示於台階上方，後續重新安裝時會再次貼合台階。完全兼容原版機制，移除模組不會造成存檔損壞。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

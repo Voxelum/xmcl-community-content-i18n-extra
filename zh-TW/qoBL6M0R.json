@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Yy3K83F6Vmo=",
+  "content": "# 簡易物品編輯器\n\n簡易物品編輯器是一款用於透過客戶端指令編輯物品的Minecraft模組，主要靈感來自創意伺服器上類似的編輯器\n\n![示範](https://github.com/White-145/item-editor/blob/main/demo.gif?raw=true)\n\n## 功能特色\n\n### `/edit` 指令：\n\n用於物品編輯的指令。參見[/edit指令](https://github.com/White-145/item-editor#edit-command)查看參數列表\n\n#### 文字佔位符\n\n在某些參數（如`name`或`lore line`）中，您可以使用前綴`&`來實現各種效果，例如：\n- `&k` 用於原版[格式代碼](https://minecraft.fandom.com/wiki/Formatting_codes)\n- `&#567FAB` 用於十六進位顏色\n- `&<key.jump>` 用於[按鍵綁定](https://minecraft.fandom.com/wiki/Controls#Configurable_controls)\n- `&[entity.minecraft.zombie]` 用於[翻譯文本](https://minecraft.fandom.com/wiki/Raw_JSON_text_format#Translated_Text)\n- `&_` 表示空格（\" \"）\n\n您也可以使用反斜線`\\`來跳脫`&`，以及使用`\\xXX`、`\\uXXXX`和`\\n`\n\n## 其他資訊\n\n- [問題回報](https://github.com/White-145/item-editor/issues)\n\n歡迎回報錯誤、崩潰、翻譯錯誤、模組建議、編碼建議等",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

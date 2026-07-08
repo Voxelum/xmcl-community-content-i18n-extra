@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Fk8m3ktDbfs=",
+  "content": "<p>&nbsp;</p><p>這個模組會讓「發光」物品照亮周圍環境，前提是：<br><br>1) 玩家裝備了該物品（手持或穿戴盔甲）<br>2) 物品掉落在地面上<br><br><br>您可以透過設定檔案，將任何物品ID新增為發光物品。也支援盔甲物品！</p><p>&nbsp;</p><p><a href=\"https://www.youtube.com/watch?v=Rwv8EZy6Qg4\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=Rwv8EZy6Qg4</a><br><br>您可以創建的光源數量沒有限制，但請注意它們相當消耗FPS。</p><p>&nbsp;</p><p>- 模組現在使用虛擬空氣和水方塊來實現光照（當光源移動時快速放置和移除它們）<br>- 這有幾個限制：只有完整的水方塊才能發出動態光源（瀑布或部分河流方塊不行）<br>- 如果光源位於某些非空氣方塊內（如樹葉或蜘蛛網），也無法運作<br>- 此模組現在是「標準」模組，線上遊玩時客戶端和伺服器端都需要安裝<br><br><br><br>說明：<br>將下載的檔案放入 mods 資料夾中<br>&nbsp;</p><p>&nbsp;</p><p><br><br>給其他模組開發者：請參閱原始碼。加入您自己的動態光源非常簡單</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tgWYp4D3bGo=",
+  "content": "<p><strong>免责声明</strong><br>这不是一个 Create 模组的附加组件，本模组并不依赖于它。它只是修复了 <a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-185901\" target=\"_blank\" rel=\"nofollow\">https://bugs.mojang.com/browse/MC-185901</a>。它的创建目的是专门解决玩家携带和渲染的大型装置问题，因为许多人为此需求而询问，因此命名为“Create:”，但它并不是 Create 模组的附加组件。</p><p><strong>信息</strong><br>这是一个仅客户端的模组。它使玩家数据能够达到 10MB，而不是原版的 2MB。</p><p>没有该模组时的错误：<br><img src=\"https://cdn.modrinth.com/data/jv0UKGOX/images/fd9a41a45608bb27e946261d76cb0353d4b8a630.png\" alt=\"没有该模组时的错误\" width=\"813\" height=\"125\"></p><p><strong>感谢</strong><br>XLPackets 1.16，我从该版本的 XLPackets 移植了这个功能。与 XLPackets 不同，这个模组仅适用于客户端。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

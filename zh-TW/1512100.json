@@ -1,0 +1,6 @@
+{
+  "bodyHash": "otVHWFKW42A=",
+  "content": "<p>村民交易循環器直接在村民交易介面添加一個緊湊的循環按鈕，讓村民交易變得更快、更乾淨。</p><p>在交易尚未進行前，可用它來重新洗牌村民的提案。一旦交易被鎖定，本模組會阻止正常洗牌，以避免破壞原版交易規則。</p><p><strong>功能特色</strong></p><ul>\n<li>在村民交易GUI中添加循環按鈕</li>\n<li>在村民交易鎖定前重新洗牌交易</li>\n<li>支援 Fabric 和 NeoForge</li>\n<li>支援 Minecraft&nbsp;<span>1.21.11 和 26.1.X</span></li>\n<li>在 Fabric 上可透過 Mod Menu 進行設定</li>\n<li>具備冷卻處理的伺服器安全網路連線</li>\n<li>當伺服器不支援模組時，按鈕會自動停用</li>\n<li>支援英文與德文</li>\n</ul><p><strong>多人模式</strong><br>若要交易循環功能在伺服器上生效，伺服器端也必須安裝此模組。用戶端仍可加入不支援的伺服器，但重新洗牌按鈕將無法使用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

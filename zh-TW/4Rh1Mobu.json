@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MAx+ax4bwgY=",
+  "content": "**1.20.1 Forge 需要 Embeddium**\n\n**1.21.1 NeoForge 需要 Sodium**\n\n**僅限客戶端模組**\n\n\n**使物品渲染速度提升 50% 以上**\n\n**透過：**\n\n- 背面剔除\n- 快速數學運算\n- LOD（細節層級）\n\n**使粒子渲染速度提升約 50%**\n\n**透過：**\n\n- 快速數學運算\n- 快速剔除\n- 光源快取\n\n**使實體渲染速度提升約 30%**\n\n**透過：**\n\n- 快速數學運算\n- 背面剔除",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

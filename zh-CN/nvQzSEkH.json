@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RYiWDwovp98=",
+  "content": "# Jade 🔍\n\n<center><img src=\"https://cdn.modrinth.com/data/nvQzSEkH/images/7d10e9c837c33d81b39950fb2f7bacc85df92ee3.gif\"/></center>\n\nJade 是一款信息 HUD 模组——适用于现代 Minecraft 版本的 Hwyla/Waila。旨在提供更好的用户体验和 API。\n\nJade 可以仅安装在客户端。但许多功能需要服务端也安装 Jade 才能使用。（物品存储、酿造台燃料量、蜂箱中的蜜蜂数量……）\n\n**如需模组集成，可尝试 Jade Addons：[NeoForge](https://modrinth.com/mod/jade-addons-forge) [Fabric](https://modrinth.com/mod/jade-addons-fabric)**\n\n### 按键（默认）：\n\n - 小键盘 0：打开配置界面\n - 小键盘 1：切换叠加层显示\n - 小键盘 2：切换液体显示\n - 小键盘 3：显示配方（需要 JEI）\n - 小键盘 4：显示用途（需要 JEI）\n - 小键盘 5：朗读目标\n\n### 相比 Hwyla 的主要改进：\n\n - API 重新设计\n - 更多原版附加功能\n - 更高可配置性\n - 更好的无障碍支持\n\n[![想支持我和模组开发吗？BisectHosting 是最佳选择。新客户使用促销代码 \"snownee\" 可享受游戏服务器首月 25% 折扣。全天候支持与快速响应，满足您的一切游戏需求。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/oktbru)\n\n根据原项目 Hwyla 的要求，Jade 采用 [知识共享-署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) 许可证。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WtB37UUmjzY=",
+  "content": "# ScalableLux\n\n一个基于Starlight的Fabric模组，旨在提升Minecraft中光照更新的性能。\n\n## 为何存在此分支？\n- Starlight模组自[2024年3月8日](https://github.com/PaperMC/Starlight/commit/cca03d62da48e876ac79196bad16864e8a96bbeb)起已停止维护。\n- 原版光照引擎性能仍是高效区块生成的主要瓶颈。\n- 基础版Starlight仍[比原版快100%](<https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#light-engine-performance-changes-in-120-from-vanilla>)，可将区块系统的处理能力扩展至24线程以上。\n- Starlight的\"无状态\"设计允许并行光照更新，进一步拉大性能差距。这对于[多玩家高负载的专用服务器尤为重要](https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#is-starlight-obsolete)，因此对Fabric或其他拥有大量玩家的模组服务器同样至关重要。\n\n## 本分支有何改进？\n- 包含Starlight的所有性能优化及额外错误修复。\n- 可选启用并行光照更新，在高速世界生成和密集光照更新场景下显著提升性能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

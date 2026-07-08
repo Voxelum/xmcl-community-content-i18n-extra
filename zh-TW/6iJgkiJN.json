@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JKw+ysPRoW4=",
+  "content": "這是我嘗試製作的一個 HUD 顯示延遲的模組。\n\n![範例顯示](https://cdn.modrinth.com/data/6iJgkiJN/images/caf6f5efad1e77534a5bb3248086ddd0f3f789eb.png)\n\n外觀設定可以透過逃脫選單左上角的按鈕（僅限 1.8.9 版本）、按鍵綁定（預設為 -）以及指令 /pingcounter（1.21.x 以上版本）來進行調整。\n\n![設定選單](https://cdn.modrinth.com/data/6iJgkiJN/images/7786ae27bc9db6a8a786098c831596e486ac6c39.png)\n\n如果設定按鈕（僅限 1.8.9 版本）與其他模組重疊，可以在設定檔中將 \"hideSettingsButton\" 設為 true 來關閉它。\n\n在顯示的文字中，$[ping] 會被替換為與伺服器的延遲數值。將文字框留空則會恢復為預設值。\n\n\n**更新後，設定檔可能會有所變動。**\n\nGitHub：https://github.com/EverTech1/PingCounter\n\n回報問題請至此處：https://github.com/EverTech1/PingCounter/issues\n\n聯絡信箱：evertech1mc@gmail.com",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

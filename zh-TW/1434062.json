@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HBGZKy3WLZU=",
+  "content": "<p>這個模組為 Create 新增了兩種動力來源：跑步機與女僕馬達。</p><h3>跑步機</h3><ul>\n<li>玩家可以點擊站上跑步機。當玩家在跑步機上奔跑時，跑步機會產生<strong>手搖曲柄兩倍的動力</strong>。</li>\n<li>與<strong>東方小女僕</strong>模組整合。安裝後，會為女僕新增「跑步機」工作模式。女僕會自動尋找附近的跑步機進行奔跑。</li>\n</ul><h3>女僕馬達</h3><ul>\n<li>僅在安裝<strong>東方小女僕</strong>模組時出現的可攜式動力源。放入女僕的<strong>靈魂寶珠或照片</strong>即可供電。會自動計算輸出應力。</li>\n<li>運作時會顯示工作動畫。</li>\n</ul><h3>重要注意事項</h3><ul>\n<li>若您只希望女僕操作手搖曲柄，請使用 MaidUseHandCrank 模組。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

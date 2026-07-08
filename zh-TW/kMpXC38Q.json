@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xI4BAqgeZds=",
+  "content": "[![](https://ars.guide/banner.gif)](https://jarva.bloom.host/)\n![](https://img.shields.io/badge/LICENSE-LGPL--3.0-fe7d37?style=for-the-badge)\n[![](https://img.shields.io/badge/Discord-6A7EC2?style=for-the-badge&logo=discord&logoColor=ffffff&color=7389D8)\n](https://discord.gg/TAVnu2xqrR)\n\nArs Artifice 是熱門魔法模組 [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) 的擴充內容。\n\nArs Artifice 主要著重於一項全新的「工藝機制」，讓玩家能夠製作「工藝飾品」，這些飾品會在特定事件觸發玩家時自動施放法術。\n\n目前共有四種工藝觸發方式：\n* 痛苦 - 受到特定可調整的傷害量時觸發\n* 墜落 - 墜落特定可調整的距離時觸發\n* 著地 - 墜落特定可調整的距離後觸發\n* 間隔 - 經過特定可調整的時間後循環觸發\n\n另外也新增了三種可刻印工藝方法的飾品：\n* 法術儲存之戒、項鍊與腰帶\n\n要開始使用工藝系統：\n1. 製作一個工匠工作台\n2. 使用抄寫台學習工藝觸發方式的符文\n3. 製作一個法術儲存飾品，並在工匠工作台上使用它，這將讓你設定觸發法術的事件。\n4. 將法術儲存飾品放入抄寫台，抄寫你想要儲存的法術。\n\n裝備飾品後，一切就會開始運作。\n\n最後，Ars Artifice 還引入了一種消耗性的法術施放道具：法術寶石。法術寶石讓你能在不消耗自身魔力條的情況下施放法術，共有三個等級，每個等級會提升法術寶石在損壞前可使用的魔力總量。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

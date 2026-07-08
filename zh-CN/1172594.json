@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+KiVcSaLrKo=",
+  "content": "<p>你的按键绑定太多了，但物理按键不够用？你是不是厌倦了频繁把不常用按键改成其他绑定？记不住每个键的功能？那么这个模组就是为你准备的。</p><p>这个模组添加了“按键包”，也就是将多个按键绑定整合到一个按键上。</p><h2>创建按键包</h2><p>要创建新的按键包，打开按键绑定界面，在“按键包”分类（应该是第一个）下点击<strong>添加按键包</strong>按钮，然后输入按键包名称。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1172594/description_0d048f10-fb7d-46ef-bd7b-5b393a93b0ed.png\"></p><p>之后，点击按键包上的<strong>编辑</strong>按钮。在新界面中，悬停在中间的圆形菜单上，点击<strong>添加条目</strong>。这会再次打开按键绑定界面，但此时每个按键绑定都有一个“选择”按钮。在这里你可以选择要添加到按键包中的绑定。</p><p>选择绑定后，你可以编辑圆形菜单中的每个条目，为其设置自定义名称和物品图标。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1172594/description_9895a69b-529b-4e32-9f6f-3e1b63dafd7b.png\"></p><h1>使用按键包</h1><p>按 ESC 退出编辑界面，然后将按键包绑定到一个按键上。之后，在游戏中你可以长按分配的按键来呼出圆形菜单。将鼠标悬停在某个条目上并左键点击，即可触发对应的按键绑定。就是这么简单！</p><p><img src=\"https://media.forgecdn.net/attachments/description/1172594/description_05797330-b77a-4709-a735-e739a5057624.png\"></p><p>你也可以通过右键点击某个按键映射来将其标记。标记后，按下分配给按键包的按键会立即触发该映射，而无需打开圆形菜单。当某个按键被标记时，可以通过按住<strong>圆形菜单修饰键</strong>（默认是<strong>左 Alt</strong>）再次打开圆形菜单。当前被标记的按键会以红色高亮显示在圆形菜单中。</p><p>&nbsp;</p><p>此模组兼容 <a href=\"https://www.curseforge.com/minecraft/mc-mods/controlling\" rel=\"nofollow\">Controlling</a></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

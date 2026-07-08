@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kdHn5p6wyBk=",
+  "content": "<p>玩家和生物在穿過火把時有一定機率會將其熄滅。潛行可以避免此情況。</p>  \n<p>這使得重返洞穴或荒野更加危險，因為遊蕩的敵對生物或蝙蝠可能會破壞你的光源。</p>  \n<p>鼓勵玩家在住所和建築中使用其他更穩定且有價值的照明來源，或以各種方式隱藏火把。</p>  \n<p>若你連結至此頁面並以任何方式告知我（留言或推特），即可將此模組用於模組包中。</p>  \n<p><strong><em>&nbsp;</em></strong></p>  \n<p><strong><em>適用於 Minecraft 1.14</em></strong></p>  \n<p>可破壞方塊的標籤設定，預設為火把。可以是任何可穿越的方塊。</p>  \n<p>實體排除清單可設定哪些實體不會破壞光源（例如玩家）<br><br>資料範例</p>  \n<div><div><p><br><br></p>  \n<p>#設定<br>[fragiletorches]</p>  \n<p>[fragiletorches.entities]</p>  \n<p>[fragiletorches.entities.gentle]<br>#「溫和」實體清單，這些實體永遠不會碰倒任何標記的火把<br>list = [\"minecraft:bat\", \"minecraft:boat\", \"minecraft:cat\", \"minecraft:ender_pearl\", \"minecraft:egg\", \"minecraft:horse\", \"minecraft:item\", \"minecraft:donkey\", \"minecraft:experience_orb\", \"minecraft:minecart\", \"minecraft:player\", \"minecraft:villager\", \"minecraft:wolf\"]</p></div></div>  \n<p>* 資料標籤檔案路徑</p>  \n<p>按F3可在畫面右側查看哪些方塊具有此標籤<br>* <br>&nbsp; /data/fragiletorches/tags/blocks/fragile.json</p>  \n<div class=\"spoiler\"><p>&nbsp; <br>&nbsp;<br>{<br>\"replace\": false,<br>\"values\": [<br>\"minecraft:torch\",<br>\"ceilingtorch:torch\",<br>\"tconstruct:stone_torch\",<br>\"minecraft:sugar_cane\"<br>]<br>}</p></div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

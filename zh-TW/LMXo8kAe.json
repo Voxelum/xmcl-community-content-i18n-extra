@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Kyqp02vEvAg=",
+  "content": "史詩戰鬥 x 鐵魔法：強化動畫\n\n（原為史詩戰鬥 x 鐵魔法動畫修復）\n\n若您從舊版本更新至 2.1.8 或更新版本，請刪除模組設定檔 (efiscompat.toml) 以便重新生成正確設定\n\n最新更新新增資料包支援，可自訂法術動畫\n\n本模組透過史詩戰鬥系統為鐵魔法書添加自訂施法動畫。需同時安裝於客戶端與伺服器。\n\n重要：請依照下方說明關閉鐵魔法的客戶端設定，否則在施法時第一人稱視角會看到自己的臉部\n\nirons_spellbooks-client.toml\n[動畫設定]\n    #在第一人稱施法時顯示的內容\n    showFirstPersonArms = false\n    showFirstPersonItems = false\n\n特色功能：\n\n- 多種施法動畫，當主手持有法杖時會觸發獨特法杖變體\n- 可設定法杖物品定義與動畫期間隱藏手持物品的選項\n- 支援在執行史詩戰鬥技能（如格擋、翻滾等）時取消施法\n- 幾乎所有功能皆可完全自訂設定\n\n![施法動畫](https://cdn.modrinth.com/data/cached_images/ac17fef3eccd34d27f53afa8a6fa78148f51cbc5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

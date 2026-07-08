@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jlNvH/v6vfM=",
+  "content": "<h1>我已入睡</h1><p>這個模組在多人模式跳過夜晚後，會重置所有玩家的睡眠計數器，確保未睡覺的玩家不會生成夜魅。</p><blockquote>\n  <p>此模組僅需在伺服器端安裝即可運作，客戶端無需安裝本模組。</p>\n</blockquote><h2>這個模組有什麼功能？</h2><p>在Minecraft多人模式中，<code>playersSleepingPercentage</code>遊戲規則允許特定比例的玩家睡覺以跳過夜晚。然而，即使夜晚被跳過，未睡覺玩家的睡眠計數器仍保持不變。這導致未參與跳過夜晚的玩家在後續夜晚仍會被夜魅攻擊，儘管夜晚已被跳過。</p><p>本模組透過在跳過夜晚後重置所有玩家的睡眠計數器來解決此問題，確保沒有人會被夜魅糾纏。它使多人遊戲體驗更流暢，確保所有玩家的睡眠狀態在跳過夜晚後能正確同步。</p><h2>如何使用？</h2><p>本模組與<code>playersSleepingPercentage</code>遊戲規則無縫配合。使用時，只需透過以下指令設定跳過夜晚所需的睡覺玩家比例：</p><pre><code>/gamerule playersSleepingPercentage &lt;數值&gt;</code></pre><p>例如，設定為<code>50</code>表示當一半玩家睡覺時，夜晚將被跳過。一旦夜晚跳過，本模組會自動重置所有玩家（包括未睡覺者）的睡眠計數器，確保後續夜晚無人會生成夜魅。無需額外設定——只需設定比例，模組會處理其餘事項！</p><p>此外，本模組新增了一個名為<code>doBetterServerSleep</code>的遊戲規則，可啟用或停用睡眠計數器重置功能。預設情況下此功能為啟用狀態。切換功能請使用以下指令：</p><pre><code>/gamerule doBetterServerSleep &lt;true|false&gt;</code></pre><p>設定為<code>true</code>以啟用睡眠計數器重置，或<code>false</code>以停用。</p><h2>授權條款</h2><p>程式碼依<a href=\"https://github.com/gizmo-ds/i-have-slept-mod/blob/main/LICENSE\" target=\"_blank\" rel=\"nofollow\">MIT授權</a>發布，歡迎用於專屬專案中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

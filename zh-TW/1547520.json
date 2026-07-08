@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jMEG0xYvfuo=",
+  "content": "<p>在小型或簡單的模組配置中，自訂槍枝通常能正常運作。但在大型模組包中，您可能會遇到類似以下的錯誤：</p>\n<p>「net.minecraft.resourceLocationException: Non [a-z0-9/._-] character in path of location: tacz:gun」</p>\n<p>這是因為某些自訂槍枝包包含了無效的資源路徑，在更嚴格的載入條件下會出現問題。</p>\n<p>這個模組會在執行階段自動修復這些問題，讓您的自訂 <strong>TaCZ</strong> 槍枝包，即使在大型模組包中也能順利載入並正常運作。</p>\n<ul>\n<li>修復無效的資源路徑錯誤</li>\n<li>防止在大型模組包中崩潰</li>\n<li>確保自訂 TaCZ 槍枝正常載入</li>\n<li>全自動運行——無需任何設定</li>\n</ul>\n<p><strong>需求：</strong><br>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/tacz-1-21-1\" target=\"_blank\" rel=\"nofollow\">-&nbsp;[非官方] TaCZ 1.21.1 NeoForge 移植版</a><br>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/tacz-pack-upgrader\" target=\"_blank\" rel=\"nofollow\">- TaCZ 槍枝包升級工具</a></p>\n<p><strong>使用方法：</strong><br>\n1. 安裝 TaCZ 與 TaCZ 槍枝包升級工具<br>\n2. 將您的自訂槍枝包放入「tacz」資料夾<br>\n3. 安裝此模組<br>\n4. 啟動遊戲——完成！</p>\n<p>此模組不會增加任何內容。它僅確保您的自訂槍枝，特別是在大型模組包中，能夠順暢運作。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

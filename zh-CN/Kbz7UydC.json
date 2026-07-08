@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QARtqnPZRAA=",
+  "content": "## 专注于实体优化的服务器模组，在最大程度减少对游戏玩法影响的同时，降低实体对服务器的负载。\n\n# 功能特点：\n\n- 减少高消耗的生物漫游寻路频率，若生物远离玩家则效果更显著。\n- 降低高消耗的敌对生物目标搜索任务的执行频率。\n- 对怪物禁用每刻持续运行的高消耗3x3x3危险扫描（你的宠物安全无忧）。\n- 禁用已处于寻路跟随状态时的频繁路径重新计算。\n- 减少僵尸/尸壳寻找海龟蛋进行踩踏的高消耗搜索行为，默认完全禁用此功能。\n- 优化僵尸村庄袭击任务中大量扫描村民的高消耗行为，默认将触发概率降至1/3。\n- 当生物远离玩家时，进一步降低漫游寻路和敌对目标搜索频率。\n- 每项功能均可独立开关，部分功能可通过取消概率进行精细调节。\n\n\n# 性能演示：\n\n每次测试我都额外生成了大量生物——在20核i5-13600K处理器上保持1000个怪物生成以模拟服务器压力。\n\n\n## All the mods 7 - MC 1.18 整合包：\n\n模组关闭：平均38毫秒 - 最大95毫秒\n\n模组开启：平均30毫秒（服务器负载降低22%） - 最大45毫秒（峰值负载降低50%+）\n\n![https://raw.githubusercontent.com/Corosauce/mobtimizations/1.18/showcase/atm_7.png](https://raw.githubusercontent.com/Corosauce/mobtimizations/1.18/showcase/atm_7.png)\n\n## Deceasedcraft - MC 1.18 整合包：\n\n模组关闭：平均32毫秒 - 最大61毫秒\n\n模组开启：平均24毫秒（服务器负载降低25%） - 最大50毫秒（峰值负载降低20%）\n\n![https://raw.githubusercontent.com/Corosauce/mobtimizations/1.18/showcase/deceasedcraft.png](https://raw.githubusercontent.com/Corosauce/mobtimizations/1.18/showcase/deceasedcraft.png)\n\n需要CoroUtil运行：[CoroUtil](https://modrinth.com/mod/coroutil)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

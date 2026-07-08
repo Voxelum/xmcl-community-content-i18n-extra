@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3S/BO3KslEg=",
+  "content": "<h1>标记你的远方！</h1><p>本模组需要安装Distant Horizons和Xaero的小地图作为前置依赖。由于作者能力与经验有限，暂时无法确定这两项依赖所需的版本范围，因此取消了它们的版本限制。</p><p>本模组的灵感显然来源于《塞尔达传说：旷野之息》中的望远镜标记功能——作者非常喜欢那种标记远方目标，然后朝着它前进的感觉。</p><p>本模组允许你在手持望远镜右键观察时，按下左键并在视线位置放置一个Xaero小地图的航路点。</p><p>同时，它也支持你通过Distant Horizons的API在未加载的远距离区块中添加航路点。</p><p>注意：由于DH光线投射的计算瓶颈，如果你的整合包对设备压力较大，标记一个超过1000米距离的航路点可能需要较长时间（少则数秒，多则十几秒）。</p><h1>预览</h1><p><img src=\"https://i.ibb.co/27M9Xgtm/preview1.png\" alt=\"示例图片\">\n<img src=\"https://i.ibb.co/whKP4MM7/preview2.png\" alt=\"示例图片\">\n<img src=\"https://i.ibb.co/8gQtMcCR/preview3.png\" alt=\"示例图片\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

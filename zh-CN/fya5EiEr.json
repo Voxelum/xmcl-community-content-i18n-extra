@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TZrh3du+eNA=",
+  "content": "> 本模组添加了一位名为“裂伤魔”的突袭型Boss：  \n> 原版作者：min01  \n> 新版作者：magispeller_illagebossmaker, Theillagecoder\n\n- · 有概率（可配置）在袭击事件中出现；\n- · 拥有680点生命值（×340），根据攻击方式可造成13~24点伤害；\n- · Boss剩余生命值越低，其防御力与攻击伤害越高；\n- · 生命值降至40%或以下时，将进入第二阶段：解锁新的攻击方式，并额外提升攻击伤害与攻击范围；\n- · 近战攻击后，Boss会短时间内获得速度等级10；\n- · 该Boss还能发射剑刃能量攻击远处目标；\n- · 冲锋攻击：快速冲向目标，至少造成46点伤害；\n- · 召唤：召唤数名裂隙刃龙王助战；\n- · 格挡：此动作期间，Boss免疫大部分伤害；\n- · 利刃连斩：此招式可在短时间内造成极高伤害（20伤害/秒）；\n- · 该Boss目前未添加掉落物。\n![裂伤魔召唤火龙喽啰](https://cdn.modrinth.com/data/cached_images/d61c5583c1527ffdea2f26103a7f513fa7bc1c37.jpeg)\n![裂伤魔释放强力剑刃能量](https://cdn.modrinth.com/data/cached_images/e455c47c8bd3c78ca9cb153cfe5a9440d18f7956.jpeg)\n![第二阶段](https://cdn.modrinth.com/data/cached_images/8005614e00a21d75b80d8e849cefae86e5800c89.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

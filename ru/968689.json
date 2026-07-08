@@ -1,0 +1,6 @@
+{
+  "bodyHash": "agjiN35qZlA=",
+  "content": "<h1>Центральный прицел</h1><p>Исправляет раздражающую ошибку, когда центр прицела не совпадает с центром экрана.</p><p>Пример (красный крест = центр экрана):</p><table>\n<thead>\n<tr>\n<th style=\"text-align:center\"><strong>Vanilla Minecraft</strong></th>\n<th style=\"text-align:center\"><strong>С модом</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\"><img src=\"https://i.imgur.com/TGEMXhx.png\" alt=\"картинка с прицелом, смещенным от центра\"></td>\n<td style=\"text-align:center\"><img src=\"https://i.imgur.com/qezdiBT.png\" alt=\"картинка с прицелом в центре\"></td>\n</tr>\n</tbody>\n</table><p>Если ширина прицела составляет нечетное количество пикселей (например, 3), он все равно будет смещен, но всего на половину пикселя.</p><p>Это также работает с любыми ресурс-паками, меняющими прицел!</p>\n\nСодержание описывает мод/ресурс-пак/модпак/шейдер-пак для Minecraft или другие связанные с игрой ресурсы. Пожалуйста, сохраняйте стиль языка приятным для геймеров.",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

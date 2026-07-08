@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3eRE71PBNNk=",
+  "content": "<div>這個模組最佳化了<strong>CompoundTag 類別</strong>中的多種方法：</div><ol>\n<li>針對各種<code>get</code>方法：在原版遊戲中，它會先呼叫<code>contains</code>方法檢查鍵值是否存在，然後再呼叫<code>get</code>方法。這導致了<strong>兩次映射查找</strong>。本模組將這兩次操作合併為一次並應用內聯，大幅提升了查找速度。</li>\n<li>最佳化了該類別的迭代邏輯：它將使用<code>keySet</code>搭配<code>get</code>的迭代模式，替換為<strong>同時迭代鍵與值</strong>的方式，從而避免了迭代過程中的大量查找操作。</li>\n<li>最佳化了其他相關類別中涉及<code>get</code>方法的操作。</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

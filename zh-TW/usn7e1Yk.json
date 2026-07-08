@@ -1,0 +1,6 @@
+{
+  "bodyHash": "g8lCfJCTNvk=",
+  "content": "## 吊人結\n\n## \n![banner](https://cdn.modrinth.com/data/cached_images/f21ee1fa44dcc7ea44c4c2e26820f783d84747c9.png) \n\n \n\n### 吊人結是一款以萬聖節為主題的裝飾模組\n\n \n\n_**免責聲明：**_\n_本模組完全用於裝飾用途。_\n_本模組以萬聖節及萬聖節裝飾為主題。_\n_本模組不涉及任何政治立場。_\n\n \n\n遊戲中新增了：\n- 吊人結方塊\n- 吊人結物品\n- 吊人結機制\n\n \n\n吊人結可用拴繩合成：\n![recipe](https://cdn.modrinth.com/data/cached_images/a18be307eaef0cd1aef4b8e616b918b9054e927d.png)\n\n \n\n- 不死生物不會受到傷害，並可作為裝飾使用。\n- 非不死生物將會受到傷害。\n- 吊人結本質上是陷阱，生物必須走進其中才能被捕捉。\n\n \n\n**查看設定檔**可調整傷害數值，以及生物是否會受到傷害。\n受吊人結影響的生物儲存在 data/hangman/noose_entities/ 的 JSON 檔案中。\n\n \n\n可透過建立資料包來擴充清單，讓模組中的生物也能被吊起。\n\n \n\n粉絲自製資源包：新的吊人結模型 >\nhttps://legacy.curseforge.com/minecraft/texture-packs/better-noose\n\n \n\n如有問題或錯誤回報，請使用 [GitHub](https://github.com/AbsolemJackdaw/HangMan/issues) 上的問題標籤。\n您也可以透過 [Discord](https://discord.gg/8MEdFZh) 聯絡我，提供建議或尋求問題解決協助。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

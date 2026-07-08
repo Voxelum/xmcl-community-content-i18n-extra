@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Sp7efkXEd6w=",
+  "content": "# ModularUI\n這是 Minecraft 的終極 GUI 模組。\n\n## 歷史\n我第一次接觸 ModularUI 的形式是在 1.12.2 版本的 GTCE 中。這個概念很棒。減少了許多樣板程式碼。不需要 GUI 材質表。還有更多優點。然而存在很多問題。有許多錯誤。程式碼一團亂，而且與其他模組（如 InventoryTweaks）的相容性非常困難。\n後來 GTCEu 作為 GTCE 的分支被創建。UI 程式碼得到了一些改進，但不知為何變得更加混亂。那時 CleanroomMC 已經決定製作一個重新設計、獨立的 ModularUI 版本。所以我自願接手這項工作。然後我完成了。\n2022 年 5 月 22 日，第一個版本在 CurseForge 上發布。與 GTCE/GTCEu 相比，這是一個巨大的改進，但我仍然不夠滿意。所以在幾次更新和幾個月後，我開始重寫模組的部分內容。然而重寫的範圍變得如此之大，幾乎成了全面重寫。值得嗎？我不知道，但我現在對結果很滿意。\n\n## 功能特色\n- 類似視窗的面板系統\n- 小工具如按鈕、文字欄位（自訂實現，非原版垃圾）或滑桿\n- 佈局小工具如行、列、網格和列表\n- 自訂實現的滾動功能，帶有流暢動畫\n- 數字文字欄位的數學表達式解析器\n- 用於特定部分變換的視口實現（如可滾動列表）\n- 輕鬆同步任何數值，使模組可用於 TileEntities/BlockEntities 等用途\n- 面板的開啟和關閉動畫\n- 與 InventoryBogoSorter 的相容性",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

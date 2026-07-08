@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JwfYUEGzv8Y=",
+  "content": "<div align=\"center\">\n  \n<img alt=\"Exposure\" src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/main.png\" width=225/>\n<br><br>\n\n### Exposure Catalog 是 [Exposure](https://modrinth.com/mod/exposure) 的一个小型扩展模组\n\n<br>\n\n它添加了 `/exposure catalog` 命令，可以打开一个GUI界面查看当前世界中存储的所有曝光照片，并支持导出或删除功能。\n\n同时还提供**\"纹理\"**模式，可查看所有已加载的纹理资源（包括原版、模组及资源包中的材质）。\n\n<img alt=\"Catalog\" src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/screen.png\" width=1000/>\n<br><br>\n使用该命令需要3级权限（单人游戏中开启作弊即可满足）。\n\n需同时在客户端和服务端安装本模组。\n\n</div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

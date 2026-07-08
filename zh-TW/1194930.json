@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ulp2EVjjHoI=",
+  "content": "<p>用在我的模組包中，但原本的 Forge 版本已不再更新，而 Dust 的版本是唯一更新到 1.20.1 的。<br>原始模組在此：<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fdusts-keymap\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/dusts-keymap</a>，此為移植自：<a href=\"https://www.curseforge.com/minecraft/mc-mods/keymap\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/keymap</a><br><br>這個模組是一個依賴較少的自訂設定畫面，將按鍵綁定按鈕替換為按鍵地圖按鈕。此模組也允許使用 Shift、Alt、Ctrl 鍵，甚至可組合普通按鍵。如果用 Ctrl 來蹲下可能會出現錯誤（用 Ctrl 蹲下會觸發其他模組，或這些模組會強制指定自己的按鍵，將盡快修復！）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

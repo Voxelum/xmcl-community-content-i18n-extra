@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8WPI+/7MVm8=",
+  "content": "# Tablist Plus\n\n**Tablist Plus** 是一款由 **EFLGANG** 與 ***Clevora Studios*** 開發的輕量級客戶端 Fabric 模組，讓 Minecraft 原版 TAB 玩家列表變得更流暢、更簡潔且更具現代感。\n\n它保留原始伺服器 TAB 佈局不變，同時加入細微動畫、可選背景模糊、縮放效果、滑入移動效果，以及可設定的角落樣式。\n\n## 功能特色\n\n- 流暢的 TAB 開啟與關閉動畫\n- 支援原版 TAB 佈局\n- 滑入移動效果\n- 縮放動畫\n- 可選背景模糊\n- 方形或圓角樣式\n- 可調整動畫速度\n- 可調整背景透明度\n- 支援 Mod Menu\n- 簡潔的 Cloth Config 設定\n- 完全客戶端運作\n\n## 相容性\n\n**Tablist Plus** 專為 **Minecraft 1.21.11** 搭配 **Fabric** 設計。\n\n此模組僅作用於客戶端，無需安裝在伺服器上。伺服器的 TAB 標題、頁尾、階級、圖示與顏色均保持不變。\n\n## 需求環境\n\n- Fabric Loader\n- Fabric API\n- Mod Menu\n- Cloth Config",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

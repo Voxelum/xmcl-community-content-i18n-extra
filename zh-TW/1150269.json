@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Z/KWF6zxUl8=",
+  "content": "<h1>我製作這些兼容模組的目標，是透過移除重複的物品、生物和方塊，讓模組包中的各模組能更流暢地協作。<em>它確保所有依賴被移除內容的功能仍可正常運作，方法是將這些依賴重新導向至保留的等效</em><em>物品、生物與方塊</em><em>。</em></h1><h2 style=\"text-align:center\"><strong>變更清單</strong></h2><h4><strong>已移除重複物品</strong></h4><ul>\n<li>Alex's Caves 鈾礦</li>\n</ul><h4><strong>已移除重複方塊</strong></h4><ul>\n<li>Alex's Caves 鈾礦方塊</li>\n<li>啟蒙輻照燈</li>\n<li>啟蒙核彈</li>\n<li>啟蒙核能爐</li>\n</ul><h4><strong>合成配方調整</strong></h4><ul>\n<li>所有需要鈾礦的 Alex's Caves 配方現已改為需要輻照礦（現已重新命名為鈾礦）</li>\n</ul><h4><strong>戰利品表調整</strong></h4><ul>\n<li>Alex's Caves 輻射岩鈾礦現在掉落輻照礦（現已重新命名為鈾礦）</li>\n<li>Alex's Caves 震動巨獸戰利品表包含輻照礦、耗竭輻照礦和鈾礦碎片（已移除鈾礦）。</li>\n</ul><h2 style=\"text-align:center\"><strong>&nbsp;</strong></h2>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

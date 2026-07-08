@@ -1,0 +1,6 @@
+{
+  "bodyHash": "u7KZLftM1JE=",
+  "content": "<p>此材質包會顯示任何玩家的生命值，但它是根據<strong>百分比而非實際生命值</strong>來計算。因此，在某些情況下，顯示的心數可能與玩家的實際生命值不符。</p>\n\n<p>在預設生命值的正常遊戲中，這通常不會被察覺，顯示結果會看起來很準確。然而，在模組化或自訂情境下，當生命值增加時，差異就會變得明顯。</p>\n<h2>使用方法</h2>\n<ol>\n<li>下載並安裝此材質包</li>\n<li>安裝&nbsp;<a href=\"https://fabricmc.net/use/installer/\" rel=\"noopener nofollow ugc\">Fabric</a></li>\n<li>確保你在模組資料夾中擁有&nbsp;<a href=\"https://modrinth.com/mod/entity-model-features\">EMF</a>&nbsp;和&nbsp;<a href=\"https://modrinth.com/mod/entitytexturefeatures\">ETF</a></li>\n<li>啟動遊戲並啟用此材質包</li>\n</ol>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_624405e9-664e-456b-89c8-25ceeb8156e3.png\" alt=\"1\"></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

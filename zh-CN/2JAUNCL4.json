@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vHdC99h1IVg=",
+  "content": "![](https://i.ibb.co/FVrzKQ4/falling-leaves.png)\n\n这个适用于 Minecraft 1.16+ 的 Forge 模组为树叶方块添加了一个整洁的小粒子效果。用户可以配置哪些类型的树叶方块会掉落树叶以及这些树叶掉落的频率。这是一个仅客户端的模组。\n\n这个模组是从 [Falling Leaves (Fabric)](https://modrinth.com/mod/fallingleaves) 移植过来的（用数据包替换了配置界面，详情见下文）。\n\n![](https://i.ibb.co/qRYkDjk/Y6zGq33.gif)\n\n## 配置：\n\n你可以在配置目录中的 `fallingleaves-client.toml` 文件中配置以下设置：\n\n`leafSize`：修改树叶的大小\n\n`leafLifespan`：修改树叶消失所需的时间\n\n`leafSpawnRate`：修改树叶生成的数量\n\n`coniferLeafSpawnRate`：修改针叶树树叶生成的数量\n\n`dropFromPlayerPlacedBlocks`：玩家放置的方块是否也应该掉落树叶\n\n`minimumFreeSpaceBelow`：树叶方块下方需要多少空间才能生成树叶\n\n`disableWind`：禁用树叶粒子的风效果\n\n`windlessDimension`：一个没有风的维度类型的列表\n\n#### 1.18\n\n`seasonFallRate`：一个宁静季节的落叶率修改器列表\n\n## 数据包：\n\n要定义树叶为针叶树，除了嵌入的默认值外，你需要创建一个数据包，遵循与嵌入值相同的模式，路径为 `data/modid/fallingleaves/blockname.json`，语法和默认值如下：\n\n```json\n{\n  \"spawnrate\": 1.0,\n  \"isConifer\": false\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

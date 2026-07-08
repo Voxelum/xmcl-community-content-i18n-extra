@@ -1,0 +1,6 @@
+{
+  "bodyHash": "J33/cusAH0g=",
+  "content": "![](http://i.imgur.com/PoBrnNM.jpg)  \n\n曾经觉得物品栏后面的世界太分散注意力了吗？那么这个模组就是为你准备的！  \n\n![](https://i.imgur.com/PurJ43u.png)\n\n\nBlur 为所有 GUI 背景添加了一个高斯模糊着色器，使其逐渐模糊，呈现出一种时尚的效果。它还具有高度可配置性，因此你可以根据自己的喜好调整模组的效果。[点击这里查看大型 GIF 演示](https://imgur.com/EmSEKFu)\n\n**注意：这是从 [Blur](https://www.curseforge.com/minecraft/mc-mods/blur) 移植过来的**  \nFabric 版本可以在[这里](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)找到\n\n\n配置设置说明：  \n\n- 半径\n  - 如上所述，这控制了模糊的“强度”。如果你遇到性能问题，可以降低这个值。\n- 淡入时间\n  - 这是模糊效果“淡入”所需的时间，以毫秒为单位。\n- 渐变开始/结束颜色\n  - 用于所有 GUI 背景覆盖的颜色。这里的值是一个十六进制颜色值，格式为 RGBA（首先是 rgb，然后是 alpha）。由于背景是渐变的，因此可以指定两种颜色。默认值为黑色，透明度为 24%（0000003f）。\n- GUI 排除项\n  - 一个要从模糊着色器中排除的类列表。这是用于不一定会覆盖屏幕的 GUI。默认情况下，它只包含一个 GUI，即聊天框。修改此列表的一个简单方法是使用模糊键绑定。\n\n键绑定：  \n\nReBlured 添加了一个新的键绑定（默认是 \"F10\"），你可以用它来为打开的屏幕启用和禁用效果。只需打开你的物品栏并按下 \"F10\" 即可禁用物品栏的效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

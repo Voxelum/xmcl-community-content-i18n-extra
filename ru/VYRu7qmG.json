@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2U65VOXMS3M=",
+  "content": "Духовный преемник LagGoggles для Minecraft 1.16+; отображает профили (тиловые) сущности и показывает, что занимает время тика и где именно. Совместим с Forge и Fabric. (Примечание: стандартная клавиша для открытия графического интерфейса профайлера — r.)\n\nПожалуйста, сообщайте о любых багах в репозитории GitHub [здесь](https://github.com/tasgon/observable/issues).\n\nЗависимости:\n\n- Forge: [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge), [Kotlin для Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)\n- Fabric: [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric), [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

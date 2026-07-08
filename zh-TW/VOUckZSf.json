@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YOhuaDf3U74=",
+  "content": "<p>「無AI生成蛋」新增了一個充滿生成蛋的創造模式標籤頁，這些生成蛋會召喚出AI被停用的生物。這個模組最初是為了幫助拍攝生物截圖，防止它們逃跑或攻擊附近其他生物而設計，但對於建造自訂地圖或類似創作也很有用。</p>\n\n<h3>常見問題</h3>\n\n<h4>這個模組如何運作？</h4>\n<p>這些生成蛋會以帶有NoAI NBT標籤的方式召喚生物。這是原版遊戲中停用生物AI的功能。這將阻止任何編碼在生物AI中的行為執行。例如，生物將無法進行路徑尋找或移動。某些生物仍會對環境變化產生反應，例如殭屍在陽光下仍會燃燒。</p>\n\n<h4>這個模組與其他模組新增的生物相容嗎？</h4>\n<p>是的，這個模組應能與其他模組正常運作。某些模組新增的生物即使AI被停用，仍會執行部分行為。這是該模組的錯誤，我無法修復。</p>\n\n<h4>你為什麼製作這個模組？</h4>\n<p>我當時正試圖拍攝一些生物的截圖和錄製影片，但它們不斷跑來跑去。我很快製作了這個模組，以便更容易錄製。從那時起，許多朋友和YouTube上的內容創作者也開始使用這個模組，讓他們的影片更容易錄製。</p>\n\n<h4>為什麼不使用原版指令召喚或修改實體？</h4>\n<p>雖然原版指令允許更多的控制和靈活性，但它們可能令人困惑且難以記住，特別是如果你不經常使用指令。這個模組為玩家提供了一種快速直觀的方式來使用這個功能。</p>\n\n<p><strong>喜歡這個模組並想支持我嗎？</strong></p>\n<ul>\n<li>在<a href=\"https://twitter.com/DarkhaxDev\" rel=\"nofollow\">Twitter</a>上關注我</li>\n<li>加入我的<a href=\"https://discord.darkhax.net/\" rel=\"nofollow\">Discord</a></li>\n<li>在<a href=\"https://www.patreon.com/Darkhax\" rel=\"nofollow\">Patreon</a>上贊助</li>\n<li>查看我的<a href=\"https://darkhax.net/\" rel=\"nofollow\">網站</a></li>\n</ul>\n\n[![Nodecraft贊助橫幅](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**此專案由Nodecraft贊助。使用代碼[DARKHAX](https://nodecraft.com/r/darkhax)可享首月服務30%折扣！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

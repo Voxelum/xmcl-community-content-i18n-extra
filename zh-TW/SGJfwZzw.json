@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/7Qgn+6wv58=",
+  "content": "![傷害指示器](https://cdn.modrinth.com/data/cached_images/ace07e263cc77b35d955e93b1fddcdc5e5b715f1.png)\n\n不再需要猜測或尋找敵人！有了傷害指示器，你將立即知道來襲傷害的來源。\n\n這個模組的靈感來自許多熱門第一人稱射擊遊戲中的傷害指示器。\n\n**2.0 及後續版本為客戶端模組。**\n**1.0 版本需在伺服器端安裝此模組。**\n\n## 功能特色\n- **方向性傷害指示器**：指向任何來襲傷害方向的箭頭\n- **傷害文字**：顯示對其他生物造成傷害量的文字\n- **生命值條**：為其他生物顯示文字型生命值條\n- **血跡疊加層（預設關閉）**：受到傷害時在畫面邊緣顯示紅色輪廓疊加效果\n\n## 設定\n- 有一個名為「damageindicator-client.toml」的設定檔\n你可以...\n- 啟用/停用各項功能\n- 調整方向指示器的顏色、位置、時機和材質\n- 設定生命值條僅對目標生物顯示\n\n![傷害指示器遊戲內範例](https://i.imgur.com/EBz2168.png)\n\n![傷害文字遊戲內範例](https://i.imgur.com/eo36dVI.png)\n\n**既然來到這裡，不妨看看 ProtonMC——一個由我完全自主開發維護的免費自託管 Minecraft 伺服器控制面板。點擊下方圖片了解更多詳情。**\n\n[![ProtonMC 廣告](https://i.imgur.com/VQwArCz.png)](https://jeremyseq.gumroad.com/l/protonmc)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

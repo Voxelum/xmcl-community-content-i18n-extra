@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KUMfz8aMomo=",
+  "content": "# 關於\n\n這是一個旨在提升所有合成相關功能的模組。它修復了Minecraft 1.12中，按住Shift點擊合成一疊物品時可能導致短暫卡頓的錯誤。但其實它的功能不僅止於此。\n\n# 合成\n\nFastWorkbench讓所有合成操作都會快取上一次使用的合成配方。除此之外，它還減少了對這個快取配方的調用次數，僅在合成矩陣中的物品實際發生變化時（原版會在每次發生變化時，例如物品數量增減，都重新嘗試比對）才偵測變化。這樣一來，比對操作的次數就減少到一次，而不是從一次到近六百次不等。\n\n# 配方書\n\n在1.12版本中，FastWorkbench是完全移除了配方書，這意味著伺服器無需在玩家登入時強制同步配方資料給客戶端顯示在書中，從而大幅提升了登入時間。在1.13及更高版本中，配方資料由於新的配方系統的緣故，無論如何都會同步。在這些版本中，FastWorkbench預設會從視覺上隱藏配方書的按鈕，但可以透過設定將其重新開啟。\n\n# 相容性與模組支援\n\n此模組透過Mixin應用於PlayerContainer（用於2x2合成格）和WorkbenchContainer（用於3x3合成格）類別。任何使用WorkbenchContainer的模組都將獲得FastWorkbench的完整效能提升。\n\n任何未使用WorkbenchContainer的模組，理應已經自行實現了這些最佳化措施——這些最佳化的添加相對簡單。\n\n# 贊助我\n\n[![](https://i.imgur.com/4D6zgZt.png)](https://discord.com/servers/shadows-mods-613010559532531713)\n\n## 聯絡方式\n\nDiscord：<https://discord.shadowsoffire.dev>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

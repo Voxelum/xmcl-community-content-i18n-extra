@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KkI+aGYM0dg=",
+  "content": "# 更多頭顱\n\n新增了**生存模式友善**的**生物頭顱**與**玩家頭顱**獲取方式，使用**鋤頭觸發掉落**來避免農場汙染並保留原版進程。\n\n> 擴展頭顱收集系統，讓生物頭顱與玩家頭顱成為生存模式中刻意取得的獎勵，而非自動化的副產物。\n\n## 為何使用此資料包/模組？\n\n1. **一體化解決方案**：\n   將生物頭顱與玩家頭顱整合於單一資料包/模組中，保持頭顱收集的一致性。\n2. **保護農場與生怪塔**：\n   鋤頭觸發掉落機制可避免農場與生怪塔被不需要的頭顱掉落物塞滿。\n3. **原版風格物品**：\n   頭顱採用合適的音符盒音效、簡潔名稱與低調提示文字設計，使其融入遊戲世界。\n4. **輕量被動設計**：\n   以戰利品表與資源包覆蓋為基礎，無需持續運行的函數、大量指令系統或額外運行開銷。\n5. **靈活安裝方式**：\n   既可作為世界專屬資料包，也可打包成模組，輕鬆適用於單人、伺服器、原版與模組環境。\n\n## 安裝方式\n\n將資料包/模組加入世界或伺服器後，可使用以下指令開啟說明面板：\n\n```mcfunction\n/function more_heads:about\n```\n\n![說明面板](https://cdn.modrinth.com/data/IDVPmSM5/images/36f1f62917c2b186d6cfc433890ba2275201be74.png)\n\n## 生物頭顱\n\n使用**鋤頭**擊殺生物時有機率掉落其頭顱。**凋零骷髏**與**終界龍**不包含在內，以保留其**原版進程完整性**。\n\n> **終界使者頭顱掉落**\n>\n> ![終界使者被鋤頭擊殺](https://cdn.modrinth.com/data/IDVPmSM5/images/c9a5178ba364963186f1348c8345e39d080d0350.png)\n\n## 玩家頭顱\n\n玩家被**其他玩家**擊殺時會掉落其頭顱。頭顱的提示文字中**會顯示**擊殺者名稱。\n\n> **玩家頭顱提示文字**\n>\n> ![玩家頭顱提示文字範例](https://cdn.modrinth.com/data/IDVPmSM5/images/f32b9253654ba17a4e99dc8eb4fd963497fd989c.png)\n\n## 貢獻與問題回報\n\n誠摯歡迎：\n\n- 錯誤回報\n- 功能請求\n- 拉取請求\n\n請在 [GitHub](https://github.com/nwrenger/more-heads/issues) 上開啟議題或拉取請求。\n\n## 授權條款\n\n本專案採用 **LGPLv3 授權條款**。詳細資訊請參閱 [LICENSE](https://github.com/nwrenger/more-heads/blob/main/LICENSE)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

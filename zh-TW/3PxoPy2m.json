@@ -1,0 +1,6 @@
+{
+  "bodyHash": "j6H+U8fGAOg=",
+  "content": "# 反天穹模組\n\n*因為隱私至關重要*\n\n此模組旨在阻擋加入伺服器時，[天穹模組](https://modrinth.com/mod/firmament)試圖發送的[模組宣告器](https://github.com/FirmamentMC/Firmament/blob/mc-1.21.11/src/main/kotlin/features/misc/ModAnnouncer.kt)封包。\n\n這**並非**正常的 Fabric 行為——因為只有 Forge 內建了模組宣告器，而個人認為 Fabric 並不需要此功能。沒有任何伺服器有權檢視我的模組資料夾（模組 ID），且任何單一模組都不應在未經事先同意/知情的情況下傳送此資訊。\n\n# 授權條款\n\n我是一隻貓男孩；因此，所有內容皆為開源。歡迎隨意改寫此程式碼 52 次，我真的不在意。若發生問題，請透過 Discord 私訊我——@axle.coffee，或在 GitHub 提交問題，或自行修復並提交拉取請求。\n**我的**程式碼採用 MIT 授權。\n\n標誌衍生自 ic22487 設計的[天穹模組標誌](https://github.com/FirmamentMC/Firmament/blob/mc-1.21.11/docs/firmament_logo_256.webp)，該標誌採用 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 授權，並由我修改加上「X」標記。\n原始圖像作者、天穹模組的貢獻者及程式碼所有者均未背書此專案。\n\n我（Axle）與反天穹模組無意損害天穹模組及標誌創作者的名譽——這只是簡單傳達「嘿，這會阻擋天穹模組的*某些功能*」的方式，喵～",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

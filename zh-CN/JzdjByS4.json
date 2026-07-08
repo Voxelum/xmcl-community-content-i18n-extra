@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8NeFeccaB5c=",
+  "content": "![banner](https://raw.githubusercontent.com/uku3lig/potioncounter/1.19/banner.png)\\\n![wakatime](https://wakatime.com/badge/user/8c040ab4-dd86-485b-ac52-d0ca1971b711/project/2af490ae-5536-4c2f-813b-a58b94d0eae5.svg?style=for-the-badge)\n[![Modrinth](https://img.shields.io/modrinth/dt/JzdjByS4?style=for-the-badge)](https://modrinth.com/mod/potioncounter)\n\n**药水计数器**是一款简单的QoL模组，用于显示你背包中还剩多少瓶药水！\n\n### 功能\n - 显示已升级的药水（使用红石和荧石强化）\n - HUD中可调整显示位置\n - 可单独禁用某种药水效果显示\n\n### 计划中\n - 支持所有类型药水（普通、喷溅型、滞留型）\n - 使计数器可自由移动\n\n### 依赖项\n - [Mod Menu](https://modrinth.com/mod/modmenu)（可选但推荐）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

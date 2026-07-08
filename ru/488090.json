@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7cf03bcc964592fc",
+  "content": "\n\n<p style=\"text-align:center\">MidnightLib — это библиотека, предоставляющая общие утилиты и систему конфигурации для модов.</p>\n<p style=\"text-align:center\">Библиотека также поддерживает автоматическую интеграцию с ModMenu для каждой зарегистрированной конфигурации — больше не нужно ждать релизов ModMenu!</p>\n<p style=\"text-align:center\">Также существует список всех конфигураций, созданных с помощью MidnightLib, который отображается, если ModMenu не установлен или пользователь включил его вручную.</p>\n<p style=\"text-align:center\"><br><strong>Разработчикам модов разрешено и рекомендуется включать её в свои моды.</strong><br>Каждую функцию можно включить или отключить во внутреннем экране или файле конфигурации библиотеки</p>\n<p style=\"text-align:center\"><img src=\"https://media.discordapp.net/attachments/507982666755473427/1036592375310590022/Screenshot_Minecraft_1.19.2_3.png?width=774&height=644\" alt=\"Пример экрана конфигурации\" height=\"532\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

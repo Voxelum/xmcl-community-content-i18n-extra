@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Rdo+ShNUa3c=",
+  "content": "**[![Нажмите здесь, чтобы скачать на CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/xxl-packets «Нажмите здесь, чтобы скачать на CurseForge!»)**\n\nОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: Это форк оригинального мода XL Packets; этот форк расширяет ограничение на количество пакетов до предела целых чисел Java.\n\n\nИсправляет ошибку https://bugs.mojang.com/browse/MC-185901, увеличивая ограничение размера пакета с 2 МБ до 2,14 ГБ (2147483647), чтобы серверы с большими наборами данных, пакетами и т.д. не отключали клиент. Этот мод необходим на стороне клиента для любых подключающихся клиентов.\n\n![изображение](https://cdn.modrinth.com/data/SeCuopwJ/images/4088d622406e783546106108c58ed029f3a09fb2.png)\n\n**[![Нажмите здесь, чтобы получить скидку 25% на игровой сервер Minecraft от BisectHosting. (если используете код «Ultimate»)](https://www.bisecthosting.com/images/CF/XXL_Packets/BH_XXL_PromoCard.webp)](https://bh.lazuline.xyz «Нажмите здесь, чтобы получить скидку 25% на игровой сервер Minecraft от BisectHosting. (если используете код «Ultimate»)»)**\n‏‏‎ ‎\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

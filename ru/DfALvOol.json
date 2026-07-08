@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8fWUvE6Jj8U=",
+  "content": "# Контроллер функций\n\n## Обзор\n\n- Управляйте следующими функциями с помощью JSON-файла:\n  - Биомные декорации\n    - `ICE`: Ледяные шипы и ледяные пятна в холодных биомах\n    - `SAND_PASS2`: Генерация гравия\n  - Чанковые особенности\n    - `FIRE`: Пятна огня в Незере\n    - `NETHER_LAVA`: Ловушки с лавой, обращённые наружу\n    - `NETHER_LAVA2`: Ловушки с лавой внутри незераков\n    - `NETHER_MAGMA`: Жила магматических блоков\n    - `AMINALS`: Первоначальные мобы при генерации чанка\n  - Свойства, подлежащие добыче\n  - Удаление пещер/ущелий\n  - Предотвращение появления мобов\n    - Если `preventFromSpawner` установлено в `true`, предотвращается появление мобов из спаунеров мобов\n\n- Все допустимые значения записываются в конфигурацию при создании файла,\n  - который не загружается до тех пор, пока значение `enabled` не будет изменено.\n\n## Лицензия\n\n- [MIT License](https://github.com/Hiiragi283/FeatureController/blob/master/LICENSE)\n  - `logo.png` ... [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)\n\n## Кредиты\n\n- Этот проект основан на [GregTechCEu/BuildScripts](https://github.com/GregTechCEu/Buildscripts)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

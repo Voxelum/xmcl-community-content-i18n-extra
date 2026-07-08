@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1g3DtmVhs7M=",
+  "content": "實作 Amos Redstone 在 YouTube 影片中提出的概念：https://www.youtube.com/watch?v=AwkgAM9c7M8\n\n此版本不會在世界生成時產生新方塊。\n\n# 新方塊\n## ![冰磧石方塊圖片](https://cdn.modrinth.com/data/cached_images/7ef88d0b0e8e11107af91ba4b374e6844bf77fc1_0.webp) 冰磧石方塊\n + 屬於重力方塊\n + 具有滑溜特性（約為冰塊 70% 的滑溜度）\n + 可使用任何鎬類工具採集\n\n## ![流沙方塊圖片](https://cdn.modrinth.com/data/cached_images/b0e63c7a811d573dbb197f6da9ea786a373398b1_0.webp) 流沙方塊\n + 會減緩實體移動速度\n + 當實體嘗試移動時會將其向下拖曳\n + 造成窒息傷害\n + 屬於重力方塊\n + 可落在無固體頂面的方塊上（其他重力方塊在此情況下會轉變為掉落物）\n + 可使用空桶收集，獲得 ![流沙桶物品圖片](https://cdn.modrinth.com/data/cached_images/4e97e41d56c7fdfe2ca67b041c84c957c019ce1d.png)「流沙桶」\n\n# 風化機制\n## 凍融風化\n當相鄰水源方塊結凍成冰塊，且該鵝卵石方塊位於該 (x,z) 座標的最高位置時，鵝卵石會轉變為冰磧石。（霜行附魔產生的冰塊不會轉換相鄰鵝卵石）\n\n當相鄰冰塊融化成水源方塊時，冰磧石會轉變為礫石。\n\n## 風蝕風化\n當礫石處於懸空狀態且位於風彈爆炸範圍內時，會轉變為沙子。\n\n## 化學風化\n使用水瓶可使沙子轉變為流沙。\n\n當堆肥桶滿溢並滴落至流沙上時，流沙會轉變為泥土。\n\n# 對原版堆肥桶的其他調整\n當滴水石錐懸掛於堆肥桶下方時，堆肥桶會逐漸流失內容物。\n\n此過程中有實體位於堆肥桶下方時，將對其施加中毒效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

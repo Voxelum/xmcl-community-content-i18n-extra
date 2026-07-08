@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GgTnWZQu6l0=",
+  "content": "我一直在尋找一種方法，讓快捷欄上方每個愛心顯示不同顏色，但沒有找到具備此功能的模組。在更深入搜尋自訂血條模組後，我發現了 **Lanfix8** 製作的 **「Simple Health Bar (Forge/Fabric)」**，這正是我構想中的完美起點。只需稍作調整就能實現我的想法。\n\n你可以在這裡找到此模組的原始版本：[https://modrinth.com/mod/simple-health-bar](https://modrinth.com/mod/simple-health-bar)\n\n經原模組作者同意，我修改了模組代碼，新增了彩虹愛心等更多功能。\n\n### 特色功能：\n\n- **彩虹血量條模式：**\n  可開啟/關閉彩虹愛心，並可調整動畫速度\n  \n- **自訂顏色模式：**\n  為所有愛心設定預設顏色\n\n- **無修改模式：**\n  不對愛心施加任何顏色變化，僅顯示預設紋理（可透過資源包自行修改，詳見下方說明）\n\n- **生命值指示文字：**\n  顯示當前生命值數字，可自訂顏色、位置及對齊方式（左/右）\n\n- **吸收愛心、中毒愛心、凋零愛心與冰凍愛心紋理**\n  \n- **可調整高度的護甲條：**\n  可調整護甲條的 Y 軸高度\n\n****所有設定均可透過模組設定檔調整**（路徑：.minecraft > config > rainbow-health-bar.properties）。**\n\n以下是彩虹動畫的展示影片：<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/nzGW1NYw1Uo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**給想修改愛心紋理的使用者的資訊：**\n\n將模組副檔名從 .jar 改為 .zip 即可查看檔案結構，了解紋理包所需的配置（路徑：assets > rainbow-health-bar > textures > gui > healthbars）。接著只需準備一般的 pack.mcmeta 檔案，並將自訂紋理放入 healthbars 資料夾中，檔案名稱需與模組內的 .png 檔案名稱一致。\n\n**注意：** 若在紋理包中變更愛心形狀，彩虹著色效果可能無法正確套用至愛心上。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

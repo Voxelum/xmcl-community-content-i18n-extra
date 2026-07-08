@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nhWQsfSy/7Y=",
+  "content": "<p>你好^^，这是我的第一个模组，也是第一次编写代码（借助GPT为助手），因此可能会有Bug。</p><p>&nbsp;</p><p>ScalableMobs是一款允许随着深入地下而生成等级生物的模组，我觉得应该不需要更多解释了。</p><p>本模组仅在服务端安装即可，但安装在客户端也不会产生问题。</p><p>&nbsp;</p><p>前置依赖：<br><a href=\"https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge\" target=\"_blank\" rel=\"nofollow\">Kotlin</a></p><p>&nbsp;</p><p><span style=\"color:#ba372a\">目前本模组仅添加了等级生物，尚未包含更好的战利品等内容，我计划后续再添加这些功能。</span></p><p>&nbsp;</p><p>默认配置：</p><p>&nbsp;</p><div>\n<div>#可缩放生物配置</div>\n<br>\n<div>#baseHeight: 生物可生成等级的起始高度，例如：在y=60时生物等级为1，而在y=44时等级为2</div>\n<div>baseHeight = 60</div>\n<div>#distancePerLevel: 每级之间的垂直距离（以方块为单位）</div>\n<div>distancePerLevel = 8</div>\n<div>#maxMobLevel: 定义生物最高可达的等级</div>\n<div>maxMobLevel = 30</div>\n<div>#healthMultiplier: 每级生物生命值的倍率</div>\n<div>healthMultiplier = 0.13</div>\n<div>#damageMultiplier: 每级生物伤害的倍率</div>\n<div>damageMultiplier = 0.024</div>\n<div>#reactiveMobName: 开启/关闭动态名称机制（名称栏会根据受伤状态改变生命值显示），启用后可在生物上放置命名牌</div>\n<div>reactiveMobName = true</div>\n<div>#excludeMobs: 不受等级影响（或固定为1级）的生物列表</div>\n<div>excludeMobs = []</div>\n<div>#enderDragonLevel: 为末影龙设置特定等级</div>\n<div>enderDragonLevel = 50</div>\n<div>#witherBossLevel: 为凋灵设置特定等级</div>\n<div>witherBossLevel = 20</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

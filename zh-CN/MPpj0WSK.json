@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cQshzc5M1Is=",
+  "content": "一个非官方的 [https://modrinth.com/mod/acceleratedrendering](https://modrinth.com/mod/acceleratedrendering) 分支。\n\n## 差异：\n\n添加了沉浸式传送门兼容性（部分）。\n优化了部分 Mixin。\n\n### 详情\n在原版加速渲染中，如果任何沉浸式传送门正在渲染，实体（或其他加速渲染的内容）会被放置在错误的渲染层级。此分支会在任何传送门渲染时禁用加速渲染管线，这并非处理沉浸式传送门的最佳方式，但却是目前可行的方案。此外，原版加速渲染中的 Mixin 实现较为混乱；我们也修复了这个问题。\n\n## 来自原版模组：\n# 加速渲染（中文版）\n\n这是一个仅客户端的实体渲染优化模组，旨在通过 GPU 上的计算着色器提升渲染大量实体或顶点复杂的模组实体时的性能，同时兼容光影包、其他模组及其自定义实体。\n\n## ✨为什么需要这个模组\n\nMinecraft 的实体渲染系统（包括方块实体）沿用了旧版本基于 OpenGL 立即模式的低效渲染方式。它会在 CPU 的单一线程上每帧对实体进行顶点变换和上传，这些操作耗费大量时间，导致在渲染大量顶点时 CPU 和 GPU 闲置，帧率却异常低下。\n\n## ⚙️工作原理\n\n加速渲染构建了一套独特的渲染管线，将“原始”顶点（变换前的顶点）缓存为网格模型，并在渲染时使用计算着色器在 GPU 上并行进行变换。随后使用原版着色器绘制变换后的顶点。通过这种方式，本模组能够大幅提升实体渲染效率，将变换压力从 CPU 转移至 GPU，同时保持与光影包的兼容性（目前支持 Iris Shaders）。所有加速功能均可关闭以确保兼容性。\n\n## 🖥️硬件要求\n\n加速渲染需要使用持久映射缓冲区和计算着色器，因此需要 OpenGL 4.6 才能正常工作。NVIDIA GT 400 系列、Intel HD Graphics 520/530 及以上型号的显卡符合此要求。本模组已在 NVIDIA GTX 1660Ti Max-Q、NVIDIA RTX 3070Ti 笔记本、NVIDIA RTX 4090 笔记本、RX 580、RX 5600XT 上测试。目前暂不支持移动设备。\n\n## 🛠️配置\n\n配置文件位于 <你的 Minecraft 路径>/.minecraft/config/acceleratedrendering-client.toml。你可以通过此文件或在游戏内修改加速功能（部分配置需重启游戏生效）。游戏内配置编辑器位于：模组 > Accelerated Rendering > 配置。要使加速物品渲染正常工作，需在“核心设置”中启用“强制加速半透明”。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "G5/fuGZy/+k=",
+  "content": "<p><span style=\"font-size:14px\">U-Team模組的開源API與函式庫。</span></p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscordapp.com%252finvite%252fQXbWS36\" rel=\"nofollow\"><img src=\"https://i.imgur.com/8igEYOI.png\" width=\"283\" height=\"78\"></a></p><p>加入我們的Discord伺服器獲取最新消息。</p><p>&nbsp;</p><p><span style=\"font-size:18px\">本模組新增Discord RPC功能。若不需要此功能，請在設定檔(config/uteamcore-client.toml)中停用</span></p><p><span style=\"font-size:18px\">1.16.5+版本已不再內建Discord RPC功能。您可以額外下載<a href=\"https://www.curseforge.com/minecraft/mc-mods/basic-discord-rich-presence\" rel=\"nofollow\">基礎Discord動態呈現模組</a>。</span></p><p>&nbsp;</p><p><span style=\"font-size:14px\">請至<span style=\"color:#800000\"><a style=\"color:#800000\" href=\"https://github.com/MC-U-Team/U-Team-Core/issues\" rel=\"nofollow\">github問題區</a></span>回報錯誤！</span></p><p>&nbsp;</p><p>本模組僅為U-Team其他模組所使用的函式庫。</p><p>其他模組開發者亦可依賴此函式庫。</p><p>&nbsp;</p><p>您可以自由將本模組打包至任何模組包中。</p><p><a href=\"https://github.com/MC-U-Team/U-Team-Core\" rel=\"nofollow\">原始碼</a>已於上方連結提供，採用Apache License 2.0授權。</p><p>請至github回報錯誤。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

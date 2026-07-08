@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hUW5oLRg8Iw=",
+  "content": "新增最著名瑞士乳牛的生成機率。\n\n使用自訂紋理，因此\n\n    - 若使用 Fabric/Forge，你需要安裝 Entity Texture Feature。\n    - 另可選用 CIT 或 Chime（選擇性）來顯示自訂名稱標籤\n    - 或與 Optifine 搭配使用。\n\n與 Fresh animation 相容。只需進入 zip 資料夾，從 **\\assets\\minecraft\\optifine\\random\\entity\\cow** 中移除 **cow2.png**，並將 **cow2 - Fresh Animation Compatible.png** 重新命名為 **cow2.png**，即可獲得眼睛動畫。\n\n牠們有微小的機率在任何生態域中出現。\n在所有山地相關生態域（除風蝕莽原外）中的機率更高。\n在草甸中出現的機率極高。\n\n你也可以透過重新命名來獲得牠們：\n\n    - Milka\n    - Swiss Chocolate\n    - Vach Mauve\n\n此資源包使用了 pack.mcmeta 中的新 \"supported_formats\" 標籤，但應可在任何 Minecraft 版本中運作，若資源包在列表中顯示為紅色，請忽略警告訊息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

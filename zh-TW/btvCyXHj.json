@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Wq63d6sBpKg=",
+  "content": "**這個模組為 Minecraft 添加了簡化遊戲模式切換的指令：**\n\n/gmc : 設定遊戲模式為創造模式\n\n/gms : 設定遊戲模式為生存模式\n\n/gma : 設定遊戲模式為冒險模式\n\n/gmsp : 設定遊戲模式為旁觀者模式\n\n_(您可以在指令中加入選擇器)_\n\n_支援版本：Forge 1.20.1、1.16.5；NeoForge 1.21.1、1.21.4、1.21.8；Fabric 1.20.1；Spigot 1.21.8_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

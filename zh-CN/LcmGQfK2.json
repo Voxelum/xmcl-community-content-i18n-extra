@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1ksQAt2ZFZ0=",
+  "content": "# FDLib\n\n功能\n\n1) 基岩版模型加载器（不支持模型中的部分参数如镜像UV）\n\n2) 支持\"math\"关键帧的基岩版动画加载器\n\n3) 客户端过场动画系统\n\n4) 自定义Boss血条\n\n5) 冲击帧效果（可在fdlib配置中禁用）\n\n6) Json配置文件系统\n\n7) 简易数据包注册\n\n以及其他实用工具和数学相关功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

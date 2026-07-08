@@ -1,0 +1,6 @@
+{
+  "bodyHash": "suesH30+E3A=",
+  "content": "Hostile Neural Network: Opposing Force — это мод, который интегрирует динамику HostileNeuralNetwork [обязательно] с мобами нового мода Opposing Force [обязательно] для Minecraft 1.20.1.\n\n![Модель данных ведьмы](https://cdn.modrinth.com/data/cached_images/2abe279059af7156f218b3454cb1218ab30c167c.png)\n\nHNN позволяет тренировать модели данных и проводить симуляции, генерируя прогнозы по мобам, которые можно использовать для получения дропа мобов.\n\n![Модель данных кубика](https://cdn.modrinth.com/data/cached_images/4e43e943ea4c122b158672c0e665405058c8a254.png)\n\nЭтот мод реализует модель данных мобов из мода Opposing Force, предоставляя им классический способ разведения с помощью HNN — тренировка модели данных каждого моба из Opposing Force, что позволяет получать каждый прогноз с изменённым дропом в соответствии с прогнозом.\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

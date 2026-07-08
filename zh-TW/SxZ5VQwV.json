@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QaTigvDpzVs=",
+  "content": "此模組新增了基於距離的死亡訊息與音效，也就是說，當玩家死亡時，若你距離死亡地點超過一定範圍，將不會聽見死亡音效，也不會在聊天欄看到死亡訊息。\n\n功能\n- 玩家死亡時會播放音效\n- 超過一定距離時，音效將無法聽見，死亡訊息也不會顯示\n- 可自訂音效與死亡訊息的觸發距離\n- 相容於 Geyser 伺服器（跨平台）\n\n本模組是「Proximity Deathmessage」模組的非官方移植版本，適用於 NeoForge 1.21.1。雖然使用了該模組的原始碼，但為確保能在最新版本上正常運作，已進行了大量修改。\n\nhttps://modrinth.com/mod/proximity-deathmessage\n\n此為該模組在 Fabric 26.1.2 及以上版本的移植版本。\n\n需要 Fabric API！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

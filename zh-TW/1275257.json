@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Blm7igg4+D8=",
+  "content": "<h1>Mekanism：更多機械</h1><p><img src=\"https://media.forgecdn.net/attachments/description/1275257/description_5cb31e2b-fa27-4093-9397-68426868a76f.png\" alt=\"\" width=\"480\" height=\"300\"></p><h2>簡介</h2><p><strong>這個模組為Mekanism添加了種植站和複製機（當然還有其他機器）。</strong></p><p><strong>新增的工廠包括氧化工廠、溶解工廠等。</strong></p><p><strong>由於它與Kubejs和Crt不相容，如果你想添加自己的配方，只能使用最原始的方法（例如Kubejs的自定義功能）。若想了解相應機器的Json格式，可以查看Github上的Wiki。</strong></p><h2>回收機</h2><p><strong>粉碎大多數無用的物品或方塊來生產廢料。預設添加了泥土和石頭，因為我不希望你誤把重要物品丟進去。</strong></p><p><strong>廢料是製造UU物質的基本物品，如果安裝了JEI，你會看到相關的合成配方。</strong></p><h2>種植站</h2><p><strong>消耗營養液來種植作物，它相容原版中大多數可種植的作物，並且與神秘農業完全相容。</strong></p><h2>複製機</h2><p><strong>使用UU物質來複製物品的機器，預設沒有配方，你需要在設定檔中添加對應的配方。我知道這可能有點麻煩，但我認為這是必要的。</strong></p><h2>沖壓機、車床和軋機</h2><p><strong>一些通用機器。目前只有沖壓機與IE、AE2及其附屬模組有連動。其他機器還沒有合適的配方，未來可能會添加一些。如果你想使用它們，可以自行添加配方。</strong></p><h2>高級工廠</h2><p><strong>你是否一直覺得化學氧化機等機器速度較慢？現在它們有了工廠版本，多執行緒的高級工廠可以顯著提高生產效率。</strong></p><p><strong>然而，它們目前還不相容Computer Craft，難以精確控制每個槽位或液體容器。但我沒有那麼多時間研究CC的程式碼。如果你願意幫助適配，我在此提前感謝你。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

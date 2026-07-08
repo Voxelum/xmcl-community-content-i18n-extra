@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Q7pIkn6+SZ4=",
+  "content": "![標題頭圖](https://raw.githubusercontent.com/Stein-N/resources/main/images/resource_config_api/title_header.png)\n\n### 又一個讓你的模組資料夾變得更龐大的個人配置API\n\n資源配置API是為滿足我個人需求而構建的API，但也歡迎你自由地用於自己的模組中。\n\n這是一個基於註解的配置API，使用GSON函式庫，因此所有配置文件均採用json格式，\n並為每個註冊了配置的模組提供配置畫面，需搭配Fabric ModMenu或安裝了Menulogue的Catalogue使用。\n\n### 免責聲明\n由於時間有限，我僅積極支援1.21.1版本及其最新小更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

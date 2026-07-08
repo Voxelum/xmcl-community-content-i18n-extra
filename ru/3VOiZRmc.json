@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WA4cC2+lmAI=",
+  "content": "## ModelFix\nИсправляет «прозрачные линии» в сгенерированных моделях предметов.\n\nОсновано на [бэкпорте от Sk1erLLC](https://github.com/Sk1erLLC/ModelFix) к [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix)\n\n---\n\n### Использование\nВключено по умолчанию.\n\n### Изменения\n- Удалена (повреждённая) зависимость от modcore.\n- Использует миксины вместо трансформеров.\n\n---\n\nКод лицензирован под LGPL",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

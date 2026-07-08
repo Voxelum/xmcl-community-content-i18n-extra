@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Za6rQ5J2ks0=",
+  "content": "一個簡單的模組，專為 1.21.1 版本打造，在 Create 與 TacZ 之間搭起橋樑。\n\n這是我製作的第一個模組，歡迎在 GitHub 頁面上留下建議（未來規劃中）。\n\n本模組專注於透過 Create 實現子彈自動化生產。\n\n每種子彈的合成配方皆模擬真實世界：民用子彈比軍用子彈更簡單。\n\n組裝末端放入不同彈頭，會產出不同的子彈結果。\n\n範例：\n黃銅粒 → 鋸子 = 空黃銅彈殼（未完成）\n\n空黃銅彈殼（未完成） → 壓印機 = 空黃銅彈殼\n\n空黃銅彈殼 + 燧石 = 12號霰彈\n\n空黃銅彈殼 + 一撮火藥 = 底火黃銅彈殼\n\n底火黃銅彈殼 + 鋅粒 = 5.56x45毫米子彈\n\n底火黃銅彈殼 + 鐵粒 = 5.45x39毫米子彈\n\n未來計畫：\n\n1- 目前尚未涵蓋所有子彈（目前已支援13種），但已規劃陸續補齊。\n\n2- 現階段單一配方對應單一模組元件（主要是彈殼），未來構想是建立組裝流程（類似精密機構）——歡迎在留言區提供意見。\n\n3- 在戰利品箱的戰利品表中加入空彈殼。\n\n依賴模組：\n\n[Create](https://modrinth.com/project/LNytGWDc)\n\n[Create: Big Cannons](https://modrinth.com/project/GWp4jCJj)\n\n[[非官方] TaCZ 1.21.1 NeoForge 移植版](https://modrinth.com/project/OypNE65K)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

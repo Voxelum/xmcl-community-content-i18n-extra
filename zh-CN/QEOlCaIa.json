@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Q7Fr79Gvwtc=",
+  "content": "# 立体区块兼容辅助模组\n\n调整其他模组以提升其与立体区块的兼容性——不仅确保它们不会崩溃，更能使其按预期方式正常运行。\n\n## 当前调整内容：\n\n<details>\n<summary>展开查看</summary>\n\n### 实用拓展（Actually Additions）：\n\n<details>\n<summary>展开查看</summary>\n\n- 垂直挖掘机现在可跨越y=0层进行挖掘，并会向下挖掘至（暂未开放配置的）深度限制，该限制取最小y轴层级与挖掘机相对深度两者中的较大值。\n\n</details>\n\n### 远程泵（Ranged Pumps）：\n\n<details>\n<summary>展开查看</summary>\n\n- 末影泵现在可跨越y=0层进行抽取，并会向下抽取至（暂未开放配置的）深度限制，该限制取最小y轴层级与泵体相对深度两者中的较大值。\n\n</details>\n\n### 沃利洞穴（Worley's Caves）\n\n<details>\n<summary>展开查看</summary>\n\n- 若使用立体世界类型（例如由立体世界生成模组提供，而非通过设置\"立体区块：无/默认\"选项），洞穴现在可生成至y=0层以下。当前忽略沃利洞穴配置中设定的最小/最大y轴层级。\n\n</details>\n\n</details>\n\n### 特别提示：\n\n* 当前世界生成未对\"混合世界[CC]\"世界类型进行特殊处理。\n* 使用立体区块与立体世界生成模组时，需从立体区块Discord频道获取.jar文件（该频道链接位于立体区块模组页面底部：[https://modrinth.com/mod/cubicchunks](https://modrinth.com/mod/cubicchunks)）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

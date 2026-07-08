@@ -1,0 +1,6 @@
+{
+  "bodyHash": "V3NVvU1Zn2Y=",
+  "content": "<p>Изменения для мода Enchancement 1.26, позволяющие его использовать с загрузчиком модов Forge путём удаления несовместимых миксинов.</p><p>Forge уже лучше обрабатывает дублирующиеся ключевые комбинации, чем Fabric, поэтому эти миксины нарушаются при взаимодействии с методами Forge, даже при использовании Connector.</p><p>&nbsp;</p><p>Удалённые миксины:</p><p>\"vanillachanges.allowduplicatekeybindings.client.ControlsListWidgetKeyBindingEntryMixin\" \"vanillachanges.allowduplicatekeybindings.client.GameOptionsMixin\" \"vanillachanges.allowduplicatekeybindings.client.KeyBindingMixin\"</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

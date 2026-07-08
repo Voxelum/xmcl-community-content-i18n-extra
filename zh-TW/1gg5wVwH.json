@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gupMGE3zmpM=",
+  "content": "本模組修復了來自 [Create: Factory Logistics](https://modrinth.com/mod/create_factory_logistics) 的複合包裹問題，使其能正確地從重新打包機中輸出。\n\n做法是將一個包裹或複合包裹與一個罐子一同放入，然後為重新打包機提供動力，使其進行組合。每個複合包裹可以容納最多 4 個罐子和 9 組物品，與原本相同。本模組只是修正了一個錯誤，並未新增複合包裹。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

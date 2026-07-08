@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4v3n6MBtmBQ=",
+  "content": "這是 [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) 的非官方 Forge 移植版。\n\n差異：\n1. 與 Embeddium 整合，你可以在其影片設定中開/關自訂動畫。\n2. 一些程式碼最佳化，最大的最佳化是移除了 Identifier 初始化的有效性檢查，因為這項檢查非常耗費資源。\n\n[![image](https://www.bisecthosting.com/partners/custom-banners/75401fe6-76e7-471c-89e5-1edd37a950ad.webp)](https://bisecthosting.com/kasualix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

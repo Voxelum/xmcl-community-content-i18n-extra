@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BI/9cMwJ9cs=",
+  "content": "# Общее здоровье\nМод для Minecraft, который позволяет игрокам делиться значениями здоровья и/или голода на всём сервере.\n\n# Установка\nНа данный момент этот мод поддерживает только **Fabric 1.16.5 и 1.19.4+**, хотя благодаря своей простоте его можно легко адаптировать для других версий и сред моддинга.\n\n*Необходим Fabric API.*\n\n# Использование\nФункции мода можно включить через систему игровых правил Minecraft.\n\n- Совместное использование здоровья можно включить с помощью игрового правила `shareHealth` *(по умолчанию включено)*\n- Совместное использование голода можно включить с помощью игрового правила `shareHunger` *(по умолчанию включено)*\n\nБлагодарим AsianHalfSquat за то, что он представил этот мод! Посмотрите его видео здесь:\n\n[https://www.youtube.com/watch?v=AGVYAjJihYo](https://www.youtube.com/watch?v=AGVYAjJihYo)\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/AGVYAjJihYo\" title=\"Плеер YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

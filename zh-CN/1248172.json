@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IH+9tDv9BAs=",
+  "content": "<p>Reverie 是一款具有半写实梦幻风格的我的世界光影包。它采用基于物理的大气渲染与高级间接光照技术。</p><p>支持 <strong>Distant Horizons</strong> 和 <strong>Voxy</strong> 两种模组，未来还将兼容更多模组。</p><h3>动态天气系统</h3><p>云层覆盖、雾气浓度、风向等天气要素会根据生物群系、季节和海拔高度动态变化。但为了让每个场景都保持新鲜感，这些参数在每次光影加载时都会进行细微随机化，就像现实世界一样，每一天都独一无二！</p><h3>强大且可自定义</h3><p>Reverie 拥有精简的自定义系统。大多数光源颜色都可调节（未来还将增加更多选项）。如果您担心性能问题，请放心。将配置文件设为\"烤面包机\"级别，即可在不明显牺牲画质的情况下获得良好性能（在我的笔记本电脑集成显卡上能达到60帧）。</p><h3>精美截图</h3><p>内置的截图模式可冻结天气，让您轻松拍出完美照片！开启景深、镜头光晕或色差等电影级特效，获得您想要的氛围。Reverie 还提供高级色彩平衡选项及多种色调映射器供您选择。</p><h3>系统需求</h3><ul>\n<li>Iris 1.8 或更高版本</li>\n<li>Minecraft 1.21+（旧版本可能也能运行）</li>\n</ul><h3>硬件兼容性</h3><ul>\n<li>Nvidia：可用</li>\n<li>AMD（Windows）：可用</li>\n<li>Intel（Windows）：未知</li>\n<li>Mesa：可用</li>\n<li>Mac：已损坏，且无法修复</li>\n</ul><h3>问题反馈</h3><p>如果您遇到问题，请前往 <a href=\"https://github.com/thecmk/reverie-shader\" target=\"_blank\" rel=\"nofollow\">GitHub</a> 进行反馈。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

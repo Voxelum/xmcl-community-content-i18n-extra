@@ -1,0 +1,6 @@
+{
+  "bodyHash": "di2TkCB6JSU=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/PuSy9c-fKdA\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**模拟仪表** 使用 **[部署器 API](https://www.curseforge.com/minecraft/mc-mods/deployer)** 让物流仪表能够获取并利用各种模拟机械动力方块中的物理信息。\n\n*注意：本模组最好与 **[Create: Extra Gauges](https://modrinth.com/mod/extra-gauges)** 一起使用！*\n\n---\n# 新仪表列表：\n## 高度表\n该仪表可以读取其方块在世界中的高度或该位置的气压。\n它会同时输出高度和气压的字符串与数值。\n## 速度表\n该仪表可以读取其方块在世界中的速度，并分解为 X、Y、Z 轴。\n它会输出所选轴的字符串与数值。\n## 万向节仪表\n该仪表可以读取其方块在世界中的方向，以欧拉角形式分解为 X、Y、Z 轴。\n它会输出所选轴的字符串与数值。\n数值基于 YXZ 旋转顺序的方向四元数得出。\n\n---\n# 支持的方块列表：\n## 高度传感器\n该传感器可以向部署器仪表输出其在世界中的高度。\n它会以字符串和数值形式输出数值，并且当输出信号时，还会切换红石输出布尔值。\n## 速度传感器\n该传感器可以向部署器仪表输出其在世界中的速度数值。\n它会以字符串和数值形式输出数值，并且当输出信号时，还会切换红石输出布尔值。\n## 导航台\n该方块可以向部署器仪表输出其相对于目标位置调整后的角度。\n它会以字符串和数值形式输出数值。\n## 铭牌\n该方块可以向部署器仪表输出其文本，并能接受字符串输入以更改文本。\n## 联动打字机\n该方块可以向部署器仪表输出其当前按键的键码（数值形式），同时也可以向部署器仪表输出打字机打出的字符串。\n\n# 未来内容：\n- 质量表",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

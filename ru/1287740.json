@@ -1,0 +1,6 @@
+{
+  "bodyHash": "G+9PBhIOafc=",
+  "content": "<h1>Выживание драконов: интеграция с IAF</h1><p>Этот мод добавляет интеграцию между <a href=\"https://www.curseforge.com/minecraft/mc-mods/dragons-survival\" target=\"_blank\" rel=\"nofollow\">Выживанием драконов</a>\nи <a href=\"https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce\" target=\"_blank\" rel=\"nofollow\">Community Edition Ice And Fire</a></p><h2>Особенности</h2><p><strong>Следующие функции будут доступны только если вы — дракон.</strong></p><ul>\n<li>Вы можете использовать дыхание дракона для активации кузниц драконов.</li>\n<li>Драконы будут нейтральными до вашего нападения.</li>\n<li>Доспехи дракона можно надевать на себя с чарами и регулируемой защитой. (Настройки в файле <code>./config/dsiafi.json</code>)</li>\n</ul><pre><code>//dsiafi.json\n{\n  //Итем : Значение\n  //Пример\n  \"iceandfire:dragonarmor_silver_body\": 100\n}</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

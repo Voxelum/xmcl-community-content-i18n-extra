@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DGzYeh04FHI=",
+  "content": "# 傳送門槍模組\n\n針對 [Forge](https://files.minecraftforge.net/) 重新實作了 [iPortalTeam 的傳送門槍模組](https://modrinth.com/mod/portal-gun)。\n\n<img src=\"https://s2.loli.net/2023/03/19/mxdDAr76Y3RwV9B.png\" alt=\"portal_gun.png\" width=\"300\"/>\n\n### 需求\n\n- [GeckoLib](https://modrinth.com/mod/geckolib)\n- [Immersive Portals（Forge 版）](https://modrinth.com/mod/immersive-portals-neoforge)\n\n### 合成配方\n\n<img src=\"https://s2.loli.net/2023/03/19/qz5fNVnZCgytJUX.png\" alt=\"portal_gun_recipe.png\" width=\"200\"/>\n\n### 致謝\n\n非常感謝 [iPortalTeam](https://github.com/iPortalTeam) 創作了原始模組，以及 [Thelnfamous1](https://github.com/Thelnfamous1/PortalGun/) 為 1.19.2 的 Forge 移植版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

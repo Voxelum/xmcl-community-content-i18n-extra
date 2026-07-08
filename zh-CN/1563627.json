@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JwYDJsTLLpc=",
+  "content": "<h1>寂静装备·玉阶</h1><p>寂静装备·玉阶是一款为Jade与寂静装备打造的轻量兼容插件。</p><p>它能在Jade的方块提示框中直接显示该方块所需的寂静装备挖掘/采集等级。对于具有自定义挖掘进度、自定义寂静装备材料或大幅修改采集等级的整合包而言，此功能极为实用。</p><h2>功能特性</h2><p>- 为Jade方块提示框添加寂静装备等级信息<br>- 帮助玩家了解开采方块前所需的工具等级<br>- 读取已加载的寂静装备材料等级数据<br>- 完美适配基于进度体系的整合包<br>- 游戏内实时显示信息，无需玩家查阅外部表格或任务手册</h2><h2>主要应用场景</h2><p>本插件专为以寂静装备为核心工具进度体系的整合包设计，旨在为玩家提供更清晰的采集等级反馈。</p><p>当原版工具等级无法满足需求，或整合包定义了众多自定义进度等级时，该插件尤为实用。</p><h2>运行需求</h2><p>- Minecraft 1.21.1<br>- NeoForge<br>- Jade<br>- 寂静装备<br>- 寂静库</p><h2>给整合包作者的提示</h2><p>本插件旨在支持自定义进度整合包。若您的整合包修改了寂静装备材料、挖掘等级或方块采集要求，该插件可通过Jade清晰展示这些信息。</p><ul>\n<li>插件会实时读取寂静装备材料数据。</li>\n<li>为确保正确显示，自定义进度材料应定义以下内容：\n<ul>\n<li><code>harvest_tier.name</code>（采集等级名称）</li>\n<li><code>harvest_tier.level_hint</code>（采集等级提示）</li>\n<li><code>harvest_tier.incorrect_blocks_for_tool</code>（工具无法采集的方块）</li>\n</ul>\n</li>\n<li>若挖掘结果显示异常，请检查您的<code>incorrect_for_*_tools.json</code>标签，并在覆盖寂静装备默认进度标签时使用<code>\"replace\": true</code>。</li>\n</ul><h2>许可协议</h2><p>MIT许可协议</p><h4><strong><a href=\"#/projects/1569096/\" rel=\"nofollow\">查看我的最新整合包：KidZ 5 - 机械动力与龙</a>&nbsp;</strong></h4>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

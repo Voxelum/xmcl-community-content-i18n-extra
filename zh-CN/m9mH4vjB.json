@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UFPT3Sa5/e8=",
+  "content": "## 请仔细阅读！\n本着色器仍处于测试阶段，预计会遇到各种问题——事实上你一定会遇到。遇到问题时，请务必告诉我！我正在积极改进和修复Phoxel，你的帮助会让这个过程变得轻松许多。\n\n## 关于Phoxel\nPhoxel的诞生源于Minecraft缺乏公开可用的路径追踪着色器，最初设计完全遵循原版风格。但随着0.6版本的重新发布，Phoxel开始形成自己独特的视觉风格——我力求让Phoxel捕捉现实生活的部分美感，同时融合我们深爱的Minecraft独有的氛围与方块美学。\n\n目前Phoxel包含两款着色器：Phoxel PT与Phoxel Lite，两者在某些细节上存在差异。所有新版本和功能将优先在Phoxel PT上发布，但Phoxel Lite会早于PT获得部分功能，纯粹因为某些功能在无路径追踪环境下更容易实现。\n\n## Phoxel PT\n### Phoxel PT专为截图设计，若想用于游戏实况，请移步Phoxel Lite（尚未发布）\nPhoxel PT是原始版本，旨在最终以最极致的方式呈现Phoxel的核心美学（当然需要一些渲染时间:P）\n\n## 补充信息\n在[GitHub](https://github.com/Despatra/Phoxel)反馈问题并查看项目更新，在[Discord](https://discord.com/invite/GSF9D3Q2T5)参与活动、提问及更多互动。\n\n### 最新更新动态\nPhoxel回归，但运作方式有所调整：\n1. 不再发布Beta版本，所有项目仅包含正式版与补丁\n2. 所有正式版将获得补丁支持，确保兼容最新版Minecraft\n\n这意味着相比Phoxel Beta 0.5之前的版本，正式版发布周期会大幅延长。但我认为各位值得拥有更完善的着色器与项目质量。我将尝试更多技术方案，若尝试失败或超出能力范围，Phoxel可能转型为截图专用着色器而非实时路径追踪，届时画质可能永远无法与其他方案媲美。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

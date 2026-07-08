@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FGrKBPZtdHE=",
+  "content": "<p>FTpa 仅可在服务端加载。它为玩家增加了一些指令。\n此模组仅用于填补 Minecraft 1.21.11 fabric 版本的功能空缺。</p><table>\n<thead>\n<tr>\n<th>指令</th>\n<th>功能</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>/tpa &lt;玩家&gt;</td>\n<td>向目标玩家发送传送请求</td>\n</tr>\n<tr>\n<td>/tpahere &lt;玩家&gt;</td>\n<td>邀请目标玩家传送至你所在位置</td>\n</tr>\n<tr>\n<td>/tpaccept</td>\n<td>接受他人的传送请求</td>\n</tr>\n<tr>\n<td>/tpadent</td>\n<td>拒绝他人的传送请求</td>\n</tr>\n<tr>\n<td>/tpacancel</td>\n<td>取消你向他人发送的请求</td>\n</tr>\n</tbody>\n</table><p>如果模组版本 ≥ 0.2，你可以在配置文件中修改所有 tpa 消息。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

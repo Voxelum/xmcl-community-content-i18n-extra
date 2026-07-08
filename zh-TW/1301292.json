@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4XDW8PjUvD0=",
+  "content": "<p>已新增對 <a href=\"https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon\" target=\"_blank\" rel=\"nofollow\"><strong>AoF</strong></a> 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations-a-tetra-addon\" target=\"_blank\" rel=\"nofollow\"><strong>SoF</strong></a> 的預設相容性。<br>\n允許您透過程式碼在名為「ADDON」（類似「CRFT」）的新頁面中將物品加入全像球。</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_08997c79-6d5a-4fa3-bc02-c7765b21c6fc.png\" alt=\"image\">\n請確保您的物品實作了 IModularItem 介面，否則可能導致遊戲崩潰。</p><pre><code>public static void onClientSetup(FMLClientSetupEvent event) {\n    ExtraHoloRegister.register(Item item);\n    ExtraHoloRegister.register(Item item)\n        .setTexture(ResourceLocation texture, int w, int h, int u, int v);\n}</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

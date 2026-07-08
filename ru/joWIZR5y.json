@@ -1,0 +1,6 @@
+{
+  "bodyHash": "obGyfrPvNy4=",
+  "content": "Этот datapack изменяет шансы на добычу при обычной рыбалке, как показано в таблице ниже.\n\n| Название добычи | Ванильная версия | Добыча при удачной рыбалке |\n|------------------|------------------|---------------------------|\n| Рыба             | 85%              | 60%                       |\n| Хлам             | 10%              | 25%                       |\n| Сокровище         | 5%               | 15%                       |\n\nВ версиях 1.16 и выше Mojang добавил условия: чтобы поймать сокровище, нужно рыбачить в открытых водах, и я тоже убрал это условие.\n\nРаботает с версии 1.13 до 1.21+ (включая пути loot_tables/ и loot_table/).\n\n\n<hr>\n\n### Посмотрите мои другие проекты\n\n### [Не хватает структур](https://modrinth.com/datapack/need-more-structures)\n\n### [Нет брутов-пиглинов 1.16.1+](https://modrinth.com/datapack/no-piglinbrutes)\n\n### [Щит Бессмертия](https://modrinth.com/datapack/shield-of-undying)\n\n\n<hr/>\n\n\n<a href=\"https://www.buymeacoffee.com/runterya\"><img src=\"https://img.buymeacoffee.com/button-api/?text=Купи мне кофе&emoji=☕&slug=runterya&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00\" /></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

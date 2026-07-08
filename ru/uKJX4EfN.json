@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hr5+PLSBHsQ=",
+  "content": "# Mekanism Curios\n\n**Mekanism Curios** — это простой мод, который добавляет предметы из [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) (пока что только один) в систему слотов [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios).\n\n## Особенности\n- **Слот QIO:** Позволяет привязать клавишу для использования вашего портативного QIO в этом слоте. Клавиша по умолчанию: Y\n- **Слот телепорта:** То же самое, что и выше, но для портативного телепорта. Клавиша по умолчанию: U\n- **Быстрый телепорт:** Напрямую использует ваш портативный телепорт. Клавиша по умолчанию: I\n\n### Смело используйте этот мод в своём модпаке",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

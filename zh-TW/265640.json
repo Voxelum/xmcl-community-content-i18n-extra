@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JM+Nu2YNaIo=",
+  "content": "<p>Huds模組是一個僅限客戶端的模組，包含多個可完全自訂的HUD介面！</p><p>目前提供的HUD：</p><p>- 裝備HUD：顯示您當前穿戴的護甲及其損耗狀態</p><p>- 工具HUD：顯示您當前手持物品（主手與副手）及其耐久度狀態</p><p>- 傷害指示器：當您將游標指向生物時，其3D模型與生命值會以HUD形式顯示在畫面上</p><p>&nbsp;</p><p>所有HUD皆可透過設定檔或遊戲內設定介面啟用/停用及自訂，可透過以下指令開啟設定介面：</p><p>/hudconfig show</p><p>&nbsp;</p><p>若您手動修改了設定檔，可使用 /hudconfig reload 指令重新載入設定檔。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

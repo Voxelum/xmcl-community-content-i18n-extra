@@ -1,0 +1,6 @@
+{
+  "bodyHash": "r6SVr4urACA=",
+  "content": "<h1>Nuit Interop</h1><p><em>前身為 <strong>FabricSkyBoxes Interop</strong></em></p><p><strong>Nuit Interop</strong> 增加了對 <strong>OptiFine/MCPatcher 自訂天空</strong>的相容性，讓現有資源包能與 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fnuit\" rel=\"nofollow\">Nuit</a>（FabricSkyBoxes 的現代化多載入器後繼者）搭配使用。</p><p>它會在執行時將支援的 OptiFine 自訂天空定義轉換為 Nuit 的天空盒格式，使許多現有的天空資源包能直接使用。</p><hr><h2>功能特色</h2><ul>\n<li><p><strong>OptiFine/MCPatcher 自訂天空支援</strong><br>\n將支援的 <code>optifine/sky</code> 資源包定義轉換為 Nuit 相容的天空盒。</p>\n</li>\n<li><p><strong>智慧型備援</strong><br>\n在已有原生 Nuit/FabricSkyBoxes 格式天空盒時會跳過轉換。</p>\n</li>\n<li><p><strong>靈活控制</strong><br>\n提供選項可在測試或偏好轉換天空時停用原生 Nuit 格式天空盒。</p>\n</li>\n<li><p><strong>舊版 FabricSkyBoxes 支援</strong><br>\n計畫支援直接載入舊版 FabricSkyBoxes 格式的資源包。</p>\n</li>\n</ul><hr><h2>需求</h2><ul>\n<li><a href=\"https://legacy.curseforge.com/minecraft/mc-mods/nuit\" rel=\"nofollow\">Nuit</a></li>\n</ul><hr><h2>備註</h2><p>轉換為盡力而為。由於 OptiFine/MCPatcher 和 Nuit 處理天空渲染的方式不同，部分資源包可能無法達到像素級完美呈現。</p><hr><h2>贊助</h2><p>如果您覺得這個專案實用，請考慮贊助開發：</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fflashyreese\" rel=\"nofollow\"><img src=\"https://i.imgur.com/FSNi7zk.png\" alt=\"在 Ko-fi 上贊助我\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

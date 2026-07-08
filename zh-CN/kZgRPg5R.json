@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nMUg66S1P1I=",
+  "content": "# 圆石怪任务模组\n\n圆石怪任务模组允许您在FTB任务系统中创建与宝可梦相关的任务，包括捕捉、击败、升级、进化等多种任务类型。\n\n## 下载\n\n本模组可在Modrinth或Curseforge平台下载 \\\nModrinth: https://modrinth.com/mod/cobblemon-quests \\\nCurseforge: https://www.curseforge.com/minecraft/mc-mods/cobblemon-quests\n\n## 常见问题\n\n问：需要同时在服务端和客户端安装吗？\\\n答：是的。\n\n问：任务书中没有显示任何任务怎么办？\\\n答：本模组本身不提供预设任务，而是为任务创作者提供创建圆石怪相关任务的功能。\n\n## 使用说明\n\n玩家指南：\\\n正常进行游戏并查看您获得的任务即可，操作非常直观。\n\n[任务创作者指南]([quest-creation.md](https://github.com/WinterWolfSV/Cobblemon_Quests/blob/master/quest-creation.md))\n\n## 源代码\n\n源代码可在[GitHub](https://github.com/WinterWolfSV/Cobblemon_Quests)获取，采用CC-BY-NC 4.0许可协议。更多许可信息请参阅[许可协议](#license)章节。\n\n## 许可协议\n\n圆石怪任务模组采用CC-BY-NC-4.0许可协议发布。该协议允许您在非商业用途下使用、修改和分发本模组，但必须注明原作者并在任何二次分发版本中包含许可协议副本。\n\n## 功能建议\n\n提交功能建议的最佳方式是在Discord的[支持讨论区](https://discord.com/channels/934267676354834442/1354942767008190684/1354942767008190684)留言。如果没有Discord账号，也可以通过GitHub Issues提交功能请求。\n\n## 漏洞与反馈\n\n漏洞报告可通过[GitHub Issues](https://github.com/WinterWolfSV/Cobblemon_Quests/issues)页面或Discord[支持讨论区](https://discord.com/channels/934267676354834442/1354942767008190684/1354942767008190684)提交。请尽可能提供详细信息，包括问题重现步骤、错误信息及相关截图或日志文件。您的反馈将帮助我们改进模组，造福所有用户。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

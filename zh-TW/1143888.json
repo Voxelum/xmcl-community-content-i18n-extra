@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MagujcVCo/s=",
+  "content": "<h2>增加流血、骨折、燒傷等效果。</h2><hr><h1><strong><span style=\"color:#f00\">!!警告!!</span></strong></h1><h3><strong><span style=\"color:#f00\">v0.5.2~</span></strong></h3><h3><strong><span style=\"color:#f00\">與v0.5.1b以下版本不相容</span></strong></h3><p>&nbsp;</p><hr><h3>-物品</h3><p>&nbsp;</p><p>&nbsp;-止血墊</p><p>&nbsp; 降低流血等級。</p><p>&nbsp;</p><h4>&nbsp;-繃帶</h4><p>&nbsp; 降低骨折等級。</p><p>&nbsp;</p><h4>&nbsp;-輸血</h4><p>&nbsp; 恢復4點生命值。</p><p>&nbsp;</p><h4>&nbsp;-注射器</h4><p>&nbsp; 獲得輸血效果，但受到4點傷害。</p><p>&nbsp;</p><h4>&nbsp;-冷卻冰塊</h4><p>&nbsp; 治療燒傷。</p><p>&nbsp;</p><h4>&nbsp;-熱水桶</h4><p>&nbsp; 治療凍傷。</p><p>&nbsp;</p><h3>-倒地</h3><p>&nbsp;當你的生命值低於20時，你會倒地。</p><p>&nbsp;無法挖掘、移動和跳躍。</p><p>&nbsp;</p><h3>-流血</h3><p>&nbsp;受到一定傷害時，等級會提升。</p><p>&nbsp;根據等級增加受到的傷害。</p><p>&nbsp;</p><h3>-骨折</h3><p>&nbsp;當你受到摔落傷害時，會發生骨折。</p><p>&nbsp;獲得緩慢效果。</p><p>&nbsp;</p><h3>-疊加圖標</h3><p>&nbsp;</p><p>紅心：你的生命值。<br>黃心：你的吸收值。<br>綠心：你的最大生命值。<br>盔甲：你的護甲值。<br>骨頭：你的骨折等級。<br>血滴：你的流血等級。<br>藍色手指：顯示你正在凍傷。<br>紅色手指：顯示你正在燃燒。</p><p>&nbsp;</p><hr><p>v0.5b~0.5.1b</p><p>在伺服器上無法使用</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jcZnHcYdY4M=",
+  "content": "<p><strong>Устарело в пользу</strong> <a href=\"https://www.curseforge.com/minecraft/mc-mods/unimixins\" rel=\"nofollow\">UniMixins</a></p><p>&nbsp;</p><p>&nbsp;</p><p>Библиотека, предоставляющая функциональность миксинов</p><ul>\n<li>Включает затенённую ветку Sponge Powered Mixins — в настоящее время 0.8.5-GTNH</li>\n<li>Затеняет необходимые библиотеки, из-за которых ранее версия 0.8.5 была сложна в использовании с MC 1.7.10</li>\n<li>Добавляет две дополнительные стратегии загрузки для миксинов, вдохновлённые Mixin Booter Legacy</li>\n<li>&nbsp; &nbsp; IEarlyMixinLoader — для миксинов, нацеленных на Minecraft, Forge и CoreMods\n<ul>\n<li>&nbsp; &nbsp; ILateMixinLoader и @LateMixin — для миксинов, нацеленных на другие (не основные) моды. Требуется как интерфейс, так и аннотация из-за ограничений в ASMDataTable версии 1.7.10</li>\n</ul>\n</li>\n</ul><p>&nbsp;</p><p>Заменяет SpongeMixins 1.5 (Не путать с SpongePowered Mixins, на основе которых он создан! Ещё одна причина переименования)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

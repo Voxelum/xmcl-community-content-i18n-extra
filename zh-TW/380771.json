@@ -1,0 +1,6 @@
+{
+  "bodyHash": "q/L9aFj5vFw=",
+  "content": "<h2>導覽手冊-API-VP</h2><p>本模組為 TehNut 和 Tombenpotter 所創作的原始模組 Guide-API 的分支版本，採用 MIT 授權條款發佈。<br>\n使用不同的套件名稱與模組 ID（guideapi-vp）。</p><p>可輕鬆為你的模組創建導覽手冊。<br>\n手冊主要由 Guide-API 維護（負責註冊、放入專屬創造模式標籤頁等）。</p><p>導覽手冊主要透過程式碼建立，而 Patchouli 則大多基於 JSON。這意味著：</p><ul>\n<li>可根據模組設定增減或修改內容。</li>\n<li>自動換行與分頁，避免在地化文字溢出。</li>\n<li>參照設定的按鍵綁定。</li>\n<li>參照內部常數、平衡數值等，若在模組中修改，手冊內容會自動更新。</li>\n<li>新增自訂頁面類型、合成配方類型等。</li>\n<li>使用輔助方法自動生成手冊部分內容。</li>\n</ul><p><strong>其他特色？</strong></p><ul>\n<li>無強制相依性：若執行時未安裝 Guide-API，手冊不會出現，但其餘功能正常運作。</li>\n<li>支援 TextFormatting 與手動 \\n 換行。</li>\n<li>多種現成頁面類型：文字頁、物品/方塊焦點文字頁、合成配方頁、圖片頁。</li>\n</ul><h4>使用此模組的模組：</h4><ul>\n<li>Vampirism</li>\n</ul><h4>如何在自己的模組中使用：</h4><p><a href=\"https://github.com/maxanier/Guide-API#developer-information\" rel=\"nofollow\">https://github.com/maxanier/Guide-API#developer-information</a></p><h4>製作人員</h4><p>原始模組：TehNut 和 Tombenpotter<br>\n分支版本：Maxanier</p><h4>授權條款</h4><p>採用 MIT 授權條款，如有需要可建立分支版本。<br>\n也歡迎將其包含在你的模組包中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

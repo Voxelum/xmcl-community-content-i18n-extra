@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t7/a9PcHRYA=",
+  "content": "![Логотип MiniMOTD](https://i.imgur.com/CXWwjOJ.png)\n\n\n### MiniMOTD — это базовый плагин/мод для отображения списка серверов в MOTD на Minecraft-серверах и прокси-серверах\n\n- MiniMOTD поддерживает RGB-цвета и градиенты через [MiniMessage](https://github.com/KyoriPowered/adventure-text-minimessage), откуда, собственно, и происходит название мода.\n- Для получения более подробной информации о форматировании текста обратитесь к [документации MiniMessage](https://docs.adventure.kyori.net/minimessage.html).\n- Цвета RGB автоматически уменьшаются до более низкого разрешения для устаревших клиентов.\n- Требуется [Fabric API](https://modrinth.com/mod/fabric-api)\n\n#### Скачать\nСкачать можно с [релизов на GitHub](https://github.com/jpenilla/MiniMOTD/releases). Для каждой платформы доступен свой JAR-файл, а также универсальный JAR-файл, подходящий для всех платформ. Paper и Spigot используют один и тот же JAR-файл, как и Waterfall и Bungeecord.\n\n#### Конфигурация\nПодробности конфигурации см. в [вике](https://github.com/jpenilla/MiniMOTD/wiki)\n\n#### Скриншоты\n![Изображение демонстрационного MOTD](https://i.ibb.co/1LRCV8b/minimotd-demo.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

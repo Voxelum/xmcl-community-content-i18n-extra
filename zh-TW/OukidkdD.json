@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1kN9FHPHBqE=",
+  "content": "![Fabric](https://img.shields.io/badge/Mod%20Loader-Fabric-blue.svg)\n\n### 指令：\n*指令僅在版本 1.1.6 及以上版本中保持最新。*\n*版本 1.20.1.7 最終將在生命偷取功能回移植時被取代。*\n\n#### /withdraw <數量>\n提取指定數量的生命值（心）\n\n#### /lifesteal-client <訊息/通知/音效>\n允許開關各種生活品質功能。\n\n### 管理員 / 控制台指令：\n\n#### /revive\n開啟生命信標復活畫面，無需從物品欄中消耗或移除生命信標。\n\n#### /lifesteal-config <資訊/重新載入>\n提供設定檔資訊或重新載入設定檔。\n\n### 合成配方\n\n#### 心之碎片\n\n![心之碎片](https://cdn.modrinth.com/data/cached_images/621d3805b670bb7a0c86976a75220c0507946cda.png)\n\n#### 心\n\n![心](https://cdn.modrinth.com/data/cached_images/634092de2893be263eca1d05b0905d568f365c60.png)\n\n#### 生命信標\n\n![生命信標](https://cdn.modrinth.com/data/cached_images/f48c958b8ca1767abc107e51574ec59aba13ecd8.png)\n\n### 未來更新\n- 改進物品材質\n  - 後續將提供客戶端材質設定選項（經典/當前）\n#### 版本相容性更新\n- 1.21.8-1.21.10, 1.21-1.21.5\n- 1.20, 1.20.4-1.20.6\n- 1.19-1.19.4\n- 1.18-1.18.2\n- 1.17-1.17.1\n- 1.16-1.16.5\n- 1.15-1.15.2\n- 1.14-1.14.4\n- 1.13-1.13.2\n- 1.12-1.12.2\n###\n_目前未計劃支援 1.12 之前的所有版本，此情況未來可能改變。1.19 之前的版本可能無法使用所有功能。如果您知道如何在舊版本中移植缺失的功能，請在模組的 GitHub 儲存庫中開啟討論。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

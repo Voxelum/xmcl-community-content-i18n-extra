@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cjTJseHPd/c=",
+  "content": "<p>本模组简单地移除了1.19.1版本后新增的游戏暂停菜单中的聊天举报按钮，并像1.19.1之前那样将其替换为禁用的\"开放局域网\"按钮（在多人服务器时）。</p>\n\n<p>支持Fabric、Forge和Quilt的1.19.1+版本<br>\n理论上兼容所有模组，但如果您发现不兼容的情况，请提交问题报告。</p>\n\n<h3>v1.6.1版本新特性</h3>\n<ul>\n<li>现已支持Minecraft 1.21+版本的NeoForge</li>\n</ul>\n\n<p><strong>不需要Fabric API。</strong></p>\n\n<p>请<a href=\"https://github.com/Lucaslah/No-Report-Button?tab=readme-ov-file#released-versions\" target=\"_blank\" rel=\"nofollow\">点击此处</a>查看适用的版本，或检查文件选项卡下载支持您当前Minecraft版本的最新NRB版本。&nbsp;&nbsp;</p>\n\n<p><strong>本模组仅支持客户端使用，在服务器端使用不会有任何效果</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

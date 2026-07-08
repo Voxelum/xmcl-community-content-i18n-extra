@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1mL/vdCKBKM=",
+  "content": "[![Connected Banner](https://cdn.modrinth.com/data/cached_images/b7f46e3090d256de308f64ac8f7f20c5e5ed9516.png)](https://discord.gg/Asv7EJSJf5)\n\n\n| 世界生成 | 新增建築 | 原版升級 |\n| :--- | :--- | :--- |\n| Tectonic | Towns and Towers | YUNG's Complete Suite |\n| Geophilic | Dungeons and Taverns | Explorify |\n| Lithosphere | Structory: Towers | End Remastered |\n\n---\n\n## 更深層的系統\n- **Tetra**：近乎無限的工具/武器可能性\n- **Cold Sweat & Serene Seasons**：季節與溫度變化，讓你必須適應並改變玩法（詳見說明底部）\n- 大量新增生物：Naturalist、Friends&Foes、Luminous Monsters 等。\n\n---\n\n## 小改動，大不同\n- 內建 Iris 光影支援 + Resourcify 便於下載。\n- 透過 Sound Physics Remastered、Matmos 和 Extra Sounds 強化音效。\n\n<details>\n  <summary>⚙️ 選用伺服器設定</summary>\n\n  #### 調整溫度難度\n  使用數值 `1` 來關閉，或 `0-1` 來降低難度。\n  ```\n  /temp modify @a set heat_dampening <數值> true\n  /temp modify @a set cold_dampening <數值> true\n  ```\n\n  #### 切換鞘翅煙火加速\n  ```\n  /function no_elytra_boosting:settings\n  ```\n</details>\n\n<a href=\"https://bisecthosting.com/Legendary\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/2dc0ab1a-7149-4c52-98fa-5173d0127d95.webp\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

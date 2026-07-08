@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZK9SUnJznS0=",
+  "content": "這個資料包允許你多次破壞樹木中的一根原木。如果一棵樹有10格高，你現在可以透過破壞那根方塊10次來砍倒整棵樹。資料包會確保掉落正確的物品，因此即使樹木已被剝皮也能正常運作。\n\n**資料包安裝方式：**  \n**如果系統顯示無法在較低版本中使用的訊息（即使我已標記為支援），請忽略此訊息，它仍然可以正常運作**\n\n1. 找到特定世界的 datapack 資料夾  \n2. 將 Tree_trimmer.zip 檔案拖入 datapack 資料夾  \n3. 使用 /datapack enable \"file/Tree_trimmer.zip\" 啟用資料包  \n\n**模組安裝方式：**  \n1. 按照說明安裝你偏好的模組載入器（無論是 Forge、Fabric、NeoForge 或 Quilt）  \n2. 將下載的 .jar 檔案拖入（在 Windows 系統中）%appdata%\\.minecraft\\mods  \n3. 啟動世界並開始遊玩  \n\n**如有任何問題，請在我的 Discord 伺服器上回報。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

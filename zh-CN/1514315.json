@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EpgFK86A00c=",
+  "content": "<h1>计算器覆盖层</h1><p>一个客户端Minecraft Forge模组，可在任何GUI界面上叠加一个可拖动的浮动计算器面板。</p><h2>功能特性</h2><ul>\n<li><strong>开关控制</strong> — 在任何GUI开启时按下<code>C</code>键（可自定义）切换计算器显示</li>\n<li><strong>实时预览</strong> — 输入表达式时实时显示<code>= 结果</code></li>\n<li><strong>按下回车</strong> — 计算结果并替换表达式（支持连续计算）</li>\n<li><strong>点击预览区域</strong> — 将结果复制到剪贴板</li>\n<li><strong>完整文本编辑</strong> — 光标定位、文本选择、Ctrl+C/X/V/A、方向键、Home/End</li>\n<li><strong>数字小键盘支持</strong> — 所有数字键和运算符均可使用</li>\n<li><strong>可拖动面板</strong> — 通过标题栏拖拽调整位置</li>\n<li><strong>跨界面持久化</strong> — 切换GUI时保持可见，退出世界后重置</li>\n<li><strong>深色现代UI</strong> — 聚焦边框高亮，关闭按钮悬停变红</li>\n<li><strong>支持的运算符</strong>：<code>+</code> <code>-</code> <code>*</code> <code>/</code> <code>^</code> <code>( )</code> <code>.</code> 以及Unicode符号 <code>×</code> <code>÷</code></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

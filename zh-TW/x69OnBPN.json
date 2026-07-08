@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bVD1Sd38yA4=",
+  "content": "# SmoothMaps\n一個Minecraft模組，為框架地圖、畫作與鐵軌提供平滑光照與效能改善。\n\n尊重你的平滑光照設定，且不會造成明顯的效能損耗。\n\n### 功能\n- 框架地圖的快速平滑光照\n- 畫作的快速平滑光照\n- 為鐵軌啟用平滑方塊光照\n- 移除內側面以提升畫作效能\n- 改善伺服器端地圖繪製效能（最高提升60%）\n- 降低地圖繪製的GPU頻寬負擔（部分紋理更新）\n\n![Toby在Minecraft地圖中的圖片，顯示平滑光照效果。](https://cdn.modrinth.com/data/x69OnBPN/images/d81ba612a40cfa6f9fca2dd85a59d0fc57e5ba34.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

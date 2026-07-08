@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DSnh0WhsPc8=",
+  "content": "<p>修改掉落物品和方塊的外觀。需要 Fabric API 和 YACL。</p><p>選項：</p><ul>\n<li>物品<ul>\n<li>掉落物品：物品會呈現平放在地面上的樣子 <img src=\"https://raw.githubusercontent.com/SoundsoftheSun/Item-Drops/refs/heads/master/img/dropped_items.png\" alt=\"\"></li>\n<li>廣告牌物品：物品始終面向玩家</li></ul></li>\n<li>方塊<ul>\n<li>掉落方塊：方塊會呈現平放在地面上的樣子 <img src=\"https://raw.githubusercontent.com/SoundsoftheSun/Item-Drops/refs/heads/master/img/dropped_blocks.png\" alt=\"\"></li></ul></li>\n<li>配置 <img src=\"https://raw.githubusercontent.com/SoundsoftheSun/Item-Drops/refs/heads/master/img/config.png\" alt=\"\"></li>\n</ul><p>演示：</p><p><a href=\"https://www.youtube.com/watch?v=1JrG3YloqSo\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=1JrG3YloqSo</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

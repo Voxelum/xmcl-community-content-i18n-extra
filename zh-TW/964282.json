@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EpgA0wzyQd4=",
+  "content": "<p>在Farmer's Delight中，長久以來存在一個問題：無法將相同食材放入烹飪鍋的同個槽位來製作食物。這使得自動化生產食物變得困難。而本模組正是為了解決這個問題而製作。（<a href=\"https://github.com/vectorwing/FarmersDelight/issues/26\" target=\"_blank\" rel=\"nofollow\">原始問題回報</a>）</p><p>同時透過在配方匹配前提取相同邏輯，略微提升了效能。</p><p><strong>1.21版新增：</strong>透過不再為非啟用狀態的配方進行不必要的匹配，進一步提升效能。</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252frb.gy%252f87fgcz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp\" alt=\"有興趣支持我與模組開發嗎？BisectHosting是最佳解決方案。新客戶可使用促銷代碼「snownee」獲得首月遊戲伺服器25%折扣。憑藉24/7技術支援與快速回應時間，我們能為所有遊戲需求提供頂級服務。\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

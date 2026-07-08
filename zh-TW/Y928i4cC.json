@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pxGJMyFFkwM=",
+  "content": "Hex Casting 與 Iron's Spells 'n Spellbooks 的互通功能。\n\n### 特色\n\n- 新的 Iron's 法術：**Hex Grid** - 開啟 Hex 施法網格；\n- 被 **Counterspell**（原版 Iron's 法術）擊中時，現在會關閉並清除 Hex 施法網格；\n- 新的 Hex Casting 圖案：\n  - 從卷軸中讀取 Iron's 法術轉化為 iota，然後以自己 *或其他實體* 施放它們！支援所有法術，包括模組附加內容；\n  - 召喚法術書 - 一個輔助實體，可從任何位置與方向施放 Iron's 法術；\n  - 取得 Iron's 法術的消耗、冷卻時間、施法時間、施法類型、等級、最高等級；\n  - 取得實體正在施放的法術；取得施法完成前的剩餘時間；\n  - 取得法術冷卻時間、玩家當前與最大魔力值；\n  - 降級 iotified 法術；\n  - 減少法術冷卻時間。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

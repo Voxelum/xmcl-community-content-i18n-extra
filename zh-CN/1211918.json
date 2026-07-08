@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FJxejgKn/VQ=",
+  "content": "<p><img src=\"https://i.postimg.cc/yNzy4HBt/vcg.png\"></p><p><img src=\"https://img.shields.io/curseforge/dt/1211918\" alt=\"\" width=\"100\" height=\"20\"></p><p>原版连接玻璃让玻璃方块和玻璃板实现无缝连接——无需安装OptiFine或Continuity模组！完全兼容所有资源包，仅使用原版剔除面技术来隐藏玻璃块左右上下相邻时的接缝面。<br><br>每个玻璃模型都在边缘设置了细长立方体边框，并采用玻璃边缘纹理，营造出流畅的连接效果。对角像素通过额外添加的立方体进行精准对齐处理。</p><h3>✨ 功能特色：</h3><ul>\n<li>适用于玻璃方块与玻璃板</li>\n<li>支持所有颜色的玻璃</li>\n<li>无需OptiFine或其他模组</li>\n<li>完全兼容任意资源包（0.8版本后请将本资源包置于其他包下方）</li>\n<li>采用纯原版机制实现整洁的连接边缘</li>\n<li>轻量级且安装简便</li>\n</ul><h3>⚠️ 注意事项（基于纯原版剔除面技术）：</h3><ul>\n<li>从玻璃内部观察时可能看到边框</li>\n<li>玻璃会与所有方块连接（除树叶、铁栏杆等特殊方块外）</li>\n</ul><p><br>虽然存在些许局限，但本资源包始终保持100%原版兼容性，非常适合想要无模组连接玻璃的创作者和玩家。<br><br>注：我知道OptiFine和Continuity的玻璃效果更平滑，但这是实现原版连接玻璃的唯一方式。如果您有更好的方法，非常欢迎交流！=D<br><img src=\"https://i.postimg.cc/QNT7QjBh/117237de1a4477533fcfa18e77ddf6dbcd849f02-350.webp\" alt=\"原版连接玻璃\"><br><br>🔒 官方下载仅限Modrinth、CurseForge和Planet Minecraft平台，发布者名为sniffercraft34。其他来源可能经过篡改或存在安全隐患。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

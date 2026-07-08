@@ -1,0 +1,6 @@
+{
+  "bodyHash": "T1jXyiK8NAY=",
+  "content": "## 所有瓦尔基里相关内容，一站式集合！\n\n尽可能多地整合瓦尔基里天空系列模组！精心平衡以实现最大稳定性！极致的物理体验！\n\n精心配置以避免瓦尔基里天空最常见的大多数漏洞！\n\n---\n\n**如果你在寻找更轻量的整合包，可以查看我的[第六瓦尔基里](https://modrinth.com/modpack/sixth-valkyrien)整合包**\n\n---\n\n**模组列表：**\n\n_Forge_\n\n- CC: VS\n- Clockwork\n- Control Craft\n- Counter Clockwise\n- Create: Interactive\n- Create: Propulsion\n- Create: Valkyrien Logistics\n- Drive-By-Wire\n- Genesis\n- Eureka\n- HexySkies\n- JadeVS\n- Kontraption\n- Reins Mod\n- Ship Retrieval Servie\n- Starlance\n- TIS-VS\n- Trackwork\n- Valkyrien Relogs\n- Valkyrien Sails\n- Valkyrien Warium\n- VMod\n- VS Chunkloader\n- VS Hose Connectors\n- VS: Tournament\n- VSPrinter\n- VSplit\n- VStuff\n\n_Fabric（含连接器）_\n\n- Valkyrien Pirates\n- Ship in a bottle\n\n**其他模组（不含依赖）：**\n\n_可根据喜好移除以下模组，但请注意不要添加额外模组，可能存在不兼容问题！_\n\n- Create Big Cannons\n- Create Deco\n- Create: Diesel Generators\n- Create: Connected\n- Create: Copycats+\n- Create: Steam n Rails\n- Create: Tweaked Controllers\n- Embeddium\n- Embeddium++\n- Colorwheel + Colorwheel patcher\n- Radium\n- Immersive Optimisations\n- Just Enough Items\n- Oculus\n- Simple Backups\n- Spark\n\n---\n\n### 常见问题：\n\n#### 机械装置无法交互：\nCreate: Interactive 现在要求机械装置上放置\"interact-me\"方块才能实现交互。如有需要，你可以在 Create: Interactive 服务端配置中关闭此功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

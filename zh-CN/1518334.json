@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HS/Tl9yOtwU=",
+  "content": "<h2>矿石连锁挖矿</h2><p>矿石连锁挖矿是一款轻量级生活便利模组，允许你一次性挖掘整条矿脉。</p><p>只需敲碎一个矿石方块，所有直接相连的同类型矿石便会自动挖掘。该系统的设计贴近原版游戏体验，在保持快速且爽快的挖掘手感的同时，不会削弱工具使用和游戏进程的必要性。</p><hr><h2>特性</h2><ul>\n<li>自动挖掘相连的矿石矿脉</li>\n<li>设计自然，适合生存模式</li>\n<li>每挖掘一个方块都会消耗工具耐久度</li>\n<li>仅影响直接相连的矿石方块（建筑安全）</li>\n<li>支持按键绑定，可配置行为</li>\n<li>多人游戏安全</li>\n</ul><hr><h2>兼容性</h2><ul>\n<li>Minecraft Java版</li>\n<li>Fabric（计划支持NeoForge）</li>\n<li>可在生存世界中正常运作</li>\n<li>支持原版矿石方块</li>\n<li>根据标签和兼容性，可能支持模组中的矿石</li>\n</ul><hr><h2>安装方法</h2><ul>\n<li>下载模组的<code>.jar</code>文件，放入<code>mods</code>文件夹中</li>\n<li>需要Fabric加载器</li>\n</ul><hr><h2>注意事项</h2><ul>\n<li>出于性能考虑，超大矿脉可能受到限制</li>\n<li>仅挖掘直接相连的矿石方块</li>\n<li>玩家放置的矿石方块如果相连，也可能受到影响</li>\n</ul><hr><h2>图标许可</h2><p>矿石连锁挖矿图标仅供本模组使用。<br>\n未经许可，不得在其他地方重复使用、分发或修改该图标。</p><hr><h2>致谢</h2><p>由Owen制作<br>\nMinecraft © Mojang AB。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

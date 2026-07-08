@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D0x6OpLsyVI=",
+  "content": "<h1>耐久度調整</h1><p>伺服器端模組。</p><p>減少裝備的耐久度損耗。</p><h2>功能</h2><ul>\n<li>盔甲耐久度損耗機率</li>\n<li>盔甲耐久度損耗上限</li>\n<li>盔甲耐久度損耗倍率</li>\n<li>盾牌耐久度損耗機率</li>\n<li>盾牌耐久度損耗上限</li>\n<li>盾牌耐久度損耗倍率</li>\n</ul><h2>設定</h2><p>設定檔位於 <code>config/durability_tweaks.json</code>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

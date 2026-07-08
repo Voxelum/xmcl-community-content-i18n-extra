@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LEvBjREAF3o=",
+  "content": "<p>這是一個將植物魔法魔力轉換為機械動力旋轉能量的模組。</p><p>本模組是針對Forge 1.20.1版本<a href=\"https://www.curseforge.com/minecraft/mc-mods/mechanical-botania\" rel=\"nofollow\">Mechanical-Botania</a>模組的延續開發</p><p>主要新增「魔力引擎」方塊，可透過紡絲花從魔力池抽取魔力作為動力來源。</p><p>紡絲花可放置於不同等級的土壤上，每種土壤會影響綁定花朵對魔力引擎整體RPM輸出的貢獻值。</p><p>&nbsp;</p><p><strong>土壤等級</strong> <em>(基於標籤系統，可自行配置)</em>：</p><ul>\n<li>泥土</li>\n<li>扎根土</li>\n<li>草方塊</li>\n<li>灰化土</li>\n<li>附魔土壤（過盛之種專用土壤）</li>\n</ul><p>&nbsp;</p><p><strong>注意事項：</strong></p><p>每多綁定一朵紡絲花都會降低魔力引擎的應力容量，建議使用當前可取得的最高階土壤以獲得最佳輸出。</p><p>轉速(RPM)、魔力消耗與應力單位等參數可在<span style=\"text-decoration:underline\">配置檔</span>中調整。</p><p>&nbsp;</p><p><strong>特別感謝：</strong></p><p><a href=\"https://www.curseforge.com/members/thedoctorofdoctoring\" rel=\"nofollow\">thedoctorofdoctoring</a> - <em>本模組1.19.2版本的原始開發者</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

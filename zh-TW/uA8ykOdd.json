@@ -1,0 +1,6 @@
+{
+  "bodyHash": "abFzuCxP4zs=",
+  "content": "![](https://i.imgur.com/c5jPHhl.png)\n\nCorpse Complex 是一個為 Minecraft 死亡系統添加多種配置選項的模組。目前提供控制物品欄損失、經驗值損失、飢餓值以及重生藥水效果等選項，並支援許多模組。\n\n# 功能特色\n\n所有配置選項均可透過您世界 `serverconfig` 資料夾中的設定檔案進行調整。\n\n## 模組\n\n### 物品欄\n\n控制死亡時物品欄的處理方式，並可選擇性添加新的靈魂綁定附魔，幫助您保留特殊裝備。\n\n### 效果\n\n在玩家重生時施加藥水效果，包括可自訂的新效果「Memento Mori」，能夠修改任何屬性。\n\n### 經驗值\n\n控制經驗值損失和經驗球的生成。\n\n### 飢餓\n\n控制死亡和重生時飢餓值的變化。\n\n### 重生\n\n禁用床鋪重生點，或授予玩家返回死亡地點的卷軸。\n\n# 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

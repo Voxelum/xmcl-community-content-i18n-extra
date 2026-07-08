@@ -1,0 +1,6 @@
+{
+  "bodyHash": "C6+5C/aePqw=",
+  "content": "<img alt=\"预览\" src=\"https://cdn.modrinth.com/data/JyKlunuD/images/e1fb90dd7ba165b9043fbd4b752c42103dc9e7ef.png\"><br><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fconnector\" rel=\"nofollow\">连接器</a><br><hr><p>此模组会忽略方块准星目标，转而对实体进行瞄准，当满足以下条件时：</p><ul>\n<li>方块没有碰撞体积</li>\n<li>实体是活体且可攻击</li>\n<li>你没有直接骑乘该实体</li>\n<li>实体在攻击范围内（1.21版本中精确交互距离）</li>\n</ul><p>得益于这种实现方式，当你瞄准实体时，方块轮廓也会消失。</p><h4>技术说明</h4><p>此模组仅包含一个<a href=\"https://github.com/sisby-folk/swingthrough/blob/1.19/src/main/java/folk/sisby/swingthrough/mixin/client/GameRendererMixin.java\" rel=\"nofollow\">单一混入</a>，有效代码大约只有4行：</p><ul>\n<li>2行用于在方块满足条件时使用完整实体瞄准范围</li>\n<li>2行用于在使用了完整范围且实体满足条件时忽略方块目标</li>\n</ul><p>不会进行额外的射线投射或半径搜索。</p><h2>后记</h2><p>所有模组都建立在许多人的工作之上；请支持更广泛的社区。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

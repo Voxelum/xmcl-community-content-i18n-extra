@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zk6n+D1k/sI=",
+  "content": "<p>難道不奇怪嗎？Minecraft中的釣魚從未受到任何關愛？嗯，我想給它一些！<br>這是「真實釣魚」，一個我認為Mojang本應在早期就實現的缺失功能。<br><br>水中的實體（可配置）現在會在距離魚鉤10格範圍內且深度30格內時游向魚鉤，稍微咬一下，然後咬住魚鉤並游走（在此期間，您有1.5秒的時間右鍵點擊實際鉤住魚）。通過按住右鍵收線釣魚！</p><p>&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/description/1071649/description_ba83d352-f643-49ec-8caf-06388f22b921.gif\" alt=\"\" width=\"400\" height=\"400\"></p><p>&nbsp;</p><p>模組支援（適用於大多數魚類，可能也適用於其他實體）<br><img src=\"https://media.forgecdn.net/attachments/description/1071649/description_f06b4081-f306-4ccb-9673-803492b3739e.gif\" alt=\"\" width=\"400\" height=\"400\"></p><p>&nbsp;</p><p>要從實體獲得額外/原版釣魚機制的戰利品，您需要將其收線拉出水面，站在旁邊並殺死它。</p><ul>\n<li>實體現在會游向魚鉤（基於機率和10秒的計時器）。</li>\n<li>實體會立即咬鉤或帶著魚鉤游走。</li>\n<li>實體會模仿現實中魚的掙扎，嘗試游走/繞圈或跳出水面。</li>\n<li>模組實體如Alex's Mobs的虎鯨和其他模組應該可以工作（某些實體如魷魚等可能不太適用）。</li>\n<li>配置中的實體可以在附近生成（如果配置了）。</li>\n<li>在1.5秒內右鍵點擊以鉤住魚。</li>\n<li>通過點擊或按住右鍵收線。</li>\n<li>預設情況下，收線釣到的魚死亡時會啟用原版釣魚戰利品。</li>\n<li>可以配置收線釣到的魚死亡時的額外魚類掉落。</li>\n</ul><p>不需要客戶端！</p><p>可用於模組包。</p><p>&nbsp;</p><p>其他模組的釣魚竿仍將使用原版釣魚小遊戲。後續可能會設置讓所有釣魚竿使用此模組的機制。<br><br>計劃功能：</p><ul>\n<li>根據魚的強度、耐力和稀有度調整獎勵，使戰利品更加動態。</li>\n<li>改進AI</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

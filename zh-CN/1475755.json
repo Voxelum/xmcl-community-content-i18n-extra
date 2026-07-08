@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XE7xXRrVGLs=",
+  "content": "<p><img src=\"https://i.imgur.com/1wx26i0.gif\" alt=\"Simply Tooltips 标题图片\"></p><p><strong>注意：</strong> 默认情况下，Simply Tooltips 仅会为已创建有效 Simply Tooltip 主题文件的模组物品（例如 Simply Swords 和 Simply Bows）渲染提示框。</p><ul>\n<li>要为<strong>所有</strong><span style=\"text-decoration:underline\">模组物品</span>启用提示框，请在配置中启用 'applyTooltipsToModItems'。</li>\n<li>要为<span style=\"text-decoration:underline\">原版物品</span>启用提示框，请在配置中启用 'applyTooltipsToVanillaItems'。</li>\n</ul><h3>创建自定义主题</h3><p>Simply Tooltips 允许您创建自己的提示框主题，并将其应用于游戏中的任何物品（模组或原版）。这完全由数据驱动，允许通过资源包应用这些主题。</p><p>有关如何创建和分配这些主题的信息，请参阅 <a href=\"https://github.com/Sweenus/simplytooltips\" target=\"_blank\" rel=\"nofollow\">GitHub 页面</a>。</p><h3>其他功能</h3><p>Simply Tooltips 允许您通过按下热键（默认为 'H'）为屏幕上任何提示框生成 GIF 动图。这会将提示框的简短 GIF 动图保存到截图文件夹中，便于展示您的自定义主题。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

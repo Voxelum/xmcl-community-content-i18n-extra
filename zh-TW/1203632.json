@@ -1,0 +1,6 @@
+{
+  "bodyHash": "enper6qnWjs=",
+  "content": "<p>此模組讓您能將物品放置於世界中，並與所有第三方模組完全相容。請注意，這些物品並非方塊，而是實體。類似於物品展示框，若在特定區域放置過多物品，將大幅降低幀率。建議盡可能使用優化模組。</p><h2>依賴模組</h2><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/kleiders-custom-renderer-api\" rel=\"nofollow\">Kleiders Custom Renderer API</a>&nbsp;(7.2.0 或更高版本)</li>\n</ul><h2>目前規劃</h2><ul>\n<li>可放置無損自訂資料物品（具耐久度/已命名物品）</li>\n</ul><h2>開發者資訊</h2><p>如果您是開發者，希望讓您的模組與 Placeable Items 相容，那麼您來對地方了！為了讓此模組能與最多模組相容，它會從原始來源（即已載入的 .jar 檔案）動態載入物品材質。</p><p>為了達到最廣泛的相容性，取用格式為&nbsp;<code>assets\\%MOD_ID%\\textures\\item\\%ITEM_NAME%.png</code>，這是最廣泛使用的物品材質路徑格式。</p><p>若要讓您的模組與 Placeable Items 相容，只需遵循上述格式即可。以下提供一些範例供您參考：</p><ul>\n<li>✅&nbsp;<code>diamond</code>&nbsp;為註冊名稱，材質檔案命名為&nbsp;<code>diamond.png</code></li>\n<li>❌&nbsp;<code>diamond</code>&nbsp;為註冊名稱，材質檔案命名為&nbsp;<code>diamond_item.png</code>\n<h2>&nbsp;</h2>\n</li>\n</ul><h2>廣告</h2><p><a href=\"/linkout?remoteUrl=https%253a%252f%252foct.ink%252f\" rel=\"nofollow\"><img src=\"https://wsrv.nl/?url=https://us-east-1.tixte.net/uploads/cdn.avatarka.ge/oct.png&amp;n=-1\" alt=\"廣告\"></a></p><h2>&nbsp;</h2><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

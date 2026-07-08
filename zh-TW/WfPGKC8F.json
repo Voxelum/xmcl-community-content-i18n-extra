@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VxTdUHp507w=",
+  "content": "這個模組修復了 Minecraft 的一個錯誤，即村莊的門會使區塊持續載入。\n\n這對伺服器或單人世界來說可能是個大問題，因為數百個區塊可能會被鎖定載入，導致效能問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "luvyFhBwZt4=",
+  "content": "<h1>SmoothTextureFix</h1><p>С добавлением анизотропной фильтрации и RGSS в Minecraft 1.21.11 (Mounts of Mayhem) внешний вид игры изменился. На текстурах блоков заметно появилось размытие. Края между блоками по-прежнему имеют прежнюю резкую границу, что очень бросается в глаза. Этот мод возвращает настройку фильтрации текстур к режиму «Ближайшее/Точечное», как это всегда и должно быть. &lt;3</p><p>Мод можно включать и выключать с помощью конфигурационного файла (<code>config/smoothtexturefix.json</code>) или клиентского команды <code>/smoothtexturefix</code>.</p><h1>Сравнение</h1><p>Слева — Vanilla, справа — SmoothTextureFix.</p><div>\n  <img src=\"https://i.imgur.com/fjPETKv.png\" alt=\"Сравнение между Vanilla и STF\">\n  <img src=\"https://i.imgur.com/XzpEYS0.png\" alt=\"Сравнение между Vanilla и STF\">\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pNGMDPy9fy4=",
+  "content": "## X光透视\n一款能移除石头等方块、仅保留矿石可见的模组/数据包。同样适用于下界。\n\nX光透视是一款强大的模组，能彻底改变您在Minecraft世界中的探索方式。它允许您透视普通方块，高亮显示珍贵资源、建筑结构和关键物品。\n\n使用时，您只需手持任意已填充的地图。\n\n![预览图](https://cdn.modrinth.com/data/r8hnR3m9/images/8f21f107271770937160956489953644f1bc92ff.png)\n\n## 使用方法\n\n该模组会自动激活，无需额外设置。如需临时禁用，请在聊天栏输入指令```/trigger bizcub.x_ray.t```。模组的当前状态信息将显示在聊天栏中。\n\n## 依赖项\n- Fabric加载器需安装[Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

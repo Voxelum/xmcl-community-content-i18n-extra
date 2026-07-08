@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qH58/rU2V9M=",
+  "content": "<p><img src=\"https://www.bisecthosting.com/images/CF/Config_Manager/MP_Config_Manager_header.webp\" alt=\"標題圖片\">\n<strong>Config Manager</strong> 是一款 Minecraft 模組，能讓模組包開發者以簡單且友善的方式提供設定檔案。<br>\n它同時支援 <strong>NeoForge</strong> 與 <strong>Fabric</strong>，適用於 <strong>Minecraft 1.20.1</strong> 及更新版本。</p><hr><h2>功能特色</h2><h3>提供模組包預設值，不覆蓋使用者偏好設定</h3><ul>\n<li>將模組包的預設設定檔案放置於 <code>/config/modpack_defaults</code> 目錄中。</li>\n<li>啟動時，該目錄中的所有檔案僅在<strong>目標位置不存在時</strong>才會複製到 Minecraft 目錄。</li>\n</ul><p><strong>範例：</strong></p><ul>\n<li><code>.minecraft/config/modpack_defaults/options.txt</code> → 複製至 <code>.minecraft/options.txt</code></li>\n<li><code>.minecraft/config/modpack_defaults/config/myMod.json</code> → 複製至 <code>.minecraft/config/myMod.json</code></li>\n</ul><p>此機制確保使用者的設定在模組包更新時得以保留。</p><hr><h3>更新或重設為模組包預設值</h3><p>透過模組列表（NeoForge）或 Mod Menu（Fabric）開啟 Config Manager 介面，可選擇兩種操作：</p><ol>\n<li><p><strong>更新</strong> – 將模組包的設定檔案複製（覆蓋）至使用者現有檔案上。</p>\n<ul>\n<li>模組包修改過的所有設定將被更新。</li>\n<li>未更動的設定則維持使用者原有配置。</li></ul></li>\n<li><p><strong>重設</strong> – 清空整個 <code>config</code> 目錄，並以模組包提供的檔案取代。</p>\n<ul>\n<li>適用於修復損壞或異常的安裝環境。</li></ul></li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

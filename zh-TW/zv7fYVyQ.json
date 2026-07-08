@@ -1,0 +1,6 @@
+{
+  "bodyHash": "W9qEpIvmFHQ=",
+  "content": "# 偵測到 setBlock 消失\n\n厭倦了伺服器控制台被垃圾訊息洗版，且日誌檔案大小不斷增加嗎？\n向這些垃圾訊息說再見：\n\n```\n[31Feb.2023 12:00:00.000] [Worker-Main-20/ERROR] [net.minecraft.Util/]: 在遠方區塊 [-420, 69] 偵測到 setBlock，位置：MutableBlockPos{x=777, y=69, z=420}，狀態：minecraft:features，目前生成：ResourceKey[minecraft:worldgen/placed_feature / some_mod:random_structure]\n```\n\n**「但這只是警告啊！」**\n\n這只是 Mojang 遺留下來的除錯功能。別擔心，這個模組會將它關閉。\n\n---\n\n### 使用方法：\n透過調整以下位置的 **dsbg-server.toml** 來開啟或關閉訊息抑制：\n\n```\n1.21 及以上版本：\n/config/dsbg-common.toml\n\n1.20.1 及以下版本：\n/world/serverconfig/dsbg-server.toml\n\nFabric：\n很遺憾，無法進行配置。\n```\n\n預設設定為抑制訊息，畢竟誰喜歡垃圾訊息呢，對吧？\n\n---\n\n### 模組包指南：\n您可以在以下條件下將此模組納入您的模組包中：\n\n- 僅從 Modrinth 或 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/detected-setblock-be-gone) 直接取得模組。\n- 在您的模組包中使用此模組即表示您同意遵守本段落所附的授權條款。\n\n---\n\n[偵測到 setBlock 消失](https://modrinth.com/mod/dsbg/) © 2025 由 [CapezOnMyBack](https://github.com/CapezOnMyBack) 製作，採用 [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1) 授權",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

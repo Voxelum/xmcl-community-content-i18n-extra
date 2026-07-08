@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PnNSi5d+29I=",
+  "content": "<div align=\"center\">\n\n# `Squished`\n\n[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/mod/Squished/versions)\n[![Curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/curseforge_64h.png)](https://www.curseforge.com/minecraft/mc-mods/Squished)\n[![Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/github_64h.png)](https://github.com/MayaqqDev/Squished/)\n[![優惠碼](https://www.bisecthosting.com/partners/custom-banners/3af862e4-2c3a-4ae5-9caf-cc9f80d19620.png)](https://bisecthosting.com/mayaqq)\n## `資訊`\n\n### `一般玩家`\n\n當掉落受重力影響的方塊時，它會壓扁你！（或任何實體）。不同重量的方塊會造成不同程度的壓扁。惡搞你的朋友、管理員，或是你自己。\n\n### `模組/模組包開發者`\n\n想要為模組方塊加入支援嗎？只需要加入一個簡單的資源位置就可以了！如果你偏好使用資料生成，也可以使用 `dev.mayaqq.squished.api.datagen.BlockSquishAmountProvider`。\n\n#### `範例`\n*路徑：`resources/data/example/block_squish_amount/example.json`*\n```json\n{\n  \"example:example_block\": 0.5\n}\n```\n\n## `社群`\n\n如有任何問題或需要支援，可以點擊下方按鈕加入我的 Discord！\n\n[![Discord 伺服器](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_64h.png)](https://discord.gg/w7PpGax9Bq)\n</div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

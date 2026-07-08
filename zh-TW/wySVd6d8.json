@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CSIejwtMgz8=",
+  "content": "# 工具提示滾動\n[![圖片](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/Provismet/Tooltip-Scroll-Fabric/blob/1.20/LICENSE)\n![圖片](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)\n![圖片](https://img.shields.io/badge/mod%20loader-fabric/quilt-d64541?style=flat-square)\n\n## 描述\n工具提示現在可以滾動了。透過高度自定義的按鍵綁定與設定，您可以將工具提示移動到螢幕上的任何位置，甚至移出螢幕。\n\n### 移動\n使用滑鼠滾輪、按鍵綁定，甚至是 WASD 鍵，工具提示都可以在螢幕上自由移動。\n\n<img src=\"https://cdn.modrinth.com/data/wySVd6d8/images/cf465a9eb6687ac711a12956f06699c7b35719d8.gif\" alt=\"工具提示可以移動到螢幕上的任何位置，甚至移出螢幕。\">\n\n### 平滑度\n將平滑度數值設定為小於 1，將會產生滑動的視覺效果。\n\n![](https://cdn.modrinth.com/data/wySVd6d8/images/d9c3744ff8f902b19858af87240ef21c37a4a986.gif)\n\n## 附加功能\n要調整設定，需要安裝 Mod Menu 與 Cloth Config。  \n或者，您也可以在 Minecraft 設定檔中的 `config/tooltipscroll.json` 檔案內調整任何設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

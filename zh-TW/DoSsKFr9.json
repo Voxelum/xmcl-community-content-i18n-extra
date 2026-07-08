@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZfUXJ/F3A9U=",
+  "content": "自嗅探獸加入遊戲以來，其存在感始終偏低。為改善此情況，我們需要對嗅探獸的核心機制進行小幅增強。\n本模組屬於合集「Qa原版物品平衡調整（Qa balance adjustments for vanilla items）」。\n\n通常情況下，嗅探獸每間隔 8 分鐘，會從周圍的泥土類型方塊中「嗅探」出 1 個火把花種子或瓶子草莢果。即便暫不討論這兩種物品的實際用途，單是長達 8 分鐘的冷卻時間，就足以讓大多數追求「付出與回報成正比」的玩家——除了為了解鎖成就外——對嗅探獸再無其他興趣。\n\n在本模組中，嗅探獸的冷卻時間下調至平均值約 3 分鐘左右。此外，根據嗅探獸所處的生物群系以及其腳下所在方塊的類型不同，它還會產出不同的物品，其中有些掉落物極其稀有。\n\n![Sniffer in cherry grove](https://cdn.modrinth.com/data/cached_images/9e6fb47b49357c08c5e20f638002821124047d53_0.webp)\n![Sniffer in deep dark](https://cdn.modrinth.com/data/cached_images/438425d4a8e0c96417344b78c96f8ee06736c160_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

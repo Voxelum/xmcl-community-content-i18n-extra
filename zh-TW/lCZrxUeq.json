@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lj/VtlkAQ48=",
+  "content": "# 容器物品搜尋器\n\n一個能幫助玩家在容器中尋找物品的 Minecraft 模組。\n\n## 指令指南\n\n此模組提供一個指令，可在附近容器中搜尋物品：\n\n### 基本用法\n\n```\n/cif <範圍> <物品>\n```\n\n- `範圍`：搜尋半徑（以方塊為單位，整數）\n- `物品`：要搜尋的物品（例如：`diamond`、`iron_ingot`）\n\n### 進階用法\n\n```\n/cif <範圍> <物品> <數量>\n```\n\n- `範圍`：搜尋半徑（以方塊為單位，整數）\n- `物品`：要搜尋的物品（例如：`diamond`、`iron_ingot`）\n- `數量`：最少要找到的物品數量（整數）\n\n### 取消任務\n\n```\n/cif cancel\n```\n\n### 範例\n- 在 10 格範圍內搜尋鑽石：`/cif 10 diamond`\n- 在 20 格範圍內搜尋 64 個鐵錠：`/cif 20 iron_ingot 64`\n\n### 結果\n指令會顯示：\n- 找到的物品總數\n- 包含該物品的容器數量\n- 每個容器的座標\n- 如果指定了特定數量，則會顯示還需要多少物品\n\n## 開發\n\n### 前置需求\n\n- Java 25 或更高版本\n- Gradle（若使用包裝器則可選）\n\n### 從原始碼建置\n\n1. 複製儲存庫\n2. 在專案目錄中開啟終端機\n3. 執行 `./gradlew build`\n4. 建置完成的模組會在 `build/libs/` 中\n\n## 授權條款\n\n此專案採用 MIT 授權條款。\n\n## 貢獻\n\n歡迎貢獻！請隨時提交 Pull Request。\n\n## 聯絡方式\n\n如有任何問題或疑問，請在 GitHub 儲存庫中開啟 Issue。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

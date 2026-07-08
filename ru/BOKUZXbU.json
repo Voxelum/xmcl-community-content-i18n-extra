@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JEyMDmAL3d4=",
+  "content": "# MyTiers Тегер Tier\n\nЭтот мод отображает уровни над головами игроков, встраивая их в тег с именем игрока. Он работает только в сочетании с [Fabric API](https://modrinth.com/mod/fabric-api).\n\nМод получает данные о уровнях игроков в реальном времени из публичного [API MyTiers](https://mytiers.ru/) и отображает их над головами игроков. Поддерживает настройку через [Mod Menu](https://modrinth.com/mod/modmenu).\n\nПоддерживаемые версии: **Minecraft 1.20.x — 1.21.8**.\n\n![Обзор тега с именем](https://cdn.modrinth.com/data/cached_images/da4a11da32fcce93334f57093f89144084cf79bb.png)\n\nТакже можно использовать команду. Она отображает подробную статистику игрока в чате: уровни по разным наборам и их положение в общем рейтинге.\n```\n/mytiers info <никнейм>\n```\n![Обзор команды](https://cdn.modrinth.com/data/cached_images/9bb45074603e4d91e68ef20d5c538d934deea1a2.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

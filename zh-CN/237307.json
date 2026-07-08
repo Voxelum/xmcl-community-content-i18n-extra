@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MlXqeZgtkKo=",
+  "content": "<p><span style=\"font-size:18px\"><strong>此模组需同时在客户端和服务端安装才能在多人游戏中正常运行。</strong></span></p><p>&nbsp;</p><p>本模组是我对 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor\" rel=\"nofollow\">Cosmetic Armor</a> 的重制版本，适用于 <strong>Forge</strong>。</p><p>原模组存在一些错误且采用MIT许可协议，但作者未修复这些问题，因此我决定制作自己的版本。</p><p>&nbsp;</p><p>本模组允许你穿戴两套盔甲：一套用于外观显示，另一套提供实际功能。</p><p>你还可以隐藏盔甲，展示皮肤本身。</p><p>在PVP模式下，你可以在客户端禁用此模组的功能。</p><p>&nbsp;</p><p>你可以通过按下按键（默认设置为“无”，需在“控制”界面的“物品栏”类别中更改）或点击物品栏界面中添加的按钮（角色右下角，类似Baubles模组的按钮）来打开“装饰盔甲物品栏”。左侧为常规盔甲槽位，右侧为装饰盔甲槽位。</p><p>装入装饰盔甲槽位的盔甲不会产生实际效果，仅用于外观展示。</p><p>死亡时这些盔甲会掉落。可通过配置文件设置死亡后保留它们。</p><p>装饰槽位中的小方块按钮是“皮肤切换”开关。当开启（白色）时，该盔甲将完全不可见。</p><p>本模组还会为其他兼容模组添加同样的按钮。当开启（白色）时，对应槽位中的物品将完全不可见。可通过配置文件为每个模组单独禁用此功能。</p><p>物品栏按钮左侧的小方块按钮是“模组禁用切换”开关。当开启（白色）时，模组将在客户端失效，适用于PVP场景。</p><p>可使用指令 <code>/clearcosarmor [玩家名]</code> 清除指定玩家的装饰盔甲槽位。</p><p>可使用指令 <code>/coshat</code> 将主手物品与装饰头盔槽位中的物品互换。</p><p>&nbsp;</p><p>本模组提供API供其他模组交互。</p><p>&nbsp;</p><p><del>我在一天内仓促完成编码，</del>可能存在问题，欢迎向我反馈。</p><p>&nbsp;</p><p>致谢：</p><p>dmillerw - 原作者</p><p>azanor - 部分代码参考自Baubles模组</p><p>izuminya - 按钮图标</p><p>Deph0 和 sblectric - 在我缺席时的支持</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

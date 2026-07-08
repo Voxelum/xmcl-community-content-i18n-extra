@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wxIRnj0FPnc=",
+  "content": "# 釣魚進化\n\n**釣魚進化** 是一個現代化的 Minecraft 1.20.1 釣魚系統大翻新，包含主動收線、模組化釣竿、魚餌、魚類追蹤以及動態魚群生態。\n\n它將釣魚重塑為更具深度與主動性的系統，提供可自訂的釣竿、魚餌、魚類追蹤、魚群生態，以及需要手動操作的收線小遊戲。目標是讓釣魚不再是被動等待並點擊的循環，而是真正的成長路線。\n\n[加入 Discord](https://discord.gg/6c6cDU2mKj)\n\n## 特色\n\n- 主動收線玩法，包含線張力、距離、魚兒拉扯以及失敗狀態。\n- 模組化釣竿，可更換捲線器、浮標、釣鉤與魚餌。\n- 木製、鐵製與鑽石釣竿，各部位有耐久度。\n- 透過專用浮標與釣鉤實體，支援水、岩漿與虛空釣魚。\n- 根據液體類型、深度、海拔、生態域、維度、時間、天氣、光照、稀有度與魚餌決定魚類出現。\n- 魚類追蹤器可探測附近魚群生態，並協助尋找稀有魚類。\n- 魚餌桶可自動補餌，魚餌盒則幫助當地魚類繁殖。\n- 魚桶、魚片、去鱗刀與魚刀等工具，用於魚類處理與加工。\n- 可自訂用戶端 HUD 顯示收線介面的位置。\n- 跨載具支援 Fabric 與 Forge，適用於 Minecraft 1.20.1。\n\n## 需求\n\n### Fabric\n\n- Minecraft **1.20.1**\n- Java **17**\n- Fabric Loader **0.16.9+**\n- Fabric API\n\n### Forge\n\n- Minecraft **1.20.1**\n- Java **17**\n- Forge **47.2.30+**\n\n## 可選整合\n\n- YetAnotherConfigLib **3.6.6+1.20.1** 用於客戶端設定畫面。\n\n## 感謝名單\n\n- **TheAwesomeGem** 為啟發此次復活的原創模組作者。\n- **SeniorS** 為 1.20.1 多載具復活的貢獻者。\n\n## 支援\n\n發現錯誤、平衡問題或相容性問題？請在 GitHub 開啟問題或加入 Discord。\n\n- [GitHub 問題回報](https://github.com/Senior-S/Fishing-Evolved/issues)\n- [Discord](https://discord.gg/6c6cDU2mKj)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

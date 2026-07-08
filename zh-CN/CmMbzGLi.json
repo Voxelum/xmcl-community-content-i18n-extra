@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QD8zGrYTrq0=",
+  "content": "**功能特性：**\n- 通过JSON配置文件内置服务器IP列表，这些IP将始终显示在多人游戏界面的底部\n- 支持通过URL提供JSON文件，这样在更改IP时就无需更新整个模组包！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

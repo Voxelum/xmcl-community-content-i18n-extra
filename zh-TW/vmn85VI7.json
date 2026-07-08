@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QtaxYYHHOmU=",
+  "content": "# 重鑄合金 (Reforgium)\n\n重鑄合金是 Fabric 渲染 API 與 Indium 的非官方分支版本，旨在簡化客戶端模組的移植過程。此模組包含兩種渲染模式：Indigo 與 重鑄合金渲染器（Indium）。\n\n當模組包中存在 Rubidium 時，將啟用重鑄合金渲染器，否則使用 Indigo 模式。\n\n## 使用重鑄合金的模組\n\n- 連接感 (Connectedness)\n\n*註：重鑄合金與 Fabric 及 Indium 無官方關聯。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

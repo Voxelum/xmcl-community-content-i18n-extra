@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ElL9Joe25IQ=",
+  "content": "# 隱藏玩家\n\n[中文](https://github.com/KoishiMoe/HidePlayer/blob/1.21.11/README.zh.md)\n\n一個Minecraft伺服器模組，可選擇性地將特定玩家隱藏於各種伺服器介面中。\n\n## 支援版本\n\n由於這只是為個人使用而開發，不確定其他人是否會需要，目前僅支援少數版本。\n\n你可以在[版本](https://modrinth.com/mod/hideplayer/versions)頁面查看支援的版本。通常最新的Minecraft版本會獲得支援。\n\n如果需要其他版本的支援，歡迎提出Issue，或直接提交Pull Request。\n\n## 功能特色\n\n可隱藏玩家於：\n- 系統訊息（加入、離開、死亡、成就）\n- 遊戲內可見性（玩家模型、聊天頻道、玩家列表、社交視窗）\n- 伺服器狀態與查詢回覆\n- 計分板項目\n\n可能適用於：\n- 服務帳號管理\n- 小遊戲開發\n- 伺服器活動\n- 工作人員操作\n\n## 權限設定\n\n### 隱藏玩家權限\n- `hideplayer.hide.*` - 從所有介面隱藏玩家\n- `hideplayer.hide.systemmessage` - 隱藏系統訊息\n- `hideplayer.hide.ingame` - 隱藏遊戲內存在與聊天\n- `hideplayer.hide.statusandquery` - 隱藏於伺服器狀態/查詢\n- `hideplayer.hide.scoreboard` - 隱藏計分板項目\n- `hideplayer.hide.locatorbar` - 隱藏於定位條\n\n### 管理員權限\n- `hideplayer.privilege.seehiddenplayer` - 看見被隱藏的玩家（管理員預設擁有）\n\n**注意：** 權限會在玩家重新連線時自動刷新，防止不一致情況。\n\n## 安裝方式\n\n1. 安裝權限管理器\n2. 將此模組加入伺服器\n3. 對目標玩家設定權限\n\n## 進階設定\n\n通常不需要進行此設定。但若遇到問題（如模組衝突或嚴重效能下降），可編輯 `config/hideplayer.mixin.conf` 檔案，選擇性停用混入功能。請注意，這可能會影響模組正常運作。\n\n## 授權條款\n\nAGPL-3.0-or-later",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "25AJL+iSgHM=",
+  "content": "# 长矛核心\n\n一款轻量级库模组，为Minecraft 1.21.1 NeoForge提供了完整的长矛武器系统。\n\n## 功能特性：\n- 完整的长矛武器机制：蓄力、突刺、基于动量的伤害判定\n- 三阶段蓄力系统：击落坐骑 → 击退 → 造成伤害\n- 支持左键刺击与右键蓄力攻击两种模式\n- 第一人称与第三人称流畅动画过渡\n- 基于速度的碰撞检测，支持可配置的判定范围\n- 内置\"突进\"附魔（攻击时向前冲刺）\n- 可自定义材质预设，支持制作专属长矛\n- 提供API供其他模组轻松创建自定义长矛物品\n\n## 模组开发者指南：\n继承`SpearItem`类或使用`SpearProperties`属性即可创建拥有自定义属性、材质和行为模式的长矛，无需复杂配置。\n\n## 默认设置：\n本模组默认不添加任何物品到游戏中。若要启用内置长矛：\n\n1. 先运行一次游戏以生成配置文件  \n2. 打开 `config/spearcore-common.toml` 文件  \n3. 将 `enableVanillaSpears = true` 设为启用木制、石制、铁制、金制、钻石制及下界合金制长矛  \n4. 将 `enableCopperSpear = true` 设为启用铜制长矛",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

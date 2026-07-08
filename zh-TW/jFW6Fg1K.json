@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4rMgHQH3YXg=",
+  "content": "棲息地（Habitat）是一個基於 Forge 的 Overworld 擴展模組，旨在為現有生物群系添加內容，並在未來添加新的生物群系。\n\n目前，該模組新增了以下內容：\n\n- 大王花（Rafflesia） - 生成於叢林生物群系\n- 卡布隆灌木與果實（Kabloom Bush and Fruit） - 生成於平原生物群系\n- 史萊姆蕨（Slime Ferns） - 生成於 Y=40 以下的史萊姆區塊\n- 球狀仙人掌（Ball Cactus，4 種顏色） - 生成於沙漠與惡地\n- 妖精環與布卡（蘑菇兔生物） - 生成於黑森林\n- 雀形目鳥類（Passerines，鳴禽） - 遍布森林、樺木森林、針葉林、叢林、繁花森林、莽原及林地。也可在古老與風蝕變體版本中找到。\n\n相容性說明：\n- Enhanced Mushrooms（強化蘑菇）：安裝 Enhanced Mushrooms 後，妖精環蘑菇柄將被替換為類似強化蘑菇風格的版本，可合成為妖精環蘑菇木材系列。安裝 Quark 與 Buzzier Bees 後，還能合成更多方塊。相關方塊也支援與 Environmental 及 Farmer's Delight 進行合成。\n- Farmer's Delight（農夫樂）：妖精環蘑菇可作為堆肥激活材料。\n- Abnormals Core（異常核心）：載入了進度修飾，使新增的食物、效果與生物能夠計入進度。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

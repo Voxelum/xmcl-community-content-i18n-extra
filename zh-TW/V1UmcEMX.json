@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SOiWGbuvCA4=",
+  "content": "VLib 是 Valkyrien Skies 的函式庫模組，為玩家、模組包製作者和模組開發者提供多種實用工具。\n\n## 給玩家 / 模組包製作者\n- VS 玩家碰撞錯誤修復：當船隻旋轉時，通過狹窄垂直空間（如船上的活板門）現在會正常運作\n- 自動模組方塊質量計算：執行 `/vlib generateMasses` 指令，VLib 將計算所有模組方塊的質量估值，並將質量資料打包成 jar 檔案儲存至你的模組資料夾\n- 組裝棒：對建築右鍵即可立即將其組裝為船隻！（注意：此功能目前與 **C2ME 不相容**）\n- 各維度船隻重力：可透過資料包為每個維度設定預設的船隻重力\n- 各維度船隻縮放：可透過資料包為每個維度設定預設的船隻縮放比例\n\n## 給開發者\n- 資料驅動功能：可設定 MC（或資料包）結構在生成時直接成為船隻\n- VLibGameUtils 提供組裝功能（含黑白名單選項），以及取得和儲存船隻結構範本的功能\n- DimensionSettingsManager 允許透過程式碼或資料包查詢及設定各維度的預設船隻重力和縮放比例\n\n更多詳細資訊請參閱[維基頁面](https://github.com/jamesgreen26/vlib/wiki)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

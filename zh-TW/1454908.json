@@ -1,0 +1,6 @@
+{
+  "bodyHash": "T2DglK9ysmk=",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/EYKTeOIO/images/20c4119eb33780be9d02fa96151144ee4d682442.png\" alt=\"縮放比較\"></p><h1>簡單縮放 🔍</h1><p>簡單縮放是一款輕量高效能的實用模組，為您的遊戲帶來可自訂的縮放功能。無論是偵查遠方建築，或是觀察遠處細節，此模組都能讓您即時切換縮放，或動態調整縮放倍率。</p><p><strong>📦 支援：Fabric、Forge 和 NeoForge。</strong></p><hr><h2>✨ 功能特色</h2><ul>\n<li><strong>可自訂按鍵：</strong>透過一般原版的「控制」選單輕鬆更改縮放按鍵。</li>\n<li><strong>動態滑鼠滾輪縮放：</strong>按住縮放鍵並使用滑鼠滾輪調整放大倍率，最高可達 50 倍。</li>\n<li><strong>智慧靈敏度：</strong>縮放時自動調整滑鼠靈敏度，便於精確瞄準。</li>\n<li><strong>跨平台支援：</strong>在 Fabric、Forge 和 NeoForge 上無縫運作。</li>\n<li><strong>純客戶端：</strong>您可在伺服器上使用，無需伺服器端安裝。</li>\n<li><strong>無多餘內容：</strong>沒有多餘的選單、依賴項目或效能負擔。就是簡單的縮放功能。</li>\n</ul><hr><h2>🎮 如何使用</h2><h3>按鍵設定</h3><p>預設情況下，按住 <strong><code>C</code></strong> 鍵即可拉近視角。</p><ul>\n<li>您可以在 <strong>選項 &gt; 控制 &gt; 按鍵綁定</strong> 中的「簡單縮放」類別下自訂此按鍵。</li>\n</ul><h3>調整放大倍率</h3><p>按住縮放鍵時，滾動您的<strong>滑鼠滾輪：</strong></p><ul>\n<li><strong>向上滾動：</strong>提高放大倍率（進一步拉近）。</li>\n<li><strong>向下滾動：</strong>降低放大倍率（拉遠視角）。</li>\n<li>放開按鍵後，縮放倍率會自動重設為預設值。</li>\n</ul><hr><h2>🤝 相容性</h2><ul>\n<li>與 Iris 及其他光影相容。</li>\n<li>與 Sodium 和 OptiFine 相容。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

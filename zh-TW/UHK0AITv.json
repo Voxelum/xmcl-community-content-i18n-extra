@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zAH4+jfPMuk=",
+  "content": "這個模組新增了一種村民職業：接待員。 **(bountiful\\_npc:receptionist)**\n\n接待員的興趣點（POI）是**懸賞板**方塊。\n\n與接待員互動的效果等同於與懸賞板互動。\n\n如果你安裝了 [P1nero 的對話庫](https://www.curseforge.com/minecraft/mc-mods/p1neros-dialogue-lib)，接待員將會有對話功能。\n\n![](https://media.forgecdn.net/attachments/description/null/description_28782b5b-42e4-4d26-b35a-106fbb90406b.png)\n\n如果你手持懸賞單或法令物品，介面上會出現一個提交按鈕。\n\n![](https://media.forgecdn.net/attachments/description/null/description_ae3ee7b5-06fe-42c3-aeca-4ce2410ed0e9.png)\n\n \n\n現在每個村莊都會生成一座冒險者公會，並與 **Trek**、**Towns and Towers** 相容。\n\n（可透過 **[lithostitched api](https://www.curseforge.com/minecraft/mc-mods/lithostitched)** 進行設定）\n\n![](https://media.forgecdn.net/attachments/description/null/description_bf331063-5042-42e9-93bb-f25ad983ccb3.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

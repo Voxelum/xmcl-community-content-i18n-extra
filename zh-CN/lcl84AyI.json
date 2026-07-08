@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VPLAXe07sb4=",
+  "content": "## 此模组在 BetterEnd Forge 20.0.6+ 版本中已不再需要，因此已被弃用！\n\n## **问题描述**\n\n若同时使用 [BetterEnd (Forge)](https://modrinth.com/mod/betterend-forge) 与 [LionFish API](https://modrinth.com/mod/lionfish-api)，您会发现当启用自定义地形生成器（此模组默认启用）时，自定义地形将无法生成，且生物群系源会完全混乱。\n\n注意：此问题仅在使用为末地岛屿添加高度变化的自定义地形生成器时出现。原版 Minecraft 地形中未发现此问题。\n\n**1.21+ 版本无需使用 BetterEnd Fix，因为 Lionfish API 已移除侵入式生物群系配置系统。**\n\n## **解决方案**\n\n本模组仅针对末地维度屏蔽 LionfishAPI 的生物群系系统，因其他维度暂未发现类似问题。经测试，此操作未引发异常，但若您发现依赖 LionFish API 生物群系切片功能的生物群系缺失，请确保将其添加至 [BCLib (Forge)](https://modrinth.com/mod/bclib-forge) 的生物群系配置中，以便 BetterEnd 接管生成流程。\n\n## **整合包使用许可**\n\n您可将此模组纳入自建整合包，仅限通过 CurseForge、Modrinth 或未来其他主流模组平台进行分发。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

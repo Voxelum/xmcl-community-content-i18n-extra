@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zXrRGrbfpuo=",
+  "content": "# MaxGL\n\n强制 Minecraft 使用 **OpenGL 4.6**，取代默认的 3.3 版本限制。\n\n---\n\n## 为何存在\n\nMinecraft 26.1 默认将 OpenGL 限制在 3.3 版本。[ThreatenGL](https://github.com/Richy-Z/ThreatenGL) 曾是解决此问题的首选方案——但在 26.1 版本中，由于 Mojang 内部将 OpenGL 提示调用从 `Window` 转移到了 `GlBackend.setWindowHints()`，该模组已悄然失效。本分支修复了此问题。\n\n## 适用场景\n\n- 你需要 OpenGL 4.x 特性（计算着色器、持久映射缓冲区等）\n- ThreatenGL 在 26.1 版本中无法正常工作\n\n## 要求\n\n- **Minecraft：** 仅限 26.1\n- **加载器：** Fabric 0.18.4 及以上版本\n- **Java：** 21 及以上版本\n- **端侧：** 仅客户端\n\n## 注意事项\n\n- 对专用服务器完全无效\n- 仅在 Minecraft 26.1 上测试——不保证能在旧版本中运行\n- 若原始 ThreatenGL 添加了对 26.1 的支持，请改用原版\n\n---\n\n*由 Richy Z. 开发的 [ThreatenGL](https://github.com/Richy-Z/ThreatenGL) 分支——LGPL-3.0 许可*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

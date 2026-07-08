@@ -1,0 +1,6 @@
+{
+  "bodyHash": "W85h3hfuXhU=",
+  "content": "一個強大的 Fabric 模組函式庫，將現代的 ImGui 介面框架引入 Minecraft，讓開發者能夠以最少的程式碼創建美觀、響應迅速的 UI。\n\n> **⚠️ 這是一個依賴模組** — 它本身不會為遊戲添加內容。其他模組使用此函式庫來提供增強的使用者介面。對於玩家：如果您使用的模組需要它，請安裝此函式庫。\n\n## 概述\n\nFabric GUI ImGui 提供了 Minecraft 與 Dear ImGui 框架之間的無縫整合，讓模組開發者能夠：\n\n- 創建現代、專業外觀的 UI 面板和視窗\n- 利用 ImGui 強大的即時模式 GUI 範例\n- 以最少的樣板程式碼構建複雜的介面\n- 在多個 Minecraft 版本之間保持版本相容性\n\n該函式庫是**版本無關的**，僅需要 Fabric Loader，使其能夠輕鬆在不同版本的 Minecraft 中使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

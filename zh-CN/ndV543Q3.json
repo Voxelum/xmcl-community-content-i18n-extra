@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6QR1JMsR9Kw=",
+  "content": "[Oculus](https://modrinth.com/mod/oculus) 的非官方分支，专为 neoforge 1.21+ 制作  \n\n功能\n<details open=\"\">\n  <summary>功能</summary>\n<ul>\n<li>性能。Oculus 在与 Rubidium 等优化模组搭配使用时，应充分利用您的显卡。</li>\n<li>模组兼容性。Oculus 应尽力在模组环境中保持兼容性。</li>\n<li>向后兼容性。所有现有的 ShadersMod / OptiFine 着色器包都应在 Iris 上直接运行，无需任何修改。</li>\n<li>组织良好的代码库。我希望使用 Iris 代码的体验整体上是愉快的。</li>\n</ul>\n</details>\n\nNeOculus 嵌入了两个模组，以提供更好的体验和性能：\n\n\n<details open=\"\">\n  <summary>摇曳花园</summary>\n<ul>\n<li>将着色器效果应用于模组植物块通常需要修改资源包中的文件，这可能既繁琐又乏味，尤其是在您想轻松切换着色器时。此模组简化了这一过程，使模组植物块能够轻松地随着色器效果摇曳，为您的世界创造动态且沉浸式的视觉体验——无论是花朵、树苗还是其他类似植物的方块。</li>\n  <li>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/swaying-garden\">项目链接</a></li>\n</ul>\n</details>\n\n<details open=\"\">\n  <summary>加速渲染</summary>\n<ul>\n<li>使用 GPU 加速顶点变换，在渲染大量实体/文本/物品实体时，帧率可提高数倍。</li>\n<li><a href=\"https://github.com/Argon4W/AcceleratedRendering\">项目链接</a></li>\n</ul>\n</details>\n\n请注意，不要将 Oculus 的问题报告到官方 Iris Github。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

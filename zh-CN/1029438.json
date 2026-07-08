@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wmzqW97lr0Q=",
+  "content": "<h1><strong><span style=\"color:#e67e23\">概述</span></strong></h1><p>WATERMeDIA: Binaries 是一个独立的 JAR 文件，其中集成了所有 VLC 二进制文件及 FFMPEG 二进制文件，形成一个完整的整合包。这有助于避免 CurseForge 因 60MB 的大型 JAR 文件而负载过重，同时能更快速地更新模组，无需担心 JAR 文件的大小问题。</p><p>&nbsp;</p><h1><strong><span style=\"color:#e67e23\">工作原理</span></strong></h1><p>此 JAR 文件包含了所有被视为“模组”的必要组件。在加载时，它会将其自身的类加载器附加到 WATERMeDIA API 上，以便进行扫描并从中提取二进制文件。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

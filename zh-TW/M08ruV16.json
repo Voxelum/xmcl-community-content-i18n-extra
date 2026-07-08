@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tqX46nnSN9Y=",
+  "content": "Bobby 是一個 Minecraft 模組，它允許渲染距離超過伺服器的視野距離設定。\n\n![Wynn 省在 96 區塊渲染距離下的畫面](https://i.johni0702.de/7FlGK.png \"The Province of Wynn at 96 chunks render distance\")\n\n它透過記錄並儲存（在 `.minecraft/.bobby` 中）伺服器發送的所有區塊來達成這個目標，以便在區塊超出伺服器視野距離後，仍能載入並顯示這些區塊。\n\n此外，它可以選擇使用現有的單人世界來載入伺服器從未發送過的區塊。\n要使用這個功能，只需將世界資料夾（不是世界名稱！是資料夾名稱！）重新命名為 \"bobby-fallback\"。\n\nBobby 會在其設定檔變更時自動重新載入。\n若要使用遊戲內設定介面，請安裝 [ModMenu] 和 [ClothConfig]。\n\n[ModMenu]: https://modrinth.com/mod/modmenu\n[ClothConfig]: https://modrinth.com/mod/cloth-config",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

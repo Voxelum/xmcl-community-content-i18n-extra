@@ -1,0 +1,6 @@
+{
+  "bodyHash": "p97+smqZBm0=",
+  "content": "Create Low-Heated 修改了 Create 的加热系统，用主动加热器替换了被动加热器。\n\n它改变了以下内容：\n\n- 添加了基础燃烧器，一种使用固体燃料并产生低热的方块。\n- 添加了新的热量条件，\"lowheated\" 现在可以作为使用盆的配方中的热量要求（除了默认的 \"heated\" 和 \"superheated\"）。\n- 当基础燃烧器加热蒸汽引擎时，它产生的量与被动加热器相同。\n- 完全禁用了被动加热 [标记的方块和未供能的烈焰燃烧器]。\n- 如果需要，可以通过将最大 RPM 的包裹风扇放置在基础燃烧器旁边来过度增强它。当增强时，基础燃烧器产生的热量与烈焰燃烧器相同，但代价是消耗过多的燃料 [32倍]。\n\n该项目旨在与 Crete Picky Wheels 协同工作 [此外，目的是将其与容量削弱的风车和水车配对]。\n\n![基础燃烧器燃烧](https://cdn.modrinth.com/data/hd0gHVlC/images/ae9a48541fa67d49045135de57ccd9d10a179527.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

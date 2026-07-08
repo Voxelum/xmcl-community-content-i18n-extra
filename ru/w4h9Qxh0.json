@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f4o9koK4nEU=",
+  "content": "![Лиса, спящая в биоме смешанного леса](https://cdn.modrinth.com/data/cached_images/45d1883366b2b2edd1639d6905186389532ac1cb.png)\n## О моде\n**Wilderness** — это мод, призванный улучшить леса и другие дикие зоны игры.\nЦель мода — не менять стандартные лесные биомы, а добавить новые, чтобы разнообразить игровой мир.\n\n## Особенности (реализованные на данный момент)\n- **Старый растущий лес** — редкая разновидность леса с высокими дубами, поросшими мхом.\n- **Смешанный лес** — сочетает в себе как дубы, так и ели; обычно генерируется между тайгой и обычными лесами.\n- **Поваленные деревья**\n\n## Зависимости\n- [Architectury API](https://modrinth.com/mod/architectury-api)\n- [Terrablender](https://modrinth.com/mod/terrablender)\n- [Fabric API](https://modrinth.com/mod/fabric-api) (только для Fabric)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

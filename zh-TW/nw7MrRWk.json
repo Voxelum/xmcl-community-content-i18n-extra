@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rw+UArrWPAA=",
+  "content": "這個模組永遠不會有太多複雜的功能或深度，它只是我在玩模組化 Minecraft 時覺得實用的幾個小東西。\n\n### 1. 接近感測器：\n一種紅石「裝置」，能夠偵測前方的生物或物品，並根據物體距離輸出相應強度的紅石訊號。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/-bYFyu0ki88\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### 2. 光線感測器：\n一種紅石「裝置」，能夠偵測周圍的光照等級，並根據方塊周圍的平均光照等級輸出相應強度的紅石訊號。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/EhZyCMK8_Ek\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

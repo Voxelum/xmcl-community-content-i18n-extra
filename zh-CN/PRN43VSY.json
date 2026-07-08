@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Vvbm12n5Ww4=",
+  "content": "# Animatica\n\n### 更多纹理动画 <br/> <br/>\n\n一个针对 Fabric 模组加载器的 Minecraft 模组，旨在加载 MCPatcher/OptiFine 的[动画纹理格式](https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/custom_animations.txt)。<br/>\n\n## 兼容哪些资源包？\n\nAnimatica 为使用**自定义动画纹理**的资源包提供支持。<br/>\n具体包括：\n\n- 动画 GUI 纹理 *（其他 GUI 功能请使用 [OptiGUI](https://modrinth.com/mod/optigui)）*\n- 动画实体纹理\n- 动画方块实体纹理\n- 动画盔甲纹理\n- 其他动画纹理（动画方块和物品为原版特性）\n\n## Animatica **不支持**：\n\n- 完全自定义 GUI（[Fabric 版 OptiGUI](https://modrinth.com/mod/optigui)）\n- 自定义实体模型（[Fabric 版 CEM](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)）\n- 自定义实体模型部件的 3D 动画（[Fabric 版 CEM](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)）\n- MCPatcher/OptiFine 资源包的其他任何功能，如连接纹理等\n\n**上述功能将永远不会在 Animatica 中实现。**<br/>\n### Animatica **仅**服务于动画纹理。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

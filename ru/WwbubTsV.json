@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b892b030d9d7688",
+  "content": "\n\nВаши настройки будут защищены, представлено бандой «Ассоциации по защите прав на настройки».\n\nУ этого мода есть одна простая функция: предоставлять настройки по умолчанию, если соответствующий файл настроек отсутствует.\n\n### Пример 1 (options.txt)\n\nСоздайте /config/yosbr/options.txt\nДобавьте в него содержимое по умолчанию\nЗапустите игру! YOSBR скопирует /config/yosbr/options.txt в /options.txt, если файл не существует\n### Пример 2 (config/roughlyenoughitems/config.json5)\n\nСоздайте /config/yosbr/config/roughlyenoughitems/config.json5\nДобавьте в него содержимое по умолчанию\nЗапустите игру! YOSBR скопирует /config/yosbr/config/roughlyenoughitems/config.json5 в /config/roughlyenoughitems/config.json5, если файл не существует\n\nТребуется Fabric Loader. (API не требуется)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

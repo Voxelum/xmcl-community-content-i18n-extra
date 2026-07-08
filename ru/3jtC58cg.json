@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DeaCs6sbXbY=",
+  "content": "# Туман выглядит современно теперь\nЭто порт версии 1.20+ для мода Fog Looks Good Now; оригинальную версию для Forge можно найти [здесь](https://modrinth.com/mod/fog-looks-good-now). Также доступен порт для Modern Fabric [здесь](https://modrinth.com/mod/fog-looks-good-now-fabric).\n\n\nFog Looks Good Now создаёт более глубокое ощущение пространства и атмосферы в Minecraft, смещая начало тумана вперёд, сохраняя прежнюю дальность обзора и значительно улучшая визуальные эффекты игры.\n\nКроме того, мод добавляет:\n\n* Настройку начала и конца тумана.\n* Настройку начала пещерного тумана.\n* Настройку цвета пещерного тумана.\n* ~~Настройку тумана, зависящего от погоды (дождь, гроза и т.д.)~~ — пока не реализовано\n# Конфигурация\nДоступ к настройкам можно получить либо напрямую через файл TOML, либо через экран конфигурации, если установлен плагин [Forge Config Screens](https://modrinth.com/mod/forge-config-screens).\n# Скриншоты\n![DeepDark](https://i.imgur.com/x7w7LF2.png)\n![DistantLandscape](https://i.imgur.com/JxtP1UD.png)\n![LushCaves](https://i.imgur.com/xq0dxJ6.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

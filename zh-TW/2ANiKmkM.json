@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3cQOtoiNn6E=",
+  "content": "# Stashlight\n\n**告別瘋狂翻找物品的時代，瞬間找回你遺忘的寶藏。**\n\n**Stashlight** 是一款輕量級的用戶端 Fabric 模組，它會被動索引你所開啟過的每一個容器，讓你能夠在世界中即時搜尋物品——甚至能搜尋**界伏盒**、**捆包**、巢狀容器，以及**跨維度**的內容。\n\n## 功能特色\n\n- **全域即時搜尋**  \n  在任何已索引的容器中找到物品\n\n- **巢狀容器索引**  \n  快取巢狀容器的內容，讓你也能搜尋界伏盒與捆包內的物品\n\n- **強化預覽功能**  \n  與 **ShulkerBoxTooltip** 完全相容，可在搜尋選單中直接顯示物品圖示預覽\n\n- **廣泛容器支援**  \n  適用於儲物箱、木桶、界伏盒、漏斗、發射器、投擲器，以及大多數模組中帶有物品欄的方塊實體\\*\n\n- **視覺化世界標記**  \n  找到你要的東西了嗎？點擊搜尋結果，即可在遊戲世界中高亮顯示該容器，方便快速找到\n\n- **跨維度追蹤**  \n  可追蹤主世界、地獄、終界以及模組維度中的容器\\*\n\n- **僅需用戶端**  \n  完全不需要伺服器端模組或插件即可正常運作\n\n<br/>\n\n<sub>\\* _模組容器與維度尚未經過完整測試，但預期可正常運作_</sub>\n\n## 使用方式\n\n按下 **數字鍵盤 5** 即可開啟搜尋選單（可在 Minecraft 的控制設定中更改按鍵綁定）。\n\n![Stashlight 搜尋畫面](https://cdn.modrinth.com/data/2ANiKmkM/images/8240485c0322a914f16022a7b936c62ecba33ba4_350.webp)\n\n## 需求\n\n- [**Fabric API**](https://modrinth.com/mod/fabric-api)\n- [**oωo (owo-lib)**](https://modrinth.com/mod/owo-lib)\n\n## 授權\n\n本專案採用 [**GNU General Public License v3.0**](https://github.com/Strange-Quark-007/Stashlight?tab=GPL-3.0-1-ov-file#readme) 授權",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ag5RcjAGV1U=",
+  "content": "這個資料包移除了 Naturalist 模組（與農夫樂事兼容）中的熟蛋。需要模組：JEI 物品管理器。這個資料包的功能如下：1. 移除 Naturalist 模組中所有熟蛋的合成配方。2. 將熟蛋（Naturalist）替換為煎蛋（農夫樂事）。3. 完全兼容農夫樂事模組且無衝突。如果你使用 JEI，建議將 TagContentTooltipEnabled = True 改為 TagContentTooltipEnabled = false，以避免顯示兩個來自農夫樂事模組的相同煎蛋圖示。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

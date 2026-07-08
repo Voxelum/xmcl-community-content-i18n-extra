@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Q04vBvXjzDM=",
+  "content": "<div>\n<div>我的世界模组：消除建造过程中的干扰（部分灵感来源于<a href=\"https://www.youtube.com/watch?v=_KqeLT-EOe0\" target=\"_blank\" rel=\"nofollow\">《对Minecraft的严肃批评》</a>）。</div>\n<br>\n<div>1) 移除村庄（不再有免费房屋、食物和交易）<br>2) 重做夜晚机制<br>&nbsp; &nbsp; - 禁止通过睡觉跳过夜晚（不再跳过敌对生物的生成，多人模式下也不会被其他玩家催促睡觉或每五秒重新加入）。<br>&nbsp; &nbsp; - 禁用原版幻翼生成。<br>&nbsp; &nbsp; - 玩家初始及重生时生命值满，但缺失1颗心或更多时将禁用疾跑。<br>&nbsp; &nbsp; - 只能在附近没有怪物或白天时设置重生点（Neoforge版本无效）。<br>3) 重做饥饿机制<br>&nbsp; &nbsp; - 玩家初始及重生时饥饿值为10/20并带有一定饱和度。<br>&nbsp; &nbsp; - 在和平难度下仍会损失生命值、饥饿值和饱和度。<br>&nbsp; &nbsp; - 只有当生命值缺失、饥饿值缺失或饱和度为0时才能进食。<br>&nbsp; &nbsp; - 只有当生命值缺失、饥饿值缺失或拥有有害药水效果时才会消耗饥饿值。<br>&nbsp; &nbsp; - 饱和度正常消耗。<br><br>\n<div>\n<div>可选：可搭配安装<a href=\"https://www.curseforge.com/minecraft/mc-mods/appleskin\" target=\"_blank\" rel=\"nofollow\">AppleSkin</a>（并禁用饱食度显示）来直接查看饱和度。<br>建议与<a href=\"https://www.curseforge.com/minecraft/mc-mods/underground-villages-stoneholm\" target=\"_blank\" rel=\"nofollow\">Stoneholm</a>同时使用，以便其他模组需要村民时仍有替代方案。</div>\n</div>\n</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

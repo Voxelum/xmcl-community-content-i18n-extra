@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kGp3vGvWcxk=",
+  "content": "<p><span style=\"font-size:36px\"><strong>Bad Packets</strong></span></p><p>Bad Packets 是一個函式庫，允許在不同模組平台之間進行封包傳遞。</p><p>這意味著使用 Bad Packets 的模組，其 Fabric 客戶端版本可以將封包發送到使用 Forge 版本的伺服器，反之亦然。</p><p>此模組<strong>並不會</strong>神奇地讓所有在不同平台上都有版本的模組彼此相容，開發者需要使用 BP 的 API 來傳送其封包。即便如此，還有像遊戲物件 ID 同步等更複雜的事情，此模組並未處理，這使得它從一開始就難以實作支援。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

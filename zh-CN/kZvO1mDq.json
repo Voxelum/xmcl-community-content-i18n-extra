@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FzG7zw45EDE=",
+  "content": "[26.1版本移植信息](https://wiki.chaotictrials.de/porting/version/26.1/)\n**[![#支持乌克兰](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)**\n## 主要面向整合包作者\n\n本模组可让你设置创建新世界时默认选中的世界类型。\n\n例如：你安装了 [Skyblock Builder](https://modrinth.com/mod/skyblock-builder) 并在客户端配置中将值设为 `skyblockbuilder:skyblock`，则创建新世界时用户无需手动将世界类型切换为该类型。\n\n这样就能避免意外生成错误类型的世界，或至少能降低这种可能性。\n\n本模组为**客户端专用**。对于服务端，你只需提供正确的 `servers.properties` 文件，或使用 [Default Server Properties](https://modrinth.com/mod/default-server-properties)。\n\n当你进入创建新世界界面时，模组会自动生成一个包含允许配置值的文件。\n\n你可以将此模组放入任意你喜欢的整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

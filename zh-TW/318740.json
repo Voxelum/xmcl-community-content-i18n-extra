@@ -1,0 +1,6 @@
+{
+  "bodyHash": "twqSUb91MjY=",
+  "content": "<p>由於 Custom Mob Spawner 覆蓋了原版生怪機制的方式，導致 Bloodmoon 等模組無法正常運作。這個模組能讓 Bloodmoon 與 Custom Mob Spawner 共同運作。</p><p>&nbsp;</p><p>我還新增了一個可選的 HUD 介面，用於顯示 Bloodmoon 的倒數計時。</p><p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/aX5CcpJIwtA?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p><p>&nbsp;</p><p>這個 HUD 介面可以透過遊戲內設定（從模組選項選單）或按鍵綁定（在指令選單中設定）來切換。當透過按鍵綁定切換時，狀態會儲存至設定檔中。</p><p>&nbsp;</p><p>許可：您無需詢問即可將此模組包含在任何模組包中。您也可以進行任何符合 MIT 授權條款的動作。祝您玩得開心！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

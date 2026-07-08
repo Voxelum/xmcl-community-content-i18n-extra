@@ -1,0 +1,6 @@
+{
+  "bodyHash": "urA1iBDcRBQ=",
+  "content": "# 这是Alex's Caves的一个分支版本，允许通过标签为盔甲添加辐射和酸性防护。所有荣誉归于[AlexModGuy](https://modrinth.com/user/AlexModGuy)。请支持[原版Alex's Caves](https://modrinth.com/mod/alexs-caves)而非本项目。\n\n本模组需要Citadel作为前置\n\nAlex's Caves是一个针对Minecraft 1.20.1的Forge模组，为主世界添加了6种新的洞穴生物群系。与普通生物群系不同，这些洞穴群系极其罕见——但它们都包含各种独特的方块、物品、生物和机制，使其成为值得探索的地下奇观。这六个生物群系分别是：磁力洞穴、原始洞穴、剧毒洞穴、深渊裂隙、荒芜空穴和糖果溶洞。\n\n要寻找这些洞穴群系，你需要先在主世界任意位置发现一个地下小屋。在那里你会找到装有洞穴石板和《洞穴纲要》的战利品桶——这是一本Alex's Caves的指南书，将为你提供探索本模组所有新增生物群系所需的知识。更多入门信息，请参阅模组维基中的\"[入门指南](https://alexscaves.wiki.gg/wiki/Guides/Getting_Started)\"章节。\n\nAlex's Caves是一个内容极其丰富的模组，每个新生物群系的外观和氛围都经过精心设计。新增的每个群系都可能拥有独特的环境粒子效果、雾气、亮度、光线颜色等特性。因此建议在不使用光影的情况下体验本模组，因为许多光影会改变或破坏部分生物群系的独特视觉效果。本模组还内置了与JEI和Alex's Mobs的兼容性。\n\n### 本分支版本唯一新增的功能是通过添加\"rad_protective_armor\"和\"acid_protective_armor\"标签，分别为盔甲赋予辐射防护和酸性防护能力。\n\n\n### 制作团队：\n创作者：\n\n    Alexthe668：程序员与联合创作者\n    Noonyeyz：美术与联合创作者\n\n音效团队：\n\n    PrismaticPinky：音效设计\n    LudoCrypt：音乐制作\n    Gatetoh：音乐与音效设计\n    Arby698：音效设计\n    RenRen：音乐制作\n    _Ninni：音效设计\n\n文档团队：\n\n    HolidayRaptor：文档编写\n    PlummetStudios：文档编写",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

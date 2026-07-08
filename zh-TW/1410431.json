@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RQARdozYrbw=",
+  "content": "<p><strong>SDAutofish（星露谷物語釣魚擴充模組）</strong></p><p>SDAutofish 是一款客戶端專用的 Minecraft Forge 模組，作為 Bonker 開發的 Minecraft 模組「Stardew Fishing」的擴充。它透過智能自動化與可設定的控制項來強化釣魚小遊戲。</p><hr><h2>功能特色</h2><p><strong>自動釣魚</strong> – 以高精準度自動處理釣魚小遊戲。</p><p><strong>智能寶藏獵人</strong> – 在安全情況下（進度 &gt; 95%）自動鎖定寶箱，確保同時捕獲魚類與戰利品。</p><p><strong>可設定的寶藏門檻</strong> – 調整開始捕捉寶藏的釣魚進度百分比。數值越低則會越早鎖定寶藏。</p><p><strong>按鍵綁定</strong></p><pre><code>`V` → 切換自動釣魚開/關\n\n`V +` → 增加所需釣魚進度百分比\n\n`V =` → 減少所需釣魚進度百分比</code></pre><hr><h2>系統需求</h2><p><strong>Minecraft：</strong> 1.20.1</p><p><strong>模組載入器：</strong> Forge</p><ul>\n<li><strong>必要依賴模組：</strong> Stardew Fishing（由 Bonker 開發）</li>\n</ul><hr><h2>使用方式</h2><ol>\n<li>\n<p>拋出釣竿以啟動釣魚小遊戲。</p>\n</li>\n<li>\n<p>按下 <code>V</code> 開啟自動釣魚功能。</p>\n</li>\n<li>\n<p>（可選）使用組合按鍵調整寶藏捕捉門檻。</p>\n</li>\n<li>\n<p>讓模組處理其餘操作，有效率地捕獲魚類。</p>\n</li>\n</ol><hr><h2>致謝</h2><p><strong>原始模組：</strong> Stardew Fishing（由 Bonker 開發）</p><p><strong>擴充模組作者：</strong> Duox</p><p>Discord：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252f8JrYaqhCSX\" target=\"_blank\" rel=\"nofollow\">https://discord.com/invite/8JrYaqhCSX</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

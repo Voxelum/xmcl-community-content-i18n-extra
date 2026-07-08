@@ -1,0 +1,6 @@
+{
+  "bodyHash": "x64Hi4jrQqQ=",
+  "content": "# CC: Mono\n\n![Подборка букв из пакета. Слева направо: строчная I, строчная L, строчная T, строчная F.](https://rounder.worldwidepixel.ca/?r=60&url=https://cdn.modrinth.com/data/blnQYsGj/images/8283ae42ba543afc0f0b7f0e5b6071f0bb8d361c.png)\n\n![Требуется ComputerCraft: Tweaked](https://cdn.modrinth.com/data/cached_images/e8bd74165920cb260e141fe4ebbbfd4294d3d43a.png)\n\nНесколько дней назад я заметил, что текст в терминалах ComputerCraft использует просто стандартный шрифт Minecraft. Это было бы нормально, если бы шрифт Minecraft был моноширинным. Но он не является таковым. Какое сейчас решение? Просто выравнивание символов по центру. Мне это решение не нравится, потому что из-за него кернинг выглядит очень неестественно. Поэтому я создал специальный инструмент, чтобы исправить эту проблему.\n\n*Поддерживает версии от 1.17 до 1.20.6*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

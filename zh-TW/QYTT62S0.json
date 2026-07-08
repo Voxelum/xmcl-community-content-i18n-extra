@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sAXhRu/OPsY=",
+  "content": "帝國 Minecraft 實用工具，亦稱 emcutils，是一款客戶端模組，內含一系列專為[帝國 Minecraft](https://ref.emc.gs/triphora)玩家設計的小型實用功能。功能創意源自[Giselbaer](https://u.emc.gs/Giselbaer)/[gbl](https://github.com/gbl)。\n\n由[MrFrydae](https://u.emc.gs/GreenMeanie)與[triphora](https://u.emc.gs/triphora)共同開發，採用 MIT 授權條款釋出。\n\n在 Forge 環境中無需下載任何依賴項目。在 Fabric 環境中，與多數 Fabric 模組相同，需下載[Fabric API](https://modrinth.com/mod/fabric-api)，並已內嵌[MidnightLib](https://modrinth.com/mod/midnightlib)。建議在 Fabric 環境中搭配使用[Mod Menu](https://modrinth.com/mod/modmenu)與[JourneyMap](https://modrinth.com/mod/journeymap)。\n\n## 功能列表\n\n* 聊天輸入欄上方的頻道切換按鈕\n* 跨伺服器住宅自動傳送功能\n* 便捷檢視可用自訂物品（如[幸運金壺](https://wiki.emc.gs/pot-of-gold)或[EMC 薄荷糖](https://wiki.emc.gs/emc-peppermint)）\n* 可自訂的玩家列表排序規則\n* 個人倉庫快速按鈕\n* Fabric 專屬功能：JourneyMap 與 Xaero's World Map/Minimap 整合\n\t* 點選地圖上住宅標記可直接傳送至該住宅\n\t* 自動世界偵測與地圖確認/建立功能\n\n## 免責聲明\n\n本模組未受帝國 Minecraft、Starlis LLC 或 Mojang Studios 贊助或與其有任何關聯。經帝國 Minecraft 依其[核准模組政策](https://mods.emc.gs)審核通過，准予於伺服器內使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "K7xndANSevw=",
+  "content": "此 Hypixel Skyblock 材質包需搭配 [Firmament](https://modrinth.com/mod/firmament) _或_ [Catharsis](https://modrinth.com/mod/catharsis) 模組，為 Skyblock 中所有附魔書創建自訂材質。\n\n### 注意：此材質包 _必須_ 搭配 Firmament 或 Catharsis 才能運作！！\n\n每本附魔書都有獨特材質以區分彼此，讓您能快速在背包或儲物箱中搜尋想要的物品！\n\n此材質包可透過 [Respackopts](https://modrinth.com/mod/respackopts) 模組輕鬆自訂，支援多種設計與配色方案。\n\n每個材質分為兩部分：彩色書本背景告訴您適用於哪種裝備類型（藍色代表釣竿、紅色代表武器、黃色代表農具等），以及代表附魔書功能的通用圖示。\n\n下方為「不死剋星」附魔書的分解範例：\n![一本紅色書本上有殭屍頭，右側為同款紅色書本，最右側則是浮空的殭屍頭](https://cdn.modrinth.com/data/cached_images/b5b300ff1615219bd3f760317ddba85d958aa6d4.png)\n\n已知問題：Hypixel 原生不支援在 Bazaar、Hex 或附魔台中顯示附魔/Skyblock ID。不過在當前 Firmament 版本中，Firmament 已支援 Bazaar 與附魔指南的顯示（但有時可能不太穩定）！\n\n也歡迎提供意見回饋！不喜歡某個材質？功能壞了？請到我的 [Discord](https://discord.com/invite/BZp9q67wyz) 或 [GitHub](https://github.com/Bentcheesee/Sophies-SkyBlock/issues) 告訴我原因！Skyblock 持續更新，總有東西會損壞或改變。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

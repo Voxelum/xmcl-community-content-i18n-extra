@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UpeSzYwq2/U=",
+  "content": "<h2>AE2 附加 (Forge 版)&nbsp;</h2><p>此模組新增了來自 AE2Stuff 的兩台機器：進階處理器壓印機與水晶生長艙，以及一種新型儲存元件：DISK 深度物品儲存碟。</p><p>需要 Forge 和 AE2。（這是<a href=\"https://www.curseforge.com/minecraft/mc-mods/ae2things\" rel=\"nofollow\">原始 AE2 Things</a> 的 Forge 移植版，由 ProjectET 為 Fabric 製作。）</p><p>在 AE2 Discord 伺服器上討論：<a href=\"https://discord.gg/Zd6t9ka7ne\" rel=\"nofollow\">https://discord.gg/Zd6t9ka7ne</a>。</p><h2>功能</h2><h4>DISK - 深度物品儲存碟</h4><p>可儲存 1k、4k、16k 和 64k 物品且無任何類型限制的儲存元件。此元件沒有類型限制，一個物品計為一個位元組。由於元件格式的限制，每千位元組會損失 24 個位元組，但為了無類型限制，這點代價很划算，對吧？請注意，它們比普通元件更昂貴，因為需要一點獄髓。</p><p><img src=\"https://i.imgur.com/KmZ5mAX.png\" alt=\"\" width=\"513\" height=\"550\"></p><h4>進階處理器壓印機 <strong>[因 AE2 處理器壓印機改版，已於 1.20 版本移除]</strong></h4><p>無疊加數量限制，也無惱人的側面自動化限制的處理器壓印機。</p><h4><img src=\"https://i.imgur.com/7TxvvUK.png\" alt=\"\" width=\"713\" height=\"329\"></h4><p>&nbsp;</p><h4>水晶生長艙 <strong>[因 AE2 水晶改版，已於 1.19 版本移除]</strong></h4><p>一台能輕鬆大量培養水晶或 fluix 粉塵的機器。作為額外獎勵，它會自動將完成的物品直接送入你的 ME 網路！</p><p><img src=\"https://i.imgur.com/5cNu7Xo.png\" alt=\"\" width=\"938\" height=\"299\"></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

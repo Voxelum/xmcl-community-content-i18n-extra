@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UxIq/XyI5Hg=",
+  "content": "**重构者：DureXXX / M1zora / Sone4ka / Frs0n**\n\n着色器配置文件系统已损坏，请使用高配置方案\n\n# **关于**\n\n**DERCODE 是基于 Derivative 着色器的一个重构版本，添加了各种效果与改进**\n\n**同时修复了原始 Derivative 着色器的多个错误**\n**目前，由于 PT 函数实现不佳，该着色器优化较差**\n\n**该项目于 2024 年底基于 Bliss 着色器开始开发，但后来迁移到 Derivative，因为旧版 Bliss 构建无法实现当前版本所拥有的功能**\n\n**此着色器未来将持续更新，最终可能会完全重写，而不仅仅是作为重构版本**\n\n\n!![der2](https://cdn.modrinth.com/data/cached_images/b3fcd66967a13182e72140b7c0b9533db1e9a082_0.webp)\n\n\n所有与 RECODE 相关的内容都将记录在更新日志中。\n\n\n## **性能表现**\n\nMC 1.21.11 仅 SODIUM + IRIS + 全高清 + 8GB 内存\n\ngtx1650 笔记本 4GB 显存 22区块 = 100-130 帧\n\n\n## **链接**\n\n\n我的 Discord 服务器链接\n\n这里会有新闻、投票等内容，也欢迎在此报告错误：[DerivativeRECODE](https://discord.gg/UavqfqAwzv)\n\nCurseForge 链接\n\n更新日志等：[CurseForge](https://www.curseforge.com/minecraft/shaders/dercode)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

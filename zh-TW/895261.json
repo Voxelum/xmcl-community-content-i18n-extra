@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hvSSU9e7dPc=",
+  "content": "<h2>更好的滑翔翼</h2><p>這是一個兼容模組，將滑翔翼的耐力系統與更好的戰鬥攻擊相結合。現在幾乎所有攻擊（除了特殊的右鍵能力外）都會消耗耐力。以下是現在會消耗耐力的項目簡要列表：</p><ul>\n<li><strong>基本攻擊</strong> - 近戰基礎攻擊會根據其<strong>攻擊傷害、攻擊範圍、伺服器設定值</strong>和<strong>屬性</strong>來消耗耐力。</li>\n<li><strong>遠程攻擊</strong> - 使用弓和弩進行攻擊時，拉弓和搭箭的過程也會消耗耐力。</li>\n<li><strong>格擋攻擊</strong> - 格擋攻擊會根據特定盾牌的設定值和格擋的傷害量來消耗耐力。</li>\n</ul><h1>V0.6.0版本注意事項：</h1><p>如果您要從舊版本更新到V0.6.0，強烈建議您刪除伺服器設定檔，因為該檔案已經重新設計。</p><p><strong>另外：</strong>如果您要從舊版本更新到V0.6.0，並且曾為此模組建立資料包，那麼我<strong>強烈</strong>建議您查看維基頁面，了解資料包結構的變更方式。<strong>這將導致現有的模組資料包失效</strong>，但會讓未來建立資料包變得<strong>更加</strong>簡單且有條理。</p><p>&nbsp;</p><h2><strong>自V0.6.0版本起，已完全支援Tetra！以及幾乎所有透過模組化武器修改傷害屬性的模組。</strong></h2><p>&nbsp;</p><h2>使用資料包自訂耐力消耗</h2><p>現在支援資料包！請參閱我的<a href=\"https://github.com/CravenCraft/BetterParagliders/wiki/Custom-Stamina-Costs-Datapacks\" rel=\"nofollow\">維基頁面</a>中的指南，了解如何為近戰武器、遠程武器和盾牌添加自訂耐力值。</p><p>&nbsp;</p><h2>維基頁面</h2><p>如需其他資訊，請參閱<a href=\"https://github.com/CravenCraft/BetterParagliders/wiki/Better-Paragliders\" rel=\"nofollow\">維基頁面</a>，如果仍有未解答的問題，歡迎隨時留言詢問。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

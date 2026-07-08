@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KU8FAAkD20A=",
+  "content": "<h1>應用機械動力</h1><p><em>官方為AE2提供的Mekanism支援插件。</em> 若發現問題請至<a href=\"https://github.com/AppliedEnergistics/Applied-Mekanistics/issues/\" target=\"_blank\" rel=\"nofollow\">問題追蹤器</a>回報。歡迎加入<a href=\"https://discord.gg/Zd6t9ka7ne\" target=\"_blank\" rel=\"nofollow\">AE2 Discord伺服器</a>參與討論。</p><p>這是一個適用於1.18.2+版本的Forge模組，需同時安裝AE2與Mekanism。1.21.1以上版本僅支援NeoForge。</p><h2>化學支援</h2><p>應用機械動力為現有AE2裝置添加了化學品支援。舉例來說，這意味著您可以在化學儲存槽上放置輸入匯流排、輸出匯流排，在放射性廢料桶上放置儲存匯流排，將加壓管連接至介面，或在合成配方中使用化學品。</p><p><img src=\"https://i.imgur.com/hTShq45.png\" alt=\"\"></p><h2>化學儲存單元</h2><p>應用機械動力還新增了1k、4k、16k和64k化學儲存單元。現在您可以在ME磁碟機中儲存氣體！但請注意，這些儲存單元不支援放射性氣體！</p><h2>化學P2P通道</h2><p>應用機械動力新增了化學P2P通道，可用於高吞吐量的化學品傳輸。只需在P2P通道上對任何Mekanism化學儲存槽按右鍵即可進行轉換。</p><h2>儲存匯流排的QIO支援</h2><p>應用機械動力也允許儲存匯流排與QIO頻道中的內容進行互動。只需將儲存匯流排放置在QIO儀表板的側面即可。</p><p><img src=\"https://i.imgur.com/EMxQdXR.png\" alt=\"\"> <img src=\"https://i.imgur.com/sif07Mx.png\" alt=\"\"></p><h2>合成配方</h2><p>要製作化學外殼，您需要改用鋨錠代替鐵錠或銅錠</p><p><img src=\"https://i.imgur.com/wXzGjtU.png\" alt=\"\"></p><p>外殼可與儲存元件組合以製作儲存單元</p><p><img src=\"https://i.imgur.com/7J3EU7l.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

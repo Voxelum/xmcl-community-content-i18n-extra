@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XQaFvUaTZVs=",
+  "content": "# Phosphor Legacy Forge\n這是將 JellySquid 的 Phosphor 模組移植到 Forge 1.8.9 和 1.9.4-1.11.2 的版本。\n\n# 模組相容性\n已測試與 OptiFine、Dynamic Lights、LiteLoader、Essential、Patcher 及其他核心模組相容。\n\n此模組已內含 mixin 0.7.11；應能與其他 mixin 0.7 模組正常運作。\n\n若與 LiteLoader 發生崩潰，請確保 LiteLoader 位於模組資料夾中，並在 mixin 0.7/0.8 模組之後載入。請勿將 LiteLoader 與 Forge 作為函式庫安裝！\n\n與 Legacy SpongeForge 不相容。因 SpongeForge 會導致奇怪的無效 mixins 崩潰，且使用極舊的 mixin 版本。\n\n# 致謝\n\nJellySquid 製作原始 Phosphor；\n(https://modrinth.com/mod/phosphor)\n\nEmbeddedt 提供更新的 1.12.2 Phosphor 和 1.7.10 Archaic Fix；\n\nKappa-Maintainer 提供更新的 1.12.2 Phosphor；\n(https://github.com/kappa-maintainer/Hesperus)\n\nGrayray75 提供 1.8.9 Legacy Fabric 版本的 Phosphor 移植。\n(https://github.com/Grayray75/Phosphor-Legacy)\n\n# 請勿將此模組的問題提交到上游儲存庫！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

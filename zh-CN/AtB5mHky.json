@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qdfPvI/yBeU=",
+  "content": "# 功能特性：\n\n## 观察他人输入状态——无论是在世界中还是GUI界面，打字速度越快，视觉效果越显眼越疯狂！：\n\n![打字效果](https://raw.githubusercontent.com/Corosauce/WATUT/43929914de316ac05ed1844927a83db457633ad4/showcase/typing.gif) ![GUI打字效果](https://raw.githubusercontent.com/Corosauce/WATUT/43929914de316ac05ed1844927a83db457633ad4/showcase/typing_gui.gif)\n\n## 观察他人处于GUI界面（如物品栏、箱子、工作台等）时的状态——显示其手部动作，仿佛在面前屏幕上点击挥动：\n\n![在物品栏中](https://raw.githubusercontent.com/Corosauce/WATUT/43929914de316ac05ed1844927a83db457633ad4/showcase/in_inventory.gif)\n\n## 观察他人闲置超过5分钟的状态——他们在世界中会进入睡眠状态，Tab玩家列表中会显示\"Zz\"提示：\n\n![闲置状态](https://raw.githubusercontent.com/Corosauce/WATUT/43929914de316ac05ed1844927a83db457633ad4/showcase/idle.gif)\n\n## 在玩家列表中查看闲置状态：\n\n![闲置GUI](https://raw.githubusercontent.com/Corosauce/WATUT/43929914de316ac05ed1844927a83db457633ad4/showcase/idle_gui.png)\n\n## 配置选项\n\n如果您对客户端发送至服务器端的任何功能感到不适，您可以在客户端侧按需禁用每个功能，使其不再发送数据。\n\n聊天中通知闲置状态默认关闭。\n\n需要安装 CoroUtil。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

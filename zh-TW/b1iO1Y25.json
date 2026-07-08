@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OoCfF4ZPchw=",
+  "content": "**我製作這些兼容性模組的目標，是透過移除重複的物品、生物和方塊，讓模組在模組包中能更好地協同運作。這確保了任何依賴於被移除物品、生物和方塊的內容仍能正常運作，方法是將這些依賴重新導向至剩餘的等效物品、生物和方塊。**\n\n## 變更清單\n### 移除重複物品\n- Naturalist 香蒲\n\n### 移除重複方塊\n- Naturalist 香蒲\n\n### 戰利品表調整\n- 當徒手破壞 Biome Makeover 的香蒲時，會掉落 Naturalist 的香蒲絨毛。然而，若使用剪刀或附有絲綢之觸的工具破壞，則會掉落 Biome Makeover 的香蒲。\n\n### 世界生成調整\n- 從世界生成中移除 Naturalist 香蒲",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

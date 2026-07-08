@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eHw5nHQ8Ctw=",
+  "content": "# **Sword Optimizer**\n\n**Sword Optimizer** 是一款轻量级的 Minecraft 模组，通过在客户端侧即时处理剑的挥砍动作，无需等待服务器响应，让剑的战斗体验更加流畅和灵敏。\n\n该模组保留了原版的战斗手感，同时减少了点击与看到攻击之间的延迟。\n\n## **特性**\n\n* 即时剑挥砍处理\n* 更流畅的战斗体验\n* 兼容原版\n* 轻量且经过优化\n* 支持多人游戏\n\n## **状态**\n\n首次公开发布——目前仍为 **WIP（开发中）**，但功能完整可用。\n\n## **需求**\n\n- **Java 21 或更高版本**\n- **Fabric Loader（Forge 版即将推出！）**\n- **Minecraft 1.21.9-1.21.11**\n- **YetAnotherConfigLib v3**\n- **Mod Menu（可选，仅当需要修改设置时使用）**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "05cEe5k6c+w=",
+  "content": "# 动态帧率控制\n\n当Minecraft窗口处于后台、闲置状态或使用电池供电时，降低资源占用。\n\n## 功能特色\n\n动态帧率控制能够检测Minecraft窗口当前是否处于激活状态、鼠标悬停状态、非聚焦状态或不可见状态。  \n针对每种状态，你都可以分别调整帧率、音量，以及是否暂时暂停[弹窗通知](https://minecraft.wiki/w/Toasts)。\n\n你也可以针对闲置状态（可自定义超时时间）或笔记本电脑/掌机处于电池供电模式时配置这些设置。  \n此外，你还可以在游戏内HUD上显示当前电池状态，并接收关于电池活动的弹窗通知。\n\n---\n\n除此之外，动态帧率控制还修复了原版中导致后台CPU占用过高的漏洞，并在世界被资源加载界面遮挡时暂停渲染，尤其有助于低配置系统。\n\n## 安装方法\n\n动态帧率控制可在[GitHub](https://github.com/juliand665/Dynamic-FPS/releases)、[Modrinth](https://modrinth.com/mod/dynamic-fps)和[CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)下载。  \n如需使用游戏内配置界面，还需安装[Mod Menu](https://modrinth.com/mod/modmenu)和[Cloth Config](https://modrinth.com/mod/cloth-config)。\n\n## 常见问题解答\n\n- 为什么Minecraft仍然以15帧运行？\n\n动态帧率控制仅会将客户端渲染循环降至最低每秒15次循环。  \n要实现更低帧率，则需通过取消所有多余帧的渲染来实现，例如要实现1帧/秒，则需要取消15帧中的14帧。\n\n这样你切换回游戏后几乎可以立即恢复游玩：  \n无需等待长达一秒钟才能看到下一帧画面，游戏会在1/15秒内重新检查状态。\n\n## 免责声明\n\n启用电池集成功能需要在运行时额外下载一个库文件。  \n该模组已预先包含这些文件的哈希值，并在使用前进行验证。\n\n你可以在模组设置中禁用此行为，或[自行安装该库文件](https://github.com/juliand665/Dynamic-FPS/blob/main/docs/manual-natives-install.md)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

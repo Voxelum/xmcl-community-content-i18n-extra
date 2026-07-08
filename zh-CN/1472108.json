@@ -1,0 +1,6 @@
+{
+  "bodyHash": "82lfFAZxuwo=",
+  "content": "<h1><a href=\"/linkout?remoteUrl=https%253a%252f%252fstarted.ink%252f\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/1472108/description_e60a590a-e5e2-42f8-bc98-24155f26f54f.png\" alt=\"\" width=\"700\" height=\"112\"></a></h1><h2><span style=\"color:#fff\">本模组是<a href=\"https://www.curseforge.com/minecraft/mc-mods/toms-storage\" target=\"_blank\" rel=\"nofollow\">Tom's Storage</a>的性能优化扩展，旨在减少大规模、多人并发及频繁终端操作期间的卡顿现象。</span></h2><h4><span style=\"color:#fff\">主要优化内容：减少无效刷新，降低重复扫描频率，根据变化进行更精细的更新。</span></h4><h4><span style=\"color:#fff\">实际测试中，终端同步相关优化实现了347%的性能提升，Tick更新优化实现了403%的提升。直观理解，即综合优化性能提升超过300%。</span></h4><p>&nbsp;</p><p><span style=\"color:#fff\">测试环境：处理器EPYC 7c13（CPU-Z单核评分约450分），16GB内存，存储结构满载10,000种物品（测试压力或许仍显保守）</span></p><p><span style=\"color:#fff\">作者已竭尽全力优化Tom's Storage。若仍存在卡顿，建议将Tom's Storage替换为<a href=\"https://www.curseforge.com/minecraft/mc-mods/beyond-dimensions\" target=\"_blank\" rel=\"nofollow\">Beyond Dimension</a></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

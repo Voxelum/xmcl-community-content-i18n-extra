@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xLaE+bbZR8I=",
+  "content": "![MDD](https://cdn.modrinth.com/data/cached_images/91e878e3a001f53cf6bc9102df8a57aa10f7b66c.png)\n\n我們的模組與以下專案完美相容，建議您一併安裝：\n\nhttps://modrinth.com/project/fTjPahkb 和  \nhttps://modrinth.com/project/Cd3DYqzn\n\n此模組讓您製作3種新型探測器，幫助您識別來襲的無人機與bplas。\n\n運作方式：\n- 製作3種探測器中的任意一種\n- 以滑鼠右鍵點擊啟動\n- 完成！您可以將探測器放入物品欄任一欄位，它仍會持續運作。\n\n技術細節：\n- 此模組為獨立運作，無需任何前置依賴。推薦的附加模組已於上述介紹。\n- 啟動探測器後，當目標接近您時，畫面右下角會出現HUD介面，並伴隨特製的電流聲響，且隨著無人機越靠近，聲響頻率會越高。\n\n已存在但尚不穩定的功能：\n- 已新增垂直與水平反無人機網。在工作台上製作出來後，可將其放置於世界中。當無人機接觸到網幕時，會纏繞在繩索上，讓操作者失去控制權，之後您便可將無人機據為己有。您可以安全地穿越網幕並透過其射擊。  \n重要提醒：若無人機操作者在網幕前引爆彈頭，網幕將無法保護您！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

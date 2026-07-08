@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tvPtN+298qw=",
+  "content": "<div>\n<h1>Переполнение энергии в Mekanism</h1>\n<p>Больше нет разочарования из-за узких мест в передаче энергии в Mekanism.</p>\n</div><p><strong>Переполнение энергии в Mekanism</strong> позволяет Mekanism передавать энергию сверх <strong>INT_MAX(≒<span><span>2,14*</span></span><span><span>1</span><span>0</span></span></strong>⁹<strong>)</strong>.</p><h3>&nbsp;</h3><h2><span style=\"color:#fff\">Подробности</span></h2><p>По умолчанию Mekanism ограничен системой ForgeCapabilities.ENERGY, которая ограничивает одну передачу энергии значением Integer.MAX_VALUE (~2,14 Гэджи).</p><p><strong>Переполнение энергии в Mekanism</strong> расширяет этот лимит, передавая значение Integer.MAX_VALUE несколько раз за тик, что позволяет передавать до <strong>Integer.MAX_VALUE * maxOperationCount</strong> единиц энергии за тик.</p><div>\n<h1>Конфигурация</h1>\n</div><p>Файл конфигурации генерируется по пути:</p><p>config/mekanismoverflowenergy-common.toml</p><p><code>maxOperationCount</code> — максимальное количество повторных передач (по умолчанию: 256)</p><p>Будьте осторожны, так как слишком высокое значение этого параметра значительно снизит частоту кадров.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KA1Yn50BB6U=",
+  "content": "<h1>机械库（Mechanicals Lib）</h1><p>面向NeoForge模组开发的库，主要（但不限于）为Create模组附加内容提供支持。</p><h2><a href=\"/linkout?remoteUrl=https%253a%252f%252fwiki.mechanicalmods.net%252fmods%252fmechanicals-lib%252f\" target=\"_blank\" rel=\"nofollow\">专用Wiki</a></h2><h2>添加为依赖项</h2><ul>\n<li><code>build.gradle</code>仓库配置：</li>\n</ul><pre><code>    maven {\n        url \"<a href=\"/linkout?remoteUrl=https%253a%252f%252fmaven.fosil.eu%252freleases\" target=\"_blank\" rel=\"nofollow\">https://maven.fosil.eu/releases</a>\"\n    }</code></pre><ul>\n<li><code>build.gradle</code>依赖配置：</li>\n</ul><pre><code>jarJar(implementation(\"com.oierbravo.mechanicals:Mechanicals:${minecraft_version}-${mechanicals_version}\"))</code></pre><ul>\n<li><code>gradle.properties</code>变量配置：</li>\n</ul><pre><code>minecraft_version=1.21.1\nmechanicals_version=4.28 #请始终使用最新版本。</code></pre><h2>许可协议</h2><ul>\n<li>Mechanicals Lib采用LGPL3许可证，详见<a href=\"LICENSE\" target=\"_blank\" rel=\"nofollow\">许可证文件</a>。</li>\n<li>部分代码源自Create模组（基于MIT许可证），具体请参见Create模组的许可证说明。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

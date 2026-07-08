@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80ha1c8EmUE=",
+  "content": "# 垂直與雕紋木板！\n\n這個模組為您的伺服器（同時也適用於單人遊戲）添加了每種木材類型的雕紋和垂直木板。\n\n它使用資源包，並透過 polymer autohost 分發給客戶端。\n\n無需額外設定！您可能需要在 polymer 配置中啟用自動托管功能！\n\n---\n需求：\n- [polymer](https://modrinth.com/mod/polymer)\n- [filament](https://modrinth.com/mod/filament)\n\n以及 fabric api（兩個依賴項都會用到）\n\n---\n\n# 合成配方\n\n- 3 個（1x3）木板垂直排列可合成垂直木板\n- 2x2 垂直木板可合成雕紋木板\n\n# 指令\n\n方塊位於 \"tsa\" 命名空間中，因此要使用 /give 指令獲取雕紋或垂直木板，請執行：\n\n```\n/give @... tsa:vertical_oak_planks\n\n```\n\n```\n/give @... tsa:chiseled_oak_planks \n```\n\n您也可以使用 `/polymer creative` 開啟 polymer 的創造模式選單，並點選 filament 方塊圖示來存取這些方塊\n\n## 注意事項：\n此模組使用音符盒來在伺服器上顯示自訂方塊，無需客戶端安裝任何模組。這意味著使用音符盒的資源包可能無法為玩家正確運作\n\n---\n\n- [Modrinth](https://modrinth.com/mod/tsa-planks)\n- [GitHub](https://github.com/tomalbrc/tsa-planks)\n- [Discord](https://discord.gg/9X6w2kfy89)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

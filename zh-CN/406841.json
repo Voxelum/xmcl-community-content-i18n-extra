@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9TfrD1elFOg=",
+  "content": "<h2>概述</h2><p>这是ProjectE 1.7.10-PE1.10.1的补丁版本。</p><p>现已包含一个补丁，将转化桌的最大EMC值设置为\"Integer.MAX_VALUE\"（约21亿，适用于1.1.0及以下版本）。</p><p>现已包含一个补丁，将转化桌的最大EMC值设置为\"Long.MAX_VALUE\"。</p><p><strong>请勿将此版本特定问题反馈给原作者！</strong></p><p>错误报告请提交至<a href=\"https://github.com/sousuke0422/ProjectE/issues\" target=\"_blank\" rel=\"nofollow\">此处</a></p><p>若存在问题，我们将立即移除相关内容。</p><h2>当因NEI导致崩溃时</h2><p>如需使用NEI 2.2.0或更高版本，必须使用GTNH版本的NEI。</p><p>若因特殊情况希望使用原版NEI，作者不承担任何责任，但中国社区内提出的<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f4403.html\" target=\"_blank\" rel=\"nofollow\">此方法</a>可能可行。</p><p><strong><em>再次重申，作者既不保证也不验证此方法；您可以自行承担风险尝试。</em></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

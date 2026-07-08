@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+WmQxKwFlHg=",
+  "content": "<h1>适用于Minecraft的SQLite JDBC</h1><p>SQLite JDBC驱动程序，作为其他项目使用的外部库/可选依赖项。</p><ul>\n<li>此模组本身不执行任何操作——但可被其他使用JDBC的模组（如<a href=\"https://github.com/webbukkit/dynmap\" rel=\"nofollow\">Dynmap</a>）调用。</li>\n<li>本模组直接基于<a href=\"https://github.com/xerial/sqlite-jdbc\" rel=\"nofollow\">Xerial SQLite JDBC驱动</a>重新打包，并添加了模组元数据以支持作为模组或插件加载。</li>\n<li>底层JDBC驱动未作任何修改。</li>\n</ul><p>该模组为通用JAR文件，支持Forge/Fabric/Spigot平台从1.12.2至当前版本的所有版本。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

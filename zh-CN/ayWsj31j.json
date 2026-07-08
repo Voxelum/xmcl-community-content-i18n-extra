@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CS79AgAgsZ8=",
+  "content": "# 警告！\n# 为确保正常运行，建议搭配 Vista 3.1.2、Create 6.0.9、Sable 1.0.6 以及 Create Aeronautics 1.0.2 或 1.0.3 版本，同时使用 Vista Aeronautics Fix 1.0.0 修正补丁！\n\n# **Vista Aeronautics Fix（Vista航空模组修复）**\nVista Aeronautics Fix 是一款轻量级客户端模组，专为解决 Vista 电视屏幕在 Create Aeronautics 移动装置上出现的渲染问题而设计。\n\n## **问题描述**\n原版 Vista 模组采用先进的优化系统（LOD 与平面剔除）。当电视屏幕作为航空模组活动组件（如飞艇或列车）的一部分时，这些系统常会误判屏幕处于视野之外或距离过远，导致显示屏在移动过程中出现闪烁、消失或完全停止更新的情况。\n\n### _未安装修复补丁时_\n![未修复](https://files.catbox.moe/se5h9a.gif)\n\n### _安装修复补丁后_\n![已修复](https://files.catbox.moe/03vhej.gif)\n\n### **功能特性**\n- 绕过剔除机制：完全禁用电视屏幕的平面剔除功能，确保实体在移动结构上从任意角度都能正常显示。\n  \n- LOD 系统优化：移除导致屏幕过早关闭的激进距离优化策略。\n  \n- 渲染距离扩展：扩大渲染边界框与视距范围，防止高速移动时游戏跳过电视屏幕渲染。\n\n#### **技术信息**\n仅限客户端：本模组无需安装在服务器端。\n\n前置需求：需预先安装 Vista 与 Moonlight Lib 库模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qimGa4ZBLPA=",
+  "content": "## 概述\n\nBetterHitreg 是一款**開源**的用戶端 Fabric 模組，適用於 Minecraft **1.19.4 – 1.21.11**，它能**在伺服器之前**註冊命中判定，讓你感覺就像擁有低延遲一樣\n\n---\n\n## 附加功能\n\n- 多種主要為劍 PVP 設計的實用功能\n- 包含一個**切換主手**的按鍵綁定，以及用於追蹤**如階級測試中的 PVP 分數**的按鍵綁定\n- UI 與渲染顏色可透過實例配置資料夾中的 Hitreg.properties 進行編輯\n\n---\n\n## 安全性\n\n- ✅ **允許在 mctiers.com 與 pvptiers.com 上進行階級測試**（1.0.4 版本已確認，若您認為此資訊有誤，請在 GitHub 上提出問題）\n- ✅ **未記錄到任何反作弊系統的誤報或懲罰**，且所有功能均非設計用於提供任何不公平的技術優勢\n- ✅ 所有自訂命中僅**影響外觀呈現**，您的實際命中判定**並未以任何方式被修改**，僅影響其渲染方式與音效\n\n---\n\n## 已測試伺服器\n\n該模組已在以下伺服器安全使用：\n- mcpvp.club\n- flowpvp.gg\n- minemen.club\n- sharpness.gg / blotcraft.com\n- pvplegacy.net\n- stray.gg\n- catpvp.xyz\n\n> 上述或其他伺服器可能將其視為違規模組，請在使用前閱讀您目標伺服器的規則\n\n---\n\n## 效能表現\n\n- 從 1.0.5 版本開始，網路執行緒上幾乎不會進行任何處理。即使使用更早的版本，該模組也不會對您的網路效能造成任何明顯影響。\n- 渲染功能（如碰撞箱與準心）在低於 1.21.11 的版本上會導致效能大幅下降。如果您注重效能並使用這些功能，建議使用 1.21.11 版本\n\n---\n\n<img width=\"1920\" height=\"1080\" alt=\"圖片\" src=\"https://github.com/user-attachments/assets/e0131f4c-bf74-468b-b2aa-f1a2eec2b31a\" />",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

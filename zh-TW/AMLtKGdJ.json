@@ -1,0 +1,6 @@
+{
+  "bodyHash": "B2Sau1BFm1c=",
+  "content": "**注意：目前我正在更新舊版本，以包含新的優化並移除限制。**\n\n# 巨型結構方塊\n\n巨型結構方塊將最大結構方塊尺寸和角落搜尋半徑增加至 512 格。邊界框的渲染距離也提升至 256 格。\n\n簡要說明：\n\n- 將最大結構尺寸提升至 512 格\n- 將結構邊界框的渲染距離提升至 256 格\n- 優化角落搜尋演算法\n  - 維持結構方塊角落的快取，實現即時解析\n- 移除拼圖方塊的深度限制\n- 移除結構特徵/池的 128 格距離限制\n- 新增結構方塊物品的創造模式物品欄\n\nHSB 的角落搜尋可即時解析，而原版則需耗時數秒（有時甚至會崩潰）。這在允許玩家創建結構的建築伺服器上特別實用。\n\n**範例**\n<img src=\"https://www.convallyria.com/images/structureblocks/guildcastle.png\">\n<img src=\"https://www.convallyria.com/images/structureblocks/ui.png\">\n\n**錯誤、問題與疑問**\n\n若有疑問，請加入我們的 Discord：https://discord.gg/fh62mxU\n\n錯誤、問題及相關回報請提交至我們的問題追蹤系統。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

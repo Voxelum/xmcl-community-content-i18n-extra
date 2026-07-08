@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/fVMMcPLlLs=",
+  "content": "**SlashNouveau** 是 **SlashBlade** 與 **Ars Nouveau** 的整合附加模組。\n\n**此模組需要** **[CastLib](https://modrinth.com/mod/castlib), [ArsCurios](https://modrinth.com/mod/arscurios)**\n\n \n\n### **特色亮點**\n\n*   **SlashBlade** 的投射物可觸發 **Ars Nouveau** 的法術。\n*   透過 **SlashNouveau** 施放的法術會消耗 **SlashBlade 的 ProudSoul**，而非 **Ars Nouveau 的魔力**。\n*   **SlashBlade 的 ProudSoul** 會利用 **Ars Nouveau 的魔力** 恢復至特定上限。  \n  _⚠️此上限取決於 **SlashBlade** 的 **Refine** 值。_\n*   使用 **Ars Nouveau 的法術書** 進行施法，可無縫施放最多 **10 種不同法術**。\n*   **快速選擇** 中的 **法術書** 即使在 **專屬欄位** 中也支援選取。\n*   基於 **安全考量**，近戰攻擊時 **不會** 觸發法術。\n\n### **使用方式**\n\n1.  準備一把可發射 **投射物** 的 **SlashBlade**。\n2.  使用 **Ars Nouveau 的法術書** 創造一個 **法術**。\n3.  將 **法術書** 放入專屬的 **Curios 欄位**。\n4.  使用 **快速選擇快捷鍵** 從 **法術書** 中選取一個 **法術**。\n5.  當 **SlashBlade 的投射物** 擊中 **實體** 時，**法術** 便會 **觸發**。\n\n \n\n### **備註**\n\n*   請務必將 **法術書** 放入專屬的 **Curios 欄位**。\n*   若要提高 **ProudSoul 自然恢復的最大上限**，需提升 **SlashBlade** 的 **Refine 值**。\n*   使用 **SlashNouveau** 時，**法術** 在擊中 **方塊** 時 **不會觸發**。\n\n### **設定**\n\n*   `ProudSoulConsume (預設值：30)`  \n         **使用 SlashBlade 投射物施法時的魔力消耗**。\n*   `ProudSoulLimitByRefine (預設值：200)`  \n         **ProudSoul 自然恢復的最大值** = **Refine × 此數值**\n*   `SpellBookSlots`  \n         **法術書** 的欄位。（**請勿編輯**）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

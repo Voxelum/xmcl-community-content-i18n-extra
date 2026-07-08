@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ik8N7168WRM=",
+  "content": "如果你厌倦了Minecraft那苍白的天空，渴望更温馨的夜晚，或是怀念官方预告片里那种充满活力的氛围，那么这个光影包就是为你准备的。\n\n---\n\n![演示GIF。MC渲染 - 裸露天空](https://cdn.modrinth.com/data/cached_images/cdbadfa288699f8a0387e8a608e105af1a597f8e.gif)\n![横幅2](https://cdn.modrinth.com/data/cached_images/45d344903f47b030d4165a4496a2d9b14aca82d4_0.webp)\n\n\n**兼容：** Optifine（任意版本）、[Skyboxify](https://modrinth.com/mod/skyboxify)（目前用于[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)）、[Nuit](https://modrinth.com/mod/nuit)配合[Nuit Interop](https://modrinth.com/mod/nuit-interop)\n\n---\n\n小贴士：\n---\n（使用\"[Mod Menu](https://modrinth.com/mod/modmenu)\"来应用它们）\n\n**1.** 你可以用\"[Chunks Fade In](https://modrinth.com/mod/chunks-fade-in)\"让迷雾根据自定义天空盒正确渲染。接着，为了达到完美效果，请使用\"[Sodium Extra](https://modrinth.com/mod/sodium-extra)\"，在渲染部分将\"大气雾 - 末地环境\"选项设置为300%。\n\n**2.** 最后，如果你在服务器上游玩，用\"[Smooth Skies](https://modrinth.com/mod/smooth-skies)\"来消除天空底部的虚空纹理。将\"雾视距离\"选项设为550，并确保\"降低天空底部虚空黑暗度\"已启用。\n\n---\n\n_感谢[Robot Pants](https://modrinth.com/user/RobotPants)提供的原始艺术作品。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

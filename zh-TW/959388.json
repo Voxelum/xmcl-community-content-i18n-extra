@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wwawKtWd0Ug=",
+  "content": "<h2>Iris / Oculus 與 GeckoLib 相容性修補</h2><p><strong>從 1.20.1+ 版本的 GeckoLib 開始，已不再需要此模組！僅在您因使用舊版 GeckoLib 而發生動畫異常時才需加入。</strong></p><p><br>修復在使用具有實體陰影的光影包時，GeckoLib 實體動畫無法正常運作的問題。</p><p>&nbsp;</p><p>以下為 GeckoLib 實體搭配 Insanity Shader 光影包，並啟用實體陰影時的正常運作範例。</p><p><span><span><iframe src=\"https://www.youtube.com/embed/5kLo4HdSz44?wmode=transparent\" width=\"638\" height=\"358\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

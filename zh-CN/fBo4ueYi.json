@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mIBMgQFZQss=",
+  "content": "# 每秒有1/10000概率触发凋零狐狸惊吓\n这是一个客户端Minecraft模组，每秒有1/10000的概率触发《玩具熊的五夜后宫2》中凋零狐狸的惊吓画面。\n\n使用指令 `/setjumpscareodds [X]` 可将惊吓概率设置为1/X\n\n## 鸣谢\n基于 [yonmaruyon](https://steamcommunity.com/id/yonmaruyon) 制作的 [Terraria模组](https://steamcommunity.com/sharedfiles/filedetails/?id=3481943642)\n\n## 版本支持\n### 26.1\n- Fabric\n- NeoForge\n\n### 1.21.11\n- Fabric\n- NeoForge\n- Forge\n\n### 1.20.4\n- Fabric\n- Forge\n\n## 可能不稳定的版本\n### 1.20.6\n- Fabric\n- Forge\n\n### 1.20.5\n- Fabric\n- Forge",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

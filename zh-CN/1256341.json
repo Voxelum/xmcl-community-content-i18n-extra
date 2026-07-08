@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Bk7sEfLErfs=",
+  "content": "<p>此模组为AE2与Create之间增加了兼容性。该模组需要<a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" rel=\"nofollow\">Create</a>和<a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" rel=\"nofollow\">AE2</a>。</p><p>添加了一个AE库存桥接器，可将两个存储系统连接起来。Create库存系统中的物品在AE中会显示为可合成的物品。通过连接打包机制，Create可通过桥接器向AE请求已存储的物品。</p><p>未来计划：</p><ul>\n<li>1.21版本移植</li>\n<li>支持精致存储</li>\n<li>从Create实现AE/RS的自动合成</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

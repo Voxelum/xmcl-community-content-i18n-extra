@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nItpepxvvq8=",
+  "content": "Этот простой мод добавляет рецепты крафта для сёдел, конной брони и тегов с именем.\n\nДля серверов этот мод требуется только на стороне сервера, чтобы работать. Но я рекомендую также включить его в клиентские модпаки, чтобы мир в одиночной игре тоже функционировал.\n\n<details><summary>Рецепты</summary>\n<p>\n\n![Рецепт крафта седла](https://gitlab.com/456Xander/craftable-saddles/-/raw/master/recipe-examples/saddle.png)\n![Рецепт крафта железной брони](https://gitlab.com/456Xander/craftable-saddles/-/raw/master/recipe-examples/iron_armor.png)\n![Рецепт крафта тега с именем](https://gitlab.com/456Xander/craftable-saddles/-/raw/master/recipe-examples/name_tag.png)\n\nДругая конная броня крафтится таким же образом; железную конную броню можно изготовить, просто заменив железо золотом или алмазами.\n\n</p>\n</details>\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

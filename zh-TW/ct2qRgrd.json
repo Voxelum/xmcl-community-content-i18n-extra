@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yuiJyUuTkGU=",
+  "content": "# 門卡住了\n\n這個模組讓銅門、銅地板門和銅儲物箱在點擊時有機率無法開啟，使其與木門、木地板門有所不同。\n\n<iframe width=\"1280\" height=\"721\" src=\"https://www.youtube.com/embed/X3LAcRlaenM\" title=\"門卡住了 - Minecraft 模組展示\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>  \n\n紅石訊號供電和已打蠟的方塊則不受影響。\n\n| 氧化程度 | 卡住機率 |\n| ----------- | ------------ |\n| 無氧化 | 0% |\n| 暴露 | 25% |\n| 風化 | 50% |\n| 氧化 | 100% |\n\n本模組僅在伺服器端運作即可，但門會出現閃爍效果。若同時安裝在客戶端則可避免此現象。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

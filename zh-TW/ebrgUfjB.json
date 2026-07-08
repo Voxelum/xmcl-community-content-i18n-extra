@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SX6cKUbrWVM=",
+  "content": "# 更簡單的獄髓\n\n更簡單的獄髓重新調整了獄髓的取得流程，讓獲取獄髓不再那麼繁瑣，同時保持平衡且有成就感。\n\n### 遠古遺骸會掉落粗獄髓\n遠古遺骸在一般開採時不再掉落自身，而是改為掉落**粗獄髓**——除非使用絲綢觸摸鎬子。\n\n### 幸運附魔適用於遠古遺骸\n幸運附魔也能增加遠古遺骸掉落的粗獄髓數量，讓你有理由在挖掘前先附魔你的鎬子。\n\n![幸運附魔作用於遠古遺骸](https://cdn.modrinth.com/data/cached_images/f92bcdb1e4dd73e10886e0f1991b781826aaad63.png)\n\n### 新的獄髓取得流程\n獄髓錠不再能透過原版合成配方獲得。你必須：\n1. 開採遠古遺骸來獲得粗獄髓\n2. 將4個粗獄髓合成為獄髓碎片\n3. 將獄髓碎片熔煉成獄髓錠\n\n你也可以透過豬布林以物易物獲得獄髓粒，並用它來合成粗獄髓！\n\n![粗獄髓也可以用9個獄髓粒合成](https://cdn.modrinth.com/data/cached_images/ffb65eada0e3cae39e3bcff06bad8c26e8b9af39.png)\n![獄髓碎片由粗獄髓合成](https://cdn.modrinth.com/data/cached_images/e7daef3b7109cae6bbfbad9062cc92c7bd175125.png)\n\n### 支援的版本\n此模組支援 **Fabric、Forge 和 Neoforge - 1.20.1、1.21.1、26.1.2 及以上版本**\n\n當然也會更新到新的穩定版本！\n\n#\n\n如果你發現任何問題，請在我們的 [Github 問題回報頁面](https://github.com/JustErikSK/EasierNetherite-Mod/issues) 回報此模組的問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

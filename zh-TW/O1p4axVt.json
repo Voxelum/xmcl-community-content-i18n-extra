@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oh/cHYrghLE=",
+  "content": "![下載量](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fconnorcode.com%2Fapi%2Fdownloads%3Fmodrinth%3DO1p4axVt%26curseforge%3D1203632&query=%24%5B%27total-human%27%5D&label=downloads&style=for-the-badge&color=0dc362)\n\n此模組讓您能在世界中放置物品，並完全相容於所有第三方模組。請注意，這些物品並非方塊而是實體。類似物品展示框，若在特定區域放置過多會大幅降低畫面幀率。建議盡可能使用優化模組。\n\n## 相依項目\n- [Kleiders 自訂渲染器 API](https://modrinth.com/mod/kleiders-custom-renderer-api) (7.2.0 或以上版本)\n\n## 目前規劃功能\n- 可放置無損自訂資料物品（支援耐久度/已命名物品）\n\n## 廣告\n[![廣告](https://us-east-1.tixte.net/uploads/cdn.avatarka.ge/oct.png)](https://oct.ink/)\n\n## 給開發者\n如果您是希望讓自己的模組與「可放置物品」相容的開發者，那麼您來對地方了！為了讓此模組能與最多模組相容，它會動態從原始來源（已載入的 .jar 檔案）載入物品材質。\n\n為了達到最大通用相容性，讀取格式採用 `assets\\%模組ID%\\textures\\item\\%物品名稱%.png`，這被認為是最廣泛使用的物品材質路徑格式。\n\n要讓您的模組與「可放置物品」相容，只需遵循上述格式即可。以下提供一些範例供參考：\n\n- ✅ `diamond` 為註冊名稱，材質檔案名稱為 `diamond.png`\n- ❌ `diamond` 為註冊名稱，材質檔案名稱為 `diamond_item.png`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

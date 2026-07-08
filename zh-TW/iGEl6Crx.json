@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Fx8JV3Jl1Ic=",
+  "content": "# Biolith\n\nBiolith 是一個專注於設定靈活度與一致性、沉浸式模組生態域分佈的生態域放置與地表生成伺服器庫模組。目前支援 Fabric、Forge、NeoForge 與 Quilt 載入器。你可以透過試用以下 Terraformers 生態域模組來體驗 Biolith 的實際運作：\n\n* [Cinderscapes](https://modrinth.com/mod/cinderscapes)\n* [Terrestria](https://modrinth.com/mod/terrestria)\n* [Traverse](https://modrinth.com/mod/traverse)\n\n## 目前已實現的功能範圍\n\n截至目前，除了我可能已實作但忘記在此更新的新功能外，以下為現有功能：\n\n* 從 v1.2.0-alpha.1 起，Biolith 支援所有四大主要模組載入器！\n* 從 v2.0.0-alpha.1 起，可透過資料包添加生態域放置與地表規則。\n* 在指定的噪聲點放置主世界、地獄或終界生態域。\n* 從所有噪聲點移除原版/資料包的主世界、地獄或終界生態域。\n* 完全或部分取代主世界、地獄或終界生態域。\n* 為主世界、地獄、終界或模組生態域添加子生態域。\n  * （終界生態域放置使用自訂噪聲，僅在 1.20+ 版本中可用。）\n\n<p/>\n\n* 註冊自訂地表規則。\n* 使用自訂地表生成器覆蓋原版地表。\n\n<p/>\n\n* 與 TerraBlender 及 Fabric Biome API 生態域完全相容。\n* 與 BClib 部分相容（生態域放置可能會被 BClib 修改）。\n* 可在 1.2.0-beta.1（1.20.4 - 1.20.6）的 Modern Beta 世界中放置生態域。\n* 自 3.0.3 版本起（1.21+），可在 Moderner Beta 世界中放置生態域。\n* 自 3.0.5 版本起，自動防止特徵順序循環崩潰。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

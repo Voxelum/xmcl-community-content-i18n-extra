@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dtEClR+RefM=",
+  "content": "![](https://img.shields.io/badge/環境-客戶端-blue)\n[![](https://img.shields.io/discord/985625288891326504?label=efekosdev&color=blue)](https://efekos.dev/discord)\n![](https://img.shields.io/github/issues-closed/efekos/FancyHealthBar?color=blue)\n![](https://img.shields.io/github/license/efekos/FancyHealthBar?color=blue)\n![](https://img.shields.io/github/v/release/efekos/FancyHealthBar)\n![](https://img.shields.io/github/stars/efekos/FancyHealthBar?style=flat)\n![](https://img.shields.io/curseforge/dt/990963?logo=curseforge&logoColor=%23f16436&color=%23f16436)\n![](https://img.shields.io/modrinth/dt/fancy-health-bar?logo=modrinth&logoColor=%231bd96a&label=modrinth&color=%231bd96a)\n# 華麗生命條\n\n**自 1.2 版本起，需安裝 [Mod Menu](https://modrinth.com/mod/modmenu) 才能存取設定選單。若未安裝 Mod Menu，將鎖定為預設設定。**\n\n此客戶端模組徹底改造生命條，新增多項可自訂功能。\n\n## 生命條粒子效果\n\n原版生命條現以「經典」風格提供。預設情況下，生命值減少時愛心會碎裂成粒子。您可透過設定選單自由調整粒子效果。\n\n## 多樣化風格\n\n透過設定選單可選擇不同生命條風格。若有新風格構想，歡迎至 [問題追蹤區](https://github.com/efekos/FancyHealthBar/issues) 提出！\n\n經典生命條粒子效果示範：\n![](https://raw.githubusercontent.com/efekos/FancyHealthBar/master/img/showcase.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

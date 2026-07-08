@@ -1,0 +1,6 @@
+{
+  "bodyHash": "205L3mIlcCI=",
+  "content": "造訪我們的 Discord 以獲得最新動態：https://discord.gg/hEaS5EVCH7\n\n此模組尚處於早期開發階段：可能會出現錯誤與崩潰。若您遇到這些問題，請至模組的 GitHub 回報：https://github.com/AmmoniumX/AdminShop\n\nAdminShop 是一款功能強大的模組，允許伺服器管理員與模組包開發者在 Minecraft 中新增完全可自訂的「商店」，玩家可在此以固定價格購買與販售物品。\n\nAdminShop 的功能包括：\n- 支援購買與販售流體和物品，具備 NBT 支援功能\n- 可透過可編輯的試算表檔案完全自訂可購買與販售的流體/物品清單\n- 能將特定購買與販售選項鎖定於可解鎖的「交易許可證」後\n- 透過自動購買器與販售器實現自動化交易\n- 自訂「銀行帳戶」系統，可選擇單人遊玩或與其他玩家建立共享帳戶，實現伺服器中的合作遊玩\n- 即使玩家離線，若區塊仍處於載入狀態，所有功能仍可正常運作\n- 透過紅石訊號發射「餘額檢測器」控制自動化系統\n- 內建 Patchouli 指南書\n\n此模組最初由 Vnator 為 1.12 版本開發，現已由 Ammonium 移植至新版本並進行全面重製。\n\n如需更多資訊（例如模組包開發者與伺服器管理員的設定指南），請造訪 https://github.com/AmmoniumX/AdminShop",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

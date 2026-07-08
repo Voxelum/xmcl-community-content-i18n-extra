@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8z/zMHjF7pM=",
+  "content": "Colorwheel Patcher 是一個模組，能在啟動時自動為支援的著色器包進行相容性修補，使其與 [Colorwheel](https://modrinth.com/mod/colorwheel/) 相容。\n\n這取代了手動修補的方式，提供了更便利的方法。  \n\n## 使用方法\n\n1.  安裝模組\n2.  安裝相容的著色器包（詳見下方）\n3.  啟動遊戲\n4.  選擇修補後的著色器包（名稱結尾為「+ Clrwl ...」）  \n\n## 支援的著色器\n\n*   BSL 10.1\n*   Bliss 2.1.1 - 2.1.2\n*   Complementary 5.6 - 5.6.1（自 r5.7 起官方支援）\n*   Euphoria Patches 1.6.3 - 1.6.8（自 1.7.0 起官方支援）\n*   Photon 1.3a\n*   Rethinking Voxels 0.1-beta9\n\n**提示**：著色器包通常會預設停用實體陰影或方塊實體陰影。若希望 Create 模組的機械裝置能投射光線與陰影，請確保這些選項已開啟。\n\n我的 [GitHub](https://github.com/djefrey/photon) 上有一個 Photon 的分支版本。這個分支支援機械裝置的彩色照明，並與 Voxy 相容；而 Colorwheel-Patcher 提供的修補版本則不具備這項相容性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

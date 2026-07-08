@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KiXefiQXRfU=",
+  "content": "# 简易音板\n\n一款为[简易语音聊天](https://modrinth.com/plugin/simple-voice-chat)制作的简易音板模组\n\n本模组允许您直接在语音聊天流中播放.mp3文件。它包含一个管理音频的图形界面，\n并为您自己听到的音量与其他玩家听到的音量分别提供独立控制。\n\n## 功能特色\n\n- **MP3支持**：播放标准的`.mp3`文件。\n- **麦克风注入**：音频会混入您的麦克风流中，因此任何使用简易语音聊天的玩家都能听到。\n- **双音量滑块**：\n    - **玩家音量**：其他玩家听到的音频响度。\n    - **本地音量**：您自己听到的音频响度。\n\n## 前置依赖\n\n[Fabric加载器](https://fabricmc.net) <br>\n[Fabric API](https://modrinth.com/mod/fabric-api) <br>\n[简易语音聊天](https://modrinth.com/plugin/simple-voice-chat) <br>\n[Fabric语言Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n\n> **注意：** 简易音板可能会下载`yt-dlp`可执行文件以支持音频处理/下载功能。\n\n## 安装方法\n\n1. 下载并安装**Fabric**和**简易语音聊天**。\n2. 从[模组平台](https://modrinth.com/project/simplesoundboard)下载简易音板。\n3. 将下载的jar文件放入您的`mods`文件夹。\n4. 启动Minecraft。\n\n## 使用说明\n\n1. **打开文件夹：**\n    * 启动游戏一次以生成目录。\n    * 导航至Minecraft实例文件夹（例如`.minecraft`）。\n    * 打开`soundboard`文件夹。\n2. **添加音频：**\n    * 将您的`.mp3`文件拖拽至`soundboard`文件夹。\n3. **播放：**\n    * 进入世界或服务器。\n    * 按下**`J`**（默认按键）打开音板界面。\n    * 点击音频旁的\"播放\"按钮。\n\n## 配置选项\n\n您可以通过音板界面中的**配置**按钮进行设置。\n\n*   **本地播放：** 开启此选项可让您自己听到音频，关闭则仅对其他玩家播放。\n*   **音量记忆：** 模组会记住每个音频文件单独的音量设置（本地音量与玩家音量）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

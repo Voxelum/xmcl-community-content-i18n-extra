@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wEXuDf8xr0s=",
+  "content": "<p>这个模组能让你在砍伐树木时让整棵树倒下。它使用了Create Aeronautics物理库Sable。你可以配置手动砍伐或炸毁树木时施加在树上的力度大小。<br><br>使用活塞移除树木部分不会使其倒下，其他方块事件如火焰也不会触发倒树效果。<br>（模组1.10版本中有一个配置选项可以改变这一设定，但相比不检测每个方块更新，这样做的性能消耗要大得多）<br>该模组仅对玩家或实体移除方块以及爆炸事件做出反应。</p><h3>在游戏中修改配置会即时生效。&nbsp;</h3><p>&nbsp;</p><p>配合使用<strong>configured</strong>模组能让配置修改更便捷。</p><h3><br><span><span><iframe style=\"width:436px\" src=\"https://www.youtube.com/embed/zyT0EHSa4vU?si=x3OfuJ_XS7XSjkI-\" width=\"436\" height=\"256\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></h3><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_00e2041b-5acc-401d-8c24-d62d4ae7e20d.jpg\" alt=\"大型云杉树倒下\" width=\"840\" height=\"672\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

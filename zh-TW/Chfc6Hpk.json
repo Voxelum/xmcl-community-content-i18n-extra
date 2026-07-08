@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YW/Qw+irE6c=",
+  "content": "# 現代按鍵顯示 (Fabric)\n\n**現代按鍵顯示** 是一款簡潔輕量的 Minecraft: Java 版 (Fabric) HUD 模組。它能即時顯示你的移動按鍵、滑鼠點擊、CPS 和 FPS。\n\n這是經典 **KeystrokesHippo** 模組的非官方移植版本，已針對現代版 Minecraft 進行更新與優化。\n\n## 功能特色\n\n* **WASD 顯示：** 為你的移動按鍵提供視覺回饋。\n* **滑鼠統計：** 顯示左鍵與右鍵點擊，並內建 **CPS 計數器**。\n* **空白鍵：** 可視化空白鍵按壓狀態。\n* **FPS 計數器：** 可選的每秒幀數顯示。\n* **自訂設定：**\n    * 可切換個別模組（按鍵、滑鼠、FPS、空白鍵）。\n    * **位置滑桿：** 使用 X 軸與 Y 軸滑桿，輕鬆將 HUD 移動到螢幕上的任何位置。\n\n## 使用方式\n\n1.  安裝 **Fabric Loader** 與 **Fabric API**。\n2.  將模組檔案放入你的 `mods` 資料夾。\n3.  在遊戲中，輸入 **`/keystrokes`** 以開啟設定選單。\n4.  使用滑桿調整 HUD 位置，並使用按鈕切換各項功能。\n\n注意：強烈建議搭配 Sodium 模組一同使用。\n\n## 製作群\n\n* **原始模組：** Hippo Keystrokes 由 awesome_hippo (pseudonym-2669) 製作 - [https://www.curseforge.com/minecraft/mc-mods/hippo-keystrokes](https://modrinth.com/mod/hippo-keystrokes)\n* **移植作者：** marblock。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

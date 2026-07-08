@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ckBSwOAYSJ0=",
+  "content": "# X-Ray World 資料包\n\n你是否曾用過 X-Ray 材質包？是否曾想過「天啊，如果整個世界真的長這樣會是什麼樣子？」\n\n……你說沒有？好吧，沒關係。\n\n反正我還是做了個能實現這個效果的資料包。世界看起來完全正常，只是大部分地形都消失了……只剩下礦物和建築物的外殼留在世界上。你很可能會出生在 y=0 的一座煤礦礦脈上，四周空無一物，漂浮在虛空之上。但嘿！至少鑽石很好找，對吧？\n\n## 這不是 X-Ray 模組 / 如何使用：\n1. 這不是 X-Ray 模組或材質包。這是一個世界生成的資料包。它會覆蓋預設的世界生成方式，移除地形。\n2. 使用方法：安裝資料包 / 模組，然後創建一個新世界。\n   - 如果遇到問題，可能是因為將資料包轉為模組時出現了一些移植問題。請在我的 Discord 或 GitHub 頁面上提交 Bug 報告，並附上使用的模組、模組加載器、錯誤資訊、版本等詳細資訊。\n3. 不支援自訂世界選項（如超平坦、放大化等，未來可能會加入支援）。\n4. 與生態域模組不相容，也可能與某些地形模組不相容。\n\n## 贊助商：Sparked Host\n[![Sparked Host 伺服器託管橫幅，使用優惠碼 \"Klinbee\" 可享 75 折優惠](https://cdn.modrinth.com/data/cached_images/0686265f0089a5e8a0227a599e18b8ef4cd4777c.jpeg)](https://billing.sparkedhost.com/aff.php?aff=2956)\n\n## 也來看看這個資料包吧！\n[無地形世界生成！](https://modrinth.com/datapack/terrainless-worlds)\n\n**特別感謝 [Apollo](https://modrinth.com/user/Apollo) 發現了實現這個資料包的技術！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

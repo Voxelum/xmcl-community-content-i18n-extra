@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ioPKj99SZg=",
+  "content": "<h1>Поддержка CPM в Mocap</h1><p>Добавляет поддержку <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fplugin%252fcustom-player-models\" target=\"_blank\" rel=\"nofollow\">Настроенных моделей игроков</a> в мод <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmotion-capture\" target=\"_blank\" rel=\"nofollow\">Motion Capture</a>.<br>\nПервоначально разработано и создано для мероприятия, посвящённого 4-летию SMP «Артория».</p><p>Этот мод требуется только на серверной стороне; он интегрируется с Motion Capture, чтобы обнаруживать и передавать данные CPM, прикреплённые к отслеживаемому игроку, а также отслеживать любые эмоции и переключатели, которые использует игрок.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

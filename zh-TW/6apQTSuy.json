@@ -1,0 +1,6 @@
+{
+  "bodyHash": "L2Bh10LqBaE=",
+  "content": "![fo](https://cdn.modrinth.com/data/cached_images/8457cf2b01e18302ef61da3256328bfb4b94ad14.png)\n![neo](https://cdn.modrinth.com/data/cached_images/5d6378864df2d8f2699289ec7f439e26b5c8db60.png)\n<br/>\n![i](https://cdn.modrinth.com/data/cached_images/ca0de18375553419eff9ce315dccceb885971010.png) \n![pull](https://cdn.modrinth.com/data/cached_images/702dd4310f1da518cfe1eb65953281f022b75e05.png)\n\n## 特色功能⭐：\n\n大部分内容可通过配置自定义。\n<br/>\n针对极限模式的强化无法关闭。因此，本模组可视为确保极限世界中的生存是凭实力诚实通过的保证。\n\n**极限模式改进（仅在极限模式下生效）**：\n- 局域网预设无法编辑。游戏模式 = 生存，作弊 = 关闭。\n- 死亡画面现在仅包含旁观和删除世界按钮\n\n### 新生物 🧟：\n  - 腐臭者（丛林僵尸）\n  - 殉道者（霜冻僵尸）\n  - 多边骨（丛林骷髅）\n  - 骨砂岩（沙漠骷髅）\n\n### 生物AI改进 🧠：\n- 掠夺者在装填时远离目标\n- 僵尸会攻击并吸食动物恢复生命\n- 骷髅在射出5支普通箭后使用毒箭与伤害箭\n- 蜘蛛/洞穴蜘蛛新增幼年变种\n- 蜘蛛/洞穴蜘蛛会产下幼蛛\n\n### 地下深度机制：\n<br/>\n配置中名为“深度起始Y值”的数字表示从此Y坐标起，生物将获得强化。\n<details>\n<summary>强化效果</summary>\n- 所有怪物（除`end/nether_mobs`标签内的生物）获得护甲与追踪范围提升（+1点护甲，+15格追踪范围）\n- 骷髅获得护甲提升（+1点，持剑时+2点）\n- 僵尸获得生命值提升（+2.5颗心）\n- 节肢生物获得伤害提升（+1颗心伤害）\n\n</details>\n\n<details>\n<summary>玩家机制</summary>\n1.1.0版本可用\n</details>\n\n### 通用强化：\n- 猪灵生命值+2.5颗心，溺尸追踪范围+5格\n- 烈焰人护甲+1且生命值+2.5颗心\n\n**支持语言🌐:**\n* 俄语 (ru_ru) - Mr.Toad\n* 英语 (en_us) - Mr.Toad\n<br/>\n想协助翻译？欢迎提交GitHub Pull Request！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

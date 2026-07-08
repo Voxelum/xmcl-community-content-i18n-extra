@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9VTQ9SMjwos=",
+  "content": "# JEI WorldGen\n\nJEI WorldGen 是一个为 Just Enough Items (JEI) 设计的附属模组，能以全面且兼容的方式添加世界矿石生成信息。\n\n## 依赖项\n在客户端上，你需要额外安装 [Just Enough Items (JEI)](https://modrinth.com/mod/jei)\n\n如果你使用的是 Fabric 版本的 JEI WorldGen，还需要安装 [FabricAPI](https://modrinth.com/mod/fabric-api)\n\n## 如何使用？\nJEI WorldGen 允许你查看世界中各种矿石（包括其他模组的矿石）的生成信息。\n它直接从生物群系数据中读取信息，因此基于存档中实际使用的配置。\n这使得显示的信息非常全面，JEI WorldGen 能够显示所有使用标准 Minecraft 世界生成系统的模组的信息，无需针对每个模组进行特殊支持。\n\n![铁矿石生成页面](https://cdn.modrinth.com/data/YYrsrQ6q/images/25a595812e221338cad6027c9fac3fc07ecd757c.png)\n\n## 模组兼容性要求\n要与 JEI WorldGen 兼容，模组必须满足以下条件：\n\n - 在 **UNDERGROUND_ORES** 或 **UNDERGROUND_DECORATION** 生成阶段生成其矿石。\n - 使用 **minecraft:ore** 类型的配置特征\n\n如果这两个条件都满足，JEI WorldGen 将能够显示该模组的矿石生成信息，无需任何特殊支持。\n\n## 多人游戏与服务器\n由于 JEI WorldGen 直接从生物群系数据读取矿石生成信息，而这些数据仅在服务端可用，\n因此建议同时在服务器上安装 JEI WorldGen。你不需要在服务器上安装 JEI 本身。\n\n如果你无法在服务器上安装 JEI WorldGen，则无法从服务器接收信息，因此客户端将不会显示任何世界生成信息。\n不过，你可以在加入服务器之前先进入一次单人存档；在这种情况下，JEI WorldGen 会保留来自单人存档的缓存信息，并在你进入服务器时显示这些信息。\n\n由于 JEI WorldGen 是完全可选的，即使你自己没有安装这个模组，也可以加入带有 JEI WorldGen 的服务器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

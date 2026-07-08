@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3TUMcIg4wOI=",
+  "content": "<p>Ваши опции будут соблюдены — это обеспечивает вам банда «Ассоциация за права на опции».</p><p>Этот мод выполняет одну простую функцию: предоставляет стандартные опции в случае, если соответствующий файл опций отсутствует.</p><p><strong>Пример 1 (options.txt)</strong></p><ul>\n<li>Создайте <em>/config/yosbr/options.txt</em></li>\n<li>Запишите в него стандартный контент</li>\n<li>Запустите игру! YOSBR скопирует <em>/config/yosbr/options.txt</em> в <em>/options.txt</em>, если последний отсутствует</li>\n</ul><p><strong>Пример 2 (config/roughlyenoughitems/config.json5)</strong></p><ul>\n<li>Создайте <em>/config/yosbr/config/roughlyenoughitems/config.json5</em></li>\n<li>Запишите в него стандартный контент</li>\n<li>Запустите игру! YOSBR скопирует <em>/config/yosbr/config/roughlyenoughitems/config.json5</em> в <em>/config/roughlyenoughitems/config.json5</em>, если последний отсутствует</li>\n</ul><p>Требуется Fabric Loader. (API не требуется)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

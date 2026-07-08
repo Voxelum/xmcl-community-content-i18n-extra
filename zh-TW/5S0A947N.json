@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aWsje6e/ywI=",
+  "content": "這個資源包適用於幾乎所有Minecraft Java版本。\n\n只有方塊狀態會影響此效果。我一直覺得預設的柵欄不會自動變成這樣很困擾。所有木材種類的柵欄都會延伸至其應有長度。\n\n希望你會喜歡這個資源包。\n\n如有任何資源包問題或模組相容性請求，請回報。\n若要與其他資源包相容，你可能需要刪除本包中 models/block 資料夾裡的檔案，並修改其他包的柵欄柱模型以解決剔除問題。對於已修改原版方塊狀態的資源包，若不經過調整可能無法正常運作。\n\n[非竹子版本](https://modrinth.com/resourcepack/sc-long-fences-(no-bamboo)\n\n[僅地獄磚柵欄](https://modrinth.com/resourcepack/sc-long-nether-brick-fence)（不包含在其他兩個版本中）\n\n請將其放置於我的任何一款 [Taller Fences Packs](https://modrinth.com/collection/lH9dw6GH) 之下，即可獲得經典的高柱加長柵欄體驗——這項功能已不再於 Planet Minecraft 提供。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "y7HZVWIwFsA=",
+  "content": "# 📦 安裝\n### 必備條件\n- Spell Power Attributes\n# 💎 功能特色\n### 法術學派\n\n這個函式庫為 Spell Power Attributes 引入了新的法術學派，列表如下：\n\n- 🩸 血系\n- 🟢 腐化系\n- 🍃 自然系\n- 🎵 音波系\n- 💧 水系\n- 💨 風系\n\n### 粒子效果：\n\n提供多種適用於法術等用途的粒子效果\n\n### 附魔：\n\n這個函式庫還引入了相關的法術力量附魔，列表如下：\n\n- 法術引導 - 提升本模組引入的法術學派傷害\n- 黏稠性 - 提升血系與水系法術力量\n- 肥沃性 - 提升腐化系與自然系法術力量\n- 不穩定性 - 提升音波系與風系法術力量\n# 🔧 設定\n**附魔加成：**\n- config/more_spell_attributes/enchants",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

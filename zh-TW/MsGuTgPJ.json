@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nlmZoV0b+KQ=",
+  "content": "# 不安全的世界隨機訪問檢測器\n\n這是一個用於檢測不安全的離線程世界隨機訪問的模組，\n幫助找出「從多個線程訪問 LegacyRandomSource」崩潰的原因。\n\n對於找出神秘的 `Accessing LegacyRandomSource from multiple threads` 崩潰原因非常有用。  \n這**並非**解決問題本身的方法，但可以幫助你找到問題的根源。\n\n![範例](https://cdn-raw.modrinth.com/data/MsGuTgPJ/images/fe2cfcfd5ba9fe881216f1e6cfc412b3bf56e50d.png)\n\n注意：如果你已經在使用 C2ME，則不需要此模組（但同時使用也不會導致崩潰）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

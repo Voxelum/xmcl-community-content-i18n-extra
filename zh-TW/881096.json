@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jNdMmaDzERM=",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/cached_images/ace07e263cc77b35d955e93b1fddcdc5e5b715f1.png\" alt=\"傷害指示器\"></p><p><img src=\"https://pixel.jeremyseq.dev/pixel/damageindicators\" alt=\"PIXEL\"></p><p><a href=\"https://www.patreon.com/jeremyseq\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/donate/patreon-singular_vector.svg\" alt=\"在 Patreon 上支持我\"></a></p><p>不再需要猜測或尋找敵人的位置！有了傷害指示器，您將立即知道來自哪裡的傷害。</p><p>此模組靈感來自許多流行的第一人稱射擊遊戲中的傷害指示器。</p><p><strong>2.0 及更新版本為客戶端專用。</strong><strong>1.0 版本需要伺服器端有安裝此模組。</strong></p><h2>特色功能</h2><ul>\n<li><strong>方向性傷害指示器</strong>：一個箭頭指向任何來襲傷害的方向</li>\n<li><strong>傷害數值文字</strong>：顯示對其他怪物所造成的傷害數值</li>\n<li><strong>生命條</strong>：顯示其他怪物的文字生命條</li>\n<li><strong>血液覆蓋效果（預設關閉）</strong>：當您受到傷害時，螢幕邊緣會出現紅色輪廓覆蓋</li>\n</ul><h2>設定</h2><ul>\n<li>有一個名為 \"damageindicator-client.toml\" 的設定檔案，您可以……</li>\n<li>啟用/停用每個功能</li>\n<li>更改方向指示器的顏色、位置、時間和紋理</li>\n<li>設定生命條僅對瞄準的怪物顯示</li>\n</ul><p><img src=\"https://i.imgur.com/EBz2168.png\" alt=\"遊戲內傷害指示器範例\"></p><p><img src=\"https://i.imgur.com/eo36dVI.png\" alt=\"遊戲內傷害數值顯示範例\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

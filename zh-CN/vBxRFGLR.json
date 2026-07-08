@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a4SRHTd9aVk=",
+  "content": "# 该模组已弃用，所有功能已迁移至\n# https://modrinth.com/mod/fuzz\n\n# ~~万花筒~~\n这是一个可以修改方块轮廓颜色、雾效颜色、天空颜色、水体颜色和水下雾效颜色的模组。未来将添加更多可自定义的颜色选项。\n\n![请在此处添加描述](https://cdn.modrinth.com/data/cached_images/3e03c1442a189191ca17272b30fb48a4dc78d919.png)\n\n---\n\n# 指令说明\n\n- **/kaleidoscope sky [数值]**\n  \n  用于修改天空颜色，使用16位RGB色码。\n\n- **/kaleidoscope sky [开启/关闭]**\n  \n  用于启用/禁用天空颜色修改功能。\n\n- **/kaleidoscope fog [数值]**\n  \n  用于修改雾效颜色，使用16位RGB色码。\n\n- **/kaleidoscope fog [开启/关闭]**\n  \n  用于启用/禁用雾效颜色修改功能。\n\n- **/kaleidoscope water [数值]**\n  \n  用于修改水体颜色，使用16位RGB色码。\n\n- **/kaleidoscope water [开启/关闭]**\n  \n  用于启用/禁用水体颜色修改功能。\n\n- **/kaleidoscope waterFog [数值]**\n  \n  用于修改水下雾效颜色，使用16位RGB色码。\n\n- **/kaleidoscope waterFog [开启/关闭]**\n  \n  用于启用/禁用水下雾效颜色修改功能。\n\n- **/kaleidoscope blockOutline [红] [绿] [蓝] [透明度]**\n  \n  用于修改方块轮廓的RGB颜色和透明度。\n\n- **/kaleidoscope blockOutline [开启/关闭]**\n  \n  用于启用/禁用方块轮廓颜色修改功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

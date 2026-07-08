@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6CGhwOyGkbU=",
+  "content": "> 由于很多 Mod 只有英文，非英语母语玩家玩起来可能有些吃力，Mod 作者接受翻译 PR 的时间不定，且不一定有人翻译。为了解决这些痛点，开发了这个 Mod。\n\n> 由于许多 Mod 只有英文，非英语母语玩家可能会觉得游戏体验有些困难。Mod 作者接受翻译 PR 的时间不确定，也不一定有人进行翻译。为了解决这些痛点，我开发了这个 Mod。\n\n# 功能\n\n## 自动翻译无当前语言翻译的语言文件\n\n自动翻译后加载，并不是官方加载资源包形式，在游戏目录下有个 AutoTranslation 文件夹，未翻译部分的原版文件和翻译文件都有，可以润色后打包成资源包；\n\n## 屏幕翻译\n\n这个功能需要在快捷键设置里设置快捷键后，打开要需要翻译的界面，然后按下快捷键，该功能应该能翻译大多数使用了原版 Screen 渲染机制的 Mod；\n\n## 丰富的配置项\n\n通过 Mod 配置菜单，可以配置 Mod 所需参数，具体可在游戏中查看。\n\n---\n\n## 自动翻译无当前语言翻译的语言文件\n\n自动翻译后加载，并非官方资源包形式。在游戏目录下有一个 AutoTranslation 文件夹，包含未翻译部分的原版文件和翻译文件，可以润色后打包成资源包；\n\n## 屏幕翻译\n\n此功能需要在快捷键设置中设置快捷键，打开需要翻译的界面，然后按下快捷键。该功能应能翻译大多数使用原版 Screen 渲染机制的 Mod；\n\n## 丰富的配置项\n\n通过 Mod 配置菜单，可以配置 Mod 所需参数，具体可在游戏中查看。\n\n# 翻译 API (Translation API)\n\n## Google\n\nMod 默认翻译引擎为 Google。\n\n## 其他 (Other)\n\n目前 Mod 仅集成了 Google 翻译，若需其他翻译 API，需等待开发，或者自行开发，仅需实现接口 ITranslator，然后调用 TranslatorManager.registerTranslator(String name, Supplier<ITranslator> getInstance) 即可，然后通过配置项可切换翻译 API。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

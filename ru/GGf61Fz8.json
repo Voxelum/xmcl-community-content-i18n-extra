@@ -1,0 +1,6 @@
+{
+  "bodyHash": "P7i3L05DaJk=",
+  "content": "Когда предметы вот-вот исчезнут, они мигают, чтобы предупредить вас — возможно, стоит подобрать их до того, как станет слишком поздно. Всё настраивается: от скорости мигания до непрозрачности тени.\n\nДоступ к настройкам можно получить через меню мода, а также назначив горячую клавишу (по умолчанию она не назначена).\n\nЭто переработка мода [ClearDespawn](https://modrinth.com/mod/cleardespawn) для Fabric 1.21.x. Возможно, позже я добавлю поддержку и для других загрузчиков.\n\n[![Требуется Fabric API](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/requires/fabric-api_64h.png)](https://modrinth.com/mod/fabric-api)  [![Требуется Cloth Config API](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/requires/cloth-config-api_64h.png)](https://modrinth.com/mod/cloth-config)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

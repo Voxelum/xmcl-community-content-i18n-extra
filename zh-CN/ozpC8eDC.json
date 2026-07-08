@@ -1,0 +1,6 @@
+{
+  "bodyHash": "18spdyJcaUQ=",
+  "content": "<div align=\"center\">\n  <h1>Marlow's Crystal Optimizer（马洛水晶优化器）</h1>\n  <img alt=\"构建状态\" src=\"https://github.com/Bram1903/MarlowsCrystalOptimizer/actions/workflows/gradle.yml/badge.svg\">\n  <img alt=\"GitHub 版本\" src=\"https://img.shields.io/github/release/Bram1903/MarlowsCrystalOptimizer.svg\">\n  <br>\n  <a href=\"https://modrinth.com/mod/marlow-crystal-optimizer\"><img alt=\"MarlowsCrystalOptimizer\" src=\"https://img.shields.io/badge/-Modrinth-green?style=for-the-badge&logo=Modrinth\"></a>\n  <a href=\"https://discord.deathmotion.com\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white\"></a>\n  <br>\n  <h2>展示视频</h2>\n  \n  [![展示视频](https://img.youtube.com/vi/CcFT5KuQoZk/maxresdefault.jpg)](https://www.youtube.com/watch?v=CcFT5KuQoZk)\n</div>\n\n## 概述\n\n马洛水晶优化器是一款通过移除客户端侧水晶显示，而无需等待服务器端移除水晶，从而优化末影水晶使用处理的模组。当您处于较高延迟（高 ping）环境时，此功能尤其有用。\n\n## 目录\n\n- [概述](#overview)\n- [支持平台与版本](#supported-platforms--versions)\n- [许可证](#license)\n\n## 支持平台与版本\n\n| 平台   | 支持版本         |\n|--------|------------------|\n| Fabric | 1.19 - 26.2      |\n\n## 许可证\n\n本项目采用 [MIT 许可证](LICENSE) 授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

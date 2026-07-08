@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MIZe3l5iALY=",
+  "content": "<p>這個模組允許玩家複製在世界探索時發現的陶器碎片。複製碎片的配方類似於原版複製鍛造模板的配方，但使用的材料經過調整，更符合陶器碎片的特性。</p><p>&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/660/955/sherd_duplication.png\"></p><p>&nbsp;</p><h2>常見問題</h2><p><strong>如何複製陶器碎片？<br></strong>碎片的複製方式與原版中玩家複製鍛造模板的合成配方類似。配方為：中央放置陶土方塊，上方放置欲複製的碎片，其餘空格全部填滿磚塊。此配方會消耗原始碎片，但會返還四個相同設計的碎片。</p><p><strong>此模組是否僅需安裝在伺服器端？</strong><br>為獲得最佳體驗，建議在客戶端和伺服器端同時安裝此模組，但僅伺服器端為必需。若伺服器安裝此模組，所有客戶端（包括原版）仍可連接並使用這些配方。</p><p><strong>模組新增的碎片能否被複製？<br></strong>可以，在 Minecraft 1.21.1 及以上版本中，所有碎片物品皆可複製（前提是模組已正確標記其物品）。在舊版本中，僅支援複製來自「生態革新」、「更多陶器碎片」、「更多尾巴更多故事」、「我的碎片」、「生成」、「軌跡與傳說增強版」模組的碎片。</p><p><strong>能否禁止特定碎片被複製？<br></strong>可以，在 Minecraft 1.21.1 及更新版本中，可將碎片加入 sherdduplication:cant_duplicate 標籤來禁止此模組為該碎片生成配方。若模組設計的碎片具有限量特性或特殊價值，模組作者應使用此標籤。例如「鍍金碎片模組」的碎片無法透過此模組複製，因配方不應允許複製黃金成分。</p><p>&nbsp;</p><p><img src=\"https://wsrv.nl/?url=https://assets.blamejared.com/nodecraft/darkhax.jpg\" alt=\"Nodecraft 贊助標誌\" width=\"1080\" height=\"40\">本專案由 Nodecraft 贊助。使用優惠碼 <a href=\"https://legacy.curseforge.com/linkout?remoteUrl=https://nodecraft.com/r/darkhax\" rel=\"nofollow\">DARKHAX</a> 即可享首月服務 30% 折扣！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

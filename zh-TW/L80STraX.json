@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0A5TxSyObOc=",
+  "content": "# 金屬翅膀\n伺服器端、與原版相容的裝甲鞘翅\n\n如同 Vanilla Tweaks 的裝甲鞘翅，適用於 1.20.6、1.21(.1) 及 1.21.4 版本\n\n## 使用方式\n您可以在鐵砧中將鞘翅與胸甲結合，請確保將胸甲放在左側欄位。\n![結合鞘翅與胸甲](https://cdn.modrinth.com/data/cached_images/d9284b7db58fb458168daafdda5a88b1bef7e647.png)\n\n之後您可以將它們放入砂輪中進行分離。\n![分離裝甲鞘翅](https://cdn.modrinth.com/data/cached_images/fcd6d0f40ca1ee7ca837ba79a2956b8790e273ed.png)\n\n此模組在僅伺服器端運作良好，且在客戶端安裝時，會在玩家與盔甲架上同時渲染鞘翅與胸甲。\n\n## Vanilla Tweaks\n此模組支援 Vanilla Tweaks 的裝甲鞘翅格式，這意味著若伺服器使用了該資料包，當客戶端安裝此模組時，將會同時渲染胸甲與鞘翅。\n\n它也能使用 Vanilla Tweaks 的格式儲存裝甲鞘翅（此為預設設定）。\n\n請注意，使用模組化的胸甲或鞘翅時，Vanilla Tweaks 可能會出現異常行為，且在更新後可能導致相容性問題或功能異常。\n\n## 儲存格式\n您可以使用以下指令變更裝甲鞘翅的儲存格式：\n`/metalwings storageMode [CUSTOM_DATA|BUNDLE_CONTENTS]`\n\n您需要處於單人世界或擁有管理員權限才能使用此指令。\n從 1.0.0 版本升級時，建議將儲存格式更改為自訂資料格式。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

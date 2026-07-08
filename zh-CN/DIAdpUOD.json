@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FbpSMLnBzVw=",
+  "content": "![VTXS](https://cdn.modrinth.com/data/cached_images/c05f89e29f7fe27d7e4917ca90e55d2c8788c43f_0.webp)\n\nVTXS项目诞生于挑战现代图形技术中普遍采用TAA（时间抗锯齿）和升频处理的趋势。其核心理念是：无论摄像机移动速度如何，画面始终保持绝对锐利。\n\n## 屏幕空间演示\n本着色器引入了专为VTXS研发的照明系统。\n\n屏幕上每个可见的自发光像素都能实时照亮场景并投射动态阴影。\n噪点控制达到实时游戏可接受水平，无需降噪处理即可流畅运行。当然，仍提供可选降噪器作为补充功能。\n\n![效果截图](https://cdn.modrinth.com/data/cached_images/7d4cabf94e6ba0c834d6d02cbdeff59b88ea1aad.jpeg)\n\n虽为演示版本，本着色器完全具备实战可用性，所有保障完整游戏体验的必要功能均已规划实现。\n\n### 已实现功能\n- 屏幕空间路径追踪\n- 物理拟真大气系统\n- 全粗糙度范围的镜面反射\n- 体积云模拟\n- 上帝之光（体积光）\n- 次表面散射\n- 可变半影阴影\n- 泛光效果\n- 人眼自适应\n- 屏幕空间光线追踪折射\n- GBAA抗锯齿技术\n\n特别感谢[jbritain](https://modrinth.com/user/jbritain)为VTXS开发体积云系统！\n\n强烈建议搭配PBR材质包使用，因内置PBR系统功能较为基础。\n\n现已支持英特尔显卡运行，但可能仍存在兼容性问题。如遇异常请通过[Discord服务器](https://discord.gg/5zg5XuhCBk)反馈。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fEmTpdf5vsk=",
+  "content": "为[天境](https://modrinth.com/mod/aether)添加更多[匠魂](https://modrinth.com/mod/tinkers-construct)冶炼炉配方\n\n- 锁链手套可熔炼为价值1锭3粒的熔融铁（120mb，为锁链靴子产出的一半）\n- 铁手套可熔炼为价值2锭的熔融铁（180mb）\n- 金手套可熔炼为价值2锭的熔融金（180mb）\n- 钻石手套可熔炼为价值2颗宝石的熔融钻石（200mb，需要炽热之血）\n- 下界合金手套可熔炼为价值1锭的熔融下界合金（90mb，需要炽热之血）\n\n由于匠魂非常酷炫且所有内容都采用数据包编码，受损物品会自动按比例产出更少的金属。\n\n专为Forge 1.20.1制作，但根据各版本的结构差异，可能也适用于其他版本。\n\n本项目基于MIT许可证开放，欢迎将其纳入您的整合包！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "K1xGcRt+G7c=",
+  "content": "禁用 Minecraft 1.18 版本 [(快照 21w38a)](https://www.minecraft.net/en-us/article/minecraft-snapshot-21w38a#main-content) 中引入的使用資料收集功能（即遙測功能）。\n\n該功能先前曾以 [Snooper](https://minecraft.wiki/w/Snooper) 的形式存在於 Minecraft 1.3.1 至 1.12 版本中，但因不符合歐盟《一般資料保護規範》（GDPR）而在 1.13 版本 [(快照 18w21a)](https://bugs.mojang.com/browse/MC-130179) 中被移除。\n\n1.18 版本重新加入了此功能。你可能會期待它以更合規的方式實現……然而，根據我對 GDPR 的理解，這次的實作甚至比原先的 Snooper 更不符合規範。  \n與先前至少採用匿名/假名化的方式（至少在 Snooper 畫面中的 ID 與我的使用者 ID 不符）不同，現在它以明文傳送 XUID（你的 Xbox 使用者 ID）……這意味著這些資料可以追溯至你的使用者帳戶。\n\n現在，當載入單人世界或連線至多人伺服器時，會傳送以下資料：\n\n* 啟動器識別碼\n* 使用者識別碼/XUID（**此資訊可用於識別你的身份**）\n* 客戶端工作階段 ID（重啟時變更）\n* 世界工作階段 ID（每次載入世界時變更，後續事件會重複使用）\n* 遊戲版本\n* 作業系統名稱與版本\n* Java 執行環境版本\n* 客戶端或伺服器是否安裝模組（與崩潰記錄中的資訊相同）\n* 伺服器類型（單人、Realms 或其他）\n* 遊戲模式\n\n此次 [Mojang 並未提供開關選項](https://bugs.mojang.com/browse/MC-237493) 讓有需要的使用者關閉此功能，因此本模組透過完全禁用遙測功能來解決此問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

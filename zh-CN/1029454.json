@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RtkOMJmZ16s=",
+  "content": "<h3>修复 Minecraft 中多个内存泄漏的模组，包括服务器端和客户端</h3><p>为了获得最佳性能和内存使用，我建议将此模组与以下模组一起使用：</p><ul>\n<li><a href=\"https://github.com/astei/lazydfu\" rel=\"nofollow\">lazydfu</a>&nbsp;- 通过不在需要时加载 DFU 来加快启动速度，同时节省内存</li>\n<li><a href=\"https://github.com/CaffeineMC/lithium-fabric\" rel=\"nofollow\">lithium-fabric</a>&nbsp;- 最佳的综合性能模组</li>\n<li><a href=\"https://github.com/PaperMC/Starlight\" rel=\"nofollow\">starlight</a>&nbsp;- 重写光照引擎以实现极速</li>\n</ul><h2>我的其他优化/修复</h2><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/moreculling\" rel=\"nofollow\">MoreCulling</a>&nbsp;- 改变剔除处理方式以提高性能</li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/carpet-fixes\" rel=\"nofollow\">Carpet-Fixes</a>&nbsp;- 最大的服务器端错误修复模组</li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/blanket\" rel=\"nofollow\">Blanket</a>&nbsp;- 客户端调整/修复</li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/fxs-rail-optimization\" rel=\"nofollow\">RailOptimization</a>&nbsp;- 减少动力铁轨的卡顿</li>\n</ul><h2>更多信息</h2><p>欢迎为项目做出贡献！<br>我也同意将此模组用于你的整合包中，只需确保提及它即可。</p><p>但是，我不允许客户端或其他项目未经许可合并此模组，如果你想在客户端或其他项目中使用此模组，请与我联系。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

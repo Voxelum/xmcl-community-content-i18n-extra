@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+MiiBzsm580=",
+  "content": "<h1>Ultimine 回溯</h1><p>为 FTB Ultimine 添加撤销/回溯功能。连锁挖矿时操作失误？按下 <strong>Ctrl+Z</strong> 即可恢复被挖的方块！</p><h2>功能特性</h2><ul>\n<li>🔄 <strong>挖矿撤销</strong> - 按 Ctrl+Z 打开方块恢复界面</li>\n<li>📦 <strong>材料系统</strong> - 提供对应方块材料以恢复挖掘记录</li>\n<li>✨ <strong>创造模式</strong> - 创造模式下无需消耗材料</li>\n<li>🔁 <strong>部分恢复</strong> - 根据现有材料恢复最大数量方块，可通过 Ctrl+Z 继续补充恢复</li>\n<li>🌍 <strong>多人安全</strong> - 适配服务器环境，内置防复制保护机制</li>\n<li>🎨 <strong>原版风格界面</strong> - 采用原生箱子交互界面</li>\n</ul><h2>使用指南</h2><ol>\n<li>使用 <strong>FTB Ultimine</strong> 进行连锁挖矿</li>\n<li><strong>按下 Ctrl+Z</strong> 打开恢复菜单</li>\n<li><strong>放入材料</strong>至容器（需与被挖方块相同）</li>\n<li><strong>点击\"恢复方块\"</strong>完成撤销操作</li>\n</ol><h3>部分恢复说明</h3><p>材料不足？完全没问题！</p><ul>\n<li>模组会根据现有材料恢复最大数量的方块</li>\n<li>未恢复的方块将保留在记录中</li>\n<li>准备更多材料后再次按下 Ctrl+Z 即可继续恢复</li>\n</ul><h2>运行要求</h2><ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge 47.0+</li>\n<li><strong>FTB Ultimine</strong>（必需前置）</li>\n</ul><h2>注意事项</h2><ul>\n<li>方块实体（箱子、熔炉等）将恢复为空状态以防止物品复制</li>\n<li>挖掘记录保存时间为 10 分钟</li>\n<li>仅支持撤销最近一次的连锁挖矿操作</li>\n<li>同时支持单人与多人游戏模式</li>\n</ul><h2>开源协议</h2><p>GNU LGPL 3.0</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

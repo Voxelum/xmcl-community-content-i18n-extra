@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fbMu/ztXj0Y=",
+  "content": "# 隨機掉落模組\n當你破壞方塊時，掉落物將會隨機生成。就是這麼簡單。\n\n## 更新資訊\n舊版模組已全面重製。現在你可以按下 K 鍵開啟管理器，選擇模組的運作模式。你也可以透過停用模組狀態來關閉此功能。\n\n### 持久模式：\n每個你破壞的方塊都會綁定一個物品。例如，當你破壞第一個草方塊時掉落鑽石，那麼在這個世界中，所有草方塊都會掉落鑽石。\n\n### 每個方塊隨機模式：\n每個你破壞的方塊都會獨立隨機生成掉落物。例如，第一個草方塊可能掉落鑽石，第二個則可能掉落橡木木材。\n\n感謝超過 25,000 次下載 :=)\n\n## 協助\n如果你知道如何修復問題、對這個模組有任何想法，或只是想幫助我改善使用者體驗，歡迎透過 GitHub 等方式提供協助。\n\n### Forge 版本\n[https://github.com/BaGaJa004/Random-Drops-Mod/issues](https://github.com/BaGaJa004/Random-Drops-Mod/issues)\n### Fabric 版本\n[https://github.com/BaGaJa004/Random-Drops-Fabric/issues](https://github.com/BaGaJa004/Random-Drops-Fabric/issues)\n\n**祝您遊戲愉快**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

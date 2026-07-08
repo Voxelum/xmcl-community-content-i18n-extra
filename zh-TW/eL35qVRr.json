@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9STxaqBIEOg=",
+  "content": "### 升級吧  \n是一款技能資料包。透過遊玩來提升你的技能等級。  \n\n使用 `/trigger Dashboard` 查看你的技能  \n使用 `/trigger Settings` 查看管理面板，啟用/停用技能或重置進度  \n\n**現在已支援進度成就 :)**\n\n#### 技能\n- 玩家（玩家等級相當於所有其他等級的總和）  \n    - 每5級獲得2顆額外心臟，最多可達完整第二行\n- 行走（基於行走距離）（3級）  \n    - 第1級需要行走12,000個方塊  \n- 衝刺（基於衝刺距離）（3級）  \n    - 第1級需要衝刺15,000個方塊  \n- 跳躍（跳躍次數）（3級）  \n    - 第1級需要跳躍2,000次  \n- 游泳（游泳距離）（2級）  \n    - 第1級需要在水中游泳100,000個方塊（雖然很多，但達到後可獲得海豚的恩惠）  \n- 潛水（在水下時間）（6級）  \n    - 第1級需要在水下待15分鐘  \n- 採礦（挖掘的方塊［礦石與石頭類方塊］）（3級）  \n    - 第1級需要挖掘2,000個方塊  \n- 戰鬥（里程碑，例如擊殺Boss或擊殺特定數量的某種生物）（22級）  \n    - 擊敗凋靈/終界龍/獄卒獸可獲得一級  \n    - 擊殺100隻烈焰使者可獲得一級  \n    - 擊殺特定數量的其他生物  \n\n並非所有技能都會給予永久效果。例如，衝刺會週期性地給予一些飽食度。\n\n\n#### 修改需求（測試版）\n> 若要修改技能的需求，請使用  \n> /scoreboard players set `技能名稱`_`等級` lvl_Requirements `數值`  \n>\n> 範例：    \"/scoreboard players set Jumping_1 lvl_Requirements 1000\"  \n\n\n#### 其他下載位置：\n- Planet Minecraft https://www.planetminecraft.com/data-pack/level-up-5542359/  \n- CurseForge https://www.curseforge.com/minecraft/texture-packs/level-up/files  \n\n#### 即將推出的技能\n- 也許釣魚 ㄟ( ▔, ▔ )ㄏ  \n- 歡迎在Planet Minecraft留言提供建議 <3",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

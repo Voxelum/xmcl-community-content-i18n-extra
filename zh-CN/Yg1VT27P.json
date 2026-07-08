@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XUnimdcHsYI=",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/8df0e44a438a0e43db50b2d8ec2f7c2134ce5739_0.webp)\n\nSodium Options Mod Compat 为没有 Sodium 视频设置的各种模组添加了这些设置。\n\n目前，以下模组具有兼容性：\n- Entity Texture Features\n- Entity Model Features\n- DynamicFPS\n- Continuity（在 Fabric 上原生支持，通过 Connector 在 Forge 上支持）\n\n此模组部分是 EmbeddiumUI 的移植，增加了模组支持，并移植为使用跨平台的 Sodium Options API，以支持以下版本：\n- Embeddium on Forge\n- Fabric Sodium 0.5 on 1.20.1\n- Fabric/NeoForge Sodium 0.6 on 1.21.1\n\n![demo](https://cdn.modrinth.com/data/cached_images/b45f2a2af6ae084d41f6543689dc71d41eaf97af_0.webp)\n\n如果您有关于渲染相关模组的建议，希望将其添加到 Sodium 视频设置中，请提交一个 [Github Issue](https://github.com/txnimc/SodiumOptionsModCompat/issues) 以请求新功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

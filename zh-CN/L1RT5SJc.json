@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zVzN+airk8k=",
+  "content": "## 概述\n添加了带有Create Mod护目镜功能和原版盔甲属性的头盔。如果你想穿着全套下界合金盔甲，但又想看到护目镜的统计数据或使用你的背罐，这就是为你准备的模组！\n\n仅从1.18+版本开始支持工具提示信息！\n\n**现在支持Forge和Fabric**\n\n## 配方\n\n### 无序合成\n**原版/Create头盔 + 护目镜 -> 护目镜头盔**\n\n要移除护目镜，只需**在破碎机中粉碎头盔**（附魔将会丢失）\n\n### 锻造\n**任何头盔 + 护目镜 -> 相同的头盔**，但附带NBT数据，使其作为护目镜头盔工作\n\n要移除它，**将升级后的头盔与** *修饰符移除器*（用黄铜制作，类似剪刀）在锻造台上组合\n\n## 模组兼容性：\n- Create（必需）：\n    - 功能：\n        - 护目镜头盔\n        - 装甲背罐\n        - 工具提示\n- Architectury（必需）\n- JEI推荐但非必需\n- Curios支持（非必需）：（仅Forge）\n    - 功能：\n        - 添加护目镜槽（仅限0.5.0以下版本）\n        - 添加背罐支持（0.5.4+）\n- Mekanism支持（非必需）：（仅Forge）\n    - 功能：\n        - 护目镜单元（0.5.1+）\n\n## \n\n鸣谢：[Furti_Two](https://www.curseforge.com/members/furti_two)（Logo）\n\n如果你想为自己的模组制作自己的护目镜头盔，请查看[github](https://github.com/Robocraft999/CreatePlus)页面以获取更多信息\n\n## 不再支持Minecraft 1.14、1.16和1.18",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

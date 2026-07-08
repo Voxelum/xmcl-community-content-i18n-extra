@@ -1,0 +1,6 @@
+{
+  "bodyHash": "831oL/j8knw=",
+  "content": "专为我即将推出的整合包 `A Distant Journey` 而制作。\n\n我之前遇到了 [Alloy Forgery](https://www.curseforge.com/minecraft/mc-mods/alloy-forgery) 模组的问题：在使用 [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector) 时，我无法覆盖内置的合金熔炉及其属性。我不得不通过 [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) 使用一些 Java 反射技巧来注册它们，但以这种方式注册的熔炉并不会显示在 EMI 的合金锻造配方类别中。本模组将 AF 类别替换为一个自定义类别，该类别会将标签 `#adj:alloy_forge` 中的所有物品添加为工作台。\n\n本模组为 Fabric 制作，但应通过 Sinytra Connector 运行。\n\n**请不要在你的整合包中使用它。这个模组是为了修复我整合包中因特殊处理方式而出现的问题而制作的。**  \n如果你确实也需要它，那当然可以用，但对于那些不涉及奇怪操作的一般整合包来说，**这个模组毫无用处。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

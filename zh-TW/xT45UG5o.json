@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PmVncF+CPSY=",
+  "content": "# PolyBlur\n\n<img src=\"https://wsrv.nl/?url=https%3A%2F%2Fpolyfrost.org%2Fimg%2Fcompact_vector.svg&n=-1&w=1000\" width=56 /> ![開發工作流程狀態](https://img.shields.io/github/v/release/Polyfrost/PolyBlur.svg?style=for-the-badge&color=1452cc&label=release)\n\n### 以超多種方式為你的模組添加動態模糊效果。\n\n可自訂選項：\n- 是否在使用模糊效果時強制停用 OptiFine 的快速渲染功能\n- 模糊類型\n  - 共有三種模糊類型：\n  - 猴子模糊 - 基於 BSL / NVIDIA 模糊著色器的模糊效果\n  - 磷光模糊 - 使用 Minecraft「磷光」著色器的修改版本，類似於 Lunar / BLC 的模糊效果（預設）\n  - Moulberry 模糊 - 透過不同方法達到類似磷光模糊的效果，最初由 Moulberry 製作\n- 模糊強度",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

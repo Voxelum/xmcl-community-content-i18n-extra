@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3yIvktChfiI=",
+  "content": "<h1>千界万锻</h1><p>拔刀剑、Tetra、多维度、空岛、冒险整合包！</p><p>目前暂不支持英文，我们将在正式版发布后尽快提供英文支持。</p><h2>重要</h2><p>必须使用非Microsoft的JDK21。</p>\n<p>&nbsp;</p>\n<h1>千界万锻</h1>\n<p>拔刀剑、Tetra、多维度、空岛、冒险整合包！</p>\n<p>&nbsp;</p>\n<p><span style=\"color:#ba372a\">警告：当前整合包处于beta测试阶段，可能会有许多的bug以及不完整的设置（特别是任务）</span></p>\n<p>&nbsp;</p>\n<h2>重要</h2>\n<p><strong>必须使用非Microsoft的JDK21启动</strong>，其它版本不能保证正常的游玩体验。</p>\n<p>如果有卡顿，可以使用以下JVM参数：</p>\n<p style=\"text-indent:0px\"><code>-XX:+UseZGC -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+PerfDisableSharedMem</code></p>\n<p>&nbsp;</p>\n<h2>特色</h2>\n<ul>\n<li>多维度冒险：除了一些冒险整合包常见的维度以外，我们还制作了许多独特的特供维度！</li>\n<li>常见内容修改：如果你是一位游玩了许多冒险类整合包的玩家，像暮色森林这样的模组你可能已经通关几十次了。我们在不同程度上修改了这些维度的内容，并调整了BOSS的招式，以确保老玩家也能体验到新鲜感！</li>\n<li>独一无二的战斗配置：拔刀剑不再无脑！你需要在恰当的时机使用恰当的招式，才能获取最大收益！</li>\n<li>深度养成：精炼刀剑、改变材料、附魔、强化词条、设计配装、饰品。我们设计了多纬度的深度养成系统，可以让你不断地突破自己的极限！</li>\n<li>多维度发展：强化自身的方式绝不唯一！不论是战斗，探索，挖矿，还是在家里制作机器，都可以以不同的方式提升你的战斗力！</li>\n<li>性能：从帧数到TPS，我们都进行了极致的优化！</li>\n<li>服务器：不论是多人单队，还是多人多队，本整合包都能完美支持！</li>\n</ul>\n<h2>当前进度</h2>\n<ul>\n<li>大约85%</li>\n<li>TBD</li>\n</ul>\n<h2>DLC</h2>\n<ul>\n<li>DLC系统正在设计中！</li>\n<li>将会提供一套完整的框架，方便创作者和玩家使用！</li>\n<li>TBD</li>\n</ul>\n<h2>特别感谢</h2>\n<ul>\n<li>千界万锻制作团队</li>\n<li>千界万锻内部测试玩家</li>\n<li>TBD</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

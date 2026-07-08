@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mcsw4TBnOak=",
+  "content": "[![Bisect Hosting 橫幅](https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp \"Bisect Hosting Banner\")](https://bisecthosting.com/fzzyhmstrs)\n\n![EMI 戰利品物品欄畫面](https://i.imgur.com/Jaf6bFD.png)\n\n![物品欄畫面顯示大量掉落物，按百分比濃縮成列表，每個列表顯示該百分比類別中的物品。](https://i.imgur.com/0ew58PW.png)\n\n### EMI 戰利品\n\nEMI 戰利品是 [EMI 配方與物品瀏覽器](https://modrinth.com/mod/emi) 的一個插件，可用於顯示儲物箱、方塊和生物的戰利品表。\n\n*EMI 戰利品目前處於測試階段！隨著開發持續進行，功能可能會有所變動與新增。*\n\n*所有功勞歸於 EmilyPloszaj 創作了 EMI 本體。這只是一個插件。*\n\n<p><span style=\"font-size:14px;display:table\"> <span> <a href=\"https://discord.gg/Fnw2UbE72x\" rel=\"nofollow\"><img style=\"display:inline;margin-left:auto;margin-right:auto\" src=\"https://i.imgur.com/iXATO6K.png\" width=\"265\" height=\"122\"></a> </span> </span> </p>\n\n#### Wiki\n\n如需了解 EMI 戰利品中資料驅動系統的使用指南，請參閱 [Wiki](https://github.com/fzzyhmstrs/EMI_loot/wiki)\n\n#### 主要功能\n\n- 儲物箱戰利品按百分比排序，並包含由模組新增至戰利品表中的掉落物。\n- 如果某個儲物箱的戰利品選項過多無法全部顯示在畫面中，EMI 戰利品會將輸出濃縮為按相同百分比堆疊的物品清單。將滑鼠懸停在特定百分比清單上，即可查看在該機率下可能獲得的物品堆疊。\n- 顯示的堆疊數量代表每次能獲得的平均物品數量（在計算機率之前）。\n- 已新增方塊掉落物。這些檢視畫面會顯示各種可獲得的掉落物，並根據獲得該掉落物所需的特定條件（如絲綢之觸、剪刀等）分類。\n- 已新增生物掉落物。根據獲取條件（例如僅在生物著火時、附有掠奪時額外掉落等）分類顯示可獲得的掉落物。\n\n#### 即將推出的功能\n- 實作基於資源包的系統，用於定義自訂條件及其解析方式。\n- 新增釣魚及其他遊戲內戰利品。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

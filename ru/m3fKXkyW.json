@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cElcrt9LEjo=",
+  "content": "# ПРИМЕЧАНИЕ: ЭТОТ МОД БУДЕТ УСТАРЕВШИМ ПОСЛЕ ВЫХОДА IPSABLE И НЕПРИМЕНИМ К SABLE 2.0\nСсылка на IPSable: https://github.com/r2smith141/IPSable\n\nМод для (базового уровня) совместимости между Immersive Portals и Sable. Особая благодарность [Bunting chj](https://modrinth.com/user/Bunting_chj) за (большую часть) кода. Подарите ему кофе: https://buymeacoffee.com/chj990707\n\n### Известные ошибки и проблемы:\n- Физические объекты Sable могут иметь визуальные артефакты позади порталов\n- Редко миры могут застревать на экране сохранения при выходе с двумя порталами и физическим объектом Sable в одном и том же чанке. _(Мир всё равно сохраняется)_\n- **Физические объекты Sable не могут проходить через порталы**\n\nПожалуйста, сообщайте о любых проблемах в [github](https://github.com/rebbyIf/ImmersivePortalSableBridge/issues)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

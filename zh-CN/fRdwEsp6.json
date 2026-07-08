@@ -1,0 +1,6 @@
+{
+  "bodyHash": "huv5xu8y+GI=",
+  "content": "# Ars 统一化\n\n让 Ars Nouveau 能够使用其他模组的配方。\n\n目前，该模组将获取“粉碎”和“切割”类型的配方，并让相应的符文使用它们。\n\n如果安装了 [Not Enough Glyphs](https://www.curseforge.com/minecraft/mc-mods/not-enough-glyphs)，  \n其“压平”符文也将获得处理“压制”类型配方的能力。\n\n我**不会**添加多向配方窃取功能。\n\n专门为 Ars Nouveau 制作的配方将始终优先于其他模组的配方。\n\n其他模组的配方优先级可以在通用配置文件中进行配置。  \n还可以通过在配置中添加匹配的正则表达式来禁用特定配方的获取。  \n您可以使用 [EMI](https://modrinth.com/mod/emi) 获取配方的 ID。\n\n强烈推荐使用 [Almost Unified](https://modrinth.com/mod/almost-unified)，尽管它不是模组运行的必要条件，但它可以减少功能重复的配方。\n\n支持的模组：  \n- [Actually Additions](https://modrinth.com/mod/actually-additions)（粉碎机）  \n- [Ender IO](https://modrinth.com/mod/enderio)（SAG 磨粉机）  \n- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)（切菜板）  \n- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering)（粉碎机、锯木厂）  \n- [Integrated Dynamics](https://modrinth.com/mod/integrated-dynamics)（挤压机/机械挤压机）  \n- [Mekanism](https://modrinth.com/mod/mekanism)（粉碎机、锯木厂）  \n- [Modern Industrialization](https://modrinth.com/mod/modern-industrialization)（粉碎机、切割机、压缩机）  \n- [Occultism](https://modrinth.com/mod/occultism)（粉碎灵魂）\n\n徽标修改自 Ars Nouveau 的“粉碎”符文纹理，可在[此处](https://github.com/baileyholl/Ars-Nouveau/blob/main/src/main/resources/assets/ars_nouveau/textures/item/crush.png)找到。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

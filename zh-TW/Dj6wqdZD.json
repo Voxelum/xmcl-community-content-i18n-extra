@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SZIAt2WQR9Y=",
+  "content": "## 這是什麼？\n這個資源包會顯示 Minecraft 中每件盔甲的**耐久度數值**。包括皮革、銅、鎖鏈、鐵、黃金、鑽石和下界合金盔甲。連海龜殼頭盔也包含在內，哈哈。\n\n![圖片顯示所有帶有耐久度的盔甲類型](https://cdn.modrinth.com/data/cached_images/1007cf01e3af0c7ec237f0901f9f8e13d5595526.png)\n\n## 如何運作？\n### 選項 1 – 僅適用於 Fabric 使用者 1.21.4+\n**需求**：[Variants Cit 模組](https://modrinth.com/mod/variants-cit)\n\n1. 將 Variants Cit 安裝到你的模組資料夾中。\n\n2. 將資源包放入你的資源包資料夾並啟用它。\n\n### 選項 2 – 適用於 Forge 及 1.21.4 以下的舊版本\n\n我為舊版 Minecraft 製作了一個資源包，其中包含類似的帶有數字的盔甲耐久度。\n- 去看看吧：https://modrinth.com/resourcepack/nevernaked。\n\n## 已回報的錯誤\n- 在 Forge 上無法運作\n\n## 允許在伺服器上使用嗎？\n我？違反規則？從來沒有 😇 …但是呃，也許還是和管理員確認一下以防萬一 👀\n\n## 我使用的是 Fabric 還是 Forge？\n\nPvP 客戶端\n- 幾乎所有流行的 PvP 客戶端（Lunar、Badlion、Feather、LabyMod 等）都是基於 Fabric 的\n\n啟動器設定檔\n- 顯示 Fabric → Fabric\n- 顯示 Forge → Forge\n\n模組資料夾\n- fabric-api → Fabric\n- forge / neoforge 模組 → Forge\n\n## 需要幫助嗎？\n你想問些什麼或需要幫助嗎？在 Discord 上聯繫我，我會登入 Minecraft 來幫助你。我人很好，不會咬人的。\n\nDiscord：IDreamAboutYou2\n\nMedaltv：https://medal.tv/u/IDreamAboutYou\n\n## 支持\n\n☕ 為了讓我能保持清醒，繼續製作酷炫的東西。請我喝杯咖啡：https://coff.ee/idreamaboutyou",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

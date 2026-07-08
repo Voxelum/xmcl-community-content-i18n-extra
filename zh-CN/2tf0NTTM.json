@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JnjUwaIXP/g=",
+  "content": "**Placement+** 是一个 Forge 模组，它移除了按住右键放置方块时的放置延迟。该模组基于 [Accurate Block Placement Reforged](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforged) 制作，但没有加入基岩化特性（因为 Quark 模组已经包含了该功能）。同时，它重新加入了类似原版 Fabric 版本中开关模组的功能。\n\n模组禁用时：\n![模组禁用](https://i.imgur.com/mXtQ8qM.gif)\n\n模组启用时：\n![模组启用](https://i.imgur.com/3clt4LI.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

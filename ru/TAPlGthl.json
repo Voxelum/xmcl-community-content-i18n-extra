@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dU6erUNwx7A=",
+  "content": "# В НАСТОЯЩЕМ СОСТОЯНИИ ЭТА МОДА ЛОМАЕТ ПОРТАЛЫ В АД. ИСПРАВЛЕНИЕ НЕ ПЛАНИРУЕТСЯ.\n\nЭтот мод позволяет поездам из мода Create перемещаться между порталами, созданными с помощью API Custom Portal. \n\nТочно так же, как и в Аду, установка рельса перед порталом соединит вход и выход. \n\nЭтот мод станет отличным решением для тех, кто пытается обеспечить совместимость мода Create с модами, добавляющими новые измерения и использующими API Custom Portal, или для тех, кто хочет создать версию существующего портала с использованием API Custom Portal, в которую не могут заехать поезда Create (например, в Конечный мир или Лес Сумерек).\n\nВсё это основано на моде [TheRobbie72's Create Trains and Custom Portal API Integration для 1.18.2](https://www.curseforge.com/minecraft/mc-mods/create-trains-and-custom-portal-api-integration), поэтому огромная благодарность разработчику! \n\n![Поезд Create въезжает в Лес Сумерек через портал CustomPortalAPI](https://fileserver.gloobert.net/public/input.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

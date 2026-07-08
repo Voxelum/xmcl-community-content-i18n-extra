@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UnPfCHfdTTA=",
+  "content": "![](https://cdn.modrinth.com/data/jhHNjn7K/images/38685788e23cc9ba5911e5bf593533254fca1d2d.png)\n\n### **輕量級API，輕鬆管理您的設定檔**\n<br/>\n\n立即查看[\"入門指南\"](https://github.com/Infinituum17/FastConfigAPI/wiki/Getting-Started)頁面開始使用。\n\n## 運作原理\n\n本模組讓您能輕鬆*載入*、_管理_和_刪除_運行時的設定檔。<br/>\n\n本模組的宗旨是提供一個簡單易懂的API，\n讓您能快速開始建立設定檔，並保持平台獨立性，\n因此您可以在所有喜歡的模組加載器上使用它。\n\n查看[維基](https://github.com/Infinituum17/FastConfigAPI/wiki/Getting-Started)開始使用。\n\n## 其他資源\n\n本模組使用[Void Lib](https://modrinth.com/mod/void-lib)，\n如果您正在使用[Fabric](https://fabricmc.net/)，並且有興趣透過註解在您的模組中整合一些進階功能，\n您應該查看它。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

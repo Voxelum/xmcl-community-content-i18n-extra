@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Fzmjyeztt2I=",
+  "content": "這是一個相容性模組，作為兩個模組之間的橋樑：[Tensura: Reincarnated](https://modrinth.com/mod/tensura-reincarnated) 和 [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)。\n\n**功能**\n- 讓 Iron's Spell & Spellbooks 的魔法消耗 Tensura 的魔素，而非其原本的魔力（預設：50倍，可調整）。\n- 讓 Iron's Spell & Spellbooks 的魔法造成更高傷害，以配合 TR 的高傷害能力（預設：10倍，可調整）。\n- 讓 Iron's Spell & Spellbooks 的魔力恢復與施法時間縮減效果套用於 TR 的功能上。\n- 為 Iron's Spell & Spellbooks 的生物提供預設 EP 與能力（技能／魔法／戰鬥意志）。\n- 為 Iron's Spell & Spellbooks 的裝備提供預設 EP 與屬性進化。\n- 死亡之王掉落惡魔精華，提洛斯掉落元素精華與火焰碎片。\n- 針對 Iron's Spell & Spellbooks 的內容提供實體／物品／方塊標籤。\n\n**許可**\n\n<details>\n<summary>劇透</summary>\n您可以在模組包、影片、評論與伺服器中使用此模組。\n未經許可不得修改或分享此模組。\n未經我們知悉，不得在其他地方轉載此模組。\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

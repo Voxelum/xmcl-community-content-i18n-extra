@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PErbZtpbl+o=",
+  "content": "![標題](https://i.postimg.cc/sDfc3gPQ/minecraft-title.png)\n![基岩版搭橋圖示](https://i.postimg.cc/BnmWV4Pr/bedrock-bridging-icon.png)\n## 基岩版搭橋\n基岩版搭橋是一個將著名的基岩版搭橋機制帶到Java版的Minecraft資料包！現在你可以像在基岩版中一樣，在半空中放置方塊進行搭橋，讓快速搭橋、堆疊搭橋和高級技巧變得更容易、更快速且更有趣。\n### <ins>使用方法：</ins>\n\n- 站在一個方塊上，看向你想放置下一個方塊的位置。\n- 會出現一個細微的輪廓線，顯示方塊將被放置的位置。\n- 右鍵點擊即可將方塊精確放置在輪廓線指示的位置。\n\n\n![基岩版搭橋](https://i.postimg.cc/TwFfHGFd/bedrock-bridging.gif)\\\n### <ins>指令：</ins>\n- /function bedrock_bridging:on — 手動啟用搭橋功能。\n- /function bedrock_bridging:off — 停用搭橋功能。\n- /trigger bedrock_bridging — 無需作弊即可切換搭橋功能；僅對執行指令的玩家生效。\n\n### <ins>功能特色：</ins>\n- 簡易的開關切換功能。\n- 清晰的輪廓線，實現精確的方塊放置。\n- 在多人遊戲或單人遊戲中皆可無縫運作。\n- 支援多種搭橋風格：\n  - **衝刺搭橋 / 蝴蝶點擊：** 奔跑並使用蝴蝶點擊進行衝刺搭橋。\n  - **行走搭橋：** 在正常向前移動時放置方塊。\n  - **堆疊搭橋：** 向前移動時雙擊並跳躍，快速放置堆疊方塊。\n### <ins>常見問題：</ins>\n我能用這個進行快速搭橋嗎？\\\n雖然主要的基岩版衝刺跳躍快速搭橋技巧無法實現，但如上所述，有其他替代方法。\n\n這會影響我原本的Java版搭橋技巧嗎？\\\n完全不會！你習慣的Java版搭橋風格依然完全相同。\n\n這會降低我的FPS嗎？\\\n絕對不會！設計上盡可能輕量且高效。\n\n我可以在我的Minecraft伺服器上使用這個嗎？\\\n當然可以！在多人遊戲中可能有一些錯誤，但我已在最新版本中嘗試解決。\n\n最新版本已為多人遊戲相容性完全重寫，並包含錯誤修復，以確保伺服器上每位玩家的體驗穩定、精確且愉快，但仍可能存在錯誤。如果你遇到任何問題，回報到問題追蹤器將非常有幫助。\n\n原始碼與問題追蹤器：\\\n原始碼[在此](https://github.com/sniffercraft34/Bedrock-Bridging)，問題追蹤器[在此](https://github.com/sniffercraft34/Bedrock-Bridging/issues)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

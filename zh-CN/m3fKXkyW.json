@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cElcrt9LEjo=",
+  "content": "# 注意：此模组将随 IPSABLE 的发布而废弃，且不适用于 Sable 2.0  \nIP Sable 链接：https://github.com/r2smith141/IPSable  \n\n本模组旨在实现《Immersive Portals》与《Sable》之间的（基础级）兼容性。特别感谢 [Bunting chj](https://modrinth.com/user/Bunting_chj) 提供了（大部分）代码。请给他买杯咖啡：https://buymeacoffee.com/chj990707  \n\n### 已知错误与问题：  \n- Sable 物理对象在传送门后方可能出现视觉伪影  \n- 在同时拥有两扇传送门及一个 Sable 物理对象位于同一区块时退出游戏，极小概率下世界会卡在保存界面（但世界仍会成功保存）  \n- **Sable 物理对象无法穿越传送门**  \n\n如有任何问题，请在 [GitHub](https://github.com/rebbyIf/ImmersivePortalSableBridge/issues) 上反馈。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yujP3dfg4Hw=",
+  "content": "<details>\n\n<summary>RU</summary>\n\nЭто NoShader. И работает он довольно странным способом... Заставляет Minecraft думать, что Вы включили шейдер, хотя на самом деле это просто пустой объект. \nГрафика меняется, не сильно уменьшая FPS\n\nПожалуйста, принимайте во внимание, что шейдер основан на очень нестабильной \"механике\", реакции загрузчика на пустой файл. Я не смогу починить никаких возможных или существующих багов, так как это будет против самого смысла проекта\n\nP.S. Возможно, это самый глупый проект на Modrinth, который Вы видели за сегодня :)\n</details>\n<details open=true>\n\n<summary>EN</summary>\n\nThis is NoShader. And it works in a rather strange way... It makes Minecraft think you've enabled a shader, when in fact it's just an empty object. \nThe graphics change without reducing the FPS much.\n\nPlease take into account that the shader is based on very unstable “mechanics”, the reaction of the loader to an empty file. I will not be able to fix any possible or existing bugs, as that would be against the very point of the project\n\nP.S. This might be the dumbest project on Modrinth you've seen today :)\n</details>\n\n**Извините, если английская версия описания звучит странно — я использовал переводчик**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

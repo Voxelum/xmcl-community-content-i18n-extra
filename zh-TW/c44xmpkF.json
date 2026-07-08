@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TdVbior27cM=",
+  "content": "# 移植至 1.20.1+ 版本\n\n此為 GrondagTheBarbarian 所開發原版「真實黑暗」模組的非官方移植版本。  \n原版模組請見：[https://modrinth.com/mod/true-darkness](https://modrinth.com/mod/true-darkness)\n\n之所以進行此移植，是因為另一個適用於 Forge 1.20.1 的移植版本並非開源，否則本應採用 Mixin 方式修改而非完整移植。\n\n若您不需要生態域支援、不需要 1.20.1 以上版本，且不介意開源與否，建議選擇另一個移植版本（連結如下）。因本人對 Minecraft 模組開發經驗較淺，其版本可能更穩定：[https://modrinth.com/mod/true-darkness-forge-updated-fork](https://modrinth.com/mod/true-darkness-forge-updated-fork)\n\n未來 1.20.1 以上版本僅支援 Neoforge\n\n# 生態域支援\n\n此模組可讓您設定哪些生態域不應啟用真實黑暗效果，或反向設定僅特定生態域啟用真實黑暗。\n\n![指定不套用真實黑暗效果的生態域](https://cdn.modrinth.com/data/cached_images/074d0870735b933f8dd921403763070a9f349196.jpeg)\n\n本模組的誕生主要源於「真實黑暗」與「Alex 洞穴模組」（尤其是原始洞穴）的相容性問題——若不調整，原始洞穴會完全漆黑。您亦可將其他生態域（如繁茂洞穴）加入排除清單。\n\n# 自訂生態域\n\n只要符合 Minecraft 標準生態域命名規則，任何生態域皆可新增至設定。只需在首次開啟世界後生成的「darkness-biomes.json」中加入生態域名稱即可。\n\n設定範例：\n> {\"Biomes\":[\"minecraft:lush_caves\",\"alexscaves:primordial_caves\"]}\n\n# 問題回報\n\n若遇到任何問題，請至我的 GitHub 回報",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

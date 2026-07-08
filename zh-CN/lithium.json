@@ -1,0 +1,6 @@
+{
+  "bodyHash": "G28RNdAtSH8=",
+  "content": "Lithium 是一个现代的、通用的 Minecraft 优化模组，旨在改进多个系统（游戏物理、生物 AI、方块更新等），目标是**不改变任何原版机制**。\n\n<br>\n\n该模组**在客户端和服务器上均可运行**，并且可以在服务器上安装**而不需要客户端也安装该模组**（反之亦然）。\n\n<br>\n\n对于多人服务器，管理员可以期待显著改善的刻时间，使硬件能够支持更多的实体、区块和玩家。即使在单人游戏中，Lithium 也能通过优化内部游戏服务器来提高性能，该服务器用于“更新”世界。这可以释放计算机的处理器来专注于其他任务，从而**提高帧率和增加响应速度**。\n\n<br>\n\n严格保持与原版行为完全一致的目标使得 Lithium 适用于几乎所有运行 Fabric 的 Minecraft 服务器，甚至适用于高度复杂的玩法场景和创作。事实上，我们持续坚持不改变原版游戏玩法的做法甚至使得该模组被官方允许用于 [Minecraft 速通](https://www.speedrun.com/mc)。\n\n<br>\n\n## 安装\n\n确保你已安装最新版本的 Fabric Loader，然后将模组放入 mods 文件夹即可。不需要其他模组或额外设置（甚至不需要 Fabric API！）。你不需要创建新世界来利用该模组。\n\n<br>\n\n在此过程中，你可能还想查看 [Sodium](https://modrinth.com/mod/sodium)，它提高了渲染性能。\n\n<br>\n\n## 配置\n\nLithium 使用了一种半不寻常的配置系统，允许你启用或完全禁用模组应用的补丁。该系统允许对 Minecraft 中由 Lithium 修改的代码进行细粒度控制，因此可以用来完全消除由模组引入的错误或不兼容性。\n\n<br>\n\n更多信息，请阅读 [维基条目](https://github.com/CaffeineMC/lithium-fabric/wiki/Configuration-File) 关于修改配置文件的内容。\n\n<br>\n\n请注意：空的配置文件是*完全正常的*，这意味着你想要使用默认选项，这些选项已经开箱即用地设置为模组所能提供的最佳性能。\n\n<br>\n\n## 报告问题\n\n请使用页面顶部的链接问题跟踪器来报告错误、崩溃和其他问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

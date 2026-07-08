@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1Q5x/qhdIh0=",
+  "content": "## Описание\nЭтот мод изменяет `minecraft:brand`, который отправляется на сервер при каждом входе, на любую строку, которая вам нравится. Вы можете настроить имя бренда с помощью [Mod Menu](https://modrinth.com/mod/modmenu).\n\n## Зачем?\nПочему бы и нет?\n\n## Требования\n- [Cloth Config API](https://modrinth.com/mod/cloth-config)\n- [Mod Menu](https://modrinth.com/mod/modmenu) (необязательно)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

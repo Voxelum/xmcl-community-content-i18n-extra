@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d9ac5QFQJGY=",
+  "content": "<h2>Описание</h2><p>Небольшая настройка стрелы для прицеливания в цель.</p><h2>Как использовать</h2><p>По умолчанию все стрелы будут целяться в существа. Чтобы предотвратить наведение стрел на вас, необходимо использовать эту команду.</p><pre><code>/function auto_aiming:cheat</code></pre><p>Чтобы вернуться к прежнему поведению, нужно использовать эту команду.</p><pre><code>/function auto_aiming:no_cheat</code></pre><h2>Зависимости</h2><ul>\n<li>Загрузчик Fabric требует <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

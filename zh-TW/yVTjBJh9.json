@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VhryV1Ez8t4=",
+  "content": "# 匠魂移植  \n本模組旨在將匠魂2的內容移植到匠魂3，目前包含匠魂手裏劍與匠魂箭，並為平衡性調整與原版有些許差異。  \n\n## 匠魂手裏劍  \n![玩家手持匠魂手裏劍](https://cdn.modrinth.com/data/cached_images/d1b7a40cf6e2a0b4deda3a3f49a7624b06511c28.jpeg)  \n\n匠魂手裏劍可觸發近戰攻擊傷害修正效果。  \n![手裏劍攻擊效果](https://cdn.modrinth.com/data/cached_images/f31ae7246dfd6fdfae1782de87eaa179ec735347.jpeg)  \n\n合成方式為兩片小型刀刃與兩根工具手柄。  \n![匠魂手裏劍合成配方](https://cdn.modrinth.com/data/cached_images/d731d34cd7566f3bbbbfb4a90b6d75061bca3f45.jpeg)  \n\n## 匠魂箭  \n匠魂箭由箭頭、工具手柄與箭羽組合而成。  \n![匠魂箭合成配方](https://cdn.modrinth.com/data/cached_images/3d86384004f608712e6ea1e034188a5710855a57.jpeg)  \n\n可用任何弓弩發射，甚至徒手投擲，同樣能觸發近戰傷害修正。  \n匠魂箭結合了普通箭與三叉戟的特性。  \n\n忠誠箭矢回收強化：使箭矢能像附魔「忠誠」的三叉戟般自動返回。  \n![忠誠箭矢回收效果](https://cdn.modrinth.com/data/cached_images/46774243f384440f2786cb8d10757cdc1b764447.jpeg)  \n\n匠魂箭裝填強化：加裝至匠魂弓弩後，射擊時將消耗箭矢耐久度而非整組箭矢數量。  \n![匠魂箭裝填機制](https://cdn.modrinth.com/data/cached_images/45aec9153f49a63a37dc894ecf9d3902c5822d21.jpeg)  \n\n如魚得水強化：使匠魂箭在水中飛行時不受水流阻力影響，如同三叉戟。  \n![水中無阻效果](https://cdn.modrinth.com/data/cached_images/8ca5b60b4eb99e70d278f8cd06f2577edad7b631.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t2c9DtxRb38=",
+  "content": "# **Это мод [Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom)!**\n\nФорк оригинальной библиотеки [CodeChickenLib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)\n\nСодержит различные библиотеки для 3D-математики и преобразований, рендеринга, сетевой связи, конфигураций и многого другого.\n\nИзменения:\n- Старая версия CCL будет крашиться в среде разработки, отличной от FG2, из-за чего запуск `runClient` становится невозможным. В этом форке эта проблема устранена.\n- Исправлен краш при запуске с использованием Cleanroom.\n- Добавлена опция отключения функции поддержки, так как серверный JSON теперь недействителен.\n- Планируется перенести некоторые API в Cleanroom, а затем сделать CCL своего рода обёрткой.\n\nMaven: https://repo.cleanroommc.com/#/releases/codechicken/CodeChickenLib",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

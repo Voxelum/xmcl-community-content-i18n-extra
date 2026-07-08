@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VBO3M5z13es=",
+  "content": "沉浸式鐵路（Immersive Railroading）是一款適用於 Minecraft 1.7.10 ~ 1.21.1 的模組。它為遊戲增添了全新的運輸系統（用於物品與玩家），盡可能基於真實世界物理，並採用等比例模型來呈現鐵路的真實規模與壯麗。推薦搭配「沉浸工程」（Immersive Engineering）與「開放電腦」（Open Computers）以獲得完整功能。\n\n文件說明見於維基：https://github.com/cam72cam/ImmersiveRailroading/wiki\n\n必要模組：\n- [Universal Mod Core] (0)\n- [TrackAPI] (1)\n\n目前特色：\n- 可移動的等比例火車\n- 在遊戲世界中製作車輛\n- 自訂靈活軌道系統\n- 液體與物品運輸\n- 支援多種軌距（Brunel、標準、窄軌、Minecraft 與模型軌距）\n- 透過資源包支援自訂模型/車輛\n- 使用軌道增強配件實現自動裝卸\n- 多方塊部件製作系統\n- 連結與區塊載入\n- 音效\n- 動物車廂\n- 村民運輸\n\n歡迎透過 Patreon 支持我\n\nDiscord 即時交流區：https://discord.gg/CS2RTGq，歡迎來發想點子、尋求協助、分享你的建築或協助測試不穩定版本！\n\n沉浸式鐵路預覽：\nhttps://www.youtube.com/watch?v=QHhI6-zIhUg\n[![沉浸式鐵路] (2)](http://www.youtube.com/watch?v=QHhI6-zIhUg \"沉浸式鐵路\")\n\n更多資訊請見：https://github.com/cam72cam/ImmersiveRailroading",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

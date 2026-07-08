@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rIiIKraarsU=",
+  "content": "**施肥土** 是一個小型模組，新增三種耕地等級，可用於加速作物生長。\n\n<details>\n<summary>功能</summary>\n\n- 施肥土 Tier 1：作物生長速度提升 50%。\n- 施肥土 Tier 2：作物生長速度提升 70%。\n- 施肥土 Tier 3：作物生長速度提升 100%，且無需水分即可保持濕潤。\n  \n- 施肥土方塊不會因踩踏而變回普通泥土。\n- 即使附近沒有水源，施肥土方塊也不會消失或變回普通泥土。\n\n</details>\n\n<details>\n<summary>合成方式</summary>\n\n### Tier 1：\n在合成台中央放置 1 個泥土。\n在周圍 8 個格子中各放置 8 個骨粉。\n總材料：64 個骨粉。\n\n### Tier 2：\n在合成台中央放置 1 個 Tier 1 施肥土。\n在周圍 8 個格子中各放置 16 個骨粉。\n總材料：128 個骨粉。\n\n### Tier 3：\n在合成台中央放置 1 個 Tier 2 施肥土。\n在周圍 8 個格子中各放置 32 個骨粉。\n總材料：256 個骨粉。\n\n</details>\n\n<details>\n<summary>重要水分說明 !</summary>\n\nTier 1 和 Tier 2 需要濕潤才能讓作物生長。請在附近放置水源來保持濕潤。若無水源，土地仍會維持為施肥土，不會變回普通泥土，但作物在重新濕潤前無法正常生長。\n\nTier 3 始終被視為濕潤狀態，因此作物無需附近水源即可生長。\n\n</details>\n\n<details>\n<summary>使用方式</summary>\n\n像耕地一樣放置施肥土，然後在上面種植作物。方塊會根據其等級，自動為上方的作物提供額外的隨機生長刻數。\n\n</details>\n\n_建議：安裝 [JEI](https://modrinth.com/mod/jei) 以在遊戲中查看自訂配方的詳細資訊。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UuzMDgTthEE=",
+  "content": "Серверный мод [Fabric](https://fabricmc.net/), который позволяет картам отображать ваше местоположение даже в других измерениях.\n\n<iframe src=\"https://www.youtube.com/embed/PG-rujo8Zcc\" height=\"358\" width=\"638\"></iframe>\n\nМаркеры на карте, добавленные этим модом, меняют цвет в зависимости от измерения, в котором находится игрок. Они также учитывают масштабы координат измерений, поэтому при просмотре карты Верхнего мира в Нижнем мире маркер на карте будет отображаться в соответствующем месте в Верхнем мире (примерно там, куда ведёт портал в Нижний мир).\n\nСсылки: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers) · [GitHub](https://github.com/A5b84/interdimensional-map-markers) · [Modrinth](https://modrinth.com/mod/interdimensional-map-markers)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

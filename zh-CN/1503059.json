@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PhH8mwA2mjY=",
+  "content": "<p><span style=\"font-family:&amp;#x27;font-size:14px;font-style:normal;font-weight:400;text-align:left;text-indent:0px;text-transform:none;background-color:oklab(0.57738 0.0140701 -0.208587 \\2f 0.0784314);display:inline !important;float:none\">一款轻量级的客户端实用模组，专为NeoForge设计，用于处理整合包版本宣传与验证。<br><br>当连接到运行PackGateway的服务器时，此模组会在登录过程中自动向代理报告您的整合包版本。如果您的版本是最新的，您将正常连接。如果您的版本过时，您会看到一个断连界面，其中包含可点击的按钮，用于下载最新整合包和加入社区Discord。</span></p><p><span style=\"font-family:&amp;#x27;font-size:14px;font-style:normal;font-weight:400;text-align:left;text-indent:0px;text-transform:none;background-color:oklab(0.57738 0.0140701 -0.208587 \\2f 0.0784314);display:inline !important;float:none\">功能：在登录时自动向服务器代理报告整合包版本；当您的整合包过时时，显示增强的断连界面，包含可点击的“下载”和“Discord”按钮。按钮标签/URL可通过config/packgateway-client.properties完全配置。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

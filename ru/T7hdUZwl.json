@@ -1,0 +1,15 @@
+{
+  "bodyHash": "l6XuNELFWfU=",
+  "content": {
+    "error": {
+      "message": "<400> InternalError.Algo.InvalidParameter: Range of input length should be [1, 8192]",
+      "type": "invalid_request_error",
+      "param": null,
+      "code": "invalid_parameter_error"
+    },
+    "id": "chatcmpl-73aa7237-a450-94e2-aa24-e0cd17f33f3c",
+    "request_id": "73aa7237-a450-94e2-aa24-e0cd17f33f3c"
+  },
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

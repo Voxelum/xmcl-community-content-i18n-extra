@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+Plj3VITVb0=",
+  "content": "**Это мод, содержащий код, используемый в моих модах, и включает следующие полезные функции:**\n\n---\n\n<font size=\"5\"> \n\n- Регистратор способностей и некоторые связанные с ним события.\n\n- Конструктор частиц с эффектом свечения (в стиле магии) и несколькими стандартными типами частиц.\n\n- Конструктор молний.\n\n- Конструктор прокачки, позволяющий повышать уровень мобов.\n\n- И многое другое, что ещё предстоит добавить.\n\n</font> \n\n---\n\n<font size=\"5\">**Эта библиотека разработана специально для моих модов, но вы можете использовать её, если захотите.**</font>\n\n<details>\n<summary>Добавление BjornLib</summary>\n\nrepositories {\n\nmaven { url \"https://dl.cloudsmith.io/public/furiusmax55/bjornlib/maven/\" }\n\n}\n\ndependencies {\n\nimplementation fg.deobf(\"com.furiusmax.bjornlib:BjornLib:MODVERSION-MCVERSION\")\n\n}\n\n</details>\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

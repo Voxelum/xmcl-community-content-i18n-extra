@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MTEqnoa3OSE=",
+  "content": "Реализация Sponge API для Forge. Продолжение теперь уже устаревшего проекта SpongeForge.\n\nЭто продолжение решает проблемы совместимости с **Cleanroom** и более новыми версиями **Mixin**.\n\nВы **ОБЯЗАНЫ** использовать плагины, совместимые с SpongeAPI 7.x, вместе с SpongeForge. Другие версии в настоящее время НЕ БУДУТ РАБОТАТЬ.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

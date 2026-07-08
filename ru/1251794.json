@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oKq6wjHfMck=",
+  "content": "<h1>Современная сетевая библиотека</h1>\n<p>Многоверсионная и многоуровневая сетевая библиотека пакетов для Minecraft, основанная на методе пакетов версии 1.20.6+.</p>\n<p>Этот API также разработан таким образом, что позволяет использовать его в реализациях Bukkit, а также в реализациях вне Minecraft, однако вам придётся самостоятельно обеспечить базовые реализации.</p>\n<table>\n<thead>\n<tr>\n<th>Версия Minecraft библиотеки</th>\n<th>Поддерживаемые версии Minecraft</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1.18.2</td>\n<td>1.18.2 – 1.20.1</td>\n</tr>\n<tr>\n<td>1.20.4</td>\n<td>1.20.2 – 1.20.4</td>\n</tr>\n<tr>\n<td>1.20.6</td>\n<td>1.20.5 – 1.20.6</td>\n</tr>\n<tr>\n<td>1.21.1</td>\n<td>1.21 – Последняя</td>\n</tr>\n</tbody>\n</table>\n<p>Вы можете ознакомиться с руководством по использованию этой библиотеки как разработчика на <a href=\"https://github.com/BluSpring/ModernNetworking\" rel=\"nofollow\">странице README на GitHub</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

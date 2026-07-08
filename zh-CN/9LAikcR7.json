@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/LipYfm5qPk=",
+  "content": "通过清理过期的渲染目标来修复 GPU 内存泄漏问题。\n\n## 详细信息\n\n- 将已完成渲染目标的过期纹理和帧缓冲 ID 加入队列。\n- 在后续的 tick 中，从客户端线程删除这些 ID。\n- 限制每次清理操作的工作量，避免一次性处理过多任务。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wl7FrMSBrDY=",
+  "content": "IMBlocker 是一款 Minecraft 模組，能夠在遊戲中自動切換輸入法開關狀態。\n\n在 Minecraft 遊戲過程中，我們不得不關閉輸入法以進行各種遊戲操作，又不得不開啟輸入法以聊天/搜尋。頻繁切換輸入法十分麻煩。\n\nIMBlocker 模組能夠識別當前遊戲狀態，並自動啟用/禁用輸入法。\n\n本模組適用於 Forge/NeoForge 和 Fabric 端。\n\n註：小版本請嘗試使用相鄰的大版本，如果都不兼容請提 issue。\n\n目前支援 Windows、Linux 和 Mac 平台。\n\n \n\nIMBlocker is a Minecraft mod that automatically switch your input method on/off.\n\nWhen playing Minecraft, you close input method for playing and open input method for chatting. Switching input method frequently makes you annoyed.\n\nThat's why we need IMBlocker, who can detect the game's current state and switch input method for you.\n\nThis mod works on forge, neoforge and fabric.\n\n \n\nWindows Linux and Mac platform is supported",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

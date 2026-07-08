@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jurliN951dI=",
+  "content": "為了增強原版Minecraft中的PvP體驗，我製作了「無煙」資源包。像是水晶、礦車、經典、UHC等遊戲模式，經常受到火焰產生的惱人煙霧影響，這會嚴重阻礙視線。此外，有大量專為PvP設計的地圖使用了營火，會產生大量粒子，降低效能，甚至有時影響遊戲進行。由於在Modrinth上找不到解決方案，我便自行著手製作了一個。\n\n「無煙」移除了這些視覺雜訊，讓你在激烈的遊戲過程中擁有更清晰的視野。若與[低火焰](https://modrinth.com/resourcepack/low-on-fire)和[無爆炸粒子](https://modrinth.com/resourcepack/no-explosion-particles)搭配使用，此包不僅能提升能見度，還能減少延遲。使用「無煙」獲得更乾淨、更流暢的PvP體驗，提升你的競技優勢！\n\n### 在生存模式使用時請注意！\n**此資源包會移除所有使用通用粒子類型的粒子，使龍之吐息等粒子變得不可見。**\n\n看看「無煙」的[展示畫廊](https://modrinth.com/resourcepack/nosmoke/gallery)，見證差異！\n\n---\n\n# 修改檔案清單：\n- big_smoke_0.png\n- big_smoke_1.png\n- big_smoke_2.png\n- big_smoke_3.png\n- big_smoke_4.png\n- big_smoke_5.png\n- big_smoke_6.png\n- big_smoke_7.png\n- big_smoke_8.png\n- big_smoke_9.png\n- big_smoke_10.png\n- big_smoke_11.png\n- generic_0.png\n- generic_1.png\n- generic_2.png\n- generic_3.png\n- generic_4.png\n- generic_5.png\n- generic_6.png\n- generic_7.png\n- lava.png\n- flame.png",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

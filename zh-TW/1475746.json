@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gBAgUyP6mhw=",
+  "content": "<p>這是一個函式庫模組，為 Minecraft 模組新增了一套基於規則的狀態系統。其中最著名的應用是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/waystones\" target=\"_blank\" rel=\"nofollow\">傳送石碑</a>，它藉此控制高度動態的傳送需求；以及 <a href=\"https://www.curseforge.com/minecraft/mc-mods/unbreakables\" target=\"_blank\" rel=\"nofollow\">不可破壞方塊</a>，它則利用此系統控制哪些方塊無法被破壞的規則。</p><p>為實現此功能，模組需實作 Shogi API 並公開屬性，這些屬性可透過 Shogi 表達式（一種簡潔的文字格式）進行配置。若要了解如何編寫 Shogi 規則或為自製模組加入 Shogi 支援，請參閱 <a href=\"/linkout?remoteUrl=https%253a%252f%252fshogi.twelveiterations.com%252fguides\" target=\"_blank\" rel=\"nofollow\">文件</a>。</p><h3><img src=\"https://mods.twelveiterations.com/img/features-header.png\" alt=\"功能特色\" width=\"836\" height=\"40\"></h3><ul>\n<li>根據玩家、維度或其他情境進行動態規則評估</li>\n<li>使用簡潔的表達式語法配置規則，同時支援 JSON 格式</li>\n<li>提供條件邏輯與彙總功能，支援進階計算</li>\n<li>為模組開發者提供強大的配置擴展，內建多種效果</li>\n<li>可嵌入的輕量級 API，讓模組開發者輕鬆加入支援</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

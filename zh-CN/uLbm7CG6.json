@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Xaa/IrEHnUw=",
+  "content": "语言重载是一个 Fabric 模组，为游戏语言系统增添了生活品质改进。\n\n### 功能特性\n- 快速切换语言，无需重新加载资源包\n- 语言菜单中新增搜索框\n- 多语言选择\n  - 每门语言的翻译会覆盖其下方语言的翻译内容。\n- 多语言物品搜索\n  - 支持在创造模式物品栏和配方书中使用任意已选语言进行搜索。\n  - 可通过 Mod 菜单或直接编辑模组配置文件禁用此功能。\n- 若 `options.txt` 中未设置 `lang:`，将自动检测语言\n- 使用 **F3 + J** 键重载语言，**Shift + F3 + J** 键循环切换语言\n\n### 功能展示\n![带后备语言的语言切换演示](https://i.imgur.com/Sb4YFCL.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

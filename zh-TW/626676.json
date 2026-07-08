@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0f4DGgpK6DE=",
+  "content": "<h1>簡介</h1><p>LDLib2 是對原有 LDLib 的全面重構，從底層重新設計以支援現代版本的 Minecraft。它在模組開發的多個領域提供先進的高階解決方案，大幅降低開發複雜度與長期維護成本。</p><p>LDLib2 擁有龐大且結構清晰的程式碼庫，為 UI 系統、著色器、模型渲染、資料同步與持久化，以及遊戲內視覺化編輯器提供堅實基礎架構，讓開發者能更高效地建構複雜系統。</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fsDdf2yD9bh\" target=\"_blank\" rel=\"nofollow\">加入我們的 Discord</a></p><p><a href=\"https://github.com/Low-Drag-MC/LDLib2\" target=\"_blank\" rel=\"nofollow\">LDLib2 程式庫</a></p><p><span><span><iframe src=\"https://www.youtube.com/embed/Ic5H3YoVPjQ\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><hr><h2>💡 與 <a href=\"ldlib/index.md\" target=\"_blank\" rel=\"nofollow\">LDLib</a> 的主要差異</h2><ul>\n<li>全面重新設計的架構 所有核心系統均經過重寫，以符合現代 Minecraft 版本的內部結構，使程式碼更簡潔可靠。</li>\n<li>完整的文件說明 LDLib2 包含詳細的文件、註解與範例程式碼，解決了 LDLib 長期以來實作方式不明確且難以閱讀的問題。</li>\n<li>移除過時系統 許多陳舊或未使用的框架已被移除，使 LDLib2 更輕量且易於維護。</li>\n<li>提升模組相容性 為 JEI、KubeJS、EMI 等主流模組提供更穩定可靠的整合支援。</li>\n</ul><hr><h2>核心模組</h2><ul>\n<li>資料同步與持久化</li>\n<li>LDLib2 使用者介面</li>\n<li>著色器</li>\n<li>模型渲染</li>\n<li>遊戲內編輯器</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

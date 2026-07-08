@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NRt6pGBq79w=",
+  "content": "## ArdaCraft版 DaylightChangerStruggle（由JuggleStruggle开发）\n\n原版由[JuggleStruggle](https://modrinth.com/user/JuggleStruggle)开发，可在此处[查看](https://modrinth.com/mod/daylightchangerstruggle)。原版源代码及完整功能列表亦可在该处获取。\n\n此版本模组已适配至Minecraft 1.20.1版本。\n\n本模组的**ArdaCraft版**基于SteveKunG的若干修改，并针对ArdaCraft服务器进行了额外调整。此版本将基准年份设定为3006年，静态时间偏移至9月4日。该年份与日期对应ArdaCraft服务器中的世界设定时间。\n\n完整更新列表：\n- 适配至Minecraft 1.20.1版本\n- 调整色彩梯度并移除自定义背景以提升可读性\n- 修改默认菜单组件选项以修复渲染顺序问题\n- 更换部分按钮图标以兼容ArdaCraft使用的资源包\n- 显示年份设为3006年（游戏内年份技术上仍为0年）\n- 静态时间的正午、午夜、日出、日落按钮将按9月4日进行时间偏移\n\n本模组需与[Caelum - ArdaCraft版](https://modrinth.com/mod/caelum-ardacraft-edition)配合使用。完全兼容Sodium及Iris模组。\n\n此版本模组源代码可在此处[查看](https://bitbucket.org/Ajcool_/daylightchangerstruggles/src/main/)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

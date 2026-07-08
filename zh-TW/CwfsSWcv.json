@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pFqLE24auOI=",
+  "content": "# ProjectE：禁忌奧術的EMC\n\n遊玩[禁忌奧術](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)搭配[ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)時，其內容沒有EMC值。這個純資料擴充模組解決了這個問題。\n\n- **精心調校的EMC**賦予收集到的資源——奧術水晶、符文、暗黑石、星辰祕石、埃德爾木/奧魯姆木/蕈菇木系列，以及生物掉落物（龍鱗、靈魂、觸手、蝙蝠翅膀）。\n- 多數合成產物——帝金、建材、裝飾方塊——**自動從模組的原版風格配方推導出EMC值**。\n- **終局的星辰祕石定價高昂**，以維持其稀有性。\n- **可保存狀態的物品按設計不賦予EMC**：工具、護甲、儲存奧拉能量的瓶子與槽罐、黑曜石頭顱，以及量子捕捉器，這些物品皆擁有耐久度、儲存能量或實體狀態。\n\n此模組不新增任何物品、方塊或合成配方——僅提供EMC資料。EMC值將在載入世界時生效；開啟轉化桌即可查看。\n\n**依賴項**\n\n- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) — 必要\n- [禁忌奧術](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) — 必要\n- NeoForge 1.21.1\n\n第一版本尚未為克力巴諾熔爐合金與赫菲斯托斯鍛造祭壇的產出賦予EMC值。EMC值為初步校準版本；歡迎在問題追蹤器中提供平衡性反饋。\n\nMIT授權。禁忌奧術由禁忌奧術團隊開發；ProjectE由sinkillerj與貢獻者開發。此為獨立整合模組，與上述團隊無關聯。原始碼與問題回報：https://github.com/KURONAMI333/forbidden-arcanus-emc",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

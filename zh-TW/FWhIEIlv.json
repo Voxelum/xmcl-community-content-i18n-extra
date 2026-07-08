@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EEBK2wM5+Zw=",
+  "content": "**Tick Stabilizer** 是一款輕量級模組，能防止 Minecraft 在延遲高峰後過度補償遊戲刻。此模組不會一次性執行數十個遺漏的遊戲刻，而是引入可設定的最小遊戲刻間隔，以確保更流暢、更穩定的遊戲體驗。\n\n## 功能特色\n\n- 強制設定遊戲刻之間的最小延遲（預設：`50ms`）\n- 防止在延遲或效能下降後出現「遊戲刻爆發」\n- 透過 `config/tickstabilizer.json` 進行簡單設定\n- 不改變遊戲內容——純粹的效能優化工具\n- 完全相容於其他效能模組\n\n## 設定說明\n\n    {\n      \"tickIntervalMs\": 50\n    }\n\n**最小值：** 15 ms  \n**最大值：** 50 ms  \n_若設定值超出此範圍，系統將自動修正。_\n\n## 推薦使用情境\n\n- 具有大量世界生成或 AI 活動的模組包\n- 大型多人伺服器\n- 希望獲得流暢、穩定 TPS 且減少遊戲刻爆發的玩家\n\n此模組已用於 [Legends Reborn: Medieval](https://www.curseforge.com/minecraft/modpacks/legends-reborn-medieval) 模組包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

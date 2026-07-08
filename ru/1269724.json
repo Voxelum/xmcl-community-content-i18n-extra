@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VcHfQjBbNds=",
+  "content": "<h2>📦 Systrace — Диагностический инструментарий для модов Minecraft</h2><p><strong>Systrace</strong> — это мощный диагностический инструмент для среды модов Minecraft. Он поддерживает:</p><ul>\n<li>🧩 Экспорт состояний <strong>Mixin</strong></li>\n<li>🧵 Просмотр информации о <strong>потоках</strong></li>\n<li>🖥️ Отчёт о деталях времени работы <strong>системы</strong></li>\n<li>📈 Запуск профилирования <strong>JFR (Java Flight Recorder)</strong></li>\n</ul><hr><h3>🔧 Гибкая установка</h3><p>Systrace можно установить на:</p><ul>\n<li>✅ <strong>Только сервер</strong></li>\n<li>✅ <strong>Только клиент</strong></li>\n<li>✅ <strong>Обе стороны</strong></li>\n</ul><p>Поддерживает загрузчики <strong>Fabric</strong>, <strong>Forge</strong> и <strong>NeoForge</strong>.<br>\nСовместим с <strong>Minecraft 1.20.1</strong> и <strong>1.21.1</strong>.<br>\nВключает улучшенное и удобочитаемое форматирование вывода.</p><hr><h3>🕹️ Команды использования (в игре)</h3><p>/ste<br>\n→ Экспорт информации о Mixin, состояниях потоков, системной среде и многом другом</p><p>/ste jfr start<br>\n→ Запуск профилирования JFR</p><p>/ste jfr stop<br>\n→ Остановка профилирования и сохранение файла записи <code>.jfr</code></p><hr>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

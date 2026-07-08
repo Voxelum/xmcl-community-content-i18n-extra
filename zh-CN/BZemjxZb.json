@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ka34GN97Sek=",
+  "content": "### KubeJS Additions 为 KubeJS 添加了更多事件和方法，使资源包创建者能够更轻松地执行诸如切换强制加载的区块或获取正在更新的区块、为方块和实体添加额外检查、添加玩家统计数据、切换玩家的鞘翅、操作 JEI 等操作！\n\n### 你现在可以在 1.18.2 或 1.19.2 中监听任何 Fabric 或 Arch 事件\n\n## 此模组的示例和文档可以在 [GitHub 这里](https://github.com/Hunter19823/kubejsadditions#kubejs-additions) 找到\n\n## 你还可以在 KubeJS 的 Discord 上的 [这个帖子](https://discord.com/channels/303440391124942858/1107116692997423124) 中找到监听 Arch 和 Fabric 事件的完整示例列表。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

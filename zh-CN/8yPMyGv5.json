@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LQOWjXh9vGM=",
+  "content": "VortyLib 是一个简单的库模组，为我的大部分模组提供共享功能\n\n## 当前功能\n- 使用核心着色器的自定义渲染类型\n- 自定义渲染类型对 Iris 光影的支持\n- 用于无裁剪渲染文本的自定义字体类\n\n## 计划功能\n- 扩展的 Iris 光影支持\n- 扩展的 GuiGraphics",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

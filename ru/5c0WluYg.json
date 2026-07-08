@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XZdH/+Aci30=",
+  "content": "## Как использовать\nЧтобы получить записку, вам нужно использовать эту команду.\n\n```\n/trigger bizcub.deathnote\n```\nили\n```\n/функция deathnote:deathnote\n```\nЧтобы это сработало, необходимо открыть блокнот, ввести точное никнейм и нажать «Готово». Сразу после этого произойдет убийство.\n\n## Крафт\nЧтобы создать Ноту смерти, вам понадобятся 8 чернильных мешков и книга с пером. (1.20.5+)\n\n![предпросмотр](https://cdn.modrinth.com/data/5c0WluYg/images/60927f8bf9f6c0a914b8d622ea7236d334b7d741.png)\n\n## Зависимости\n- Fabric Loader требует [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

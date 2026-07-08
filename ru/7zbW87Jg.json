@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ElD6s8AKJbY=",
+  "content": "Заставьте опцию переопределения неба в Flashback работать с шейдерами Iris.\n\n# Примечание:\n\nПо сравнению с версией 1.0.0, которая покрывала небо путём отрисовки прямоугольника, версия 2.0.0 напрямую отключает функции\n\n`\nWorldRenderingPhase.SKY,\nWorldRenderingPhase.CUSTOM_SKY,\nWorldRenderingPhase.CLOUDS,\nWorldRenderingPhase.VOID,\nWorldRenderingPhase.SUN,\nWorldRenderingPhase.STARS,\nWorldRenderingPhase.MOON и\nWorldRenderingPhase.SUNSET,\n`\n\nчто должно дать лучший результат.\nОднако вам придётся вручную отключить облака в настройках шейдера.\nВ версии 1.0.0 облака лишь казались закрытыми, но на самом деле они просто выходили за пределы прямоугольника зелёного экрана.\n\n---\n\n![wooo зелёный экранnnnnn](https://cdn.modrinth.com/data/cached_images/86216bd4e57de80f30635a3fec3d37811dca3c44_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

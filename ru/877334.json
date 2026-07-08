@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tgWYp4D3bGo=",
+  "content": "<p><strong>Отказ от ответственности</strong><br>Это НЕ дополнение для Create; мод не зависит от него. Он лишь исправляет <a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-185901\" target=\"_blank\" rel=\"nofollow\">https://bugs.mojang.com/browse/MC-185901</a>. Он создан специально для решения проблемы больших конструкций, которые игроки носят с собой и визуализируют, поскольку многие люди просят именно этого для своих конструкций; поэтому он получил название «Create:», однако это не дополнение к моду Create.</p><p><strong>Информация</strong><br>Это мод только для клиентской части игры. Он позволяет размер данных игрока достигать 10 МБ вместо стандартных 2 МБ.</p><p>Ошибка без мода:<br><img src=\"https://cdn.modrinth.com/data/jv0UKGOX/images/fd9a41a45608bb27e946261d76cb0353d4b8a630.png\" alt=\"Ошибка без мода\" width=\"813\" height=\"125\"></p><p><strong>Благодарности</strong><br>Благодаря XLPackets 1.16 я перенёс эту функцию из той версии XLPackets. В отличие от XLPackets, этот мод работает только на стороне клиента.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

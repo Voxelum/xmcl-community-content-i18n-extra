@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NL03+076Hug=",
+  "content": "# JEI 悬停搜索\n\n一款简单便捷的 Minecraft 模组，只需将鼠标悬停在物品上并按下快捷键，即可快速在 JEI 中搜索物品。\n\n受 JEI 悬停功能的启发，本模组新增了即时搜索当前悬停物品的能力，让物品管理和配方查找更加快速直观。\n\n## 下载\n\n[![CurseForge 下载量](https://cf.way2muchnoise.eu/full_jei-hover-search_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/jei-hover-search)\n[![Modrinth 下载量](https://img.shields.io/modrinth/dt/jei-hover-search?logo=modrinth&label=Modrinth)](https://modrinth.com/mod/jei-hover-search)\n\n## 使用方法\n\n1. **悬停**在物品栏、JEI 界面或任何 GUI 中的物品上\n2. **按下快捷键**（默认为 `Y` 键）  \n3. **JEI 将立即搜索**该物品\n\n按键绑定可在 Minecraft 控制设置中的 **“JEI（鼠标悬停）”** 类别下自定义。\n\n## 需求\n\n- **JEI (Just Enough Items)**：必需\n- **Architectury API**：必需\n\n## 兼容性\n\n本模组专为与 JEI 无缝协作设计，直接集成到其现有界面中，无冲突。\n\n## 问题与建议\n\n发现漏洞或有建议？请在 [问题页面](https://github.com/Madgique/jei-hover-search/issues) 提交报告。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

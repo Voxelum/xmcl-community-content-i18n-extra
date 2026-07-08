@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3i5mWnVGOfg=",
+  "content": "<h1>Biolith</h1><p>Biolith 是一个专注于可配置性和模组生物群落沉浸式分布的世界生成服务端库模组，提供生物群系布局与地表生成功能。目前支持 Fabric、Forge、NeoForge 和 Quilt 加载器。您可以通过下方列出的 Terraformers 生态模组体验 Biolith 的实际效果：</p><ul>\n<li><a href=\"https://github.com/TerraformersMC/Cinderscapes\" rel=\"nofollow\">Cinderscapes（灰烬之境）</a></li>\n<li><a href=\"https://github.com/TerraformersMC/Terrestria\" rel=\"nofollow\">Terrestria（大地之形）</a></li>\n<li><a href=\"https://github.com/TerraformersMC/Traverse\" rel=\"nofollow\">Traverse（遍历世界）</a></li>\n</ul><h2>&nbsp;</h2><h2>当前功能范围</h2><p>截至目前（除可能遗漏的新功能外），已实现以下特性：</p><ul>\n<li>自 v1.2.0-alpha.1 起支持全部四大模组加载器！</li>\n<li>自 v2.0.0-alpha.1 起可通过数据包添加生物群系布局与地表规则</li>\n<li>在主世界/下界/末地指定噪声坐标点放置生物群系</li>\n<li>从所有噪声坐标点移除原版/数据包生物群系</li>\n<li>完全或部分替换主世界/下界/末地生物群系</li>\n<li>为主世界/下界/末地/模组生物群系添加子群系\n<ul>\n<li>（末地群系使用自定义噪声系统，仅支持 1.20+ 版本）</li>\n</ul>\n</li>\n</ul><p>&nbsp;</p><ul>\n<li>注册自定义地表规则</li>\n<li>使用自定义地表构建器覆盖原版地表</li>\n</ul><p>&nbsp;</p><ul>\n<li>完全兼容 TerraBlender 和 Fabric Biome API 的生物群系</li>\n<li>部分兼容 BcLiB（其生物群系布局会被 bClIb 修改）</li>\n<li>1.2.0-beta.1 版本（1.20.4 - 1.20.6）支持 Modern Beta 地形中的生物群系生成</li>\n<li>自 3.0.3 版本（1.21+）起支持 Moderner Beta 地形</li>\n<li>自 3.0.5 版本起自动预防特征排序循环导致的崩溃</li>\n</ul><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

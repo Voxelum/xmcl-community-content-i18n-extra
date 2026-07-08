@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gVyYit5B45M=",
+  "content": "# 史詩戰鬥裝甲可見度\n想在[史詩戰鬥](https://modrinth.com/mod/epic-fight)模組中與敵人作戰時展現你酷炫的皮膚嗎？這個模組可以幫到你！\n\n## 這個模組有什麼作用？\n當玩家切換到戰鬥模式時，此模組會隱藏所有已裝備的盔甲（包括鞘翅和雕刻南瓜）。  \n模組僅修改客戶端渲染，因此在伺服器端無效。  \n注意：它只停止渲染，你的裝備仍然有效！  \n\n## 設定\n此模組可與[裝甲可見度](https://modrinth.com/mod/armor-visibility)模組搭配使用，以啟用隱藏原版模型上的盔甲功能，並可針對特定部位進行設定。  \n若未安裝裝甲可見度模組，則僅會隱藏史詩戰鬥模型上的所有盔甲。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oqrRy391us0=",
+  "content": "# 喵經濟\n\n一個專為模組包創作者設計的輕量化通用貨幣系統。\n\n---\n\n## 💰 核心機制\n\n### 🐷 小豬撲滿\n\n![小豬撲滿](https://cdn.modrinth.com/data/cached_images/b06bf7208ae1e338e3cf09616b36273a597c481f_0.webp)\n\n一個可配置的撲滿物品，敲碎後會掉落**好運幣**。\n\n摧毀時，它會根據設定檔中定義的加權配置值進行隨機掉落。\n\n**檔案位置：** `config/meowth.json`\n\n### 🪙 好運幣\n\n![好運幣](https://cdn.modrinth.com/data/cached_images/69bf514394f3788cb937739f4626715874ddc05c.png)\n\n主要貨幣物品，用於：\n* 自訂商店\n* 合成配方消耗\n* 戰利品獎勵\n* 進度系統\n\n---\n\n## ⚙️ 設定\n\n**預設 meowth.json 數值：**\n\n```json\n{\n  \"piggy_weights\": [\n    { \"min\": 3,  \"max\": 5,  \"weight\": 6 },\n    { \"min\": 6,  \"max\": 10, \"weight\": 5 },\n    { \"min\": 11, \"max\": 15, \"weight\": 3 },\n    { \"min\": 16, \"max\": 20, \"weight\": 2 },\n    { \"min\": 21, \"max\": 25, \"weight\": 1 }\n  ]\n}\n```\n\n### 運作方式：\n1.  每個條目定義一個掉落範圍（**最小值** → **最大值**）。\n2.  **加權值**控制該範圍被選中的機率。\n3.  **加權值越高** = 越常見。\n\n這讓玩家可以完全控制前期、中期、後期的遊戲經濟平衡。\n\n---\n\n## 🧩 專為模組包作者設計\n\n喵經濟在以下情況特別有用：\n* 建立自訂合成配方。\n* 使用[戰利品表修改器](https://modrinth.com/mod/loot-table-modifier)修改戰利品表。\n* 設計進度系統。\n* 在[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric)中建立自訂商店。\n* 想要一個輕量級貨幣，而不需要完整的經濟框架。\n\n---\n\n## 🎯 設計理念\n* **精簡：** 專注於核心功能。\n* **設定驅動：** 易於平衡調整。\n* **以模組包製作者為中心：** 專為創作者打造。\n* **無外部依賴：** 保持你的模組包簡潔。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

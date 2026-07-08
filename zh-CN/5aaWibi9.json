@@ -1,0 +1,6 @@
+{
+  "bodyHash": "R2INiB/6VHk=",
+  "content": "# Trinkets\n\n一款基于数据驱动的Minecraft饰品模组，使用Fabric框架。\n\n![饰品位界面预览图](https://cdn-raw.modrinth.com/data/5aaWibi9/images/56224f13887cdd914a9624a18eb845dae0bcdfc0.png)\n\n## 简介\n\nTrinkets 为 Minecraft 引入了插槽组与插槽系统。插槽组是特定身体部位或泛化区域所对应的插槽集合。默认情况下，游戏包含6个插槽组（头部、胸部、腿部、脚部、副手、主手），每个组内均可添加插槽，如有需要还可增加更多插槽组。Trinkets 的界面直观易用、便于访问，并致力于消除冗余。这套系统意味着你永远不会看到无用的插槽——因为模组只会申请它们实际需要的插槽。\n\n基础教程与完整文档请访问此项目的[维基页面](https://github.com/emilyploszaj/trinkets/wiki/Home)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

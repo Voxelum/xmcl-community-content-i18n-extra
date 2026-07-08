@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dI3DYg7Rx/4=",
+  "content": "<p><span style=\"font-size:24px\">預設世界類型</span></p><p><span style=\"font-size:18px\">主要適用於模組包創作者</span></p><p><span style=\"font-size:18px;color:#f00\">請注意，Forge 在 35.1.5 版本中為此添加了通用配置！</span></p><p>&nbsp;</p><p>由於 Forge 1.19 不再擁有該配置，此模組將繼續維護。並且可能適用於伺服器。只是可能！</p><p>&nbsp;</p><p><span style=\"font-size:12px\">透過此模組，您可以設定在創建新世界時預設選擇的世界類型。&nbsp;</span></p><p><span style=\"font-size:12px\">例如：您安裝了 Skyblock Builder 並在客戶端配置中將值設為 \"skyblockbuilder:skyblock\"。當創建新世界時，使用者無需自行更改世界類型。</span></p><p><span style=\"font-size:12px\">這樣一來，意外生成錯誤世界的問題將不會發生。或者說，可能性會降低。</span></p><p><span style=\"font-size:12px\">此模組僅適用於客戶端。對於伺服器，您應該直接提供正確的 servers.properties 文件。&nbsp;</span></p><p><span style=\"font-size:12px\">此模組僅與 Forge 兼容。</span></p><p>&nbsp;</p><p><span style=\"font-size:18px\">1.14 和 1.15 版本使用相同的文件！</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

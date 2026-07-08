@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xXOFJb4yYWg=",
+  "content": "# 現代傳送選單\n\n此專案為 [Fancy Warp Menu](https://modrinth.com/mod/fancy-warp-menu) 的非官方現代 Minecraft 移植版！\n\n支援版本：1.21.11、26.1.2\n\n---\n\n## 必要模組\n\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- [YetAnotherConfigLib](https://modrinth.com/mod/yacl)\n\n## 與原版的差異\n\n- 自訂佈局格式\n  - 這代表無法使用 Fancy Warp Menu 的資源包\n  - 差異預覽請見[此處](https://github.com/Yukkuritaku/ModernWarpMenu/blob/modern-main/docs/fwm_to_mwm_migration_guide.md)\n    - （目前尚未建立資源包模板）\n\n## 螢幕截圖\n\n![傳送選單畫面](https://cdn.modrinth.com/data/3GNyRk4I/images/c1965b2dae3f23a94a15ae8d07f29d6c7522ffc5_350.webp)\n\n![設定](https://cdn.modrinth.com/data/3GNyRk4I/images/19b68106251df72eadd7d562b06cd9fc56158c87_350.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

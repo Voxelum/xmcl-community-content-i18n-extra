@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0sKhzzp12YU=",
+  "content": "一个用于修改 Minecraft 食物和饥饿机制的 API，由 GregTech New Horizons Modpack 的作者们分支并维护。\n\n*   允许在其他模组中轻松创建可食用（食物）物品\n*   增加了更多与食物/作物交互的事件\n*   将 ASM 迁移至 Mixins\n\n感谢 squeek502 为 1.7.10 版本的 AppleCore 所做的原始贡献！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

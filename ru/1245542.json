@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nCvBhCO2tao=",
+  "content": "<h2><strong>Требуется</strong> <a href=\"https://www.curseforge.com/minecraft/mc-mods/unimixins\" target=\"_blank\" rel=\"nofollow\">UniMixins</a></h2><p>Мод, улучшающий систему перезагрузки HeroPack в <a href=\"https://www.curseforge.com/minecraft/mc-mods/fiskheroes\" target=\"_blank\" rel=\"nofollow\">Fisk's Superheroes</a>.</p><h3>Особенности</h3><ul>\n<li>Сравнивает ваши текущие загруженные HeroPack с серверными и автоматически отменяет перезагрузку, если они совпадают, что позволяет вам мгновенно присоединиться к серверу.</li>\n<li>Автоматически загружает официальные серверные HeroPack при запуске игры. Эту функцию можно отключить в конфигурации.</li>\n<li>Настройка, позволяющая отменять перезагрузку при наличии дополнительных локальных HeroPack, при условии, что требуемые серверные Packи совпадают.</li>\n<li>Улучшает стабильность, исправляя несколько критических ошибок, которые могли возникать во время игры.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

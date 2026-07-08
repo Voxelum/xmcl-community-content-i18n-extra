@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8ADDJ9gL8wg=",
+  "content": "**滑雪坡道！**\n\n本模組為遊戲新增了3種雪坡方塊，旨在打造更好的滑雪場建設，可作為冬季運動模組（如：Snowy Spirit 或 Skiing2）的擴充套件。\n\n新增的坡道：\n\n- 滑雪坡道（主體）\n- 滑雪坡道平坦（上方）\n- 滑雪坡道平坦（下方）\n\n上下兩部分結合即可形成平滑的坡道。\n\n這些坡道支援生存模式，可透過雪球合成（如圖片所示），並且能夠完整地開採回收。\n\n- 目前僅支援 1.20.1 Forge 版本，暫無計劃移植至 Fabric 或更新版本（因 Skiing2 同樣僅支援 1.20.1 Forge）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

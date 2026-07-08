@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3RiSPehLmBQ=",
+  "content": "Pagination 是一个服务端模组，允许你在配置文件中定义“页面”，当玩家输入指定命令时，这些页面内容将会发送给他们。\n\n/pagination - 主命令。单独使用时无任何作用。\n\n/pagination [别名] - 将 [别名] 替换为你在配置中定义的别名，即可将对应的页面发送给你。\n\n你可以使用颜色代码。\n\n![Pagination 在游戏中的预览效果（支持颜色代码）](https://cdn.modrinth.com/data/cached_images/0cd559f9aa453ffae5d9663da19ef24ae22b6804.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

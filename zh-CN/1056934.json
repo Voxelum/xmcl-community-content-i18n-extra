@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ai6kCWTMMMM=",
+  "content": "<p>这是一个GregTech的附加模组，使得“发射器”物品可以在世界中放置。当通电时，放置的发射器方块会发射光束，将能量传输到它击中的方块。</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_460b38ed-c53e-4b7c-a52d-016ce5aa8bfd.png\" alt=\"\" width=\"850\" height=\"478\"></p><p>所有级别的发射器都以1 A的速率传输能量。当空闲时，它们仍然消耗1 EU/t。目前没有基于距离的能量损失，也没有范围限制，除了光束会在未加载的区块停止。</p><p>放置的发射器的角度可以在其GUI中调整。然而，它们不能弯曲超过90°偏离其默认方向。</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_64a9a993-ac5d-420b-a753-4ef87799b3af.png\" alt=\"\" width=\"850\" height=\"500\"></p><p>演示视频:<br><span><span><iframe src=\"https://www.youtube.com/embed/7J9h1FhvdlU?wmode=transparent\" width=\"638\" height=\"358\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><p>欢迎自由重新分发或用于任何整合包。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8JFy/y3HhVU=",
+  "content": "# 什么是 Fish Fix？\n\n这是一个适用于 NeoForge 1.21.1 的模组。它专门解决了这个漏洞：https://bugs.mojang.com/browse/MC/issues/MC-226687。该模组通过允许用户设置自己的海平面，简单修复了硬编码的 \"getSeaLevel\" 方法所导致的问题。该漏洞已在 1.21.2 版本中被修复。\n\n此模组主要对数据包和整合包作者，或任何在修改世界生成时关注海洋的玩家有用。默认情况下，模组仍使用游戏自带的硬编码数值；如需实际效果，必须在配置文件中进行修改。\n\n我计划将该模组移植到更早的版本。\n\n**需要说明的是：此模组并不允许你直接修改海平面。这需要通过其他方式单独完成。**\n\n# 联系我\nDiscord：Dejeh\n\n请在问题追踪器中报告任何漏洞：https://github.com/Dejeh/Fish-Fix-1.21.1/issues",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

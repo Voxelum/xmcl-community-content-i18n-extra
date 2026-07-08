@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Cy/dP/DILLY=",
+  "content": "**<span style=\"color:#e03e2d\">需要以 Tinkers' Construct 作為依賴。</span>**\n\n此為 Tinkers' Construct 的附加模組，重新加入白金與鎢的相容性，因為它們在懷舊更新（v3.11.0.148）中從基礎模組被移除。透過此模組，以白金和鎢製成的 Tinkers' 部件被重新加入，並相較於先前版本略有強化。\n\n此模組僅在 v3.11.0.148 及以上版本中運作，因為白金和鎢在較早版本中仍可使用。仍需要額外的模組來添加鎢和/或白金，以獲得相應的材料。\n\n![Tinkers](https://media.forgecdn.net/attachments/description/1416902/description_e5a3f92e-3a1a-46c6-b1a5-25ecd4c18f98.png)\n\n感謝 Tinkers' Construct 提供白金與鎢的原始實作與材質。此模組是 GitHub 上未發佈的 [Tungsten and Platinum](https://github.com/SlimeKnights/TinkersConstruct/releases/tag/v3.11.0.148) lowcode 模組修復分支的維護版本。\n\n[ReversTeam Discord 伺服器](https://discord.com/invite/TJKZgr6UDg)\n\n \n\n歡迎在任何模組包中使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

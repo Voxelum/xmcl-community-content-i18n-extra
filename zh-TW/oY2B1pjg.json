@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sIrut1njs0c=",
+  "content": "# 什麼是 Embeddium Extra？\nRubidium Extra 是 [Sodium Extra](https://modrinth.com/mod/sodium-extra) 的非官方 Forge 分支，旨在將大部分 OptiFine 功能引入 Rubidium，同時提供視覺錯誤修復及其他 Embeddium 尚未具備的效能增強功能。\n\n# Rubidium 還是 Embeddium\n儘管名稱如此，Rubidium Extra 目前是針對 Embeddium 開發的（唯一原因是更新速度較快）。我無意進行全面品牌重塑，Rubidium 的相容性仍是優先考量，但有時您可能需要下載舊版本的 Rubidium Extra 才能讓遊戲正常運作！\n\n# 功能\n以下是本模組的基本功能概述。\n+ 動畫設定（控制火焰、水、熔岩、方塊動畫等）\n+ 粒子設定（控制所有類型粒子，包括其他模組的粒子）\n+ 細節設定（控制天空、星星、太陽/月亮、天氣等更多內容）\n+ 渲染設定（控制霧氣、靜態實體及其他雜項渲染）\n+ 額外設定（顯示 FPS、座標、彈出通知、雲層等更多內容）\n\n[此處](https://github.com/FlashyReese/sodium-extra-fabric/wiki/Features)可查看 Embeddium Extra 所包含功能的更詳細說明。\n\n# 模組包授權\n這是一個免費且開源的專案；只要您提供出處，即可將其納入您的模組包！\n\n# 常見問題\n+ **這個模組需要安裝 Rubidium/Embeddium 才能運作嗎？** 您需要下載 Rubidium 或 Embeddium 才能讓此模組正常運作。\n+ **我可以重新上傳/託管此模組到其他地方嗎？** 不可以。\n+ **您會為此模組新增 x 功能嗎？** 請向原作者提出，您可以[在此](https://github.com/FlashyReese/sodium-extra-fabric/issues)操作。\n+ **如有其他問題，請聯繫我們的 [Discord](https://discord.gg/jdB5JYX7W7 \"Discord\")！**\n\n#### 部分資訊複製自該模組的[官方頁面](https://modrinth.com/mod/sodium-extra)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

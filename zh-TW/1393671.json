@@ -1,0 +1,6 @@
+{
+  "bodyHash": "iRN2838lunM=",
+  "content": "<h3>SaveTheHorse</h3><p><strong>防止馬匹生成在方塊內部而立即因窒息傷害死亡。</strong></p><p>你是否曾經探索平原生態域或村莊時，發現所有馬匹都已經死亡，因為牠們生成在半個固體方塊內？這個小型模組正好解決這個問題。</p><p><strong>功能介紹：</strong></p><ul>\n<li>監聽所有馬、驢、騾、殭屍馬、骷髏馬或羊駝的生成（所有AbstractHorse實體）。</li>\n<li>在生成後的一個刻（tick）檢查動物是否卡進方塊內。</li>\n<li>若位置不安全，會輕輕將其移動到最近的安全位置。</li>\n<li>在不改變原版生成規則或生態域生成率的情況下拯救馬匹。</li>\n<li>伺服器端會記錄被拯救的馬匹日誌</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

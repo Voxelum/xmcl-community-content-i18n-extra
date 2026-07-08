@@ -1,0 +1,6 @@
+{
+  "bodyHash": "daz1eCauzHE=",
+  "content": "<p>TetherMine 是一款適用於單人遊戲和伺服器的 Fabric 模組，它改變了潛行時挖掘礦石和原木的方式。</p><p>潛行挖掘礦石或原木時，TetherMine 會搜尋相連的相同方塊，先破壞最遠的方塊，並將掉落物送至你腳下。持續挖掘起始方塊，即可逐步挖完整個礦脈或樹木。你一開始挖掘的方塊會最後才被破壞。</p><p>TetherMine 支援對角連接、原版礦石、原版原木、粗礦塊、遠古遺骸，以及許多模組中的礦石/原木，只要它們遵循常見的方塊 ID 名稱，例如 <code>_ore</code>、<code>_log</code>、<code>_wood</code>、<code>_stem</code> 或 <code>_hyphae</code>，就能自動支援。</p><p>伺服器擁有者和單人遊戲玩家可以透過 <code>config/tethermine.json</code> 或 Mod Menu 自訂行為：</p><pre><code>{\n  \"max_scan_blocks\": 256,\n  \"additional_blocks\": [\n    \"minecraft:raw_iron_block = iron_ore\",\n    \"minecraft:raw_gold_block = gold_ore\",\n    \"minecraft:raw_copper_block = copper_ore\",\n    \"minecraft:ancient_debris\"\n  ],\n  \"disabled_blocks\": []\n}</code></pre><p><code>max_scan_blocks</code> 控制 TetherMine 每次挖掘時檢查多少個相連的相同方塊。預設值為 <code>256</code>，足以應付一般礦脈和大樹木，同時維持良好的效能。</p><p><code>additional_blocks</code> 讓你可以新增 TetherMine 應處理的方塊。使用 <code>block_id = family_key</code> 將方塊連結到現有群組。例如，<code>minecraft:raw_copper_block = copper_ore</code> 會讓粗銅塊與銅礦一同挖掘。你也可以單獨新增方塊，例如 <code>minecraft:ancient_debris</code>，使其自成一個群組。</p><p><code>disabled_blocks</code> 讓你可以停用特定方塊。例如，加入 <code>minecraft:diamond_ore</code> 可防止 TetherMine 處理一般的鑽石礦，即使它本來會自動被偵測到。</p><p>TetherMine 在多人遊戲中僅需安裝於伺服器端，因此玩家無需安裝即可加入有安裝此模組的伺服器。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

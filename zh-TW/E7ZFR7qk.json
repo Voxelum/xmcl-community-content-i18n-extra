@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b9qVQlqMYA=",
+  "content": "<p>此API允許模組將自訂資料儲存在實體上，這些資料會在實體存活期間持續保存。同時也允許模組在玩家身上儲存持久性資料，這些資料會在玩家死亡後仍然保留。</p>\r\n\r\n<p>儲存的資料會與實體一同保存至檔案中，並在讀取該資料時恢復。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FudSgySzCS4=",
+  "content": "<h1>默认服务器属性</h1><p>一个非常简单的模组，通过混入游戏代码，允许整合包开发者在本体根目录中定义 <code>default-server.properties</code> 文件。该文件将覆盖默认生成的 <code>server.properties</code> 文件。此方法的优点在于，您只需在 <code>default-server.properties</code> 中设置需要更改的默认属性，其余部分将由游戏原生的加载机制自动处理。</p><h2>如何使用</h2><p>在游戏根目录中创建一个 <code>default-server.properties</code> 文件。如果 <code>local</code> 文件夹中不存在 <code>default-used.marker</code> 文件，模组将会尝试加载该默认数据，并将其注入到正常的 <code>server.properties</code> 默认生成过程中……就是这么简单。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

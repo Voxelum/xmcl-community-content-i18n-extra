@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EH7DvMpNCY4=",
+  "content": "# CNPC-Geckolib-附加模組\n\n一個為Geckolib3和自訂NPC設計的附加模組，可讓您的NPC使用geckolib模型\n\n## 安裝說明\n### 需求\nCNPC-Gecko-附加模組是**自訂NPC**和**Geckolib3**的**附加元件**。因此您需要先安裝這兩個模組才能使用。  \n本附加模組使用**Mixins**技術。這意味著在**1.16.5**版本中，您需要安裝一個名為**MixinBootstrap**的特殊模組。  \n您也可以使用任何其他您熟悉的mixin加載模組。  \n在**1.18.2**版本中，mixin系統已整合到Minecraft本身，因此無需安裝mixin加載器。\n\n### 版本選擇\n本附加模組具有**版本依賴性**，要選擇正確的CNPC-Gecko-附加模組版本，您需要查看CNPC版本的**最後四位數字**。  \n例如，如果您有CustomNPCs-1.16.5.2022**0728**snapshot.jar，則應使用CNPC-Gecko-Addon-1.16.5-**0728**-x.x.x.jar。\n\n## 使用方式\n### 功能特色：\n- 為NPC新增模型類型 - Geckolib模型\n- 可為NPC選擇待機和行走動畫\n- 可透過腳本控制動畫\n### 即將推出：\n- 可選擇受傷和攻擊動畫\n- 可為腳本物品和方塊使用geckolib模型\n- 可處理自訂指令動畫關鍵幀\n- 更多實用功能...\n\n## 更多資訊\n[模組維基](https://github.com/Goodbird-git/CNPC-Gecko-Addon/wiki \"Mod wiki\")\n\n## 合作夥伴：\n[![Bisect Hosting 優惠代碼](https://www.bisecthosting.com/partners/custom-banners/3a8a7d8d-6f8e-4c72-972a-72b5c7c5288b.webp)](https://bisecthosting.com/GOODBIRD-BH)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

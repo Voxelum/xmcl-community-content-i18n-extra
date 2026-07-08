@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nQtYd2PZw5o=",
+  "content": "### 允許模組開發者下載資源並在客戶端使用；可透過 Minecraft 版本或 URL 指定。\n\n- 下載後的資源會顯示在 `.minecraft/assetmover` 資料夾中（作為一個偽資源包）。\n- 在開發環境中完全相容。\n\n- 如果您使用 Java 8u52 或類似舊版 Java 8 版本，請安裝 [CensoredASM](https://legacy.curseforge.com/minecraft/mc-mods/lolasm)\n\n為 [Subaquatic](https://modrinth.com/mod/subaquatic) 和 [Extra Sounds Legacy](https://www.curseforge.com/minecraft/mc-mods/extra-sounds-legacy) 的依賴！\n\n圖示 [由 mcassets.cloud 以 MIT 授權](https://github.com/InventivetalentDev/mcasset.cloud/blob/master/LICENSE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

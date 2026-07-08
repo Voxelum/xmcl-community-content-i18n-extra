@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vM7mu5kEUh8=",
+  "content": "<h1>Celeritas 葉片剔除</h1><h3>基於 SodiumLeafCulling 為 1.12.2 版 Celeritas 移植的分支版本</h3><h3>此模組需搭配 Cleanroom 載入器使用</h3><p><strong>本模組會啟用 Celeritas 快速方塊渲染器，若發現模組方塊渲染異常，請在此回報問題</strong></p><p>若使用 Celeritas Extra 0.2.2 版本，請確認已在 Celeritas 擴充設定中停用葉片剔除功能</p><p>可從<a href=\"/linkout?remoteUrl=https%253a%252f%252fgit.taumc.org%252fembeddedt%252fceleritas\" target=\"_blank\" rel=\"nofollow\">此處</a>自行編譯 Celeritas，或直接下載<a href=\"https://github.com/kappa-maintainer/Celeritas-auto-build/releases\" target=\"_blank\" rel=\"nofollow\">自動建置版本</a></p><hr><p>提供三種剔除模式：</p><ul>\n<li><strong>鏤空模式</strong> - 運作原理類似 Optifine 智能選項。效能最佳，視覺效果最差。</li>\n<li><strong>激進實體模式</strong> - 僅剔除水平方向（東南西北）被完全包圍的葉片，忽略垂直相鄰方塊。效能優於標準實體模式，但視覺效果較差。</li>\n<li><strong>標準實體模式</strong> - 將六面（上下東西南北）完全被包圍的葉片替換為實體方塊。視覺效果最佳，幾乎等同原版精緻模式表現</li>\n</ul><h3>效能測試（9800x3d, 7900xtx 3440x1440）</h3><p>在暮光森林使用鏤空模式時，32 區塊載入距離下 FPS 從 <strong>540</strong> 提升至 <strong>740</strong></p><p>在暮光森林使用標準實體模式時，32 區塊載入距離下 FPS 從 <strong>540</strong> 提升至 <strong>640</strong></p><h3>特別致謝</h3><ul>\n<li><strong>Txni</strong> – 開發原始版 SodiumLeafCulling</li>\n<li><strong>Embeddedt</strong> – 創建 Celeritas 模組，促使本次移植開發</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

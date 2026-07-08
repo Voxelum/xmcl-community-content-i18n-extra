@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7DCH1WVsH60=",
+  "content": "<h1>背包侧边界面</h1><p><strong>背包侧边界面</strong> 是一个为 <strong>Sophisticated Backpacks / 精妙背包</strong> 制作的非官方附属模组。它会在玩家打开物品栏、箱子、熔炉等容器界面时，在界面侧边显示一个可交互的背包栏，让玩家不需要单独打开背包 GUI，也能快速存取背包中的物品。</p><p>这个模组适合经常携带背包探索、整理战利品、管理大量物资的玩家。你可以在打开任意容器时直接把物品放进背包，或者从背包中取出物品，大幅减少反复打开背包界面的操作。</p><h2>主要功能</h2><ul>\n<li>在玩家物品栏或任意容器界面侧边显示背包 GUI</li>\n<li>支持从侧边背包中放入、取出、交换、合并物品</li>\n<li>支持鼠标滚轮滚动背包内容</li>\n<li>支持拖动分配物品</li>\n<li>支持双击集合相同物品</li>\n<li>支持 Sophisticated Backpacks 的堆叠升级，能够显示超过 64 的物品数量</li>\n<li>支持 Curios / 饰品栏中的背包检测</li>\n<li>支持移动侧边 GUI 位置</li>\n<li>支持隐藏 / 显示侧边背包栏</li>\n<li>提供客户端配置文件，可调整显示方向、位置和可见行数</li>\n<li>多人游戏中由服务端处理真实物品操作，降低同步问题和作弊风险</li>\n</ul><h2>配置</h2><p>首次启动游戏后会生成配置文件：</p><p><code>config/backpack_side_gui-client.toml</code></p><p>可以调整：</p><ul>\n<li>背包栏显示在左侧或右侧</li>\n<li>横向位置偏移</li>\n<li>纵向位置偏移</li>\n<li>可见行数</li>\n<li>是否隐藏背包栏</li>\n</ul><h2>依赖</h2><p><strong>必需：</strong></p><ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge</li>\n<li>Sophisticated Backpacks</li>\n</ul><p><strong>可选：</strong></p><ul>\n<li>Curios API<br>如果安装 Curios，并且背包可以放入饰品栏，本模组会尝试读取饰品栏中的背包。</li>\n</ul><h2>注意</h2><p>背包侧边界面是 Sophisticated Backpacks 的非官方附属模组，并非官方项目。<br>多人游戏时，客户端和服务端都需要安装本模组。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9EJ4lfGRAa8=",
+  "content": "客户端FPS优化模组，可在客户端渲染线程中跳过碰撞检查，因为这些检查已由服务器处理。当前FPS下降的原因是客户端会计算可见与不可见实体的碰撞。当大量实体密集存在时，此问题尤为严重。使用此模组后，在实体密集区域可预期FPS提升。下方视频展示了在我的电脑上移除这些碰撞检查后的FPS差异。此模组旨在修复：https://bugs.mojang.com/browse/MC-228976（该问题已通过社区共识在错误追踪器中得到确认）。\n\n<iframe height=\"358\" width=\"638\"\nsrc=\"https://www.youtube.com/embed/iMg0jRpltXY\">\n</iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

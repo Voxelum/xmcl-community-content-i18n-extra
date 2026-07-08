@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6VPtOSHnlb8=",
+  "content": "<h2>通用網路通訊</h2><p>這個函式庫模組旨在統一不同模組載入器之間的網路通訊與封包註冊，讓使用 Jared 的&nbsp;<a href=\"https://github.com/jaredlll08/MultiLoader-Template\" rel=\"nofollow\">MultiLoader 模板</a>&nbsp;的開發者只需在通用模組中處理網路通訊。但此功能不僅限於 MultiLoader 使用，也可應用於其他專案中。<br><br></p><p>這也讓你的模組可以與載入器無關。透過封包的建構方式，客戶端上 Forge 版本的模組可以與伺服器上 Fabric 版本的模組進行通訊，不過你仍需自行建立握手封包。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

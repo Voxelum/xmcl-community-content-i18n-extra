@@ -1,0 +1,15 @@
+{
+  "bodyHash": "Pq+0tBSi+X8=",
+  "content": {
+    "error": {
+      "code": "invalid_parameter_error",
+      "param": null,
+      "message": "Parameter limit exceeded",
+      "type": "invalid_request_error"
+    },
+    "id": "chatcmpl-6b6faf88-871f-949d-84c8-a4460ce0754b",
+    "request_id": "6b6faf88-871f-949d-84c8-a4460ce0754b"
+  },
+  "contentType": "text/html",
+  "type": "curseforge"
+}

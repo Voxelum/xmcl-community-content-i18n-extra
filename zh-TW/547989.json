@@ -1,0 +1,6 @@
+{
+  "bodyHash": "780CLfNbOCE=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/408/737/beefixbanner.png\"></p><p>&nbsp;</p><p>&nbsp;</p><p>本模組修復以下問題（需在客戶端與伺服器端同時載入以完全修復，但單端載入亦可修正該端之錯誤）：</p><p>MC-168329：蜜蜂拒絕在地獄/終界離開蜂巢</p><p>MC-190042：蜜蜂未尋路時會墜落</p><p>MC-206401：蜜蜂有朝西北漂移的傾向（可能也影響其他生物）</p><p>MC-229321：蜜蜂會消失<sup>1</sup>（適用於1.17.1至1.18）</p><p>MC-234364：蜜蜂死亡動畫僅翻轉90度，而非其他節肢動物的180度</p><p>MC-248332：蜜蜂、地獄幽靈、夜魅及悅靈會破壞龜蛋（僅修復蜜蜂部分）</p><p>MC-255743：蜜蜂的尋路系統可能導致效能問題<sup>2</sup>（適用於1.16.2至1.19.2）</p><p>&nbsp;</p><p>1. 此錯誤會導致蜜蜂在各種邊緣案例中消失或無法正確存檔。</p><p>2. 此修復為還原Mojang的修正。</p><p>&nbsp;</p><p><a href=\"https://www.curseforge.com/members/mactso/projects\" rel=\"nofollow\">歡迎參觀我們的其他優質模組！</a></p><p>&nbsp;</p><p>Bee Fix 模組可在CurseForge及GitHub免費取得。</p><p><span style=\"font-size:18px\"><strong><span style=\"color:#930\">贊助者</span></strong></span></p><p>Bee Fix 目前尚無贊助者。請協助支持我們，讓我們能持續製作優質模組。許多替代模組載入器現正販售廣告，但完全不回饋給模組開發者。</p><p>若您贊助本模組，我們將在此處為您留名。只需一位基礎贊助者，Bee Fix 即能獲得所需支持。</p><p>&nbsp;</p><p><a href=\"https://discord.gg/fmdRFmmvBj\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/472/883/patreon.png\"></a></p><p>&nbsp;</p><p>&nbsp;<img src=\"https://media.forgecdn.net/attachments/408/373/discord-logo.png\" alt=\"Discord Logo\" width=\"548\" height=\"150\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UnPfCHfdTTA=",
+  "content": "![](https://cdn.modrinth.com/data/jhHNjn7K/images/38685788e23cc9ba5911e5bf593533254fca1d2d.png)\n\n### **一个轻量级的API，用于轻松管理你的配置文件。**\n<br/>\n\n查看 [\"入门指南\"](https://github.com/Infinituum17/FastConfigAPI/wiki/Getting-Started) 页面以立即开始。\n\n## 工作原理\n\n这个模组使得在运行时*加载*、_管理_ 和 _删除_ 你的配置文件变得非常简单。<br/>\n\n这个模组的全部目的是提供一个简单易用的API，\n让你能够尽可能快地开始创建你的配置文件，并且使它们与平台无关，\n这样你就可以在所有你喜欢的模组加载器中使用它。\n\n查看 [wiki](https://github.com/Infinituum17/FastConfigAPI/wiki/Getting-Started) 以开始使用。\n\n## 额外资源\n\n这个模组使用了 [Void Lib](https://modrinth.com/mod/void-lib)，\n所以如果你正在使用 [Fabric](https://fabricmc.net/)，并且有兴趣通过注解在你的模组中集成一些高级功能，\n你应该去看看它。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

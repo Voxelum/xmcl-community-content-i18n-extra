@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zl+SB+AHTXE=",
+  "content": "自从1.7版本以来，Minecraft会根据温度和湿度对生物群系进行分组。沙漠只出现在稀树草原附近，雪地远离丛林，而大部分世界最终都变成了某种森林的变体。Climate Ignored修复了这一点。\n\n这个模组打乱了控制生物群系布局的温度和湿度噪声。结果就是复古的随机世界生成，任何生物群系都可以与任何其他生物群系相邻。你会看到沙漠紧邻冰冻河流，丛林紧邻雪原，世界重新变得不可预测。\n\n地形也会变得相当狂野——大陆性、侵蚀度和奇特度仍然各司其职，但现在它们与意想不到的生物群系搭配在一起。沙丘覆盖的山丘，冰冷的悬崖直落入温暖的海洋。它拥有BETA时代的那种能量，每一个区块都可能带来惊喜。\n\n完全服务端模组。连接到服务器的客户端无需安装此模组。\n\n与基于TerraBlender的模组（Biomes O' Plenty、Oh The Biomes We've Gone等）兼容——这些模组的生物群系也会被打乱。\n\n配置选项（服务器配置）：\n- enabled：主开关\n- climateScale：控制生物群系团块大小（1=巨大，16=微小，默认5）\n- scrambleMode：打乱温度和湿度，或只打乱其中一个\n- seedOffset：在同一世界种子下生成不同的打乱模式\n- scrambleAllMultiNoise：支持替换主世界生物群系来源的模组",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

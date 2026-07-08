@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+yEFuT7/JHo=",
+  "content": "### 功能特性：\n- 提供一个可像普通资源包一样使用的目录\n- 提供能够覆盖所有同名资源路径的资产目录\n- 启动时可自动从Mojang官方服务器下载官方资源（此举不违反Mojang的[品牌与资产使用准则](https://www.minecraft.net/en-us/terms#terms-brand_guidelines)）。资源包开发者可通过JSON配置实现此功能，模组开发者则可通过`glowredman.txloader.TXLoaderCore#getAssetBuilder`调用构建器实现",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

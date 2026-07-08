@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tpPFcxUOLzs=",
+  "content": "<h1>花朵地圖</h1><p>以小地圖風格顯示花朵的漸層。由於自1.18版本起，花朵漸層變為三維，此模組可以控制渲染地圖的Y軸高度。預設情況下，它會使用玩家所在的Y軸位置，但也可以切換到手動Y軸模式，並透過按鍵綁定進行控制。</p><p>只要伺服器端沒有透過資料包修改生態域，此功能無須輸入種子碼即可在多人遊戲中運作。</p><p><img src=\"https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/shot1.jpg\" alt=\"中等Y軸\"></p><p><img src=\"https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/shot2.jpg\" alt=\"高Y軸\"></p><p><img src=\"https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/settings.png\" alt=\"設定介面\"></p><p><img src=\"https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/keybind.png\" alt=\"按鍵綁定\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

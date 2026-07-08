@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xHVgTqOg0wo=",
+  "content": "![Biome Blends 标志及几种混合示例](https://cdn.modrinth.com/data/q95zxc4j/images/984c7e7d0070614aada2d4081fcd58c9a4dca78c.png)\n\n## 🎨 面向玩家\n\n生物群系混合剂是一种简单的物品，可以让你在任何地方改变生物群系！\n\n要制作可用的混合剂，先用粘土、白色染料和纸合成一个**无味混合剂**。\n\n无味混合剂本身没有任何效果，但你可以用它和生物群系相关物品合成真正的混合剂，然后右键点击地面即可使用！\n\n默认情况下，生物群系混合剂为所有原版生物群系提供了对应的混合剂。所有混合剂的效果范围均为水平和垂直各4格。你可以在配置文件或通过数据包更改这一设置。\n\n生物群系混合剂需要安装 Architectury API 才能运行。此外，Fabric 版本还需要 Fabric API 和 Forge Config API Port。\n\n### 模组兼容性\n\n- Biomes O' Plenty（需要生物群系混合剂 1.4 或更高版本）\n- Oh The Biomes We've Gone（需要生物群系混合剂 1.4.1 或更高版本）\n\n## ✨ 面向整合包作者\n\n生物群系混合剂提供了强大的数据包支持，你可以轻松添加、移除或编辑现有的混合剂。具体包括：\n\n- 按生物群系、维度或命名空间限制使用\n- 定义垂直和水平效果范围\n- 指定使用后留下的物品\n- 使用混合剂时的自定义音效和粒子效果\n- 分配生物群系命名空间而非特定生物群系\n\n你可以在[维基](https://moddedmc.wiki/en/project/biome-blends/docs)上找到更多信息。\n\n如果现有系统无法满足你的需求，请务必在 Github 上提交问题，或加入 Discord 分享你的建议！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

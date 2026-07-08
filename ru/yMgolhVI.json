@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fOdtbZy9Ubc=",
+  "content": "# Этот мод — ребрендинговая ветвь [CensoredASM / LoliASM](https://www.curseforge.com/minecraft/mc-mods/lolasm), созданная Rongmario. Кроме переименования, больше ничего не было изменено.\n\nНачиная с версии 5+, этот мод явно несовместим с VanillaFix и TexFix, так как их функциональность была улучшена и интегрирована прямо в сам мод.\n\nЧто делает этот мод:\n\n1. Оптимизирует использование оперативной памяти. Вот что происходит, когда вы добавляете его в крупный модпак (без Foamfix):\n\n![](https://i.imgur.com/WEDsU0B.png)\n\n2. Исправляет крахи, возникающие в разных модах, а также в самом Forge.\n\n3. Общая оптимизация кода.\n\n \n\nНачиная с версии 2.3, требуется [MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter).\n\n \n\nРекомендуем использовать вместе с этим модом Foamfix.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

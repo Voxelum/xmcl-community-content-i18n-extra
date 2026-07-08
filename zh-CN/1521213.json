@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aoN5/tme0n8=",
+  "content": "<p>为<strong>机械动力：航空学（模拟）</strong>中的便携式引擎添加液体燃料支持。引擎不再仅依赖固体燃料，现在可通过管道系统消耗熔岩等流体。</p><hr><h2>数据包支持</h2><p>您可以通过创建包含以下文件路径的数据包来添加自定义流体：</p><p><strong>普通燃料：</strong><br><code>epicdatapackname/data/portable_engine_liquid_fuel/data_maps/fluid/engine_fuel.json</code></p><p><strong>过热燃料：</strong><br><code>moreepicdatapackname/data/portable_engine_liquid_fuel/data_maps/fluid/super_engine_fuel.json</code></p><h3>示例内容</h3><pre><code>{\n  \"values\": {\n    \"modid:fluid_name\": {\n      \"burn_time\": 5000\n    },\n    \"#fluidtag:name\": {\n      \"burn_time\": 12000\n    }\n  }\n}</code></pre><hr><h2>数据包爱好者须知</h2><p><strong>确保条目仅在安装特定模组时加载：</strong></p><pre><code>{\n  \"neoforge:conditions\": [\n    {\n      \"type\": \"neoforge:mod_loaded\",\n      \"modid\": \"yourmodid\"\n    }\n  ],\n  \"values\": {}\n}</code></pre><p><strong>安全起见，避免覆盖已有条目：</strong></p><pre><code>{\n  \"replace\": false,\n  \"values\": {}\n}</code></pre><p><em>两者（<code>neoforge:conditions</code> 和 <code>replace</code>）可同时使用，互不冲突。</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f63h283O4WE=",
+  "content": "<p><strong>Это форк оригинального мода</strong>&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators\" target=\"_blank\" rel=\"nofollow\">Create: Дизельные генераторы</a>. Я убрал часть исходного контента этого мода, чтобы он больше походил на слой совместимости для&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum\" target=\"_blank\" rel=\"nofollow\">Immersive petroleum</a>, а также для <a href=\"https://www.curseforge.com/minecraft/mc-mods/immersive-engineering\" target=\"_blank\" rel=\"nofollow\">Immersive engineering.</a><br><br><strong>Что я удалил:</strong></p><p>Весь процесс добычи нефти<br>Также удалены предметы и блоки, напоминающие «добычу» нефти, вроде всех насосных вышек<br>Удалены все виды топлива, такие как дизель и другие.</p><p><strong>Что я изменил:</strong><br>Обновил некоторые сцены с пондерами, чтобы они использовали правильное топливо из Immersive petroleum.<br>А также внес небольшие корректировки в существующий код.<br><br><br><strong>Что я добавил:</strong></p><p>Новые виды топлива из Immersive petroleum и топливо из Immersive engineering<br><br><br></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

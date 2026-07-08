@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IUQQBNM8Y3w=",
+  "content": "# ProjectETeams\n\n### **僅限 1.12.2 版本**\n### 依賴項目：\n- [MixinBooter](https://www.curseforge.com/minecraft/mc-mods/mixin-booter)\n- [FTBLib](https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge)\n- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)\n### 同時支援：\n- [ProjectEX](https://www.curseforge.com/minecraft/mc-mods/projectex)\n\n-----\n\n### 功能說明\n使用此模組後，您 FTB 團隊中的所有成員將共享同一個 EMC 網路（EMC 與知識）。<br>\n在加入團隊前已學會的物品，會在加入時同步至團隊與所有成員。<br>\n您的個人 EMC 不會遺失，在團隊中時會使用團隊 EMC，離開團隊後則恢復使用個人 EMC。<br>\n團隊 EMC 初始值為 0，成員與團隊之間不會自動轉移 EMC。<br>\n若想在加入此模組後將 EMC 轉移至團隊網路，請在加入團隊前先從個人網路取出，加入團隊後再存入團隊網路。\n\n-----\n\n### 使用方式\n要共享 EMC 和/或知識，請加入同一個 FTB 團隊，並在團隊設定中啟用您想共享的項目。<br>\n開啟 FTB 團隊設定：可使用指令 `/team settings`，或點擊團隊介面中的設定按鈕（團隊介面可透過物品欄左上方的 FTB Teams 按鈕開啟）。<br>\nEMC 與知識共享的設定位於專屬的「ProjectETeams」設定區塊，可隨時調整且無需重啟遊戲。\n\n-----\n\n### Cleanroom\n支援 [Cleanroom](https://github.com/CleanroomMC/Cleanroom) 環境，但測試程度不如標準 Forge。若遇到任何問題，請提交錯誤報告。<br>\nCleanroom 已自動內含 mixinbooter，因此在此環境下無需額外安裝。<br>\n使用 Cleanroom 時請別忘記添加 Fugue。<br>\n\n-----\n\n若發現任何問題或有新功能建議，歡迎提交議題報告。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ByHLDKdM6fo=",
+  "content": "# 超級遊戲模式切換器\n\n超級遊戲模式切換器是一個資料包/模組，能讓玩家無需管理員權限即可切換遊戲模式。它使用 /trigger 指令來變更遊戲模式，讓玩家能透過開關切換任意模式！此外，你還可以啟用旁觀者模式的發光效果。\n\n### 使用情境？\n在原生或輕度改裝的伺服器中，權限管理和讓玩家以特定方式遊玩可能成為問題。例如，若你經營一個創造模式伺服器，通常玩家只能以創造模式遊玩。這對於運行快照版伺服器尤其實用！\n\n## 指令\n_此資料包/模組中使用的指令_\n\n- `/trigger GMSettings` | 任何玩家均可執行，此設定允許管理員開關任何遊戲模式或旁觀者發光效果。詳情如下\n\n- `/trigger Creative` | `/trigger GMC` 的別名\n- `/trigger Spectator` | `/trigger GMSP` 的別名\n- `/trigger Survival` | `/trigger GMS` 的別名\n- `/trigger Adventure` | `/trigger GMA` 的別名\n\n## 超級遊戲模式切換器設定\n設定分為 5 個部分：\n- `旁觀者發光`：旁觀者的隱形頭顱會對其他旁觀者發光。不影響其他遊戲模式的玩家。 | 預設關閉\n- `創造模式`：將執行指令的玩家設為創造模式。 | 預設開啟\n- `旁觀者模式`：將執行指令的玩家設為旁觀者模式。 | 預設開啟\n- `生存模式`：將執行指令的玩家設為生存模式。 | 預設開啟\n- `冒險模式`：將執行指令的玩家設為冒險模式。 | 預設開啟\n\n### 設定選單的遊戲內畫面\n![聊天設定選單](https://cdn.modrinth.com/data/cached_images/fd7b9fdf5764caf3d1a687496f4599dcfed22afb.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

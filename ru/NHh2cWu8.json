@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DGzFOPYYTI0=",
+  "content": "Custom Machinery Create — это дополнение к моду [Custom Machinery](https://modrinth.com/mod/custom-machinery), которое добавляет интеграцию с модом [Create](https://modrinth.com/mod/create).\n\nС помощью этого дополнения можно создавать пользовательские машины, способные взаимодействовать с системой конструкторов Create (кинетическая скорость и напряжение).\n\nКонечно же, для работы этого дополнения необходимо установить моды Custom Machinery и Create.\n\n\n### В настоящее время поддерживаются следующие функции Create:\n\n- Кинетическая скорость/напряжение\n- Схематиканон\n\n\nТакже это дополнение полностью совместимо с KubeJS и Crafttweaker, что позволяет создавать рецепты для машин.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

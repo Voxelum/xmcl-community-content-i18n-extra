@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YHZX69DOnLI=",
+  "content": "Добавляет перерыв на использование Сферы Происхождения, чтобы предотвратить злоупотребление этим предметом.\n\nЧтобы изменить продолжительность перерыва, откройте пакет данных и просто измените количество тиков в параметре (cooldown).\n\n1 минута составляет примерно 1200 тиков; вот [калькулятор](https://minecraft.wiki/w/Calculators/Tick). По умолчанию время перерыва — 15 минут.\n\nСпециально разработано для использования в модпаке [Sanctuary ModPack](https://modrinth.com/modpack/sanctuary-remake).\n\n\n\n<center>\n<strong>\n<font size=\"5\">Обратная связь</font>\n</strong>\n<p></p>\n<a href=\"https://sanctuary.Valorshorde.com\" target=\"_blank\">\n<img src=\"https://cdn.modrinth.com/data/KqW3fuIR/images/ee87606358f793ddae62d5f71046720ac4b314ac.png\" alt=\"\" width=\"100\" height=\"100\"></a><br>\n<a href=\"https://discord.gg/sEqeMwjfvN\" target=\"_blank\">\n<img alt=\"Discord\" src=\"https://img.shields.io/discord/1034864936997900428?style=for-the-badge&logo=discord&color=7289DA&link=https%3A%2F%2Fdiscord.gg%2F7K5eC7myWS\">\n</a>\n\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

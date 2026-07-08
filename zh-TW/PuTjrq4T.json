@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BaFotaZHUA4=",
+  "content": "# Anvian 的函式庫\n\n此函式庫專為我的模組設計，包含了各種對專案有幫助的功能。此外，它還引入了遙測功能來追蹤有多少玩家正在使用我的模組。如果需要，可以透過設定檔停用遙測功能。更多詳細資訊，請參閱[遙測](https://anvian.net/telemetry)頁面。\n\n## 使用方法\n\n將以下內容加入你的 `gradle.properties`：\n\n```properties\nanvianslib_version=<版本號>\n```\n\n將以下內容加入你的 `build.gradle`：\n\n```groovy\nrepositories {\n    maven {\n        name = 'Repsy Anvian'\n        url = 'https://repo.repsy.io/mvn/anvian/anvians-lib'\n    }\n}\n```\n\n- 通用版本：\n\n```groovy\n  implementation \"net.anvian.anvianslib:anvianslib-common-1.21:${anvianslib_version}\"\n```\n\n- Fabric 版本：\n\n```groovy\n  modImplementation \"net.anvian.anvianslib:anvianslib-fabric-1.21:${anvianslib_version}\"\n```\n\n- Forge 版本：\n\n```groovy\n  implementation \"net.anvian.anvianslib:anvianslib-forge-1.21:${anvianslib_version}\"\n```\n\n- NeoForge 版本：\n\n```groovy\n  implementation \"net.anvian.anvianslib:anvianslib-neoforge-1.21:${anvianslib_version}\"\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

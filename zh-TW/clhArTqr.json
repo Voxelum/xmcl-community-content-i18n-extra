@@ -1,0 +1,6 @@
+{
+  "bodyHash": "iGLvJYN0SWA=",
+  "content": "![静态徽章](https://img.shields.io/badge/supports-1.19.2-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20.1-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20.2-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20.3-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20.4-green)\n![静态徽章](https://img.shields.io/badge/supports-1.20.6-green)\n\n# 新功能\n\n<details>\n<summary>新型TNT</summary>\n\n* **強化TNT**：增加方塊與實體的傷害\n* **集束TNT**：點燃後分裂成多個小型TNT\n* **追蹤TNT**：飛向最近的實體\n* **黑洞TNT**：將附近所有實體拉向自己\n* **闊劍TNT**：爆炸時向所有方向射出大量箭矢\n* **選擇性TNT**：爆炸時僅摧毀其所在的方塊類型\n* **終界TNT**：點燃後在16x16x16方塊範圍內隨機傳送\n\n</details>\n\n<details>\n<summary>爆炸箭矢</summary>\n\n* **TNT箭**：撞擊時爆炸\n* **衝擊箭**：撞擊時爆炸，但不會破壞方塊\n* **地毯式轟炸箭**：開始下墜時分裂成多支衝擊箭\n\n</details>\n\n<details>\n<summary>其他新增內容</summary>\n\n* **炸藥**：可投擲的TNT，撞擊地面後會再次彈起\n\n</details>\n\n# 徵求意見！\n請在我的Discord中回報任何發現的錯誤。如果您有改進此模組的想法，或希望新增的內容，也非常歡迎提供建議。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

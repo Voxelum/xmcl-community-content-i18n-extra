@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/ke0CPdWPsY=",
+  "content": "磨砺附魔为砂轮添加了一些新功能。\n\n### 解除附魔至书\n你可以将附魔物品和书放入砂轮，从而将附魔转移到书上（并取回未附魔的物品）。\n![解除物品附魔](https://docs.mschae23.de/w/img_auth.php/thumb/6/6a/Grind_enchantments_-_Disenchant.png/900px-Grind_enchantments_-_Disenchant.png)\n\n### 在书本间转移附魔\n如果你将一本附魔书放入砂轮的上方槽位，并将一本空白书（或已有附魔的书）放入下方槽位，第一本书最上方的附魔将会被转移到另一本书上。\n\n当你拥有包含不同物品类型附魔的书时（例如同时有效率和保护附魔的书），这个功能非常实用，可以帮助你分离这些附魔。\n\n支持[免税等级](https://modrinth.com/mod/tax-free-levels)。\n\n本模组适用于 Fabric。暂无移植到 Forge 的计划。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

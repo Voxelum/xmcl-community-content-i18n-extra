@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27FeQ6pEHVA=",
+  "content": "這是一個簡單的資料包/模組，用於在創建世界時移除 Stardust Labs 項目的介紹訊息。該介紹訊息會出現在最新版本的 Terralith、Incendium 和 Nullscape 中。\n\n給整合包作者：只需將此模組放入你的整合包中，它就能防止 Stardust Labs 的項目在首次加載世界時發送任何聊天訊息。這對於那些不希望首次加載時出現大量聊天刷屏，或不想讓玩家困惑地加入錯誤的 Discord 伺服器的人特別有用。\n\n## 重要提示\n如果你使用的是 Terralith 2.6.0+ 的模組版本，則不需要使用此模組！而是通過 Terralith 的設定選單來停用介紹訊息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

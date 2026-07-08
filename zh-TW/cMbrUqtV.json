@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vIoGcRzVpgc=",
+  "content": "### 這是什麼？\n這是一個火槍資料包，安裝與使用非常簡單。\n下載資料包時，請一併安裝提供的資源包以獲得更好體驗！\n火槍對玩家造成16點傷害（8顆心），對生物造成20點傷害（10顆心），傷害可被護甲和/或投射物保護附魔減免。子彈能穿透空氣及大多數非實心方塊（水除外）。\n\n### 如何運作？\n透過每刻8次傳送與偵測，一個盔甲架會沿直線移動5秒後消失，利用座標距離選擇器（dy=,dx=,dz=）偵測距離子彈0.5格範圍內的任何實體碰撞箱，並透過傷害指令對其造成傷害，傷害類型設定為箭矢。\n裝填會自動進行，耗時10秒，每秒顯示行動條訊息，每次射擊需消耗下方所示的彈殼。\n為確保射擊者安全，射擊後1刻內會關閉命中偵測，使武器在極近距離下無效。\n我已盡力優化，但仍有多次檢查在每刻運行。此資料包未經測試同時存在大量子彈的情況。\n\n## 火槍彈藥（彈殼）合成配方：\n![合成配方](https://cdn.modrinth.com/data/cached_images/11c25b39f0f5ea7faa41a51f8b9f588ecccc7c33.png)\n## 火槍合成配方：\n![合成配方](https://cdn.modrinth.com/data/cached_images/cc67a4d5d7d4c10cc6f4cdd6d5d7ed07ad5d10e0.png)\n\n# \n<details>\n<summary>ℹ️ - 版權所有 - Leaf 的專案資訊</summary>\n  \n- 允許將此專案包含在任何 Modrinth 模組包中。\n- 其他需求請直接聯繫我詢問。\n\n![Discord: leafforge](https://cdn.modrinth.com/data/cached_images/2db72f10bea8f8b6957c432452ce8258e87e4b06.png)\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

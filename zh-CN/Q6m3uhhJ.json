@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xK6xiky4EQc=",
+  "content": "这个模组能在降雨后自动在周围区块生成草。\n\n1. 配置系统 (Config.java)\n   - 模组开关控制\n   - 生成间隔配置（以10刻为单位）\n   - 水平搜索范围配置（以16格为单位）\n   - 获取实际数值的方法\n\n2. 环境检测 (EnvironmentChecker.java)\n   - 维度限制：仅在主世界生效\n   - 高度限制：Y坐标 ≥ 10\n   - 生物群系过滤：\n     - 排除寒冷群系（雪地、冻原）\n     - 排除干旱群系（沙漠、恶地）\n     - 排除水生群系（海洋、河流、沼泽）\n     - 排除其他不适宜群系（蘑菇岛、石头、洞穴等）\n\n3. 雨后草方块机制 (RainGrassBlock + RainGrassBlockEntity)\n   - 生成时机：降雨时在玩家周围生成\n   - 生成位置：草方块上方3格处，要求上方1-3格均为空气方块\n   - 方块特性：\n     - 透明且无碰撞箱\n     - 不遮挡光照\n     - 为实体方块（附带BlockEntity）\n   - 转化逻辑：\n     - 雨后检测周围玩家\n     - 对下方3格的草方块施加骨粉效果\n     - 自动移除自身\n\n4. 事件处理 (RainGrassBlockEventHandler)\n   - 监听玩家刻事件\n   - 降雨时在配置范围内随机生成雨后草方块\n   - 每次刻最多生成2个方块，检测4个随机位置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

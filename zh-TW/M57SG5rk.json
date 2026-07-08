@@ -1,0 +1,6 @@
+{
+  "bodyHash": "F4kzzGIfP4s=",
+  "content": "**當玩家在你的渲染距離內死亡時，會播放死亡音效。無需在伺服器端進行安裝。**\n\n# 功能：\n加入死亡音效，讓死亡更具戲劇性與沉浸感！你可以完全自訂音效、加入粒子效果、調整音量、音高、延遲，甚至使用你自己的音效！\n\n[![圖片 fabric](https://cdn.modrinth.com/data/cached_images/513035d1231a86dff137c74e04a5e64633593f10.png)](https://modrinth.com/mod/death-sound-mod/versions?l=fabric) [![圖片 quilt](https://cdn.modrinth.com/data/cached_images/a9ee492fd1a5fcbcc14d4105aa27be63f2518529.png)](https://modrinth.com/mod/death-sound-mod/versions?l=quilt) [![圖片 neoforge](https://cdn.modrinth.com/data/cached_images/b9ae07fbc26c08220b4856cb244f86904d0c172c.png)](https://modrinth.com/mod/death-sound-mod/versions?l=neoforge)  \n\n\n## 依賴項目：\n**必要安裝：**\n[Fabric API](https://modrinth.com/mod/fabric-api)\n\n\n## 如何使用自訂音效\n1. 安裝模組\n2. 啟用資源包「DeathSound-Resources」\n3. 在 DeathSound 自訂音效選單中點擊「開啟音效資料夾」按鈕\n4. 將你的 .ogg 檔案放入此資料夾\n5. 重要提示：若你在 Minecraft 版本 26.1 或以上使用模組，請確保檔案名稱中不含大寫字母！\n6. 在自訂音效選單中選擇你的檔案\n7. 你的自訂死亡音效現在應該已啟用！\n\n## 重要事項\n此模組在一段時間內不會收到更新，但我仍會盡力修復回報的錯誤。\n\n\n## 語言：\n### 此模組（僅限 Minecraft 1.21 及以上版本）支援多種語言，包括：\n\n- 英文\n- 德文（德國）\n- 德文（奧地利）\n- 菲律賓文（菲律賓）\n- 波蘭文（波蘭）\n- ……更多語言即將推出\n\n部分翻譯可能並非 100% 準確！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

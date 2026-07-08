@@ -1,0 +1,6 @@
+{
+  "bodyHash": "G6RZS9y1fiI=",
+  "content": "PVP优化器是一个轻量级的客户端PvP优化模组，专注于提升攻击响应速度并减少战斗中的感知延迟。它能通过优化挥动时机和客户端响应度，让你的攻击感觉更流畅、更即时，特别是在高延迟连接下。\n\n功能\n\n- 更快更流畅的攻击挥动反馈\n  \n  [![Modrinth合作横幅](https://cdn.modrinth.com/data/jCWscvFw/images/d98c5ff87f7d0f1e216aa733dcdf89928c0ac5b1.png)](https://modrinth.com/server/unstablerevamp)\n\n- 减少点击攻击时的视觉延迟\n  \n- 轻量级且性能友好\n  \n- 仅需客户端安装——无需服务端支持\n  \n- 专为PvP战斗一致性设计\n\n兼容性\n\n- 可与大多数性能模组（如Sodium、Lithium等）兼容\n  \n- 根据版本支持Fabric\n  \n- 不修改服务端机制\n\n目标\n\nPVP优化器的目标是在不引入侵入性视觉效果或繁重功能的前提下，让战斗响应更流畅、更一致——仅通过干净、优化的攻击时机实现更顺滑的PvP体验。\n\n如果你是服主，不希望玩家在你的服务器上使用此模组，可从我的GitHub下载阻止程序：https://github.com/XBTQY/PVP-Optmizer-opt-out/releases/tag/Release",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

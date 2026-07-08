@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PVVDnJPt5yo=",
+  "content": "這個材質包是基於 [Grend's](https://modrinth.com/user/Grend) 原創的 [Embellished Stone](https://modrinth.com/resourcepack/embellished-stone-advancements-plaques) 所衍生。如果你覺得成就銘牌採用較暗色調更符合你的風格，那麼這個材質包就是為你準備的！\n\n**注意：** 此資源包**需要**安裝 [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) 模組才能正常運作。\n\n### 你**必須**進行以下調整才能讓視覺效果生效：\n\n1- 找到你的 Minecraft 設定檔中 `config` 資料夾內的 `advancementplaques-common.toml` 檔案（Advancement Plaques 模組必須至少運行過一次才會生成 .toml 檔案）\n\n2- 使用任何文字編輯器開啟 `advancementplaques-common.toml`，並修改以下數值：\n```toml\ntitle_color = 4283759444\nname_color = 4294967295\n```\n3- 儲存檔案，完成！享受吧 :)\n\n<div>\n<a href=\"https://ibb.co/nRvpMB0\"><img src=\"https://i.ibb.co/QXR0vkc/advancementmade.png\" alt=\"成就達成\" border=\"0\" /></a>\n</div>\n\n<div>\n<a href=\"https://ibb.co/SXkHPPD\"><img src=\"https://i.ibb.co/Z6QvVVR/goalreached.png\" alt=\"目標達成\" border=\"0\" /></a>\n</div>\n\n<div>\n<a href=\"https://ibb.co/wRnxdqK\"><img src=\"https://i.ibb.co/QfW1JV6/challengecomplete.png\" alt=\"挑戰完成\" border=\"0\" /></a>\n</div>\n\n你可以在任何地方使用此資源，只需記住它依賴 [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) 才能運作！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

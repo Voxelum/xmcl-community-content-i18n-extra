@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZTrxUBKKwE8=",
+  "content": "## 模组介绍\n\n在模组化的世界中，物品的重复就像石头上长出的苔藓。船、木板、工具——本质相同，却因不同模组、不同ID而相互割裂。功能一致，机制分裂。本模组旨在消除这种摩擦。\n\n它允许你定义无形的物品转化配方，仅凭标识符即可将一种物品转化为另一种。无需覆盖，无需强制替换。只需在等价物品之间建立干净、有意图的转换。\n\n对修改原版机制（如 TerraFirmaCraft）的模组来说，Pearity 尤为适用，尤其是当其他依赖原版方块配方的模组共存时。\n\n<details>\n<summary>详细内容</summary>\n\n最简单的方式，你可以定义一个直接转换：\n\nminecraft:oak_boat -> tfc:wood/boat/oak\n\n使用这条规则，原版橡木船可以直接合成为 TerraFirmaCraft 的对应版本。\n\n需要真正的可互换性？使用双向规则：\n\nminecraft:oak_boat <-> tfc:wood/boat/oak\n\n现在转换可以双向进行，两种物品均无特权。\n\n本模组的真正价值在于模式匹配。支持两种通配符：\n\n?：匹配通配符，用于捕获ID中的可变部分\n*：宽泛通配符，可匹配命名空间或路径中的任意内容\n\n例如：\n\nminecraft:?_boat <-> tfc:wood/boat/?\n这一条规则即可连接所有原版船变种（橡木、白桦木、云杉等）与对应的 TFC 版本，可理解为“匹配 id minecraft:something_boat 与 tfc:wood/boat/something”\n\n更进一步：\n\n*:?_boat <-> tfc:wood/boat/?\n现在，任何模组中按常规命名的船都可与 TFC 对应版本互换。注意\"*\"可被任意内容替代，但\"?\"必须对应匹配。\n\n请记住这些只是示例。你可以随时匹配任意两个物品ID，创建破坏游戏进程的配方。例如：\n\nminecraft:dirt -> minecraft:diamond\n不言而喻\n\n或者：\n\nminecraft:egg -> create:*\n现在只需一只鸡就能自动化整个 Create 模组目录\n\n或者稍合理一些的例子：\n\nminecraft:*_sapling -> minecraft:*_sapling\n理论上你可以用任意树苗开始，最终长出任意树木\n\n</details>\n\n所有配方生成规则均可通过游戏内专用 GUI 进行管理（默认快捷键为 Insert）。配方规则可以实时添加、编辑或删除，无需重启世界或服务器。非常适合在构建或调整整合包时进行快速迭代。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

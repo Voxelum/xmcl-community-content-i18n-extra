@@ -1,0 +1,6 @@
+{
+  "bodyHash": "91dtxEvI+nQ=",
+  "content": "# 🎣 Улучшенная рыбалка\n![Интерфейс](https://img.shields.io/badge/Enviroment-Client-purple)\n![Java 21](https://img.shields.io/badge/Language-Java%2021-9B599A.svg?color=orange)\n[![Modrinth](https://img.shields.io/modrinth/dt/6HPGnC4U?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/mod/betterfishing)\n\n*Клиентский мод для улучшения качества жизни и автоматизации рыбной ловли.*\n\n<img width=\"1913\" height=\"731\" alt=\"Без названия\" src=\"https://github.com/user-attachments/assets/dd746213-6ba2-4f8f-95c0-42dd1bd128ba\" />\n\n---\n\n## 🐟 Особенности\n\n### 🦾 Автоматическая рыбалка\n- Задержка при забросе и повторном забросе\n- Защита удочки от поломки\n\n### 🌊 Обнаружение открытой воды\n- Автоматически определяет, находитесь ли вы в открытом водоёме\n\n### 🔔 Оповещения о поклёвке\n- Воспроизводит звук, когда рыба клюёт\n\n### 🔧 Настройка лески\n- Индивидуальная цветовая градация\n- Плавная анимация цвета\n\n---\n\n### ⚙️ Конфигурация\nВсе функции можно настроить через конфигурационный файл мода **или прямо в игре с помощью [Mod Menu](https://modrinth.com/mod/modmenu)**\n\n---\n\n## 📦 Зависимости\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- [YACL](https://modrinth.com/mod/yacl)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

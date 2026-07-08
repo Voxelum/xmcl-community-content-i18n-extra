@@ -1,0 +1,6 @@
+{
+  "bodyHash": "USgDYumIWxM=",
+  "content": "<p>这个模组为<a href=\"https://www.curseforge.com/minecraft/mc-mods/modular-routers\" target=\"_blank\" rel=\"nofollow\">模块化路由器</a>添加了升级模块，使任何能量模块能够传输<a href=\"https://www.curseforge.com/minecraft/mc-mods/modern-industrialization\" target=\"_blank\" rel=\"nofollow\">现代工业化</a>的EU能量，而不是FE能量：</p><ul>\n<li>LV升级 - 传输LV级能量</li>\n<li>MV升级 - 传输MV级能量</li>\n<li>HV升级 - 传输HV级能量</li>\n<li>EV升级 - 传输EV级能量</li>\n<li>超导体升级 - 传输超导体级能量</li>\n</ul><p>EU升级模块是互斥的，并且与内置的FE能量升级模块也互斥。</p><p>每个升级模块都有一个传输上限，可以通过放入更多升级模块或使用速度升级模块来提高路由器的运行速率（类似于普通能量升级模块的行为）。</p><p>&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/1011/761/upgrades.png\" alt=\"\"></p><p>&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/thumbnails/1011/760/310/172/routerwupgrade.png\" alt=\"\"></p><p>&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/thumbnails/1011/759/310/172/inworldbeam.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

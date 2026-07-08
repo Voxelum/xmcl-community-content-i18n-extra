@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bQGVvGcDNpQ=",
+  "content": "**Этот мод — порт Your Options Shall Be Respected для NeoForge.** https://modrinth.com/mod/yosbr\n\nВаши варианты теперь будут соблюдаться и в NeoForge! Представлено командой «Ассоциация за права выбора».\n\nУ этого мода одна простая функция: предоставление стандартных настроек, если соответствующий файл настроек отсутствует.\n\n### Пример 1 (настройки)\n- Создайте `/config/yosbr/options.txt`\n- Запишите в него стандартный контент\n- Запустите игру! YOSBR скопирует `/config/yosbr/options.txt` в `/options.txt`, если последний не существует\n\n### Пример 2 (конфигурационные файлы)\n- Создайте `/config/yosbr/config/roughlyenoughitems/config.json5`\n- Запишите в него стандартный контент\n- Запустите игру! YOSBR скопирует `/config/yosbr/config/roughlyenoughitems/config.json5` в `/config/roughlyenoughitems/config.json5`, если последний не существует\n\nТребуется NeoForge.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qOHVWLa3F14=",
+  "content": "# 創造：栽培工藝\n\n為 Create 模組打造的擴充內容。新增一套全新、可完全自動化的農業系統。\n\n本模組的核心是**栽培槽**，這是一種由齒輪驅動的多方塊機器，能夠處理植物的完整生長週期。\n\n### 特色功能\n\n* **栽培系統**：支援階段式作物（如小麥、花卉）與堆疊式植物（如甘蔗、竹子）。\n* **數據驅動**：所有配方皆基於 JSON 格式，可透過資料包完全自訂並實現跨模組兼容性。關鍵屬性如生長時間、所需高度與渲染模型均可配置。\n* **Create 整合**\n  * **噴口互動**：使用噴口對運作中的栽培槽澆水可提高產量。\n  * **視覺效果**：運作中的機械具備動態發光材質。\n\n---\n\n![ccc1](https://cdn.modrinth.com/data/cached_images/8e7673214a61a512a92b62d093e0e4e34cb70b68.jpeg)\n![ccc2](https://cdn.modrinth.com/data/cached_images/1a98d8b9d579f430e744750707efca92a71e481c.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

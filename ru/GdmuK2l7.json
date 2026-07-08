@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PcT/dt7ahCw=",
+  "content": "# chat-attestation\n\nЗащита от подмены без ботов для Kaboom и, возможно, других серверов\n\n**НИКОГДА НЕ ПОДАВАЙТЕ СВОЙ ФАЙЛ chat-attestation.priv.key КОМУ-ЛИБО**. Ваш открытый ключ выводится в логи при запуске (искать\n«Закодированный открытый ключ»).\n\n## Проблемы\n\n- Несовместимость с ChatPatches ([#2](https://code.optmstc.dev/opt/chat-attestation/issues/2))\n  - Похоже, содержимое обновляется после добавления в компонент чата. Это нарушает системный чат.\n- Сжатый обычный чат не работает с ChipmunkMod ([#4](https://code.optmstc.dev/opt/chat-attestation/issues/4))\n  - Вы не можете отправлять сжатый обычный чат, но можете его читать. Похоже, sendChat вызывается дважды.\n- Редкие сбои при использовании командных знаков ([#3](https://code.optmstc.dev/opt/chat-attestation/issues/3))\n  - Похоже, это условие гонки. Честно говоря, я думаю, что лучше просто убрать эту функцию.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

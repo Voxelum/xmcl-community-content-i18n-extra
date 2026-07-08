@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oGa5My8/058=",
+  "content": "# Адаптеры питания\n<p style=\"text-align:left\"><strong>ПРИМЕЧАНИЕ:</strong> Для работы этого мода требуется мод <a href=\"https://modrinth.com/mod/bookshelf-lib\" rel=\"nofollow\">Bookshelf</a>.</p>\n<p style=\"text-align:left\">Этот мод добавляет новый блок под названием «Адаптер питания». Этот блок может принимать энергию в форматах Tesla, RF, Forge Energy и MJ и преобразовывать её в универсальную энергию, которая затем может быть обратно преобразована в эти же форматы.</p>\n<ul>\n<li style=\"text-align:left\">Tesla = 25 единиц энергии</li>\n<li style=\"text-align:left\">Redstone Flux = 25 единиц энергии</li>\n<li style=\"text-align:left\">Forge Energy = 25 единиц энергии</li>\n<li style=\"text-align:left\">Minecraft Joules = 100 единиц энергии</li>\n</ul>\n<p>У этого блока нет рецепта крафта. Блок предназначен для использования в модпаках с целью настройки и интеграции его в собственные системы прогресса и баланса.</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

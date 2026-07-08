@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7KhKOxeAbrI=",
+  "content": "<p>允許 Torchmaster 阻擋 Cobblemon 實體。&lt;span style=\"color:#E03E2D;\"&gt;<strong>僅支援 NeoForge 1.21.1！！</strong>&lt;/span&gt;</p><p>本模組僅對自然（野外）生成的寶可夢有效。預設情況下，Torchmaster 將寶可夢識別為中立實體，因此會將其加入 Dreadlamp 的阻擋清單 - 但 Cobblemon 不使用 NeoForge 的生成事件系統，因此 Torchmaster 無法直接阻擋這些實體。</p><p>本模組透過 Cobblemon 的事件系統註冊額外的事件處理器，並將事件傳遞給 Torchmaster 自身的事件處理器。</p><p>若希望巨型火炬能阻擋寶可夢，您需要在 torchmaster.toml 設定檔的巨型火炬實體過濾清單中加入 cobblemon:pokemon，如下所示：</p><pre><code>megaTorchEntityBlockListOverrides = [ \"+cobblemon:pokemon\"]\n</code></pre><p>若同時要防止 NPC 生成，請一併加入：</p><pre><code>megaTorchEntityBlockListOverrides = [ \"+cobblemon:pokemon\", \"+cobblemon:npc\", ]\n</code></pre><h2>那 Fabric 呢？或舊版本？</h2><p>建議您考慮使用其他替代模組，例如</p><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/cobblemon-unimplemented-items\" rel=\"nofollow\">未實裝物品</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/cobblemon-repel\" rel=\"nofollow\">驅趕方塊</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

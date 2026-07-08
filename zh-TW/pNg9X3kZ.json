@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jmNUVkOeXto=",
+  "content": "# 描述\n移除洞穴生成中的安山岩、花崗岩、泥土、礫石等方塊。同時也移除地獄中類似的礦團。不會移除地表方塊（例如泥土），且許多此類方塊仍可透過合成或在其他地方找到。礦物則保持在原有位置。\n\n過去已有類似的資源包，例如[這個](https://modrinth.com/datapack/no-more-stone-variants)（未移除泥土團塊）。我發現了那個資源包後，決定製作出足夠差異化的版本，而非直接複製。請支持最初提出此構想的其他創作者。\n\n# 版本\n支援 Java 1.21.5 - 26.2\n\n# 相容性\n可能與某些洞穴或地獄相關的世界生成資源包不相容。若與我的 [Natural Gilded Blackstone](https://modrinth.com/datapack/natural-gilded-blackstone) 資源包同時使用，本資源包將始終優先，修改後的礦脈將不會生成。\n\n  <a href=\"https://patreon.com/Nerd_1023?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\"><img alt=\"patreon-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_vector.svg\"></a>\n  <a href=\"https://discord.gg/m5AGYxRj3g\"><img alt=\"discord-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Bk7sEfLErfs=",
+  "content": "<p>Этот мод добавляет совместимость между AE2 и Create. Для работы этого мода необходимы <a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" rel=\"nofollow\">Create</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" rel=\"nofollow\">AE2</a>.</p><p>Добавляется мост AE Stock, который соединяет две системы хранения. Предметы из системы Create Stock отображаются как крафтируемые предметы в AE. Create может запрашивать хранимые предметы из AE через мост с подключённым упаковщиком.</p><p>Будущие планы:</p><ul>\n<li>Перенос на версию 1.21</li>\n<li>Поддержка Refined Storage</li>\n<li>Автокрафт AE/RS из Create</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

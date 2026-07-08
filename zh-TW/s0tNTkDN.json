@@ -1,0 +1,6 @@
+{
+  "bodyHash": "E9ceBFN7ilM=",
+  "content": "![一位玩家使用獄髓鎬挖掘基岩方塊。](https://cdn.modrinth.com/data/s0tNTkDN/images/b2767e8a5badb0c470e3b30683e88814e05ca81e.gif)\n\n允許玩家使用採集等級4或更高的鎬子來挖掘基岩（在1.20.4及以下版本可配置）。挖掘後，基岩不會掉落任何物品（同樣可配置），只會直接破碎。基岩的破壞時間（預設71）和爆炸抗性（預設3600000）也都可輕鬆配置。\n\n## 設定檔案\n```properties\n# destroy_time: 基岩的破壞時間。（黑曜石為50，石頭為1.5，-1為不可破壞）\n# explosion_resist: 基岩的爆炸抗性。（石頭為6，玻璃為0.3）\n# mining_level: 挖掘基岩所需的採集等級。（獄髓等級為4）（僅在1.20.4及以下版本有效）\n# drop_bedrock: 基岩被破壞時是否應掉落為方塊。\n\ndestroy_time=100\nexplosion_resist=3600000\nmining_level=4 #僅在1.20.4及以下版本有效\ndrop_bedrock=false\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

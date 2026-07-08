@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t1HEI3Z6fx0=",
+  "content": "![人人都能玩得開心——就連地獄幽靈也不例外！](https://cdn.modrinth.com/data/cached_images/d87b7c8e7588666f94467ec77467c73a6161d7c1.jpeg)輕量模組包\n\n有了輕量模組包，就連地獄幽靈也會展露笑容！\n\n📌 基本資訊\n\n- 🧱 Minecraft 版本：1.21.3-1.21.8\n- ⚙️ 模組載入器：Fabric\n- 🧩 模組包類型：僅限客戶端（附帶一個可選的伺服器支援功能）\n- 📦 用途：透過生活品質改善功能，強化原版遊戲的生存、建築與交流體驗\n\n> 🗣️ 所有模組皆為客戶端專用，唯有 Simple Voice Chat 需要伺服器端支援才能運作。若伺服器不支援，該模組不會啟動，也不會造成任何問題。\n\n\n🧩 內容包含\n\n- Simple Voice Chat – 遊戲內語音通訊（需伺服器支援）\n- JourneyMap – 小地圖與全螢幕世界地圖\n- Litematica + Printer – 基於藍圖的建築輔助，包含虛擬透視與自動放置\n- AppleSkin – 飢餓值與飽食度介面資訊\n- Sodium + Iris – 效能提升與光影支援\n- Fabric API、MaLiLib、Text Placeholder API – 必要的程式庫\n\n🕹️ 使用方式\n\nSimple Voice Chat  \n按下 V 開啟語音聊天選單。僅在已安裝該模組的伺服器上才能使用。\n\nJourneyMap  \n按下 M 開啟地圖。您可以設定導航點、查看生態域、洞穴及其他玩家位置。\n\nLitematica  \n按下 M 或 Alt + M 開啟選單。載入藍圖即可看到建築物的虛擬透視。  \n按下 Tab 切換列印機模式（自動放置）。僅在創造模式或允許此功能的伺服器上才能使用。\n\nAppleSkin  \n自動運作。在介面上顯示飢餓值、飽食度與食物效果資訊。\n\nSodium + Iris  \n在背景執行。Iris 可透過影片設定選單啟用光影效果。\n\n⚠️ 注意事項\n\n- 如果 JourneyMap 和 Litematica 都使用 M 鍵，請前往設定 → 控制項，變更其中一個按鍵\n- 列印機模式僅在創造模式或允許此功能的伺服器上才能使用\n- 語音聊天需要伺服器端支援才能運作——否則不會啟動\n\n\n👥 為什麼您應該選擇我們的模組包？\n/\n我們的模組包最適合哪些人？\n\n- 想要生活品質改善功能，但又不願改變原版遊戲體驗的玩家\n- 使用藍圖進行建築的建築師\n- SMP 與原版伺服器玩家\n- 任何想要地圖、語音聊天（可用時）、更高幀率，而且不想要臃腫內容的人\n- 針對低階電腦進行最佳化——搭配 Sodium 可獲得流暢效能，光影為選用功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sY7w6BHsDM4=",
+  "content": "# 字串複製器修復移除器\n\n移除 MC-129055 / MC-59471 修補程式，讓字串複製器在 1.21.2+ 版本恢復作用\n\nElimina los patches MC-129055 / MC-59471, Haciendo que el duper de hilo vuelva a funcionar en las versiones 1.21.2+\n\n致謝／Credits: [WinExp](https://github.com/WinExp/DumpedCarpetAddition)\n\n# 農場無法運作？\n由於 Mojang 在最新版本中更改了紅石運作方式，[請查看此影片](https://youtu.be/mfv49tHgaQQ) 以進行修復。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

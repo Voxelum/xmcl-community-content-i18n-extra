@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DegmWzpZcss=",
+  "content": "精緻儲存 (Refined Storage) 擁有可與 JEI (Just Enough Items) 整合的選用模組，強化合成與配方互動功能。\n\n## 在合成方格中傳送配方\n\n你可以將 JEI 中的配方直接傳送至[合成方格](https://refinedmods.com/refined-storage/viewing-resources/crafting-grid.html)中。\n\n- 缺少材料？傳送時仍會自動放入你現有的物品。\n- 若缺少的材料可自動合成，你可以在預覽畫面中啟動自動合成任務。\n\n![JEI 合成方格傳送](https://refinedmods.com/jei-crafting-grid-transfer.bed892df.png)  \n![JEI 合成方格傳送預覽](https://refinedmods.com/jei-crafting-grid-transfer-preview.a76766f4.png)\n\n## 在樣板方格中傳送配方\n\nJEI 的配方也可傳送至[樣板方格](https://refinedmods.com/refined-storage/autocrafting/pattern-grid.html)中。介面會顯示哪些材料可進行自動合成。\n\n## R/U 快捷鍵支援\n\n你可以在[格子](https://refinedmods.com/refined-storage/viewing-resources/grid.html)與篩選欄位中使用 R 與 U 按鍵，分別檢視配方與用途。\n\n## 配方瀏覽器同步\n\n你可以同步 JEI 與[格子](https://refinedmods.com/refined-storage/viewing-resources/grid.html)之間的搜尋框：\n\n- 單向同步（格子 → JEI）\n- 雙向同步\n\n![JEI 在格子中的同步](https://refinedmods.com/jei-sync.bc1d0331.png)\n\n## 幽靈材料拖曳\n\n你可以將 JEI 中任何類型的材料拖曳至精緻儲存的篩選欄位中。\n\n![JEI 幽靈材料拖曳](https://refinedmods.com/jei-ghost-dragging.66c33644.png)\n\n## 排除區域\n\nJEI 元素會自動重新定位，避免與精緻儲存的 GUI 元件重疊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

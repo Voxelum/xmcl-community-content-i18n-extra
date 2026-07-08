@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qPidYs0eCeY=",
+  "content": "## 饰品兼容层\n\n本模组以饰品框架为核心，通过Mixin补丁同时封装了Trinkets和Curios的功能。设计时已考虑对Connector或Kilt的支持，这意味着在Fabric或NeoForge环境下均可正常使用饰品或奇物功能。\n\n## **必需前置**：\n- [饰品框架](https://modrinth.com/mod/accessories/)\n- **[Trinkets](https://modrinth.com/mod/trinkets) 和/或 [Curios](https://modrinth.com/mod/curios)**\n\n## 替代说明：\n使用本版本后，以下兼容层将**不再需要**：\n- [Trinkets兼容层](https://modrinth.com/mod/accessories-tc-layer)\n- [Curios兼容层](https://modrinth.com/mod/accessories-cc-layer)\n\n### 已知问题：\n- 所有相关界面和渲染已暂时统一为饰品界面\n- Curios相关：部分功能存在已知问题，将在未来版本中尝试修复\n  - 激活状态功能暂未实现，依赖此功能的模组将无法控制已装备饰品的状态\n  - `ICurioSlotExtension`接口未实现，导致任何堆叠替换或工具提示调整功能均无法生效",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

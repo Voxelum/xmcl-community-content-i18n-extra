@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QtJtZsxo2VA=",
+  "content": "<p>一個能透過&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat\" target=\"_blank\" rel=\"nofollow\">簡單語音聊天</a> 記錄玩家聲音的模組，並提供 API 來取得和播放這些聲音。此模組由&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/revervox\" target=\"_blank\" rel=\"nofollow\">Revervox 模組</a> 使用開發。</p><p><br>功能：<br>- 開始、停止、播放指令<br>- 將音訊以 .pcm 格式儲存於記憶體/硬碟<br>- 音訊處理效果，如殘響、機械化及音調調整<br><br>本模組旨在為其他模組開發者提供基礎，例如恐怖模組、趣味模組，或任何利用你的聲音來達成效果的模組。</p><p>致謝：</p><ul>\n<li>程式設計：omiao, Nalien</li>\n<li>簡單語音聊天 API 由 Henkel Max 提供</li>\n</ul><p>你可以<a href=\"https://github.com/AnimalRacional/simple-voice-chat-recording/blob/neoforge-1.21.1/docs/alpha_api.md\" target=\"_blank\" rel=\"nofollow\">在此</a>查看我們的文件！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

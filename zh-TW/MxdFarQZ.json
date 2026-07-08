@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NhNyzsnoAoM=",
+  "content": "#### YDM 的冰術師\n**支援 Forge、Neoforge 與 Fabric**\n\n這個模組加入了 2020 年生物投票中的冰術師，以及一個冰塊方塊，\n這個方塊由冰術師召喚，你需要使用帶有絲綢之觸附魔的工具來挖掘。\n\n目前它會生成在：\n- 雪地針葉林\n- 雪坡\n- 霜凍山峰\n- 尖峭山峰\n- 雪地沙灘\n- 雪原\n- 冰刺之地\n- 冰凍海洋\n- 冰凍河流\n\n支援其他模組的生態域！\n你可以設定冰術師的生成生態域。\n你可以在執行資料夾中找到相關設定檔。\n\n如果你希望冰術師在其他模組的生態域中生成，\n你必須修改 biome_name 那一行：\n例如改成：\nbiome_name = \"modid:name_of_the_biome\"\n\n若要讓它在更多生態域中生成，你需要在生態域名稱之間加上逗號 (,)：\nbiome_name = \"modid:name_of_the_biome,minecraft:snowy_plains\"\n\n設定檔中的其他選項有：\n- 生成速率\n- 最小數量\n- 最大數量\n- 冰塊召喚間隔時間（40 表示 -> 40 tick，40 tick = 2 秒）\n\n \n\n在 1.19 版本中，生成設定改為使用生態域標籤與生態域修改器 JSON 檔案。\n這些可以在 jar 檔案的 data 資料夾中找到。\n\n感謝你下載這個模組！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

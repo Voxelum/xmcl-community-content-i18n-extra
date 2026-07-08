@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xCVQNwPdiq8=",
+  "content": "![圖騰標誌](https://cdn.modrinth.com/data/GLffYJtD/images/6223992af90f54c9914fa14d18b7b56609e01fb8.png)\n\n這是一個關於圖騰柱、自然與音樂力量的魔法模組。\n\n本模組的核心在於圖騰柱。它們能為附近的玩家提供被動增益效果，但更重要的是，它們是儀式的核心：圍繞圖騰柱跳舞、演奏各種樂器，以觸發強大的效果並改變世界。\n\n建議安裝 [Patchouli](https://modrinth.com/mod/patchouli)，這樣你就能獲得《圖騰百科全書》，這是模組內容的遊戲內指南。\n\n目前僅支援 Forge/NeoForge，但 *ZestyBlaze* 正在開發 Fabric 版本。敬請期待。\n\n在 1.20.1+ 版本中，Totemic 內建了與 KubeJS 的整合功能，無需額外安裝擴充模組（不過未來可能會有變動）。詳細文檔請參閱 [KubeJS 維基](https://kubejs.com/wiki/addons/totemic)。\n\n### 整合包：\n你可以自由將本模組放入整合包中。\n\n### 致謝：\n- *Pokefenn*：最初創造了這個模組\n- *Sunconure11*：負責紋理、模型以及許多創意\n- *nojustgavin、Dylan Kaizer 和 Poppycocks*：為模組創作了大量紋理\n- *Nefilto*：製作圖騰柱模型\n- *Kerri Lake*：笛聲音效，經音調微調並剪輯自 [overblow.mp3](https://freesound.org/people/kerri/sounds/37144/)，採用 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 授權。\n- *Kirindave、Wayoftime、Joshie* 和 *Emoniph*：協助程式碼與構思\n- *Vazkii*：大部分（舊版）圖騰百科全書程式碼，基於 Botania 改編\n- *wiiv*：帳篷模型\n- *BigBadChris*：標誌設計\n- *CyanideX*：風鈴模型",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

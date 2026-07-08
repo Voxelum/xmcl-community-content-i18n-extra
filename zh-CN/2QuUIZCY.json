@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vMkRGV5AuDc=",
+  "content": "# CIT Resewn Continued（持续维护版）\n\n这是原版 CIT Resewn 模组的一个分支，经过更新和维护，以兼容新版 Minecraft。\n\n---\n\n## 关于原始项目（CIT Resewn）\n\n在原版 Minecraft 中，物品拥有静态纹理。自定义物品纹理（CIT）功能最初由 MCPatcher 引入，后来被 OptiFine 采纳。它允许资源包在满足特定条件时动态替换物品的外观、纹理或模型——例如通过铁砧设置的自定义显示名称、特定的附魔类型/等级，或物品的耐久度阈值。\n\nCIT Resewn 成功地将这一经典的 MCPatcher/OptiFine CIT 功能重新实现为一个独立的 Fabric 模组。这使得玩家可以使用传统的 OptiFine 风格资源包，而无需强制安装 OptiFine 本身，从而保持游戏轻量化，并与现代渲染模组兼容。\n\n---\n\n## 此分支的目的\n\n由于原版 CIT Resewn 项目已不再积极维护最新版本的 Minecraft，我们创建了 CIT Resewn Continued 来延续其功能。\n\n此分支引入了以下更改和更新：\n* **新版兼容性：** 代码库已更新，支持新版 Minecraft 及对应的 Fabric API 变更。\n* **Bug 修复：** 包含维护更新，以修复因 Minecraft 引擎内部变化导致的渲染问题和崩溃。\n* **性能模组适配：** 持续调整，确保与 Sodium、Iris 等现代优化模组的稳定兼容。\n\n---\n\n## 功能特性\n\n* **完整旧版支持：** 完全向后兼容现有的使用 `.properties` 文件的 OptiFine 和 MCPatcher 资源包配置。\n* **无需 OptiFine：** 在纯 Fabric 环境下提供 CIT 功能，避免 OptiFine 的兼容性问题。\n* **资源加载路径：** 自动检测并加载资源包中以下路径的 CIT 资源：\n  * `assets/minecraft/citresewn/cit`\n  * `assets/minecraft/optifine/cit`\n  * `assets/minecraft/mcpatcher/cit`\n* **Mixin 注入：** 使用 Fabric Mixins 将自定义纹理平滑集成到原版渲染代码中，无需额外开销。\n\n---\n\n## 鸣谢与许可证\n\n* **原始作者：** 本项目是 [CIT Resewn](https://modrinth.com/mod/cit-resewn) 的分支，由 SHsuperCM 创建。所有架构基础与原始实现的功劳归于原作者及其贡献者。\n* **许可证：** 此延续版本遵循与原项目相同的 MIT 许可证发布。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

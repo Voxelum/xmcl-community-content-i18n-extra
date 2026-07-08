@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uXsEYbh3AIY=",
+  "content": "为Create: Aeronautics（模拟）中的便携式引擎添加液体燃料支持。引擎现在不再仅依赖固体燃料，还可以通过管道系统消耗熔岩等流体。\n\n# 数据包支持\n\n您可以通过创建包含以下文件路径的数据包来添加自定义流体：\n\n普通燃料：\n\n```\nepicdatapackname/data/portable_engine_liquid_fuel/data_maps/fluid/engine_fuel.json\n```\n\n过热燃料：\n\n```\nmoreepicdatapackname/data/portable_engine_liquid_fuel/data_maps/fluid/super_engine_fuel.json\n```\n\n示例内容：\n\n```\n{\n  \"values\": {\n    \"modid:fluid_name\": {\n      \"burn_time\": 5000\n    },\n    \"#fluidtag:name\": {\n      \"burn_time\": 12000\n    }\n  }\n}\n```\n\n# 面向数据包爱好者\n\n若要确保条目仅在安装特定模组时加载：\n\n```\n{\n  \"neoforge:conditions\": [\n    {\n      \"type\": \"neoforge:mod_loaded\",\n      \"modid\": \"yourmodid\"\n    }\n  ],\n  \"values\": {}\n}\n```\n\n为安全起见并避免覆盖现有条目：\n\n```\n{\n  \"replace\": false,\n  \"values\": {}\n}\n```\n\n_neoforge:conditions 和 replace 可以同时使用——它们并不冲突。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

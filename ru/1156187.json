@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hcY2g2aOHCQ=",
+  "content": "<p>Это плагин-мод для kubejs, который позволяет выполнять ограниченные операции с файлами с помощью kubejs.</p><p>&nbsp;Чтение и запись файлов возможны только в пределах папки инстанса Minecraft; доступ к содержимому внешних файлов невозможен.</p><p>Записать несколько строк</p><pre><code>FilesJS.writeLines(\"kubejs/server_scripts/src/test.js\", [\"test1,test2,test3\"])</code></pre><p>Удалить файл</p><pre><code>FilesJS.delete(\"kubejs/server_scripts/src/test.js\")</code></pre><p>Слушатели событий</p><pre><code>ItemEvents.rightClicked('nether_star',event=&gt;{\n    FilesJS.backupFile(\"kubejs/README.txt\")\n})\n\nFiles.fileBackupCreated(event=&gt;{\n    event.server.tell(\"Путь к резервной копии файла:\",event.getPath())\n})</code></pre><hr><p>Если в этом моде обнаружены ошибки, пожалуйста, сообщите об этом в issue на GitHub. &nbsp;<span style=\"color:#e03e2d\"><a style=\"color:#e03e2d\" href=\"https://github.com/xiaoliziawa/Files-JS/issues\" target=\"_blank\" rel=\"nofollow\">здесь</a></span></p><p><span style=\"color:#e03e2d\">В связи с тем, что эта операция может использоваться с помощью рефлексии Java в KubeJS, проверки безопасности больше не поддерживаются. Будьте осторожны!!! ⚠️</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

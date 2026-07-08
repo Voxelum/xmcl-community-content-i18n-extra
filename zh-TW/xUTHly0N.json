@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ybz0Ge7G9IQ=",
+  "content": "# 置中準心\n\n修復了準心中心與螢幕中心不一致的惱人錯誤。\n\n範例（紅色十字 = 螢幕中心）：\n\n<table>\n<tr>\n<th>原版 Minecraft</th><th>安裝模組後</th>\n</tr>\n<tr>\n<td>\n<img src=\"https://i.imgur.com/TGEMXhx.png\" width=\"300\" alt=\"準心未置中的圖片\">\n</td>\n<td>\n<img src=\"https://i.imgur.com/qezdiBT.png\" width=\"300\" alt=\"準心置中的圖片\">\n</td>\n</tr>\n</table>\n\n如果準心的寬度是奇數像素（例如 3 像素），它仍然會偏移半個像素。\n\n此模組也與任何會改變準心的材質包相容！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

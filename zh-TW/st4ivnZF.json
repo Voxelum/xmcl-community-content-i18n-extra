@@ -1,0 +1,6 @@
+{
+  "bodyHash": "stgbgVewrnI=",
+  "content": "ddty's Farming Tweaks 是一款提升農業體驗的模組，讓耕種變得更快速且更有回報！\n\n## 特色功能\n\n- **自動重新種植** — 鋤頭在收成後會自動重新種植作物。適用於小麥、胡蘿蔔、馬鈴薯、甜菜根和地獄疙瘩。尚未完全成熟的作物無法被破壞。\n\n- **鋤頭附魔「幸運」** — 幸運附魔現在可用於鋤頭，根據幸運等級增加作物掉落量。\n\n- **更大範圍翻土** — 鑽石鋤頭可翻整 3x3 區域，獄髓鋤頭則可翻整 5x5 區域。其他鋤頭則維持正常功能。\n\n- **3x3 範圍施肥** — 對作物使用骨粉時，會同時作用於 3x3 區域。消耗 9 份骨粉以維持平衡。\n\n## 需求條件\n- Fabric Loader\n- [Fabric API](https://modrinth.com/mod/fabric-api)（必要）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

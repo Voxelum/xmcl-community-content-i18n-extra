@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QZOaFLr1iN0=",
+  "content": "<h1>语言</h1><p><a href=\"/linkout?remoteUrl=https%253a%252f%252flyuwenhan.github.io%252fextensions%252fminecraft-java%252fdata%252fassets%252fhide-password%252fREADME%252fREADME.html\" target=\"_blank\" rel=\"nofollow\">EN/English</a> | <a href=\"/linkout?remoteUrl=https%253a%252f%252flyuwenhan.github.io%252fextensions%252fminecraft-java%252fdata%252fassets%252fhide-password%252fREADME%252fREADME_ZH-CN.html\" target=\"_blank\" rel=\"nofollow\">ZH-CN/简体中文</a></p><h1>隐藏密码</h1><p>客户端侧 Fabric 模组，可在聊天输入中隐藏敏感命令参数（例如 /login、/register）。</p><h2>特性</h2><ul>\n<li>使用固定长度的星号（<strong><em><em></em></em></strong>）掩盖密码——不泄露长度/结构信息</li>\n<li><strong>不会</strong>修改发送到服务器的实际命令</li>\n<li>仅客户端</li>\n<li>通过 <strong>F8</strong> 键启用/禁用</li>\n</ul><h2>支持的命令</h2><ul>\n<li><code>/login</code>、<code>/l</code></li>\n<li><code>/register</code>、<code>/reg</code></li>\n<li><code>/changepassword</code></li>\n<li><code>/autologin set</code></li>\n<li><code>/account unregister</code></li>\n<li><code>/account changepassword</code></li>\n</ul><h2>支持的版本</h2><ul>\n<li>Minecraft 26.1.2</li>\n<li>Fabric Loader 0.19.2+</li>\n<li>Fabric API 0.150.0+</li>\n<li>Java 25</li>\n</ul><h2>许可证</h2><p>MIT</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

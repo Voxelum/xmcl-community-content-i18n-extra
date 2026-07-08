@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MDr0fcp8K0c=",
+  "content": "<p>ArtemisLib — это библиотечный мод, созданный командой Artemis Games Studio, который позволяет разработчикам изменять хитбокс объектов без использования куромоддинга.<br><br></p><hr><p>&nbsp;</p><p>Добавлены два атрибута объектов: <em><strong>ENTITY_HEIGHT</strong></em> и <strong><em>ENTITY_WIDTH</em></strong>, которые можно вызывать из класса <strong>ArtemisLibAttributes</strong> и использовать так же, как любые другие атрибуты объектов.</p><p>&nbsp;</p><hr><p>&nbsp;</p><p>Если вы хотите добавить ArtemisLib в свои проекты, поместите следующий код в ваш файл <strong>build.gradle</strong>:</p><pre>repositories\n{\n    mavenCentral()\n    maven\n    {\n        url = \"https://minecraft.curseforge.com/api/maven/\"\n    }\n}\n\ndependencies\n{\n    compile 'artemislib:ArtemisLib:&lt;1.12.2 или 1.13.2&gt;:v1.0.4'\n}</pre><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

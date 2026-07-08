@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sd6UwUbMvFc=",
+  "content": "<h1>Мод для экспорта вашей NBT-структуры в формат PNG и использования её в игре.</h1><h2><br>Команда «/nbt_exporter export» открывает графический интерфейс, позволяет выбрать файл вашей NBT-структуры, задать пользовательскую точку обзора, перемещать камеру с помощью клавиш WASD, использовать колесико мыши для увеличения и уменьшения масштаба, а также перетаскивать мышью для изменения точки обзора.</h2><p>Пожалуйста, поместите файл NBT в папку <strong><span style=\"color:#e03e2d\">schematics</span></strong> корневого каталога игры, чтобы мод был распознан.</p><p>Экспортированное изображение PNG находится в папке <span style=\"color:#e03e2d\">screenshots/export</span> в корневом каталоге</p><p><span style=\"color:#f1c40f\">Отображение</span>:</p><p><img src=\"https://media.forgecdn.net/attachments/description/1566447/description_ce4c7714-9b85-401c-8109-052eebaf79d3.png\"></p><p><span style=\"color:#f1c40f\">Экспорт</span>:</p><p><br><img src=\"https://media.forgecdn.net/attachments/description/1566447/description_db608383-e955-4882-8261-8c985d4cc89d.png\"><br><br></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

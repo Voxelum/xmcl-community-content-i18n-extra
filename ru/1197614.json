@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Q57aFl+7/gI=",
+  "content": "<h1>Ars Polymorphia</h1><p><img src=\"https://github.com/Vonr/Ars-Polymorphia/blob/master/src/main/resources/ars_polymorphia.png?raw=true\" width=\"200\">;</p><p>Добавляет поддержку <a href=\"https://www.curseforge.com/minecraft/mc-mods/polymorph\" target=\"_blank\" rel=\"nofollow\">Polymorph</a> для хранилищных лекционных трибун из мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/ars-nouveau\" target=\"_blank\" rel=\"nofollow\">Ars Nouveau</a>, позволяя создавать предметы, использующие те же ингредиенты, что и терминал хранилищной лекционной трибуны.</p><p>Когда набор ингредиентов соответствует более чем одному рецепту, над слотом вывода появится кнопка. Нажатие этой кнопки отобразит список всех возможных результатов, а выбор одного из них изменит выходной результат крафта соответственно. Polymorph также запоминает последний выбранный вариант, пока не меняются ингредиенты, поэтому повторные действия по крафту на одном и том же выборе становятся возможными.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

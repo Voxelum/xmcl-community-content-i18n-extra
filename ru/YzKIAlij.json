@@ -1,0 +1,6 @@
+{
+  "bodyHash": "R8M03JU9g+I=",
+  "content": "# Экономика Fabric\n\nAPI экономики для Fabric.\n\n![https://i.imgur.com/ZQ835CK.png](https://i.imgur.com/ZQ835CK.png)\n\n### Зависимость в Gradle\n\n```\nrepositories {\n    maven { url 'https://pisaiah.com/maven-repo/' }\n}\n```\n\n```\ndependencies {\n    compileOnly \"me.isaiah.mods:EconomyFabric:1.4\"\n}\n```\n\nПросто поместите этот мод в папку с модами.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

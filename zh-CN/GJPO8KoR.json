@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/ZR3A9YoUN0=",
+  "content": "![遥远之地](\nhttps://cdn.modrinth.com/data/GJPO8KoR/images/2cac00eabe53444c622e49dfdfa9ba86bb72d029.png)\n\n本模组将经典外观的[遥远之地](https://minecraft.wiki/w/Java_Edition_Far_Lands/Infdev_20100327_to_Beta_1.7.3)带回了现代版本（1.21+）。\n\n默认情况下，它们会在X或Z坐标12,550,821及更高位置的所有三个维度中生成，但距离是可配置的。安装[McQoy](https://modrinth.com/mod/mcqoy)可获得客户端GUI，或安装[QoMC](https://modrinth.com/mod/qomc)获得服务器命令。\n\n作为副作用，在极远距离的遥远之地之前，也可能会生成类似[Monolith](https://minecraft.wiki/w/Monolith)的地形结构。\n\n## 致谢\n\n基于[Farlands Reborn](https://modrinth.com/mod/farlands-reborn)（MIT许可证）对Perlin噪声的修复，作者 [AdyTech99](https://modrinth.com/user/AdyTech99)\n\n制作此模组的灵感来源于[AvM第37集](https://www.youtube.com/watch?v=iSFDlT43bxw)以及[KurtJMac到达遥远之地](https://www.youtube.com/watch?v=fOS10VEgpuk&t=14478s)的消息。\n\n## 兼容性\n\n- ⚠️ 遥远之地模组与[C2ME](https://modrinth.com/mod/c2me-fabric/)不兼容。\n- 感谢[Mixson](https://modrinth.com/mod/mixson)，v1.1.0及以上版本应该与几乎所有世界生成模组/数据包兼容！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

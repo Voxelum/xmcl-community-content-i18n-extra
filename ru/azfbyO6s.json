@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NffB9jY/ViU=",
+  "content": "[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/no-mining-cooldown)\n![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)\n![neoforge](https://raw.githubusercontent.com/Hyperbole-Devs/vectors/8494ec1ac495cfb481dc7e458356325510933eb0/assets/cozy/supported/neoforge_vector.svg)\n![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg)\n\n# Нет задержки при добыче ресурсов\nИсправляет задержку разрушения блоков на стороне клиента; эту функцию можно включать и выключать с помощью клавиши, назначенной для «Переключения задержки при добыче ресурсов» в разделе «Разное».\n\n## Важное примечание\n\nНекоторые серверы запрещают использование этого мода и имеют право соответствующим образом наказывать за его применение; пожалуйста, воздержитесь от использования этого мода на таких серверах.\n\n## Возможности\nЗадержка при добыче ресурсов по умолчанию отключена.\n\n- Переключаемая задержка при добыче ресурсов\n- Клавиша переключения, которую можно назначить\n\n## Контакты\n\nСвяжитесь со мной в [Discord](https://discord.gg/8Mm3g3T5re)  \n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,14 @@
+{
+  "bodyHash": "SW1mdkKCtxA=",
+  "content": {
+    "error": {
+      "message": "You exceeded your current requests list.",
+      "type": "limit_requests",
+      "param": null,
+      "code": "limit_requests"
+    },
+    "request_id": "1c2d8e4a-6f3c-9415-899c-e829923d5969"
+  },
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

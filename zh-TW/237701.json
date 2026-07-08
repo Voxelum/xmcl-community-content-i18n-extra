@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qVR+ZSjys1g=",
+  "content": "<p>此為 ReAuth 的 Forge 版本，Fabric 版本已拆分並可於<a href=\"https://www.curseforge.com/minecraft/mc-mods/reauth-fabric\" rel=\"nofollow\">此處</a>取得。</p><p><strong>現已可在 1.7.10 至 1.19 版本中使用 Microsoft 帳戶登入 ReAuth</strong><br>\n1.4.7-1.7.2 版本支援可能於後續推出</p><h2>功能概述：</h2><ul>\n<li>修復工作階段失效時需重啟客戶端的問題</li>\n<li>顯示當前工作階段是否有效</li>\n<li>連線失敗時提供重新登入與重試功能</li>\n<li>於遊戲運行中切換帳戶</li>\n<li>離線模式時可變更使用者名稱</li>\n</ul><h2>說明：</h2><p>本模組<strong>僅限客戶端使用</strong> - 置於伺服器模組資料夾將無任何效果。</p><p>雖然將登入資料輸入「來路不明」的模組聽似有風險，但歡迎您親自審閱程式碼。<br>\n原始碼公開於<a href=\"https://github.com/TechnicianLP/ReAuth\" rel=\"nofollow\">Github</a>；您可透過<a href=\"/linkout?remoteUrl=http%253a%252f%252fjd.benow.ca%252f\" rel=\"nofollow\">此處</a>取得的 Java 反編譯工具（JD-GUI）檢視。</p><p>只要未修改模組內容且模組包符合 Mojang EULA 規範並免費散佈，即可隨意將本模組收錄於任何模組包中。</p><h2>特色功能：</h2><ul>\n<li>多人遊戲畫面頂部新增工作階段指示器：顯示紅色時需重新登入</li>\n<li>登入畫面可儲存密碼至設定檔（需注意：雖會經 AES 加密且密鑰源自檔案路徑，惡意程式仍可能竊取密碼。可透過符號連結共享或遷移設定檔）</li>\n<li>連線伺服器因工作階段失效失敗時，錯誤畫面將新增兩個按鈕：其一開啟登入介面，其二在設定檔存有憑證時提供「登入並重試」快速功能</li>\n<li>1.7.2 版本起主選單隱藏按鈕（id 17325）支援 CustomMainMenu 調用</li>\n</ul><p><img src=\"https://media.forgecdn.net/attachments/309/481/footer.png\" alt=\"顯示有效工作階段的多人遊戲畫面\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,14 @@
+{
+  "bodyHash": "h+hjtnS3ZYQ=",
+  "content": {
+    "error": {
+      "message": "You exceeded your current requests list.",
+      "type": "limit_requests",
+      "param": null,
+      "code": "limit_requests"
+    },
+    "request_id": "1067eae8-d39d-9551-a7d2-56e69c279724"
+  },
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

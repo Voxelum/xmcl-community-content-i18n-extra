@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/hXKnu08xKI=",
+  "content": "<p>本模组是 <strong>铁砧工艺（AnvilCraft）</strong> 的附属，旨在将 <strong>Mekanism</strong> 的机器无缝接入铁砧工艺的电网系统。<strong>就像在《异星工厂》（<em>Factorio</em>）中一样</strong>，无需复杂布线——只需将Mekanism机器放置在电网覆盖范围内，即可自动无线供电！</p><p><strong>当前功能:</strong></p><ul>\n<li>所有Mekanism机器现已可被铁砧工艺电网供电。</li>\n<li>无需电缆连接，只要机器位于电网范围内即可工作。</li>\n<li>实现了电网功率（kW）与Mekanism能量单位焦耳（J）之间的转换。根据铁砧工艺系统的能量平衡设定（1 kW = 80 FE），当前转换比例为 <strong>1 kW = 200 J（10 J = 4 FE）</strong>。 <em>我个人建议在beta版中，暂时将配置文件中的转换比例改成 <strong>1 kW = 10 J</strong>。</em></li>\n</ul><p><strong>重要说明:</strong></p><ul>\n<li><strong>测试版状态与当前范围：</strong> 本模组目前处于 <strong>测试阶段</strong>。<strong>当前仅接入了Mekanism的机器。</strong> 需要电力的工具和其他物品（例如电动弓、Meka工具）<strong>尚未支持</strong>，计划在后续更新中加入。</li>\n<li><strong>稳定性：</strong> 核心功能已经过基础测试，但<strong>尚未完全稳定</strong>。你可能会遇到一些问题。</li>\n</ul><p><strong>未来计划:</strong></p><ul>\n<li>增加对Mekanism工具的支持。</li>\n<li>扩展兼容性至 <strong>应用能源2</strong> 及其他科技模组。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

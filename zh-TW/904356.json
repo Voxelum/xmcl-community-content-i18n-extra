@@ -1,0 +1,6 @@
+{
+  "bodyHash": "X4tYDEM71Bo=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/714/385/pinging.gif\" alt=\"pinging\"></p><p>扔掉那些用純 IP 位址伺服器造成的 DNS 反向查詢延遲</p><p>此功能擷取自 <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/tweakermore\" rel=\"nofollow\">TweakerMore</a> Mod 中的 <code>yeetServerIpReversedDnsLookup</code> 選項</p><h3>這是什麼 &amp; 為什麼 &amp; 如何運作</h3><p>對於伺服器位址僅以純 IP 表示（例如 <code>192.168.2.10:25565</code>）的伺服器，停用對應 <code>InetAddress</code> 物件的 DNS 反向查詢</p><p>許多非 loopback 的 IP 缺乏關聯的域名，這使得反向查詢非常耗時</p><pre><code>// java.net.InetAddress#getHostName(boolean)\nString getHostName(boolean check) {\n    if (holder().getHostName() == null) {  // 若 InetAddress.getByName() 收到純 IP，此值會是 null\n        holder().hostName = InetAddress.getHostFromNameService(this, check);  // &amp;lt;-- 耗時冗長\n    }\n    return holder().getHostName();\n}\n</code></pre><p>此選項會直接將這些伺服器的域名設為其 IP，從而略過反向 DNS 查驗</p><p>這可為純 IP 位址的伺服器減少約 1 到 5 秒的延遲。影響以下環境：</p><ul>\n<li>在伺服器列表中 Ping 伺服器</li>\n<li>連接到伺服器</li>\n</ul><h3>環境需求</h3><ul>\n<li>僅限用戶端</li>\n<li>Fabric / Forge / NeoForge Mod 載入器，無需額外需求</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

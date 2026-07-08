@@ -1,0 +1,6 @@
+{
+  "bodyHash": "52h9hasJhtM=",
+  "content": "<h1>Krypton Foxified</h1>\n<p>Krypton的非官方NeoForge移植版</p>\n\n<h2>什么是Krypton Foxified？</h2>\n<p>Krypton Foxified是一个旨在优化Minecraft网络堆栈的NeoForge模组。其技术源自<a href=\"/linkout?remoteUrl=https%253a%252f%252fvelocitypowered.com%252f\" rel=\"nofollow\">Velocity</a>和<a href=\"https://github.com/Tuinity/Tuinity\" rel=\"nofollow\">Tuinity</a>项目的成果。</p>\n\n<p>Krypton Foxified包含多项优化技术：</p>\n<ul>\n<li><strong>高度优化的Netty处理器</strong> - 源自Velocity代理（本人为开发者），这些处理器经过实际生产环境验证和深度性能分析，在关键位置智能部署原生代码</li>\n<li><strong>刷新合并技术</strong> - 降低服务器CPU占用（同时缓解利用推测执行的硬件安全漏洞影响），减少服务器tick时间</li>\n<li><strong>微观优化</strong> - 减少内存占用并提升数据包序列化速度</li>\n</ul>\n\n<h2>兼容性</h2>\n<p>Krypton Foxified可在任何能运行Minecraft的环境中使用</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

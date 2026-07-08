@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eBd+3QLswvA=",
+  "content": "這個模組新增了多種材質的儲液槽。\n木製儲液槽可容納 4,000 mB 的液體，而星辰儲液槽則可儲存約 10 億 mB。\n儲液槽可以垂直連接，讓您打造一座液體塔！\n\n![](https://gist.github.com/Kotori316/8c426c7e1ea70856bf5f2545048c49a9/raw/aa04a21f3c5d2fec496dc73e3531b099ec33220c/2023-07-23_18.10.50.png)\n\n## 下載\n\n您需要 **Scalable Cat's Force**（[Modrinth]（0））才能執行此模組。Forge 與 Fabric 版本皆需此前置函式庫。\n\n* Modrinth\n  * [Forge]（1）\n  * [Fabric]（2）\n\n除非用於模組包或經我許可，否則我不允許使用者重新發布此模組。\n\n## 功能\n\n放置儲液槽並用水桶裝滿。接著使用空桶從儲液槽中取出液體。就是這麼簡單！\n\n### 支援多種液體\n\n此模組支援平台（Forge 與 Fabric）相依的液體系統，例如「FluidHandler - Forge」與「FluidVariant - fabric」，因此您可以從其他模組注入多種液體。\n\n![](https://gist.github.com/Kotori316/8c426c7e1ea70856bf5f2545048c49a9/raw/aa04a21f3c5d2fec496dc73e3531b099ec33220c/3.png)\n\n### 藥水支援\n\n您不僅可以將水等液體注入儲液槽，還可儲存藥水。\n![](https://gist.github.com/Kotori316/8c426c7e1ea70856bf5f2545048c49a9/raw/aa04a21f3c5d2fec496dc73e3531b099ec33220c/2023-07-17_19.17.41.png)\n只需使用藥水瓶右鍵點擊，儲液槽便會儲存藥水。若要取出藥水，則使用空瓶互動即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

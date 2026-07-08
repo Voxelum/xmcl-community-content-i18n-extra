@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FZIs8p4gJdA=",
+  "content": "# Create: Расширенное окно расписания\n\nМод для клиентской стороны Minecraft **NeoForge**, который расширяет интерфейс окна расписания мода [Create](https://github.com/Creators-of-Create/Create), предоставляя вам лучший обзор расписаний поездов.\n\n![icon](https://cdn.modrinth.com/data/vZAlHFOj/images/182a7a1478755b2a91a2bd710039197b381d3d7d.png)\n\n## Особенности\n\n- **Расширенное окно** — увеличивает высоту окна расписания на 50 пикселей (настраиваемый диапазон от 0 до 200 пикселей), чтобы сразу видеть больше записей о станциях\n- **Перетаскиваемая полоса прокрутки** — полупрозрачный слайдер, который можно перетаскивать для быстрого перемещения по списку\n\n![schedule ui](https://cdn.modrinth.com/data/vZAlHFOj/images/4b6264ff71c014437a45dfb1e72b433197919e22.png)\n\n## Настройка\n\nПосле первого запуска отредактируйте файл `config/createexpandedschedule-client.toml`:\n\n```toml\n[general]\n# Дополнительная высота в шагах по 10 пикселей (от 0 до 20, по умолчанию 5 = 50 пикселей)\nextraHeight = 5\n```\n\nТакже вы можете изменить настройки в игре через меню **Mods → Create: Expanded Schedule Window → Config**.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

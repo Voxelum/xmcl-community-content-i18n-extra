@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aWZwEH/3Mlk=",
+  "content": "<h1>全面更新：</h1><p>我已將整個原始碼完全重寫，以便能夠擴展支援多個版本，同時將模組的整體方針改為完全基於原版。所有回報的錯誤現在應該都已修復，如果你們除了像是肩窺視（shoulder surfing）這類相容性問題之外，還能發現其他問題，那我會很驚訝。</p><h1>Omni</h1><p><strong>Omni</strong> 是一個非常簡單且輕量化的 Minecraft 模組，它加入了來自<span style=\"text-decoration:underline\">《決勝時刻：黑色行動6》</span>和<span style=\"text-decoration:underline\">《THE FINALS》</span>的全向移動系統。</p><h1>關於</h1><p>全向移動系統非常簡單：它允許你朝所有方向衝刺。它使用混入（Mixins）對原版程式碼進行小幅修改，移除了當你不是向前移動時所受到的衝刺及衝刺跳躍限制。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

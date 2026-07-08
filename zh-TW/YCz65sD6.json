@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KGZnymO+gKc=",
+  "content": "一個在 Minecraft Java 版中以 Fabric 模組運行的模型上下文協議 (MCP) 伺服器。它將伺服器端的 Minecraft API 和 Fabric API 公開為 MCP 工具，讓 MCP 用戶端（Claude Desktop、Cursor 或任何支援 MCP 的代理程式）能夠以程式化方式讀取和操作即時世界。\n\n與 Claude Code 的配套外掛程式搭配使用：[https://github.com/chapmanjw/minecraft-java-fabric-claude-plugin](https://github.com/chapmanjw/minecraft-java-fabric-claude-plugin)\n\n需要 Fabric API：[https://modrinth.com/mod/fabric-api](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

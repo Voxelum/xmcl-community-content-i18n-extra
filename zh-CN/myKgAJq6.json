@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LVTx4GK4lUY=",
+  "content": "# 修复书本界面\n\n将屏幕中央的书本界面居中显示\n此模组旨在修复 [MC-61489](https://bugs.mojang.com/browse/MC/issues/MC-61489)\n\n大部分修复逻辑来自 [mworzala 的代码片段](https://gist.github.com/mworzala/9a8d86803784c9c81aac77d9a7f9fb2b)，因此修复的功劳归于他们，我只是将其制作成了模组。（他们并未参与本模组的创建）\n\n### 对比效果\n\n<div>\n    <table>\n        <tr>\n            <td align=\"middle\">\n            <img alt=\"差异：书本\" src=\"https://raw.githubusercontent.com/KosmoMoustache/FixBookGUI/next/.github/assets/book.jpg\">\n            <figcaption align=\"middle\">书本</figcaption>\n            </td>\n        </tr>\n        <tr>\n            <td align=\"middle\">\n                <img alt=\"差异：书写书本\" src=\"https://raw.githubusercontent.com/KosmoMoustache/FixBookGUI/next/.github/assets/write.jpg\">\n                <figcaption align=\"middle\">书写书本</figcaption>\n            </td>\n        </tr>\n        <tr>\n            <td align=\"middle\">\n                <img alt=\"差异：讲台\" src=\"https://raw.githubusercontent.com/KosmoMoustache/FixBookGUI/next/.github/assets/lectern.jpg\">\n                <figcaption align=\"middle\">讲台</figcaption>\n            </td>\n        </tr>\n    </table>\n</div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

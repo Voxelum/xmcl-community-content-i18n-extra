@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MBKq7l4akP0=",
+  "content": "# VulkanBobby\n\nНебольшой слой совместимости между **[VulkanMod](https://modrinth.com/mod/vulkanmod)** и **[Bobby](https://modrinth.com/mod/bobby)** для Minecraft 1.21.*.  \nСохраняет видимость кэшированных (поддельных) чанков Bobby с помощью VulkanMod.\n\n![Скриншот](https://cdn.modrinth.com/data/cached_images/e0075caf6ad94a4bd073aa8f92dff020ab1382a1.jpeg)\n\n## Требования\n- Bobby **5.2.\\***, VulkanMod **0.5.\\***\n- Cloth Config и Mod Menu — необходимы для изменения дальности отображения Bobby в игре.\n\n## Описание\n\nИспользование Bobby и VulkanMod вместе с этим модом обеспечивает расширенную дальность отображения, аналогичную Distant Horizons и другим модам с расширенным обзором.\n\nЕсли у вас возникли вопросы по поводу совместного использования VulkanMod, Bobby и этого мода, пожалуйста, сообщите о них в разделе [**GitHub Issues**](https://github.com/arturidzze/VulkanBobby/issues).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

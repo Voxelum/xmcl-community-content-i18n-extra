@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RiYc7rgvCDc=",
+  "content": "# 跳過過場動畫\n\nFabric模組，用於移除干擾或分散注意力的過渡效果。\n\n### 啟動Minecraft時：\n\n![標題畫面](https://i.ibb.co/nkwP0ky/skiptransitions-titlescreen-c.webp)\n\n### 變更資源包時：\n\n![載入資源](https://i.ibb.co/DR9LQGs/skiptransitions-resourceload.webp)\n\n### 提示通知（縮短版）：\n\n![提示通知](https://i.ibb.co/SPfxjVx/skiptransitions-toasts.webp)\n\n## 所有變更（可配置）\n\n**移除以下干擾性過渡效果：**\n- 標題畫面按鈕淡入，防止點擊\n- Mojang標誌在其他選單上方淡出，暫時凍結它們\n\n**同時移除以下裝飾性過渡效果：**\n- 套用資源包變更時Mojang標誌淡入（現改為直接切換）\n- 提示通知滑入/滑出\n  - 相關的「呼嘯」音效",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

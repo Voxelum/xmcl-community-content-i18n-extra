@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nDsNcldLYM4=",
+  "content": "<p>Tickrate API 是一個簡易（？）的函式庫模組，允許操控遊戲內的運行速率。<br>靈感來源於 Guichaguri 的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/tickratechanger\" rel=\"nofollow\">Tickrate Changer</a><br><br>注意：此模組與 1.20.3+ 版本引入的 <a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraft.wiki%252fw%252fCommands%252ftick\" rel=\"nofollow\">/tick 指令</a>完全無關<br><br>基本用法：<br>使用遊戲內指令 /setTickrate 來調整運行速率。<br><br>指令範例：<br>/setTickrate entity @e[type=warden] 100（將沉靈守衛的運行速率更改為 100）<br>/setTickrate dimension minecraft:overworld 100（將主世界的運行速率更改為 100）<br>/setTickrate area minecraft:overworld 0 0 0 10 10 10 100（新增運行速率區域，輸入完全相同座標並設定 20 運行速率可移除區域）<br>/setTickrate exclude @e[type=warden] true（使沉靈守衛不受維度運行速率影響）<br><br>API 範例：<br>TickrateUtil#setBaseTickrate（變更實體的基礎運行速率）<br>TickrateUtil#setTickrate（變更實體的當前運行速率）<br>TickrateUtil#setLevelTickrate（變更維度的運行速率）<br>TickrateUtil#addTickrateArea（在維度中新增運行速率區域）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NKP5zob+owg=",
+  "content": "這是一個可設定的釣魚模組。它的運作方式是：每當你正常釣到一條鮭魚物品時，它會生成一條活的鮭魚實體！\n\n[![示範影片](https://img.youtube.com/vi/MLGqE1s8gpI/0.jpg)](https://www.youtube.com/watch?v=MLGqE1s8gpI)\n\n你知道嗎？\n\n它完全支援資料包！事實上，整個模組就是利用一個資料包來實現物品轉換為實體的！\n\n將你的 JSON 檔案放在 fishing 資料夾中，重新載入資料包，就能立刻釣到新的實體！\n\nJSON 格式如下：\n\n```json\n{\n    \"input\": {\n        \"item\": \"minecraft:tropical_fish\"\n    },\n    \"result\": {\n        \"id\": \"minecraft:tropical_fish\"\n    }\n}\n```\n\n這會將 minecraft:tropical_fish 物品轉換成 minecraft:tropical_fish 實體！\n\n我們甚至還能為實體加入 NBT！\n\n```json\n{\n    \"input\": {\n        \"item\": \"minecraft:tropical_fish\"\n    },\n    \"result\": {\n        \"id\": \"minecraft:tropical_fish\",\n        \"nbt\": {\n            \"Variant\": 117834241\n        }\n    }\n}\n```\n\n這樣每次都會生成一隻特定品種的熱帶魚！\n\n<sub>另外，如果你想覆蓋其中一個原版轉換，請建立一個命名空間為 fishingreal 的資料包，並覆蓋 cod.json、pufferfish.json、salmon.json 或 tropical_fish.json 檔案。</sub>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

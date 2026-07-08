@@ -1,0 +1,6 @@
+{
+  "bodyHash": "V1Cf9F5+BJU=",
+  "content": "# 🔥 FireClient\nFireClient 是一款提升遊戲體驗的實用模組。\n\n它擁有大量可配置的模組與設定，能強化原版遊戲體驗，特別針對多人伺服器設計。\n\n## 亮點功能：\n### 裝備組合套件\n可儲存、載入、編輯與分享客戶端裝備組合！套件會儲存為可分享的 `.json` 檔案。您也能透過剪貼簿複製貼上。甚至可選擇在聊天室發送套件供他人下載！\n\n![顯示裝備組合模組](https://cdn.modrinth.com/data/Y2cfRBmm/images/5ec7fc12d4f5581b6046abe8c21895da9e0d7afd_350.webp)\n### 座標顯示\n顯示您的座標，可選用跨維度換算座標功能，還能開啟懸浮視窗查看座標，無需在主遊戲畫面中顯示！\n### 大型物品顯示\n讓特定物品以更大尺寸渲染，便於檢視\n\n![顯示大型物品模組](https://cdn.modrinth.com/data/Y2cfRBmm/images/90933179e7821cf9eaa51423c0fc891869592792_350.webp)\n### 靜音功能\n可屏蔽特定音效，使其無法被聽見\n### 指令工具\n`/ftext` 可將文字轉換成 ᴛɪɴʏ ᴛᴇxᴛ 特殊字體\n\n`/fcalc` 可進行數學運算與計算堆疊數量\n\n`/fkit` 是裝備組合模組的指令版本，兩者功能完美互通\n### 錯誤修復\n修復火焰熄滅音效重複播放、使用激流三叉戟時盾牌遮蔽畫面等問題！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

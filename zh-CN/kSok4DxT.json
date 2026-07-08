@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sR4vcxOWOfQ=",
+  "content": "![传送带有什么问题](https://raw.githubusercontent.com/LIUKRAST/SmartBounds/refs/heads/master/images/chain_conveyors.png)  \n本模组旨在减少Create模组中部分方块实体巨大且无意义的[渲染边界](#what-are-render-bounds)。  \n您可以使用以下命令检查NeoForge方块实体的渲染边界：`/neoforge debug_blockentity_renderbounds true`\n\n同时，它还重构了部分方块实体的[渲染边界缓存机制](#render-bounds-caching)。\n\n虽然是一个较小的优化，但在大型机械装置和机器密集区域中，它能带来显著改善。\n\n当前支持：  \n- 机械臂  \n- 传送带  \n- 链式传送带  \n- 工厂面板  \n- PSI与部署器  \n- 滚筒  \n- 蛙口装置  \n\n## 什么是渲染边界？  \n通常为了优化性能，屏幕后方/视野外的方块不会被渲染以避免无效计算。  \n对于普通方块，这个边界被设定为3x3区域，但方块实体的渲染边界是可自定义的。  \n原因很简单：需要渲染超出单个方块尺寸的物体。例如链式传送带需要更大的渲染边界来显示链条连接。  \n问题在于，Create模组多数情况下采用“宁大勿小”的策略，直接扩大整个区域。这导致大量本不可见的方块实体仍然被渲染。\n\n## 渲染边界缓存  \n边界框并非每帧重新生成，因为方块仅在特定事件中需要更新边界框。  \n本模组对此也进行了优化，移除了部分方块（如传送带）无意义的边界框重载——此前它们会在每个游戏刻（每秒20次）重新计算边界框。  \n现在仅当方块被破坏或替换时才会更新，有效降低了卡顿。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

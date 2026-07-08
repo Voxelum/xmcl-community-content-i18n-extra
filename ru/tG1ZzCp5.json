@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZCXTLaqeVBs=",
+  "content": "## AStages-Мост навыков Pufferfish\n\nЭтот легковесный мод добавляет простую интеграцию между **[AStages](https://www.curseforge.com/minecraft/mc-mods/astages)** и **[Навыками Pufferfish](https://www.curseforge.com/minecraft/mc-mods/pufferfishs-skills)**.  \nОн позволяет навыкам в дереве навыков **давать или убирать AStages** при их разблокировке игроком.\n\n### Особенности\n\n*   Назначайте один этап при разблокировке навыка.\n*   Простая конфигурация на основе datapack.\n*   Полезно для RPG и систем прогрессии, ориентированных на этапы.\n\n> Требуется установить как AStages, так и Навыки Pufferfish.\n\n### Настройка\n\nЭтапы можно давать или убирать, добавив простой раздел `astages` в ваш JSON навыка.  \nСмотрите **Вики** для синтаксиса и примеров.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

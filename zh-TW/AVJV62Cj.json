@@ -1,0 +1,6 @@
+{
+  "bodyHash": "u653UHd3p08=",
+  "content": "這個數據包添加了各種NPC，對地圖製作很有幫助，並允許在多人遊戲中創建自定義軍隊。NPC會對環境做出反應。\n\n該數據包不會改變生存遊戲玩法，但對地圖製作和其他數據包的引用很有用。\n\n# 自定義軍隊\n### 開始遊戲前\n\n如果您使用軍隊功能，不建議使用傳送。\n\n設定軍隊所有者：\n_打開數據包，進入 data/npc_army/function/_\n  \n    在 team1.mcfunction 中，設定第一支軍隊所有者的名稱，然後在遊戲中運行 /team join team1 <team1所有者的用戶名>\n  \n    在 team2.mcfunction 中，設定第二支軍隊所有者的名稱，然後在遊戲中運行 /team join team2 <team2所有者的用戶名>\n\n設定士兵將佩戴的軍隊旗幟：\n_打開數據包，進入 data/npc_army/function/_\n\n     在 banner_team_1.mcfunction 中，打開連結並生成旗幟，然後相應地複製 nbt\n\n     在 banner_team_2.mcfunction 中，打開連結並生成旗幟，然後相應地複製 nbt\n\n### 遊戲中，軍隊設定完成後\n\n召喚各軍隊的守衛，對於隊伍1的每個騎士運行 **/function living_npc:player_guard/team1/guard1_[到 9]_**，對於隊伍2的每個騎士運行 **/function living_npc:player_guard/team2/guard10_[到 18]_**\n\n\n\n## 其他NPC\n\n\n### 盟友（召喚指令）\n\n- /function living_npc:village_guard/village_guard1[到 4]\n\n每個區域最多可召喚4個村莊守衛，可以召喚更多，但不要與其他守衛在同一位置，以避免衝突\n\n- /function living_npc:mario/mario\n- /function living_npc:mario/toad\n\n### 敵人（召喚指令）\n\n- /function living_npc:darknut/darknut1 (到 10)\n\n每個區域最多可召喚10個黑暗騎士，可以召喚更多，但不要與其他黑暗騎士在同一位置，以避免衝突\n\n- /function living_npc:darklink/darklink\n \n- /function living_npc:yiga/yiga\n \n- /tag <玩家名稱> add yiga_wanted -> 每15分鐘會在玩家位置生成一個依蓋隊成員",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

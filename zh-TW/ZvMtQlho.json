@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8BlE43OD3KY=",
+  "content": "# 關於此光影\n_**Bliss 是基於 Chocapic13 的 V9.0 - V9.1 進行大幅修改的版本；[原始光影可以在這裡找到！](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)**_\n\n我很喜歡 chocapic13 的光影，但我仍無法滿足於現狀。在學習開發光影的過程中，我決定嘗試將自己的視覺目標融入這個光影。因此，我完成了這個與原始光影截然不同的大規模修改版！\n# 系統需求\n- 需安裝模組 [\"Iris\"](https://www.irisshaders.dev/download)，模組 [\"Optifine\"](https://optifine.net/downloads) 或許也能運作。\n- 針對 Minecraft 1.17.0 以上版本設計\n- 支援 AMD、Intel 與 NVidia 顯示卡\n- Apple 裝置因 OpenGL 版本限制而支援有限。[請參考此討論串了解更多資訊](https://github.com/X0nk/Bliss-Shader/issues/181)\n# 有問題？遇到錯誤？想協助測試不穩定版本？\n- [透過我的 Discord 伺服器聯絡我](https://discord.gg/8nVt56H9zH)\n- [或透過 ShaderLabs Discord 聯絡我](https://discord.gg/RpzWN9S)\n- [在此測試不穩定的 GitHub 分支（README 中有下載指南）](https://github.com/X0nk/Bliss-Shader/tree/Unstable)\n- [在此回報錯誤、提出功能請求或詢問問題](https://github.com/X0nk/Bliss-Shader/issues/new/choose)\n- [想贊助我嗎？請在此捐款](https://ko-fi.com/xonkdev)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

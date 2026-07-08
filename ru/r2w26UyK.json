@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5o8egAC8/6k=",
+  "content": "Поскольку [Open Terrain Generator](https://www.curseforge.com/minecraft/mc-mods/open-terrain-generator) фокусируется на разработке для текущих версий Minecraft, данный проект продолжит свою разработку специально для 1.12.2.\n\n**Особенности:**\n\n. Поддержка модифицированных мобов для биомов\n\n. Отключена предгенерация для измерений\n\n. Исправлены пользовательские цвета травы\n\n. Различные улучшения производительности\n\n. Система рек OTG 1.16.5 портирована назад\n\n**Документация:**\n\n[Добавление модифицированных мобов в биомы](https://modrinth.com/)\n\n> SpawnCreatures: [{\"mob\": \"oe:crab\", \"weight\": 4, \"min\": 3, \"max\": 3}]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

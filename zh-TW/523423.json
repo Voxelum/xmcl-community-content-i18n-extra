@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JlPc/4xFNLE=",
+  "content": "<p>為Fabric/NeoForge添加一個逆向合成台。</p><p>使用此模組錯誤合成的物品可被拆解並重新利用。</p><p>預設情況下不會消耗經驗值。<br><br></p><p><span style=\"font-weight:400\">合成配方</span></p><ul>\n<li>逆向合成台</li>\n</ul><p>將工作台用鑽石圍繞排列即可合成。</p><p><img src=\"https://media.forgecdn.net/attachments/392/783/recipe_uncrafting_table.png\" alt=\"合成台 x1, 鑽石 x8\" width=\"300\" height=\"132\"></p><h2>操作介面</h2><p><img src=\"https://media.forgecdn.net/attachments/504/859/2022-10-06-225338.png\" width=\"400\"><br><span>(本模組可根據物品無限增加拆解層數，若需維持遊戲平衡請自行調節)</span></p><p>&nbsp;</p><p>&nbsp;</p><p>設定檔案路徑：(遊戲目錄)/config/uncraftingtable76.json</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

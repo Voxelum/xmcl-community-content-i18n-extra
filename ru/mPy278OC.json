@@ -1,0 +1,6 @@
+{
+  "bodyHash": "37srL9+tpdg=",
+  "content": "Снимки симулированных диаграмм\nПозволяет делать идеальные изображения дирижабля с диаграммы устройства.\n\n![Рендер Cloudskipper](https://github.com/cakeGit/Simulated-Diagram-Snapshots/blob/main/img/Cloud%20Skipper.png?raw=true)\n\n![Игровое меню](https://github.com/cakeGit/Simulated-Diagram-Snapshots/blob/main/img/Ingame%20Menu.png?raw=true)\n\n![Сохранение масштаба](https://github.com/cakeGit/Simulated-Diagram-Snapshots/blob/main/img/Scale%20Preservation.png?raw=true)\n\nРаботает полностью на стороне клиента и сохраняет снимки в папке `screenshots/diagrams/`.\n\n**Примечание: у этого мода есть некоторые ограничения при попытке отрисовывать очень большие дирижабли в высоком разрешении, но это не должно влиять на разумное использование.**\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

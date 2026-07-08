@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uEMWwLsF/0c=",
+  "content": "本模組簡介：\n=================\n\n這是 Feintha 的 Origin Furs 模組移植版，原版目前可在 Modrinth 取得。原版僅支援 Fabric 模組載入器，此分支版本專為 Forge 模組載入器設計。\n\n原版 Fabric 版本可在以下網址找到：[https://modrinth.com/mod/origin-furs](https://modrinth.com/mod/origin-furs)\n\n本模組需要 **AzureLib** 支援\n\n額外資源：\n=====================\n\n建議搭配使用我的好友 Joxta 製作的中世紀起源資源包，需先安裝中世紀起源模組。[https://www.curseforge.com/minecraft/texture-packs/medieval-origins-visuals](https://www.curseforge.com/minecraft/texture-packs/medieval-origins-visuals)\n\n原始模組說明：\n=========================\n\n這是一款起源模組擴充，為玩家角色添加模型與視覺效果。所有模型均使用 AzureLib（或 GeckoLib）客製化製作，支援覆蓋皮膚、全亮紋理，以及自訂模型部件與動畫。\n\n若在伺服器上使用，請確保伺服器也安裝此模組！否則渲染可能無法正常運作\n\n致謝：\n========\n\n感謝 Feintha 創作 Origin Furs Fabric 版模組，以及所有參與開發精彩起源模組的貢獻者，讓我們的 Minecraft 遊玩方式更加豐富多元 :)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

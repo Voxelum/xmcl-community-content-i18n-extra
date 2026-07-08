@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+wYRHsh9YFg=",
+  "content": "![](https://media.forgecdn.net/attachments/1043/239/pale_garden_logo.png)\n\n關於這個模組\n=============\n\n本模組將 [花園甦醒更新](https://minecraft.wiki/w/Winter_Drop) 的大部分功能回溯移植至遊戲的舊版本。\n\n## 依賴項目\n- [DeltaBox Lib](https://modrinth.com/mod/deltaboxlib)\n- [Architectury](https://modrinth.com/mod/architectury-api)\n- [TerraBlender](https://modrinth.com/mod/terrablender)\n- 若使用 Forge，需安裝 [Kotlin For Forge](https://modrinth.com/mod/kotlin-for-forge)\n- 若使用 Fabric，需安裝 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n\n![](https://media.forgecdn.net/attachments/1057/78/2025-01-04_12.png)\n\n功能特色\n--------\n\n完整更新內容盡在此處！\n\n*   新增蒼白橡木系列方塊\n*   新增蒼白苔蘚\n*   新增蒼白垂掛苔蘚\n*   新增蒼白苔蘚地毯\n*   新增蒼白橡樹\n*   新增蒼白花園生態域\n*   新增眼綻花（開放與閉合變種）\n*   新增樹脂團塊\n*   新增樹脂團塊作為盔甲紋飾\n*   新增樹脂方塊\n*   新增樹脂磚系列方塊\n*   新增雕紋樹脂磚方塊\n*   蒼白橡木葉擁有專屬粒子效果\n*   流浪商人會出售蒼白橡樹苗\n*   眼綻花的日夜行為變化\n*   樹脂、樹脂磚、吱嘎聲、眼綻花及吱嘎之心擁有自訂音效\n*   蒼白苔蘚地毯方塊會向相鄰方塊蔓延生長\n*   吱嘎之心與吱嘎生物及其行為機制\n*   掠奪者、衛道士、喚魔者與幻術師會害怕吱嘎生物\n*   蜜蜂會因眼綻花中毒\n*   吱嘎生物與眼綻花具有自發光材質\n\n![](https://media.forgecdn.net/attachments/998/851/java-2024-10-24-22.png)\n![](https://media.forgecdn.net/attachments/998/857/java-2024-10-24-22.png)\n\n常見問題\n---\n\n**1.19、1.21 版本和 Fabric 支援呢？** Fabric 版本與 1.21 更新正在開發中！但由於是業餘專案，無法保證發布時程！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

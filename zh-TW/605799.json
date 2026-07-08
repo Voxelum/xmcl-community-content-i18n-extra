@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FSkpJil+WpA=",
+  "content": "<p>一款相容模組，用於將&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat\" rel=\"nofollow\">Simple Voice Chat</a>&nbsp;的語音錄製功能與&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.replaymod.com%252f\" rel=\"nofollow\">ReplayMod</a>&nbsp;整合。</p><p>&nbsp;</p><p><img src=\"https://i.imgur.com/jQsK7O3.png\" alt=\"\"></p><p>&nbsp;</p><h2>功能特色</h2><ul>\n<li>開箱即用</li>\n<li>錄製語音聊天玩家圖示</li>\n<li>錄製位置音效</li>\n<li>錄製群組聊天音訊</li>\n<li>錄製您自己的音訊</li>\n<li>渲染時每個音軌皆可獨立匯出</li>\n<li>支援 Simple Voice Chat 插件 API</li>\n<li>支援加快或減慢重播速度</li>\n</ul><h2>支援版本</h2><p>僅支援 ReplayMod 所發布的最新 Minecraft 版本。</p><p>&nbsp;</p><h2>設定</h2><p>如果您是伺服器擁有者，可以在語音聊天設定中提高&nbsp;<code>broadcast_range</code>&nbsp;的數值，以便能錄製並重播超出錄製者一般語音聊天範圍的更遠音訊。</p><p>&nbsp;</p><h2>鳴謝</h2><ul>\n<li><a href=\"https://github.com/waywardgeek/sonic\" rel=\"nofollow\">Sonic</a></li>\n<li><a href=\"https://github.com/ReplayMod/ReplayMod\" rel=\"nofollow\">ReplayMod</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

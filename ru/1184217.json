@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3Rs/PgPHmpc=",
+  "content": "<p>если оригинальный создатель захочет, чтобы я убрал это, я сделаю это<br><br>всё, что я сделал, — перенёс проверку this.shootingEntity != null на первую строку<br>теоретически это должно привести к раннему выходу из функции, и она не будет использоваться, если объекта нет<br>тем самым устраняя появление этой ошибки<br>во второй строке проверяется, равен ли this.shootingEntity нулю в исходной версии<br>эта проверка выполняется слишком поздно<br><a href=\"https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod</a>, оригинал создателя</p>\n\nСодержание связано с модом Minecraft, ресурс-паком, модпаком, шейдер-паком или другими ресурсами, связанными с Minecraft. Пожалуйста, сохраняйте стиль языка приятным для геймеров.",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

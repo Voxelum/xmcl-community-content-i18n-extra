@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RbhK/PEAcro=",
+  "content": "<p>是否曾想过<em>\"为什么没人给Minecraft添加海浪？这需要什么条件？\"</em>现在它终于来了！用全新的海浪改造你的世界，这些带有景致波浪的海滩将带来氛围感十足且宁静的浪花拍岸声。这些海浪不仅是为了观赏，它们还有机会在沙滩上沉积有用的材料，并能与行进路径中的实体互动，为你的游戏体验增添激动人心的新元素，让你有理由再次造访海滩。无论你是在探索、建造还是单纯欣赏风景，这都将通过海洋的美丽与丰饶提升你的游戏体验。跃入海浪，发现它们可能带来的宝藏吧！</p>\n\n<p>本模组添加并使用了以下标签，均可按需编辑：</p>\n<ul>\n<li>方块标签：<code>waves:wave_blocks</code> - 海浪可在岸边随机沉积的方块列表</li>\n<li>流体标签：<code>waves:has_waves</code> - 可生成海浪的流体列表</li>\n<li>生物群系标签：<code>waves:has_waves</code> - 可生成海浪的生物群系列表</li>\n<li>实体标签：<code>waves:wave_interaction_blacklist</code> - 禁止与海浪交互的实体黑名单</li>\n<li>实体标签：<code>waves:wave_interaction_whitelist</code> - 允许与海浪交互的实体白名单</li>\n</ul>\n\n<p>海浪生成的Y轴高度可通过json文件配置。该json文件位于<code>./config/waves/waves.json</code>，包含原版维度的默认配置。</p>\n\n<p>对于使用带有实体雷达的小地图模组并希望<strong>隐藏</strong>海浪实体的玩家：海浪实体的<code>id</code>为<code>waves:waves</code>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

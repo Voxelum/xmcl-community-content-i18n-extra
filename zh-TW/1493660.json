@@ -1,0 +1,6 @@
+{
+  "bodyHash": "upu92klrH6c=",
+  "content": "<h1>耐久提示</h1><p>耐久提示是一款輕量級的 Fabric 用戶端模組，能協助您避免工具、武器與護甲損壞，在耐久度過低時提醒您。</p><p>當物品即將損壞時（預設約剩餘 10% 耐久度，或您自訂的閾值），您將會收到：</p><ul>\n<li><strong>紅色警告訊息</strong></li>\n<li><strong>短暫的音效提示</strong></li>\n</ul><h3>範例：</h3><p><img src=\"https://cdn.modrinth.com/data/cached_images/37c11ceec999ba5517e4bb6892a9e8b19903a135_0.webp\" alt=\"耐久提示鎬\"></p><h2>功能特色</h2><ul>\n<li>監控以下物品的耐久度：<ul>\n<li>主手及副手物品</li>\n<li>頭盔、胸甲、護腿與靴子</li></ul></li>\n<li>每件物品僅在損壞前提醒一次，直到其被修復或更換。</li>\n<li>預設警告閾值：約剩餘 10% 耐久度，並考慮到修補附魔的影響。</li>\n</ul><h2>設定選項</h2><ul>\n<li>可調整警告閾值（預設 10%）</li>\n<li>開關警告音效（預設開啟）</li>\n<li>如需透過圖形介面進行遊戲內設定，需要安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" target=\"_blank\" rel=\"nofollow\">ModMenu</a></li>\n</ul><p><img src=\"https://cdn.modrinth.com/data/cached_images/a685dfbafde8fdc6e4b17f59f1a1d9811c216b76.png\" alt=\"耐久提示設定\"></p><h3>適用於鞘翅：</h3><p><img src=\"https://cdn.modrinth.com/data/cached_images/7885db97ce348f439883c941bd76001401472733.png\" alt=\"耐久提示鞘翅\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

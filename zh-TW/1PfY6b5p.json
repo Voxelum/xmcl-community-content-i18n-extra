@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LF5jQSEFdDA=",
+  "content": "這是一個外部 REI 模組，旨在解決模組存取 JEI API 時所帶來的問題，方法是將這些使用重新對應回其等效的 REI 程式碼。\n\n此模組極不穩定，會調用糟糕的駭客手段，應作為最後手段使用。\n\n**此模組必須與 Roughly Enough Items 搭配使用。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

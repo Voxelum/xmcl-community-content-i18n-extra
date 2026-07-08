@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xg4LYgjGkWc=",
+  "content": "<center><p style=\"text-align: center;\">移除床的方塊實體渲染器，改用預設的Minecraft模型渲染器。<br />這能提升效能並支援資源包！</p>\n<p style=\"text-align: center;\">(完全客戶端模組)<br /> <br />你可能會問，那有什麼缺點呢？<br />其實幾乎沒有缺點，所有行為都與原版相同。</p>\n<p style=\"text-align: center;\">目前唯一不相容的模組是Bedspreads，因為該模組使用了床的方塊實體渲染器。</p>\n<p style=\"text-align: center;\">此外，使用預設渲染器添加自訂床的模組需要提供模型檔案。</p>\n<p style=\"text-align: center;\">使用自訂方塊實體渲染器添加床的模組則不受影響。<br /> <br />為什麼床一開始要使用方塊實體渲染器？<br />當床在1.12版本加入時，遊戲仍使用舊的方塊ID系統，該系統只允許有限數量的ID。<br />由於1.12加入了許多新方塊，遊戲快要用完ID了，所以開發者將床改為方塊實體+渲染器來節省ID。<br />在1.13版本（扁平化更新）引入了新的ID系統，允許無限數量的ID，但床的方塊實體及其渲染器未被修改。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">我安裝了這個模組但看起來和原版一樣！</p>\n<p style=\"text-align: center;\">預設情況下，此模組包含完美模仿原版行為的模型，要改變床的外觀，</p>\n<p style=\"text-align: center;\">請從<a href=\"https://github.com/TeamMidnightDust/BetterBeds/releases/tag/v1.0.0-packs\">這裡</a>安裝示例資源包，或根據示例創建自己的資源包。</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://i.ibb.co/rsTbTdf/betterbeds-banner.png\" width=\"768\" height=\"132\" /></p>\n<p style=\"text-align: center;\"><img src=\"https://i.ibb.co/t2dG0MP/2021-02-06-12-32-46.png\" width=\"655\" height=\"368\" /></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

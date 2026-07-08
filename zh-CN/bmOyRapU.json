@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/+9bydv6+yU=",
+  "content": "# 更好的世界加载\n\n为你的Minecraft世界加载界面增添现代化进度条、详细的区块生成统计信息，以及可选的音效反馈！\n\n## 功能特性\n\n### 📊 现代化进度显示\n- 用简洁的进度条取代默认的区块地图\n- 显示精确的区块计数（例如\"125/256区块\"）\n- 可通过[MidnightLib](https://modrinth.com/mod/midnightlib)进行配置\n\n### 🔍 详细区块信息（可选）\n- 可开关的详细区块状态分类：\n  - 显示各生成阶段的区块数量\n  - 采用颜色编码便于阅读\n  - 包含：空区块、结构起始、生物群系、特性、光照、完整等状态\n\n### 🔊 进度音效（可选）\n- 生成进度推进时会播放柔和的\"hat\"音效\n\n## 配置选项\n通过MidnightLib可调整功能：\n- 显示/隐藏详细区块信息\n- 开关进度音效\n\n## 为什么选择这个模组？\n- 世界生成时提供更清晰的视觉反馈\n- 真正有用的加载信息展示\n- 轻量级 - 不会影响加载性能\n- 完全根据个人偏好自定义\n\n特别适合速通玩家、技术型玩家，以及任何想要更好加载反馈的玩家！\n\n如需模组帮助，请在Discord联系我@`h1ggsk`！\n\n## 运行需求\n- Fabric Loader\n- [Fabric API](https://modrinth.com/mod/fabric-api)（必需）\n\n## 如果你觉得这个模组很有帮助，欢迎捐赠支持！\n\n比特币钱包地址：`bc1qzhuf0phu508ktrghw3x42cgvp9r7y0m36lt8wp`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

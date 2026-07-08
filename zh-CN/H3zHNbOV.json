@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KHQkS9KdXS8=",
+  "content": "# 保护区域并执行服务器规则的模组！\n该模组允许你创建立方体区域、限制方块操作（破坏、放置、PVP、生成等）、设置例外情况，并在进入或离开区域时执行指令。\n\n环境要求\n\n客户端模组\n\n```\nFabric 1.21 - 1.21.1\n```\n\nWiki 文档\n[https://protectedarea.crewved.com/](http://node1.crewved.com:25570/)\n\n支持 Discord\n[https://discord.gg/3cmdp4f7NC](https://discord.gg/3cmdp4f7NC)\n\n**概述**\nProtectedArea 是由两部分组成的系统：一个 Paper 服务器插件和一个可选的 Fabric 客户端模组。插件负责服务器端的所有保护逻辑、数据持久化和指令管理。客户端模组则通过需要客户端渲染和物理引擎的功能来扩展体验。\n\n这两个组件通过自定义插件通道（protectedarea:main）进行通信。当安装了该模组的玩家连接到运行插件的服务器时，服务器会实时发送区域数据、规则状态和调试信息。在没有安装插件的服务器上，该模组不会产生任何作用。\n\n**架构**\n**服务器插件（Paper）**\n该插件管理所有受保护区域，通过 Bukkit 事件监听器执行规则，将数据存储为 YAML 文件，并向授权管理员提供单个指令树（/area）。同时负责处理插件消息，向客户端发送区域数据。\n\n**客户端模组（Fabric）**\n该模组从服务器接收区域数据，并提供三种无法单独在服务器端实现的功能：\n\n视觉轮廓——为每个区域渲染带颜色的线框盒\n物理屏障——客户端碰撞机制，强制执行禁止进入（no_entry）和禁止离开（no_exit）规则\n调试 HUD——带有实时区域信息的多页覆盖界面",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

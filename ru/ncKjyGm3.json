@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GPxA196OZk8=",
+  "content": "# Безфейдовый\n**Это форк [No Fade](https://github.com/UltimateBoomer/mc-no-fade) для версий 1.20 и выше.**\n\n\nВас раздражает длительная анимация перехода при загрузке в Minecraft? Безфейдовый — это клиентский мод, который убирает все эти анимации затухания в Minecraft. Это касается как затухания с заставки Mojang до главного меню, так и затухания после перезагрузки текстур.\n## **Что нового по сравнению с оригиналом?**\n- Поддержка версии 1.20 и выше.\n- Поддержка Forge и NeoForge!\n- Убирает больше анимаций затухания!\n- Конфигурация, позволяющая отключать такие эффекты затухания, как затухание чата и затухание субтитров.\n\n![Безфейдовый отключен](https://raw.githubusercontent.com/DerpDerpling/Fadeless/refs/heads/1.21/assets/fadeless_comparison.webp)\n\n\n## Это форк [no fade](https://github.com/UltimateBoomer/mc-no-fade). Автор дал мне разрешение [на повторную загрузку/поддержку этого мода](https://raw.githubusercontent.com/DerpDerpling/i.derpy.xyz/main/img/proof.png). Вся заслуга принадлежит [UltimateBoomer](https://github.com/UltimateBoomer).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

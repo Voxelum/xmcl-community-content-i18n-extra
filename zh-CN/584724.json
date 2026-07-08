@@ -1,0 +1,6 @@
+{
+  "bodyHash": "R0buWzjsnvg=",
+  "content": "<p><img src=\"https://github.com/e-splat/WorldEditItems/blob/Quilt/Fabric/cosoworldedititems.png?raw=true\" alt=\"\"></p><p>是否厌倦了WorldEdit使用原版物品破坏游戏体验？这个模组正是为你准备的！它新增了三件专属工具，让你彻底告别用原版物品执行WorldEdit操作的尴尬。</p><p><strong>前置需求：<a href=\"https://www.curseforge.com/minecraft/mc-mods/worldedit\" rel=\"nofollow\">WorldEdit</a></strong></p><p>支持<strong>Fabric</strong>（需<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" rel=\"nofollow\">Fabric API</a>）、<strong>Quilt</strong>（使用Fabric版本，需<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fqsl\" rel=\"nofollow\">QSL基础库</a>）及<strong>Forge</strong></p><h2>配置指南</h2><ol>\n<li>确认已安装WorldEdit（否则本模组无法运行）</li>\n<li>将.jar文件放入mods文件夹</li>\n<li>在游戏中手持选区棒/导航棒/超级镐，输入<code>/tool selwand</code>或<code>/tool navwand</code>指令（当前超级镐功能暂不可用，后续将更新）</li>\n<li>尝试使用选区斧或导航棒查看效果</li>\n</ol><p><strong>注意</strong>：若指令无效，请向<a href=\"https://github.com/enginehub/worldedit/issues\" rel=\"nofollow\">WorldEdit开发组</a>反馈</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PbGGON9IzmU=",
+  "content": "<p>Этот мод предоставляет конфигурацию, которая позволяет изменять масштаб, силу атаки, скорость, высоту прыжка и другие параметры практически любого живого существа в игре.</p><p>&nbsp;</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fhastebin.com%252foqihuredek.pl\" rel=\"nofollow\">Пример конфигурации</a></p><p>&nbsp;</p><p>Мод сгенерирует полный список значений конфигурации по умолчанию. По умолчанию этот мод ничего не меняет, пока вы не отредактируете конфигурацию.</p><p>&nbsp;</p><pre>minecraft {\n    player {\n        D:armor=0.0\n        D:damage=0.0625\n        D:health=0.5\n        D:jump=0.5\n        D:reach=0.0625\n        D:scale=0.0625\n        D:speed=0.25\n        D:toughness=0.0\n    }\n}</pre><p>Например, эта конфигурация сделает игрока размером с Chisels-and-Bits, включая его высоту прыжка и скорость.&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

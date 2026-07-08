@@ -1,0 +1,6 @@
+{
+  "bodyHash": "52AvI2Yl45M=",
+  "content": "# 树木建造者\n\n_渐进式随机生成树木；决定其大小和宽度；控制每个树枝的位置并让它随机扩展，生成更多树枝和树叶，所有这些只需使用一根魔杖即可完成，并且随时可以通过单一命令停止生成过程！_\n\n## 获取魔杖和停止生成过程的命令：\n\n**/function tree_builder:wand**\n\n- 运行此命令以获取树木建造者魔杖\n- 您可以通过右键点击使用魔杖，在生成过程中可能需要点击多个位置来控制树木的大小。树叶和原木将在您点击的位置无限生成，直到您运行下一个命令：\n\n**/function tree_builder:stop_trees_generation**\n\n- 运行此命令以停止随机树木的生成",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

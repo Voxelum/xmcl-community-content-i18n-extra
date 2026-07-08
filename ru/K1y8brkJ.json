@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9zQkyNhkwj8=",
+  "content": "![](https://i.imgur.com/3HWH60C.png)\n\n<div>\n    <a href=\"https://modrinth.com/mod/plasmo-voice\">Plasmo Voice</a>\n    <span> | </span>\n    <a href=\"https://modrinth.com/plugin/pv-addon-soundphysics\">Modrinth</a>\n    <span> | </span>\n    <a href=\"https://github.com/plasmoapp/pv-addon-soundphysics/\">GitHub</a>\n    <span> | </span>\n    <a href=\"https://discord.com/invite/uueEqzwCJJ\">Discord</a>\n     <span> | </span>\n    <a href=\"https://www.patreon.com/plasmomc\">Patreon</a>\n</div>\n\n# pv-addon-soundphysics\n\nСовместимость-аддон для модов [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) и [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered).\n\nС помощью этого аддона Plasmo Voice будет подвергаться воздействию Sound Physics.\n\n## Установка \n\nПоддерживаются как Fabric, так и Forge. Один и тот же файл аддона работает на обеих платформах.\n\n1. Установите [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) и [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)\n1. Скачайте аддон с [Modrinth](https://modrinth.com/mod/pv-addon-soundphysics/)\n1. Поместите его в папку `~/mods`\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

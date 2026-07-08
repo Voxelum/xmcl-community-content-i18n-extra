@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vGM6HoY77Ho=",
+  "content": "# АРХИВ — Приложение Pokedex добавлено в мод для смартфонов\n\n[Кобблмон Смартфон](https://modrinth.com/mod/cobblemon-smartphone)\n\n---\n\n# Приложение Pokedex для Кобблмон Смартфона\n\nПростой мод, который добавляет приложение Pokedex в мод [Кобблмон Смартфон](https://modrinth.com/mod/cobblemon-smartphone).\n\nКонфигурация находится в файле `config/cobblesmartphone-pokedex.json` и содержит следующие параметры:\n\n```json\n{\n  \"pokedexColour\": \"red\",\n  \"actionEnabled\": true\n}\n```\n\nВы можете изменить значение `pokedexColour`, чтобы изменить цвет границы интерфейса Pokedex, как если бы вы открыли его с помощью настоящего предмета Pokedex. Если по какой-либо причине вы хотите отключить это приложение, установите `actionEnabled` в значение `false`.\n\nВы можете использовать этот мод в своём модпаке, но (по возможности) укажите ссылку на страницу Modrinth (2) в ваших манифестах вместо того, чтобы перераспространять его напрямую.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

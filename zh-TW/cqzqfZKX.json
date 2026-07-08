@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qOn4+eM+YvE=",
+  "content": "《充能護符》是一款模組，新增多種具有使用次數限制的「充能型」護符，透過設定使用次數來平衡伺服器中的護符能力。\n\n每種充能護符皆可透過對應物品進行充能（最多5次）。支援REI/JEI模組顯示充能配方。\n\n## 特色功能\n\n![充能再生護符](https://cdn.modrinth.com/data/cqzqfZKX/images/62f29cf1cf7d84a03eacbabcd9b55fd5922747e3.webp)\n### 充能再生護符\n* 可用任何無負面效果的食用物品充能\n* 當玩家生命值低於35%時，消耗1次充能觸發治療效果\n\n![充能吸收護符](https://cdn.modrinth.com/data/cqzqfZKX/images/6f714ce6e3398f3fe236589e0be6b30f845b1d3b.png)\n### 充能吸收護符\n* 需用營養值>4的高級料理充能（需無負面效果）\n* 受到多數傷害時，消耗1次充能獲得2顆金黃愛心（吸收效果）\n* 冷卻時間20秒\n\n![充能發光護符](https://cdn.modrinth.com/data/cqzqfZKX/images/353dcf2a2a3e73f62d8974643ee90c5627b6d4e3.webp)\n### 充能發光護符\n* 在陽光下自動充能\n* 攻擊生物後使其發光30秒\n\n![充能疾速護符](https://cdn.modrinth.com/data/cqzqfZKX/images/d9cf6520a9ff8f6990ba4b13f52761e54c902f50.webp)\n### 充能疾速護符\n* 使用糖充能\n* 衝刺狀態下跳躍時，獲得180秒（3分鐘）速度效果\n* 冷卻時間120秒（2分鐘）\n\n![充能不死圖騰護符](https://cdn.modrinth.com/data/cqzqfZKX/images/04b23bb966035e1b866837f94f50b39c442a5638.webp)\n### 充能不死圖騰護符\n* 需用不死圖騰充能\n* 玩家死亡時自動消耗圖騰復活\n\n### 充能附魔不死圖騰護符\n* 需用《生物群系翻新》模組的附魔不死圖騰充能\n* 玩家死亡時自動消耗圖騰復活",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

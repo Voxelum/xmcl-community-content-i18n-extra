@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wwn9lJHrO4c=",
+  "content": "<h1>關於</h1><p>FastFurnace 使用 mixins 修改熔爐、高爐和煙燻爐的功能，提升它們的 TPS 效能（並非增加熔煉速度！）</p><p>與 FastWorkbench 類似，它會快取上次使用的配方，並在重新掃描整個配方註冊表之前，優先檢查這個配方。這比原版熔爐每 tick 掃描整個配方註冊表要快得多。原版做法在未安裝模組時可能沒問題，但在安裝大量模組的環境中，配方註冊表會迅速變得非常龐大。</p><p>這些改動適用於熔爐、高爐和煙燻爐。任何使用 AbstractFurnaceTileEntity 的模組，也都能從安裝此模組中受益。</p><p>喜歡數據的人可以參考：<a href=\"/linkout?remoteUrl=https%253a%252f%252fi.imgur.com%252f6Xg1Xrq.png\" target=\"_blank\" rel=\"nofollow\">原版</a> vs <a href=\"/linkout?remoteUrl=https%253a%252f%252fi.imgur.com%252fmy9FAFH.png\" target=\"_blank\" rel=\"nofollow\">FastFurnace</a>。測試期間，九個熔爐同時持續熔煉鵝卵石。為了避免數據偏差，調用次數大致保持相同。此測試是在原版環境中進行的，原版只有約 70 個熔爐配方。而在模組包中，配方數量可能高達 700 個，效能提升將更加顯著。</p><p>也請務必查看 <a href=\"https://minecraft.curseforge.com/projects/fastworkbench\" target=\"_blank\" rel=\"nofollow\">FastWorkbench</a> 和 <a href=\"https://minecraft.curseforge.com/projects/toast-control\" target=\"_blank\" rel=\"nofollow\">Toast Control!</a></p><h1>支持我</h1><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252fservers%252fshadows-mods-613010559532531713\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://i.imgur.com/4D6zgZt.png\" alt=\"\"></a></p><h2>聯絡方式</h2><p>Discord：<a href=\"https://discord.gg/wdvU5Yz\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/wdvU5Yz</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

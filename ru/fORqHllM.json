@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4aMiWega8M8=",
+  "content": "Этот пакет ресурсов добавил несколько блочных посохов.\n- Включает, но не ограничивается:\n\n\n- id:1  -         item/iron_staff\n- id:2  -         item/gold_staff\n- id:3  -         item/diamond_staff\n- и т.д.\n\n\n- Используйте эту команду, чтобы получить железные посохи.\n  - Для версий 1.20.6– /give @p minecraft:stick{CustomModelData:1}.\n  - Для версий от 1.20.6 до 1.21.3 /give @p stick[minecraft:custom_model_data=1]\n  - Для версий 1.21.4 и выше /give @p stick[minecraft:custom_model_data={strings:[\"iron_staff\"]}]\n---\n![Демонстрация посохов](https://cdn.modrinth.com/data/fORqHllM/images/049f794c4e083d028049cb08b55c6f90ff0f221b.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

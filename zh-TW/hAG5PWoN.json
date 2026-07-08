@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1H7t1eUyljM=",
+  "content": "[**加入我的 Discord 伺服器，為這個模組的新功能投票！**](https://discord.gg/DDgHVFQf3j)\n\n這個模組有許多優點。其中之一是，在 PVP 對戰或進行 CPVP 時，當護甲耐久度下降，你會知道何時需要修復它們。你也可以開啟水平模式。\n\n# [**如何使用護甲耐久度 HUD**](https://www.youtube.com/watch?v=69y8R_E1ysI&list=PLkcDIO3OJTf6D4_XFpKhVUrzVHt7iehN3)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/69y8R_E1ysI\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## **請在該影片按讚、訂閱並留言，以支持我的模組創作與模組更新。非常感謝！！**\n\n這個模組會顯示護甲耐久度。\n\n\n\n \n\n你可以從 GUI 調整護甲 HUD 的位置，並切換顯示開關。\n\n \n\n如果你沒有裝備任何護甲，這個模組會顯示空的欄位。\n\nGUI 按鍵 {N} [你可以從設定中編輯按鍵]\n\n \n\n重要！\n\n如果你不清楚自己在做什麼，請勿刪除、編輯或移除名為 armor-hud-config.json 的檔案！\n\n如果你認為護甲 HUD 沒有作用，請檢查按鍵綁定設定，確認 N 鍵是否被綁定到其他按鍵。如果是，只需更改它即可。\n\n \n\n-- 由 NSI21 編程 --\n\n-- 請回報任何錯誤，並告訴我你對這個模組的建議 --",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

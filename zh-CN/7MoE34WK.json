@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lNH19me8VnQ=",
+  "content": "## Gnetum\n\n一款通过将 HUD 更新分散到多个帧中来提升性能的 Minecraft 模组。\n\n### 概述\n\nGnetum 将完整的 HUD 更新划分为多个“渲染阶段”。每帧仅渲染一个阶段，从而减少每帧用于 HUD 更新的时间，并提升 FPS。\n\n基于每个元素的渲染时间，Gnetum 会自动将其更新分散到多个帧中，同时提升平均 FPS 和最低 FPS。\n\n<details>\n\n<summary>技术说明</summary>\n\nGnetum 的核心思路是降低 HUD 的帧率（HUD 渲染开销大且变化不频繁），从而提升游戏整体性能，同时优化平均 FPS 和最低 FPS。具体实现方式：\n\n- Gnetum 使用两个帧缓冲，分别称为后端帧缓冲和前端帧缓冲\n- 每帧会将 HUD 的一部分（即一个“渲染阶段”，大小可自定义）渲染到后端帧缓冲\n- 例如，若设置渲染阶段数为 4，则完整的 HUD 更新会分布在 4 帧中完成，从而大幅减少每帧的绘制调用次数并提升 FPS\n- 当所有渲染阶段完成后，后端帧缓冲会与前端帧缓冲进行“交换”\n- 每帧还会渲染前端帧缓冲，其中包含完整 HUD 的纹理\n\n此外，还设有 HUD FPS 限制器，用于定义 HUD 的最大 FPS。\n\n</details>\n\n### 配置\n\n从 4.0.0 版本起，集成了 Sodium 配置 API 支持。可通过视频画面界面访问配置，调整以下内容：\n\n- 渲染阶段数量\n- 最大 HUD FPS\n- 启用/禁用每个元素的缓存\n\n### 兼容性\n\n#### 1.20.1、1.21.1 和 1.21.11\n\n✔️ ImmediatelyFast：完全兼容，推荐使用。\n\n#### 1.12.2\n\n⚠️ OptiFine：请确保“快速渲染”已禁用（否则本模组无法生效）。\n\n⚠️ StellarCore：请确保其 HUD 缓存功能已禁用（若不确定如何禁用可忽略此项，该功能默认禁用）。\n\n### 鸣谢\n\n本模组灵感来源于 [Moulberry](https://github.com/moulberry) 开发的 [HUDCaching](https://github.com/Moulberry/MCHUDCaching) 模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

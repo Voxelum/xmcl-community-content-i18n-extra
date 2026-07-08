@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EB/71pwo+8c=",
+  "content": "厌倦了老旧、扁平的权杖纹理？我也没有，不过我还是把它们做成了3D。\n\n为基础[Hex Casting](https://modrinth.com/mod/hex-casting)模组中的所有权杖添加了模型。未为其他模组或附属模组中的任何权杖添加模型。\n\n为左撇子玩家提供了非对称权杖的翻转模型。通过将权杖的CustomModelData标签设置为1，可以反转其行为。\n\n![全部木制权杖（右手持握效果）。](https://cdn.modrinth.com/data/cached_images/7b0ca0defcd502870a7ae70ad60db6fed0dedaae.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

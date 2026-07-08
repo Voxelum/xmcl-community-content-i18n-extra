@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Tr8dp67lPFU=",
+  "content": "Неофициальный порт [Origins Extra Keybinds](https://modrinth.com/mod/origins-extra-keybinds-fabric) для Minecraft Forge.\n\nЭтот мод добавляет 8 новых сочетаний клавиш в Origins, что позволяет создавать и использовать данные паки с более чем 2 активированными способностями.\n\n**Использование в данных паке:**\n| № | Название | Клавиша |\n|---|----------|---------|\n| 1 | Основная | `key.origins.primary_active` |\n| 2 | Вторичная | `key.origins.secondary_active` |\n| 3 | Третичная | `key.origins.ternary_active` |\n| 4 | Четверичная | `key.origins.quaternary_active` |\n| 5 | Пятеричная | `key.origins.quinary_active` |\n| 6 | Шестеричная | `key.origins.senary_active` |\n| 7 | Семеричная | `key.origins.septenary_active` |\n| 8 | Восьмеричная | `key.origins.octonary_active` |\n| 9 | Девятеричная | `key.origins.nonary_active` |\n| 10 | Десятеричная | `key.origins.denary_active` |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

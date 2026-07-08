@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OYsNuE9Ul+w=",
+  "content": "本模组允许你通过格挡来抵挡受到的伤害！\n\n手持剑时右键点击即可进行格挡。若在格挡的时间窗口内受到攻击，你将完全抵消伤害，同时会出现视觉效果粒子，并播放高音调的铁砧音效。使用格挡后该能力会进入冷却。\n\n模组目前处于早期开发阶段，但我计划添加以下内容：\n- 可配置的冷却时间和格挡窗口\n- （可能）支持多个版本\n- （可能）支持Forge\n\n![成功格挡示例](https://cdn.modrinth.com/data/llRl4Spf/images/ea18a3ab63676c1f0be8d3ad469356db99a03e23.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

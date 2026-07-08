@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3w53IkZN3to=",
+  "content": "本模組適用於 1.16.5+ 版本，如果您需要 1.12.2- 版本，請前往 [Redirector [復古版]](https://legacy.curseforge.com/minecraft/mc-mods/redirectionor-retro)\n\n我們已將名稱從「方向重定向器」更名為「重定向器」，因為現在重定向目標不僅限於方向，而是涵蓋所有枚舉值。\n## 前言\n在知名的 Minecraft 優化模組如 Sodium、Lithium 或 Phosphor 中，都採用了一項共同的優化技術：將枚舉類中對元素「值」的引用替換為靜態最終欄位值的引用。\n\n這項技術旨在通過提升訪問速度和減少頻繁訪問常數時的不必要計算來增強效能。\n## 介紹\nRedirector 是這項概念的完整實現，用以降低遊戲所需的記憶體用量。\n## 注意事項\nRedirector 可同時在客戶端與伺服器端運作，且安裝於伺服器時不強制要求客戶端也必須安裝本模組。\n# 問題回報\n1.16.5+ 版本：https://github.com/MCTeamPotato/Kasualix-Issue-Tracker\n\n1.12.2- 版本：https://github.com/Ecdcaeb/Redirectionor/issues\n## 其他資訊\n[![圖片](https://www.bisecthosting.com/partners/custom-banners/75401fe6-76e7-471c-89e5-1edd37a950ad.webp)](https://bisecthosting.com/kasualix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

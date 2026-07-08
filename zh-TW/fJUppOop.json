@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ny1MQiqJ/J8=",
+  "content": "<p>這是適用於 1.7.10 版本的 Overloaded Armor Bar 分支版本</p>\n<p>&nbsp;</p>\n<p>原版的護甲值顯示條無法準確呈現「超越鑽石等級」的護甲效果，因為當護甲值達到上限時，顯示條只會維持滿格狀態。</p>\n<p>本模組允許護甲值超過 20 時，依據護甲條被填滿的次數，以不同顏色（可自訂）的圖示來顯示。</p>\n<p>但請注意，若未安裝 AttributeFix 模組，由於原版護甲值上限的限制，護甲顯示最高僅能達到 30 點護甲值，即鑽石護甲的 1.5 倍。</p>\n\n![護甲](https://cdn.modrinth.com/data/cached_images/93d0a702ef6b1e47038eacac314b3e041c3ac361.webp)\n\n<p>官方 1.12.2+ 版本 Overloaded Armor Bar 連結&nbsp;<a title=\"Curseforge\" href=\"https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar\">Curseforge</a> -&nbsp;<a title=\"Github\" href=\"https://github.com/Tfarcenim/OverloadedArmorBar\">Github</a></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

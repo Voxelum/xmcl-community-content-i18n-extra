@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3eiMd2k+H30=",
+  "content": "一個模組，可還原 20w12a+ 版本中對 [MC-113809](https://bugs.mojang.com/browse/MC-113809) 的修復，讓臭名昭著的 1.16 版本前的 0-tick 農場重現。同時透過 [KingContaria](https://github.com/KingContaria) 優秀的 [1.14.4 模擬器](https://github.com/KingContaria/1.14.4-Emulator) 的[實作方式](https://github.com/KingContaria/1.14.4-Emulator/blob/master/src/main/java/me/contaria/emulator114/mixin/entity/FallingBlockEntityMixin.java)，還原 [MC-165034](https://bugs.mojang.com/browse/MC-165034)，使沙落在船上的農場得以運作。\n\n我認為這個模組適用於最新的 Minecraft 版本（撰寫時為 1.20.2），但沙落在船上的功能僅適用於 1.17.1 版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

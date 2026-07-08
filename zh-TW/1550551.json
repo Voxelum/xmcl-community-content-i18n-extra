@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2MudkKF5V8w=",
+  "content": "<p>此模組修復了 Zeta（Quark 的函式庫）事件系統的並發問題。當安裝任何數量的、嘗試使用該事件系統的附加模組時（雖然通常在加載大量附加模組時更常見），遊戲有時會因此崩潰。</p><p>此修復能解決的錯誤訊息如下所示：</p><pre><code>\tException message: java.lang.ArrayIndexOutOfBoundsException: Index 512 out of bounds for length 257\nStacktrace:\n\tat it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.rehash(Object2ObjectOpenHashMap.java:1275)\n\tat it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.insert(Object2ObjectOpenHashMap.java:245)\n\tat it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.put(Object2ObjectOpenHashMap.java:253)\n\tat org.violetmoon.zetaimplforge.event.ForgeZetaEventBus.subscribeMethod(ForgeZetaEventBus.java:87)\n</code></pre><p>其中關鍵的部分是 <code>Exception message: java.lang.ArrayIndexOutOfBoundsException:</code> 以及 <code>org.violetmoon.zetaimplforge.event.ForgeZetaEventBus.subscribeMethod</code>。如果你的錯誤訊息中沒有同時出現這兩項，那麼此模組<strong>無法解決你的問題</strong>。</p><p>其解決方式是將非執行緒安全的映射表替換為執行緒安全的版本，並且以一種無論 Zeta 後續如何變更（即使他們修復了這個問題）遊戲都不會崩潰的方式來進行。不過，當 Zeta 官方修復此問題後，你仍應移除本模組。</p><p>是的，這個模組非常小巧，同一個 jar 檔案就能同時在 1.20.1 的 Forge 和 1.21.1 的 NeoForge 上運作。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

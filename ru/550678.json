@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qE1H4fAzdmk=",
+  "content": "<p><span style=\"text-decoration:underline\"><strong><em>Требуется только на стороне сервера</em></strong></span>. Устраняет ограничения на скорость игрока, установленные на стороне сервера, которые приводят к появлению сообщений в консоли «игрок XYZ двигался слишком быстро» и эффекту резиновой ленты.</p><p>Код в основном взят из <a href=\"https://github.com/TheRandomLabs/RandomPatches/blob/1.16-forge/src/main/java/com/therandomlabs/randompatches/mixin/ServerPlayNetHandlerPlayerSpeedLimitsMixin.java\" rel=\"nofollow\">ограничений скорости из Random Patches</a>, который лицензирован по MIT и поэтому совместим с данной лицензией. Однако практически нет других способов реализовать это.</p><p>Конфликтует с Random Patches. Не устанавливайте этот мод, если у вас уже установлен Random Patches.</p><h4><strong>Patreon и Discord</strong></h4><p>Вы можете <a href=\"https://www.patreon.com/noobanidus\" rel=\"nofollow\">поддержать меня на Patreon!</a></p><p>Весь доступный для этого мода контент доступен на&nbsp;<a href=\"https://discord.gg/9YVkaee\" rel=\"nofollow\">моём Discord.</a> Вы также можете следить за моими действиями и получать потоки уведомлений!</p><p>Для любой другой поддержки, пожалуйста, нажмите «Issues» в верхней части этой страницы.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

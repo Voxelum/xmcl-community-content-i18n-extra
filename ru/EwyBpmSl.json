@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7LYpRIRrVO0=",
+  "content": "# RunParticle\n\nRunParticle — это легковесный клиентский мод для Fabric, который добавляет настраиваемые эффекты частиц при спринте в Minecraft.\n\n## Особенности\n\n* Несколько типов частиц\n* Настройка количества частиц\n* Команды в игре\n* Легкий и клиентский мод\n* Не требуется установка на сервер\n\n## Команды\n\n### Изменить тип частиц\n\n```text\n/particlemode end_rod\n/particlemode flame\n/particlemode soul\n/particlemode portal\n/particlemode enchant\n/particlemode totem\n```\n\n### Изменить количество частиц\n\n```text\n/particleamount <количество>\n```\n\nПримеры:\n\n```text\n/particleamount 5\n/particleamount 20\n/particleamount 50\n```\n\n## Доступные частицы\n\n* Конечная палочка\n* Пламя\n* Огненный дух\n* Портал\n* Зачарование\n* Тотем бессмертия\n\n## Совместимость\n\n* Minecraft 1.21.11\n* Fabric Loader\n* Только клиентская версия",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

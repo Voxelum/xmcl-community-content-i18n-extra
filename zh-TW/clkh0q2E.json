@@ -1,0 +1,6 @@
+{
+  "bodyHash": "16yEWVB85B8=",
+  "content": "# 關於此數據包簡介\n這個數據包是《Minecraft》極限模式的一個特殊改版，主要差異在於玩家初始並非只有一條生命，而是擁有10條生命（對應於心形容器的數量）。如果容器損失，可以透過一種相當稀有的物品（附魔金蘋果）來補充。\n\n## **重要事項**\n無論世界是否為極限模式，此數據包皆能正常運作。\n\n## 遊戲內實際效果詳情\n啟動數據包後，所有玩家將獲得10點生命值與10條生命，顯示如下：\n![1](https://cdn.modrinth.com/data/clkh0q2E/images/5bc33a526157720228fa62575ceffccfa574c31d.png)\n當玩家死亡時，會損失1點生命值與一個心形容器：\n![2](https://cdn.modrinth.com/data/clkh0q2E/images/8143dc7bc52ef031eaa462804cef015f6843b49e.png)\n若失去所有生命，玩家將無法復活，即使使用附魔金蘋果或作弊指令也無效。\n\n![4](https://cdn.modrinth.com/data/clkh0q2E/images/2b345dc5dfacf875b2c506f7d2ddc3b2c084b7b1.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

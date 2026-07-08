@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uo02PB/Q9xE=",
+  "content": "<h2>修复了 Minecraft 中 GUI 和 HUD 的半透明支持，使资源包如 <a href=\"https://modrinth.com/resourcepack/aquahud\">AquaHUD</a> 能够正常工作。</h2>\n\n### 兼容性？\n>应该与任何东西都兼容。也许另一个有 drawTexturedQuad mixin 的模组可能会冲突，但我从未见过这种情况。即使与 [Exordium](https://modrinth.com/mod/exordium) 和 [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) 一起使用也能正常工作，这两个模组也影响与 GUI 相关的内容。\n\n### 要求？\n>除了相应的模组加载器外，没有其他要求。\n\n### 真的很喜欢我的工作？\n>为什么不通过 [Patreon](https://www.patreon.com/ruvaldak) 或 [Paypal](https://www.paypal.com/donate/?business=UG8YD9M47D8ZN&no_recurring=0&item_name=Thank+you+so+much+for+your+interest+in+supporting+to+me%21+Every+cent+encourages+me+to+work+harder+on+my+projects.&currency_code=USD) 向我捐赠呢？无论是单次捐赠还是定期付款，都非常欢迎！我的工作需要相当多的时间和精力，任何捐赠都非常有帮助，无论是用于购买食品杂货、支付账单、加油还是其他可能需要的开支。\n\n### 致谢\n> [IMS212](https://github.com/IMS212) 提供了原始代码。 <br/>\n> [QuiltMC](https://github.com/QuiltMC/art/blob/master/stickers/skeuomapple.png) 提供了图标艺术 <br/>\n> [点击这里](https://github.com/ruvaldak/translucencyfix/pulls?q=is%3Apr+is%3Aclosed) 查看更多贡献",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nAidM36geZg=",
+  "content": "<h1>Figura ExtraFight</h1><p>讓您的 Figura 角色模型隨 Epic Fight 的動畫動作——劍擊、技能與攻擊姿勢，直接驅動您的 Figura 模型。</p><h1>✨ 功能特色</h1><ul>\n<li><strong>姿勢同步</strong>：Figura 角色模型將跟隨每個 Epic Fight 動畫（頭部、身體、手臂、腿部、手掌、腳部）</li>\n<li><strong>原版部件隱藏</strong>：在您的腳本中呼叫 <code>vanilla_model.&lt;PART&gt;:setVisible(false)</code> 可一次隱藏 Epic Fight 模型部件，包括盔甲（頭盔、胸甲、護腿、靴子）</li>\n<li><strong>無第一人稱重疊</strong>：當載入 Figura 角色模型時，Epic Fight 的第一人稱模型會自動隱藏，避免與您的 Figura 手部模型重疊</li>\n<li><strong>ExtraBone 支援</strong>：巢狀骨骼層級（<code>Neck</code>、<code>LeftShoulder</code>、<code>Body → chest</code>、<code>LArmLower</code> 等）可在正確位置顯示，無變形問題</li>\n<li><strong>客戶端專用</strong>：無需安裝伺服器端</li>\n</ul><h1>📦 需求</h1><ul>\n<li>EpicFight：任意版本（如果您使用 20.9.7 或更舊的版本，且 Minecraft 為 1.20.1，請使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/figura-extrafight/files/7986907\" target=\"_blank\" rel=\"nofollow\">0.0.41-epf-20.9.7</a>）</li>\n<li>Minecraft：1.20.1-1.21.1（Forge/Neoforge）</li>\n<li>Figura：0.1.5 或更高版本</li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/figura-extrabone\" target=\"_blank\" rel=\"nofollow\">Figura-Extrabone</a>：0.0.3 或更高版本（選用）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

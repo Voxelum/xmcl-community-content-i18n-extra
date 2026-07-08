@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Tz0S6aBUF8o=",
+  "content": "<p>讓處理顏色代碼更加容易。</p><p>&nbsp;</p><p><span style=\"color:#f00\">通用意味著它適用於 1.8.9、1.9.4、1.10.2、1.11.2、1.12 版本</span></p><p>&nbsp;</p><ul>\n<li>ColorUtility 讓 Minecraft 能夠識別「§」字符。</li>\n<li>當您編輯告示牌或書本時，實用的顏色面板支援您使用顏色字串進行編輯。</li>\n<li>ColorUtility 在伺服器和客戶端均可運作。</li>\n<li><span style=\"color:#f00\">如果您需要同時為文字上色並使文字變粗或斜體，應先點擊<strong>顏色按鈕</strong>，再點擊文字格式按鈕。</span></li>\n</ul><p>需求：Minecraft Forge 或 Fabric API</p><p>例如</p><p><img src=\"https://i.gyazo.com/034e4038b7dbf891a9d5dbd5769a45c7.png\" alt=\"\" width=\"690\" height=\"388\"></p><p><img src=\"https://i.gyazo.com/0bc12de553457384a64844abe0d2ed67.png\" alt=\"\" width=\"690\" height=\"388\"></p><p>&nbsp;</p><p>&nbsp;</p><p>ColorUtility 亦分發於<a href=\"/linkout?remoteUrl=http%253a%252f%252fforum.minecraftuser.jp%252fviewtopic.php%253ff%253d13%2526t%253d24394\" rel=\"nofollow\">http://forum.minecraftuser.jp/viewtopic.php?f=13&amp;t=24394</a>（日文）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "adoUe5zWQYc=",
+  "content": "![downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fconnorcode.com%2Fapi%2Fdownloads%3Fmodrinth%3D9KVJGa0Q%26curseforge%3D1198033&query=%24%5B%27total-human%27%5D&label=downloads&style=for-the-badge&color=0dc362)\n\nРазве вы не считаете, что булава слишком уж сверхмощная? Этот простой мод для улучшения качества жизни делает так, что ношение черепахового шлема предотвращает атаки булавой, перенаправляя весь наносимый урон на сам шлем. И это работает даже с черепахами!\n\n[Кредит за обратную связь по Minecraft](https://feedback.minecraft.net/hc/en-us/community/posts/25063389096333-Turtle-Helmet-blocks-Mace-attack)\n\n\n## ЧТО ДЕЛАЕТ МОД\nЭтот мод обеспечивает, что при ношении черепахового шлема все входящие повреждения от падающих атак булавы блокируются. Вместо этого урон, который обычно был бы нанесён здоровью игрока, перенаправляется на прочность черепахового шлема, пока этот элемент брони не сломается. Это также касается мобов, надевших черепаховый шлем, и самих черепах!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

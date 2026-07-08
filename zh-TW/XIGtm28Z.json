@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HZChn2nXF/I=",
+  "content": "NoCollision 是一個數據包，能夠移除部分被動生物的碰撞，以提升效能！\\\n這對 FPS 和 TPS 都有幫助，但 TPS 的改善會更明顯。\\\n若要卸載，請輸入 /reload 並點擊卸載按鈕，或輸入 /function no_collision:uninstall。\\\n一旦按下卸載後，你必須從世界資料夾中移除該數據包，否則下次世界重新載入時會重置數據包，你將需要再次進行卸載。\\\n效能差異：\\\n使用前：\\\n![使用 NoCollision 前](https://i.imgur.com/AXLXINB.png)\\\n充滿延遲與卡頓\\\n使用後：\\\n![使用 NoCollision 後](https://i.imgur.com/8cxtfn6.png)\\\n延遲較少，根據作業系統不同，差異更加明顯！\\\n祝使用愉快！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RzgVTql/BPQ=",
+  "content": "<p>這是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/crafting-station\" rel=\"nofollow\">tfarecnim 的 Crafting Station</a> 模組的分支版本，並新增了 JEI 支援。tfarecnim 原本無意加入此功能，但由於需求頗高，加上模組採用 MIT 授權，於是我們便製作了這個分支！</p>\n\n<p>Crafting Station 對工作台的運作方式做了微調。這個源自 Tinkers Construct 的設計，能儲存你的物品並將其顯示在工作台上方。它還能存取任何相鄰的儲物箱（模組包創作者可選擇性的黑名單功能）。</p>\n\n<p>擁有 JEI 的玩家現在可以在 Crafting Station 上看到「+」圖示，用來匯入合成配方，就像在其他工作台上操作一樣直覺。</p>\n\n<p>版本1（包含1b和1c）完全向下相容原始版本。也就是說，如果你在遊玩使用原始版本模組的伺服器時，可以安全地使用這些改良版本來獲得所需的 JEI 支援。1c 版本也修正了工作台的渲染問題。</p>\n\n<p>從版本 1.1 開始則是完全的分支——你需要在伺服器端也安裝此版本。這個版本新增了對 <a href=\"https://www.curseforge.com/minecraft/mc-mods/polymorph\" target=\"_blank\" rel=\"nofollow\">Polymorph</a> 的支援（如果已安裝，就能從衝突的配方中進行選擇），同時也將 Crafting Station 加入創意模式標籤頁選單。</p>\n\n<p>我未來的計畫是從頭開始重寫，加入新功能、新外觀，讓這個模組更具深度——不過這還需要一段時間。目前的版本應該就能幫上忙了！</p>\n\n<p>功能展示 GIF：</p>\n\n<p><img src=\"https://s9.gifyu.com/images/SUs0F.gif\" width=\"600\" height=\"338\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

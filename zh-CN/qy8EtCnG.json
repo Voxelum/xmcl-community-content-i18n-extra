@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XuW1Mue9JeA=",
+  "content": "ImGui 的 Minecraft 绑定。允许模组开发者无需任何设置或附带 ImGui 原生库即可创建简单的调试界面。\n\n该库提供以下功能：\n\n- ImGui `1.90.0`\n- 在 Minecraft 帧开始和结束时绘制 ImGui 的事件\n- 注册自定义字体的事件\n- 为 ImGui 样式自动加载 .ttf 字体\n- 支持将 `GpuTexture` 和 `GpuTextureView` 作为纹理源",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VczTEyCa/7Y=",
+  "content": "<h1>Glowtone</h1><p>不是方塊！這是一款實用模組，能輕鬆實現資源包方塊與物品的自發光效果，且不佔用過多資源。查看<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fproject%252fglowtone%252fgallery\" target=\"_blank\" rel=\"nofollow\">作品集</a>欣賞我們內建資源包的精彩範例！</p><h2>運作原理</h2><p>Glowtone 非常簡單。只需在紋理名稱後加上<code>_glowtone_emissive</code>後綴，即可套用於高效能的自動生成模型疊層。可透過<code>.mcmeta</code>為每個紋理單獨設定發光等級，如下例：</p><pre><code>{\n  \"glowtone_emissive\": {\n    \"light_emission\": 15\n  }\n}</code></pre><p>最後，每個方塊的渲染圖層可透過<code>glowtone_block_render_type_overwrites/&lt;block&gt;.json</code>單獨覆寫，例如：</p><pre><code>{\n  \"render_type\": \"cutout\"\n}</code></pre><p>可使用內建資源包獲得原版自發光效果，或導入自訂資源包！若想為自製模組建立相容性或製作資源包，請參考<a href=\"https://github.com/FrozenBlock/Glowtone/tree/main/src/main/resources/resourcepacks/glowtone_emissives\" target=\"_blank\" rel=\"nofollow\">我們的資源包</a>查看使用範例。</p><p>不會干擾著色器。可與 Iris 和 Core Shaders 無縫兼容！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

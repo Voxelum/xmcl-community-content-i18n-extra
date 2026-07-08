@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DGzFOPYYTI0=",
+  "content": "Custom Machinery Create 是 [Custom Machinery](https://modrinth.com/mod/custom-machinery) 模组的一个附加组件，它为 [Create](https://modrinth.com/mod/create) 添加了集成功能。\n\n该附加组件可用于创建自定义机器，这些机器可以与 Create 的装置系统（动能速度和应力）进行交互。\n\n显然，该附加组件需要安装 Custom Machinery 和 Create 才能使用。\n\n\n### 目前支持的 Create 功能：\n\n- 动能速度/应力\n- Schematiccanon（蓝图炮）\n\n该附加组件还提供了与 KubeJS 和 Crafttweaker 的完全兼容性，用于创建机器配方。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

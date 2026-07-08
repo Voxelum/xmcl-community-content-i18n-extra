@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Dq6FGfKxgQE=",
+  "content": "<h1>簡易玩家資料備份</h1><blockquote>\n<p>一款輕量級、僅限伺服器端的模組，用於建立重要<strong>玩家與模組資料</strong>資料夾（例如 <code>playerdata</code>、<code>advancements</code>、FTB 資料）的高效率自動與手動備份。它會避免備份大型世界區域檔案，使資料還原更快速。</p>\n</blockquote><hr><h2>核心功能</h2><ul>\n<li><strong>僅限伺服器端</strong>：用戶端無需安裝。</li>\n<li><strong>高度可設定</strong>：透過 TOML 檔案設定自動備份間隔、定義要包含/排除的資料夾，以及限制備份總數。</li>\n<li><strong>手動備份</strong>：使用 <code>/simpleplayerdatabackups start</code> 指令立即觸發。</li>\n<li><strong>高效率</strong>：備份會壓縮成帶有時間戳記的 <code>.zip</code> 檔案，存放於 <code>playerdata_backups</code> 資料夾。</li>\n<li><strong>輕量級</strong>：任務以非同步方式執行，確保對伺服器效能影響降至最低。</li>\n</ul><p>可在 <code>yourworld/serverconfig/simpleplayerdatabackups-server.toml</code> 中自訂設定。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0airYax32eU=",
+  "content": "<h1 style=\"text-align:center\">罪烬：增强AI</h1><p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_56e0d964-5e95-4174-b390-ab3d9c6d8a3c.png\"></p><p>配置文件生成于&nbsp;<code>config\\ash_of_sin</code>&nbsp;目录中。</p><p>配置文件名为 better_ai.toml。</p><p>本模组通过动态仇恨系统增强敌对生物的AI。生物现在会追踪每位玩家造成的伤害，并优先攻击仇恨值最高的目标。为避免玩家被过度压制，可同时主动攻击同一玩家的生物数量可配置（默认3只）；其他生物在距离过近时会撤退并迂回移动，距离较远时则恢复默认AI行为。可通过配置文件列表排除首领生物及自定义实体受此机制影响。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

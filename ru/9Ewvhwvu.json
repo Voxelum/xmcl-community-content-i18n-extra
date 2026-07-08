@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+6KGQLtOlF4=",
+  "content": "**!!!Это продолженная версия [AdvancedChatBox](https://modrinth.com/mod/advancedchatbox) от [DarkKronicle](https://modrinth.com/user/DarkKronicle)!!!**\n\n# AdvancedChatBox\n\nAdvancedChatBox позволяет добавлять сложные подсказки и автозаполнение в чат Minecraft.\n\nПожалуйста, отправляйте баги в [трекер проблем](https://github.com/DarkKronicle/AdvancedChatBox/issues).\n\n## Зависимости\n\nДля работы мода требуется [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore).\n\n## Особенности\n\n- Проверка орфографии с помощью [LanguageTool](https://languagetool.org)\n- Калькулятор в чате\n- Переключение между подсказками для игроков\n- Добавление пользовательских чат-подсказок в виде ярлыков\n- Изменение цвета подсказчиков\n- Индивидуальное выделение команд\n- Встроенный JSON-линтер для команд\n- Поддержка устаревшего формата цветовых кодов при вводе сообщений\n\n## Кредиты и многое другое\n\nКод и идея: DarkKronicle  \nЯзык и редактура: Chronos22",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

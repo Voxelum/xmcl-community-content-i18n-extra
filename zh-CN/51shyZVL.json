@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fqJ7njyYzRI=",
+  "content": "<img src=\"https://github.com/FxMorin/MoreCulling/blob/master/images/moreculling-banner.png?raw=true\">\n\n### 一款通过优化多种剔除方式来提升性能的模组\n剔除机制即通过不渲染玩家看不见的内容来提升性能\n\n需要安装 Cloth Config！\n\n**如发现任何漏洞，请务必在[此处](https://github.com/fxmorin/moreculling/issues)报告！**\n\n**Discord 服务器：** [https://discord.gg/SGFDrvA](https://discord.gg/SGFDrvA)\n\n**前往[百科](https://github.com/fxmorin/MoreCulling/wiki)了解：**  \n剔除内容、性能表现、兼容性、漏洞修复等更多信息！\n\n查看 [MoreCullingExtra](https://modrinth.com/mod/morecullingextra) 获取额外剔除功能  \n\n## 本人的其他优化/修复模组\n* [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) - 修复客户端和服务端的多个内存泄漏问题\n* [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) - 最大的服务端漏洞修复模组\n* [Blanket](https://modrinth.com/mod/blanket) - 客户端调整/修复模组\n* [RailOptimization](https://modrinth.com/mod/rail-optimization) - 减少动力铁轨的卡顿\n\n## 更多信息  \n欢迎为本项目贡献力量！  \n允许在整合包中使用本模组，只需提及即可。  \n\n但未经许可，禁止客户端或其他模组合并本模组。如需在客户端或其他模组中使用，请与我联系。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2iK4tMVwHXg=",
+  "content": "<a href='https://ko-fi.com/X8X71FI3YO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/SQ5ZLKg5/support-me-on-kofi-beige.png' border='0' alt='Купи мне кофе на ko-fi.com' /></a>\n\n## Описание\nМод делает смещение горячей шкалы в Java Edition таким же, как в Bedrock Edition, с возможностью настройки его смещения.\n\n![предпросмотр](https://cdn.modrinth.com/data/X1OsYLs1/images/fcdc8b39c206e259ad4dfbdcd968cdbcdc05391b.jpeg)\n\n## Использование\nВ настоящее время мод имеет меню настроек, которое можно использовать при установке Cloth Config и ModMenu для Fabric. В окне настроек вы можете изменить смещение горячей шкалы; это также можно сделать, изменив значение в файле конфигурации. Начиная с версии 1.1, мод отображает нижнюю часть текстуры выбранного предмета (отсутствовала с версии Minecraft 1.20.2), что позволяет использовать его с ресурс-паками, меняющими горячую шкалу.\n\n## Совместимость\n[AppleSkin](https://modrinth.com/project/EsAfCjCV): HUD здоровья и насыщения, связанный с горячей шкалой",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "p0hNnR5dN0o=",
+  "content": "<p>Этот мод позволяет удалять Клятвы и Черты с вашего сервера/мира.<br><br>/cursedfate TraitsAndVowsBegone AllowFor &lt;игрок&gt;</p><p>&nbsp;- Разрешит этому пользователю иметь заблокированные черты и клятвы</p><p>/cursedfate TraitsAndVowsBegone Block &lt;черта/клятва&gt;</p><p>&nbsp;- Заблокирует эту черту или клятву</p><p>/traitsandvows</p><p>&nbsp;- Покажет, какие техники заблокированы, а какие — нет</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eCQ6W/JVwFA=",
+  "content": "ParCool 添加了炫酷的跑酷动作，但与其他动画和交互模组结合时可能导致姿态覆盖、视觉错误或动作冲突。ParCool+ / 兼容性扩展是一个基于NeoForge 1.21.1的轻量级ParCool兼容层，仅在相关模组安装时针对性地解决这些冲突。\n\n**集成内容**\n- **Better Combat**：减少与ParCool跑酷动作的动画冲突。\n- **Carry On**：搬运方块或实体时禁止触发ParCool动作。\n- **Player Animator**：在部分ParCool动画与该模组冲突时，优先执行Player Animator。\n- **Entity Texture Features (ETF) + Entity Model Features (EMF)**（客户端）：当驱动玩家模型的ParCool动作（悬挂/攀附/攀爬/翻越/匍匐等）激活时，该扩展会通知EMF使用原版玩家模型，使ParCool的手臂/身体姿态在资源包的CEM（自定义实体模型）玩家模型下也能正确渲染。  \n  注意：**快速奔跑/快速游泳**被特意排除在外，以便Player Animator在这些动作中仍保持优先权。\n\n请通过合适的渠道反馈本模组的相关问题。**请勿将本模组的问题报告给原作者或主ParCool模组页面。**\n\n请注意，要求添加此列表未列出的其他模组兼容性取决于我个人是否认为有用——这个移植最初只是为了配合我自己整合包中的模组而开启的个人项目。\n\n**说明**  \n本模组是alRex_U / ParCool所创作的原始ParCool兼容扩展概念在NeoForge 1.21.1上的分支/移植版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

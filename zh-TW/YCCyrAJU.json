@@ -1,0 +1,6 @@
+{
+  "bodyHash": "h+9l6EOaoPY=",
+  "content": "<h5>最頂端的備註——如果這個東西壞掉了，請務必告訴我。另外，如果你正在使用我的材質包做什麼，或是對它進行修改，也請告訴我。這不是必要的，但知道這些會很酷。我的 Discord 是 `endernon`。</h5>\n\n# 關於\n\n這是一個材質包，它：\n\n-  將遊戲的 GUI 改為深紫色主題\n-  變更了一些 GUI 佈局，使其更具功能性\n-  也支援部分 Wynntils 選單（仍在開發中）\n\n這個材質包的目標是在 Rekindled 更新後，為 Wynncraft 添加一個缺失的深色主題，因為我還沒看到其他人做過。但現在它也包含了我認為非常實用的 GUI 變更，例如更好的快捷欄，以及更簡潔、不那麼雜亂的 GUI。\n\n**注意——如果某個東西壞掉了（例如座標不見了、職業選擇選單壞了），請移除 ImmediatelyFast 模組。**  \n**另一個注意——你需要想辦法讓這個材質包載入在 Wynncraft 材質包之上。**\n\n# 特別感謝\n- Brilliantknight（這個材質包最初是移植自他們的 Stone Tablet 材質包，但現在已經脫離了）\n- zatzou（幫助我處理材質包 CRC 元資料的修復）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

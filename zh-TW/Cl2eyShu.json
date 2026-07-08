@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2iJpEgA2kvQ=",
+  "content": "# 伺服器端國際化 API\n\n這是一個僅限伺服器端的模組，為僅限伺服器端的模組提供國際化支援。\n\n語言偵測會自動進行，玩家無需進行任何操作。\n\n**客戶端不需要安裝此模組**\n\n## 開發者指南\n\n你需要將語言檔案放在 `data/<模組ID>/lang/` 目錄下，格式採用原版資源包格式。\n\n唯一的 API 是 `ServerI18n` 類別。\n\n範例：\n\n`Text.literal(ServerI18n.translate(player,\"翻譯鍵\",\"參數1\",\"參數2\"))`\n\n`ServerI18n.broadcast(server,\"翻譯鍵\",\"參數1\",\"參數2\")`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DfCmm2hzDTM=",
+  "content": "![](https://imgur.com/TWLUjTG.png)\n\nVeil 是一套精密的工具与实用程序集合，专为Minecraft模组开发者设计，旨在简化高级渲染功能的实现。我们的目标是在Java版Minecraft中引入更现代化的游戏引擎级别内容，突破模组开发的可能性边界。\n\n## 关于Veil：\n\n- **色彩系统**：管理颜色并支持主题化应用。\n- **缓动函数**：应用缓动函数以实现更自然的运动效果。\n- **帧缓冲**：通过JSON配置自定义帧缓冲。\n- **后处理**：自定义后处理管线，支持便捷的纹理绑定。\n- **着色器**：全面支持所有OpenGL着色器类型，未来可能兼容HLSL与Spir-V 。\n- **着色器修改**：注入并修改现有着色器以满足特定需求。\n- **亡灵法师**：基于骨骼的动画模型，支持独立实体骨骼与模型。\n\n## 链接：\n前往开发者维基了解更多：[Veil Wiki](https://github.com/FoundryMC/Veil/wiki)\n\n探索示例模组：[Example Mod](https://github.com/FoundryMC/veil-example-mod)\n\n加入我们的Discord频道：[Foundry Discord](https://discord.gg/2aqTX9QWKU)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

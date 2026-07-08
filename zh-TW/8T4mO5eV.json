@@ -1,0 +1,6 @@
+{
+  "bodyHash": "70geWMG0NoI=",
+  "content": "### 🌲 關於  \n**Terraphilic** 是 Geophilic 與 Terralith 的兼容性資料包。它讓您能夠同時使用 **[Terralith](https://modrinth.com/mod/terralith)** 和 **[Geophilic](https://modrinth.com/datapack/geophilic)**，且不會失去任一資料包原有的功能特色。\n\nTerraphilic 需依賴 Terralith 與 Geophilic 才能運作！**請確保 Terraphilic 的載入順序在**（即位於）**這兩個資料包之後**。其餘兩者的順序則無關緊要。\n\nTerraphilic 的運作方式是合併兩個資料包的生態域檔案。若兩者中存在相同或類似的放置特徵，Geophilic 的內容將被 Terralith 的版本取代。沒有對應 Terralith 版本的原始功能仍會被 Geophilic 替換，而所有其他功能則保持原有的載入順序。\n\n**Terraphilic 不會修改 Terralith 的生態域**，儘管未來可能會有所調整。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b67h9cuW9UQ=",
+  "content": "<h3>🌲 关于本模组</h3><p><strong>Terraphilic</strong> 是专为Geophilic与Terralith设计的兼容性模组及数据包。它能让你同时使用<strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/terralith\" rel=\"nofollow\">Terralith</a></strong>和<strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/geophilic\" rel=\"nofollow\">Geophilic</a></strong>而不会丢失任何功能特性。</p><p>本模组通过合并两个资源包的生物群系定义实现兼容。当两者存在相同或相似的地物生成时，Geophilic的配置会被Terralith替代。对于Terralith没有对应配置的原始地物，仍会采用Geophilic的修改方案，其余特性则保持原有加载顺序。</p><p>当前提供<strong>Forge与NeoForge的模组版本</strong>；暂不支持Fabric。<strong>Fabric/Quilt用户请使用数据包版本</strong>。</p><p><strong>本模组不会修改Terralith的生物群系</strong>（未来可能会调整此策略）。</p><p>若你同时使用其他地形生成类模组，建议改用<strong>Geophilic Reforged</strong>以获得更好兼容性。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

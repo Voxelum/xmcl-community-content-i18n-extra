@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fEM/0bAfVPg=",
+  "content": "**Вам необходим [Epic Fight](https://modrinth.com/mod/epic-fight/versions) в качестве предварительного условия.**\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Qcc-JPznKMc\" title=\"Плеер видео на YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**Изменения / Обновления**\n\n- Большинство анимаций теперь более плавные.\n\n- Количество ударов в комбо-цепочках для всех оружий увеличено до 5.\n\n- Добавлено новое оружие: Коса.\n\n**Будущие планы**\n- Добавить больше видов оружия.\n\n- Добавить больше поведений монстров.\n\n**Для разработчиков:**\n```bash\nrepositories {\n\n    exclusiveContent {\n        forRepository { maven { name = \"Modrinth\"; url = \"https://api.modrinth.com/maven\" } }\n        forRepositories(fg.repository)\n        filter { includeGroup \"maven.modrinth\" }\n    }\n\n}\n\ndependencies {\n    implementation fg.deobf(\"maven.modrinth:epicfight-extra:1.1.4-mc1.20.1-forge\")\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

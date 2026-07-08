@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JrchBjeLy4w=",
+  "content": "# lazy-language-loader\nlazy-language-loader 透過僅重新載入語言而非所有遊戲資源，大幅改善切換語言時的載入時間！\n\n## 背景說明\n目前在配備較低的電腦上載入語言時，會出現相當明顯的延遲...\n這個模組的目標是解決這個嚴重的卡頓問題，改為只重新載入語言管理器而非所有遊戲資源。語言管理器負責處理遊戲的翻譯/本地化等功能。使用此模組後，由於不再需要重新載入所有資源，延遲現象將會變得非常不明顯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

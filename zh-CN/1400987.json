@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dQ7PlT/+6fk=",
+  "content": "<p>你是否曾因为多个Create附属模组为相同物品添加冲突的配方，导致你的Create自动化产出随机结果？<em>Create：可配置机械输出</em> 通过让你完全控制机器使用的配方来解决这个问题——现在适用于粉碎轮、机械手摇机以及磨石。</p><p><strong>特性：</strong></p><ul>\n<li><strong>配方选择界面</strong>：用扳手对支持的机器按下<span style=\"text-decoration:underline\"><span style=\"color:#fbeeb8;text-decoration:underline\"><strong><em>Ctrl + 右键</em></strong></span></span>以打开选择器</li>\n<li><strong>支持机器</strong>：粉碎轮、机械手摇机以及磨石</li>\n<li><strong>目标配方查找</strong>：使用搜索栏查找冲突的配方！</li>\n<li><strong>视觉冲突检测</strong>：自动识别具有多个冲突配方的物品</li>\n<li><strong>单机配置</strong>：每台机器会记住你选择的配方</li>\n<li><strong>世界持久化</strong>：你的选择会被保存，并在游戏会话间持续生效</li>\n<li><strong>配对检测</strong>：智能处理粉碎轮对，保持间距</li>\n<li><strong>兼容性</strong>：与Create及其所有附属模组无缝协作。完美适合那些想要可靠、可预测的自动化、避免意外的玩家！</li>\n</ul><p>演示</p><p><img src=\"https://media.forgecdn.net/attachments/description/1400987/description_64d99339-317f-45d2-8907-7576e1bab9d2.gif\" alt=\"\"></p><p><img src=\"https://media.forgecdn.net/attachments/description/1400987/description_bb1c5c3c-bd84-42b8-b010-63ef69f9c2ec.gif\" alt=\"\"></p><p><img src=\"https://media.forgecdn.net/attachments/description/1400987/description_5707ca91-559f-47f4-8486-bd4dde6eeae5.gif\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LkRktcxnhTI=",
+  "content": "<h1>macu lib</h1><p>這是一個用於我的模組的函式庫，例如跨平台物品與方塊註冊，以及加入贊助者福利（如各種外觀裝飾）。</p><p>關於API使用範例，請參考GitHub儲存庫中的測試模組</p><hr><h2>開發者</h2><p>將此模組加入您的 <code>build.gradle(.kts)</code> 中</p><pre><code>// 在您的 repositories 區塊中加入 Macuguita maven 倉庫\nrepositories {\n  maven {\n    name = \"macuguita maven\"\n    url = \"<a href=\"/linkout?remoteUrl=https%253a%252f%252fmaven.macuguita.com%252freleases%252f\" target=\"_blank\" rel=\"nofollow\">https://maven.macuguita.com/releases/</a>\"\n  }\n}\n\n// 在您的環境中將此模組加入為依賴項\ndependencies {\n  // 在 Minecraft 26.x 之前，請使用 \"modImplementation\" 取代\n  implementation(\"com.macuguita:macu_lib-&lt;loader&gt;:${project.macu_lib_version}\")\n}</code></pre><hr><h2>支援</h2><p>如果您遇到任何問題或有建議，歡迎：</p><ul>\n<li><p>在 GitHub 上開啟議題。</p></li>\n<li><p>透過 Discord 私訊我 <a href=\"https://github.com/macuguita\" target=\"_blank\" rel=\"nofollow\">@macuguita</a></p></li>\n<li><p>在我網站上列出的任何平台給我留言：<a href=\"/linkout?remoteUrl=https%253a%252f%252fmacuguita.com%252f\" target=\"_blank\" rel=\"nofollow\">macuguita.com</a></p></li>\n<li><p>您可以在此平台的任何模組包中自由使用此模組</p></li>\n</ul><hr><h2>致謝</h2><ul>\n<li>開發者：macuguita</li>\n</ul><p><sup>如果您是贊助者，此模組會連線至 persista.macuguita.com 以載入外觀或其他由依賴模組儲存的資料。您可以透過聯絡 gdpr@macuguita.com 要求刪除資料</sup></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cfawwfS/w5c=",
+  "content": "<h2>Forge模組</h2><p>解除安裝此模組的舊版本，並在之前安裝過該模組的世界中使用，可能會導致負面影響！</p>\n<p>&nbsp;</p>\n<h2>更大堆疊</h2>\n<p>允許你將物品堆疊數量增加到超過64，最高可達約10億（雖然我不建議設定那麼高）。</p>\n<p>&nbsp;</p>\n<h3>控制單一物品的堆疊數量</h3>\n<p>此模組讓你能根據標籤、物品來源的模組等條件，透過規則來改變物品的堆疊數量。</p>\n<p>&nbsp;</p>\n<h2>快速入門</h2>\n<p>當你載入一個尚未設定此模組的世界時，會顯示以下提示：</p>\n<p><img src=\"https://media.forgecdn.net/attachments/589/800/prompt.PNG\" alt=\"\" width=\"594\" height=\"168\"></p>\n<p>&nbsp;</p>\n<p>點擊該指令或直接執行它，即可開啟設定GUI。</p>\n<p>你隨時可以透過執行 /biggerstacks quicksetup 來開啟這個GUI。</p>\n<p>&nbsp;</p>\n<h2>相容性</h2>\n<p>對於這類模組，很可能會遇到一些不相容的情況。如果你發現任何問題或功能不如預期，請在GitHub上回報。</p>\n<p>部分物品傳輸模組（如xnet、modular routers、pretty pipes、cyclic）已針對更大堆疊進行了調整。設定檔案中有關這些調整的更多資訊。</p>\n<p>&nbsp;</p>\n<p><strong>請將你發現的此模組的任何問題/不相容情況回報給我，而非其他模組的作者。</strong></p>\n<p>你可以在GitHub的問題回報區或這裡的留言區進行回報，不過如果你有GitHub帳號，我建議你使用GitHub的問題追蹤系統。</p>\n<p>&nbsp;</p>\n<h2>已知不相容情況</h2>\n<p>- numismatic overhaul reforged</p>\n<p>&nbsp;</p>\n<h2>用戶端與伺服器端？</h2>\n<p>此模組需要在用戶端和伺服器端雙方都安裝。</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

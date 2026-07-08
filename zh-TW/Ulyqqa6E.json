@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mylq9Ly6ziE=",
+  "content": "**Celeritas 樹葉剔除**\n\n**Sodium 樹葉剔除的移植版，專為 1.12.2 的 Celeritas 打造**\n\n**你需要 Cleanroom 加載器才能使用此模組**\n\n**此模組啟用了 Celeritas 快速方塊渲染器，如果你發現模組方塊的渲染出現問題，請在此處回報**\n\n如果你正在使用 Celeritas Extra 0.2.2，請確保在 Celeritas extra 設定中停用樹葉剔除功能\n\n從[此處](https://git.taumc.org/embeddedt/celeritas)自行編譯 Celeritas，或下載[自動構建的 JAR 檔](https://github.com/kappa-maintainer/Celeritas-auto-build/releases)\n\n***\n\n共有 3 種剔除方法\n\n*   **空心** - 行為類似 Optifine 的智慧選項。效能最佳，但視覺效果是所有選項中最差的。\n*   **實心激進** - 僅取代水平方向（北、南、東、西）完全被包圍的樹葉，而忽略垂直相鄰的方塊。效能優於實心選項，但視覺效果較差。\n*   **實心** - 將六個面（上、下、北、南、東、西）完全被包圍的樹葉替換為實心方塊。視覺效果是所有選項中最好的，幾乎與原版的華麗選項視覺上無異。\n\n**效能測試（9800x3d, 7900xtx 3440x1440）**\n\n在「暮光森林」中，使用空心選項並設定 32RD，FPS 從 **540** 提升至 **740**\n\n在「暮光森林」中，使用實心選項並設定 32RD，FPS 從 **540** 提升至 **640**\n\n**特別感謝**\n\n*   **Txni** – 感謝其開發原始的 SodiumLeafCulling\n*   **Embeddedt** – 感謝其創建 Celeritas，進而激勵我製作此移植版本\n\n原始 Sodium 樹葉剔除 <https://github.com/txnimc/SodiumLeafCulling>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

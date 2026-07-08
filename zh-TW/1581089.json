@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UStq2Gkzc1I=",
+  "content": "<p>這是 <strong>Thaumic JEI</strong> 的非官方維護分支，最初由 <strong>Buuz135</strong> 創作。</p><p>原始專案：<a href=\"https://www.curseforge.com/minecraft/mc-mods/thaumic-jei\" target=\"_blank\" rel=\"nofollow\">CurseForge 上的 Thaumic JEI</a></p><p>此分支保留了原始神祕時代配方瀏覽功能，包含奧術工作台、坩堝、注魔、要素合成配方、要素來源查詢，以及根據研究進度顯示配方的功能。</p><p>與原始專案的差異：</p><ul>\n<li>改善要素來源快取行為，讓快取資料可重複使用並逐步更新，而非預設每次啟動都重新建立。</li>\n<li>新增對原始要素快取格式的遷移支援。</li>\n<li>改善研究同步行為，能根據玩家研究進度隱藏或顯示配方。</li>\n<li>增加更多記錄資訊，讓配方註冊、快取同步和研究同步更容易排查問題。</li>\n</ul><p>本專案遵循原始專案授權。<br>Thaumic JEI 採用 MIT 授權條款。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

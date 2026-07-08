@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bjLVozFBsBE=",
+  "content": "<p>Требуется <strong>FORGE</strong></p>\n<p>Обеспечивает генерацию кварцевой руды в верхнем мире. По умолчанию немного реже, чем в незере.</p>\n<p>В версии 1.19.2+ генерация руды настраивается с помощью данных паков, поэтому для примера того, как это сделать, вы можете заглянуть внутрь .jar файла мода (версия 1.1.2.0+), либо посмотреть здесь: https://stackoverflow.com/questions/75122661/minecraftforge-1-19-3-ore-generation-java-edition<br /></p>\n<p>В версии 1.18.2 и ниже — в файле «config/overworld_quartz-common.toml»</p>\n<p><span style=\"font-size: 14px;\"><strong>Часто задаваемые вопросы</strong></span></p>\n<p><strong>Вопрос: Forge?<br />Ответ: Forge.<br /><br />Вопрос: Могу ли я включить ваш мод в видео?</strong></p>\n<p><strong>Ответ: Если вы указываете ссылку на мод или модпак (если он входит в состав модпака), то абсолютно да</strong></p>\n\n<p>Если кому-то нужен более простой способ общаться или задавать вопросы, вот ссылка на Discord: <a href=\"https://discord.gg/sKwS3c62uM\" target=\"_blank\" rel=\"noopener noreferrer\">https://discord.gg/sKwS3c62uM</a></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

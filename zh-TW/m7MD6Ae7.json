@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GxkmEo29XFU=",
+  "content": "## 小貓 Kitty Cat\n\n[![Modrinth 下載數](https://img.shields.io/modrinth/dt/m7MD6Ae7?style=flat-square&logo=modrinth&label=Modrinth&color=1bd96a&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fkittycat)](https://modrinth.com/mod/kittycat)\n[![CurseForge 下載數](https://img.shields.io/curseforge/dt/1500571?style=flat-square&logo=curseforge&color=f16436)](https://www.curseforge.com/minecraft/mc-mods/kittycat)\n\n把知名又可愛的 [oneko](https://en.wikipedia.org/wiki/Neko_(software)) 帶進你的遊戲裡！！\n\n![模組的小預覽圖](https://cdn.modrinth.com/data/cached_images/26010a4c34604de414d4234af7d24fa6f2699a84.gif)\n\n### 設定\n\n| 選項 | 說明 | 預設值 |\n|------|------|--------|\n| 啟用 | 啟用或停用模組 | 開啟 |\n| 速度 | 貓咪移動的速度 | 4.0 |\n| 停止距離 | 貓咪離滑鼠多遠會停下來 | 16 |\n| 大小 | 貓咪的像素大小 | 16 |\n| 啟用動畫 | 播放待機動畫 | 開啟 |\n| 警覺持續時間 | 警覺動畫的長度 | 7 |\n\n### 提及與感謝\n\n- [oneko](https://en.wikipedia.org/wiki/Neko_(software)) oneko 的原始來源\n- [oneko.js](https://github.com/adryd325/oneko.js/blob/main/oneko.js) 製作此模組的靈感來源\n- [oneko cursor](https://github.com/GuidoFe/oneko-optional-cursor) 提供部分點陣圖！\n\n---\n如果你想將本模組加入你的模組包，歡迎使用！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

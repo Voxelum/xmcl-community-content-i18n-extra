@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MlN1uOOqFaE=",
+  "content": "船只是一个结构数据包，为游戏添加了掠夺者船只作为新的地牢类型，并允许掠夺者使用船只。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ma9xrL_LGww\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n# 结构\n## 船只\n\n这些船只设计得像沉船，船只内包含掠夺者、卫道士和类似沉船战利品的物品。船只可以用不同类型的木材生成，船只中的地图会引导你前往掠夺者前哨站。\n![Alt text](https://cdn.modrinth.com/data/M185nxi6/images/35a66b1c7b86247a055281a1309e7065eb07ef37.png 'Ship Structure')\n\n## 舰队\n舰队是由多艘船只组成的结构。每艘船上都有一个唤魔者。掠夺者会持续在这些船只上生成，直到你杀死所有唤魔者。舰队中的地图会引导你前往林地府邸。\n![Alt text](https://cdn.modrinth.com/data/M185nxi6/images/1188e24ba21a01b71e8e061b1957a54973d35a89.png 'Fleet Structure')\n\n# 掠夺者船只\n\n这个数据包还允许掠夺者使用船只。如果一个掠夺者在水中，它会进入一艘船并在附近海域巡逻。如果它看到敌人，它会停止巡逻并追逐敌人。船只生成时周围会有一些巡逻船只，使登船更具挑战性。舰队生成时周围会有更多的巡逻船只。\n\n**掠夺者船只机制是实验性的，可能会对性能有一定影响，并且如果你安装了模组、插件或其他数据包，可能会导致崩溃！**\n如果你需要禁用或限制AI船只，可以通过使用“/function ships:gamerules”更改游戏规则来实现。\n如果你有兴趣帮助优化数据包，可以在这里贡献。\n\n![Alt text](https://cdn.modrinth.com/data/M185nxi6/images/d0909c5defc9ace3c2521b579df1fcf2556ab7a6.png 'Pillager in a boat')\n---\n\n要在Modrinth以外的模组包中使用此数据包/模组，你必须在其Planet Minecraft页面上评论你正在模组包中使用此数据包/模组，并在评论中包含模组包的链接，或者同时包含其名称和托管网站的链接。\n\n感谢Bobydon提供的展示视频。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

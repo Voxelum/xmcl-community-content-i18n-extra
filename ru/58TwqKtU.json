@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lZsB9GP8//c=",
+  "content": "Этот мод добавляет пару машин, которые позволяют конвертировать жидкости из [Nuclear Tech Mod от HBM](https://modrinth.com/mod/ntm) в систему жидкостей Forge и наоборот.\n\nКроме того, он не учитывает механику безопасного хранения из NTM (горячие жидкости, кислоты, антивещество), так что имейте в виду, что это меняет баланс игры.\n\nОзнакомьтесь с [вики](https://github.com/Ezzocorbi/bob-fluid-translator/wiki) на GitHub, чтобы узнать, как его использовать.\n\nДля работы требуется Nuclear Tech Mod от HBM.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

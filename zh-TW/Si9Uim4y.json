@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UXu/Px8smGo=",
+  "content": "# 細節盔甲條重構版\n\n\n**在盔甲條中顯示更多盔甲細節！**\n\n細節盔甲條重構版是廣受歡迎的 Detail Armor Bar 模組的維護分支，為 Minecraft 1.21.5+ 帶來增強的盔甲視覺化功能。這個用戶端模組直接在 HUD 中提供盔甲的詳細資訊，讓您更容易管理保護效果與附魔。\n\n## ✨ 功能特色\n- 獄髓盔甲條\n- 附魔保護類型顏色效果\n- 盔甲修補效果\n- 尖刺覆蓋/效果\n- 盔甲低耐久警告效果\n- 盔甲紋理顯示\n- 以及更多！\n\n## 📖 **關於此分支**\n細節盔甲條重構版由 [coredex-source](https://github.com/coredex-source) 維護，延續了 RedLime 原始模組的傳承。此分支旨在將原始模組的所有功能完整實作至更新的 Minecraft 版本，並在未來擴展模組功能。\n\n## 💳 致謝\n- **RedLime**：原始模組作者\n- **ram6ert**：1.21.5 分支貢獻者\n- **snessim 與 Heamaci**：紋理貢獻者\n- **Icedude907**：修正視覺錯誤的程式碼貢獻者\n- **axtrough**：新增銅製盔甲紋理\n\n## ⚡ 版本支援\n- 此模組最多支援三個版本，例如若 1.21.7 為最新 Minecraft 版本，則提供 1.21.5、1.21.6 與 1.21.7 的支援。\n- 如需請求向下移植版本，可透過在[此處](https://github.com/coredex-source/DetailArmorBarReconstructed/issues)建立 Issue 提出請求。\n\n## 🔗 **連結**\n- **原始碼**：[GitHub 儲存庫](https://github.com/coredex-source/DetailArmorBarReconstructed)\n- **原始模組**：[RedLime 的細節盔甲條](https://github.com/redlime/DetailArmorBar)\n\n---\n\n\n**備註**：若使用 Minecraft 1.21.4 及以下版本，請使用[原始細節盔甲條模組](https://modrinth.com/mod/detail-armor-bar)。（由於 1.21.1 在模組開發中廣受歡迎，我決定在 5.0.0 版本中增加對這些版本的支援。）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

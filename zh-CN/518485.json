@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uwNP7jN/V54=",
+  "content": "<p>在神秘时代4的研究笔记中，若不可解锁的研究项目名称为英文，则会以标准银河字母显示；但若包含非英文字符，则不会显示或保持原样呈现。</p>\n<p>本模组修改了Minecraft的标准银河字母渲染机制，使得任意Unicode字符均可通过标准银河字母显示（虽然显示内容无法转换为可读语句），这一特性可能有助于其他模组的本地化兼容。</p>\n<p><span style=\"color:#f00\">请勿下载旧版本模组，请确保您下载的模组版本为1.0.3及以上。旧版本模组可能导致一系列问题引发客户端崩溃！</span></p>\n<p><img src=\"https://media.forgecdn.net/attachments/389/673/example.png\" alt=\"安装前后对比图\" width=\"1901\" height=\"2139\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pDMevUP9W7s=",
+  "content": "# Этот мод переводит чат Minecraft на несколько языков!\n\n### Поддерживаемые языки:\n- Английский (english/en)\n- Французский (french/fr)\n- Немецкий (german/de)\n- Русский (russian/ru)\n- Испанский (spanish/es)\n\n### Пример\n![Замените это описанием](https://cdn.modrinth.com/data/cached_images/9c3f71dbcaaf54c0c0b354e4d56f1e8c8f30e81d_0.webp)\n\n### Как выбрать язык?\n\n```\n/sw4-translator mylanguage spanish/russian/german/french/english\n```\n\n### Как мод переводит сообщения?\n\nПерехват сообщений — миксин ChatHud.addMessage() перехватывает все входящие чат-сообщения.\n\nИзвлечение текста — парсит сообщение, отделяя имя игрока от текста:\n\n<Игрок> привет → Игрок: «Игрок», текст: «привет»\n\nHTTP-запрос к Google Translate — отправляет асинхронный GET-запрос:\n\n\n```\nhttps://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ru&dt=t&q=hello\n```\n\nsl=auto — автоматическое определение исходного языка\n\ntl=ru — отключение языка (вашего выбранного)\n\nq=hello — текст для перевода\n\nПарсинг JSON-ответа — извлекает переведённый текст из JSON-ответа Google\n\nДобавление в чат — добавляет новое сообщение с переводом:\n\nОригинал: <Игрок>, привет!\n\nПеревод: <Игрок> привет",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

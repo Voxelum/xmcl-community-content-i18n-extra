@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HNtgOcmPyvQ=",
+  "content": "Дополнительный мод для [Player Animator](https://modrinth.com/mod/playeranimator), который позволяет ему работать с гуманоидными мобами.\n\nКак и Player Animator, это библиотека — она сама по себе ничего не делает. Она была разработана в первую очередь для [Better Mob Combat](https://modrinth.com/mod/better-mob-combat).\n\nОна совместима с [Guard Villagers](https://modrinth.com/mod/guard-villagers) и [Entity Model Features](https://modrinth.com/mod/entity-model-features).\n\nСуществующие несовместимости между Player Animator и Entity Model Features устраняются этим модом с помощью настроек конфигурации.\n\nВключена переменная Entity Model Features под названием «is_playeranimator_animation_active» для использования в паках CEM.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

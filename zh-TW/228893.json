@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OJav74L7hT0=",
+  "content": "<h2>關於礦物生成任何東西：</h2><p>此模組允許您指定想要在特定維度透過世界生成產生的方塊或礦物。<br>例如，您可以在整個世界中生成音符盒，或用螢石脈填充空氣。<br>想要製作一個非常困難的模組包？您可以在空氣中生成熔岩源方塊。<br>這對模組包作者或伺服器管理員特別有用。<br>唯一的限制就是您的創造力！</p><h3>使用方法：</h3><p>您只需指定要生成的方塊（支援元數據）、維度ID和要替換的方塊。當世界生成時，您的設定就會被套用。<br>這透過一個易於使用的設定檔（JSON格式）來完成。</p><p>以下是一個設定檔行的範例。檔案名稱必須為「oreGen.json」，並且必須放在標準的設定檔資料夾中。每一行都可以是另一個礦物生成規則。這個規則會在主世界的空氣中生成基岩脈。</p><div class=\"spoiler\">\n<p>&nbsp;<em>{\"name\":\"BedrockAir\", \"dimension\":0, \"chanceToSpawn\":20, \"oreid\":\"minecraft:bedrock\", \"meta\":0, \"replaceid\":\"minecraft:air\", \"minVeinSize\":3, \"maxVeinSize\":10, \"minY\":50, \"maxY\":150}</em></p>\n</div><p><a href=\"/linkout?remoteUrl=http%253a%252f%252ful.to%252fksp2o8k2\" rel=\"nofollow\">範例檔案（月球銀光石和鈾礦 - 星際旅程維度）</a></p><p>設定檔必須符合此格式，且每一行都必須是一個新規則。可供使用/編輯的範例檔案將會在此新增。</p><p>Minecraft方塊ID可在此處找到：<a href=\"/linkout?remoteUrl=http%253a%252f%252fminecraft-ids.grahamedgecombe.com%252f\" rel=\"nofollow\">Minecraft ID列表</a></p><p>對於模組方塊，您可以使用Waila來顯示精確ID，或在遊戲內使用MineTweaker。</p><h5>如果您想在模組包/地圖中使用此模組，請告知作者，我們會很感謝！</h5><p>&nbsp;</p><p>此致，</p><p>Knoxz</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

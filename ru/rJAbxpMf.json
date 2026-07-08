@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6CAyFpzoTv0=",
+  "content": "Патч Frame Void исправляет MC-59363, в котором при одновременном правом и левом клике на пустую рамку предмета, удерживая предмет, ваш удерживаемый предмет будет удалён.\n\nMC-59363 в системе отслеживания ошибок Mojang: https://bugs.mojang.com/browse/MC-59363\n\nЭтот мод просто проверяет, действительно ли рамка предмета активна, прежде чем пытаться поместить в неё удерживаемый предмет и удалить его из инвентаря игрока.\n\n\n**Хотите связаться со мной или поддержать меня? Нажмите на значки ниже:**\n\n[![Discord](https://img.shields.io/discord/1202561752294760478?labelColor=violet&color=purple)](https://discord.gg/ZPdwrtvBKm)\n[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/FermiumModding)\n[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fonnymunkey)\n\n**Нужен сервер? Нажмите на баннер ниже и используйте код «fonny» для получения скидки 25% на первый месяц использования Bisect Hosting:**\n[![Bisect Banner](https://raw.githubusercontent.com/fonnymunkey/fonnymunkey.github.io/main/docs/assets/banner.webp)](https://fonnymunkey.github.io/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

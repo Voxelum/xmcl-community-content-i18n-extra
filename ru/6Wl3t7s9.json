@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EEFLx9JquIE=",
+  "content": "# Интеграция IA TFG\nМод для интеграции [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) и [Man of Many Planes](https://modrinth.com/mod/man-of-many-planes) в модпак [TerraFirmaGreg](https://www.curseforge.com/minecraft/modpacks/terrafirmagreg-modern).\n\nОригинальные рецепты взяты из [IA TFC Compatibility](https://www.curseforge.com/minecraft/mc-mods/ia-tfc-compatibility). Были внесены значительные изменения во многие рецепты, а также удалены стандартные, чтобы улучшить интеграцию с модпаком.\n\n## TODO\n- [X] Улучшить рецепты\n- [X] Добавить больше совместимости, возможно, с Create для модпака TFG, поскольку у него уже есть котёл и пропеллер\n- [X] Добавить больше совместимости с TFG — возможно, использовать инструменты из модпака в рецептах\n- [X] Что-то сделать с рецептом незерного двигателя\n- [X] Интегрировать Man of Many Planes\n\n# Распространение и модпаки\nРаспространение этого мода возможно только через Modrinth. Вы можете включить мод в модпак только в том случае, если лаунчер автоматически загружает его через API Modrinth. Если это невозможно, пользователю придётся скачать мод вручную.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

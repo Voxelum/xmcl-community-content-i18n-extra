@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cR49qtnGQfk=",
+  "content": "Позволяет SPS от Mekanism использовать пользовательские рецепты через JSON.\nВсё ещё в процессе разработки — я планирую исправить ошибки и добавить недостающие функции.\n\nПримечание: Я потратил 3 часа, пытаясь найти мод с такой функцией, но не смог его найти, поэтому решил сделать его сам :)\n\nПример:\n\n```\n{\n  \"type\": \"spscustomizer:sps\",\n  \"input\": {\n    \"chemical\": \"mekanism:hydrogen\",\n    \"amount\": 1000\n  },\n  \"output\": {\n    \"id\": \"mekanism:oxygen\",\n    \"amount\": 1\n  },\n  \"energy\": 1000000\n}\n```\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

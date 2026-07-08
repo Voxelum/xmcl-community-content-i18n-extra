@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t6PnY04PtXU=",
+  "content": "修補 Minecraft Forge 1.7.10 - 1.12.2 的安全性漏洞 CVE-2021-44228（亦稱為 Log4Shell），透過反射機制移除 Interpolator 中的 JNDI 查詢功能，並替換預設的 LoggerContextFactory 以攔截在此模組載入後的所有 LoggerContext。如需更詳細的技術說明，請直接參考原始碼。\n\n目前僅支援 Minecraft 1.12 及更早版本。已於 1.7.10 和 1.12.2 版本測試通過。\n\n## 相容性\n\n若有模組嘗試以程式方式調整日誌設定，由於本修補機制較為徹底，這些模組將會執行失敗。為解決此問題，本修復模組會延遲修補時機，直到相關模組完成其設定編輯。\n\n截至目前，本修復模組已內建支援以下模組：\n\n* ForgeEssentials\n\n若其他模組出現類似 `ClassCastException: cannot cast XXXXXXXX to org.apache.logging.log4j.core.impl.Log4jContextFactory` 的錯誤訊息導致崩潰，表示您可能使用了這類模組。\n\n解決方式：請至[我的問題追蹤系統](https://github.com/Glease/Healer/issues)回報，或在 JVM 啟動參數中加入 `-Dnet.glease.healer.patch_stage=XXXX`，其中 XXXX 可為 `PRELOAD, PREINIT, INIT, POSTINIT` 任一階段（依時間順序排列，越前面越早執行）。通常使用 PREINIT 即可解決問題，POSTINIT 則能處理所有狀況。\n\n## 給一般玩家\n\n1. 若您的啟動器已修補此漏洞，則無需安裝此模組\n2. 若已套用 Mojang 官方修補，則無需安裝此模組\n3. 若在 1.7 版本使用 FoamFix，則無需安裝此模組\n4. 若使用其他修復模組，請確認原作者是否實作「攔截在該模組載入後的所有 LoggerContext」功能。若有則無需此模組，否則請改用本模組，或使用已內建修補功能的啟動器（如 MultiMC）\n\n## 給模組包製作者\n\n1. 若您的用戶端模組包適用於 Minecraft 1.7~1.12.2，建議加入此模組。可保護尚未意識到此漏洞且使用未修補啟動器的玩家\n2. 若同時發布伺服器模組包且適用 1.7~1.12.2 版本，在已套用 Mojang 修補的情況下非必要安裝。但由於多數使用者不會使用模組包內附的 StartServer.bat（或類似啟動腳本），很可能未使用 Mojang 修補版的 log4j2.xml。技術上不應分發修改過的 minecraft_server-1.7.10.jar，因此加入此模組將是確保使用者獲得修補的最直接方式",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

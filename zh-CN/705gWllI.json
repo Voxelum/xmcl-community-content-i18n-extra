@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yA2fFVBrSRI=",
+  "content": "# EMIffect\n\nEMI 插件，为 EMI 添加状态效果列表，并提供每种状态效果的详细信息。\n\n灵感来源于 [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)，现有描述内容取自 JEED。\n\n模组制作者可通过语言文件为自己的状态效果添加描述。格式遵循 JEED：`effect.[模组ID].[效果名称].description` 或 `effect.[模组ID].[效果名称].desc`\n\n此外，用户和模组制作者可以为特定效果添加自定义物品堆。更多信息请查看 [维基百科](https://github.com/Prismwork/EMIffect/wiki/Append-custom-stacks-for-specific-effects)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

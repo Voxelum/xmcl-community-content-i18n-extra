@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zbnbYVq/nmo=",
+  "content": "<img src=\"https://cdn.modrinth.com/data/dxiyDLYV/images/6d70e485450e673f534ce9fe081218386b69e430.png\">\n\n### 萤火虫会在夜晚的沼泽和红树林沼泽生物群系中出现  \n**仅需服务端安装即可生效**  \n## 🏞️ 支持的扩展生物群系模组：  \n- Terralith  \n- Biomes O' Plenty  \n- Regions Unexplored  \n- Terrestria  \n- William Wythers' Expanded Ecosphere  \n- Nature's Spirit  \n\n## 📚萤火虫参数设置：  \n- 使用预设模式：输入`/function vanilla_fireflies:menu`  \n- 调整萤火虫数量：输入`/function vanilla_fireflies:amount {amount:<具体数量值>}`  \n- 高级参数调整：输入`/function vanilla_fireflies:configure {amount:<萤火虫粒子数量>,speed:<粒子移动速度>, delta_x:<X轴生成范围>,delta_z:<Z轴生成范围>, delta_y:<Y轴生成范围>}`  \n  - 注：默认参数为：  \n    - amount: 1.21.5版本后为25/之前为60  \n    - speed: 0.3  \n    - delta_x: 40  \n    - delta_y: 10  \n    - delta_z: 40  \n\n## 📂数据包安装方式  \n- 下载数据包并放入世界文件夹  \n  - 新建世界时：在世界创建界面点击\"数据包\"选项并选择本数据包  \n\n## 🔧模组安装方式  \n- 下载模组并放入.minecraft/mods文件夹  \n\n如有问题/建议，可[在GitHub提交issue](https://github.com/Komaru-cats/Vanilla_Fireflies/issues)或[加入Discord服务器](https://discord.gg/j9VKsyXPhz)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7H3F5l/BjNE=",
+  "content": "# Strayer's Skyblock Utils\n\n## 這是什麼？\n\nStrayer's Skyblock Utils 是我為 Hypixel Skyblock 模組社群貢獻的一份心力。它包含了一些我認為能讓遊戲體驗更流暢、更愉快的調整功能。\n\nSSU 最初只是一個個人專案。我想為自己打造一個能幫助我解決某些遊戲問題的工具——那些我希望其他模組能調整，或是我不喜歡其他模組處理方式的部分。\n\n<details>\n<summary>功能特色：</summary>\n\n### 地牢\n- 以「!M7」格式執行的地牢加入指令\n- 透過 /ssu autorejoin 自動重新加入地牢（floor(\"m7\" 格式)）\n- 透過 !dt/dt 查看停機時間（可附註原因）\n### 採礦\n- Corleone 提醒熱鍵（擊殺後1分鐘提醒）\n- 在冰河隧道中顯示 Umber 和 Tungsten 礦脈路徑點\n### 聊天\n- 聊天過濾開關（尚未完成）\n- 透過熱鍵將座標輸出至聊天\n- 表情符號美化（例如 o/ 變成 ( ﾟ◡ﾟ)/）\n### 玩家發光效果\n- 透過 /ssu glowingPlayers 啟用玩家發光\n- 設定介面可編輯發光玩家\n- 自動標記隊友發光\n### 隊伍\n- 隊伍指令（!pt、!warp 等）\n- 在 Skyblock 中自訂隊伍邀請（螢幕通知）\n### 雜項\n- 可自訂的情境式 HUD\n- 自動 Hoppity 蛋\n- 縮放功能\n- 聊天預覽\n- 可自訂的模組顏色（HUD 等）\n- 自訂側邊欄\n- 透過 /ssu npcfinder 尋找 NPC\n- 綿羊養殖助手——在該擊殺時通知你\n</details>\n\n## 依賴項目\n- Cloth Config API - 必裝\n- Mod Menu - 建議安裝\n\n## 回報問題\n請注意，這是我開發和發布的第一個模組，我還在熟悉 Minecraft 模組開發環境。就像所有初學者一樣，我難免會犯錯、引入漏洞或是導致你的遊戲崩潰 :p。如果你發現任何問題，請讓我知道，以便我能盡快發布修復版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UErvfNve0D4=",
+  "content": "<h1>Совместимость Traveler's Backpack с Transmog</h1><p>Небольшой мод для Fabric в Minecraft 1.20.1, добавляющий совместимость между <strong>Traveler's Backpack</strong> и <strong>Transmog</strong>.</p><h2>Особенности</h2><ul>\n<li>Позволяет трансмогнуть Traveler's Backpack в другие предметы, сохраняя при этом их визуальную идентичность (рендеринг бака, режимы шлангов и т.д.).</li>\n<li>Сохраняет внешний вид трансмогнутого предмета в рендере слоя рюкзака.</li>\n</ul><h2>Требования</h2><ul>\n<li>Minecraft 1.20.1</li>\n<li>Fabric Loader</li>\n<li>Fabric API</li>\n<li>Traveler's Backpack</li>\n<li>Transmog</li>\n</ul><h2>Установка</h2><ol>\n<li>Загрузите мод и поместите его в папку <code>mods</code>.</li>\n<li>Убедитесь, что все необходимые зависимости также присутствуют.</li>\n</ol><h2>Лицензия</h2><p>Этот проект лицензирован по лицензии MIT —</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

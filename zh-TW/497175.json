@@ -1,0 +1,6 @@
+{
+  "bodyHash": "A+RhfUdDaWM=",
+  "content": "<p><img src=\"https://i.imgur.com/PMONXxW.png\" width=\"256px\"></p><h1>通用墓碑</h1><p>這是一款簡單但高度自定義的墳墓/死亡儲物箱模組！您可以隨意調整訊息、方塊和全息文字、保護時間長短、到期後是否掉落物品等設定。</p><p>此模組可在伺服器端僅需安裝即可運作，但模型支援需要用戶端安裝本模組！</p><p><em>本模組僅支援 Fabric 和 Quilt！</em></p><p>如有任何疑問，可前往我的&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fpb4.eu%252fdiscord\" rel=\"nofollow\">Discord</a>&nbsp;詢問</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fpb4.eu%252f\" rel=\"nofollow\">亦可瀏覽我的其他模組和專案，或許對您有所幫助！</a></p><h3>使用 2.x/1.19.x 或更舊版本？</h3><p><a href=\"https://github.com/Patbox/UniversalGraves/blob/1.19.4/README.md\" rel=\"nofollow\">點此查看正確的說明文件！</a></p><h2>圖片展示</h2><p><img src=\"https://i.imgur.com/rJoRmFT.png\" alt=\"預設墳墓外觀\"></p><h2>指令（及權限）：</h2><ul>\n<li><code>/graves</code>&nbsp;- 主指令，顯示玩家自己的墳墓列表（<code>universal_graves.list</code>，預設可用）</li>\n<li><code>/graves player &lt;玩家&gt;</code>&nbsp;- 開啟指定玩家的墳墓列表GUI（<code>universal_graves.list_others</code>）</li>\n<li><code>/graves modify &lt;玩家&gt;</code>&nbsp;- 開啟自身墳墓列表GUI，並可進行修改（<code>universal_graves.modify</code>）</li>\n<li><code>/graves reload</code>&nbsp;- 重新載入設定檔與樣式（需要 <code>universal_graves.reload</code> 權限）</li>\n</ul><p>此外，擁有 <code>universal_graves.teleport</code> 權限即可傳送至任意墳墓。</p><h2>設定：請查閱 GitHub 或 Modrinth！</h2>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

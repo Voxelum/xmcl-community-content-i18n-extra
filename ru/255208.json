@@ -1,0 +1,15 @@
+{
+  "bodyHash": "pP8ZZ31tHFU=",
+  "content": {
+    "error": {
+      "code": "data_inspection_failed",
+      "param": null,
+      "message": "Input data may contain inappropriate content.",
+      "type": "data_inspection_failed"
+    },
+    "id": "chatcmpl-370c776e-c6fd-989b-ba07-781574c122f0",
+    "request_id": "370c776e-c6fd-989b-ba07-781574c122f0"
+  },
+  "contentType": "text/html",
+  "type": "curseforge"
+}

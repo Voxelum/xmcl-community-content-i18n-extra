@@ -1,0 +1,6 @@
+{
+  "bodyHash": "boHk3g15qlU=",
+  "content": "<section>\n<div>\n<div>\n<section>\n<div>\n<div>\n<p>仅为彩色光照和动态光源添加到了一个极快的着色器中，专为低配电脑优化，可选阴影、纹理提升，并支持出色的PBR（即使是在方块光源上）。同时也支持Distant Horizons和Voxy。</p>\n<p>这是我能够制作出的最快的彩色光照着色器，可选的全局光照对帧率毫无影响。</p>\n<p>Beta版本尚未在所有硬件上测试。如果在使用中遇到问题或有改进建议，请通过Discord告诉我。</p>\n<p>如果您发现任何模组中的物体发光不正确，请告知我，我会尽快添加支持。所有作为光源的模组方块应能自动生效，而PBR纹理也可以选择性地将任何物体变为彩色光源。</p>\n<p>您还可以选择性地将混凝土变为彩色光源，满足所有霓虹灯需求。</p>\n<p>该着色器可能兼容旧版本，只是我尚未测试过，如果您有相关信息欢迎告知！</p>\n</div>\n</div>\n</section>\n</div>\n</div>\n</section>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

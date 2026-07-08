@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Iyu0YVlV89A=",
+  "content": "**БОЛЬШЕ НЕ НУЖНО В 26.1+**  \nИспользуйте [Усиленную яркость](https://modrinth.com/resourcepack/boosted-brightness-rp), если хотите, чтобы всё было ярче и полностью светлым\n<details>\n  <summary>\n    Старое описание\n  </summary>\n\nВ Minecraft 1.21.9 Mojang ухудшили работу ночного зрения. Теперь для расчётов ночного зрения всегда используется мрачное освещение. Этот ресурспак использует основные шейдеры, чтобы отменить это изменение. Исправляет [MC-301543](https://bugs.mojang.com/browse/MC/issues/MC-301543)\n  \nЭтот пакет может не работать с другими шейдерами, которые модифицируют тот же шейдер, что и я, например, fullbright\n\n# Изображения\n### До\n![Мир темный](https://cdn.modrinth.com/data/MEunhccg/images/573aa9d3713d53158ba37df1d2e85ed6b2a955f5.png)\n### После\n![Мир ярче](https://cdn.modrinth.com/data/MEunhccg/images/ba84a3eda33cc42769304db1fd7d4c710ba271b3.png)\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

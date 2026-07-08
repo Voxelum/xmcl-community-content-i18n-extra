@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YTg1fKc8Idc=",
+  "content": "Также доступно для [Bedrock Edition](https://www.planetminecraft.com/texture-pack/better-music-commands-bedrock-edition/)!\n\nПозволяет воспроизводить любую отдельную композицию из саундтрека с помощью команд.\n\nСхема именования звуковых событий: «cb_music.track.», за которой следует имя трека в snake_case. Работают все официальные названия. Например, чтобы воспроизвести «Mice on Venus», звуковым событием будет либо «cb_music.track.mice_on_venus», либо «cb_music.track.piano3».\n\nВоспроизводит трек на полной громкости, чего игра не всегда делает в обычном игровом процессе. Если вы хотите, чтобы трек воспроизводился на своей обычной громкости, вам нужно указать это в команде.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

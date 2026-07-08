@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Gyei4ij0yME=",
+  "content": "一款符合邏輯的溫度與口渴模組。富有挑戰性，但絕不會令人煩躁或感到重複作業。程式碼非常穩定，不會隨機導致遊戲崩潰。設計上極度貼近原版，能與重度模組包或原版完美整合。\n\n![HUD](https://cdn.modrinth.com/data/oDobngty/images/731cd0832fd1deca78be46017fbca727ed550ee5.webp)\n\n\n  - 環境溫度會根據多種外部因素而變化，基於[濕球黑球溫度 - WGBT](https://en.wikipedia.org/wiki/Wet-bulb_globe_temperature)\n    - 覆寫Minecraft的生態域溫度，讓玩家更能感受到真實的溫度體驗。\n    - 就算有雪，也不代表天氣冷得離譜。這在現實中不合理，因為Minecraft的相鄰生態域通常溫度差異很大。\n    - 加入溫度平滑機制，使鄰近生態域之間的溫度更為自然。\n    - 若安裝Serene Seasons或Fabric Seasons模組，則會考量季節變化。\n  - 口渴程度受環境溫度、體溫與活動強度影響。\n    - 水，就是生命\n    - 體溫過高會導致水分快速流失，進而引發負面效果甚至死亡。\n  - 體溫可透過盔甲改裝與熱源來調節。\n    - 可在任何盔甲上「縫製」改裝，賦予各種防護能力。\n  - 寒冷並非像其他模組（甚至MC原版）那樣只是單純的「能量數值」，那樣太不合理了。\n    - 缺乏熱能使體溫下降，最終會導致負面效果，甚至死亡。\n    - [身體潮濕](https://en.wikipedia.org/wiki/Hypothermia#Water_immersion)非常危險（除非你正在過熱狀態），它會導致體溫迅速下降。\n  - 會發熱的方塊不以溫度計量，而是以其釋放的[熱輻射](https://en.wikipedia.org/wiki/Thermal_radiation)來衡量，這會影響靠近這些物體時的「熱感」程度。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

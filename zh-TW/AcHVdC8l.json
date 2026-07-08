@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/a2Vl/AhQf0=",
+  "content": "![模組標誌](https://cdn.modrinth.com/data/cached_images/0c44eb90dddc9b1c743464597661166528740198.png)\n# 語音聊天玩家名稱\n\n語音聊天玩家名稱會在玩家位於您的Simple Voice Chat群組時，於其頭部旁顯示玩家名稱。\n本模組高度可自訂，並與ModMenu整合，讓所有設定易於查看與調整。\n\n### 範例\n![請替換此處為描述](https://cdn.modrinth.com/data/cached_images/ce18c815311e4cf4ead834c3eded0a8bd956fd2d.png)\n\n# 功能特色\n- 當玩家在語音聊天群組時，於其頭部上方顯示玩家名稱\n- 與ModMenu無縫整合，提供視覺化設定介面\n- 輕量設計，與大多數其他模組相容\n\n# 必要條件\n請確保已安裝以下項目：\n- ModMenu\n- Cloth Config API\n- Simple Voice Chat",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

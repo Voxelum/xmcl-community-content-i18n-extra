@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JU+o+8wvlUg=",
+  "content": "[The Spice Of Life](https://github.com/squeek502/SpiceOfLife) 的非官方分支版本，由 Squeek502 原作移植，並從 Cazsius 開發的 [Spice of Life: Carrot Edition](https://github.com/Cazsius/Spice-of-Life-Carrot-Edition) 反向移植功能\n\n \n\n這款模組透過收益遞減機制鼓勵飲食多樣化，並透過獎勵嘗試新食物來促進飲食探索\n\n \n\n特色功能：\n\n* 每食用 50 單位食物可獲得額外生命值\n* 近期食用過的食物將產生收益遞減效果\n* 工具提示顯示：未食用過的食物、已食用過的食物，以及近期食用導致收益遞減的食物\n\n \n\n \n\n致謝\n\n感謝 Squeek502 最初為 1.7.10 版本開發的 Spice of Life，以及 lordcazsius 提供的胡蘿蔔版靈感（與 1.12+ 版本程式碼）！\n\n \n\n需搭配 [AppleCore Unofficial](https://github.com/GTNewHorizons/AppleCore/releases) 使用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

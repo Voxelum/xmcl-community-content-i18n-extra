@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VapD1JJt+WU=",
+  "content": "# iCommonLib\n\niCommonLib — это моя библиотека общих функций, созданных независимо от версии игры.\n\n## Особенности:\n- Простой API конфигурации YAML\n- События, упрощающие работу с несколькими версиями.\n- API метаданных ресурсов и datapackов\n- API мира\n- И многое другое\n\n### События\n- BlockEntityLoadEvent\n- EntityPortalCollideEvent\n- CampfireBlockEntityCookEvent\n- PlayerGamemodeChangeEvent\n- PlayerExpOrbCollisionEvent\n- ServerPlayerInitEvent\n- ServerWorldInitEvent\n- WorldChunkInitEvent\n- И многое другое\n\n## Скачать\n\nСкачайте, перейдя во вкладку «Версии».\n\n## Партнёрская программа\n\n<a href=\"https://billing.apexminecrafthosting.com/aff.php?aff=3548\"><img src=\"https://cdn.apexminecrafthosting.com/img/theme/apex-hosting-mobile.png\" width=\"594\" height=\"100\" border=\"0\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

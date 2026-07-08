@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eVPtWECUNHs=",
+  "content": "<h1>关于</h1><p>风洞（Wind Tunnel）是一个基于 NeoForge 的 Minecraft 1.21.1 模组，围绕 Create、Sable、Simulated 和 Create: Aeronautics 构建。该项目专注于可控制的气流源和可重复的飞行器测试装置，用于调优、调试和游戏内实验。</p><h2>当前功能集</h2><ul>\n<li>可配置的风洞方块，能在世界中投射可控的风场</li>\n<li>专用风洞控制器，用于设置气流长度、风速和叶片旋转参数</li>\n<li>飞行器气流注入器，支持基于机体或世界的测试气流注入</li>\n<li>风洞安装座与接口对，用于飞行器绑定、姿态锁定和力反馈读取</li>\n<li>游戏内测量视图，显示升力、阻力、侧向力和旋转力矩</li>\n</ul><h2>包含内容</h2><ul>\n<li><code>风洞</code></li>\n<li><code>风洞控制器</code></li>\n<li><code>飞行器气流注入器</code></li>\n<li><code>风洞安装座</code></li>\n<li><code>风洞安装座接口</code></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

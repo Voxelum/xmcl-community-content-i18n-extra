@@ -1,0 +1,6 @@
+{
+  "bodyHash": "evLTSQ5HpPs=",
+  "content": "<p>Aeronautics Addition 改进了机械动力(Sweet)组件在 Sable 动态结构中的行为方式。它使机械臂在世界空间中评估目标范围和方向，从而防止结构移动或旋转后因局部坐标导致的触及错误，在动态物理环境中实现更稳定、更直观的行为。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

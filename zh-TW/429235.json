@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ByWPxpX3lqI=",
+  "content": "<p>此頁面為 Forge 版本。如果您正在尋找 Fabric 版本，可以在<a href=\"https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric\" rel=\"nofollow\">此處</a>找到。</p><p>這個模組透過幾種不同的方式減少 Minecraft 的記憶體使用量。關於這些變更的高階技術說明，請參閱<a href=\"https://github.com/malte0811/FerriteCore/blob/main/summary.md\" rel=\"nofollow\">此處</a>。</p><p>節省的記憶體量將取決於整合包。在 1.16.4 的 Direwolf20 整合包 1.2.0 版本中，它在標題畫面上的記憶體使用量（GC 後）大約從 3.1 GB 減少到 1.1-1.2 GB。</p><p>專案圖片是<a href=\"/linkout?remoteUrl=https%253a%252f%252fcommons.wikimedia.org%252fwiki%252fFile%253aMagnetic-core_memory%252c_at_angle.jpg\" rel=\"nofollow\">此</a>圖片的裁切版本。</p><h3>常見問題</h3><h4>可以回溯移植到 [MC 1.16 之前的版本] 嗎？</h4><p>不行，我不會進行回溯移植。我認為這不值得花費心力，並且希望鼓勵大家使用更新的版本。</p><h4>我應該在伺服器上安裝這個模組，還是只在用戶端安裝？</h4><p>有些最佳化只作用於用戶端，但也有相當高效的最佳化對伺服器也很重要。因此，建議您在兩端都進行安裝。</p><h4>這是 Forge 頁面，為什麼這裡會有 Fabric 版本？</h4><p>那些版本是在我建立 Fabric 頁面之前發布的，請忽略它們（除非您特別在尋找舊版的 FerriteCore for Fabric）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

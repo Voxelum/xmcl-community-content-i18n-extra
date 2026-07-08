@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fcWvnt2NPV8=",
+  "content": "擴展了Hypixel Skyblock，提供詳細的價格資訊和追蹤功能，資料也來自 [sky.coflnet.com](https://sky.coflnet.com)。  \n特別適合低價競標者和活躍的拍賣行與市集玩家。  \n具有儲存在伺服器端的交易和拍賣行追蹤功能。為所有公開出售的物品添加全球支付價格。\n\n## 市集\n* 在遊戲中所有市集物品上顯示市集買入和賣出價格\n* 當您的訂單被超額/低價競標時，會快速通知您，並同步所有模組用戶的訂單，比其他僅依賴API的模組更快通知\n* 提供 `/cofl bazaar` 指令顯示最大獲利機會\n* 功能與 Bazaar Utils 相同\n* 若賣出價值超過100萬金幣，則阻止意外立即出售，提供保護\n* 打開市集時顯示最佳市集翻轉機會\n* 打開市集時顯示最佳市集工藝翻轉機會\n* 使用 `/cofl bz history` 追蹤市集翻轉的利潤\n* 快速存取 https://sky.coflnet.com 上的市集價格歷史\n\n## 拍賣行\n* 在所有可拍賣物品上顯示最低直購價和中等價格\n* 顯示每天售出的物品數量（交易量），並應用反市場操縱\n* 可顯示如 https://sky.coflnet.com/flipper 的翻轉機會\n* 在拍賣行中高亮顯示可翻轉物品\n* 顯示您的活躍拍賣是否為最低直購價（考慮所有有價值的修飾符）\n* 智能定價建議\n\n## 實用工具\n* 允許您在遊戲中領取 Hypixel 每日獎勵\n* 顯示最便宜的捐贈魚類以獲得更多釣魚經驗，無需實際釣魚\n* `/cofl cheapmuseum` 顯示捐贈以獲得最多 Skyblock 經驗的最便宜物品/盔甲套裝\n* 內建市集工藝翻轉功能，使用 `/cofl crafts`\n* 所有物品利潤追蹤，使用 `/cofl task` 顯示您在哪裡賺取了最多金幣（為您排名所有賺錢方法）\n* 最佳Bingo點數兌換金幣顯示，包括購買Bingo等級的成本\n* 顯示最佳捐贈魚類以獲得更多釣魚經驗\n* 自動小費：自動執行 /tip 以獲得額外 Hypixel 經驗\n* 使用 `/cofl api` 為網站提供HOTF進度（森林之心）屬性、狩獵工具包等訪問權限，部分統計數據尚未在 Hypixel API 中，我們通過自己的 API 提供這些數據。\n\n還有更多功能，所有功能的主要來源請參考 https://sky.coflnet.com/wiki",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

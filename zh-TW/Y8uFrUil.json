@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vhpPd4tYItw=",
+  "content": "![banner](https://raw.githubusercontent.com/uku3lig/ukulib/main/banner.png)\n\n[![Modrinth 下載次數](https://img.shields.io/modrinth/dt/ukulib?logo=modrinth&logoColor=1bd96a&color=1bd96a)](https://modrinth.com/mod/ukulib)\n[![Maven 元數據網址](https://img.shields.io/maven-metadata/v?metadataUrl=https%3A%2F%2Fmaven.uku3lig.net%2Freleases%2Fnet%2Fuku3lig%2Fukulib-common%2Fmaven-metadata.xml&color=brightgreen)](https://maven.uku3lig.net/#/releases/net/uku3lig/ukulib)\n\n[![通用 Javadoc](https://img.shields.io/badge/javadoc-common-blue)](https://maven.uku3lig.net/javadoc/releases/net/uku3lig/ukulib-common/latest)\n[![Fabric Javadoc](https://img.shields.io/badge/javadoc-fabric-DBD0B4)](https://maven.uku3lig.net/javadoc/releases/net/uku3lig/ukulib-fabric/latest)\n[![NeoForge Javadoc](https://img.shields.io/badge/javadoc-neoforge-d7742f)](https://maven.uku3lig.net/javadoc/releases/net/uku3lig/ukulib-neoforge/latest)\n\n**ukulib** 是一個 Minecraft 函式庫模組，多年來為我的眾多模組所開發，具備許多實用的功能！\n\n## 特色\n\n- 同時相容於 Fabric 與 NeoForge\n- 簡單但全面且強大的設定系統，包含設定畫面的工具與組件\n- 各種與 Minecraft 相關的實用工具\n- ... 以及更多後續功能！\n\n## 使用方法\n\n請參閱[文件](https://uku3lig.github.io/ukulib)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nrIt8p/N3Xo=",
+  "content": "---\n\n### Описание мода:\n\nЭтот мод призван вернуть вас в эпоху ранних альфа-версий Minecraft, упростив систему здоровья и питания. Шкала голода убирается, и теперь здоровье восстанавливается мгновенно после еды — точно так же, как это было в старые времена. Каждый вид пищи восстанавливает определённое количество здоровья, и продукт питания сразу же съедается после употребления.\n\n---\nЭтот мод является портом [`Retro Hunger Mod`](https://modrinth.com/mod/retro-hunger-mod) для Minecraft 1.12.2.\n\n**Примечания по установке:**\n\n*   **Forge:** Требуется отдельно установить мод [`MixinBooter`](https://modrinth.com/mod/mixinbooter).\n*   **[Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom):** Работает без необходимости установки дополнительных модов.\n\nЕсли у вас установлен мод [`Scaling Health`](https://modrinth.com/mod/scaling-health) и вы хотите отключить естественную регенерацию, перейдите в настройки мода `Scaling Health`, найдите раздел `player > regen` и отключите опцию `Enable Bonus Regen`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

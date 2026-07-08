@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FjLl4sLjlMM=",
+  "content": "# 羅盤地圖自動標記\n\n當你使用探索者羅盤與自然羅盤發現結構與生態域時，自動將其註冊為 JourneyMap 路徑點，即時生效。\n\n使用探索者羅盤／自然羅盤找到結構或生態域時，通常需要手動將座標輸入 JourneyMap。這個附加模組會自動完成——羅盤鎖定目標的瞬間，路徑點就會出現。\n\n**功能特色**\n\n- 自動為結構（探索者羅盤）與生態域（自然羅盤）建立路徑點，或兩者皆可\n- 依類別分色：村莊、堡壘、遺蹟等；模組新增結構會以穩定雜湊值分配顏色，在大量模組中仍能保持可區分性\n- 管理員可在發現訊息中點擊 `/tp` 指令；生存玩家則僅看到座標\n- 無需新增物品、方塊或紋理——純粹自動化功能；若未安裝 JourneyMap，則改以聊天訊息顯示\n\n**設定**（`config/compasstomap-common.toml`，或使用遊戲內的模組設定 GUI）\n\n- `feature.enableStructure` / `feature.enableBiome` —— 分別啟用兩種羅盤\n- `notification.notifyOnFound` —— 發現時顯示聊天通知\n- `appearance.colorByCategory` —— 依類別分色（關閉則固定為紫色）\n- `appearance.persistentWaypoints` —— 重新啟動後保留路徑點\n\n**相依模組**\n\n- 至少需安裝 [探索者羅盤](https://modrinth.com/mod/explorers-compass) 或 [自然羅盤](https://modrinth.com/mod/natures-compass) —— 偵測功能所需\n- [JourneyMap](https://modrinth.com/mod/journeymap)（客戶端）—— 路徑點顯示目標；無此模組時改以聊天訊息顯示\n- Fabric 版本另需：[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)\n\nJourneyMap 路徑點適用於所有 NeoForge 與 Forge 版本，以及 Fabric 1.21.4 以上版本。在較舊的 Fabric 版本（1.20.1 / 1.21.1）僅聊天通知功能可用；發現訊息本身在所有版本皆可正常顯示。\n\n請同時安裝於伺服器與每位客戶端——伺服端偵測發現事件後通知客戶端，再由客戶端註冊路徑點。\n\n可在任何模組包中自由使用。原始碼與問題回報：https://github.com/KURONAMI333/compass-to-map",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

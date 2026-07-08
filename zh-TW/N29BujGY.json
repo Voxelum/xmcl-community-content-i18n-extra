@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lLT0yFwk0YE=",
+  "content": "請注意，Apotheosis 並未在 Modrinth 上提供，因此無法標記為依賴項。但它是必需的。\n\n## 問題描述：\nApotheosis 和 Better Combat 目前存在一些功能衝突——  \n- Apotheosis 添加了「重型武器」類別，這與 Better Combat 的雙手武器概念有些相似，但兩者完全無關。  \n- Apotheosis（以及 Forge）將攻擊範圍視為實體屬性，並允許透過寶石和詞綴增長，但 Better Combat 將攻擊範圍定義為不可變的武器屬性（使用其自訂 JSON 格式定義），導致這些功能失效。\n## 本模組的功能：\n- 自動將所有 Better Combat 的雙手武器註冊為 Apotheosis 的 HEAVY\\_WEAPON  \n- 移除所有武器的實體攻擊範圍屬性，並使攻擊範圍詞綴失效\n  \n## 可能計劃的功能（目前可透過資料包實現）：\n- 完全禁用 Apotheosis 的攻擊範圍詞綴出現\n- 修改目前依賴實體攻擊範圍的武器屬性",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wifCzhMpmr0=",
+  "content": "<div style=\"text-align: center;\"> <center>\n<img src=\"https://cdn.modrinth.com/data/cached_images/1f78640d48eade9a00546f497577b83ca2d924df.png\"  alt=\"Weary Wings Logo\">\n<h2>\n<b>一個根據飛行速度調整鞘翅耐久度消耗的模組</b>\n</h2>\n<br>\n<a href=\"\">\n<img alt=\"modrinth\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg\">\n</a>\n<a href=\"https://github.com/Ramixin/Weary-Wings/\">\n<img alt=\"github\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg\">\n</a>\n<br>\n<img alt=\"fabric\" height=\"40\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg\">\n<img alt=\"no forge\" height=\"40\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/unsupported/forge_vector.svg\">\n</center>\n</div>\n\n# 計算方式是什麼？\n\n---\n本模組會取用玩家的飛行速度並進行平方運算。該數值經無條件捨去後，即為扣除的耐久度。\n\n## 授權條款\n\n---\n本專案採用 MIT 授權條款",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

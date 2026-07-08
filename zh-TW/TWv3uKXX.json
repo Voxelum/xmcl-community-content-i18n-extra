@@ -1,0 +1,6 @@
+{
+  "bodyHash": "J7CLFmVYItA=",
+  "content": "## 特殊生物\n\n透過「特殊生物資料包」深入探索充滿獨特挑戰與遭遇的世界。此資料包為您的 Minecraft 體驗增添多樣特殊生物，每種生物皆擁有獨特能力並分佈於不同維度。\n\n### 主世界\n\n- 史萊姆蜘蛛\n- 野蠻人\n- 忍者\n- 礦工\n- 強盜\n- 寒冰射手\n- 水幽靈\n\n### 地獄\n\n- 靈魂騎士\n- 黑暗騎士\n- 狂戰士\n- 堡壘守衛\n- 緋紅原住民\n- 凋零幽靈\n- 終界使者S1\n- 火焰精靈\n\n### 終界\n\n- 歌萊幽靈\n\n**探索[圖鑑](https://modrinth.com/datapack/special-mobs/gallery)以了解更多關於這些獨特生物的資訊。**\n\n<!-- \n\n### 指令\n\n所有特殊生物皆可自然生成，但您也可透過指令在特定遊戲情境中召喚：\n\n- `/function spm:kit/summon/<特殊生物>`：召喚指定特殊生物\n- `/function spm:kit/spawn_egg/<特殊生物>`：獲得特殊生物生成蛋\n- `/function spm:kit/spawner/<特殊生物>`：取得特殊生物生怪磚\n- `/function spm:kit/setspawner/<特殊生物>`：將方塊設為指定特殊生物的生怪磚\n\n對於迷你遊戲創作者，您可以控制自然生成：\n\n- `/function spm:config/spawn_naturally_disable`：禁用自然生成\n- `/function spm:config/spawn_naturally_enable`：恢復自然生成\n\n### 設定\n\n透過調整生成機率、戰利品表和附魔等級來微調遊戲體驗。進入命名空間 'spm_cf' 即可根據您的遊戲偏好進行調整。\n\n### 相容性\n\n此資料包專為伺服器端設計，為您的 Minecraft 冒險帶來全新刺激。盡情享受特殊生物為世界帶來的挑戰與探索樂趣。\n\n**祝您遊戲愉快！**\n-->",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

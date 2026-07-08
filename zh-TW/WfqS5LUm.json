@@ -1,0 +1,6 @@
+{
+  "bodyHash": "stoteRnPNIE=",
+  "content": "# [更新版](https://modrinth.com/mod/lootbeams-fabric) [LootBeams](https://www.curseforge.com/minecraft/mc-mods/loot-beams)（適用於 Forge）的 Fabric 分支版本\n\n這是一款適用於 1.20.1 版本的 Fabric 客戶端 Minecraft 模組，能為掉落物品添加多彩且可自訂的戰利品光束！\n\n預設情況下所有物品都會附加戰利品光束，光束顏色會根據物品名稱變化。不過您可以自行設定光束的白名單/黑名單、顏色覆蓋設定，甚至透過 NBT 標籤來改變顏色！（例如 `\"lootbeams.color:\"0xFFFFFF\"`）\n\n光束還配有名稱標籤，當您注視物品或蹲下時會顯示，讓您無需拾取就能看清物品內容。本模組為客戶端模組，意味著它可以在未安裝此模組的原版伺服器與 Forge 伺服器上運行！\n\n## 但與其他分支版本有何不同？\n我將它移植到 1.20.1 版本，因為先前版本已停止更新。同時我還新增了翻譯支援功能，並徹底改進了來自 Forge 版本的淡出效果（原始實作較不靈活且存在視覺錯誤）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

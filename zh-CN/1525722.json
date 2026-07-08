@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YMqbPD3d4Fo=",
+  "content": "<h1>机械动力：重力枪</h1><p>忠实再现《半条命2》中的<strong>零点能量场操控器</strong>，直接基于Valve Source SDK 2013参考实现，并适配机械动力、赛贝尔与模拟物理体系。</p><p>这不是\"重力枪主题\"的道具。搬运距离、持物速度曲线、抛掷冲量、抓取锥体、距离滚动限制与释放行为均移植自原始<code>weapon_physcannon</code>代码，确保拾取、携带与投掷手感与《半条命2》完全一致。</p><p>&nbsp;</p><h2>可抓取对象</h2><ul>\n<li>赛贝尔次级结构（机械动力装置、航空器飞船等），通过Rapier实现标准刚体搬运</li>\n<li>生物实体（生物、物品实体、弹射物）</li>\n<li>其他玩家</li>\n</ul><h2>操作方式</h2><ul>\n<li><strong>右键：</strong>抓取或释放</li>\n<li><strong>左键：</strong>抛掷</li>\n<li>抓取状态下<strong>滚动滚轮</strong>：推拉被持物体</li>\n</ul><h2>参考来源</h2><ul>\n<li>Source SDK 2013：<a href=\"https://github.com/ValveSoftware/source-sdk-2013\" target=\"_blank\" rel=\"nofollow\">https://github.com/ValveSoftware/source-sdk-2013</a>（<code>weapon_physcannon.cpp</code>）</li>\n</ul><p>支持请访问<a href=\"https://discord.gg/m4EHeRjfZ9\" target=\"_blank\" rel=\"nofollow\">Discord</a></p><p>如需支持我与我的模组开发，推荐尝试BisectHosting。新用户使用代码\"project8gbderam\"首次订购游戏服务器可享首月25%折扣。我们提供24/7全天候支持与闪电响应速度，确保所有游戏需求得到专业解决。<a href=\"https://www.curseforge.com/linkout?remoteUrl=https://www.bisecthosting.com/project8gbderam\" target=\"_blank\" rel=\"nofollow\">https://www.bisecthosting.com/project8gbderam</a></p><p><img src=\"https://www.bisecthosting.com/partners/custom-banners/54bb107c-f9fc-4f32-8515-fb4e3d56c124.png\" alt=\"Bisect\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

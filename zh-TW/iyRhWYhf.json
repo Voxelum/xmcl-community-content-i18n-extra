@@ -1,0 +1,6 @@
+{
+  "bodyHash": "S6YkDu3Ffts=",
+  "content": "# ChaTweaks\n一個客戶端模組，強化你的聊天功能，即將搭載許多實用功能\n\n## 使用方法\n### 配置\n若要配置此模組，你可以執行 `/chatweaks config` 指令（或點擊 ModMenu 中的設定），從中你可以根據需求調整所有功能。\n### 如何使用摩斯密碼功能\n若要啟用/停用 incoming 聊天訊息的自動翻譯，請根據你的鍵盤配置按下 `Y` 或 `Z` 按鍵綁定，或使用 `/chatweaks morseCodeTranslation <enable|disable|toggle>`。\n\n若要傳送摩斯密碼訊息，請使用 `/chatweaks morse <訊息>`。這會自動將你的訊息翻譯成摩斯密碼並發送。\n\n**注意：** 如果你安裝了使用點指令的模組/客戶端（如 Meteor Client 或 Asteroid），你可能需要將指令前綴改為 `.` 以外的符號，否則這些客戶端/模組可能會認為你想執行指令\n\n## 功能\n- 高度可自訂的前綴與後綴\n- 正則表達式聊天過濾\n- 輸入摩斯密碼並解密其他摩斯密碼訊息\n- [即將加入] 反垃圾訊息（將多條相同訊息合併為一則）\n\n### 功能請求\n發現缺少應該加入的功能？歡迎在 GitHub 上提出 issue 或 PR！\n\n## 圖片\n![正在翻譯的摩斯密碼訊息](https://cdn.modrinth.com/data/cached_images/b67063352c6dea7d1ad0e62f7daeaf0c01238688.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

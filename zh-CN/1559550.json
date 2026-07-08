@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oN76Y6H+nWY=",
+  "content": "<p>护盾生成器可为Sable/Create Aeronautics移动实体添加能量护盾。</p><p>在Sable上放置并加注燃料后，通过红石信号（红石信号同时控制护盾热量与开关）开启护盾。它会扫描物体轮廓，在船体周围形成类似力场的防护屏障。</p><p>护盾允许缓慢移动的实体和工具穿过，但能阻挡快速射弹，如箭矢、炮弹及其他高速射击物。</p><p>生成器有4种燃料：紫水晶、石英、青金石和铜。其中紫水晶产生的\"护盾热量\"最高，铜则最低。</p><p>护盾热量决定护盾承受冲击的能力。</p><p>&nbsp;</p><p>合成配方：</p><p><img src=\"https://media.forgecdn.net/attachments/description/1559550/description_b7952c09-558a-4971-9f10-bbb5724864fe.png\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

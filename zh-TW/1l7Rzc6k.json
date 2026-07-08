@@ -1,0 +1,6 @@
+{
+  "bodyHash": "avyOsCrLGQU=",
+  "content": "這個模組為遊戲添加了小貓熊！\n\n它們會生成在竹林叢林，屬於中立生物。\n你可以用甜莓馴服它們，並用竹子讓它們繁殖。\n如果餵食竹子，它們的生命值會恢復。\n死亡時有機會掉落一根竹子。\n\n在 1.16.5 / 1.18.x 版本中，可以在通用設定檔裡編輯生物群系設定。\n\n在 1.19 版本中，生成設定可透過生物群系標籤（has_red_panda.json）和生物群系修飾器（spawn_red_panda.json）來修改。\n\n在 Fabric 版本中，生成設定檔的名稱為「ydms_redpandaconfig.properties」，位於設定資料夾。\n\n這個模組由 gohkenytp 建議。\n感謝下載這個模組。\n\n使用舊版本的玩家，如果想使用新的預設生成設定，請刪除小貓熊設定檔。\n若不想使用，可保留檔案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

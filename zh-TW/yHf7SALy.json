@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zz0UFvkuu+U=",
+  "content": "这对性能有何益处？\n\n每当Minecraft要绘制一帧画面时，所有实体都会重新计算它们每个肢体的角度。然而，由于Mojang的一个巨大疏忽，这些计算中有许多可以轻松加速，有时甚至完全是不必要的。这个模组通过将PI/180存储为一个固定值，避免为每个实体重复计算，使用变量替代重复运算等方式来修复这个问题。当应用于所有实体时，这确实能提升性能，无论是小幅提升还是明显改善，取决于周围的实体数量以及你的电脑配置。\n\n此模组已归档。\n\n[![使用代码FROZENBLOCK在Kinetic Hosting享受首月15%折扣！](https://i.imgur.com/9ZfqfCq.png)](https://tinyurl.com/3xhmk7fb)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

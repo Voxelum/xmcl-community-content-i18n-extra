@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VzDgFUtauy4=",
+  "content": "# EMC，如你所愿\n\n在游戏中编辑[ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) EMC 数值。全局变更会立即作用于所有玩家；可配置的黑名单能锁定特定玩家。\n\n- **按 K 键**（可自定义键位）打开 EMC 编辑器——可搜索的列表显示所有已注册物品，点击即可选中。\n- **保存（后置）**将数值写入基于世界的动态数据包，并触发 `/reload` 命令，使 ProjectE 立即生效。每位已连接的玩家都会看到新的 EMC。\n- **强制（前置）**将数值写入前置数组——当你希望覆盖 ProjectE 通过合成配方推导出的数值，强制使用自定义数值时使用。\n- **移除覆盖**清除你的条目，让 ProjectE 恢复使用自身计算逻辑。\n\n为什么使用基于世界的数据包，而非传统的 `custom_emc.json` 配置文件？因为前者能在多人游戏中同步，跟随世界（打包后其覆盖数据会随之迁移），并且采用与模组包内置 EMC 数据包相同的 `pe_custom_conversions` JSON 格式——因此您在游戏中调整的任何内容，日后均可升级为静态数据包用于发布。\n\n**权限**（在 `config/emc_as_you_wish-common.toml` 中配置）\n\n- 默认：**任何已连接的玩家均可编辑**。\n- `requireOp = true` —— 仅限管理员（权限等级 ≥ 2）操作。\n- `blacklist = [\"SomeName\", \"<uuid>\"]` —— 禁止特定玩家。\n- `enabled = false` —— 主开关，无人可编辑（适用于只读模组包）。\n- `maxEmcValue = 1000000000` —— 单个数值的硬上限，防止利用漏洞。\n\n**依赖**\n\n- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) —— 必需\n- NeoForge 1.21.1\n\n**配套模组**（由 KURONAMI 精心调校的 EMC 数据包）\n\n- EMC for Magitech / Iron's Spellbooks / Forbidden Arcanus / Malum / Spectrum —— 每个模组都为对应的主流模组提供一份精选的 `pe_custom_conversions` 数据包。EMC, As You Wish 可完美叠加于任何一款之上。\n\nMIT 协议。ProjectE 由 sinkillerj 及贡献者开发；本模组为独立编辑器，无关联。源码及问题反馈：https://github.com/KURONAMI333/emc-as-you-wish",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

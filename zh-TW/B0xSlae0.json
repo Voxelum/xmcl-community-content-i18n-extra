@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NFrXxpndRxU=",
+  "content": "| ![LOGO](https://i.imgur.com/4RkCaLF.png)            |\n:---------------------:\n| ![Banner](https://i.imgur.com/MhQ6tzB.png)            | \n\n\n## 關於本模組\n\n\n這是一個嘗試在動物肉類方面加入少量擬真要素的模組，力求盡可能忠於 Minecraft 的風格。\n同樣地，它也試圖為一些未被充分利用的動物提供更多的用途。\n目標是涵蓋所有可被視為家畜的動物。\n \n \n## 功能與機制 \n \n\n目前為每種動物新增最多 3 種處理流程\n\n\n### 1. 肉鉤，高效率\n\n可放置在任何實心方塊的底部，用於懸掛動物屠體，以便將其切割成更小的部位。\n<details>\n<summary> 更多資訊：</summary>\n\n你必須使用砍刀連續點擊右鍵，直到完成處理流程（10 次點擊）\n\n適用的動物：牛、羊、山羊、豬、豬布獸、駱馬\n\n</details>\n\n\n![掛鉤](https://i.imgur.com/P4Qbk56.png)\n\n\n### 2. 烤肉架\n\n可放置在任何類型的營火上，你可以將動物屠體放在上面進行全體燒烤。\n\n\n<details>\n<summary> 更多資訊：</summary>\n\n你必須將動物的屠體放置在營火上，並等待其烤熟。\n\n適用的動物：牛、羊、山羊、豬（雞和兔規劃中）\n烤熟後，用手右鍵點擊即可取下\n\n</details>\n\n\n\n ![烤肉架](https://i.imgur.com/q2zOkCK.png)\n \n\n\n### 3. 任何平面，低效率\n\n任何屠體都可以放置在固體表面上，並使用砍刀（任何帶有 Knife 標籤的物品）進行處理。\n\n<details>\n<summary> 更多資訊：</summary>\n\n可以用剪刀剪取雞的羽毛，以獲得更多羽毛；對熾足獸使用剪刀則可獲得線。\n\n</details>\n\n ![地面](https://i.imgur.com/j0RxMjz.png)\n\n\n## 副產品\n\n一些副產品如皮或毛，可以在支架上使用剪刀進行處理，以獲得更多物品。\n ![支架](https://i.imgur.com/ZkC1gt9.png)\n<details>\n<summary> 規劃中：</summary>\n\n重新加入自訂肉類、\n更新以支援 1.19.2 版本、\nFabric 移植\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

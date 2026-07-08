@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qOHVWLa3F14=",
+  "content": "# Create：培育工艺\n\n一个为Create模组设计的扩展包。新增了一套全新、可完全自动化的农业种植系统。\n\n本模组的核心是**培育槽**，一个由齿轮驱动的多方块机器，能够处理植物从播种到收获的整个生长周期。\n\n### 功能特性\n\n* **培育系统**：支持分阶段生长的作物（如小麦、花卉）和堆叠式生长的植物（如甘蔗、竹子）。\n* **数据驱动**：所有配方均基于JSON文件，允许通过数据包进行完全自定义和跨模组兼容性配置。关键属性如生长时间、所需高度和渲染模型均可调整。\n* **与Create模组联动**\n  * **喷口交互**：使用喷口为工作中的培育槽浇水可以提高产量。\n  * **视觉效果**：包含运行中机械的动态发光纹理。\n\n---\n\n![ccc1](https://cdn.modrinth.com/data/cached_images/8e7673214a61a512a92b62d093e0e4e34cb70b68.jpeg)\n![ccc2](https://cdn.modrinth.com/data/cached_images/1a98d8b9d579f430e744750707efca92a71e481c.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

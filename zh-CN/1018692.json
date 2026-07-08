@@ -1,0 +1,6 @@
+{
+  "bodyHash": "G4KSy7N3qIQ=",
+  "content": "<p>一款非官方移植至 Neo(Forge) 平台的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/replay-mod-fabric-and-forge\" rel=\"nofollow\">回放模组</a>。在 Minecraft 中录制、回放并编辑你的冒险旅程！关于该模组的基本信息，请参阅原模组页面。重要提示：运行此模组需要安装 FFMPEG。安装步骤如下：</p><h2>1 安装 FFmpeg</h2><p>如需使用回放模组渲染你的创作内容，必须安装 FFmpeg。</p><h3>1.1 Windows 系统</h3><p>从 FFmpeg 官方基础版页面下载最新版本的 FFmpeg。</p><p>将下载的 .zip 文件解压到你的 .minecraft 文件夹中。</p><p>以往解压到 .minecraft 文件夹内的确切位置至关重要，但现已无此限制。只需将 ffmpeg.exe 放在 .minecraft 文件夹内的任意位置即可。</p><p>其他启动器注意事项</p><p>Twitch 启动器默认将 Minecraft 实例安装于 C:\\Users\\用户名\\Twitch\\Minecraft\\Instances\\实例名<br>\nGD Launcher 默认将 Minecraft 实例安装于 C:\\Users\\用户名\\AppData\\Roaming\\gdlauncher_next\\instances\\实例名<br>\nMultiMC 默认将 Minecraft 实例安装于 C:\\Program Files (x86)\\MultiMC\\instances\\实例名\\.minecraft<br>\n对于这些启动器，请确保 FFmpeg 存在于对应文件夹中。</p><h3>1.2 Mac OSX 系统</h3><p>在 OSX 系统上，可通过 Homebrew 使用 brew install ffmpeg 命令安装 FFmpeg。</p><p>或者，从 FFmpeg 官网下载最新的静态编译文件，并将 FFmpeg 可执行文件复制到 /usr/local/bin 目录下。</p><h3>1.3 Linux 系统</h3><p>在 Linux 系统上，可使用系统的包管理器安装 FFmpeg，例如通过 apt install ffmpeg 命令。如有疑问，请查阅你所使用发行版的文档。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

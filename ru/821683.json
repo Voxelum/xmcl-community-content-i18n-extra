@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ak5NVJnUaqY=",
+  "content": "<h1>Безопасный детектор случайного доступа к миру (Fabric)</h1>\n<p>Это мод, который обнаруживает небезопасный случайный доступ к миру из другого потока, помогая найти причину сбоя «Доступ к LegacyRandomSource из нескольких потоков».</p>\n<p>Это полезно для поиска причины загадочных сбоев с сообщением <code>Accessing LegacyRandomSource from multiple threads</code>.<br>\nЭто <strong>не</strong> исправление проблемы, но поможет вам найти её причину.</p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/uwrad-forge\" rel=\"nofollow\">Ищете версии для Forge?</a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/uwrad-neoforge\" rel=\"nofollow\">Ищете версии для NeoForge?</a></p>\n<p><img src=\"https://media.forgecdn.net/attachments/616/751/uwrad.png\" alt=\"Пример\"></p>\n<p>Примечание: Если вы уже используете C2ME, этот мод не требуется (но он не вызовет сбоев при совместном использовании).</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

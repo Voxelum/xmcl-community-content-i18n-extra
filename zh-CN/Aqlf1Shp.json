@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wtHJNcE2Xag=",
+  "content": "<p></p>\n<center>\n  <img src=\"https://raw.githubusercontent.com/Sinytra/.github/main/art/ffapi_banner_small.png\">\n</center>\n\n## 📖 关于\n\nFabric 模组开发所需的核心钩子库，现已登陆 NeoForge！\n\nFabric API 是为模组提供核心钩子和互操作机制的库。例如：\n\n- 暴露许多模组难以访问但非常实用的功能，如粒子、生物群系和维度\n- 添加事件、钩子和 API 以改善模组之间的互操作性。\n- 提供注册同步、向崩溃报告添加信息等关键特性。\n- 专为兼容优化模组和图形大修模组而设计的高级渲染 API。\n\n**📘 官方文档请访问 [sinytra.org](https://sinytra.org/docs)。**\n\nForgified Fabric API (FFAPI) 是 [Fabric API](https://github.com/FabricMC/fabric) 直接移植到 NeoForge 模组加载器的版本，定期与上游仓库保持同步更新。它旨在通过允许开发者在两个平台上使用 Fabric API 作为与游戏代码交互的通用库，从而简化跨平台模组开发。但它并非抽象层，每个平台仍需分别处理加载器特定的代码。\n\n### 💬 加入社区\n\n我们为项目设立了官方 [Discord 社区](https://discord.gg/mamk7z3TKZ)。加入后您可以：\n\n- 从我们的团队和社区成员处获得帮助和技术支持\n- 随时了解最新开发动态和社区活动\n- 参与项目开发并与我们的团队协作\n- ... 以及和社区其他成员一起愉快交流",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

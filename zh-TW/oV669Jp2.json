@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UoWsXSHBWzA=",
+  "content": "[![](https://cdn.modrinth.com/data/cached_images/8a071a84cf75714bde606769f94930a500df439c.png)](https://bisquit.host/en)\n![](https://cdn.modrinth.com/data/cached_images/6796f635427d805892e795802d37a6d6c836f982_0.webp)\n![](https://cdn.modrinth.com/data/cached_images/67b836ff6a4bc450de7c2e9e97f4a4b2923203e9.png)\n* 傳說寶可夢出現的累積機率。\n* 傳說寶可夢出現的世界黑名單。\n* 關於傳說寶可夢出現的個人通知。\n* 向整個伺服器發送關於傳說寶可夢被捕捉、逃脫或擊敗的各種通知。\n* 可連接 Discord 網路鉤子以接收通知。\n* 還有許多其他新增功能，包含完整的模組自訂選項。\n* [[LegendControl-Defender](https://modrinth.com/mod/legendcontrol-defender)] 保護傳說寶可夢免於被竊取。\n\n![](https://cdn.modrinth.com/data/cached_images/0d70e2cc512728b8549087c31904cd8762598b46.png)\n* 現在傳說寶可夢出現的標準機率為 10%，每次未成功出現後會再增加 5%，直到傳說寶可夢出現為止。傳說寶可夢出現後，機率會恢復為標準值。\n* 你可以使用 /checkleg 指令檢查機率及傳說寶可夢大約出現的時間。對於擁有特定權限的玩家，還會額外顯示可能出現的傳說寶可夢。\n* 此模組還能防止可能的假傳說寶可夢出現，並考慮了主模組中運作不佳的傳說系統。\n\n![](https://cdn.modrinth.com/data/cached_images/482efee63d63b446e8828876572322cce2f8a42a.png)\n[<img height=\"150\" src=\"https://cdn.modrinth.com/data/cached_images/cd6fee0cd0acd3bc9f007bca6648552ce47c2dd8_0.webp\" width=\"150\"/>](https://modrinth.com/mod/pixelmon)[<img height=\"150\" src=\"https://cdn.modrinth.com/data/cached_images/7797661bf0defeb0d3eb387785d7f3e43ef341bc_0.webp\" width=\"150\"/>](https://modrinth.com/mod/extralib)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

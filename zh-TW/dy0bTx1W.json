@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LICh8fY5oB4=",
+  "content": "# HotbarPresets\n\nHotbarPresets（前身為 InvSorter）是一款輕量級的 Fabric 用戶端模組，可讓您儲存與載入快捷欄預設配置。它提供了遊戲內圖形介面，讓您能建立具名的快捷欄配置，並將其綁定至快捷鍵或透過介面觸發。\n\n功能特色\n- 在本機儲存與載入快捷欄預設配置。\n- 將快捷鍵指派給預設配置，或從介面直接觸發。\n- 簡潔、輕量的用戶端 UI。\n\n安裝方式\n1. 為您所要使用的 Minecraft 版本安裝 Fabric 與 Fabric API。\n2. 將建置好的模組 JAR 檔案放入您的 `mods/` 資料夾。\n3. 使用 Fabric 載入器啟動 Minecraft。\n\n使用方式\n- 按下設定的按鍵（預設為 O）開啟 HotbarPresets 選單。\n- 透過圖形介面建立、管理並套用快捷欄預設配置。\n\n備註與疑難排解\n- 伺服器相容性：此模組透過模擬本地端物品欄互動來變更快捷欄。某些伺服器若拒絕用戶端變更，可能會顯示為幽靈物品。請確保伺服器允許用戶端物品欄操作，或視需要安裝相容的伺服器端插件。\n- 若在日誌中看到損毀的設定檔訊息，請檢查 ~/.minecraft/config/invsorter 路徑下是否有格式錯誤的 JSON 檔案。\n\n開發資訊\n- 模組原始碼位於 `src/` 目錄下，資源檔則在 `src/main/resources`。\n- 使用 Gradle 建置：`./gradlew build`（Windows 系統請使用 `gradlew.bat`）。\n\n授權條款\nAll-Rights-Reserved\n\n貢獻方式\n若您想改善 UI 或加入可感知伺服器的同步功能，請開啟 Issue 或提交附有明確實作計畫的 Pull Request。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

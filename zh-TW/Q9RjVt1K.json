@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WmekJw/DW0Y=",
+  "content": "# Tre's Tack Shop\n\n這是SWEM的附加模組，擴充了遊戲中的馬具物品數量，讓社群能加入新材質而不覆蓋原有馬具。同時也包含原版SWEM模組的緞帶與獎盃模型，可製作出創作者預期展示效果的緞帶與獎盃，現在能以物品展示框方式擺放而非可放置方塊，從而保留物品的名稱/NBT資料。\n\n***新增近1000件馬具物品！***\n\n### *現在支援合成配方！*\n此模組最初只是為了讓材質藝術家存放新材質；但現在已包含完整渲染設計的各類型馬具，甚至還有全新款式！同時也為這些物品新增生存模式合成配方（作為「馬具套組」），並包含無法合成的「獎勵套組」，讓伺服器可以擁有玩家無法合成的自訂馬具物品。\n\n也包含我自行設計的新模型（持續製作中）——目前新增了可愛的南瓜獎盃、鑽兵隊旗幟與「可佩戴」獎章！同時也包含Moon Flower製作的模型，如雪花獎盃、無銜鐵/無鞍馬具與馬匹披布！\n\n### 感謝我們的協助者！\n所有渲染（出現在SWEM馬匹上）的「彩虹」馬具物品材質均由Moon Flower製作。[點此查看連結](https://moon-flower-info.carrd.co )\n\n緞帶與花飾結材質，以及標準獎盃材質由RileyCasper製作。[點此查看連結]([https://discord.gg/cZ6bVAuuJj](https://en.pronouns.page/@RileyCasper)\n\nTalia協助製作了1.20.1版本的馬架材質，創作了君主、摩爾福與獵犬緞帶，以及獵犬馬具套組。[查看她的Ko-Fi](https://ko-fi.com/demitalia90064)\n\nAshyWashyMashy製作了彩虹旗幟材質以搭配彩虹馬具。[查看她的Ko-Fi](https://ko-fi.com/ashywashymashy)\n\n衷心感謝Mothfet協助解碼錯誤與未來新增內容。[點此查看連結](https://mothfetart.carrd.co)\n\n***最重要的是，感謝legenden，這位幫助每個版本順利起步與運作的人。*** 沒有他，這個附加模組*以及SWEM*就不會成為我們熟知與喜愛的模樣。[在此查看他的專案](https://github.com/MagnusHJensen)\n\n### 給材質包製作者的備註\n所有馬具物品都附有兩種材質：馬匹上的材質與選單/背包中的圖示。若要更改馬匹渲染材質，需替換 ***swem*** 資源資料夾中的編號.png檔案。若要更改圖示材質，需替換 ***tretackshop*** 資源資料夾中的編號.png檔案。\n\n**我們在Discord分享了一個範例材質包，其中read-me檔案包含說明以及本模組的所有範例材質**\n[歡迎加入我們的Discord！](https://discord.gg/GuYRWK22Mx 'Invite to the server')",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

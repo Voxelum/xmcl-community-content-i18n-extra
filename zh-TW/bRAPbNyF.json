@@ -1,0 +1,6 @@
+{
+  "bodyHash": "w7Oc6tcc1O0=",
+  "content": "礦脈挖掘是一個新增同名附魔的模組，讓附魔工具能破壞相連的相同方塊。附魔與挖掘邏輯高度可自訂，讓玩家與模組包開發者能找到偏好的平衡方式。\n\n設定選項可在 `config` 資料夾中的 `veinmining-client.toml`、`veinmining-server.toml` 和 `veinmining-common.toml` 中找到。\n\n更多設定資訊請參閱 [Wiki 頁面](https://github.com/TheIllusiveC4/VeinMining/wiki/Configuration)。\n\n## 功能\n### 附魔\n![](https://i.ibb.co/q7g1qRd/veinminingenchantment.png)\n\n**設定選項**\n\n- 稀有度\n- 最高等級\n- 寶藏\n- 隨機附魔\n- 可用於書本\n- 基礎附魔強度\n- 每級附魔強度\n- 村民交易\n- 戰利品生成\n\n### 礦脈挖掘\n\n**設定選項**\n\n- 最大方塊基礎值（無附魔）\n- 最大距離基礎值（無附魔）\n- 每級附魔最大方塊數\n- 每級附魔最大距離\n- 對角線挖掘\n- 掉落物重新定位\n- 根據工具耐久度限制挖掘\n- 防止工具損壞\n- 工具損耗\n- 工具損耗倍率\n- 玩家飢餓值消耗\n- 玩家飢餓值消耗倍率\n- 啟動方式（潛行、站立或按鍵綁定）\n- 方塊白名單/黑名單\n- 自訂方塊群組（標籤+ID）\n\n## 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/5Tw6mh2/bisect-illusive.webp)](https://illusivesoulworks.com/affiliate)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

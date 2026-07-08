@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LncWCk0Zo1E=",
+  "content": "<h1>美好天数计数器</h1><p><em>一款轻量级的天数追踪模组，适用于Minecraft Java版（Fabric）。</em></p><p>显示一个不显眼的计数器，并在每个新的一天开始时弹出滑动通知。</p><p>非常适合<strong>硬核</strong>玩家，只想了解自首次踏入世界以来过去了多少天。</p><p><img src=\"https://media.forgecdn.net/attachments/thumbnails/1497/236/310/172/2026-01-26_21.png\" alt=\"带通知的天数计数器\"></p><h2>功能概述</h2><p><img src=\"https://media.forgecdn.net/attachments/thumbnails/1497/248/310/172/2026-01-26_21.png\" alt=\"HUD计数器\"> <img src=\"https://media.forgecdn.net/attachments/thumbnails/1497/249/310/172/2026-01-26_21.png\" alt=\"通知\"></p><ul>\n<li>天数计数器：低调显示“第N天”。按H键切换可见性。</li>\n<li>新日通知：当新的一天开始时，会有一个滑动通知显示“第N天”。</li>\n<li>可自定义标签：将“第”改为任意内容（例如“太阳纪”）。</li>\n<li>采用原生UI组件设计，与原版风格完美融合。</li>\n<li>HUD叠加层遵循F1规则：隐藏GUI时不会渲染。</li>\n<li>死亡消息：若不幸去世，会通知你存活了多少天！</li>\n</ul><h2>使用方法</h2><p><img src=\"https://media.forgecdn.net/attachments/thumbnails/1497/242/310/172/2026-01-26_21.png\" alt=\"模组菜单\"></p><ul>\n<li>切换：按H键（默认）显示/隐藏计数器。</li>\n<li>配置按键：打开选项 -> 控制 -> 按键绑定，向下滚动找到“美好天数计数器”。</li>\n<li>配置设置：打开模组菜单 → 美好天数计数器 → 配置。编辑标签和HUD可见性。</li>\n<li>单人/多人：随处可用。模组本地检测天数；若服务器也安装该模组，可广播权威的天数变化。</li>\n</ul><h2>计划功能</h2><ul><li>目前已完成所有功能 :)</li></ul><h2>趣味知识</h2><ul><li>昼夜循环：Minecraft一天为24,000刻（约20分钟）。天数计算公式为 floor(时间/24000)+1。</li></ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

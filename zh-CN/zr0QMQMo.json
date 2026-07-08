@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Eq2fSRchnfA=",
+  "content": "这是一个用[Scala](https://www.scala-lang.org/)编写的模组库。\n\n在1.12版本之前，Forge库中包含Scala运行时，但在1.13版本中被移除了。\n\n这个库包含了Scala运行时和Cats，Cats是一个用于函数式编程的库。\n* Scala(https://www.scala-lang.org/) 使用Apache许可证2.0版本。(https://www.scala-lang.org/license/)\n* Cats(https://typelevel.org/cats/) 使用MIT许可证。(https://github.com/typelevel/cats/blob/master/COPYING)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

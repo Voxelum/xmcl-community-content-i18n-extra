@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/yFn3xP4xF8=",
+  "content": "Theurgy KubeJS 為 Theurgy 提供 KubeJS 整合功能。\n\n## 功能特色\n\n### 自定義硫磺與硝石\n\n為了在 Theurgy 中支援額外的材料，您需要對應該材料的硫磺。同樣地，若要支援額外的材料類別，您需要硝石。\n透過此插件，您可以建立正確硫磺/硝石類型的新物品。\n\n### 配方支援（計劃中）\n為 KubeJS 新增對 theurgy 配方類型的原生支援！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

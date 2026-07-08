@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Tqcak/1xWAI=",
+  "content": "<h1>真实铁路</h1><h2>一款为机械动力添加众多功能的附属模组，让火车更贴近现实。</h2><p><strong>维基！！！！</strong> <a href=\"https://github.com/stacode123/CreateRealism/wiki\" target=\"_blank\" rel=\"nofollow\">https://github.com/stacode123/CreateRealism/wiki</a></p><h4>功能：</h4><h4>ETCS - 信号与轨道净空</h4><p>本模组还为手动驾驶火车时添加了一个叠加层，显示火车前方空闲轨道、制动曲线（指示何时开始减速）及速度限制（如果安装了Create: Tramways）。<img src=\"https://cdn.modrinth.com/data/cached_images/d96cc5469b7b8035e1e116b6ea81f6e2e388c829_0.webp\" alt=\"显示速度计和轨道状态概览的叠加层\"></p><p><strong>使用\"+\"和\"-\"缩放轨道概览图</strong></p><h4>- 火车加速度随车厢数量变化</h4><p>挂载车厢越多，火车加速越慢。机车（含驾驶室的车厢）越多，加速度受车厢数量的影响越小。</p><h4>- 轨道速度与坡度概览</h4><p>铺设铁轨时可实时查看当前轨道的最大速度及坡度。坡度以百分比(%)显示，速度值同步作用于火车时刻表。建议使用Create Tramways临时设定弯道和斜坡的限速。<img src=\"https://cdn.modrinth.com/data/cached_images/aea50e47fd0b3f987648e47ca77a0354487a585d.png\" alt=\"显示速度与坡度信息的示例图\"></p><p>注意：此功能仅辅助设定速度限制，不会改变火车实际运行速度。请使用<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ftramways\" target=\"_blank\" rel=\"nofollow\">Create Tramways</a>设置限速</p><p>更多功能即将推出！……</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

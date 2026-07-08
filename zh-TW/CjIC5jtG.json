@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wZB9zzdNdUY=",
+  "content": "這個模組修復了 Hypixel SkyBlock 在 1.21.5 版本中玻璃板的客戶端方塊狀態不同步問題，讓寶石採集變得更輕鬆且更有效率。\n\n此模組會讓客戶端手動更新方塊狀態，而不是等待伺服器發送更新封包。如此一來，客戶端顯示的方塊狀態就會與伺服器端保持一致。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

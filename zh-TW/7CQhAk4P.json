@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MdaZalP+vVo=",
+  "content": "# XP Crystals\n\n你是否曾希望能夠將辛苦賺來的 **經驗值** 安全儲存，避免因死亡而全部損失？有了 **XP Crystals**，你可以使用完全相容於 **生存** 模式的物品，**儲存** 和 **取回** 你的經驗值。\n\n_可作為 **模組** 或 **資料包** 使用。_\n\n![物品](https://cdn.modrinth.com/data/7CQhAk4P/images/fce7fb3ec3ea37be1ef6caf6b83dc596d76b5ed4.png)\n\n## 功能\n- 將經驗值儲存在可合成的晶體中\n- 晶體有多種等級，每種等級有不同的容量：\n  - I 級：3 級\n  - II 級：10 級\n  - III 級：30 級\n  - IV 級：50 級\n  - V 級：無限經驗值儲存\n- 以生存模式為導向，配方平衡。\n- 多項進度\n- 易於使用：右鍵存放或提取經驗值\n- 管理員和一般玩家皆可使用的設定選單\n- 伺服器端（客戶端需安裝資源包）\n\n### 設定\n\n管理員可使用 /trigger xp_crystals.globalsettings\n\n玩家可使用 /trigger xp_crystals.settings\n\n<details>\n<summary>玩家設定</summary>\n音效 [開啟或關閉每位玩家的音效]\n</details>\n\n<details>\n<summary>全域設定</summary>\n  \n- 嚴格模式：啟用精確的經驗值點數計算，而非僅使用經驗等級（預設啟用）\n  \n- 切換全域音效開關。\n\n- 極限模式：自動授予一個只能透過死亡獲得的成就。\n \n- 解除安裝功能：移除資料包/模組遺留的所有數據。\n</details>\n\n## 多人模式\n\n此資料包/模組幾乎完全在伺服器端運作，客戶端只需極少的設定。\n為確保客戶端擁有正確的材質，內建的資源包必須：\n\n- 加入伺服器的資源包中，或\n- 由每位玩家自行下載並安裝。\n\n無論是以模組或資料包形式安裝皆適用\n\n## 需要協助？想提供反饋？\n加入 [Discord](https://discord.gg/PjaKmhWEFT)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

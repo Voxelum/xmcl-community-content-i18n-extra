@@ -1,0 +1,14 @@
+{
+  "bodyHash": "XbmcweTepLk=",
+  "content": {
+    "error": {
+      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
+      "type": "insufficient_quota",
+      "param": null,
+      "code": "insufficient_quota"
+    },
+    "request_id": "74422227-9b89-9ab0-8fe6-b399b2ef6720"
+  },
+  "contentType": "text/html",
+  "type": "curseforge"
+}

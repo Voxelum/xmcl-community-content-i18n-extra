@@ -1,0 +1,6 @@
+{
+  "bodyHash": "odHXzVXPcC4=",
+  "content": "<p><img src=\"https://raw.githubusercontent.com/CoFH/Version/master/right_click_get_crops/logo.png\" alt=\"右键获取作物\"></p><p>__活跃开发中__：Minecraft 1.18.2</p><p><strong>官网：<a href=\"/linkout?remoteUrl=https%253a%252f%252fteamcofh.com%252f\" rel=\"nofollow\">Team CoFH</a></strong></p><p><strong>Discord：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscordapp.com%252finvite%252fuRKrnbH\" rel=\"nofollow\">Team CoFH Discord</a></strong></p><p><strong>更新日志：<a href=\"/linkout?remoteUrl=https%253a%252f%252fraw.githubusercontent.com%252fCoFH%252fVersion%252fmain%252fright_click_get_crops%252fchangelog.md\" rel=\"nofollow\">更新日志</a></strong></p><hr><p>这是一个非常简单的模组。功能如其名！</p><p>配置文件允许您为不同作物设置允许或禁止列表，并选择是否在右键收获时重新种植作物。</p><p>它能智能处理所有原版及衍生作物的右键收获，同时支持更高级的行为，例如CoFH的多年生作物和双层高度作物。</p><p>如果其他模组需要兼容性调整，欢迎来Discord提出！ :)</p><h3><strong>配置说明</strong></h3><ul>\n<li>_服务端配置_：<code>right_click_get_crops-server.toml</code> 文件位于 <code>/saves/世界名称/serverconfigs</code> 文件夹中。</li>\n</ul><p>将此文件复制到 <code>/defaultconfigs</code> 文件夹，可使配置应用于所有新创建的世界。</p><p>专用服务器中此文件位于 <code>/world/serverconfigs</code> 目录</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DUdzYzngx3Q=",
+  "content": "Добавьте настраиваемый параллельный контрольный люк в мод [Modern Industrialization](https://modrinth.com/mod/modern-industrialization/). Добавьте настраиваемый параллельный контрольный люк в мод [Modern Industrialization](https://modrinth.com/mod/modern-industrialization/).\n\nМаксимальное количество параллелей и дополнительный множитель энергопотребления параллельного контрольного люка можно настроить с помощью файла конфигурации. Максимальное количество параллелей и дополнительный множитель энергопотребления параллельного контрольного люка можно настроить с помощью файла конфигурации.\n\nПоддерживается создание параллельных люков с помощью [KubeJS](https://modrinth.com/mod/kubejs):  \nПоддерживается создание параллельных люков с помощью [KubeJS](https://modrinth.com/mod/kubejs):\n\n```js\n// startup_scripts\\*.js\nMIMachineEvents.registerHatches(event => {\n\t // Создайте параллельный контрольный люк с максимальным количеством параллелей parallelCount.\n\t// Создайте параллельный контрольный люк с максимальным количеством параллелей parallelCount.\n\tevent.parallel(\"englishPrefix\",\"prefix\",\"casing\",parallelCount); \n})\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

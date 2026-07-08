@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HIfHb4sEX58=",
+  "content": "厌倦了等待/locate biome或自然指南针扫描耗尽时间，甚至导致服务器崩溃？\n\n**Biome Spy** 重写了生物群系搜索算法，将生物群系定位时间**缩短高达97%**，结构定位时间**缩短高达90%**\n\n该模组假设世界生成过程中使用的五个噪声函数**与高度无关**，从而在不影响准确性的前提下大幅减少搜索计算量（仍能搜索洞穴生物群系）。\n\n✅ 支持 **TerraBlender** 和 **AlexsCaves** 的生物群系  \n🧭 已在 **All The Mods 10** 集成包中测试验证  \n⚡ 无需改变世界生成，无需配置，纯粹的速度提升。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

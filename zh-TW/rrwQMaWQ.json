@@ -1,0 +1,6 @@
+{
+  "bodyHash": "avjGFnHasUU=",
+  "content": "Camera Utils 是一個客戶端 Fabric 模組，增加了與玩家視角相關的便利功能。\n\n# 功能\n\n- 動態縮放\n- 視角分離\n- 可調整的第三人稱距離\n- 兩個可自定義的第三人稱視角\n- 進階電影式鏡頭控制\n- 移動平滑\n\n## 動態縮放\n\n預設縮放鍵為 `Z`。\n按住縮放鍵並滾動滑鼠滾輪可動態調整縮放值。\n\n![](https://media.giphy.com/media/5CA3RhbZLwdWLSnyxn/giphy.gif)\n\n## 視角分離\n\n按下視角分離按鈕，玩家的視角會鎖定在當前位置。\n你仍然可以像之前一樣控制玩家，只是從另一個視角來觀察。\n按下 `RIGHT ALT` 搭配視角分離鍵，視角會回到上一次分離的位置。\n\n![](https://media.giphy.com/media/NCHDu1S4XB8Bpee2j5/giphy.gif)\n\n## 可調整的第三人稱距離\n\n在第三人稱模式下按住第三人稱距離調整鍵，你可以將視角拉遠至最多 100 格方塊的距離。\n\n![](https://media.giphy.com/media/3mILufImnwZzagKkMa/giphy.gif)\n\n## 可自定義的第三人稱視角\n\n此模組允許兩個自定義的第三人稱視角。\n預設綁定為 `F6` 和 `F7`。\n按下 `RIGHT ALT` 搭配 `F6` 或 `F7` 可分別調整這些設定。\n\n![](https://media.giphy.com/media/2pM70RylJyXvhuVj4R/giphy.gif)\n\n## 進階電影式鏡頭控制\n\n按下 `RIGHT ALT` 搭配電影式鏡頭按鈕，可調整電影式鏡頭的屬性。\n\n## 額外資訊\n\n按下任何與 Camera Utils 模組相關的按鍵並搭配 `RIGHT ALT`，\n會開啟一個設定介面，讓你可以更改屬性，\n或將其重設回預設值。\n\n請注意，此模組**與 OptiFine 不相容**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "G3IEM88oek4=",
+  "content": "## 模组描述\n这是一个展示物品耐久度的模组，因为我找不到一个拥有我想要的所有功能的模组。\n\n与其他类似模组的区别在于：\n\n- 根据物品状态以颜色（绿色/白色/黄色/红色）显示物品耐久度数字\n- 几乎达到100%耐久度的物品显示损坏值，而不是耐久度。例如，你的钻石镐使用了5次将显示-5，而不是1556。当你使用修补附魔修复物品时，这非常有用，因为你不需要知道确切的数字\n- 同时显示空背包格子的数量；一眼就能知道你是否可以继续挖掘或应该返回箱子\n- 显示增益效果的剩余时间，这样你就不需要按E键来检查水下呼吸药水是否还能持续一分钟（可以在选项中关闭）\n- 当物品即将损坏时播放警告音；停止因为不看GUI而失去效率V的镐。当物品耐久度低于10%且低于100时，警告音将播放（自1.4版本起，这些值可以配置）\n- 将窗口标题设置为“<用户名> 在 <服务器>”，这样如果你打开了多个MC实例，你可以轻松地通过Alt-Tab切换到你想要的那个。可以在选项中关闭\n\nDurability Viewer是我制作的第一个模组，61352151511在GitHub上公开了他的Durability Show（https://minecraft.curseforge.com/projects/durability-show）的源代码，这对我帮助很大。非常感谢！\n\n一些截图：\n\n## 配置\n所有版本都是可配置的，但配置方式取决于你使用的版本和模组加载器。\n\nFabric 使用 ModMenu：使用ModMenu在你选择模组时显示的齿轮图标。\n\n如果你想替换声音，请在压缩工具（7zip、winzip、winrar等）中打开.jar文件，并用自己的文件替换assets/durabilityviewer/sounds/tool_breaking.ogg文件。或者，从jar中删除该文件以永久（或至少直到你重新下载jar文件）消除声音。\n\n为了确保模组不会拖慢你的Minecraft，它已经使用jprofiler（https://www.ej-technologies.com/products/jprofiler/overview.html）进行了优化。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

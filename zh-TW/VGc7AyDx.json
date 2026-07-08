@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f4bztPnoEAI=",
+  "content": "## 鞘翅削弱 - 跨維度\n\n你是否注意過，一旦玩家獲得鞘翅，世界似乎瞬間變小了？\n其他交通方式幾乎立即變得無關緊要。\n\n這個資料包削弱了鞘翅的使用，讓它仍然適合緊急逃脫和快速攀升，但不再成為主世界的主要旅行方式。\n\n### 功能\n\n- 增加所選維度中鞘翅每次使用的耐久度消耗\n\n- 大幅減少需要修復前的飛行時間\n\n- 每次鞘翅應損失 1 點耐久度時，會額外損失更多耐久度\n\n- 預設情況下，僅影響主世界\n\n## 設定\n_若要開啟設定，您需要擁有執行指令的適當權限_\n\n輸入：/function phy_eon:settings\n\n可使用以下設定：\n- [切換] 主世界\n- [切換] 地獄\n- [切換] 終界\n- [設定傷害值]（預設為 -25）\n\n![設定](https://cdn.modrinth.com/data/VGc7AyDx/images/778db3a942ffe0e5d82545e27fdb84d0cf69ab87.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

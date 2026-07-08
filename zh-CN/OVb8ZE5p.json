@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8kQJjsfxsY0=",
+  "content": "###### **BBF 保留了原版船的行为，而 Mojang 认为这是\"设计如此\"。这只是为了防止意外死亡的热修复。**\n\n \n\n船破坏修复（Boat Break Fix）是一个简单的模组，修复了以下恼人的错误：如果你乘船从相当于 12、13、49、51、111、114、198、202、310 或 315 格的高度坠落，船会在落地时损坏，而你将承受相应的坠落伤害。\n\n请注意，不要与 [Boat Fall](https://modrinth.com/mod/boat-fall) 模组混淆，该模组与 BBF 效果相反（即使用船来启用坠落伤害）。\n \n\n本模组仅修复了此问题，同时由于每个游戏刻运行的代码减少，提升了船的性能。当然，该模组也支持无限世界高度。\n\n如果你想知道原版中具体受影响的坠落高度，可以使用公式 f(n) = (25n² ± n)/2，其中 n 为整数。\n\n \n\n该错误的一个视频示例可以在 Reddit 帖子中查看（正是这个帖子启发我制作了本模组）：\n\n[为什么我死了？船应该能吸收方块撞击冲击啊 (reddit.com)](https://www.reddit.com/r/Minecraft/comments/z0q9g4/why_did_i_die_boat_shoud_absorb_impact_of_block/)\n\n希望 Mojang 在未来的更新中修复这个问题。同时，本模组已在 1.17 至 1.19.2 版本的三大主流平台上测试通过。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

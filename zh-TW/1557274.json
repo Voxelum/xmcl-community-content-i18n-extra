@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tnQCv8G3bXk=",
+  "content": "<h1>經驗瓶收集器</h1><p>經驗瓶收集器是一款伺服器端模組，用於將經驗值收集成瓶裝形式。\n此模組讓你能夠自訂經驗等級瓶，如同一般的經驗瓶一樣使用。</p><p><img src=\"https://i.imgur.com/XNgECe6.gif\" alt=\"主介面\"></p><h2>功能特色</h2><ul>\n<li>將經驗轉換為經驗瓶</li>\n<li>按住 Shift 點擊可一次製作多個瓶子</li>\n<li>預設等級瓶：15、30、50、100</li>\n<li>將經驗儲存於瓶內（NBT 標籤）</li>\n<li>使用瓶子即可提取經驗</li>\n</ul><p>圖形介面可透過指令 <code>/xpbottle</code> 開啟</p><p>操作方式：</p><ul>\n<li>左鍵點擊 — 製作一個</li>\n<li>Shift + 左鍵點擊 — 製作最大數量</li>\n</ul><p><img src=\"https://i.imgur.com/wekikng.gif\" alt=\"示範畫面\"></p><h2>機制說明</h2><ul>\n<li>使用原版經驗值計算公式（0–16、17–31、32+）</li>\n<li>需要玻璃瓶</li>\n<li>若物品欄已滿，物品會掉落在地</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

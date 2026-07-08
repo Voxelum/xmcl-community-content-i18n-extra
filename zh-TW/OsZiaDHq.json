@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m/B6LW0KDko=",
+  "content": "除了作為CreativeMD大部分模組所需的簡單核心模組之外，別無其他。\n\n**功能**\n* GUI API\n* 配置系統（/cmdconfig 或 /cmdclientconfig）\n* 封包系統（支援拆分封包）\n* 事件系統（由 N247s 提供）\n* 合成材料\n* 虛擬世界\n\n我知道每個人都討厭核心模組，因為它是一個需要額外下載的檔案，但它能加快我的開發進度。多年來，我創建了大量有用的方法和實現目標的方式。現在我可以將所有這些內容整合到 CreativeCore 中，並用於我所有的模組。\n\n正在尋找可以與朋友一起玩的伺服器嗎？我們的贊助商已經為你準備好了：\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png \" width=\"250\">\n](https://bisecthosting.com/teamcreative)\n\n使用優惠碼 teamcreative，即可在任何遊戲伺服器上享受首月 25% 的折扣！\n\n[<img src=\"https://i.imgur.com/g2vJewK.png\" width=\"250\">](https://www.patreon.com/creativemd)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

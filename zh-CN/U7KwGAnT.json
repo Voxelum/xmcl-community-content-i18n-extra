@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PvEvwYS0yOc=",
+  "content": "将基岩版的操作方式带到Java版！\n\n这个模组为Java版Minecraft添加了可自定义布局的触控控制器。\n\n目前该模组处于早期开发阶段，预计会出现bug和崩溃！\n\n由于Minecraft使用的窗口库GLFW不支持触摸输入，TouchController需要一种从系统获取触摸事件的方式。以下是TouchController支持的启动器和平台：\n\n- Windows（任意启动器均可，最低支持Windows 7）\n- Linux Wayland（任意启动器均可，需要glibc，不支持鼠标模拟，需使用BlazeSDL）\n- [BlazeSDL](https://modrinth.com/mod/blazesdl)（任意启动器均可，支持Windows和Linux）\n- [Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher)\n- [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2)\n- [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android)\n- [Pojav Glow·Worm](https://github.com/Vera-Firefly/Pojav-Glow-Worm)\n- [Zalith Launcher](https://github.com/ZalithLauncher/ZalithLauncher)（已停止维护）\n\n如果可能，建议在Linux上使用[BlazeSDL](https://modrinth.com/mod/blazesdl)。\n\n该模组提供了一个用于调试的触摸模拟功能，可通过鼠标模拟触摸输入，但这种模拟对正常游玩没有实际用处，因为鼠标输入无法处理多点触控。\n\n欢迎在[Weblate](https://hosted.weblate.org/projects/touchcontroller/touchcontroller/)上贡献翻译！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

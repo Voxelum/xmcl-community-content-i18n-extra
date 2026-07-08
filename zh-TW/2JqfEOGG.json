@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yeIxqwtoBXE=",
+  "content": "# Donut Schematics\n\n在 Minecraft 中直接瀏覽、搜尋、下載建築藍圖、預覽地圖，以及查看 Donut.build 上的拍賣價格。\n\nDonut Schematics 是 [donut.build](https://donut.build) 的輔助模組，將 Donut.build 的各種工具帶入遊戲中。你無需離開 Minecraft 即可探索並儲存建築藍圖，在 DonutSMP 購買地圖藝術前先行預覽，並直接從你的物品欄中查看物品拍賣價格。\n\n本模組與 DonutSMP 並無關聯。\n\n## 功能特色\n\n### 在遊戲中瀏覽和下載建築藍圖\n\n開啟 Donut Schematics 選單，搜尋建築作品，然後直接將藍圖下載到你的 `schematics` 資料夾中。\n\n再也不需要打開瀏覽器、手動下載檔案、拖曳至資料夾，或是自行整理藍圖下載。\n\n### 地圖預覽提示\n\n將滑鼠懸停在地圖上時，可直接在提示框內預覽地圖的實際樣貌。\n\n### 拍賣行價格提示\n\n將滑鼠懸停在物品欄中的任意物品上，即可查看其拍賣行的估計價格。\n\n## 使用方式\n\n1. 在遊戲中按下 `B` 鍵開啟 Donut Schematics 選單\n2. 瀏覽或搜尋建築作品\n3. 點擊下載\n4. 藍圖會自動儲存至你的 `schematics` 資料夾\n5. 搭配 Litematica 使用\n\n完全無需手動管理檔案。\n\n## 快捷鍵\n\n開啟 Donut Schematics 的預設快捷鍵為 `B`。\n\n你可隨時透過 Minecraft 的控制／按鍵綁定設定選單進行更改。\n\n## 螢幕截圖\n\n![Donut Schematics 主選單](https://cdn.modrinth.com/data/cached_images/6fc66bed9f8daf5d8d1b52d841d9291ddbf142b4.png)\n\n![Donut Schematics 選單中已開啟藍圖面板](https://cdn.modrinth.com/data/cached_images/696277a3947fc2f964b9620fb88a4e2a7ce0ace6.png)\n\n![Donut Schematics 拍賣行地圖藝術預覽](https://cdn.modrinth.com/data/cached_images/da49d81f57f95b34201b80b1fd593791d77736fa_0.webp)\n\n## 需求\n\n* Fabric API\n* Fabric Language Kotlin\n* Litematica\n\n## 連結\n\n* 網站：https://donut.build\n* Discord：https://discord.com/invite/8nDE9HAJzX",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

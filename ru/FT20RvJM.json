@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lLEJ6NVrUuk=",
+  "content": "# WearThat\n\nПочему вам не должно быть позволено носить это?\n\n[![Бейдж с количеством загрузок на Modrinth](https://img.shields.io/badge/dynamic/json?color=2d2d2d&colorA=5da545&label=&suffix=%20downloads%20&query=downloads&url=https://api.modrinth.com/v2/project/FT20RvJM&style=flat-square&logo=modrinth&logoColor=2d2d2d)](https://modrinth.com/mod/wearthat)\n[![Бейдж с количеством загрузок на CurseForge](https://cf.way2muchnoise.eu/full_840388_downloads.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/wearthat)\n[![Бейдж, ведущий к проблемам на GitHub](https://img.shields.io/badge/dynamic/json?query=value&url=https%3A%2F%2Fimg.shields.io%2Fgithub%2Fissues-raw%2Fchyzman%2Fwearthat.json&label=&logo=github&color=2d2d2d&style=flat-square&labelColor=6e5494&logoColor=2d2d2d&suffix=%20issues)](https://github.com/chyzman/wearthat/issues)\n\nWearThat позволяет надевать любой предмет на любой слот брони. Вы не ослышались. Любой предмет. Это включает инструменты, блоки, оружие, другие элементы брони и т.д. Они даже отображаются!\n\nТеоретически этот мод должен работать на клиентской стороне, однако будет функционировать только рендеринг. Для нормального экипирования любых предметов игроками требуется его использование на сервере.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

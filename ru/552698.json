@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UkNlJ6/0LcU=",
+  "content": "<p>Этот мод представляет собой неофициально поддерживаемую коллекцию разнообразных исправлений, перенесённых обратно в версию 1.7.10 для мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks\" rel=\"nofollow\">Inventory Tweaks</a>.</p><p>&nbsp;</p><p>Изменения по сравнению с последней сборкой для 1.7.10:</p><ul>\n<li>Добавлена опция отключения сообщения «Конфигурация загружена» при загрузке мира. (TGNThump)</li>\n<li>Добавлена поддержка правил отображения названий предметов, например <span style=\"font-family:courier new, courier, monospace\">D1 \"Имя моего меча\"</span>. (thecodewarrior)</li>\n<li>Многочисленные исправления ошибок, в частности, обеспечена совместимость с BattleGear2. (Kobata, asie, SvenKayser, thecodewarrior)</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

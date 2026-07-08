@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e/GxtHZG5tw=",
+  "content": "<p><strong>距离修复</strong>修正了 Minecraft 实体命中检测中的若干错误。在某些情况下，玩家本应能击中实体却无法命中。这项修复在面对大型实体时更为明显。此外，实体碰撞箱现在会进行插值计算以匹配实体模型。\n现在瞄准实体时会考虑距离属性，而不仅仅是瞄准方块时。</p><p>本模组还添加了配置选项，允许您更改生存模式和创造模式下玩家的基础攻击距离。</p><p>与 Potion Core 的兼容性：\n若您正在使用 Potion Core，需进入 Potion Core 配置界面禁用\"修复距离\"选项。</p><p><a href=\"https://discord.gg/YXgPJnJafP\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/Discord-5865F2?logo=discord&amp;logoColor=white\" alt=\"discord\" width=\"139\"></a>\n<a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fmeldexun\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/Ko--fi-F06060?logo=ko-fi&amp;logoColor=white\" alt=\"ko-fi\" width=\"111\"></a>\n<a href=\"https://www.patreon.com/meldexun\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/Patreon-FFC34C?logo=patreon&amp;logoColor=white\" alt=\"patreon\" width=\"143\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

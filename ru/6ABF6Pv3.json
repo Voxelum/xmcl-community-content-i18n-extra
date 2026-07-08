@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4v3n6MBtmBQ=",
+  "content": "Это неофициальный порт Forge для [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica).\n\nОтличия:\n1. Интеграция с Embeddium — вы можете включать или отключать пользовательскую анимацию в настройках видео.\n2. Некоторая оптимизация кода; самая значительная оптимизация — удаление проверки валидности при инициализации идентификаторов, поскольку она очень затратна.\n\n\n[![image](https://www.bisecthosting.com/partners/custom-banners/75401fe6-76e7-471c-89e5-1edd37a950ad.webp)](https://bisecthosting.com/kasualix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

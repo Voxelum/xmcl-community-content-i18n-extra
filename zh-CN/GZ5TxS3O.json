@@ -1,0 +1,6 @@
+{
+  "bodyHash": "k7uqVVi8iS8=",
+  "content": "TACtical movement 是一个为 Minecraft 添加了大量移动功能的模组。\n目前它添加了以下内容\n（你不需要 TACZ 或 VPB 来运行和使用这个模组，你只需要 PlayerAnimator）\n（你可以使用 TACZ 或 VPB，或者两者都用，或者都不用）\n\n- 匍匐\n使你的碰撞箱变小，并使你进入爬行状态，动画专门设置为与 TACZ 或 VPB 等枪械模组很好地配合。\n\n- 探头\n允许你快速探出角落，调整第一人称视角并显示第三人称动画，你也可以在探头时射击，子弹仍然会击中你瞄准的地方。\n\n- 滑行\n对你的碰撞箱没有任何影响，但会给你一个短暂的加速，也有动画和冷却时间。\n\n- 第三人称动画，用于换弹和枪械操作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

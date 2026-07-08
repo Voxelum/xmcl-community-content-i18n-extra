@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FV6fEA49W8g=",
+  "content": "# ⚡ **CoffeeG的糟糕閃電**！\n> 簡單的資料包，讓閃電更頻繁地擊中玩家，能用閃電創造有趣又驚喜的死亡方式！\n\n支援版本：**1.14 -> 1.21**（Forge、Fabric、Quilt、資料包）\n\n## 示範影片\n[YouTube示範影片（參考）](https://youtu.be/NQMG4jrRCCE) | [Giphy示範動圖](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRvenIzYjQ1OGxvOTF2cTRvbWdyaWhleW1yNng1cDAzMHk0eHhrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeNgFTwItaTWBtv6z8/giphy-downsized-large.gif)\n\n## 設定\n+ 自訂設定：僅在雨天觸發閃電\n  - 啟用方式：`/scoreboard players set $awf.settings al.owr 1`（此設定僅適用於MC `1.15+`版本）\n  - 關閉方式（預設狀態）：`/scoreboard players set $awf.settings al.owr 0`\n\n## 試試我的其他資料包/模組：\n+ [**殘酷夢魘**](https://modrinth.com/datapack/brutal-nightmare) - 極高難度的Minecraft。殭屍會放置/破壞方塊、投擲TNT。骷髏、苦力怕、地獄幽靈、蜘蛛、夜魅等獲得新能力，新增迷你頭目...\n+ [**二段跳**](https://modrinth.com/datapack/coffdoublejump) - 透過潛行按鍵為Minecraft加入二段跳與躍升機制！\n+ [**腎上腺素爆發**](https://modrinth.com/datapack/adrenaline-rush) - 為Minecraft加入「最終咆哮」與「第二次機會」機制！從高處墜落時會保留0.5生命值而非死亡；低生命值時強化能力\n+ [**實用雪球**](https://modrinth.com/datapack/usefulsnowball) - 讓雪球能減緩生物速度！\n+ [**攀牆跳躍**](https://modrinth.com/datapack/coffwallclimb) - 為Minecraft加入爬牆（蹬牆跳）機制\n\n## 相容性\n本資料包與幾乎所有資料包皆可正常相容\n\n## 解除安裝與致謝\n只需從資料包資料夾中移除此資料包即可\n\n<details>\n<summary>致謝名單</summary>\n\n + 感謝RajDev提供圖標！\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

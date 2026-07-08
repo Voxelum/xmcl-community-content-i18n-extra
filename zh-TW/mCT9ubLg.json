@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VSCgKp4m8g0=",
+  "content": "# 概述\nCobblemon 屬性相剋模組是一個簡單的客戶端模組，旨在幫助訓練家做出更好的戰鬥決策。\n每當你進入寶可夢對戰時，此模組會顯示一個簡潔緊湊的介面疊加層，突出顯示哪些招式屬性對對手的當前寶可夢具有超級效果。\n\n無需再猜測屬性相剋關係——一目了然地查看 ×2 和 ×4 的效果！\n\n# 支援與建議\n本模組仍在開發中，因此可能會出現一些問題。如果你遇到任何問題或有建議，請加入 [Cobblemon Discord](https://discord.com/invite/cobblemon) 並在 `#content-zone-help` 中的專用支援討論串中聯繫我們，或 [在 GitHub 上提出問題](https://github.com/Aruloci/CobEffectiveness/issues)。\n\n## 支援的模組\n- [Gravel's Extended Battles](https://modrinth.com/mod/gravels-extended-battles)\n\n## 已知問題\n任何更改寶可夢屬性或引入新屬性的模組很可能無法正常運作。必須手動添加支援。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

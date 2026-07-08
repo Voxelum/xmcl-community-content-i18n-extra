@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qHy1qCMpkQc=",
+  "content": "<h2>鞘翅削弱 - 維度版 (模組版本)</h2><p>是否注意到玩家獲得鞘翅後，世界瞬間變得渺小？<br>其他交通方式幾乎立刻失去意義。</p><p>此資料包將削弱鞘翅功能，使其保留緊急逃生與快速攀升的用途，但不再作為主世界的主要移動手段。</p><h3>功能特性</h3><ul>\n<li><p>在指定維度中增加每次使用鞘翅的耐久損耗</p>\n</li>\n<li><p>大幅縮短需維修前的飛行時間</p>\n</li>\n<li><p>每次鞘翅原本損耗1點耐久時，將額外增加損耗值</p>\n</li>\n<li><p>預設僅影響主世界</p>\n</li>\n</ul><h2>設定選項</h2><p><em>開啟設定需具備執行指令的相應權限</em></p><p>開啟指令：/function phy_eon:settings</p><p>可調整項目如下：</p><ul>\n<li>[開關] 主世界</li>\n<li>[開關] 地獄</li>\n<li>[開關] 終界</li>\n<li>[設定損耗值] (預設為 -25)</li>\n</ul><p><img src=\"https://cdn.modrinth.com/data/VGc7AyDx/images/778db3a942ffe0e5d82545e27fdb84d0cf69ab87.png\" alt=\"設定介面\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "82lfFAZxuwo=",
+  "content": "<h1><a href=\"/linkout?remoteUrl=https%253a%252f%252fstarted.ink%252f\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/1472108/description_e60a590a-e5e2-42f8-bc98-24155f26f54f.png\" alt=\"\" width=\"700\" height=\"112\"></a></h1><h2><span style=\"color:#fff\">此模組為<a href=\"https://www.curseforge.com/minecraft/mc-mods/toms-storage\" target=\"_blank\" rel=\"nofollow\">Tom's Storage</a>的效能最佳化擴充，旨在減少大規模、多人同時操作及頻繁終端操作時的卡頓現象。</span></h2><h4><span style=\"color:#fff\">主要最佳化內容：減少無效重新整理、最小化重複掃描，並根據變化進行更精細的更新。</span></h4><h4><span style=\"color:#fff\">實際測試中，終端同步相關最佳化提升達347%，Tick更新最佳化提升達403%。這也可直接理解為全面最佳化提升超過300%。</span></h4><p>&nbsp;</p><p><span style=\"color:#fff\">測試環境：處理器EPYC 7c13（CpuZ單核分數約450分），16GB記憶體，以及填充10,000個物品的儲存結構（感覺測試壓力還是保守了點）</span></p><p><span style=\"color:#fff\">作者已盡力最佳化Tom's Storage。若仍造成卡頓，建議更換Tom's Storage為<a href=\"https://www.curseforge.com/minecraft/mc-mods/beyond-dimensions\" target=\"_blank\" rel=\"nofollow\">Beyond Dimension</a></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

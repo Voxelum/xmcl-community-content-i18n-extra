@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t4EAhjJOs70=",
+  "content": "<p>限制（Restrictions）是一款简洁的、风格贴近原版的模组，它添加了三个与实体移动（物品、生物、玩家）相关的基础方块：</p><p>&nbsp;</p><p>&nbsp;</p><ul>\n<li><strong>吸引器（Attractor）</strong>：该方块会吸引其前方的实体。其作用范围等同于接收到的红石信号强度，如果没有红石信号输入则会处于停用状态。</li>\n<li><strong>推斥器（Pusher）</strong>：该方块会将其前方的实体推开。同样，其作用范围与红石信号强度相等。</li>\n<li><strong>单向门（One Way）</strong>：这是一个透明方块，能强制实体朝特定方向移动。此方块无需红石信号即可工作，可用于将实体向任意方向运输。你可以用它建造快速向上的电梯，或将刷怪笼生成的生物转移到别处。</li>\n</ul><p>&nbsp;</p><p>&nbsp;</p><p>你可以在任何整合包中自由使用本模组。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

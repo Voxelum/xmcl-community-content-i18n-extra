@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rsvPRvNW5Bc=",
+  "content": "<h2>冰與火修補程式</h2><p>這是一個修復模組<a href=\"https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons\" target=\"_blank\" rel=\"nofollow\">冰與火之歌</a>中關鍵錯誤與崩潰問題的模組。</p><p>當前維護版本：1.16.5、1.18.2、1.19.2。</p><p><strong>1.15.2 與 1.17.1 因玩家稀少已停止維護。</strong></p><p><strong>1.20.1 已停止維護，請改用<a href=\"https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce\" target=\"_blank\" rel=\"nofollow\">冰與火社區版</a></strong></p><h2>目前已修正內容：</h2><ul>\n<li>Citadel 在主線程獲取 Patreon 贊助者資訊導致啟動緩慢（現已改為獨立線程執行）</li>\n<li>龍息造成伺服器嚴重延遲</li>\n<li>龍息粒子渲染錯誤</li>\n<li>標題畫面效能低落與恢復渲染淡出功能異常</li>\n<li>模型動畫器在動畫完成後未清除快取導致記憶體洩漏</li>\n<li>重新進入世界後精靈罐顏色顯示不正確</li>\n<li>駿鷹飛行過高且行為異常</li>\n<li>火龍骨劍、火龍鋼劍及工具無法烹飪掉落物</li>\n</ul><h2>功能增強</h2><ul>\n<li>新增 <code>iceandfire:pixie_stolen_blacklist</code> 標籤</li>\n<li>將部分金製物品加入 <code>minecraft:piglin_loved</code> 標籤，使豬布林可撿起</li>\n</ul><p><strong>加入我們的<a href=\"https://discord.gg/NDzz2upqAk\" target=\"_blank\" rel=\"nofollow\">Discord</a>回報您希望修復的錯誤</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

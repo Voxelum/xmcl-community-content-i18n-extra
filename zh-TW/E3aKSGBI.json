@@ -1,0 +1,6 @@
+{
+  "bodyHash": "znUTtJzZ5iU=",
+  "content": "⚜️ 模組說明：\n\n注意：這是一個函式庫模組，本身不添加任何內容。\n\nFabridge 是一個核心模組，透過特殊技巧讓 Forge 能像 Fabric 那樣運作。它對於某些事件處理非常有用，能輕鬆同步客戶端與伺服器端的資料，並讓數值後續能同時儲存在兩端。該模組還提供自訂事件，以及在其他地方註冊內容的特殊功能（雖然原版 Forge 也能做到），但操作方式完全與 Fabric 相同。對於想將模組從 Fabric 移植到 Forge 的開發者特別實用。\n\n雖然概念有點奇怪，但我們主要將它用於那些基於 Fabric 代碼卻運行在 Forge 上的專案。\n\n本模組也可單獨與 Sinytra Connector 模組搭配使用，能修復部分 Fabric 模組在 Forge 上運行的相容性問題。雖然這並非原始設計目的，但已有至少 5 位使用者回報添加 Fabridge 能解決 Sinytra 的某些錯誤。\n\n最初是為我們的槍械系統設計，但任何開發者都能透過在 build.gradle 中添加指定版本的 Maven 源來使用它。\n\n⚠️ 該模組多數情況下與 Optifine 不相容。\n\n🎬 製作群：\n\n本模組由 Abyssal 團隊製作。任何抄襲/盜用行為可能導致 DMCA 申訴或其他法律行動。\n\n程式碼在查看我們的 GitHub 儲存庫後可自由分享。\n\n歡迎使用這個函式庫！\n\n🎩 Abyssal 團隊社群：\n\n![discord.logo](https://cdn.modrinth.com/data/cached_images/8b31641ba0a1b812d247e0ca08362f39fe7046fa.png)\n\n![kofi](https://cdn.modrinth.com/data/cached_images/2f1d86fac398024d4282a31ce57e5831fe0cb11f.png) \n\n![patreon](https://cdn.modrinth.com/data/cached_images/bd10ce0e83bc26a411b4cc748193a30d4f0e1aa6.png)\n\n![youtube](https://cdn.modrinth.com/data/cached_images/6bb29378fc10beaa8d9cc4b0e8b30a31d5cc6a35.png)\n\nDiscord -> https://discord.gg/qN7ZqKVYQf\n\nKo-fi -> https://ko-fi.com/asestefan\n\nPatreon -> https://www.patreon.com/TeamAbyssalOfficial\n\nYouTube -> https://www.youtube.com/channel/UCsmmgXrquI0XdTY8r4p87RQ",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

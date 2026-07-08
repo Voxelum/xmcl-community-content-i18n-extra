@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7l63cgrCDV4=",
+  "content": "一個小型、主要為了個人用途的模組，包含多項實用功能，例如：\n\n# 迷你煤炭與木炭\n\n將煤炭分成 8 份，每份僅能熔煉 1 個物品，有助於節省燃料。![迷你煤炭的合成配方：使用工作台將煤炭分成 8 個碎片，再將這些碎片在工作台上排成 3x3 的環形，即可重新組合成煤炭。](https://cdn.modrinth.com/data/T8Cxr5Cl/images/b93b9a5272d470da82cc16c5f427eae0ca308c6e.png)\n\n# 鐮刀\n\n一種鋒利的鋤頭，對成熟農作物按右鍵可收穫一定範圍內相連的成熟農作物。木製鐮刀可收穫 5 個相連作物，石製 8 個，銅製與金製 10 個，鐵製 16 個，鑽石製 20 個，地獄合金製 40 個。![左側展示木製至鑽石鐮刀，右側為鐮刀合成配方：頂層橫排填入工具材料，左下與中央格子填入木棍。](https://cdn.modrinth.com/data/T8Cxr5Cl/images/205de574a617eb5151d7783d99652728805e3055.png)\n\n_如果我能研究出來，之後會嘗試加入運作中的 GIF 動圖_\n\n# 合成板\n\n可攜帶式工作台，使用耐久度來合成物品，但幸運的是可以附上「耐久」與「修補」附魔。![合成板的合成配方：將工作台方塊放在合成方格中央，左右兩側放置鐵錠，最後頂層與底層橫排填入鐵粒，即可合成合成板。](https://cdn.modrinth.com/data/T8Cxr5Cl/images/e799aece32f7be084ee0402e1d7e84ecc4b8d10b.png)\n\n# 加速樹葉腐爛\n\n啟用 `hotchpotch:fast_leaf_decay` 遊戲規則後，樹葉方塊會更快腐爛。\n\n_如果我能研究出來，之後會嘗試加入運作中的 GIF 動圖_\n\n# 苦力怕爆炸延遲\n\n調整 `hotchpotch:creeper_explosion_delay` 可設定苦力怕的爆炸速度。\n\n預設值與原版相同（30 刻，1.5 秒），但可設定為極短（1/20 秒）或任意長度。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8mbrtiJIyd4=",
+  "content": "<p>Пусть <a href=\"https://github.com/maruohon/litematica\" rel=\"nofollow\">Litematica</a> сможет вставлять данные блоков и сущностей в сервере</p><p>Используя пользовательский пакет чата, чтобы обойти ограничение длины сообщений, клиент просто добавляет данные блока или NBT-тег сущности к командам <code>/setblock</code> или <code>/summon</code></p><p>Для работы необходимо установить мод как на клиенте, так и на сервере.</p><p>На стороне клиента требуется только мод Litematica. На стороне сервера ничего не требуется</p><p>Необходимо установить <code>commandUseWorldEdit</code> в значение false и <code>pasteNbtRestoreBehavior</code> в значение <code>None</code> в Litematica, чтобы этот мод работал; если эти два параметра есть в вашем моде Litematica</p><p>Данные блока не будут вставлены повторно, если состояние блока совпадает со схемой</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

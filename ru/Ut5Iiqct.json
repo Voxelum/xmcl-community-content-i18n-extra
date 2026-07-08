@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GpvfJyo8jo4=",
+  "content": "Позволяет зажжённым бешеным воинам из [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) спавниться в [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses) после победы над Игнисом, обеспечивая совместимость между этими двумя модами.\n\n(Это достигается простым добавлением структуры «Лучшие крепости» к тегу «#berserker_spawn» в Cataclysm.)\n\nКонечно, требуется L_Ender's Cataclysm, YUNG's Better Nether Fortresses и их зависимости.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

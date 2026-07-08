@@ -1,0 +1,6 @@
+{
+  "bodyHash": "H3HsTeNrzT0=",
+  "content": "# MinePaperEngine\n\n![Discord](https://img.shields.io/discord/1370807259495534663?style=flat-square&logo=discord&label=xkball's%20mods&link=https%3A%2F%2Fdiscord.gg%2FS9DBXWHNsc) ![Лицензия GitHub](https://img.shields.io/github/license/xkball/MinePaperEngine?style=flat-square)\n\nПревратите окно Minecraft в настольный обои.\n\nПосле запуска игры появится значок в системном трее. Нажмите на него, чтобы переключаться между запуском игры в обычном окне и в качестве динамического рабочего стола.\n\nРежим обоев не приостанавливает игру и не позволяет играть. Перед переходом в режим обоев, пожалуйста, вручную ограничьте частоту кадров или скройте HUD.\n\nПока что работает только на Windows-системах. На других платформах использование этого мода теоретически не должно оказывать никакого эффекта.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

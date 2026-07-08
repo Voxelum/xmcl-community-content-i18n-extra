@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3OTPyPMxVpc=",
+  "content": "# 關於\nCreate Nuclear 是一個為 Create 模組添加完整**核能系統**的擴充模組。經過優化的反應爐可產生**超過兩百萬 SU**。\n\nCreate Nuclear 同時新增了鈾礦石以及完整的精煉流程，讓您能夠自動建立並為反應爐供電，即使是從鵝卵石等無限資源，也能透過複雜的精煉流程充分**發揮 Create 設備的所有潛力**。\n\n![Minecraft 能源設置的遊戲截圖，經過修圖突顯顯示 2,560,000 SU 的大型 SU 輸出數值。](https://cdn.modrinth.com/data/cached_images/1a69b6b412e0ef456ab2b778f89e8dc574e77f99.png)\n\n# 使用方式\n## Fabric\n您需要先安裝 [Create Fabric](https://modrinth.com/mod/create-fabric) 和 [Fabric API](https://modrinth.com/mod/fabric-api) 模組。\n\n我們現在已相容於 [JEI](https://modrinth.com/mod/jei)、[REI](https://modrinth.com/mod/rei)、[EMI](https://modrinth.com/mod/emi)。\n## Forge\n您需要先安裝 [Create](https://modrinth.com/mod/create) 模組。\n\n我們現在已相容於 [JEI](https://modrinth.com/mod/jei)、[REI](https://modrinth.com/mod/rei)、[EMI](https://modrinth.com/mod/emi)。\n# 社群平台\n點擊[這裡](https://discord.gg/8DuVaGMhpr)加入我們的 Discord 伺服器，追蹤最新更新並分享您的意見回饋\n\n我們還有包含所有社群平台的連結樹，點擊[這裡](https://linktr.ee/createnuclear)查看\n\n# 在地化\n如果您想協助我們進行翻譯，我們已開啟 Crowdin 專案。點擊[這裡](https://crowdin.com/project/createnuclear)。\n\n# 原始碼\n## Fabric\n\nhttps://github.com/valentinlamine/CreateNuclearFabric\n\n## Forge\n\nhttps://github.com/Giovanniricotta2002/CreateNuclearForge",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

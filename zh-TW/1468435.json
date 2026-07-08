@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6YrZP46qqK0=",
+  "content": "<h1>XP 交易者</h1><p>XP 交易者是一款適用於 Forge <code>1.20.1</code> 的模組，新增了一種村民職業，可用<strong>玩家經驗等級</strong>交換綠寶石。</p><h2>圖片</h2><p><img src=\"https://github.com/Maeiro/XP-Trader/blob/main/img/villager.png?raw=true\" alt=\"XP 交易者村民\">\n<img src=\"https://github.com/Maeiro/XP-Trader/blob/main/img/recipe.png?raw=true\" alt=\"XP 交易者工作站合成配方\"></p><h2>需求</h2><ul>\n<li>Minecraft <code>1.20.1</code></li>\n<li>Forge <code>47.x</code></li>\n<li>Java <code>17</code></li>\n</ul><h2>新增內容</h2><ul>\n<li>職業：<code>xp_trader</code></li>\n<li>工作站：<code>xp_trader_workstation</code></li>\n<li>原版村民交易介面</li>\n</ul><h2>設定</h2><p>檔案：<code>run/config/xp_trader-common.toml</code></p><p>主要選項：</p><ul>\n<li><code>levelsPerTradeByLevel</code></li>\n<li><code>emeraldsPerTradeByLevel</code></li>\n<li><code>maxUsesPerTradeByLevel</code></li>\n<li><code>villagerXpPerTradeByLevel</code></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XfH9IB8ohFM=",
+  "content": "这个针对macOS的Minecraft整合包使用Vulkan渲染器替代了传统的OpenGL渲染器。Vulkan渲染器旨在现代硬件上提供更出色的图形性能和更高效的资源利用率。通过利用Vulkan API的功能，与默认的Minecraft图形引擎相比，该整合包旨在提供更高的帧率、减少卡顿，并提升视觉保真度。\n\n<details>\n<summary>模组列表：</summary>\n\n- BadOptimizations\n- BoxLib\n- Cloth Config v17\n- Continuity\n- Dynamic FPS\n- EntityCulling\n- Fabric API\n- Fabric Language Kotlin\n- FerriteCore\n- Freecam\n- GPU Tape\n- Lithium\n- MaLiLib\n- Mod Menu\n- Model Gap Fix\n- Noisium\n- Placeholder API\n- Shift-Scroll Fix\n- ThreadTweak\n- VulkanMod\n- WorldEdit\n- YOSBR\n- YetAnotherConfigLib\n- Zoomify\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

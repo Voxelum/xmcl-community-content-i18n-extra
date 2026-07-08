@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3Xe5eeCbnPI=",
+  "content": "# Firmament，一款 Hypixel SkyBlock 模組\n<small><i>由 NEU 提供技術支援</i></small>\n\n[![論壇主題](https://img.shields.io/badge/Forum%20Thread-blue?style=flat-square)](https://hypixel.net/threads/firmament-a-skyblock-mod-for-1-20-1.5446366/)\n[![Discord](https://img.shields.io/discord/1088154030628417616?style=flat-square&logo=discord)](https://discord.gg/64pFP94AWA)\n\n\n## 功能特色\n\n- 所有 SkyBlock 物品的物品清單\n- 將相關物品（如小幫手）分組整理\n- 合成配方檢視器\n- 鍛造配方檢視器\n- 聊天頻道中的圖片預覽\n- 儲存空間概覽（目前尚未提供能與所有頁面互動的完整覆蓋層，但此功能已規劃中）\n- 點選合成配方中「移動物品」按鈕時顯示的合成覆蓋層\n- 游標位置記憶功能\n- 欄位鎖定功能\n- 支援自訂材質包（在載入原版模型前，優先從 `firmskyblock:<skyblock id>` 載入物品模型）\n- 仙子靈魂高亮標示\n- 由 [Jarvis](https://github.com/romangraef/jarvis) 驅動的 HUD 編輯器\n- 釣魚粒子效果輔助（因 1.20 版本導致蹲下時定位異常，目前暫無法使用；待管理員確認此修復方案可行後，將推出修正）\n- 基礎設定介面（/firm config）。仍需改進，但已足夠應付基本需求。您也可以使用 `/jarvis options` 搜尋所有設定選項\n\n歡迎瀏覽圖集以了解更多未列於此處的功能\n\n也歡迎看看 [DulkirMod](https://github.com/inglettronald/DulkirMod-fabric)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

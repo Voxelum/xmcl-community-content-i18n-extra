@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xzXppTpS71c=",
+  "content": "# 彩色字幕\n\n[![GitHub release](https://img.shields.io/github/release/haykam821/Colorful-Subtitles.svg?style=popout&label=github)](https://github.com/haykam821/Colorful-Subtitles/releases/latest)\n[![CurseForge](https://img.shields.io/static/v1?style=popout&label=curseforge&message=project&color=6441A4)](https://www.curseforge.com/minecraft/mc-mods/colorful-subtitles)\n[![Discord](https://img.shields.io/static/v1?style=popout&label=chat&message=discord&color=7289DA)](https://haykam.com/links/discord)\n\n根据声音类别更改字幕的颜色。\n\n彩色字幕需要 [Fabric 模组加载器](https://fabricmc.net/use/)。\n\n## 安装\n\n1. 从 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/colorful-subtitles/files) 或 [GitHub](https://github.com/haykam821/Colorful-Subtitles/releases) 下载彩色字幕。\n2. 将下载的文件放入 `mods` 文件夹中。\n\n## 使用\n\n安装此模组后，字幕将根据其声音类别自动显示不同的颜色：\n\n* 音乐：深紫色\n* 唱片：深红色\n* 天气：水蓝色\n* 方块：绿色\n* 敌对生物：红色\n* 中立生物：黄色\n* 玩家：金色\n* 环境：灰色\n* 语音：浅紫色",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

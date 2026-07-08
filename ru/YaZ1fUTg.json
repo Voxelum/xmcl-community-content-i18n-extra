@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28GaUpkWEFw=",
+  "content": "<center>\n\n![Изображение веб-карты](https://raw.githubusercontent.com/TeamJM/journeymap-webmap/master/journeymapwebmap2.png)\n\n</center>\n\n\n# Веб-карта JourneyMap\n\nJourneyMap WebMap — это мод-плагин для клиентской стороны [модификации JourneyMap][1], который позволяет просматривать вашу карту в локальном веб-браузере.\n\nОсновные сферы применения: отображение вашей карты на другом мониторе, планшете или любом устройстве в вашей локальной сети.\n\nЭто официальная веб-карта, которая ранее была включена в JourneyMap; теперь она стала отдельным мод-плагином.\n\n## Что это НЕ является!\n\nЭто не серверная карта. Она ничего не будет делать, если добавить её на сервер.\n\n[1]: https://modrinth.com/mod/journeymap",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

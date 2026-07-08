@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RbND9nYvTc0=",
+  "content": "![Title Image](https://cdn.modrinth.com/data/cached_images/2755f12b234e5834d2ad31ef93a6eb745f29ab10.png)\n\n<hr>\n\n一個簡單的模組，可以防止 Minecraft 在標籤中的一個或多個條目無效時，將整個標籤的內容全部丟棄。如果標籤被「處理」過，遊戲內會出現提示訊息，而類似原版遊戲的更多資訊可以在執行此模組的伺服器/用戶端日誌中找到。\n\n這個模組的設計初衷，是因為有些模組或資料包可能會加入無效的條目到，例如 \"minecraft:mineable/pickaxe\"，導致所有可被鎬子挖掘的方塊都變得不可挖掘，從而破壞遊戲。\n\n**TLDR：** 此模組可防止模組/資料包的錯誤破壞遊戲的整個部分。如需了解有關 **理解** 或 **靜音** 遊戲內訊息提示的更多資訊，請前往 [Github 連結](https://github.com/Dragon-Seeker/LoadMyFingTags/blob/3961e898550c4d996199bea0fa408a61e87e8dba/info.md) 查看更多資訊。\n\n## 關於版本的備註\n- **[MultiLoader 更新]** Ver1.0.1：修正了 Mixin 僅套用於用戶端的問題。\n### Forge\n- **[47.1.44 - 47.2.5]** Ver1.0.3：修正了 Forge 重新實作單人模式 Modmenu 的問題。\n- **[47.2.6 及以上版本]** Ver1.0.4：修正了 Forge 在 TagGroup.Loader 中使用 HashSet 而非 LinkedHashSet 的補丁錯誤。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

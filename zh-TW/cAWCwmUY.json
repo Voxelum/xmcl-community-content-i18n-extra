@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/GL4cFzkOZI=",
+  "content": "# TierTagger\n\n一個客戶端模組，可直接在 Minecraft 的玩家列表與角色頭頂顯示 **MCTiers**、**OuterTiers**、**PvPTiers** 和 **SubTiers** 的排名。\n\n無需安裝伺服器端，可在任何伺服器上使用。\n\n---\n\n## 功能\n\n**玩家列表** — 開啟玩家列表時，每位玩家名稱旁會顯示階級徽章。支援雙徽章模式，可並排顯示兩種不同的階級列表。\n\n**頭頂名牌** — 在遊戲世界中，每位玩家頭頂會飄浮一個階級徽章。使用 F5 鍵可開啟／關閉。能自動辨識遊戲模式，總是顯示目前所處伺服器適用的階級。\n\n**指令**\n- `/tiertagger search <玩家名稱>` — 查看該玩家在所有遊戲服務與模式下的完整階級資訊\n- `/tiertagger compare <玩家1> <玩家2>` — 並排比較兩位玩家的階級\n- `/tiertagger help` — 列出所有可用指令\n\n**設定** — 可透過模組選單在遊戲內完整設定。自訂顏色、要顯示的階級列表、徽章格式、快取時間等。\n\n---\n\n## 安裝\n\n1. 為你的 Minecraft 版本安裝 [Fabric](https://fabricmc.net/use/)\n2. 將 [Fabric API](https://modrinth.com/mod/fabric-api) 放入 mods 資料夾\n3. 將 TierTagger 放入 mods 資料夾並啟動遊戲\n\n[模組選單](https://modrinth.com/mod/modmenu)為選用項目，但安裝後即可使用遊戲內設定畫面。\n\n---\n\n[GitHub](https://github.com/blackdmega-wq/tiertagger-public) · [Discord](https://discord.gg/6eAaPqg4up)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

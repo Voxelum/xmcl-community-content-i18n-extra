@@ -1,0 +1,6 @@
+{
+  "bodyHash": "obdTWhuEHIU=",
+  "content": "# 🛡️ FerreMcDurabilityOverlay – 護甲耐久度視覺化工具\n\n****本資源包專為PvP戰鬥設計，能清晰顯示護甲耐久度，幫助您在激烈對戰中做出明智決策。****\n\n## 🔧 功能特色：\n__動態護甲材質：護甲材質會根據耐久度改變顏色：__\n\n- 🟩 ****綠色（80%–100%）：輕微磨損****\n- 🟨 ****黃色（60%–79%）：中度損壞****\n- 🟥 ****紅色（40%–59%）：嚴重損壞****\n- 🟥 ****深紅色（20%–39%）：危急狀態****\n- 🟪 ****紫色（0%–19%）：已損毀****\n\n- ****PvP導向：專為PvP情境設計，能在戰鬥中即時提供護甲狀態視覺提示****\n- ****相容性：適用於Fabric的[CIT Resewn](https://modrinth.com/mod/cit-resewn)或[Optifine](https://optifine.net/home)****\n- ****支援護甲類型：適用於鑽石與獄髓護甲套裝****\n\n## ⚠️ 安裝需求：\n\n- ****Fabric使用者：請安裝[CIT Resewn](https://modrinth.com/mod/cit-resewn)模組****\n- ****Optifine使用者：請安裝[Optifine](https://optifine.net/home)並確保正確配置****\n\n![耐久度階段示意圖](https://cdn.modrinth.com/data/cached_images/6702f860d62f1dcbcd717354fd2747b4f119b875.png)\n\n# ⚠️ 注意事項：\n部分伺服器可能限制使用耐久度視覺化資源包，請僅在允許的環境中使用。****本人不承擔伺服器採取任何處置行動之責任。****",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

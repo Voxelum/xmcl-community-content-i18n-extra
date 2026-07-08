@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6F2dFnItAA4=",
+  "content": "![](https://github.com/e-splat/WorldEditItems/blob/Quilt/Fabric/cosoworldedititems.png?raw=true)\n\nВас раздражает, что WorldEdit использует стандартные объекты из Minecraft и портит игровой опыт? Этот мод именно для вас! Этот мод добавляет три новых предмета для использования с WorldEdit, чтобы вам не приходилось использовать обычные предметы.\n\n**Требуется [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)**\n\nДоступен для **Fabric** (требуется [Fabric API](https://modrinth.com/mod/fabric-api)), **Quilt** (используйте версию для Fabric) (требуется [Quilt Standard Libraries](https://modrinth.com/mod/qsl)) и **Forge**\n\n## Настройка\n\n1. Проверьте, установлен ли у вас WorldEdit (если нет, мод окажется бесполезным)\n1. Поместите файл .jar в папку с модами\n1. В игре удерживайте предмет «Палочка/Навигационная палочка/Суперкайло» и введите команду `/tool selwand` `/tool selwand` (пока опция «Суперкайло» недоступна, я скоро обновлю информацию)\n1. После этого попробуйте использовать «Палочку-топор» или «Навигационную палочку» и посмотрите результаты\n\n**ОБРАТИТЕ ВНИМАНИЕ**: если указанные вами команды не работают, сообщите об этом разработчикам [WorldEdit](https://github.com/enginehub/worldedit/issues)\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

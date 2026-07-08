@@ -1,0 +1,6 @@
+{
+  "bodyHash": "luxJT47u4KE=",
+  "content": "<p>關於此模組</p><p>這是一款輕量級的獨立模組，同時支援 Forge 與 Fabric，專為想要透過 Create 模組以簡單、安全的方式自動化生產烈焰粉的玩家設計。告別前往地獄狩獵烈焰使者的危險旅程！</p><p>請前往「檔案」分頁下載適用於你的模組包的版本（Forge 或 Fabric）。</p><p>合成配方與運作方式 這是一個完美平衡且可完全自動化的配方。你只需在盆中加入 1 份火藥、1 份灰燼粉末和 50mB 岩漿，並使用機械攪拌器即可合成烈焰粉。</p><p>無需加熱！（注意：1 桶岩漿可產出 20 份烈焰粉）。</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_b117c3a2-0b9d-459b-a69c-1e8b408a0c46.png\"></p><p>完整自動化生態系統 擔心火藥或地獄石（製作灰燼粉末所需）等原料無法自動化？別擔心！你可以搭配我的其他輕量級 Create 模組，將這條生產線實現 100% 自動化：</p><ul>\n<li>\n<p>Create: 火藥配方 (<a href=\"https://www.curseforge.com/minecraft/mc-mods/create-gunpowder-recipe\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/create-gunpowder-recipe</a>) - 使用沙子、礫石與燧石自動生產火藥。</p>\n</li>\n<li>\n<p>Create: 地獄石配方 (<a href=\"https://www.curseforge.com/minecraft/mc-mods/create-netherrack-recepie\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/create-netherrack-recepie</a>) - 自動生產用以壓碎成灰燼粉末的地獄石。</p>\n</li>\n</ul><p>依賴項目 使用此模組前，你必須先安裝以下項目：</p><ul>\n<li>\n<p>Create（Forge 或 Fabric 版本）</p>\n</li>\n<li>\n<p>Fabric API（僅在使用 Fabric 版本時需要）</p>\n</li>\n</ul><p>模組包 你可以完全自由地將此模組加入任何 CurseForge 模組包中！</p><p>Create: 烈焰粉配方團隊</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

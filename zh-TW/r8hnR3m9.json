@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pNGMDPy9fy4=",
+  "content": "## X-Ray 透視礦物模組\n這個模組/資料包能移除石頭等其他方塊，讓礦物保持可見。在地獄同樣有效。\n\nX-Ray 是個強大的模組，徹底改變你在 Minecraft 世界中探索的方式。它能讓你看穿一般的方塊，凸顯出珍貴的資源、結構與物體。\n\n使用方式：只要在任一隻手上拿著已填充的地圖即可。\n\n![預覽](https://cdn.modrinth.com/data/r8hnR3m9/images/8f21f107271770937160956489953644f1bc92ff.png)\n\n## 使用方法\n此模組會自動啟用，不需要額外設定。但如果你想暫時停用模組，請使用指令 ```/trigger bizcub.x_ray.t```。模組目前的狀態資訊隨後會顯示在聊天欄中。\n\n## 依賴項目\n- Fabric 載入器需要 [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

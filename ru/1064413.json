@@ -1,0 +1,6 @@
+{
+  "bodyHash": "i4mQA8ac1ZY=",
+  "content": "<p>Мод, который поддерживает авторов модпаков, используя KubeJS для отрисовки HUD-элементов и регистрации ItemDecorator (дополнительного рендеринга предметов в инвентаре), а также мод для отображения блоков и предметов в мире.</p><p>Используйте события для добавления рендеров.</p><p>Возможно, есть некоторые баги, но я их исправлю :&lt;</p><p>GitHub: <a href=\"https://github.com/ch1335/RenderJS\" target=\"_blank\" rel=\"nofollow\">RenderJS</a></p><p>Внимание: методы могут отличаться в разных версиях, а конкретные изменения можно посмотреть на Gitee</p><p>KubeJS BlockEntity с пользовательским рендерингом</p><p><img src=\"https://media.forgecdn.net/attachments/description/1064413/description_eb4aac01-4f77-45d0-b475-1ef3a4b55581.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

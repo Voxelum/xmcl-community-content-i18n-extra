@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hbfCnO4JdOs=",
+  "content": "一个简单的客户端模组，支持 Fabric、Forge、NeoForge 和 Quilt 模组加载器，移除所有雾效。  \n&nbsp;  \n&nbsp;  \n如果没有 [ClothConfig](https://modrinth.com/mod/cloth-config)，则没有配置选项。所有雾效将始终保持禁用状态。  \n&nbsp;  \nFabric/Quilt 上的配置（1.16.5+）：  \n如果安装了 [ClothConfig](https://modrinth.com/mod/cloth-config)、[ModMenu](https://modrinth.com/mod/modmenu) 和 [FabricAPI](https://modrinth.com/mod/fabric-api)/[QSL](https://modrinth.com/mod/qsl)，可以在游戏中更改配置。\n\nNeoForge（1.20.2+）和 Forge（1.16.5 - 1.20.1）上的配置：  \n如果安装了 [ClothConfig](https://modrinth.com/mod/cloth-config)，可以在主菜单中更改配置。  \n&nbsp;  \n配置可以按生物群系、维度和大局的顺序优先级切换每种雾效类型。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

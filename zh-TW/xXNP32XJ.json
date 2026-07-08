@@ -1,0 +1,6 @@
+{
+  "bodyHash": "n6LnX5r78r4=",
+  "content": "厭倦了窳民們軟弱無力，連一點護甲都沒有嗎？\n\n你覺得襲擊事件應該要更困難嗎？\n\n這個模組就是為你而生的，提供了設定選項，可以停用特定窳民天生會生成帶有裝備，或者直接讓所有窳民都不再天生攜帶護甲！\n\n其他模組中的窳民，只要它們在程式碼中繼承了 IllagerModel 類別，就能夠顯示出護甲的樣貌。\n\n若要讓窳民生成時帶有自訂裝備，只需在自訂資料包中覆蓋以下檔案：\n\nhttps://github.com/seymourimadeit/illagersweararmor/tree/main/src/main/resources/data/illagersweararmor/loot_table/entities",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

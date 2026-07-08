@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bzPobulkw3c=",
+  "content": "<p>翻譯器會將Minecraft中的所有文字透過Google翻譯進行5次翻譯（可配置）。<br>這樣處理後的文字仍能部分理解，但玩起來會非常搞笑。<br>該模組會快取所有來自Google翻譯的回應，以減少載入時間，因為建立快取可能需要長達3小時（約5000條文字）。<br>這使得在生成快取後，對載入/效能不會有重大影響。<br>事實上，模組中甚至包含預先生成的名稱快取，並會在可能的情況下使用。<br>您還可以下載包含大多數模組預快取回應的附加檔案，以提升速度，但會佔用稍多的磁碟空間。<br>請注意，生成附加檔案需要一些時間，因此更新後可能不會立即可用。<br>這應該能與大多數使用原版翻譯系統的其他模組良好相容。</p><p>您可以配置以下項目：<br>- 所有文字應翻譯的次數（預設為10次，需要重新建立快取）<br>- 是否使用隨機語言作為來源語言（這會導致大多數文字難以辨認，需要重新建立快取）<br>- 翻譯的目標語言，應與遊戲語言相同。您可以使用「auto」嘗試自動偵測<br>- 翻譯進度指示器，用於監控初始生成過程</p><p><a style=\"background-color:#ffffff\" href=\"/linkout?remoteUrl=https%253a%252f%252fjfronny.gitlab.io%252fcontact.html\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/-聯絡我們-informational\" alt=\"聯絡我們\" width=\"53\" height=\"20\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

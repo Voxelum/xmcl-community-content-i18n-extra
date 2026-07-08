@@ -1,0 +1,6 @@
+{
+  "bodyHash": "iZ2Wujf4dfM=",
+  "content": "# 設定時間不會重置天數計算\n\n## 備註：\n自26.1版本起，此為預設的官方行為，本模組將不會更新至26.1之後的版本。\n\n---\n\n你是否曾經因為不小心使用了 `/time set day`，結果天數計算被重置回0而感到煩惱？\n\n那麼，這個模組能解決這個問題！它能確保當你設定時間時，時間會自動調整至最接近的白天、正午、夜晚或午夜。也就是說，設定時間只會向前推進，從而保留你的天數計算！\n\n如果你使用像 `/time set 20` 這樣的指令，它依然會將時間設定為20刻（這會讓你的世界重置回第0天）。\n\n---\n\n如果你想在 Neoforge 中使用這個模組，我建議你搭配 [Sinytra Connector](https://modrinth.com/mod/connector) 來使用 Fabric 版本。\n\n## 支援\n\n如果你遇到任何問題或有任何建議，歡迎：\n\n- 在 GitHub 上提出問題。\n\n- 在 Discord 上私訊我：@macuguita。\n\n- 你可以自由地在這個平台上的任何模組包中使用此模組。\n\n---\n\n## 製作人員\n\n- 開發者：macuguita",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

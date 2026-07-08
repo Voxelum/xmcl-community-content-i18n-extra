@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WADemkdDLUU=",
+  "content": "<h1>快速潛影盒多功能模組</h1><p>無需放置即可快速開啟潛影盒（及更多物品），並使用<a href=\"https://github.com/Fallen-Breath/preprocessor\" rel=\"nofollow\">預處理器</a>進行重構<br>\n支援 Minecraft 1.20.6 至最新版本\n歡迎為本專案添加本地化翻譯！</p><p>使用多版本建置工具預處理器，快速為多個 Minecraft 版本建構模組。</p><p>本專案的上游來源 <a href=\"https://github.com/MoRanpcy/quickshulker\" rel=\"nofollow\">MoRanpcy/quickshulker</a> 將 <a href=\"https://github.com/kyrptonaught\" rel=\"nofollow\">kyrptonaught</a> 的 <a href=\"https://github.com/kyrptonaught/quickshulker\" rel=\"nofollow\">QuickShulker</a> 模組升級至更高的 Minecraft 版本，並修復了一些問題。</p><p>快速潛影盒提供多種可設定的開啟方式，您可以自由啟用或停用：</p><ul>\n<li>手持物品時按下快捷鍵</li>\n<li>手持物品時點擊右鍵</li>\n<li>在物品欄中滑鼠懸停於物品上時按下快捷鍵</li>\n<li>在物品欄中滑鼠懸停於物品上時點擊右鍵</li>\n</ul><p>現在可以像在物品欄中操作束口袋一樣與潛影盒（及其他物品）互動！</p><ul>\n<li>右手持物品對潛影盒點擊右鍵，可將該物品放入潛影盒</li>\n<li>右手持潛影盒對物品點擊右鍵，可拾取並放入該物品</li>\n<li>手持潛影盒對物品欄空格點擊右鍵，可將潛影盒內最後一個物品取出至該位置</li>\n</ul><p>^上述每一項功能皆可在設定中關閉</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

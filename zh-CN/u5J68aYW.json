@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/G4bJTWi+LE=",
+  "content": "Occultism KubeJS 为 Occultism 提供了 KubeJS 集成。\n\n# 功能\n\n## 仪式虚拟物品\n\n启用了 KubeJS ItemType \"occultism:ritual_dummy\"，允许创建用于自定义仪式的仪式虚拟物品。仪式虚拟物品可用于调试仪式，并作为 JEI 集成，使仪式可搜索。\n\n## 配方支持\n为 KubeJS 添加了对 Occultism 配方类型的原生支持！你现在可以像这个示例中一样创建自定义 Occultism 配方：https://github.com/klikli-dev/occultism-kubejs/blob/version/1.19/run/kubejs/server_scripts/example.js\n\n我强烈推荐使用 ProbeJS 来查看所有可以自定义仪式输入条件的不同方法！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

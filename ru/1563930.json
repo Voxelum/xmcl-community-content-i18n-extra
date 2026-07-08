@@ -1,0 +1,6 @@
+{
+  "bodyHash": "p0fL9ilX4M0=",
+  "content": "<p>Полный двуязычный отчёт сохранён в файл DESCRIPTION.md (готов к вставке на страницу Modrinth/CurseForge). Он включает: что такое hitstop, список функций (заморозка анимации / дрожание камеры / заморозка мобов / вес по категориям Better Combat / поддержка навыков Spell Engine / акцент на критические удары), три способа настройки (меню мода, JSON, команды /hitstop), матрицу зависимостей (требуется Fabric API + Better Combat + Player Animation Library; опционально Spell Engine + Mod Menu) и строку с благодарностью за концепцию тяжёлого оружия от NeoForge.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

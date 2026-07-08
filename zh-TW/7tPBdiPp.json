@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/DKbqpubsbs=",
+  "content": "這是 1.12.2 版本 [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) 的一個分支，新增了一個能存放 192 組物品的獄髓箱，容量幾乎是鑽石箱、水晶箱和黑曜石箱的兩倍。這三種箱子都可以升級為獄髓箱。同時也包含了界伏盒的支援。\n\n![一個獄髓箱靠在石塊牆上，左邊是鑽石箱，右邊是鐵箱](https://cdn.modrinth.com/data/cached_images/80566a361f35401a1b9063d51731debf934e0a90.png)\n![一個 8x24 的容器介面](https://cdn.modrinth.com/data/cached_images/b51bec5b867549b34f72ace5496f4e26b7f3d512.png)\n![每種界伏盒顏色的獄髓變體](https://cdn.modrinth.com/data/cached_images/0d3989fdf78a06d4530309bb2db09668744884ab.png)\n\n**額外功能**\n- 可選的界伏盒配方平衡調整\n- 可選的根據材料變色選單\n\n這個模組不需要像 [Future MC](https://modrinth.com/mod/future-mc) 這類的向下移植模組即可使用，但在生存模式中無法取得獄髓箱。只要任何模組的獄髓有正確的 OreDict 標籤，都可以用於合成配方。\n\n箱子物品的防火代碼取自 [Unseen's Nether Backport](https://www.curseforge.com/minecraft/mc-mods/unseens-nether-backport/files/6507374)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

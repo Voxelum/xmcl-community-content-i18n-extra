@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QYp8pbM8/34=",
+  "content": "![可見實體](https://cdn.modrinth.com/data/cached_images/015a637914247dc02615cc9dbda91b77b438a9b6.png)  \n\n這是一個主要為客戶端設計的 Fabric 模組，能讓地圖製作更輕鬆，功能包括：  \n\n* 顯示通常僅在旁觀者模式可見的生物  \n* 互動方塊的碰撞框  \n* 隱藏的物品展示框（itemFrames）  \n* 標記點（需伺服器端支援）  \n\n可透過 <kbd>N</kbd> 鍵快速開關此模組  \n\n![顯示隱藏的盔甲架與互動碰撞框](https://cdn.modrinth.com/data/cached_images/b48ff5b42b64ec8ee3c4eb4535367291c45af624.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

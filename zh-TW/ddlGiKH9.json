@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cOibPdrrE7Q=",
+  "content": "# Jade 附加元件：TFMG 相容\n\n**直接在 Jade 的工具提示 HUD 中查看 TFMG 的電力數據 — 無需額外疊加層。**\n\n---\n\n## 這是什麼？\n\n[Create: The Factory Must Grow (TFMG)](https://www.curseforge.com/minecraft/mc-mods/create-industry) 新增的電機機器會透過專屬的畫面空間疊加層（即 TFMG 自己的「護目鏡」視圖）來顯示電壓、電流與功率使用量。\n\n[Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons) 能將 Create 的護目鏡讀數帶入 [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) 的方塊工具提示面板中。但預設情況下，它完全不了解 TFMG 的電力系統。\n\n**本模組正是為了填補這個缺口。** 它將 TFMG 的萬用電表數據直接掛載到 Jade 的工具提示中，讓你可以光靠視線就能檢查任何電機機器 — 就像你檢查其他所有 Create 方塊一樣。\n\n## 功能特色\n- **Jade 中的萬用電表數據** — 任何 TFMG 電力方塊（包含多方塊結構）的電壓、電流與功率都會顯示在 Jade 的 HUD 面板中。\n- **尊重 Jade Addons 的護目鏡模式** — 當 Jade Addons 的整合式護目鏡模式啟用時，此資料提供者會自動隱藏，確保你永遠不會看到重複的資訊。\n- **三個可設定的開關**（可在 Jade 的遊戲內設定面板中調整）：\n\n  | 開關 | 預設值 | 說明 |\n  |---|---|---|\n  | 需要萬用電表 | 關閉 | 僅在手持萬用電表或將其裝備於 Curios 欄位時顯示數據 |\n  | 需要護目鏡 | 關閉 | 僅在配戴 Create 護目鏡時顯示數據 |\n  | 詳細模式 | 關閉 | 僅在蹲下時顯示數據 |\n\n- **Curios 腰帶欄位支援萬用電表** — 所有 17 種顏色版本的 TFMG 萬用電表均可裝備於 Curios 腰帶欄位，讓它們被視為「已持有」而不佔用手部空間。\n\nCurios 為完全可選模組。若未安裝，則「需要萬用電表」開關只會檢查主手與副手。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

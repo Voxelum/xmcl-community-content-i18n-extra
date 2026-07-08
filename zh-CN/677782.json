@@ -1,0 +1,6 @@
+{
+  "bodyHash": "B5bGJeG3HcI=",
+  "content": "<p>ArchaicFix 为 Minecraft 1.7.10 实现了多项漏洞修复和性能优化。完整列表请参阅 GitHub 上的 <a href=\"https://github.com/embeddedt/ArchaicFix#readme\" rel=\"nofollow\">README</a>，以下为部分亮点：</p><p>&nbsp;</p><ul>\n<li>消除/减轻 1.7.10 中臭名昭著的客户端卡顿现象，尤其是在丛林等光照更新频繁的生物群系中</li>\n<li>向后移植了 <a href=\"https://github.com/embeddedt/phosphor-forge112/tree/1.12.x/stable\" rel=\"nofollow\">Phosphor</a> 光照引擎（原仓库已不可用，此链接指向我的 1.12 分支，最接近原版且仍保留原始分支）</li>\n<li>修复了大量原版游戏中的其他问题</li>\n</ul><p>&nbsp;</p><p>此外，ArchaicFix 还修补了其他模组中一些常见的烦人问题。</p><p>&nbsp;</p><p><strong>较新版本的 ArchaicFix 需要安装兼容 GTNHMixins 的 Mixin 加载器，如 <a href=\"https://beta.curseforge.com/minecraft/mc-mods/unimixins\" rel=\"nofollow\">UniMixins</a>。</strong></p><p>&nbsp;</p><p><strong><img src=\"https://cdn.modrinth.com/data/cached_images/c537b7f7d52aee93c4c2f3990a0a305da38ce041.jpeg\" alt=\"\" width=\"500\" height=\"500\"></strong></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ge1K0pZd744=",
+  "content": "<h1>幻化模組</h1><p>解決Minecraft長久以來「裝備不夠帥」的經典難題！<br>\n幻化功能讓您隨心改變物品外觀，完全不會影響原有屬性！<br>\n適用於盔甲、武器、工具及任何您能想像的物品！</p><p><img src=\"https://i.imgur.com/woiAHnV.png\" alt=\"\"> <img src=\"https://i.imgur.com/emVdmtV.png\" alt=\"\"> <img src=\"https://i.imgur.com/5if3YW8.png\" alt=\"\"><br>\n<img src=\"https://i.imgur.com/27uCep2.png\" alt=\"\"></p><h2><strong>完全兼容各模組新增物品</strong>！</h2><p><img src=\"https://i.imgur.com/Rr4Hjk0.png\" alt=\"\"><br>\n<strong>更多範例請見圖片展示區！</strong></p><h1>新增物品與方塊</h1><h2>虛空碎片</h2><p>合成幻化工作台的必備材料，還能讓物品隱形！<br>\n<img src=\"https://i.imgur.com/TReHHkq.png\" alt=\"\"></p><h2>幻化工作台</h2><p>本模組核心方塊，用於進行物品幻化<br>\n<img src=\"https://i.imgur.com/DFmUHbn.png\" alt=\"\"></p><h1>幻化機制說明</h1><p>放置幻化工作台後右鍵點擊開啟操作介面：<br>\n<img src=\"https://i.imgur.com/h2xB6Fn.png\" alt=\"\"><br>\n從左至右欄位功能：</p><ol>\n<li>燃料槽：每顆紫水晶碎片可充能幻化工作台，每次操作消耗三分之一能量</li>\n<li>目標槽：放置待幻化的物品</li>\n<li>外觀槽：放置決定目標物品外觀的樣本物品，操作過程中<strong>不會</strong>消耗</li>\n</ol><h2>外觀規則</h2><p>多數情況下，外觀槽物品將直接成為目標物品的外觀，例外情況：</p><ul>\n<li>已幻化物品：目標物品將繼承現有幻化外觀，而非樣本物品原始外觀</li>\n<li>虛空碎片：放置時可將目標物品幻化為隱形狀態</li>\n</ul><p>若要解除幻化效果，只需將物品單獨放入幻化工作台不放置外觀樣本即可</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ujYkIhS6E4g=",
+  "content": "**EMI Plushie 搜索模组** 是一款轻量级的客户端实用模组，通过为所有与 Cobblemon 毛绒玩偶相关的物品添加高亮筛选功能，帮助你优化背包管理！\n\n**功能特色**\n\n只需双击 EMI 搜索栏（开启黄色高亮模式），输入以下任意标签，即可立即在箱子中高亮显示匹配物品：\n\n- `gen=[1-9]`（例如 `gen=1` 可高亮关都地区毛绒玩偶）\n- `type=[类型]`（例如 `type=fire` 火系、`type=dragon` 龙系）\n- `legendary=true`（传说宝可梦）\n- `mythical=true`（幻之宝可梦）\n- `pseudo=true`（高亮准传说宝可梦，如快龙、巨金怪）\n- `starter=true`（高亮所有初始形态及其进化形态！）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WuhG2m1IL3w=",
+  "content": "<h3>LootStories</h3><p><strong>LootStories</strong> 在冒險中增添了一些神秘與傳說，透過將<em>書本</em>放入戰利品箱中。</p><p>每本書都包含一段由 <strong>DeepSeek</strong> 或 <strong>ChatGPT</strong> 生成的短篇故事。</p><p>你也可以透過在 <code>config/lootstories/</code> 資料夾中加入 <code>.txt</code> 檔案來包含自己的故事。如果設定上有困難，可以參考設定檔資料夾中的 readme。</p><h3>依賴</h3><p>如果你安裝了 <strong>Jsonate</strong>，則可以設定這些書本的戰利品生成機率、故事權重以及戰利品表綁定。不過這並非必要條件。</p><p>此模組需要 <strong>Modern UI</strong>，否則文字會變得很難看。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

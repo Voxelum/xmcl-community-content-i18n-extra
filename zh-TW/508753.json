@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+SZ9KpQxeQ8=",
+  "content": "<p>&gt; 什麼是 Moneta 貨幣？</p><p>簡而言之，這個模組允許玩家驅動的經濟體系自然形成。Moneta 是一種<strong>不可複製</strong>的貨幣，可以在玩家之間交易。</p><p>&gt; 它有什麼具體用途？</p><p><strong>區塊加載</strong> - 這將是伺服器上唯一的區塊加載模組，區塊加載需要花費金錢來運作，費用會根據你擁有的加載器數量而調整（可設定）。</p><p><strong>拍賣行</strong> - 在這裡你可以以任何價格列出任何物品。每天每個上架物品都會收取一筆上架費。</p><p>&gt; 如何獲得 Moneta？</p><p>- 每天登入時，你會獲得 100 Moneta（可設定）。</p><p>- 每次獲得新成就時，你會獲得 100 Moneta（可設定）。</p><p>- <strong>殺死一名玩家時，你會獲得其「數位」錢包中 Moneta 的 10%。</strong></p><p>&gt; 如何在 PvP 中避免失去我的 Moneta？</p><p>你可以隨時在金庫中將你的數位 Moneta 提取成實體貨幣。這樣做可以防止你在死亡時損失這些 Moneta，但也會讓任何人如果找到它們就能偷走。</p><p>&gt; 還有其他注意事項嗎？</p><p>- 如果你的隊伍金庫被破壞，所有存放的 Moneta 將會掉落，隊伍也會解散</p><p>- 你擁有的區塊加載器越多，維護費用就越高</p><p>- 你在拍賣行上架的物品越多，上架費用就越高</p><p>&gt; 它是如何實現不可複製的？</p><p>每疊現金都有自己的 UUID，如果你兌換了一疊，該 UUID 將被移除，不再被接受。</p><p><strong>支持我</strong></p><ul>\n<li>加入我的 <a href=\"https://discord.gg/pCws5wJ2yT\" rel=\"nofollow\">Discord 伺服器</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

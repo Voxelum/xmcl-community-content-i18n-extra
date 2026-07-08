@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ewDq3Ws4fs0=",
+  "content": "# 更佳飛行\n![標誌](https://cdn.modrinth.com/data/cached_images/ae6fd5b335ee59059c542e5bc427ce7e35a2fb92.png)\n本專案是 [ArkVeil](https://www.curseforge.com/members/arkveil/projects) 所開發 [Better Flight [Forge]](https://www.curseforge.com/minecraft/mc-mods/better-flight-forge) 的非官方 Fabric 移植版。\n\n此移植版由 [AtlasM8](https://modrinth.com/user/AtlasM8) 使用 AI 技術建立，並由 [NotchArrow](https://modrinth.com/user/NotchArrow) 在過程中進行錯誤修復。\n\n# 功能說明\n拍動翅膀 **預設按鍵：Z** 可消耗飛行耐力獲得推進加速，飛行耐力會從飢餓值自動恢復。\n\n展開翅膀 **預設按鍵：X** 可減緩飛行速度，讓您能在半空中從容決策。\n\n# 相依項目\n💍 [Trinkets](https://modrinth.com/mod/trinkets)\n\n本模組需搭配 Trinkets 運行，因為專案設計需配合 [Elytra Slot](https://modrinth.com/mod/elytra-slot) 使用——該模組透過 Trinkets 讓您能同時裝備胸甲與鞘翅。您可單獨安裝 Trinkets，但將無法實現完整功能。\n\n[Discord](https://discord.gg/ZCaGkZeb4C)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

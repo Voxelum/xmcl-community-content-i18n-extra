@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Jbg0DD1Pm4g=",
+  "content": "![# Enchantment Glint Outline](https://cdn.modrinth.com/data/cached_images/89219ba9253b0f00e1afad8da4fae2344ff92fd5.png)\n<hr/>\n為附魔物品添加可自訂的輪廓，靈感來自基岩版上的 Actions and Stuff 資源包。\n<br/>\n<br/>\n\n![展示附魔鑽石劍不同效果的圖片](https://cdn.modrinth.com/data/Qx2rzv1x/images/93e92f52cbece1e482bc80140878be590f8c8b45.png)\n\n### 可自訂\n透過使用 [Mod Menu](https://modrinth.com/project/mOgUt4GM) 和 [YACL](https://modrinth.com/project/1eAoo2KR)，您可以隨時自訂風格、顏色與切換模組功能。\n\n### 為什麼是模組而非資源包？\n使用模組可以 **支援自訂資源包功能**，這表示您仍能透過資源包變更物品模型與附魔閃爍紋理，且效果依然正常（請見圖庫）。它甚至能與 **其他模組新增的物品** 相容，只要這些物品未自行處理渲染即可。\n\n### 能與 Sodium 相容嗎？\n**可以！** 儘管 Sodium 大幅改寫了 Minecraft 的渲染程式碼，本模組仍能以不受 Sodium 變更影響的方式運作（下載前請先確認特定版本的相容性頁面）。_然而_ 本模組仍會修改渲染，因此可能與其他大幅變更渲染的模組（如光影包）產生衝突。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

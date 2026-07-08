@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hfysyG4CIuA=",
+  "content": "元素工藝是一個以四大元素：火、水、土、風為基礎的魔法模組。\n\n本專案包含全新資源：元素，以及採集這些元素並運用於不同工藝的方法：灌注、綁定等。您還能透過神壇在世界中引導元素力量，實現作物生長、將石頭轉化為岩漿或採集礦物等功能。亦可使用灌注器強化現有附魔效果，或為工具附加全新能力。\n\n此專案目前仍處於早期開發階段，許多功能可能會有變動。本模組適合在模組包中使用，並盡可能採用資料包（標籤與合成表）與Forge配置等機能。\n\n您可在此觀看介紹影片[此處](https://www.reddit.com/r/feedthebeast/comments/in2ask/elemental_craft_first_release_forge_1152_and_1162/)。\n法術展示請見[此處](https://www.reddit.com/r/feedthebeast/comments/j6utqu/elementalcraft_spell_system_presentation/)。\n\n### 簡易入門指南：\n首先從礦石中尋找惰性水晶，這是模組的起點。您需要將惰性水晶用金粒環繞製作成封存水晶。接著用它們製作兩個儲存槽、一個萃取器、一個灌注器以及若干管道。\n\n集齊這些設備後，開始探索並尋找元素源。將萃取器置於元素源下方，儲存槽放在萃取器下方。隨後在附近放置第二個儲存槽，並將灌注器置於其上，用管道連接所有設備。對接在萃取器儲存槽的管道區塊點擊右鍵即可啟動系統。現在您可對灌注器點擊右鍵放入惰性水晶，開始製作灌注水晶。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

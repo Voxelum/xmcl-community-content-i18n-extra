@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TYr36m5uUk0=",
+  "content": "# 暗礁改造 (Reef Redux - NeoForge 1.21.1 移植版)\n\n本模组改进了珊瑚礁的世界生成，用天然岩石地形取代了原版平坦的暗礁。\n\n珊瑚不再直接从平坦的海底生长，而是生成在岩石露头上，创造出更加多样且自然的海洋地形。\n\n## 特性\n\n- **岩石珊瑚礁**  \n  珊瑚现在会在石头结构上生成，而非平坦的海底。\n\n- **自然形态**  \n  暗礁可能包含洞穴、拱门和不平坦的地形。\n\n- **原版珊瑚支持**  \n  原版珊瑚种类仍能在新的暗礁结构上正常生成。\n\n- **配置选项**  \n  `disableVanillaCorals`（默认值：false）  \n  允许禁用原版珊瑚礁的生成。\n\n## 移植信息\n\n这是 **Reef Redux** 针对 **Minecraft 1.21.1 在 NeoForge 平台** 的更新移植版本。\n\n原模组作者：**codyhuh**  \nhttps://modrinth.com/mod/reef-redux",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

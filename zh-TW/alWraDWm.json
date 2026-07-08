@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eE5xdcjxOCE=",
+  "content": "# Eido-Flora\n\n### 簡介\nEido-Flora 新增植物並以超過 100 種手工自訂植物及花卉取代原版植被，豐富 Minecraft 的生態域。設計上相容於地形生成模組，且易於擴展。\n\n### 特色\n- 全新植物！\n- 以自訂模型與材質取代原版植物\n- 資料驅動的世界生成功能（以 NBT 為基礎的樹木與群聚植物結構）\n- 多種植物方塊、物品及行為（澆水盆栽、生長調整）\n- 相容於 Neoforge 及常見的世界生成模組\n\n### 相容性與需求\n- 相容於 Neoforge / Minecraft 模組載入器（依專案元資料而定）\n- 與大多數地形生成模組相容，但邊緣情況可能需要設定\n\n# 開發者快速入門\n- 使用 Gradle 建置（包含包裝器）：\n  .\\gradlew.bat build\n- 在開發環境中執行用戶端（如有設定）：\n  .\\gradlew.bat runClient\n\n### 編輯位置\n- 程式碼：`src/main/java/fr/Eidolyth/`（模組進入點、方塊、物品、世界生成、植物）\n- 資源：`src/main/resources/assets/eidoplants/`（方塊狀態、模型、材質、語言）\n- 資料包與世界生成：`src/main/resources/data/eidoplants/`（世界生成、結構、配方、標籤）\n\n### 貢獻方式\n- 前往 GitHub 專案頁面 https://github.com/Samuel-Chapuis/Eido-Flora\n- 為每個功能或錯誤修復建立獨立分支。\n- 遵循專案的 `doc/gitSyntax.md` 進行提交訊息與 PR 規範。\n- 提交拉取請求以供審查。\n\n### 作者與感謝\n- Samuel Chapuis (Thorid4n) — 專案負責人\n- Avixy — 開發人員\n- Fabrice Lozac'h (Fab0uu) — 網路開發人員\n\n# 連結\n- 網站：https://mc.berryblue.fr/\n- Discord：https://discord.gg/brwbTkNnTx\n- 授權：MIT（詳見 LICENSE）\n\n如果您需要更短或更長的 Modrinth 描述（2-3 句簡短摘要或完整功能頁面），請告訴我長度，我會進行調整。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

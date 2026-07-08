@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KjR4vF5nxJQ=",
+  "content": "### 注意事項\n此模組需要 [hsglib](https://modrinth.com/mod/hsglib)。同時需要 Mod Menu 和 YetAnotherConfigLib(YACL) 才能開啟 3 個設定畫面。\n### 攻擊切換\n當手持農具時啟用原版攻擊切換選項。僅適用於 12 種特定工具。攻擊切換時也會顯示標籤提示。\n### 控制器（搖桿）操控\n使用第一個控制器進行移動、收割作物，並可開啟物品欄暫停移動與收割動作。請務必先設定按鍵對應。\n### 農場邊界提醒\n當接近農場邊界時，會顯示倒數數字提醒您切換耕作方向。請務必先設定 2 個方塊位置來標記農場邊界。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

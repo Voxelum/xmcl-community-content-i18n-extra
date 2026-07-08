@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eqQrQklO68o=",
+  "content": "<h1>生存++</h1><blockquote>\n  <p>一个关于游戏技术选项控制的Minecraft Neoforge模组</p>\n</blockquote><h2>主要功能</h2><h3>死亡位置广播</h3><blockquote>\n  <p>当玩家死亡时，将死亡位置发送到聊天栏</p>\n</blockquote><ul>\n<li>启用：<code>/rg broadcastDeathPosition true</code></li>\n</ul><h3>简易游戏内计算器</h3><blockquote>\n  <p>游戏中的简易计算器</p>\n</blockquote><ul>\n<li>启用：<code>/rg simpleInGameCalculator true</code></li>\n<li>使用方法：<ul>\n<li><code>=1+1</code></li>\n<li><code>=1+1*2</code></li>\n<li><code>=1+1*2/3</code></li>\n<li><code>=1+1*2/3^4</code></li></ul></li>\n</ul><h3>创造模式无碰撞穿墙</h3><blockquote>\n  <p>创造模式无碰撞穿墙</p>\n  <ul>\n  <li>启用：<code>/rg creativeNoClip true</code></li>\n  </ul>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

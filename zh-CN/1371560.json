@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OzWdwsdDF60=",
+  "content": "<h2>通用反馈</h2><p>本模组提供了一个便捷的GUI界面和可选的KJS接口，让玩家能够在游戏内实时向开发者发送反馈。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/364aaa0f71f7418df54407f6a46a0fee08792950.jpeg\" alt=\"界面\"></p><p>反馈分为全局模式和本地模式。全局反馈适用于整合包或服务器使用，配置非常简单。</p><p>本地反馈可供单个模组使用——它们共享同一HUD，但彼此互不干扰。</p><p>默认情况下，全局反馈入口位于生存模式物品栏、暂停菜单和死亡菜单中；这些入口可通过配置文件隐藏。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/793d9637589457761752b74c6c367e30772f39c0.png\" alt=\"图片\"></p><p>对于普通玩家，只需像往常一样安装并使用本模组即可。</p><p>对于开发者，自定义设置非常简单——请参考下方的<a href=\"/linkout?remoteUrl=https%253a%252f%252fdoc.sighs.cc%252fen%252fGeneralFeedback%252fdev\" target=\"_blank\" rel=\"nofollow\"><strong>开发者手册</strong></a>。</p><p>默认情况下，本模组使用GitHub Issues作为反馈收集后端。</p><p>此外，模组还支持：</p><ul>\n<li>自定义打开反馈界面的触发条件（例如，当玩家跳跃时打开反馈UI）；</li>\n<li>发送额外信息（需要KJS支持），例如将玩家背包信息随反馈一并发送；</li>\n<li>自定义第三方API调用——若您偏愛其他服务，完全不限于Vika。</li>\n</ul><p>由于涉及玩家游戏内数据，本模组所有功能及相关扩展均为完全透明。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uIVRI+/PyFA=",
+  "content": "你的选项将得到尊重，由“选项权利协会”团队提供。\n\n这个模组有一个简单的功能，即在相应的选项文件不存在时提供默认选项。\n\n### 示例 1 (options.txt)\n\n创建 /config/yosbr/options.txt\n在其中放入默认内容\n启动游戏！如果 /options.txt 不存在，YOSBR 会将 /config/yosbr/options.txt 复制到 /options.txt\n### 示例 2 (config/roughlyenoughitems/config.json5)\n\n创建 /config/yosbr/config/roughlyenoughitems/config.json5\n在其中放入默认内容\n启动游戏！如果 /config/roughlyenoughitems/config.json5 不存在，YOSBR 会将 /config/yosbr/config/roughlyenoughitems/config.json5 复制到 /config/roughlyenoughitems/config.json5\n\n需要 Fabric Loader。（不需要 API）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

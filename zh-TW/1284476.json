@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1o4UjHl9TcY=",
+  "content": "<p>這是一個修改Minecolonies模組中快遞員單次訂單接受與運送能力的模組。</p><p>在原版Minecolonies模組中，當快遞員面臨運送多個物品的請求時（例如一次要求運送6,400片玻璃），受限於快遞員有限的運輸能力，完成此類請求所需的時間會過長。本模組大幅提升單一快遞員滿足單一建築運送需求的能力。</p><p>1.0.2 新增功能：（需安裝機械動力6.0或更高版本）使用物品清單（僅能透過剪貼簿生成）右鍵點擊信箱，將自動請求清單上的物品。</p><p><strong>使用說明</strong>：<br>載入模組後，會在Minecraft的config資料夾中生成一個名為「minecolonies_modernization_update-common.toml」的檔案。只需修改此檔案中的「extended_reqs」數值，即可調整快遞員的運送能力。</p><p>&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/description/1284476/description_d849d225-7def-4e39-a163-b8aa985580a8.gif\" alt=\"\" width=\"400\" height=\"240\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

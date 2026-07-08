@@ -1,0 +1,6 @@
+{
+  "bodyHash": "76QvG4FwxJs=",
+  "content": "# 禁用將耐久附魔應用於鞘翅，並取消已附有耐久附魔的鞘翅效果\n\n### 安裝方法（Fabric/Forge/Quilt）：\n這些模組的功能與資料包相同，但會應用於所有安裝此模組後創建或啟用的世界。若您不希望此功能應用於所有世界，請改用資料包。\n\n**Forge**：\n無需任何依賴，只需將模組放入「mods」資料夾中。\n\n**Fabric**：\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)。\n\n**Quilt**：\n需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)。\n\n### PurpurPacks\nPurpurPacks 是建議加入 [Purpur](https://purpurmc.org/) 伺服器軟體的功能——或符合 Purpur 主題，但被認為更適合以資料包形式呈現的功能！\n\n每個資料包的功能與 Purpur 中的單一設定選項相同。它們可以隨時添加或移除，而不會損壞伺服器。\n\n這些資料包不依賴於 Purpur；它們在原版或任何其他伺服器軟體中都能完全正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

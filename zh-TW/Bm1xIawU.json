@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1mvr+g6tqeE=",
+  "content": "# LeadPhysics\n\nLeadPhysics 將原版僵直的拴繩外觀替換為更真實的物理繩索模擬，同時保持模組輕量化且為客戶端專用。\n\n### 注意：本模組不會改變原版拴繩的物理機制！！！\n\n## 功能特色\n\n- 物理繩索模擬取代僵硬的原始直線\n- 可設定的 2D 和 3D 拴繩渲染\n- 可調整的物理強度\n- 可選的方塊碰撞功能\n- 支援 Mod Menu 的客戶端設定介面\n- 保留原版拴繩邏輯不變\n\n## 設定選項\n\nLeadPhysics 提供遊戲內設定介面，您可調整：\n\n- 啟用或停用模組\n- 渲染模式：2D 或 3D\n- 物理強度\n- 方塊碰撞\n\n## 相容性\n\n- Fabric\n- 客戶端專用\n- 支援 Mod Menu\n\n可用版本分支與建置：\n\n- `1.21.9`\n- `1.21.10`\n- `1.21.11`\n- `26.1`\n\n## 相關連結\n\n- Modrinth：https://modrinth.com/project/leadphysics\n- CurseForge：https://curseforge.com/minecraft/mc-mods/leadphysics\n- 問題回報：https://github.com/manukek/LeadPhysics/issues\n- 原始碼：https://github.com/manukek/LeadPhysics\n\n## 製作人員\n\n- 作者：[Manukq](https://t.me/ugolokmanukq)\n- 標誌設計：[mabron](https://t.me/mabcave)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

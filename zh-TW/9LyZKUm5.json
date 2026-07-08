@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qMYM0vO8u7Y=",
+  "content": "# Millenaire JEI 插件\n\n此模組為 [Millenaire 模組](https://millenaire.org/) 的許多方面添加了 JEI 支援\n\n## 功能\n\n村民可買賣的物品\n\n- 包含價格以及適用的村莊類型和建築物\n\n村民如何自行獲取各種物品\n\n- 如果村民沒有庫存物品可出售，或者需要升級建築物時非常有用\n- 包括採礦/採集、製作和屠宰動物\n\n一些 Millenaire 特有的製作技術\n\n- 使用磚模製作泥磚並在陽光下曬乾\n- 用於彩繪磚塊的油漆桶\n\n隱藏一些 Millenaire 的「技術性」方塊以減少 JEI 的冗餘\n\n- 用於村莊幕後運作的物品，玩家不會與之互動\n- 例如動物生成方塊和村民開採的來源方塊\n\n以上每項都可以在此模組的配置文件中切換\n\n所有交易和村民製作配方都是從 Millenaire 的配置文件中加載的，因此應該支援自訂文化/模組\n\n## 模組包\n\n是的，您可以在模組包中使用此模組。\n\n## 截圖\n\n![從村莊購買](https://raw.githubusercontent.com/sguest/millenaire-jei/main/screenshots/BuyFromVillage.png)\n![賣給村莊](https://raw.githubusercontent.com/sguest/millenaire-jei/main/screenshots/SellToVillage.png)\n![村民製作](https://raw.githubusercontent.com/sguest/millenaire-jei/main/screenshots/VillagerCrafting.png)\n![村民屠宰](https://raw.githubusercontent.com/sguest/millenaire-jei/main/screenshots/VillagerSlaughter.png)\n![桶裝油漆](https://raw.githubusercontent.com/sguest/millenaire-jei/main/screenshots/BucketPainting.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CbARsGFZHYA=",
+  "content": "<h1>Клавиши по умолчанию</h1><p>Этот мод позволяет задать клавиши по умолчанию для любых назначений клавиш.</p><h2>Использование</h2><p>Файл конфигурации <code>.minecraft\\config\\default-hotkeys.json</code> будет автоматически создан после первого полного запуска. (Чтобы корректно загружать переводы)</p><pre><code>[\n  {\n    // перевод ключа\n    \"comment\": \"key.advancements\",\n    // перевод на текущий язык\n    \"translation\": \"Достижения\",\n    // клавиша в формате vanilla\n    \"key\": \"key.keyboard.l\"\n  },\n  //...больше\n]</code></pre><p>С полным списком доступных значений клавиш можно ознакомиться\n<a href=\"https://github.com/CodeOfArdonia/DefaultHotkeys/blob/894408a90dd5aa795268dbe919ea7c9fc4866519/common/src/main/java/com/iafenvoy/dhks/Keys.java#L29\" target=\"_blank\" rel=\"nofollow\">Keys.java</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

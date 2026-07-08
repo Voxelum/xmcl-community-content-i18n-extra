@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1js4yAPgh+E=",
+  "content": "歡迎使用 **Create: Dragons Plus**。此模組為玩家提供便利功能，並為 Create 模組附加內容開發者提供開發工具。\n\n### 目前提供：\n* **批量染色**：使用**染劑流體**搭配**包覆風扇**對物品進行染色，支援大多數使用染料的合成配方。\n* **批量冷凍**：使用**粉雪**搭配**包覆風扇**來冷凍物品。\n* **批量終界賦能**：使用**龍首**或**龍之吐息（流體）**搭配**包覆風扇**為物品注入來自終界的能量。\n* **批量打磨**：使用 [**流沙**](https://modrinth.com/mod/quicksand-neoforge) 搭配**包覆風扇**來拋光物品，支援所有砂紙打磨配方。（1.8.5 版本後，若批量打磨的方塊標籤包含任何方塊，該功能便會啟用。流沙不再是此功能的必要條件）\n* **流體艙口**：類似於物品艙口，提供對流體儲罐便捷的存入/取出操作。\n\n### 模組整合：\n* **Create：模擬系列**之**模擬結構**所產生的批量處理氣流，現在可與方塊互動。\n* **易碎流體儲罐**與**浮空易碎流體儲罐**：受撞擊即破裂的儲罐。（需安裝 **Create：模擬系列**）\n* 批量染色與批量冷凍支援 **Create: Granished** 的風扇處理配方。\n* 批量終界賦能、批量打磨與批量冷凍支援 **Create: Dreams & Desires** 的風扇處理配方。工業風扇亦受支援。\n* 將**批量附魔**帶入**天境**。支援天境附魔配方、修復配方及孵化天境鳳凰蛋。\n* 批量冷凍支援**天境**的冷凍庫配方。\n* 液態染料與批量染色支援來自 **Dye Depot** 與 **Dyenamics** 的染料，以及 **Arts & Crafts** 的漂白露。\n\n**所有功能均可啟用或停用，除非被依賴模組強制啟用或停用。**\n\n若您是模組包作者，需要更多資訊，請[**點此查閱**](https://github.com/DragonsPlusMinecraft/CreateDragonsPlus/blob/main/MODPACK_README.md)。\n\n[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png)](https://discord.gg/ABgu4dHnx4)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

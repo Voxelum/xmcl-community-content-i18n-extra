@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HeirYU39B+s=",
+  "content": "# 加速落葉\n\n**_樹葉快速消失_**\n\n加速落葉是一種替代性的「快速樹葉腐爛」概念，我們並非實際快速對樹葉方塊進行刻運算，而是盡快移除它們。本模組以最接近原版的方式實現此邏輯，透過延遲樹葉檢測機制，讓遊戲自然標記出可移除的樹葉。\n\n加速落葉的目標之一是減少用戶端與伺服器的延遲。我們透過基於時間的檢測系統，並大幅減少方塊的粒子效果與刻運算，成功達成此目標。\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/1c9b9598-52f3-402c-84a8-84f7779e1360.webp)](https://www.bisecthosting.com/mikey?rel=modrinth)\n\n## 運作原理\n\n一旦支撐樹葉的最後一個方塊被移除，模組便會自動尋找所有標記為 `#minecraft:leaves` 標籤的樹葉，只要它們已處於可腐爛狀態，便會將其移除。\n\n我們支援任何由 `#minecraft:logs` 標籤組成的樹木。\n\n## 為何選擇我們而非其他模組\n\n- 延遲更低是主要差異點，加上大幅簡化的程式碼基礎，對效能影響極小。\n- 採用相對開放的授權條款\n- 無複雜設定，只有開啟或關閉\n- 內建支援 Forge 與 Fabric\n\n### 為何需要安裝「architectury-api」？\n\n純粹是我懶，別再評判我了。我們會觸發並監聽一些事件，而使用「architectury」來實作這些功能會簡單許多。況且現在許多模組都已納入此 API，因此如果你正在遊玩或製作模組包，很可能早已安裝它了！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

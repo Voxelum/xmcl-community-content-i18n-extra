@@ -1,0 +1,6 @@
+{
+  "bodyHash": "upWtZG1LdXg=",
+  "content": "# 关于占位符API\n\n这是一个小巧、可随JAR嵌入的API，支持在字符串和Minecraft文本组件中创建与解析占位符。\n占位符API采用 `%modid:type%` 或 `%modid:type data%`（1.19版本前为 `%modid:type/data%`）的简易格式。\n它还包含一个简洁通用的文本格式化系统，旨在简化配置/聊天等场景下的用户输入。\n\n## 用户指南\n\n用户可通过统一方式配置多个模组，同时保持模组间兼容性。占位符系统允许用户在兼容模组中灵活调整信息显示的内容与位置。\n\n此外，简化文本格式能以可读性强的方式设置样式，无需手动编写JSON或使用生成器。\n- [使用占位符](https://placeholders.pb4.eu/user/general)\n- [默认占位符列表](https://placeholders.pb4.eu/user/default-placeholders)\n- [模组占位符列表](https://placeholders.pb4.eu/user/mod-placeholders)\n- [QuickText](https://placeholders.pb4.eu/user/quicktext)\n- [简化文本格式](https://placeholders.pb4.eu/user/text-format)\n\n通常情况下，使用此API的模组会直接包含它，若有需要也可在此处下载更新版本！\n\n## 开发者指南\n\n使用占位符API是达成良好模组兼容性的简便途径，无需实现多个模组专属API。此外，占位符解析系统可用于替换玩家创建或从配置读取的文本中的静态（或动态）占位符。结合简化文本格式，可打造出色的用户/管理员体验。\n\n- [快速入门](https://placeholders.pb4.eu/dev/getting-started)\n- [添加占位符](https://placeholders.pb4.eu/dev/adding-placeholders)\n- [解析占位符](https://placeholders.pb4.eu/dev/parsing-placeholders)\n- [文本节点与节点解析器](https://placeholders.pb4.eu/dev/text-nodes)\n- [使用简化文本格式（TextParserV1）](https://placeholders.pb4.eu/dev/text-format)\n\n*[JIJ]: Jar-in-Jar（嵌入模组依赖的打包方式）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

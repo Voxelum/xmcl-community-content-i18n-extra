@@ -1,0 +1,6 @@
+{
+  "bodyHash": "L4hNJVdnjCI=",
+  "content": "Мод, добавляющий графический интерфейс с некоторыми функциями, направленными на улучшение качества жизни, например макросы команд.\n\nУ него есть версии для Fabric* и (Neo)Forge; для версии Fabric требуется мод [fabric-language-kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin), или [kotlinforforge](https://modrinth.com/mod/kotlin-for-forge), если вы хотите использовать версию для Forge.\n\nЕсли вы хотите использовать экран конфигурации, пожалуйста, установите мод Cloth Config или мод, который его включает.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

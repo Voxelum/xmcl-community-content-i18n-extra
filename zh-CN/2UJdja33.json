@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vIdisLZ+D6c=",
+  "content": "[![加入我们的Discord](https://img.shields.io/badge/JOIN%20OUR%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4XUPywnEyE)\n\n让玩家能够穿过高草、蕨类植物及其他可被替换的非碰撞植物攻击实体。当玩家挥击可穿透的植物时，此模组会追踪攻击射线至植物后方，并将攻击重定向至射程内的可攻击实体——固体方块仍会正常阻挡攻击。\n\n**需安装在服务器端。客户端安装为可选**（原版客户端可无缝加入并正常使用）。\n单人模式说明：**完美兼容单人游戏。** 只需正常安装至mods文件夹即可。\n\n![穿透草丛攻击](https://cdn.modrinth.com/data/cached_images/7925be1c4d76adf5dcaaddd983c0e41d51e6e7b5.png)\n\n如有任何漏洞、错误或功能建议，请通过Discord反馈：https://discord.gg/4XUPywnEyE",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

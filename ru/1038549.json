@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LJq07O19rpY=",
+  "content": "<h1>Расширение Spell Engine</h1>\n<p>Это расширение для мода <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fspell-engine\" rel=\"nofollow\">Spell Engine</a>, созданного Daedelus. Само по себе оно ничего не меняет в игре, но авторам модов и паков данных теперь открываются дополнительные возможности при создании заклинаний.</p>\n<p>Возможности включают:</p>\n<ul>\n<li>Затраты здоровья на заклинания</li>\n<li>Затраты маны на заклинания (с использованием мода <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/mana-attributes\" rel=\"nofollow\">Mana Attributes</a>)</li>\n<li>Затраты выносливости на заклинания (с использованием мода <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/stamina-attributes\" rel=\"nofollow\">Stamina Attributes</a>)</li>\n<li>3 универсальные школы заклинаний (ближнего боя, дальнего боя и магии)</li>\n<li>9 атрибутов объектов, позволяющих настраивать заклинания при их применении (например, количество снарядов, степень отскока и т.д.)</li>\n<li>а также несколько других небольших (и опциональных) улучшений</li>\n</ul>\n<p>Подробную информацию можно найти <a href=\"https://github.com/TheRedBrain/spellengine-extension/blob/1.21.1/README.md\" rel=\"nofollow\">здесь</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

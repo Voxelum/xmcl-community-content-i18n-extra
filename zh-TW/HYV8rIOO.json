@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rNznnk9sZ0g=",
+  "content": "## Cleanroom Relauncher\n\n**目前僅支援透過 GitHub 發布的主要 Cleanroom 版本。**\n\n**支援用戶端重新啟動，伺服器端即將支援。**\n\n重新啟動一個帶有 Cleanroom Loader 的 Forge 1.12.2 實例。讓模組包作者能夠以 Cleanroom 為基礎建構實例。\n\n在用戶端，它提供一個圖形介面，可在首次重新啟動前配置各種設定，例如 Java 路徑和 Cleanroom 版本。\n\nCleanroom Loader 是一個全新的載入器，專門為 Minecraft 1.12.2 從 Forge Mod Loader 的根源開發而成。它具有更優異的效能、支援現代 Java，並為模組開發者提供更好的體驗。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

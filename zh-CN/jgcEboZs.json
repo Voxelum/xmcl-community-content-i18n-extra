@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4ugDPqWkIWI=",
+  "content": "# **TACZ 高级死亡信息**\n\n\n![主预览](https://cdn.modrinth.com/data/cached_images/3a4f31c451b3c20d7c9c7c102b9d850983fa5953_0.webp)\n\n**此模组新增了一个HUD，用于显示玩家击杀信息**\n\n![带边框的击杀信息](https://cdn.modrinth.com/data/cached_images/3b59c7c5bac2e82443cd28686fc06f0f81093fd3_0.webp)\n**现在消息边框可用！**\n\n\n## 外观：\n如同经典FPS击杀信息横幅。你可以在配置中选择它显示在屏幕的哪个角落。\n\n默认设置最多显示7条信息横幅，旧消息会淡出或直接消失（当信息满时）。\n\n默认颜色为：黄色（自己）、绿色（队友）、红色（敌人或个人）、灰色（生物和实体）。队伍和队友由原版的\"/team\"功能控制。\n\n![这张图片展示了一次队友击杀](https://cdn.modrinth.com/data/cached_images/13dd336d19fee7a9ff0510b1822cf5aa3032a52a_0.webp)\n\n_这张图片展示了一次队友击杀_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

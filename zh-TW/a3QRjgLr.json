@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rNGbgvVbezI=",
+  "content": "# Cobblemon LuckPerms NPC 兼容模組\n\n<div>\n  <img src=\"https://mods.matthiesen.dev/badges/matthiesenLibAPI.svg\" alt=\"Matthiesen Lib API\">\n  <img src=\"https://mods.matthiesen.dev/badges/cobblemon.svg\" alt=\"Cobblemon\">\n  <img src=\"https://mods.matthiesen.dev/badges/luckperms.svg\" alt=\"LuckPerms\">\n</div>\n\n此模組為 Cobblemon NPC 增加了與 LuckPerms 權限 API 互動的相容性。\n\n## 需求\n- [Matthiesen Lib API](https://modrinth.com/mod/matthiesen-lib-api)\n- [Cobblemon 1.7.3+](https://modrinth.com/mod/cobblemon)\n- [Luckperms 5.4](https://modrinth.com/mod/luckperms)\n\n## 說明文件\n\n本模組的說明文件可在 [mods.matthiesen.dev](https://mods.matthiesen.dev/cobblemon-luckperms-npc-compat/) 找到\n\n## 版本相容性\n\n| Minecraft 版本 | 模組版本 |\n|-------------------|-------------|\n| 1.21.1            | 1.x.x       |\n\n## 授權條款\n\nMIT - 詳見 `LICENSE`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

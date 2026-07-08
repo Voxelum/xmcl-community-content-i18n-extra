@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y+s08NlIAKE=",
+  "content": "<h1>非安全世界隨機存取檢測器 (Forge)</h1><p>這是一個用來檢測 unsafe off-thread world random access 的模組，\n幫助找出造成「Accessing LegacyRandomSource from multiple threads」崩潰的原因。</p><p>此模組對於找出 <code>Accessing LegacyRandomSource from multiple threads</code> 這類神祕崩潰的原因非常有用。<br>\n請注意，這<strong>並非</strong>問題的修復，而是幫助你找出問題的根源。</p><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/uwrad\" rel=\"nofollow\">尋找 Fabric 版本？</a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/uwrad-neoforge\" rel=\"nofollow\">尋找 NeoForge 版本？</a></p><p><img src=\"https://media.forgecdn.net/attachments/650/713/uwrad.png\" alt=\"範例\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

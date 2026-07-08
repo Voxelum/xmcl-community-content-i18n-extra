@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ICVaYAHWO5U=",
+  "content": "Позволяет редактировать формулу для опыта уровня умений астральной магии.\n  \nФормулу можно записать, используя всё, что перечислено [здесь](http://javaluator.fathzer.com/en/doc/javadoc/com/fathzer/soft/javaluator/DoubleEvaluator.html), а также два дополнительных переменных — `i` и `prev`. `i` — это текущий номер уровня, а `prev` — опыт предыдущих уровней или 0.\n  \nСоздано для [Multiblock Madness](https://www.curseforge.com/minecraft/modpacks/multiblock-madness)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

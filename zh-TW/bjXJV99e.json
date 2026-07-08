@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b7DNj/jeRVY=",
+  "content": "[SBW] 彩色化是 SuperbWarfare 的一個附加模組，允許玩家使用噴漆為載具重新上色。\n\n載具顏色自訂\n可為載具指定自訂的RGB顏色，讓視覺外觀跳脫預設紋理。\n\n基於RGB的著色系統\n\n- 精確的顏色控制\n- 支援完整的RGB色域\n- 對光影友善\n\n符合生存模式的進程\n顏色自訂功能在生存模式中完整可用：\n\n- 所有物品皆可合成\n- 使用砂紙去除顏色\n- 無需僅限創造模式的機制\n\n基於指令的自訂顏色\n噴漆罐可透過NBT支援自訂顏色：\n\n/give @p colorized:spray_can{ColorizedColor:\"0xFF0000\"}  \n\n輕量且安全\n\n占用極少資源，無繁重運算，可安全地加入或從現有世界中移除。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

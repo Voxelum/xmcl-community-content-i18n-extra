@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2vqqtrd/6kQ=",
+  "content": "<center><img src=\"https://media1.tenor.com/images/1a283f70cc1b64b97658c7cf6c16b6cb/tenor.gif?itemid=26530918\"></center>\n<br>\n<center>\n<a href=\"https://modrinth.com/mod/almanac\">\n<img src=\"https://i.ibb.co/M5VsfwPQ/req-al-mr-335x130.png\" alt=\"需要 Almanac\">\n</a>\n<a href=\"https://discord.gg/aPPEPJWG39\">\n<img src=\"https://i.ibb.co/GFT3JFP/req-discord-130x130.png\" alt=\"Discord 伺服器邀請連結\">\n</a>\n<hr>\n<h3>讓它們消失吧</h3> \n<hr>\n</center>\n\n**讓它們消失吧 (Let Me Despawn, LMD)** 是一個 Minecraft 模組，旨在透過修改持有或裝備物品的生物的消失機制，來解決實體卡頓問題。\n\n### 主要功能\n\n- 允許裝備物品的生物自然消失\n- 生物消失時保留掉落的物品\n- 可設定的生物排除清單\n- 僅需安裝在伺服器端（客戶端不需要）\n\n---\n\n## 功能說明\n\n在原始 Minecraft 中，撿起或裝備物品的生物會變成永久存在，不會自然消失。這種行為會顯著導致實體卡頓，尤其是在生物種類和生成率較高的模組環境中。\n\nLMD 修改了消失檢查機制，使這些生物能像其他生物一樣自然消失。為了避免物品損失，當實體消失時，其所撿起或裝備的物品會被掉落。\n\n> **注意**：使用命名牌命名的生物仍會阻止其自然消失。\n\n---\n\n## 設定（1.2.1 版本及更新版本）\n\n### 設定檔\n- 位置：`config/letmedespawn.json`\n- 重新載入指令：`/almanac reload`\n\n### 指令\n\n| 指令 | 說明 |\n|---------|-------------|\n| `/letmedespawn add <生物名稱>` | 將生物加入設定清單 |\n| `/letmedespawn remove <生物名稱>` | 將生物從設定清單移除 |\n\n加入設定清單的生物將保留原始行為，撿起物品後不會消失。所有指令會即時更新生物清單，無需重新啟動遊戲或手動重新載入。\n\n---\n\n## 安裝方式\n\n此為伺服器端模組，客戶端無需安裝。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

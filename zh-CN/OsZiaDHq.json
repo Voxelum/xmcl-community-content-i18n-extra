@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m/B6LW0KDko=",
+  "content": "仅是一个简单核心模组，CreativeMD的大部分模组都需要它。\n\n**特性**\n* Gui-Api\n* 配置系统（/cmdconfig 或 /cmdclientconfig）\n* 数据包系统（支持分包传输）\n* 事件系统（由N247s提供）\n* 合成材料\n* 虚拟世界\n\n我知道大家都讨厌核心模组，因为这意味着需要额外下载一个文件，但这能加快我的开发进度。多年来，我积累了大量实用的方法和实现技巧。现在我将它们全部整合到CreativeCore中，用于我所有的模组。\n\n正在寻找能和朋友一起游玩的服务器？我们的赞助商已为您做好准备：\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png \" width=\"250\">\n](https://bisecthosting.com/teamcreative)\n\n使用优惠码 teamcreative，可在任意游戏服务器的首月享受25%折扣！\n\n[<img src=\"https://i.imgur.com/g2vJewK.png\" width=\"250\">](https://www.patreon.com/creativemd)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

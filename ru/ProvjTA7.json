@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4f60873709eb321d",
+  "content": "\n\n# Mechanicals Lib\nБиблиотека для моддинга NeoForge. Предназначена в первую очередь (но не ограничиваясь), для создания аддонов к Create.\n\n## [Отдельная вики](https://wiki.mechanicalmods.net/mods/mechanicals-lib/)\n\n## Добавление в качестве зависимости\n- Репозиторий в `build.gradle`:\n```\n    maven {\n        url \"https://maven.fosil.eu/releases\"\n    }\n```\n\n- Зависимость в `build.gradle`:\n```\njarJar(implementation(\"com.oierbravo.mechanicals:Mechanicals:${minecraft_version}-${mechanicals_version}\"))\n```\n\n- Переменные в `gradle.properties`:\n```\nminecraft_version=1.21.1\nmechanicals_version=4.28 #Всегда используйте последнюю версию.\n```\n\n## Лицензия\n- Mechanicals Lib распространяется под лицензией LGPL3. Подробнее см. в [LICENSE](LICENSE).\n- Некоторые разделы кода взяты из мода Create, который распространяется под лицензией MIT. Подробнее см. в лицензии Create.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

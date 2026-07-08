@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WHbxAoTCLps=",
+  "content": "## Почему?\nПолных пакетов ресурсов **Beta 1.7.3** для **Minecraft 1.12.2** нет (вероятно), поэтому я решил создать свой собственный! Я также позаботился о том, чтобы заменить многие новые текстуры и модели на старые.\n## Особенности\n### Восстановлено\n- Текстуры\n- Звуки\n- Модели\n- Освещение\n- Мелкие детали, которые вы могли не заметить\n- Старые названия (только на русском и английском (США))\n### Удалено\n- Новые звуки и субтитры к ним\n- Новые частицы\n- Тени листьев\n### Изменено\n- Еда\n- Лодки\n- Двери\n- И другие элементы\n### Дополнения\n  - Alpha Accuracy (должен быть размещён выше основного пакета)\n  - Beta Colormap для стандартных миров\n  - Поддержка модов ([Oceanic Expanse](https://modrinth.com/mod/oceanic-expanse), [Cherry_on_1.12.2](https://modrinth.com/mod/cherry_on_1.12.2), [Unseen's Nether Backport](https://www.curseforge.com/minecraft/mc-mods/unseens-nether-backport))\n## Лучше всего работает с\n- Отключёнными уровнями мипмапа\n- [Modern Beta Forge](https://modrinth.com/mod/modern-beta-forge), который добавляет старую генерацию мира\n- [OSECA](https://www.curseforge.com/minecraft/mc-mods/old-swing), который точно воспроизводит старое освещение и многое другое!\n## Необходим Optifine![5]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

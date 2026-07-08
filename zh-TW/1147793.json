@@ -1,0 +1,6 @@
+{
+  "bodyHash": "v3RCy2RtEq0=",
+  "content": "<h1>PolyBlur</h1><p><img src=\"https://wsrv.nl/?url=https://polyfrost.org/img/compact_vector.svg&amp;n=-1&amp;w=1000\" width=\"56\"> <img src=\"https://img.shields.io/github/v/release/Polyfrost/PolyBlur.svg?style=for-the-badge&amp;color=1452cc&amp;label=release\" alt=\"開發工作流程狀態\"></p><h3>用多種、多種、多種方式為你的模組添加動態模糊效果。</h3><p>可自訂項目：</p><ul>\n<li>是否在使用動態模糊時強制停用 OptiFine 的快速渲染功能</li>\n<li>模糊類型\n<ul>\n<li>共有三種模糊類型：</li>\n<li>Monkey Blur - 基於 BSL / NVIDIA 模糊著色器的模糊效果</li>\n<li>Phosphor Blur - 使用修改版 Minecraft「磷光」著色器。類似於 Lunar / BLC 的模糊效果。（預設）</li>\n<li>Moulberry Blur - 通過不同方法達到類似 Phosphor 模糊的效果。原作：Moulberry。</li>\n</ul>\n</li>\n<li>模糊強度</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

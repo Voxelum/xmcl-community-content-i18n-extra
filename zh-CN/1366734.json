@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7SIgQK3uWng=",
+  "content": "<h2><strong>吊闸模组增加了模块化、多区块门，并带有一些额外功能。</strong></h2><p><strong>吊闸有三种不同等级：木质、铜质和铁质！</strong> 每种都比前一种更坚固，其中铁质吊闸完全防爆。使用斧头（铜质和铁质则用镐）右键点击，可以切换其细节装饰，例如木质吊闸上的金属铆钉、铜质吊闸上的镶嵌纹路，以及铁质吊闸上的横杆！</p><p>吊闸的功能与它们的门变种大致相同：木质和铜质吊闸可以通过手动或红石信号开启，而铁质吊闸只能通过红石信号开启。</p><p>然而，吊闸的工作原理稍微复杂一些，并非任意红石信号都能驱动，这就引出了第一个\"额外\"功能：<strong>闸门齿轮箱！</strong></p><p><strong>闸门齿轮箱</strong>在充能时会打开所有连接的吊闸，断能时则会关闭它们！简单又实用！它们还会在充能时微微发光，并拥有独特的纹理！</p><p>接下来，第二个\"额外\"功能让你能更精确地操控吊闸：<strong>闸门限位器！</strong></p><p><strong>闸门限位器</strong>会检测到它们连接在已打开的吊闸（任何类型）上时，输出红石信号！正因为这个特性，吊闸才需要专门的齿轮箱才能用红石开启，但闸门限位器的功能远远弥补了这一点不便。利用闸门限位器，你可以制作即时\"红石\"线路，这些线路可以向任意方向延伸（包括垂直方向），并且不会衰减信号！</p><p>这个模组移植自我在 Nostalgia Squared 和 <a href=\"https://www.curseforge.com/minecraft/modpacks/taproot\" target=\"_blank\" rel=\"nofollow\">Taproot</a> 模组包中自定义的吊闸，经过更新和改进，现已适用于大众！</p><h3><strong>本模组是我公益模组开发计划的一部分！</strong></h3><p><strong>我不接模组定制委托，而是让我的 Discord 用户提交模组创意，然后我从中挑选最感兴趣的进行开发，并免费上传至 Curseforge 和 Modrinth！这些创意涵盖从老模组/被遗忘模组的移植到全新模组的方方面面！</strong></p><p><strong>如果你想参与我的公益计划，或提交关于吊闸模组的 Bug 报告，<a href=\"https://discord.gg/UmMUAfFPeR\" target=\"_blank\" rel=\"nofollow\">欢迎加入我的 Discord 服务器！</a></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GkTQJE3hbHY=",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/T9PomCSv/images/dedd2a59cbec4ea82e715787ac6ab4f62de8fe60.gif\" alt=\"积木塔倒下\"></p><h1>Sable</h1><p>Sable 是一个库模组，为 Minecraft 添加了<strong>子层级</strong>。子层级是由方块、方块实体和实体构成的移动区域，在组装状态下仍可交互。Sable 包含一个基于用 Rust 编写的 <strong>Rapier 物理引擎</strong>的物理管线，使子层级能够<strong>按物理规律移动</strong>并<strong>对世界变化做出反应</strong>。</p><p>Sable <strong>不</strong>为生存模式添加任何内容，也不提供在生存模式中构建子层级的方法。</p><p>使用 <code>/sable</code> 命令可以组装、修改和查询子层级。</p><h1>⚠️ 兼容性警告</h1><p>Sable 是一个侵入性极强的模组。它大量使用了混入（Mixin），容易与其他模组产生广泛的兼容性问题。</p><h1>致谢</h1><ul>\n<li>Dimforge 维护者和贡献者，感谢他们在默认物理管线中集成的 Rapier 物理引擎方面所做的出色工作</li>\n<li>Eriksonn，感谢他在子层级分割区域算法、浮动方块以及令人惊叹的数学魔法方面的贡献</li>\n<li>Ocelot，感谢他提供的精致子层级渲染器以及大量的优化和 API 帮助</li>\n<li>Cyvack，感谢他完成的许多 Create 模组兼容性修复和功能、组装帮助以及总体开发</li>\n<li>NotSoEpic，感谢他在升降机数学、兼容性修复、漏洞修复以及大量总体开发方面的工作</li>\n<li>KyanBirb，感谢他在资源、兼容性修复、漏洞修复以及大量总体开发方面的贡献</li>\n<li>Cake，感谢他在漏洞修复和总体开发帮助方面的支持</li>\n<li>Rhyguy1，感谢他带来士气</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

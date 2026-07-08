@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0LWh6bjK2nE=",
+  "content": "這個模組旨在提升戰鬥體驗與屬性統計。神器能提供屬性加成，包含攻擊力、生命值、護甲、速度，甚至攻擊距離與攻速。神器可透過擊殺高生命值的生物（包含其他模組的Boss與菁英怪物）獲得，並可透過餵食其他神器來升級。當成套裝備時，它們能提供實用的套裝效果，在執行特定戰術時給予巨大加成。\n\n \nDiscord: https://discord.gg/BCHNhsDMXz\n\n前置模組：L2Library\n\n推薦前置模組：L2Complements（終局物品僅在安裝此模組時可合成）\n\n此模組為 L2-LightLand Mods 系列中的神器模組。\n\n<h2>獲得方式</h2><br>\n<p>未辨識的神器可按品質分類，透過擊殺血量分別為100、200、300、400、500的敵對生物獲得。辨識後可隨機獲得特定品質的神器。（可透過其他模組增加怪物血量以加快獲取速度，例如菁英怪物模組）</p>\n\n<h2>遊戲流程</h2>\n<p>透過擊殺敵對生物獲得神器碎片，使用工作台將其分解為經驗瓶，或使用經驗瓶在鐵砧上升級，也可透過合成台配方提升神器品質。（每次升級神器時，主詞綴的屬性會隨機提升，每四級隨機提升一個副詞綴的屬性。等級上限為品質×4，最高20級。）</p>\n<br>\n<br>\n<h2>⚠ 前置模組<br></h2>\n<p><a href=\"https://modrinth.com/mod/l2library\">[L2 library]</a>\n<br>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/curios\">[Curios API]</a>\n<br>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/attributefix\">[AttributeFix]</a>\n<br>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/max-health-fix\">[MaxHealthFix]</a></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

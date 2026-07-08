@@ -1,0 +1,6 @@
+{
+  "bodyHash": "U3SXociUX9w=",
+  "content": "<h1 align=\"center\">\n  Catharsis\n</h1>\n\n<div align=\"center\">\n\n[![Discord](https://img.shields.io/discord/1296157888343179264?color=8c03fc&label=Discord&logo=discord&logoColor=white)](https://discord.gg/FsRc2GUwZR)\n[![Modrinth](https://img.shields.io/modrinth/dt/fc4wBpRx?style=flat&logo=modrinth)](https://modrinth.com/mod/catharsis)\n\n</div>\n\n以原版風格重新紋理化 Hypixel SkyBlock 物品。\n\n## 安裝指南\n\n- 前置需求：[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n- 下載至您喜愛的啟動器或直接放入 mods 資料夾。\n- 安裝任何需要 Catharsis 才能運作的材質包。\n\n## 如何建立 Catharsis 材質包\n\n請參閱我們的 [Wiki](https://catharsis.meowdd.ing) 以獲取資訊。\n\n## 哪些物品可以被重新紋理化？\n\nCatharsis 允許材質包重新紋理化 SkyBlock 中的任何物品或礦脈。\n<br>完整列表請參閱我們的 [Wiki](https://catharsis.meowdd.ing)。\n<br>為此，我們加入了自訂謂詞：\n\n### 物品謂詞\n\n- `catharsis:data_type` - 物品 NBT 資料中自訂處理的資料型別。\n- `catharsis:item_model` - 物品的模型 ID。\n- `catharsis:skyblock_island` - 玩家當前所在的島嶼 ID。\n- `catharsis:skyblock_area` - 玩家當前所在的區域。\n\n### 盔甲模型\n\n材質包可以隱藏玩家身體/盔甲部位、加入不同條件（如潛行）、渲染完全 3D 的盔甲模型等！\n\n### 方塊替換\n\n替換特定方塊、特定島嶼的方塊、自訂提供的區域等！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

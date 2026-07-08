@@ -1,0 +1,6 @@
+{
+  "bodyHash": "p7lOqtjv3LA=",
+  "content": "<p>這是一個兼容性附加模組<br>旨在讓 MineColonies 的廚師能夠根據預設食譜自動製作 CrockPot 食物。</p><h2>主要功能</h2><ul>\n<li>現在可以使用 CrockPot 直接製作麵包、蛋糕、餅乾和南瓜派。</li>\n<li>廚師會先將原料加工成相應的食材，然後使用這些食材製作最終菜餚。</li>\n<li>與<strong>MineColonies 調整附加模組</strong>兼容：安裝此模組後，市民將接受 CrockPot 食物。</li>\n<li>與<strong>Easycolony</strong>兼容：廚師自動選擇合適的材料進行食材加工。若未安裝此模組，需通過研究解鎖此功能。</li>\n<li>與<strong>Ecliptic Seasons</strong>兼容：安裝此模組後，CrockPot 作物需要根據季節和生態域進行種植/生長。</li>\n</ul><h3>與<strong>Let's Do: Bakery</strong>兼容（獨立版本，非 Farm &amp; Charm 版本）：</h3><ul>\n<li>使用 CrockPot 製作此模組中的大多數食物。</li>\n<li>MineColonies 的麵包師已預先配置所有相關食譜。</li>\n<li>食物與<strong>調整附加模組</strong>兼容（市民接受 Let's Do: Bakery 的菜餚）。</li>\n<li>作物與<strong>Ecliptic Seasons</strong>對齊，需要根據季節和生態域進行種植。</li>\n<li>對罐子、大瓶子、燕麥、小麥和玉米等物品進行了輕微的兼容性調整。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

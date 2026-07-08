@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fpsiHa8uQaQ=",
+  "content": "<h2>描述</h2><p>允许任何实体穿过树叶方块，只要该实体搭载着可控制它的乘客（例如骑马的玩家）。<strong>这并不会完全移除树叶的碰撞体积。</strong></p><p>此外，只要你能控制载具实体，镜头就会忽略树叶的碰撞效果。</p><p>需同时在服务器和客户端安装此模组才能正常运作。</p><p><img src=\"https://cdn.modrinth.com/data/ppMUvsIg/images/91646f57fadbba308810b361493e14759511e3e3.gif\" alt=\"功能展示\"></p><h2>开发缘由？</h2><p>因为在大型坐骑（如马匹）上穿越森林的体验极差，尤其是丛林地形。这严重限制了坐骑的实际用途。</p><h2>兼容性说明</h2><p>与任何修改树叶方块碰撞形状的模组不兼容（特指在<code>LeavesBlock.class</code>中自定义<code>getCollisionShape()</code>方法的模组，基于Yarn映射）。若其他模组为树叶添加了自定义碰撞体积，本模组可能失效。</p><p>通俗来说，任何改动树叶碰撞机制的模组都可能与本模组冲突</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

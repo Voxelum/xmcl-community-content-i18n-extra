@@ -1,0 +1,6 @@
+{
+  "bodyHash": "V8hIoPc1GiE=",
+  "content": "Bibliocraft Legacy 是 Nuchaz 原版 [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) 模組的重製版。這個從 1.4.7 版本僅有單一書櫃開始的模組，如今以全新重寫的姿態回歸 Minecraft 1.21.1+，並採用更新、更貼近原版風格的模型。\n\n# 目錄\n\n*   各式兼具裝飾與功能的家具，每種都有其獨特用途，例如：\n    *   書櫃\n    *   精緻盔甲架\n    *   精緻時鐘\n    *   精緻合成台\n    *   精緻告示牌\n    *   老爺鐘\n    *   標籤\n    *   藥水架\n    *   層架\n    *   桌子\n    *   工具架\n    *   展示櫃\n    *   多種椅背款式的座椅\n    *   多種變體的精緻燈具與燈籠\n    *   餅乾罐\n    *   服務鈴\n    *   餐盤\n    *   唱片架\n    *   劍座\n    *   金鎖鏈、燈籠與靈魂燈籠\n*   協助你整理的物品，例如：\n    *   大本書籍\n    *   剪貼板\n    *   倉庫目錄\n    *   捲尺\n*   貼近原版風格的 JSON 模型，取代舊版格格不入的 OBJ 3D 模型\n*   所有木製方塊皆支援所有原版木材類型（截至 1.21.1 共 11 種）\n*   透過 [Bibliowoods Legacy](https://www.modrinth.com/project/bibliowoods-legacy) 與 [Bibliobiomes Legacy](https://www.modrinth.com/minecraft/project/bibliobiomes-legacy) 擴充模組，可支援來自超過 20 個不同模組的 100 多種木材類型\n*   與大多數資源包相容，所有木製方塊僅使用原版紋理\n*   提供 API，方便其他模組輕鬆加入對其木材類型的支援\n*   效能優化且適合模組包使用\n\n# 計畫中的功能\n\n舊版模組的所有功能尚未完全移植，但我計畫加入幾乎所有內容。目前顯著缺失的功能包括：\n\n*   所有與地圖相關的功能（地圖框架、地圖集、繪圖羅盤）\n*   所有與繪畫相關的功能（畫框、畫作壓印機、畫布）\n*   其他一些小型功能\n\n# 支援\n\n本模組目前支援 NeoForge 1.21.1 及以上版本。目前沒有移植到 Fabric、Forge、Quilt 或其他載入器的計畫，也沒有回溯支援 1.21.1 以前版本的計畫。\n\n如果你需要使用模組的協助，或只是想聊天，歡迎加入 [Discord 伺服器](https://discord.gg/jSnHGFBX2k)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

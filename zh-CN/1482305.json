@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y1lG3ELSRFY=",
+  "content": "<h1>生物控制器：驴子生成</h1><p><strong>本模组</strong>为 Minecraft 中的<strong>驴子生成</strong>添加了控制功能，提供了多种内部替代方案，可将该生物的生成量减少75%、50%和25%（由玩家自行选择）：</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/0da8ceb5d643cd03a9badcb0931bce0c33fa3b46.jpeg\" alt=\"生物控制器：驴子宣传图\"></p><blockquote>\n<p><strong>生物控制器 © - 2026</strong></p>\n</blockquote><h2>备注📝</h2><ul>\n<li><strong>生物控制器：驴子生成</strong>与版本<strong>1.17至26.1.2</strong>🏷️<strong>兼容</strong></li>\n<li><strong>生物控制器：驴子生成</strong>与任何<strong>世界中的功能模组</strong>兼容</li>\n<li><strong>无需</strong>解压下载的文件🗂️</li>\n</ul><h2>命令与功能 🛠️</h2><p><strong>‎◾通用示例：</strong></p><p><img src=\"https://cdn.modrinth.com/data/cached_images/1040aa3908bdcd23d75fc63c7f5a924799d9fab8.jpeg\" alt=\"命令\"></p><ul>\n<li>\n<p><strong>100%正常生成</strong> <code>/function mob_control_spawning:donkey/spawn_normal</code></p>\n</li>\n<li>\n<p><strong>75%</strong> <code>/function mob_control_spawning:donkey/spawn_high</code></p>\n</li>\n<li>\n<p><strong>50%</strong> <code>/function mob_control_spawning:donkey/spawn_medium</code></p>\n</li>\n<li>\n<p><strong>25%</strong> <code>/function mob_control_spawning:donkey/spawn_low</code></p>\n</li>\n<li>\n<p><strong>0%</strong> <code>/function mob_control_spawning:donkey/spawn_none</code></p>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

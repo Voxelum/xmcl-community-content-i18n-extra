@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ocq96/qlR+c=",
+  "content": "## 鞘翅推進器\n### 新增「推進器」附魔 🚀\n- 此附魔可在滑翔時推動玩家向前\n- 滑翔時按住潛行即可煞車（關閉推進）\n- 推進速度隨等級提升（最高三級）\n\n---\n### 更新至測試版 1.0.0 🥳\n- 「推進器」附魔書可於終界城寶箱中找到\n  - 推進器 I（10%）、推進器 II（5%）、推進器 III（3%）\n- 調整飛行速度：\n  - 推進器 I 略慢於持續使用持續時間 3 的煙火（約 75%）\n  - 推進器 II 略快於持續使用持續時間 3 的煙火（約 130%）\n  - 推進器 III 比持續使用持續時間 3 的煙火**快得多**（約 250%）<br><sup>未來版本可能進一步限制推進器 III，以達更接近原版的平衡<sup>\n\n\n<details>\n<summary>設定選項（及如何啟用舊版「增幅」附魔）</summary>\n\n- 提供數個設定選項 ⚙️\n  - **新增開關，可於拾取時將任何「推進器」書還原為「增幅」書 😎**\n    - /scoreboard players set .UseLegacyEnchant 1\n    - 預設值為 0（關閉）\n      - 推進器 I → 增幅 I\n      - 推進器 II → 增幅 III\n      - 推進器 III → 增幅 IV\n  - 新增開關，可關閉重新載入訊息\n    - /scoreboard players set .BroadcastReloadMessage 0\n    - 預設值為 1（開啟）\n  - 您可隨時查看目前設定值：\n    - /scoreboard objectives setdisplay sidebar ElytraBoostConfig\n    - 移除顯示：/scoreboard objectives setdisplay sidebar\n\n**警告：**「增幅」附魔來自 Alpha 版本，且**強度高出許多**。我保留此功能以繼續支援 Alpha 時期使用的玩家，並提供給新下載者作為選項——但它與標準遊戲玩法**極度不平衡**，因此在完全採用前請務必先行測試！\n\n</details>\n\n請查看更新日誌以獲取最新且詳細的……資訊……！\n\n---\n\n**此資料包目前**（非常）**處於測試階段**：任何與所有的反饋都非常歡迎與感謝！  \n<sup>_如果當前版本不太適合您，歡迎聯繫！我很樂意為您自訂一個更符合您使用需求的版本 👍_<sup>\n\n\n*感謝您查看我的資料包！ -DRE*\n\n---  \n### 聯絡方式\n如有任何問題或查詢，歡迎來信至：drecubed.contact@gmail.com\n\n---",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

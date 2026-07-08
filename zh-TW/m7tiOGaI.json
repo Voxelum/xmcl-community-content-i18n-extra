@@ -1,0 +1,6 @@
+{
+  "bodyHash": "82OCN6oVhRY=",
+  "content": "<div align=\"center\"><img src= \"https://cdn.modrinth.com/data/cached_images/9a1df43af41ee5516e157dea1cc2f532b7380e43.png\" /></div>\n\n**讓我睡覺**是一個簡單的模組，旨在讓嘗試睡覺時的怪物檢查機制更加合理。實現方式是設定只有正在追蹤玩家的怪物才會阻止睡覺。\n\n不再需要為了那些不**讓我睡覺**的怪物而徹夜難眠。\n\n## 資訊：\n這個模組具有高度可配置性，大部分功能都可以根據您的需求進行調整。\n\n```toml\n#一般設定\n[general]\n    #附近的怪物是否應該阻止睡覺？\n    monsterCheck = true\n    #是否只有追蹤玩家的怪物才會阻止睡覺？[需要啟用monsterCheck]\n    betterChecking = true\n    #檢查怪物的水平範圍。[需要啟用betterChecking]\n    #範圍：0 ~ 256\n    horizontalRange = 32\n    #檢查怪物的垂直範圍。[需要啟用betterChecking]\n    #範圍：0 ~ 64\n    verticalRange = 16\n```\n<details>\n  <summary><b>常見問題：</b></summary>\n\n**問：我應該在哪裡提出建議或回饋？**\n\n答：我很樂意聽取您的任何建議或回饋！只希望您能在模組的Github上建立新議題，這樣更方便我管理和追蹤。\n\n**問：我可以在我的模組包中使用這個模組嗎？**\n\n答：當然可以！只要求您在使用時給予適當的署名。除此之外，請隨意將其包含在您的模組包中，並根據需要進行修改。\n\n**問：支援哪些版本？**\n\n答：僅支援最新的主要版本。如果舊版本有重大錯誤/遺漏，我可能會進行更新，但不會將新功能回溯移植到舊版本。\n\n**問：有Fabric版本嗎？**\n\n答：我**沒有**移植到Fabric的計劃，但歡迎您自行移植。只要求您在移植時給予適當的署名。\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

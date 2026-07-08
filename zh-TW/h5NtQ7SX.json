@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xWqRWJHJ8TE=",
+  "content": "這個模組新增了一種**世界生成類型**，可以創建由**隨機區塊**構成的世界。\n\n### 🌍 世界預覽\n\n**主世界**\n![主世界](https://cdn.modrinth.com/data/cached_images/d4545621eb130891dd1d5614d1e66a7b00512354.png)\n\n**地獄**\n![地獄](https://cdn.modrinth.com/data/cached_images/a0804a86a30ddd4f070a4cc90a1cc7f8a78f41c1.png)\n\n**終界**\n![終界](https://cdn.modrinth.com/data/cached_images/0904878e60d8c59803dd511e0ed2ec7a964ddfe6.png)\n\n---\n\n### ⚙️ 功能特色\n- 新增一種能生成**隨機區塊**的世界類型\n- 可在**主世界、地獄與終界**運作\n- 地獄與終界的生成可在**創建世界時進行設定**\n- 在這種生成類型下，遊戲依然**可以完整通關**\n\n---\n\n### ⚠️ 注意事項\n- 生成新區塊的速度可能比原版世界生成**更慢**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

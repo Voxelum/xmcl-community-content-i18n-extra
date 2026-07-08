@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mpipsOSNRsE=",
+  "content": "<p>在遊戲重新載入時更改您的遊戲內游標，</p>\n<p>&nbsp;</p>\n<p>要更改游標，請添加一個資源包，將您的游標以PNG格式放在assets/minecraft/textures/gui/中（可透過設定\"cursorLocation\"更改位置），並在設定中添加熱點位置</p>\n<p>&nbsp;</p>\n<h3 style=\"text-align: center;\"><strong>游標設定選單 (1.2)</strong>&nbsp;</h3>\n<p>&nbsp;</p>\n<p>在Forge中：從主選單&nbsp;<strong>模組/自訂游標模組/設定</strong></p>\n<p>&nbsp;</p>\n<p>在Fabric中：在聊天欄輸入 <strong>/cursormod</strong></p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/226/348/2018-03-24-19_48_01-parametres.png\" alt=\"CursorMod 1.2 游標清單 -- 選擇要編輯的游標的選單\" width=\"1920\" height=\"1040\" /></p>\n<p>&nbsp;</p>\n<p>您可以透過點擊按鈕來編輯每個游標</p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/226/349/2018-03-24-19_51_33.png\" alt=\"CursorMod 1.2 游標編輯器 -- 編輯游標熱點和檔案位置的選單\" width=\"1920\" height=\"1042\" /></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

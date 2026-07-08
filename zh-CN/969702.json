@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nDsNcldLYM4=",
+  "content": "<p>Tickrate API 是一个简单的（？）模组库，允许操控游戏中的游戏刻速率。<br>灵感来源于 Guichaguri 开发的&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/tickratechanger\" rel=\"nofollow\">Tickrate Changer</a><br><br>注意：这与 1.20.3+ 版本引入的&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraft.wiki%252fw%252fCommands%252ftick\" rel=\"nofollow\">/tick 命令</a>完全无关<br><br>基本用法：<br>使用游戏内命令 /setTickrate 操控游戏刻速率。<br><br>命令示例：<br>/setTickrate entity @e[type=warden] 100（将监守者的游戏刻速率改为 100）<br>/setTickrate dimension minecraft:overworld 100（将主世界的游戏刻速率改为 100）<br>/setTickrate area minecraft:overworld 0 0 0 10 10 10 100（新增一个游戏刻速率区域，输入完全相同坐标和 20 速率可移除该区域）<br>/setTickrate exclude @e[type=warden] true（将监守者排除在维度游戏刻速率影响之外）<br><br>API 示例：<br>TickrateUtil#setBaseTickrate（修改实体的基础游戏刻速率）<br>TickrateUtil#setTickrate（修改实体的当前游戏刻速率）<br>TickrateUtil#setLevelTickrate（修改维度的游戏刻速率）<br>TickrateUtil#addTickrateArea（向维度新增一个游戏刻速率区域）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

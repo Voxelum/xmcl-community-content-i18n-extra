@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IVPmXQdFpZM=",
+  "content": "## 关于\nTAA 项目是一个在保持轻量级性能表现的同时提升视觉体验的着色器包。仅带来 3-6%* 的微小性能影响，该着色器包集成了时间性抗锯齿（TAA）以实现更平滑的边缘效果。_*基于 32 渲染距离的场景测试。_\n\n<details>\n<summary>图库</summary>\n\n![效果展示](https://cdn.modrinth.com/data/aE6ouBYi/images/66c3bcee41f09f440863d3d54fd7c6c801946a0f.jpeg)\n\n![未使用着色器](https://cdn.modrinth.com/data/cached_images/547040e47d988e0980278f7d9655d0471492963c.jpeg)\n\n![使用着色器](https://cdn.modrinth.com/data/cached_images/14cb6f4227272f1611a59f6cf8935c4aebb7fcaf_0.webp)\n\n</details>\n\n## 功能特性\n\n- **兼容性**：TAA 项目完全兼容 OptiFine 和 Iris。\n\n- **时间性抗锯齿（TAA）**：此着色器包的核心功能是其 TAA 实现，能有效减少锯齿状边缘和闪烁等视觉瑕疵。通过利用先前帧的数据，TAA 平滑边缘并提升游戏的整体视觉保真度。\n\n- **锐化选项**：为进一步增强图像清晰度，TAA 项目支持两种锐化技术：\n  - **非锐化遮罩**：在快速移动的物体后方会留下拖影。\n  - **对比度自适应锐化（CAS）**：更稳定，但仍存在一些缺点。\n\n若需搭配远距离视野模组使用：\nhttps://modrinth.com/project/sdHPkbgOtW\nFXAA 分支版本（可能已停止维护）：\nhttps://modrinth.com/project/HPkbgOtW\n\n###### TAA 项目是基于 VanillAA 的硬分叉版本，旨在实现更优性能和更快更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

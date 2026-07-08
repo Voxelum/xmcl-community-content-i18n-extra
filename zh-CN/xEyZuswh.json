@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BcSMG55OhwQ=",
+  "content": "# Animatica 重制版\n\nAnimatica 重制版是 Animatica 的一个分支，支持更新的 Minecraft 版本。<br/>\n这是一个为 Fabric 模组加载器设计的 Minecraft 模组，旨在加载 MCPatcher/OptiFine [动画纹理格式](https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/custom_animations.txt)。<br/>\n\n## 此模组支持哪些资源包？\nAnimatica 增加了对使用**自定义动画纹理**的资源包的支持。<br/>\n其中包括：\n- 动画 GUI 纹理\n- 动画实体纹理\n- 动画方块实体纹理\n- 动画盔甲纹理\n- 其他动画纹理（动画方块和物品是原版功能）\n\n## Animatica **不支持**：\n- 完全自定义 GUI（[适用于 Fabric 的 OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)）\n- 自定义实体模型（[适用于 Fabric 的 CEM](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)）\n- 自定义实体模型部件的 3D 动画（[适用于 Fabric 的 CEM](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)）\n- 任何其他 MCPatcher/OptiFine 资源包功能，如连接纹理等\n\n**这些功能将永远不在 Animatica 中实现。** <br/>\n\n### Animatica **仅**用于动画纹理。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

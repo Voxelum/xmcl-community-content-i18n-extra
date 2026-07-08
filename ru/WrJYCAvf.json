@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9He/1eOCtQg=",
+  "content": "Устраняет проблему с размещателями Create при установке мода Bodies Bodies. (См.: [https://github.com/GabrielOlvH/Bodies-Bodies/issues/8](https://github.com/GabrielOlvH/Bodies-Bodies/issues/8))\n\nПредметы, находящиеся в размещателе, должны выпадать при его нормальном уничтожении, как это происходит без мода Bodies Bodies.\n\n# Использование\nЭтот мод следует устанавливать вместе с Create и Bodies! Bodies!. Он не заменяет Bodies! Bodies!\nНеобязательно для клиентской стороны.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

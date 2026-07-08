@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZC4Q6uZkhFE=",
+  "content": "# 🌱 作物進度條\n\n## 描述\n\n使用 **作物進度條** 模組提升您的農業體驗。此模組在所有作物上方添加一個細微的即時進度條，顯示其生長階段。設計旨在幫助玩家有效管理農場，同時避免畫面雜亂。\n\n## 必要模組\n\n對於 **Fabric** 版本的模組，需要 [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)。  \n對於 **Forge/NeoForge** 版本的模組，需要 [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)。\n\n## 功能特色\n\n*   在每株作物上方顯示生長進度條\n*   兼容所有原版作物\n*   簡約且不干擾遊戲的設計\n*   作物完全成熟時自動隱藏進度條\n*   僅在您注視的作物上方顯示進度條",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

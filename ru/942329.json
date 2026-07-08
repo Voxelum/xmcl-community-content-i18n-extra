@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PCScS2Qdn20=",
+  "content": "<h1>SimpleVoiceChat Broadcast (Forge)</h1><p>Транслируйте аудио всем</p><h3>Использование</h3><ul>\n<li>Убедитесь, что у вас есть разрешение оператора (вы можете изменить это в конфигурации)</li>\n<li>Создайте и присоединитесь к группе с именем <code>broadcast</code> (вы можете изменить это в конфигурации)</li>\n<li>Разговаривайте в группе</li>\n<li>Все услышат вас</li>\n</ul><h4>Вдохновлено <a href=\"https://github.com/Dreaming-Codes/voicechat-broadcast-plugin-fabric\" rel=\"nofollow\">voicechat-broadcast-plugin-fabric</a></h4>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RLDE1TOSrJc=",
+  "content": "# 「無限」旗幟 - ![\"Limitless\" Banners 版本](https://img.shields.io/modrinth/v/\"limitless\"-banners)\n\n一個簡單的模組，移除了旗幟圖案的數量限制。新的上限為 **16**，從 26.1+ 版本開始則高達 **2147483647**！你可以在 `limitless-banners.json` 中設定 26.1+ 版本的限制。\n\n此模組將在伺服器端運作，且不會對加入的原始用戶端造成任何影響。_不過_，如果玩家想利用這個模組的功能，他們也需要在用戶端安裝此模組。\n\n如果你想看到新的 26.1+ 版本中 2147483647 這個上限被移植到舊版本，可以加入我的 [discord](https://discord.com/invite/Avc2MccaqP) 並催促我哦！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

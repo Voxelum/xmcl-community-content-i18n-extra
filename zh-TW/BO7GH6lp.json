@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1/prGdbHx/U=",
+  "content": "雪神酒吧是一款輕量級的用戶端 Minecraft 模組，將原版的心形生命值顯示改為現代化的血條樣式。\n\n功能特色\n- 取代原版心形生命值介面，採用簡潔的血條顯示方式\n- 以更緊湊且易讀的方式呈現玩家生命值\n- 設計輕量化，相容於多數模組\n- 支援 NeoForge 及 Forge 版本\n\n更多細節\n- 生命值全滿時，顯示為綠色背景。\n- 生命值高於一半時，顯示為藍色背景。\n- 低於一半時，顯示為紫紅色。\n- 瀕臨歸零時，會在紫紅色與紅色之間閃爍。\n\n用戶體驗\n此模組讓你在戰鬥或探索時更易於讀取生命值。\n血條樣式比原版心形更為緊湊，並提供更清晰的剩餘生命值視覺指示。  \n![全滿](https://cdn.modrinth.com/data/cached_images/b0afb98ac55e120a4ecdd655d8f2dc499be26bdd.png)  \n![高於一半](https://cdn.modrinth.com/data/cached_images/631721e4048748b1df952c826a13e2de36a68400.png)  \n![低於一半](https://cdn.modrinth.com/data/cached_images/cd51ccf2f2ba30885c47cbb255f61f2c5adf9d2e.png)  \n![瀕臨歸零（靜態顯示額外顏色）](https://cdn.modrinth.com/data/cached_images/16c480ae23434698adf48b0c1b71a76429430e64.png)  \n![使用附魔金蘋果](https://cdn.modrinth.com/data/cached_images/afa01544a61aa92792b91d2b19f9042720e5c7c9.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

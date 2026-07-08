@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+4HyWAlr4zM=",
+  "content": "Sparkweave 是一個用於在我所有模組之間共享程式碼與功能的模組庫。\n\n---\n⚠ 此為函式庫；本身不具備任何功能 ⚠\n---\n\n### 目前特色：\n\n- 註冊輔助工具\n- 圖形使用者介面工具\n- 套件上下文標註\n- 自動從 `.env` 檔案載入環境變數\n##### 另請參閱 [api 套件](https://github.com/Up-Mods/Sparkweave/tree/HEAD/Common/src/main/java/dev/upcraft/sparkweave/api)\n\n[![KineticHosting 贊助。您可以透過此連結訂購遊戲伺服器來支持我](https://cdn.modrinth.com/data/cached_images/5f38256edd5ee724784ff43b09ec1c0d4e01b861_0.webp)](https://billing.kinetichosting.com/aff.php?aff=1248)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

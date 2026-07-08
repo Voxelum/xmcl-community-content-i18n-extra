@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PcEyImp/hr8=",
+  "content": "![oiken's 礦脈挖掘](https://cdn.modrinth.com/data/cached_images/39b9cc3b2b3f35b1ef10a9e3f62f211ec737c25b_0.webp)\n# oiken_ 的礦脈挖掘\n我製作這個模組是因為在 NeoForge（Modrinth 上）找不到我喜歡的礦脈挖掘工具。\n\n## 功能：\n- （應該）能與所有現有模組相容（前提是它們使用正確的標籤）。\n- 可設定每次礦脈挖掘的最大方塊數量（預設為 64 個方塊）。\n- 按下 V 鍵或鍵盤上的任何其他按鍵（可自行更改）來開關礦脈挖掘功能。\n- 蹲下 + 挖掘以在啟用礦脈挖掘時挖掘整條礦脈。\n\n---\n如果這個模組無法與其他模組的礦物運作，請在模組的 GitHub 頁面的 Issues 標籤中開啟一個問題，我（希望）會修復它。\n祝您使用愉快！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

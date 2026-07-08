@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CqBx6yEW0nU=",
+  "content": "<p>讓《Cobblemon》中的洗翠地區初始寶可夢看起來像牠們的最終進化型</p><p><img src=\"https://cdn.modrinth.com/data/5vRvzDPO/images/e651b67ad6d0c93679aae54fd1dd28888d72c027.png\" alt=\"\" width=\"612\" height=\"408\"></p><p>修改內容：</p><p>火球鼠 Regional_Bias=Hisui</p><p>火岩鼠 Regional_Bias=Hisui</p><p>木木梟 Regional_Bias=Hisui</p><p>投羽梟 Regional_Bias=Hisui</p><p>水水獺 Regional_Bias=Hisui</p><p>雙刃丸 Regional_Bias=Hisui</p><p>&nbsp;</p><p><span style=\"font-size:24px\"><strong>常見問題</strong></span><br>問：我需要將此作為資料包使用嗎？<br>答：不需要，這只是一個資源包，因此也可以在伺服器上使用。</p><p>問：如何獲得這些寶可夢？<br>答：由於在一般《Cobblemon》中牠們已經是不同型態，因此都可以在各自對應的生態域野外找到。也可以在初始寶可夢選單的「洗翠地區」區塊中選擇牠們作為初始寶可夢，或是透過 /pokespawn (寶可夢名稱) regional_bias=hisui 或 /pokegive (寶可夢名稱) regional_bias=hisui 生成/獲得。</p><p>&nbsp;</p><p>您可以將此模組納入模組包中</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

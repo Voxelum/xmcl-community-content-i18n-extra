@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mlam1FcGNr8=",
+  "content": "### 修复补丁：剪贴板安全更新\n\n**简介**  \n本模组修复了Create Mod在Minecraft 1.21+版本中剪贴板物品的重大安全漏洞。恶意篡改的剪贴板若包含非法数据组件可能触发物品复制漏洞。该补丁将自动清理组件数据以确保游戏安全性。\n\n**技术机制**  \n1. **事件监控**：挂钩`ItemTossEvent`（玩家丢弃物品事件）  \n2. **物品识别**：检测丢弃物品是否为`create:clipboard`  \n3. **组件白名单**：仅保留以下合法数据：\n   - `create:clipboard_pages`（页面内容）\n   - `create:clipboard_type`（剪贴板类型）\n4. **非法组件处理**：\n   - 生成纯净的剪贴板实例\n   - 迁移白名单内的有效数据\n   - 自动替换被丢弃的物品\n5. **漏洞防御**：通过拦截`container`等非法组件彻底阻止物品复制\n\n**修复效果**  \n- 永久性封堵物品复制漏洞\n- 完全保留剪贴板正常功能（文本/图标不受影响）\n- 兼容Create Mod 6.0及以上版本",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZuexZxT3wLc=",
+  "content": "# **资源包缓存**\n\nResourcePackCached 保持服务器资源包已加载状态，让您在重新加入时无需再次加载。它还会在游戏启动时重新应用最后使用的服务器资源包。\n\n---\n\n## **主要用途**\n\n非常适合以下需求：\n\n- 在服务器上托管资源包，简化更新流程，并通过移除本地副本减小整合包体积。\n- 提升用户体验，实现更快的加入速度和避免重复加载。\n- 加速使用资源包的模组或插件的测试与调试。\n\n---\n\n## **功能特性**\n\n**ResourcePackCached** 自动运行：\n\n| 步骤 | 描述                           |\n| ---- | ------------------------------------- |\n| 1    | 首次加入时缓存服务器资源包。 |\n| 2    | 断开连接后保持资源包加载状态。  |\n| 3    | 重新加入时跳过重复加载过程。       |\n| 4    | 游戏启动时重新应用资源包。         |\n\n## **支持与反馈**\n\n需要帮助或想要报告问题？  \n- 在 [GitHub 仓库](https://github.com/Furq07/resourcepackcached/issues) 提交问题  \n- 加入 [Discord 服务器](https://discord.gg/XhZzmvzPDV)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

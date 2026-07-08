@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5xh2eJ7fPc4=",
+  "content": "# 🎬 CinematicTools – 支援NPC的CMDCam Fabric移植版\n\n**CinematicTools** 是一款專為創作者、影片製作者和開發者打造的現代Fabric模組，讓你在Minecraft中輕鬆創作出身臨其境的電影級鏡頭。\n本模組基於經典的[CMDCam](https://www.curseforge.com/minecraft/mc-mods/cmdcam)模組，忠實移植至Fabric平臺，並擴充了全新功能以支援更複雜的場景運鏡。\n\n## ✨ 主要特色\n- 🎥 流暢攝影機路徑\n> 設定關鍵點並創造平滑、專業的鏡頭運鏡，非常適合預告片、動畫影片與腳本場景。\n\n- 🧍 內建NPC系統\n> 輕鬆在場景中放置與控制NPC，無需依賴第三方模組或外部工具即可為世界注入生命力。\n\n- 🧑‍🎨 動態外觀載入\n> NPC會根據指定名稱自動載入正確的Minecraft皮膚，無需額外設定。\n\n- 🧭 指令式操作介面\n> 所有工具與功能皆可透過遊戲內指令存取，讓你在遊玩時直接創作、調整與測試場景。\n\n## ⚙️ 相容性與需求\n> ✅ **模組載入器**：Fabric\n>\n> 🧩 **Minecraft版本**：目前支援1.20.1、1.20.4與1.21.1（感謝[IceGames23](https://github.com/IceGames23)）\n>\n> 📦 **前置模組**：Fabric API、CreativeCore 與 GeckoLib\n\n## 🔧 應用場景\n1. 🎬 Minecraft動畫影片與電影\n   \n1. 📸 電影級預告片與開場動畫\n   \n1. 🧪 遊戲內過場動畫與腳本故事事件\n   \n1. 🎭 地圖製作者或冒險地圖的場景原型設計\n\n## 📌 備註\n- 本模組與CMDCam原作者的關聯僅為概念傳承，並非官方關係，但完全保留原始概念並予以致謝。\n  \n- 程式碼已針對Fabric進行調整，並新增NPC處理與皮膚載入等系統。\n\n## 🌐 原始碼與貢獻\n本模組為開源專案，可在[GitHub](https://github.com/superstrellaa/CinematicTools)上取得。\n歡迎回報問題、貢獻程式碼或建立分支！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

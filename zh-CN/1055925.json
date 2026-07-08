@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6aSnv2A1znE=",
+  "content": "<h1>可扩展光 (ScalableLux)</h1><p>基于星光(Starlight)的Fabric模组，旨在提升Minecraft光照更新的性能。</p><h2>为何存在此分支？</h2><ul>\n<li>星光模组自<a href=\"https://github.com/PaperMC/Starlight/commit/cca03d62da48e876ac79196bad16864e8a96bbeb\" rel=\"nofollow\">2024年3月8日</a>起已停止维护。</li>\n<li>原版光照引擎的性能依然是高性能区块生成的主要瓶颈。</li>\n<li>基础星光模组仍比原版<a href=\"https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#light-engine-performance-changes-in-120-from-vanilla\" rel=\"nofollow\">快100%</a>，使区块系统可扩展至24线程以上。</li>\n<li>星光模组的\"无状态\"设计支持并行光照更新，进一步拉大性能差距。对于<a href=\"https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#is-starlight-obsolete\" rel=\"nofollow\">需要大量玩家加载区块的专用服务器</a>仍至关重要。因此该模组对Fabric或其他拥有大量玩家的模组服务器依然重要。</li>\n</ul><h2>此分支有哪些改进？</h2><ul>\n<li>包含星光模组所有性能优化及额外错误修复。</li>\n<li>可选启用并行光照更新，在高速世界生成及重度光照更新场景下显著提升性能。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

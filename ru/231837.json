@@ -1,0 +1,6 @@
+{
+  "bodyHash": "E+K5snCSLVs=",
+  "content": "<p>Спавнит участки глины, песка и грязи на дне океанских биомов (спавнится в поверхностных слоях песка/гравия на дне океана, а также в некоторых слоях гравия под океанскими биомами. Действует при любых температурах)</p><p>Пример для 1.16: <a href=\"https://github.com/Lothrazar/OceanFloorControl/blob/trunk/1.16/oceanfloor.toml\" target=\"_blank\" rel=\"nofollow\">https://github.com/Lothrazar/OceanFloorControl/blob/trunk/1.16/oceanfloor.toml</a></p><p>Скорость спавна и размеры контролируются в конфигурационном файле. Пример для 1.12:</p><p style=\"padding-left:30px\">&nbsp;&nbsp;&nbsp; I:clay_chance=65<br>&nbsp;&nbsp;&nbsp; I:clay_size=32<br>&nbsp;&nbsp;&nbsp; I:dirt_chance=30<br>&nbsp;&nbsp;&nbsp; I:dirt_size=18<br>&nbsp;&nbsp;&nbsp; I:sand_chance=45<br>&nbsp;&nbsp;&nbsp; I:sand_size=22</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "68kmmpK6dTY=",
+  "content": "<p>本模组修复了 <a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-264285\" target=\"_blank\" rel=\"nofollow\">MC-264285</a> 漏洞，该漏洞会导致苦力怕完全消耗打火石等不可破坏的交互物品。</p><h2>漏洞详情</h2><p>在《我的世界》中，你可以使用打火石等物品点燃苦力怕。原版代码在处理该功能时未正确检查物品是否被视为不可破坏，导致物品被完全消耗。本模组添加了正确的检查机制，将防止物品被销毁或损耗耐久度。</p><h2>验证方式</h2><p>你可以通过以下方式验证模组是否修复了该漏洞：在生存模式下生成为一个不可破坏的打火石，然后右键点击苦力怕立即将其点燃。如果模组已安装并正常运行，打火石不应消耗任何耐久度，也不会被瞬间损坏。</p><p><strong>注意：</strong>必须在生存模式下测试。创造模式玩家不受此漏洞影响，因为游戏不会尝试对创造模式玩家的物品造成损耗。</p><ul>\n<li>1.21+ /give @s flint_and_steel[unbreakable={}]</li>\n<li>1.20.x /give @s flint_and_steel{Unbreakable:1}</li>\n</ul><p>&nbsp;</p><p><img src=\"https://assets.blamejared.com/nodecraft/darkhax.jpg\" alt=\"Nodecraft 赞助标志\" width=\"1080\" height=\"40\">本项目由 Nodecraft 赞助。使用优惠码 <a href=\"https://www.curseforge.com/linkout?remoteUrl=https://nodecraft.com/r/darkhax\" rel=\"nofollow\">DARKHAX</a> 即可享受首月服务 7 折优惠！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

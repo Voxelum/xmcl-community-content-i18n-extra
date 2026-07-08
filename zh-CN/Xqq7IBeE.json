@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nwDzu9XeBio=",
+  "content": "## 将仙人掌加入锄头可挖掘标签组，使其能被更快破坏\n\n### 使用模组版本时的安装说明：\n这些功能与数据包版本完全相同，但会应用到所有创建/启用了本模组的世界。若不想对所有世界生效，请改用数据包版本\n\n**Forge**：\n<br>无需任何依赖，直接将模组放入mods文件夹\n\n**Fabric**：\n<br>需要Fabric API支持\n\n**Quilt**：\n<br>需要Quilted Fabric API支持\n\n### Purpur扩展包\nPurpur扩展包是那些曾被建议加入Purpur核心功能——或符合Purpur主题，但最终更适合作为数据包发布的特性！\n<br>这些数据包的功能与Purpur中的单个配置选项相同。它们可以随时添加或移除，不会对服务器造成损害。\n<br>这些扩展包可在原版环境中使用，无需运行Purpur服务端",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

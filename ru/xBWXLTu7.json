@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EccEe7irycQ=",
+  "content": "![Логотип Thermal And Space](https://raw.githubusercontent.com/Mrthomas20121-Mods/Thermal-And-Space/master/src/main/resources/assets/thermal_and_space/thermal_in_space.png)\n# Что такое Thermal And Space?\nThermal And Space — это дополнение к модам Ad Astra и Thermal, которое добавляет термальные руды на планеты в игре Ad Astra.\n# Где появляются руды?\n- Нефтяной сланец встречается на Луне, Марсе и Венере.\n- Апатит можно найти на Луне, Марсе и Венере.\n- Киноварь обнаруживается на Меркурии, Марсе и Венере.\n- Свинец встречается на Венере, Glacio и Марсе.\n- Никель находится на Меркурии и Луне.\n- Нитер встречается на Меркурии, Glacio и Луне.\n- Рубин обнаружен на Луне, Марсе и Венере.\n- Сапфир встречается на Меркурии и Венере.\n- Серебро можно найти на Луне, Марсе, Меркурии и Венере.\n- Олово есть на всех планетах: Луне, Марсе, Меркурии, Венере, Glacio.\n\nВсе руды имеют более высокую частоту спавна, чем руды Thermal из Overworld.\n# Могу ли я настроить генерацию руд?\n\nДа, можете. Генерация руд осуществляется с помощью datapack.\n\nДля этого необходимо изменить размещённые особенности в файле `resources/data/thermal/worldgen/placed_feature/space_orename.json`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PCScS2Qdn20=",
+  "content": "<h1>SimpleVoiceChat 廣播 (Forge)</h1><p>向所有人廣播音訊</p><h3>使用方法</h3><ul>\n<li>確保您擁有管理員權限（可在配置中更改此設定）</li>\n<li>建立並加入名為 <code>broadcast</code> 的群組（可在配置中更改此名稱）</li>\n<li>在群組中說話</li>\n<li>所有人都將聽到您的聲音</li>\n</ul><h4>靈感來源自 <a href=\"https://github.com/Dreaming-Codes/voicechat-broadcast-plugin-fabric\" rel=\"nofollow\">voicechat-broadcast-plugin-fabric</a></h4>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

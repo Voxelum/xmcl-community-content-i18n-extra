@@ -1,0 +1,6 @@
+{
+  "bodyHash": "s2t3pPqwA5U=",
+  "content": "<a href=\"https://ko-fi.com/microcontrollers\" target=\"_blank\">\n  <img alt=\"kofi-singular-alt\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_vector.svg\">\n</a>\n\n<a href=\"https://codeberg.org/MicrocontrollersDev/DroppedItemTweaks\" target=\"_blank\">\n  <img alt=\"codeberg\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg\">\n</a>\n\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/dropped-item-tweaks\" target=\"_blank\">\n  <img alt=\"curseforge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg\">\n</a>\n\n<a href=\"https://modrinth.com/mod/connector\" target=\"_blank\">\n  <img alt=\"sinytra connector\" height=\"56\" src=\"https://files.catbox.moe/6j289t.svg\">\n</a>\n\n# 掉落物品調整\n\n允許自訂掉落物品的外觀。純視覺效果！\n\n## 功能特色\n\n- 靜態掉落物品\n  - 移除上下浮動效果，讓掉落物品僅在原地旋轉。\n- 掉落堆疊物品數量\n  - 允許自訂顯示的掉落堆疊物品數量。原版僅根據物品數量最多顯示5個，而此功能可讓您最多顯示64個。\n  - 與原版不同，此功能會顯示指定的確切物品數量，而原版會根據堆疊中的物品數量調整顯示數量。仍可在設定中停用此功能。\n- 物品縮放比例\n  - 掉落物品的預設縮放比例。\n- 自訂物品縮放比例\n  - 針對自訂物品清單的次要物品縮放比例。常用於UHC疊加顯示，因為您可以為頭顱、黃金等設定自訂縮放比例。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZOLmVZ6vG6M=",
+  "content": "新增一個能容納近乎無限物品的道具。\n\n目前功能尚不完整且穩定性較低。\n\n<br />\n\n放入儲物箱或從容器放入儲物箱：冒號鍵（預設）<br />\n從儲物箱取出或從儲物箱取出並放入容器：冒號鍵（預設）+ Shift<br />\n從儲物箱取出並丟棄：冒號鍵（預設）+ Shift + Ctrl<br />\n切換自動收集：冒號鍵（預設）+ Ctrl\n\n \n\n配方請參閱此處↓\n\n[Forge 版本（其他作者）](https://www.curseforge.com/minecraft/mc-mods/storagebox-mod)\n\n \n\n（向 Unyuho 様取得許可嘗試改編為 Fabric 版本，但最終未能成功，在參考原作後從頭編寫了程式碼。僅使用了資源包。深感抱歉。）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

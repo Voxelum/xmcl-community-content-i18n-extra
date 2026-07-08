@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eyeEucz4Skc=",
+  "content": "# 自訂游標\n\n這個模組讓您可以依照個人風格自訂滑鼠圖示。  \n您可以設定點擊位置、大小、旋轉角度及鏡像翻轉。  \n您可以將游標圖片加入游標資料夾，或是從 minecraft / 任何已安裝模組或材質包中[存取任意紋理](https://minecraft.wiki/w/Resource_location#Pack_contents)。\n\n在 Minecraft 1.21.9 及以上版本中，您還可以使用動態游標功能，根據不同的情境使用不同的游標。\n\n設定畫面  \n![1.21.9+ 設定](https://cdn.modrinth.com/data/cached_images/56536e6bd72e7be6d267025cf89ba623406f7177_0.webp)\n\n## 相容性警告\n\n雖然本模組為自 1.21.1 起的所有 Minecraft 版本提供建構檔，但目前僅測試以下版本：  \n```1.20.1, 1.20.4, 1.21.1, 1.21.4, 1.21.8, 最新 MC 版本```\n\n未來可能根據使用統計調整清單。  \n如果您發現任何問題，請在 GitHub 或 Discord 上回報。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

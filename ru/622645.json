@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tpPFcxUOLzs=",
+  "content": "<h1>Карта цветов</h1><p>Показывает градиент цветов в стиле миникарты. Поскольку с версии 1.18 градиент стал трёхмерным, этот мод позволяет управлять уровнем y, на котором отображается карта. По умолчанию используется текущая высота игрока, но можно переключиться на ручной режим управления высотой, который можно настроить через сочетания клавиш.</p><p>Этот мод работает и в многопользовательской игре без необходимости указывать сейв, если только биомы не были изменены на стороне сервера с помощью datapack.</p><p><img src=\"https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/shot1.jpg\" alt=\"Средняя высота Y\"></p><p><img src=\"https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/shot2.jpg\" alt=\"Высокая высота Y\"></p><p><img src=\"https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/settings.png\" alt=\"Настройки\"></p><p><img src=\"https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/keybind.png\" alt=\"Сочетание клавиш\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

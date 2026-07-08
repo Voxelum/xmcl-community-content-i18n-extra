@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uerFVojD7NI=",
+  "content": "该翻译器将《我的世界》中的所有文本通过谷歌翻译处理5次（可配置）。\n这会使文本变得仍能部分理解，但游玩时充满趣味性。\n该模组会缓存所有来自谷歌翻译的响应，以减少加载时间，因为生成缓存可能需要长达3小时（针对原版约5000条文本）。\n这使得在生成缓存后，对加载/性能不会产生重大影响。\n实际上，模组中甚至包含一个预生成的名称缓存，并在可能时使用。\n您还可以下载包含大多数模组预缓存响应的附加文件，以牺牲少量磁盘空间为代价提高速度。\n请注意，生成附加文件需要一些时间，因此更新后可能不会立即可用。\n该模组应与大多数使用原版翻译系统的其他模组良好兼容。\n\n您可以配置以下内容：\n- 所有文本应被翻译的次数（默认为10次，需要重新生成缓存）\n- 是否使用随机语言作为源语言（这会导致大多数文本无法识别，需要重新生成缓存）\n- 翻译的目标语言，也应等于游戏语言。您可以使用“自动”尝试自动检测\n- 翻译进度指示器，用于监控初始生成过程\n\n注意：您可能需要增加 `libjf-translate-v1` 配置中的 `throttleMillis` 值，以避免服务速率限制\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"建议与支持\" src=\"https://img.shields.io/badge/Suggestions%20and%20Support-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

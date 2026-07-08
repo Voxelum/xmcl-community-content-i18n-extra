@@ -1,0 +1,6 @@
+{
+  "bodyHash": "C2bOYcUnJVY=",
+  "content": "# Простой Эндер-рюкзак\n\nЭтот мод добавляет Эндер-рюкзак, который служит портативным эндер-сундуком. Он создается, если окружить эндер-сундук кожей, и может быть открыт, если использовать его как предмет или держать где-либо в инвентаре и нажать B (по умолчанию; настраивается). Если установлен [Accessories](https://modrinth.com/mod/accessories), рюкзак также можно надеть в слот «Спина».\n\nВерсия для Fabric требует [Fabric API](https://modrinth.com/mod/fabric-api).\n\nУ версии для NeoForge зависимостей нет.\n\n![рецепт](https://cdn.modrinth.com/data/cached_images/fe9635334f39daff819853d83aa59daf7b9f3bc9.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

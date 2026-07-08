@@ -1,0 +1,6 @@
+{
+  "bodyHash": "l6C9Q0tIlhw=",
+  "content": "<h3 style=\"text-align:center\"><img src=\"https://media.discordapp.net/attachments/849744267093606410/930198336928116736/asdasd.png\" alt=\"更長登入時間橫幅\" width=\"848\" height=\"311\"></h3><h3 style=\"text-align:center\">&nbsp;</h3><h3 style=\"text-align:center\"><strong>更長登入時間</strong>解決了常見問題，例如嘗試連接伺服器時出現「登入時間過長」的訊息。</h3><p>&nbsp;</p><p><img src=\"https://imgur.com/pDPiFx4.png\" alt=\"分隔線\" width=\"848\" height=\"1\"></p><h3><strong>⚙️ 變更內容</strong></h3><h4>&nbsp;</h4><h4>原版遊戲在加入伺服器時有30秒的超時限制。當使用大量模組或在較慢的硬體上遊玩時，載入所有內容可能需要超過30秒的超時限制。這將導致連接的玩家被踢出，並顯示「登入時間過長」的訊息。</h4><h4><em>在舊版的Minecraft中，可以透過使用`<strong><span style=\"color:#333\">-Dfml.readTimeout=60</span></strong>`程式參數來解決這個問題，但在較新的Minecraft版本中，這不再有效。</em></h4><p>&nbsp;</p><h4>更長登入時間增加了加入伺服器時的登入超時限制。使用更長登入時間時的預設限制為3分鐘，但這可以在配置中進行調整。</h4><p>&nbsp;</p><p><img src=\"https://imgur.com/pDPiFx4.png\" alt=\"分隔線\" width=\"848\" height=\"1\"></p><h3><strong>❔ 常見問題</strong></h3><h4>&nbsp;</h4><h4><strong>我可以在我的模組包中使用你的模組嗎？</strong></h4><h4>- 是的，歡迎在你的模組包中使用更長登入時間！</h4><h4><strong>更長登入時間需要在客戶端安裝嗎？</strong></h4><h4>- 不需要，它只需要在伺服器上安裝。</h4>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

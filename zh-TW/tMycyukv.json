@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xNna//bWTL0=",
+  "content": "![LOADER FORGE](https://img.shields.io/badge/Loader-Forge-ecebe6?labelColor=B446C6&style=for-the-badge) ![AVAILABLE 1.20.1](https://img.shields.io/badge/Available-1.20.1-ecebe6?labelColor=B446C6&style=for-the-badge)\n![Main Logo](https://cdn.modrinth.com/data/cached_images/adc712c3602ec90da72c7dadec226e9f70fbd895_0.webp)\n此模組為[MegaDarkness](https://modrinth.com/user/MegaDarkness)所創作模組的通用函式庫，提供共用程式碼以避免不必要的重複開發與重新實作。\n\n此外，它將Minecraft較新版本（>1.20.1）的部分功能（例如[Item Components](https://minecraft.wiki/w/Item_components)）移植回來，並新增了額外指令。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KUl5f1rRbHA=",
+  "content": "<h1>安維安的函式庫</h1><p>此函式庫專為我的模組設計，包含多種對專案有幫助的功能。此外，它引入了遙測功能以追蹤使用我模組的玩家數量。如有需要，可透過設定檔案停用遙測功能。詳情請參閱<a href=\"/linkout?remoteUrl=https%253a%252f%252fanvian.net%252ftelemetry\" rel=\"nofollow\">遙測說明</a>頁面。</p><h2>使用方式</h2><p>請在<code>gradle.properties</code>中加入：</p><pre><code>anvianslib_version=&amp;lt;版本號&amp;gt;\n</code></pre><p>請在<code>build.gradle</code>中加入：</p><pre><code>repositories {\n    maven {\n        name = 'Repsy Anvian'\n        url = '<a href=\"\" target=\"_blank\" rel=\"nofollow\">https://repo.repsy.io/mvn/anvian/anvians-lib'</a>\n    }\n}\n</code></pre><ul>\n<li>通用版本：</li>\n</ul><pre><code>  implementation \"net.anvian.anvianslib:anvianslib-common-1.21:${anvianslib_version}\"\n</code></pre><ul>\n<li>Fabric版本：</li>\n</ul><pre><code>  modImplementation \"net.anvian.anvianslib:anvianslib-fabric-1.21:${anvianslib_version}\"\n</code></pre><ul>\n<li>Forge版本：</li>\n</ul><pre><code>  implementation \"net.anvian.anvianslib:anvianslib-forge-1.21:${anvianslib_version}\"\n</code></pre><ul>\n<li>NeoForge版本：</li>\n</ul><pre><code>  implementation \"net.anvian.anvianslib:anvianslib-neoforge-1.21:${anvianslib_version}\"\n</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

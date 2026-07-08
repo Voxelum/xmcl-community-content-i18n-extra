@@ -1,0 +1,6 @@
+{
+  "bodyHash": "l81kOsX7s0I=",
+  "content": "# 標籤翻譯\n\n![比較](https://i.postimg.cc/44M5dBWF/comparison.png)\n\n最近，Fabric 和 NeoForge 開始支援 Minecraft 標籤系統的本地化，包括為慣例標籤命名空間（\"c\" 命名空間）加入翻譯。這些翻譯被 Just Enough Items 用於其方塊和物品的標籤條目。不過，Fabric 和 NeoForge 目前並未提供原版（\"minecraft\"）命名空間的翻譯。這就是 Tag Translations 所填補的缺口。\n\n除了 JEI 之外，這個模組也適用於其他使用翻譯標籤的模組，例如 [Tag Tooltips](https://www.curseforge.com/minecraft/mc-mods/tagtooltips)。\n\n目前僅提供英文翻譯。如果你想貢獻其他語言，請聯絡我，或[在 Github 上提交拉取請求](https://github.com/J4gm/TagTranslations)。\n\n## 備註\n\n- 此模組適用於 Fabric、NeoForge 和 Forge。\n- 此模組僅限用戶端使用。（實際上它只是一個包裝在模組容器中的資源包）\n- 你可以在模組包中使用此模組。關於發佈的其他問題，請參閱授權條款。\n- 如果你想在社群媒體上關注我，請查看[我的 Tumblr](https://tumblr.com/j4gm) 或 [Bluesky](https://j4gm.bsky.social)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

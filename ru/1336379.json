@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ljV4Tu1NdQA=",
+  "content": "<p><strong>Устали использовать зелья для изготовления пороха?</strong><br><strong>Теперь ваши заботы решены!<br><br></strong></p><p>Поместите зольную муку, древесный уголь, кремни и четверть ведра воды (250 мБ)<br>в нагретый смеситель, чтобы получить один порох.</p><p>Зольная мука играет роль серы, древесный уголь — роль угля, а кремень — роль калия.<br><br></p><p>(Обратите внимание: этот мод был создан для моего PvP-сервера и может иметь проблемы с балансом.)<br><br>{<br>&nbsp;\"type\": \"create:mixing\",<br>&nbsp;\"ingredients\": [<br>&nbsp; &nbsp; { \"item\": \"create:cinder_flour\" },<br>&nbsp; &nbsp; { \"item\": \"minecraft:charcoal\" },<br>&nbsp; &nbsp; { \"item\": \"minecraft:flint\" },<br>&nbsp; &nbsp; { \"fluid\": \"minecraft:water\", \"amount\": 250 }<br>&nbsp;],<br>&nbsp;\"results\": [<br>&nbsp; &nbsp; { \"item\": \"minecraft:gunpowder\", \"count\": 1 }<br>&nbsp;],<br>&nbsp;\"heatRequirement\": \"heated\",<br>&nbsp;\"processingTime\": 400<br>}</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

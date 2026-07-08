@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sXmM3qu2WMg=",
+  "content": "本模组作为游戏内的翻译工具，用于翻译各类游戏元素中的文本内容，且不会修改世界数据。支持翻译聊天窗口、计分板、Boss血量条、标题文本、物品提示框、告示牌、书籍内容、实体名称等。\n\n## 主要特性\n\n- **非侵入式翻译：** 所有功能均不会修改游戏世界数据。\n- **多种翻译模式：** 支持自动翻译、点击翻译、快捷键翻译等多种方式。\n- **屏幕OCR识别：** 可识别屏幕上的文本并进行翻译。\n- **快捷键：**\n    - 按下 **U** 键打开翻译选项。\n    - 按下 **O** 键启动屏幕识别（OCR）。\n\n## 游戏内指令\n\n- `/transconfig config`：打开翻译器配置界面，可设置翻译服务、API密钥等选项。也可通过模组菜单访问。\n- `/transconfig language <源语言> <目标语言>`：设置翻译的源语言和目标语言。\n- `/transconfig chatformat <格式>`：设置聊天翻译的显示格式。\n- `/transconfig clearcache`：清除翻译缓存。\n- `/translate <文本>`：翻译指定文本的指令。\n- `/translate-re <文本>`：反向翻译指令，将目标语言文本翻译回源语言。\n\n## 支持的翻译服务\n\n本模组集成了以下翻译服务：\n\n- **OpenAI**（支持自定义提示词）\n- **百度翻译**\n- **有道翻译**\n\n用户需自行从各平台获取API密钥，然后通过模组菜单或 `/transconfig config` 指令配置翻译器。\n\n### 自定义OpenAI提示词\n\n若使用OpenAI翻译器，可编辑 `.minecraft/config/translator/prompt.md` 文件，自定义翻译提示词，从而调整翻译风格、术语偏好等。修改后运行 `/transconfig reload` 指令即可应用。\n\n---\n\n> **注意：** 以上说明适用于 **3.0.0及以上版本**。若版本低于3.0.0，请参考[旧版项目仓库](https://github.com/xkgt/Translator)的文档。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

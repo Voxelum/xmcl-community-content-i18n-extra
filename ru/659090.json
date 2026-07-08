@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OMmKGjkFoE0=",
+  "content": "<p>Если добавлена рецептура, в которой в качестве ингредиента в печи используется топливо, такое как уголь, то при перетаскивании стопки углей с помощью Shift-кликера они будут помещаться не в слот для топлива, а в слот для входных материалов.</p><p>&nbsp;</p><p>Этот мод изменяет поведение таким образом, что слот для топлива всегда заполняется первым, перед тем как заполнять слот для входных материалов.</p><p>&nbsp;</p><p>По умолчанию мод изменяет только поведение для угля и древесного угля. Вы можете добавить больше видов топлива, включив их в тег предмета</p><pre>fuelgoeshere:forced_fuels</pre><p>&nbsp;</p><p>Дискорд для поддержки&nbsp;<a href=\"https://discord.gg/Vayx3k8Szd\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/Vayx3k8Szd</a></p><p>&nbsp;</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.akliz.net%252flobstermods\" rel=\"nofollow\"><img src=\"https://jonn.dk/akliz_banner_productivebees.png\" alt=\"Спонсорское время\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

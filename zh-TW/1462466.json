@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QriRIGixMVA=",
+  "content": "<p>新增食物：<br>繃帶、怪物糖果、蜘蛛甜甜圈、蜘蛛蘋果酒、奶油糖果派、蝸牛派、雪人碎片、美味冰淇淋、獨角獸冰棒、雙色冰棒、肉桂兔、太空食物、酸蘋果、海洋茶、廢棄乳蛋餅、泰米片、泡麵、熱狗、熱貓、垃圾食物、星星凍、光輝漢堡、傳奇英雄、Mettaton牛排、波塔多薯片、糟糕回憶、最終之夢<br><br>新增物品：<br>打孔卡、惱人的狗、神秘鑰匙、Undyne的信<br><br>新增武器：<br>樹枝、玩具刀、堅韌手套、芭蕾舞鞋、破舊筆記本、燒焦的平底鍋、空槍、磨損的匕首、真刀<br><br>新增護甲：<br>繃帶、褪色緞帶、男子漢頭巾、舊芭蕾舞裙、模糊眼鏡、泰米盔甲、沾汙圍裙、牛仔帽、心形吊墜、吊墜盒<br><br>新增方塊：<br>決心（放置在草地方塊上時，能儲存重生點並恢復生命值）<br><br>新增進度：<br>Undertale（加入遊戲時給予所有配方）、Temmie（食用泰米片後獲得泰米盔甲配方）、Pacifist（1級LOVE第二次加入遊戲時給予磨損的匕首和心形吊墜）、Genocide（達到20級LOVE後給予真刀和吊墜盒）<br><br>新增遊戲規則：<br>No Hunger：僅Undertale食物有效，你不會感到飢餓但飢餓值不影響任何事情，現在只能透過食用Undertale食物或使用決心來恢復生命<br>LOVE：經驗值代表LOVE等級，起始LOVE為1級，獲得更多經驗等級後生命值增加且變得更強，若超過20級LOVE則會變成Chara<br>Undertale：啟用所有Undertale遊戲模式<br><br>新增指令：<br>/enable_undertale true 啟用所有Undertale遊戲規則<br>/enable_undertale false 停用所有Undertale遊戲規則<br><br>新增合成配方：<br>所有物品皆有合成配方</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

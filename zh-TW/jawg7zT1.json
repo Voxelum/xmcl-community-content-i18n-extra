@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vX5PAYFR7qo=",
+  "content": "## 什麼...什麼是「洞穴塵埃」？\n很高興你問了！這只是一個將玄武岩三角洲生物群系的白灰粒子添加到地底模擬塵埃的模組！畢竟在真實的礦井中空氣不可能100%乾淨嘛 :p\n\n現在來說說細節：它的運作原理是檢查玩家是否位於海平面以下且頭頂沒有天空，然後根據深度調整粒子數量。\n\n它有一個可透過Mod Menu存取的配置系統，大部分設定都能在遊戲內調整，但若要更改粒子效果就需要手動開啟設定檔囉 :)\n另外要注意的是，在繁茂洞穴生物群系中不會觸發效果，因為那裡已經有自己的粒子效果了 :p\n\n這個靈感來自[moonflower Discord伺服器](​https://www.moonflower.gg/discord)的Dylanstime，感謝這個點子！\n![Dylanstime的Discord訊息截圖，內容為：「有沒有辦法複製玄武岩三角洲的塵埃程式碼，把它們放進洞穴但數量更少、速度更慢？或者做個模組在其他生物群系加入類似效果」](https://media.forgecdn.net/attachments/443/991/image_2022-03-26_163011.png)\n\n# 必要元件\n洞穴塵埃需要Fabric API，其他所需檔案都已包含在模組中。不過我建議安裝Mod Menu才能使用設定介面 :p\n\n# 展示影片\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5VO_Ye_GxLo\" title=\"YouTube影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

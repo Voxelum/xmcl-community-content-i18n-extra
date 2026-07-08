@@ -1,0 +1,6 @@
+{
+  "bodyHash": "L4BfkbkpCHw=",
+  "content": "![Citadel-Logo](https://i.imgur.com/KyeiwRx.png)\n\n「根據我的歷史數據分析，有97.34%的機率你清楚我誕生於你的星球，並在堡壘空間站（Citadel Station）重生為美麗的存在。」——網路奇兵2（System Shock 2）\n\n堡壘（Citadel）是一個函式庫模組，用於1.14及以上版本中的進階動畫與實體屬性功能。作為函式庫，堡壘本身並未添加太多功能，而是為其他模組提供框架，用於動畫實體、載入.tbl（Tabula格式）與.obj（Waveront格式）模型，以及追蹤實體屬性。堡壘的前身LLibrary將不再更新（1.12.2以上版本），從此我的所有模組都將使用堡壘。堡壘的程式碼主要源自LLibrary，並經由LLibrary維護者及近期版本作者Gegy1000授權使用。\n\n在1.6.3及以上版本中，還新增了設定選項，可調整區塊生成時生物生成的數量上限。這對使用需要堡壘的多生物模組時特別有用，若不調整此上限，原版生物的生成可能會變得相當困難。\n\n想使用堡壘的開發者可參閱[如何將其加入開發環境的指南](https://github.com/Alex-the-666/Citadel/wiki/Getting-Started)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

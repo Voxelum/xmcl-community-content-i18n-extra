@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ur6jKbOGHLI=",
+  "content": "# 繁體中文版\n\n\n> ### **Morpher Mod**\n\n\nMorpher 是一個模組，能將玩家的渲染替換為自訂的 geckolib 模型，並匯入你自己的動畫。\n\n----------------------------------\n\n📁 **模組安裝方式**\n\n1. 安裝依賴模組：**Geckolib 1.20.4 Fabric 和 ARRP 1.20.1**，通常 1.20.1 可以在 1.20.4 環境下正常運作，因此沒有版本衝突問題，請使用 **ARRP 0.8.1**。\n\n2. 將依賴模組和 Morpher 同時安裝至伺服器與用戶端。\n\n----------------------------------\n\n🎨 **匯入模型、材質與動畫**\n\n1. 在**伺服器端**建立一個名為「morpher」的資料夾。在 morpher 資料夾內，再建立三個子資料夾：geo、textures、animations。\n\n2. 將你用 geckolib 建立的模型檔案放入 geo 資料夾。\n\n3. 將該 geo 模型的材質貼圖放入 textures 資料夾。\n\n4. 將該 geo 模型的動畫放入 animations 資料夾。\n\n> **注意** 所有檔案必須使用相同的名稱，例如：player.geo.json、player.png、player.animation.json\n\n----------------------------------\n\n👤 **使用你的模型、材質與動畫**\n\n1. 首先，執行以下指令，讓伺服器正確偵測檔案，避免 Minecraft 崩潰：**/morpher reload**\n\n2. 若要讓你想使用的模型顯示出來，請執行此指令：**/morpher <你的名稱> visible true**\n\n3. 若要設定模型，請執行此指令：**/morpher <你的名稱> set model <你的模型>**\n\n4. 若要設定材質，請執行此指令：**/morpher <你的名稱> set texture <你的材質>**\n\n5. 若要設定動畫，請執行此指令：**/morpher <你的名稱> set anim <你的動畫>**\n\n----------------------------------\n\n> 這個模組的第一個版本目前處於 **BETA 測試階段**，因此還有一些需要修正的問題。我們會盡快修復，讓你有更好的遊戲體驗且不出錯 :)。如果你發現任何錯誤或崩潰，請透過 Discord 聯絡我：**badendingg_** 或 **azukiss.**，告訴我你的錯誤資訊，我會協助你解決！\n[模組 Discord 伺服器](https://discord.gg/JPUJyau8Ab)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

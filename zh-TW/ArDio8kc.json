@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pQ2m2BZO7ZA=",
+  "content": "這是我為了更新由Presti原創的模組「cc-ballistx」而製作的分支版本，該模組新增了一個周邊設備，讓玩家能夠從BallistX模組中控制導彈發射井。同時感謝CamoHax提供的方塊模型。\n\n要透過電腦與BallistiX發射井互動，您需要將發射井控制器放置在發射井中心方塊的下方。之後，您可以透過其名稱「siloController」來存取這個周邊設備（例如使用peripheral.find(\"siloController\")），或是使用wrap函數從特定方向取得它（例如peripheral.wrap(\"top\")）。\n\n發射井控制器具有以下功能：\n- launch() 與 launchWithPosition(int x, int y, int z)\n- getFrequency() 與 setFrequency(int freq)\n- getPosition() 與 setPosition(int x, int y, int z)\n- getExplosiveType() 與 getExplosiveAmount()\n- getMissileType() 與 getMissileAmount()\n- getPower() 與 getMaxPower()",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

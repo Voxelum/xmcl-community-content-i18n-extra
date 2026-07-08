@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wXpkNLfc2NU=",
+  "content": "鞘翅插槽（Elytra Slot）是一款模组，它利用Curios API/Trinkets API为玩家物品栏新增了一个鞘翅插槽，并允许将鞘翅放入此插槽。当鞘翅处于该插槽时，它将提供与胸甲插槽中相同的飞行能力，使玩家无需牺牲护甲插槽即可获得鞘翅的增益效果。\n\n### Forge依赖\n* [Curios](https://modrinth.com/mod/curios)\n* [Caelus](https://modrinth.com/mod/caelus)\n\n### Fabric依赖\n* [Trinkets](https://modrinth.com/mod/trinkets)\n\n### **Curios**\n![](https://i.imgur.com/gFyQBPW.png)\n\n### **Trinkets**\n![](https://i.ibb.co/FVV3gSp/elytratrinket.png)\n\n## 支持\n\n所有漏洞、问题和功能请求请提交至[问题追踪器](https://github.com/illusivesoulworks/elytraslot/issues)。\n\n非技术性支持与咨询，请加入开发者的[Discord](https://discord.gg/JWgrdwt)。\n\n## 许可协议\n\n所有源代码和资源均遵循LGPL-3.0-or-later许可协议。\n\n## 捐赠\n\n可通过[Ko-fi](https://ko-fi.com/C0C1NL4O)向开发者进行捐赠。\n\n## 合作伙伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

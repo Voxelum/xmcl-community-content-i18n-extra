@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jArp9lALzEI=",
+  "content": "# Команда для вывода списка модов\nМод добавляет команду для вывода списка модов. &lt;br/&gt;\nЕго не нужно устанавливать на стороне клиента, за исключением использования в одиночной игре.\n\n## Команды\n- `/mods` : Выводит список модов по имени на сервере\n- `/mods help` : Получить помощь по команде mods\n- `/mods info &lt;mod_id&gt;` : Получить информацию о моде\n- `/mods all [id/name]` : Выводит все моды на сервере\n- `/mods normal [id/name]` : Выводит обычные моды на сервере\n\n## Зависимости\n- [MCPitanLib](https://modrinth.com/mods/mcpitanlibarch)\n  - [Architectury API](https://modrinth.com/mod/architectury-api)\n\n- [Fabric API](https://modrinth.com/mod/fabric-api) (только для Fabric)\n\n## Лицензия\n- CC0-1.0\n\n\nСодержание касается модов Minecraft, ресурс-паков, модпаков, шейдер-паков или других связанных с Minecraft ресурсов. Пожалуйста, сохраняйте стиль изложения приятным для геймеров.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

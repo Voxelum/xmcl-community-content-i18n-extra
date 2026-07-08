@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fnXsU5ql5rM=",
+  "content": "<p>終於，你的雪人大軍不再完全無用了！<br>\n這個小模組讓雪人丟出的雪球能造成少量傷害。<br>\n如此一來，他們終於能保護自己免受那些邪惡怪物的侵害。</p><p>&nbsp;</p><p><strong>簡單易用，可隨時添加/移除。</strong><br>\n<strong>預設僅雪人丟出的雪球會造成傷害。可設定啟用玩家傷害。</strong></p><p>想要你的軍隊自行壯大嗎？你可以啟用一個設定選項，讓被雪球殺死的怪物變成雪人。</p><h3><a href=\"https://github.com/maxanier/EnhancedSnowman#details\" target=\"_blank\" rel=\"nofollow\"></a>詳細資訊</h3><p>在預設設定下，雪人丟出的雪球會對任何敵對生物造成少量傷害（0.25顆心）。這樣大約需要40顆雪球才能擊倒一隻殭屍，但如果你有足夠的雪人，這個過程應該相當迅速。</p><p>此外，雪球會讓被擊中的怪物凍結（減速）兩秒鐘，讓雪人更有能力自我防衛。</p><p>&nbsp;</p><p>預設情況下，玩家丟出的雪球不會造成傷害。</p><p>以上大部分設定皆可調整。</p><h3><a href=\"https://github.com/maxanier/EnhancedSnowman#server\" target=\"_blank\" rel=\"nofollow\"></a>伺服器</h3><p>若想在伺服器上使用此模組，只需在伺服器端安裝即可。用戶端無需安裝。</p><h3><a href=\"https://github.com/maxanier/EnhancedSnowman#configuration\" target=\"_blank\" rel=\"nofollow\"></a>設定</h3><p>可在遊戲內模組列表介面（MC1.21.11或更高版本）或編輯 config/enhanced_snowman-common.toml 檔案來完成。</p><pre><code>    # 將被雪人殺死的生物轉化為雪人</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

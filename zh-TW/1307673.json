@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sm7rgmUxQgU=",
+  "content": "<p>該模組針對最新版本EFM中的一些錯誤提供了修復。<br><br>修復內容包括：<br><br>動畫著色器修復；<br><br>修復使用某些著色器時與動畫著色器功能的相容性問題（僅使用BLISS測試過！）<br><br>3D物品渲染修復；<br><br>修復最新版本EFM中一個奇怪的錯誤，該錯誤會使3D物品根據觀看角度呈現透明狀態。<br><br></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

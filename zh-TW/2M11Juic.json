@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7Lf2EbtvM3c=",
+  "content": "[![圖片](https://img.shields.io/static/v1?label=&message=CurseForge&color=ECEBE6&labelColor=2F4858&style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/kubejs-projecte-fork)\n[![圖片](https://img.shields.io/static/v1?label=&message=Modrinth&color=ECEBE6&labelColor=2F4858&style=for-the-badge&logo=modrinth&logoColor=green)](https://modrinth.com/mod/kubejs-projecte-fork)\n\n讓你能夠透過 ProjectE 模組設定物品的 EMC 數值與賢者之石的方塊轉換功能。以下提供範例說明。\n\n注意：Modrinth 並未託管 ProjectE 的版本，因此使用此模組時，你需要從其他來源下載 ProjectE。\n\n在 server_scripts 中：\n\n```\nProjectEEvents.setEMC(event => {\n    // 設定物品的絕對 EMC 數值\n    event.setEMC(\"minecraft:cobblestone\", 10000) // 別名：setEMCAfter\n\n    // 在其他所有處理之前設定物品的 EMC 數值\n    // 這有時可能導致此 EMC 數值未被設定，\n    // 但也允許從此數值衍生出其他 EMC 值，例如合成配方。\n    event.setEMCBefore(\"minecraft:stick\", 10000);\n})\n```\n\n在 startup_scripts 中：\n```\nProjectEEvents.registerWorldTransmutations(event => {\n    event.transform(\"minecraft:tnt\", \"minecraft:oak_planks\");\n})\n```\n\n[MasterOfBob777](https://modrinth.com/user/MasterOfBob777) 原始模組作者\n\nhttps://blatfan.carrd.co/",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

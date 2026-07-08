@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lSIKKIb1VW4=",
+  "content": "<h1><span style=\"text-decoration:underline\"><strong>无限驱动</strong></span></h1><h2><span style=\"text-decoration:underline\"><strong>概述</strong></span></h2><p>无限驱动模组新增了一个方块和几种驱动物品。将驱动放入方块GUI后，该方块将拥有对应物品或流体的无限数量。</p><h2><span style=\"text-decoration:underline\"><strong>兼容性</strong></span></h2><p>可通过KubeJS添加自定义驱动。</p><p>连接存储总线的AE2，以及连接外部存储的精致存储，都将显示为最大整数且物品永不消耗。同时支持大多数使用ItemHandlers和FluidHandlers的模组，如BBL路由器。</p><h2><span style=\"text-decoration:underline\"><strong>支持</strong></span></h2><p>加入BBL <a href=\"https://discord.gg/benbenlaw\" target=\"_blank\" rel=\"nofollow\">Discord</a>以获取支持、报告漏洞或建议功能及补充内容。您也可以在<a href=\"https://www.patreon.com/benbenlaw\" target=\"_blank\" rel=\"nofollow\">Patreon</a>上支持我，以获取开发中的整合包和模组的Alpha测试权限。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "In2RPt2whiE=",
+  "content": "# 回放语音聊天\n\n一个兼容性模组，用于使用 [ReplayMod](https://www.replaymod.com/) 录制 [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)。\n\n![](https://i.imgur.com/jQsK7O3.png)\n\n## 功能\n\n- 开箱即用\n- 录制语音聊天玩家图标\n- 录制位置音频\n- 录制群聊音频\n- 录制你自己的音频\n- 每个音频轨道在渲染时单独导出\n- 支持 Simple Voice Chat 插件 API\n- 支持加速或减速回放\n\n## 支持的版本\n\n仅支持 ReplayMod 发布的最新 Minecraft 版本。\n\n## 配置\n\n如果你是服务器所有者，可以在语音聊天配置中将 `broadcast_range` 设置为更高的值，以便能够录制和回放比正常语音聊天距离更远的音频（从录制者的角度来看）。\n\n## 鸣谢\n\n- [Sonic](https://github.com/waywardgeek/sonic)\n- [ReplayMod](https://github.com/ReplayMod/ReplayMod)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

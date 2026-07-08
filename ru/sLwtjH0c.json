@@ -1,0 +1,6 @@
+{
+  "bodyHash": "84+vArJj/kA=",
+  "content": "# Темный прозрачный GUI\nЭтот пакет текстур делает все графические пользовательские интерфейсы (GUI и HUD) прозрачными и минималистичными, оставляя только черные границы и обеспечивая беспрепятственный обзор игрового процесса.\n\n## Скриншоты\n\n![Инвентарь](https://cdn.modrinth.com/data/sLwtjH0c/images/9e0fedd365a8be032d516d0e869181311715d474.png)\n![Крафт](https://cdn.modrinth.com/data/sLwtjH0c/images/181f58d5b45792472b72ed22f3e331a7a20b4be3.png)\n\n[Другие скриншоты](https://modrinth.com/resourcepack/dark-transparent-gui/gallery)\n\nНеобязательно:\n- Установите [Respackopts](https://modrinth.com/mod/respackopts) (версия 2.3.0 и выше) для меню настроек (DTG версии 3.0 и выше) — вы можете выбрать другое изображение фона меню и отключить некоторые текстуры.\n- Установите [OptiFine](https://optifine.net/), чтобы получить черный фон на экране загрузки логотипа Mojang.\n\nРесурспак также доступен на [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dark-transparent-gui).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CdOgU171lBY=",
+  "content": "<p>Добавляет теги для Thaumcraft в XML-файл InGame Info.</p><p>&nbsp;</p><p><strong>Примечание: поддержка SMP для ауры и потока требует установки на сервер. Дополнение должно быть добавлено на сервер, чтобы клиент мог получать данные.</strong></p><p>&nbsp;</p><p>Добавленные теги:</p><ul>\n<li>thaumaura — Возвращает текущее количество ауры в текущем чанке</li>\n<li>thaumflux — Возвращает текущее количество потока в текущем чанке</li>\n<li>thaumwarpperm — Возвращает ваш текущий уровень постоянной деформации</li>\n<li>thaumwarpnormal — Возвращает ваш текущий уровень нормальной деформации</li>\n<li>thaumwarptemp — Возвращает ваш текущий уровень временной деформации</li>\n</ul><p>Пример использования:</p><div>\n<pre> &lt;line&gt;<br> &lt;str&gt;Vis A: $e{thaumaura}$f F: $e{thaumflux}$f&lt;/str&gt;<br> &lt;/line&gt;<br> &lt;line&gt;<br> &lt;str&gt;Warp PNT: $e{thaumwarpperm}$f/$e{thaumwarpnormal}$f/$e{thaumwarptemp}$f&lt;/str&gt;<br> &lt;/line&gt;</pre>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

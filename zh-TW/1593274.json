@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TZcdumRY5Uk=",
+  "content": "<h1>乾淨清晰玻璃 (C&amp;CG) Fabric 模組</h1><p>從 Minecraft 26.1 開始，乾淨清晰玻璃以獨立 Fabric 模組的形式繼續提供。</p><p>對於較舊的 Minecraft 版本，建議改用<a href=\"https://www.curseforge.com/minecraft/texture-packs/clean-and-clear-glass\" target=\"_blank\" rel=\"nofollow\">舊版資源包</a>。此模組版本專為 Minecraft 26.1 及未來更新版本製作。</p><p>乾淨清晰玻璃 (C&amp;CG) 藉由讓玻璃方塊與玻璃片更乾淨地連接，改善原版玻璃的外觀。它保留了原始的原版方塊，但改變了它們在用戶端的渲染方式，使連接後的玻璃看起來更清晰、平滑且易於透視。</p><p>這是獨立模組，僅需要 Fabric API。<br><br></p><hr><p>&nbsp;</p><h2>功能特色</h2><ul>\n<li>原版玻璃方塊的連接紋理</li>\n<li>原版玻璃片的連接渲染</li>\n<li>適用於原版玻璃、染色玻璃與染色玻璃片</li>\n<li>保留外部邊框可見，同時隱藏連接的內部邊框</li>\n<li>讓建築、窗戶、牆壁及大型玻璃結構的表面更乾淨</li>\n<li>不新增任何方塊或物品</li>\n<li>無需 OptiFine</li>\n<li>無需 CTM</li>\n</ul><hr><p>&nbsp;</p><h2>特殊強化玻璃設計</h2><p>此模組中的強化玻璃採用獨特的乾淨設計。</p><p>不使用完全純黑的紋理，強化玻璃帶有乾淨的連接白色標記。這些標記在相鄰的強化玻璃方塊之間形成連續線條，使大面積玻璃區域看起來更一致。</p><p>這有助於強化玻璃保持可辨識性，在視覺上與黑色染色玻璃區別開來，同時仍保留其較暗的外觀。</p><p>&nbsp;</p><hr><p>&nbsp;</p><h2>需求</h2><p>- Minecraft 26.1 或更新版本<br>- Fabric Loader<br>- Fabric API</p><p>僅需要 Fabric API。此模組設計為獨立運作的用戶端視覺模組。<br><br></p><hr><p>&nbsp;</p><h2>備註</h2><p>乾淨清晰玻璃會改變原版玻璃方塊與玻璃片的用戶端渲染。它不會新增自訂玻璃方塊、自訂合成配方或遊戲機制變更。</p><p>此模組的目標很簡單：讓原版玻璃在建築中使用時更乾淨、更清晰、更令人愉悅。<br><br></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

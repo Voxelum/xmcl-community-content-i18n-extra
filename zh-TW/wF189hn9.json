@@ -1,0 +1,6 @@
+{
+  "bodyHash": "R1o4mXzqODc=",
+  "content": "# uku 的裝備 HUD\n\nMinecraft 模組，在畫面上新增一個顯示目前穿戴裝備的小工具。\n\n這個模組添加了一個簡約且貼近原版風格的小工具，能顯示你的裝備物品，並在耐久度過低時發出警示。不同於其他需要玩家盯著螢幕上各處數字的模組，這個模組讓你能以原版風格的簡約小工具查看裝備，無需額外文字或數字。小工具的位置及其他參數可在設定檔中調整。\n\n致謝：\n- [原始模組由 BerdinskiyBear 製作](https://www.curseforge.com/minecraft/mc-mods/berdinskiybears-armor-hud)，uku 進行分支改進。\n- 裝備損壞音效取自 [Giselbaer 的 Durability Viewer](https://modrinth.com/mod/durabilityviewer)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

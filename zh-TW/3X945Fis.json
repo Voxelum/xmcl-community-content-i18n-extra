@@ -1,0 +1,6 @@
+{
+  "bodyHash": "T8Ga0iUFvvE=",
+  "content": "# 創造：更輕鬆的板材 🔨\n\n### 跳過前期動能設定取得板材，直接從頭開始就擁有它們。\n\n## ✨ 運作方式\n只需將任何適用的錠放在** depot **上，潛行（Shift）+ 右手持堅固錘子點擊，就能立刻將其敲成板材！\n\n![堅固錘子運作中](https://cdn.modrinth.com/data/cached_images/e81130c44a56c6d281d06961df36776e3a284a86.gif)\n\n## 🌟 主要特色\n* **100% 動態相容性：** 本模組會自動讀取 Minecraft 內部的配方管理器。如果某種錠可以透過機械沖壓機加工（鐵、金、銅、黃銅，甚至來自其他模組的錠），堅固錘子就能敲打它！\n\n* **平衡的合成方式：**\n- **堅固錘子：** 需要大量材料來合成（鐵砧、鐵方塊、避雷針、銅），使其在前期到中期保持平衡。\n- **黑曜石槌：** 一種更便宜、非常脆弱的替代品，適合遊戲最前期（用 3 根木棒和 2 個黑曜石合成）。小心——它預設有 10% 的機率在使用時立刻碎裂！\n\n![堅固錘子](https://cdn.modrinth.com/data/cached_images/5d9026431a3649a858ae700da94a1504405cc593.png)\n![黑曜石槌](https://cdn.modrinth.com/data/cached_images/9d83344aeb5536e29437260cdcf33ef64d38c503.png)\n\n### JEI 和 EMI 整合\nJEI 整合是原生的，若使用 EMI 請考慮使用：https://modrinth.com/mod/tmrv ，它將所有 JEI 整合加入 EMI。\n\n## 📦 需求\n* **Minecraft：** 1.21.1\n* **模組載入器：** NeoForge\n* **依賴項：** [Create 模組](https://modrinth.com/mod/create)\n\n墨西哥製造\n\n看看我的其他模組\n\nhttps://modrinth.com/mod/no-creative-menu",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

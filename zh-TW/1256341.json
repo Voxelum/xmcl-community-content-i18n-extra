@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Bk7sEfLErfs=",
+  "content": "<p>此模組新增 AE2 與機械動力 (Create) 之間的兼容性。本模組需要安裝<a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" rel=\"nofollow\">機械動力 (Create)</a> 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" rel=\"nofollow\">AE2</a>。</p><p>新增可連結兩種儲存系統的 AE 儲存橋接器。機械動力儲存系統中的物品會在 AE 中顯示為可合成項目。透過連接打包機的橋接器，機械動力可向 AE 請求已儲存的物品。</p><p>未來計畫：</p><ul>\n<li>1.21 版本移植</li>\n<li>支援精緻儲存 (Refined Storage)</li>\n<li>透過機械動力實現 AE/RS 自動化合成</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

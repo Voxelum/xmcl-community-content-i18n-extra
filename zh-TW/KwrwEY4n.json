@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fNs47RwmxBM=",
+  "content": "# 🌿 Easeon - 經驗值提升器\n\n**此模組需要 <a href=\"https://modrinth.com/mod/easeon-ss-core\" target=\"_blank\">EaseonSS-Core</a>**\n\n\n## 概述\n透過可調整的怪物擊殺經驗倍率，提升你的 Minecraft 遊戲體驗！\n\n<br/>\n\n## 指令\n所有指令預設需要 OP 等級 2 的權限。\n\n| 指令                           | 說明                 |\n| ------------------------------ | -------------------- |\n| /easeon xpbooster              | 查看目前設定         |\n| /easeon xpbooster <1-100>       | 變更經驗倍率         |\n\n\n<details>\n<summary>設定檔</summary>\n\n```json\n{\n  \"value\": 2,\n  \"requiredOpLevel\": 2 // 需要重新啟動伺服器才能生效。\n}\n```\n`config/easeon/easeon.ss.xpbooster.json`\n\n</details>\n\n<br/>\n\n---\n\n### 🔗 更多 Easeon 模組  \n正在尋找更多同樣風格、輕量且實用的模組嗎？  \n請點擊<a href=\"https://modrinth.com/user/Teron\" target=\"_blank\" rel=\"noopener noreferrer\">此處</a>查看其他 Easeon 系列模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

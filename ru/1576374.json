@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+CZiivNKVV4=",
+  "content": "<p>Когда игрок получает критическое количество урона, он переходит в критическое состояние и может быть воскрешён; либо его критическое состояние может быть продлено с помощью предметов, в противном случае он умрёт.</p><p>Настройка возможна через конфигурационный файл.</p><table>\n<thead>\n<tr>\n<th style=\"text-align:left\">Конфигурация</th>\n<th style=\"text-align:left\">Описание</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left\"><code>reviveTime</code></td>\n<td style=\"text-align:left\">Время в тиках, необходимое для воскрешения игрока.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><code>reviveItems</code></td>\n<td style=\"text-align:left\">Предметы, способные воскресить игрока.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><code>extendItems</code></td>\n<td style=\"text-align:left\">Предметы, увеличивающие время воскрешения. Пример: <code>modid:item:ticks</code>.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><code>healthAfterRevive</code></td>\n<td style=\"text-align:left\">Здоровье после воскрешения.</td>\n</tr>\n<tr>\n<td style=\"text-align:left\"><code>excludedDamage</code></td>\n<td style=\"text-align:left\">Тип урона, который всегда приведёт к смерти.</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

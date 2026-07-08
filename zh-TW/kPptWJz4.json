@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xAx/KqG8AeA=",
+  "content": "在原始 Minecraft 中，當新區塊載入時，它們會直接「瞬間出現」。使用這個模組後，區塊可以從下方、上方或相對於玩家的水平方向以動畫方式呈現。\n\n## 效能表現\n此模組不應對 FPS 造成顯著影響，因為它所做的僅是將區塊「在其他地方」渲染。\n\n## 使用方法\n預設情況下，區塊會使用正弦緩動函數從下方以動畫方式呈現。這可以透過設定檔更改為多種不同的配置，設定檔位於 Minecraft 目錄下的 `config/chunkanimator-client.toml`。有關這些選項的更多資訊，請參閱 [Wiki 頁面](https://github.com/Harleyoc1/ChunkAnimator/wiki/Config)。\n\n## OptiFine 支援\n支援 OptiFine，但為了讓區塊能夠以動畫呈現，您需要確保 `render regions` 選項已停用（設為 `false`）。此選項可在 `視訊設定` 中的 `效能` 畫面找到，或在 Minecraft 目錄下的 `optionsof.txt` 檔案中名為 `ofRenderRegions` 的設定。\n\n## 授權許可\n特此授權允許在任何模組包或伺服器中使用此模組。註明出處會很好，但不是必需的。\n\n## 舊版本\n由於將版本從一個平台遷移到另一個平台需要花費大量時間，針對 Minecraft 1.16 以下版本製作的版本將不會在 Modrinth 上發布。如果需要，可以在 [CurseForge 頁面](https://www.curseforge.com/minecraft/mc-mods/chunk-animator) 上找到它們。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

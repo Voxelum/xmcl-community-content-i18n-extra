@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kqHNrVkU5dE=",
+  "content": "<p>ImGui Minecraft绑定。允许模组开发者无需任何设置或附带ImGui原生文件即可创建简单的调试界面。</p><p>本库提供以下功能：</p><ul>\n<li>ImGui <code>1.90.0</code></li>\n<li>在Minecraft帧开始和结束时绘制ImGui的事件</li>\n<li>注册自定义字体的事件</li>\n<li>ImGui样式的自动.ttf字体加载</li>\n<li>支持使用<code>GpuTexture</code>和<code>GpuTextureView</code>作为纹理源</li>\n</ul><p><strong>注意：本模组提供绑定和字体加载功能，但本身不提供添加ImGui窗口的方法。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

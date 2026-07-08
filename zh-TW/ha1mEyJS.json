@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vh8WgJVHtoc=",
+  "content": "一個讓模組能夠以不與其他模組衝突的方式，為玩家播放動畫的函式庫。（還有更多功能！）  \n此模組是為模組開發者設計的函式庫，本身不會有任何實際作用。\n\n以下為部分功能：\n* 您可從 Blender 及 Blockbench JSON 檔案載入動畫。（支援 GeckoLib 與 Bedrock 格式）\n* 相當完整的 Molang 支援！\n* 支援效果關鍵影格，例如粒子關鍵影格。\n* 可新增自訂樞紐點（例如一個髖骨，能讓除了腿部以外的部位繞著髖部旋轉）。\n* 可新增自訂骨骼，並獲取其位置以新增自訂粒子。\n\n文件：https://docs.zigythebird.com/",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

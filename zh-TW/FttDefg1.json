@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UIL6HySajIk=",
+  "content": "非常簡潔的世界計時器（僅幾行程式碼），功能是讀取世界中經過的遊戲刻數，並以「DD:HH:MM:SS」格式顯示。這個功能在其他版本中早有實現，但在 1.21.1 的 NeoForge 模組環境下尚未出現，因此我參考了 twitch.tv/hrry 直播中所使用的「Chunklocked」遊戲模式製作了這個計時器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

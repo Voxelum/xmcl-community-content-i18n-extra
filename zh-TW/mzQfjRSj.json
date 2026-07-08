@@ -1,0 +1,6 @@
+{
+  "bodyHash": "H5xuFsnk5V8=",
+  "content": "關於這個模組\n\n這是一款輕量級、獨立運作的 Fabric 模組，專為想使用 Create 模組簡單自動化地獄岩生產的玩家設計。\n\n為了帶給你最佳體驗，本模組提供三個不同版本。你可以依照自己的遊玩風格或模組包的難度來選擇最適合的版本！請到「檔案」分頁下載你偏好的版本。\n\n可用版本與運作方式\n安山岩版 一個簡單且便宜的材料配方。在 Basin（盆）中使用 Mechanical Mixer（機械攪拌器）混合 1 個安山岩和 1 個地獄疙瘩即可製成地獄岩。無需加熱！                                \n![配方 1](https://cdn.modrinth.com/data/cached_images/ff3e7e756356b6561ea73d2daa5838568f3d8d2f.png)\n\n2. 熔岩與鵝卵石版 一個稍微更符合主題且進階的配方。在 Basin 中混合 1 個鵝卵石、1 個地獄疙瘩和 50mB 的熔岩。無需加熱！                                                           \n   ![配方 2](https://cdn.modrinth.com/data/cached_images/9c98dade0acc3d1aa9b884470b485ade1746c6dc.png)\n\n3. 完整版（兩者皆有）無法決定嗎？此版本包含上述兩種配方。你可以使用手邊現有的任何材料來製作。\n\n依賴項目\n\n要使用此模組，你必須安裝以下內容：\n\nFabric API\n\nCreate（Fabric 版）\n\n製作感謝與靈感來源\n\n本模組的靈感直接來自於優秀的 Forge 模組「Create: Additional Recipes」中特定的地獄岩配方。原始配方的所有功勞歸於其作者。此專案是為了將這項單一、針對性的功能帶給 Fabric 社群而製作。\n\n模組包\n\n你可以完全自由地將此模組包含在任何 CurseForge 的模組包中！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

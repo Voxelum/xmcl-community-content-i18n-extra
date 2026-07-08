@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Vn2EZny2tI4=",
+  "content": "<p style=\"text-align:center\"><span style=\"font-size:36px\"><strong>籠飼育系統</strong></span></p><p><span style=\"font-size:18px\">籠飼育系統（緊湊型生物農場）此模組旨在提供簡單易用、無延遲且緊湊的生物農場。新增3種方塊：生物籠、鎮壓板與生態箱。</span></p><p><span style=\"font-size:18px\">放置這些方塊後，會持續「擊殺」其中收容的生物（仿照玩家擊殺模式），並將掉落物自動輸送至方塊正下方的容器中。</span></p><p><span style=\"font-size:18px\">可透過資料包在data資料夾內添加自訂戰利品表：/cagerium/[實體ID].json</span></p><p>&nbsp;</p><ul>\n<li><span style=\"font-size:18px\">生物籠：敵對生物</span></li>\n<li><span style=\"font-size:18px\">鎮壓板：首領級生物</span></li>\n<li><span style=\"font-size:18px\">生態箱：被動生物<br></span></li>\n</ul><p><span style=\"font-size:18px\">每種方塊既可透過合成取得，也可用對應生物進行升級。升級可附加特殊效果（如火焰附加）。本模組專為與《Vault Hunters》模組包搭配使用設計。</span></p><p>&nbsp;</p><p><span style=\"font-size:18px\">&nbsp;</span></p><p><span style=\"font-size:18px\"><strong>本模組不包含任何合成配方，需由模組包製作者自行設定</strong></span></p><p><span style=\"font-size:18px\">&nbsp;</span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

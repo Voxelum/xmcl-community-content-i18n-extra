@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GPxA196OZk8=",
+  "content": "# Fadeless（无淡出）\n\n**这是 [No Fade](https://github.com/UltimateBoomer/mc-no-fade) 的一个分支版本，适用于 1.20 及以上版本。**\n\n你是否对加载 Minecraft 时那些冗长的过渡动画感到厌烦？Fadeless 是一个客户端模组，它能移除 Minecraft 中所有的淡出动画。这包括从 Mojang 启动画面到主菜单的淡出，以及重新加载纹理后的淡出。\n\n## **与原版相比有哪些新特性？**\n- 支持 1.20 及更高版本。\n- 支持 Forge 和 NeoForge！\n- 移除了更多淡出动画！\n- 新增配置文件，可让你开关聊天文本淡出和字幕淡出等效果。\n\n![Fadeless 禁用效果](https://raw.githubusercontent.com/DerpDerpling/Fadeless/refs/heads/1.21/assets/fadeless_comparison.webp)\n\n\n## 这是 [No Fade](https://github.com/UltimateBoomer/mc-no-fade) 的一个分支。原作者已 [允许我](https://raw.githubusercontent.com/DerpDerpling/i.derpy.xyz/main/img/proof.png) 重新上传并维护此模组。所有功劳归于 [UltimateBoomer。](https://github.com/UltimateBoomer)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

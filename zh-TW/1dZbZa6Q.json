@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fpXZkDff4ak=",
+  "content": "## [TLMO-Additions] 東方小女傭：織姬擴充\n\n此模組是[東方小女傭：織姬](https://modrinth.com/mod/touhoulittlemaid-orihime)的擴充插件，將[東方小女傭](https://modrinth.com/mod/touhou-little-maid)的部分擴充內容移植至 Fabric 版本，相關詳細資訊可參考各原始專案。\n\n**目前已包含：**\n- [Maid Useful Task](https://github.com/zxy19/maid_useful_task) - 為女傭新增多項實用任務功能。\n- [MaidUseHandCrank](https://github.com/sch246/MaidUseHandCrank) - 允許女傭使用 Create 模組的手搖曲柄，且工作效率會隨著好感度提升。\n- [東方小女傭：烽火台](https://github.com/KomeijiMarisa/Touhou-Little-Maid--Beacon) - 為東方小女傭的女傭們添加類似烽火台的靈氣效果，讓女傭可作為行動烽火台，為玩家與其他實體提供增益狀態。\n- [東方小女傭：親密度](https://github.com/yabo083/Touhou-Maid-Affection) - 為東方小女傭新增親吻互動功能。\n\n**所有授權文件皆存放於 [licenses 資料夾](https://github.com/Sh1roCu/TLMO-Additions/tree/1.20.1/src/main/resources/licenses)：**\n\n- [Maid Useful Task](https://github.com/zxy19/maid_useful_task)：MIT 授權\n- [MaidUseHandCrank](https://github.com/sch246/MaidUseHandCrank)：MIT 授權\n- [東方小女傭：烽火台](https://github.com/KomeijiMarisa/Touhou-Little-Maid--Beacon)：BSD-3-Clause 授權\n- [東方小女傭：親密度](https://github.com/yabo083/Touhou-Maid-Affection)：MIT 授權",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

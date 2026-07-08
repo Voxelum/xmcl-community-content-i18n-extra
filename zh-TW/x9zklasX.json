@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MRYSiHhhAbY=",
+  "content": "這是我開發的一款客戶端模組，可將參考圖片與結構示意圖投影至 Minecraft 世界中。\n\n- 圖片可調整位置、縮放比例、旋轉角度及透明度。\n\n需手持物品展示框（主手或副手）方可看見投影影像。\n\n# 主設定畫面\n\n預設按鍵「O」可開啟設定介面，系統會自動在檔案系統中建立存放圖片的資料夾：\n\n```\n{Minecraft}/config/blueprints/{世界名稱}/{維度名稱}\n```\n\n![主設定畫面]\n![藍圖選擇畫面](https://cdn.modrinth.com/data/cached_images/0681f87ed54eea703b07ad951976803f24be84b9.png)\n\n- 「重新載入」按鈕會重新掃描檔案系統中的已上傳檔案\n- 「路徑」顯示需在 Minecraft 外部操作的檔案系統相對位置\n- 可切換「渲染模式」選擇讓藍圖被方塊遮擋或始終穿透顯示\n- 被隱藏的藍圖會以深色疊層標示\n- 可使用 Ctrl+點擊 快速切換藍圖在遊戲中的顯示/隱藏\n- 點擊藍圖可進入移動與定位設定畫面\n- 右下角可調整每頁顯示數量來縮放選擇介面，並透過左右箭頭翻頁\n\n# 藍圖移動與定位\n\n![調整每個藍圖的位置](https://cdn.modrinth.com/data/cached_images/202296a42df78866f1fffb25ca343bc3658400eb.png)\n\n- 位置調整會以玩家視角為基準：例如「左移」永遠朝向玩家左側\n- 按住 Shift 可加大單次按鈕的調整幅度，適合大幅更動\n- 按住 Ctrl 可減少單次按鈕的調整幅度，適合微調\n- 同時按住 Shift+Ctrl 可對設定進行大幅跳躍式調整\n\n# 功能演示\n\n可透過此影片快速了解模組功能，這也是我開發此模組的初衷：\n\n[[https://youtu.be/8ToyyT0e1bc](https://youtu.be/8ToyyT0e1bc)](https://youtu.be/8ToyyT0e1bc?t=220)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

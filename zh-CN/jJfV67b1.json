@@ -1,0 +1,6 @@
+{
+  "bodyHash": "L4BfkbkpCHw=",
+  "content": "![Citadel-Logo](https://i.imgur.com/KyeiwRx.png)\n“我对历史数据的分析表明，有97.34%的概率你知道我诞生于你的星球，并在Citadel空间站重获新生之美。”——《网络奇兵2》\n\nCitadel是一个库模组，用于实现1.14及以上版本的高级动画和实体属性。作为库模组，Citadel本身并不会添加太多功能，而是为其他模组提供一个框架，用于实体动画制作、加载.tbl Tabula和.obj Waveront模型，以及追踪实体属性。Citadel的前身LLibrary将不再更新至1.12.2版本，从今以后我所有的模组都将使用Citadel。Citadel的代码基础主要源自LLibrary，并且代码的使用已获得LLibrary维护者及近期版本作者Gegy1000的许可。\n\n在1.6.3及以上版本中，还新增了一个配置选项，用于调整区块生成时生成的生物数量上限。当与许多需要Citadel的生物模组一起使用时，这一功能非常实用，因为若不调整该上限，玩家可能会难以找到原版生物。\n\n想要使用Citadel的开发者可以阅读[如何将其添加到开发环境的指南](https://github.com/Alex-the-666/Citadel/wiki/Getting-Started)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

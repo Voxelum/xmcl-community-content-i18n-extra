@@ -1,0 +1,6 @@
+{
+  "bodyHash": "H9cB6AJGayo=",
+  "content": "# NoEffects\n\nNoEffects удаляет эффекты зелий из игры, перехватывая соответствующие события. Он убирает все эффекты с любых объектов сразу после их загрузки в мир, а событие добавления эффекта зелья немедленно отменяется.\n\nИсходный код можно найти здесь: [github.com/m-doescode/NoEffects](https://github.com/m-doescode/NoEffects)\n\nМод также размещён на Modrinth по адресу: [modrinth.com/mod/noeffects](https://modrinth.com/mod/noeffects)\n\nПожалуйста, сообщайте о всех найденных багах в разделе [issues](https://github.com/m-doescode/NoEffects/issues) репозитория.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

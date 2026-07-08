@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1S6tp/3+GG8=",
+  "content": "<p>此伺服器端 Fabric 模組讓 Simple Voice Chat 能與您的 Minecraft 世界互動。</p><h2>&nbsp;</h2><h2>功能特色</h2><ul>\n<li>可自訂設定的語音振動頻率</li>\n<li>語音聊天會啟動幽匿感測器</li>\n<li>守衛者能偵測到語音聊天</li>\n<li>可選支援悄悄話與群組聊天的振動</li>\n<li>潛行時說話不會觸發振動（可設定）</li>\n<li>可設定音量閾值</li>\n</ul><h2>設定數值</h2><p><em>config/vcinteraction/vcinteraction.properties</em></p><table>\n<thead>\n<tr>\n<th>名稱</th>\n<th>預設值</th>\n<th>說明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>group_interaction</code></td>\n<td><code>false</code></td>\n<td>群組對話是否應觸發振動</td>\n</tr>\n<tr>\n<td><code>whisper_interaction</code></td>\n<td><code>false</code></td>\n<td>悄悄話是否應觸發振動</td>\n</tr>\n<tr>\n<td><code>sneak_interaction</code></td>\n<td><code>false</code></td>\n<td>潛行時說話是否應觸發振動</td>\n</tr>\n<tr>\n<td><code>voice_sculk_frequency</code></td>\n<td><code>7</code></td>\n<td>語音振動的頻率</td>\n</tr>\n<tr>\n<td><code>minimum_activation_threshold</code></td>\n<td><code>-50</code></td>\n<td>啟動幽匿感測器的音訊等級閾值（單位：分貝）</td>\n</tr>\n</tbody>\n</table><h2>致謝</h2><ul>\n<li><a href=\"https://github.com/FabricMC/fabric\" rel=\"nofollow\">Fabric API</a></li>\n<li><a href=\"https://github.com/Patbox/polymer\" rel=\"nofollow\">Polymer</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

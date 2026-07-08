@@ -1,0 +1,6 @@
+{
+  "bodyHash": "616NXwlHCBg=",
+  "content": "# КОМАНДЫ ДЛЯ АТРИБУТОВ ИГРОКА\n\n### Легко настраивайте атрибуты игрока с помощью простых команд!\n\nКоманды для атрибутов игрока позволяют изменять различные атрибуты игрока с помощью команд. Этот мод идеально подходит для создателей модпаков, которые хотят персонализировать опыт игрока, изменяя как стандартные, так и модифицированные атрибуты.\n\n### Команды\n\n* `/playerattribute ‹target› ‹attribute› get` — Получить текущее значение атрибута игрока.\n* `/playerattribute ‹target› ‹attribute› add ‹value›` — Прибавить к значению атрибута игрока.\n* `/playerattribute ‹target› ‹attribute› set ‹value›` — Установить значение атрибута игрока.\n* `/playerattribute ‹target› ‹attribute› mult ‹value›` — Умножить значение атрибута игрока.\n\n### Примеры команд\n\n* `/playerattribute @p generic.movementSpeed get` — Получить скорость передвижения ближайшего игрока.\n* `/playerattribute @p generic.movementSpeed add 0.1` — Увеличить скорость передвижения ближайшего игрока на 0,1.\n* `/playerattribute @p generic.movementSpeed set 0.2` — Установить скорость передвижения ближайшего игрока равной 0,2.\n* `/playerattribute @p generic.movementSpeed mult 2` — Умножить скорость передвижения ближайшего игрока на 2.\n\nЭтот мод был разработан для Minecraft 1.12.2",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

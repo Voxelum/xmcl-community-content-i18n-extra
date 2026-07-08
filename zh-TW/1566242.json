@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SEyIK88A8Eg=",
+  "content": "<h1>跳躍重置指示器</h1><p>你是一位正在成長的劍士嗎？你是否因承受太多擊退而感到困擾？你是否需要協助來掌握時機？</p><p>隆重介紹這個模組！透過簡單的HUD元素，它會顯示你錯過跳躍窗口的程度（或者如果你完美達成，恭喜你！）。</p><h2>什麼是跳躍重置？</h2><p>（雖然影片是1.8版本，但最新版本仍然適用！）</p><span><span class=\"embed-removed\">嵌入內容已移除：<a href=\"https://elerium.curseforge.com/linkout?remoteUrl=https%3a%2f%2fwww.youtube-nocookie.com%2fembed%2f_5Y6sFwTYSE\" rel=\"noopener nofollow\">https://www.youtube-nocookie.com/embed/_5Y6sFwTYSE</a></span></span><p>這個機制的運作原理是：當你跳躍時，《Minecraft》會根據你面對的方向增加額外速度！（但僅限你在跑步時）</p><h2>前置需求</h2><p>此模組需要安裝<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" rel=\"nofollow\">Fabric API</a>，以及用於設定的<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcloth-config\" rel=\"nofollow\">Cloth Config</a>和<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodmenu\" rel=\"nofollow\">Mod Menu</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

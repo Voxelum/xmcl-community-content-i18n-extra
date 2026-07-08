@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mYOJKBVGSlw=",
+  "content": "這是 Legends SMP 的官方模組包。內含所有 Legends SMP 所需的依賴套件，以及如 Sodium 等效能優化模組，不僅能提升你的遊戲體驗，更能大幅改善遊戲效能。此模組包的目的是讓 Legends SMP 的成員能夠遊玩伺服器，同時也能用於提升 FPS 與整體遊戲感受。\n\n<details>\n<summary>內含模組列表</summary>\n\n# 內含模組：\n- **Life Series（僅限舊版本）**\n- **Magic items**\n- **Craftsman's bows**\n- **Magic gems**\n- **Alpha equiptment**\n- Fabric API\n- Cloth Config API\n- Dynamic FPS\n- Entity culling\n- Fabric Language Kotlin\n- FerriteCore\n- ImmediatelyFast\n- Iris Shaders\n- Lithium\n- Mod Menu\n- More Culling\n- Reese's Sodium Options\n- Sodium\n- Sodium extra\n- Text Placeholder API\n- YetAnotherConfigLib (YACL)\n- Simple Voice Chat\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

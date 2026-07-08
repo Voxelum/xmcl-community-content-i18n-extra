@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vf+JFc1EVhE=",
+  "content": "# 光照等级覆盖显示\n\n在方块上显示光照等级。仅此而已。这就是这个模组。\n\n## 功能特性\n\n- 方块上显示数字，让你精确查看怪物可能生成的位置\n- 颜色编码：红色（0级）、黄色（1-7级）、绿色（8级以上）\n- 在植被上方渲染，无需费力透过草丛查看\n- 隐藏在墙壁后方，仅显示实际可见区域\n- 快速、缓存优化，不会拖累帧率\n- 水下模式，预防溺尸生成\n\n## 支持平台\n\n兼容 Fabric 和 NeoForge。\n\n## 控制按键\n\n| 按键 | 功能 |\n|-----|------|\n| F9 | 切换覆盖显示 |\n| F10 | 打开配置 |\n\n## 配置说明\n\n按 F10 或编辑 `config/lightleveloverlay-client.json` 文件\n\n- 检测范围：水平/垂直方向的扫描距离\n- 更新间隔：缓存刷新频率（毫秒）\n- 颜色设置：自定义 RGB 数值\n- 仅显示可生成区域：隐藏安全方块，仅显示危险区域\n- 文字缩放：调整数字大小\n- 水下模式：在水中显示光照等级\n\n## 安装步骤\n\n1. 为 Minecraft 1.21.1 安装 Fabric 或 NeoForge\n2. 为对应加载器安装 Architectury API\n3. 为对应加载器安装 Cloth Config\n4. 将模组 jar 文件放入 mods 文件夹\n5. 完成\n\n## 依赖模组\n\n- Architectury API（必需）\n- Cloth Config（必需）\n- Fabric API（仅 Fabric 版本需要）\n\n## 鸣谢说明\n\n灵感来源于 dark-lion-jp 的 Light Level 2025。此为独立实现版本，非移植版本，无关联性。错误报告请提交至本项目，而非原项目。\n\n## 开源许可\n\nMIT 许可证",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

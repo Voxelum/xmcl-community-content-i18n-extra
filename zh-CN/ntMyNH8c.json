@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UgpKAho7moA=",
+  "content": "欢迎使用神秘山库，这是MMF-Group模组的配套库。  \n本库主要为开发者提供便利，同时也向希望了解Zheng其他模组的玩家展示欢迎信息。  \n\n功能特性：  \n> 基础方块与物品类，简化编码流程。  \n> 食物信息组件，提升模组兼容性与扩展性。  \n> 支持通过列表批量注册RegistryObject。  \n> 抽象化数据生成器。  \n> 基岩版实体模型（开发中！）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

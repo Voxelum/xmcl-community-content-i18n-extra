@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aYtaXBY0Cz8=",
+  "content": "<h1>结构池API</h1><p>可用于向结构池中注入自定义结构。典型应用场景：</p><ul>\n<li>向村庄中添加自定义建筑</li>\n</ul><p>额外功能：</p><ul>\n<li>可设置注入结构的最大生成数量（例如每个村庄生成2个）</li>\n</ul><p>完整技术细节请参阅GitHub说明文档。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WtB37UUmjzY=",
+  "content": "# ScalableLux\n基於 Starlight 的 Fabric 模組，用於提升 Minecraft 中光照更新的效能。\n\n## 為何會有這個分支？\n- Starlight 自 [2024 年 3 月 8 日](https://github.com/PaperMC/Starlight/commit/cca03d62da48e876ac79196bad16864e8a96bbeb)起不再以模組形式維護。\n- 原版光照引擎的效能仍是高效能區塊生成時的瓶頸。\n- 基礎 Starlight 仍比原版[快 100%](<https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#light-engine-performance-changes-in-120-from-vanilla>)，能讓區塊系統擴展至超過 24 個執行緒。\n- Starlight 的「無狀態」設計允許平行光照更新，進一步拉大效能差距。\n  在[擁有較多玩家、壓力區塊生成的專用伺服器](https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#is-starlight-obsolete)中仍然相當重要。\n  因此，對於擁有大量玩家的 Fabric 或其他模組伺服器來說，它依然非常重要。\n\n## 這個分支做了什麼？\n- 包含 Starlight 的所有效能改善，並修復了額外的錯誤。\n- 可選擇啟用平行光照更新，在高速世界生成與大量光照更新場景中帶來顯著的效能提升。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

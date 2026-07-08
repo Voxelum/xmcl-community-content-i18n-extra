@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3+z1aesQr5M=",
+  "content": "<p>這個模組基本上是我之前製作的《美人魚馬可模組》的分支版本，但移除了超能力、H2O物品等內容。目前僅沿用該模組的尾巴並重新命名如下：</p><p>&nbsp;</p><p>淺色尾巴（前名：Bella）</p><p>中等尾巴（前名：H2O）</p><p>暗紅尾巴（前名：Mako）</p><p>人魚藍尾巴（前名：Zac）</p><p>開啟世界時您將再次看到設定介面。此處可選擇尾巴顏色、是否啟用水下正面狀態效果、快速游泳及自動變身功能。</p><p>&nbsp;</p><p>指令：/config 開啟設定介面 /select medium 選擇中等顏色（其他顏色同理） /dospeedswim true/false （為何沒有切換效果指令？之後得補上……）</p><p>&nbsp;</p><p>材質由 Reyeas 提供</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

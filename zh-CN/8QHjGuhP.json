@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XmAMstsCcVc=",
+  "content": "![横幅](https://media.forgecdn.net/attachments/918/257/biomesoplenty.png)\n\n[![Discord](https://i.imgur.com/0Prkr13.png)](https://discord.gg/A4FCBS3) [![Forge](https://i.imgur.com/oeSBh9T.png)](https://files.minecraftforge.net)\n\n## 概述\n本模组实现了「多样生态」与「动态树木」的兼容，为其新增的所有树种添加了动态生长版本，并在世界生成时完全替换原版树木。\n所有树木的生长行为及生成规则均可通过「树木资源包」系统进行自定义调整。\n\n## 特色内容\n### 新增动态树木\n- 棕榈树\n- 橙黄秋木\n- 金黄秋木\n- 枫树\n- 枯萎树木\n- 枯死树木\n- 焦黑树木\n- 繁花橡木\n- 蓝花楹\n- 彩虹桦木\n- 粉樱\n- 白樱\n- 地狱树皮\n- 柳树\n- 冷杉\n- 桃花心木\n- 红杉\n- 乌木\n- 魔法树\n- 暗黑杨\n- 云杉杨\n\n### 新增动态蘑菇（需安装[动态树木+](https://modrinth.com/mod/dynamictreesplus)）：\n- 毒蝇伞\n- 荧光菇\n\n### 保留原版的树木\n- 起源橡木（经典造型）\n- 红树林（无对应木材）\n\n## 其他扩展\n其他模组的兼容扩展可在[动态树木](https://modrinth.com/mod/dynamictrees)页面查阅。\n### 建议与请求\n如需申请新的模组兼容，请提交至[Github讨论区](https://github.com/orgs/DynamicTreesTeam/discussions/categories/compatibility-addon-suggestions)。\n\n## 运行需求\n- [动态树木](https://modrinth.com/mod/dynamictrees)\n- [多样生态](https://modrinth.com/mod/biomes-o-plenty)\n- 可选安装[动态树木+](https://modrinth.com/mod/dynamictrees)\n\n## 授权声明与整合包\n本模组允许用于任意整合包或服务器，无需另行申请授权。采用MIT开源协议，源代码公开于GitHub。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

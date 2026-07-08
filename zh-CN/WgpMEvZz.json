@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pd+IBtdBebc=",
+  "content": "# | 描述 |\n将玩家列表中的连接图标替换为通用数字。有些模组能够实现这一功能并非常精确，但由于它们是模组，原版玩家可能无法使用。\nPing值范围：0 - 5格，100 - 4格，300 - 3格，600 - 2格，1000 - 1格。单位为毫秒。如果需要更精确的信息（例如在PvP中），请尝试使用其他模组。\n\n# | 版本 |\n当前支持Minecraft Java版 ```1.20.2-26.1.2```。\n\n# | 兼容性 |\n与修改或替换玩家列表中ping图标的模组不兼容，例如其他将其替换为文字或数字的模组。\n\n## | Patreon |\n加入<a href=\"https://patreon.com/Nerd_1023?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\">我的新Patreon</a>以支持我的项目！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

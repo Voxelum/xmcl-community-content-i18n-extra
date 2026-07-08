@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Kvql8yl5zLQ=",
+  "content": "# TCT Core\n\n此模組新增了一個介面，用於整理並標準化各種設定與資訊（如合成配方、技術細節等）。同時內建可直接從 Minecraft 下載數個相容模組的頁面。\n\n按下 H 鍵開啟選單，瀏覽各區塊即可設定或下載模組。\n\n可用選單：\n\n- 主選單\n- 商店\n- 設定（範例：Matmos）\n\n對於無需特定設定的模組，您可直接查看其資訊、合成配方或其他功能。\n\n相容模組：\n\n- TCT Core\n- Matmos 環境音效\n- TCT 手電筒\n- Windows 電腦\n- TCT ClearLag\n- 瘦長人 TCT\n- 設置家 TCT\n- Paladium V8\n- 都市傳說生存\n- FPS 最佳化器\n- FPS 加速\n- 刪除名牌\n- Jammy 家具重製版\n- 監視器攝影機（CameraCraft）\n\n若您是模組開發者，希望您的模組能與此相容，歡迎在 CurseForge 上與我聯繫。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

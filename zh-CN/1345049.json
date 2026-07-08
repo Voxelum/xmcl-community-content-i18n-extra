@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Lof9Lgsia4k=",
+  "content": "<p>Uniforms 是 Iris 模组的一个简单附加组件，允许你实时编辑某些选项。该模组支持 Fabric <code>1.20.4</code>、<code>1.20.1</code> 以及 <code>1.21.1</code> 到 <code>1.21.8</code> 版本（通过 Sinytra Connector 和 Oculus 可在 Forge <code>1.20.1</code> 上运行，通过 Sinytra Connector 和 Iris 可在 NeoForge <code>1.21.1</code> 上运行）。</p><p><span><span><iframe src=\"https://www.youtube.com/embed/PCdQVHS-ZzU\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><p>注意：编辑参数时，您需要<strong>释放滑块</strong>以使数值生效。</p><p>注意：此模组仅适用于 Iris <code>1.7</code> 或更高版本！</p><p><strong>重要提示</strong>：某些光影包可能无法正常工作。此模组与 BBS 模组<strong>不兼容</strong>（BBS 模组已内置了类似功能，因此您无需再安装此模组）。</p><h2>工作原理</h2><p>该模组会转换由 Iris/Oculus 加载的 GLSL 代码，并将基于 <code>#define</code> 的参数替换为可从光影包外部更新的 GLSL uniforms 变量。</p><p>由于实现原理的限制，某些选项无法实现实时编辑（例如：用于需要常量的表达式中的参数，如数组大小；以及用于其他 <code>#define</code>、<code>#if</code> 和 <code>#elif</code> 等宏定义中的参数）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

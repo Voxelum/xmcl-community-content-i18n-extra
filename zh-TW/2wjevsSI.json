@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5Ptm5iRmdkM=",
+  "content": "# 傷害指示器 YS\n\n## 專注模式設計\n\n傷害指示器 YS 的設計是作為浮動生命值文字資料包的簡潔替代方案。\n\n它不會在附近每個實體上方顯示生命值，而是只顯示你正在注視的實體資訊。這樣能保持畫面整潔，同時提供有用的戰鬥回饋。\n\n## 功能特色\n\n- 乾淨的紅色 Boss 血量條指示器\n- 顯示實體名稱與 HP\n- 顯示近期傷害為「受傷 -X」\n- 顯示近期治療為「治療 +X」\n- 追蹤的實體死亡時短暫顯示 0 HP\n- 支援多人遊戲的獨立玩家 Boss 血量條系統\n- 可選玩家目標鎖定，預設為關閉\n- 無需資源包\n\n## 指令\n\n安裝或重新載入資料包後，使用以下指令：\n\n```mcfunction\n/function dmi:systems/info\n/function dmi:systems/install\n/function dmi:systems/refresh\n/function dmi:systems/repair\n/function dmi:systems/uninstall\n```\n\n## 未來規劃\n\n1.0 版本專注於簡潔的 Boss 血量條顯示。\n\n未來更新可能擴充資料包，加入更多可選顯示模式、更完善的設定控制、戰鬥記憶追蹤，以及更多伺服器友善的自訂選項。\n\n## 支援\n\n如果你喜歡這個資料包，並想支持 ManaMage 和 Yazsras Studios 未來的 Minecraft 專案，專案頁面上提供捐款連結。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

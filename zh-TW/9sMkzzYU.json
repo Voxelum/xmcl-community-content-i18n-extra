@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MwFd/mW3ATo=",
+  "content": "# MiscTweaks\n\n這是一款輕量級的模組，新增了一些生活品質功能並解決了一些遊戲中的不便之處。\n\n伺服器端：\n- 苦力怕爆炸時會掉落所有被摧毀的物品，而非僅部分物品\n- 蹲下或穿戴腿部/身體護甲時，漿果叢不會造成傷害\n- 穿戴腿部/身體護甲時，漿果叢對實體的減速效果降低\n- 蜘蛛網可被點火燃燒。其他模組的方塊可加入設定檔以確保相容性\n- 用鞘翅飛入水中時，玩家會開始游泳而非繼續在水下飛行\n- 尖刺與靈魂疾走不會對護甲造成耐久度損耗\n- 挖掘類似黑曜石的方塊所需時間減少（預設為1.6倍速）。其他模組的方塊可加入設定檔以確保相容性\n- 穩定方塊掉落 - 禁用方塊破壞時掉落物的隨機水平移動。蹲下破壞鄰近方塊時，掉落物會朝玩家飛來\n- 苦力怕掉落的任何唱片皆可在地牢戰利品箱中找到，不再限於13號或Cat唱片\n- 動物會搜尋附近地面掉落的食物並自行進食\n- 回溯移植1.21.5版本的磁石變更\n- 回溯移植1.21.6版本的鞍合成配方與戰利品變更\n- （預設停用）原版樹苗可生長其他模組新增的樹木變種。需手動設定，預設設定包含原版樹木與[Geophilic](https://modrinth.com/datapack/geophilic)的範例設定\n- （預設停用）界伏蚌被子彈擊中時不會分裂\n\n客戶端：\n- 各維度亮度調整 - 可分別調整每個維度的亮度\n- 快捷欄從螢幕底部升起（預設為2像素）。支援UI材質包。若安裝[Raised](https://modrinth.com/mod/raised)會自動停用\n- 盾牌持於副手時會降低顯示位置（仍可見）。其他模組的盾牌物品可加入設定檔以確保相容性\n\n各項調整均可開關與設定。Fabric版可透過[模組選單](https://modrinth.com/mod/modmenu)存取遊戲內設定。NeoForge版可透過內建模組選單存取設定。若安裝[Sodium](https://modrinth.com/mod/sodium)，大多數客戶端功能可在Sodium影片設定中調整。\n\n所有版本皆需[Fzzy Config](https://modrinth.com/mod/fzzy-config)與[Mixson](https://modrinth.com/mod/mixson)。Fabric版另需[Fabric API](https://modrinth.com/mod/fabric-api)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

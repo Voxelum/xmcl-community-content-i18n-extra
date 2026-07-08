@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wXM9cqVRMN4=",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/cached_images/2755f12b234e5834d2ad31ef93a6eb745f29ab10.png\" alt=\"\" width=\"1225\" height=\"99\"></p><p>一个简单的模组，防止 Minecraft 在标签内存在一个或多个无效条目时，丢弃整个标签及其内容。如果标签被“处理”，游戏中会出现一条消息，更多信息（类似原版游戏）可在运行该模组的服务器/客户端的日志中找到。</p><p>&nbsp;</p><p>该模组的初衷是解决以下问题：某些模组或数据包可能会向“minecraft:mineable/pickaxe”等标签添加无效条目，导致所有可被镐挖掘的方块变得不可挖掘，从而破坏游戏。</p><p>&nbsp;</p><p><strong>简而言之</strong>：该模组可防止模组/数据包的错误破坏游戏的大部分功能。如需了解<strong>理解</strong>或<strong>屏蔽</strong>游戏中聊天消息的更多信息，请访问<a href=\"https://github.com/Dragon-Seeker/LoadMyFingTags/blob/3961e898550c4d996199bea0fa408a61e87e8dba/info.md\" rel=\"nofollow\">Github 链接</a>。</p><p>&nbsp;</p><h2>版本说明</h2><ul>\n<li><span><strong>[MultiLoader 更新]</strong></span> Ver1.0.1：修复 Mixin 仅应用于客户端的问题</li>\n</ul><h4>Forge</h4><ul>\n<li><span><strong>[47.1.44 - 47.2.5]</strong></span> Ver1.0.3：修复 Forge 重新实现单人游戏 Modmenu 的问题</li>\n<li><span><strong>[47.2.6 及以上]</strong></span> Ver1.0.4：修复 Forge 中 TagGroup.Loader 使用 HashSet 而非 LinkedHashSet 导致的补丁错误</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

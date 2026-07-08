@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9zQkyNhkwj8=",
+  "content": "![](https://i.imgur.com/3HWH60C.png)\n\n<div>\n    <a href=\"https://modrinth.com/mod/plasmo-voice\">Plasmo Voice</a>\n    <span> | </span>\n    <a href=\"https://modrinth.com/plugin/pv-addon-soundphysics\">Modrinth</a>\n    <span> | </span>\n    <a href=\"https://github.com/plasmoapp/pv-addon-soundphysics/\">GitHub</a>\n    <span> | </span>\n    <a href=\"https://discord.com/invite/uueEqzwCJJ\">Discord</a>\n     <span> | </span>\n    <a href=\"https://www.patreon.com/plasmomc\">Patreon</a>\n</div>\n\n# pv-addon-soundphysics\n\n[Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) 和 [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) 模组的兼容性插件。\n\n通过此插件，Plasmo Voice 将受到 Sound Physics 的影响。\n\n## 安装\n\n同时支持 Fabric 和 Forge。相同的插件文件适用于两个平台。\n\n1. 安装 [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice) 和 [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)\n1. 从 [Modrinth](https://modrinth.com/mod/pv-addon-soundphysics/) 下载插件\n1. 将其放入 `~/mods` 文件夹中",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

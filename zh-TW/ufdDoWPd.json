@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vHL1pU+Owcs=",
+  "content": "# Kiwi 🥝\n\n用於 Snownee 模組的 Minecraft 模組開發函式庫。\n\n提供一些生活品質功能（可設定）：\n\n- 在物品提示中顯示 NBT 與標籤\n- 停用 Microsoft 的遙測功能\n- 簡易指令計算機 - `/kalc`\n- 靜音當前通知與音效的指令 - `/kiwic quiet`\n- 隱藏實驗性世界設定警告（預設為停用）\n- 停用資源重新載入或主選單時的淡入淡出效果（預設為停用）\n\n安裝 [Cloth Config](https://modrinth.com/mod/cloth-config) 即可在遊戲中變更設定。\n\n[![有興趣支持我與模組開發嗎？BisectHosting 是最佳選擇。新客戶可使用促銷代碼「snownee」享遊戲伺服器首月 25% 折扣。我們提供 24/7 支援與快速回應，確保您獲得最優質的遊戲服務體驗。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

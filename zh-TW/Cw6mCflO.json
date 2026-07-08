@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zP1An6Xss6U=",
+  "content": "你可能已經注意到 [TFMG](https://modrinth.com/mod/create-tfmg)（The Factory Must Grow）中的引擎控制器並未實作離合器和換檔功能。此模組透過增加適當的離合器與變速箱功能來補足這點。同時也新增了一個設定道具，讓你能調整任何齒輪的齒比。若要換檔，你需要按住離合器。\n\n[展示影片](https://www.youtube.com/watch?v=jca-FNJS_zg)\n\n### 常見使用者問題：\n\n- **引擎預設不會帶動傳動軸旋轉** — 你目前處在空檔。請換到下一個檔位（檢查你的控制設定）。\n\n- **無法換檔** — 你需要按住離合器才能切換檔位。\n\n- **不同檔位間的轉速沒有變化** — 可能是你的齒比設定完全相同。試著使用控制器配置工具調整齒比。\n\n- **齒比設定沒有生效** — 必須在引擎關閉的狀態下才能變更設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

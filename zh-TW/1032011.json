@@ -1,0 +1,6 @@
+{
+  "bodyHash": "osIJVshH1UE=",
+  "content": "<p>一個小型 Create 模組附加包，使蒸汽引擎具有高度可配置性。</p><p>新增被動熱源與燃燒器的熱能等級配置選項，以及引擎所需尺寸的設定。</p><h1>完整可配置功能列表：</h1><ul>\n<li>被動熱源與烈焰燃燒器各階段的熱能等級</li>\n<li>各級引擎所需的水槽數量</li>\n<li>引擎轉速（單位：RPM）</li>\n<li>被動模式下的引擎效率</li>\n<li>單一引擎支援的鍋爐層級數量</li>\n<li>所需水量輸入（單位：mB）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

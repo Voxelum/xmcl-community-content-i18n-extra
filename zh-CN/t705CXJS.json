@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TAE5AxaS4ik=",
+  "content": "# 一如往昔...\n![legacy_sword_banner](https://www.dropbox.com/scl/fi/ky7jus2htdidovgz36jkp/banner.png?rlkey=hw4by3azc1dq5a8nhtree2n4k&st=j4vq7997&dl=1)\n这个数据包恢复了经典的 1.9 前战斗风格——仅移除剑的攻击冷却。它重现了许多玩家在旧版 Minecraft 中喜爱的快速连点玩法，同时保持其他战斗系统不变。\n\n只有剑受到影响：斧头、工具、三叉戟或其他武器保留正常的冷却时间和默认攻击行为。这使得游戏体验更加平衡，忠实于原始系统，而无需修改整体战斗机制。\n\n该数据包轻量、完全兼容原版，无需任何模组或资源包。只需将其放入世界的 datapacks 文件夹，即可再次享受经典的 PvP 体验！\n\n## ⚠ 警告 ⚠\n- 对于 Fabric 版本，需要 [FabricAPI](https://modrinth.com/mod/fabric-api)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

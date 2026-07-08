@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7IbOGaq2SDE=",
+  "content": "# 服务器Ping修复器\n\n这个模组改进了多人游戏列表中服务器的Ping方式，使菜单体验更加流畅。特别是在频繁点击刷新按钮时，效果尤为明显。\n\n该模组通过增加用于Ping服务器的线程数量来实现这一改进。当线程池过载时，它还会清理线程池。\n\n| 未使用模组                                                                                            | 使用模组                                                                                                |\n|:----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|\n| 仅点击几次刷新按钮后就会卡住加载                                 | 即使频繁点击刷新按钮也能正常加载                                                                 |\n| <img src=\"https://cdn-raw.modrinth.com/data/iqK5uv72/images/9074b4ba1095ec7a89c1f75446fb12e00dbc6698.gif\" alt=\"未使用模组时的卡顿问题\" width=\"300\" style=\"float:left\"/> | <img src=\"https://cdn-raw.modrinth.com/data/iqK5uv72/images/e224bb38f77b70822b2d1dfa77f97f9f380bc750.gif\" alt=\"使用模组修复后的效果\" width=\"300\" style=\"float:right\"/> |\n\n<br>\n\n适用于Forge 1.8.9的替代模组: https://modrinth.com/mod/serverlistbufferfixer",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OowkbaDa+Bk=",
+  "content": "CitFancy 為 Fabric 帶來 OptiFine 風格的 CIT（自訂物品紋理）支援。\n\n有了這個模組，依賴 CIT 功能（常見於 OptiFine）的資源包現在可以在 Fabric 上運作，無需安裝 OptiFine 本身。\n\n✨ 特色：\n- 在 Fabric 上啟用 CIT（自訂物品紋理）\n- 相容於大多數 OptiFine CIT 資源包\n- 輕量化且經過最佳化\n- 不影響遊戲玩法——純粹視覺效果\n\n📦 需求：\n- Fabric Loader\n- Fabric API\n\n🎮 使用方式：\n只需安裝此模組與 Fabric API，然後使用任何包含 CIT 紋理的資源包即可。無需額外設定。\n\n⚠️ 備註：\n- 此模組僅專注於 CIT 支援\n- 某些進階 OptiFine 功能可能無法完全支援\n\n💡 適合希望在 Fabric 上享受 OptiFine 資源包功能的玩家。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

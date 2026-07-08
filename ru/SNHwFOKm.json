@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZnRF8bIDWNo=",
+  "content": "# Настройки громкости звуков модов\n  \n\n## Описание\nЕсли вы установите этот мод, вы сможете изменять громкость звуков, добавленных модами. <br />\nПромышленные моды могут быть особенно шумными, поэтому мы создали этот мод, чтобы решить эту проблему.\n\nНеобходимые моды: [MCPitanLib](https://modrinth.com/mod/mcpitanlibarch), [Architectury API](https://modrinth.com/mod/architectury-api) <br />\n(При использовании на Fabric Loader также требуется [Fabric API](https://modrinth.com/mod/fabric-api)) <br />\nМенеджер модов: Fabric Loader, Minecraft Forge Loader, NeoForge Loader <br />\nЛицензия: MIT License <br />\nМодпак: Подходит для использования",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

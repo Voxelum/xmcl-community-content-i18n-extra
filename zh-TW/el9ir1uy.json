@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HKHAyXlRn1M=",
+  "content": "## 關於\n\nPicktorch 是一款輕量級的用戶端 Fabric 模組，讓你在挖礦時能直接從背包中放置火把。只需手持鎬子並對一個方塊按右鍵：如果你的背包裡有火把，這個模組就會自動使用一支，而不需要你切換工具。\n\n它不會新增任何物品、不需要在伺服器端安裝，也不會繞過伺服器的規則。火把放置仍然由 Minecraft 正常處理，因此保護插件、權限設定、反作弊檢查以及放置限制等功能都會照常運作。\n\n## 需求\n\n- [Fabric Loader](https://fabricmc.net/)\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- Java 21 或更新版本\n\n## 連結\n\n- [原始碼](https://github.com/headroomov/picktorch)\n- [問題回報](https://github.com/headroomov/picktorch/issues)\n- [發佈頁面](https://github.com/headroomov/picktorch/releases)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

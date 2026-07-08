@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FbIa06uq2/o=",
+  "content": "# Bonded：基礎武器相容性\n\n![bonded banner](https://raw.githubusercontent.com/iamkaf/modresources/refs/heads/main/pages/bonded/banner.png)\n\n此模組提供 Bonded 與 Basic Weapons 之間的相容性。\n\n[![Amber](https://img.shields.io/badge/Amber-iamkaf?style=for-the-badge&label=Requires&color=%23ebb134)](https://modrinth.com/mod/amber)\n[![問題回報](https://img.shields.io/github/issues/iamkaf/mod-issues?style=for-the-badge&color=%23eee)](https://github.com/iamkaf/mod-issues)\n[![Discord](https://img.shields.io/discord/1207469438719492176?style=for-the-badge&logo=discord&label=DISCORD&color=%235865F2)](https://discord.gg/HV5WgTksaB)\n[![KoFi](https://img.shields.io/badge/KoFi-iamkaf?style=for-the-badge&logo=kofi&logoColor=%2330d1e3&label=Support%20Me&color=%2330d1e3)](https://ko-fi.com/iamkaffe)\n\n需要安裝 [Bonded](https://modrinth.com/mod/bonded) 與 [Basic Weapons](https://modrinth.com/mod/basic-weapons)。\n\n![帶有 Bonded 提示框的基礎武器](https://raw.githubusercontent.com/iamkaf/modresources/refs/heads/main/pages/bonded/screenshot4.png)\n\n## 相容性\n\n如果您希望為自己的模組新增 Bonded 相容性，請讓我知道。\n\n## 致謝\n\n- 感謝 Khazoda 製作 Basic Weapons。\n- 感謝 NatIrisa 提出此模組的需求。\n- 感謝 [Architectury API](https://modrinth.com/mod/architectury-api) 提供此模組所基於的多載入器框架。\n- 最重要的是，感謝 **Aris**，一直陪伴在我身邊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

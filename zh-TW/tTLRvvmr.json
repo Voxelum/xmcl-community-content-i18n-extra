@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JhLntbMI8FE=",
+  "content": "這個模組讓你能夠在GUI開啟時移動它。  \n例如，你可以在開啟物品欄的同時進行合成並移動。\n\n## 配置  \n- **modEnable**：若為true，此模組生效。  \n- **isCreative**：若為false，此模組在選擇創造模式時不生效。  \n- **isAnvil**：若為false，此模組在開啟鐵砧介面時不生效。  \n- **isMultiplayer**：若為true，此模組在多人伺服器中啟用。  \n- **??Key**：若為true，此模組在開啟GUI時啟用按鍵功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

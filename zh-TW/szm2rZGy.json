@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SYB0CBZH4GQ=",
+  "content": "# 種子保護\n\n![種子保護封面圖](https://raw.githubusercontent.com/Sekai0NI0itamio/seed-protect/main/.modcompiler-art/description-image.webp)\n\n此模組可防止生物與玩家踩踏耕地。當生物走過耕地時，遊戲原本會將耕地變回泥土，導致作物毀壞。種子保護模組會取消這項變更，讓耕地保持原狀，您的作物也能安然無恙。\n\n### 運作方式（供玩家參考）\n- 生物走過耕地時，無法將其變回泥土。\n- 玩家不會意外踩壞剛種下的作物。\n- 變更會自動生效，無需進行任何額外操作。\n\n![在麥田上跳躍](https://cdn.modrinth.com/data/cached_images/6d9271536132c7e47a3a4ca3249f7f425173e616.png)\n\n### 特色功能\n- 適用於所有生物與玩家。\n- 與原版耕地方塊機制相容。\n\n### 為何選用此模組？\n- 延長作物存活時間。\n- 避免種植的種子意外損失。\n- 簡單實用，無需額外控制或道具。\n- 支援單人與多人遊戲世界。\n\n## 您會注意到的變化\n\n- 生物無法踩踏耕地；當生物走過耕地時，耕地會保持完整無損。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

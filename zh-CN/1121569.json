@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MQOO7iHtfoI=",
+  "content": "<p>正如<a href=\"https://www.curseforge.com/minecraft/mc-mods/language-reload\" rel=\"nofollow\">原版模组</a>所做的那样。</p><p><em>请勿向原版模组报告错误。</em></p><p>Language Reload Unofficial 是一个（Neo）Forge 模组，它为语言相关功能添加了生活质量改进。</p><p>功能</p><ul>\n<li>无需重新加载资源包即可快速切换语言</li>\n<li>语言菜单中的搜索框</li>\n<li>多语言选择\n<ul>\n<li>每种语言的翻译会覆盖下方语言的翻译。</li>\n</ul>\n</li>\n<li>多语言物品搜索\n<ul>\n<li>在创造模式物品栏和配方书中，可以使用任意选定的语言进行搜索。</li>\n<li>可以通过 Mod Menu 或在模组配置文件中直接禁用此功能。</li>\n</ul>\n</li>\n<li>如果 options.txt 中没有 lang: 设置，则自动检测语言</li>\n<li>使用 F3 + J 重新加载语言，使用 Shift + F3 + J 循环切换语言</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

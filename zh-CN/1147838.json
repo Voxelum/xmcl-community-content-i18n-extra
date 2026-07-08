@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oSvTUCUpPCg=",
+  "content": "<p><strong>Discord</strong>:&nbsp;<a href=\"https://discord.gg/BCHNhsDMXz\" rel=\"nofollow\">https://discord.gg/BCHNhsDMXz</a></p><p>这个模组添加了装备修饰系统：</p><ul>\n<li>将装备放在锻造台上，使用材料随机生成一个修饰属性</li>\n<li>击杀怪物来升级带有修饰属性的装备</li>\n<li>每提升10个装备等级，将物品放回锻造台来进阶装备，以允许进一步升级</li>\n</ul><p>物品修饰属性分为以下几种类型：</p><ul>\n<li>近战武器</li>\n<li>远程武器</li>\n<li>工具</li>\n<li>护甲</li>\n<li>饰品</li>\n</ul><p>每种类型都有独特的材料需求和修饰属性池。</p><p>默认情况下，修饰属性最高可升级到50级。如果安装了CelestialCore模组，则可以进一步升级到100级，消耗来自CelestialCore的材料。</p><p>所有修饰属性及对应的材料消耗均由数据驱动。您可以通过数据包添加自己的修饰属性。</p><p>&nbsp;</p><p>在1.0.7版本之后，新增了物品强化系统，允许将材料和装备放入锻造站进行锻造。您可以通过JEI查看相关配方。</p><p>同时，该系统支持简单的数据包控制，并能添加新的强化效果，这些效果可以增强属性。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1147838/description_8ecca16c-d9d9-40da-8b7b-8c28e60fdcf0.png\" alt=\"\" width=\"600\" height=\"365\"></p><p><img src=\"https://media.forgecdn.net/attachments/description/1147838/description_37f194f5-463f-4df0-9c64-0d2254466958.png\" alt=\"\" width=\"802\" height=\"481\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HCw8+lLDqUo=",
+  "content": "# 休眠符印\n\n**休眠符印** 是一款輕量級附加模組，為極限模式多人世界引入了復活機制。透過特殊道具「**休眠符印**」，玩家可以復活已隕落的隊友，讓他們從永久死亡中回歸。\n\n## 功能特色\n\n- 新增自訂道具「**休眠符印**」，能夠：\n  - 在極限模式中復活其他已死亡的玩家\n  - 擁有合理的合成配方，為現有原版道具賦予新的用途\n- ![此處可替換為圖片說明](https://cdn.modrinth.com/data/cached_images/b89b8ee57c789ef5e1e934d55b3f2ff2cdb753b0.png)\n\n## 適合對象\n\n- 希望保留些許寬容度的極限模式 SMP 伺服器\n- 覺得永久死亡過於嚴苛的伺服器\n\n## 安裝方式\n\n- 資料包\n  - 將資料包放入世界存檔的 `datapacks` 資料夾\n- Fabric / Quilt / Forge / NeoForge\n  - 將 .jar 檔案放入 `%appdata%/.minecraft/mods` 資料夾\n\n## 不相容項目\n\n- 任何會解鎖配方的資料包或修改模組",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

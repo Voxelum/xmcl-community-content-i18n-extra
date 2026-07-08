@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nM+zTC31csM=",
+  "content": "<h1>Ритуальный сачок оккультизма</h1><p>Это неофициальный порт-мод, который добавляет «Ритуальный сачок»\nиз <a href=\"https://www.curseforge.com/minecraft/mc-mods/occultism\" target=\"_blank\" rel=\"nofollow\">Occultism</a> 1.21.1 в версию 1.20.1.</p><h2>Для авторов модпаков</h2><p>Если вы используете этот мод в своём модпаке и добавили новые ритуалы, включающие новые блоки, пожалуйста, убедитесь, что вы добавили\nэти новые блоки в тег блоков <code>occultism_rs:pentacle_materials</code>. Это необходимо для правильной работы сачка.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

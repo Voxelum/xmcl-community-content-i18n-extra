@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hDl+QkA7+hE=",
+  "content": "<h1>Том Имбуэмент</h1><p>Позволяет использовать таблицу имбуйинга из мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/illager-invasion\" rel=\"nofollow\">Illager Invasion</a> для создания древних томов из мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/quark\" rel=\"nofollow\">Quark</a>.</p><p>Тома можно создавать только с заклинаниями, которые входят КАК в тег заклинаний <code>illagerinvasion:imbuing</code>, ТАК и в конфигурацию validEnchants мода Quark.</p><p><img src=\"https://raw.githubusercontent.com/Partonetrain/tomeimbuement/refs/heads/main/preview.png\" alt=\"preview.png\"></p><p>Кроме того, есть опция конфигурации, позволяющая ограничить таблицу имбуйинга только этой функциональностью.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

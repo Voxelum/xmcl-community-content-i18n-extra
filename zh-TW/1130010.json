@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jWY8STGIlic=",
+  "content": "<h1><strong>視錐體剔除（效果優於原版）<br></strong></h1><p><strong><span><span><iframe src=\"https://www.youtube.com/embed/7zZUTLQxJZ0\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></strong></p><p><strong>如影片所示，不在你鏡頭視野內的實體將被跳過且完全不會渲染。若要驗證，只需按下F5鍵看向身後，即可證明當你<u>未以第一人稱視角鏡頭直視</u>時它們不會被渲染，模組確實生效。</strong></p><p>此為提升FPS與效能的優化技術。本模組透過僅渲染視野內可見實體來優化性能，<strong>大幅</strong>減輕GPU或CPU負載。<span style=\"color:#e03e2d\">請注意，周圍實體越多，模組效果越顯著。</span></p><p>可透過可設定的快捷鍵（預設為\"L\"鍵）開關此功能</p><p>&nbsp;</p><h3 style=\"text-align:center\"><strong>視錐體剔除運作原理</strong></h3><p style=\"text-align:left\">視錐體剔除會判定哪些實體或粒子（目前僅實體）位於你的視野範圍（視錐體）內。僅這些物件會被納入渲染計算，這對CPU資源至關重要，可避免不必要的運算負擔。</p><h3 style=\"text-align:center\"><strong>對CPU與GPU的影響</strong></h3><p>視錐體剔除透過跳過不可見實體，減少GPU需渲染的物件數量。此舉大幅減輕GPU/CPU的工作量，從而提升FPS與整體性能，尤其在實體密集區域效果更顯著。&nbsp;</p><h3 style=\"text-align:center\"><strong>功能特點<br></strong></h3><ol>\n<li style=\"text-align:left\">僅渲染玩家視野內的實體</li>\n<li style=\"text-align:left\">可透過可設定快捷鍵（預設為\"L\"鍵）啟用或停用視錐體剔除</li>\n</ol><p>&nbsp;</p><p><strong>測試方法：放置大量實體（如生物群），按下F5鍵看向身後，它們將不會被渲染。</strong></p><p>歡迎在任何模組包中使用本模組。若你的重型模組包影響FPS，視錐體剔除的優化效果將立竿見影！<strong><br></strong></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

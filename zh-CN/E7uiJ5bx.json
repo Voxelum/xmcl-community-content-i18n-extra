@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wN2u5KHKnzI=",
+  "content": "# 暗色图表\n\n一个客户端模组，将调试图表切换为暗色主题。要访问帧时间和每刻毫秒数（MSPT）/TPS图表，按住`F3`再按`2`；要切换到网络延迟和带宽图表，按住`F3`再按`3`。最后打开的调试图表会在关闭调试菜单时保持显示，您可以在打开菜单时或菜单已开启时选择图表。按下当前开启图表的快捷键可将其关闭。对于1.20.2之前的版本，按住`alt`再按`F3`可访问帧时间和MSPT图表。\n\n连接单人游戏世界时，带宽图表将不显示，延迟图表会显示0ms延迟但保持空白。连接专用服务器时，您将看不到MSPT图表，因为该数据不会发送至客户端。若希望在客户端查看，可在服务器安装[Server Tick](https://modrinth.com/mod/servertick)（需运行Fabric）。安装后，所有拥有OP权限且安装了Server Tick的玩家均可查看。您还可配置Server Tick将数据发送给所有安装了该模组的客户端。\n\n![示例](https://github.com/EcoBuilder13/dark-graph/assets/68478692/a34d97c6-62b4-46b1-be50-ecab1ecab1cb)\n\n## 灵感来源\n本模组灵感来源于FoundationGames为其模组[Enhanced Block Entities](https://modrinth.com/mod/ebe)制作[宣传图](https://cdn.discordapp.com/attachments/806436354799173663/840112305928011776/enhanced_bells.png)时的一次~~失误~~刻意设计。\n\n## 兼容性\n本模组应与绝大多数模组兼容，除非其他模组修改了本模组涉及的代码部分。已测试与[Sodium](https://modrinth.com/mod/sodium)、[Better F3](https://modrinth.com/mod/betterf3)等模组的兼容性。如遇问题请在[问题追踪器](https://github.com/EcoBuilder13/dark-graph/issues)报告。\n\n## 常见问题\n\n- 会移植到Forge吗？\n\n    - 不会，目前暂无移植计划。\n- 会移植到其他版本吗？\n\n    - 仅会移植到游戏更新版本。所有发布版本在发布时均限定于当前主版本的所有次要版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

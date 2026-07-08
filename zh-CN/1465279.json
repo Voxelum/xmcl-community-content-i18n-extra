@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kip3pXql7bc=",
+  "content": "<h1>机械动力：蒸汽之声：调音扳手</h1><blockquote>\n<p><strong>一款面向蒸汽之声模组的生存友好型附属模组，可让您自动设置红石链接频道</strong></p>\n<p><strong>简而言之：右键点击<span style=\"text-decoration:underline\">管道</span>即可在下方自动放置一个调谐正确的红石链接器。</strong></p>\n</blockquote><h1>使用方法</h1><ul>\n<li>按住Alt键滚动鼠标滚轮以切换模式\n<ul>\n<li>传统模式：将每个音栓设置为8英尺音高。这是真实管风琴的配置方式，最适合配合键盘中继器使用</li>\n<li>音高匹配模式：将频率与管道实际音高匹配（变音管除外）。最适合配合跟踪条和MIDI播放使用</li>\n<li>子模式用于定义红石链接器的放置位置</li>\n</ul>\n</li>\n<li>用扳手右键点击任意蒸汽之声模组的管道。</li>\n<li>管道下方两格处会生成一个设置为接收模式且频率正确的红石链接器。</li>\n<li>如果在生存模式下使用，您需要背包中有红石链接器，每次使用会消耗一个。</li>\n</ul><p>注意：如果目标位置已有方块或红石链接器，则不会放置新链接器</p><h1>未来计划</h1><ul>\n<li>一次性设置整个音栓</li>\n<li>替换现有红石链接器</li>\n<li>齿轮传动动画（下次更新）</li>\n<li>更完善的GUI界面</li>\n<li>变音管支持</li>\n<li>壁挂管道（下次更新）</li>\n<li>如有必要添加Ponder教程</li>\n</ul><h1>已知问题</h1><ul>\n<li>暂无合成配方（下次更新）</li>\n<li>未知问题™</li>\n</ul><h1>鸣谢</h1><ul>\n<li>特别感谢ABathInThyme编写了原始脚本！</li>\n<li>感谢Deanosaur75添加了对机械动力：扩展蒸汽哨的兼容性以及Forge方面的帮助</li>\n<li>感谢TheAnonym3000将其移植至1.21.1版本</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

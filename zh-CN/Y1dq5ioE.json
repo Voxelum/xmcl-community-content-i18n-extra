@@ -1,0 +1,6 @@
+{
+  "bodyHash": "p7MY+a7OqJo=",
+  "content": "Create Aeronautics: 传动与连接为移动的Create Aeronautics物理结构添加了用于连接、约束和传递运动的机械连接部件。\n\n该模组包含万向节、液压杆、铰链头、气动调节器和动能转换轴承。万向节和连接杆允许独立的物理结构保持连接，同时仍能进行受控运动。液压杆提供可调节的伸缩长度、阻尼、回弹力，以及通过气动调节器由红石信号控制的目标长度。\n\n动能转换轴承可将连接的Aeronautics物理结构的旋转运动转化为Create模组的动能输出，使移动机械能够更自然地与传动轴及机械动力网络交互。\n\n该模组专为实验性机械构造设计，例如飞行器机构、折叠结构、悬挂系统、动力铰链、稳定器以及其他需要超越简单静态方块的复杂装置。主要方块包含游戏内的Ponder场景说明，多项行为参数可通过NeoForge配置文件进行调整。\n\n\n![与物理结构完全兼容的万向节，配有精致动画](https://cdn.modrinth.com/data/cached_images/acb94fe79ca8417f29152fa055c8d33c1c0b9e96_0.webp)\n![将动能转化为应力的机械](https://cdn.modrinth.com/data/cached_images/e216e80afc68ecbc87bf32736b2ba46a2cd9c029_0.webp)\n![使用液压臂的起重机](https://cdn.modrinth.com/data/cached_images/e7db779426031debc28b7c3e142a4ec1b5658c8f_0.webp)\n![精美的艺术系统](https://cdn.modrinth.com/data/cached_images/21edb2aa833ad2763f7749626a12233ac4bb326d_0.webp)\n![鞍山合金万向节](https://cdn.modrinth.com/data/cached_images/20f3b61b9e83b4bc4b8f68c03047fde84cd86c47_0.webp)\n![所有物品](https://cdn.modrinth.com/data/cached_images/24937248f1139bee2a8fee4a44daf8fdac6cb8ec_0.webp)\n\n完整的物理结构支持与精致动画；你可以用它来制造液压起重机、伸缩装置，甚至汽车悬挂系统。激发创造力与想象力\n\n航空学拓展模组，添加了部分有利于设计载具的物件，或是实用的物件，例如万向节或动能转换器。液压杆",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tE/Cy8kvces=",
+  "content": "<h2>此项目已废弃！</h2><p>在这款模组中体验深渊的恐怖吧！\"深渊诅咒：深海之谜\"增加了七个独特的地下层，每一层都带有诅咒并暗藏致命危险。当玩家一次性攀爬超过10个方块时，诅咒便会激活。</p><p>各层及其诅咒效果：</p><table>\n<thead>\n<tr>\n<th>层数</th>\n<th>高度</th>\n<th>诅咒效果</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>0 至 -128</td>\n<td>反胃 I、饥饿 I</td>\n</tr>\n<tr>\n<td>2</td>\n<td>-129 至 -256</td>\n<td>反胃 III、饥饿 III、虚弱 II、缓慢 II</td>\n</tr>\n<tr>\n<td>3</td>\n<td>-257 至 -417</td>\n<td>反胃 III、饥饿 III、虚弱 III、缓慢 III、幻听</td>\n</tr>\n<tr>\n<td>4</td>\n<td>-418 至 -577</td>\n<td>反胃 III、饥饿 III、虚弱 IV、流血、幻听</td>\n</tr>\n<tr>\n<td>5</td>\n<td>-578 至 -737</td>\n<td>缓慢 III、挖掘疲劳、失明、虚弱 V、流血、+12 攀爬伤害</td>\n</tr>\n<tr>\n<td>6</td>\n<td>-738 至 -897</td>\n<td>当攀爬超过10个方块时，最大生命值减少5点直至仅剩1点</td>\n</tr>\n<tr>\n<td>7</td>\n<td>-898 至 -1024</td>\n<td>死亡层：任何攀爬尝试都会导致立即死亡</td>\n</tr>\n</tbody>\n</table><p><img src=\"https://github.com/Endgineer/CurseOfTheAbyss/blob/main/.vscode/Sxy.gif?raw=true\" alt=\"攀登诅咒的部分症状\"></p><p>考验你的生存技巧和勇气，但请小心——深渊不容失误！</p><p>下载此模组，潜入\"深渊诅咒\"的神秘危险世界吧！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fnL8yFcOy5s=",
+  "content": "<p>Этот мод добавляет 5 требований к варпам в waystone. Разрешает расход валюты из валюты Lightmans.</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_8da1a078-900b-4a25-8d54-2c4f1233dd28.png\" alt=\"image\"></p><p>Конфигурация в <code>waystones-common.toml</code></p><p><code>wscurrencys:scaled_add_currency_cost</code> аналогично <code>scaled_add_xp_cost</code><br>\n<code>wscurrencys:max_currency_cost</code> аналогично <code>max_xp_cost</code><br>\n<code>wscurrencys:min_currency_cost</code> аналогично <code>min_xp_cost</code><br>\n<code>wscurrencys:add_currency_cost</code> аналогично <code>add_xp_cost</code><br>\n<code>wscurrencys:multiply_currency_cost</code> аналогично <code>multiply_xp_cost</code></p><p>Разрешено использовать в модпаках.</p><pПрисоединяйтесь к <a href=\"https://discord.gg/uvnrVPqc\" target=\"_blank\" rel=\"nofollow\">Discord</a> для получения поддержки.</p><pЯ считаю, что предоставленное мной описание уже достаточно подробно. Это очень небольшой мод, так что описывать особо нечего. :(</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

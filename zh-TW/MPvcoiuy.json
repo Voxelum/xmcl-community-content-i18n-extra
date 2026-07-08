@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LvdNx2HGCAo=",
+  "content": "# SkyBack\n\nSkyBack 是一款客戶端 Fabric 模組，還原 Hypixel SkyBlock 資源包更新所帶來的變更，恢復遊戲在更新前的視覺與操作體驗。\n\n> SkyBack 為非官方模組，與 Hypixel 無關聯，亦未經其認可。\n\n## 功能\n- 保留自己的紋理：可選擇封鎖伺服器強制啟用的資源包，保留你原有的/原版紋理。\n- 還原原版物品模型：物品將顯示為一般 Minecraft 物品，而非紫色缺失紋理模型。\n- 紙張物品重新映射：已轉化為紙張的物品，重新對應回原有的原版物品。\n- 舊版玩家頭顱：恢復經典的玩家頭顱渲染方式。\n- 工具提示修正：移除損壞的（黑色/紫色）自訂工具提示邊框。\n\n## 指令與按鍵綁定\n- /skyback - 開啟切換選單（主開關 + 可選的資源包封鎖）。\n- /skyback debug on|off - 記錄未涵蓋物品的 ID 與物品對應關係。\n- 「開啟 SkyBack 選單」按鍵綁定（可在控制項中設定）。\n\n## 需求\n- Minecraft 26.1.2\n- Fabric Loader + Fabric API\n- 僅需安裝於客戶端（無需伺服器安裝）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

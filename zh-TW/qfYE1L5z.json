@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QYPilRMta+k=",
+  "content": "這個資源包為原版礦物添加了彩色發光輪廓。發光效果不會影響其他方塊或世界，純粹是視覺效果。它適用於大多數資源包（請將此包設置為最上層）。\n\n此包有兩個版本：\n\n* OptiFine/Continuity：需要 [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)、[Continuity](https://modrinth.com/mod/continuity/) 或 OptiFine。\n* 原版：無需其他模組。\n\n此包適用於：\n\n* 煤炭（深板岩）礦\n* 銅（深板岩）礦\n* 青金石（深板岩）礦\n* 鐵（深板岩）礦\n* 金（深板岩）礦\n* 紅石（深板岩）礦\n* 鑽石（深板岩）礦\n* 綠寶石（深板岩）礦\n* 地獄石英礦\n* 地獄金礦\n* 遠古遺骸\n* 粗鐵方塊\n* 粗銅方塊\n* 粗金方塊\n\n常見問題：\n\n* 問：我沒有看到輪廓！礦物變暗了！\n  * 答：請確保你下載了正確的版本。\n* 問：還是看不到輪廓或不發光？\n  * 答：請確保將其設置為最上層的資源包，並在 Continuity 或 OptiFine 設定中啟用「發光紋理」。它可能無法與某些以類似方式修改礦物的資源包配合使用。\n* 問：它能與 [Items on Ores](https://modrinth.com/resourcepack/items-on-ores) 一起使用嗎？\n  * 答：很遺憾不行。找到解決方法後我會通知你！\n* 問：支援基岩版嗎？\n  * 答：不支援。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

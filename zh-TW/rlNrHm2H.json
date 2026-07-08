@@ -1,0 +1,6 @@
+{
+  "bodyHash": "E2slBPtgMf4=",
+  "content": "YDM的蠍子模組 FORGE/FABRIC/NEOFORGE 版本\n\n此模組在遊戲中加入了蠍子！\n\n棕色蠍子與帝王蠍會生成於沙漠，而下界蠍則生成於靈魂砂谷。\n\n牠們會在白天時鑽入地面躲藏。\n\n擊敗後會掉落蠍子毒刺，可用於釀製毒液塗層藥水。\n\n飲用此藥水後，你將獲得毒液「護甲」，能使攻擊者中毒！\n\n若手持蜘蛛眼，蠍子將不會攻擊你，並會被蜘蛛眼吸引。\n\n如此你便能讓蠍子跟隨你。\n\n\n其他模組生態域相容性！\n\n生成設定選項：\n- 應生成的生態域名稱\n- 生成率（數值越高，生成群組的機率越大）\n- 群組最小與最大數量\n- 中毒持續時間（20 代表 20 秒）\n- 生命值\n- 傷害值\n\n\n若想讓蠍子生成於其他模組的生態域中，\n\n你需要修改 biome_name 這行：\n\n例如改為：\n\nbiome_name = \"模組ID:生態域名稱\"\n\n\n若要讓牠在更多生態域中生成，需在各生態域名稱間以逗號 (,) 分隔，如下所示：\n\nbiome_name = \"模組ID:生態域名稱,minecraft:desert\"\n\n\n1.19 版本沒有生成設定功能。\n\n因世界生態域生成機制有所變更，現在生成設定需透過 json 檔案編輯。\n\n若要為生物選擇指定生態域，需編輯生態域標籤。\n\n(/data/scorpions/tags/worldgen/biome/...)\n\n\n若要編輯生成設定，需修改生態域修改器\n\n(/data/scorpions/forge/biome_modifier/...)\n\n\n建議者：gohkenytp\n感謝下載此模組！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

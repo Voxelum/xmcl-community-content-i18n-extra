@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qfhbWQ6MHNs=",
+  "content": "<div align=\"center\">\n<img src=\"https://github.com/Leawind/SystemStorageLib/raw/main/src/main/resources/logo.128x.png\" alt=\"System Storage Lib\" style=\"image-rendering:pixelated;height:6em;\">\n\n# System Storage Lib\n\n[![CurseForge 下载量](https://img.shields.io/curseforge/dt/1556147?style=flat&logo=curseforge&color=F1643%5E&cacheSeconds=3600&label=CurseForge)](https://www.curseforge.com/minecraft/mc-mods/system-storage-lib)\n\n[文档](https://leawind.github.io/en_us/SystemStorageLib/?autolang)\n| [源代码](https://github.com/Leawind/SystemStorageLib)\n\n</div>\n\n一个库模组，为其他模组提供标准化、跨平台的系统级数据存储支持，遵循 Windows / [XDG](https://specifications.freedesktop.org/basedir/) / macOS 规范。\n\n该模组本身不添加任何游戏内容，仅作为依赖项使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

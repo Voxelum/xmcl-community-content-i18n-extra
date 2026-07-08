@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cjaUknP3l+8=",
+  "content": "# 空間方塊\n![spacecube](https://cdn.modrinth.com/data/H5uBVVRE/images/575caba5fd6564897edf4e3ec947923f5ac00596.png)\n\n更好的選擇：[Compact Machines - Fabric](https://modrinth.com/mod/cpm-fabric) (1.18.2～1.19.2)\n\n## 模組說明\n\n本模組是 Compact Machines 的 Fabric 版本移植\n\n紋理與程式碼皆為重新創作，因此部分規格可能與原版略有差異。\n\n與原版不同，目前無法透過右鍵點擊空間方塊查看內部空間。\n未來計畫加入升級功能。\n\n \n\n必要模組：Fabric API、MCPitanLib、Architectury API、Reborn Core（選用）、Cloth Config API、Mod Menu（選用）\n模組載入器：Fabric Loader\n授權條款：MIT 許可證\n模組包：可自由使用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

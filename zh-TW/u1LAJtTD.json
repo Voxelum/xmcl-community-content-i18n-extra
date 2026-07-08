@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MF8j0FpEDr0=",
+  "content": "[這是Liketechnik的Tinker Tweaks的分支版本，而該模組本身又是Tinker Tool Leveling的分支版本。]\n\n \n\n當工具升級時會隨機添加修飾屬性，並透過聊天訊息告知你獲得了哪些修飾屬性，同時整合了其他Tinker Tool等級模組的部分功能。\n\n \n\n目前功能列表：\n\n* 升級時獲得隨機修飾屬性（設定檔中的'bonusRandomModifier'；預設：開啟）\n* 升級時獲得修飾欄位（設定檔中的'bonusModifierSlot'；預設：關閉）\n* 升級時獲得基礎屬性加成（設定檔中的'bonusStats'；預設：關閉）\n* 可自訂每級所需的經驗值成長幅度（預設：每級加倍）\n* 可針對不同工具類型自訂經驗值需求\n* 在設定檔中可針對不同工具類型自訂隨機修飾屬性池（支援其他模組添加的修飾屬性）\n* 在設定檔中可自訂新製工具初始的免費修飾欄位數量\n* 若設定檔中啟用屬性成長模組，可自訂哪些屬性會成長及其幅度（目前不支援弓屬性與採集等級）\n* 在設定檔中可自訂每次升級與獲得修飾屬性時的聊天訊息（支援標準Minecraft顏色代碼）\n \n\n計劃中的功能：\n* 支援Construct's Armory模組\n* 更深入的屬性成長選項\n\n相關連結：\n\nLiketechnik的Tinker Tweaks在GitHub上的頁面：https://github.com/liketechnik/Liketechnik-s-Tinker-Tweaks\n\nTinker's Tool Leveling在CurseForge上的頁面：https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling\n\nTinker's Tool Leveling在GitHub上的頁面：https://github.com/SlimeKnights/TinkersToolLeveling\n\nTinkers Leveling在CurseForge上的頁面：https://www.curseforge.com/minecraft/mc-mods/tinkers-leveling\n\nTinkers' Leveling在GitHub上的頁面：https://github.com/Mrthomas20121-Mods/Tinkers-Leveling/tree/38a771651a953702d82fce1c07f42ad38d425f76",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

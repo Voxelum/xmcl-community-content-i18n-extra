@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dvhBQzPRM+U=",
+  "content": "![页眉](https://i.imgur.com/dal6rrf.png)  \n这是一款适用于 Fabric 和 Quilt 模组开发的多功能工具、GUI 与配置库  \n\n***\n\n功能特色包括：\n\n- **[owo-ui](https://docs.wispforest.io/owo/ui)**：一个功能完备的声明式 UI 库，助你快速构建动态美观的界面，开发速度令人惊叹  \n\n- **[owo-config](https://docs.wispforest.io/owo/config)**：基于 owo-ui 构建的内置可自定义配置系统。它具备与 [Cloth Config](https://modrinth.com/mod/cloth-config) 相同的诸多功能，同时新增了诸多便利特性（如服务器-客户端配置同步）  \n\n- **[注册系统](https://docs.wispforest.io/owo/registration)**：一套全自动注册体系，设计上尽可能通用。基础注册使用简单且避免冗余代码，但是底层 API 树灵活强大，同样适用于多种自定义注册方案  \n\n- **[物品栏扩展](https://docs.wispforest.io/owo/item-groups)**：支持在模组物品栏内创建子标签页，同时提供自定义按钮、纹理与物品变体处理等丰富功能  \n\n- **[网络层](https://docs.wispforest.io/owo/networking)**：功能完备的网络系统，支持全自动序列化、通过握手确保客户端兼容性，并提供与客户端无关的参数化粒子事件触发方案  \n\n- **客户端粒子辅助工具**：轻松组合多层粒子效果  \n\n- **富文本翻译**：允许在语言文件中使用 Minecraft 文本组件格式，无需代码即可实现样式化文本  \n\n***\n\nowo 的文档主要由两部分组成：\n\n- 整个代码库包含详尽丰富的 JavaDoc 注释  \n- 在 https://docs.wispforest.io/owo/features 上有包含深度解析与教程的 Wiki 页面，覆盖 owo 的大部分功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

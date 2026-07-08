@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fcK+x7Hj7H4=",
+  "content": "# 附魔禁用器  \n附魔禁用器是一款适用于 Fabric 和 NeoForge 的模组，通过阻止配置文件中指定的附魔在游戏中任何地方出现，来有效禁用这些附魔。  \n\n该模组并非从技术层面移除游戏注册表中的附魔，而是阻止它们通过战利品箱、村民交易和附魔台出现在工具、盔甲和附魔书上。这基本等同于在没有这些附魔的情况下游玩游戏。与直接从游戏注册表中删除附魔相比，这种方法完全安全，且能更好地兼容其他模组。  \n\n**附魔禁用不会追溯生效——在安装模组前已获得的附魔将不受影响。**  \n\n被禁用的附魔也会从创造模式菜单和大多数配方查看器模组中隐藏。  \n\n该模组还包含一些额外的调整功能，默认关闭且可完全配置：  \n\n- 限制每个附魔的最高等级  \n- 限制附魔书及村民交易物品的使用次数  \n- 永久禁用附魔书及村民交易物品的补货功能  \n- 完全禁用附魔台  \n- 限制附魔台可接受的书架数量  \n- 修改附魔台附魔所需青金石和经验值等级的数量（需在客户端安装模组以正确显示消耗）  \n- 设定战利品装备上附魔强度的上限  \n\n## [如何配置模组](https://github.com/pajicadvance/enchantmentdisabler/wiki/How-to-configure-the-mod)\n\n## 前置要求  \nFabric 版本需要 [Fabric API](https://modrinth.com/mod/fabric-api) 和 [Fzzy Config](https://modrinth.com/mod/fzzy-config)。游戏内配置菜单需安装 [ModMenu](https://modrinth.com/mod/modmenu) 以访问。  \n\nNeoForge 版本需要 [Fzzy Config](https://modrinth.com/mod/fzzy-config) 和 [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)。可使用内置的模组菜单访问游戏内配置。  \n\n## 版本支持  \n- 当前活跃且受支持的版本为适用于 Minecraft 1.21+ 的 3.0.0。  \n- 旧版本不再提供支持。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

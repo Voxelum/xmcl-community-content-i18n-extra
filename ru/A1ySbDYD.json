@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KaIyi2/snVc=",
+  "content": "Этот мод переписывает генерацию городов конца, делая их гораздо больше и с гораздо большим количеством разветвлённых маршрутов.\n\nФайл конфигурации можно использовать для изменения:\n\nМаксимального числа кораблей в каждом городе\n\nМаксимальной высоты каждой средней башни\n\nДлины мостов\n\n \n\nЛучшие значения, которые я нашёл, — 8 для средних башен и длинные мосты.\n\nХотя некоторые города всё же будут отрезаны из-за ограничения по высоте.\n\nЕсли вы используете этот мод вместе с BetterEnd, вам следует понизить настройки, так как базы будут находиться выше.\n\n \n\nЭтот мод совместим с данными пакетами для городов Better End.\n\nВаниль: https://www.curseforge.com/minecraft/texture-packs/vanilla-better-end-city\n\nFabric Better End: https://www.curseforge.com/minecraft/texture-packs/better-end-city-for-better-end\n\n\nCurseforge:\nhttps://www.curseforge.com/minecraft/mc-mods/bigger-better-end-cities",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

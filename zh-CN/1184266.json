@@ -1,0 +1,6 @@
+{
+  "bodyHash": "14wvx7Q4Bw8=",
+  "content": "<h1>警告：</h1><p>本模组与GunsmithLib 3.5+版本不兼容，因其已整合本模组内容，同时安装会导致游戏崩溃。</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>本模组为支持的TaCZ武器添加火控系统（作为特殊功能的大范围瞄准辅助），类似《泰坦陨落》系列中的智能手枪</p><p><img src=\"https://pic.superbed.cc/item/678f72fafa9f77b4dcae0e16.png\" alt=\"火控系统界面\"></p><h3>如何为自己的枪械添加火控系统：</h3><p>只需在枪械的json数据文件中添加：</p><pre><code>\"tacz_fire_control_extension:fire_control_system\": {\n  \"aim_cone_angle\": 60\n}</code></pre><p>当用户同时安装您的武器包和本模组时，瞄准辅助功能将生效。用户也可以单独安装武器包（不安装本模组），此时瞄准辅助功能不会生效。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

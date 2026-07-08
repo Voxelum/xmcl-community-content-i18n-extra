@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EPxEMJdRBg8=",
+  "content": "<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252fthedarkcolour\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/351264/description_034f7725-8c80-4193-ab2f-06953eb92637.png\" alt=\"\"></a></p><p>用於使用 Kotlin 程式語言製作模組。透過遮蔽 Kotlin 函式庫、提供 KotlinLanguageProvider 以載入 <a href=\"https://github.com/Mod\" target=\"_blank\" rel=\"nofollow\">@Mod</a> 物件宣告、提供 AutoKotlinEventBusSubscriber 以載入 <a href=\"https://github.com/EventBusSubscriber\" target=\"_blank\" rel=\"nofollow\">@EventBusSubscriber</a> 宣告，並提供實用的工具函式與常數。</p><p>&nbsp;</p><p>請參閱 Kotlin for Forge 的 <a href=\"https://docs.google.com/spreadsheets/d/1v8K90PBa5qPFrlHBA8PSqlBTYCcp078o5E2XQbt5BUs/edit#gid=0\" target=\"_blank\" rel=\"nofollow\">依賴項試算表</a>，了解 Kotlin for Forge 包含了哪些函式庫。</p><p>&nbsp;</p><p><strong>如果您不是模組開發者，這是一個依賴模組。</strong></p><p>&nbsp;</p><p>實作方式的相關資訊可於<a href=\"https://github.com/thedarkcolour/KotlinForForge/blob/5.x/README.md\" target=\"_blank\" rel=\"nofollow\">此處</a>找到。<br>\n您不必使用語言載入器或 Kotlin for Forge 提供的任何功能，只需將其用於隨附的 Kotlin 函式庫即可。</p><p>&nbsp;</p><p>Kotlin for Forge 的 Discord 連結可在 GitHub 上找到。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

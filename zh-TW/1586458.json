@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5KCKtMVDttA=",
+  "content": "<p># 區塊監視器</p><p>區塊監視器是一款輕量級、唯讀的區塊診斷模組，專為模組化的 Minecraft 伺服器設計。</p><p>它能協助管理員檢查附近已載入的區塊、查看實體數量，並找出區塊實體密集的區域，且不會修改世界。</p><p>目標很簡單：讓你在遇到延遲警告或玩家通報後，更容易調查可疑的區塊。</p><p>功能：</p><p>- 檢查你當前所在的區塊。<br>- 查看已載入區塊的實體與區塊實體數量。<br>- 依負載分數列出附近最熱門的區塊。<br>- 顯示附近範圍內的主要實體類型。<br>- 顯示附近範圍內的主要區塊實體類型。<br>- 專為專用伺服器設計。<br>- 預設唯讀且安全。<br>- 可設定掃描範圍與掃描上限。</p><p>安全伺服器設計：</p><p>區塊監視器僅供診斷使用。它不會修改方塊、移除實體、變更物品欄、編輯玩家資料、刻意載入區塊，也不會每個遊戲刻都進行掃描。</p><p>指令：</p><p>/chunkwatch status<br>/chunkwatch here<br>/chunkwatch chunk &lt;chunkX&gt; &lt;chunkZ&gt;<br>/chunkwatch radius [radius] [limit]<br>/chunkwatch entities [radius] [limit]<br>/chunkwatch blockentities [radius] [limit]<br>/chunkwatch reload<br>/chunkwatch debug</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

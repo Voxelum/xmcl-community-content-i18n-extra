@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ItIRsrb/jnk=",
+  "content": "<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/maDU59/ProjectilesTrajectoryPreview/1.21/src/main/resources/assets/ptp/icon.png\" width=\"150\">\n  <h1>拋射物軌跡預覽</h1>\n\n  <a href=\"https://modrinth.com/mod/ptp\"><img src=\"https://img.shields.io/badge/dynamic/json?color=158000&label=下載次數&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/preyrsIh&logo=modrinth\"></a>\n  <a href=\"https://curseforge.com/minecraft/mc-mods/ptp\"><img src=\"https://cf.way2muchnoise.eu/full_1348218_downloads.svg\"></a>\n</div>\n\n是否曾好奇你的箭矢、雪球或藥水會落在何處？這個模組能讓你視覺化預覽拋射物的飛行軌跡，並標示出預計的著陸區域——完美協助你精準規劃每一次射擊。\n\n## 🔎 功能特色\n\n- **軌跡視覺化**：在發射前預覽拋射物將遵循的飛行路徑。\n- **目標高亮標示**：清楚掌握你的射擊最可能落點的位置。\n- **可自訂設定**：可依個人喜好調整軌跡線條、目標外框及目標高亮的外觀樣式。\n- **計算精準**：與多數同類模組不同，PTP 採用精確的數學計算、偏移量與物理模擬。針對其支援的每種拋射物，皆具備正確的投擲方向偏移、物理步驟順序、初始速度、空氣阻力與重力模擬！\n\n## ⚙️ 設定調整\n\n若要編輯模組的設定：\n- 使用 Mod Menu 模組選單\n- 使用指令 `/ptpConfig` 開啟設定畫面\n- 直接編輯位於 `.minecraft/config/ptp.json` 的設定檔案\n\n## ⚠️ 限制與注意事項\n\n- Minecraft 中的拋射物常帶有隨機偏移量，因此實際著陸點有時可能與預覽略有差異。\n- 目前尚未支援模組新增的物品。若你希望某個特定模組能相容，請在 Github 上提出議題並建議，我將盡力將其加入支援清單。\n\n## 🛑 在伺服器上的使用\n\n為避免在 PVP 中被用作作弊工具，此模組預設不在伺服器端運作。若你希望在自訂伺服器上啟用，仍可透過在客戶端與伺服器端同時安裝本模組來實現。\n\n## 📦 模組包\n\n歡迎將此模組加入你的模組包中。若你這麼做，能告知我一聲將會是很好的互動。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

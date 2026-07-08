@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MkDbqZJCLA0=",
+  "content": "# 裝甲 HUD\n\n裝甲 HUD 為 [HUD 函式庫](https://modrinth.com/mod/hud-lib) 新增了一個裝甲 HUD 元件，它提供了更改顏色、背景顏色以及是否要根據耐久度設定顏色的選項（>80% 深綠色，>50% 綠色，>20% 黃色，其餘為紅色）。要開啟設定請按下 `右側 SHIFT` 鍵。\n\n## 螢幕截圖\n\n這是使用預設設定的裝甲 HUD，位置和顏色都可以更改。\n![預設設定下的裝甲 HUD](https://cdn.modrinth.com/data/wAk5JZkv/images/98fff26d0d67ccc2be44006dd909e79b82bfa8d1.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

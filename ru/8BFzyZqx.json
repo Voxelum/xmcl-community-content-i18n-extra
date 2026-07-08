@@ -1,0 +1,6 @@
+{
+  "bodyHash": "542143a1f7e21fe4",
+  "content": "\n\nЗаменяет увеличенную высоту прыжка от зелья «Ускорение прыжка» на двойной (или тройной) прыжок в зависимости от уровня эффекта. Каждый уровень «Ускорения прыжка» позволяет совершить ещё один прыжок в воздухе. При приземлении счётчик прыжков сбрасывается, а успешный удар булавой восстанавливает один прыжок. Как и следовало ожидать, прыжок в конце падения перед ударом о землю позволит избежать или уменьшить урон от падения в зависимости от тайминга. Это делает «Ускорение прыжка» более управляемым и желанным в режиме выживания.\n\n![Подсказка зелья «Ускорение прыжка», показывающая «+1 прыжок в воздухе»](https://cdn.modrinth.com/data/cached_images/3c55f26d0b0e0b159454d87b746d4b2fa20f548f.png)\n\n<iframe width=\"1190\" height=\"744\" src=\"https://www.youtube.com/embed/ISpshsGIcsM\" title=\"Double Jump Boost Demonstration\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n---\n\nЭта идея появилась в эпизоде подкаста [The Spawn Chunks](https://thespawnchunks.com).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

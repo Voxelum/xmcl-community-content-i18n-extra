@@ -1,0 +1,15 @@
+{
+  "bodyHash": "vJ93NQLvCzg=",
+  "content": {
+    "error": {
+      "message": "Response timeout.",
+      "type": "ResponseTimeout",
+      "param": null,
+      "code": "ResponseTimeout"
+    },
+    "id": "chatcmpl-7ca2abc6-e7b2-914a-b3d3-0568c46b8b40",
+    "request_id": "7ca2abc6-e7b2-914a-b3d3-0568c46b8b40"
+  },
+  "contentType": "text/html",
+  "type": "curseforge"
+}

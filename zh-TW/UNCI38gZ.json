@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0kFokhLV5PI=",
+  "content": "這是一個相容性模組，為 [轉生史萊姆：轉生](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ftensura-reincarnated) 與 FTB 模組之間搭建橋樑。專門為伺服器開發，因為轉生史萊姆會忽略大部分常見的領地保護插件。\n\n## 你同樣需要安裝 FTB 模組，否則遊戲會崩潰。\n\n### **功能特色**\n\n*   在領地內禁止技能破壞行為。\n*   在非 PvP 領地中，轉生史萊姆能力不會造成有害效果、能量吸取、附身或精神傷害。\n*   在非 PvP 領地中，禁止技能掠奪（複製/竊取）。\n*   在非 PvP 領地中，禁止透過轉生史萊姆能力強制傳送或強制移動。\n*   下屬或複製體的擊殺數會計入主人的 FTB 任務。\n*   FTB 隊伍創建的團隊在轉生史萊姆的盟友系統中視為盟友。\n*   新增 FTB 任務類型：能力獲取、覺醒狀態、存在點數、精靈與種族。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gxCWKMrDxLw=",
+  "content": "<p align=\"center\">\n  <img src=\"https://cdn.modrinth.com/data/cached_images/87ce0e5c9bba1127f983b13329a98731971e0720.png\" alt=\"電影式災變標誌\">\n</p>\n\n# 關於：\n這個模組為 L_Ender 的 Cataclysm 中的頭目添加了每個地牢僅播放一次的開場過場動畫。\n\n在過場動畫播放期間，玩家將處於無敵狀態且不會被敵人鎖定為目標。\n\n附近的每位玩家都會觸發過場動畫，但只有處於生存模式的玩家會被傳送。\n\n \n\n## 目前擁有開場過場動畫的頭目：\n\n斯庫拉、詛咒之主、利維坦、古老殘骸、伊格尼斯\n\n<h2 style=\"color:red\">重要事項！</h2>\n\nI) 此模組高度依賴 Cataclysm 的部分內部程式碼，若該程式碼發生變更，過場動畫可能會失效。\n \nII) 若您使用 EntityCulling 模組，請將以下實體加入實體刷新剔除白名單：\n\ncinematiccataclysm:maledictus_cutscene\n\ncinematiccataclysm:scylla_cutscene\n\ncinematiccataclysm:ignis_cutscene\n\ncinematiccataclysm:ancient_remnant_cutscene\n\ncinematiccataclysm:leviathan_cutscene\n\n未進行此設定可能導致伺服器與客戶端嚴重不同步，造成過場動畫運作異常！\n\nIII) 致模組包製作者：過場動畫僅在 Cataclysm 原版結構中能正常運作，除非您特別為過場動畫設計結構，否則自訂結構將無法觸發動畫",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

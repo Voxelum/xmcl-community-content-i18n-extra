@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EDX8jADid4Q=",
+  "content": "## 嘿，怎麼到現在都沒人做這種資料包？\n### _還是說只是我找得不夠仔細……？_\n基本上，當殭屍擊中你時，你的移動速度屬性會被乘以0.25（相當於緩速V），並且\n- _1.21及以上版本：_ 跳躍強度屬性乘以0。\n- _1.21以下版本：_ 跳躍提升效果等級128。\n\n持續1.5秒\n\n如果你不喜歡這些數值，可以透過以下路徑進行設定：\n- _1.21+：zombies_slow/data/zombies_slow/function/zombie_hit.mcfunction_\n- _1.21以下：zombies_slow/data/zombies_slow/functions/zombie_hit.mcfunction_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

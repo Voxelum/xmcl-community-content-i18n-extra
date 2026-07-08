@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sw/Bh3nqVyk=",
+  "content": "JinxedLib 是一个库模组，旨在帮助创作者更轻松地制作多加载器模组。该模组还附带一些数据包工具，可能对整合包作者也有帮助！\n\n大部分方法和类都附有注释以帮助开发者，但如果你遇到困难，欢迎加入我的 [Discord 服务器](https://discord.gg/DuJj8Nx8nm)，我会在那里提供帮助！\n\n其中一些功能与 NeoForge 功能类似，移植它们是为了让这些功能也能在 Fabric 或通用包中使用。\n\n## 开始使用\n\n你可以在这里找到 [Wiki 文档](https://kekecreations.boomla.net/mods/minecraft-java-edition/jinxedlib)，该文档解释了所有功能以及如何配置模组！\n\n## 功能\n\n1. 注册工具，使注册物品更便捷，现在你无需每次创建新的多加载器项目时都设置注册表服务！\n\n2. 数据驱动的堆肥物品，你现在可以通过数据包使物品可堆肥。\n\n3. 数据驱动的熔炉燃料，你现在可以通过数据包使物品成为熔炉燃料。\n\n4. 公共通用方块类，在使用原版 Gradle 时，某些类如 'StairBlock' 具有保护访问权限，但借助此库，你可以使用 'CommonStairBlock' 类绕过此限制！\n\n5. Jinxed 调色板排列，使用此功能，你可以将目录作为调色板排列的精灵源。我在 Arts & Crafts 模组中利用这一点制作了染色装饰花盆！\n\n6. Invoker 混合器，让你可以在通用包中调用私有注册方法！\n\n7. 告示牌工具，使用此库你无需再对告示牌的 'isValid' 方法进行混合，只需将告示牌添加到内置列表即可！\n\n8. 创造模式分类工具，借助此类，你可以通过 for 循环将染色方块添加到创造模式分类，并按正确顺序排列，甚至支持自定义染料模组！\n\n9. 可燃方块类，在 NeoForge 端这些类已处理好可燃方法，你只需在 Fabric 端处理可燃功能即可！\n\n10. 用于 NeoForge 的自定义战利品修改器。\n\n### 鸣谢\n1. 衷心感谢 Yirmiri 在注册表修复方面提供的帮助！[[Github 页面链接](https://github.com/Yirmiri)]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

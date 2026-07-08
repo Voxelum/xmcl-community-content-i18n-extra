@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DOw3Hrog4Lo=",
+  "content": "有时候当你创建一个服务器时（尤其是在使用像BungeeCord这样的代理时），Forge会显示一个**“不兼容的FML模组服务器”**消息，即使你仍然能够加入服务器。\n\n这可能会让一些玩家感到困惑。\n\n所以我制作了这个客户端模组，完全禁用了这些消息。\n\n默认情况下：\n<img src=\"https://i.imgur.com/eH9PRQC.png\">\n\n使用此模组后：\n<img src=\"https://i.imgur.com/gztSHnd.png\">",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

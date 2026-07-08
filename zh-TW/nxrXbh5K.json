@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5LP0UQiqOCI=",
+  "content": "這個伺服器端的 Fabric 模組修復了當客戶端渲染距離高於伺服器時產生的霧氣問題。\n\n伺服器會欺騙客戶端，讓它以為自己與伺服器擁有相同的渲染距離。\n\n## 螢幕截圖\n\n### 未安裝模組\n![](https://user-images.githubusercontent.com/13237524/195091961-6d348096-9919-476a-8f45-99cbc05097b3.png)\n*伺服器渲染距離 10，客戶端渲染距離 16*\n\n### 已安裝模組\n![](https://user-images.githubusercontent.com/13237524/195091990-e796b3db-78c2-4481-ae5c-ee265cb0de0e.png)\n*伺服器渲染距離 10，客戶端渲染距離 16*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

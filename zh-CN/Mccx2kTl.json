@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zNniCq9dgWs=",
+  "content": "# 传送枪模组\n\n```\n仅适用于Forge 1.20.1版本（可能不会移植到其他版本）\n```\n\n## 传送门！\n\n通过本模组，你可以随心所欲地创建传送门。非常适合远距离移动和逃离危险！\n\n## 传送流体\n\n本模组新增了几种传送流体，包括瓶装形态和更适合作为传送枪弹药使用的形态。每种液体都有不同效果。\n\n**先驱传送液** - 仅以药水形态存在，可饮用但不建议饮用\n\n**不稳定传送液** - 不完整的传送液不稳定形态。具有危险性，需谨慎处理\n\n**稳定传送液** - 传送液的完整形态。能持续数秒生成稳定传送门。其目的地可通过传送枪设定。若传送枪定位失败或直接投掷瓶装液体，将生成通往随机地点的传送门。\n\n![传送液体示意图](https://cdn.modrinth.com/data/cached_images/2a1c6c088b9939772177dc1c7819b3a507c27751.png)\n\n## 传送枪\n\n当装载了对应容器中的液体时，传送枪可发射不稳定传送液或稳定传送液。它能可靠地设定稳定传送液的目的地。\n\n![传送枪示意图](https://cdn.modrinth.com/data/cached_images/b5bb85e8b06149b0211788fc2e9772c3b7d7e682_0.webp)\n\n### 普通传送枪\n\n最多可存储5个定位坐标，随时进行传送\n\n### 旅行者传送枪\n\n可将玩家传送至任意坐标和维度。无法保存任何定位坐标\n\n演示视频：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BP8RQ7fzakE\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 补充说明\n允许在任何公开的Minecraft\"整合包\"中使用本模组\n\n严禁在任何公开平台重新发布本模组。此权限仅归模组创作者所有\n\n如需联系，欢迎通过Discord联系我 [用户名: hat.dealer]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "64u6O3iMmog=",
+  "content": "《僅限成年殭屍》是一個資料包，能將幼年殭屍完全從遊戲中移除！\\\n許多人討厭幼年殭屍，因為它們速度極快又難以擊中，非常惱人。\\\n這個資料包不僅會移除一般的幼年殭屍，還會移除幼年屍殼、幼年溺屍、幼年殭屍化豬布林以及幼年殭屍村民！\\\n若要切換功能，只需輸入 /reload，然後選擇「禁用」或「啟用」，或直接輸入 /function azo:enable 或 /function azo:disable。\\\n資料包運作範例：使用指令召喚幼年殭屍（/summon minecraft:zombie ~ ~ ~ {IsBaby:1b}）\\\n![僅限成年殭屍](https://i.imgur.com/EXnQKYe.gif)\\\n敬請享用！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UH9bkLAPgEM=",
+  "content": "# 關於這個函式庫\n**DeltaBox Lib** 為我的模組添加了可重複使用的程式碼。它是用 Kotlin 編寫的，這樣我就能花更少時間處理冗長的程式碼（咳咳），而把更多時間用在創造酷炫的東西上！\n\n目前它是以下模組的必要依賴項：\n- [Brazilian Delight](https://modrinth.com/mod/braziliandelight)\n- [Music Box](https://modrinth.com/mod/musicbox)\n- [Pale Garden Backport](https://modrinth.com/mod/pale-garden-backport)\n- 秘密專案 1\n- 秘密專案 2\n\n## 依賴項目\n- [Architectury](https://modrinth.com/mod/architectury-api)\n- 如果你使用 Forge，需要 [Kotlin For Forge](https://modrinth.com/mod/kotlin-for-forge)\n- 如果你使用 Fabric，需要 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n\n# 功能特色\n- 更簡便的方塊、物品、創造模式標籤頁和流體註冊\n- 多種可重複使用的自訂方塊類型預設\n- 更簡便的樹木組合創建\n- 更簡便的村民和流浪商人交易註冊\n- 抽象的配方和戰利品表資料生成器\n- 雜訊生成器（使用 [FastNoise](https://github.com/Auburn/FastNoise_Java)）\n- 自訂盔甲渲染器\n- 協助創建自訂世界生成特徵\n\n隨著我開發更多模組並學習更多關於 Minecraft 模組開發的知識，將會添加更多功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

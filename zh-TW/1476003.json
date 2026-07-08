@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9WvTkx3HXqU=",
+  "content": "<p>這是一個 Oculus 的分支版本，旨在持續更新至 1.20.1 版本，並允許其他模組的著色器和渲染器與 Oculus 相容。</p><p>請勿向原始 Oculus 或 Iris 專案回報任何問題。</p><p>由於 1.20.1 版本的 Oculus 已停止維護，我創建了這個分支版本，以便讓第三方著色器能夠正常運作。</p><p>如有任何疑問，請加入我們的 Discord 伺服器以獲得支援：<a href=\"https://discord.gg/KBNst7hZ4C\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/KBNst7hZ4C</a>。</p><p>未來我希望能加入更簡便的方式來新增著色器和天空盒。</p><p>由於這是 Oculus 的分支版本，必須註明出處。</p><p>原始專案可在此找到：<a href=\"https://www.curseforge.com/minecraft/mc-mods/oculus\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/oculus</a>。</p><p>與 Oculus 的差異：由於 Oculus 1.20.1 已停止維護，我合併了允許第三方著色器與 Oculus 相容的拉取請求。未來我計劃讓註冊天空盒的流程更加簡便。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

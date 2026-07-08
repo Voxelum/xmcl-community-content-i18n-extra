@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WToLI8+RZZ4=",
+  "content": "<h1>🇹🇼 繁體中文</h1><p><strong>BleedOut 為遊戲增加了擊倒機制。</strong>當你受到致命傷害時，你不會立即死亡——你會倒在地上並開始流血。</p><h3>功能</h3><ul>\n<li><strong>倒地狀態：</strong>你進入匍匐姿態並有有限的存活時間。你可以移動到掩體後方，但無法跳躍、使用物品或戰鬥。</li>\n<li><strong>復活：</strong>隊友可以在你附近按住<strong>右鍵</strong>來復活你。如果他們離得太遠，復活程序會取消。</li>\n<li><strong>放棄：</strong>如果沒有救援趕到，按住<strong>左鍵</strong>立即因傷重不治。</li>\n</ul><h3>武器相容性</h3><p>與 <strong>TACZ</strong> 和 <strong>SuperbWarfare</strong> 完全整合。</p><ul>\n<li>倒地時嚴格禁止開火（防止作弊）。</li>\n<li>透過反射機制運作（無硬性依賴）。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pd+IBtdBebc=",
+  "content": "# | 描述 |\n將 Tab 清單中的連線圖示替換為一般數字。有些模組確實能做到此功能且非常精準，但由於它們是模組，對原版玩家而言可能無法使用。\nPing 範圍：0 - 5格、100 - 4格、300 - 3格、600 - 2格、1000 - 1格。單位為毫秒。如果需要精確數值，例如在 PvP 中，建議使用其他模組。\n\n# | 版本 |\n目前支援 Minecraft Java ```1.20.2-26.1.2```。\n\n# | 相容性 |\n與會修改或取代 Tab 清單中 Ping 圖示的模組不相容，例如其他將其替換為文字或數字的模組。\n\n## | Patreon |\n加入<a href=\"https://patreon.com/Nerd_1023?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\">我的新 Patreon</a>以支持我的專案！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

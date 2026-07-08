@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Zi9agKMXZMc=",
+  "content": "# Fabric Force в нижнем регистре\n\nЭтот мод强制 отправлять первый аргумент любой команды на сервер в нижнем регистре, чтобы предотвратить синтаксические ошибки.\n\nОн делает это, преобразуя символы, введённые в первом слове после знака «/», в строчные буквы.\nПример:\n\n`/Msg TestUser Мое сообщение! -> /msg testuser моё сообщение!`\n\nПример:\n\n![](https://cdn-raw.modrinth.com/data/wyk6WIE7/images/e00321e4f84bcf8ddbcb2fb1a94d1e624fad0414.gif)\n\nБез мода:\n\n![](https://cdn-raw.modrinth.com/data/wyk6WIE7/images/fe81d59bc2474a42de5beb4ebe77d7d6bc0dade4.png)\n\nВдохновлено [Force Lowercase Commands](https://modrinth.com/mod/force-lowercase-commands)\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

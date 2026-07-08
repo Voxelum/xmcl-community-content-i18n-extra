@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DOw3Hrog4Lo=",
+  "content": "有時候，當你架設伺服器（特別是在使用像是 BungeeCord 這類代理伺服器時），即使你仍然能夠加入伺服器，Forge 可能會顯示「不相容的 FML 模組伺服器」的訊息。\n\n這可能會讓一些玩家感到困惑。\n\n所以我製作了這個客戶端模組，它能完全停用這些訊息。\n\n預設情況：\n<img src=\"https://i.imgur.com/eH9PRQC.png\">\n\n安裝此模組後：\n<img src=\"https://i.imgur.com/gztSHnd.png\">",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

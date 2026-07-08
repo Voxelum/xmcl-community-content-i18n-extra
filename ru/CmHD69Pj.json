@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rExN++SMyyA=",
+  "content": "### Этот мод сам по себе совершенно ничего не делает!\n<br/>  \n\nЭто простой JAR-файл, содержащий только API Twitch4J и его зависимости для модов, использующих Twitch4J.\nЦель — позволить модам быть меньшего размера, избегая необходимости включать весь API, а также упростить работу с зависимостями. Вы также можете указать этот мод в качестве зависимости в `fabric.mod.json`.\n<br/>  \n<br/>\n**Версии Twitch4J для Fabric имеют формат `{версия Twitch4J}+{версия мода}`, начиная с Twitch4J 1.14.0; для версий от 1.9 до 1.13.0 используется просто `{версия Twitch4J}`.**\n\nЧтобы использовать библиотеку, добавьте репозиторий Maven и убедитесь, что вы используете `twitch4j-fabric`:\n```gradle\nrepositories {\n    maven { url \"https://maven.awakenedredstone.com\" }\n}\n\ndependencies {\n    modImplementation \"com.github.twitch4j:twitch4j-fabric:${project.twitch4j_fabric_version}\"\n}\n```\n\n![](https://i.ibb.co/yphNcXz/fabric-only-banner.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

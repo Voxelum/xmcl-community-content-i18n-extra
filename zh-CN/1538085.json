@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JVvEpZal7lo=",
+  "content": "<h1>机械动力：轨道 - 修复版</h1><p><strong>这是由qwxon制作的\"Create: Tracks\"模组的非官方修复补丁。本版本不添加任何新内容，仅用于修复原版模组中存在的一个漏洞。</strong></p><h2>本模组修复了什么问题</h2><p>在原版\"Create: Tracks\"模组中，<strong>轨道支架无法使用斧头或镐破坏</strong>——而这些本是应该能移除该方块的标准工具。这导致轨道支架在正常游戏流程中无法被拆除，玩家只能选择将它们留在原地，或使用非预期的变通方法。</p><p>本修复版修补了此行为，使得：</p><ul>\n<li><strong>斧头</strong>与<strong>镐</strong>现在能正确地破坏轨道支架。</li>\n<li>轨道支架在破坏后会正常掉落，避免物品损失。</li>\n<li>铁路设施的拆除过程变得自然，与机械动力模组其他部分的游戏体验保持一致。</li>\n</ul><h2>对游戏体验的影响</h2><p>如果没有本修复，建造和调整铁路网络将令人沮丧——每铺设一个轨道支架都相当于永久固定。应用本补丁后，您可以自由规划、放置和重构您的铁路系统，而不会被初始布局所限制。这对于需要频繁调整的大型机械建造尤为重要。</p><h2>重要说明</h2><ul>\n<li>本版本<strong>并非原模组作者的正式发布版</strong>。</li>\n<li>相比原版\"Create: Tracks\"模组，唯一的改动就是上述工具破坏问题的修复。</li>\n<li>原版模组的所有功劳归功于<strong>qwxon</strong>：<a href=\"https://www.curseforge.com/minecraft/mc-mods/create-tracks\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/create-tracks</a></li>\n<li>如果您受到破坏漏洞影响，请安装本模组<strong>替代</strong>（而非同时使用）原版\"Create: Tracks\"。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OrvWeulz3dY=",
+  "content": "Warium Ponder & JEI 為 Warium 機械新增了互動式 **《說明指南》** 以及 JEI 整合功能。\n\n- **如果安裝在用戶端**：可使用說明指南與 JEI 配方。\n- **如果安裝在伺服器端** _（用戶端仍需安裝）_：原先寫死在程式碼中的 Warium 配方，現在會以 `warium_ponder_jei` 命名空間註冊，並可透過資料包進行修改 _（請參閱此模組 JAR 內部的 `data/warium_ponder_jei/recipes/...` 作為參考）_。此外，也修復了在安裝 Supplementaries 時裝配機會無法運作的問題。\n\n從 2.0.0 版本開始，僅提供少數說明指南。先前版本中的大部分指南已經移除，因為此模組不再依賴於 Ponder for KubeJS，而我需要時間用 Java 重新撰寫指南，加上部分指南已棄用並需要更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

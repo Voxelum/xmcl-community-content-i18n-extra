@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lFqP1KIwCZg=",
+  "content": "如果你的儲物室裡有大量箱子，想必你早就注意到 Minecraft 在渲染這些箱子時表現有多糟。箱子越多，FPS 就越低。\n\nFastChest 透過移除箱子的動態模型（也就是 BlockEntityRenderer），讓它們像一般方塊那樣以靜態區塊幾何方式渲染，從而改善效能。（這意味著箱子將失去開蓋動畫！若你在意這項功能，請參考 [Enhanced Block Entities](https://modrinth.com/mod/ebe)。）\n\n根據你周遭箱子的數量，效果會有所不同。在大儲物室中，這個模組可輕鬆讓 FPS 翻倍，但請注意，箱子並非效能不佳的唯一元兇。\n\nFastChest 支援 Sodium 和 Optifine，並且與不更動箱子的資源包相容。舉例來說，*Vanilla Tweaks Proper Break Particles* 資源包就不相容，因為它覆寫了箱子的方塊狀態定義，無法直接搭配使用。不過，你可以刪除該資源包中 `/assets/minecraft/blockstates` 目錄下的 `chest.json`、`ender_chest.json` 和 `trapped_chest.json` 檔案，就能讓它與模組正常運作。\n\n其他模組的箱子可能會被 FastChest 破壞。這個模組僅支援原版箱子。\n\n經典（完整方塊）箱子資源包可從[此處](https://up.domi.re/pa1f7rxa)下載。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

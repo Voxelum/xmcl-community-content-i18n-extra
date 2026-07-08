@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d7z9hQYGI3U=",
+  "content": "## DirTNT\n\nМод для Minecraft от Fabric, который добавляет Дирт TNT для всех ваших нужд по заполнению дыр.  \nТеперь также включает Песок, Щебень и Камень TNT и может быть настроен буквально под любой блок в игре!\n\nЧто касается последнего, ознакомьтесь с файлом конфигурации `dirtnt.json` (он генерируется при запуске игры).  \nЕсли хотите поэкспериментировать, есть также отладочная опция `enableAll`.  \n\n- для Minecraft от Fabric 1.16 и выше требуется Fabric API  \n- версии ниже 1.4 требуют [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) или [BRRP](https://modrinth.com/mod/brrp) (выберите одну из них)  \n- версия 1.4 требует [BRRP](https://modrinth.com/mod/brrp) (с Fabric API **ниже** 0.116.4 из-за бага в BRRP) и  \n  начиная с версии 1.5 ни один из этих модов больше не требуется!  \n- необходим как на сервере, так и на клиенте  \n- сервер и клиент должны иметь абсолютно одинаковую конфигурацию  \n\n### Видео-демонстрация:  \n[![Миниатюра](https://img.youtube.com/vi/Kw3FTI6X-hs/0.jpg)](https://www.youtube.com/watch?v=Kw3FTI6X-hs «Нажмите, чтобы посмотреть»)\n\n![TNT, окружённый Грязью, превращается в Дирт TNT](https://raw.githubusercontent.com/Fourmisain/DirTNT/1.17/recipe.png)\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y79mq00qD6I=",
+  "content": "# Свойства сервера по умолчанию\n\nОчень простой мод, который встраивается в игру и позволяет разработчику модпака задать файл `default-server.properties` в корне пака. Это позволит переопределить стандартное создание файла `server.properties`. Прелесть этого метода в том, что вам нужно указать только те свойства, которые вы хотите изменить по умолчанию, в файле `default-server.properties`; остальное будет обработано стандартной загрузкой игры.\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/1c9b9598-52f3-402c-84a8-84f7779e1360.webp)](https://www.bisecthosting.com/mikey?rel=modrinth)\n\n## Как использовать\n\nСоздайте файл `default-server.properties` в корневой папке игры. Если в папке `local` отсутствует файл `default-used.marker`, мод попытается загрузить эти данные по умолчанию и вставить их в обычное стандартное создание файла `server.properties`... просто и понятно.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3K+ePtVBbI4=",
+  "content": "<p>本模组通过清理GPU缓存来解决一些渲染问题。</p><p>使用zink渲染器时可能出现某些渲染错误，尤其在手机上较为常见。</p><p>类似这样的问题：</p><p><img src=\"https://s11.ax1x.com/2024/02/24/pFUcIZd.png\" width=\"500\" height=\"240\"></p><p>&nbsp;</p><p>使用本模组后修复的效果：</p><p><img src=\"https://s11.ax1x.com/2024/02/24/pFUcodA.png\" width=\"500\" height=\"240\"></p><p>&nbsp;</p><p>本模组灵感来源于OptiFine的“平滑FPS”功能，应能达到相同效果，同时避免了OptiFine可能导致的模组兼容性问题。</p><p>&nbsp;</p><p>注意：使用此模组可能会导致轻微帧率下降。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

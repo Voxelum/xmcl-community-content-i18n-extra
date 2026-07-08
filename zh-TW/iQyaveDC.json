@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4klKcoIfAKs=",
+  "content": "你是否曾嘗試過用非英語語言遊玩模組包，卻發現半數模組沒有翻譯？\n\n全球化功能讓你能透過 libjf-translate 自動生成缺失的翻譯，避免這個問題。\n\n安裝模組後，只需設定目標語言並重啟遊戲即可完成配置。\n\n所有翻譯記錄都會被紀錄，若遊戲卡住，請查看啟動器日誌。\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"建議與支援\" src=\"https://img.shields.io/badge/建議與支援-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hbKESogvVNM=",
+  "content": "这个数据包是我通过数据包练习编写的。因为我厌倦了原版的地形，而且一直想要一个既高效又真实的地形，所以我着手对原版地形进行了重构。\n\n# 📖这个数据包是什么？\n在原版中，尽管高版本的地形已经经过了大幅改造，但仍然不够壮观，也没有那种被群山环绕的感觉。\n\n现在，这个数据包就能实现这一点，因为它重写了游戏的地形。你现在可以在游戏中看到山脉了！\n\n### 1.21.8 版本的支持问题已解决。\n\n这个数据包为 Minecraft 添加了真实的平原和壮观的高山山峰。\n# 💡特点：\n- 地形表面平滑。\n- 类似被侵蚀过的地形。\n- 壮观的高山山峰。\n- 地形现在可以像大陆板块一样生成。\n- 海边有悬崖。\n- 新增了穿梭于各个生物群系的大、小型河流。\n- 新增了地下河流功能。\n- 全新的海岸线：可以形成侵蚀和锯齿状海岸、地中海、海峡、岛屿、半岛。\n- 新增了地下地形和岩浆河流。\n\n由于以现实为参考，地图尺寸会非常大，海洋可能有上万格。建议使用 [World Preview](https://modrinth.com/mod/world-preview) 模组进行地图预览。\n\n![ ](https://cdn.modrinth.com/data/cached_images/03a2f5b0a68ee6892dc64f7273d5544910bc431c.png)\n\n# 注意\n- 这是兼容 https://modrinth.com/mod/terrablendermod 生物群系的版本。\n- 该数据包的模组版本与 Terralith 不兼容。如需使用，请将 Epic Terrain 数据包与 Terralith 数据包一同使用，并将 Epic Terrain 数据包置于顶部。\n- 如果河流出现问题，请将 Epic Terrain 置顶。\n\n### 本数据包支持自定义功能。\n- 修改文档已放置在压缩数据包中，你可以自行打开并编辑（抱歉只有中文版本，我不太会说英语，请自行翻译）。![ ](https://cdn.modrinth.com/data/cached_images/a8a2557a94c5f3a2b3375a3b97ef41903ad1f503.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

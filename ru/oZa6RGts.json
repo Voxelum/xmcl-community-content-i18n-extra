@@ -1,0 +1,6 @@
+{
+  "bodyHash": "szDU0Aq1M0Y=",
+  "content": "# Что такое тон Шепарда?\nТон Шепарда — это слуховая иллюзия, создающая ощущение звука, постоянно повышающегося или понижавшегося по высоте, в то время как на самом деле его фактическая частота циклически повторяется и никогда не превышает определённого предела (именно этот приём был использован для бесконечных лестниц в Super Mario 64).\n\n# Почему вы использовали повышение тона, а не тон Шепарда?\nЭтот трюк можно выполнить только с фиксированными интервалами волн, поэтому его невозможно реализовать в реальном времени во время игры. Тем не менее, я попытался воспроизвести подобный эффект, просто повысив тональность отдельных звуков.\n\nДемонстрация: <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/q5XuCd-Ig4E\" title=\"Проигрыватель YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nПодобный [мод](https://steamcommunity.com/sharedfiles/filedetails/?id=2196484541) уже существует для игры The Binding of Isaac, откуда я и взял эту идею. Весь кредит за первоначальную концепцию принадлежит [IsaacGuru](https://steamcommunity.com/id/OciXCrom).\n\nDiscord — https://discord.gg/DvWt9HAg8e",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

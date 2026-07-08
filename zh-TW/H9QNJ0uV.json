@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dqn2FtkS69I=",
+  "content": "Pisces Libs 是一個關於物品相關功能及簡化多載入器移植的必備模組庫。\n\n你需要同時安裝 Aquarius libs 才能正常運作。\n\n單獨使用時不會對遊戲有太多改變，\n\n但它實作了許多函數與變數，讓更新與移植模組變得更加容易。\n\n同時也讓模組創作者在開發新模組時能夠大幅減少程式碼，\n\n因為它簡化了物品註冊流程，並讓處理元件與屬性的操作更加直覺。\n\n![aquariuslibs](https://cdn.modrinth.com/data/KkHnyaL6/7d506caf48d26f964f4f789553ce757cfe868742_96.webp)\n\n**[此模組需要安裝 AQUARIUSLIBS 才能運作](https://modrinth.com/mod/aquarius-libs)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

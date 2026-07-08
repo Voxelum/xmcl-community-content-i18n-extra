@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y5lICqXIw+E=",
+  "content": "此模組新增了一個指令 `/eureka_effect`，可用於觸發各種不同類型的事件，例如 GameEvents、LevelEvents 和 EntityEvents。它也能夠修改玩家的內部數據。\n\n請謹慎使用此模組，並且**僅在**你確實清楚自己在做什麼的情況下才使用。\n\n此模組是為除錯目的而製作的。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

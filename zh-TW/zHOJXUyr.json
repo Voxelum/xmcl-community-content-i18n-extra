@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gPDNJ6AqF7U=",
+  "content": "# 樹木收割者Plus\n\n快速砍樹，但不會讓遊戲變成創造模式。\n\n樹木收割者Plus 讓你可以蹲下並破壞一個原木，即可砍倒整棵相連的樹木，並提供可設定的限制與選擇性的樹葉清除功能，讓這個功能實用但不至於過於強大。\n\n## 功能特色\n- 蹲下並破壞一個原木即可砍倒整棵樹\n- 支援所有原版原木與地獄菇柄\n- 可選擇是否清除樹葉\n- 可設定的最大原木與最大樹葉數量\n- 可切換是否需要蹲下\n- 工具耐久度仍會正常消耗\n\n## 為什麼要使用\n- 更快收集木材\n- 減少前期重複作業的繁瑣\n- 非常適合原版+生存模式與多人伺服器\n\n## 設定檔\n`config/treeharvesterplus.json`\n\n## 需求\n- Fabric Loader\n- Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

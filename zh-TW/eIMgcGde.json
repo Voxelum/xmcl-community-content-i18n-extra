@@ -1,0 +1,6 @@
+{
+  "bodyHash": "u++p0kBwtt8=",
+  "content": "這個模組是為了透過 Sinytra Connector 在 NeoForge 上執行《戰國時代》的輕量級相容性修補程式。\n\n本專案的目標是讓《戰國時代》能在 NeoForge 上順利運行。\n\n此修補程式並非移植或重寫原始模組，而是注入針對性的修復，以解決在 Fabric 與 NeoForge 環境之間因有問題的 Mixin 及載入器 API 差異所導致的崩潰或初始化失敗問題——這些問題在使用 Sinytra Connector 時會發生。\n\n功能特色：\n\n- 針對性相容性修復\n- NeoForge 環境注入調整\n- 專為 Sinytra Connector 環境設計\n- 對原始模組行為影響極小\n\n重要事項：\n\n- 需要安裝 Sinytra Connector\n- 需要安裝原始的《戰國時代》模組\n- 非官方相容性修補程式\n\n使用說明：\n\n- 建立一個 NeoForge（21.1.230+）1.21.1 的設定檔\n- 安裝此模組\n- 安裝最新版本的《戰國時代》Fabric 版\n- 安裝 Sinytra Connector 與 Forgified Fabric API\n- 安裝：\n  - Continuity\n  - Lithostitched\n  - Polytone\n  - [EMF] Entity Model Features\n  - [ETF] Entity Texture Features\n\n- 執行遊戲一次。如果你更新了修補程式或遇到啟動問題，請刪除 mods 資料夾內的 .connector 資料夾，然後重新啟動遊戲。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

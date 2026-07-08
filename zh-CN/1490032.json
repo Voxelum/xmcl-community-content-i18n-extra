@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MDsUU2j98hk=",
+  "content": "<h1>东方小女仆：属性显示</h1><p><code>东方小女仆：属性显示</code> 是一个适用于 Minecraft <code>1.20.1</code> 的 Forge 模组，为 <code>东方小女仆</code> 的女仆添加了专用的属性界面。</p><h2>简介</h2><p>本模组为 <code>东方小女仆</code> 的女仆 GUI 增加了一个独立的属性页，用于查看女仆当前拥有的属性、具体数值、乘区构成与公式明细。</p><p>界面支持：</p><ul>\n<li>按模组对属性分组显示</li>\n<li>使用左侧分组图标快速切换</li>\n<li>收藏常用属性并在收藏夹中查看</li>\n<li>显示属性基础值、加法、乘法和最终结果</li>\n<li>对没有语言文件的属性自动隐藏</li>\n</ul><h2>需求</h2><ul>\n<li>Minecraft <code>1.20.1</code></li>\n<li>Forge <code>47.4.0</code></li>\n<li>东方小女仆 <code>1.5.0</code></li>\n</ul><h2>备注</h2><ul>\n<li>模组 ID：<code>tlm_atrribute_display</code></li>\n<li>许可证：<code>MIT</code></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

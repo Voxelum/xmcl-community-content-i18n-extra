@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KhjFiTAg1fA=",
+  "content": "# 可配置的挖掘延遲\n\n這是一個完全客戶端的模組，允許您更改挖掘和放置方塊之間的延遲時間。\n\n挖掘延遲可以從預設的 5 刻更改為 0 到 20 刻，使用指令 `/miningdelay delay <ticks>`；放置延遲可以從預設的 4 刻更改為 0 到 20 刻，使用指令 `/miningdelay placement_delay <ticks>`。\n\n預設情況下，當連接到伺服器時，延遲修改功能會被禁用，因為大多數啟用反作弊功能的伺服器會因此封鎖您的帳號。使用指令 `/miningdelay enabledOnServers true` 將在伺服器上啟用修改後的挖掘延遲，而 `/miningdelay enabledOnServers false` 將再次禁用它。\n\n透過指令所做的更改將保存到設定資料夾中的 `miningdelay.json` 檔案。請注意，在遊戲中手動編輯該檔案不會像指令那樣即時應用更改。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

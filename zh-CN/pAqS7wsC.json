@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jdZZXY4H4hM=",
+  "content": "这是 Azanor 的 Baubles 模组 1.7.10 版本的一个分支，增加了额外功能。与使用原版创建的模组保持向后兼容。Baubles Expanded 默认提供与原版相同的四个物品槽位，但最多可扩展至二十个。其他模组可以添加全新类型的槽位，并允许饰品放入多种类型的槽位。\n\n# 新特性\n\n## 对于玩家\n\n- 通过配置文件覆盖默认分配的槽位。\n- 在配置中设置灵魂绑定附魔 ID，使模组中的灵魂绑定附魔按预期工作。与 [Ars Magica](https://modrinth.com/mod/ars-magica-25) 配合良好！\n- 与原版模组保持向后兼容。\n\n## 对于模组开发者\n\n- 注册全新类型的槽位。\n- 向物品栏中添加槽位。\n- 创建可放入多种类型槽位的饰品。\n\n# 使用新特性的模组\n\n- [Et Futurum Requiem](https://modrinth.com/mod/etfuturum)（为鞘翅提供可选的翅膀槽位）\n\n# 已知问题\n\n- 由于原版漏洞，附魔物品可能导致物品栏槽位和物品渲染异常。此问题可通过 [BugTorch](https://modrinth.com/mod/bugtorch) 修复。\n- 替换原版四个槽位或增加同类型槽位可能会降低向后兼容性。\n- 来自植物魔法的饰品盒仅能访问前四个槽位。此问题将在未来的植物魔法分支中得到修复。\n\n## 特别鸣谢\n\n- 感谢 Azanor 及其贡献者长久以来创建并维护原版模组。\n- 感谢 TechnoParadox 创造了图标。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

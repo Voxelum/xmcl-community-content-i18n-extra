@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RdRSSdpGXdc=",
+  "content": "<h1>🇯🇵 中文（简体）</h1><p><strong>TaczOptimization 可提升你在 Timeless and Classics Zero 中的性能。</strong>它能让你选择性地禁用高开销渲染功能并清理 HUD，从而提高 FPS，尤其是在多人游戏中。</p><h3>功能</h3><ul>\n<li><strong>渲染优化：</strong>通过隐藏其他玩家的武器、配件和子弹轨迹，显著减少拥挤区域的卡顿。</li>\n<li><strong>简洁 HUD：</strong>禁用弹药计数器、热量条、击杀信息、交互提示等特定覆盖元素，获得更沉浸或更干净的屏幕。</li>\n<li><strong>客户端模组：</strong>这是一个完全客户端的模组，不需要在服务器上安装即可运行。</li>\n</ul><h3>配置</h3><p>所有功能均可通过配置文件（<code>tacz_optimization-client.toml</code>）开关：</p><ul>\n<li><strong>渲染：</strong>切换其他玩家的枪械、配件、自己的子弹和敌人弹道的可见性。</li>\n<li><strong>GUI：</strong>独立控制枪械 HUD、热量条、击杀计数和交互键覆盖层。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

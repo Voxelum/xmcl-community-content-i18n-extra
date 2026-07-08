@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JwMmCarpZD8=",
+  "content": "![](https://github.com/Mephodio/EmiEnchants/raw/master/media/demo.gif)\n\n[EMI](https://modrinth.com/mod/emi) 附加元件，用於檢視附魔資訊。\n\n* 顯示內容：\n  * 附魔名稱、所屬模組、最高等級\n  * 分類及可適用的物品列表\n  * 稀有度、權重、每級花費（參見[Wiki](https://minecraft.wiki/w/Enchantment_weight)）\n  * 衝突附魔列表\n  * 是否能從附魔台獲取\n  * 是否能從村民處購買\n  * 是否能從各種戰利品來源獲取（寶箱、釣魚、生物裝備掉落）\n  * 是否被視為寶藏（村民以雙倍價格出售）\n  * 是否為詛咒\n  * 描述（若模組或資源包提供）。請參閱[附魔描述](https://modrinth.com/mod/enchantment-descriptions)\n* 查詢物品的用途可顯示適用的附魔\n* 查詢附魔書的合成配方或用途可顯示其附魔屬性。目前因EMI限制，僅支援單一附魔的書籍。\n\nForge版本相容於NeoForge 1.20.1。其他版本將在後續更新中支援。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

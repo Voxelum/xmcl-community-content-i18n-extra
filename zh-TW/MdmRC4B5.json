@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bK3VvxvSoA0=",
+  "content": "此函式庫旨在簡化介面的創建過程\n設計用來在 SDM 模組中取代 FTB Library\n\n## 功能特色\n- RGB/RGBA 色彩支援\n- 繪製基本圖形，例如三角形、方形、圓形\n- 簡化旋轉、縮放與渲染優先順序的互動操作\n- 在 GUI 上渲染物品、實體、~~方塊~~\n- 支援元素動畫的容器\n- 豐富的元件庫\n- 能夠在指定區域內隨機放置物件，支援隨機位置、旋轉角度與尺寸\n- 還有更多功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

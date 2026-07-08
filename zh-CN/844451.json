@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Adbf6aAeSAc=",
+  "content": "<p><img src=\"https://github.com/KessokuTeaTime/Splasher/blob/artwork/banner.png?raw=true\" alt=\"图标\"></p><p><strong>随心定制 Minecraft 的加载提示文字！</strong></p><h2>贡献翻译</h2><p>Splasher 将 Minecraft 的 <code>splashes.txt</code> 转换为 <code>.json</code> 文件，并支持多语言。</p><p>您可以在 <code>assets/splasher/lang/</code> 下找到 <code>en_us.json</code>，并自由地将其翻译成您喜欢的语言。</p><p>翻译完成后，将其重命名为 <code>xx_xx.json</code>（例如 <code>zh_cn.json</code>），即可享受！您也可以创建一个拉取请求来贡献您的翻译。</p><h2>添加自定义内容</h2><p>Splasher 支持自定义加载提示文字，可以追加或替换原始内容。</p><p>自定义加载提示文字是存储在 <code>.minecraft/config/splasher/</code> 下的 <code>.txt</code> 文件，其命名应与目标语言一致（如 <code>en_us.txt</code> 等）。</p><p>在这些文件中，每条加载提示文字占据一行，并支持使用 <code>§格式化代码</code>，与 Minecraft 目录 <code>.minecraft/assets/minecraft/texts/</code> 中的 <code>splashes.txt</code> 相同。</p><h2>配置 Splasher</h2><p>Splasher 使用 <strong><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcloth-config\" rel=\"nofollow\">Cloth Config API</a></strong> 并且完全可配置，您可以在 <code>.minecraft/config/splasher.toml</code> 下找到配置文件。</p><p>每个选项都有详细的文档说明，您可以通过修改值来实现不同效果，例如：</p><ul>\n<li>禁用所有加载提示文字</li>\n<li>仅启用自定义加载提示文字</li>\n<li>同时启用原始和自定义加载提示文字，且不跟随客户端语言</li>\n<li>以及更多……</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

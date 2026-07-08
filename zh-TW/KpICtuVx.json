@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qLDHxsoctzk=",
+  "content": "# 全面掌控！\n\n這是一款讓你完全掌控生物生成條件的簡單模組。它採用規則系統運作，規則檔案均存放於 `config/incontrol` 資料夾。\n\n目前共有五種規則檔案（截至 3.5.1 版本）：\n- **`spawn.json`**：可透過此檔案在特定條件下禁止特定生物生成。當允許生成時，你還可以調整生物的屬性（如最大生命值等）\n- **`summonaid.json`**：架構與 `spawn.json` 完全相同，但僅用於殭屍召喚援軍的場景\n- **`potentialspawn.json`（僅適用 1.12 版本）**：可在特定條件下增刪生成規則。此檔案中的規則會優先於 `spawn.json` 執行，因此若在此處新增新生物的生成規則，請務必在 `spawn.json` 中允許該生物生成\n- **`spawner.json`（適用 1.16 或更新版本）**：可在特定條件下新增生成規則\n- **`loot.json`**：可根據多種條件控制生物被殺死時掉落的戰利品\n- **`experience.json`**：可根據多種條件控制擊殺生物獲得的經驗值\n\n更詳盡的說明文件請參閱 [全面掌控！Wiki](https://www.mcjty.eu/docs/mods/control-mods/)。\n\n也請參考同系列模組 [Fx 掌控！](https://modrinth.com/mod/fx-control)\n\n## 整合包\n本模組可自由使用於任何整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

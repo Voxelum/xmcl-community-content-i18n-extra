@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UJ2W4xN1ZL8=",
+  "content": "<p>Framed Colonies 是一个小型模组，它使得 Structurize 能够将连接在框架方块上的方块的材料成本也计算在内。这个模组让你能够使用框架方块来创建 Minecolony 蓝图和样式包。如果没有这个模组，当你制作一个带有连接方块的框架方块的蓝图时，只有框架会被注册为资源，而所连接的方块将被忽略。</p><p>我计划用框架方块设计一个殖民地风格的建筑，并在完成后将其添加到这个模组中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

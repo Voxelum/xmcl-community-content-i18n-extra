@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4YHnW9895qs=",
+  "content": "一个为 Minecraft 1.21.1（Fabric 版本）设计的简单而强大的保险库系统。\n\n玩家保险库让玩家随时随地轻松访问额外存储空间——完美适用于所有 Minecraft 服务器！\n\n⚙️ 特性\n\n- /pv → 凭空即时打开一个个人双人箱。\n\n- 支持 1 至 1,000,000 个保险库（可通过权限配置）。\n\n- 随时随地存储物品——无需返回基地！\n\n🛡️ 权限（支持 LuckPerms）\n\n- playervaults.pv.1 → 授予访问 1 号保险库的权限（可按需扩展，例如 .pv.5、.pv.100 等）。\n\n- playervaults.pv.* → 授予访问所有保险库的权限。\n\n- playervaults.export → /pv export <玩家名> <编号> → 将保险库内容导出为 JSON 文件。\n\n- playervaults.viewothers → 允许管理员以只读模式查看其他玩家的保险库。\n\n- playervaults.editothers → 允许管理员打开并编辑其他玩家的保险库。\n\n✅ 为何选用？\n\n- 快速且轻量\n\n- 无限扩展性（最多支持 100 万个保险库（会在服务器上占用空间））\n\n- 完美适用于管理员监管及玩家便利\n\n- 与 LuckPerms 完全集成\n\n简单。轻松。随时随地可靠存储。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gs0cEoTSeBE=",
+  "content": "<p><strong>简易怪物生成控制 (EasyMSC)</strong>&nbsp;是一种快速禁用怪物、调整生成速率和修改怪物上限的方法，无需编辑配置文件或查找ID。</p><p>本模组可通过以下方式访问游戏内菜单：</p>\n<ul>\n<li>模组菜单（通过配置按钮）</li>\n<li>按下 <strong>'K'</strong> 键</li>\n<li>在聊天栏输入：<strong>/easymobspawncontrol</strong> 或 <strong>/easymsc</strong></li>\n</ul>\n<p>你可以：</p>\n<ul>\n<li>编辑生成速率，</li>\n<li>全局禁用怪物、按维度或群系禁用，</li>\n<li>编辑怪物上限，</li>\n<li>禁用怪物生成类型，</li>\n<li>编辑群系生成，</li>\n<li>编辑生成规则。</li>\n</ul>\n<p><strong>指南：</strong></p>\n<p><strong>生成速率</strong>是指游戏尝试生成怪物的频率。</p>\n<p><strong>生成上限</strong>是指玩家附近可生成的怪物数量上限；该值会随附近玩家数量小幅调整。</p>\n<p>降低或提高怪物的生成速率，会空出或占用生成上限的位置供其他怪物填补。若要减少/增加怪物总数，需调整生成上限。</p>\n<p><strong>'当前世界'</strong>选项卡会列出当前存在的怪物及其数量，便于你识别高频出现的怪物并调整生成或禁用。</p>\n<p>游戏包含不同的生成类型，本模组可将其禁用。例如，禁用 <strong>'自然生成'</strong> 类型可在不禁用怪物的前提下阻止其自然生成。</p>\n<p>你可以创建<strong>群系生成</strong>，让<strong>指定</strong>怪物出现在特定群系中。修改需重启世界才能生效。</p>\n<p>你还可以创建<strong>生成规则</strong>控制怪物的生成条件，绕过某些怪物的严格需求。生成规则无需重启即可生效。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

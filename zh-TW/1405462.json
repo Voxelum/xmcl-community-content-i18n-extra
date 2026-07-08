@@ -1,0 +1,6 @@
+{
+  "bodyHash": "S67der5JIIM=",
+  "content": "<em>超級簡單魔法！</em><em>超級簡單武器！</em><ul>\n<li><strong>火球術</strong> → 初始符文，按下按鍵時施放。</li>\n<li><strong>燃爆術</strong> → 強化火焰符文，按下啟動並依指令釋放。</li>\n</ul><ul>\n<li><strong>飛行法杖</strong> → 機動性聖物，右鍵點擊啟動。</li>\n<li><strong>寒冰法杖</strong> → 控制型聖物，施加凍結效果。</li>\n<li><strong>閃電權杖</strong> → 爆發型聖物，召喚閃電並賦予短暫抗性X。</li>\n<li><strong>火焰權杖</strong> → 具多重程序（右鍵、格擋、持續、擊中）的火焰聖物。</li>\n<li>&nbsp;</li>\n</ul><ul>\n<li><strong>凍結</strong> → 緩速V + 發光狀態效果。</li>\n<li><strong>凍結持續觸發條件</strong> → 維持凍結邏輯。</li>\n<li><strong>凍結實體死亡觸發</strong> → 凍結實體死亡時引發爆炸。</li>\n</ul><ul>\n<li><strong>縛法者</strong> → 奧術暴君，與<em>超級簡單武器！</em>中的「暗影」為同源存在。</li>\n</ul><ul>\n<li>角色造型採用星形圖案，象徵其試圖束縛星辰魔法的野心。</li>\n<li>程序定義其受傷、死亡、碰撞及玩家互動事件。</li>\n<li>直接關聯「處刑者法杖」，該法杖由其破碎的束縛物鍛造而成。</li>\n</ul><ul>\n<li>初始符文 → 火球術、燃爆術。</li>\n<li>聖物 → 飛行、凍結/寒冰、火焰權杖、閃電權杖。</li>\n<li>&nbsp;</li>\n<li>首領 → 縛法者，暗影的奧術同源體。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

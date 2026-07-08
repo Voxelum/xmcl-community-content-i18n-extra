@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YC8iWotHhR8=",
+  "content": "<h1>!!!Это продолженная версия <a href=\"https://www.curseforge.com/minecraft/mc-mods/advancedchatlog\" target=\"_blank\" rel=\"nofollow\">AdvancedChatLog</a> от <a href=\"https://www.curseforge.com/members/darkkronicle\" target=\"_blank\" rel=\"nofollow\">DarkKronicle</a>!!!</h1><h1>AdvancedChatLog</h1><p>AdvancedChatLog позволяет просматривать и искать историю чата, выходя за пределы обычного функционала Minecraft.</p><p>Пожалуйста, отправляйте баги в <a href=\"https://github.com/DarkKronicle/AdvancedChatLog/issues\" target=\"_blank\" rel=\"nofollow\">отслеживатель проблем</a>.</p><h2>Зависимости</h2><p><a href=\"https://github.com/DarkKronicle/AdvancedChatCore\" target=\"_blank\" rel=\"nofollow\">AdvancedChatCore</a> необходим для работы мода.</p><h2>Функции</h2><ul>\n<li>Просмотр истории чата сверх ванильного лимита Minecraft в 100 строк</li>\n<li>Поиск по истории чата с использованием RegEx, прямого сравнения и чувствительности к регистру (UpperLower)</li>\n<li>Сохранение истории чата при перезапуске</li>\n<li>Плавная прокрутка</li>\n<li>Отдельный файл журнала чата</li>\n</ul><h2>Кредиты и многое другое</h2><p>Код и идея: DarkKronicle<br>Язык и корректура: Chronos22</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

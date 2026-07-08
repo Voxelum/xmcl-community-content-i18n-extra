@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ARJSM9QTcNA=",
+  "content": "# 自动鞘翅\n\n自动鞘翅是一个客户端模组，适用于Forge和Fabric，当你准备飞行时会自动装备你的鞘翅。\n\n只需在你的物品栏中保留一对鞘翅，像平常一样飞行！当你停止飞行时，胸甲会自动卸下并重新装备。\n\n该模组依赖于[Fabric API](https://modrinth.com/mod/fabric-api)或如果你使用[Quilt](https://quiltmc.org/en/)，则依赖于[QSL](https://modrinth.com/mod/qsl)。如果安装了[Cloth Config API](https://modrinth.com/mod/cloth-config)，则可以通过[Mod Menu](https://modrinth.com/mod/modmenu)或Forge模组菜单访问配置菜单。\n\n![展示模组功能的GIF](https://github.com/NimajnebEC/auto-elytra/raw/main/demo.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

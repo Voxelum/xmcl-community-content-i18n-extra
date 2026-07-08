@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fXPNP/gbWM0=",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/7e58044b25bb53e5e917bfa760d1c646771879eb.png)\n\n_適用於 Sodium 1.21+ 的智慧型葉片剔除演算法_\n\n## 這是做什麼的？\n\n這個 Sodium 附加元件能最佳化葉片的效能，由於葉片具有透明特性，通常渲染成本較高。\n\n與其他葉片剔除效能模組不同，此模組直接注入 Sodium 的區塊網格渲染管線，並提供幾種新模式。預設模式為「實心積極」，能讓大片葉塊內部的葉片以不透明的快速模式執行，同時維持外層葉片的華麗模式。這能在茂密森林中使用光影時帶來顯著的效能提升。此外也提供更傳統的「空心」剔除模式，會貪婪地剔除樹木內部的頂點。\n\n支援 NeoForge 和 Fabric 平台下載。此模組不會向下移植。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

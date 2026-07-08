@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zANeay7ySLk=",
+  "content": "# Radical Cobblemon Trainers - API\n\n用於 [Cobblemon] 的訓練家管理與對戰 API。\n\n此 API 是作為 [Radical Cobblemon Trainers] mod 的基礎而開發，同時也是為了取代已停止支援的依賴庫 [CobblemonTrainers]，適用於 Minecraft >= `1.21` 與 Cobblemon >= `1.6` 的環境。\n\n然而，它也被設計成一個獨立的函式庫，提供一系列相似功能供所有人使用。\n\n## 主要特色\n\n- 訓練家管理與實體關聯（訓練家註冊系統）\n- 支援不同的對戰格式（1v1 單打、1v1 雙打、2v2 多人對戰等）\n- 自訂對戰規則（例如每場戰鬥的最大道具使用次數）\n- 擴展 AI 功能（目前僅由 `RCTBattleAI` 支援）：\n  - 一般對戰行為（選擇招式、交換寶可夢等）\n  - 特殊機制：Mega 進化、極巨化、Z 招式、太晶化等（大多數需透過攜帶道具啟動的特殊機制，需要另一個 mod 提供支援，例如 [Mega Showdown] 即為一例，也是極巨化與超極巨化所需）\n  - 訓練家可攜帶並使用道具\n- 訓練家與寶可夢模型（POJO）便於解析\n  - 可轉換為 Cobblemon 型態\n  - 模型驗證（在拋出例外前收集所有錯誤）\n\n如需範例，請參閱 [儲存庫]。\n\n## 支援單位\n\n[![bisecthosting](https://www.bisecthosting.com/partners/custom-banners/5ea61298-7966-4331-945f-da7b80663a38.webp)](https://bisecthosting.com/hd42)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

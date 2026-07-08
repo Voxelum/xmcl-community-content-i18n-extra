@@ -1,0 +1,6 @@
+{
+  "bodyHash": "T01a0qUbSW4=",
+  "content": "<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fcorgitaco.dev%252fannouncement\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://raw.githubusercontent.com/CorgiTaco/corgitaco.github.io/refs/heads/main/announcement.png\" alt=\"\" width=\"850\" height=\"100\"></a></p><p><span style=\"font-size:24px\"><strong>这是什么</strong></span><br>一个简单的库模组，提供便捷的数据附加和网络工具，包括以少量样板代码向实体、区块、玩家和世界附加数据。该系统专为多加载器支持而从头构建。为多加载器网络数据包处理提供了出色的数据包工具，适用于所有方向。</p><p>&nbsp;</p><p><span style=\"font-size:24px\"><strong>对于玩家</strong></span><br>您喜爱的模组可能会使用此库来附加数据或通过网络传输数据。</p><p>&nbsp;</p><p><span style=\"font-size:24px\"><strong>对于开发者</strong></span><br>该库主要提供两种工具：向区块、维度、玩家、实体和方块实体附加数据。本项目主要面向支持Forge、Fabric和NeoForge的多加载器项目。<strong>目前，该模组不会保存到这些加载器自带的内部数据系统（例如Forge Capabilities）</strong>，但这在未来可能会有所变化！该模组还提供了多加载器网络/数据包注册和处理功能。关于如何进行自定义网络或附加数据的示例，请参阅 <a href=\"https://github.com/CorgiTaco/Data-Anchor/wiki/Tracked-Data\" target=\"_blank\" rel=\"nofollow\">维基百科</a>。</p><br><br><p><a href=\"https://discord.gg/Qfzyh7mynz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/468893/description_71733f92-1e49-473e-b759-0d3f6bb7f92c.png\" alt=\"\" width=\"850\" height=\"283\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

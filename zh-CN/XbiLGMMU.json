@@ -1,0 +1,6 @@
+{
+  "bodyHash": "osDh6DtaJFY=",
+  "content": "# 木星\n\n木星是一个功能强大、支持自动同步的配置库。\n\n**重要提示：木星 V2 与基于 V1 的模组不兼容！**\n\n## 功能特性\n\n### 面向玩家\n\n- 便捷的游戏内配置编辑界面。\n- 连接到专用服务器且拥有适当权限时，自动与服务器同步配置。\n\n### 面向开发者\n\n**使用方法请参阅[文档](https://docs.iafenvoy.com/docs/library/jupiter)。**\n\n- 轻松创建配置实例。\n- 支持 `int`、`double`、`string`、`list` 等多种配置类型。\n- 基于自定义编解码器的配置项：可为任意值类型添加配置项。\n- 专用服务器配置的权限控制。\n\n### 额外配置系统\n\n额外配置系统旨在加载其他配置系统的配置文件。通过此系统加载的配置同样可以使用木星的特性，例如自动生成的配置界面和专用服务器同步。\n\n目前已支持：\n\n- (Neo)Forge 配置系统（兼容 `Forge Config API Port`）\n- Cloth Config API\n\n## 特别鸣谢\n\n- `masady`：`Malilib` 的作者，配置界面设计部分参考了该模组。\n- `Fuzs`：`Forge Config API Port` 的作者：木星通过其通用 API 能更便捷地加载 (Neo)Forge 配置。\n\n## Discord\n\nhttps://discord.gg/NDzz2upqAk",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

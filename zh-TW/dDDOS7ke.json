@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GVFj6F4H0MQ=",
+  "content": "![修復工具包](https://i.imgur.com/HnV1B7J.png)  \n介紹修復工具包 - 解決工具與武器耐久度的方案，兼容其他模組  \n\n目前模組提供6種等級的工具包。  \n\n- 支援版本從1.16.5至1.20.4，但部分版本將不再獲得更新  \n- 在最新更新(2.1版)中，模組機制改為GUI介面，因此Fabric版本暫時無法使用2.1版。需注意舊版仍可使用，但存在較多問題。  \n\n## 不相容項目：  \n- 目前未發現已知不相容情況  \n\n## 更新日誌：2.2版  \n- 全新GUI介面  \n- 錯誤修正  \n\n**強烈建議搭配模組物品或QQL模組使用（如Simply Swords、Just Enough Items等）**  \n\n![使用方式](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQ2bzRtZXd5d3dwcTVhNXc3Yjd3eDMwYTdoeW5meWlrN3pid2kzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yzHPl3n5E6VYFFKWG/giphy.gif)  \n\n![工具包](https://i.imgur.com/pumUODh.png)  \n\n若想支持我：[https://ko-fi.com/rolling_dice](https://ko-fi.com/rolling_dice)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

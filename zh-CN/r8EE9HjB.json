@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qhtTfcb10CM=",
+  "content": "铁的法术 × 沙布尔兼容补丁\n\n    这是一个临时兼容补丁，直到铁的法术与咒语书或沙布尔官方正式集成沙布尔伙伴支持。\n\n修复了除传送门框架外的所有法术（传送门框架不会导致崩溃，但如果物理效果被切换，则会断开连接，并且只能进入机械装置，无法离开）。\n测试版本\n模组 \t版本 \t\n铁的法术与咒语书 \t3.15.6 \t\n沙布尔 \t1.2.2 \t\n\n    ⚠️ 请勿自动更新铁的法术或沙布尔。本模组使用了针对特定内部方法的混合注入。如果任一模组修改其内部结构，混合注入可能无法应用，定位可能出错，或服务器启动时崩溃。\n\n脆弱性假设\n\n本模组假设：\n\n    沙布尔伙伴 API（`SableCompanion.INSTANCE.projectOutOfSubLevel`、`getContaining`、`SubLevelAccess.logicalPose()`）存在且行为符合文档说明\n    铁的法术内部结构（`Utils.handleSpellTeleport`、`Utils.hasLineOfSight`、`PortalSpell.handleEntityPortal`、`PortalEntity.lambda$checkForEntitiesToTeleport$1`、`PortalFrameBlockEntity.serverTick`、`TouchDigSpell.onCast`、`RaycastBuilder.performRaycast`、`ShadowSlashSpell.onCast`）在方法签名层面保持稳定\n    混合注入目标（方法名称、参数类型、调用目标）保持不变\n\n如果任一模组进行了大规模更新：\n\n    ❌ 混合注入可能无法应用（启动时崩溃）\n    ❌ 方法定位可能出错（静默行为异常）\n    ❌ 服务器启动可能因 `MixinApplyError` 崩溃\n\n免责声明\n\n    由 AI 辅助生成（Claude，Anthropic）\n    与 iron431（铁的法术）或 ryanhcode（沙布尔）无关联\n    一旦铁的法术或沙布尔发布官方修复，本模组将变得过时",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZZ7zgVv80Uw=",
+  "content": "## 📖 关于\n使用这个数据包，任何剑都可以当作盾牌使用，但只能格挡一半伤害。\n\n### 功能特性：\n- 当玩家手持剑时，会自动附加`blocks_attacks`和`use_cooldown`组件\n  - `use_cooldown`组件用于为所有剑设置独立于盾牌的通用冷却组；\n- 剑可格挡50%伤害；\n- 被斧头破盾后，玩家将完全无法使用剑进行格挡或攻击；\n- 若玩家任意手持盾牌，则禁用剑格挡功能。\n\n#\n## 🔗 相关链接\n欢迎在PMC页面留言！\n\n[![PMC](https://www.planetminecraft.com/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/data-pack/blocking-with-sword/)\n\n俄罗斯数据包作者Discord社区 / Русский дискорд сервер датапакеров\n\n如果你是数据包开发者，正在寻找专业支持、实用资源和作品分享平台，欢迎加入[猪猪联盟：数据包分部](https://discord.gg/YNsUzsxyu5)！\n本服务器是从ZeroCaty原废弃服务器\"猪猪联盟\"独立出来的分支，现与原服务器无任何关联。\n\n[![SvinSoyuz](https://cdn.modrinth.com/data/cached_images/afb7cdcc943fceaa9f901c538ccfe15ea357f383.png)](https://discord.gg/YNsUzsxyu5)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

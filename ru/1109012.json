@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3zTdmmTDpAE=",
+  "content": "<p>Этот мод использует Mixin для снятия ограничений Blue Skies на значения брони, скорость добычи руды и урон (как ближнего боя, так и от метательных снарядов) для предметов, не относящихся к Blue Skies. Это поможет разработчикам паков корректировать прогресс игры и совместимость модов.</p><p>1.0.2+:</p><p>Арахнарх может быть блокирован щитами, не принадлежащими к Blue Skies, точно так же, как и щитами Blue Skies (ошеломляет босса и не добавляет дополнительной перезарядки!).</p><p>Звездная стена может быть разрушена топорами, не принадлежащими к Blue Skies.</p><p><img src=\"https://media.forgecdn.net/attachments/description/1109012/description_ccbedeb7-edc4-48aa-b818-4dc015d1b77f.png\" alt=\"Исходное значение брони с комплектом алмазной брони\" width=\"545\" height=\"424\"></p><p><img src=\"https://media.forgecdn.net/attachments/description/1109012/description_6236dd02-d145-4d20-bec1-efb7bbfebbb7.png\" alt=\"Исходная скорость добычи руды с каменным кирковым молотком\" width=\"544\" height=\"406\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

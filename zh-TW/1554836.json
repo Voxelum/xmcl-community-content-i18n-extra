@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MMqtkbOkY8c=",
+  "content": "<p><strong>本模組修復了 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate-tfmg\" rel=\"nofollow\">The Factory Must Grow 模組（TFMG）</a>中的幾個愚蠢錯誤</strong></p><p>本模組修復了以下錯誤：</p><ul>\n<li><p>長引擎時燃料消耗缺乏線性關係</p>\n</li>\n<li><p>使用類比紅石訊號時燃料消耗為零（若燃料消耗為 0mb，引擎將無法運轉）</p>\n</li>\n<li><p>引擎零件在破壞後不會掉落</p>\n</li>\n<li><p>空油罐在將 null 轉換為 int 時導致崩潰</p>\n</li>\n</ul><p>未來將會修復更多問題。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

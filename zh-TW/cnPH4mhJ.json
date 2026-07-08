@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GCotA1MX48k=",
+  "content": "**模組說明**\n\n新增一個雙欄位的過濾方塊，可從上方的漏斗管線中提取符合條件的附魔書，並將其輸出至下方。  \n此方塊會檢查特定的附魔屬性，讓你能夠過濾並分類各種附魔書，例如：修補、保護IV、耐久I、耐久II、耐久III。\n\n**合成配方**\n\n![合成配方](https://cdn.modrinth.com/data/cached_images/d556d220bfa09eb0e77d20e9a1cd12b0c72b0a19.png)\n\n支援模組選單（Mod Menu），可透過模組選單設定切換明亮與暗黑模式。\n\n特別感謝 [LIUKRAST](https://modrinth.com/user/LIUKRAST) 提供紋理/模型以及除錯協助。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

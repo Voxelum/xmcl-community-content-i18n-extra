@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UxCJDX9ZN0c=",
+  "content": "# Pack Director\n\nЭто форк ModpackDirector (juanmuscaria), который, в свою очередь, является форком FileDirector (TerraFirmaCraft-The-Final-Frontier), который является форком mod-director (Janrupf).\n\nPack Director предоставляет вам гибкость в ситуациях,\nкогда мод не может быть добавлен в ваш модпак, но может быть загружен во время выполнения из-за отсутствия на целевой платформе дистрибуции, проблем с лаунчером или авторскими правами.\n\n## Особенности\n\n* Загрузка файлов\n* Распаковка ZIP-архивов\n* Переименование файлов\n\n## Кредиты\n\n* [File Director](https://github.com/TerraFirmaCraft-The-Final-Frontier/FileDirector) — Функции обработки файлов\n* [Mod Director](https://github.com/Janrupf/mod-director) — Исходный проект\n* [Modpack Director](https://github.com/juanmuscaria/ModpackDirector) — Исходный форк\n* [FlatLaf](https://github.com/JFormDesigner/FlatLaf) — Тематизация интерфейса\n\nСодержание посвящено модам/ресурспакам/модпакам/шейдерпакам для Minecraft или другим связанным с Minecraft ресурсам. Пожалуйста, сохраняйте стиль языка приятным для геймеров.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

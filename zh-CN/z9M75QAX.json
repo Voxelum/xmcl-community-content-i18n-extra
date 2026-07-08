@@ -1,0 +1,6 @@
+{
+  "bodyHash": "P6+vtuguqo4=",
+  "content": "## 添加染色地毯和羊毛的合成配方  \n（每8个羊毛/地毯使用1个染料，与其他染色配方一致）\n\n### 注意：  \n本数据包添加了合成配方，移除时会导致控制台出现\"配方缺失\"警告。这不会对您的世界或存档数据造成危害。\n\n### 模组版安装说明：  \n功能与数据包相同，但会作用于所有创建/启用了该模组的世界。如需针对特定世界使用，请选择数据包版本\n\n**Forge**：  \n<br>无需依赖，直接将模组放入mods文件夹\n\n**Fabric**：  \n<br>需要Fabric API支持\n\n**Quilt**：  \n<br>需要Quilted Fabric API支持\n\n### Purpur扩展包说明  \nPurpur扩展包收录了那些适合Purpur主题但更适合以数据包形式发布的建议功能！  \n<br>这些数据包的使用效果与Purpur的独立配置选项相同，可随时增删而不会损坏服务器。  \n<br>支持原版环境，无需运行Purpur服务端即可使用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

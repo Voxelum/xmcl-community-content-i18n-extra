@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4jNtPP1HcRg=",
+  "content": "附魔描述為物品提示增加了**簡短的附魔說明**。\n\n此功能設計為**伺服器端運作**（提示資訊透過物品元件發送），因此玩家無需安裝客戶端模組即可查看附魔說明。\n\n## 功能特色\n\n- **每個附魔皆顯示名稱與說明**\n  - 對於帶有多個附魔的物品與附魔書，每個附魔顯示為：\n    - 附魔名稱（含等級）\n    - 說明文字直接顯示於下方\n- **適用於附魔物品與附魔書**\n- **自動更新結果**\n  - **鐵砧**合成\n  - **砂輪**（包含 [grind-enchantments](https://modrinth.com/mod/grind-enchantments) 工作流程）\n- **指令友善**\n  - 當透過指令（如 `/give` 與 `/enchant`）給予或修改物品時，提示資訊會自動刷新。\n\n## 設定配置\n\n說明文字從設定檔載入：\n\n- `config/enchantment.json`\n\n格式：\n\n- 鍵：附魔ID\n  - 可使用以下任一格式：\n    - `minecraft:sharpness`\n    - `sharpness`（預設使用 `minecraft:` 命名空間）\n- 值：說明文字\n\n範例：\n\n```json\n{\n  \"mending\": \"使用經驗值修復物品耐久度。\",\n  \"minecraft:unbreaking\": \"降低耐久度損耗機率。\"\n}\n```\n\n## 相容性備註\n\n- **[NeoEnchant](https://modrinth.com/datapack/neoenchant)**\n  - 若安裝 [NeoEnchant](https://modrinth.com/datapack/neoenchant) 模組，附魔描述將同時讀取該模組的說明條目。\n\n- **[grind-enchantments](https://modrinth.com/mod/grind-enchantments)**\n  - 附魔描述會刷新砂輪輸出結果，使說明文字顯示於最終物品堆疊上。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

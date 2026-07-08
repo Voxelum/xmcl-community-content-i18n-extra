@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CQOVPC1fmt4=",
+  "content": "<p><del>（以下為AI翻譯，如有不準確之處，敬請見諒。）&nbsp;</del></p><p>這是一個<strong>極簡風格的血條顯示模組</strong>，但其功能<strong>並不簡單。</strong></p><h3><br><strong>血條顯示功能</strong></h3><p>· 血條的顏色<strong>可以區分隊伍</strong>。預設情況下，友方隊伍為<span style=\"color:#3598db\">藍色</span>，敵方隊伍為<span style=\"color:#e03e2d\">紅色</span>。</p><p><br>· 可以顯示吸收值（預設為<span style=\"color:#f1c40f\">金色</span>）。</p><p><br>· 在攻擊前、隱身狀態下，或未攻擊5秒後，血條將會隱藏。</p><p><br>· 對敵人造成傷害時，血條上會出現白色緩衝條，這有助於提高你的準確度~</p><h3><br><strong>隊伍高亮功能</strong></h3><p><br>· 隊友會獲得正常的<strong>高亮效果</strong>。此效果為單向，僅隊友可見。預設顏色與血條相同。</p><p><br>· 當敵方擁有高亮效果時，發光顏色會變為血條的對應顏色。</p><p><br>· 當隊伍設定顏色時，發光顏色會變為隊伍的顏色。</p><p><br><strong>多項可配置項目</strong></p><p><br>血條的長度、寬度、顏色、可見範圍、保留時間。&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&gt;&gt;&gt;<br>此模組由我使用AI創建。若您遇到任何問題，請向我提交。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

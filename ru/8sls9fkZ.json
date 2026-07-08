@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SZR5nA4ZpC0=",
+  "content": "Улучшает взаимодействие модов [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge) и [Sortilege](https://www.curseforge.com/minecraft/mc-mods/sortilege) друг с другом.\n\nБез этого мода нет ограничений на количество заклинаний, которые можно выбрать в Инфузере, что приводит к их излишней трате, если функция ограничения количества заклинаний от Sortilege включена.\n\nС его установкой невозможно произвести зачарование, если количество выбранных заклинаний превышает максимальное количество, которое может принять предмет.\n\nЕстественно, требуется как Sortilege, так и Enchanting Infuser.\n\n# Forge требует [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector)!!!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

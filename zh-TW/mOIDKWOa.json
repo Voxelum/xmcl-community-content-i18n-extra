@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pMQ6CBsHoPw=",
+  "content": "# Flashback 設定\n\n一個小巧的 **Fabric 客戶端模組**，為 Moulberry 的 [Flashback](https://modrinth.com/mod/flashback) 模組新增了遺失的設定選項。\n\n## ⭐ 第一個功能：選擇回放儲存位置\n\n預設情況下，Flashback 會將回放檔案儲存在 `.minecraft/flashback/replays` 中。Flashback 設定讓您可以將儲存位置重新導向到任何您想要的資料夾（例如另一個硬碟、共用資料夾、專用於編輯的 SSD 等）。\n\n### 使用方法\n1. 在 `.minecraft/mods` 中安裝 Fabric Loader、**Flashback** 以及 Flashback 設定。\n2. 啟動遊戲一次：此時會建立 `config/flashbacksettings.json` 檔案。\n3. 在 `settings.replay_folder` 中設定您的路徑，然後重新啟動：\n\n```json\n{\n  \"telemetry\": true,\n  \"settings\": { \"replay_folder\": \"D:/Replays/Minecraft\" }\n}\n```\n\n將其留空則會回退使用 Flashback 的預設資料夾。*（計畫中將推出遊戲內設定選單。）*\n\n## 相容性\n- **載入器：** 僅限 Fabric（Flashback 為 Fabric 專用）。\n- **Minecraft 版本：** 1.21.11（26.1.x 即將推出）。\n- **必要依賴項：** [Flashback](https://modrinth.com/mod/flashback)。\n\n## 運作原理\n一個 Mixin 攔截了 `com.moulberry.flashback.Flashback#getReplayFolder()` 方法，當有設定資料夾時回傳已設定的路徑；否則保留 Flashback 的預設行為。\n\n## 遙測\n匿名使用統計資料**預設為啟用**（歐盟地區），用於追蹤採用率及使用中的版本。您可以透過三種方式**關閉**：在設定檔中設定 `\"telemetry\": false`、使用 JVM 參數 `-Dflashbacksettings.telemetry=false`，或在開發環境中自動關閉。不會收集 IP 地址或地理位置資訊；使用一個匿名的、持久的 `install_id` 作為識別碼。\n\n## 授權條款\nPolyForm Noncommercial 1.0.0 — 原始碼可取得，僅限非商業用途。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

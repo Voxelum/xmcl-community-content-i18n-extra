@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZYLaMhu3+6w=",
+  "content": "# Команда ModMenu\n\n![Команда ModMenu](https://i.imgur.com/h7WjbKS.png)\n\nВсегда хотели быстро открыть экран конфигурации мода? Теперь это возможно с помощью команды ModMenu!\n\nЭтот мод добавляет команду /modmenu, которая позволяет легко открывать экран ModMenu каждого из ваших модов.\n\nModMenu Command требует [Fabric](https://fabricmc.net/use/installer/), [Fabric API](https://www.modrinth.com/mod/fabric-api),\n[Fabric Language Kotlin](https://www.modrinth.com/mod/fabric-language-kotlin) и, конечно же,\n[ModMenu](https://www.modrinth.com/mod/modmenu).\n\nModMenu Command не связан с ModMenu.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

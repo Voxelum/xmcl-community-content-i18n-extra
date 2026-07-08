@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gB5+X/gyfyQ=",
+  "content": "<p>本模组为你的世界添加了隐藏的无限矿脉。你可以使用机器来提取这些矿物。此模组需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" target=\"_blank\" rel=\"nofollow\">机械动力</a> 作为前置。</p><p>特性：</p><ul><li>添加了隐藏的矿脉与流体储层，每个区块有随机几率生成。每个区块最多只能存在一种矿脉。</li><li>矿脉是无限的。</li><li>矿脉类型可通过数据包或 KubeJS 进行配置。</li><li>使用钻探机和流体抽取器来采集矿物。</li><li>机器需要旋转动力才能运行。</li><li>使用“矿脉探测器”物品来寻找矿脉与流体储层。</li></ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

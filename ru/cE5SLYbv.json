@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MhorEQoUFh8=",
+  "content": "Этот мод не поддерживает динамическое освещение.\nТребуется [Curios (Forge)](https://modrinth.com/mod/curios), [Radiant Gear](https://modrinth.com/mod/radiant-gear) и совместимый мод для динамического освещения (подробности см. в разделе Radiant Gear).\nЕсли возникнут проблемы с динамическим освещением, обратитесь к вашему моду для динамического освещения или к Radiant Gear.\n\nДля функции раскачивания фонарей на бедрах включите её через файл конфигурации клиента в папке config.\n\nСовместимые моды:\n- Supplementaries + Squared\n- Cyclic\n- Quark\n- Additional Lanterns\n- Macaw's Lights and Lamps\n- Skinned Lanterns\n- Hardcore Torches\n- Chipped",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

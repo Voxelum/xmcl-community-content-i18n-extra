@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bo7iiLpiemE=",
+  "content": "<p><strong>GpuShift</strong> 是一款客户端性能优化模组，可将CPU渲染任务转移至GPU处理，从而降低帧生成时间并提升FPS。</p><p><strong>测试结果（相同场景，OBS录制，2K分辨率/120fps）：</strong></p><ul>\n<li>仅使用Sodium：约460 FPS</li>\n</ul><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_e14a2503-20d3-4326-b154-b86aef578338.gif\"></p><ul>\n<li>Sodium + GpuShift：约857 FPS</li>\n</ul><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_f60bbec4-5809-4f8f-8e8f-58eb3f408f4c.gif\" width=\"571\" height=\"160\"></p><p>&nbsp;</p><p><strong>功能特性：</strong></p><ul>\n<li>可独立运行，也可与Sodium/Embeddium协同使用</li>\n<li>自适应实体剔除 — 远处实体被跳过，近处实体始终渲染</li>\n<li>粒子预算缩放</li>\n<li>游戏内配置界面</li>\n<li>FPS/帧时间显示覆盖层</li>\n<li>对服务器端逻辑零影响</li>\n</ul><p><strong>兼容性：</strong></p><ul>\n<li>✅ Sodium（推荐）</li>\n<li>✅ Embeddium</li>\n<li>✅ Oculus</li>\n<li>✅ 无需上述模组即可独立运行</li>\n</ul><p><strong>本模组不会：</strong></p><ul>\n<li>替换或破坏渲染管线</li>\n<li>影响服务器刻运算、AI或物理引擎</li>\n<li>需要任何前置依赖</li>\n</ul><div class=\"spoiler\">\n<p>支持我&nbsp; :3</p>\n<p>&nbsp;<a href=\"https://www.patreon.com/cw/orfer\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/Patreon-Support me-F96854?logo=patreon&amp;logoColor=white\" alt=\"Patreon\" width=\"160\" height=\"22\"></a></p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

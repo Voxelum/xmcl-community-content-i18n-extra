@@ -1,0 +1,6 @@
+{
+  "bodyHash": "isjfd5pucAI=",
+  "content": "<h2>Mini Effects - Расширенная жизнь Legacy</h2>\n<p>Форк <a href=\"https://github.com/Snownee/MiniEffects/\" rel=\"nofollow\">MiniEffects</a> для Minecraft 1.12.2 с дополнительными функциями, такими как поддержка закладок JEI.</p>\n<p>В версии 2.1.0 этот мод исправил дизайнерскую ошибку JEI, из-за которой область исключения эффектов зелий переставала совпадать с их реальным положением, если какие-либо моды изменяли позицию отображения эффектов, вызывая проблему наложения.</p>\n<p>Этот форк также устранил баг, из-за которого <a href=\"https://github.com/ZZZank/MiniEffects-ExtendedLife/issues/1\" rel=\"nofollow\">иконки мигали при достаточно большом смещении по осям X/Y</a>.</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fpostimg.cc%252fYjghQrdL\" rel=\"nofollow\"><img src=\"https://i.postimg.cc/gct8FrRs/5-potions-example.gif\" alt=\"5-potions-example.gif\"></a></p>\n<p>Благодаря использованию MixinBooter вместо встраивания Mixin непосредственно в jar-файл мода, MiniEffects-ExtendedLife стал в 80 раз меньше оригинального мода.\n(965 КБ &lt;-&gt; 12 КБ)</p>\n<p>Этот проект лицензирован по лицензии MIT, так же, как и оригинальный MiniEffects.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

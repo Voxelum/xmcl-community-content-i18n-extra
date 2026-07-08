@@ -1,0 +1,6 @@
+{
+  "bodyHash": "P+MWfxIXLOo=",
+  "content": "# XP Extract\n\n一款能讓玩家提取經驗等級並將其轉換為經驗瓶，以便儲存或交易的 Minecraft 資料包。\n\n## 特色\n\n- 一次提取 1、5、10 或所有經驗等級\n- 根據精準的經驗計算，將等級轉換為經驗瓶\n- 採用 Minecraft 官方經驗公式進行精確轉換\n- 簡單觸發指令，無需複雜設定\n- 適用於 Minecraft 1.21.6 以上版本\n\n## 指令\n\n使用以下觸發指令來提取你的經驗：\n\n- `/trigger extrct-1-lvl` - 提取 1 個經驗等級\n- `/trigger extrct-5-lvl` - 提取 5 個經驗等級\n- `/trigger extrct-10-lvl` - 提取 10 個經驗等級\n- `/trigger extrct-all-lvl` - 提取所有經驗等級",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

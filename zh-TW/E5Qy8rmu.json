@@ -1,0 +1,6 @@
+{
+  "bodyHash": "n3Rq9YpvVE4=",
+  "content": "![icon](https://raw.githubusercontent.com/gniftygnome/ductwork/master/src/main/resources/assets/ductwork/icon.png)\n\n# 管道系統（Ductwork）\n簡易管道隱喻物品分發網路模組\n\n管道系統需要安裝 [Cooldown Coordinator](https://modrinth.com/mod/cooldown-coordinator) 和 [Cloth Config](https://modrinth.com/mod/cloth-config)！\n\n## 管道系統特色\n\n此模組提供三個方塊，共同實現比 Minecraft 漏斗功能更豐富的次級超集合，提升靈活性與遊戲效能。管道系統的物品移動網路在空間與資源運用上通常比漏斗版本更有效率。另一個核心目標是提供如漏斗般穩定的物品移動，適用於分類系統與其他複雜機械，即使混合使用漏斗與管道系統方塊也能正常運作。\n\n## 管道系統方塊\n\n### 管道（Duct）\n\n管道是管道網路的主力元件。管道可從最多五個相鄰方塊接收物品，並將物品輸送至其面對的方向。管道無法被鎖定，也不會從其他方塊萃取物品，因此對遊戲資源的消耗極低。\n\n### 阻尼器（Damper）\n\n阻尼器是特殊管道，從後方方塊接收物品，並將物品輸送至前方方塊。與基本管道不同，阻尼器可透過紅石鎖定，鎖定期間會阻礙物品移動。玩家也可暫時鎖定或解鎖阻尼器（空手對其蹲下右鍵），直到相鄰方塊狀態再次變更為止。\n\n### 收集器（Collector）\n\n收集器方塊如同漏斗般從後方空間或容器吸取物品，但可朝向任何方向。與其他管道方塊相同，收集器會從自身庫存將物品輸送至前方方塊。\n\n## 如何使用管道系統方塊\n\n管道系統方塊的放置方式類似 Minecraft 漏斗。對準目標方塊（欲輸送物品的方塊）放置管道系統方塊，該方塊將「面向」您指定的側面，決定物品移動方向。\n\n收集器方塊可能需要多加練習！最簡單的方法是從管道末端（物品輸送處）開始，逐步往回放置至起點（物品接收或收集處）。\n\n無需破壞即可重新調整管道系統方塊方向。詳細資訊請參閱 Wiki。\n\n## 有限管道模式\n\n若您希望管道系統方塊僅能執行一般漏斗功能，可透過設定啟用此模式。請參閱設定檔（伺服器端）或模組選單頁面（用戶端整合伺服器）。此模式讓管道系統成為伺服器管理員的絕佳選擇：既能保有純 Minecraft 技術體驗，又能享受管道系統的效能提升。\n\n## 更多資訊與範例\n\n請參閱 [管道系統 Wiki](https://github.com/gniftygnome/ductwork/wiki) 取得完整文件！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

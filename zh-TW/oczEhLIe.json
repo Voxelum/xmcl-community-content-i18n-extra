@@ -1,0 +1,6 @@
+{
+  "bodyHash": "v74QW4JmF10=",
+  "content": "一個簡化盔甲紋理工具提示顯示的簡單模組。\n修改前：\n![光是用來說明盔甲使用了哪種紋理就需要三行文字](https://cdn.modrinth.com/data/cached_images/53653e7cef7b669bfd2e2f35efe9d9040e049709.png)\n![現在只需要一行就夠了](https://cdn.modrinth.com/data/cached_images/c56201881949197a72560145a689098d7b29a72b.png)\n這個概念來自於[這個模組](https://modrinth.com/mod/better-trim-tooltips)，但並不包含 StackedTrims 之間的相容性。\n裝飾材料兩側的括弧並非寫死的，可以在語言檔案中進行修改。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

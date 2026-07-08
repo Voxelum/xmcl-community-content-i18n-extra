@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gPfBHw2IAZA=",
+  "content": "<p><img src=\"https://raw.githubusercontent.com/ochotonida/some-assembly-required/1.18/src/main/resources/logo.png\" alt=\"Some Assembly Required 标志\">\nSome Assembly Required 是一个 Farmer's Delight 和 Create 的附属模组，允许玩家制作自定义三明治。</p><p>要开始制作，先用 Farmer's Delight 的砧板制作一些面包片，或者制作一个汉堡面包。然后放置一个三明治制作台，将一片面包或汉堡面包放在上面，开始添加食材。除了食物，药水也可以添加进去。三明治完成后，可以通过破坏它来拾取。在世界上任意位置按住 Shift 并右键点击即可放置三明治。</p><p>三明治能恢复与其食材等量的饥饿值和饱和度。但如果它至少包含两种独特食材（不包括面包和药水），那么如果是三明治，会额外提供 Comfort 效果；如果是汉堡，则会提供 Nourishment 效果。该效果的持续时间会随独特食材数量的增加而延长。</p><p>如果你更喜欢自动化操作，可以使用 Create 的机械手来自动生产三明治。此外，喷口可以向三明治中添加药水、蜂蜜或巧克力等流体。完整的兼容流体列表可在 JEI 中查看。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/435d9154f6e9a0cc466c103b96f60b11f729e03b.png\" alt=\"模组中的一系列配方，如 JEI 中所显示\"></p><p><a href=\"https://discord.gg/87pXJadaRr\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://discordapp.com/api/guilds/298798089068609537/widget.png?style=banner2\" alt=\"\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

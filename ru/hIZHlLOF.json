@@ -1,0 +1,6 @@
+{
+  "bodyHash": "582DFxMbSy8=",
+  "content": "[![mado hosting](https://cdn.modrinth.com/data/cached_images/b4d134c13be5c38e90820569398ca9c692afd3e0.png)](https://www.mado-hosting.com)\n\n# Человек из тумана\n\nЭтот мод добавляет в Minecraft существа, которое появляется ночью и преследует вас.\nВ конце концов оно начнёт вас преследовать и убивать. В конфиге вы можете изменить следующие параметры:\n\n```\n  \"spawn_rate\": \"normal\",             -> варианты — часто, нормально, редко\n  \"jumpscare\": true,\n  \"max_chase_duration\": 1000,         -> в тиках\n  \"min_chase_duration\": 400,          -> в тиках\n  \"climbing\": true,\n  \"vanish_distance\": 30,              -> Расстояние от вас до человека, после которого он исчезает\n  \"spawn_at_day\": false,\n  \"darkness_effect\": true,\n  \"all_dimensions\": false,\n  \"break_blocks\": true\n```\n\nПрисоединяйтесь к [Discord](https://discord.gg/mproductions) для утечек и обновлений\n \n\n### ТРЕБУЕТСЯ МОД GECKOLIB!\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

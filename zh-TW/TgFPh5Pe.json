@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1q/0ClcGzds=",
+  "content": "### 正弦波著色器是一款適用於 Minecraft Optifine/Iris 的著色器，能讓遊戲畫面以正弦波形式渲染。\n\n![綿羊](https://cdn.modrinth.com/data/TgFPh5Pe/images/4cd5836cc17c55a20fabf324851ba61163c360fd.png)\n\n這是一種有趣的扭曲效果，而我個人非常喜歡正弦波。此效果可自定義，您可以設定方向從水平（V1 版本為 0 | V2 版本為 1、2）到垂直（V1 版本為 1 | V2 版本為 3、4），以及頻率和高度（振幅）。\n\n![V2](https://cdn.modrinth.com/data/TgFPh5Pe/images/4ac788d0a567fcaf697bbab6eeb7fe16c4244402.png)\n\n版本 2 還具備可自定義的移動方向（從左到右、從右到左、從上到下、從下到上），並可選擇僅在水下時應用此效果。\n\n![TF](https://cdn.modrinth.com/data/TgFPh5Pe/images/49152c37238400761dd19a518de2cac64296f2e1.png)\n\n這款著色器完全沒有實際用途，也沒有存在的必要，但您仍然可以使用它。或許它能成為一種有趣的挑戰，或者什麼的，我也不確定。希望您能享受這款著色器及其可能帶來的暈眩感。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

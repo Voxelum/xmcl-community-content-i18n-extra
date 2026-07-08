@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hxGN2tLOwu4=",
+  "content": "FoxMOD 与其他模组不同，并非由我独自完成所有创意，而是由 Modrinth 上的各位共同决定！你可以在下方留言，或访问页面底部的我的 Discord 频道！\n\nFoxMOD 新增以下内容：\n- 可合成的蜘蛛网（0.0.1+）\n- 仅清空快捷栏的功能（Beta 0.0.1+）（/FoxMOD clear hotbar）\n- 仅清空背包的功能（0.0.2+）（/FoxMOD clear inventory）\n- 填满整个背包的功能（0.0.2+）（/FoxMOD loot fill minecraft:orange_concrete 99）\n\nFoxMOD 支持以下版本：\n- neoforge 1.21.1 0.0.1\n- neoforge 1.21.1 0.0.2\n- neoforge 1.21.8 0.0.2\n\n现在可以用5根线合成5个蜘蛛网，实现完全可再生的蜘蛛网获取方式。![用5根线合成蜘蛛网：四个角各放一根，中间放一根](https://cdn.modrinth.com/data/cached_images/073dc34e2a3673466f7e2f71507093cea0f18637.png)\n\n请记住——你，对，正在阅读这句话的你，正因你在意而阅读它。请把下一个版本的想法发给我，你的创意可能改变整个模组社区！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

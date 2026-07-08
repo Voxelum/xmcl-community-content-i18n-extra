@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vbY5Sl9lDN0=",
+  "content": "这是一个扩展了 Farmer's Delight 中烧烤内容的模组，添加了各种**串烧**、**调味料**以及制作它们的方块！\n\n是时候来场烧烤了！\n\n这是 [Barbeque's Delight [Fabric]](https://modrinth.com/mod/barbeques-delight) 的 Forge 移植版。\n\n所需依赖：Farmer's Delight\n\n![1](https://cdn.modrinth.com/data/cached_images/d1dd64bb8486e8b3d90068448bf6d3fe0e3d92a8.png)\n\n## 入门指南\n你可以借助 **JEI** 查看本模组的所有配方。\n\n- 配料盆：右键点击将**配料**放入盆中。将副配料拿在副手，**木棍**拿在主手，右键点击盆中的配料来制作串烧。如果串烧不需要副配料，副手不拿任何物品。\n- 烤架：手持串烧右键点击烤架放置串烧，等待烟雾变得非常浓，**潜行**并右键点击以**翻转**串烧，等待串烧烤熟，再次右键点击取出串烧！（提示：如果你不**翻转**或不在串烧烤熟时取出，你会得到一个**烧焦的串烧**！）\n- 调味：将烤好的串烧放在**切菜板**上，然后用调味料右键点击**切菜板**，将调味料撒在串烧上。\n- 交易：与**屠夫**交易以获得调味料。\n## 调味料效果\n- 孜然：食用时恢复玩家生命值\n- 胡椒：双倍进食速度\n- 辣椒：食用时伤害玩家，但玩家可以在饥饿值满时食用。\n\n![2](https://cdn.modrinth.com/data/cached_images/e0f3d5c4355a453c6e2d3b81821533091d8265d0.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

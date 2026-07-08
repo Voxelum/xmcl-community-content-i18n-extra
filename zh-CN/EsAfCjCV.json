@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CFeFQ7HEMRQ=",
+  "content": "增加了多种与食物相关的HUD改进。这是一个主要面向客户端的模组，但需要在服务器端安装，才能在客户端上准确显示饱和度/消耗值。\n\n---\n\n*注：苹果皮模组会展示某些默认不可见的游戏机制信息（它并不会添加或改变任何游戏机制）。如需了解Minecraft的消耗与饱和度机制，请参阅[饥饿机制维基百科](https://minecraft.wiki/w/Hunger#Mechanics)*\n\n---\n\n### 特色功能\n\n* 为物品提示框添加食物价值信息：\n\n![](https://github.com/user-attachments/assets/8a2dcbad-57dd-4184-ac4b-a6df311ec3be)\n\n* 在HUD上显示饱和度与消耗值可视化界面：\n\n![](https://github.com/user-attachments/assets/1afaec0a-9e9d-4320-8ed3-ada98eacf186)\n\n* 手持食物时显示潜在恢复的饥饿值/饱和度：\n\n![](https://github.com/user-attachments/assets/361e3104-1079-4334-a173-316af652d48d)\n\n* 手持食物时显示潜在恢复的生命值：\n\n![](https://github.com/user-attachments/assets/fa6ad0dd-bbd2-42a5-aa3b-565f9405993d)\n\n* 在调试覆盖层（按F3键）中显示饥饿值/饱和度/消耗信息\n* 将饱和度与消耗值同步至客户端。\n\n---\n\n### 其他事项\n欢迎将此模组添加至任意整合包中。\n\n---\n\n### 在原版服务器上使用\n\n连接至原版Minecraft服务器时，可通过以下插件之一实现饱和度/消耗值功能：\n\n- https://github.com/Siebrenvde/AppleSkinSpigot\n- https://github.com/jmattingley23/AppleSkinSpigot\n- https://www.curseforge.com/minecraft/bukkit-plugins/paperapple",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

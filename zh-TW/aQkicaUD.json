@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xZk3cdz+65s=",
+  "content": "使用這個模組，你可以將熊貓轉化為會打噴嚏噴出資源的黃金礦。\n\n#### **資源**\n\n預設情況下，模組附帶 9 種標準配方，這些配方可以透過資料包進行刪除或替換。\n\nJSON 檔案包含以下數值：\n\n-   **name** - 資源的友好名稱，用於顯示在生成蛋名稱 / JEI 資訊中。\n-   **ingredient** *-* 用於轉化熊貓的輸入材料\n-   **hexColor** - 熊貓覆蓋層的十六進位顏色（必須以 # 開頭）\n-   **alpha** - 覆蓋層的不透明度（預設為 1.0）\n-   **chance** - 打噴嚏產出物品的機率，範圍在 0 到 1 之間（0.6 = 60%）\n-   **result** - 熊貓打噴嚏可能噴出的物品（如果提供標籤，將從該標籤中選擇第一個物品）\n\n範例請查看[儲存庫](https://github.com/Mrbysco/ResourcePandas/tree/main/src/main/resources/data/resourcepandas/recipes \"Built in recipes\")\n\n#### **獲取資源熊貓**\n\n你可以透過餵食熊貓指定的輸入物品來獲得資源熊貓。\n<br>\n<p><img src=\"https://i.imgur.com/0KFppoR.png\" alt=\"Akliz Partner\" width=\"320\" height=\"152\"></p>\n<p><a href=\"https://www.akliz.net/mrbysco\" rel=\"nofollow\">需要伺服器？使用優惠碼「mrbysco」可享首月 20% 折扣</a></p>\n \n<b>如有問題，歡迎加入我的 Discord。</b>\n\n## 想要支持我們嗎？ ##\n<p><a href=\"https://www.patreon.com/Mrbysco\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -Mrbysco</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

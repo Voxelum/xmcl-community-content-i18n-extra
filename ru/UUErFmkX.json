@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZDNPC1sUhY0=",
+  "content": "# JourneyPAC\nJourneyPAC — это клиентский мод для Minecraft и плагин JourneyMap, который отображает чанки, заявленные через OpenPAC.  \nВдохновлен [JourneyMap Integration](https://modrinth.com/mod/journeymap-integration), который выполняет аналогичную функцию для системы заявок FTB.\n\n## Зависимости\n- [JourneyMap](https://modrinth.com/mod/journeymap)\n- [Open Parties and Claims](https://modrinth.com/mod/open-parties-and-claims)\n- (До версии 1.1.7, Fabric) [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

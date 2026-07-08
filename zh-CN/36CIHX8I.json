@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aX4+UR3NCbk=",
+  "content": "# mmdload\n\n将MMD模型文件（或其zip压缩包）拉取至`.minecraft/3d-skin/`目录，供[mmdskin](https://modrinth.com/mod/mmdskin)使用。\n\n如需查看MMD自动发布压缩工作流示例（适用于forgejo/gitea），请参阅[mmdload-repo](https://forgejo.toe.quest/kiki/mmdload-repo)。\n\n## 命令\n\n`/mmdload <url>`：按指定URL拉取一次文件。支持单个MMD文件或`.zip`压缩包。聊天框会显示进度及文件存放位置。\n\n`/mmdload`（无参数）：拉取配置中保存的URL。若未设置任何URL则会报错。\n\n`/mmdload-config <url>`：将URL保存至配置文件并立即拉取。该配置在重启后依然保留；每次客户端启动时会自动拉取同一URL。\n\n## 配置文件\n\n`config/mmdload-client.toml`，首次启动时自动生成：\n\n```toml\n# 客户端启动时拉取的URL。接受单个MMD文件或.zip压缩包。\n# 留空可禁用启动时自动下载。\nautoDownloadUrl = \"\"\n```\n\n可手动修改，或通过`/mmdload-config`命令设置。\n\n## 支持的文件格式\n\n`.pmx` `.pmd` `.png` `.jpg` `.jpeg` `.bmp` `.tga` `.vmd` `.vpd`\n\n压缩包中的其他格式文件将被跳过。  \n包含`../`路径的压缩包条目将被拒绝（防止zip路径穿越攻击）。下载大小上限为200 MB。\n\n## 备注\n\n文件解压至`3d-skin/`目录时会保留压缩包内的目录结构。例如，包含`EntityPlayer/MyModel/model.pmx`的压缩包，最终会存放为`3d-skin/EntityPlayer/MyModel/model.pmx`。mmdskin会直接从此路径读取文件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

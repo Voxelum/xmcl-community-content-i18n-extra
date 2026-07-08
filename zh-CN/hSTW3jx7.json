@@ -1,0 +1,6 @@
+{
+  "bodyHash": "n2JxhX8xDeo=",
+  "content": "![配送流程](https://imgur.com/IVh2DIc.gif)\n\nCreate: Delivery Required 是一个以物流为核心的模组，围绕 Create: Aeronautics、Sable 和 Create: Numismatics 打造。该模组将移动机械装置转变为真正的配送载具：玩家可以标记 Sable 的子层次结构，装载所需物品，飞行或运输至配送区域，并完成合约以获取货币奖励。\n\n该系统的核心是承包商方块——一个合约中心，玩家可在此选择配送任务、接受限时目标，并通过 Numismatics 硬币或银行卡存款获得报酬。管理员可以创建、可视化、扫描和管理配送区域，而标记的子层次结构在进入目标区域时会自动被检测。\n\n展示视频：<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/3hmxtE7Q1Dw\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n致谢：\n配送标记纹理 - duck | 承包商、市场纹理 - nekonesse | 中文翻译 - awa",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

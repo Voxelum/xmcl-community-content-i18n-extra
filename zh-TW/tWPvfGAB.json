@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d+zPc3y25sQ=",
+  "content": "## **關於：**\n本模組新增由不同材料製成的階梯變體。材料越昂貴，攀爬速度越快\n\n## **功能：**\n- **變形**階梯：改變外觀而不影響數值\n- **造型工具**：透過循環模型變體來改變階梯外觀\n- 使用**感測器工具**新增實體偵測器以輸出紅石訊號，或使用**燈光工具**照亮階梯\n\n## **配置：**\n- 調整階梯**速度**加成（全域 + 每種階梯獨立設定）\n- 設定預設階梯模型（例如使用**原版模型**）\n- 當所需的非原版材料缺失時**隱藏不可合成的階梯**\n- 切換**多變體**階梯視覺效果（微妙的隨機紋理變化）\n\n## **合成配方：**\n<p>\n  <img src=\"https://cdn.modrinth.com/data/cached_images/c9be81c2c26e3dddb7f752ac88c44a8b560b462e.gif\" alt=\"階梯配方\" width=\"500\" style=\"image-rendering:pixelated;\" />\n</p>\n<p>\n  <img src=\"https://cdn.modrinth.com/data/cached_images/4a70d184abafd74c049a26c7cfab3b9435a37a7c.gif\" alt=\"工具配方\" width=\"500\" style=\"image-rendering:pixelated;\" />\n</p>\n\n## **階梯模型：**\n_在設定檔中設定預設模型，或在遊戲中使用造型工具切換模型_\n<p>\n  <img src=\"https://cdn.modrinth.com/data/cached_images/52af295b7ecfb446136775f7adb4829fbc51a535.gif\" alt=\"階梯模型\" width=\"280\" style=\"image-rendering:pixelated;\" />\n</p>\n\n## **與其他模組的兼容性：**\n### JEI/REI/EMI：\n- 閱讀物品說明\n- 當所需材料缺失時，從面板中隱藏不可取得的階梯（可配置）\n\n### Jade / The One Probe / WTHIT：\n- 查看目前的階梯變形/模型狀態\n- 查看隱藏部件是否被外殼工具隱藏\n- 使用階梯工具時取得情境提示",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

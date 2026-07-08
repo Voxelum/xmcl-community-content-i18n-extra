@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4C8ts5cEgkI=",
+  "content": "一個 Minecraft 1.18.2+ 模組，提供簡易的文字疊加顯示。包含時間、光源等級、腳下高度及當前生態域。\n\n## 文字疊加選項\n * 時間\n * 光源等級\n * 腳下高度\n * 生態域\n * 季節（需搭配 Serene Seasons 模組）\n \n![文字疊加](https://cdn.modrinth.com/data/aY8vAgyv/images/6358d44be43603cfb77508401c2cb7a833698c08.png)\n\n## HUD 羅盤\n內含 HUD 羅盤功能。為追求更沉浸的體驗，無需再盯著小地圖。\n\n![HUD 羅盤](https://cdn.modrinth.com/data/aY8vAgyv/images/b751c4a09ae1600ce9e13af3c1040ccba2f11530.png)\n\n * 位置指示器：·\n * 世界重生點指示器：⊙\n * 重生點指示器：⌂\n * 上次死亡位置指示器：✕",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

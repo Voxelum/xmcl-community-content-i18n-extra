@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6f0e187088cb7213",
+  "content": "\n\n该模组通过多种方式减少了 Minecraft 的内存占用。有关这些更改的技术概述，请参阅[此处](https://github.com/malte0811/FerriteCore/blob/main/summary.md)。\n\n节省的内存量将取决于所使用的整合包。在 [All Of Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-3) 的 2.5.9 版本中，它将 RAM 使用量（堆大小）从 1,792 MB 降低至 984 MB。作为对比，使用 Hydrogen 而非 FerriteCore 的相同配置下，内存占用为 1,335 MB。  \n这些数据是在使用固定种子生成世界并等待两分钟后测得的。\n项目配图是[此图](https://commons.wikimedia.org/wiki/File:Magnetic-core_memory,_at_angle.jpg)的裁剪版本。\n\n### 常见问题\n\n#### 我应该安装在服务端还是仅安装在客户端？\n\n部分优化仅限客户端，但也有一些影响较大的优化同样适用于服务端。因此建议在两端都安装。\n\n#### 此模组是否与 [other mod] 兼容？\n\n很可能可以。唯一的例外是 Hydrogen，它在 *Hydrogen 官方支持的 Minecraft 版本* 上与所有近期的 FerriteCore 版本兼容。这意味着 1.18+ 的构建版本与 Hydrogen 不兼容，因为 Hydrogen 已正式归档，不会再在这些版本上发布更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

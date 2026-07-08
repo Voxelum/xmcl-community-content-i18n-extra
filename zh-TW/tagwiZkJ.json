@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0aEFPO/EXfY=",
+  "content": "Polymorph 是一個能解決配方衝突的模組，讓玩家能夠在相同材料的所有可能產出中進行選擇。\n\n在安裝大量模組的情況下，配方衝突是非常常見的問題，而解決這些衝突的責任通常落在使用者或模組包開發者身上，需要透過資料包或其他工具來確保每個配方都是獨一無二的。\n\nPolymorph 提供了一個替代方案，允許所有可行的合成與熔煉配方共存，無論是否存在衝突。\n\n## 功能特色\n\n### 合成\n\n![](https://i.ibb.co/TkWswkG/polymorph.gif)\n\n當一組材料對應到超過一個配方時，輸出欄上方會出現一個按鈕。點擊這個按鈕會顯示所有可能的結果清單，選擇其中一個後，合成輸出就會隨之改變。Polymorph 也會記住最近一次的選擇（只要材料沒有變化），因此可以在相同選擇下重複進行合成動作。\n\n### 熔煉\n\n![](https://i.ibb.co/QX9MNYM/polymorph-furnacedemo.gif)\n\n當有效的輸入材料對應到超過一個產出時，輸出欄上方會出現一個按鈕。點擊這個按鈕會顯示所有可能的結果清單，目前選中的結果會以綠色標示。選擇清單中的其中一個結果後，熔煉輸出就會隨之改變。這個選擇會儲存在方塊本身，並在遊戲世界載入與卸載時持續保留。\n\n### 鍛造\n\n![](https://i.ibb.co/GTCgL3S/smithingconflicts.png)\n\n與合成畫面完全相同，當有效的輸入材料對應到超過一個產出時，輸出欄上方會出現一個按鈕。選擇後，輸出就會隨之改變。\n\n### 指令\n\n為了協助辨識潛在的衝突，有一個指令 `/polymorph conflicts` 會嘗試找出彼此衝突的配方，並將結果清單輸出到你的 logs 資料夾中。目前，這個指令會掃描合成、熔煉、高爐、煙燻爐和鍛造的配方。\n\n## 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "A0BoJva6pnM=",
+  "content": "这是一个模组，包含了Corgi Taco模组中使用的代码，其中包括以下实用功能：\n\n- 使用Mojang编解码器进行`.json5`配置序列化。带注释的json文件。\n\n- 带注释的编解码器。\n\n- 来自NBT特性的树结构。\n\n- 混合/缓动函数编解码器注册表，便于编解码器配置序列化。\n\n- 实体过滤器。\n\n- 村民交易编解码器注册表，便于编解码器配置序列化。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

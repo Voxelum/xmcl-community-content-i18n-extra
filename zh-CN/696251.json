@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VXSWHhY4SH8=",
+  "content": "<p><span style=\"font-size:18px\">Porting Lib</span></p><p>&nbsp;</p><p>Porting Lib 是一个为 Fabric 和 Quilt 模组提供 Forge 功能的库。</p><p>单独使用时，它不会对游戏产生任何影响。这个模组是为其他模组开发者准备的，而不是玩家。</p><p>&nbsp;</p><p>Porting Lib 由多个模块组成，每个模块都有自己的功能。此页面提供了一个包含所有模块的单一 jar 文件。</p><ul>\n<li>accessors</li>\n<li>attributes</li>\n<li>base</li>\n<li>common</li>\n<li>constants</li>\n<li>entity</li>\n<li>extensions</li>\n<li>model_generators</li>\n<li>model_loader</li>\n<li>models</li>\n<li>networking</li>\n<li>obj_loader</li>\n<li>tags</li>\n<li>transfer</li>\n<li>lazy_registration</li>\n</ul><p>&nbsp;</p><p>有关如何使用 Porting Lib 进行开发的信息，请参阅 <a href=\"https://github.com/Fabricators-of-Create/Porting-Lib\" rel=\"nofollow\">GitHub 页面</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

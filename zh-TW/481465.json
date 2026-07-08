@@ -1,0 +1,6 @@
+{
+  "bodyHash": "g5NqyfXfmlE=",
+  "content": "<p><img src=\"https://swdteam.com/img/products/mega_mario_logo.png\" alt=\"\" width=\"469\" height=\"279\"></p><h3>&nbsp;</h3><h3>什麼是超級瑪利歐？！</h3><p>這個模組將《超級紙片瑪利歐》中的超級星人能力加入 Minecraft！你可以使用這項能力在世界上橫衝直撞，摧毀道路上的一切事物和所有生物！但請注意，這項增益效果是有時限的，所以別浪費它！</p><p>&nbsp;</p><h3>影片預告</h3><p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/rMTz0hCCFm8?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p><p>&nbsp;</p><h3>如何變成超級瑪利歐？</h3><p>要啟動超級星人能力，只需將紅色蘑菇拿在手上並按右鍵食用。食用後超級星人能力就會啟動！這項能力預設只會持續24秒。</p><p>&nbsp;</p><h3>可設定選項</h3><p>模組提供設定檔案，可用於調整其運作方式。</p><p>選項包括：<br>-&nbsp;<strong>starman_timer</strong>（控制能力持續時間，單位為秒）</p><p>-&nbsp;<strong>blacklisted_blocks</strong>（這個陣列包含你不希望被能力破壞的方塊名稱，預設情況下基岩無法被破壞）</p><p>-&nbsp;<strong>trigger_items</strong>（這個陣列包含你想要作為超級星人能力觸發物的物品名稱。預設設定為使用紅色蘑菇。你可以設定使用其他物品，包括來自其他模組的物品。請確保名稱與遊戲中顯示的完全一致。如果不確定，可以使用 /give 指令檢查）</p><p>-&nbsp;<strong>kill_entities</strong>（控制能力是否會殺死實體。預設值為 true）</p><p>- <strong>drop_blocks</strong>（控制方塊被破壞時是否會掉落其物品。預設值為 true）</p><p>&nbsp;</p><h3>重要事項</h3><p>請注意，其他會改變玩家渲染效果的模組可能會與本模組衝突，導致玩家無法顯示超級型態的外觀。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CV3A1IbmSJk=",
+  "content": "<p>虽然可以通过原版机械动力风格来自动化钓鱼，但这既复杂又容易出错。</p><p>但有了这个简单的模组，一切就变得容易多了。</p><p>它新增了一个方块：浮标探测器。它会自动检测范围内的任何钓鱼浮标，并在有鱼上钩时输出红石信号。<br>\n为帮助你找到合适的位置，当有钓鱼浮标在其范围内并位于水中时，它还会亮起灯光。&nbsp;<br>\n如果浮标不在范围内或落在陆地上，则不会亮起。</p><p>如何设置部署器及其逻辑，以及物品收集方式，完全由你决定。这不是一个一键式解决方案。</p><p><img src=\"https://media.forgecdn.net/attachments/705/621/ezgif.gif\" alt=\"探测器运行效果图\"></p><p><em>非原版浮标可由第三方模组通过Forge的浮标标签添加。</em>&nbsp;</p><p>目前该模组本身还支持\"深渊升级\"模组，因此即使在下界你也可以自动化钓鱼需求。</p><p>&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/thumbnails/718/721/310/172/screenshot-2023-08-25-204540.png\" alt=\"合成配方\"></p><p><strong>本模组设计用于配合机械动力的部署器实现自动化养鱼场。 <em>- 需要机械动力 0.5.1.a 或更高版本</em></strong></p><p><em>本模组使用了来自&nbsp;<a href=\"https://github.com/Creators-of-Create/Create\" target=\"_blank\" rel=\"nofollow\">机械动力模组</a>&nbsp;的修改版素材，遵循MIT许可证</em><br>\n<strong>欢迎在您的整合包中使用本模组！</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

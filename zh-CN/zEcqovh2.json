@@ -1,0 +1,6 @@
+{
+  "bodyHash": "h1ZPuIjbOEA=",
+  "content": "# 高效哈希计算（EfficientHashing）\n\n高效哈希计算将`Vec3i`（及其子类如`BlockPos`）的哈希算法替换为一种抗碰撞性显著更强的算法，从而在哈希码被使用的所有场景中提升性能。\n\n### 抗碰撞性\n\n可通过简单测试验证。测试对`new BlockPos(-100, -20, -100)`到`new BlockPos(100, 50, 100)`（含）范围内所有`BlockPos`组合进行哈希计算，总对象数超过280万个。\n\n原版算法共生成194,571个唯一哈希码，意味着至少93%的BlockPos哈希码存在碰撞。\n\n而高效哈希计算采用的PhiMix算法共生成2,868,471个唯一哈希码，意味着每个唯一BlockPos对象都有其专属哈希码，且**无一碰撞**。\n\n|                  | 唯一哈希码数 | 碰撞次数 | 碰撞率 |\n|------------------|-------------|----------|--------|\n| 原版算法         | 194,571     | 2,673,900 | 93.2%  |\n| 高效哈希计算     | 2,868,471   | 0         | 0%     |\n\n若对实际测试代码感兴趣，请参阅：[此处](https://github.com/ZZZank/EfficientHashing/blob/master/_dev/hashing_java/collisions.md)\n\n### 高性能\n\n基准测试结果：\n\n```\nBenchmark                     模式  次数  得分      误差     单位\nVecHashingBenchmark.mixin    thrpt    5  47.012 ± 1.029  ops/s\nVecHashingBenchmark.vanilla  thrpt    5  49.326 ± 1.507  ops/s\n```\n\nPhiMix性能约为原始哈希算法的95.3%。虽然略慢，但与其它哈希方案相比性能差距极小，且哈希碰撞抗性的显著提升可轻松弥补这一差距。\n\n若对实际基准测试代码感兴趣，请参阅：[此处](https://github.com/ZZZank/EfficientHashing/blob/master/_dev/hashing_java/benchmark.md)\n\n### 原版兼容性\n\n在原版哈希算法中，对`BlockPos`/`Vec3i`的\"默认\"实例（即`new BlockPos(0, 0, 0)`）进行哈希计算时，生成的哈希码为`0`——恰好是整数的\"默认\"值。PhiMix同样保留了这一特殊行为，以实现最佳的原版兼容性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

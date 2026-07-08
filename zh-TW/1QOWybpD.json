@@ -1,0 +1,6 @@
+{
+  "bodyHash": "alW1KFjuxwQ=",
+  "content": "# Better Stacking\n**優化效能與實用性，將實體分組並顯示資訊**\n\n無模組  \n![無模組](https://cdn.modrinth.com/data/cached_images/46cc1a686b0d1854421e416c63eeba2ab76de8e4_0.webp)\n\n有模組  \n![有模組](https://cdn.modrinth.com/data/cached_images/9bcf0a19dc7a3826de2389139f120d747c4859ed_0.webp)\n\n\n### 特色：\n- 完全 **客戶端** 運作，僅影響客戶端視覺效果，不影響伺服器計算\n- 將 **生物**、**物品** 和 **經驗球** 彼此靠近時分組\n- 顯示分組實體的 **名稱** 與 **數量**\n- **後綴** 顯示大數字，例如 2k 或 6sb（界伏盒）\n- 區分幼年/成年生物/自訂名稱的分組\n- 高度可設定\n- 針對效能最佳化，渲染更少實體以獲得更高幀數\n\n### 設定：\n![設定畫面](https://cdn.modrinth.com/data/cached_images/77847abc797912498c1a2103776f4acbbde1f8aa.png)\n- 標籤大小、顏色、背景\n- 物品堆疊、物品標籤\n- 生物堆疊、生物標籤\n- 經驗球堆疊、經驗球標籤\n\n### 依賴項：\n- [fabric api](https://modrinth.com/mod/fabric-api)\n- [modmenu](https://modrinth.com/mod/modmenu)\n- [cloth config](https://modrinth.com/mod/cloth-config)\n\n### 回報錯誤/提出功能建議\n加入我的 Discord 伺服器/在 GitHub 上提交問題",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

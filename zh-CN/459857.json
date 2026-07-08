@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D1m0uZRW++U=",
+  "content": "<p>该页面为Fabric版本。如需Forge版本请点击<a href=\"https://www.curseforge.com/minecraft/mc-mods/ferritecore/\" rel=\"nofollow\">此处</a>。</p><p>本模组通过多种方式降低Minecraft的内存占用。详细技术说明请参阅<a href=\"https://github.com/malte0811/FerriteCore/blob/main/summary.md\" rel=\"nofollow\">此文档</a>。</p><p>节省的内存量因整合包而异。在《All Of Fabric 3》2.5.9版本中，它将内存占用（堆内存）从1792 MB降至984 MB。<br>\n这些数值是在使用固定种子生成世界并等待两分钟后测得的。您可能会注意到测试条件与Forge版不同——Forge版比较的是标题界面的内存占用。这是因为Forge会在标题界面之前填充某些缓存（本模组优化的目标），而Fabric（及原版MC）则要等到世界加载后才进行此操作。</p><p>项目封面图截取自<a href=\"/linkout?remoteUrl=https%253a%252f%252fcommons.wikimedia.org%252fwiki%252fFile%253aMagnetic-core_memory%252c_at_angle.jpg\" rel=\"nofollow\">此图片</a>。</p><h3>常见问题</h3><h4>我应该在服务端还是仅客户端安装？</h4><p>部分优化仅作用于客户端，但某些影响较大的优化同样适用于服务端。因此建议双端均安装。</p><h4>能否与[某模组]兼容？</h4><p>大概率兼容。唯一的例外是Hydrogen，该模组仅兼容所有较新版本的FerriteCore<em>在已正式发布Hydrogen的Minecraft版本上</em>。这意味着1.18及以上版本无法与Hydrogen兼容，因其已不再维护且不会发布对应版本。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

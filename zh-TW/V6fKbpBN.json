@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cCXOmI8zPYY=",
+  "content": "這是 CraisinLord 的 Integrated Structures 系列模組的基礎函式庫模組。它將結構類型、資料抽象化等共享工具整合到一個統一模組中。\n\n目前，Integrated API 是以下模組的必要依賴：\n\n- Integrated Dungeons and Structures\n- Integrated Stronghold\n- Integrated Villages\n- Integrated Cataclysm\n- Integrated Dungeons Arise\n- Integrated Seven Seas\n- Integrated Cobblemon（即將推出）\n\n對於模組開發者，歡迎自由使用此模組作為依賴！它提供了以下功能：\n\nAPI 包含：\n\n- 易於使用的地圖繪製交易\n- 將結構方塊限制從 48 擴展到 256\n- 自訂全新改進的拼圖管理器\n- 為結構 JSON 檔案添加大量配置選項\n- 輕量級數學工具\n- 使用 IDAS 配置資料包作為實作範例\n- 更多關於如何使用 Integrated API 的資訊：https://github.com/craisinlord/integrated-api.github.io\n\n如果遇到任何問題或有建議，請點擊下方圖片或連結加入 Discord，我會盡力回覆所有人，並非常歡迎您的建議！感謝您遊玩並支持我的模組！\n\nhttps://discord.com/invite/72a7jmc5mb\n\n我花了超過 500 個小時建立和編寫我的免費模組。我為此專門學習了 Java。如果您非常喜歡我的作品，有兩個很好的方式支持我：直接透過 Patreon 贊助，或透過 BisectHosting 購買伺服器並使用優惠碼 CRAISINCRAFT 享受 25% 折扣。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

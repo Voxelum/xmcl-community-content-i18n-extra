@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HO5w6V/CsuU=",
+  "content": "**Tinker's Planner** 是 [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) 的一个附加模组，允许你轻松预览使用任意工具部件组合的 TiCon 工具的属性。该模组完全为客户端功能！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Y6eOPLPw6GE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n\n![该模组的主界面](https://cdn.modrinth.com/data/cached_images/433a1b026fbcec715e2683d6bd816ac64fa079de.png)\n\n该模组在 Tinker Station 和 Tinker's Anvil 中添加了一个蓝图图标，点击该图标将打开 Planner 界面。\n\n![打开 Planner 界面的蓝图图标](https://cdn.modrinth.com/data/cached_images/76d967f5557019ef5519c1380a27f7efa18c11ff.png)\n\n在这里，你可以设计工具并查看其属性。\n![示例工具](https://cdn.modrinth.com/data/cached_images/97d9f8e76b71506cd518ed987bbd041c63eb7b27.png)\n\n你可以将“创建”的工具加入书签以便日后参考，还可以根据某些属性（如挖掘速度或耐久度）对工具部件列表进行排序。你甚至可以随机生成工具组合来玩！\n\n \n\n当你准备好制作最终工具时，你可以“收藏”一个书签工具，将其固定到 Tinker Station 或 Tinker's Anvil 的界面中。然后，点击该工具的图标将尝试自动将所需的工具部件放入正确的槽位（如果你的背包中有这些部件）。它还会告诉你缺少或错误的工具部件以完成制作。\n\n![展示“收藏”工具蓝图的功能](https://cdn.modrinth.com/data/cached_images/2aeb443b1e026d12288468e7bb103ba49a4eb000.png)\n\n\n该模组也可以在 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tinkers-planner/) 上下载！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vAyhLWUSn/E=",
+  "content": "<h1>TFMG 液體燃料相容</h1><p>TFMG 液體燃料相容為 <strong>NeoForge 1.21.1</strong> 上的 <strong>Create 液體燃料</strong> 增加了對 <strong>工廠必須成長</strong> 液體燃料的支援。</p><p>此專案是一個輕量級的相容性附加元件。它不會新增新的機器或方塊。<br>\n其唯一目的是將 TFMG 流體註冊為 Create 液體燃料中烈焰燃燒室系統的有效燃料來源。</p><h2>包含的燃料</h2><ul>\n<li><strong>重油</strong> — 加熱，燃燒時間 18，1 mB/t</li>\n<li><strong>汽油</strong> — 加熱，燃燒時間 22，1 mB/t</li>\n<li><strong>煤油</strong> — 加熱，燃燒時間 27，1 mB/t</li>\n<li><strong>柴油</strong> — 加熱，燃燒時間 32，1 mB/t</li>\n<li><strong>石腦油</strong> — 加熱，燃燒時間 36，1 mB/t</li>\n<li><strong>凝固汽油彈</strong> — 超加熱，燃燒時間 34，2 mB/t</li>\n</ul><h2>設計目標</h2><ul>\n<li>使 TFMG 煉油廠產品可在 Create 液體燃料的烈焰燃燒室中使用</li>\n<li>保留進程，而不是讓超加熱變得廉價</li>\n<li>保持附加元件精簡，以便日後容易移除</li>\n</ul><h2>所需模組</h2><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" target=\"_blank\" rel=\"nofollow\">Create</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/create-liquid-fuel\" target=\"_blank\" rel=\"nofollow\">Create 液體燃料</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/create-industry\" target=\"_blank\" rel=\"nofollow\">工廠必須成長</a></li>\n</ul><h2>重要事項</h2><p>此附加元件存在的原因在於，在 Create 液體燃料的 1.21.1 版本中，外部資料包途徑目前不可靠。<br>\n在上游修復該問題之前，此模組會將相容性 JSON 打包在內部，以確保燃料能被正確套用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

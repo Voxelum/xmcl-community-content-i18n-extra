@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vVt7P1ldH0s=",
+  "content": "# 自訂方塊輪廓\n\n## 這個模組提供了強大的選項，讓方塊輪廓終於變得有趣起來。\n\n功能包括：\n- 漸層效果\n- 彩虹漸層\n- 根據條件選擇性地顯示特定面（例如僅顯示暴露在空氣中的面）\n- 輪廓動畫效果（移動與淡入淡出）\n- 支援連接方塊\n- 縮放調整\n- 在地形上方繪製輪廓（沒錯，表示你可以透過牆壁看到它）\n- PVP玩家專用工具\n- 從檔案複製與載入設定\n\n稍微過時的展示影片：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/nZt3WF1QrGQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### 聯絡方式\n\n我不會將這個模組回溯移植到較舊的版本，因為我使用的是YACL V3，它最低僅支援到1.19.4。\n\n如果您想與我聯繫討論任何關於模組的事項（例如建議/功能請求、錯誤回報、翻譯等），請加入下方連結的Discord伺服器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dGkJWAEiWiE=",
+  "content": "<h1>生物控制器 - 狐狸生成</h1><p><strong>本模組</strong>為<strong>Minecraft中的狐狸生成</strong>添加了控制功能，提供了多種內部替代方案，可將該生物的出現率降低75%、50%和25%（由玩家自行選擇）：</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/5386b19b08d55240ee20d50b21a9d95b17fb6eb4.jpeg\" alt=\"生物控制器 狐狸宣傳圖\"></p><blockquote>\n<p><strong>生物控制器 © - 2026</strong></p>\n</blockquote><h2>備註📝</h2><ul>\n<li><strong>生物控制器 - 狐狸生成</strong>與版本<strong>1.17至26.1.1</strong>🏷️<strong>相容</strong></li>\n<li><strong>生物控制器 - 狐狸生成</strong>與任何<strong>世界中的功能模組</strong>相容</li>\n<li><strong>無需</strong>解壓縮下載的檔案 🗂️</li>\n</ul><h2>指令與功能 🛠️</h2><p><strong>‎◾一般範例：</strong></p><p><img src=\"https://cdn.modrinth.com/data/cached_images/1040aa3908bdcd23d75fc63c7f5a924799d9fab8.jpeg\" alt=\"指令\"></p><ul>\n<li>\n<p><strong>100% 正常</strong> <code>/function mob_control_spawning:fox/spawn_normal</code></p>\n</li>\n<li>\n<p><strong>75%</strong> <code>/function mob_control_spawning:fox/spawn_high</code></p>\n</li>\n<li>\n<p><strong>50%</strong> <code>/function mob_control_spawning:fox/spawn_medium</code></p>\n</li>\n<li>\n<p><strong>25%</strong> <code>/function mob_control_spawning:fox/spawn_low</code></p>\n</li>\n<li>\n<p><strong>0%</strong> <code>/function mob_control_spawning:fox/spawn_none</code></p>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

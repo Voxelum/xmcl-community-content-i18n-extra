@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oxMNbYA68z8=",
+  "content": "![](https://tr7zw.dev/curse/disguiseheads-logo.png)\n\n# DisguiseHeads\n\n此模組會在使用玩家頭顱時，以視覺方式完全取代整個皮膚，而非僅讓頭部稍微變大。本模組不提供取得玩家頭顱的方法，但對於單人/原版伺服器，我推薦使用 [Vanilla Tweaks Player Head Drops](https://vanillatweaks.net/picker/datapacks/) 資料包；而 Spigot/Paper 則有許多選擇，例如 [Player Heads](https://dev.bukkit.org/projects/player-heads)。若要測試，使用原版指令 ``/give @p player_head{SkullOwner:Username} 1`` 即可隨時取得並暢玩任何你想要的皮膚。\n\n由於此模組純屬視覺效果且完全為客戶端安裝，因此無需在伺服器端安裝，並可在任何環境下運作！\n\n## 依賴項目\n\n- 無\n\n## 測試相容性\n\n- First person mod\n- Not enough animations\n- 3d Skin Layers\n- Sodium\n- Iris\n- Optifine\n- BetterCombat",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

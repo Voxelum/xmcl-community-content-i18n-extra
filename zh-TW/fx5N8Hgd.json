@@ -1,0 +1,6 @@
+{
+  "bodyHash": "P0MI4El0v0Q=",
+  "content": "## TaCZ 升級工具\n\n**若您使用的是官方 TaCZ，則此模組與之完全無關**  \n自動將槍械包升級至與 [TaCZ 1.21.1](https://modrinth.com/mod/tacz-1.21.1) 相容\n\n## 基本使用方式\n\n1. 安裝模組\n2. 如常將槍械包放入 `tacz` 資料夾\n3. 啟動遊戲，槍械包將自動升級並載入\n\n## 關於 `.jar` 檔案\n\n在 TaCZ 的範疇中，有兩種類型的 `.jar` 檔案：\n\n1. `.jar` 槍械包  \n   - Maxstuff、Daffa's Arsenal、Gucci & Vuitton Attachments、LesRaisins Append Pack 等\n2. `.jar` 模組附加元件（仍可包含槍械包）  \n   - TaCZ Tweaks、LesRaisins Tactical Equipments、TaCZ Durability 等\n\n升級工具能處理槍械包，但無法處理模組附加元件；從 1.20.1 到 1.21.1 以程式方式升級模組是不可能的\n\n您需要將 `.jar` 槍械包放入 `tacz` 資料夾，而非 `mods` 資料夾  \n之後一切都應自動處理\n\n## 故障排除\n\n- 某些槍械包可能依賴於某些模組附加元件（例如 LesRaisins Tactical Equipments）\n  - 在這種情況下您無能為力，因為這些附加元件在 1.21.1 上並不存在\n  - 或許您可以找一個不包含這些依賴項的舊版槍械包\n\n## 授權條款\n\n[LGPLv3](https://github.com/MUKSC/TaCZPackUpgrader/blob/main/LICENSE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

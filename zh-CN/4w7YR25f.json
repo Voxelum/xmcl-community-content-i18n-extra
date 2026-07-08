@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0R+TZOJ+6lA=",
+  "content": "# 默认技能树\n\n该数据包和模组为 [Pufferfish's Skills](https://www.curseforge.com/minecraft/mc-mods/puffish-skills) 模组添加了默认技能树。它使用了 [Pufferfish's Attributes](https://www.curseforge.com/minecraft/mc-mods/puffish-skills) 模组中的自定义属性，因此需要安装该模组。\n\n模组新增了两个技能树，可提升能力并提供各种增益效果。第一个技能树专注于战斗，第二个则偏向采矿。通过击杀怪物和挖掘石头或矿石，可分别获得技能点和经验值。\n\n该模组本质上是以模组形式打包的数据包。之所以这样做，是因为大多数玩家更习惯安装模组而非数据包。\n\n# 版本支持\n\n此数据包和模组适用于以下所有游戏版本：1.18.2、1.19.2、1.19.4、1.20、1.20.1、1.20.2、1.20.4、1.21.1、1.21.3、1.21.4。\n\n## 许可协议\n\n此数据包和模组采用公有领域许可协议。您可以在整合包中使用、根据需求修改以及分享，无需注明出处。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

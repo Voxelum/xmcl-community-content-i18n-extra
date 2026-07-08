@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EeyJharExTQ=",
+  "content": "<h1>Мод TCRMeshes</h1><h2>Обзор</h2><p>TCRMeshes — это моделейный мод, разработанный для пака модов <strong>The Casket of Reveries</strong>. Он предоставляет набор пользовательских 3D-моделей, чтобы улучшить визуальный опыт в рамках этого пака модов.</p><h2>Особенности</h2><ul>\n<li>Добавляет <strong>8 моделей персонажей Humanoid Cataclysm</strong>.</li>\n<li>Включает простую регистрацию для удобной интеграции.</li>\n<li>Модели доступны статически через класс <code>TCRMeshes</code>.</li>\n</ul><h2>Требования и использование</h2><ul>\n<li><strong>Необходимый загрузчик:</strong> для работы этого мода требуется установка <strong>Epic Fight</strong> как загрузчика моделей.</li>\n<li>Чтобы использовать модели в игре или в процессе разработки, обратитесь к классу <code>TCRMeshes</code>.</li>\n</ul><h2>Важное уведомление</h2><p>Этот мод предназначен <strong>исключительно</strong> для использования с паком модов <strong>The Casket of Reveries</strong>.<br>\nЕсли вы хотите использовать этот мод или любые его модели в других проектах, вам необходимо сначала получить разрешение от автора:<br>\n<strong>P1nero</strong> — <a href=\"mailto:gaylordfocker@foxmail.com\" rel=\"nofollow\">gaylordfocker@foxmail.com</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

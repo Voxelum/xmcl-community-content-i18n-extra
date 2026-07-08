@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JLRypkVtdEs=",
+  "content": "Fabwork 是一個網路函式庫，也是 FabricAPI 的擴充套件，主要提供兩大功能：\n\n- 執行驗證以確保雙方都不缺少對方所需的模組。\n- 為 Fabric 本身的網路框架提供封裝層，透過更高階的介面進行擴充，並加入原本未提供的額外功能。\n\n此模組設計為供其他模組以 JIJ 方式內嵌使用。玩家無需手動安裝此模組，若強行安裝也不會察覺遊戲有任何變化，直到嘗試加入裝有運用 Fabwork 功能模組的多人連線遊戲時才會生效。\n\n有興趣了解如何使用 Fabwork 的模組開發者，請參閱 GitHub 頁面以獲取詳細資訊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

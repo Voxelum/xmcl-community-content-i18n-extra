@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Zhd5ZH2oBj8=",
+  "content": "![下載量](https://img.shields.io/modrinth/dt/YHMW0bzC?label=Downloads)\\\n世界載入調整器讓您可以調整用來載入 Minecraft 地形（世界、維度、重生等）的重生區塊數量，以提升世界的載入速度或品質！\\\n選擇較少的重生區塊數量可以大幅減少載入世界所需的時間，而選擇較高的數量則會減慢載入速度，但能提升重生品質，例如避免看到區塊在載入時閃爍。\n\n根據測試，將重生區塊設為 0 時，世界會立即跳過載入畫面，直接進入載入地形，約 0.8 秒即可完成載入。\n\n將重生區塊設為 10 時，世界載入約需 3 秒，但載入的區塊數量更為豐富。\n\n這些結果可能因電腦效能而異，例如某些情況下您可能感受不到載入時間的差異，這是因為此模組主要為低效能電腦設計，但即使在高效能電腦上，載入時間仍可能有所變化。\\\nMinecraft 預設的重生區塊半徑為 2，在此提供參考。\n\n請注意，若要感受到世界載入的差異，您必須至少使用此模組載入過該世界一次，否則無法生效。\n\n希望您喜歡！\n\n指令：\\\n/function wlt:disable\\\n停用重生區塊變更，將其恢復為 2（您可以隨時再次設定）\n\n/function wlt:load\\\n此指令作用不大，因為世界載入時已自動執行，但它會將重生區塊半徑設為 0\n\n/function wlt:spawnchunkschange/0\\\n同樣將重生區塊半徑設為 0\n\n/function wlt:spawnchunkschange/1\\\n將重生區塊半徑設為 1\n\n/function wlt:spawnchunkschange/2\\\n將重生區塊半徑設為 2\n\n/function wlt:spawnchunkschange/5\\\n將重生區塊半徑設為 5\n\n/function wlt:spawnchunkschange/10\\\n將重生區塊半徑設為 10",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

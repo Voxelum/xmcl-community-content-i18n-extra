@@ -1,0 +1,6 @@
+{
+  "bodyHash": "owZeaBXRMKg=",
+  "content": "# 灵活附魔\n\n[![Discord](https://img.shields.io/discord/1327308441324097681?label=discord&color=blue&logo=discord)](https://discord.gg/5UdcDa5xNC)\n[![Modrinth](https://img.shields.io/modrinth/dt/ly-agility-enchantment?label=modrinth&logo=modrinth)](https://modrinth.com/datapack/ly-agility-enchantment)\n[![许可证](https://img.shields.io/github/license/lullaby6/data-packs)](https://github.com/lullaby6/data-packs/blob/main/LICENSE)\n\n## 📖 描述\n\n`灵活` 是一种用于护腿的全新附魔，拥有两个等级。它能提升你的步行高度，让你更快速、高效地行走并穿过方块。\n\n该附魔可通过附魔台、战利品箱或与村民交易获得。\n\n## ⌨️ 指令\n\n获取：\n\n```mcfunction\n/loot give @s loot agility_enchantment:<等级>\n```\n\n附魔：\n\n```mcfunction\n/enchant @s agility_enchantment:agility <等级>\n```\n\n## 🪪 许可证\n\n[AGPL-3.0-or-later](https://github.com/lullaby6/data-packs/blob/main/LICENSE)\n\n## 👾 Bug/问题\n\n如有任何问题/Bug/故障，请在 [Discord 服务器](https://discord.gg/5UdcDa5xNC) 中报告。\n\n## 💌 捐赠\n\n- [在 Ko-Fi 上捐赠](https://ko-fi.com/lullaby45743)\n- [在 PayPal 上捐赠](https://www.paypal.com/paypalme/lucianobrumer)\n\n## 🎁 服务器托管\n\n自行搭建服务器可能是一个漫长、繁琐且昂贵的过程。\n\n但通过 BisectHosting，您只需几次点击就能拥有自己的服务器！借助他们 24/7 全天候的支持和快速响应，任何问题都不在话下！\n感兴趣吗？我们为您准备了专属优惠！\n\nhttps://bisecthosting.com/lullaby\n\n![服务器托管](https://www.bisecthosting.com/partners/custom-banners/e840cd99-59f6-4b27-b542-3023cd08bdfe.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

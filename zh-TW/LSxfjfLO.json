@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mgftu39nr7Y=",
+  "content": "這個資料包/模組新增了包含生怪磚與裝滿戰利品箱子的塔樓地牢。  \n這些塔樓由一隻血量提升且會發射火球的凋零骷髏守護著。\n\n<details>\n<summary> 可能獲得的戰利品（截至 v. 1.2 版本）</summary>\n  \n每一層樓的箱子會從下列其中一個戰利品表中獲得物品：\n  \n```\n  minecraft:chests/simple_dungeon\n  minecraft:chests/village/village_mason\n  minecraft:chests/stronghold_crossing\n  minecraft:chests/igloo_chest\n  minecraft:chests/village/village_fletcher\n  minecraft:chests/village/village_weaponsmith\n  minecraft:chests/village/village_toolsmith\n  battle_towers:treasure\n```\n\n而塔頂的箱子則只會從下列戰利品表中獲得物品：\n```\nminecraft:chests/village/village_weaponsmith\nminecraft:chests/simple_dungeon\nbattle_towers:treasure\n```\n\n「treasure」戰利品表可包含附魔書、鑽石、綠寶石與金錠。\n</details>\n\n靈感來自 AtomicStryker 的 Battle Towers。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

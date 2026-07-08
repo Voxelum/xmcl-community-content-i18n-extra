@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a771245dfb28304d",
+  "content": "\n\n## Описание\nНебольшая корректировка направления стрелы к цели.\n\n## Как использовать\nПо умолчанию все стрелы будут нацеливаться на сущностей. Чтобы предотвратить наведение стрел на вас, необходимо использовать эту команду:\n\n```\n/function auto_aiming:cheat\n```\nДля возврата к обычному режиму используйте эту команду:\n\n```\n/function auto_aiming:no_cheat\n```\n\n## Зависимости\n- Fabric loader требует наличие [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

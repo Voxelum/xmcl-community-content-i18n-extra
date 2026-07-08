@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CIVeFKLxIaY=",
+  "content": "Этот мод пакует GraalJS, чтобы упростить использование других модов, которые зависят от GraalJS, без необходимости отдельно устанавливать его.\n\nОбъяснение номера версии: GraalJS-(Поддерживаемая версия Minecraft)-(Версия GraalJS)-(Номер этой версии мода)-(Идентификатор загрузчика модов)-(Тип пакетирования)  \nНапример: GraalJS-1.21.x-24.2.1-1-Neo-lite\n\nGraalJS: https://www.graalvm.org/javascript/  \nДокументация по GraalJS: https://www.graalvm.org/reference-manual/js/  \nGitHub этого проекта: https://github.com/An-Mao/MC-GraalJS\n\n----Внимание----  \n· Это не официальный продукт GraalVM. Если вы столкнулись с проблемами, не связанными с кодом, свяжитесь со мной.  \n· При запуске игры с JDK, включающим GraalJS (например, GraalVM), могут возникнуть ошибки. Пожалуйста, используйте облегчённую версию из прилагаемых файлов.\n\n\nПо любым вопросам можно обратиться на GitHub или связаться следующим образом:  \n- [Telegram](https://url.anye.dev/tg)  \n- [Discord](https://url.anye.dev/discord)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "q94ulkVJEzk=",
+  "content": "# 分級背包\n\n這個模組為遊戲添加了分級背包。\n\n需要安裝 [Fabric API](https://modrinth.com/mod/fabric-api) 與 [Fzzy Config](https://modrinth.com/mod/fzzy-config)。需使用 [Mod Menu](https://modrinth.com/mod/modmenu) 才能存取遊戲內設定。\n\n合成配方請參考 [圖庫](https://modrinth.com/mod/tiered-backpacks/gallery) 分頁，或使用合成表檢視模組。\n\n## 特色\n\n- 六種背包等級：皮革（3x9）→ 銅（4x9）→ 鐵（5x9）→ 金（6x9）→ 鑽石（6x11）→ 獄髓（6x13）\n- 每個背包的大小均可自訂，最高可達 16x16 格，並提供合理的預設值\n- 對背包按右鍵即可開啟，或從物品欄按下按鍵（預設 B 鍵）開啟\n- 背包可安裝至胸甲上，亦可卸下。獄髓背包僅能安裝於防火胸甲（如獄髓胸甲）。裝備胸甲時，可按按鍵（預設 B 鍵）開啟已安裝的背包\n- 除獄髓背包外，所有背包均可像其他皮革裝備一樣染色\n- 升級背包時，內容物與顏色會保留\n- 提供豐富的設定選項，可自訂裝備與開啟方式及其他規則\n\n### 模組相容性\n\n- [Trinkets（更新版）](https://modrinth.com/mod/trinkets-updated) 或 [Ohmega](https://modrinth.com/mod/ohmega)：可將背包裝備為飾品，並透過按鍵（預設 B 鍵）開啟\n- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)：可在物品提示中預覽背包內容\n- [ItemSwapper](https://modrinth.com/plugin/itemswapper)：可從裝置清單中快速交換物品\n- [Item Descriptions](https://modrinth.com/mod/item-descriptions)：為背包提供物品說明",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

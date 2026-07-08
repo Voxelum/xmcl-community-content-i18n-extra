@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oj0EfqwISKM=",
+  "content": "**基岩版材质包加载器**\n\n在 Minecraft Java 版中使用基岩版材质包！只要在材质包介面將 `.mcpack` 拖曳進資源包資料夾，然後啟用即可。\n\n**目前功能：**\n\n* 基本材質（方塊、物品）\n* 音效\n* 護甲材質\n* HUD 與字型\n\n**限制事項：**\n\n* 護甲模型與方塊實體可能會出錯\n* 不支援動畫\n* 處於極早期開發階段——可能會有錯誤！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lPD/zfPmkwU=",
+  "content": "## 關於\n新增一個 RPG 風格的計日器，會在每天開始時以打字機特效和音效顯示。預覽請見[圖庫](https://modrinth.com/datapack/typewriter-daycounter/gallery)！\n\n- 計日器會在每個麥塊日開始時顯示\n  \n- 首次進入伺服器時也會顯示\n- 在里程碑日（如第100天）時，會播放特殊計日器動畫。所有100的倍數日都適用\n- 原版麥塊從第0天開始，為了解決這個問題，世界會多加1天。計日器會從第1天開始顯示！\n\n## 時間暫停\n你可以設定計日器僅在伺服器有玩家時才增加天數，這樣里程碑就不會被錯過。使用以下指令：\n- `/function vanilla_refresh:day_counter/_toggle_offline_timestopper`\n\n***\n\n![以此描述取代圖片](https://cdn.modrinth.com/data/cached_images/2cb3a46154a963daf8bc8026bb711cfbec968c32.png)\n\n此資源包是獨立迷你包，源自 [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh) 中的功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

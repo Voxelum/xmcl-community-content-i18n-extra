@@ -1,0 +1,6 @@
+{
+  "bodyHash": "98b41dabf8261c32",
+  "content": "\n\n<h1><strong>Embeddium 已在 1.20.1 及以上版本合并了 RSO</strong>，这意味着你无需安装 TEO 即可使用类似的视频选项界面。（参见：<a href=\"https://github.com/ThinkingStudios/textrues-embeddium-options/issues/9\" rel=\"nofollow\">ThinkingStudios/textrues-embeddium-options#9</a>）</h1>\n<h2>TexTrue 的 Embeddium 选项</h2>\n<p><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\" alt=\"forge\"></p>\n<p>将 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252freeses-sodium-options\" rel=\"nofollow\">Reese's Sodium Options</a> 非官方移植至 MinecraftForge/NeoForge，以兼容 Embeddium。</p>\n<p>TEO 图标由 <a href=\"https://github.com/KrLite\" rel=\"nofollow\">KrLite</a> 提供</p>\n<p>替换了 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fembeddium\" rel=\"nofollow\">Embeddium</a> 的选项界面，旨在改善用户体验。</p>\n<h3>功能特性</h3>\n<ul>\n<li>搜索栏。</li>\n<li>按住 <code>SHIFT</code> 键并滚动时，可更改滑块数值。</li>\n<li>可滚动的标签页。</li>\n<li>可滚动的页面（与 Embeddium Extra 搭配使用时整体体验更佳）。</li>\n<li>Iris 光影包按钮。</li>\n</ul>\n<h3>依赖项</h3>\n<ul>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fembeddium\" rel=\"nofollow\">Embeddium</a></li>\n</ul>\n<h4><em><strong>请勿将 TEO 的问题反馈至 Reese's Sodium Options 及 TRO 的官方 GitHub 仓库。</strong></em></h4>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

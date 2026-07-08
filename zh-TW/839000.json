@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9A503vdvb5A=",
+  "content": "<p>可將預先生成的資料檔案載入至世界的模組。</p><p>可同時適用於模組與資料包。</p><p>若要將資料檔案載入至世界，請將其置於此資料夾：<strong>data.&lt;命名空間&gt;.world.&lt;維度&gt;</strong></p><p>請注意<strong>命名空間</strong>是指維度的命名空間，而非您的模組或資料包</p><p><a href=\"https://github.com/Daripher/World-Data-Loader/tree/1.19/src/test/resources\" rel=\"nofollow\">此</a>範例展示如何將預生成的地圖資料載入至您的世界。</p><p>若欲使用此檔案測試資料包，請執行指令<strong>/give @s minecraft:filled_map{map:30204}</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NEficl6+dmc=",
+  "content": "## 什麼是 Tricked Shaders？\n基於 [Mellow Shader](https://modrinth.com/shader/mellow)\n\nTricked Shaders 在提升 Minecraft 視覺效果的同時，保持了可觀的性能表現（至少對我來說是這樣），並忠於原始的美術風格。它專注於優化既有的元素，而非試圖將 Minecraft 打造成超擬真的體驗。\n\n與原始的 Mellow Shader 相比，我的版本降低了整體亮度，但不會犧牲色彩或清晰度，使遊戲呈現出更深邃、更具氛圍感的外觀。在所有光照情境下，終界、地獄和主世界都感覺更平衡、更豐富且更具沉浸感。所有設定皆可自訂，但移除了設定檔，以免破壞設定。\n\n# 原始說明\n### 特色\n- 廣泛的模組相容性：Distant Horizons、Voxy、Colorwheel 等\n- 多種預設配色方案\n- 豐富且可自訂的霧氣系統\n- 多種風格的雲朵\n- 基於光影貼圖或陰影貼圖的陰影\n- 廣泛的色彩分級（飽和度、曝光度、色彩平衡工具等）\n- 易於調整的顏色\n### 相容性\n- 目前僅測試了 1.17 及以上版本。較早版本可能無法正常運作。\n- 支援 Windows 和 Linux 上的現代 Nvidia、AMD 和 Intel 顯示卡。 Mac 可能無法正常運作。\n- 請使用最新版本的 Iris（任何支援自訂 Uniform 的版本應可使用）。 Optifine 存在一些小問題，但大多情況下也能正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

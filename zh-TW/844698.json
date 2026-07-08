@@ -1,0 +1,6 @@
+{
+  "bodyHash": "w+RMcNX4zgs=",
+  "content": "<p>此模組專為 Cobblemon 模組包設計，旨在改善多人伺服器環境下的 Cobblemon 遊戲體驗。</p><p>&nbsp;</p><p>模組包含以下功能：</p><ul>\n<li>模組包獎勵，通知伺服器目前使用的模組包，讓伺服器可依據您使用的模組包提供獎勵。</li>\n<li>自動重新連線，當伺服器使用 ambassador 插件切換領域時，會自動重新連線。<br><br>此模組不會修改遊戲本體，僅適用於伺服器模組包。對於單人遊戲體驗沒有任何改變，但在伺服器上可能為您提供額外功能。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

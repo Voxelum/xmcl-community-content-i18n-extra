@@ -1,0 +1,6 @@
+{
+  "bodyHash": "P8HYGZAuF4k=",
+  "content": "<h1>Animatica Refabricated</h1><p>Animatica Refabricated 是 Animatica 的分支，支援更新的 Minecraft 版本。<br>\n這是一個專為 Fabric 模組載入器設計的 Minecraft 模組，旨在載入 MCPatcher/OptiFine 的<a href=\"https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/custom_animations.txt\" target=\"_blank\" rel=\"nofollow\">動態材質格式</a>。<br></p><h2>這支援哪些資源包？</h2><p>Animatica 增加了對使用<strong>自訂動態材質</strong>的資源包的支援。<br>\n這包括：</p><ul>\n<li>動態 GUI 材質</li>\n<li>動態實體材質</li>\n<li>動態方塊實體材質</li>\n<li>動態盔甲材質</li>\n<li>其他動態材質（動態方塊和物品是原版功能）</li>\n</ul><h2>Animatica 不支援：</h2><ul>\n<li>完全自訂 GUI（<a href=\"https://www.curseforge.com/minecraft/mc-mods/optigui\" target=\"_blank\" rel=\"nofollow\">OptiGUI for Fabric</a>）</li>\n<li>自訂實體模型（<a href=\"https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem\" target=\"_blank\" rel=\"nofollow\">CEM for Fabric</a>）</li>\n<li>自訂實體模型的 3D 部分動畫（<a href=\"https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem\" target=\"_blank\" rel=\"nofollow\">CEM for Fabric</a>）</li>\n<li>任何其他 MCPatcher/OptiFine 資源包功能，例如連接紋理等</li>\n</ul><p><strong>這些功能永不會在 Animatica 中實現。</strong><br></p><h3>Animatica 僅用於動態材質。</h3>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

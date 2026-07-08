@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SWNZAqhN0Qs=",
+  "content": "# Нет порталов\n\nОтключайте порталы в Ад, Эндер-порталы и Эндер-шлюзы по своему усмотрению.  \nТестировалось на версиях 1.19.2, 1.19.3, 1.20.2, 1.20.4, 1.21, 1.21.3 и выше.\n\n## Параметры\n\nНастройте этот мод, используя команду `/noportals` в игре или отредактировав файл `noportals.json` в папке мира.\n\n## Требования\n\n<a href=\"https://modrinth.com/mod/fabric-api\">\n  <img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"160\"/>\n</a>\n\nMinecraft Версия 1.19+  \n[Fabric Loader](https://fabricmc.net/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7gDjTn0VeAc=",
+  "content": "<p>该模组使\"永恒与经典零\"能从\"resourcepacks\"和\"shaderpacks\"文件夹中查找并加载枪械包。</p><p>此模组主要为在整合包中使用TaCZ枪械包的整合包作者制作。本模组对最终用户（玩家）无实际内容。</p><p>由于通过官方CurseForge客户端安装时，CurseForge整合包内的枪械包会被下载至\"shaderpacks\"文件夹而非\"tacz\"文件夹，若不使用本模组，则除非在\"overrides\"文件夹中重新分发枪械包内容，否则无法直接包含枪械包。</p><p>&nbsp;</p><p>本模组允许整合包作者通过CurseForge项目引用重新分发枪械包，而无需将枪械包内容捆绑至\"overrides\"文件夹，</p><p>从而让枪械包作者能够从包含其枪械包的整合包下载中获得CurseForge积分。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

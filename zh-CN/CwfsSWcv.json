@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pFqLE24auOI=",
+  "content": "# 禁忌秘术的EMC等价交换整合包\n\n当你在游玩[禁忌秘术](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)时使用[等价交换](https://www.curseforge.com/minecraft/mc-mods/projecte)，会发现该模组的内容没有EMC价值。这个纯数据包将解决这个问题。\n\n- **精心调校的EMC值**——为采集资源而设：奥术水晶、符文、黑石、星界秘银、埃德尔木/金木/菌丝树，以及生物掉落物（龙鳞、灵魂、触手、蝙蝠翅膀）。\n- 大部分合成物——如迪奥瑞姆、建筑材料、装饰品——**其EMC值自动继承**自模组原版风格的合成配方。\n- **终极物品星界秘银的EMC定价较高**，以维持其稀有性。\n- **有状态物品默认无EMC**：工具、护甲、储存奥能的瓶子与储罐、黑曜石头骨，以及量子捕捉器——这些物品都带有耐久度、储存能量或实体状态。\n\n本模组不添加任何物品、方块或配方，仅提供EMC数据。加载世界后将自动生效；打开转化桌即可查看对应数值。\n\n**前置依赖**\n\n- [等价交换](https://www.curseforge.com/minecraft/mc-mods/projecte)——必需\n- [禁忌秘术](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)——必需\n- NeoForge 1.21.1\n\n克立巴诺熔炉合金与赫菲斯托斯锻造仪式产物的EMC值在本初版中尚未设定。EMC数值为首次调校版本，欢迎在问题追踪器上反馈平衡性建议。\n\nMIT协议。禁忌秘术版权归禁忌秘术制作组所有；等价交换由sinkillerj及贡献者开发。此为独立整合包，与上述任意模组无直接关联。源代码与问题反馈：https://github.com/KURONAMI333/forbidden-arcanus-emc",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

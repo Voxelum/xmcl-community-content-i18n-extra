@@ -1,0 +1,6 @@
+{
+  "bodyHash": "F5G5LPhAT5Q=",
+  "content": "## 更新：支援 1.21.1 的第一個版本已釋出！\n\n本模組填補了 EMI 與「\\[Let's Do\\]」系列模組之間的空白，因為該系列原生僅支援 JEI 與 REI。它為「\\[Let's Do\\]」系列模組提供的所有製作方式，在 EMI 中新增了對應的合成配方。\n\n\n<details>\n<summary>預覽</summary>\n  \n![範例 1](https://cdn.modrinth.com/data/cached_images/04053d672ed36fae673947adcd7355492bd25f2a.png)\n  ![範例 2](https://cdn.modrinth.com/data/cached_images/d3d528459e63f7f4ca6d6097e99b043b942357cc.png)\n  ![範例 3](https://cdn.modrinth.com/data/cached_images/4e22bb2d3be4667af9b9fb64b22778172d208cc5.png)\n  \n</details>\n\n\n\n本模組需要先安裝 EMI。它不需要任何「\\[Let's Do\\]」系列模組也能運作，因此你可以自由選擇要啟用或停用其中任何一個。\n\n本模組為以下模組中的所有合成配方提供了 EMI 支援：\n- \\[Let's Do\\] Bakery（烘焙）\n- \\[Let's Do\\] Beachparty（沙灘派對）\n- \\[Let's Do\\] Brewery（釀造）\n- \\[Let's Do\\] Candlelight（燭光）\n- \\[Let's Do\\] Herbal Brews（草本釀造）\n- \\[Let's Do\\] Meadow（草原）\n- \\[Let's Do\\] Vinery（葡萄園）\n- \\[Let's Do\\] Nether Vinery（地獄葡萄園）\n- \\[Let's Do\\] Farm & Charm（農場與魅力）及其兼容模組\n\n新增的配方——這些原本就已存在於「Let's Do」系列模組中，但模組創作者很可能沒有為它們建立 JEI/REI 視覺化展示。本模組為那些模組創作者認為不需要配方的項目，新增了視覺化配方展示。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

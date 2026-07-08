@@ -1,0 +1,6 @@
+{
+  "bodyHash": "K0w/eAY6Lpc=",
+  "content": "<p>Простой мод для Forge/NeoForge, который сокращает подсказку для обрезанной брони.</p><p>До: (Три строки)</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_eceaac31-fa1f-48e0-8530-ca1882eaec79.png\" alt=\"\" width=\"271\" height=\"200\"></p><p>После: (Одна строка)</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_e40662c7-5eb5-4a1a-8dcd-3f94fff7a522.png\" alt=\"\" width=\"400\" height=\"118\"></p><p>Идея взята из <a href=\"https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips\" rel=\"nofollow\">Better Trim Tooltips — Minecraft Mods — CurseForge</a>, и я перенёс её на Forge и NeoForge, но не включил совместимость с StackedTrims.</p><p>Скобки вокруг материала обрезки не жёстко закодированы; их можно изменить в файлах локализации. Вы можете заменить их на что угодно с помощью ресурсных пакетов.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

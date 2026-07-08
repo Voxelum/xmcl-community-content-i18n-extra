@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BeaBfC2uQy8=",
+  "content": "# 無粒子效果\n\n![World No Particles 封面圖片](https://raw.githubusercontent.com/Sekai0NI0itamio/no-particles/main/.modcompiler-art/description-image.webp)\n\n透過完全停用所有粒子效果，獲得巨大的 FPS 提升！這個核心模組使用 ASM 位元組碼轉換技術，從最底層防止粒子生成。\n\n## 功能特色\n\n- ✅ **完全移除粒子** - 沒有任何粒子生成\n- ✅ **核心模組技術** - 使用 ASM 位元組碼轉換達到最大效果\n- ✅ **巨大的效能提升** - 在粒子密集的情況下獲得大幅 FPS 增益\n- ✅ **零效能負擔** - 沒有效能損耗，只有好處\n\n## 運作原理\n\n此模組使用 ASM（位元組碼操控）來修補 Minecraft 的核心粒子系統：\n\n**修補 World.spawnParticle** - 攔截所有粒子生成呼叫並立即返回。\n\n這種方法比基於事件取消的方式更有效，因為它是在粒子實際被創建之前的位元組碼層級就進行攔截。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

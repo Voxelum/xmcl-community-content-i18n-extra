@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kM0d0Ge3gm0=",
+  "content": "# 已存档，因 Boss Checklist 3.4.0 已添加 Wildfire 支持。\n\n这个简单的模组为 [Boss Checklist](https://modrinth.com/mod/boss-checklist) 添加了 [Friends&Foes](https://modrinth.com/mod/friends-and-foes) 兼容性。\n\n- 问：为什么是模组而非数据包？\n  - 答：因为 Boss Checklist 同时需要资源包和数据包。数据包无法包含资源包，因此最简单的加载方式是通过一个同时包含两者的模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

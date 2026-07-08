@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0E0MJtfBdGs=",
+  "content": "# 拾取TNT\n\n你以为TNT只能用来炸东西？这个模组让TNT变得更有趣。\n\n## 功能特性\n\n- 点燃TNT后，通过攻击可以将其拾起，然后投掷到任意位置\n- **千万小心！** 被拾取的TNT在物品栏中仍会继续倒计时，即使重新放置到地面也不会停止\n- 若副手持有打火石，可点燃主手持有的单个TNT。潜行时能点燃整组TNT\n- 带有`火焰附加`附魔或标有`#pick_up_tnt:prime_tnt`标签的物品，可点燃地面或手中的TNT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

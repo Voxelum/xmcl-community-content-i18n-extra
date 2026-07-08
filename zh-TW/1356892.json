@@ -1,0 +1,6 @@
+{
+  "bodyHash": "btJX17OO3/w=",
+  "content": "<p><strong>Sodium-Nvidium 橋接版 (Fabric, 1.21.8 移植版)</strong></p><p>這是舊版 Sodium 的<strong>非官方 Fabric 移植版</strong>，僅更新至可在<strong>Minecraft 1.21.8</strong>版本中與<strong>Nvidium</strong>相容運作。<br>原始 Sodium 模組由其正當開發者所創建——<strong>我並非原作者</strong>。我僅提供此移植版，讓玩家能在最新版 Minecraft 中同時使用 Sodium 與 Nvidium。</p><h3>注意事項：</h3><ul>\n<li>\n<p>基於舊版穩定 Sodium 版本以確保相容性</p>\n</li>\n<li>\n<p>無新增功能——僅包含在 1.21.8 版本支援 Nvidium 所需的最低限度修改</p>\n</li>\n<li>\n<p>僅支援 Fabric（不支援 Forge/NeoForge）</p>\n</li>\n<li>\n<p>可能出現錯誤、崩潰或不相容情況——使用風險自負</p>\n</li>\n<li>\n<p>所有功勞歸於原始 Sodium 開發者</p>\n</li>\n</ul><p><strong>原始模組：</strong></p><p><strong><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsodium\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/sodium</a></strong></p><hr><h2>授權與免責聲明</h2><ul>\n<li>\n<p>此移植版<strong>並非</strong>來自原始 Sodium 作者的官方發布版本</p>\n</li>\n<li>\n<p>我<strong>不擁有</strong> Sodium 的任何部分所有權；僅為相容 Nvidium 重新發布調整版本</p>\n</li>\n<li>\n<p>本模組以<strong>現狀</strong>提供，不附帶任何明示或暗示的擔保，包括但不限於商品適售性與特定用途適用性之擔保</p>\n</li>\n<li>\n<p>在任何情況下，我均不對因使用或無法使用此移植版所產生之任何直接、間接、偶然或衍生損害承擔責任</p>\n</li>\n<li>\n<p>僅在<strong>保留完整免責聲明、原始開發者署名，以及標明此為 Minecraft 1.21.8 版 Nvidium 專用移植版</strong>之前提下，允許重新發布此移植版</p>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

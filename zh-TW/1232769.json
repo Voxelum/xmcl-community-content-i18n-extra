@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+b4hPGisk9w=",
+  "content": "<h1>更多可再生的植物</h1><p>新增功能：使部份小型花朵及不可再生植物（如荷葉、孢子花）可用骨粉複製。</p><h2>備註</h2><p>本模組僅需安裝於伺服器端即可運作，用戶端無需安裝即可使用當前功能。若未來新增更多功能，此情況可能有所變更。</p><h2>給開發者的資訊（若想將此功能加入自訂模組或資料包）</h2><ul>\n<li>將方塊加入 <code>more_renewable_flora:duplicate_with_bonemeal</code> 方塊標籤中。前提是該方塊繼承自 <code>BushBlock</code> 或 <code>SporeBlossomBlock</code> 類別。</li>\n<li>若加入標籤後仍無法運作，或希望使其與其他類別相容，請透過 GitHub 問題回報、Discord（<code>@lawliet__</code>）或留言/DM 與我聯繫。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2Ev+QxB44Yc=",
+  "content": "<p><img src=\"https://raw.githubusercontent.com/wootrevived/wootrevived/refs/heads/1.21.1/src/main/resources/woot_revived.png\" alt=\"Woot Revived 標誌\"></p><p>&nbsp;</p><p><strong>Woot Revived</strong> 是一款用於收集生物掉落物的多方塊模組。你可以捕捉任何生物，將其放入工廠中，並自動化生產其戰利品。完全不需要生成生物！本模組基於熱門模組 <a href=\"https://www.curseforge.com/minecraft/mc-mods/woot\" target=\"_blank\" rel=\"nofollow\">Woot</a>，並包含相同的核心功能。然而，所有功能都已從頭開始徹底重新實作。</p><p>開始你的旅程前，你還需要安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/guideme\" target=\"_blank\" rel=\"nofollow\">GuideME</a>，它將提供一本全新的指南書，教你所有需要了解的知識！（除非你的模組包禁用了它，在這種情況下，如果你需要這本書，必須自行合成。）</p><p>&nbsp;</p><h2><span style=\"color:#fff\">擴充功能實作</span></h2><p>Woot Revived 還包含一個 API，允許你為工廠添加自訂升級，或配置來自你模組的生物行為。透過它，你可以控制工廠運作的幾乎所有面向！</p><p>關於使用 API 的更詳細文件，請參閱 <a href=\"https://github.com/wootrevived/wootrevived/wiki/Addon-Implementation\" target=\"_blank\" rel=\"nofollow\">擴充功能實作維基頁面</a>！</p><h2><span style=\"color:#fff\">KubeJS</span></h2><p>你也可以使用 KubeJS 添加自訂配方或修改工廠生物，更多資訊請參閱 <a href=\"https://github.com/wootrevived/wootrevived/wiki/KubeJS\" target=\"_blank\" rel=\"nofollow\">KubeJS 維基頁面</a>！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

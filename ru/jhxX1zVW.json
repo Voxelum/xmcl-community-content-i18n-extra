@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dd+SXsmR9ck=",
+  "content": "Этот мод добавляет несколько продвинутых шахтёров, которые могут быть оснащены чарами.\nОн позволяет автоматически собирать ресурсы с помощью умения «Фортун» или «Шёлковый прикосновение».\nЖидкости автоматически удаляются QuarryPlus с помощью Pump Plus или Pump Module. Более продвинутая машина, Chunk Destroyer, будет удалять жидкости без настроек. (Версия для Fabric проще. Машины могут удалять жидкости без каких-либо специальных настроек)\n\nМашины могут принимать энергию в формате EU и Forge Energy. Некоторые версии (1.19.2) поддерживают энергию EU от IC2 classic.\n\nДанный мод требует [Scalable Cat's Force](https://modrinth.com/mod/scalable-cats-force) на всех платформах.\nFabric ~1.20.x также требует [Cloth Config](https://modrinth.com/mod/cloth-config).\n\n[Ссылка на Curse Forge](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kUyoSU73zP8=",
+  "content": "<p>為1.6.4版本的MineTweaker 2添加對NEI的通用支援，讓您能夠使用MineTweaker2腳本在NEI中顯示和隱藏物品。</p><p>&nbsp;</p><pre>1.6.4：\n\nmods.NEI.hide(&lt;物品&gt;);\n\nmods.NEI.show(&lt;物品&gt;);</pre><hr><pre>1.7.10：\n\nimport mods.jadedpacks.NEITweaker;\n\n\n\nNEITweaker.hideAE2Facades();\n\nNEITweaker.hideExUDrums();\n\nNEITweaker.hideExUMicroblocks();\n\nNEITweaker.hideForgeMicroblocks();\n\nNEITweaker.hideTEFlorbs();</pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

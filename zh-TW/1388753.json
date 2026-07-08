@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AarYq5lwUPs=",
+  "content": "<h1>VoxelPtr - 進階礦物追蹤 Mod</h1><p>一款強大的 Minecraft Mod，幫助你快速定位與追蹤礦物資源。</p><h2>✨ 核心功能</h2><ul>\n<li>🎯 <strong>智能礦物掃描</strong>：自動掃描周圍區塊，尋找鑽石、鐵、黃金、綠寶石等礦物</li>\n<li>🧭 <strong>3D 方向指示器</strong>：獨特的 3D 方向系統（上下 ↑↓、左右 ←→、前後）</li>\n<li>📊 <strong>即時 HUD 顯示</strong>：顯示最近的礦物及其距離</li>\n<li>⚡ <strong>高效能表現</strong>：區塊快取機制，對遊戲效能影響極小</li>\n<li>🎨 <strong>色彩視覺化</strong>：不同礦物類型使用不同顏色區分</li>\n</ul><h2>🎮 按鍵綁定</h2><ul>\n<li><strong>V 鍵</strong>：切換追蹤功能開關</li>\n<li><strong>N 鍵</strong>：切換預設模式（鑽石、所有礦物、單一目標等）</li>\n</ul><h2>📦 支援礦物</h2><p>鑽石、鐵、黃金、綠寶石、煤炭、紅石、青金石、銅、遠古殘骸、石英，以及所有其他常見礦物</p><h2>🔧 相依項目</h2><ul>\n<li>Fabric Loader</li>\n<li>Fabric API</li>\n</ul><h2>📝 使用方式</h2><ol>\n<li>安裝 Fabric Loader 與 Fabric API</li>\n<li>將 Mod 放入 <code>.minecraft/mods</code> 資料夾</li>\n<li>啟動遊戲，按下 <strong>V</strong> 鍵啟用追蹤功能</li>\n<li>按下 <strong>N</strong> 鍵切換不同礦物預設模式</li>\n<li>HUD 將顯示最近目標及其方向指示器</li>\n</ol><hr><p><strong>支援版本請查看各版本的詳細說明</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

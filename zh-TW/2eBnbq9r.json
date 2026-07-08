@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NRcy/gYQdIM=",
+  "content": "**Yeth's TPA 是一個專為 Minecraft 設計的傳送接受模組，注重相容性、穩定性與實用性。**\n\n## 指令\n- **/tpa <目標>** 向玩家發送傳送請求\n- **/tpa accept <目標>** 接受來自玩家的傳送請求\n- **/tpa <目標> here** 向玩家發送「傳送至此」請求\n- **/tpa cancel** 取消已發送的傳送請求\n- **/tpa ignore <玩家>** 忽略某玩家的傳送請求\n- **/tpa help** 顯示所有指令列表\n- **/tpa disable** 關閉接收傳送請求的功能\n- **/tpa enable** 開啟接收傳送請求的功能\n- **/tpa setting <設定> <數值>** 設定 TPA 的相關選項\n\n## 特色功能\n- 傳送請求自動過期\n- 傳送延遲與倒數計時\n- 支援多重請求處理\n- 伺服器擁有者權限管理\n- 防傳送陷阱機制\n\n## 支援平台\nYeth's TPA 支援以下模組載入器：\n- Fabric\n- Neoforge\n- Forge\n- Quilt\n- Legacy Fabric\n- Babric\n- Ornithe\n- BTA\n- LiteLoader\n\n支援 Minecraft 版本 1.7.2 至 26.1.2",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

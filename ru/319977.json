@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aLCAln7UO+Q=",
+  "content": "<p>Это дополнение для CraftTweaker, которое позволяет создателю пакета ограничивать уровни добычи в зависимости от уровня Y.</p><p>&nbsp;</p><p>Синтаксис:</p><p>&nbsp;</p><p>mods.td.TieredDepths.addBlacklist(IBlockStateMatcher blackListedBlock, int maxHeight, int dimension, int minimumMiningLevel);<br><br>Пример:</p><p>&nbsp;</p><p>mods.td.TieredDepths.addBlacklist(<blockstate:minecraft:stone>,32,0,1);</p><p>&nbsp;</p><p>&nbsp;Эта строка запрещает добычу камня на уровне Y=32 или ниже с помощью деревянного кирки или эквивалента в верхнем мире.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

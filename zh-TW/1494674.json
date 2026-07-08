@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EmwZhNq4Fvk=",
+  "content": "<p>一個簡單的模組，用於修正 Rin's So Many Enchantments 中「持有詛咒」附魔的行為，以及它與 Corail Tombstone 模組之間的互動。一般情況下，當玩家死亡且身上帶有該附魔的物品時，該物品應該會消失。然而，若安裝了墓碑模組，該物品會安全地留在你的墳墓中等你取回。這個模組將確保你不再享有這項特權 :)。</p><p>不過別擔心，你隨時可以使用指令恢復（最近 3 次死亡中）被刪除的物品：&nbsp;<code>/restorecursed &lt;玩家名稱&gt; [時間戳記|list|latest]</code></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

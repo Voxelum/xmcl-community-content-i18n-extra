@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LO6EgwLiRjM=",
+  "content": "# Шоу-кейс\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/pRI5pg7kI4g\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n# Особенности\n- **Фиксация кадра при ударе:** Фиксирует кадр после сильного удара. Это влияет только на отображение, а не на игровой процесс. Длительность эффекта можно изменить.\n- **Вращение оружия при падении:** Вращает используемое оружие (меч, топор или булаву), если оно падает с высоты более 1,5 блока. Скорость вращения можно изменить и отключить.\n- **Вращение оружия по нажатию клавиши:** Вращает используемое оружие (меч, топор или булаву), если удерживается определённая клавиша.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

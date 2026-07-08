@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RVrMUvTSelY=",
+  "content": "<h1>多重按鍵綁定</h1><p><a href=\"https://github.com/kennybc/multi-key-bindings\" target=\"_blank\" rel=\"nofollow\"><strong>Github</strong></a> • <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmulti-key-bindings\" target=\"_blank\" rel=\"nofollow\"><strong>Modrinth</strong></a> • <a href=\"https://www.curseforge.com/minecraft/mc-mods/multi-key-bindings\" target=\"_blank\" rel=\"nofollow\"><strong>CurseForge</strong></a></p><p><strong>讓玩家能為同一個動作/功能創建多組按鍵綁定，並為按鍵綁定添加修飾鍵。</strong></p><p>這個模組為原生的按鍵綁定畫面增加了額外功能。只需點擊任何按鍵綁定旁邊的\"+\"按鈕，就會出現所選動作的新綁定。\n此模組也支援修飾鍵（左/右）Shift、Ctrl 和 Alt。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/e3d7d62a98d18806013a5b2bafb91f62f008a291_0.webp\" alt=\"按鍵設定\"></p><h2>版本與相容性</h2><p>適用於 Minecraft 1.20.x、1.21.x 和 26.1.x 版本</p><p><br></p><blockquote>\n  <p><em>自 MKB 1.3.0 版本起，支援按鍵綁定修飾功能（例如 Shift+K）。</em></p>\n</blockquote><p><br></p><blockquote>\n  <p><em>自 MKB 1.1.0 版本起，已與 Controlling 模組相容，您可以在同一個畫面中搜尋和排序所有按鍵綁定。</em></p>\n</blockquote><p><br></p><blockquote>\n  <p><em>請注意存在一些特殊限制：例如，如果您將「打開物品欄」動作設定為滑鼠按鍵，按下該滑鼠按鍵將無法像按鍵那樣關閉物品欄。同樣地，如果將「選取方塊」綁定為按鍵，您將無法像使用滑鼠綁定那樣拖曳複製方塊。</em></p>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

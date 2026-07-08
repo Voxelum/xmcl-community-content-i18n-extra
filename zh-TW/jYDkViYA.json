@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OuS/LAOd0Io=",
+  "content": "# SandBox\n\nSandBox 是 Minecraft Forge 的世界生成函式庫。它提供了一種在資料生成階段生成世界生成 json 資料的方式，並為資料包開發者新增了一些新功能，例如分層生態域來源和一個雜訊區塊生成器，該生成器能夠為每個可在其中生成的生態域載入地表規則，並將它們合併在一起。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

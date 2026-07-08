@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/67W8YsT17c=",
+  "content": "**TatamiCraft** 新增了傳統日式建築方塊——塌塌米（畳）。\n\n這個模組引入了**塌塌米墊及其他日本建築元素**等方塊，讓玩家能打造出正宗的日式室內空間與建築。\n\n![塌塌米方塊](https://cdn.modrinth.com/data/cached_images/bd47656a1e27f0b2e6e6d2832631e99e13634589.jpeg)\n\n### 取得方式\n\n使用類似以下的指令。\n\n```\n/give @p tatamicraft:tatami\n/give @p tatamicraft:tatami_half\n```\n\n### 合成方法\n\n塌塌米可用小麥和線合成。\n\n```\nW W\nS S\n```\n\n* W = 小麥\n* S = 線\n\n你也可以合成半塊塌塌米，或將一整塊塌塌米拆成兩半。\n\n塌塌米方塊可使用標準的 Minecraft 染料，染成 10 種以上的不同顏色。\n\n### 特色\n\n* **塌塌米與日式建築方塊**\n* **薄型方塊設計**，類似地毯，非常適合地板與室內裝飾\n* 專為**日式房屋、寺廟與傳統和室**設計\n* 輕量且專注於建築的簡單模組\n\n### 相容性\n\n* **Minecraft：**\n  * 1.20.1\n  * 1.21.11\n* **模組載具：**\n  * Fabric\n  * NeoForge\n\n---\n\n### v1.1.0 更新：襖（Fusuma）方塊\n\n1.1.0 版本新增了**襖（Fusuma）方塊**，這是在塌塌米房間與日式室內空間中使用的傳統日式拉門。\n\n襖方塊的設計與塌塌米地板及其他日式建築方塊互相搭配，讓玩家能更輕鬆地打造出正宗的和室、寺廟、旅館與傳統日式房屋。\n\n這些方塊可作為裝飾性隔間或室內門使用，幫助玩家建構出更具細節的日式風格空間。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SW9K9pBEYUI=",
+  "content": "### 适用于 Minecraft Forge 1.18.2+ 的 Smooth Boot Reloaded\n\n![Github License](https://img.shields.io/github/license/AbdElAziz333/SmoothBoot-Reloaded)\n![Github Issues](https://img.shields.io/github/issues/AbdElAziz333/SmoothBoot-Reloaded)\n[![这是一个 Fork](https://img.shields.io/badge/This%20is%20port-Support%20the%20original-orange)](https://github.com/UltimateBoomer/mc-smoothboot)\n\nSmooth Boot (Reloaded) 是一个优化模组，也是适用于 Minecraft Forge 1.18.2+ 的 Smooth Boot 的非官方分支。如果你的电脑使用的是较旧或低端 CPU（例如具有 8 个或更少线程的 CPU），你可能会注意到 Minecraft 在加载到标题屏幕时会占用 100% 的 CPU，导致光标卡顿，并且使多任务处理变得非常困难。Smooth Boot (Reloaded) 完全解决了这个问题，加载过程应该会更加流畅，甚至可能更快。\n\n### 功能\n\n- 更改用于加载的线程数量\n- 更改 Minecraft 使用的线程优先级\n\n### 模组的工作原理\n\nMinecraft 使用执行器来运行多线程任务。问题在于，加载过程中运行的任务对 CPU 的负担很重，因此会导致 100% 的 CPU 使用率。而且，其中一些任务并不一定从多线程中受益。Smooth Boot 通过更改执行器的参数来解决这些问题，包括它们使用的线程数量和每个线程的优先级。\n\n更多信息，请阅读 [Smooth Boot (Reloaded) 维基](https://github.com/AbdElAziz333/SmoothBoot-Reloaded/wiki)。\n\n### 模组包权限\n\nSmooth Boot (Reloaded) 是一个在 Modrinth 上的免费开源项目，因此你当然可以将其包含在你的模组包中！\n\n### 问题和功能请求\n\n请使用页面底部链接的问题跟踪器来报告错误、崩溃，如果你想提出新功能或以其他方式为模组做出贡献，我将很乐意接受拉取请求！\n\n如果你想支持我，使用我的代码 **AbdElAziz333** 可以获得第一个月 25% 的折扣，并享受与朋友一起游戏的乐趣！\n\n[![BisectHosting](https://i.imgur.com/ytD8AVA.png)](https://bisecthosting.com/AbdElAziz333)\n\n**谢谢！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

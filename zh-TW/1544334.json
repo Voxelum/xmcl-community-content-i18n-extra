@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZrZmuGK6UTg=",
+  "content": "<p>完全掌控掉落傷害。自訂開始受到傷害的高度、調整傷害倍率、設定基於傷害量的階梯式藥水效果等更多功能。</p>\n<p>&nbsp;</p>\n<p><strong>目前功能</strong></p>\n<ul>\n<li>可設定的掉落閾值（預設為原版的3.5格）</li>\n<li>傷害倍率（甚至可以完全關閉掉落傷害）</li>\n<li>階梯式藥水效果（選擇受到掉落傷害時觸發的效果）</li>\n<li>啟用永久輕盈效果（預設為關閉）</li>\n<li>按維度控制（可於特定維度關閉此模組）</li>\n<li>與原版機制完美相容（如輕盈效果等）</li>\n</ul>\n<p><strong>設定方式</strong><br>單一TOML設定檔位於 <code>config/fallcontrol.toml</code><br>所有設定皆於此檔案中完成。預設情況下，此模組僅在受到高額掉落傷害時附加緩慢效果，您可將其作為範例參考。</p>\n<p>&nbsp;</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fminestrator.com%252fa%252fPRODIGIUM\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://i.ibb.co/3W9rfff/ssdara.png\" width=\"420\" height=\"136\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

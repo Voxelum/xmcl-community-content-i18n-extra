@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DsuuAI3SelI=",
+  "content": "![Logo](https://cdn.modrinth.com/data/cached_images/3722d583499a799059ce16603dfdc85c9fd71ae1.png)\n# Sable 作用域红石链接\n\nSable 作用域红石链接为机械动力（Create）的红石链接增加了 Sable 感知作用域功能。\n\n默认情况下，机械动力的红石链接可在其正常范围规则内全局通信，这可能导致 Sable 子层级内的链接与主世界或其他子层级中的链接相互作用。本模组改变了这一行为，使红石链接能够根据其所在的 Sable 子层级上下文受到限制。\n\n## 功能特性\n\n- 阻止一个 Sable 子层级内的机械动力红石链接泄漏到另一个子层级。\n- 支持可配置的作用域行为：\n  - 机械动力原版行为\n  - 仅限同一子层级\n  - 子层级与主世界桥接\n- 支持普通红石链接、移动链接控制器以及打字机。\n\n## 运行需求\n\n- Minecraft 1.21.1\n- NeoForge\n- 机械动力（Create）\n- Sable\n\n## 设计目的\n\n本模组适用于同时安装机械动力与 Sable 的世界，旨在让红石链接网络尊重移动或孤立的 Sable 空间，而非作为一个统一的全局网络运行。\n\n## 致谢\n- 模组图标由 [Vercte](https://modrinth.com/user/Vercte) 制作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

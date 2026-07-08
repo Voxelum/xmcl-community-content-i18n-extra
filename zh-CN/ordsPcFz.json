@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YU7NS0p5+yY=",
+  "content": "用于通过Kotlin编程语言制作模组。其实现方式包括：集成Kotlin库、提供KotlinLanguageProvider以加载@Mod对象声明、提供AutoKotlinEventBusSubscriber以加载@EventBusSubscriber声明，以及提供实用的工具函数和常量。\n\n自Kotlin for Forge 1.8.0版本起，本库集成了[Kotlin 1.4.21](https://github.com/JetBrains/kotlin)、[Kotlin协程1.4.2](https://github.com/Kotlin/kotlinx.coroutines)、[Kotlin JSON序列化1.0.1](https://github.com/Kotlin/kotlinx.serialization)以及[Jetbrains注解20.1.0](https://github.com/JetBrains/java-annotations)。\n\n \n\n**如果您不是模组开发者，此模组为依赖模组。**\n\n \n\n与Kottle不同，本库（自1.2.0版本起）提供了自有的IEventBus实现，支持通过函数引用使用IEventBus#addListener和IEventBus#addGenericListener。\n\n \n\n实现方法说明请参阅[此处](https://github.com/thedarkcolour/KotlinForForge/blob/master/README.md)。  \n您无需强制使用语言加载器或Kotlin for Forge提供的任何功能，仅将其作为捆绑的Kotlin库使用亦可。\n\n \n\n如需寻求帮助或提出建议，欢迎加入[Kotlin for Forge Discord服务器](https://discord.gg/tmVmZtx)交流。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

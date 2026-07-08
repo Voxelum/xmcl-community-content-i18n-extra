@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cfawwfS/w5c=",
+  "content": "<h2>Forge 模组。</h2><p>卸载此模组的旧版本并在之前安装过它的世界中使用可能会导致负面后果！</p><p>&nbsp;</p><h2>更大的堆叠</h2><p>允许你将堆叠大小增加到64以上，最高可达约10亿（虽然我不建议你设置得那么高）。</p><p>&nbsp;</p><h3>控制单个物品的堆叠大小</h3><p>该模组允许你根据标签、物品来源的模组等规则来更改物品的堆叠大小。</p><p>&nbsp;</p><h2>快速开始</h2><p>当你加载一个未配置的模组世界时，它会显示以下提示：</p><p><img src=\"https://media.forgecdn.net/attachments/589/800/prompt.PNG\" alt=\"\" width=\"594\" height=\"168\"></p><p>&nbsp;</p><p>点击命令或运行它将打开一个配置GUI。</p><p>你可以随时通过运行 /biggerstacks quicksetup 来打开此GUI。</p><p>&nbsp;</p><h2>兼容性</h2><p>像这样的模组，很可能会出现一些不兼容的情况。如果你发现任何问题或功能未按预期工作，请在github上报告。</p><p>一些物品传输模组（如xnet、modular routers、pretty pipes、cyclic）已经为更大的堆叠进行了修改。配置文件中提供了更多关于这些更改的信息。</p><p>&nbsp;</p><p><strong>请将此模组发现的任何问题/不兼容性报告给我，而不是其他模组的作者。</strong></p><p>你可以在github问题或此处的评论区报告，但我更希望你使用github问题跟踪器（如果你有github账户）。</p><p>&nbsp;</p><h2>已知的不兼容性</h2><p>- numismatic overhaul reforged</p><p>&nbsp;</p><h2>客户端和服务器端？</h2><p>此模组需要在客户端和服务器端都安装。</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

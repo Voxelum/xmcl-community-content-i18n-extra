@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HmOExSVhZWo=",
+  "content": "## 平滑启动\n\n本模组优化了Minecraft的CPU调度机制。作为Smooth Boot (Reloaded) 模组的非官方分支，它新增了对新游戏版本的支持。\n\n该模组通过重新配置Minecraft的任务执行器来提升加载效率。原版执行器会默认跨多线程运行密集的启动任务，经常导致CPU使用率达到峰值。平滑启动通过修改关键执行器参数（包括线程数量和优先级）来优化这一过程，确保工作负载更均衡高效。\n\n原版模组：https://modrinth.com/mod/smooth-boot-reloaded\n\n原版模组作者：https://modrinth.com/user/AbdElAziz",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m/BD+6gNbMU=",
+  "content": "<h1>剛好足夠的沉浸式多方塊</h1><p>一個簡單的Immersion Engineering附加元件，為多方塊添加JEI支援。支援來自Immersive Engineering的結構，以及大多數附加元件（如Immersive Petroleum）的結構（如果已安裝）。</p><p>多方塊會顯示在JEI搜尋中，方便快速查詢多方塊。這些多方塊也連結到每個多方塊配方的「催化劑」材料，可以直接導航。</p><p><img src=\"https://raw.githubusercontent.com/sguest/jei-multiblocks/main/readme-images/jei-search.png\" alt=\"JEI搜尋\"></p><p>多方塊配方顯示基本結構和材料。雖然並非完全取代工程師手冊，但這使得只需點擊一下即可輕鬆查詢輸入方塊的配方。</p><p><img src=\"https://raw.githubusercontent.com/sguest/jei-multiblocks/main/readme-images/arc-furnace.png\" alt=\"電弧爐\"></p><p>同時也支援<a href=\"https://www.curseforge.com/minecraft/mc-mods/emi\" rel=\"nofollow\">EMI</a>作為一級插件（Minecraft 1.20.1+），無需相容性載入器。</p><h2>特定版本備註</h2><h3>1.20.1</h3><ul>\n<li>特別感謝<a href=\"https://github.com/FLORIAN4600\" rel=\"nofollow\">FLORIAN4600</a>克服了一些棘手的生命週期問題，使這個模組得以延續到Minecraft 1.20+版本</li>\n<li>感謝<a href=\"https://github.com/PengyTheGamer\" rel=\"nofollow\">Pengy</a>提供EMI支援</li>\n</ul><h3>1.16</h3><ul>\n<li>這個模組在1.16版本存在已知問題，應僅視為單人遊戲使用</li>\n</ul><h3>任何早於1.16的版本</h3><ul>\n<li>不會移植回舊版本。除非您本人準備好進行移植並維護，否則請勿提出要求。</li>\n<li>獨立的1.12.2移植版存在於<a href=\"https://legacy.curseforge.com/minecraft/mc-mods/rather-enough-immersive-multiblocks\" rel=\"nofollow\">Rather Enough Immersive Multiblocks</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

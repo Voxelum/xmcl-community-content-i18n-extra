@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uWWe6+4p2s0=",
+  "content": "## 分叉警告\n\n> 本專案是從原始大型模組 [Copper Age Backport](https://modrinth.com/mod/backport-copper-age) 中提取並修改的組件，程式碼歸功於 Smallinger。\n\n> 原始程式碼依據 MIT 授權條款使用，並已進行改編與擴充新增功能。\n\n## 關於\n\n> 終界閃光是終界中的新大氣事件，啟動時會以紫色色調照亮終界表面並產生遠處爆炸聲。終界閃光每 30 秒間隔定期啟動，且在終界龍戰鬥迷霧生效期間不可見。\n包含英文（美式）、德文、法文、西班牙文（西班牙與墨西哥）及葡萄牙文（巴西）的音效字幕（與 1.21.9 版本相同）\n\n> 與修改終界天空盒的著色器或模組/資源包不相容（如 Enderscape、Better End 等），雖不會導致崩潰，但終界閃光將無法渲染，或您可在各自配置中停用天空盒。\n\n> 若需編輯紋理或音效，請使用 \"endflash\" 命名空間。\n\n## 配置 ⚙️\n\n> 此分叉版本為終界閃光新增配置選項（仍處於測試階段）：\n\n> endflash-client\n\n> endflash-common（伺服器）\n```\n\n[\"終界閃光\"]\n\t#啟用或停用終界閃光效果\n\tenableEndFlash = true\n\t#終界閃光尺寸\n\t# 預設值：60.0\n\t# 範圍：1.0 ~ 500.0\n\tflashScale = 60.0\n\t#終界閃光在天空中的高度\n\t# 預設值：100.0\n\t# 範圍：0.0 ~ 500.0\n\tflashHeight = 100.0\n\t#閃光強度倍率\n\t# 預設值：1.0\n\t# 範圍：0.1 ~ 5.0\n\tflashIntensity = 1.0\n\t#每次終界閃光間隔時間\n\t# 預設值：600\n\t# 範圍：20 ~ 2400\n\tflashIntervalTicks = 600\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

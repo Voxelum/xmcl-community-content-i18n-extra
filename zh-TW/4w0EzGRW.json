@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11VVS+CqSFY=",
+  "content": "# 同伴 🐕\n\n本模組新增了多種機制，防止你遺失寵物，進而提升遊戲體驗。\n\n### 功能特色：\n\n- 寵物會在傳送或進入傳送門時跟隨你\n- 拴住的生物進入傳送門時也會跟著你\n- 寵物即將被卸載時，會強制傳送到你身邊\n- 寵物生命值低於20%時，不會攻擊敵人\n- 寵物生命值低於20%時，會傳送到你身後\n- 寵物只有在靠近你時，才會進入傳送門\n- 當你漂浮在水面上時，鸚鵡不會從肩膀上下來\n- 除非你在原地跳躍，否則鸚鵡不會從肩膀上下來\n- 橫掃之刃的效果不會傷害到你的寵物\n- 寵物友好火焰遊戲規則\n\n所有這些功能都可以在安裝 [Kiwi](https://modrinth.com/mod/kiwi) 後停用或設定。此外，若安裝了 [Cloth Config](https://modrinth.com/mod/cloth-config)，則會提供遊戲內設定介面。\n\n[![有興趣支持我和模組的開發嗎？BisectHosting 是最理想的選擇。新客戶可以使用優惠碼「snownee」在遊戲伺服器第一個月享75折優惠。我們提供24/7支援與快速回應，確保你所有遊戲需求都能獲得頂級服務。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

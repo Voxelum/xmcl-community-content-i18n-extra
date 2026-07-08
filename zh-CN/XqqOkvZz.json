@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eCLmlFnKYIw=",
+  "content": "<h1>Carpet: NeoForged</h1>\n\n这是 gnembon 的 [Carpet Mod]（0）的分支，已移植到 NeoForge\n\n<hr>\n\n所有功能应与 Fabric Carpet 相同，提供大量可配置的原版游戏改进，例如：\n- 可移动的方块实体\n- 可堆叠的潜影盒\n- Scarpet 脚本语言\n- 以及原模组中的其他所有功能\n\n所有这些功能仅需服务器端支持。\n\n<h2>兼容性</h2>\n\n部分 Carpet 扩展模组可在使用 [Sinytra Connector]（1）时正常工作，尤其是那些混合较轻量级的扩展（大多数 scarpet 扩展应能正常运行）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

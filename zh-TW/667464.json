@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vFn0zGHW6Jg=",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/cached_images/2e90c9e7c0c56d6bc34cdfdf6e53766ce1328ebd_0.webp\" alt=\"縮圖\"></p><p>原版統計畫面雜亂無章，難以閱讀和瀏覽，且缺少適當的搜尋與篩選功能，導致找尋特定資料變得困難。本模組旨在讓統計資訊的瀏覽與查找更加便利，特別當你的世界中有數十或上百筆資料需要管理時。</p><p><strong>主要功能</strong></p><ul>\n<li>🔍 搜尋、篩選、排序與分組統計資料</li>\n<li>📊 物品與生物統計以整潔美觀的視覺化網格呈現</li>\n<li>🖥️ 生物會以視覺渲染方式顯示在畫面上，不僅更美觀，也加速查找速度</li>\n<li>📂 支援儲存與載入統計檔案，並提供分頁介面供檢視多個檔案</li>\n<li>🌐 可與朋友或任何人分享統計資料</li>\n<li>⚙️ 可選的 <code>/statistics</code> 指令，用於將統計整合至指令與資料包中</li>\n</ul><h2>前置模組</h2><p>使用本模組前需先安裝以下依賴模組：</p><ul>\n<li>🧵 <a href=\"https://www.curseforge.com/projects/306612\" rel=\"nofollow\">Fabric API</a> - 僅在 Fabric 環境下需要。NeoForge 則不需要。</li>\n<li>🖥 <a href=\"https://curseforge.com/projects/711539\" rel=\"nofollow\">TCDCommons API</a> - 驅動本模組的圖形介面</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

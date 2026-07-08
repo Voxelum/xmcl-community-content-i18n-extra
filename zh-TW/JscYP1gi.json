@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lv/ScTeMgB4=",
+  "content": "# PlayerAbilityLibForge\n\n這是 PyrofabTheModsmiths 專案 PlayerAbilityLib 移植到 forge/neoforge 的版本\n\n以下是原始 curseforge 頁面的說明：\n\n<details>\n<summary>劇透警告</summary>\n\n你是否曾經遇過飛行護符在使用 /fly 指令後就停止運作的問題？或是魔法噴射背包讓旁觀者沉入地底？又或是幽靈模式莫名其妙地不讓你飛行？\n\n模組與玩家能力系統的不相容問題遠比我們希望的更常見，而且對模組開發者來說非常難以避免。這個函式庫可供任何與 PlayerAbilities 類別互動的 ~~Fabric~~ Forge 模組使用，讓開發者能夠輕鬆避免上述問題。\n\n部分 API 設計感謝 Chloe Dawn\n\n## 玩家資訊\n\n玩家不需要自行下載這個函式庫，因為它旨在嵌入到分發的 jar 檔案中。\n\n如果你發現某個模組導致與玩家能力相關的不相容問題（例如飛行），你可以（禮貌地）將作者引導到這個 API，並詢問他們是否可以在接觸 PlayerAbilities 的地方使用它。\n\n## 開發者資訊\n\n開發者應該使用 gradle 來設定對這個函式庫的依賴。我建議使用 modrinth maven。\n\n你可以在[測試模組](https://github.com/Ladysnake/PlayerAbilityLib/tree/master/src/testmod/java/io/github/ladysnake/paltest)中找到幾個使用範例：\n\n- [切換能力的物品](https://github.com/Ladysnake/PlayerAbilityLib/blob/master/src/testmod/java/io/github/ladysnake/paltest/AbilityToggleItem.java)\n- [切換能力的藥水](https://github.com/Ladysnake/PlayerAbilityLib/blob/master/src/testmod/java/io/github/ladysnake/paltest/FlightEffect.java)\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "74QkQ1SEIHc=",
+  "content": "该资源包是一个兼容性桥接，将 Fresh Animations 的玩家动作与 Just Expressions 的动态眼睛逻辑相结合。\n\n请按照 Just Expressions 官方[维基](https://github.com/IthanMendoza/Fresh-Moves/wiki)中的说明，为你的皮肤添加动态眼睛。\n\n## 需求条件\n为确保正常运作，此资源包需要与原版相同的依赖项：\n- 实体模型特征 (EMF)\n- 实体纹理特征 (ETF)\n- Fresh Animations：玩家扩展包（基础动画）。\n\n## 安装顺序\n在资源包菜单中，请确保顺序如下（从上到下）：\n1. 本兼容包（优先级最高）\n2. Fresh Animations：玩家扩展包\n3. Just Expressions（可选，用于纹理）\n\n## 致谢\n- Fresh Animations 由 [FrashLX](https://modrinth.com/user/FreshLX) 制作\n- Just Expressions 由 [IthanMendoza](https://modrinth.com/user/IthanMendoza) 制作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

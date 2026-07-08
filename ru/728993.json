@@ -1,0 +1,6 @@
+{
+  "bodyHash": "U8NI1Q+o5RI=",
+  "content": "<h1>yunfaLib</h1><p>Библиотека для Minecraft, использующая Fabric API, которая добавляет конфигурации, математику, события, модули и многое другое.</p><h2>Настройка</h2><h5>build.gradle</h5><p><code>repositories {\n      maven { url \"<a href=\"/linkout?remoteUrl=https%253a%252f%252fjitpack.io%2522\" rel=\"nofollow\">https://jitpack.io&amp;quot;</a> }\n}\ndependencies {\n      modImplementation \"com.github.yunfachi:yunfaLib:${project.yunfalib_version}\"\n}</code></p><h5>gradle.properties</h5><p><code>yunfalib_version=0.1.0</code></p><h2>Особенности</h2><h3>Конфигурация</h3>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

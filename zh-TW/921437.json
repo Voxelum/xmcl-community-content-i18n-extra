@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ArguC9SLKIs=",
+  "content": "<p>這是一個簡單的模組，能將Aethersteel模組中的Aethersteel洞穴生態域移除。</p><p>該生態域外觀不美觀、會阻擋其他模組的礦物生成，且生成頻率過高，這些都不是理想的情況。</p><p>此模組使用Mixin技術來阻止該生態域的註冊。</p><p>可惜的是並沒有配置選項，因為載入順序不允許這樣做。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

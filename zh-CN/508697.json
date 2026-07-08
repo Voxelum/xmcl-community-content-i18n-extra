@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aJ8wdz3eF34=",
+  "content": "<h1>星系计算机</h1>\n<p>我发现GalactiCraft和OpenComputers之间缺乏整合，于是决定自己开发一个。毕竟，没有电脑的\"太空基地\"怎么能算完整呢！</p>\n\n<h2>如何与支持的方块交互？</h2>\n<p>你需要使用OpenComputers的适配器来实现。虽然有点麻烦，但这是目前唯一的方法。</p>\n\n<h2>支持哪些模组？</h2>\n<ul>\n<li>Galacticraft Core（星系核心）</li>\n<li>Galacticraft Planets（星系行星）</li>\n<li>GalaxySpace（星系空间）</li>\n</ul>\n<p>除Galacticraft Core外，其他模组均为可选。欢迎提议支持其他GC扩展模组。</p>\n\n<h2>新增方块与物品</h2>\n<p>目前仅添加了密封电缆方块。其功能与GalactiCraft的其他密封方块相同，可让电脑在太空基地内外连接而不漏气。</p>\n\n<h2>喜欢这个小项目吗？</h2>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fv19930312\" rel=\"nofollow\">在Ko-Fi上请我喝杯咖啡</a>以示支持，这将帮助项目持续开发。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

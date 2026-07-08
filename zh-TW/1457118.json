@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UZ8R5M+rIbA=",
+  "content": "<h1>神兵天降</h1><p><strong>神兵天降</strong> 是一款難度調整模組，旨在幫助玩家透過持續努力而非純粹技巧，來戰勝遊戲中最困難的頭目。</p><p>如果你在某個強大頭目面前卡關，這個模組能讓每次死亡都使你變得更強，以迎接下一次挑戰。</p><h2>運作機制</h2><h3>1. 神饌瓶</h3><p>要啟動系統，你必須喝下一瓶<strong>神饌</strong>。</p>\n<ul>\n<li><strong>效果：</strong>賦予<strong>神兵天降</strong>狀態效果。</li>\n<li><strong>持續性：</strong>此效果為<strong>永久性</strong>，死亡後也不會消失。</li>\n<li><strong>移除：</strong>你可以再喝一瓶神饌或一桶牛奶來關閉此效果。</li>\n</ul><h3>2. 適應與復仇</h3><p>在效果啟動期間，模組會追蹤你對設定頭目的戰鬥表現。如果你死於某個頭目，重生時將獲得針對該敵人的新優勢：</p>\n<ul>\n<li><strong>傷害減免：</strong>你受到該頭目的傷害減少。</li>\n<li><strong>傷害加成：</strong>你對該頭目造成的傷害增加。</li>\n</ul><p>這些加成會<strong>隨著每次死亡疊加</strong>。你越掙扎，就變得更強，最終確保勝利。</p><h2>設定配置</h2><p>本模組設計靈活，適合整合包與伺服器管理員。你可在設定檔中調整以下項目：</p>\n<ul>\n<li><strong>白名單/黑名單：</strong>精確定義哪些生物或頭目會觸發效果（支援模組實體）。</li>\n<li><strong>增益幅度：</strong>設定每次死亡獲得的護甲與傷害加成百分比。</li>\n<li><strong>擊殺重置：</strong>選擇擊敗頭目後加成是否歸零，或永久保留力量。</li>\n</ul><p>由 ivanthegifcursed 提供的迷因素材：<br><img src=\"https://media.forgecdn.net/attachments/description/1457118/description_9a3e6166-c073-4ae6-80b3-2f9f71072769.jpg\" alt=\"\" width=\"504\" height=\"495\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

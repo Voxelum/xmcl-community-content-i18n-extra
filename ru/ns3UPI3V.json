@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OLJAhl46iZA=",
+  "content": "# Детали\n\nНебольшой мод-интегратор между модами «Immersive Machinery» и «Alex's Caves».\n\nОн добавляет следующее:\n\n* Позволяет подводной лодке Copper Fin из Immersive Machinery быть видимой для Hullbreakers в биоме глубин из Alex's Caves.\n* Весь урон, наносимый игроку во время нахождения внутри Copper Fin, переносится на неё саму.\n\n# Требуемые моды\n\nУказанные версии — это те, которые подтверждены как работающие; более новые или старые версии могут нарушить совместимость. Если это произойдёт, пожалуйста, сообщите мне.\n\n* [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) (1.4.0)\n* [Immersive Machinery](https://modrinth.com/mod/immersive-machinery) (0.2.0)\n* [Alex's Caves](https://modrinth.com/mod/alexs-caves) (2.0.2)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "iwBNdo4/0g0=",
+  "content": "本模组为游戏中几乎所有电缆/方块添加了外观覆层支持！\n---------------------------------------------------------------------\n\n您可以在配置文件 **cable_facades-common.toml** 中手动添加条目\n\n    #允许被覆盖的方块列表。支持使用'*'作为通配符\n    blocks = [\"pipez:*_pipe\", \"mekanism:*_cable\", \"etc..\"]\n\n**同时支持使用方块标签** **#cable_facades:supports_facade**\n\n**欢迎在[Discord](https://discord.gg/m4EHeRjfZ9)分享您的配置，帮助我们扩展兼容列表！**\n\n**![](https://media.forgecdn.net/attachments/description/null/description_799ac466-1199-42c1-a33c-1c7145a85cf3.png)**\n\n**手持扳手时：**\n\n**![](https://media.forgecdn.net/attachments/description/null/description_c0b5fceb-370f-435b-bc24-67a0b5bc2dc7.png)**\n\n \n\n**![](https://media.forgecdn.net/attachments/description/null/description_c229c68a-b522-4088-9a55-be35e323249e.png)**\n\n**即将到来：**\n\n*   **1.21.1版本**\n*   **连接纹理支持**\n*   **发光方块**\n*   **光线遮挡**\n\n寻找服务器？\n---------------------\n\n**嘿**，如果你想和朋友一起玩模组生存，同时想支持我们，强烈推荐使用Bisect Hosting。他们提供7×24小时专业支持、快速响应和实惠价格！使用专属优惠码首单可享25%折扣。\n\n[![bisect_partnership_image](https://www.bisecthosting.com/partners/custom-banners/b05f8205-98fb-4b14-9c55-d3d636aedd93.webp)](https://www.bisecthosting.com)\n\n感谢支持！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

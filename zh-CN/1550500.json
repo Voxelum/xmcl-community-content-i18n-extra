@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AGWBo1js640=",
+  "content": "<div><strong>军械库 × 史诗战斗 × 百年战争 兼容补丁</strong></div><div>一个兼容性桥梁，用于恢复百年战争模组中TaCZ NPC在史诗战斗下的枪械动画。</div>\n<div><strong>问题描述：</strong>当同时安装史诗战斗、史诗军械库、TaCZ与百年战争模组时，持枪的百年战争NPC会失去第三人称枪械动画。史诗军械库会抑制基于<code>playerAnimator</code>的实体渲染（针对持有TaCZ武器的实体），从而破坏百年战争NPC的动画姿态。</div>\n<div><strong>解决方案：</strong>本模组通过Mixin注入实现以下功能：</div>\n<ul>\n<li><div>在史诗战斗激活时，禁用百年战争模组中冲突的原生NPC动画</div></li>\n<li><div>为百年战争模组中TaCZ NPC的实体类型注册史诗战斗的双足骨架</div></li>\n<li><div>将TaCZ枪械事件（开火/装弹/近战）桥接到史诗军械库的动画系统</div></li>\n<li><div>修复NPC第三人称视角下的枪口火焰渲染</div></li>\n</ul>\n<div><strong>前置要求：</strong></div>\n<ul>\n<li><div>史诗战斗模组版本需高于\"20.9\"</div></li>\n<li><div>史诗军械库模组（Tijon制作的史诗军械库）</div></li>\n<li><div>永恒与经典零号（TaCZ）模组\"1.1.x\"版本</div></li>\n<li><div>百年战争模组（HYW）</div></li>\n</ul>\n<h1>&nbsp;</h1>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

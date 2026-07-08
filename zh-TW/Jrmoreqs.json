@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VEErgOW8Dxc=",
+  "content": "# 進階備份\n\n進階備份是一款功能強大且高度可自訂的備份模組，內建命令列還原工具。\n\n支援多種 Minecraft 版本與模組載入器——若您需要的版本尚未支援，歡迎提出要求。\n\n<details>\n<summary>SPIGOT/PAPER 注意事項：</summary>\n\n已知若伺服器軟體或插件組合將終界／地獄維度移出主世界目錄時，可能導致這些維度的備份出現問題。\n\n雖然我不理解這種做法——但此情況相當普遍，因此我們正在開發修復方案，確保這些維度能被正確備份。\n\n現階段建議您考慮使用其他備份方案。\n</details>\n\n## 功能特色：\n- 內建於 jar 檔中的命令列還原工具，附帶輔助執行腳本\n- 可選差異備份或增量備份，在保留相同資料的同時減少備份大小\n- 豐富的設定選項，可控制排程、日誌記錄、活動需求等\n- 三種自動清除選項——完全掌握備份刪除時機\n- 基於指令的「快照」功能，不受自動清除影響\n- 客戶端通知——備份完成時即時提醒。可於客戶端或伺服器端關閉，並限制僅管理員或開放所有玩家\n- 設定備份最短與最長時間間隔——避免區域世界的常見問題情境\n\n## 常見問題：\n- 客戶端通知在 Spigot 伺服器上如何運作？\n\n  - 客戶端需安裝 Forge、Neoforge 或 Fabric 版本的模組才能看到通知。即使在 Spigot 伺服器上也能正常運作。\n- 若自上次備份後無人上線，是否仍會建立備份？\n  - 預設情況下不會。若有需要可在設定中修改。\n- 此模組能否僅在伺服器端執行？\n  - 可以，模組可完全在伺服器端運作——僅需客戶端安裝才能看到備份通知。\n- 如何執行命令列工具？\n  - 備份資料夾中提供輔助腳本，或使用 `java -jar` 指令執行。需將 Java 加入系統 PATH 路徑。\n  - 更多資訊請參閱備份資料夾中的 readme 說明文件。\n\n## 相關連結：\n- [Github](https://github.com/HeatherComputer/AdvancedBackups/)\n- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/advanced-backups/)\n- [Modrinth](https://modrinth.com/mod/advanced-backups)\n- [Hangar](https://hangar.papermc.io/HeatherWhite/AdvancedBackups)\n- [M.O.S.S. Discord](https://discord.gg/PHpuzZS)\n- [模組 Discord](https://discord.gg/SxN7JtzUyX)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

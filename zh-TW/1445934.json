@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yITV2bnejQU=",
+  "content": "<section><span style=\"text-decoration:underline;color:#ba372a\"><strong>功能說明：</strong></span></section><section>Lootr Liaison 能在執行 Lootr 時，自動平滑處理結構中的寶箱。它會等待世界生成完成後，一次性完成容器的初始化，讓 Lootr 能正常處理這些容器，避免重複轉換或時序錯亂的問題。若您同時安裝了 Artifacts 模組，本插件還會控制擬態寶箱的生成判定，確保每個寶箱最多只進行一次擬態檢查，防止生成循環或異常的怪物生成。<br><br>\n<ul>\n<li>抑制世界生成期間「方塊實體在設定所屬世界前已設定戰利品表」的冗餘日誌訊息。</li>\n</ul>\n</section><section><span style=\"color:#ba372a\"><strong><span style=\"text-decoration:underline\">需求條件：</span></strong></span><br><br></section><section>\n<ul>\n<li>Lootr（必要）</li>\n</ul>\n<ul>\n<li>Artifacts（選用；啟用擬態寶箱穩定性功能）</li>\n</ul>\n</section><section><span style=\"text-decoration:underline;color:#ba372a\"><strong>設定選項：</strong></span></section><section>您可以調整初始化延遲時間、每遊戲刻處理的容器數量、擬態寶箱判定時機（初始化時或首次開啟時），以及排除哪些容器類型不受擬態寶箱機制影響。</section><section></section>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

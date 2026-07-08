@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9tzrs5Hn5zc=",
+  "content": "<h1>夜视光影包</h1><p>这是一款旨在保持游戏美学风格的同时提升全局亮度的着色器/资源包。它能显著提高游戏亮度，让你在洞穴、下界、水下等所有阴暗处都能清晰视物，同时保留微妙的光影差异以维持游戏原有的视觉美感。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/b4777ed0092db39674181d70e08a940f1ca1a1d1_0.webp\" alt=\"宣传图\"></p><p>如果喜欢这个资源包，欢迎通过<a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fT6T41BS1C9\" target=\"_blank\" rel=\"nofollow\">请我喝杯咖啡</a>支持开发。</p><h3>启用方法</h3><p>作为普通资源包使用时，只需将<code>.zip</code>文件放入<code>resourcepack</code>文件夹即可。若使用Sodium或Iris光影加载器，需额外安装<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsodium-core-shader-support\" target=\"_blank\" rel=\"nofollow\">Sodium核心着色器支持</a>模组。本资源包不兼容Optifine！</p><h3>特色功能</h3><p>在提升亮度的同时精心维护游戏视觉体验：</p><ul>\n<li>雾气效果未被完全移除，只是起始距离更远</li>\n<li>光源仍会正常发光</li>\n<li>方块仍会投射阴影（但阴影浓度降低）</li>\n<li>完美兼容Sodium（需配合上述支持模组）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uqs2c2B95Bo=",
+  "content": "![丘陵景观图。每个区块由不同方块组成](https://cdn.modrinth.com/data/cached_images/48ef8dcfecdf6b85a32b1014494568be7741f853_0.webp)\n## 概览\n踏入某个区块时，该区块内的所有方块会被随机替换为同一种方块。\n\n若您希望使用此数据包制作视频或发布相关内容，请随意！但请在视频简介或评论区注明出处（Ambiguous Chameleon）并附上该数据包的链接。感谢！\n\n## 作弊指令\n\n**将当前所在区块替换为主手持有的方块**\n```\n/trigger ac.random_chunk.set_block\n```\n\n**打开黑名单菜单，切换允许生成区块的方块类型**\n```\n/trigger ac.random_chunk.blacklist\n```\n\n**清除黑名单**\n```\n/trigger ac.random_chunk.blacklist.clear\n```\n\n**打开菜单一键屏蔽整类方块**\n```\n/trigger ac.random_chunk.blacklist.presets\n```\n\n**重新随机生成当前所在区块的方块类型**\n```\n/trigger ac.random_chunk.reroll\n```\n\n**卸载数据包** _[仅限数据包版本！]_\n```\n/function ac_cheat:uninstall\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

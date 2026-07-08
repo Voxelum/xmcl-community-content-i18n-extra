@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CFeFQ7HEMRQ=",
+  "content": "新增多項與食物相關的 HUD 改進功能。這主要是一個客戶端模組，但伺服器端也需安裝，才能在客戶端顯示準確的飽食度/消耗度數值。\n\n---\n\n*注意：AppleSkin 提供的資訊預設是隱藏的（它不會新增或更改任何遊戲機制）。若要了解 Minecraft 的消耗度與飽食度機制，請參閱 [Minecraft Wiki 上的飢餓條目](https://minecraft.wiki/w/Hunger#Mechanics)*\n\n---\n\n### 功能\n\n* 在物品提示中新增食物價值資訊：\n\n![](https://github.com/user-attachments/assets/8a2dcbad-57dd-4184-ac4b-a6df311ec3be)\n\n* 在 HUD 上新增飽食度與消耗度的可視化顯示：\n\n![](https://github.com/user-attachments/assets/1afaec0a-9e9d-4320-8ed3-ada98eacf186)\n\n* 手持食物時，顯示可恢復的飢餓值/飽食度預覽：\n\n![](https://github.com/user-attachments/assets/361e3104-1079-4334-a173-316af652d48d)\n\n* 手持食物時，顯示可恢復的生命值預覽：\n\n![](https://github.com/user-attachments/assets/fa6ad0dd-bbd2-42a5-aa3b-565f9405993d)\n\n* 在除錯資訊疊加層（F3）中顯示飢餓值/飽食度/消耗度資訊\n* 將飽食度與消耗度數值同步至客戶端。\n\n---\n\n### 其他\n歡迎將此模組加入任何你喜歡的模組包中。\n\n---\n\n### 在原版伺服器上使用\n\n連接到原版 Minecraft 伺服器時，可使用以下其中一個插件來讓飽食度/消耗度正常運作：\n\n- https://github.com/Siebrenvde/AppleSkinSpigot\n- https://github.com/jmattingley23/AppleSkinSpigot\n- https://www.curseforge.com/minecraft/bukkit-plugins/paperapple",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

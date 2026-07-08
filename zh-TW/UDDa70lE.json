@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Gyn1pJxwAAU=",
+  "content": "[![UShader 横幅](https://rre36.com/wp-content/uploads/2023/01/UShader-Banner-23-01.jpg)](https://youtu.be/XPqMHXbSd4M)\n\n## **什麼是 UShader？**\n這個光影包是重現我長期私用的一款 SEUS v10.1 修改版本。花了一些時間才成功比對出該 SEUS 版本的一些獨特外觀，但最終我還是找到了要領。\n請注意，由於新增了許多該版本不存在的效果（如體積雲和體積霧），此光影包在預設設定下**並不會**比 SEUS v10.1 表現更好。然而，搭配正確的設定，它能夠大幅超越 SEUS v10.1，同時呈現更出色的視覺效果。\n同樣重要的是，此光影包**並未**使用任何來自 SEUS v10.1 的程式碼。\n\n## **它提供哪些功能？**\n* 大氣天空\n* 體積霧\n* 體積雲\n* 動態陰影\n* 柔和陰影\n* 螢幕空間光線追蹤環境光遮蔽 (RTAO)\n* 水體體積\n* 維度支援\n* 風力效果\n* 時間性抗鋸齒與升頻 (TAAU)\n* 動態模糊\n* 泛光\n\n## **有任何需求嗎？**\n* 適用於 1.16 或更新版本的 Optifine / Iris 1.5.0 或更新版本\n* GTX 1050 / RX 560 或類似/更高階的顯示卡（必須支援 OpenGL 4.0）\n  * 一般建議使用更快的硬體\n* Windows / Linux\n* **由於重複的問題回報：不支援 Intel HD 5000 顯示晶片及更舊型號！**\n\n## **外部連結：**\n* 我的網站：[連結](https://rre36.com/vanilla-plus)\n* 我的 Discord 伺服器：[連結](https://discord.gg/y5xzQ6H)\n\n[![成為贊助者](https://rre36.com/wp-content/uploads/2023/05/Patreon_ForEmbed.png)](https://www.patreon.com/bePatron?u=19790203)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

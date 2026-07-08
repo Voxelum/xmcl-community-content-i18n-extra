@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0nsvtp+fDtE=",
+  "content": "<p>自从《招募》更新到1.13版本后，该模组便不再兼容《更优生物战斗》，且原模组已一年未获更新。<br><br>本非官方分支专注于修复此兼容性问题，同时也修复了《尸体》模组中特定实体攻击尸体时可能导致的严重崩溃循环问题。<br><br>- <span style=\"color:#f1c40f\">《招募》1.13.5以上版本</span> 现已可与此模组一同加载<br>- 招募单位的异步寻路机制不再引发问题<br>- 攻击行为略有调整，使近战招募单位的瞄准更精准<br>- <span style=\"color:#f1c40f\">《尸体》</span>模组中，当所属队伍的模组生物在战斗时意外击中尸体，不再导致崩溃<br><br>本分支仅适用于 <span style=\"color:#f1c40f\">Minecraft 1.20.1</span> 版及 <span style=\"color:#f1c40f\">Forge模组加载器</span>。由于兼容性问题仅在这些特定版本中存在，因此本分支暂不计划支持其他版本。<br><br>请使用 <span style=\"color:#f1c40f\">《更优战斗》1.8.6</span> 或更低版本，因为 <span style=\"color:#e03e2d\">1.9以上版本</span> 可能导致部分生物的动画出错。<br><br>如果你不在整合包中使用《招募》，请使用<a href=\"https://www.curseforge.com/minecraft/mc-mods/better-mob-combat\" target=\"_blank\" rel=\"nofollow\">原版《更优生物战斗》模组</a>。<br><br><span style=\"color:#2dc26b\">鸣谢：</span><br><span style=\"color:#f1c40f\">the_infamous_1</span> 原版《更优生物战斗》模组的创作者<br><span style=\"color:#f1c40f\">KaiserProger</span> 率先提出本分支中部分修复方案的人</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

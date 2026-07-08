@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Bi3sRfnkGfc=",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/cached_images/602462b0d99577d69077e524637e50af1235a2d5.png\" alt=\"­\"><br><br>\n<strong>Sethome</strong> 是一款功能強大的數據包（可選搭配模組），它為遊戲帶來了一套完整的 <code>/trigger home</code> 與 <code>/trigger sethome</code> 系統，全自動化、效能優化，且 100% 兼容原版遊戲。</p><p>透過基於 NBT 儲存的智能引擎、動態 UUID 偵測，以及基於標記點的傳送技術，Sethome 為單人與多人世界提供了一個快速、可靠且乾淨的傳送系統。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/671e8d295afa54a12627802b0df964ef42ca0753.png\" alt=\"­\"></p><h2>功能特色</h2><ul>\n<li><code>/trigger sethome</code></li>\n</ul><p>自動使用玩家的 UUID 儲存其位置</p><p>支援每位玩家無限個家</p><p>無需配置 — 立即生效</p><ul>\n<li><code>/trigger home</code></li>\n</ul><p>安全且精確地將玩家傳送至已儲存的家</p><p>使用臨時標記點確保準確定位</p><p>執行超快速，無延遲</p><h2>優化的全域儲存</h2><p>單一儲存包含所有玩家的家，非常適合伺服器使用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

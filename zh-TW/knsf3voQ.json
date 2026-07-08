@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EKE8py36N3o=",
+  "content": "![墓碑標題](https://raw.githubusercontent.com/n8-M4x/Gravestone-Mod/refs/heads/main/gravestone_title.png)\n\n## 墓碑模組\n\n此模組需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**生成一個保存您原版物品的墳墓。**\n**右鍵點擊墓碑方塊，您將打開物品欄，並可以輕鬆地將您的物品與墳墓中的物品交換。**\n\n![顯示您當前物品和已故玩家物品的墳墓介面畫面](https://github.com/n8-M4x/Gravestone-Mod/blob/main/screenshot_grave_1.png?raw=true)\n![通過按下按鈕與墳墓中的物品交換](https://github.com/n8-M4x/Gravestone-Mod/blob/main/screenshot_grave_2.png?raw=true)\n\n目前適用於原版大小的玩家物品欄，無論物品種類。\n\n適用於單人遊戲和伺服器，兩種環境都需要安裝此模組。\n\n運作方式：\n\n當玩家死亡時，無論是在單人遊戲還是多人遊戲中，他們的物品都會儲存在生成於死亡地點的墓碑方塊中。\n- 如果他們在虛空中死亡，他們的墳墓將位於最低可能的方塊位置\n- 如果他們在建築高度限制以上死亡，他們的墳墓將位於建築高度限制處\n\n墓碑具有防爆功能，但如果您挖掘它，內部的物品將會掉落。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

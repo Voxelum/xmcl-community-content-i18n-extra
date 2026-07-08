@@ -1,0 +1,6 @@
+{
+  "bodyHash": "v7iNHYh3bXI=",
+  "content": "注意：1.21.5+ 版本不需要任何外部模組；然而，1.21.5 之前的版本需要 CIT 支援，可在 Optifine 或 CIT Resewn 等模組中找到。\n\n# 說明\n此資源包旨在解決 Minecraft 的一個問題：難以區分具有不同屬性的物品。在這裡，我嘗試重新製作所有藥水，每種類型都有其獨特的形狀和紋理，為色盲玩家提供更輕鬆的遊戲體驗。此外，藥水還可以根據其延長持續時間和增強效果來區分。\n\n# 特色\n所有藥水都會根據其類型進行相應的改變：\n- 其形狀通常與其效果相關（例如：心形代表再生，月亮代表夜視）\n- 如果傾斜 45º，則為飛濺藥水\n- 如果傾斜 45º、沒有軟木塞且帶有粒子效果，則為滯留藥水\n- 紅色帶表示藥水中加入了紅石，其持續時間延長\n- 金色帶表示藥水中加入了螢光石，其效果增強\n\n![藥水 v1.0.2](https://cdn.modrinth.com/data/cached_images/2138079a9933b6cca0a5ea18f60275da743b6eea.png)\n\n# 問題或錯誤？\n### 加入我的 Discord！\n\n[shureee 的程式庫](https://discord.gg/79NavNqMrv)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

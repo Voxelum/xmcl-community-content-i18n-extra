@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+jHhf+1PZeY=",
+  "content": "<p>这是一个为了方便而集成到模组中的数据包。它将Iron's Spells & Spellbooks中的魔法生物添加到了Apotheosis的潜在入侵者池中。</p><h2>新增Boss列表：</h2><h3>主世界：</h3><ul>\n<li>死灵法师</li>\n<li>大唤魔者</li>\n<li>烈焰法师</li>\n<li>寒冰法师</li>\n<li>祭司</li>\n<li>猎魔卫道士</li>\n</ul><h3>下界：</h3><ul>\n<li>死灵法师（强化变种）</li>\n<li>要塞守护者（远古骑士）</li>\n</ul><h3>末地：</h3><ul>\n<li>猎魔卫道士（强化变种）</li>\n</ul><hr><h2>重要配置：</h2><p>在<code>config/apotheosis/apotheosis.cfg</code>中，你需要设置<code>B:\"Boss Glowing On Spawn\"=false</code>。</p><p>如果不这样做，魔法生物将会在没有材质的情况下生成（仍在尝试寻找解决方法，而不需要为所有入侵者禁用发光效果）。</p><hr><h2>鸣谢：</h2><ul>\n<li>Logo边框由<a href=\"/linkout?remoteUrl=https%253a%252f%252fbuiltbybit.com%252fcreators%252fellie.39891\" target=\"_blank\" rel=\"nofollow\">Ellie</a>制作</li>\n<li>大唤魔者材质由<a href=\"https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks\" target=\"_blank\" rel=\"nofollow\">Iron</a>提供</li>\n<li>Apotheosis Logo由<a href=\"https://www.curseforge.com/minecraft/mc-mods/apotheosis\" target=\"_blank\" rel=\"nofollow\">Shadow</a>设计</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

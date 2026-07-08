@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SjOO2sojOig=",
+  "content": "# Acedium Sodiumized\n\nAcedium Sodiumized 是 Acedium 的一个非官方 NeoForge 1.21.1 分支，已更新至 Sodium 0.6.x 和 Sodium 0.8.12-beta.1。\n\n它用专用 Nvidium 风格的 NVIDIA 渲染器替代了 Sodium 的默认地形渲染器。这可以在高渲染距离或地形密集场景中提升性能，但如果地形渲染不是当前场景的瓶颈，则可能没有帮助。\n\n## 需求\n\n- Minecraft 1.21.1\n- NeoForge 21.1.x\n- Sodium 0.6.x（用于 0.3.x 版本）或 Sodium 0.8.12-beta.1+（用于 0.4.x alpha 版本）\n- **NVIDIA GTX 1600 系列或更新型号**\n\n不支持 AMD、Intel 和旧款 NVIDIA 显卡等未兼容 GPU。在这种情况下，模组将保持非活跃状态，并使用 Sodium 的正常渲染器。\n\n## 限制\n\n- Iris 光影包会禁用自定义渲染器。这是预期行为。\n- 兼容性可能不如标准 Sodium，因为本模组替换了 Sodium 的地形渲染器，并依赖于较少使用的 NVIDIA OpenGL 扩展。\n- 目前仅针对 NeoForge 1.21.1。\n\n## 当前已知模组不兼容\n- Shine（[0]）\n\n## 支持\n\n如果某些功能出现问题，欢迎在 GitHub 上提交 issue。我会尝试复现并修复。您也完全可以请求新功能或兼容性支持。\n\n## 致谢\n\n本项目是非官方的，与原始 Acedium 或 Nvidium 作者无关。\n\n- 本分支：https://github.com/viktorr245/acedium-sodiumized\n- 原始 Acedium 分支：https://github.com/ferriarnus/acedium\n- 原始 Nvidium 项目：https://github.com/MCRcortex/nvidium",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

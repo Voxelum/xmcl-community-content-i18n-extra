@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ky0aEzaMzyM=",
+  "content": "本项目是\"[Haven Ex Deorum Expansion](https://www.curseforge.com/minecraft/mc-mods/haven-ex-deorum-expansion)\"的一个分支，为\"[Ex Deorum](https://modrinth.com/mod/ex-deorum)\"增加内容。**/!\\ 如果将此模组替换\"Haven Ex Deorum Expansion\"，你的方块将被删除，并且需要删除旧的配置文件 /!\\**\n\n# 自1.0.0版本起：\n- 更新了依赖项（Ex Deorum、Jade、JEI）\n- 更新至Forge版本（47.4.0）\n- 清理了部分代码片段\n- 修改了部分纹理（机器颜色更鲜艳）\n- 修复了机器被破坏时的粒子问题\n\n# 计划中/进行中：\n- 新增铜质机器等级（位于铁质之下）\n- 重新调整了机器速度计算方式\n- 添加机器处理速度的悬浮提示\n- 修复了JEI配方未在机器中显示的问题\n- 更新了配置文件（及描述）的处理方式\n\n# 想法（可能不会添加）：\n- 新等级，例如下界之星？\n- 与其他模组兼容的新等级（例如热力模组中的末影合金）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

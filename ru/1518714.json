@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YIULSymFi+M=",
+  "content": "<p style=\"text-align:center\"><span style=\"color:#e03e2d\"><strong>ЭТот мод устарел. Используйте просто оригинальный мод!</strong></span></p><p>&nbsp;&nbsp;</p><p>Исправлена проблема с модами Create Aeronautics и Big Cannons.</p><p>При загрузке Simulated мод Create Aeronautics перезаписывает Rotation Propagation и делает возвращаемый список неизменяемым, что приводит к сбою игры. Этот мод исправляет эту ошибку, изменяя возвращаемый список метода на изменяемый.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

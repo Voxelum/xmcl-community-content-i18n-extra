@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dd+SXsmR9ck=",
+  "content": "此模组添加了一些高级矿工，并支持附魔功能。\n它能自动采集资源，并可使用精准采集或时运附魔。\n抽水Plus配合泵升级模块或泵模块可以自动清除流体。更高级的机器\"区块破坏者\"无需任何设置即可清除流体。（Fabric版本更简洁，机器无需特殊设置即可清除流体）\n\n机器可接受EU和Forge Energy两种能量。部分版本（1.19.2）还可以接受来自IC2 classic的EU能量。\n\n本模组在所有平台均需安装 [Scalable Cat's Force](https://modrinth.com/mod/scalable-cats-force)。\nFabric ~1.20.x 版本还需要 [Cloth Config](https://modrinth.com/mod/cloth-config)。\n\n[Curse Forge 页面链接](https://www.curseforge.com/minecraft/mc-mods/additional-enchanted-miner)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

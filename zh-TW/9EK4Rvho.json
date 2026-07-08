@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lSsdhh0/tBQ=",
+  "content": "是否曾夢想擁有無限的創意模式快捷欄儲存空間？這個模組讓夢想成真！\n\n**無限快捷欄**模組將創意模式快捷欄擴展至無限。每當你在最後一行放置物品時，新的一行會自動出現，提供無盡的儲存空間。\n\n**運作方式：**\n- 手持物品點擊欄位以新增物品。\n- 按住 **Ctrl** 並點擊欄位以覆蓋原有物品。\n- 按住 **Ctrl** 點擊欄位可清空該欄位。\n\n資料儲存於 `.minecraft/hotbar_extended.nbt`\n\n![展示](https://cdn.modrinth.com/data/9EK4Rvho/images/e39d1239516d3d7cedded363fc4a0e8976ccf3d9.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

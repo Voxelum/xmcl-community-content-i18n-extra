@@ -1,0 +1,6 @@
+{
+  "bodyHash": "W2t7GNP38WA=",
+  "content": "# 封包修復器\n#### 造訪我的 Discord 伺服器：[連結](https://discord.com/invite/vWBP4P4Yd8)\n\n## 描述\n此模組增加封包大小以防止各種封包錯誤。此模組可用於模組包中，以增加模組數量。\n\n### 客戶端和伺服器端皆需安裝此模組。\n\n### 預防以下問題：\n - 嘗試讀取過大的 NBT 標籤；嘗試分配：X 位元組，但最大值為：2097152\n - 壓縮不良的封包 - X 的大小大於 2097152 的協議最大值\n - 嘗試發送超出協議最大大小的封包：8388608\n - 區塊封包在讀取時嘗試分配過多記憶體\n - 封包過大（大小為 X，應小於 8388608）\n - 負載不得大於 1048576 位元組\n - 負載不得大於 32767 位元組\n - 封包過大：大小 X 超過 8\n - 長度超過 21 位元\n - 無法將 X 放入 3\n - 連線超時\n - VarLong 過大\n - VarInt 過大\n\n配方、標籤及其他問題請嘗試 [Recipe Fixer](https://modrinth.com/mod/recipe-fixer)\n\n### 歡迎將此模組用於您的模組包中",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

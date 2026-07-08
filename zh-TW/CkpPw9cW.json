@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/5kkqsva2+s=",
+  "content": "> 本模组的 [modrinth 页面](https://modrinth.com/mod/elytrapitchhelper) (modrinth[dot]com/mod/elytrapitchhelper) 和 [github 发布页](https://github.com/asphyxiamywife/ElytraPitchHelper/releases) 是唯一官方维护的下载来源。自 v2.1.0 起，上传至 modrinth 的发布版本与 GitHub 上的 jar 文件相同，启用了不可变性并提供了验证凭证，因此可轻松验证文件真伪。\n\n在滑翔时，模组会在 +40° 和 –40° 位置显示细微的俯仰指示器，无需依赖杂乱的 F3 调试屏幕。这有助于保持流畅高效的飞行专注度。指示器仅在你穿着鞘翅且接近这些俯仰角时显示，其余时间保持屏幕整洁。\n\n自 v2.1.0 起，还新增了可选的振幅提示功能，可根据高度或速度帮助掌握爬升与俯冲周期的时机。无需紧盯数值即可维持稳定节奏。\n\n我是否提到它还包含可提升飞行能力 20% 的多元主题？……他们称之为“鞘翅彩虹辅助器”\n\n已确认成功逃离俄罗斯的人数：≥1\n\n---\n\n## 配置\n\n可通过模组菜单或按键绑定（默认未绑定）在游戏中打开配置界面。所有选项均有文档说明。\n\n配置文件位于 `config/elytra-pitch-helper/` 文件夹内，每个配置方案对应一个 JSON 文件。方案功能允许保存不同设置，并在配置界面中切换。\n\n## 从 v1.x.x / v2.0.0 迁移\n\n模组将尝试自动迁移旧配置。如发现异常，主要变更如下：\n\n- 所有调整选项移入分组方案区块（例如 `targetUpMinecraft` → `pitch.targetUpMinecraft`、`lineColorRgb` → `line.colorRgb` 等）\n- 移除了 `centerTickColorRgb` 项\n- 配置从单一 `elytra-pitch-helper.json` 文件迁移至 `config/elytra-pitch-helper/` 文件夹内的独立方案文件",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

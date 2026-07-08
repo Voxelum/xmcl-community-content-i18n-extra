@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0GgFr/JC3Do=",
+  "content": "一個用於試玩 [Trickster](https://modrinth.com/mod/trickster)，或作為基礎來製作屬於你自己的 Trickster 整合包的模組包。\n\n## 版本\nFabric 版本推薦用於試玩 Trickster。NeoForge 版本僅作為展示 Trickster 及附加模組可搭配 [Sinytra Connector](https://modrinth.com/mod/connector) 運作的範例。**NeoForge 版本使用了 owolib 的[分支](https://github.com/Master-Bw3/owo-lib)！請勿將問題回報給 Wisp Forest！**\n\n基本上，如果你想在 Trickster 旁邊執行 NeoForge 模組，可以使用整合包的 NeoForge 版本，或搭配 [Kilt](https://modrinth.com/mod/kilt) 使用 Fabric 版本。\n\n## 缺少的附加模組與整合\n- [Sibyl](https://github.com/Master-Bw3/Sibyl)：個人沒有特別偏愛。對新手玩家來說可能也會感到困惑。但如果你想要在法術螢幕中有自動完成功能，我會推薦它！\n- [Trickster Lisp](https://modrinth.com/mod/trickster-lisp)：我認為它不太適合 Trickster。不過，如果你偏好用更傳統的方式撰寫法術，它可能適合你。\n- [Random Acess Minds](https://modrinth.com/mod/random-access-mind)：不適用於最新版本的 Trickster。請改用搭配地圖的 Crowmind。\n- [Trickster Math](https://modrinth.com/mod/trickster-math-tricks)：不支援最新版本的 Trickster。\n\n我會盡力確保它始終與最新版本的 [Trickster](https://modrinth.com/mod/trickster) 及附加模組保持同步！\n\n如對 Trickster 有疑問，請查閱指南書（[線上版本](https://trickster.ing/)）、在 [Discord](https://discord.gg/WcYsDDQtyR) 提問，或在[論壇](https://forum.trickster.ing/)發文。\n（若是與此整合包相關的特定問題，歡迎在整合包的[論壇文章](https://forum.trickster.ing/viewtopic.php?t=28)中留下問題或回覆。）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

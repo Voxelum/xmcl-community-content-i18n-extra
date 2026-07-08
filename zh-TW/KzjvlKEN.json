@@ -1,0 +1,6 @@
+{
+  "bodyHash": "G5uYH/hWPHs=",
+  "content": "# 什麼是 GooeyLibs？\n\nGooeyLibs 是一個伺服器端的 UI 函式庫，允許為 Forge 和 Fabric 創建可互動的畫面。GooeyLibs 不提供預設的互動功能，而是作為一個通用的 API，供插件與之協同工作。\n\n# 設計能力\nGooeyLibs 遵循建構者模式來創建遊戲內的畫面。此外，GooeyLibs 還允許使用者在選單中創建頁面。當 UI 的元素超出可見範圍時，頁面特別有用，讓你可以擁有分頁檢視！\n\n要了解更多關於 GooeyLibs API 的資訊，請參閱以下維基：https://github.com/landonjw/GooeyLibs/wiki\n\n# 在你的專案中使用 GooeyLibs\n\n使用 GooeyLibs 時，有幾點需要注意。GooeyLibs 提供了一個預設的 API 層，大多數插件在導入 GooeyLibs 時應使用此層。如果你想從 IDE 除錯模組，你還需要包含 GooeyLibs 的啟動器組件。\n\n### 儲存庫\n```\nrepositories {\n    maven(\"https://maven.impactdev.net/repository/development/\")\n}\n```\n\n### 依賴項\n```\ndependencies {\n    modImplementation(\"ca.landonjw.gooeylibs:api:3.0.0-1.20.1-SNAPSHOT\")\n\n    // 使用 forge 時\n    modRuntimeOnly(\"ca.landonjw.gooeylibs:forge:3.0.0-1.20.1-SNAPSHOT\")\n\n    // 使用 fabric 時\n    modRuntimeOnly(\"ca.landonjw.gooeylibs:fabric:3.0.0-1.20.1-SNAPSHOT\")\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

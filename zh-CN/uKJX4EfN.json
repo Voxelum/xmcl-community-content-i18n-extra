@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hr5+PLSBHsQ=",
+  "content": "# Mekanism饰品扩展\n\n**Mekanism饰品扩展**是一个简单的附加模组，它将[Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)的物品（目前只有一个）引入[Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)的饰品槽位系统。\n\n## 功能特性\n- **QIO槽位:** 允许绑定快捷键来使用便携式QIO设备。默认快捷键：Y\n- **传送器槽位:** 同上功能，适用于便携式传送器。默认快捷键：U\n- **快速传送:** 直接使用便携式传送器进行传送。默认快捷键：I\n\n### 欢迎在您的整合包中使用本模组",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

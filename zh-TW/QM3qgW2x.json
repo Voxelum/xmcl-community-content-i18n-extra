@@ -1,0 +1,6 @@
+{
+  "bodyHash": "343e/X+JmKw=",
+  "content": "# 殺蟲劑\n\n一個將 CICADA 替換為無害版本的模組\n\n## 什麼是 [CICADA](https://modrinth.com/mod/cicada)\n\nCICADA 是由 enjarai 編寫的模組，其大部分程式碼是**數位垃圾**\n\n它會在控制台大量輸出如 `[cicada] 哈囉，有人在嗎？` 的訊息\n\n它會用**醜陋**的紋理修改玩家的披風和鞘翅\n\n**而殺蟲劑將其替換為無害的程式碼**\n\n## 這個模組的功能\n\n這是 CICADA 的分支版本，是一個函式庫模組，包含 enjarai 許多模組中使用的通用工具和常見抽象層\n\n殺蟲劑的部分功能：\n\n* 獨立於世界環境的玩家渲染\n* 自訂披風渲染器\n* 基於 GSON 的自主管理模組配置模板類別\n* 抽象混入插件以促進相容性混入",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

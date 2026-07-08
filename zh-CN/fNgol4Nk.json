@@ -1,0 +1,6 @@
+{
+  "bodyHash": "APgkLpu/eJE=",
+  "content": "## 描述\n本模组为开发者提供了一套全新的生物战斗行为库，包含自定义生物耐力、生物防御能力、行为中断、时间事件等功能。此外，模组还为玩家增加了处决能力：当目标被击溃时，按下处决键即可处决目标。您还可以注册自己的处决图标和处决类型。\n\n## 数据包支持\n本模组还增加了数据包生物支持。示例可查看GitHub。\n### 英文文档\nCombatEvolution/datapack_English_Document.json at master · ShelMarow/CombatEvolution\n### 中文说明\nCombatEvolution/datapack数据包全参数说明.json at master · ShelMarow/CombatEvolution\n\n### Discord频道：\nhttps://discord.gg/EVb5tPqdZ\n\n## 由CombatEvolution制作的Boss\n![Arterius](https://cdn.modrinth.com/data/cached_images/d14172a4f90aa1a6f4f8b4a545ab7ab9a5e8ed63.png)\n\n![ScarletHunter](https://cdn.modrinth.com/data/cached_images/b5037976165563cb47e982978c42915c1f687e0f.png)\n\n## 其他信息\n在未来的更新中，其他功能将持续完善。如果您有任何建议，欢迎在评论区留言。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

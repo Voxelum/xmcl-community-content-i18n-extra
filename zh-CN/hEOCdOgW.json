@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YjREctekIGU=",
+  "content": "## 维护状态\n\n由于时间和资源有限，Phosphor 目前未进行维护。自 Minecraft 1.20 版本以来，游戏的光照引擎有了显著改进，Phosphor 的大部分补丁已不再适用或有用。（[了解更多]([https://github.com/CaffeineMC/phosphor-fabric/issues/95#issuecomment-1605802300](https://github.com/CaffeineMC/phosphor-fabric/issues/95#issuecomment-1605802300)）\n\n您可能还会对我们的其他模组感兴趣，[Sodium](https://modrinth.com/mod/sodium) 和 [Lithium](https://modrinth.com/mod/lithium)。\n\n---\n\n（此页面继续保留历史记录。）\n\nPhosphor 是一个 Minecraft 模组，旨在优化游戏中效率最低的部分——光照引擎。它在客户端和服务器端均可运行，并且可以在服务器上安装，而无需客户端也安装该模组。\n\n<br>\n\n通过 Phosphor，游戏生成新区块所需的时间可以大大减少，您会发现由加载区块引起的客户端帧卡顿现象也会消失。\n\n<br>\n\n这是一个无妥协的性能提升解决方案，适用于单人游戏或大型多人服务器，并且不会改变原版游戏的任何特性或行为。事实上，我们坚持不改变原版游戏行为的做法甚至使得该模组被允许用于 [Minecraft 速通](https://www.speedrun.com/mc)。\n\n<br>\n\n## 安装\n\n确保您已安装最新版本的 Fabric Loader，然后将模组放入您的 mods 文件夹中。无需其他模组或额外设置（甚至不需要 Fabric API！）。您无需创建新世界即可享受该模组带来的优势。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

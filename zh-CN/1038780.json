@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yyFQWua2A30=",
+  "content": "<p>ARLib 1.21.1 包含：</p><ul>\n<li>多方块结构的逻辑</li>\n<li>配方管理/从XML加载的逻辑</li>\n<li>简单的模块化图形界面</li>\n<li>基于NBT网络的简单网络接口</li>\n<li>用于BlockEntity渲染器的.obj模型加载器</li>\n<li>一些着色器覆盖，用于修补NormalMat和UVOffset统一变量</li>\n</ul><p>&nbsp;</p><p>1.12.2 仓库：<a href=\"https://github.com/dercodeKoenig/libVulpes-fork2\" rel=\"nofollow\">dercodeKoenig/libVulpes-fork2</a></p><p>1.21.1 仓库：<a href=\"https://github.com/dercodeKoenig/aos_mods/\" rel=\"nofollow\">dercodeKoenig/ARLib-neoforge-1.21</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

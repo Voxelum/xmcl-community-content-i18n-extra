@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D5/NNWLM4sA=",
+  "content": "这个模组旨在提供Sable与WorldEdit之间的兼容性。\n> 仍在开发中，请做好出现严重问题的准备！\n\n## 当前功能：\n- 禁止玩家在不同子层级或主世界之间进行选区操作\n- 玩家的位置和朝向将相对于当前选中的子层级\n- 可选的WorldEdit CUI支持（若客户端已安装）\n- //assemble指令用于组装当前WorldEdit选区",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

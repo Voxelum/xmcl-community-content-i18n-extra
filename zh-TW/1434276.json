@@ -1,0 +1,6 @@
+{
+  "bodyHash": "78ClbXB4ghk=",
+  "content": "<p><strong>你需要 Epic Fight 作為前置模組。</strong></p><p><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod\" target=\"_blank\" rel=\"nofollow\">Epic Fight - Minecraft 模組 - CurseForge</a></strong></p><p><strong>變更 / 更新</strong></p>\n<ul>\n<li>大部分動畫現在更加流暢。</li>\n<li>所有武器的連擊鏈已增加至 5 次攻擊。</li>\n<li>新增武器：鐮刀。</li>\n</ul>\n<p><strong>未來計畫</strong></p>\n<ul>\n<li>新增更多武器。</li>\n<li>新增更多怪物行為。</li>\n</ul>\n<p><strong>給開發者：</strong></p>\n<pre><code>repositories {\n\n    exclusiveContent {\n        forRepository { maven { name = \"Modrinth\"; url = \"<a href=\"/linkout?remoteUrl=https%253a%252f%252fapi.modrinth.com%252fmaven\" target=\"_blank\" rel=\"nofollow\">https://api.modrinth.com/maven</a>\" } }\n        forRepositories(fg.repository)\n        filter { includeGroup \"maven.modrinth\" }\n    }\n\n}\n\ndependencies {\n    implementation fg.deobf(\"maven.modrinth:epicfight-extra:1.1.4-mc1.20.1-forge\")\n}</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

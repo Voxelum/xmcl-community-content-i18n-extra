@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MjFvySfJMXU=",
+  "content": "<p>此模組增加了 PlayerRevive、TaCZ 和 SuperbWarfare 模組之間的相容性，確保在使用這些模組的先進戰鬥系統時，玩家復活機制能正常運作。\n此外，本次更新修復了多個碰撞箱問題，提升了不同玩家狀態下傷害偵測的準確性與一致性。\n同時也新增了一項機制：當玩家倒下（因墜落或失去戰鬥能力）時，其武器將暫時被禁用，在玩家被復活前無法進行任何射擊。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

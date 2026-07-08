@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ee8kF6tLSt4=",
+  "content": "# 精準鐵砧工藝\n\n[![模組持續整合](https://github.com/theabab23333/JustEnoughAnvilCraft/actions/workflows/ci.yml/badge.svg)](https://github.com/theabab23333/JustEnoughAnvilCraft/actions/workflows/ci.yml)  \n[![拉取請求檢查](https://github.com/theabab23333/JustEnoughAnvilCraft/actions/workflows/pull_request.yml/badge.svg)](https://github.com/theabab23333/JustEnoughAnvilCraft/actions/workflows/pull_request.yml)\n\n## 精準鐵砧工藝是針對[鐵砧工藝](https://github.com/AnvilCraft/AnvilCraft)的擴充模組，旨在強化鐵砧工藝在JEI中的顯示效果\n\n> 原版配方在JEI中的不足之處：\n- 涉及方塊的配方中，無法查看輸入/輸出方塊的合成配方或用途（僅有工具提示）\n- 僅涉及方塊的配方無法加入書籤或設為預設配方（僅有隱藏輸入/輸出或未標註任何內容）\n- 涉及大鍋的配方中，無法查看鍋內流體輸入/輸出的合成方式或用途（流體完全未加入輸入/輸出列表）\n- ...（持續補充中）\n\n> 本擴充模組的功能：\n* 混入原版模組的多數配方分類\n* 若存在輸入或輸出方塊，會在配方左右側以物品形式添加這些方塊（允許查看合成配方或用途）\n* 允許僅涉及方塊的配方加入書籤\n* 在涉及大鍋的配方中，將鍋內所需或產出的流體添加至左右側\n* ...（持續開發中）\n\n## 注意事項\n* 本擴充模組仍在開發階段，且始終使用未正式發布的鐵砧工藝建構版本（1.5.+），這意味著使用時應盡量配合這些未發布版本\n* 待鐵砧工藝發布新的穩定版本後，開發將轉向使用新版穩定版本\n* 簡而言之，本模組仍在開發中，且原版模組的配方重構問題尚未完全解決，因此本擴充模組可能存在諸多問題\n* 技術上，本擴充模組除原版模組外需配合JEI使用，但依賴項中未強制標註JEI，因此未安裝JEI時遊戲仍可運行，但可能產生的問題尚未經過測試",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

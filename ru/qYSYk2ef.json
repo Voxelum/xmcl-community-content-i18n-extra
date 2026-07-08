@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TB0NqnfAeFs=",
+  "content": "Добавляет блуждающего риббита — маленькую лягушку, с которой можно обменять предметы по выгодной цене.\n\nОбмены:\n\n- «Карта риббита»: если нажать на неё правой кнопкой мыши, вы получите карту, которая приведёт вас к ближайшей деревне риббитов.\n- «Лист зонтика»: используйте его, чтобы защититься от дождя или при падении.\n\nЕсли у вас есть какие-либо идеи, напишите их в комментариях.\n\n## Конфигурация\n\nВ обновлении 3.0 теперь можно настроить коэффициент спавна блуждающих риббитов. Файл конфигурации находится в папке config внутри папки .minecraft.\n\nЗависимости:\n\n- Ribbits: https://www.curseforge.com/minecraft/mc-mods/ribbits\n- GeckoLib: https://www.curseforge.com/minecraft/mc-mods/geckolib\n- YUNG's API: https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge\n\nБлагодарности:\nАвторы оригинального мода Ribbits:\n- Josh/Joosh — графика\n- yungnickyoung — программирование\n- HellionGames — программирование\n- scratchy_sd — звуки\n- wesleybenjamin — музыка\n- joakota — моделирование\n- joshesque — логотип\n\nКроме того, этот мод совместим с моим другим модом [Barri´s Botany](https://modrinth.com/mod/barris-botany), добавляя новый обмен.\n\nЭтот мод был создан в MCreator.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

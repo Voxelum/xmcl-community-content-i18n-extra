@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lbKTzg5Snv8=",
+  "content": "# Мод HUD-Компас\n\nПростой HUD-компас в стиле RPG для Minecraft (Fabric).\n\n<div align=\"center\"><img src=\"https://github.com/CaioFTNT/HudCompassMod/blob/main/assets/Compass.png?raw=true\" alt=\"Иконка компаса\"></div>\n\n## Как это работает\n\nПо умолчанию компас отображает 8 основных направлений и ваше последнее место гибели.\n\nТакже он поддерживает пользовательские булавки — просто используйте Лодестоновые компасы из инвентаря.\n\nКроме того, вы можете хранить компасы в связке, переименованной в «Связку компасов», чтобы сохранить порядок в инвентаре.\n\nЧтобы добавить цвет булавкам, поместите компас внутрь окрашенной связки (лучшего способа я придумать не смог).\n\n## Есть предложения или проблемы? Расскажите мне!\n\n[Страница с проблемами на GitHub](https://github.com/CaioFTNT/HudCompassMod/issues)\n\n## Скриншоты\n\n<div align=\"center\"><img src=\"https://github.com/CaioFTNT/HudCompassMod/blob/main/assets/Screenshot1.png?raw=true\" alt=\"Скриншот 1\"></div>\n\n<div align=\"center\"><img src=\"https://github.com/CaioFTNT/HudCompassMod/blob/main/assets/Screenshot2.png?raw=true\" alt=\"Скриншот 2\"></div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Akz/iHfGLgg=",
+  "content": "Yukami 的精密背包標籤是一個客戶端模組，可在你的物品欄和其他 GUI 中新增背包標籤，以便更輕鬆地存取。\n\n需要 [Sophisticated Backpack](https://modrinth.com/mod/sophisticated-backpacks) 和 [Sophisticated Core](https://modrinth.com/mod/sophisticated-core)。目前支援的版本是 1.21.1 Neoforge，1.20.1 和 1.21.8 因時間不足而停止支援。不好意思啦 :(\n\n# 功能\n\n*   在任何 GUI 與你裝備的背包之間輕鬆切換，再也不必為了拿取忘記放的物品而不斷關閉和打開背包\n*   幾乎適用於所有具有介面的方塊，若無法運作則支援自訂設定\n*   可在分頁之間無縫轉移物品\n*   使用設定檔更改標籤的位置，並在開啟任何 GUI 時按下編輯按鍵（預設為 F9）來自訂該 GUI 的標籤偏移量\n*   設定檔名稱為 yukamibackpacktab-client.toml，若有問題請在留言區或我的 GitHub 儲存庫上提交錯誤回報。\n\n![](https://media.forgecdn.net/attachments/description/null/description_f3e5e325-3848-42e7-9057-e4de465264dc.gif)\n\n![](https://media.forgecdn.net/attachments/description/1343253/description_81f7d9a5-2647-48df-9470-d8cf52523d0d.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

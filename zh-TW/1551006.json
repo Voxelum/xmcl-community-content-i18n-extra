@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BRhZPF5J/LY=",
+  "content": "<h1>xiaozi core</h1><p>一款輕量級的記憶體監控與崩潰預防模組，適用於 Minecraft Fabric。</p><h2>功能特色</h2><ul>\n<li>即時記憶體監控（每 2 秒檢測一次）</li>\n<li>分級警告（75% 黃色 / 85% 橘色 / 95% 紅色）</li>\n<li>HUD 頂部警告條</li>\n<li>聊天通知</li>\n<li>緊急自動存檔</li>\n<li>強制退出保護</li>\n</ul><h2>🛠️ 安裝方式</h2><ol>\n<li>安裝 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252fuse%252f\" target=\"_blank\" rel=\"nofollow\">Fabric Loader</a></li>\n<li>下載對應版本的 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n<li>將 <code>.jar</code> 檔案放入 <code>.minecraft/mods</code> 資料夾</li>\n<li>啟動遊戲</li>\n</ol><h2>⚙️ 設定選項</h2><p>首次啟動後，設定檔會生成於 <code>config/xiaozi_core.json</code>：</p><p>```json\n{\n  \"checkIntervalSeconds\": 2,        // 檢測間隔（秒）\n  \"warningThresholdPercent\": 75,    // 警告閾值（%）\n  \"criticalThresholdPercent\": 85,   // 嚴重閾值（%）\n  \"emergencyThresholdPercent\": 95,  // 緊急閾值（%）\n  \"emergencyCountdownSeconds\": 10,  // 緊急倒數（秒）\n  \"autoSaveOnEmergency\": true,      // 緊急時自動存檔\n  \"showHudWarning\": true,           // 顯示 HUD 警告條\n  \"showChatWarning\": true,          // 顯示聊天警告\n  \"debugLogging\": false             // 除錯日誌\n}</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

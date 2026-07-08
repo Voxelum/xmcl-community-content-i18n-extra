@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lpdqyuIwfTY=",
+  "content": "![OneConfig_banner_wide](https://user-images.githubusercontent.com/62163840/226811571-ffe7a524-c96a-4b6e-9ca9-d29439f5174f.png)\n\n# OneConfig\n<img src=\"https://wsrv.nl/?url=https%3A%2F%2Fpolyfrost.org%2Fimg%2Fcompact_vector.svg&n=-1&w=1000\" width=56 />\n\n模組化 Minecraft 一直以來都很困難，尤其是設定配置這方面。要記住所有的按鍵綁定、指令，實在是不夠直觀。\n\nOneConfig 將客戶端的簡潔性帶給一般使用者，同時讓進階使用者與開發者能夠完全掌控一切，而且完全免費且開源。\n\nOneConfig 會自動掃描你的模組資料夾，並將其整合到我們的使用者介面中，這代表著所有模組，即使不是為此設計的，也能支援 OneConfig。\n\n雖然 OneConfig 看起來像是一個客戶端，但實際上它是一個獨立的模組。你可以親眼看看，它本身沒有附帶任何模組。使用哪些模組完全由使用者自行決定。\n\n## 連結與支援\n* 遇到錯誤了嗎？[回報問題](https://github.com/Polyfrost/OneConfig/issues/new?assignees=&labels=bug&template=bug_report.yml)\n* 服務中斷？[查看 Polyfrost 服務狀態](https://status.polyfrost.cc/)\n* 想交流嗎？[加入我們的 Discord 社群](https://polyfrost.cc/discord)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

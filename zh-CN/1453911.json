@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1AMQPG8StTM=",
+  "content": "<p><span style=\"font-size:18px\">这是一个针对&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/voidscape\" rel=\"nofollow\">虚空领域</a>&nbsp;和&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/boss-checklist\" rel=\"nofollow\">Boss清单</a>&nbsp;的附属模组，它将前者的强化版虚空侍从Boss以及堕落侍从整合到后者的Boss清单界面中作为条目。</span></p><p>&nbsp;</p><p><span style=\"font-size:14px\"><strong>\"你是如何实现这一点的？三个虚空侍从Boss都是同一个生物，但属性不同！\"</strong></span></p><p><span style=\"font-size:14px\">首先，本模组添加了虚假的、不可生成的替身实体，作为Boss清单条目的基础。当具有正确属性的虚空侍从死亡时，Boss条目会自动标记为已击败，并对应匹配的条目。</span></p><p>&nbsp;</p><p><span style=\"font-size:14px\"><strong>\"为什么不把这个功能打包到你其他Boss清单附属模组中？\"</strong></span></p><p><span style=\"font-size:14px\">本模组使用了模组自身添加的上述虚假实体。因此，无论你是否实际安装了虚空领域模组，虚空侍从Boss的条目都会显示。你不想看到一个整合包中，玩家们好奇地四处寻找这些Boss，结果后来才发现他们根本没安装理应支持这些Boss的模组吧。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

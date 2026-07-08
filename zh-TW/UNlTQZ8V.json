@@ -1,0 +1,6 @@
+{
+  "bodyHash": "phkB0IAaSG8=",
+  "content": "這個資料包/伺服器端模組擴展了關於伏聆與獄守的遊戲玩法。\n\n### 獄守\n\n獄守現在會在行走時於地面擴散適量的伏聆方塊，有時甚至會生成伏聆感測器及啟動中的伏聆尖嘯器。若您試圖限制獄守行動或將其帶至地表，請務必小心！\n\n此外，獄守現在在水中游泳速度更快且不會溺水。請注意，這將使依賴溺水機制的獄守農場失效。\n\n### 復原指南針\n\n復原指南針持有時新增一項功能：每2秒會散發指向32格內最近生物或玩家的靈魂粒子。\n\n### 遊戲機制\n\n- 伏聆脈絡現可攀爬，使遠古城市的探索更加有趣。請注意，由於「可攀爬」標籤的運作機制，行走於地面的伏聆脈絡上會減緩移動速度。\n- 伏聆方塊、伏聆催化劑與強化深板岩點燃後會永久燃燒靈魂之火，非常適合建築裝飾！\n\n### 合成配方\n\n新增四種合成配方：\n- 可將四個伏聆脈絡合成一個伏聆方塊，反之亦然。\n- 可透過煙燻將一個伏聆方塊分解為一個伏聆脈絡與部分經驗值，提供無需手動或鋤頭破壞的自動化經驗提取方式。\n- 可用八個伏聆方塊與一個玻璃瓶合成經驗瓶，無需依靠村民交易即可儲存經驗。\n\n### 致謝與授權\n\n感謝 Stardust Labs Discord 的 `rennen_rig` 實作獄守伏聆擴散功能。\n\n只要標註我與 rennen 的貢獻且不用於營利，您可以隨意使用或修改此資料包。\n\n### 相關推薦\n\n歡迎查看我的[更多化石](https://modrinth.com/datapack/more-fossils)模組，該模組在世界地底新增化石生成，並提高深黯域中的發現機率。\n\nYouTube 展示影片：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qgT-TrJQogs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

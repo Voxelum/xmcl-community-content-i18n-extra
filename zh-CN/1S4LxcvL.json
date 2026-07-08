@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hTwHHRQ5pAQ=",
+  "content": "使火把花（1.20 版本中的新花）在黑暗中发光\n\n在服务器和客户端同时安装效果更佳\n\n![screenshot.png](https://raw.githubusercontent.com/NikitaCartes/Glowing-Torchflower/fabric-1.20.3%2B/screenshot.png)\n\n也来看看我的 [发光眼花](https://modrinth.com/mod/glowing-eyeblossom) 模组吧！\n\n### 光照等级\n- 火把花: 12\n- 盆栽火把花: 14\n- 火把花作物，小: 3\n- 火把花作物，中: 7\n- 火把花作物，大: 12\n\n### 配置\n你可以在配置文件中更改眼花的光照等级。  \n配置文件位于 `<游戏目录>/config/GlowingTorchflower/main.conf`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

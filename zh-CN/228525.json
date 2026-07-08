@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YfExp9Qv1xo=",
+  "content": "<p>书架是一款旨在提升《我的世界》模组创建与维护体验的库模组。它集成了多年来我整理的大量代码、框架、实用工具及其他资源。这款书架库模组已获得数百万玩家信赖，并被超过42,000个项目采用！</p><h2>为何使用库模组？</h2><p>像书架这样的库模组为玩家和模组开发者带来了诸多优势。最大的好处在于，它们能让看似无关的模组共享部分底层代码，从而减少开发某些模组或功能所需的时间。此外，库模组经过广泛场景和玩家社群的测试，有助于减少漏洞并提升性能表现。</p><h2>玩家功能</h2><p>书架模组新增了多项命令，可辅助您开发与调试整合包。例如，<code>/hand</code>命令能显示手中物品的详细信息，甚至提供其在数据包配方中所需的JSON格式。<code>/font</code>命令则能帮助您修改物品、书、告示牌及其他方块使用的字体。我们还新增了基于耐久度的配方、加载条件等数据包功能。我们持续更新新特性，您可在我们的<a href=\"/linkout?remoteUrl=https%253a%252f%252fdocs.darkhax.net%252fmods%252fbookshelf%252f\" rel=\"nofollow\">文档</a>中查看详情！</p><h2>模组开发者功能</h2><p>书架为模组开发者提供了诸多实用功能，包括扩展编解码器、内容注册机制与跨加载器事件系统。我们还提供了丰富的实用函数与辅助工具，例如经验值相关计算。您可以在我们的<a href=\"https://github.com/Darkhax-Minecraft/Bookshelf\" rel=\"nofollow\">GitHub页面</a>或<a href=\"/linkout?remoteUrl=https%253a%252f%252fdocs.darkhax.net%252fmods%252fbookshelf%252f\" rel=\"nofollow\">文档</a>中了解更多信息。</p><p>&nbsp;</p><p><img src=\"https://assets.blamejared.com/nodecraft/darkhax.jpg\" alt=\"Nodecraft赞助标识\" width=\"1080\" height=\"40\">本项目由Nodecraft赞助。使用优惠码<a href=\"/linkout?remoteUrl=https%253a%252f%252fnodecraft.com%252fr%252fdarkhax\" rel=\"nofollow\">DARKHAX</a>，首月服务可享七折优惠！</p><p><img src=\"https://skulk.blmj.red/bookshelf\" alt=\"\" width=\"1\" height=\"1\"></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

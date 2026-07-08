@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uqs2c2B95Bo=",
+  "content": "![丘陵景觀，每個區塊由不同方塊構成](https://cdn.modrinth.com/data/cached_images/48ef8dcfecdf6b85a32b1014494568be7741f853_0.webp)\n## 總覽\n當你踏入一個區塊時，系統會隨機選取一種方塊來取代該區塊內的所有方塊。\n\n如果你想用這個資料包製作影片或內容，請隨意使用！如果這麼做，你必須在描述或留言中標註我（Ambiguous Chameleon）並提供此資料包的連結。謝謝！\n\n## 作弊模式與指令\n\n**將你所在的區塊變更為主手持有的方塊**\n\n```\n/trigger ac.random_chunk.set_block\n```\n\n**開啟黑名單選單，切換允許生成的區塊方塊**\n\n```\n/trigger ac.random_chunk.blacklist\n```\n\n**清除黑名單**\n\n```\n/trigger ac.random_chunk.blacklist.clear\n```\n\n**開啟選單，一次將大量方塊加入黑名單**\n\n```\n/trigger ac.random_chunk.blacklist.presets\n```\n\n**重新隨機生成你所在區塊的新方塊**\n\n```\n/trigger ac.random_chunk.reroll\n```\n\n**卸載資料包** _（僅限資料包版本！）_\n\n```\n/function ac_cheat:uninstall\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

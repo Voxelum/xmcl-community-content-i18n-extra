@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pd919SgoYWM=",
+  "content": "<h1>模组简介</h1><p>《疾驰马车》是一款简洁的模组，旨在为游戏添加易于使用、风格贴近原版的马拉货车，帮助玩家运输生物与物品。</p><h2>马车类型</h2><p>当前版本包含三种特性各异的马车：</p><ul>\n<li><strong>康内斯托加货车</strong>——带帆布顶棚的货运马车，拥有60点生命值、108格储物空间及中等行驶速度。</li>\n<li><strong>皇家马车</strong>——带木质车厢的载客马车，拥有80点生命值、54格储物空间，是所有马车中速度最快的型号。</li>\n<li><strong>装甲战车</strong>——用于战斗的笨重慢速马车，拥有120点生命值、无储物空间且加速缓慢。</li>\n</ul><p style=\"text-align:center\">\n  <img src=\"https://github.com/Favouriteless/Trotting-Wagons/blob/main/resources/wagons_banner.png?raw=true\" alt=\"疾驰马车横幅图\">\n</p><h2>操作指南</h2><ul>\n<li>用拴绳牵引马匹后，潜行状态下对马车交互即可套马</li>\n<li>手持羊毛潜行点击马车可更改其颜色</li>\n<li><strong>马鞭</strong>用于控制马车：驾驶时右键点击可切换速度；未乘坐时潜行交互可切换前进/倒车模式</li>\n<li>生物可通过套马相同方式搭载至马车，或在静止马车旁对生物潜行右键实现搭载</li>\n<li>对已搭载生物潜行交互，或用拴绳对马车潜行交互均可卸下生物</li>\n<li>使用铁锭可修复马车（此设定可通过配置调整）</li>\n<li>未持特殊交互物品时，潜行状态下点击马车可打开储物空间</li>\n<li>持任意斧具潜行点击马车可将其回收</li>\n</ul><h2><span style=\"color:#e03e2d\">重要说明：本模组为委托制作的公开项目，将不定期更新，请勿要求移植或更新版本。</span></h2>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

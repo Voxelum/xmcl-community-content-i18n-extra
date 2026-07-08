@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DDzI5vF4xdo=",
+  "content": "# Fastorio\n\n[![GitHub][img-github]][url-github]\n[![Modrinth][img-modrinth]][url-modrinth]\n\nFastorio 是一款專為舒適遊戲體驗而設計的模組包，能在搭載大量模組的同時，即使在長時間遊玩中也能維持高幀率與極低的延遲。\n\n## 主要特色\n\n- **最佳化優先** — 精心調校的設定檔\n- 專注於長時間遊玩的效能表現\n- 平衡的系統負載\n- 生活品質提升，不含多餘內容\n- 系統與設定組織完善\n- 支援未來更新與擴充\n\n## 下載\n\n[![GitHub][img-github]][url-github]\n[![Modrinth][img-modrinth]][url-modrinth]\n\n> 下載 Fastorio 即表示您同意授權條款以及包含模組的授權條款。\n\n## 版本支援\n\n| 版本 | 支援狀態 | 備註 |\n|---------|-----------|-------|\n| `26.2` | 🟢 | 當前穩定版本 |\n| `26.2-rc-1` | 🔴 | 候選版本，已不再支援 |\n| `26.2-rc-2` | 🔴 | 候選版本，已不再支援 |\n| `26.1.2` | 🟢 | 當前穩定版本 |\n| `1.21.1` | 🟡 | 僅供更新用 |\n\n## 安裝方式\n\n1. 安裝相容的 Minecraft 啟動器。\n2. 從您選擇的平台下載 Fastorio 模組包。\n3. 匯入模組包或建立新的實例。\n4. 啟動遊戲一次以產生所有設定檔。\n\n<!-- Images -->\n[img-github]: https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white\n[img-modrinth]: https://img.shields.io/badge/Modrinth-darkgreen?style=for-the-badge&logo=modrinth\n\n<!-- URLs -->\n[url-github]: https://github.com/EnderMur/Fastoria/releases\n[url-modrinth]: https://modrinth.com/modpack/fastoria",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

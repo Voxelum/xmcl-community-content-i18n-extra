@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4Xv483TXiig=",
+  "content": "# 拴绳配方回溯移植\n\n将**Minecraft 1.21.6 版本中的现代拴绳合成配方**回溯移植到更早期的版本——实现更简便、更统一且无需粘液球的合成方式。\n\n## 功能特性：\n- 添加了来自 Minecraft 1.21.6 的**更新版拴绳配方**\n\n- 使用 **5×线** 即可合成 **2个拴绳** → 无需粘液球\n\n![拴绳合成配方](https://cdn.modrinth.com/data/cached_images/09a7ffcda3dad2640102c479f2db818f569d1895.png)\n\n## 兼容范围：\n\n- **模组**：Minecraft **1.20 - 1.21.5**\n\n- **数据包**：Minecraft **1.20 - 1.21.5**\n\n- 无需额外依赖",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

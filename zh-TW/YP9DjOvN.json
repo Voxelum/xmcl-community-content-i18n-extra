@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zR6fZaKvz1w=",
+  "content": "![工作台中物品展示橫幅](https://cdn.modrinth.com/data/YP9DjOvN/images/4c14fb9db7010ea58c9a99bdab05c403e5376664.gif)\n\nTetra 是一款 Minecraft 模組，讓玩家可以修改並強化工具、武器及其他類型的裝備。經過修改的物品可以透過使用隨時間提升效能。玩家可以在世界中透過探索古老遺跡或交易交換來獲得強大的工具零件與設計圖。\n\nTetra 有兩個進度標籤頁，涵蓋了大部分可用內容，而全息球則提供了模組、強化與材料屬性的概覽。\n\n更多關於 Tetra 的資訊，請參閱 [Tetra 網站](https://tetra.mickelus.se/)\n\nTetra 使用了一個工具庫（[mutil](https://modrinth.com/mod/mutil)），如果你不是使用 curseforge 安裝器，則需要手動安裝該庫。\n\n## 📝 **入門指南**\n\n1.  使用兩根木棍和兩個木材合成一把木槌\n2.  合成並放置一個原版的合成桌\n3.  用木槌對合成桌點擊右鍵，將其升級為工作台\n4.  合成一個原版武器、工具、盾牌或弓，並將其放入工作台中\n\n**查看進度視窗以了解更多後續步驟**\n\n## 🔌 **模組相容性**\n\nTetra 預設支援 Curios（用於工具腰帶），如需更多模組相容性，可參考：\n* [tetracelium](https://modrinth.com/mod/tetracelium)\n* [相容性列表](https://tetra.mickelus.se/compat)\n\n### 🔗 **連結**\n\n* [Discord](https://discord.gg/MyjK4Fx)\n* [Patreon](https://www.patreon.com/mickelus)\n* [技術維基](https://tetra.mickelus.se/wiki/1.20/tech)\n\n## 📜 **授權與使用**\n\n只要透過 Modrinth 或 CurseForge 發布，歡迎在模組包或整合包中使用此模組。歡迎使用資料包（或 KubeJS 等類似工具）修改或新增內容，有關附加模組與模組整合使用的更多資訊，請參閱 [GitHub 倉庫](https://github.com/mickelus/tetra)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

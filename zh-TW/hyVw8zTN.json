@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EhmU2IdnkU8=",
+  "content": "## 🧪 藥水條\n\n**藥水條**為你身上的藥水效果顯示簡潔明瞭的進度條。  \n不再需要猜測——每種效果的剩餘時間、對應的圖示和進度條都一目瞭然。\n\n---\n![PotionBar](https://cdn.modrinth.com/data/cached_images/624ab3f030b0af2873a77b8407e50a72628eb588.gif)\n\n---\n\n### ✅ 特色功能：\n- 以進度條顯示藥水持續時間  \n- 根據藥水類型顯示不同顏色的進度條  \n- 完全**客戶端**運作——無須在伺服器上安裝  \n\n---\n### ⚙️ 指令：\n#### HUD 位置：\n- /potionbar position center（預設）\n- /potionbar position left\n- /potionbar position right\n- /potionbar position custom——開啟 HUD 編輯器（可拖曳調整）\n\n#### 顯示原版效果：\n- /potionbar vanilaEffects show\n- /potionbar vanilaEffects hide（預設）\n\n#### 計時器系統：\n- /potionbar timer on——啟用藥水效果計時器\n- /potionbar timer off——停用藥水效果計時器\n- /potionbar timer left——計時器顯示在左側\n- /potionbar timer right——計時器顯示在右側（預設）\n- /potionbar timer above——計時器顯示在圖示上方\n- /potionbar timer below——計時器顯示在圖示下方\n\n#### 自訂圖示：\n- /potionbar CustomIcons on——啟用自訂材質（預設）\n- /potionbar CustomIcons off——停用（使用原版材質）\n---\n\n### 📸 螢幕截圖：\n\n![Effects](https://cdn.modrinth.com/data/cached_images/3d93fcc417b6503bbddd35cb652a7c1940d94cf5.png)\n![Effect](https://cdn.modrinth.com/data/cached_images/ab3e7a111a284b5f7cd0a484fb3dad9a67974b09.png)\n\n---\n\n🧪 掌握狀態，生存無礙。立即使用 **藥水條**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

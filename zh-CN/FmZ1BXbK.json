@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d2c8GpJCz44=",
+  "content": "将物品改为在手中呈现3D效果。同时拥有进食/饮水的动画效果。\n\n## 当前已建模的物品包括：\n- 所有食物和饮品\n- 所有桶\n- 山羊角\n- 望远镜改模\n- 所有工具/武器\n- 箭矢\n- 鸡蛋\n- 球类\n- 火把和灯笼\n\n我还对上述物品的大部分纹理/方块进行了重绘（也包括鱼类实体）\n\n<details>\n<summary>推荐模组</summary>\n\n- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)（第三人称进食动画、灯笼手持动画）\n- [Respackopts](https://modrinth.com/mod/respackopts)（NEA灯笼手持、2D盾牌开关）\n- [Real Arrow Tip](https://modrinth.com/mod/real-arrow-tip)（弓/弩中显示正确箭矢）\n- [EMF](https://modrinth.com/mod/entity-model-features)/[ETF](https://modrinth.com/mod/entitytexturefeatures)（自定义三叉戟、箭矢、盾牌模型）\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

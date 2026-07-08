@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4lNuzLHm7Gw=",
+  "content": "Это продолжение мода [JourneyMapStages](https://modrinth.com/mod/journeymapstages) с поддержкой новых версий\n\n \n## Пример скрипта\n*// Ограничивает игроков от создания точек привязки или просмотра их в мире.*\n**mods.jmapstages.JMapStages.setWaypointStage(\"one\");**\n\n*// Ограничивает игроков от доступа к полноэкранному режиму и экрану настроек.*\n**mods.jmapstages.JMapStages.setFullscreenStage(\"two\");**\n\n*// Ограничивает игроков от создания точек привязки смерти на карте.*\n**mods.jmapstages.JMapStages.setDeathpointStage(\"three\");**\n\n*// Ограничивает игрока от открытия мини-карты на экране.*\n**mods.jmapstages.JMapStages.setMinimapStage(\"four\");**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

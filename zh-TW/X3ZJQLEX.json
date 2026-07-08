@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FJ8TavZ3Qv0=",
+  "content": "# 爆炸球體\n![爆炸球體機制演示。](https://cdn.modrinth.com/data/cached_images/0407440afb8d0a7c7f96dcad45277c879a6581e7_0.webp)\n爆炸球體將 Minecraft 的爆炸程式碼修改為以球體形式傳播，而非立方體形式。這使得較小爆炸使用的射線檢測次數減少*(TNT 使用 100 次射線檢測而非約 1000 次)*，而較大半徑的爆炸則會使用更多次數。\n\n**注意：** 爆炸球體的爆炸效果與原版爆炸__不完全__相同_(例如：相距 3 格方塊的相鄰 TNT 有可能不會被引爆)_。爆炸球體的視覺效果也與原版有顯著差異，特別是在較大爆炸半徑時更為明顯。\n\n爆炸球體可與 [Lithium](https://modrinth.com/mod/lithium) 相容運作（利用其爆炸優化功能），**若您在 Fabric 上使用，建議同時安裝 Lithium。**\n\n![爆炸球體球形傳播演算法在最大威力時的截圖。](https://cdn.modrinth.com/data/cached_images/b6c4e570a8c35f69a1b772b7d1a148232ba4ad42.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

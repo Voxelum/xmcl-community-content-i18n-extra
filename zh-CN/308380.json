@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ijqMkG24g4w=",
+  "content": "<p>PackagedAuto是<a href=\"applied-energistics-2\" rel=\"nofollow\">应用能源2（Applied Energistics 2）</a>的扩展模组，其核心功能是通过物品\"封装包\"实现超过9种材料的自动合成，并在1.18.2+版本中支持流体合成。本模组可独立于应用能源2运行，但仍推荐搭配使用。</p><p>使用时需制作两个配方模式载体，通过编码器写入配方。将其中一个模式载体放入封装机，另一个放入解包机，二者均需连接至ME网络。封装机会将输入物品制作成配方封装包，解包机则接收封装包并将物品输出至相邻容器。两台机器会根据模式载体向ME网络声明功能，封装机在连接网络时会直接将封装包注入ME系统。</p><p>目前暂无移植Fabric版本的计划，但欢迎社区进行移植开发。</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fthelmiffy1111\" rel=\"nofollow\">Ko-fi赞助页面</a><br><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.crystaelix.com%252f\" rel=\"nofollow\">Discord社区</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

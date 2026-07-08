@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2LSRxe9XqZ8=",
+  "content": "<p style=\"text-align: center;\">這是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere\"><strong>Dark Mode Everywhere</strong></a> 的非官方 <strong>Fabric</strong> 移植版本</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: left;\"><strong>Dark Mode Everywhere</strong> 利用 Minecraft 1.18 內建的著色器，將任何 GUI 紋理轉換為深色模式。得益於這些著色器，它將在遊戲中的任何 GUI 中運作，同時也會嘗試修改文字顏色，使其在深色模式下易於閱讀。若發現任何視覺問題，請回報以便我進行修復。</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">此模組目前提供 <strong>3 種深色模式</strong>，可根據您的需求輕鬆切換，只需點擊左下角的按鈕即可：</p>\n<p>&nbsp;</p>\n<p><img src=\"https://i.imgur.com/Eqrjate.png\" alt=\"\" width=\"1125\" height=\"585\" /></p>\n<p>&nbsp;</p>\n<p>您也可以透過修改 \"darkmodeeverywhereshaders.json\" 並使用 <strong>Resource Loader</strong> 模組或 <strong>Resource Pack</strong>，來新增自訂的 GUI 著色器。</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><img src=\"https://discordapp.com/api/guilds/570630340075454474/widget.png?style=banner2\" width=\"333\" height=\"79\" /></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

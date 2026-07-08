@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9e76e014a32f57b3",
+  "content": "\n\n![downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fconnorcode.com%2Fapi%2Fdownloads%3Fmodrinth%3DOORXn0mW%26curseforge%3D1297449&query=%24%5B%27total-human%27%5D&label=downloads&style=for-the-badge&color=0dc362)\n\n此模組讓玩家雙手能夠以經典的 3D 風格渲染，該風格廣泛應用於過往的經典 Minecraft 動畫中。\n\n## 🔵 相依套件\n- [Entity Model Features](https://modrinth.com/mod/entity-model-features) (2.4 版或以上)\n\n## 🟢 相容性\n- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)\n- [3D Armor](https://modrinth.com/mod/armor-3d)\n- [Better Combat](https://modrinth.com/mod/better-combat)\n- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)\n- [First-person Model](https://modrinth.com/mod/first-person-model)\n\n## 🔴 不相容性\n- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player)\n- [Epic Fight](https://modrinth.com/mod/epic-fight)\n- [Detailed Animations](https://modrinth.com/resourcepack/detailed-animations)\n\n## 需要伺服器嗎？\n<a href=\"https://avatarka.ge/bisect\">\n  <div><img src=\"https://www.bisecthosting.com/partners/custom-banners/6f0ba1fb-ebf6-4e70-9605-f8c8a9ca7fce.webp\" alt=\"BisectHosting\"></div>\n</a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

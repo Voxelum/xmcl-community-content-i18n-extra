@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QaHKDk9lzp4=",
+  "content": "# Ремень для инструментов + интеграция с TFC\n\nПростой мод-интегратор между модами Toolbelt и TerraFirmaCraft. Он добавляет изменённые рецепты ремня и сумки, а также функциональность улучшения ремня.\n\n<details>\n<summary>Рецепт ремня</summary>\n  \nНовый рецепт инструментального ремня, поддерживающий предметы из TFC  \n![Рецепт ремня](https://raw.githubusercontent.com/Adam4CZ/toolbelt-tfc-integration/refs/heads/1.20.x/img/belt-recipe.png)\n\n</details>\n\n<details>\n<summary>Рецепт сумки</summary>\n  \nНовый рецепт сумки поддерживает предметы из TFC, а золото заменено на бронзу  \n![Рецепт сумки](https://raw.githubusercontent.com/Adam4CZ/toolbelt-tfc-integration/refs/heads/1.20.x/img/pouch-recipe.png)\n\n</details>\n\n<details>\n<summary>Рецепт улучшения ремня (бесформенный)</summary>\n  \n- костная игла (будет повреждаться)  \n- шерстяная пряжа/нить  \n- инструментальный ремень  \n- сумка  \n  \n![Рецепт улучшения ремня](https://raw.githubusercontent.com/Adam4CZ/toolbelt-tfc-integration/refs/heads/1.20.x/img/belt-upgrade-recipe.png)\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

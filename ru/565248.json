@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15VPXiNdSnw=",
+  "content": "<p>Из-за изменений в Forge 1.12.2 2847+ <a href=\"https://www.curseforge.com/minecraft/mc-mods/notenoughcodecs\" rel=\"nofollow\">NotEnoughCodecs</a> будет вызывать сбой игры при запуске.</p><p>Этот форк устраняет сбой, удаляя все кодеки, кроме flac и mp3.</p><p>Пока что единственный мод, использующий эти кодеки, — это <a href=\"https://www.curseforge.com/minecraft/mc-mods/charset-audio\" rel=\"nofollow\">Charset Audio</a>.</p><p>&nbsp;</p><p><strong>Содержит части <a href=\"https://www.curseforge.com/linkout?remoteUrl=http://www.javazoom.net/javalayer/javalayer.html\" rel=\"nofollow\">JLayer</a> (<a href=\"http://minecraft.curseforge.com/projects/notenoughcodecs/settings/libgdx.badlogicgames.com\" rel=\"nofollow\">libgdx</a> fork), <a href=\"https://www.curseforge.com/linkout?remoteUrl=http://jaadec.sourceforge.net/\" rel=\"nofollow\">Java Advanced Audio Decoder (JAAD)</a> и библиотек <a href=\"https://github.com/drogatkin/JustFLAC\" rel=\"nofollow\">JustFLAC</a>.</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

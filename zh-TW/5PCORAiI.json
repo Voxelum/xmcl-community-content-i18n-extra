@@ -1,0 +1,6 @@
+{
+  "bodyHash": "glv8HcD3t1s=",
+  "content": "歡迎來到 NeoForge & Forge 的 Mooblooms 模組，\n\n此模組為遊戲新增了 16 種 Moobloom 變體，但在 1.21.4 版本的 V2 中，您可以使用資料包和資源包來新增自己的變體！（範例包下載）\n\n我們在基礎模組中新增的變體包括：Allium、Azure Bluet、Blue Orchid、Closed Eyeblossom、Cornflower、Dandelion、Lily of the Valley、Open Eyeblossom、Orange Tulip、Oxeye Daisy、Pink Tulip、Poppy、Red Tulip、Torchflower、White Tulip、Wither Rose、Cactus Flower（1.21.5 版本）\n\nMooblooms 會生成在 flower Forest、Meadows 或 Sunflower Plains 生態域中，但您可以透過資料驅動的變體資料包來調整此設定，如果您想新增更多生態域或移除可能的生態域\n\n自訂變體的強大功能！\n新增自己的變體時，您可以調整許多選項，\n首先是該生物出現的生態域、生物被剪毛時掉落的戰利品表、生物背上顯示的方塊，以及自訂變體的紋理（我們提供約 16 種免費紋理供您使用，每種 Minecraft 顏色各一種）\n\n此外，我們還新增了一些新選項，例如您可以對該變體使用骨粉以在其背上產生更多花朵，以及對該變體使用骨粉後的冷卻時間，最後是該變體是否可以在世界中隨機放置其花朵類型\n\n所有這些選項都可以針對每個變體進行調整，您也可以透過重新命名 JSON 檔案（使用您想調整的花朵類型名稱）來調整我們已建立的變體中的這些數值\n\n所有自訂選項：![options](https://cdn.modrinth.com/data/cached_images/8f5ed7d5f4ed423e2e82277b2aef34f66d1ca8c3.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

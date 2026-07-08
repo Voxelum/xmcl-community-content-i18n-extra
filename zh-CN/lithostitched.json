@@ -1,0 +1,6 @@
+{
+  "bodyHash": "67PF9H1oUho=",
+  "content": "# Lithostitched\n\nLithostitched 是一个面向 Fabric 和 Neoforge 的扩展性库模组，为世界生成提供了新的可配置性和兼容性增强功能。\n\n该库为游戏的世界生成系统添加了多项特性，旨在提高跨项目兼容性并扩展整体的可配置性。\n\n- 正在构建生物群系？这里有大量新的特征类型可供使用！试试扩展的 `dungeon`、`ore` 和 `well` 特征，或通过 `composite` 和 `template` 开辟自己的道路。使用生物群系注入器（一种适用于模组生物群系布局的简单解决方案）来放置你的生物群系。\n\n- 正在制作或修改结构？现在你可以添加保证元素、结构专属音乐、诸如平坦度检查之类的生成条件，以及其他更多功能！你还可以使用 Lithostitched 的世界生成修改器系统，为原版结构添加模板和生成条件！\n\n- 想尝试塑造地形？Lithostitched 添加了许多新的密度函数类型（包括快速噪声！），以及一个注入系统，能以兼容的方式应用地形变化。\n\n所有这些新功能都是**数据驱动**的！请查看 [Lithostitched 维基](https://github.com/Apollounknowndev/lithostitched/wiki) 了解更多信息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

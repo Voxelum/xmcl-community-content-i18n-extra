@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wT5g01A+7OE=",
+  "content": "# ⚡ 模組介紹\n還記得1.12.2時代[METS](https://www.curseforge.com/minecraft/mc-mods/more-electric-tools)的那些電能刀——血腥革新、工藝復興嗎？\n\n沒錯，你沒聽錯！這些傳奇之刃如今已被現任作者接手，移植到了Minecraft 1.20.1！\n\n## ✨ 模組特色\n\n### 🔋 能量驅動戰鬥\n忠實保留了經典的電能耐久機制，並已適配現代能量系統（EU → FE）。\n\n### 🧪 科技模組相容\n可與主流能量儲存單元相容，能無縫整合如[Mekanism](https://modrinth.com/mod/mekanism)和[Thermal](https://modrinth.com/mod/thermal-expansion)等科技模組。可使用多個能量單元為你的刀劍充電。\n\n### 📦 經典技能\n完美移植原作電能刀的SA（特殊技藝）與SE（特殊效果），包含超量系統、高速幻影刀-γ等經典能力。\n\n### 🛠️ 為現代版本優化\n修復了各類遺留錯誤，並優化了製作邏輯。現在製作電能刀時，將繼承所用材料中儲存的能量。\n\n## 📌 重要須知\n\n### ⚠️ 配方依賴：本模組所有電能刀配方都需要安裝Mekanism和Mekanism發電機。若缺少這兩個模組，本模組的所有刀劍都不會註冊到配方列表中！\n\n已獲得IC2附加模組「More Electric Tools」(METS)原作者的移植許可。該原始模組適用於Minecraft 1.7.10–1.12.2。所有功勞歸於原作者。\n\n![image](https://media.forgecdn.net/attachments/description/1464525/description_c70f0ffc-32b9-4461-98f6-7073af4a6fa5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

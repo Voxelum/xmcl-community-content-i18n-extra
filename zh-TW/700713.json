@@ -1,0 +1,6 @@
+{
+  "bodyHash": "62nGc2lzILI=",
+  "content": "<p><span style=\"font-size:18px\"><strong>方塊化鍋釜</strong></span></p><p><span style=\"font-size:14px\">現在Minecraft原版鍋釜成為方塊實體(TileEntity)。<br></span><span style=\"font-size:14px\">不改變原版特性。</span></p><p>&nbsp;</p><p><span style=\"font-size:18px\"><strong>功能特色</strong></span></p><p>&nbsp;1. <span style=\"font-size:14px\">可將流體管道連接至鍋釜。</span><span style=\"font-size:14px\"><br></span><span style=\"font-size:14px\">終於可以從鍋釜中抽取岩漿了！</span></p><p><span style=\"font-size:14px;color:#f00\"><strong>*** 管道需至少能傳輸1000mB液體</strong></span></p><p><img src=\"https://media.forgecdn.net/attachments/514/413/filllava.gif\" alt=\"\" width=\"480\" height=\"374\"></p><p>&nbsp;</p><p><span style=\"font-size:14px\">2. 覆寫發射器行為，當發射器前方放置鍋釜時。<br></span><span style=\"font-size:14px\">即使未放置鍋釜，仍保持原版行為。</span>&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/516/912/dispenser.gif\" width=\"466\" height=\"356\"></p><p>&nbsp;</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

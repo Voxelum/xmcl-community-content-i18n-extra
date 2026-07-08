@@ -1,0 +1,6 @@
+{
+  "bodyHash": "adwHtAA8uVY=",
+  "content": "# 探測器\n\n探測器（簡稱TOP）是一款更沉浸式的WAILA版本。你無法隨時看到資訊提示，只有當你手持探測器時才會顯示（請注意，此模組可設定為像WAILA一樣持續顯示資訊）。\n\n**注意！** 探測器***並非***僅客戶端模組！它必須同時存在於伺服器端！\n\n**注意！** 此模組適用於1.10.2 *與* 1.11.2版本，使用同一個JAR檔案，並需要[CompatLayer](https://www.modrinth.com/mod/compatlayer)。\n\n1.12版本為獨立版本，*不*需要CompatLayer。\n\n此模組的目的是在你手持探測器（或副手持有）時，於畫面上顯示你所注視方塊的資訊。模組本身會顯示基本資訊，例如方塊名稱、所屬模組以及採集該方塊所需的工具。此外，此模組還會顯示方塊中儲存的RF能量（若方塊支援RF），如果你蹲下，它還會列出方塊中所有物品（若該方塊為容器，例如儲物箱）。\n\n此模組具有高度可設定性，你可以停用上述所有功能，如果它們不符合你的遊玩風格或模組包。\n\n# API\n此模組也提供靈活的API，供其他模組用來添加更多資訊。Deep Resonance將使用此模組顯示水晶和液體的資訊。RFTools也將支援此模組。API可在[此處](https://github.com/McJtyMods/TheOneProbe/tree/master/src/main/java/mcjty/theoneprobe/api)找到。\n\n更多資訊請參閱[維基](https://github.com/McJtyMods/TheOneProbe/wiki)。\n\n## 模組包\n你可以在任何模組包中自由使用此模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

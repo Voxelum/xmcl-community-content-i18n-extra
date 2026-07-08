@@ -1,0 +1,6 @@
+{
+  "bodyHash": "I1ObgeoKg0g=",
+  "content": "<h1>ManaMetalMod GTNH NEI 支援</h1><p>一個針對 Minecraft 1.7.10 / Forge / GTNH NotEnoughItems 的小型整合附加元件，為 ManaMetalMod 7.5.2 的自訂合成 GUI 提供 NEI 配方覆蓋/配方傳送支援。</p><p>這個模組為 ManaMetalMod 的自訂合成介面新增了 NEI 配方覆蓋與配方傳送功能。</p><p>目前已支援：</p><ul>\n<li>魔力合成台</li>\n<li>金屬融合台</li>\n<li>魔力重力井</li>\n</ul><p>修正問題：</p><ul>\n<li>在 ManaMetalMod 自訂 GUI 中使用 NEI 配方覆蓋時會出現 <code>合成方格不符</code> 的錯誤</li>\n<li>NEI 無法正確辨識 ManaMetalMod 自訂容器輸入格的配置</li>\n<li>魔力重力井的配方傳送無法正確對應所有材料欄位</li>\n</ul><p>需求版本：</p><ul>\n<li>Minecraft 1.7.10</li>\n<li>Forge 10.13.4.1614</li>\n<li>CodeChickenCore 1.4.12</li>\n<li>NotEnoughItems 2.8.97-GTNH</li>\n<li>GTNHLib 0.9.64</li>\n<li>ManaMetalMod 7.5.2</li>\n</ul><p>安裝方式：</p><p>將此模組的 jar 檔案放入 <code>mods/</code> 資料夾。首次啟動時，它會自動產生：</p><p><code>config/manametalmod_gtnh_nei_support.cfg</code></p><p>目前的預設設定針對 ManaMetalMod 7.5.2：魔力合成台、金屬融合台以及魔力重力井。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

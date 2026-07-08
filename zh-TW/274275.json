@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pbn5CA+bBT8=",
+  "content": "<p><img src=\"https://mc.craig.software/image/regen/regen_logo.png\" alt=\"重生模組\"></p><h1>重生模組</h1><p>重生模組是一個 Minecraft Forge 模組，讓玩家在死亡後獲得重生能力，靈感來自英國熱門電視劇《神秘博士》。<a href=\"https://discord.gg/rr7k2yUckK\" target=\"_blank\" rel=\"nofollow\">Discord</a></p><h2>特色功能</h2><ul>\n<li><strong>重生</strong>：玩家使用原版 Minecraft 機制，最多可重生 12 次。重生時會釋放一波火焰能量，治癒玩家並賦予多種狀態效果。重生過程結束後，玩家將獲得獨特能力與暫時性副作用。</li>\n<li><strong>緩衝期</strong>：死亡後，玩家會進入緩衝狀態，可將重生延遲最多 15 分鐘。這對處於危險狀態或需避免附近建築燒毀時特別實用。</li>\n<li><strong>重生後副作用</strong>：重生後，玩家將完全恢復生命、飽食度與氧氣值，並附加其他暫時效果。然而，因全身細胞重組的創傷，玩家也可能暫時承受負面效果。</li>\n<li><strong>特質</strong>：重生後，玩家可獲得獨特特質（即「基因」）作為新身體的一部分，例如防火、疏水、蜘蛛攀爬等。</li>\n<li><strong>皮膚更換與偏好設定</strong>：玩家可將皮膚放入 .minecraft/mods/Regeneration/skins 資料夾，並透過遊戲內重生偏好設定更換重生後的皮膚。偏好設定 GUI 還能自訂重生能量顏色、動畫風格與手部類型。</li>\n</ul><h2>方塊</h2>\n<ul>\n<li><strong>生物容器</strong>：可保留玩家目前身體的特質，並被動儲存殘餘重生能量。將截肢的手部放入 GUI 即可使其運作。玩家在非重生狀態下潛行+右鍵點擊該方塊，可獲得多次重生機會。</li>\n<li><strong>懷錶</strong>：允許玩家儲存並獲得最多 12 次重生。</li>\n</ul>\n<h1>錯誤回報請提交至問題追蹤分頁；任何留言中的錯誤回報將因無法可靠追蹤而遭刪除</h1>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

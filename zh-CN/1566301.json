@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WADemkdDLUU=",
+  "content": "<h1>快速潜影盒多功能版</h1><p>无需放置即可快速打开潜影盒（及更多物品），并利用<a href=\"https://github.com/Fallen-Breath/preprocessor\" rel=\"nofollow\">预处理器</a>进行重构。<br>\n支持Minecraft 1.20.6至最新版本。\n欢迎为本项目添加本地化支持！</p><p>使用多版本构建工具预处理器，快速为多个Minecraft版本构建模组。</p><p>本项目的上游仓库<a href=\"https://github.com/MoRanpcy/quickshulker\" rel=\"nofollow\">MoRanpcy/quickshulker</a>将<a href=\"https://github.com/kyrptonaught\" rel=\"nofollow\">kyrptonaught</a>的<a href=\"https://github.com/kyrptonaught/quickshulker\" rel=\"nofollow\">QuickShulker</a>模组更新至更高Minecraft版本，并修复了一些问题。</p><p>快速潜影盒提供多种可配置的开启方式，您可以选择启用或禁用：</p><ul>\n<li>手持物品时按下快捷键</li>\n<li>手持物品时右键点击</li>\n<li>在物品栏中悬停于物品上时按下快捷键</li>\n<li>在物品栏中悬停于物品上时右键点击</li>\n</ul><p>现在可以在物品栏中像使用收纳袋一样与潜影盒（及其他物品）交互！</p><ul>\n<li>用物品右键点击潜影盒，可将该物品放入潜影盒</li>\n<li>用潜影盒右键点击物品，可拾取并放入该物品</li>\n<li>手持潜影盒时右键点击物品栏格子，可取出潜影盒中的最后一个物品放置到该位置</li>\n</ul><p>^上述每项功能均可在配置中禁用</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

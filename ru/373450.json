@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ip3rIrzSNtQ=",
+  "content": "<p>Energy Control — это переработанная версия оригинального Nuclear Control.<br><a href=\"/linkout?remoteUrl=https%253a%252f%252fforum.industrial-craft.net%252fthread%252f5915-addon-v1-118-ssp-smp-nuclear-control-v-1-6-2b-e%252f\" rel=\"nofollow\">Оригинальная ветка Nuclear Control</a><br><a href=\"/linkout?remoteUrl=https%253a%252f%252fftbwiki.org%252fNuclear_Control\" rel=\"nofollow\">Оригинальное вики Nuclear Control</a><br><br>Пожалуйста, помогите мне с тестированием и новыми идеями. Я планирую выпустить версии для 1.7.10, 1.10 и 1.12 с поддержкой IC2 Experimental/Classic и GregTech.<br><br><a href=\"https://discord.gg/Y5zRsHV\" rel=\"nofollow\">Группа в Discord</a></p><p>&nbsp;</p><p>Начиная с версии 1.12.2-0.1.8 появилась возможность добавлять пользовательские будильники:<br>1) Установите useCustomSounds = true в конфигурации мода через графический интерфейс или напрямую в файле.<br>2) Перезапустите Minecraft.<br>3) Создайте новую папку config\\alarms.<br>4) Поместите ваши файлы *.ogg (поддерживается только формат OGG) в папку alarms\\assets\\energycontrol\\sounds\\ и добавьте их в файл alarms\\assets\\energycontrol\\sounds.json<br>5) Добавьте свои звуки (*) в конфигурацию allowedAlarms. (Все звуковые файлы должны быть в формате alarm-*.ogg)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

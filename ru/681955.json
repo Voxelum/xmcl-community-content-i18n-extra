@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4oB6A+g6ies=",
+  "content": "<h1>GraphUtil</h1><p><img src=\"https://tr7zw.github.io/images/graphutil-example.png\"></p><p>Добавляет дополнительные настройки в графики F3, чтобы сделать их более полезными для выявления проблем с производительностью.</p><p><a href=\"https://discord.gg/2wKH8yeThf\" rel=\"nofollow\"><img src=\"https://tr7zw.dev/curse/Discord-long.png\" alt=\"Discord\"></a><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fO5O7ACGRH\" rel=\"nofollow\"><img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" alt=\"ko-fi\"></a></p><h2>Особенности</h2><ul>\n<li>Показывать минимальное/максимальное/среднее время кадров с десятичными долями.</li>\n<li>По желанию масштабировать график до минимального/максимального размера, чтобы он оставался читаемым даже в диапазоне менее 5 мс.</li>\n<li>Показывать линию среднего времени.</li>\n<li>Возможность всегда показывать графики на экране отладки без нажатия ALT+SHIFT+F3.</li>\n<li>Скрывать график TPS.</li>\n<li>Ограничивать график рамками (нет больше красных линий, заполняющих весь экран)</li>\n</ul><h2>Совместимость</h2><h3>Тестировано и работает с</h3><ul>\n<li>Sodium</li>\n<li>Iris</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

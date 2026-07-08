@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fwTtbEQ45Zc=",
+  "content": "# 點擊拾取\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/cm6JIf6vtdw\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n這是一個超小型模組，它關閉了 Minecraft 的自動拾取功能，轉而採用更具沉浸感的拾取系統。\n\n它允許玩家透過瞄準物品並右鍵點擊，從地面上精確拾取想要的物品。\n\n這不僅提升了沉浸感，還有效解決了 Minecraft 最大的問題（對我而言）：雜亂的背包空間。\n\n此模組還取消了物品丟棄後的懸浮效果，現在物品一落地就會平躺在地面上！\n簡單的視覺效果，沒有過度複雜的物理模擬！\n\n只需右鍵點擊任何掉落物品，物品名稱就會顯示在準心上方：\n![拾取示意](https://i.imgur.com/XjZU7zQ.gif)\n\n我理解有時玩家可能沒時間慢慢撿，因此加入了潛行時恢復自動拾取的功能：\n![潛行拾取](https://i.imgur.com/JEv3ZIE.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

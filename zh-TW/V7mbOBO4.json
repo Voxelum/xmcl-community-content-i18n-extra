@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gM6HqSEDdBQ=",
+  "content": "此模組為 AE2 與 Create 新增了相容性。需要安裝 [Create](https://modrinth.com/mod/create) 與 [AE2](https://modrinth.com/mod/ae2) 才能使用。\n\n新增了一個 AE 庫存橋接器，能將兩個儲存系統連結起來。Create 庫存系統中的物品在 AE 中會顯示為可合成物品。Create 可透過連接包裝機的橋接器，向 AE 請求已儲存的物品。\n\n未來計劃：\n- 1.21 版本移植\n- 支援 Refined Storage\n- 從 Create 進行 AE/RS 自動合成",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

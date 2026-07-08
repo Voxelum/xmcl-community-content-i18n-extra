@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SgLbhKdtwBI=",
+  "content": "**# 氟素模組**\n## 模組說明：\n\n修改了夜晚系統，新增疲勞度設定，要求玩家必須定期睡眠。\n\n某些夜晚無法跳過。\n\n新增聲望系統（目前仍在開發中）\n\n本模組與 FTB Quest 模組相容。\n\n\n\n## 遊戲內容：\n\n每經過一夜疲勞度增加 1 點。\n\n睡眠可減少 2 點疲勞度（可調整）。\n\n疲勞度超過 7 點時，玩家在夜晚會持續受到傷害（可調整）。\n\n透過睡眠、在伺服器上線或完成 FTB Quest 模組的任務可獲得聲望（每 9 秒獲得 1 點，可調整）。\n\n若玩家未在伺服器上線，聲望會逐漸減少（每 90 秒減少 1 點，可調整）。\n\n當聲望達到一定值後，玩家將提升階級\n\n\n\n## 指令：\n\n\n### 調整聲望\n\n- /fluorine reputation value add <玩家> <數值> 增加聲望經驗值\n- /fluorine reputation value set <玩家> <數值> 設定聲望經驗值\n- /fluorine reputation level add <玩家> <數值> 增加聲望等級\n- /fluorine reputation level set <玩家> <數值> 設定聲望等級\n- /fluorine reputation config presence amount <數值> 設定在線時獲得的聲望量\n- /fluorine reputation config presence tick <數值> 設定獲得聲望的時間間隔\n- /fluorine reputation config absence amount <數值> 設定離線時損失的聲望量\n- /fluorine reputation config absence tick <數值> 設定損失聲望的時間間隔\n- /fluorine reputation config enable <數值> 啟用/停用聲望系統\n\n### 調整疲勞度\n\n- /fluorine tiredness value add <玩家> <數值> 增加疲勞度\n- /fluorine tiredness value set <玩家> <數值> 設定疲勞度\n- /fluorine tiredness config enable <數值> 啟用/停用疲勞度系統",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

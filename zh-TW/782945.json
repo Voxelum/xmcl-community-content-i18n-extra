@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FpM8d2IA8OE=",
+  "content": "<p>修復了在 Forge 43.1.24+ 客戶端（1.19.2 版本）上由 OptiFine 引起的崩潰問題</p><div class=\"spoiler\">\n<p>原因：java.lang.NoSuchMethodError: 'void net.minecraft.client.renderer.block.model.BakedQuad.&lt;init&gt;(int[], int, net.minecraft.core.Direction, net.minecraft.client.renderer.texture.TextureAtlasSprite, boolean, boolean)' at net.minecraftforge.client.model.pipeline.QuadBakingVertexConsumer.m_5752_(QuadBakingVertexConsumer.java:131)</p>\n</div><p><br>您可以在<a href=\"https://github.com/sp614x/optifine/issues/7127\" target=\"_blank\" rel=\"nofollow\">此處</a>找到有關此問題的更多資訊。<br><em>此問題已在 OptiFine HD U I1 pre3 更新中解決，該更新需要 Forge 43.1.52 版本。</em></p><p>&nbsp;</p><p>目前受此問題影響的部分模組：</p><ul>\n<li>精緻儲存 (Refined Storage)</li>\n<li>機械動力 (Create)</li>\n<li>補充模組 (Supplementaries)</li>\n<li>應用能源 (Applied Energistics)</li>\n<li>機械動力學 (Mekanism)</li>\n<li>沉浸工程 (Immersive Engineering)</li>\n<li>Vivecraft（獨立版本，使用自訂 Forge 客戶端）</li>\n</ul><p>&nbsp;</p><p><span style=\"font-size:14px\"><strong>此模組僅限客戶端使用</strong></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

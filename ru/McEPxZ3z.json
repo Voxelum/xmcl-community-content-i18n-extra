@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KWIAATgPbTg=",
+  "content": "# Динамические огни Celeritas/Nothirium\n\n## Форк SodiumDynamicLights для Celeritas на версии 1.12.2\n### Для запуска этого мода вам нужен чистый загрузчик\n\nНесмотря на название, этот мод **не является эксклюзивным для Celeritas/Nothirium**. Он работает и самостоятельно, однако для достижения наилучшей производительности рекомендуется использовать его вместе с модом, поддерживающим **отложенные обновления чанков**, например:\n\n- **Celeritas**\n- **Nothirium**\n- **Stellar Core** *(убедитесь, что в его конфигурации включена опция «Всегда откладывать обновления чанков»)*\n\n### Особая благодарность\n\n- **Txni** — за оригинальный SodiumDynamicLights\n- **Embeddedt** — за создание Celeritas и тем самым мотивацию для портирования этого мода\n\nСкомпилируйте Celeritas самостоятельно [здесь](https://git.taumc.org/embeddedt/celeritas) или скачайте уже готовый JAR-файл [здесь](https://github.com/kappa-maintainer/Celeritas-auto-build/releases)\n\nОригинальный мод можно найти здесь [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights). [Исходный код](https://github.com/txnimc/SodiumDynamicLights)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

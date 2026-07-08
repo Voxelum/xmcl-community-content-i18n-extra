@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rjsgp1mbc1Q=",
+  "content": "## **概述**  \n玩家階梯模組讓玩家只需右鍵點擊其他玩家，就能騎乘或拾起他們。\n\n### **額外功能**  \n- 擴展 `/ride` 指令，支援將實體騎乘在玩家上方。\n- 包含 [Pick Up Me](https://modrinth.com/mod/pickup-me) 功能（需在設定中將 `rightClickMode` 切換為 **PICK_UP**）。\n- 若在客戶端安裝，允許在有實體騎乘時與世界互動。<br>\n- 允許拾起/騎乘任何生物實體（預設關閉）\n\n僅支援最新版本的 **Minecraft**。\n\n若使用 Fabric，需要安裝 [FConfigLib](https://modrinth.com/mod/fconfiglib)。<br>\n若安裝 **Cloth Config API** 和 **Mod Menu**，可透過圖形介面編輯設定。\n\n### **類似模組/附加元件**\n* Minecraft 基岩版的 [Sit On Player](https://www.curseforge.com/minecraft-bedrock/scripts/sit-on-player-unofficial-bedrock-port-of-player)（由 Zepaii 製作）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

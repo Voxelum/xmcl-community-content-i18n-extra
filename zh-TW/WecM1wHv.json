@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HSkat1vH8w4=",
+  "content": "# 左手阻擋火把模組\n此模組讓您無需任何繁瑣操作，即可阻止從非慣用手放置火把的行為！\n\n**啟動模組快捷鍵 \"B\"（適用版本 1.1.2 和 1.1.5）**\n\n封鎖清單中的標準物品：\n1. 火把\n2. 靈魂火把\n3. 燈籠\n4. 靈魂燈籠\n\n### **舊版 1.0.2：**[[\n\n## 所有指令：\n\n**/blocktorch info** - 顯示模組與指令資訊\n\n**/blocktorch add <物品>** - 將物品加入封鎖清單\n\n**/blocktorch list** - 顯示已封鎖的方塊/物品清單\n\n**/blocktorch del <物品>** - 從封鎖清單移除方塊/物品\n\n**/blocktorch toggle** - 切換封鎖模式\n\n**/blocktorch clear** - 清除所有物品/方塊\n\n\n**快捷鍵：G - 切換封鎖功能**  \n\n### **]]**\n\n\n## 現在模組支援設定檔！\n\n設定檔位於根目錄的 **config\\player_blocklist.json**！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

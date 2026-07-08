@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RErkNhkNUZQ=",
+  "content": "![Поместите это в начало описания](https://cdn.modrinth.com/data/cached_images/341a24672d813d70a7674487c6f7b782fc24fab8.png)\n\n\nЭтот шейдер использует TAA 4x. Благодаря этому он достигает качества, сравнимого с SSAA 4x, при этом полностью обновляя данные кадра всего за 4 кадра.\n\nЭтот шейдер использует многослойный буфер истории для TAA, что позволяет ему смешивать данные предыдущего кадра без размазывания их во времени.\n\nБла-бла-бла, знаете Порше? Этот шейдер работает точно так же, как сцепление в том суперкаре.\n\n![TAA против NO AA](https://cdn.modrinth.com/data/cached_images/8b15f0317aa5de760160964b3058e294953371bb.png)\n\n\n### Поддержка Distant Horizons!11\n\n![Поддержка DH](https://cdn.modrinth.com/data/cached_images/e04108f75e27e9daef1304ad9f3ab0ccb3fa5eed_0.webp)\n\nКак всегда, если что-то не работает, можете прийти поплакать на мой [сервер Discord](https://discord.gg/5zg5XuhCBk).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

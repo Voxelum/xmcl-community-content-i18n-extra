@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PhoG4WRtJks=",
+  "content": "這是一個《Mine and Slash》的附加模組。\n\n安裝後將啟用為《Mine and Slash》選擇不同兼容模式的功能：\n\n1) 原始模式 - 預設的《Mine and Slash》玩法  \n2) 兼容模式 - 與預設相同，但其他模組的法術會根據《Mine and Slash》的傷害系統進行調整/轉換  \n3) 精簡模式 - 大幅調整模組成為「精簡版」，更適合不以《Mine and Slash》為核心的模組包：  \n- 不再覆蓋或取消其他模組的傷害，而是僅追加額外傷害值  \n- 大幅降低等級成長幅度，避免影響其他模組平衡  \n- 隱藏部分介面元素  \n- 調整怪物傷害、玩家屬性等數值以更貼近原版風格  \n- 降低或禁用部分《Mine and Slash》功能（如屬性/武器需求）  \n- 其他調整細節可完整參閱[此處](https://moddedmc.wiki/en/project/mine-and-slash/docs/modpack_dev/compatibility_addon)  \n\n所有選項均可自行配置，上述僅為預設設定。\n\n需搭配《Mine and Slash》v6.0.0以上版本使用\n\n額外提供傷害來源偵錯指令：\n\n/mns_compat damage_watch\n\n此指令可查看其他模組武器的傷害類型，方便為這些武器建立《Mine and Slash》數據包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

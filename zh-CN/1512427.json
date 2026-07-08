@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Xu7PrkpXRac=",
+  "content": "<h1>SeeU</h1><p><code>SeeU</code> <strong><span style=\"text-decoration:underline\">服务端同样需要安装</span></strong>！</p><ul>\n<li>服务端模组的 Paper 变体可在 <a href=\"https://github.com/cat4blep/SeeU\" target=\"_blank\" rel=\"nofollow\">GitHub</a> 获取</li>\n</ul><h2>功能说明</h2><ul>\n<li>渲染超出原版实体范围的远处玩家</li>\n<li>保持玩家的姿态、偏转角、俯仰角和名称</li>\n<li>在远处玩家代理上显示手持物品和盔甲</li>\n<li>同样渲染骑乘实体，因此乘坐船的玩家会显示在船上而非悬浮空中</li>\n<li>兼容 <code>Fabric</code> 客户端配合 <code>Paper</code> 服务端插件或 <code>Fabric</code> 服务端发送器</li>\n<li>允许每位玩家控制其他人是否能看到其远处代理及最大可见距离</li>\n</ul><h2>游戏内设置</h2><p>按 <code>F8</code> 打开设置界面。</p><p>可用选项：</p><ul>\n<li>启用或禁用客户端远处玩家渲染</li>\n<li>设置本地最大远处玩家渲染距离</li>\n<li>设置代理开始渲染的交接距离</li>\n<li>启用或禁用远处玩家名称标签</li>\n<li>允许或禁止服务端向其他玩家广播你的远处代理</li>\n<li>设置其他玩家可接收你代理的最大距离</li>\n</ul><p>在界面中更改这些设置后，客户端会立即发送给服务端，无需重新连接。</p><h2>配置文件</h2><div class=\"spoiler\">客户端： - `config/seeu-client.json` Fabric 服务端： - `config/seeu-server.json` Paper： - `plugins/SeeU/config.yml`</div><h2>注意事项</h2><ul>\n<li><code>SeeU</code> 仅针对玩家，不会渲染所有实体的远距离画面。</li>\n<li>客户端和服务端/插件应同步更新。当前协议版本为 <code>3</code>。</li>\n<li>如果仅安装客户端模组而没有相匹配的服务端发送器，将不会有远处玩家数据可供渲染。</li>\n<li><strong><code>Voxy</code> 或 <code>Distant Horizons</code> 为可选模组。即使没有它，<code>SeeU</code> 仍可正常工作，但只能显示远处玩家代理，无法渲染远处地形。</strong></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

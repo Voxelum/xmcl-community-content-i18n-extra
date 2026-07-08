@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XQaFvUaTZVs=",
+  "content": "# Phosphor Legacy Forge\nЭто порт мода Phosphor от JellySquid для Forge 1.8.9 и 1.9.4–1.11.2.\n\n# Совместимость с модами\nТестировалось с OptiFine, Dynamic Lights, LiteLoader, Essential, Patcher и другими ключевыми модами.\n\nВ этот мод включён mixin 0.7.11; он должен корректно работать с другими модами, использующими mixin 0.7.\n\nЕсли мод вылетает при использовании LiteLoader, убедитесь, что LiteLoader находится в папке mods и загружается ПОСЛЕ модов с mixin 0.7/0.8. НЕ УСТАНАВЛИВАЙТЕ LiteLoader вместе с Forge в качестве библиотеки!\n\nНе совместим с Legacy SpongeForge, так как SpongeForge вызывает странные краши, связанные с недействительными миксинами, и использует крайне устаревшие версии mixin.\n\n# Благодарности\n\nJellySquid за создание оригинального Phosphor;\n(https://modrinth.com/mod/phosphor)\n\nEmbeddedt за обновлённый Phosphor 1.12.2 и Archaic Fix 1.7.10;\n\nKappa-Maintainer за обновлённый Phosphor 1.12.2;\n(https://github.com/kappa-maintainer/Hesperus)\n\nGrayray75 за порт Phosphor на Legacy Fabric для версии 1.8.9.\n(https://github.com/Grayray75/Phosphor-Legacy)\n\n# НЕ отправляйте проблемы с этим модом в репозитории-доноры!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+QM2NBl43yc=",
+  "content": "Добавляет заклинания сокровищ, такие как восстановление, в [Инфузер для заклинаний](https://modrinth.com/mod/enchanting-infuser).\n\nПосле установки мода все заклинания должны появиться в расширенном инфузере.\n\nЧтобы использовать его в существующих мирах, вам может потребоваться включить пакет данных с помощью команды в чате:\n\n```\n/datapack list\n/datapack enable <datapack>\n```\n\nПакет данных был первоначально предоставлен Einhornyordle на [GitHub](https://github.com/Fuzss/enchantinginfuser/issues/118#issuecomment-2705478145) — спасибо!\n\nДля версий 1.19.2 и более ранних этот пакет данных не нужен: [Комментарий на GitHub](https://github.com/Fuzss/enchantinginfuser/issues/118#issuecomment-3135826262)\n\n![Инфузер для заклинаний с разблокированным восстановлением](https://cdn.modrinth.com/data/cached_images/ae41c0fef95736f1413ff136cdbe5162353edefb.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

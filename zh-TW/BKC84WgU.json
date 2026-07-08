@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jRdT/lRDc34=",
+  "content": "# 模組介紹\n\n本模組致力於優化[EpicFight](https://modrinth.com/mod/epic-fight)的核心遊戲機制，提升玩家的遊戲體驗。\n\n## 當前優化功能：\n\n### 格擋修正（GuardFix）：\n可替換型[模組](https://www.curseforge.com/minecraft/mc-mods/fix-guard)\n\n自EpicFight 20.12.1版本起，原生數據包已支援透過修改[PARRY_WINDOW](https://github.com/Epic-Fight/epicfight/blob/1.20.1/src/main/resources/data/epicfight/skill_parameters/parrying.json)數值達成現有優化效果。\n\n### 倒地保護機制調整（KnockDownProtection）：\n修改原版倒地保護機制（通常於擊倒僵直狀態下提供短暫無敵時間），使實體在擊倒僵直狀態下仍可被玩家攻擊。可透過配置檔（Config）開關進行調整。\n\n### 自動模式切換（AutomaticSwitching）：\n（歷史版本功能）\n\n根據玩家準心鎖定類型自動切換戰鬥/採集模式。20.10及以上版本因Yesman內建更完善的[實作方案](https://github.com/Epic-Fight/epicfight/blob/1.20.1/src/main/java/yesman/epicfight/client/events/engine/ControlEngine.java)已移除此功能。20.9.7及以下版本仍可透過Config開關使用。\n\n### 完美閃避殘影（PerfectDodgeShadow）：\n可透過配置檔（Config）開關啟用。\n\n### 擊退修正（KnockBackFix）：\n修復格擋狀態下[擊退實體](https://github.com/Epic-Fight/epicfight/issues/1918)方法失效的問題。\n（自EpicFight 20.10.2.101版本起由原生修復）\n\n## 注意事項：\n\n因Epic Fight於1.20.1版本更新頻繁，本模組提供兩個分支版本：\n- 20.9.7（穩定版）基於相對穩定的Epic Fight版本構建\n- 20.12.x（最新版）追蹤Epic Fight的最新更新與功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

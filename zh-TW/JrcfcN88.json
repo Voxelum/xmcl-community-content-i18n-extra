@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VkFgt0Cb7Pc=",
+  "content": "# TaczCurios - 概述\n\n**TaczCurios** 為遊戲 **Tacz** 新增了自訂飾品（配件）。本模組提供的所有加成屬性皆基於 [**Tacz Attributes Addon**](link-to-tacz-attributes-addon) 的動態玩家屬性系統。\n\n## 需求 / 依賴\n\n本模組需要以下依賴模組：\n*   [**Tacz Attributes Addon**]\n*   [**Curios API**]\n*   [**TaCZ**]\n*   [**Apothic Attributes**]\n\n## 特色\n\n*   本模組提供 **6 個內建的 Tacz 飾品欄位** 供使用。\n*   模組設計靈感主要來自 **《Warframe》**，部分元素則受 **《崩壞3rd》** 啟發。\n\n## 配置建議\n\n若要獲得傷害類型的強化體驗，建議將 **Tacz Attributes Addon** 設定檔中的傷害模式更改為 **`ADDITIVE`**（疊加）或 **`MULTIPLICATIVE`**（乘法）。如此即可同時支援通用傷害與特定槍械傷害類型。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

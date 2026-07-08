@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pGkcvYhUSqo=",
+  "content": "# 島嶼工具\n\n一個專為MCC Island設計的客戶端實用模組\n\n**需要 Minecraft 1.20 或更高版本，[Yet Another Config Lib](https://modrinth.com/mod/yacl) 和 [Noxesium](https://modrinth.com/mod/noxesium)**\n\n<a title=\"Fabric API\" href=\"https://github.com/FabricMC/fabric\">\n    <img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"151\" height=\"50\" />\n</a>\n\n#### 如有問題或需要支援，請查看 [GitHub上的問題區](https://github.com/AsoDesu/IslandUtils/issues) 或 [加入Discord](https://discord.gg/zU6Hwap4Gv)\n\n---\n\n**此模組並非官方產品，也未以任何方式獲得Noxcrew (MCCI)的認可。\\\n遊戲音樂由 [Issac Wilkins](https://open.spotify.com/artist/0AhY6cET8JCq1ARiwnTkGi) 創作，所有榮譽歸於他們和Noxcrew。**\n\n## 功能\n- 為島嶼上的遊戲添加事件音樂\n- 自訂音樂和音效的音量滑桿\n- 在遊戲中點擊「斷開連接」時顯示確認畫面\n- 在衣櫃或商店中預覽角色外觀\n- Discord狀態顯示\n- 顯示與朋友在同一遊戲中的訊息\n- 聊天框上方按鈕可切換聊天頻道\n- Parkour Warrior: Dojo的分段計時器\n- 物品製作完成時的通知\n- 指令查看物品在熔爐或組裝機中剩餘的時間",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

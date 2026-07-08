@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OGjmKmToELU=",
+  "content": "# Японский\n\nЭтот мод исправляет задержку в меню, увеличивая частоту кадров главного меню с 30 fps (1.7.x–1.12.2) или 60 fps (1.15.x–1.20.x) до 120 fps. <br />\n\n# Английский\n\nЭтот мод fixes the delay in the menu screen by increasing the frame rate of the main menu from 30fps(1.7.x～1.12.2) or 60fps(1.15.x～1.20.x) to 120 fps.\n\n### ModLoader\n[LegacyFabric](https://legacyfabric.net/) или\n[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)\n\n### Необходимые моды\n[UniMixins 1.7.10 (Forge)](https://modrinth.com/mod/unimixins) <br>\n[MixinBooter 1.8.x～1.11.x (Forge)](https://modrinth.com/mod/mixinbooter/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

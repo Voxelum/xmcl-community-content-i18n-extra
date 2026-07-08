@@ -1,0 +1,6 @@
+{
+  "bodyHash": "74fa053098e15307",
+  "content": "\n\n<p>Небольшой мод, исправляющий проблему, при которой снаряды <span><span>Create Big Cannons</span></span> не взрываются при ударе о землю.</p>\n<p>С установленным этим модом снаряды будут корректно детонировать при столкновении, если на них установлен <strong>ударный взрыватель</strong> или <strong>инерционный взрыватель</strong>. Больше не нужно использовать TNT в качестве инициирующего заряда.</p>\n<p><strong>Требования:</strong></p>\n<ul>\n<li><span><span>Create Big Cannons</span></span> версии выше 5.11.3</li>\n<li>Sable</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

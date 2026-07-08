@@ -1,0 +1,6 @@
+{
+  "bodyHash": "po08hTT95+w=",
+  "content": "# 注意！！！！！\n我（StockiesLad）已經再次退出模組開發。這將解釋為什麼沒有更新。為什麼又一次？因為這不再有趣，而且我總是擔心再次陷入那些煩人的 Discord 紛爭中，這些紛爭總能把模組開發的樂趣徹底榨乾。到目前為止沒有人願意站出來接手開發，這部分是我的錯。這則公告已經晚了幾個月。如果你喜歡 Fastload 並想維護它，請在 Discord 上聯繫我討論。請記住我不會很快回覆，因為我幾乎不再使用 Discord。感謝你花時間閱讀這則公告！\n\n# 簡短說明\nFastload 是一個*相對*簡單的模組，它改變了世界載入的一些關鍵部分來加快載入速度。\n\n# 環境\n- 客戶端（可選）\n- 伺服器（可選）\n\n# 鳴謝\n- StockiesLad（擁有者）\n- JoostMSoftware（共同擁有者）\n- AbdElAziz333（Forge）\n- VidTu（Ksyxis（點子））\n- kennytv（Forcecloseloadingscreen（程式碼））\n\n# 功能\n- 441 預生成：完全將其抽出，使區塊生成與區塊渲染同步。\n- 載入畫面：可取消（可配置）\n- 渲染：預渲染階段（可配置）\n\n# 推薦搭配\n- C2ME：優化區塊生成。\n- Sodium：優化區塊渲染。\n\n# 說明\n441 區塊載入引擎基本上就如其名。之所以是 441 個區塊，是因為它以 10 個區塊半徑生成一個正方形的區塊。乘以 2，加 1（因為你站在一個區塊上），然後平方。Fastload 移除了這個*功能*，因為它非常浪費時間。取而代之的是，它只會載入 1 個區塊（重生點區塊），並在早期渲染期間載入重生點區域的其餘部分。\n\n此外，它還用自己的實作取代了一些載入畫面。這基本上允許渲染立即開始，而不是等到收到玩家生成資料包才開始。\n\n# 連結\n- Modrinth：https://modrinth.com/mod/fastload\n- Curseforge：https://www.curseforge.com/minecraft/mc-mods/fastload\n- Discord：https://discord.gg/fMSnenNSXM",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

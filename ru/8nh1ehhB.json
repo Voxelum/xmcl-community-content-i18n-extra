@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Scbe/ULTPME=",
+  "content": "Устарело в пользу https://modrinth.com/mod/unimixins\n\nБиблиотека, предоставляющая функциональность mixin\n\n* Включает затенённую ветку Sponge Powered Mixins — в настоящее время 0.8.5-GTNH\n* Затеняет необходимые библиотеки, из-за которых ранее версия 0.8.5 была сложна в использовании с MC 1.7.10\n* Добавляет две дополнительные стратегии загрузки для mixin, вдохновлённые Mixin Booter Legacy\n  * IEarlyMixinLoader — для mixin, нацеленных на Minecraft, Forge и CoreMods\n  * ILateMixinLoader и @LateMixin — для mixin, нацеленных на другие (не основные) моды. Требуется как интерфейс, так и аннотация из-за ограничений в ASMDataTable версии 1.7.10\n\nЗаменяет SpongeMixins 1.5 (Не путать с SpongePowered Mixins, на основе которых он создан! Ещё одна причина для переименования)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

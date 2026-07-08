@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TQLO/iUZjOE=",
+  "content": "<p><strong>最新消息</strong>：現已登陸 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fjline4mcdsrv\" rel=\"nofollow\">Modrinth</a>！</p><p>&nbsp;</p><p>這是一款伺服器端模組，可在伺服器控制台啟用指令歷史記錄、自動補全和語法高亮顯示，功能類似於遊戲內的聊天控制台或 Spigot 伺服器控制台。對遊戲體驗應無任何影響。</p><p><img src=\"https://raw.githubusercontent.com/chirs241097/jline4mcdsrv/master/jline4mcdsrvicon.png\" alt=\"jline4mcdsrv 圖示\" width=\"360\" height=\"360\"></p><p>僅支援 Fabric 模組加載器，本模組無需 Fabric API。</p><p>可透過設定資料夾中的 <code>jline4mcdsrv.toml</code> 檔案進行配置：</p><ul>\n<li><code>logPattern</code> 為 Log4j 2 使用的格式（文件請參閱<a href=\"/linkout?remoteUrl=https%253a%252f%252flogging.apache.org%252flog4j%252f2.x%252fmanual%252flayouts.html%2523Patterns\" rel=\"nofollow\">此處</a>）</li>\n<li><code>highlightColors</code> 是按順序用於高亮參數的顏色列表（如上圖所示）</li>\n</ul><p><strong>重要公告</strong>：<del>自 Minecraft 1.17 起，需使用 <code>-Dlog4j.skipJansi=false</code> 命令行參數才能啟用 <code>%style</code>/<code>%highlight</code> 日誌輸出</del>（0.6.2 版本已無需此設定）。</p><p>本模組僅在伺服器以 'nogui' 模式啟動時生效，暫無計劃支援圖形介面伺服器。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

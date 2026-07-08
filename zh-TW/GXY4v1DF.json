@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CcZGdJtF02E=",
+  "content": "適用於客戶端，可在任何伺服器上使用！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/pTwz7nn-Wu8\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"加速器; 自動播放; 剪貼板寫入; 加密媒體; 陀螺儀; 畫中畫; 網路共享\" allowfullscreen></iframe>\n\n![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg) ![neo](https://cdn.modrinth.com/data/cached_images/f0d24b750c946ed2b75ad009167e1d18c0848b39.png) ![bc](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)\n\n## 本模組的客戶端部分\n\n與伺服器版本不同，此模組可在所有伺服器上使用，只需玩家自行安裝即可。\n\n但如果您需要僅在伺服器上安裝才能使用的伺服器版本，請下載：\n\n**重要！**\n\n此模組可在所有伺服器上使用，但使用前請仔細閱讀使用規則，否則您可能被踢出甚至被封鎖。\n\n## 說明\n\nElytraSwapper+ 是一款次世代工具，讓玩家能在需要時隨時切換胸甲與鞘翅。\n\n您無需在伺服器上安裝，只需下載模組即可在任何地方使用 ElytraSwapper+。\n\n## 更新日誌\n\n即將新增設定與 ModMenu 相容性（預計 2026 年 5 月 1 日）。\n\n## 來源：\n\n依賴（僅限 Fabric）：\n\n![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_vector.svg)\n\n# 運作方式？\n1. 一般按鍵綁定\n運作方式為：在設定中指定按鍵（預設為 R），按下後鞘翅會與胸甲交換位置，反之亦然，取決於您穿戴的胸甲。\n2. 自動切換\n此功能在透過按鍵（預設為 B）啟用後，當您從高於 2 格的高度落下時，會自動裝備鞘翅，避免意外摔落。\n\n簡單得像吃派一樣！🍰\n\n需要協助、發現想回報的錯誤，或只是想和友善的人聊聊？加入我們的 Discord 伺服器：[discord](https://discord.gg/9VxUceXn6W)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

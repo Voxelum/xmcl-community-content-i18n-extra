@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FNIDfYaiYxU=",
+  "content": "<p><img src=\"https://user-images.githubusercontent.com/72771682/172119067-8b51be6d-2a66-403d-aca9-ad7182cef3c6.png\" alt=\"\" width=\"706\" height=\"79\"></p><p>&nbsp;</p><p><span style=\"font-size:24px\"><strong>死亡封禁（DeathBan）</strong></span></p><p>DeathBan 是一款 Minecraft 伺服器端的 Forge 模組，旨在透過在玩家死亡時加入可設定的封禁計時器，為 SMP 伺服器打造類似極限模式的體驗。</p><p>&nbsp;</p><p>此模組僅需安裝在 Forge 伺服器端，因此純原版客戶端也可以加入已安裝 DeathBan 的 Forge 伺服器（前提是該伺服器<strong>僅</strong>有伺服器端專用模組）。</p><p>&nbsp;</p><p>您可以在 config/deathban.toml 中調整死亡封禁時間。請注意，變更無需重新啟動伺服器即可生效，但先前的封禁時間不會因此改變。</p><p>&nbsp;</p><p><span style=\"font-size:18px\"><strong>截圖</strong></span></p><p><span style=\"font-size:18px\"><strong><img src=\"https://user-images.githubusercontent.com/72771682/172134395-c0679b91-fd49-4d9d-8887-9869a7bc10c5.png\" alt=\"玩家在間隔一段時間後首次加入時，會收到歡迎訊息\" width=\"846\" height=\"478\"></strong></span></p><p>&nbsp;</p><p><span style=\"font-size:18px\"><strong><img src=\"https://user-images.githubusercontent.com/72771682/172136970-00624438-0e3f-4beb-b0d0-035e9ae0fab4.png\" alt=\"死亡後的自訂封禁畫面\" width=\"847\" height=\"474\"></strong></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

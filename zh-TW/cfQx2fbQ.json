@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OY3myBt+Gnk=",
+  "content": "新增如 ProjectE 般的 EMC 系統，並可在「煉金術台」中轉換物品。\n\n使用「賢者之石」可進行方塊的等價交換。\n\n此模組仍在開發中。\n\n我一直想要一個 Fabric 版的 Project E 模組，所以就自己動手做了。\n\n此模組靈感來自於 Project E。\n\n本模組需要安裝 MCPitanLibarch 作為前置，而 MCPitanLibarch 需要 Architecture API。\n\n目前僅支援 Fabric，且需要 Fabric API。\n\n![AlchemyTableGui](https://media.forgecdn.net/attachments/514/250/2022-11-10_23.png)\n![AlchemyItem](https://media.forgecdn.net/attachments/521/825/2022-11-20_01.png)\n# 物品\n- 賢者之石...進行方塊的等價交換\n- 煉金術台...將物品轉換為 EMC，以及將 EMC 轉換為物品。\n- 煉金術便攜板...煉金術台的隨身攜帶版本",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

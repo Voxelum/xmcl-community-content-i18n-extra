@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VW7OqdySHvM=",
+  "content": "## 🪓 FallingTrees\nРазбивайте деревья быстрее, чем когда-либо! FallingTrees — это незаменимый инструмент для быстрого прогресса, и теперь он доступен в виде datapack!\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H118OP6T)\n\n> ## Оверлей и использование.\n> Чтобы включить встроенный оверлей, выполните команду ```/scoreboard players set #limit fallingtrees_overlay 1```. Чтобы отключить мгновенную добычу, удерживайте клавишу ```sneak``` нажатой.\n> ## Получить как чары <img src=\"https://i.imgur.com/JReqOrU.gif\" width=25>\n> Чтобы использовать это только как чары, установите [FallingTrees Enchantment](https://modrinth.com/datapack/fallingtrees-enchant) datapack вместе с этим.\n## Пример использования\n![Пример использования datapack.](https://github.com/Sheepearrrrrrrrrr/Sheepearrrrrrrrrr.github.io/blob/main/about/yippe.gif?raw=true)\n## Несколько советов\n- Не разбивайте слишком много бревен, иначе вы можете столкнуться с лагами или прекращением работы всего процесса из-за ограничения на количество выполняемых команд.\n\n## Деинсталляция\nЧтобы деинсталлировать, выполните команду `/function sheepearrr:ft/uninstall`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

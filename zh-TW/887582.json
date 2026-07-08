@@ -1,0 +1,6 @@
+{
+  "bodyHash": "x3U9ICazG6M=",
+  "content": "<h2><span style=\"font-family:'arial black', sans-serif;font-size:18px\">更好的疫苗...</span></h2><p>這個模組新增了一種名為「疫苗」的可食用食物，可以用來治療 Hordes 模組中的殭屍感染。這是 Hordes 模組的附加元件，也就是說除非您下載 Hordes 模組，否則這個模組沒有用途：&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/the-hordes\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/the-hordes</a></p><p>&nbsp;</p><p><span style=\"font-family:'arial black', sans-serif;font-size:18px\">操作步驟：</span><br>為了讓疫苗能治療感染，您需要在 Hordes 模組的設定檔中進行新增。對於不可合成的版本：請在設定檔中 \"minecraft:golden_apple\" 的位置新增一個標題為 \"cure:vaccine\" 的條目。完成後，食用疫苗即可治療感染。注意：這是僅限創造模式的物品，無法合成。對於可合成的版本：請在設定檔中 \"minecraft:golden_apple\" 的位置新增一個標題為 \"cure:cure\" 的條目。完成後，食用治癒劑即可治療感染。注意：在這個版本中您可以合成治癒劑，操作步驟請參閱更新日誌。",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

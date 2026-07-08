@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xfl3Ky/ox/w=",
+  "content": "<h1>SlashFly</h1><p>一款為單人與多人遊戲增添簡單<code>/fly</code>指令組的Minecraft模組。</p><h2>主要特色</h2><h3>1.2.0</h3><ul>\n<li>切換遊戲模式時不再失去飛行狀態</li>\n</ul><h3>1.1.1</h3><ul>\n<li>修復<strong>Fabric</strong>版本在地面上挖掘速度過慢的問題</li>\n</ul><h3>1.1.0</h3><ul>\n<li>在水中飛行不再影響挖掘速度</li>\n</ul><h3>1.0.0</h3><ul>\n<li>初次發布</li>\n<li>新增<code>/fly</code>指令組</li>\n<li>飛行開關狀態在登出與死亡後仍持續保留</li>\n<li>飛行時允許正常方塊破壞速度</li>\n</ul><h2>使用方法</h2><pre><code>/fly - 切換飛行模式\n/fly &lt;速度&gt; - 調整飛行速度，範圍0.1至100.0（預設值：0.5）</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

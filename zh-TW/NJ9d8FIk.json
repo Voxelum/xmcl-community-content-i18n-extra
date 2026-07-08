@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d2HfcR3rR1U=",
+  "content": "# 使用「召回光束」自訂你的召回光束顏色！\n\n這個附屬模組真的就只做這件事，沒有什麼花俏的功能！\n\n![青色召回光束](https://cdn.modrinth.com/data/cached_images/a04909eccd6fb1176e9fe1427a9636b2b828eb1a_0.webp)\n\n你可以透過**開啟模組選單列表，找到「召回光束」模組，並編輯設定**來改變光束的顏色。模組使用這種十六進位代碼格式 _AARRGGBB (A: 透明度, R: 紅, G: 綠, B: 藍)_。網路上有十六進位代碼顏色選擇器可以協助你找到喜愛顏色的代碼。\n\n![設定畫面](https://cdn.modrinth.com/data/cached_images/a8f6b9a6c00785c1eadde9f4582db386b446da76_0.webp)\n\n## 重要注意事項\n- 此模組需要：[Cobblemon 模組](https://modrinth.com/mod/cobblemon)、[模組選單模組](https://modrinth.com/mod/modmenu/versions) 和 [Cloth Config API](https://modrinth.com/mod/cloth-config)。\n- 此模組為客戶端模組。光束顏色將完全依照設定中的顏色顯示。\n\n### 模組開發者為 JustAHuman，特別感謝 NecroSo1 將此模組移植至最新版本的 Cobblemon。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

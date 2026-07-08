@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m4rPpliHg2c=",
+  "content": "## 什麼是 SDM 商店？\n此模組新增了一個遊戲內商店，你可以藉此建立自己的經濟體系 <br>\n模組靈感來自於 FTB Money 和 Oxygen Shop。\n\n## 我可以販售或購買什麼？\n- 物品\n- 以標籤分類的物品\n- 指令\n- 成就\n- 尋找生態域/結構\n- 經驗值或等級\n\n### 整合功能\n- 階段（遊戲階段）\n- 任務（FTB Quests）\n- 技能點數（被動技能樹）\n- MNA 陣營（魔法與工藝）\n- MNA 等級（魔法與工藝）\n- MNA 進度（魔法與工藝）\n- MNA 階級（魔法與工藝）\n\n## 我要如何編輯商店？\n- 若要自訂內容，請使用 `/sdmshop edit_mode`\n\n## 我要如何設定或發送金錢？\n- 如果你有管理員權限，可以使用指令 **/sdmshop set <玩家> <金錢數量>** 來給予自己金錢 <br>\n- 使用 `/sdmshop balance` 查看餘額，使用 `/sdmshop pay` 從你的餘額中支付金錢給別人。\n\n## 如何開啟商店？\n- 使用按鍵綁定（預設按鍵 `O`）\n- 使用物品欄畫面左上角的按鈕  \n \n## 如果喜歡，我可以更改商店的風格嗎？\n- 此模組提供自訂介面風格的功能。請前往 `SDMShop/sdmshop-client` 設定檔進行調整\n- 如果你有管理員權限，可以使用 `/sdmshop reloadClient` 重新載入風格\n\n## 如果我想在伺服器上使用呢？\n你可以在伺服器上停用按鍵綁定，讓玩家無法自行開啟商店。如果你是管理員，可以使用 `/sdmshop open_screen` 指令為玩家開啟商店。這在建立 NPC 時非常有用。  \n\n## 我的資訊\n[我的 Discord](https://discord.gg/G6VEaBKcYt) <br>\n[贊助](https://boosty.to/sixik)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

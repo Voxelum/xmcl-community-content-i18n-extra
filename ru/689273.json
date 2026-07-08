@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YKTFv7BTnOE=",
+  "content": "<p>Синхронизируйте знания ProjectE и EMC с друзьями! С помощью этого мода вы сможете делиться EMC и знаниями с членами своей команды ProjectE!<br><br><span style=\"color:#f00\">Внимание</span>: Если этот мод добавлен после создания мира, ваши существующие EMC и знания будут потеряны!<br><br><strong>Команды</strong>:<br>Основная команда: <strong>/team_projecte<br></strong>Пригласить игроков в вашу команду: <strong>/team_projecte invite<br></strong>Список членов команды: <strong>/team_projecte members<br></strong>Исключить члена команды: <strong>/team_projecte kick<br></strong>Покинуть текущую команду: <strong>/team_projecte leave<br></strong>Передать права собственности: <strong>/team_projecte</strong> <strong>transfer_ownership<br></strong>Установить общий доступ к EMC (по умолчанию: true):<strong> /team_projecte settings share_emc false/true<br></strong>Установить общий доступ к знаниям (по умолчанию: true):<strong> /team_projecte settings share_knowledge false/true<br><br>Совместимость:<br></strong>Работает с большинством дополнений для ProjectE<br><br></p>Хотите помощи? Присоединяйтесь к моему&nbsp;<a href=\"https://discord.gg/FFAdyuqNvm\" rel=\"nofollow\">серверу Discord</a>!</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

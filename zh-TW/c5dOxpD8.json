@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D1bXX1czORo=",
+  "content": "# 全域伺服器設定\n\n這是一個簡單的模組，它讓Forge的設定系統從遊戲目錄中的全域`config`資料夾（存放客戶端和通用設定的地方）載入設定，而不是從世界的`serverconfig`資料夾載入。  \n這意味著**你所有的世界都將共用相同的設定檔案**。\n\n*注意：你需要載入一個世界才能看到伺服器設定*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

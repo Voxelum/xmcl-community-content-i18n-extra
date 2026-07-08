@@ -1,0 +1,6 @@
+{
+  "bodyHash": "U9NOQ6bYNe0=",
+  "content": "這個模組強化了原版的獄守者與幽匿機制，賦予獄守者全新的能力。\n\n您可以自由將此模組加入任何模組包中，無需詢問或取得許可，也非常歡迎錄製影片。\n\n<details>\n<summary>劇透警告</summary>\n\n1. 當獄守者或任何幽匿陣營生物攻擊其他生物時，若目標當前生命值低於其最大生命值的40%，將有預設2%的機率將其轉化為幽匿陣營生物，加入幽匿陣營。\n\n2. 當獄守者或任何幽匿陣營生物擊殺其他生物時，有預設30%的機率在死亡位置生成幽匿催化劑。\n\n3. 當生物在幽匿催化劑15格範圍內死亡時，會根據死亡生物的最大生命值在催化劑周圍生成不同大小的生物質，使幽匿得以進一步蔓延。\n\n4. 在原版Minecraft中，深暗之域外生成的幽匿尖嘯體不會召喚獄守者；但在本模組中，每個幽匿尖嘯體——無論以何種方式放置——都必定會召喚獄守者。\n\n5. ![potion](https://cdn.modrinth.com/data/cached_images/9dcfde5970a45cf74d427e61affd53b63d0634b7.png)\n\n淨化藥水\n\n飲用可消除幽匿感染。\n\n按住潛行鍵右鍵點擊其他生物，可消除其幽匿感染。\n\n</details>\n\n指令\n\n\n```\n/gamerule wardeninfectionblock 0~100\n（幽匿陣營擊殺生物生成幽匿催化劑的機率：1 = 1%，預設30%）\n\n/gamerule wardeninfectionchance 0~100\n（當幽匿陣營攻擊者攻擊非幽匿生物且其當前生命值≤最大生命值40%時的轉化機率：1 = 1%，預設2%）\n```\n\n![在生物頭部顯示幽匿尖嘯體作為識別標記](https://cdn.modrinth.com/data/cached_images/6710f833136bb0ca6df07ee1301ee11d9390c9b2.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

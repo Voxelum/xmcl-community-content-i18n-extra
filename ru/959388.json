@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wwawKtWd0Ug=",
+  "content": "<h2>Ирис / Совместимость с Oculus и GeckoLib</h2><p><strong>Это больше не требуется в последних версиях 1.20.1+ GeckoLib! Добавляйте его только в том случае, если у вас возникли проблемы с анимациями из-за более старой версии GeckoLib.</strong></p><p><br>Исправляет проблему, когда анимации сущностей GeckoLib не работают при использовании шейдерпаков с тенями сущностей.</p><p>&nbsp;</p><p>Пример работы сущности GeckoLib с шейдером Insanity, использующим тени сущностей.</p><p><span><span><iframe src=\"https://www.youtube.com/embed/5kLo4HdSz44?wmode=transparent\" width=\"638\" height=\"358\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

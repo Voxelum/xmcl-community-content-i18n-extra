@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DABxjCuQhl8=",
+  "content": "<div align=\"center\">\n<img src=\"https://github.com/Incendo/cloud/raw/master/img/CloudNew.png\" width=\"300px\"/>\n<br/>\n<h1>cloud-minecraft-modded</h1>\n\n![license](https://img.shields.io/github/license/incendo/cloud.svg)\n[![central](https://img.shields.io/maven-central/v/org.incendo/cloud-minecraft-modded-common)](https://search.maven.org/search?q=org.incendo)\n![build](https://img.shields.io/github/actions/workflow/status/incendo/cloud-minecraft-modded/build.yml?logo=github)\n[![docs](https://img.shields.io/readthedocs/incendocloud?logo=readthedocs)](https://cloud.incendo.org)\n</div>\n\nЭтот мод сам по себе ничего не делает, но требуется другими модами. Если вы ищете `cloud-fabric` или `cloud-neoforge`, то это именно то, что вам нужно!\n\n## Ссылки\n\n- JavaDoc: https://javadoc.io/doc/org.incendo\n- Документация: https://cloud.incendo.org/minecraft/modded\n- Discord Incendo: https://discord.gg/aykZu32\n\n## Модули\n\n- cloud-minecraft-modded-common: общие утилиты (парсеры и реализационные детали)\n- cloud-fabric: взаимодействие с платформой модификаций [Fabric](https://fabricmc.net/) (команды для клиента и сервера)\n- cloud-neoforge: интеграция с платформой модификаций [NeoForge](https://neoforged.net/) (команды для клиента и сервера)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

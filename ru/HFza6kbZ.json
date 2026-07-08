@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AnsDaCzKsIE=",
+  "content": "# Веб-запросы\n\n### От AFancyDog\n\nМод «Веб-запросы» добавляет одну команду, `/request`, которая содержит две подкоманды: `get` и `post`.\n\n## `Get`\n\n`/request get <URL> <headers>`\nпример:\n`/request get https://example.com \"foo:bar:::hello:world\"`\n\n## `Post`\n\n`/request post <URL> <headers> <body>`\n\n### URL\n\nСтрока _должна быть заключена в кавычки (\"\")_\n\n### headers\n\nзаголовки форматируются следующим образом: `key1:value1:::key2:value2`; тройные двоеточия разделяют заголовки\n\n### body\n\nтело — это строка, _тоже в кавычках (\"\")_\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

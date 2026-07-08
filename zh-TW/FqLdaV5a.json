@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LO1X5yjJUb8=",
+  "content": "# Wynncraft 法術施放器\n\n此模組為遊戲新增了可設定的法術巨集。每個法術的按鍵綁定可以在按鍵設定選單中進行調整。\n\n此外，可以設定近戰攻擊的按鍵綁定，並可設定為重複執行。\n\n若您手持弓，系統會自動偵測弓箭手職業。\n\n## 安裝與使用\n\n安裝方式很簡單，只需下載最新版本並放入您的 mods 資料夾即可。\n\n**此模組運行於 Minecraft Fabric 1.21 - 1.21.11。**\n\n此外，需要以下模組：\n- [Cloth Config API](https://modrinth.com/mod/cloth-config)\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- [Mod Menu](https://modrinth.com/mod/modmenu)（可選）\n\n## 選項\n\n可透過按鍵綁定（預設為「[」）或經由 Mod Menu 開啟設定選單。\n提供以下選項：\n- 左鍵間隔 [毫秒] - 設定左鍵點擊後等待的毫秒數。\n- 右鍵間隔 [毫秒] - 設定右鍵點擊後等待的毫秒數。\n- 重複近戰攻擊 [是/否] - 若近戰按鍵持續按住，則重複進行近戰攻擊。\n\n## 常見問題\n\n- 此模組在 Wynncraft 伺服器上是否允許使用？\n  - 是的，此模組遵循法術巨集的相關規則，並已獲得管理員的批准。\n- 何時會支援最新的 Minecraft 版本？\n  - 我會盡力讓模組跟隨 Wynntils 使用的版本進行更新。如果您希望支援更新的版本，歡迎在 [GitHub 上建立議題](https://github.com/Freeder1k/Wynncraft-Spell-Caster/issues)。\n- 是否會增加 Forge/NeoForge/Quilt 的支援？\n  - 我曾經考慮過，但這需要耗費大量心力。如果有足夠多的人在 [GitHub 上建立或回覆議題](https://github.com/Freeder1k/Wynncraft-Spell-Caster/issues)，我會考慮增加支援。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6VwjomjPWMo=",
+  "content": "請參閱以下連結，了解如何建立幸運方塊附加元件：\nhttps://docs.creoii.dev/lucky-block\n\n# 概述\n現代幸運方塊模組讓你能夠僅使用 Minecraft 1.20.6 以上版本的資料包，來建立幸運方塊附加元件。\n\n展示影片：<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/MZhXlgb1HZA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n想知道如何安裝附加元件？請參閱[此處](https://docs.creoii.dev/lucky-block/installing-addons)。\n\n> **注意：** 與原始幸運方塊模組不同，現代幸運方塊模組並未內建預設的幸運方塊附加元件。若要下載基本附加元件，請前往[此處](https://modrinth.com/datapack/modern-lucky-block-addon)。\n\n> **注意：** 此模組仍處於早期開發階段。未來仍會進行重大變更，特別是在 JSON 檔案的結構方面。請附加元件開發者留意此事。\n\n# 即將推出的功能\n- 錯誤修復\n- 更多提供者類型\n\n# 為什麼要使用？\n原始幸運方塊模組已經超過一年沒有更新，且僅支援 Minecraft 1.20.2 及以下版本。此外，它並未利用 Minecraft 提供的現代工具，也就是資料包系統。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

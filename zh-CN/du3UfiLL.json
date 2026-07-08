@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MFQ6JmytMVs=",
+  "content": "## 你是否想为你的世界增添一些更激动人心的Boss战？这个模组的目的是创造史诗般的末期Boss战。\n\n目前，这个模组有四个Boss。\n\n夜灵巫妖，出现在寒冷生物群系的稀有塔楼中。通过跟随灵魂之星找到塔楼。\n末地石，出现在末地岛屿的稀有结构中。\n下界护手，出现在下界的稀有结构中。\n虚空花，出现在世界底部的稀有洞穴中。虚空百合会指引方向。\n它们可以通过创造模式中的/summon命令访问。\n\n## 常见问题\n\n**你能将这个模组移植到Forge或旧版Minecraft吗？**\n\n- 我不会，但其他人可以这样做。\n\n## 安装：\n\n像任何常规的Fabric模组一样安装，依赖项如下。\n\n- [Geckolib 3](https://www.curseforge.com/minecraft/mc-mods/geckolib/files)\n- [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)\n- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n- [Cardinal Components](https://www.curseforge.com/minecraft/mc-mods/cardinal-components)\n- [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)\n\n[开发路线图](https://docs.google.com/document/d/1FWIecLltFT8ySfeusy30RAh5R36tWVKUvW9p6qo66AU/edit?usp=sharing)  \n\n[私人反馈（Google表单）](https://forms.gle/CNeK58ip6qCVzXiY9)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5Hz0P9CIRU4=",
+  "content": "<p>一個簡單的模組，為 1.21.1 版本的 Create 與 TacZ 之間搭建橋樑。</p><p>這是我第一個模組，歡迎在 GitHub 頁面（未來計畫）留下建議。</p><p>此模組專注於透過 Create 自動化彈藥生產。</p><p>根據現實中的彈藥類型，每種彈藥的配方都不同。城市彈藥比戰爭彈藥更簡單。</p><p>根據組裝最後放入的彈頭類型，會產出不同的彈藥結果。</p><p>範例：<br>黃銅粒 → 鋸子 = 空黃銅彈殼（未完成）</p><p>空黃銅彈殼（未完成） → 壓印機 = 空黃銅彈殼</p><p>空黃銅彈殼 + 燧石 = 12g</p><p>空黃銅彈殼 + 一撮火藥 = 底火黃銅彈殼</p><p>底火黃銅彈殼 + 鋅粒 = 5.56x45</p><p>底火黃銅彈殼 + 鐵粒 = 5.45x39</p><p>未來計畫：</p><p>1- 目前尚未涵蓋所有彈藥（已涵蓋13種），但計畫中會補齊。</p><p>2- 針對各模組組件（主要是彈殼），理想上不是使用單一配方，而是建立類似精密機件的組裝流程——請在留言區提供回饋。</p><p>3- 在戰利品箱的 loot-table 中新增空彈殼。</p><p>依賴模組：</p><p>[<a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" rel=\"nofollow\">Create</a>]</p><p>[<a href=\"https://www.curseforge.com/minecraft/mc-mods/create-big-cannons\" rel=\"nofollow\">Create: Big Cannons</a>]</p><p>[<a href=\"https://www.curseforge.com/minecraft/mc-mods/tacz-1-21-1\" rel=\"nofollow\">[非官方] TaCZ 1.21.1 NeoForge 移植版</a>]</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

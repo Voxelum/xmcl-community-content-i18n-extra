@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Vp4DdoFM92I=",
+  "content": "# ➕➖REI 搜尋列計算功能✖️➗\n\n- 這個模組讓 REI 的搜尋列可以當作計算機使用，功能類似於 Forge 1.8.9 的 NEU（Not Enough Updates）模組。\n\n  ![計算機實際使用示範。](https://cdn.modrinth.com/data/cached_images/0fc6db9cd56f4e776c8f7921f6116529e6ba7373.gif)\n\n- 這個模組支援數字公制單位前綴功能，\n\n  ![公制單位前綴展示。](https://cdn.modrinth.com/data/cached_images/1658e43584bdbc5f928e5d2f4081b1e6017c0b97.gif)\n\n- 並且也支援將 Minecraft 的堆疊數量作為單位使用。\n\n  ![使用堆疊作為單位的展示。](https://cdn.modrinth.com/data/cached_images/79a76572b5ce5bc7c99474f070df703b737e1ef8.gif)\n\n- 模組還新增了 **/calc** 指令，功能相同但以指令形式運作。\n\n  ![指令實際使用示範。](https://cdn.modrinth.com/data/cached_images/727dee7e63861a7b8e59d4ce04f39e1033f70d6d.gif)\n\n- **新功能** 使用 e 來代表物品的附魔版本（數量*160）。\n\n一個簡單快速的日常計算工具！\n\n## 📖 依賴項目\n**目前需要 [REI](https://modrinth.com/mod/rei) 才能運作**，我計劃在未來讓這個模組能夠獨立於 REI 運行。\n\n## 📖 為什麼製作這個模組？\n\n這個模組的誕生主要是因為 Hypixel Skyblock 最近的更新強制玩家使用 1.21.5 版本來遊玩他們最新的內容島嶼，而一個為 REI 新增的模組將天空島物品加入了其中，本應成為新版本中 NEU 的替代品。然而，REI 缺少了這個我個人非常懷念的便利功能，我的目標是服務像我一樣覺得缺少這個功能很煩人的玩家。同時，我也鼓勵所有使用 REI 的玩家給這個模組一個機會，因為如果你在玩模組包時，它確實能增加一些實用功能，不必每次需要計算時都打開計算機應用程式。\n\n另外我想明確說明的是，計算機功能本身並不是我開發的，它完全是由 NEU 背後的團隊所製作，我將其取用並實作到自己的模組中，這在他們的授權下是允許的。\n\n### **希望您享受使用它！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "n6LnX5r78r4=",
+  "content": "你是否厌倦了灾厄村民太过脆弱，连一点防护装备都不穿？\n\n你是否觉得袭击事件应该更具挑战性？\n\n这款模组正是为你量身打造，它提供了配置选项，可以禁止特定灾厄村民自然生成时穿戴盔甲，或者完全禁用所有灾厄村民的盔甲生成机制！\n\n其他模组中的灾厄村民，只要在代码中继承了`IllagerModel`类，也能正常渲染盔甲效果。\n\n要让灾厄村民生成时携带自定义装备，只需在自定义数据包中覆盖以下文件即可：\n\nhttps://github.com/seymourimadeit/illagersweararmor/tree/main/src/main/resources/data/illagersweararmor/loot_table/entities",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

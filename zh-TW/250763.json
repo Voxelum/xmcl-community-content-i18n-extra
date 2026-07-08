@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Rb11vl0ZfeA=",
+  "content": "<p>RFTools Control 是 RFTools 模組的擴充套件，它透過基於視覺化網格的程式語言來實現自動化控制。透過在網格中排列操作碼，您可以移動物品、控制紅石訊號、檢查能量（RF）等等。您不僅可以存取常規的儲物空間，此模組還支援直接存取由儲存掃描器控制的系統。未來，它還將提供一種方式，讓儲存掃描器能夠自動合成物品，不過這項功能目前尚未完全實現。</p><p>&nbsp;</p><p>此模組中的兩個主要方塊是「程式設計器」（用於創建程式）和「處理器」（用於執行這些程式）。同時也提供了網路功能。</p><p>&nbsp;</p><p><img src=\"https://i.imgur.com/HUSRyZp.png\" alt=\"\" width=\"669\" height=\"468\"></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><span style=\"font-size:12px\"><strong>注意</strong>！由於難以在多個平台上追蹤，評論功能已被停用。如果您想提交錯誤報告，請前往「Issues」標籤頁或此處：<a href=\"https://github.com/McJty/RFToolsControl/issues\" rel=\"nofollow\">RFTools Control 問題追蹤器</a>。如果您想討論 RFTools 的相關內容，可以在此處進行：<a href=\"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2742079-rftools-control-advanced-visual-automation-system\" rel=\"nofollow\">RFTools Control 在 MC 論壇</a></span></p><p>&nbsp;</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

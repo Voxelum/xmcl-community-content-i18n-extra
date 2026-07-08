@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2V9R4fepHYM=",
+  "content": "<h1>語言修正</h1><p><strong>語言修正</strong> 是一款輕量級的用戶端模組，可智慧管理 Minecraft 的語言回退機制，透過讓您為任何語言定義自訂回退鏈，確保流暢的多語言體驗。</p><p>當使用提供多種語言翻譯的資源包或模組時，缺少的條目通常會預設為英文，破壞沉浸感。此模組允許您在偵測到特定語言代碼時，自動注入一個或多個回退語言——讓所有文字保持可讀且一致，完全符合您的期望。</p><h2>✨ 功能特色</h2><ul>\n<li><strong>智慧回退：</strong>當語言清單中包含已設定的語言代碼時，自動附加使用者定義的回退語言。</li>\n<li><strong>完全可設定：</strong>編輯 <code>config/lang_amend/lang_amend.json</code> 可建立任意數量的映射（例如將 <code>lzh</code> 映射為 <code>[\"zh_cn\", \"zh_tw\"]</code>，或將 <code>en_us</code> 映射為 <code>[\"en_pt\"]</code>）。</li>\n<li><strong>不影響遊戲：</strong>在幕後靜默運作，無需修改遊戲檔案或資源。</li>\n<li><strong>相容性高：</strong>可與其他模組和資源包順利配合。</li>\n</ul><h2>🔧 運作方式</h2><p>此模組掛載至 Minecraft 的語言載入系統。若當前語言清單包含設定中定義的任何鍵，它會附加對應的回退語言——保留原始順序並避免重複。最終產生一個符合您偏好的合併語言清單。</p><h2>📁 設定範例</h2><pre><code>{ \n  \"lzh\": [\"zh_cn\", \"zh_tw\"], \n  \"en_pt\": [\"en_us\"] \n}</code></pre><hr><p>修改前：找不到文言文翻譯時使用英文</p><p><img src=\"https://media.forgecdn.net/attachments/description/1478308/description_402ee931-bb0a-47e7-9b88-85caedd0863b.png\" alt=\"\"></p><p>修改後：找不到文言文翻譯時使用簡體中文</p><p>&nbsp;&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/description/1478308/description_ed2968ca-67e0-4785-96b5-dc2088c0a51d.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

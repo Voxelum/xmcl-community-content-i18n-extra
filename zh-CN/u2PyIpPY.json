@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RUWLTdw7W6U=",
+  "content": "# ProjectE: 为铁魔咒书添加EMC值\n\n游玩[铁魔咒书](https://modrinth.com/mod/irons-spellbooks)与[ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)时，你会发现其材料没有EMC值。这个纯数据向的扩展包能够修复这个问题。\n\n- **精心调整的EMC值**，涵盖核心材料——奥术精华、原始秘银、焦狱金属、烬烬精华、野猪皮、龙皮、神圣珍珠等。\n- 绝大多数合成产物（锭、符文、锻造升级装备链）**会自动继承EMC值**，只需为基础材料设定好价值，便会根据模组原版风格的配方自动计算。\n- **焦狱金属被刻意设定为高价值**——因为它可以转化为远古残骸，若价值过低会引发EMC复制漏洞。挖矿依然是正道。\n- **带有状态物品默认无EMC值**：法术书、卷轴、武器、法杖、护甲和升级宝珠均含有储存的法术、耐久度或升级数据，这些不应由ProjectE定价。\n\n本模组不添加任何物品、方块或合成配方——仅提供EMC数据。加载世界后即可应用数值；打开转化桌即可查看。\n\n**依赖关系**\n\n- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) — 必需\n- [铁魔咒书](https://modrinth.com/mod/irons-spellbooks) — 必需\n- NeoForge 1.21.1\n\n基于流体的墨水与灵药物品（在炼金釜中制作）未包含在此首个版本中。当前EMC值为初步设定；欢迎在问题追踪器中提交平衡性反馈。\n\nMIT协议。铁魔咒书由Iron431与Lab3制作；ProjectE由sinkillerj与贡献者制作。本模组为独立整合作品，与两者均无从属关系。源代码及问题反馈：https://github.com/KURONAMI333/irons-spellbooks-emc",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RWmODeYBvGg=",
+  "content": "在物品提示中對附魔進行排序。（按字母順序）  \n這使用 mixins 而非 Fabric/(Neo)Forge API 的提示事件，因此比大多數替代方案稍快一些。大概吧。\n\n<img width=\"302\" src=\"https://github.com/unilock/SortedEnchantments/assets/11802133/6222d272-4c98-4644-bcb0-ba3473696f5e\">\n\n&nbsp;\n\n### 常見問題\n\n問：那植物魔法的魔力附魔怎麼辦？它會對附有多個附魔的附魔書施加第一個附魔！？  \n答：現在可以特別針對附魔書停用附魔排序功能！ 🐴💦",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

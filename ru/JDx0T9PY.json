@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fDsvCOV0kGI=",
+  "content": "Небольшой патч совместимости для модов [EpicFight](https://modrinth.com/mod/Epic-Fight) и [First Person Model](https://modrinth.com/mod/first-person-model).\n\n**Что он исправляет:**\n\nEpicFight intentionally отключает мод First Person Model, регистрируя собственный ActivationHandler, который блокирует отображение тела в первом лице всякий раз, когда игрок находится в режиме EpicFight. Кроме того, сетки головы и шляпы игрока не скрываются в виду первого лица, из-за чего они пересекаются с камерой.\n\n**Этот мод устраняет оба этих недостатка с помощью миксинов:**\n\n- Отменяет регистрацию ActivationHandler от EpicFight, благодаря чему мод First Person Model больше не подавляется, и анимированное тело в первом лице отображается правильно.\n- Вставляет код в рендерер игрока от EpicFight, чтобы надлежащим образом скрывать сетки головы и шляпы в виду первого лица, предотвращая пересечение с камерой.\n\n**Требования:**\n- EpicFight\n- First Person Model\n\n**Необязательно:**\n- 3D-слои кожи",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

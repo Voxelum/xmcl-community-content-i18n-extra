@@ -1,0 +1,6 @@
+{
+  "bodyHash": "STdofE9hRGI=",
+  "content": "<h1 style=\"text-align:center\"><strong>无脑射击终结者</strong></h1><p style=\"text-align:center\"><span style=\"color:#e03e2d\"><strong>注意：本模组需要依赖&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero\" target=\"_blank\" rel=\"nofollow\">TACZ模组</a></strong></span></p><p style=\"text-align:center\">每一发子弹都至关重要。</p><p>为提升TacZ游戏难度（同时强化消音器实用性），远处的僵尸（甚至可能形成尸潮）现在能听见枪声并会被声音吸引。每次射击都将产生连锁反应，潜行策略的价值因此凸显。</p><p>&nbsp;</p><p>您可在配置文件中开启尸潮功能（将useHorde设为true）以获得更具挑战性的体验</p><p>&nbsp;</p><p>可配置项目包括：</p><ul>\n<li>预警提示（当射击次数达到触发尸潮阈值的一半时显示）</li>\n<li>危险警报（当射击次数达到阈值并触发尸潮时显示）</li>\n<li>是否忽略消音武器的射击计数</li>\n<li>射击计数有效半径（玩家超出该范围时射击计数重置）</li>\n<li>触发尸潮所需的射击次数阈值</li>\n<li>尸潮持续时间（以游戏刻为单位）</li>\n<li>射击计数连续时间窗口（以秒为单位，超时则计数重置）</li>\n</ul><p>以及更多配置选项，请查看模组配置文件了解详情。</p><p>&nbsp;</p><p>问题反馈请提交至GitHub项目仓库</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

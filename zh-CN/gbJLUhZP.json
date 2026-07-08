@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JTbD9P3+UPQ=",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/8d0cea0e0b863dbf81b04820129c8386c6bb2a10.png)\n\n**《无干扰配方》**是一款简洁的辅助模组，能自动隐藏庞大的物品列表——除非你主动搜索，否则绝不会让满屏元素占满你的背包界面。目前完整支持EMI、REI和JEI。\n\n对于不熟悉模组版MC的新玩家而言，打开界面突然被成百上千件物品糊脸，往往会产生强烈的压迫感，甚至成为难以逾越的入门门槛。既然玩家并不需要随时查看完整物品列表，那么自动隐藏物品列表能有效提升新手的界面亲和力。\n\n模组还提供额外选项（默认关闭）：降低原版搜索框那略显突兀的不透明度，使其更自然地融入背景；同时可设置提示文字\"搜索以查看配方\"，帮助困惑的玩家确认JEI功能仍在正常运行。\n\n此外，虽然渲染物品列表对性能影响不大，但减少屏幕元素总归是件好事。\n\n在《Prominence II RPG》整合包中的实际效果：\n\n![demo](https://cdn.modrinth.com/data/cached_images/a856a123520b6ef92d25b09eb5e7f921e98ad499_0.webp)\n\n若追求极致沉浸体验（使用EMI时），可参考以下配置：\n- 无干扰配方 > 降低不透明度：开启\n- EMI > 左侧边栏 > 标题：隐藏\n- EMI > 右侧边栏 > 列数：9\n- EMI > 居中搜索栏：关闭\n- EMI > 配置与配方树按钮：隐藏\n\n这样能隐藏所有非必要界面元素，同时保留左侧收藏夹与右侧搜索功能：\n\n![沉浸模式](https://cdn.modrinth.com/data/cached_images/4be83ef7666bad175ce73749a3d954abac48c179_0.webp)\n\n若担心玩家困惑，可启用提示文本选项：\n![帮助文本](https://cdn.modrinth.com/data/cached_images/feeb3205b0861d749d0454dfe3c9ff4ad9627b49.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

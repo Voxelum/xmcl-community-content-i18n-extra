@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BmOy+rfF/hs=",
+  "content": "![](https://user-images.githubusercontent.com/37985539/134406322-bdc3df6b-18a3-4965-b6c4-25e25d9c2df2.png \"\")\n\nTrofers 是一款模組，它添加了可透過資料包使用物品或實體自訂的獎盃。\n\n此模組的舊版本可在 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trofers) 找到。\n\n內含的資料包為每種生物添加了獎盃，當對應實體被玩家擊殺時，有 1/1000 的機率掉落。這些獎盃的掉落率可透過配置更改。同時也支援來自 Quark、Alex's Mobs、Tinker's Construct 和 Thermal Expansion 的實體。\n\n有關如何創建和自訂獎盃的更多資訊，請參閱 [GitHub](https://github.com/ochotonida/trofers/blob/HEAD/README.md)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

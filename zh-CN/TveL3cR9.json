@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2THwc3NXGY8=",
+  "content": "# 兼容所有材质包！\n由于本资源包仅修改方块模型而非纹理，因此它能兼容所有材质包，包括更高分辨率的材质包！\n\n## 这是什么资源包？\n本资源包修改了双层台阶方块的模型，使其外观与完整方块有所区分。\n以这些橡木木板和台阶为例：\n![展示完整方块与双层台阶差异的示例图](https://cdn-raw.modrinth.com/data/TveL3cR9/images/c01eac9d02dd6c70faf7d4800a4a958831b59c5e.png)\n\n如您所见，这些改动能在不牺牲其他纹理或无需安装模组的情况下，为建筑提供更多样化的选择。\n\n## 具体有哪些改动？\n大多数变体会将模型旋转90°（上层为台阶变体，下层为完整方块*）\n![游戏内方块对比图：上层台阶变体，下层完整方块](https://cdn-raw.modrinth.com/data/TveL3cR9/images/7d282a1cd3a4062cfcebd9eacae734aa11163da8.png)\n*1.21版本的新方块未在图中展示，但已包含在资源包中。\n\n不过，部分台阶采用了特殊改动以增强实用性。例如，砂岩和红砂岩台阶会在所有侧面显示底部纹理。如下图所示：\n\n![砂岩与红砂岩台阶变体的等轴视图](https://cdn-raw.modrinth.com/data/TveL3cR9/images/12c5b2887bb4b38bff2597ae8f234d09558f9d69.png)\n\n另一个例外是錾制砂岩和錾制红砂岩台阶。模型侧面已添加中间接缝，以匹配（未改动的）平滑石头台阶——因为在原版游戏中，它们是唯一纹理不同的双层台阶变体。\n\n![錾制砂岩、錾制红砂岩与平滑石头的等轴对比图](https://cdn-raw.modrinth.com/data/TveL3cR9/images/149a4ab7b4b8ddf67e8db253f7b2f47b59a84170.png)\n\n> *请注意，錾制砂岩和錾制红砂岩台阶的改动会影响其单层台阶变体，以确保模型与双层变体保持一致。但这仍不影响与其他材质包的兼容性。\n\n最后，竹马赛克变体采用镜像翻转而非90°旋转，因为若不这样做，两者差异几乎无法辨识。\n\n![竹马赛克方块的等轴视图](https://cdn-raw.modrinth.com/data/TveL3cR9/images/6bb653197b775cfab04f7787ce1ffb766e2cdefa.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

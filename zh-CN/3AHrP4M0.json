@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+WgBaE8epgo=",
+  "content": "![](https://i.imgur.com/1LtRXYe.png)\n## FPS 监控器\n是一款轻量级、可配置且多功能的工具，用于在屏幕上显示游戏信息，方便访问和阅读。该模组可以在屏幕上作为 HUD 和游戏窗口标题栏显示客户端的 FPS（每秒帧数）、服务器连接延迟和内存使用情况。该模组适用于 Forge 和 Fabric。\n\n![](https://i.imgur.com/UVdE34a.png)\n![](https://i.imgur.com/r5rgK53.png)\n### HUD：\nHUD 中信息的显示方式可以在模组的语言文件中进行配置。每个 HUD 元素也可以在配置中单独关闭。\n![](https://i.imgur.com/zY9DaFL.png)\n![](https://i.imgur.com/9i4rFyG.png)\n### 游戏窗口：\n启用 `game_window_info` 选项以在游戏窗口标题中显示信息。\n![](https://i.imgur.com/unA8TsZ.png)\n### 设置：\n以下是使用 Cloth Config 进行 Fabric 时的游戏内设置菜单外观。\n![](https://i.imgur.com/ympLf7Y.png)\n### 按键绑定：\n您可以为每个 HUD 元素分配按键绑定，以打开或关闭它们，甚至可以使用“全部切换”选项关闭整个 HUD。\nFabric：按键绑定仅在安装了 Fabric API 时有效。\n![](https://i.imgur.com/ujR2gyb.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

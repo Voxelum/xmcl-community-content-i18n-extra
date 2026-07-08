@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TLcJmDqpBgE=",
+  "content": "# 這是什麼模組包？\n- 這是一個重新製作並重新想像基岩版附加元件《動作與物品》（Actions & Stuff）的作品。它增加了更多玩家與生物的動作、3D物品以及更多內容，讓遊戲感覺煥然一新且更加有趣！\n- 我也加入了一些實用工具，例如重播模組（Replay Mod）和動態光源（Dynamic Lighting），幫助內容創作與一般遊戲體驗更順利。\n最後，您可以選擇透過 Iris 啟用 Complementary 光影（或任何其他光影！），但這會停用我加入的遊戲內迷霧效果。\n\n**請查看截圖畫廊以獲得更多圖片！**\n\n\n\n# 已知問題\n  1. 用於箱子動畫的模組（來自 Fresh Animations 擴充包）在箱子模型上有一個錯誤。雖然我已經在物品欄中加入了修正，但手持物品時外觀仍會出現破損。\n  2. 部分玩家動作（來自 Fresh Player Animations 擴充包）預設為停用，因為它們會破壞皮膚圖層。如果您的皮膚上沒有任何圖層，請開啟此功能以獲得最佳體驗。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

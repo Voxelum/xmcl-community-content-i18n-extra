@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tA3gSyE/rSQ=",
+  "content": "<p><strong>免責聲明：</strong>此為1.19.+版本移植改造，並對原版模組進行7%效能優化。由於原版模組停滯於1.18版本，導致無法透過CurseForge加入模組包。若原版模組後續更新至1.19+版本，本移植版將停止維護。原版模組與作者資訊請見：<span style=\"color:#00f\"><a style=\"color:#00f\" href=\"https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric\" rel=\"nofollow\">XL Packets</a></span><br><strong>免責聲明二：</strong>本模組沿用原版公共領域授權協議。若後續本人停止維護，請轉為支持原版作者。<br><br></p><p>若兩者皆無法在1.20.X版本運行，可嘗試此替代模組：<span style=\"color:#00f\"><a style=\"color:#00f\" href=\"https://www.curseforge.com/minecraft/mc-mods/packet-fixer\" rel=\"nofollow\">Packet Fixer</a></span></p><p>本模組將封包大小上限從2MB提升至2.14GB（整數極限值，因技術限制無法突破此數值而不進行封包拆分重組），使特定大型資料包（如起源模組所用之資料包）能正常運作，避免客戶端因封包大小超限而遭斷線。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

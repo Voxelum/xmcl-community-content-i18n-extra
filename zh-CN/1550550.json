@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MabLfMP8kgk=",
+  "content": "<h3><strong>Just Gash Loot</strong></h3><p><strong>Just Gash Loot</strong> 是一款旨在减少无谓刷取的生活质量模组。它允许你保存箱子中的战利品表，并在你的基地中生成其中的物品。</p><h3>工作原理</h3><ol>\n<li>当你找到一个战利品箱（或任何带有生成战利品表的容器，例如 <a href=\"https://www.curseforge.com/minecraft/mc-mods/lootr\" target=\"_blank\" rel=\"nofollow\">Lootr</a> 模组的箱子），制作一个<strong>战利品石板</strong>。手持石板并<strong>Shift + 右键点击</strong>箱子，即可保存其战利品表。</li>\n<li>制作一个<strong>战利品生成器</strong>，然后手持已填充的战利品石板右键点击以将其插入。</li>\n<li>为机器供应<strong>熔岩</strong>（仅可通过自动化方式）或<strong>能量（FE/RF）</strong>。</li>\n<li><strong>提取战利品</strong>。经过一段基于所用燃料的处理时间后，战利品将被生成，并可以使用漏斗、管道或任何物品运输系统将其取出。</li>\n</ol><p>&nbsp;</p><h5><strong>合成配方<br>战利品石板<br><img src=\"https://media.forgecdn.net/attachments/description/null/description_a0ca9f92-29d1-4244-974a-b1c4ef89a6c4.png\"><br><br>战利品生成器<br><img src=\"https://media.forgecdn.net/attachments/description/null/description_1b0f3998-e3e2-4373-be33-4d1ad07efa46.png\"><br></strong></h5>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

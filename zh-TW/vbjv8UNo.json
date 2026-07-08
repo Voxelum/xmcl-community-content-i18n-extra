@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nfaI1vYmM9g=",
+  "content": "修復了一個小錯誤，該錯誤導致當模組包中缺少任何指定的附魔ID時，RL附魔書資源包和其他附魔書資源包無法正確應用。\n\n這使得其他模組包即使沒有資源包中所有附魔的CIT（自訂物品紋理），也能使用RL附魔書或其他資源包來實現自訂附魔書/物品的CIT功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

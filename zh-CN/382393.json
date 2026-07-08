@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tBh5GI9wTsQ=",
+  "content": "<p>一个简单的用于<a href=\"https://www.curseforge.com/minecraft/mc-mods/opencubicchunks\" rel=\"nofollow\">Cubic Chunks</a>的预生成模组。</p><h1>使用方法</h1><p>请注意，以下列出的所有坐标均以方块为单位，而非立方体。坐标转换会自动处理。</p><p>CCPregen 的使用非常简单。它添加了一个命令，虽然名字缺乏创意，但你只需要输入 <code>/ccpregen</code> 即可。<br>\n要从 (0,0,0) 开始预生成一个 500³ 方块大小的立方体区域：<br>\n<code>/ccpregen 0 0 0 500 500 500</code></p><p>要在地狱中预生成一条宽高均为 300 方块、长度为 1000 方块的隧道：<br>\n<code>/ccpregen -150 0 0 149 300 1000 -1</code></p><p>由于这是一个非常简单的模组，目前无法同时运行多个预生成任务。使用 <code>/ccpregen_stop</code> 可中止正在进行的预生成任务，使用 <code>/ccpregen_pause</code> 和 <code>/ccpregen_resume</code> 可暂停/恢复预生成过程。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

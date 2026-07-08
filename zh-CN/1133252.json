@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m5ODhnrRmF8=",
+  "content": "<p>数据魔法(Datamancy)提供了一系列功能，极大地扩展了数据包和资源包能实现的效果。无论您是想要定制游戏体验的模组包作者、构思独特剧情的地图设计师，还是开发新内容的模组开发者，数据魔法都能为您的工具库增添强大助力！</p><p>&nbsp;</p><h2>标签系统</h2><p>数据魔法新增了多个功能性标签。请注意这些标签仅支持添加条目，移除条目会导致不可预知的行为。</p><p><strong>方块标签</strong></p><ul>\n<li>datamancy:supports_turtle_eggs - 海龟可以在被添加至此标签的方块上产卵</li>\n</ul><p><strong>物品标签</strong></p><ul>\n<li>datamancy:brewing_fuel - 此标签内的物品可用作酿造台燃料</li>\n<li>datamancy:distracts_enderman - 在任何盔甲槽位佩戴此标签物品可防止末影人被激怒</li>\n<li>datamancy:distracts_piglins - 在任何盔甲槽位佩戴此标签物品可防止猪灵被激怒</li>\n<li>datamancy:prevents_trampling - 在靴子槽位佩戴此标签物品可防止踩踏作物</li>\n<li>datamancy:respawn_anchor_fuel - 此标签内的物品可用作重生锚燃料</li>\n</ul><p><strong>盔甲纹饰材料</strong></p><ul>\n<li>datamancy:distracts_enderman - 佩戴使用此材料纹饰的盔甲可防止末影人被激怒</li>\n<li>datamancy:distracts_piglins - 佩戴使用此材料纹饰的盔甲可防止猪灵被激怒</li>\n</ul><p><img src=\"https://assets.blamejared.com/nodecraft/darkhax.jpg\" alt=\"Nodecraft赞助标识\" width=\"1080\" height=\"40\">本项目由Nodecraft赞助。使用优惠码<a href=\"https://www.curseforge.com/linkout?remoteUrl=https://nodecraft.com/r/darkhax\" rel=\"nofollow\">DARKHAX</a>可享首月服务7折优惠！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

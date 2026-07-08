@@ -1,0 +1,6 @@
+{
+  "bodyHash": "h6S75ft9upk=",
+  "content": "一个客户端的 [Fabric](https://fabricmc.net) / [Quilt](https://quiltmc.org/) 模组，显示手持物品的信息（如附魔）在其名称下方。\n\n![示例：附魔](https://cdn-raw.modrinth.com/data/tEcWzCZz/images/197df08082921a25af462a3575f5da15bc495e5f.png)\n\n需要 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)。\n\n当你手持物品时，可以显示以下信息：\n- 附魔\n- 药水效果\n- 容器内容（主要是潜影盒和束口袋）\n- 烟花属性（飞行时间、形状、颜色）\n- 命令方块内的命令\n- 蜂巢/蜂箱内的蜜蜂数量\n- 弩中的弹药\n- 物品描述\n- `Unbreakable` 标签\n- 告示牌文本\n- 音乐唱片和唱片碎片的标题\n- 画作信息（标题、作者、尺寸）\n- 山羊角乐器\n- 成书作者和生成\n- 填充地图标识符\n- 旗帜图案（适用于旗帜图案物品和实际的旗帜或盾牌）\n- 桶中热带鱼的种类\n\n如果安装了 [Mod Menu](https://modrinth.com/mod/modmenu) 和最新版本的 [Cloth Config](https://modrinth.com/mod/cloth-config)，可以在游戏中单独切换这些信息的显示。\n\n## 鸣谢\n- `pt_br` 翻译由 [FITFC](https://github.com/FITFC) 提供\n- `ru_ru` 翻译由 [DrHesperus](https://github.com/DrHesperus) 提供\n- `zh_cn` 翻译由 [Cccc-owo](https://github.com/Cccc-owo) 提供\n\n链接：[CurseForge](https://www.curseforge.com/minecraft/mc-mods/held-item-info) · [GitHub](https://github.com/A5b84/held-item-info) · [Modrinth](https://modrinth.com/mod/held-item-info)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RL+yMGBJB+g=",
+  "content": "![横幅](https://cdn.modrinth.com/data/cached_images/96248878fe041b6ab945a95f4b8d1c29827545c5_0.webp)\n\nCerulean 是一款优化 Minecraft 成就检查系统的模组，专门针对会造成严重延迟的 InventoryChangeTrigger（物品栏变更触发器）进行改进。该触发器在包含大量模组成就的整合包中可能导致严重卡顿。此模组是 [Icterine](https://www.curseforge.com/minecraft/mc-mods/icterine) 的分支版本，已更新至现代版本并新增多项功能。\n\n除了适配 1.21.1 版本外，Cerulean 新增了「每数刻仅处理一次成就」的选项，此机制与「成就优化模组」（与原版 Icterine 不兼容）的策略类似。该选项会确保玩家首次拾取物品时必定触发成就检测——避免因物品移动延迟而导致成就解锁停滞的问题。\n\n摘自[原模组页面](https://www.curseforge.com/minecraft/mc-mods/icterine)：\n\n- 优化获取物品时的成就触发机制；\n- 可能与原版行为存在差异，但不影响原版成就，且对绝大多数模组/数据包无影响；\n- 即使存在兼容问题，通过丢弃并重新拾取所需物品仍可解锁成就；\n- 目前未发现任何兼容性问题或故障；\n- 所有对原版代码的注入均可通过配置文件禁用；\n- 所有改动仅需服务端安装。\n\n![演示](https://cdn.modrinth.com/data/cached_images/797fa412fd19741a2cefc33f960dfc44636248cc.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

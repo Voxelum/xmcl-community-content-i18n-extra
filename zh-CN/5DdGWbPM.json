@@ -1,0 +1,6 @@
+{
+  "bodyHash": "W3fH80PcCL8=",
+  "content": "Mana Display 是植物魔法的附属模组，让你能以精确的数字值查看魔力。\n\n模组会在植物魔法的方块上方添加可视化的魔力全息投影，显示：\n- 当前魔力的数值\n- 魔力条\n- 魔力增加或减少的速率\n\n默认情况下，全息投影仅对魔力池启用。\n\n你也可以通过客户端配置文件或游戏内命令，为魔力发射器与产能花启用全息投影。\n\n此外，该模组还增强了植物魔法的现有工具：\n- 使用森林法杖指向魔力方块时显示精确魔力数值\n- 在统治之板上显示魔力数量\n- 在物品栏中显示魔力环的魔力量\n\n命令：\n/manadisplay [pool/spreader/flower] [on/off]\n/manadisplay [on/off]\n\n适用于监控和调试魔力网络，或优化魔力传输设置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

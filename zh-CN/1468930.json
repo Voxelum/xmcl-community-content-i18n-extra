@@ -1,0 +1,6 @@
+{
+  "bodyHash": "iqvabONpC8E=",
+  "content": "<h3>致谢</h3><p><strong>材质与模型</strong>&nbsp;来自&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate-tfmg\" target=\"_blank\" rel=\"nofollow\">TFMG</a>模组。</p><h1>本模组添加了多种新方块，助你打造紧凑型机械结构，包括用于女武神天空与机械动力航空学载具的装置。</h1><p>官方指南：<a href=\"https://www.youtube.com/watch?v=TYmECfhmdqY\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=TYmECfhmdqY</a></p><h1>方块列表：</h1><ol>\n<li><p><strong>四速序列变速箱</strong>：单方块紧凑型变速箱，可快速便捷切换旋转速度。档位：R、N、1、2、3、4。提供图形界面配置除N档外的各档速比。</p></li>\n<li><p><strong>旋转器</strong>：紧凑型离合+倒档组合装置——无红石信号时停止旋转。当上方、下方或方块本身被激活时，可反转旋转方向。适用于紧凑型坦克炮塔等建造。</p></li>\n<li><p><strong>自动燃油泵</strong>：自动向TFMG（工厂必须发展）引擎泵送燃油（仅引擎运行时生效）。最大泵送距离：2格。（已在1.0.1版本中移除，现由燃油喷射器替代，右键点击机械动力管道即可使用）。</p></li>\n<li><p><strong>紧凑型速度调节器</strong>：功能类似钟表机关中的红石电阻但作用相反——红石信号增强时提升速度，最高可至2倍。无红石信号时旋转速度保持不变。</p></li>\n<li><p><strong>带离合的紧凑型速度调节器</strong>：与紧凑型速度调节器相同，但无红石信号时不再传递旋转。</p></li>\n<li><p><strong>紧凑型速度稳定器</strong>：机械动力旋转速度控制器的紧凑版本。</p></li>\n<li><p><strong>智能增速器</strong>：具备三档可调倍率的简单变速箱：</p>\n<pre><code>1档 — 默认档位（无红石信号时激活），\n\n2档 — 上方持续红石信号激活，\n\n3档 — 下方持续红石信号激活。</code></pre></li>\n<li><p><strong>二氧化碳洗涤器</strong>：清除TFMG引擎产生的二氧化碳。</p></li>\n<li><p><strong>喷射器</strong>：将TFMG引擎燃油消耗减半（×0.5）。</p></li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

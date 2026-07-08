@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/QZtWmqhwlU=",
+  "content": "**Underlay** 是一個 Minecraft 模組，讓你可以在地毯（或其他物品）下方有空間的方塊（例如儲物箱、床、告示牌、火把等）底下放置物品！\n\n只需**手持方塊並對準方塊面按右鍵**（例如在倒置樓梯下方），即可完成！再次用其他物品按右鍵即可快速替換，左鍵則可移除。在**生存模式**中也適用！\n\n![預覽圖](https://i.postimg.cc/50nR26v0/ezgif-1478728b20dbf1.gif)\n\n預設情況下，你可以放置以下方塊作為覆蓋物：地毯、地板門、按鈕、鐵軌、半磚和壓力板。**若要擴展至其他方塊**（例如草），請參閱「如何新增更多方塊支援（或排除部分方塊）」。\n\n#### 加入 Discord 伺服器搶先了解未來更新內容！\n[![立即加入！](https://img.shields.io/badge/Join%20now-Discord-7289DA?logo=discord&logoColor=white&style=plastic)](https://discord.gg/UPmnyM9YcY)\n\n---\n\n### 這是如何運作的？\n**它們不是方塊實體！**\nUnderlay 新增了所謂的「覆蓋物」~~但其實更像是底層物 xd~~，本質上它們是你放置物品的虛擬版本——讓你能在同一個方塊空間內放置兩種物品！\n\n### 如何新增更多方塊支援（或排除部分方塊）\n在你的 Minecraft 資料夾中找到 `config/Underlay/underlay.json`。使用 `overlay_blocks` 新增方塊，用 `exclude_blocks` 排除方塊，若想禁止在某些方塊上放置覆蓋物，則使用 `target_exclude_blocks`，如下所示：\n```\n{\n  \"overlay_blocks\": [\n    \"minecraft:short_grass\",\n    \"mymod:shiny_block\"\n  ],\n  \"exclude_blocks\": [\n    \"minecraft:oak_button\",\n    \"minecraft:rail\"\n  ],\n  \"target_exclude_blocks\": [\n    \"minecraft:oak_door\",\n    \"minecraft:spruce_door\"\n  ]\n}\n```\n\n### 模組整合\n部分版本的 Underlay 支援與 [Create](https://modrinth.com/mod/create)、[Jade](https://modrinth.com/mod/jade) 和 [Flashback](https://modrinth.com/mod/flashback) 整合。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

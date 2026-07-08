@@ -1,0 +1,6 @@
+{
+  "bodyHash": "siuNhtDqfFA=",
+  "content": "<h1>Снимки симулированных диаграмм</h1><p>Позволяет делать идеальные рендеры воздушного корабля с диаграммы устройства.</p><p><img src=\"https://github.com/cakeGit/Simulated-Diagram-Snapshots/blob/main/img/Cloud Skipper.png?raw=true\" alt=\"Рендер Cloudskipper\"></p><p><img src=\"https://github.com/cakeGit/Simulated-Diagram-Snapshots/blob/main/img/Ingame Menu.png?raw=true\" alt=\"Игровое меню\"></p><p><img src=\"https://github.com/cakeGit/Simulated-Diagram-Snapshots/blob/main/img/Scale Preservation.png?raw=true\" alt=\"Сохранение масштаба\"></p><p>Работает полностью на стороне клиента и сохраняет рендеры в папке <code>screenshots/diagrams/</code>.</p><p><strong>Примечание: у этого мода есть некоторые ограничения при попытке отрисовывать очень большие воздушные корабли в высоком разрешении, но это не должно влиять на разумное использование.</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

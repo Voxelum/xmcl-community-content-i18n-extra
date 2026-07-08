@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+KiVcSaLrKo=",
+  "content": "<p>您是否擁有過多的按鍵綁定，但實際按鍵數量卻不足以應付？您是否厭倦了頻繁更換鮮少使用的按鍵？記住每個按鍵的功能是否讓您感到困難？那麼，這個模組就是為您而生的。</p><p>本模組新增了「按鍵組合包」功能，讓您能將多個按鍵綁定整合到單一按鍵上。</p><h2>建立組合包</h2><p>要建立新的組合包，請開啟按鍵綁定設定畫面，在「按鍵組合包」類別（通常會在第一個）中點選<strong>新增按鍵組合包</strong>按鈕，接著為您的組合包命名。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1172594/description_0d048f10-fb7d-46ef-bd7b-5b393a93b0ed.png\"></p><p>完成後，點擊組合包上的<strong>編輯</strong>按鈕。在新畫面中，將滑鼠游標移至中央的環形選單，並點選<strong>新增項目</strong>。這會再次開啟按鍵綁定設定畫面，但此時每個按鍵綁定都會出現一個「選擇」按鈕。您可以在這裡選取要加入組合包的按鍵綁定。</p><p>選取完畢後，您可以在環形選單中編輯每個項目，為其自訂名稱和物品圖示。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1172594/description_9895a69b-529b-4e32-9f6f-3e1b63dafd7b.png\"></p><h1>使用組合包</h1><p>按下 Esc 鍵離開編輯選單，然後將組合包綁定到一個按鍵上。之後在遊戲中，您可以長按指定的按鍵來叫出環形選單。將滑鼠游標移至某個項目上並左鍵點擊，即可觸發該按鍵綁定。就是這麼簡單！</p><p><img src=\"https://media.forgecdn.net/attachments/description/1172594/description_05797330-b77a-4709-a735-e739a5057624.png\"></p><p>您也可以透過右鍵點擊來將某個按鍵綁定設為書籤。一旦設為書籤，按下組合包指定的按鍵就會直接觸發該綁定，而不會開啟環形選單。當某個按鍵設為書籤時，您可以長按<strong>環形選單輔助鍵</strong>（預設為<strong>左 Alt</strong>）來再次開啟環形選單。目前設為書籤的按鍵在環形選單中會以紅色高亮顯示。</p><p>&nbsp;</p><p>本模組與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/controlling\" rel=\"nofollow\">Controlling</a> 模組相容。</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

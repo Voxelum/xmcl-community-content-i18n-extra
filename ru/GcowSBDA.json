@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CscvFiUNlq0=",
+  "content": "Иногда в игре вы можете столкнуться с сущностями, которые имитируют смерть, имея здоровье NaN (Не число).\n\nЭтот мод попытается убить сущность, которая имитирует смерть, и не позволит никакой сущности пострадать от атаки с нулевым здоровьем NaN.\n\nМожет работать только на сервере.\n\n[![image](https://www.bisecthosting.com/partners/custom-banners/75401fe6-76e7-471c-89e5-1edd37a950ad.webp)](https://bisecthosting.com/kasualix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

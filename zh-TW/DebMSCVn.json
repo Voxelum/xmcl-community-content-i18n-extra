@@ -1,0 +1,6 @@
+{
+  "bodyHash": "weW5Tl+TNvA=",
+  "content": "<img width=\"1024\" height=\"290\" alt=\"model\" src=\"https://github.com/user-attachments/assets/fe7fffdd-f077-4021-aac6-f4e5c06b2e2c\" />\n\n\n\n## 創世神：快速藍圖加農炮\n\n---\n\n另一個為機械動力設計的簡單附加模組，為藍圖加農炮帶來配置修改功能！\n\n1. 允許自定義藍圖加農炮每tick執行的打印次數，最終效果為機械動力的tick延遲乘以這個打印次數\n2. 允許自定義藍圖加農炮禁止打印的方塊，加入清單後對應方塊將無法被藍圖加農炮破壞，有效修復虛空鍋爐問題\n\n---\n\n# 配置文件說明\n\n### 啟用藍圖加農炮加速\n- **EnableCannonSpeedUp**:\n    - 這是布林值，表示是否啟用藍圖加農炮加速功能。設為`true`啟用，`false`停用\n\n### 每tick打印次數\n- **SpeedupPerTick**:\n    - 此變數代表藍圖加農炮每tick執行的打印次數，與藍圖加農炮內的打印延遲為倍數關係\n    - 計算公式：打印速度 = 每tick打印次數（此配置值）× 遊戲tick（預設20）/ [藍圖加農炮打印延遲]（預設10）\n    - 範圍：1 ~ 400\n\n### 實驗性遊戲tick參數\n- **lazyTick**:\n    - 這是實驗性參數，用於減少藍圖加農炮的遊戲tick，指定經過多少tick才執行藍圖加農炮程式碼\n    - 預設值為1，但可以增加數值來減少卡頓，不過這會讓藍圖加農炮反應變慢\n    - 建議值為5，比預設慢四倍，但差異可能不明顯\n    - 範圍：1 ~ 200\n\n### 不可破壞方塊清單\n- **blocks_unbreak**:\n    - 這是藍圖加農炮無法破壞的方塊清單，可防止藍圖加農炮造成無限鍋爐錯誤\n    - 範例：`[\"create:blaze_burner\"]`\n\n### 啟用除錯訊息\n- **debug**:\n    - 這是布林值，表示當藍圖加農炮嘗試破壞禁止方塊時是否通知控制台。設為`true`啟用通知，`false`停用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

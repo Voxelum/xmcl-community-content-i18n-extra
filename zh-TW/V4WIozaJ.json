@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lS5lQ93PShU=",
+  "content": "## 展示\n![玩家生命值指示器](https://cdn.modrinth.com/data/V4WIozaJ/images/38bb20b09b3b285ac1fce07d5c81a030411fb38b.png)\n這是生命值指示器的外觀，但您可以前往[畫廊](https://modrinth.com/project/health/gallery)查看更多酷炫功能\n\n## 描述\n此紋理包會顯示任何玩家的生命值，但它使用的是生命百分比而非實際生命值。這意味著如果某人的基礎生命值是200顆心，但只剩100顆心，它會顯示為5顆心。通常在玩基礎遊戲時，這幾乎總是會顯示實際的生命值。\n\n## 使用方法\n1. 像平常一樣下載並安裝紋理包\n2. 如果您沒有安裝[Fabric](https://fabricmc.net/use/installer/)，請先安裝\n3. 確保您的mod資料夾中有[EMF](https://modrinth.com/mod/entity-model-features)和[ETF](https://modrinth.com/mod/entitytexturefeatures)\n4. 啟動遊戲並套用紋理包\n\n## 支援\n**加入[我的Discord](https://discord.gg/gymTft2GbV)**\n   - 回報錯誤\n   - 提出建議\n   - 對未來的紋理包進行投票\n   - 與社群互動\n   - 尋求紋理包的協助\n   - 如果您想在您的紋理包中使用此紋理包，請在此處詢問\n\n**查看[儲存庫](https://github.com/AlphaLeoli/Texture-Packs)**\n   - 回報錯誤\n   - 提出建議\n   - 透過建立拉取請求貢獻\n\nhttps://www.alphaleo.li/resourcepacks",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

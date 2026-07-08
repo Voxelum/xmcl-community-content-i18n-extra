@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lhfx5wtP4i4=",
+  "content": "<h1>Eymistaken's HUD</h1><p><strong>適用於 Fabric 1.21.11 的模組化 PvP 介面</strong></p><blockquote>\n<h3><a href=\"/linkout?remoteUrl=https%253a%252f%252feymistaken.github.io%252fEymistaken-s-HUD-Website%252f\" target=\"_blank\" rel=\"nofollow\">前往官方網站與使用指南</a></h3>\n<p><em>關於詳細的模組展示、按鍵設計器指南以及 API 文件，請參閱我們的官方網站。</em></p>\n</blockquote><p>Eymistaken's HUD 提供專為你的 mods 資料夾設計的專業競技體驗。它為偏好簡潔模組實現而非沉重外部客戶端的 PvP 愛好者，提供輕量且完全可自訂的工作空間。</p><h2>核心功能</h2><ul>\n<li>遊戲內佈局設計器</li>\n<li>動態盔甲 HUD</li>\n<li>戰鬥連擊追蹤器與熱力圖</li>\n<li>精確至小數點的距離追蹤器</li>\n<li>進階 CPS 監控器</li>\n<li>即時 FPS 顯示</li>\n<li>網路 Ping 指示器</li>\n</ul><h2>安裝方式</h2><ol>\n<li>安裝 Fabric Loader。</li>\n<li>下載 Eymistaken's HUD。</li>\n<li>安裝 Fabric API 與 Cloth Config API。</li>\n<li>將檔案放入你的 <code>.minecraft/mods</code> 資料夾。</li>\n</ol><hr><blockquote>\n<p>[警告] <strong>重要配置說明：</strong>若你正從低於 <em>v1.0.8</em> 的版本更新，請刪除舊的配置文件（<code>simplecps.json</code>），以避免佈局問題並確保與最新功能完全相容。</p>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

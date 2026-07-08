@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Va8Qh32twO8=",
+  "content": "<p>此模組為Cobblemon伺服器新增了排程的襲擊事件，包含以下功能：</p><ul>\n<li>可配置多個生成池，隨機觸發稀有襲擊</li>\n<li>可配置物品獎勵</li>\n<li>包含襲擊券物品，可用於兌換襲擊池中的寶可夢</li>\n<li>襲擊排程可設定為不同的間隔時間</li>\n</ul><p>輸入 `/raid` 可查看下次排程襲擊還有多久開始</p><p>輸入 `/raid redeem` 可兌換襲擊券</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JmB31jfy9Cw=",
+  "content": "![](https://i.imgur.com/Ff607Fk.png)\n\n# xali 的附魔書材質包\n\n一直以來，在滿滿的附魔書箱裡尋找想要的附魔書對我來說很麻煩。這個材質包旨在解決此問題，讓每本附魔書根據其類型和等級擁有不同的紋理，同時保持符合原版遊戲的藝術風格。\n\n## 支援的附魔\n\n### 原版 Minecraft\n- 1.21.5 版本的所有附魔\n\n### Illager Plus\n- 災厄剋星（最高等級：7）\n\n### Alex's Mobs\n- 跨步跳躍（最高等級：3）\n- 板塊回歸\n- 蛇之友\n- 熔岩蠟\n\n### Better End Forge\n- 終界面紗\n\n### Astral Sorcery\n- 灼熱\n- 夜視\n\n### Enchanted Shulkers\n- 補給\n- 汲取\n\n### Charm\n- 獲取\n\n### VeinMining\n- 連鎖礦工\n\n### Nether Depths Upgrade\n- 地獄行者（最高等級：3）\n\n## 系統需求\n\n在 1.21.1 及以下版本，需要以下模組之一才能正常運作：\n- [**Optifine**](https://optifine.net/downloads)\n- [**CIT Resewn**](https://modrinth.com/mod/cit-resewn/versions)\n- [**EnchantedBookEnabler**](https://modrinth.com/datapack/enchantedbookenabler-datapack)\n\n## 常見問題\n\n### Optifine\n**自訂物品紋理始終相同**\n- 請確認 `ESC/選項/影片設定/品質/自訂物品` 設定為 `開啟`。\n- 請確認材質包已啟用。\n- 請確認 Optifine 已正確安裝。\n\n</br>\n<center>\n<a href=\"https://discord.gg/8Kxw9E7ddD\"><img src=\"https://i.imgur.com/1YnG9UV.png\" alt=\"Discord\"/></a>&emsp;\n<a href=\"https://www.patreon.com/xalixilax\"><img src=\"https://i.imgur.com/9ACOgFd.png\" alt=\"Discord\"/></a>&emsp;\n<a href=\"https://x.com/xalixilax\"><img src=\"https://i.imgur.com/NGhGM8y.png\" alt=\"Discord\"/></a>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

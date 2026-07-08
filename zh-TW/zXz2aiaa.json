@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VoGQZTcmRC0=",
+  "content": "### 歡迎，這是 Death Sorter 模組的測試版！\n如果你發現任何錯誤，請務必告訴我！\n\nDeath Sorter 是一個貼近原版風格的模組，能在你死亡後撿起物品時自動恢復你的物品欄佈局。\n\n當玩家死亡時，他們的物品會像往常一樣掉落，並有被摧毀或消失的風險。當玩家撿回物品時，這些物品會被放回死亡前所在的相同欄位——包括盔甲和副手欄位，只要這些欄位尚未被佔用。\n\n### 支持我。\n如果你喜歡我的作品，請在 [Patreon](https://www.patreon.com/user?u=8618666) 上支持我。你的支持將讓我非常感激！\n\n### 必要模組：\n[Architectury API](https://modrinth.com/mod/architectury-api)\n\n### 加入我的 Discord 伺服器：\n\n[https://discord.gg/cRXQvbZD4S](https://discord.gg/cRXQvbZD4S)\n\n### 展示影片\n<iframe width=\"516\" height=\"314\" src=\"https://www.youtube-nocookie.com/embed/RyMJHb756T4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

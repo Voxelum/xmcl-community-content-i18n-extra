@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AoV13/kUI/I=",
+  "content": "# FPS 提升\n\n**此模組旨在改善遊戲的效能與穩定性，並新增一些選項，例如縮放功能，以及在一定時間無操作時降低 FPS 以節省能源。**\n\n# 未使用 FPS 提升時的 FPS\n**FPS : ~91**  \n![無](https://cdn.modrinth.com/data/cached_images/fcdb6194e8694879dfbfc8c0d50108988ef55292.png)\n\n# 使用 FPS 提升後的 FPS\n**FPS : ~120**\n![有](https://cdn.modrinth.com/data/cached_images/769d97cd59625437cd2345da2ef3850dee7b99f4.png)\n\n\n      \n# 設定\n按下 H 鍵進入模組選單\n- 關閉天氣：              關閉雨天\n- 重新載入區塊：          單純重新載入已生成的區塊\n- 慢速刻：                 減少世界刻以降低 CPU 消耗\n- 停用生成實體：          停用實體生成（生成新區塊時實體仍可能出現）\n- 清除卡頓：              每 3 分鐘清除所有地面上的物品\n- 實體最佳化：            減少世界中的實體數量\n- 顯示 FPS：              在螢幕頂端顯示 FPS\n- 清除卡頓通知：          啟用或停用與清除卡頓相關的視覺通知\n- 螢幕保護：              當你離開電腦超過一分鐘時，會出現螢幕保護程式以減少電腦消耗\n- 縮放：                  此模組的縮放功能按下 C 鍵（可修改）即可使用，且比 OptiFine 的縮放更強大，因為它能讓你用 I 和 O 鍵調整縮放級別。\n- 節能模式：              此功能可在遊戲處於背景或玩家無操作時降低遊戲的 FPS，讓你在瀏覽電腦時，若 Minecraft 在背景執行，能減少能源消耗並提升效能。\n \n\n⚠️此模組需要前置模組 TCTCore \n\n![TCTcore](https://cdn.modrinth.com/data/cached_images/b9bfc820bf5bfc889c75a7868d0411f8e95e9003.png)\n \n\n# 資訊\n⚠️這些模組能為配備較低階電腦的玩家節省資源，這是一個簡單的小模組，與 OptiFine 搭配使用，能讓你在合適的效能下全力享受遊戲。⚠️",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

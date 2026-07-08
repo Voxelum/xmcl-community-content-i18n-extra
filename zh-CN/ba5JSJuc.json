@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Tfspd8TzQoA=",
+  "content": "**RLFabric 是一款旨在增强生存难度、让整体生存更加硬核的模组。**\n\n---\n**大致灵感来源于 RLCraft，但专为 Fabric 打造！**\n\n![logo](https://cdn.modrinth.com/data/ba5JSJuc/images/abeeeafff556311b0b40a4fc958fdc8fda490dcc.jpeg)\n\n### 已正式发布于 [Curseforge!](https://www.curseforge.com/minecraft/modpacks/rlfabric)\n\n### 特性\n- **温度、口渴值与真实的身体损伤系统！**\n- **为探险家们准备的新增建筑结构！**\n- **科技！这些该死的小孩快关掉收音机！**\n- **优化版 Minecraft！**\n- **全新的护甲与工具。**\n- **重制的末地 + 下界！**\n- **太- 太- 太空！？！**\n- **天境！等等……那不是假的吗？**\n- **自带光影**\n- **更好的战斗 + 砍树系统。**\n- **生活品质优化 + 性能提升。**\n\n\n\n\n\n# 服务器搭建指南\n**如果你计划托管此整合包，请务必执行以下操作，否则体验将大打折扣。**\n- 确保你的服务器托管商支持简单语音聊天的设置，该整合包的某些部分依赖于此（例如无线电通信/常规语音聊天）。\n- 务必复制 \"config\" 文件夹到你的服务器。若不执行此操作，你将遇到配方重叠或缺失其他细微修改的问题。\n  \n## 最低配置\n- 至少 2 个 vCore\n- 4 GB 内存以避免卡顿\n\n## 推荐配置\n- 4 个 vCore\n- 6 GB 内存",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

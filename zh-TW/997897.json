@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0airYax32eU=",
+  "content": "<h1 style=\"text-align:center\">罪之灰燼：更好的AI</h1><p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_56e0d964-5e95-4174-b390-ab3d9c6d8a3c.png\"></p><p>設定檔產生於&nbsp;<code>config\\ash_of_sin</code> 目錄中。</p><p>設定檔的名稱為 better_ai.toml。</p><p>此模組透過動態仇恨系統增強敵對生物的AI。生物現在會追蹤每位玩家造成的傷害，並優先攻擊仇恨值最高的玩家。為了避免 overwhelmed，只有可設定的生物數量（預設3隻）能同時主動攻擊一位玩家；其他生物在過於靠近時會撤退並側移，當距離較遠時則恢復預設AI行為。可透過可設定的列表來排除Boss和自訂實體不受此行為影響。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

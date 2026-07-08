@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dClX/U/QJOA=",
+  "content": "Мод для Minecraft, который кэширует данные карты на стороне сервера локально в каталоге `.minecraft/.client_maps/`.\n\n### **Ключевое замечание: этот мод НЕ изменяет отображение карт; для этого вам потребуется другой мод (см. ниже)**\n\nЕсли у вас когда-либо возникала проблема с загрузкой данных карт из сундука, ваша локальная копия будет оставаться заполнителем до обновления со стороны сервера.\n\nСоздан для дополнения [Map in Slot](https://modrinth.com/mod/map-in-slot).\n\nВы можете преобразовать необработанные данные карты в изображения [здесь](https://redstoned.dev/mods/clientmaps/converter).\n\nТакже работает совместно с [Map Tooltip](https://modrinth.com/mod/map-tooltip), Minihud и другими модами, отображающими карты в инвентаре.\n\n![демонстрация шулькерного ящика](https://cdn.modrinth.com/data/K7BL4mb2/images/9f15001da59a99de18c4da9191ca10fe529a3f09.png)\n\n\nЕсли у вас возникнут вопросы, пожалуйста, свяжитесь с нами через: [Discord](https://discord.gg/qM7mQtcJPW)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

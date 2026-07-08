@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Nc2ny3o1vqQ=",
+  "content": "# 更好的标签\n\n这个模组为标签添加了一个排除字段 `!`。\n\n例如，你想从 `#minecraft:logs` 中移除 `minecraft:oak_log`，你只需要在标签中这样写。\n\n```json\n{\n  \"replace\": false,\n  \"value\": [\n    \"!minecraft:oak_log\"\n  ]\n}\n```\n\n这个功能也适用于标签，如果键不存在，它不会导致加载失败。\n\n### 其他版本？\n\n当然会在稳定后推出。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

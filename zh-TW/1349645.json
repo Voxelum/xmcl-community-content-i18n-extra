@@ -1,0 +1,6 @@
+{
+  "bodyHash": "X3LO1pNnTGw=",
+  "content": "<h1>地平線修復 (Fabric)</h1><p>地平線修復移除了太陽與月亮周圍不必要的環狀光暈，這些光暈在與地形對比時會破壞天空的視覺美感。本模組設計為<strong>不會</strong>與其他模組（如<a href=\"https://www.curseforge.com/minecraft/mc-mods/smooth-skies\" rel=\"nofollow\">Smooth Skies</a>）產生衝突。</p><h2>功能特色</h2><ul>\n<li>保持其他維度與自訂霧效設定不受影響；純客戶端微調。</li>\n<li>無需任何配置，除 Fabric API 外無需其他運行時依賴。</li>\n</ul><h2>安裝方式</h2><ul>\n<li>需搭配 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252f\" rel=\"nofollow\">Fabric</a> 及 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a>。</li>\n<li>僅限客戶端使用；伺服器端無需安裝此檔案。</li>\n</ul><h2>建置說明</h2><ul>\n<li>需使用 Java 21 搭配 Gradle + Fabric Loom。</li>\n<li>版本設定位於 <code>gradle.properties</code> 中，執行 <code>./gradlew build</code> 即可建置。</li>\n</ul><h2>授權條款</h2><ul>\n<li>採用 CC0-1.0 授權，可自由使用。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

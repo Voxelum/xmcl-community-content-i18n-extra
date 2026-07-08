@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fDsvCOV0kGI=",
+  "content": "針對 [EpicFight](https://modrinth.com/mod/Epic-Fight) 與 [第一人稱模組](https://modrinth.com/mod/first-person-model) 的一個小型相容性修補。\n\n**修復內容：**\n\nEpicFight 會刻意停用第一人稱模組，它註冊了自己的 ActivaionHandler，每當玩家處於 EpicFight 模式時，就會阻止第一人稱的身體渲染。此外，玩家的頭部與帽子網格在第一人稱視角下並未被隱藏，導致它們會穿入攝影機。\n\n**本模組透過混入（Mixin）修復了這兩個問題：**\n\n- 取消 EpicFight 的 ActivationHandler 註冊，使第一人稱模組不再被壓制，且動畫化的第一人稱身體能正確渲染。\n- 注入 EpicFight 的玩家渲染器中，正確隱藏第一人稱視角下的頭部與帽子網格，防止攝影機穿模。\n\n**需求：**\n- EpicFight\n- 第一人稱模組\n\n**可選：**\n- 3D 皮膚圖層",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

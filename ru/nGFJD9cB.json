@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZyIXKvZ75oE=",
+  "content": "# Расширение «Лучший бой»\n\nЭто расширение для мода [Better Combat](https://modrinth.com/mod/better-combat) от Daedelus.  \nОно добавляет несколько новых функций и настроек, которые управляются исключительно с серверной стороны.\n\nВозможности включают:\n\n- Переключаемая двухручная стойка\n- Заблокированные атаки при движении\n- Предотвращение прыжков во время атаки\n- Пропуск атак путём обманного движения\n- Отключение клиентского параметра «Удерживать для атаки» из Better Combat\n- Исключения для множителя скорости движения «movement_speed_while_attacking» в Better Combat\n- Интеграция [атрибутов выносливости](https://modrinth.com/mod/stamina-attributes)\n- Ограничение угла наклона атаки\n- Патч совместимости для Better Combat и [RPG Inventory](https://modrinth.com/mod/rpg-inventory)\n\n\nПодробную информацию можно найти [здесь](https://github.com/TheRedBrain/bettercombat-extension/blob/1.21.1/README.md).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

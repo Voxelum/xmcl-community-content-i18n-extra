@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IbJSt+r+FHo=",
+  "content": "![遊戲內畫面](https://cdn.modrinth.com/data/cached_images/c49dc6f7dcfe6bb25507a5167ab4980292d608cf.png)\n\n一款客戶端模組，為世界中掉落的物品添加光束效果，使其更加顯眼並引導玩家輕鬆拾取戰利品。\n\n此模組是[Loot Beams: Relooted!](https://www.curseforge.com/minecraft/mc-mods/loot-beams)的分支版本，但程式碼已完全重寫。重寫的目的是為了提供更好的兼容性和擴展可能性。\n\n## 特色功能：\n**絕佳兼容性**：本模組不依賴自訂著色器，確保與主流光影模組兼容。同時也與其他模組良好運作，並修復了原版模組中的兼容性問題。\n\n**開發者友善**：提供多個可監聽的事件接口。\n\n**高度可配置**：提供豐富設定選項讓您完全控制模組功能。建議透過GUI介面編輯設定，而非直接修改toml檔案。\n\n## 當前模組兼容性：\n\n- **Apotheosis(1.20/1.21)/Zenith(1.20)**：支援詞綴裝備、寶石和稀有材料。\n- **Photon(僅限1.20.1)**：玩家可使用自訂特效替換原始效果。詳見設定選項！如需使用此功能，需啟用enableFXOverride和replaceAllBeam設定。\n- **Mine and Slash**：完全兼容所有稀有度物品，包含裝備、寶石等。\n- **Obscure Tooltips**：安裝時會自動停用相關功能。\n- **TieredZ/Tiered Reforged**：會使用模組提供的稀有度設定，但稀有音效不可用。\n- **Curios/Trinket/三飾品模組(1.21)**：任何被識別為神器的物品也會被視為裝備，因此Refork可完全控制其光束效果與音效。\n- **Spartan Weaponry**(內建)、**Balkon's WeaponMod**：傳統支援(需在設定中啟用)\n\n若發現任何需要特殊兼容性的模組，歡迎在GitHub上聯繫我！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

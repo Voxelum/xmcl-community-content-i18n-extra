@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0s5ZMuEk9gE=",
+  "content": "## Обзор\nУстановите свои баки Create и реактивные ранцы в задний слот Curios, освободив таким образом драгоценные слоты для брони под то, что вы действительно хотите надеть. Совместимо со следующими предметами [Create](https://modrinth.com/mod/create) и [Create Jetpack](https://modrinth.com/mod/create-jetpack):\n\n- Create: Медный бак\n- Create: Незитовый бак\n- Create Jetpack: Реактивный ранец\n- Create Jetpack: Незитовый реактивный ранец\n\n## Установка\nСохраните загруженный ZIP-файл пака данных в папку `datapacks` вашего мира. Если мир уже открыт, используйте команду `/reload`, чтобы загрузить его. Для получения подробной информации ознакомьтесь с [документацией здесь](https://minecraft.fandom.com/wiki/Data_pack?so=search#Usage).\n\n## Совместимость\nПока что протестировано только для версий 1.20.1 и 1.19.2, однако мы открыты для расширения этого списка там, где можно применять Create. Если у вас есть какие-либо пожелания, не стесняйтесь связаться с нами через страницу проблем на Github [issues page](https://github.com/villainous-j/create-backtank-jetpack-curios-compatibility-datapack/issues)!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

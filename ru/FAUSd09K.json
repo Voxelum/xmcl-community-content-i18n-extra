@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qhyQFGoOfRU=",
+  "content": "Библиотека функций, благодаря которой создавать новые моды стало проще.\n\nДругие моды зависят от неё для работы.\n\n\n\nФункции для разработчиков:\n\n- данные coremod\n\n- BlockSettings (подсказка, цвет вращения, освещение при подаче энергии, ориентация крепления)\n\n- обёртки инвентаря\n\n- шаблон newmod с buildscripts\n\n- конструкторы особенностей генерации мира (простой, патч, руда)\n\n- утилиты для измерений\n\n- EnergyIngredient для рецептов\n\n- FluidTagIngredient для рецептов\n\n- RandomizedOutputIngredient для рецептов\n\n- Рецепт пивоварения\n\n- множество различных утилит\n\n- команды /flib: можно отключить их в конфигурационном файле flib.toml\n\n— /flib tpx: телепортация между измерениями\n\n— /flib health add/set/random/factor\n\n— /flib hunger add/set/random/factor\n\n— /flib hearts add/set/random/factor\n\n— /flib gamemode @p 1\n\n— /flib scoreboard random @p 4 9 ОБЪЕКТИВ\n\n— /flib attribute minecraft:reach_distance random @p 3 8",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

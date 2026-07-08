@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ho2yD8KZSWQ=",
+  "content": "Добавляет урон игроку от перегрузки G и столкновений для всех типов транспортных средств (за исключением элитных). Теперь вы не сможете прыгнуть на водный пиксель и остаться в живых. Например, если вы мчитесь на лодке или на конструкции VS и столкнетесь с чем-либо, вам нанесёт урон в зависимости от вашей скорости и того, как быстро вы остановитесь. Этот мод был разработан в первую очередь для мода [Valkyrien skies](https://modrinth.com/mod/valkyrien-skies), поэтому он совместим с ним.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/0Rn1V3o-l4Q\" title=\"Плеер видео на YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nКонфигурация мода находится в папке исходного кода src\\main\\java\\com\\lucse\\brakedamage\\SuddenStopHandler.java.\n\nЧтобы изменить её, вам потребуется скачать исходный код, внести изменения и скомпилировать его. Я не знаю, как правильно создать конфигурацию.\n\n**VS 2.4+ не протестировано**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VCWX5UkS3iA=",
+  "content": "<p><span style=\"font-size:14px\"><img src=\"https://user-images.githubusercontent.com/38401808/163669493-e9100ac8-b091-4a64-bc5c-ca5915c8006b.png\" alt=\"\" width=\"1344\" height=\"50\"></span></p><ul>\n<li><span style=\"font-size:18px\">預測玩家移動方向，並在玩家前方非同步預先加載區塊</span></li>\n<li><span style=\"font-size:18px\">整體略微提升區塊加載速度</span></li>\n<li><span style=\"font-size:18px\">根據玩家移動速度智慧調整玩家周圍的區塊加載範圍，降低伺服器負載</span></li>\n</ul><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/cupboard\" rel=\"nofollow\">&nbsp;需安裝 <strong>Cupboard</strong> 依賴模組&nbsp;</a></p><p><img src=\"https://user-images.githubusercontent.com/38401808/162617552-80038ed3-026b-42e1-8133-c00f6f9ad45e.png\" alt=\"\" width=\"1344\" height=\"50\"></p><ul>\n<li><span style=\"font-size:18px\">設定預測區域的大小與距離</span></li>\n<li><span style=\"font-size:18px\">設定移動玩家周圍區塊加載範圍的調整幅度</span></li>\n<li><span style=\"font-size:18px\">可分別啟用/停用每項功能</span></li>\n</ul><p><span style=\"font-size:18px\">僅需安裝於伺服器端</span></p><p><img src=\"https://user-images.githubusercontent.com/38401808/163059508-bfcdb9fc-5f49-4204-afff-d9ae9460beda.png\" alt=\"\" width=\"1344\" height=\"50\"></p><p><span style=\"font-size:14px\">目前無已知的相容性衝突</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

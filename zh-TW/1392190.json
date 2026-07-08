@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZP2gzGQVm8M=",
+  "content": "<p>CobbleLvlCap 是一款專為 Cobblemon 設計的全面進度管理工具，讓伺服器管理員和模組包創作者能夠對玩家實施等級限制。透過為玩家分配特定的「標籤」（例如透過權限插件或指令），您可以控制他們能夠訓練、使用或捕捉的寶可夢的最高等級。這確保了平衡的進度曲線，並防止玩家使用過高等級的寶可夢跳過遊戲內容。</p>\n\n<h2>功能特色</h2>\n<ul>\n<li><strong>經驗值上限：</strong>寶可夢一旦達到玩家分配的等級上限，將嚴格停止獲得經驗值。</li>\n<li><strong>戰鬥強制執行：</strong>如果玩家攜帶超過等級上限的寶可夢進入戰鬥，這些寶可夢將在戰鬥期間暫時失效（瀕死），以確保公平性。</li>\n<li><strong>儲存限制：</strong>防止玩家從電腦中取出超過當前等級限制的寶可夢加入隊伍。</li>\n<li><strong>安全交易：</strong>若接收方等級不足，將阻止交易包含過高等級寶可夢的提議。</li>\n<li><strong>捕捉限制：</strong>防止玩家捕捉超過等級上限的野生寶可夢。</li>\n<li><strong>動態捕捉上限：</strong>可選設定允許捕捉限制基於玩家隊伍中當前最高等級的寶可夢，而非固定數值。</li>\n<li><strong>PlaceholderAPI 支援（僅限 Fabric）：</strong>使用 <code>%lvlcap:cap%</code> 輕鬆在記分板或聊天中顯示等級限制。</li>\n</ul>\n\n<h2>配置設定</h2>\n<p>本模組包含一個靈活的配置檔案（<code>cobblelvlcap.json</code>），讓您可以自訂遊戲規則：</p>\n<ul>\n<li><strong>上限定義：</strong>將特定的指令標籤（字串）映射到整數等級限制（例如，為玩家分配「cap_20」會將其上限設為 20）。</li>\n<li><strong>功能開關：</strong>您可以單獨啟用或停用經驗值獲得、交易、戰鬥、捕捉以及電腦到隊伍移動的限制。</li>\n<li><strong>繞過規則：</strong>設定伺服器管理員和創造模式玩家是否自動繞過所有限制。</li>\n<li><strong>預設值：</strong>為沒有特定標籤的玩家設定後備等級上限。</li>\n</ul>\n\n<p><strong>支援服務</strong> <br><br>如需功能請求、錯誤回報或支援，請加入官方 Discord：<a href=\"https://discord.gg/MVZ4EWrj2k\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/MVZ4EWrj2k</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

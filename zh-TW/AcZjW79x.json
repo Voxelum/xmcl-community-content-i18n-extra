@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6rcnaTo63iw=",
+  "content": "![ArsArms Logo](https://cdn.modrinth.com/data/cached_images/7065f8d5cab1666348b9725da213887462cc0a6e.png)\n\n## **ArsArms 是 TaCZ 與 Ars Nouveau 的整合擴充模組**\n\n**此模組需要以下模組才能運作：** **[ArsCurios](https://modrinth.com/mod/arscurios)、[CastLib](https://modrinth.com/mod/castlib)、[ArmsLib](https://modrinth.com/mod/armslib)**\n\n### **主要特色**\n\n*   您現在可以使用 TaCZ 槍械發射 Ars Nouveau 法術。由於法術是從槍枝射出，因此施法速度更快！\n*   若要持續施法超過當前魔力上限，您可以事先將魔力儲存在彈藥盒中！\n*   Ars Nouveau 法術是透過**反應**附魔觸發，因此不會干擾 TaCZ 的預設射擊模式。可以放心使用。\n*   法術強度會隨所使用的槍械傷害而增加！您可以在設定檔案中微調確切的傷害數值。\n\n### **使用方式**\n\n1.  使用 Ars Nouveau 附魔裝置，將您想要的法術以**反應附魔**的形式附加到**彈藥盒**上。  \n    ⚠️ _注意：只能使用 Ars Nouveau 附魔裝置進行此操作。此外，請確保法術的起始雕紋設定為**觸碰**。_\n    \n2.  將彈藥裝入彈藥盒中。\n    \n3.  將彈藥盒放入**Curios 飾品欄位**以充能魔力。\n    \n4.  當彈藥盒位於**Curios 飾品欄位**中時，為槍械重新裝填。槍械將切換為**魔法模式**，進而能夠施放法術。  \n    ⚠️ _注意：對於無需重新裝填的槍械，請在持有**Curios 飾品欄位**中的彈藥盒時直接射擊。_\n    \n\n### **注意事項**\n\n*   附魔必須使用**Ars Nouveau 附魔裝置**進行。其他附魔方法將無效。\n*   您指定的法術**必須以觸碰雕紋開頭**。這是正確啟動的必要條件。\n*   對於無需重新裝填的槍械，請在持有**Curios 飾品欄位**中的彈藥盒時直接射擊。\n\n### **設定選項**\n\n*   `damageMultiplier (預設值：1.0)`  \n    TaCZ 槍械發射的子彈傷害倍率。  \n    _數值越高，傷害越高。_\n*   `damageAmplifier (預設值：15.0)`  \n    TaCZ 槍械發射的子彈魔法傷害放大值。  \n    _數值越高，傷害**越低**。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

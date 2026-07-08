@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3qICxi2CEdU=",
+  "content": "# Warforge\n\n## 面向PvP服务器的阵营战争与领地占领系统\n\nWarforge 是一款以PvP为核心的阵营与领地模组，最初由 jamioflan（Flan's Mod 的创作者）开发，后由 Mr. Norwood 与 EightXOR8 扩展。专为竞争性SMP环境设计，为玩家提供创建阵营、占领土地、收集资源以及发动大规模战争的工具。\n\n核心功能：\n\n- **阵营与堡垒** – 玩家通过放置堡垒（即阵营核心）来创建阵营。领袖、官员与成员各自拥有明确的角色与权限。\n\n- **区块占领与边界** – 使用基础或强化方块占领领地。已占领地块会显示对应阵营的彩色边界（玩家可自由开关）。\n\n- **被动资源矿脉** – 被占领的区块可能生成独特的矿脉，随时间自动产出资源。矿脉产量与掉落率均可完全自定义。\n\n- **堡垒升级** – 升级堡垒可扩展领地限制。升级需求与等级进度均通过配置文件设定。\n\n- **攻城与突袭** – 对敌方阵营发动攻城战，削弱、夺取或占领其土地。战斗采用拉锯式攻防机制推进攻城进度，支持惩罚、士气与积分系统自定义配置。\n\n- **高度可配置** – 矿脉、领地限制、攻城机制、计时器等均可按服务器平衡需求进行调整。\n\nWarforge 专为追求策略性阵营冲突的服务器打造，既鼓励坚固防御，也支持协同突袭。它将领土控制、自动资源生成与结构化PvP融合为一个完整的系统。\n\n链接：\n\n- [模组Wiki页面](https://wiki.warfactory.co/index.php/Warforge)\n- [WarFactory官网](https://github.com/Warfactory-Offical/WarForge-Remaintained)\n- [Github](https://github.com/Warfactory-Offical/WarForge-Remaintained)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

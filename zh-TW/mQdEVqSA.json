@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hR9LJcL/DQE=",
+  "content": "沉浸式雪景\n==============\n\n為《我的世界》冬季主題增添細節的小型調整，建議搭配季節模組使用。\n\n特色功能：\n\n- **區塊載入時重新計算積雪**。夏天不再出現冬季的區塊！\n- **根據季節變化調整日夜循環時長**。冬季夜晚更長。\n\n### 相容性\n\n本模組不建議單獨使用。雖然可以獨立運作，但不會有太多效果。以下模組已支援整合：\n\n- **季節模組：** 積雪會根據季節溫度變化，並在季節轉換時重新計算所有區塊的積雪。\n  - [Serene Seasons（Fabric/Forge/NeoForge）][1]\n  - [Fabric Seasons（Fabric）][2]\n- **日夜循環調整：** 需要同時安裝上述季節模組與 Better Days。\n  - [Better Days（Fabric/NeoForge）][3]（注意：目前整合方式是透過執行階段改寫 `daySpeed` 與 `nightSpeed` 設定。若要調整日夜速度，請使用本模組的 `betterDaysDaySpeed` 與 `betterDaysNightSpeed` 選項。）\n- 積雪重新計算功能也與 [Snow Real Magic][4] 相容：草地、花朵、柵欄、牆壁等方塊將會替換為其積雪變體。\n\n### 鳴謝\n\n本模組是我私人模組 BetterSereneSeasons 的重製版本，而 BetterSereneSeasons 最初是基於 1.19.2 Forge 版的 [Serene Tweaks][5] 重製而來。\n\n[1]: https://modrinth.com/mod/serene-seasons\n[2]: https://modrinth.com/mod/fabric-seasons\n[3]: https://modrinth.com/mod/betterdays\n[4]: https://modrinth.com/mod/snow-real-magic\n[5]: https://github.com/FIREdog5/SereneTweaks",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

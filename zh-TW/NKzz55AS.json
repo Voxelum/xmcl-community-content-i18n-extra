@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Dh/uPGnJ7uE=",
+  "content": "**想在 Minecraft 直播中使用簡單的 Live2D 嗎？**  \n**雖然這個模組功能不那麼強大，但做個仿 Live2D 效果完全沒問題**  \n**無需任何設定！**  \n\n**此模組僅需客戶端安裝！伺服器無需安裝！無需任何依賴！**  \n\n安裝此模組後，進入遊戲，畫面會變成這樣：  \n\n![1](https://i.loli.net/2020/09/12/LbgxCYewMcDpRsh.png)  \n\n當然，由於直接調用原版渲染，其他修改玩家模型的模組也能相容！  \n例如 [Custom Player Model](https://www.curseforge.com/minecraft/mc-mods/custom-player-model-cpm) 模組：  \n\n![2](https://i.loli.net/2020/09/12/SwtBv1dALH8GrVl.png)  \n\n與 [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) 的相容性自然不在話下，甚至能與 [Custom Player Model](https://www.curseforge.com/minecraft/mc-mods/custom-player-model-cpm) 模組同時使用：  \n\n![3](https://i.loli.net/2020/09/12/Vh2zieNx4IHJEpW.png)  \n\n當然，畫面上顯示的角色大小、位置和角度都可以自訂！  \n只需輸入 **/epr** 指令 __（1.13、1.14、1.15 和 1.16 版本需同時按下 Alt 和 P 鍵）__ 即可開啟這樣的 GUI。依照 GUI 提示，使用滑鼠左鍵、右鍵和滾輪即可調整角色的角度、位置和大小。  \n\n![4](https://i.loli.net/2021/05/11/mxX5cptA9UTQWjY.png)  \n\n例如，我們示範將角色調整成基岩版左上角渲染效果的畫面：  \n\n![5](https://i.loli.net/2020/09/12/qsYRaUAVl7Fy8iw.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

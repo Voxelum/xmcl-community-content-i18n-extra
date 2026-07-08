@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gp9AlsCsnRQ=",
+  "content": "<p>一個為 Create 和 JEI 設計的兼容性模組，增強了在 JEI 中顯示 7 步以上序列化組裝配方的方式。</p><p>目前，由於 Create 的限制，JEI 中顯示的步驟編號僅為 1 到 6；若未安裝此模組，7 步以上的步驟將顯示為「-」。配方會置中顯示，超出 JEI 使用者介面範圍的步驟將延伸至其邊界外。</p><h2>功能特色</h2><ul>\n<li><strong>分頁支援</strong>：以分頁方式顯示序列化組裝配方（每頁 6 個步驟）</li>\n<li><strong>滾動導航</strong>：使用滑鼠滾輪在頁面之間導航</li>\n<li><strong>頁面指示器</strong>：在右下角顯示當前頁碼（例如「1/2」）</li>\n<li><strong>支援最多 3999 個步驟</strong>：使用羅馬數字（I-MMMCMXCIX）標記配方步驟</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

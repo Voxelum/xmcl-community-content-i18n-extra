@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SsDTdvU0mr0=",
+  "content": "# Pick Tool\n\n這是一個輕量模組，允許在手持工具時使用「選取方塊」按鍵，切換至針對目標方塊的有效工具。\n\n支援所有工具，包含原版及模組新增的工具。\n\n若物品欄中存在多個對該方塊有效的工具，連續使用選取方塊功能將會循環切換它們。\n\n可透過將工具加入 config 資料夾中的 `picktool.json` 檔案來排除其被選取。該檔案支援單一物品與物品標籤，例如：\n- 加入 `#minecraft:swords` 將會忽略所有劍\n- 加入 `minecraft:shears` 將會忽略剪刀\n\n此模組為伺服器端模組。安裝於專用伺服器或區域網路主機時，所有玩家無需安裝即可使用。亦支援單人遊戲。\n\n此模組無任何依賴。\n\n[預覽 GIF 連結（因 Modrinth 未知原因無法嵌入）](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW56YTJpaDB3enNzamhrY2xzNGwxcGRpbzM2ejZ5bzNkeHF3NzdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNyj2hjVIbnOn7s72P/giphy.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

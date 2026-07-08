@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lLT0yFwk0YE=",
+  "content": "请注意，Apotheosis 并未在 Modrinth 上发布，因此无法将其标记为依赖项，但它是必需的。\n\n## 问题描述：\nApotheosis 与 Better Combat 目前存在一些功能冲突——\n- Apotheosis 添加了\"重型武器\"类别，这与 Better Combat 的双持武器概念有些相似，但两者完全无关。\n- Apotheosis（及 Forge）将攻击距离视为实体属性，并允许通过宝石和词缀进行增长，但 Better Combat 将其定义为不可变的武器属性，采用自定义 JSON 格式，导致这些功能无法生效。\n\n## 本模组功能：\n- 自动将 Better Combat 中所有双持武器注册为 Apotheosis 的 HEAVY_WEAPON（重型武器）\n- 移除所有武器的实体触及距离属性，并使攻击范围词缀失效\n\n## 未来规划（目前可通过数据包实现）：\n- 彻底禁用 Apotheosis 的攻击范围词缀\n- 调整当前依赖实体触及距离的武器属性",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BQHWwXWnapQ=",
+  "content": "<p style=\"text-align:center\"><strong><span style=\"font-size:24px\">迷你煤炭</span></strong></p><p style=\"text-align:center\">&nbsp;</p><p style=\"text-align:center\">这个模组非常简单，它添加了两种物品：迷你煤炭和迷你木炭，每种物品可以烹饪一个物品。</p><p style=\"text-align:center\">&nbsp;</p><p style=\"text-align:center\"><img src=\"http://i.imgur.com/jNsTqWD.png\" alt=\"\" width=\"80\" height=\"179\"></p><p>&nbsp;</p><p style=\"text-align:left\"><span style=\"text-decoration:underline\">模组包政策</span></p><p>当然可以！使用它吧！这就是我制作它的原因 :)</p><p>&nbsp;</p><p><span style=\"text-decoration:underline\">配置（适用于Minecraft 1.12及以下版本）</span></p><div class=\"spoiler\">\n<p># 配置文件</p>\n<p>&nbsp;</p>\n<p>general {</p>\n<p>&nbsp; &nbsp; &nbsp; # 设置为true以禁用迷你木炭</p>\n<p>&nbsp; &nbsp; &nbsp; B:\"禁用迷你木炭\"=false</p>\n<p>&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; # 设置为true以禁用迷你煤炭</p>\n<p>&nbsp; &nbsp; &nbsp; B:\"禁用迷你煤炭\"=false</p>\n<p>}</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>recipes &nbsp;{</p>\n<p>&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; # 设置为true以移除迷你木炭到木炭的配方</p>\n<p>&nbsp; &nbsp; &nbsp; recipe B:\"禁用迷你木炭到木炭\"=false</p>\n<p>&nbsp;</p>\n<p>&nbsp; &nbsp; &nbsp; # 设置为true以移除迷你煤炭到煤炭的配方</p>\n<p>&nbsp; &nbsp; &nbsp; B:\"禁用迷你煤炭到煤炭\"=false</p>\n<p>}</p>\n</div><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

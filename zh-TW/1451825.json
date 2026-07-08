@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RdZCx0GHhIc=",
+  "content": "<h1>ItemPhysic Guns</h1><p><strong>[EN]</strong>\n此客戶端模組作為 <strong>ItemPhysic</strong>（完整版或精簡版）與熱門 3D 槍械模組之間的橋樑。它會對掉落武器物品套用自訂變換，確保它們平放且看起來自然，而不會穿模或懸浮在空中。</p><h3>主要功能</h3><ul>\n<li><strong>智慧變換</strong>：修正所有支援模組中掉落武器的顯示。</li>\n<li><strong>通用性</strong>：同時支援 <strong>ItemPhysic Full</strong> 與 <strong>ItemPhysic Lite</strong>。</li>\n<li><strong>輕量且僅限客戶端</strong>：對伺服器效能無任何影響。</li>\n<li><strong>可擴展</strong>：其他模組開發者可輕鬆為自己的物品添加支援。</li>\n</ul><h3>支援的模組</h3><p>此附加元件提供對以下模組的開箱即用支援，以及其他開發者透過提供者系統整合相容性的模組。</p><ul>\n<li><p><strong>必要（至少一個）：</strong></p>\n<ul>\n<li><strong>ItemPhysic Full</strong>（測試版本 <code>1.8.9</code>）</li>\n<li><strong>ItemPhysic Lite</strong>（測試版本 <code>1.6.6</code>）</li></ul></li>\n<li><p><strong>槍械（可選）：</strong></p>\n<ul>\n<li><strong>Timeless and Classics Zero (TaCZ)</strong>（測試版本 <code>1.1.6</code>）</li>\n<li><strong>Superb Warfare</strong>（測試版本 <code>0.8.8</code>）</li>\n<li><strong>Vic's Point Blank</strong>（測試版本 <code>1.9.6</code>）</li>\n<li><strong>Scorched Guns 2</strong>（測試版本 <code>0.5.5</code>）</li></ul></li>\n</ul><h3>給模組開發者</h3><p>若您希望您的模組中的 3D 物品獲得支援，您可以輕鬆添加相容性，無需將此模組作為依賴項。",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

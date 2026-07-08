@@ -1,0 +1,6 @@
+{
+  "bodyHash": "i3OivPe9RMA=",
+  "content": "<p><span style=\"font-size:18px\">歡迎來到未來</span><br><br><span style=\"font-size:14px\">通用模組核心允許開發者基於與Minecraft無關的穩定API來構建模組。</span><br><br>過去UMC曾直接與沉浸式鐵路模組打包發布，因為當時它是唯一使用該核心的模組。現在API已相對穩定，可以作為獨立模組發布。此模組包含針對每個Minecraft版本/加載器的邏輯，並以簡化的方式向子模組提供這些功能。<br><br>待辦事項：<br>* 支援Fabric<br>* 範例專案庫<br>* 貢獻指南</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

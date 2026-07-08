@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wXpkNLfc2NU=",
+  "content": "鞘翅欄位是一個使用 Curios API/Trinkets API 的模組，能在玩家物品欄中新增一個專屬的鞘翅欄位，並允許將鞘翅放入其中。當鞘翅位於此欄位時，將提供與裝備在胸甲欄位時完全相同的飛行能力，讓玩家無需犧牲護甲欄位即可獲得鞘翅的優勢。\n\n### Forge 依賴項\n* [Curios](https://modrinth.com/mod/curios)\n* [Caelus](https://modrinth.com/mod/caelus)\n\n### Fabric 依賴項\n* [Trinkets](https://modrinth.com/mod/trinkets)\n\n### **Curios**\n![](https://i.imgur.com/gFyQBPW.png)\n\n### **Trinkets**\n![](https://i.ibb.co/FVV3gSp/elytratrinket.png)\n\n## 支援\n\n請將所有錯誤、問題及功能請求回報至\n[議題追蹤器](https://github.com/illusivesoulworks/elytraslot/issues)。\n\n如需非技術性支援或疑問，請加入開發者的 [Discord](https://discord.gg/JWgrdwt)。\n\n## 授權\n\n所有原始碼與素材均採用 LGPL-3.0-or-later 授權。\n\n## 贊助\n\n可透過 [Ko-fi](https://ko-fi.com/C0C1NL4O) 向開發者提供贊助。\n\n## 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

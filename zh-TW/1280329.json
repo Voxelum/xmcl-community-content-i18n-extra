@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+DM8mkx3knw=",
+  "content": "<p>這是一個為修復<a href=\"https://github.com/Ellpeck/NaturesAura/issues/383\" target=\"_blank\" rel=\"nofollow\">自然靈氣模組錯誤</a>而製作的小型模組，該錯誤導致當自然靈氣粒子與Oculus模組同時存在時，某些材質的背面剔除功能失效。這意味著像是水、花朵、作物等材質，當你從特定角度觀看時會變得透明或改變外觀的物件，會渲染兩次，從而導致效能問題和圖形瑕疵。</p><p>&nbsp;</p><p>常見問題：</p><p>&nbsp;</p><p>問：為什麼不直接提交修復請求？</p><p>答：根據自然靈氣模組開發者Ellpeck的說法：</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_ecd00b6e-dd70-4810-abfc-da0c0b3f9296.png\" alt=\"\"></p><p>&nbsp;</p><p>問：這會破壞我的遊戲嗎？</p><p>答：不會。它僅在自然靈氣模組的兩個匿名粒子類別中增加了兩行程式碼。</p><p>&nbsp;</p><p>問：這會與光影模組衝突嗎？<br>\n答：不會。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

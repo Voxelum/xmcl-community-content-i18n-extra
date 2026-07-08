@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5sCXYP2cv3c=",
+  "content": "![Чистые подсказки](https://i.imgur.com/LKzHZmj.png)\n\n**Cleaner Tooltips** — это простой мод, который заменяет способ отображения атрибутов на чистые и интуитивно понятные иконки.\n\nЭтот мод работает исключительно на стороне клиента.\n\n![Пример изображения](https://cdn.modrinth.com/data/cached_images/c3284d7ed59a5e8f7c0c14de0761ea543be91c6c.png)\n\n## Особенности\n\n- Отображение износа предметов\n- Сравнение атрибутов экипированных и наведённых на них предметов\n- Острота увеличивает урон при атаке (исправляет [MC-271840](https://bugs.mojang.com/browse/MC/issues/MC-271840))\n- Отображение скорости добычи руды для инструментов (по умолчанию отключено)\n- Текстуры и логика отрисовки/вычислений полностью зависят от пакета ресурсов\n\n## Совместимость\nCleaner Tooltips должен быть совместим с большинством модов, влияющих на пользовательский интерфейс, включая:\n\n- [BetterCombat](https://modrinth.com/project/5sy6g3kz) — добавляет диапазон атаки рядом с атрибутами.\n- [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)\n- [Equipment Compare](https://modrinth.com/project/CYSUVOdj)\n- [Tooltip Overhaul](https://modrinth.com/project/vRFcG5n6)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

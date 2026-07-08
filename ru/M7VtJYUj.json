@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FDrBNVykzDo=",
+  "content": "Легковесный мод для Fabric, предназначенный для кристаллов в PvP. Мгновенно размещает кристаллы на обсидиане/базовом камне без задержки с использованием прямых пакетов. Позволяет наносить 2 удара за тик (1 удар, если пинг менее 50 мс) по кристаллам, удаляя существо на стороне клиента после первого удара.\n\n**Примечание:**\nЭтот мод содержит пакет отключения;\n\n**_Этот метод подходит, если вы как сервер хотите «перехватить» или получить данный пакет._**\n\npublic static final Id<OptOutPacket> ID =\n            new Id<>(Identifier.of(\"crystaloptimizer\", \"opt_out\"));_\n\n**Если вы как сервер хотите отправить пакет для отключения, идентификатор =**\n\npublic static final Id<ServerOptOutPacket> ID =\n            new Id<>(Identifier.of(\"crystaloptimizer\", \"server_opt_out\"));",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Eb710QcumRk=",
+  "content": "# 時間堆疊器\n這個模組新增了飲用/潑灑相同藥水時可累加時間的機制。\n\n### 舉例說明：您先飲用一瓶3分鐘的夜視藥水，接著再飲用一瓶8分鐘的藥水。\n- 原版機制：8分鐘\n- 使用時間堆疊器：11分鐘\n\n預設時間堆疊上限為16分鐘。您可以在設定中調整此數值。若不想堆疊特定Minecraft/模組效果，可於設定的黑名單中加入該效果。\n\n**歡迎加入我的Discord伺服器：** https://discord.com/invite/vWBP4P4Yd8",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

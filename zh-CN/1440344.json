@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eZOom1eHBbI=",
+  "content": "<h2>Terralith：无结构</h2><p>这是Terralith的一个附加组件，用于移除所有自定义结构。顾名思义，非常直观。</p><p>如果使用数据包版本，请确保其加载顺序在常规Terralith之上。模组版本应能自动按正确顺序加载。</p><p>如果使用Terralith 2.6.0及以上版本，则无需此附加组件。您可以通过Terralith内置配置文件禁用结构。</p><h3>常见问题</h3><p><strong>问：</strong>是否提供仅禁用特定结构的方式？</p><p><strong>答：</strong>不，这个附加组件不支持。替代方案是，如果您能使用模组，请使用 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fstructurify\" target=\"_blank\" rel=\"nofollow\">Structurify</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

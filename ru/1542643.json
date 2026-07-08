@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TphzGDk28bQ=",
+  "content": "<p>Этот мод добавляет <strong>Очки Схематика</strong>, основанные на Очки Авиатора.</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_cc0258d0-d1c9-48f5-aafb-d5184bcf53ae.png\" alt=\"изображение\"></p><p>Когда надеты <strong>Очки Схематика</strong>:</p><ul>\n<li>Мир превращается в Схему Конструкции.</li>\n<li>При взгляде на любой субуровень отображаются его <strong>центр массы</strong> и живые <strong>векторы сил</strong> (подъемная сила, лобовое сопротивление, тяга, гравитация и т.д.).</li>\n<li>Интерфейс HUD от Очки Авиатора (напряжение, мощность горелки и т.д.) сохраняется.</li>\n<li>Вид схемы можно переключать правым кликом мыши, удерживая предмет в руке.</li>\n</ul><p>Рецепт достаточно прост: всего лишь итерация на основе Очки Авиатора.</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_ddf6d522-49ec-4351-b428-70d51f4382ae.png\" alt=\"изображение\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/nWdFFvZhJ8=",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/7b44fe8ba6ad90bc61a7a6212da5019e1191ffd7_0.webp)\n\n这是一个库模组！如果您不是开发者，无需担心。它很可能是您整合包中作为其他模组的依赖项而存在的。\n\n如果您是开发者，您好！这个库专为我的[多版本模板模组](https://template.txni.dev/)设计，我通过该模板从同一代码库同时在 Forge 和 Fabric 平台的 1.20 与 1.21 版本发布模组。除了我发现的实用功能外，该模组主要包含平台和版本特定的实现，以减少跨版本维护项目时重复的 if/else 代码。欢迎您使用它，但文档仅在空闲时更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

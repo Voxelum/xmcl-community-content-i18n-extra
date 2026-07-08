@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XNwg3QBDeTE=",
+  "content": "![Banner](https://raw.githubusercontent.com/TheTypholorian/vibrancy/refs/heads/1.21/banner_with_title.png)\n\n這是 **Vibrancy**，一個旨在重新設計 Minecraft 光照系統的模組，同時保留遊戲的原始風格。\n它具備光線追蹤陰影、彩色光源、以及一系列可調整的設定選項，還有其他多種功能。\n如果你想為你的模組添加相容性、新增或修改方塊光源，或只是想了解這個模組的運作方式，請前往 [Wiki](https://github.com/TheTypholorian/vibrancy/wiki)。\n\n**注意**：與「sable / create aeronautics」相容！\n\n**依賴模組**\n- [Big Shot Lib](https://modrinth.com/mod/big-shot-lib)\n- [Yet Another Config Lib](https://modrinth.com/mod/yacl)（4.1.0 及以上版本）\n- [Cloth Config](https://modrinth.com/mod/cloth-config)（3.0.10 至 4.0.8 版本）\n- [Fzzy Config](https://modrinth.com/mod/fzzy-config)（3.0.9 及以下版本）\n\n**不相容模組**\n- [Iris](https://modrinth.com/mod/iris)：雖然技術上可行，但我不會這麼做，因為這個模組是用來取代光影的，與光影包結合使用會造成視覺效果異常。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YXbBJtG6K7U=",
+  "content": "### 描述\n這個模組讓你能夠即時更換你的 Minecraft 伺服器皮膚，即使在離線模式下也能使用。\n\n### 使用方法\n\n玩家指令：\n\n- `/skin set [名稱]` - 從 Minecraft 使用者名稱設定當前玩家皮膚\n- `/skin set [網址]`  - 從網址設定當前玩家皮膚\n- `/skin clear`      - 清除當前玩家皮膚\n- `/cape set [名稱]` - 從 Minecraft 使用者名稱設定當前玩家披風\n- `/cape set [網址]`  - 從網址設定當前玩家披風\n- `/cape clear`      - 清除當前玩家披風\n\n管理員指令：\n\n- `/skin player [目標] set [名稱]` - 從 Minecraft 使用者名稱設定目標玩家皮膚\n- `/skin player [目標] set [網址]`  - 從網址設定目標玩家皮膚\n- `/skin player [目標] clear`      - 清除目標玩家皮膚\n- `/cape player [目標] set [名稱]` - 從 Minecraft 使用者名稱設定目標玩家披風\n- `/cape player [目標] set [網址]`  - 從網址設定目標玩家披風\n- `/cape player [目標] clear`      - 清除目標玩家披風\n\n### 致謝\n特別感謝 [OfflineSkins](https://www.curseforge.com/minecraft/mc-mods/offlineskins) 專案，本模組的大部分程式碼和想法都基於此。\n\n### 回報錯誤\n如果你在使用模組時發現問題，請在此回報：  \nhttps://github.com/edoren/SkinChanger/issues\n\n### 貢獻\n如果你想貢獻程式碼開發，請建立新的拉取請求：  \nhttps://github.com/edoren/SkinChanger/pulls\n\n### 捐贈\n如果你喜歡這個專案並想支持它的開發，請考慮捐贈。\n\n<a href='https://ko-fi.com/W7W4154UTE' target='_blank'><img height='36' width='200' style='border:0px;height:36px;width:200px' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='在 ko-fi.com 上請我喝杯咖啡' /></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

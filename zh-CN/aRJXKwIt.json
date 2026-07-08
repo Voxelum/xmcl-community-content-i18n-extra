@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uJnv0N2sIcw=",
+  "content": "# 简体中文\n\n为 Minecraft 多人游戏提供 **Zstd 高压缩率数据流**，替代原版 Zlib 压缩，显著降低带宽占用。支持客户端 Mod + Velocity 服务端插件协同工作。\n\n## 工作原理\n\n客户端与服务端之间传输的所有游戏数据包在加密前被批量合并，并使用 [Zstd](https://github.com/facebook/zstd) 算法进行压缩。相比原版 Zlib，Zstd 在同等压缩速度下可降低 **50%-80%** 的数据量。此外，还支持自动训练字典以进一步提升压缩率。\n\n## 支持版本\n\n* Fabric: 1.21.1、1.20.1\n* Forge: 1.20.1\n* Neoforge: 1.21.1\n* Velocity: 3.4.0+\n\n## 兼容性\n\n已知兼容以下组件：\n\n* ViaVersion\n* limboauth\n\n## 功能特性\n\n* **透明替换**：无缝接管原版压缩管线，无需修改服务端配置\n* **批量压缩**：在 10ms 时间窗口内聚合小数据包，减少 TCP 分段开销，并采用 32MB 滑动窗口\n* **自适应跳过**：若压缩后数据体积未减小，则自动发送原始的批量数据\n* **实时统计 HUD**：在左上角显示发送/接收字节数及压缩率（通过 F8 键切换显示）\n* **高度可配置**：提供 YAML 配置文件，支持调整压缩等级、窗口大小、统计间隔等参数\n\n## 使用方法\n\n1. **Velocity**：将插件放入 `plugins/` 目录，然后重启代理端\n2. **客户端**：根据你的 Minecraft 版本安装对应的 Fabric 或 Forge 模组\n3. 按 **F8** 键切换 HUD 显示\n\n## 注意事项\n\n* 客户端与服务端必须同时安装兼容版本，才能启用 Zstd 压缩\n* 如果未检测到支持 Zstd 的客户端，Velocity 会自动回退至原版传输方式\n* 如果未检测到支持 Zstd 的服务端，客户端会自动回退至原版传输方式",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VBOgK0C8sPg=",
+  "content": "# 物品欄模糊效果\n這是一個適用於 Minecraft 1.20.5+ 的簡單模組，它將新的選單背景模糊效果套用至物品欄介面，例如箱子、玩家物品欄等。理論上應該能兼容所有繼承自 Screen 的模組物品欄。\n\n## 資源包開發者\n本模組新增了一個物品欄背景材質，預設為 16x16 像素並會平鋪於整個畫面。此材質位於 `assets/eg-inventory-blur/textures/gui/inworld_inventory_background.png`\n\n## 授權條款\n<p xmlns:cc=\"http://creativecommons.org/ns#\" >Inventory Blur 由 <a rel=\"cc:attributionURL dct:creator\" property=\"cc:attributionName\" href=\"https://enchanted.games\">ioblackshaw (又稱 Enchanted_Games)</a> 製作，採用 <a href=\"http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1\" target=\"_blank\" rel=\"license noopener noreferrer\" style=\"display:inline-block;\">CC BY-NC 4.0<img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1\"><img style=\"height:22px!important;margin-left:3px;vertical-align:text-bottom;\" src=\"https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1\"></a></p> \n影片創作者在遵守授權條款的前提下，可以將包含本作品的影片營利化。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

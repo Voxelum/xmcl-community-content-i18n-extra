@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MLCPEiHEToA=",
+  "content": "# 自動重植器\n\n自動重植器是一款簡單的客戶端模組，讓玩家能快速重新種植已成熟的作物。  \n只需手持種子對成熟作物右鍵點擊，即可立即收穫並重新種植。  \n以下為支援的作物列表：  \n- 小麥\n- 胡蘿蔔\n- 馬鈴薯\n- 甜菜根\n- 地獄疙瘩\n- 可可豆（主手需持鐵斧或更高級工具，副手持可可豆）\n\n只要玩家主手持工具、副手持種子，作物收穫時將自動套用幸運效果。  \n\n若希望新增其他作物支援，請在留言區提出建議，或在 [GitHub](https://github.com/kregerl/Replanter) 提交議題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

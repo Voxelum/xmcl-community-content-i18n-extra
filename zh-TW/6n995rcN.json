@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3p6bwDQjqjo=",
+  "content": "## 功能特色\n\n### 書籤管理\n- 將書籤分類分組，便於整理\n- 合成鏈模式：根據配方比例自動計算所需材料\n- 按住 Ctrl 並滾動滑鼠可調整數量\n- 支援垂直／水平排版切換\n\n### 強化顯示\n- 書籤上顯示物品數量\n- 液體量以 L/kL 單位顯示\n- 按住 Shift 可查看堆疊明細（例如：128 = 2 × 64）\n- 按住 Alt 可查看操作提示\n\n### 直覺操作\n- 拖曳可合併／分割書籤分組\n- 快速將配方轉為書籤：Ctrl + Shift + A\n- 右鍵點選括號啟用合成鏈計算模式\n\n## 需求\n- Just Enough Items (JEI)\n\n## 備註\n- 僅限用戶端使用，無需安裝伺服器端\n- 未來更新將加入更多功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

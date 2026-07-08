@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pjXzkzBVPeo=",
+  "content": "# FTB x EMI 相容\n\n一個相容層，提供 FTB 模組（如 FTB Quests）與 EMI（物品與配方檢視器）之間的整合。\n\n## 安裝方式\n只需將 jar 檔案放入 Minecraft 的 **mods** 資料夾即可。\n\n## 需求\n若要使用此模組，需要具備以下項目：\n- **Fabric Loader**\n- **Fabric API**\n- **EMI**\n- **FTB Quests**\n- **FTB Library**\n- **Architectury API**\n\n## 授權\n本專案採用 **MIT 授權**。詳細資訊請參閱 [LICENSE](LICENSE) 檔案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

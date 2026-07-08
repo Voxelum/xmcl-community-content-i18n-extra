@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/sU5IRQXxm0=",
+  "content": "# Описание\n\n* Лёгкий мод, который отображает координаты, основные направления и FPS в игре\n\n* Можно отключать по отдельности координаты, основные направления и FPS + Изменять цвета в конфигах (находится в разработке)\n\n# Требования\n\n[Unimixins](https://legacy.curseforge.com/minecraft/mc-mods/unimixins/files/4600285)\n\n[FalsePatternLib](https://legacy.curseforge.com/minecraft/mc-mods/fplib/files/4701057)\n\n# Ссылки на описания моих проектов.\n\n[*Modrinth*](https://modrinth.com/mod/my-coordinates-mod)\n\n[*Github*](https://github.com/quentin452/MyCoordinatesMod)\n\n[*Curseforge*](https://legacy.curseforge.com/minecraft/mc-mods/my-coordinates-mod)\n\n# Задачи\n\n* Добавить файл конфигурации для отключения текста по отдельности и изменения цвета\n\n# Discord\n\nДобавьте меня в Discord: imacatfr\n\nСервер Discord: https://discord.gg/ZnmHKJzKkZ\n\n# Примечание\n\nмод содержит два конфига начиная с версии 0.3\n\nmycroordinatesmods_nomixins.cfg (Для общего конфига)\n\nmycroordinatesmods.cfg (Для конфига с Mixin, не рекомендуется изменять эти конфиги)\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

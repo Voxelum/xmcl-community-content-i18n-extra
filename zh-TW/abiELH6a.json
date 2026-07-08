@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QvOmjdsKxXo=",
+  "content": "# 掉落擴散 2\n\n[掉落擴散](https://modrinth.com/mod/dropspread)的後繼版本，已移植至 1.21。\n\n新增 `dropSpread` 遊戲規則，允許設定介於 0.1 到 10 之間的值，用以控制玩家死亡時物品被拋出的距離。其中 1 代表原版速度，0.1 則是此模組的預設值，如模組圖示所示。\n\n所有創意與程式碼的功勞歸於原始作者 [jadc](https://modrinth.com/user/jadc)，但由於他的 GitHub 儲存庫已兩年未更新，因此我決定自行移植此模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

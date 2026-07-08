@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LV+YV7Rlydg=",
+  "content": "# JDT 時間加速器\n\nJDT 時間加速器是 Just Dire Things 的 NeoForge 附加模組，能將時間魔杖式的加速功能轉化為可放置、可驅動的機器。\n\n無需再手動使用時間魔杖，本模組新增了兩個自動化方塊：\n\n## 功能特色\n\n*   **簡易時間加速器**\n    \n    *   加速其正前方單一方塊。\n    *   使用 Forge 能量。\n    *   若 Just Dire Things 時間魔杖設定中需要，則會使用時間流體。\n    *   支援紅石控制。\n    *   可透過 GUI 使用時間魔杖式倍率調整速度。\n*   **進階時間加速器**\n    \n    *   加速可設定範圍內的方塊。\n    *   使用熟悉的 Just Dire Things 區域控制功能。\n    *   使用 Forge 能量，並在設定後可使用時間流體。\n    *   支援紅石控制。\n    *   可使用完整的設定時間魔杖倍率範圍。\n\n這些機械的設計行為可預測：GUI 中顯示的倍率即為實際套用的加速倍率。沒有隱藏的機器刻速疊加機制。\n\n## 系統需求\n\n*   Minecraft 1.21.1\n*   NeoForge 21.1.209 或更新版本\n*   Just Dire Things 1.5.7 或更新版本\n\n## 合成配方\n\n簡易時間加速器使用魔鐵錠、時鐘、青金石、紅石和 Just Dire Things 時間水晶合成。\n\n進階時間加速器則使用天星寶石、時鐘和紅石來升級簡易版本。\n\n詳細配方請查閱 JEI 或其他配方查看器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

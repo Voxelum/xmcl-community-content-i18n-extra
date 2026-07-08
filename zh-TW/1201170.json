@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KuXcVHba6Ag=",
+  "content": "<p>注意：適用於Neoforge 1.21.1+的新版本已由LShiftLess發佈於此：</p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/twilight-forest-final-boss-remake\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/twilight-forest-final-boss-remake</a></p>\n<p>為暮色森林新增一位名為城堡守護者的最終BOSS。該BOSS擁有獨特的動畫、攻擊方式、戰鬥階段以及專屬戰利品。透過擊敗城堡守護者獲得的掉落物，可合成湮滅立方體。同時新增兩項與城堡守護者相關的進度。</p>\n<p>需要安裝Geckolib（以及暮色森林模組，當然）</p>\n<p>重要：請使用Twilight Tweaks模組來生成BOSS，僅安裝此模組並不會觸發BOSS生成。生成BOSS的指令為：\"summon twilight_forest_final_boss:castle_keeper ~ ~ ~\"。請將此指令加入Twilight Tweaks的配置文件中，即可使最終BOSS生成器生成該BOSS。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

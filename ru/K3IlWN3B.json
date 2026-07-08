@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ysKI3tOT3Zg=",
+  "content": "🛠️ DuchEssentials\n\nЛёгкая библиотека утилит для разработчиков модов Minecraft.\n\nВключает:\n\n🔧 DuchLogger — унифицированная система логирования для модов\n\n📦 Утилиты — вспомогательные функции для строк, математики и коллекций\n\n🔌 DuchAPI — простой API для регистрации модов\n\nЛёгкий • Самостоятельный • Простой в использовании\n\nИдеально подходит для разработчиков, которым нужны необходимые утилиты без лишнего навороченного функционала.\n\nБыстрый старт\nDuchLogger.ModLogger logger = DuchLogger.createLogger(\"modid\", \"ModName\");\nDuchAPI.registerMod(\"modid\", \"ModName\", \"1.0.0\");\n\n\nДобавьте «duchessentials»: «>=1.0.0» в зависимости и начните использовать его немедленно!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

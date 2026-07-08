@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0TgeVTwq75c=",
+  "content": "《Evade!》是一款基于《黑暗之魂》的模组，让角色能够通过两种方式闪避攻击。第一种方式是按下按键绑定\"R\"。当按下R键时，玩家会向当前移动方向冲刺，获得0.25秒的255级抗性提升效果，但冷却时间为0.5秒。第二种方式则简单得多——跳跃！跳跃能提供0.13秒的抗性提升效果，理论上没有冷却时间！\n\n**推荐模组：**\n\nhttps://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus - 更好的战斗\n\nhttps://www.curseforge.com/minecraft/mc-mods/simply-swords - 简约之剑\n\nhttps://www.curseforge.com/minecraft/mc-mods/shield-expansion/files - 盾牌扩展\n\nhttps://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons - 史诗骑士\n\n**未来更新计划？**\n\n- 使无敌帧取决于你的护甲阶段（例如：角色装备的护甲值越高，角色就越重，因此获得的无敌帧越少）\n\n- 修复冰面速度异常（目前移动系统的运作方式类似于\"v*3\"，因此在缺乏摩擦力时会导致问题。V代表X轴和/或Z轴的任意方向）\n\n- 增加翻滚期间无法攻击的机制\n\n**注意**\n\n由于代码运作方式，本模组目前仅能在生存模式下使用。我不会编程，这个模组是用方块制作的，因为这已经是我这个猴脑的极限了。\n\n**最后**\n\n如果您有任何建议，欢迎在Discord上私信我。我的用户名是renaryugu。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

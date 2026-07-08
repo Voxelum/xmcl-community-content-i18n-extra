@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3bf6q6kNNrc=",
+  "content": "<h1>一鍵礦工</h1><h2>概述</h2><p><strong>一鍵礦工</strong> 是一款基於 Fabric 的 Minecraft 模組，讓您只需一次挖掘動作就能開採多個相連的同類型方塊。它能簡化資源收集流程，並提供高度可自訂的設定，以適應不同的遊玩風格與伺服器規範。</p><h2>功能特色</h2><ul>\n<li>一鍵挖掘大型礦脈（例如：礦石、原木）</li>\n<li>可針對每種工具類型（斧頭、鋤頭、鎬、鏟、剪刀或任意工具）設定可挖掘的方塊清單</li>\n<li>可調整挖掘上限，防止過度破壞方塊</li>\n<li>可切換與可互動方塊（例如：草地、耕地）的互動模式</li>\n<li>可自訂啟動快捷鍵（僅限單人模式）</li>\n<li>支援舊版（1.7.10 以上）</li>\n</ul><h2>設定</h2><p>本模組使用 MineConf 進行設定。</p><h3>設定項目</h3><table>\n<thead>\n<tr>\n<th>設定</th>\n<th>說明</th>\n<th>備註</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>limit</td>\n<td>每次動作可挖掘的最大方塊數量</td>\n<td>預設：64</td>\n</tr>\n<tr>\n<td>axe/hop/pickaxe/shovel/shears/any</td>\n<td>該工具挖掘清單中的所有方塊</td>\n<td></td>\n</tr>\n<tr>\n<td>interact</td>\n<td>互動模式（例如：鋤草地、鋪設道路）</td>\n<td>預設：false</td>\n</tr>\n<tr>\n<td>hotkey</td>\n<td>啟動按鍵（僅限單人模式）</td>\n<td>預設：true</td>\n</tr>\n<tr>\n<td>shape</td>\n<td>挖掘的連鎖形狀（例如：水平/垂直平面、柱狀、球狀、隧道）</td>\n<td>預設：立方體</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

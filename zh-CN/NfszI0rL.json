@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5OmOU9LUF+Q=",
+  "content": "![Stellarity - 可选资源包](https://i.imgur.com/hRur9d1.png)\n\n**注意：** 4.0.0+ 版本（1.21.x/26.x）**必须安装该资源包才能运行 Stellarity！**\n\n------\n\n[Stellarity](https://modrinth.com/datapack/stellarity) 数据包的额外资源。提供物品与实体材质、音效及文本翻译等资源。\n\n![Imgur](https://i.imgur.com/a5KWTSE.png)\n\n## 特性/变更\n- 所有Stellarity物品、方块和生物的材质，部分甚至带有动画效果。\n- 为新盔甲套装提供材质*（可在原版游戏中正常使用）*。\n- 末地新增天空盒*（可在原版游戏中正常使用）*。\n- 为\"诅咒祭坛\"和\"神圣祭坛\"提供专属材质，不再使其分别看起来像末地传送门框架和錾制石英块*（需安装[Continuity](https://modrinth.com/mod/continuity/versions)）*。\n- 末地传送门图像现在略微呈现紫色。末地折跃门完全变为紫色。\n- 末影龙和末影人身上带有紫色发光斑点。\n- 幻翼翅膀带有亮绿色条纹，在黑暗中发光以提高可见度。\n- 鞘翅现在看起来由幻翼膜制成。\n- 死亡紫颂花新增一种可能的模型变体，外形更接近真实花朵。\n- 紫珀块和紫颂果的材质饱和度略有提升。紫珀块拥有差异化纹理*（无需[Continuity](https://modrinth.com/mod/continuity/versions)）*。\n- 末影箱内部现在使用末地传送门的材质。\n- 龙蛋现在带有脉动纹理。\n- 终末之诗已重写，以阐释Stellarity世界背后的故事。\n\n![Imgur](https://i.imgur.com/aNNgp9M.png)\n\n## 备注\n- ❗ 自定义盔甲材质与光影不兼容。若要在使用资源包时启用光影，请同时下载[CIT Resewn](https://modrinth.com/mod/cit-resewn)。\n- ❕ Stellarity的模组包已内置资源包。这意味着如果你使用模组包而非数据包版本，则无需额外下载资源包。\n- 🎵 该资源包不包含Stellarity的音乐，所有曲目已移至[音乐附加包](https://modrinth.com/resourcepack/stellarity-music-addon)。\n\n## 鸣谢\n- Brokenemp *（无法一一列举，但总之贡献巨大）*\n- Alligator_Gamer *（光明之女皇的模型与材质）*\n- [u/Hekademos](https://www.reddit.com/r/Minecraft/comments/h82o2g/i_animated_the_dragons_breath/) *（动态龙息）*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

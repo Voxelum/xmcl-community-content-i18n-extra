@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xYLHJfBBkGA=",
+  "content": "# BoostedExperience: 一个用于调整经验获取速率的Fabric模组\n\nBoostedExperience 是一个 Fabric 模组，允许你通过应用倍率来改变从各种来源获取的经验值。使用这个模组，你可以调整经验获取速率，以适应你偏好的挑战和进度水平。\n\n**此模组依赖于库模组 [Roselib](https://modrinth.com/mod/rose-bush)**！\n\n## 使用方法：\n\n- **安装模组并至少运行一次 Minecraft。**\n- **进入你的 .minecraft 文件夹中的 config 文件夹。**\n- **找到名为 \"BoostedExperience.json\" 的文件。**\n- **用任何文本编辑器打开该文件并编辑设置。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

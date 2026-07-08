@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QHFZ4834nzY=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/1214/659/2025-06-08_15.jpg\"></p><p>&nbsp;</p><p><span style=\"font-size:18px\">Eternal Currencies 是一款專為模組包設計的貨幣模組，最初是為 MC Eternal 2 的 1.20 版本移植而開發的。</span></p><p>&nbsp;</p><p>&nbsp;</p><p>目前僅支援 Forge 1.20.1。未來會根據需求進行移植。</p><p>&nbsp;</p><p><span style=\"font-size:18px\">功能特色</span></p><ul>\n<li>支援幾乎無限種獨特貨幣！</li>\n<li>透過資料包中的 JSON 檔案新增貨幣，只需將其加入任何命名空間的 \"/eternalcurrencies/currencies/\" 目錄即可。</li>\n<li>提供可消耗的物品，能根據 NBT 資料給予貨幣。</li>\n<li>（希望是）穩固的 API，供其他模組開發者使用。</li>\n<li>原生整合 FTB Quests，支援貨幣任務與獎勵！</li>\n<li>原生整合 KubeJS，無需任何設定即可透過名稱存取我們的 <a href=\"https://github.com/Minecraft-Eternal/eternal-currencies/blob/master/src/main/java/com/mceternal/eternalcurrencies/api/EternalCurrenciesAPI.java\" rel=\"nofollow\">API 輔助工具</a>！</li>\n<li>指令可編輯玩家的貨幣等級。</li>\n<li>系統支援多位玩家（甚至玩家擁有的物品）共享貨幣。團隊合作時無需轉帳！</li>\n<li><span style=\"color:#f90\">[未來規劃] </span>「銀行方塊」可存入與儲存貨幣。</li>\n<li><span style=\"color:#f0f\">[開發中] </span>模組包/伺服器商店系統與圖形介面，支援需多種貨幣支付的項目，可設定為必須全數支付或擇一支付。可能還會加入自動購買功能！</li>\n<li><span style=\"color:#f90\">[未來規劃] </span>玩家商店系統，細節尚未確定。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

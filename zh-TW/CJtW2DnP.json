@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sbR4t+6snvk=",
+  "content": "## FastChest — Minecraft 26.1-26.2 的非官方移植版\n\n這是 Domi 的 [FastChest 模組](https://github.com/FakeDomi/FastChest) 移植到 Minecraft Java Edition **26.1（小巧入侵）** 的非官方版本。\n\n### 功能簡介\nFastChest 將普通儲物箱和終界箱的動畫 3D 渲染器替換為簡單的靜態方塊模型。這消除了不必要的動畫，並在擁有大量儲物箱的區域中顯著提升 FPS。\n\n### 需求\n- Minecraft 26.1\n- Fabric Loader 0.17.2+\n- Fabric API 0.146.1+26.1.2\n\n### 備註\n- 此為非官方移植版。原始模組由 [Domi](https://github.com/FakeDomi/FastChest) 製作。\n- 採用 MIT 授權。\n- 原始碼：https://github.com/FakeDomi/FastChest\n\n---\n\n*Si hablas español: Este mod reemplaza el renderizador 3D de los cofres por modelos \nestáticos, mejorando el rendimiento (FPS) en zonas con muchos cofres.*\nPort no oficial de FastChest a Minecraft 26.1.\nMod original creado por Domi: https://github.com/FakeDomi/FastChest",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

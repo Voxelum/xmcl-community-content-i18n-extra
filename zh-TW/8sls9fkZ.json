@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SZR5nA4ZpC0=",
+  "content": "改善 [附魔灌注器](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge) 與 [術法](https://www.curseforge.com/minecraft/mc-mods/sortilege) 模組之間的互動機制。\n\n若未安裝此模組，灌注器中可選擇的附魔數量將不受限制，當啟用術法模組的附魔上限功能時會造成部分浪費。\n\n安裝後，若選擇的附魔數量超過物品可接受的附魔數量上限，將無法進行附魔。\n\n需同時安裝術法與附魔灌注器方能運作。\n\n# Forge 版本需搭配 [Sinytra Connector](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector)！！！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

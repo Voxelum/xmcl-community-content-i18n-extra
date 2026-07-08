@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aU3ApR+7pzI=",
+  "content": "# EMI 交易\n\n一个为 EMI 添加村民交易支持的附加组件。\n\n### 功能\n\n* 显示交易的成本和收益\n* 显示交易所需的等级\n* 支持流浪商人交易\n\n### 配置\n\n此模组在 1.0.2 版本中添加了一个非常简单的配置文件（`config/emitrades.toml` 或 1.2.0+ 中的 `config/emitrades.json5`），仅用于切换旧版和新版的配方显示。目前还没有图形用户界面，因此需要手动编辑配置文件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

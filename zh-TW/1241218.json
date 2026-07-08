@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0MKW3iw3rX8=",
+  "content": "<p>這個紋理包為 Minecraft 添加了發光（自發光）礦石，讓它們在洞穴中更易於辨識——無需任何模組，甚至不需要 OptiFine 或 Continuity！</p><p>大多數發光礦石包依賴於核心著色器，這在未來版本中可能會失效，且不兼容 Sodium。而這個紋理包利用了 Minecraft 1.21.2+ 的發光方塊模型支援，確保更好的穩定性與完整的 Sodium 相容性。<br>它也支援地獄礦石（遠古遺骸、地獄石英、地獄金礦與鑲金黑石）。</p><p><strong>最佳化</strong><br>我已盡可能地對這個紋理包進行最佳化，以最大化效能：</p>\n<ul>\n<li>Cullface – 不渲染被其他方塊覆蓋的面。</li>\n<li>Hidden Faces – 隱藏被模型其他部分擋住的任何面（例如發光礦石的背面）。</li>\n<li>Minimal Elements – 使用儘可能少的模型元素。</li>\n<li>Minified Models – 移除不必要的空格與字符，檔案大小縮減約 100%。</li>\n<li>Custom Textures – 使用獨特的發光礦石紋理，讓遊戲無需在多個紋理庫中搜尋。</li>\n</ul>\n<p>這些最佳化帶來了大幅的效能提升，特別是在有許多方塊的區域！</p>\n<p><strong>特色</strong></p>\n<ul>\n<li>完全原版 – 可在純原版 Minecraft 中運作，無需任何模組！</li>\n<li>Sodium 相容 – 完全相容於 Sodium，您無需放棄最喜愛的最佳化模組。</li>\n<li>無不相容性 – 與所有模組與資源包相容，除非它們大幅變更物品模型。</li>\n<li>最佳化 – 經過效能影響測試，幾乎沒有影響！</li>\n</ul>\n<p><img src=\"https://i.postimg.cc/XNfrrJcT/2025-03-24-19-10-43.png\" alt=\"Vanilla 發光礦石\"><br>祝您使用愉快！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8gze/j9GX0E=",
+  "content": "[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ToCraft)\n\n# 皮膚變換者\n\n*皮膚變換者*讓你在遊戲中變更玩家外觀！\n（別擔心——你不會真的改變自己的皮膚，只是渲染效果不同。）\n\n## 開始使用\n\n這個模組適合用於模組包或作為其他模組的函式庫。\n你可以使用指令 `/skinshifter set @s xyz` 來變更皮膚，其中 `xyz` 是你想變身的玩家名稱或 UUID。\n\n如果你是開發者，可以使用以下方法：\n~~~java\nSkinShifter.setSkin(serverPlayer, playerUuidForSkin); // 設定當前皮膚\nSkinShifter.getCurrentSkin(serverPlayer); // 回傳當前皮膚擁有者的 UUID。可能是自己的 UUID！\n~~~\n\n若要變更設定值，你可以這樣做：\n~~~java\nclass Test {\n    public static void initialize() {\n        SkinShifter.CONFIG.changeCape = true;\n        SkinShifter.CONFIG.changeNameTag = true;\n        // 需要將變更儲存至設定檔\n        SkinShifter.CONFIG.save();\n        // 若在首位玩家加入後才變更設定，請使用：\n        // SkinShifter.CONFIG.sendToAllPlayers(serverLevel);\n    }\n}\n~~~\n\n### 授權條款\n\n皮膚變換者採用 Apache 2.0 授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

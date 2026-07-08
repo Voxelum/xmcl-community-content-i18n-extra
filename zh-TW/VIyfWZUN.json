@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GOTu1NbOItM=",
+  "content": "[![](https://img.shields.io/modrinth/game-versions/playerprogress?logo=modrinth&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/playerprogress) [![](https://img.shields.io/modrinth/dt/playerprogress?logo=modrinth&label=&style=flat&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/playerprogress)\n\n## **玩家進度 (PlayerProgress)**\n\n**玩家進度**是一個小型數據包，當你在《我的世界》中完成特定任務時，會自動獲得升級。  \n你只需正常遊玩，但可以使用一些指令如 `/trigger tasksgui` 來查看你的進度。\n\n當你完成如挖掘鑽石、使用不死圖騰或射箭等行為時，你的屬性（如生命值、護甲或速度）會透過《我的世界》內建的 `/attribute` 系統提升。\n\n非常適合生存世界或希望輕量級進度的伺服器使用。\n\n---\n\n### 🧾 **當前任務與獎勵**\n\n| **任務**               | **獎勵**         |\n| ---------------------- | ---------------- |\n| 獲得 500 經驗值        | +1 顆心          |\n| 製作一把鐵劍           | +1 攻擊傷害      |\n| 死亡 10 次             | +2 最大生命值    |\n| 射擊 30 支箭           | +1 攻擊速度      |\n| 挖掘 10 顆鑽石         | +4 護甲          |\n| 使用不死圖騰           | +5% 移動速度     |\n\n每項任務的獎勵僅會發放一次。\n\n---\n\n### 🔧 **如何使用**\n\n#### ✅ 手動安裝：\n\n1. 將 `.zip` 檔案放入你的世界資料夾中的 `datapacks/` 資料夾。\n2. 開啟世界。\n3. 開始遊玩 — 完成任務後升級將自動解鎖！\n\n#### ✅ 使用 Modrinth 應用程式：\n\n1. 安裝你想遊玩的世界（或創建新世界）。\n2. 開啟 **Modrinth 應用程式**。\n3. 搜尋 **玩家進度**，點擊 **安裝**，並選擇目標世界。\n4. 啟動《我的世界》並享受自動升級！\n\n---\n\n### ⚠️ **版本說明**\n\n所有舊版本均存在錯誤 — 請僅使用正式發布版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

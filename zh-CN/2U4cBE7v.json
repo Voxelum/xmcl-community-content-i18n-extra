@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yYBGsZ9tEj4=",
+  "content": "### 注意：此模组实际上并不修复任何错误；它只是防止它们在日志中刷屏。\n\n此模组防止OpenGL `GL_INVALID_ENUM` 错误被多次记录。如果你知道那是什么，这可能适合你。如果不知道，不用担心。这是一个为阅读调试日志的人（主要是开发者）准备的工具。\n\n自 `v1.1.0` 起，它还抑制了 `GL_INVALID_VALUE` 和 `GL_INVALID_OPERATION`。`v1.1.0` 还添加了一个配置界面，所以如果你还在使用 `v1.0.0`，请务必下载它。\n\n点击[这里](https://github.com/AdamRaichu/suppress-OpenGL-1280/wiki)了解更多关于该错误的信息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

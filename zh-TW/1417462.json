@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2z/2JV9fZ8o=",
+  "content": "<p>這是一個函式庫模組，包含自Xaero的小地圖（25.3.2版）與Xaero的世界地圖（1.40.2版）起，兩者共同使用且必需的程式碼。</p><p>地圖模組本身及其詳細功能說明，請參閱以下連結：</p><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap\" target=\"_blank\" rel=\"nofollow\">Xaero的小地圖</a></p><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map\" target=\"_blank\" rel=\"nofollow\">Xaero的世界地圖</a></p><p>僅在Minecraft 1.16.5和1.12.2版本的Forge環境下，才需要額外安裝此模組。<strong><em>若未安裝此函式庫，地圖模組將無法運作。</em></strong></p><p>在較新版本的Minecraft以及Fabric/Quilt環境中，此函式庫已預設包含於地圖模組內，因此無需另行安裝 — 這也是為何此處找不到該檔案的緣故。</p><h2>給開發者：</h2><p>請參閱地圖模組頁面中的「給開發者」章節。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

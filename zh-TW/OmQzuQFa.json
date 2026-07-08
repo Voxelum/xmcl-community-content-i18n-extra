@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OuVJBUO8E40=",
+  "content": "最近，我發布了一個能簡化遊戲移動操作的模組。詳細資訊：https://modrinth.com/mod/better-movement-(fabric)\n\n## LazyDFU 重製版\n此模組為內容創作者 **astei** 所開發之 LazyDFU 模組的非官方移植版本。\n現已新增對 **Forge**、**NeoForge** 模組載入器的支援，並更新了 Fabric 支援至較新版本。\n此外，亦進一步優化了資源包的載入與卸載機制。\n\n**原始模組連結**：\nhttps://modrinth.com/mod/lazydfu\n\n**作者連結**：\nhttps://modrinth.com/user/astei",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

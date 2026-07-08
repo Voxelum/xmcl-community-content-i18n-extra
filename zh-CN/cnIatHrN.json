@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MjiiEnsY824=",
+  "content": "# 通用商店\n\n通用商店是一个适用于 Fabric（和 Quilt 兼容）的交易商店模组，旨在灵活且适用于各种类型的服务器。它完全在服务器端运行（单人游戏模式下仍然有效），因此可以在兼容原版客户端或模组包服务器上使用。它包括可制作的玩家交易商店和适用于管理员/地图制作者的管理员交易商店。两者的设置方式相同。\n\n它还会检查 Common Protection API，以确保玩家有权访问源箱子/容器。建议使用兼容 Common Protection API 的保护模组（例如 [GOML](https://modrinth.com/mod/goml-reserved) 或 [HTM](https://modrinth.com/mod/htm)）。\n\n![](https://imgur.com/VH7voGh.png)\n\n## 使用交易商店\n首先，你需要（作为玩家）制作一个交易商店方块。你可以使用任意 4 块木板、1 块羊毛和 1 个铁锭来制作。\n\n![](https://imgur.com/rdzfgtu.png)\n\n然后，你需要将其放置在某个容器旁边（可以放在顶部或侧面）。\n\n![](https://imgur.com/EuPNKcj.png)\n\n之后，商店设置界面将会打开。你需要设置诸如出售的库存类型和价格等事项。你还可以选择启用漏斗支持或禁用全息图。\n\n要更改设置，只需点击相应的物品。对于基于物品的设置，你可以通过点击（空/设置）槽位来设置。如果你的光标持有物品，它将被复制为设置。否则，它将打开菜单以手动设置。\n\n![](https://imgur.com/2Nn7ynR.png)\n\n完成，商店已完全可操作。你只需要将所需的库存放入容器中，其他人就可以购买。\n\n要购买物品，只需点击打开商店，然后取出出售的物品。你可以按住 Shift 键将其直接移至你的背包！\n\n## 下载\n- [Modrinth](https://modrinth.com/mod/universal-shops)\n- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/universal-shops)\n- [Github Releases](https://github.com/Patbox/UniversalShops/releases)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

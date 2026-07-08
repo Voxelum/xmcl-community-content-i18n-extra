@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2wsc2dFBTeA=",
+  "content": "<p>Observable 會對（方塊）實體進行效能剖析（分析），並顯示哪些部分佔用了刻運算時間以及發生的位置。支援 Forge 與 Fabric。若發現任何錯誤，請至 GitHub 儲存庫<a href=\"https://github.com/tasgon/observable/issues\" rel=\"nofollow\">此處</a>回報。</p><p>&nbsp;</p><p>（注意：開啟效能剖析 GUI 的預設按鍵為 R。）</p><p>&nbsp;</p><p>目前已知問題：</p><ul>\n<li>結果畫面有時會是空的（關閉並重新開啟 GUI 即可解決）</li>\n</ul><p>&nbsp;</p><p>常見問題：</p><ul>\n<li>為什麼模組在啟動時會因「java.lang.NoClassDefFoundError: kotlin.jvm.&lt;whatever&gt;」而崩潰？</li>\n</ul><p style=\"padding-left:30px\">此模組使用了 Kotlin 標準函式庫，請安裝提供該函式庫的模組，例如 <a href=\"https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge\" rel=\"nofollow\">Kotlin for Forge</a> 或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin\" rel=\"nofollow\">Fabric Language Kotlin</a>。</p><ul>\n<li>這個模組需要安裝在伺服器端嗎？</li>\n</ul><p style=\"padding-left:30px\">為了正常運作，是的。此外，玩家可以在用戶端不安裝此模組的情況下連線，但他們將無法使用任何功能。</p><p>&nbsp;</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fimgur.com%252fa%252fZjjoi5f\" rel=\"nofollow\">此處有截圖。</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

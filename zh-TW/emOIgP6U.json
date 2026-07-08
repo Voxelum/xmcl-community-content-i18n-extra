@@ -1,0 +1,6 @@
+{
+  "bodyHash": "INN1IyPdbVc=",
+  "content": "將著名的原始 pack.png 圖片加入到其他畫作中。\n\n主畫作使用 4x4 的畫框，且不會降低圖片品質。\n\n還有另一幅畫作，但在生存模式中無法放置（僅能透過指令生成），它是全尺寸的圖片，因此需要 8x8 的畫框（非常大）。\n\n畫作 ID：\n- `minecraft:pack_png`（生存模式可放置）\n- `minecraft:pack_png_big`（生存模式無法放置，僅能透過指令生成）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

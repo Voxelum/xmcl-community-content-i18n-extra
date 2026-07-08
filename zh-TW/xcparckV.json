@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7c4cfbbe400ae61",
+  "content": "\n\n<h2 style=\"text-align: center;\">Open Parties and Claims 的 PvP 支援</h2>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">這是一個小型模組，允許您停用隊伍成員之間的 PvP，同時提供透過 /opacpvp 指令來切換個人 PvP 設定的功能。</p>\n<p style=\"text-align: center;\">於 Fabric 環境下需安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/faux-custom-entity-data\">Faux Custom Entity Data</a>。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h3 style=\"text-align: center;\"><strong>&nbsp;⭐ 功能特色 ⭐</strong></h3>\n<h3 style=\"text-align: center;\">&nbsp;</h3>\n<h4 style=\"text-align: center;\"><strong>停用隊伍成員間的 PvP</strong></h4>\n<p style=\"text-align: center;\">安裝此模組後，將停用隊伍成員之間的 PvP。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h4 style=\"text-align: center;\"><strong>個人 PvP 切換開關（僅限 Fabric）</strong></h4>\n<p style=\"text-align: center;\">使用 /opacpvp 指令即可切換您個人的隊伍 PvP 狀態。</p>\n<p style=\"text-align: center;\">若您與隊伍成員發生戰鬥，雙方均需開啟個人 PvP 才能對彼此造成傷害。</p>\n<p style=\"text-align: center;\">預設數值可在設定檔中修改，且此完整功能亦可於設定檔中停用。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

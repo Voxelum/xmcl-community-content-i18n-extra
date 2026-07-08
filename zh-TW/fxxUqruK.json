@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vedD7EEukCc=",
+  "content": "這是一個輕量級低資源耗費的 Minecraft 模組，能夠渲染極遠的視距（需支援 OpenGL 4.6 的系統）。\n\n使用 LoD（細節層級）技術來實現遠距離渲染。\n\n在你探索的過程中，地形會自動轉換為 LoD。\n\n0.2.4 版本起加入了光影支援，但光影必須明確支援 Voxy 才能正常運作。\n\n可以使用匯入指令來匯入既有的世界：\n`/voxy import world \"<世界名稱>\"`\n\n![HermitCraft S9 512RD](https://cdn.modrinth.com/data/cached_images/480a6c99db0149653a13152e5247216b771f9ead.jpeg)\n\n（標誌由 devin 製作，moonkey 修改）\n\n若您希望將此模組納入模組包中，請務必將模組連結回本頁面，且所使用的版本必須可在本 Modrinth 模組頁面上取得（即：請勿使用或包含非官方移植版或非官方版本）。\n\n![ ](https://cdn.modrinth.com/data/cached_images/071b0da4b0956d18fe61c0d1c37f3a92dc3a3f0a.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

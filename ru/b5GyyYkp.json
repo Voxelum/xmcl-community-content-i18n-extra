@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Fwr5dSmd2eU=",
+  "content": "Charm of Undying — это мод, использующий API Curios (Forge) и API Trinkets (Fabric/Quilt)\nдля добавления нового слота — слота Чар — в инвентарь игрока и позволяющий помещать Тотем Неумирающего\nв этот слот либо напрямую, либо через использование тотема в руке.\n\n## Особенности\n\n![](https://i.ibb.co/qmyCPfp/undying-screenshot.png)\n\n![](https://i.ibb.co/WWfRvqB/trinketotem.png)\n\nПока тотем находится в этом слоте, игрок получает тот же эффект защиты от смерти, как если бы тотем был у него в руке. Это позволяет игроку пользоваться преимуществами тотема без необходимости постоянно помнить о том, чтобы держать тотем в руке, а также без необходимости занимать полезный слот горячей шкалы или инвентаря для его хранения.\n\n## Партнеры\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

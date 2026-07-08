@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BorLmfJzAjQ=",
+  "content": "<div>\n<h1>Minecraft 座標模組</h1>\n<div>Minecraft 座標模組是一款 Fabric 模組，可讓您輕鬆記錄遊戲中的座標並顯示在畫面上。它還會顯示世界中其他玩家的位置，讓您更容易掌握所有人的動向。</div>\n<div>&nbsp;</div>\n</div><div>\n<h2>功能特色</h2>\n<div>\n<ul>\n<li>儲存座標：用簡短描述和圖示記錄當前位置</li>\n<li>HUD 顯示：畫面上會顯示您目前的座標及其他玩家位置。<em>注意：若要在 HUD 顯示其他玩家位置，伺服器也必須安裝此模組</em></li>\n<li>座標清單：輕鬆查看和管理已儲存的座標</li>\n</ul>\n</div>\n<img src=\"https://media.forgecdn.net/attachments/description/null/description_709ed00d-0611-41dc-8c4f-55c79ed6d900.png\" alt=\"\" width=\"850\" height=\"479\"><br><br>\n<h2>開發背景</h2>\n<h2><span style=\"font-size:16px\">我開發這個模組是為了讓和兒子玩 Minecraft 變得更有趣！</span></h2>\n<div>在生存模式中，會出現各種怪物，對孩子來說可能很可怕。但有了這個模組，我的兒子可以立即看到我在哪裡，如果發生任何情況，我可以馬上趕過去幫助他。</div>\n<br>\n<h2>安裝方法</h2>\n<div>\n<ol>\n<li>安裝 [Fabric Mod Loader](<a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252fuse%252f)\" target=\"_blank\" rel=\"nofollow\">https://fabricmc.net/use/)</a></li>\n<li>將模組 JAR 檔案放入 Minecraft 的 mods 資料夾</li>\n<li>使用 Fabric 設定檔啟動 Minecraft</li>\n</ol>\n</div>\n<br>\n<h2>使用方式</h2>\n<div>\n<ul>\n<li>按下 <strong>G</strong> 鍵儲存當前位置</li>\n<li>按下 <strong>B</strong> 鍵開啟座標清單畫面</li>\n<li>透過模組設定畫面變更各項設定</li>\n<li>遊玩時 HUD 會即時顯示座標數據與通知</li>\n</ul>\n</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

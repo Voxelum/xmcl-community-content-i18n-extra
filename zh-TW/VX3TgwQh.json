@@ -1,0 +1,6 @@
+{
+  "bodyHash": "63UsSY5WO3s=",
+  "content": "## Carpet Extra\n\nCarpet Extra 是 [Carpet] 的一個擴充模組，新增了許多額外功能，例如無數種新的發射器行為、取得資源的可再生方式，以及更多其他功能！\n\n[Carpet]: https://modrinth.com/mod/carpet\n\n針對其啟用的發射器行為，它也新增了一個新的 [Scarpet 事件]，當這些行為發生時會觸發，讓你能進一步自訂它們。\n\n[Scarpet event]: https://github.com/gnembon/carpet-extra/blob/master/docs/scarpet/ScarpetEvents.md\n\n## 新增規則\n\n你可以在儲存庫中找到[所有新增規則的清單][rules]。\n\n[rules]: https://github.com/gnembon/carpet-extra#carpet-extra-features\n\n## 更多擴充模組\n\n如果你在尋找 Carpet 的自動合成臺，它已移至一個獨立的擴充模組，你可以在[其在 Github 上的儲存庫][Autocraftingtable repo]中找到。\n\n[Autocraftingtable repo]: https://github.com/gnembon/carpet-autoCraftingTable\n\n還有許多其他 Carpet 擴充模組，增加了無數的新規則和功能！你可以在 [Carpet 維基][extension list]中找到它們的清單。\n\n[extension list]: https://github.com/gnembon/fabric-carpet/wiki/List-of-Carpet-extensions",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

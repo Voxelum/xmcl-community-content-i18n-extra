@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HjpmdiiZq5c=",
+  "content": "# 你好呀\n这个小资源包为玻璃板添加了自定义纹理，基本是在原版玻璃基础上加上边框。玻璃方块纹理保持不变，因此在技术性建筑中使用大量白色染色玻璃时依然能保持原有效果。玻璃板会渲染侧边纹理以突出边框。透明玻璃板的纹理能相互连接（如同所有玻璃方块），因为本包包含了Continuity内置的连接纹理资源包，同时也能兼容OptiFine。\n\n通过这个视频（6:43至7:43）快速了解概览：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/QVHNhv8FHGo\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n想更全面了解可查看图库。\n\n### 我制作了该包的可选版本：\n- [框边玻璃](https://modrinth.com/resourcepack/framed-glass)：所有染色玻璃方块和玻璃板都使用新的边框纹理（普通玻璃和遮光玻璃除外）\n- [框边玻璃方块](https://modrinth.com/resourcepack/framed-glass-blocks)：仅修改染色玻璃方块的纹理。使用Continuity时玻璃板纹理可连接\n\n### 鸣谢\n如有任何反馈，欢迎加入我的Discord告诉我。\n也请务必在我的Modrinth主页上查看我的其他资源包 :D",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

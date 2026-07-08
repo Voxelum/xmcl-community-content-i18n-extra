@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BQphF2/uMNc=",
+  "content": "# 濕透之翼\n\n這是一個 Fabric 模組，能在液體中禁用鞘翅飛行、施加環境懲罰並強制冷卻時間。所有設定皆可透過伺服器遊戲規則完全自訂。\n\n## 核心機制\n\n**環境削弱**\n\n- 在雨、水或岩漿中使用鞘翅會觸發 **20 秒冷卻時間**。\n- 雨天時 **煙火推進功能將被禁用**。\n\n**濺水冷卻**\n\n- 使用 **濺水藥水** 擊中玩家會使其鞘翅失效 **最長 20 秒**，時間長短依距離遠近而定。\n\n**伺服器端控制**\n\n- 所有效果皆可透過伺服器遊戲規則設定。\n- 完全 **兼容原版遊戲**，使用 Minecraft 的 `ItemCooldowns` 系統。\n\n## 遊戲規則\n\n- `doElytraNerf` – 全域開關，控制所有鞘翅削弱效果（預設：true）\n- `disableElytraInRain` – 雨天禁用鞘翅（預設：true）\n- `disableElytraInWater` – 水中禁用鞘翅（預設：true）\n- `disableElytraInLava` – 岩漿中禁用鞘翅（預設：true）\n- `disableRocketsInRain` – 雨天禁止使用煙火火箭推進（預設：true）\n- `applyElytraCooldownFromSplashWater` – 被濺水藥水擊中時觸發冷卻（預設：true）\n\n## 靈感來源\n\n靈感來自 **cubfan135 的影片「[Minecraft 的鞘翅問題](https://www.youtube.com/watch?v=fBbtP9GZITM)」**\n\n本模組將其提出的液體環境鞘翅限制概念，實作為可設定的伺服器端 Fabric 模組。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/fBbtP9GZITM\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mPZkHzuxSiM=",
+  "content": "<h1>货船</h1><p>本模组添加了可自动化的物品和流体摩托艇，用于实现低成本的长距离物流运输。</p><p>Discord：<a href=\"https://discord.gg/aXQExaHfgR\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/aXQExaHfgR</a></p><p><strong>本模组提供帕秋莉手册指南</strong></p><h2>入门指南</h2><p>按如下配方合成摩托艇（也存在流体版本，详情请查看 JEI）：</p><p><img src=\"https://media.forgecdn.net/attachments/description/1410089/description_65203d54-4a7d-44fb-b92d-ea018fe47ca5.png\" alt=\"图片\"></p><p>摩托艇会加载自身周围3x3区块，其放置方式与普通船相同。随后需合成至少2个码头；物品、流体和/或能量（用于为摩托艇供能）可通过码头的对接船只进行传输。请注意码头正面为带有船锚标志的一侧。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1410089/description_df4f9ad6-ae6b-4027-b2a0-8de6bc66a2a6.png\" alt=\"图片\"></p><p>可选合成浮标，它们可放置在水面上，作为摩托艇路径的中间节点（长距离路径中每200米至少需放置一个）。浮标可调整位置偏移；通过巧妙布置，还能配合气泡柱或落差实现船只升降。浮标没有碰撞箱。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1410089/description_b05f4712-d890-4018-9200-a35d4efcc612.png\" alt=\"图片\"></p><p>放置好码头后，合成一个摩托艇编程器。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1410089/description_fecccfad-0368-4e5a-a1e1-6092201a141e.png\" alt=\"图片\"></p><p>手持摩托艇编程器，按你希望访问的顺序右键点击码头和浮标（路径可后续编辑，例如指定在码头停留的时间）。之后右键点击摩托艇以加载行程安排。摩托艇将按照行程自动行驶，移动时消耗5 RF/t。请注意摩托艇的寻路需要3x3的空旷空间。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

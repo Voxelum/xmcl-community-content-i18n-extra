@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2sAqSyKg0xs=",
+  "content": "<div>熱力學：高效能多執行緒熱量模擬</div><p>&nbsp;</p><div>熱力學是一個功能強大的庫式模組，旨在為Minecraft帶來逼真的溫度機制，同時完全不影響遊戲流暢度。它實現了精密的平行BFS（廣度優先搜尋）引擎，在獨立執行緒中計算世界各地的溫度擴散，即使面對複雜的熱力系統，也能保持伺服器TPS平穩流暢。</div><p>&nbsp;</p><div>「裸核心」模擬</div><div>熱力學被設計為模擬框架。預設情況下，它提供了「物理規則」，但將方塊定義留給您自行處理。</div><div>注意：您必須安裝相容的資料包來定義熱源與材質屬性。目前有2個官方資料包：</div><div>原版與Create模組</div><p><br>主要特色</div><div>多執行緒效能：熱量擴散獨立於主遊戲循環進行計算，因此熱量TPS低落時不會影響遊戲TPS。</div><div>動態材質：每個方塊都可自訂導熱係數（熱量傳導速度）、傳遞速率及散逸率（向環境損失熱量）。</div><div>資料包驅動：所有方塊數據皆可透過標準Minecraft JSON進行熱重載，無需Java知識。</div><div>環境感知：溫度會根據生態域的環境溫度自然重新平衡。</div><p>&nbsp;</p><div>簡易工具</div><div>模組的GitHub儲存庫中附帶一款Python圖形工具（thermal_tool.py），可讓您：</div><div>輸入任何方塊註冊名稱。</div><div>使用視覺化滑桿調整熱力數值。</div><div>一鍵生成或更新資料包。</div><p>&nbsp;</p><div>指令</div><div>/thermodynamica status - 檢查啟用的熱源與引擎健康狀態。</div><div>/thermodynamica tps - 檢視詳細的模擬效能分析。<br><br>Logo由Tomato（handspoken）製作</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

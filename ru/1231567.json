@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WIenLvL5vrw=",
+  "content": "<p>Особенности API:</p><ul>\n<li>API для интерфейса инвентаря</li>\n<li>Kotlin-обёртка для Brigadier</li>\n<li>Kotlin-DSL для создания сложных объектов <code>Text</code></li>\n<li>Корутинные утилиты и задачи</li>\n<li>Поддержка kotlinx.serialization для классов Minecraft</li>\n<li>API для табло (боковой панели)</li>\n<li>Утилиты для <code>ItemStack</code></li>\n<li>Сериализация любых классов в NBT с помощью kotlinx.serialization</li>\n<li>Строитель NBT</li>\n<li>API для хранения постоянных данных на чанках, сущностях и т.д.</li>\n<li>Сетевое взаимодействие на основе kotlinx.serialization (пакеты c2s, s2c и c2c)</li>\n<li>Поддержка пользовательского интерфейса Kotlin Compose</li>\n<li>Общие расширения для сущностей, миров и многого другого</li>\n<li>Геометрические утилиты\n<h2><span>Отличие от официальной версии заключается в том, что она обновлена до версии 1.20.1 и, возможно, будет развиваться дальше</span></h2>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

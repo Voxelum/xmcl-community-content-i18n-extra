@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hLzRfR0slxg=",
+  "content": "<center><img src=\"https://cdn.modrinth.com/data/cached_images/449b11a149923f6d9e38aa0ec16f2e35160b8df9.png\" /></center>\n\n合金鍛造廠新增了一個多方塊合金冶煉爐——**合金鍛造爐**。基礎配置下可輕鬆提升礦石產量，所有功能皆採用數據驅動設計，讓您能自由添加新鍛造爐與配方。這些數據驅動功能主要面向模組與整合包作者，尤其因新型鍛造爐僅能透過其他模組數據包或全域設定檔添加。\n\n---\n\n預設提供三種鍛造爐等級，各具不同燃料容量與速度。它們均由不同石質材料製成，您可在Wiki查閱詳細資料。\n\n![鍛造爐教學](https://cdn.modrinth.com/data/cached_images/0ca4651a23fb13f1add7bed2820bfb2059e3e2bc.png)\n\n所有控制器的合成配方遵循此模式，外圈方塊需使用對應控制器材質。建造鍛造爐時，只需參照上文直觀指引，使用該類型支援的任何方塊組合即可。\n\n​\n\n<center><img src=\"https://cdn.modrinth.com/data/cached_images/5df27e031fe7bba7fd361683dbe662c95633d7bb.png\" /></center>\n\n![介面示意圖](https://cdn.modrinth.com/data/cached_images/8c88d3b6f3d3286efb83b29bb772eba52372f7fc.png)\n\n## 開發者Discord群組：\n若遇問題或需新增內容協助，請加入此群組\n\n[![Discord圖標](https://media.forgecdn.net/attachments/372/487/wraith.png)](http://discord.gg/Pa5wDVm8Xv)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

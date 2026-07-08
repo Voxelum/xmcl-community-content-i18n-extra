@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ed0Ix3bWw3o=",
+  "content": "僵尸、尸壳和溺尸生成时，身体上可能会插着物品，这让它们显得更加独特。\n\n此外，这些物品有较小几率在它们死亡时掉落，具体取决于物品所属的列表类型。\n\n共有4个等级（列表）\n\n<details>\n<summary>剧透</summary>\n\n- 常见（箭）\n\n- 稀有（木制、金制、石制工具及光灵箭）\n\n- 罕见（铁制工具和剪刀）\n\n- 史诗（钻石工具）\n\n</details>\n\n这些可以在物品标签文件夹中找到并进行修改。\n\n掉落几率可通过配置文件调整，该文件位于配置文件夹中。\n\n你还可以更改在选择最多3件物品时，从哪个物品列表中抽取的概率。\n\n当前模组支持：\n\n**Forge 26.1.x | 1.21.x | 1.20.1**\n\n**Neoforge 26.1.x | 1.21.x**\n\n**Fabric 26.1.x | 1.21.x | 1.20.1**\n\n如需其他版本的模组，或在CurseForge上遇到任何BUG，请私信我。\n\n[https://legacy.curseforge.com/members/aquarius_playz/projects](https://legacy.curseforge.com/members/aquarius_playz/projects)\n\n在X（推特）上关注我：\n\n[https://x.com/Aquarius_playz](https://x.com/Aquarius_playz)\n\n![aquariuslibs](https://cdn.modrinth.com/data/KkHnyaL6/7d506caf48d26f964f4f789553ce757cfe868742_96.webp)\n\n**[本模组需要安装AquariusLibs](https://modrinth.com/mod/aquarius-libs)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

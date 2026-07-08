@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jba2PkqIDYI=",
+  "content": "# Draconic Evolution Render Patcher\n\n## 關於\n\n這是一個修復 Draconic Evolution 與 Embeddium/Sodium 渲染問題的模組。\n\n**如果你發現任何錯誤或崩潰，無論是 1.20.1 或 1.21.1 版本，請在 [Github](https://github.com/enzobocalon/draconic-evolution-render-patcher/issues) 上回報。**\n\n## 運作原理\n\n它將 Brandons Core 的渲染改為使用 Embeddium 或 Sodium 的實體系統。\n\n## 特色\n\n- 修復使用 Embeddium/Sodium 時 Draconic Evolution 的渲染問題。\n- 包含相容性代碼，可調整 Iris 和 ImmediatelyFast 的設定，強制渲染 Draconic 的物品與實體。\n- 你可以使用 \"/derender status\" 指令檢查每個相容模組的設定。\n\n## 重要資訊\n\n- Draconic Evolution Render Patcher 是一個客戶端模組。\n- 請記得使用 Sodium 或 Embeddium。\n- 如果安裝了 Iris，模組會在執行時強制將 \"allowUnknownShaders\" 設定為 \"true\"。\n- 如果安裝了 ImmediatelyFast，模組會在執行時強制將 \"hud_batching\" 設定為 \"false\"。\n- **某些著色器包在與模組搭配使用時會有問題——請確保你使用的是相容的著色器包（Complementary 是其中一個對模組支援良好的著色器包）。**\n\n>你可以在位於 config/derenderpatcher-client.toml 的設定檔中停用這些更改。停用後，每個模組將使用各自的設定。\n\n## 致謝\n\n[Draconic Evolution](https://modrinth.com/mod/draconic-evolution) 由 brandon3055 製作  \n[Brandon's Core](https://modrinth.com/mod/brandons-core) 由 brandon3055 製作  \n[Embeddium](https://modrinth.com/mod/embeddium) 由 FiniteReality 製作  \n[Sodium](https://modrinth.com/mod/sodium) 由 JellySquid 製作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

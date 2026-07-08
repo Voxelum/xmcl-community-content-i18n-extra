@@ -1,0 +1,6 @@
+{
+  "bodyHash": "z6yt9ucyfNk=",
+  "content": "<h1>Совместимость FTB x EMI</h1><p>Слой совместимости, обеспечивающий интеграцию модов FTB (например, FTB Quests) с EMI (Просмотрщик предметов и рецептов).</p><h2>Установка</h2><p>Просто поместите файл jar в папку <strong>mods</strong> вашей Minecraft.</p><h2>Требования</h2><p>Для использования этого мода необходимы следующие компоненты:</p><ul>\n<li><strong>Fabric Loader</strong></li>\n<li><strong>Fabric API</strong></li>\n<li><strong>EMI</strong></li>\n<li><strong>FTB Quests</strong></li>\n<li><strong>FTB Library</strong></li>\n<li><strong>Architectury API</strong></li>\n</ul><h2>Лицензия</h2><p>Этот проект лицензирован по <strong>MIT License</strong>. Подробности см. в файле <a href=\"LICENSE\" rel=\"nofollow\">LICENSE</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

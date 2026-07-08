@@ -1,0 +1,6 @@
+{
+  "bodyHash": "L3AvgnTKzck=",
+  "content": "<h1>物品資訊模組</h1><p>一款輕量級實用模組，透過簡單指令提供詳細的物品檢視功能。</p><h2>✨ 特色功能</h2><ul>\n<li><strong>即時物品分析</strong><br>\n使用 <code>/iteminf</code> 指令掃描手持物品</li>\n<li><strong>完整數據顯示</strong><br>\n顯示內容包含：\n<ul>\n<li>基本物品元數據（ID、註冊名稱）</li>\n<li>詳細NBT數據（格式化顯示）</li>\n<li>食物屬性（飽食度、飽和度、效果）</li>\n<li>工具/武器數值（耐久度、攻擊傷害、挖掘等級）</li>\n<li>裝備類型分類（鎬、劍等）</li>\n</ul>\n</li>\n</ul><h2>🕹 使用方法</h2><ol>\n<li>將任意物品拿在主手</li>\n<li>開啟聊天視窗並輸入：<br>\n<code>/iteminf</code></li>\n<li>取得詳細資訊：<br>\n範例輸出：</li>\n</ol><pre><code>物品：蘋果\nID：minecraft:apple\nNBT：{tag: 10}\n食物資訊：\n</code></pre><h3>進階指令</h3><table>\n<thead>\n<tr>\n<th>指令</th>\n<th>說明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>/iteminf nbt</code></td>\n<td>NBT數據</td>\n</tr>\n<tr>\n<td><code>/iteminf food</code></td>\n<td>食物數據</td>\n</tr>\n<tr>\n<td><code>/iteminf tool</code></td>\n<td>工具數據</td>\n</tr>\n<tr>\n<td><code>/iteminf base</code></td>\n<td>物品基本資訊</td>\n</tr>\n</tbody>\n</table><h2>📦 相容性</h2><table>\n<thead>\n<tr>\n<th>Minecraft版本</th>\n<th>狀態</th>\n<th>模組載入器</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1.20.1</td>\n<td>✔️</td>\n<td>Forge</td>\n</tr>\n</tbody>\n</table><h2>📜 授權條款</h2><p>本專案採用 GNU GPL 3.0 授權條款。</p><h2>❓ 支援</h2><p>請在GitHub Issues回報問題（模組ID：iteminf）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

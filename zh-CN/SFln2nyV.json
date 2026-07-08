@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ADZWHMCOTAc=",
+  "content": "# 草方块增强+\n\n### 为什么要用这个资源包？\n\n草方块增强+致力于美化所有草地生物群系的外观——为草方块侧面添加微小的边缘修饰效果，在草方块表面随机生成花朵与细节纹理，并营造出草皮质感的微妙变化。\n\n### 工作原理：\n\n我利用多部件方块状态实现了草方块模型变体的完全随机组合。每个草方块都可能拥有不同的朝向角度、边缘长度、花朵与细节纹理的组合。\n\n### 未来计划：\n\n我计划持续更新此资源包以适配所有新版游戏。同时还想制作第二个资源包为下界菌岩增添细节。为什么要另做一个包？为了给用户更多自定义空间。上传后我会在此处[链接]标注。\n\n### 兼容性\n\n本资源包应与所有改变草皮外观的材质包兼容。但由于花朵与细节使用了特殊纹理，使用32x及以上分辨率的材质包时可能出现异常显示。\n\n**完整支持列表：**\n- [快速优质草皮](https://modrinth.com/resourcepack/fast-better-grass)\n- [简易低矮草边](https://modrinth.com/resourcepack/simple-lower-grass-sides)\n\n# 衷心感谢超过40,000次下载！！！🎉\n\n我从未想过能达到这个数字，若没有你们（没错就是正在阅读的你）的持续支持，这一切都不可能实现！由于生活责任更新频率有所降低，感谢你们的耐心等待。今年夏天我会带来更多内容！\n\n如需提交漏洞报告、兼容性问题、建议或创意，欢迎加入我的Discord服务器！\nhttps://discord.gg/gpNt8265mg\n\n## 边缘效果：\n![游戏内草方块边缘演示](https://cdn.modrinth.com/data/cached_images/31eb1ba3c6b422b443e662f4aedff80cf68a6eb6_0.webp)\n\n## 俯视图对比：\n![俯视对比](https://cdn.modrinth.com/data/cached_images/4c2c4fcf7d7037b196014b99d42cd88191469282_0.webp)\n\n# 如果您还想为Minecraft世界增添更多层次与细节，不妨试试我的另一个项目：维度化3D基础包！！\n## [https://modrinth.com/resourcepack/dimensionalized-3d-essentials](https://modrinth.com/resourcepack/dimensionalized-3d-essentials)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

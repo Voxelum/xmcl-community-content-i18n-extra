@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LNpwuUbNy4o=",
+  "content": "Этот мод добавляет различные оружия из игр Devil May Cry. Я создал этот мод для сервера своего друга и решил выложить его в сеть. У него немало проблем, и я не планирую обновлять его.\n\nRebellion: урон — 8 единиц. Найдено в структуре в обычном мире.\n\nSparda: урон — 10 единиц. Найдено в структуре в Незере.\n\nYamato: урон — 20 единиц. Найдено в крайне редкой структуре в Энде.\n\nDevil Sword Dante: урон — 20 единиц. Создаётся путём размещения Sparda и Rebellion на крафтовой сетке в автономной версии либо путём добавления Sparda, Rebellion и Разумного Ядра на крафтовую сетку в версии RLCraft.\n\n\nИЗВЕСТНЫЕ ПРОБЛЕМЫ:\nRebellion — единственное оружие, которое отображается во вкладке «Креатив». Мне лень это исправлять.\nID-команды /give для этих видов оружия следующие:\n\ndevilarms:rebellion (Rebellion)\n\ndevilarms:ds_sparda (Sparda)\n\ndevilarms:yamato (Yamato)\n\ndevilarms:ds_dante (Dante)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

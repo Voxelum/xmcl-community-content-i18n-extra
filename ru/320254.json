@@ -1,0 +1,6 @@
+{
+  "bodyHash": "i8vmFxGZtJg=",
+  "content": "<h3><strong>О</strong></h3><p>Этот патч-мод исправляет следующие проблемы AE2:<br><a href=\"https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/3919\" rel=\"nofollow\">https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/3919</a>&nbsp;<br>— (исправлено с помощью рефлексии; AE2 отказывается исправлять эту проблему).<br><a href=\"https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/3920\" rel=\"nofollow\">https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/3920</a>&nbsp;<br>— (исправлено путём отключения фейкового игрока, которого AE2 использует для проверок; это не является проблемой AE2).<br><br>Для владельцев серверов, обеспокоенных вторым исправлением:<br>Фейковый игрок имеет следующий UUID и имя пользователя.<br>UUID: 41C82C87-7AfB-4024-BA57-13D2C99CAE77<br>Имя пользователя: [Minecraft]</p><p><br>Это недействительный игровой профиль для любого реального игрока, поэтому отключение этого фейкового профиля не приведёт к каким-либо необычным последствиям.</p><p>&nbsp;</p><h3><strong>Контакты</strong></h3><p>Discord:&nbsp;<a href=\"https://discord.gg/wdvU5Yz\" rel=\"nofollow\">https://discord.gg/wdvU5Yz</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QrS+Yv9amac=",
+  "content": "<h1>僅生成殭屍</h1><p><strong>僅生成殭屍</strong> 是一款輕量級模組，將敵對生物的生成限制為僅有<strong>殭屍</strong>。\n當非殭屍怪物嘗試生成時，它會自動被替換成一隻或多隻殭屍。</p><h2>功能特色</h2><ul>\n<li><strong>生成替換</strong>：將所有敵對生物（怪物）替換為殭屍。</li>\n<li><strong>廣泛涵蓋</strong>：適用於自然生成、生怪磚、區塊生成、結構和巡邏隊。</li>\n<li><strong>Boss排除</strong>：終界龍和凋零怪不受替換，將正常生成。</li>\n<li><strong>生成倍率</strong>：可配置每替換一個生物時生成1至40隻殭屍。</li>\n<li><strong>持續性繼承</strong>：若原始生物設定為不會消失（例如透過命名牌），替換後的殭屍也會繼承此持續性。</li>\n</ul><h2>設定</h2><p>您可在遊戲中使用指令 <code>/ozsconfig</code> 開啟設定介面，調整以下選項：</p><ul>\n<li><strong>允許的生物 (<code>allowedMobs</code>)</strong>：指定應正常生成而不被替換的生物列表。</li>\n<li><strong>停用的維度 (<code>disabledDimensions</code>)</strong>：指定停用此模組效果的維度（例如地獄、終界）。</li>\n<li><strong>殭屍生成倍率 (<code>zombieSpawnMultiplier</code>)</strong>：設定每次替換時出現的殭屍數量（預設：1）。</li>\n</ul><p><em>設定檔儲存於 <code>config/onlyzombiesspawn.properties</code>。</em></p><h2>支援版本</h2><ul>\n<li><strong>Forge</strong>：1.18.2、1.19.2、1.20.1</li>\n<li><strong>NeoForge</strong>：1.21.1、26.1、26.1.2</li>\n<li><strong>Fabric</strong>：1.20.1、1.21.1、26.1、26.1.2</li>\n</ul><hr><p><em>非常適合殭屍主題世界、自訂模組包和生存挑戰。</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8Uyjo0GTlmg=",
+  "content": "在 Litematica 中放宽方块状态检查，允许使用同一组中的替代方块状态。\n\n例如，当 Litematica 要求使用石英方块时，你可以使用石头；或者当需要染色玻璃时，可以使用普通玻璃方块。\n\n通常，除红石元件和铁轨外，大多数方块都有可用的替代品，所有具有相同属性（不包括材质、硬度等）的方块都属于同一组。后续版本可能会引入更多自定义选项。\n\n此功能可通过按下 F3 + O 键进行切换。\n\n当然，使用此模组需要先安装 Litematica。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

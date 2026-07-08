@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LFTh6T7Zwsg=",
+  "content": "![AddonBanner](https://cdn.modrinth.com/data/cached_images/45e4c514520f2f9197f81b23cbcfca0cf1294f2f.png)\n\n**DMZ KiAttack Addon** 为 DragonMineZ 引入了完整的 **气功攻击系统**，为 **Minecraft 1.20.1** 带来能量战斗体验。\n\nDragonMineZ 为游戏加入了种族、变身和龙珠宇宙，但当前并未包含完整的气功攻击系统。本插件填补了这一空白，添加了多种基于气的攻击方式，供玩家在战斗中使用。\n\n所有攻击均为 **完全可配置**，允许服务器管理员和整合包作者自定义伤害、冷却时间、气消耗及其他游戏数值，以适配不同的游戏体验。\n\n## 功能\n✨ **气功攻击**\n* 多种受《龙珠》启发的气功攻击\n\n⚙️ **完全可自定义**\n* 配置伤害数值\n* 调整冷却时间\n* 自定义气消耗与蓄力消耗\n\n🔌 **插件友好**\n* 专为与 DragonMineZ 自然融合而设计\n* 兼容其他插件\n\n## 配置\n每个攻击均可在配置文件中自定义，让你根据服务器或整合包的平衡需求调整游戏体验。\n\n可配置内容：\n* 伤害数值\n* 冷却时间\n* 气消耗\n* 蓄力时的气损耗\n\n## 兼容性\n* Minecraft **1.20.1**\n* DragonMineZ\n* 兼容其他 DragonMineZ 插件\n\n## 致谢\n特别感谢 **carlosn2300K** 提供原始代码访问权限，这使得本插件的持续开发、改进和扩展成为可能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

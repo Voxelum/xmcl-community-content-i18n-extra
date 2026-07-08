@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a+f6ZCzeQcs=",
+  "content": "僅修復了多人模式中的 NBT 相容性問題，實現方式如同此 [pull request](https://github.com/ZsoltMolnarrr/BetterCombat/pull/324) 所示。  \n修復了 NBT 相容性在多人模式下無法正常運作的問題，這是 Truly Modular 等模組化物品模組所必需的。  \n此 [https://github.com/ZsoltMolnarrr/BetterCombat/issues/141](https://github.com/ZsoltMolnarrr/BetterCombat/issues/141) 問題已由此修正。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2wZ4nzmKpf8=",
+  "content": "<p>在1.13+版本中，Forge引入了可以在世界文件夹中找到的ServerConfigs。</p><p>由于它们位于世界文件夹中，导致在初始生成后无法更新它们。</p><p>&nbsp;</p><p>这个模组允许你在世界加载时有选择地删除ServerConfigs，从而使它们从defaultconfig文件夹中重新生成。</p><p>&nbsp;</p><p>要使用此功能，请在配置中添加一个新版本，并指定你想要更新的serverconfigs的modID。</p><p>新版本在游戏加载和世界加载时会被集成到版本历史中。模组会在世界目录中保存一个版本号，并应用版本历史中的所有相关更改。</p><p>&nbsp;</p><p>&nbsp;</p><p>有问题吗？请在我的Discord上提问<br><a href=\"https://discord.gg/fdvYUCvezx\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/fdvYUCvezx</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

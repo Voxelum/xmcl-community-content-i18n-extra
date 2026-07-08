@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ORdKL825xZg=",
+  "content": "# Create: Train Perspective（Create：火车视角）\n\n[![GitHub](https://img.shields.io/badge/github-der--fruhling%2Fcreate--train--perspective-0a0047)](https://github.com/der-fruhling/create-train-perspective)\n\n_沉浸感再升级！_\n\n<details open>\n  <summary>本项目的未来</summary>\n\n  ~~此模组曾一度被弃置~~\n\n  如今王者归来\n</details>\n\n<details>\n  <summary>针对 Create 0.5.1.g 及以上版本的重要提示！</summary>\n\n  Create 0.5.1.g 新增了一项默认功能，使镜头随火车转向。本模组额外提供了倾斜和侧滚功能（这是 Create 目前尚未加入的），但内置功能与本模组存在冲突。\n\n  如需正常使用本模组，请在 Create 的客户端配置中禁用“乘车时旋转视角”。本模组 v1.1.0+ 版本会自动完成此设置，因此您无需手动操作。\n</details>\n\n## 这是什么？\n\n在 Create 的默认行为中，当火车转向时，玩家镜头方向保持不变，造成玩家自身在跟随转向的错觉。本模组会让玩家镜头随所乘火车转向，提供更沉浸的体验。同时，当火车行驶在斜坡上时，本模组还会让玩家身体产生“倾斜”和“侧滚”效果。\n\n模组在火车上站立时同样生效——不过该功能目前仍处于实验阶段（且极其危险）。如遇任何问题，[请记得报告！](https://github.com/der-fruhling-entertainment/create-train-perspective/issues)\n\n**注意：** 本模组可能引发晕动症。如同真实火车，不过更像素化。\n\n本模组为纯客户端模组。在服务器端毫无作用，强行使用甚至可能崩溃，请勿尝试！！\n\n## Create 6 兼容性\n\n仅 Minecraft 1.21.1 的 v1.1.0+ 版本与 Create 6 兼容。Minecraft 1.20.1 的 v1.1.1 版本**同时**兼容 Create 0.5 和 Create 6。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

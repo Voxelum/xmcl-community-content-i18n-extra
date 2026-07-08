@@ -1,0 +1,6 @@
+{
+  "bodyHash": "APgkLpu/eJE=",
+  "content": "## 描述\n\n這個模組為開發者提供了一個新的生物戰鬥行為庫，包含自定義生物耐力、生物格擋能力、行為中斷、時間事件等功能。同時，該模組為玩家添加了處決能力。當目標被癱瘓時，按下處決鍵即可處決目標。你也可以註冊自己的處決圖示和處決類型。\n\n## 資料包支援\n\n這個模組也加入了資料包生物支援。更多範例可查閱 GitHub 上的資源。\n\n### English Document（英文文件）\nCombatEvolution/datapack_English_Document.json at master · ShelMarow/CombatEvolution\n\n### 中文說明\nCombatEvolution/datapack數據包全參數說明.json at master · ShelMarow/CombatEvolution\n\n### Discord Channel / DC 頻道：\nhttps://discord.gg/EVb5tPqdZ\n\n## 使用 CombatEvolution 製作的 Boss\n\n![Arterius](https://cdn.modrinth.com/data/cached_images/d14172a4f90aa1a6f4f8b4a545ab7ab9a5e8ed63.png)\n\n![ScarletHunter](https://cdn.modrinth.com/data/cached_images/b5037976165563cb47e982978c42915c1f687e0f.png)\n\n## 其他資訊\n\n在未來的更新中，其他功能將持續改進。如果你有任何建議，歡迎隨時留言。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

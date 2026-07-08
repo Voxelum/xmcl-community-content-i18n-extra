@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eLN4PYUFmkI=",
+  "content": "<h1>XRay Vision+</h1><p>XRay Vision+ 是一款用戶端的 Fabric 實用模組，專注於僅可視的感知功能，而非透視作弊。</p><p>它僅在礦物直接位於玩家視野中時才會高亮顯示，並可指向洞穴入口與開放隧道、標記黑暗危險區域，以及警告熔岩、敵對生物和深坑。該模組還包含全亮度切換、遊戲內配置選單以及可拖動的 HUD 版面編輯器。</p><p>本專案設計為僅在用戶端運作且不揭露隱藏方塊，因此適合多人遊戲使用。所有掃描與標記皆基於視線檢測與僅可視的世界狀態。</p><h2>功能特色</h2><ul>\n<li>僅可視的礦物高亮顯示</li>\n<li>洞穴入口與隧道指示標記</li>\n<li>黑暗區域與危險偵測</li>\n<li>熔岩、敵對生物與深坑警報</li>\n<li>按 <code>G</code> 鍵切換全亮度</li>\n<li>按 <code>右 Shift</code> 鍵開啟配置選單</li>\n<li>可拖動的 HUD 位置編輯器</li>\n<li>支援多個 Minecraft 1.21.x 版本的 Fabric 建置</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

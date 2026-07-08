@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wyaxXEvzyjM=",
+  "content": "# 粒子飛蛾\n\n使用粒子在 Minecraft 中添加飛蛾。\n\n## 生成\n飛蛾在技術上不會生成，因為它們實際上是粒子。但為了簡單起見，我將這種「添加粒子」的過程稱為生成。\n\n### 洞穴\n飛蛾會嘗試在玩家周圍一定半徑內生成，半徑大小可在配置中設定。如果飛蛾嘗試生成的地方正在下雨或位於水中，則飛蛾不會生成。\n\n### 方塊\n飛蛾也有機會在特定發光方塊附近生成。與洞穴生成類似，如果飛蛾嘗試在雨中或水中生成，則不會生成。\n\n<details>\n<summary>可生成飛蛾的方塊</summary>\n\n* 普通火把（包含靈魂火把）\n* 燈籠\n* **點亮時生成飛蛾**\n  * 紅石火把\n  * 紅石燈\n  * 蠟燭\n</details>\n\n## 配置\n\n您必須使用 [Mod Menu](https://modrinth.com/mod/modmenu) 來存取配置畫面。  \n以下是所有可用的設定，讓使用者幾乎能完全控制此模組。\n\n<details>\n<summary>所有配置設定</summary>\n\n* 生成飛蛾\n* 發光飛蛾\n* 特定速度 - 若為 true，飛蛾的速度將在每個軸向上單獨計算。\n* (X, Y, Z) 速度 - 飛蛾在每個軸向上的移動速度。\n* 飛蛾數量\n* 生成機率 - 飛蛾生成的機率。\n* (X, Y, Z) 生成距離 - 飛蛾可生成距離玩家的最遠距離。\n* (負向與正向) 高度限制 - 飛蛾可生成的最低與最高高度。\n* 透過方塊生成\n* 方塊生成機率\n* (X, Y, Z) 方塊生成距離 - 飛蛾可生成距離方塊的最遠距離。\n* [可切換飛蛾生成方塊的開關。（上方列表中的方塊。）]\n</details>\n\n<hr>\n<details>\n<summary>動圖</summary>\n\n_配置：100 方塊生成機率_  \n![100_block_probability_example](https://user-images.githubusercontent.com/66281330/185761252-750b02e8-a14f-4de8-a3bb-ddb62463033e.gif)\n\n_配置：發光飛蛾開啟。飛蛾數量和生成機率均為 50。_  \n![cave_example](https://user-images.githubusercontent.com/66281330/185761484-46e25fa1-4239-489a-af7c-6f22f339e92a.gif)\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

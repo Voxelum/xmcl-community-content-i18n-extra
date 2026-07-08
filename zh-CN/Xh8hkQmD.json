@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mnAQhYMANnI=",
+  "content": "适用于1.21.x的BetterBiomeBlend更新版本\n\n对于旧版本，请使用原版[更好的生物群系混合](https://modrinth.com/mod/better-biome-blend)\n\n# 关于\n\nBetter Biome Blend是一款客户端性能优化与漏洞修复模组。它支持平滑、大范围、sRGB正确的生物群系颜色过渡。安装此模组后，你可以在视频选项中将\"生物群系混合\"设置从0x0调整至29x29。与原版相比，该设置不再影响性能。\n\n## 关于1.18+版本\n\nBetter Biome Blend将始终采用29x29的生物群系混合半径（除非使用Sodium，此时强制为14x14）。这是由于生物群系从2D变为3D，导致生物群系颜色计算难度大幅提升。为此需要编写更专门的算法，但模组运行速度仍与1.17版本相当。Better Biome Blend还完全支持洞穴中的草地、水面和树叶颜色过渡，而原版目前尚未支持此功能。\n\n### 兼容性\n\n- Sodium：与1.21.x版本的0.6.x完全兼容\n- Sodium：与1.20.1/x版本的0.5.x兼容\n\n### 使用说明：\n你可以在任何整合包中放心使用此模组，不过如果能注明出处就更好了。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

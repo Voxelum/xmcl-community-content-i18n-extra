@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DG0levBygAo=",
+  "content": "# SkinTotem\n\n基于Minecraft皮肤生成的客户端自定义图腾纹理！\n\n![展示多个自定义图腾的图片](https://cdn.modrinth.com/data/cached_images/2abafe83ad062accd6c1a296b46fbf92a3420c87.png)\n\n## 个人感言\n\n2018年，我推出了[Minecraft Skin to Totem](https://spea.cc/totem)，这是第一个自动化的皮肤图腾生成器，帮助推广了这个创意。\n\n这个模组源自同一项目，也源于同样的执着：我希望皮肤图腾操作简单、即时生效，并能与朋友一起愉快使用。随着时间的推移，出现了许多仿制网站，我检查后发现有些直接复制了我的代码。因此，SkinTotem是我将这一创意直接以客户端模组形式带入游戏的方式。\n\n如果你多年前用过那个网站，这就是将同一概念直接带入Minecraft本身！你或许就是从那里来的……你好！\n\n## 概述\n\nSkinTotem让命名后的不死图腾根据Minecraft Java版玩家皮肤生成自定义纹理。\n\n包含功能：\n- 图腾加载等待时的待处理预览反馈\n- 默认皮肤后备支持\n- 简单的游戏内配置控制\n- 刷新所有图腾或仅刷新物品栏图腾的操作\n\n## 工作原理\n\n使用铁砧将不死图腾重命名为Minecraft用户名。SkinTotem将查找该玩家皮肤，并以匹配的自定义纹理渲染图腾。\n\n如果皮肤仍在加载，模组会显示待处理预览，避免出现破损效果。如果未找到皮肤，则只显示默认纹理。\n\n![图腾命名待处理](https://cdn.modrinth.com/data/cached_images/2812979a0951dcc14e04f4e88d2023581d5b486b.png)\n![已命名的图腾](https://cdn.modrinth.com/data/cached_images/3dde78b7f8f227e59b4e830d2a7dbde111fc9661.png)\n\n## 配置\n\n可用选项：\n- `模组启用`\n- `默认皮肤`\n- `刷新所有图腾`\n- `刷新物品栏图腾`\n\n将`默认皮肤`留空可禁用默认覆盖。\n\n![设置菜单](https://cdn.modrinth.com/data/cached_images/ace16fd4ca1e996e275035754af19311bc2d7898.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7mQ2URJ9xOU=",
+  "content": "# Jade VS\n\n提供 Valkyrien Skies 或 Sable 與 Jade 的兼容性。\n\n它修復了當您請求區塊資料時，Jade 在伺服器端的區塊距離檢查。因此，您可以在 VS 飛船上使用 Jade 查看額外資訊。\n\n它還允許您在多人遊戲中輕鬆檢查區塊質量、區塊速度和角速度。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

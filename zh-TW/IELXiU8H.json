@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YX8OVQYcMMc=",
+  "content": "一个改变部分植物魔法功能运作方式的附属模组，允许自定义配置。\n\n本模组旨在让整合包制作者能轻松调整数值，例如花朵产生或消耗的魔力值，以实现更高程度的自由度。\n\n同时附带（可配置的）Jade和WTHIT插件，可在提示框中显示实用信息。\n\n配置文件结构如下：\nbotania_editor-client.toml 位于 .minecraft 文件夹中，用于Jade/WTHIT插件\n各类特定功能的配置文件位于世界文件夹下的 serverconfigs/botania_editor 中\n\n**_如有错误或建议，欢迎使用GitHub议题提交，或通过更直接的方式联系我 [Discord](https://discord.com/invite/4PaFWJSceX)_**\n\n**（感谢植物魔法创作者提供所有资源，包括作为本模组标志设计参考的原始标志）**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

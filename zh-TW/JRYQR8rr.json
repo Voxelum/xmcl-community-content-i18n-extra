@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rY9h+z9Uc2E=",
+  "content": "這是 Noisium 的 Forge 移植版本。\n* [原始模組](https://modrinth.com/mod/noisium)\n\n# Noisium\n優化世界生成效能，提供更佳的遊戲體驗。\n\n在原生 Minecraft 中生成新區塊時，效能提升約 20-30%（基於 1.20.1 Fabric 版本測試）。\n\nNoisium 修改了其他模組未觸及的世界生成函數，以填補其他效能優化模組的空白。最顯著的是優化了 NoiseChunkGenerator#populateNoise，加速生成新區塊時的方塊狀態放置。另有 3 項較小的優化，分別提升生態域生成速度、區塊解鎖速度，以及生成時取樣方塊狀態的速度。\n在 NoiseChunkGenerator#populateNoise 中，繞過了透過抽象層/內建函數設定方塊狀態的流程，改為直接於調色盤儲存中設定方塊。此舉跳過了 Minecraft 在設定方塊時通常有益的大量計算與流程，但在生成世界時僅會拖慢速度，屬於循環優化。\n\nNoisium 與原生世界生成（未使用 Noisium 的世界生成）具有完整的 1:1 對應性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

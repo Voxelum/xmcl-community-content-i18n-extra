@@ -1,0 +1,6 @@
+{
+  "bodyHash": "10fgvWE8y1o=",
+  "content": "<h1>TaczCurios — Обзор</h1><p><strong>TaczCurios</strong> добавляет в игру <strong>Tacz</strong> пользовательские куриозы (аксессуары). Все бонусные атрибуты, предоставляемые этим модом, основаны на динамических атрибутах игрока из <a href=\"link-to-tacz-attributes-addon\" rel=\"nofollow\"><strong>Модификации атрибутов Tacz</strong></a>.</p><h2>Требования / Зависимости</h2><p>Этот мод требует следующих зависимостей:</p><ul>\n<li>[<strong>Модификация атрибутов Tacz</strong>]</li>\n<li>[<strong>API Curios</strong>]</li>\n<li>[<strong>TaCZ</strong>]</li>\n</ul><h2>Особенности</h2><ul>\n<li>Этот мод предоставляет <strong>6 встроенных слотов для куриозов Tacz</strong>, доступных для использования.</li>\n<li>Вдохновением для этого мода служит, прежде всего, <strong>Warframe</strong>, а некоторые элементы вдохновлены <strong>Honkai Impact 3rd</strong>.</li>\n</ul><h2>Рекомендация по настройке</h2><p>Для получения улучшенного опыта с бонусами по типам урона рекомендуется изменить режим урона в конфигурационном файле <strong>Модификации атрибутов Tacz</strong> либо на <strong><code>ADDITIVE</code></strong>, либо на <strong><code>MULTIPLICATIVE</code></strong>. Это позволяет одновременно поддерживать как общий урон, так и урон от конкретного оружия.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

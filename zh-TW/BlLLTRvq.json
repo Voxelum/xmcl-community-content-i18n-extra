@@ -1,0 +1,6 @@
+{
+  "bodyHash": "IVz++tTfANs=",
+  "content": "## 🧨❌ 禁止爆炸\n**根據需求關閉TNT、TNT礦車、苦力怕、水晶和火球的爆炸效果。**\n\n使用 ```/function nme:settings``` 指令，或在執行 ```/reload``` 後點擊聊天欄中顯示的訊息來設定您的選項。\n\n![您可以關閉的爆炸效果](https://cdn.modrinth.com/data/cached_images/1b6daf0c2f87d1b0ed5fee11bbaebda2bdcd68cb.png)\n\n## 📚 如何安裝資料包\n### 👤 單人遊戲\n將下載的 .zip 檔案拖曳至 ```\"\\.minecraft\\saves\\您的世界名稱\\datapacks\"``` 資料夾。\n現在進入您的世界。您可以使用 /datapack list 指令檢查資料包是否已啟用。\n### 👥 多人遊戲（伺服器）\n將下載的 .zip 檔案拖曳至資料包資料夾，該資料夾位於預設的 \"world\" 資料夾內。\n現在加入您的伺服器。您可以使用 /datapack list 指令檢查資料包是否已啟用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

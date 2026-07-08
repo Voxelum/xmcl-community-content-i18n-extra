@@ -1,0 +1,6 @@
+{
+  "bodyHash": "87XyG/RO1U4=",
+  "content": "使 [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) 兼容 [Whimscape](https://modrinth.com/resourcepack/whimscape)！这是一个补丁包，而非替换包；**你仍需安装 Fresh Animations**。\n\n## 加载顺序\nWhimscape x Fresh Animations 应置于 Fresh Animations 之上，而 Fresh Animations 应置于 Whimscape 之上。\n\n![资源包加载顺序：Fresh Animations 在 Whimscape 上方，本补丁包在最上方。](https://cdn.modrinth.com/data/NbmssBLT/images/6f7b6008311bd3cc380e757c8ddb887fa095ce0e.png)\n\n经测试，以下 Fresh Animations 扩展包目前无重大兼容问题：\n\n- Fresh Animations: Objects（**加载顺序需置于 Whimscape 下方**）\n- Fresh Animations: Player Extension（**加载顺序需置于 Whimscape 下方**）\n- Fresh Animations: Quivers（泥沼骸骨缺少箭袋显示）\n\n\n## 遇到问题？\n请前往 [Whimscape 的 GitHub 问题追踪器](https://github.com/kavast/Whimscape-Issues/issues) 提交错误报告。在其他平台上报的问题我可能遗漏或延迟处理。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

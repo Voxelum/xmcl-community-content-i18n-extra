@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yEFkH8C/a0U=",
+  "content": "<h3>Физика погоды</h3><p>Этот мод добавляет совместимость между Weather2 (Погода, Штормы и Торнадо) и физикой уровня Sable.</p><h3>В настоящее время добавленные функции:</h3><ul>\n<li>Торнадо могут притягивать уровни и заставлять их вращаться в водовороте</li>\n<li>Физика зависит от стадии интенсивности торнадо</li>\n<li>Торнадо могут разрушать блоки на обшивке или разбивать корабли на физические объекты</li>\n<li><strong>Физика ветра для всех уровней</strong></li>\n<li><strong>Физика парусов для создания мельничных парусов</strong></li>\n<li>Физика и логика разрушения полностью настраиваемы</li>\n</ul><h3>Требования</h3><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes\" target=\"_blank\" rel=\"nofollow\">Weather, Storms &amp; Tornadoes</a></p><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/coroutil\" target=\"_blank\" rel=\"nofollow\">CoroUtil (зависимость от Weather2)</a></p><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/sable\" target=\"_blank\" rel=\"nofollow\">Sable</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

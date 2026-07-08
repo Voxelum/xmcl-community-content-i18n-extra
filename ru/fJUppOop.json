@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ny1MQiqJ/J8=",
+  "content": "<p>Это форк Overloaded Armor Bar для 1.7.10</p>\n<p>&nbsp;</p>\n<p>Ванильная шкала брони не точно отображает броню уровня «лучше алмазной», поскольку она просто достигает максимума, когда шкала заполнена.</p>\n<p>Этот мод позволяет отображать значения брони выше 20 в виде разноцветных (настраиваемых) значков в зависимости от того, сколько раз вы заполняете шкалу.</p>\n<pОднако без AttributeFix отображение брони будет ограничиваться 30 единицами брони или 1,5x алмазной броней из-за ванильного лимита на броню.</p>\n\n![amor](https://cdn.modrinth.com/data/cached_images/93d0a702ef6b1e47038eacac314b3e041c3ac361.webp)\n\n<p>Официальные ссылки на Overloaded Armor Bar 1.12.2+ &nbsp;<a title=\"Curseforge\" href=\"https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar\">Curseforge</a> —&nbsp;<a title=\"Github\" href=\"https://github.com/Tfarcenim/OverloadedArmorBar\">Github</a></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

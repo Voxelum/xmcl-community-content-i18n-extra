@@ -1,0 +1,6 @@
+{
+  "bodyHash": "48fW0z4omTI=",
+  "content": "<h1>JEI 交易</h1><p>JEI 交易是為 Just Enough Items (JEI) 和 Roughly Enough Items (REI) 設計的附加模組，可在其中加入交易資訊（例如村民交易）。</p><h2>依賴項目</h2><p>在你的客戶端上，你需要另外安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/jei\" target=\"_blank\" rel=\"nofollow\">Just Enough Items (JEI)</a> 或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items\" target=\"_blank\" rel=\"nofollow\">Roughly Enough Items (REI)</a></p><p>如果你使用 JEI 交易的 Fabric 版本，你還需要安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" target=\"_blank\" rel=\"nofollow\">FabricAPI</a></p><h2>運作方式</h2><p>JEI 交易讓你能在 JEI/REI 中檢視交易資訊，包括其他模組的交易內容。\n它直接從伺服器讀取資訊，因此會根據存檔中實際使用的設定來顯示。\n這讓顯示的資訊非常完整，且 JEI 交易能夠顯示所有使用標準 Minecraft 交易系統的模組資訊，無需為每個模組提供特定支援。</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_25359fd9-00f1-4610-bc5c-d27b01952410.png\" alt=\"遊戲中的村民交易畫面\"></p><h2>模組相容性需求</h2><p>要與 JEI 交易相容，模組必須：</p><ul>\n<li>使用標準的 Minecraft 交易系統來註冊和處理其交易。</li>\n</ul><p>如果滿足此需求，JEI 交易就能顯示該模組的交易資訊，無需任何特定支援。</p><h2>多人遊戲與伺服器</h2><p>由於 JEI 交易直接從遊戲資料讀取資訊，而這些資料僅在伺服器端可用，因此建議也在伺服器上安裝 JEI 交易。</p><p>如果你無法在伺服器上安裝 JEI 交易，則無法從伺服器接收資訊，客戶端將無法顯示任何交易相關資訊。不過，你可以在加入伺服器之前先進入一個單人遊戲存檔；在這種情況下，JEI 交易會保留來自單人遊戲存檔的快取資訊，並在你在伺服器上時顯示該資訊。</p><p>由於 JEI 交易完全可選，即使你沒有安裝該模組，也可以加入有安裝 JEI 交易的伺服器。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

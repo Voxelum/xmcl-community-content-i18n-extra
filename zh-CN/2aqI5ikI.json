@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Kvu97LQJze0=",
+  "content": "ArmsLib 是一个库模组，它为 mumu17 的模组提供了共享的通用代码。如果没有其他模组激活或使用它，本模组本身不提供任何实际功能。\n\n该模组主要设计用于与 TaCZ 集成。\n\n**主要功能**\n*   调整 TaCZ 子弹的伤害值\n*   在子弹发射时执行可选模组的自定义集成代码\n*   扩展背包中子弹的引用功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

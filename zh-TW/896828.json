@@ -1,0 +1,6 @@
+{
+  "bodyHash": "A1eoM4S7XIM=",
+  "content": "<h1>虛構等價交換</h1><p>這是對 ProjectE/Equivalent Exchange 2 的 Fabric 重製版。此模組為每個物品賦予「EMC」數值，有些物品價值較高，有些較低。你可以將物品和方塊轉化為 EMC，再用 EMC 轉換成你之前獲得過的不同物品。</p>\n\n<h1>已實現功能</h1>\n<ul>\n<li>賢者之石</li>\n<li>轉化桌與轉化平板</li>\n<li>能量收集器 Mk1-Mk3</li>\n<li>反物質繼電器 Mk1-Mk3</li>\n<li>煉金儲物箱</li>\n<li>能量凝結器 Mk1、Mk2</li>\n<li>知識寶典</li>\n<li>煉金燃料 + 方塊</li>\n<li>暗物質/紅物質 + 方塊</li>\n<li>（部分）暗物質工具</li>\n<li>共價粉塵</li>\n<li>可配置的 EMC 映射器</li>\n</ul>\n\n<h1>全新功能</h1>\n<ul>\n<li>EMC 存儲量取決於你的 RAM 容量</li>\n<li>無限精確的 EMC 分數（不再有半磚卻沒有 EMC 值的情況！）</li>\n<li>轉化桌中支援具 NBT 資料的物品（可配置）</li>\n<li>華麗的動畫轉化桌（可切換開關）</li>\n</ul>\n\n<h1>更多資訊</h1>\n<p>如需更多資訊，請參閱 GitHub 的說明文件。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

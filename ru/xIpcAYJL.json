@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PF3hyM/6wFk=",
+  "content": "# Улучшенный выбор\n\nЭтот мод для Minecraft на основе Fabric делает выделение текста более удобным, улучшив функцию «перемещение по словам» (<kbd>Ctrl</kbd>+<kbd>←</kbd> и <kbd>Ctrl</kbd>+<kbd>→</kbd>).\n\n## Вопросы и ответы\n\n### Поддерживает ли он скрипты, не читающиеся слева направо?\n\nДа, поддерживает.\n\n### Поддерживается ли macOS?\n\nДа, macOS должна быть поддержана должным образом:\n- <kbd>⌘ Command</kbd>+<kbd>←</kbd> перемещает курсор в начало строки,\n- <kbd>⌘ Command</kbd>+<kbd>→</kbd> перемещает курсор в конец строки,\n- <kbd>⌘ Command</kbd>+<kbd>⌫ Backspace</kbd> удаляет всё, что находится слева от курсора,\n- <kbd>⌘ Command</kbd>+<kbd>⌦ Delete</kbd> удаляет всё, что находится справа от курсора,\n- Сокращения, использующие <kbd>Ctrl</kbd> в Windows, на macOS используют <kbd>⌥ Option</kbd>.\n\n### Решает ли этот мод [MC-121278](https://bugs.mojang.com/browse/MC-121278)?\n\nНет, не решает. Но я создал другой мод, который это делает: [Universal Shortcuts](https://modrinth.com/mod/universal-shortcuts).\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

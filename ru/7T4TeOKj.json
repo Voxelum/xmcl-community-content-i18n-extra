@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sUix9CrNO+4=",
+  "content": "Ударьте одним ударом любое существо в творческом режиме, если только вы не держите оружие.\n\n\n![Логотип](https://raw.githubusercontent.com/Fourmisain/CreativeOnePunch/1.17/BHuehD2.png)\nКлассный логотип от [@oliwoli](https://github.com/oliwoli), большое спасибо!\n\n* работает с *любой* версией Minecraft, поддерживаемой Fabric, начиная с 1.14 и до как минимум ~~1.18~~ ~~1.19~~ ~~1.20~~ ~~1.21~~ 26.1\n* требует Fabric Loader 0.12+\n* работает только на сервере\n\nНачиная с версии 1.8 появился файл конфигурации `creativeonepunch.json`, в котором можно указать:  \n  `damage`: урон, по умолчанию — 9999  \n  `forceKill`: обходит любые проверки невосприимчивости, по умолчанию — `false`  \n  `requireSneak`: работает ли «Одним ударом» только при скрытном движении, по умолчанию — `false`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

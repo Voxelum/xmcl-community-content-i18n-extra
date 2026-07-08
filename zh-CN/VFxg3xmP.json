@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ul9MZJPspik=",
+  "content": "自定义机械Mekanism是[自定义机械](https://modrinth.com/mod/custom-machinery)模组的扩展，为[Mekanism](https://modrinth.com/mod/mekanism)模组添加了集成功能。\n\n该扩展可用于创建能容纳、消耗或生产各种Mekanism元素的定制机器，例如气体或灌注物。\n\n请注意，使用本扩展需要预先安装自定义机械和Mekanism模组。\n\n\n### 当前支持的Mekanism功能：\n- 气体\n- 灌注类型\n- 颜料\n- 浆液\n- 热量/温度\n- 辐射\n\n\n### 计划支持：\n- 激光\n- 物品转灌注槽位\n\n\n本扩展还全面支持通过KubeJS和Crafttweaker创建机器配方。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

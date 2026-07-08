@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ByWPxpX3lqI=",
+  "content": "<p>此页面为Forge版本。若您正在寻找Fabric版本，可点击<a href=\"https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric\" rel=\"nofollow\">此处</a>查看。</p><p>本模组通过多种方式减少Minecraft的内存占用。详细的技术说明可在<a href=\"https://github.com/malte0811/FerriteCore/blob/main/summary.md\" rel=\"nofollow\">此处</a>查阅。</p><p>具体节省的内存量取决于整合包。以1.16.4版本的Direwolf20整合包为例，在1.2.0版本中，该模组可将标题界面的内存占用（垃圾回收后）从约3.1 GB降至1.1-1.2 GB。</p><p>项目图片为<a href=\"/linkout?remoteUrl=https%253a%252f%252fcommons.wikimedia.org%252fwiki%252fFile%253aMagnetic-core_memory%252c_at_angle.jpg\" rel=\"nofollow\">此图</a>的裁剪版本。</p><h3>常见问题</h3><h4>能否将此模组移植到1.16之前的Minecraft版本？</h4><p>不可以，我不会进行移植。我认为这不值得投入精力，并希望鼓励大家使用更新的版本。</p><h4>我应该在服务器还是客户端安装此模组？</h4><p>部分优化仅针对客户端，但也有一些高影响力的优化同样适用于服务器。因此建议两端都安装。</p><h4>这是Forge页面，为什么会有Fabric版本？</h4><p>这些Fabric版本是在我创建Fabric专用页面之前发布的，请忽略它们（除非您正在寻找FerriteCore在Fabric上的旧版本）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

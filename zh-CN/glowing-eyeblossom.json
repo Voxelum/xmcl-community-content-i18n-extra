@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oH3RiFQ/IrU=",
+  "content": "## 发光眼之花\n\n在服务器和客户端同时安装时效果更佳\n\n![screenshot.png](https://raw.githubusercontent.com/NikitaCartes/Glowing-Eyeblossom/refs/heads/fabric-1.21.4/screenshot.png)\n\n也可以看看我的[发光火炬花](https://modrinth.com/mod/glowing-torchflower)模组！\n\n[Discord](https://discord.gg/UY4nhvUzaK)\n\n### 光照等级\n- 开放的眼之花：4\n- 花盆中的开放眼之花：13\n- 闭合的眼之花：1\n- 花盆中的闭合眼之花：3\n\n### 配置\n你可以在配置文件中更改眼之花的光照等级。  \n配置文件位于 `<游戏目录>/config/GlowingEyeblossom/main.conf`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

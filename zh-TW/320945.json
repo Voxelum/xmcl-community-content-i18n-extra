@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2LhSHKCN21A=",
+  "content": "<pre>樹木砍伐模組是所有伐木工最好的朋友！一鍵砍樹，多木掉落。<br>潛行時砍樹會停用樹木砍伐模組，這在不想破壞你的基地時非常有用！<br><strong><br></strong></pre><p>狀態：</p><p><strong>Forge 1.18.2：支援</strong></p><p>&nbsp;</p><pre><br><br>使用方法：<br>按下（預設為）鍵盤上的 V 鍵來啟用，需在手持斧頭（或對木材有效的模組工具）時進行。<br>然後開始砍樹吧！（使用 Forge 時，你砍的方塊下方必須有泥土、草地或灰壤，樹木砍伐才能運作。）<br>再次按下（預設為）鍵盤上的 V 鍵即可停用。<br><br></pre><p>也提供了設定檔，</p><p>&nbsp;</p><p>.minecraft/config/timber/timber.json</p><p>&nbsp;</p><p>你可以在其中選擇是否在創造模式下掉落物品，此功能預設為停用。</p><p>你也可以選擇讓你的斧頭因砍伐每一根原木而消耗耐久度。</p><p>&nbsp;</p><p>&nbsp;</p><p>此模組為開源軟體，可用於任何模組包中。</p><p>&nbsp;</p><pre><br><br></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

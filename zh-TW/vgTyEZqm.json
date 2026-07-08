@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5ipRxkcdoY=",
+  "content": "## Kilt ForgeConfigAPIPort 修復\n\n## <font color=\"red\">**此模組已合併至 Kilt 儲存庫，因此不會再更新。**</font>\n\n此模組旨在修復 [Kilt](https://modrinth.com/mod/kilt) 與 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) 之間的一個問題。\n\n### 問題是什麼？\n當 Kilt 與 ForgeConfigAPIPort 一起安裝時，設定檔載入時間過晚，導致某些模組在早期模組載入階段無法讀取到正確的設定值。因此，如果在啟動遊戲後修改的設定值無法正確套用，這個模組或許能解決你的問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

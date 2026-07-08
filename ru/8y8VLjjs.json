@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pLWQtgqsYNk=",
+  "content": "Это плагин-мод для KubeJS, который позволяет вам выполнять ограниченные операции с файлами с помощью KubeJS.\n\nЧтение и запись файлов возможны только в пределах папки инстанса Minecraft, и доступ к содержимому внешних файлов невозможен.\n\nНапишите несколько строк:\n```js\nFilesJS.writeLines(\"kubejs/server_scripts/src/test.js\", [\"test1,test2,test3\"])\n```\nУдалите файл:\n```js\nFilesJS.delete(\"kubejs/server_scripts/src/test.js\")\n```\nИзмените триггер события:\n```js\nItemEvents.rightClicked('nether_star', event => {\n    FilesJS.backupFile(\"kubejs/README.txt\");\n});\n\nFiles.fileBackupCreated(event => {\n    event.server.tell(\"Путь к резервной копии файла:\", event.getPath());\n});\n```\n\n## Вы даже не можете получить доступ к папке модов!\n\n### По сравнению с прямым доступом к содержимому файлов, этот мод учитывает различные аспекты безопасности и ограничивает доступ к специальным расширениям",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ucr2bAGgh9A=",
+  "content": "# 更好的生物战斗修复\n\n修复“更好的生物战斗”模组与“更好的战斗”模组 1.9.0 版本的兼容性问题\n\n## 问题说明\n\n“更好的战斗”模组 1.9.0 版本（1.20.1 最新版）进行了破坏性变更：\n1. 移除了 `CompatibilityFlags.firstPersonRender()` 方法\n2. 将 `PehkuiHelper` 从 `net.bettercombat.compatibility` 迁移至 `net.bettercombat.client.compat`\n\n“更好的生物战斗”模组已停止更新，仍使用旧方法和路径，导致生物攻击动画异常及 Pehkui 兼容性问题。\n\n## 工作原理\n\n本模组通过两个混入修复上述问题：\n\n**混入1：** 拦截 `CompatibilityFlags.firstPersonRender()` 调用并返回 `false`\n\n**混入2：** 重写 `BMCPehkuiHelper.load()` 方法，使其指向新的 PehkuiHelper 路径\n\n**技术细节：**\n- `@Redirect` 注解作用于 `Mob.playAttackAnimation()` → 对已移除的方法返回 `false`\n- `@Overwrite` 注解作用于 `BMCPehkuiHelper.load()` → 改用 `net.bettercombat.client.compat.PehkuiHelper`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

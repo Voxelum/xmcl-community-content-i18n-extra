@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VERJe35nUfw=",
+  "content": "[<img alt=\"curseforge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg\">](https://www.curseforge.com/minecraft/mc-mods/factory-api) <!-- SVG 版本 -->\n[<img alt=\"modrinth\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg\">](https://modrinth.com/mod/factory-api) <!-- SVG 版本 -->\n[<img alt=\"fabric\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg\">](https://fabricmc.net/) <!-- SVG 版本 -->\n[<img alt=\"forge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\">](https://files.minecraftforge.net) <!-- SVG 版本 -->\n[<img alt=\"quilt\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg\">](https://quiltmc.org/)\n\n# 🥽 关于\n**一个为开发者和资源包制作者提供多种客户端和服务器端功能的 API，其中包括：**\n- UI 定义，用于添加或修改屏幕和 GUI 的无数元素，可以通过资源包（主要功能）或代码实现\n- 基本事件，其中大多数直接从模组加载器中抽象出来\n- 通用网络，以统一的方式发送和注册有效载荷，几乎不需要在支持的版本之间进行更改\n- 在模组加载器之间实现物品、流体和能量存储的多种通用实现，并为各自的 API 提供正确的暴露\n- 一种通过访问 Level 来设置方块光照等级的方式（仅在 Fabric 中实现，Forge 和 NeoForge 已经具备此功能）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

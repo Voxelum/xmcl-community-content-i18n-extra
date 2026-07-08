@@ -1,0 +1,13 @@
+{
+  "bodyHash": "Zj/SN7gYsV8=",
+  "content": {
+    "error": {
+      "message": "Insufficient Balance",
+      "type": "unknown_error",
+      "param": null,
+      "code": "invalid_request_error"
+    }
+  },
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

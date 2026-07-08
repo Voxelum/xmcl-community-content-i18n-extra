@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zySMHk4yR+Y=",
+  "content": "![bg](https://cdn.modrinth.com/data/xDk3a5b0/images/bbaf68b1fcd80b4c9f41887fbee93ad6f1fc78ee.gif)\n\n每当你进入另一个生物群系时，该生物群系的名称会显示在屏幕顶部。\n\n不同维度也是如此。\n\n此外，你可以通过内置的**设置**界面编辑文本，默认情况下**按H键**即可打开该界面。\n\n**打开此界面后，你可以：**\n\n- 点击“生物群系”或“维度”按钮，在生物群系和维度设置之间切换\n\n- 随时禁用这些文本\n\n- 设置文本之间的冷却时间\n\n- 基准位置\n\n- 文本对齐方式\n\n- 最大不透明度（正常文本的不透明度，淡入效果会达到此值，淡出效果从此值开始）\n\n- 启用文本阴影\n\n- 将生物群系加入黑名单（例如只需输入river）\n\n- 字体大小\n\n你还可以编辑淡入、正常显示和淡出文本：\n\n- 持续时间（以刻为单位，20刻等于1秒）\n\n- 红色、绿色、蓝色颜色（颜色从淡入过渡到正常，再从正常过渡到淡出）\n\n- X轴、Y轴移动方向（方向从淡入过渡到正常，再从正常过渡到淡出）\n\n**模组当前支持：**\n\n**Forge 26.x | 1.21.x | 1.20.1**\n\n**Fabric 26.x | 1.21.x | 1.20.1**\n\n**Neoforge 26.x | 1.21.x**\n\n**如果你需要其他版本的模组，或在CurseForge上遇到任何Bug，请给我发送私信。**\n\n[https://legacy.curseforge.com/members/aquarius_playz/projects](https://legacy.curseforge.com/members/aquarius_playz/projects)\n\n在X（推特）上关注我：\n\n[https://x.com/Aquarius_playz](https://x.com/Aquarius_playz)\n\n![aquariuslibs](https://cdn.modrinth.com/data/KkHnyaL6/7d506caf48d26f964f4f789553ce757cfe868742_96.webp)\n\n**[此模组需要安装AquariusLibs](https://modrinth.com/mod/aquarius-libs)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

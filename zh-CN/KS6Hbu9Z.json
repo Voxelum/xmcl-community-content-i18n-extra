@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kveEo/gtBlM=",
+  "content": "一款由RedDev（也就是我）在Minecraft中实现的光线追踪音频模组。这与Sound Physics模组不同，因为光线追踪是从玩家而非声源处发射（理论上更优化）。混响效果利用OpenAL尽可能精确实现。该模组基于Vercidium在视频《光线追踪音频初探》中讨论的框架开发。同时兼容SVC和Sinytra，耶！\n\n长话短说：酷炫的光线追踪音频，呜呼~。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ICHHoZH82fw\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<details>\n<summary>解释视频</summary>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/xYEn5TlQ6Yw\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n</details>\n\n完整开发日志： [播放列表](https://www.youtube.com/playlist?list=PLFZJv03VT4l4e0WHEBjRRmWVq-Hg6RR1w)\n\n**请注意，我们设有问题追踪器来处理漏洞修复或功能请求。如果您想闲聊或遇到非漏洞的模组问题，才建议加入Discord。**\n\n<details>\n<summary>配置选项</summary>\n  配置文件现在内容庞大，因此不再在此列出。请使用ModMenu等游戏内替代方案，因为我们已提供支持：）\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

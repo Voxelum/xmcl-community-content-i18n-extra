@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5S75FB/IJo=",
+  "content": "### Требования\n\n* [Fabric Loader](https://fabricmc.net/use/installer/) (Fabric API не требуется)\n\n### Поведение\n\n* Создаёт файл конфигурации `config/remember-lan-port.properties` со значением порта сервера Minecraft по умолчанию **25565**, если такой файл ещё не существует\n\n* Автоматически заполняет порт из файла конфигурации в меню *Открыть для LAN*; заполненный автоматически номер порта выделен зелёным цветом\n\n* Если порт был изменён, сохраняет его в файл конфигурации после успешного открытия для LAN\n\n* Работает во всех мирах, а не для каждого мира отдельно\n\n* Вот и всё\n\n### См. также\n\nДля модов с более полными настройками LAN, поддерживающих старые версии игры, попробуйте:\n\n* [Custom LAN](https://modrinth.com/mod/custom-lan)\n\n* [LAN World Plug-n-Play (mcwifipnp)](https://modrinth.com/mod/mcwifipnp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1VG/rLdLCeI=",
+  "content": "自束帶正式發布以來，從物品欄中只能存取束帶內**12 件物品**，而無需先取出其他物品。\n本模組**移除了**這個 12 件物品的限制，讓您能夠**檢視並取出**束帶內的**所有**物品。\n\n此 Modrinth 頁面是本模組唯一的官方來源！\n\n# 使用本模組：\n![內有 64 件彩色物品的束帶](https://cdn.modrinth.com/data/VhUy58Cq/images/82bda32b8da01e5c3b002e62980e25976eda2720.png)\n\n# 原版：\n![圖片顯示束帶內僅有 8 件物品，並有 +37 提示束帶內還有 37 件物品](https://cdn.modrinth.com/data/VhUy58Cq/images/f427ea5050879917397b0531abbeb7b85f1d7e28.png)\n\n<u>**您可以使用移動鍵或方向鍵在束帶的 GUI 中導航。**</u><br>\n\n將滑鼠游標懸停在束帶上時，按下空白鍵即可放入或取出物品！\n\n# 設定介面\n在 Fabric 版中可從 [Mod Menu](https://modrinth.com/mod/modmenu) 開啟設定介面，在 NeoForge 版中可從模組選單開啟，或使用指令 `/bundlesbeyond`<br>\n圖片即將推出™<br>\n\n# 按鍵綁定\n您可以在「選項 > 控制」中找到 2 個按鍵綁定：<br>\n\n### 模組啟用按鍵綁定<br>\n如果模組設定為「**開啟**」或「**關閉**」，按下此按鍵綁定會切換狀態。<br>\n如果模組設定為「**按住按鍵**」，按住此按鍵綁定會啟用模組。<br>\n\n### 滾動軸按鍵綁定<br>\n如果滾動模式為「**水平**」或「**垂直**」，按下此按鍵綁定會切換模式。<br>\n如果滾動模式為「**按住以水平滾動**」，按住此按鍵綁定會讓滾動變為水平，放開按鍵則變為垂直。<br>\n「**按住以垂直滾動**」同理，但效果相反。\n\n# 其他事項\n此模組**僅限用戶端**。<br>\n在 Fabric 版本中，此模組**需要** [Fabric API](https://modrinth.com/mod/fabric-api)。<br>\n\n[Bundles Beyond](https://modrinth.com/mod/bundles-beyond) 採用 [<u>CC-BY-NC-SA 4.0 授權</u>](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

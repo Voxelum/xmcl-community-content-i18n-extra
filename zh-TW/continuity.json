@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y5dVrZrUubg=",
+  "content": "# Continuity\n\nContinuity 是一款 Minecraft 模組，讓使用 OptiFine 連接紋理格式、OptiFine 自發光紋理格式（僅適用於方塊與物品模型）或 OptiFine 自訂方塊圖層格式的材質包，無需安裝 OptiFine 即可正常運作。\n\nContinuity 僅作用於用戶端，並內建兩個材質包。「預設連接紋理」材質包為玻璃、砂岩與書櫃提供連接紋理，類似於 OptiFine 內建的連接紋理功能。「玻璃片剔除修正」材質包則會將垂直堆疊的玻璃片之間的面進行剔除，使其搭配連接紋理後看起來無縫。\n\n正式來說，Continuity 實現了 Continuity 連接紋理規格、Continuity 自發光紋理規格，以及 Continuity 自訂方塊圖層規格。這些規格皆為對應 OptiFine 規格的擴展，旨在為材質包作者提供更多功能。Continuity 規格的文檔可在 [Continuity 維基](https://github.com/PepperCode1/Continuity/wiki)中找到。\n\nContinuity 以 Fabric 模組的形式開發，並建議搭配 Fabric 使用。不過，[Connector](https://github.com/Sinytra/Connector) 與 [Forgified Fabric API](https://github.com/Sinytra/ForgifiedFabricAPI) 可讓 Continuity 在 NeoForge 與 Forge 等其他模組載入器上順利運行。CurseForge 與 Modrinth 上發布的版本會標註為相容於這些模組載入器；這些版本包含與 Fabric 版本相同的程式碼，但額外加入了宣告 Connector 與 Forgified Fabric API 為依賴項的中繼資料。目前並未計劃推出不需要 Forgified Fabric API 的官方 NeoForge 版本，這是由於 Fabric 與 NeoForge API 之間存在重大的技術差異。\n\n### 連結\n\n[CurseForge 頁面](https://www.curseforge.com/minecraft/mc-mods/continuity)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

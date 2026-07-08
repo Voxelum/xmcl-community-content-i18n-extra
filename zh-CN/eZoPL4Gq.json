@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dboPVeBLwpc=",
+  "content": "## **Item Glow** 为 Minecraft 中的物品添加了真正的自发光渲染效果。\n\n[![Discord](https://img.shields.io/badge/Discord-JOIN-3f0f0f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6NJZSxXFPV) [![Ko-fi](https://img.shields.io/badge/Ko--fi-SUPPORT-3f0f0f?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/bobotweaks) [![Fiverr](https://img.shields.io/badge/Fiverr-HIRE%20ME-3f0f0f?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/1qZlPl6)\n\n任何使用 _emissive 发光纹理变体的物品，都将以完全亮度渲染——在你的手中、物品栏中以及任何物品显示的位置都会闪闪发光。无需着色器，无需 OptiFine。\n\n这是一个轻量级的客户端模组，旨在成为原版游戏中缺失的一项功能。\n\n## 特性\n- 发光物品以完全亮度渲染\n- 在手部、GUI 及所有物品渲染场景中生效\n- 通过 _emissive 发光纹理自动识别\n- 兼容模组物品与资源包\n- 无需着色器或 OptiFine\n- 性能影响极小\n\n## 工作原理\n\n只需在你的物品模型中添加一个 _emissive 发光纹理变体。\nItem Glow 会自动处理其余部分。\n无需配置文件，无需特殊 API。开箱即用。\n\n示例：https://bobotweaks.gitbook.io/item-glow/\n\n## 兼容性\n- 仅限客户端\n- 与大多数渲染类及内容模组兼容\n- 可在服务器上安全使用（仅视觉效果）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

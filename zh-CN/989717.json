@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vTS05K7RYZk=",
+  "content": "<img src=\"https://media.forgecdn.net/attachments/828/769/2024-03-20_07.png\" alt=\"\"><h4><strong>功能：</strong></h4><ul>\n<li>这个模组的目的非常直接：添加一个鹦鹉螺生物来补充物品。</li>\n<li>它们会在由标签指定的任何生物群系中罕见地生成：<code>data/nautilus/tags/worldgen/biome/spawns_nautilus.json</code></li>\n<li>默认情况下，这将是海洋、温水海洋、深海和深温水海洋生物群系。</li>\n<li>它们会掉落一个鹦鹉螺壳。</li>\n<li>游泳动作基于鱼的游泳动作，但稍微快一些以逃离玩家。</li>\n<li>在水中之外，它们会侧身倒下。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

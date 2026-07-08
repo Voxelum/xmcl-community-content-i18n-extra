@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FQiqxHhwOhE=",
+  "content": "<p>功能特色</p><ul>\n<li>每台伺服器有一位被選中的玩家，可使用 <code>/protagonistsystem claim</code> 或 <code>/protagonistsystem admin choose &lt;玩家&gt;</code> 設定。</li>\n<li>自訂系統經驗值、等級、技能點數與金幣。</li>\n<li>每日任務，於每個 Minecraft 天重置。</li>\n<li>以進度解鎖的技能，附帶可疊加的小型屬性增益。</li>\n<li>可將點數分配至玩家屬性，包含相容模組新增的屬性。</li>\n<li>按鍵綁定選單，包含技能、屬性、任務與商店分頁。</li>\n<li>循環輪換的金幣商店，提供以等級解鎖的獨特原版裝備及材料/貴重物品。</li>\n<li>建造分頁，包含初始職業選擇、全域被動技能解鎖與兩格主動能力配置。</li>\n<li>隱藏職業，在完成解鎖目標前保持隱藏：死靈法師、騎士、先知與虛空束縛者。</li>\n<li>主動能力按鍵綁定，分別對應欄位 1 與欄位 2。</li>\n<li>僅限被選中玩家顯示的動作條介面，顯示任務進度與經驗值里程碑。</li>\n<li>可選的獨特系統整合功能：在認領/管理員選擇成功前，於獨特系統層級獨佔主角資格；使非擁有者的指令與過時的用戶端選單保持靜默；並在本地職業解鎖套用前，將隱藏職業認領為單一擁有者的獨特解鎖。</li>\n</ul><p>隱藏職業解鎖條件：</p><ul>\n<li>死靈法師：主角等級達 12 級，並擊殺 50 隻敵對生物。</li>\n<li>騎士：主角等級達 10 級，並完成「耐力」每日任務 3 次。</li>\n<li>先知：主角等級達 10 級，並記錄 12 項進度。</li>\n<li>虛空束縛者：主角等級達 15 級，並獲得 <code>minecraft:end/root</code> 或任一 <code>minecraft:end/</code> 進度。</li>\n</ul><p>若安裝了獨特系統，隱藏職業將使用解鎖代碼，例如 <code>isekied:class_necromancer</code>、<code>isekied:class_knight</code>、<code>isekied:class_oracle</code> 與 <code>isekied:class_voidbound</code>。若其他玩家已擁有該職業解鎖，則該職業在本地端仍會保持隱藏/鎖定狀態。</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

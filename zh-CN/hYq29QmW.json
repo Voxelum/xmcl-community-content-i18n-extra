@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NILykFEzKI0=",
+  "content": "# Rock'n Roller\n\n**Rock'n Roller 需要 [MaFgLib](https://modrinth.com/mod/mafglib)。**\n\n<img alt=\"forge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\">\n\n<a href=\"https://modrinth.com/mod/rocknroller\">\n<img alt=\"modrinth\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg\">\n</a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/rockn-roller\">\n<img alt=\"curseforge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg\">\n</a>\n\nItem Scroller 的 Forge 非官方移植版。\n\nRock'n Roller 是一个 Minecraft 模组，为物品栏 GUI 内的物品移动操作添加了多种便捷功能。例如，在带有物品的槽位上滚动鼠标滚轮，或者 Shift/Ctrl + 点击并拖动鼠标跨槽位移动物品等。\n\n物品滚动功能本质上与老版 NEI 模组和 Mouse Tweaks 模组相同。本模组与 Mouse Tweaks 相比，具有一些不同的拖拽特性，还包含特殊的村民交易辅助功能以及合成辅助功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

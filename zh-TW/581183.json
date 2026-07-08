@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jHruBeiPQ2k=",
+  "content": "<p><strong>需要 Forge</strong></p><p><strong>客戶端模組</strong>&nbsp;</p><p>&nbsp;</p><p><strong>1.03 版本新增功能：</strong></p><p>&nbsp;</p><pre>新增設定選項 <strong>'覆寫清單</strong>'：<br>允許您為特定畫面自訂縮放比例。<br><br>例如，讓箱子畫面更大：<br>net.minecraft.client.gui.screens.inventory.ContainerScreen=500<br>以上設定會將箱子畫面設為使用 500% 縮放<br>為協助設定上述功能，模組新增了 DEBUG 層級日誌，每當您開啟新畫面時會顯示畫面名稱：<br>[Optiscale] 偵測到新畫面=net.minecraft.client.gui.screens.inventory.InventoryScreen<br>使用此資訊設定自訂縮放比例，或設為 0 以將此畫面加入 Optiscale 縮放黑名單<br>您也可以使用套件名稱而非畫面名稱，例如 net.minecraft.client.gui.screens.inventory.*=200 可重新縮放該特定套件中的所有畫面<br><br>1.04：<br>新增依據畫面「選單名稱」或畫面標題覆寫畫面的功能。<br>例如，要放大 'Modern Life' 模組的印表機畫面，可寫入 Printer=600</pre><p>&nbsp;</p><p>-------------------------</p><p>&nbsp;</p><p><strong>注意：此模組已針對 1.20.1 版本全面重新設計。</strong></p><p><strong>縮放功能不再與視訊畫面整合，現僅可透過快速鍵設定（預設：F7，可在按鍵綁定選單中變更）。</strong></p><p><strong>此設計使其能相容於自訂視訊畫面介面，例如 Iris/Oculus。</strong></p><p>&nbsp;</p><p>-------------------------</p><p>&nbsp;</p><p>&nbsp;</p><p>此模組會將遊戲設定中的「GUI 縮放」選項改為滑桿，提供更廣泛的設定範圍。&nbsp;</p><p>雖有其他模組具備類似功能，但本模組同時相容於原版與 Optifine。</p><p>&nbsp;</p><p>原版縮放選項僅有 [1, 2, 3]，使用本模組後可透過滑桿選擇 150% 至 450% 的縮放比例。</p><p>&nbsp;</p><p>原版縮放數值對應的百分比為：</p><p>1：200%</p><p>2：300%</p><p>3：400%</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

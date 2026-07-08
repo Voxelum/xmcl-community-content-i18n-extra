@@ -1,0 +1,6 @@
+{
+  "bodyHash": "huf2zN3g3IM=",
+  "content": "### 請勿與 Cobblemon Pokenav 1.3.0+ 版本同時安裝\n\n自 1.3.0 版本起，整合功能已內建於模組中，並可透過設定啟用。我尚未測試同時安裝兩者會發生什麼情況，但很可能不會有什麼好結果。\n\n此模組為 Cobblemon Pokenav 模組的寶可導航器新增了一項功能，讓你能查看來自 Cobblemon Counter 的當前連續捕捉等級。如果你同時使用 Cobblemon Unchained 或類似模組，這項功能可能會很有用。此外，類似於 Unchained 根據連續捕捉等級提高寶可夢生成時帶有隱藏特性等特徵的機率，此模組也會賦予寶可夢生成時帶有蛋招式的一定機率。\n\n蛋招式的出現機率以及提升連續捕捉等級所需的捕捉次數，均可透過設定進行調整。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

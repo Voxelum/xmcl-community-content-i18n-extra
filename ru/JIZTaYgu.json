@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Uy1eXP778F8=",
+  "content": "Устали вручную строить многочисленные конструкции?\n\n\nИспользуйте MBTool!\n\n \n\nПоддерживает конструкции из: Mekanism, Immersive Engineering, Immersive Petroleum, NuclearCraft, QMD, IC2, TConstruct, Extreme Reactors, Draconic Evolution\n\nДобавляйте свои собственные мультиструктуры в конфигурации модов.\n\n \n\nНажмите SHIFT+LBM, чтобы открыть интерфейс. Выберите конструкцию и постройте её.\n\nСтрелки клавиатуры для поворота.\n\nЧтобы построить, необходимо разместить требуемые блоки в инвентаре.\n\nТребуется энергия RF/EU и опыт игроков.\n\nПовышает уровень голода.\n\ngeneral {\n# Сколько энергии требуется для размещения одного блока (RF)\nI:energy_per_block=10\n\n# RF\nI:mbtool_energy_capacity=10000\n\n# Сколько насыщения теряет игрок при постройке\nI:saturation_per_building=1\n\n# Сколько опыта требуется для размещения одного блока\nI:xp_per_block=1\n}",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

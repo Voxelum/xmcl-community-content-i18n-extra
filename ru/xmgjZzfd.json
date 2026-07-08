@@ -1,0 +1,6 @@
+{
+  "bodyHash": "k461GAdBGPg=",
+  "content": "Заставляет деревья падать при их срезании.<br>\n![Демонстрация](https://cdn.modrinth.com/data/xmgjZzfd/images/0008b7b5228ba211322b06375c6e82ea68ea075f.gif)\n\nВнутри «дерево» определяется как:\n- `2..512` брёвен любого вида\n- `1..1024` непостоянных листьев любого вида\n\nБрёвна соединяются по диагонали и изначально проверяются вверх от первого сломанного бревна.<br>\nДеревья не упадут, если:\n- игрок крадётся\n- предмет, используемый для спиливания дерева, обладает эффектом шелкового прикосновения\n<br>\n<br>\n### Вдохновлён datapack [Timber Physics](https://www.planetminecraft.com/data-pack/timber-physics-trees-you-chop-will-fall/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

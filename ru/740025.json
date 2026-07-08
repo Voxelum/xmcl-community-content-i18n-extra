@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ezJr0VtN0Sc=",
+  "content": "<p>Мод, обеспечивающий полуреалистичное движение воды с минимальным влиянием на производительность.</p><p>Вода конечна; источники воды движутся вниз, если под ними есть пространство; в стороны, если над ними есть вода; и по диагонали в целевое пространство — при соблюдении тех же правил.</p><p>&nbsp;</p><p><img src=\"https://imgur.com/Qc2ysCv\" alt=\"\"></p><p>&nbsp;<img src=\"https://cdn.discordapp.com/attachments/400699000237326338/1053739869362454648/theoutput.gif\"></p><p>&nbsp;</p><p>Настройки: /gamerule waterSourceConversion false</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

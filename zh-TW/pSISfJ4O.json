@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vy5uH4aK1CM=",
+  "content": "# quick-pack\n一個能優化資料包/資源包壓縮檔載入時間的簡易模組。對於包含**大量**檔案的壓縮檔特別有效，但也能加速小型資源包的載入速度。\n\n## quick-pack 與原版比較\n\n以下是使用 quick-pack 與不使用（原版）載入 [polymania v0.6.2](https://modrinth.com/modpack/polymania/version/0.6.2) 產生的資源包比較。Polymania 產生一個 44.3MiB 的壓縮檔，內含 60369 個條目！\n![載入示範資源包](https://i.imgur.com/dqEDVQX.gif)\n\n_quick-pack 僅需 2 秒即可完成載入，而原版則需要 36 秒！_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

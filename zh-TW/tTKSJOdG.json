@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2F+p2yf57/k=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/EHOCKO5PQA0\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nImmersive Damage Indicators 會在您傷害生物時顯示浮動動態文字，支援自訂字型、動畫與顏色特效，並透過 [Immersive Messages API](https://www.curseforge.com/minecraft/mc-mods/immersive-messages-api) 實現。\n\n本模組是 [Mmm Indicators](https://www.curseforge.com/minecraft/mc-mods/mmm-indicators) 的更新多重載入器分支，完全以 Immersive Messages 取代原有渲染系統，以支援自訂特效與動畫。\n\n<br />\n\n若要使用自訂字型，您需要安裝 [Caxton](https://modrinth.com/mod/caxton)。不過，自訂字型在啟用 Iris 光影時無法運作，模組會自動退回使用原版文字渲染器。\n\n安裝 Caxton 後，此模組預設會自動使用 Anton 字型，可在設定中更改或留空以停用：\n\n![config](https://cdn.modrinth.com/data/cached_images/39dfd0e031343f7ef9fcf0575f618c1667d2d68c.png)\n\n您也可以設定自訂顏色、將受傷紅色改為其他顏色，並分別關閉各項特效。\n\n若您是開發者，亦可使用提供的事件，完整存取粒子實例與 ImmersiveMessage 物件以進行自訂樣式設計：\n\n![event](https://cdn.modrinth.com/data/cached_images/6331aed32c564de5a07219421abc170098434864.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

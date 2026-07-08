@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KWIAATgPbTg=",
+  "content": "# Celeritas/Nothirium 动态光源\n\n## 针对1.12.2版Celeritas的SodiumDynamicLights分支\n### 你需要安装Cleanroom加载器才能运行此模组\n\n尽管名称如此，本模组**并非仅限于Celeritas/Nothirium使用**。它可以独立运行，但为了获得最佳性能，建议搭配支持**延迟区块更新**的模组使用，例如：\n\n- **Celeritas**\n- **Nothirium**\n- **Stellar Core** *（请确保在其配置中启用\"始终延迟区块更新\"）*\n\n### 特别鸣谢\n\n- **Txni** – 原版SodiumDynamicLights的作者\n- **Embeddedt** – 创建了Celeritas，正是因此我才有了制作此移植版的动力\n\n你可以从[此处](https://git.taumc.org/embeddedt/celeritas)自行编译Celeritas，或获取[自动构建的jar文件](https://github.com/kappa-maintainer/Celeritas-auto-build/releases)\n\n原版模组可在此处找到[Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights)。[原始源代码](https://github.com/txnimc/SodiumDynamicLights)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

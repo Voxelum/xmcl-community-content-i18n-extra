@@ -1,0 +1,6 @@
+{
+  "bodyHash": "M0Te072sNqY=",
+  "content": "# 移動式生怪磚（MinecartSpawnerRevived）\n修復錯誤並小幅改進，重振移動式生怪磚！\n\n支援 Minecraft 1.20.x-26.1.x 的 Fabric/NeoForge 版本\n\n下載請至 [Modrinth](https://modrinth.com/mod/minecart-spawner-revived)/[CurseForge](https://curseforge.com/minecraft/mc-mods/minecart-spawner-revived)\n\n### 錯誤修復列表\n- 在客戶端生成實體時，向伺服器發送 `SpawnData` 資料包請求。\n- 重新加入移動式生怪磚的生物顯示器。\n    - 已解決 [MC-65065](https://bugs.mojang.com/browse/MC-65065) 問題。\n- 修正移動式生怪磚生成粒子位置。[MC-66894](https://bugs.mojang.com/browse/MC-66894)。\n- 修正無法在移動式生怪磚上使用生怪蛋來改變要生成的實體。[MC-110427](https://bugs.mojang.com/browse/MC-110427)。\n- 移動式生怪磚被破壞時加入經驗球掉落，與一般生怪磚相同。目前尚無相關錯誤回報。\n\n### 安裝方式\n建議在用戶端和伺服器端皆安裝以獲得最佳效果！\n- 安裝 Fabric Loader/MinecraftForge\n- 將模組複製到 `mods` 資料夾中",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

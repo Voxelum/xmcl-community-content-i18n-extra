@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cGz5o077TWI=",
+  "content": "# 🐔 岩漿雞\n\n新增《Minecraft 電影》中Steve的岩漿雞，食用時會附加特殊效果。\n\n## 🖼️ 特色介紹\n  ### 🍗 如何取得？\n  <b>雞被岩漿殺死時，會掉落岩漿雞！</b><br>\n  <img src=\"https://gist.github.com/user-attachments/assets/5c5cf456-8d94-43ef-915c-8b7bd1b8af7f\">\n  <br><br>\n  ### 🧪 效果\n  <b>岩漿雞會給予你8秒的速度提升與回復I效果。</b><br><i>速度提升可與速度藥水效果疊加！</i><br>\n  <img src=\"https://gist.github.com/user-attachments/assets/56e501a9-daab-4f05-a070-f819ae6dd32f\">\n  <br><br>\n  ### 🔥 粒子尾跡\n  <b>效果生效期間，你身後會出現火焰粒子尾跡。</b><br>\n  <img src=\"https://gist.github.com/user-attachments/assets/220455b5-e5ea-4249-acee-ac3481dda157\">\n\n## ⚙️ 設定\n### ⌛ 持續時間\n你可以使用指令 `/trigger lava_chicken.config.duration set <時間（單位：刻）>` 來設定岩漿雞的效果持續時間！<br>（1秒 = 20刻）<br>\n> _注意：數值至少需為2，設為負數將重置為預設持續時間。_\n\n## 📦 如何安裝？\n1. 從您偏好的來源下載資料包。\n2. 開啟您的Minecraft世界資料夾，進入 `datapacks` 資料夾。\n3. 將下載的 `.zip` 檔案拖放到 `datapacks` 資料夾中。\n4. 解壓縮該檔案。（結構應如下：`<世界名稱>/datapacks/lava-chicken-X.X.X/...`）\n5. 在Minecraft中開啟您的世界，輸入指令 `/reload` 載入資料包。（若在伺服器上，請使用 `/minecraft:reload`）\n6. 完成！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

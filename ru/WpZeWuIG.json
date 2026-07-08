@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MZLmLJIgvlk=",
+  "content": "Этот мод включает дополнительные библиотеки Kotlin для использования вместе с [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin).\n\nВ настоящее время добавлены следующие библиотеки:\n- Kotlin Scripting JVM\n- Kotlin Scripting JVM Host\n- Kotlin Scripting JSR223\n- Kotlin Scripting Dependencies Maven\n- Kotlin Compiler\n- Tiny Remapper (поставляется только до версии Minecraft 26.1)\n- Mapping IO (только до версии Minecraft 26.1)\n- Kotlin Metadata JVM\n\n\nСписок библиотек может расширяться в будущем.\n\n\nКак и в случае Fabric Language Kotlin, любые моды, зависящие от этого мода, НЕ ДОЛЖНЫ включать его, особенно потому, что компилятор Kotlin уже включен в этот мод, что обуславливает такой большой размер файла.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wUAkg16KHyc=",
+  "content": "# 注意事項！\n_這是原始模組的官方移植版，我們在開發者同意下發布。版權所有。特別感謝 Bluemoon8377 為原始模組付出的驚人心血！更多詳情及開發者官方社群連結，請參考原始模組頁面及個人檔案：_\n> - [Bluemoon8377 個人檔案](https://www.curseforge.com/members/bluemoon8377)\n> - [原始 CrescentLib](https://www.curseforge.com/minecraft/mc-mods/crescentlib)\n\n_此移植版將與原始模組同步更新，從最新版本開始。_\n# 介紹：\n**CresentLib** 是一個整合並優化關鍵元素的函式庫，用於支援 Bluemoon8377 的模組運作。它提供：\n- 通用的資源標籤與分類。\n- 方便修改遊戲體驗的狀態效果。\n- 結構化的例行程序與工具，簡化開發流程。\n\n此函式庫應用於熱門模組：\n- [_Unusual Delight_](https://modrinth.com/mod/unusualdelight)\n- [_Mineral Delight_](https://modrinth.com/mod/mineral-delight-port)\n- [_Hotdog Delight_](https://modrinth.com/mod/hotdog-delight-port)\n\n您可以在專案中自由使用「CresentLib」。它旨在節省時間，讓製作模組的過程更加便利。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

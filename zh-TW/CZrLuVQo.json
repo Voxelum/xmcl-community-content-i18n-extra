@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PCiReISw7ms=",
+  "content": "![Comparison](https://imgur.com/E7tzOar.png)\n\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/resourcepack/low-shield-pack) [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/texture-packs/low-shield)\n\n> #### Low Shield 簡單地降低了盾牌在第一人稱視角下的高度，確保它不會阻擋您在遊戲中的視野，特別是在戰鬥時。\n\n- **盾牌降低了 2.75 個單位，舉盾時更額外降低了 3 個單位。**\n- **[[MC-98631](https://bugs.mojang.com/browse/MC/issues/MC-98631)] 修復了右手持盾時比左手高出的錯誤（1.21.11 及以下版本）。**\n\n<br>\n\n### 運作原理 🧠\n- 透過調整模型檔案中的 **Y 值** 變化，降低盾牌的位置，確保不論是舉盾或只是手持，盾牌都會處於較低的位置。\n\n##### 此資源包始終保持最新，並定期測試以檢查版本相容性、新檔案更新及錯誤修正。\n\n### 許可證 **(ARR)** 📜\n\n\n<details>\n<summary>許可證</summary>\n\n- 您可以自由使用、修改或分享本專案於任何您的模組包或資源包中，只要給予原作者適當的標註即可。\n- 您不得以任何需要付費才能存取的方式銷售或使用此資源包。\n\n##### 如有任何其他問題，歡迎透過 Discord **(@Oculie)** 與我聯絡。\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

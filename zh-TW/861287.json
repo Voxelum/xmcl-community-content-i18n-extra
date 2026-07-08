@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MXu3uZR59xg=",
+  "content": "<p>這個數據包是 Cobblemon 的一個附加元件，它讓 Cobblemon 在雪地生態域中表現更好，因為它們不再會陷入粉雪中並受到傷害，而是能夠站在粉雪之上。這適用於所有 Cobblemon，無論其屬性、大小或重量如何。</p><p>&nbsp;</p><p>數據包在 powder_snow_walkable_mobs 實體類型中添加了一行，以包含 \"Cobblemon:Pokemon\" 實體，這與基礎遊戲處理終界蟎、兔子、狐狸和蠹魚的方式相同。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

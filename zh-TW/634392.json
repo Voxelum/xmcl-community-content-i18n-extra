@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lsrB3bggWwM=",
+  "content": "<h1>NaNny</h1><h2>因為某些模組無法控制它們的浮點數。</h2><p>NaNny 是一款 Minecraft Neo/Forge 模組，專門清理那些將實體生命值和/或吸收值設為 NaN 的模組所導致的問題。</p><p>透過攔截以下事件並取消（可選修復受影響實體）來實現此功能：</p><ul>\n<li>生物攻擊事件（LivingAttackEvent）</li>\n<li>生物傷害事件（LivingDamageEvent）</li>\n<li>生物治療事件（LivingHealEvent）</li>\n<li>生物受傷事件（LivingHurtEvent）</li>\n</ul><p>NaNny 會在 <code>world/serverconfig/nanny-server.toml</code> 創建一個 TOML 設定檔。</p><p>目前設定檔提供以下選項：</p><ul>\n<li>doHeal - 啟用當實體被賦予或治療 NaN 時設定其生命值（預設為 true）</li>\n<li>health - 當實體被賦予或治療 NaN 時，將其生命值設定為最大生命值的百分比（預設為 1.0）</li>\n<li>log - 是否記錄將實體生命值設為 NaN 的事件（預設為 true）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

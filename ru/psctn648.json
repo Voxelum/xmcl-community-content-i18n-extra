@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UpOu8JshD2g=",
+  "content": "Этот пакет перекрашивает инструменты и мечи из Aether II, придавая им цветовую палитру vanilla, что делает их похожими на материалы vanilla (железо, золото, алмазы и т.д.). Это в основном делает их совместимыми с vanilla.\n\nЗачем я это сделал? Просто выглядит круто.\n\nВот как происходит конверсия:\n- Skyroot -> Дерево\n- Holystone -> Камень\n- Zanite -> Железо\n- Arkenium -> Золото\n- Gravitite -> Алмазы и Незит*\n\n*Незит тоже, потому что это просто алмазные инструменты с покрытием из незита\n\nАвторство принадлежит [The Aether Team](https://modrinth.com/organization/the-aether-team) за создание [Aether](https://modrinth.com/mod/aether) и [Aether II](https://modrinth.com/mod/aether-ii).\n\nСоздано с помощью [ASEprite](https://www.aseprite.org).\n\nСодержание касается мода/пакета ресурсов/модпака/шейдерпака для Minecraft или других связанных с Minecraft ресурсов. Пожалуйста, сохраняйте стиль языка приятным для геймеров.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

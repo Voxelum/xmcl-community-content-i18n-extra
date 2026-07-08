@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jSNdNv47mEQ=",
+  "content": "<p>當從伺服器接收到過大的封包時，用戶端會顯示錯誤訊息並斷開連接。</p><p>&nbsp;</p><p><img src=\"https://tof.cx/images/2018/12/16/b63619a917a6fd137bc9bcab11733a14.png\" alt=\"\" width=\"673\" height=\"401\"></p><p>&nbsp;</p><p>本模組提升預設的接收與讀取封包大小限制。</p><p>&nbsp;</p><p>不再受「封包壓縮異常 - <em>xxx</em> 大小超過通訊協定上限 2097152」錯誤所苦！</p><p>&nbsp;</p><p>同時對抗「嘗試讀取過大的 NBT 標籤」錯誤。</p><p>&nbsp;</p><p><span style=\"text-decoration:underline\">更新日誌</span></p><ul>\n<li>1.2 - 修復回報的相容性問題</li>\n<li>1.1 - 新增支援 1.7.10 至 1.12.2 版本\n<ul>\n<li>使用 Forge 框架的更新檢查器</li>\n<li>模組頁面描述中顯示狀態</li>\n</ul>\n</li>\n<li>1.0 - 初始版本。支援 1.12.2</li>\n</ul><p><span style=\"font-size:24px\">歡迎在此<a href=\"https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2941319-bigger-packets-please\" rel=\"nofollow\">論壇討論串</a>提供意見回饋。</span></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

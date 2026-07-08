@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m4s6H568FP0=",
+  "content": "# 在終界之外禁止鞘翅飛行\n\n如其名，這個模組的功能正如其名稱所述\n\n## 功能\n- 在選定的維度中禁止鞘翅飛行或煙火推進\n- 透過設定檔或 `/deote` 指令進行所有設定（單人/LAN模式提供GUI介面）\n- 自訂允許的維度與白名單飛行物品（支援Curios模組）\n- 自訂警告訊息\n- 防止未安裝此模組的玩家加入伺服器\n\n## 設定\n所有可用的設定項目列表：\n\n| 選項 | 說明 |\n|------|------|\n| `workingMode` | `FLYING`（飛行）、`FIREWORKS`（煙火）或 `NONE`（無） |\n| `dimensionList` | 不進行限制的維度 |\n| `itemList` | 玩家背包中有此物品時可不受限制飛行 |\n| `warningMessageEnabled` | 啟用警告訊息 |\n| `flightDisabledMessage` | 當滑翔被禁止時顯示的訊息 |\n| `fireworksDisabledMessage` | 當煙火推進被禁止時顯示的訊息 |\n| `modRequired` | 防止未安裝此模組的玩家加入伺服器 |\n| `modRequiredMessage` | 對未安裝模組的玩家顯示的伺服器踢出訊息 |\n\n待辦事項：\n- [ ] Spigot/Paper插件（為何不呢）\n\n> 我不打算將模組移植到1.21.1以下的版本，因為網路系統已經改動，我不想深入處理這個問題。\n> \n> _但原始碼是開放的，所以你可以自行處理。_\n\n不建議使用v1.x版本，因為它充滿錯誤且表現不佳。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

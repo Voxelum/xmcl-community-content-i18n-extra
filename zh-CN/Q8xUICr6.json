@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5o3sxdoLRu4=",
+  "content": "一个为两大主流Minecraft模组加载器（Fabric和NeoForge）提供抽象层的API接口。\n\n本API需配合多加载器开发环境使用，例如Jared开发的[MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template)。\n\n## 使用Ash API的模组\n- [Armor Visibility](https://modrinth.com/mod/armor-visibility)（盔甲可见性）\n- [Flourish](https://modrinth.com/mod/flourish)（绽放特效）\n- [Shuffle](https://modrinth.com/mod/shuffle)（随机切换）\n- [Transparent](https://modrinth.com/mod/transparent)（透明化）\n\n## 已实现的API功能\n完整API文档即将发布，当前可通过代码中的Javadoc查阅。\n\nv1.0.0版本已实现以下API：\n- 按键映射注册（KeyMappingRegistry）\n- 客户端刻事件（ClientTickEvents）\n- 方块使用事件（UseBlockEvent）\n- 模组加载器识别（ModLoader）\n- 资源加载器（ResourceLoader）\n- 模组配置项（ModOptions）\n- 模组配置界面（ModOptionsScreen）\n\n[更新日志](https://github.com/Trikzon/ash-api/blob/1.19.4/CHANGELOG.md)可供查阅。\n\n当前功能优先根据本人开发的模组需求实现，但最终目标是让所有使用多加载器开发环境的开发者都能使用Ash API。\n\n非常欢迎提交Pull Request，但请先在我的[Discord频道](https://discord.gg/aUwZKagWh2)讨论相关提案。\n\n---\n\n问题反馈请提交至[GitHub](https://github.com/Trikzon/ash-api/issues)，交流讨论请加入[Discord](https://discord.gg/aUwZKagWh2)的`#ash-api`频道。\n\n欢迎通过[Ko-fi](https://ko-fi.com/X7X8D56YI)支持我的模组开发。\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X8D56YI)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

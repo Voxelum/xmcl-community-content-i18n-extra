@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OzWdwsdDF60=",
+  "content": "<h2>通用意見回饋</h2><p>此模組提供一個方便的圖形界面與可選的 KJS 接口，讓玩家能在遊戲中即時向開發者發送回饋。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/364aaa0f71f7418df54407f6a46a0fee08792950.jpeg\" alt=\"ui\"></p><p>回饋分為全域模式與本地模式。全域回饋適用於整合包或伺服器，設定非常簡單。</p><p>本地回饋則可供單一模組使用——它們共用相同的抬頭顯示，但彼此之間不會干擾。</p><p>預設情況下，全域回饋的入口點會放置在生存模式背包、暫停選單與死亡選單中；您可以在設定檔中將它們隱藏。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/793d9637589457761752b74c6c367e30772f39c0.png\" alt=\"img\"></p><p>對於一般玩家，只需像平常一樣安裝與使用此模組即可。</p><p>對於開發者，自訂非常簡單——請參考下方的<a href=\"/linkout?remoteUrl=https%253a%252f%252fdoc.sighs.cc%252fen%252fGeneralFeedback%252fdev\" target=\"_blank\" rel=\"nofollow\"><strong>開發者手冊</strong></a>。</p><p>此模組預設使用 GitHub Issues 作為收集回饋的後端。</p><p>此外，此模組支援：</p>\n<ul>\n<li>自訂觸發條件來開啟回饋介面（例如：當玩家跳躍時開啟回饋界面）；</li>\n<li>發送額外資訊（需要 KJS），例如將玩家的背包內容連同回饋一起發送；</li>\n<li>自訂第三方 API 呼叫——如果您偏好其他服務，您並不限於使用 Vika。</li>\n</ul><p>由於這涉及玩家的遊戲內數據，此模組的所有功能及相關擴充套件皆完全透明。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6M5kHZKG8Bs=",
+  "content": "一個客戶端模組，可根據方塊移動方向旋轉方塊。此外，它還能根據方塊速度應用擠壓和拉伸效果，這些效果可以完全禁用、自定義配置，甚至可以針對每個方塊單獨停用。\n\n此模組僅改變這些方塊的渲染方式，因此完全可以在客戶端運行！\n\n---\n這是Perxenic另一款模組的絕佳搭配：[爆炸大修](https://modrinth.com/mod/explosionoverhaul)\n\n這是對[Tec](https://modrinth.com/user/Tec)原版[向量定向](https://modrinth.com/mod/vectorientation)模組的完整重寫",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

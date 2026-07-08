@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2aN5FuS9bSU=",
+  "content": "更多背包升級 (More Backpack Upgrades)\n\n更多背包升級是 Sophisticated Backpacks（精妙背包）的擴充模組，它架起了你的便攜背包與 Refined Storage（精緻儲存）網路之間的橋樑。\n\n忘掉每次採礦歸來都要手動清空背包的繁瑣吧。有了這些全新的升級卡，無論你身處何地或跨越維度，物品都能直接傳送進你的數位儲存系統中！\n\n✨ 功能特性\n本模組新增了三種強大的「次元」升級卡。要將升級卡綁定到你的網路，只需手持升級卡對著 Refined Storage 的控制器（Controller）按 Shift + 右鍵即可。\n\n🧲 次元磁吸升級\n功能： 將地面上的掉落物直接吸入綁定的 RS 系統中。\n智能回退： 如果 RS 系統已滿或離線，物品會安全地進入背包，防止遺失。\n可配置： 支援自訂吸附範圍和過濾器設定（繼承自 Sophisticated Core）。\n📥 次元拾取升級\n功能： 你正常拾取（走過）的物品會瞬間發送到綁定的 RS 系統中。\n安全： 正確標記物品為「玩家插入」，以符合 RS 的安全審計系統。\n🚚 次元卸貨升級\n功能： 允許你將背包內的物品遠端傾倒進 RS 網路。\n用法： 對著容器或 RS 控制器/網路元件 Shift + 右鍵，即可根據過濾器設定卸貨。\n無線： 只要 RS 控制器所在的區塊已載入，支援跨維度工作。\n🛠️ 前置需求\n要使用此模組，你需要安裝以下內容：\n\nMinecraft 1.20.1\nForge（47.4.0+）\nSophisticated Backpacks\nSophisticated Core\nRefined Storage\n📝 配置\n你可以在配置檔案中調整次元磁吸升級的範圍：\nconfig/MoreBackpackUpgrades-common.toml\n\n🤝 致謝與授權\n作者： 空枝霽雨（KongZhiJiYu）\n授權： LGPL-2.1\n本模組使用改編自 Sophisticated Backpacks API 的程式碼，以確保無縫整合。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

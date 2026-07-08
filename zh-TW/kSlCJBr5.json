@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+RkXVasTlcI=",
+  "content": "![image](https://github.com/user-attachments/assets/8f748baf-a4e2-4c6c-aecc-f4e4105254c9)\n\n在太空的真空环境中，你的血液会在冻死前沸腾！[^1]\n\n- 为每个行星（及其轨道）提供符合Ad Astra设定的基础温度\n- 氧气稳定器可平衡世界温度\n- 太空服在充氧状态下提供完整抗寒与部分抗热效果（需穿着整套）\n- 下界合金太空服与喷射套装在充氧状态下提供完整温度防护（需穿着整套）\n\n**请在Ad Astra配置中禁用温度伤害。** 本模组旨在用Cold Sweat取代Ad Astra的温度系统。\n```json\n// 禁用温度伤害\n\"disableTemperature\": true,\n```\n\n本模组为个人整合包制作，不保证能在您的模组环境中正常运行或获得更新。使用风险自负。\n\n## 注意事项\n目前Cold Sweat似乎无法正确载入数据包的维度温度设定。在问题修复前，请将以下内容添加至Cold Sweat世界设置的维度温度偏移值：\n```\n[\"ad_astra:glacio\", -20, \"C\"], [\"ad_astra:mars\", -65, \"C\"], [\"ad_astra:mercury\", 167, \"C\"], [\"ad_astra:moon\", -173, \"C\"], [\"ad_astra:venus\", 464, \"C\"], [\"ad_astra:earth_orbit,ad_astra:moon_orbit,ad_astra:mars_orbit,ad_astra:glacio_orbit,ad_astra:mercury_orbit,ad_astra:venus_orbit\", -270, \"C\"]\n```\n待Cold Sweat 2.3.4版本发布后（修复程序[已实装](https://github.com/Momo-Softworks/Cold-Sweat/commit/9e7f208afff4b63db5f1555776a39566cc3b7ad6)但尚未发布），本模组无需更新即可正常运作，您也无需在配置中添加上述内容。\n\n[^1]: 血液沸腾并非本模组功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

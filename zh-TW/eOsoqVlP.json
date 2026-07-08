@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m0qFjrWs9OQ=",
+  "content": "# 功能│Function\n在安裝這個資料包之前，終界龍不免疫來自玩家的傷害以及爆炸傷害（傷害類型：```#is_explosion```）；當你安裝了這個資料包，終界龍將不免疫任何來自生物的傷害以及爆炸傷害。│Before installing this data pack, the ender dragon is not immune to damage from players and explosions (damage type: ```#is_explosion```); after you install this data pack, the ender dragon will not be immune to any damage from mobs and explosions.\n# 注意事項│Precautions\n該資料包透過名為\"immune_to_non_mob_damage\"的自訂附魔來實現此效果，因此如果您在創造模式物品欄中看到帶有\"toxin_accumulation\"附魔的附魔書，請忽略它。│The datapack achieves this effect via a custom enchantment called \"toxin_accumulation\", so if you see an enchanted book with the \"immune_to_non_mob_damage\" enchantment in your Creative Inventory, please ignore it.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

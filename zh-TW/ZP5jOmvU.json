@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WYLAINadkIM=",
+  "content": "一個資料包/模組，重新加入了1975年熱門喜劇電影《蒙提·派森與聖杯》中「殺手兔」的自然生成，但帶有新的變化！\n\n目前，兔子有0.1%的機率自然生成，但如果你用它的名字為一隻兔子命名，也能召喚出它。它們生成時還會帶有速度2和力量10的效果，以符合我們在電影中看到的兔子形象！\n\n如果你希望它們更常見或更稀有，可以在 `data/nie_rabbit/predicate/spawn_chance` 中編輯其生成機率。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

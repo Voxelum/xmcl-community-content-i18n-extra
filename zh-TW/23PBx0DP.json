@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lTZe/riRI+c=",
+  "content": "這個小型模組將基岩版中的伸縮活塞臂動畫帶到了Java版，同時還提供了更柔軟的替代動畫和粒子效果選項。\n\n它還兼容[G4mespeed模組](https://www.curseforge.com/minecraft/mc-mods/g4mespeed)，可實現更流暢的活塞動畫效果。\n\n此模組需要[Fabric API](https://modrinth.com/mod/fabric-api)才能運行！\n\n內含幾個附加資源包，提供以下功能：\n- 黏性活塞側面\n- 壓縮風箱效果\n- 剪刀/彈簧外觀\n（所有這些都支援PBR技術）\n\n給資源包開發者的快速指南：\n\n- 依照原版活塞頭模型設計活塞臂，並正常放入您的資源包中\n- 將模型拆分：不想被壓縮且以正常速度移動的部分放在piston_head_short模型中，活塞臂部分則放在assets/telepistons/models/block/目錄下的piston_arm模型裡\n- 在您的piston_arm.json中加入以下內容：\n```\n    \"telepistons\": {\n    \t\"squish\":\"false\",\n    \t\"particles\":\"4\",\n    \t\"squishedScale\": [ 1, 1, 0 ]\n        }\n```\n- \"squish\"和\"particles\"分別決定手臂模型是否會被壓縮以及活塞是否會噴出蒸汽粒子\n- \"squishedScale\"決定活塞完全收縮時手臂模型的縮放比例。Z軸指向前方，因此[1, 1, 0]的向量只會在該方向上壓縮手臂，而[2,2,0]的向量則會在壓縮時讓手臂變得兩倍寬和高。\n\n發現錯誤或想建議新功能？請在[Discord](https://discord.gg/tw5SJxqC)上告訴我！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

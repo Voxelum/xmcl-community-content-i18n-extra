@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/LOy08hrN4U=",
+  "content": "<p>這個模組使用 Veil 添加了自訂著色器和相機效果，&nbsp;<strong>與 Sodium 或 Iris 不相容</strong><br>此模組在內顯和 MacOS 上也有問題<br><strong>請使用 Mod 選單來存取設定</strong></p><p><br>以任何方式讓自己窒息足夠長的時間，最終會讓你卡入後室，你必須穿越全部5個關卡才能逃脫：</p><hr><ol>\n<li><strong>Level 0</strong>&nbsp;----------------------&nbsp;<em>我們熟知且喜愛的後室</em></li>\n<li><strong>Level 1</strong>&nbsp;----------------------&nbsp;<em>宜居區</em></li>\n<li><strong>Level 2</strong>&nbsp;----------------------&nbsp;<em>管道之夢</em></li>\n<li><strong>泳池房</strong>&nbsp;--------------&nbsp;<em>泳池房</em>&nbsp;O.o</li>\n<li><strong>無限草地</strong>&nbsp;-----&nbsp;<em>這個有點不一樣</em></li>\n</ol><p>&nbsp;</p><p>此模組也新增了四個指令以防萬一：</p><ul>\n<li><strong>/skinwalker &lt;目標&gt;</strong>：以防皮行者無法自然生成，你可以使用此指令讓皮行者奪取你目標的皮膚。&nbsp;<em>別告訴任何人 :D</em></li>\n<li><strong>/release &lt;目標&gt;</strong>：如果目標的皮膚被奪走，將目標從皮行者釋放</li>\n<li><strong>/backroomsevent &lt;事件&gt;</strong>：手動觸發一個事件</li>\n<li><strong>/gimmemyinventoryback &lt;目標&gt;</strong>：恢復指定目標在進入後室前儲存的物品欄</li>\n<li><strong>/level &lt;關卡&gt;</strong>：手動將自己傳送到指定關卡。</li>\n</ul><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "s8t9Y/VWnfQ=",
+  "content": "<h1>🌌 DimToggle</h1><h3>🔒 用於 Minecraft Forge 1.20.1 的維度存取控制模組</h3><p><strong>DimToggle</strong> 是一款輕量但功能強大的<strong>伺服器端</strong>模組，讓管理員能完全控制玩家可在 Minecraft 世界中存取的特定維度。</p><p>無論你是在經營生存 SMP、以劇情為導向的角色扮演世界，還是多維度的模組伺服器，<strong>DimToggle</strong> 能確保只有經過授權的玩家才能進入受限制的維度，例如<em>終界</em>、<em>地獄</em>，或其他模組提供的<em>自訂維度</em>。</p><hr><h2>🧠 功能說明</h2><p>DimToggle 會攔截維度傳送事件，並檢查玩家是否具有進入權限。</p><ul>\n<li>若獲得授權，他們可正常傳送。</li>\n<li>若未授權，傳送會被阻擋或導回重生點（依設定檔而定）。</li>\n</ul><p>這讓它非常適合基於階級的進度系統、世界階段設計，或保護特定區域。</p><hr><h2>⚙️ 主要功能</h2><ul>\n<li>✅ <strong>每個維度的存取控制</strong> 在設定檔中定義哪些維度需要權限。</li>\n<li>🔑 <strong>可選的 LuckPerms 整合</strong> 使用如 <code>dimtoggle.minecraft.the_end</code> 的權限節點進行精準控制。</li>\n<li>🧱 <strong>管理員後備機制</strong> 若未安裝或停用 LuckPerms，只有伺服器管理員（OP）可繞過限制。</li>\n<li>🌍 <strong>可設定的行為</strong> 可選擇取消傳送，或安全地將玩家送回重生點。</li>\n<li>🧩 <strong>僅限伺服器端</strong> 無需用戶端安裝；輕量且與任何 Forge 伺服器相容。</li>\n</ul><hr><h2>🛠️ 技術資訊</h2><ul>\n<li><strong>Minecraft 版本：</strong> 1.20.1</li>\n<li><strong>Forge 版本：</strong> 47.3.11</li>\n<li><strong>環境：</strong> 伺服器專用</li>\n</ul><hr><h2>⚡ 為何選擇 DimToggle？</h2><ul>\n<li>透過階級或成就管理進度</li>\n<li>將強大維度限制給信任的玩家</li>\n<li>打造結構化的 SMP 體驗</li>\n<li>無需安裝用戶端模組即可簡化維度存取</li>\n</ul><blockquote>\n<p>一次一個維度，掌握你的世界。\n<strong>DimToggle</strong> 讓維度管理變得簡單、靈活且對管理員友善。</p>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

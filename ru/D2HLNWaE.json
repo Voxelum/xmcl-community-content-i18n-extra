@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vjyuVMXzxmk=",
+  "content": "Награды за заполнение Покедекса для Cobblemon 1.6.1!\n\nДобавляет следующие команды:\n- /dex rewards\n- /dex reload\n- /dex update <игрок>\n- /dex reset <игрок>\n- /dex generate\n\nИгроки могут получить награды через интерфейс GUI команды /dex rewards; после этого им придет сообщение в чат, информирующее о доступности новой награды.\n\nВсе настройки можно изменять с помощью конфигурационного файла!\n\nДля получения дополнительной информации ознакомьтесь с [вики](https://github.com/Unariginal/Cobblemon-DexRewards/wiki)!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FRNJ6axzais=",
+  "content": "### 功能\n此模組新增了一個物品——經驗寶典。你可以使用經驗寶典儲存和取出經驗。預設情況下，它可以儲存最多 1395 點經驗（可設定），相當於經驗條上的 30 級。\n\n### 使用方法\n- 蹲下 + 右鍵：儲存經驗\n- 右鍵：取出經驗\n\n### 合成配方\n![配方](https://i.imgur.com/keqKeB5.png)\n\n### 設定/物品元件\n注意：對於物品元件，「true」表示該元件存在於物品上，「false」則表示不存在。\\\n注意：如果你想改變經驗寶典的預設物品元件，仍可使用設定檔，但這會有一些限制，詳見設定檔說明。建議建立一個資料包，並按照你的需求自訂物品元件來覆蓋經驗寶典的合成配方。[這裡有一個範例配方。](https://gist.github.com/bl4ckscor3/074fc98a3206a01c8ff239923174543d) 更多關於[資料包](https://minecraft.wiki/w/Data_pack)和[合成配方](https://minecraft.wiki/w/Recipe)的資訊請參考 Wiki！\n\n- *max_xp* - 經驗寶典可儲存的最大經驗點數。預設值（1395）相當於經驗條上的 30 級。\n- *retrieval_percentage* - 取出經驗時書本會歸還的百分比，作為使用它的某種成本。範例：如果此設定值為 0.75，且經驗寶典儲存了 100 點經驗，嘗試取出這 100 點經驗時只會歸還 75 點。注意：這不會是 100% 精確的，因為 Minecraft 的經驗不使用小數點。\n- *retrieve_until_next_level* - 設為 true 時，每次只會從書中取出玩家升到下一級所需的經驗。\n- *retrieve_xp_orbs* - 設為 true 時，會以經驗球的形式從書中取出經驗。如果你想要將書中的經驗用於帶有修補附魔的工具，這個功能會很實用。\n- *store_until_previous_level* - 設為 true 時，每次只會從玩家的經驗條中儲存足夠降到前一級的經驗，也就是每次最多只會將一級的經驗添加到書本的儲存量中。\n\n適用於 Minecraft 1.14.4-1.20.1 版本的設定檔可以在你世界的 serverconfig 資料夾中找到。\n\n### 其他資訊\n這個模組是由我根據 Shivaxi 的要求所創作的。它基於 [XP Book](https://www.curseforge.com/minecraft/mc-mods/xp-book) 模組，並因原模組存在複製錯誤以及每次使用經驗書導致附魔台重置的錯誤而重新製作。由於本模組使用了與原模組相同的 modid 和物品 id，兩個模組無法同時安裝，但在它們之間切換不會遺失任何物品。我沒有使用原模組的任何程式碼或素材。\n\n你可以在任何模組包中使用此模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

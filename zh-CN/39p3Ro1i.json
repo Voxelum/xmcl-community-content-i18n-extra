@@ -1,0 +1,6 @@
+{
+  "bodyHash": "u3QsJboEiSk=",
+  "content": "# 原版按键绑定管理模组\n[![许可证](https://img.shields.io/github/license/Fallen-Breath/fabric-mod-template.svg)](http://www.gnu.org/licenses/lgpl-3.0.html)\n[![工作流](https://github.com/sakura-ryoko/vkm/actions/workflows/gradle.yml/badge.svg)](https://github.com/sakura-ryoko/vkm/actions/workflows/gradle.yml)\n\n使用此附加组件让 MaLiLib 的按键绑定显示与原版按键绑定的冲突情况，并在发生冲突时编辑原版按键绑定。\n\n厌倦了在不同按键绑定系统间反复调整？这便是你的解决方案。\n\n## 默认快捷键：~~O + C~~ `RIGHT_BRACKET + C`\n\n_（原版\"O + C\"与 26.2 版本的\"好友界面\"快捷键冲突）_\n\n![默认快捷键](https://github.com/sakura-ryoko/vkm/blob/multi/Default-Hotkey.png?raw=true)\n\n_或通过 1.21+ 版本的 MaLiLib 配置切换器访问。_\n\n![冲突快捷键](https://github.com/sakura-ryoko/vkm/blob/multi/Conflict-Hotkey.png?raw=true)\n\n_（此处显示与原版按键绑定的冲突……）_\n\n[![加入 Sakura 的 RyokoCraft Discord 服务器](https://sakuraryoko.com/files/1398873/discord-300px.png)](https://discord.gg/ryokocraftmc)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

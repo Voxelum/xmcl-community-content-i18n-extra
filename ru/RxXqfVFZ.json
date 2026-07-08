@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DoJEPk6k6ck=",
+  "content": "Из-за того, что NEI Unofficial изменил интерфейс рецептов, моды, которые полагаются на их расположение или количество рецептов на странице, теперь работают некорректно. Этот мод использует миксины, чтобы исправить обработчики NEI.\n<br></br>\nВ данный момент поддерживаются:\n- [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)\n- [Ex Nihilo](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo)\n\n**Этот мод требует [NotEnoughItems Unofficial](https://modrinth.com/mod/notenoughitems-unofficial) и [Sponge Mixins](https://modrinth.com/mod/spongemixin1710)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

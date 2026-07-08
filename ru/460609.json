@@ -1,0 +1,6 @@
+{
+  "bodyHash": "x2HzAFPMjJQ=",
+  "content": "<p><strong>Начиная с версии 5+, этот мод теперь явно несовместим с VanillaFix и TexFix, поскольку их функциональность была улучшена и добавлена в данный мод.</strong></p><p>&nbsp;</p><p>1. Оптимизирует использование оперативной памяти. Вот что происходит, когда вы добавляете его в крупный модпак (без Foamfix):</p><p><img src=\"https://i.imgur.com/WEDsU0B.png\" alt=\"\"></p><p>&nbsp;</p><p>2. Исправляет сбои в различных модах и в самом Forge.</p><p>3. Оптимизирует код в целом.</p><p>&nbsp;</p><p>Начиная с версии 2.3, требуется <a href=\"https://www.curseforge.com/minecraft/mc-mods/mixin-booter\" target=\"_blank\" rel=\"nofollow\">MixinBooter</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3msVKuG9roc=",
+  "content": "<p>這是 adamsogm 的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/increase-mob-cap\" rel=\"nofollow\">Increase Mob Cap 模組</a>移植至 1.16.5 及後續版本的專案。它新增了設定選項，可提高五種不同的生物生成上限：怪物、生物、環境生物、水生生物及環境水生生物。請注意，大幅提高這些上限將導致同等程度的遊戲延遲！</p><p>根據原始模組說明，這五種類別的詳細定義如下：</p><ul><li>怪物：指敵對生物，如殭屍、骷髏等。（預設值：70）</li><li>生物：主要指被動與中立生物，如蜜蜂、綿羊、牛等。（預設值：10）</li><li>環境生物：蝙蝠（預設值：15）</li><li>水生生物：海豚與魷魚（預設值：5）</li><li>環境水生生物：魚類（預設值：20）</li></ul><p>1.18 與 1.19 版本另包含以下類別：</p><ul><li>六角恐龍：顧名思義。（預設值：5）</li><li>水下水生生物：發光魷魚。（預設值：5）</li></ul><p>變更設定後需重新啟動遊戲！</p><p>致謝：</p><p>本模組為 adamsogm 的原創作品；本人僅負責移植工作。所有讚譽應歸於原作者；問題回報請提交給我（或透過上方問題回報連結）。感謝原作者提供<a href=\"https://github.com/adamsong/IncreaseMobCap/issues/2\" rel=\"nofollow\">發布授權</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

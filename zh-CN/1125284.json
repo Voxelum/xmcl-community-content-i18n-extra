@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bWOb8gIqkQA=",
+  "content": "<h1><strong>ResourcePackCached</strong></h1><p>ResourcePackCached 能够保持服务器资源包持续加载，重新加入游戏时无需重复加载，并在游戏启动时自动重新应用最后使用的服务器资源包。</p><hr><h2><strong>主要应用场景</strong></h2><p>特别适合以下需求：</p><ul>\n<li>将资源包托管在服务器上，简化更新流程并通过移除本地副本减小整合包体积</li>\n<li>通过加速加入游戏和避免重复加载来提升用户体验</li>\n<li>加速使用资源包的模组或插件的测试与调试过程</li>\n</ul><hr><h2><strong>功能特性</strong></h2><p><strong>ResourcePackCached</strong> 自动运行：</p><table>\n<thead>\n<tr>\n<th>步骤</th>\n<th>说明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>首次加入时缓存服务器资源包</td>\n</tr>\n<tr>\n<td>2</td>\n<td>断开连接后保持资源包加载状态</td>\n</tr>\n<tr>\n<td>3</td>\n<td>重新加入时跳过重复加载</td>\n</tr>\n<tr>\n<td>4</td>\n<td>游戏启动时自动重新应用</td>\n</tr>\n</tbody>\n</table><h2><strong>支持服务</strong></h2><p>需要帮助或想要反馈问题？</p><ul>\n<li>在 <a href=\"https://github.com/Furq07/resourcepackcached/issues\" target=\"_blank\" rel=\"nofollow\">GitHub 仓库</a> 提交问题</li>\n<li>加入 <a href=\"https://discord.gg/XhZzmvzPDV\" target=\"_blank\" rel=\"nofollow\">Discord 服务器</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vdkDuvuw2Rc=",
+  "content": "![Rapier](https://cdn.modrinth.com/data/cached_images/8cc398102881243c13da7f3f283a9f64d1dde9ec.png)\n-----------------------------------------------------------\n\n### 模组主要新增内容：\n\n- 包含4种细剑招式及全新动画，涵盖几乎所有动作，包括全新的格挡机制。\n- 7把细剑武器，从铁质到下界合金质，并新增3个可合成的武器等级。\n- 3种新材料，用于合成末影合金、海洋合金和凋灵合金等级的细剑。\n- 为Iron's Spells 'n Spellbooks模组新增1种混合细剑招式——毕竟我们都喜欢魔法。\n\n-----------------------------------------------------------\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/YWDuqdI30NY\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n-----------------------------------------------------------\n\n<details>\n<summary>剧透内容</summary>\n\n### 常见问题解答：\n\n**该模组是否会向后移植至1.19.2、1.18.2或1.16.4版本？**\n\n不会。遗憾的是，我没有时间和动力将其移植到这些版本，且多数玩家更倾向游玩1.20.1版本。未来随着新版本推出，当前的1.20.1可能会像现在的1.19.2一样成为玩家主流选择。\n\n**如何获取新等级的细剑？**\n\n需要自行合成。每种等级（原版合成路径）需击败游戏中的对应Boss。建议使用JEI模组查看具体配方。\n\n**我能在整合包中使用此模组吗？**\n\n可以。你可以在整合包中自由使用本模组，并按其需求制作数据包。\n\n**如何让该模组与（某武器模组名称）兼容？**\n\n你可以通过数据包为武器赋予细剑招式系统（基于武器能力系统），具体方法详见维基百科页面。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

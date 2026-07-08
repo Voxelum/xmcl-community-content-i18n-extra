@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3mMNEwAKtLw=",
+  "content": "**Overgrown's Cobblemon: Darkrai — это открытый datapack/мод для Cobblemon, предназначенный для Fabric, Forge и NeoForge.**\n\n---\n\nЦель пакета проста: добавить любимого покемона, которым сможет насладиться каждый! Исходный код открыт, и я призываю не только к вкладам сообщества, но и к форкингу.\n![Cobblemon Divider](https://cdn.modrinth.com/data/cached_images/dc09f2fafd636f34e7462b823984513cddab2ce1.png)\n<center><span><font size=\"5\"><strong>Установка</strong></font></span></center>\n\n**_Fabric:_**\n- Требуется рекомендуемая версия Fabric Loader для вашей версии Minecraft.\n- Требуется Fabric API.\n- Поместите Fabric API и Cobblemon-Fabric в папку mods.\n\n**_NeoForge:_**\n- Требуется рекомендуемая версия NeoForge для вашей версии Minecraft.\n- Требуется Kotlin для Forge.\n- Поместите Kotlin для Forge и Cobblemon-NeoForge в папку mods.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

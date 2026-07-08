@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wwG7TlNSjsM=",
+  "content": "使用骨粉來散播小型花朵。這是基岩版[花卉種植](https://minecraft.fandom.com/wiki/Tutorials/Flower_farming)機制的移植版本。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/SKGd66HaAWY\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 設定\n設定檔位於 `.minecraft/config/flourish.json`。也可透過遊戲內介面編輯（在 Fabric 和 Quilt 上使用 [Mod Menu](https://modrinth.com/mod/modmenu)）。\n\n### 預設設定檔\n```json\n{\n  \"version\": 1,\n  \"wither_rose\": false,\n  \"use_tall_flower_behavior\": false\n}\n```\n\n### 設定選項說明\n- `wither_rose`：設為 true 時，允許散播凋零玫瑰。\n- `use_tall_flower_behavior`：先前此模組會讓對小型花朵使用骨粉時，像對高莖花朵一樣生成小型花朵物品。設為 true 時，此設定會用此機制取代基岩版機制。[YouTube 影片示範](https://youtu.be/SebkrRJZ-GU)\n\n---\n\n在 [GitHub](https://github.com/Trikzon/flourish/issues) 上回報任何問題。於 [Discord](https://discord.gg/aUwZKagWh2) 的 `#flourish` 頻道中聊天討論。\n\n在 [Ko-fi](https://ko-fi.com/X7X8D56YI) 上支持我的模組開發。\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X8D56YI)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

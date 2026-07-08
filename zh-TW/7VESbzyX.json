@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9AA4+EqxM70=",
+  "content": "這是一個非常簡單的模組，讓你可以使用帶有絲綢之觸的鎬子採集生怪磚，然後隨意放置它們。它同樣適用於試煉生怪磚。\n\n掉落機率可以在首次使用此模組啟動 Minecraft 時生成的配置文件中修改，該模組也支援 Mod Menu (Fabric) 來查看和調整這個數值，範圍從 0.0 (永遠不掉落) 到 1.0 (總是掉落)。\n\n伺服器端可用。需要 Fabric API (Fabric 版本) (Forge 版本沒有任何依賴)。\n\n原始碼位於：https://github.com/katanya04/mine-spawners\nForge 版本的原始碼位於：https://github.com/katanya04/mine-spawners-forge",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

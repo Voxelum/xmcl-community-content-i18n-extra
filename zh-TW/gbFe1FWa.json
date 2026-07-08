@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yVNHgQ8AJng=",
+  "content": "<div align=\"center\">\n  <h1>可重生寵物</h1>\n  <a href=\"https://modrinth.com/mod/strawberrylib\"><img src=\"https://github.com/ContentSMP/Badges/raw/refs/heads/main/strawberrylib/cozy_vector.svg\"></a>\n  <a href=\"https://discord.gg/Am6M8VQ\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/social/discord-singular_vector.svg\"></a>\n  <a href=\"https://ko-fi.com/moriyashiine\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/donate/kofi-singular_vector.svg\"></a>\n  <h3>透過新物品「以太寶石」，讓你的寵物在死亡後於你下次睡覺時重生。</h3>\n</div>\n\n切換重生狀態的方法是與寵物互動【使用物品/放置方塊】。你也可以潛行使用以太寶石，將9x3x9區域內的多隻寵物設為可重生。以太寶石僅對你擁有的寵物有效，且排除在`respawnablepets:cannot_respawn`標籤內的實體。\n\n**合成配方**\n\n![配方](https://github.com/MoriyaShiine/respawnable-pets/blob/main/.webassets/recipe.png?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

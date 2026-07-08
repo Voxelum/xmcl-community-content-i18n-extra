@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uosNkWVPVfY=",
+  "content": "## О\nФабричный порт оригинального мода от [Krei](https://modrinth.com/user/Krei).\n\nДобавляет возможность блокировать состояние труб для жидкостей, аналогично заключённым трубам. Добавлен пункт «Пондер» для труб с жидкостями, который предоставит дополнительную информацию.\n\n## Примечание\n- Поддержка [Create: Copycats+](https://modrinth.com/mod/copycats) удалена, поскольку Copycats+ недоступен в новых версиях для Fabric. Однако вы всё равно можете поиграть с ним.\n\n## Известные проблемы\n- Существует вероятность, что пункт «Пондер» будет добавлен в начало списка. Я пока не уверен, почему это происходит, но уже занимаюсь этим вопросом.\n\n## Создавайте больше модов вместе с Krei\n- [Linked Remote](https://github.com/rekales/create-more-linked-remote)\n- [Parallel Pipes](https://github.com/rekales/create-more-parallel-pipes)\n- [Трубные бомбы в упаковках](https://github.com/rekales//create-more-package-pipebomb)\n- Электрический насос (в разработке)\n- Картонные самолёты (в разработке)\n\n## Посмотрите также\n- [Create: Redstone Additions](https://modrinth.com/mod/create-redstone-additions)\n\n**Особая благодарность Krei!!!**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,14 @@
+{
+  "bodyHash": "9+E46Mfbg6k=",
+  "content": {
+    "error": {
+      "message": "You exceeded your current requests list.",
+      "type": "limit_requests",
+      "param": null,
+      "code": "limit_requests"
+    },
+    "request_id": "050a4ee8-c107-9162-9986-ad56592a2956"
+  },
+  "contentType": "text/html",
+  "type": "curseforge"
+}

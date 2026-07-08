@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NCdoEt90r7E=",
+  "content": "# Медиаплеер\n\n## Библиотека декодирования для Minecraft, основанная на [ffmpeg](https://ffmpeg.org/).\n\n### Особенности:\n\n* Видео- и аудиодекодер\n* Аппаратное ускорение\n* Поддержка множества медиаформатов\n* Поддерживается только платформа Windows x64\n\n### Как использовать:\n\n#### Для пользователя\n\nИспользуйте команды\n\n```\n/summon mediaplayer:video\n/mediaplayer video\n```\n\nдля воспроизведения видео.<br><br>\nИли используйте\n\n```\n/mediaplayer audio\n```\n\nдля воспроизведения аудио.<br><br>\nЧтобы остановить все видео и аудио, выполните:\n\n```\n/mediaplayer clear\n```\n\n#### Для разработчика\n\nСоздайте декодер:\n\n```java\nvar file = new File(\"<путь к видеофайлу>\");\nvar decoder = VideoDecoder.create(file);\n```\n\nДекодируйте и отобразите кадр:\n\n```java\ndecoder.fetch();\nbufferSource.getBuffer(VideoRenderType.create(decoder.frame));\n/* Код для рендеринга */\n```\n\nВоспроизведите сопутствующий звук из видео:\n\n```java\nMinecraft.getInstance().getSoundManager().play(new AudioInstance(decoder.audio.decode(false), null));\n```\n\nВоспроизведите независимый звук:\n\n```java\nMinecraft.getInstance().getSoundManager().play(new AudioInstance(new AudioDecoder.decode(false), null));\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

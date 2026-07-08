@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jhm2iA3HaNA=",
+  "content": "![TaCZ BB 專案橫幅](https://cdn.modrinth.com/data/cached_images/9cf8ea659705083bfa02d54365f67764db8daf55.png)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/k2Np6Gll-po\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n這是一個高度可自訂的模組，使用 TaCZ Unidict 來加入當使用槍枝擊殺生物時掉落子彈的機制。適用於 Forge 1.20.1。\n\n當你射擊某個東西時，它會掉出你正在使用的槍枝的子彈，並且有機會也掉出其他槍枝的子彈。設定檔內容相當詳細，應該會說明每個設定的作用。\n\n老實說，除非個人興趣，否則不太可能繼續維護此模組，因此請遵守授權條款，但歡迎自行分支並繼續開發。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

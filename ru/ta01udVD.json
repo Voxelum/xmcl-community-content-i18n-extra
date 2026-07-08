@@ -1,0 +1,6 @@
+{
+  "bodyHash": "09832b6a9b743cb5",
+  "content": "\n\nАддон для взаимодействия [**Hexcasting**](https://modrinth.com/mod/hex-casting) и [**Valkyrien Skies**](https://modrinth.com/mod/valkyrien-skies). Благодаря этому дополнению хеккастеры смогут получать информацию о кораблях и управлять ими. Для этого также реализованы другие функции взаимодействия с дополнительными модами для Hexcasting, перечисленными ниже.\n\nПолный список паттернов и заклинаний смотрите в Вики!\n\n**Этот мод изначально был создан walksanator, который передал проект мне.**\n\n### Дополнительное взаимодействие:\n- [**ComplexHex**](https://modrinth.com/mod/complex-hex)\n  - Предоставляет типы Long и Quaternions для получения расширенной информации о кораблях\n- [**Hexal**](https://modrinth.com/mod/hexal/)\n  - Искорки могут по желанию входить на верфь или покидать её\n- [**Hexical**](https://modrinth.com/mod/hexical)\n  - Заклинание **Assemble** может принимать сущность сетки (Mesh Entity)\n- [**Hexodus**](https://modrinth.com/mod/hexodus)\n  - Все паттерны и заклинания могут принимать корабль вместо обычной сущности\n- [**MoreIotas**](https://modrinth.com/mod/moreiotas/)\n  - Предоставляет типы Strings и Matrices для получения расширенной информации о кораблях",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

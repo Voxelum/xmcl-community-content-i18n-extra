@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CjEaCCQLaOc=",
+  "content": "這是一個需要玩家自訂內容的函式庫模組。\n\n它允許玩家使用簡單的 JSON 語法，來變更或覆寫其他模組中寫死的文字內容，以協助翻譯人員進行翻譯工作。\n\n而且你不需要擔心執行效率或效能損失。這個模組使用 ASM 進行高效的類別替換，而且快取只會在目標模組更新後才會重新更新替換的類別，因此對現代電腦的影響不大。\n\n1.4.2 以上版本支援對模組程式碼進行位元組碼修改。\n\n關於檔案配置的撰寫與具體運作原理，請參閱 [Wiki](https://github.com/3093FengMing/VaultPatcher/wiki)。\n\n如果在配置撰寫上遇到困難，歡迎加入我們的 [Discord](https://discord.gg/MCMCJ9ynuy) 或 QQ(227323572)。\n\nGithub: [VaultPatcher](https://github.com/3093FengMing/VaultPatcher)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

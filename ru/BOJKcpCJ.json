@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kNb+nEdjaR0=",
+  "content": "![иконка](https://cdn.modrinth.com/data/cached_images/ca235cb555cf1550995ee223223e5c532ce586cf.png)<br>\n**[TweakerMore](https://github.com/Fallen-Breath/tweakermore) — неофициальный (NeoForge) порт.**\n\nЭтот мод требует [MaFgLib](https://modrinth.com/mod/mafglib) и [Mixin Args](https://www.curseforge.com/minecraft/mc-mods/mixin-args) (при версии Minecraft ниже 1.20).\n\nОсобенности (описание взято из оригинального проекта):  \nКоллекция клиентских наборов настроек для улучшения вашего игрового опыта в Minecraft. По умолчанию всё отключено, так что вам не нужно беспокоиться о том, что игра станет «нестандартной», прежде чем вы включите какие-либо твиксы.  \nПосмотрите [здесь](https://github.com/Fallen-Breath/tweakermore/tree/master/docs), чтобы ознакомиться с документацией обо всех доступных опциях.\n\n**Советы: некоторые твиксы, связанные с другими модами, нельзя включить в этом моде, так как некоторые из них поддерживают только Fabric-порт.**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

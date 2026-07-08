@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QoSGheEVKi4=",
+  "content": "# ProjectE：Malum 的 EMC 支援\n\n在遊玩 [Malum](https://www.curseforge.com/minecraft/mc-mods/malum) 時搭配 [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) 會發現，Mod 中的所有靈體與奧術材料皆無 EMC 值。這個純數據附加元件正好解決這個問題。\n\n- **賦予關鍵資源 EMC 值**——包含九種採集而來的靈體、靈魂石／冥金／光輝礦石，以及符文木／靈魂木材。\n- **轉譯 Malum 自訂配方**——靈體灌注、靈體聚焦、符文工藝、虛空恩惠等機制皆轉換為 ProjectE 的等價交換，連同靈體消耗一併計入。因此灌注材料、符文與加工物品**會自動獲得 EMC 值**，不再對 ProjectE 隱形。\n- **有狀態的裝備不賦予 EMC（此為設計原則）**：法杖、鐮刀、魂鋼工具與護甲、靈體罐及飾品皆帶有耐久度或儲存的靈體／充能狀態；碎裂的「斷裂」狀態也一併排除。\n\n本附加元件不新增任何物品、方塊或合成配方——僅提供 EMC 數據。世界載入時即套用數值；開啟轉化桌即可查看。\n\n**依賴環境**\n\n- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) — 必要\n- [Malum](https://www.curseforge.com/minecraft/mc-mods/malum) — 必要\n- NeoForge 1.21.1\n\n終局階段的靈魂綁定配方（會產出有狀態的 artifacts）與節點冶煉標籤輸出，刻意不賦予 EMC 值。EMC 數值為初步考量版本；歡迎在問題追蹤器提供平衡性回饋。\n\nMIT 授權。Malum 由 Sammy Semicolon 製作；ProjectE 由 sinkillerj 與貢獻者維護。此為獨立整合，與上述兩者無關。原始碼與問題回報請見：https://github.com/KURONAMI333/malum-emc",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

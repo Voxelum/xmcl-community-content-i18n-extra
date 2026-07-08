@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZQqrAhGo8zo=",
+  "content": "![當你走遠時，帶有忠誠 III 附魔的工具箱會自動返回](https://cdn.modrinth.com/data/cached_images/02091f95454d701a1607de6ba9d491ab163a251d.gif)\n## 概述\n<a href=\"https://github.com/Peatral/Create-Toolbox-Utils/blob/master/LICENSE\"><img src=\"https://img.shields.io/github/license/Peatral/Create-Toolbox-Utils?style=flat&color=900c3f\" alt=\"授權條款\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/create-toolbox-utils\"><img src=\"http://cf.way2muchnoise.eu/1224595.svg\" alt=\"CurseForge\"></a>\n<a href=\"https://modrinth.com/mod/create-toolbox-utils\"><img src=\"https://img.shields.io/modrinth/dt/create-toolbox-utils?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c\" alt=\"Modrinth\"></a>\n<br>\n<br>\n你是否曾想要一個沉默的夥伴？一個可以陪伴你的無生命物體？\n\n現在你可以實現這個願望！這個針對知名模組 Create 的簡易擴充，讓你能夠為工具箱附上忠誠附魔，讓它對你忠誠不已，甚至比那些早在 Create 首次發佈時就離你而去的朋友們還要忠誠。\n\n除了在你遺落工具箱時自動將其收回背包外，其他玩家也無法透過快捷鍵存取你的工具箱，這樣就不會混淆你的小夥伴們，也不會意外偷走其他玩家的裝備。\n\n當然，這並不阻止其他人撿起你的工具箱並據為己有！\n\n如果 JEI 沒有顯示忠誠附魔能與工具箱相容，請不用擔心——相信我，它確實相容。\n\n## 忠誠效果\n工具箱的主人始終由在世界上放置它的人決定。如果有人撿起它並重新放置，主人就會改變！\n\n- **等級 I：** 防止其他玩家使用工具箱快捷鍵時看到你的工具箱\n- **等級 II：** 當你離開可存取工具箱的範圍時，它會自動返回你的背包\n- **等級 III：** 工具箱返回時，綁定的物品會自動放回工具箱中——此功能可能為可選設定",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

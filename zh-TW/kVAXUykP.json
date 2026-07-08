@@ -1,0 +1,6 @@
+{
+  "bodyHash": "T210DuIDqR4=",
+  "content": "直截了當，純粹的 ASM（SpASM）\n\n允許註冊類別轉換器來處理所有類別，無需像 FabricASM 那樣指定類別名稱。\n\n進入點 - `spasm:transformer`\n\n介面 - `net.mine_diver.spasm.api.transform.ClassTransformer`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

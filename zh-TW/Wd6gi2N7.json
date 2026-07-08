@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vnvY8qg0IhY=",
+  "content": "# 我感覺糟透了\n\n![banner](https://cdn.modrinth.com/data/cached_images/52d60bcdff8f181f6ccded882fdf8083be82e5ce.png)\n\n[zh_CN](https://github.com/inkbottle-9/mc_mod__i_feel_bad/blob/main/documents/README__zh_CN.md)\n\n## 1. 摘要\n\n- 一個輕量級且高度可設定的 Minecraft Mod，用於調整**死亡懲罰**、升級**經驗需求**以及新生成實體的預設屬性\n- mod id = `i_feel_bad`\n- **授權條款** = `GNU Lesser General Public License v3.0`\n\n## 2. 介紹\n\n- `i_feel_bad` 引入了以下調整：\n  - 強化死亡懲罰\n    - 重新平衡的重生狀態：\n      - 死亡後，玩家屬性會重新計算，使復活成為真正的挫敗，而非原版的「免費補滿」飽食度和生命值（特別是在啟用 `keep_inventory` 時）。\n    - 重生後的負面效果：\n      - 玩家重生時會帶有持續一定時間的負面狀態效果（時長可設定），迫使玩家更加謹慎行動。\n  - 額外調整\n    - 經驗值重製：\n      - 可選擇將 Minecraft 的指數等級曲線替換為線性或平緩進展。\n    - 生物屬性編輯：\n      - 讓你能在生物生成時調整其基礎屬性，實現精細的增強或削弱。\n- 每個功能皆可獨立開關，並附帶廣泛的設定選項；關閉任何不需要的功能——不會產生副作用。\n\n## 3. 伺服器或用戶端\n\n- 這是一個純伺服器端模組\n- 若在專用伺服器上使用，用戶端不需要安裝此模組\n- 也支援單人遊戲或區域網路連線\n\n## 4. 設定\n\n- [更多詳情，請前往 GitHub 頁面](https://github.com/inkbottle-9/mc_mod__i_feel_bad)\n\n## 5. 備註\n\n- 由於某些技術原因，此模組的 `fabric` 版本：\n  - 不支援設定檔的熱重載（即遊戲運行中更新）；任何變更需要重新啟動才能生效\n  - 不會在設定檔內生成註解\n  - 不驗證設定檔；無效的輸入可能導致崩潰或其他問題\n  - Fabric 移植版是後來加入的，因此可能存在其他問題\n- 如果你對功能實現有任何建議，或需要其他功能，可以提出 issue",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

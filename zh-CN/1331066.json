@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aUH12wWv2n4=",
+  "content": "<h1>关于：</h1><p>修复材质和物体边缘的锯齿问题。旨在平滑视觉瑕疵，提供两种模式：FXAA和TAA。第一种模式速度更快，第二种模式效果更精确。同时支持远距离地平线渲染。</p><h3>示例1：关闭/开启效果</h3><p><img src=\"https://cdn.modrinth.com/data/cached_images/f509678fe1b7bb7075e0024e0ddff5afeccfa61b.gif\" alt=\"GIF\"></p><h4>关闭时图像会出现波纹状抖动，开启后视觉瑕疵消失。</h4><h3>示例2：</h3><p><img src=\"https://cdn.modrinth.com/data/HPkbgOtW/images/2e33ecdf9ec4f609a89b574dbbdceb0d44c433d9.webp\" alt=\"对比效果\"></p><h2>常见问题：</h2><p>与其他项目有何不同？</p><ul>\n<li>全版本支持雾效，采用新型FXAA技术，性能优于TAA项目。</li>\n</ul><p>FXAA和TAA的区别是什么？</p><ul>\n<li>FXAA是快速的后处理滤镜，通过模糊锐利边缘实现抗锯齿；TAA则利用前后帧数据生成更平滑的图像，尤其在动态场景中表现更佳。</li>\n</ul><h6>部分代码（特别是TAA实现）借鉴自TAA项目，因此采用MPL-2.0许可证。</h6>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

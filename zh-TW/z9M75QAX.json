@@ -1,0 +1,6 @@
+{
+  "bodyHash": "P6+vtuguqo4=",
+  "content": "## 新增一個合成配方，使用1份染料即可為8份羊毛/地毯染色，與其他多數染色配方一致。\n\n### 注意事項：\n此資料包會新增配方，若移除本資料包，將在控制台中出現關於遺失配方的警告訊息。這不會對您的遊戲世界或存檔資料造成危害。\n\n### 使用模組版本時的安裝資訊：\n功能上與資料包完全相同，但會套用至所有開啟此模組的遊戲世界。若不想讓所有世界都受影響，請改用資料包版本。\n\n**Forge**：\n<br>無需額外依賴，僅需將模組放入mods資料夾\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 是曾被提議加入 Purpur 的功能（或符合 Purpur 主題），但後來決定以資料包形式呈現會更合適！\n<br>這些資料包的功能等同於 Purpur 中的單一設定選項。您可隨時新增或移除，不會對伺服器造成損害。\n<br>這些資料包可在原版環境中使用，無需執行 Purpur 即可運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

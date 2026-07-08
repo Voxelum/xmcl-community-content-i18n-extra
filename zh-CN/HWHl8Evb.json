@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WrCtATXk5o4=",
+  "content": "前身为 mGui。\n\n包含：\n * 简易数据管理\n * 网络工具\n * 支持动画的分层 UI 渲染，基于锚点的布局系统\n * 特权查询\n主要用于 tetra。\n\n## 特权\nmutil 在 Minecraft 1.19+ 版本中提供了一个特权系统，tetra（以及未来可能的其他模组）使用该系统为贡献者和支持者提供装饰性内容。该系统在客户端启动时会查询外部服务器，以确定玩家是否拥有任何特权。查询包括玩家 UUID，并使用 SSL 确保安全性。\n\n可以通过将 mutil-client.toml 中的 query_perks 配置选项设置为 false 来禁用此功能。由于配置文件在启动时生成，我已准备好此配置文件，您可以将其放置在配置文件夹中，以避免 mutil 在首次启动时执行特权查询。\n\n## 联系\n如果您有任何问题，或者对如何改进此模组有建议，请随时通过 Discord 联系我。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DKNdaHoOWt4=",
+  "content": "# Переключатель элитры\n\nПереключайте элитру и ракеты для каждого измерения. Настройте с помощью команды /elytra-toggle.\n\n### Основное использование:\n\n`/elytra-toggle help`\n\nзапускает команду помощи\n\n`/elytra-toggle levels`\n\nполучает все допустимые уровни и их состояние.\n\n`/elytra-toggle elytra {true/false} \"имя:измерение\"`\n\nвключает/отключает элитру для уровня.\n\n`/elytra-toggle rocket {true/false} \"имя:измерение\"`\n\nвключает/отключает ракеты для уровня.\n\n### Пример:\n\n`/elytra-toggle levels`\n\n```\nУровни:\nminecraft:overworld\nminecraft:the_nether — ракеты отключены\nminecraft:the_end — элитра отключена\n```\n\n`/elytra-toggle elytra false \"minecraft:overworld\"`\n\n`/elytra-toggle rocket true \"minecraft:the_nether\"`\n\n`/elytra-toggle elytra true \"minecraft:the_end\"`\n\n`/elytra-toggle rocket false \"minecraft:the_end\"`\n\n`/elytra-toggle levels`\n\n```\nУровни:\nminecraft:overworld — элитра отключена\nminecraft:the_nether\nminecraft:the_end — ракеты отключены\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Hxk90TmL92g=",
+  "content": "# Набор инструментов Rubidium\n\n## ЧТО ЭТО ТАКОЕ?\nRubidium Toolkit — это форк Magnesium/Rubidium Extras и Dynamic Lights Reforged, в котором добавлена поддержка локализационных ключей, а также удалены некоторые функции (Безграничный полноэкранный режим, Фильтрация сущностей, Плавное постепенное отображение чанков, Конфигурируемая высота облаков).\n\n## Особенности\n\n- Увеличение масштаба\n- Расстояние до сущностей\n- Динамическое освещение (функция динамического освещения от Magnesium)\n- Отображение FPS (удалено в mc1.16.5-v1.0.4)\n- Истинная темнота (удалено в mc1.16.5-v1.0.4)\n\n## Лицензия\n[Magnesium/Rubidium Extras](https://github.com/TeamDeusVult/MagnesiumExtras) -> LGPL\n\n[Dynamic Lights Reforged](https://github.com/TeamDeusVult/DynamicLightsReforged) -> MIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

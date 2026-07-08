@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YbidCyKU0R0=",
+  "content": "## 可自訂玩家模型\n使用內建編輯器創建專屬角色外觀。\n![在編輯器中製作帽子](https://media.forgecdn.net/attachments/337/167/2021-01-30_12.png)\n模型資料儲存在你的 Minecraft 皮膚未使用的空間中，或作為 GitHub 上的 Gist。  \n將匯出的圖片檔案上傳為你的皮膚，即可載入自訂模型。  \n在[模型網站](https://cpmmodels.tom5454.com/)上瀏覽已上傳的模型。  \n\n附加部件可擁有自訂紋理，也能使用更高解析度的皮膚（Steve 皮膚來自 [Soartex Fanver - Vanilla](https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-vanilla)）  \n普通玩家模型的部件可以被隱藏或移動位置。\n![範例](https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/examples.png)\n你甚至能讓皮膚的部分區域像螢光魷魚一樣「發光」。\n![發光效果](https://media.forgecdn.net/attachments/337/173/2021-01-30_12.png)\n用於 Bukkit/Spigot 伺服器以在遊戲內更換皮膚的插件（非必要）：[https://github.com/tom5454/CustomPlayerModels/releases](https://github.com/tom5454/CustomPlayerModels/releases)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PyJ6CFm+Yxg=",
+  "content": "# MineCollapse\n\nMineCollapse 是從 [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft) 獨立移植的岩石坍塌與山體滑坡機制。  \n由於 TerraFirmaCraft 是一個全面改造遊戲的模組，改變了遊戲的許多方面，因此與其他模組整合較為困難。  \n相較之下，MineCollapse 由於功能範圍較為有限，更容易整合，並且能與 [Geolosys](https://www.curseforge.com/minecraft/mc-mods/geolosys) 這類模組良好搭配。  \n您可以參考 [TFC 實地指南](https://terrafirmacraft.github.io/Field-Guide/en_us/mechanics/support_beams.html) 了解更多關於坍塌機制的資訊，  \n或觀看 [相關的 YouTube 影片](https://www.youtube.com/watch?v=1KgwEexxGNI)。\n\n\n## 授權條款\n\n除另有註明外，本專案採用 EUPL 版本 1.2 授權條款。  \n您可於下列網址取得授權條款副本：  \nhttps://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12\n\n- 音效除另有註明外，採用 [CC0](https://creativecommons.org/publicdomain/zero/1.0/) 授權。\n- `rock_slide_long_3` 採用 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 授權，並已根據[原始作品](https://freesound.org/people/Benboncan/sounds/60085/)進行修改。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

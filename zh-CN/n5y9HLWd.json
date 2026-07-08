@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8ZI8a21B9es=",
+  "content": "这个模组通过清除GPU缓存来解决部分渲染问题。\n\n尤其在手机端使用zink渲染器时出现的一些渲染错误。\n\n类似这样的：\n\n![安装模组前的图像](https://cdn.modrinth.com/data/cached_images/c2a1f6686e850881c8c04902d08dd2aa52b1d88e.png)\n\n使用本模组后修复了该问题：\n\n![安装模组后的图像](https://cdn.modrinth.com/data/cached_images/1af497f7b8b8349625158db1e63521f7dbcad0b4.png)\n\n本模组灵感来源于OptiFine的\"平滑FPS\"功能，能达到相同效果，但不会产生OptiFine导致的模组兼容性问题。\n\n另外，使用本模组可能会导致帧率轻微下降。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "I/JmtNhs5vA=",
+  "content": "# HMI x VPB 兼容性补丁\n\n一个轻量级补丁模组，用于修复 **Hold My Items** 与 **Vic's Point Blank (VPB)** 之间的渲染冲突。\n\n> **注意：** 本版本专为 **Minecraft 1.21.11** 制作。虽然目前暂无计划支持其他版本，但源代码已上传，欢迎任何人自行移植。\n\n---\n\n### 概述\n当两个模组同时启用时，Hold My Items 会覆盖第一人称渲染管线，导致 Vic's Point Blank 的枪械无法显示自定义动画，并破坏机瞄（Aim Down Sights）功能。\n\n本补丁通过以下方式修复该问题：\n* **检测** 玩家是否手持 VPB 武器。\n* **绕过** 这些特定物品的 HMI 动画系统。\n* **恢复** VPB 的原生动画与瞄准机制。\n* **保留** 其他所有物品的 HMI 动画效果。\n\n---\n\n### 项目详情\n* **平台：** Fabric\n* **侧：** 仅客户端\n* **需求：**\n    * Minecraft 1.21.11\n    * Fabric Loader >= v1.18.6\n    * Hold My Items >= v5.1\n    * Vic's Point Blank >= v2.0\n\n---\n\n### 关于本模组\n我最初制作这个补丁是为了解决个人模组体验中的问题。现在决定将其分享出来，帮助遇到同样冲突的玩家。\n\n这是我在 Modrinth 上传的第一个模组！未来我计划发布更多作品，可能包括个人使用的小模组和/或兼容性补丁。\n\n---\n\n### 安装方法\n1. 确保已安装 **Fabric Loader**。\n2. 将本 `.jar` 文件放入 `mods` 文件夹，同时放好 **Hold My Items** 和 **Vic's Point Blank**。\n3. 无需额外配置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

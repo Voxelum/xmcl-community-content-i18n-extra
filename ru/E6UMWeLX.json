@@ -1,0 +1,6 @@
+{
+  "bodyHash": "74QkQ1SEIHc=",
+  "content": "Этот пакет ресурсов является мостом совместимости, который объединяет движения игрока из Fresh Animations с логикой анимированных глаз из Just Expressions.\n\nСледуйте инструкциям на официальном вики-ресурсе Just Expressions [wiki](https://github.com/IthanMendoza/Fresh-Moves/wiki), чтобы добавить анимированные глаза к вашему скину.\n\n## Требования\nДля правильной работы этот пакет требует тех же зависимостей, что и оригиналы:\n- Entity Model Features (EMF)\n- Entity Texture Features (ETF)\n- Fresh Animations: Player Extension (базовые анимации).\n\n## Порядок установки\nВ меню Пакетов ресурсов убедитесь, что порядок выглядит следующим образом (сверху вниз):\n1. Этот пакет совместимости (наивысший приоритет)\n2. Fresh Animations: Player Extension\n3. Just Expressions (необязательно, для текстур)\n\n## Кредиты\n- Frash Animations от [FrashLX](https://modrinth.com/user/FreshLX)\n- Just Expressions от [IthanMendoza](https://modrinth.com/user/IthanMendoza)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

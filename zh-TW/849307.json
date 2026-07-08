@@ -1,0 +1,6 @@
+{
+  "bodyHash": "E+Wd0Ybiddo=",
+  "content": "<h2>管理員權限模組</h2><h3>管理員權限模組讓你在生存模式 Minecraft 中獲得 OP 權限</h3><p><strong>這個模組是做什麼的？</strong></p><p>一旦你擊敗終界龍，你的權限等級就會從 0 提升到 2（能使用所有指令，除了伺服器管理指令）</p><p><strong>我該如何獲得 OP？</strong></p><p>使用新版本：</p><p>你需要擊敗終界龍（獲得「解放終界」進度）</p><p>使用舊版本時，你需要製作管理員權限物品，其合成配方為：</p><ul>\n<li>附魔金蘋果 x1</li>\n<li>金蘋果 x1</li>\n<li>終界水晶 x1</li>\n<li>龍蛋 x1</li>\n<li>不死圖騰 x1</li>\n<li>黑曜石 x1</li>\n<li>海靈核心 x1</li>\n<li>鞘翅 x1</li>\n<li>烽火台 x1</li>\n</ul><p><strong>為什麼我需要這個模組？</strong></p><p>如果你想先體驗生存模式，通關後再使用作弊指令來更輕鬆地建造東西</p><p><strong>停用 OP 指令</strong></p><p>這個指令可以讓你在不需要 OP 時自行移除權限</p><p><strong>注意事項：</strong></p><ol>\n<li>新版本是對第一版的重新編寫</li>\n<li>第一版已不再支援，不建議使用</li>\n<li>目前模組支援 1.21.8，但計劃新增對 1.21.1 的支援</li>\n<li>如果你需要其他版本而非目前已支援的版本，請在 GitHub 上提交請求</li>\n<li>Fabric 版本目前僅支援多人遊戲，單人遊戲在 Fabric 上不支援，但在 NeoForge 上支援</li>\n</ol><p>作者：juliankh6142</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

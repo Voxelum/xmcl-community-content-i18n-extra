@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ON107rP3hcs=",
+  "content": "# 内存泄漏修复\n\n### 一款修复Minecraft中多处内存泄漏的模组。支持服务端与客户端\n\n为获得最佳性能与内存使用效率，建议配合以下模组使用：\n\n- [锂-fabric](https://github.com/CaffeineMC/lithium-fabric) - 最佳通用性能优化模组\n- [铁氧体核心](https://github.com/malte0811/FerriteCore) - 内存使用优化\n\n## 我的其他优化/修复\n* [更多剔除](https://modrinth.com/mod/moreculling) - 优化方块状态剔除方式以提升性能\n* [地毯修复](https://modrinth.com/mod/carpet-fixes) - 最大的服务端漏洞修复模组\n* [Blanket](https://modrinth.com/mod/blanket) - 客户端调整/修复\n* [铁轨优化](https://modrinth.com/mod/rail-optimization) - 减少动力铁轨带来的卡顿\n\n## Minecraft 1.20.5+\n此前由MemoryLeakFix修复的所有内存泄漏问题已在最新版本中修复，因此本模组在未来游戏版本中将不再适用。\n\n## 更多信息\n\n欢迎为本项目贡献代码！  \n如果您希望在整合包中使用本模组，请注明出处。\n\n但未经许可，我不允许客户端或其他项目直接整合本模组。如需在您的客户端或其他项目中使用，请联系我。\n\n---",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

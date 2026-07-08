@@ -1,0 +1,6 @@
+{
+  "bodyHash": "chIGlEBfr9s=",
+  "content": "Позволяет создавать рецепты, блоки и предметы из [TFC](https://modrinth.com/mod/terrafirmacraft)\n\nПример:\n\n```js\nonEvent('recipes', event => {\n    event.recipes.tfc.bloomery('minecraft:oak_log', Fluid.of('tfc:metal/bismuth_bronze', 2), 'minecraft:bucket', 20)\n})\n```\n\nПолный список возможностей и инструкции по их использованию смотрите в [wiki](https://notenoughmail.github.io/kubejs_tfc/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

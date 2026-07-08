@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CnuSR+r2Zfs=",
+  "content": "# 發行警告\n此處與 [GitHub 儲存庫](https://github.com/shaweel/transformableitems) 是 **唯二的官方來源**。本模組永遠不會有官方的 CurseForge 頁面，因為其使用者介面使用起來非常痛苦，而且我個人並不喜歡 Overwolf 這間公司。儘管我所使用的 MIT 授權條款允許重新發佈，但我強烈建議您僅從這兩個來源下載 Transformable Items。如果您決定從其他來源下載，請格外小心，並檢查程式碼以確保其不包含惡意軟體，即使是在像 CurseForge 這樣會審查上傳模組的網站上也是如此。\n\n# Transformable Items\n讓您能夠移動和調整手持物品的大小，並可選擇停用物品高度動畫（切換物品或攻擊時，手持物品的上下移動）。\n\n## 版本支援\n我計劃支援 Fabric 1.14.1-最新版、Forge 1.6.4-最新版以及 NeoForge 1.20.1-最新版。我也可能根據 Mixin 的設置難度，實作對 Forge 1.5.2 的支援。\n目前，Transformable Items 在 Fabric 與 Quilt 1.14.1-26.2、Forge 1.12-26.2 以及 NeoForge 1.20.1-26.2 上穩定運行。\n\n## 安裝方式\n1. 安裝您選擇的模組載入器\n2. 為您的 Minecraft 版本與所選模組載入器下載對應的模組\n3. 將其移動到您的 `.minecraft/mods` 資料夾中\n4. 啟動遊戲\n\n## 設定\n您可以透過 Mod Menu（或在使用 Forge 時，透過內建的模組列表）開啟，或使用按鍵綁定（預設為 F7，可在控制項中設定）來開啟方便使用的手動設定介面。\n\n## 截圖\n<img width=\"1920\" height=\"1080\" alt=\"圖片\" src=\"https://cdn.modrinth.com/data/o1Irj1z4/images/ea2d57404d200e2396eaff822e04b6112185f934.png\" />\n<img width=\"1920\" height=\"1080\" alt=\"圖片\" src=\"https://cdn.modrinth.com/data/o1Irj1z4/images/878a59c65da41c09cfef475369f8560e38d2ed51.png\" />",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

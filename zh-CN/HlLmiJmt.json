@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZXfFZPeBLpY=",
+  "content": "**本模组是Enhanced Block Entities模组针对此前不受支持的模组加载器Neoforge的非官方分支版本。**\n\n原版模组链接：**[此处](https://github.com/FoundationGames/EnhancedBlockEntities)**。\n\n原作者链接：**[此处](https://modrinth.com/user/FoundationGames)**。\n\n**该模组采用更现代的方法，支持对方块实体渲染进行配置与优化。**\n\n本模组与Sodium模组兼容，Sodium模组下载地址：https://modrinth.com/mod/sodium/versions?l=neoforge\n<br/><br/>\n\n## 帧率提升效果\n渲染1700个箱子时：\n### 原版效果\n![优化前](https://github.com/FoundationGames/EnhancedBlockEntities/raw/116_indev/img/before.png)\n### 使用EBE后\n![优化后](https://github.com/FoundationGames/EnhancedBlockEntities/raw/116_indev/img/after.png) <br/>\n帧率提升达155%！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

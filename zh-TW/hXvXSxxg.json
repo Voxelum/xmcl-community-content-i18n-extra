@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EHuaHLZHuGw=",
+  "content": "# MobsBeGone 🐾🚫  \n\n**MobsBeGone** 是一款輕量級的 Fabric 模組，適用於 **Minecraft 1.21.1**，它能讓你完全禁止特定生物的生成。  \n\n由於現有的解決方案對小型專案來說太過複雜，因此這個模組以簡單和高效為設計核心。  \n\n## 🔧 運作原理  \n\n- 模組會讀取設定資料夾中的 `mobsbegone-blacklist.json` 檔案。  \n- 你可以在裡面列出想完全禁用的生物 ID（例如：`\"minecraft:creeper\"`）。  \n- 模組啟動時會解析檔案，並將黑名單儲存在快速的 O(1) 查詢表中。  \n- 當任何生物嘗試生成（自然生成、指令生成、結構生成等），模組會檢查它是否在黑名單上。  \n- 如果生物在黑名單上，它會被立即移除，且不會在視覺上生成。  \n\n這套邏輯設計安全，避免問題的方式是將黑名單生物標記為在下一個伺服器週期移除。  \n\n## 📂 設定範例  \n\n將此檔案放在：`config/mobsbegone-blacklist.json`（預設設定已包含所有現有的 Minecraft 生物）  \n\n```json\n[\n  \"minecraft:creeper\",\n  \"minecraft:enderman\",\n  \"anothermod:somebaka\"\n]\n```  \n就是這樣！這些生物將永遠不會在你的世界中出現。💣💥  \n\n你可以加入任何來自原版遊戲或其他模組的實體！  \n\n請注意，**列表的最後一項不應包含逗號！**  \n\n## ⚠️ 免責聲明  \n\n此模組**僅供現狀使用**。  \n\n你可以自由使用、修改、分叉，或是對它溫柔地咆哮。  \n沒有保證，沒有擔保——只有氛圍。✨  \n\n## ✨ 製作群  \n\n由 **Okaeri Game Studio** 💜 滿懷愛意製作  \n\n**作者：** Olivia、EasyMochi  \n\n---  \n\n享受一個沒有生物騷擾的寧靜世界吧！🌸",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

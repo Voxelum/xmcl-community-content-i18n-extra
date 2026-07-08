@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vq0HAp2ItQg=",
+  "content": "# AntiCracker\n\n此模組可防止在《Minecraft》速通中破解世界種子，避免玩家因提前推測世界種子而獲得不公平的優勢。\n\n<details>\n<summary>點此了解更多相關資訊</summary>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/9e_UfEyuEjE\" title=\"關於種子破解的更多資訊\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n</details>\n\n## *請務必閱讀所有內容！*\n## AntiCracker\n#### *一般版本*\n\n一個 Fabric 模組，透過使用 Minecraft 世界種子的雜湊值來打亂各種結構中寶箱的戰利品表種子，使基於戰利品表的種子破解演算法耗時過長而不可行。\n\n雖然此模組影響戰利品表的種子產生，但不會影響戰利品表本身，也不會影響 Minecraft 世界生成的其他方面。\n![僅寶箱戰利品會隨機化](https://cdn.modrinth.com/data/cached_images/445d5c080eb7ed74fe903a14cc12399b82403fdd_0.webp)\n\n## AntiCracker-S\n#### *進階版本*\n\n標準 AntiCracker Fabric 模組的更強力、更具入侵性的版本。\n\n打亂各種結構中寶箱的所有戰利品表種子，以及結構位置、結構佈局、結構裝飾、地物、世界洞穴和終界柱的生成。\n\n此版本有效停用了我所知的所有潛在種子破解方法，代價是未修改版與修改版 Minecraft 之間的一致性有限（世界生成中唯一不受影響的方面是生態域和地形）。\n![在困難版本中，結構也會被隨機化](https://cdn.modrinth.com/data/cached_images/2ee284bef78b9582535bf97efe59af2d61935b10_0.webp)\n\n# 製作人員\n- Kris | 創作者 / 程式設計師\n- debianer | 維護 Modrinth 頁面",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

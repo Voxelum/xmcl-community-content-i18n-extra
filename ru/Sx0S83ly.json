@@ -1,0 +1,6 @@
+{
+  "bodyHash": "M53BJ+nWK+A=",
+  "content": "Мод для сервера Fabric, который ведёт логирование использования команд Minecraft и отправляет их на настраиваемый webhook Discord. \n# Использование\nПосле запуска файл конфигурации помещается в папку config; отредактируйте URL-адрес webhook в формате JSON, чтобы он соответствовал URL-адресу webhook.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

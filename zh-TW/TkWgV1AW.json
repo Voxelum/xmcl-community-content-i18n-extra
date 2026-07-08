@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1pNPlLp33g=",
+  "content": "# 棄用通知\n\n對於 **1.21.1 及以上版本**，此模組已被新的 [**飾品相容層**](https://modrinth.com/mod/accessories-compat-layer) 取代，功能完全相同，**僅需同時安裝 Curios 與新模組**！\n\n# 飾品配件 Trinkets 相容層\n\n此模組作為使用 [Trinkets API](https://modrinth.com/mod/trinkets) 的模組與 [飾品系統](https://modrinth.com/project/accessories) 生態之間的相容層。\n\n**請勿安裝 Trinkets，此模組扮演 Trinkets 的角色，作為其 API 的包裝器。**\n\n所有現有的 Trinkets 數據應轉移到飾品欄位中，若發生問題則會掉落至物品欄內。\n\n## Sinytra Connector：\n支援此架構時已考量其相容性，因此在使用 Sinytra 時無需安裝 Fabric 版本，僅提供 **NeoForge 版本** 的飾品模組即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

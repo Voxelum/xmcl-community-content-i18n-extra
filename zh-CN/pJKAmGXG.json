@@ -1,0 +1,6 @@
+{
+  "bodyHash": "azBxGjYRXBk=",
+  "content": "* 为KubeJS添加铁砧工艺兼容性，在安装KubeJS与本模组后，可使用以下格式添加铁砧工艺提供的配方\n* 添加铁砧工艺配方与KubeJS的兼容支持。安装KubeJS及本模组时，可通过以下格式添加铁砧工艺系统提供的配方\n```javascript\nServerEvents.recipes(event => {\n    event.recipes.anvilcraft.item_crush()\n        .requires(\"minecraft:iron_ingot\")\n        .result(\"minecraft:iron_nugget\", 3)\n})\n```\n* 更详细的使用方法请访问[铁砧工艺文档站](https://docs.anvilcraft.dev/kubejs/)查看\n* 具体使用指南可前往[铁砧工艺文档站点](https://docs.anvilcraft.dev/kubejs/)查阅",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

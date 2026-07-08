@@ -1,0 +1,6 @@
+{
+  "bodyHash": "J2Zb3Nm5Rxc=",
+  "content": "<p><strong>現已支援 Fabric 與 NeoForge！<br></strong><br>這個簡單的模組將苦力怕的爆炸替換成了更友好的版本。</p><h2>設定選項</h2>\n<ul>\n<li>傷害玩家 - 設為 true 時爆炸仍會對玩家造成傷害（不會破壞方塊）</li>\n<li>彩花機率 - 爆炸變成彩花的百分比機率，預設為 100%</li>\n<li>可自訂彩花顏色</li>\n<li>（1.19.2 以上版本）歡呼機率 - 彩花時播放歡呼聲的百分比機率，預設為 5%</li>\n</ul>\n<h2>常見問題</h2>\n<ul>\n<li><strong>可以在模組包中使用嗎？</strong> - 可以</li>\n<li><strong>這是不是原本的 vanilla tweaks 資料包，只是用模組形式而非資料包？</strong> - 這個模組比資料包早了四年問世。</li>\n<li><strong>有時彩花不會出現？</strong> - 這是舊版本的錯誤，不會再進行修復，敬請見諒。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e+xg6sqnx24=",
+  "content": "# Syncmatica 革命\n\n**[English]** | [中文](https://github.com/RMS-Server/syncmatica_r/blob/for-rms/README_CN.md)\n\n> **專案起源**：這是 [Syncmatica](https://github.com/End-Tech/syncmatica) 的一個修改分支版本，增強了協作功能，包括共享材料進度追蹤。\n\n## 主要新功能：共享材料進度追蹤\n\n**材料進度追蹤** 為協作建造提供了一個即時的材料協調系統：\n\n- **共享需求清單**：伺服器自動掃描藍圖所需材料，並即時同步給所有玩家\n- **認領系統**：玩家可以認領特定材料，避免重複收集\n- **儲物區掃描**：伺服器可以掃描已配置的容器區域，追蹤可用庫存\n- **即時 HUD 疊加層**：客戶端浮動視窗顯示材料進度，可自訂位置和樣式\n\n透過 `MaterialGatherings` 按鈕存取材料追蹤器，協調團隊資源收集。\n\n---\n\nSyncmatica_r 是一個旨在整合進 litematica 的模組，讓藍圖及其放置位置能夠輕鬆共享。\n\n> [!CAUTION]\n> Syncmatica_r 是一個賦予使用者強大功能的模組，可能對伺服器產生影響。僅在您確信使用者不會過度濫用此模組時才使用它。\n\n### 客戶端\n\n您首先需要安裝 Fabric，並將 litematica 和 malilib 模組加入您的客戶端。下一步是將 Syncmatica_r 模組檔案移至模組資料夾。現在您已準備就緒。\n\n### 伺服器\n\n對於伺服器，您只需要安裝 Fabric 並將 Syncmatica_r 放入模組資料夾，即可開始使用。\n\n執行模組一次後，它將建立一個配置檔案，您可以用來根據需要配置模組。詳情請參閱 [配置文件](https://github.com/RMS-Server/syncmatica_r/blob/master/CONFIG.md)。\n\n## 使用方式\n\n在客戶端安裝完成後，您可以正常加入任何伺服器。對於已安裝 Syncmatica_r 的伺服器，您將獲得一些額外按鈕的存取權限。其中兩個按鈕位於主選單中，讓您查看伺服器上共享的放置位置並下載它們。另一個按鈕位於您的藍圖放置總覽中，允許您將自己的 litematica 藍圖分享到伺服器。\n\n您需要與 syncmatic 藍圖處於相同維度才能載入它。\n\n若要修改放置位置，只需在客戶端解鎖一個放置位置。完成修改後再次鎖定，即可將變更分享給所有人。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

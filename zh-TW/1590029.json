@@ -1,0 +1,6 @@
+{
+  "bodyHash": "upRnIXDeK9w=",
+  "content": "<h1>自動條狀礦井</h1><p>適用於Minecraft（Fabric）的自動化條狀採礦模組。</p><h2>功能特色</h2><ul>\n<li>按住ctrl+shift 0.5秒切換條狀採礦模式</li>\n<li>自動挖掘方塊並向前移動</li>\n<li>熔岩偵測：當挖掘路徑中偵測到熔岩時自動停止</li>\n</ul><h2>系統需求</h2><ul>\n<li>Minecraft 26.1.2+</li>\n<li>Fabric Loader 0.19.3+</li>\n<li>Fabric API</li>\n</ul><h2>備註</h2><p>本模組仍在開發中，功能與設定<strong>將會</strong>有所變更</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

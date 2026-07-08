@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3gkoCo4ucTM=",
+  "content": "Roomopolis позволяет создавать пользовательские ключи через Kubejs для размещения шаблонов в мире. Ключи можно создавать в Kubejs.\n\n\n\nStartupEvents.registry('item', event => {\n    //Создайте пользовательский ключ-предмет следующим образом\n    event.create(\"test_key\", 'roomopolis_key')\n        //Укажите строковое расположение шаблона, который вы хотите спавнить; пример файла находится здесь: data/roomopolis/structures/tiny_room.nbt\n        .templateId(\"roomopolis:tiny_room\")\n        //Структура всегда размещается на один блок позади блока, на который нажал игрок; регулировка высоты позволяет настроить положение шаблона по высоте\n        .heightAdjustment(1)\n        //keyBlock является необязательным и не требуется; если здесь задан блок, ключи будут работать только на этом блоке\n        .keyBlock(\"minecraft:iron_block\")\n})\n\nDiscord\n\nПрисоединяйтесь к моему Discord ниже, чтобы получить дополнительную информацию, сообщить о багах или предложить функции, которые вы хотели бы видеть добавленными:\n\nhttps://discord.gg/benbenlaw\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

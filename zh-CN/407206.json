@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DVv/e4G6Drs=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/312/218/chat-heads.png\" alt=\"\" width=\"1022\" height=\"139\">这是一个客户端模组，用于在聊天消息旁显示玩家头像，如上图所示。<br>它能帮助你更轻松地区分聊天中的不同玩家，而且外观看起来非常棒。</p><p>&nbsp;</p><p>基于 Fabric Discord 上 Hugman 的请求制作。</p><p>&nbsp;</p><p>需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cloth-config\" rel=\"nofollow\">Cloth Config</a>（以及 Fabric 版 <a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" rel=\"nofollow\">Mod Menu</a>）才能访问设置界面，但模组本身在不安装这些依赖的情况下仍可使用默认设置运行。</p><p>&nbsp;</p><p><strong>注意</strong>：默认设置可能在某些服务器上无法正常工作。在这种情况下，请尝试使用\"仅启发式\"发送者检测模式。请注意，这可能会导致在某些消息上显示错误的聊天头像。</p><p>&nbsp;</p><p><strong>注意</strong>：与较新版本的 OptiFine（约 1.20.1 版本）不兼容，请改用 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252fwiki%252fcommunity%253aoptifine_alternatives\" rel=\"nofollow\">Sodium 及替代品</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

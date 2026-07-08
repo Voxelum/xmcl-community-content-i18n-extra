@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PFL+CdTPS1c=",
+  "content": "# 无缝加载界面\n\n无缝加载界面是一款模组，能让您在退出游戏时自动截取加载画面截图，并在重新进入游戏时显示该截图，从而实现从加载界面到游戏的无缝过渡。\n\n该模组支持加入单人世界、领域服和服务器，并提供丰富的配置选项，包括模糊、色调和截图分辨率等。\n\n## 配置\n\n借助[Yet Another Config Lib](https://modrinth.com/mod/yacl)配置库，无缝加载界面拥有简单易用的配置界面，您可在此调整每项功能的细节参数。\n\n![](https://cdn.modrinth.com/data/TyTPFOiF/images/bcbbfd91ff2138c5ad917876403cbd4146d26028.png)\n\n## 兼容性\n\n无缝加载界面默认与以下模组兼容：（此外，可能也适用于未在此列出的其他模组！）\n\n- Bedrockify\n- Fastquit\n- Fastload",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

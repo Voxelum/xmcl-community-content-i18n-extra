@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LSHQDuBbp5I=",
+  "content": "客户端音效增强 Fabric 模组。\n\n根据您当前的位置添加几种音效过滤器：\n- 洞穴和下界中的回响效果\n- 浸入水中或岩浆中时声音变得沉闷\n- 位于墙壁后方时声音变得更安静（尤其是羊毛或海绵材质）\n\n此模组需要 [Fabric Loader](https://fabricmc.net/use/installer/) 和 [Fabric API](https://modrinth.com/mod/fabric-api)。\n\n同时建议安装 [Mod Menu](https://modrinth.com/mod/modmenu) 以便在游戏中访问配置选项。\n\n简短展示视频：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mV0j4EIdLE8\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

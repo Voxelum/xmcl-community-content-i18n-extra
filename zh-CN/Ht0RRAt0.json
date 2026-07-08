@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hiL4RWQ53Bw=",
+  "content": "# 快速交易\n在村民交易界面添加了一个按钮，可以重复当前交易，直到交易不可用为止，这样你就可以在几秒钟内花掉所有的绿宝石！\n\n## 配置\n这个模组可以通过 Mod Menu 在游戏中进行配置，或者通过编辑 `config/fasttrading.json` 文件进行配置。\n\n### 配置选项\n- **ticksBetweenActions**: 两次操作之间的刻数（默认值：`1`，最小值：`0.025`）。\n- （v0.1.5+）**autofillBehavior**: 模组如何自动填充交易（默认值：`DEFAULT`，选项：`DEFAULT`，`STRICT`）。\n- **tradeBlockBehavior**: 何时阻止快速交易（默认值：`DAMAGEABLE`，选项：`DAMAGEABLE`，`UNSTACKABLE`，`DISABLED`）。\n\n这是 [SpeedTrading](https://github.com/ModsByLeo/SpeedTrading) 的一个更新分支，由 [ModsByLeo](https://github.com/ModsByLeo) 创建。全部功劳归功于他们。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

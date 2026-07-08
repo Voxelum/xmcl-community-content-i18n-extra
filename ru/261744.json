@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GoZHeiUyynU=",
+  "content": "<p><img src=\"https://i.imgur.com/alsZ34Y.png\" width=\"691\" height=\"230\"></p><p>Простая библиотека для использования моддерами</p><p>&nbsp;</p><p>Текущие функции</p><ul>\n<li>Пользовательская конная броня</li>\n<li>Пользовательские щиты</li>\n<li>TurboModelThingy</li>\n<li>Рецепты наковальни</li>\n<li>Графический кнопочный интерфейс GUI</li>\n<li>Имплементация слотов для брони</li>\n<li>Имплементация фальшивых/фильтрованных слотов</li>\n<li>Часто используемые BlockStates.</li>\n<li>Обёртка EnchantmentData. (Поддержка сериализации)</li>\n<li>Перечисление Milibucket (часто используемые константы для размера/количества)</li>\n<li>WeightedSelector (простая настройка систем с весами)</li>\n<li>Неучтённое свойство объекта для блоков. Позволяет, например, сделать World блоковым состоянием.</li>\n<li>BannerUtils</li>\n<li>BlockUtils</li>\n<li>ClassUtils</li>\n<li>CraftingUtils</li>\n<li>EnchantmentUtils</li>\n<li>ItemStackUtils</li>\n<li>ModUtils</li>\n<li>NBTUtils</li>\n<li>OreDictUtils</li>\n<li>PlayerUtils</li>\n<li>RenderUtils</li>\n<li>SkullUtils</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

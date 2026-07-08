@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rdA42Em1Ai4=",
+  "content": "这个模组可以检测玩家是否使用了自由视角（Freecam）模组，并将他们踢出服务器，直到他们移除该模组！\n\n目前已知无法检测到的自由视角模组有：\n\nhttps://modrinth.com/mod/freecammc\n\n以及 https://modrinth.com/mod/wi-freecam\n\n我们正在积极努力让这些模组变得可检测！\n\n警告！\n我们会收集匿名数据，以便确定哪些版本需要得到支持！\n如果您不希望这些数据发送给我们，可以在配置中选择退出。\n\n我们目前的路线图：\n\n- 开源\n- 让所有自由视角模组都可检测",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

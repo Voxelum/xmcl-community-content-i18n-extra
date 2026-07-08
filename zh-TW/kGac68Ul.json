@@ -1,0 +1,6 @@
+{
+  "bodyHash": "isyerhxcYlk=",
+  "content": "這是 CyvClient 1.8.9 跑酷功能的 Fabric 模組移植版，也是 MPKMod2 的替代方案。另有適用於 1.8.9 和 1.12.2 版本的 Forge 模組（已停止維護）。\n\nCyvFabric 是一款客戶端模組，專為強化技術性/理論性跑酷而設計。它完全不修改遊戲機制，可在多人伺服器上使用。本模組提供高精度小數位數的座標與玩家各角度即時螢幕標籤顯示，並內建個人最佳偏移記錄系統，方便重複練習相同跳躍技巧。\n\n此外，模組包含以遊戲刻（tick）為單位的按鍵記錄功能，便於分析與分享卡點操作，同時整合了切換疾跑（togglesprint）與方向顯示器（directionHUD）等便利功能。\n\n多數模組功能可透過基礎指令 `/mpk` 進行設定與操作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

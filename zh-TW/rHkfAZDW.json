@@ -1,0 +1,6 @@
+{
+  "bodyHash": "66Dff4qmBGU=",
+  "content": "這個資源包主要做兩件事：它將亮度滑桿的範圍從「昏暗」延伸到「全亮」，同時根據目前的亮度設定來提高絕對黑暗區域的亮度，以達到更一致的光照效果。現在你可以選擇最適合你的精確亮度！而且它能在原版遊戲中運作，不需要任何模組！（也支援 Sodium，但其他模組尚未測試過。）\n\n![新的預設亮度實際上比原版的最大亮度還要亮。](https://cdn.modrinth.com/data/rHkfAZDW/images/a89056e53ba1f510d0dfbb31413e8d87487f25a1.png)\n\n我之所以製作這個資源包不僅僅是單純的亮度滑桿延伸包，還會提升黑暗區域的亮度，是因為我想要一個可以用來錄製影片的原版資源包。如果只單純提高亮度，**午夜的地表**和**黑暗洞穴**之間仍然會有很大的亮度差異。以下是有無黑暗亮度提升的對比圖。如果你想要一個沒有這種黑暗亮度提升功能的類似資源包，可以試試 [Boosted Brightness by Bluebird](https://modrinth.com/resourcepack/boosted-brightness-rp)。\n\n![黑暗亮度提升效果的對比](https://cdn.modrinth.com/data/rHkfAZDW/images/bf38154b2e37a60a419eff7f275906fd4ab80ce7.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

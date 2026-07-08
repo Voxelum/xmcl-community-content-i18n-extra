@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FZ0gpCZ4FJ8=",
+  "content": "此模組為 Net Music 模組新增登入功能，可播放 VIP 歌曲。需安裝 Cloth Config API。\n\n目前登入功能尚未完全自動化，需手動複製您的 Cookie。步驟如下：\n\n1. 安裝 Cookie-Editor 瀏覽器擴充功能。\n2. 開啟網易雲音樂。\n3. 如下圖所示複製 Cookie：\n   ![如何複製](https://cdn.modrinth.com/data/cached_images/7b6530c4da5489110761d5e757ebb6da27ce79a2.webp)\n4. 開啟模組的設定畫面，將複製的 Header 字串貼上。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

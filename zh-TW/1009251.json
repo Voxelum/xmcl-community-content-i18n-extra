@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UTe4hSXhzP0=",
+  "content": "<h1 style=\"text-align:center\">罪孽之灰：自訂反陷阱籠子實體</h1><p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_d913cb0e-d099-4696-a291-edb7a70e51b7.png\"></p><p>設定檔會生成在&nbsp;<code>config\\ash_of_sin\\</code>&nbsp;目錄中。</p><p>此設定檔的名稱為 custom_anti_trap_cage_entity.toml。</p><p>以指定格式在設定檔中新增或修改實體後，周圍的「untamedwilds:trap_cage」方塊將會立即被破壞。</p><p>目前，類似生物黑名單的功能僅新增至 Untamed Wilds 模組的陷阱籠子中，以解決其內建黑名單無法生效的問題。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

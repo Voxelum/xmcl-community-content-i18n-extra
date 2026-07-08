@@ -1,0 +1,6 @@
+{
+  "bodyHash": "A0BoJva6pnM=",
+  "content": "這是一個模組，包含了 Corgi Taco 模組中使用的程式碼，包含以下實用功能：\n\n- 使用 Mojang 的編解碼器進行 `.json5` 配置序列化。附有註解的 JSON 檔案。\n\n- 附有註解的編解碼器。\n\n- 從 NBT 生成的樹木功能。\n\n- 混合/緩動函式編解碼器註冊系統，方便進行編解碼器配置序列化。\n\n- 實體篩選器。\n\n- 村民交易編解碼器註冊系統，方便進行編解碼器配置序列化。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

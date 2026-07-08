@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wOUZvt5wEXE=",
+  "content": "# Cristel Lib\n\nCristel Lib 是一款轻量级的库模组，可让您通过代码或数据轻松创建和管理结构配置。\n它以灵活性为核心，赋予玩家、整合包作者和开发者对结构生成与行为的完全控制权。\n\n## 对于玩家\n\n* 自定义任何支持该模组的结构生成方式。\n* 调整世界生成以契合个人游戏风格。\n\n## 对于整合包作者\n\n* 创建自定义结构配置或覆盖已有配置。\n* 完全禁用不需要的结构配置。\n* 使用 `<模组ID>@<配置名称>` 格式将配置关联到指定模组。<br>更多信息请[点击此处](https://github.com/Cristelknight999/Cristel-Lib/wiki/2.-Creating-a-structure-config#for-modpack-makers-advanced)了解。\n\n## 对于模组开发者\n\n* 为您的模组定义结构配置。\n* 在 Java 中直接添加内部配置。\n* 自动生成配置界面（可选）。\n* 在 Fabric 和 Forge 端按条件加载数据包。\n* 使用运行时数据包在游戏中动态添加或修改数据。\n\n**如何实现？[这里](https://github.com/Cristelknight999/Cristel-Lib/wiki/1.-Getting-started)有一份小教程。**\n\n---\n\n目前该模组已被 [WWEE](https://modrinth.com/mod/expanded-ecosphere)、[Towns and Towers](https://modrinth.com/mod/towns-and-towers)、[Explorify](https://modrinth.com/datapack/explorify) 和 [Terralith](https://modrinth.com/mod/terralith) 所使用！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

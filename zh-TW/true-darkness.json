@@ -1,0 +1,6 @@
+{
+  "bodyHash": "W46zHtQts5o=",
+  "content": "### 快速資訊\n- 滿月 = 正常的Minecraft亮度\n- 新月 = 完全無光\n- 無火把光且無天空光 = 純黑，不論月相如何\n- 適用於Fabric Mod Loader\n- 僅限客戶端使用\n- 無需依賴其他模組\n\n### 設定選項\n設定檔位於config/darkness.properties\n- dark_overworld: 在主世界啟用（預設：true）\n- dark_default: 在有天空的模組維度中啟用，如主世界（預設：true）\n- dark_nether: 在地獄啟用（預設：true）\n- dark_end: 在終界啟用（預設：true）\n- dark_skyless: 在無天空的模組維度中啟用，如終界和地獄（預設：true）\n- dark_nether_fog: 設定0.0到1.0之間的值使地獄迷霧變暗（預設：0.5）\n- dark_end_fog: 設定0.0到1.0之間的值使終界迷霧變暗（預設：0.0）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

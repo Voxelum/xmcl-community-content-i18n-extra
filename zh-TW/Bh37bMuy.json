@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vzQz/lNQ2gU=",
+  "content": "Reese's Sodium Options 取代了 Sodium 的選項畫面，採用緊湊且易於導覽的替代佈局與樣式。\n\n現代的 Sodium 已提供完整的設定畫面與公開選項 API。RSO 主要為偏好其分頁佈局、群組呈現方式、樣式與額外生活品質控制的玩家提供另一種前端介面。\n\n# 特色\n\n- 替代的 Sodium 選項畫面佈局與樣式。\n- 搜尋列可快速尋找選項。\n- 可捲動的垂直分頁列表與選項頁面。\n- 可折疊的模組分頁群組，支援自訂行為。\n- 頁面內可折疊的選項群組。\n- 可自訂的分頁標題，包含圖示與版本標籤。\n- 可設定的提示延遲與選擇性顯示選項 ID。\n- 針對鍵盤/控制器導覽的聚焦選項提示。\n- 選項頁面與控制項的選擇性色彩主題。\n- 每個選項的恢復預設覆蓋按鈕。\n- 每個修改選項的復原覆蓋按鈕。\n- 按 `SHIFT` 加滾輪調整滑桿。\n- 選擇性反向循環控制。\n- 改善的鍵盤導覽。\n- 支援 UI 朗讀功能。\n- 選擇性 Controlify 支援，提供控制器導覽與按鈕指引。\n- 可停用 RSO 並恢復使用 Sodium 的預設選項畫面。\n\n# 截圖\n\n![image2](https://cdn.modrinth.com/data/Bh37bMuy/images/ef92f9dbadd953c9acfbc0a5246921a8226dac1c.png)\n\n![image](https://i.imgur.com/KBsXRBI.png)\n\n# 需求\n\n- [Sodium](https://modrinth.com/mod/sodium)\n\n# 選擇性整合\n\n- [Controlify](https://modrinth.com/mod/controlify) 提供控制器導覽支援。\n\n# 備註\n\nRSO 是客戶端 UI 的替代方案，取代 Sodium 的選項畫面。並非使用 Sodium 設定的必要項目，專為偏好 RSO 佈局、樣式與生活品質功能的玩家設計。\n\nSodium 選項 API 在 Sodium 已直接提供相關選項 API 的版本中不再受支援。\n\n#### 請勿向 CaffeineMC 尋求此模組的支援。Reese's Sodium Options 與 CaffeineMC 無任何關聯。\n\n# 支持專案\n\n如果你想支持開發 Reese's Sodium Options 與其他 Minecraft 模組所投入的時間，可以透過 Ko-fi 贊助。\n\n[![在 Ko-fi 上支持我](https://i.imgur.com/FSNi7zk.png)](https://ko-fi.com/flashyreese)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

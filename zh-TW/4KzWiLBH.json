@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VO4k9Ow4jsA=",
+  "content": "# XP Boost 附魔\n\n[![Discord](https://img.shields.io/discord/1327308441324097681?label=discord&color=blue&logo=discord)](https://discord.gg/5UdcDa5xNC)\n[![Modrinth](https://img.shields.io/modrinth/dt/xp-boost-enchantment?label=modrinth&logo=modrinth)](https://modrinth.com/datapack/xp-boost-enchantment)\n[![許可證](https://img.shields.io/github/license/lullaby6/data-packs)](https://github.com/lullaby6/data-packs/blob/main/LICENSE)\n\n## 📖 描述\n\n新增三級附魔，使用工具與武器時可獲得額外經驗值！\n\n此附魔可從附魔台、戰利品箱或與村民交易獲得。\n\n## ⌨️ 指令\n\n獲得附魔書：\n\n```mcfunction\n/loot give @s loot xp_boost_enchantment:xp_boost/<等級>\n```\n\n附魔物品：\n\n```mcfunction\n/enchant @s xp_boost_enchantment:xp_boost <等級>\n```\n\n## 🪪 許可證\n\n[AGPL-3.0-or-later](https://github.com/lullaby6/data-packs/blob/main/LICENSE)\n\n## 👾 錯誤/問題\n\n如有任何問題或錯誤，請至 [Discord 伺服器](https://discord.gg/5UdcDa5xNC) 回報。\n\n## 💌 贊助\n\n- [在 Ko-Fi 上贊助](https://ko-fi.com/lullaby45743)\n- [在 PayPal 上贊助](https://www.paypal.com/paypalme/lucianobrumer)\n\n## 🎁 伺服器託管\n\n自行架設伺服器可能耗時、繁瑣且成本高昂。\n\n但透過 BisectHosting，您只需點擊幾下即可擁有自己的伺服器！搭配他們的 24/7 客服與快速回應，任何問題都無法阻擋您！\n\n感興趣嗎？我們為您準備了優惠方案！\n\nhttps://bisecthosting.com/lullaby\n\n![伺服器託管](https://www.bisecthosting.com/partners/custom-banners/e840cd99-59f6-4b27-b542-3023cd08bdfe.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

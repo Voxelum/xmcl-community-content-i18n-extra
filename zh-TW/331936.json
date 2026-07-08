@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aO5Pl0jApVw=",
+  "content": "<p><em><img src=\"https://i.imgur.com/KyeiwRx.png\" alt=\"\" width=\"1000\" height=\"325\"></em></p><p><em>「根據我對歷史資料的分析，有 97.34% 的機率你已經知道我在你的星球上誕生，並在堡壘車站重生為美麗的存在。」</em>——《系統震撼 2》</p><p>Citadel 是一個庫模組，為 1.14 及更高版本提供進階動畫和實體屬性功能。作為一個庫，Citadel 本身並不會新增太多功能，而是為其他模組提供一個框架，用於動畫實體、載入 .tbl Tabula 和 .obj Waveront 模型，以及追蹤實體屬性。Citadel 的前身 LLibrary 將不再更新至 1.12.2 以上版本，從今以後我所有的模組都將使用 Citadel。Citadel 的程式碼基礎主要源自 LLibrary，並經由 LLibrary 的維護者及近期版本的作者 Gegy1000 許可後使用。</p><p>在 1.6.3 及更高版本中，還新增了一個配置選項，可調整在區塊生成時生成的怪物數量上限。這對於搭配需要 Citadel 的多怪物模組特別有用，若不調整此選項，這些模組可能會讓原版怪物變得相當難以遇到。</p><p>想要使用 Citadel 的開發者可以<a href=\"https://github.com/Alex-the-666/Citadel/wiki/Getting-Started\" rel=\"nofollow\">閱讀指南，了解如何將其加入開發環境</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wBFg5OiiTb0=",
+  "content": "<p><strong>主世界变成了一片阳光明媚的热带海洋。</strong> 碧蓝的海水从地平线到地平线，点缀着散布的沙岛，岛屿间藏着稀有的繁茂绿洲。由 Isekai API 驱动。</p><h2>功能简介</h2><p>热带世界将整个主世界变成了一片温暖明亮的热带海洋。海平面上升，地表呈现为碧蓝开阔的水面，点缀着沙质岛屿——形成阳光灿烂的群岛，而非大陆。原版生物群系、矿石、建筑和生物仍会生成，玩法与 Minecraft 一致，只是场景移至海上。</p><p>较大的岛屿上隐藏着<strong>绿洲</strong>——清澈的水池周围环绕着草地、芦苇和成簇的棕榈树——这些作为手工创作的场景组件，仅生成在平坦干燥的地面上（绝不会半沉在浪花中），通过 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fisekai-api\" rel=\"nofollow\">Isekai API</a> 实现。</p><h2>特性</h2><p><strong>全海洋主世界</strong> — 碧蓝热带海洋，点缀沙质岛屿，看不到大陆。</p><p><strong>繁茂绿洲</strong> — 稀有、布局协调的水景与棕榈场景组件，完美坐落在岛屿内部。</p><p><strong>保留原版内容</strong> — 矿石、建筑和生物仍会生成；这只是对地貌的重新诠释，而非空荡的水世界。</p><h2>需求</h2><p><strong>需要 Isekai API</strong> — 热带世界完全基于 Isekai 的世界生成基元构建。</p><h2>兼容性</h2><p>与 TerraBlender、YUNG 的建筑模组、地图模组（Journeymap 等）和维度模组共存。与其他主世界改造模组（Terralith、William Wythers'）互斥——只有一个模组能主导主世界；不会崩溃，最后加载的生效。</p><h2>许可与链接</h2><p>MIT 许可。源码与问题反馈：<a href=\"https://github.com/KURONAMI333/tropical-world\" rel=\"nofollow\">https://github.com/KURONAMI333/tropical-world</a></p><p>基于 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fisekai-api\" rel=\"nofollow\">Isekai API</a> 构建。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

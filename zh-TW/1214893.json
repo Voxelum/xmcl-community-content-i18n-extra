@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JmkfIQw3/KM=",
+  "content": "<p>Discord：&nbsp;<a href=\"https://discord.gg/BCHNhsDMXz\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/BCHNhsDMXz</a></p><p>此模組允許 Apotheosis 頭目在玩家擊敗對應的 Cataclysm 頭目後，生成並使用 Cataclysm 武器。持有武器的頭目將能如同玩家使用般觸發武器特殊效果。</p><p>預設情況下，頭目掉落無詞綴武器有 50% 機率被替換，有詞綴武器則有 5% 機率被替換。Cataclysm 武器的掉落率為 10%。所有武器均可透過設定檔單獨停用。</p><p>可生成的武器列表與觸發條件：</p><ul>\n<li>遠古長矛：探索被詛咒的金字塔</li>\n<li>詛咒之弓：擊敗災厄巫妖 (Maledictus)</li>\n<li>荒漠怒嚎：擊敗災厄巫妖與遠古殘骸</li>\n<li>凋零突擊武器：擊敗先驅者 (Harbinger)</li>\n<li>虛空突擊武器：擊敗先驅者與終界巨像</li>\n<li>血肉撕裂者：擊敗先驅者</li>\n<li>靈魂撕裂者：擊敗災厄巫妖</li>\n<li>煉獄熔鑄：擊敗地獄合金巨獸</li>\n<li>虛空熔鑄：擊敗地獄合金巨獸與終界巨像</li>\n<li>雷射加特林：擊敗先驅者（預設停用，因其會點燃方塊）</li>\n<li>混沌漩渦拳套：擊敗終界守衛與遠古殘骸（預設停用，因非攻擊型武器）</li>\n</ul><p>&nbsp;</p><p><img src=\"https://media.forgecdn.net/attachments/1118/478/apothcat-2-png.png\" alt=\"\" width=\"800\" height=\"450\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

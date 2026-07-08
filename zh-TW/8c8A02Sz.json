@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SPbN0mQ/v64=",
+  "content": "# 變形裝備\n\n一個可以包含以下工具的裝備：\n- 劍\n- 十字鎬\n- 斧頭\n- 鏟子\n\n當你看向方塊時，它會自動切換到適合破壞該方塊的工具；若未看向任何方塊，則會切換為劍",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

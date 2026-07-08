@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PBMdWSn79mM=",
+  "content": "<p>這是對 Presti 原創模組「cc-ballistx」的更新分支版本，新增了一個可控制 BallistX 模組中飛彈發射井的外接設備。同時感謝 CamoHax 提供的方塊模型。</p><p>前置需求：CC: Tweaked（Curseforge 上找不到 1.21.1 版本）</p><p>若要透過電腦與 BallistiX 發射井互動，需將發射井控制器放置在發射井中心方塊下方。之後即可透過其名稱「siloController」存取該外接設備（例如 peripheral.find(\"siloController\")），或使用 wrap 函數從特定方向取得（例如 peripheral.wrap(\"top\")）。</p><p>&nbsp;</p><p>發射井控制器提供以下功能：</p><p>- launch() 與 launchWithPosition(int x, int y, int z)</p><p>- getFrequency() 與 setFrequency(int freq)</p><p>- getPosition() 與 setPosition(int x, int y, int z)</p><p>- getExplosiveType() 與 getExplosiveAmount()</p><p>- getMissileType() 與 getMissileAmount()</p><p>- getPower() 與 getMaxPower()</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yJEcudUUlQ8=",
+  "content": "![附魔描述标题](https://cdn.modrinth.com/data/cached_images/01d2ce5785d7f84651c246dd625372ecec4ee104.png)\n\n一个**简洁清晰的资源包**，为Minecraft中的所有附魔添加**详细描述**，包括**原版**和**自定义（Enchant Plus）**附魔。\n\n### 📘 功能：\n\n* 为每个附魔显示**工具提示说明**。\n* 支持附魔等级最高256级。\n* 支持**原版附魔**，如*锋利*、*耐久*等。\n* 增加对**Enchant Plus**自定义附魔的支持。\n* 无需模组或数据包，只需放入 `resourcepacks/` 文件夹即可。\n\n### 💡 工具提示示例：\n\n```\n经验修补 >> 使用经验修复物品。\n锋利 >> 增加近战伤害。 V\n抢夺 >> 增加生物掉落物。 III\n```\n\n<details>\n<summary>安装方法</summary>\n\n1. 将 `.zip` 文件放入Minecraft的 `resourcepacks` 文件夹。\n2. 在资源包菜单中启用该包。\n3. 完成！将鼠标悬停在附魔物品上即可查看效果。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

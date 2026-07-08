@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nB5vXntSrFk=",
+  "content": "這是[Contact](https://www.curseforge.com/minecraft/mc-mods/contact)的非官方移植版本，完全遵循原版模組的授權條款。\n\n#### 功能說明\n\n明信片 – 功能類似書本與羽毛筆，可用於撰寫訊息。提供多種預設設計樣式，您甚至可以創建自訂的明信片風格（[範例](https://github.com/Flechazo098/Contact/blob/arch-1.21.1/example/en_us.json)）。明信片可向流浪商人購買，寄出後內容將無法再修改。\n\n包裝紙 – 右鍵點擊可包裝物品，提供4個內部儲物欄位。\n\n信箱 – 用於收取郵件。潛行狀態下空手右鍵點擊可將其與自己綁定，當有新郵件時會收到通知。\n\n中央信箱 – 為沒有個人信箱的玩家設立的公共信箱，僅伺服器管理員可放置。\n\n郵筒 – 在此寄送信件或包裹，收件人姓名可自動補全（但可能不完全準確）。\n\n終界郵件 – 將立即送達收件人。\n\n對明信片背景有新點子嗎？歡迎聯繫，我可將其加入模組中。\n\n***\n\n_本模組始終需要最新版本的OELib/Jupiter及Architectury API作為依賴，若遇到錯誤請先更新至最新版本。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

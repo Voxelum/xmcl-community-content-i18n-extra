@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fYZIXZeM3IQ=",
+  "content": "## 通用网络库\n\n该库模组旨在统一不同模组加载器之间的网络通信和数据包注册，以便使用 [Jared 的多加载器模板](https://github.com/jaredlll08/MultiLoader-Template) 的开发者只需在通用模块中处理网络通信。不过，它并不局限于多加载器模板的使用，也可以用于其他项目。\n\n此外，该库还使您的模组能够与加载器无关。通过数据包的构建方式，Forge 版本的客户端模组可以与 Fabric 版本的服务器模组进行通信。不过，您需要自行创建握手数据包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

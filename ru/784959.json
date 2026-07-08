@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EhyNL6lELhY=",
+  "content": "<p>Этот мод может периодически вызывать System.gc() для очистки памяти.</p><p>Он также добавляет команды /memorysweep_c и /memorysweep_s для ручной очистки памяти.</p><p>По умолчанию интервал очистки памяти составляет 15 минут, но вы можете изменить его в конфигурационном файле.</p><p>Память также можно очищать по использованию (по умолчанию 75%).</p><p>Если во время сборки мусора возникают задержки, добавьте параметр JVM <strong>-XX:+ExplicitGCInvokesConcurrent</strong></p><p>Конечно, я также рекомендую попробовать ZGC, который был недавно добавлен в Java 11 и не требует указанных выше параметров:</p><p><strong>-XX:+UnlockExperimentalVMOptions -XX:+UseZGC</strong></p><p>Не используйте никакой другой GC одновременно с ZGC и не добавляйте <strong>-UseAdaptiveSizePolicy</strong></p><p>&nbsp;</p><p>&nbsp;Если у вас есть предложения, вы можете оставить комментарий или&nbsp;<a href=\"https://github.com/Tki-sor/MemorySweep/issues\" target=\"_blank\" rel=\"nofollow\">Issues</a><a href=\"https://github.com/Tki-sor/Upd8r/issues\" target=\"_blank\" rel=\"nofollow\">.</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

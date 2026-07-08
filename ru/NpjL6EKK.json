@@ -1,0 +1,6 @@
+{
+  "bodyHash": "i94gbeDH7Ss=",
+  "content": "![Banner](https://cdn.modrinth.com/data/NpjL6EKK/images/5f36dedbb7a0b337f6457a8bd75668d579ee7fba.png)  \n### NoGravity — это простой мод, который убирает гравитацию для игроков, сущностей и падающих блоков.  \n\nОсобенности:  \n- Убирает гравитацию с большинства сущностей, включая игрока  \n- Предотвращает падение блоков с тегом «Гравитация»  \n- Убирает гравитацию с частиц (косметическая функция)  \n- Поддерживает как Forge, так и Fabric  \n\nЕсли этот мод используется на сервере, он должен быть установлен с обеих сторон.  \nДля владельцев серверов: убедитесь, что в server.properties установлено allow-flight=true, иначе игроки будут кикнуты за полёт.  \nОднако версия Fabric на сервере также совместима с версией Forge на клиенте, но не наоборот.  \nПеред установкой сделайте резервную копию мира; после удаления этого мода существующие сущности в мире останутся без гравитации.  \n\nПримеры:  \n![Blowing Up](https://cdn.modrinth.com/data/NpjL6EKK/images/3a373ada10a7defe46fc49044eb6879e5a52a737.png)  \n![Floating Boat](https://cdn.modrinth.com/data/NpjL6EKK/images/23b9a9848174d6b8008e55012c92239da157d006.png)  \n\nВидео: https://www.bilibili.com/video/BV1NV4y1w7RV/  \n\n\nCurseforge: https://www.curseforge.com/minecraft/mc-mods/nogravity-mod  \n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

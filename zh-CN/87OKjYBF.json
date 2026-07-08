@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vd9ph9pMPlw=",
+  "content": "![示例](https://cdn.modrinth.com/data/87OKjYBF/images/577a0778219cc648037a9a8bda40c5b89105b36f.gif)\n\n**拴绳矿**是一款适用于单人游戏和服务器的 Fabric 模组，它能改变你在潜行时挖掘矿石和原木的方式。\n\n潜行状态下挖掘矿石或原木时，拴绳矿会搜索相连的同类型方块，先破坏最远的那个，并将掉落物传送至你的脚下。持续挖掘起始方块即可清理整条矿脉或整棵树。你最开始挖掘的那个方块会最后一个被破坏。\n\n拴绳矿支持对角连接、原版矿石、原版原木、粗矿块、远古残骸，以及众多模组中的矿石/原木——只要它们遵循常见的方块 ID 命名规则（如 `_ore`、`_log`、`_wood`、`_stem` 或 `_hyphae`），就能自动适配。\n\n服务器管理员和单人玩家可通过 `config/tethermine.json` 或 Mod Menu 自定义行为：\n\n```json\n{\n  \"max_scan_blocks\": 256,\n  \"additional_blocks\": [\n    \"minecraft:raw_iron_block = iron_ore\",\n    \"minecraft:raw_gold_block = gold_ore\",\n    \"minecraft:raw_copper_block = copper_ore\",\n    \"minecraft:ancient_debris\"\n  ],\n  \"disabled_blocks\": []\n}\n```\n\n**max_scan_blocks** 控制每次挖掘时拴绳矿检查相连同类型方块的最大数量。默认值为256，足以覆盖普通矿脉和大树，同时保持性能安全。\n\n**additional_blocks** 允许你添加模组应处理的方块。使用 `block_id = family_key` 的格式，可将方块关联到现有分组。例如，`minecraft:raw_copper_block = copper_ore` 会让粗铜块与铜矿石一同挖掘。你也可以单独添加某个方块（如 `minecraft:ancient_debris`），使其自成一组。\n\n**disabled_blocks** 用于禁用特定方块。例如，添加 `minecraft:diamond_ore` 可阻止拴绳矿处理普通钻石矿石（即使它本应被自动识别）。\n\n拴绳矿在多人游戏时仅需安装在服务端，因此玩家无需本地安装即可加入带有此模组的服务器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

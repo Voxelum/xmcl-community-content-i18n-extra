@@ -1,0 +1,15 @@
+{
+  "bodyHash": "IUrzNJt5Zsk=",
+  "content": {
+    "error": {
+      "code": "invalid_parameter_error",
+      "param": null,
+      "message": "Parameter limit exceeded",
+      "type": "invalid_request_error"
+    },
+    "id": "chatcmpl-95821b4f-9a73-9e5d-b15b-87fb99fcbe8a",
+    "request_id": "95821b4f-9a73-9e5d-b15b-87fb99fcbe8a"
+  },
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

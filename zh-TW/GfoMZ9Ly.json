@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NQhC4p/7eXY=",
+  "content": "<h1>盾牌狀態顯示！</h1>\n\n這個模組會在玩家的盾牌上顯示顏色覆蓋層，用來判斷該盾牌是否被禁用。\n\n---\n### 資訊：\n**顏色**\n\n這個模組允許你透過模組的設定畫面自訂並選擇盾牌禁用和啟用的顏色。你需要安裝模組選單才能使用此功能。\n\n**設定**\n\n![Config1](https://i.ibb.co/GQbjx5Yp/2025-12-04-14-05-45.png)\n\n插值選項讓你選擇將盾牌顯示為兩種靜態顏色，或是讓禁用顏色逐漸過渡到啟用顏色。這樣一來，你可以估計盾牌何時會重新啟用。這可以在下面兩部影片中看到：\n\n啟用插值：\n\n![https://i.imghippo.com/files/7LBqE1722036334.gif](https://cdn.modrinth.com/data/GfoMZ9Ly/images/cc69cc08e3fb96bb9b7624303893790a11a1f867.gif)\n\n停用插值：\n\n![https://i.imghippo.com/files/T4Wbr1722036757.gif](https://cdn.modrinth.com/data/GfoMZ9Ly/images/bc17b904cf4562e19bf4480020000c0bfa6a882b.gif)\n\n**相容性與改進**\n\n這個版本的盾牌狀態顯示確保不會影響Minecraft本身盾牌的紋理，而是在遊戲中以覆蓋層的方式渲染顏色，確保模組不會覆蓋來自不同資源包的客製盾牌紋理。\n\n這個版本的盾牌狀態顯示修復了原始模組中的一個錯誤，該錯誤導致盾牌在重新啟用後仍會錯誤地顯示為禁用狀態（橘色狀態）。\n\n---\n**致謝**\n\n- 模組：Walksy\n- 圖示：SakuraFX",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

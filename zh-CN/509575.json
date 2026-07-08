@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2wsc2dFBTeA=",
+  "content": "<p>可观测性能分析器(方块版)能够实体化显示游戏刻耗时分布情况。兼容Forge和Fabric。请在<a href=\"https://github.com/tasgon/observable/issues\" rel=\"nofollow\">GitHub仓库</a>提交问题报告。</p><p>&nbsp;</p><p>(注：默认按R键打开性能分析界面)</p><p>&nbsp;</p><p>当前已知问题：</p><ul>\n<li>结果界面偶尔会空白显示（关闭后重新打开界面即可修复）</li>\n</ul><p>&nbsp;</p><p>常见问题：</p><ul>\n<li>为什么启动时崩溃并报错\"java.lang.NoClassDefFoundError: kotlin.jvm.&lt;whatever&gt;\"？</li>\n</ul><p style=\"padding-left:30px\">本模组依赖Kotlin标准库，请安装运行库如<a href=\"https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge\" rel=\"nofollow\">Kotlin for Forge</a>或<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin\" rel=\"nofollow\">Fabric Language Kotlin</a></p><ul>\n<li>需要在服务端安装此模组吗？</li>\n</ul><p style=\"padding-left:30px\">必须安装。客户端不安装时仍可连接服务器，但无法使用任何功能。</p><p>&nbsp;</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fimgur.com%252fa%252fZjjoi5f\" rel=\"nofollow\">查看截图</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

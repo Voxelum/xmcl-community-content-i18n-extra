@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UzH2V88Oc64=",
+  "content": "<h1>背包中的沉浸旋律</h1><p>一个适用于 Forge 1.20.1 的模组，允许你将 <a href=\"https://www.curseforge.com/minecraft/mc-mods/immersive-melodies\" target=\"_blank\" rel=\"nofollow\">沉浸旋律</a> 中的乐器放入 <a href=\"https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks\" target=\"_blank\" rel=\"nofollow\">精妙背包</a> 或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/travelers-backpack\" target=\"_blank\" rel=\"nofollow\">旅者背包</a> 的唱片机升级槽中，然后通过 GUI 内的歌曲选择器像常规播放列表一样与歌曲进行交互。</p><h2>前置需求</h2><ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge 47+</li>\n<li>沉浸旋律 0.6.0+</li>\n<li>至少满足以下之一：<ul>\n<li>精妙背包 3.24.0+（需精妙核心 1.3.0+）</li>\n<li>旅者背包 9.1.0+</li></ul></li>\n</ul><h2>使用方法</h2><ol>\n<li>在背包中安装唱片机升级。</li>\n<li>将沉浸旋律乐器放入唱片机唱片槽中。</li>\n<li>打开选择器，选择一首旋律，点击播放。</li>\n<li>随机播放和单曲循环功能与音乐唱片相同。与歌曲选择器的交互方式与常规歌曲播放列表一致。</li>\n</ol><h2>许可协议</h2><p>MIT</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

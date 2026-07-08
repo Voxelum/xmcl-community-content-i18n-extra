@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mkvZ9ssCDt0=",
+  "content": "# 邪惡甜菜\n## 生物\n- 小甜菜怪 - 收成甜菜時隨機召喚，20%機率掉落有知覺甜菜\n- 甜菜頭目 - 擊殺20隻小甜菜怪或食用有知覺甜菜召喚\n- 甜菜幽靈 - 擊敗頭目後，收成甜菜時隨機生成，40%機率掉落有知覺甜菜，具抗性且不在陽光下燃燒\n## 物品\n- 有知覺甜菜 - 食用後召喚甜菜頭目\n- 甜菜之心 - 頭目50%機率掉落，使用後可永久獲得一顆額外生命值**一次**\n- 甜菜鑽石 - 可用鑽石、有知覺甜菜和甜菜之心合成，用於製作甜菜工具。\n## 甜菜工具\n- 十字鎬\n- 斧頭\n- 鏟子\n- 鋤頭\n- 匕首：低傷害、高攻速\n- 刺劍：中等傷害、中等攻速\n- 大劍：高傷害、低攻速\n- 甜菜盔甲\n\n**能力：**\n  \n- 使用物品欄中的甜菜自動修復（每顆甜菜恢復10耐久度）。\n- 挖掘工具破壞方塊時有10%機率恢復飢餓值並給予飽足度。\n- 劍類武器命中時恢復1點生命值。\n- 若安裝[Better Combat](https://modrinth.com/mod/better-combat)，武器將使用自訂攻擊動畫並擁有調整後的攻擊範圍。\n\n<details>\n<summary>挖掘工具合成配方</summary>\n\n![挖掘工具合成配方](https://cdn.modrinth.com/data/cached_images/a67d99c7add2210dfa844c45234fb5ce58387072.png)\n\n</details>\n\n<details>\n<summary>武器合成配方</summary>\n\n![武器合成配方](https://cdn.modrinth.com/data/cached_images/6c86b87e3e46686be1f77f797d0864a25d12a0f5.png)\n\n</details>\n\n## 需求\n- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n- [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

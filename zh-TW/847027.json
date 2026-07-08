@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+0I9Cwf10qY=",
+  "content": "<h3>關於</h3><p>這個模組，正如其名，旨在防止生物受到日光的影響，也就是不會在陽光下燃燒。</p><h3>用戶端或伺服器端？</h3><p>只需要<strong>伺服器端</strong>即可。</p><h3>我可以將此模組加入我的模組包嗎？</h3><p>當然可以。</p><h3>它與<a href=\"https://www.curseforge.com/minecraft/mc-mods/mob-sunscreen\" rel=\"nofollow\">Mob Sunscreen</a>有什麼不同？</h3><p>實際差異在於刻效能。Mob Sunscreen 模組會嘗試在每個刻（20刻 = 1秒）清除每隻生物身上的火焰，同時遊戲會試圖讓它們在陽光下燃燒（請參閱<a href=\"/linkout?remoteUrl=https%253a%252f%252fgitlab.com%252fkreezxil%252fMob-Sunscreen%252f-%252fblob%252f1.19.2%252fcommon%252fsrc%252fmain%252fjava%252fcom%252fkreezcraft%252fmobsunscreen%252fCommonClass.java\" rel=\"nofollow\">此處</a>）。這種行為會導致刻效能變差。但這其實沒有必要，因為 Minecraft 已經提供了一個乾淨的方法來解決這個問題。Protect Mobs From Daylight 模組正是透過關閉生物在陽光下燃燒的功能來實現這個方法。更多資訊，你可以查閱上述程式碼<a href=\"https://github.com/muhammedesadcomert/Protect-Mobs-From-DayLight/blob/multiloader-1.19+/common/src/main/java/com/muhammedesadcomert/protectmobsfromdaylight/common/mixin/MobMixin.java\" rel=\"nofollow\">此處</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wZmm8gNk+7w=",
+  "content": "這個模組可以幫助你添加自己的唱片！\n\n將 ogg 音訊檔案放在 .minecraft/.addurdisc/assets/addurdisc/sounds/ 資料夾中\n\n且檔案名稱僅包含小寫字母、數字、「-._」這些字元，這個模組就會幫你將它作為唱片添加到遊戲中！\n\n**注意：伺服器端的音效資源檔案必須一致！！**\n\n你可以使用設定檔來變更資源檔案的目錄位置，以及設定唱片是否可由苦力怕掉落。\n\n你可以在設定檔中將 `refreshLang` 選項設為 `false`，然後編輯 `.minecraft/.addurdisc/assets/addurdisc/lang/en_us.json` 來修改物品的名稱和描述。\n\n你也可以覆蓋 /.minecraft/.addurdisc/assets/addurdisc/texture/item/xxx.png 的 png 檔案來自訂你的唱片材質。\n\n**提示：如果你的音訊檔案是從音樂應用程式下載的，可能包含封面影片串流，這可能會導致遊戲無法正確讀取音訊。\n你可以使用音訊編輯軟體（如 FFmpeg）來提取音訊串流以解決此問題。**\n\n**如果你使用 FFmpeg，應該這樣操作：**\n\n```\nffmpeg -i input.ogg -map 0:1 -c copy output.ogg\n```\n\n**（如果 0:1 是音訊串流的話）**\n\n要實現立體聲、距離衰減等播放效果，你需要將音訊檔案轉換為單聲道。\n```\nffmpeg -i input.ogg -ac 1 output.ogg\n```\n\n[更多教學資訊，你可以查看這個維基：](https://github.com/TunYuntuwuQWQ/addurdisc/wiki)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

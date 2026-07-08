@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7ITmireTmvY=",
+  "content": "## О\n**NBT Copy** — это небольшой мод, добавляющий кнопку копирования для вывода команды `/data get`.\n\nЭто мод серверной части, поэтому для работы с `/data get` в многопользовательской игре его необходимо установить на сервер, однако он также работает с [clientcommands](https://modrinth.com/mod/client-commands) `/cgetdata` на клиентской стороне.\n\n## Пример\n\n![](https://cdn.modrinth.com/data/XIIGRXeq/images/6d4bffb2ce1889afd93abf3e04ba6f016078fd11.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

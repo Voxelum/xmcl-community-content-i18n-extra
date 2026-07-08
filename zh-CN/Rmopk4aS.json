@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7XtAOO+tYUY=",
+  "content": "重新添加了[Farmer's Delight](https://modrinth.com/mod/farmers-delight)和[No Tree Punching](https://modrinth.com/mod/no-tree-punching)之间的兼容配方，该配方在制作烹饪锅时用木棍替换了木铲。\n\n此配方在Forge 1.20上缺失，并且在Fabric上也不存在（适用于[Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)或[Farmer's Delight \\[Fabric\\]](https://modrinth.com/mod/farmers-delight-fabric)）\n\n![烹饪锅制作](https://cdn.modrinth.com/data/Rmopk4aS/images/b50f4f68b8d8f52d16afa4fb32a814943a388898.png)\n\n要恢复营火配方（用于制作炉灶或其他原因），请查看[可制作的营火](https://modrinth.com/datapack/craftable-campfire)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

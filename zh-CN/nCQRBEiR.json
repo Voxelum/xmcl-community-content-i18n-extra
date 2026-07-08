@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kHzoO5g6KFA=",
+  "content": "*掌控你的GUI位置，修复破损的热栏选择材质！*\n\n### 随心移动GUI！\nRaised让你能够自由移动原版及模组的GUI层（支持的情况下）！\n\n想要热栏更靠近屏幕中央？Raised来帮你！掌控一个层，随意移动它吧！你可以单独控制每个层，也可以同步它们，让整个游戏内GUI一起移动！\n\n### 兼容模组！\nRaised允许模组为其自身的GUI覆盖层注册层条目，方便你配置它们的移动。然而，Raised也能以多种方式原生兼容模组，无需它们提供特殊支持！\n\n任何通过相应注册表注册其（Neo）Forge覆盖层的模组，都会自动被Raised捕获并添加到其层注册表中。这样，即使没有特殊支持，你也能单独控制许多模组的层！\n\n任何仅通过（Neo）Forge渲染事件在Raised支持的某个原版层上渲染其覆盖层的模组，都会随该原版层一起移动。在Fabric上，情况类似，任何在代码中Raised的目标范围内注入其覆盖层渲染的模组，也都会随之移动！\n\n### 随心设置！\n你可以通过配置文件、一系列命令或选项界面（默认按`~`键打开，或通过（Neo）Forge模组界面进入）直接编辑层配置。请注意，选项界面为了适应滑块控件的使用，会对层的移动范围进行限制。如需无限制移动，请使用命令或直接编辑配置文件！\n\n### 获取资源！\n你可以在*[Modrinth]* 和 *[CurseForge]* 上找到Raised的发布版本，也可以在*[GitHub]* 上获取开发构建版！\n\nRaised支持Fabric 1.16+、Forge 1.16+以及NeoForge 1.20.2+。\n\n### 全面了解！\n你可以深入阅读*[百科]* 以了解详情，如果遇到问题，也可以提交*[错误报告]*！\n\n还需要其他帮助？欢迎前往*[讨论区]* 论坛寻求支持、阅读公告或讨论关于本模组的任何内容！\n\n[Modrinth]: https://modrinth.com/mod/raised\n[CurseForge]: https://www.curseforge.com/minecraft/mc-mods/raised\n[GitHub]: https://github.com/yurisuika/raised\n[百科]: https://github.com/yurisuika/raised/wiki\n[错误报告]: https://github.com/yurisuika/raised/issues\n[讨论区]: https://github.com/yurisuika/raised/discussions\n[Discord]: https://discord.gg/0zdNEkQle7Qg9C1H",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

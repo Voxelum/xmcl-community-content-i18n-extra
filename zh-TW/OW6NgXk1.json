@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CZTOFu00+MU=",
+  "content": "# Modrinth 標誌模組\n\n<!-- SVG 版本 -->\n<img alt=\"fabric\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg\"><!-- SVG 版本 -->\n<img alt=\"forge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\"><!-- SVG 版本 -->\n<img alt=\"quilt\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg\">\n#\n\n這個模組將您目前所在網站 Modrinth 的標誌變成 Minecraft 中的物品！\n![Modrinth 標誌](https://cdn-raw.modrinth.com/data/OW6NgXk1/images/8d8623a0edf9feb401903ce93800ef620491cf30.png)\n您可以像這樣合成它：\n\n![合成配方](https://cdn.modrinth.com/data/OW6NgXk1/images/0afc5d773696a7be407670180751a24289746d40.png)\n\n該物品也可以使用鐵砧進行附魔，如下所示：![附魔標誌](https://cdn-raw.modrinth.com/data/OW6NgXk1/images/7e2287986583e32b4de6cb86da8476a50e68eb56.png)\n\n如果您發現模組有任何問題，請在此處提交問題：<a href=\"https://github.com/SuperZekes/Modrinth-Logo-Mod/issues\">此處</a>\n\n您可以在您的模組包中使用此模組。\n#",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

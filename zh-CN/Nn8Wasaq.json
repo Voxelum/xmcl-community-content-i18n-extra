@@ -1,0 +1,6 @@
+{
+  "bodyHash": "H8NEOWgBBRM=",
+  "content": "![](https://cdn.firstdark.dev/artpacks/craterlib/craterlib_artwork_banner.jpg)\n&nbsp; &nbsp; \n\n![](https://img.shields.io/badge/Forge/Fabric/Quilt-下载支持-yellow.svg)\n[![](https://img.shields.io/badge/Jenkins-Development%20Builds-red.svg)](https://ci.firstdark.dev/job/CraterLib/)\n[![](https://img.shields.io/badge/Discord-First%20Dark%20Development-blue.svg)](https://discord.firstdark.dev)\n\n&nbsp; \n&nbsp; \n&nbsp; \n\n![](https://cdn.firstdark.dev/artpacks/craterlib/craterlib_artwork_info.jpg)\n\nCraterLib 是由 First Dark Development 和 HypherionSA 的模组使用的库模组。这个模组包含跨多个模组共享的代码，以及一些平台助手，使移植和多模组加载器支持在开发过程中更容易。\n\n这个模组本身不做任何事情，需要一个“模块”（或依赖于此库的模组）来执行任何工作。其他开发者欢迎使用此库用于他们自己的项目，但请记住，它主要是为我们设计的，并不总是包含其他库模组中的所有功能。\n\n&nbsp; &nbsp; &nbsp; \n\n![](https://cdn.firstdark.dev/artpacks/craterlib/craterlib_artwork_help.jpg)\n\n当出现问题时，它们确实会不时发生，你可以在 Github 上打开一个 Issue 如果是错误或建议，或者为了更快地获得支持，你可以加入我们的 Discord 并在适当的频道中提出你的问题。\n\n&nbsp; &nbsp;\n\n**本页包含的艺术作品根据保留所有权利（由 HypherionSA）授权，不得在除我们官方的 Curse/Modrinth/文档页面以外的任何地方重新使用。此许可证不包括 BisectHosting 标志，该标志根据其各自的许可证授权。**\n\n&nbsp; &nbsp; &nbsp;\n\n[![](https://cdn.firstdark.dev/artpacks/craterlib/craterlib_artwork_bisect.jpg)](https://bisecthosting.com/grinched)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

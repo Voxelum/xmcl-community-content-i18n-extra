@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eTvj0GHjezY=",
+  "content": "為[doctor4t](https://www.youtube.com/doctor4t)的[The Last Voyage of the Harpy Express]((https://modrinth.com/mod/harpy-express-mod)添加了一些額外的角色和物品。\n\n### 角色：\n- 醫生 | 平民角色，出生時帶有解毒劑，可以治療中毒的玩家\n\n- 服務員 | 平民角色，出生時帶有萬能鑰匙，看起來與普通鑰匙完全相同，可以打開任何房間門，但只能使用三次\n\n- 毒藥師 | 專注於下毒的殺手角色，擁有一個自定義商店，提供更便宜的毒藥以及自定義毒素物品，其作用類似於一把能使目標中毒的刀。僅在遊戲中有2名或更多殺手時才會出現\n\n- 土匪 | 殺手角色，出生時帶有土匪左輪手槍和撬棍，擁有一個自定義商店，提供稍便宜的槍支但更貴的刀。阻止治安官在遊戲開始時能夠清除自己\n\n### 物品：\n- 解毒劑：治療中毒，冷卻時間為2分鐘\n  \n- 毒素：使玩家中毒，15秒後死亡\n  \n- 萬能鑰匙：可以打開七個房間門中的任何一個，使用三次後損壞（目前打開玻璃門時會消耗一次使用次數，因此請確保不要將其拿出來，除非您正在打開房間）\n\n- 土匪左輪手槍：看起來與左輪手槍完全相同，但不是在每次擊殺後都會掉落，而是有很小的機率掉落，很大的機率會被移除（防止土匪在想要殺人時分發出無數把槍）\n\n### 額外資訊：\n- 要停用或啟用特定角色，請執行「/setEnabledRole [角色] [true/false]」。\n  \n- 要讓自定義角色在遊戲中實際出現，您必須使用「/tmm:start harpymodloader:modded [回合長度]」來開始比賽，否則自定義角色將不會被分配。\n\n- 通常，Harpy Mod Loader會用修改後的角色覆蓋預設的殺手角色，但Harpy Simple Roles為此提供了一個解決方法，只需在「killer」角色上使用/setEnableRole指令來選擇是否將其納入角色池。\n\n### 致謝：\n- [doctor4t](https://www.youtube.com/doctor4t) 首先製作了這個出色的模組\n- [The Last Voyage of the Harpy Express](https://modrinth.com/mod/harpy-express-mod)\n- [Harpy Mod Loader](https://modrinth.com/mod/harpymodloader) 由 [agmass](https://modrinth.com/user/agmas) 製作\n- 感謝 Popryn 製作了一些物品紋理並幫助測試模組",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

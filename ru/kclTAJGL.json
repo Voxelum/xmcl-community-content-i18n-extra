@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OlRD470mv+M=",
+  "content": "Этот мод добавляет металлическую трубу в Minecraft; при падении на землю она издаёт знаменитый звук металлической трубы.\n\nЧтобы изготовить её, просто разместите три железных слитка горизонтально на верстаке.\n\n### Для разработчиков модов\nНачиная с версии **2.1.0+**, вы можете назначить любой предмету собственный звук падения с помощью файлов `.json`.\n\nДля этого создайте файл `.json`, названный в честь предмета, в следующей директории:\n`~/data/[namespace]/falling_sounds/`\n\n\nПример:\n\n> amethyst_shard.json\n>\n> ```json\n> {\n>  \"soundId\": \"minecraft:block.amethyst_block.break\",\n>  \"volume\": 0.7,\n>  \"pitch\": 1.0\n>}\n> ```\n\nТакже доступен [пример datapack](https://cdn.modrinth.com/data/kclTAJGL/versions/hOToA7Ao/metalpipemod_example_datapack.zip).\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

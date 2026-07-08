@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PrSvu9kWE9g=",
+  "content": "<h1>传送枪模组</h1><pre>仅支持Forge 1.20.1（暂不考虑移植到其他版本）</pre><h2>传送门功能</h2><p>安装此模组后，您可以随心所欲地创建传送门。非常适合长途跋涉和躲避危险！</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_58e80c54-8a2c-4fec-8997-4ea8335775f3.gif\" alt=\"传送门动图\" width=\"133\" height=\"162\"></p><h2>传送门流体</h2><p>本模组新增数种以药水瓶形态和更实用的传送枪弹药形态存在的传送门流体。每种液体都有不同功效</p><p>先驱传送门液体 - 仅以药水形态存在，可饮用但不建议尝试</p><p>不稳定传送门液体 - 未完成的不稳定形态，具有危险性需谨慎处理</p><p>稳定传送门液体 - 完整形态的传送门液体，能持续数秒生成稳定传送门。可通过传送枪设定目的地。若传送枪定位失败或直接投掷药水瓶使用，将随机传送到某处</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_10f50764-27e3-4edb-9eeb-e81d4393ffe8.png\" alt=\"传送门液体\" width=\"381\" height=\"242\"></p><h2>传送枪械</h2><p>当传送门液体储存在专用容器中时，传送枪可发射不稳定或稳定传送门液体，并能精准设定稳定传送门液体的目的地坐标</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_81469711-909c-4fa3-b171-686aa53fb3bd.png\" alt=\"传送枪\" width=\"245\" height=\"216\"></p><h3>标准传送枪</h3><p>最多储存5个坐标点，可随时传送至已保存位置</p><h3>旅者传送枪</h3><p>可随时将玩家传送至任意坐标与维度，但无法保存坐标点</p><h1>效果展示：</h1><p><span><span><iframe src=\"https://www.youtube.com/embed/BP8RQ7fzakE\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

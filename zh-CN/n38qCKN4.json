@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Jvd28ZRMJgI=",
+  "content": "一款在游戏中添加敌对玩家生物的模组。\n\n你可以在配置中添加更多名称，以让游戏中出现更多名字。\n你也可以添加指向返回以换行符分隔的名称列表的页面链接。\n你可以使用像 [whitelist.gorymoon.se](https://whitelist.gorymoon.se) 这样的页面来获取Twitch订阅者列表。\n\n在服务器上使用时，你可以将白名单添加到生物可用的名称中。\n这些生物会对与自己同名的玩家保持友好。\n它们会掉落自己皮肤对应的头颅。\n\n玩家在死亡时可以根据配置选项掉落自己的头颅。\n\n手动重新加载远程名称列表可使用以下命令：\n**_/playermobs reload_**\n\n手动生成生物可使用以下命令：\n**_/playermobs spawn &lt;名称&gt; [坐标]_**（其中 **坐标** 为可选参数）\n\n以下是通过召唤命令生成该模组生物的示例：\n**_/summon player_mobs:player_mob ~ ~ ~ {\"Username\":\"Gory_Moon\"}_**\n\n## 自定义皮肤纹理\n\n关于添加/覆盖玩家生物纹理的更多信息，请点击[此处](https://github.com/GoryMoon/PlayerMobs/wiki/Custom-player-mob-skins)\n\n## 待办/后续计划\n添加数据包支持特殊生成。\n\n## 发现BUG/创意/需求？\n请在我的Github问题追踪器上提交bug、创意或需求。\n\n## 整合包使用说明？\n你可以在整合包中自由使用此模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

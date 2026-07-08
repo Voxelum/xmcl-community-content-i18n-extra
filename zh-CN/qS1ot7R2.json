@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QCmKGPzzYws=",
+  "content": "## [**Wiki**](https://wiki.valkyrienskies.org/wiki/VMod)\n**同时需要 Patchouli 模组**\n\nVMod 是 Valkyrien Skies 的扩展模组，新增了一把工具枪——允许玩家创建多种约束，例如：\n\n* 连接——在两个物体之间建立焊接/轴承/球头连接\n* 绳索——生成绳索\n* 液压杆——收到信号时伸缩\n* 物理绳索——由物理组件构成的绳索\n* 滑块——创建滑动连接\n* 同步旋转——同步两艘船的旋转\n\n以及以下工具：\n\n* 推进器——创建推进器\n* 重力控制器——改变单艘船或整个连接结构的重力\n* 碰撞禁用——禁用两艘船之间，或船与世界的碰撞\n* 蓝图——创建整个连接结构的蓝图\n* 缩放——缩放整个物体，而不仅限于单艘船\n* 清除——移除方块半径内的 VMod 约束，或移除与船只连接的所有约束\n* 船只移除器——移除船只\n* 质量调整器——改变船只总质量\n\n该模组深受《盖瑞模组》启发，如果你玩过它，会发现与其中的工具枪有许多相似之处。\n\n \n\n#### **在 Fabric 上需要：**\n* Valkyrien Skies\n* Architectury API\n* （推荐）Forge Config API Port\n  \n#### **在 Forge 上需要：**\n* Valkyrien Skies\n* Architectury API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

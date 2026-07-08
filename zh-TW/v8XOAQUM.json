@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+hmuvCbn5pA=",
+  "content": "# 關於\n\n** **現已支援偽裝外觀與設定檔！** **\n\n本模組是 **OpenBlocks 電梯** 模組的 Fabric 簡易移植版。\n這個模組加入了著名的 1.12.2 電梯方塊，功能完整，讓你能在世界中上下傳送。對任何方塊點擊右鍵即可偽裝電梯外觀。\n合成方式與原版相同。\n\n**設定：**\n要修改方塊的傳送範圍，必須手動編輯設定檔。\n前往你的 Minecraft 資料夾，開啟 config 資料夾。編輯「openblocksconfig.properties」這個檔案，將數值 20 改為你想要的數值。\n若你開設伺服器，則前往你的伺服器資料夾編輯該設定檔。\n\n**需要&nbsp;</strong><strong><span style=\"text-decoration: underline;\" data-mce-style=\"text-decoration: underline;\"><a title=\"Fabric API\" href=\"https://modrinth.com/mod/fabric-api\" data-mce-href=\"https://modrinth.com/mod/fabric-api\" data-mce-selected=\"1\">Fabric API﻿</a></span>**<br data-mce-bogus=\"1\">\n\n**僅支援 Fabric**\n\n請在客戶端與伺服器端皆安裝此模組才能正常運作\n\n請下載最新版本，以免遊戲中出現任何錯誤\n\n<hr>\n\n如果你希望我將此模組移植到特定 Minecraft 版本，請留言告知 :)\n\n歡迎在你的模組包中使用此模組",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

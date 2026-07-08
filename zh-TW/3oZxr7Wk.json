@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KS8Ofxnp2Yw=",
+  "content": "# 種子檢查器\n一個用於加速手動檢查 Minecraft 種子的模組。\n\n## 開發動機\n市面上有許多協助尋找稀有 Minecraft 種子的程式，但大多數需要大量手動操作：必須進入遊戲、手動載入世界，再逐一驗證種子是否符合需求。\n\n本工具透過快速生成指定種子的世界，大幅簡化了這個流程。\n\n## 設定步驟\n1. 在主選單點擊「開啟種子清單」按鈕（或直接開啟 `.minecraft/seedchecker/seedlist.txt`）\n2. 在文字編輯器中輸入種子（每行一個種子）\n3. **儲存清單**\n4. 按下快捷鍵 <kbd>O</kbd>\n\n此時遊戲將載入世界，並使用清單中的第一個種子\n\n> [提示]  \n> 與原版介面相同，您也可以輸入文字作為種子\n\n再次按下 <kbd>O</kbd> 將使用清單中的下一個種子生成世界。\n\n每當世界生成後，清單中的第一個種子會被自動移除，因此重新啟動遊戲仍可保留進度！\n\n## 設定檔\n在 `.minecraft/config/seedchecker.json` 中設定特定世界參數\n```json\n{\n  \"difficulty\": \"EASY\",     // EASY, NORMAL, HARD, PEACEFUL\n  \"worldType\": \"normal\",    // normal, flat, amplified, single_biome\n  \"hardcore\": \"false\",            // true, false\n  \"worldFolderName\": \"SeedChecker World\",   // 可自訂任意名稱！\n  \"allowCommands\": \"true\",    // true, false\n  \"gameMode\": \"CREATIVE\"      // SURVIVAL, CREATIVE, SPECTATOR, ADVENTURE\n}\n```\n> [提示]  \n> 修改設定檔時無需關閉遊戲，儲存後會自動載入新設定",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

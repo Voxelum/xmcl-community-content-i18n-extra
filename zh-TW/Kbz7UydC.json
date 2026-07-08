@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QARtqnPZRAA=",
+  "content": "## 專注於實體優化的伺服器模組，在最小化遊戲體驗變動的同時，降低實體對伺服器的影響。\n\n# 特色功能：\n\n- 減少高成本的生物隨機尋路頻率，離玩家越遠效果越顯著。\n- 降低高成本的敵對目標鎖定任務執行次數。\n- 對怪物停用每刻都在執行的 3x3x3 危險掃描（你的寵物安全無虞）。\n- 停用路徑追蹤過程中頻繁執行的尋路行為。\n- 減少殭屍／屍殼尋找龜蛋破壞的昂貴搜尋，預設完全關閉此功能。\n- 優化殭屍村莊襲擊任務（大量掃描村民的昂貴行為），預設將觸發機率降至 1/3。\n- 若生物附近無玩家，進一步減少隨機尋路與敵對目標鎖定頻率。\n- 每項功能皆可獨立開關，部分功能可設定取消嘗試的機率。\n\n# 實測展示：\n\n每次測試皆生成大量額外生物——在搭載 20 核 i5-13600K 的系統中，我保持 1000 隻怪物生成來對伺服器施壓。\n\n## All the mods 7 - MC 1.18 模組包：\n\n模組關閉：平均 38ms - 最大 95ms  \n模組開啟：平均 30ms（伺服器負載降低 22%）- 最大 45ms（尖峰負載降低超過 50%！）\n\n![https://raw.githubusercontent.com/Corosauce/mobtimizations/1.18/showcase/atm_7.png](https://raw.githubusercontent.com/Corosauce/mobtimizations/1.18/showcase/atm_7.png)\n\n## Deceasedcraft - MC 1.18 模組包：\n\n模組關閉：平均 32ms - 最大 61ms  \n模組開啟：平均 24ms（伺服器負載降低 25%）- 最大 50ms（尖峰負載降低 20%）\n\n![https://raw.githubusercontent.com/Corosauce/mobtimizations/1.18/showcase/deceasedcraft.png](https://raw.githubusercontent.com/Corosauce/mobtimizations/1.18/showcase/deceasedcraft.png)\n\n需要安裝 CoroUtil 方能運行：[CoroUtil](https://modrinth.com/mod/coroutil)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

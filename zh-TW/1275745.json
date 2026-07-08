@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PA1U/2LUH2Y=",
+  "content": "<p><span style=\"font-size:14px\"><strong>馬匹繁殖修正</strong></span>是一款提升遊戲體驗的模組，改善了《Minecraft》中馬匹遺傳機制。在原版遊戲中，即使繁殖兩匹強壯的馬匹，由於屬性繼承的隨機性，仍可能產出虛弱的後代。本模組修正了此問題，確保新生馬匹、騾子和驢子在所有關鍵屬性上至少與較優親代持平：</p><ul>\n<li>🐎 <span style=\"font-size:14px\"><strong>移動速度</strong></span></li>\n<li>❤️ <span style=\"font-size:14px\"><strong>生命值</strong></span></li>\n<li>🦘 <span style=\"font-size:14px\"><strong>跳躍強度</strong></span></li>\n</ul><p>&nbsp;</p><p>本模組不再讓屬性隨機波動於親代數值與隱藏基礎值之間，而是保證幼駒繼承的每項屬性絕不遜於最佳親代數值。這使得選擇性繁殖更具回報性、可預測性，且效率更高。</p><p><br><strong>🔧 功能特色：</strong></p><ul>\n<li>確保新生馬匹繼承等於或優於最佳親代的屬性</li>\n<li>完全相容伺服器且輕量化，放入即用。無需用戶端安裝（適合多人遊戲）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

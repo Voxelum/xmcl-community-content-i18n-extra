@@ -1,0 +1,6 @@
+{
+  "bodyHash": "25XYJgdROEA=",
+  "content": "## **什么是FastPBR着色器？**\n这是一款兼具高性能与精美画质的着色器包，采用PBR大气系统，因此得名。\n\n**需注意：PBR并不等同于镜面反射支持——尽管这是着色器社区常见的误解，请勿将二者混淆。**\n\n## **下载方式**\n您可通过此处或访问我的网站（下方链接）获取。\n\n## **核心特性**\n* 动态柔化阴影\n* 可选：基于HBIL的屏幕空间间接光照\n* 时域抗锯齿与超采样（TAAU）\n* 程序化拟真天空盒（含体积云）\n* 体积雾效果\n* 多种可选镜头特效：景深、镜头光晕、暗角\n* **自v2.0起支持Distant Horizons模组**\n\n## **配置要求**\n* **需Iris 1.6.0或更高版本**\n* **不支持OptiFine**（除非其能追上Iris的先进功能集）\n* 需支持OpenGL 4.3以上的显卡\n* 支持Windows/Linux系统\n\n## **外部链接**\n* 个人网站：[链接](https://rre36.com)\n* Discord服务器：[链接](https://discord.gg/y5xzQ6H)\n\n[![成为赞助者](https://rre36.com/wp-content/uploads/2023/05/Patreon_ForEmbed.png)](https://www.patreon.com/bePatron?u=19790203)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

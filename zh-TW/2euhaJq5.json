@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gU7qP7nydjg=",
+  "content": "## 示範/教學：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/uxd1QZJdpGw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n非常感謝 [@Titanaraa](https://www.youtube.com/@Titanaraa) 製作了這個超棒的影片！\n\n# TrueLightFX Lite\n\n- 看起來像「鮮豔視覺」但不需要犧牲FPS。一個專為低中階電腦設計的輕量級光影包，拒絕平庸。\n\n## 你會得到什麼：\n\n### - **逼真的波浪** - 動態水面，可調整大小與速度\n### - **上帝光** - 穿過樹林與窗戶的光束，可調整強度\n### - **動態霧氣** - 金黃的日光色調，自然的黑暗夜晚與洞穴\n### - **發光礦物** - 真實的加色發光效果，穿透洞穴的黑暗\n### - **水下焦散** - 透過快速正弦波計算的動態光紋\n### - **搖曳植物** - 受風影響的樹葉、沙地與植被\n### - **泛光** - 可調整的後處理光暈\n### - **TAA + FXAA** - 你可選擇的反鋸齒模式\n### - **兩種雲朵風格** - 標準或強化\n### - **智慧設定檔** - 從「低畫質」到「你的電腦應該沒那麼慢吧」的即時預設\n\n感謝 Ukrech 的[原始專案](https://github.com/mateuskreuch/minecraft-miniature-shader)。\n\n**相容性：**\nTrueLightFX 可能適用於 Minecraft 1.8.2 至 1.17 版本，但舊版本可能出現錯誤或流暢度下降。為獲得最佳體驗，強烈建議使用 Minecraft 1.17 或更新版本。此外，我不建議使用 OptiFine，因為某些功能在 OptiFine 上 bug 很多，但在 Iris 上卻運作正常！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

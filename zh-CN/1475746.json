@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gBAgUyP6mhw=",
+  "content": "<p>这是一个库模组，为Minecraft模组添加了基于规则的效果系统。其最著名的应用包括<a href=\"https://www.curseforge.com/minecraft/mc-mods/waystones\" target=\"_blank\" rel=\"nofollow\">传送石碑</a>（控制高度动态的传送需求）和<a href=\"https://www.curseforge.com/minecraft/mc-mods/unbreakables\" target=\"_blank\" rel=\"nofollow\">不可破坏方块</a>（控制哪些方块不可破坏的规则）。</p><p>为实现此功能，模组需实现Shogi API并暴露属性，这些属性可通过Shogi表达式（一种基于文本的简单格式）进行配置。关于如何编写Shogi规则或为自己的模组实现Shogi支持，请参阅<a href=\"/linkout?remoteUrl=https%253a%252f%252fshogi.twelveiterations.com%252fguides\" target=\"_blank\" rel=\"nofollow\">文档</a>。</p><h3><img src=\"https://mods.twelveiterations.com/img/features-header.png\" alt=\"特性\" width=\"836\" height=\"40\"></h3><ul>\n<li>基于玩家、维度或其他上下文的动态规则评估</li>\n<li>使用简单表达式语法配置规则，同时支持JSON格式</li>\n<li>条件逻辑和聚合功能支持高级计算</li>\n<li>为模组开发者提供强大的配置扩展，内置多种效果</li>\n<li>轻量级可嵌入API，方便模组开发者轻松添加支持</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

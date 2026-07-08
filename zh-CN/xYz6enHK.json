@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TELTijPPWl0=",
+  "content": "# 灵魂绑定\n\n一款 Minecraft 模组，新增了灵魂绑定附魔，使物品在玩家死亡时得以保留，并在重生后自动返回。\n\n## 功能特性\n\n- **灵魂绑定附魔**：将此附魔应用于任意物品，可防止其在死亡时掉落\n- **自动物品返还**：灵魂绑定的物品会在玩家重生时自动恢复到原来的物品栏位置\n- **智能物品栏管理**：若原位置已被占用，模组会尝试将物品放入可用物品栏位，或在玩家附近掉落\n\n## 运作机制\n\n当你携带灵魂绑定附魔物品死亡时：\n1. 模组会保存所有灵魂绑定物品及其所在物品栏位置\n2. 物品会从你的物品栏中移除，防止重复生成\n3. 重生后，物品会返还至原始物品栏位置\n4. 若位置被占用，物品会放入可用物品栏位或在附近掉落\n\n## 安装方法\n\n1. 确保已安装 [Fabric Loader](https://fabricmc.net/)\n2. 下载最新版本模组\n3. 将模组 JAR 文件放入 `.minecraft/mods` 文件夹\n4. 使用 Fabric 配置文件启动 Minecraft\n\n## 系统要求\n\n- Minecraft（Fabric 版）\n- Fabric API\n- Java 21\n\n## 技术细节\n\n本模组使用 Mixin 注入到游戏的玩家死亡和重生机制中，确保灵魂绑定物品得到正确处理，同时不干扰其他游戏系统。\n\n## 许可证\n\n本项目遵循 [LICENSE.txt](LICENSE.txt) 中规定的条款进行许可。\n\n## 开发信息\n\n使用 Fabric 模组开发工具包配合 Gradle 构建。\n\n### 从源码构建\n\n```bash\n./gradlew build\n```\n编译后的模组文件将位于 build/libs/ 目录中。\n\n## 作者\n森林中的芬利\n\n## 致谢\n特别感谢 Fabric 社区提供的支持与资源。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YDeHzQ9rugI=",
+  "content": "<p>此模組防止玩家同時在物品欄中擁有多個來自「精緻背包」模組的背包。它確保玩家一次只能攜帶一個背包，並會丟棄任何試圖拾取的多餘背包。</p><p><strong>功能：</strong></p><ul>\n<li>\n<p>若玩家已有一個背包，則阻擋拾取額外背包。</p>\n</li>\n<li>\n<p>自動從物品欄中丟棄衝突的背包。</p>\n</li>\n<li>\n<p>清晰的遊戲內訊息會說明物品被丟棄或阻擋的原因。</p>\n</li>\n</ul><p><strong>使用情境：</strong><br>適用於需要平衡物品欄空間的模組包或伺服器，防止背包堆疊漏洞。</p><p><strong>依賴項目：</strong><br>需要「精緻背包」、Curios 及 Forge。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

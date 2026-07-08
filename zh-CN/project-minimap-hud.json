@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AUsKs5XYdv0=",
+  "content": "## 📖 关于\n\n该模组将玩家[ProjectE]的EMC及EMC变化率显示整合进了[Xaero的小地图]的显示信息中。\n\n![图片](https://media.forgecdn.net/attachments/description/null/description_0129a3df-1f7f-4054-be69-40d35061497a.png)\n\n本模组的显示样式是可配置的，强烈建议您安装[Cloth Config API]以便更便捷地修改配置。\n\n![图片](https://media.forgecdn.net/attachments/description/null/description_d1cd2404-8019-4dcd-b643-a7d13775f74d.png)\n\n请注意更新日志中列出的支持Xaero小地图版本。\n\n该模组属于我的小地图Hud系列，包含以下作品：\n- **Project小地图Hud（本模组）**\n- [Apocalypse小地图Hud](https://modrinth.com/mod/apocalypseminimaphud)\n\n## 🎮 兼容性\n\n应与大多数PE附属模组兼容，以下是已测试通过的模组：\n\n- [Project Expansion](https://modrinth.com/mod/project-expansion) MC1.21.1 ✔\n- [TeamProjectE-Reborn](https://modrinth.com/mod/teamprojecte-reborn) MC1.21.1 ✔ (>= v1.1.0)\n\n## 致谢\n\n感谢[DonovanDMC]及其模组[Project Expansion]为本模组提供EMC格式化模板。\n\n感谢[lanAnderson]及其模组[SeasonHud]为本模组EMC显示样式提供的灵感。\n\n## 许可证\n\n本项目采用MIT许可证授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

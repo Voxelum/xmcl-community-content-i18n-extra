@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9e76e014a32f57b3",
+  "content": "\n\n![downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fconnorcode.com%2Fapi%2Fdownloads%3Fmodrinth%3DOORXn0mW%26curseforge%3D1297449&query=%24%5B%27total-human%27%5D&label=downloads&style=for-the-badge&color=0dc362)\n\nЭтот мод позволяет отображать руки игрока в узнаваемом 3D-стиле, характерном для большинства классических анимаций Minecraft прошлых лет.\n\n## 🔵 ЗАВИСИМОСТИ\n- [Entity Model Features](https://modrinth.com/mod/entity-model-features) (2.4 или выше)\n\n## 🟢 СОВМЕСТИМОСТЬ\n- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)\n- [3D Armor](https://modrinth.com/mod/armor-3d)\n- [Better Combat](https://modrinth.com/mod/better-combat)\n- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)\n- [First-person Model](https://modrinth.com/mod/first-person-model)\n\n## 🔴 НЕСОВМЕСТИМОСТЬ\n- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player)\n- [Epic Fight](https://modrinth.com/mod/epic-fight)\n- [Detailed Animations](https://modrinth.com/resourcepack/detailed-animations)\n\n## НУЖЕН СЕРВЕР?\n<a href=\"https://avatarka.ge/bisect\">\n  <div><img src=\"https://www.bisecthosting.com/partners/custom-banners/6f0ba1fb-ebf6-4e70-9605-f8c8a9ca7fce.webp\" alt=\"BisectHosting\"></div>\n</a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

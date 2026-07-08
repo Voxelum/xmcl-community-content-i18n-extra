@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lXWAv0bJ4uo=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/1272/402/main-screen-png.png\" alt=\"Biome Blends 標誌與一些範例混合\"></p><h2>🎨 給玩家</h2><p>Biome Blends 是簡單的物品，讓您隨時隨地改變生態域！</p><p>要製作一個可用的混合，請使用黏土、白色染料和紙來合成一個<strong>無屬性混合</strong>。</p><p>雖然無屬性混合本身沒有任何效果，但可以與生態域相關的物品合成，製作出實際的混合，然後只需右鍵點擊地面即可使用！</p><p>預設情況下，Biome Blends 為所有現有的原版生態域提供了混合。所有混合的垂直和水平範圍均為 4。這可以在設定檔或使用資料包中更改。</p><p>Biome Blends 需要 Architectury API 才能運作。此外，Fabric 版本需要 Fabric API 和 Forge Config API Port。</p><h3>模組相容性</h3><ul>\n<li>Biomes O' Plenty（需要 Biome Blends 1.4 或更新版本）</li>\n<li>Oh The Biomes We've Gone（需要 Biome Blends 1.4.1 或更新版本）</li>\n</ul><h2>✨ 給模組包創作者</h2><p>Biome Blends 提供廣泛的資料包支援，這意味著您可以輕鬆地新增、移除或編輯現有的混合。這包括：</p><ul>\n<li>按生態域、維度或命名空間限制使用</li>\n<li>定義垂直和水平的影響範圍</li>\n<li>指定使用後留下的物品</li>\n<li>使用混合時的自訂音效和粒子效果</li>\n<li>分配生態域命名空間而非特定生態域</li>\n</ul><p>更多資訊請參閱<a href=\"/linkout?remoteUrl=https%253a%252f%252fmoddedmc.wiki%252fen%252fproject%252fbiome-blends%252fdocs\" target=\"_blank\" rel=\"nofollow\">Wiki</a>。</p><p>如果現有系統不支援您的使用情境，請務必在 Github 上提出問題，或加入 Discord 分享您的建議！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "edXXF95p3kE=",
+  "content": "# 摘要\n此資料包能將 Cobblemon 轉變為相對接近第一世代的體驗。沒有額外的型態、沒有新增的進化，只有第一世代的寶可夢。\n\n古代寶可夢球與攜帶道具保持不變，但可在資料包中輕鬆修改。\n\n## 已知不相容問題\n### 騎乘\n- 部分 Cobblemon 的騎乘特性尚未在 Cobblemon 中完整實作，因此在此資料包中也無法騎乘。\n- 一旦這些特性在 Cobblemon 中完成，也將一併加入此資料包。\n- 相關問題回報\n  - [騎乘控制器](https://gitlab.com/cable-mc/cobblemon/-/work_items/1289)\n  - [[1.7] 無飛行數據的可騎乘寶可夢可原地懸浮。](https://gitlab.com/cable-mc/cobblemon/-/work_items/1673)\n  - [[1.7] 騎乘行進與跳躍問題。](https://gitlab.com/cable-mc/cobblemon/-/work_items/1690)\n\n### [Cobbreeding](https://modrinth.com/mod/cobbreeding)\n_（截至 2025 年 3 月，後續版本未經測試）_\n- 該模組似乎會在蛋孵化時搜尋所有寶可夢，但 gen1ify 移除了大部分寶可夢，導致遊戲崩潰。\n\n## 更新方式\n對於我所進行的任何修補程式/更新，只需將世界資料夾中的資料包檔案更換為新檔案即可。至於模組部分，直接更換模組檔案即可正常運作。\n\n## 常見問題\n如有任何疑問，歡迎在 [Cobblemon Discord](https://discord.gg/sFjNz4mHjD) 中與我（gabecurran）聯繫！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

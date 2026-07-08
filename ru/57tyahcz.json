@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mpipsOSNRsE=",
+  "content": "<p>Измените свой игровой курсор при перезагрузке игры,</p>\n<p>&nbsp;</p>\n<p>Чтобы изменить курсор, добавьте пакет ресурсов с вашим курсором в формате PNG в папку assets/minecraft/textures/gui/ (можно изменить с помощью конфигурации «cursorLocation») и укажите в конфигурации координаты горячей точки</p>\n<p>&nbsp;</p>\n<h3 style=\"text-align: center;\"><strong>Меню настроек курсоров (1.2)</strong>&nbsp;</h3>\n<p>&nbsp;</p>\n<p>В Forge: из главного меню&nbsp;<strong>mods/Custom Cursor Mod/Config</strong></p>\n<p>&nbsp;</p>\n<p>В Fabric: введите <strong>/cursormod</strong> в чат</p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/226/348/2018-03-24-19_48_01-parametres.png\" alt=\"Список курсоров CursorMod 1.2 — Меню для выбора курсора для редактирования\" width=\"1920\" height=\"1040\" /></p>\n<p>&nbsp;</p>\n<p>Вы можете редактировать каждый курсор, нажав на соответствующие кнопки</p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/226/349/2018-03-24-19_51_33.png\" alt=\"Редактор курсоров CursorMod 1.2 — Меню для редактирования горячей точки и расположения файла курсора\" width=\"1920\" height=\"1042\" /></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

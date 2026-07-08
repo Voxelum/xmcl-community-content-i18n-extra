@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1QTiFlpmPsw=",
+  "content": "# Ronco Record Vault\n\n![伺服器 + 用戶端模組](https://img.shields.io/badge/Server\\/Client-both-purple)\n![模組載具：fabric](https://img.shields.io/badge/Mod_Loader-fabric-dbd0b4)\n[![建置狀態](https://github.com/OpenBagTwo/RecordVault/actions/workflows/build.yml/badge.svg)](https://github.com/OpenBagTwo/RecordVault/actions/workflows/build.yml)\n[![Modrinth 下載數](https://img.shields.io/modrinth/dt/record-vault)](https://modrinth.com/mod/record-vault)\n\n_**在雕紋書架上儲存唱片**_\n\n## 這個模組做什麼？\n\n這個模組讓你可以將唱片放入雕紋書架中，僅此而已。放入與取出唱片的方式，\n與放入附魔書完全相同。\n\n### 計劃中的功能\n- 視覺上標示書架欄位中是否存放唱片\n  - 若能使用唱片紋理，那就更棒了\n- 新增專用唱片架，可存放超過六張唱片\n\n## 參見\n\n此模組與我的另一個模組 [Fox Nap](https://modrinth.com/mod/foxnap) 完全相容，\n該模組可讓你將自訂唱片加入遊戲，並能在生存模式中取得。\n\n## 貢獻\n\n發現錯誤？有意見或疑問？想貢獻新功能或改進？\n[開啟議題](https://github.com/OpenBagTwo/RecordVault/issues/new)！\n\n## 授權與致謝\n\n本倉庫內所有程式碼均以 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) 授權。\n\n此模組與 [Ron Popeil、Ronco](https://en.wikipedia.org/wiki/Ronco) 或其現有商標與專利持有人無任何關聯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

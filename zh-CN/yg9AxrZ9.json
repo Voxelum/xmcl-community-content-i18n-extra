@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XJdf0asDpMY=",
+  "content": "<img align=\"right\" width=\"120px\" height=\"120px\"\nsrc=\"https://www.sushihut.net/datapacks/wide-mining/pack.png\" alt=\"广域挖掘 Logo\">\n\n<div align=\"left\">\n  <img src=\"https://www.sushihut.net/datapacks/wide-mining/banner.webp\" alt=\"广域挖掘\"\nwidth=\"600px\">\n</div>\n\n<br>\n\n广域挖掘新增了一种附魔，让你只需挥动镐子一次就能挖掘 **3×3 区域**，使挖矿速度**大幅提升**。\n\n[![Discord](https://img.shields.io/discord/1346324130261237885?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=%235865F2)](https://discord.gg/wgSCCaQN5W)\n\n---\n\n<div align=\"center\">\n  <img src=\"https://www.sushihut.net/datapacks/wide-mining/preview.webp\" alt=\"广域挖掘预览\"\nwidth=\"700px\">\n</div>\n\n---\n\n## 自定义设置\n\n想要配置附魔等级、潜行禁用、战利品表选项，或为特定模组加载器导出？使用 **[广域挖掘生成器](https://www.sushihut.net)** 来构建自定义版本——无需任何设置。\n\n如需帮助或有特殊需求，欢迎加入我们的 [Discord](https://discord.gg/wgSCCaQN5W) 社区。\n\n---\n\n## 安装方法\n\n**数据包**\n1. 下载 `.zip` 文件。\n2. 将其放入 `.minecraft/saves/<世界名称>/datapacks/` 文件夹。\n3. 在游戏中执行 `/reload` 命令。\n\n**模组（Fabric / Quilt / Forge / NeoForge）**\n1. 下载 `.jar` 文件。\n2. 将其放入 `.minecraft/mods/` 文件夹。\n3. 启动游戏——无需额外步骤。\n\n---\n\n## 支持\n\n发现漏洞或有建议？欢迎加入我们的 [Discord](https://discord.gg/wgSCCaQN5W) 社区。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

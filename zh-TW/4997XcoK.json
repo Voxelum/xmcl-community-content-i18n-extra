@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7veZC1ek7H0=",
+  "content": "# WATERMEDIA: 多媒體二進位檔案\n此模組為 WATERMeDIA 的依賴項，包含 VLC 和 FFMPEG 等原生二進位檔案，以及提取檔案至 watermedia 路徑所需的必要程式碼。\n\n可避免使用者安裝任何第三方軟體，讓 watermedia 在 Windows、Mac 和 Linux 上實現真正的即插即用（不包含 Android）\n\n重要提示：此模組僅設計用於 WATERMeDIA V3",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

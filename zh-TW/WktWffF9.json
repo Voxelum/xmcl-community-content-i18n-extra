@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lBA1wbPPR1o=",
+  "content": "這個模組將蜜袋鼯（Sugar Glider）加入你的世界。\n\n你可以使用任何食物來馴服和繁殖牠們，因為牠們是雜食性動物。\n\n當被馴服後，如果有任何生物在攻擊牠們的主人，牠們會開始尖叫，藉此告訴主人附近有危險。\n\n\n\n牠們有三種行為模式，可以在馴服後切換：\n\n- 遊蕩（不會跟隨玩家）\n- 站立（站起來等待，直到被攻擊或收到其他行為指令）\n- 跟隨主人\n\n\n\n未馴服的蜜袋鼯有時會隨機站立一段時間，並且除了其他蜜袋鼯外，會躲避其他生物。\n\n牠們可以攀爬任何方塊，並且在空中時會朝視線方向滑翔。\n\n受到攻擊時會自我保護，並且在非跟隨模式下可以群體移動。\n\n此外，甜莓果不會對牠們造成傷害。\n\n\n\n你可以在森林生態域中找到牠們。\n\n（在 Forge 版本中，你可以透過編輯 data → biome tags 和 biome modifier 資料夾中的 JSON 檔案，或使用資源包來更改此生成設定；在 Fabric 版本中則有專屬的設定檔。）\n\n\n\n模組目前支援\n\n**Forge 26.x | 1.21.11 | 1.21.10 | 1.21.9 | 1.21.8 | 1.21.7 | 1.21.6 | 1.21.4 | 1.21.1 | 1.20.1**\n\n**Fabric 26.x | 1.21.11 | 1.21.10 | 1.21.9 | 1.21.8 | 1.21.7 | 1.21.6 | 1.21.5 | 1.21.4 | 1.21.1 | 1.20.1**\n\n**Neoforge 26.x | 1.21.11 | 1.21.10 | 1.21.9 | 1.21.8 | 1.21.7 | 1.21.6 | 1.21.4 | 1.21.1**\n\n\n\n如果你需要其他版本的模組，或在 CurseForge 上遇到任何錯誤，請發送私人訊息給我\n\n[https://legacy.curseforge.com/members/aquarius_playz/projects](https://legacy.curseforge.com/members/aquarius_playz/projects)\n\n \n\n**在 X（Twitter）上追蹤我**\n\n[https://x.com/Aquarius_playz](https://x.com/Aquarius_playz)\n\n\n![aquariuslibs](https://cdn.modrinth.com/data/KkHnyaL6/7d506caf48d26f964f4f789553ce757cfe868742_96.webp)\n\n**[此模組需要安裝 AQUARIUSLIBS](https://modrinth.com/mod/aquarius-libs)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

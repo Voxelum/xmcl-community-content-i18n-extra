@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZnKONnhGu8Q=",
+  "content": "# 切換衝刺與潛行\n\n[![需要 Fabric API](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/requires/fabric-api_vector.svg)](https://modrinth.com/mod/fabric-api)\n\n這是一款 Fabric 模組，在現代版本的 Minecraft 中加入了切換衝刺與切換潛行的快捷鍵功能。它充分利用了控制選單中現有的切換選項，同時確保盡可能地與反作弊系統相容。\n\n此外，本模組還修復了死亡後切換衝刺設定被重置的問題（僅適用於 1.20.1 以上版本）。\n\n如果同時安裝了 [Mod Menu] 與 [YACL]，本模組還會提供一些可在遊戲內調整的設定選項。\n\n## 這款模組與其他模組有何不同？\n\n我最初設計這款模組是為了取代 [Toggle Sneak & Sprint]，因為該模組並非採用合理的做法——讓遊戲以為你正按住衝刺鍵，而是直接強制你 *始終* 處於衝刺狀態（*即使在正常情況下根本無法衝刺！*），這使得伺服器的反作弊系統極易偵測到異常（進而導致被封鎖）。\n\n相較之下，本模組僅重複使用既有的切換控制邏輯，讓 Minecraft 本身自行判斷你是否該衝刺，從而盡可能地維持與反作弊系統的相容性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

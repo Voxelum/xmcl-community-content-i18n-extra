@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oxMNbYA68z8=",
+  "content": "![](https://tr7zw.dev/curse/disguiseheads-logo.png)\n\n# DisguiseHeads\n\nВместо того чтобы получать немного большую голову при надевании черепа игрока, этот мод визуально заменит всю текстуру кожи. Этот мод не добавляет способ получения черепов игроков, но я рекомендую datapack [Vanilla Tweaks Player Head Drops](https://vanillatweaks.net/picker/datapacks/) для одиночных игр/ванильных серверов, а в Spigot/Paper есть множество опций, таких как [Player Heads](https://dev.bukkit.org/projects/player-heads). Для тестирования команды vanilla «/give @p player_head{SkullOwner:Username} 1» всегда будут работать, чтобы получить и поэкспериментировать с любой кожей, которую вы захотите.\n\nПоскольку этот мод является исключительно визуальным и работает только на клиентской стороне, его не нужно устанавливать на серверах — он работает повсеместно!\n\n## Зависимости\n\n- нет\n\n## Тестируется с\n\n- модом первого лица\n- недостаточно анимаций\n- слоями 3D-текстур\n- Sodium\n- Iris\n- Optifine\n- BetterCombat",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

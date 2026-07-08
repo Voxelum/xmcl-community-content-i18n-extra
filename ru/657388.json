@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SsE3Jyy1rZo=",
+  "content": "<h1>ИСПРАВЛЕНИЯ ДЛЯ БОЕВЫХ БАШЕН</h1>\n<h3>Минимально инвазивные исправления для боевых башен</h3>\n<ul>\n<li>Настройка боевых башен через конфигурационный файл</li>\n<li>Исправлены сундуки с добычей, использующие пользовательские таблицы лута</li>\n<li>Добавлена возможность использования пространственных имен для таблиц лута</li>\n<li>Ускоренная загрузка мира (<em>вдохновлено</em> VanillaFix, LOL)</li>\n<li>Черный список для уничтожения блоков при обрушении башни</li>\n<li>Постоянные гремлины на башнях (без исчезновения в мирном режиме)</li>\n</ul>\n<p>Требуется <a href=\"https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers\" rel=\"nofollow\">AtomicStryker's Battle Towers</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/mixin-booter\" rel=\"nofollow\">MixinBooter</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

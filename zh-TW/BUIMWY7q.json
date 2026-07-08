@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cpHos4Bq2hE=",
+  "content": "這是一個小巧簡易的模組，新增了多種可提高方塊實體運算速率（tick rate）的火把。簡單來說，它們能讓機器運作得更快。\n\n幾個應用範例：\n- 加速植物生長\n- 加快礦石熔煉速度\n- 提高生怪磚生成效率\n\n模組核心為「加速火把」（Torcherino），並設有多種升級配件。多數功能可透過模組設定檔調整，該檔案名為 Torcherino.cfg，位於 config/sci4me 資料夾中。\n\n放置加速火把後，預設為停用狀態。需右鍵點擊並透過操作介面調整作用範圍與加速倍率（最高數值取決於使用的等級）。\n\n### 歷任維護者\n- Moze_Intel\n- [sci4me](https://www.curseforge.com/members/sci4me/projects)\n- [3llemes](https://www.curseforge.com/members/3llemes/projects)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ShQO57IR95o=",
+  "content": "# 實體生命條\n這個資料包為世界中的所有實體添加了生命條和傷害/治療/吸收傷害值指示器。\\\n你必須在實體受到傷害/治療前位於其 20 格範圍內，才能啟動生命條和指示器。\n\n![一隻屍殼受到傷害，展示傷害指示器和生命條](https://cdn.modrinth.com/data/cached_images/1f097c05fae1729b7ca33de5fe725ccaf0c474c4_0.webp)\n\n指示器顏色：\n- **紅色**：傷害\n- **綠色**：治療\n- **黃色**：獲得吸收傷害值\n- **深紫色**：失去吸收傷害值\n\n生命條的大小會根據實體的最大生命值縮放，最高可達 40 個區段（適用於擁有 40 點或更高生命值的實體）。\n\n使用像 [Player Ladder](https://modrinth.com/mod/player-ladder) 這樣的模組可以讓生命條顯示在玩家身上（無論是否安裝此模組，數值指示器仍會對玩家生效）\n\n**處於隱形效果下的實體不會顯示生命條和指示器**\n\n透過以下指令切換生命條和傷害數值是否可穿透牆壁顯示：\\\n`/scoreboard players set #aolu_hb aolu_hb_see_through x`\n  - 將 x 設為 1 或以下可穿透顯示（預設設定）\n  - 將 x 設為 2 或以上則不可穿透顯示",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

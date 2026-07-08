@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kbr8Z8eOJFs=",
+  "content": "# WITS (What Is This Structure？)\n\n\nWITS 是一個簡潔的小型指令模組，適用於單人遊戲世界和伺服器！這個模組只新增了一個名為 `/wits` 的指令。執行該指令後，它會列出你當前所站位置所有結構的註冊名稱。就這麼簡單！\n![基礎指令](https://cdn.modrinth.com/data/AVo2esap/images/58618774722dd5a2ee0de8a387d6f62d102091ba.png)\n\n將此模組安裝在伺服器上後，所有用戶端（包括原版用戶端）都能使用基礎的 `/wits` 指令！\n\n伺服器管理員或伺服器擁有者可以使用 `/witsop` 指令，並加入維度與座標參數，來獲取任意維度中任意位置的結構名稱。非管理員無法使用帶有這些額外參數的指令，從而保持此模組對玩家而言相當平衡。\n![管理員指令](https://cdn.modrinth.com/data/AVo2esap/images/c0b9c7f0be98ca057c53cca020cb51fb97c51341.png)\n\n&nbsp;\n\n**注意：** 模組中並非所有建築都屬於結構，因此本指令無法偵測到。例如原版的地牢和沙漠水井屬於「特徵」。這是遊戲機制的限制，因為特徵不像結構那樣在區塊中儲存自身資訊。在世界生成完成後，我無法取得特定位置的特徵名稱。基本上，本模組只能偵測到你能用 `/locate` 指令找到的那些結構，僅此而已。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

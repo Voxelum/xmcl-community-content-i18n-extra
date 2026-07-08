@@ -1,0 +1,6 @@
+{
+  "bodyHash": "43ao0XhjiJs=",
+  "content": "# SIRIUS UI（原名 Alan's Unified UI）\n\n## ✨ 你可以使用資源包來修改使用者介面！  \n### [**教學或Wiki**](https://siriusui.vercel.app/)\n如果打不開，你也可以試試這個。\n### [**教學或Wiki**](https://alanht520.github.io/SIRIUS-Ui-Mod/)\n\n## 簡介\nSIRIUS UI（原名 Alan's Unified UI）是一個視覺重製專案，致力於重新打造 Minecraft 的使用者體驗。此計畫建立了一套統一的設計語言，將現代極簡美學與精緻視覺元素和諧結合。\n\n隨著核心架構的遷移，本專案已從單純的視覺翻新，發展為由 **Json UI Engine** 驅動的自訂框架。介面佈局與邏輯不再寫死，而是由使用者透過 JSON 文件自由定義。\n\n## 技術轉變與核心功能\n\n### 🎉 核心成果：Json UI Engine\n我們引入了 Json UI Engine，實現了介面呈現與功能程式碼的完全分離。資源包創作者現在只需編寫簡單的 JSON 文件，即可完全控制佈局、材質與元件，無需修改 Java 原始碼。\n\n### 🎨 動態與響應式佈局\n引擎配備了靈活的座標表達系統，並提供如 `center` 和 `bottom-20` 的快捷方式，確保你的自訂 UI 在所有螢幕比例下都能完美對齊。\n\n### 🚧 持續開發中\n目前，Json UI Engine 完整支援「標題畫面」與「遊戲選擇畫面」的重構。  \n**請注意：** 選項選單仍由原版系統驅動，目前無法透過引擎修改。我們正在努力將引擎功能擴展到更多原生畫面上。\n\n## 重要注意事項\n\n### 📢 版本狀態：公開 Alpha 版\n請注意：這個早期的 Alpha 版本主要用於展示 Json UI Engine 的自訂潛力。  \n我們的目標是提供直覺化的工具，讓每位創作者都能輕鬆重塑遊戲的視覺效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

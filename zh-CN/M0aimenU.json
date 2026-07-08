@@ -1,0 +1,6 @@
+{
+  "bodyHash": "i93y+VkwOcw=",
+  "content": "![标题](https://cdn.modrinth.com/data/cached_images/2d429519ce263b5094c15779e6086a1af94feb10.png)\n等轴渲染功能允许您拍摄等轴视角的截图，更准确地说，可以生成游戏对象的渲染图，包括世界局部区域、方块、物品和实体。\n\n这些渲染图会自动进行抠像处理以获得透明背景，您可以直接在游戏内通过精美的图形界面调整缩放比例、位置以及更多选项。\n\n此功能专为模组维基或类似文档需求设计，操作简便且性能表现优异。\n\n详细文档请访问：https://docs.wispforest.io/isometric-renders/home\n***\n🌟 **当前支持的渲染目标** 🌟\n- 物品\n- 方块\n- 实体\n- 世界区域\n- 批量导出多个方块或物品\n- 物品图集（概览图）\n\n基础命令为 **/isorender**\n***\n![区域渲染展示](https://cdn.modrinth.com/data/cached_images/280b6f079657b44917e799637c6aa16d8b276974.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

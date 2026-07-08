@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xbHfEavc1Ek=",
+  "content": "<h1>星光與機械動力修復版</h1><h3 style=\"text-align:center\"><strong>此為由 <a href=\"https://www.curseforge.com/members/spottedleaf/projects\" target=\"_blank\" rel=\"nofollow\">Spottedleaf</a> 開發之 1.20.2 版本模組的回溯移植版本，內含機械動力相容性修復</strong></h3><p>此為 Forge 模組，透過重寫光照引擎來修復光照效能問題與光照錯誤。</p><p>&nbsp;</p><h2>相容性</h2><p>星光模組可安裝於專用伺服器或客戶端，<em>無需</em>兩端同時安裝。若伺服器已安裝星光模組，客戶端可使用原版/磷光/星光模組進行連線。同理，若客戶端安裝星光模組，亦可連線至原版/磷光/星光模組伺服器。</p><p>星光模組<em>無法</em>與磷光模組同時安裝，兩者完全不相容。瀏覽<a href=\"https://github.com/PaperMC/Starlight/issues\" rel=\"nofollow\">星光問題追蹤頁面</a>可查閱更多模組衝突資訊。由於星光模組採用破壞性較強的光照引擎重寫方案，預期可能導致更多模組相容性問題。</p><h2>開發宗旨</h2><p>星光模組專為高負載專用伺服器開發，因原版光照引擎效能嚴重不足導致伺服器效能問題。唯一解決方案是建立徹底重寫整個光照引擎的高度侵入式模組。本人將此模組移植至 Fabric 架構以便在快照版本期間持續更新，並認為公開提供給所有使用者（特別是客戶端使用者）將帶來益處。然而侵入式設計確有缺點：此特性對高負載伺服器影響較小，因其多運行於 Bukkit 環境。</p><p>關於星光模組效能優化的技術細節可參閱：<a href=\"https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md\" rel=\"nofollow\">技術細節文件</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

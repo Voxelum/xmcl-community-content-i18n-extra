@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bfcLhtNe33E=",
+  "content": "<p style=\"text-align:center\"><strong>什么是<em>DummyCore</em>？</strong><br><br>DummyCore是DummyThinking团队用于制作模组的API。它包含一些实用功能，使我们更容易进行模组开发。<br><br>DummyCore提供的不同功能：<br><br>1) 更简便的模组/配置文件注册<br>2) 自动创建创造模式标签页<br>3) 数据包系统<br>4) 处理数据的新方法（保存为字符串并后续解析）<br>5) 世界/玩家存档处理器（允许保存您的数据）<br>6) MiscUtils中的大量实用函数<br>7) 属性系统<br>8) 自定义主菜单支持<br>9) 用于移除.class文件接口的ASM功能（不了解这是什么？去谷歌搜索！）<br><br>如果您愿意，可以将DummyCore用作您模组的API——该API已完整文档化，您可以理解其中的所有内容（至少我希望如此）</p><p style=\"text-align:center\">&nbsp;</p><p style=\"text-align:center\"><strong>通用安装指南</strong><br><br>1) 如果尚未安装Minecraft Forge，请先安装。使用他们的新安装程序非常简单。<br>2) 下载模组本体。<br>3) 将下载的.zip文件放入您的mods文件夹<br>4) 启动游戏检查是否一切正常运行。<br><br></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

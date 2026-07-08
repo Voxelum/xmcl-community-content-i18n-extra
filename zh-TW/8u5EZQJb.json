@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NOMh54m7nZ0=",
+  "content": "這是一個簡單的兼容模組，會在 TerraFirmaCraft 世界生成過程中將所有樹木轉換為動態樹木。\n\n## 變更：\n- 掉落物也改為種子而非樹苗。\n- 紅杉、木棉和金合歡現在會掉落種子。\n- 紅杉/其他世界生成的 2x2 樹木不會長得像原版 TFC 那樣大。\n- 棕櫚樹可能不會掉落種子，因為它們的葉子很少。\n \n## 支援：\n請參閱 TFC:TNG 論壇中的 #content>Dynamic Trees TFC！以獲得支援 [https://invite.gg/terrafirmacraft](discord)。\n \n## 配置：\n此模組更改了動態樹木的預設值以符合 TFC 的期望，設置可穿透的葉子、樹木收穫產量為 1.5 倍、種子掉落機率為 0.02，以及斧頭傷害模式為體積。這些更改可以通過在 dttfc-common.toml 文件中將 tweakDTConfigs 設置為 false 來關閉。這適用於 1.20.1 和 1.18.2 版本。\n\n## 依賴：\n此模組需要動態樹木、動態樹木加強版和適用於 1.20.1 的 TFC。\n\n## 1.18 \n### 依賴：\n此模組需要動態樹木 1.0.2+、動態樹木加強版 1.0.0+ 和適用於 1.18.2 的 TFC 2.2.23+。\n\n## 1.12\n### 配置：\n\n此模組沒有自己的配置文件，但會遵循動態樹木的配置文件。建議將 \"isLeavesPassable\" 設置為 true 以符合正常 TFC 行為。為了平衡此模組生成的較稀疏樹木需要更多空間，建議將 \"harvestMultiplier=1.5\" 更改以更接近 TFC 的木材產量。還建議將 maxTreeHardness 設置為至少 50，以大致重現 TFC 的砍樹時間。\n\n### 依賴：\n此模組需要動態樹木 0.9.19+ 和適用於 1.12.2 的 TFC 1.7.6.164+。\n\n## 模組包：\n此項目採用 MIT 許可證，因此無需請求許可，您可以將其包含在任何模組包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

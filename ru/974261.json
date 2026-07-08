@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bUedYAOlOBY=",
+  "content": "<p>Мод серверной части, который отправляет (настраиваемое) сообщение в чат, когда приходит время просыпаться.</p><p>Файл конфигурации можно найти по пути <code>config/zzz_rawr/config.toml</code>. Вот как он выглядит по умолчанию:</p><p><img src=\"https://i.imgur.com/zawnDM4.png\" alt=\"\"></p><p>Вы можете добавлять или удалять сообщения здесь по своему усмотрению, следуя <a href=\"/linkout?remoteUrl=https%253a%252f%252ftoml.io%252fen%252f\" rel=\"nofollow\">спецификации TOML</a> для массива строк.<br>\nЗатем каждый раз, когда игроки просыпаются от сна, одно из заданных сообщений будет транслироваться в чат глобально.</p><p>Вдохновлено такой же функцией, что и в классическом моде <a href=\"https://www.curseforge.com/minecraft/mc-mods/morpheus\" rel=\"nofollow\">Morpheus</a>, а название заимствовано из конфигурации этого мода в <a href=\"/linkout?remoteUrl=https%253a%252f%252fdragonrealm.overminddl1.com%252f\" rel=\"nofollow\">DragonRealm</a> от ReikaKalseki.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

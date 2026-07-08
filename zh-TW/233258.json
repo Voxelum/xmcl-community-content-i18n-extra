@@ -1,0 +1,6 @@
+{
+  "bodyHash": "P/2GMlQSuCo=",
+  "content": "<p>此模組提供簡單的方式讓您停用自然怪物生成。安裝模組後，您可以修改生成的設定檔來調整生成行為。</p><p>&nbsp;</p><h2>使用指南</h2><ol>\n<li>從 CurseForge 下載模組並安裝至 mods 資料夾。</li>\n<li>啟動遊戲或伺服器一次，待載入完成後關閉遊戲。</li>\n<li>在遊戲的 config 資料夾中找到 badmobs 設定檔（該資料夾與 mods 資料夾同層，但不在 mods 資料夾內）。</li>\n<li>使用文字編輯器開啟設定檔，每個已註冊的生物都會有預先生成的選項。修改完畢後儲存檔案，重新啟動遊戲即可。</li>\n</ol><p>&nbsp;</p><h2>已知問題 &amp; 常見問題</h2><ul>\n<li>在 Minecraft 1.19.3 及以下版本，停用普通生成也會連帶停用生怪磚和生怪蛋。此問題源自 Forge 的錯誤，導致模組無法取得可靠的生成資訊。Forge 團隊已在 1.19.4 及以上版本修復，但舊版本不會獲得此修正。1.19.4+ 的使用者不受此影響。</li>\n<li>生物仍然生成但看不見？這是因為伺服器未安裝模組，或伺服器設定檔不一致。請確保伺服器正確設定以解決此問題。</li>\n<li>用戶端與伺服器端都必須安裝此模組。雖然可能僅在伺服器端執行，但此用法不受支援。</li>\n<li>想用此模組製作殭屍末日整合包？我不懂為何每週至少有人問我一次。這不是此模組的用途。您可以停用所有非殭屍的生物，但已有更適合的模組可達成此目的。</li>\n<li>設定檔在啟動遊戲時被重置？這是因為 Forge 偵測到設定檔錯誤，將其還原為預設值。這是使用者操作失誤，請自行學習正確編輯方式。</li>\n</ul><p>&nbsp;</p><p><a href=\"https://www.curseforge.com/linkout?remoteUrl=https://nodecraft.com/r/darkhax\" rel=\"nofollow\"><img src=\"https://nodecraft.com/assets/images/logo-dark.png\" width=\"384\" height=\"90\"></a><br>本專案由 Nodecraft 贊助。使用代碼 <a href=\"https://www.curseforge.com/linkout?remoteUrl=https://nodecraft.com/r/darkhax\" rel=\"nofollow\">Darkhax</a> 可享首月服務 30% 折扣！<img src=\"https://skulk.blmj.red/bad-mobs\" alt=\"\" width=\"1\" height=\"1\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

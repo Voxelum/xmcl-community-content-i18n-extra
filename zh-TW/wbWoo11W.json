@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oaD/IPo4GM8=",
+  "content": "![EMI Enchanting Information Example](https://i.imgur.com/zexjeZA.png)\n\n[![Bisect Hosting Link](https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp)](https://bisecthosting.com/fzzyhmstrs)\n\n# EMI Enchanting\n\nEMI Enchanting 是 [EMI 配方與物品檢視器](https://modrinth.com/mod/emi) 的一個插件，用於顯示附魔的各種資訊。透過底部的按鈕在不同資訊頁面中切換瀏覽。\n\n* 基本摘要資訊：該附魔是否為詛咒？村民能否交易？最高等級為何？\n* 有效物品：列出所有能被當前選定附魔附魔的物品。對物品點擊右鍵可查看該裝備能獲得的全部附魔。\n* 附魔描述：採用與同名模組相同的格式 `enchantment.namespace.path.desc`。\n* 衝突附魔：列出與當前選定附魔相衝突的所有附魔。\n\n<p><span style=\"font-size:14px;display:table\"> <span> <a href=\"https://discord.gg/Fnw2UbE72x\" rel=\"nofollow\"><img style=\"display:inline;margin-left:auto;margin-right:auto\" src=\"https://i.imgur.com/iXATO6K.png\" width=\"265\" height=\"122\"></a> </span> <span> <a href=\"https://tilt.fyi/O9GtemcqMI\" rel=\"nofollow\"><img style=\"display:inline;margin-left:auto;margin-right:auto\" src=\"https://cdn.modrinth.com/data/cached_images/cf27a9e31c423f6b3d0d02a644a395f05508f678.png\" width=\"288\" height=\"108\"></a> </span> </span> </p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

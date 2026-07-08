@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WTCtXeEbHEY=",
+  "content": "高级战利品信息为显示战利品表信息提供了全新方式。所有信息都以清晰明了的方式呈现。\n\n![高级战利品信息工具提示](https://cdn.modrinth.com/data/PEPVViac/images/7bde0c7d5728dec2576f80aa6bd29d280a902db0.png)\n![高级战利品信息预览](https://cdn.modrinth.com/data/PEPVViac/images/14fca00909ecd699b1566461c3bd94972fb38320.png)\n\n此模组并非独立模组，需要以下三种支持的配方查看器之一：\n- Just Enough Items (JEI)\n- EMI\n- Roughly Enough Items (REI)\n\n开箱即用支持的模组：\n- LootJS\n\n该模组还支持以下功能的插件：\n- 显示自定义战利品条目\n- 显示自定义战利品条件\n- 显示自定义战利品函数\n- 处理自定义数值提供器\n- 创建自定义分类（目前仅支持游戏玩法战利品分类）\n\n所有漏洞报告请提交至 [GitHub](https://github.com/yanny7/AdvancedLootInfo/issues)。\n\n[Discord](https://discord.gg/HauMDpbkNN)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

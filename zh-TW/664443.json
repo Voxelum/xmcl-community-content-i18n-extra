@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FrQhXrzWnZ4=",
+  "content": "<p>此模組將大多數附魔的預設最高等級設定為10級，同時解鎖修補、靈魂疾走和迅捷潛行。<br><br>包含效率、火焰附加、冰霜行者、穿刺、擊退、掠奪、忠誠、魚餌、穿透、力量、保護、水中呼吸、激流、鋒利、靈魂疾走、橫掃之刃、迅捷潛行、荆棘和耐久等附魔。<br><br>可透過設定檔案調整最高等級。<br><br>特別感謝ZephaniahNoah協助建立工作區與原始碼。</p><p>&nbsp;</p><p>Fabric版本需搭配<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a>！</p><p>NeoForge版本需搭配&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fneoforged.net%252f\" rel=\"nofollow\">NeoForge</a>。<br><br><br><br><strong>更新日誌：</strong></p><div class=\"spoiler\">\n<p><strong>v1.0：</strong></p>\n<p>初始版本發布</p>\n<p>&nbsp;</p>\n<p><strong>v1.1：</strong></p>\n<p><em>Fabric：</em> Mixin配置移至「mixin」項目（原為「client」），授權條款改為MIT</p>\n<p><em>Forge：</em>&nbsp;新增設定功能</p>\n<p>&nbsp;</p>\n<p><strong>v1.2：</strong></p>\n<p><em>Fabric：&nbsp;</em>更新至1.20.X版本，新增設定功能，加入幸運附魔</p>\n<p><em>Forge：&nbsp;</em>更新至1.20.X版本，修復設定問題，掠奪附魔現顯示為時運/掠奪/幸運</p>\n<p>&nbsp;</p>\n<p><strong>v1.3：</strong></p>\n<p><em>Fabric：&nbsp;&nbsp;</em>新增附魔等級多語言支援</p>\n<p><em>Forge：&nbsp;&nbsp;</em>新增附魔等級多語言支援</p>\n<p><em>NeoForge：&nbsp;</em>新增支援版本，追加附魔等級多語言支援</p>\n</div><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

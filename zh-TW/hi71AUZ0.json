@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VAKVAEu+l+4=",
+  "content": "這是一個簡單的圓石產生器。共有5個等級可供選擇，方便玩家使用多種版本。\n\n這個模組主要是作為獨立方塊來協助伺服器運作。單個運作的方塊實體效能遠勝於大量實體與世界內的圓石生成。\n\n但請隨意依照您的需求使用。\n每個等級的設定都可以在伺服器配置檔案中進行編輯。\n\n```\n[server.1]\n    #內部緩衝區可容納的最大物品數量。\n    #範圍：> 1\n    max = 64\n    #每次更新時生成的物品數量。\n    #範圍：> 1\n    count = 1\n    #每次生成更新之間的刻數間隔。\n    #範圍：> 1 interval = 40\n    #設為 true 可啟用自動將物品推送至上方的容器。\n    pushes = true\n```\n![產生器](https://puu.sh/ExoJb/f976a457ce.png)\n感謝 Drullkus 為它們製作了精美的模型。\n\n以下是預設的合成配方，但顯然可以透過資料包進行修改。\n\n![等級 1 配方](https://puu.sh/ExoUA/eb7baae051.png)\n![等級 2 配方](https://puu.sh/ExoUM/2a9819abb8.png)\n![等級 3 配方](https://puu.sh/ExoUQ/912f0c32fe.png)\n![等級 4 配方](https://puu.sh/ExoUS/d304c57fe1.png)\n![等級 5 配方](https://puu.sh/ExoUw/625b655689.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

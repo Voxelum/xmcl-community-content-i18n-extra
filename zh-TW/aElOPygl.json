@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SVTvxEslZMY=",
+  "content": "# 中文\n\n開發者已放棄 Forge，下面內容僅限 Fabric！\n\n這是一個在左上角顯示幀率的模組。\n\n此模組十分輕量，對 FPS 的影響幾乎為 0。\n\nFPS 的顏色會跟隨你的幀率變化，FPS<60 為紅色，FPS>=60 且 FPS<=120 為綠色，FPS>120 為藍色。\n\n按 N（預設，可更改）開啟設定頁面！\n\n# 英文\n\nThe developer has given up Forge, content is for Fabric only!\n\nThis is a mod that displays the frame rate in the top-left corner.\n\nThis mod is very lightweight and has almost zero impact on FPS.\n\nThe FPS color changes with your frame rate: red when FPS < 60, green when FPS ≥ 60 and FPS ≤ 120, and blue when FPS > 120.\n\nPress N (Default, changeable) to open the settings page!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

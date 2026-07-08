@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KH0dk3RDPC8=",
+  "content": "<p>与 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/hexerei\" rel=\"nofollow\">Hexerei</a></strong> 的兼容：</p><ul>\n<li><strong>魔法花刷帚</strong> —— 一柄神秘的扫帚刷，骑行时会在持有足够魔力的情况下自动恢复耐久度。</li>\n<li><strong>附魔师之帚</strong> —— 紫木灰色扫帚柄，可铭刻一道法术，使用扫帚技能键（参见 Hexerei 按键绑定）施放。</li>\n<li>为法术样式添加了少量粒子效果。</li>\n</ul><p>与 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/malum\" rel=\"nofollow\">Malum</a></strong> 的兼容：</p><ul>\n<li><strong>灵魂碎裂符文</strong> —— 释放纯粹魔法伤害，使灵魂碎裂成灵体，效果如同被灵魂猎手武器击杀。</li>\n<li><strong>附魔师之镰</strong> —— 与附魔师之剑类似，可在该镰刀上铭刻法术。此外，<strong>弹射投掷的镰刀</strong>会触发反应式法术。</li>\n<li><strong>护甲丝线</strong> —— 以丝线形式提供灵魂护盾、魔法精通和灵魂战利品增益，可用于点缀 Ars 护甲（或通过 Ars 扩展附魔加在其他护甲顶部）。</li>\n<li>[临时修复] 更正了用于魔法伤害检测的错误魔法标签。</li>\n</ul><p>与 <a href=\"https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks\" target=\"_blank\" rel=\"nofollow\">ISS</a> 的轻微调整：</p><ul>\n<li>Ars Elemental 护甲为对应元素的 ISS 学派提供小幅增益，ISS 的元素增益也适用于 Ars 符文（导致元素护甲获得双重增益，属于固有特性）。</li>\n<li>在可能的情况下，ISS 的元素抗性机制同样适用于 Ars 学派。</li>\n<li>为法术样式添加了少量粒子效果。</li>\n</ul><p>[六角施法兼容模块（源宝石作为媒介、紫木法杖）若未来登陆 1.21 Neo 版本，将予以移植]</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

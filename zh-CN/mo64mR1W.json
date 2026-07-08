@@ -1,0 +1,6 @@
+{
+  "bodyHash": "irj5qI0pTO0=",
+  "content": "## **⚙️MoreJS**\n\n一个扩展 [KubeJS] 的 Minecraft 模组，增加了额外的事件。\n\n[Discord]\n\n\n## **📑 概述**\n这是一个适用于 [Minecraft]-[Forge] 和 [Fabric] 的模组，需要 [KubeJS]。<br>\n以下是一些事件的概述：\n| 事件                             | 客户端脚本 | 服务器脚本 |\n| -------------------------------- | :-----------: | :-----------: |\n| morejs.villager.trades           |               |      ✔️       |\n| morejs.wanderer.trades           |               |      ✔️       |\n| morejs.player.start_trading      |               |      ✔️       |\n| morejs.enchantment_table.changed |               |      ✔️       |\n| morejs.enchantment_table.enchant |               |      ✔️       |\n| morejs.enchantment_table.tooltip |      ✔️       |               |\n| morejs.teleport                  |               |      ✔️       |\n| morejs.structure.load            |               |      ✔️       |\n| morejs.player.xp_change          |               |      ✔️       |\n\n[discord]: https://discord.com/invite/ThFnwZCyYY\n[kubejs]: https://kubejs.com/",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

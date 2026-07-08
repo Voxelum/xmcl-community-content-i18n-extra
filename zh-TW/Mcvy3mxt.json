@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Fx4PKXKRFBM=",
+  "content": "# LC²H | 失落城市：多執行緒版\n\n<p align=\"center\">\n  <a href=\"https://crowdin.com/project/lc2h\">\n    <img src=\"https://badges.crowdin.net/lc2h/localized.svg\" alt=\"Crowdin\">\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/Admany/Quantified-API\">\n    <img src=\"https://i.imghippo.com/files/k1781Ug.png\">\n  </a>\n</p>\n\n---\n\n## 相容性說明\n\n**官方支援並已測試：**\n\n- **C2ME**\n- **Sinytra Connector** *(V3.2.0 修復同步問題與載入器邊界案例)*\n- **Distant Horizons** *(V3.2.0 修復啟動崩潰問題並採用拉取式 LOD 取樣)*\n\n以上模組已通過 **LC²H V3** 驗證，標記為支援項目。\n\n---\n\n## 什麼是 LC²H\n\nLC²H 是針對 **失落城市** 模組的效能與穩定性重構層。\n\n**V3 版本將完整生成管線移出 Minecraft 主執行緒。**\n\n城市生成完全採用非同步、平行化且安全應用的方式執行。\n\n---\n\n## V3.0.0 – 工程奇蹟\n\n全面重建的架構包含：\n\n- 基於任務的生成器 API\n- 非同步排程器\n- 平行化工作池\n- 執行緒安全轉譯層\n- 多層級快取系統\n- 可選的 GPU 加速功能\n\n---\n\n## 城市安全結構系統\n\n- 防止結構物生成於城市內部\n- 移除懸浮植被\n- 清理世界生成殘留物\n\n成果：**清晰的城市天際線**。\n\n---\n\n## 設定介面\n\n已移除指令功能。設定現改為 **遊戲內建介面**。\n\n路徑：模組 → LC2H → 設定\n\n---\n\n## V3 效能優勢\n\n- 採用拉取式主執行緒應用\n- 避免佇列溢滿問題\n- 維持穩定 TPS\n- 可預測的載入時間\n\n---\n\n## 轉譯層\n\n透過隔離非安全狀態，使失落城市模組達成執行緒安全。\n\n---\n\n## 致謝\n\n**McJty** – *失落城市* 模組原作者。\n\n---\n\nLC²H – 版本 3.2.2  \n開發者：Admany – BlackRift Studios  \n2026 年 1 月 28 日",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

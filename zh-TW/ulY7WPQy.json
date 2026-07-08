@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vxLvssvsb2s=",
+  "content": "Colytra 是一個模組，能讓你將鞘翅附加到任何你想要的胸甲上，讓你在享受鞘翅功能的同時，也能保留穿戴酷炫盔甲的能力。Minecraft 1.13.2 以上版本需要 Caelus API 作為必要依賴。\n\n## 鞘翅附加\n\n要將鞘翅附加到胸甲上，只需將兩者放入合成格中。輸出結果會是帶有工具提示的胸甲，顯示鞘翅已附加至其上。\n\n![](https://i.ibb.co/tpw96Vg/colytra-tooltip.png)\n\n根據設定的選項，Colytra 有三種不同模式：\n\n* **普通模式**：胸甲和鞘翅各自獨立。它們各自保留自己的附魔，飛行時會正常消耗鞘翅的耐久度。鞘翅部分可以在鐵砧上使用幻影膜進行修復，並會有相應的先前工作懲罰。再次將 Colytra 放入合成格即可分離。\n* **合一模式**：胸甲和鞘翅會融合為一體，所有來自鞘翅的附魔都會合併到胸甲上。飛行時會消耗胸甲的耐久度/能量。無法分離。\n* **完美模式**：與合一模式相同，但飛行時不會消耗任何耐久度/能量。\n\n## 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m/3hVCGsy8g=",
+  "content": "<h2>TaCZ 包升級器</h2><p><strong>如果你使用的是官方 TaCZ，這個模組完全無關</strong><br>\n自動升級槍枝包，使其相容於 <a href=\"https://www.curseforge.com/minecraft/mc-mods/tacz-1-21-1\" target=\"_blank\" rel=\"nofollow\">TaCZ 1.21.1</a></p><h2>基本用法</h2><ol>\n<li>安裝模組</li>\n<li>像往常一樣將槍枝包放入 <code>tacz</code> 資料夾</li>\n<li>啟動遊戲，包會自動升級並載入</li>\n</ol><h2>關於 <code>.jar</code> 檔案</h2><p>在 TaCZ 的上下文中有兩種 <code>.jar</code> 檔案：</p><ol>\n<li><code>.jar</code> 槍枝包<ul>\n<li>Maxstuff、Daffa's Arsenal、Gucci &amp; Vuitton Attachments、LesRaisins Append Pack 等。</li></ul></li>\n<li><code>.jar</code> 模組附加元件（仍可包含槍枝包）<ul>\n<li>TaCZ Tweaks、LesRaisins Tactical Equipments、TaCZ Durability 等。</li></ul></li>\n</ol><p>升級器可以處理槍枝包，但無法處理模組附加元件；無法以程式方式將模組從 1.20.1 升級到 1.21.1</p><p>你需要將 <code>.jar</code> 槍枝包放入 <code>tacz</code> 資料夾，而不是 <code>mods</code> 資料夾<br>\n之後，一切應該會自動處理</p><h2>疑難排解</h2><ul>\n<li>某些槍枝包可能包含對某些模組附加元件的依賴（例如 LesRaisins Tactical Equipments）<ul>\n<li>在這種情況下，你無能為力，因為這些附加元件在 1.21.1 中不存在</li>\n<li>也許你可以找到沒有這些依賴的舊版本包</li></ul></li>\n</ul><h2>許可證</h2><p><a href=\"https://github.com/MUKSC/TaCZPackUpgrader/blob/main/LICENSE\" target=\"_blank\" rel=\"nofollow\">LGPLv3</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tHabvNSoVcQ=",
+  "content": "<h2>模組說明</h2><p>此為非官方製作的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/language-reload\" rel=\"nofollow\">Language Reload</a> Neoforge 移植版，致力於完整保留原始模組所有功能並確保相容性。</p><p>Language Reload 原為 Fabric 模組，針對語言相關功能提供多項便利性優化。</p><h3>功能特色</h3><ul>\n<li>無需重新載入資源包即可快速切換語言</li>\n<li>語言選單內建搜尋框</li>\n<li>多重語言選擇（每種語言的翻譯會覆蓋下方語言的翻譯內容）</li>\n<li>多語言物品搜尋（在創造模式物品欄與配方書中可使用任選定語言進行搜尋。此功能可透過 Mod Menu 或直接修改設定檔停用）</li>\n<li>若 options.txt 未設定 \"lang:\" 時自動偵測語言</li>\n<li>透過 F3 + J 重新載入語言，Shift + F3 + J 循環切換語言</li>\n</ul><h3>開發進度</h3><p>將持續追蹤原始模組版本更新，請耐心等候同步發布</p><h3>相容性說明</h3><h4>Modern UI 模組</h4><p>請開啟 Modern UI 設定畫面，於「文字排版」章節停用「使用文字組件快取」選項</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

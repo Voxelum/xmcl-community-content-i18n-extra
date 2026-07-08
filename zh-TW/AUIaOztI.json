@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xPEvvidknJE=",
+  "content": "<div align=\"center\">\n  <h3>☕ 贊助我的工作</h3>\n  <p>如果您願意支持我和我的專案，歡迎請我喝杯咖啡！</p>\n  \n  <a href=\"https://ko-fi.com/ciocolata47\">\n    <img src=\"https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png\" width=\"200\" alt=\"在 Ko-fi 上贊助我\">\n  </a>\n  <br>\n  <a href=\"https://github.com/CIOCOLATA47/NoRender\">\n    <img src=\"https://img.shields.io/badge/檢視原始碼-GitHub-181717?logo=github&logoColor=white\" width=\"250\" alt=\"在 GitHub 上檢視原始碼\">\n  </a>\n</div>\n\n---\n\n## NoRender\n\nNoRender 是一款輕量級的 Minecraft 優化模組，讓您能夠完全控制用戶端的渲染內容。透過停用覆蓋層、不必要的實體與粒子效果，可顯著提升 FPS 並減少畫面雜亂。\n\n## 主要功能\n\n* GUI：設定按鍵以開啟設定介面。  \n* 實體控制：隱藏掉落物品、物品展示框、盔甲座、經驗球等。  \n* 粒子控制：停用爆炸、營火煙霧、方塊破壞、圖騰粒子等對 PvP 與效能有幫助的效果。  \n* 覆蓋層移除：移除火焰、南瓜模糊、傳送門扭曲、暈眩傾斜、黑暗與暗角等畫面效果。\n\n## 設定分類\n\n* 覆蓋層：傳送門、火焰、暈眩、黑暗、南瓜、暗角、望遠鏡、液體、牆內覆蓋層與 HUD 藥水圖示。  \n* 世界與實體：停用天氣、圖騰觸發動畫、掉落物品、物品展示框、盔甲座與其他環境效果。  \n* 粒子效果：爆炸、煙火、營火煙霧、愛心、進食、方塊破壞、圖騰、藥水、音爆、振動、伏聆效果等。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

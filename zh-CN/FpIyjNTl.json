@@ -1,0 +1,6 @@
+{
+  "bodyHash": "W3uFEipM5Rk=",
+  "content": "# 功能说明\n\n修复了搭载LTW渲染器的Android设备上，MojoLauncher在1.21.11+版本中出现的怪异图形错误——当您高亮显示某个方块时，屏幕会产生奇怪的图形线条。\n\n![修复前](https://cdn.modrinth.com/data/cached_images/ccc8aeaacebedbb50c0ad719ca60645caad533c4.jpeg)\n![修复后](https://cdn.modrinth.com/data/cached_images/ca08b030895a1f5caa3886ab1d9a99b8c802897a.jpeg)\n\n注意：本模组仅适用于使用LTW的MojoLauncher。主要开发者是[ArtDeell](https://github.com/artdeell/)，他也是[MojoLauncher](https://github.com/MojoLauncher/MojoLauncher)的拥有者。如果您想支持他的项目，可以通过[此链接](https://boosty.to/artdeell/single-payment/donation/710722/target)向他捐赠。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

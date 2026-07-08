@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ydwv1tpN+KA=",
+  "content": "AirPlace — это простой мод, позволяющий размещать блоки в воздухе и отображать их с помощью эффектного оверлея.\n\n![Выберите свой оверлей](https://cdn.modrinth.com/data/PSoEcyVH/images/fd566643e4b4376dd327a030958323274247a932.png)\n\n(По умолчанию) **Управление:** \n- F7: Включить/выключить AirPlace (/airplace toggle)\n- Правый клик: Разместить блок в воздухе.\n\n![Пользовательские цвета](https://cdn.modrinth.com/data/PSoEcyVH/images/fc7a5e95b7a39c2fffa50863bee76bac7dc99f7f.png)\n\n**Команды:**\n- `/airplace <вкл|выкл|переключить>`: Переключить состояние AirPlace.\n- `/airplace renderMode <блок|линии>`: Переключить режим отображения AirPlace.\n- `/airplace config <сброс|перезагрузить>`: Сбросить или перезагрузить конфигурацию.\n- - `/airplace config setcolor \"<R> <G> <B>`: Установить цвет оверлея.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

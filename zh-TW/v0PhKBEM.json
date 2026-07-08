@@ -1,0 +1,6 @@
+{
+  "bodyHash": "g9/NQ5JXUYo=",
+  "content": "## 描述\n這是一個簡單的客戶端模組，允許你親吻實體。（生成愛心粒子並播放音效）\n\n觸發條件是按住潛行鍵並右鍵點擊實體。按下按鍵也可以觸發效果（預設為 **F7**）\n![親吻玩家](https://cdn.modrinth.com/data/cached_images/ddbde5d1bdc6d5772e3338dcabd0d0286a290ce0.png)\n## 伺服器端支援\n當伺服器也安裝了這個模組或插件時，安裝了模組的玩家可以看到彼此的效果。\n## 指令\n```/kissmod-rightclick```  切換是否啟用潛行右鍵觸發。\n\n```/kissmod-rightclick true```  啟用\n\n```/kissmod-rightclick false```  停用\n\n```/kissmod-proxlib```  切換是否啟用近距離通訊。\n\n```/kissmod-proxlib true```  啟用\n\n```/kissmod-proxlib false```  停用\n## 配置\n當安裝了 [Mod Menu](https://modrinth.com/mod/modmenu) 和 [Cloth Config API](https://modrinth.com/mod/cloth-config) 時，可以透過模組選單進入配置畫面來修改：\n### 一般設定\n- 是否使用潛行右鍵觸發；\n- 是否向他人顯示親吻；\n- 是否看到他人的親吻；\n- 按住時的觸發冷卻時間；\n- 是否啟用詳細日誌記錄；\n- 是否啟用近距離通訊 **（啟用後，附近的玩家可以看到你的親吻，無需在伺服器上安裝模組或插件）；**\n  > **警告：可能被反作弊系統誤認為異常，有被踢出或封鎖的風險，作者對此不承擔責任。**  \n在 Hypixel 床戰中測試：如果觸發過於頻繁，你將被傳送到 AFK 大廳，並顯示訊息：「由於網路連線不良，你已被傳送到邊界。」\n- 清單是否為白名單；\n- 近距離通訊的伺服器地址清單。\n### 音效設定\n- 是否播放音效；\n- 音效音量；\n- 音效音高。\n### 粒子設定\n- 愛心粒子的數量；\n- 粒子生成中心 XYZ 偏移；\n- 粒子生成的最大隨機 XYZ 偏移。\n## 更多支援的版本（基於版本 0.5 KissMod）\n這裡有一個移植模組 https://github.com/Xiaoyu-2009/kiss-mod-transplant\n\n非官方版本 https://modrinth.com/mod/kiss-mod-unofficial\n## 插件的開源儲存庫連結\nhttps://github.com/chicken-awa/kiss-mod-Plugin",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

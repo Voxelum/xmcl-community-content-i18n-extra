@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5KH4NmAWNUI=",
+  "content": "# <p align=\"center\">Абсолютный реализм  \n**<p align=\"center\">Полностью переработанный геймплей, огромный красивый мир,<br> кинематографическая графика, множество нового контента и улучшения каждого аспекта игры.**\n****\n![поле с облаками](https://cdn.modrinth.com/data/cached_images/a1b66758023672f2da73f951eca0603d07de1b6f.png)\n![лес](https://cdn.modrinth.com/data/cached_images/df59751678ff990b841ff408ceaa61cc7e7f3f88.png)\n![снежные горы](https://cdn.modrinth.com/data/cached_images/9fa7a63325157b7e396d6f68ae465c7526466fea.png)\n****\n# <p align=\"center\">Важно!\n\n1. **Выделите 4–8 гигабайт оперативной памяти для Absolute Realism.**\n\n2. **Отключите VSync для немного лучшей производительности в разделе «Настройки — Видео — Общие».**\n\n3. **Если вы видите сообщение «Distant Horizons: обнаружен сборщик мусора G1», вы можете исправить это, добавив «-XX:+UseZGC» в аргументы Java.**\n\n4. **Важные клавиши управления: C — ползти; Левый Alt — изменять скорость ходьбы; X — сидеть.**\n\n****\nИсходный репозиторий шейдера Bliss — https://github.com/X0nk/Bliss-Shader",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

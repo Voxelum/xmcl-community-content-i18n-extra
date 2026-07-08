@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TpASenno5g8=",
+  "content": "<div>\n<div>數據包工具</div>\n<br>\n<div>Minecraft (Fabric) 客戶端數據包追蹤器。</div>\n<br>\n<div>數據包工具添加了一個簡單的遊戲內 UI，可即時列出進出數據包，讓您查看客戶端正在發送和接收的內容。</div>\n</div><div>&nbsp;</div><div>功能特色</div><div><br>\n<div>- 附有時間戳的即時數據包列表</div>\n<div>- 進出數據包過濾器</div>\n<div>- 按數據包類別名稱搜尋</div>\n<div>- 清除按鈕</div>\n<div>- 支援 Mod Menu (可開啟數據包工具畫面)</div>\n<br>\n<div>使用方式</div>\n<br>\n<div>- 在遊戲中按下 R 鍵開啟/關閉數據包工具。</div>\n<div>- 使用搜尋列和過濾器縮小結果範圍。</div>\n<div>- 點擊清除以重置記錄。</div>\n<br>安裝方式</div><div><br>\n<div>1. 為您的 Minecraft 版本安裝 Fabric Loader。</div>\n<div>2. 為相同 Minecraft 版本安裝 Fabric API。</div>\n<div>3. 將 jar 檔案放入 mods 資料夾中。</div>\n<br>\n<div>授權條款</div>\n<br>\n<div>版權所有</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

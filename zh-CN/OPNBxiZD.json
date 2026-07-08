@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mA/FtkYVTQE=",
+  "content": "**CC: Sable** 是一款为 Create: Simulated 的 Sable 后端提供的 CC: Tweaked 附加组件！\n\n目前，它为所有游戏内计算机提供了子层级 API（`sublevel`）！只有当计算机位于子层级（物理对象）上时，其方法才能被正确调用。此外，它还提供了空气动力学 API（`aero`、`aerodynamics`），供所有游戏内计算机访问维度特定的物理信息！\n\n本模组还附带了 [CC: Advanced Math](https://techtastic.github.io/Advanced-Math/) 数据包，以提供额外的数学工具，即用于处理 3D 空间旋转的 `quaternion` 模块。该模块用于将子层级的朝向转换为 Lua 更易使用的格式。\n\n---\n\n## 补充参考\n\n### LuaBezierResourceFunction 对象\n该对象来自 `aero.getRaw` 和 `aero.getDefault` 返回的表，具体通过 `pressureFunction` 键获取。\n#### getPoints(): table\n该方法返回沿贝塞尔曲线的一组点，每个点包含 `altitude`、`value` 和 `slope` 字段。\n#### evaluateFunction(altitude: number): number\n该方法根据沿贝塞尔曲线的高度对函数进行求值。\n\n### 更多方块详细信息\n本模组还会将方块的物理属性添加到任何调用方块详细信息的函数中，例如 `turtle.inspect()`。\n这些新信息将列在 `\"sable\"` 键下，并包含以下键值对：\n- `mass: number`\n- `friction: number`\n- `restitution: number`\n- `volume: number`\n- `floatingScale: number`\n- `floatingMaterial: table`（可以为空）\n  - `factHorizontalFriction: number`\n  - `factVerticalFriction: number`\n  - `slowHorizontalFriction: number`\n  - `slowVerticalFriction: number`\n  - `liftStrength: number`\n  - `transitionSpeed: number`\n  - `preventSelfLift: boolean`\n  - `scaleWithGravity: boolean`\n  - `scaleWithPressure: boolean`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

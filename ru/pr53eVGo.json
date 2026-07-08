@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BTbXxY7KqiM=",
+  "content": "Flashback Addon для добавления обработки визуальных эффектов и других функций по запросу.\n\n**ЕСЛИ У ВАС УСТАНОВЛЕН ЭТОТ МОД, НЕ СООБЩАЙТЕ ОБ ОШИБКАХ РАЗРАБОТЧИКУ MOULBERRY (разработчику Flashback)**\n\nОсновное руководство:\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/HtCk7lwAgBk\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\nПрезентационный ролик (весь создан с помощью FlashPlus):\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/NePRDbeOILg\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nТекущие функции\n- Отслеживание объектов\n- Экспорт траектории камеры (включая ключевые кадры FOV)\n- Экспорт панорамы (для HDR-изображений)\n\nЗапланированные, но пока не реализованные:\n- Экспорт карт глубины\n- Экспорт мира\n\nДля импорта в Blender вам понадобится дополнение:\nhttps://github.com/FalseMSP/RedsFlashbackImporter\n\nОбъяснение того, что делает мод.\nhttps://www.youtube.com/shorts/Li5Q1k-nRQU",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

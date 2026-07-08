@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PGgfdfkuL34=",
+  "content": "FTpa 只能在服务器上加载。它为玩家添加了一些命令。\n\n这个模组仅用于填补 Minecraft 1.21.11 fabric 版本的功能空缺。\n\n| 命令 | 功能 |\n|------|------|\n| /tpa <玩家> | 向目标玩家发送传送请求 |\n| /tpahere <玩家> | 邀请目标玩家传送到你身边 |\n| /tpaccept | 接受来自他人的传送请求 |\n| /tpadeny | 拒绝来自他人的传送请求 |\n| /tpacancel | 取消你向他人发送的传送请求 |\n\n如果模组版本 >= 0.2，你可以在配置文件中更改所有 tpa 消息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m9Q250bFiJU=",
+  "content": "<h1>SquareMap 旗幟模組</h1><p>\n  <img alt=\"預覽圖\" src=\"https://cdn.modrinth.com/data/cached_images/7aff01f0dc618bfa0233b2ecd6fee27b483c928e.png\">\n</p><p>本模組是 <a href=\"https://github.com/jpenilla/squaremap\" rel=\"nofollow\">SquareMap</a> 模組的擴充功能，\n新增與遊戲內旗幟相關的額外功能：使用旗幟在世界地圖上建立可見標記。靈感來源自\n<a href=\"https://github.com/jpenilla/squaremap-addons/tree/master/addons/banners\" rel=\"nofollow\">squaremap-banners 插件</a></p><h2>✨功能特色</h2><ul>\n<li><strong>旗幟標記</strong>：手持已探索地圖時，潛行狀態下對命名旗幟按右鍵可將該旗幟添加到世界地圖。</li>\n<li><strong>旗幟移除</strong>：手持已探索地圖時，潛行狀態下對命名旗幟按左鍵，或破壞旗幟，可將其從世界地圖中移除。</li>\n<li><strong>區域通知</strong>：進入旗幟標記區域時顯示提示訊息。</li>\n</ul><p>\n  <img alt=\"額外預覽圖\" src=\"https://raw.githubusercontent.com/FaeWulf/squaremap_banner/master/images/preview_extra.png\">\n</p><h2>⚙️設定配置</h2><p>模組提供 JSON 設定檔，包含以下選項：</p><ul>\n<li><code>radius</code>：設定旗幟宣告的區域範圍大小。</li>\n<li><code>announce_when_near_banner</code>：啟用/停用進入旗幟區域時的提示訊息。</li>\n<li><code>blacklist</code>：包含禁止註冊到世界地圖的詞彙清單。</li>\n</ul><h2>⚠️模組依賴</h2><ul>\n<li>SquareMap 主模組</li>\n<li>Fabric API</li>\n</ul><h2>🪧權限設定</h2><ul>\n<li><strong>squaremap.banner.use</strong>：玩家使用模組功能所需的權限。</li>\n<li>若未安裝權限管理模組，則僅限權限等級 1 及以上的玩家可使用本模組。</li>\n</ul><h2>👍支援與反饋</h2><p>若遇到任何問題或有改進建議，歡迎至 GitHub 儲存庫提交議題。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

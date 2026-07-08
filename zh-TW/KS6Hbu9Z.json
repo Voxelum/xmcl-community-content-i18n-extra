@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kveEo/gtBlM=",
+  "content": "由 RedDev（我）在 Minecraft 中實現的基於光線追蹤的音頻系統。這與 Sound Physics 模組不同，因為光線是從玩家而不是聲源發出（理論上更優化）。迴聲效果使用 OpenAL 達到盡可能高的精準度。此模組是根據 Vercidium 影片《光線追蹤音頻初探》中討論的框架開發的。同時兼容 SVC 和 Sinytra，哇，太棒了。\n\n長話短說：超酷的光線追蹤音頻，嗚呼~！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ICHHoZH82fw\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<details>\n<summary>解說影片</summary>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/xYEn5TlQ6Yw\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n</details>\n\n完整開發日誌流程：[播放清單](https://www.youtube.com/playlist?list=PLFZJv03VT4l4e0WHEBjRRmWVq-Hg6RR1w)\n\n**請注意：我們有問題追蹤器用於回報錯誤或提出功能需求。請只在你想閒聊或遇到非錯誤的模組問題時加入 Discord。**\n\n<details>\n<summary>配置選項</summary>\n  配置現在非常大，因此我從這裡移除了，請使用如 ModMenu 等遊戲內替代方案，因為我們已提供相關支援 :)\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

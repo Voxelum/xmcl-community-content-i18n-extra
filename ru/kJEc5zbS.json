@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZIg7E2y5MdY=",
+  "content": "# Индикатор сброса прыжка\n\nВы начинающий боец с мечом? Вас беспокоит чрезмерный отскок? Вам нужна помощь в определении точных моментов для прыжков?\n\nПредставляем вам этот мод! Он оснащён простым элементом HUD, который показывает, насколько вы пропустили окно прыжка (или если вы попали в него идеально — поздравляем!).\n\n## Но что такое сброс прыжка?\n\n(Хотя видео посвящено версии 1.8, оно всё равно актуально и для последних версий!)\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/_5Y6sFwTYSE\" title=\"Плеер YouTube-видео\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nЭтот механизм работает благодаря тому, что Minecraft добавляет дополнительную скорость в направлении, в котором вы смотрите, когда прыгаете! (Правда, только если вы бежите на максимальной скорости.)\n\n## Зависимости\n\nДля работы этого мода необходимы [Fabric API](https://modrinth.com/mod/fabric-api), а также [Cloth Config](https://modrinth.com/mod/cloth-config) и [Mod Menu](https://modrinth.com/mod/modmenu) для настройки.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

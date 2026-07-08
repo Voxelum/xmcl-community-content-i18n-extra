@@ -1,0 +1,6 @@
+{
+  "bodyHash": "L3VL4uC0MnE=",
+  "content": "Использует атрибут generic.scale, введённый в версии 23w51a, чтобы масштабировать игрока относительно его здоровья.\n\n![Игрок получает урон и становится меньше](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnQ0Zm9lYWhpaTB3OG9icWZ1YmNpeGljN2s0a29oaW5lODR6aHd6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5VMSiv7HRHBQVlhAT/giphy.gif)\n\n- Вы можете выполнить команду `/trigger sizeMultiplier set [значение]`, чтобы настроить свой Multiplier размера (по умолчанию: 10).\n- Вы можете выполнить команду `/scoreboard players [имяИгрока] sizeMultiplier [значение]`, чтобы настроить Multiplier размера любого игрока (по умолчанию: 10).\n- Вы можете добавить тег `[имяИгрока] add dontSize`, чтобы размер этого игрока не менялся.\n\nПо любым вопросам обращайтесь ко мне в Discord! @hexasan",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

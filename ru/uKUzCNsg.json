@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xZmru6gcLjE=",
+  "content": "Простой пакет шейдеров Iris, реализующий [усовершенствованное субпиксельное морфологическое сглаживание 1x](https://github.com/iryoku/smaa) с улучшенным обнаружением краёв с использованием [разности цветов redmean](https://www.wikiwand.com/en/articles/Color_difference#sRGB).\n\nОн разумно сглаживает диагональные края, уменьшая артефакты в виде лестницы при минимальном влиянии на производительность, при этом сохраняя цвета, освещение и крупномасштабную геометрию максимально близкими к оригинальному Minecraft. Включает высокооптимизированную реализацию рендеринга, подобного стандартному, из [Base-460C](https://github.com/Luracasmus/Base-460C).\n\n## Требования\n\n> Если у вас есть достаточно современное устройство, не работающее под macOS, оно, вероятно, поддерживает всё необходимое, однако вам может потребоваться обновить Iris и драйверы графики.\n\n* **[Iris](https://github.com/IrisShaders/Iris)** с [функциями](https://shaders.properties/current/reference/shadersproperties/flags/):\n  * `COMPUTE_SHADERS`\n  * `CUSTOM_IMAGES`\n  * `ENTITY_TRANSLUCENT`\n* **[GLSL](https://www.wikiwand.com/en/OpenGL_Shading_Language) 4.60.8+**\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

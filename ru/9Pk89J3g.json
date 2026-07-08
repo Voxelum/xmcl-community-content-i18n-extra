@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Xajndgpt4vM=",
+  "content": "**Just Enough Breeding (JEBr)** — это плагин для [JEI](https://modrinth.com/mod/jei)/[REI](https://modrinth.com/mod/rei)/[EMI](https://modrinth.com/mod/emi), который отображает полезную информацию о разведении различных мобов.\n\n##### **Особенности**\n\nЭтот мод добавляет дополнительные категории JEI/REI/EMI, предоставляющие следующую информацию:\n\n- Показывает предметы, необходимые мобам для разведения.\n- Отображает яйцо спавна моба для удобного поиска.\n- Указывает количество яиц, которые производит моб после разведения, если он откладывает яйца.\n- Если моб нужно приручить перед разведением, к его названию добавляется «(приручен)».\n\n![https://cdn.modrinth.com/data/9Pk89J3g/images/d5b16b34ad66f578808627a090a38dabb81f9f5e.png](https://cdn.modrinth.com/data/9Pk89J3g/images/d5b16b34ad66f578808627a090a38dabb81f9f5e.png)\n\n##### **Интеграции**\n\nХотите интегрировать свой мод с Just Enough Breeding (или наоборот)? В [wiki](https://github.com/Christofmeg/JustEnoughBreeding/wiki) есть всё, что вам нужно.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4hzDyZdebis=",
+  "content": "<p>此列表已與最新版本同步更新。舊版本可能包含一些已整合至原版遊戲的額外選項，或缺少新版本才有的功能。</p><h1>目錄</h1><p>可透過設定檔調整以下項目：</p><p><strong>針對每個方塊或方塊狀態：</strong></p><ul>\n<li>硬度</li>\n<li>工具需求（true - 需要工具才能獲得掉落物，false - 工具僅能加快挖掘速度）</li>\n<li>光照等級</li>\n</ul><p><strong>針對每個方塊：</strong></p><ul>\n<li>爆炸抗性</li>\n<li>滑溜度</li>\n<li>速度係數與跳躍係數（如同原版蜂蜜塊的設定）</li>\n</ul><p><strong>針對每個物品：</strong></p><ul>\n<li>設定預設資料元件，可調整堆疊數量、護甲與工具屬性等多項內容</li>\n</ul><p><strong>實體：</strong></p><ul>\n<li>變更預設屬性數值</li>\n</ul><p><strong>請注意</strong></p><p>本模組設計為備用方案，僅在模組不支援其他方式修改這些數值時使用。若模組本身有設定檔，請優先使用該設定。</p><p>另請注意，本模組不建議單獨使用。部分已提議的功能（如食物數值或燃料數值）無法透過本模組設定，我也不會加入此功能。若需要更多功能，請使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/crafttweaker\" target=\"_blank\" rel=\"nofollow\">CraftTweaker</a>。</p><p>本模組為 Forge 版本。我不會支援 Fabric 或其他模組載入器。我不會對舊版本進行反向移植，但會在有時間時盡快移植至新版本。</p><p>如需技術支援或閒聊，歡迎加入我的 Discord 伺服器！ <a href=\"https://discord.gg/GM6XSqM\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/GM6XSqM</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

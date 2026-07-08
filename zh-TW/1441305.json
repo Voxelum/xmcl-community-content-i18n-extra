@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oHnDjmqJ1Iw=",
+  "content": "<h1>SVDialog</h1><p>SVDialog 是視覺小說風格對話模組 <a href=\"https://www.curseforge.com/minecraft/mc-mods/vndialog\" target=\"_blank\" rel=\"nofollow\">VNDialog</a> 的一個分支，專為模組包 <a href=\"https://www.curseforge.com/minecraft/modpacks/society-sunlit-valley\" target=\"_blank\" rel=\"nofollow\">Society: Sunlit Valley</a> 的 NPC 更新而製作。</p><p>它提供了更貼近該模組包靈感來源《星露谷物語》的對話結構選項。雖然這是為模組包設計的，但您仍可自由在自己的作品中使用！</p><h2>變更與新增功能</h2><ul>\n<li>內聯頭像定位：將對話頭像放置在對話框開頭</li>\n<li>客戶端配置選項 <code>對話框 X 軸偏移</code>：可根據內聯頭像偏移或其他需求，將整個對話框向右或向左調整</li>\n<li>名牌移至內聯頭像下方並附帶背景</li>\n<li>自訂預設 UI <img src=\"https://media.forgecdn.net/attachments/1508/806/2026-02-01_14-23-52-png.png\" alt=\"內聯佈局\"></li>\n</ul><h2>為何要建立分支？</h2><p>VNDialog 提供了非常廣泛的配置和資料驅動格式，但《星露谷物語》的對話運作方式非常特殊。我不想因為持續提交可能不符合原始模組品質標準的 PR，而干擾原始模組的開發。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

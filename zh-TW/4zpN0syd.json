@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UoKOTx+vlrA=",
+  "content": "如同[原模組](https://modrinth.com/mod/language-reload)的作法。\n\n*請勿向原模組回報錯誤。*\n\nLanguage Reload Unofficial 是一個（neo）forge 模組，它增加了與語言相關的生活品質改進。\n\n功能\n- 快速切換語言，無需重新載入資源包\n- 在語言選單中加入搜尋框\n- 支援多種語言選擇\n  - 上層語言的翻譯會覆蓋下層語言的翻譯。\n- 多語言物品搜尋\n  - 可以在創造模式物品欄和配方書中，使用任何已選擇的語言進行搜尋。\n  - 可以透過 Mod 選單或直接修改模組設定檔來停用此功能。\n- 如果 options.txt 中沒有 lang: 設定，則自動偵測語言\n- 使用 F3 + J 重新載入語言，使用 Shift + F3 + J 循環切換語言",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

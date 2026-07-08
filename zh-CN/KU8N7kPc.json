@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WcQw3nqpqxI=",
+  "content": "一个与[Better Combat](https://modrinth.com/mod/better-combat)配合使用的附属模组，使其能与（人形）生物协同工作。\n\n需要安装[Mob Player Animator](https://modrinth.com/mod/mob-player-animator)才能通过[Player Animator](https://modrinth.com/mod/playeranimator)正确为生物添加动画效果。\n\n模组包含可配置选项，用于控制哪些生物可以使用Better Combat战斗系统，同时会自动黑名单中使用GeckoLib动画的生物，因为它们与Player Animator不兼容。\n\n该模组与[Guard Villagers](https://modrinth.com/mod/guard-villagers)和[Villager Recruits](https://modrinth.com/mod/villager-recruits)兼容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

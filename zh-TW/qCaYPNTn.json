@@ -1,0 +1,6 @@
+{
+  "bodyHash": "x4PDytVHBT0=",
+  "content": "![邊界香草橫幅](https://cdn.modrinth.com/data/qCaYPNTn/images/c0ea9ee22ba38c3d7cb364ba5306df479433025d.jpeg 'Borderline Vanilla Banner')\n\n「邊界香草」旨在透過更多內容擴展 Minecraft 的原始體驗，同時探索美麗清新的風景。這個模組包添加了一些 RPG 元素，例如可擴展的敵人、隨機生成的地牢、更多裝備進度以及世界 Boss。\n\n### 原始體驗強化+\n為確保 Minecraft 的核心玩法不受影響，此模組包未包含會徹底改變原始遊戲風格的 RPG 元素，例如屬性/等級進度、職業和魔法。\n\n### 世界生成\n「邊界香草」使用了 BetterX 搭配 Terralith、William Wythers 的擴展生態圈、ChoiceTheorem 的翻新村莊、城鎮與高塔、地牢與酒館、當冒險崛起、地下碉堡、BetterNether、Incendium 和 BetterEnd。原始結構如堡壘遺跡、要塞、海底神殿、終界龍、終界城市等保持不變。新增了兩個維度：「飽和之域」與「虛空之境」，並從 Ad Astra 加入了一些星球。\n\n#### 鳴謝\n以下模組取得自 Curseforge，目前尚未在 Modrinth 上架：\n+ [更好的 FPS 顯示距離](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric)\n\t+ [櫥櫃](https://www.curseforge.com/minecraft/mc-mods/cupboard)\n\n#### 光譜草 CTM 修復：\n1. 使用 WinRAR 打開 Spectral 壓縮檔\n2. 導航至 assets/minecraft/optifine/ctm/_grass/\n3. 打開 o_grass.properties\n4. 將 'tintBlock' 值改為 'minecraft:grass_block'，然後關閉並儲存變更\n\n#### 效能提示：\n1. 停用資源包「FancyFast Bushy Leaves」可顯著提升 FPS，尤其是在森林或茂密樹木附近。\n    - 若同時使用 Complementary Unbound，將陰影樣本品質調至「高」以下，將停用樹葉上的任何光影互動。\n2. 減少顯示距離。\n3. 若使用任何光影包，請在光影包設定中調整效能設定。\n4. 作為最後手段，選擇替代光影或完全停用光影。\n\n----\n##### 請注意，我不擁有此模組包中的任何模組。\n----",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

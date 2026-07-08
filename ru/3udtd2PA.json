@@ -1,0 +1,6 @@
+{
+  "bodyHash": "H2PchfxEZ5I=",
+  "content": "Включает совместимость MythicMetals для SimplySwords, когда MM используется с модом Connector. По умолчанию SimplySwords включает её только в Fabric, а значит, пользователи Forge не получат вариантов оружия для новых типов руды.\n\nЭтот мод включает функцию, которую я обнаружил в исходном коде на GitHub и которая удивительно отсутствует в опубликованном JAR-файле SimplySwords.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

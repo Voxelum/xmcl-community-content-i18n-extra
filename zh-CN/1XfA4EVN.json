@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fUbWj/WIgA0=",
+  "content": "你是否曾因僵尸不断敲打你的门而烦恼？如今，它们又找到了新的发泄对象——光源！\n\n现在，这些僵尸会主动寻找以下光源，并尽可能将其破坏（如果它们能够得手的话）：\n- minecraft:torch（火把）\n- minecraft:wall_torch（墙上的火把）\n- minecraft:lantern（灯笼）\n- minecraft:shroomlight（菌光体）\n- minecraft:redstone_lamp（红石灯）\n- minecraft:campfire（营火）\n- minecraft:beacon（信标）\n\n目前这个列表是硬编码的，因为我（暂时）还没想好如何构建一个合适的配置文件系统。\n\n![](https://user-stats.itssimple.se/p/q230LH5oE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

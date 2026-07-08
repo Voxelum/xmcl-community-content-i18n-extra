@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zAsAYOO70Wg=",
+  "content": "一款修復長期 FPS 穩定性問題的 Minecraft 模組。\n\n1] 在 FPS 目標受限時（因使用者設定或處於選單介面中）實現正確的幀率節奏：\n  -  Minecraft 1.21.11 及以下版本：允許 FPS 實際達到目標值，而非隨機低 5-20 FPS。\n  -  Minecraft 26.1 及以上版本：修復因使用過時資訊而導致的 FPS 降低 1 的問題。\n2] 在獨立執行緒中處理輸入，以修復因 `glfwPollInputs()` 導致的滑鼠移動時 FPS 降低 2-3 倍的問題（特別是在 Windows 系統使用高回報率滑鼠時）。\n\n對比：\n- 原版：https://www.youtube.com/watch?v=OW-tKVvHjY4\n- 穩定 FPS：https://www.youtube.com/watch?v=lk8H2A76Nss\n\n注意：啟動遊戲或調整視窗大小時，您可能會遇到圖形異常——這是刻意為之，因為修復此問題需要大量工作，且我希望將修改範圍降至最低以確保與其他模組相容。\n\n與 Sodium 相容\n\n建議設定：\n- `全螢幕：開啟`（因 Minecraft 在 Windows 系統使用「硬體：傳統翻轉」模式）\n- `垂直同步：開啟`（避免浪費時間渲染不會顯示的幀）\n- 在原版中：`最大幀率：無限制`（因原版 FPS 限制器有問題）\n- 使用穩定 FPS 時：`最大幀率：任意值`\n\n注意：部分 Minecraft 版本的渲染器效能較慢，可能需要進一步限制 FPS。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

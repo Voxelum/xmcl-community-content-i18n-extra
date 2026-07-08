@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZbykxA9mA30=",
+  "content": "# 废弃游乐园\n\n`废弃游乐园` 是一款以恐怖废弃公园为主题、拥有动态游乐设施及三阶段小丑潘尼怀斯遭遇战的 Forge 模组。模组使用 GeckoLib 实现生物、方块和物品的动画效果，适配恐怖地图或主题整合包。\n\n## 模组新增内容\n\n- `潘尼怀斯第一阶段` — 潘尼怀斯的第一形态。可召唤幽灵自行车冲向玩家。\n- `潘尼怀斯第二阶段` — 抓住玩家并将其拖向配置文件中定义的黑暗区域。\n- `潘尼怀斯第三阶段` — 运用多种能力：部分隐身、穿越方块、在公园内传送玩家。\n- 射击靶场靶子 — 靶子会在配置的公园区域内生成，可用投掷石子摧毁。\n- 力量测试仪小游戏 — 强力打击可奖励玩家。\n- 老虎机 — 消耗门票，奖励矿石，中奖后自动锁定。\n- 垃圾桶 — 大、小两种垃圾桶，内置随机战利品，随时间推移自动补充。\n\n## 功能特色\n\n- 三个潘尼怀斯阶段均有独立刷怪蛋。\n- 生物、方块和物品的动画模型。\n- 可配置的公园维度、黑暗区域、传送区域及靶子生成范围。\n- 手动激活技能及重载配置的指令。\n- 内置 `俄语`、`英语`、`西班牙语`、`葡萄牙语`、`法语` 和 `德语` 本地化文本。\n\n## 指令\n\n```text\n/aap reload\n/aap stand activate\n/aap pennywise_1 activate bike\n/aap pennywise_1 screamer\n/aap pennywise_1 reset\n/aap pennywise_2 activate grab\n/aap pennywise_2 screamer\n/aap pennywise_2 reset\n/aap pennywise_3 activate invisibility|invis|phase|phasing|teleport\n/aap pennywise_3 reset\n```\n\n## 支持的 Minecraft 版本\n\n- `1.16.5`\n- `1.19.4`\n- `1.20.1`\n- `1.20.4`\n- `1.21`\n- `1.21.1`\n- `1.21.4`\n- `1.21.6`\n- `1.21.8`\n- `1.21.11`\n\n## 依赖项\n\n- `Minecraft Forge`\n- `GeckoLib`\n\n如果你正在建造恐怖地图或幽灵游乐园体验，本模组可直接提供动态威胁、互动游乐设施以及可配置的公园事件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

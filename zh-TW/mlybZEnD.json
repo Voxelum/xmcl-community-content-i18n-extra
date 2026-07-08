@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wcobmEXU4F4=",
+  "content": "# Fake4 的跳躍重置模組：\nFake4 的跳躍重置模組是一款輕量級的用戶端 Fabric 模組，可幫助你在受到擊退後練習跳躍重置的時機。\n\n它會偵測傳送到你玩家的速度封包，測量你在之後按下跳躍鍵的時間，並在清晰的 HUD 疊加層上顯示你的時間，並分為完美、良好、接近和錯過等類別。\n\n# 功能特色：\n僅限用戶端\n不修改遊戲機制\n不發送封包或改變擊退效果\n可拖動的 HUD\n可調整的 HUD 縮放比例\n可設定的時間閾值\n可切換顯示毫秒/類別\n專為 PvP 練習而設計的簡單訓練疊加層。\n\n![使用範例。](https://cdn.modrinth.com/data/cached_images/99a6c64a10f104e8b089a1f4d3df5948f36dea5c.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

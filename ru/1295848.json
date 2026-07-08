@@ -1,0 +1,6 @@
+{
+  "bodyHash": "n0T22XKk4lI=",
+  "content": "<p><strong>Примечание: Это не добавляет контента! Это зависимость, которую используют другие моды для обеспечения совместимости.</strong></p><p>Этот мод позволяет использовать Jimmer ORM в модах для Fabric.</p><p>Мод работает независимо от версии Minecraft, так как зависит только от наличия Fabric Loader. (Причина указания конкретных версий Minecraft заключается в том, что официальный лаунчер CurseForge иначе не позволит людям установить его — не беспокойтесь об этом!)</p><p>Для пользователей: необходимо установить Fabric (например, через MultiMC, пока CurseForge не добавит поддержку) → <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252fwiki%252finstall\" target=\"_blank\" rel=\"nofollow\">https://fabricmc.net/wiki/install</a></p><p>Для разработчиков модов: см. → <a href=\"https://github.com/Enaium/fabric-mod-jimmer\" target=\"_blank\" rel=\"nofollow\">https://github.com/Enaium/fabric-mod-jimmer</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

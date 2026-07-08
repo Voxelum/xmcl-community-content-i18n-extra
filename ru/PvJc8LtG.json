@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yI+yG/3O4Q0=",
+  "content": "Добыча на месте\n=======\n\nПростой модуль, который при добыче пачки одинаковых блоков (например, вырубка деревьев и добыча руды) постоянно перемещает самый дальний из этих блоков в место добычи, позволяя выкапывать целую пачку блоков за один раз, не двигаясь с места.\nКонечный эффект напоминает различные цепные раскопки, но по эффективности ближе к оригиналу. Настройки можно изменять через игровое меню конфигурации или файл конфигурации.\n\nИсточник вдохновения и аналогичный мод под Fabric: [Mine Pulse](https://modrinth.com/mod/minepulse/)\n\n### Пример работы Mod/ResourcePack/Modpack/ShaderPack or other Minecraft related resources. Please keep the language style delightful for gamers.\n\n![Добыча руды](https://cdn.modrinth.com/data/cached_images/ce6346d5786be3f3b3e776a05cf6148400685e88.gif)\n![Вырубка деревьев](https://cdn.modrinth.com/data/cached_images/18e1b2c3043550575e13aaaf048df7f2c6bfba8d.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

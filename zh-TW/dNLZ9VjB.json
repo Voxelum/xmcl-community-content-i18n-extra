@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AiNIoC3Xk2s=",
+  "content": "**Xaero's Player Position** 是一款基於Xaero的小地圖與Xaero的世界地圖開發的Minecraft用戶端實用模組。  \n功能是顯示玩家當前座標（X/Y/Z），並提供便捷的位置分享文字，方便連線時快速集合與導航。\n\n### 主要功能\n- 即時顯示當前座標\n- 一鍵複製／傳送位置文字（用於聊天或隊伍溝通）\n- 支援主世界、地獄、終界座標顯示\n\n### 適用場景\n- 多人連線集合\n- 據點、礦坑、傳送門定位\n- 日常探索中的位置記錄\n\n### 使用方法\n由於Bug無法解決，需要按一下Tab鍵才能出現玩家頭像。大地圖的顯示會出現多個重複的頭像，沒有白邊的頭像是玩家目前的位置，存在白邊的是異常顯示，會存在一些視覺上的問題。\n\n### 下載前須知\n- 這是用戶端功能模組，不提供作弊功能，不繞過伺服器限制。\n- 需要安裝並啟用對應的載入器與前置依賴（見「依賴」）。\n\n### 依賴\n- Minecraft\n- [Xaero的小地圖](https://modrinth.com/mod/xaeros-minimap)\n- [Xaero的世界地圖](https://modrinth.com/mod/xaeros-world-map)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

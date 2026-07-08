@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kdHn5p6wyBk=",
+  "content": "<p>玩家和生物在穿过火把时有几率将其撞倒。潜行时可以避免这种情况。</p><p>这让重返洞穴或荒野变得更加危险，因为游荡的敌对生物或蝙蝠可能熄灭你的光源。</p><p>鼓励在房屋和建筑中使用更稳定、更有价值的光源，或通过各种方式隐藏火把。</p><p>如果你链接到此页面并通过某种方式（评论或推特）告知我，你可以在整合包中使用此内容。</p><p><strong><em>&nbsp;</em></strong></p><p><strong><em>在 Minecraft 1.14 版本中</em></strong></p><p>可破坏物品的方块标签。默认为火把。可以是任何你能走进的方块。</p><p>实体列表用于排除不会破坏火把的实体，如玩家。</p><div><div><p><br><br></p><p>#设置<br>[fragiletorches]</p><p>[fragiletorches.entities]</p><p>[fragiletorches.entities.gentle]<br>#\"温和\"实体列表，这些实体永远不会撞倒任何带有标签的火把<br>list = [\"minecraft:bat\", \"minecraft:boat\", \"minecraft:cat\", \"minecraft:ender_pearl\", \"minecraft:egg\", \"minecraft:horse\", \"minecraft:item\", \"minecraft:donkey\", \"minecraft:experience_orb\", \"minecraft:minecart\", \"minecraft:player\", \"minecraft:villager\", \"minecraft:wolf\"]</p></div></div><p>* 数据标签文件路径</p><p>按F3键后，你可以在右侧看到哪些方块带有标签。</p><p>&nbsp; /data/fragiletorches/tags/blocks/fragile.json</p><div class=\"spoiler\"><p>&nbsp; <br>&nbsp;<br>{<br>\"replace\": false,<br>\"values\": [<br>\"minecraft:torch\",<br>\"ceilingtorch:torch\",<br>\"tconstruct:stone_torch\",<br>\"minecraft:sugar_cane\"<br>]<br>}</p></div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

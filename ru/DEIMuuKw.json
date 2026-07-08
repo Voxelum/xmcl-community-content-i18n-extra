@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VVtythx/re8=",
+  "content": "[![Kinetic Hosting](https://cdn.modrinth.com/data/cached_images/1af71189dede4258766a75b4957acefce1910966.webp)](https://billing.kinetichosting.com/aff.php?aff=1406)\n\nДает Защите от снарядов шанс 6,25% отклонять снаряд на каждый уровень, достигая 100% при полной броне.\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/WARL_ItT-cU\" title=\"Плеер видео YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**Установка**\n\nДля версии с данными пакетами перейдите во вкладку «Данные пакеты», когда создаете мир, нажмите кнопку, чтобы открыть папку данных пакетов, и перетащите туда данный пакет. Он должен появиться в левой части экрана; после этого включите его так же, как вы бы включили экспериментальный данные пакет.\n\nДля версии с модом (в Windows) щёлкните правой кнопкой мыши на кнопке «Пуск» и выберите «Выполнить». Затем введите %appdata% в открывшееся окно — это откроет папку. Перейдите в .minecraft, затем в mods и перетащите туда файл .jar.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

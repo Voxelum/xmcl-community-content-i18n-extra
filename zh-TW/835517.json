@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GYS05yKfCiw=",
+  "content": "<p>你厭惡獄守者嗎？因為我超討厭牠，所以我製作了這個模組。</p>\n<p>「獄守者殺手」是一種能附魔在劍上的附魔，最高等級為V級。</p>\n<p>每級附魔可對獄守者額外造成50點傷害。</p>\n<p>&nbsp;</p>\n<p>1.21+版本新增功能：</p>\n<ul>\n<li>只能透過附魔台取得此附魔</li>\n<li>可使用書本與迴響碎片合成</li>\n<li>若搭配「附魔描述」模組使用，會顯示遊戲內附魔說明</li>\n<li>若想讓村民交易也能獲得此附魔，可透過資料包實現：將\"wardenslayer:warden_slayer\"添加到data -> minecraft -> tags -> enchantment -> tradeable.json檔案中</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

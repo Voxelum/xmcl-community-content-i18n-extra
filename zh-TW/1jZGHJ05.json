@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9fC0Vqrony8=",
+  "content": "![比較圖](https://imgur.com/FTD8uKA.png)\n\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/resourcepack/low-fire-pack) [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/texture-packs/low-fire-oculie)\n\n> #### Low Fire 降低了第一人稱視角中火焰的高度，確保在遊戲過程中不會干擾你的視線，同時保留地面上的原始方塊火焰紋理。\n\n- **火焰比原版低了 6 像素！降低了 37.5%！**\n- **火焰僅在第一人稱視角中降低，並保留預設的方塊紋理。**\n\n<br>\n\n### 運作原理 🧠\n-   模型文件將實體火焰與方塊火焰分開，因此你可以修改實體火焰而不影響方塊火焰。\n\n##### 此資源包始終保持最新版本，並定期測試以檢查版本相容性、新檔案更新與錯誤修復。\n\n### 許可證 **(ARR)** 📜\n\n\n<details>\n<summary>許可證</summary>\n\n- 只要給予適當的註明，你可以自由在任何模組包或資源包中使用、修改或分享此專案。\n- 不得以任何需要付費才能存取的方式出售或使用此資源包。\n\n##### 如有其他疑問，歡迎在 Discord 上私訊我 **(@Oculie)**。\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

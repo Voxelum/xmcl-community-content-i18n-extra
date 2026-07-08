@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mVr4l+S2nlM=",
+  "content": "<p>每個區塊只會隨機替換一次為一種方塊，過程安全且經最佳化。不會造成位移、不會破壞結構，支援 Paper 1.21.11。</p><p>📖 完整說明（CurseForge）</p><p>ChunkReroll 是一款 Paper 插件，能徹底改變 Minecraft 的探索體驗：👉 每個區塊只會隨機選取一種方塊進行一次性替換，同時保留重要結構與伺服器穩定性。</p><p>✨ 主要特色</p><p>🔹 每個區塊僅一種方塊</p><p>🔹 區塊僅能被修改一次</p><p>🔹 漸進生成（最佳化，無卡頓）</p><p>🔹 支援 Paper 1.21.11</p><p>🔹 無法農資源、無法無限重置</p><p>🔒 伺服器安全性與穩定性</p><p>ChunkReroll 設計上絕不破壞世界：</p><p>✅ 現有的箱子絕不被替換</p><p>✅ 保留農場生物</p><p>✅ 終界傳送門（方塊與框架）受到保護</p><p>✅ 裝飾花瓶受到保護</p><p>❌ 不會生成任何箱子、陷阱箱、界伏盒、木桶或漏斗</p><p>❌ 不會有紅石、不會有刻方塊、不會有掉落方塊</p><p>❌ 無延遲、無物品雨、無區塊損毀</p><p>🌊 允許的方塊</p><p>僅限固體且穩定的方塊</p><p>允許水和岩漿（可設定）</p><p>⚙️簡單設定</p><p>enabled: true<br>reroll_once_per_chunk: true<br>replace_air: false<br>y_min: -64<br>y_max: 319<br>blocks_per_tick: 2500<br>never_replace:<br>  - BEDROCK<br>  - END_PORTAL<br>  - END_PORTAL_FRAME<br>allow_liquids:<br>  - WATER<br>  - LAVA</p><p>🎮適合用於</p><p>自訂生存伺服器</p><p>探索挑戰</p><p>創新 SMP</p><p>可控的混亂實驗</p><p>追求零延遲、零錯誤的伺服器</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "etkP2/zTLJo=",
+  "content": "這個模組讓你可以將成年豬布林當作物品撿起。\n還有一個可以自動進行以物易物的方塊。\n\n## 豬布林物品\n\n潛行並對成年豬布林右鍵點擊即可獲得豬布林物品。\n請注意，只有在豬布林不忙碌或未具有攻擊性時才能撿起。\n\n![](https://media.giphy.com/media/kD7jJd4GfHYqJfnq5l/giphy.gif)\n\n豬布林物品可以透過在地面上右鍵點擊放置。\n\n## 以物易物方塊\n\n以物易物方塊可以自動與豬布林進行交易，無需先捕捉牠。\n這個方塊也可以在其他維度使用，且豬布林不會轉變成殭屍化豬布林。\n\n![](https://media.giphy.com/media/u96Flz8s8OtnrbsTNA/giphy.gif)\n\n只需將交易物品放入輸入槽，或使用漏斗輸入。\n\n交易獲得的物品會出現在其中一個輸出槽中，也可以透過漏斗取出。\n\n![](https://media.giphy.com/media/AdrNhwYa9zNCLh9F8z/giphy.gif)\n\n每次交易需要恰好 120 個刻（6 秒）。\n\n你可以潛行並用空手右鍵點擊方塊，將豬布林從以物易物方塊中取出。\n\n以物易物方塊被破壞時，內部的物品會保留。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

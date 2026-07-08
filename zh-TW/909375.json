@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vyJJbyMSCJ8=",
+  "content": "<h2><strong>WITS (這是什麼結構？)</strong></h2><p>&nbsp;</p><p>WITS 是一個簡潔小巧的指令模組，可在單人世界和伺服器上使用！這個模組只新增了一個名為 <strong>/wits</strong> 的指令。執行該指令後，它會列出你當前所站位置的所有結構的註冊名稱。就是這麼簡單！<br><img src=\"https://media.forgecdn.net/attachments/723/120/wits3.png\" alt=\"\" width=\"514\" height=\"124\"></p><p>&nbsp;</p><p>將此模組安裝在伺服器上，將使所有客戶端（包括原版客戶端！）都能使用這個基本的<strong>/wits</strong> 指令。</p><p>&nbsp;</p><p>管理員或伺服器擁有者可以為 <strong>/witsop</strong>&nbsp;指令添加維度和座標參數，以獲取任何維度中任何位置的結構名稱。非管理員將無法使用帶有這些額外參數的指令，從而使此模組對玩家來說保持平衡。<br><img src=\"https://media.forgecdn.net/attachments/740/612/untitled.png\" width=\"513\" height=\"125\"></p><p>&nbsp;</p><p>&nbsp;</p><p><strong>注意：</strong>並非模組中看到的所有建築都是結構，因此此指令無法檢測到它們。例如原版的地牢和沙漠水井屬於「特徵」。因此我的指令無法看到它們。這是由遊戲機制導致的限制，因為特徵不像結構那樣在區塊中保存自身的任何資訊。在世界生成完成後，我無法獲取特定位置上特徵的名稱。基本上，此模組只能檢測到您使用<strong>/locate</strong> 指令所看到的每個結構，除此之外別無其他。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

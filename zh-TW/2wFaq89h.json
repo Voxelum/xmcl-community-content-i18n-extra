@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nBs036CXtzM=",
+  "content": "# 介紹\n暴力渲染剔除（以下簡稱本模組）為一款渲染層面的最佳化模組。其運用階層式深度緩衝區遮蔽剔除技術，能在原版遊戲基礎上額外剔除部分不可見區塊，減少區塊編譯與渲染的部份負擔。旨在緩解模組包後期因方塊與實體過多導致渲染效率低落的問題。在遮蔽較多的環境中可獲得部分幀數提升，但在開闊視野下無明顯幀數增益。任何不在玩家視野內的實體與區塊，其渲染提交將在CPU階段被取消。搭配Sodium（Embeddium）使用時可達到更佳最佳化效果。本模組可與Iris、Oculus、Nvidium及OptiFine相容。\n\n模組設定預設使用「R」鍵開啟，按鍵綁定可在設定中更改。\n\n\n# 相容性：\n1. 因採用GPU實例化協助運算，實體剔除功能無法在不支援OpenGL 3.3的顯卡裝置上運行。若您的裝置能運行Sodium，則可支援實例化實體剔除功能。本模組利用部分GPU運算減輕CPU剔除與區塊編譯負擔。若您的GPU無額外運算能力處理渲染剔除紋理，在開闊視野下可能略為降低最高幀數，通常低於5%。\n2. 經簡易測試與相容性處理後，本模組在Minecraft 1.18版本中可與Sodium、Embeddium、Rubidium、Iris、Oculus及OptiFine相容。自Minecraft 1.20版本起，不再支援Rubidium。\n3. 在Minecraft 1.18.2版本中，僅0.5.4版以下支援Rubidium。因Rubidium已停止更新，0.5.4版以上僅支援Sodium與Embeddium。\n4. 在Minecraft 1.18.2版本中，非同步重建區塊功能採用獨立區塊搜尋機制。因此啟用非同步重建區塊功能時，Valkyrien Skies模組的區塊更新將無法正確重建。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

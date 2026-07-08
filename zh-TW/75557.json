@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uNw14HmBt0k=",
+  "content": "<p>CraftGuide 是一個相當簡單的遊戲內合成表瀏覽器，專為 Minecraft 設計，目標是能夠一次顯示大量資訊，並提供一些相當簡單的方式來快速瀏覽。</p><p>其主要重點是透過使用滾動條，利用常見的行為——任何模組添加的合成表往往會聚集在一起——讓使用者能夠快速導航到清單中按模組分類的部分。最近的改進包括使 GUI 可調整大小，以填滿使用者覺得舒適的螢幕空間（透過拖曳右下角的小型藍色三角形按鈕實現），以及一個系統，點擊某個物品時會過濾清單，僅顯示使用該物品（作為輸入或輸出）的合成表。</p><p>CraftGuide 提供了一個 API，允許其他模組提供額外的合成表等內容，並內建支援顯示某些模組的合成表。若需要其他內建模組支援或協助使用 API，通常會應相關模組現任作者的請求提供。使用者請求的模組支援有時會在諮詢該模組的作者後實作。</p><p>更新通常不頻繁，但每個主要 Minecraft 版本通常至少會有一次更新。</p><p>目前（從版本 1.6.8.1 開始），CraftGuide 需要 Forge 或 LiteLoader。（LiteLoader 版本目前可在 minecraftforum.net 的討論串中取得）</p><p>原始碼可在 <a href=\"https://github.com/Uristqwerty/CraftGuide\" rel=\"nofollow\">GitHub</a> 上取得。</p><p>更多資訊和舊版 Minecraft 的下載可在 <a href=\"http://www.minecraftforum.net/topic/731133-\" rel=\"nofollow\">minecraftforum.net 討論串</a> 中找到。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

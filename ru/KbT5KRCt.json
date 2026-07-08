@@ -1,0 +1,6 @@
+{
+  "bodyHash": "G5GcrMZwZRw=",
+  "content": "Добавляет пулемётную башню, вдохновлённую пулемётной башней из Factorio. Для её крафта понадобятся несколько медных блоков, поршни, диспенсер и наблюдатель. Башню необходимо снабжать стрелами.\n\nКогда она обнаруживает моба в своей зоне действия (настройки задаются игроком), автоматически целиится на него и начинает стрелять. Будьте осторожны с дружественным огнём.\n\nЭто мой первый мод. Возможно, он будет работать не так, как задумано, окажется нестабильным или вызовет проблемы с производительностью.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/_XoB4hFCMfE\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nОставляйте отчёты о багах на GitHub. Я обязательно займусь этим со временем",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4k0M3e/cx/U=",
+  "content": "![Замените это описанием](https://cdn.modrinth.com/data/cached_images/1a0e94e40e2b1a2e426cf40abb6dbe3a9474c5c7.png)\n\n\n\n\n**О моде:**\nДобавляет совершенно новый тип мира с ограниченным количеством воды и травы. Отличный мод для поклонников зомби-апокалипсиса, который в целом делает выживание в Minecraft сложным, особенно в сочетании с другими модами, повышающими сложность. Также запланированы дополнения для «Create and Create Aeronautical».\n\nЭтот мод повышает **сложность** и **имитирует апокалипсис**.\n\n- Скорость спавна структур можно изменить в конфигурации: «Wasteland Reborn 2.0»\n\n\n## Чтобы использовать мод на сервере, просто установите тип мира в «Wasteland» в файле конфигурации сервера.\n## \n- Пример для server.properties:\n- level-type=wasteland_reborn:wasteland\n- generate-structures=true",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

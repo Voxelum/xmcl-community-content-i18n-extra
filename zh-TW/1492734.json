@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7NIJOR/KXP4=",
+  "content": "<h2>⚙️ 設定</h2><p>所有數值皆可在 config/maidbattle-common.toml 中自訂：</p><ul>\n<li>defaultAttackRange (預設：32.0) — 偵測範圍（方塊單位）</li>\n<li>attackCooldown (預設：20) — 攻擊冷卻時間（刻數，20刻 = 1秒）</li>\n<li>moveSpeedMultiplier (預設：1.2) — 戰鬥移動速度倍率</li>\n<li>searchInterval (預設：10) — 目標搜尋間隔（刻數）</li>\n<li>protectSameOwnerMaids (預設：true) — 防止同主人女僕間誤傷</li>\n<li>maxTargetTypes (預設：20) — 每根指揮棒可設定的最大目標種類數</li>\n<li>showBattleParticles (預設：true) — 戰鬥粒子效果</li>\n<li>playBattleSounds (預設：true) — 戰鬥音效</li>\n<li>allowTargetPlayers (預設：true) — 是否允許將玩家設為目標</li>\n</ul><hr><h2>📋 需求</h2><ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge 47.2.0+</li>\n<li>必備模組：東方女僕 (Touhou Little Maid)</li>\n</ul><hr><h2>⚠️ 注意事項</h2><ul>\n<li>僅女僕的主人可切換戰鬥模式</li>\n<li>目標設定為種類制：設定一隻殭屍為目標時，範圍內所有殭屍皆會被攻擊</li>\n<li>所有戰鬥資料會隨世界存檔與伺服器重啟保留</li>\n</ul><h2>📜 授權條款</h2><p>MIT 授權 — 歡迎修改與再發布。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

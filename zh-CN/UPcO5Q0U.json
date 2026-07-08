@@ -1,0 +1,6 @@
+{
+  "bodyHash": "InXxArIBtoI=",
+  "content": "# SketchRender\n\n一个轻量级的 **Minecraft 模组开发** 渲染工具库。\n\n## ✨ 当前功能\n\n### 实体剔除\n- **功能**：基于深度缓冲的可见性判定，剔除视觉上不可见的实体。\n- **要求**：需要 **OpenGL 4.4** 或更高版本。\n\n### 区块剔除\n- **功能**：将区块可见性检查集成到 Embeddium 模组的渲染管线中，执行 GPU 驱动的不可见区块剔除并提交绘制调用。\n- **要求**：需要 **OpenGL 4.6** 并安装 **Embeddium**。\n- **适用场景**：在 **CPU 相对较弱但 GPU 性能强劲** 的设备上，显著提升 Embeddium 的区块渲染性能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

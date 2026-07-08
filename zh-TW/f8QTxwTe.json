@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OaDR3d7Wvxo=",
+  "content": "> **封存注意：** Minecraft 26.1 已在遊戲規則畫面中加入搜尋列，此為本模組的主要開發動機。\n\n# Cloth 遊戲規則畫面\n\n使用 **[Cloth Config API](https://modrinth.com/mod/cloth-config)** 完整重建遊戲規則選單。\n\n透過引入 Cloth 的部分功能，讓選單操作更加便利。主要特色包括：\n- 依名稱或按鍵搜尋遊戲規則\n- 為每項規則提供重設按鈕\n- 依模組篩選規則\n\n\n## 整合說明\n### 遊戲規則\n模組開發者無需採取任何動作，即可讓其遊戲規則顯示在此畫面中。\n不過，仍可能需要進行部分調整，才能正確偵測規則所屬的模組。\n\n本選單預期模組規則使用自訂分類，並以分類命名空間作為模組 ID。**使用原版分類的規則將列於原版遊戲規則下方**。\n\n### 選單\n**本模組僅會取代建立新世界時的遊戲規則畫面**。若其他模組在其他位置使用了遊戲規則畫面，則需檢查本模組是否安裝，並自行進行替換。（[範例：PackRule-Menu](https://github.com/Estecka/mc-PackRule-Menus/blob/def0a39c65c2cb638a2f881b9b6db9878750bc82/src/main/java/fr/estecka/packrulemenus/GameruleHandler.java#L38C1-L43C3)）\n\n## 相關模組\n### [<img src=\"https://cdn.modrinth.com/data/TR0G6vEd/b79a0a6e2d5003b96ac0d6b04c6802984204963f.png\" width=48> **遊戲規則選單**](https://modrinth.com/mod/packrule-menus)\n讓遊戲規則選單可在單人遊戲世界中開啟\n\n### [<img src=\"https://cdn.modrinth.com/data/kKib77nY/a08a3c1a05498c8d9c14bd5a695c8b962b1fcb88.png\" width=48> **偏好的遊戲規則**](https://modrinth.com/mod/preferred-gamerules)\n讓您選擇遊戲規則的預設值",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

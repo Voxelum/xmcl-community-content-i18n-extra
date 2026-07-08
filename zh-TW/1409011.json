@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FL/sftNuMTg=",
+  "content": "<p>基於模組改動需求，我們對此版本進行了分支。</p><p>此分支允許AI生物穿越樹葉方塊（原先它們視為無法穿越的牆壁），並為部分生物添加了碰撞例外（使其無法穿越）。</p><p>原版模組：<a href=\"https://www.curseforge.com/minecraft/mc-mods/passable-foliage\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/passable-foliage</a><br>原始描述：</p><p>此模組移除了樹葉的碰撞體積，並降低了墜落至樹葉時的傷害（可設定）。</p><p>效果可套用至所有實體，並可透過方塊標籤控制，因此您可自行添加自訂樹葉方塊。</p><p>若使用1.15.2版本，需安裝MixinBootstrap。客戶端與伺服器端皆需安裝。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

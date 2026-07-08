@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MvyWAsvOEBw=",
+  "content": "<p>通常情況下，Backpacked模組中的背包合成配方需要六張兔子皮來製作。</p><p>&nbsp;</p><p>由於兔子皮可能難以取得，特別是在裝有其他模組的世界中，這使得背包變得過於難以獲得。</p><p>&nbsp;</p><p><img src=\"https://files.horizon.pics/525406e3-5a57-460f-b8ee-46b7481a3e28?a=580&amp;mime1=image&amp;mime2=png\" alt=\"Backpacked模組中背包的合成配方圖片\" width=\"157\" height=\"165\"></p><p>&nbsp;</p><p>這個數據包將兔子皮改為皮革。這不適用於Fabric版本的Backpacked，因為數據包的配方更改使用了Forge標籤，而不是該模組Fabric版本所使用的c標籤。</p><p><strong>使用方法：放入你世界的數據包資料夾中，或使用像Paxi、Openloader或Global Packs這樣的數據包加載器來自動加載到所有新世界中。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

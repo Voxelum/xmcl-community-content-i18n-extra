@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9gNjGrYhwvQ=",
+  "content": "<p><strong>模拟仪表</strong> 使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/deployer\" target=\"_blank\" rel=\"nofollow\"><strong>部署器API</strong></a> 使物流仪表能够获取并利用来自各种 <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-aeronautics\" target=\"_blank\" rel=\"nofollow\"><strong>机械动力：模拟</strong></a> 方块的物理信息！</p><p><em>注意：本模组最好与 <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-extra-gauges\" target=\"_blank\" rel=\"nofollow\"><strong>机械动力：额外仪表</strong></a> 配合使用！</em></p><hr><h1>新仪表列表：</h1><h2>高度计</h2><p>该仪表可以读取其方块在世界中的高度，或所在位置的气压。\n它会分别输出高度和气压的字符串和数值。</p><h2>速度计</h2><p>该仪表可以读取其方块在世界中的速度，并按X、Y、Z轴分开显示。\n它会为所选轴向输出字符串和数值。</p><h2>万向节仪表</h2><p>该仪表可以读取其方块在世界中的朝向，以欧拉角形式按X、Y、Z轴分开显示。\n它会为所选轴向输出字符串和数值。\n数值基于YXZ旋转顺序的朝向四元数推导得出。</p><hr><h1>支持的方块列表：</h1><h2>高度传感器</h2><p>该传感器可以向基于部署器的仪表输出其世界高度。\n它会以字符串和数值形式输出，同时输出信号时会切换红石输出布尔值。</p><h2>速度传感器</h2><p>该传感器可以向基于部署器的仪表输出其世界速度的数值。\n它会以字符串和数值形式输出，同时输出信号时会切换红石输出布尔值。</p><h2>导航台</h2><p>该方块可以向基于部署器的仪表输出其相对于目标位置的修正角度。\n它会以字符串和数值形式输出。</p><h2>铭牌</h2><p>该方块可以向基于部署器的仪表输出其文本内容，同时接受字符串输入以修改文本。</p><h2>联动打字机</h2><p>该方块可以向基于部署器的仪表输出其按下按键的键码（数值），同时输出打字机键入的字符串内容。</p><h1>未来内容：</h1><ul>\n<li>质量计</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oKq6wjHfMck=",
+  "content": "<h1>現代化網路模組</h1><p>基於 Minecraft 1.20.6+ 封包傳輸方式開發的多版本、多載入器網路封包函式庫。</p><p>此 API 的設計同時支援 Bukkit 實作，甚至可延伸至 Minecraft 以外的應用，但您需要自行提供底層實作支援。</p><table>\n<thead>\n<tr>\n<th>函式庫對應版本</th>\n<th>支援的遊戲版本</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1.18.2</td>\n<td>1.18.2 - 1.20.1</td>\n</tr>\n<tr>\n<td>1.20.4</td>\n<td>1.20.2 - 1.20.4</td>\n</tr>\n<tr>\n<td>1.20.6</td>\n<td>1.20.5 - 1.20.6</td>\n</tr>\n<tr>\n<td>1.21.1</td>\n<td>1.21 - 最新版本</td>\n</tr>\n</tbody>\n</table><p>開發者可參考 <a href=\"https://github.com/BluSpring/ModernNetworking\" rel=\"nofollow\">GitHub 上的說明文件</a> 來使用本函式庫。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

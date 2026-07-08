@@ -1,0 +1,6 @@
+{
+  "bodyHash": "u7KZLftM1JE=",
+  "content": "<p>Этот пакет текстур отображает здоровье любого игрока, но рассчитывает его на основе <strong>процентного соотношения, а не фактических значений здоровья</strong>. Поэтому отображаемые сердечки в некоторых ситуациях могут не соответствовать реальному здоровью игрока.</p>\n\n<p>В обычном игровом процессе с исходными значениями здоровья это обычно незаметно, и отображение будет выглядеть точным. Однако в модифицированных или пользовательских сценариях с повышенным здоровьем разница становится очевидной.</p>\n<h2>Как использовать</h2>\n<ol>\n<li>Загрузите и установите пакет текстур</li>\n<li>Установите&nbsp;<a href=\"https://fabricmc.net/use/installer/\" rel=\"noopener nofollow ugc\">Fabric</a></li>\n<li>Убедитесь, что в вашей папке модов установлены&nbsp;<a href=\"https://modrinth.com/mod/entity-model-features\">EMF</a>&nbsp;и&nbsp;<a href=\"https://modrinth.com/mod/entitytexturefeatures\">ETF</a></li>\n<li>Запустите игру и активируйте</li>\n</ol>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_624405e9-664e-456b-89c8-25ceeb8156e3.png\" alt=\"1\"></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

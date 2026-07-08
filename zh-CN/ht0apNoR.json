@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y7RNcFplPcQ=",
+  "content": "# 与原版 FTB Quests Localizer 有何不同？\n\n在将 FTBQ 元素导出到语言文件时，FTBQL 使用了一个按章节编号的任意系统来命名语言键（例如 \"chapter1.quest1\"）。一些开发者可能会觉得这种方式不太方便，因为确定某个语言字符串对应的任务可能会比较困难。\n\nFTB Quests **Precision** Localizer 则使用元素在代码中呈现的十六进制 ID 来命名与其相关的语言键。因此，通过搜索任务文件可以轻松找到该元素，因为每个 FTBQ 元素都有一个唯一的 ID。\n\nFTBQPL 还支持具有多种难度选项的模组包。有关使用该模组的详细信息，请参阅 [wiki](https://github.com/TimErmolt/FTB-Quests-Precision-Localizer/wiki)。\n\n# 使用模组 -- 简明指南\n\n安装适用于您的模组包的 Minecraft 和 Forge 版本的最新版本，加入任何世界并输入以下命令：\n\n```\n/ftblang <语言> <前缀> <模式>\n```\n\n- `<语言>.json` 将是生成的语言文件的名称。请参阅 [此列表](https://minecraft.wiki/w/Language) 了解 Minecraft 中可用的语言及其对应的文件名；\n\n- 所有生成的语言键将以 `<前缀>` 开头（默认为 \"**ftbquests**\"）；\n\n- `<模式>` 是当前模组包设置的难度。**如果您的模组包没有难度选项，请使用 \"normal\"。** 否则，请参阅 [wiki](https://github.com/TimErmolt/FTB-Quests-Precision-Localizer/wiki) 了解如何使用此参数的指南。\n\n成功导出后，您的快捷栏上方将出现一条通知。所有生成的文件将位于游戏实例根目录下的 **FTBLang** 文件夹中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

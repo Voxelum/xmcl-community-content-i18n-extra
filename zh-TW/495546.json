@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QOkyyxzE41Q=",
+  "content": "<p><a href=\"https://github.com/Provismet/Tooltip-Scroll-Fabric/blob/1.20/LICENSE\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/license-MIT-green?style=flat-square\" alt=\"圖片\"></a>\n<img src=\"https://img.shields.io/badge/environment-client-1976d2?style=flat-square\" alt=\"圖片\">\n<img src=\"https://img.shields.io/badge/mod loader-fabric-d64541?style=flat-square\" alt=\"圖片\"></p><h2>說明</h2><p>提示框現在可以滾動了。透過高度可自訂的按鍵綁定和設定，您可以將提示框移動到螢幕內外的任何位置。</p><h3>移動</h3><p>使用滑鼠滾輪、按鍵綁定，甚至 WASD 鍵，提示框可以在螢幕上移動。</p><p><img src=\"https://media.forgecdn.net/attachments/543/473/scrolling-2.gif\" alt=\"圖片\"></p><h3>平滑度</h3><p>將平滑度設定值調低於 1 會產生滑動的視覺效果。</p><p><img src=\"https://media.forgecdn.net/attachments/712/609/smooth.gif\" alt=\"\"></p><h2>額外功能</h2><p>調整設定需要 modmenu 和 cloth config。<br>\n或者，您也可以在 Minecraft 設定檔中的 <code>config/tooltipscroll.json</code> 檔案中調整任何設定。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

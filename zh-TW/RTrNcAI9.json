@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PRywDpALe3M=",
+  "content": "# 一個神秘工藝 NEI 插件擴充模組\n\n本模組是熱門模組**神秘工藝 NEI 插件**的擴充套件，原版由 Jan2048 於多年前製作。\n由於原作者已超過十年未回覆私人訊息且不再維護其模組，我決定製作此擴充套件來修復原模組中一些令人困擾的殘留錯誤。\n原始碼已公開，您可以注意到我並未複製原模組的任何內容：完全遵守授權協議。\n\n若您發現任何異常或希望新增功能，歡迎隨時提出！\n\n/!\\ 請注意：此模組需搭配多個模組才能正常運作 /!\\\n\n> [CodeChickenCore](https://www.curseforge.com/minecraft/mc-mods/codechickencore)、[NotEnoughItems](https://www.curseforge.com/minecraft/mc-mods/notenoughitems)、[Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)、[神秘工藝 NEI 插件](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-nei-plugin)、[NemexLib](https://modrinth.com/mod/nemexlib)\n\n## 已修復的錯誤：\n- **灌注合成**、**坩堝煉製**及**固定/自由奧術合成**在原模組中曾出現無法顯示全部配方的問題。此問題源於模組比對點擊物品與所有配方時的`堆疊數量`參數。\n  - 舉例說明：來自「神秘基礎」模組的秘銀錠坩堝配方可產出8個秘銀粒。若您在NotEnoughItems選單中點擊秘銀粒，原模組將不會顯示任何配方，因為您在NEI中點擊的物品`堆疊數量`僅為1，而該配方的產出`堆疊數量`為8。\n\n## 新增功能：\n- 灌注合成現已支援檢查帶有特殊元數據值`32767`的物品堆疊\n- 使用現代語法重構部分程式碼\n\n## 規劃新增內容：\n- 支援所有**神秘工藝**擴充模組的「神秘構造」配方\n- 支援**神秘議會**模組的「精煉灌注」與「虛空滲透」配方\n\n# 終止 Modrinth 平台支援！\n- 本模組最新版本將僅在[**CurseForge**](https://www.curseforge.com/members/thenemex/projects)平台發布\n- 這些模組主要為我的模組包[**神秘工業2 - 專家版**](https://www.curseforge.com/minecraft/modpacks/thaumic-industries-2-expert)所開發，但我仍盡力為所有玩家提供新功能與配置調整！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

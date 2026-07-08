@@ -1,0 +1,6 @@
+{
+  "bodyHash": "H4ngQHemZHg=",
+  "content": "# GamemodeOverhaul\nВосстанавливает удалённые аргументы команд и добавляет несколько сокращённых команд.\n\nДобавленные команды (все настраиваемые):\n* /gamemode 0/1/2/3/s/c/a/sp\n* /gm (сокращение от /gamemode)\n* /defaultgamemode\n* /dgm (сокращение от /defaultgamemode)\n* /difficulty 0/1/2/3\n* /toggledownfall",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

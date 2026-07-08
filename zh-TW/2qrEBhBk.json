@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CEoub4v2MUM=",
+  "content": "# SkyBlock 虛幻播報員\n\n一款客戶端 Fabric 模組，將 Unreal Tournament 播報員帶入 Hypixel SkyBlock。隨著你的連殺次數攀升，一系列逐漸升級的語音台詞會宣告你的暴行：多重擊殺、超級擊殺、終極擊殺、怪物擊殺、連殺狂潮、橫掃千軍、主宰戰場、勢不可擋，最終達到神級境界。\n\n## 特色：\n- 完全可設定：將任何連殺門檻對應到任意音效片段，調整音量和重置時間視窗，使用指令 /unrealannouncer reload 即時重新載入\n- 使用 /unrealannouncer test <音效片段> 預覽任何台詞\n- 僅限客戶端，無需安裝伺服器端",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

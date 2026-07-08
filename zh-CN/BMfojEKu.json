@@ -1,0 +1,6 @@
+{
+  "bodyHash": "by26b+H9wz0=",
+  "content": "## **FasterElytra 模组非官方简体中文汉化包（仅 Fabric）**\n\n## 功能\n- 将 FasterElytra 模组的所有游戏内文本完整翻译为简体中文。\n- 覆盖配置界面、工具提示、按键绑定以及 HUD 元素。\n- 纯资源包形式，不修改任何纹理、模型或游戏机制。\n\n## 兼容性\n- 需要安装 **FasterElytra** 模组（**Fabric** 版）。\n- 目前支持 Minecraft 版本：**1.21.8 ~ 26.1**（与该模组支持的版本一致）。\n- 翻译基于 FasterElytra 1.0+mc1.21.11 版本。\n- 如果模组没有太大的注册名改动，**理论上**应该可以向后兼容或向前兼容。\n\n## 安装方法\n1. 下载本 `.zip` 文件。\n2. 将其放入 `.minecraft/resourcepacks` 文件夹。\n3. 在游戏内进入 `选项` → `资源包` 并启用本包。\n\n## 备注\n- 许可证：本翻译采用 **ARR (All Rights Reserved)** 许可证。原模组作者为 AVicario，可在 Modrinth 上找到。\n- 这是一个**资源包**，不是模组。\n- 无自动更新 – 当模组更新时，请回来查看本包的新版本。\n\n如果发现任何翻译错误或遗漏，欢迎留言反馈。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vDa80WkE8QQ=",
+  "content": "# Chest Search\n\n## 關於\n\n此模組新增了一個搜尋列，讓你能在儲物箱及界伏盒中進行搜尋。它會使用所選顏色在模組選單中高亮顯示符合你輸入內容的物品。最酷的功能是你可以**更換顏色**（如果你安裝了Mod Menu和Cloth Config，就能配合你的資源包或遊玩風格來更改。操作方式：按下**Esc → 模組 → 搜尋 \"Chest Search\" → 點擊設定 → 更換顏色**）。\n\n![模組搜尋列圖片](https://cdn.modrinth.com/data/cached_images/7924c0a55db81cb419d046b5b7a8a3f5124fea5a.png)\n\n### 從 1.2.0+ 版本開始\n現在你也可以搜尋武器和書本上的附魔了。\n\n## 安裝方式\n\n若要在 Fabric 上安裝，首先你必須安裝 Fabric 安裝器，或是使用 Modrinth 應用程式或類似的安裝管理器。\n\n[Fabric](https://fabricmc.net/use/installer/)（單一版本）\n\n[Modrinth](https://modrinth.com/app)（多版本安裝）\n\n安裝好 Fabric 實例後，你必須前往 mods 資料夾（Minecraft Launcher Fabric）或直接透過 modrinth 啟動器安裝。\n\n### Fabric\n\n**Windows**\n\n在 Windows 按下 WIN + R，在出現的視窗中輸入 appdata 後按 Enter。接著你會看到一個名為 .minecraft 的資料夾。進入後，應該會看到一個名為 mods 的資料夾。將對應版本的模組 .jar 放入其中。\n\n**Mac**\n\n開啟 Finder 視窗。在頂端選單列選擇「前往」→「前往資料夾」。輸入 \"~/Library/Application Support/minecraft\"。將對應版本的模組 .jar 放入其中。\n\n**Linux** *（Ubuntu 可能因發行版而異）*\n\n開啟檔案管理員並導航至 home 目錄。按下 CTR + H 顯示隱藏資料夾。接著進入 .minecraft。然後前往 mods 資料夾，將對應版本的模組 .jar 放入其中。\n\n### Modrinth\n\n在 Modrinth 應用程式中，前往你的 Fabric 安裝實例，應該會有一個名為「安裝模組」的分頁。點擊此分頁並搜尋本專案。然後點擊安裝。如果你遇到問題，網路上有相關教學，不過這個過程相當直觀。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

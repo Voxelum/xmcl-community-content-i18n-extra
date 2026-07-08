@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vyJJbyMSCJ8=",
+  "content": "<h2><strong>WITS（这是什么结构？）</strong></h2><p>&nbsp;</p><p>WITS 是一款简洁小巧的指令模组，兼容单人游戏和服务器！本模组仅新增了一条名为 <strong>/wits</strong> 的指令。执行该指令后，它将打印出你当前站立位置的所有结构的注册名称。仅此而已！<br><img src=\"https://media.forgecdn.net/attachments/723/120/wits3.png\" alt=\"\" width=\"514\" height=\"124\"></p><p>&nbsp;</p><p>将本模组安装到服务器后，所有客户端（包括原版客户端！）都将获得使用基础 <strong>/wits</strong> 指令的能力。</p><p>&nbsp;</p><p>管理员或服务器所有者可为 <strong>/witsop</strong> 指令添加维度和坐标参数，从而获取任意维度任意位置的结构名称。普通玩家无法使用带额外参数的该指令，因此模组在玩家间保持了较好的平衡性。<br><img src=\"https://media.forgecdn.net/attachments/740/612/untitled.png\" width=\"513\" height=\"125\"></p><p>&nbsp;</p><p>&nbsp;</p><p><strong>注意：</strong> 并非模组中出现的所有建筑都是\"结构\"，因此本指令无法检测到它们。例如原版的废弃矿井和沙漠水井属于\"地物\"。这是我的指令无法识别的。这是由于游戏机制本身的限制——地物不像结构那样会将自身信息保存到区块中。在世界生成完成后，我无法获取特定位置的地物名称。简而言之，本模组能检测到的范围与 <strong>/locate</strong> 指令显示的结构完全一致，不会更多。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

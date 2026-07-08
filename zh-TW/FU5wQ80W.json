@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BPYKuJ8TvJU=",
+  "content": "![重生指令觸發器橫幅](https://cdn.modrinth.com/data/cached_images/bd9da3999932841f5bca699ca17a5c80ad2f7d82.png)\n# 描述\n這個模組是為了簡化建立重生指令觸發器而製作的，無需伺服器管理員建立計分板（詳見Fwuhfwi的留言：https://www.reddit.com/r/MinecraftCommands/comments/ohipmj/respawn_detection/）。\n\n有了這個模組，整合包開發者可以直接在設定檔中輸入想要從任何已安裝模組中註冊的指令列表，當玩家重生時，這些指令就會被執行。\n\n共有兩個列表：一個是以伺服器身份執行的指令列表（與指令方塊擁有相同的OP等級），另一個是以玩家身份執行的指令列表（根據玩家擁有的OP等級執行）。\n\n若要讓伺服器為玩家執行指令（即無需權限），如果指令允許使用@s，你可以使用它來代替玩家名稱；若不允許，你也可以使用「execute as @s run {插入指令}」。\n\n第二個列表會由玩家直接執行。\n\n## 其他功能\n支援遊戲階段：已解鎖特定階段的玩家將會執行此模組設定檔中指定的指令。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

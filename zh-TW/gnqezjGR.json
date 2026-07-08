@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1jFbkVw1ivM=",
+  "content": "## 🌿 Easeon – 原木剝皮助手\n\n**此模組需要 <a href=\"https://modrinth.com/mod/easeon-ss-core\" target=\"_blank\">EaseonSS-Core</a>**\n\n## 概述\n\n**原木剝皮助手** 是一款輕量級的 Fabric 模組，用於增強 Minecraft 中的原木剝皮功能。手持斧頭與原木，右鍵點擊即可瞬間剝皮。\n\n<details>\n<summary>預覽</summary>\n\n![展示](https://github.com/EaseonKit/EaseonSS-LogStripper/blob/main/showcase.webp?raw=true)\n\n</details>\n\n<br/>\n\n## 指令\n所有指令皆需要 OP 等級 2 權限。\n| 指令                         | 說明          |\n| -------------------------------- | -------------------- |\n| /easeon logstripper            | 查看目前狀態  |\n| /easeon logstripper <on/off>   | 啟用/停用       |\n\n<details>\n<summary>設定</summary>\n\n```json\n{\n  \"enabled\": true,\n  \"requiredOpLevel\": 2 // 需要重新啟動伺服器才能生效。\n}\n```\n`config/easeon/easeon.ss.logstripper.json`\n\n</details>\n\n<br/>\n\n---\n\n### 🔗 更多 Easeon 模組  \n尋找更多相同風格的輕量實用模組？  \n查看其他 Easeon 系列模組 <a href=\"https://modrinth.com/user/Teron\" target=\"_blank\" rel=\"noopener noreferrer\">請點此</a>。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

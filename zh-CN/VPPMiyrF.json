@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+AhFmnu43f0=",
+  "content": "![Title](https://cdn.modrinth.com/data/cached_images/51d31bf3e2400741d65a972fc12a60b36362df52.png)\n**重要提示：本模组是 Fabric 模组 [原版模组](https://modrinth.com/mod/hold-my-items)（作者：[thesapling]）的 Forge 移植版**\n\n### 🎮 功能简介\n\n你是否注意到，你的 Minecraft 角色拿着物品时……_看起来并不像是在真的拿着它们？_\n\n**Hold My Items** 可以解决这个问题！\n\n该模组会在你手持物品时**渲染角色的手臂**，让你感觉角色是真实地握着物品——就像现实生活中一样！\n虽然效果细微，但能极大提升游戏的沉浸感。\n\n### ✅ 特性\n- 手持物品时渲染**主手手臂**\n- 同时渲染**副手手臂**，动画与朝向均正确\n- 支持 MB-3D 物品包（_需修改配置文件_）\n- 在以下情况下添加**情境动画**：（游泳、爬行、攀爬、手持灯笼或地图等物品时）\n\n- 完全客户端侧——**无需在服务器上安装**\n- **轻量级，兼容大部分模组**\n\n### 🧱 整合包友好\n是的！本模组为 100% 客户端模组。\n\n### 📦 原版模组\n本模组是 Fabric 模组 [原版模组](https://modrinth.com/mod/hold-my-items)（作者：[thesapling]）的 Forge 移植版。\n所有原创想法与实现归功于原作者！\n此 Forge 版本由 **bene2212** 制作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

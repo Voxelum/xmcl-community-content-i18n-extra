@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BaFotaZHUA4=",
+  "content": "# Библиотека Anvian\n\nЭта библиотека предназначена для использования в моих модах и включает различные полезные функции для моих проектов. Кроме того, она\nвводит телеметрию для отслеживания количества игроков, использующих мои моды. При желании телеметрию можно отключить через\nконфигурационный файл. Для получения более подробной информации посетите страницу [Телеметрия](https://anvian.net/telemetry).\n\n## Как использовать\n\nДобавьте следующее в ваш файл `gradle.properties`:\n\n```properties\nanvianslib_version=<версия>\n```\n\nДобавьте следующее в ваш файл `build.gradle`:\n\n```groovy\nrepositories {\n    maven {\n        name = 'Repsy Anvian'\n        url = 'https://repo.repsy.io/mvn/anvian/anvians-lib'\n    }\n}\n```\n\n- В Common:\n\n```groovy\n  implementation \"net.anvian.anvianslib:anvianslib-common-1.21:${anvianslib_version}\"\n```\n\n- В Fabric:\n\n```groovy\n  modImplementation \"net.anvian.anvianslib:anvianslib-fabric-1.21:${anvianslib_version}\"\n```\n\n- В Forge:\n\n```groovy\n  implementation \"net.anvian.anvianslib:anvianslib-forge-1.21:${anvianslib_version}\"\n```\n\n- В NeoForge:\n\n```groovy\n  implementation \"net.anvian.anvianslib:anvianslib-neoforge-1.21:${anvianslib_version}\"\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

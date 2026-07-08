@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VxTdUHp507w=",
+  "content": "这个模组修复了Minecraft中的一个漏洞，即村庄门会持续加载区块。\n\n这对于服务器或单人世界来说可能是一个巨大的问题，因为数百个区块可能会被锁定加载，从而导致性能问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

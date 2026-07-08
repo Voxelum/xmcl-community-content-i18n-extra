@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Z78d+qnIwlQ=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/3veNs2B6VXo\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n\n- Жители дополнения не могут участвовать в каких-либо фермах\n- Жители дополнения не могут поднимать предметы с земли\n- Жители дополнения не получают урон, и зомби не атакуют\n\n> Установите максимальное количество предметов, которое может продать житель (установите только в начале)\n- /scoreboard players set maxstok varilshop-genel \"#\"\n- \"#\": Максимальное количество предметов, которое может продать житель (от 1 до 27)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

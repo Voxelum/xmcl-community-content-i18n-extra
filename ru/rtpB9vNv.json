@@ -1,0 +1,6 @@
+{
+  "bodyHash": "S0PgEkttX2I=",
+  "content": "# Спавн Глайдера\n\n[![Лицензия LGPLv3](https://img.shields.io/badge/License-LGPLv3-green.svg)](https://choosealicense.com/licenses/lgpl-3.0/)\n\n**Spawn Glider** — это мод для Minecraft Fabric, который позволяет владельцам серверов задавать области, где игроки могут автоматически парить на элитре.\n\n## Команды\n\n### Команды для игрока (разрешение не требуется)\n\n- `/spawnglider toggle` — Включить или выключить парение для себя\n\n### Администраторские команды (требуется уровень OP 2)\n\n- `/spawnglider zone set <minX> <minY> <minZ> <maxX> <maxY> <maxZ>` — Задать зону полёта в текущем измерении\n- `/spawnglider zone remove` — Удалить зону полёта из текущего измерения\n- `/spawnglider zone list` — Вывести список всех настроенных зон\n- `/spawnglider zone info` — Показать информацию о зоне в текущем измерении\n- `/spawnglider zone sethere <radius>` — Задать зону вокруг вашей позиции\n- `/spawnglider zone` — Вывести справку по командам для зоны\n\n- `/spawnglider boosters <amount>` — Задать количество доступных Бустов\n\n## Требования\n\n- Fabric Loader\n- Fabric API\n\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

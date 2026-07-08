@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jzLm04Exp5M=",
+  "content": "傳送槍模組 Forge 1.20.2 版\n--------------------------------\n我發現目前 Forge 的新版本遊戲中幾乎沒有傳送門相關模組，所以決定自己開發一個 :)\n\n功能特色\n--------------------------------\n請注意：目前本模組中的所有物品暫無生存模式合成配方。\n\n功能包含但不限於：\n - 傳送槍\n - 解放網格\n - 加權儲存方塊與同伴方塊\n - 壓力按鈕\n - 雷射裝置\n - 硬光橋\n - 光圈石（完整測試元件能源系統，包含紅石輸入輸出與邏輯閘）\n\n安裝說明\n--------------------------------\n無特殊安裝要求，與其他 Forge 模組安裝方式相同：將 .jar 檔案放入 mods 資料夾即可\n\n遊戲截圖\n--------------------------------\n![遊戲截圖](https://cdn.modrinth.com/data/b63BAG6u/images/a3255f6694b12d43db3f281189663b6a81629923.png)\n![遊戲截圖](https://cdn.modrinth.com/data/b63BAG6u/images/bbc849d15b7357e21cd45edf2ca2fd53cab0cfab.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

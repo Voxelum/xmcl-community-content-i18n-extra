@@ -1,0 +1,6 @@
+{
+  "bodyHash": "o5f19OVIgtU=",
+  "content": "# UIFadeFX\n![Платформа](https://img.shields.io/badge/Platform-Cleanroom-brightgreen.svg)\n\nЭтот мод добавляет временные визуальные эффекты в стандартный интерфейс Minecraft, например, эффект появления и исчезновения при наведении на кнопку.\n\nUIFadeFX использует плавное демпфирование для анимаций интерфейса, что делает его менее чувствительным к помехам и более плавным в коротких переходах.\n\n## Зависимость\n- Cleanroom (_жёсткая зависимость_; не работает с Forge)\n\n## Демонстрация\n![демо](https://github.com/user-attachments/assets/c5c4a5c9-10ba-4840-94bf-8199b44b39f8)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

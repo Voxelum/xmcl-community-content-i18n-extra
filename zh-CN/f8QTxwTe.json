@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OaDR3d7Wvxo=",
+  "content": "> **归档说明：** Minecraft 26.1 现已在其游戏规则界面中新增搜索栏，这正是本模组的核心开发动机。\n\n# Cloth 游戏规则界面\n\n使用 **[Cloth Config API](https://modrinth.com/mod/cloth-config)** 对游戏规则菜单进行完整重制。\n\n通过引入 Cloth 的若干功能，使菜单操作更加便捷。主要特性包括：\n- 按名称或按键搜索游戏规则\n- 为每条规则提供重置按钮\n- 按模组过滤规则\n\n## 集成说明\n### 游戏规则\n模组开发者无需任何额外操作即可让自己的游戏规则显示在此界面中。\n不过仍需进行部分调整以确保规则所属模组能被正确识别。\n\n本菜单要求模组规则使用自定义类别，并将类别命名空间作为模组标识符。**使用原版类别的规则将归入原版游戏规则列表**。\n\n### 菜单\n**本模组仅替换新世界创建时的游戏规则界面**。若其他模组在其他位置调用了游戏规则界面，则需要检测本模组是否安装，并自行进行界面替换操作。([示例：PackRule-Menu](https://github.com/Estecka/mc-PackRule-Menus/blob/def0a39c65c2cb638a2f881b9b6db9878750bc82/src/main/java/fr/estecka/packrulemenus/GameruleHandler.java#L38C1-L43C3))\n\n## 相关模组\n### [<img src=\"https://cdn.modrinth.com/data/TR0G6vEd/b79a0a6e2d5003b96ac0d6b04c6802984204963f.png\" width=48> **游戏规则菜单**](https://modrinth.com/mod/packrule-menus)\n使游戏规则菜单可在单人游戏世界中访问\n\n### [<img src=\"https://cdn.modrinth.com/data/kKib77nY/a08a3c1a05498c8d9c14bd5a695c8b962b1fcb88.png\" width=48> **偏好游戏规则**](https://modrinth.com/mod/preferred-gamerules)\n允许你设定游戏规则的默认值",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

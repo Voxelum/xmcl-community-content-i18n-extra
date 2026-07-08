@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2+RtgVm+SV0=",
+  "content": "---\n\n目前《我的世界》中最令人厭惡的生物之一就是夜魅，作為主世界中唯一具有敵意的飛行生物，看到它淪為一個許多人選擇關閉的惱人機制，實在令人失望。\n\n隨著生物投票正式取消，我決定更新B選項生物——夜魅。不再有失眠機制，不再有當你離開洞穴時成群結隊的夜魅生成，不再有當你在基地專心做事時，頭頂上不斷傳來的刺耳尖叫聲。\n\n夜魅的主要變更如下：\n- 僅在夜晚時生成於使用鞘翅飛行的玩家附近\n- 不再有成群的夜魅，每位玩家最多只會存在一隻\n- 夜魅現在可以超越玩家的飛行速度，並且在咬傷玩家時會施加「沉重」效果\n  - 「沉重」效果會增加玩家的重力影響，最高可達「沉重 VI」的300%\n- 如果夜魅以足夠快的速度撞上牆壁，將會死亡\n- 當玩家降落時，夜魅會盤旋在玩家周圍並在15秒後消失，但不會攻擊\n  - 在盤旋期間，它會引誘大範圍內的所有敵對生物朝向玩家的位置移動\n\n---\n\n<table align=\"center\">\n    <tr>\n        <th><b>加入我的 Discord</b></th>\n        <th><b>贊助我的 Ko-Fi！</b></th>\n    </tr>\n    <tr>\n        <th><a href=\"https://discord.gg/f5dFYWX\"><img src=\"https://cammiescorner.dev/images/extras/discord.png\" width=\"150\" height=\"150\" title=\"Cammie's Corner Discord\" alt=\"Cammie's Corner Discord\"></a></th>\n        <th><a href=\"https://www.ko-fi.com/camellias\"><img src=\"https://cammiescorner.dev/images/extras/kofi.png\" width=\"150\" height=\"150\" title=\"Cammie's Corner Ko-Fi\" alt=\"Cammie's Corner Ko-Fi\"></a></th>\n    </tr>\n</table>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

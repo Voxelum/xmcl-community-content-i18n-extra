@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31nm8MlRmAQ=",
+  "content": "<p>適用於 1.21.x 的 BetterBiomeBlend 更新版本</p>\n<p>原作者現已更新！請使用原版！</p>\n<p>舊版 Minecraft 請使用原版 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fbetter-biome-blend\" target=\"_blank\" rel=\"nofollow\">Better Biome Blend</a></p>\n<h1>關於</h1>\n<p>Better Biome Blend 是一款客戶端效能優化與錯誤修復模組。它支援平滑、大範圍且符合 sRGB 色彩標準的生態域顏色過渡。安裝本模組後，您可以在影片設定中將「生態域混色」設定從 0x0 調整至 29x29。與原版相比，此設定不再影響效能。</p>\n<h1>關於 1.18 及以上版本</h1>\n<p>Better Biome Blend 將始終使用 29x29 的生態域混色半徑（除非使用 Sodium，則強制為 14x14）。這是因為生態域現在是 3D 而非 2D，使得生態域顏色計算更加困難。這需要撰寫更專業的演算法，但作為回報，本模組仍保持與 1.17 版本相同的速度。Better Biome Blend 也完整支援洞穴中的草地、水面與樹葉，而原版目前尚未支援。</p>\n<h1>相容性</h1>\n<ul>\n<li>Sodium：1.21.x 搭配 0.6.x 版本完全相容</li>\n<li>Sodium：1.20 版本相容 0.4.11，但不相容 0.5.0</li>\n</ul>\n<h1>使用方式：</h1>\n<p>您可放心在任何模組包中使用本模組，當然若能標註來源會更好。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

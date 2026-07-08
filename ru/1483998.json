@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GTmQMi3ld1U=",
+  "content": "<p>Небольшой патч совместимости для модов <a href=\"https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod\" rel=\"nofollow\">EpicFight</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/first-person-model\" rel=\"nofollow\">First Person Model</a>.</p><p><strong>Что он исправляет:</strong></p><p>EpicFight intentionally отключает мод First Person Model, регистрируя собственный <code>ActivationHandler</code>, который блокирует отображение тела в первом лице всякий раз, когда игрок находится в режиме EpicFight. Кроме того, сетки головы и шляпы игрока не скрываются в виду первого лица, из-за чего они пересекаются с камерой.</p><p><strong>Этот мод устраняет оба эти недостатка с помощью миксинов:</strong></p><ul>\n<li>Отменяет регистрацию <code>ActivationHandler</code> EpicFight, благодаря чему мод First Person Model больше не подавляется, и анимированное тело в первом лице отображается правильно</li>\n<li>Вставляет код в рендерер игрока EpicFight, чтобы корректно скрывать сетки головы и шляпы в виду первого лица, предотвращая пересечение с камерой</li>\n</ul><p><strong>Требования:</strong></p><ul>\n<li>EpicFight</li>\n<li>First Person Model</li>\n</ul><p><strong>Необязательно:</strong></p><ul>\n<li>3D-слои кожи</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DLRi/k1aVKA=",
+  "content": "<p><a href=\"https://github.com/Provismet/Dynamic-Fullbright/blob/1.20/LICENSE\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/license-MIT-green?style=flat-square\" alt=\"圖片\"></a>\n<img src=\"https://img.shields.io/badge/environment-client-1976d2?style=flat-square\" alt=\"圖片\">\n<img src=\"https://img.shields.io/badge/mod loader-fabric-d64541?style=flat-square\" alt=\"圖片\"></p><p>傳統全亮模組會施加夜視效果或將所有光照等級設為最大值。動態全亮則提供限制或縮放光照等級的功能，在保持區域照明氛圍的同時仍能讓景物清晰可見。<br>\n您可以將所有設定調至最大值以實現真正的全亮度，或根據個人偏好調低亮度。</p><h2>範例</h2><p>動態全亮的工作原理是獲取渲染線程得到的光照等級，並在光照更新期間進行調整。\n<img src=\"https://media.forgecdn.net/attachments/668/659/comparison.png\" alt=\"圖片\"></p><p>預設設定會將方塊光照和天空光照等級縮放至4-15的範圍內。</p><h2>額外功能</h2><p>透過布藝配置和模組選單，您可以調整設定以獲得任何想要的亮度等級。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

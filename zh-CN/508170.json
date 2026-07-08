@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KZYgpiaRJRE=",
+  "content": "<p><span style=\"font-size:14px\">此模组添加了两个方块：拆解台和高级拆解台。</span></p><p>&nbsp;</p><p><span style=\"font-size:14px\">这些方块允许物品被拆解。</span></p><p>&nbsp;</p><p><span style=\"font-size:14px\">拆解台只能取回一个材料。</span></p><p><span style=\"font-size:14px\">高级拆解台可以取回三个材料和三个附魔（仅当物品有附魔时）。</span></p><p><span style=\"font-size:14px\">&nbsp;</span></p><p><span style=\"font-size:14px\">模组自带配置文件（在存档文件夹中）。<br></span></p><p><span style=\"font-size:14px\">你可以修改拆解台和高级拆解台中可取回的材料数量，黑名单/白名单物品以进行拆解，并在高级拆解台中将附魔降低到第一级。</span></p><p>&nbsp;</p><p><span style=\"font-size:14px\">1.18+:</span></p><p><span style=\"font-size:14px\">拆解台从上方的容器（箱子、漏斗等）导入物品，并将拆解后的物品输出到下方的容器。</span></p><p><span style=\"font-size:14px\">你需要选择槽位来确定使用哪些槽位来取回拆解后的物品。要选择一个槽位，请在它为空时点击它。</span></p><p><span style=\"font-size:14px\">如果你没有选择 x 个槽位（x 为可取回的物品数量），它将按顺序选择物品，但前提是至少选择了一个槽位。</span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

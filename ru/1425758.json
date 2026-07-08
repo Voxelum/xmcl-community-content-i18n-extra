@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Oo/j1+vKHDU=",
+  "content": "<p>Этот мод добавляет замену для рецептов сухих водорослей в Create, которые часто воспринимаются неуместными, особенно в модпаках.</p><p>Мод добавляет <em>2</em> новых устройства, потребляющих вращательную энергию:</p><p>Сапёр — извлекает различные жидкости из множества деревьев.</p><div class=\"spoiler\"><p><img src=\"https://media.forgecdn.net/attachments/description/1425758/description_d7e4539c-be1a-472c-ad78-5244adfea4c0.png\"></p></div><p>Компрессор — перерабатывает жидкости в твёрдые предметы, например смолу в резину или лаву в обсидиан.</p><div class=\"spoiler\"><p><img style=\"font-weight:400;color:#808080\" src=\"https://media.forgecdn.net/attachments/description/1425758/description_ca67d7db-9f0e-4e5a-b9b3-7357d7bdbcdb.png\"></p></div><p>&nbsp;</p><p><em>Разработчики модпаков свободны включать этот мод без получения разрешения</em></p><p>Совместимость:</p><ul>\n<li>Biomes o' Plenty</li>\n<li>KubeJS — скрипт приведён ниже</li>\n</ul><p>&nbsp;<code>event.recipes.rubberworksSapping(Fluid.of(\"minecraft:milk\", 40), [\"minecraft:oak_log\", \"minecraft:oak_leaves\"])</code> <code>event.recipes.rubberworksCompressing(Item.of(\"minecraft:diamond\", 2), Fluid.of(\"minecraft:water\", 500)).heated()</code></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

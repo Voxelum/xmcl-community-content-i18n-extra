@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VbLsp8zO9Ng=",
+  "content": "**灾难浩劫**是一款面向Minecraft（Fabric）的大型自然灾害模组，为你的世界增添了全方位破坏性且震撼的自然现象。准备好迎接从天而降的陨石、剧烈地震、沙尘暴、狂暴风暴、巨型漩涡、吞噬沿途一切的龙卷风、毁灭性海啸、突发山体滑坡以及火山喷发吧！\n\n本模组的核心特色在于其深入且灵活的定制化系统。通过便捷的.toml配置文件，你可以精细控制灾难的每个细节：从发生频率、强度到具体行为规则及其对世界的影响。这让你既能打造真正的末日浩劫，也能仅为生存体验增添一丝不可预测性。此外，所有事件均可通过指令手动触发，非常适合地图制作者和服务器管理员使用。\n\n我们特别注重保持原版游戏风格。所有特效与机制均经过精心设计，使其如同游戏的自然组成部分。模组未引入突兀元素，而是基于现有游戏特性进行拓展。因此，这些灾难不会破坏原版风格，反而能和谐融入Minecraft原版世界，让生存模式更具趣味性与挑战性。\n\n为方便全球玩家，本模组完整支持六种语言：德语（de_de）、英语（en_us）、西班牙语（es_es）、法语（fr_fr）、葡萄牙语（pt_br）和俄语（ru_ru）。\n\n![陨石](https://cdn.modrinth.com/data/CfHgMAvU/images/48273d8a1d5469b501ba2e9ae6971ebea435980e_350.webp)\n\n![龙卷风](https://cdn.modrinth.com/data/CfHgMAvU/images/9d2aef560e0496b1c17632e153e263e3a04ae5d7_350.webp)\n\n![沙尘暴](https://cdn.modrinth.com/data/CfHgMAvU/images/a455220a9a7e9a94d722119bfc29a3ca2b97d544_350.webp)\n\n_示例图_\n\n目前共包含13种灾难类型。\n\n可通过以下指令控制模组：\n/dc summon <类型>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

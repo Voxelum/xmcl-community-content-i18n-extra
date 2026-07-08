@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2MOb/lk+xaQ=",
+  "content": "# 動態模糊 (Fabric)\n為Minecraft添加動態模糊效果，就像Lunar Client一樣。\n\n## 指令\n- /motionblur <百分比>: 調整模糊強度\n\n*__注意：__ 若您在使用此模組搭配sodium時感到畫面卡頓，請嘗試將_視頻設置->進階->CPU渲染預先限制_設為__5或更高__\n\n## 相容性\nsodium √\nexordium √\nfeather client √\noptifine x",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

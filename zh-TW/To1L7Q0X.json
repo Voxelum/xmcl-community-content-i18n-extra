@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vaCJTerAOn4=",
+  "content": "# 選單音樂\n\n輕鬆更換標題選單的音樂！\n\n---\n\n## 使用方式\n\n1. 安裝模組。\n2. 載入帶有 `menumusic:music` 識別碼的音效資源。\n3. 完成，享受音樂 :)\n\n## 音效資源\n\n### 資源包\n\n[範例資源包](https://github.com/nothub/menumusic/releases)\n\n```\nmenumusic.zip\n├── assets\n│   └── menumusic\n│       ├── sounds\n│       │   ├── track1.ogg\n│       │   └── track2.ogg\n│       └── sounds.json\n└── pack.mcmeta\n```\n\n### KubeJS\n\n[載入資源](https://mods.latvian.dev/books/kubejs/page/loading-assets-and-data)\n\n```\nkubejs/\n└── assets\n    └── menumusic\n        ├── sounds\n        │   ├── track1.ogg\n        │   └── track2.ogg\n        └── sounds.json\n```\n\n### sounds.json\n\n[格式說明](https://minecraft.fandom.com/wiki/Sounds.json#File_structure)\n\n```json\n{\n  \"music\": {\n    \"category\": \"music\",\n    \"sounds\": [\n      \"menumusic:track1\",\n      \"menumusic:track2\"\n    ]\n  }\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

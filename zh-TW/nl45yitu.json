@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ABkzf8+75tc=",
+  "content": "# 凋零風暴 Neo\n此模組包旨在提供 Cracker 的凋零風暴模組的最佳體驗，同時不改變整體遊戲玩法。\n\n## 功能/改進\n\n### 優化\n- Neoforge - Forge 的快速分支版本。\n- Rubidium/Embeddium - Sodium 的移植版，允許對圖形設置進行微調控制以及一般優化。\n- Clumps - 合併經驗球以減少實體數量。\n- Memory Leak Fix - 修復常見的記憶體洩漏問題，避免 Minecraft 耗盡 RAM。\n- Dynamic FPS - 當您切換視窗或離開時降低資源使用。\n- Noisium - 更快的世界生成。\n\n### 便利性\n- AppleSkin - 顯示手持食物時可恢復的生命值/飢餓值。\n- Controlling - 可搜尋的控制選單。\n- Just Enough Items - 更好的配方查詢功能。\n- Jade - 提供您所查看方塊的資訊。\n- Zume - 簡單的縮放按鍵綁定。\n- Simple Voice Chat - 遊戲內近距離語音聊天，增強沉浸感。\n- e4mc - 輕鬆轉發區域網路世界，與朋友一起遊玩。\n\n### 美觀\n- Ambient Sounds - 額外的音效，幫助營造您所在區域的氛圍。\n- Better Foliage Renewed - 添加樹葉粒子，改變草方塊的鋪設方式，使植物/樹葉更具立體感。\n- Oculus - 著色器支援（預設關閉）。此模組包預裝 Complementary 和 BSL 著色器。\n- Sound Physics Remastered - 極佳的沉浸感增強，使洞穴感覺更真實。與 Simple Voice Chat 相容性良好。\n- Wavey Capes - 對披風的小改動，使其更像布料般飄動。\n- Enhanced Boss Bars - 重新設計凋零風暴的血條材質。\n- TAW/TAW+ - 重新設計模型和動畫，使其更貼近《Minecraft：故事模式》。\n- VN4's Fresh Wither Storm - 對動畫和材質的多項改進。與 TAW 完全相容。\n- Fresh Animations - 更優的生物動畫。與 VN4's Fresh Wither Storm 整合。\n\n### 世界生成\n- Terralith - 添加與 Better Foliage 搭配美觀的生態域。不添加任何新方塊至遊戲中。\n- Lost Cities - 可選的世界類型，用於變換景觀。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

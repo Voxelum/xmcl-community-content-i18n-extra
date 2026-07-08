@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Gain8RtuW/c=",
+  "content": "# 請詳閱說明\n這是原版 [Construction Wand (Fabric)](https://modrinth.com/mod/construction-wand-fabric)（需 2.0.0 及以上版本）的**附加模組**，為其加入 Polymer 支援。  \n\n**如果你不知道什麼是 Polymer，請勿安裝此模組。**  \n  \n  \n由於是 Polymer 移植版，魔杖選單已改為物品欄選單。  \n\n玩家可以選擇在客戶端安裝此模組的普通版本，基本上能獲得與非 Polymer 版本完全相同的體驗（真實選單、按鍵綁定、預覽等）。  \n\n請透過提供的連結**回報**你遇到的任何問題！\n\n## 安裝方式\n先安裝 [Construction Wand (Fabric)](https://modrinth.com/mod/construction-wand-fabric)（僅支援 2.0.0 及以上版本！）。  \n再安裝此模組（應與所有 Minecraft 版本相容）。  \n  \n我也建議安裝完整版的 [Polymer](https://modrinth.com/mod/polymer) 並[啟用 AutoHost](https://polymer.pb4.eu/latest/user/resource-pack-hosting/)。  \n\n如果遊戲無法啟動，請一併下載正確版本的 [sgui](https://github.com/Patbox/sgui/releases) 來解決問題。  \n\n## 授權條款\n  \n與原始版本相同，此模組採用 MIT 授權條款！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

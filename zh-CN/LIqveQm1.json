@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uQONR6NBKXI=",
+  "content": "| [中文](https://github.com/Leawind/Perspective-API/blob/main/README.zh.md) | English |\n| :------------------: | :-----: |\n\n<div align=\"center\">\n<img src=\"https://raw.githubusercontent.com/Leawind/Perspective-API/dev/src/main/resources/logo.png\" alt=\"Perspective API\" style=\"image-rendering:pixelated;height:10em;\">\n\n# 视角 API\n\n![API 版本](https://img.shields.io/github/v/tag/Leawind/Perspective-API?label=API&color=818181)\n\n[![Modrinth 下载量](https://img.shields.io/modrinth/dt/LIqveQm1?style=flat&logo=modrinth&color=17B85A&cacheSeconds=3600&label=Modrinth)](https://modrinth.com/mod/perspective-api)\n[![CurseForge 下载量](https://img.shields.io/curseforge/dt/1575322?style=flat&logo=curseforge&color=F1643%5E&cacheSeconds=3600&label=CurseForge)](https://www.curseforge.com/minecraft/mc-mods/perspective-api)\n\n</div>\n\n视角 API 是一个客户端库，旨在让其他模组能够提供更流畅、更灵活且更具沉浸感的镜头体验。即便单独安装，它也能为原版游戏带来改进——为视角切换添加**平滑过渡动画**。\n\n> **注意：** 尽管本 API 能为原版视角切换带来即时的体验提升，但它主要设计为高级视角模组的基础框架。目前尚无公开模组使用此 API，但它已准备好供开发者在此基础上进行开发！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

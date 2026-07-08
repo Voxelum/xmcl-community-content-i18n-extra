@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lfCzAmbVsuQ=",
+  "content": "# Простой перезапуск сервера\nЛёгкий плагин для сервера, добавляющий функцию запланированного перезапуска.\n\n[![](https://dcbadge.limes.pink/api/server/https://discord.gg/uyyxyzVq75)](https://discord.gg/https://discord.gg/uyyxyzVq75)\n[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruin9999/simple-server-restart)\n\n### Как использовать\nЗапланированные перезапуски сервера можно настроить в файле конфигурации.\n\n<code>/restart</code> — мгновенный перезапуск сервера.  \n<code>/restart [задержка]</code> — перезапуск сервера с задержкой.\n\n### Часто задаваемые вопросы\nВопрос: Мой сервер не перезапускается вовремя.  \nОтвет: Убедитесь, что в конфигурации установлено значение `runRestartScript = true`.\n\nВопрос: Будете ли вы добавлять поддержку разных платформ?  \nОтвет: Да, я планирую добавить поддержку Quilt и Forge.\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

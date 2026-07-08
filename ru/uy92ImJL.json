@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QGiEK2AUDu8=",
+  "content": "Измените конфигурацию в файле `config/registry-blocker.json`.  \nКлюч — это идентификатор реестра, значение — идентификатор записи.  \nКонфигурация должна перезагружаться при перезагрузке пакетов данных.  \nЕсли реестр ссылается на другую запись, в файле `latest.log` появится ошибка.\n\nРекомендуем использовать вместе с https://modrinth.com/mod/data-dumper для дампа соответствующего реестра с помощью тега или регулярного выражения.  \nТакже рекомендуем использовать вместе с https://modrinth.com/mod/mod-sets для отключения модов, находящихся в разработке, в опубликованном пакете.\n\n## Пример использования\n\n- Удалите структуры.\n- Уберите предметы, которые не нужны в пакете.\n- Отключите наборы структур и объедините все структуры в несколько таких наборов, чтобы избежать их пересечений.\n\n## Пример\n\n```json5\n{\n    // Поскольку https://github.com/misode/mcmeta/blob/data-json/data/minecraft/worldgen/structure_set/pillager_outposts.json#L6 требует эту запись, мир не загрузится\n    \"minecraft:worldgen/structure_set\": [\n        \"minecraft:villages\"\n    ],\n    \"minecraft:block\": [\n        \"minecraft:redstone_wire\"\n    ]\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

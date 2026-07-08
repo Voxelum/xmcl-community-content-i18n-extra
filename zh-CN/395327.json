@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NOCMhHOf/XU=",
+  "content": "<h1>AutoFish for Forge</h1><p>此Mod可能是所有Minecraft Forge自动钓鱼Mod中最精准的一款。<br>\n由于避免使用了Mixin，它应该也能与其他Mod完全兼容。<br>\n完全客户端运行，可在原版服务器上使用（也应能用于其他服务器，但我未测试过）。</p><h1>使用方法</h1><ol>\n<li>进入控制选项设置按键绑定。</li>\n<li>使用按键绑定来开启/关闭Mod及其功能。</li>\n<li>打开GUI设置收杆/抛竿延迟*（单位为游戏刻）及物品过滤器**。</li>\n<li>将浮漂抛入水中，它便会自动运行。</li>\n</ol><p>*可选功能，仅1.1.0+版本支持。<br>\n**不适用于多人游戏模式。</p><p>关于公共服务器：不推荐使用此Mod，因其提供不公平优势。请自行承担使用风险。若被封禁，绝非本人责任。<br>\n建议仅在单人游戏或私人服务器中使用。</p><p>效果展示：</p><span><span><span class=\"embed-removed\"> 嵌入内容已移除： <a href=\"https://elerium.curseforge.com/linkout?remoteUrl=https%3a%2f%2fwww.youtube-nocookie.com%2fembed%2fbUgIX_J1VYI\" rel=\"noopener nofollow\">https://www.youtube-nocookie.com/embed/bUgIX_J1VYI</a> </span></span></span><h1>创作初衷</h1><p>因1.16版本更新，Mojang移除了旧设计中获取宝藏的机制，从而削弱了AFK钓鱼农场。<br>\n虽然后续出现了新的设计，但效果远不如旧版本。<br>\n为解决此问题，我制作了这个Mod。<br>\n有了它，你仍能在1.16版本进行AFK钓鱼并获取宝藏。</p><h1>运行原理</h1><p>原理非常简单：<br>\n众所周知，抛竿时会生成浮漂。此Mod会追踪浮漂的运动轨迹：<br>\n当浮漂垂直运动幅度足够低时，程序判定已上钩，自动收杆。BAM！立即获得战利品。</p><h1>支持作者！</h1><ul>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fnww\" target=\"_blank\" rel=\"nofollow\">Ko-Fi赞助</a></li>\n</ul><p><img src=\"https://cdn.modrinth.com/data/cached_images/ec5a63c215df7bc6ddb7445c5c9045bba20068f4.png\" alt=\"Summatia喝茶中\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

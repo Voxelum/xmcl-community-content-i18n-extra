@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uI7c1KG3DU4=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_44376b55-d890-495f-9a28-7d3322d59304.png\" alt=\"混亂的流體畫面。\"></p><p><strong>實</strong>用性 <strong>流體</strong> 是一個教學模組，旨在填補 (Neo)Forge 文檔中的空白。如同任何優秀的教學，它包含有趣的範例：</p><ul>\n<li><strong>冷卻岩漿</strong> - 厭倦了會燒掉鵝卵石的刷石機？想住在岩漿湖裡，但又不想燒掉基地或狂喝抗火藥水？冷卻岩漿是你的最佳選擇——擁有真實岩漿的所有特性，卻完全不會燃燒。支援船隻行駛。</li>\n<li><strong>厚空氣</strong> - 創造模式飛行的平衡替代方案。預設隱形，厚空氣可以像普通空氣一樣行走穿越。然而，當你開始衝刺（或任何原因離開地面時），你將會開始游泳！可安全呼吸；可以墜落，但不會橫向流動。是隱形路徑和氣閘的理想選擇。大多數生物害怕接觸它，但仍可被推入其中。</li>\n<li><strong>可設定流體</strong> - 需要為你的模組包自訂流體，但不確定如何添加？可設定流體（大部分）屬性可由設定檔控制。將推力調至最高可打造快速運輸系統，或隨季節變更顏色以自動裝飾節日氣氛。將摔傷倍率調至 100 可製作死亡陷阱，或關閉溺水傷害來建造水下基地。</li>\n<li><strong>時間之河</strong> - 孩童沿時間上游流動，成人則往下游流動。不受時間影響的存在（玩家、鐵魔像及非生物）則完全不會流動。</li>\n<li><strong>洪水</strong> - 會持續生長填滿任何容器。非常適合游泳池、巨型水農場及人工湖。這相當危險（<span style=\"color:#ba372a\">警告</span>：切勿在山頂使用！），因此沒有預設合成配方。它<strong>確實</strong>會淹沒你的世界。</li>\n</ul><p>&nbsp;</p><hr><p>未來或許會讓這些流體可獨立停用——目前你可以使用資料包或 CraftTweaker/KubeJS 手動移除合成配方。</p><p>現已推出<a href=\"https://github.com/no-name-provided/Functional_Fluids/wiki\" target=\"_blank\" rel=\"nofollow\">Wiki</a>！（是的，這是流體 API 的 wiki，畢竟這是個範例模組。）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6FQK5R7WZ2I=",
+  "content": "一個 [**Hexcasting**](https://modrinth.com/mod/hex-casting) 與 [**Valkyrien Skies**](https://modrinth.com/mod/valkyrien-skies) 的互通擴充模組。有了這個擴充，Hexcasters 就能夠取得船隻的資訊並對其進行操作。為此，它還提供了與其他 Hexcasting 擴充模組的互通功能，詳情如下所列。\n\n如需完整的法術列表，請參閱 Wiki！\n\n**這個模組最初由 walksanator 製作，他已將此專案移交給我。**\n\n### 其他互通功能：\n- [**ComplexHex**](https://modrinth.com/mod/complex-hex)\n  - 提供長整數與四元數，用於取得更多船隻資訊\n- [**Hexal**](https://modrinth.com/mod/hexal/)\n  - 靈體可以選擇進入或離開船塢\n- [**Hexical**](https://modrinth.com/mod/hexical)\n  - **組裝**法術可以將網格實體作為輸入\n- [**Hexodus**](https://modrinth.com/mod/hexodus)\n  - 所有法術都可以接受船隻而不是實體\n- [**MoreIotas**](https://modrinth.com/mod/moreiotas/)\n  - 提供字串與矩陣，用於取得更多船隻資訊",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

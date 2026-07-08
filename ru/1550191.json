@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BQvVe6NtjkI=",
+  "content": "<p>Сервер Model Context Protocol (MCP), работающий в Minecraft Java Edition в виде мода Fabric. Он предоставляет доступ к серверному API Minecraft и API Fabric в качестве инструментов MCP, чтобы клиент MCP — Claude Desktop, Cursor или любой агент, поддерживающий протокол MCP — мог программно читать и манипулировать живым миром.</p><p>&nbsp;</p><p>Работает с сопутствующим плагином для Claude Code: <a href=\"https://github.com/chapmanjw/minecraft-java-fabric-claude-plugin\" rel=\"nofollow\">https://github.com/chapmanjw/minecraft-java-fabric-claude-plugin</a></p><p>&nbsp;</p><p>Требуется API Fabric: <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/fabric-api</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

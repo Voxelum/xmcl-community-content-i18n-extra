@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Fbp2KCbU5UI=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/I5kSV52gSJU\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n# 軌道攻擊炮資料包\n\n這是一個資料包，可以讓您使用釣竿簡單點擊，在任何時候召喚核彈與軌道炮的穿刺射擊。\n\n## 取得釣竿的指令：\n```\n/function orbital_strike_cannon:get_nuke\n\n/function orbital_strike_cannon:get_stab\n\n/function orbital_strike_cannon:get_lawnuke\n\n/function orbital_strike_cannon:get_wither_nuke\n\n/function orbital_strike_cannon:get_wolf_rod\n```\n\n## 取得界伏盒的指令：\n```\n/function orbital_strike_cannon:get_nuke_shulker\n\n/function orbital_strike_cannon:get_stab_shulker\n\n/function orbital_strike_cannon:get_lawnuke_shulker\n\n/function orbital_strike_cannon:get_wither_cannon_rod_shulker\n\n/function orbital_strike_cannon:get_wolf_rod_shulker\n```\n\n### 特色：\n- **核彈**：使用「核彈射擊」釣竿時會產生，能創造出10層TNT\n\n- **穿刺射擊**：穿刺射擊會穿透地面，同時對實體/玩家造成大量傷害，並產生一個直達基岩層的洞。\n\n- **狼群釣竿**：召喚約50隻穿著狼鎧的狼，並賦予力量2、速度2、回復與抗火效果。\n\n- 歡迎根據個人喜好自訂資料包（但恕不支援修改版本的問題）\n- 歡迎在您的YouTube影片中使用，隨意運用，只要在說明欄提供此頁面的連結即可！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+ph5fpuNBOY=",
+  "content": "[![Fabric API](https://github.com/intergrav/devins-badges/blob/v3/assets/compact/requires/fabric-api_46h.png?raw=true)](https://modrinth.com/mod/fabric-api) [![Fabric API](https://cdn.modrinth.com/data/cached_images/b114b346f60f5a67d81e5330b470aed87323e070.png)](https://modrinth.com/mod/fabric-language-kotlin)\n\nКак это работает:\n\nКогда игрок присоединяется, он автоматически добавляется в базу данных мода (config/ourdiscount_players.txt).\n\nКогда кто-то взаимодействует с вылеченным деревенским жителем, скидка применяется ко всем, кто есть в этой базе данных.\n\nОффлайн-поддержка: В отличие от более старых версий, оригинальному игроку не нужно быть онлайн. Поскольку мы сохраняем UUID, друзья, которые находятся в оффлайне (или ещё не присоединились), всё равно получат скидку.\n\nОтлично подходит для многопользовательских серверов, чтобы избежать повторного лечения каждого участника.\n\nКоманды (только в консоли):\n\n/ourdiscount check <имя> — Проверяет, активна ли у игрока скидка на близлежащих деревенских жителях (работает и для оффлайн-игроков).\n\n/ourdiscount reapply — Принудительно обновляет скидку для всех загруженных деревенских жителей по всему миру.\n\nДискорд: lukysgaming",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

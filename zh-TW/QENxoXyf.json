@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/JqGteLVZy8=",
+  "content": "**一款輕量級模組，旨在更好地整合常見的模組並提供相容性修補，以提升模組包的遊玩體驗。**\n\n_(你不需要安裝所有列出的模組就能讓 Blended Compat 運作，例如，如果你只有其中兩個模組，Blended Compat 仍會以相同方式運作)_\n\n**收錄的模組（未來還會新增）：**\n\n- Alex's Mobs\n  \n- Naturalist\n\n- Environmental\n\n- Neapolitan\n\n- Immersive Weathering\n\n- Spelunkery\n\n- Ecologics\n\n- Biome Makeover\n\n- Autumnity\n\n**關於修補內容（未來還會新增）：**\n- 不同模組的生物會互相互動，例如 Alex's Mobs 的雪豹也會捕食 Ecologics 的企鵝。\n\n- 不同模組的植被將能生成在模組化的草地上，例如 Biome Makeover 的仙人掌將能生成在 Immersive Weathering 的多種沙變種上。\n\n- 原本限制只能在特定方塊上生成的模組生物，現在也能在相同方塊的模組變種上生成，例如 Naturalist 的蝴蝶現在將能生成在 Immersive Weathering 的多種草地變種上。\n\n- 模組物品的使用範圍將擴大，例如 Spelunkery 的鹽也將能作用於不同模組（如 Spawn、Autumnity 和 Naturalist）中發現的多種不同蝸牛上。\n\n- 原本無法在模組化生態域生成的模組生物，現在將能生成了。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

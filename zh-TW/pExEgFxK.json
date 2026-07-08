@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ypK4ajZODhw=",
+  "content": "## 這是什麼？\n\n這是一個材質包，內含一個「可自訂的 3D 圖騰雕像」，靈感最初來自於 [totems.me 圖騰模型產生器](https://www.totems.me/)。\n\n## 如何更換外觀？\n\n首先，解壓縮材質包，然後前往你的 `.minecraft` 資料夾，再進入 `resourcepacks\\Totem Statue <Wide|Slim>\\assets\\minecraft\\textures\\item`，複製該材質檔案的名稱後將其刪除。接著將你的外觀放入該目錄，並將你的外觀檔案名稱取代為剛剛複製的名稱（`statue_totem_of_undying.png`）。\n\n噠噠！你的外觀應該會顯示在「圖騰雕像」上，接著就可以使用囉！\n\n## 常見問題\n\n- 為什麼材質包顯示「版本不相容」而且是紅色的？\n答：你可能正在使用一個材質包中未列出的版本，因此它會顯示為不相容版本。你應該先試試看，如果可行就太棒了，如果不行……那也沒辦法！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

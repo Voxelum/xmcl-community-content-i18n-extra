@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Qx7JISOTFjs=",
+  "content": "這個非官方附加元件為 **Shield Statuses** 擴展了原有模組的邏輯，實現全域護盾追蹤。不再僅限於你親自擊破對手護盾時才更新狀態，而是在所有玩家的渲染距離內，任何護盾被擊破都會被處理。\n\n![全域護盾追蹤](https://cdn.modrinth.com/data/cached_images/39ebe2859eb1c14097e6bbe4efa6197efad4e444.png)  \n![全域護盾追蹤](https://cdn.modrinth.com/data/cached_images/234f2b0f7f3059112c0bbe2f66357d2d988adbd2.png)\n\n此外，此附加元件還包含對 **Punchy** 模組的相容性修正。先前，使用 Punchy 時，若解除對手的護盾，會錯誤地在你的畫面上觸發冷卻視覺效果。此附加元件徹底解決了此衝突，確保所有護盾狀態都能正確顯示。\n\n![Punchy 修正](https://cdn.modrinth.com/data/cached_images/27c26ec0475aa66850ea6b259901dd1f6a6b06c2.png)  \n![Punchy 修正](https://cdn.modrinth.com/data/cached_images/543a3f4da7ba65746ffb9c6940e44011467bc210.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

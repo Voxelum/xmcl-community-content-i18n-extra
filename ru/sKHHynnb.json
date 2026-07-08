@@ -1,0 +1,15 @@
+{
+  "bodyHash": "DsvKB86mPmI=",
+  "content": {
+    "error": {
+      "code": "invalid_parameter_error",
+      "param": null,
+      "message": "Parameter limit exceeded",
+      "type": "invalid_request_error"
+    },
+    "id": "chatcmpl-0c9a2bda-c500-9d9e-aaaa-f4985bdc4d88",
+    "request_id": "0c9a2bda-c500-9d9e-aaaa-f4985bdc4d88"
+  },
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

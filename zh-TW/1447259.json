@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oDT3OWCPc6I=",
+  "content": "<h1>恢復殭屍增援機制</h1><p>一款輕量級 Minecraft 模組，可還原 1.21.2 版本前的殭屍增援行為。</p><ul>\n<li>自 Minecraft 1.21.2+ 起，殭屍增援會生成<em>相同亞種</em>（例如沉屍、屍殼），這對依賴殭屍增援的銅礦農場造成影響。</li>\n<li>本模組將此變更還原，即<strong>所有增援現皆生成為普通 <code>ZombieEntity</code></strong></li>\n</ul><h2>功能特色</h2><ul>\n<li>增援始終生成為普通殭屍，絕不會生成沉屍或屍殼。</li>\n<li>大幅提升依賴殭屍增援機制的銅礦農場效率與穩定性</li>\n</ul><h2>需求</h2><ul>\n<li>Fabric API（適用於 Fabric 版本）</li>\n</ul><h2>注意事項</h2><ul>\n<li>此為僅限伺服器端的模組。</li>\n<li>於多人遊戲中，必須在伺服器端安裝本模組。</li>\n<li>客戶端無需安裝，單人遊戲世界除外。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

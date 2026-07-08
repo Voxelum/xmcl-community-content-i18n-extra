@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DHaV9HfsqIk=",
+  "content": "![Some Assembly Required 模组图标](https://raw.githubusercontent.com/ochotonida/some-assembly-required/1.18/src/main/resources/logo.png)\n\n一些组装工作 是一款农夫乐事和机械动力的附属模组，可以让玩家制作自定义三明治。\n\n刚开始时，先用农夫乐事的砧板制作一些面包片，或者做一个汉堡胚。接着，放置一个三明治组装站，在上面放一片面包或汉堡胚，然后开始添加食材。除了食物，药水也可以添加进去。三明治完成后，通过破坏它即可拾取。对着任意方块按住Shift并右键点击，即可将三明治放置在世界中。\n\n三明治恢复的饥饿值和饱和度等于其所有食材恢复值的总和。不过，如果三明治包含至少两种不同的食材（不包括面包和药水），那么如果是普通三明治，会额外提供舒适效果；如果是汉堡，则会提供滋养效果。该效果的持续时间会随独特的食材种类数量增加而延长。\n\n如果你更喜欢自动化操作，可以使用机械动力的机械手来自动生产三明治。此外，流体喷口可以向三明治添加药水、蜂蜜或巧克力等流体。完整的兼容流体列表可以在JEI中查看。\n\n![模组中的一系列配方，显示在JEI中](https://cdn.modrinth.com/data/cached_images/435d9154f6e9a0cc466c103b96f60b11f729e03b.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

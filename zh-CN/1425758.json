@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Oo/j1+vKHDU=",
+  "content": "<p>本模组为机械动力中的干海带配方提供了替代方案，该配方在整合包中常被视为不合时宜的存在。</p><p>模组新增了<em>2</em>种消耗旋转动力的机械：</p><p>树汁汲取器 - 可从多种树木中提取各类流体。</p><div class=\"spoiler\"><p><img src=\"https://media.forgecdn.net/attachments/description/1425758/description_d7e4539c-be1a-472c-ad78-5244adfea4c0.png\"></p></div><p>压缩机 - 将流体加工为固态物品，例如将树脂转化为橡胶，或熔岩转化为黑曜石。</p><div class=\"spoiler\"><p><img style=\"font-weight:400;color:#808080\" src=\"https://media.forgecdn.net/attachments/description/1425758/description_ca67d7db-9f0e-4e5a-b9b3-7357d7bdbcdb.png\"></p></div><p>&nbsp;</p><p><em>整合包开发者可自由添加本模组，无需请求许可</em></p><p>兼容性：</p><ul>\n<li>生物群系调味料</li>\n<li>KubeJS - 示例代码见下方</li>\n</ul><p>&nbsp;<code>event.recipes.rubberworksSapping(Fluid.of(\"minecraft:milk\", 40), [\"minecraft:oak_log\", \"minecraft:oak_leaves\"])</code> <code>event.recipes.rubberworksCompressing(Item.of(\"minecraft:diamond\", 2), Fluid.of(\"minecraft:water\", 500)).heated()</code></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oH8pTI5c9f8=",
+  "content": "# 聊天指南\n\n**聊天指南**是专为 BMC 模组打造的插件，让你只需在聊天栏输入简单的触发词，就能快速打开实用的游戏内指南。\n\n**现在也适用于** /msg 和 /r 指令（取决于用户输入长度）\n\n无需记忆复杂的指令，只需在聊天栏输入例如 \n```\n:bend:\n```\n 或 \n```\n:claim:\n```\n 这样的关键词，正确的指南就会立刻弹出。\n\n## ✨ 功能特色\n\n- 快速访问服务器指南\n  \n- 轻量且易于使用\n  \n- 无需记忆指令\n\n- 不区分大小写的触发词\n\n### 📘 触发词列表\n- \n```\n触发词\t 打开内容\n\n- :bend: 御术指南\n- :trust: 信任指南\n- :presets: 御术预设指南\n- :chestshop: 箱子商店指南\n- :lotus: 莲花硬币指南\n- :pwarp: 玩家传送点指南\n- :ranks: 如何购买等级指南\n- :sell: 出售指南\n- :claim: 如何认领领地指南\n- :tpa: 传送请求指南\n- :guild: 公会指南\n- :buy: 购买指南\n- :homes: 家园指南\n- :skin: 皮肤指南\n- :ah: 拍卖行指南\n- :lotusshop: 莲花商店指南\n- :rankbending: 付费等级御术选项\n- :start: 新手入门指南\n- :claimblocks: 如何获取认领方块指南\n- :duel: 决斗指南\n- :tpprot: 传送保护指南\n- :gshop: 公会商店指南\n- :econamy: 经济指南\n- :qol: 生活质量指令指南\n```\n**效果如下：**\n![御术指南！](https://cdn.modrinth.com/data/cached_images/7241d2d3dbf893e4128f8a2b6f12e5a33f5b6178.png)\n\n### 如有任何问题或建议，请在此处提交！\n\n[Discord！](https://discord.gg/KrvggV4tbR)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

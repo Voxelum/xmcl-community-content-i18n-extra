@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WC4Q3YK954U=",
+  "content": "Stopwatch добавляет простой секундомер в HUD для Fabric. Он может запускать, останавливать, паузировать, возобновлять, очищать, переключать видимость и сохранять времена кругов.\n\nКоманды:\n\n```text\n/stopwatch start\n/stopwatch stop\n/stopwatch pause\n/stopwatch resume\n/stopwatch clear\n/stopwatch lap\n/toggle\n/lap\n/clear\n```\n\nКлавишные сокращения доступны в меню Управления в Minecraft под названием «Stopwatch» и по умолчанию не привязаны к клавишам.\n\nТребуется Fabric API и Cloth Config. Меню мода является необязательным для настройки.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

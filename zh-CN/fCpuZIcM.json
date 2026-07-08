@@ -1,0 +1,6 @@
+{
+  "bodyHash": "CjLvJVSncR4=",
+  "content": "此客户端 Fabric 模组在客户端已拥有资源包时跳过加载服务器资源包。\n\n这避免了在加入和离开服务器时出现烦人的 Mojang 加载条。\n\n它通过比较资源包的文件哈希值来实现这一点。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

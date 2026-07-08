@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jdaT8vCrv7U=",
+  "content": "<h1>TurretCraft</h1><p>TurretCraft 为 <strong>Minecraft Forge 1.20.1</strong> 添加了可放置的自动防御炮塔，包含弹药、GUI控制、圆形瞄准范围以及平滑的瞄准/射击动画（偏航、俯仰、后坐力）。</p><h2>特性</h2><ul>\n<li><strong>多种炮塔</strong>：建造不同类型的炮塔用于基地防御。</li>\n<li><strong>弹药系统</strong>：在炮塔GUI中装载弹药（每个炮塔独立存储弹药）。</li>\n<li><strong>游戏内GUI</strong>：快速配置瞄准模式和管理弹药。</li>\n<li><strong>圆形瞄准范围</strong>：炮塔在一个圆形（类似球形）半径内扫描并攻击目标。</li>\n<li><strong>平滑动画</strong>：炮塔偏航旋转、炮管俯仰抬升以及射击后坐力。</li>\n<li><strong>简单轻量</strong>：专注玩法，易于使用。</li>\n</ul><h2>需求</h2><ul>\n<li>Minecraft <strong>1.20.1</strong></li>\n<li><strong>Forge 47.x</strong></li>\n<li>Java <strong>17</strong></li>\n</ul><h2>安装</h2><ol>\n<li>安装 <strong>Minecraft Forge 1.20.1 (47.x)</strong>。</li>\n<li>将模组 <code>.jar</code> 放入：\n<ul>\n<li>Windows：<code>%AppData%\\.minecraft\\mods</code></li>\n<li>macOS：<code>~/Library/Application Support/minecraft/mods</code></li>\n<li>Linux：<code>~/.minecraft/mods</code></li>\n</ul>\n</li>\n<li>使用 <strong>Forge</strong> 配置文件启动游戏。</li>\n</ol><h2>如何使用</h2><ol>\n<li>合成并放置炮塔。</li>\n<li>右键点击打开 <strong>炮塔GUI</strong>。</li>\n<li>将弹药放入炮塔并选择瞄准模式。</li>\n<li>享受自动防御吧！</li>\n</ol><h2>鸣谢</h2><ul>\n<li>作者：<strong>cz</strong></li>\n<li>为社区制作。欢迎反馈和Bug报告。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

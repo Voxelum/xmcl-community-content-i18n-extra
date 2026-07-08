@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4BbukCe30pQ=",
+  "content": "<h1><strong>警告！</strong></h1><h1><strong>为确保正常运行，建议搭配使用 Vista Aeronautics Fix 1.0.0、Vista 3.1.2、Create 6.0.9、Sable 1.0.6 以及 Create Aeronautics 1.0.2 或 1.0.3！</strong></h1><h1><strong>Vista Aeronautics Fix</strong></h1><p>Vista Aeronautics Fix 是一款轻量级客户端附加组件，专门用于解决 Vista 电视屏幕安装在 Create Aeronautics 移动装置上时出现的渲染问题。</p><h2><strong>问题描述</strong></h2><p>原版 Vista Mod 使用了高级优化系统（LOD 与平面剔除）。当电视屏幕作为活动中的 Aeronautics 装配体（如飞艇或火车）的组成部分时，这些系统往往会错误判定屏幕处于视野外或距离过远，导致在移动过程中显示屏出现闪烁、消失或完全停止更新。</p><p><strong>未安装修复时</strong><br><img src=\"https://files.catbox.moe/se5h9a.gif\" alt=\"未安装修复\" width=\"1440\" height=\"720\"></p><p><strong>安装修复后</strong><br><img src=\"https://files.catbox.moe/03vhej.gif\" alt=\"安装修复\" width=\"1280\" height=\"720\"></p><h3><strong>功能特性</strong></h3><h3>&nbsp;</h3><p>- 绕过剔除：完全禁用电视屏幕的平面剔除功能，确保其在任何角度的移动结构上始终可见。<br>&nbsp;&nbsp;<br>- 重新设计 LOD：移除了导致屏幕过早停用的激进距离优化。<br>&nbsp;&nbsp;<br>- 延长渲染距离：增加渲染包围盒与视距，防止高速移动时游戏跳过电视屏幕的渲染。</p><p>&nbsp;</p><p><strong>技术信息</strong></p><p>仅限客户端：本模组无需安装在服务器上。</p><p>前置要求：必须安装 Vista 与 Moonlight Lib。",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

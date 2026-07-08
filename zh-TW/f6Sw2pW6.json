@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hFik3FWgVoo=",
+  "content": "![標題圖片](https://i.imgur.com/E5YAMs0.png)\n\n## 開發者已恢復此模組的開發（從其GitHub活動可見）。一旦他在Modrinth發布可運行的版本，此模組便會被封存，因為我無意也無興趣接手開發工作——我的程式能力有限，僅勉強讓模組能在新版Fabric Loader上運行。因此建議您經常查看原始模組頁面，以便將來用原版模組替換此分叉版本。\n\n本次發布的模組是我製作的熱修復版本，讓玩家能在最新版Fabric Loader（0.15.x）上無障礙使用！\n\n我_**並非**_此模組的擁有者或原作者。但因開發者數月未針對Fabric Loader 0.15.x及以上版本的相容問題發布修復，我才自行嘗試盡力修正。若開發者提出要求或自行發布修復版本，此模組**_將立即下架_**。\n\n請注意：若您使用任何依賴工業革命（Industrial Revolution）的模組，理論上應完全相容此熱修復版。請勿被模組名稱誤導，內部參照與字串均未改動，僅修改了模組顯示名稱。\n\n此模組需搭配Fabric API與Fabric Language Kotlin使用。\n\n原始模組與說明請見：[工業革命](https://modrinth.com/mod/industrial-revolution)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

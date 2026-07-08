@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uVK8J7j13Y0=",
+  "content": "包含所有 Chicken-Bones（非官方）的通用代码。\n\n功能包括：\n* 能够运行 NotEnoughItems\n\n* 用于拖放的 ASM 钩子\n\n* 运行时反混淆工具\n\n由 Gregtech New Horizons Modpack 分叉并维护，适用于 1.7.10 版本。使用 NotEnoughItems 非官方版时必须安装。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

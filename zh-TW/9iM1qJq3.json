@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pMNFIVedSFM=",
+  "content": "[![Discord](https://img.shields.io/discord/1035236362263207936?color=blue&logo=discord&label=Discord)](https://discord.mcbrawls.net)\n\n**Blueprint** 是一個模組和 API，可用於儲存/載入任意大小的結構。\n\n# 使用方法\n\nBlueprint 的公開版本可以在 [Modrinth](https://modrinth.com/mod/blueprint-api) 頁面上找到。\n\n若要將 Blueprint 作為依賴項使用，您可以在我們的 [公開 Maven 儲存庫](https://maven.mcbrawls.net/#/releases/net/mcbrawls/blueprint) 中找到相關構件。\n\n`build.gradle`\n```gradle\nrepositories {\n    maven {\n        name = \"MC Brawls\"\n        url  = \"https://maven.mcbrawls.net/releases/\"\n    }\n}\n\ndependencies {\n    include modImplementation (\"net.mcbrawls:blueprint:$blueprint_version\")\n}\n```\n\n`gradle.properties`\n```properties\nblueprint_version=1.16.3+1.21.8\n```\n\n# 開始使用\n\n`/blueprint-editor open <藍圖識別碼>` 將開啟或建立一個新的藍圖編輯器環境。\n使用 `/blueprint-editor save` 儲存您目前所在的藍圖編輯器。\n使用 `/blueprint-editor close` 關閉目前的藍圖編輯器環境。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

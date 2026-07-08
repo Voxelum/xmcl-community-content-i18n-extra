@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5cnm2KZqu4=",
+  "content": "## Описание\nдобавлена поддержка динамического и статического фонов, заменяющих панорамные и грязевые фоны путём загрузки наборов текстур   \n   \n## Как использовать\nзагрузите свой набор текстур для работы   \n[пример пака — нажмите здесь](https://github.com/prizepun4973/BackgroundMod/releases/tag/packv2)    \n[конвертер mp4](https://giga.tools/video-tools/video-to-images-splitter)\n\n## API\nчтобы отключить пользовательские функции:   \n```\ncatchfish.bgmod.custom.Custom.enabled = false;\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

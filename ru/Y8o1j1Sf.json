@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/5ZJ0PexewY=",
+  "content": "# Лучшая консоль Fabric\n\nСерверный мод для Fabric, улучшающий консоль с помощью автозаполнения вкладок, цветного вывода логов, подсветки синтаксиса команд, истории команд и многого другого.\n\nЛучшая консоль Fabric настраивается через файл `better-fabric-console.conf`, который генерируется в папке с конфигурацией. Требуется [Fabric-API](https://modrinth.com/mod/fabric-api).\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

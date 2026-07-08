@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0aXCQQtCN7A=",
+  "content": "無需離開Minecraft，就能聽音樂、管理播放清單並控制播放。\nDiscDeck 是一款用戶端 Fabric 音樂播放器，搭載了靈感來自 Minecraft 的\n自訂介面。從物品欄旁的音樂唱片按鈕開啟它，新增\n播放清單、搜尋曲目，並直接在遊戲中控制播放。\n功能\n播放 YouTube 曲目、播放清單、直播、直接連結及本地檔案。\n從自訂的遊戲內介面管理播放清單。\n從附加在物品欄 UI 上的按鈕開啟 DiscDeck。\n當合成書開啟或關閉時，物品欄按鈕會隨之移動。\n旋轉的像素藝術音樂唱片「正在播放」覆蓋層。\n播放、暫停、跳過、重複、隨機播放、搜尋、音量控制。\n精簡的曲目標題、作者、時長及進度顯示。\n靈感來自 Minecraft 的青色與紫色介面，搭配模糊的音樂藝術圖。\n可配置的遊戲內覆蓋層位置及可見性。\n支援版本\n下載對應您 Minecraft 版本的 JAR 檔案：\n1.20\n1.20.1\n1.20.2\n1.20.4\n1.20.6\n1.21\n1.21.1\n目前不支援 Minecraft 1.20.3、1.20.5 及比 1.21.1 更新的版本。\n必要依賴\nFabric Loader\n適用您 Minecraft 版本的 Fabric API\n適用您 Minecraft 版本的 U Team Core\nMod Menu 為選用。\n安裝\n為您的 Minecraft 版本安裝 Fabric Loader。\n安裝對應版本的 Fabric API 與 U Team Core。\n將對應的 DiscDeck JAR 檔案放入您的 mods 資料夾。\n開啟 Minecraft，並使用物品欄旁的音樂唱片按鈕。\n備註\nDiscDeck 為用戶端，可在多人伺服器上使用。\n線上音樂載入需要網路連線。\n某些服務或個別曲目可能因地區、帳號或提供者限制而無法使用。\n授權\nApache 授權條款 2.0。詳情請見 LICENSE 檔案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

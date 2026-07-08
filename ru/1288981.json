@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TnTlqCaNEG8=",
+  "content": "<h1>TileFinder</h1><p>Клиентский мод, помогающий находить TileEntities вокруг вашей базы. TileEntities — это блоки с дополнительными функциями, такими как сундуки, машины, мультиблоки и т.д. Я создал этот мод для себя, чтобы использовать его в модпаках вместе с друзьями — я никогда не могу найти нужные мне машины.</p><p>&nbsp;</p><p>По умолчанию клавиша `\\` открывает интерфейс, а клавиша `O` очищает направляющий луч. Луч можно настроить в настройках Forge Mod Options.</p><p>&nbsp;</p><table style=\"width:100%\">\n<tbody>\n<tr>\n<td style=\"width:50.3193%;text-align:center\"><strong>Интерфейс выбора</strong></td>\n<td style=\"width:49.5563%;text-align:center\"><strong>Настраиваемый направляющий луч</strong></td>\n</tr>\n<tr>\n<td style=\"width:50.3193%\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_5742065c-da9d-4294-857a-11509fb4386b.jpg\"></td>\n<td style=\"width:49.5563%\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_318a28a8-d5ee-4e54-b58b-226f5c9d78cc.jpg\"></td>\n</tr>\n</tbody>\n</table><p>&nbsp;</p><p>Отлично подходит для модпаков с большим количеством машин и других TileEntities.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

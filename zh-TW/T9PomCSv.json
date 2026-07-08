@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lBG3/GCclXs=",
+  "content": "<img alt=\"積木塔倒塌\" width=100% src=\"https://cdn.modrinth.com/data/T9PomCSv/images/dedd2a59cbec4ea82e715787ac6ab4f62de8fe60.gif\">\n\n# Sable\nSable 是一個函式庫模組，為 Minecraft 添加了**子層級（sub-levels）**。子層級是可移動的區塊、方塊實體和實體區域，且在組裝狀態下保持可互動性。Sable 包含一套物理管線（基於以 Rust 編寫的 **Rapier 物理引擎**），讓子層級能夠**以物理方式移動**並**對世界變化做出反應。**\n\nSable **不會**在生存模式中添加任何內容，也不提供在生存模式中建造子層級的任何方法。\n\n使用 `/sable` 來組裝、修改與查詢子層級。\n\n# ⚠️ 相容性警告\nSable 是一個極具侵入性的模組。它大量使用了 Mixin，並且容易與其他模組產生相容性問題。\n\n# 感謝\n- Dimforge 維護者與貢獻者，感謝他們在 Rapier 物理引擎（已包含於預設物理管線中）上的傑出工作\n- Eriksonn 提供子層級分割區域演算法、浮空方塊與出色的數學魔法\n- Ocelot 提供華麗的子層級渲染器，以及大量的優化與 API 協助\n- Cyvack 提供許多 Create 模組的相容性修復與功能、組裝協助，以及一般開發工作\n- BeeIsYou 提供升降機數學、相容性修復、錯誤修復，以及大量的整體開發\n- KyanBirb 提供素材、相容性修復、錯誤修復與大量的整體開發\n- Cake 提供錯誤修復與一般開發協助\n- Rhyguy1 提供士氣支援",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

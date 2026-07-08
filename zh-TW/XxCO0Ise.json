@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LiMWlxVaphY=",
+  "content": "# TaCZ 附魔強化\n\n這是一個 Minecraft Forge 模組，為經典永恆零（TaCZ）槍械系統新增了多種附魔，提升遊戲體驗。本模組提供可自訂的附魔參數，讓您能依喜好平衡遊戲設定。\n\n## 新增附魔\n\n本模組為 TaCZ 槍械新增了 7 種可設定參數的附魔：\n\n- **百步穿楊**：每等級增加爆頭傷害 50%\n- **強力貫穿**：每等級增加裝甲穿透率 5%\n- **火力強化**：每等級增加子彈傷害 10%\n- **精準射擊**：每等級增加命中精度 5%\n- **穿透打擊**：每等級增加對實體的穿透次數 +1\n- **擴充彈匣**：每等級增加彈匣容量 50%\n- **節約彈藥**：射擊時有機率不消耗子彈（每等級 10%）\n\n所有附魔效果可透過遊戲內模組設定選單，或修改 `config` 資料夾中的 `tacz_enchantments_overhaul.json5` 檔案進行設定。此外，附魔等級範圍也可自訂，讓您更精細地調整附魔的出現時機與適用範圍。\n\n## 附魔黑名單功能\n\n本模組允許您設定特定槍械禁用特定附魔。也就是說，您可以讓某些附魔無法應用於指定槍械。預設情況下，所有槍械均可使用所有附魔。此功能同樣可在設定檔案中調整。\n\n## 相容性\n\n本模組設計相容於：\n- [經典永恆零](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero) 1.1.6 以上版本\n- [TACZ 調整](https://www.curseforge.com/minecraft/mc-mods/tacz-tweaks)\n- [TACZ 耐久度](https://www.curseforge.com/minecraft/mc-mods/tacz-durability)\n- [射擊次數](https://www.curseforge.com/minecraft/mc-mods/shots-fired)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

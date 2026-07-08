@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BZ30T6B/Q2k=",
+  "content": "# ElytraHud3\n\n这是一个旨在让我的一个最爱模组保持活力的尝试，已更新至 Minecraft 26.x 系列，并紧跟最新版本推出。\n\n一款以航空风格设计的 Minecraft 鞘翅飞行 HUD。在滑翔时，一个紧凑的角落仪表盘会显示你的空速、高度、垂直速度、人工地平仪、指南针以及鞘翅的耐久度。\n\n- **英制或公制**单位（可切换；默认为英制）。\n- **兼容「做个翻滚」模组**——人工地平仪在倾斜时仍能保持正确。\n- **支持 Fabric 和 NeoForge**，适用于 Minecraft 26.1.x 和 26.2 版本。\n- 纯 Java 编写，轻量级（约 33 KB），无 Kotlin/FLK/YACL 运行时依赖。\n- 每个元素均可单独开关（通过 Fabric 上的 ModMenu 或 NeoForge 模组列表进行配置）。\n\n## 鸣谢\n原始设计由微软为《微软飞行模拟》制作；衍生自 inorganic（MIT 协议）的 elytrahud-rework；飞行 HUD 设计灵感源于 neo-elytra-hud（CC0 协议）；翻滚兼容性通过「做个翻滚」模组的公共 API 实现。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

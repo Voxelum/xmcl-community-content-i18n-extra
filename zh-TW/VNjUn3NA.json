@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0UYTMVEefxY=",
+  "content": "## 目前支援的版本為：**1.16.5**、**1.18.2**、**1.19.x**、**1.20.1**、**1.21.1**、**26.1.x**\n\n**[Fabric 版本]**\n\n這是一個用戶端附加模組，可在 HUD 上顯示當前季節。目前支援的季節模組有：\n\n- **Serene Seasons**（Forge / Neoforge / Fabric）\n- **Fabric Seasons**（Fabric）\n- **TerraFirmaCraft**（Forge 1.18.2 / 1.20.1 / 1.21.1）\n- **Ecliptic Seasons**（Forge / Neoforge）\n- **Homeostatic Seasons**（Fabric / Neoforge）\n- **ProtoManly's Weather**（Neoforge）\n\n另外也選擇性支援下列小地圖模組：\n\n- **Xaero's Minimap**\n- **FTB Chunks**\n- **JourneyMap**\n  - （1.21+）新增支援 JourneyMap 新的自訂資訊欄位（需 JourneyMap 1.21-6.0.0-beta.25 以上版本）。\n    - 預設情況下，「季節」會作為資訊欄位選項加入 JourneyMap 的小地圖設定中。\n    - 若你已使用了所有資訊欄位：\n      1. 進入 JourneyMap 附加模組設定（JourneyMap 設定選單頂部的「附加模組設定」按鈕）。\n      2. 啟用「是否新增額外資訊欄位？」選項。\n      3. 選擇要將其加入上方或下方的欄位組。\n- **MapAtlases**\n- **Voxelmap**（僅限 1.16.5）\n\n若其中一個模組存在，季節資訊會與其他資訊一同顯示在地圖下方。\n\n### 其他連結：\n* [停用 SeasonHUD 飾品/小飾品/配件] 資料包\n\n[Fabric 版本]: https://modrinth.com/mod/seasonhud-fabric\n[停用 SeasonHUD 飾品/小飾品/配件]: https://modrinth.com/datapack/disable-seasonhud-slot",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

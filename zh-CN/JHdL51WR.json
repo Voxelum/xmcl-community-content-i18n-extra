@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33/vcCM1vQA=",
+  "content": "# Kube Utils\n\nKube Utils 是 KubeJS 的一个简单附加模组，它为现有功能增加了新特性，并衍生出新的系统，以实现更高效、更简洁、更精炼的代码编写。\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/1c9b9598-52f3-402c-84a8-84f7779e1360.webp)](https://www.bisecthosting.com/mikey?rel=modrinth)\n\n## 运作方式\n\nKube Utils（以下简称 Ku）的设计理念是提供清晰、简洁且一致的 API 风格。该模组添加的所有功能都包含在全局的 `Ku` 对象中，这意味着如果你需要访问等级相关的 API，可以通过 `Ku.Level` 来获取；如果要对流体进行操作，则使用 `Ku.Fluids` 等。\n\n### 功能特性\n\n目前，我们仅针对 KubeJS 中支持较少的领域提供了一些辅助功能，但计划在系统开发周期内大幅扩展这些功能。如果你有任何建议，请提交功能请求！\n\n- 等级增强：例如在方块位置获取结构、生成结构、查找实体并清除空间、通过边界框获取随机位置等。\n- 流体支持：可根据命名空间获取流体列表，并检查流体是否为空。\n- 列表增强：支持基于权重表获取随机条目。\n- 通用工具：例如 `nullOrEmpty` 方法，可非常简单地判断对象是否为空或空值，适用于物品、方块、物品堆、字符串、流体及物品实体等（未来将根据需求增加更多支持）。\n- 完全文档化的代码\n- 经过生产环境验证\n- 清晰简洁的 API\n\n### 我们的目标\n\n- 除非受 Minecraft、Forge 或 Fabric 的强制要求，否则绝不引入破坏性更改。如果必须引入破坏性更改，我们将以可选方式实现，确保不影响现有代码。\n- 绝不使新增功能过度复杂。\n- 始终用简明英语编写文档。\n\n## 文档\n\n[https://nanite.github.io/KubeUtils/](https://nanite.github.io/KubeUtils/)\n\n## 免责声明\n\n请注意，在测试阶段，代码可能发生破坏性更改。一旦进入稳定版本，此声明将被移除，此后代码将不再包含破坏性更改！\n\n## 问题反馈\n\n请将任何问题连同示例代码提交至[我们的问题追踪器](https://github.com/ErrorMikey/KubeUtils/issues)，以便我们进行验证。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

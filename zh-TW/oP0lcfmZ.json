@@ -1,0 +1,6 @@
+{
+  "bodyHash": "l+AB/YBovlw=",
+  "content": "# Bageks Coat Add-On\n\n此模組為SWEM馬匹擴展了毛色，而不取代任何原有的毛色。此模組專為1.18.2版本製作。若您需要1.20版本，SWEM官方已宣布他們將為該版本製作自訂毛色功能。\n\n使用此模組前，請先安裝本模組，並使用資源包來取代戰馬毛色的預留位置（或使用白色基底）。\n若要取代其中一個預留毛色，請將您的馬匹毛色PNG檔案，命名為與資產資料夾中（assets->bagekscoataddon->pony）的預留毛色名稱相同，並放入您自己的資源包中。若您不知道如何建立資源包，請觀看YouTube教學影片。\n\n## 關於這些小馬\n----------------------------------------\n- 小馬具有性別，且運作方式與SWEM馬匹完全相同。\n- 小馬之間可以繁殖，但只會產下SWEM馬駒。它們無法透過繁殖獲得，僅能透過指令生成。\n- 小馬與SWEM馬匹無法互相繁殖。\n- 小馬繁殖時，會隨機產生SWEM馬駒的毛色，因為小馬沒有顏色標籤。（所以請自行承擔風險，盡情賭博吧！😉）\n- 有時小馬的毛色會出現輕微的渲染問題，變成全黑色。請放心，這只是伺服器的渲染問題，重新登入幾次或重新啟動Minecraft通常能解決。若仍未解決，它最終也會隨時間自行修復。請耐心等待，目前沒有其他解決方案。\n- Tre's Library模組/資源包以及Lissa's Dressage動畫包有時也會導致戰馬渲染問題。若想減少問題，請移除這些模組和資源包。\n\n## 召喚指令：\n\n/summon bagekscoataddon:pony ~ ~ ~ {\"Texture\":\"bagekscoataddon:pony/placeholder_(數字).png\"}\n毛色名稱 = assets->bagekscoataddon->horse 中的PNG檔案名稱\n\n將您的PNG重新命名為：\"placeholder_(1-50)\"，並確保其為.png檔案。\n\n預先製作的資源包可從Discord下載。\n\n---\n\n鳴謝：\n- Coqire：開發者\n- SWEM：SWEM馬匹模型\n- Gotenks：90%代碼擁有者\n- Asheerah：預留毛色\n\nSWEM的Discord：https://discord.gg/QEeD68c\nBagek的Discord：https://discord.gg/8rmmjEfqg7\n\n---\n\n**創作者**\nCoqire：編碼\nGotenks：代碼擁有者\nAsheerah：預留毛色",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

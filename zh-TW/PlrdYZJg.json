@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PPczf21mLY0=",
+  "content": "# 隱藏盔甲\n![裝備了盔甲但呈現透明的玩家](https://cdn.modrinth.com/data/cached_images/d9d91dc94c41bcf1af4bcfde770cb0243bfb1c0d.png)\n\n## 功能說明\n- 隱藏可見的盔甲（僅視覺效果！）\n- 支援多種 Minecraft 版本\n- 與 [The Copper Age](https://minecraft.wiki/w/The_Copper_Age) 相容\n\n## 下載前須知\n此資源包會將盔甲物品模型覆蓋為平面 2D 版本。\n此舉是為確保與其他資源包的相容性，屬於設計意圖，並非「錯誤」。\n\n### 疑難排解\n\n<details>\n<summary>盔甲紋理在其他資源包下顯示異常</summary>\n\n請確保此資源包在資源包順序中位於其他資源包之上。\n\n</details>\n\n<details>\n<summary>獄髓頭盔紋理顯示異常</summary>\n\n這是已知問題，我正在嘗試修復。\n\n</details>\n\n<details>\n<summary>其他問題</summary>\n\n若遇到其他問題，請聯繫：\n📧 main@sungsoos.kr\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

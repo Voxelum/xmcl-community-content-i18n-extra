@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1FP6a64kf88=",
+  "content": "<h2 style=\"text-align:center\">&nbsp;</h2><h2 style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/1460/887/baby2-png.png\" alt=\"\" width=\"1366\" height=\"768\"></h2><h2 style=\"text-align:center\">將所有26.1版本中的幼年及兔子模型向下移植至1.19.4！<br>相容1.21.11至1.19.4（更低版本可能相容但未測試）<br>需要OptiFine或ETF/EMF</h2><h3 style=\"text-align:center\">此材質包純屬裝飾性質，不修改原始生物程式碼（碰撞箱可能不精準）&nbsp;</h3><p><span style=\"font-size:18px\"><strong><em>教學：</em></strong></span></p><div class=\"spoiler\">\n<p><strong>由於OptiFine更新與功能不一致，建議改用模組：<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fentity-model-features\" rel=\"nofollow\">EMF</a> 與 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fentitytexturefeatures\" rel=\"nofollow\">ETF</a></strong><br><br><strong><em>若使用OptiFine，請啟用以下設定以獲得完整功能：</em></strong><br>影像設定 → 品質 → 自訂實體模型：開啟<br>隨機實體：開啟<br>發光材質：開啟<br><br>為避免材質問題，請將此資源包置於資源包清單的<span style=\"color:#e03e2d\">最上層</span>。</p>\n</div><p>&nbsp;</p><p><span style=\"font-size:18px\"><em><strong>功能/不一致之處</strong></em></span></p><div class=\"spoiler\">\n<p>功能：<br>- 新增26.1的幼年模型與材質<br>- 修正原始快照模型中的Z-fighting與樞紐點問題</p>\n<p>錯誤/不一致之處：<br>- 不支援海豚與魷魚/螢光魷魚，因舊版本無法生成幼年個體<br>- 無新增兔子動畫<br>- 碰撞箱不一致（兔子碰撞箱遠比模型小）</p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PcD2UosAGB8=",
+  "content": "<h3>Требуется <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/cloth-config\" rel=\"nofollow\">Cloth Config API</a></h3><h2>Текущие функции</h2><ul>\n<li>Добавляет настройку аудиоустройства, как в новом снимке (21w37a)</li>\n<ul>\n<li>Обрабатывает отключение аудиоустройств</li>\n<li>Запоминает вашу предпочтительную настройку аудиоустройства</li>\n</ul>\n</li>\n<li>Убирает верхний лимит для максимального количества звуков</li>\n<ul>\n<li>Можно настроить, следуя <a href=\"https://github.com/ImUrX/LittleTweaks/issues/6#issuecomment-963487391\" rel=\"nofollow\">этому</a> <em>руководству</em></li>\n</ul>\n</li>\n</ul><hr><p>Если у кого-то есть предложения по новым небольшим функциям, заходите в <a href=\"https://github.com/ImUrX/LittleTweaks/issues\" rel=\"nofollow\">трекер проблем</a> и предлагайте их. Мы можем обсудить их там :p</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AXkVSVTfXvM=",
+  "content": "## 关于\n《机械动力：航空学物理龙门架》只做一件简单的事——为机械动力航空学模组添加了物理龙门架。物理龙门架是一种替代型龙门架，在移动时使用模拟装置（Simulated Contraption）而非原版机械动力装置（Create Contraption）。\n\n强烈建议安装[JEI](https://modrinth.com/mod/jei)或其他同类模组以查看合成配方及场景思考。\n\n## 特性\n- 物理龙门架车厢与传动轴\n- 皮带轮：在不同模拟装置之间传递旋转力\n\n## 安装方式\n本模组仅支持[NeoForge](https://neoforged.net/)平台，其依赖项如下：\n- [机械动力](https://modrinth.com/mod/create)\n- [机械动力航空学](https://modrinth.com/mod/create-aeronautics)\n\n**支持的机械动力版本：**\n| 机械动力 | 机械动力航空学 | CAPG |\n| :--- | :--- | :--- |\n| 6.0.9+ | 1.3.0 | 1.0.2 - 最新版 |\n| 6.0.9+ | 1.2.1 | 1.0.0-1.0.1 |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

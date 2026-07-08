@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oPax+SYXLH8=",
+  "content": "# Mamelao's 種子檢查器\n\n## 加快種子檢查速度的工具\n\n此模組可載入種子列表，讓檢查種子變得更快速。\n\n* 不再需要手動搜尋\n\n## 使用方法\n\n下載模組，然後按照此教學操作：\nwww.youtube.com/watch?v=RpN94a2q8JI\n\n將你安裝的 .jar 檔案放入 mods 資料夾（你同時也需安裝 Fabric API）<br>\n按下 I 鍵（可按需求更改）載入列表中的下一個種子。<br>\n將種子放入 .minecraft/config/seeds.txt 檔案中。<br>\n每次載入種子時，該種子會自動從 seeds.txt 中移除。\n\n## 預計新增功能\n\n* 初始指令 - 設定進入世界時希望執行的指令\n* 方塊計數器 - 顯示周圍特定方塊的數量，方便尋找建築\n* 預先載入世界 - 不再每次等待世界載入，而是在背景先載入\n* 顯示有用資訊的 HUD 介面\n\n## 授權條款\n\n此模組採用 MIT 授權條款。\n特別感謝我的朋友 Samixaro 以及我的阿姨協助德文翻譯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uGrKc0NOK1A=",
+  "content": "<h1>全物品服务器模组</h1><p>此模组可帮助您追踪自己及好友在《我的世界》世界中收集到的物品。它是我的全物品插件的衍生产品，该插件功能更丰富且实现更完善。</p><p>本模组专为客户端使用设计，用于记录您收集游戏内全部物品的集体进度。另有 Fabric/NeoForge 客户端模组可让您创建个人物品清单，便于在世界中追踪收集情况。</p><p>客户端模组链接：<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fall-items-(fabric)\" rel=\"nofollow\">https://modrinth.com/mod/all-items-(fabric)</a></p><p>Spigot 插件链接：<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fplugin%252fall-items\" rel=\"nofollow\">https://modrinth.com/plugin/all-items</a></p><h1>配置</h1><p>您可自定义收集清单并兼容其他模组。默认清单仅包含原版可获取物品，但您可自由添加或移除条目。可为每个世界单独设置，也可修改全局默认清单，使新世界加载时自动应用标准清单。</p><p>配置文件位于 configs/AllItems 目录下。</p><h1>按键绑定</h1><p>默认按 B 键打开菜单，请注意清单会在按下 B 键时同步更新，因此未在背包中的物品不会被添加。</p><h1>其他模组</h1><p>本模组支持使用其他模组的物品！通过修改配置文件，您只需在清单中添加 &lt;modid&gt;:&lt;item_name&gt; 格式的条目，即可在背包中获取该物品。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/db0250661143d6f04296a43f689fe687105589c7.png\" alt=\"其他模组菜单\"></p><h1>物品筛选</h1><p>点击漏斗可将已收集物品移至清单底部，方便您更清晰查看剩余待收集物品。</p><h1>排行榜</h1><p>将鼠标悬停在挂标牌上即可查看服务器前三名玩家。</p><h1>Discord</h1><p>加入我们的 Discord 服务器！\n链接：<a href=\"https://discord.gg/zHzFgWX8KW\" rel=\"nofollow\">https://discord.gg/zHzFgWX8KW</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

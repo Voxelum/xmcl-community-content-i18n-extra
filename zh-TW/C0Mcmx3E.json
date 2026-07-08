@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QshMPkZ27U4=",
+  "content": "大幅提升在使用如 Distant Horizons、Voxy、Nvidium 或 Bobby 等 LOD 模組時，Sodium 的 OcclusionCuller 的效能表現。\n\n當使用這些 LOD 模組時，它們會使 Sodium 原本單執行緒的 while 迴圈 OcclusionCuller 超載，通常會導致 FPS 效能大幅下降並出現畫面卡頓。此模組修復了 Sodium 的 OcclusionCuller 中的這個瓶頸。\n\nNvidium 也提供了相同的修補，但僅限於 Nvidia 顯示卡。\n\n![LOD](https://cdn.modrinth.com/data/C0Mcmx3E/images/fe2175cc547abf4412ccd7fc88d5991c323980d1.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

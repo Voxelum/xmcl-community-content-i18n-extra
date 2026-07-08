@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BH1p43LatF0=",
+  "content": "Hbm的核科技模组，顾名思义，主要围绕科技、原子科学和核武器展开。其特色包括但不限于：\n* 庞大的科技树，涵盖多种机器和不同类型的反应堆\n* 核反应堆，如芝加哥堆、臭名昭著的RBMK和聚变反应堆（以及更多！）\n* 核弹、导弹和火炮\n* 炮塔、陷阱和其他防御系统\n* 用于提取矿石、组装零件和精炼石油的加工机器\n* 可供探索的废弃建筑和地牢\n* 辐射、易燃气体和肺部疾病等危险\n\n### 安装\nHBM的NTM没有任何特殊依赖项，因此安装过程与常规模组相同：\n* 下载.jar文件\n* 在1.7.10的Minecraft配置文件中安装Forge模组加载器\n* 启动游戏一次（或手动创建mods文件夹）\n* 导航到.minecraft文件夹，将jar文件放入mods文件夹中\n\n### 兼容性\n* Not Enough Items（NEI）\n  * 配方处理对于在生存模式中使用模组至关重要。NEI能够显示几乎所有NTM的配方。\n* OpenComputers（OC）\n  * 最近添加了OC兼容性，允许监控和控制部分机器。\n* 许多科技模组\n  * NTM使用了矿石词典（Ore Dictionary）——使不同模组之间的等效材料通用的系统。\n* 如需了解潜在的不兼容性或注意事项，请参阅[兼容性说明](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT?tab=readme-ov-file#compatibility-notice)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

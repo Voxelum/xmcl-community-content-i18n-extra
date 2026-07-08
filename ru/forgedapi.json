@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wQsBHTrdWek=",
+  "content": "# ForgedAPI\nЭтот мод представляет собой частичную переимплементацию FabricAPI в Forge. Он основан на той же идее, что и ForgedFabricAPI, однако ForgedFabricAPI реализует лишь очень ограниченный набор функций, поэтому я перенёс FabricAPI, чтобы снизить нагрузку при портировании мода.\n\n**Этот мод не позволяет моду Fabric работать на Forge!**\n\n## Уже реализованные компоненты:\n- Основа Fabric API\n- Жизненный цикл событий Fabric\n- Fabric Renderer API и Indigo (только для версии 1.16.5)\n- Fabric Rendering (для этого требуется Reforgium [в версии 1.16.5 он не нужен, так как часть функций Reforgium уже включена]), поскольку Fabric Rendering зависит от Fabric Renderer API и Fabric Renderer Indigo.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

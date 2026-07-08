@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7sx46/n1Z9A=",
+  "content": "1.19.4 / 1.20.1 / 1.21.1 / 26.1：**無需依賴**\n\n1.19.2 **依賴**：L2Library\n\n\n\n此模組在交易選單中新增一個按鈕，讓玩家能一鍵刷新未交易村民的交易選項。這等同於破壞並重新放置工作站的動作，但能為玩家節省一些時間。\n\n刷新功能也可以綁定按鍵，實現更快速的刷新。\n\n（1.20.1以上版本）如果你安裝了JEI/EMI/REI，可以將滑鼠懸停在JEI/EMI/REI中的物品上，然後按下刷新鍵。它會持續刷新直到懸停的物品出現在交易選單中。幫助你獲得想要的附魔書。\n\n![交易介面](https://cdn.modrinth.com/data/cached_images/fcb3c0ddc4ae3ebbd575ec300ce0e717b2dd641b.png)\n\n## 附魔台/交易控制（僅限1.20.1）\n在2.4.2版本中，你還可以控制是否允許附魔台和交易中出現特定附魔（請注意，只有在原本允許的情況下才能進行限制。如果一開始就不允許，則無法對其進行任何操作）。它支援以模組ID或附魔ID進行白名單/黑名單設定，讓管理更加輕鬆。\n![附魔](https://cdn.modrinth.com/data/cached_images/0d1e176f63ded0b3db6c06156bc519d1ad77689d.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

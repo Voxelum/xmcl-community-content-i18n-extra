@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OfVfp9WsaCk=",
+  "content": "# 偏好游戏规则\n\n一款轻量级模组，用于自定义游戏规则的默认值，即在创建新世界时预先选定的值。\n\n偏好设置保存在 `.minecraft/config/preferred-gamerules.properties` 文件中。  \n每条游戏规则名称均以 `gamerule.` 为前缀。\n\n适用于 Minecraft 1.21.11 的示例：\n```\ngamerule.minecraft:fire_damage=false\ngamerule.minecraft:keep_inventory=true\n```\n\n适用于旧版本 Minecraft 的示例：\n```\ngamerule.fire_damage=false\ngamerule.keep_inventory=true\n```\n\n如果安装了 **ModMenu**，还可以在游戏内直接编辑偏好设置。在这种情况下，只有与原版默认值不同的设置才会写入配置文件。\n\n## 相关模组\n### [<img src=\"https://cdn.modrinth.com/data/TR0G6vEd/b79a0a6e2d5003b96ac0d6b04c6802984204963f.png\" width=48> **游戏规则菜单**](https://modrinth.com/mod/packrule-menus)\n允许在单人游戏世界中访问游戏规则菜单\n\n### [<img src=\"https://cdn.modrinth.com/data/f8QTxwTe/c887d6f945f05f00e130e422c160ce84172da14e.jpeg\" width=48> **Cloth 游戏规则**](https://modrinth.com/mod/cloth-gamerules)\n用于游戏规则界面的 Cloth-Config 替代品",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

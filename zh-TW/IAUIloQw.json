@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hyc7Y8nJiRU=",
+  "content": "# 什麼是 Mapper Base？\n\nMapper Base 是一個函式庫模組，為我的其他模組提供基礎元素與功能。它的名稱單純來自我的暱稱，沒有其他特別含義。\n\n對玩家而言，唯一值得注意的新增內容是鋼材。其餘部分僅是 EmbellishCraft 和 Road Stuff 模組所使用的底層程式碼。\n\n目前 Mapper Base 支援 Minecraft 1.21.1 版本。由於目前沒有活躍開發計畫，暫時不考慮推出 1.19.3+ 的版本。\n\n特別感謝 Karrade_ 將本模組更新至 1.18.2 和 1.19.2 版本，以及 McJty 負責的 1.20 版本移植工作。\n\n本模組僅支援 1.20 及更早版本的 Forge，自 1.21 起改為 NeoForge 專用。目前不支援且無計畫支援 Fabric 版本，Forge 現已被列為過時技術。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

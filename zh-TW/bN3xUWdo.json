@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BVfwqPuaNS4=",
+  "content": "![橫幅](https://i.imgur.com/UQ8ZJYW.png)\n\nLodestone 是 Lodestar 團隊旗下所有模組共用的函式庫，包含主要用於渲染的重要後端程式碼。\n\n#### **功能特色**：\n\n大量著色器  \n多種輔助類別與工具  \n簡易的畫面震動效果  \n我們模組中常用的屬性  \n可套用至實體的自訂火焰效果系統  \n具有高度可配置性的粒子系統  \n簡易的多方塊結構與方塊實體物品欄處理系統  \n類似粒子系統的畫面 GUI 粒子效果系統  \n世界事件系統（類似實體但以維度為單位儲存、渲染與更新）  \n紋理載入器實現（允許在運行時複製原版資源到新路徑，並可對複製的紋理進行多種修改）\n\n...還有更多我們懶得列出來的功能！\n\n![](https://i.imgur.com/GeluHCM.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

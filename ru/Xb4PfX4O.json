@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ygJ9yYJ6XBg=",
+  "content": "# Eyelib\n\nбиблиотека рендерера для _Minecraft_.\n\n![Версия из Maven Central](https://img.shields.io/maven-central/v/io.github.tt432/eyelib)\n[![Спросить у DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/TT432/eyelib)\n\n## Начало работы\n\nБиблиотека опубликована в Maven Central.\n\n```groovy\ndependencies {\n    implementation \"io.github.tt432:eyelib:${eyelib_version}\"\n}\n```\n\n## Зависимости\n\n- [Antlr-Molang](https://github.com/TT432/antlr-molang) для парсинга Molang.\n- [jdk-classfile-backport](https://github.com/dmlloyd/jdk-classfile-backport) для генерации байткода для Molang.\n- [Lombok](https://projectlombok.org/) для генерации getter и setter и многого другого.\n- [Chin](https://github.com/TT432/chin) для утилит.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

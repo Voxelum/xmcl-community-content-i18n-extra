@@ -1,0 +1,6 @@
+{
+  "bodyHash": "iJXpvYKW1SY=",
+  "content": "<p>Этот мод устраняет проблемы совместимости между EpicFight-Resurrection и Epic Fight 20.12.8+.</p><p><strong>Исправленные проблемы:</strong></p><ul>\n<li>Ямато: сбой NullPointerException при взмахе (Epic Fight 20.14.x)</li>\n<li>Фантомная катана: атаки не анимируются (Epic Fight 20.12.8+)</li>\n<li>ГРАНД-ТАЧИ (Карминовый клык): атаки не анимируются при двуручном использовании (Epic Fight 20.12.8+)</li>\n<li>Прыжок Волчьего Бога: анимация больше не воспроизводится после обновления EpicFight 20.10.x.</li>\n</ul><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

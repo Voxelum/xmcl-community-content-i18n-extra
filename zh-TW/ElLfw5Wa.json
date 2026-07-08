@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KmB0OVv2vco=",
+  "content": "一個LaunchWrapper/ModLauncher核心模組，用於防止玩家透過劣質啟動器啟動遊戲。\n\n「劣質啟動器」指的是可能導致效能甚至相容性問題的啟動器，這些問題極難透過除錯等方式診斷，例如竄改遊戲檔案並悄悄添加JVM參數以所謂「優化」為由。\n\n此類劣質啟動器也可能是潛在的電腦病毒危害，例如呼叫系統層級的高風險函式庫（如kernel32）進行可疑活動。\n\n本模組計劃透過多種方法檢測各作業系統專屬的劣質啟動器，並在玩家嘗試使用它們啟動遊戲時拋出例外。\n\n在一定程度上，它可以幫助模組包作者解決可能由啟動器引起的潛在問題，減少困擾。\n\n僅支援Forge，無Fabric移植計劃。\n\n使用復古版本適用於 <= ``1.12.2``，現代版本適用於 >= ``1.13``。\n\n採用 [Mozilla Public License 2.0](https://github.com/GBLodb/PreventCrappyLauncher/blob/retro/LICENSE) 授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

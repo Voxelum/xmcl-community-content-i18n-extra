@@ -1,0 +1,6 @@
+{
+  "bodyHash": "r5+Z6A4QD/M=",
+  "content": "# 僵尸战术2 Mod for Minecraft\n\n## 信息\n*   本模组是 Zombie Tactics 的分支，原作者为 n643064\n\n## 支持的 Minecraft 版本\n\n### 正在维护\n*   1.21.11\n\n### 暂停支持\n*   1.21.4 ~ 1.21.10\n*   1.21.1\n\n## 前置要求\n*   Architectury API\n\n### Fabric 还需要\n\n*   MidnightLib\n*   ModMenu\n*   Fabric API\n\n## 简介\n\n本模组将僵尸进化到超越极限的程度。\n\n*   包含原模组几乎所有特性\n*   修改通用属性\n    *   攻击范围\n    *   攻击速度\n    *   追踪范围\n    *   阳光下不会燃烧\n    *   更快的奔跑速度\n    *   追踪隐形敌人\n*   额外特性\n    *   若无法到达目标，则会破坏方块\n    *   可选择性地浮在水面上\n    *   相互碰撞时可攀爬墙壁\n    *   尝试拾取更好的物品\n    *   跳过方块\n    *   在阳光下生成\n    *   破坏箱子以获取战利品\n    *   动态目标搜索机制\n    *   使用命令 `/sumz` 召唤 N 只僵尸\n    *   以及更多……\n\n所有内容均可配置！\n\n## 问题反馈\n\n欢迎在 GitHub 上提交任何错误或建议。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

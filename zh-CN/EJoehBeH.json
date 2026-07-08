@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/DZv3blyjuQ=",
+  "content": "# BlindMe（失明模组）\n\n一个客户端模组，让你时刻处于失明状态效果。\n可针对每个世界及服务器进行配置。\n\n![截图：已建成的世界但激活了 BlindMe 模组](https://raw.githubusercontent.com/hibiii/BlindMe/main/.github/screenshot.png)\n\n采用 MIT 许可证开源，由 hibi 制作。\n\n## 使用方法\n\n默认情况下，新建的世界和服务器会默认应用失明效果。\n如需更改，请使用设置界面（可通过 Mod Menu 访问），或使用 `/blindme` 命令。\n也可以为某个世界禁用失明效果。\n\n## 前置要求\n\n- Quilt 加载器\n- Quilt 标准库\n- Mod Menu（可选）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

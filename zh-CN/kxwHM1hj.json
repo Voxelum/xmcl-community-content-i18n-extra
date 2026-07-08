@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BQuVb6fwwGI=",
+  "content": "**什么是MCPT？**\n\nMCPT是一款专为拍摄高质量、照片级真实感截图而设计的《我的世界》光影包。它是一款基于硬件光线追踪的暴力光谱体积路径追踪器，通过Vulkanite实现。这些光影不适合游戏过程使用，因为它们需要您保持静止并等待图像渲染完成。\n\n**功能特性**\n- 光谱渲染\n- 体积路径追踪\n- 大气模拟\n- 水面视差映射\n- 折射/反射焦散效果\n- 路径追踪抗锯齿\n- 路径追踪景深\n- 完整镜头系统模拟\n- 泛光效果\n- 支持以上所有功能的可配置设置\n\n### _**警告**_\n\nMCPT需要Vulkanite支持，而Vulkanite目前处于极不稳定且存在大量错误的状态，因此无法保证这些光影能在您的系统上正常运行（尤其是AMD显卡）。为最大程度确保光影运行，**请严格遵循以下要求：**\n\n**系统要求**\n\n- 支持硬件光线追踪的GPU\n- 《我的世界》1.20.1版本\n- [Sodium 0.5.2](https://modrinth.com/mod/sodium/version/mc1.20.1-0.5.2)\n- [Iris 1.6.8](https://modrinth.com/mod/iris/version/1.6.8+1.20.1)\n- [Vulkanite 0.0.3 预发布版](https://modrinth.com/mod/vulkanite-mod/version/0.0.3-pre-alpha)\n- 支持《我的世界》1.20.1及以上版本的LabPBR材质包（推荐使用AVPBR Retextured R5）\n\n### **重要提示：更换材质包后必须重启游戏，否则会出现纹理显示异常（Vulkanite的已知问题）。**\n\n### **重要提示：如果游戏启动时崩溃，请尝试在启动参数中添加：`-Dorg.lwjgl.system.stackSize=8192`**\n\n**使用方法**\n\n按F1键开始渲染，按F2键保存截图。\n\n**问题反馈**\n\n由于Vulkanite极不稳定，您可能会在光影中发现大量错误。请注意，99%的问题可能源于Vulkanite而非光影本身。如需报告非Vulkanite相关问题或提出功能建议，欢迎通过Discord联系我：johnpayne。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

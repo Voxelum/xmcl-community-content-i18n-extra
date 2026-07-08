@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5e5cWTwrC/s=",
+  "content": "# Noisiumed\n\n**由 [Steveplays28](https://github.com/Steveplays28) 維護的 [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium) 分支版本**\n\n原始專案已封存且不再維護。此分支版本旨在保持其正常運作，並在必要時應用小型修復與更新。同時提供目前其他分支版本尚未支援的版本。\n\n***\n\n## 這個模組有什麼功能？\n\nNoisiumed 透過優化 Minecraft 在生成新區塊時使用的內部流程，加速地形生成。無論您是在探索新世界、使用 Distant Horizons 渲染 LOD，或是運行伺服器，此模組都能減少地形生成所花費的時間。\n\n### 主要優化項目\n\n*   **更快的方塊放置** – 直接寫入區塊調色盤儲存空間，跳過不必要的開銷\n*   **改進的生物群落生成** – 優化生物群落分配期間的記憶體存取模式\n*   **快取計算結果** – 儲存頻繁使用的生成數值，避免重複計算\n*   **簡化區塊鎖定** – 減少雜訊生成期間的同步開銷\n\n## 世界生成一致性\n\n此模組生成的世界與原版 Minecraft **完全相同**。不會改變任何方塊、生物群落或結構——僅提升其生成速度。\n\n## 相容性\n\n✅ 可與大多數效能模組同時運作，包括 **C2ME**、**Lithium**、**Sodium** 和 **Nvidium**   ✅ 與 **Distant Horizons** 相容（加速 LOD 生成）   ✅ 可搭配地形模組如 **ReTerraForged** 使用  \n\n⚠️ **已知不相容模組**：Biospherical Expansion (BioX)\n\n## 安裝方式\n\n將 JAR 檔案放入您的 `mods` 資料夾。無需額外設定。   此為 **伺服器端** 模組——僅需在伺服器（或單人遊戲主機）安裝即可。\n\n***\n\n### 致謝\n\n此模組為 **Steveplays28** 所創建的 **Noisium** 分支版本。所有原始優化概念與實作均歸功於他們。另感謝 Builderb0y、ishland 以及協助塑造原始專案的社群貢獻者。\n\n採用 **LGPL-3.0** 授權",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

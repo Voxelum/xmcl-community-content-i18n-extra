@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Dlp18J6yLAA=",
+  "content": "# 鞘翅飛行偵測器\n\n鞘翅飛行偵測器是一款適用於 Fabric 1.21.4+ 的輕量級用戶端 Minecraft 模組，可偵測玩家是否「實際」正在使用鞘翅飛行——而不僅僅是裝備了鞘翅。\n\n本模組採用真實的鞘翅飛行偵測機制（isFallFlying()），並在滑翔時顯示可自訂的 HUD 指示器。\n\n非常適合 PvP、生存模式、探索、移動技巧練習，以及希望在鞘翅飛行時獲得清晰視覺回饋的玩家。\n\n## 功能特點\n- 真實鞘翅飛行偵測\n- 飛行時顯示 HUD 指示器\n- 即時飛行狀態更新\n- 可選音效通知\n- 可設定 HUD 選項\n- 輕量且最佳化\n- 僅限用戶端\n- 支援多人遊戲\n- 與 Sodium 相容\n- 整合 Mod Menu\n- 支援 Cloth Config\n- HUD 自訂功能\n\n## 您可以設定：\n\n- HUD 位置\n- 大小比例\n- 文字顏色\n- 背景顯示\n- 透明度\n- 音效通知\n- 圖示顯示\n\n## 技術細節\n- Minecraft：1.21.4+\n- 模組載入器：Fabric\n- Java：21+\n- 環境：用戶端\n- 授權條款：MIT\n\n## 相依模組\n\n### 必要：\n\n- Fabric API\n\n### 選用：\n\n- Mod Menu\n- Cloth Config\n\n## 若您在 26.1+ 版本遊玩：\n- 按「Y」鍵開啟設定畫面",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

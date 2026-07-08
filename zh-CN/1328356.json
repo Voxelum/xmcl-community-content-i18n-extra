@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mqgkAjB55HM=",
+  "content": "<div>\n<h3>🌱💧 农田水源 – 行走田间不湿鞋</h3>\n<p>灌溉沟渠不再阻碍前行。<strong>农田水源</strong>会自动将耕地旁的水方块替换为隐形含水平台，既可通行无阻又能保持作物湿润。</p>\n<hr>\n<h4>✨ 功能特色</h4>\n<ul>\n<li><strong>隐形行走面</strong> – 特殊方块仅上方可碰撞且保持含水状态，确保作物持续湿润</li>\n<li><strong>自动铺设与清理</strong> – 邻近水源自动转为平台，当耕地消失或规则关闭时未使用的平台会恢复为水</li>\n<li><strong>实时水源检测</strong> – 水桶倾倒或流动水源靠近耕地时将立即转换</li>\n<li><strong>游戏规则开关</strong> – <code>/gamerule FarmlandWater &lt;true|false&gt;</code> 可随时启用或禁用此效果</li>\n<li><strong>实时同步</strong> – 定期扫描确保平台与农田保持同步，实现无忧移动</li>\n</ul>\n<hr>\n<p>💡 特别适合规整作物布局、高效收割路线及注重移动性的农场设计。</p>\n<p>🤝 需要自动收割与补种？搭配使用<strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/autosow-by-neni-o\" target=\"_blank\" rel=\"nofollow\">AutoSow – 自动收割与补种</a></strong>可优化全流程农耕系统<strong>，配合<a href=\"https://www.curseforge.com/minecraft/mc-mods/stack-manager\" target=\"_blank\" rel=\"nofollow\">堆叠管理器</a>还能对种子/作物/药水设置独立堆叠上限（最高99），让谷仓与行囊井然有序</strong>。<strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/farmer-enchants\" target=\"_blank\" rel=\"nofollow\">农夫附魔</a>则为锄头添加附魔效果，提升务农体验</strong>。</p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

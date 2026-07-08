@@ -1,0 +1,6 @@
+{
+  "bodyHash": "p0QeoMJreD8=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/4ba4YZ1HBeE\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n注意：这是该数据包的极早期原型版本。目前已无“爆炸”效果，侧边记分板默认也不再显示。\n\n过去一年里，我在许多带有飞机的社区服务器上游玩，并一直注意到一个问题：\n\n将它们拆解需要花费**极长时间**，尤其是来自附加模组的飞机。因此，我推出了：\n\n**可扳手拆解的飞机！**\n使用机械动力模组的扳手，现在你可以直接拆解飞机，而无需击打它50次以上！\n\n\n# 工作原理：\n\n非常简单，只需手持扳手并潜行，你的飞机就会变成物品形态！\n\n**但为何不需要右键点击？**\n\n老实说，右键点击功能的编码过程会极其漫长。虽然理论上可行，但必须使用交互实体——我最初确实计划这么做，直到发现你无法通过交互实体进行交互。这意味着每次你潜行并手持扳手时，将无法与其他任何方块交互，这会破坏扳手在其他方块上的机械动力功能。\n\n我也无法使用胡萝卜钓竿的检测机制，因为扳手不像胡萝卜钓竿那样拥有自定义右键点击计分项。我也无法让扳手“轻微可食用”，因为那是未来 Minecraft 版本才加入的特性。\n\n如果我想出可靠的右键检测方法，请放心，我一定会添加右键功能。但目前而言，暂不支持右键点击。\n\n\n# 性能表现：\n\n性能影响极小，不会造成任何卡顿。\n\n感谢下载我的数据包！希望它能对你有用！如果遇到任何问题，或希望支持某个附加模组，请在 CurseForge 上留言，或在 Discord 上私信我（@fj.7g）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

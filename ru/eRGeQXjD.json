@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Z9xXrq7DsKk=",
+  "content": "# API переназначения модов\n\nПереназначает не-Fabric-моды, созданные для другой среды (по умолчанию обфусцированной), на текущие отображения времени выполнения.  \nПредоставляет точки расширения для расширения процесса переназначения из других модов.\n\nЭтот мод не зависит от конкретной версии Minecraft и должен работать на любой версии, которую может запустить Fabric Loader.\n\n### Моды, зависящие от этого API:\n- [Fabricated Legacy Forge](https://modrinth.com/mod/fabricated-forge)\n- [Apron](https://modrinth.com/mod/Apron)\n- [Fabricated-Rift](https://modrinth.com/mod/fabricated-rift)\n\n## Кредиты\n### Большая часть исходного кода мода-переназначителя\n- мод BetaLoader от paulevsGitch",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

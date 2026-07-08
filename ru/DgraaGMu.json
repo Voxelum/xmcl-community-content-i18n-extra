@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9WQWconGBxA=",
+  "content": "## Описание\nЭтот датапак изменяет тег NBT «Возраст» на 0 для всех сущностей, являющихся предметами. Таким образом, гарантируется, что таймер исчезновения предметов, установленный на 5 минут, постоянно обнуляется.\n\n![предпросмотр](https://cdn.modrinth.com/data/cached_images/dbd8bee52219f71fc2b7b5d0b7083c928d25bb39.png)\n\n## Зависимости\n- Для Fabric Loader требуется [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

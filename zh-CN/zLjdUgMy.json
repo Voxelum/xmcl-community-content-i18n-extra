@@ -1,0 +1,6 @@
+{
+  "bodyHash": "87BaKPZSV4o=",
+  "content": "**简易工站**模组为您提供了一种可自动化单矿石处理的简单结构。  \n矿机根据所选的过滤器（矿石方块）工作，过滤器不会被消耗。  \n本模组旨在辅助工业整合包的发展。\n\n \n\n### 需求\n\n1.  稳定运行需要燃料（煤炭或RF能源）、冷却剂（青金石）和催化剂（红石）。  \n    不喜欢这个设定？可在配置中禁用。\n2.  您需要获得带有精准采集附魔的矿石方块，或通过其他模组合成。\n3.  结构占地为 3x3x1 空间。\n4.  处理下界矿石时，机器需特殊升级——口袋传送门。\n5.  矿机设计在地下工作，因此您需要挖掘至 Y=20 以下方可放置。\n\n![](https://media.forgecdn.net/attachments/description/1388521/description_7185f56e-8cbc-42ef-9540-84a0485075f8.png)\n\n共有3个等级的钻头，每个工站最多可使用2个。  \n铁钻头：效率 50%，能耗 100%  \n钻石钻头：效率 90%，能耗 200%  \n下界合金钻头：效率 150%，能耗 400%\n\n### 特性\n\n*   支持RF能源\n*   可配置设置\n*   兼容JEI\n*   底部自动输出\n*   支持其他模组（如Mekanism）的矿石\n\n![](https://media.forgecdn.net/attachments/description/null/description_f121e400-885c-4639-b2ec-7928ef58eb2c.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xp+Q2dEK7kk=",
+  "content": "# Удаление листьев\n\n![image](https://user-images.githubusercontent.com/5740991/196853114-f3c07a1c-7eaa-42be-955e-6144f0de09aa.png)\n\nОтменяет отрисовку скрытых сторон листьев, аналогично опции «Умные листья» в OptiFine.\n\n## Особенности\n\n- Скрывает стороны листьев, делая их похожими на витражи\n- Разработано для хорошей совместимости с модом [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage)\n- Неявная поддержка большинства модов, добавляющих листья на основе существующих стандартных листьев\n- Явная поддержка Chisel, Biomes O' Plenty, Forestry, Minefactory Reloaded, Aether (версии 1 и 2), Tinkers Construct,\n  Thaumcraft и Ancient Trees\n\n## Зависимости\n\n- [FalsePattern Lib 0.10.13+](https://github.com/FalsePattern/FalsePatternLib)\n- [SpongeMixins 0.1.1+](https://github.com/FalsePattern/GasStation)\n\n## Упоминания\n\n- [FalsePattern](https://github.com/FalsePattern): для FalsePatternLib\n- [Houston](https://github.com/Houstonruss): художественное оформление и запрос на мод\n- [quentin452](https://github.com/quentin452): обширное тестирование",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

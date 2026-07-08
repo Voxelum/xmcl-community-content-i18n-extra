@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Xfa7iSD6wMQ=",
+  "content": "# Улучшенный дисплей пинга+\n\nМод [Fabric](https://fabricmc.net/) для Minecraft, добавляющий улучшения к [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) от [vladmarica](https://modrinth.com/user/vladmarica).\n\nЭто мод для клиентской стороны. Серверу не требуется его установка. Он работает даже при игре на стандартных серверах.\n\n## Возможности\nВ настоящее время в этом дополнительном моде есть только одна функция: отображение нулевого пинга (0 мс) в виде установленного заполнителя, тогда как по умолчанию используется значение «N/A». Это касается игроков, только что присоединившихся, которым пока не был сообщен пинг, а также игроков Bedrock на серверах Geyser.\n\n## Конфигурация\nФайл конфигурации этого мода — `better-ping-display-plus.json`. Он содержит следующие параметры:\n\n| Параметр  | Значение по умолчанию  | Описание  |\n|---|---|---|\n| nullPingPlaceholder  | `N/A` | Заполнитель для пинга 0 мс. |\n| nullPingPlaceholderColor  | `gray` | Цвет заполнителя для нулевого пинга. |\n\nКроме того, этот мод поддерживает конфигурацию в игре при наличии установленных [Mod Menu](https://modrinth.com/mod/modmenu) и [YACL](https://modrinth.com/mod/yacl).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

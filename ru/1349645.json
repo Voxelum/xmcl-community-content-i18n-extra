@@ -1,0 +1,6 @@
+{
+  "bodyHash": "X3LO1pNnTGw=",
+  "content": "<h1>Horizon Fix (Fabric)</h1>\n<p>Horizon Fix удаляет ненужное кольцо, исходящее от Солнца и Луны, которое портит внешний вид неба на фоне ландшафта. Создан так, чтобы <strong>не</strong> конфликтовать с другими модами, например с <a href=\"https://www.curseforge.com/minecraft/mc-mods/smooth-skies\" rel=\"nofollow\">Smooth Skies</a>.</p>\n<h2>Особенности</h2>\n<ul>\n<li>Не затрагивает другие измерения и пользовательские провайдеры тумана; чистая клиентская настройка.</li>\n<li>Никакой настройки не требуется, а рантайм-зависимости ограничиваются только Fabric API.</li>\n</ul>\n<h2>Установка</h2>\n<ul>\n<li>Требуется <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252f\" rel=\"nofollow\">Fabric</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a>.</li>\n<li>Только для клиента; серверам этот JAR никогда не понадобится.</li>\n</ul>\n<h2>Сборка</h2>\n<ul>\n<li>Java 21 с Gradle + Fabric Loom.</li>\n<li>Версии хранятся в файле <code>gradle.properties</code>. Запустите <code>./gradlew build</code>.</li>\n</ul>\n<h2>Лицензия</h2>\n<ul>\n<li>CC0-1.0. Используйте его свободно.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

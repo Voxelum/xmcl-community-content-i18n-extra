@@ -1,0 +1,6 @@
+{
+  "bodyHash": "z/E623FiL/A=",
+  "content": "根据游戏难度调整生成器的破坏时间，提供额外的挑战性。\n\n<u>预设生成器硬度</u>\n\n- 和平模式：与原版相同（5F）\n- 简单模式：与末地石相同（9F）\n- 普通模式：与终界箱相同（22.5F）\n- 困难模式：与远古残骸相同（30F）\n- 极限模式：与黑曜石相同（50F）\n\n与上述部分方块不同，只要不使用空手，你仍可用任何工具破坏生成器。\n\n<u>配置</u>\n\n自 v1.3.0 版本起，生成器硬度可在 `variablespawnerhardness-common.toml` 配置文件中调整。\n\n<u>赞助者</u>\n\n感谢以下 [GitHub 赞助者](https://github.com/sponsors/PaintNinja) 对我的模组开发提供捐助，你们的支持激励我持续开发如「可变生成器硬度」这类项目：\n\n- （目前暂无）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

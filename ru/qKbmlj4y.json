@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oH3RiFQ/IrU=",
+  "content": "## Светящийся глазок\n\nРаботает лучше, если установлен как на сервере, так и на клиенте\n\n![screenshot.png](https://raw.githubusercontent.com/NikitaCartes/Glowing-Eyeblossom/refs/heads/fabric-1.21.4/screenshot.png)\n\nТакже ознакомьтесь с моим модом [Светящийся факел-цветок](https://modrinth.com/mod/glowing-torchflower)!\n\n[Discord](https://discord.gg/UY4nhvUzaK)\n\n### Уровень освещённости\n- Открытый глазок: 4\n- Открытый глазок в горшке: 13\n- Закрытый глазок: 1\n- Закрытый глазок в горшке: 3\n\n### Конфигурация\nВы можете изменить уровень освещённости глазка в файле конфигурации.  \nФайл конфигурации находится по пути `<папка игры>/config/GlowingEyeblossom/main.conf`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

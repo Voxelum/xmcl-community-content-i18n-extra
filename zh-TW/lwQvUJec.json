@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00IXEeEyb/k=",
+  "content": "束袋是節省背包空間的好方法，能將不同種類的物品放進同一個格子裡！但它們還不夠理想，因為它們忘了保留另一樣東西：**圖形空間**。\n\nGUI 可能會變得雜亂，因此盡可能節省空間就很重要。為此，我們採用了[最先進的方形排列技術](https://kingbird.myphotos.cc/packing/squares_in_squares.html)，確保你的所有物品欄格子占用盡可能小的空間。\n\n![新的 UI 範例，顯示 11、17、29 和 51 格排列的網格。網格中的圖片未正確排列，有明顯的間隙](https://cdn.modrinth.com/data/cached_images/f317355f1ef7570f0f20c2662b4f2942b8f2d2af.png)\n\n_現已更新至版本 2.0.0！（對應 26.1.x）_ \n\n除了因 Minecraft 更新而進行的大量程式碼改動外，本次更新透過 [YACL](https://modrinth.com/mod/yacl) 引入了設定功能，可在檔案中編輯，或是在安裝 [Mod Menu](https://modrinth.com/mod/modmenu) 時透過圖形介面編輯（後者為選用）。\n\n設定選項讓你能更精細地控制 Perfectly Packed 何時以及如何使用自訂束袋佈局取代原版佈局。\n\n此版本仍為 Alpha 版，因為以下功能尚未實作：\n- 自上次更新以來，已[發現並記錄](https://kingbird.myphotos.cc/packing/squares_in_squares.html)了數個模組中使用的方形排列的改進方案，但尚未加入。\n- 透過使用自訂堆疊數量，束袋最多可攜帶 99 個物品，這需要編寫更多方形排列。\n\n![新的 UI 束袋，以非規則排列方式裝滿物品。其中一個格子被高亮](https://cdn.modrinth.com/data/cached_images/8dc50bee6cb90f9befe79bfcf06d0de24ce2fbf5_0.webp)\n\n享受不再有惱人 GUI 雜亂的遊戲體驗，並驚嘆於方形排列的科學吧！\n\n目前，此模組適用於 Fabric 1.18.x、1.19.4、1.20.x、1.21.1-3 及 26.1.x。我目前沒有計畫回溯至其他 1.21.x 版本。\n\nP.S.：Tumblr 上的朋友們，我看見你們了。感謝你們分享這個模組！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ms2AI4bHEGU=",
+  "content": "移除 SBW 武器的合成配方。\n\n這個模組特別適用於限制合成的冒險地圖，或是角色扮演伺服器。\n例如，在 RP 伺服器中，玩家必須在寶箱中尋找武器或購買武器，從而實現更好的控制與遊戲平衡。\n\n此外，也提供了 TACZ 與 VPB 的版本。\n\n\n⚠️ 彈藥配方不會被移除！\n\n⚠️ 武器在創造模式中仍然可用。\n\n⚠️ 此模組需要安裝模組 \"[SBW] Superb Warfare\"。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

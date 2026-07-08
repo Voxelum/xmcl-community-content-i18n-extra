@@ -1,0 +1,6 @@
+{
+  "bodyHash": "63tQj/Nh+LE=",
+  "content": "**這是 Litematica 列印機（EasyPlace 擴充功能），調整了 EasyPlace 的行為！**\n\n**列印機需要 Litematica、Malilib、Fabric API 才能運作。**\n\n列印機會盡量跟隨每個版本的最新更新。\n\n基本上，列印機只會在您看到放置位置時運作，並使用 EasyPlace 功能。\n\n您可以使用 `easyPlaceToggle` 和 `easyPlaceUseKey` 來使用 Litematica 的 EasyPlace 功能。\n\n如果想要免手動啟動，可以將 `easyPlaceUseKey` 設為無，並透過進階設定啟用「允許空白按鍵綁定」。\n\n此列印機提供多種複雜的巨集動作，例如基岩破壞、物品欄匹配、清除液體/積雪等，但不保證一定能正常運作！\n\n主要功能是「精準紅石裝置放置」。這意味著列印機會避免放置會觸發紅石裝置的方塊。\n\n## 範例 GIF\n\n![ezgif-1-345002d388](https://user-images.githubusercontent.com/35677394/226923559-23c4c301-ba10-418e-aadd-897796d90bcd.gif)\n\n大部分功能都記錄在[說明文件](https://github.com/aria1th/litematica-printer#readme)中。\n\n`printerOff` - 停用擴充功能，改為使用正常的 EasyPlace 功能。\n\n`easyPlaceMode++` - 停用區域列印選項，改為使用「虛擬旋轉」。\n\n`printerModeFakeRotation` - 使用虛擬旋轉來正確放置方塊。\n\n`printerAccurateBlockPlacement` - 如果啟用了 Carpet Extra 的 AccurateBlockPlacement，可以嘗試此功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

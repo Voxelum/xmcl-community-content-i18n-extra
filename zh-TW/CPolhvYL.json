@@ -1,0 +1,6 @@
+{
+  "bodyHash": "i5ggYZ3CV3c=",
+  "content": "**🟩 全新试炼\n将1.21试炼密室内容移植至Minecraft 1.20.1**\n\nNew Trials 将最新Minecraft版本中的内容移植回1.20.1，让玩家无需更新游戏版本即可体验新方块、物品、生物与结构。\n\n本模组不仅致力于原汁原味地移植原版内容，更通过额外特性与模组扩展可能性加以丰富。\n\n*****\n\n⚒️ CurseForge版本：[点击此处](https://www.curseforge.com/minecraft/mc-mods/ntrials)\n\n*****\n\n**✨ 特性\n🧱 全新方块、物品与实体**\n\n- 铜门、铜活板门与铜灯\n- 旋风人与沼泽骷髅\n- 其他来自最新Minecraft版本的方块与物品\n- 制图师地图功能\n- 试炼密室：\n   - 旋风人首领\n   - 更大且扩展的结构\n\n所有机制与行为均尽可能贴近原版Minecraft。\n\n*****\n\n**🧩 模组开发与自定义集成**\n\n您可创建使用以下内容的模组：\n\n*   刷怪笼系统\n*   宝库\n*   自定义战利品表\n\n**🏷️ 标签功能**\n\n*   宝库：`{BlockEntityTag:{vault_tag:\"KEY_TAG\",loot_table:\"LOOTABLE\"}}`\n*   钥匙标签：`{vault_tag:\"KEY_TAG\"}`\n*   刷怪笼标签：`{BlockEntityTag:{NormalLootTable:\"LOOTABLE\",OminousLootTable:\"LOOTABLE\"}}`\n*   首领刷怪笼标签：`{BlockEntityTag:{key_tag:\"KEY_TAG\",BossLootTable:\"LOOTABLE\"}}`\n\n***\n\n**🛠 需求**\n- Minecraft 1.20.1\n- Forge 47.4.0\n\n*****\n\n**📌 备注**\n- 本模组并非单纯的原版移植\n- 提供了额外内容、扩展与自定义选项\n- 适用于玩家、整合包与模组开发者",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AOjTf3/29Fs=",
+  "content": "# 遠景模組 — VulkanMod 擴充套件\n\n![替代文字](https://github.com/Braffolk/distant-horizons-vulkanmod/raw/main/docs/dh-vulkanmod.jpg)\n\n此擴充套件模組讓[遠景模組](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) ([Modrinth](https://modrinth.com/mod/distanthorizons))能與[VulkanMod](https://github.com/xCollateral/VulkanMod)相容。透過VulkanMod的Vulkan後端渲染LOD地形，取代原本的OpenGL渲染。\n\n**目前可運作的功能：**\n- 具備正確色彩的LOD地形渲染\n- 光照貼圖（日夜照明、方塊光源）\n- 深度合成（LOD在普通地形後方渲染）\n- 水與玻璃的透明效果\n- 環境光遮蔽（SSAO）\n- 距離與高度霧效（所有衰減類型與混合模式）\n- LOD上的噪點/抖動效果\n- 淡入淡出/裁剪距離過渡\n- 地球曲率模擬\n- 雲層渲染（與LOD地形具備正確深度關係）\n\n**尚未支援的功能：**\n- 光影包（VulkanMod目前不支援）\n- 線框除錯模式\n\n**系統需求：**\n- Fabric模組載入器\n- 遊戲版本需為MC 1.20.6或1.21.11\n- 必須安裝VulkanMod（1.21.11需0.6+版本；1.20.6需0.4.2版本）\n- 必須安裝遠景模組2.4.0+或3.0.0+版本\n\n> 注意：此為擴充套件模組，需同時安裝遠景模組與VulkanMod方可運作。\n> 此非官方遠景模組，原始模組請參閱上方連結。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

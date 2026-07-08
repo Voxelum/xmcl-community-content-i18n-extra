@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pCfdwz1OX1A=",
+  "content": "# C2ME 原版需搭配 Connector 使用，此分支包含部分上游提交但已损坏，我无能力修复\n\n# /!\\ 此 Fabric 模组仅能在搭配 Connector 时运行，无法单独在 Fabric 上运作 /!\\\n\n这是一个经过修补的 C2ME 分支版本，专为且仅与 Sinytra Connector 兼容而设计。我也会抽空合并上游提交。\n\n仅部分混入代码（mixins）经过修改以确保其运作，其余代码均来自原开发者 ishland。若遇到任何问题，请至我的[问题追踪器](https://github.com/coco875/C2ME-fabric/issues)回报。\n\n与原版 1.20.1 的差异列表可[在此查看](https://github.com/RelativityMC/C2ME-fabric/compare/ver/1.20.1...coco875:C2ME-fabric:ver/1.20.1)\n\n原模组描述：\n\n# 并发区块管理引擎（Fabric）\n\n一款旨在提升 Minecraft 区块性能的 Fabric 模组。\n\n# 那么 C2ME 是什么？\n\nC^2M-引擎，简称 C2ME，是一款 Fabric 模组，旨在通过利用多核心 CPU 并行处理，提升区块生成、I/O 及加载的性能。为达到最佳效果，建议搭配 Lithium 和 Starlight 使用。\n\n# C2ME 代表什么？\n\n并发区块管理引擎（Concurrent chunk management engine），其目标是优化游戏的多线程处理能力，提升世界生成和区块 I/O 性能的可扩展性。\n\n# 那么 C2ME 不是什么？\n\nC2ME 目前处于 Alpha 阶段，相当实验性。\n尽管在多数情况下可用且经过构建时测试，但这并不代表它完全稳定适用于生产服务器。\n因此请备份您的世界，并养成良好的模组使用习惯。\n\n# 支持\n\n我们的问题追踪器：[链接](https://github.com/coco875/C2ME-fabric/issues)\n其他联系我的方式可通过 Sinytra Discord。\n\n# 开发版本\n\n暂无。\n\n# 常见问题\n\n    问：这对客户端也有好处，还是仅限服务器？\n    答：https://github.com/RelativityMC/C2ME-fabric/issues/116\n\n# 更多信息\n\n查看 README.md 这里：https://github.com/coco875/C2ME-fabric",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

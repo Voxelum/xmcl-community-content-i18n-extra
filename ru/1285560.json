@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EFCCNLtRXJo=",
+  "content": "<h1>Больше не требуется начиная с Sinytra Connector v2.0.0-beta.10!</h1><hr><p>Этот мод реализует обходной путь для&nbsp;<a href=\"https://github.com/Sinytra/Connector/issues/1343\" target=\"_blank\" rel=\"nofollow\">https://github.com/Sinytra/Connector/issues/1343</a>, который предотвращает плавание (и вызывает несколько других проблем) при одновременной установке Sinytra Connector и определённых модов Fabric. Он будет удалён после того, как проблема будет надлежащим образом исправлена в исходном репозитории.</p><p>Более конкретно, этот мод исправляет встроенные атрибуты NeoForge после того, как Sinytra Connector случайно делает их равными null — включая SWIM_SPEED.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

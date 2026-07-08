@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/8Ppd9I0vsE=",
+  "content": "建造多物品分類器（或稱 MIS）向來複雜、容易故障，整體而言建造過程並不有趣。我在網路上找不到符合需求的設計——有些太昂貴，有些體積過大或速度太慢……\n\n因此，我決定打造這個設計。與其讓你的 MIS 佈滿紅石和礦車電路顯得雜亂，你只需採用這個極簡的結構。\n\n![簡單建造示意](https://cdn.modrinth.com/data/cached_images/c89854273c890065e06a84505545310e119322ea.png)\n\n# 運作原理是什麼？\n在任何帶有比較器的容器上放置一個物品展示框。這個帶有物品展示框的容器，我們稱之為「過濾容器」。\n\n在過濾容器內放入任意可堆疊物品，並確保至少放入兩個該物品。你放入過濾容器中的物品將會是被過濾的目標。\n\n**再次強調，容器內必須至少有兩個相同物品，否則系統無法識別該物品進行過濾。**\n\n![木材範例](https://cdn.modrinth.com/data/cfW1jJT7/images/23985b9a2b6a6e98192bfc40b59fc3b8d31262f9.png)\n\n過濾容器會從其上方的任何容器中抽取它內部已有的物品。因此，通常你會在頂層放置一排漏斗。當物品沿漏斗線向下運輸時，過濾容器會抓取所有與其內容物匹配的物品。\n\n被過濾的物品會進入物品展示框正下方的漏斗：\n\n![漏斗放置位置](https://cdn.modrinth.com/data/cfW1jJT7/images/1517a05a1ac042538cab9dbac000e68b7ee93af0.png)\n\n接著，你可以將該漏斗指向一個箱子，以便存取已過濾的物品。也可以讓漏斗指向另一個漏斗，甚至直接用箱子替代漏斗。任何能儲存物品的容器皆可適用。\n\n請勿在過濾容器底部放置漏斗，這會打亂過濾配置。漏斗應位於物品展示框下方，而非過濾容器下方。\n\n使用比原版更快的漏斗？例如[超級漏斗](https://modrinth.com/project/super-hopper)？若你計劃使用速度高於普通漏斗的裝置，則需調整 MIS 的過濾速率。預設速度為每 8 刻傳輸 1 個物品（與原版漏斗相同）。但你可透過以下指令將 MIS 設為每刻 1 個物品：\n\n`/trigger easy_mis_fast_mode`\n\n若電腦效能較差，也可用以下指令將速度降低至四分之一：\n\n`/trigger easy_mis_slow_mode`\n\n並透過 `/trigger easy_mis_normal_mode` 恢復預設速度。\n\n若你的電腦規格不佳，建議使用普通速度的漏斗。\n\n查看[我的其他模組](https://modrinth.com/user/Pepsied)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

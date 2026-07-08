@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ctQhLPONFvU=",
+  "content": "KubeJS\n======\n\n* * *\n\n这个模组是做什么的？\n----------------------\n\n这个模组允许你使用 JavaScript 语言编写脚本，用于管理服务器、添加新方块和物品、修改合成配方和标签、为任务模组添加自定义处理器、调整世界生成等！\n\n如何使用？\n--------------\n\n安装模组后运行游戏一次。它会在你的 Minecraft 目录中生成 `kubejs` 文件夹，里面包含示例脚本。启动脚本仅在游戏加载时运行一次，用于注册物品、设置配置等。服务端/数据脚本在你加入世界时加载，适合用于清理延迟、显示自定义登录消息，以及与玩家和世界相关的常规功能。\n\n### 1.19.2 视频教程\n\n[![](https://i.imgur.com/dBW4qrS.png)](https://www.youtube.com/watch?v=xhJJbNJjics)\n\n我可以重新加载脚本吗？\n---------------------\n\n可以，使用 `/reload` 命令。注意：并非所有内容都能热重载。有些内容需要重启游戏，有些只需重启世界，有些则可以即时生效。\n\n我不懂 JavaScript / 我需要这个模组的帮助！\n----------------------------------------------------\n\n在 [KubeJS Wiki](https://kubejs.com/) 中有示例和预制脚本。\n\n我有问题 / 建议 / 想报告 Bug！\n--------------------------------------------\n\n如果 Wiki 没有解答你的疑问，你可以在这里提问、提出功能建议或报告 Bug：[KubeJS 支持](https://kubejs.com/support)\n\n[![](https://links.latvian.dev/links.png?mr=kubejs)](https://links.latvian.dev/)\n\n[![](https://links.latvian.dev/partner.png)](https://links.latvian.dev/partner)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

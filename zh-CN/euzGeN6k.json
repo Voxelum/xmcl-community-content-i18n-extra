@@ -1,0 +1,6 @@
+{
+  "bodyHash": "o0X5P1i687k=",
+  "content": "__活跃开发中__：Minecraft 1.18.2版本\n\n__官网：[Team CoFH](https://teamcofh.com)__\n\n__Discord：[Team CoFH Discord](https://discordapp.com/invite/uRKrnbH)__\n\n---\n\nArcher's Paradox 添加了大量新箭矢，适合轻度及重度模组整合包玩法。\n\n__本模组需要CoFH Core作为前置，下载地址：[CoFH Core](https://modrinth.com/mod/cofh-core)__\n\n### __配置说明__\n\n- _客户端配置_：位于`/config`目录下的`archers_paradox-client.toml`文件\n- _服务端配置_：位于`/saves/世界名称/serverconfigs`文件夹内的`archers_paradox-server.toml`文件\n\n将此配置文件复制到`/defaultconfigs`文件夹可将其设置应用于所有新创建的世界。\n\n专用服务器中该文件位于`/world/serverconfigs`目录\n\n## __功能特性__\n\n本节描述当前开发版本的功能特性。旧版本可能有所不同。\n\n### __新增箭矢__\n\n- 钻石箭：2倍伤害，+1穿透，+1击退\n- 海晶箭：水中无减速，水下重力减弱\n- 石英箭：1.25倍伤害，+1击退\n- 烈焰箭：点燃目标及周围区域\n- 寒冰箭：冻结目标及周围区域\n- 闪电箭：在户外命中时召唤闪电\n- 末影箭：将玩家传送至落点，或与目标交换位置\n- 爆炸箭：效果显而易见\n- 幻影箭：穿墙飞行，无限穿透，无视重力和护甲，自带发光效果\n- 潜影箭：自动追踪目标，施加漂浮状态\n- 粘液箭：高弹射与强击退（开发者最爱）\n- 孢子箭：将范围内泥土/草方块转化为菌丝体\n- 青翠箭：将泥土转化为草方块，并促进作物生长\n- 训练箭：无伤害，叠加\"连击\"效果用于练习（距离影响效果）\n- 挑战箭：无伤害，叠加\"箭术豪赌\"效果，连击可获得经验（距离影响效果）\n\n目前仅有一个创造模式分类页包含所有箭矢。更多内容（箭袋、弓箭主题方块等）将持续开发！\n\n特别说明：部分图标素材源自另一款弓箭主题模组——[Bullseye](https://www.curseforge.com/minecraft/mc-mods/bullseye)——Forstride慷慨授权我们延续使用这些优秀的美术资源。实际上我们有很多相似创意（虽然机制实现不同），而Bullseye的精美素材值得在1.14+版本中延续。\n\n### __特别鸣谢__\n\n- [itzbahb](https://www.youtube.com/watch?v=sXDSLdYY-3w)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

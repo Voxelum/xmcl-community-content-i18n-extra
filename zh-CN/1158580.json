@@ -1,0 +1,6 @@
+{
+  "bodyHash": "B8eoyhGEYhA=",
+  "content": "<h1>概述</h1><p>经验合成器是一个能将能量转化为经验值的模组。本模组的主要目标是为多人/单人游戏玩家提供简单、无延迟的刷怪塔替代方案，且<em>仅</em>产出经验值。该模组还额外具备存储经验的功能，但本身不提供能量生成方式。</p><p>&nbsp;</p><h1>使用方法</h1><p>模组包含一个方块（经验合成器）和一件物品（击杀记录仪）。</p><p>合成击杀记录仪后，通过切换模式（潜行+右键点击）可开始记录击杀生物行为。它会累计击杀获得的所有经验值，再次切换模式即可保存记录。同一记录仪上的新记录会覆盖旧记录，且仅记录击杀生物获得的经验值。</p><p>将存有记录的击杀记录仪放入经验合成器后，合成器将开始生成经验值。生成总量等于记录值，耗时与原始记录时长相同。但每点经验值都会消耗能量，且记录时长越短，每tick及总耗能呈几何级增长（极短记录的能耗极高）。能量不足时经验生成会暂停。</p><p>通过合成器界面按钮可提取生成的经验值，也可将经验暂存其中——但注意！破坏方块将导致存储经验永久丢失。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1158580/description_618e3ee9-2afe-47d8-857e-d89cec1198a3.JPG\"></p><p><img src=\"https://media.forgecdn.net/attachments/description/1158580/description_788a7c16-4026-468f-8c72-0753b06892ad.JPG\"></p><p><img src=\"https://media.forgecdn.net/attachments/description/1158580/description_3c1b1d56-1476-4863-973d-6a524a40db8b.JPG\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

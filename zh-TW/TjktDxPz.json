@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WvQLzju16nQ=",
+  "content": "# 終界船鞘翅清除器\n\n一個不那麼具破壞性的單一Mixin模組，用於取代終界船中的物品……就這樣。\n\n設定檔位於 `config/endship-elytra-nuker.json`：\n```json\n{\n  \"identifier\": \"\"\n}\n```\n\n將 `\"\"` 替換為物品識別碼即可使用該物品。\n範例：\n```json\n{\n  \"identifier\": \"minecraft:diamond_block\"\n}\n```\n\n若留空 (`\"\"`)，模組將會移除船中的物品及物品展示框。\n\n# 支援平台（截至v1.2.0版本）\n- Fabric、Quilt、Sponge 和 Forge：1.20+\n- NeoForge：1.20.2+\n- Spigot（透過Ignite）：1.20+\n- Paper 及其分支（透過Ignite）：1.20.6+",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

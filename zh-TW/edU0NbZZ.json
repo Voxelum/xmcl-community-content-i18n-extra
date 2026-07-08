@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AcfKPDLDBF0=",
+  "content": "![Just Hammers 標題](https://raw.githubusercontent.com/ErrorMikey/JustHammers/main/.github/assets/headers.png)\n\n# Just Hammers\n\n為遊戲添加鎚子，能夠以3x3、3x3x3、5x5x3和最終5x5x5的範圍進行挖掘！它們相當厲害。\n\n## 功能\n\n- 挖掘方塊\n- 破壞方塊\n- 推倒方塊\n- 移動方塊！給我讓開\n- 嚴厲訓斥方塊，讓它們不再擋路\n- 扔飛方塊\n- 將方塊發射進虛空...\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/1c9b9598-52f3-402c-84a8-84f7779e1360.webp)](https://www.bisecthosting.com/mikey?rel=modrinth)\n\n### 但說真的...\n\n- 鐵、金、鑽石、地獄合金鎚子\n- 以上所有材質都有不同等級，可增加影響範圍。從3x3x1開始一直到5x5x5。耐久度隨等級提升\n- 鎚子不會完全損壞！它們會降到1耐久度，並可在鐵砧上修復\n\n## 問題\n\n如果您發現模組有任何問題，請在專案的 [Github 問題頁面](https://github.com/ErrorMikey/JustHammers/issues) 回報。\n\n### 已知需處理的問題\n\n- 類似礦脈挖掘的模組可以與鎚子搭配使用\n- 由於我們計算方塊破壞和視線向量的方式，影響區域有時會異常偏移，這可能需要處理\n\n## 材質\n\n由 [Rid](https://github.com/Ridanisaurus/) 提供的材質！一如既往地出色！\n\n## 待辦事項\n\n- [x] 添加工具提示，說明每個鎚子的功能\n- [ ] 添加手持鎚子時顯示較大方塊輪廓的支援\n- [ ] 為正在破壞的可見方塊添加破壞動畫\n- [ ] 可能的升級以添加熔煉等功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

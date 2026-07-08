@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Q8k7FxNn/lM=",
+  "content": "![banner](https://raw.githubusercontent.com/uku3lig/totemcounter/1.19.3/banner.png)\n![Modrinth Downloads](https://img.shields.io/modrinth/dt/T9R7YTnA?style=for-the-badge)\n\n**TotemCounter** 是一款模组，会在每个玩家的头顶显示他们触发的不死图腾次数，同时还会展示你背包里有多少个不死图腾！\n\n*图标由 [Marlow](https://youtube.com/@Marlowww) 制作，横幅由我自己制作 :3c*\n\n## 功能特性\n* 在头顶显示不死图腾触发次数\n* 可通过设置或快捷键轻松重置\n* 死亡或比赛结束时自动重置（在支持的服务器上）\n* 显示背包中不死图腾的数量\n* 经验条颜色会根据不死图腾数量变化\n\n## 依赖项\n* [ukulib](https://modrinth.com/mod/ukulib)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

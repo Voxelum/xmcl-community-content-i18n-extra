@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KU8FAAkD20A=",
+  "content": "<h1>应用机械学</h1><p><em>AE2的官方Mekanism支持插件。</em> 请在<a href=\"https://github.com/AppliedEnergistics/Applied-Mekanistics/issues/\" target=\"_blank\" rel=\"nofollow\">问题追踪器</a>上报告问题。加入<a href=\"https://discord.gg/Zd6t9ka7ne\" target=\"_blank\" rel=\"nofollow\">AE2 Discord服务器</a>进行讨论。</p><p>这是一个适用于1.18.2+版本的Forge模组，需要同时安装AE2和Mekanism。1.21.1+版本仅支持NeoForge。</p><h2>化学品支持</h2><p>应用机械学为已有AE2设备添加了化学品支持。例如，这意味着你可以将输入总线安装在化学品储罐上、输出总线安装在化学品储罐上、存储总线安装在放射性废物桶上、将加压管道连接到接口，或在合成配方中使用化学品。</p><p><img src=\"https://i.imgur.com/hTShq45.png\" alt=\"\"></p><h2>化学品存储单元</h2><p>应用机械学还添加了1k、4k、16k和64k化学品存储单元。现在你可以在ME驱动器里存储气体！但请注意，它们不支持放射性气体！</p><h2>化学品P2P通道</h2><p>应用机械学添加了化学品P2P通道，用于高吞吐量的化学品传输。只需右键点击P2P通道上的任意Mekanism化学品储罐即可转换。</p><h2>存储总线的QIO支持</h2><p>应用机械学还允许存储总线与QIO频率中的内容互动。只需将存储总线放置在QIO仪表盘的侧面。</p><p><img src=\"https://i.imgur.com/EMxQdXR.png\" alt=\"\"> <img src=\"https://i.imgur.com/sif07Mx.png\" alt=\"\"></p><h2>合成配方</h2><p>要制作化学品外壳，你需要使用锇锭代替铁锭或铜锭</p><p><img src=\"https://i.imgur.com/wXzGjtU.png\" alt=\"\"></p><p>外壳可以与存储组件结合，制作存储单元</p><p><img src=\"https://i.imgur.com/7J3EU7l.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

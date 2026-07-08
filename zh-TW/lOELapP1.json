@@ -1,0 +1,6 @@
+{
+  "bodyHash": "y8vGGANqy0I=",
+  "content": "WorldEdit CUI (Forge)\n------------\n\n這是將 [WorldEdit CUI (Fabric)](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) 工具移植到 Forge 平台的版本。\n\nWorldEdit CUI 是 [WorldEdit] 的圖形使用者介面。WorldEditCUI 設計用來協助使用 WorldEdit，並防止意外錯誤。\n\n請注意，這不是 [WorldEdit]——它讓你能夠對世界進行修改——而是 WorldEditCUI，一個 WorldEdit 的前端。你必須在伺服器上安裝 WorldEdit。\n\n安裝方式\n------------\n\n將此模組安裝到 Minecraft 的 mods 資料夾中。\n\n無需任何設定即可顯示 WorldEdit 的選取範圍，且所使用的顏色可從 Forge 模組選單進行設定。\n\n致謝\n-------\n\nForge 移植：\n * [Zbx1425](https://github.com/zbx1425)，也就是我\n * [Shedaniel](https://github.com/shedaniel) 提供的 Architectury 跨載入器建置系統\n\n原始 WorldEdit CUI (Fabric)：\n * [Mumfrey](https://github.com/Mumfrey)、[yetanotherx](https://github.com/yetanotherx)、[mikroskeem](https://github.com/mikroskeem) 和 [zml](https://github.com/zml2008) 負責維護先前的 WorldEditCUI\n * [lahwran](https://github.com/lahwran) —— 原始 WorldEdit CUI 的創作者！\n * [sk89q](http://sk89q.com) —— 編寫 WorldEdit 插件！\n * [Mojang](http://mojang.com) —— 製作出如此出色的遊戲！\n\n法律事項\n-----------\n\n此程式碼採用 [Eclipse Public License v1] 授權。\n\n[WorldEdit]: https://enginehub.org/worldedit/\n[Eclipse Public License v1]: https://www.eclipse.org/org/documents/epl-v10.php",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

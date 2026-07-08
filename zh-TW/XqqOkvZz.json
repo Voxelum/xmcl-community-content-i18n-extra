@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eCLmlFnKYIw=",
+  "content": "<h1>地毯模組：NeoForged 版</h1>\n\n移植至 NeoForge 的 gnembon [地毯模組](https://modrinth.com/mod/carpet) 分支版本\n\n<hr>\n\n所有功能應與 Fabric 版地毯模組相同，提供多項可配置的原版調整功能，例如：\n - 可移動的方塊實體\n - 可堆疊的界伏盒\n - Scarpet 腳本語言\n - ...以及其他原版模組的所有功能\n\n以上所有功能僅需在伺服器端安裝即可運作。\n\n<h2>相容性</h2>\n\n部分地毯擴充模組可透過 [Sinytra 連接器](https://modrinth.com/mod/connector) 運作，主要是那些較少使用 mixin 的模組（多數 scarpet 擴充功能應可正常運作）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

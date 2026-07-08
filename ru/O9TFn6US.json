@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sY7w6BHsDM4=",
+  "content": "# Удалитель исправления String Duper\n\nУдаляет патчи MC-129055 / MC-59471, возвращая работу дупера строк в версиях 1.21.2+\n\nКредиты: [WinExp](https://github.com/WinExp/DumpedCarpetAddition)\n\n# Ферма не работает?\nПоскольку Mojang изменил механизм работы красного камня в последних версиях, [посмотрите это видео](https://youtu.be/mfv49tHgaQQ), чтобы устранить проблему.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

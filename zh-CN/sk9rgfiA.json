@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SPAu5VF3xr4=",
+  "content": "# Embeddium\n\nEmbeddium 是一款免费开源的 Minecraft 客户端性能优化模组。它基于 Sodium 代码库的最后一个自由软件授权版本，并加入了额外的错误修复与功能，以提升模组兼容性。\n\n尽管从 Sodium 分支而来，Embeddium **不受 CaffeineMC 支持**。请勿将其相关问题报告给他们的错误追踪系统或 Discord 频道。\n\n## 亮点\n\n* 包含 Sodium 0.5.8 及更早版本的所有性能改进，例如重写的地形渲染器、即时模式渲染管线的多项优化（用于实体、GUI、方块实体等），以及其他杂项改进\n* 支持 Minecraft Forge 1.20.1 及更早版本、Fabric 1.20.1-1.20.6 版本，以及 NeoForge 1.20.1 及更新版本\n* 集成 Fabric 渲染 API 支持（不再需要 Indium，且 Indium 与 Embeddium 不兼容）\n* 频繁发布补丁更新，在报告并复现模组兼容性问题后迅速修复\n* 提供额外的 API 用于模组集成\n* 可选的半透明排序支持（可在视频设置中启用）\n\n## 针对开发者\n\n如果您希望将 Embeddium 添加到开发环境中，请查阅[专用 Wiki 页面](https://github.com/FiniteReality/embeddium/wiki/For-Developers)获取集成说明与建议指南。\n\n## 致谢\n\n* JellySquid 与 CaffeineMC 团队，感谢他们率先创建了 Sodium，没有它这个项目将无从谈起\n* Asek3，感谢其首次将 Sodium 移植到 Forge\n* XFactHD，感谢其提供破坏游戏体验的 Rubidium 问题列表以启动这项工作，并测试早期构建版本\n* Pepper，感谢其在 Forge 光照移植到 Sodium 0.5 过程中提供的宝贵帮助\n* @CelestialAbyss 与 @input-Here，感谢其设计的新标志\n\n## 许可证\n\nEmbeddium 根据 GNU 宽通用公共许可证第三版发布。更多详情请参阅我们的 [GitHub](https://github.com/FiniteReality/embeddium) 仓库。\n\n## 需要 Minecraft 服务器？考虑 CreeperHost！\n![使用代码 taumc-qk0 享受 9 折优惠](https://cdn.modrinth.com/data/cached_images/c537b7f7d52aee93c4c2f3990a0a305da38ce041.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

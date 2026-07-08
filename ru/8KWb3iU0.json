@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EoSiRqdfSPc=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BvPF2KRGJzY\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nЗаставляет частицы сердца появляться с рандомными флагами гордости. Гей-овцы!\n\n### Почему это не ресурс-пак? \n\nДействительно, через ресурс-пак можно легко изменить текстуры или добавить новые текстуры для частиц. Однако из-за особенностей работы генератора частиц в Minecraft он будет выбирать случайный флаг для каждой отдельной частицы. Это выглядит не очень хорошо, и мне хотелось, чтобы каждый раз, когда вы кормите моба, появлялось 10 сердец одного и того же флага. Поэтому этот мод упакован именно как мод, чтобы добавить дополнительную логику при выборе текстур.\n\n[Discord](https://discord.gg/kS7auUeYmc)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

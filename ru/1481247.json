@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1594MT4Sj30=",
+  "content": "<p>Это небольшой патч совместимости для клиентской части&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod\" rel=\"nofollow\">Yessman's Epic Fight</a>&nbsp;+&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/backpacked\" rel=\"nofollow\">MrCrayFish's Backpacked</a>. Epic Fight изменяет способ анимации модели игрока, а Backpacked ожидает стандартное тело vanilla, поэтому рюкзаки вообще не отображаются при активном боевом режиме. Этот патч обеспечивает правильное отображение рюкзака на арматуре Epic Fight во время всех анимаций.</p><p><strong>Epic Fight и Backpacked — обязательные моды; Backpacked доступен на сайте MrCrayFish или здесь, на Curseforge.</strong></p><p><img src=\"https://cdn.modrinth.com/data/cached_images/84a79bab22986cde679b8033fa32c2db4f6502e9.gif\" alt=\"до применения патча: рюкзак исчезает при включении боевого режима Epic Fight.\">&nbsp;<img src=\"https://cdn.modrinth.com/data/cached_images/3e6908f6a9976dd66c7e8ce111d60d9055acb67d.gif\" alt=\"после применения патча: рюкзак правильно отображается во время кувырка и при активном боевом режиме Epic Fight.\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

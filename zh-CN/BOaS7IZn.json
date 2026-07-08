@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PqaOZL+GEL4=",
+  "content": "# 生物群系专属钓鱼战利品表\n\n该数据包为 Minecraft 添加了生物群系专属的钓鱼战利品表，使得在不同生物群系中钓到的物品更加独特且多样化。\n\n## 功能\n\n   - 为以下生物群系组添加专属战利品表：\n     - 洞穴生物群系\n     - 黑森林生物群系\n     - 深暗生物群系\n     - 沙漠生物群系\n     - 末地生物群系\n     - 繁花森林\n     - 丛林生物群系\n     - 繁茂洞穴\n     - 其他生物群系\n     - 山地生物群系\n     - 蘑菇岛生物群系\n     - 海洋生物群系\n     - 平原生物群系\n     - 河流生物群系\n     - 雪地生物群系\n     - 沼泽生物群系\n\n## 注意：你仍然可以钓到正常的钓鱼掉落物，此数据包仅为不同生物群系添加了额外的掉落物。\n\n## 数据包安装\n  - 从版本选项卡下载数据包\n  - 打开你的 Minecraft 世界，在主菜单中点击“编辑”。\n  - 在“世界”选项卡中点击“打开世界文件夹”。\n  - 打开“datapacks”文件夹，并将下载的数据包 zip 文件放入此文件夹。\n  - 在游戏中输入以下命令以启用数据包：`/datapack enable \"file/localized-fishing-tables\"`\n\n> 注意：\n> 如果你在多人服务器上使用此数据包，请前往主世界（通常是自动生成的“world”文件夹），将数据包放入其中，并完成上述步骤。\n> 这将为所有世界启用该数据包。\n> 或者，如果你在多人世界中使用 Fabric/Forge/Quilt，可以使用模组版本。\n\n## 模组安装\n- Forge：将模组文件添加到模组文件夹\n- Fabric：需要 Fabric API\n- Quilt：需要 Quilted Fabric API\n\n## 使用方法\n\n安装并启用数据包后，战利品表将自动应用于相应的生物群系。你可以通过钓鱼一段时间或使用 `/loot` 命令找到战利品。\n\n### 配置\n\n你可以通过修改 `data/adhdmc/loot_tables/gameplay/fishing` 文件夹中的文件来自定义战利品表。这些文件以[战利品表格式](https://minecraft.fandom.com/wiki/Loot_table)编写，可以使用任何文本编辑器进行编辑。\n\n### 许可证\n\n该数据包遵循 MIT 许可证。更多信息请参阅 [LICENSE](https://github.com/Simplexity-Development/LocalizedFishingTables/blob/master/LICENSE)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uazWcN+Js/o=",
+  "content": "毛茸茸殭屍是一個簡單的模組，新增了一種新的殭屍類型\n\n![渲染圖](https://cdn.discordapp.com/attachments/703870953222045717/1024263409329504276/zombie_render.png)\n\n這種新型的毛茸茸殭屍是殭屍的一個亞種，死亡時會掉落線和腐肉，讓你的殭屍農場也能生產線材。它們還具有火焰免疫，因此不會在陽光下燃燒。它們不會自然生成，而是在普通殭屍生成時有一定機率替代生成（此機率可在配置文件中調整，預設值為5%）。\n\n你還可以將它們重新命名為「FuzeIII」來獲得特殊外觀（這是對法國YouTuber FuzeIII因從不剪髮而常被開玩笑的梗的致敬 ;D）\n\n- [展示影片](https://youtu.be/DXR4jWbm8IQ)\n- 需要更多資訊？查看 [Curseforge 頁面](https://www.curseforge.com/minecraft/mc-mods/hairy-zombies)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

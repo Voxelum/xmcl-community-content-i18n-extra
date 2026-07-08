@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ksOZ+mhytZM=",
+  "content": "# 适用于 Polytone / OptiFine 的光照等级显示\n\n用不同颜色标记[光照等级](https://minecraft.wiki/w/Light#Light-emitting_blocks#Mobs:~:text=for%20more%20information.-,Mobs,-%5Bedit%20%7C)（0、7、11），让你知道在哪里放置光源可以防止怪物生成。通过自定义光照贴图实现。\n\n自定义光照贴图功能在 Minecraft 1.21.10 及更高版本的 Polytone 中暂不可用，因此你可能只能配合 OptiFine 使用该资源包。\n\n使用 [OptiFine](https://optifine.net/home) 时，需要开启：自定义颜色：开，平滑光照：关，动态光照：关\n\n> **在多人游戏中使用此类资源包前，请务必确认服务器规则。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

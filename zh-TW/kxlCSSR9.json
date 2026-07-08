@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SFk7G7Na1uY=",
+  "content": "# JEI 快捷命令\n\n為 JEI 添加便捷指令，可直接在遊戲中開啟配方、用途及 Jeed 藥水效果介面。\n\n## 指令列表\n\n| 指令 | 功能說明 |\n|------|---------|\n| `/jeiitemr <物品>` | 開啟 **配方/來源介面**（R 鍵） |\n| `/jeiitemu <物品>` | 開啟 **用途/加工介面**（U 鍵） |\n| `/jeiiteme <效果>` | 開啟 **JEED 效果描述頁面** |\n\n## 範例\n\n點擊 `/tellraw` 訊息即可執行指令：\n\n- `tellraw @a [{\"text\":\"成功獲得稀有物品：鑽石\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"點擊查看物品來源\"}},{\"text\":\" [點擊查看]\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/jeiitemr minecraft:diamond\"}}]` – 點擊查看 **來源**\n- `tellraw @a [{\"text\":\"成功獲得稀有物品：鑽石\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":\"點擊查看物品用途\"}},{\"text\":\" [點擊查看]\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/jeiitemu minecraft:diamond\"}}]` – 點擊查看 **用途**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JxI1wMVe+rU=",
+  "content": "<h1>挑選工具</h1><p>這是一個輕量級模組，讓你在手持工具時按下「選取方塊」鍵，即可切換到目標方塊的有效工具。</p><p>支援所有工具，無論是原版或模組工具皆可使用。</p><p>若背包中有多把對該方塊有效的工具，連續選取方塊時會依序切換。</p><p>可將工具加入位於 config 資料夾的 <code>picktool.json</code> 檔案中來排除選取。該檔案支援單一物品與物品標籤，例如：</p><ul>\n<li>加入 <code>#minecraft:swords</code> 會忽略所有劍</li>\n<li>加入 <code>minecraft:shears</code> 會忽略剪刀</li>\n</ul><p>此模組為伺服器端。安裝於專用伺服器或區域網路主機上時，所有玩家無需安裝即可使用。單人模式也適用。</p><p>本模組無需任何前置模組。</p><p><img src=\"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW56YTJpaDB3enNzamhrY2xzNGwxcGRpbzM2ejZ5bzNkeHF3NzdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNyj2hjVIbnOn7s72P/giphy.gif\" alt=\"gif\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

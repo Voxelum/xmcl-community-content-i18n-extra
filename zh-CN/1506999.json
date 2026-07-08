@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ipgOuci1pI=",
+  "content": "<p><strong>BetterMaceSwap</strong> 是一款客户端 Fabric 模组，可自动执行 Minecraft 中关于“重锤”的 PvP 战斗连招——无需手动切换快捷键。</p><p><strong>功能</strong></p><ul>\n<li>自动属性切换 — 使用剑或斧攻击后自动切换到重锤，并在可配置的延迟后切换回来</li>\n<li>智能切换 — 下落时自动选择“致密”，地面时自动选择“破盾”</li>\n<li>自动眩晕重击 — 用斧眩晕举盾目标，随后用重锤猛击并衔接剑的连击</li>\n<li>突刺切换 — 左键点击时切换至突刺矛，使用后自动恢复</li>\n<li>珍珠接应 — 向上投掷末影珍珠后立即发射风弹</li>\n<li>右键风弹 — 手持武器右键时从物品栏发射风弹</li>\n<li>瞄准辅助 — 在下落或始终状态下平滑跟踪目标</li>\n<li>触发机器人 — 当锁定目标处于准星内时自动攻击</li>\n<li>自动胸甲 — 在下落过程中靠近目标时自动装备胸甲</li>\n<li>空中药水 — 在空中时自动投掷喷溅药水</li>\n<li>完整的按键绑定支持，并可在游戏内切换</li>\n<li>ModMenu 配置界面，每个选项都带有提示说明</li>\n</ul><p><strong>依赖项</strong></p><ul>\n<li>Fabric API</li>\n<li>Cloth Config</li>\n<li>Mod Menu</li>\n</ul><ul>\n<li style=\"font-weight:bold\"><strong>支持 Minecraft 1.21.11 及更高版本。</strong></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

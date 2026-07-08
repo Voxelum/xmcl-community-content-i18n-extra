@@ -1,0 +1,6 @@
+{
+  "bodyHash": "z5ZeEWaStHY=",
+  "content": "# 鸭子外设\n\n一个为《电脑工艺：重缝版》设计的外设模组扩展，经过调整与优化。\n\n更多详情请参阅[Wiki](https://github.com/SamsTheNerd/ducky-periphs/wiki)\n\n## 新增内容\n\n- 天气机器 - 获取天气信息  \n- 实体探测器 - 检测生物活动  \n- 机械键盘 - 咔嗒作响，还能炫彩发光！  \n- 橡皮小鸭 - 向它们倾诉你的代码，说不定会有惊喜  \n- 幽匿传音器 - 类似幽匿感测体，但专为计算机设计  \n- 焦点端口 - 在CC与Hex Casting间读写iota数据  \n- Hex外设 - 为Hex Casting的各种方块添加支持  \n\n## 模组联动\n- 电脑工艺：重缝版（**必需**）  \n- Hex Casting（可选）  \n- 科技重生（新增合成配方）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

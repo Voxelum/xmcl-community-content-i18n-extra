@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QG29f/vd57g=",
+  "content": "## Трекер игрового времени\n[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg)](https://github.com/plex1on/playtime-tracker)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/datapack/playtimetracker)\n\nОтслеживайте игровое время в вашем мире, отображаемое в днях, часах, минутах и секундах!\n\n**По умолчанию игровое время отображается над вашей горячей шкафой:**\n![](https://cdn.modrinth.com/data/hiwqofoo/images/7c26f12d78ef627c7a1ddbeb6a87c1f5a0474a67.png)\n\n**...но это можно переключить с помощью:** *(игровое время по-прежнему будет отслеживаться в фоновом режиме)*\n```\n/trigger playtime_display\n```\n\n---\n\n**Альтернативно, отобразите общее игровое время с помощью:**\n```\n/scoreboard objectives setdisplay sidebar playtime_s/m/h/d\n```\n\n| имя | табло |\n|----- | ---------- |\n| секунды | `playtime_s` |\n| минуты | `playtime_m` |\n| часы | `playtime_h` |\n| дни | `playtime_d` |\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

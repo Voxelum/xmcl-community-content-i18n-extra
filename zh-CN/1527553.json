@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+XIwvCdVnwI=",
+  "content": "<p>修改了Sable的升力与阻力计算方式，使其正确遵循速度的二次方增长规律，而非当前线性增长模式。<br>这将让Aeronautics中的大小型飞行器设计更简便，因为不再需要极大的翼面积来产生升力。</p><p>这是我制作的首个模组，仅进行过轻度测试。若系数存在偏差，可在ldfix配置文件中调整。<br>同时不保证会随后续版本持续更新。</p><p>依赖项：<br>Sable - <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsable\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/sable</a><br>机械动力 - <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/create</a><br>机械动力：航空学 - <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate-aeronautics\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/create-aeronautics</a></p><p>**已知问题：与copycat sails模组存在冲突，因其增加的多倍率会导致升力过强。</p><p>-当前解决方案：将copycat sails兼容配置中的升力标量从1.75改为0.75以获得最佳效果。</p><p>原始物理代码归功于Sable团队</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

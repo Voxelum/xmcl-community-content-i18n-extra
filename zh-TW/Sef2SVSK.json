@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oULeuab2Yas=",
+  "content": "自動為 Voxy 生成遠距地形 LOD（細節層級），無需手動飛越每個區塊。\n\nVoxy 能將世界渲染距離大幅延伸至一般視野之外，但預設情況下，它只能在玩家實際造訪每個區塊後，才建構出遠距離視野。這個模組解決了這個問題：它會掛鉤伺服器已載入的區塊（包括由 Chunky 或其他區塊預生成器載入的區塊），並在背景自動生成 LOD 資料——無需玩家移動。\n\n支援單人世界與專用伺服器。在伺服器上，所有連線的客戶端都能受惠於預生成——玩家一加入就能看到遠距地形，即使是從未造訪過的區域。\n\n警告：早期 Alpha 版本——預期會有錯誤。單人模式下運作良好。專用伺服器支援雖可運作，但仍有已知問題——請謹慎使用。\n\n本模組並非 Voxy。您必須另外安裝 Voxy 分支版本。\n此模組專為 NeoForge 1.21.1 設計，搭配 j-shelfwood 的非官方 Voxy 移植版使用。\n\n=== 需求 ===\n\n1. NeoForge 1.21.1\n   https://neoforged.net/\n\n2. Voxy（j-shelfwood 的非官方 NeoForge 1.21.1 移植版）[僅客戶端需要]\n   從原始碼建構：https://github.com/j-shelfwood/voxy-neoforge\n   將產生的 voxy-*.jar 放入客戶端的 mods/ 資料夾。\n   專用伺服器不需安裝 Voxy。\n\n3. Sodium 0.6.13+ for NeoForge [Voxy 需求，僅客戶端]\n   https://modrinth.com/mod/sodium\n\n4. Chunky for NeoForge [可選——推薦]\n   預生成區塊，讓 LOD 在玩家造訪前就建構完成。\n   https://modrinth.com/plugin/chunky\n\n=== 設定 ===\n\n1. 在客戶端（若為多人遊戲，伺服器也需）安裝 NeoForge 1.21.1。\n2. 複製並建構：https://github.com/j-shelfwood/voxy-neoforge\n3. 將 voxy-*.jar、sodium-*.jar、chunky-*.jar 以及本模組的 JAR 放入 mods/ 資料夾。\n4. 啟動遊戲。本模組會自動啟用——無需額外設定。\n5. 可選：執行 /chunky radius 1000 再執行 /chunky start 來預生成。\n   隨著區塊載入，LOD 會在背景自動建構。無需飛行。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EHFem9nxIDg=",
+  "content": "## 如何運作？\n\n對於支援的燈籠，將燈籠放置在方塊的側面，燈籠就會附著在該側面上。\n\n## 相容性\n\n繼承自原版燈籠的燈籠會透過動態方塊實體自動獲得支援。這**不**涵蓋所有燈籠，但應該涵蓋大多數燈籠。\n\n<details>\n<summary>給開發者</summary>\n\n如果你的燈籠繼承了 `LanternBlock` 且**沒有**覆寫 `getStateForPlacement`，它就會被方塊實體支援。如果你沒有繼承 `LanternBlock`，或者**確實**覆寫了 `getStateForPlacement`，你應該自行實作牆面懸掛功能。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

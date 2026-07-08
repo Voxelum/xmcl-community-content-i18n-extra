@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cE0oJAXU95s=",
+  "content": "![横幅](https://cdn.modrinth.com/data/cached_images/3ce62e0e1004dc32a73d9bf5d8dcaae194da5b49.png)\n\n这个数据包添加了一个触发器，可在128格范围内高亮显示所有或特定群组的生物，持续15秒。如果你弄丢了宠物、找不到村民，或是只想找出藏在你家底下的那只僵尸，这个功能会非常实用。\n\n## 指令列表\n- `/trigger Highlight_All` - 高亮附近所有生物。\n- `/trigger Highlight_Pets` - 高亮附近的狼和猫。\n- `/trigger Highlight_Villagers` - 高亮附近的村民和僵尸村民。\n- `/trigger Highlight_FarmAnimals` - 高亮附近的绵羊、牛、鸡和猪。\n- `/trigger Highlight_NightMobs` - 高亮附近的僵尸、骷髅、蜘蛛、末影人、苦力怕、史莱姆和吱吱作响的生物。\n\n## \n\n**💡 想要提出建议吗？** 加入我的 Discord 服务器！https://discord.gg/Mx9fDBW94W",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

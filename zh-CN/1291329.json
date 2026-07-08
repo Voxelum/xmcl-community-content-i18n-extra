@@ -1,0 +1,6 @@
+{
+  "bodyHash": "R8ZDcRxiUj8=",
+  "content": "<p>在屏幕左上角显示你的FPS和最大FPS设置。</p><p>你可以使用命令 /fpsdisplay setPos x y 来设置屏幕的x和y坐标位置。</p><p>你可以通过 /fpsdisplay enable/disable 来启用或禁用显示。</p><p>你可以使用 /fpsdisplay maxFps enable/disable 来启用或禁用最大FPS显示。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

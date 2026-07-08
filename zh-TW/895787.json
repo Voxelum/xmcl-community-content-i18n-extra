@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OOtKBadX/88=",
+  "content": "<p><img src=\"https://raw.githubusercontent.com/Mrthomas20121-Mods/Thermal-And-Space/master/src/main/resources/assets/thermal_and_space/thermal_in_space.png\" alt=\"Thermal And Space 標誌\"></p><h1>什麼是 Thermal And Space？</h1><p>Thermal And Space 是一個 Ad Astra 與 Thermal 的擴充模組，它將 Thermal 的礦石添加到 Ad Astra 的行星中。</p><h1>礦石在哪裡生成？</h1><ul>\n<li>油頁岩可在月球、火星和金星上找到。</li>\n<li>磷灰石可在月球、火星和金星上找到。</li>\n<li>硃砂可在水星、火星和金星上找到。</li>\n<li>鉛可在金星、冰凍星和火星上找到。</li>\n<li>鎳可在水星和月球上找到。</li>\n<li>硝石可在水星、冰凍星和月球上找到。</li>\n<li>紅寶石可在月球、火星和金星上找到。</li>\n<li>藍寶石可在水星和金星上找到。</li>\n<li>銀可在月球、火星、水星和金星上找到。</li>\n<li>錫可在所有行星上找到 => 月球、火星、水星、金星、冰凍星。</li>\n</ul><p>所有礦石的生成率都比 Thermal 在主世界的礦石更高。</p><h1>我可以調整礦石生成嗎？</h1><p>是的，你可以。礦石生成是透過資料包完成的。</p><p>你需要修改位於 <code>resources/data/thermal/worldgen/placed_feature/space_orename.json</code> 的放置特徵設定。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

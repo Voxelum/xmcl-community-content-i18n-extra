@@ -1,0 +1,6 @@
+{
+  "bodyHash": "UXZzmWbHfps=",
+  "content": "![Terrabnormals](https://i.imgur.com/ywRPMkr.png)\n\n# 📖 关于：\n**Terrabnormals** 是一个数据包，旨在提升 **Terralith** 与 **Abnormal** 系列模组之间的兼容性。这个想法源于我尝试同时游玩这两个模组时，发现了一些生成异常和世界兼容性细节缺失的问题。目前，该数据包包含生物群系兼容性、Terralith 生物群系中的模组方块等内容，为你带来全新的原版体验。\n\n# 💻 特性：\n首先，Terralith 的部分生物群系（如热带丛林、繁花谷地、秋日空岛以及所有樱花林）已被替换为 Abnormal 系列模组的新特性，包括模组方块、树木、植物以及同类型生物群系特征，且不改变原始生物群系分布。  \n在森林高地与雪枫林中，所有红色树木均被替换为 Environmental 模组中松木的原木与树叶。  \n增加了更多与世界标签的兼容性，优化并修复了一些生成问题与生物刷新机制。  \n修复了 Upgrade Aquatic 模组的一个问题：Terralith 的暖河部分区域曾错误地生成原木与植物。\n\n# 📝 常见问题：\n**❔ 此数据包需要哪些模组？**  \n- ✅ 核心模组包括 Atmospheric、Environmental、Autumnity 和 Upgrade Aquatic，未来可能可选依赖 Buzzies Bees 及其他模组。\n\n**❔ 所有生物群系都已实装吗？**  \n- ✅ 并非全部，主要是一些生物群系（如 Atmospheric 的 Aspen Park）我尚不确定如何处理，难以在不移除此类群系的前提下进行修改。未实装的群系未来可能会加入，也可能不会。若你仍想体验未包含的群系，可安装 Biome Replacer。\n\n**❔ 为何你不认可 Blueprint 的生物群系生成机制？**  \n- ✅ 主要因为我发现许多生物群系会生成在山脉或海洋中央，部分群系表现尚可，但并非全部。你可以自行尝试默认模组来验证。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

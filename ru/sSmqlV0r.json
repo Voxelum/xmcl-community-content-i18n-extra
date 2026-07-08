@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EkQ0QT2HMfw=",
+  "content": "# KatamariIO \n![image](https://cdn.modrinth.com/data/cached_images/bc94075f17838afef4a8ee2a8257b06baedb9013_0.webp)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/swtzWXad8Vc\" title=\"Плеер видео на YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n## Команды\nУровень разрешений: `2` (OP)\n\n- `/katamari size <цели> <значение>`\nЗадать размер столкновения для целевых игроков.  \nДиапазон: `0,01 .. 20,0`\n\n- `/katamari size <цель>`\nПоказать текущий размер.\n\n- `/katamari restitution <цели> <значение>`\nЗадать коэффициент восстановления.  \nДиапазон: `0,01 .. 1,2`\n\n- `/katamari restitution <цель>`\nПоказать коэффициент восстановления.\n\n- `/katamari ball <цели> <включено>`\nВключить/выключить режим мяча.\n\n- `/katamari resetBlocks <цели>`\nОчистить прикреплённые блоки и сбросить размер столкновения/рендера до значения по умолчанию `KatamariIO.DEFAULT_BALL_SIZE` (в настоящее время `2,0f`).\n\n## Примеры команд NBT\n- `/data get entity @s SPM_BlockCount`\n- `/data get entity @s SPM_Size`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

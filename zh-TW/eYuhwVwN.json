@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PBNbcssYlmM=",
+  "content": "**這是 ProjectE 的一個擴充模組**<br>\n它新增了一個方塊：**EMC 介面**\n\n你可以將它連接到許多虛擬儲存模組，例如 Refined Storage 或 AE2。<br>\n連接後，你就可以直接透過 EMC 從虛擬儲存中存入或取出物品。\n\n**如果你使用 Refined Storage：**<br>\n在 EMC 介面上放置一個外部儲存器來進行連接。<br>\n**如果你使用 AE2：**<br>\n在 EMC 介面上放置一個 ME 儲存匯流排來進行連接。\n\n請注意，你也可以將它連接到其他模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

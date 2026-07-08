@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ME8V1965I/o=",
+  "content": "<h1>烈焰斧</h1><p>烈焰斧是受 CosmicMC 伺服器中的烈焰斧啟發而製作的 Fabric 伺服器端重製模組。</p><p>它新增了一把自訂烈焰斧，具有鋒利 V、火焰附加 II、快速戰鬥改版前的攻擊速度、戲劇性的舊版擊中音效，以及使用指令時的特效閃電效果（不造成傷害）。</p><h2>特色</h2><ul>\n<li>伺服器端 Fabric 模組</li>\n<li>多人伺服器上無需用戶端安裝</li>\n<li>舊版鑽石烈焰斧變體</li>\n<li>全新地獄合金烈焰斧變體</li>\n<li>鋒利 V 與火焰附加 II</li>\n<li>13 點攻擊速度</li>\n<li>對有效的烈焰斧攻擊造成 3 倍傷害</li>\n<li>舊版鐵砧與破壞門的擊中音效</li>\n<li>不傷害實體或修改方塊的特效指令閃電效果</li>\n</ul><h2>指令</h2><p>需要管理員權限：</p><ul>\n<li><code>/pyroaxe</code> - 獲得地獄合金烈焰斧</li>\n<li><code>/pyroaxe new</code> - 獲得地獄合金烈焰斧</li>\n<li><code>/pyroaxe legacy</code> - 獲得鑽石烈焰斧</li>\n</ul><h2>需求</h2><ul>\n<li>Minecraft 26.1.2</li>\n<li>Fabric Loader</li>\n<li>Fabric API</li>\n<li>Java 25+</li>\n</ul><p>此專案受 CosmicMC 的烈焰斧啟發，與 CosmicMC 無關聯。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

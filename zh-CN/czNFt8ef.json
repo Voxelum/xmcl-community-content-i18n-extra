@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fn4busI5L9I=",
+  "content": "Better Foliage Renewed 是 Octarine Noise 原始作品的现代 Minecraft 移植版。这是一个仅限客户端的模组，仅支持 Forge，不会移植到 Fabric。\n\n原始作品中有一些设计决策使得更新变得困难：复杂的核心模组以实现某些渲染效果、依赖于一种晦涩的编程语言，以及在运行时生成纹理等复杂操作。\n\n该移植版内置了对 Atmospheric、Bayou Blues、BOP、Caves and Cliffs 和 Quark 的兼容性。\n\n这个移植版旨在通过利用资源包 API 来解决这些问题。它也没有任何依赖项。除了粒子效果外，你可能会注意到没有配置来禁用/调整许多功能。这是因为模型是通过资源包加载的。如果你想禁用某个模型，可以用原版的 blockstate 文件覆盖该方块的 blockstate 文件。这也意味着模组兼容性比以往更容易！如果你喜欢的模组有宽松的许可证（如果我可以在我的仓库中托管他们的资源），我会自己添加兼容性。否则，你可以自由地自行添加。\n\n在性能方面，这个模组与原版相当。树叶可能会在较慢的电脑上造成一些卡顿，但一般来说，除非你使用着色器，否则你不会注意到任何影响。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

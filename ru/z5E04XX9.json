@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+bYIYJcWwXA=",
+  "content": "# Только радужные предметы\n\n<center>\n  <img src=\"https://cdn.modrinth.com/data/z5E04XX9/images/07144ebecbc3d4e3bb0e45758456e4a9af69d4e2.png\" alt=\"Иконка Only Rainbow Items — Иконка Only Rainbow Items\">\n  <br>\n  <img src=\"https://img.shields.io/modrinth/dt/only-rainbow-items?style=for-the-badge\" alt=\"Количество загрузок\">\n  <img src=\"https://img.shields.io/modrinth/v/only-rainbow-items?style=for-the-badge\" alt=\"Последняя версия\">\n  <img src=\"https://img.shields.io/modrinth/game-versions/only-rainbow-items?style=for-the-badge&label=minecraft\" alt=\"Версии Minecraft\">\n</center>\n\n---\n\nЭтот ресурсный пакет добавляет в игру новые предметы.\n\n# Поддерживаемые предметы (для 1.20.4–1.21.3)\nУстановите для ваших предметов пользовательский модельный индекс 1, чтобы они работали.\n\n1. Незитовый кирка\n2. Незитовый меч\n3. Алмаз\n4. Лук\n5. Эндер-жемчуг\n\n# Доступные модели предметов (1.21.4+)\nУстановите для ваших предметов любое из этих значений, чтобы они работали.\n\n* orb:super_pickaxe\n* orb:super_sword\n* orb:super_diamond\n* orb:super_bow\n* orb:super_ender_pearl\n* orb:uno_reverse",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

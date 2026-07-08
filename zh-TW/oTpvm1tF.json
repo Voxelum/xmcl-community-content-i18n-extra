@@ -1,0 +1,6 @@
+{
+  "bodyHash": "DAOjbJjY+p8=",
+  "content": "# 烈焰火槍 2：燧發槍\n\n這是令人讚嘆的[烈焰火槍 2](https://modrinth.com/mod/scorched-guns-2)模組的精簡輕量版，只保留適合海盜時代的第一階槍械，也就是燧發槍、手持火炮、火槍及喇叭槍。\n\n![燧發槍](https://cdn.modrinth.com/data/cached_images/3330cfc359ab0869475c8e81b3b085b96fda2218.png)\n![附木製槍托與刺刀的火槍](https://cdn.modrinth.com/data/cached_images/93846606bc64cd74acd6c0ba92b62f3b269cd0d8.png)\n\n為了配合槍械的原始時代，現代槍枝及對機械動力模組的依賴都已被移除，同時也移除了以布匹為主題的生物。現有的槍枝仍然可在工作台上製作，並可懸掛在槍架上。彈藥可用礫石中取得的卵石及火藥粉來製作。你可以將彈藥存放在特殊彈藥箱中，然後放在物品欄或Curios飾品欄的腰帶欄位中隨身攜帶。\n\n需要[Curios](https://modrinth.com/mod/curios)、[Geckolib](https://modrinth.com/mod/geckolib)與[Framework](https://www.curseforge.com/minecraft/mc-mods/framework)。由於這是烈焰火槍 2的精簡版，所有物品皆相同而非新增，因此不應與SCGUNS同時載入，因為兩者共用同一個模組ID。\n\n敬請查看由[ribs](https://modrinth.com/user/ribss498)創作的完整烈焰火槍 2模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

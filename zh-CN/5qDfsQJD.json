@@ -1,0 +1,6 @@
+{
+  "bodyHash": "RJAQio67BP0=",
+  "content": "[植魔](https://github.com/VazkiiMods/Botania)的一个小型Mixin扩展，使产能花可以直接向魔力池输出魔力。\n![示例](https://cdn.modrinth.com/data/cached_images/dd9d9cc6c12f7ae2bffb55f6d7aa66a91fbe08d0.png)\n\n# 功能特点\n- 让产能花直接连接魔力池，无需先通过魔力发射器\n  - 从而减少魔力损耗和客户端粒子渲染压力\n  - 对于具有特殊魔力缓冲机制的产能花可能过于强力",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

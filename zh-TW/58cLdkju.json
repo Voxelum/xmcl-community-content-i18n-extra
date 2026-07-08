@@ -1,0 +1,6 @@
+{
+  "bodyHash": "W8PG2ArcmhQ=",
+  "content": "# [預設手臂紋理](https://modrinth.com/resourcepack/default-arms-textures/version/0.3.2_69)\n\n![合成](https://cdn.modrinth.com/data/58cLdkju/images/4e41958b924fc6029bcce967988ec6d825ce0c01.png)\n![使用](https://cdn.modrinth.com/data/58cLdkju/images/a4ab16ce6e43d70940da3975f5a62b7fd1b1eb24.png)\n\n當使用[預設手臂](https://modrinth.com/mod/default-arms)時，[盔甲架](https://minecraft.wiki/w/Armor_Stand)分別會顯示有/無手臂的樣式。\n\n---\n\n若要以其他方式取得帶有這些紋理的物品，請使用\n\n有手臂：\n``/give @p armor_stand``\n\n無手臂：\n``/give @p armor_stand[minecraft:custom_data={showsArms:0b}]``",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

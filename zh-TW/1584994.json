@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lieu0u4zT7A=",
+  "content": "<p><strong>[SBW] 生態系士兵</strong></p><p>⚠️ <strong>必裝模組</strong> — 請全部安裝，否則遊戲會崩潰：</p><p>Superb Warfare • Marbled's Arsenal • Marbled's Core • GeckoLib</p><p>適用於 Minecraft Forge 1.20.1</p><p>新增武裝士兵NPC，依生態系分布於世界各地，外加可指揮的個人保鏢。每個單位均使用真實的 Superb Warfare 槍械與 Marbled's Arsenal 護甲。</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_cc0016f8-71ca-4457-8c31-ea5e189b54ab.png\" alt=\"圖片\"></p><p>🪖 <strong>生態系士兵</strong></p><p>自然生成且會主動攻擊玩家與生物的敵對NPC：</p><p>沙漠士兵 — 生成於沙漠與惡地</p><p>冬季士兵 — 生成於雪地與針葉林生態系</p><p>特種部隊士兵 — 生成於其他主世界生態系</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_4c95c3de-f503-4b47-9076-319c4e542f95.png\" alt=\"圖片\"></p><p>🛡️ <strong>保鏢（等級1–3）</strong></p><p>專屬於你的個人護衛（可用生怪蛋生成）。等級越高，武器與護甲越強。</p><p>Shift + 右鍵 → 切換跟隨／護衛模式</p><p>右鍵 → 打開裝備選單（武器／彈藥／護甲）</p><p>攻擊跟隨中的保鏢，全隊會反擊</p><p>🚗 載具護送 — 當你登上 Superb Warfare 載具時，跟隨中的保鏢會在有空位時一同上車。若載具已滿，他們會步行跟隨在旁（保持安全距離避免被輾壓），並在你下車時自動離開。</p><p>🚩 <strong>保護區域</strong></p><p>使用區域標記佔領土地。在區域內，爆炸、岩漿、火焰與環境傷害均被阻擋。可透過 /zone 指令管理（信任玩家、刪除、給予方塊等功能）。</p><p>⚙️ 注意：保護區域預設為關閉。若要啟用，請使用指令 /config showfile militarybase COMMON 在遊戲內修改模組設定，並將 zonesEnabled 設為 true。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

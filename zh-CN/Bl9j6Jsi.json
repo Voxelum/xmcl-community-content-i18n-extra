@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yCRhclFGAuY=",
+  "content": "# Translator++\n\n一款用于快速、轻便、便捷自动翻译的Minecraft模组。\n\n## 重要提示\n\n* **仅客户端**生效。\n* **通常需要联网**。\n\n## 依赖项\n\n* **[Cloth Config API](https://modrinth.com/mod/cloth-config)**（Fabric和Forge环境必需；NeoForge环境兼容）\n* **[Mod Menu](https://modrinth.com/mod/modmenu)**（Fabric环境兼容）\n* **[Just Enough Items (JEI)](https://modrinth.com/mod/jei)**（兼容）\n* **[Roughly Enough Items (REI)](https://modrinth.com/mod/rei)**（兼容）\n* **[EMI](https://modrinth.com/mod/emi)**（兼容）\n* **[Jade 🔍](https://modrinth.com/mod/jade)**（兼容）\n\n## 使用方法\n\n### 翻译物品\n\n1. 将光标悬停在背包、容器或JEI类配方侧栏中的物品上。\n2. 按下翻译快捷键（默认：**T**）。\n3. 翻译结果将显示出来。\n\n### 配合Jade 🔍翻译\n\n1. 看向已显示Jade信息的方块或实体。\n2. 按下翻译快捷键。\n3. 翻译结果将显示出来。\n\n### 翻译聊天消息\n\n1. 将光标悬停在聊天消息上。\n2. 按下翻译快捷键。\n3. 翻译结果将显示出来。\n* 注意：建议将快捷键设置为非字符键（如`alt`、`ctrl`等），避免打字冲突。\n\n### 配置\n\n* 按下设置快捷键（默认：**O**）。\n* 通过Fabric中的Mod Menu模组，或(Neo)Forge的模组列表进行配置。\n\n## 版本命名规则（自`v2.2.0`起）\n显示名称：`[${平台} ${游戏版本范围}] v${模组版本}`  \n文件名：`translatorpp-${平台}-${模组版本}+${游戏版本范围}`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

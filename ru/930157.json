@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tRsW/a6CqVc=",
+  "content": "<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">Некоторые вкладки режима творчества (например, стандартная вкладка «Поиск предметов») оснащены строкой поиска. При открытии вкладки строка поиска всегда находится в фокусе, поэтому большинство нажатий на клавиатуру воспринимается как ввод символов и автоматически попадает в строку поиска, что раздражает игроков (включая автора >_&lt;), привыкших использовать клавишу E для закрытия вкладок.</span></p><p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">&nbsp;</span></p><p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">Этот мод отключает автоматический фокус строки поиска при открытии вкладки и снимает фокус со строки поиска, когда игрок щелкает вне её границ.</span></p><p>&nbsp;</p><p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">Версия этого мода для Minecraft 1.12.2 требует <a href=\"https://www.curseforge.com/minecraft/mc-mods/mixin-booter\" target=\"_blank\" rel=\"nofollow\"><span style=\"color:#f60\"><strong>MixinBooter</strong></span></a>.</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

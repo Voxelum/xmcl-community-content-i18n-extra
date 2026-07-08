@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wxDNSQ8nGTw=",
+  "content": "这是一个简单的数据包，用于保护玩家死亡后掉落的物品不会在5分钟后消失。你再也不用担心因为花太长时间寻找死亡地点而导致装备和资源消失了。\n\n该数据包会无感运行，移除后不会留下任何影响。它不包含任何持续运行或加载函数，因此本身不会以任何方式影响Minecraft的性能。\n\n如果需要，你可以通过以下命令启用受保护物品数量的反馈提示：\n`/tag @s add get_feedback`\n\n如果你安装了会自动清理掉落物的模组、插件或其他数据包，可以通过`protected_from_despawn`标签来排除这些受保护的物品。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

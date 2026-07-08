@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FuN/2C+xgw4=",
+  "content": "ArchaicFix为Minecraft 1.7.10版本实现了多项错误修复和性能优化。完整功能列表请参阅[GitHub上的README文档](https://github.com/embeddedt/ArchaicFix#readme)，以下是一些重点改进：\n\n- 消除/减轻1.7.10版本中 notorious 的客户端卡顿现象，特别是在丛林等光照更新频繁的生物群系中\n- 移植Phosphor光照引擎（原始仓库已不可用，此链接指向最接近原版的1.12分支版本，仍保留原始分支）\n- 改进版遮挡剔除系统（与OptiFine/FastCraft不兼容，默认禁用）\n- 多线程区块更新（减少放置方块时的卡顿，同样与OptiFine/FastCraft不兼容且默认禁用）\n- 针对原版各类问题的多项修复\n\n此外，ArchaicFix还修复了其他模组中常见的几个问题。\n\n注意：新版ArchaicFix需要安装兼容GTNHMixins的混合加载器（如UniMixins）。\n\n## 需要Minecraft服务器？试试CreeperHost！\n![使用优惠码taumc-qk0可享9折优惠](https://cdn.modrinth.com/data/cached_images/c537b7f7d52aee93c4c2f3990a0a305da38ce041.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

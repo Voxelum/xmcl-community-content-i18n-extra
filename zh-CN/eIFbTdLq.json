@@ -1,0 +1,6 @@
+{
+  "bodyHash": "q5eENEp3sXs=",
+  "content": "这个模组还原了Alan Becker《床战》火柴人动画中Blue的反击剑技。本模组新增一把可投掷并能自动返回的剑，让战斗更具动态感和策略性。\n\n![将剑投掷出去](https://cdn.modrinth.com/data/eIFbTdLq/images/817a3d89dce4bcb3f95e7fbaa1fb780732319360_350.webp)\n![我可不怕这家伙](https://cdn.modrinth.com/data/eIFbTdLq/images/c70605898bd7fcff0d3220961d31db8550523023_350.webp)\n\n你可以观看我们的[宣传视频](https://www.bilibili.com/video/BV1qTVY69EiN/)。\n\n## 核心玩法\n- 手持任意剑类武器，右键即可向前投掷\n- 击中敌人后，剑会自动飞回你的快捷栏\n- 若快捷栏已满，剑将进入物品栏\n- 击中地面时，剑会插在方块顶部\n\n## 特殊机制\n- 剑无法插入黑曜石、基岩或强化深板岩，会以掉落物形式出现\n- 若在距离实体方块2格内投掷，剑会直接返回而不会插入地面\n- 按P键打开姿态编辑器，可自由调整插剑的角度和位置\n\n## 应用场景\n适用于床战PvP和生存模式战斗，兼容多人游戏服务器。\n\n## 更新计划\n不定期更新，但包含漏洞修复和性能优化。此外，我们的版本号可能与文件版本号不一致，具体情况以我们发布的版本号为准。未来我们将继续改进。\n\n## 商业用途\n面向中小型服务器提供商业授权，如有需求请通过B站联系我（用户名：Entyipaper）。\n\n## 其他说明\n“粉丝自制模组，与Alan Becker无直接关联”",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

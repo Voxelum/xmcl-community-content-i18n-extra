@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GyQDFIkQzvY=",
+  "content": "Это небольшой патч совместимости для клиентской части [Yessman's Epic Fight](https://modrinth.com/mod/epic-fight) + [MrCrayFish's Backpacked](https://www.mrcrayfish.com/mods/backpacked).\nEpic Fight меняет способ анимации модели игрока, а Backpacked ожидает стандартное тело vanilla, поэтому рюкзаки вообще не отображаются при активном боевом режиме. Этот патч обеспечивает правильное отображение рюкзаков на скелете Epic Fight во время всех анимаций.\n\n**Epic Fight и Backpacked — обязательные моды; Backpacked доступен на сайте MrCrayFish или на Curseforge.**\n\n![До применения патча: рюкзак исчезает при включении боевого режима Epic Fight.](https://cdn.modrinth.com/data/cached_images/84a79bab22986cde679b8033fa32c2db4f6502e9.gif)\n![После применения патча: рюкзак правильно отображается во время кувырка и при активном боевом режиме Epic Fight.](https://cdn.modrinth.com/data/cached_images/3e6908f6a9976dd66c7e8ce111d60d9055acb67d.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "azmO4FjREIE=",
+  "content": "# British Transit Addon\n\nBritish Transit Addon 是一個 Minecraft 模組，為 Minecraft Transit Railway 模組添加了大量實用且裝飾性的方塊。\n\n# Discord\n想提出功能建議或與社群互動嗎？加入我們在 Modrinth 側邊欄的 Discord 伺服器吧！\n\n# 依賴模組\n[Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway)\n\n[Geckolib](https://modrinth.com/mod/geckolib)\n\n# 常見問題\n**為什麼我的遊戲在使用 BTA 時會崩潰？**\n這很可能是因為你使用的 BTA 版本與遊戲版本或模組載入器不符。請務必下載正確的版本。如果仍然崩潰，歡迎加入我們的 Discord 伺服器尋求支援。\n\n**我可以在我的模組包中使用這個模組嗎？**\n你可以將這個模組放入你在 Modrinth 上發布的模組包，或者用於你私人伺服器的模組包中。請不要將此模組重新上傳到其他網站。\n\n**你會將這個模組移植到 MTR 3.2 嗎？**\n由於同時支援兩個版本需要耗費大量心力，以及 MTR 創作者建議不要為 MTR 3.2 開發新的附加模組，因此這個模組不會移植到 MTR 3.2。不過，由於本專案是開源的，你可以自行將其移植到 MTR 3.2。\n\n版權所有 © 2024 Octagon Development\n\n程式碼採用 MIT 授權條款，紋理保留所有權利\n\n<a href=\"https://crowdin.com/?utm_source=badge&utm_medium=referral&utm_campaign=badge-add-on\" rel=\"nofollow\"><img style=\"width:140;height:40px\" src=\"https://badges.crowdin.net/badge/light/crowdin-on-dark.png\" srcset=\"https://badges.crowdin.net/badge/light/crowdin-on-dark.png 1x,https://badges.crowdin.net/badge/light/crowdin-on-dark@2x.png 2x\" alt=\"Crowdin | 為科技公司提供的敏捷本地化解決方案\" /></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

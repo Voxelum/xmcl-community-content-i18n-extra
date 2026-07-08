@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dCsAtfsNomU=",
+  "content": "**Creosote Patch** 是一款輕量級相容性模組，讓玩家能用 **Immersive Engineering** 的 _木焦油_ 來製作 **「Create: The Factory Must Grow」** 中的 _硬化木板_。原版 TFMG 使用其自有的木焦油，與其他模組 _不相容_。本模組額外新增了一個配方，使用 **Immersive Engineering** 的 _木焦油_ 液體，但不會修改或取代原始配方。\n\n此修補程式可隨時安全地新增或移除，不會覆蓋任何流體標籤或干擾現有內容，僅是新增一個資料驅動的配方，以改善 Forge 模組包中模組之間的互通性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

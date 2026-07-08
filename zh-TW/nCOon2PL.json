@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9V7anGuA8nI=",
+  "content": "# 自訂你的游標\n\n## **如果模組報告錯誤，請不要向原始模組提交任何錯誤報告！！！**\n\n允許你在遊戲內自訂游標，設定其大小和顯示樣式。\n\n使用 Fabric 版本時，若想在伺服器上修改游標的樣式或大小，請退出你的伺服器，進入單人遊戲，輸入\n\n```\n/customcursor\n```\n命令以開啟模組的圖形介面，然後進行設定。\n\n此模組是 [Cursor Mod](https://modrinth.com/mod/cursormod) 的移植版本。\n\n保留了原始模組的功能，並新增了一項特性：調整每個游標顯示的大小。\n\n<span style=\"color:#E67E23;\">目前支援的 Forge/NeoForge 版本為 1.20+</span>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

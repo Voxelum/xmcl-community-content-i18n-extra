@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wwawKtWd0Ug=",
+  "content": "<h2>Iris / Oculus 与 GeckoLib 兼容补丁</h2><p><strong>在 1.20.1+ 版本的 GeckoLib 中已不再需要此模组！仅当您因使用旧版 GeckoLib 导致动画出现异常时才需要添加。</strong></p><p><br>修复了使用带有实体阴影的着色器包时，GeckoLib 实体动画无法正常工作的问题。</p><p>&nbsp;</p><p>以下是 GeckoLib 实体在使用 Insanity Shader 并开启实体阴影时的正常运作示例。</p><p><span><span><iframe src=\"https://www.youtube.com/embed/5kLo4HdSz44?wmode=transparent\" width=\"638\" height=\"358\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

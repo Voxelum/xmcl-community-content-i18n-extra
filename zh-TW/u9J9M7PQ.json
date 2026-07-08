@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yCEivFIgckw=",
+  "content": " ![Banner](https://i.imgur.com/m0gMQ6C.png)\n\n關於這個模組\n \n\n這個模組新增了更多動物部位，有些部位能提供較高的飽食度，有些則能補充更多飢餓值。\n這個模組的誕生，是因為我另一個模組（Butcher's Delight）的一些玩家再次要求掉落這些部位。\n原本設計是與 Butcher's Delight 一起使用，但也可以獨立運作。\n\n功能與機制\n \n\n目前每種動物最多新增三個動物部位。\n所有動物部位都可以在熔爐、煙燻爐或營火上烹煮。\n\n ![All food](https://i.imgur.com/0arPkmC.png)\n\n包含的動物：\n\n牛、\n豬、\n羊、\n山羊、\n美洲駝、\n野豬獸。\n \n\n屠夫村民會交易生的和熟的動物部位。\n\n ![trades](https://i.imgur.com/dFrIKHM.png)\n\n\n\n \n\n如果有安裝 Farmer's Delight，可以使用砧板將這些部位切成更小的塊（x2 原版數量）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

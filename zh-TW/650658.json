@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WtTSgaQqFqc=",
+  "content": "<p>本專案旨在修復與寧靜季節（Serene Seasons）計時機制相關的問題。\n提供可靠且一致的替代計時邏輯。\n以下問題已得到解決：</p><ul>\n<li>睡覺或以其他方式改變世界時間時跳過計時。</li>\n<li>切換單人世界而不重新啟動時跳過計時。</li>\n<li>季節時間相對於世界時間推進，這意味著如果日子因任何原因變慢或變快（例如沙漏模組），季節時間將以相同的速率推進。</li>\n<li>極輕微的性能改進，計時機制在無關的維度中被跳過，除非在寧靜季節配置中列入白名單。</li>\n<li>為清晰起見，季節指令在不受支援的維度中運行時將給出適當的訊息。</li>\n</ul><p>從 1.1.0 版本開始：</p><ul>\n<li>新增 <code>/season time</code> 子指令：\n<ul>\n<li><code>set</code>/<code>add</code>：允許準確設定季節時間，類似於 Minecraft 的 <code>/time set/add</code></li>\n<li><code>info</code>：顯示當前維度的世界時間/季節時間的準確資訊。對於判斷世界是否出現不同步問題非常有幫助。</li>\n<li><code>sync</code>：強制季節時間與世界時間重新同步。</li>\n</ul>\n</li>\n<li>新增伺服器配置以停用模組功能。主要用於除錯。</li>\n</ul><p>注意：\n對於 Minecraft 1.20.1，本模組支援寧靜季節 9.0.0.46 或更低版本。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

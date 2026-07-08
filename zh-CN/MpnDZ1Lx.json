@@ -1,0 +1,6 @@
+{
+  "bodyHash": "L9syzTDIqlw=",
+  "content": "这个模组只是对 [Carry On] 进行了修补，使其能够捡起来自 [Create Aeronautics] 模拟载具上的方块，如箱子及其他容器（或来自 [Sable] 的任何子层级）。轻松将你的存储从无聊的静态地面搬到酷炫的移动基地！\n\n本补丁与我的另一个模组 [Carry On + Valkyrien Skies Compat] 类似，但更为通用，且适配更新的版本。同时它还包含了一些修改，防止 Create Aeronautics 的方块被捡起。\n\n由于修复方式更为简单，希望 [我的拉取请求](https://github.com/Tschipp/CarryOn/pull/944) 能成功合并到 Carry On 中，这样所有人都能从中受益，本补丁模组也不再需要。（如果支持，请点个赞。）\n\n## 已知问题\n\n- ~~Create Aeronautics 的方块可以被捡起，据报道会导致游戏崩溃。~~ 已在 `v1.1.0` 版本修复。\n- 捡起玩家并将其放置到模拟载具上时，玩家会被传送到奇怪的坐标 / 导致服务器卡死并崩溃。目前请先在 `config/carryon-common.toml` 中禁用 `pickupPlayers` 选项。（[问题链接](https://github.com/ryanhcode/sable/issues/745)）\n\n[Carry On]: https://modrinth.com/mod/carry-on\n[Create Aeronautics]: https://modrinth.com/mod/create-aeronautics\n[Sable]: https://modrinth.com/mod/sable\n[Carry On + Valkyrien Skies Compat]: https://modrinth.com/mod/carryon-vs-compat",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

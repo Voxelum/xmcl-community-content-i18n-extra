@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FGfctJXjUlc=",
+  "content": "![header](https://cdn.modrinth.com/data/cached_images/db09edf9eb7aaf40b90dc038930aa2f25f3064f6_0.webp)\n\nDrink Water 為 Minecraft 添加了簡單的口渴系統，支援直接飲水與可重複使用的水壺。\n\n![features](https://cdn.modrinth.com/data/cached_images/6cf6bb8986a77e1a7a72c91ddfdb9f03024d920e.jpeg)\n\n- 直接從水源飲水\n- 可重複使用的水壺，具備可見的水量顯示\n- 清晰的口渴 HUD 與飲水進度條\n- 游泳或靜止時口渴值不會下降\n- 水下 HUD 會乾淨地隱藏，避免與氣泡重疊\n- 水下無法使用水壺飲水\n\n![Screenshot](https://cdn.modrinth.com/data/cached_images/f130ef019f0edeaabb71f8e379f41b348eb65fa7_0.webp)\n![screenshot1.1](https://cdn.modrinth.com/data/cached_images/c9a2dcfe35e198edeea6bdb3e3528ad9ea4fc115_0.webp)\n![Screenshot1](https://cdn.modrinth.com/data/cached_images/57f02ac4e39a2e96428b6399d7ff92a60edc8acd_0.webp)\n![screen2](https://cdn.modrinth.com/data/cached_images/51cc08c15e7dc3121fced5acebfdc8a156fc627f_0.webp)\n\n![command](https://cdn.modrinth.com/data/cached_images/eb663ad412b19b6855aaacd7f981e7383f116c00.jpeg)\n\n- `/waterlevel <數字>` 僅限管理員使用\n\n- `/water help` 顯示模組資訊、支援連結與指令說明\n\n![support](https://cdn.modrinth.com/data/cached_images/bf8bcc744348c108c15bc6f6e167f76295656ec0.jpeg)\n\n遇到問題或需要協助？\n[**加入我們的 Discord 獲取支援**](https://discord.gg/yeKWz9jabP)\n\n**由 SamQ 用心製作 ❤️**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

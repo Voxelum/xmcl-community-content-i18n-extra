@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OWFFsriDl+o=",
+  "content": "## Satin Free\nНовые версии оригинального мода [Wakes](https://modrinth.com/mod/wakes) зависят от [Satin API](https://modrinth.com/mod/satin-api), что ухудшает вашу производительность. Этот форк обновляет Wakes до версии 1.21 (последней версии без Satin). По сравнению с оригиналом вы можете ожидать увеличения частоты кадров вплоть до 3 раз, в зависимости от остальных ваших модов.\n\n# Wakes\n### Этот мод призван добавить простые следы, соответствующие духу исходной игры\n\n![Брызги и следы](https://github.com/Commander07/wakes/blob/main/imgs/features_0.2.2.png?raw=true)\n\n*Брызги при падении в воду и имитация следов*\n\n### Особенности\n- Имитация волн вокруг всех объектов\n- Волны появляются на веслах лодки\n- Брызги при падении в воду\n- Струи воды, бьющие в обе стороны\n- Необязательные конфигурации отладки и внешнего вида с помощью [YACL](https://modrinth.com/mod/yacl) (YetAnotherConfigLib). Доступ к ним можно получить через меню [ModMenu](https://modrinth.com/mod/modmenu).\n- Поддержка шейдеров Iris (известные совместимости [здесь](https://github.com/Commander07/wakes/blob/main/shader_compat.md))",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

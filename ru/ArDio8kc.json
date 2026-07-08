@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pQ2m2BZO7ZA=",
+  "content": "Это форк, который я сделал для обновления мода «cc-ballistx», первоначально созданного Presti, — мод добавляет периферийное устройство, позволяющее управлять ракетным шахтом из мода BallistX. Также благодарю CamoHax за модель блока.\n\nЧтобы взаимодействовать с ракетными шахтами BallistiX с помощью компьютера, вам нужно разместить контроллер шахты под центральным блоком шахты. После этого вы сможете получить доступ к периферийному устройству по его имени «siloController» (например, peripheral.find(\"siloController\"), или используя функцию wrap для получения его из определённого направления (например, peripheral.wrap(\"top\")).\n\nКонтроллер шахты обладает следующими функциями:\n- launch() и launchWithPosition(int x, int y, int z)\n- getFrequency() и setFrequency(int freq)\n- getPosition() и setPosition(int x, int y, int z)\n- getExplosiveType() и getExplosiveAmount()\n- getMissileType() и getMissileAmount()\n- getPower() и getMaxPower()",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

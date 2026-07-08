@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EgWP0Wi+jqo=",
+  "content": "![村莊名稱橫幅](https://i.imgur.com/98G02wE.png \"Village Names banner\")\n\n《村莊名稱》模組將現代村莊結構和村民外觀移植回舊版本，並為村莊、村民及其他結構和生物賦予隨機名稱。此模組提供了大量關於村莊生成和生物命名的自定義選項。\n\n多年來開發的部分功能：\n* 全新的村莊生成器，能夠放置除了礫石以外的道路方塊，甚至在1.7版本中使用特定的移植草徑方塊。\n* 移植及自訂的[村莊組件](https://gitgud.io/AstroTibs/VillageNames/-/wikis/village-generator/village-components)\n* 高度可配置的村莊規模與組件\n* 高度可配置的音節池，用於名稱生成\n* 專屬的命名告示牌、旗幟，以及每個村莊偏好的顏色\n* 一個自訂物品（Codex），用於為受支援的非村莊結構生成名稱，可透過給予圖書管理員或製圖師綠寶石與鐵錠/金錠獲得，或作為寶箱戰利品找到\n* 可配置的生物列表，能讓生物在生成時自動獲得名稱，或透過右鍵點擊賦予名稱\n* 村民的皮膚色調取決於其生成的生物群落\n* 在1.7版本中支援類似職業的專業細分\n* 修改後的村民交易池，並為圖書管理員和製圖師新增「寶藏」交易\n* 基於生物群落與職業的模組化村民服裝\n* 將製圖師村民移植回舊版本，並在可行情況下加入傻子村民\n* 將混凝土和釉陶移植回舊版本\n* 將深海守衛、海底遺跡和海磷石移植回1.7版本\n* 將冰屋移植回1.7和1.8版本\n\n\n以下是功能展示影片：\n\n[![村莊名稱4功能展示](http://img.youtube.com/vi/bw0qac02ezU/0.jpg)](http://www.youtube.com/watch?v=bw0qac02ezU \"村莊名稱4功能展示\")\n\n[![村莊名稱3.1功能展示](http://img.youtube.com/vi/pA67oAriBIM/0.jpg)](http://www.youtube.com/watch?v=pA67oAriBIM \"村莊名稱3.1功能展示\")\n\n[![村莊名稱1.1功能展示](http://img.youtube.com/vi/jMKqmLUuaAc/0.jpg)](http://www.youtube.com/watch?v=jMKqmLUuaAc \"村莊名稱1.1功能展示\")",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

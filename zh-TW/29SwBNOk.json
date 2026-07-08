@@ -1,0 +1,6 @@
+{
+  "bodyHash": "oY2iiItZIg0=",
+  "content": "改善史萊姆並使其可配置。\n\n史萊姆現在可以合併與分裂，並進行了視覺升級。\n\n所有新的遊戲機制與視覺行為均可調整設定。\n\n### 變更內容：\n\n- 史萊姆動畫現在流暢，遊戲過程中不再卡頓。\n- 新增額外擠壓動畫以預示史萊姆跳躍動作。\n- 新增根據史萊姆尺寸（最大至尺寸4）的像素一致性紋理。\n- 新增生成動畫。\n- 新增分裂動畫，並搭配全新音效。\n - 分裂時會發射粒子效果\n- 陰影現在會根據史萊姆的「擠壓」動畫正確縮放。\n- 史萊姆現在可以彼此合併。\n- 岩漿立方怪使用完全獨特的音效組。\n\n### 配置需求：\n\n- 需搭配 [FrozenLib](https://modrinth.com/mod/frozenlib)、[Cloth Config](https://modrinth.com/mod/cloth-config) 及 [Mod Menu](https://modrinth.com/mod/modmenu) 方可進行遊戲內設定\n\n[![使用優惠碼 FROZENBLOCK 於 Kinetic Hosting 享首月 15% 折扣！](https://i.imgur.com/9ZfqfCq.png)](https://tinyurl.com/3xhmk7fb)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

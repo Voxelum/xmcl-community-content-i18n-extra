@@ -1,0 +1,6 @@
+{
+  "bodyHash": "g9D0fDdl0sU=",
+  "content": "# TreSet 的騎乘資訊顯示模組 (RideHud)\n\n![預設 HUD 設定顯示](https://github.com/Tre5et/ridehud/blob/1.18/banner.png?raw=true \"Display of default HUD settings\")\n\n## 說明\n\n這個僅限客戶端的模組會在騎乘馬、驢或騾子時顯示生命值、速度和跳躍高度的資訊，騎乘駱馬時則顯示生命值。\n\n預設按下 H 鍵可開啟設定頁面，也可透過 [模組選單](https://modrinth.com/mod/modmenu) 存取。\n\n## 喜歡這個模組嗎？\n\n不妨看看 <img src=\"https://treelauncher.net/icon.svg\" width=\"14\" height=\"14\"/> [TreeLauncher](https://treelauncher.net/)，這是一款基於組件的 Minecraft 啟動器。\n\n## 安裝設定\n\n此模組需要 [VanillaConfig](https://modrinth.com/mod/vanillaconfig)（自 1.2.0 版起）！\n\n將 [發佈版本](https://modrinth.com/mod/ridehud/versions) 中的 .jar 檔案放入您的 Minecraft 模組資料夾。\n\n## 功能列表 (v1.2 版)\n\n- 以原版風格顯示馬、驢、騾子和駱馬的狀態\n- 以透明方式顯示不可用的愛心\n- 顯示跳躍高度條，相對於馬匹可能擁有的最高和最低跳躍高度\n- 顯示最大速度條，相對於馬匹可能擁有的最高和最低最大速度\n- 簡易設定選單\n- 可選的文字形式狀態顯示\n- 可選的「去 OP 化」顯示模式，在條上顯示當前跳躍高度/速度而非最大值\n- 完全可翻譯（目前僅提供德文，因為我是德國人）\n- 可移動的條和愛心，以與如 [Better Mount Hud](https://modrinth.com/mod/better-mount-hud) 等模組相容\n\n## 授權\n\n此模組採用 GNU GPLv3 授權。歡迎自由重新分發、修改並將其納入您自己的開源專案中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MQOO7iHtfoI=",
+  "content": "<p>如同<a href=\"https://www.curseforge.com/minecraft/mc-mods/language-reload\" rel=\"nofollow\">原始模組</a>一般。</p><p><em>請勿向原始模組回報錯誤。</em></p><p>語言重載非官方版是一個（Neo）Forge模組，為語言相關功能添加了生活品質改善。</p><p>功能</p><ul>\n<li>無需重新載入資源包即可快速切換語言</li>\n<li>語言選單中加入搜尋框</li>\n<li>多語言選擇\n<ul>\n<li>每一種語言的翻譯會覆蓋其下方語言的翻譯。</li>\n</ul>\n</li>\n<li>多語言物品搜尋\n<ul>\n<li>允許在創造模式物品欄及合成表中以任何選取的語言進行搜尋。</li>\n<li>可透過模組選單或直接編輯模組設定檔來停用此功能。</li>\n</ul>\n</li>\n<li>若 options.txt 中無 lang: 設定時，自動偵測語言</li>\n<li>使用 F3 + J 重新載入語言，並使用 Shift + F3 + J 循環切換語言</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

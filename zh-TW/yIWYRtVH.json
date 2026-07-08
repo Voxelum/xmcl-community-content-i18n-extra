@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2lE3us4ivyk=",
+  "content": "此專案為 PvP 添加了一個輕量級的客戶端命中追蹤器。它能即時顯示你擊中對手的次數以及對手擊中你的次數。計數器在戰鬥中會即時更新，設計上力求簡潔不干擾遊戲進行。使用者介面可透過 **/hittracker customize** 指令完全拖曳自訂，讓你能將元件放置於畫面上的任何位置。版面配置能適應不同 HUD 尺寸，並提供清晰的數字與視覺回饋，讓你一目了然地追蹤連擊與攻防交換。（使用 _**/hittracking**_ 可啟用追蹤功能。）此外，本模組還添加了可自訂的 HUD，可透過 **/customhud _(fps,edit,ping,ram,keystroke)_** 切換顯示。\n\n## （快捷鍵：H）\n\n![選單](https://cdn.modrinth.com/data/cached_images/9d605598db212f7ae7725a9c1c3de6d4a602acd1_0.webp)\n\n![命中追蹤器](https://cdn.modrinth.com/data/cached_images/36f9b02693bf87b3728b3c98a3536cb1b4c3ec64.png)\n\n![視覺化介面](https://cdn.modrinth.com/data/cached_images/20678fdf7929ffe27b21de6f49e1de48a7c26f25.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

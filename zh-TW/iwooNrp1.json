@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ed0Ix3bWw3o=",
+  "content": "殭屍、屍殼和沉屍在生成時，身上可能會有物品突出，讓牠們顯得更獨特一些。\n\n此外，這些物品有很小的機率會在牠們死亡時掉落，而掉落的物品取決於牠們來自哪個物品清單。\n\n共有 4 個階層（清單）\n\n<details>\n<summary>劇透</summary>\n\n- 常見（箭矢）\n\n- 罕見（木製、金製、石製工具及 spectral arrow）\n\n- 稀有（鐵製工具及剪刀）\n\n- 史詩（鑽石工具）\n\n</details>\n\n \n\n這些設定可以在物品標籤資料夾中找到並修改。\n\n掉落的機率可以透過 config 資料夾中的設定檔進行調整。\n\n你也可以更改在選取最多 3 個物品時，要從哪個物品清單中選擇的機率。\n\n \n\n模組目前支援\n\n**Forge 26.1.x | 1.21.x | 1.20.1**\n\n**Neoforge 26.1.x | 1.21.x**\n\n**Fabric 26.1.x | 1.21.x | 1.20.1**\n\n \n\n如果你需要不同版本的模組，或在 CurseForge 上遇到任何錯誤，請傳送私訊給我。\n\n[https://legacy.curseforge.com/members/aquarius_playz/projects](https://legacy.curseforge.com/members/aquarius_playz/projects)\n\n \n\n在 X（推特）上追蹤我\n\n[https://x.com/Aquarius_playz](https://x.com/Aquarius_playz)\n\n\n![aquariuslibs](https://cdn.modrinth.com/data/KkHnyaL6/7d506caf48d26f964f4f789553ce757cfe868742_96.webp)\n\n**[此模組需要安裝 AQUARIUSLIBS](https://modrinth.com/mod/aquarius-libs)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

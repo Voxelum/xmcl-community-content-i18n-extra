@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NKP5zob+owg=",
+  "content": "这是一个可配置的钓鱼模组。它的工作原理是，每当你通常会钓到一条鲑鱼物品时，它会生成一条活鲑鱼！\n\n[![演示视频](https://img.youtube.com/vi/MLGqE1s8gpI/0.jpg)](https://www.youtube.com/watch?v=MLGqE1s8gpI)\n\n猜猜看？\n\n它完全支持数据包！事实上，整个模组使用数据包来进行物品到实体的转换！\n\n将你的JSON文件放在一个名为fishing的文件夹中，并重新加载你的数据包，即可立即钓到新的实体！\n\nJSON格式如下：\n\n```json\n{\n    \"input\": {\n        \"item\": \"minecraft:tropical_fish\"\n    },\n    \"result\": {\n        \"id\": \"minecraft:tropical_fish\"\n    }\n}\n```\n\n这会将minecraft:tropical_fish物品转换为minecraft:tropical_fish实体！\n\n我们甚至可以为实体添加NBT数据！\n\n```json\n{\n    \"input\": {\n        \"item\": \"minecraft:tropical_fish\"\n    },\n    \"result\": {\n        \"id\": \"minecraft:tropical_fish\",\n        \"nbt\": {\n            \"Variant\": 117834241\n        }\n    }\n}\n```\n\n这将每次都生成一个非常特定的热带鱼！\n\n<sub>另外，如果你想覆盖其中一个原版物品，创建一个命名空间为fishingreal的数据包，并覆盖cod.json、pufferfish.json、salmon.json或tropical_fish.json</sub>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

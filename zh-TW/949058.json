@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cClMn7NGNns=",
+  "content": "<p>一款植物魔法（Botania）的附加模組，能改變部分植物魔法功能的運作方式，以實現自訂設定。</p><p>本模組旨在讓整合包製作者能輕鬆調整數值（例如花朵產出或消耗魔力的多寡），提供更高程度的自由度。</p><p>此外，它也附帶（可設定的）Jade 與 WTHIT 附加元件，能在提示框中顯示實用資訊。</p><p><img src=\"https://i.imgur.com/qcBCOXW.png\" alt=\"魔力池提示框\" width=\"388\" height=\"108\"></p><p><img src=\"https://i.imgur.com/pBfi2C4.png\" alt=\"魔力發射器提示框\" width=\"388\" height=\"113\"></p><p><img src=\"https://i.imgur.com/2CsHoI3.png\" alt=\" Orechid 提示框\" width=\"387\" height=\"101\"></p><p>設定檔的結構如下：<br>botania_editor-client.toml（位於 .minecraft 資料夾中），用於 Jade / WTHIT 附加元件<br>各項功能的專屬設定檔，位於世界資料夾中的 serverconfigs/botania_editor</p><p><strong>如有錯誤或建議，歡迎使用 GitHub Issues 回報</strong></p><p>&nbsp;</p><p><strong>（感謝植物魔法創作者的所有素材，包括本模組標誌所參考的原始標誌）</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

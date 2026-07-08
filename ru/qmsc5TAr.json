@@ -1,0 +1,6 @@
+{
+  "bodyHash": "g2EEsJNvuu4=",
+  "content": "<p align=\"center\">\n    <img src=\"https://github.com/ItsPasi/fps-sync/blob/1.21.11/docs/Mod%20Icon%20Animation%20Small.webp?raw=true\">\n    <h1 align=\"center\">FPS-Sync</h1>\n</p>\n\nFPS-Sync автоматически ограничивает частоту кадров до частоты обновления вашего монитора. Это отличается от V-Sync и не добавляет задержки ввода в игру.\n\nМод также позволяет устанавливать индивидуальные ограничения кадров — до 1000 FPS.\n\nСлайдер частоты кадров в Minecraft теперь включает новую опцию «FPS-Sync» на крайнем левом положении. Выберите её, чтобы активировать мод.\n\n![Настройки FPS-Sync](https://github.com/ItsPasi/fps-sync/blob/1.21.11/docs/Settings%20Menu.png?raw=true)\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

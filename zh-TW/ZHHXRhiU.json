@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dO6tZ3oNFMI=",
+  "content": "# Iam 音樂播放器\n\n這個模組新增了一個可以在遊戲中播放音樂的轟炸機音響。  \n建立播放清單與多位使用者分享音樂。\n\n支援多人連線播放。\n\n依賴模組\n\n通用  \n[Otyacraft Engine](https://modrinth.com/mod/otyacraft-engine)  \n[Architectury API](https://modrinth.com/mod/architectury-api)  \n[Cloth Config API](https://modrinth.com/mod/cloth-config)  \n\nFabric  \n[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n\nQuilt  \n[Quilt 標準函式庫](https://modrinth.com/mod/qsl)\n\n選用模組  \n[Patchouli](https://modrinth.com/mod/patchouli/versions) 遊戲中將新增一本手冊",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

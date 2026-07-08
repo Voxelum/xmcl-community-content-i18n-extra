@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cVhJsaxWUJU=",
+  "content": "<p><img src=\"https://hrznstudio.com/curse/unstable.png\" width=\"2360\" height=\"500\">&nbsp;</p><p>Простой мод-библиотека, который могут использовать моды для расширенных утилит.</p><p>&nbsp;</p><p>Текущая поддержка</p><ul>\n<li>Поддержка контроллеров (незавершённая)</li>\n<li>Частичная поддержка GUI</li>\n</ul><p>В настоящее время эти функции имеют ошибки и не завершены; вы можете обнаружить, что некоторые вещи работают не так, как ожидалось. Мы просим вас сообщать о проблемах и предлагать исправления для тех функций, которые вам не нравятся, особенно для новых схем управления.</p><p>&nbsp;</p><p>Это может повлиять на ваш игровой процесс — используйте на свой страх и риск.</p><p>&nbsp;</p><p>Использование</p><pre>repositories {\n\tmaven {\n\t\turl \"https://hrznstudio.com/maven/release\"\n\t}\n\tmaven {\n\t\turl \"https://hrznstudio.com/maven/snapshot\" // Используйте этот Maven для бета-версий\n\t}\n}\n\ndependencies {\n    provided 'com.hrznstudio.roadworks:roadworks-sdk-forge:[VERSION]:api' // Может быть включён в мод, сам по себе ничего не делает\n    runtime 'com.hrznstudio.roadworks:roadworks-sdk-forge:[VERSION]:deobf'\n}\n</pre><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

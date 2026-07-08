@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jt1Z4itf6DE=",
+  "content": "###  特性\n- 广泛的模组兼容性：支持遥远地平线、Voxy、Colorwheel 等\n- 多种预设配色方案\n- 功能全面且可自定义的雾效系统\n- 多种云层样式\n- 基于光照贴图或阴影贴图的阴影效果\n- 全面的色彩分级功能（饱和度、曝光度、色彩平衡工具等）\n- 便捷的颜色调整功能\n###  兼容性\n- 目前仅测试了 1.17 及以上版本，更早版本可能无法正常运行\n- 支持 Windows 和 Linux 平台上的现代 Nvidia、AMD 及 Intel 显卡，Mac 设备可能无法正常运行\n- 请使用最新版 Iris（支持自定义着色器的任意版本均可），Optifine 存在少量兼容问题但基本能正常使用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

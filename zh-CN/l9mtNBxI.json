@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1qieCMVwL7Y=",
+  "content": "允许将滚动操作绑定到特定动作，并创建模拟滚动行为的按键绑定。至于这些绑定能否正常作用于您设置的滚动功能，取决于您的具体配置。\n\n新增滚动回调功能，支持横向滚动操作，并可在游戏过程中取消滚动响应。是的，Architectury API 也具备类似功能，但本模组专注于滚动交互优化，因此体积更为轻量化。\n\n目前暂未搭建Maven仓库，请直接使用Modrinth Maven获取资源。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

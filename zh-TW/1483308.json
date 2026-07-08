@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lw8LYNtaDNc=",
+  "content": "<p><strong>TatamiCraft</strong> 新增了日式傳統建築方塊：塌塌米（畳）。</p><p>此模組加入了 <strong>塌塌米等日式建築元素方塊</strong>，讓玩家能打造正統的日式室內空間與建築。</p><p><img src=\"https://cdn.modrinth.com/data/cached_images/bd47656a1e27f0b2e6e6d2832631e99e13634589.jpeg\" alt=\"塌塌米方塊\"></p><h3>獲取方式</h3><p>使用以下指令：</p><pre><code>/give @p tatamicraft:tatami\n/give @p tatamicraft:tatami_half</code></pre><h3>合成方式</h3><p>塌塌米可使用小麥與線合成：</p><pre><code>W W\nS S</code></pre><ul>\n<li>W = 小麥</li>\n<li>S = 線</li>\n</ul><p>也可合成半塊塌塌米，或將整塊塌塌米分成兩半。</p><p>塌塌米方塊可使用標準 Minecraft 染料染成 10 種以上不同顏色。</p><h3>特色</h3><ul>\n<li><strong>塌塌米及日式建築方塊</strong></li>\n<li><strong>薄型方塊設計</strong> 類似地毯，適合地板與室內裝飾</li>\n<li>專為 <strong>日式房屋、寺廟及傳統房間</strong> 設計</li>\n<li>輕量簡約的建築向模組</li>\n</ul><h3>相容性</h3><ul>\n<li><strong>Minecraft 版本：</strong><ul>\n<li>1.20.1&nbsp;</li>\n<li>1.21.11+</li></ul></li>\n<li><strong>模組載入器：</strong><ul>\n<li>Fabric</li>\n<li>NeoForge</li></ul></li>\n</ul><hr><h3>v1.1.0 更新內容：拉門方塊</h3><p>1.1.0 版本新增了 <strong>拉門方塊 (Fusuma)</strong>，即日式塌塌米房間與和風室內常用的傳統滑門。</p><p>拉門方塊專為搭配塌塌米地板與其他日式建築方塊而設計，讓玩家能更輕鬆打造正統的和室、寺廟、旅館及傳統房屋。</p><p>這些方塊可作為裝飾隔間或室內門使用，幫助玩家建造更細緻的日式空間。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

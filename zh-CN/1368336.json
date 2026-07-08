@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ms9DD4AbL2M=",
+  "content": "<hr><h1>Minecraft 1.20.1 火力压制模组</h1><p>火力压制模组为Minecraft添加了<strong>真实的压制机制</strong>，通过模拟在密集火力下的心理影响来增强战斗沉浸感。当玩家遭受压制火力时，模组会影响其射击精度、视野和移动能力，创造更具战术性和紧张感的游戏体验。</p><h2>特色功能</h2><ul>\n<li>动态视觉效果：包括屏幕震动、模糊和边缘暗化</li>\n<li>压制状态下武器精度下降和移动速度减缓</li>\n<li>可配置的压制强度和效果持续时间</li>\n<li>与热门枪械模组无缝集成</li>\n</ul><h2>兼容性</h2><p>本模组与TaCZ（永恒与经典零点）模组完全兼容，这是Minecraft中最精细先进的枪械模组之一。通过将TaCZ丰富的武器库和真实武器机制与动态压制效果相结合，共同模拟战场压力，提升战术游戏体验。</p><h2>运行要求</h2><ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge模组加载器</li>\n<li>建议安装TaCZ模组以获得完整兼容性优势</li>\n</ul><h2>安装说明</h2><ol>\n<li>安装Minecraft Forge 1.20.1</li>\n<li>将<code>SuppressionMod-x.x.x.jar</code>文件放入<code>mods</code>文件夹</li>\n<li>确保在同一文件夹中安装TaCZ以获得增强交互体验</li>\n<li>使用Forge配置文件启动Minecraft</li>\n</ol><h2>作者信息</h2><p><strong>Nikita Liko</strong><br>\nGitHub: <a href=\"https://github.com/NikitaLiko\" rel=\"nofollow\">https://github.com/NikitaLiko</a><br>\n项目仓库: <a href=\"https://github.com/NikitaLiko/SuppressionMod\" rel=\"nofollow\">SuppressionMod</a></p><hr>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

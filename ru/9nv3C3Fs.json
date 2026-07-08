@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vaD9/2aK1tY=",
+  "content": "Звук смерти от Уиттера воспроизводится при гибели игрока\n\n# ПРИМЕЧАНИЕ: ЭТОТ МОД НАХОДИТСЯ В БЕТА-ВЕРСИИ, НЕКОТОРЫЕ ФУНКЦИИ МОГУТ НЕ ВОСПРОИЗВОДИТЬ ЗВУК. ПЕРЕЙДИТЕ ВНИЗ ЭТОЙ СТРАНИЦЫ, ЧТОБЫ УЗНАТЬ, КАКИЕ ФУНКЦИИ РАБОТАЮТ, А КАКИЕ — НЕТ!\n\nГлобальные команды звука (500 блоков):\n\n## Глобальные настройки\n\nВыберите, слышите ли вы звук на расстоянии 500 блоков (Глобальное ОТКЛЮЧЕНИЕ) или по всему миру/серверу (Глобальное ВКЛЮЧЕНИЕ)\n\n### Команда Глобальное ВКЛЮЧЕНИЕ:\n\n/функция global_sound:global_on\n\n### Команда Глобальное ОТКЛЮЧЕНИЕ:\n\n/функция global_sound:global_off\n\nВидео-презентация:\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5PaFbC-a4x8\" title=\"Плеер видео YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Прогресс мода\n\nМеч ✅\n\nТопор ✅\n\nБулава ✅\n\nКопьё ✅\n\nДинамит ✅\n\nПустота ❌\n\nДинамитные тележки ✅\n\n/Убить или /Урон ❌\n\nЛава ❌\n\nУтопление ❌\n\nМобы ✅\n\nУрон от падения ❌",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

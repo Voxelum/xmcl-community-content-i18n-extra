@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JX8VcIpRk1A=",
+  "content": "# ProjectE: 为斯派克特姆添加EMC值\n\n让[斯派克特姆](https://modrinth.com/mod/spectrum)与[ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)一同游玩时，其宝石和矿石不再没有EMC值。这款纯数据附加包为基础EMC覆盖提供了支持。\n\n- **精心调校的EMC值**，涵盖斯派克特姆的宝石（黄玉碎片、茶晶碎片、缟玛瑙碎片、月光石碎片）和开采资源（粗蓝铜矿、粗孔雀石、微光石、帕塔利亚晶、地层岩、新元古石、碎裂基岩、剧毒粉末）。\n- 通过这些材料按照模组原版风格配方合成的物品，其EMC值**会自动衍生**。\n\n本模组不添加任何物品、方块或合成配方——仅包含EMC数据。数值会在世界加载时生效；打开转化桌即可查看。\n\n**仅提供基础覆盖。** 斯派克特姆是一款内容极其丰富的模组，其机器配方（基座、融合祭坛、精华注炼器等）无法被ProjectE自动推导，因此在初版中，仅有宝石、矿石及它们的直接合成品拥有EMC值——深层机器专属内容暂未覆盖。带有状态属性的装备和饰品按设计理念不赋予EMC值。\n\n**前置模组**\n\n- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) —— 必需\n- [斯派克特姆](https://modrinth.com/mod/spectrum) —— 必需\n- NeoForge 1.21.1\n\nEMC数值是经过深思熟虑的初版设定；欢迎在问题追踪器中提交关于平衡性和覆盖范围的反馈。\n\n采用MIT协议。斯派克特姆由DaFuqs及贡献者制作（LGPL-3.0协议）；ProjectE由sinkillerj及贡献者制作。本独立整合模组与上述模组无直接关联。源代码及问题反馈：https://github.com/KURONAMI333/spectrum-emc",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

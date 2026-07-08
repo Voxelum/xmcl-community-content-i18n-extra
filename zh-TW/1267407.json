@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OqWRqhVyGdk=",
+  "content": "<p># 使用工作站的告示牌快速重新整理村民特定交易</p><p>1. 在工作站上放置告示牌<br>2. 輸入少許字母或物品/附魔書的完整名稱（不含空格，空格請用底線 _）<br>3. 對工作站按右鍵重新整理交易，若成功村民和工作站會顯示綠色粒子，失敗則顯示紅色粒子</p><p># 告示牌上要寫什麼？&nbsp;<br>一般物品名稱如：</p><p>bread → 麵包</p><p>white_wool → 白色羊毛</p><p># 為什麼要用告示牌？</p><p>因為你不會用「嗯嗯嗯」跟村民溝通，所以寫在告示牌上<br>另外，一旦你建立了交易大廳，你不會想記住哪個村民提供什麼交易對吧？</p><p># 為什麼要有粒子效果？</p><p>這樣才能找到到處亂跑的村民……</p><p># 附魔書呢？&nbsp;</p><p>附魔書請輸入完整名稱或部分開頭名稱後加上附魔等級。<br>若未指定等級，預設會給予最高等級的附魔書</p><p>eff → 效率 V</p><p>eff 3 → 效率 III</p><p># 我還是搞不清楚要輸入什麼，我需要完整列表</p><p>完整列表維基頁面 ─ <a href=\"https://github.com/gulab9762/Librarian-filter/wiki\" target=\"_blank\" rel=\"nofollow\">https://github.com/gulab9762/Librarian-filter/wiki</a></p><p># 模組無法運作……</p><p>請先查看維基，若有新問題或建議請到 Discord 伺服器回報<br>Discord ─ <a href=\"https://discord.gg/bWWwkFryuA\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/bWWwkFryuA</a></p><p># 交易愉快！！嗯嗯嗯嗯嗯……</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

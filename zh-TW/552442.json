@@ -1,0 +1,6 @@
+{
+  "bodyHash": "odHXzVXPcC4=",
+  "content": "<p><img src=\"https://raw.githubusercontent.com/CoFH/Version/master/right_click_get_crops/logo.png\" alt=\"右鍵收割農作物\"></p><p>__活躍開發中__：Minecraft 1.18.2</p><p><strong>網站：<a href=\"/linkout?remoteUrl=https%253a%252f%252fteamcofh.com%252f\" rel=\"nofollow\">Team CoFH</a></strong></p><p><strong>Discord：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscordapp.com%252finvite%252fuRKrnbH\" rel=\"nofollow\">Team CoFH Discord</a></strong></p><p><strong>更新日誌：<a href=\"/linkout?remoteUrl=https%253a%252f%252fraw.githubusercontent.com%252fCoFH%252fVersion%252fmain%252fright_click_get_crops%252fchangelog.md\" rel=\"nofollow\">更新日誌</a></strong></p><hr><p>這是一個相當簡單的模組。就如同它的名字所說的一樣！</p><p>內含一個設定檔，允許您使用允許或禁止清單來管理各種農作物，並可選擇是否在右鍵收割後自動重新種植農作物。</p><p>它會智慧處理所有原版及衍生農作物的右鍵收割，同時也支援進階行為，例如CoFH的多年生及雙層高農作物。</p><p>如果有其他模組需要相容性調整，歡迎到Discord上詢問！:)</p><h3><strong>設定</strong></h3><ul>\n<li>_伺服端_：<code>right_click_get_crops-server.toml</code> 位於 <code>/saves/WORLD_NAME/serverconfigs</code> 資料夾中。</li>\n</ul><p>將此檔案複製到您的 <code>/defaultconfigs</code> 資料夾，即可將這些設定套用至所有新建的世界。</p><p>專用伺服器則會將此檔案存放於 <code>/world/serverconfigs</code></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

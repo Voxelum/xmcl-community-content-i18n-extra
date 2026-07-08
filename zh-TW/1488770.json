@@ -1,0 +1,6 @@
+{
+  "bodyHash": "m65t/EqxG6o=",
+  "content": "<div>\n<h1>馬肉模組</h1>\n<a href=\"https://github.com/djroberts/minecraft-mods?tab=readme-ov-file#horse-meat-mod\" rel=\"nofollow\"></a></div><p>一個為 Minecraft 加入馬肉物品和烹飪機制的模組。</p><div>\n<h2>特色</h2>\n<a href=\"https://github.com/djroberts/minecraft-mods?tab=readme-ov-file#features\" rel=\"nofollow\"></a></div><ul>\n<li><strong>生馬肉</strong>&nbsp;- 殺死馬時掉落</li>\n<li><strong>馬肉排</strong>&nbsp;- 使用熔爐或營火烹飪生馬肉（潛行 + 右鍵）</li>\n<li><strong>碎肉條（Frikandel）</strong>&nbsp;- 使用煙燻爐烹飪生馬肉（潛行 + 右鍵）</li>\n<li><strong>自訂烹飪系統</strong>&nbsp;- 手持生馬肉對烹飪方塊潛行 + 右鍵：\n<ul>\n<li>熔爐/營火 → 馬肉排</li>\n<li>煙燻爐 → 碎肉條</li>\n</ul>\n</li>\n<li><strong>食物與飲料分類</strong>&nbsp;- 所有物品都會顯示在標準的食物與飲料創造模式標籤頁中</li>\n</ul><div>\n<h2>物品</h2>\n<a href=\"https://github.com/djroberts/minecraft-mods?tab=readme-ov-file#items\" rel=\"nofollow\"></a></div><table>\n<thead>\n<tr>\n<th>物品</th>\n<th>食物值</th>\n<th>飽食度</th>\n<th>獲得方式</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>生馬肉</td>\n<td>3</td>\n<td>0.3</td>\n<td>馬死亡時掉落</td>\n</tr>\n<tr>\n<td>馬肉排</td>\n<td>8</td>\n<td>0.8</td>\n<td>在熔爐/營火中烹飪生馬肉</td>\n</tr>\n<tr>\n<td>碎肉條</td>\n<td>6</td>\n<td>0.6</td>\n<td>在煙燻爐中烹飪生馬肉</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ACCzrdmLJxk=",
+  "content": "![](https://media.forgecdn.net/attachments/705/977/ez-ss.png \"指令示範\")\n\n## 基本資訊\nEz Healing 在 Minecraft 中新增了一個 `/heal` 指令！這個指令的運作方式與 `/damage` 指令完全相同，不同之處在於它會治療目標而非造成傷害。該指令還有一個可選的 `value` 參數。如果您未提供該參數，指令預設會將目標的生命值恢復至全滿。\n## 更多細節\n顯然，這個模組僅設計用於生存模式。然而，目前存在一個錯誤，您也可以在旁觀者模式下治療自己，請注意這一點。\n在伺服器中，只有權限等級為 2 的使用者才能使用此指令。在單人遊戲中，任何玩家都可以使用該指令。\n**支援版本：** 1.19-1.20+**\n## 連結\n翻譯：https://poeditor.com/join/project/fCwa0aMYzo\n\nDiscord 伺服器：https://discord.gg/wM4CKTbFVN",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gwdQtflmbEM=",
+  "content": "# **自 Point Blank 1.7.6 起不再需要**\n现在可以在 Point Blank 的配置文件中禁用默认枪械。\n\n移除所有基础模组枪械、弹药和配件的合成配方，但不会从创造模式物品栏中移除它们。\n\n本项目与 Vic's Point Blank 模组团队无关，未获得其赞助或认可。\n\n**注意：当前版本移除了所有军火商交易。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42lRbxflLA0=",
+  "content": "Удаляет тяжёлое ядро из лут-пула.\n\n<details>\n<summary>Старое описание (только для версии 1.0) </summary>\n\n### Расширенная настройка \n\nС помощью этого датапака вы можете изменять предметы, выпадающие из лут-пула в камерах испытаний — просто распакуйте его и отредактируйте файл .json для лут-пула, который хотите изменить. Лут-пул, отвечающий за тяжёлое ядро, находится по пути:\n\n```\ndata\\minecraft\\loot_table\\chests\\trial_chambers\\reward_ominous_unique.json\n```\nИзмените значение(я), которое хотите заменить:\n\n```\n{\"type\": \"minecraft:item\", \"name\": \"minecraft:dirt\"}\n```\nпревращается в\n```\n{\"type\": \"minecraft:item\", \"name\": \"minecraft:netherite_ingot\"}\n```\n\n\n</details>\n\n\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

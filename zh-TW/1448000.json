@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6tI8okjcLJ8=",
+  "content": "<p>一般來說，EPCA 模組在適應時是不會提供視覺回饋的。</p><p>為了讓玩家更容易判斷被寄生的實體是否已經適應傷害，我製作了這個模組。</p><p>它修復了 <span style=\"color:#843fa1\">End-Parasitize and Convert All</span> 模組中的適應顯示問題。</p><p>如果適應不完全，會顯示<span style=\"color:#2dc26b\">綠色粒子</span>；如果完全適應，則會顯示<span style=\"color:#b96ad9\">紫色粒子</span>。</p><p style=\"text-align:right\">此模組必須搭配 EPCA 0.3.0 及以上版本使用，且 EPCA 模組為必要依賴項目。祝您遊戲愉快。 &nbsp;<br>— 由 <span style=\"color:#bfedd2\">ByteChen</span> 製作</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

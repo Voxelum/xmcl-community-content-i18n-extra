@@ -1,0 +1,6 @@
+{
+  "bodyHash": "H4ngQHemZHg=",
+  "content": "# 遊戲模式大改造\n\n還原已移除的指令參數，並新增一些簡寫指令。\n\n新增的指令（皆可設定）：\n* /gamemode 0/1/2/3/s/c/a/sp\n* /gm（/gamemode 的簡寫）\n* /defaultgamemode\n* /dgm（/defaultgamemode 的簡寫）\n* /difficulty 0/1/2/3\n* /toggledownfall",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

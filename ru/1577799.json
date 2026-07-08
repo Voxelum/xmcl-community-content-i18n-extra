@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VfwGum67edU=",
+  "content": "<p>Этот шейдер является модификацией «<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fshader%252fthe-next-shader\" rel=\"nofollow\">The-Next-Shader</a>», созданной Coldnight и выпущенной под лицензией Apache. Он нацелен на полуреалистичный стиль и высокую производительность, а также включает некоторые базовые функции, которых нет в оригинальной версии.</p><h2><strong>Особенности</strong></h2><ul>\n<li>GTAO (реалистичная окружающая окклюзия)</li>\n<li>RSM (отражающая карта теней)</li>\n<li>SSPT (трассировка лучей в экранном пространстве)</li>\n<li>Облачные объемы</li>\n<li>Плоские облака</li>\n<li>Блум</li>\n<li>Тонемап AGX</li>\n<li>Волны на воде</li>\n<li>Лужи дождя (из <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fshader%252fcomplementary-reimagined\" rel=\"nofollow\">Complementary</a> с разрешения :D)</li>\n<li>Мокрая поверхность</li>\n<li>Простое POM (параллаксовое отображение окклюзии)</li>\n<li>Атмосфера</li>\n<li>TAА (временная антialiasинг)</li>\n<li>Зеркальное отражение</li>\n</ul><p>Не знаю, что ещё добавить — попробуйте сами и убедитесь.</p><p>Этот шейдер был протестирован на процессорах Intel. Теоретически он должен работать и на AMD и на Nvidia, но я не уверен на 100%.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

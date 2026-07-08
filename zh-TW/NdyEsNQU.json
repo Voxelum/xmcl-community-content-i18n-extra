@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ItWNaSiApp8=",
+  "content": "**一款可透過 [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) 錄製玩家語音，並提供 API 來獲取與播放這些錄音的模組。  \n專為 [Revervox Mod](https://modrinth.com/mod/revervox) 打造並由其使用。**\n\n# 功能特色：\n- 開始、停止、播放指令\n- 將音訊以 .pcm 格式儲存於記憶體/硬碟中\n- 音效處理效果，如迴響、機器人化與音高調整\n\n本模組旨在為其他模組開發者提供基礎工具，例如可用於製作恐怖模組、趣味模組，或任何利用玩家語音實現功能的模組。\n\n# 製作群：\n- 程式設計：omiao、Nalien\n- Simple Voice Chat API 由 Max Henkel 提供",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

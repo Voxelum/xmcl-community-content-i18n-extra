@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VZnHYy49Hq4=",
+  "content": "# 龍族生存：冰與火之龍擴充模組整合\n\n本模組為 [Dragon Survival](https://www.curseforge.com/minecraft/mc-mods/dragons-survival) 與 [Ice And Fire Community Edition](https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce) 之間加入整合功能\n\n## 特色功能\n\n**以下功能僅在你身為龍族時才會啟用。**\n\n- 你可以使用龍息來啟動龍族鍛造台。\n- 在你發動攻擊前，龍族會保持中立態度。\n- 龍族盔甲可以穿戴於身上，並支援附魔效果與可調整的護甲值。（可在 `./config/dsiafi.json` 設定）\n\n```json5\n//dsiafi.json\n{\n  //物品 : 數值\n  //範例\n  \"iceandfire:dragonarmor_silver_body\": 100\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

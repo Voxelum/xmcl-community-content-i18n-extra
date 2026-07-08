@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3RrSNGYE8Vw=",
+  "content": "# **伺服器瀏覽器**\n\n你是否正在為剛下載的模組包尋找一個可用的模組伺服器？伺服器瀏覽器能讓你輕鬆找到可以遊玩的伺服器！\n\n這是一個專為模組包作者設計的模組，讓他們的玩家能更輕鬆地找到伺服器！\n\n如果你是伺服器擁有者，你可以<a href=\"https://minecraft.multiplayerservers.net/\"><strong>在此註冊</strong></a>\n\n如果你想為某個模組包提出標籤請求（建議僅在有社群伺服器時提出），請<a href=\"https://github.com/ExcessiveAmountsOfZombies/ServerBrowser/issues\"><strong>到這裡</strong></a>\n\n## **主選單**\n\n你可以透過進入多人遊戲畫面，然後點擊左上角的「伺服器瀏覽器」來開啟此選單\n\n<img src=\"https://i.imgur.com/pWr3miV.png\">\n\n## **伺服器篩選**\n\n如果你想依不同類型篩選伺服器，你也可以做到！\n\n<img src=\"https://i.imgur.com/cI0gTg4.png\">\n\n## **給模組包作者**\n\nServerBrowser 也包含專為模組包作者設計的功能，方便管理！被封鎖的伺服器將不會出現在伺服器瀏覽器中，但不會從玩家的「最愛」伺服器（一般的多人遊戲畫面）中移除任何內容\n\n<img src=\"https://i.imgur.com/HCmO1JI.png\">\n\n設定中允許預先設定一個模組包過濾器，這會從標籤列表中移除其他模組包。結果會像這樣：\n\n<img src=\"https://i.imgur.com/kw3nF4k.png\">\n\n最後，如果你為你的模組包運行官方伺服器，你也可以將它們加入，讓它們出現在玩家的「最愛」列表頂端。\n\n<img src=\"https://i.imgur.com/qfe0bJF.png\">",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

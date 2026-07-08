@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2CsqL2tzrFs=",
+  "content": "<h1>🪠 机械动力：管道与物理</h1><p><a href=\"https://www.youtube.com/watch?v=-L6mak3g-iU\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://img.youtube.com/vi/-L6mak3g-iU/0.jpg\" alt=\"图片替代文字\"></a></p><blockquote>\n  <p>⚠️ <strong>已知问题</strong>：CROWNS模组会阻止本模组部分物理效果的生效。兼容功能正在开发中。</p>\n</blockquote><h1><a href=\"/linkout?remoteUrl=https%253a%252f%252ffeedback.devinfritz.de%252f%253fsort%253dtrending\" target=\"_blank\" rel=\"nofollow\">开发路线图</a></h1><h1>管道物理机制</h1><ul>\n<li>压力与重力。储罐中的液体在连接管道时会产生压力。因此，两根相连的管道会自动平衡液面高度，液体无需泵即可沿下坡流动。</li>\n<li>泵作为增压装置。泵可将液体提升至指定高度。</li>\n<li>液体流速随粘度变化。</li>\n<li>虹吸现象在新引擎中自然实现。</li>\n</ul><h1>完整潜艇支持</h1><ul>\n<li>自定义流体渲染器</li>\n<li>子层级角度决定液体流动方向</li>\n<li>液体储罐的动态重量模拟</li>\n</ul><h1>增强护目镜</h1><ul>\n<li>对准管道或泵即可查看网络中的实时状态！</li>\n</ul><h2>支持</h2><p>加入Discord获取技术支持、提交错误报告或提供建议：<strong><a href=\"https://discord.gg/sTvftweba8\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/sTvftweba8</a></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gzsZ13kOvkg=",
+  "content": "# 一個簡單的模組，為玩家添加了吐口水機制。\n## 是否曾想像羊駝一樣吐口水？現在透過這個模組，你可以實現！按下按鍵（預設為逗號）即可做到！\n\n適用於 1.21.10+ **Forge**：已將口水冷卻時間和傷害配置從 COMMON 更改為 SERVER。要訪問這些配置，請在您選擇的檔案管理器（例如 Explorer）中打開已保存的世界，進入 \"serverconfig\" 資料夾，在那裡您會找到 \"spittingimage-server.toml\"，並根據您的需求進行配置（多人遊戲和單人遊戲相同）。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/1qOEzCazBnc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n# Fabric 版本需要 MidnightLib",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

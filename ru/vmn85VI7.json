@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QtaxYYHHOmU=",
+  "content": "# Reforgium\n\nReforgium — это неофициальный форк API рендеринга Fabric и Indium, предназначенный для упрощения переноса клиентских модов. Мод включает два типа рендеринга: Indigo и ReforgiumRenderer (Indium).\n\nReforgiumRenderer активируется при наличии в модпаке Rubidium, в противном случае используется Indigo.\n\n## Моды, использующие Reforgium\n\n- Connectedness\n\n*Примечание: Reforgium не связан с Fabric или Indium.*\n\nСодержание посвящено модам/ресурс-пакам/модпакам/шейдер-пакам Minecraft или другим связанным с Minecraft ресурсам. Пожалуйста, сохраняйте стиль изложения приятным для геймеров.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

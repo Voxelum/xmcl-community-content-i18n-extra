@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2Fd5jzKVj/Q=",
+  "content": "## 說明\n\n這個全亮資料包/模組能讓伺服器上的每位玩家都擁有全天候的全亮度視野。每位玩家可隨時透過 `/trigger ToggleFullBright` 指令自行開啟或關閉此功能，單人模式下也完美適用！\n\n## 資料包安裝/卸載指南\n### 安裝\n在 Windows 系統中，進入以下位置的存檔資料夾：\n```\nC:\\Users\\(你的使用者名稱)\\AppData\\Roaming\\.minecraft\\saves\n```\n將壓縮檔放入「data packs」資料夾內，然後重新載入你的世界或執行 `/reload` 指令即可。\n\n### 卸載\n\n- 執行 `/function mpfullbright:uninstall`。請注意，在刪除資料包之前請勿重新載入。\n- 刪除資料包/模組後，再執行 `/reload`。\n\n## 其他注意事項\n### 自訂設定\n- 若要禁止特定玩家使用全亮度功能，可給予他們 `FB_blacklisted` 標籤（使用 `/tag <玩家名稱> <add/remove> FB_blacklisted`）\n- 若要停用預設開啟的全亮度功能，請執行 `/scoreboard players set FBDisabledByDefault mpfb.config <1/0>`（1：開啟，0：關閉）\n### 備註\n- 此功能在單人模式下同樣運作正常！\n- 這個資料包會導致夜視藥水失效（由於可直接切換全亮度，藥水將變得無用）\n- 若需要提供回饋、回報錯誤或尋求其他協助，歡迎加入本頁面連結區中的 [Discord 伺服器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

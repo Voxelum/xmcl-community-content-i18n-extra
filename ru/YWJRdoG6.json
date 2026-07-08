@@ -1,0 +1,6 @@
+{
+  "bodyHash": "I9PBbUySBcA=",
+  "content": "✨ На основе Minecraft QQ-бота по протоколу OneBot ✨\n\n### Введение:\nЭтот мод зависит от Forge, он отличается от Bukkit-плагинов. Бот использует проект на Github: go-cqhttp.\n\n### Команды:\n- /mcbot connect <хост> <порт> <токен> — используйте адрес для подключения к go-cqhttp.\n- /mcbot disconnect — отключиться от go-cqhttp.\n- /mcbot receive <all|chat|cmd> <true|false> — включить отправку сообщений в Minecraft.\n- /mcbot send <all|join|leave|death|achievements> <true|false> — включить отправку сообщений в QQ.\n- /mcbot status — получить статус бота.\n- /mcbot setID — установить идентификатор группы QQ, с которой вы хотите соединиться.\n\n### Особенности:\nЭтот мод использует WebSocket. Просматривайте, кто присоединился или покинул Minecraft в QQ. Просматривайте игровые показатели (tps) и список игроков в QQ.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

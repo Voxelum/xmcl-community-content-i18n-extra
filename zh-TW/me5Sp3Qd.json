@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dggnbILEhmg=",
+  "content": "**GraphWaypoints** 為 Minecraft 增添一套強大的路徑點系統，讓你的導航體驗更加得心應手。標記重要地點、跨維度追蹤座標，還能輕鬆分享位置——無論是探索者還是建築師，這款簡單實用的工具都是你的不二之選。\n\n---\n\n## 🛠️ 功能特色\n\n- **路徑點管理**：透過直觀介面，創建、自訂（名稱、顏色）並管理所有維度的路徑點。\n- **羅盤導航**：螢幕頂端的羅盤條會顯示所有啟用的路徑點，方便長距離追蹤。\n- **快捷鍵與分享**：使用可自訂快捷鍵開啟路徑點管理器（預設：`B`）或切換顯示隱藏（預設：`K`）。亦可一鍵分享座標，或使用伺服器指令 `/c`。\n\n---\n\n## 📸 螢幕截圖\n\n### 路徑點實際效果\n\n![簡單路徑點](https://cdn.modrinth.com/data/me5Sp3Qd/images/789a3b0e4f31f6d257e17bd36f017402f55d54f9.png)\n\n### 路徑點管理器\n\n![路徑點管理器](https://cdn.modrinth.com/data/me5Sp3Qd/images/ab8aa8c829f3642c52fba39f42060b9834ac3bcf.png)\n\n---\n\n## 📋 安裝步驟\n\n1.  安裝 **Fabric** 與 **Fabric API**。\n2.  將 `graph_waypoints.jar` 檔案放入 `mods` 資料夾。\n3.  啟動 Minecraft，在控制設定中配置快捷鍵（管理器預設：`B`，切換顯示：`K`）。\n4.  伺服器專用：於伺服端安裝以啟用 `/c` 指令。\n\n---\n\n## 🔧 相容性\n\n- **Minecraft 版本**：1.21.x 26.1.x\n- **Mod 載入器**：Fabric\n- **依賴項目**：Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

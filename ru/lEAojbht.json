@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aZRBeYwrG/c=",
+  "content": "<div align=\"center\">\n\n[![Версия из Maven Central](https://img.shields.io/maven-central/v/io.github.juliarn/npc-lib-api?logo=apachemaven)](https://central.sonatype.com/search?q=io.github.juliarn)\n\n![Звёзды на GitHub](https://img.shields.io/github/forks/juliarn/npc-lib)\n![Звёзды репозитория на GitHub](https://img.shields.io/github/stars/juliarn/npc-lib)\n\n# Minecraft NPC-Lib\n\n#### Простая и расширяемая библиотека NPC для серверов Minecraft Java Edition\n\n</div>\n\n## Особенности\n\n- Поддержка **Bukkit** и его форков (включая Folia) через **ProtocolLib** или **PacketEvents**\n- Полная поддержка **Minestom** и **Fabric** (только последняя версия)\n- **Скины** (статическая и динамическая загрузка)\n- **Атрибуты** (статус, поза, слои скинов)\n- **Экипировка** (основная и вторая рука, броня)\n- **Интерактивность** (взаимодействие и атака)\n- **Контроллер действий** (автоматическое поворачивание к игроку, имитация игрока, спавн и т.д.)\n- **Расширение LabyMod** (отправка эмоций и спреев)\n- ...\n\n## Дополнительная документация\n\nБолее подробную документацию, включая инструкции по установке и использованию, можно найти на [нашей странице GitHub](https://github.com/juliarn/npc-lib)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

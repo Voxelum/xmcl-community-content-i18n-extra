@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Z0Yh+HI943A=",
+  "content": "# Curios Media Hodler\n\n[![Modrinth](https://badges.moddingx.org/modrinth/versions/curios-media-holder) ![Modrinth](https://badges.moddingx.org/modrinth/downloads/curios-media-holder)](https://modrinth.com/mod/curios-media-holder)\n\nДополнение к HexCasting, позволяющее предметам-держателям медиа вставляться в слоты Curios/Trinket.  \nПоскольку базовый мод HexMod уже имел [совместимость с Curios/Trinkets в 1.19](https://github.com/FallingColors/HexMod/blob/1.19/Forge/src/main/java/at/petrak/hexcasting/forge/interop/curios/CuriosApiInterop.java#L47), а [будет иметь её в 1.20](https://github.com/FallingColors/HexMod/pull/996), этот мод не будет публиковаться всерьёз — давайте воспринимаем его как времённое решение для старых версий 1.20 до того, как мой pull request будет объединён и опубликован :3\n\n## Функции\n\n- Поддержка Curios/Trinket через mixin для держателей медиа\n- Встроенные теги для флаконов с медиа (`hexcasting:battery`) и крупных связующих элементов (`hex_ars_link:linker_great`) из Hex-Ars Linker",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

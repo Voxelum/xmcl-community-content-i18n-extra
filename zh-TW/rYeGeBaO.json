@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ro360sxMxmY=",
+  "content": "Beryl 是一個基於 Vulkan 的新著色器管道，經過優化以提升圖形效果，同時對性能影響極低。\n\n---\n開發這個模組需要大量的時間和精力。如果您想幫助我繼續開發這個項目，請考慮請我喝杯咖啡。\n\n<a href='https://ko-fi.com/V7V7CHHJV' target='_blank'>\n    <img src=\"https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png\" width=260 alt='在 ko-fi.com 上支持我'>\n</a>\n\n## 安裝\n\n![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)\n\n- 執行此模組需要 **VulkanMod**。\n- 將 `beryl.jar` 添加到您的實例的 `/mods` 資料夾中\n\n---\n\n**那著色器包呢？**\n\n目前 Beryl 內建了一個著色器包，這樣可以完全控制渲染管道並更好地優化它。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

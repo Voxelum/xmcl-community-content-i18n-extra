@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QbfMclPQme0=",
+  "content": "# 夜视\n\n一个适用于 [Polytone](https://modrinth.com/mod/polytone) 或 [OptiFine](https://optifine.net/home) 的微型夜视资源包，通过自定义光照贴图与环境属性修饰符实现。\n\n![预览](https://cdn.modrinth.com/data/sA6eDnQN/images/d9fb3f33774f105e179bf99aaea6fa2aba4851e9.png)\n\n在 Minecraft 1.21.10 及更高版本中，Polytone 目前尚不支持自定义光照贴图；而修改后的环境属性仅在 Minecraft 26.1+ 中存在。因此，你可能仅能在特定版本范围内配合 OptiFine 使用该资源包。\n\n使用 [OptiFine](https://optifine.net/home) 时，需满足：自定义颜色：开启，平滑光照：关闭，动态光源：关闭\n\n> **在多人游戏中，使用此类资源包前请务必检查服务器规则。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

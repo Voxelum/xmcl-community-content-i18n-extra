@@ -1,0 +1,6 @@
+{
+  "bodyHash": "opSfPmL84RI=",
+  "content": "<p>__Активная разработка__: Minecraft 1.18.2</p><p><strong>Сайт: <a href=\"/linkout?remoteUrl=https%253a%252f%252fteamcofh.com%252f\" rel=\"nofollow\">Team CoFH</a></strong></p><p><strong>Discord: <a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscordapp.com%252finvite%252fuRKrnbH\" rel=\"nofollow\">Team CoFH Discord</a></strong></p><hr><p>Это довольно простой мод, и он выполняет несколько задач:</p><ul>\n<li>Убирает мигающий эффект, когда у эффекта ночного зрения осталось менее 10 секунд.</li>\n<li>Эффект ночного зрения можно настроить так, чтобы он постепенно исчезал со временем. По умолчанию это 1 секунда.</li>\n<li>Можно регулировать базовую яркость эффекта ночного зрения.</li>\n</ul><h3><strong>Конфигурация</strong></h3><ul>\n<li>_Клиент_: файл <code>no_nv_flash-client.toml</code>, расположенный в <code>/config</code></li>\n</ul><h3><strong>Совместимость</strong></h3><p>Начиная с версии 1.16 этот мод использует миксин (ASM) и может иметь некоторые проблемы совместимости, однако это крайне маловероятно.</p><p>Этот мод полностью автономен и не имеет никаких зависимостей. Его безопасно включать в модпаки.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

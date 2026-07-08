@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gHUPJwg8c/k=",
+  "content": "### 運作方式\n它會清除所有靠近傳送門的終界水晶\n\n### 使用場景\n這對多人伺服器特別有用，當玩家已在終界建造建築時，可防止其他玩家重生終界龍，進而意外破壞附近的建築。\n\n### 模組需求\n- 若使用 Fabric，需同時安裝對應版本的 [Fabric API](https://modrinth.com/mod/fabric-api)\n- 若使用 Quilt，需同時安裝對應版本的 [Quilted Fabric API](https://modrinth.com/mod/qsl)\n\n移除模組／資料包後，即可重新召喚終界龍。\n\n若發現任何錯誤，或有任何資料包／模組建議，歡迎透過我的 [Discord](https://discord.gg/fy4KuxYKVD) 告知。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

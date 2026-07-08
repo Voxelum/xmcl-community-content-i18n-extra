@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yd7aUikeHhY=",
+  "content": "# 概述\n\nCurios 是一個靈活可擴展的飾品/裝備 API，為使用者與開發者提供便利。其目的是讓開發者能以簡便且相容的方式新增額外的飾品/裝備欄位，同時讓使用者能根據個人偏好配置這些欄位。預設情況下，Curios 除了提供一個物品欄 GUI 外，不新增任何內容。沒有預設欄位，僅有兩樣物品（後者僅能透過創造模式選單取得，主要作為開發者編寫整合程式時的範例）。\n\n## 功能特色\n* **透過中央庫擴展裝備欄位**：透過識別碼註冊系統，可輕鬆建立與管理新裝備欄位。相同識別碼會自動合併，避免功能冗餘並確保與潛在物品的最大相容性，而特殊情境下仍可使用獨特識別碼標記特定類型。\n* **按需生成欄位**：預設不包含任何欄位，所有欄位皆依需求動態建立。此設計減少無合適物品卻存在多餘欄位的情況。\n* **欄位完全可自訂與操控**：欄位可自訂背景、調整尺寸，甚至預設禁用或隱藏。但玩家如何存取被禁用的欄位？透過 API，開發者可啟用/停用玩家欄位，或增減特定類型欄位的數量。\n* **採用原版標籤系統的彈性物品→飾品關聯**：透過原版標籤系統篩選潛在飾品，意味著將物品分類至飾品類型僅需在 data/curios/tags 資料夾建立 .json 檔案。只要物品被標記在對應檔案中，即可歸類至任意數量的飾品類型，這些設定還能完全覆寫。詳情請參閱原版標籤系統。\n* **完整整合其他物品欄機制**：修補與詛咒效果適用於飾品欄位中的所有對應物品。另提供多項開發者輔助功能，簡化現有物品或機制與飾品系統的整合流程。\n* **單一 GUI 集中存取**：Curios 內建可從物品欄存取的專屬 GUI，集中顯示玩家所有可用欄位。讓玩家無需切換不同物品欄介面即可檢視擴展裝備欄位。開發者仍可為模組專屬欄位提供自訂 GUI。預設開啟 GUI 的按鍵為「G」。\n\n![](https://i.ibb.co/NNByxcQ/curiogui.png)\n\n## 文件\n* [設定開發環境](https://docs.illusivesoulworks.com/curios/getting-started)\n* [欄位系統](https://docs.illusivesoulworks.com/category/slots)\n* [資料包範例](https://docs.illusivesoulworks.com/curios/slots/datapack-example)\n* [欄位配置](https://docs.illusivesoulworks.com/curios/configuration)\n* [指令列表](https://docs.illusivesoulworks.com/curios/commands)\n* [1.19.x 及以下版本舊版文件](https://github.com/TheIllusiveC4/Curios/wiki)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

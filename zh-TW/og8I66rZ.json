@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1RX14G+qAeQ=",
+  "content": "這是一個針對 [Annihilation Recreated](https://modrinth.com/datapack/annihilation-recreated) 與 [Boss Checklist](https://modrinth.com/mod/boss-checklist) 的附加模組，它將前者的「殲滅者」頭目整合至後者的頭目清單介面中，作為一個獨立條目。\n\n \n\n**「你是如何實現這項功能的？Annihilation Recreated 可是以模組形式打包的資料包啊！」**  \n首先，本模組添加了一個虛擬且無法生成的替代實體，作為您在清單中所見頭目條目的基礎。條目「掉落物」分類中顯示的自訂掉落物同樣是虛擬且無法獲得的物品，僅用於模擬真實掉落。除了仿製的腐化戰利品外，還有三項自訂物品作為顯示圖標；當您將游標懸停其上時，會根據不同難度詳細說明擊敗殲滅者後生成的寶箱中可能出現的戰利品機率。一旦偵測到玩家獲得擊敗殲滅者的相關成就，該頭目條目將自動標記為「已擊敗」。\n\n \n\n**「為什麼這個模組沒有與您其他的 Boss Checklist 附加模組捆綁發布？」**  \n本模組使用了前述自行添加的虛擬實體。因此，無論您是否實際安裝了 Annihilation Recreated 模組，殲滅者頭目條目都會顯示。您總不會希望玩家在整合包中四處好奇尋找這位「殲滅者」，結果後來才發現自己根本沒安裝理應包含此頭目的模組吧。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

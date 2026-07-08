@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PbinAba73l0=",
+  "content": "Этот мод добавляет 5 требований к варпам для камня пути. Разрешает расход валюты из валюты Лайтмена.\n\n![image](https://cdn.modrinth.com/data/cached_images/0619bd0472cc3b8c27c0a80bfd66009ad2aed1af_0.webp)\n\n`wscurrencys:scaled_add_currency_cost` аналогично `scaled_add_xp_cost`  \n`wscurrencys:max_currency_cost` аналогично `max_xp_cost`  \n`wscurrencys:min_currency_cost` аналогично `min_xp_cost`  \n`wscurrencys:add_currency_cost` аналогично `add_xp_cost`  \n`wscurrencys:multiply_currency_cost` аналогично `multiply_xp_cost`  \n\nРазрешено использовать в модпаках.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

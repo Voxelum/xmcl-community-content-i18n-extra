@@ -1,0 +1,6 @@
+{
+  "bodyHash": "lK+SvAk3Jlo=",
+  "content": "## [Мод требует Origins, Fabric и Fabric API]\n\n## Примечание: дополнительные клавиши управления должны работать с любой версией Minecraft и каждой версией Origins, выпущенной после 1.17, даже если на странице об этом явно не указано.\n\nЭтот мод добавляет множество новых клавиш управления в Origins, что позволяет создавать и использовать датапаки с более чем 2 активированными способностями!\n\nНасколько мне известно, мод должен работать и с будущими версиями.\n\n\n\n**Использование в датапаке:**\n\n\n\n1 — Основная: key.origins.primary_active\n\n2 — Вторичная: key.origins.secondary_active\n\n3 — Третичная: key.origins.ternary_active\n\n4 — Четвертичная: key.origins.quaternary_active\n\n5 — Пятеричная: key.origins.quinary_active\n\n6 — Шестеричная: key.origins.senary_active\n\n7 — Семеричная: key.origins.septenary_active\n\n8 — Восьмеричная: key.origins.octonary_active\n\n9 — Девятеричная: key.origins.nonary_active\n\n10 — Десятеричная: key.origins.denary_active",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

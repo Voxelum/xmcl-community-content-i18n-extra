@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ei4/hG5ok5Q=",
+  "content": "# ForgedAPI (форк)\nЭтот мод представляет собой частичную переимплантацию FabricAPI в Forge. Он основан на той же идее, что и ForgedFabricAPI, однако ForgedFabricAPI реализует крайне ограниченный набор функций, поэтому я перенёс FabricAPI, чтобы снизить нагрузку при портировании мода.\n\nЭто форк [ForgedAPI](https://modrinth.com/mod/forgedapi) от PortingLab.\n\n**Этот мод не позволяет моду Fabric работать на Forge!**\n## Уже реализованные компоненты\n* Основа Fabric API\n* Жизненный цикл событий Fabric\n* Fabric Renderer API и Indigo\n* Рендеринг Fabric\n* Модели Fabric\n* Слои рендеринга блоков Fabric",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

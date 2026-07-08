@@ -1,0 +1,6 @@
+{
+  "bodyHash": "baCeGCA6fBw=",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/Z7Z0JsCA/images/a5c4985a12380dabea58a37860cc6f62961fe845.png\" alt=\"Logo\"></p><h3><strong>為模組開發添加各種實用功能的函式庫。</strong></h3><p>其他 Infinituum 模組的共用依賴項。</p><h2>Fabric 功能</h2><ul>\n<li>實作 AnnotationScanner 類別，可掃描「mods」目錄中的 Jar 檔案，並讓使用者能夠與標註元素互動。</li>\n<li>提供 UnsafeLoader 類別，以更簡便且無需錯誤處理的方式載入類別。</li>\n</ul><h2>Forge 功能</h2><ul>\n<li>提供 UnsafeLoader 類別，以更簡便且無需錯誤處理的方式載入類別。</li>\n</ul><p>本模組仍在開發中，任何功能都可能隨時變更。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

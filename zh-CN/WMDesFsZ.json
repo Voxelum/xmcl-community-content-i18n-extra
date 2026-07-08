@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wl7FrMSBrDY=",
+  "content": "IMBlocker 是一款 Minecraft 模组，能够在游戏中自动切换输入法开关状态。\n\n在 Minecraft 游戏过程中，我们不得不关闭输入法以进行各种游戏操作，又不得不开启输入法以聊天/搜索。频繁切换输入法十分麻烦。\n\nIMBlocker 模组能够识别当前游戏状态，并自动启用/禁用输入法。\n\n本模组适用于Forge/NeoForge和Fabric端\n\n注：小版本请尝试使用相邻的大版本，如果都不兼容请提issue\n\n当前支持Windows、Linux和Mac平台",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

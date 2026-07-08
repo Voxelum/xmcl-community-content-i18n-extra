@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Cw48wSWRgoI=",
+  "content": "<h1>全視角</h1><p><em>一個用於 Minecraft 的簡易自由視角/視角模組。</em></p><p>全視角為你的玩家相機實現了一個小型實用功能，讓你能獨立於玩家的頭部移動來旋轉第三人稱相機的朝向。這讓你能拍攝精美的電影級鏡頭，或在不必鎖定看向特定方向的情況下，將游標瞄準到某一方向！</p><h2>版本支援</h2><p>全視角將會支援你所能想到的幾乎任何模組載入器和 Minecraft 版本。相關表格有點大，完整資訊請參見 <a href=\"https://github.com/rhysdh540/Omnilook#version-support\" rel=\"nofollow\">GitHub 自述文件</a>。</p><h2>為什麼選擇全視角？</h2><p>全視角並非第一個提供此功能的模組。以下是為什麼你應該試試：</p><ul>\n<li><strong>輕量。</strong>與其他模組不同，全視角在各方面都小巧輕量。它最小限度地依賴其他模組，絲毫不會打擾你的遊戲，且模組 JAR 檔案大小遠低於 100 KB。</li>\n<li><strong>相容性高。</strong>全視角無論放在何處都能<em>正常運作</em>。它使用盡可能少的注入來完成任務，並經常利用模組載入器的事件和 API 來確保與其他模組良好配合。</li>\n<li>...目前大概就是這樣。</li>\n</ul><h2>配置</h2><p>全視角核心來說是一個相當簡單的模組，所以目前沒有太多配置選項。除了啟用按鍵綁定（預設綁定在 grave 鍵，即 &lt;kbd&gt;`&lt;/kbd&gt;）外，另一個可配置的選項是按下按鍵時是切換效果，還是按住時保持啟用。</p><h2>遇到問題？</h2><p>請在 <a href=\"https://github.com/rhysdh540/Omnilook/issues\" rel=\"nofollow\">GitHub</a> 上聯繫我。我很樂意提供協助！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

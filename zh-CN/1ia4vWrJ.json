@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c+DnbiN50U8=",
+  "content": "本模组添加了**蓝图工程师护目镜**，基于飞行工程师护目镜进行建造。\n\n![蓝图工程师护目镜](https://cdn.modrinth.com/data/cached_images/19337cbaa7bb19dc4c3aced21365f23137bbc2c5.png)\n\n当装备**蓝图工程师护目镜**时：\n\n- 世界将变成一张机械蓝图。\n- 看向任何子层级时，会显示其**质心**以及实时的**力向量**（升力、阻力、推力、重力等）。\n- 飞行工程师护目镜的HUD（应力、燃烧室输出等）得以保留。\n- 手持该物品时右键单击，可切换蓝图视图。\n\n合成配方十分简单，仅是对飞行工程师护目镜进行了一次迭代改进。\n\n![合成配方](https://cdn.modrinth.com/data/cached_images/a2c846422869913bf63485c7ca808f11de662380.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

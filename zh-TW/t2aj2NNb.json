@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SqDnxpu6rzU=",
+  "content": "# BlockCarpentry：現代化版本\n\n[BlockCarpentry](https://www.curseforge.com/minecraft/mc-mods/blockcarpentry) 的現代化移植版本，這是一款新增可覆蓋方塊的模組！靈感來自 1.7.10 版本的「Carpenter's Blocks」模組。\n\n你是否曾想過用泥土製作門、用海綿製作垂直半磚，或是用[任意方塊]製作斜坡來為你的建築增添風采？那麼這款模組正是為你設計的！\n\n![一張 Minecraft 截圖，展示了一些模組方塊的原始形態。](https://cdn.modrinth.com/data/cached_images/1b0294b49a264d7334a58295876df9915804572d.png)\n\n![一張 Minecraft 截圖，展示了一些模組方塊的帆布形態。](https://cdn.modrinth.com/data/cached_images/a1990dbc5060263bcbc90ccfc64d9cf5245e5f0a.png)\n\n此分支版本的主要目標是跟上 Minecraft 和模組載入器 API 的變化，以確保其能在未來版本中正常遊玩。\n\n## 錯誤回報\n請將任何錯誤回報至**此** [GitHub 問題追蹤器](https://github.com/matteodev8/BlockCarpentry-Modernized/issues)\n\n由於移植工作進行得非常迅速，目前狀態並非完美，但功能正常。\n\n## 致謝\n\n99.9% 的工作是由原始模組作者 [PianoManu](https://github.com/PianoManu) 完成的。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

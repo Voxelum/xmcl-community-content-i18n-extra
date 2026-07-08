@@ -1,0 +1,6 @@
+{
+  "bodyHash": "E0jYW0bSZGU=",
+  "content": "## 說明\n\n[![](https://badges.moddingx.org/curseforge/downloads/1539080)]([https://www.curseforge.com/minecraft/mc-mods/new-visual-keybing](https://www.curseforge.com/minecraft/mc-mods/new-visual-keybing)) \n[![](https://badges.moddingx.org/modrinth/downloads/new-visual-keybing)]([https://modrinth.com/mod/new-visual-keybing](https://modrinth.com/mod/new-visual-keybing)) \n\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/new-visual-keybing) \n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/new-visual-keybing)\n\nNewVisualKeybing 是一個用於 Minecraft 的視覺化按鍵綁定管理模組。它會顯示鍵盤和滑鼠佈局，讓玩家能夠檢查、篩選並調整整個模組包中的按鍵使用情況。\n\n### 功能\n\n- 視覺化顯示鍵盤、滑鼠及滾輪的輸入狀態\n- 可依照模組、狀態及搜尋文字篩選按鍵綁定\n- 顯示空閒按鍵、當前模組按鍵、其他模組按鍵及衝突按鍵\n- 從詳細資訊面板快速取消綁定、重新綁定及編輯優先順序\n- 儲存、重新命名、套用、匯入及匯出按鍵綁定設定檔\n- 支援多種鍵盤佈局，並可選擇隱藏非選取模組的按鍵\n\n### 開啟方式\n\n預設按下 `K` 鍵即可開啟視覺化按鍵綁定檢視器，或從控制設定畫面進入。\n\n### 用於模組包\n\n若要在模組包中使用此模組，必須附上指向原始連結的回饋連結。不允許以任何形式散佈此模組的二進位檔案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

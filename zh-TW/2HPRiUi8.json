@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2aG46lX9QnE=",
+  "content": "![首爾地鐵標題](https://cdn.modrinth.com/data/cached_images/cf464a063b91b64d6ee895839fe30c434c3775c9_0.webp)\n\n## 介紹\n\n此資源包為《Minecraft 地鐵模組》新增了首爾地鐵列車（宇進重工業製造）。\n\n本資源包需要 **Minecraft 地鐵模組**（MTR3、MTR4）以及 MTR3 版本的 Nemo 地鐵擴展（NTE）\n\n## 使用條款與資訊\n\n安裝所需模組與附加元件後，可於「資源包」頁面手動套用此資源包，套用方式與其他資源包相同。\n\n使用前請將 JVM 參數設定為 6GB 或更高。載入此資源包可能需要一些時間。\n\nMTR3 與 MTR4 使用不同版本，對於 MTR3 版本，建議設定適當的車廂數量（相關資訊可於試算表中查閱 - 可在維基連結中找到）\n\n除自由長度列車外，列車必須設定為偶數車廂（MTR3）\n\nMTR4 推薦設定：前端駕駛車 - 車廂 - 集電弓 - 後端駕駛車\n\n## 內容\n\n* 首爾地鐵宇進列車（4號線、5號線、7號線、8號線）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

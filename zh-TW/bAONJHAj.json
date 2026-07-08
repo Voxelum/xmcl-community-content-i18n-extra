@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ivP7rn+fgVg=",
+  "content": "# 煤油轉換器\n\n你是否曾嘗試在 [Warium](https://modrinth.com/mod/warium) 或 [VS Warium](https://modrinth.com/mod/valkyrien-warium) 中使用 [Create: The Factory Must Grow](https://modrinth.com/mod/create-tfmg) 的煤油，卻發現它根本無法運作？很令人沮喪，對吧？\n\n這個模組透過新增 **煤油轉換器** 來解決這個問題！只需將這個方塊放置在你的世界中，它就會自動將 TFMG 煤油轉換成 Warium 煤油。現在，你可以使用 **單一流體儲罐** 來為 [Valkyrien Skies x Clockwork](https://modrinth.com/mod/create-clockwork) 中的所有飛機提供動力，而不需要兩個獨立的流體儲罐。\n\n## 使用方法\n\n1. 將 TFMG 煤油泵入 **除正面以外的任何一面**。\n2. 等待轉換器完成工作。\n3. 從 **正面** 提取新鮮的 Warium 煤油。\n\n現在，你可以使用 Warium VS 噴射引擎，盡情享受全速飛行的樂趣！\n\n**請在 [問題追蹤器](https://github.com/przyg/kerosene-coneverter-mod/issues) 上回報錯誤或問題**\n\n這個模組與 [Valkyrien Skies](https://modrinth.com/mod/valkyrien-skies) 和 [Clockwork](https://modrinth.com/mod/create-clockwork) 相容，特別適合在飛機上使用。\n\n鋁材質取自 [Create: The Factory Must Grow](https://modrinth.com/mod/create-tfmg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

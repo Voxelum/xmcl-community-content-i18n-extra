@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ok4Yfds6G30=",
+  "content": "# Minecraft 版 Noto Sans\n\n此资源包将原版字体替换为 Noto Sans 字体。\n\n将字体分辨率（超采样）与 GUI 缩放比例匹配通常效果最佳。由于不同设置会使用不同的 GUI 缩放比例，本包在 `assets/minecraft/font/default-*.json` 中提供了 1-16 级的预设方案。如需更改默认的 4 级预设，只需将您选择的预设文件重命名为 `default.json`。\n\n## 问题/兼容性说明\n\n- 不支持多字符序列和连字，可能影响部分字符的显示效果，并降低某些语言的文本可读性。\n- 受 Minecraft 字体样式渲染机制限制，粗体文本会呈现为双重描边效果。\n- 虽然支持低至 1.13 的版本，但建议使用更高版本以获得更好的 TTF 字体支持。\n\n## 注意事项\n\n_本项目未经 Google 或 Mojang 官方认可，且未对 Google Noto 字体的字形进行任何修改。静态 CJK 字体由可变字体生成，因为官方未提供 TTF 格式的静态版本。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

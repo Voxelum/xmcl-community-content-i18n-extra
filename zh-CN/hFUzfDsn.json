@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t5EQr02j0cM=",
+  "content": "![header](https://i.imgur.com/lcc22tx.png)\n\n**想在游戏中增加一些令人激动的Boss战斗吗？本模组旨在打造史诗级的终局Boss战。**\n\n**这是Barribob的Bosses of Mass Destruction模组从Fabric到Forge的非官方移植版。点击[此处](https://modrinth.com/mod/bosses-of-mass-destruction)可前往原项目。**\n\n目前，本模组包含四位Boss：\n\n- 夜之巫妖，生成于寒冷生物群系的稀有高塔中。跟随魂星指引即可找到高塔。\n- 黑曜岩柱，出现在末地岛屿的稀有结构内。\n- 下界护手，出现在下界的稀有结构内。\n- 虚空之花，生成于世界底部的稀有洞穴中。虚空百合会指示方位。\n- 可通过/summon指令在创造模式下召唤。\n\n安装方式：\n\n如同常规Forge模组安装，需先安装以下前置模组：\n\n[CERBON的API (1.20.1+)](https://modrinth.com/mod/cerbons-api)\n\n[Geckolib](https://modrinth.com/mod/geckolib)\n\n[Cloth Config API](https://modrinth.com/mod/cloth-config)\n\n# 支持\n\n请将所有漏洞、问题及功能建议提交至[问题追踪器](https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE/issues)，或加入我的[Discord服务器](https://discord.gg/2PvYZfjWDf)并在对应频道反馈。评论区仅供留下模组相关评论或简单提问。\n\n提交漏洞、问题或功能建议前，请先阅读[常见问题](https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE/blob/master/FAQ.md)。\n\n# 需要服务器？\n[![BisectHosting](https://www.bisecthosting.com/images/CF/CERBONs_Better_Totem_of_Undying/BH_CBTU_promo.webp)](https://bisecthosting.com/Cerbon)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

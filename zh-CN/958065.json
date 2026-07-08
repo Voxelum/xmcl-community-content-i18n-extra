@@ -1,0 +1,6 @@
+{
+  "bodyHash": "JS13c713+MU=",
+  "content": "<p>本插件是为<strong>Valkyrien Skies 2</strong>开发的极简集成插件，旨在让<strong>ComputerCraft</strong>计算机获取更多飞船信息，并（针对命令计算机）提供更强大的飞船控制功能<br><br>本插件仅包含两项核心功能，均为飞船上计算机提供的API接口<br><br>飞船API - <em>全新开发的API，允许安装在飞船上的计算机获取更详尽的飞船信息！启动时将同时显示为\"ship\"和当前飞船名称！</em></p><p>扩展飞船API - <em>该API是飞船API的强化版，专为命令计算机设计，在继承原有方法的基础上新增了直接控制飞船的功能！同样会在启动时显示为\"ship\"和当前飞船名称！</em></p><p>自0.0.8版本起，特别感谢<a href=\"https://github.com/19PHOBOSS98\" target=\"_blank\" rel=\"nofollow\"><strong>19PHOBOSS98</strong></a>贡献的<a href=\"https://github.com/19PHOBOSS98/LUA_PID_LIBRARY/tree/main\" target=\"_blank\" rel=\"nofollow\">GitHub仓库</a>（遵循<a href=\"https://github.com/19PHOBOSS98/LUA_PID_LIBRARY/blob/main/LICENSE\" target=\"_blank\" rel=\"nofollow\">MIT协议</a>），我们新增了数款用于创建<strong>自定义PID控制器</strong>的游戏内实用程序！</p><p>若您想支持我和我的项目，欢迎<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.buymeacoffee.com%252ftechtastic\" rel=\"nofollow\">请我喝杯咖啡</a>！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

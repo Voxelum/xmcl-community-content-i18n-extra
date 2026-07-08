@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VPKzSctkh3I=",
+  "content": "# 領地商店（適用於 Lightmans' 貨幣）\n\n![交易方塊旋轉示意圖](https://github.com/SettingDust/ClaimShopForLightmansCurrency/raw/main/rotation_trader.gif)\n\n此模組新增一個依賴於 Lightmans' Currency 和 FTB Chunks 的領地交易功能。  \n您可以放置交易方塊，將所屬領地出售給其他玩家。\n\n交易方塊放置的領地將由名為「[ClaimTrader]」的虛擬玩家暫時佔領。  \n若交易方塊被破壞，該領地將自動歸還給原始擁有者。  \n您無法在非自身領地範圍內放置交易方塊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

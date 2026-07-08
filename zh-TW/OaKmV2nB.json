@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Rb7wUBIdtYg=",
+  "content": "一個物品列表，類似於 [REI](https://modrinth.com/mod/rei/) 和 [JEI](https://modrinth.com/mod/jei/)，專為 Hypixel SkyBlock 製作。\n\n查看[展示畫廊](https://modrinth.com/mod/skyblock-item-list/gallery)以了解模組的使用方式！\n\n# 功能\n* 主物品面板\n  * 包含所有物品、屬性、附魔、生物、NPC、寵物、藥水和符文！\n  * 可以根據物品類型進行搜尋、調整大小和篩選。\n* 配方與物品用途查詢\n  * 合成配方，\n  * 鍛造配方，\n  * Kat 寵物升級配方，\n  * NPC 商店配方。\n* 收藏面板\n  * 加入你最愛的 SkyBlock 物品。\n  * 新增常用配方。\n  * 固定你目前正在製作的配方。\n* 內建搜尋列計算機\n  * 市集 (bz)、最低直購價 (lb) 和 NPC 出售價 (npc) 功能！\n* 模組相容性 API\n  * 註冊排除區域，避免物品被放置在小工具上方。\n  * 在自訂畫面上隱藏物品列表。\n  * 輕鬆接收按鍵綁定事件，無需建立並維護有問題的混入 (mixin)。\n  * 在配方中加入自訂按鈕。\n  * 更多資訊請見 GitHub 上的[插件 API](https://github.com/OperationPotato/ItemList/blob/master/src/main/java/com/operationpotato/itemlist/api/Plugin.java)。\n\n# 使用指南\n* 在 Minecraft 控制設定中查看「SkyBlock 物品列表」類別來調整按鍵綁定。\n* 在背包介面時，按下 `Ctrl + O` 或 `Cmd + O` 切換覆蓋層顯示。\n* 按住 `Ctrl` 或 `Cmd` 並滾動滑鼠即可調整物品縮放比例。\n* 滑鼠懸停物品互動\n  * 當滑鼠懸停在物品上時，你可以檢視其配方和用途，或將其加入收藏。\n  * 按下 `R` 檢視配方。\n  * 按下 `U` 檢視用途。\n  * 按下 `F` 將物品加入收藏。\n* 透過 [Mod Menu](https://modrinth.com/mod/modmenu) 或點擊搜尋列旁的「⚙」按鈕進入設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WELguUJ+xPw=",
+  "content": "# 注意：Minecraft 1.21+\n\n我重新整理了项目结构，使其能够更轻松地支持不同的模组加载器（感谢 jaredlll08 提供了非常实用的多加载器模板）。从 MC 1.21 版本开始，Torchmaster 将同时支持 NeoForge 和 Fabric。\n\n这两个版本目前仍处于实验阶段，仅经过基础测试。如遇任何问题，请前往 GitHub 反馈。\n\n## Torchmaster\n\n添加一种特殊火把，可在可配置的半径范围内阻止怪物生成。\n\n最初创意来自 RWTema（Extra Utilities 1）\n\n注意：该火把仅阻挡因低光照等级产生的\"自然\"怪物生成。刷怪笼应仍能正常工作。我已为原版刷怪笼添加了特殊处理。其他模组中的刷怪笼理论上也能正常运作！如果你发现某个模组与巨型火把不兼容，请在我的 GitHub 仓库中提交问题反馈。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

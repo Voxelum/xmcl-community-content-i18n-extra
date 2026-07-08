@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MH/R98bOufA=",
+  "content": "物品过滤器（Item Filters）是一个库模组，被FTB Quests、Modular Pipes和QNet等模组所使用。它添加了一个名为\"物品过滤器\"的物品，能够实现高级过滤/物品选择功能。你可以通过API轻松添加自定义过滤器。\n\n \n\n如果你想在任务中使用它，可以作弊获取任意过滤器（或使用现有过滤器，按住Shift+右键点击以切换类型），然后右键点击进行编辑。随后在物品任务中，从你的物品栏中选择目标物品。图标会自动生成，以可滚动列表的形式显示所有有效物品，但你需要自行修改任务标题。\n\n \n\n当前可用的过滤器：\n\n- 非（NOT） - 反转子过滤器（例如：非苹果）\n- 或（OR） - 匹配任意子过滤器（例如：苹果或胡萝卜）\n- 与（AND） - 匹配所有子过滤器（例如：钻石剑且已附魔）\n- 异或（XOR） - 匹配过滤器A或B其中之一，但不可同时匹配（例如：矿物词典名为\"dyeBlue\"或\"gemLapis\"，但不可同时匹配）\n- 矿物词典名称 - 匹配拥有指定矿物词典名称的物品（例如：\"ingotCopper\"）\n- 创造标签页 - 匹配位于指定创造标签页中的物品（例如：\"建筑方块\"）\n- 模组 - 匹配来自指定模组的物品（例如：\"YABBA\"）\n- 非、或、与和异或过滤器目前暂未设计GUI界面。\n\n[![](https://links.latvian.dev/links.png?mr=itemfilters)](https://links.latvian.dev/)\n\n[![](https://links.latvian.dev/partner.png)](https://links.latvian.dev/partner)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

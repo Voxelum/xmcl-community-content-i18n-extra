@@ -1,0 +1,6 @@
+{
+  "bodyHash": "og6xvGZJo1o=",
+  "content": "本模组能让树木在被砍伐时倒下。它使用了 Create Aeronautics 物理库 Sable。你可以配置手动砍树或炸树时施加在树上的力度。\n\n使用活塞移除树的部分不会导致其倒塌，其他方块事件（如火焰）也不会触发该效果。\n\n（模组 1.10 版本中的配置选项可以改变这一行为，但相比不检查每个方块更新，性能影响会显著增大）\n\n该机制仅响应玩家或实体破坏方块以及爆炸事件。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/zyT0EHSa4vU\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n![倒下的云杉树](https://cdn.modrinth.com/data/cached_images/f10586917195a3043ba92249ff19cd0f0696ee3b.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

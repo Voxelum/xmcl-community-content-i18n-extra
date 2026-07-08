@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zOd4xBmXKsw=",
+  "content": "![VOXELBRIDGE](https://cdn.modrinth.com/data/cached_images/1aec9408bfa06758bd9ee9fea1f3faace751c99f.png)\n\n# VoxelBridge\n\nVoxelBridge 是一款適用於 NeoForge 和 Fabric 的客戶端模組，可將遊戲中的方塊、流體、實體/方塊實體以及模組化方塊匯出為 glTF 2.0 格式，同時保留生態群系著色效果。\n\n匯出的檔案可用於 Blender 等數位內容創作軟體或其他渲染工具。\n\n## 功能特色\n\n*   匯出方塊、流體及實體/方塊實體。\n*   匯出生態群系著色效果（草地、樹葉、水體及其他植被）。\n*   支援單獨紋理或 UDIM 打包的紋理集（每個圖塊最高可達 8192x8192 像素）。\n*   可調整紋理集尺寸與匯出執行緒數量。\n*   支援多數模組化方塊、資源包及自訂模型（透過資源包實現）。\n*   支援模型與紋理隨機化（例如：草地的隨機偏移、資源包紋理變體）。\n*   支援材質動畫（匯出影格序列）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

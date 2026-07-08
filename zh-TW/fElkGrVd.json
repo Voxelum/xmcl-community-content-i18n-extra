@@ -1,0 +1,6 @@
+{
+  "bodyHash": "NAgqrarI6N8=",
+  "content": "若您想發布修改版本，或僅作為協作者協助我進行修改，請先分叉此GitHub倉庫，然後提交拉取請求。\n[Hex的GitHub倉庫](https://github.com/HexBrasil/Hex-Vanilla-Shaders-Reworked/tree/main)\n\n## Hex的Vanilla Shaders或Legacy Shaders怎麼了？\n\n它們仍然存在，但我現在專注於新的重寫版本，已修復舊版中的大部分錯誤。\n\n## 什麼是HDFR？\n\n這是我自己的著色器！但現在我重寫了一些實用部分，並修復了大部分錯誤。\n最初為自己製作，現在開放給所有人使用！目前兼容Iris 1.6.17+版本。\n\n## GitHub倉庫\n\n我需要有人協助修復以下問題：\n\nGbuffers_Terrain / Composite：所有實體皆呈現透明狀態，且我不知如何修復。\n天空光洩漏：夜晚時分，會出現不明來源的光線。\n\n若您能協助解決，請向Git倉庫提交請求。\n\n# 致謝\n> [saada2006著色器教程](https://github.com/saada2006/MinecraftShaderProgramming/tree/master) - 作為著色器的初始基礎參考。\n\n> [Acerola的頻道](https://www.youtube.com/@Acerola_t) - 觀看著色器相關影片後，創建了一些後處理技術。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

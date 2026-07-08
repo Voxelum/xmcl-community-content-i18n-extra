@@ -1,0 +1,6 @@
+{
+  "bodyHash": "W0jMmYW9f4U=",
+  "content": "## Тег «Двухручный»\nМод Twohanded Engine добавляет простой способ сделать предмет «двухручным».\nПуть тега для данных паков — «twohandedengine/tags/item/twohanded»\n\nЛюбой предмет, включённый в этот тег, отключит и скроет предмет в запасном рукаве при его удержании.\nТакже на предмет будет отображаться аккуратное всплывающее подсказка «Двухручный».\n\n\nТег **«twohandedengine/tags/item/twohanded_allowed»** позволяет задать предметы, которые всё ещё могут быть активны в запасном рукаве, даже если игрок держит двухручный предмет.\n\nПо умолчанию это включает такие простые вещи, как карты, факелы и компасы и т.д.\n\n## Теги для критических множителей оружия.\n\n**«twohandedengine/tags/item/critical_disabled»** = Оружие не может нанести критический удар\n\n**«twohandedengine/tags/item/critical_ultra_light»** = 1,2x\n\n**«twohandedengine/tags/item/critical_light»** = 1,35x\n\n_Здесь находится стандартный критический удар_ (1,5x)\n\n**«twohandedengine/tags/item/critical_heavy»** = 1,65x\n\n**«twohandedengine/tags/item/critical_ultra_heavy»** = 1,8x\n\nВсплывающие подсказки по критическим множителям применяются ко всем предметам с атакующим уроном.\nБольшинство предметов будут иметь множитель 1,5x, как и в оригинальной игре.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

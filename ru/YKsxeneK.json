@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Y2BvGD0Bu3A=",
+  "content": "**Шанс спавна зависит от сложности:**\nМирный режим: 0%\nЛегкий режим: 5%\nНормальный режим: 10%\nТрудный режим: 20%\n\n**Он появится, если выполнены следующие условия:**\n- должна быть колокольня\n- в пределах 14 блоков от этой колокольни должна находиться кровать\n- в пределах 12 блоков от этой колокольни должна быть дверь\n- эта допустимая конфигурация колокольни должна находиться в пределах 24 блоков по горизонтали и 6 блоков по вертикали от игрока\n\n\n  \n**Параметры конфигурации** можно указать в файле **config/doorbellnitwit.properties**\n\n\n**Параметры:**\n\nspawnChance.easy=0.05\n\nspawnChance.normal=0.10\n\nspawnChance.hard=0.20\n\nvandalismChance=0.50\n\nspawnRadius.min=8\n\nspawnRadius.max=14\n\n\n\n**Команды для тестирования:**\n\n\n/doorbellnitwit reload\n\n/doorbellnitwit purge\n\n/doorbellnitwit spawn",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

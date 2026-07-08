@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31GlRLRRPEU=",
+  "content": "# BaguetteLib\n\n***\n\n想過製作一個需要妥善處理死亡事件或追蹤物品欄的模組嗎？沒錯，NeoForge 的事件機制在這方面確實不太好用。技術支援請到我的 [Discord](https://discord.gg/3BnbkNWT99)\n\n## 內容包含\n\n***\n\n**死亡事件**\n\n*   在死亡發生前攔截（你可以取消它）\n*   在玩家死亡後執行特定操作\n*   適用於所有實體——玩家、生物等\n\n**物品欄事件**\n\n*   快捷欄變更、裝備切換、拾取物品\n*   每次變更都能取得舊物品與新物品\n*   對手部和副手的特殊處理\n\n## 使用方法\n\n***\n\n將此庫加入你的模組，註冊事件即可：\n\n<div><div>&nbsp;</div><div><pre><code>@SubscribeEvent\npublic static void onPlayerPreDeath(PlayerDeathEvent.Pre event) {\n    // 在這裡執行你想要的任何操作\n}</code></pre></div></div>\n\n就是這麼簡單。沒有使用 Mixin，沒有多餘的垃圾。\n\n***\n\n_由一位受夠了繞開 NeoForge 事件限制的開發者製作。_\n\n \n\n如果你想支持我與模組開發，推薦你試試 BisectHosting。新客戶使用優惠碼「project8gbderam」，首次訂購遊戲伺服器可享 25% 折扣。他們提供 24/7 技術支援與極快的回應速度，確保你獲得最佳協助，滿足所有遊戲需求。 [https://www.bisecthosting.com/project8gbderam](https://www.curseforge.com/linkout?remoteUrl=https://www.bisecthosting.com/project8gbderam)\n\n![Bisect](https://www.bisecthosting.com/partners/custom-banners/54bb107c-f9fc-4f32-8515-fb4e3d56c124.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

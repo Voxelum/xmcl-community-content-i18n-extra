@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28GaUpkWEFw=",
+  "content": "<center>\n\n![Web Map 圖片](https://raw.githubusercontent.com/TeamJM/journeymap-webmap/master/journeymapwebmap2.png)\n\n</center>\n\n# JourneyMap Web Map\n\nJourneyMap Web Map 是一款為 [JourneyMap 模組][1] 設計的用戶端附加模組，讓您可以透過本機網頁瀏覽器觀看地圖。\n\n主要用途包括在另一台螢幕、平板電腦或本地網路上的任何裝置顯示地圖。\n\n這是原本內建於 JourneyMap 的官方 Web Map，現已獨立為附加模組。\n\n## 它不是什麼！\n\n它不是伺服器端地圖。若僅安裝於伺服器端，將不會有任何作用。\n\n[1]: https://modrinth.com/mod/journeymap",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

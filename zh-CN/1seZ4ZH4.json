@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7yW9RaP69/U=",
+  "content": "# 🌫️ ExtraSodiumFogFix / 原版迷雾修复\n\n## 📜 描述\n\n**中文**  \n这个模组确保 Minecraft 中的迷雾保持**公平且与原版一致**，即使在使用如 [Sodium Extra] 等优化模组时也是如此。  \n许多模组提供有用的迷雾自定义功能，用于视觉效果或性能优化，但其中一些改动（例如完全移除迷雾）可能会在多人游戏中**给予玩家不公平的优势**。  \nExtraSodiumFogFix 允许玩家**保留他们喜爱的模组**，同时**仅阻止那些可能破坏平衡的迷雾调整**——例如看透水、熔岩或远距离的能力。\n\n✅ 不强制依赖 Sodium 或 Sodium Extra  \n✅ 与任何影响迷雾的模组兼容——通过应用**优先级为 1400** 的 mixin 实现  \n✅ 保持游戏公平公正，无需禁用整个模组\n\n---\n\n## 🖼 使用前后对比\n\n<p align=\"center\">\n  <img src=\"https://cdn.modrinth.com/data/1seZ4ZH4/images/5b22241e58969551a0cc93a3b1fc3a66dab2037c.png\" alt=\"对比：之前与之后\" width=\"720\"/>\n</p>\n\n<p align=\"center\">\n  <i>左侧：迷雾被移除（通过模组配置），右侧：恢复原版迷雾（使用此模组）</i>\n</p>\n\n---\n\n## ⚙️ 兼容性\n\n- ✅ 兼容 Fabric 和 Quilt\n- ✅ 无论是否安装 Sodium Extra 均可工作\n- ✅ 无必要依赖\n- 🚫 并非完全禁止迷雾修改——仅**中和不公平的设置**\n- 🧠 Mixin 优先级 `@Mixin(priority = 1400)` 覆盖其他干预（例如 Sodium Extra 的 `1300`）\n\n---\n\n## 📦 安装\n\n1. 安装 Fabric 或 Quilt Loader\n2. 下载此模组的 `.jar` 文件\n3. 将文件放入 `mods` 文件夹\n4. 完成——迷雾恢复原版效果，同时兼容其他视觉模组\n\n---\n\n## 💬 为什么这很重要？\n\n有时，模组为了性能或美观会让迷雾**过于透明**，导致：\n- 玩家看得比预期更远\n- 能透过水或雪发现结构\n- 获得不公平的 PvP 优势\n\n这个模组**不会破坏模组**，只是**恢复平衡**，允许使用自定义设置而不影响游戏公平性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

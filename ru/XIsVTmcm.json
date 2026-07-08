@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+pl4bT5S2R0=",
+  "content": "# Отключение достижений\n\nПростой мод, который может удалить все достижения в пространстве имен.\n\n## Использование\n\nМод удаляет все достижения в пространствах имен, настроенных в конфиге.\n\n```toml\ndisabledMods = [\n    \"minecraft\", # удалить все достижения Minecraft\n    \"mine.*\", # удалить достижения всех модов, начинающихся с mine\n    \".*\" # удалить все достижения\n]\n```\n\n## Зависимости\n\nБандлы [night-config](https://github.com/TheElectronWill/night-config)\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

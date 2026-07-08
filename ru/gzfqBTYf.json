@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/UwDA+qebUI=",
+  "content": "# [MC-258859](https://bugs.mojang.com/browse/MC-258859)\n**Исправляет, что условие правила «крутая поверхность» (1) работает только на северной и восточной гранях склонов.**\n\n![Сравнение между MC-258859 (на изображении обозначено как «Исправлено») и Vanilla: на Снежных вершинах видно гораздо больше камня, а на Замёрзших вершинах даже увеличилось количество уплотнённого льда](https://cdn.modrinth.com/data/gzfqBTYf/images/710a936314e3e5e3056611cb593c9fac6128b952.gif)\n\n\n# ✅ Особенности\n- **Улучшает внешний вид скал**, уменьшая количество снега и грязи в горных биомах Minecraft.\n - **Поддерживает Terralith**, где улучшает [17 биомов](# \"As of 08/2024: Bryce Canyon, Snowy Cherry Grove, Ice Spikes, Icy Spires, Jungle, Yellowstone, Rocky Mountains, Amethyst Rainforest, Amethyst Canyon, Alpine Highlands, Blooming Valley, Highlands, Forested Highlands, Shield, Lush Valley, Valley Clearing, Shield Clearing\")!\n- **Работает на сервере**, сразу готов к использованию без каких-либо несовместимостей с клиентом!\n\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

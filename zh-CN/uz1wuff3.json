@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dq6PewRRnNs=",
+  "content": "一个简单的模组，防止在服务器停止时WorldEdit挂起Minecraft服务器\n\n它修复了https://github.com/EngineHub/WorldEdit/issues/2459。它的功能：\n\n- 在专用服务器停止时关闭`WorldEdit.getInstance().getExecutorService()`（否则服务器将挂起最多60秒）\n- 确保`FutureProgressListener`中的单例`java.util.Timer`对象在守护线程上运行（否则服务器将永久挂起）\n\n支持的环境\n\n| 平台     | Minecraft    | WorldEdit |\n|----------|--------------|-----------|\n| fabric   | MC >= 1.14   | >=7.0.0   |\n| forge    | MC >= 1.15   | >=7.0.0   |\n| neoforge | MC >= 1.20.6 | >=7.0.0   |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

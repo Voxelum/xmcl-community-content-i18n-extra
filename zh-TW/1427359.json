@@ -1,0 +1,6 @@
+{
+  "bodyHash": "uvkte58tR5Q=",
+  "content": "<h2>流暢啟動</h2><h2><span style=\"color:#fff\"><strong><span style=\"color:#34495e\"><span style=\"color:#ced4d9\">若您未找到所需模組版本，可至我的 Modrinth 頁面查閱。</span> <span style=\"color:#236fa1\"><a style=\"color:#236fa1\" href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsmooth-boot\" target=\"_blank\" rel=\"nofollow\">連結</a></span></span></strong></span></h2><p>&nbsp;</p><p>本模組優化《當個創世神》的 CPU 排程機制。作為 Smooth Boot (Reloaded) 模組的非官方分支版本，新增了對新遊戲版本的支援。</p><p>模組透過重新配置遊戲的任務執行器來提升載入效率。預設情況下，這些執行器會在多重執行緒中運行高負載啟動任務，常導致 CPU 使用率飆升。流暢啟動透過調整關鍵執行器參數（包含執行緒數量與優先級），確保工作負載分配更均衡且高效。</p><p>原始模組：&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsmooth-boot-reloaded\" rel=\"nofollow\">https://modrinth.com/mod/smooth-boot-reloaded</a></p><p>原始模組作者：&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fuser%252fAbdElAziz\" rel=\"nofollow\">https://modrinth.com/user/AbdElAziz</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MH+Okmz7QqY=",
+  "content": "![圖示](https://cdn.modrinth.com/data/cached_images/8ffd9ef3837ad6dc8ee4957bee2edb8a89684f29.png)\n![鎖定範例](https://cdn.modrinth.com/data/cached_images/4e62f272c2e9e2fdf83e5640c2af3ab0980412ab.png)\n\n歷史更新資訊：\n- 新增鎖定圖示與顯示敵方生命值功能\n- 鎖定圖示支援自訂顏色、透明度、大小等設定，需在配置檔中修改\n- 現在可透過左右移動滑鼠在鎖定狀態下切換目標\n- 鎖定狀態下無需等待目標完全消失，目標死亡即自動解除鎖定\n- 未鎖定時，即使未瞄準目標，按下鎖定鍵會自動選擇最近目標進行鎖定\n- 修復鎖定高大或近距離敵人時玩家會低頭的問題\n- 優化第三人稱鎖定俯仰角邏輯\n- 新增鎖定自動切換功能，目標死亡時會嘗試選擇最近的其他目標\n- 新增軟鎖定功能\n- 相容於leawind第三人稱模組\n- 修復敵方搜尋錯誤與鏡頭位置異常問題\n- 新增鎖定紋理可顯示目標體力值\n- 新增白名單/黑名單設定檔\n- 調整軟鎖定的視角轉換\n- 新增可在設定檔中切換的新鎖定圖示\n- 新增WOM設定檔，啟用後使用WOM武器攻擊時不會解除鎖定\n- 調整敵方搜尋邏輯，不再鎖定玩家騎乘的生物\n- 鎖定狀態下按下衝刺鍵可進行側向與後退衝刺\n- 生物體力條顯示相容於Indestructible與Combat Evolution模組\n- 相容並調整ShoulderSurfing模組部分功能\n- 新增配置畫面，現可在遊戲內直接調整設定",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

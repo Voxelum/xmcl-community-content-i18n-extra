@@ -1,0 +1,6 @@
+{
+  "bodyHash": "B/CxMwBMufI=",
+  "content": "# FConfigLib\n**FConfigLib** 是一個專為 Fabric 模組載入器設計的簡潔 JSON 設定庫。\n\n## 功能特色\n* **版本相容性**：FConfigLib 相容於所有由 Fabric Loader 支援的 Minecraft 版本，並可在 **Ornithe**、**LegacyFabric**、**Babric** 等專案上正常運作。\n\n* **支援其他遊戲**：此庫不依賴 Minecraft 程式碼，可透過 Fabric Loader 在其他 Java 遊戲中執行。\n\n* **易於使用的 API**：FConfigLib 提供基於註解的數值限制器和驗證器，並可透過設定修復器進行安全的版本轉換。\n\n使用此 Mod 需要 Java 8 或更高版本。\n\n## 給模組開發者\n<details>\n<summary>如何加入你的專案</summary>\n<br>\n在 build.gradle 的倉庫列表中加入 JitPack。\n\n```groovy\nmaven {\n    name \"JitPack\"\n    url \"https://jitpack.io\"\n}\n```\n<br>\n在 build.gradle 的依賴項目中加入以下內容。\n\n```groovy\ndependencies {\n  ...\n  modImplementation \"com.github.ForwarD-NerN:fconfiglib:1.1.0\")\n}\n```\n\n</details>\n\n目前尚無文件可供參考，不過你可以查看[此處](https://github.com/ForwarD-NerN/fconfiglib/blob/master/src/main/java/ru/nern/fconfiglib/example/ExampleMod.java)的範例。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

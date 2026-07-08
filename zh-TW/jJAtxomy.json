@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PezUA5YbRfA=",
+  "content": "# 僅限 C418 歌曲\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/t4gRwG7KGtE\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n你來到這裡很可能只有**一個**原因：你不喜歡新的 Minecraft 歌曲。**C418** 的音樂造就了今日的 Minecraft。這個資源包讓你只聽見 C418 在 Minecraft 中的背景音樂。\n\n### 這個資源包明確做的事：\n- 移除遊戲中所有非 C418 創作的新版 Minecraft 背景音樂。（唱片仍可正常使用）\n  - 由於歌曲已被*完全*移除，音樂仍會像以前一樣頻繁播放。\n- 背景音樂現在將以無特定權重順序播放，這表示列表中（某個特定生態域可播放的歌曲）不會有某首歌比其他歌更常播放。（我希望真正符合每個人的喜好，所以如果這不是你想要的，請讓我知道。）\n\n**注意：** 如果資源包顯示為不支援，但你使用的是正確版本，你很可能正處於較舊的 Minecraft 版本。你可以安全地忽略該訊息。這只是一個顯示錯誤。\n\n如果你想對這個資源包做出貢獻，請在 GitHub 上提交拉取請求。（例如：基岩版支援）\n\n向 [C418](https://c418.org/) 致上最高敬意，他在 2009 年受 Notch 委託，為一款愚蠢的沙盒遊戲創作愚蠢的配樂。\n\n法律聲明：這些下載內容中均不包含任何 Rosenfeld / C418 的歌曲。未添加任何音訊檔案。而是修改了 sounds.json 檔案，以變更哪些歌曲可以播放、哪些不能播放。\n[尊重 [https://c418.org/2017/01/26/what-am-i-allowed-to-do-with-daniels-music/](https://c418.org/2017/01/26/what-am-i-allowed-to-do-with-daniels-music/)]\n\n此資源包僅以「Redsquare」名稱託管於 Modrinth、PlanetMC、GitHub 和 Curseforge。不應信任託管此資源包的任何其他平台（例如 9Minecraft，那不是我的作品）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "h85+5ZUPD90=",
+  "content": "關於這個模組\n還在煩惱製作鞘翅火箭或TNT爆炸所需的火藥總是不夠嗎？厭倦了建造巨大又卡頓的苦力怕農場嗎？這個輕量級的 Fabric 模組就是你的解決方案！\n\n它能無縫整合 Create 模組，新增了一個合理且可完全自動化的火藥配方。你可以輕鬆搭建工廠，生產源源不絕的煙火和 TNT！\n\n製作方式：在 Basin（盆）中放入 1 個沙、1 個礫石和 1 個燧石，並使用 Mechanical Mixer（機械攪拌器）混合，即可產出 2 個火藥。無需加熱！\n\n![配方](https://cdn.modrinth.com/data/cached_images/79c8716cc5fd32a4be19bfdfef737b70759cea01.png)\n\n為什麼選擇這些材料？\n這三種材料（沙、礫石、燧石）都可以透過原版機制以及 Create 的粉碎/清洗系統完全自動化。這獎勵了那些想要設計巧妙組裝線，而非單純農怪物的玩家。\n\n依賴項目\n要使用此模組，你必須安裝以下內容：\n\nFabric API\n\nCreate（Fabric 版本）\n\n模組包\n你完全可以在任何 CurseForge 模組包中自由包含此模組！\n\nCreate: 火藥配方 團隊",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

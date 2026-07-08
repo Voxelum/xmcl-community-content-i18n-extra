@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Xi9EmvCQ0rA=",
+  "content": "这是一个Minecraft模组，可自动将Create模组的蓝图上传至[createmod.com](https://createmod.com/)以便轻松分享。该模组还修改了蓝图工作台，你可以直接粘贴createmod.com的网址或短码来更快、更便捷地下载蓝图。\n\n## 功能特性\n\n### 上传\n- **自动上传** - 在游戏中保存蓝图的瞬间自动上传至[createmod.com](https://createmod.com)\n- **360°预览渲染** *（仅限NeoForge 1.21.1+版本）* - 在客户端渲染120张等距帧并随蓝图一同上传，以便在网页上实现交互式3D旋转视图\n- **进度条** *（仅限NeoForge 1.21.1+版本）* - 在操作栏显示实时进度条，追踪渲染、处理及上传阶段\n- **一键分享** - 聊天栏中会出现可点击的链接，让你（或任何人）能在浏览器中查看蓝图\n- **认领流程** - 在网页上登录以认领所有权，随后可发布到社区\n- **可选确认** - 可在配置中禁用自动上传，每次上传前弹出确认界面\n- **游戏中无需账号** - 上传为匿名方式；你可随时在网站上认领\n\n### 下载\n- **从createmod.com下载** - 在Create蓝图工作台中直接输入createmod.com网址或短码，即可下载其他玩家分享的蓝图\n- **无缝集成** - 下载的蓝图会自动放入本地蓝图文件夹，立即可用\n\n## 工作原理\n\n1.  使用Create模组的蓝图与羽毛笔保存蓝图\n2.  模组将`.nbt`文件上传至createmod.com\n3.  聊天栏中出现可点击链接\n4.  访问链接并登录以**认领**该蓝图\n5.  之后即可发布到社区\n\n## 前置要求\n\n本模组需要安装[Create模组](https://modrinth.com/mod/create)方可运行。\n\n## 客户端\n\n这是一个**纯客户端**模组，无需安装在服务器端。\n\n## 致谢\n\n- [Jamalam](https://github.com/JamCoreModding) - 原版CreateSchematicDownload模组作者\n- [salem-5/Create-Blueprinted](https://github.com/salem-5/Create-Blueprinted) - 等距渲染方案\n\n## 整合包\n\n你可以在任何免费发布的整合包中自由包含本模组。禁止销售本模组或收费提供其使用权（包括包含本模组的任何整合包）。\n\n## GitHub\n\n更多信息可在GitHub上查阅：[https://github.com/uberswe/CreateSchematicUpload](https://github.com/uberswe/CreateSchematicUpload)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SzTAC/huklI=",
+  "content": "為 [Litematica 模組](https://www.curseforge.com/minecraft/mc-mods/litematica) 新增功能與修復。\n此模組應與 Litematica 一同安裝。\n\n- `schematicEditReplaceSelection`：將世界中選定的區域複製到 litematic 中。這對於告知 Litematica 某區域是正確的非常有用。\n- 簡易放置修復：\n  - 防止簡易放置在錯誤的位置放置方塊。\n\n您可以在伺服器上安裝 Litemoretica 以獲得額外功能。這*不*需要在伺服器上安裝 Litematica，但*需要*在客戶端上安裝。\n- 簡易放置協議版本 3。比版本 2 更準確地放置更多方塊，例如漏斗和按鈕。\n- 在多人遊戲中快速且準確地貼上結構圖",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

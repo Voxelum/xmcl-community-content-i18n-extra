@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3RCJ+dr7p00=",
+  "content": "## 概述\n这款轻量级数据包为工具栏增添微妙的存在感。在切换工具栏物品（即快捷栏物品切换）时会播放经过调整的原版音效，并根据不同类别物品触发相应音效：\n\n- “钝器”类剑（木剑与石剑）\n- 弓与弩\n- 药水\n- 盾牌\n- 剑（锋利类）\n- 工具（斧、锄、镐、锹）\n\n支持单人游戏与多人游戏，同时设计为可扩展性结构，可通过未来兼容包支持模组物品。\n\n## 安装\n将下载的数据包 .zip 文件保存至你的世界文件夹中的 `datapacks` 子文件夹。若世界正在运行，使用命令 `/reload` 加载该数据包。更多详情请查阅[此处文档](https://minecraft.fandom.com/wiki/Data_pack?so=search#Usage)。\n\n## 兼容性\n**现已支持 1.20 至 26.2 版本！** 请务必根据你的 Minecraft 版本选择对应文件。:)\n\n始终欢迎扩展支持范围。如有任何需求，欢迎通过 Github [问题页面](https://github.com/villainous-j/toolbar-sounds/issues)与我们联系！\n\n## 卸载\n执行以下命令可清除数据包中的全部计划任务或计分板：\n\n```\n/function toolbar_sounds:uninstall\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

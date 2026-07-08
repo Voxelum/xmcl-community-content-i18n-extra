@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b5D0MNHwTg=",
+  "content": "# 概述\n添加关于 Mekanism 模组的多方块结构的 JEI 页面。\n可以计算建造成本和多方块结构的能力。\n\n# 功能\n1. 支持 JEI + 按钮。\n2. 计算流体/气体储罐容量。\n3. 计算“裂变反应堆”的温度和加热速率。\n4. 计算“热电锅炉”的钠冷却速率。\n5. 计算“工业涡轮机”的效率。\n\n# 支持的多方块结构\n\n## Mekanism\n1. 动态储罐\n2. 热蒸发工厂\n3. SPS\n4. 热电锅炉\n5. 感应矩阵\n\n## Mekanism Generator\n1. 工业涡轮机\n2. 裂变反应堆\n3. 聚变反应堆",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

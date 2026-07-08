@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Da4h/6Pv6RU=",
+  "content": "---\n\n<a href=\"https://www.xdpxi.dev/neyhost\" target=\"_blank\">\n  <img src=\"https://www.xdpxi.dev/imgs/neyhost-banner.png\"/>\n</a>\n\n你是否曾想要拥有一个自己的 **Minecraft 服务器**，却不知从何入手？NeyHost 让你无需任何技术经验，即可轻松创建适用于多种场景的服务器。立即开始使用我的代码 `XDPXI`，**首月可享 30% 折扣**！\n\n[访问 NeyHost](https://www.xdpxi.dev/neyhost)\n\n---\n\n**未经 FabricMC 批准或与其关联。**\n\n## 描述\n\n本模组提供了一个伪造的 Fabric Loader，以满足那些要求特定 Fabric Loader 版本但你不想（或无法）使用的模组。\n\n## 示例（我的使用场景）\n\nRRLS 需要最新版本的 Fabric Loader。如果你正在使用 Quilt，Fabric Loader 的更新往往会延迟，有时甚至永远不会更新。这时本模组就能派上用场；它假装所需的 Fabric Loader 版本已存在，从而使 RRLS 能够正常运行。\n\n## 选择版本\n\n每个发布版本对应一个特定的 Fabric Loader 版本。所有版本在功能上完全相同，仅报告的版本号不同。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

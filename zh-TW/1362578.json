@@ -1,0 +1,13 @@
+{
+  "bodyHash": "WG8IYzBgxMs=",
+  "content": {
+    "error": {
+      "message": "Insufficient Balance",
+      "type": "unknown_error",
+      "param": null,
+      "code": "invalid_request_error"
+    }
+  },
+  "contentType": "text/html",
+  "type": "curseforge"
+}

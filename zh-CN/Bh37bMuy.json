@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vzQz/lNQ2gU=",
+  "content": "Reese的Sodium选项界面将Sodium的配置屏幕替换为另一种布局与风格，专注于紧凑且易于导航的配置体验。\n\n现代版Sodium已提供完整的配置界面和公开的选项API。RSO主要面向偏好其标签页布局、分组展示、视觉风格及额外生活品质功能的用户，提供替代前端方案。\n\n# 特性\n\n- 替代Sodium选项屏幕的布局与风格\n- 搜索栏快速定位选项\n- 可滚动的垂直标签页列表与选项页面\n- 可折叠的模组标签分组（含可配置行为）\n- 页面内可折叠的选项分组\n- 可自定义的标签页标题（含图标与版本标签）\n- 可调节的工具提示延迟及可选选项ID显示\n- 针对键盘/手柄导航的聚焦选项工具提示\n- 可选的选项页面和控制组件色彩主题\n- 单个选项的恢复默认覆盖按钮\n- 修改选项的撤销覆盖按钮\n- 按住`SHIFT`键滚动调节滑块\n- 可选的循环控制反转功能\n- 改进的键盘导航\n- 界面朗读支持\n- 可选Controlify控制器导航与按键指南\n- 可禁用RSO并恢复Sodium默认选项屏幕\n\n# 截图\n\n![image2](https://cdn.modrinth.com/data/Bh37bMuy/images/ef92f9dbadd953c9acfbc0a5246921a8226dac1c.png)\n\n![image](https://i.imgur.com/KBsXRBI.png)\n\n# 需求\n\n- [Sodium](https://modrinth.com/mod/sodium)\n\n# 可选集成\n\n- [Controlify](https://modrinth.com/mod/controlify)（提供控制器导航支持）\n\n# 说明\n\nRSO是专为Sodium选项屏幕打造的客户端UI替代方案，非配置Sodium所必需，适用于偏好其布局、风格及生活品质功能的用户。\n\n在Sodium已直接提供相关选项API的版本中，Sodium Options API不再受支持。\n\n#### 请勿就本模组向CaffeineMC寻求支持。Reese的Sodium选项与CaffeineMC无任何关联。\n\n# 支持项目\n\n如果您希望支持维护Reese的Sodium选项及我的其他Minecraft模组所投入的时间，可通过Ko-fi捐赠。\n\n[![在Ko-fi支持我](https://i.imgur.com/FSNi7zk.png)](https://ko-fi.com/flashyreese)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

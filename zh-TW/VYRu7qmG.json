@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2U65VOXMS3M=",
+  "content": "《LagGoggles》的精神續作，適用於 Minecraft 1.16+ 版本，可觀察並分析方塊實體與實體的效能表現，顯示哪些項目佔用了遊戲刻時間及其位置。同時支援 Forge 和 Fabric 模組載入器。（註：預設按鍵「R」可開啟效能分析介面）\n\n若發現任何錯誤，請至 GitHub 儲存庫[回報問題](https://github.com/tasgon/observable/issues)。\n\n依賴模組：\n\n- Forge 版本需安裝：[Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)、[Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)\n- Fabric 版本需安裝：[Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)、[Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

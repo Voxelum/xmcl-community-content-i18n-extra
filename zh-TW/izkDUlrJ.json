@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OyuP9qTbgnQ=",
+  "content": "# 棄用公告\n\n從 **1.21.1 及以上版本**開始，此功能將被全新的 [**Accessories 相容層**](https://modrinth.com/mod/accessories-compat-layer) 取代，功能完全相同，僅需**同時安裝** Curios 與此新模組！\n\n# Accessories Curios 相容層\n\n此模組作為相容層，讓使用 [Curios API](https://modrinth.com/mod/curios) 的模組能夠在 [Accessories](https://modrinth.com/project/accessories) 生態系統中正常運作。\n\n**請勿安裝 Curios，此模組即為 Curios 的 API 包裝層。**\n\n若發生問題，所有現有的 Curios 資料將會轉移至飾品欄位中，或掉落至物品欄中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

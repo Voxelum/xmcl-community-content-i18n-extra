@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rGJz2EyIemk=",
+  "content": "這個模組新增了「傳送通行證」。<br>\n<br>\n玩家可以製作一張傳送通行證，但製作它的玩家無法直接使用。製作完成時，通行證會標記製作者的名字，顯示為「<name>的傳送通行證」。它必須被贈送、丟棄、被他人撿到或遺失——最終進入其他玩家的物品欄中。<br>\n<br>\n右鍵點擊這張通行證後，使用者將被傳送到該通行證的製作者身邊。若製作者離線或位於其他維度，則無法傳送。<br>\n<br>\n本模組旨在以更貼近原版風格的方式實現傳送功能。與其透過插件賦予玩家傳送指令，這個指南針模組將傳送機制融入合成系統，強調玩家間的信任，並適合與朋友共同遊玩的原版增強型模組體驗。<br>\n<br>\n<br>\n此模組由「Perfect Strange」提議開發<br>\n<p><img src=\"https://i.imgur.com/0KFppoR.png\" alt=\"Akliz合作夥伴\" width=\"320\" height=\"152\"></p>\n<p><a href=\"https://www.akliz.net/mrbysco\" rel=\"nofollow\">需要伺服器？使用優惠碼「mrbysco」可享首月八折優惠</a></p>\n \n<b>如有疑問，歡迎加入我的Discord。</b>\n\n## 想支持我們嗎？ ##\n<p><a href=\"https://www.patreon.com/Mrbysco\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon贊助\" width=\"152\" height=\"35\"></a>&nbsp; -Mrbysco</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

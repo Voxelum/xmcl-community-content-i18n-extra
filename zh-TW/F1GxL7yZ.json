@@ -1,0 +1,6 @@
+{
+  "bodyHash": "BLw3VFzxDkg=",
+  "content": "貓咪傳送（CatTeleport）是一款輕量級的 Minecraft Fabric 模組，透過貓咪驅動的裝置實現自動化傳送功能。此模組讓玩家能管理重新連線時間，並簡化傳送流程。（[模組展示](0），更多關於貓咪傳送器的資訊請參閱下方連結區）\n\n### 功能特色：\n- **指令管理：** 使用簡單指令輕鬆新增、刪除、列出傳送點及進行傳送。\n- **圖形介面管理：** 透過 ModMenu 和 ClothConfig 以直覺介面管理傳送點。\n- **自訂傳送時段：** 設定特定時間範圍進行傳送，精準掌控遊戲節奏。\n\n### 指令列表：\n- **/ctp add {傳送點名稱} {開始時間}-{結束時間}：** 建立具名稱與時段設定的傳送點。\n- **/ctp del {傳送點名稱}：** 刪除指定名稱的傳送點。\n- **/ctp list：** 顯示現有傳送點列表及其時段設定。\n- **/ctp tp {傳送點名稱}：** 將您從伺服器斷線，並於「開始時間」設定後自動重新連線，為自動傳送的核心功能。\n- **/ctp rc {秒數}：** 無需建立傳送點，可單次設定於指定秒數後重新連線。\n\n詳細說明與使用範例請參閱我們的[維基頁面](https://github.com/MrMasrozYTLIVE/CatTeleportMod-Fabric/wiki)。\n\n-----------------------------\n### 相關連結：\n- [CurseForge 專頁](https://www.curseforge.com/minecraft/mc-mods/catteleportmod)\n- [Discord 社群](https://discord.gg/kma9t6Yqmp)\n\n貓咪傳送器教學影片\n- [俄文影片](https://youtu.be/jUkC2UC1MhQ?t=252) \n- [英文影片](https://www.youtube.com/watch?v=iapoJXnnoQU)\n\n-----------------------------\n### 製作群：\n- 原始開發者：JustS-js（Twitch 實況主 JustS）\n- 模組圖示取自 [Pinterest](https://id.pinterest.com/pin/563231497152766509/)，若為原始上傳者且希望移除，請透過 Discord 聯繫 @MiTask。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "WrCtATXk5o4=",
+  "content": "前身為 mGui。\n\n包含功能：\n * 簡易資料管理\n * 網路工具\n * 支援動畫的階層式 UI 渲染與錨點佈局系統\n * 特權查詢\n主要用於 tetra 模組。\n\n## 特權系統\nmutil 在 Minecraft 1.19+ 版本中內建特權系統，tetra（未來可能還有其他模組）會透過此系統提供貢獻者與贊助者專屬裝飾品。此系統會在客戶端啟動時查詢外部伺服器，確認玩家是否擁有任何特權。查詢時會傳送玩家 UUID 並採用 SSL 加密確保安全性。\n\n您可透過將 mutil-client.toml 中的 query_perks 設定值改為 false 來停用此功能。由於設定檔會在啟動時自動生成，我已準備好此設定檔，您可將其放入 config 資料夾，避免 mutil 在首次啟動時執行特權查詢。\n\n## 聯絡方式\n如有任何疑問或改進建議，歡迎透過 Discord 與我聯繫。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

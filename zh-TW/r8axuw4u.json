@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HGzWEAJXEIU=",
+  "content": "Auto Clicker (Fabric)\n=====================\n\n快捷且簡陋的 Fabric 自動點擊模組\n\n[![GitHub 授權](https://camo.githubusercontent.com/03e7df32b4e60c594087643f295cc68c21d5578bee80ad8ca33f4aeb8caeab76/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4d69636861656c48696c6c636f782f4175746f2d436c69636b65722d466162726963)](https://github.com/MichaelHillcox/Auto-Clicker-Fabric/blob/main/LICENSE)\n\n功能特色\n--------\n\n*   自動點擊（按住與連點）滑鼠左右鍵\n*   支援遵守冷卻時間的 AFK 農場\n*   可調整連點間隔（速度）\n*   （幾乎）無惱人的按鍵邏輯，完全使用原版 Minecraft 按鍵處理方式。\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/1c9b9598-52f3-402c-84a8-84f7779e1360.webp)](https://www.bisecthosting.com/mikey?rel=modrinth)\n\n使用方法（可能變更）\n------------------------------\n\n*   按下 `O`（預設按鍵）開啟 GUI，啟用並編輯每個按鈕的點擊設定\n*   按下 `I`（預設按鍵）啟用自動點擊器\n\n### 選項說明\n\n*   `啟用`：當「自動點擊器」啟用時，該按鍵會保持按住狀態（長按）\n*   `連點模式`：啟用後每刻（tick）會快速按壓與放開按鍵\n*   `速度`：控制連點發生的速率（以刻為單位），0 最快，10 最慢\n*   `遵守冷卻時間`：僅在冷卻時間結束後才會進行攻擊 ![慶祝](https://github.githubassets.com/images/icons/emoji/unicode/1f389.png)\n\n在公開伺服器使用\n---------------------\n\n我**不**支援在任何禁止此類模組的公開伺服器上使用本模組。此模組**確實**可在伺服器上運作，但我不贊成，也不會支援任何試圖在伺服器上使用本模組的人。我**沒有**時間審查每個問題；若崩潰記錄中出現伺服器連線相關問題，我會直接關閉該議題。\n\n如果你想在私人伺服器使用此模組，那是你的選擇。若你在公開伺服器使用此模組並被封禁，那也是你的責任，我**不會**支援你以這種方式使用本模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

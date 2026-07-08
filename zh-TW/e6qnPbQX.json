@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PHkveCSAi3s=",
+  "content": "這個模組新增了「變形靈」起源——一種能夠將自己變形成所擊殺生物的奇特生物。\n\n_變形靈是一種可以模仿其他生物形態的變形者。身為他們的後裔，你繼承了這項能力，但要啟動它需要血祭。_\n\n### 能力\n\n- **變形**（切換）－讓你能變形成下一個擊殺的生物。如果你已經變形，則會恢復原形。\n- **使用型態能力**（主動）－啟動當前型態的特殊能力。你可以在[木行者維基](https://github.com/ToCraft/woodwalkers-mod/wiki/Abilities)上查看型態能力列表。\n- **死亡後失去型態**－若死亡，你將恢復原形。\n\n### 設定\n\n如果你想防止玩家變形成某些生物，可以將它們加入 `tags/entity_types/denylist`。\n預設禁止的生物：`凋零怪`、`終界龍` 和 `惱鬼`。\n\n## 需求\n\n- [Origins](https://modrinth.com/mod/origins)\n- [woodwalkers](https://modrinth.com/mod/woodwalkers)\n- [Shappoli](https://modrinth.com/mod/shappoli)\n\n## 警告\n\n如果你已經在使用 [woodwalkers](https://modrinth.com/mod/woodwalkers)，不建議加入這個模組，因為它會使變形機制僅限於**變形靈**使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

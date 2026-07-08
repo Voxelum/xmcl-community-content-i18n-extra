@@ -1,0 +1,6 @@
+{
+  "bodyHash": "brSJPCtkpsE=",
+  "content": "<p>通过修改Sable的loadLibrary方法，使其加载此补丁模组中包含的安卓原生库，从而允许你在安卓设备上运行Sable。</p><p>本模组不包含Sable本体。请在此处下载：<a href=\"https://www.curseforge.com/minecraft/mc-mods/sable\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/sable</a></p><p>此模组专为使\"Create Aeronautics\"在安卓上运行而制作。&nbsp;</p><p>如遇到与sap/sable相关的崩溃问题，请通过点击<code>issues</code>按钮或点击以下链接在项目GitHub页面上报告：\n <a href=\"https://github.com/sa1672ndo/sable-android-patch/issues\" target=\"_blank\" rel=\"nofollow\">https://github.com/sa1672ndo/sable-android-patch/issues</a>\n（您需要一个GitHub账号来创建新问题）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Uijt3fkCbDo=",
+  "content": "<p align=\"center\">\n\t<img src=\"https://git.dexrn.me/Dexrn/ModernRegSyncFix/raw/branch/master/src/main/resources/assets/modernregsyncfix/icon.png\" width=\"64\" height=\"64\" alt=\"ModernRegSyncFix 圖示\">\n</p>\n\n<h1 align=\"center\">ModernRegSyncFix</h1>\n\n這是 [RegSyncFix](https://github.com/ILikeFood971/regsyncfix) 的一個硬分叉，專為現代版本設計。\n\nRegSyncFix 是一個簡單的 Fabric 模組，可繞過 Fabric API 在註冊表同步過程中發生的錯誤。你可以在伺服器端安裝此模組，完全禁用所有客戶端的同步功能；或者在客戶端安裝，讓客戶端在遇到錯誤時仍能繼續執行。\n\n### *有何不同？*\n此分叉新增了對 Minecraft 26.1 之後版本的支援。\n\n### *為什麼要這樣做？*\n原始維護者似乎已不再活躍，且難以聯繫……而我管理的一個伺服器急需一個替代模組，以便讓原版客戶端無需 Legacy4J 就能連線。\n\n如果你正好是原始維護者並看到這段內容，且有興趣繼續維護原始專案，請透過 Discord 聯繫我（帳號：`dexrn`），屆時我會將此儲存庫封存。此外，如有需要，我也會清理此分叉最後一次提交的程式碼並提交 PR。\n\n### *致謝*\n| 使用者/專案                                    | 原因                |\n|-------------------------------------------------|-----------------------|\n| [ILikeFood971](https://github.com/ILikeFood971) | 創作了 RegSyncFix |\n\n## 警告\n\n註冊表同步的存在有其必要性。若你使用此模組，當客戶端與伺服器的模組不一致時，可能會遇到意外行為。此模組僅適用於你確定一切應正常運作，但註冊表阻礙你連線的情況。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sJVjP9mFchs=",
+  "content": "# 哭泣天使模组\n\n![哭泣天使标志](https://raw.githubusercontent.com/Suff99/Weeping-Angels/1.16/src/main/resources/logo.png)\n\n哭泣天使是一个将《神秘博士》中的标志性生物添加到游戏中的Minecraft模组。这个模组最初是由a_dizzle为Minecraft 1.5.2创建的，而这个版本是对原始模组的致敬。\n\n## 特性\n\n- 哭泣天使会将你传送到随机维度中的随机位置，包括其他模组和数据包添加的维度。\n- 时间扭曲探测器物品会在附近有天使时发出警报。\n- 该模组与Vivecraft完全兼容。\n- 哭泣天使只能用镐子或用时间扭曲发生器消除。\n- 该模组完全可配置，因此您可以根据自己的喜好自定义其行为。\n\n## 安装\n\n1. 确保您已安装[Minecraft Forge](https://files.minecraftforge.net/)或[Fabric](https://fabricmc.net/use/installer/)。\n2. 从[发布页面](https://modrinth.com/mod/weeping-angels/versions)下载最新版本的模组。\n3. 将下载的`.jar`文件拖放到Minecraft目录中的`mods`文件夹中。\n\n## 配置\n\n要配置模组，请打开Minecraft目录中的`config/weeping_angels-common.toml` / `config/weeping_angels-client.toml`文件。在这里，您可以自定义哭泣天使的行为，包括它们是否可以在维度之间传送玩家。\n\n## 错误报告\n\n如果您在使用此模组时遇到任何问题，请在此处报告。\n\n## 许可证\n\n该模组根据AGPL许可证授权。有关更多详细信息，请参阅[LICENSE](https://github.com/Suff99/Weeping-Angels/blob/architectury/1.19/LICENSE)文件。\n\n## 服务器赞助\n<center>\n  <a href=\"https://www.bisecthosting.com/clients/aff.php?aff=3107\">\n    <img src=\"https://mc.craig.software/media/angels_sponser.png\" alt=\"Bisect赞助\">\n  </a>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

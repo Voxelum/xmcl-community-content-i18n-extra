@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OGjmKmToELU=",
+  "content": "# 日文\n\n此模組透過將主選單的幀率從30fps（1.7.x～1.12.2）或60fps（1.15.x～1.20.x）提升至120fps，來修正選單畫面的延遲問題。<br />\n\n# 英文\n\n此模組透過將主選單的幀率從30fps（1.7.x～1.12.2）或60fps（1.15.x～1.20.x）提升至120fps，來修正選單畫面的延遲問題。\n\n### 模組載入器\n[LegacyFabric](https://legacyfabric.net/) 或\n[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)\n\n### 必要模組\n[UniMixins 1.7.10 (Forge) ](https://modrinth.com/mod/unimixins) <br>\n[MixinBooter 1.8.x～1.11.x (Forge) ](https://modrinth.com/mod/mixinbooter/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

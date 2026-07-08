@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3d0a39e166f0ff82",
+  "content": "\n\n<p>Это порт мода Copper Lungs от jc776 на версию 1.19, адаптированный для работы с Thin Air (порт Miners Lung). Данный мод позволяет использовать водолазные костюмы из Create вместе с Thin Air. При наличии надетого водолажного шлема и баллона с воздухом, они будут использоваться вместо стандартного запаса воздуха игрока. <br />Требуется Create и Thin Air.<br /><br />-<a title=\"og\" href=\"https://modrinth.com/mod/copper-lungs\">Copper Lungs</a> (оригинальный мод от jc776)<br />-<a title=\"dep1\" href=\"https://modrinth.com/mod/create\">Create</a> (используется для водолажного снаряжения)<br />-<a title=\"dep2\" href=\"https://modrinth.com/mod/thin-air\">Thin Air</a> (добавляет механику кислорода)</p>\n<p><a href=\"https://modrinth.com/mod/create-air-fabric\">[Версия для Fabric от bitheaven]</a></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

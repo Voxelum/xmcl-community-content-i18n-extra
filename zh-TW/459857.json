@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D1m0uZRW++U=",
+  "content": "<p>此頁面為 Fabric 版本。若您正在尋找 Forge 版本，可於<a href=\"https://www.curseforge.com/minecraft/mc-mods/ferritecore/\" rel=\"nofollow\">此處</a>找到。</p><p>此模組透過幾種不同方式降低 Minecraft 的記憶體使用量。關於這些變更的高階技術說明，可參閱<a href=\"https://github.com/malte0811/FerriteCore/blob/main/summary.md\" rel=\"nofollow\">此處</a>。</p><p>節省的記憶體量取決於模組包。在《All Of Fabric 3》的 2.5.9 版本中，它將 RAM 使用量（堆積大小）從 1,792 MB 降至 984 MB。<br>\n這些數值是在以固定種子生成世界並等待兩分鐘後測量的。您可能會注意到此設定與 Forge 版本不同——我在 Forge 版本中是比較標題畫面的記憶體使用量。這是因為 Forge 會在標題畫面之前填充某些快取（由 FC 優化），而 Fabric（與原版 Minecraft）則會等到載入世界後才進行。</p><p>專案圖片為<a href=\"/linkout?remoteUrl=https%253a%252f%252fcommons.wikimedia.org%252fwiki%252fFile%253aMagnetic-core_memory%252c_at_angle.jpg\" rel=\"nofollow\">此</a>圖片的裁切版本。</p><h3>常見問題</h3><h4>我應該在伺服器端還是僅在客戶端安裝此模組？</h4><p>部分最佳化僅限客戶端，但也有某些影響較大的最佳化在伺服器端同樣重要。因此建議兩端都安裝。</p><h4>此模組與 [其他模組] 相容嗎？</h4><p>大多數情況下是相容的。唯一的例外是 Hydrogen，它與所有近期版本的 FerriteCore 相容，<em>條件是在 Hydrogen 正式發布的 Minecraft 版本上</em>。這表示 1.18 以上的版本與 Hydrogen 不相容，因為 Hydrogen 已正式封存，不會在這些版本上發布任何更新。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

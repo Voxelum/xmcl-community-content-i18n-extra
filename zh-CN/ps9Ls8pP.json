@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LCbDbttyTvw=",
+  "content": "用简单的自定义配方复制凋灵骷髅头颅！\n\n本数据包专为不想花费数小时刷头颅掉落的玩家设计。它能让玩家更轻松地获取信标和召唤凋灵所需材料，同时保持游戏公平性和生存模式兼容性。\n\n# ✨ 功能特点\n\n1. 🧩 简单易用的自定义合成配方\n1. ⏩ 材料获取方便，减少刷怪时间\n1. 🧭 服务器与单人世界均可完美运行\n1. 🔁 无指令刷屏或性能影响\n1. 🎮 保持生存模式体验，同时降低肝度\n\n⚠️ 兼容性说明：\n如果Minecraft显示此数据包不兼容，请放心——它在所有支持版本中均能正常运行。\n这仅是版本提示警告，不影响实际功能。\n\n# 🧾 合成配方\n![7个钻石 1个煤炭块 1个凋灵骷髅头颅](https://cdn.modrinth.com/data/cached_images/1b5d7e37674e44a665bbf4a7995e39019652d212.png)\n\n# 📥 安装方法：\n### 🗂️ 数据包安装方式（原版/服务器）\n- 下载.zip文件\n- 打开你的世界文件夹：\n- 单人模式：.minecraft/saves/你的世界名/\n- 服务器：你的世界目录\n- 进入datapacks文件夹\n- 拖入.zip文件（请勿解压）\n\n在游戏中运行：\n\n\n```\n/reload\n```\n\n\n确认已加载：\n\n\n```\n/datapack list\n```\n\n⚙️ 模组加载器安装方式（Forge / Fabric / Quilt / NeoForge）\n\n安装你偏好的加载器：\n- Forge\n- Fabric\n- Quilt\n- NeoForge\n\n下载**.jar版本**\n打开你的.minecraft文件夹\n将文件放入mods文件夹\n使用正确的模组加载器配置文件启动Minecraft。若使用Fabric，需安装[Fabric API](https://modrinth.com/mod/fabric-api)\n🎮 尽情享受！\n\n如有反馈、建议或问题，欢迎在项目页面留言或查看更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

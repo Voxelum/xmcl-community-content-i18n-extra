@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qSIwTUkePrw=",
+  "content": "<p>一個簡單的模組，讓你可以用右鍵採集花朵或蘑菇 - 現在支援 Forge 版本！原始模組由 MoonlitLamps 提出需求。</p><p>可被「採集」的方塊由 <code>gentlepicking:pickable</code> 方塊標籤決定。</p><p>此外，你可以將方塊加入 <code>gentlepicking:blacklist</code> 方塊標籤，這些方塊將永遠無法被採集。</p><p>採集花朵時會觸發其站立在內的踏步效果（如果有的話），所以採集凋零玫瑰時請小心！</p><p>原始模組連結：<a href=\"https://www.curseforge.com/minecraft/mc-mods/gentle-picking\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/gentle-picking</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bhUzQSQ4wPM=",
+  "content": "一個簡單的模組，用於修復在較低聊天寬度和不同字體下 Hypixel 聊天的格式問題。\n\n## 此模組的功能：\n- 修正置中文字。<br/>\n  <img alt=\"一個例子顯示即使聊天寬度改變，置中文字仍保持置中。\" src=\"https://cdn.modrinth.com/data/cached_images/bcdc962ba4cb40af475db8eebc25397691a6cbfa.gif\" width=450/>\n- 聊天分隔線變得平滑。\n\n## 不相容性\n- 與 Chat Patches 的時間戳功能不相容。\n- 希望沒有其他不相容的情況。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

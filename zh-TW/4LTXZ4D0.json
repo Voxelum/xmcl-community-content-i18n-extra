@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PkLBcMVOyRE=",
+  "content": "# ViaVersion 配方修復\n\n一個伺服器端的 Fabric 模組，可防止 Fabric API 的配方同步封包在客戶端透過 ViaVersion/ViaBackwards 使用非原生協定版本連線時造成崩潰。\n\n## 問題\n\n自 Minecraft 1.21.2 起，原版不再將所有配方同步至客戶端。Fabric API 為需要客戶端配方資料（例如 JEI）的模組新增了一個選用配方同步 API（`fabric-recipe-api-v1`）。當伺服器同時使用此功能與 ViaFabric 及 ViaBackwards 時，較舊 Minecraft 版本的客戶端會因以下錯誤崩潰：\n\n```\n無法解碼封包 'clientbound/minecraft:custom_payload'\n原因：嘗試讀取過大的 NBT 標籤\n```\n\nViaVersion 與 ViaBackwards 均未翻譯 Fabric API 的自訂 `RecipeSyncPayloadS2C` 封包，導致客戶端錯誤解析資料。\n\n## 解決方案\n\n此模組在伺服器層級攔截配方同步，並略過將封包發送給那些協定版本（透過 ViaVersion API 偵測）與伺服器原生協定不同的玩家。\n\n原生版本的客戶端則會正常收到配方同步。\n\n## 需求\n\n- Minecraft 1.21.10+\n- Fabric Loader >=0.18.0\n- Fabric API（需包含 `fabric-recipe-api-v1`）\n- ViaFabric（選用）——無此模組時本模組不會執行任何動作，但也不會造成崩潰\n\n## 建置\n\n```sh\n./gradlew build\n```\n\n輸出 jar 檔位於 `build/libs/`。\n\n## 授權條款\n\nMIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

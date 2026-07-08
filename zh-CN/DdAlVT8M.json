@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wybMz+9a+rU=",
+  "content": "**Create Aeronautics: Encased Fluid Pipes** 为 Create Aeronautics 添加了气囊包裹的流体管道方块。这是现有气囊包裹传动轴方块在流体管道上的对应版本。\n\n用任意16种染色热气球气囊包裹你的 Create 流体管道，即可在飞船外壳中引导流体，同时不破坏其密封的气球容积。手持染料右键方块可即时染色，潜行+扳手可移除包裹层使其变回普通管道，站在上面会像气囊方块一样弹起。\n\n特性：\n- 16种染色颜色，对应所有 Create Aeronautics 气囊变体\n- 算作密封气球容积，热空气通过管道依然保持密封\n- 手持任意染料右键可重新染色，无需破坏方块\n- 潜行+扳手仅移除气囊包裹层，并将其返还到你的物品栏\n- 合成配方：流体管道 + 对应颜色的气囊方块\n- 气囊破坏/放置/击中音效\n\n![飞船上的包裹流体管道](https://cdn.modrinth.com/data/cached_images/eb94195171fd9e401940d146c5dee99bc43dcd5b.png)\n\n需要前置：Create，Create Aeronautics",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

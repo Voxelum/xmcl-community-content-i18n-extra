@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Ad0gEA8GEuc=",
+  "content": "# TaCZ 护甲比例调整\n\n😎[维基页面](https://github.com/XColorful/TaCZ-Armor-Scaling/wiki)\n\n此模组允许为任意护甲配置针对 **TaCZ 子弹** 的特定伤害减免比例与耐久损耗百分比；对其他伤害来源无效。通过线性比例伤害减免机制替代原版护甲系统，以简化 TaCZ 枪械包的平衡性调整。\n\n---\n\n`此模组需在服务端安装。`\n\n## 使用说明\n\n### 前置要求\n\n本模组功能提取自 _Custom BattleRoyale_。需要以下依赖项：\n- Custom BattleRoyale ≥ 0.5.1 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/custom-battleroyale) | [Modrinth](https://modrinth.com/mod/custom-battleroyale)\n- Timeless and Classics Zero (TaCZ) [CurseForge](https://www.google.com/search?q=%23%23%23) | [Modrinth](https://www.google.com/search?q=%23%23%23)\n\n### 功能启用\n\n一键启用 _Minecraft 护甲穿透_ 功能：\n- `/armorscaling armorIgnore true`\n- `/armorscaling armorIgnore scale 1.0`\n\n启用比例化护甲伤害减免：\n- `/armorscaling damageScaling true`\n\n启用比例化护甲耐久损耗：\n- `/armorscaling durabilityScaling true`\n\n### 配置说明\n\n[护甲比例配置文件](https://github.com/XColorful/TaCZ-Armor-Scaling/wiki/Armor-scaling-config#English) 位于 _./config/armorscaling/*.json_\n- 修改后使用 `/armorscaling reload` 重载配置\n- 使用 `/armorscaling config armorscaling switch` 切换不同配置文件\n- 若单个文件内存储多套配置，使用 `/armorscaling config armorscaling id` 进行选择",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

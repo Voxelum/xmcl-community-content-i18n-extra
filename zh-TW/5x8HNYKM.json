@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AUEOOnRZWmA=",
+  "content": "## 概述\n\n這個模組為種植西瓜和南瓜增添了一種略帶趣味的新方式。簡要說明如下：\n\n- 南瓜和西瓜在被活塞推動時不再破裂，同時會受到重力影響。\n- 當南瓜和西瓜掉落在滴水石錐等方塊上時，會分裂成切片。\n  - 必須安裝 [Farmer's Delight](https://modrinth.com/mod/farmers-delight) 才能使南瓜掉落南瓜切片。\n  - 來自 [Autumnity](https://modrinth.com/mod/autumnity) 的大型南瓜切片也會分裂成小切片。（請注意，若要使標準的南瓜轉切片切菜板配方生效，還必須安裝 [Abnormals Delight](https://modrinth.com/mod/abnormals-delight)！）\n  - [1.21.1] 來自 [Abundant Atmosphere](https://modrinth.com/mod/abundant-atmosphere) 的堅果南瓜會掉落兩個南瓜切片。\n\n## 配置\n- 南瓜掉落在滴水石錐上時掉落的切片數量（預設值：4）\n- 額外掉落南瓜切片的機率（預設值：0）\n- 可能掉落的額外南瓜切片數量（預設值：0）\n- [1.19.2 & 1.21.1] 掉落的瓜類是否對實體造成傷害（預設值：true）\n\n### 方塊標籤\n帶有 `gravity_gourds:pointy` 方塊標籤的方塊會將瓜類轉變為切片形式。預設情況下，僅包含原版的滴水石錐。\n\n---\n需要 **[Blueprint](https://modrinth.com/mod/blueprint)**。可選支援 Farmer's Delight 和 Autumnity。\n\n此概念由 Freshah 提出。感謝 Freshah！\n\n歡迎將任何建議和錯誤回報至 [問題追蹤器](https://github.com/davidjjung/gravitygourds/issues)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

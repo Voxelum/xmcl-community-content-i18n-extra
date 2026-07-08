@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XfUZTBIi0b4=",
+  "content": "# 鞘翅鎖定\n\n<div>\n  <a href=\"https://modrinth.com/mod/elytralock\">\n    <img alt=\"modrinth\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg\" />\n  </a>\n  <a href=\"https://quiltmc.org\">\n    <img alt=\"quilt\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_vector.svg\" />\n  </a>\n  <a href=\"https://fabricmc.net\">\n    <img alt=\"quilt\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg\" />\n  </a>\n</div>\n\n<br />\n\n這是一個客戶端的 Fabric（相容於 Quilt）模組，可讓您鎖定鞘翅功能。\n它註冊了一個按鍵綁定（預設為 `J`），可用於切換鎖定狀態。\n\n## 使用方式\n\n當鎖定時，無法飛行或透過右鍵點擊裝備鞘翅——但仍可透過按住 Shift 鍵點擊或將其拖曳至胸甲欄位手動裝備。若鞘翅在已裝備或手動裝備時被鎖定，飛行功能將被停用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

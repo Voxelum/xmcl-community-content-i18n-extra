@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QGjaYRO8/9Q=",
+  "content": "# Nuit Interop\n\n_原名 **FabricSkyBoxes Interop**_\n\n**Nuit Interop** 為 **OptiFine/MCPatcher 自定義天空** 新增相容支援，讓現有資源包得以搭配現代多載入器版本的 FabricSkyBoxes 後繼者 [Nuit](https://modrinth.com/mod/nuit) 使用。\n\n它會在執行時將支援的 OptiFine 自定義天空定義轉換為 Nuit 的天空盒格式，使許多現有的天空資源包開箱即用。\n\n---\n\n## 功能特色\n\n- **OptiFine/MCPatcher 自定義天空支援**  \n  將支援的 `optifine/sky` 資源包定義轉換為 Nuit 相容的天空盒。\n\n- **智慧回退**  \n  當原生 Nuit/FabricSkyBoxes 格式的天空盒已存在時，跳過轉換。\n\n- **彈性控制**  \n  包含選項，可在測試或偏好轉換天空時停用原生 Nuit 格式的天空盒。\n\n- **舊版 FabricSkyBoxes 支援**  \n  計畫支援直接載入舊版 FabricSkyBoxes 格式的資源包。\n\n---\n\n## 需求\n\n- [Nuit](https://modrinth.com/mod/nuit)\n\n---\n\n## 注意事項\n\n轉換為盡力而為。由於 OptiFine/MCPatcher 與 Nuit 處理天空渲染的方式不同，部分資源包可能無法達到像素級完美呈現。\n\n---\n\n## 支援\n\n如果您覺得本專案有用，歡迎贊助開發：\n\n[![在 Ko-fi 上贊助我](https://i.imgur.com/FSNi7zk.png)](https://ko-fi.com/flashyreese)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

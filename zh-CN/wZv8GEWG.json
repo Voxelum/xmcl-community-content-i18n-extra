@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QJPFpXxQF4w=",
+  "content": "Spirit API 是一个跨加载器的API接口，用于我开发的模组中。它抽象了Neoforge和Fabric的能量、流体与物品API，并新增了类似的灵魂(Soul)API系统。\n\n与许多小型模组库类似，这个库主要是为支持我自己的模组而设计，并不追求灵活性、全面性或稳定性。\n\n请注意这是一个功能库，单独安装不会产生任何游戏效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

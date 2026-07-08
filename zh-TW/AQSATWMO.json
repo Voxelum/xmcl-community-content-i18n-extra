@@ -1,0 +1,6 @@
+{
+  "bodyHash": "iJ82ANWxSNo=",
+  "content": "## 穿過物品展示框\n\n\n![Logo](https://github.com/Anchenqua/Through-Item-Frame/blob/1.21.8-fabric/src/main/resources/assets/through-item-frame/icon.png?raw=true)\n\n\n## English\n這是一個簡單的模組    \n只有一個功能    \n防止物品展示框阻擋你開啟後方的容器    \n當然也支援螢光物品展示框（幾乎支援所有情況）。    \n[GitHub 儲存庫](https://github.com/Anchenqua/Through-Item-Frame)           \n提示：不需要伺服器安裝此模組。   \n## 使用方法\n當物品展示框放置在容器側面且展示框內有物品時，右鍵點擊展示框裡的物品可直接開啟後方的容器。蹲下並右鍵點擊展示框裡的物品可旋轉物品。左鍵功能維持不變。當物品展示框為空時，所有邏輯與原本一致。\n\n\n## 中文\n這是一個非常簡單的模組\n作用只有一個    \n防止物品展示框擋住後面的容器（包括箱子、桶、熔爐等幾乎所有可互動方塊）       \n當然了，也支援螢光物品展示框            \n[Github 儲存庫](https://github.com/Anchenqua/Through-Item-Frame)        \n提示：不需要伺服器添加這個模組\n\n## 用法\n當物品展示框被放在容器的側面並且裡面有物品的時候，右鍵展示框會打開後面的容器而不是旋轉物品，蹲下右鍵物品展示框裡的物品可以旋轉它，左鍵的邏輯不受影響，當物品展示框是空的時候，它的所有邏輯都和原本一致",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

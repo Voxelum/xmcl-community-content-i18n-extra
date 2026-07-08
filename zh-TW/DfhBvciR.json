@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HDm54oYWxCw=",
+  "content": "# 反恐精英手榴彈\n\n<img src=\"https://github.com/ThePiSquad/CounterStrikeGrenades/raw/main/assets/he.png\" width=\"32\" alt=\"高爆手榴彈\">\n<img src=\"https://github.com/ThePiSquad/CounterStrikeGrenades/raw/main/assets/flashbang.png\" width=\"32\" alt=\"閃光彈\">\n<img src=\"https://github.com/ThePiSquad/CounterStrikeGrenades/raw/main/assets/decoy.png\" width=\"32\" alt=\"誘餌彈\">\n<img src=\"https://github.com/ThePiSquad/CounterStrikeGrenades/raw/main/assets/incendiary.png\" width=\"32\" alt=\"燃燒彈\">\n<img src=\"https://github.com/ThePiSquad/CounterStrikeGrenades/raw/main/assets/smokegrenade.png\" width=\"32\" alt=\"煙霧彈\">\n<img src=\"https://github.com/ThePiSquad/CounterStrikeGrenades/raw/main/assets/molotov.png\" width=\"32\" alt=\"莫洛托夫雞尾酒\">\n\n這個模組將《絕對武力2》（包含煙霧沉降機制）中的實用工具帶入《我的世界》。\n> 這是一個進行中的專案  \n> 我們鼓勵您下載最新版本，並在可能時更新至最新版本\n\n## 依賴項目\n- [Kotlin For Forge](https://modrinth.com/mod/kotlin-for-forge)\n\n## 功能特色\n- 高爆手榴彈\n  - 與煙霧的互動效果\n- 閃光彈\n- 燃燒彈（莫洛托夫雞尾酒）\n  - 根據隊伍有不同的變體\n  - 與煙霧的互動效果\n- 煙霧彈\n  - 與 Tacz 槍械模組的整合\n- 誘餌彈\n  - 與 Tacz 槍械模組的整合\n\n## 查看 GitHub 上的最新資訊：[ThePisquad/CounterStrikeGrenades](https://github.com/ThePisquad/CounterStrikeGrenades)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

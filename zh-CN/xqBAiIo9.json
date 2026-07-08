@@ -1,0 +1,6 @@
+{
+  "bodyHash": "58M1HwGtba4=",
+  "content": "# Astrion\n\n一个基于 Fabulously Optimized 分支的客户端整合包，额外添加了 Xaero 小地图与世界地图模组、更好的手柄支持模组（MidnightControls）等。\n\n这个整合包主要是我个人使用，按照我自己喜欢的方式设置 Minecraft。如果我觉得某个想法很酷，通常会尽可能将其加入整合包。\n\n提醒一下，我并未拥有其中使用的任何模组或纹理包！我只是将它们整合在一起。如果你发现这里有属于你的资源并要求移除，只需告知我即可。\n\n## 修改列表（相对于对应版本的 Fabulously Optimized）：\n\n### 模组\n- 添加 Xaero 的小地图（作者：xaero96）\n- 添加 Xaero 的世界地图（作者：xaero96）\n- 移除 Controlify（作者：isxander）\n- 添加 MidnightControls（作者：LambdAurora、Motschen）及 Extras（作者：Motschen、TeamMidnightDust）\n- 添加 Mouse Tweaks（作者：Ivan Molodetskikh）\n- 添加 Sound Physics Remastered（作者：Sonic Ether、vlad2305m、Max Henkel、Saint）\n- 添加 BetterF3（作者：cominixo、TreyRuffy）\n- 添加 AppleSkin（作者：squeek502）\n- 添加 Visuality（作者：PinkGoosik）\n- 添加 Craftify（作者：ThatGravyBoat，用于听音乐）\n- 添加 Jade（作者：Snownee）\n- 添加 Falling Leaves（作者：randommcsomethin）\n- 添加 Simple RPC（作者：HypherionMC）\n- 添加 Presence Footsteps（作者：Hurricaaane (Ha3)、Sollace）\n\n### 纹理包\n- 添加 Enhanced Boss Bars（作者：Naku）\n- 添加 Fresh Animations（作者：FreshLX）\n- 添加 Low On Fire（作者：Haikis）\n- 添加 Icons（作者：WeNAN）\n- 添加 FancyFast Bushy Leaves（作者：Daymvre）\n- 添加 Enchant Icons（作者：CountXD）\n\n未来可能还会添加更多内容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

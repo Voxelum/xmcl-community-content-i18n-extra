@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XXmOjjMs1vg=",
+  "content": "# ⚠ 已棄用\n## 官方模組現已支援 Forge，並包含最新功能，請點擊<a href=\"https://modrinth.com/mod/sparsestructures\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">此處</a>查看。\n\n### SSR\n這是非官方的 1.16.5+ Forge 移植版，源自 [Sparse Structures](https://modrinth.com/mod/sparsestructures)。\n\n模組產生的結構也會受到影響。\n\n### 常見問題\nQ：間距 (spacing) 與分離 (separation) 有何不同？（適用於 1.16-1.19 模組設定）\n\nA：分離是指區塊間的最小距離，而間距則是區塊間的平均距離。此外，間距值必須大於分離值，否則遊戲會崩潰。\n\n### 其他\n加入我們的 Discord：https://discord.gg/g8q3UHTpCP！\n[![圖片](https://www.bisecthosting.com/partners/custom-banners/75401fe6-76e7-471c-89e5-1edd37a950ad.webp)](https://bisecthosting.com/kasualix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

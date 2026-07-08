@@ -1,0 +1,6 @@
+{
+  "bodyHash": "turwchQKwfQ=",
+  "content": "<p>ViesCraft Tweaker добавляет возможность использовать CraftTweaker (1.11.2) с рецептами для верстака самолётов и добавляет конфигурацию, заменяющую плагин jei в ViesCraft на более подробный плагин, а также исправляет некоторые интерфейсы.</p><p>&nbsp;</p><p>Также добавляется возможность настраивать топливо, которое используют дирижабли.</p><p>&nbsp;</p><p>Этот мод предназначен только для версии 1.11.2; в версии 1.12 ViesCraft использует обычные рецепты крафта.</p><p>Удаление и добавление рецептов осуществляется так же, как и в обычном CraftTweaker, только вместо «recipes» нужно указывать «mods.vctweaker», пример:</p><pre>mods.vctweaker.remove(&lt;vc:airship_workbench&gt;);\nmods.vctweaker.addShaped(&lt;minecraft:stick&gt; * 4, [[&lt;minecraft:planks&gt;, null], [null, &lt;minecraft:planks&gt;]]);\nmods.vctweaker.addShapeless(&lt;minecraft:stick&gt; * 4, [&lt;ore:plankWood&gt;, &lt;ore:plankWood&gt;]);\n\n</pre><p><span style=\"font-size:18px\"><strong>Модпаки?</strong></span></p><p><span style=\"font-size:14px\">Вы свободно можете использовать этот мод в модпаках.</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

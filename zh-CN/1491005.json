@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f+JPgJrhpLM=",
+  "content": "<h1 style=\"text-align:center\">罪孽之灰：不再有无效统计数据</h1><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_3a08b86b-b9e0-4131-8098-12e363838b85.png\"></p><p>在移除某些模组后，玩家的统计数据文件中仍会保留这些模组中的物品、方块、实体以及自定义统计条目。每次服务器启动或玩家登录时，控制台都会被类似\"Don't know what xxx:yyy is\"的警告刷屏。本模组会扫描并移除这些无效条目，让你的日志保持干净整洁。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

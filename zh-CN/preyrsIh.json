@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ItIRsrb/jnk=",
+  "content": "<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/maDU59/ProjectilesTrajectoryPreview/1.21/src/main/resources/assets/ptp/icon.png\" width=\"150\">\n  <h1>弹道轨迹预览</h1>\n\n  <a href=\"https://modrinth.com/mod/ptp\"><img src=\"https://img.shields.io/badge/dynamic/json?color=158000&label=下载量&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/preyrsIh&logo=modrinth\"></a>\n  <a href=\"https://curseforge.com/minecraft/mc-mods/ptp\"><img src=\"https://cf.way2muchnoise.eu/full_1348218_downloads.svg\"></a>\n</div>\n\n是否曾好奇你的箭矢、雪球或药水会落在何处？这款模组为你提供弹道轨迹的视觉预览，并高亮显示目标命中区域——助你精准规划每一次射击。\n\n## 🔎 功能特性\n\n- **轨迹可视化**：在发射前预览弹道飞行路径。\n- **目标高亮**：清晰预判弹着点位置。\n- **高度可定制**：可自定义轨迹线、目标轮廓和高亮效果的显示样式。\n- **计算精准**：与同类模组不同，本模组采用精确的数学计算、偏移量和物理模拟。为所有支持的弹道物提供正确的投掷方向偏移、物理步序、初速度、空气阻力和重力模拟！\n\n## ⚙️ 配置方式\n\n修改模组设置可通过以下途径：\n- 使用 Mod Menu 模组界面\n- 输入指令 `/ptpConfig` 打开配置界面\n- 直接编辑 `.minecraft/config/ptp.json` 配置文件\n\n## ⚠️ 注意事项\n\n- 游戏内弹道物通常存在随机偏移，实际落点可能与预览存在细微差异。\n- 暂不支持模组新增的投掷物。如需特定模组兼容，请在 GitHub 提交需求，我将尽力适配。\n\n## 🛑 服务器使用说明\n\n为防止在 PVP 中被用作作弊工具，本模组默认不在服务器端生效。若需在自建服务器使用，请在客户端与服务器端同时安装此模组。\n\n## 📦 整合包收录\n\n欢迎将本模组加入你的整合包。若决定收录，告知作者将不胜感激。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

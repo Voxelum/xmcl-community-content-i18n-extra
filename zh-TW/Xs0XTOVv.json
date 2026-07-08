@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SCjpvOAy/5o=",
+  "content": "# 除非你是開發者，否則請勿下載\n\n**將此檔案放入 Mods 資料夾將不會產生任何效果。**\n\n<br>\n\n### 開發者說明\n\n此 JAR 檔案包含與 Distant Horizons 進行互動所需的原始碼和類別，並且是以獨立於 Minecraft 和 Mod 載入器的方式實作。  \n在開發期間應使用此 JAR 檔案，而非完整的 Distant Horizons JAR 檔案，以避免意外使用不安全的內部方法。\n\n<br>\n\nGitLab 上的範例專案包含了使用 API 所需的所有基本內容。<br>\nhttps://gitlab.com/distant-horizons-team/distant-horizons-api-example\n\n<br>\n\n### 其他資源\n\n**API JavaDoc**<br>\nhttps://distant-horizons-team.gitlab.io/distant-horizons/\n\n**開發者 Wiki**<br>\nhttps://gitlab.com/distant-horizons-team/distant-horizons/-/wikis/home\n\n**Discord**<br>\n若您有任何上述兩個文件未提及的問題或疑問，請使用 Discord。<br>\nhttps://discord.gg/xAB8G4cENx\n\n**問題回報**<br>\n若您發現任何錯誤，或想為 API 請求新功能，請使用 Distant Horizons 的主要 GitLab Issue 頁面。<br>\nhttps://gitlab.com/distant-horizons-team/distant-horizons/-/issues",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

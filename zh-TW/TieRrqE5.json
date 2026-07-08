@@ -1,0 +1,6 @@
+{
+  "bodyHash": "qaI9mvj2Kv8=",
+  "content": "**舒適提示**是一款輕量級用戶端模組，可在遊戲中新增完全自訂的提示與訊息。\n\n您可以在載入畫面或暫停選單中顯示自己的有趣小知識、實用提示或整合包專屬資訊。\n\n![包含提示的載入畫面與暫停選單](https://cdn.modrinth.com/data/cached_images/b662f675c5911777c271dacab7346b6b49375231.png)\n\n所有提示**都儲存在本地設定檔中**，讓整合包創作者能輕鬆自訂訊息、提示或趣味冷知識。\n\n![設定檔](https://cdn.modrinth.com/data/cached_images/753f88f40b3f45c9931d0039201295576126eb70.png)\n\n### 設定方式：\n- 開啟設定資料夾，找到 **cozytips.json** 檔案\n- 您可以調整以下項目：\n  - **enabled**：顯而易見，若想關閉提示可設為 false\n  - **cycleTimeMs**：提示切換的頻率（毫秒）\n  - **title**：提示的標題\n  - **titleColor**：提示標題的顏色\n  - **textColor**：提示文字的顏色\n  - **yOffset**：提示在螢幕上的垂直位置\n  - **tips**：新增您自己的提示，數量不限！\n\n### 功能特色：\n- 透過設定檔完全自訂提示內容\n- 支援長篇與詳細訊息\n- 提示可顯示於載入畫面或暫停選單\n- 僅限用戶端使用\n- 支援 Fabric 1.20 - 26.1.2，但我也計畫移植到 Forge 與 NeoForge！\n\n本模組的目標是提供一個簡單的方式，讓您能透過設定檔為整合包加入自訂提示，而不需依賴 GitHub 等外部來源或自製模組／資源包。\n\n無論您想要遊戲提示、世界觀背景或是一些有趣小知識，**舒適提示**都能輕鬆為您的載入畫面增添個性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

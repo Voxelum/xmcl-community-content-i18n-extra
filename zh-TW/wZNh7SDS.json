@@ -1,0 +1,6 @@
+{
+  "bodyHash": "C75DbV8yUR4=",
+  "content": "## SmoothHud\n一個簡單的 Fabric Mod，可在切換快捷欄位時，讓選中的欄位高亮產生動畫效果。\n\n### 預覽：\n![快捷欄位切換動畫](https://cdn.modrinth.com/data/wZNh7SDS/images/9005ad505a83fb459fa11532c1f23cd7bf0a31c8.gif)\n\n[→ 更多圖片請見畫廊](https://modrinth.com/mod/smooth-hud/gallery)\n\n<details>\n  <summary>ModMenu Beta API 注意事項</summary>\n適用於 Minecraft 26.2 的新版本目前使用了 ModMenu Beta API（20.0.0-beta.3）。\n這不應該對使用者造成任何影響。待穩定版本釋出後，我會遷移至那些版本。\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

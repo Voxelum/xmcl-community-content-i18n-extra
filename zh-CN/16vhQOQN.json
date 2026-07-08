@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t7/a9PcHRYA=",
+  "content": "![MiniMOTD 标志](https://i.imgur.com/CXWwjOJ.png)\n\n### MiniMOTD 是一个适用于 Minecraft 服务器和代理的基本服务器列表 MOTD 插件/模组\n\n- MiniMOTD 支持通过 [MiniMessage](https://github.com/KyoriPowered/adventure-text-minimessage) 实现 RGB 颜色和渐变效果，这也是 MiniMOTD 名称的由来。\n- 有关文本格式的更多详细信息，请参阅 [MiniMessage 文档](https://docs.adventure.kyori.net/minimessage.html)。\n- RGB 颜色会自动为旧版客户端进行降采样。\n- 需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n#### 下载\n可以从 [GitHub 发布页面](https://github.com/jpenilla/MiniMOTD/releases) 获取下载。每个平台都有单独的 jar 文件，同时也有适用于所有平台的通用 jar 文件。Paper 和 Spigot 共享同一个 jar 文件，Waterfall 和 Bungeecord 也是如此。\n\n#### 配置\n有关配置的详细信息，请参阅 [wiki](https://github.com/jpenilla/MiniMOTD/wiki)。\n\n#### 截图\n![演示 MOTD 图片](https://i.ibb.co/1LRCV8b/minimotd-demo.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

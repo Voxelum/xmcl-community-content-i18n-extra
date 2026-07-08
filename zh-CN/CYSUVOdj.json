@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LjY7fFunzgM=",
+  "content": "<p><strong>装备比较</strong> 是一款可配置的客户端模组，让比较装备变得更加直观便捷。在拥有大量独特物品的模组环境中尤其实用！</p>\n<p>本模组与大多数工具提示\"比较\"类模组不同——它会在你悬停查看物品时，在旁边显示你当前已穿戴装备的工具提示。采用这种方式，可以更广泛地支持其他模组新增的各种属性与功能。</p>\n<p><img src=\"https://i.imgur.com/RySUCGZ.png\" alt=\"\" width=\"758\" height=\"300\" /></p>\n<p><strong>除1.12.2版本外，所有版本均需前置Iceberg，可在此处<a href=\"https://modrinth.com/mod/iceberg\">下载</a>。</strong></p>\n\n<h4><strong>客户端/服务器</strong></h4>\n<p>本模组完全运行在客户端。</p>\n\n<h4><strong>配置</strong></h4>\n<p>默认情况下，按住Shift键并悬停于物品上即可显示比较工具提示。此功能可在控制菜单的库存选项中进行按键绑定设置。</p>\n<p>模组的配置文件中还提供选项：可反转此行为（即始终显示比较，除非按住指定按键），并支持自定义工具提示上方\"已装备\"标识的颜色与文本。</p>\n<p>此外，您还可以指定要列入黑名单的物品ID列表，以禁用特定物品的比较功能。</p>\n<p><em>&nbsp;</em></p>\n<p><em>您可以在整合包中自由使用本模组。</em></p>\n<p>&nbsp;</p>\n<p><a title=\"加入我们的Discord！\" href=\"https://discord.gg/S5NQjbXPnb\"><em><img src=\"https://i.imgur.com/yX0xrk0.png\" alt=\"\" width=\"200\" height=\"68\" /></em></a></p>\n<p><strong><em>遇到问题、需要新功能或有其他疑问？欢迎加入Discord联系我们！</em></strong></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5KZIXIa70ec=",
+  "content": "![薰衣草書籍的登陸頁面](https://cdn.modrinth.com/data/D5h9NKNI/images/ed7daa42a82c61305de1d4ba5e19c7627adaad01.png)\n\nLavender 是一款工具，允許模組製作者、模組包製作者及所有人以易讀、直觀的指南書形式，創作玩家指南和其他遊戲內文件。\n\n所有內容均使用易學、熟悉且最重要的——可讀性強的 Markdown 語法撰寫，並搭配一系列[特殊語法](https://docs.wispforest.io/lavender/markdown-syntax)無縫整合至遊戲中。此外，還支援強大的巨集功能以及完整的 [owo-ui 框架](https://docs.wispforest.io/owo/ui)，讓您隨心所欲地使用。\n\n更重要的是，我們相信這是所有指南書模組中首次實現：所有書籍在放置於副手時皆可在遊戲內查看——極其適合在執行指令時參考條目內容。\n\n![在副手中顯示的薰衣草書籍](https://cdn.modrinth.com/data/D5h9NKNI/images/b8d3950ba69601e57ee80dd569083a755dbc335a.png)\n\n## 功能特色\n- 完全數據驅動的書籍創作，支援近乎即時的熱重載\n- 可選將條目分組至類別，方便探索\n- 條目與類別之間的深度連結\n- 結構/多方塊視覺化與建造輔助\n- 漸進式內容解鎖，以遊戲的進度系統為基礎\n- 內建支援所有原版配方類型的視覺化，並提供簡易框架以實現自訂配方\n- 本地化支援\n- 每個存檔的獨立書籤\n- 支援擴展其他模組的書籍，極適合無縫整合您的附加文件\n\n## 開始使用\n立即開始製作您自己的 Lavender 書籍，請完成[設定](https://docs.wispforest.io/lavender/setup)，然後參閱位於 https://docs.wispforest.io 的完整文件中的[入門指南](https://docs.wispforest.io/lavender/getting-started)。\n\n作為參考，查看 Affinity 的 [Wispen Testament](https://github.com/wisp-forest/affinity/tree/main/src/main/resources/assets/affinity/lavender) 可能會有所幫助，這是一個使用 Lavender 製作的優秀範例書籍。\n\n## 致謝\n- [Patchouli 團隊](https://modrinth.com/mod/patchouli) 創作了啟發 Lavender 的原始模組\n- [chyzman](https://modrinth.com/user/chyzman) 啟發了多項功能，特別是副手查看功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

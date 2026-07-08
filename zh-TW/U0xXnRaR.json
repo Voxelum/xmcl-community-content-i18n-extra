@@ -1,0 +1,6 @@
+{
+  "bodyHash": "X/G+e0+mwWU=",
+  "content": "**這是 ForgeEssentials 的（可選）客戶端附加元件**\n\n它提供了一些僅限伺服器的 Forge 模組無法實現的額外功能：（注意：客戶端附加元件與伺服器端模組功能相容，因此僅在客戶端有變更時才會更新）\n\n- /reach 指令可修改玩家的觸及距離\n- /noclip 指令\n- WorldEdit 覆蓋顯示\n- 權限覆蓋顯示",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

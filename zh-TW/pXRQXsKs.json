@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sRBCfSHrlrE=",
+  "content": "# 隨機區塊\n世界中的每個區塊都可以被隨機化。\n我建議使用 Fabric 版本，效能通常較好。\n模組支援 Forge 與 Fabric，後續也將支援 Neoforge。\n\n![範例](https://cdn.modrinth.com/data/cached_images/eae5fb04076ceeb6979a55c9daf52dda95c3dac5_0.webp)\n\n## 設定畫面\n預設按 K 鍵即可開啟設定畫面。\n\n## 自訂選項\n1. 可選擇隨機化所使用的方塊（預設停用 Falling Blocks）\n2. 啟用/停用區塊隨機化，避免已隨機化的區塊再次變動\n3. 開啟效能模式：區塊隨機化時間較長，但更流暢並減少延遲\n4. 調整隨機化範圍：僅作用於你進入的區塊或指定半徑內的區塊\n\n![設定畫面](https://cdn.modrinth.com/data/cached_images/2c79ae68bf733718baa81e3054f2d83d0007934d_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

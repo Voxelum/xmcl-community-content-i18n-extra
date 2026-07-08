@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hNvbS3c6Hko=",
+  "content": "<h1 style=\"text-align:center\"><strong>罪孽之燼：自訂反座椅實體</strong></h1><p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/981547/description_a4dde722-ccc5-4a57-8110-79b41a11413e.png\" alt=\"\" width=\"720\" height=\"450\"></p><p>設定檔會生成在&nbsp;<code>config\\ash_of_sin\\</code>&nbsp;目錄中。</p><p>設定檔的名稱為 custom_anti_seat_entity.toml。</p><p>設定檔中的實體，當處於坐下狀態時，會導致其坐著的方塊或實體被移除。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

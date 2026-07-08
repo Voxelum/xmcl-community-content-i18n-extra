@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8Vamy9E482I=",
+  "content": "# 深板岩，可瞬採與可再生深板岩\n\n成為我的 [![Patreon](https://i.imgur.com/r5hfGFc.png)](https://www.patreon.com/nicguzzo \"成為我的贊助者\")\n\n在 [![Discord](https://i.imgur.com/NyP9y98.jpg)](https://discord.gg/T9VbYBNYCR \"\") 上獲得支援\n\n---------------------- \n\n## 功能特色\n\n### 開採深板岩\n\n- 使用獄髓鎬可瞬間開採深板岩\n- 鎬必須附有效率V附魔，且玩家需處於烽火台提供的急迫II效果下\n\n### 製造更多深板岩\n\n- 可再生深板岩，如同石頭產生器般在較低Y層級（預設y=11，可配置）實現岩漿與水的交互作用\n\n### 瞬砍原木\n\n- 使用附有效率V的獄髓斧配合急迫II效果可瞬間砍伐原木（可在配置檔案中停用此功能）版本 &gt;=1.3\n\n### 使用其他工具瞬採其他方塊\n\n- 自2.4版起，可透過配置檔案新增支援瞬採的方塊與工具\n\n---------------------- \n  \n## 更新日誌\n \n### 版本 2.0 \n\n- 需要架構API (![Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api)]\n- 可配置瞬採方塊清單\n.minecraft/config/deepslate_instamine.json\n```\"pickaxe_instamine_blocks\": [\n    \"minecraft:deepslate\",\n    \"minecraft:cobblestone\",\n    \"minecraft:end_stone\"\n  ],\n  \"pickaxes_that_can_instamine\": [\n    \"minecraft:netherite_pickaxe\"\n  ],\n  \"axes_that_can_instamine\": [\n    \"minecraft:netherite_axe\"\n  ],\n  \"axe_instamine_blocks\": []\n```\n\n### 版本 2.1 更新日誌\n\n可配置支援瞬採的工具清單\n\n### 版本 2.4\n\n- 新增鵝卵石深板岩生成機制，與鵝卵石生成方式相同\n- 新增方解石生成機制，與玄武岩生成方式相同\n- 現可為斧類工具新增支援瞬採的方塊\n\n# 重要提醒：此模組需同時在客戶端與伺服器端安裝才能正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

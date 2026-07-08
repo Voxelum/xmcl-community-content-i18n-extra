@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zufHc1/fMNQ=",
+  "content": "### 寻找更新版本？\n[查看 Alvaro842DEV 为 1.21+ 制作的移植版](https://modrinth.com/mod/async-locator-refined)\n\n---\n\n修改原版特性定位机制，使其异步运行以缓解相关卡顿。\n\n当前已实现的功能：\n* 玩家执行的定位指令\n* 村民探险地图交易\n* 海豚寻宝\n* 宝箱中的探险地图（v1.1.0+）\n\n本模组仅需在服务端安装！客户端只需在单人游戏时安装。\n\n**注意：本模组仅适用于原版功能（见上方列表）。其他模组需自行调用本模组才能使用异步功能。**\n\n## 兼容性问题\n修改原版结构定位功能的模组可能会影响异步定位器的正常运行。\n\n目前已知受影响的模组：\n* [Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)  \n启动时仅会启用异步定位器或 Structure Essentials 其中一方的定位优化功能。除此外无实质冲突，且两个模组只需安装其一。\n\n## 模组集成\n其他模组可将异步定位器作为依赖项，在自己的代码中实现异步定位功能。\n请使用 [CurseMaven](https://www.cursemaven.com/) 或 [Modrinth Maven](https://docs.modrinth.com/docs/tutorials/maven/) 将本模组添加至 `build.gradle`，然后调用 [AsyncLocator 类](https://github.com/thebrightspark/AsyncLocator/blob/HEAD/Common/src/main/java/brightspark/asynclocator/AsyncLocator.java) 和/或 [逻辑类](https://github.com/thebrightspark/AsyncLocator/tree/HEAD/Common/src/main/java/brightspark/asynclocator/logic)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

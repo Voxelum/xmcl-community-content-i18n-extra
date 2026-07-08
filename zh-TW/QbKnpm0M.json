@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kvAHErGs7AA=",
+  "content": "# 寂靜之聲\n\n點擊[此處](https://www.curseforge.com/minecraft/mc-mods/the-silence-infection)獲取更頻繁的更新\n\n寂靜之聲是一款感染模組，而這一切都在完全寂靜中發生。\n\n## 遊戲機制：\n\n當你出生時，你會獲得一個開始感染的按鈕。_右鍵點擊_即可在你的位置觸發感染。然後，**快跑**。\n\n觸碰寂靜泥土的生物將被轉化為**擾亂者**，它們反過來會轉化更多生物。當你擊殺擾亂者時，它會留下危險的感染雲霧，能夠繼續轉化其他生物。\n\n每隔一段時間，**寂靜者**就會生成。這些骷髏生物極其危險，因為它們殺得越多，就會變得越強大。**_務必盡快擊殺它們。_**\n\n你可以用鐵和鑽石製作**聲波工具**來對抗感染。\n\n## 遊戲規則：\n\n感染機制完全可自訂，你可以開關以下功能：\n\n**DoBulbGrowth** 決定是否生成名為「燈泡」的小型柱體。\n\n**DoDisquieterTrail** 決定擾亂者在移動時是否會隨機放置寂靜泥土。\n\n**DoSpawnSilencer** 決定寂靜者是否會生成。\n\n**DoForcefieldParticles** 決定聲波力場是否產生粒子特效。（若遇到卡頓請關閉）\n\n**InfectionSpeed** 感染擴散速度。（預設值：100，重新登入後重置）\n\n# 盡情享受模組吧！\n\n[官方 x512 材質包！](https://modrinth.com/resourcepack/x512-the-silence-infection-textures)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

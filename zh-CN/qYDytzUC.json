@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kJM7vFyY0iY=",
+  "content": "# 简易股票查询器\n![Ez stock ticker 横幅](https://cdn.modrinth.com/data/cached_images/14f4cdf8949dc477a6990d7529b689a28a38a72b.png)\n改进了股票查询器的输入处理方式，减少了获取所需物品及正确数量的时间，\n\n## 输入改动\n- 打开菜单时搜索栏将自动聚焦\n- Shift+滚轮和Ctrl+滚轮将以16或10个物品为单位进行切换\n- 右键现在具有独特功能，可将请求数量除以2，\n- 滚动操作在超过1个单位时不再清空堆叠，只需左键点击即可移除\n\n## 仅需客户端安装\n可在任何机械动力服务器上免费使用，所有改动均在客户端内完成\n\n## 可选功能！\n设计初衷是方便整合包包含使用，因此可在股票管理菜单中轻松开关，不会造成任何影响。\n\n# 请使用 Modrinth ❤️\n与 CurseForge 不同，Modrinth 与创作者分享更多收益，采用开源模式，更注重社区驱动，值得注意的是，它没有任何让我们感到不适的关联。模组将继续在 Curseforge 上发布，但我们的一部分收入将用于援助巴勒斯坦医疗事业。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

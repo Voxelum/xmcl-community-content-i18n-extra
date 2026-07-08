@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PGYV4PndsDs=",
+  "content": "### 更新 4.0（不再需要史詩騎士作為前置模組。）\n\n此模組新增了 8 種敵人，擁有動態攻擊、格擋、閃避等功能。這些內容設計為與 Epic Fight、Indestructible、EF:Resurrection 搭配使用，若缺少這些模組，將無法正常運作！\n\n### 結構\n敵人可以在地圖中的各種結構中找到：\n\n#### 必要前置模組\n- [Huge Structure Blocks](https://modrinth.com/mod/huge-structure-blocks/versions)\n- [Epic Fight](https://modrinth.com/mod/epic-fight/version/20.14.11-mc1.20.1-forge)\n- [Epic Fight Resurrection](https://www.curseforge.com/minecraft/mc-mods/epicfight-resurrection/files/6931390)\n- [Epic Fight Indestructible](https://www.curseforge.com/minecraft/mc-mods/epic-fight-indestructible/download/6915161)\n_你必須前往 configs -> indestructible-client.toml，將 replace\\_health\\_bar = 1 改為 replace\\_health\\_bar = 0，否則會崩潰_\n\n#### 推薦模組\n[SGI-FOUNDATIONS](https://www.curseforge.com/minecraft/mc-mods/structure-generation-improver-sgi-foundations/files/7685515)\n\n### 問題回報\n請在 Discord 中回報問題\nhttps://discord.gg/tYMj9rTnCx\n\n### 此模組是為我的整合包 FalchionMC 設計的（開發中…）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

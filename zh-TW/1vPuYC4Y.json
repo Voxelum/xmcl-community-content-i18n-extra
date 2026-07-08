@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FlA5p7NpWbE=",
+  "content": "## 說明  \n一個微調箭矢射向目標的小功能。  \n\n## 使用方法  \n預設情況下，所有箭矢都會自動瞄準實體。若想防止箭矢瞄準你，需使用以下指令：  \n\n```\n/function auto_aiming:cheat\n```  \n若要恢復預設瞄準功能，則需輸入此指令：  \n\n```\n/function auto_aiming:no_cheat\n```  \n\n## 依賴項目  \n- Fabric 加載器需搭配 [Fabric API](https://modrinth.com/mod/fabric-api) 使用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cqSizOrmUbI=",
+  "content": "Patchy 128x 是一款提升了《我的世界》游戏体验的高清纹理包，同时保留了其经典风格。标准纹理包中的每个像素都被分配为8x8的像素块，形成了独特的拼布风格设计。\n\n抱歉大家，我之前忽略了Modrinth平台 :( 自上次发布以来有很多变化，包括大量修复和巨大的性能提升。由于3D矿石的模型会导致内存使用过高，现已移除。\n\nV95.2 - 26.2更新\n\n方块\n- 悬挂式告示牌已完成\n- 雕纹方块已更新\n- 朱砂和硫磺块已完成\n- 新增日光传感器\n- 新增重锤\n- 新增蜜脾块\n- 新增唱片机\n- 海带 HQX32\n- 新增磁石\n- 泥砖纹理柔和化\n- 新增磨制方块\n- 小型垂滴叶 HQX32\n- 新增潜影贝\n\n物品\n- 所有桶改为金属质感\n- 所有工具和武器改为金属质感\n- 粗金属改为金属质感\n\n主要特性\n\nPOM 3D贴图：所有方块的主要表面均具有手工制作的3D效果，呈现真实立体感。\n高光贴图：不同材质拥有符合现实的反射等级，模拟真实世界表面。\n兼容IRIS的自发光材质：包含大量发光方块，营造动态环境。\n光影兼容性：优化后可适配所有顶级光影包。\n动态矿石：独特的闪烁动画效果。\nHQX物品：2倍放大的物品纹理，视觉更平滑。\n\n截图中的Euphoria光影设置及我的游玩配置：\n配置文件：热门\nRP支持：LabPBR\n材质\\集成\\发光矿石\\发光矿石：关闭\n材质\\集成\\其他IPR\\IPBR自发光模式：LabPBR > IPBR+\n材质\\labPBR\\POM深度：0.40\n材质\\labPBR\\镂空表面使用POM：开启\n\n![HQX高分辨率物品及PBR方块和矿石](https://cdn.modrinth.com/data/cached_images/11e30d6e8a118ccddcb550f7ae398e4535c3620b_0.webp)\n\n![黑暗洞穴中闪烁的3D矿石](https://cdn.modrinth.com/data/cached_images/78d81e4d7b5fa2456bfc95afbac17aa9b6d61dd4_0.webp)\n\n![PBR效果下的《我的世界》主要方块](https://cdn.modrinth.com/data/cached_images/55dd1d34991348799f41b5514489fb434bed15a3_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

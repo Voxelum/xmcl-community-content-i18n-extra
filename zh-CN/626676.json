@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0f4DGgpK6DE=",
+  "content": "<h1>简介</h1><p>LDLib2 是对原版 LDLib 的全面重写，从底层重新设计以支持现代版本的 Minecraft。它在模组开发的多个领域提供先进的高层级解决方案，显著降低开发复杂度与长期维护成本。</p><p>LDLib2 拥有结构清晰的大规模代码库，为UI系统、着色器、模型渲染、数据同步与持久化以及游戏内可视化编辑器提供坚实基础，助力开发者更高效地构建复杂系统。</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fsDdf2yD9bh\" target=\"_blank\" rel=\"nofollow\">加入Discord社区</a></p><p><a href=\"https://github.com/Low-Drag-MC/LDLib2\" target=\"_blank\" rel=\"nofollow\">LDLib2代码仓库</a></p><p><span><span><iframe src=\"https://www.youtube.com/embed/Ic5H3YoVPjQ\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><hr><h2>💡 与 <a href=\"ldlib/index.md\" target=\"_blank\" rel=\"nofollow\">LDLib</a> 的核心差异</h2><ul>\n<li>架构全面革新 所有核心系统均针对现代Minecraft版本内部结构重写，代码更清晰可靠</li>\n<li>完整文档支持 配备详细文档、代码注释与示例，解决LDLib长期存在的实现晦涩问题</li>\n<li>淘汰陈旧系统 移除大量过时或无用的框架，使LDLib2更轻量化且易于维护</li>\n<li>增强模组兼容性 为JEI、KubeJS、EMI等主流模组提供更稳定的集成方案</li>\n</ul><hr><h2>核心模块</h2><ul>\n<li>数据同步与持久化</li>\n<li>LDLib2 UI系统</li>\n<li>着色器模块</li>\n<li>模型渲染引擎</li>\n<li>游戏内编辑器</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

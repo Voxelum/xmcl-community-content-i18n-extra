@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rqDzrJkndvI=",
+  "content": "<p><strong>CC：深海</strong> 是 <strong>机械动力：深海</strong> 的附属模组，用于添加新外设并暴露潜艇的内部信息！</p><h2>外设</h2><ul>\n<li>压载水舱<ul>\n<li>保留流体处理器方法</li>\n<li>新增 <code>isAnyHolesFaceSubmerged</code> 方法</li></ul></li>\n<li>喷水推进器<ul>\n<li>保留流体处理器方法</li>\n<li>新增 <code>getThrust</code> 方法</li>\n<li>新增 <code>getScaledThrust</code> 方法</li>\n<li>新增 <code>getAirflow</code> 方法</li>\n<li>新增 <code>getAirflowScaling</code> 方法</li>\n<li>新增 <code>getCurrentAirPressure</code> 方法</li>\n<li>新增 <code>isActive</code> 方法</li></ul></li>\n<li>创造模式供氧器<ul>\n<li>新增 <code>getCurrentSubLevelID</code> 方法</li>\n<li>新增 <code>getCompartments</code> 方法</li></ul></li>\n</ul><h2>额外方块详情</h2><p>本模组还为所有调用方块详情的方法（如 <code>turtle.inspect()</code>）添加了方块的物理属性。这些新详情将列在 <code>\"hullStrength\"</code> 键下，包含以下键值对：</p><ul>\n<li><code>maxWaterDepth: number</code>（最大水深）</li>\n<li><code>implosionChance: number</code>（内爆概率）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

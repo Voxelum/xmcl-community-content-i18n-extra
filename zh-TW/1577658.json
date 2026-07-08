@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sExtCS1H0rI=",
+  "content": "<h3>功能介紹</h3><p>Epic Fight 會對大多數生物（包括終界龍）套用其自訂的戰鬥與行為修補。這可能與替換或大幅修改終界龍 AI 的模組產生衝突，導致階段轉換中斷、無敵狀態異常或遊戲卡死等問題。</p><p>本模組透過 Epic Fight 內建的資料包系統，停用其對終界龍的生物修補功能，確保：</p><ul>\n<li>True Ending（或其他終界龍改造模組）能完全控制龍的行為</li>\n<li>終界龍階段轉換正常運作</li>\n<li>無敵狀態與棲息邏輯保持穩定</li>\n<li>Epic Fight 不會干擾終界龍的 AI</li>\n</ul><h3>運作原理</h3><p>本模組透過 Epic Fight 的 <code>epicfight_mobpatch</code> 資料系統，為終界龍注入一個簡單的修補覆蓋：</p>\n<div>\n<pre><code>{<br>  \"disabled\": <span>true</span><br>}</code></pre>\n</div>\n<p>這能避免 Epic Fight 修改終界龍，同時保留所有其他生物的完整相容性。</p><h3>相容性</h3><ul>\n<li>支援伺服器端安裝（多數情況下無需用戶端安裝）</li>\n<li>不影響終界龍以外的任何遊戲機制</li>\n</ul><p>理論上，你也可以透過自行製作資料包達到相同效果。但對單人遊戲玩家而言，為每個世界逐一添加資料包相當麻煩。有了這個模組，你只需將 .jar 檔案拖曳至 mods 資料夾，就能在所有世界中正常運作。</p><p>祝遊戲愉快！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

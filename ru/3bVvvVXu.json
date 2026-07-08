@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KcGKVayg5fw=",
+  "content": "## фантомное спавнинг\n\n[![Лицензия](https://img.shields.io/github/license/Fallen-Breath/fabric-mod-template.svg)](http://www.gnu.org/licenses/lgpl-3.0.html)\n[![рабочий процесс](https://github.com/sakura-ryoko/phantom-spawning/actions/workflows/gradle.yml/badge.svg)](https://github.com/sakura-ryoko/phantom-spawning/actions/workflows/gradle.yml)\n\nМод «Фантомный спавнинг» от Сакуры. Этот мод позволяет каждому пользователю задавать собственный статус фантомного спавна.\n\n## Как использовать\n\nВведите команду `/phantomspawning`, а затем укажите необязательный параметр `true` или `false`.\n\n**True** [_ПО УМОЛЧАНИЮ_] означает, что фантомы будут спавниться,\n**False** означает, что они не будут спавниться.\n\nСохранённые игроки будут сохранены в файле `config/phantom-spawning.json`.\n\n**НОВОЕ**: Добавлена команда `/batspawning` для администраторов, позволяющая управлять спавном летучих мышей.\n\n[![Присоединяйтесь к Discord Sakura's RyokoCraft](https://sakuraryoko.com/files/1398873/discord-300px.png)](https://discord.gg/ryokocraftmc)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

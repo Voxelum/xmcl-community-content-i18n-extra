@@ -1,0 +1,6 @@
+{
+  "bodyHash": "AKAn/4VFCMw=",
+  "content": "Это просто добавляет одну команду «weatheraddition», которая может вызывать растущую бурю в выбранной позиции и перемещаться во вторую выбранную позицию.\nПример: «weatheraddition summon_grow storm_lightning tornado_f5 ~800 ~ ~ ~ ~ ~»\nАргументы: weatheraddition summon_grow (начало) (максимум) (позиция) (цель)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

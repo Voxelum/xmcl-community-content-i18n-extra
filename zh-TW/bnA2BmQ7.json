@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gs9uJm8JWjg=",
+  "content": "[![CurseForge 下載數](https://img.shields.io/curseforge/dt/473125?style=for-the-badge&logo=curseforge&label=CurseForge)](https://www.curseforge.com/minecraft/mc-mods/elytra-chestplate-swapper) \n![Modrinth 下載數](https://img.shields.io/modrinth/dt/elytra-chestplate-swapper?style=for-the-badge&logo=modrinth&label=Modrinth)\n![GitHub 版本](https://img.shields.io/github/v/release/Saphjyr/ElytraChestplateSwapper2?style=for-the-badge)\n\n\n## 說明\n\n一個簡單的提升遊戲體驗的模組，讓你能透過按鍵在胸甲和鞘翅之間切換。\n\n## 使用方法\n\n預設按鍵為「重音符」（AZERTY 鍵盤配置為「²」），但可在遊戲選項中更改。  \n無論在物品欄內或外皆可觸發此功能。\n\n## 需求\n\n此模組需要 Fabric API。\n\n[<img src=\"https://i.imgur.com/Ol1Tcf8.png\" alt=\"需安裝 Fabric API\" width=\"120\"/>](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n\n\n## 免責聲明\n\n部分公開伺服器不允許此類模組，並能在特定情況下（例如快速連按按鍵、在按下移動鍵時切換）偵測到使用行為。在公開伺服器使用前，請先確認伺服器規則。對於不當使用此模組所導致的後果，本人概不負責。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

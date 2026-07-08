@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+ikCmWPuFtY=",
+  "content": "允許玩家移除或替換生物效果。也可以禁用特定食物的效果\n\n設定：\n\n```\n#新增效果ID以移除它。若要替換，請新增以下格式 \"效果ID=新效果ID\"\neffects = [\"minecraft:strength\", \"minecraft:strength=regeneration\"]\n#新增食物物品ID以移除其效果。\nfoods = [\"minecraft:golden_apple\"]\n#將所有效果ID列印到檔案中\nprint_effect_id = false\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

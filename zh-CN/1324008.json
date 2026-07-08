@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XjB59UH+Pmg=",
+  "content": "<h1>概述</h1><p>为 Minecraft 1.21+ 添加幸运方块，玩家破坏后可触发随机事件。</p><p><img src=\"https://media.forgecdn.net/attachments/1282/839/randomevents.png\" alt=\"事件效果\"></p><p>&gt;注：通过数据包可轻松制作扩展内容（Wiki 即将上线~）</p><h1>玩法说明</h1><h2>世界生成</h2><p>幸运方块会在原版生物群系中自然生成。</p><p><img src=\"https://media.forgecdn.net/attachments/1282/837/worldgen.png\" alt=\"世界生成示例\"></p><h2>合成方式</h2><p>可用 8 个金锭和 1 个红石块合成幸运方块。</p><p><img src=\"https://media.forgecdn.net/attachments/1282/836/crafting.png\" alt=\"合成配方\"></p><h1>功能特性</h1><p>&gt; 持续开发中</p><ul>\n<li>掉落物品</li>\n<li>生成生物</li>\n<li>放置方块</li>\n<li>方块坠落</li>\n<li>生成箱子</li>\n<li>制造爆炸</li>\n<li>产生粒子效果</li>\n<li>发送消息</li>\n<li>显示提示信息</li>\n</ul><h1>扩展内容</h1><p>&gt; 此截图来自扩展包「天境幸运方块」（尚未上传至CurseForge）</p><p>可通过数据包添加更多事件，或制作模组添加新型幸运方块。</p><p><img src=\"https://media.forgecdn.net/attachments/1282/840/addons.png\" alt=\"天境幸运方块效果\"></p><h1>注意事项</h1><ul>\n<li>可能对英语用户不友好？</li>\n<li>包含来自bilibili等平台的网络梗</li>\n<li>使用精准采集可避免触发事件并直接掉落方块</li>\n</ul><h1>开发初衷</h1><ul>\n<li>学习Minecraft模组开发</li>\n<li>与朋友共同娱乐</li>\n<li>原版幸运方块模组未更新至1.21+版本</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

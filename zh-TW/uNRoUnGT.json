@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Aiz6KlVTq1M=",
+  "content": "該模組是一個基於 Architecture API 的函式庫。\n\n本身沒有特定功能，但我部份的模組需要依賴此模組才能運作。\n\n此模組目前需要 Architecture API。\n\n \n\n本函式庫採用 MIT 授權條款，您可以在授權範圍內自由使用。\n\n需要 MCPitanLib 的模組：\n\n- Advanced Reborn (Fabric)...TechReborn 附加元件\n- Ender Cane (Fabric/Forge)...新增可讓玩家輕鬆傳送的道具\n- Enhanced Quarries (Fabric)...新增採石場、填方機等裝置\n- Item Alchemy (Fabric)...為 FabricMC 開發中的等價交換（類似 Project E）移植版本\n- Ordinary Crook (Fabric/Forge)...新增 ExNihiloAdscensio 的彎鉤。彎鉤是專門用來破壞樹葉的工具。\n- PipePlus (Fabric)...SimpleBCPipes 附加元件\n- Simple Uncrafting Table (Fabric/Forge)...新增拆解台\n- Small Stairs (Fabric/Forge)...新增小型階梯\n- Solomons Rod (Fabric/Forge)...新增所羅門之杖，可在空中放置所羅門方塊",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

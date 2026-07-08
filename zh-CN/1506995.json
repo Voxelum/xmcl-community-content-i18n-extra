@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pNWESQI6bZg=",
+  "content": "<p>BetterPvPSprint 是一款轻量级的客户端 Fabric 模组，可让您在 PvP 和生存场景中完全控制疾跑行为。功能特性：</p><ul>\n<li>通过快捷键（默认为 Z）开关自动疾跑</li>\n<li>水中疾跑独立开关（默认为 V）</li>\n<li>饥饿值过低（低于 7 格）时自动停止疾跑</li>\n<li>对角线移动检测——侧移时也能正确疾跑</li>\n<li>动作栏状态提示，随时掌握疾跑状态</li>\n<li>持久化配置——设置可在游戏会话间保存</li>\n<li>零性能影响</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XHkNFunPMLk=",
+  "content": "# 區塊載入搖晃效果\n讓區塊載入動畫變得搖晃。\n\n![動畫展示](https://cdn.modrinth.com/data/cached_images/7432c4a09b3b42d3c2ffb48a421fcf5691008fa5.gif)\n## 運作原理？\n此資源包使用**核心著色器**，根據**ChunkVisibility**參數來改變**terrain.vsh**頂點著色器中頂點的位置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

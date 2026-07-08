@@ -1,0 +1,6 @@
+{
+  "bodyHash": "v74QW4JmF10=",
+  "content": "一个简单的模组，用于缩短镶边盔甲的工具提示文本。\n\n修改前：\n![原本需要三行才能描述盔甲使用的镶边样式](https://cdn.modrinth.com/data/cached_images/53653e7cef7b669bfd2e2f35efe9d9040e049709.png)\n修改后：\n![现在只需一行即可显示](https://cdn.modrinth.com/data/cached_images/c56201881949197a72560145a689098d7b29a72b.png)\n\n该创意源自[此模组](https://modrinth.com/mod/better-trim-tooltips)，但不包含与StackedTrims的兼容功能。\n镶边材料两侧的括号并非硬编码，可通过语言文件进行自定义修改。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

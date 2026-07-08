@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LNRuly/ZtVo=",
+  "content": "<p>如果你正在制作整合包，我推荐使用\"<a href=\"https://www.curseforge.com/minecraft/mc-mods/smart-key-prompts\" target=\"_blank\" rel=\"nofollow\">智能按键提示</a>\"模组。<br>\n更多使用示例可以在<a href=\"/linkout?remoteUrl=https%253a%252f%252fwiki.mango-kubejs.pages.dev%252fzh-tw%252faddons%252fKeyBindJS%252f\" target=\"_blank\" rel=\"nofollow\">维基</a>中找到</p><p>以下是将默认饰品菜单键修改为ALT+X(移动到原版杂项分类下)并移除跳跃键绑定的示例：</p><pre><code>KeyBindEvents.modify(event =&gt; {\n    event.modifyKey('key.curios.open.desc', GLFM.GLFM_KEY_X)\n    event.modifyModifier('key.curios.open.desc', KeyModifier.ALT)\n    event.modifyCategory('key.curios.open.desc', 'key.categories.misc')\n\n    event.remove('key.jump')\n})</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

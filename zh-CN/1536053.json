@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XloPYybKtcI=",
+  "content": "<p>本模组为机械动力（Create）增添了一些便捷操作。以下是模组添加的功能表格：</p><table>\n<thead>\n<tr>\n<th>功能</th>\n<th>描述</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>连锁包裹</td>\n<td>玩家可对传动杆、传送带或流体管道进行连锁包裹或拆解包裹。（默认按键为Alt）</td>\n</tr>\n<tr>\n<td>切换管道开口</td>\n<td>玩家可右击（已包裹的）流体管道以打开或关闭其面上的开口（按住Shift可同时切换对面的开口）。</td>\n</tr>\n<tr>\n<td>副手包裹</td>\n<td>玩家在副手持有外壳时，可直接放置包裹后的传动杆、溜槽、齿轮等方块。</td>\n</tr>\n<tr>\n<td>包裹预览</td>\n<td>当玩家手持外壳并按下Alt准备连锁包裹时，可预览即将被包裹的方块。</td>\n</tr>\n</tbody>\n</table><p>以下是机械动力：惯用手（Create: Right Hand）的兼容模组：</p><table>\n<thead>\n<tr>\n<th>模组</th>\n<th>所需版本（CRH）</th>\n<th>描述</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>FTB Ultimine</td>\n<td>1.4.0+</td>\n<td>玩家可连锁包裹、拆解包裹，或使用扳手移除机械动力方块。</td>\n</tr>\n<tr>\n<td>Create: Encase</td>\n<td>1.4.0+</td>\n<td>机械动力：惯用手支持使用机械动力：包裹模组（Create: Encase）中的所有外壳。</td>\n</tr>\n</tbody>\n</table><p>以下为未来计划添加的功能：</p><table>\n<thead>\n<tr>\n<th>功能</th>\n<th>描述</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>区域包裹</td>\n<td>玩家可选择一片区域进行包裹。</td>\n</tr>\n<tr>\n<td>机械动力：拷贝猫+（Create: Copycats+）兼容</td>\n<td>玩家可连锁更改拷贝猫方块所复制的方块。</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8+pUT0d1Z28=",
+  "content": "一个库模组，汇集了我在过去三年模组开发中学到的经验，用于抽象 Fabric 和 Forge 之间的代码差异。\n\n包含配置系统，可在 Fabric 和 Forge 上使用，提供统一的配置方案（来自 Croptopia）。\n\n包含网络通信的抽象方法，隐藏 Fabric 和 Forge 数据包之间的差异（来自 Shoppy）。\n\n包含基于 GSON 的服务器端翻译功能，使得在 Fabric/Forge 服务器端模组中，无需将语言文件分发至客户端，但仍可根据客户端发送至服务器的语言设置实现本地化（为此功能而设计）。\n\n一个基于 GSON 的存储抽象层，用于存储你想要按世界保存的数据（来自 Professions）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

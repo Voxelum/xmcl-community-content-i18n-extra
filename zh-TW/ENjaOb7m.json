@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vZviMNmxVjs=",
+  "content": "**這個資料包提供了站在鐵磚上時向上傳送的功能。**\n\n如果遇到任何問題，請點擊[這裡](https://github.com/WhiteElephant-abc/anvil-falling/issues/new)回報問題。\n\n## 主要功能\n\n### 鐵磚電梯\n- 當玩家站在上下相鄰的兩個鐵磚之間時，會被向上傳送。\n- 最大傳送距離為6格，這意味著兩個鐵磚之間的最大間距為5格。\n- 不會傳送旁觀者，但會傳送生物與非生物實體。\n\n### 烽火台起飛\n- 需透過指令`/scoreboard players set BeaconFly BeaconFly 1`啟用功能。\n- 可透過指令`/scoreboard players set BeaconFly BeaconFly 0`關閉功能。\n- 當烽火台下方有鐵磚、金磚、綠寶石磚、鑽石磚或地獄合金磚（若遊戲版本為1.21以上）時，玩家會被向上傳送（旁觀者不會被傳送）。\n- 傳送高度分別為20、40、60、80和100格。\n- 可堆疊同種類方塊來增加高度（最高可達400格，使用四個地獄合金磚）。若方塊種類不同，則以最接近烽火台的方塊為基準。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

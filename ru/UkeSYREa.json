@@ -1,0 +1,6 @@
+{
+  "bodyHash": "rs9iFuZPx6A=",
+  "content": "# Дрифт-лодки (1.15+)\n\n![Изображение](https://cdn.modrinth.com/data/UkeSYREa/images/507a6afc7426f605bcad7b2d80fb1d22bfe8cf7b.png)\n\n## Это изменённая версия ресурспака [Boatcars](https://modrinth.com/resourcepack/boatcars) от [Nitrrine](https://modrinth.com/user/Nitrrine).\n\n### Изменения:\n\n- Добавлена поддержка всех лодок, кроме плотов.\n- Добавлена эмиссионность для фар.\n- Изменения в описании.\n- Правильное версионирование (работает без ошибок только с 1.15).\n- Реализованы supported_formats.\n\n[![CEM](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cem_vector.svg)](https://modrinth.com/mod/entity-model-features)\n[![Галерея](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/modrinth-gallery_vector.svg)](https://modrinth.com/resourcepack/drift-boats/gallery)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

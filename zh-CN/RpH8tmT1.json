@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KhWSaRL73YU=",
+  "content": "# 方位\n\n方位是一款为机械动力（Create）开发的附加库，旨在为附加模组开发者扩展Create的API。\n\n### 核心特性：\n\n* **超级方块实体行为：** 为SmartBlockEntity提供可组合的行为组件，包括生命周期钩子、动力学机制与渲染扩展。\n* **进度系统：** 采用Create风格的进度定义与奖励机制。\n* **轮廓显示：** 新增动画轮廓类型以提供视觉引导，尤其在Ponder场景中极为实用。\n\n### 用户须知\n\n本模组为库文件，请与所需模组一同安装，尽情享受吧！\n\n### 开发者指南\n\n本模组的文档请访问 [azimuth.azmod.net](https://azimuth.azmod.net)\n\n## 荣耀归于AZTECH\n\n**_由Cake制作_**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

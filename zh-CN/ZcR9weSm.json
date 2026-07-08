@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KGU6J1ktUtc=",
+  "content": "动态十字准星是一款适用于 Fabric 和 (Neo)Forge 启动器的 Minecraft 模组。\n它能根据上下文隐藏或改变十字准星。\n\n**注意：从版本 8 开始，该模组经历了大幅重写。配置应能自动迁移，但如果从旧版本更新，请务必检查是否有设置丢失！**\n\n## 特性\n* 未指向任何物体时隐藏十字准星。\n* 根据指向目标隐藏或显示。\n* 根据当前装备的物品隐藏或显示。\n* 针对不同情境更换十字准星样式。\n* 高度可配置。\n\n## 依赖项\n本模组适用于 Minecraft >= 1.18.2。\n\n### Fabric 版本\n* 需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n* 从版本 6 起，可选装 [YetAnotherConfigLib](https://modrinth.com/mod/yacl) 以启用游戏内配置界面\n* 版本 5.5 及以下需要 [ClothConfig](https://modrinth.com/mod/cloth-config)\n* 非必需：[Mod Menu](https://modrinth.com/mod/modmenu) 用于提供游戏内配置界面\n\n### (Neo)Forge 版本\n* 从版本 6 起，可选装 [YetAnotherConfigLib](https://modrinth.com/mod/yacl) 以启用游戏内配置界面\n* 版本 5.5 及以下需要 [ClothConfig](https://modrinth.com/mod/cloth-config)\n\n## 模组兼容性\n本模组与原版 Minecraft 高度耦合，必须硬编码大量交互规则。\n因此，在非原版世界中游玩时，高级功能（根据上下文改变样式）可能不可靠。\n\n如果使用内容模组，建议同时安装 [Dynamic Crosshair Compat](https://modrinth.com/mod/dynamiccrosshaircompat)。\n\n若喜欢动态 UI 元素，也可查看我的另一个模组 [Auto HUD](https://modrinth.com/mod/autohud)，它能将动态行为扩展至大部分 HUD 元素。\n\nDynamicCrosshair 目前与 [Exordium](https://modrinth.com/mod/exordium) 不兼容（需将其 `enabledGui` 设置为 false 才能使用其他功能），且可能与 [Immediately Fast](https://modrinth.com/mod/immediatelyfast) 存在冲突。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

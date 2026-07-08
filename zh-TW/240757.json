@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YJDSkE9zbyc=",
+  "content": "<h4><strong>描述</strong></h4><p>一個小模組，修復了畫作和物品展示框被破壞時掉落物件的呆滯行為。<br><br> 基本上，這個模組會調整掉落物件的位置，使它們不會掉進畫作/物品展示框後方的牆壁中，並且移除了掉落物件的水平隨機運動。<br><br> <strong>注意：</strong> 此模組僅需安裝在伺服器端。<br><br> <strong>Minecraft 1.9 注意事項：</strong> 這個問題實際上已在原版 1.9 更新中修復。因此，這個模組在 1.9 版本中幾乎完全不再需要。唯一的微小差異是，這個模組仍然會完全移除水平的隨機運動，使物品垂直掉落，所以我不會刪除 1.9 版本...</p><h4><strong>模組包/使用許可</strong></h4><ul>\n<li><span style=\"font-size:14.3px;line-height:1.7\">模組包：歡迎使用！</span></li>\n<li><span style=\"font-size:14.3px;line-height:1.7\">除此之外重新託管模組檔案是不允許的，明白嗎？</span></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

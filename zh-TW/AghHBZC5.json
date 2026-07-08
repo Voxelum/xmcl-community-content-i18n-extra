@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fs+nOGJ0Vrc=",
+  "content": "# 裝甲HUD模組\n\n歡迎來到**裝甲HUD模組**的儲存庫！由[SaolGhra](https://github.com/SaolGhra)創作，這個模組為Minecraft提供了清晰直觀的裝甲HUD。\n\n## 概述\n\n裝甲HUD模組為Minecraft新增了一個視覺覆蓋層，能以獨特的圖示和顏色編碼的耐久度條顯示你的裝甲狀態。這讓你在遊戲過程中更容易掌握裝甲的耐久情況。\n\n## 功能\n\n- **可見的裝甲HUD：** 清晰顯示每件裝甲對應的圖示。\n- **耐久度條：** 以顏色編碼顯示裝甲耐久度：\n  - **綠色：** 高耐久度（高於75%）\n  - **黃色：** 中等耐久度（25%-75%）\n  - **紅色：** 低耐久度（低於25%）\n  - **黑色：** 耐久度耗盡\n\n## 安裝方法\n\n1. 下載並安裝[Fabric安裝器](https://fabricmc.net/use/installer/)。\n   - 執行Fabric安裝器，選擇你的Minecraft版本。\n   - 點擊「安裝」以安裝Fabric載入器。\n2. 下載最新版本的[Fabric API](https://modrinth.com/mod/fabric-api)，並將jar檔案放入Minecraft安裝目錄中的`mods`資料夾。\n3. 從[發佈頁面](https://github.com/SaolGhra/Armor-Hud/releases)下載最新的模組版本，並將模組檔案放入`mods`資料夾。也可以從Modrinth發佈頁面下載。\n4. 使用Fabric設定檔啟動Minecraft，即可看到新的裝甲HUD。\n\n## 支援\n\n如有任何問題或疑問，請前往[問題回報頁面](https://github.com/SaolGhra/Armor-Hud/issues)或聯絡[SaolGhra](https://github.com/SaolGhra)。\n\n感謝您使用裝甲HUD模組！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

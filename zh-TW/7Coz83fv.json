@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1SyPTCh5lWk=",
+  "content": "為 Minecraft 添加了數個實用的用戶端指令。\n\n這些指令包括但不限於：\n- `/ccalc` - 計算數學表達式。\n- `/cshrug`、`/cmote` - 在聊天中發送 `¯\\_(ツ)_/¯` 或其他表情符號。\n- `/cfov`、`/cgamma` - 修改遊戲設定，可能超出正常範圍。\n- `/cfind`、`/cfindblock`、`/cfinditem` - 搜尋用戶端可視範圍內的實體、方塊，以及附近容器中的物品。\n- `/cenchant`- [附魔破解](https://github.com/Earthcomputer/clientcommands/wiki/cenchant)。\n\n如需更完整的功能列表，請參見[社群維護的 Wiki](https://github.com/Earthcomputer/clientcommands/wiki)。若有缺少的功能，歡迎自行補充。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

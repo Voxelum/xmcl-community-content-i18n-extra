@@ -1,0 +1,6 @@
+{
+  "bodyHash": "INOmp0HvZ/I=",
+  "content": "<p>Этот мод является форком мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/realistic-ore-veins\" rel=\"nofollow\">Realistic Ore Veins</a>.</p><ul>\n<li>Добавлена совместимость с вариантами рудных камней. (Или с любым другим модом, содержащим варианты рудных камней.)</li>\n<li>Добавлена команда перезагрузки. (<code>/reloadveins</code>)</li>\n</ul><p>Пример <a href=\"https://github.com/juraj-hrivnak/Underdog/blob/main/config/oreveins/170_coal.json#L7-L82\" rel=\"nofollow\">здесь</a><br>\nДругие примеры <a href=\"https://github.com/juraj-hrivnak/Underdog/tree/main/config/oreveins\" rel=\"nofollow\">здесь</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

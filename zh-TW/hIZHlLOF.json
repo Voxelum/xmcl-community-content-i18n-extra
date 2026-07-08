@@ -1,0 +1,6 @@
+{
+  "bodyHash": "582DFxMbSy8=",
+  "content": "[![mado hosting](https://cdn.modrinth.com/data/cached_images/b4d134c13be5c38e90820569398ca9c692afd3e0.png)](https://www.mado-hosting.com)\n\n# 迷霧中的男人\n\n這個模組在 Minecraft 中加入了一種會在夜間出現並跟蹤你的生物。\n最終它會開始追趕並殺死你。你可以在設定檔中更改這些選項：\n\n```\n  \"spawn_rate\": \"normal\",             -> 選項 - often, normal, rare\n  \"jumpscare\": true,\n  \"max_chase_duration\": 1000,         -> 以刻為單位\n  \"min_chase_duration\": 400,          -> 以刻為單位\n  \"climbing\": true,\n  \"vanish_distance\": 30,              -> 與你的距離，超過此距離它會消失\n  \"spawn_at_day\": false,\n  \"darkness_effect\": true,\n  \"all_dimensions\": false,\n  \"break_blocks\": true\n```\n\n加入 [Discord](https://discord.gg/mproductions) 以獲取最新消息與更新\n \n\n### 需要 Geckolib 模組！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

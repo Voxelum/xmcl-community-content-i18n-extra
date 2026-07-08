@@ -1,0 +1,6 @@
+{
+  "bodyHash": "pc7jQbsjVt4=",
+  "content": "![Bannner](https://cdn.modrinth.com/data/cached_images/76d2ed3a89c5f0e9b8b51a2fd560dd15a7df9f5e_0.webp)\n\n這是一個為模組 [Pufferfish's skills](https://modrinth.com/mod/skills) 設計的技能樹，同時也需要 [pufferfish's attributes](https://modrinth.com/mod/attributes)。\n\n它包含三棵技能樹（戰鬥、挖礦、伐木），其中戰鬥樹最為有趣。\n戰鬥樹一開始有三條不同的路徑可以選擇，之後會分支成六條路徑。**_你必須選擇你的路徑，其他的將會被鎖住。_**\n<details>\n<summary>戰鬥路徑如下：</summary>\n  \n  1 近戰 [近戰傷害、生命值、攻擊速度、治療]。\n  \n  2 遠程 [遠程傷害、跳躍提升、攻擊速度、耐力]。\n  \n  3 體魄 [幸運、奔跑速度、跳躍提升、生命值]。\n  \n\n剩下的六條路徑則是由上述三條路徑組合而成。\n\n</details>\n\n<details>\n<summary>挖礦樹包含：</summary>\n  \n- 挖掘速度\n  \n- 鎬子速度\n  \n- 鐵砧修復費用\n  \n- 幸運\n  \n</details>\n\n\n<details>\n<summary>伐木樹包含：</summary>\n\n- 斧頭速度\n\n- 挖掘速度\n\n- 擊退\n\n\n</details>\n\n**注意：如果你完成整棵技能樹，你將會變得非常強大。**\n\n如果你不喜歡這樣，或者覺得無聊，建議下載像 [這個](https://modrinth.com/mod/rpgdifficulty) 之類的模組。\n\n**如何遊玩？**\n透過以下方式獲得技能經驗值：\n- 擊殺生物\n- 挖掘礦石\n- 砍伐樹木\n  \n累積足夠的經驗值後，你將獲得一個技能點數來投資技能。\n  按下 K 鍵（預設控制）打開技能樹。\n\n**模組包**\n\n你可以在模組包中使用這個模組。\n\n**錯誤回報、問題與建議**\n\n如果你發現錯誤或有疑問，可以在 Discord 伺服器中告訴我。\n如果你有建議，可以直接告訴我本人。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hvSSU9e7dPc=",
+  "content": "<h2>更好的滑翔伞</h2><p>本模组旨在将滑翔伞的耐力系统与\"更好的战斗\"模组相结合。现在几乎所有攻击（特殊右键技能除外）都会消耗耐力值。以下是当前会消耗耐力的行为列表：</p><ul>\n<li><strong>基础攻击</strong> - 近战攻击将根据<strong>武器伤害、攻击距离、服务器配置值</strong>以及<strong>属性值</strong>来消耗耐力</li>\n<li><strong>远程攻击</strong> - 拉弓和装填弩箭时也会持续消耗耐力</li>\n<li><strong>格挡攻击</strong> - 格挡时将根据盾牌类型和承受的伤害值按比例消耗耐力</li>\n</ul><h1>V0.6.0版本重要提示：</h1><p>如果您是从旧版本升级到V0.6.0，强烈建议删除旧的服务器配置文件，因为该文件已完全重构。</p><p><strong>特别注意：</strong> 若您是从旧版本升级且曾为本模组创建过数据包，请务必查阅wiki了解数据包结构的变化。<strong>这将导致旧版数据包失效</strong>，但新结构将使未来数据包的创建<strong>更加简单规范</strong>。</p><p>&nbsp;</p><h2><strong>V0.6.0版本已全面支持Tetra模组！以及任何通过模块化武器修改伤害属性的模组。</strong></h2><p>&nbsp;</p><h2>通过数据包自定义耐力消耗</h2><p>现已支持数据包配置！请参照<a href=\"https://github.com/CravenCraft/BetterParagliders/wiki/Custom-Stamina-Costs-Datapacks\" rel=\"nofollow\">wiki指南</a>学习如何为近战武器、远程武器和盾牌设置自定义耐力消耗值。</p><p>&nbsp;</p><h2>Wiki文档</h2><p>其他任何问题请查阅<a href=\"https://github.com/CravenCraft/BetterParagliders/wiki/Better-Paragliders\" rel=\"nofollow\">wiki文档</a>，若仍有未解答的疑问欢迎留言咨询。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

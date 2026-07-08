@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FCJWDCF954E=",
+  "content": "<p>我知道市面上還有其他類似的模組，但都沒有完全符合我的需求。這個模組讓你能在衝刺時縮放方塊，還有一些生活品質的調整。<br><br>未來可能會加入體力系統，讓它稍微不那麼強勢，但由於衝刺時間很短，目前還不至於破壞遊戲平衡。</p><p>&nbsp;</p><p><strong>預設按鍵為 [ Tab ]</strong></p><p><br><img src=\"https://media.forgecdn.net/attachments/description/1541868/description_9eff80cd-efbb-4e23-927b-77f38edb2a92.png\"></p><p>特色：</p><ul>\n<li>無敵幀</li>\n<li>低耗能動畫 / 玩家閃爍效果</li>\n<li>穿透投射物</li>\n<li>衝刺時方塊縮放</li>\n<li>完全可自訂的快捷鍵、衝刺速度與長度等</li>\n</ul><p><span><span><iframe src=\"https://www.youtube.com/embed/AzBk3Jki4yc\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><p><br><span><span><iframe src=\"https://www.youtube.com/embed/MSRBsK8WpBQ\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p><p>&nbsp;</p><p>&nbsp;</p><p>更新日誌：</p><p><strong>1.0.4（特別感謝 omgsuru 留下的正面評價，激勵我發布一些更新 &lt;3）</strong></p><ul>\n<li>完全重做了免疫機制。之前會導致生物暫時失去仇恨。</li>\n</ul><p><strong>1.0.3</strong></p><ul>\n<li>修復了已知問題：啟用時免疫效果不會在衝刺結束後持續生效。新增暈影效果開關。</li>\n</ul><p><strong>1.0.2</strong></p><ul>\n<li>新增設定可移除閃爍效果，並改善衝刺與免疫數值在不同長度衝刺時的穩定性。啟用閃爍時，閃爍效果始終與無敵幀同步。</li>\n</ul><p><strong>1.0.1</strong></p><ul>\n<li>新增支援，有助於與其他會覆蓋腳步高度（如 Apotheosis）的模組相容。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

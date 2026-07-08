@@ -1,0 +1,6 @@
+{
+  "bodyHash": "OWFFsriDl+o=",
+  "content": "## Satin Free\n\n原始 [Wakes](https://modrinth.com/mod/wakes) 的新版本依賴於 [Satin API](https://modrinth.com/mod/satin-api)，但這會嚴重影響您的遊戲效能。此分支將 Wakes 0.2.2 版本（最後一個不含 Satin 的版本）更新至 1.21。與原始版本相比，根據您安裝的其他模組，您最多可獲得 3 倍的幀數提升。\n\n# Wakes\n\n### 此模組旨在添加簡單、符合原版風格的船尾波紋\n\n![水花和尾波](https://github.com/Commander07/wakes/blob/main/imgs/features_0.2.2.png?raw=true)\n\n*掉入水中時的水花以及模擬出的尾波*\n\n### 功能\n\n- 模擬所有實體後方產生的波浪\n- 船槳划動時出現波浪\n- 掉入水中時產生水花\n- 兩側噴射的水花\n- 可選的除錯與外觀設定（需安裝 [YACL](https://modrinth.com/mod/yacl)（YetAnotherConfigLib））。可從 [ModMenu](https://modrinth.com/mod/modmenu) 選單中存取這些設定。\n- 支援 Iris 光影（已知相容性請見[此處](https://github.com/Commander07/wakes/blob/main/shader_compat.md)）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

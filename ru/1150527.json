@@ -1,0 +1,6 @@
+{
+  "bodyHash": "k0NCJkks5jk=",
+  "content": "<p>При использовании <a href=\"https://www.curseforge.com/minecraft/mc-mods/armor-set-bonuses\" target=\"_blank\" rel=\"nofollow\">Armor Set Bonuses [Forge]</a> в среде с различными модами несколько раз происходил один и тот же краш, поэтому я создал мод, предотвращающий эти аварии.</p>\n<p>Если вы сталкиваетесь с подобными ошибками, это может оказаться полезным.</p>\n<pre>java.lang.NullPointerException: Cannot invoke \"net.minecraft.world.entity.player.Player.m_150109_()\" because \"player\" is null<br>&nbsp; &nbsp; at uk.co.dotcode.asb.config.SetPiece.toolTipText(SetPiece.java:160) ~[spacecatasb-forge-20.13.1.jar%23425!/:?] {re:classloading}</pre>\n<p><span style=\"color:#f1c40f\">Обратите внимание: после обновления Armor Set Bonuses этот мод может стать бесполезным!</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

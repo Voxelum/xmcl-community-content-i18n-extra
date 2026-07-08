@@ -1,0 +1,6 @@
+{
+  "bodyHash": "QClvu7N67CM=",
+  "content": "# 全物品服务器模组\n\n该模组可帮助您追踪您和朋友们在《我的世界》世界中收集过的所有物品。此模组脱胎于功能更全面、实现更完善的全物品插件。\n\n本模组旨在追踪您收集游戏内全部物品的集体进度。同时还有对应的客户端（Fabric/NeoForge）模组，让您能在自己的世界中拥有个人物品收集清单。\n\n客户端模组链接：https://modrinth.com/mod/all-items-(fabric)\nSpigot插件链接：https://modrinth.com/plugin/all-items\n\n# 配置\n\n可收集的物品列表支持自定义并兼容其他模组。默认列表仅包含原版《我的世界》中可获得的物品，但您可以根据需求自由添加或删除物品。您可以为每个世界单独配置，或修改默认列表，使新加载的世界统一使用自定义物品清单。\n\n配置文件路径：configs/AllItems\n\n# 按键绑定\n\n默认按键为B键，按下后打开菜单。请注意，每次按下B键时列表也会同步更新，因此未收入背包的物品不会被添加。\n\n# 其他模组\n\n本模组支持使用其他模组中的物品！只需在配置文件中添加 <模组ID>:<物品名称> 到对应行，即可将对应物品纳入您的收集清单。\n\n![其他模组菜单](https://cdn.modrinth.com/data/cached_images/db0250661143d6f04296a43f689fe687105589c7.png)\n\n# 过滤物品\n\n点击漏斗按钮可将已收集的物品移至列表底部，让您更清晰地识别尚未收集的物品。\n\n# 排行榜\n\n将鼠标悬停在告示牌上即可查看服务器的前三名玩家。\n\n# Discord\n\n加入Discord频道！\n链接：https://discord.gg/zHzFgWX8KW",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

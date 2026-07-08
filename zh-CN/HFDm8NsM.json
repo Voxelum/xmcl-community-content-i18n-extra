@@ -1,0 +1,6 @@
+{
+  "bodyHash": "US3yusYE1kU=",
+  "content": "# 一个神秘时代4的附属模组，提供了一些Bug修复。\n\n本模组旨在修复神秘时代4模组中的部分漏洞。您将找到一个配置文件，可分别开关每个修复项。\n\n## 已修复的Bug：\n- **骨弓**研究在某些情况下会卡住隐藏状态 → 现在出生时即解锁，无需其他条件\n- 拥有伐木核心的傀儡现在可正常砍树，即使其采集等级被其他模组（如**[采集等级配置](https://www.curseforge.com/minecraft/mc-mods/harvest-level-config)**）修改过\n- **神秘探索**曾为不存在的物品\"死灵祭坛\"添加了有问题的注魔配方 → 已移除该配方，避免引发其他模组崩溃（如**[神秘时代NEI插件：修复版](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-nei-plugin-patched)**）\n- **神秘探索**添加了16种浮空蜡烛物品/方块，但黑色蜡烛的配方会导致游戏崩溃 → 已修复！\n- 为神秘时代4附属模组中遗漏的前置条件（作者遗漏）进行了补充：\n  - **神秘基础**：\n    - 神秘护腕、虚空护腕和虚空杖芯\n  - **巫术装备**：\n    - 巫术穿戴物\n\n若您发现其他需要修复的内容（针对神秘时代或其附属模组），请告知我！\n\n# 停止Modrinth支持！\n- 最新版模组将仅发布于[**CurseForge**](https://www.curseforge.com/members/thenemex/projects)\n- 这些模组主要为我的整合包[**神秘工业2 - 专家版**](https://www.curseforge.com/minecraft/modpacks/thaumic-industries-2-expert)而制作，但我会尽力带来新功能及配置选项，让每位玩家都能享受！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

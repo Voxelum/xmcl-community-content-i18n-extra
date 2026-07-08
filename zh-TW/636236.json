@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HsStLhjghic=",
+  "content": "<h1>MCEF（Minecraft Chromium 嵌入式框架）</h1><p>MCEF 是一個用於將 Chromium 網頁瀏覽器整合至 Minecraft 的模組與函式庫。此模組本身並無實際功能，而是作為其他模組使用 Chromium 瀏覽器的基礎函式庫。</p><p>MCEF 基於 java-cef（Java Chromium 嵌入式框架），而 java-cef 又基於 CEF（Chromium 嵌入式框架），CEF 則以 Chromium 為基礎。本模組最初由 montoyo 建立，現由 CinemaMod 團隊重新編寫並持續維護。</p><p>MCEF 內建下載系統，用於下載 Chromium 瀏覽器所需的 java-cef 及 CEF 二進位檔案。此功能需連接至 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmcef-download.cinemamod.com%252f\" rel=\"nofollow\">https://mcef-download.cinemamod.com</a>。</p><p>討論區：<a href=\"https://discord.gg/rNrh5kW8Ty\" rel=\"nofollow\">https://discord.gg/rNrh5kW8Ty</a></p><p>當前 Chromium 版本：<code>116.0.5845.190</code></p><h2>支援平台</h2><ul>\n<li>Windows 10/11（x86_64, arm64）*</li>\n<li>macOS 11 或更新版本（Intel、Apple Silicon）</li>\n<li>GNU Linux glibc 2.31 或更新版本（x86_64, arm64）**</li>\n</ul><p>*部分防毒軟體可能阻止 MCEF 初始化。您可能需要暫時停用防毒軟體或將模組檔案加入白名單，MCEF 才能正常運作。</p><p>**本模組無法在 Android 上執行。</p><h2>玩家指南</h2><p>請至 Fabric 或 Forge 平台下載本模組。</p><h2>模組開發者指南</h2><p>MCEF 採用 LGPL 授權。只要您的專案未修改或包含 MCEF 原始碼，即可選擇其他授權條款。完整授權條款請參閱本目錄中的 LICENSE 檔案。</p><h3>在專案中使用 MCEF</h3><p>關於如何將 MCEF 整合至您的專案，請參閱 <a href=\"https://github.com/CinemaMod/mcef\" rel=\"nofollow\">MCEF GitHub 頁面</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

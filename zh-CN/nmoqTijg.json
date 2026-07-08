@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e5KUZCuvA6Q=",
+  "content": "[![Discord](https://img.shields.io/discord/810643286511190016?style=for-the-badge&logo=discord&label=Discord&labelColor=FFFFFF&color=5865F2)](https://discord.com/invite/ZNxRYScDS7)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter Badge](https://img.shields.io/badge/P3pp3rf1y-FFFFFF?style=for-the-badge&logo=x&logoColor=000000&label=Twitter&labelColor=FFFFFF&color=202020)](https://x.com/P3pp3rF1y)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Badge](https://img.shields.io/badge/P3pp3rf1y-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&label=GitHub&labelColor=FFFFFF&color=202020)](https://github.com/P3pp3rF1y)&nbsp;&nbsp;&nbsp;&nbsp;[![Ko-Fi Badge](https://img.shields.io/badge/P3pp3rf1y-FFFFFF?style=for-the-badge&logo=kofi&label=Ko-Fi&labelColor=FFFFFF&color=202020)](https://ko-fi.com/p3pp3rf1y)\n\n这是一个为精密模组——精密背包与精密存储——提供的库模组。\n\n它为精密模组提供了通用功能，主要包括：\n\n- 通用升级功能\n\n- 精密物品栏的处理\n\n- 支持升级及相关物品栏的GUI逻辑\n\n- 升级的渲染\n\n- 通用存储设置\n\n- 存储堆内容在其工具提示中的渲染\n\n- 通用隐藏堆逻辑\n\n该模组在整合包中可能被单独使用，但除了经验流体外，它不会添加任何玩家在游戏中可见的内容。其主要用途是作为精密模组的依赖项。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

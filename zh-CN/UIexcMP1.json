@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wpu93lw5v58=",
+  "content": "# 信息\n本模组修改了 Minecraft 的全屏模式并使其更具可定制性。默认情况下，它能让游戏在失去焦点时不会最小化，并允许其他窗口覆盖在游戏之上。\n\n## 功能\n- **新功能：** 将鼠标光标锁定在游戏窗口内，防止意外点击其他显示器上的内容。（因旧版 GLFW 限制，1.20.1 版本不可用）\n\n- 可在独占全屏和无边框全屏模式之间切换，无需重启游戏\n\n- 防止游戏在切换窗口时自动最小化\n\n- 禁止游戏以全屏模式启动\n\n- 按下 CTRL+F11（或设置的全屏快捷键），或通过 [Mod Menu](https://modrinth.com/mod/modmenu) 打开配置界面\n\n## 故障排除\n**在 Windows 10 和 11 上**，全屏优化默认启用。全屏优化能改善游戏性能，但会阻止其他内容（当游戏处于焦点状态时）覆盖在游戏之上。如果你想在游戏上层显示画中画视频或使用 Discord 叠加层，则需要**禁用全屏优化**。\n\n如果你使用的是 **Linux 系统**，且任务栏显示在游戏上方，请**禁用无边框全屏选项**。\n\n**在某些 Linux 发行版中**，由于部分窗口系统不支持常规的始终置顶窗口，因此无法在游戏前方显示任何内容。这种情况下，你需要创建自定义窗口规则来让其他内容置于游戏之上。[此处是 Firefox 画中画视频的示例](https://github.com/Bestsoft101/Better-Fullscreen/issues/14#issuecomment-3348045964)\n\n## 截图\n![配置界面截图](https://cdn.modrinth.com/data/cached_images/c746ac579014c4b2e014279a3c884f9e46a62316_0.webp)\n2.3.0 版本的配置菜单\n\n![分辨率选择器截图](https://cdn.modrinth.com/data/cached_images/e5af1553bfb3d064f141cab87039067a4ee39a25_0.webp)\n选择游戏在全屏模式下应使用的显示器和分辨率",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

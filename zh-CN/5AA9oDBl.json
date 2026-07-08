@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hbshiS2vuOw=",
+  "content": "# 高级运行时资源包，但有所不同，却依然是ARRP\n\nARRP但有所不同允许开发者在运行时动态创建资源与数据，使得开发者无需将海量资源打包进模组，即可实现诸如动态、依赖模组的物品生成等功能。\n\n### 注意\n\nARRP但有所不同是[ARRP](https://modrinth.com/mod/arrp)模组的分支版本。本模组对ARRP原有系统进行了修改，并同时支持NeoForge模组加载器。\n\n## 当前状态\n\nARRP但有所不同仍处于测试阶段。如发现任何问题或错误，请及时提交反馈。\n\n### 支持功能\n\n支持原版ARRP模组的所有生成器，仅存在细微语法差异。\n\n### 事件系统\n\nFabric支持全部事件。NeoForge目前*仅*支持\"BeforeUser\"事件。\n\n## 常见问题\n\n### 是否兼容资源包？\n\n是的，与原版ARRP模组相同，本模组会创建\"虚拟\"资源包，其优先级为倒数第二。这使得其他任何资源包都可以覆盖通过本模组生成的资源包内容。\n\n但需要注意的是，运行时资源包（RRPs）无法覆盖其他模组创建的资源，但仍可覆盖Minecraft原版资源。\n\n### 是否兼容原版ARRP？\n\n不兼容。本模组对ARRP的语法和系统架构进行了修改。\n\n## NeoForge支持说明\n\n本模组在支持Fabric的同时也兼容NeoForge，但由于两种加载器的工作机制差异，存在一处细微的兼容性问题。受模组加载方式限制，NeoForge版本无法支持Fabric版本的全部入口点。\n\n## 使用指南\n\n关于ARRP但有所不同的具体使用方法，请参阅[官方文档](https://arrp-but-different.readthedocs.io/en/latest/)。\n\n资源包制作者若需为生成资源添加支持，请参考[资源导出页面](https://arrp-but-different.readthedocs.io/zh_CN/latest/dumping-resources)。\n\n## 特别鸣谢：\n\n* [Ueaj Kerman](https://github.com/Ueaj-Kerman) 开发了\n  [原版ARRP模组](https://github.com/Ueaj-Kerman/ARRP)\n* [Misode](https://github.com/misode/) 及贡献者们开发的\n  [数据包生成器](https://misode.github.io/)\n* [Minecraft Wiki](https://minecraft.wiki) 及其贡献者持续维护\n  数据包与资源包的各种格式规范",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

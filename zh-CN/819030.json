@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wt34riyBm0o=",
+  "content": "<p><strong>如 <a href=\"https://www.curseforge.com/minecraft/modpacks/fabulously-optimized\" rel=\"nofollow\">Fabulously Optimized</a> 中所见！</strong></p><p>本资源包能让以下方块的侧面也使用顶面纹理：</p><ul>\n<li>草方块</li>\n<li>覆雪草方块</li>\n<li>土径</li>\n<li>灰化土</li>\n<li>菌丝体</li>\n<li>诡异菌岩</li>\n<li>绯红菌岩</li>\n</ul><p>土径有一个特殊功能——它们会\"蔓延\"到下方的方块，从而在村庄中看起来更无缝。</p><p>换句话说，本包以资源包的形式模仿了 OptiFine 的\"更好的草\"功能（快速模式）。这种模仿完全通过调整原版方块模型实现，未使用其他模组的资源。</p><p>常见问题：</p><ul>\n<li>问：这个能和我其他资源包一起用吗？\n<ul>\n<li>答：可以。</li>\n</ul>\n</li>\n<li>问：使用这个需要安装任何模组吗？\n<ul>\n<li>答：不需要。</li>\n</ul>\n</li>\n<li>问：你也能模仿精致模式吗？\n<ul>\n<li>答：目前还不行，也许有一天我会找到方法。</li>\n</ul>\n</li>\n<li>问：与其他类似的资源包相比如何？\n<ul>\n<li>答：本资源包：\n<ul>\n<li>ㅤ 仅使用模型，不含纹理（与其他资源包兼容性好，文件体积更小）</li>\n<li>ㅤ 无需任何模组即可使用</li>\n<li>ㅤ 与同样修改方块模型的资源包兼容</li>\n<li>ㅤ 具有向下蔓延的土径</li>\n<li>能带来轻微的性能提升</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>问：会向后移植到旧版本吗？\n<ul>\n<li>答：暂无计划。</li>\n</ul>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

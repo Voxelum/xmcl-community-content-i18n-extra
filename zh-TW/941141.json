@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+0hrahH5zM8=",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/762/248/team_capes.png\" alt=\"隊伍披風\"></p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252f\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/Loader-Fabric | Forge-ecebe6?labelColor=263768&amp;style=for-the-badge\" alt=\"模組加載器\"></a></p><h3>為隊伍中的玩家顯示隊伍顏色的披風。</h3><h3>（此模組為純客戶端，可在任何伺服器上使用）</h3><hr><h2>🟦 功能 🟥</h2><p>依賴原版隊伍及其分配的顏色。</p><p>玩家顯示的披風規則：</p><ul>\n<li>無隊伍 → 原始披風（若存在）</li>\n<li>有隊伍但無顏色 → 原始披風（若存在）</li>\n<li>有隊伍且有顏色 → 顯示隊伍披風（例如藍隊顯示藍色披風）</li>\n</ul><p><img src=\"https://media.forgecdn.net/attachments/762/247/screenshot-2023-11-21-at-19.png\" alt=\"玩家示例\"></p><h2>🤝 兼容性</h2><ul>\n<li>✅ Capes（披風模組）</li>\n<li>✅ Wavy Capes（波浪披風模組）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

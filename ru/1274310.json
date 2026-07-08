@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TWiG/pLCwXs=",
+  "content": "<p>Этот мод воспроизводит звук возвращения из смерти из Re:Zero при возрождении — для тех, кто хочет добавить более драматичный тон своим смертям.</p><p>&nbsp;</p><p>Этот мод не заставляет вас возрождаться мгновенно и не создает контрольные точки, как в сериале; он просто воспроизводит звук при возрождении, чтобы добиться эффекта, более близкого к настоящему Возвращению из смерти.</p><p>\"/gamerule doImmediateRespawn true\" и \"/gamerule keepInventory true\"</p><p>&nbsp;</p><p>&nbsp;</p><p>Я также добавил небольшой пасхалку: если набрать что-то в чате, появится еaster egg.</p><div class=\"spoiler\">\n<p>Пока ничего особенного — написание определённых слов в чате убивает вас.<br><br>Слова, которые убивают:</p>\n<div>\n<pre>\"returnbydeath\", \"returnfromdeath\",<br>\"returningbydeath\", \"returningfromdeath\",<br>\"returnedfromdeath\", \"returnedbydeath\",<br>\"resurrectbydeath\", \"resurrectfromdeath\",<br>\"comebackbydeath\", \"comebackfromdeath\",<br>\"deathloop\"</pre>\n<p><br>Просто ради комедии — не хотел слишком усложнять.</p>\n</div>\n</div><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

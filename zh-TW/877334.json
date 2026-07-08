@@ -1,0 +1,6 @@
+{
+  "bodyHash": "tgWYp4D3bGo=",
+  "content": "<p><strong>免責聲明</strong><br>這<strong>並非</strong> Create 模組的附加元件，本模組不依賴於 Create。它僅用於修復 <a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-185901\" target=\"_blank\" rel=\"nofollow\">https://bugs.mojang.com/browse/MC-185901</a>。此模組是為了解決玩家攜帶大型機械並進行渲染的特定問題而創建，因為許多玩家為其機械裝置請求此功能，故命名中包含「Create:」，但它並非 Create 模組的附加元件。</p><p><strong>資訊</strong><br>這是一個僅限用戶端的模組。它能讓玩家數據大小從原版的2MB提升至10MB。</p><p>未安裝模組時的錯誤訊息：<br><img src=\"https://cdn.modrinth.com/data/jv0UKGOX/images/fd9a41a45608bb27e946261d76cb0353d4b8a630.png\" alt=\"未安裝模組時的錯誤訊息\" width=\"813\" height=\"125\"></p><p><strong>感謝</strong><br>XLPackets 1.16，我移植了該版本 XLPackets 的這項功能。與 XLPackets 不同的是，本模組僅限用戶端使用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

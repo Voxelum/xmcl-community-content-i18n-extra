@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2Vog6OXjqXQ=",
+  "content": "# Epic Fight：更多技能欄位\n\n一個簡單的模組，為 [Epic Fight](https://modrinth.com/mod/epic-fight) 模組新增額外的技能欄位：\n\n* 2 個額外的被動技能欄位（總共 5 個）\n* 1 個額外的身分技能欄位（總共 2 個）\n\n<img src=\"https://github.com/EchoEllet/EpicFightMoreSkillSlots/blob/main/readme_images/extra_passive_slots.png?raw=true\" alt=\"額外被動技能\" width=\"1200\">\n\n此模組對於包含以下模組的整合包特別有用：  \n[Weapons of Miracles](https://modrinth.com/mod/weapons-of-miracles)、[Dodge Parry Reward](https://www.curseforge.com/minecraft/mc-mods/epic-fight-dodge-parry-reward)、  \n以及 [Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)。\n\n這些模組新增了許多被動技能。此外，如果你使用讓生存更困難的模組，沒有這些額外欄位，你將只能使用 3 個被動技能，這會限制你的角色建構選項。\n\n## 現有遊戲存檔\n\n你可以安裝此模組並載入現有世界，而不會失去目前的技能。  \n但是，如果你移除模組後再載入現有世界，額外的技能欄位將會被移除。\n\n## 相容性\n\n已在 [Epic Fight：技能樹](https://modrinth.com/mod/epic-fight-skill-tree) 中測試，並能正常運作。\n\n## 限制\n\n目前，此模組未提供調整額外技能欄位的設定選項。  \n不過，新增此功能應該很簡單。\n\n## 錯誤回報\n\n這不是官方的 Epic Fight 附加元件，任何問題應回報至  \n[此模組的問題追蹤器](https://github.com/EchoEllet/EpicFightMoreSkillSlots/issues)，而非 Epic Fight 團隊。\n\n## 免責聲明\n\n> **此模組並非官方 Minecraft 產品。  \n> 未經 Mojang 或 Microsoft 核准，亦與其無關。**\n\n> **此模組與 [Epic Fight 團隊](https://github.com/Epic-Fight) 無任何關聯。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

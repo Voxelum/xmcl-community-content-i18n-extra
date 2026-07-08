@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sowWMjshpM0=",
+  "content": "<a href='https://ko-fi.com/X8X71FI3YO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/SQ5ZLKg5/support-me-on-kofi-beige.png' border='0' alt='在Ko-fi上请我喝咖啡' /></a>\n\n## 模组描述\n\n一个能帮助你磨练PVP技巧的竞技场，拥有大量可调节设置来模拟真实战斗场景。与好友一起训练，变得更强！\n\n![预览图](https://cdn.modrinth.com/data/cached_images/366197272d6b02a7feb2d4c694c2e2776d7fee62.jpeg)\n\n## 使用说明\n\n建议先创建新世界，因为竞技场可能损坏当前世界。使用需自行承担风险。若要在现有世界使用该模组，使用前必须重新进入世界。\n\n本模组适合2、3或4名玩家。\n\n在世界中放置竞技场需要输入下方指令，然后将框架放置在目标位置。随后粒子效果会显示竞技场范围并弹出设置界面。确认时需要在已放置的框架内部再次放置框架。\n\n``` /trigger bizcub.pvp_arena.give ```\n\n在设置界面中，你可以选择竞技场类型、武器套装、护甲、食物、额外装备和药水。选择完毕后点击\"开始\"按钮。\n\n随后玩家会被传送到准备舱，有几秒钟备战时间。倒计时结束后，玩家将出现在战场展开限时对决。造成更多伤害的一方获胜。\n\n比赛结束后，玩家会传送回起点，可重新开始游戏。\n\n## 附加规则\n\n未能坚持到比赛结束的玩家将在竞技场上方的观战平台观赛，比赛结束后会与其他玩家一同传回设置菜单。\n\n竞技场与装饰区域之间的空隙会对跌落场外的玩家造成伤害。\n\n## 竞技场类型\n\n每个竞技场都有独特机制：\n\n* 平原：场内设有岩浆、水和蜘蛛网障碍\n* 冰原：遍布易碎的冰层与易被误认的粉雪\n* 烈焰：每分钟地面会随机喷发火焰\n* 蜜糖：除了减速的蜂蜜块，还会出现干扰玩家的愤怒蜜蜂\n* 水域：减缓移动速度的水域环境\n* 毒沼：减速的粘液块（可辅助跳跃），以及从天而降的中毒药水\n* 幽匿：完全黑暗的战斗环境，需依靠声音辨别方位\n\n## 依赖项\n- Fabric加载器需要[Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

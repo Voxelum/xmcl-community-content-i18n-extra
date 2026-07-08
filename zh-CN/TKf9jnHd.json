@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0FfhGFqn2Dg=",
+  "content": "我向你呈现……标题修改器模组。它自带配置文件，且由于配置需求，需要YACL才能访问配置，并需要Mod Menu才能进行实际配置（可选，因为可通过/titlechanger config指令）。\\\n该模组也有Forge和NeoForge版本，Forge仅支持1.20.1，而NeoForge支持1.21.x系列，但仅到1.21.11版本。\\\n从模组1.4.2版本开始，NeoForge支持将**被终止**。我将仅开发Fabric版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

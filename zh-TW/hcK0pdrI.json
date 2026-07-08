@@ -1,0 +1,6 @@
+{
+  "bodyHash": "MgBIL3vj97Q=",
+  "content": "**也在 [curseforge](https://legacy.curseforge.com/minecraft/mc-mods/bigger-stacks) 上**\n\n# Forge 模組\n\n<span style=\"font-size: 14px;\">解除安裝此模組的舊版本並在先前已安裝此模組的世界中使用，可能會產生負面後果！</span>\n\n# 更大的堆疊\n\n<span style=\"font-size: 14px;\">讓你能將物品堆疊上限提高到 64 以上，最高可達約 10 億（不過我不建議設那麼高）。</span>\n\n## 控制個別物品的堆疊大小\n\n<span style=\"font-size: 14px;\">此模組讓你能依據標籤、物品來源模組等條件，透過規則來改變物品的堆疊大小。</span><span style=\"font-size: 24px;\">  \n</span>\n\n# 快速開始\n\n<span style=\"font-size: 14px;\">當你載入一個未設定此模組的世界時，它會顯示以下提示：  \n</span>\n\n<span style=\"font-size: 14px;\"><img src=\"https://media.forgecdn.net/attachments/589/800/prompt.PNG\"\nwidth=\"594\" height=\"168\" /></span>\n\n<span style=\"font-size: 14px;\">點擊該指令或執行它，將會開啟設定介面。</span>\n\n你可以隨時透過執行 `/biggerstacks quicksetup` 來開啟此介面。\n\n# 相容性\n\n<span style=\"font-size: 14px;\">像這樣的模組，很可能會與某些東西不相容。如果你發現任何問題，或任何功能不如預期，請在 Codeberg 上回報。</span>\n\n<span style=\"font-size: 14px;\">部分物品傳輸模組（如 XNet、模組化路由器、Pretty Pipes、Cyclic）已針對更大的堆疊進行了調整。關於這些調整的更多資訊，請參閱設定檔。</span>\n\n<span style=\"font-size: 18px;\">**<span style=\"color: #ff0000; font-size: 18px;\">請將你發現的此模組任何問題/不相容情況回報給我，而不是其他模組的作者。</span>**</span>\n\n# 1.12 版？\n\n已有非常類似的模組適用於 1.12 版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

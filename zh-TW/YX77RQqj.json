@@ -1,0 +1,6 @@
+{
+  "bodyHash": "royt3pj6b3I=",
+  "content": "## 總覽\n\n本模組提供了一個便捷的圖形介面及可選的 KJS 介面，讓玩家能夠在遊戲內即時向開發者發送回饋。\n\n![ui](https://cdn.modrinth.com/data/cached_images/364aaa0f71f7418df54407f6a46a0fee08792950.jpeg)\n\n回饋分為全域與本地兩種模式。全域回饋適用於整合包或伺服器，且配置方式非常簡單。\n\n本地回饋可供單一模組使用——它們共用同一套 HUD，但彼此之間不會互相干擾。\n\n預設情況下，全域回饋的入口會出現在生存模式物品欄、暫停選單以及死亡畫面中；你可透過設定檔將其隱藏。\n\n![img](https://cdn.modrinth.com/data/cached_images/793d9637589457761752b74c6c367e30772f39c0.png)\n\n對於一般玩家，只需像平常一樣安裝並使用本模組即可。\n\n對於開發者，客製化過程相當直觀——請參閱下方的[**開發者手冊**](https://doc.sighs.cc/en/GeneralFeedback/dev)。\n\n本模組預設使用 GitHub Issues 作為收集回饋的後端。\n\n此外，本模組還支援：\n\n* 自訂觸發條件來開啟回饋畫面（例如：當玩家跳躍時開啟回饋介面）；\n* 傳送附加資訊（需搭配 KJS），例如將玩家的物品欄連同回饋一同傳送；\n* 自訂第三方 API 呼叫——如果你偏好其他服務，不受限於 Vika。\n\n由於涉及玩家的遊戲內資料，本模組的所有功能及相關擴充皆為完全透明。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

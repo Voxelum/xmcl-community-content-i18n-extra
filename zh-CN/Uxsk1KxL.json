@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EyGD+TW6h8c=",
+  "content": "# Mr_Chibi 的玩家商店\n允许玩家创建商店，与商店互动 [出售] 或 [购买]，收取款项并与社区互动！\n\n## 兼容哪些类型的服务器？\n* 纯原版服务器\n* Spigot / Paper\n\n### 提供哪些功能？\n* 单人游戏和多人游戏友好！\n* 商店包含“9”个槽位供玩家购物和浏览，而不是“1”个！\n* 商店与玩家绑定。\n* 玩家可以关闭商店以访问收款。\n* 玩家可以打开商店，允许公众访问和购物。\n* 每个槽位最多可放置 64 个物品，但使用管理员命令可以将物品设置为“有限”或“无限”！\n\n***\n\n### 商店管理员权限：\n* 要启用“<b>管理员模式</b>”，服务器操作员必须执行以下命令：<b>/team join mcs_admin [用户名]</b><br>\n* 要禁用“<b>管理员模式</b>”，服务器操作员必须执行以下命令：<b>/team leave [用户名]</b>\n\n### 商店管理员命令：\n例如，以下是**管理员命令**列表：\n<ul>\n<li><b>/trigger mcs_unlimited</b> - 允许商店<b>无限</b>出售物品！</li>\n<li><b>/trigger mcs_limited</b> - 将物品恢复为原始数量，不再<b>无限</b></li>\n<li><b>/trigger mcs_open</b> - 强制打开玩家的商店。</li>\n<li><b>/trigger mcs_close</b> - 强制关闭玩家的商店。</li>\n<li><b>/trigger mcs_remove</b> - 强制移除玩家的商店。</li>\n</ul>\n\n***\n\n### 玩家商店命令\n> <b>“商店所有者”</b> 可以在 0-5 格距离内使用的命令列表。\n<ul>\n<li><b>/trigger mcs_help</b> - 显示玩家商店命令列表。</li>\n<li><b>/trigger mcs_create</b> - 创建一个商店。</li>\n<li><b>/trigger mcs_open</b> - 向公众开放商店以供浏览。</li>\n<li><b>/trigger mcs_close</b> - 锁定商店，禁止公众访问。</li>\n<li><b>/trigger mcs_remove</b> - 移除商店。</li>\n</ul>\n\n### 玩家商店购买：\n> <b>“商店访客”</b> 可以在 0-5 格距离内使用的命令。\n<ul>\n<li><b>/trigger mcs_buy set [数量]</b> - 玩家必须右键点击“箱子”，然后点击聊天中的 [gui] 按钮或输入 /trigger mcs_buy set [数量]。</li>\n</ul>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

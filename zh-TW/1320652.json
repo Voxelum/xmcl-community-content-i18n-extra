@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GArqRy57BZ8=",
+  "content": "<h1>雪之精靈法術</h1><p>你是否曾在擊敗<strong>雪之女王</strong>後感到一絲遺憾——希望她能陪伴你，而不是只成為另一個戰利品頭顱？<br>本模組新增了一個法術：<strong>雪之誓約</strong>。</p><hr><h2>📜 運作方式</h2><ul>\n<li>擊敗雪之女王後，她會掉落她的<strong>靈魂</strong>。</li>\n<li>使用該靈魂會賦予你一個<strong>隨機等級 1–3 的雪之誓約卷軸</strong>。</li>\n<li>使用卷軸，你可以召喚<strong>雪之精靈</strong>的忠誠僕從形態。</li>\n</ul><p><img src=\"https://media.forgecdn.net/attachments/description/1320652/description_5758ba0d-2135-4077-b3df-a578ae89a932.png\" alt=\"\" width=\"556\" height=\"472\"></p><hr><h2>❄ 雪之精靈特性</h2><ul>\n<li>雪之精靈會使用多種<strong>冰系法術</strong>協助你戰鬥。</li>\n<li><strong>右鍵</strong>點擊她可切換站立與坐下（待命）模式。</li>\n<li><strong>潛行 + 右鍵</strong>會將她<strong>傳送到你的位置</strong>並讓她原地坐下。</li>\n<li>手持<strong>空桶右鍵</strong>點擊可觸發<strong>特殊彩蛋</strong>。</li>\n</ul><hr><h2>⚙ 設定</h2><p>你可以在 config/SnowWaifuSpellConfig.toml 中自訂雪之精靈的屬性（生命值、傷害、技能強度、召喚持續時間等）。</p><hr><p>享受你的冰霜夥伴在你身邊並肩作戰的時光吧！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

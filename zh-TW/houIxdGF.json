@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f4V8YqyENYw=",
+  "content": "<p align=\"center\">\n    <img alt=\"Shut Up GL Error\" src=\"https://github.com/JamCoreModding/shut-up-gl-error/blob/1.20.1/banner.png?raw=true\" />\n<p align=\"center\">\n\n抑制GL錯誤，包括那些煩人且不斷出現的無效鍵碼記錄訊息：\n\n```\n########## GL 錯誤 ##########\n@ 預渲染\n65539: 無效的鍵值 -1\n```\n\n此模組可配置為完全靜默錯誤（預設）、僅記錄每種錯誤代碼一次，或是始終記錄所有錯誤。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "wXM9cqVRMN4=",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/cached_images/2755f12b234e5834d2ad31ef93a6eb745f29ab10.png\" alt=\"\" width=\"1225\" height=\"99\"></p><p>一個簡單的模組，能防止 Minecraft 在標籤中若有一或多個無效條目時，直接丟棄整個標籤的內容。遊戲內會顯示訊息告知標籤已被「處理」，而更多類似於原版遊戲的資訊可在執行該模組的伺服器/用戶端日誌中找到。</p><p>&nbsp;</p><p>此模組的設計初衷在於：有些模組或資料包可能會添加無效條目至「minecraft:mineable/pickaxe」等標籤，導致所有可用鎬挖掘的方塊變得無法挖掘，從而破壞遊戲體驗。</p><p>&nbsp;</p><p><strong>簡而言之</strong>：此模組能防止模組或資料包的錯誤導致遊戲部分功能完全失效。如果想<strong>了解</strong>或<strong>關閉</strong>遊戲內聊天訊息，請參閱 <a href=\"https://github.com/Dragon-Seeker/LoadMyFingTags/blob/3961e898550c4d996199bea0fa408a61e87e8dba/info.md\" rel=\"nofollow\">GitHub 連結</a>以獲得更多資訊。</p><p>&nbsp;</p><h2>版本說明</h2><ul>\n<li><span><strong>[多載入器更新]</strong></span> Ver1.0.1：修復混入僅應用於客戶端的問題</li>\n</ul><h4>Forge</h4><ul>\n<li><span><strong>[47.1.44 - 47.2.5]</strong></span> Ver1.0.3：修復 Forge 重新實作單人遊戲模組選單的問題</li>\n<li><span><strong>[47.2.6 及以上]</strong></span> Ver1.0.4：修復 Forge 修補程式中 TagGroup.Loader 使用 HashSet 而非 LinkedHashSet 的錯誤</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

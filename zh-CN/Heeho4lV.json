@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ckBSwOAYSJ0=",
+  "content": "# X-Ray World 数据包\n\n你是否曾使用过X-Ray资源包？你是否想过\"天啊，如果整个世界*真的*变成这样会是什么感觉……\"\n\n……你说没有？\n\n好吧，无论如何我还是做了个实现这种效果的数据包。世界看起来完全正常，除了大部分地形都消失了……只有矿石和建筑骨架残留在地面上……你可能在y=0层的煤矿脉上生成，孤零零地悬浮在虚空中。但嘿！至少钻石变得容易找了对吧？\n\n## 这不是X光模组 / 使用方法：\n1. 这**不是**X光模组/资源包。这是一个世界生成数据包。它会覆盖默认的世界生成规则来移除地形。\n2. 使用方法：安装数据包/模组后创建新世界。\n   - 如果遇到问题，可能是数据包转模组时存在兼容性问题。请在我的Discord或GitHub页面提交错误报告，并附上模组列表、模组加载器、错误信息、版本号等详情。\n3. 不支持自定义世界选项（如超平坦、巨型化等，未来可能会添加支持）。\n4. 本数据包与生物群系模组不兼容，且可能与部分地形生成模组冲突。\n\n## 赞助商：Sparked Host\n[![Sparked Host服务器托管广告横幅，使用优惠码\"Klinbee\"享75折](https://cdn.modrinth.com/data/cached_images/0686265f0089a5e8a0227a599e18b8ef4cd4777c.jpeg)](https://billing.sparkedhost.com/aff.php?aff=2956)\n\n## 推荐这个数据包！\n[无地形世界生成！](https://modrinth.com/datapack/terrainless-worlds)\n\n**特别鸣谢 [Apollo](https://modrinth.com/user/Apollo) 发现实现该数据包的关键技术！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

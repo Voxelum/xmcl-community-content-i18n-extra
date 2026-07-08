@@ -1,0 +1,6 @@
+{
+  "bodyHash": "r2j1hMK9cpI=",
+  "content": "<section>本模组主要包含两大核心功能：</section><ol>\n<li>\n<section>新型AE设备：ME任务检测器。接入AE网络后，可检测或提交存储系统中的物品/流体以完成FTB任务。检测器会与放置者所属的FTB队伍自动绑定，能够自动扫描存储内容完成非消耗型任务。当队员通过任务界面主动提交时，系统将优先从ME存储网络中提取物品/流体。</section>\n</li>\n<li>\n<section>为FTB任务中的流体类任务新增\"消耗流体\"属性（原版必须通过任务进度检测器消耗性提交）。当设置为\"非消耗\"模式时，只要AE存储中存在对应类型及足量流体即可完成任务。</section>\n</li>\n</ol><section></section><section></section><section></section><section>本模组主要包含以下两项功能：&nbsp;</section><section>\n<ol>\n<li>AE设备：ME任务检测器，接入AE网络即可通过检测或提交存储物品/流体来完成FTB任务。检测器自动绑定放置者所属FTB队伍，可自动完成非消耗型任务。队员主动提交任务时，将优先消耗ME存储中的物品/流体。&nbsp;</li>\n<li>为FTB流体任务新增\"是否消耗流体\"选项（原版必须通过任务进度检测器消耗性提交），设为\"不消耗\"时，AE存储中存在对应流体即可完成任务。</li>\n</ol>\n</section>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

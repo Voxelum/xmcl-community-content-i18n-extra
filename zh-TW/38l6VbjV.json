@@ -1,0 +1,6 @@
+{
+  "bodyHash": "nwD6kTzlHvc=",
+  "content": "# 鍵盤巫師：經典版\n為 Minecraft forge 1.7.10 / 1.8.9 版本回溯移植的 [鍵盤巫師](https://www.curseforge.com/minecraft/mc-mods/keyboard-wizard \"Keyboard Wizard\") 模組。\n\n## 原始模組說明：\n\n*此模組協助解決按鍵衝突及尋找未綁定按鍵。它在控制介面中新增一個「額外」選項，於中央顯示互動式鍵盤圖示。*\n\n*開啟此介面（預設快捷鍵為 F8）後，左側將顯示按鍵綁定列表，右側則為彩色標示的鍵盤圖示。*\n\n*白色按鍵代表未綁定功能*\n*綠色按鍵代表僅綁定單一功能*\n*紅色按鍵代表綁定多個衝突功能*\n\n*點擊鍵盤圖示上的按鍵（或滑鼠按鈕），即可將左側選定的功能綁定至該按鍵。*\n\n*點擊「所有綁定」按鈕可切換左側列表顯示的功能分類。*\n\n*可透過列表下方的搜尋欄輸入功能名稱來篩選綁定列表，亦可用角括號包覆按鍵名稱進行篩選（例如：&lt;左 Ctrl&gt;）。*\n\n## 注意事項：\n\n您**完全可自由**將本模組加入自製模組包；\n本模組需以 **[現代按鍵綁定庫](https://modrinth.com/mod/modernkeybinding \"Modern Keybinding\")** 作為依賴項目（請注意該庫可能需額外依賴項）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

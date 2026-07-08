@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D0OtEK5jNlI=",
+  "content": "\"创世挑剔水车\"模组修改了\"创世\"模组中水车的默认行为。其运作方式与软管滑轮类似，水车需要与大片水域接触才能工作，但除此之外，它们还需要位于河流生物群系中才能正常运转。否则将无法产生动力。这一改动同时适用于小型和大型水车。\n\n该模组同样修改了\"创世\"模组中风车的默认行为。风车会检测周围区域是否有足够的开阔空间让\"空气流通\"，同时还会检测放置位置的生物群系。默认设置下，风车只允许在主世界中工作。\n\n本模组不添加任何新方块。\n\n至于警告提示（如下图所示的风车提示），请使用\"创世\"模组的谷歌查询功能。\n\n关于阈值配置（与\"创世\"模组中的软管滑轮类似），以及生物群系要求的设置，可通过生物群系标签进行调整。\n\n该项目的设计初衷是与\"低温炽热\"模组配合使用，且意图与削弱了容量的风车和水车搭配。\n\n兼容性说明：\n\n- TFC模组：将 waterwheelsSourceRequiresFlow 设为 true，河流便能正确驱动水车。\n- 流动流体模组：将 waterwheelsAcceptsFlowing 设为 true，水车将识别非满格的水方块。若希望更浅的水层也被识别，可调整 waterwheelsMinimumShallowness 参数。要使其生效，须先在流动流体模组的配置中将水轮要求设为\"流动\"，这样生物群系检查等功能将由本模组而非流动流体模组负责。\n- 默认情况下，对于使用水轮的结构，waterwheelsPickyOnPlacement 设为 true，即仅对玩家放置的水轮生效要求。\n\n![展示水车当前有效运作条件的示意图](https://cdn.modrinth.com/data/Zotbxaw6/images/c009693070c63e978d43ab267c39070eed26c539.png)\n\n![风车因缺乏空气流动而失效的示意图](https://cdn.modrinth.com/data/Zotbxaw6/images/59eecb62b56fe6b650f636e91ab01b25e1db8cd1.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

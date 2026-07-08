@@ -1,0 +1,6 @@
+{
+  "bodyHash": "68XMaAbMgu0=",
+  "content": "<h1>Запрет на использование второго руки</h1><h2><strong>Функция</strong></h2><ul>\n<li>Предотвращает попадание указанных предметов в слот второй руки.</li>\n</ul><h2><strong>Команда</strong></h2><ul>\n<li>\n<p>/addOffBan &lt;xxxxx:xxxx&gt; — добавить предмет, запрещённый для использования во второй руке.</p>\n</li>\n<li>\n<p>/delOffBan &lt;xxxxx:xxxx&gt; — удалить предмет, запрещённый для использования во второй руке.</p>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

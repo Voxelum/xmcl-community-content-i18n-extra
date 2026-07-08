@@ -1,0 +1,6 @@
+{
+  "bodyHash": "XXmOjjMs1vg=",
+  "content": "# ⚠ Устарело\n## Официальный мод теперь поддерживает Forge, с последними функциями; вы можете найти его <a href=\"https://modrinth.com/mod/sparsestructures\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">здесь</a>.\n\n### SSR\nЭто неофициальный порт [Sparse Structures](https://modrinth.com/mod/sparsestructures) для Forge 1.16.5+.\n\nМодифицированные структуры также будут затронуты.\n\n### Часто задаваемые вопросы\nВопрос: В чём разница между интервалом и разделением? (в конфиге мода для версий 1.16–1.19)\n\nОтвет: Разделение — это минимальное расстояние в чанках, интервал — это среднее расстояние в чанках. Кроме того, значение интервала должно быть больше, чем разделение; в противном случае игра вылетит.\n\n### Разное\nПрисоединяйтесь к нашему Discord: https://discord.gg/g8q3UHTpCP!\n[![image](https://www.bisecthosting.com/partners/custom-banners/75401fe6-76e7-471c-89e5-1edd37a950ad.webp)](https://bisecthosting.com/kasualix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

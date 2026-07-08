@@ -1,0 +1,6 @@
+{
+  "bodyHash": "YudramC24/M=",
+  "content": "<p>如果這裡沒有更新，請前往<br><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fantiafk\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/antiafk</a><br><br>AntiAfk 模組</p><p>AntiAFK 是一個非常輕量的 Fabric 模組，可以防止玩家進入閒置狀態。</p><p>設定方式<br>- 開啟 Minecraft，前往 設定 &gt; 控制 &gt; 按鍵綁定。<br>- 搜尋 AntiAfk，設定一個按鍵來開關模組。<br>- 使用指定的按鍵開啟模組。指令與功能僅在模組開啟時生效。</p><p>功能<br>- 可自訂跳躍間隔：設定自動跳躍的間隔時間。<br>- 揮手動作：可選擇開啟定時揮手動作。<br>- 自動跳躍：切換是否在指定間隔內自動跳躍。<br>- 自動旋轉：切換是否讓角色以自訂速度自動旋轉360度。<br>- 自動蹲下：切換是否自動蹲下（注意：啟用此功能時，手動蹲下將被停用）。<br>- 滑鼠移動：切換攝影機隨機移動的功能。<br>- 角色移動：切換角色左右移動的功能。</p><p>1.2.1 以上版本的圖形介面<br>- 首先，你需要在設定中為圖形介面設定一個按鍵，然後開啟它<br>- 你同時也需要一個按鍵來開關模組，如果模組未透過該按鍵啟用，則無法運作</p><p>1.20 以下版本的指令<br>- /antiafk interval set &lt;秒數&gt; – 設定跳躍間隔（秒），支援小數點（如 1.2、1.3 等）<br>- /antiafk interval random &lt;最小秒數&gt; &lt;最大秒數&gt; – 設定隨機間隔，範圍在指定秒數之間<br>- /antiafk swing – 切換揮手動作<br>- /antiafk jump – 切換自動跳躍<br>- /antiafk spin – 切換自動旋轉<br>- /antiafk spin &lt;秒數&gt; – 設定角色旋轉的速度<br>- /antiafk sneak – 切換自動蹲下<br>- /antiafk mousemovement &lt;水平倍數&gt; &lt;垂直倍數&gt; – 切換隨機滑鼠移動（使用 \"/antiafk mousemovement\" 來啟用/停用）<br>- /antiafk movement – 讓角色左右移動</p><p>貢獻方式<br>歡迎透過提出問題來回報錯誤或建議，或者提交拉取請求來改進 AntiAfk。",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

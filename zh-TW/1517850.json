@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zUwmucEBmow=",
+  "content": "<h1>嬰兒藥水</h1><hr><p>嬰兒藥水添加了一種新的「幼化藥水」，可使用金色蒲公英和粗製藥水釀造。這種藥水能暫時將生物變回幼年型態（若無原生幼年型態則會縮小體型）。此模組需在伺服器端和客戶端同時安裝。</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_137d7501-b96a-4f48-8156-11fb2b1f66e9.png\" alt=\"受幼化藥水影響的無原生幼年模型生物，呈現幼年體型和Q版外觀\"></p><h2>特色功能</h2><hr><ul>\n<li><strong>幼化藥水：</strong> 使用粗製藥水 + 金色蒲公英釀造。</li>\n<li><strong>效果：</strong> 將生物暫時變回幼年型態，持續3分鐘。</li>\n<li><strong>無效對象：</strong> 若生物已為幼年型態，或不適合擁有幼年版本（主要為某些構造體生物）時無效。</li>\n<li><strong>遊戲規則：</strong> <code>自訂幼體縮放</code> 遊戲規則可用於控制是否包含無原生幼年型態的生物。亦可設為 <code>Q版</code> 模式，調整模型以盡量貼合原生幼年生物的風格。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

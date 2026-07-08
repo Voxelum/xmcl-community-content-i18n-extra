@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bAWjgoaRNHY=",
+  "content": "<p>在原始的 Minecraft 中，修改實體運動的主要方式是使用 /data 指令，但您無法修改玩家數據。</p><p>這個模組旨在透過一個簡單的指令來移除這個限制！</p><h2>使用方法</h2><p><code>/launch &lt;entities&gt; addMotion &lt;motionX&gt; &lt;motionY&gt; &lt;motionZ&gt;</code>：將為目標添加運動</p><p><code>/launch &lt;entities&gt; setMotion &lt;motionX&gt; &lt;motionY&gt; &lt;motionZ&gt;</code>：將設定目標的運動</p><p><code>/launch &lt;entities&gt; looking &lt;force&gt;</code>：將根據 <code>force</code> 參數和來源（執行指令者）的旋轉為目標添加運動</p><p><code>/launch &lt;entities&gt; toward &lt;pos|entity&gt; &lt;force&gt;</code>：將所有目標發射到指定的位置/實體（僅適用於 r1.3 及以上版本）</p><h2>其他資訊</h2><p>可以選擇多個目標來改變其運動，包括玩家和非生物實體。</p><p>您可以在您的專案中自由使用此模組。</p><p>開發者註記：由於這是我第一次製作 Java 模組，此模組將僅支援 Fabric 和 NeoForge，持續時間未定。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

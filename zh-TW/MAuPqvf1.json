@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ORdKL825xZg=",
+  "content": "# 創世神：列車視角\n[![GitHub](https://img.shields.io/badge/github-der--fruhling%2Fcreate--train--perspective-0a0047)](https://github.com/der-fruhling/create-train-perspective)\n\n_更沉浸的體驗！_\n\n<details open>\n  <summary>本模組的未來</summary>\n\n  ~~這個模組已經被棄置很長一段時間了~~\n\n  我們回來了！\n</details>\n\n<details>\n  <summary>關於 Create 0.5.1.g 及以上版本的重要提醒！</summary>\n\n  Create 0.5.1.g 新增了一個預設選項，會讓攝影機跟隨列車轉向。本模組提供了傾斜與側傾功能，這是 Create 尚未加入的，但內建的功能會與本模組衝突。\n\n  若要正常使用本模組，請在 Create 的客戶端設定中關閉「乘坐時旋轉」。本模組 v1.1.0 及以上版本會自動幫你完成這項設定，因此你不需手動操作。\n</details>\n\n## 這是什麼？\n\n在正常的 Create 行為中，玩家攝影機在列車轉彎時會保持相同方向，讓玩家看起來好像自己在轉彎。本模組會讓玩家的攝影機跟隨搭乘的列車轉向，提供更沉浸的體驗。此外，當列車行駛在斜坡上時，本模組也會對玩家套用「傾斜」與「側傾」效果。\n\n本模組在玩家站立於列車上時也應該能運作，不過這項功能目前還在實驗階段（而且非常不安全）。如果你遇到任何問題（關於模組的），[記得回報！](https://github.com/der-fruhling-entertainment/create-train-perspective/issues)\n\n**注意：** 這個模組可能會引發暈車症狀。就像真實的列車一樣，只是更方塊化。\n\n這是個僅限客戶端的模組。它不會在伺服器上執行任何功能，而且如果你嘗試在伺服器上使用它，很可能會崩潰，所以請不要這麼做！！\n\n## Create 6 相容性\n\n僅有 Minecraft 1.21.1 的 v1.1.0 及以上版本與 Create 6 相容。Minecraft 1.20.1 的 v1.1.1 版本與 Create 0.5 及 Create 6 皆相容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

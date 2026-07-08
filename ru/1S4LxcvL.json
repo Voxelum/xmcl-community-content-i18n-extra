@@ -1,0 +1,6 @@
+{
+  "bodyHash": "hTwHHRQ5pAQ=",
+  "content": "Мод, заставляющий Torchflower (новый цветок в 1.20) светиться в темноте\n\nРаботает лучше, если установлен как на сервере, так и на клиенте\n\n![screenshot.png](https://raw.githubusercontent.com/NikitaCartes/Glowing-Torchflower/fabric-1.20.3%2B/screenshot.png)\n\nТакже посмотрите мой мод [Glowing Eyeblossom](https://modrinth.com/mod/glowing-eyeblossom)!\n\n### Уровень освещённости\n- Torchflower: 12\n- Torchflower в горшке: 14\n- Саженец Torchflower, маленький: 3\n- Саженец Torchflower, средний: 7\n- Саженец Torchflower, большой: 12\n\n### Конфигурация\nВы можете изменить уровень освещённости Eyeblossom в файле конфигурации.  \nФайл конфигурации находится в `<путь к игре>/config/GlowingTorchflower/main.conf`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

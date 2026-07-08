@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SxXfCVTl20w=",
+  "content": "<p align=\"center\">\n  <img\n    src=\"https://cdn.modrinth.com/data/cached_images/fed7e451158a100dc67f94cc7cc118123a11157c.png\"\n    alt=\"模組標誌\"\n    width=\"128\"\n  />\n</p>\n\n# Create Radar：移動式雷達\n\n**Minecraft 1.21.1** 的 NeoForge 附加元件，擴展了 **Create: Radars**，加入可攜式雷達工具：附有 HUD 的 **雷達平板**，以及具戰術光學與瞄準模式的 **雷達護目鏡**。\n\n兩項物品都會出現在 **Create: Radars** 的創造模式標籤頁中（與其他雷達方塊一同出現）。\n\n## 特色\n\n### 雷達平板\n- 在 **網路主幹**（Network Filterer）配對——對著方塊按右鍵\n- **在空中按右鍵** 開啟手持雷達顯示介面，顯示即時追蹤資訊（範圍可設定）\n- 選取目標的方式與固定式監視器相同\n\n### 雷達護目鏡\n- 同樣在網路主幹配對\n- **右鍵**：展開眼前光學鏡片／鏡片展開時，**清除雷達目標**\n- **Shift + 右鍵**：**收納**光學鏡片（已展開時）或**清除配對**（收納狀態下）\n- 陰極射線管（CRT）疊加畫面、帶有 **Snap / Assist / Manual** 的準心\n- **左鍵**鎖定準心下方的目標（包含穿過方塊的雷達射線檢測）\n- 當配對且展開的護目鏡拿在手上時，獲得夜視效果\n\n\n## 授權條款\n\nMIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

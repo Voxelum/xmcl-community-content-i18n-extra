@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4DaOCHffkWM=",
+  "content": "### 性能基準\n\nFPS 基準測試\n\n| 測試項目          | 平均 FPS | 最小 FPS | 最大 FPS |\n|-------------------|---------|---------|---------|\n| FPS 模組包        | 1053    | 708     | 1593    |\n| Minecraft 原版    | 411     | 320     | 569     |\n\n### 系統配置\n\n以下是我用於此基準測試的系統配置：\n\n| 組件              | 規格                               |\n|-------------------|-------------------------------------|\n| **作業系統**      | Microsoft Windows 11 Pro 24H2       |\n| **主機板**        | Z370P D3-CF                         |\n| **CPU**           | Intel Core i7-9700K                 |\n| **GPU**           | NVIDIA GeForce GTX 1060 3GB         |\n| **RAM**           | 32 GB                               |\n\n## 快速開始\n\n1. **下載** [Modrinth 應用程式](https://modrinth.com/app)。\n2. 在應用程式中透過「瀏覽」**安裝** FPS 模組包。\n3. **遊玩**並享受最佳化的效能。\n\n更多資訊請參閱 [**Modrinth 模組包指南**](https://support.modrinth.com/en/articles/8802250-modpacks-on-modrinth)。\n\n## 資源與下載\n- [**立即下載**](https://modrinth.com/modpack/fps/version/latest)\n- [_Modrinth 應用程式_](https://modrinth.com/app)\n- [_Prism Launcher_](https://prismlauncher.org)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

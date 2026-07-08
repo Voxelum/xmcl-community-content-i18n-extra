@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ZLD8Nvl0Vp8=",
+  "content": "虽然使用Create模组以原版风格自动化钓鱼是可行的，但过程复杂且容易出错。\n\n然而，借助这个简单的模组，一切都变得容易管理得多。\n\n它只添加了一个新方块：浮标探测器。该方块能自动检测区域内所有钓鱼浮标，并在有鱼上钩时输出红石信号。  \n为帮助您找到合适位置，当任何钓鱼浮标进入其范围且位于水中时，它会持续发光提示。  \n若浮标超出范围或落在陆地上，则不会发光。\n\n具体如何设置机械手及其逻辑电路，以及物品收集系统，完全由您自行决定。这不是一个“单方块解决方案”。\n\n![探测器工作示意图](https://media.forgecdn.net/attachments/705/621/ezgif.gif)\n\n_第三方模组可通过Forge的浮标标签添加非原版浮标。_\n\n目前本模组已支持Nether Depths Upgrade模组。这意味着您甚至能在地狱维度自动化钓鱼。\n\n![合成配方示意图](https://media.forgecdn.net/attachments/thumbnails/718/721/310/172/screenshot-2023-08-25-204540.png)\n\n**本模组专为配合Create的机械手构建自动化渔场而设计。_需Create 0.5.1.a或更高版本_**\n\n_本模组使用[MIT协议](https://github.com/Creators-of-Create/Create)下[Create模组](https://github.com/Creators-of-Create/Create)的修改素材制作_  \n**欢迎在您的整合包中使用本模组！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

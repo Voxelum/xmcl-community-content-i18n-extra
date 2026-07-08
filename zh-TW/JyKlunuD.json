@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SkBXGp0pMWs=",
+  "content": "<!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->\n<center>\n<img alt=\"預覽圖\" src=\"https://cdn.modrinth.com/data/JyKlunuD/images/e1fb90dd7ba165b9043fbd4b752c42103dc9e7ef.png\"/>\n允許透過透明方塊鎖定生物實體。<br/>\nNeoForge版本需要安裝<a href=\"https://modrinth.com/mod/connector\">Connector</a>。<br/>\n</center>\n\n---\n\n當滿足以下條件時，本模組會取消方塊的準星鎖定，改為鎖定生物實體：\n\n- 方塊具有空碰撞體積\n- 生物可被攻擊且存活\n- 玩家未直接騎乘該生物\n- 生物位於可觸及範圍內（1.21版精確互動距離）\n\n此實現方式會讓你在鎖定生物時，方塊輪廓線同時消失。\n\n#### 技術說明\n\n本模組僅包含[一個mixin](https://github.com/sisby-folk/swingthrough/blob/1.19/src/main/java/folk/sisby/swingthrough/mixin/client/GameRendererMixin.java)，核心代碼約4行：\n\n- 2行代碼用於在方塊符合條件時使用完整實體鎖定範圍\n- 2行代碼用於當使用完整範圍且實體符合條件時取消方塊鎖定\n\n不進行額外的射線檢測或半徑搜索。\n\n## 後記\n\n所有模組都建立在眾多前人的成果之上。\n\n我們為[Tinkerer's Quilt](https://modrinth.com/modpack/tinkerers-quilt)製作了這個模組——這是個專注於遊戲易用性與原版內容的模組包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

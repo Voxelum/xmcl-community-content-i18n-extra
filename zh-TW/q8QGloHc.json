@@ -1,0 +1,6 @@
+{
+  "bodyHash": "VWXA6fAivuM=",
+  "content": "**体素玩家伤害、血流成河、断肢与血腥效果、PhysX布娃娃物理。**\n\n\n![替换此处的描述](https://cdn.modrinth.com/data/cached_images/3d7b73a73f84cff261f8e6cb23cd63f5c9427055.png)\n![死亡的玩家](https://cdn.modrinth.com/data/cached_images/46311e16fd7bbf42892f9c4ffc440b0a1d2ecd60_0.webp)\n### 本模组添加了基于体素的玩家受伤视觉效果，\n### 主要特性：\n\n- 玩家受到攻击的位置会出现一个体素“洞”。\n\n- 击中位置会显示血液像素，同时伴有血液粒子和血泊效果。\n\n- 如果在6游戏刻内击中超过5颗子弹，身体部位会分离并转变为物理模型。\n\n- 玩家受伤会在客户端之间同步。\n\n- 死亡时，玩家会留下一个可互动的布娃娃模型（[感谢PhysX-JNI](https://github.com/fabmax/physx-jni)）。\n\n- 被爆炸杀死时，身体部位会受到严重损伤并散落。\n\n- 满生命值时“治愈”伤口。\n\n**指令：**\n- /entity_damage models_clean - 移除所有物理模型\n- /entity_damage \"玩家昵称\" reset - 移除该玩家的伤害",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

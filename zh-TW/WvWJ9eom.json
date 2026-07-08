@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Qt8BR5QSQJQ=",
+  "content": "這個模組允許玩家為按鍵綁定設定預設按鍵。它可以在模組包中使用，以提供更合理的預設按鍵配置。兼容 [Key Binding Patch](https://modrinth.com/mod/key-binding-patch) 所支援的增強組合按鍵。\n\n如果您同時使用其他預設設定模組（例如 [Default Options](https://modrinth.com/mod/default-options)），可能需要手動將設定檔中的 `force_key_reset` 選項設為 `true`，以確保下次啟動遊戲時按鍵綁定會重置為新的預設值。\n\n![示範截圖](https://s21.ax1x.com/2024/11/27/pA40v0U.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

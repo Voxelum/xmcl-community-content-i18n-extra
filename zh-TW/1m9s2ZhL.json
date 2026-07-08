@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TCg0SMRsm98=",
+  "content": "![# 基向冰船](https://github.com/CodeF53/CardinalIceBoats/raw/main/Banner.png)\n\n## 關於\n提供多項提升冰船航行品質的實用功能：\n\n## 功能特色：\n\n### 通用功能：\n安裝於伺服器或客戶端皆可運作！\n#### 放置自動校正：\n船隻放置於冰面上時會自動校正朝向正北/正南/正東/正西（及45度角方向）。\n\n### 客戶端專屬功能：\n#### 轉向預備：\n按下<kbd>⬅</kbd>或<kbd>➞</kbd><sup>[*](#configurable-controls)</sup>鍵可預備轉向。當輪到轉彎時，船隻會自動停止並旋轉90度！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pn4UsN_QQ1w\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n#### 手動校正：\n若船隻偏離基向角度，按下<kbd>⬆</kbd><sup>[*](#configurable-controls)</sup>可將其校正至最近的基向（或45度）方向。\n\n#### 瞬間倒轉：\n需要調頭？按下<kbd>⬇</kbd><sup>[*](#configurable-controls)</sup>可讓船隻立即旋轉180度！\n\n#### 智能置中：\n按下<kbd>&#92;</kbd><sup>[*](#configurable-controls)</sup>可立即將船隻置中於冰面。若靠近牆壁，則會微調至「偏離中心」的位置以避免碰撞。此功能預設在每次轉彎後也會自動觸發。\n\n#### 可自訂按鍵：\n所有快捷鍵皆可在原版控制設定選單中調整！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

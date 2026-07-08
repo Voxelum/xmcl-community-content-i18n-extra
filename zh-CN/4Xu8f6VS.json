@@ -1,0 +1,6 @@
+{
+  "bodyHash": "t6PnY04PtXU=",
+  "content": "修复 Minecraft Forge 1.7.10 - 1.12.2 的安全漏洞 CVE-2021-44228（也称为 Log4Shell），通过使用反射从 Interpolator 中移除 JNDI 查找，并替换默认的 LoggerContextFactory 以捕获在此模组加载后的任何 LoggerContext。关于我如何修复该漏洞的更多具体技术解释，请参考源代码。\n\n目前仅适用于 Minecraft 1.12 及之前的版本。已在 1.7.10 和 1.12.2 上测试。\n\n## 兼容性\n\n如果有任何模组尝试通过编程方式调整日志配置，由于全面的修复，它们将无法正常工作。为了解决这个问题，修复模组将修复过程推迟到足够晚的时间，直到这些模组完成它们的编辑。\n\n截至目前，修复模组已内置支持以下模组：\n\n* ForgeEssentials\n\n如果其他模组因类似 `ClassCastException: cannot cast XXXXXXXX to org.apache.logging.log4j.core.impl.Log4jContextFactory` 的日志行而崩溃，那么你可能遇到了这些模组之一。\n\n要解决此问题，请在我的问题跟踪器中反馈，或在 JVM 启动参数中添加 `-Dnet.glease.healer.patch_stage=XXXX`，其中 XXXX 可以是 `PRELOAD, PREINIT, INIT, POSTINIT` 中的任意一个（按时间顺序，最早的为第一个）。通常 PREINIT 足以缓解问题，POSTINIT 应能解决所有问题。\n\n## 对于普通玩家\n\n1. 如果你的启动器已经修复了此漏洞，则不需要此模组来修复漏洞。\n2. 如果你已经应用了 Mojang 的修复，则不需要此模组来修复漏洞。\n3. 如果你在 1.7 版本中使用了 FoamFix，则不需要此模组来修复漏洞。\n4. 如果你使用了其他修复模组，请询问其原作者是否能够“捕获在其模组加载后的任何 LoggerContext”，如果是，则不需要此模组。否则，请用此模组替换该模组，或使用为你进行修复的启动器，例如 MultiMC。\n\n## 对于模组包制作者\n\n1. 如果你的客户端模组包适用于 Minecraft 1.7~1.12.2，我建议你包含此模组。这将保护那些尚未意识到此漏洞且使用未修复的启动器的用户。\n2. 如果你还分发服务器模组包，并且它适用于 Minecraft 1.7~1.12.2，如果你已经应用了 Mojang 的修复，则添加此模组不是必要的。然而，由于许多人不会使用你服务器包中附带的 StartServer.bat（或类似文件），他们可能不会使用 Mojang 修复的 log4j2.xml。从技术上讲，你不应分发编辑过的 minecraft_server-1.7.10.jar，因此添加此 jar 将是确保用户获得修复的最直接方式。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

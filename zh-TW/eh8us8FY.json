@@ -1,0 +1,6 @@
+{
+  "bodyHash": "+yEFuT7/JHo=",
+  "content": "### 功能特色：\n- 提供一個可作為其他資源包使用的目錄\n- 提供一個可覆蓋所有相同資源位置之資產的目錄\n- 官方資產可在啟動時從Mojang官方伺服器自動下載（此方式不違反Mojang的[品牌與資產指南](https://www.minecraft.net/en-us/terms#terms-brand_guidelines)）。資源包開發者可透過JSON配置實現此功能，模組開發者則可使用建構器：`glowredman.txloader.TXLoaderCore#getAssetBuilder`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

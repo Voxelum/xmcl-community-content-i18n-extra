@@ -1,0 +1,6 @@
+{
+  "bodyHash": "enw7ljNSbeI=",
+  "content": "## 將鐵製工具與鑽石放入鍛造模板中，即可升級為鑽石工具\n\n### 備註：\n此資料包會新增合成配方，移除本資料包將導致主控台出現缺少配方的警告。這不會對你的世界或存檔資訊造成危險。\n\n### 使用模組版本時的安裝資訊：\n這些功能在運作上與資料包相同，但會套用至所有使用此模組建立/啟用的世界。若不希望套用至所有世界，請改用資料包。\n\n**Forge**：\n<br>無須依賴套件，只需將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需安裝 Fabric API\n\n**Quilt**：\n<br>需安裝 Quilted Fabric API\n\n### Purpur 資料包\nPurpur 資料包是曾被建議加入 Purpur 的功能（或符合 Purpur 主題），但最終決定以資料包形式呈現會更合適！\n<br>這些資料包的功能等同於 Purpur 中的單一設定選項。可在任何時候新增或移除，不會對伺服器造成損害。\n<br>這些資料包可在原版遊戲中運作，你無須使用 Purpur 即可套用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

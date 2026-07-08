@@ -1,0 +1,6 @@
+{
+  "bodyHash": "vp578n9uIkM=",
+  "content": "<p><strong>Clearlag</strong> 有助於提升擁有大型結構和大量掉落物品的世界或伺服器的效能。<br>⚠️ 此模組需要 <strong>TCTCore</strong> 才能運作。 ⚠️</p><h3><strong>功能特色</strong></h3><ul>\n<li>可設定間隔時間自動清除物品</li>\n<li>可選的玩家通知功能</li>\n<li>可手動觸發清除物品的指令</li>\n<li>完全可調整的計時器（標準版本）</li>\n</ul><h3><strong>版本</strong></h3><p>提供輕量版。<br>此版本移除了指令和通知功能，以達到最佳效能。<br>預設間隔時間為 <strong>5 分鐘</strong>。<br>若您需要為伺服器自訂間隔時間，歡迎與我聯繫。</p><h3><strong>設定</strong></h3><p>編輯設定需要 <strong>權限等級 2 以上</strong>。<br>通知開關不需要權限（玩家個人設定）。</p><ul>\n<li><code>/clearlagset &lt;秒數&gt;</code> – 設定清除物品的間隔時間</li>\n<li><code>/clearlagnotify &lt;true/false&gt;</code> – 啟用或停用通知</li>\n<li><code>/clearlagnow</code> – 立即觸發清除物品</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

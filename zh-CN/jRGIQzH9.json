@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ohGegMmbJi8=",
+  "content": "# Osu Touch Grass\n\n## 不是梗，真的能玩，而且异常流畅\n\n## 功能特点\n\n- 在Minecraft内运行真正的 osu!lazer（osu 2026.505.0 / osu-framework 2026.428.0，从源码编译，通过CoreCLR嵌入JVM）（我还没疯到用Java重写Osu的程度）\n- 可在任意尺寸的显示屏方块矩形上运行（需红石信号启动）\n- 支持多个独立屏幕共存（但谁需要这个功能？）\n- 可合成物品：osu!触控笔、鼠标、键盘及组合物品（手持即可操控Osu输入）。游玩Osu时按住Shift键即可与Minecraft交互\n- 基于Minecraft数据包实现的完整网络传输层：\n  - 按世界划分的排行榜，支持加权pp排名\n  - 分数提交+pp收益以可堆叠物品形式存入背包（什么鬼？）\n  - 好友、个人资料页、在线状态、聊天系统\n  - 观战模式（玩家间回放帧中继）\n  - 支持下载谱面的多人游戏房间（目前仅限HeadToHead模式）\n\n## 自定义谱面\n\n将 `.osz` 文件放入 `<minecraft>/osutouchgrass-maps/` 文件夹即可导入。\n\n## 工作原理\n\n首次启动时会解压约370MB的CoreCLR+osu!捆绑包至 `<minecraft>/osutouchgrass-cache/`。游戏数据（谱面、分数、设置）存储在 `<minecraft>/osutouchgrass/` 目录，每个Minecraft实例独立存储。\n\n## 依赖模组\n\n- Minecraft 1.21.1\n- NeoForge 21.1.72+\n- Architectury API 13.0.8+\n- **仅限Windows x64系统。** 暂未支持Linux/macOS。\n\n## 致谢\n\n- osu! 由 [ppy](https://github.com/ppy/osu) 制作 — MIT许可（代码）+ CC BY-NC 4.0（游戏资源）\n- .NET / CoreCLR 由 [.NET Foundation](https://github.com/dotnet/runtime) 开发 — MIT许可\n- BASS音频库由 [Un4seen Developments](https://www.un4seen.com/bass.html) 提供 — 免费非商业使用\n\n但为什么？",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

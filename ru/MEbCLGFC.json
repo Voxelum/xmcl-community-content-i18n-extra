@@ -1,0 +1,6 @@
+{
+  "bodyHash": "yk5/roTamoA=",
+  "content": "## Информация:\nOre Tweaker — это суперлёгкий вспомогательный мод, который позволяет настраивать и изменять подземную генерацию в Minecraft с помощью файлов JSON. Мод можно установить как на сервер, так и на клиент.\n\n## Советы:\nЯ настоятельно рекомендую использовать World Stripper для отладки и тестирования вашей генерации руд вместе с этим модом.\n\n## JSON:\nНастройка руд осуществляется в папке `../config/oretweaker/data/` 📂  \nОткройте файл для руды, которую хотите настроить, например `coal_ore.json` 📄, или создайте свой собственный файл 📃  \n![](https://i.imgur.com/CNaCPqa.png)\n\n## Вики:\nОзнакомьтесь с подробной [вики](https://github.com/EwyBoy/OreTweaker/wiki) Ore-Tweaker для получения дополнительной информации! За дополнительной помощью и информацией присоединяйтесь к [Discord](https://discord.gg/eAsSV8dXX2)!\n\n## Изображения:\n![](https://i.imgur.com/sm5r4Sd.png)\n![](https://i.imgur.com/uoT5WO6.png)\n![](https://i.imgur.com/qkkLH8T.png)\n![](https://camo.githubusercontent.com/9dadbb9e929cc9856afe696a2a8871666afb1977610c23bce3700be7be65e8ad/68747470733a2f2f692e696d6775722e636f6d2f4d4c4e4c554b382e706e67)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

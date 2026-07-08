@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3RCJ+dr7p00=",
+  "content": "## 概述\n\n這個輕量級資料包能為你的工具列增添一些微妙的臨場感。在滾動工具列（切換快捷欄物品）時，會播放經過調整的原版音效，並針對不同類別物品有不同音效：\n\n- 「鈍器」類劍（木製與石製）\n- 弓與十字弓\n- 藥水\n- 盾牌\n- 劍（鋒利類）\n- 工具（斧頭、鋤頭、鎬與鏟子）\n\n適用於單人與多人遊戲世界，並設計為可擴展，未來可透過相容性擴充包支援模組物品。\n\n## 安裝方式\n\n將下載的資料包 .zip 檔案儲存至你世界的 `datapacks` 資料夾中。若世界正在運行，請使用指令 `/reload` 載入。更多細節請參閱[此處文件](https://minecraft.fandom.com/wiki/Data_pack?so=search#Usage)。\n\n## 相容性\n\n**現已支援 1.20 至 26.2 版本！** 請務必為你的 Minecraft 版本選擇正確的檔案。:)\n\n我們始終樂於擴展支援範圍。若有任何需求，歡迎透過 Github 的 [issues 頁面](https://github.com/villainous-j/toolbar-sounds/issues) 與我們聯繫！\n\n## 解除安裝\n\n以下指令將清除資料包中的所有排程或計分板：\n\n```\n/function toolbar_sounds:uninstall\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

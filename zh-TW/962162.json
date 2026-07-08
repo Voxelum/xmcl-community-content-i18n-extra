@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fldTn9PWE6Y=",
+  "content": "<h1>遠程武器API</h1><p>此模組為開發者專用API，可輕鬆創建弓與十字弓。</p><p><img src=\"https://media.forgecdn.net/attachments/1325/37/custom_longbow-png.png\" alt=\"bow\"></p><p>特色：</p><ul>\n<li>弓與十字弓的建構</li>\n<li>可自訂武器屬性：傷害、拉弓時間、彈射物速度（可選）</li>\n<li>自動註冊物品模型謂詞（與原版模型謂詞相容）</li>\n<li>正確的第一人稱與第三人稱渲染</li>\n<li>正確的拉弓視野調整</li>\n</ul><p>所有技術細節請參閱<a href=\"https://github.com/FabricExtras/RangedWeaponAPI\" target=\"_blank\" rel=\"nofollow\">GitHub README</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

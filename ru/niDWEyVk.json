@@ -1,0 +1,6 @@
+{
+  "bodyHash": "mVQI0BKuCtE=",
+  "content": "Targeted — это мод только для Fabric, который добавляет анимированную функциональность в ваш прицел.\n\n## Особенности\n\n- Индикатор здоровья при прицеливании на живое существо.\n- Изменяет форму на круг при прицеливании на другие сущности.\n- Изменяет форму при прицеливании на залитый воском блок.\n- Поддержка пользовательских режимов прицела, управляемых resourcepack (на стадии разработки).\n\n**ПРИМЕЧАНИЕ:** Мод находится на ранней стадии разработки; конфигурация и другие функции будут добавлены позже.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/aNrYx7jCl3s\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Зависимости\n\nДля правильной работы этот мод требует [Fabric API](https://modrinth.com/mod/fabric-api).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

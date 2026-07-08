@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4DaOCHffkWM=",
+  "content": "### 性能测试\n\nFPS基准测试\n\n| 测试项目         | 平均帧率   | 最低帧率   | 最高帧率   |\n|------------------|------------|------------|------------|\n| FPS整合包        | 1053       | 708        | 1593       |\n| 原版Minecraft    | 411        | 320        | 569        |\n\n### 系统配置\n\n以下是本次性能测试所使用的系统配置：\n\n| 组件             | 规格                            |\n|------------------|---------------------------------|\n| **操作系统**     | Microsoft Windows 11 Pro 24H2   |\n| **主板**         | Z370P D3-CF                     |\n| **CPU**          | Intel Core i7-9700K             |\n| **GPU**          | NVIDIA GeForce GTX 1060 3GB     |\n| **内存**         | 32 GB                           |\n\n## 快速开始\n\n1. **下载** [Modrinth应用程序](https://modrinth.com/app)。\n2. **安装**FPS整合包：在应用中点击\"浏览\"。\n3. **开始游戏**，享受优化后的性能。\n\n更多信息请参阅[**Modrinth整合包指南**](https://support.modrinth.com/en/articles/8802250-modpacks-on-modrinth)。\n\n## 资源与下载\n- [**立即下载**](https://modrinth.com/modpack/fps/version/latest)\n- [_Modrinth应用程序_](https://modrinth.com/app)\n- [_Prism启动器_](https://prismlauncher.org)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

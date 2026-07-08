@@ -1,0 +1,6 @@
+{
+  "bodyHash": "SRmOFEZ57u4=",
+  "content": "<p>Surge 是一個開源模組，旨在改善遊戲的載入時間與效能。</p>\n<h2>功能特色</h2>\n<h3>載入時間</h3>\n<ul>\n<li><strong>快速前綴檢查</strong>&nbsp;- 優化 Forge 的 ID 前綴檢查機制，提升建立和註冊新物件到遊戲登錄檔的速度。</li>\n<li><strong>動畫 JSON 模型檢查</strong>&nbsp;- 優化 Forge 的自訂動畫模型載入器，大幅提升模型載入速度。</li>\n<li><strong>停用除錯音效資訊</strong>&nbsp;- 關閉遺漏音效與字幕的除錯程式碼，改善音效載入時間。</li>\n</ul>\n<h3>效能表現</h3>\n<ul>\n<li><strong>綿羊染料混合表</strong>&nbsp;- 將綿羊顏色混合程式碼改為使用預先定義的表格，取代原版中進行配方查詢的行為。</li>\n</ul>\n<h3>錯誤修復</h3>\n<ul>\n<li><strong>最大重新命名長度</strong>&nbsp;- 修復在鐵砧上重新命名長物品會導致名稱錯誤的 Bug。</li>\n</ul>\n<h3>其他</h3>\n<ul>\n<li><strong>顯示總載入時間</strong>&nbsp;- 在主控台中顯示遊戲總載入時間，讓你觀察修改遊戲後對載入時間的影響。<br><br><img src=\"https://skulk.blmj.red/surge\" alt=\"\" width=\"1\" height=\"1\"></li>\n</ul>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "zX6V403NcB8=",
+  "content": "## FishOnMC整合包（非官方）\n\n**适用于FishOnMC服务器的非官方性能优化包**  \n*本整合包为粉丝自制，与FishOnMC官方无关联，亦未获其认可*\n\n### 功能说明\n\n**核心性能优化：**\n- **FPS提升2-3倍**（依托Sodium、Lithium、FerriteCore模组）\n- **更流畅区块加载**（通过C2ME与Noisium模组优化FishOnMC的15+钓鱼场景）\n- **优化粒子与实体效果**（借助ImmediatelyFast与实体剔除模组，关键赛事粒子特效更流畅）\n- **内存效率提升**（使用ModernFix模组延长游戏时长）\n\n**FishOnMC界面功能：**\n- **实时钓鱼数据**（FishonMC-Extras模组提供：宠物展示、比赛追踪、任务进度）\n- **完美适配FishOnMC资源包**——无材质错位\n- **反作弊兼容**——仅使用FishOnMC白名单内的性能模组\n\n### 为何选择本整合包？\n\n✅ **即装即用** - 已为 `play.fishonmc.net`（1.21.4+）预设参数配置  \n✅ **极致优化** - 50+玩家同屏及高密度粒子场景仍保持稳定帧率  \n✅ **封号无忧** - 完全符合FishOnMC模组政策（无任何游戏性优势）\n\n### 重要须知\n\n**非官方声明：**\n- **未获FishOnMC认可** - 本整合包为独立粉丝项目\n- **风险自负** - 虽所有模组均在白名单内，但未经过FishOnMC工作人员审核\n\n**安装指南：**\n- 需安装1.21.4+版本的Fabric加载器\n- 使用任意兼容Fabric的启动器（如Prism/Mordrinth App）\n- 首次进入服务器时需接受FishOnMC资源包\n\n**致谢：** 配置参数基于[Simply Optimized](https://modrinth.com/modpack/sop)项目",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

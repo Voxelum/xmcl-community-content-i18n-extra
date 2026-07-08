@@ -1,0 +1,6 @@
+{
+  "bodyHash": "EGs32tXG6D8=",
+  "content": "### 瓶中時光修復新增4項功能：\n\n- 作物加速\n- 動物成長加速\n- 作弊版瓶中時光與延長持續時間，最長可達240秒\n- AE2加速。現在可加速壓印器與其他AE2方塊\n\n---\n### **Tiab Fix為擴充模組，需安裝瓶中時光主模組方可運作**\n---\n\n雖然舊版曾存在此功能，但現代版本的瓶中時光已無法加速作物生長。\n本模組修復了此問題。\n## 現在您可再次加速作物生長\n\n![作物加速示意圖](https://cdn.modrinth.com/data/cached_images/1e5f731321dede79ca98b31fcbec8cba32f82706.png)\n\n## 同時支援加速動物成長\n無需再等待小雞、牛隻或羊群緩慢長大！\n動物加速功能與JADE模組相容，加速中的動物上方將顯示提示標籤\n\n![動物加速JADE介面](https://cdn.modrinth.com/data/cached_images/3a9e28da7690a2a366e669f11c4573988e25dd55_0.webp)\n\n### 作弊版瓶中時光\n\n以往可透過指令為瓶中時光添加大量時間，但若在設定中將最高加速倍率調整為4096倍時，可能會發現時間仍會耗盡。\n作弊版瓶中時光解決此問題，您將獲得真正無限時間的瓶中時光\n\n額外功能：在作弊版瓶中時光中，可透過Shift+左鍵點擊延長持續時間\n過往無論加速倍率是16倍或256倍，持續時間固定為30秒，現在已非如此\n\n現在您可將持續時間延長至240秒\n（此功能僅限作弊版瓶中時光）\n\n僅能透過指令取得：\n**/tiabfix unlimited**\n\n![持續時間提示標籤](https://cdn.modrinth.com/data/cached_images/3712c26b8f8c6bc4c99f23e5a5c1ffb7839f7c9f.png)\n![持續時間設定](https://cdn.modrinth.com/data/cached_images/91e0ccb89d29bf41777e907a00a17519aa28b550.png)\n\n### AE2支援系統\n\n現在您可使用瓶中時光加速壓印器！\n\n![壓印器支援示意](https://cdn.modrinth.com/data/cached_images/a75c4495701a9052d62b93e749516e1e19ab0d30.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

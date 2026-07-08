@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1OFaTLM0PcY=",
+  "content": "這個簡單的資料包/模組適用於1.20+版本，擴展了你可以在附魔台周圍放置而不會阻擋旁邊書架的方塊清單。在原版遊戲中，這個清單目前僅限於少數物品，如蕨類和草。\n\n*查看 [*圖庫*](https://modrinth.com/datapack/no-enchant-block/gallery) 了解你現在可以打造的附魔區域範例！*\n\n**包含內容：**\n\n這個資料包包含了那些沒有完整方塊碰撞體積，或者材質上有合理空隙的方塊。不幸的是，半磚和樓梯無法包含在內，因為無法確定它們的放置方式。\n\n**模組支援：**\n\n對於所有包含在預設Minecraft標籤中的模組方塊（例如 #fences 和 #all_signs）有通用支援，但不屬於這些標籤的方塊需要單獨添加。\n\n完全支援的模組：\n- [Amendments](https://modrinth.com/mod/amendments)\n- [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)\n- [Supplementaries](https://modrinth.com/mod/supplementaries)\n- [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)\n- [Quark](https://modrinth.com/mod/quark)\n\n隨著我有時間添加更多內容，這個清單將會擴展。\n\n---\n也可在 [Planet Minecraft](https://www.planetminecraft.com/data-pack/no-enchant-block/) 上找到",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

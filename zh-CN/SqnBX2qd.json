@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bgYKI1MfvH0=",
+  "content": "**此模组仅限客户端使用，安装在专用服务器上无效。**\n\n安装此模组后，它会在“开放局域网”界面中添加一些新功能，允许用户在特定端口上启动局域网游戏，并提供一个选项来禁用“在线模式”。\n\n此外，它还允许你启用或禁用PVP，并设置最大玩家数量。\n\n自1.9版本起，如果你使用“离线模式”，可以启用一个选项，优先使用Microsoft/Mojang的UUID（如果可能）。这样可以避免从在线模式切换到离线模式时丢失背包内容。\n\n自1.20.5版本起，Minecraft需要Java 21。  \n从1.18.1到1.20.4版本，Minecraft需要Java 17。  \n1.17.1版本需要Java 16。  \n更早的版本可以在Java 8上运行。\n\n### 语言支持\n- 英语 (en_us)\n- 法语 (fr_fr)\n- 简体中文 (zh_cn)\n- 巴西葡萄牙语 (pt_br)\n- 俄语 (ru_ru)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

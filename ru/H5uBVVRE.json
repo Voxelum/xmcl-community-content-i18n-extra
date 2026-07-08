@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cjaUknP3l+8=",
+  "content": "# Кубик Космоса\n![spacecube](https://cdn.modrinth.com/data/H5uBVVRE/images/575caba5fd6564897edf4e3ec947923f5ac00596.png)\n\nЛучше так: [Compact Machines - Fabric](https://modrinth.com/mod/cpm-fabric) (1.18.2–1.19.2)\n\n## Описание\n\nЭтот мод представляет собой порт игры Compact Machines для Fabric.\n\nТекстуры и код созданы с нуля, поэтому некоторые особенности могут немного отличаться от оригинала.\n\nВ отличие от оригинала, сейчас вы не сможете увидеть содержимое комнаты, просто щёлкнув правой кнопкой мыши по Кубику Космоса. Также я планирую добавить улучшатель.\n\n \n\nНеобходимые моды: Fabric API, MCPitanLib, Architectury API, Reborn Core (опционально), Cloth Config API, Mod Menu (опционально)\nМенеджер модов: Fabric Loader\nЛицензия: MIT License\nМодпак: Используемый",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

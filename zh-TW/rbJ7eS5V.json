@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cjjDuSjdtiE=",
+  "content": "#### 此模組/插件將您的 _**伺服器**_（非客戶端！）聊天室與 Discord 伺服器上的頻道連結\n\n## 功能特色\n\n- 雙向傳送 Discord 與 Minecraft 的聊天訊息\n- /discord 指令可傳送邀請連結給使用者\n- Webhook 模式\n- 指令系統\n- 伺服器崩潰偵測（可能無法完全正常運作！僅限 Forge 版本）\n- 玩家逾時偵測（可能無法完全正常運作！僅限 Forge 版本）\n- 死亡與成就訊息\n- 提供模組開發者傳送訊息與註冊指令的 API\n- Discord 與 Minecraft 帳號連結功能（含白名單模式）\n- Dynmap 整合\n\n快速設定指南：[https://erdbeerbaerlp.de/projects/discord-integration/quick-setup](https://erdbeerbaerlp.de/projects/discord-integration/quick-setup)\n\n## 需要協助或支援？\n歡迎加入我的 Discord 伺服器\n\n[![Discord 伺服器](https://discordapp.com/api/guilds/881880836377546824/widget.png?style=banner2)](https://erd.wtf/discord)\n\n## 示範伺服器\n加入官方示範伺服器！（使用最新 Spigot 版本）\n在示範伺服器中您還可以全域連結 Minecraft 與 Discord 帳號（可選功能）\n\nmc.erdbeerbaerlp.de\n\n## 不確定 Discord 權限設定？\n機器人需要以下權限：管理 Webhook、傳送與讀取訊息、管理頻道\n同時需在機器人建立頁面啟用「伺服器成員意圖」權限\n\n## 支援的 MC 版本\n\n本模組目前暫處「維護模式」，意即大部分更新來自 GitHub 的 Pull Request，主要僅支援新版 Minecraft 的相容性更新\n\n## 統計數據\n（註：3.0.6/3.0.7 版本前的統計僅包含 Spigot 使用者）\n[![Discord Integration 的 bStats 統計圖表](https://bstats.org/signatures/bukkit/DiscordIntegration.svg)](https://bstats.org/plugin/bukkit/DiscordIntegration/9765)\n\n#\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/erdbeerbaerlp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

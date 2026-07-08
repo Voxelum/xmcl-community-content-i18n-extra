@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Mjy00RDzSno=",
+  "content": "# 鷹身女妖模組載入器\n由 [doctor4t](https://www.youtube.com/@doctor4t) 為《鷹身女妖快車最後航程》製作的模組角色載入器。\n\n開發者請參閱 [GitHub 儲存庫](https://github.com/agmass/HarpyModLoader) 上的模組說明。\n\n## 設定\n\n此模組包含角色禁用設定，並提供 */listRoles* 與 */setEnabledRole* 指令來列出及變更角色禁用狀態。\n\n## 特別感謝\n\n- huanmeng-qwq 進行程式碼重構\n- Pixiu_Baijie 與 Qlickly_ 提供中文翻譯\n\nClaude 被列為貢獻者的唯一原因，是某個傢伙用 AI 修復錯誤時，我不小心提交了 PR。去他的 AI。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

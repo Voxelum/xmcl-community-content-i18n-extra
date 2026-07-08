@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Xaa/IrEHnUw=",
+  "content": "語言重新載入是一個 Fabric 模組，提供與語言相關的生活品質改進功能。\n\n### 功能特色\n- 快速切換語言，無需重新載入資源包\n- 語言選單中新增搜尋框\n- 支援選擇多種語言\n  - 每種語言的翻譯會覆蓋下方語言的翻譯內容。\n- 多語言物品搜尋\n  - 可在創造模式物品欄與合成書中，以任何已選語言進行搜尋。\n  - 可透過 Mod Menu 或直接編輯模組設定檔來停用此功能。\n- 若 options.txt 中沒有 `lang:` 設定時，自動偵測語言\n- 使用 **F3 + J** 重新載入語言，並以 **Shift + F3 + J** 循環切換語言\n\n### 展示畫面\n![含後備語言的語言切換](https://i.imgur.com/Sb4YFCL.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

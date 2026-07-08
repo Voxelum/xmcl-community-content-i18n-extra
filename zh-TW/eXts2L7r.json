@@ -1,0 +1,6 @@
+{
+  "bodyHash": "upWtZG1LdXg=",
+  "content": "# 關於 Placeholder API\n\n這是一個小巧、可透過 Jar-in-Jar 方式使用的 API，能夠在字串與 Minecraft 文字元件中建立及解析占位符。\nPlaceholder API 使用簡單的格式：`%modid:type%` 或 `%modid:type data%`（1.19 之前為 `%modid:type/data%`）。\n它也附帶簡潔、通用的文字格式，旨在簡化使用者於設定檔、聊天等處的輸入。\n\n## 給使用者\n\n它讓使用者能以類似的方式設定多個模組，同時保持模組間的相容性。\n占位符讓你能在相容的模組中，更改任何資訊的呈現位置與內容。\n\n此外，簡化文字格式讓你能以可讀的方式設定樣式，無需手動編寫 JSON 或使用產生器。\n- [使用占位符](https://placeholders.pb4.eu/user/general)\n- [預設占位符清單](https://placeholders.pb4.eu/user/default-placeholders)\n- [模組占位符清單](https://placeholders.pb4.eu/user/mod-placeholders)\n- [QuickText](https://placeholders.pb4.eu/user/quicktext)\n- [簡化文字格式](https://placeholders.pb4.eu/user/text-format)\n\n通常使用此 API 的模組會直接將其包含在內，但若有需要，你也可以從此處下載更新版本！\n\n## 給開發者\n\n使用 Placeholder API 是實現良好模組相容性的簡單方式，無需實作多個特定模組的 API。\n此外，占位符解析系統可用於取代由玩家建立或從設定檔讀取的文字中的靜態（或動態）占位符。\n這與簡化文字格式相結合，能創造出優秀的使用者/管理員體驗。\n\n- [入門](https://placeholders.pb4.eu/dev/getting-started)\n- [新增占位符](https://placeholders.pb4.eu/dev/adding-placeholders)\n- [解析占位符](https://placeholders.pb4.eu/dev/parsing-placeholders)\n- [TextNodes 與 NodeParsers](https://placeholders.pb4.eu/dev/text-nodes)\n- [使用簡化文字格式 (TextParserV1)](https://placeholders.pb4.eu/dev/text-format)\n\n*[JIJ]: Jar-in-Jar",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

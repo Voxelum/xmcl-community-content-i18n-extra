@@ -1,0 +1,6 @@
+{
+  "bodyHash": "u4fkTqjwyx0=",
+  "content": "<p>這個附加元件新增了一個簡單但實用的跨模組生活品質功能：<br>你可以將 Create 的扳手與 Mekanism 的組態器以 1:1 的比例互相合成。</p><p>如果你的模組包同時使用了 Create 和 Mekanism，這有助於讓所有玩家維持統一的工具流程。<br>不必從頭製作第二個工具，而是可以直接轉換你手上已有的工具。</p><p>包含的合成配方：</p><p>create:wrench -&gt; mekanism:configurator<br>mekanism:configurator -&gt; create:wrench<br>設計輕巧、簡潔，易於直接放入現有的模組包中。<br>沒有額外的機制，沒有進度變更，只有直觀的相容性與便利性。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

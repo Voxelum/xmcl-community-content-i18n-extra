@@ -1,0 +1,6 @@
+{
+  "bodyHash": "HTLNvHsbH7E=",
+  "content": "![豐饒之角](https://cdn.modrinth.com/data/cached_images/cdc9f355b8de0a0c5775463a71add8319ba7c5b1.png)\n\n本模組是 [豐饒之角](https://modrinth.com/mod/cornucopiabypizza573) 的續作，同時也為 Artifacts 中的永恆食物添加了相容性\n\n如何獲得豐饒之角：\n\n首次進食獎勵：第一次進食時會獲得一個山羊角\n\n山羊角轉換：對著裝滿食物的山羊角右鍵點擊，可將其轉換為豐饒之角\n\n# 機制說明：\n\n- 優先食用能完全恢復飢餓值的食物\n- 當生命值低於設定的生命閾值（預設為10點）時，優先食用金蘋果（附魔金蘋果擁有更高優先級）\n- 略微縮短進食時間\n- 進食有機率獲得三種類型的蘋果\n\n![Artifacts](https://cdn.modrinth.com/data/cached_images/7adcc7f7e4c848c067b0043c7346679d662553c5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

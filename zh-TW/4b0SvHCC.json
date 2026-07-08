@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bF64VgdskM4=",
+  "content": "<p>JEIModelBridge 是一個簡單的模組，它修補了 <a href=\"/mod/jei\">JEI</a> 的物品批次渲染模型包裝器，以實現 Fabric 模型擴展，解決了 <a href=\"/mod/connector\">Connector</a> 載入的 Fabric 模組物品在材料清單中無法正確渲染的問題。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

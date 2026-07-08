@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Lg7AQeVEeQs=",
+  "content": "<h2><span style=\"font-size:36px\"><a style=\"font-size:36px\" href=\"/linkout?remoteUrl=https%253a%252f%252fmodrepo.de%252fminecraft%252ffaq\" rel=\"nofollow\">FAQ</a></span></h2><p>&nbsp;</p><p><span style=\"font-size:18px\">Этот мод позволяет открывать ваши шелкер-ящики из инвентаря. Просто щёлкните правой кнопкой мыши по шелкер-ящику в инвентаре, и он откроется. Вы можете положить его на землю, удерживая клавишу скрытности.</span></p><p><img src=\"https://media.giphy.com/media/U8eGzAY8suFpuAyMQv/giphy.gif\" alt=\"\"></p><p>&nbsp;</p><h2>Установка</h2><h3><em>Версия 2.x.x и выше</em></h3><p>Достаточно установить мод на сервер, но для лучшего опыта его можно дополнительно установить на клиент.</p><h3><em>Версия 1.x.x</em></h3><p>Необходимо установить мод как на сервер, так и на клиент.</p><p>&nbsp;</p><h2>Настройка</h2><h3><em>Версия 2.x.x и выше</em></h3><p>Файл конфигурации находится по адресу <code>config/shulkerbox/shulkerbox.properties</code>.</p><h3><em>Версия 1.x.x</em></h3><p>Файл конфигурации находится в папке вашего мира в подпапке <code>serverconfig</code> и называется <code>shulkerbox-server.toml</code>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

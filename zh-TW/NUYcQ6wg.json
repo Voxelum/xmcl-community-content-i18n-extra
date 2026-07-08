@@ -1,0 +1,6 @@
+{
+  "bodyHash": "D8cCxEagNEU=",
+  "content": "# XYZ 書本\n\n這本書讓儲存座標變得輕鬆簡單。無需手動書寫，您只需輸入地點名稱，模組便會自動為您完成其餘工作。座標會自動添加到書中，並根據當前維度顯示相對應的顏色（主世界為綠色，地獄為紅色，終界為紫色）。\n\n### 使用方式\n\n您需要使用鐵砧將書本與羽毛筆重新命名，使名稱包含「XYZ」字樣。\n\n![圖片](https://github.com/diskree/XYZBook/assets/96978370/76dcc8d6-3fac-4e64-a3ee-ea6e3c117bce)\n\n### 書本界面\n\n「簽名」按鈕將被「新增條目」按鈕取代。點擊該按鈕後輸入地點名稱，然後按下「完成」按鈕。系統會將包含當前維度顏色的當前 XYZ 座標條目儲存於書本中。\n\n![圖片](https://github.com/diskree/XYZBook/assets/96978370/4246e532-1074-4118-b577-c665b7ab13cc)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "KK+UaYUPLUA=",
+  "content": "<p>&nbsp;**這是 [Sweeper Maid](<a href=\"https://github.com/Viola-Siemens/Sweeper-Maid\" target=\"_blank\" rel=\"nofollow\">https://github.com/Viola-Siemens/Sweeper-Maid</a>) 的非官方 Fabric 移植版，原作者 Hexagram (Viola-Siemens) 製作的為 Forge 模組。此移植與原作者無任何關聯或官方認可。**</p><p>&nbsp; 一款效能最佳化模組。掃地機器人會定期清理所有掉落物並將其收集到「垃圾桶」中。不僅是掉落物，其他實體也可以被清除以提升伺服器效能。</p><p>&nbsp; 客戶端非必要。此模組可僅在伺服器端運作，如同插件一般。</p><p>&nbsp; ## 垃圾桶<br>&nbsp; 所有收集到的掉落物會暫時顯示在 54 格空間的垃圾桶中。使用指令 `/sweepermaid dustbin` 打開垃圾桶。您也可以在設定檔中調整其權限等級。</p><p>&nbsp; ## 設定<br>&nbsp; 掃地機器人的冷卻時間、要清除的其他類型實體，甚至是發送給玩家的訊息均可設定。設定檔位於 `config/sweepermaid.json`。</p><p>&nbsp; ## 指令<br>&nbsp; - `/sweepermaid dustbin [index]` - 打開垃圾桶（預設：任何玩家）<br>&nbsp; - `/sweepermaid clean` - 立即觸發一次清理（預設：僅管理員）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

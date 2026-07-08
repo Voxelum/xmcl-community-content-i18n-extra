@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bS32wCsK2KY=",
+  "content": "<h2>什麼是 DucLib？</h2><p>DucLib 是一個函式庫模組，您可以用它來在遊戲中加入模型和動畫。與傳統的 Java 模型不同，您可以使用每個面的 UV（如果需要的話也可以使用方塊 UV）。同時它也支援動畫，因為您可以從任何地方啟動和停止它們（所以如果真的想要的話，甚至在目標中也行！），因此非常容易實作。</p><h2>常見問題</h2><p><em><strong>問：我使用 DucLib 時遇到問題（例如遊戲崩潰）。</strong></em></p><p>答：請在 GitHub 上建立一個問題回報，附上日誌檔案和描述，以便我能夠重現問題。</p><p><em><strong>問：未來會有 Fabric 版本嗎？</strong></em></p><p>答：目前還不確定，也許未來會有，但可能不會。</p><p><em><strong>問：我該如何使用 DucLib？</strong></em></p><p>答：您可以在<a href=\"https://github.com/Itskillerluc/DucLib/wiki\" rel=\"nofollow\">維基</a>上找到相關資訊。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

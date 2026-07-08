@@ -1,0 +1,6 @@
+{
+  "bodyHash": "FTtgLKcV5Hg=",
+  "content": "<p>這是針對《Forge Pick Block But For Tools》模組的更新，新增支援其他模組的工具。</p><p>&nbsp;</p><p>此模組讓玩家能使用類似「選取方塊」的操作，來選取最適合破壞或保留方塊的工具。此功能不會覆蓋原本的 Minecraft 選取方塊操作。</p><p>&nbsp;</p><p>使用破壞功能時，按住「B」（預設按鍵設定）並對方塊按下滑鼠中鍵，即可選取最佳破壞工具（優先選擇幸運附魔）。</p><p>使用保留功能時，按住「V」（預設按鍵設定）並對方塊按下滑鼠中鍵，即可選取最佳絲綢之觸工具。</p><p>快速選取「pickarang」或「flamerang」時，按下「Y」（預設按鍵設定）。</p><p>快速選取「atomic disassembler」時，按下「X」（預設按鍵設定）。</p><p>&nbsp;</p><p><img src=\"https://imgur.com/NSVACO4.gif\" alt=\"快速選取工具展示\" width=\"2560\" height=\"1432\"></p><p>&nbsp;</p><p><span style=\"font-size:18px\">功能</span><br>- 選擇萬用鎬（paxel）處理適合的方塊<br>- 選擇鎬子處理石頭類方塊<br>- 選擇斧頭處理木頭類方塊<br>- 選擇鏟子處理泥土類方塊<br>- 選擇鋤頭處理樹葉類方塊<br>- 選擇剪刀處理羊毛類及藤蔓類方塊<br>- 保留快捷鍵可選取最佳絲綢之觸工具</p><p>&nbsp;</p><p><span style=\"font-size:18px\">整合的模組</span><br>- Quark<br>- Mekanism</p><p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

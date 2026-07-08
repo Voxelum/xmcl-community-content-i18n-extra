@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0CO3utW3F9U=",
+  "content": "<h1>🌸 lunas-stackable-flowers</h1><p>更茂密、可堆叠的原始花朵。</p><h1>✨ 功能特点：</h1><h2>🌼 在单个方块中堆叠花朵</h2><ul>\n<li>每个方块最多可堆叠6朵花</li>\n<li>灵感来源于野花，但适用于原版单朵花</li>\n</ul><h2>🧭 定向放置</h2><ul>\n<li>手动放置时根据玩家朝向设定方向（北、南、东、西）</li>\n<li>模型会根据方向正确旋转</li>\n<li>花朵从右下角开始逆时针堆叠</li>\n</ul><h2>🪓 工具互动（重塑您的花丛）</h2><p>使用工具重新定义与花朵的互动方式：</p><ul>\n<li>锹可移除堆叠中的1朵花</li>\n<li>剪刀让花堆变矮</li>\n<li>锄头为花朵设定新方向</li>\n</ul><h2>🌿 骨粉生长（可控操作）</h2><p>使用骨粉可自然促进花堆生长</p><ul>\n<li>增加1朵花，且不设定特定方向</li>\n<li>让矮花堆长得更高</li>\n</ul><h2>🎮 原版优先设计</h2><p>设计理念如同原版 Minecraft 自带功能：</p><ul>\n<li>不添加新物品</li>\n<li>无复杂 GUI 界面</li>\n<li>完全兼容现有世界</li>\n<li>不改变世界生成</li>\n</ul><h2>🧩 兼容性</h2><table>\n<thead>\n<tr>\n<th>Minecraft 版本</th>\n<th>支持状态</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>26.2</strong></td>\n<td>✅ 支持</td>\n</tr>\n<tr>\n<td><strong>26.1</strong></td>\n<td>✅ 支持</td>\n</tr>\n<tr>\n<td><strong>1.21.11</strong></td>\n<td>✅ 支持</td>\n</tr>\n<tr>\n<td><strong>1.20.10</strong></td>\n<td>✅ 支持</td>\n</tr>\n<tr>\n<td>更早版本</td>\n<td>❌ 不支持</td>\n</tr>\n</tbody>\n</table><h1>💚 鸣谢</h1><p>本模组使用 Fabric、Blockbench 精心制作，满怀着对 Minecraft 的热爱。",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

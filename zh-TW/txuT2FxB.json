@@ -1,0 +1,6 @@
+{
+  "bodyHash": "jg30ASi7nYw=",
+  "content": "# 快捷存取\n\n一個簡單的**伺服器端**模組，讓你可以方便地存取：\n- 工作台\n- 終界箱\n- 界伏盒\n- 紡織機\n- 製圖台\n- 切石機\n- 砂輪機\n- 鍛造台\n\n...只需在物品欄中或手持物品時**按右鍵**即可。\n\n你可以在 ```/config/quickaccess.properties``` 中關閉每個物品的右鍵功能，以及控制界伏盒/終界箱是否播放音效。設定選項應該不難理解。\n\n\n## 展示\n\n手持物品時按右鍵：\n\n![展示1](https://github.com/tricube3/quick-access/blob/main/gif/showcase1.gif?raw=true)\n\n在GUI中對物品按右鍵：\n\n![展示2](https://github.com/tricube3/quick-access/blob/main/gif/showcase2.gif?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "PCiReISw7ms=",
+  "content": "![对比图](https://imgur.com/E7tzOar.png)\n\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/resourcepack/low-shield-pack) [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/texture-packs/low-shield)\n\n> #### Low Shield 资源包将第一人称视角下的盾牌高度降低，确保在游戏（尤其是战斗时）不会遮挡视线。\n\n- **默认时盾牌降低 2.75 格，格挡时额外降低 3 格。**\n- **[[MC-98631](https://bugs.mojang.com/browse/MC/issues/MC-98631)] 修复了右手盾牌比左手盾牌显示位置更高的漏洞（适用于 1.21.11 及以下版本）。**\n\n<br>\n\n### 工作原理 🧠\n- 通过调整模型文件中的 **Y 轴**数值，降低盾牌的显示位置，无论格挡还是手持，盾牌始终保持在较低位置。\n\n##### 本资源包持续更新，定期进行版本兼容性测试、文件更新和漏洞修复。\n\n### 许可协议 **(ARR)** 📜\n\n\n<details>\n<summary>许可协议</summary>\n\n- 允许在任何整合包或资源包中自由使用、修改或分享本项目，但必须注明原作者。\n- 不得以任何需要付费的方式出售或使用本资源包。\n\n##### 如有其他疑问，欢迎通过 Discord **(@Oculie)** 联系我。\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

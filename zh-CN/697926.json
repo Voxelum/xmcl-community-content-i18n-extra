@@ -1,0 +1,6 @@
+{
+  "bodyHash": "w7FAfBicgrs=",
+  "content": "<p>添加类似EE/ProjectE的EMC系统，在\"炼金术台\"中转换物品。</p><p>使用\"贤者之石\"可以等价交换方块。</p><p>这是一个受《等价交换》和《ProjectE》启发的FabricMC模组，引入基于EMC的系统，允许玩家通过炼金机制（如转化桌、收集器和凝聚器）来转换、储存和生成资源。</p><p>&nbsp;</p><p>我一直在寻找Fabric版的ProjectE模组，所以自己动手做了一个。</p><p>&nbsp;</p><p>本模组需要依赖<a href=\"https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch\" target=\"_blank\" rel=\"nofollow\">MCPitanLib</a>，而MCPitanLib又需要<a href=\"https://www.curseforge.com/minecraft/mc-mods/architectury-api\" target=\"_blank\" rel=\"nofollow\">Architectury API</a>。</p><p>目前仅支持Fabric，且需要<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a>。</p><h2>物品</h2><ul>\n<li>贤者之石…等价交换方块</li>\n<li>炼金术台…将物品转换为EMC，再将EMC转换为物品</li>\n<li>炼金术便签板…手持版炼金术台</li>\n<li>EMC凝聚器</li>\n<li>EMC收集器x3（MK-1~5）</li>\n<li>EMC中继器</li>\n<li>AEGU x3（高级、终极）</li>\n<li>炼金燃料、莫比乌斯燃料、永恒燃料</li>\n</ul><h2>附属模组</h2><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/more-matter-alchemy\" target=\"_blank\" rel=\"nofollow\">More Matter Alchemy</a>（作者：AmeliaCute）</li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/item-alchemy-additions\" target=\"_blank\" rel=\"nofollow\">Item Alchemy Additions</a>（作者：Vikotoya）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

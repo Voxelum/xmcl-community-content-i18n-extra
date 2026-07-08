@@ -1,0 +1,6 @@
+{
+  "bodyHash": "z7mmj+iq5Yo=",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/_cs06NdFHiY\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**攻击不再有冷却间隔**，就像1.8版本一样！\n\n你仍然可以使用副手物品、盾牌、弩等...以及1.8版本后的所有其他机制\n\n支持**多人游戏**！\n\n## 斧头：\n\n**斧头**的伤害被削弱回**原版1.8的数值**（下界合金斧除外）：\n\n- 木斧：*3*\n- 金斧：*3*\n- 石斧：*4*\n- 铁斧：*5*\n- 钻石斧：*6*\n- 下界合金斧：*7*\n\n## 格挡\n\n现在你可以用任何剑进行格挡，就像1.8版本一样！\n\n格挡可以减少玩家受到的攻击伤害40%，并将击退效果减半\n\n## 通过简单命令启用/禁用机制！\n\n在禁用1.8机制前，**不要**使用 */datapack disable* 命令！\n\n**启用（默认开启）**\n\n```jsx\n/function instant_pvp:enable\n```\n\n**禁用**\n\n```jsx\n/function instant_pvp:disable\n```\n\n切换机制会自动：\n\n- 改变玩家的攻击速度\n- 启用/禁用剑的格挡能力\n- 调整斧头造成的伤害",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

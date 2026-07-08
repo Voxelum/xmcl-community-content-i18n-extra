@@ -1,0 +1,6 @@
+{
+  "bodyHash": "xVZx4jnPdC0=",
+  "content": "## WynnLODGrabber\n\nWynnLODGrabber предназначен для создателей модпаков Wynncraft, чтобы пользователи могли автоматически загружать серверные LOD-текстуры, не прибегая к ручному редактированию файлов. Или, если вы не создаёте модпак, это, пожалуй, самый ленивый способ скачать LOD-текстуры!\n\nПоддерживает как **Distant Horizons**, так и **Voxy** — мод определяет, какой из них установлен, и автоматически загружает соответствующий пакет LOD.\n\n### Установка\n\nWynnLODGrabber — это мод, созданный для [Fabric Loader](https://fabricmc.net/). Он требует [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) и [Wynntils](https://modrinth.com/mod/wynntils), а также либо [Distant Horizons](https://modrinth.com/mod/distanthorizons), либо [Voxy](https://modrinth.com/mod/voxy) (не оба одновременно).\n\n> **Для создателей модпаков:** Вы можете включить в свой пак любые адреса типа `*.wynncraft.com` — полностью поддерживаются пользовательские IP-адреса, такие как `igbarvonsquid.wynncraft.com`. Мод распознаёт любые поддомены Wynncraft и автоматически устанавливает LOD-текстуры в нужную папку.\n",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

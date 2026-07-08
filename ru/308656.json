@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9BBinsjQeqg=",
+  "content": "<p style=\"text-align:center\">&nbsp;<span style=\"text-decoration:underline;font-size:24px\"><strong>Обзор</strong></span></p><p style=\"text-align:left\">Clear Despawn — это мод, который заставляет выпавшие предметы мигать, когда они вот-вот исчезнут. По умолчанию это происходит, когда до исчезновения остается около 20 секунд, при этом мигание постепенно ускоряется по мере отсчета времени. Оба этих элемента можно настроить.</p><p style=\"text-align:left\"><strong>Этот мод работает только на клиенте.</strong></p><p style=\"text-align:left\">Больше особо и нечего сказать, так что вот пример гифки:</p><p style=\"text-align:left\"><img src=\"https://i.postimg.cc/2yvTVQgM/sworddespawn.gif\" alt=\"\" width=\"160\" height=\"152\"></p><p style=\"text-align:center\"><span style=\"text-decoration:underline;font-size:24px\"><strong>Настройки</strong></span></p><ul>\n<li><strong>Время начала мигания</strong> — количество секунд, оставшихся до исчезновения предмета, после которых начинается мигание (по умолчанию: 20)</li>\n<li><strong>Время исчезновения предмета</strong> — время исчезновения предмета в тиках (по умолчанию: 6000)</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "k2KJxr6bVew=",
+  "content": "这个模组添加了两种自定义HUD，可通过配置文件进行切换。\n\n玩家属性以百分比形式显示，饱和度也会显示，并且百分比会根据玩家的最大生命值自动调整。\n\n模组包含以下自定义选项：\n- 根据HUD类型改变颜色和样式。\n- 时间与日期指示器（24小时制、上午/下午）。\n- 生命值、饥饿度和氧气不足的警告音效（根据所选HUD类型），并可自定义警告百分比阈值。\n- HUD背景增强可见性。\n\n包含的HUD类型：\n1. Lm9 HUD：11种颜色变体，更具多边形风格。![Lm9 HUD（青色/变体6）](https://cdn.modrinth.com/data/cached_images/b4b573ceaa713c24d2ca1e938ddc91d13aedf0c6.png)\n2. GRN HUD：过载变体、狙击变体（变体可组合）。![GRN HUD（标准变体）](https://cdn.modrinth.com/data/cached_images/971590cfe6cfed3830ac32b0f849da5d7e18fde3.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

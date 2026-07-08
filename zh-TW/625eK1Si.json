@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4imscmOpebM=",
+  "content": "## 描述\n\n一款輕量級的伺服器端模組，當玩家在其他人附近快速蹲下時，上方會冒出愛心粒子特效——一種簡單的友善手勢。\n\n![封面](https://cdn.modrinth.com/data/cached_images/229f853e39181c31096cbc8252a28a401b63e409.png)\n\n## 指令\n\n- `/kiss <玩家>`: 允許你使用此指令親吻其他玩家（每位玩家每 10 秒只能使用一次此指令，預設值。被親吻的玩家會收到通知，且頭頂會出現愛心粒子特效。）\n\n## 預設配置\n\n`kissmod.json`\n\n```jsonc\n{\n  // 蹲下時可出現的最大愛心粒子數量（1–20）\n  \"maxSneakParticles\": 6,\n\n  // 粒子的垂直位置偏移（以方塊為單位）\n  // 1.6 = 站姿玩家的眼睛高度\n  \"sneakParticleHeight\": 1.6,\n\n  // 收到親吻時顯示的訊息\n  // %s = 自動替換為親吻者的使用者名稱\n  \"kissMessage\": \"%s 親了你！\",\n\n  // 親吻他人後，傳送者收到的訊息\n  // %s = 自動替換為接收者的使用者名稱\n  \"kissPromptMessage\": \"你親吻了 %s\",\n\n  // /kiss 指令的冷卻時間（以秒為單位）\n  // 防止指令濫發（0 = 無冷卻）\n  \"commandCooldown\": 10,\n\n  // 啟用或停用 /kiss 指令\n  \"enableKissCommand\": true,\n\n  // 嘗試親吻自己時顯示的錯誤訊息\n  \"selfKissErrorMessage\": \"你不能親吻自己！\",\n\n  // 在冷卻時間結束前使用 /kiss 時顯示的錯誤訊息\n  // %d = 自動替換為剩餘秒數\n  \"cooldownErrorMessage\": \"你必須等待 %d 秒才能再次親吻！\",\n\n  // 用於偵測附近玩家以觸發親吻或蹲下粒子特效的最大視角（以度為單位）\n  // 角度越小，表示只有正前方的玩家才被視為可見\n  \"maxViewAngleDegree\": 90.0\n}\n```\n\n## 授權\n\n[MIT](https://github.com/jiazengp/kiss-fabric/blob/master/LICENSE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

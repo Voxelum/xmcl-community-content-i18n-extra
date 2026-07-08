@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Sxc71h2h/tk=",
+  "content": "[![CurseForge](https://img.shields.io/badge/CurseForge-0?style=for-the-badge&logo=curseforge&color=black)](https://www.curseforge.com/minecraft/mc-mods/anemos)\n[![](https://img.shields.io/badge/Modrinth%20•%20Profile-0?style=for-the-badge&logo=modrinth&color=black)](https://modrinth.com/user/PrincParshia)\n[![](https://img.shields.io/badge/Donate%20A%20Cup%20Of%20Coffee-0?style=for-the-badge&logo=ko-fi&color=black)](https://ko-fi.com/princparshia)\n\n<hr>\n\n## 📗 介紹\n\nAnemos 是一款客戶端模組，通過覆蓋 Minecraft 的亮度上限（從 100 提升至 1500），為您帶來真正的全亮度效果。它能移除所有黑暗與陰影，無論時間、生態域或維度，讓一切完全亮如白晝。\n\n原版伽瑪值在光影下無效？別擔心。它內建了假夜視系統，即使在啟用光影的情況下也能完美運作。\n\n中了失明或黑暗效果？繞過系統會取消這些視覺影響，讓您正常視物——不過在未經授權的伺服器上建議謹慎使用！\n\n同時支援迷霧控制功能——讓您能針對不同環境（如水、熔岩或大氣），自由調整迷霧的可見度與濃度。無論您偏好完全無霧，還是希望依環境個別切換，一切皆可自訂。\n\n## ✨ 主要功能\n\n* 最大可視度——也就是全亮度效果。\n* 可切換的假夜視功能，支援光影。\n* 繞過失明與黑暗效果。\n* 依迷霧類型個別設定（地形、天空等）。\n* 流暢的過渡動畫效果。\n* 深度自訂——且不影響遊戲穩定性。\n\n## 🧩 使用方法\n\n* 按下 `G` 鍵，可在最大伽瑪值與先前的伽瑪值之間切換。\n* 按下 `N` 鍵，可模擬夜視效果。\n* 按下 `B`/`V` 鍵，可繞過失明/黑暗效果。\n\n透過 Mod Menu 開啟設定介面，或執行 `/configure anemos` 指令來調整各項功能與迷霧設定。\n\n<hr>\n\n<img src=\"https://raw.githubusercontent.com/PrincParshia/Anemos/refs/heads/assets/gamma-transition.gif\" width=\"100%\">",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

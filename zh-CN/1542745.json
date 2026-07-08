@@ -1,0 +1,6 @@
+{
+  "bodyHash": "gPfk5X8hkqk=",
+  "content": "<p>在原生MC中，TagKey对象在创建时会通过Interner进行去重，因此不会存在多个相同的对象（允许通过identityHashCode和==进行身份比较）。但由于TagKey是记录类（record class），它会自动生成基于内部注册表和位置进行比较的hashCode和equals方法，而Interner正是依赖这些方法进行去重。这使得其他地方调用hashCode和equals时比身份比较更慢。本模组将Interner替换为自定义去重器，并覆盖了记录类生成的hashCode和equals方法，改用identityHashCode和==进行比较，从而大幅提升其他地方的比较和查找性能，同时略微加快创建速度。此外，ResourceKey也已切换至该自定义去重器，提升了创建速度并减少了内存占用。</p><p>哪些方面可以优化：标签在MC的多个地方被使用，例如物品、方块、流体、实体、世界生成等，这些地方都会执行是否包含某个标签的检查。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

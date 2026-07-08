@@ -1,0 +1,6 @@
+{
+  "bodyHash": "GMeHm46IWUs=",
+  "content": "<h1>丰收传承</h1><blockquote>\n<p>\"我敬佩第一个从野草中敲出种子的人——或许那是小麦的种子。\"</p>\n</blockquote><p>将工业时代2的作物育种系统带入现代Minecraft，经过简化和扩展。</p><p>当你破坏草丛时，获得的将不仅仅是小麦种子。</p><hr><h2>🎮 快速上手</h2><h3>1. 杂交育种</h3><p>当两个作物架排成一行（中间隔一个空作物架）且均处于成熟状态时，空作物架将触发杂交，产生新品种。</p><p>育种继承规则：</p><ul>\n<li>速度和产量会从双亲继承</li>\n<li>通过多代培育可提升属性</li>\n<li>查看JEI以了解具体杂交配方</li>\n</ul><h3>2. 大规模种植</h3><p>手持<strong>种子袋</strong>右键点击<strong>脚手架</strong>方块，可将其转化为<strong>脚手架作物架</strong>并同时种植。</p><p>脚手架作物架不支持杂交，但可垂直堆叠，适合自动化农场。</p><hr><h2>⚙️ 配置</h2><p>服务器配置文件（<code>harvestheriest-server.toml</code>）：</p><ul>\n<li><code>seed_speed_max</code> — 种子速度属性上限（默认：31）</li>\n<li><code>output_max</code> — 每次收获产量上限（默认：31）</li>\n</ul><hr><h2>🔌 数据包</h2><p>将JSON文件放入 <code>data/&lt;命名空间&gt;/harvestheritage_seeds/</code> 以注册自定义种子。</p><p>示例：</p><pre><code>{\n  \"seed\": \"minecraft:diamond\",\n  \"category\": \"material\",\n  \"results\": [\n    \"minecraft:diamond\"\n  ],\n  \"stage\": 5\n}\n</code></pre><p>有效类别：<code>crop</code>（作物）、<code>animal</code>（动物）、<code>mob</code>（生物）、<code>material</code>（材料）、<code>special</code>（特殊）、<code>misc</code>（杂项）</p><hr><h2>❤️ 鸣谢</h2><ul>\n<li><strong>theabab2333</strong> — 作者</li>\n<li><strong>Abslb</strong> 和 <strong>GTriXy</strong> — 贡献者</li>\n<li>工业时代2经典育种系统 — 灵感来源</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

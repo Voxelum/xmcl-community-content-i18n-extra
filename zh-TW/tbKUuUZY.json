@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ukec9Lrxng0=",
+  "content": "![礦物展示](https://cdn.modrinth.com/data/tbKUuUZY/images/8a581d24209a4874ff26ef2937efb59035ff1090.png)\n此資源包讓 [Hbm's Nuclear Tech Mod](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT)（及 [NTM: Space](https://github.com/JameH2/Hbm-s-Nuclear-Tech-GIT)）中的礦石發光。\n\n需要支援 seusPBR/oldPBR 的著色器。[BSL](https://modrinth.com/shader/bsl-shaders) 與 [Complementary](https://modrinth.com/shader/complementary-unbound) 已知相容。\n\n我也建議搭配使用 [Shader Fixer](https://modrinth.com/mod/shader-fixer)，但這並非必要。\n\n若你使用 Complementary 並想同時啟用 Integrated PBR+，請至設定 → Materials → IntegratedPBR+ Materials → Other IPBR+ Features，將 IPBR+ Emissive Mode 切換為 seusPBR > IPBR+。\n\n##\n\n### 如何與 Angelica 搭配使用：\n在 Angelica 中，以預設設定使用 seusPBR 會導致視覺錯誤。\n\n若你使用 Complementary，可至設定 → Materials → labPBR/seuspbr Materials，將 Normal Map Strength 設為 0，並停用 Parallax Occlusion Mapping 來解決此問題。\n\n##\n\n若有任何問題或建議，歡迎告知我！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

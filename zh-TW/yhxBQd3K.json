@@ -1,0 +1,6 @@
+{
+  "bodyHash": "TDjCGWwY7cQ=",
+  "content": "# 繞過 Fabric 檢查\n\n## 🇺🇸 英文說明\n\n### 簡介\n這是一個簡單的 Fabric 模組，旨在解決 **Minecraft 1.21+** 版本中，原版客戶端無法加入安裝了 Fabric API 的區域網路或伺服器的問題。\n\n### 功能特點\n* **繞過握手檢查 (Bypass Handshake)**: 攔截伺服器向非本地玩家發送的 `FabricConfigurationTask`。\n* **原版相容性 (Vanilla Compatibility)**: 允許沒有任何模組的朋友直接連接你的 Fabric 主機。\n* **伺服器端專用 (Server-Side Only)**: 只需要安裝在 Host/伺服器端，客戶端無需安裝。\n* **可動態開關**: 支援在遊戲中透過指令即時開啟或關閉繞過功能。\n\n### 解決了什麼錯誤？\n> This server requires Fabric Loader and Fabric API installed on your client!\n\n### 指令說明\n你可以透過以下指令控制功能開關（需要 OP 權限）：\n\n* `/bypass on` - **開啟**繞過檢查（預設）。允許原版客戶端加入。\n* `/bypass off` - **關閉**繞過檢查。恢復 Fabric 預設行為（原版客戶端將被拒絕）。\n\n---\n\n## 🇹🇼 繁體中文說明\n\n### 簡介\n這是一個簡單的 Minecraft Fabric 模組，旨在解決 **1.21+** 版本中，原版客戶端 (Vanilla Client) 無法加入安裝了 Fabric API 的區域網路 (LAN) 或伺服器的問題。\n\n### 功能特點\n* **繞過握手檢查 (Bypass Handshake)**: 攔截伺服器向非本地玩家發送的 `FabricConfigurationTask`。\n* **原版相容性 (Vanilla Compatibility)**: 允許沒有任何模組的朋友直接連接你的 Fabric 主機。\n* **伺服器端專用 (Server-Side Only)**: 只需要安裝在 Host/伺服器端，客戶端無需安裝。\n* **可動態開關**: 支援在遊戲中透過指令即時開啟或關閉繞過功能。\n\n### 解決了什麼錯誤？\n> This server requires Fabric Loader and Fabric API installed on your client!\n\n### 指令說明\n你可以透過以下指令控制功能開關（需要 OP 權限）：\n\n* `/bypass on` - **開啟**繞過檢查（預設）。允許原版客戶端加入。\n* `/bypass off` - **關閉**繞過檢查。恢復 Fabric 預設行為（原版客戶端將被拒絕）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

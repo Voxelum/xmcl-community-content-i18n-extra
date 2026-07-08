@@ -1,0 +1,6 @@
+{
+  "bodyHash": "LAgiFh3sYhs=",
+  "content": "这是一个库模组，包含从版本25.3.2（小地图）和1.40.2（世界地图）开始，Xaero的小地图和Xaero的世界地图所需并使用的代码。\n\n地图模组本身及其详细功能描述可在此处找到：\n\n[Xaero的小地图](https://modrinth.com/mod/xaeros-minimap)\n\n[Xaero的世界地图](https://modrinth.com/mod/xaeros-world-map)\n\n仅在Minecraft 1.16.5和1.12.2版本的Forge上才需要安装此模组。**_没有此库，地图模组将无法运行。_**\n\n在较新的Minecraft版本以及Fabric/Quilt上，该库已默认包含在地图模组中，因此您无需单独安装——这也就是您在此处找不到相关文件的原因。\n\n## 给开发者：\n请阅读地图模组页面上的“给开发者”部分。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

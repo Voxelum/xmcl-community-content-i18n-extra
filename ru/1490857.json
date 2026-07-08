@@ -1,0 +1,6 @@
+{
+  "bodyHash": "/aYwvW+XZAE=",
+  "content": "<p>Создайте шаблон обработки AE2 из схемы Schematicannon.</p><p><img src=\"https://raw.githubusercontent.com/Myitian/SchematicannonProcessingPattern/1.20.1/.github/example.png\" alt=\"Пример\"></p><blockquote>\n<h3>Примечание</h3>\n<p>В версиях AE2 до 12.9.0 шаблоны обработки допускали только 18 слотов ввода; в более поздних версиях максимальное количество слотов ввода увеличено до 81. Это означает, что в одном чертеже может быть не более 18 или 81 материала; иначе AE2 не сможет распознать шаблон обработки.</p>\n</blockquote><h2>Зависимости</h2><ul>\n<li><strong>Minecraft:</strong> 1.18.2/1.19.2/1.20.1/1.21.1</li>\n<li><strong>Мод-загрузчик:</strong> Fabric/Forge/NeoForge</li>\n<li><strong>Create:</strong> 0.5.1+</li>\n<li><strong>Applied Energistics 2:</strong> любая</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2P6hTNgMbMU=",
+  "content": "<h2><strong>自《东方幼灵梦》1.5.0版本发布以来，本模组内容已完全整合至TLM中，因此本模组将不再维护。</strong></h2><hr><h1>女仆属性</h1><p>这是<strong>《东方幼灵梦》</strong>的一个附加模组，为女仆添加了一些属性。</p><h1>说明</h1><p>本模组添加了下表中所示的属性：</p><table>\n<thead>\n<tr>\n<th>ID</th>\n<th>名称</th>\n<th>描述</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>maid_attribute:maid_crossbow_attack_speed</td>\n<td>女仆弩攻击速度</td>\n<td>女仆弩攻击的速度倍率。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_gun_attack_speed</td>\n<td>女仆枪攻击速度</td>\n<td>女仆枪攻击的速度倍率。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_passive_use_shield_tick</td>\n<td>女仆使用盾牌时长</td>\n<td>女仆单次使用盾牌的持续时间。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_pickup_range</td>\n<td>女仆拾取范围</td>\n<td>女仆拾取物品的范围。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_shoot_cooldown</td>\n<td>女仆射击冷却</td>\n<td>女仆单次射击后的冷却时间。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_trident_cooldown</td>\n<td>女仆三叉戟射击冷却</td>\n<td>女仆单次三叉戟射击后的冷却时间。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_use_item_speed</td>\n<td>女仆使用物品速度</td>\n<td>女仆使用物品的速度倍率。</td>\n</tr>\n</tbody>\n</table><h1>许可证</h1><p>本模组采用<strong>MIT许可证</strong>开源。</p><p>只要<strong>遵守许可证条款</strong>，您可以在您的整合包/服务器中包含它。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

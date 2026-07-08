@@ -1,0 +1,6 @@
+{
+  "bodyHash": "Smwhd7q5ur4=",
+  "content": "<p><span style=\"font-size:14px\">在主世界中，已命名或附魔的物品若未及時拾取而消失，將被沖刷至世界各地的水域中，玩家可透過釣魚找回這些物品。其他特定物品也會被保留。預設情況下，具有耐久度的物品在被找回時，最多會損失一半的剩餘耐久度。</span></p>\n\n<p><span style=\"font-size:14px\">本模組的所有細節皆可設定，包括系統會捕捉哪些類型的物品、每次釣魚時找回物品的機率，以及物品受損的機率與嚴重程度。</span></p>\n\n<p><span style=\"font-size:14px\">此外，模組新增了 <code>lost_found:must_save</code> 標籤，用於標記特定物品為永遠受到保護，即使未經重新命名或附魔。預設情況下，此標籤包含：</span></p>\n\n<ul>\n<li><span style=\"font-size:14px\">龍蛋</span></li>\n<li><span style=\"font-size:14px\">地獄之星</span></li>\n<li><span style=\"font-size:14px\">鞘翅</span></li>\n<li><span style=\"font-size:14px\">唱片</span></li>\n</ul>\n\n<p><span style=\"font-size:14px\">同時也存在 <code>lost_found:no_save</code> 標籤，可防止物品受到保護，即使物品已被重新命名、附魔，或列入上述標籤清單。預設情況下，此標籤包含命名牌與玩家頭顱。</span></p>\n\n<p><span style=\"font-size:14px\">本模組還新增了一系列指令，用於管理遺失物品佇列：<code>/lost-fished peek</code>（查看）、<code>/lost-fished retrieve</code>（取回）、<code>/lost-fished discard top</code>（丟棄最上方）、以及 <code>/lost-fished discard all</code>（全部丟棄）。這些指令的功能不言自明。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

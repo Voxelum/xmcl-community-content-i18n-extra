@@ -1,0 +1,6 @@
+{
+  "bodyHash": "niwI0z3eS+Y=",
+  "content": "# 荒野工具快捷欄\n\n這個客戶端模組新增了兩個可自訂的快速選擇欄，類似於《薩爾達傳說：曠野之息》中的設計。您可以透過快捷鍵開啟，快速存取背包中的所有工具，或是在設定檔中指定的任何其他物品類型。\n\n![快捷欄圖片](https://media.forgecdn.net/attachments/448/262/default-bar-1-pic2.jpg)\n\n## 自訂功能\n\n設定選項可以透過設定檔修改，或是搭配 [Mod Menu](https://modrinth.com/mod/modmenu) 在遊戲中直接調整（需安裝 [Cloth Config API](https://modrinth.com/mod/cloth-config)），可調整項目包括：\n\n- 快捷欄的位置\n- 各物品欄位之間的間距\n- 快捷欄顯示的內容\n- 各快捷欄的材質紋理\n- 選擇物品時的音效\n\n以及其他更多選項。\n更詳細的資訊請參考[此處](https://github.com/TrueHorse/Wild-Tool-Access/wiki/Customization)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

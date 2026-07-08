@@ -1,0 +1,6 @@
+{
+  "bodyHash": "sIvoC9UwjT8=",
+  "content": "Cobblemon WTBIT（这是什么树果）是一款 [Cobblemon](https://modrinth.com/mod/cobblemon) 资源包，能为方块ID添加树果名称，例如将 block.cobblemon.oran_berry 替换为 Oran 树果，从而使树果树方块正常显示。该资源包旨在修正 [WTHIT（这到底是什么）](https://modrinth.com/mod/wthit) 模组中显示的名称，因此若你不打算使用 [WTHIT](https://modrinth.com/mod/wthit) 或 [Jade](https://modrinth.com/mod/jade) 等方块识别模组，则无需使用此包。\n\n![WTHIT工具提示的前后对比](https://cdn.modrinth.com/data/cached_images/fb624513409e02bbefcb529077c1c506f6fbd1ef.png)\n\n目前该资源包仅支持英文，若有需求，可扩展至更多语言。此资源包未来很可能不会有额外开发，仅会更新缺失的方块ID。任何后续开发大概率会以数据包或附属模组的形式出现，以便将 [WTHIT](https://modrinth.com/mod/wthit) 的更多功能与 Cobblemon 整合。\n\n依赖：\n- [Cobblemon](https://modrinth.com/mod/cobblemon)\n\n兼容性：\n- [WTHIT](https://modrinth.com/mod/wthit)\n- [Jade](https://modrinth.com/mod/jade)\n________________________________________________________________________________________________\n\n反馈与支持：在 Cobblemon Discord 服务器中进入 [Cobblemon WTBIT 反馈与漏洞支持](https://discord.com/channels/934267676354834442/1326806901102739536)\n\n赞助：[Ko-Fi | JWAOSTAR](https://ko-fi.com/jwaostar)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "kF03rHbAdOE=",
+  "content": "<p>此模組允許玩家互相餵食。</p><p>若食物在<code>finishUsingItem</code>方法中會返還物品（如蘑菇燉湯的碗），餵食者將收回該物品。</p><p>被餵食所需的飢餓值門檻及食物黑名單均可配置。</p><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_330eeeb0-f311-47f7-8d77-ad2da7217f9d.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

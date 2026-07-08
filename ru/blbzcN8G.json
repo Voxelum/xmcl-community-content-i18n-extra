@@ -1,0 +1,6 @@
+{
+  "bodyHash": "thoGf/MUwwM=",
+  "content": "Этот мод добавляет конечную точку для данных о положении создаваемых поездов. Для установки просто поместите файл jar в папку mods. По умолчанию используется порт 8080; его можно изменить в файле конфигурации.\n\nПри использовании вместе с [BluemapCreateEntityAddon](https://modrinth.com/mod/bluemapcreateentityaddon) путь к моделям поездов также можно настроить в конфигурации. Чтобы отобразить поезда в Bluemap, добавьте https://github.com/BeneHenke/BluemapCreateEntityAddon/blob/BlueMapAddon/bluemap/train.js в скрипты и измените URL на вашу конечную точку.\n\nПример конфигурации:\n```\n#Порт веб-сервера\n# По умолчанию: 8080\n# Диапазон: 1 ~ 65535\nserverPort = 8080\n#Хост веб-сервера\nserverHost = \"0.0.0.0\"\n#Путь к моделям поездов\ntrainModelPath = \"bluemap/train_models/\"\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3Zj6e3KQ7X4=",
+  "content": "## 0. ProbeJS v8.0\n\n欢迎来到未来！由于 TypeScript 经历了一次重大更新，废弃了 ProbeJS 在 v7.7.2 版本中的类型系统结构，我们重写了模组和扩展以兼容新的 TypeScript 版本（并希望向后兼容旧版 TypeScript）。\n\n然而，由于 `TypeScript Native`（`tsgo`）尚未完全实现，模组中缺少部分功能。当 TypeScript Native 准备就绪后，模组将持续更新以补充这些缺失功能。\n\nv8.0 的新特性：\n\n* 兼容 `tsgo` 的类型声明。TypeScript Native 是一款用 Go 编写的新 TypeScript 编译器，速度比原版 TypeScript 快 10 倍，内存占用更少。我们已测试 `tsgo`，结果显示在 ATM10 上，物品字面补全时间不超过 500 毫秒，类/事件补全瞬间完成。\n* 新增 GUI，让你能在游戏中轻松配置模组并查看转储进度。同时，由于 `tsgo` 尚不支持语言插件，你可以通过该 GUI 将 `require()` 转换为 `Java.loadClass()`。\n* （希望）更准确的类型生成。由于类型解析已重写，先前版本中的大部分问题现已修复。\n* 对智能体和大型语言模型的强力支持。你现在可以让 DeepSeek 或 GPT 等 AI 生成 100% 正确的 KubeJS 代码！\n\n## 1. 安装\n\n1. 获取 VSCode，并安装微软的 `Typescript (Native Preview)` 扩展。\n2. 安装模组，**同时**安装 ProbeJS VSCode 扩展。\n3. 在游戏中，使用 `/probejs` 命令并点击转储按钮。\n4. 在 VSCode 中打开 `.minecraft` 文件夹，你应该能看到代码片段和类型功能正常工作。\n5. 如需刷新生成的类型，可重新转储。如果 VSCode 未响应文件更改，请重启 VSCode 以强制刷新扩展和语言服务器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

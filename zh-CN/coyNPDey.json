@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ECFad5ekuRY=",
+  "content": "# SeeU\n\n`SeeU` **服务端也必须安装**。\n\n[客户端](https://modrinth.com/plugin/seeu/version/h1g1OosP) | [服务端](https://modrinth.com/plugin/seeu/version/0.1.0)\n\n## 功能简介\n![演示](https://cdn.modrinth.com/data/cached_images/8fa8572ea909e35402680b088fa569ea7741b27e.png)\n\n- 在超出原版实体渲染范围时，仍能显示远处的玩家\n- 保留玩家的姿态、偏航角、俯仰角和名称\n- 在远处玩家代理上显示手持物品和盔甲\n- 同样能显示被骑乘的实体——例如坐在船中的玩家会显示为在船上，而非凭空站立\n- 支持 `Fabric` 客户端搭配 `Paper` 服务端插件或 `Fabric` 服务端发送器使用\n- 每位玩家可自行控制是否让他人看到自己的远程代理，以及可见的最大距离\n\n## 游戏内设置\n\n按 `F8` 打开设置界面。\n\n可用选项：\n\n- 启用或禁用客户端上的远处玩家渲染\n- 设置本地最大远处玩家渲染距离\n- 设置代理渲染启动的交接距离\n- 启用或禁用远处玩家名称标签\n- 允许或禁止服务端向其他玩家广播你的远程代理\n- 设置其他玩家接收你代理的最大距离\n\n在界面中更改设置后，客户端会立即发送至服务端，无需重新连接。\n\n## 配置文件\n\n<details>\n<summary>展开查看</summary>\n\n客户端：\n\n- `config/seeu-client.json`\n\nFabric 服务端：\n\n- `config/seeu-server.json`\n\nPaper 服务端：\n\n- `plugins/SeeU/config.yml`\n\n</details>\n\n## 注意事项\n\n- `SeeU` 仅针对玩家，不会在远距离渲染所有实体。\n- 客户端与服务端/插件应同步更新。当前协议版本为 `3`。\n- 如果仅安装客户端模组而无匹配的服务端发送器，则不会产生任何远处玩家数据以供渲染。\n- **`Voxy` 或 `Distant Horizons` 为可选组件。即使没有它们，`SeeU` 仍可运行，但只能渲染远处玩家代理，无法渲染远处地形。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a4cce510c5a9b169",
+  "content": "\n\n<img src=\"https://raw.githubusercontent.com/tr4shyyy/Linked-Thrusters/master/media/thrusties_1.gif\" alt=\"Демонстрация движателей\" width=\"100%\">\n  \nДобавляет новые движатели (все они оснащены встроенной функцией связи по редстоуну) в Create: Aeronautics.\n\n- Жидкостный движатель\n- Коммерческий реактивный двигатель\n- Движитель творческого режима\n\nЖидкостный и коммерческий реактивный двигатели работают как с ванильной лавой, так и с жидким топливом из различных модов для Create.\n\nТакже добавляется связанный подшипник створки (Linked Flap Bearing), обладающий аналогичной функцией связи.\n\n<video controls width=\"100%\">\n  <source src=\"https://raw.githubusercontent.com/tr4shyyy/Linked-Thrusters/master/media/linked_flap_instruct.mp4\" type=\"video/mp4\">\n  Ваш браузер не поддерживает тег video.\n</video>\n\n**Shift + ПКМ** по блоку связи открывает интерфейс настройки частоты, который работает так же, как связь по редстоуну.\n\nЭтот мод находится на очень ранней стадии разработки. Если вы обнаружите какие-либо проблемы, пожалуйста, сообщите мне.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

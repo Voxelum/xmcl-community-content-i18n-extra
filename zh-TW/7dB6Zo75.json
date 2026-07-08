@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5il8IYRe8e4=",
+  "content": "# Rainimator Mod\n\n![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg)\n![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)\n![quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/quilt_vector.svg)\n\n**這個模組仍在開發中。若遇到任何錯誤請回報。**\n\n[Rainimator](https://www.youtube.com/@Rainimator) 是一位知名的 YouTuber，專門製作 Minecraft 動畫影片。\n而這個模組加入了影片中出現的元素。\n\n## 特色功能\n\n### 武器\n\n加入了影片中經常出現的大多數武器。\n每種武器都有獨特的效果。\n\n請自行探索吧！（~~你也可以看看程式碼。~~）\n\n<div align=center><img src=\"https://raw.githubusercontent.com/IAFEnvoy/RainimatorMod/refs/heads/master/img/1.webp\" style=\"width:400px;text-align:center;\" alt=\"\"></img></div>\n\n### 實體 / Boss\n\n由於皮膚素材難以取得，目前先加入部分內容。\n使用「黑曜石方塊」來召喚它們。\n透過 `EMI` 查看召喚配方。\n\n<div align=center><img src=\"https://raw.githubusercontent.com/IAFEnvoy/RainimatorMod/refs/heads/master/img/2.webp\" style=\"width:400px;text-align:center;\" alt=\"\"></img></div>\n\n## 模組關係\n\n### 依賴模組\n\n- `Neptune`：我的跨平台函式庫。\n\n### 建議安裝\n\n這些模組並非必要安裝，但建議安裝以獲得更好的遊戲體驗。\n\n- `Asteor Bar`：更好的狀態條圖形介面。\n- `EMI`：Boss 召喚配方檢視。\n- `Throwable`：讓部分武器可投擲使用。\n\n## 貢獻\n\n若遇到任何問題或有任何想法，請在 **GitHub Issues** 中回報。\n也歡迎隨時發起拉取請求！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
