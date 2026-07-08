@@ -86,6 +86,23 @@ async function diskBodyHash(path: string): Promise<string | undefined> {
   }
 }
 
+/**
+ * The string form of a stored `bodyHash` as it appears in the JSON files.
+ * Legacy documents store it as a BSON Binary (which the driver serialises to a
+ * base64 string), newer ones as a plain hex string; both must compare equal to
+ * what `JSON.stringify` wrote to disk.
+ */
+function fileBodyHash(bh: unknown): string {
+  if (typeof bh === "string") return bh;
+  if (bh == null) return "";
+  try {
+    const v = JSON.parse(JSON.stringify(bh));
+    return typeof v === "string" ? v : "";
+  } catch {
+    return "";
+  }
+}
+
 function* chunks<T>(arr: T[], size: number): Generator<T[]> {
   for (let i = 0; i < arr.length; i += size) yield arr.slice(i, i + size);
 }
@@ -140,7 +157,7 @@ for (const name of collections) {
         console.warn(`  [${locale}] skipping unsafe id: ${JSON.stringify(id)}`);
         continue;
       }
-      const bodyHash = typeof doc.bodyHash === "string" ? doc.bodyHash : "";
+      const bodyHash = fileBodyHash(doc.bodyHash);
       if (await diskBodyHash(`${localeDir}/${id}.json`) !== bodyHash) {
         changed.push(id);
       }
