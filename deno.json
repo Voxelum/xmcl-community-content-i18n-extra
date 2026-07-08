@@ -3,6 +3,7 @@
     "mongo": "https://deno.land/x/mongo@v0.31.1/mod.ts"
   },
   "tasks": {
+    "sync": "deno run --allow-net --allow-read --allow-write --allow-env scripts/sync_translations.ts",
     "dump": "deno run --allow-net --allow-read --allow-write --allow-env scripts/dump_translations.ts"
   }
 }

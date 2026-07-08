@@ -28,11 +28,19 @@ the translation is stale.
 
 ## Automated sync
 
-[`.github/workflows/sync.yml`](.github/workflows/sync.yml) dumps every
-`<locale>_translation` collection from MongoDB into this repo and commits the
-diff. It runs daily (03:00 UTC) and can be triggered manually from the Actions
-tab. The dump logic lives in
-[`scripts/dump_translations.ts`](scripts/dump_translations.ts).
+[`.github/workflows/sync.yml`](.github/workflows/sync.yml) incrementally syncs
+every `<locale>_translation` collection from MongoDB into this repo and commits
+the diff. It runs daily (03:00 UTC) and can be triggered manually from the
+Actions tab.
+
+The sync ([`scripts/sync_translations.ts`](scripts/sync_translations.ts)) scans
+only a lightweight `{ _id, bodyHash }` projection, compares each hash against
+what is already on disk, and downloads full content **only** for entries that
+are new or whose translation changed — so a run touches just the delta. Deleted
+documents are left in place. Use
+[`scripts/dump_translations.ts`](scripts/dump_translations.ts) for a full
+re-dump / reseed.
+
 
 ### Required secret
 
