@@ -1,0 +1,62 @@
+name: Sync translations
+
+# Dumps every `<locale>_translation` collection from MongoDB into this repo as
+# `<locale>/<id>.json` and commits any changes. Runs on a schedule and can be
+# triggered manually.
+#
+# Required repository secret:
+#   MONGO_CONNECION_STRING  MongoDB / Cosmos connection string
+# Optional repository secret:
+#   MONGODB_NAME            Database name (defaults to "coturn")
+
+on:
+  schedule:
+    # Daily at 03:00 UTC. Adjust the cadence as needed.
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+    inputs:
+      overwrite:
+        description: "Re-write every file (full mirror, catches updated translations)"
+        type: boolean
+        default: true
+
+# Never let two syncs run at once; let an in-flight one finish.
+concurrency:
+  group: sync-translations
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Dump translations
+        env:
+          MONGO_CONNECION_STRING: ${{ secrets.MONGO_CONNECION_STRING }}
+          MONGODB_NAME: ${{ secrets.MONGODB_NAME }}
+          TRANSLATIONS_OUT_DIR: "."
+          # A scheduled run always does a full mirror. Manual runs honour the
+          # `overwrite` input (default true).
+          TRANSLATIONS_OVERWRITE: ${{ github.event_name == 'schedule' && '1' || (inputs.overwrite && '1' || '0') }}
+        run: deno task dump
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No translation changes."
+            exit 0
+          fi
+          git add -A
+          git commit -m "chore: sync translations ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
