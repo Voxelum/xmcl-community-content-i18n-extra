@@ -3,7 +3,7 @@ name: Sync translations
 # Incrementally syncs every `<locale>_translation` collection from MongoDB into
 # this repo as `<locale>/<id>.json` and commits any changes. Only documents that
 # are new or whose `bodyHash` changed are fetched and written, so a run touches
-# just the delta. Runs on a schedule and can be triggered manually.
+# just the delta. Runs on a schedule (weekly) and can be triggered manually.
 #
 # Required repository secret:
 #   MONGO_CONNECION_STRING  MongoDB / Cosmos connection string
@@ -12,8 +12,9 @@ name: Sync translations
 
 on:
   schedule:
-    # Daily at 03:00 UTC. Adjust the cadence as needed.
-    - cron: "0 3 * * *"
+    # Weekly on Monday at 03:00 UTC. The scan reads every document, which costs
+    # Azure Cosmos RUs, so keep the cadence modest. Adjust as needed.
+    - cron: "0 3 * * 1"
   workflow_dispatch:
 
 # Never let two syncs run at once; let an in-flight one finish.

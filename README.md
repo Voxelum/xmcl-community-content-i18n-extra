@@ -30,7 +30,7 @@ the translation is stale.
 
 [`.github/workflows/sync.yml`](.github/workflows/sync.yml) incrementally syncs
 every `<locale>_translation` collection from MongoDB into this repo and commits
-the diff. It runs daily (03:00 UTC) and can be triggered manually from the
+the diff. It runs weekly (Monday 03:00 UTC) and can be triggered manually from the
 Actions tab.
 
 The sync ([`scripts/sync_translations.ts`](scripts/sync_translations.ts)) scans
