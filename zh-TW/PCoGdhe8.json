@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2d8d43bad184f1df",
+  "content": "我製作了背包，其功能如下：\n\n- 可在工作台中染色。\n- 可使用鐵砧輕鬆更名。\n- 可裝備在胸甲槽位。\n- 可升級以增加容量（9格 -> 18格 -> 26格）。\n\n## 示範影片  \n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Z705iisAg6k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe> \n\n## 如何使用背包\n* 要存儲或取出物品，只需將背包丟在地上。它會變成一個桶，讓你可以管理物品。點擊「退出」按鈕槽位即可將其恢復為背包物品。\n\n## 合成配方\n\n- **製作小背包：**  \n  （4個羊毛、4張皮革和1個桶）  \n  ![](https://cdn.modrinth.com/data/PCoGdhe8/images/f87f9d598315743d6f3909cf6cbdc4af784c0f8a.png)\n\n- **製作背包升級器：**  \n  ![](https://cdn.modrinth.com/data/PCoGdhe8/images/222392eca73e388bc719f8c871dbbeab15e48d5e.png)\n\n- **升級至26格背包：**  \n  將升級器放入你的背包方塊中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

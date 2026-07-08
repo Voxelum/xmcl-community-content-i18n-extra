@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dr9kHBFNTqo=",
-  "content": "# VisualKeys\nУтилитарный мод для Fabric. Добавляет экранную клавиатуру с отображением всех сочетаний клавиш из Vanilla и MaliLib.\n\nПомогает увидеть, какие клавиши не имеют привязки.\n\nКлавиатуру можно отобразить в настройках управления или прямо в HUD игры. HUD-клавиатуру можно настраивать и отключать.\n\nМод также добавляет функцию сворачивания категорий привязок клавиш.\n\n![Превью клавиатуры](https://raw.githubusercontent.com/DimasKama/VisualKeys/master/preview/screen.png)\n![Превью клавиатуры](https://raw.githubusercontent.com/DimasKama/VisualKeys/master/preview/keyboard.png)",
+  "bodyHash": "68f6ec08af7e460a",
+  "content": "# VisualKeys\nУтилитарный мод для Fabric. Добавляет экранную клавиатуру с отображением всех привязок клавиш из Vanilla и MaliLib.\n\nПомогает увидеть, какие клавиши не имеют назначенных действий.\n\nКлавиатура может отображаться в настройках управления или прямо в игровом интерфейсе (HUD). Клавиатуру в HUD можно настроить и отключить.\n\nМод также добавляет функцию сворачивания категорий привязок клавиш.\n\n![Предпросмотр клавиатуры](https://raw.githubusercontent.com/DimasKama/VisualKeys/master/preview/screen.png)\n![Предпросмотр клавиатуры](https://raw.githubusercontent.com/DimasKama/VisualKeys/master/preview/keyboard.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

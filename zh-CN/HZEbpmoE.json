@@ -1,6 +1,6 @@
 {
-  "bodyHash": "kv/jA67cyiM=",
-  "content": "# 本项目是基于[EnchantmentLevelBreakthrough](https://github.com/yiyuyan/EnchantmentLevelBreakthrough)分支的修改版本\n\n## 在原版基础上进行了功能修改和新增\n\n本模组可以使原版附魔等级上限突破255级，达到2147483647级\n\n但附魔台上的物品合成等级暂未修改",
+  "bodyHash": "f4eb3c20fd18a4f2",
+  "content": "\n\n# 本项目是 [EnchantmentLevelBreakthrough](https://github.com/yiyuyan/EnchantmentLevelBreakthrough) 分支的修改版本。\n\n## 在原版基础上添加了修改内容与新功能。\n\n本模组可突破原版附魔等级上限（255），最高可达 2147483647。\n\n然而，附魔台上物品合成所需的等级并未修改。\n\n### 在游戏目录中找到“config”文件夹，并定位到与本模组对应的配置文件。通常 Forge/NeoForge 为 TOML 格式，Fabric 为 JSON 格式。打开后即可进行配置。\n\n在游戏中，你可以使用 /cenchant 命令为所有物品附魔。\n或者使用原版的 /enchant 命令为特定物品附魔。\n\n最终附魔等级可突破原有的 255 限制。\n支持的最大值为 2147483647。\n若超过此最大值，最终返回的附魔等级将重置为 1 级。\n\n警告：\n\n本模组可能会破坏游戏平衡性，请谨慎使用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

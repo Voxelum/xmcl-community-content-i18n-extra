@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4be9488c52af9814",
+  "content": "**CTA (Create Tank Additions)** 是一款适用于 Minecraft 1.20.1 的 Forge 模组，添加了导弹、炸弹和战术武器，并整合了 Create Big Cannons (CBC) 和 Valkyrien Skies (VS)。\n\n- **主要特性：**\n  - VS 舰船集成：导弹会跟踪移动中的舰船位置/旋转，确保导弹始终随舰船一起移动\n  - CBC 引信系统：右键点击 CBC 引信即可为导弹安装引信\n  - 导弹飞行期间的区块加载\n  - 扳手旋转：支持使用 Create 模组的扳手旋转导弹和瞄准镜\n  - 发射时继承舰船速度：导弹发射时获得舰船的初速度\n  - CC by wire：允许你使用无线连接器将 CC: Tweaked 计算机无线连接到外围设备\n\n### 导弹（9 种类型 × 3 种弹头 = 27 个物品）\n每种导弹都有高爆（HE）、破甲（HEAT）和杀伤爆破（HEFRAG）三种变体：\n- 3M-54 口径（巡航导弹）\n- AGM-88 HARM（反辐射导弹）\n- AIM-9 响尾蛇（空空导弹）\n- APKWS（制导火箭）\n- 地狱火（反坦克导弹）\n- Hydra-70（非制导火箭）\n- 喀秋莎（非制导火箭）\n- R-77（主动雷达制导）\n- TOW-2（线导）\n\n### 炸弹（6 种类型 × 3 种弹头 = 18 个物品）\n每种炸弹都有高爆（HE）、破甲（HEAT）和杀伤爆破（HEFRAG）三种变体：\n- CBU-87（集束炸弹）\n- GBU-12（激光制导炸弹）\n- GBU-24（重型激光制导炸弹）\n- M64（通用炸弹）- 仅高爆\n- Rockeye（集束炸弹）\n- Snakeye（减速炸弹）\n\n## 依赖项\n- **Forge**\n- **Create**\n- **Valkyrien Skies**\n- Thermodynamica",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

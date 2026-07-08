@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c8f0e974ed4f455",
+  "content": "# 虚空无结构\n\n此数据包的主要功能（由 [Lithostitched](https://modrinth.com/mod/lithostitched) 提供支持）是防止常见的原版结构在“浮空岛”风格的世界预设（如 [Aetherial Islands](https://modrinth.com/datapack/aetherial-islands)）的虚空中生成。2.0.0 模组版本仅作为该数据包的包装器；如果您想进行编辑，可以修改数据包本身，或将其代码作为示例，展示如何使用 Lithostitched 阻止结构在虚空中生成。此外，地牢中的矿道不受此影响。\n\n## 旧版 1.0.0 模组去哪了？\n\n“No Void Structures”是我早期的 Java 模组开发项目之一，因此坦率地说，它做得相当糟糕（缺乏灵活性、不兼容、破坏了超平坦世界的结构等）。但这没关系！学习就是如此。现在借助 Lithostitched，其他人将更容易对其进行编辑和修改。\n\n您可以在 [GitHub 页面](https://github.com/klinbee/No-Void-Structures) 查看已弃用模组的旧描述以及所有旧源代码。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

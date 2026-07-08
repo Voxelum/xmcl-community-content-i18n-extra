@@ -1,6 +1,6 @@
 {
-  "bodyHash": "scII3dUppuQ=",
-  "content": "— Это библиотечный мод, который позволяет использовать частицы Effekseer (.efkefc) в Minecraft.\n— По умолчанию он заменит стандартный эффект молнии на эффект от Effekseer.\n![Молния от Effekseer](https://cdn.modrinth.com/data/cached_images/c28bf6797ac86c3998bc6e80548df26cb9e05654.jpeg)\n— Нет необходимости переименовывать ресурсы, используемые эффектами (например, текстуры); этот мод убирает проверку имени в путях к ресурсам.\n— Загружает эффекты из пакетов ресурсов; посмотрите исходный код, чтобы узнать, как разместить свои файлы и заставить всё работать :)\n\nКонтакт:<br>\n[![Присоединиться к Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/pkpNN77yfs)](https://discord.gg/pkpNN77yfs)",
+  "bodyHash": "8e487b05b1542211",
+  "content": "\n\n- Это мод-библиотека, позволяющий использовать частицы Effekseer (.efkefc) в Minecraft.\n- По умолчанию он заменяет эффект молнии из ванильного Minecraft на эффект Effekseer.\n![Effekseer Lightning](https://cdn.modrinth.com/data/cached_images/c28bf6797ac86c3998bc6e80548df26cb9e05654.jpeg)\n- Нет необходимости переименовывать ресурсы, используемые эффектами (например, текстуры): этот мод отключает проверку имён в путях расположения ресурсов.\n- Эффекты загружаются из пакетов ресурсов. Пример того, как расположить ваши файлы для работы мода, см. в исходном коде :)\n\nКонтакты:<br>\n[![Join Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/pkpNN77yfs)](https://discord.gg/pkpNN77yfs)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "nOi/g/Tbb78=",
-  "content": "# Исправлено в Flashback v0.3.0 1.21.9 и 1.21.10\n\nFlashback использует режим зрителя для отрисовки видео, из-за чего при прохождении камеры через блоки-контейнеры появляются контуры блоков. Этот мод устраняет эту проблему.\n![:D](https://cdn.modrinth.com/data/cached_images/ee15987da8c3d69600fc9e99b4ce6edfdc961b63_0.webp)",
+  "bodyHash": "7b4a5d8eab5be471",
+  "content": "# Исправлено во Flashback v0.3.0 для версий 1.21.9 и 1.21.10\n\nFlashback использует режим наблюдателя для записи видео, из-за чего при прохождении камеры через блоки-контейнеры появляются контуры блоков. Этот мод исправляет данную проблему.\n![:D](https://cdn.modrinth.com/data/cached_images/ee15987da8c3d69600fc9e99b4ce6edfdc961b63_0.webp)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

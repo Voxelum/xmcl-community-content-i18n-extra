@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb741a8f735d5417",
+  "content": "### 摘要\n\n[Tetra](https://modrinth.com/mod/tetra) 模组的附加组件，提供多种木材变体的工作台（当然也包括模组添加的木材）。\n你值得拥有一个与环境完美融合的美观工作台。\n\n### 立即解答您的疑问：\n\n\\> *如何在游戏中获取这些工作台？*\n\n手持 Tetra 锤子，右键点击桦木合成台即可获得桦木工作台。右键点击枫木合成台即可获得枫木工作台。\n\n\\> *……所以，需要更多依赖项吗？*\n\n是的。我们需要变体合成台才能将其转化为变体工作台，而本模组并不添加这些合成台。\n本模组旨在与 [Workshop for handsome adventurer](https://modrinth.com/mod/workshop-for-handsome-adventurer) 配合使用。Workshop 添加了（客观上非常出色的）我们所需的合成台。\n更重要的是，Workshop 拥有一套系统，可以创建您模组包中任何木材类型的方块（* 几乎涵盖所有类型），而本模组依赖于该套系统。\n\n\\> *支持哪些生物群系模组？*\n\n支持。\n\n\\> *那些仅添加一种木材类型的模组呢？具体是哪些？*\n\n支持 *（如果是完整的木材类型套装（包括台阶和去皮原木），则可能支持）。\n\n\\> *那么，如果我不添加您让我安装的这个 [Workshop](https://modrinth.com/mod/workshop-for-handsome-adventurer) 模组，它能工作吗？*\n\n您到底怎么了？\n好吧，是的……但仅限于原版木材，而且即使对于原版木材，您也需要某些模组来添加合成台。（变体合成台、更多的合成台……）。那样是可以工作的。\n但是，Workshop 会自动为您模组包中的所有（*）木材类型添加两种合成台（更高级的合成台）以及 Tetra 合成台。\n\n请使用 [Discord](https://discord.gg/2VayYKktvx) 反馈问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

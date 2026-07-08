@@ -1,6 +1,6 @@
 {
-  "bodyHash": "GYS05yKfCiw=",
-  "content": "<p>你讨厌循声守卫吗？反正我很讨厌，所以我做了这个模组。</p>\n<p>守卫杀手是一个可附魔在剑上的魔咒，最高等级为V级。</p>\n<p>每级魔咒对循声守卫造成的伤害提升50点。</p>\n<p>&nbsp;</p>\n<p>1.21+版本特性：</p>\n<ul>\n<li>只能通过附魔台获取</li>\n<li>可用书与回响碎片合成</li>\n<li>若安装Enchantment Descriptions模组，会显示游戏内魔咒描述</li>\n<li>如需通过村民交易获取，可通过数据包实现：将\"wardenslayer:warden_slayer\"添加到data/minecraft/tags/enchantment/tradeable.json文件中</li>\n</ul>",
+  "bodyHash": "52072ffb9e0cfd78",
+  "content": "\n\n<p>你讨厌监守者吗？因为我也讨厌，所以我制作了这款模组。</p>\n<p>“监守者杀手”是一项可附魔在剑上的附魔，最高等级为 V。</p>\n<p>它会使其对监守者造成的伤害增加 50 × 附魔等级。</p>\n<p>&nbsp;</p>\n<p>1.21+ 版本特性：</p>\n<ul>\n<li>仅可通过附魔台获取。</li>\n<li>可使用书本和若干回音碎片合成。</li>\n<li>若搭配《附魔描述》（Enchantment Descriptions）模组使用，将显示该附魔的游戏内说明。</li>\n<li>若希望该附魔也可通过村民交易获取，可通过数据包进行设置：在 data -&gt; minecraft&nbsp;-&gt; tags&nbsp;-&gt; enchantment&nbsp;-&gt; tradeable.json 文件中添加 \"wardenslayer:warden_slayer\"。</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

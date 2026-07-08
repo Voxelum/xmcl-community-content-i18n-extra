@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de97ba11ee439b85",
+  "content": "Этот пак делает вас такими же удачливыми, как Dream!\n\n[В НАСТОЯЩЕЕ ВРЕМЯ В БЕТE-ВЕРСИИ]\n\n<details>\n<summary>Что именно он делает?</summary>\n\nЭтот датапак изменяет таблицу лута для Бартера с пиглина, чтобы всегда выпадать эндер-жемчуг.\n\nПолная JSON-конфигурация:\n\n```\n{\n  \"pools\": [\n    {\n      \"rolls\": 1,\n      \"entries\": [\n        {\n          \"type\": \"minecraft:item\",\n          \"name\": \"minecraft:ender_pearl\",\n          \"weight\": 100,\n          \"quality\": 2,\n          \"conditions\": []\n        }\n      ]\n    }\n  ],\n  \"functions\": []\n}\n```\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

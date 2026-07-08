@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e2a914932d5f733f",
+  "content": "<img src=\"https://cdn.modrinth.com/data/cached_images/7ede1b28c513e01e387b40983308a9ecb8813558.png\" alt=\"Logo\" width=\"128\"/>\n\n\n# 原理电气化图纸\n添加了加农炮接口——一个将《机械动力》的图纸加农炮连接到应用能源2网络及其自动合成系统的方块。\n\n \n\n## 功能\n- 自动从应用能源2存储中提取所需物品\n- 在需要时可自动合成图纸物品\n- 自动补充火药\n- 支持 Neoforge 1.21.1 和 Forge 1.20.1\n- 兼容 Create 0.5.1 和 Create 6\n \n## 使用方法\n将加农炮接口放置在图纸加农炮旁边，并将其连接到应用能源2网络。图纸加农炮一次只能检测到一个加农炮接口。\n\n图纸加农炮在请求应用能源2网络中的物品之前，始终优先使用其他容器（如箱子、桶等）。\n\n \n\n## 致谢\n[Create](https://modrinth.com/mod/create)\n\n[Applied Energistics 2](https://modrinth.com/mod/ae2)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

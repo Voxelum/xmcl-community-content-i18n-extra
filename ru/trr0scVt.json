@@ -1,6 +1,6 @@
 {
-  "bodyHash": "rxV7ll+OA7M=",
-  "content": "# Обновлённая плавная прокрутка\n\nЭтот мод изменяет полосу прокрутки на любом экране, где она используется, чтобы сделать её *плавной*.\n\nОн предназначен в качестве замены фантастическому моду [Smooth Scrolling Everywhere](https://github.com/shedaniel/SmoothScrollingEverywhere), поскольку последний больше не поддерживается. Мой мод не использует никакого кода из оригинального проекта.\n\nЕсли вы обнаружили баг или несовместимость с другим модом, пожалуйста, сообщите мне об этом в [проблемах на GitHub](https://github.com/JustAlittleWolf/SmoothScrollingRefurbished/issues).\n\n<img src=\"https://i.imgur.com/WeahbPk.gif\" alt=\"Демонстрационный GIF\" width=\"500px\">\n",
+  "bodyHash": "96b45414a58a4581",
+  "content": "\n\n# Плавная прокрутка (обновлённая)\n\nЭтот мод делает полосу прокрутки на всех экранах *плавной*.\n\nОн создан как замена замечательному моду [Smooth Scrolling Everywhere](https://github.com/shedaniel/SmoothScrollingEverywhere), так как его поддержка больше не ведётся. Мой мод не использует ни единой строки кода из оригинального проекта.\n\nЕсли вы обнаружите ошибку или несовместимость с другим модом, пожалуйста, сообщите мне через [issues на GitHub](https://github.com/JustAlittleWolf/SmoothScrollingRefurbished/issues).\n\n<img src=\"https://i.imgur.com/WeahbPk.gif\" alt=\"Демонстрационное gif-изображение\" width=\"500px\">",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

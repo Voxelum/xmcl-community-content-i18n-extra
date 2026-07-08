@@ -1,6 +1,6 @@
 {
-  "bodyHash": "R1o4mXzqODc=",
-  "content": "# uku 的裝備 HUD\n\nMinecraft 模組，在畫面上新增一個顯示目前穿戴裝備的小工具。\n\n這個模組添加了一個簡約且貼近原版風格的小工具，能顯示你的裝備物品，並在耐久度過低時發出警示。不同於其他需要玩家盯著螢幕上各處數字的模組，這個模組讓你能以原版風格的簡約小工具查看裝備，無需額外文字或數字。小工具的位置及其他參數可在設定檔中調整。\n\n致謝：\n- [原始模組由 BerdinskiyBear 製作](https://www.curseforge.com/minecraft/mc-mods/berdinskiybears-armor-hud)，uku 進行分支改進。\n- 裝備損壞音效取自 [Giselbaer 的 Durability Viewer](https://modrinth.com/mod/durabilityviewer)",
+  "bodyHash": "ecbf21f1bfb1d20a",
+  "content": "\n\n# uku 的護甲 HUD\n\n一款 Minecraft 模組，提供顯示當前護甲裝備的 HUD 小工具。\n\n此模組加入極簡風格、類似原版的小工具來顯示護甲狀態，並在耐久度過低時發出警告。與其他要求玩家盯著螢幕上滿處數字看的模組不同，此模組讓你能以極簡的原版風格小工具直觀查看護甲，無需額外的文字或數字。你可以在設定檔中調整小工具的位置及其他參數。\n\n鳴謝：\n- [BerdinskiyBear 開發的原版模組](https://www.curseforge.com/minecraft/mc-mods/berdinskiybears-armor-hud)，由 uku 改編。\n- 護甲破損音效來自 [Giselbaer 的耐久度檢視器](https://modrinth.com/mod/durabilityviewer)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

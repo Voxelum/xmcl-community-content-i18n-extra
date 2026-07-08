@@ -1,6 +1,6 @@
 {
-  "bodyHash": "UhWkUwH7HmI=",
-  "content": "Теперь зелья «Спелункер» и рубиновая броня из мода [Mythic Upgrades](https://modrinth.com/mod/mythic-upgrades) также могут обнаруживать руды из мода [Immersive Ores](https://modrinth.com/mod/immersive-ores).\n\nЭтот мод не ограничивается только этими модами.\nЛюбой мод, который имеет отношение к рудам и работает с другими рудами, кроме тех, что из мода [Immersive Ores](https://modrinth.com/mod/immersive-ores), и не влиял на них — теперь будет работать.\n\nПРИМЕЧАНИЕ: Данный пакет данных может определять только блоки руды, а не сырые блоки.",
+  "bodyHash": "3e19c8c794209194",
+  "content": "Теперь зелья пещерника и рубиновая броня из [Mythic Upgrades](https://modrinth.com/mod/mythic-upgrades) также могут обнаруживать руды из [Immersive Ores](https://modrinth.com/mod/immersive-ores).\n\nЭтот мод не ограничивается только этими модами.\nЛюбой мод, связанный с рудами, который работает с другими рудами, но не учитывает руды из [Immersive Ores](https://modrinth.com/mod/immersive-ores) и не влиял на них — теперь будет работать.\n\nПРИМЕЧАНИЕ: Датпак может обнаруживать только блоки руд, а не сырые блоки.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

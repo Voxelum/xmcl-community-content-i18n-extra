@@ -1,6 +1,6 @@
 {
-  "bodyHash": "vAA7LQxH+uk=",
-  "content": "# 什麼是 Sodium Extra？\nSodium Extra 旨在將 OptiFine 中大部分視覺增強選項移植至 Sodium；此外還提供如視覺錯誤修正及 Sodium 尚未支援的其他效能選項等功能。\n\n# 功能特色\n以下是此模組的基本功能介紹。\n\n- 動畫設定（控制火焰、水、熔岩、方塊動畫等）\n- 粒子設定（控制所有類型的粒子，包含其他模組產生的粒子）\n- 細節設定（控制天空、星星、太陽/月亮、天氣等）\n- 渲染設定（控制迷霧、靜態實體及其他各類渲染效果）\n- 額外設定（顯示 FPS、座標、通知提示、雲層等）\n\n請參閱[此處](https://github.com/FlashyReese/sodium-extra-fabric/wiki/Features)查看 Sodium Extra 所包含功能的更詳細說明。\n\n# 模組包使用許可\n這是一個免費且開源的專案；只要您提供出處，即可將它包含在您的模組包中！\n\n# 常見問題\n- **使用此模組需要先安裝 Sodium 嗎？** 您需要下載 Sodium 才能使用此模組。\n- **我可以在其他地方重新託管/上傳此模組嗎？** 可以，只要您提供模組原始碼。最好先通知我並獲得許可。\n- **您會在此模組中加入 x 功能嗎？** 不會，除非我明確表示會這麼做。\n- **我還有更多問題！** 加入我們的 [Discord](https://flashyreese.me/discord)！\n\n# 支持專案\n[![在 Ko-fi 支持我](https://i.imgur.com/FSNi7zk.png)](https://ko-fi.com/flashyreese)",
+  "bodyHash": "3f581a4101cce56f",
+  "content": "\n\n# Sodium Extra 是什麼？\nSodium Extra 致力於將 OptiFine 絕大多數的視覺特效選項移植至 Sodium；同時提供 Sodium 尚不支援的部分功能，例如畫面錯誤修復與其他效能優化選項。\n\n# 功能特色\n以下是本模組的主要功能簡介：\n\n- 動畫設定（控制火焰、水流、熔岩、方塊動畫等...）\n- 粒子設定（控制所有類型的粒子效果，包含來自其他模組的粒子）\n- 細節設定（控制天空、星辰、日月、天氣等更多細節）\n- 渲染設定（控制霧氣、靜態實體及其他雜項渲染效果）\n- 額外設定（顯示 FPS、座標、Toast 通知、雲層等更多內容）\n\n欲查看 Sodium Extra 包含功能的詳細說明，請見[這裡](https://github.com/FlashyReese/sodium-extra-fabric/wiki/Features)。\n\n# 整合包使用授權\n本專案為免費開源計畫；只要註明出處，您即可將其納入您的模組整合包中！\n\n# 常見問題\n- **本模組運作是否必須安裝 Sodium？** 是的，您需要先下載並安裝 Sodium 才能使用此模組。\n- **我可以將此模組重新託管或上傳到其他平台嗎？** 可以，但請務必提供模組的原始碼。建議您事先透過訊息或留言徵求我的同意。\n- **您會將某項功能加入此模組嗎？** 不會，除非我明確表示會添加。\n- **我還有更多問題！** 歡迎加入我們的 [Discord](https://flashyreese.me/discord)！\n\n# 支持本專案\n[![在 Ko-fi 支持我](https://i.imgur.com/FSNi7zk.png)](https://ko-fi.com/flashyreese)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

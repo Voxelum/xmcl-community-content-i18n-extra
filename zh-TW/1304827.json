@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f2d91c120f17fa4e",
+  "content": "\n\n<blockquote>\n  <p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fdpoints\" target=\"_blank\" rel=\"nofollow\"><img src=\"\" alt=\"Modrinth\"></a></p>\n</blockquote>\n<h1>dPoints</h1>\n<p>dPoints 是一款 Minecraft Forge 模組，用於以伺服器為基準的方式追蹤和管理玩家點數餘額，具備客戶端快取功能，並可選支援與 FTBQuests 整合。</p>\n<h2>功能特色</h2>\n<ul>\n<li>支援多種貨幣</li>\n<li>指令：<code>/dpoints add</code>、<code>/dpoints remove</code>、<code>/dpoints set</code>、<code>/dpoints get</code></li>\n<li>模組開發者 API：<code>PointsApi</code></li>\n<li>FTBQuests 整合：提供 <code>PointTask</code> 與 <code>PointReward</code></li>\n<li>非常適合模組包開發者實作商店解鎖系統、自訂經濟系統等類似功能</li>\n</ul>\n<h2>使用方法</h2>\n<ul>\n<li>使用遊戲內指令來管理點數。</li>\n<li>開發者可在程式碼中呼叫 <code>PointsApi</code> 的方法。</li>\n</ul>\n<h2>設定</h2>\n<p>無需額外設定。</p>\n<h2>授權條款</h2>\n<p>本專案採用 GNU Lesser General Public License v3.0 授權。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

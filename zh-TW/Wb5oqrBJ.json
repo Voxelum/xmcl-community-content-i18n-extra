@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Sw68QmWdJmA=",
-  "content": "<img src=\"https://cdn.modrinth.com/data/Wb5oqrBJ/images/fd0ce2a3eeff2bfb68e0cac9bcd5f116202e2427.png\" width=100%> <br>\n這個客戶端模組會在聊天訊息旁顯示玩家頭像，如上方截圖所示。\n它能讓你更容易區分聊天中的不同玩家，而且看起來**超級**美觀。\n\n根據 Fabric Discord 上 Hugman 的要求而製作。\n\n需要安裝 [Cloth Config](https://modrinth.com/mod/cloth-config)（Fabric 版本另需 [Mod Menu](https://modrinth.com/mod/modmenu)）才能存取設定，但即使沒有安裝，模組仍會以預設設定正常運作。\n\n**注意**：預設設定可能在某些伺服器上無法正常運作。在這種情況下，請嘗試使用「僅啟發式」發送者偵測模式。請注意，這可能會導致部分訊息的聊天頭像顯示錯誤。\n\n**注意**：與較新版本的 OptiFine（~1.20.1）不相容，請改用 [Sodium 及相關模組](https://fabricmc.net/wiki/community:optifine_alternatives)。",
+  "bodyHash": "c08b182828849961",
+  "content": "\n\n<img src=\"https://cdn.modrinth.com/data/Wb5oqrBJ/images/fd0ce2a3eeff2bfb68e0cac9bcd5f116202e2427.png\" width=100%> <br>\n這個僅限客戶端的模組會在聊天訊息旁加入玩家頭像，如上方截圖所示。\n這讓你在聊天中辨識不同的人物變得更加輕鬆，而且看起來 *非常* 好看。\n\n本模組是根據 Hugman 在 Fabric Discord 上的請求而開發的。\n\n需要安裝 [Cloth Config](https://modrinth.com/mod/cloth-config)（Fabric 版還需搭配 [Mod Menu](https://modrinth.com/mod/modmenu)）才能開啟設定介面，但即使未安裝這些模組，本模組也能使用預設設定正常運作。\n \n**注意**：預設設定在某些伺服器上可能無法正常運作。若遇此情況，請嘗試使用「僅限啟發式（Heuristic only）」的發送者偵測模式。請注意，此模式可能會導致部分訊息顯示錯誤的玩家頭像。\n\n**注意**：不與較新版本的 OptiFine（約 1.20.1）相容，請改用 [Sodium and co](https://fabricmc.net/wiki/community:optifine_alternatives)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

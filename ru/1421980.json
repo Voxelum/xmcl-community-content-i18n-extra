@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db1f8f5ec224abf3",
+  "content": "<p>Измените внешний вид выпавших предметов и блоков. Требует Fabric API и YACL.</p>\n<p>Опции:</p>\n<ul>\n<li>Предметы<ul>\n<li>Выпавшие предметы: Предметы выглядят так, будто лежат на земле <img src=\"https://raw.githubusercontent.com/SoundsoftheSun/Item-Drops/refs/heads/master/img/dropped_items.png\" alt=\"\"></li>\n<li>Предметы-биллборды: Предметы всегда повернуты к игроку</li></ul></li>\n<li>Блоки<ul>\n<li>Выпавшие блоки: Блоки выглядят так, будто лежат на земле <img src=\"https://raw.githubusercontent.com/SoundsoftheSun/Item-Drops/refs/heads/master/img/dropped_blocks.png\" alt=\"\"></li></ul></li>\n<li>Настройки <img src=\"https://raw.githubusercontent.com/SoundsoftheSun/Item-Drops/refs/heads/master/img/config.png\" alt=\"\"></li>\n</ul>\n<p>Демо:</p>\n<p><a href=\"https://www.youtube.com/watch?v=1JrG3YloqSo\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=1JrG3YloqSo</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

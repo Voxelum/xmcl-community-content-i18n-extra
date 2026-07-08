@@ -1,6 +1,6 @@
 {
-  "bodyHash": "5OqF7VJExr0=",
-  "content": "這個模組改善了地圖在地獄及其他洞穴維度中的顯示方式，只顯示特定高度以下的方塊，這個高度可以是製作地圖時的高度，也可以是設定檔中指定的數值。\n\n![screenshot](https://cdn.modrinth.com/data/fdtm99de/images/38ecc01708573652a2ed861b55ece85698aa303d.png)",
+  "bodyHash": "c366c8dff9f7123d",
+  "content": "\n\n此模組透過僅顯示低於特定高度的方塊，來改善地獄與其他洞穴維度中地圖的運作方式。該高度可設為建立地圖時的高度，或於設定檔中指定。\n\n![screenshot](https://cdn.modrinth.com/data/fdtm99de/images/38ecc01708573652a2ed861b55ece85698aa303d.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "al1IsN3b74g=",
-  "content": "「Iris」的非官方分支，專為與FML相容而製作\n\n功能特色\n\n<details>\n  <summary>功能特色</summary>\n\n- 效能提升。搭配 Rubidium 等最佳化模組時，Oculus 應能充分利用您的顯示卡。\n- 模組相容性。Oculus 應盡力與模組環境相容。\n- 向下相容性。所有現有的 ShadersMod / OptiFine 光影包應可直接在 Iris 上執行，無需任何修改。\n- 組織良好的程式碼庫。我希望使用 Iris 程式碼的整體體驗能令人愉悅。\n</details>\n\n \n請勿將 Oculus 的問題回報到官方 Iris 的 GitHub 頁面。",
+  "bodyHash": "c3bfe9bb7f4c38f0",
+  "content": "\n\n「Iris」的非官方分支，專為與 FML 相容而製作\n\n功能特色\n\n<details>\n  <summary>功能特色</summary>\n\n- 效能。當搭配 Rubidium 等優化模組時，Oculus 應能充分發揮您顯示卡的效能。\n- 模組相容性。  Oculus 會盡力確保與模組化環境的相容性。\n- 向下相容。  所有現有的 ShadersMod / OptiFine 陰影包在 Iris 上應可直接使用，無需任何修改。\n- 結構清晰的程式碼庫。  我希望開發者在使用 Iris 原始碼時能有愉快的體驗。\n</details>\n\n 請不要將 Oculus 的問題回報至官方的 Iris GitHub。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

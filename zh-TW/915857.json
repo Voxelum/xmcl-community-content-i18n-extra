@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dRWzvquxIvE=",
-  "content": "<h2>Tweakerge</h2><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/tweakeroo\" rel=\"nofollow\">Tweakeroo</a>的非官方Forge移植版。這是一個客戶端模組，為遊戲添加了一系列可設定的客戶端輔助功能。</p><h3>關於伺服器端：</h3><ul>\n<li>你需要安裝<a href=\"https://github.com/ThinkingStudios/Servux-Forge\" rel=\"nofollow\">Servux-Forge</a>。</li>\n<li>我沒有將Carpet移植到Forge，這表示某些功能可能與Fabric上的原版模組功能不完全一致。</li>\n</ul>",
+  "bodyHash": "26c36ca20aad83ca",
+  "content": "<h2>Tweakerge</h2>\n<p>《Tweakeroo》的非官方 Forge 移植版。这是一个客户端模组，为游戏添加了一系列杂项、可配置的客户端调整功能。</p>\n<h3>关于服务端：</h3>\n<ul>\n<li>你需要安装 <a href=\"https://github.com/ThinkingStudios/Servux-Forge\" rel=\"nofollow\">Servux-Forge</a>。</li>\n<li>我没有将 Carpet 移植到 Forge，这意味着在 Fabric 原版模组功能的基础上，可能会有一些功能无法完全匹配。</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

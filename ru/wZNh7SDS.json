@@ -1,6 +1,6 @@
 {
-  "bodyHash": "C75DbV8yUR4=",
-  "content": "## SmoothHud\nпростой мод для Fabric, который анимирует выделение выбранного слота горячей шкалы при переключении слотов.\n\n### предварительный просмотр:\n![анимированное переключение слотов горячей шкалы](https://cdn.modrinth.com/data/wZNh7SDS/images/9005ad505a83fb459fa11532c1f23cd7bf0a31c8.gif)\n\n[→ больше в галерее](https://modrinth.com/mod/smooth-hud/gallery)\n\n<details>\n  <summary>Уведомление о beta API modmenu</summary>\nновая сборка для Minecraft 26.2 в настоящее время использует beta API modmenu (20.0.0-beta.3).\nЭто не должно никак повлиять на пользователей. Когда выйдут стабильные версии, я перейду на них.\n</details>",
+  "bodyHash": "4a70964dab81398d",
+  "content": "## SmoothHud\nПростой мод для Fabric, который анимирует подсветку выбранного слота в горячей панели при переключении между слотами.\n\n### Предварительный просмотр:\n![анимированное переключение слотов горячей панели](https://cdn.modrinth.com/data/wZNh7SDS/images/9005ad505a83fb459fa11532c1f23cd7bf0a31c8.gif)\n\n[→ Подробнее в галерее](https://modrinth.com/mod/smooth-hud/gallery)\n\n<details>\n  <summary>Уведомление о бета-версии API Mod Menu</summary>\nНовая сборка для Minecraft 26.2 в настоящее время использует бета-версию API Mod Menu (20.0.0-beta.3).\nЭто не должно повлиять на пользователей. Когда выйдут стабильные версии, я перейду на них.\n</details>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

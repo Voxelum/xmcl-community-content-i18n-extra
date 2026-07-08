@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8cde3cfdfb9b2c0f",
+  "content": "<p>這是一個小型的着色器，讓夜間版的《我的世界》更具恐怖氛圍。</p>\n<ol>\n<li>在夜晚，如果你沒有靠近光源，它會增加濃重的黑暗霧氣；</li>\n<li>它會隨機*出現紅色的眼睛，並且當光照等級為 0 時，着色器會讓該區域完全變黑，而不是原版那種即使調高亮度仍能大致看清一切的黑暗效果。</li>\n<li>在夜間，燈光可能會短暫熄滅。</li>\n</ol>\n<p>這是我的第一個着色器，我只用了兩天時間製作，所以別抱太大期望！</p>\n<p>*（幾乎是隨機的，因為在着色器中沒有真正完美實現完全隨機的方法）</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fshader%252foptimism-shader\" rel=\"nofollow\">Modrinth</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RRHgiyyi9ac=",
-  "content": "![нет колеса?](https://raw.githubusercontent.com/uku3lig/nowheel/master/docs/banner.png)\n\n## NoWheel\n\nNoWheel — это очень простой мод для Minecraft, который отключает колесо прокрутки для переключения слотов в горячей шкале.\n\nЕго можно включать и выключать с помощью сочетания клавиш или в конфигурации, к которой можно получить доступ на экране настроек или через [ModMenu](https://modrinth.com/mod/modmenu).\n\n## Зависимости\n\n- [ukulib](https://modrinth.com/mod/ukulib)",
+  "bodyHash": "9b97e51fff5ff29f",
+  "content": "![нет колеса?](https://raw.githubusercontent.com/uku3lig/nowheel/master/docs/banner.png)\n\n## NoWheel\n\nNoWheel — это очень простой мод для Minecraft, который отключает прокрутку колесика мыши для переключения слотов в хотбаре.\n\nЕго можно включить или выключить с помощью привязки клавиш или через конфигурацию, к которой можно получить доступ на экране настроек или через [ModMenu](https://modrinth.com/mod/modmenu).\n\n## Зависимости\n\n- [ukulib](https://modrinth.com/mod/ukulib)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

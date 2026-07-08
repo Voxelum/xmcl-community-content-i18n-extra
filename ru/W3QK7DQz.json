@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Pz+5MsPLlpM=",
-  "content": "Этот шейдерпак почти идентичен стандартной визуализации, за исключением поддержки TAA. Он совместим с OptiFine и Iris.\n\n## Кредиты\n* Воссоздание стандартной визуализации из [XorDevs-Default-Shaderpack](https://github.com/XorDev/XorDevs-Default-Shaderpack)\n* Реализация TAA от [BSL](https://bitslablab.com/bslshaders/)\n* FidelityFX CAS от [AMD](https://github.com/GPUOpen-Effects/FidelityFX-CAS), версия фрагментного шейдера от [vkBasalt](https://github.com/DadSchoorse/vkBasalt)\n",
+  "bodyHash": "c312580fc1ad5906",
+  "content": "Этот шейдерпак почти идентичен стандартному рендерингу, за исключением поддержки TAA. Он совместим с OptiFine и Iris.\n\n## Благодарности\n* Воссоздание стандартного рендеринга из [XorDevs-Default-Shaderpack](https://github.com/XorDev/XorDevs-Default-Shaderpack)\n* Реализация TAA из [BSL](https://bitslablab.com/bslshaders/)\n* FidelityFX CAS от [AMD](https://github.com/GPUOpen-Effects/FidelityFX-CAS), версия фрагментного шейдера из [vkBasalt](https://github.com/DadSchoorse/vkBasalt)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

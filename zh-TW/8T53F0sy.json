@@ -1,6 +1,6 @@
 {
-  "bodyHash": "TdORjJrVHS8=",
-  "content": "![picture](https://s2.loli.net/2024/05/21/w2l63c48nbOMyYi.png)  \n吾乃風暴，即將降臨！！  \n再次歡迎來到拔刀劍的世界。  \n\n依舊是《魔劍》、《鬼泣》與《夢幻之星Online2》的粉絲作品，目標是在遊戲中添加鬼泣風格的武士刀。  \n\n本模組與原版拔刀劍的主要差異在於：  \n\n* 我們修復了已知的多數問題。  \n> 由於原模組維護不積極，若發現任何問題，請向我們回報，我們會盡快修復。  \n\n* 我們重新加入了拔刀劍舊版本中存在但後續被移除的部分功能。  \n* 更佳的模組相容性：  \n> * 正確顯示 JEI 配方。  \n> * 資料驅動的自訂拔刀劍，讓 SlashBlade Resharpened 更適合整合包使用。  \n\n再次拿起你的刀，享受連擊的樂趣吧！  \n\n可選函式庫：  \n* playerAnimator 支援 1.20.1 v0.0.8 或更新版本  \n\n原始專案：  \n[Ferne 的 SlashBlade](https://www.curseforge.com/minecraft/mc-mods/slashblade)  \n此分支已獲得原作者許可。  \n\n授權條款：MIT 授權",
+  "bodyHash": "85460702771a0a94",
+  "content": "\n\n![picture](https://s2.loli.net/2024/05/21/w2l63c48nbOMyYi.png)  \n我就是即將來臨的暴風！！  \n歡迎再次來到 SlashBlade。  \n  \n這依然是一款基於《惡魔之刃》(Demon Blade)、《鬼泣》(DMC) 與《夢幻之星Online 2》(PSO2) 的同人作品，旨在為遊戲增添具有《鬼泣》風格的太刀。    \n\n本模組與原版 SlashBlade 的主要差異如下：  \n\n* 我們已修復多數已知問題。  \n> 由於持續進行積極維護，若您發現任何問題，請向我們回報，我們將盡快修復。  \n\n* 我們恢復了一些在舊版 SlashBlade 中存在但後來被移除的功能。   \n* 更好的模組相容性：  \n> * 修正 JEI 配方顯示。  \n> * 採用資料驅動型自訂 Slashblade，使 SlashBlade Resharpened 在模組整合包中的表現更佳。  \n\n\n再次拿起你的刀劍，享受連擊攻擊吧！\n\n選用函式庫：   \n* playerAnimator 新增支援 1.20.1 v0.0.8 或更新版本    \n\n原始專案：  \n[SlashBlade by Ferne](https://www.curseforge.com/minecraft/mc-mods/slashblade)  \n此分支已取得原作者的授權。  \n  \n授權條款：MIT 授權條款",
   "contentType": "text/markdown",
   "type": "modrinth"
 }
