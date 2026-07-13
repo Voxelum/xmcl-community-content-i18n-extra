@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0438ca7b94d0410e",
+  "content": "\n\n<h2>Описание</h2>\n<p>Показывает точные координаты вашего местоположения.</p>\n<p><img src=\"https://cdn.modrinth.com/data/3opMvIxN/images/6985cec8e16048113b2945f438fe3e651a823eea.png\" alt=\"preview\"></p>\n<h2>Как использовать</h2>\n<p>Чтобы переключить видимость координат, введите эту команду:</p>\n<p><code>/trigger bizcub.coords.t</code></p>\n<h2>Зависимости</h2>\n<ul>\n<li>Для работы загрузчика Fabric требуется <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

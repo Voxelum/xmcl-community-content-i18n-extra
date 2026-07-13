@@ -1,0 +1,6 @@
+{
+  "bodyHash": "63e8950fda9e8c83",
+  "content": "\n\n# 重要提示！！！\n\n此整合包包含 CurseForge 與 Modrinth 的模組。\n\n因此，它不兼容 GDLauncher、CurseForgeApp 等啟動器。\n\n如果您確實想使用這些啟動器遊玩，請改用 MTR Craft Lite。\n\n## 使用 Lite 版本時的注意事項\n\nLite 版本未包含部分模組。（例如 NTE、JCM 等）。\n\n此外，更新頻率較低。\n\n若您仍希望使用 Lite 版本，請直接下載並使用 Lite 版本。\n\n## 歡迎加入我們的 Discord！\n\n[**加入 Discord 伺服器**](https://discord.gg/t6hYy7wt93)\n\n# 模組介紹\n\n本整合包旨在讓遊玩 Minecraft 交通鐵路模組變得有趣且輕鬆。\n它包含了您所需的大部分模組。\n\n以下為詳細介紹。\n\n# 主要模組\n\n## Minecraft 交通鐵路\n\n這是本整合包的基礎。\n\n缺少它將無法運作。\n\n新增主要自動化列車、船隻、纜車與飛機。\n\n## 倫敦地下鐵擴充（The Tube）\n\nMinecraft 交通鐵路的附加模組。\n\n新增類似世界上最古老的地鐵站——倫敦地下鐵中的物品與方塊等。\n\n## 常磐客戶端模組（Joban Client Mod）\n\n新增類似香港 MTR 車站的物品與方塊。\n\n## 車站裝飾（Station Decorations）\n\n為車站增添許多實用的物品。\n\n## 尼莫的交通擴充（Nemo's Transit Expansion）\n\n此模組能讓軌道看起來更逼真。\n\n# 輕量化模組\n\n### 使用以下模組可優化 FPS\n\nSodium (Fabric)\n\nRubidium (Forge)\n\n### 使用以下模組可降低整合型伺服器與獨立伺服器的載入負擔\n\nLichium (Forge)\n\nRadium Reforged (Forge 1.18~)\n\nPerformer (Forge 1.16.5)\n\n### 使用以下模組可啟用 Optifine 的着色器\n\nIris Shaders (Fabric)\n\nOculus (Forge)\n\n### 使用以下模組可最佳化光線引擎\n\nPhosphor (Fabric 1.16.5)\n\nRadon (Forge 1.16.5)\n\nStarlight (1.17.1~)\n\n# 實用模組\n\nWorldEdit (全平台) 與 worldEditCUI (Fabric)\n\nJEI (幾乎所有版本)\n\nREI (僅 Fabric 1.16.5)\n\nJourneyMap (幾乎所有版本)\n\nXaero's Minimap (僅 Fabric 1.16.5 與 Fabric 1.17.1)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

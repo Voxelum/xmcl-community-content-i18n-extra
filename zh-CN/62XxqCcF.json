@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a179f3d96321e005",
+  "content": "\n\n专为渴望在建筑与战斗中体验刺激，却不必担心受伤和死亡的玩家设计的全新游戏模式。*creatifight* 模式融合了创造模式的自由（无限资源、飞行与无敌）与生存模式的紧张刺激（可对抗的敌对生物）。\n\n制作此模组的灵感来源于我与家人一起玩《我的世界》的经历。创造模式虽然很棒，但打敌人实在太无聊；生存模式虽然刺激，却又太难且令人压力山大。于是我渴望在这两者之间找到一个平衡点，让我们能一起进行一场“安全”的冒险。\n\n祝大家玩得开心！\n\n兼容版本：Java版，NeoForge 1.21.1\n\n## 使用方法\n\n| 命令                                                       | 效果                                 |\n|------------------------------------------------------------|--------------------------------------|\n| `/gamemode creatifight`                                    | 进入 Creatifight 模式                |\n| `/gamemode creatifight <玩家>`                             | 将其他玩家设置为 Creatifight 模式    |\n| `/gamemode creative` / `survival` / `adventure` / `spectator` | 退出 Creatifight 模式并切换至其他模式 |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

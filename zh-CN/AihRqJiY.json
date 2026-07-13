@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mum6sHMLpKI=",
-  "content": "### 描述\n这个数据包简单地在点燃的TNT上方添加了一个计时器，指示TNT将在多少秒后爆炸。\n\n### 数据包安装指南\n\n前往你的存档文件夹，Windows上的路径如下：\n```\nC:\\Users(你的用户名)\\AppData\\Roaming\\.minecraft\\saves\n```\n将压缩文件放入数据包文件夹中，然后重新启动你的世界或执行 `/reload` 命令。\n\n### 卸载指南\n\n- 运行 `/function tnt_timer:uninstall`。在删除数据包之前不要重新加载。\n- 删除数据包/模组，然后运行 `/reload`。\n\n### 其他注意事项\n\n- 如有反馈、错误报告或其他帮助需求，请加入本页链接部分的 [Discord服务器](https://discord.gg/kk3j3ct6xk)！",
+  "bodyHash": "e59229c4b22fc2dc",
+  "content": "\n\n### 描述\n该数据包仅在被引燃的 TNT 上方添加一个计时器，显示 TNT 将在多少秒后爆炸。\n\n### 数据包安装指南\n\n在 Windows 系统上，前往你的存档文件夹，路径如下：\n```\nC:\\Users(your name)\\AppData\\Roaming\\.minecraft\\saves\n```\n将压缩包放入数据包文件夹中，然后重启世界或执行 `/reload`。\n\n### 卸载指南\n\n- 运行 `/function tnt_timer:uninstall`。删除数据包前请勿执行重载命令。\n- 删除该数据包/模组后，再运行 `/reload`。\n\n### 其他注意事项\n\n- 如需反馈、报告错误或获取其他帮助，请通过本页面链接部分的链接加入 [Discord 服务器](https://discord.gg/kk3j3ct6xk)！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

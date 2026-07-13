@@ -1,6 +1,6 @@
 {
-  "bodyHash": "3HBynfIpmf4=",
-  "content": "# 此插件已停止開發，WTHIT 現已內建採集資訊功能。\n\n# WTHIT 採集資訊顯示\n[Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability) 的分支版本，為 [WTHIT Forge](https://modrinth.com/mod/wthit) 提供所查看方塊的採集相關資訊。\n\n預設會顯示當前能否採集該方塊、方塊所需的採集等級，以及對該方塊有效的工具類型。此外，在 Waila 模組設定介面中還提供多種配置選項，可依需求調整顯示內容。\n\n注意：本模組主要針對 [匠魂模組](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) 設計，但相關資訊在未安裝該模組時仍具參考價值。\n\n若使用 Fabric 版本，請改用 [cAn i MiNe thIS bLOCk?](https://modrinth.com/mod/can-i-mine-this-block)！\n\n![](https://images2.imgbox.com/91/29/F7cjgw8x_o.png)",
+  "bodyHash": "06a67dd820689835",
+  "content": "\n\n# 本插件已停止維護，WTHIT 現在已內建採集性插件。\n\n# WTHIT Harvestability\n為 [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability) 的分支版本，是一款專為 [WTHIT Forge](https://modrinth.com/mod/wthit) 設計的插件，提供您所觀察方塊的採集需求資訊。\n\n預設情況下，它會顯示您目前能否採集該方塊、該方塊所需的採礦等級，以及對該方塊有效的工具類型。此外，在 Waila 模組設定畫面中提供了多種設定選項，您可以自行微調以顯示完全符合您需求的資訊。\n\n 注意：本模組主要設計用於搭配 [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)，但即使未安裝該模組，所提供的資訊仍然適用。\n\n若您使用的是 Fabric 平台，請使用 [cAn i MiNe thIS bLOCk?](https://modrinth.com/mod/can-i-mine-this-block)！\n\n![](https://images2.imgbox.com/91/29/F7cjgw8x_o.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

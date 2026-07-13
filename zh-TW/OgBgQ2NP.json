@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/y8tdTI4O3I=",
-  "content": "![橫幅](https://cdn.modrinth.com/data/cached_images/23bc682e7cc7af0ab5a2c9dd6350b3b4479d64ff_0.webp)\n\n**物品放大鏡**是一款輕量級的客戶端模組，透過顯示您懸停物品的**大型放大預覽**來增強您的物品欄體驗。它在創造模式、模組化物品欄或當您想近距離欣賞物品細節時特別有用！\n\n---\n\n此模組為物品預覽提供了多種進入和閒置動畫：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/YthxDrKlfaM\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n---\n\n物品放大鏡的靈感完全來自**ItemZoom**，並作為其概念延續而開發。\n\n需要 [Architectury API](https://modrinth.com/mod/architectury-api) 和 [Cloth Config API](https://modrinth.com/mod/cloth-config) 才能運作。\n\n---\n\n不相容性：\n- VulkanMod",
+  "bodyHash": "4e93168b8429e11c",
+  "content": "\n\n![banner](https://cdn.modrinth.com/data/cached_images/23bc682e7cc7af0ab5a2c9dd6350b3b4479d64ff_0.webp)\n\n**Item Zoomer** 是一款輕量級的客戶端模組，能在游標懸停於任何物品時顯示**大幅放大的預覽**，從而提升你的物品欄體驗。無論是在創造模式、使用其他模組的物品欄介面，或是你只想近距離欣賞物品細節時，它都相當實用！\n\n\n\n---\n\n此模組為物品預覽提供了多種進入與閒置動畫：\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/YthxDrKlfaM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n---\n\nItem Zoomer 的靈感完全來自 **ItemZoom**，並作為其概念上的延續進行開發。\n\n需要 [Architectury API](https://modrinth.com/mod/architectury-api) 與 [Cloth Config API](https://modrinth.com/mod/cloth-config) 才能運作。\n\n---\n\n不相容項目：\n- VulkanMod",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

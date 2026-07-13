@@ -1,0 +1,6 @@
+{
+  "bodyHash": "218c42f18bea2c69",
+  "content": "\n\n<p><strong><span style=\"text-decoration:underline\">Create: Energy Meter</span> </strong>是一款小型的非官方《Create》模組附加包，新增了一個簡單的方塊：能量計。</p>\n<p>將其放置在 FE 電源與電力機器之間，即可測量流經您組裝設定的能量。</p>\n<p><strong><span style=\"text-decoration:underline\">運作方式：</span></strong><br>- 帶有藍色圓圈的一側為輸入端。<br>- 帶有橘色圓圈的一側為輸出端。<br>- 能量由藍色輸入端進入。<br>- 能量從橘色輸出端流出。</p>\n<p><span style=\"text-decoration:underline\"><strong>功能特色：</strong></span><br>- 以 FE/t 顯示當前能量流動速率<br>- 追蹤總能量消耗量<br>- 追蹤運作時間<br>- 內建能量緩衝區<br>- 提供重置按鈕，可清除計量器已儲存的消耗資料<br>- 支援英文與法文翻譯<br>- 專為基於《Create》的電力組態而設計</p>\n<p>在《Create》整合包中，能量計非常適合用於監控馬達、發電機、電池、電線及其他 FE 供電系統。</p>\n<p><strong><span style=\"text-decoration:underline\">需求：</span></strong><br>- Minecraft 1.21.1<br>- NeoForge<br>- Create<br>- Create Crafts &amp; Additions</p>\n<p><strong>本模組並非《Create》的官方附加模組。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

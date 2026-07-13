@@ -1,6 +1,6 @@
 {
-  "bodyHash": "nItpepxvvq8=",
-  "content": "Этот простой мод добавляет рецепты крафта для сёдел, конной брони и тегов с именем.\n\nДля серверов этот мод требуется только на стороне сервера, чтобы работать. Но я рекомендую также включить его в клиентские модпаки, чтобы мир в одиночной игре тоже функционировал.\n\n<details><summary>Рецепты</summary>\n<p>\n\n![Рецепт крафта седла](https://gitlab.com/456Xander/craftable-saddles/-/raw/master/recipe-examples/saddle.png)\n![Рецепт крафта железной брони](https://gitlab.com/456Xander/craftable-saddles/-/raw/master/recipe-examples/iron_armor.png)\n![Рецепт крафта тега с именем](https://gitlab.com/456Xander/craftable-saddles/-/raw/master/recipe-examples/name_tag.png)\n\nДругая конная броня крафтится таким же образом; железную конную броню можно изготовить, просто заменив железо золотом или алмазами.\n\n</p>\n</details>\n",
+  "bodyHash": "6b01fde9845f09fd",
+  "content": "\n\nЭтот простой мод добавляет рецепты крафта седёл, конской брони и бирок с именами.\n\nДля работы на сервере этот мод требуется только на стороне сервера. Но я рекомендую добавить его и в клиентские модпаки, чтобы работали и одиночные миры.\n\n<details><summary>Рецепты</summary>\n<p>\n\n![Рецепт крафта седла](https://gitlab.com/456Xander/craftable-saddles/-/raw/master/recipe-examples/saddle.png)\n![Рецепт крафта железной брони](https://gitlab.com/456Xander/craftable-saddles/-/raw/master/recipe-examples/iron_armor.png)\n![Рецепт крафта бирки с именем](https://gitlab.com/456Xander/craftable-saddles/-/raw/master/recipe-examples/name_tag.png)\n\nОстальная конская броняcraftится так же, как и железная: просто замените железо на золото или алмазы.\n\n</p>\n</details>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

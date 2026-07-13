@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f3b6416a1c955338",
+  "content": "\n\n# Quick Shulker Multi\n無需放置即可快速開啟終界箱（及更多物品），並使用 [preprocessor](https://github.com/Fallen-Breath/preprocessor) 進行重構。  \n支援從 1.20.6 至最新版的 Minecraft  \n歡迎為本專案新增本地化內容！\n\n使用多版本建置工具 preprocessor，可快速為多個 Minecraft 版本建置模組。\n\n本專案的上游 [MoRanpcy/quickshulker](https://github.com/MoRanpcy/quickshulker) 將 [kyrptonaught](https://github.com/kyrptonaught) 的 [QuickShulker](https://github.com/kyrptonaught/quickshulker) 模組更新至更高版本的 Minecraft 並修復了部分問題。\n\nQuick Shulker 提供多種可自訂的開啟方式，您均可自行啟用或停用：\n\n- 手持該物品時按下快捷鍵\n- 手持該物品時右鍵點擊\n- 在物品欄中懸停於該物品上方時按下快捷鍵\n- 在物品欄中懸停於該物品上方時右鍵點擊該物品\n\n現在您可以在物品欄中像操作束口袋一樣與終界箱（及其他物品）互動！\n\n- 手持物品右鍵點擊終界箱，即可將該物品放入其中\n- 手持終界箱右鍵點擊物品，即可拾取並將其放入終界箱。\n- 手持終界箱時右鍵點擊物品欄槽位，即可將終界箱內的最後一件物品取出並放入該槽位。\n\n^上述所有功能均可在設定檔中停用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

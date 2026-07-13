@@ -1,0 +1,6 @@
+{
+  "bodyHash": "077c14bc941e32e0",
+  "content": "\n\n<p>你曾經想過<em>「為什麼從來沒人把海灘波浪加入《我的世界》？究竟需要什麼？」</em>嗎？現在，它終於來了！利用全新的景觀波浪改造你的世界，為海灘注入充滿氛圍且寧靜的拍岸聲。這些波浪絕非只是裝飾，它們有機率在沙灘上沉積實用資源，並能與路徑上的實體互動，為你的玩法增添刺激的新要素，也讓你更有理由反覆造訪。無論你是探索、建造，還是單純享受景致，海洋的美麗與豐饒都將為你的遊戲體驗加分。跳入波浪之中，探索它們可能帶來的寶藏吧！」</p>\n<p>此模組新增並使用了以下標籤，均可依個人喜好進行編輯；</p>\n<ul>\n<li>方塊：<code>waves:wave_blocks</code>，波浪可隨機沉積於岸邊的方塊列表</li>\n<li>流體：<code>waves:has_waves</code>，波浪可生成的流體列表</li>\n<li>生態域：<code>waves:has_waves</code>，波浪可生成的生態域列表</li>\n<li>實體：<code>waves:wave_interaction_blacklist</code>，禁止與波浪互動的實體黑名單</li>\n<li>實體：<code>waves:wave_interaction_whitelist</code>，允許與波浪互動的實體白名單</li>\n</ul>\n<p>波浪生成的 Y 軸高度可透過 JSON 檔案進行設定。該 JSON 檔案位於 <code>./config/waves/waves.json</code>，並預設包含原版維度的配置。</p>\n<p>若您使用具備實體雷達功能的小地圖模組，並希望<strong>隱藏</strong>波浪實體；波浪實體的 <code>id</code> 為 <code>waves:waves</code>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "DfCmm2hzDTM=",
-  "content": "![](https://imgur.com/TWLUjTG.png)\n\nVeil 是一套精密的工具與公用程式集合，旨在協助 Minecraft 模組開發者實現進階的渲染效果。我們的目標是在 Java Minecraft 中實現更現代的遊戲引擎級別內容，突破模組開發的可能性邊界。\n\n## 關於 Veil：\n\n- **色彩**：管理色彩並可搭配主題（Themes）使用。\n- **緩動函數**：應用緩動函數以實現更自然的動態效果。\n- **影格緩衝區**：透過 JSON 驅動自訂影格緩衝區（Framebuffer）。\n- **後處理**：自訂後處理管線，支援簡易的紋理綁定。\n- **著色器**：完整支援所有 OpenGL 著色器類型，未來可能加入 HLSL 與 Spir-V 支援。\n- **著色器修改**：注入並修改現有著色器以符合您的需求。\n- **召靈術**：基於骨骼的動畫模型，支援獨立的實體骨架與模型。\n\n## 連結：\n\n於開發者維基了解更多：[Veil 維基](https://github.com/FoundryMC/Veil/wiki)\n\n探索我們的範例模組：[範例模組](https://github.com/FoundryMC/veil-example-mod)\n\n加入我們的 Discord：[Foundry Discord](https://discord.gg/2aqTX9QWKU)",
+  "bodyHash": "b57899e90597ce6f",
+  "content": "![](https://imgur.com/TWLUjTG.png)\n\nVeil 是一套精緻的工具與實用程式集合，旨在促進 Minecraft 模組開發者進行進階渲染。我們的目標是在 Java Minecraft 中實現更現代化的遊戲引擎級別內容，推動模組開發的可能邊界。\n\n## 關於 Veil：\n\n- **顏色**：管理顏色並將其與主題搭配使用。\n- **緩動函數**：應用緩動函數以實現更自然的運動效果。\n- **框架緩衝區**：基於 JSON 的自訂框架緩衝區。\n- **後處理**：具有簡易紋理綁定功能的自訂後處理管線。\n- **着色器**：完全支援所有 OpenGL 着色器類型，未來可能會加入 HLSL 和 Spir-V 支援。\n- **着色器修改**：注入並修改現有着色器以符合您的需求。\n- **復生術師（Necromancer）**：基於骨骼的動畫模型，支援獨立的實體骨架和模型。\n \n## 連結：\n在開發者維基上了解更多資訊：[Veil Wiki](https://github.com/FoundryMC/Veil/wiki)\n\n探索我們的範例模組：[範例模組](https://github.com/FoundryMC/veil-example-mod)\n\n在此加入我們的 Discord：[Foundry Discord](https://discord.gg/2aqTX9QWKU)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

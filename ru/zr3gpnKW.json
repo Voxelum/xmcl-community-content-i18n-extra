@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ab15b849db748e8",
+  "content": "\n\nОтдельный пакет ресурсов, который делает картины непрозрачными в случаях, когда шейдеры их ломают.\n\nУбедитесь, что он расположен выше в порядке загрузки пакетов ресурсов, чтобы переопределить текстуры картин.\n\n![instructions](https://cdn.modrinth.com/data/cached_images/96a86e157f2cf10a2e3d3d108c39a8d794294ccc.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

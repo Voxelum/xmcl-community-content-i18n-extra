@@ -1,6 +1,6 @@
 {
-  "bodyHash": "tBLSHp9ajY4=",
-  "content": "<p>Очень простой мод: воспроизводит <strong>настраиваемый</strong> звук в следующих случаях:</p><ul>\n<li>при загрузке Minecraft и переходе на главное меню</li>\n<li>при загрузке мира</li>\n<li>после завершения перезагрузки ресурсов в Minecraft</li>\n</ul><p>&nbsp;</p><p>Он называется «Ding», потому что именно такой звук воспроизводится при подборе сферы опыта.</p><p>&nbsp;</p><p>Только для клиентской стороны. Требуется <a href=\"/linkout?remoteUrl=https%253a%252f%252ffiles.minecraftforge.net%252f\" rel=\"nofollow\">Minecraft Forge</a>. Версия для Fabric доступна <a href=\"https://www.curseforge.com/minecraft/mc-mods/ding-for-fabric\" rel=\"nofollow\">здесь</a>.</p>",
+  "bodyHash": "640888c72ef18efe",
+  "content": "\n\n<p>Очень простой мод: воспроизводит <strong>настраиваемый</strong> звук при:</p>\n<ul>\n<li>Minecraft загружается и достигает главного меню</li>\n<li>Загружается мир</li>\n<li>Minecraft завершает перезагрузку ресурсов</li>\n</ul>\n<p>&nbsp;</p>\n<p>Он называется «Ding», потому что это звук, который воспроизводится при подборе сферы опыта.</p>\n<p>&nbsp;</p>\n<p>Только для клиента. Требуется <a href=\"/linkout?remoteUrl=https%253a%252f%252ffiles.minecraftforge.net%252f\" rel=\"nofollow\">Minecraft Forge</a>. Версия для Fabric доступна <a href=\"https://www.curseforge.com/minecraft/mc-mods/ding-for-fabric\" rel=\"nofollow\">здесь</a>.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

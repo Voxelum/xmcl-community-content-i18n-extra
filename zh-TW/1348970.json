@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Tcl7lNl3Ltk=",
-  "content": "<p>允許<a href=\"https://www.curseforge.com/minecraft/mc-mods/lendercataclysm\" target=\"_blank\" rel=\"nofollow\">L_Ender's Cataclysm</a>中的Ignited Berserkers在擊敗Ignis後，生成於<a href=\"https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses\" target=\"_blank\" rel=\"nofollow\">YUNG's Better Nether Fortresses</a>中，實現兩個模組的兼容。</p><p>（這僅需將Better Fortress結構新增至Cataclysm的\"#berserker_spawn\"標籤中即可）</p><p>當然，需要安裝L_Ender's Cataclysm、YUNG's Better Nether Fortresses及其前置模組。</p><p>理論上它<strong>應該</strong>能正常運作。如果還是有問題，請在留言區多罵幾聲，這樣我才能修好它 :)</p>",
+  "bodyHash": "3651f081bdb2a704",
+  "content": "\n\n<p>允許在擊敗 Ignis 後，<a href=\"https://www.curseforge.com/minecraft/mc-mods/lendercataclysm\" target=\"_blank\" rel=\"nofollow\">L_Ender's Cataclysm 的</a> 燃燒狂戰士生成於 <a href=\"https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses\" target=\"_blank\" rel=\"nofollow\">YUNG's Better Nether Fortresses 中</a>，藉此達成兩個模組的相容性。</p>\n<p>（此功能是透過簡單將 Better Fortress 結構加入 Cataclysm 的 `#berserker_spawn` 標籤來實現的）</p>\n<p>當然，需要安裝 L_Ender's Cataclysm、YUNG's Better Nether Fortresses 及其依賴模組。</p>\n<p>現在它<strong>應該</strong>能正常運作。如果無法使用，請在評論區留言告訴我，以便我進行修復 :)</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1413cd70ea176bf2",
+  "content": "\n\n# 浮空島重製版  \n「浮空島重製版」是一個資料包，旨在基於 1.18 版本之前原版存在的浮空島世界生成機制進行擴展。不僅所有生物群系與結構皆已保留，浮空河流與海洋也會生成，其他所有生物群系中也同樣存在浮空水域（全部透過含水層機制實現）。此外還包含其他一些小改動，旨在提升原版浮空島的整體品質。\n\n### 下界浮空島\n我還額外提供了一個姊妹資料包，讓下界也能轉換為浮空島地形！歡迎前往查看 [下界浮空島](https://modrinth.com/datapack/nether-floating-islands)。**目前正在等待審核**\n\n## 常見問題\n1. 「有沒有辦法阻止結構在虛空中生成？」\n   - 可以查看我的 [無虛空結構](https://modrinth.com/mod/no-void-structures) 模組。\n2. 「這與此資料包／模組相容嗎？」\n   - 若該項目會修改地形，則不相容。若僅添加生物群系，則僅部分相容（群系外觀可能會因實作方式不同而顯得怪異）。\n\n\n### 歡迎查看我全新改進的浮空島資料包：[Aetherial Islands](https://modrinth.com/datapack/aetherial-islands)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

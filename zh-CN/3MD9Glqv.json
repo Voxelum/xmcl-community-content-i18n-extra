@@ -1,6 +1,6 @@
 {
-  "bodyHash": "PlOwsrpzlZk=",
-  "content": "# 东方女仆：属性展示\n\n`东方女仆：属性展示` 是一款为 Minecraft `1.20.1` 设计的 Forge 模组，为 `东方女仆` 的女仆添加了一个专属属性界面。\n\n## 简介\n\n本模组为 `东方女仆` 的女仆 GUI 增加了一个独立的属性页面，用于查看女仆当前拥有的属性、具体数值、乘区构成与公式明细。\n\n界面支持：\n\n- 按模组对属性分组显示\n- 使用左侧分组图标快速切换\n- 收藏常用属性并在收藏夹中查看\n- 显示属性基础值、加法、乘法和最终结果\n- 对没有语言文件的属性自动隐藏\n\n## 需求\n\n- Minecraft `1.20.1`\n- Forge `47.4.0`\n- 东方女仆 `1.5.0`\n\n## 备注\n\n- 模组 ID：`tlm_atrribute_display`\n- 许可证：`MIT`",
+  "bodyHash": "1d1e488f12b80383",
+  "content": "\n\n# 东方小女仆：属性显示\n\n`Touhou Little Maid: Attribute Display` 是一款适用于 Minecraft `1.20.1` 的 Forge 模组，专为 `Touhou Little Maid` 中的女仆添加了独立的属性显示界面。\n\n## 简介\n\n本模组为 `Touhou Little Maid` 的女仆 GUI 增加了一个独立的属性页，用于查看女仆当前拥有的属性、具体数值、乘区构成与公式明细。\n\n界面支持：\n\n- 按模组对属性分组显示\n- 使用左侧分组图标快速切换\n- 收藏常用属性并在收藏夹中查看\n- 显示属性基础值、加法、乘法和最终结果\n- 对没有语言文件的属性自动隐藏\n\n## 依赖\n\n- Minecraft `1.20.1`\n- Forge `47.4.0`\n- Touhou Little Maid `1.5.0`\n\n## 备注\n\n- Mod ID: `tlm_atrribute_display`\n- License: `MIT`",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

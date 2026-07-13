@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aad9de1717012ecc",
+  "content": "\n\n![Dark Indigo Black Hole Banner Graphica](https://cdn.modrinth.com/data/cached_images/d7a7f94f7e6fce91ba48a9fee48173477e3a9e47_0.webp)\n\nЭтот модпак представляет собой версию Graphica, специально предназначенную для пользователей, которым приходится использовать обходные решения, такие как MESA, для запуска современных версий Minecraft.\n\nВ эту сборку включены все моды из Graphica, которые не требуют поддержки OpenGL 3.3. Таким образом, владельцы процессоров или видеокарт без поддержки OpenGL 3.3 смогут запустить Minecraft 26.2, однако стоит ожидать лишь незначительного прироста FPS, а не двукратного увеличения производительности, которое обеспечивает Sodium.\n\nМоды вроде Sodium, Entity Culling, ImmediatelyFast и ModernFix используют OpenGL 3.3, поэтому не добавляйте их в сборку, если не хотите столкнуться с падением FPS.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

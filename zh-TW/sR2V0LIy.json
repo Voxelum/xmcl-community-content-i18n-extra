@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d1b48e7a2a7f8fc5",
+  "content": "\n\n![Logo](https://cdn.modrinth.com/data/cached_images/e85cc57946bbfc8527235fc0bb3c309d56baae33.png)\n\n# 內容 📦\n\n- `●•` [Create](https://modrinth.com/mod/create)\n- `●•` [Create: Deco](https://modrinth.com/mod/create-deco)\n- `●•` [Create: Diesel Generators](https://modrinth.com/mod/create-diesel-generators)\n- `●•` [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry/)\n- `●•` [Create: Wrapped](https://modrinth.com/mod/create-wrapped)\n\n> `●•` 進行中 / `●●` 已完成\n\n# 致藝術家與開發者 🤝\n\n這是一個社群專案，任何人都可以在原始碼頁面 [貢獻](https://github.com/piscopancer/whimscape-x-create/pulls) 素材至本資源包。由於 Create 模組體量龐大且其衍生模組數量無窮無盡，無論是 Whimscape 原作者還是我，都難以單憑一己之力將 Whimscape 調整以涵蓋所有內容。但若集結眾人之力，則並非不可能。\n\n## 優先事項 📋\n\n1. **調整 Create 基礎素材**。我們或 Whimscape 原作者應率先完成 Create 基礎素材的調整（如銅／鋅物品、機件外殼、木製結構等），以確立色彩配置與整體風格，供其他 Create 衍生模組跟進。\n2. **調整 Create 衍生模組**。你現在即可向原始碼提交 Pull Request，為 Create 衍生模組新增素材。請務必僅涵蓋尚未與 Create 基礎素材重疊的材質（例如銅槽），因為基礎 Create 的素材尚未調整完畢。\n\n## 預覽 🖼️\n\n<img width=\"1024\" height=\"1017\" alt=\"items\" src=\"https://github.com/user-attachments/assets/36671d71-8adb-4858-b344-f8906399cba3\" />\n\n## 貢獻者 👯\n\n_感謝以下夥伴參與開發_\n\n- [nazarik-si](https://github.com/nazarik-si) - 負責 Create、Create: Dragons Plus、Create: Enchantment Industry 的大部分素材，以及儲存庫優化",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

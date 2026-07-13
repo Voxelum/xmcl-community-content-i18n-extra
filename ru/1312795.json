@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1f57f77b8b51d5d2",
+  "content": "\n\n<h1 style=\"text-align:center\">\n  <img src=\"https://raw.githubusercontent.com/xhyrom/brigo/refs/heads/main/.github/logo.png\" alt=\"обложка brigo\" width=\"300\">\n</h1>\n<p><strong>Brigo</strong> добавляет современные подсказки команд и автозаполнение в стиле Brigadier в предыдущие версии Minecraft.</p>\n<div style=\"text-align:center\">\n  <img src=\"https://raw.githubusercontent.com/xhyrom/brigo/refs/heads/main/.github/gallery/command_time.png\" alt=\"выполнение команды brigo\">\n</div>\n<h2>Что такое brigo?</h2>\n<p>Brigo — это мод, который добавляет подсказки команд в стиле Brigadier, подсветку синтаксиса и предпросмотр аргументов в более старые версии Minecraft.<br>\nОн работает на <strong>клиентской стороне</strong>, улучшая интерфейс ввода команд на большинстве серверов, но также может быть установлен <strong>на стороне сервера</strong> для более глубокой интеграции, например, поддержки пользовательских деревьев команд и повышения точности подсказок.</p>\n<h2>Как им пользоваться?</h2>\n<p>Brigo готов к использованию сразу на большинстве старых серверов, однако установка на клиент и сервер одновременно обеспечивает максимально комфортный опыт.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

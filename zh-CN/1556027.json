@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d3c8adfd1640357b",
+  "content": "\n\n<p>本模组修复了 Connector 的兼容性问题。当同时安装 Chloride 和 Oculus 时，进入世界会导致 Ultracraft 崩溃。<br><br>这是一个非常临时的快速修复方案，实际上仅仅是修改了 refmap 和 mixins 配置文件。<br><br>该修复由 nuhayuponosik 制作，因此功劳归他（当时我在处理现实事务）。<br><br>另外，如果你使用的是 Fabric 端，请支持真正制作该模组的 Absolutelyaya。所有功劳都应归于他们，请下载此链接作为替代：<a href=\"https://www.curseforge.com/minecraft/mc-mods/absolute-ultracraft\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/absolute-ultracraft</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

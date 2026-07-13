@@ -1,6 +1,6 @@
 {
-  "bodyHash": "oN76Y6H+nWY=",
-  "content": "<p>護盾產生器為Sable/Create Aeronautics移動物件添加能量護盾。</p><p>在Sable上放置並為護盾產生器提供燃料，然後使用紅石訊號開啟它（紅石訊號控制護盾熱量及開關）。它會勾勒出物體的輪廓，在船體周圍形成類似力場的護盾。</p><p>護盾允許緩慢移動的實體和工具通過，但會阻擋快速投射物，如箭矢、砲彈及其他高速射擊。</p><p>產生器有四種燃料：紫水晶、石英、青金石和銅。紫水晶產生的「護盾熱量」最高，銅產生的熱量最低。</p><p>護盾熱量決定了護盾抵擋衝擊的能力。</p><p>&nbsp;</p><p>配方：</p><p><img src=\"https://media.forgecdn.net/attachments/description/1559550/description_b7952c09-558a-4971-9f10-bbb5724864fe.png\"></p>",
+  "bodyHash": "1958b594f2c0099d",
+  "content": "<p>护盾生成器为Sable/Create Aeronautics中的移动物体提供能量护盾。</p>\n<p>在Sable上放置并燃料护盾生成器，然后使用红石信号开启它（红石信号控制护盾热量以及开关）。它将追踪物体的轮廓，在船体周围形成类似力场的护盾。</p>\n<p>护盾允许慢速移动的生物和工具通过，但会阻挡高速投射物，如箭矢、炮弹和其他高速射击。</p>\n<p>发电机有4种燃料：紫水晶、石英、青金石和铜。其中紫水晶产生的“护盾热量”最高，而铜产生的热量最低。</p>\n<p>护盾热量决定了护盾承受冲击的能力。</p>\n<p>&nbsp;</p>\n<p>合成配方：</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1559550/description_b7952c09-558a-4971-9f10-bbb5724864fe.png\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

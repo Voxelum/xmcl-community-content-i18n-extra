@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28b7cf9008a27d1a",
+  "content": "\n\n# Исправление двойного приседания по Shift\n\nЭтот мод исправляет ситуацию, когда при нажатии Shift игрок должен приседать всего один раз, но вместо этого приседает дважды.\n\nДанный мод использует идеи из Sneak Tweak и SneakFix:\n- Ссылка на Sneak Tweak: https://www.curseforge.com/minecraft/mc-mods/sneak-tweak\n- Ссылка на SneakFix: https://modrinth.com/mod/sneakfix\n\nЭтот мод исправляет ошибку, которая до сих пор существует в игре и никогда не была исправлена:\n- Ссылка на баг-репорт: https://bugs.mojang.com/browse/MC/issues/MC-159163\n\nСпасибо @SJKZ1 за помощь",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

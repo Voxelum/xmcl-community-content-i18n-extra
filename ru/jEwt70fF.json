@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c103767447a1736",
+  "content": "\n\nДополнение для [Simple Resources](https://modrinth.com/mod/simple-resources/) на основе [jackson-dataformats-text](https://github.com/FasterXML/jackson-dataformats-text), которое добавляет поддержку файлов ```.toml``` как для ресурсов Minecraft, так и для зарегистрированных пользовательских ресурсов.\n\nПросто поместите этот мод в папку mods (требуется версия SimpleResources 2.1.0 или выше), и все ресурсы теперь можно указывать в формате toml.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

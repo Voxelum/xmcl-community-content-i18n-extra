@@ -1,6 +1,6 @@
 {
-  "bodyHash": "14wvx7Q4Bw8=",
-  "content": "<h1>警告：</h1><p>此模組與 GunsmithLib 3.5+ 不相容，因為該版本已合併本模組的內容。若同時安裝 GunsmithLib 與本模組將導致遊戲崩潰。</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>本模組為支援的 TaCZ 武器增加火控系統（以大範圍瞄準輔助作為特殊功能），類似於《泰坦降臨》系列中的智慧手槍。</p><p><img src=\"https://pic.superbed.cc/item/678f72fafa9f77b4dcae0e16.png\" alt=\"火控介面\"></p><h3>如何為自訂槍枝添加火控系統：</h3><p>只需在槍枝的資料 JSON 檔案中加入以下內容：</p><pre><code>\"tacz_fire_control_extension:fire_control_system\": {\n  \"aim_cone_angle\": 60\n}</code></pre><p>當使用者同時安裝你的槍包與本模組時，瞄準輔助功能將會生效。使用者仍可在不安裝本模組的情況下安裝你的槍包，但此時瞄準輔助功能將不會啟動。</p>",
+  "bodyHash": "58a9b92002fef8b6",
+  "content": "\n\n<h1>警告：</h1>\n<p>此模組與 GunsmithLib 3.5+ 不相容，因其已整合本模組之內容，若同時安裝 GunsmithLib 與本模組將導致遊戲崩潰。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>本模組為支援的 TaCZ 武器新增火控系統（以大範圍瞄準輔助作為特殊功能），類似《泰坦降臨》系列中的智慧手槍。</p>\n<p><img src=\"https://pic.superbed.cc/item/678f72fafa9f77b4dcae0e16.png\" alt=\"火控介面\"></p>\n<h3>如何將火控系統加入您自製的槍械：</h3>\n<p>只需加入</p>\n<pre><code>\"tacz_fire_control_extension:fire_control_system\": {\n  \"aim_cone_angle\": 60\n}</code></pre>\n<p>到您的槍械資料 JSON 檔案中。</p>\n<p>當使用者同時安裝您的槍械包與本模組時，瞄準輔助功能將會生效。使用者仍可單獨安裝您的槍械包而不安裝本模組，但在這種情況下瞄準輔助功能將不會生效。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

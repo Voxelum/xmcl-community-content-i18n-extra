@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Ur8nndxjR2o=",
-  "content": "[![](https://cdn.imb11.dev/mineblock%20badge_64h.png)](https://discord.gg/UzHtJKqHny)\n\n# M.R.U\n\n**M.R.U** 是一个基础库模组，旨在简化和优化我其他模组的开发流程。MRU 能够大幅减少在多个 Minecraft 版本中创建和维护模组所需的时间与精力。\n\n<small>\n\n使用我的模组即表示您同意[最终用户许可协议](https://legal.imb11.dev/mods/eula)。在遵守 EULA 的前提下，您可以自由地将此模组用于您的 Modrinth 和 CurseForge 模组包中。\n\n</small>",
+  "bodyHash": "afa090a8c482a29b",
+  "content": "\n\n[![](https://cdn.imb11.dev/mineblock%20badge_64h.png)](https://discord.gg/UzHtJKqHny)\n\n# M.R.U\n\n**M.R.U** 是一款核心的库模组，旨在简化和优化我模组的开发流程。MRU 显著减少了在多个 Minecraft 版本中创建和维护模组所需的时间与精力。\n\n自 1.0.30 版本起，MRU 现已为 Cassian 的模组提供跨版本实用工具，其中包括 Immersive Overlays 和 Immersive Minimaps 的可复用逻辑。最终，这将使众多此类模组无需再依赖平台特定代码，从而大幅降低维护成本。\n\n<small>\n\n使用我的模组即表示您同意[最终用户许可协议](https://legal.imb11.dev/mods/eula)。只要遵守该 EULA，您便可自由在 Modrinth 与 CurseForge 整合包中使用此模组。\n\n</small>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

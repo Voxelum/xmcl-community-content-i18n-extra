@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e8c9377aea0b2cf9",
+  "content": "\n\n# Zulip Bridge\n\n此模組會在 Minecraft 聊天室與 Zulip 伺服器上的頻道之間建立橋接。\n\n訊息會進行雙向同步。Markdown 語法目前尚未支援轉換。\n\n部分事件（伺服器開關、玩家加入/離開/死亡、進度解鎖等）也會透過橋接傳輸。\n\n設定檔允許您對要橋接的事件進行細粒度控制，並可讓您選擇在單向（或雙向）停用聊天訊息的橋接功能。\n\n本模組支援 Fabric、NeoForge、Forge 與 Quilt 載入器，並涵蓋 1.16.5 以上所有主要版本（基於 Stonecutter、Architectury 及 Architectury API 開發），同時手動移植了 1.12.2 與 1.7.10 版本。\n\n如果您需要的版本尚未提供，請[開啟 Issue](https://codeberg.org/zotan/mc-zulip-bridge/issues/new)，我將在有時間時為您新增。\n\n## 使用方法\n首先，安裝模組後啟動伺服器以生成設定檔。\n接著編輯設定檔（位於 `config/zulip-bridge.json`）——貼上機器人電子郵件與 API 金鑰、頻道及主題名稱，然後根據您的需求自訂橋接選項。\n最後，重新啟動伺服器以套用變更。\n\n## 編譯\n若要編譯此專案，只需執行 `./build.sh` 並泡杯茶（或幾杯，因為需要一些時間）。系統將會為所有支援的版本與載入器編譯出 JAR 檔案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "82433ac031e425e8",
+  "content": "\n\n## Starlight 重新載入\n用於重寫光照引擎的模組，旨在修復光照效能與光照錯誤。\n\n**StarLight Reloaded 模組為作者 [spottedleaf](https://modrinth.com/user/spottedleaf) 所開發之 [StarLight](https://modrinth.com/mod/starlight) 模組的非官方移植版。**\n\n\n\n\n### 相容性\n\nStarlight 可安裝於專用伺服器或玩家端。無需兩端同時安裝。若伺服器已安裝 Starlight，玩家端可使用原版/Phosphor/Starlight 連線。同理，若玩家端已安裝 Starlight，亦可連線至原版/Phosphor/Starlight 伺服器。\n\nStarlight 無法與 Phosphor 同時安裝，兩者完全不相容。瀏覽 Starlight 的問題追蹤器可查看更多模組不相容的相關資訊。Starlight 是一款對光照引擎進行高度改動的模組，因此預期會較常導致其他模組出現異常。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

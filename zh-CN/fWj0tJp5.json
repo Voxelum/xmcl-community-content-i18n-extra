@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d345b0a42f2cac6",
+  "content": "\n\n添加实用的指令并改进原版结构方块\n\n指令：\n\n/tk devenv <boolan>\ntrue\n将游戏规则 \"doDaylightCycle\"、\"doMobSpawning\" 和 \"doWeatherCycle\" 设置为 false，将时间设为 6000，天气设为晴朗\n\nfalse\n将游戏规则 \"doDaylightCycle\"、\"doMobSpawning\" 和 \"doWeatherCycle\" 恢复为 true\n\n/tk hand\n在聊天栏打印手中物品/方块的注册名及 NBT 数据，并将其复制到剪贴板\n\n/tk hotbar\n将快捷栏中所有物品/方块的注册名及 NBT 数据复制到剪贴板\n\n/tk inventory\n将背包中所有物品/方块的注册名及 NBT 数据复制到剪贴板\n\n/tk oredist <dimension> <int>\n统计指定维度中玩家周围给定半径（16x16 * 整数）内的矿石数量，并在聊天栏显示该半径内每种矿石的数量及其占该半径内所有矿石的百分比\n\n/tk clear <int>\n移除玩家周围给定半径（16x16 * 整数）内除矿石外的所有原版方块\n \n\n/tk killAll\n移除/击杀所有实体\n \n\n/tk killAllAnimals\n击杀所有动物\n \n\n/tk killAllExpOrbs\n击杀所有经验球\n \n\n/tk killAllMonsters\n击杀所有怪物\n\n其他：\n\n加入时消息\n\n玩家加入世界时在聊天栏发送的消息。可在配置文件中修改或禁用此消息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "l7ugy5XHITw=",
-  "content": "# 更好的戰鬥 Punchy 相容修復\n\n客戶端專用相容修復，讓你在 NeoForge 上同時使用 **Better Combat** 與 **Punchy** 並搭配光影時能正常運作。\n\n有些光影管線在安裝 Punchy 後，會讓 Better Combat 攻擊時第一人稱物品重複渲染兩次。此模組會在 Better Combat 實際攻擊動畫層啟動時，抑制原版/Punchy 的第一人稱渲染，並在攻擊結束後重置 Punchy 的過渡姿勢狀態。\n\n## 功能說明\n\n- 修正 Better Combat 攻擊時第一人稱武器重複顯示的問題。\n- 保持 Better Combat 攻擊動畫可見。\n- 在 Better Combat 攻擊動畫未啟動時，Punchy 仍維持啟用。\n- 不影響傷害、冷卻時間、命中判定、攻擊速度、網路傳輸或伺服器行為。\n\n## 需求\n\n- Minecraft 1.21.1\n- NeoForge\n- Better Combat\n- Punchy\n\n本模組僅為客戶端專用，可在原版或模組伺服器上使用。",
+  "bodyHash": "56805596fda4d107",
+  "content": "# 更佳的打擊感修正（Better Combat Punchy Fix）\n\n用於在 NeoForge 上同時使用 **Better Combat** 和 **Punchy** 並搭配光影時的客戶端兼容性修復。\n\n某些光影管線在安裝了 Punchy 的情況下，可能會導致在使用 Better Combat 進行攻擊時，第一人称物品渲染兩次。此模組僅在 Better Combat 的真實攻擊動畫層激活時，抑制原版/Punchy 的第一人称渲染；並在攻擊結束後重置 Punchy 的臨時姿態狀態。\n\n## 功能說明\n\n- 修復在使用 Better Combat 攻擊時出現的第一人称武器重複渲染問題。\n- 保持 Better Combat 攻擊動畫可見。\n- 在非 Better Combat 攻擊動畫期間，保持 Punchy 功能啟用。\n- 不改變傷害、冷卻時間、擊中框、攻擊速度、網絡通訊或伺服器行為。\n\n## 依賴需求\n\n- Minecraft 1.21.1\n- NeoForge\n- Better Combat\n- Punchy\n\n本模組僅限客戶端使用，可在原版或模組化伺服器上使用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

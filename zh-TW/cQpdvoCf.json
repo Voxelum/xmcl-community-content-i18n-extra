@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5138471022cd094c",
+  "content": "\n\n# | 描述 |\n為營火與靈魂營火新增未點燃的變體。合成的營火將處於未點燃狀態。您可使用打火石將其點燃，或使用鏟子將其熄滅。使用「絲綢之觸」採集營火時，將保留其當前狀態。注意：來自其他途徑（例如交易或創造模式）的營火將處於已點燃狀態。\n\n# | 支援版本 |\n目前支援 Minecraft Java ```1.21.4 - 26.2```。\n\n# | 相容性 |\n不適用於任何修改營火掉落表或合成配方的數據包。可於 `items/campfire_unlit` 與 `items/soul_campfire_unlit` 中替換貼圖。\n\n# | 其他創作者資源包 |\n我知道還有其他資源包也提供相同功能，甚至可能使用相同（或極為相似）的貼圖。本模組開發時並未受這些資源包啟發，且僅使用原版功能，避免使用函數。\n<br>\n### 以下是我發現最早提出此概念的兩個數據包：\n[Nice Campfires by NiceRon](https://modrinth.com/datapack/nice-campfires)\n<br>\n[Unlit Campfire Placement by boyonk](https://modrinth.com/datapack/unlit-campfire-placement)\n\n## | Patreon |\n加入 <a href=\"https://patreon.com/Nerd_1023?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\">我的 Patreon</a> 以支持我的專案！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

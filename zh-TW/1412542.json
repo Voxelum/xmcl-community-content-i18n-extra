@@ -1,6 +1,6 @@
 {
-  "bodyHash": "E3Ggc86wF2A=",
-  "content": "<p>此模組為 ToroHealth 的客戶端分支改良版，重新設計以提供更清晰、可靠且資訊豐富的實體生命值變化視覺回饋。</p><h3>包含三種互補的生命值指示器：</h3><ul>\n<li><strong>HUD 指示器</strong> – 可自訂的左上角 HUD 顯示，展示實體的生命條及多項生命值相關細節，供玩家快速精確掌握資訊。</li>\n<li><strong>生命值變化粒子</strong> – 輕量級粒子效果，即時顯示傷害與治療事件的視覺呈現。</li>\n<li><strong>世界內生命條</strong> – 在世界中實體上方顯示的生命條，讓玩家無需轉移視線即可監控敵我雙方的生命值。</li>\n</ul><h3>設定</h3><p><strong>世界內生命條</strong>預設為關閉，若想啟用此功能，可將 inWorldBarVisibilityMode 設定為 WHEN_HOLDING_WEAPON 或 ALWAYS。</p><p>&nbsp;</p><p>與原始 ToroHealth 相比，此分支專注於精緻視覺、改善渲染效能、減少錯誤及更乾淨的內部架構，帶來更流暢的遊戲體驗，並提升與現代 Minecraft 版本的相容性。</p><p>此模組完全為客戶端，無需安裝伺服器端！</p><p><img src=\"https://media.forgecdn.net/attachments/description/1412542/description_9f98631a-5dad-4840-9526-5bf2f163ef1a.png\" alt=\"all_shown\" width=\"720\" height=\"405\"></p>",
+  "bodyHash": "b9c9477bb8e72e2b",
+  "content": "\n\n<p>本模組為 ToroHealth 的客戶端分支與精修版本，經過重新設計，旨在提供更清晰、更可靠且資訊更豐富的視覺回饋，以反映實體生命值的變化。</p>\n<h3>它提供三種互補的生命值指示器：</h3>\n<ul>\n<li><strong>HUD 指標</strong> &ndash; 可自訂的左上角 HUD 顯示區，呈現實體的血條及多項生命值相關細節，讓你一目了然地掌握精確資訊。</li>\n<li><strong>生命值變化粒子特效</strong> &ndash; 輕量級的粒子特效，即時視覺化呈現受傷與治療狀況。</li>\n<li><strong>場景內血條</strong> &ndash; 於遊戲場景中實體上方顯示的血條，讓玩家在專注操作的同時，即可隨時監控敵我血量。</li>\n</ul>\n<h3>設定方式</h3>\n<p><strong>場景內血條</strong> 預設為關閉狀態。若需啟用此功能，請將 inWorldBarVisibilityMode 設為 WHEN_HOLDING_WEAPON 或 ALWAYS。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>相較於原始的 ToroHealth，此分支著重於畫面精細化、渲染效能提升、錯誤修正以及更簡潔的內部架構，進而提供更流暢的遊玩體驗，並與新版 Minecraft 具備更佳的相容性。</p>\n<p>本模組完全為客戶端運作，無需安裝至伺服器！</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1412542/description_9f98631a-5dad-4840-9526-5bf2f163ef1a.png\" alt=\"all_shown\" width=\"720\" height=\"405\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

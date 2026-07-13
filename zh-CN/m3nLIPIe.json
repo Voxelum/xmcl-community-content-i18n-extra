@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ec49285faff73e2",
+  "content": "\n\nSable Vehicular Deforestation 为 Sable 物理装置添加了载具驱动的树木破坏功能。当高速运动的物理载具撞击自然树木时，模组会连根拔起相连的原木及附近的树叶，将其从载具行进路径中清除，并组装成 Sable 物理碎片。这些碎片会在分解为掉落物前进行逼真的翻滚动画。\n\n碎片的分解机制支持自定义配置：每个碎片块每刻（tick）都会进行一次判定以生成掉落物。此外还提供“直接掉落物品”模式，可完全跳过物理碎片阶段，适合配置较低的电脑运行。其他可配置选项包括撞击速度与质量阈值、碎片尺寸、组装速率、树苗重植概率（使得繁忙路线上的树木会随时间缓慢减少），以及车轮射线检测清叶功能。\n\n依赖项：NeoForge 1.21.1 与 Sable。推荐安装 Create（机械动力）以使用游戏内配置界面；服务器端设置也可在 config/tree_overrun_sublevels-server.toml 文件中进行修改。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

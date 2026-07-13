@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qxzoX8mcu4w=",
-  "content": "# ZoomHehe\n\nZoomHehe 是一款由 AdarshHehe 製作的 Fabric 客戶端 Minecraft 縮放模組。它加入了 OptiFine 風格的縮放功能，具備流暢的動畫與高度自訂體驗，讓遊戲畫面更具電影感，並提供更佳視角操控。\n\n## ✨ 功能特色\n- 🔍 使用可自訂按鍵進行縮放（預設為 'C' 鍵）\n- 🎬 流暢的縮放動畫，營造電影般感受\n- ⚡ 多種動態曲線風格：線性、淡入、淡出、淡入淡出、指數\n- 🖱️ 縮放時可調整滑鼠靈敏度\n- 🎚️ 滾輪縮放控制\n- 📷 電影式鏡頭模式\n- 📷 支援原版平滑鏡頭\n- 🔄 切換或按住縮放模式\n- 🎯 自訂最小與最大縮放倍率\n- 🔭 可選望遠鏡覆蓋層\n- 🔊 可選縮放音效\n- ⚙️ 透過 YACL + Mod Menu 完全自訂設定\n\n### 📦 系統需求\n- Minecraft 1.21.11、26.1、26.1.1、26.1.2 或 26.2\n- Java 21+\n- Fabric Loader 0.19.2 或更新版本\n- Fabric API\n- Yet Another Config Lib v3（YACL）\n\n---\n\n*若發現錯誤或遇到問題，請在 Discord 社群中回報。*",
+  "bodyHash": "307c397aff45514d",
+  "content": "\n\n# ZoomHehe\nZoomHehe 是由 AdarshHehe 開發的 Fabric 客戶端 Minecraft 縮放模組。它提供類似 OptiFine 的縮放功能，搭配流暢的動畫與高度可自訂的體驗，讓遊戲畫面更具電影感，並提升觀覽控制性。\n\n## ✨ 特色\n- 🔍 使用可設定按鍵縮放（預設為 'C'）\n- 🎬 流暢的縮放動畫，營造電影般質感\n- ⚡ 多種緩動樣式：線性、淡入、淡出、淡入淡出、指數型\n- 🖱️ 縮放時可調整滑鼠靈敏度\n- 🎚️ 支援滾輪縮放控制\n- 📷 電影模式相機\n- 📷 支援原版流暢相機\n- 🔄 可切換或按住縮放模式\n- 🎯 自訂最小與最大縮放等級\n- 🔭 可選望遠鏡覆蓋層\n- 🔊 可選縮放音效\n- ⚙️ 透過 YACL + Mod Menu 完全可設定\n\n### 📦 需求\n- Minecraft 1.21.11, 26.1, 26.1.1, 26.1.2 或 26.2\n- Java 21+\n- Fabric Loader 0.19.2 或更新版本\n- Fabric API\n- Yet Another Config Lib v3 (YACL)\n\n---\n\n*發現錯誤或有問題嗎？歡迎在 [Discord](https://discord.com/invite/Chqs3fVC93) 告訴我！*",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "TmNyD/lOkZg=",
-  "content": "![Заголовок](https://i.imgur.com/wUICMQE.png)\n\n![](https://imgur.com/A7U3oXE.png)[Присоединяйтесь к моему Discord](https://discord.gg/4tPfwjn) ![](https://imgur.com/m9xyJSE.png) [Поддержите меня на Patreon](https://www.patreon.com/buuz135) ![](https://imgur.com/h0VJ7eQ.png) [Следите за мной в Twitter](https://twitter.com/Buuz135mods)\n\nПростой мод, который позволит сбрасывать пробные сейфы, потребляя другую ключевую вещь (по умолчанию), чтобы вы могли продолжать забирать добычу.\n\nЭтот мод может быть установлен только на сервере, однако при его наличии на клиенте будет отображаться, какие предметы могут сбрасывать сейфы.\n\nВы можете изменить, какие предметы могут сбрасывать сейфы, отредактировав тег предмета `repeatable_trial_vaults:can_reset_trial_vaults`.",
+  "bodyHash": "8a70b3c3f5eea7d7",
+  "content": "\n\n![Заголовок](https://i.imgur.com/wUICMQE.png)\n\n![](https://imgur.com/A7U3oXE.png)[Присоединяйтесь к моему Discord](https://discord.gg/4tPfwjn)  ![](https://imgur.com/m9xyJSE.png) [Поддержать меня на Patreon](https://www.patreon.com/buuz135)  ![](https://imgur.com/h0VJ7eQ.png) [Подписаться на мой Twitter](https://twitter.com/Buuz135mods)\n\nПростой мод, который позволяет сбросить испытательные хранилища, расходуя другой ключ (по умолчанию), чтобы вы могли продолжать получать награды.\n\nЭтот мод может работать только на стороне сервера, однако наличие его на клиенте позволит отображать предметы, способные сбросить хранилище.\n\nВы можете настроить список предметов, сбрасывающих хранилища, отредактировав тег предмета `repeatable_trial_vaults:can_reset_trial_vaults`.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5febdc1bb18dbf0",
+  "content": "\n\n<p style=\"text-align:center\">В моде <strong>Artifacts</strong> при отрисовке руки от первого лица ArmRenderHandler проверяет, надеты ли на вас какие-либо артефакты-перчатки (которые отображают косметику на ваших руках. Рендерер может попытаться найти индекс слота, которого ещё нет в списке. Что, как вы догадываетесь... приводит к крашу!<br><br>Отделено от <span style=\"text-decoration:underline\">Linggango Tweaks</span><br>пользуйтесь на здоровье!</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

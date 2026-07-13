@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b74db056064eb476",
+  "content": "\n\nЭто библиотека для модов, написанных на [Scala](https://www.scala-lang.org/).\n\nБиблиотека Forge включала среду выполнения Scala вплоть до версии 1.12, но она была удалена в 1.13.\n\nДанная библиотека содержит среду выполнения Scala и Cats — библиотеку для функционального программирования.\n* Scala(https://www.scala-lang.org/) распространяется под лицензией Apache версии 2.0. (https://www.scala-lang.org/license/)\n* Cats(https://typelevel.org/cats/) распространяется под лицензией MIT(https://github.com/typelevel/cats/blob/master/COPYING).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

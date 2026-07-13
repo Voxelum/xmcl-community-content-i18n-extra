@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dqtPgW4u3xw=",
-  "content": "<p>Иногда в игре вы можете столкнуться с сущностями, которые имитируют смерть, имея здоровье NaN (Not a number).</p><p>Этот мод попытается убить поддельно мёртвую сущность и не позволит ни одной сущности пострадать от атаки с нанометрическим количеством здоровья.</p><p>Присоединяйтесь к нашему дискорду: <a href=\"https://discord.gg/g8q3UHTpCP\" rel=\"nofollow\">https://discord.gg/g8q3UHTpCP</a>!</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252fkasualix\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/75401fe6-76e7-471c-89e5-1edd37a950ad.webp\" alt=\"изображение\"></a></p>",
+  "bodyHash": "22fc2e818c0c6a16",
+  "content": "\n\n<p>Иногда в игре можно встретить сущности, которые притворяются мёртвыми, имея показатель здоровья NaN (не число).</p>\n<p>Этот мод будет пытаться уничтожить такую «мёртвую» сущность и не позволит ни одной сущности получить урон от атаки с показателем здоровья NaN.</p>\n<p>Присоединяйтесь к нашему Discord: <a href=\"https://discord.gg/g8q3UHTpCP\" rel=\"nofollow\">https://discord.gg/g8q3UHTpCP</a>!</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252fkasualix\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/75401fe6-76e7-471c-89e5-1edd37a950ad.webp\" alt=\"image\"></a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

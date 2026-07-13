@@ -1,0 +1,6 @@
+{
+  "bodyHash": "16048c759cd948fd",
+  "content": "\n\n<h1>Перемещение субтитров</h1>\n<p>Мод для Minecraft, позволяющий перемещать субтитры в любое место на экране.</p>\n<h2>Установка</h2>\n<p>Этот мод разработан для Minecraft &gt;= 1.20.4</p>\n<h2>Настройка</h2>\n<p>Файл конфигурации (создаётся при первом запуске) содержит ключ «edge», который можно установить в одно из следующих значений: <code>TOP_LEFT</code>, <code>TOP</code>, <code>TOP_RIGHT</code>, <code>LEFT</code>, <code>RIGHT</code>, <code>BOTTOM_LEFT</code>, <code>BOTTOM</code>, <code>BOTTOM_RIGHT</code>.\nВы можете использовать значения <code>deltaX</code> и <code>deltaY</code> для ручной корректировки положения относительно выбранного края.</p>\n<h2>Совместимость с модами</h2>\n<p>Должен быть совместим с любыми другими модами. Рекомендую <a href=\"https://www.curseforge.com/minecraft/mc-mods/toggle-subtitles\" rel=\"nofollow\">Toggle Subtitles</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/colorful-subtitles\" rel=\"nofollow\">Colorful Subtitles</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

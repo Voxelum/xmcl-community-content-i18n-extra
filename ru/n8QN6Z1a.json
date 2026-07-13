@@ -1,6 +1,6 @@
 {
-  "bodyHash": "BQr8CLi+t04=",
-  "content": "# API пакетов\n\nAPI пакетов позволяет авторам модов легко добавлять пакеты, которые могут содержать более 1 стека предметов, заданных по тегу предмета.\n\nОзнакомьтесь с [README](https://github.com/TheRedBrain/bundle-api/blob/1.21.1/README.md), чтобы узнать о том, как использовать эту API.",
+  "bodyHash": "4f8341c21b236511",
+  "content": "\n\n# API Bundle\n\nAPI Bundle позволяет авторам модов легко добавлять пучки, способные хранить более одной стопки предметов, указанных в теге предметов.\n\nПодробную информацию об использовании этого API см. в [Readme](https://github.com/TheRedBrain/bundle-api/blob/1.21.1/README.md).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

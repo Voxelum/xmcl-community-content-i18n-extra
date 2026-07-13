@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77507dadca469491",
+  "content": "\n\n# 关于此数据包\n\n此数据包允许你在工作台中使用 4 个砖块和 1 个陶片进行复制。衷心感谢 Discord 上的 ArchaeoPlays，他的想法启发了一套机制，旨在还原考古学家在现实中尝试复原所发现陶片时所面临的挑战。\n\n# 其他数据包\n\n这是我编写的一系列数据包之一，旨在帮助使 Minecraft 中的不可再生资源变为可再生，同时提升玩家的合成体验。它们支持单独获取，方便每位玩家按需整合。请查看以下列表：\n\n- [平衡铜切割](https://modrinth.com/datapack/balanced-copper-cutting)\n- [CJ 的平衡伐木机](https://modrinth.com/datapack/cjs-balanced-wodcutter)\n- [重核复制](https://modrinth.com/datapack/heavy-core-duplication)\n\n有需求？请在 Discord 上告诉我！\n\n# 常见问题\n\n\n### 我能获取快照版的吗？\n可以！我通常不会在线上发布快照版本，但如果你希望为特定快照制作或维护此数据包/模组，请加入 Discord 并告知我！\n\n### 为什么 JEI 是 Fabric 加载器版本的可选依赖项，我可以使用其他的物品查看器吗？\n\n默认情况下，模组配方不会录入配方书，因此不会显示。JEI 允许这些配方在可视化的用户界面中查看。你可以将 JEI 替换为你偏好的任何配方查看器。\n\n# 加入 Root 社区\n\n若要报告错误、提出建议以及跟进新的数据包和模组开发，请加入我们的 [Root 社区](https://rootapp.gg/AC2j8mo1jgqeyZuytuRzfA)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

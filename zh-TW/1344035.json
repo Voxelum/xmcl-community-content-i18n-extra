@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1da01469b6555600",
+  "content": "\n\n<p>為 KubeJS 新增 CSV（逗號分隔值）的解析、讀取與寫入支援。此模組對一般使用者（玩家）不提供任何功能。</p>\n<p>CSV 檔案在專業遊戲開發中相當常見，若您需要進行大量修改，使用 CSV 通常比為每個項目單獨編寫 KubeJS 腳本更為高效（例如：需要新增大量新方塊或物品時）。</p>\n<p>此模組之所以必要，是因為 KubeJS 禁止存取 java.io/nio，僅允許讀取 JSON 格式的檔案。若無此模組，KubeJS 腳本作者將無法撰寫讀取 CSV 的腳本，除非使用不正當的黑魔法來突破 KubeJS 的 IO 限制。</p>\n<p>請參閱<a href=\"https://github.com/ChloePrime/KubeJS-CSV/blob/master/src/main/resources/docs/usage.md\" target=\"_blank\" rel=\"nofollow\">使用說明文件</a>以獲取範例用法。</p>\n<p>若上述平台已移植 KubeJS，則適用於 MC 1.21.1 以上版本的此模組在 Forge/Fabric 上也應可正常運作。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

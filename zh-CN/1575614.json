@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9d69295d3e6ecf92",
+  "content": "\n\n<h1>Sable No Collision</h1>\n<h3>英文 | Eng</h3>\n<p>该模组增加了穿透子层级和世界的能力（类似穿墙模式/noclip），并允许在子层级上放置方块，即使该子层级被其他子层级或世界重叠。共有两个指令：</p>\n<ol>\n<li>/snc noclip &lt;true|false&gt; - 允许穿透世界和子层级。</li>\n<li>/snc block_place &lt;true|false&gt; - 允许在子层级上放置方块，即使它被其他子层级或世界重叠。</li>\n<li>按下“X”键可激活速度调节滑块。</li>\n</ol>\n<p>此功能也可通过配置文件或键盘按键进行激活（默认未绑定按键，类别为“Sable NC”）。</p>\n<h3>俄文 | Ru</h3>\n<p>该模组增加了穿透子层级和世界的能力（类似noclip），并允许在子层级上放置方块，即使它被其他子层级或世界遮挡。共有两个指令：</p>\n<ol>\n<li>/snc noclip &lt;true|false&gt; - 允许穿透世界和子层级。</li>\n<li>/snc block_place &lt;true|false&gt; - 允许在子层级上放置方块，即使它被其他子层级或世界遮挡。</li>\n<li>按下“X”键可激活速度调节滑块。</li>\n</ol>\n<p>此功能也可通过配置文件或键盘按键进行激活（默认未分配按键，类别为“Sable NC”）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "meLX1uBOVyo=",
-  "content": "# 玩家动画库  \n## 使用关键帧为玩家制作动画。\n\n对于用户/整合包开发者，只需将jar文件放入mods文件夹即可。\n\n对于模组开发者，你可以在这里找到更多详细信息 [KosmX/PlayerAnimator](https://github.com/KosmX/fabricPlayerAnimation)\n\n它可能会使用 [bendy-lib](https://modrinth.com/mod/bendy-lib) 来实现更出色的动画效果。",
+  "bodyHash": "a177ba30a7a5137c",
+  "content": "\n\n# 玩家动画库，  \n## 使用关键帧实现玩家动画。\n\n\n对于普通用户/整合包开发者，只需将 jar 文件放入 mods 文件夹即可。  \n\n对于模组开发者，更多详细信息请参见[此处 - KosmX/PlayerAnimator](https://github.com/KosmX/fabricPlayerAnimation)  \n\n它可能会使用 [bendy-lib](https://modrinth.com/mod/bendy-lib) 来实现更出色的动画效果。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd8ec65e448e7340",
+  "content": "\n\n# 演示\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BY0mpSpLVVU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n# 简介\n> Litematica Inventory Highlight 是一款面向 Litematica 的客户端插件，通过快捷键（默认为 M+O）高亮显示所有缺失的方块，依据是你背包中现有的方块（不计算潜影盒内的物品）。\n> \n> 该模组的高亮方式与内置的“图纸验证”一致，仿佛你正在手动逐个选择每个方块及其所有状态。\n\n## 使用方法：\n1. 在 Litematica 中启动图纸验证（默认 M+V），并等待检查完成。\n2. 将你想要放置的方块放入你的背包。\n3. 按下 M+O（默认键位）。此时，你背包中存在的所有方块都将被高亮显示，无论其数量多少。\n\n## 依赖项：\n- Litematica\n- MaLiLib\n- Mod Menu（用于打开配置界面）\n\n## 配置\n通过 Mod Menu → Litematica Inventory Highlight → Config 打开。\n\n### 常规选项卡\ncheckMissingBlocks（默认：true）\n检查并高亮缺失的方块\n\ncheckWrongBlocks（默认：true）\n检查并高亮错误的方块\n\ncheckWrongStates（默认：false）\n检查并高亮方块状态错误的方块\n\ncheckExtraBlocks（默认：false）\n检查并高亮多余的方块\n\n### 快捷键选项卡\nhighlightInventoryBlocks（默认：M+O）\n高亮图纸中的方块",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

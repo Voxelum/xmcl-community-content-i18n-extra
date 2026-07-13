@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fabad3c9e5637b96",
+  "content": "\n\n<h1 style=\"text-align:center\"><span style=\"color:#169179\"><strong>Как это работает:</strong></span></h1>\n<h2><span style=\"color:#2dc26b\">Это лёгкий технический мод. При выборе огнестрельного оружия в инвентаре вид автоматически переключается от первого лица. Вы можете использовать команды для включения или отключения этой функции на клиенте.</span></h2>\n<h1 style=\"text-align:center\"><span style=\"color:#169179\"><strong>Команда</strong>:</span></h1>\n<p><span style=\"color:#2dc26b\">/tf - Проверить текущий статус (действие по умолчанию)<br><br>/tf toggle - Включить или отключить функцию<br><br>/tf status - Проверить статус функции<br><br>/tf help - Просмотр справки<br></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

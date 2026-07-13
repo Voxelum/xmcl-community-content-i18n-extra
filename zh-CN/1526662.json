@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f916967ddd9af98d",
+  "content": "\n\n<p>这是为 Create Aeronautics 制作的附加模组，包含我认为主模缺少的一些方块和物品。我打算在有空的时候不定期更新新内容。</p>\n<h3>新增方块与物品：</h3>\n<ul>\n<li><span style=\"color:#fff\"><strong>航空区块加载器：</strong></span>  当放置在 Sable 子层级上时，该方块会保持它及周围区块的加载状态。它会根据飞艇的大小动态计算并调整加载区块的“气泡”范围。若放置在 Sable 子层级之外则无任何作用。不建议在高速飞行器上使用，因为其加载速度可能跟不上移动速度而导致失效。</li>\n</ul>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_c5f0508f-2060-4627-84f1-c13ceb8d3947.png\" alt=\"image\"></p>\n<ul>\n<li><span style=\"color:#fff\"><strong>玩家指南针：</strong></span> 一种可由玩家使用并绑定的指南针。绑定后，指南针将指向该玩家的位置；若玩家离线，则指向其最后已知位置。与航空导航台兼容。</li>\n<li><span style=\"color:#fff\"><strong>定向指南针：</strong></span> 一种打开界面供玩家选择指定航向的指南针。指南针将始终指向所选方向。与航空导航台兼容。</li>\n</ul>\n<p>未来计划添加的内容：</p>\n<ul>\n<li>可传递旋转动力的链环与绞盘</li>\n<li>绳索/链条快速连接/释放接头</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

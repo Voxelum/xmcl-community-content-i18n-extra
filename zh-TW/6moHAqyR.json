@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de97ba11ee439b85",
+  "content": "\n\n這個數據包讓你擁有和 Dream 一樣的好運！ \n\n[目前為 Beta 測試版]\n\n\n<details>\n<summary>它實際上有什麼用？</summary>\n\n這個數據包會修改豬布林鑄幣的掉落表，使其必定掉落末影珍珠。 \n\n完整 JSON 設定檔：\n\n```\n{\n  \"pools\": [\n    {\n      \"rolls\": 1,\n      \"entries\": [\n        {\n          \"type\": \"minecraft:item\",\n          \"name\": \"minecraft:ender_pearl\",\n          \"weight\": 100,\n          \"quality\": 2,\n          \"conditions\": []\n        }\n      ]\n    }\n  ],\n  \"functions\": []\n}\n```\n\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

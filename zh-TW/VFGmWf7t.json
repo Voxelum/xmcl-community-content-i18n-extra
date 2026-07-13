@@ -1,0 +1,6 @@
+{
+  "bodyHash": "32b347158e1e18d1",
+  "content": "\n\n# TwilightForest 執行緒安全外掛程式（適用於 1.20.1 Forge）\n\n此模組為 ishlandmc 所開發之 TwilightForest 執行緒安全外掛程式的非官方分支。\n\n它透過將暮色森林的區塊生成過程轉為執行緒安全並提升效能，使 [C2MEF](https://modrinth.com/mod/c2mef) 或 [C2ME](https://modrinth.com/mod/c2me-fabric) + [Connector](https://modrinth.com/mod/connector)（C2ME 搭配 Connector 尚未經完整測試）得以在 Forge 1.20.1 上與暮色森林順利運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

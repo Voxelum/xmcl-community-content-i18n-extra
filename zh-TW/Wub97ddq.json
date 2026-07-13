@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e5a8b0c37de223ad",
+  "content": "\n\nPatchy 128x 是一款高解析度材質包，在提升《我的世界》體驗的同時，保留了其經典風格。標準材質包中的每個像素都會對應一個 8x8 的方塊，打造出獨特的拼布風格設計。\n\n很抱歉大家，我好久沒更新 Modrinth 了 :( 自上次發布以來這裡進行了大量變更。包含許多修復與顯著的效能提升。已移除 3D 礦石，因為其模型會導致記憶體用量異常飆升。 \n\nV95.2 - 26.2 更新。 \n\n方塊\n- 懸掛告示牌已完成\n- 雕紋方塊已更新\n- 朱砂與硫磺方塊已完成\n- 新增日光探測器\n- 新增重核\n- 新增蜂蜜方塊\n- 新增留聲機\n- 巨藻 HQX32\n- 新增磁石\n- 泥磚質感變柔和\n- 新增拋光方塊\n- 小型垂滴葉 HQX32\n- 新增潛影盒\n物品\n- 所有桶子改為金屬材質\n- 所有工具與武器改為金屬材質\n- 原礦改為金屬材質\n\n主要特色\n\nPOM 3D 立體貼圖：所有方塊的主要表面均經過手工打造的 3D 效果，呈現真正的立體深度。\n鏡面貼圖（Specular Mapping）：不同材質具有真實的反光程度，以模擬現實世界的表面。\n支援 IRIS 自發光：內含大量發光方塊，營造動態環境。\n光影相容性：針對頂級光影模組進行最佳化，完美相容。\n動態礦石：具備獨特的閃爍動畫效果。\nHQX 物品：物品放大至 2 倍，呈現更流暢的外觀。\n\n截圖中的 Euphoria 設定與我的遊玩配置：\n設定檔：Popular\nRP 支援：LabPBR\nMaterials\\Integrated\\Glowing Ores\\Glowing Ores：關閉\nMaterials\\Integrated\\Other IPR\\IPBR Emissive mode：LabPBR > IPBR+\nMaterials\\labPBR\\POM Depth：0.40\nMaterials\\labPBR\\POM on Cutout Surfaces：開啟\n\n![HQX 放大物品與 PBR 方塊及礦石](https://cdn.modrinth.com/data/cached_images/11e30d6e8a118ccddcb550f7ae398e4535c3620b_0.webp)\n\n![暗窟中的 3D 閃爍礦石](https://cdn.modrinth.com/data/cached_images/78d81e4d7b5fa2456bfc95afbac17aa9b6d61dd4_0.webp)\n\n![PBR 風格的主體 Minecraft 方塊](https://cdn.modrinth.com/data/cached_images/55dd1d34991348799f41b5514489fb434bed15a3_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ddf220a69b12579",
+  "content": "\n\n# Sable No Collision\n\n<details>\n<summary>中文 | Zh-CN</summary>\n\n该模组添加了穿透子层级和主世界的能力（类似 noclip 模式），并允许在被其他子层级或主世界覆盖的子层级上放置方块。主要包含以下命令：\n1. /snc noclip <true|false> - 允许穿透主世界和子层级。\n2. /snc block_place <true|false> - 允许在被其他子层级或主世界覆盖的子层级上放置方块。\n3. 按下“X”键可激活速度调节滑块。\n\n此外，你还可以通过配置文件或键盘按键启用相关功能（默认未绑定按键，分类为“Sable NC”）。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

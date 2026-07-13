@@ -1,6 +1,6 @@
 {
-  "bodyHash": "A2sFWB8UO5k=",
-  "content": "# BoccHUD\n\nMiniHUD 的非官方 Forge 移植版。一款客户端模组，可在屏幕上显示各种“信息行”（即“迷你F3”）。信息对齐（屏幕角落）、背景颜色、文字颜色及字体大小均可自由配置。\n\n（BoccHUD = Bocchi（《孤独摇滚！》女主角）+ HUD）",
+  "bodyHash": "ec1d04d51639c0bb",
+  "content": "\n\n# BoccHUD\nMiniHUD 的非官方 Forge 移植版。这是一款客户端模组，允许在屏幕上显示各种“信息行”（即“迷你 F3”）。其对齐位置（屏幕角落）、背景与文字颜色以及字体大小均可自定义配置。\n\n（BoccHUD = Bocchi（《孤独摇滚！》女主角）+ HUD）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "rOjgLr55Fw0=",
-  "content": "# WayGL\n\n**厌倦了那些因为使用 Wayland 而不断出现的烦人 X11/Xorg 错误吗？别担心，我这里有完美的解决方案。**\n\nWayGL 会强制 GLFW 在支持的平台上（使用 Wayland 显示服务器的 Linux）创建一个 Wayland 窗口 ~~（代价是牺牲你的窗口图标）~~ （现在已经不再需要牺牲图标了！！！）。\n\nWayGL 利用运行时 GLFW 平台切换功能，如果你使用的是支持的平台，GLFW 将会被设置为使用 Wayland。这样，你就不必为专门编译支持 Wayland 的 GLFW 而烦恼了。\n\n向那些 Xwayland 的错误/兼容性问题说再见吧！\n\n## 1.17.x - 1.18.x - 1.19.x 支持已在 LWJGL 3.3.2 上测试通过，其他版本不保证兼容性\nLWJGL 版本可以在 Prism 启动器的实例设置中更改。\n- 实例 > 编辑 > 版本 > LWJGL 3 > 更改版本 > 3.3.2 > 确定\n\n### ***图标由 [moehreag](https://github.com/moehreag) 提供***",
+  "bodyHash": "232b08bca17aef56",
+  "content": "\n\n# WayGL\n\n**受够了因为使用 Wayland 而不断出现的烦人 X11/Xorg 错误了吗？别担心，我有完美的解决方案。**\n\nWayGL 会在支持的系统（使用 Wayland 显示服务器的 Linux）上强制 GLFW 创建 Wayland 窗口 ~~（代价是牺牲你的窗口图标）~~（不再需要牺牲你的图标了！！！）。\n\nWayGL 利用了运行时的 GLFW 平台切换功能。如果你在支持的平台上，GLFW 将被设置为使用 Wayland。这样，你就不必担心专门为 Wayland 编译 GLFW 了。\n\n向这些 Xwayland 错误和兼容性问题说再见吧！\n\n## 1.17.x - 1.18.x - 1.19.x 支持 | 基于 LWJGL 3.3.2 测试，其他版本不保证兼容性\n可以在 Prism Launcher 的实例设置中更改 LWJGL 版本：\n- 实例 > 编辑 > 版本 > LWJGL 3 > 更改版本 > 3.3.2 > 确定\n\n### ***图标由 [moehreag](https://github.com/moehreag) 提供***",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

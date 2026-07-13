@@ -1,6 +1,6 @@
 {
-  "bodyHash": "VRoQb5Ya/wU=",
-  "content": "![Simply Tooltips 標題圖](https://i.imgur.com/1wx26i0.gif)\n\n**注意：** 預設情況下，Simply Tooltips 只會對擁有有效 Simply Tooltips 主題檔案的模組物品（如 Simply Swords 和 Simply Bows）顯示提示框。\n\n- 若要為所有 **模組物品** 啟用提示框，請在設定中啟用 'applyTooltipsToModItems'。\n- 若要為 **原版物品** 啟用提示框，請在設定中啟用 'applyTooltipsToVanillaItems'。\n\n\n### 建立自訂主題\nSimply Tooltips 允許您建立自己的提示框主題，並將其套用至遊戲中的任何物品（模組或原版）。這完全是資料驅動的，可透過資源包套用這些主題。\n\n有關如何建立及分配這些主題的資訊，請參閱 [GitHub 頁面](https://github.com/Sweenus/simplytooltips)。\n\n\n### 其他功能\nSimply Tooltips 允許您按下快捷鍵（預設為 'H'）來生成螢幕上任一提示框的 GIF 動畫。這會將提示框的簡短 GIF 儲存至螢幕截圖資料夾，便於展示您的自訂主題。",
+  "bodyHash": "50a784179b64d291",
+  "content": "\n\n![Simply Tooltips 標頭圖片](https://i.imgur.com/1wx26i0.gif)\n\n**注意：** 預設情況下，Simply Tooltips 僅會為已建立有效 Simply Tooltip 主題檔案的模組物品顯示提示資訊（例如 Simply Swords 與 Simply Bows）。\n\n- 若要為所有__模組物品__啟用提示資訊，請在設定檔中啟用 'applyTooltipsToModItems'。\n- 若要為__原版物品__啟用提示資訊，請在設定檔中啟用 'applyTooltipsToVanillaItems'。\n\n\n### 建立自訂主題\nSimply Tooltips 允許您建立專屬的提示資訊主題，並將其套用到遊戲中的任何物品（無論為模組或原版）。此功能完全由資料驅動，因此可透過資源包來套用這些主題。\n\n關於如何建立與指派這些主題的詳細資訊，請參閱 [GitHub 頁面](https://github.com/Sweenus/simplytooltips)。\n\n\n### 其他\nSimply Tooltips 提供快捷鍵功能（預設為 'H'），按下即可為畫面上顯示的任何提示資訊產生 GIF。此功能會將提示資訊的短 GIF 儲存至截圖資料夾，非常適合用於展示您的自訂主題。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0bf57e29e9516f43",
+  "content": "\n\n透過改變顏色來顯示下界合金盔甲的耐久度。\n\n此資源包根據盔甲的耐久度提供 11 種不同的顏色。\n\n當盔甲耐久度從 100% 降至 20% 時，每損失 10% 耐久度就會更換一次顏色；\n\n而耐久度低於 20% 後，則每損失 5% 耐久度更換一次顏色。\n\n**此資源包需要 OptiFine；舊版本請使用 [CitResewn](https://modrinth.com/mod/cit-resewn)，最新 Minecraft 版本的 Fabric 模組請使用 [Variants-Cit](https://modrinth.com/mod/variants-cit)**。![此資源包透過改變顏色來展示盔甲耐久度](https://cdn.modrinth.com/data/cached_images/9dfb6b42f0d6ea06faf9b71b291b16ef82a588c5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

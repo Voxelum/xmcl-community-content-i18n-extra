@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4cd26327240eea47",
+  "content": "\n\n# Анимация покачивания манекенов\n\nДанный мод добавляет поддержку анимации покачивания рук для манекенов. Он не добавляет новых способов вызвать анимацию покачивания, таких как команда `/swing` из снапшотов 26.1.\n\n## Технические детали\n\nУ `LivingEntity` есть метод `updateSwingTime`, который необходимо вызывать как на клиенте, так и на сервере, чтобы разрешить сущности махать руками. Однако он используется только игроками (`Player`) и монстрами. Данный мод добавляет вызов в функцию `aiStep` манекенов с использованием техники подмиксинов.\n\n```java\n@Mixin(LivingEntity.class)\npublic class LivingEntityMixin {\n\t@Shadow\n\tprotected void updateSwingTime() {};\n\n\t@WrapMethod(method = \"aiStep\")\n\tpublic void overrideAiStep(Operation<Void> original) {\n\t\toriginal.call();\n\t}\n}\n\n@Mixin(Mannequin.class)\npublic class MannequinSubMixin extends LivingEntityMixin {\n\t@Override\n\tpublic void overrideAiStep(Operation<Void> original) {\n\t\tsuper.overrideAiStep(original);\n\t\tupdateSwingTime();\n\t}\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

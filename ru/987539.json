@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2cbCOir13l4=",
-  "content": "<h1 style=\"text-align:center\">Пепел греха: Битва с боссом, похожим на душу</h1><p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/987539/description_4b421f9d-f931-47db-9758-22aca4fea469.png\"></p><p>Файл конфигурации создается в директории <code>config\\ash_of_sin.</code></p><p>Имя файла конфигурации — soul_like_boss_battle.toml.</p><p>После добавления сущностей в файл конфигурации их сущности удаляют все эффекты (БУФФы и ДЕБАФЫ) и восстанавливают здоровье до максимального уровня, когда все окружающие их игроки будут повержены.</p><p>Предотвращение атаки Железного Голема на механизм босса.</p>",
+  "bodyHash": "01fa18d62b90440f",
+  "content": "\n\n<h1 style=\"text-align:center\">Ash Of Sin: Битва с боссом в стиле Souls-like</h1>\n<p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/987539/description_4b421f9d-f931-47db-9758-22aca4fea469.png\"></p>\n<p>Файл конфигурации создаётся в каталоге&nbsp;<code>config\\ash_of_sin</code>.</p>\n<p>Имя файла конфигурации — soul_like_boss_battle.toml.</p>\n<p>После добавления сущностей в файл конфигурации, они будут снимать все эффекты(БАФФ и ДЕБАФФ) и восстанавливать здоровье до максимума, когда все окружающие их игроки будут побеждены.</p>\n<p>Механизм предотвращения атаки Железного голема на босса.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

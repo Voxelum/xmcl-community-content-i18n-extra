@@ -1,6 +1,6 @@
 {
-  "bodyHash": "vedD7EEukCc=",
-  "content": "这是一个用于Minecraft的轻量级低开销LoD模组，能够渲染极远距离的视野（适用于支持OpenGL 4.6的系统）。\n\n利用LoD技术实现远距离渲染。\n\n在你探索的过程中，地形会被逐步转换为LoD。\n\n自0.2.4版本起引入了着色器支持，但要使着色器正常工作，需要着色器显式添加对Voxy的支持。\n\n提供导入指令，可导入已有的世界：\n`/voxy import world \"<世界名称>\"`\n\n![HermitCraft S9 512RD](https://cdn.modrinth.com/data/cached_images/480a6c99db0149653a13152e5247216b771f9ead.jpeg)\n\n（由devin创作、moonkey修改的图标）\n\n欢迎将本模组包含于整合包中，前提是需将模组链接指向本页面，且所使用的版本可在此Modrinth模组页面获取（即请勿使用或包含非官方移植版或版本）。\n\n![ ](https://cdn.modrinth.com/data/cached_images/071b0da4b0956d18fe61c0d1c37f3a92dc3a3f0a.webp)",
+  "bodyHash": "8660711081fadad6",
+  "content": "\n\n一款轻量级、低开销的 Minecraft LoD（细节等级）模组，支持渲染极远的渲染距离（需系统支持 OpenGL 4.6）。\n\n利用 LoD 技术实现远距离渲染。\n\n在探索过程中，地形将自动转换为 LoD 模型。\n\n着色器支持自 0.2.4 版本起引入，但着色器需显式添加对 Voxy 的支持方可正常工作。\n\n可使用以下命令导入已有世界：\n`/voxy import world \"<world name>\"`\n\n![HermitCraft S9 512RD](https://cdn.modrinth.com/data/cached_images/480a6c99db0149653a13152e5247216b771f9ead.jpeg)\n\n（Logo 由 Devin 制作，Moonkey 修改）\n\n欢迎自由将本模组加入整合包，前提是需链接回此页面，且所使用的版本须在此 Modrinth 模组页面上提供。（即请勿使用或包含非官方移植版或旧版本）\n\n![ ](https://cdn.modrinth.com/data/cached_images/071b0da4b0956d18fe61c0d1c37f3a92dc3a3f0a.webp)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

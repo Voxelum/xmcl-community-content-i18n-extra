@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5402736c4087e003",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/0o0rruV.png\" alt=\"\"></p>\n<h1>BanHammer</h1>\n<p>Простой настраиваемый мод для наказаний на Fabric. Позволяет модераторам навсегда или временно банить, мутить или кикать игроков.\nПоддерживает <a href=\"https://github.com/lucko/fabric-permissions-api\" rel=\"nofollow\">Fabric Permissions API</a>, используемый в LuckPerms и PlayerRoles.</p>\n<p>Все сообщения для пользователей настраиваются с поддержкой <a href=\"https://github.com/Patbox/FabricPlaceholderAPI/blob/1.17/TEXT_FORMATTING.md\" rel=\"nofollow\">расширенного форматирования</a></p>\n<p>Встроена поддержка баз данных SQLite и MySQL.</p>\n<h2>Команды и права доступа</h2>\n<p><a href=\"https://github.com/Patbox/BanHammer\" rel=\"nofollow\">Список команд и прав доступа см. на странице проекта на GitHub!</a>\n<a href=\"/linkout?remoteUrl=https%253a%252f%252fpb4.eu%252fdiscord\" rel=\"nofollow\">Если у вас возникнут вопросы, вы можете задать их в моем Discord</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

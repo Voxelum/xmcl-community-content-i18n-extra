@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7d5c33b9b8418d92",
+  "content": "<p><img src=\"https://imgur.com/TWLUjTG.png\" alt=\"\"></p>\n<p>Veil 是一套精巧的工具與實用程式集合，旨在為 Minecraft 模組開發者促進高級渲染。我們的目標是在 Java Minecraft 中實現更現代化的遊戲引擎級內容，推動模組製作可能性的邊界。</p>\n<h2>關於 Veil：</h2>\n<ul>\n<li><strong>色彩管理</strong>：管理色彩並配合主題使用。</li>\n<li><strong>緩動函數</strong>：應用緩動函數以實現更自然的動作效果。</li>\n<li><strong>框架緩衝區</strong>：基於 JSON 的自訂框架緩衝區。</li>\n<li><strong>後處理</strong>：具有簡易紋理綁定功能的自訂後處理管線。</li>\n<li><strong>着色器</strong>：全面支援所有 OpenGL 着色器類型，未來可能新增 HLSL 和 Spir-V 支援。</li>\n<li><strong>着色器修改</strong>：注入並修改現有的着色器以滿足您的需求。</li>\n<li><strong> Necromancer（死靈法師）</strong>：基於骨骼的動畫模型，支援獨立的實體骨架和模型。</li>\n</ul>\n<h2>連結：</h2>\n<p>在開發者維基了解更多：<a href=\"https://github.com/FoundryMC/Veil/wiki\" rel=\"nofollow\">Veil 維基</a></p>\n<p>探索我們的範例模組：<a href=\"\" rel=\"nofollow\">範例模組</a></p>\n<p>加入我們的 Discord：<a href=\"https://discord.gg/2aqTX9QWKU\" rel=\"nofollow\">Foundry Discord</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

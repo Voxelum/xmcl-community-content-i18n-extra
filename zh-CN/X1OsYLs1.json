@@ -1,0 +1,6 @@
+{
+  "bodyHash": "458c3d26d715012a",
+  "content": "\n\n<a href='https://ko-fi.com/X8X71FI3YO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/SQ5ZLKg5/support-me-on-kofi-beige.png' border='0' alt='在 ko-fi.com 上请我喝咖啡' /></a>\n\n## 简介\n该模组将 Java 版的快捷栏偏移量调整为与基岩版一致，并允许自定义偏移量。\n\n![预览](https://cdn.modrinth.com/data/X1OsYLs1/images/fcdc8b39c206e259ad4dfbdcd968cdbcdc05391b.jpeg)\n\n## 使用方法\n目前，安装 Fabric 版的 Cloth Config 和 ModMenu 后，模组会提供一个设置菜单。在设置窗口中，你可以调整快捷栏的偏移量；你也可以通过修改配置文件中的数值来实现同样的效果。自 1.1 版本起，模组渲染了选中物品纹理的底部（该功能在 Minecraft 1.20.2 版本中被移除），因此可以与更改快捷栏外观的资源包兼容使用。\n\n## 兼容性\n[AppleSkin](https://modrinth.com/project/EsAfCjCV)：生命值与饱和度 HUD 与快捷栏联动",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

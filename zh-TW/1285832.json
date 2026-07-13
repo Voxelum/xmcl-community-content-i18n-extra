@@ -1,6 +1,6 @@
 {
-  "bodyHash": "B7NDYxk7mg0=",
-  "content": "<p>此模組是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire\" rel=\"nofollow\">Why Am I on Fire? - Minecraft Mods - CurseForge</a> 的非官方 Forge/NeoForge 移植版本。</p><p>它會在不需要時隱藏阻礙視線的火焰疊加層（創造模式或擁有抗火效果時）。然而，當抗火效果剩餘時間少於10秒，或玩家在抗火效果期間手持牛奶桶時，火焰疊加層會重新出現並閃爍以警告玩家。</p><p>建議在客戶端與伺服器端同時安裝以獲得最佳體驗。</p>",
+  "bodyHash": "31fea8dd83691b98",
+  "content": "\n\n<p>本模組為 <a href=\"https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire\" rel=\"nofollow\">Why Am I on Fire? - Minecraft Mods - CurseForge</a> 的非官方 Forge/NeoForge 移植版本。</p>\n<p>它會在不需要時隱藏阻擋視線的火焰遮罩（例如處於創造模式或擁有火焰抗性時）。然而&nbsp;若火焰抗性效果剩餘時間不足 10 秒，或是玩家在擁有火焰抗性效果時手持牛奶桶，火焰遮罩將會重新出現並閃爍以警告玩家。</p>\n<p>建議同時在客戶端與伺服器端安裝，以獲得最佳遊戲體驗。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

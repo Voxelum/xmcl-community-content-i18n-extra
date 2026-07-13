@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1bad62d8d90ed40",
+  "content": "\n\n<p><img src=\"https://github.com/404Setup/VanillaRPKeeper/blob/1.21.8/common/src/main/resources/assets/vanilla_rp_keeper/icon.png?raw=true\" alt=\"Logo\"></p>\n<h1>VanillaRPKeeper</h1>\n<p>確保原版資源包始終置於頂部。</p>\n<h2>範例</h2>\n<p>你誤將某個資源包移動到了原版資源包的前方。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/1237/768/ea1aeace-2025-07-01-185216-png.png\" alt=\"p1\"></p>\n<p>VanillaRPKeeper 現在會隱藏這些按鈕，僅允許你重新排序非原版資源包。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/1287/119/ea1aeace-2025-08-14-111530-png.png\" alt=\"p2\"></p>\n<h2>針對整合包</h2>\n<p>若遵守授權條款，你可自由將其用於整合包。</p>\n<p>重新分發 Minecraft 遊戲本體的整合包（即把包含模組檔案、設定檔、光影包、資源包、函式庫與啟動器在內的整個 Minecraft 遊戲打包成單一 ZIP 檔案的套件）不得使用本模組。</p>\n<h2>授權條款</h2>\n<p>為防止某些未預期的行為，本作品在原授權之外附加了限制條款，請參閱 <a href=\"https://github.com/404Setup/404Setup/blob/main/LICENSE.md\" target=\"_blank\" rel=\"nofollow\">404Setup Public License</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "32ed946ebfa3c7fd",
+  "content": "\n\n# 一个由我制作、专为好友设计的多功能 PvP 资源包\n\n### 主要功能：\n\n- 黑红主题配色\n- 平滑纹理\n- 便捷功能（QoL），如：移除钓鱼浮漂、降低火焰与盾牌高度、透明背包界面\n- 32x 工具、64x 剑\n- 视觉击退效果与药水类型提示（类 L4J 风格）\n- 自定义天空\n\n### 计划更新：\n\n- 将更多环境方块替换为更平滑的版本\n\n### 附加组件：\n\n- 16x 剑 - https://modrinth.com/resourcepack/asathorrs-pack-16xswords\n\n## 注意：本包未包含 CIT 资源文件夹，在 1.21.4 及更低版本中将无法正常运行！\n\n此外，若要正常使用自定义天空，你需要安装 “Skyboxify” 模组（https://modrinth.com/mod/skyboxify）或 OptiFine。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

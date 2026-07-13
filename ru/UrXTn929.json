@@ -1,0 +1,6 @@
+{
+  "bodyHash": "51f0293739d9d28b",
+  "content": "\n\n<p>Этот мод добавляет дополнительные функции для удобства работы с буфером обмена.</p>\n<p>В настоящее время доступно:</p>\n<ul>\n<li><strong>Ctrl+C на предмете:</strong> копирует его (вместе с тегами)</li>\n<li><strong>Ctrl+V в слоте:</strong> вставляет скопированный предмет (требуется установка мода на сервере или креативный режим), также можно вставить скопированный идентификатор</li>\n<li><strong>Ctrl+Shift+C на предмете:</strong> копирует название предмета</li>\n<li><strong>Ctrl+Alt+C на предмете:</strong> копирует идентификатор предмета</li>\n</ul>\n<p><img src=\"https://cdn.modrinth.com/data/UrXTn929/images/2bf0fc248ac57f9b92c5f7d0a01734cae7eb4fd3.gif\" alt=\"\"/></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

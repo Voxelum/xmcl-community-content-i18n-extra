@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2YrT1q627II=",
-  "content": "# 爆炸增強\n<br>\n\n**Explosive Enhancement: Reforged** 是 [Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement) 的非官方 Forge 移植版。\n\n這是一個單純的外觀模組，能為爆炸添加許多新的粒子效果，您可以自由啟用或停用其中任何一種。您也可以透過設定檔完全啟用或停用整個模組。\n\n此外還有特殊的水下爆炸效果。您可以讓水下爆炸時產生大量泡泡，帶來令人滿意的視覺效果！\n\n \n\n所有錯誤回報請直接向我提出，您可以加入我們的 [Discord 伺服器](https://discord.com/invite/Pxj3gdhGj8)。如有功能建議，請聯絡 [Superkat32](https://modrinth.com/mod/explosive-enhancement)。\n\n\n \n<br>\n## 設定\n \n\n您可以透過模組設定檔來編輯本模組，檔案位於 _config/explosiveenhancement.toml_\n\n \n<br>\n \n\n##  補充資訊\n \n\n本模組有兩個版本：**僅限客戶端**（只需安裝在客戶端）以及 **客戶端與伺服器端**（兩端都需要安裝，若與其他客戶端模組不相容時請使用此版本）。如果您不想看到自訂爆炸效果，可以在模組設定檔中停用本模組。",
+  "bodyHash": "bb8c9d1de54b6498",
+  "content": "\n\n# 爆炸增強\n<br>\n\n**爆炸增強：重鑄（Explosive Enhancement: Reforged）** 是 [爆炸增強](https://modrinth.com/mod/explosive-enhancement) 的非官方 Forge 移植版。\n\n這是一個簡單的外觀模組，當爆炸發生時會添加許多新的粒子效果，您可以隨時自行啟用或停用任何一種效果。您也可以透過設定檔完全啟用或停用整個模組。\n\n此外還有特殊的潛水爆炸效果。您可以設定在水下爆炸時產生大量氣泡，帶來令人滿意的視覺效果！\n\n \n所有錯誤回報請直接聯繫我，歡迎加入我們的 [Discord 伺服器](https://discord.com/invite/Pxj3gdhGj8)。功能建議請洽 [Superkat32](https://modrinth.com/mod/explosive-enhancement)。\n\n\n \n<br>\n## 設定檔\n \n您可以透過模組的設定檔進行調整，位置位於 _config/explosiveenhancement.toml_\n\n \n<br>\n \n## 額外資訊\n \n本模組有兩個版本：**僅限客戶端**，只需安裝在客戶端即可。以及 **客戶端與伺服器**，兩者均需安裝（若與其他僅限客戶端的模組不相容，請使用此版本）。如果您不想看到自訂爆炸效果，也可以直接在模組設定檔中將其停用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

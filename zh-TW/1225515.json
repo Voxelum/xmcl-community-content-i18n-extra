@@ -1,6 +1,6 @@
 {
-  "bodyHash": "d9ac5QFQJGY=",
-  "content": "<h2>描述</h2><p>對箭矢朝向目標的小幅調整。</p><h2>使用方法</h2><p>預設情況下，所有箭矢都會自動瞄準實體。若要防止箭矢自動瞄準你，需要使用以下指令。</p><pre><code>/function auto_aiming:cheat</code></pre><p>若要恢復預設狀態，請使用此指令。</p><pre><code>/function auto_aiming:no_cheat</code></pre><h2>依賴項目</h2><ul>\n<li>Fabric 加載器需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
+  "bodyHash": "69bfbcbf2e7e95b8",
+  "content": "\n\n<h2>描述</h2>\n<p>箭矢射向目標時會進行微小的修正。</p>\n<h2>使用方法</h2>\n<p>預設情況下，所有箭矢都會鎖定實體。若要防止箭矢瞄準你，請使用此指令。</p>\n<pre><code>/function auto_aiming:cheat</code></pre>\n<p>若要恢復正常，請使用此指令。</p>\n<pre><code>/function auto_aiming:no_cheat</code></pre>\n<h2>依賴項目</h2>\n<ul>\n<li>Fabric 載入器需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

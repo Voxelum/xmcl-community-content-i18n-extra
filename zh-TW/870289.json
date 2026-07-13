@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WTa27X0dArk=",
-  "content": "<p><span style=\"font-size:14px\">這是 ProjectE 的一個附加模組<br></span><span style=\"font-size:14px\">它新增了一個方塊：EMC 接口</span></p><p><span style=\"font-size:14px\">你可以將其連接到許多虛擬儲存模組，例如 Refined Storage 或 AE2。<br></span><span style=\"font-size:14px\">連接後，即可直接從虛擬儲存中使用 EMC 存取物品。</span></p><p>&nbsp;</p><p><strong>如果你使用 Refined Storage：<br></strong>將一個<strong>外部儲存器</strong>放在<strong>EMC 接口</strong>上以進行連接。</p><p><strong>如果你使用 AE2：<br></strong>將一個<strong>ME 儲存匯流排</strong>放在<strong>EMC 接口</strong>上以進行連接。</p><p>請注意，你也可以將其連接到其他模組。</p><p>&nbsp;</p><p>我的 Discord 伺服器：&nbsp;<a href=\"https://discord.gg/eTn5zzrWKa\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/eTn5zzrWKa</a></p>",
+  "bodyHash": "c11c7ef6f0ab2448",
+  "content": "\n\n<p><span style=\"font-size:14px\">這是 ProjectE 的附加模組<br></span><span style=\"font-size:14px\">它新增了一個方塊：EMC 介面</span></p>\n<p><span style=\"font-size:14px\">您可以將其連線至許多虛擬儲存模組，例如 Refined Storage 或 AE2。<br></span><span style=\"font-size:14px\">連線後，您即可直接透過 EMC 從虛擬儲存中放入與取出物品。</span></p>\n<p>&nbsp;</p>\n<p><strong>若您使用的是 Refined Storage：<br></strong>請在 <strong>EMC 介面</strong>上放置一個 <strong>External Storage（外部儲存器）</strong> 以完成連線。</p>\n<p><strong>若您使用的是 AE2：<br></strong>請在 <strong>EMC 介面</strong>上放置一個 <strong>ME Storage Bus（ME 儲存匯流排）</strong> 以完成連線。</p>\n<p>請注意，您也可以將其連線至其他模組。</p>\n<p>&nbsp;</p>\n<p>我的 Discord 伺服器：&nbsp;<a href=\"https://discord.gg/eTn5zzrWKa\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/eTn5zzrWKa</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

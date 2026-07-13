@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4db102af7c1efb3d",
+  "content": "\n\n提供改变重力的功能与 API。\n\n**注意：本模组基于但不同于 Fusion Flux 开发的 Gravity API。** 这是 [Fusion Flux 的 Gravity API](https://modrinth.com/mod/gravity-api) 在 Fabric 平台上的分支（Immersive Portals 模组依赖重力变化模组，但 Fabric 模组无法依赖 Quilt 模组）。该 Gravity API 模组最初基于 Gaider10 开发的 Gravity Changer 模组。\n\n本模组的最新版本提供：\n* 重力效果与药水\n* 重力锚\n* 可生成重力场的重力板。其作用范围可自定义。\n\n\n这些物品无法在普通生存模式中获得。\n\n部分代码和资源来自 [AmethystGravity 模组](https://modrinth.com/mod/amethyst-gravity)。\n\n注意：0.9.0 版本与 Quilt 不兼容。\n\n### 命令\n\n本模组的命令与 Gravity API 不同。以下是本模组最新版本的命令：\n\n`/gravity set_base_direction <方向> [实体]` 设置基础重力方向。（基础方向可被其他因素覆盖，包括效果、重力锚和重力板。）若未提供 `[实体]` 参数，则默认针对命令执行者（所有命令均适用此规则）。示例：`/gravity set_base_direction up`   `/gravity set_base_direction up @e[type=!minecraft:player]`\n\n`/gravity set_base_strength <强度> [实体]` 设置基础重力强度。强度效果将在基础强度上相乘（而非覆盖）。示例：`/gravity set_base_strength 0.5`  `/gravity set_base_strength 0.5 @e`\n\n`/gravity view` 显示命令执行者的基础重力方向和强度。\n\n`/gravity reset [实体]` 重置基础重力方向和强度。 \n\n`/gravity randomize_base_direction [实体]` 将基础方向设为随机方向。\n\n`/gravity set_relative_base_direction <相对方向> [实体]` 将重力方向设置为相对于实体视角的方向。`<相对方向>` 可以是 `forward`、`backward`、`left`、`right`、`up` 或 `down`。\n\n`/gravity set_dimension_gravity_strength <强度>` 设置当前维度的重力强度。 \n\n`/gravity view_dimension_info` 显示当前维度的重力强度信息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

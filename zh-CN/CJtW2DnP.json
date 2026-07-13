@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d42c6e6d4a8d826",
+  "content": "\n\n## FastChest —— Minecraft 26.1-26.2 非官方移植版\n\n这是 [FastChest 模组](https://github.com/FakeDomi/FastChest)（由 Domi 制作）针对 Minecraft Java 版 **26.1（Tiny Takeover）** 的非官方移植版本。\n\n### 功能介绍\nFastChest 将普通箱子和末影箱的动画 3D 渲染器替换为简单的静态方块模型。这消除了不必要的动画，并显著提升了箱子密集区域的帧率（FPS）。\n\n### 环境要求\n- Minecraft 26.1\n- Fabric Loader 0.17.2+\n- Fabric API 0.146.1+26.1.2\n\n### 备注\n- 此为**非官方**移植版。原版模组由 [Domi](https://github.com/FakeDomi/FastChest) 制作。\n- 采用 MIT 协议开源。\n- 源代码：https://github.com/FakeDomi/FastChest\n\n---\n\n*如果你懂西班牙语：此模组将箱子的 3D 渲染替换为静态模型，在箱子密集区域提升性能（FPS）。*\nFastChest 针对 Minecraft 26.1 的非官方移植版。\n原版模组由 Domi 制作：https://github.com/FakeDomi/FastChest",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

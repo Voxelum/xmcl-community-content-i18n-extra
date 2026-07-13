@@ -1,6 +1,6 @@
 {
-  "bodyHash": "h26Cga2T9Mk=",
-  "content": "# 地圖欄位顯示\n\n簡單的模組，可在快捷欄/物品欄中顯示已填充的地圖。這樣你就不需要在移動地圖時，還得一一打開每個地圖來確認內容。\n\n![地圖欄位](https://raw.githubusercontent.com/Crec0/map-in-slot/main/assets/img.png)\n\n\n# 增強功能\n\n此模組與 [client-maps](https://modrinth.com/mod/client-maps) 搭配使用效果更佳。",
+  "bodyHash": "a71611e819e862e2",
+  "content": "\n\n# 快捷欄與背包地圖顯示\n\n這是一個簡單的模組，可在快捷欄或背包欄位中顯示已填充的地圖。因此在移動地圖時，您無需逐一查看每張地圖的內容。\n\n![快捷欄地圖顯示](https://raw.githubusercontent.com/Crec0/map-in-slot/main/assets/img.png)\n\n\n# 功能增強\n\n搭配 [client-maps](https://modrinth.com/mod/client-maps) 使用可大幅提升體驗。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

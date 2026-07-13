@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ad5483d3951d6cce",
+  "content": "\n\n# Flashback Extras\n\nFlashback Extras 为 Flashback 回放编辑器增添了更多功能与修复。\n所有功能均可自由开启或关闭。\n\n## 功能\n- `导出预设`\n  内置了针对常见输出目标（如 YouTube 1440p）的预设，并允许你创建自定义预设。这样你就可以保存常用的设置，无需每次重新配置。如果你需要将同一回放导出为多种格式，此功能尤为实用。\n\n![导出预设](https://cdn.modrinth.com/data/cached_images/688db6c3d09d8333ee2dbac766f4c8d1e4aafb27_0.webp)\n![导出预设 Drtopdown](https://cdn.modrinth.com/data/cached_images/7d253eac43c8c6836152a59c9f7b88c3421c26e2_0.webp)\n\n- `导出预览叠加层`\n  在导出 TikTok 或 YouTube Shorts 等竖屏格式时，最终视频在竖框内的效果往往难以直观把握。此功能会在屏幕上添加一个对应形状的叠加层，帮助你在导出前更轻松地调整画面布局。\n\n![导出预览叠加层（YouTube Shorts）](https://cdn.modrinth.com/data/cached_images/ed82523a7d5331b581c8b37e65e86f587284953b.jpeg)\n\n- `时间轴水平滚动`\n  支持使用鼠标侧键、横向滚轮或触控板对 Flashback 时间轴进行水平滚动。\n\n## 修复\n- `加快首次导出`\n  打开导出菜单时可能会导致 Flashback 卡顿数秒。本模组会在你打开回放后于后台提前准备导出工具，从而避免导出窗口出现长时间等待。\n\n- `延时摄影音频同步`\n  在 Flashback 中制作延时摄影或其他变速效果时，音频可能会失真并导致波形显示异常。本模组修复了该问题，使音频播放恢复正常，且可视化音频轨道能随时间轴速度正确缩放。\n\n\n## 配置\n- 默认情况下，你可以按 `右 Alt + P` 打开 Flashback Extras 菜单。\n- 该快捷键可在 Minecraft 控制设置中修改。\n- 你也可以通过 Mod Menu 模组打开此菜单。\n\n## 依赖\n- Fabric\n- Flashback",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

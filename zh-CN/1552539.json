@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5561f0bec765ca4",
+  "content": "\n\n<p>使用这款轻量级着色器，你可以将你的世界变成黑白。</p>\n<p>重要提示：\n-首次启动着色器时颜色会反转，请查看着色器设置\n-为了获得更好的效果，请将亮度调至 0%</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/7f70fffa6ec92f8b7f1807ddd644233c1cd5a885.png\" alt=\"黑白转换\"></p>\n<p>功能特性：\n-将世界变为黑白\n-针对性能较差的电脑进行了优化\n-手持火把等物品时会在玩家周围发光\n-阴影与雾效\n-彩色光源\n-受伤时玩家周围会出现红光（可关闭）</p>\n<p>可配置设置：</p>\n<p>-inverted = 若为 true，则颜色会反转</p>\n<p>-coloredGlassShadows = 若为 true，则彩色玻璃的阴影会保留颜色</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/7f330d2ffad66223b08bd143323fb255c19d9639.jpeg\" alt=\"彩色玻璃\"></p>\n<p>-blacknwhite = 若为 true，则世界变为黑白</p>\n<p>-graytorchlight = 若为 true，则火把等物品发出灰光，否则发出橙光</p>\n<p>-redRadiusIfHurt = 若为 true，则玩家受伤时周围会出现红光</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

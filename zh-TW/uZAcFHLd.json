@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fb03ad12ebbe0df3",
+  "content": "\n\nCustom FoV 是一款讓玩家透過「選項」選單中的「影片設定」與「無障礙設定」來自訂各種視野（FoV）設定的模組。目前的設定允許針對飛行、瞄準、水下以及速度相關的視野變化進行調整。速度相關的視野變化可進一步細分為疾跑和藥水效果相關的調整。\n\n**此模組與 Optifine 不相容。Optifine 移除了本模組所依賴的原版 Minecraft 欄位。請考慮使用 [Optifine 替代方案](https://lambdaurora.dev/optifine_alternatives/ \"Optifine alternatives\")。**\n\n## 功能\n\n![](https://i.ibb.co/GW78yt1/videosettings.png)\n![](https://i.ibb.co/vmSyCw8/accessibilitysettings.png)\n\n### 視野效果模式\n\n允許選擇套用所有視野變化、僅套用原版視野變化、僅套用第三方模組視野變化，或完全不套用任何視野變化。\n\n### 視野效果縮放比例\n\n允許將不同類型的視野變化（速度、疾跑、瞄準、飛行、水中）的縮放比例從 0% 調整至 100%。這些設定會與原版的「視野效果」設定疊加，該設定用於控制所有變化的整體縮放比例。\n\n## 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

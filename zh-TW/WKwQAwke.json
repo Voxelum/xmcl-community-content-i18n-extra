@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Q40SHJHd7LU=",
-  "content": "LibJF 是一個為我較小型模組設計的函式庫，其中包含多種常用元件。\n\n具體來說，它提供了：\n- 一套完整的配置系統，包含 UI、指令、編譯時代碼生成、預設配置、驗證器等\n- 一個操控已載入資料與資源的框架\n- 兩個新標籤（你也可以在資料包中使用）：\n  - `libjf:overpowered`：若實體僅穿著帶有此標籤的護甲物品，它將變得無敵\n  - `libjf:shulker_boxes_illegal`：帶有此標籤的物品無法放入界伏盒中。\n    主要用於背包或類似物品\n- 序列化、腳本載入、協程、輸入輸出等相關的實用程式碼\n- 網路工具，包含 HTTP 客戶端與伺服器\n- 可設定且可擴展的翻譯系統，支援多種提供者\n- 早期初始化與 ASM 修補的相關工具\n\n如果某個模組是我製作的，通常可以假設它需要 LibJF（或內建部分元件）\n\n如果你想自行使用 LibJF，可以在此處找到說明文件 [0]\n\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"意見與支援\" src=\"https://img.shields.io/badge/意見與支援-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
+  "bodyHash": "0e605de793d98a33",
+  "content": "\n\nLibJF 是一個為我較小型模組設計的套件庫，內含多個常用組件。\n具體提供：\n- 一套完整的設定系統，包含使用者介面、指令、編譯時期程式碼產生、預設設定、驗證器等\n- 用於操作已載入資料與資源的框架\n- 兩種新標籤（也可在資料包中使用）：\n  - `libjf:overpowered`：若實體僅穿戴帶有此標籤的護甲物品，將獲得無敵狀態\n  - `libjf:shulker_boxes_illegal`：帶有此標籤的物品無法放入潛影盒中。\n    主要設計用於背包或類似物品\n- 用於序列化、腳本載入、協同處理、IO 等工具程式碼\n- 網路工具，包含 HTTP 用戶端與伺服器\n- 可配置且易於擴充的翻譯系統，支援多種提供者\n- 用於早期初始化與 ASM 修補的工具\n\n若模組由我開發，通常可合理假設它需要 LibJF（或內建其部分組件）\n\n若您想自行使用 LibJF，可在此處[查閱文件](https://mods.jfronny.dev/LibJF)\n\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"建議與支援\" src=\"https://img.shields.io/badge/Suggestions%20and%20Support-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

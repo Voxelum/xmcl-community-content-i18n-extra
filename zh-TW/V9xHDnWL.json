@@ -1,6 +1,6 @@
 {
-  "bodyHash": "OYrUkOC+Idg=",
-  "content": "若你看向由食物物品放置的方塊並按下右鍵，則取消互動（不進食）。僅限客戶端。",
+  "bodyHash": "f1bb2109f90d63e5",
+  "content": "\n\n當你對著由食物放置的方塊右鍵點擊時，將取消互動（不會食用）。僅限客戶端生效。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

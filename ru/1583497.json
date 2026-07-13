@@ -1,0 +1,6 @@
+{
+  "bodyHash": "36de75d4fb23d150",
+  "content": "\n\n<div>\n<h1>Исправление для Ragdoll и Armourer's Workshop</h1>\n<a href=\"https://github.com/TanukiBearMan/RagdollArmourersWorkshopFix#ragdoll-armourers-workshop-fix\" rel=\"nofollow\"></a></div>\n<p>Клиентское исправление совместимости NeoForge 1.21.1 для модов Armourer's Workshop и Sable Player Ragdoll.</p>\n<div>\n<h2>Что исправлено</h2>\n<a href=\"https://github.com/TanukiBearMan/RagdollArmourersWorkshopFix#what-it-fixes\" rel=\"nofollow\"></a></div>\n<p>Когда игрок в костюме из Armourer's Workshop переходит в состояние рэгдолла Sable, Sable отрисовывает стандартные слои игрока по одному разу для каждой части тела рэгдолла. Armourer's Workshop добавляет полный рендерер одежды как один из этих слоёв, из-за чего костюм может отрисовываться многократно, превращая модель рэгдолла в визуальный беспорядок из дубликатов.</p>\n<p>Этот мод отключает отрисовку элементов скина Armourer's Workshop, которые не относятся к текущей отрисовываемой части тела рэгдолла Sable. Костюм остаётся визуально привязанным к соответствующим конечностям рэгдолла, вместо того чтобы отрисовываться полностью на каждой части тела.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d3b5cf8a6f1e85e6",
+  "content": "## 通过在上砧台将一件铁甲与一颗钻石组合，实现将铁甲升级为钻石甲。\n\n### 注意：\n此数据包添加了配方，移除该数据包会导致控制台出现关于缺失配方的警告。这不会对您的世界或存档信息造成危险。\n\n### 使用模组版本时的安装信息：\n这些功能在效果上与此数据包相同，但会应用于所有启用或创建且安装了此模组的世界。如果您不希望此功能应用于所有世界，请使用数据包版本。\n\n**Forge**：\n<br>无需任何依赖项，只需将模组放入 mods 文件夹即可。\n\n**Fabric**：\n<br>需要 Fabric API。\n\n**Quilt**：\n<br>需要 Quilted Fabric API。\n\n### Purpur 包\nPurpur 包是那些曾被建议添加到 Purpur 中、或符合 Purpur 主题特性，但最终决定更适合以数据包形式提供的功能！\n<br>这些数据包的功能等同于 Purpur 中的单个配置设置。它们可以随时添加和移除，而不会损坏服务器。\n<br>它们在原版 Minecraft 中即可运行，您无需运行 Purpur 服务器即可使用这些数据包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

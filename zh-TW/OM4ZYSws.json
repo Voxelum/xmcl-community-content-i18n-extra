@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bb23cf7decbef933",
+  "content": "\n\n# 若您決定全面改用 REI，只需下載完整的 REI 即可。\n\nRoughly Enough Items Server Component 是一款用於實作 REI 伺服器網路通訊協定的模組，用以處理伺服器專屬功能。\n\n此模組旨在供那些希望伺服器端保留 JEI，同時允許客戶端也能使用 REI 的伺服器搭配使用！\n\n由於 REI 效能極佳，對伺服器的負擔應非常輕微。我在 E6 伺服器上的測試顯示，非主執行緒的處理時間約為 300 毫秒。\n\n**功能**\n\n- 允許使用 REI 的客戶端刪除物品（無需處於創造模式）\n- 允許使用 REI 的客戶端作弊獲取物品（無需切換至創造模式或使用受 NBT 長度限制的控制台指令）\n- 允許使用 REI 的客戶端移動物品",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "afaf641c48de856f",
+  "content": "\n\nEnhanced Attack Indicator 是一款支持 **Fabric** 和 **NeoForge** 的模组，可在更多动作中显示攻击指示器进度。\n\n**新增动作：**\n* 破坏方块\n* 弓、弩、三叉戟蓄力\n* 食用食物\n* 具有冷却时间的物品（盾牌、紫颂果、末影珍珠）。\n* 睡眠进度\n* 潜影盒 / 布包的填充进度\n\n**其他功能：**\n* 可单独启用或禁用上述各项功能\n* 可调整普通武器冷却时间的优先级\n* 可禁用镐和锹的武器冷却时间\n* 可禁用斧头的武器冷却时间\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/mwCCzznCAfc?si=J7k9AndwTJ7FR2L_\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

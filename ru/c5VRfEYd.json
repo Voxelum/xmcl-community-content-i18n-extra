@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bf4545bbd85da424",
+  "content": "\n\n# Подтверждение команд\n### При использовании команд\nиногда пальцы работают быстрее мозга.\n  \nМод для Minecraft на Fabric. Запрашивает подтверждение при использовании команд.  \n<details>\n<summary>Полезно знать</summary>\n\n- команда `/ccconfig` открывает экран конфигурации для добавления и удаления команд.\n- команды `/kill`, `/kill @p` и `/kill @e` заданы по умолчанию в качестве примера. Удалите их, если они вам не нужны.\n- файл с командами находится по пути `.minecraft/config/cmd-confirm/cmds.txt`.\n\n</details>\n\n![Экран подтверждения](https://cdn.modrinth.com/data/c5VRfEYd/images/6454a119eae563f0e8791396957a2bd485c540df.png)\n![Экран конфигурации для добавления и удаления команд](https://cdn.modrinth.com/data/c5VRfEYd/images/e2064ac2c315020f1f34beeedf72a95e5c976152.png)\n  \n<details>\n<summary>Зависимости</summary>\n  \n- Fabric API\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fefb06ba5a22c3e0",
+  "content": "\n\nПереносит музыку из версии 1.21 в 1.20.2-6.\n\nФоновая музыка звучит так же, как в 1.21. См. [вики](https://minecraft.wiki/w/Java_Edition_1.21#Music). Версия `+menu` воспроизводит песни как в главном меню, так и в игре.\n\nСуществует 50% шанс воспроизведения вместо указанного ниже диска.\n\nЭто отражено в описании музыкального диска.\n\nДиски были отобраны по длине (что требовалось из-за [этого бага](https://modrinth.com/mod/jukebox-custom-disc-fix)), а затем по совпадению сигнала питания редстоуна (источник на вики [здесь](https://minecraft.wiki/w/Music_Disc)).\n\nCreator — Wait\n\nCreator Music Box Ver. — 11\n\nPrecipice — Blocks",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

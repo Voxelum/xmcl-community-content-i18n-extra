@@ -1,6 +1,6 @@
 {
-  "bodyHash": "LF5jQSEFdDA=",
-  "content": "这是一个外部REI模块，用于解决某些模组访问JEI API时引发的问题，通过将这些访问重新映射回REI等效代码来实现。\n\n此模块极不稳定，使用了糟糕的hack手段，应作为最后的手段使用。\n\n**此模组必须与Roughly Enough Items一起使用。**",
+  "bodyHash": "56e1cd74ecfc22bf",
+  "content": "\n\n这是一个外部的 REI 模块，旨在通过将这些调用重新映射回对应的 REI 代码，来解决其他模组访问 JEI API 所带来的问题。\n\n该模块极不稳定，使用了大量糟糕的 hack 手段，仅应作为最后的选择。\n\n**本模组必须与 Roughly Enough Items 配合使用。**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

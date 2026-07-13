@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4404f492b0e6a5cb",
+  "content": "\n\n通过修改其 loadLibrary 方法加载本补丁模组中包含的 Android 原生库，使你能在 Android 设备上运行 Sable。\n\n不包含 Sable 本体。请在此下载：https://modrinth.com/mod/sable\n\n专为让 Create Aeronautics 在 Android 上正常运行而制作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a5aafdb99ae7e8ed",
+  "content": "\n\n# Create 擴充模組：列車視角修復\n\n> **< ! > 請注意！< ! >**\n> \n> **使用 Create 0.5.1g 或更新版本時已不再需要此模組，因為這些更改已整合至核心模組中！若使用較新版本的 Create，請移除此模組以避免異常！**\n\n![Logo](https://github.com/MisterJulsen/Create-Train-Perspective-Fix/raw/forge/icon_256px.png)\n \n#### **一款極小的模組，用於修復玩家搭乘列車行駛時角色不會隨之轉動的問題。**\n\n本模組需要 [Create Mod v0.5.1a](https://modrinth.com/mod/create) 或更新版本（Forge）或 [Create Fabric Mod v0.5.1b](https://modrinth.com/mod/create-fabric) 或更新版本（Fabric）。\n\n[![Discord](https://i.imgur.com/YnDoeHs.png)](https://discord.gg/AeSbNgvc7f)\n[![Donate](https://i.imgur.com/dyAPUNT.png)](https://paypal.me/MrJulsen)\n\n## **簡介**\n也許只是我個人的問題，但當我坐在列車上經過彎道而角色卻沒有隨之轉動時，這確實讓我很困擾。本模組正是為了解決這個問題而設計。安裝後，玩家會隨著行進中的列車一同轉動，但仍可自由環顧四周。此功能僅在「搭乘」狀態下生效。若您只是單純站在列車上，則不會有任何改變。\n\n## **支援版本**\n本模組單一版本即可適用於 1.18 及以上的所有版本，同時支援 Forge 與 Fabric。此外，本模組僅限客戶端安裝。伺服器無需安裝，若在伺服器上安裝將無效，甚至可能導致伺服器崩潰！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

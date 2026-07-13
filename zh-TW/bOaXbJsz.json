@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0f98efe19c151fd9",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/4ba4YZ1HBeE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n注意：這是該資料包極早期的原型。目前已經移除了「爆炸」效果，側邊的計分板也不再預設顯示。\n\n\n過去一年裡，我遊玩了許多帶有飛機的社群伺服器，並且一直注意到一個問題。\n\n破壞它們非常耗時，尤其是來自擴充模組的飛機。因此，正式推出：\n\n可扳手拆卸的飛機！\n現在你可以使用 Create 模組的扳手來拆卸你的飛機，不必再敲擊 50 次以上！\n\n\n# 運作原理：\n\n非常簡單，只要手持扳手並蹲下，你的飛機就會直接轉為物品形態掉落！\n\n**為什麼不需要右鍵點擊？**\n\n坦白說，實作右鍵點擊在編碼上會非常耗時。雖然理論上可行，但我必須使用互動實體，這原本是我的初步計畫，但後來你會發現無法透過互動實體進行交互操作。這意味著每次你蹲下並手持扳手時，都無法與其他方塊互動，進而導致 Create 扳手的破壞功能與所有方塊產生衝突。\n\n我也無法沿用帶胡蘿蔔的釣竿的偵測機制，因為扳手不像帶胡蘿蔔的釣竿那樣擁有自訂的右鍵點擊數值。此外，我也無法讓扳手具備「稍微可食用」的屬性，因為那是未來 Minecraft 版本才加入的功能。\n\n如果我能找到實現精準右鍵點擊偵測的方法，請相信我一定會加入該功能！但目前階段，暫不支援右鍵點擊。\n\n\n# 效能：\n\n對效能的影響微乎其微，完全不會造成卡頓。\n\n感謝下載我的數據包！希望它能派上用場！如果遇到任何問題，或希望新增相容的擴充模組，歡迎在 CurseForge 留言或於 Discord 私訊我 (@fj.7g)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

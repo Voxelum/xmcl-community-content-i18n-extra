@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6bb7e78ef70122a8",
+  "content": "\n\n<p><strong>此Sable模组为涉及Sable建筑（Create Aeronautics）的飞船间及飞船与世界的碰撞增加了伤害。</strong>。</p>\n<p>配置在配置文件（sablecollisiondamage-common.toml）中进行。</p>\n<p>minBreakSpeed - 破坏方块所需的最小速度。</p>\n<p>staticSlowdownPerBlock - 每破坏一个方块后施加的减速值。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fvs-collision-damage\" target=\"_blank\" rel=\"nofollow\">类似本模组，但适用于Valkyrien Skies</a></p>\n<p>此为Alpha版本，如发现任何错误请反馈。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "u0Fg/rnP664=",
-  "content": "## Terralith：无结构附加包\n\n这是 Terralith 的一个附加包，用于移除所有自定义结构。功能如其名，无需过多解释。\n\n若使用数据包版本，请确保其加载顺序在原始 Terralith 之上。模组版本会自动以正确顺序加载。\n\n若已使用 Terralith 2.6.0 及以上版本，则无需此附加包。您可通过 Terralith 内置配置文件禁用结构。\n\n### 常见问题\n**问：** 是否支持仅禁用特定结构？\n\n**答：** 不支持本附加包实现此功能。若您能使用模组，替代方案是安装 [Structurify](https://modrinth.com/mod/structurify)。",
+  "bodyHash": "1e46f97cc16a6d46",
+  "content": "\n\n## Terralith：无结构\n\n此为 Terralith 的附加组件，用于移除所有自定义结构。说明本身已十分清晰。\n\n若使用数据包版本，请确保其加载优先级高于原版 Terralith。模组版本应会自动按正确顺序加载。\n\n若使用 Terralith 2.6.0 或更高版本，则无需此附加组件。你可通过 Terralith 的内置配置禁用结构。\n\n### 常见问题\n**问：** 是否有办法仅禁用部分结构？\n\n**答：** 没有，本附加组件不支持。如果你能使用模组，替代方案是使用 [Structurify](https://modrinth.com/mod/structurify)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

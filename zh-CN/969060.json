@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d65a5adbd37b6b02",
+  "content": "\n\n<p>灵感来源于 <a href=\"https://www.curseforge.com/minecraft/mc-mods/bansoko\" rel=\"nofollow\">bansokou</a></p>\n<p>一款简单的核心模组，用于为现代 Minecraft 版本修补模组字节码。</p>\n<p>\n该模组的使用方法类似于 bansokou，将字节码 .class 文件放入 <code>hotai</code> 文件夹中。运行游戏后，<code>.class</code> 文件会被替换为 <code>.badiff</code> 文件，仅记录差异信息以降低版权风险。</p>\n<p><img src=\"https://raw.githubusercontent.com/friendlyhj/friendlyhj.github.io/main/img/hotai_example.png\" alt=\"\"></p>\n<p>\n注意：此模组仅支持替换字节码类，无法替换资源或其他核心模组。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

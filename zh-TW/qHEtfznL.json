@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c22a866bc69dfaa0",
+  "content": "\n\n# <p align=center> Create：火藥 </p>\n![Version](https://img.shields.io/badge/Available_for-1.21.1-blue)\n![Mod Loader](https://img.shields.io/badge/Mod_Loader-NeoForge-orange)\n\nCreate：火藥新增了火藥的生產鏈，主要適用於爬行者不存在或不掉落火藥的整合包與世界。取代生物農場後，火藥轉為一種加工資源，能順暢地融入 Create 的進度發展中。\n\n### 生產\n\n粉碎燧石 --> 燧石碎片\n\n研磨煤炭 --> 碳粉\n\n研磨沙子 --> 礦物粉\n\n混合燧石 + 煤炭 --> 揮發性粉末\n\n混合揮發性粉末 + 沙子 + 水 + 熱量 --> 火藥\n![Recipe Path](https://cdn.modrinth.com/data/cached_images/d6c9891031b95f3a67822b1bd91b00e74c499e22.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

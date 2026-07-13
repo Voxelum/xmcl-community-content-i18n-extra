@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ddd3abff61dcbced",
+  "content": "\n\n**CC: Deep Seas** 是 **Create: Deep Seas** 的插件，用于添加新外设并公开潜艇的内部信息！\n\n## 外设\n- 压载排气阀\n  - 保留了流体处理器方法\n  - 新增 `isAnyHolesFaceSubmerged` 方法\n- 水推进器\n  - 保留了流体处理器方法\n  - 新增 `getThrust` 方法\n  - 新增 `getScaledThrust` 方法\n  - 新增 `getAirflow` 方法\n  - 新增 `getAirflowScaling` 方法\n  - 新增 `getCurrentAirPressure` 方法\n  - 新增 `isActive` 方法\n- 创造级制氧机\n  - 新增 `getCurrentSubLevelID` 方法\n  - 新增 `getCompartments` 方法\n\n## 额外方块详情\n本模组还会将方块的物理属性添加到所有调用方块详情的方法中，例如 `turtle.inspect()`。\n这些新增详情将归在 `\"hullStrength\"` 键名下，并包含以下键值对：\n- `maxWaterDepth: number`\n- `implosionChance: number`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

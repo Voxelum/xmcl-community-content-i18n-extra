@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4KUEta7e47c=",
-  "content": "<p>一個簡潔的 Fabric 模組，用於優化資料包 / 資源包 zip 檔案的載入時間。對於包含<strong>大量</strong>檔案的壓縮檔，它的表現尤其出色，同時也能加快小型資源包的載入速度。</p><h2>quick-pack 與原版對比</h2><p>以下是載入由<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmodpack%252fpolymania%252fversion%252f0.6.2\" target=\"_blank\" rel=\"nofollow\">polymania v0.6.2</a>產生的資源包時，使用 quick-pack 與不使用（原版）的比較。Polymania 生成了一個 44.3MiB、包含 60369 個項目的壓縮檔！\n<img src=\"https://i.imgur.com/dqEDVQX.gif\" alt=\"載入示範資源包\"></p><p><em>quick-pack 僅需 2 秒即可完成，而原版則需要 36 秒！</em></p>",
+  "bodyHash": "709d7e018c5b7c96",
+  "content": "\n\n<p>一款簡易的 Fabric 模組，旨在優化數據包／資源包的 ZIP 檔案載入時間。對於包含<strong>大量</strong>文件的 ZIP 檔，其效能提升特別明顯，但即便是小型資源包也能加快載入速度。</p>\n<h2>quick-pack 與原版對比</h2>\n<p>此處比較了使用 quick-pack 與不使用（原版）載入由 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmodpack%252fpolymania%252fversion%252f0.6.2\" target=\"_blank\" rel=\"nofollow\">polymania v0.6.2</a> 生成的資源包所需的時間。polymania 會生成一個高達 44.3MiB、內部包含 60369 個項目的 ZIP 檔！\n<img src=\"https://i.imgur.com/dqEDVQX.gif\" alt=\"資源包載入示範\"></p>\n<p><em>quick-pack 僅需 2 秒即可完成，而原版卻需要 36 秒！</em></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

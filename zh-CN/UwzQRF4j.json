@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db95eef2e2c04adb",
+  "content": "\n\n当移动的机械装置在特定退化或完全重叠的情况下发生碰撞时，Create 的碰撞流形无法记录分离轴，导致其值为空。随后游戏尝试读取该空 Vec3 的 `.x` 属性，导致服务器崩溃：\n\njava.lang.NullPointerException: Cannot read field \"x\" because \"mf.axis\" is null\n  at ...ContinuousOBBCollider.collideMany(ContinuousOBBCollider.java:153)\n\n本模组使用 Mixin 拦截这两个容易为空的字段读取（`axis` 和 `normalAxis`），并在它们为空时替换为 `Vec3.ZERO`。零向量会使该帧的碰撞贡献变为 0——无害——从而避免服务器 tick 线程崩溃。\n\n详情：\n\n轻量级——仅包含一个 Mixin，除空值检查外无额外运行时开销\n不修改 Create 的核心逻辑，仅防止空指针解引用\n支持服务端运行（仅安装到服务端即可，双端安装同样安全）\n适用于 NeoForge 环境下的 Create 6.0.10 / Minecraft 1.21.1",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

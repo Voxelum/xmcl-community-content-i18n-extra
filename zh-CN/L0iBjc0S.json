@@ -1,0 +1,6 @@
+{
+  "bodyHash": "18d34c7036166673",
+  "content": "\n\n这是一个非常简单的模组，仅添加了一个物品——梦境石。\n在铁砧上使用该物品可使装备变为不可损坏状态。\n\n自 v1.4 版本起，该模组使用 Mixin 拦截耐久度消耗，替代原版的不朽标签（unbreakable）。\n你可通过配置文件自定义哪些物品无法与梦境石搭配使用。\n\n![dream](https://cdn.modrinth.com/data/cached_images/dc9b8622426d8d20ceb4a2660c9b201679abad31_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

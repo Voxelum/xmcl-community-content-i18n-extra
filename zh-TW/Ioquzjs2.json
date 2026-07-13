@@ -1,0 +1,6 @@
+{
+  "bodyHash": "69034981b7dbe890",
+  "content": "\n\n# Gotta Go Fast\n\n這個簡單的模組將修復「玩家移動太快了！」或「玩家的載具移動太快了！」等問題的補丁，並獨立成一個模組。\n它允許您調整伺服器端用於檢查玩家是否移動過快（進而將其傳送回原處）的閾值。***允許用戶端發送快速更新封包。請謹慎使用。***\n\n模組名稱與標誌源自 Thiakil 針對 Forge 1.12 的 [原始獨立修正模組](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast)。\n本模組僅支援伺服器端，無需安裝於用戶端。 \n\n## 注意事項\n\nModrinth 現在是本模組的唯一官方發布平台。該專案將不再於 CurseForge 上更新。\n\n## 警告\n\n**自 v1.1.0 版本起，本模組預設不會執行任何操作。預設設定值與原版一致，如下所示：**\n```json\n{\n    ...\n    \"defaultMaxPlayerSpeed\": 100.0, \n    \"maxPlayerElytraSpeed\": 300.0, \n    \"maxPlayerVehicleSpeed\": 100.0\n    ...\n}\n```\n建議將數值設得盡量低，因為數值過高可能讓玩家利用速度作弊。請逐步調高數值，直到您不再遇到落後延遲為止。\n\n## 設定檔\n\n```json\n{\n    \"hideConsoleWarnings\": false,\n    \"playerLimit\": 100.0,\n    \"playerFallFlyingLimit\": 300.0,\n    \"vehicleLimit\": 100.0,\n    \"vehicleDistanceLimit\": 0.0625\n}\n```\n\n## 特別感謝\n\n感謝 [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) 提供的原始構想與概念。\nForge 替代方案：https://www.curseforge.com/minecraft/mc-mods/too-fast\n\n感謝所有在 GitHub Issue Tracker 回報問題與提供反饋的玩家與開發者。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

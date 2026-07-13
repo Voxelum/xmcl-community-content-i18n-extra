@@ -1,0 +1,6 @@
+{
+  "bodyHash": "838c8f87fc45c8a8",
+  "content": "\n\n# 半透明遊戲介面\n\n這個資源包為 Minecraft 的介面加入了半透明效果，在 1.21.1 及更早版本的官方原版中原本無法實現。為了相容舊版遊戲，我們採用了黑色與透明像素的精確拼接。這營造出近乎半透明的視覺效果。幸運的是，新版遊戲已原生支援半透明功能，使得這種做法不再必要。\n\n此資源包旨在保留遊戲的原版風格，同時加入透明度設定，讓遊玩時的介面更不干擾視線。\n\n# 截圖\n\n![主選單](https://cdn.modrinth.com/data/cached_images/2e879d0b9c5c0be75917291e21ea5a45de3260e3.jpeg)\n![物品欄](https://cdn.modrinth.com/data/cached_images/3e0bce0e43aaef5c4bc3fa1ecd946f173bcc61d5.jpeg)\n![快捷欄](https://cdn.modrinth.com/data/cached_images/a0b45ef169cd438986414a0202ec7e063c958ea8.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "s3UvTUbHQIQ=",
-  "content": "Zoomly 是一個適用於 Minecraft 1.21.10（Fabric）的簡潔輕量縮放模組。\n特色功能：\n\n按住 C 鍵進行縮放\n縮放時滾動滑鼠滾輪調整縮放倍率\n放開按鍵立即恢復正常視角\n可在控制設定中重新綁定縮放按鍵\n無需設定檔案，無多餘功能\n\n需求：\n\nMinecraft 1.21.10\nFabric Loader 0.18.4+\nFabric API",
+  "bodyHash": "9313441f1156e654",
+  "content": "\n\nZoomly 是一款專為 Minecraft 1.21.10（Fabric）設計的簡潔輕量縮放模組。\n功能：\n\n按住 C 鍵放大\n縮放時滾動滑鼠滾輪調整等級\n放開按鍵立即恢復正常視野\n可於控制設定中自訂縮放按鍵\n無需設定檔，無冗餘程式碼\n\n需求：\n\nMinecraft 1.21.10\nFabric Loader 0.18.4+\nFabric API",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

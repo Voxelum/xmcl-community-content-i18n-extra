@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0bce3a7b1a2d35a6",
+  "content": "\n\n<h1>單純新增一個可渲染天空的方塊</h1>\n<h2>功能特色</h2>\n<ul>\n<li>天空方塊 - 渲染你所處維度的天空</li>\n<li>虛空方塊 - 渲染終界傳送門效果</li>\n<li>支援紅石控制</li>\n<li>提供 Forge、Fabric 與 Quilt 版本</li>\n</ul>\n<h2>圖片</h2>\n<p><img src=\"https://raw.githubusercontent.com/CerulanLumina/block-of-sky/5238d2eb0f642154c47e1b37e3e2f29685639ec3/img/house-underground.png\" alt=\"帶有天空渲染的地下屋\"></p>\n<p><img src=\"https://raw.githubusercontent.com/CerulanLumina/block-of-sky/5238d2eb0f642154c47e1b37e3e2f29685639ec3/img/house-underground-redstone.png\" alt=\"帶有天空渲染的地下屋，部分天空方塊已透過紅石火把停用\"></p>\n<h2>相容性</h2>\n<p>應可與 Sodium / Rubidium 完美相容。目前透過 Iris / Oculus 套用的着色器包（Shaderpacks）無法正常運作；我預計將盡快改善相容性。不支援 Optifine，且未來也不會支援。</p>\n<h2>致謝</h2>\n<p>此為 1.19.2(+) 移植版，原始專案為 Literal Sky Block，位於 <a href=\"https://github.com/nanite/Literal-Sky-Block\" rel=\"nofollow\">https://github.com/nanite/Literal-Sky-Block</a>。亦使用了來自 Fabric 移植版的程式碼，可於 <a href=\"https://github.com/Gaming32/literal-sky-block-fabric/\" rel=\"nofollow\">https://github.com/Gaming32/literal-sky-block-fabric/</a> 查看。上述兩個專案皆採用 LGPL-3.0 授權。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

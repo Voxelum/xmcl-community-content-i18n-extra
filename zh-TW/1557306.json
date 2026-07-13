@@ -1,6 +1,6 @@
 {
-  "bodyHash": "r0wy+sc+p30=",
-  "content": "<p>CBC 瞄具 + 雷射 為 Create Big Cannons 增加了兩個實用的瞄準工具。</p><p><br>火砲瞄具讓你能在火砲上安裝一個緊湊的瞄準鏡，透過它觀察時視野更清晰且具備放大效果，幫助你鎖定目標。</p><p>火砲雷射指標則會射出一道可見光束，方便你更輕鬆地校正射擊角度，而且雷射還能染成不同顏色。</p><p><br>這兩個方塊都能直接裝在 Create Big Cannons 上，與組裝完成的火砲結構相容，且放置時會朝向玩家視線方向。它們也擁有專屬的創造模式標籤頁，方便快速取用。</p><p>&nbsp;</p><p>合成配方均為無序合成：<br>火砲瞄具：minecraft:spyglass + create:electron_tube<br>火砲雷射指標：minecraft:glass + create:electron_tube</p>",
+  "bodyHash": "19284e3467ce12f8",
+  "content": "\n\n<p>CBC Scope + Laser 為 Create Big Cannons 添加了兩種實用的瞄準工具。</p>\n<p><br>大炮瞄準鏡讓你能在大炮上安裝緊湊型瞄準鏡，透過它觀察目標，獲得更清晰、放大的視野。</p>\n<p>大炮雷射指示器會增加一道可見光束，幫助你更容易地對準射擊，且該雷射可染成不同顏色。</p>\n<p><br>這兩個方塊可直接安裝於 Create Big Cannons 之上，能與已組裝的大炮機構配合運作，放置時會朝向你當前的視線方向。它們也擁有專屬的創造模式頁籤，方便快速取用。</p>\n<p>&nbsp;</p>\n<p>兩者的配方均為無形狀配方：<br>大炮瞄準鏡：&nbsp;minecraft:spyglass + create:electron_tube<br>大炮雷射指示器：&nbsp;minecraft:glass +&nbsp;create:electron_tube</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "JnjUwaIXP/g=",
-  "content": "**Placement+** — это мод Forge, который устраняет задержку при размещении блоков путём удержания правого клика. Он основан на [Accurate Block Placement Reforged](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforged), но лишен функции bedrockify (поскольку Quark уже её имеет). Кроме того, он вновь добавляет возможность включать и выключать мод, как в оригинальной версии для Fabric.",
+  "bodyHash": "42114e9c4b4feb23",
+  "content": "\n\n**Placement+** — это мод для Forge, который убирает задержку при размещении блоков при удержании правой кнопки мыши. Он основан на [Accurate Block Placement Reforged](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement-reforged), но без функции bedrockify (поскольку в Quark она уже имеется). Также он возвращает возможность включать и выключать мод, как в оригинальной версии для Fabric.\n\n\n\nМод отключён:\n![Мод отключён](https://i.imgur.com/mXtQ8qM.gif)\n\nМод включён:\n![Мод включён](https://i.imgur.com/3clt4LI.gif)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

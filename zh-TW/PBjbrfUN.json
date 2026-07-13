@@ -1,0 +1,6 @@
+{
+  "bodyHash": "964ae5d4d737c304",
+  "content": "\n\n允許整合包製作者透過指令生成 AAA Particles，無需編寫自己的模組。**本模組不會新增任何粒子**，它僅提供一個指令來生成已透過資源包或其他模組加入的 .efkefc 粒子。\n\n粒子可使用 Effekseer 製作並透過模組或資源包載入；本模組最初是作為製作自訂起源（Custom Origins）的工具而開發的。\n\n## 指令結構：\n  /spawnaaaparticle <particle>* <scale> <roll>\n\n  粒子參數必須指向有效的粒子資源，否則將無法生成任何內容。\n\n  範例指令：`/spawnaaaparticle \"aaa_particles:debug\"`\n\n  若需更精確的控制，可搭配 `execute` 指令使用；\n\n  範例指令：`/execute positioned ~ ~ ~ rotated ~ ~40 run spawnaaaparticle \"aaa_particles:debug\" 1.2 0`\n\n## 指令結構（1.1.0 版之前）：\n  /spawnaaaparticle <particle>* <roll>*\n\n## 新增粒子：\n  Effekseer 粒子可透過資源包加入，檔案結構如下：\n\n```\n  resourcepack\n  |- pack.mcmeta\n  L assets\n    L <namespace>\n      L effeks\n        |- <particlename>.efkefc\n        L <particlename>\n          L <particlename>_tex.png\n```\n\n\n## 補充資訊：\nAAA Particles 可於 [此處](https://modrinth.com/mod/aaa-particles) 取得，\nEffekseer 可於 [此處](https://effekseer.github.io/en/) 取得。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

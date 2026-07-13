@@ -1,6 +1,6 @@
 {
-  "bodyHash": "VZdTKHglIDo=",
-  "content": "Мод направлен на улучшение совместимости с помощью TACZ и Create Aeronautics.\n\nВ настоящее время мод делает так, что пули от оружия TACZ сталкиваются с физическими объектами и не проходят сквозь них просто так.\n\nКонечно, требуются Create, Aeronautics и TACZ.",
+  "bodyHash": "f373abbfd65a5b03",
+  "content": "\n\nМод направлен на улучшение совместимости с TACZ и Create Aeronautics.\n\nВ настоящее время он обеспечивает столкновение пуль из оружия TACZ с физическими объектами, предотвращая их пролет сквозь них насквозь.\n\nРазумеется, обязательны к установке Create, Aeronautics и TACZ.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

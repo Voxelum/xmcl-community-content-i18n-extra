@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2a2c59dee1f0570",
+  "content": "\n\n<p><strong>BasaltNeo &mdash; 伺服器完整性客戶端</strong></p>\n<p>BasaltNeo 是為希望保持模組包整潔的 NeoForge 1.21.1 伺服器擁有者所設計之兩部分模組完整性系統的客戶端組件。</p>\n<p>當你加入運行 BasaltNeo 的伺服器時，它會驗證你的模組與資源包是否符合伺服器的核准清單。就這麼簡單。不會進行侵入性掃描，不在伺服器上時也不會有背景程序運作，它會在完全靜置狀態下等待，直到你連線至使用該功能的伺服器為止。</p>\n<p><strong>檢查項目</strong></p>\n<ul>\n<li>你 <code>mods/</code> 資料夾中的每一個 <code>.jar</code> 檔案</li>\n<li>你 <code>resourcepacks/</code> 資料夾中的每一個 <code>.zip</code> 檔案</li>\n</ul>\n<p>絕對不會觸及遊戲目錄以外的任何內容。</p>\n<p><strong>運作方式</strong><br>每個檔案都會計算 SHA-256 雜湊值，在連線時與伺服器的白名單進行比對。若有不符之處，伺服器將自行處理。會即時偵測連線期間的檔案變更，而非依賴定時檢查，因此在你已進入伺服器時，沒有任何時間窗口可以偷偷替換檔案。</p>\n<p><strong>給伺服器擁有者</strong><br>此模組預設應與你的模組包一併打包。伺服器端對應組件（BasaltNeo Server）是用來管理白名單、設定強制執行機制以及查看日誌的地方。玩家只需將其放入模組資料夾即可，無需進行任何設定。如需安裝協助，請在 Discord 上聯繫 @officialmrbasalt。</p>\n<p>當你加入使用 BasaltNeo 的伺服器時，聊天頻道會顯示通知，告知你正在檢查什麼以及原因。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

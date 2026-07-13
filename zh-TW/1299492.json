@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15f26f73d9d730d0",
+  "content": "\n\n<p><span style=\"text-decoration:underline\"><strong>Ace's Spell Utils</strong></span> 是一款專為製作《Iron's Spells and Spellbooks》擴充套件而設計的實用 API。本模組包含了一些對模組開發者而言非常實用的方法與類別，可供他們在開發自己的擴充套件時使用。若收到建議或有新增功能的需求，我們將持續加入更多特性。</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration:underline\">目前功能：</span></p>\n<ul>\n<li>獨特的施法生物類別，用於讓擁有自訂模型的生物具備適用於長吟唱、瞬發及持續型法術的自訂施法動畫</li>\n<li>通用首領實體類別，使開發自訂首領的流程更加簡化</li>\n<li>通用獨特首領實體類別，用於開發擁有自訂模型的施法實體</li>\n<li>專為施法生物設計的法師法術連擊目標</li>\n<li>通用的首領音樂管理器與首領音樂實例類別，用於實現自訂且動態的首領配樂</li>\n<li>可附魔飾品類別</li>\n<li>可附魔法杖類別</li>\n<li>劍鞘飾品類別</li>\n<li>包含針對法術與生物的小眾實用方法類別</li>\n<li>魔力偷取屬性</li>\n<li>魔力撕裂屬性</li>\n<li>飢餓偷取屬性</li>\n<li>閃避屬性</li>\n<li>多種可供免費使用的自訂施法動畫</li>\n<li>可供使用的自訂物品稀有度</li>\n</ul>\n<p>本模組採用開源 MIT 授權；任何 ISS 擴充套件開發者均可自由將此 API 用於他們的模組中。如有任何問題或建議，請提交至 GitHub 頁面。</p>\n<p style=\"text-align:center\"><strong>需要伺服器？歡迎瀏覽 Bisect Hosting！</strong></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252facetheeldritchking\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/6a5e47ed-5d75-4bba-ae85-8ee63a203634.webp\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

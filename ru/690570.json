@@ -1,0 +1,6 @@
+{
+  "bodyHash": "100aad48280ddb1b",
+  "content": "\n\n<p style=\"text-align:center\"><span style=\"color:#00f;font-size:14px\"><strong>Регенерация здоровья босса</strong></span></p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:left\"><span style=\"color:#000;font-size:14px\"><strong>Подробности:</strong></span></p>\n<p style=\"text-align:left\"><span style=\"color:#000;font-size:14px\">У этого простого мода одна функция: он исцеляет указанных мобов, когда игрок умирает поблизости. Полезно для повышения сложности боёв с боссами.</span></p>\n<p style=\"text-align:left\"><span style=\"color:#000;font-size:14px\">Предусмотрена конфигурация, где пользователи могут указать мобов и радиус для поиска целей лечения.</span></p>\n<p style=\"text-align:left\"><span style=\"color:#000;font-size:14px\">Чтобы добавить моба в список, просто введите его ID в конфиг. Пример: \"minecraft:wither\"</span></p>\n<p style=\"text-align:left\">&nbsp;</p>\n<ul>\n<li style=\"text-align:left\"><span style=\"color:#000;font-size:14px\">Свободно используйте в любых модпаках</span></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

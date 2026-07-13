@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7d2a6e34ad090739",
+  "content": "\n\n![主標誌](https://cdn.modrinth.com/data/cached_images/ba09baf71b4d059e734f68481c3b410527d88758.png)\n\n# **Cosmos Portals**\n\n### **公告**\n\nCosmos Portals 現已支援 **1.21.1** 與 **NeoForge**。\n\n*自 1.21.1 版本 8.11.0.0 起，Cosmos Portals 已不再使用原生的 32x 紋理，改為採用 16x 紋理以更好地融入 Minecraft 的視覺風格。若您偏好 32x 紋理或使用其他 32x 資源包，原始紋理可作為獨立的資源包下載。*\n\n### **說明**\n\nCosmos Portals 是一款簡易模組，允許您建立通往任何維度的傳送門，前提是該維度必須先被造訪過。您甚至可以使用它在**同一**個維度內進行旅行！告別雜亂的下界傳送門，或耗費長時間跋涉至終界傳送門，精準前往您想去的地方！\n\n### **新增功能**：\n- **自訂設定**：為您的維度容器選擇專屬名稱與顏色。\n- **升級版傳送門停靠站 [4]**：可儲存 4 種不同維度容器的停靠站，支援透過圖形介面或停靠站控制器方塊進行即時切換。\n- **升級版傳送門停靠站 [8]**：功能同上，但提供 8 個維度容器槽位。\n- **停靠站控制器**：一種可與傳送門停靠站連結的方塊，只需輕按按鈕即可在已儲存的容器間切換。\n- **傳送門過濾**：針對特定實體篩選傳送門，支援僅限玩家、僅限生物，甚至僅限物品的傳送門！\n\n### **32x 資源包**\n\n查看原始 32x 紋理 [這裡](https://modrinth.com/resourcepack/cosmos-portals-32x)。\n\n### **依賴項目**\n\nCosmos Portals 需要 **Cosmos Library** 才能正常運作，請至 [這裡](https://modrinth.com/mod/cosmos-library) 下載最新版本。\n\n## **Cosmos 系列作品**\n\n本模組為 **[Cosmos 系列作品](https://modrinth.com/organization/the-cosmos-series)** 的一部分。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

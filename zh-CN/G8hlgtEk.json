@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3ab433d15923dee",
+  "content": "\n\n# 饰品\n一款基于 Fabric 的 Minecraft 数据驱动饰品模组。\n\n## Polymer 移植版\n此模组分支/版本为服务端移植版（仍基于 Fabric！），如需用于常规整合包或单人游戏，请查看[原版](https://github.com/emilyploszaj/trinkets)。\n要打开饰品界面，请使用 `/trinkets` 命令或在盔甲栏上右键点击。\n\n它也完全兼容标准的 Trinkets API，因此你可以将其与 PolyMc 及其他依赖 Trinkets 的模组配合使用。\n\n- 使用服务端资源包（使用 Polymer 生成，推荐，但需要额外设置）： \n![With RP](https://imgur.com/xdK3Pe7.png)\n- 不使用资源包（默认）：\n![Without RP](https://imgur.com/8LqfCft.png)\n\n## 关于\n饰品模组为 Minecraft 添加了槽位组与槽位系统。槽位组是针对特定身体部位或更宽泛区域的一组槽位集合。默认情况下有 6 个槽位组（头部、躯干、腿部、脚部、副手、主手），可以向其中添加槽位，但也可根据需要添加更多组。饰品的用户界面直观易用、易于访问，并致力于消除繁杂元素。该系统意味着你永远不会拥有闲置的槽位，因为各模组只会请求它们所需的槽位。\n\n## 开发者\n若要将饰品模组添加到你的项目中，需要在 `build.gradle` 的 `repositories` 中配置 jitpack 和 nerdhubmc：\n```\nrepositories {\n\tmaven { url = \"https://maven.terraformersmc.com/\" }\n\tmaven { url = \"https://maven.nucleoid.xyz\" }\n\tmaven { url = \"https://ladysnake.jfrog.io/artifactory/mods\" }\n}\n```\n随后在 `build.gradle` 中将饰品模组作为依赖项添加即可：\n```\ndependencies {\n\tmodImplementation \"eu.pb4.polyport:trinkets:${trinkets_version}\"\n}\n```\n\n如需基础教程与完整文档，请访问本仓库的 [Wiki](https://github.com/emilyploszaj/trinkets/wiki/Home)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "OL98T4/1/rw=",
-  "content": "Этот мод всё ещё находится в стадии альфа, поэтому ожидайте багов — пожалуйста, сообщайте о них.\n\nЭто простой мод для Fabric 1.21.1, который добавляет сбор деревьев с учётом физики.\n\n**_Если он вылетает при запуске, попробуйте использовать Java 24._**\n\n~~_**```я не несу ответственности за любые уничтоженные базы из-за этого мода```**_~~\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2snHIH30lBA\" title=\"Плеер видео на YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n<details>\n<summary>v0.2</summary>\n\nИсправления багов\n\n</details>\n\n\n",
+  "bodyHash": "d452c77c1cbb6b26",
+  "content": "\n\nЭтот мод всё ещё находится в альфа-версии, поэтому ожидайте баги. Пожалуйста, сообщайте о них.\n\nЭто простой мод для Fabric 1.21.1, добавляющий рубку деревьев на основе физики.\n\n**_Если при запуске происходит сбой, попробуйте использовать Java 24._**\n\n~~_**```Я не несу ответственности за любые разрушенные базы из-за этого мода```**_~~\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2snHIH30lBA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n<details>\n<summary>v0.2</summary>\n\nИсправления ошибок\n\n</details>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

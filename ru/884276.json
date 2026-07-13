@@ -1,6 +1,6 @@
 {
-  "bodyHash": "HEuQGIdjn/A=",
-  "content": "<p><span style=\"font-size:24px\"><strong>Колебание прицела</strong></span><br>Этот мод добавит следующие эффекты к вашему прицелу:</p><ul>\n<li>Анимация колебания. (только при включённой функции View Bobbing)</li>\n<li>Анимация дрожания при атаке мобов и разрушении блоков.</li>\n<li>Анимация зарядки для лука, трезубца и арбалета.</li>\n<li>Специальная анимация при еде и питье.<br><br></li>\n</ul><p><span style=\"font-size:18px\"><strong>Modloader</strong></span><br>Этот мод был написан для Minecraft 1.16.2–1.20.1 с использованием Fabric/Quilt Modloader и для версий 1.16.3–1.20.1 с Forge Modloader.</p><p><img src=\"https://cdn.modrinth.com/data/paCz780b/images/3223dd4424b42c830802301acd93f7216bc0e6bd.gif\" alt=\"\" width=\"852\" height=\"480\"></p>",
+  "bodyHash": "c44a4a45e22e9a13",
+  "content": "\n\n<p><span style=\"font-size:24px\"><strong>Покачивание прицела</strong></span><br>Этот мод добавит следующие эффекты к вашему прицелу:</p>\n<ul>\n<li>Анимация покачивания. (работает только при включённом «Покачивании камеры»)</li>\n<li>Анимация тряски при атаке мобов и разрушении блоков.</li>\n<li>Анимация зарядки для лука, трезубца и арбалета.</li>\n<li>Специальная анимация при употреблении еды и напитков.<br><br></li>\n</ul>\n<p><span style=\"font-size:18px\"><strong>Загрузчик модов</strong></span><br>Данный мод создан для Minecraft 1.16.2–1.20.1 на Fabric/Quilt и для Minecraft 1.16.3–1.20.1 на Forge.</p>\n<p><img src=\"https://cdn.modrinth.com/data/paCz780b/images/3223dd4424b42c830802301acd93f7216bc0e6bd.gif\" alt=\"\" width=\"852\" height=\"480\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

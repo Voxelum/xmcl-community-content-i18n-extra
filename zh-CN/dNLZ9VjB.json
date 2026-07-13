@@ -1,6 +1,6 @@
 {
-  "bodyHash": "AiNIoC3Xk2s=",
-  "content": "**Xaero's Player Position** 是一个基于Xaero的小地图和 Xaero的世界地图开发，用于 Minecraft 的客户端实用模组。  \n功能是显示玩家当前坐标（X/Y/Z）并提供便捷的位置共享文本，方便联机时快速集合与导航。\n\n### 主要功能\n- 实时显示当前坐标\n- 一键复制/发送位置文本（用于聊天或队伍沟通）\n- 支持主世界、下界、末地坐标显示\n\n### 使用说明\n由于尚未解决的bug，玩家头像需要按Tab键才能出现。大地图上会出现多个重复的头像：没有白边的头像表示玩家的实际位置，带有白边的头像属于错误显示，会导致一些视觉上的问题。\n\n### 适用场景\n- 多人联机集合\n- 据点、矿洞、传送门定位\n- 日常探索中的位置记录\n\n### 下载前须知\n- 这是客户端功能模组，不提供作弊功能，不绕过服务器限制\n- 需要安装并启用对应加载器与前置依赖（见“依赖”）\n\n### 依赖\n- Minecraft\n- [Xaero的小地图](https://modrinth.com/mod/xaeros-minimap)\n- [Xaero的世界地图](https://modrinth.com/mod/xaeros-world-map)",
+  "bodyHash": "6b14224e3f4be5e2",
+  "content": "\n\n**Xaero's Player Position** 是一款基于 Xaero 小地图与 Xaero 世界地图开发的 Minecraft 客户端实用模组。  \n主要功能为实时显示玩家当前坐标（X/Y/Z），并提供便捷的位置共享文本，方便多人联机时快速集合与导航。\n\n### 主要功能\n- 实时显示当前坐标\n- 一键复制/发送位置文本（用于聊天或队伍沟通）\n- 支持主世界、下界、末地坐标显示\n\n### 适用场景\n- 多人联机集合\n- 据点、矿洞、传送门定位\n- 日常探索中的位置记录\n\n### 使用方法\n由于存在无法修复的 Bug，需要按下 Tab 键后才会显示玩家头像。在大地图上会出现多个重复的头像：没有白边的头像是玩家实际位置，带有白边的头像属于渲染异常，会导致一些视觉问题。\n\n### 下载前须知\n- 此为纯客户端功能模组，不提供任何作弊功能，不会绕过服务器限制\n- 需安装并启用对应的模组加载器及前置依赖（见“依赖”部分）\n\n### 依赖\n- Minecraft\n- [Xaero的小地图](https://modrinth.com/mod/xaeros-minimap)\n- [Xaero的世界地图](https://modrinth.com/mod/xaeros-world-map)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

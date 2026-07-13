@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6f91bd824dcdda21",
+  "content": "\n\n# 💿 白蛇附加模組（Ripples of the Past）\n\n- 目前版本：**BETA 1.0.9**\n- [原版附加模組的原始程式碼](<https://github.com/ArchLunatic1057/Whitesnake-Addon-RotP>)\n\n這是一款針對**JOJO的奇妙冒險 第六部 石之海**中「白蛇」所打造的優質重製模組，最初由 **ArchLunatic** 等人製作。\n\n特別感謝 **TheDoGGyS** 與 **Weever** 在專案開發期間提供的協助！\n\n部分音效由 **LAMBIRNO** 製作，「融化你的心」方塊貼圖由 **ksadsa** 提供，替身概念設計來自 **nefarious**。\n\n# 👊 攻擊招式：\n- 輕擊\n- 重擊（Shift 鍵變體：輕擊／連續拳擊）\n- 連續拳擊\n- 碟片投擲\n\n# ✨️ 能力：\n- 記憶碟片彈出（對玩家與生物皆有效）\n- 替身碟片彈出\n- 失明\n- 「融化你的心」\n\n## ❔ 關於記憶／替身碟片機制：\n- 記憶碟片機制賦予了彈出任何活體生物記憶碟片的能力。當記憶碟片從生物身上被取出時，該生物將陷入無法戰鬥的狀態。這種無能狀態會波及所有實體，玩家與替身亦不例外。\n\n- 至於替身碟片，白蛇的使用者可決定受害者保留哪些替身，或將其徹底剝奪。本質上，它是將替身從受害者體內抽出並封存於替身碟片中，碟片內同樣會記錄該替身的技能與覺悟等級（Resolve Level）。\n\n# 🎮 實機展示：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/cuuBBLay9FE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

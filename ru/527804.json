@@ -1,0 +1,6 @@
+{
+  "bodyHash": "490144b21460744b",
+  "content": "\n\n<h1>Советы при загрузке</h1>\n<p>Этот мод добавляет подсказки во время загрузки, которые можно настроить с помощью файла в ресурспаке по пути \"assets/modid/loading_tips/tips.json\"</p>\n<p>{<br> &emsp;\"replace\": false,<br> &emsp;\"tips\": [<br> &emsp;&emsp;\"text.loadingtips.tip.nether_bed\",<br> &emsp;&emsp;\"text.loadingtips.tip.milk\",<br> &emsp;&emsp;\"text.loadingtips.tip.iron_golem\"<br> &emsp;]<br> }</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img src=\"https://raw.githubusercontent.com/UltrusBot/LoadingScreenTips/master/images/image1.png\" alt=\"Совет: Криперы боятся кошек\" width=\"700\">;</p>\n<p>Эти подсказки являются ключами перевода, поэтому текст можно определить в языковых файлах (например, en_us.json)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

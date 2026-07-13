@@ -1,0 +1,6 @@
+{
+  "bodyHash": "295f7dbab13c950c",
+  "content": "\n\n本模组使用 lithostitched 在主世界生成河流。\\\n\\\n画廊中的所有截图均使用了以下模组：\\\nDistantHorizons-3.0.3-b-1.21.1-fabric-neoforge\\\nlithostitched-1.7.9-neoforge-21.1\\\nmiddgard-1.2.1-1.21.1\\\nOh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2\\\ntectonic-3.0.22-neoforge-21.1\\\n\\\n唯一依赖项是 lithostitched 1.7.9 neoforge 1.21.1，但我认为配合上述模组能获得最佳效果。\\\n\\\n现已新增配置选项，可调整河流的弯曲度/振幅、宽度、河岸宽度、河岸方块调色板以及生成生物群系。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Eq2fSRchnfA=",
-  "content": "Это библиотека для модов, написанных на [Scala](https://www.scala-lang.org/).\n\nБиблиотека Forge содержала Scala runtime до версии 1.12, но она была удалена в версии 1.13.\n\nЭта библиотека содержит Scala runtime и Cats, которая является библиотекой для функционального программирования.\n* Scala (https://www.scala-lang.org/) распространяется под лицензией Apache License, Version 2.0. (https://www.scala-lang.org/license/)\n* Cats (https://typelevel.org/cats/) распространяется под лицензией MIT (https://github.com/typelevel/cats/blob/master/COPYING).\n\n\nСодержание посвящено модам Minecraft, ресурс-пакам, модпакам, шейдер-пакам или другим связанным с Minecraft ресурсам. Пожалуйста, сохраняйте стиль языка приятным для геймеров.",
+  "bodyHash": "b74db056064eb476",
+  "content": "\n\nЭто библиотека для модов, написанных на [Scala](https://www.scala-lang.org/).\n\nБиблиотека Forge включала в себя среду выполнения Scala до версии 1.12, но она была удалена в 1.13.\n\nДанная библиотека содержит среду выполнения Scala и Cats — библиотеку для функционального программирования.\n* Scala(https://www.scala-lang.org/) лицензируется под Apache License, Version 2.0. (https://www.scala-lang.org/license/)\n* Cats(https://typelevel.org/cats/) лицензируется под MIT License(https://github.com/typelevel/cats/blob/master/COPYING).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

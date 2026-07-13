@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13b2e99a0425fa17",
+  "content": "\n\n# 動態視角\n\n動態視角是一款適用於 Minecraft 的 Fabric 與 NeoForge 模組，會根據當前情境自動切換玩家的\n鏡頭視角。支援的情境：\n\n- 游泳\n- 爬行\n- 飛行\n- 騎乘\n\n每個情境均可獨立開關，並設定為第一人稱、第三人稱背後或第三人稱正面。視角切換也可\n設定為動畫過渡，而非瞬間切換。遊戲內可透過 [Mod Menu](https://modrinth.com/mod/modmenu) 與\n[Cloth Config](https://modrinth.com/mod/cloth-config) 進行設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

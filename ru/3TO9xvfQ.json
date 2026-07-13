@@ -1,14 +1,6 @@
 {
-  "bodyHash": "rYg8INZFIfU=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "0c17f23c-635a-95ed-a95f-45339d1e38d1"
-  },
+  "bodyHash": "4a0bbbbe76901a0c",
+  "content": "\n\nАнглийский\n-----------------------------------------------------------------------------------------------\nЗаменяет текстуры здоровья на лампочку из OneShot\n\nРусский\n-----------------------------------------------------------------------------------------------\nЗаменяет текстуры здоровья на лампочку из OneShot",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

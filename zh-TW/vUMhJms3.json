@@ -1,6 +1,6 @@
 {
-  "bodyHash": "CO5M0y2Qpvs=",
-  "content": "# 低火焰介面\n\n一個簡單的 Minecraft 資源包，僅在您的介面上將火焰顯示調低。\n此資源包與大多數資源包的不同之處在於，它**僅**影響介面；\n地面上的火焰保持不變。\n\n## 圖庫\n\n![第一人稱視角下著火的外觀示例](https://raw.githubusercontent.com/ArkhamCookie/better-low-fire-resource-pack/refs/heads/main/docs/gallary/lowfire.gif)\n\n## 致謝\n\n火焰的紋理由 [gitq](https://modrinth.com/user/gitq) 創建，並根據 MIT 許可證授權。\n此資源包的標誌是藍色火焰動畫之一。\n**gitq 為此資源包完成了所有艱難的工作。**\n我只是以不同的方式打包，使其不改變地面上的火焰。\n他們的原始資源包是 [Better Low Fire](https://modrinth.com/resourcepack/better-low-fire)。",
+  "bodyHash": "90c0afaa37f761e5",
+  "content": "\n\n# 縮小火焰 HUD\n\n這是一款簡單的 Minecraft 資源包，僅在您的 HUD 上將火焰效果調小。與其他資源包不同的是，它**僅**影響 HUD 顯示；\n地上的火焰不會有任何改變。\n\n## 圖庫\n\n![第一人稱視角下被火焰包圍的範例](https://raw.githubusercontent.com/ArkhamCookie/better-low-fire-resource-pack/refs/heads/main/docs/gallary/lowfire.gif)\n\n## 版權與鳴謝\n\n火焰貼圖由 [gitq](https://modrinth.com/user/gitq) 製作，並採用 MIT 授權條款。\n此資源包的標誌採用了其中一個藍色火焰動畫。\n**此資源包的主要開發工作全由 gitq 完成。**\n我只是以不同的方式進行打包，確保它不會影響地上的火焰。\n他們的原始資源包是 [Better Low Fire](https://modrinth.com/resourcepack/better-low-fire)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

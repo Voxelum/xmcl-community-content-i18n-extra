@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77df90afd2d9c8fa",
+  "content": "\n\n## 可自定义的玩家模型\n使用内置编辑器创建自定义头像。\n![在编辑器中创建帽子](https://media.forgecdn.net/attachments/337/167/2021-01-30_12.png)\n模型存储在 Minecraft 皮肤的未使用区域，或作为 GitHub Gist 保存。  \n将导出的图片文件上传为皮肤即可加载自定义模型。  \n在[模型网站](https://cpmmodels.tom5454.com/)浏览已上传的模型。  \n\n附加部分可自定义纹理，可使用更高分辨率的皮肤（例如来自[Soartex Fanver - Vanilla](https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-vanilla)的史蒂夫皮肤）。  \n可以隐藏或调整普通玩家模型各部分的位置。\n![示例](https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/examples.png)\n你甚至能让皮肤的某些部分像发光鱿鱼一样“发光”。\n![发光效果](https://media.forgecdn.net/attachments/337/173/2021-01-30_12.png)\n用于 Bukkit/Spigot 服务器的游戏内换肤插件（非必需）：[https://github.com/tom5454/CustomPlayerModels/releases](https://github.com/tom5454/CustomPlayerModels/releases)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "236e6985ae2f69ba",
+  "content": "\n\n**描述**\n此模組會生成一個平坦的世界，包含常規世界中的所有生態系與結構。\n\n它讓你能夠重建超級平坦世界，同時仍能在此中體驗完整的冒險。\n\n\n🛠 **設定**\n\n名為 **onelayer-common.toml** 的設定檔位於 **config** 資料夾或遊戲內，可讓你調整世界生成與部分行為，以更好地配合你的冒險、伺服器或整合包。\n\n\n🌳 **伺服器**：\n\n你可以在 server.properties 檔案中加入以下參數來測試： \n\n\n```\nlevel-type=onelayer\\:onelayer\n```\n\n建議在建立世界前加入此參數。\n\n\n🌴 **客戶端**： \n\n在生成類型中選擇 **One Layer**\n\n \n⚒ **資訊**\n\n📜 如果你對使用本模組感興趣，或覺得缺少某些功能，歡迎隨時聯繫我或建立 Issue。我樂於接受回饋與建議！歡迎加入我的 Discord 或直接透過 Modrinth 聯繫我。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

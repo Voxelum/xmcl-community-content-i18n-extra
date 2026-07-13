@@ -1,6 +1,6 @@
 {
-  "bodyHash": "fA8SGkoZ7GQ=",
-  "content": "# 重型火炮创世：反作用力\n\n你是否曾将重型火炮模组的火炮安装在气动飞艇模组的载具上，却因开火时感受不到后坐力而失望？你是否曾向物理实体开火，却只能看到炮弹造成些许伤害后弹开？\n\n本模组将改变这一切。火炮开火时产生的冲击波会撼动你的载具，敌方炮弹击中你的舰船时可能令其偏航。每一个作用力，都伴随着等量的反作用力。\n\n### 改动内容：\n- 重型火炮模组的火炮与机炮开火时，会对所附着的物理实体产生后坐力。\n- 重型火炮模组的炮弹与机炮弹丸击中物理实体时，将产生冲击力。\n\n本模组兼容[重型火炮模组：弹道扩展](https://modrinth.com/mod/create-big-cannons-going-ballistic)。",
+  "bodyHash": "f573c9c05b55d57e",
+  "content": "\n\n# Create Big Cannons：等量反向\n\n## 自 Create Big Cannons 5.11.3 起已废弃\n\n你是否曾将 Create: Big Cannons 的火炮安装在 Create: Aeronautics 的载具上，却因无法感受到开火时的后坐力而感到失望？你是否曾向物理对象发射炮弹，却发现弹丸只是造成了一些伤害便弹开了？\n\n有了这个模组，这两种情况都将发生改变。开火时，火炮的爆炸冲击力会让你的载具剧烈摇晃。敌方炮弹击中你的船只时，可能会使其偏离航线。每一个作用力都有一个大小相等、方向相反的反作用力。\n\n### 修改内容：\n- 来自 Create: Big Cannons 的火炮和自动火炮现在在从所附着的物理对象上开火时，会产生后坐力。\n- 炮弹和自动火炮弹药现在击中物理对象时会产生冲击力量。\n\n本模组与 [Create Big Cannons: Going Ballistic](https://modrinth.com/mod/create-big-cannons-going-ballistic) 兼容。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

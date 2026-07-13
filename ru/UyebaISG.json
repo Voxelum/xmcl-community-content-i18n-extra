@@ -1,0 +1,6 @@
+{
+  "bodyHash": "abaa2458e3c29fc1",
+  "content": "\n\nИсправляет сбой при использовании Defile вместе с Origins/Apoli в Minecraft 1.20.1.  \nВ частности, устранена ошибка NullPointerException, возникающая из-за того, что миксин перспективы Defile срабатывает до загрузки игрока.\n\nЕсли это не поможет, то, вероятно, вы сделали что-то другое, я не знаю.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

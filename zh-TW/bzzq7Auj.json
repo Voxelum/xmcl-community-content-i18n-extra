@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0b939b50e02d8cd0",
+  "content": "\n\n# Create：不可摧壞的工具\n\n這是 Create 的擴充模組，提供讓您的工具變得不可摧壞的方法。\n\n## 合成配方\n\n![Irromolding 配方](https://i.imgur.com/fC5p3Ra.png)\n\n## 使用方法\n\n要讓您的工具變得不可摧壞，請先依照上方的配方進行合成。接著，將您希望改造的工具與 `Irromolding` 一起放置在鐵砧上。若該工具尚未附魔「經驗修復」或「耐久無限」，此操作將使其成為不可摧壞狀態。\n\n## 詳細資訊\n\n- `Phiolite 方塊` 與 `Luminarchy 方塊` 為新型礦物，會均勻地生成於 -4 至 -64 層之間的負層地帶。\n- `Irromolding` 無法套用於已附魔 `經驗修復` 或 `耐久無限` 的物品，且已具備不可摧壞特性的物品也無法再獲得這些附魔。\n\n## 載入器與依賴項\n\n- Forge\n    - [Create](https://modrinth.com/mod/create)\n- Fabric\n    - [Create Fabric](https://modrinth.com/mod/create-fabric)\n    - [Fabric API](https://modrinth.com/mod/fabric-api)\n    - [Porting Lib](https://modrinth.com/mod/porting_lib)\n\n## 授權條款\n本模組採用 [GPL-3.0 授權條款]([LICENSE](https://github.com/anviaan/CreateUnbreakableTools/blob/MultiLoader-1.19.2/LICENSE)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

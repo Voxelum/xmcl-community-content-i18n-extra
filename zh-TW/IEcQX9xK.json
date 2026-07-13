@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c05728d438544250",
+  "content": "\n\n這是一個針對 [Harrowing Hells](https://modrinth.com/datapack/harrowing-hells)、[Boss Checklist](https://modrinth.com/mod/boss-checklist) 與 [Field Guide](https://modrinth.com/mod/field-guide) 的模組插件，將前者的 Cinderscourge 首領整合至後兩者的介面中作為一個條目。\n\n  **\"你是怎麼讓它運作的？Harrowing Hells 本身是打包成模組的數據包！\"**\n首先，該模組會新增一個虛構且無法生成的替代實體，作為你所見條目的基礎。條目中顯示的自定義掉落物（Nether Dwarf Star）同樣是虛構且無法獲取的道具，僅用於模擬真實情況。一旦伺服器偵測到首領實體已死亡，該首領的條目便會自動被標記為完成（打勾）。\n\n  **\"為什麼不將此模組與其他 Boss Checklist/Field Guide 插件打包在一起？\"**\n本模組使用了上述由模組自身新增的虛構實體。因此，無論你實際上有沒有安裝 Harrowing Hells，該模組新增的首領條目都會顯示出來。特別是在 Boss Checklist 的情況下，你肯定不希望玩家在一套模組整合包裡滿世界好奇地尋找這個「Cinderscourge」，結果後來才發現，他們根本連原本應該支援該首領的模組都沒裝。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8f240d616589a504",
+  "content": "\n\n# 多重快捷鍵綁定\n\n[**GitHub**](https://github.com/kennybc/multi-key-bindings) • [**Modrinth**](https://modrinth.com/mod/multi-key-bindings) • [**CurseForge**](https://www.curseforge.com/minecraft/mc-mods/multi-key-bindings)\n\n**允許玩家為同一個動作或功能設定多個快捷鍵，並可為綁定新增輔助鍵。**\n\n本模組為原生的快捷鍵設定畫面增添了額外功能。只需點擊任意快捷鍵旁的「+」按鈕，選定動作的新的綁定選項就會顯示出來。\n本模組也支援輔助鍵（左／右 Shift、Ctrl 與 Alt），並可將按鍵綁定至切換切換動作的黏性模式（例如自動跳躍、黏性潛行、黏性衝刺等）。\n\n![快捷鍵設定](https://cdn.modrinth.com/data/cached_images/e3d7d62a98d18806013a5b2bafb91f62f008a291_0.webp)\n\n## 版本與相容性\n\n專為 Minecraft 1.20.x、1.21.x 與 26.1.x 版本打造\n\n<br>\n\n> _自 MKB 1.3.0 版起，已支援快捷鍵輔助鍵（例如 Shift+K）。_\n\n<br>\n\n> _自 MKB 1.1.0 版起，已與 Controlling 模組相容，您可在同一個畫面中搜尋與排序所有快捷鍵。_\n\n<br>\n\n> _請注意部分特殊限制：例如，若將「開啟物品欄」動作綁定至滑鼠按鍵，按下該滑鼠按鍵將無法像鍵盤按鍵一樣關閉物品欄。同樣地，若將按鍵綁定至「選擇方塊」，則無法像使用滑鼠綁定那樣透過拖曳操作來複製方塊。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00bbb94eaf41f096",
+  "content": "\n\n# 鞘翅物理\n\n这是一款简单的 Minecraft 模组，为玩家在穿戴鞘翅时添加了类似披风的物理效果。\n\n穿戴它奔跑时，鞘翅不再显得僵硬和不自然。\n\n![(demo image)](https://raw.githubusercontent.com/OhHeyItsJosh/Elytra-Physics/master/elytraPhysics_demo.png)\n\n## 下载\n\nhttps://www.curseforge.com/minecraft/mc-mods/elytra-physics\n\nhttps://modrinth.com/mod/elytra-physics\n\n支持 Forge 和 Fabric 平台\n\n## 兼容性\n\n自 2.0 版本起，本模组现已支持为其他模组的图层渲染器添加自定义兼容性。\n\n如果其他模组的鞘翅与 Elytra Physics 不兼容，请打开配置文件（Forge 为 `elytra_physics-client.toml`，Fabric 为 `elytra-physics-config.json`），并将该自定义鞘翅图层渲染器的类路径添加到 `inject_layers` 列表中。\n\n\n### 如何查找类路径？\n\n类的类路径是指该类的包路径（可在图层对应的 .java 文件顶部找到，格式为 `package {类路径}`）加上类名。\n\n部分已请求的模组兼容性已内置在配置文件中。\n\n\n### 出现与另一个模组的 Mixin 冲突怎么办？\n\n如果出现此情况，可能是由于披风/鞘翅防抖动修复导致的；请尝试在配置中禁用 `prevent snapping` 选项。建议暂时禁用该模组，启动游戏后通过游戏内配置界面将其关闭。 \n\n如果您选择直接编辑配置文件进行修改，请记得同时设置 `elytra_physics_mixin-flags.txt` 中的 `snapping_fix` 标志以及常规配置文件中的 `prevent_snapping` 选项。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

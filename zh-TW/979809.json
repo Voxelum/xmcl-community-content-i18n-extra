@@ -1,6 +1,6 @@
 {
-  "bodyHash": "7+K2k0xMfzU=",
-  "content": "<ul>\n<li>這是一個函式庫模組，讓Minecraft能使用Effekseer粒子效果（.efkefc）。</li>\n<li><del>預設情況下，它會用Effekseer效果取代原版的閃電效果。<br></del></li>\n<li>閃電效果取代的功能已移至<a href=\"https://curseforge.com/minecraft/mc-mods/aaa-particles-world\" target=\"_blank\" rel=\"nofollow\">另一個獨立模組</a>。<img src=\"https://imgur.com/abN7tbR.png\" alt=\"Effekseer 閃電效果\" width=\"854\" height=\"465\"></li>\n<li>無需重新命名效果所使用的資源（如紋理），此模組移除了對資源位置路徑的名稱驗證。</li>\n<li>從資源包載入Effekseer檔案，請參閱原始碼了解如何放置檔案以使其正常運作 :)<br><br>聯絡方式：<br>\n<div>\n<p><a href=\"https://discord.gg/pkpNN77yfs\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://dcbadge.limes.pink/api/server/https://discord.gg/pkpNN77yfs\" alt=\"Discord 邀請連結\" width=\"225\" height=\"28\"></a></p>\n</div>\n</li>\n</ul>",
+  "bodyHash": "3019c33cab638354",
+  "content": "\n\n<ul>\n<li>這是一個函式庫模組，讓 Minecraft 能夠使用 Effekseer 粒子效果（.efkefc）。</li>\n<li><del>預設情況下，它會將原版閃電效果替換為 Effekseer 效果。<br></del></li>\n<li>閃電替換功能已移至<a href=\"https://curseforge.com/minecraft/mc-mods/aaa-particles-world\" target=\"_blank\" rel=\"nofollow\">獨立模組</a>。<img src=\"https://imgur.com/abN7tbR.png\" alt=\"Effekseer 閃電\" width=\"854\" height=\"465\"></li>\n<li>無需重新命名效果所使用的資源（例如貼圖），此模組已移除資源路徑的名稱驗證機制。</li>\n<li>從資源包載入粒子效果，請參考原始碼以獲取檔案放置方式的範例 :)<br><br>聯絡資訊：<br>\n<div>\n<p><a href=\"https://discord.gg/pkpNN77yfs\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://dcbadge.limes.pink/api/server/https://discord.gg/pkpNN77yfs\" alt=\"Discord 邀請\" width=\"225\" height=\"28\"></a></p>\n</div>\n</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

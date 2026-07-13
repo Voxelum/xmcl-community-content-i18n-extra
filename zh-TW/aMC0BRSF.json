@@ -1,6 +1,6 @@
 {
-  "bodyHash": "OFwNHjx8qdk=",
-  "content": "## 關於\n此資源包為 [Enhanced Audio](https://modrinth.com/resourcepack/enhanced-audio) 的選用附加內容。不過，它也可以搭配其他資源包使用，或單獨使用——全看你的偏好。它支援的版本範圍從 **1.14 一直到最新的 26.x.x**。\n\n## 使用小提示\n建議將此資源包載入在所有其他資源包之上。\n\n![resourcepackrecload](https://cdn.modrinth.com/data/cached_images/76b0a391dbefd2cb677c7683b4b3d8fc31e1ade5.png)\n\n這樣做是為了確保音效能夠正常運作。\n\n## 精華展示影片\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/jRFoHBu0LqM\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 運作原理？\n這類資源包能透過角色所踩踏的表面類型與實體，為 Minecraft 加入環境音效。但當涉及過多音效時，可能會產生音效異常，因此我將專注於純粹的環境氛圍音效。",
+  "bodyHash": "2c48a3efef01c61b",
+  "content": "## 關於\n這個資源包是 [Enhanced Audio](https://modrinth.com/resourcepack/enhanced-audio) 的可選附加內容。不過，您也可以將它疊加在其他資源包之上，或者單獨使用。請根據您的喜好選擇。它支持從 **1.14 到最新 26.x.x** 的所有版本。\n\n## 使用提示\n建議您將此資源包載入在所有其他資源包之上。\n\n![resourcepackrecload](https://cdn.modrinth.com/data/cached_images/76b0a391dbefd2cb677c7683b4b3d8fc31e1ade5.png)\n\n這樣可以確保音效正常可用。\n\n## 小展示影片\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/jRFoHBu0LqM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n## 原理是什麼？\n像這樣的資源包能夠利用玩家行走的表面類型和實體來為 Minecraft 添加環境音效。由於涉及的聲音過多可能會導致音效異常，因此我將專注於環境音效的添加。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5ad96094801ebbf",
+  "content": "\n\n**一款能够自动操控你的鞘翅飞向目的地或沿特定方向无限飞行的模组。它还能利用一个漏洞，通过以特定角度先向下再向上飞行来持续获取高度，从而实现无需使用烟花的无限飞行。以下是命令列表：**\n\n---\n\n### `/elytrapilot destination`\n设置飞行目的地。当 ElytraPilot 处于激活状态时，它将尝试带你飞往该目的地。\n\n### `/elytrapilot destination none`\n清除当前目的地。ElytraPilot 将带你朝你注视的方向飞行。\n\n### `/elytrapilot fireworkUsage`\n配置烟花的使用方式：\n- `none`：从不使用烟花，遇到障碍物时会降落。\n- `whenStuck`：仅在卡住时使用烟花。\n\n### `/elytrapilot overlayLocation`\n设置飞行覆盖层的出现位置。\n\n### `/elytrapilot flightUpdates`\n控制 ElytraPilot 发送飞行更新的频率：\n- `none`：不发送更新。\n- `minimal`：仅发送重要更新（例如降落）。\n- `all`：发送所有可用更新。\n\n### `/elytrapilot displayOverlay`\n切换飞行覆盖层的显示状态。\n\n### `/elytrapilot blockGain`\n切换 ElytraPilot 在飞行时是逐渐提升高度还是保持在同一高度。\n\n### `/elytrapilot bind record`\n录制一个新的按键绑定，用于在飞行时切换 ElytraPilot 的开启与关闭状态。\n\n### `/elytrapilot bind remove`\n移除当前已设置的按键绑定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

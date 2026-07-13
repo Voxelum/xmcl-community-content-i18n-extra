@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4afba9f345e5aef8",
+  "content": "\n\n<p>当玩家受到致命伤害时，将进入濒死状态。此时可以被复活，或使用物品延长濒死时间，否则将会死亡。</p>\n<p>可通过配置文件进行设置。</p>\n<table>\n<thead>\n<tr>\n<th>配置项</th>\n<th>说明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>reviveTime</code></td>\n<td>以刻为单位复活玩家所需的时间。</td>\n</tr>\n<tr>\n<td><code>reviveItems</code></td>\n<td>可用于复活玩家的物品。</td>\n</tr>\n<tr>\n<td><code>extendItems</code></td>\n<td>用于延长复活时间的物品。示例：<code>modid:item:ticks</code>。</td>\n</tr>\n<tr>\n<td><code>healthAfterRevive</code></td>\n<td>复活后的生命值。</td>\n</tr>\n<tr>\n<td><code>excludedDamage</code></td>\n<td>直接导致死亡的伤害类型。</td>\n</tr>\n</tbody>\n</table>\n<h3>警告：</h3>\n<p>本模组专为多人游戏设计。若您计划将其用于单人游戏，请勿安装。目前尚无单人游戏相关功能（但未来计划添加）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

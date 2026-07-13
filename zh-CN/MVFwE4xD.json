@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3f75041cfe2a9ea",
+  "content": "\n\n# Blocky\n\nBlocky 以兼顾性能的方式增强原版风格\n\n![地形](https://cdn.modrinth.com/data/MVFwE4xD/images/a6260e30297568c38a960bd110489914fcf83862.png)\n\n**特性包括：**\n- 阴影\n- 彩色阴影\n- 支持远地平线\n- 基础 PBR 支持（需资源包，支持法线与高光）\n- 抗锯齿（FXAA，源自 Simon Rodriguez 的博客文章）\n- 基于高度的分析型雾效\n- 摇曳的树叶与水面\n- 泛光效果\n- 硬编码自发光",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

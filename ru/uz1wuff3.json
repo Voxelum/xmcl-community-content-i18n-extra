@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dq6PewRRnNs=",
-  "content": "Простой мод, который предотвращает зависание сервера Minecraft при остановке сервера с помощью WorldEdit.\n\nОн исправляет ошибку: https://github.com/EngineHub/WorldEdit/issues/2459. Что он делает:\n\n- Останавливает `WorldEdit.getInstance().getExecutorService()` при остановке выделенного сервера (иначе сервер будет зависать на срок до 60 секунд);\n- Убедится, что объект-синглетон `java.util.Timer` в `FutureProgressListener` выполняется в фоновом потоке (иначе сервер застрянет навсегда).\n\nПоддерживаемая среда\n\n| Платформа | Minecraft    | WorldEdit |\n|----------|--------------|-----------|\n| fabric   | MC >= 1.14   | >=7.0.0   |\n| forge    | MC >= 1.15   | >=7.0.0   |\n| neoforge | MC >= 1.20.6 | >=7.0.0   |\n",
+  "bodyHash": "8d4e69917e7e380f",
+  "content": "\n\nПростой мод, предотвращающий зависание сервера Minecraft при остановке из-за WorldEdit\n\nИсправляет https://github.com/EngineHub/WorldEdit/issues/2459. Что именно он делает:\n\n- Завершает работу `WorldEdit.getInstance().getExecutorService()` при выключении выделенного сервера (в противном случае сервер будет зависать максимум на 60 секунд)\n- Гарантирует работу объекта-синглтона `java.util.Timer` в `FutureProgressListener` в демоническом потоке (в противном случае сервер будет зависать навсегда)\n\nПоддерживаемые платформы и версии\n\n| Платформа | Minecraft    | WorldEdit |\n|-----------|--------------|-----------|\n| fabric    | MC >= 1.14   | >=7.0.0   |\n| forge     | MC >= 1.15   | >=7.0.0   |\n| neoforge  | MC >= 1.20.6 | >=7.0.0   |",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

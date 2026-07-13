@@ -1,6 +1,6 @@
 {
-  "bodyHash": "afgVji7hr3s=",
-  "content": "# 方塊獵人\n一個簡單的模組，新增類似躲貓貓小遊戲的功能。\n\n## 物品\n- **偽裝魔杖** - 對著一個方塊右鍵點擊，即可將自己偽裝成該方塊。\n\n## 指令\n- **/disguise set <玩家> <方塊>** - 使用此指令讓指定玩家獲得指定的偽裝。\n  - 範例：/disguise set @a minecraft:stone - 將所有玩家偽裝成石頭。\n- **/disguise remove <玩家>** - 使用此指令移除玩家的偽裝。\n  - 範例：/disguise remove @a - 移除所有玩家的偽裝。\n\n## 計劃中的功能\n- 支援更新的遊戲版本\n\n## 已知問題\n- 當方塊是實心時，第一人稱視角看起來很奇怪。\n- 有些方塊可能完全無法顯示。",
+  "bodyHash": "afb8b1ec6451508c",
+  "content": "\n\n# Block Hunters\n一款簡易模組，新增了類似 Prop Hunt 的迷你遊戲。\n\n## 物品\n- 變裝法杖 - 對著方塊點擊右鍵，即可將自己偽裝成該方塊。\n\n## 指令\n- **/disguise set <玩家> <方塊>** - 使用此指令為指定玩家設置偽裝。\n  - 範例：/disguise set @a minecraft:stone - 將所有玩家偽裝成石頭。\n- **/disguise remove <玩家>** - 使用此指令移除玩家的偽裝效果。\n  - 範例：/disguise remove @a - 移除所有玩家的偽裝效果。\n\n## 規劃中的功能\n- 提供較新版本的構建檔\n\n## 已知問題\n- 當方塊為實體時，第一人稱視角顯示會有些異常。\n- 部分方塊可能完全無法渲染。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

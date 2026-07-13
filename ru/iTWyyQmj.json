@@ -1,6 +1,6 @@
 {
-  "bodyHash": "cxxJxVesYlE=",
-  "content": "### Особенности\n- **Скрывает пустые иконки брони** ![пустая иконка брони](https://cdn.modrinth.com/data/cached_images/621c28298f00b8c2a5b40cdcf4b2956466c5b712_0.webp)\n- **Скрывает пустые пузырьки воздуха** ![пустая иконка воздуха](https://cdn.modrinth.com/data/cached_images/1f3ec615a2ccb5673b7246ff7480399ab8fc9e1f.png)\n\n### До и после\n| Ваниль | Чистый HUD |\n|-------------|-----------|\n![Ваниль](https://cdn.modrinth.com/data/cached_images/9fa0c74525d33db5a743335f5d9af651337dc22d.png) |![Чистый HUD](https://cdn.modrinth.com/data/cached_images/c4878a358db9c9ba3ebdbf8fa9cec025f5c28df1.png) |\n\n### Совместимость\n- **Java Edition:** 1.6.1 – 26.2\n- Если не работает, попробуйте поместить пакет ресурсов выше",
+  "bodyHash": "55d3fdd8ce972850",
+  "content": "\n\n### Особенности\n- **Скрывает иконки пустой брони** ![empty armor icon](https://cdn.modrinth.com/data/cached_images/621c28298f00b8c2a5b40cdcf4b2956466c5b712_0.webp)\n- **Скрывает пустые пузырьки воздуха** ![empty air icon](https://cdn.modrinth.com/data/cached_images/1f3ec615a2ccb5673b7246ff7480399ab8fc9e1f.png)\n\n### До и после\n| Vanilla | Clean Hud |\n|-------------|-----------|\n![Vanilla](https://cdn.modrinth.com/data/cached_images/9fa0c74525d33db5a743335f5d9af651337dc22d.png) |![Clean Hud](https://cdn.modrinth.com/data/cached_images/c4878a358db9c9ba3ebdbf8fa9cec025f5c28df1.png) |\n\n### Совместимость\n- **Java Edition:** 1.6.1 - 26.2\n- Если не работает, попробуйте переместить пакет ресурсов выше в списке загрузки",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

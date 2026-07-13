@@ -1,6 +1,6 @@
 {
-  "bodyHash": "0R+TZOJ+6lA=",
-  "content": "# 預設技能樹\n\n此資料包與模組為 [Pufferfish's Skills](https://www.curseforge.com/minecraft/mc-mods/puffish-skills) 模組添加了預設技能樹。它使用了 [Pufferfish's Attributes](https://www.curseforge.com/minecraft/mc-mods/puffish-skills) 模組的自訂屬性，因此需要安裝該模組才能運作。\n\n它新增了兩個技能樹，可提升能力並提供各種增益效果。第一個是戰鬥技能樹，第二個是採礦技能樹。點數與經驗值分別透過擊殺生物、挖掘石頭或礦物來獲得。\n\n此模組本質上只是一個以模組形式打包的資料包。原因是大多數玩家對安裝模組比安裝資料包更熟悉。\n\n# 版本\n\n此資料包與模組支援以下所有遊戲版本：1.18.2、1.19.2、1.19.4、1.20、1.20.1、1.20.2、1.20.4、1.21.1、1.21.3、1.21.4。\n\n## 授權條款\n\n此資料包與模組採用公有領域授權。您可以在模組包中使用，依需求修改，並無需標示出處即可分享。",
+  "bodyHash": "e8a86ab9c0d16ea2",
+  "content": "\n\n# 預設技能樹\n\n這個資料包與模組為 [Pufferfish's Skills](https://www.curseforge.com/minecraft/mc-mods/puffish-skills) 模組新增了預設的技能樹。它使用了來自 [Pufferfish's Attributes](https://www.curseforge.com/minecraft/mc-mods/puffish-skills) 模組的自訂屬性，因此需要安裝該模組才能運作。 \n\n它新增了兩棵技能樹，用於提升能力並提供多種益處。第一棵專注於戰鬥，第二棵則專注於採礦。分別透過擊殺生物與開採石頭或礦石來獲得技能點與經驗值。\n\n此模組實際上僅是一個包裝成模組形式的資料包。這樣做的原因是大多數人對於安裝模組比安裝資料包更為熟悉。\n\n# 版本資訊\n\n此資料包與模組支援以下所有遊戲版本：1.18.2、1.19.2、1.19.4、1.20、1.20.1、1.20.2、1.20.4、1.21.1、1.21.3、1.21.4。\n\n## 授權條款\n\n此資料包與模組採用公有領域（Public Domain）授權。您可以將其用於模組整合包中，根據需求進行修改並分享，且無需標示出處。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1c6b65ec5accfbe9",
+  "content": "\n\n<p>Discord:&nbsp;<a href=\"https://discord.gg/BCHNhsDMXz\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/BCHNhsDMXz</a></p>\n<p>Вики: <a href=\"/linkout?remoteUrl=https%253a%252f%252fwiki.mango-kubejs.pages.dev%252faddons%252ftconstruct_js%252f\" target=\"_blank\" rel=\"nofollow\">https://wiki.mango-kubejs.pages.dev/addons/tconstruct_js</a></p>\n<p>Этот мод добавляет интеграцию с KubeJS для Tinker's Construct, позволяя:</p>\n<ul>\n<li>добавлять рецепты TConstruct</li>\n<li>создавать пользовательские модификаторы инструментов с собственной логикой</li>\n<li>подписываться на события TConstruct</li>\n<li>изменять стек инструментов и получать информацию о них</li>\n</ul>\n<p>Мод предоставляет:</p>\n<ul>\n<li>12 рецептов TConstruct</li>\n<li>41 метод создания модификаторов</li>\n<li>событие смены экипировки</li>\n<li>18 вспомогательных функций</li>\n<li>8 методов взаимодействия со стеком инструментов</li>\n<li>доступ к 15 характеристикам инструментов</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

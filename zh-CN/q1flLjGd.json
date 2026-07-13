@@ -1,0 +1,6 @@
+{
+  "bodyHash": "09c981558be738d7",
+  "content": "\n\n![Ender man ](https://cdn.modrinth.com/data/cached_images/8430af7f20fd171fd0b317a99322c0ebb977c29c_0.webp)![The mage](https://cdn.modrinth.com/data/cached_images/3cc65eee133dc20c26b56c4e87bb51a84fee9e58_0.webp)强化\n\n通过这款功能丰富的模组来增强你的游戏体验。它添加了多种独特的生物、全面重做的用户界面、全新的魔法系统，并改进了现有的袭击机制，使其更加复杂且充满刺激感。\n\n\n技术说明\n\n视觉效果：完全兼容光影与 Physics Mod。\n\n兼容性：现已支持 NeoForge。\n\n即将推出：Forge 版本目前正在开发中。\n\n同时支持 Fabric 端，并可能适配基岩版。\n\n\n性能警告：与 Physics Mod 的兼容性\n本模组包含大量爆炸性投射物与方块破坏机制，会对 CPU 和 GPU 资源造成较大负担。为防止出现严重的帧数下降、游戏卡顿或客户端崩溃，我们强烈建议不要将此模组与 Physics Mod 或其他类似的进阶物理模组同时使用。\n若选择同时安装这些模组，需自行承担相关风险。对于因系统负载过高而导致的游戏不稳定或潜在的硬件压力（如设备过热或部件损耗），我们概不负责。如遇性能问题，请关闭高级物理效果或降低实体与粒子的渲染距离。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2f766657f1e168bb",
+  "content": "\n\n# Neo AE2 可切换查看单元\n\n本模组是 [AE2 Toogleable View Cell](https://modrinth.com/mod/ae2-toggleable-viewcell) 的 NeoForge 版本，遵循 MIT 许可证。\n\n这是一款针对 AE2 的简单附属模组，添加了可切换的查看单元。\n\n![示例](https://cdn.modrinth.com/data/cached_images/3e435b23f322583abd8cfda31199486af3ac7cab.gif)\n\n# 关于界面\n\n在 1.21.1 版本的 AE2 中，查看单元槽位无法直接显示，存在一些问题。\n\n示例中使用了 [AE Terminal View Cell Fix](https://modrinth.com/mod/terminal-view-cell-fix) 进行修复。\n\n# 纹理许可证\n\n本模组使用的纹理衍生自应用能源2（Applied Energistics 2）仓库中的资源，具体取自该分支，并采用 CC BY-NC-SA 3.0 协议授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

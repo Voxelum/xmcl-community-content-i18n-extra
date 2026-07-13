@@ -1,0 +1,6 @@
+{
+  "bodyHash": "07e11343e08e1e84",
+  "content": "\n\n<p><span style=\"color:#ba372a\">重要事項</span></p>\n<p><span style=\"color:#ba372a\">需要 Optifine - 使用 Optifine 的動態光源功能</span></p>\n<p><span style=\"color:#ba372a\"><strong>若啟動時未啟用則無法運作。</strong>首次啟動時不會生效，因此請先啟用該選項，然後重新啟動遊戲並保持啟用狀態即可正常運作。（我不確定原因，推測是 Optifine 沒有偵測到，造成不便敬請見諒）</span></p>\n<p>我一直想要一款能讓玩家隨時擁有動態光源的模組，這樣我就可以舉著盾牌了，但始終找不到符合需求的，於是便盡力自己開發。可惜我無法讓物品發光卻不讓手持該物品的生物也發光，因此為了避免衝突，我只讓來自 Spartan Weaponry 及部分擴充模組的物品發光。（包含雙手武器、盾牌與弓）</p>\n<p>相容模組：</p>\n<p>Spartan Weaponry</p>\n<p>Spartan Shields</p>\n<p>Scape and Spartan: Parasites</p>\n<p>如果您希望我加入其他 Spartan 擴充模組的相容性，請告訴我。</p>\n<p>您可以使用此作為範本，讓自己的物品發光：</p>\n<p>要實現此功能，只需在 assets 資料夾中建立一個以您想讓其發光的物品所屬模組 ID 命名的資料夾，並在該資料夾內放入 dynamic_lights.properties 檔案。</p>\n<p>格式：\"items=itemname:1-15\"</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"entities=entityname:1-15\"</p>\n<p>範例：\"items=lit_torch:15 lit_lantern:10\"</p>\n<p>1-15 代表光源等級，各物品之間請用空格隔開，並確保它們都來自同一個模組。</p>\n<p>已在 1.12.2 版本測試並確認正常運作，其他版本大概也能使用（歡迎自行嘗試並告知結果）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

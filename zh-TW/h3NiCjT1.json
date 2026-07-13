@@ -1,0 +1,6 @@
+{
+  "bodyHash": "45621c465daadef6",
+  "content": "\n\n# <img src=\"https://raw.githubusercontent.com/runcows/smashing/main/pack.svg\" alt=\"圖示\" width=\"35\"> Smashing<!--$headerTitle--><!--$pmc:delete-->\n弓箭與三叉戟可以破壞更多方塊！<!--$pmc:headerSize-->\n\n<img src=\"https://raw.githubusercontent.com/runcows/smashing/main/smashing.webp\" alt=\"展示\" width=\"350\"> <!--$modrinth:replaceWithVideo--> <!--$pmc:delete-->\n\n在原版中，弓箭和三叉戟可以破壞裝飾陶罐與紫颂花，而三叉戟可以破壞滴水石錐。\n\n本模組新增以下可破壞方塊：\n### 弓箭可破壞\n<table>\n  <tbody>\n    <tr>\n      <td>蠟燭</td>\n      <td>蛋糕</td>\n      <td>仙人掌</td>\n    </tr>\n    <tr>\n      <td>花盆</td>\n      <td>玻璃板</td>\n      <td>海泡菜</td>\n    </tr>\n    <tr>\n      <td>大型垂滴葉</td>\n      <td>睡蓮</td>\n      <td>西瓜</td>\n    </tr>\n    <tr>\n      <td>南瓜</td>\n      <td>雕刻南瓜</td>\n      <td>南瓜燈</td>\n    </tr>\n  </tbody>\n</table>\n\n### 三叉戟可破壞\n包含弓箭可破壞的所有方塊，以及……\n<table>\n  <tbody>\n    <tr>\n      <td>竹子</td>\n      <td>可可豆</td>\n    </tr>\n    <tr>\n      <td>乾燥的惡魂</td>\n      <td>紫水晶簇與芽</td>\n    </tr>\n  </tbody>\n</table>\n\n## 已知問題\n從發射器射出的弓箭需要留有 2 個方塊的空間，才能破壞新增的可粉碎方塊。\n\n不支援 Realms 伺服器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

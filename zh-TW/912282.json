@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e5adc3d3c1b0bb9b",
+  "content": "\n\n<p style=\"text-align:center\">本模組引入的「Snad」方塊與它的親戚「沙子」不同，會利用紅石來加速甘蔗與仙人掌的生長。</p>\n<p style=\"text-align:center\">自 3.0.1 版本起，已提供設定檔：</p>\n<pre style=\"text-align:center\"><code>#Snad 方塊上的生長刻數（預設為 6）\n#範圍：1 ~ 32\ngrowthAttempts = 16\n#海帶與竹子在 Snad 上的生長速度（預設為 2）\n#範圍：1 ~ 32\ngrowthSpeed = 2</code></pre>\n<p style=\"text-align:center\">您可以在我們的 <a href=\"https://discord.gg/HFT8AMzH8y\" rel=\"nofollow\">Discord</a> 尋求支援</p>\n<p style=\"text-align:center\">只需在物品欄或工作台中將兩塊沙子合併，即可製作 Snad 方塊，盡情享受吧！<img src=\"https://i.imgur.com/sslmfxM.gif\" alt=\"\" width=\"646\" height=\"400\"></p>\n<p style=\"text-align:center\">若您想支持我及我的模組開發，我推薦您嘗試使用 BisectHosting。新客戶使用優惠碼「project8gbderam」即可享有首月遊戲伺服器 25% 折扣。他們提供全天候客服與極快的回應速度，確保您的體驗無憂，並為您的所有遊戲需求提供卓越的協助。</p>\n<p style=\"text-align:center\"><a href=\"https://www.curseforge.com/linkout?remoteUrl=https://www.bisecthosting.com/project8gbderam\" rel=\"nofollow\">https://www.bisecthosting.com/project8gbderam</a></p>\n<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://www.bisecthosting.com/partners/custom-banners/54bb107c-f9fc-4f32-8515-fb4e3d56c124.png\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

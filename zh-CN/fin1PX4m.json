@@ -1,0 +1,6 @@
+{
+  "bodyHash": "51b47538e66e33cd",
+  "content": "\n\n# Inline\n\nInline 是一款 Minecraft 工具库，支持在文本中进行内联渲染。它提供了一些面向玩家的功能，主要出于娱乐目的，同时也作为示例和辅助工具供未来的开发者参考。\n\n查看画廊以获取一些示例！\n\n## 面向玩家的功能\n\n### 客户端\n\nInline 自带了几个内置的匹配器：\n- 物品 -- 例如：`[item:diamond_sword]` -- 支持任意物品 ID\n- 实体 -- 例如：`[entity:pig]` -- 支持任意实体类型 ID\n- 玩家头像 -- 例如：`[face:samsthenerd]` -- 支持玩家名称\n- 模组图标 -- 例如：`[mod:inline]`\n\n你可以使用各种字符来替代 `:`，其中一些会修改渲染的大小，非常适合用于告示牌标签！\n- `;` 和 `:` 为正常大小\n- `,` 为 0.75 倍缩放\n- `!` 为 1.5 倍缩放\n- `+` 为 2 倍缩放\n\n客户端配置中提供了聊天消息最大长度的限制选项，以防止刷屏信息阻塞其他消息。\n\n你也可以在任何标记前添加 `\\` 来防止其被解析。\n\n部分其他模组（如 EMI、REI 以及可能的其他模组）会在物品的提示文本中添加其来源模组的名称。Inline 会自动检测此内容并为其附加对应模组的图标。\n\n以上所有功能均可在游戏内配置界面中进行自定义。\n\n#### 与 Create 的兼容\n\nInline 的渲染内容可用于 Create 模组的显示板上。由于存在一定限制，在使用显示链接时可能需要比预期更宽的显示板，否则内容可能会被截断，导致无法正确匹配或渲染。\n\n### 服务端\n\n服务端匹配器支持 `[show:hand]` 或 `[show:offhand]`，用于在聊天栏中展示你当前手持或副手持有的物品。\n\n## 已知模组冲突\n- Emojiful - 由于其替换了文本渲染器，导致 Inline 的 Mixins 无法应用。\n\n如果你发现其他冲突，请提交 Issue 反馈！\n\n## 开发者\n\n![展示 Inline 核心流程的流程图](https://github.com/SamsTheNerd/inline/raw/main/assets/flowchart.png)\n\n查看 [README](https://github.com/SamsTheNerd/inline) 以获取更多关于使用 Inline 进行开发的详细信息！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

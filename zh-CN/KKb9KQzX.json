@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00b02f6fab997356",
+  "content": "\n\n![Demonstration](https://cdn.modrinth.com/data/KKb9KQzX/images/2b212dac05f7e38c692b5aaac9147f7da0f2986f.gif)\n\n**本模组是 [Create: Dynamic Lights](https://modrinth.com/project/evMQRxqV)（由 Leon 制作）的分支版本。**\n\nSable Dynamic Lights 为移动结构集成了实时动态光照。本模组为放置在 Create 列车和机械结构上的发光方块提供动态光照支持。同时，它也为移动的 Sable 子区块实现了无缝动态光照。基于 LambDynamicLights 引擎驱动，各项计算与渲染均流畅高效。当列车行进或活塞运作时，火把、萤石和灯笼将真实地照亮周边环境。\n\n## 依赖项：\n\n* [Create](https://modrinth.com/project/LNytGWDc)\n* [LambDynamicLights](https://modrinth.com/project/yBW8D80W)\n* [Sable](https://modrinth.com/project/T9PomCSv)（可选）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

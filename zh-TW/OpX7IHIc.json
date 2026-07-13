@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e141a1564be13d62",
+  "content": "\n\n# 雙快捷欄\n\n可擴充遊戲畫面資訊並允許切換快捷欄的 Minecraft 模組。\n\n- 完全為客戶端運作！可在原版伺服器上使用\n\n- Fabric 版本支援 Minecraft 1.17.1 - 1.21.11（需安裝 Fabric API 與 Cloth Config API）\n\n- Forge 版本支援 Minecraft 1.18.2 - 1.20.1（無需額外 API）\n\n_若對 Neoforge 移植版本有興趣，請建立 GitHub Issue 並註明所需版本_\n\n\n# 功能特色\n\n1. 新增第二個快捷欄，顯示並允許你使用額外的一排背包欄位。\n\n2. 按下 R 鍵切換當前啟用的快捷欄。（快捷鍵可於遊戲設定中更改）\n\n3. 可透過模組設定隱藏第二個快捷欄，或將其位移至背包的其他排數\n\n4. **僅限 1.18.2+：** 可透過快速雙擊快捷欄編號或按住切換鍵（預設：R）來交換單一堆疊物品\n\n5. 提供高度自訂選項以最大化相容性\n\n# 截圖\n\n![兩個垂直堆疊的快捷欄](https://cdn.modrinth.com/data/cached_images/cf7207ad42cd1171d8f9de343d23800ed347198f.png)\n\n![背包第三排即為第二個快捷欄](https://cdn.modrinth.com/data/cached_images/53fde3bc821841d7e776c2cb216c5034bf034bca.png)\n\n_注意：Fabric-v1.3.0+ 需要 Fabric Loader 0.14.9 或更高版本。若您使用的是舊版 1.18.2 執行個體，可能因 Loader 過舊而無法正常啟動_\n\n_部分較舊且已停止維護的版本仍可於 CurseForge 下載_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

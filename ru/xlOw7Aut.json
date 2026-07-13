@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2b7af04c338dcb1a",
+  "content": "\n\n# Sparkles ADDON: Alpha Islands\n\nЭтот ресурспак изменяет текстуры всех* блоков и мобов в действительно редких биомах [Terralith](https://modrinth.com/mod/terralith) [Alpha Islands](https://stardustlabs.miraheze.org/wiki/Alpha_islands) и [Alpha Islands Winter](https://stardustlabs.miraheze.org/wiki/Alpha_islands_(winter) на аналоги или внешний вид в стиле альфа-версии/разработчика. Базовый пак [Sparkles](https://modrinth.com/resourcepack/sparkles) не является обязательным, но всё же рекомендуется.\n\n## Почему я не вижу текстуры?\n\nЧтобы увидеть пользовательские текстуры блоков и мобов, если вы используете Forge, Optifine будет работать, однако мы больше не рекомендуем его ни при каких обстоятельствах. Для Fabric скачайте следующие моды:\n\n- [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)\n- [Continuity](https://modrinth.com/mod/continuity)\n\nЗатем убедитесь, что ресурспак установлен и активирован, а также что вы находитесь в биоме Alpha Islands.\n\n*Некоторые блоки никогда не имели «старого» аналога, а некоторые варианты внешнего вида ещё предстоит воссоздать.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

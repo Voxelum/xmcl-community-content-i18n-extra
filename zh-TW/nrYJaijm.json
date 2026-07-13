@@ -1,0 +1,6 @@
+{
+  "bodyHash": "978e813768e4a60c",
+  "content": "\n\n![torcherino](https://wiki.skniro.org/assets/vRbpasfXAxtNPc9.DLxwWfYv.jpg)\n#### 這是一個非官方的 Torcherino 發布版本，我會在官方更新到高版本之前，先將 Torcherino 移植到更高版本的 Minecraft。\n\n\n#### 本說明文字摘自 [Torcherino](https://modrinth.com/mod/torcherino)。\n\n#### 這是一個小型且簡單的模組，新增了多種火把，可用於提升方塊實體的刻率。簡單來說，它們能讓機器運作得更快。  \n![torcherinogui](https://wiki.skniro.org/assets/torcherinogui.D8r3hue7.jpg)\n#### 一些使用範例：\n\n加速植物生長\n加速礦石冶煉\n加快怪物生成器速度\n有一個主要的 Torcherino 核心，並搭配多種擴充升級模組。其中許多設定都可以在模組的設定檔中調整，該檔案名稱為 Torcherino.cfg，位於 config/sci4me 資料夾內。\n放置 Torcherino 後，預設狀態為停用。您必須對著它按右鍵並使用圖形介面（GUI），將設定調整為您偏好的範圍與速度倍率。 \n\n \n\n歡迎將 Torcherino 加入您的整合包！當然，附上原作者或維護者的資訊會非常感謝！\n\n \n\n#### 重要提示：此模組最初由 Moze_Intel 建立。在他決定停止維護後，我接手了開發工作。因此，也要給予他極大的感謝！:)\n\n#### 歷任維護者\n#### Moze_Intel\n#### sci4me\n#### 3llemes\n\n\n#### 現任維護者\n#### lukegrahamlandry\n\n非官方維護者\n\n  skniro",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

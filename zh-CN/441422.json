@@ -1,0 +1,6 @@
+{
+  "bodyHash": "90d220fa7282e1b7",
+  "content": "\n\n<h2 style=\"text-align:left\">神性吸血 - Vampirism 附加模组</h2><p>这是一个针对 <a href=\"https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire\" rel=\"nofollow\">Vampirism</a> 的小型附加模组，它会修改 Vampirism 的配置，以移除成为吸血鬼后的绝大部分负面效果。</p><p>此外，它还会通过增强某些技能的效果，进一步提升吸血鬼与猎人的能力。</p><p>修改内容包括但不限于：</p><p>- 极少的阳光伤害，无恶心效果，黄色太阳指示器更小</p><p>- 大幅降低血液消耗</p><p>- 几乎不增加火焰伤害</p><p>- 每升一级获得 2 点技能点</p><p>- 每个领主等级允许拥有 2 个仆从</p><p>- 传送距离更远且更频繁</p><p><strong>重要提示</strong>：此模组仅对新世界生效。若要应用于已有世界，请以管理员身份或在单人游戏中运行命令 \"/godly-vampirism apply\"</p><p>仅需在服务器端安装此模组即可，在客户端安装也不会产生负面影响。</p><p>注意：目前该模组仅更改 Vampirism 的配置。因此，在不使用本模组的情况下，您也可以通过手动配置实现上述所有效果。</p><p>然而，鉴于关于此配置的咨询较多，我决定制作此模组作为便捷的替代方案。</p><p>您仍然可以进一步自定义 Vampirism 的配置，因为本模组仅修改了默认值。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

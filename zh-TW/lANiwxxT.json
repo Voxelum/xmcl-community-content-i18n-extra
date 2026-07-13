@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0fb860b856d40cbe",
+  "content": "\n\n## 允許使用任何顏色的陶土（而非僅限未著色）進行染色陶土合成\n\n### 注意： \n此資料包會新增合成配方，移除該資料包時，控制台可能會顯示關於遺失配方的警告。這不會對你的世界或存檔資訊造成危害。\n\n### 使用模組版本時的安裝資訊：\n它們的功能與資料包相同，但會套用至所有在啟用此模組時建立或載入的世界。如果你不希望它套用至所有世界，請改用資料包\n\n**Forge**：\n<br>無需任何依賴項，只需將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 是指那些曾被建議加入 Purpur、或符合 Purpur 主題特色的功能，但經過評估後認為更適合以資料包形式提供！ \n<br>這些資料包的功能等同於 Purpur 中的單一設定選項。你可以隨時新增或移除它們，而不會損壞伺服器。\n<br>這些在原版遊戲中即可運作，你不需要運行 Purpur 伺服器也能使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d9fd218709fe07b4",
+  "content": "\n\n# 实体中文名\n\n一款 Fabric 模组，为 Minecraft 生物随机添加中文名称。\n\n![Icon](https://raw.githubusercontent.com/juzizhen/EntityChineseName/main/src/main/resources/assets/entitychinesename/icon.png)\n\n## 功能特性\n\n- **随机中文名生成：** 为游戏中新刷新的生物实体随机分配中文名称。\n- **丰富的姓名组合：**\n- 支持两字、三字及四字的随机生成。\n- 区分男女姓名风格。\n- 支持单姓与复姓。\n- **高度可配置：**\n- 所有概率均可通过配置界面进行调整。\n- 支持自定义姓氏与名字列表。\n- 可选择为哪些类型的生物命名。\n- **智能排除机制：**\n- 默认排除末影龙（可配置）。\n- 支持自定义排除特定实体类型。\n- **简单易用：**\n- 完全兼容 ModMenu，提供直观友好的配置界面。\n- 支持多语言本地化。\n\n## 使用示例\n\n生物刷新时会自动获得一个随机的中文名称，例如：\n- 男性姓名：张勇、李伟、欧阳明辉\n- 女性姓名：王芳、赵秀英、上官婉婷\n\n## 兼容性\n\n- Minecraft 版本：1.20.1 - 1.20.6\n- 模组加载器：Fabric\n- 依赖项：Fabric API, Cloth Config, ModMenu\n\n## 配置说明\n\n所有配置均可在游戏内的 ModMenu 界面中调整：\n- 姓名长度概率（两字、三字、四字）\n- 性别概率（男/女）\n- 姓氏类型概率（单姓/复姓）\n- 实体类型过滤（被动/敌对/中立/BOSS）\n- 自定义姓名列表\n\n---\n\n**让我的世界充满中文姓名吧！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

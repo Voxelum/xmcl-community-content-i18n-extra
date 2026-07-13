@@ -1,0 +1,6 @@
+{
+  "bodyHash": "37ea7d1e4f67b7f2",
+  "content": "\n\n本模组借鉴 Nvidia Reflex 技术原理，旨在降低《我的世界》中的渲染延迟。它通过估算 CPU 和 GPU 的运行时间来自动锁定帧率。（支持任意品牌 GPU 使用）\n\n设置中包含两个选项：一个是启用/禁用开关，另一个是调整等待时间。\n等待时间的调整单位为纳秒。如果启用该功能后 GPU 占用率下降，可适当调高此数值以提升 GPU 利用率至接近 100%。但数值调得过高会导致延迟增加。\n有时算法估算可能出现偏差，导致等待时间过短、渲染队列堆积，反而增加渲染延迟。遇到这种情况时，可输入负值来延长等待时间，从而降低延迟。\n\n![contrast](https://cdn.modrinth.com/data/cached_images/cf911396805809653483761101bd2f8f1d4ca3ef_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7bb87c5718131b77",
+  "content": "\n\n<h1><strong>警告！</strong></h1>\n<h1><strong>為確保正常運作，建議搭配 Vista 3.1.2、Create 6.0.9、Sable 1.0.6 以及 Create Aeronautics 1.0.2 或 1.0.3 一併使用 Vista Aeronautics Fix 1.0.0！</strong></h1>\n<h1><strong>Vista Aeronautics Fix</strong></h1>\n<p>Vista Aeronautics Fix 是一款輕量級的客戶端插件，旨在解決 Vista 電視在放置於 Create Aeronautics 的移動機械裝置上時出現的渲染問題。</p>\n<h2><strong>問題說明</strong></h2>\n<p>原始的 Vista 模組採用了一套進階優化系統（LOD 與平面剔除）。當電視成為活躍的航空組合體（如飛艇或列車）的一部分時，這些系統經常錯誤地判定螢幕已超出視野範圍或距離過遠。這會導致顯示器在移動過程中出現閃爍、消失或完全停止更新的狀況。</p>\n<p><strong>未套用修復前</strong><br><img src=\"https://files.catbox.moe/se5h9a.gif\" alt=\"未套用修復前\" width=\"1440\" height=\"720\"></p>\n<p><strong>套用修復後</strong><br><img src=\"https://files.catbox.moe/03vhej.gif\" alt=\"套用修復後\" width=\"1280\" height=\"720\"></p>\n<h3><strong>功能特色</strong></h3>\n<h3>&nbsp;</h3>\n<p>- 繞過剔除：完全停用電視螢幕的平面剔除功能，確保無論移動結構處於何種角度，螢幕皆能保持可見。<br>&nbsp;&nbsp;<br>- LOD 機制調整：移除過於激進的距離相關優化，避免螢幕過早關閉。<br>&nbsp;&nbsp;<br>- 延長渲染距離：擴大渲染邊界框與視距，防止遊戲在高速度移動時跳過電視的渲染。</p>\n<p>&nbsp;</p>\n<p><strong>技術資訊</strong></p>\n<p>僅限客戶端：此模組無需安裝於伺服器端。</p>\n<p>需求條件：需安裝 Vista 與 Moonlight Lib。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5ee3508871afa783",
+  "content": "\n\n![Banner](https://cdn.modrinth.com/data/cached_images/de3861677a27b16dcdf59df3b130208b14157aea.png)\n\nЭто простой в использовании и настраиваемый набор данных, который заменяет элитры, появляющиеся в кораблях Энда, на другие предметы, или отключает возможность их надевания. Вся настройка осуществляется через функции.\n\n## Список функций\n\n- `/function ebg:disable_elytras` — Отключает возможность надевания элитр.\n- `/function ebg:enable_elytras` — Разрешает снова надевать элитры.\n\n### \n\n- `/function ebg:disable_replacement` — Отключает замену естественно появляющихся элитр.\n- `/function ebg:replace_with_air` — Удаляет естественно появляющиеся элитры.\n- `/function ebg:replace_with_trident` — Заменяет естественно появляющиеся элитры на трезубец.\n- `/function ebg:replace_with_diamonds` — Заменяет естественно появляющиеся элитры на алмазы.\n- `/function ebg:replace_with_cake` — Заменяет естественно появляющиеся элитры на торт.\n- `/function ebg:replace_with_enchanted_golden_apples` — Заменяет естественно появляющиеся элитры на зачарованные золотые яблоки.\n\n## \n\n**💡 Хотите предложить улучшение?** Присоединяйтесь к моему серверу Discord! https://discord.gg/Mx9fDBW94W",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

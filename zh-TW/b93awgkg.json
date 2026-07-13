@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cb74b830650b7c94",
+  "content": "\n\n一款 [Fabric](https://fabricmc.net/) 模組，讓你能夠設定個人狀態。\n\n此模組必須安裝於伺服器上。原版客戶端仍可連線至安裝此模組的伺服器。若想設定狀態，則需在您的客戶端也安裝此模組。\n\n此模組需要 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n\n---\n\n## 功能特色\n\n按下 `U` 鍵即可設定您的狀態。\n\n狀態由多個部分組成：\n\n- 可用性\n    - 不想被打擾時\n    - 願意合作時\n- 基本狀態\n    - 正在錄音時\n    - 正在串流直播時\n- 附加選項\n    - 不希望他人跳過夜晚時\n\n![](https://i.imgur.com/Iqaz3jw.png)\n\n這些圖示會顯示在 Tab 列表中玩家頭像旁邊。\n\n![](https://i.imgur.com/SbtCkXD.png)\n\n若啟用了禁止睡覺功能，躺在床上時會看到提示訊息，表示有人不希望夜晚被跳過。此訊息也會顯示給未安裝此模組的玩家。\n\n![](https://i.imgur.com/2NoywQA.png)\n\n在每次遊戲執行期間首次加入伺服器時，您會收到一則提示訊息，提醒您需要設定狀態。預設情況下，狀態不會在遊戲執行期間之間保留。\n\n![](https://i.imgur.com/8dglntP.png)\n\n## 設定檔\n\n**客戶端設定**\n`.minecraft/config/status/status-client.properties`\n\n參數名稱 | 預設值 | 說明\n--- | --- | ---\n`persist_state` | `false` | 是否在遊戲執行期間之間保留狀態。\n`show_join_message` | `true` | 是否在加入伺服器時顯示提示訊息。\n\n**伺服器設定**\n`<your-server-directory>/config/status/status-server.properties`\n\n參數名稱 | 預設值 | 說明\n--- | --- | ---\n`no_sleep_title`|`No Sleep` | 禁止睡覺提示框的標題\n`no_sleep_player_subtitle` | `%s does not want you to sleep` | 單一玩家不希望跳過夜晚時，禁止睡覺提示框的副標題\n`no_sleep_multiple_subtitle` | `Some players do not want you to sleep` | 多名玩家不希望跳過夜晚時，禁止睡覺提示框的副標題",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "BlR2ZFW8bgw=",
-  "content": "Hypixel Mod API 是一種與 Hypixel 伺服器進行介接的方法。\n\n如果您是玩家，您可能需要安裝此模組，作為其他模組與 Hypixel 伺服器通訊以獲取特定資料的必要條件。您應根據您的模組載入器和 Minecraft 版本下載並安裝相應的版本。\n\n如果您是開發者，您可以在 [GitHub 儲存庫](https://github.com/HypixelDev/ModAPI) 中閱讀更多關於 Mod API 的資訊。",
+  "bodyHash": "c68898f4ca790cc3",
+  "content": "\n\nHypixel Mod API 是一種用於與 Hypixel 伺服器進行介接的方法。\n\n如果你是玩家，可能需要安裝此模組作為其他模組的依賴項，以便它們能與 Hypixel 伺服器通訊以取得特定資料。請根據你的模組載入器與 Minecraft 版本，下載並安裝對應的版本。\n\n如果你是開發者，歡迎前往 [GitHub Repository](https://github.com/HypixelDev/ModAPI) 查看有關此 Mod API 的更多資訊。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

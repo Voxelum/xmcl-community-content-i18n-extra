@@ -1,0 +1,6 @@
+{
+  "bodyHash": "14a421330b896dd4",
+  "content": "\n\n《Apotheosis Artifice》是《Apotheosis》模組的附加模組，透過 Curios 插槽系統，為裝備的重鑄、儲存與操作提供了全新的方式。\n\n## 功能特色\n\n### Curios 重鑄\n- 可對裝備在 Curios 插槽中的任何物品執行 Apotheosis 重鑄操作，包含護符、戒指、腰帶及專用於 Curios 的裝備。\n- 重鑄選單介面現在支援在一次操作中鎖定多個插槽目標。\n\n### 多插槽重鑄選取\n- 透過統一的選單，瀏覽並選取所有已裝備 Curios 插槽中的重鑄目標。\n- 無需重新開啟背包，即可對單一或多個插槽套用重鑄效果。\n\n### 寶石收納盒\n- 新增可作為便攜式寶石袋的 Curios 物品。\n- 可直接從已裝備的收納盒中儲存、整理與取出 Apotheosis 寶石，無需開啟箱子。\n- 無論內部存放何種寶石，該物品在遊戲世界中的模型皆顯示為單一圖示。\n\n### 精密附魔台\n- 全新方塊變體，專注於對 Apotheosis 附魔流程進行精細控制。\n- 顯示所有會影響結果的關鍵數值，讓你在確認附魔前即可預判結果。\n\n### 便攜拆解工具\n- 一種可在任意地點隨手執行 Apotheosis 拆解功能的 Curios 物品。\n- 方便直接分解不需要的裝備，無需返回專屬方塊處。\n\n## 為什麼要使用它\n\n如果您已經在玩《Apotheosis》與《Curios》，此模組將兩者系統完美整合，讓重鑄、寶石儲存、附魔與拆解都能透過已裝備的插槽進行，無需依賴專屬方塊或箱子。\n\n## 必要相依模組\n\n- Apotheosis 7.4.x\n- Curios 5.2.x 或更新版本（5.x 系列）\n- Placebo 8.6.x\n- Minecraft 1.20.1 對應的 Forge 47.x\n\n## 注意事項\n\n- 本模組為附加模組，若未安裝《Apotheosis》將無法發揮任何作用。\n- 遊戲測試套件運行於命名空間 `apotheosis_artifice` 下。\n- 原始碼：衍生自 Shadows_of_Fire (Stormraven Studios, LLC) 開發的《Apotheosis》，依 MIT 授權條款使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

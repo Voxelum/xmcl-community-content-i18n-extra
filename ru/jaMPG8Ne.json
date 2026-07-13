@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc2bc3db0f472c61",
+  "content": "\n\n# Доступ к интерфейсу ME через AE2\n\nПеред использованием необходимо установить [AE2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2).\n\nВ своей карте я использовал конструкции из Молекулярных сборщиков и Интерфейсов ME. Чтобы получить доступ к интерфейсу ME через Молекулярный сборщик, я создал этот простой мод.\nПросто разместите Молекулярный сборщик рядом с Интерфейсом ME, и вы увидите кнопку для доступа к нему.\n\n![Интерфейс мода](https://cdn.modrinth.com/data/cached_images/e803b1194bd97bdeb415e67e12729c578c680d61.png)\n\nЭтот мод использует [Cleanroon](https://github.com/CleanroomMC/Cleanroom).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

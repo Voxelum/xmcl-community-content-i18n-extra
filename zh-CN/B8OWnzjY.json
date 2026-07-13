@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b938f1aa79077acc",
+  "content": "\n\n**Create: 负重物品** 引入了一个真实的重量系统，其中容器会直接影响由 Sable 处理的物理质量。\n\n### 🔹 工作原理 \n存储方块的重量会根据其内部物品增加。\n这包括：\n\n- 箱子\n\n- 机械动力（Create）存储方块（例如：黄铜漏斗、传送带）\n\n- 物品保险箱\n\n- 工具箱\n\n- 货运站\n\n- 兼容的扩展存储方块\n\n该模组会计算所有已存储方块与物品的总质量，并将该值累加到存储方块本身的基准物理质量上。\n\n### ⚖️ 物品质量逻辑\n已拥有 Sable 定义重量的物品将直接使用该值。\n\n未定义重量的物品将使用可配置的默认值。\n\n### 🛠️ 配置选项\n所有设置均可通过 Create 风格的配置菜单进行访问：\n\n| 选项 | 说明 |\n|---|---|\n| defaultItemMass | 分配给没有 Sable 重量定义的物品的质量值。 |\n| inventoryMassDivisor | 控制存储物品对库存总质量影响强度的乘数。 |\n\n### 📦 依赖要求\n本模组基于以下环境开发：\n\n- Minecraft — 1.21.1\n  \n- 模组加载器 — NeoForge\n  \n- 依赖项：\n  \n- Create\n  \n- Create: Aeronautics\n  \n- Sable",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fe23364e6d065a98",
+  "content": "\n\n<p>此模組會在螢幕左下角新增四個動態狀態列，即時顯示盔甲的當前與最大耐久度。狀態列顏色會根據剩餘耐久度自動變化，從藍色逐漸轉變為綠色、黃色、橙色，最後變成紅色。若盔甲槽位為空，狀態列將保持灰色。此外，螢幕上也會顯示已裝備物品的圖示（預設位於每個狀態列的左側）。</p>\n<p>為防止裝備損壞，當盔甲耐久度較低時（預設低於 20%），狀態列會開始閃爍。耐久度越低，閃爍會越劇烈。</p>\n<h3>設定</h3>\n<p>此模組<strong>完全可自訂</strong>。只需按下<span style=\"color:#e03e2d\"><strong>「方向鍵下」</strong></span>（可在設定中重新綁定）即可開啟設定選單。</p>\n<p>可從四種內建預設值中選擇：<strong><span style=\"color:#2dc26b\">預設</span></strong>、<strong><span style=\"color:#3598db\">垂直</span></strong>、<strong><span style=\"color:#f1c40f\">簡潔</span></strong>以及<strong><span style=\"color:#b96ad9\">迷你</span></strong>。</p>\n<h3>進階自訂</h3>\n<p>您也可以<strong><span style=\"color:#e03e2d\">微調</span></strong>使用者介面以符合您的喜好：</p>\n<ul>\n<li>狀態列位置</li>\n<li>狀態列寬度與長度</li>\n<li>圓角大小</li>\n<li>描邊粗細</li>\n<li>漸層色彩</li>\n<li>文字格式與對齊方式</li>\n<li>狀態列閃爍</li>\n<li>依耐久度自訂狀態列顏色（僅限文字模式可用）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

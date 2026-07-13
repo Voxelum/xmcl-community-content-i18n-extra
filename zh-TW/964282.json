@@ -1,6 +1,6 @@
 {
-  "bodyHash": "EpgA0wzyQd4=",
-  "content": "<p>在Farmer's Delight中，長久以來存在一個問題：無法將相同食材放入烹飪鍋的同個槽位來製作食物。這使得自動化生產食物變得困難。而本模組正是為了解決這個問題而製作。（<a href=\"https://github.com/vectorwing/FarmersDelight/issues/26\" target=\"_blank\" rel=\"nofollow\">原始問題回報</a>）</p><p>同時透過在配方匹配前提取相同邏輯，略微提升了效能。</p><p><strong>1.21版新增：</strong>透過不再為非啟用狀態的配方進行不必要的匹配，進一步提升效能。</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252frb.gy%252f87fgcz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp\" alt=\"有興趣支持我與模組開發嗎？BisectHosting是最佳解決方案。新客戶可使用促銷代碼「snownee」獲得首月遊戲伺服器25%折扣。憑藉24/7技術支援與快速回應時間，我們能為所有遊戲需求提供頂級服務。\"></a></p>",
+  "bodyHash": "4cc3a60bb8ed6401",
+  "content": "\n\n<p>在 Farmer's Delight 中，長期以來存在一個問題：無法在同一口鍋的同一個槽位中放入相同的食材來製作食物。這使得自動化製作食物變得相當困難。本模組正是為了解決這個問題而開發。（<a href=\"https://github.com/vectorwing/FarmersDelight/issues/26\" target=\"_blank\" rel=\"nofollow\">原始問題</a>）</p>\n<p>此外，透過在配方比對前提取共用邏輯，略微提升了執行效能。</p>\n<p><strong>1.21 更新內容：</strong>不再於非運作狀態下進行不必要的配方比對，進一步提升了效能。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252frb.gy%252f87fgcz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp\" alt=\"想支持我與模組的開發嗎？BisectHosting 是絕佳解決方案。新客戶可使用優惠碼「snownee」享受首月遊戲伺服器 25% 折扣。我們提供全天候支援與快速回應，滿足您所有的遊戲需求，享受頂級服務。\"></a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

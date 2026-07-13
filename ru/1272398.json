@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c6cf6b171654df22",
+  "content": "\n\n<h2>Без столбов пузырей</h2>\n<p>Мод, который отключает создание столбов пузырей блоками магмы и песка душ. <br>\nдолжен работать со всеми блоками, включая модифицированные (при условии, что они используют тот же метод в BubbleColumnBlock).</p>\n<p><img src=\"https://github.com/FinxdMC/FinxdMC/blob/main/no-bubble-columns-page0.png?raw=true\" alt=\"\"></p>\n<p>Однако он не удаляет уже существующие столбы пузырей.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

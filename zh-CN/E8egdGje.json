@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fec3b73a256a1eee",
+  "content": "\n\nRevault 是一个数据包，能让宝箱和幽匿宝箱在一段时间后补充物资。通常宝箱一旦被打开，该玩家就不能再次打开它，但 Revault 允许玩家在一段时间过后再次打开它。 \n\n- 支持单人游戏和多人游戏，兼容任意数量的玩家。 \n- 每位玩家在打开宝箱时会启动一个计时器。计时器结束后，启动该计时器的玩家将可以再次打开此宝箱。\n- 计时器与游戏时间挂钩，因此即使区块未加载，宝箱也会补充物资（但如果世界/服务器暂停则不会）。\n- 宝箱顶部会显示烟雾粒子效果（类似于冷却中的试炼刷怪笼），且仅对处于冷却期的玩家可见。\n- 默认情况下，普通宝箱需要 1 小时补充物资，幽匿宝箱需要 5 小时。（参考：试炼刷怪笼的冷却时间为 30 分钟）\n\n<details>\n<summary>配置</summary>\n\n运行 /function revault:gamerules 后点击聊天栏即可更改当前世界的游戏规则。  \n将重置时间设置为 -1 表示该类型的宝箱将永远不会重置。\n\n<details>\n<summary>给整合包制作者</summary>\n  \n由于这是一个数据包，因此没有独立的配置文件。  \n你可以通过修改/覆盖函数 \"revault:default_gamerules\" 来更改所有世界的游戏规则。  \n我推荐观看[教程](https://www.youtube.com/watch?v=a_FWhep8hwk)。\n</details>\n \n有关自定义游戏规则的详细信息请查看[此处](https://www.youtube.com/watch?v=a_FWhep8hwk)。\n\n</details>\n\n<details>\n<summary>安装与卸载</summary>\n\n随世界创建自动生效。\n- 首次安装到已有世界时，“修复模式”将自动激活，导致所有已打开过的宝箱被重置。\n- 从旧版本升级至 1.3 版时，如果你的世界中存在安装 Revault 之前就已打开过的宝箱，请手动启用修复模式：/scoreboard players set RepairMode revault.time 1\n- 卸载后，所有宝箱标记将保留。\n- 重新安装后，所有本应已经解锁的宝箱都会立即解锁。\n\n\n</details>\n\n---\n\n免费用于任何整合包及任何平台。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "20111904a0031f47",
+  "content": "\n\n*此模組近期已更新至內部版本 2.2.2！*\n\n![顯示文字 Peaceful Hunger 的橫幅](https://cdn.modrinth.com/data/cached_images/ebc2a687cfa705b40524b92d4ba6a908cfdfda26.png)\n![顯示文字 Summary 的橫幅](https://cdn.modrinth.com/data/cached_images/76a077f88e3ee8f2f2ee31182c1a84a3badc9bf3.png)\nPeaceful Hunger 是一個簡單的模組，讓你在和平難度下仍能正常消耗飢餓值與飽食度。此模組的靈感來自一位 Reddit 使用者：「我只是想在和平模式下遊玩，但仍然會感到飢餓。我經常玩農業類模組，如果不能吃自己種或煮的食物，那耕種和烹飪就毫無意義了。但個人來說，我討厭敵對生物。」\n\n<!-- 此模組的靈感來自 Reddit 使用者；u/Hollyetravels 留言表示：「我只是想在和平模式下遊玩，但仍然會感到飢餓。我經常玩農業類模組，如果不能吃自己種或煮的食物，那耕種和烹飪就毫無意義了。但個人來說，我討厭敵對生物。」 -->\n\n![顯示文字 FAQ 的橫幅](https://cdn.modrinth.com/data/cached_images/fad4cd60ff220fa0a97abeb313b97cb9e4258f17.png)\n此模組利用 SpongePowered Mixin 的 Redirects 功能，變更影響生命值恢復與飢餓效果的相關難度設定，具體是針對 `FoodData.class` 的 tick 方法以及 `Player.class` 的 aiStep 方法進行修改。\n\n[![顯示文字輸入代碼 Lupin 可享 Bisect Hosting 25% 折扣的橫幅](https://cdn.modrinth.com/data/cached_images/0e4976e41fe589adc8517322bf609d6122548693.png)\n](https://bisecthosting.com/Lupin)\n\n致謝\n\nhttps://github.com/jaredlll08/MultiLoader-Template\n\nhttps://github.com/PacifistMC/Forgix\n\nhttps://github.com/nok-ko/HungerOnPeaceful",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

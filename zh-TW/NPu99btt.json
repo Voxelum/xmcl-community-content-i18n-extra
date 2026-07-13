@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fa5459f415efb9f7",
+  "content": "\n\n# Create：Railgun\n\n**若需與 CBC 5.11.3 或更低版本相容，請使用本模組 1.0.2 或更低版本。未來版本將僅支援 CBC 5.11.4 或更高版本。**\n\n為 Create 加入來自 *Project Wingman* 的軌道砲。強烈建議搭配 *Create: Aeronautics* 遊玩，但並非強制需求。 \n\n發射高速爆炸彈藥，非常適合安裝於艦船或飛機上作為長程火炮。\n\n![從 Create: Aeronautics 飛機發射的軌道砲](https://cdn.modrinth.com/data/NPu99btt/images/d65bdbe3e21adeab9643c97cc7e7555cd056db94.png)\n\n**本模組新增了什麼？**\n\n- 多方块結構軌道砲\n- Create 大砲的「爆發」彈藥，可發射多發軌道砲彈形成擴散射擊模式\n- 新增 Cordium 燃料，可在熔爐中燒煉 16 個物品（每塊可燒煉 160 個）\n- Cordium 方塊也可用作炸藥\n- 所有物品的合成配方\n\n**其他注意事項：**\n\n- **本模組未新增任何動力來源，因此您必須安裝其他模組來提供動力。**\n- 建議使用 JEI 查看合成配方。軌道砲組裝流程可透過 Ponder 教學系統檢視\n- 安裝 *Sable* 模組後，軌道砲發射時會計算當前實體的速度，以避免子彈擊中自身。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

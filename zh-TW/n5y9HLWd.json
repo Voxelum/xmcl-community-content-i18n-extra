@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4d7fec9fe87fd190",
+  "content": "\n\n此模組透過清除 GPU 快取來解決一些渲染問題。\n\n此模組透過清除 GPU 快取來解決一些渲染問題。\n\n尤其是在手機端使用 Zink 渲染器時所產生的渲染錯誤。\n\n類似這樣的：\n\n![安裝模組前的畫面](https://cdn.modrinth.com/data/cached_images/c2a1f6686e850881c8c04902d08dd2aa52b1d88e.png)\n\n使用此模組後已修復此問題：\n\n![安裝模組後的畫面](https://cdn.modrinth.com/data/cached_images/1af497f7b8b8349625158db1e63521f7dbcad0b4.png)\n\n本模組靈感來自 OptiFine 的「平滑 FPS」功能，應能達到相同效果，但不會有 OptiFine 造成的模組相容性問題。\n\n此外，使用本模組可能會導致輕微的 FPS 下降。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

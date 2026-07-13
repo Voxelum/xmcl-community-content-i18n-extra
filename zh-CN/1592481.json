@@ -1,0 +1,6 @@
+{
+  "bodyHash": "25e3f62e61f63746",
+  "content": "\n\n<h2>WiseMC Discord Rich Presence 模组</h2>\n<p>一款专为 Minecraft 设计的客户端模组，旨在将 Discord Rich Presence 与 <strong>wisemc.gg</strong> 服务器集成，直接在玩家的 Discord 个人资料页提供实时活动更新。</p>\n<p>安装后，该模组会自动检测玩家是否加入 <strong>wisemc.gg</strong>，并动态更新其 Discord 状态，显示详细的服务器信息，如当前游戏模式、在线玩家数量、会话时长，以及可选的上下文数据（如排名、阵营或服务器内的具体位置）。</p>\n<p>该模组在设计时兼顾了性能与简洁性，能够高效地与 Discord RPC 系统通信，同时完全兼容 Fabric 和/或 Forge 环境。它通过让玩家展示游戏内活动来增强社区互动，有效地将每次游玩转化为对服务器的被动宣传。</p>\n<p>对于希望提升曝光度和沉浸感的服务器社区而言，此模组堪称理想之选。它将标准的 Discord 状态显示转化为 <strong>wisemc.gg</strong> 游戏体验的实时延伸。</p>\n<hr>\n<h3>快捷访问</h3>\n<ul>\n<li><a href=\"https://discord.gg/ZYQjdsKnxD\" target=\"_blank\" rel=\"nofollow\">加入我们的 Discord</a></li>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fmapa.wisemc.gg%252f\" target=\"_blank\" rel=\"nofollow\">查看实时地图</a></li>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252floja.wisemc.gg%252f\" target=\"_blank\" rel=\"nofollow\">访问商店</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

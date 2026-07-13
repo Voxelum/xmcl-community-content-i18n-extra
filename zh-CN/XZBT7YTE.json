@@ -1,6 +1,6 @@
 {
-  "bodyHash": "L11dYi6Mdq4=",
-  "content": "## 📖 这是什么模组？\n\n[新增] 描述——就像 TaCZ x LambDynamicLights 扩展一样，这个模组专注于增强枪战时的沉浸感——但它不是全局动态光源，而是专门模拟枪械开火和弹丸产生的闪光与辉光效果。\n\n仅需 [TaCZ](https://modrinth.com/mod/timeless-and-classics-zero)\n\n### 2.4.3 及更高版本 - 不兼容 [~~星光(Starlight)~~](https://modrinth.com/mod/starlight-forge)\n\n## 📷 动图展示 [新增]\n\n### 1. 自定义配置菜单\n![第一张](https://i.imgur.com/s5H4Wqt.gif)\n\n### 2. 全新子弹追踪系统 [优化]\n![第二张](https://i.imgur.com/6WJOAGx.gif)\n![第三张](https://i.imgur.com/L28l4JZ.gif)\n\n## ✨ 功能特性\n\n- 🔥 **枪口焰光效果** – 每次开火时都会发出短暂的光亮，模拟逼真的枪口火焰。\n- 💡 **弹道光效** – 飞行中的弹丸会动态照亮周围环境，在黑暗环境中战斗时更添紧张感。\n- ⚡ **光源管理系统** – 优化服务端对活跃弹丸位置的追踪，避免性能问题。\n- 🌍 **多人游戏支持** – 网络同步系统确保服务器和客户端都能看到一致的光效。\n\n## 📷 截图展示 [旧版]\n![ ](https://i.postimg.cc/FKjpk4FH/2.jpg)\n\n![ ](https://i.postimg.cc/qM4TNJkz/1.jpg)\n\n![ ](https://i.postimg.cc/LsBk63vq/3.jpg)",
+  "bodyHash": "f2bc0ddefe03aede",
+  "content": "\n\n## 📖 这是什么模组？\n\n[新增] 简介 - 与 TaCZ x LambDynamicLights 插件类似，本模组专注于提升交火时的沉浸感——但并非使用全局动态光源，而是专门模拟枪械射击与弹道产生的闪光和辉光。\n\n仅需依赖 [TaCZ](https://modrinth.com/mod/timeless-and-classics-zero)\n\n### 2.4.3 及更高版本 - 不兼容 [~~Starlight~~](https://modrinth.com/mod/starlight-forge)\n## 📷 GIF 演示 [新增] \n\n### 1. 自定义配置菜单\n![First](https://i.imgur.com/s5H4Wqt.gif)\n\n### 2. 全新弹道追踪系统 [优化]\n![Twice](https://i.imgur.com/6WJOAGx.gif)\n![Triple](https://i.imgur.com/L28l4JZ.gif)\n\n## ✨ 功能特性\n\n- 🔥 枪口闪光效果 – 每次开火时都会迸发出一阵短暂的光芒，模拟逼真的枪口焰。\n- 💡 弹道照明效果 – 飞行的弹药会动态照亮周围环境，为黑暗环境下的战斗增添紧张感。\n- ⚡ 光照管理系统 – 优化了服务器端对活跃弹道位置的追踪，以避免性能损耗。\n- 🌍 多人游戏支持 – 网络同步系统确保服务器与客户端看到的光照效果保持一致。\n\n## 📷 截图 [旧版]\n![ ](https://i.postimg.cc/FKjpk4FH/2.jpg)\n\n![ ](https://i.postimg.cc/qM4TNJkz/1.jpg)\n\n![ ](https://i.postimg.cc/LsBk63vq/3.jpg)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0331429fd58352ba",
+  "content": "\n\n<div>\n<p>允許您搭配 Create 模組，自動化 Timeless and Classic Zero (TACZ) 中的所有物品。新增鋼、鋁與鉛等新素材以提升取得武器的難度。新增研發台供玩家研究武器與彈藥藍圖（研究時間可自訂設定）。</p>\n<p>移除一般 TACZ 配方<br>1. 在 tacz-common.toml 中將「DefaultPackDebug」設為 true<br>2. 刪除「config/tacz/custom/tacz_default_gun/tacz/recipes」資料夾中的所有資料夾</p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

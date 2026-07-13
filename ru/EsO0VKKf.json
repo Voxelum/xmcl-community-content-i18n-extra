@@ -1,6 +1,6 @@
 {
-  "bodyHash": "kJR24CEwwlo=",
-  "content": "![Карта ближайшей деревни, предоставляемая игроку при первом входе в игру.](https://cdn.modrinth.com/data/cached_images/e8ee41dc33854fde569aaaf89d66ad7ef9874cca.png)\n\n**Этот простой datapack/мод предоставляет игрокам карту ближайшей деревни при их первом входе в игру.**\n\n### Инструкции по установке (datapack):\n\n\n<details>\n<summary>Спойлер</summary>\n\n- Загрузите файл datapack.\n\n- Откройте папку сохранений вашего мира Minecraft:\n- C:\\Users\\<ВашеИмяПользователя>\\AppData\\Roaming\\.minecraft\\saves\\<НазваниеВашегоМира>\\datapacks\n- Скопируйте загруженный файл datapack в папку datapacks.\n- Запустите свой мир Minecraft и используйте команду ```/reload``` для загрузки datapack.\n\n\n\n\n\n \n\n\n\n</details>\n\n\n",
+  "bodyHash": "3a7049cc11b59875",
+  "content": "\n\n![Карта ближайшей деревни, выдаваемая игроку при первом входе в игру.](https://cdn.modrinth.com/data/cached_images/e8ee41dc33854fde569aaaf89d66ad7ef9874cca.png)\n\n**Этот простой датапак/мод выдает игрокам карту ближайшей деревни при первом входе в игру.**\n\n### Инструкция по установке (датапак):\n\n\n<details>\n<summary>Спойлер</summary>\n\n- Скачайте файл датапака.\n\n- Откройте папку сохранений вашей миры Minecraft:\n- C:\\Users\\<YourUsername>\\AppData\\Roaming\\.minecraft\\saves\\<YourWorldName>\\datapacks\n- Скопируйте скачанный файл датапака в папку datapacks.\n- Запустите вашу миру Minecraft и используйте ```/reload``` для загрузки датапака.\n\n\n\n\n\n \n\n\n\n</details>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

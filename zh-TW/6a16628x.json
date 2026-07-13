@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Fg83c/oE/r0=",
-  "content": "MixinBootstrap 是在 [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) 生產環境中啟動 [Mixin](https://github.com/SpongePowered/Mixin) 的一種**臨時**方式。\n\n### 這是一種非官方的 Mixin 載入方法，請勿期待任何支援。\n\nMixin 適用於 Forge **1.15.2-31.2.44+** 和 **1.16.1-32.0.72+** 版本。\n\n[Mixin](https://github.com/SpongePowered/Mixin) 採用 [MIT 授權](https://github.com/SpongePowered/Mixin/blob/master/LICENSE.txt)。",
+  "bodyHash": "e38acd68d4c8fa50",
+  "content": "\n\nMixinBootstrap 是於 [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) 正式環境中啟動 [Mixin](https://github.com/SpongePowered/Mixin) 的**臨時**方案。\n\n### 此為非官方的 Mixin 載入方式。恕不提供任何支援。\n\nMixin 已支援 Forge **1.15.2-31.2.44+** 與 **1.16.1-32.0.72+**。\n\n[Mixin](https://github.com/SpongePowered/Mixin) 遵循 [MIT 授權條款](https://github.com/SpongePowered/Mixin/blob/master/LICENSE.txt)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

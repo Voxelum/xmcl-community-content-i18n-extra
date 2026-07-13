@@ -1,6 +1,6 @@
 {
-  "bodyHash": "t9D3rOjv20M=",
-  "content": "在 [Customizable Player Models](https://modrinth.com/mod/custom-player-models) 和 [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) 之間新增了說話動畫整合功能。\n\n當使用 Simple Voice Chat 時，可在 Customizable Player Models 的模型上播放「說話」動畫。\n\n動畫幀數會根據玩家的聲音音量變化。\n\n支援 Forge 和 Fabric 版本。",
+  "bodyHash": "e6bc85a22f0d869d",
+  "content": "\n\n為 [Customizable Player Models](https://modrinth.com/mod/custom-player-models) 與 [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) 新增說話動畫整合功能。\n\n使用 Simple Voice Chat 時，可於 Customizable Player Models 模型上播放「說話」動畫。\n\n動畫幀會隨玩家的語音音量變化。\n\n支援 Forge 與 Fabric。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

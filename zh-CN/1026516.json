@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a21cd29906c716e0",
+  "content": "\n\n<h1>贪婪重生</h1>\n<p>Fabric 版的 Avaritia 模组。（非官方）</p>\n<p><strong>仍在开发中。</strong></p>\n<p>本模组旨在还原原版 <a href=\"https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10\" rel=\"nofollow\">Avaritia 模组</a> 中的所有物品与机制。</p>\n<p>已知问题：部分物品能力尚未完整实现。</p>\n<h2>已完成内容</h2>\n<p>1. 实现了原版模组中的绝大多数功能。</p>\n<p>2. 优化了部分制作流程，例如镐子的合成。</p>\n<p>3. 恢复了 1.12.2 版本中的特殊渲染效果。</p>\n<p>4. 采用数据驱动的配置系统。</p>\n<h2>常见问题</h2>\n<h4>支持其他版本吗？</h4>\n<p>我们计划支持所有主流版本。（1.14.4、1.15.2、1.16.5……）</p>\n<h4>会推出 Forge 版吗？</h4>\n<p>不会。</p>\n<h4>提供 API 吗？</h4>\n<p>本模组采用数据驱动系统，具体使用方法将在后续文档中介绍。</p>\n<h4>模组集成/兼容吗？</h4>\n<p>将使用来自 <code>Botania</code>、<code>Item Alchemy</code>、<code>Tech Reborn</code>、<code>Applied Energistics 2</code> 等模组的物品。当然，其运行方式将与原版模组保持一致。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

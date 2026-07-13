@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6676d877b8f35952",
+  "content": "\n\n<h1>关于</h1>\n<p><em><strong>Stylecraft</strong></em> 是一款资源包，专注于利用现实世界的表面材质为 Minecraft 光影制作 LabPBR 纹理。它可以在不使用光影的情况下运行，但您将无法获得完整的视觉效果。</p>\n<p>每一款纹理都始于寻找适合用数码相机拍摄的表面，并经过多种软件处理以生成无缝贴图。颜色经过调整，以尽可能贴近原版纹理的质感。</p>\n<p>部分纹理支持视差遮挡（Parallax Occlusion）效果，但由于连通纹理（Connected Textures）的工作原理，方块边缘可能会出现凸起。</p>\n<h2>所需模组</h2>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric-API</a> &amp; <a href=\"https://www.curseforge.com/minecraft/mc-mods/continuity\" target=\"_blank\" rel=\"nofollow\">Continuity</a> 是查看设计效果所必需的模组。\n如果仅使用 OptiFine 显示原木纹理，可能会出现一些问题。</p>\n<h2>捐赠</h2>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252ftheedgeloop\" target=\"_blank\" rel=\"nofollow\">Ko-fi\n</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

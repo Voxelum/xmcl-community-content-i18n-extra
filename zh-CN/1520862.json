@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f81b1403bdb9922e",
+  "content": "\n\n<p><strong>推荐渲染引擎：LTW</strong></p>\n<p>欢迎在您的整合包中使用此模组 :)</p>\n<p>如遇任何问题，请前往 Discord 服务器反馈，或尝试使用 ChatGPT（若 ChatGPT 无法解决，请加入 Discord 并反馈问题）。</p>\n<p><strong>SableBridge</strong> 为 Sable 物理模组添加了安卓兼容性支持。</p>\n<p>Sable 主要针对桌面环境设计，在 Pojav Launcher 等基于安卓的 Minecraft 启动器上运行时可能会出现问题。本模组通过调整原生库加载行为与运行时处理来弥补这一差异，使 Sable 能在移动设备上正常运行。</p>\n<h3>功能特性</h3>\n<ul>\n<li>安卓设备检测与环境适配</li>\n<li>重定向原生库加载以兼容移动端</li>\n<li>为 Pojav Launcher 提供兼容性层</li>\n<li>纯客户端运行，需安装 Sable 模组</li>\n</ul>\n<h3>依赖要求</h3>\n<ul>\n<li>Sable 模组（必需）</li>\n<li>NeoForge 1.21.1</li>\n<li>Pojav Launcher 或基于安卓的 Java 运行时（用于移动端）</li>\n</ul>\n<h3>📌 注意事项</h3>\n<ul>\n<li style=\"font-weight:bold\"><strong>本模组不包含也不重新分发 Sable 的任何部分！</strong></li>\n<li>它仅修改运行时行为以提升安卓端的兼容性。</li>\n<li>桌面端使用不受影响。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

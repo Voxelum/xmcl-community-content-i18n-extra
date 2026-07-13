@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ec98fc315ea75602",
+  "content": "\n\nDERCODE Body Camera / VHS DERCODE 分支版\n基于 Derivative 着色器打造，并加入了大量其他逼真酷炫的效果，如着色草、水模拟、全局光照（GI）等。\n\n渲染画面也完全支持物理模组（Pro版）。\n\n12区块下的性能表现：\n\ngtx 1650 笔记本 ~100 fps\nrtx 4070 笔记本 ~130 fps\nrtx 3090        ~160 fps\namd 6700        ~120 fps\n\n更新日志可在 CurseForge 上查看：\nhttps://www.curseforge.com/minecraft/shaders/project-1512050\n\n\n![Grass](https://cdn.modrinth.com/data/cached_images/da1559d9d547e0b9697c005ad99eeaea1e172fe4_0.webp)\n\nDercode Discord：https://discord.gg/dfTK72W3Y5\n\nGreat Oak Mods：https://discord.gg/gGRgHg9nn9",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

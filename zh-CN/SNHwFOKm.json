@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ca0a926cf37ceb4a",
+  "content": "\n\n# 模组音效音量选项\n\n## 说明\n安装本模组后，您可以调整模组添加的音效音量。<br />\n工业类模组的声音往往特别嘈杂，因此我们制作了此模组以解决该问题。\n\n前置模组： [MCPitanLib](https://modrinth.com/mod/mcpitanlibarch), [Architectury API](https://modrinth.com/mod/architectury-api)<br />\n（在 Fabric 加载器环境下，还需安装 [Fabric API](https://modrinth.com/mod/fabric-api)）<br />\n模组加载器：Fabric Loader、Minecraft Forge Loader、NeoForge Loader<br />\n许可证：MIT License<br />\n整合包：可用<br />",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

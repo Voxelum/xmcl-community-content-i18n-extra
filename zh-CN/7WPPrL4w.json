@@ -1,6 +1,6 @@
 {
-  "bodyHash": "HFL2ONPoRMg=",
-  "content": "# 旅程定位器\n\n## 功能特性\n\n### 加入服务端Xaero服务器\n此模组添加了必要的注册项和网络通道，使您能够加入运行Xaero世界地图或Xaero小地图的服务器。\n\n### 雷达同步\n如果任一Xaero模组配置为在渲染距离之外同步客户端间的玩家位置，本模组将自动捕获该数据，并同步至您的旅程地图，效果等同于原生使用“扩展雷达”功能。\n\n### 自动禁用机制\n若服务器同时安装旅程地图模组，雷达同步功能将自动禁用，以避免干扰旅程地图的正常运行。",
+  "bodyHash": "3017ad64950aa457",
+  "content": "\n\n# JourneyLocator\n\n## 功能\n\n### 连接服务端已安装 Xaero 的服务器\n本模组添加了必要的注册表条目与网络通道，以便加入搭载了 Xaero 世界地图或 Xaero 小地图的服务端。\n\n### 雷达同步\n如果任一 Xaero 模组配置为在客户端间同步渲染距离之外的玩家位置，本模组会检测该设置并自动同步至你的 JourneyMap，效果等同于原生使用“扩展雷达（Extended Radar）”。\n\n### 自动禁用\n如果服务端也安装了 JourneyMap，雷达同步功能将自动禁用，以免干扰 JourneyMap 的正常运行。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/nWdFFvZhJ8=",
-  "content": "![banner](https://cdn.modrinth.com/data/cached_images/7b44fe8ba6ad90bc61a7a6212da5019e1191ffd7_0.webp)\n\n這是一個程式庫模組！如果您不是開發者，不必擔心。這個模組很可能作為其他模組的依賴項存在於您的模組包中。\n\n如果您是開發者，哈囉！這個程式庫專為與我的[多版本範本模組](https://template.txni.dev/)協作而設計，我用它來從單一程式碼庫同時在 Forge 和 Fabric 平台的 1.20 及 1.21 版本上發布模組。除了我發現有用的各種隨機功能外，這個模組主要包含特定平台與版本的實作，以減少在跨版本維護專案時重複的 if/else 判斷。歡迎您使用它，但文件說明僅在我有空閒時間時才會提供。",
+  "bodyHash": "6a3414dc7894b07a",
+  "content": "\n\n![banner](https://cdn.modrinth.com/data/cached_images/7b44fe8ba6ad90bc61a7a6212da5019e1191ffd7_0.webp)\n\n這是一個函式庫模組！如果你不是開發者，別擔心這個。它很可能只是作為其他模組的相依模組而出現在你的模組整合包中。\n\n如果你是開發者，你好！這個函式庫是專門為配合我的 [多版本模板模組](https://template.txni.dev/) 而設計的，我使用它在 Forge 與 Fabric 平台上，從單一程式碼庫同時發布 1.20 與 1.21 版本的模組。除了我個人覺得實用的各種零散功能外，這個模組主要提供了針對不同平台與版本的特定實作，以減少跨版本維護專案時重複撰寫 if/else 的工作量。歡迎你使用它，但說明文件僅會在我有空閒時間時陸續提供。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

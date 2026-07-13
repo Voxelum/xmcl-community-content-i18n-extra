@@ -1,0 +1,6 @@
+{
+  "bodyHash": "674730cefd7d306e",
+  "content": "\n\n<h2>Naughthirium</h2>\n<h4>Патчи совместимости Nothirium с модами, такими как LoliASM.</h4>\n<p><strong>Совместимо с RenderLib 1.4.1 и Nothirium 0.4.2 и выше</strong></p>\n<p>Текущие патчи:</p>\n<ol>\n<li>Исправляет совместимость с функцией <code>onDemandAnimatedTextures</code> из <code>LoliASM</code> как для блоков, так и для сущностей. Теперь вы можете одновременно использовать возможности обеих систем.</li>\n<li>Исправляет проблему совместимости с <code>ChunkAnimator</code>: анимация теперь работает полностью, так как начальные чанки отрисовки правильно ставятся в очередь.</li>\n<li>Исправляет совместимость с функцией <code>Smart Animation</code> в <code>OptiFine</code>. Если у вас установлен <code>LoliASM</code>, пожалуйста, обновите его как минимум до версии 5.23.</li>\n<li>Исправляет совместимость с кастомным рендерером <code>Multiblocked</code>.</li>\n</ol>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/naughthirium\" target=\"_blank\" rel=\"nofollow\">CurseForge</a> + <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fnaughthirium\" target=\"_blank\" rel=\"nofollow\">Modrinth</a></p>\n<h3>Лицензия</h3>\n<p>Все права защищены</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

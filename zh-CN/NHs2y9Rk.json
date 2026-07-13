@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ad58d5f39cfdc4f2",
+  "content": "\n\n# Faithless PvP 修改版\n\n**免责声明：本资源包不使用任何 Faithless 的纹理或文件！** 它仅使用我自己的文件覆盖部分原文件，以使其针对 PvP 进行优化！你需要安装 Faithless 材质包才能使其生效，同时请确保在 Minecraft 资源包设置中，我的资源包位于 Faithless 资源包之上！\n\n## 此资源包的功能\n1. 修复了 Faithless 材质包中左手持握与副手武器/物品的显示问题，使其恢复正常。\n2. 恢复了默认的爆炸音效\n3. 添加了低火焰效果\n4. 将不死图腾恢复为默认样式\n5. 减少了粒子特效\n\n- 左手持握武器目前存在一个问题，我希望能尽快修复！\n\n<details>\n<summary>为什么我不使用任何 Faithless 的纹理/文件</summary>\n\n由于 Faithless 采用 ARR（保留所有权利）许可证，我无法直接使用他们的任何纹理，因此本资源包仅通过替换部分文件来实现功能。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

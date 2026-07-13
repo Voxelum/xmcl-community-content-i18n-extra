@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ec9c931c0e7d42b9",
+  "content": "\n\n<p>&nbsp;</p>\n<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">當 Minecraft 遇到任何深度超過 512 的複合型／列表型 NBT 標籤時，會拋出異常並拒絕載入存檔。</span></p>\n<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">&nbsp;</span></p>\n<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">此模組將該令人困擾的機制替換為無害的日誌警告，讓遊戲繼續運行。</span></p>\n<p>&nbsp;</p>\n<p>不幸的是，某些模組的錯誤行為可能會導致 NBT 深度持續增加，<strong>最終引發 StackOverflowError</strong>。因此，使用者可能需要找出負責的特定模組並採取適當措施。根據使用者 \"ABadHaiku\" 的報告，此類問題在某些 MCreator 模組中相當常見。他已聯繫 MCreator 的開發團隊，他們已在最新版本中修復了此問題。如果使用者能確定錯誤來源，應向該模組作者回報。此外，\"ABadHaiku\" 也提供了一份修復受影響存檔的方法，可<a href=\"https://github.com/MCreator/MCreator/issues/6088#issue-3943023251\" target=\"_blank\" rel=\"nofollow\">這裡</a>查看。</p>\n<p>&nbsp;</p>\n<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">注意：</span></p>\n<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">深度超過 512 的複合型／列表型 NBT 標籤本身即屬異常，收到日誌警告後，您可透過 NBT 編輯器檢查您的存檔；</span></p>\n<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">您<span style=\"color:#9c0\"><strong>絕對可以</strong></span>將此模組加入您的模組整合包中。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

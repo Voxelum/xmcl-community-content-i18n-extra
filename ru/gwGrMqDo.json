@@ -1,6 +1,6 @@
 {
-  "bodyHash": "9W4YFLcw3as=",
-  "content": "Добавляет интеграцию анимации говорения между [Настраиваемыми моделями игроков](https://modrinth.com/mod/custom-player-models) и [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice).\n\nВключает воспроизведение анимации «Говорение» на моделях настраиваемых игроков при использовании Plasmo Voice.\n\nФрейм анимации зависит от громкости звука игрока.\n\nРаботает с Forge и Fabric.",
+  "bodyHash": "b84903a1a1bc0c23",
+  "content": "\n\nДобавляет интеграцию анимации речи между [Customizable Player Models](https://modrinth.com/mod/custom-player-models) и [Plasmo Voice](https://modrinth.com/plugin/plasmo-voice).\n\nВключает воспроизведение анимации «Речь» для моделей Customizable Player Models при использовании Plasmo Voice.\n\nКадры анимации зависят от громкости голоса игрока.\n\nРаботает с Forge и Fabric.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

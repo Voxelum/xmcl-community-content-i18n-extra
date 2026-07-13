@@ -1,6 +1,6 @@
 {
-  "bodyHash": "t0j9OSVc4u4=",
-  "content": "<p><strong>此模組為其他模組的函式庫，本身不具備任何獨立功能。</strong></p><p>此函式庫包含新的事件、輔助工具與實用功能，旨在讓模組開發者的工作更輕鬆。支援客戶端與伺服器端，適用於 Forge 模組。</p><p>此專案是為了協助我更方便開發自己的模組而製作，因此若您將其用於自身用途，我能提供的支援將會有限。</p><p>&nbsp;&nbsp;</p><p>此為函式庫的 Forge 版本，若您在尋找 Fabric 版本，<a href=\"https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric\" rel=\"nofollow\">請點擊此處</a>。</p><p>&nbsp;</p><p><em>歡迎自由使用此函式庫於您的模組開發或模組包中！</em></p><p>&nbsp;</p><p><a href=\"https://discord.gg/S5NQjbXPnb\" rel=\"nofollow\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\"></a></p><p><strong>遇到問題、有功能請求或其他事項？歡迎加入我們的 Discord 社群！</strong></p>",
+  "bodyHash": "42c2ee5c6699a31b",
+  "content": "\n\n<p><strong>此模組是供其他模組使用的函式庫，它本身不會執行任何功能。</strong></p>\n<p>此函式庫包含新的事件、輔助工具與實用程式，旨在讓模組開發者的工作更加輕鬆。&nbsp;適用於 Forge 模組的客戶端與伺服器端。</p>\n<p>開發此函式庫主要是為了方便我製作自己的模組，因此若您將其用於個人專案，我只能提供有限的技術支援。</p>\n<p>&nbsp;&nbsp;</p>\n<p>這是 Forge 版本的函式庫。如果您正在尋找 Fabric 版本，請&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric\" rel=\"nofollow\">點擊這裡</a>。</p>\n<p>&nbsp;</p>\n<p><em>您可以自由地在開發自己的模組或整合包中使用此函式庫！</em></p>\n<p>&nbsp;</p>\n<p><a href=\"https://discord.gg/S5NQjbXPnb\" rel=\"nofollow\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\"></a></p>\n<p><strong>遇到問題、有功能建議或其他需求？&nbsp;歡迎加入我們的 Discord 伺服器！</strong></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

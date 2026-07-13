@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e0cec547b9963f81",
+  "content": "\n\n# Minecraft 傷害數字\n當任何實體受到傷害時，會顯示簡單的傷害數字粒子效果。相容於 1.19.4 與 1.20.X 版本。傷害數字適用於所有生物實體，並可在模組設定中進行自訂或停用。\n\n## 截圖\n![有人在使用傷害數字模組時擊殺農場動物的簡易 GIF。](https://dl.vixen.link/ccr1s2/damagenumbers-banner-small.gif)\n![傷害數字設定頁面的截圖。](https://dl.vixen.link/qpyz6r/damagenumbers-settings.png)\n\n## 下載\n您可以從 [Modrinth](https://modrinth.com/mod/damagenumbers) 或 [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/damagenumbers) 下載此模組的最新版本。載入此模組需要安裝 [Fabric](https://fabricmc.net/use/)、[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) 或 [NeoForge](https://neoforged.net/) 其中一個載入器。\n\n## 作者\n由 Lua 使用 ❤ 製作 ([foxgirl.dev](https://foxgirl.dev/))",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

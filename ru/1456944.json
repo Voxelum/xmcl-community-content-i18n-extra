@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9b4d0e7ffbb971b3",
+  "content": "\n\n<p><span style=\"color:#e03e2d\"><strong><u>Требуется </u><a href=\"https://www.curseforge.com/minecraft/mc-mods/create-industry\" target=\"_blank\" rel=\"nofollow\">TFMG</a><u><a href=\"https://www.curseforge.com/minecraft/mc-mods/corpse\" target=\"_blank\" rel=\"nofollow\"> </a>в качестве зависимости.</u></strong></span></p>\n<p>Этот мод исправляет некоторые проблемы с производительностью, обнаруженные в <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-industry\" target=\"_blank\" rel=\"nofollow\">Create: The Factory Must Grow</a>.</p>\n<p>&nbsp;</p>\n<p>Данный мод исправляет в TFMG следующие две проблемы с производительностью:</p>\n<p><strong>Лаги от очков (Goggles Lag)</strong>: При взгляде на любое существо, с очками Create или без них, происходит бесконечная запись ошибок в лог. Результаты попадания не по блокам временно заменяются безопасной фиктивной записью <code>BlockHitResult</code>, пока происходит рендеринг оверлея очков Create, после чего исходное значение восстанавливается.</p>\n<p><strong>Генерация нефти (Oil Generation)</strong>: Процесс генерации нефтяных пятен в TFMG оптимизирован: теперь он ограничен одним чанком, что предотвращает вызовы setBlock в отдалённых чанках.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

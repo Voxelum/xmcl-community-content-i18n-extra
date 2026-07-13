@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d979bc8a9297d2f",
+  "content": "\n\n# BetterNickname\n一款專為 Forge 1.8.9 設計的 Hypixel 模組，旨在為 MVP++ 玩家改善 /nick 系統。\n\n### 警告：\n使用此模組及其功能需自行承擔風險。請在使用前充分了解相關規定，並由使用者自行判斷是否允許使用。\n\n## 功能\n- 自動重新生成暱稱\n  - 持續重新生成暱稱，直到符合指定條件為止\n  - 支援自訂重新生成的間隔時間\n  - 條件達成後自動領取該暱稱\n- 免除 Hypixel 原版笨重的書本 GUI 介面需求\n- 支援設定隨機暱稱等級（執行 `/betternick random`）\n- 內建 HUD 顯示當前暱稱等級與名稱 \n\n### 基於 OneConfig！\n[![Minimal Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_3.svg)](https://github.com/Polyfrost/OneConfig)\n\n### 問題與建議\n如果您對本模組有任何問題或建議，歡迎在 Discord 上添加我的好友：\n\n[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2KGUAvpA)\n\n## 使用方法\n遊戲中執行 `/betternick help` 可查看指令語法與用法。\n要使用自動重新生成功能，請按下右 Shift 鍵或執行 `/ocfg` 指令來開啟 OneConfig 模組編輯器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

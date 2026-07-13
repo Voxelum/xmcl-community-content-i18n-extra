@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bf11bb610a63e31f",
+  "content": "\n\n# О Cosmonautics: Deep Air\nЭтот мод просто добавляет локальный воздух и гравитацию в Cosmonautics, используя системы Deep Seas. Это лишь временное решение до тех пор, пока поддержка воздуха не будет добавлена в сам Cosmonautics.\n\nСуществует один существенный нюанс, касающийся гравитации: как минимум одна комната на вашем корабле должна иметь доступ к воздуху из-за очистки памяти в Deep Seas.\n\n# Зависимости\n\n    Create\n    Create Aeronautics\n    Sable\n    Cosmonautics\n    Create: Deep Sea\n\n** Необязательно, но требуется хотя бы один из трёх. (Или любой мод, позволяющий генерировать и транспортировать FE)\n\n    Create Addition\n    Create New Age\n    Create Power Grid",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab565890faef44a8",
+  "content": "\n\n# WindowFix\n\nWindowFix 解决了 Windows 版 Minecraft 的一个特定问题：与标题栏系统菜单（右键点击标题栏、最小化、还原等）交互时，可能导致游戏主循环卡死或卡顿。\n\n## 支持环境\n\n- Windows 客户端\n\n## 修复模式\n\nWindowFix 通过客户端配置文件提供两种模式：\n\n1. 拦截原生系统菜单（优先稳定性）  \n完全屏蔽标题栏右键系统菜单，以避免进入 Win32 菜单模态循环。\n\n2. 原生兼容模式  \n保留原生右键系统菜单，并启用 `MNS_MODELESS` 以降低阻塞发生的可能性。\n\n## 配置说明\n\n首次启动后将自动生成配置文件：\n\n`config/windowfix-client.toml`\n\n示例：\n\n```toml\nblockTitleBarSystemMenu = false\nkeepActiveDuringSystemMenu = true\n```\n\n修改配置值后请重启游戏。\n\n- `blockTitleBarSystemMenu`\n  - `true`：禁用标题栏右键原生系统菜单。\n  - `false`：保留原生系统菜单行为。\n- `keepActiveDuringSystemMenu`\n  - 仅在 `blockTitleBarSystemMenu = false` 时生效。\n  - `true`：在系统菜单操作期间屏蔽短暂的焦点丢失提示，以减少卡顿。\n  - `false`：保持默认的焦点行为。\n\n## 使用方法\n\n1. 将编译好的 JAR 文件放入客户端的 `mods` 目录中。\n2. 启动游戏，并根据需要调整 `config/windowfix-client.toml` 中的设置。\n\n## 日志关键词\n\n可在 `latest.log` 中搜索以下关键词：\n\n- `Installed Win32 window hook for system menu freeze workaround.`\n- `Enabled MNS_MODELESS on system menu.`\n\n## 已知限制\n\n- 仅限 Windows 平台生效。\n- 在原生兼容模式下，根据系统窗口管理行为的不同，仍可能出现短暂卡顿。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

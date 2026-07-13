@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de8d7a9942be4f1b",
+  "content": "\n\n这是一个用于按键绑定管理的小型工具，专为整合包开发者设计。它允许你设置自己的按键绑定，并使其无法通过 keybinds.json 进行修改。\n\n在 keybinds.json 中，你可以开启管理员模式，从而在游戏中锁定并设置按键绑定。因此，请确保在 keybinds.json 配置文件中禁用 admin/devMode（管理员/开发者模式）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

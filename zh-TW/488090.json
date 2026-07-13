@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ChORwudrqlo=",
-  "content": "<p style=\"text-align:center\">MidnightLib 是一個為模組提供通用工具和配置系統的函式庫。</p><p style=\"text-align:center\">此函式庫還為每個註冊的配置自動整合 ModMenu，無需再等待 ModMenu 更新！</p><p style=\"text-align:center\">當 ModMenu 未安裝或用戶手動啟用時，也會顯示一份使用 MidnightLib 建立的所有配置列表。</p><p style=\"text-align:center\"><br><strong>模組開發者歡迎並鼓勵將其包含在自己的模組中。</strong><br>所有功能都可以在函式庫本身的配置介面/檔案中開啟或關閉</p><p style=\"text-align:center\"><img src=\"https://media.discordapp.net/attachments/507982666755473427/1036592375310590022/Screenshot_Minecraft_1.19.2_3.png?width=774&amp;height=644\" alt=\"配置介面範例\" height=\"532\"></p>",
+  "bodyHash": "7cf03bcc964592fc",
+  "content": "<p style=\"text-align:center\">MidnightLib 是一个为模组提供通用工具函数和配置系统的库。</p>\n<p style=\"text-align:center\">该库还具备自动集成 ModMenu 的功能，适用于所有已注册的配置项——无需再等待 ModMenu 发布新版本！</p>\n<p style=\"text-align:center\">此外，当未安装 ModMenu 或用户手动启用时，会显示一个使用 MidnightLib 创建的所有配置项列表。</p>\n<p style=\"text-align:center\"><br><strong>允许并鼓励模组开发者将其包含在他们的模组中。</strong><br>每个功能都可以在库自身的配置界面/文件中切换</p>\n<p style=\"text-align:center\"><img src=\"https://media.discordapp.net/attachments/507982666755473427/1036592375310590022/Screenshot_Minecraft_1.19.2_3.png?width=774&height=644\" alt=\"示例配置界面\" height=\"532\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

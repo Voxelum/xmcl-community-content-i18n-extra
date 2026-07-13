@@ -1,6 +1,6 @@
 {
-  "bodyHash": "AXofLNVNPUk=",
-  "content": "<p><span style=\"font-size:14px\">Лицензия Optifine запрещает её распространение, однако бывают случаи, когда игроки не устанавливают Optifine вручную в папку модов модпака.</span></p><p><span style=\"font-size:14px\">Этот мод напомнит игрокам об установке Optifine, если обнаружит, что Optifine HD не загружен должным образом.</span></p><p><span style=\"font-size:14px\">Поддерживается только Forge, поскольку Optifabric также предупреждает игроков, если Optifine HD не обнаружена.</span></p><p><img src=\"https://s2.loli.net/2025/01/26/rTOgWSLpFRPEJxo.png\" alt=\"image.png\"></p>",
+  "bodyHash": "31a4c9f25143aa25",
+  "content": "\n\n<p><span style=\"font-size:14px\">Лицензия OptiFine запрещает распространение этого мода, но иногда игроки могут забыть установить OptiFine вручную в папку модов сборки.</span></p>\n<p><span style=\"font-size:14px\">Этот мод будет напоминать игрокам об установке OptiFine при обнаружении некорректной загрузки OptiFine HD.</span></p>\n<p><span style=\"font-size:14px\">Поддерживается только Forge, поскольку OptiFabric уже оповещает игроков об отсутствии OptiFine HD.</span></p>\n<p><img src=\"https://s2.loli.net/2025/01/26/rTOgWSLpFRPEJxo.png\" alt=\"image.png\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

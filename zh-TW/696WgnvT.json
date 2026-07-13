@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Yqe5j6BErjw=",
-  "content": "# 什麼是 Sodium Extra Information？\n\nSodium Extra Information 是一個為 Minecraft 設計的模組，用於為 Sodium Extra 模組增加額外資訊。這個模組也是純客戶端模組，僅需安裝在客戶端即可。\n\n## 功能特色\n\n- **改變文字顏色**\n\n- 顯示本地時間\n- 顯示世界時間（天數）\n- 顯示遊戲階段時間\n- 顯示記憶體使用量\n- 顯示記憶體使用量（詳細）\n- 顯示實體數量\n- 顯示已渲染實體數量\n- 顯示生態域\n\n![功能範例](https://cdn.modrinth.com/data/696WgnvT/images/ac1bc3b8e7d13887b787c9bd1a23438d6bb3c25d.png)\n\n## 如何啟用功能？\n\n1. 進入選項設定\n2. 進入影像設定\n3. 進入 Sodium Extra 的額外選單\n4. 向下捲動至以下選項\n5. 啟用你想要使用的功能\n\n### 問題或建議\n\n如果你有任何問題或建議，請在 [GitHub 儲存庫](https://github.com/anviaan/SodiumExtraInformation/issues) 建立一個議題。",
+  "bodyHash": "fff56cad856d01f7",
+  "content": "\n\n# 什麼是 Sodium Extra Information？\n\nSodium Extra Information 是一款 Minecraft 模組，為 Sodium Extra 模組新增更多資訊顯示。此模組為純客戶端模組，代表只需在客戶端安裝即可。\n\n## 功能\n\n- **更改文字顏色**\n\n- 顯示本地時間\n- 顯示世界時間（天數）\n- 顯示會話時間\n- 顯示記憶體使用量\n- 顯示記憶體使用量（延伸）\n- 顯示實體數量\n- 顯示渲染實體數量\n- 顯示生態域\n\n![功能範例](https://cdn.modrinth.com/data/696WgnvT/images/ac1bc3b8e7d13887b787c9bd1a23438d6bb3c25d.png)\n\n## 如何啟用這些功能？\n\n1. 進入選項\n2. 前往影像設定\n3. 進入 Sodium Extra 的額外選單\n4. 向下捲動至下方選項\n5. 啟用您想使用的功能\n\n### 問題或建議\n\n如果您有任何問題或建議，請前往 [GitHub 儲存庫](https://github.com/anviaan/SodiumExtraInformation/issues) 建立問題回報。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

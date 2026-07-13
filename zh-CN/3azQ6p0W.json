@@ -1,6 +1,6 @@
 {
-  "bodyHash": "8gGUuA027ko=",
-  "content": "珍视世界是一款模组，它为世界添加了收藏/置顶/标记功能。\n\n安装后，世界选择界面上每个世界旁都会出现空心的星形图标。玩家可以点击世界图标旁的星形来收藏世界。\n\n收藏世界会强制它们始终显示在世界选择列表的顶部，并在取消标记前禁止删除。玩家可以随心所欲地收藏任意数量的世界。若存在多个收藏世界，它们将按最近游玩日期在内部排序。\n\n**本模组仅限客户端。**\n\n## 功能特性\n\n### 单人世界\n\n![已收藏的世界选择界面](https://i.ibb.co/23MxVBp/selectworld.png)\n\n### 多人世界\n\n![已收藏的多人游戏选择界面](https://i.ibb.co/C6Qjwp9/selectserver.png)\n\n## 支持\n\n请将所有漏洞、问题及功能需求提交至[问题追踪器](https://github.com/TheIllusiveC4/CherishedWorlds/issues)。\n\n如需非技术支持与咨询，请加入开发者的[Discord](https://discord.gg/JWgrdwt)。\n\n## 许可协议\n\n所有源代码与资源文件均采用LGPL 3.0协议授权。\n\n## 赞助\n\n可通过[Ko-fi](https://ko-fi.com/C0C1NL4O)向开发者提供赞助。\n\n## 合作推广\n\n[![BisectHosting](https://i.ibb.co/5Tw6mh2/bisect-illusive.webp)](https://illusivesoulworks.com/affiliate)",
+  "bodyHash": "a9bcc824a9ca8727",
+  "content": "\n\n珍藏世界是一款模组，为特定世界添加了收藏/置顶/书签功能。\n\n安装后，在选择界面的每个世界旁边都会出现空心星形图标。玩家点击世界图标旁的星星即可将其收藏。\n\n被收藏的世界将强制始终显示在世界列表的顶部，并且在取消收藏前无法删除。玩家可以收藏任意数量的世界。若同时收藏了多个世界，它们将在内部按最后游玩日期进行排序。\n\n**本模组仅适用于客户端。**\n\n## 功能特性\n\n### 单人游戏世界\n\n![包含收藏夹的世界选择界面](https://i.ibb.co/23MxVBp/selectworld.png)\n\n### 多人游戏世界\n\n![包含收藏夹的多人游戏选择界面](https://i.ibb.co/C6Qjwp9/selectserver.png)\n\n## 支持\n\n请将所有错误、问题及功能建议提交至[问题追踪器](https://github.com/TheIllusiveC4/CherishedWorlds/issues)。\n\n如需非技术性支持或提问，请加入开发者的 [Discord](https://discord.gg/JWgrdwt)。\n\n## 许可证\n\n所有源代码与资源文件均遵循 LGPL 3.0 许可证。\n\n## 捐赠\n\n支持开发者可通过 [Ko-fi](https://ko-fi.com/C0C1NL4O) 进行捐赠。\n\n## 合作推广\n\n[![BisectHosting](https://i.ibb.co/5Tw6mh2/bisect-illusive.webp)](https://illusivesoulworks.com/affiliate)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

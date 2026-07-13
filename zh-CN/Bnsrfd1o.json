@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a6b643cea3b71645",
+  "content": "\n\n## ConfigAnytime\n\n#### 允许在任何时间点配置 Forge 设置。特别适用于在核心模组（coremod）或 Tweaker 加载阶段使用 Forge 配置系统的开发者。\n\n\n### 开发者用法：\n\n- 添加 CleanroomMC 的仓库并依赖 ConfigAnytime 的 Maven 条目：\n```groovy\nrepositories {\n    maven {\n        url 'https://maven.cleanroommc.com'\n    }\n}\n\ndependencies {\n    implementation 'com.cleanroommc:configanytime:3.0'\n}\n```\n\n- API 使用示例：\n\n```java\n@Config(modid = \"configanytime\")\npublic class ConfigClass {\n    \n    public static boolean configBooleanProperty = true;\n    public static int configIntProperty = 42;\n    \n    public static final InnerClass INNER_CLASS = new InnerClass(); // 通过此成员进行内部访问，ConfigManager 会自动处理它\n    \n    public static class InnerClass {\n        \n        public boolean innerProperty = false; // 必须为非静态，通过外部类中的成员字段引用\n        \n    }\n    \n    // 静态初始化块应放在属性声明之后！\n    // 当你从此配置类获取任何属性时，它将自动运行\n    static {\n        ConfigAnytime.register(ConfigClass.class);\n    }\n    \n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7286f477b3c1567",
+  "content": "\n\n## 📖 描述\n**Mojang 终于通过“混乱坐骑”游戏掉落活动（Mounts of Mayhem Game Drop）添加了会游泳的马匹，这使得该数据包的用途变得有些多余。因此，我们将对其进行归档。**\n\n**Nice Swimming Mobs** 允许玩家骑着他们喜爱的坐骑在水中游泳。只需骑乘进入水中即可开始游泳。当坐骑被水淹没时，你可以按下**疾跑键**上浮。骑乘时，坐骑也不会受到溺水伤害。\n*（炽足兽在技术上已获支持，但请注意它们在水中仍会受到伤害。）*\n\n**支持的坐骑**：\n- 炽足兽\n- 骆驼\n- 马\n- 僵尸马\n- 骷髅马\n- 驴\n- 骡子\n- 羊驼\n- 行商羊驼\n- 猪\n\n## 🛠️ 使用方法、说明与命令\n该数据包通常只需安装即可使用，无需其他额外操作，开箱即用。\n\n但如果你是在 PaperMC 服务器（或 PaperMC 分支如 Purpur）上运行，请确保在你的 Paper 配置文件（paper-world.yml 或 paper-global.yml）中将 **allow-non-player-entities-on-scoreboards** 设置为 **true**，以确保所有功能正常运行。\n\n## ✍️ 反馈、问题与建议\n我们随时为您提供帮助！如果您有任何问题、建议，或者遇到了 Bug，欢迎随时加入我们的 Discord 服务器，在**数据包专区**寻求帮助。[点击加入服务器](https://discord.gg/f2pMggfgVv)\n\n## 🎮 Explorer's Eden 生存服\n加入 **[A Realm Recrafted](https://explorerseden.eu/)**，我们的 Minecraft 生存服！在这里享受一个包含我们所有（持续维护中）数据包以及部分专属数据包的完整世界。服务器完全免费，没有任何微交易。快来与我们一起建造、探索和制作吧！\n\n<a href=\"https://explorerseden.eu\"  target=\"_blank\"><img src=\"https://explorerseden.eu/images/ee_banner_new.png\" alt=\"Explorer's Eden\" style=\"width:100%;height:100%;\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

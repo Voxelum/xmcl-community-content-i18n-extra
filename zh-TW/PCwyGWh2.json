@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e17756d65b3a40e2",
+  "content": "\n\n![星火核心](https://cdn.modrinth.com/data/cached_images/3cfad85de7af9fcf6bdba5cc2268dab47989cd09_0.webp)\n\n<font size=\"6\"><center>**總覽**</center></font>\n  \n---\n\n星火核心內建 [ode4j](https://github.com/tzaeschke/ode4j)（剛體物理函式庫）、[KStateMachine](https://github.com/KStateMachine/kstatemachine)（Kotlin 狀態機函式庫），以及基岩版的模型動畫載入器與控制器。\n\n它能做什麼？\n\n- 它引入了可整合至 Minecraft 環境中的物理執行緒，可用於建立強大的物理碰撞檢測，或模擬逼真的剛體物理碰撞場景。\n- 針對實體，我們提供了優秀的基岩版模型與動畫載入器。你可以將基岩版模型用作自訂實體模型或任意物品的模型，且模型數據可在伺服器端讀取。你能直接呼叫旋轉等參數，並搭配物理執行緒來模擬模型內部的物理效果！\n- 當然，我們也提供一些實用的工具方法，包含狀態機、預設動畫（例如行走和奔跑等狀態動畫）……還有更多功能等你來探索！\n    \n\n你也可以透過以下影片簡要了解我們的特色：\n\n<span><span><iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/GHw99xsqWu0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></span></span>\n\n<span><span><iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ii2n1pNOYdU\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></span></span>\n  \n影片中展示的所有新功能皆由本核心實現，包含動畫、物理效果等，並且均可應用於 Minecraft 實體。\n\n---\n  \n**<center>🌾<font color=\"#BEBEBE\"> <i> 歡迎提交問題或建議！ </i> </font> 🌾</center><br>**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

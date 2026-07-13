@@ -1,0 +1,6 @@
+{
+  "bodyHash": "44b50507ace3f3ee",
+  "content": "\n\n![Tntimerlogo](https://cdn.modrinth.com/data/cached_images/f2e8250eb3dcefe943cb829d0971629f10811672.png)\n\n![SeparatorBar](https://cdn.modrinth.com/data/cached_images/cd452159c8ee74da3578ffd088abab56e5fe1c46.png)\n\n**是一款客戶端模組，可顯示 TNT 爆炸的精確倒數計時器，協助玩家在 Minecraft 中掌握爆炸時機。無論是小遊戲玩法、TNT 跳躍，或是單純預判 TNT 引爆時間都非常實用。**\n\n![In-Game](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzIycnVjcm5vNnp0NWN0NHJqcmJ4ajZyamxlMmMzemk5cDB2cmRmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dIDXudhuSAGhUP5qIs/giphy.gif)\n\n![SeparatorBar2](https://cdn.modrinth.com/data/cached_images/68771686d87d838b08514067a7fe490087de83d8.png)\n\n**功能特色**\n\n*雙重顯示模式*\n* HUD 計時器 - 螢幕上顯示，支援自訂位置（7 個位置：左上、右上、左下、右下、頂部中央、底部中央、游標下方）\n* 3D 世界計時器 - 浮動倒數直接顯示在 TNT 實體上方（v2.0 新增！）\n\n*視覺資訊*\n* 顏色警示 - 白色（>2 秒）、橙色（<2 秒）、紅色（<1 秒），提供即時視覺回饋\n* 簡潔極致設計 - 以「3.5s」格式顯示精確時間\n* 可選 HUD 背景 - 可切換半透明背景以提升可讀性\n* 鮮明 3D 色彩 - 提升世界空間計時器的可見度\n\n*自訂選項*\n* 多目標 TNT 追蹤 - 同時顯示最多 10 個 TNT 倒數（可設定 1-10 個）\n* 輕鬆設定 - 透過 Mod Menu 或快捷鍵（預設：'K'）存取設定\n* 18 種語言翻譯 - 為全球玩家提供完整在地化支援\n\n*適用場景*\n* 小遊戲 - 在 Bedwars、SkyWars 等模式中完美掌握 TNT 跳躍時機\n* 跑酷 - TNT 跳躍\n* 紅石 - 協調定時爆炸\n\n**相依性：**\n* Fabric API（必要）\n* Cloth Config（選配，用於設定畫面）\n* Mod Menu（選配，用於遊戲內存取設定）\n\n客戶端模組 - 可在任何伺服器上使用，無需安裝伺服器端元件。您的計時器僅對您自己可見。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

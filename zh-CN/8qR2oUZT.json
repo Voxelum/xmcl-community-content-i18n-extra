@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e24e204ae53adf65",
+  "content": "\n\n[Discord](https://discord.gg/qgKEFnf6v8)  \n\n# 键位预设\n\nKeymap Presets 是一款纯客户端模组，适用于需要频繁更改按键绑定的环境。\n\n### 功能特性\n\n- 添加保存和加载键位的命令。\n- 按下左 ALT 键（默认）以打开预设选择菜单。\n- 按 ALT+\\<N> 组合键快速选择。例如：ALT+1 加载“default”预设。\n  ![](https://cdn.modrinth.com/data/8qR2oUZT/images/f3e502492d06a6c2da03cb0fa5d1ffd7416d6ea4.png)\n- 在按键绑定界面添加用于编辑预设的小部件。\n  ![](https://cdn.modrinth.com/data/8qR2oUZT/images/db34ef09971e3b1ca2b6edb980e6345c1a7795e8.png)\n\n### 命令\n\n- 保存预设：“/keymap save \\<name>”\n- 加载预设：“/keymap load \\<name>”\n- 删除预设：“/keymap delete \\<name>”\n- 清除所有预设：“/keymap clear”\n- 重命名预设：“/keymap rename \\<name>”\n- 显示所有预设：“/keymap list”\n- 设置排序配置：“/keymap sort \\<type> \\<order>”\n\n## 常见问题\n\n- 此模组是否仅在客户端运行？  \n  是的，完全支持纯客户端运行。\n- 我想迁移到另一个游戏实例。  \n  将 `.minecraft/keymappresets/` 文件夹复制到新的实例即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

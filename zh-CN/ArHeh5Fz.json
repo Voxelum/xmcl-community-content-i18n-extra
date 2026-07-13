@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+nc7oBmNGL8=",
-  "content": "# AE2 Lightning Tech\n\n![标题图](https://cdn.modrinth.com/data/cached_images/f4a5c084440f3940cef3f3747348caa507a20e83.png)\n\nAE2 Lightning Tech 是应用能源2的一个附属模组，它将雷电转化为自动化流程中不可或缺的组成部分。该模组新增了雷电作为ME可存储资源，围绕过载水晶构建了一套材料进阶体系，并通过高级机器和超载网络基础设施扩展了AE2的功能。\n\n## 特性\n\n### 雷电系统\n\n收集自然雷击，生成人工雷电，并在ME网络中储存雷电能量。雷电将作为专用资源，用于机器运行、合成配方及后续进阶流程。\n\n### 过载材料\n\n基于过载水晶、雷电转化、水晶培育、高级合金、处理器及其他模组核心组件，构建全新的材料进阶链条。\n\n### 加工机器\n\n建立以雷电为动力的生产线，配备转化、装配、水晶催化、气象控制以及高吞吐并行处理等功能的机器。\n\n### 超载ME网络\n\n通过超载网络组件升级你的AE2基础设施，这些组件专为更高通道容量、更大规模模式工作站、无线路由及远程机器连接而设计。\n\n## 依赖项\n\n- **必需：** 应用能源2 (Applied Energistics 2)\n\n## 反馈\n\n欢迎在项目问题追踪器中提交漏洞报告和改进建议。报告问题时，请注明你的Minecraft、NeoForge、AE2及AE2 Lightning Tech版本。\n\n## 致谢\n\n本模组由 **MOAKIEE**、**CystrySU**、**gjmhmm8**、**_leng**、**TedXenon** 和 **MHanHanBing** 共同开发。\n\n特别感谢应用能源2开发团队。",
+  "bodyHash": "35905e79e6590d08",
+  "content": "\n\n# AE2 闪电科技\n![Header Image](https://cdn.modrinth.com/data/cached_images/f4a5c084440f3940cef3f3747348caa507a20e83.png)\nAE2 闪电科技是 Applied Energistics 2 的附属模组，它将闪电真正融入了你的自动化流程中。该模组添加了可作为 ME 网络存储资源的闪电，围绕过载水晶构建了材料进阶路线，并通过高级机器和高吞吐量的超载网络基础设施大幅扩展了 AE2 的功能。\n\n## 功能特性\n\n### 闪电系统\n收集自然闪电，生成人工闪电，并将闪电能量存储在你的 ME 网络中。闪电作为一种专用资源，供各类机器、合成配方以及后续的进度内容使用。\n\n### 过载材料\n体验基于过载水晶的全新材料进阶链，涵盖闪电转化、水晶生长、高级合金、处理器以及其他贯穿整个模组的关键组件。\n\n### 加工机器\n打造闪电驱动的生产线，包含用于物质转化、自动组装、水晶催化、天气控制以及高吞吐量并行处理的各种机器。\n\n### 超载 ME 网络\n使用专为大幅提升频道容量、支持更庞大的模板工作流、无线路由以及远程机器连接而设计的超载网络组件，全面升级你的 AE2 基础设施。\n\n## 依赖项\n\n- **必需：** Applied Energistics 2\n\n## 反馈\n\n欢迎在项目的 Issue 追踪页提交 Bug 报告与建议。报告问题时，请附上你的 Minecraft、NeoForge、AE2 以及 AE2 闪电科技的版本号。\n\n## 制作人员\n\n由 **MOAKIEE**、**CystrySU**、**gjmhmm8**、**_leng**、**TedXenon** 和 **MHanHanBing** 共同开发。\n\n特别感谢 Applied Energistics 2 团队。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

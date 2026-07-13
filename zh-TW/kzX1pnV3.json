@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb1153b1d4c24b12",
+  "content": "\n\n這是一個為 [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) 設計的擴充模組，主要改變惡地生物群系在世界中的外觀與生成方式。在較為乾燥的區域，惡地生物群系會像常規一樣生成，但其地形會隨著濕度增加而逐漸變得較為「正常」。分配給惡地的地形若處於較高濕度環境，將不再出現沙子或砂岩，取而代之的是草、泥土和岩石。兩種地形之間會緩慢過渡，當降雨量達到 115 時（即各佔 50% 權重），是兩者轉換的中間點。當區域足夠乾燥時，沙丘就會開始生成。觸發地形轉變為沙丘或常規惡地的閾值數值是可以設定的。\n\n搭配我其他的 TFC 擴充模組 [TFC Weather](https://modrinth.com/mod/tfc-weather)，可以實現更平滑的沙坡，因為該模組加入了分層的沙塊。這與低降雨量下的沙丘搭配效果極佳。此外，沙丘與分層沙塊也非常適合搭配 [TFC Barrens](https://modrinth.com/mod/tfc-barrens)，因為它會將整個世界徹底轉變為一片廣大的沙漠。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

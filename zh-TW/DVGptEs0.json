@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c3791b36ed2b93ae",
+  "content": "\n\n![wallets-title](https://i.ibb.co/gv31kdt/wallets-title.png)\n\n# Minecraft 1.16 - Forge 錢包模組\n\n## 模組說明\n\n這個 Forge 模組加入了一套簡單的硬幣系統，非常適合用於管理嚴格的伺服器。\n\n該系統的運作方式如下：提供幾種不同的硬幣物品（1 硬幣、5 硬幣、20 硬幣、50 硬幣、100 硬幣、500 硬幣），以及一個可用來存放所有硬幣的錢包物品。\n\n與錢包互動會開啟一個圖形介面（GUI），您可以在其中將硬幣或其他錢包轉移至已開啟的錢包中。在介面中，您可以提取各種硬幣，也可以提取設定的硬幣數量。如果覺得太多，您甚至可以直接取出一疊指定數量的硬幣，以便轉移給其他玩家或錢包。\n\n雖然錢包可以透過合成獲得，但硬幣只能透過指令取得。\n\n![](https://i.ibb.co/yygq6HR/wallets.png)\n![](https://i.ibb.co/87Mr6Bm/wallet.png)\n\n## 設定檔\n\n- 可以在 `serverconfig` 目錄下的 `wallets-server.toml` 檔案中，停用錢包畫面中的「硬幣堆疊」按鈕。\n\n## 人員\n\n- [Cheaterpaul](https://paube.de) 程式編寫\n- [1LiterZinalco](https://github.com/1LiterZinalco) 構想\n- *Random* 材質製作\n\n## 連結\n\n[Curseforge](https://www.curseforge.com/minecraft/mc-mods/wallets) 下載  \n[Github](https://github.com/Cheaterpaul/Wallets) 原始碼  \n[Github/Issues](https://github.com/Cheaterpaul/Wallets/Issues) 問題回報  \n[Crowdin](https://crowdin.com/project/walletsmc) 翻譯此模組\n\n\n## 授權條款\n\n本模組採用 [LGPLv3](LICENSE) 授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8377f5a0402c2212",
+  "content": "\n\n## 📖 說明\n### 本專案已封存，並由 [Nice Name Tags](https://modrinth.com/datapack/nice-name-tags) 取代，該專案讓您能更直觀地變更村民的種類。\n<br><br>\n使用 **Nice Villager Type Changer**，玩家可以透過給予村民列出的物品之一來變更其種類。種類會根據給予的物品而改變。預設情況下，給予物品有 20% 的機率成功變更種類（此數值可在設定選單中調整）。只有當村民沒有任何職業時，才能變更其種類。無論種類是否成功變更，該物品都會被消耗。\n\n<details>\n<summary>開啟設定選單的指令</summary>\n\n```\n/function villager_type_changer\n```\n\n</details>\n從 v2.0 版本開始，用於變更種類的物品可在設定選單中自行定義。\n\n**預設使用的物品**：\n- 枯死的灌木叢：沙漠\n- 叢林樹苗：叢林\n- 橡木樹苗：平原\n- 金合歡樹苗：熱帶草原\n- 雪：雪地\n- 紅樹樹苗：沼澤\n- 雲杉樹苗：針葉林\n\n## 📝 翻譯\n想要用母語遊玩嗎？您可以透過我們的 **[Crowdin Page](https://crowdin.com/project/explorers-eden)** 貢獻翻譯來幫助我們！一旦完成特定語言的翻譯，它將被新增至資料包中供您遊玩。\n\n## ✍️ 回饋、問題與建議\n我們隨時準備為您提供協助！如果您有任何問題、建議，或是遇到了錯誤，歡迎前往我們的 Discord 伺服器，在 **資料包專區** 尋求幫助。 [點擊加入伺服器](https://discord.gg/f2pMggfgVv)\n\n## 🎮 Explorer's Eden SMP\n加入 **[A Realm Recrafted](https://explorerseden.eu/)**，我們的 Minecraft SMP 伺服器！享受一個包含我們所有（持續維護）資料包以及部分獨家資料包的遊戲世界。伺服器完全免費，不含任何微交易。今天就來與我們一起建造、探索與製作吧！\n\n<a href=\"https://explorerseden.eu\"  target=\"_blank\"><img src=\"https://explorerseden.eu/images/ee_banner_new.png\" alt=\"Explorer's Eden\" style=\"width:100%;height:100%;\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

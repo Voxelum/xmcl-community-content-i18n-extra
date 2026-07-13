@@ -1,6 +1,6 @@
 {
-  "bodyHash": "zkl6IZCGMeY=",
-  "content": "# tconplanner\n\n匠魂藍圖是匠魂3的一個客戶端附加模組，讓玩家可以在藍圖介面中預覽組合完成的工具，並查看其屬性。這可以幫助避免出現你原本期望製作出強力工具，結果卻對成品感到失望的情況。\n\n安裝此模組後，在工匠站與工匠砧的GUI中會出現一個圖示。點擊它即可開啟規劃者UI。\n\n在這裡，你可以自由使用任何零件組合來設計工具（即使你手上沒有這些零件），並預覽最終產品的屬性。\n\n你可以將自己「打造」的設計圖加入書籤供日後參考，根據特定屬性（如挖掘速度與耐久度）對零件進行排序，甚至可以隨機組合材料來玩玩。\n\n1.18.2 1.16.5 forge 作者 \nhttps://modrinth.com/user/tiffit\nhttps://modrinth.com/mod/tinkers-planner\nhttps://www.curseforge.com/minecraft/mc-mods/tinkers-planner\nhttps://github.com/tiffit/tconplanner",
+  "bodyHash": "a9170a865a49ab41",
+  "content": "\n\n# tconplanner\n\nTinkers' Blueprint 是一款針對 Tinkers' Construct 3 的客戶端模組，允許玩家透過藍圖介面預覽組裝完成的工具，並查看其屬性數據。這能幫助你避免在打造工具時抱持過高期待，最後卻因成品不如預期而感到失望。\n\n安裝此模組後，鍛造台（Tinker Station）與鐵砧（Tinker's Anvil）的介面中會出現一個圖示。點擊該圖示即可開啟規劃器介面。\n\n在此介面中，你可以自由搭配任意零件組合來設計工具（即使你目前尚未擁有這些零件），並預覽最終成品的各項屬性。\n\n你可以將自己「打造」的工具設計加入書籤以便日後參考，也能依據特定屬性（例如挖掘速度與耐久度）對零件進行排序，甚至為了娛樂效果隨機組合材料。\n\n1.18.2 1.16.5 Forge 作者\nhttps://modrinth.com/user/tiffit\nhttps://modrinth.com/mod/tinkers-planner\nhttps://www.curseforge.com/minecraft/mc-mods/tinkers-planner\nhttps://github.com/tiffit/tconplanner",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

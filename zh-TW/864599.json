@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Z+ILMuUY8ZY=",
-  "content": "<p><img src=\"https://imgur.com/xnTQAch.png\" alt=\"標誌\"></p><h2>主要供我們模組使用的API，為特定功能提供一些工具。</h2><p><strong>需要 Architectury API！</strong></p><h3><strong>木頭 API</strong></h3><p>一個簡單輕量的木頭 API，用於幫助註冊船隻和告示牌</p><h3><strong>配方書</strong></h3><p>一款原版風格的配方書——僅需建立兩個 Java 類別即可完成。</p><h3><strong>條件式合成</strong></h3><p>適用於 Forge 和 Fabric 的簡單條件式合成</p><h3><strong>設定檔</strong></h3><p>一些輔助工具，用於建立帶有註解的設定檔</p><h3><strong>渲染 API</strong></h3><p>一些用於方塊和盔甲的渲染輔助工具。讓建立3D渲染的盔甲和其他物品變得更容易。</p><p><em><strong>您可以在</strong></em> <a href=\"https://github.com/Cristelknight999/DoAPI#readme\" rel=\"nofollow\">此處</a><em><strong>找到一些範例</strong></em></p>",
+  "bodyHash": "36fe5a7279391495",
+  "content": "\n\n<p><img src=\"https://imgur.com/xnTQAch.png\" alt=\"標誌\"></p>\n<h2>主要供我們模組使用的 API，提供特定功能的實用工具。</h2>\n<p><strong>需要 Architectury API！</strong></p>\n<h3><strong>木材 API</strong></h3>\n<p>一款輕便且輕量級的木材 API，有助於註冊船隻與告示牌。</p>\n<h3><strong>配方書</strong></h3>\n<p>原版風格的配方書 - 僅透過建立兩個 Java 類別即可完成。</p>\n<h3><strong>條件配方</strong></h3>\n<p>適用於 Forge 與 Fabric 的簡單條件配方。</p>\n<h3><strong>設定檔</strong></h3>\n<p>用於建立帶註解設定檔的一些輔助工具。</p>\n<h3><strong>渲染 API</strong></h3>\n<p>針對方塊與盔甲的渲染輔助工具。讓建立 3D 渲染盔甲及其他物品變得更加輕鬆。</p>\n<p><em><strong>你可以在此找到幾個範例</strong></em> <a href=\"https://github.com/Cristelknight999/DoAPI#readme\" rel=\"nofollow\">這裡</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

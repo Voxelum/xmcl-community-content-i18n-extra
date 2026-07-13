@@ -1,0 +1,6 @@
+{
+  "bodyHash": "208b8e4487ec7442",
+  "content": "\n\n# LookAtPlayer\nГолова игрока поворачивается в сторону ближайших игроков в режиме ожидания (AFK), аналогично плагину Citizens.<br>\n\nАвтоматически отключается при начале движения <br>\n\n\nВаша голова поворачивается, но поле зрения/перекрестие остается неизменным.\n<br>\n<br>\n\n**Настройка доступна через [Mod Menu](https://modrinth.com/mod/modmenu)**\n\n## Требования / Установка\n1. **Установите Fabric Loader**:\n   - Скачайте Fabric Loader с [веб-сайта Fabric](https://fabricmc.net/use/).\n   - Запустите установщик Fabric Loader и следуйте инструкциям на экране для установки вашей версии Minecraft.\n\n2. **Установите Fabric API и Cloth Config API**:\n   - Скачайте [Fabric API](https://modrinth.com/mod/fabric-api) и [Cloth Config API](https://modrinth.com/mod/cloth-config/versions?l=fabric)\n   - Поместите скачанные файлы JAR в папку `mods` вашего клиента Minecraft (расположена в директории `.minecraft`).\n\n## Демонстрация\n![demo](https://i.imgur.com/XgNuUEs.gif)\n![Demo1](https://i.imgur.com/fjReIb0.gif)\n![option](https://cdn.modrinth.com/data/cached_images/4ce3ae3854bcd999dcd8577630a8c98baf1a317c_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

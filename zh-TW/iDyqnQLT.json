@@ -1,6 +1,6 @@
 {
-  "bodyHash": "IOFRc50jEU0=",
-  "content": "# 此模組在降雨時為方塊添加動態音效。目前支援以下方塊的聲音：\n- 雨水打在玻璃上\n- 雨水打在水面上\n- 雨水打在岩漿／岩漿塊上\n- 雨水打在樹葉上\n- 雨水打在金屬方塊上\n- 雨水打在羊毛上\n\n自 1.4.0 版本起，此模組還新增了暴風雨時的風聲與環境雷聲。\n\n  <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/mS6cPI0qkjs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n**音效的音量會根據你與方塊的距離而改變，且音效也會根據你周圍的方塊而有所不同。**\n\n隨著 midnight lib 的引入，所有方塊現在都可以從任何不同的聲音中新增或移除。每個聲音的音量也可以透過模組選單配置進行調整！\n\n歡迎將此模組加入你的模組包！",
+  "bodyHash": "e0b9ddc43221ae9d",
+  "content": "\n\n# 此模組為方塊在下雨時加入動態音效。目前支援以下方塊的音效：\n- 玻璃上的雨聲\n- 水面上的雨聲\n- 熔岩／岩漿上的雨聲\n- 樹葉上的雨聲\n- 金屬方塊上的雨聲\n- 羊毛上的雨聲\n\n自 1.4.0 版本起，此模組也新增了額外的暴風雨風聲與環境雷聲。\n\n  <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/mS6cPI0qkjs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n**音量的大小會根據你與方塊的距離而改變，並且會根據你周圍的方塊類型而有所不同。**\n\n隨著 Midnight Lib 的引入，現在可以將所有方塊新增或移除至不同的音效中。每個音效的音量也可以透過模組選單設定進行調整！\n\n\n歡迎將此模組加入你的整合包中！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

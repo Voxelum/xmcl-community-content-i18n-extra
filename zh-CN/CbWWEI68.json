@@ -1,6 +1,6 @@
 {
-  "bodyHash": "nUbb3OxMNfw=",
-  "content": "# 创建大炮：外设拓展\n<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/nosqd/cbcperipheral/refs/heads/main/brand/icon.png\" alt=\"模组标志\" width=\"256\"/>\n</p>\n\n## 快速概述\n> 本模组为《创建大炮》模组添加了 CC: Tweaked 的外设支持。\n\n外设方法：\n- `assemble()` / `disassemble()` - 分别用于组装和拆卸大炮。\n- `fire()` - 开火；若大炮处于拆卸状态则会抛出错误。\n- `getYaw()` / `getPitch()` - 返回大炮的当前偏航角和俯仰角。\n- `getX()` / `getY()` / `getZ()` - 返回大炮安装座的方块坐标。\n- `isRunning()` - 返回大炮的组装状态。\n- `setYaw(yaw)` / `setPitch(pitch)` - 设置大炮角度；`cbc_fixed_cannon_mount`（固定炮座）不支持此功能。\n\n## API 文档\nAPI 文档详见：https://github.com/nosqd/cbcperipheral/wiki/Peripherals\n\n## 开发指南\n本模组仅使用 Gradle 进行构建，因此您可以直接在 IntelliJ IDEA 中打开并开始编写代码。\n\n## 贡献指南\n欢迎所有形式的贡献。本模组的代码及其所有资源均采用 MIT 许可证授权。\n\n## 开发历程\n本模组基于 VS: Addition 的代码开发，但目标是使其不依赖于特定物理引擎。",
+  "bodyHash": "5e4bfe135623d123",
+  "content": "\n\n# Create Big Cannons：外设\n<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/nosqd/cbcperipheral/refs/heads/main/brand/icon.png\" alt=\"Mod Logo\" width=\"256\"/>\n</p>\n\n## 快速了解\n> 本模组为《Create Big Cannons》添加了 CC: Tweaked 外设支持。\n\n外设方法：\n- `assemble()` / `disassemble()` - 分别用于组装和拆解火炮。\n- `fire()` - 发射火炮；若火炮未组装则抛出错误。\n- `getYaw()` / `getPitch()` - 返回火炮当前的偏航角与俯仰角。\n- `getX()` / `getY()` / `getZ()` - 返回火炮基座方块的位置坐标。\n- `isRunning()` - 返回火炮的组装状态。\n- `setYaw(yaw)` / `setPitch(pitch)` - 设置火炮角度；在 `cbc_fixed_cannon_mount` 上不可用。\n\n## API 文档\nAPI 文档详见此处：https://github.com/nosqd/cbcperipheral/wiki/Peripherals\n\n## 开发指南\n本模组仅使用 Gradle 进行构建，因此你可以直接在 IntelliJ IDEA 中打开项目并开始编写代码。\n\n## 贡献指南\n欢迎所有形式的贡献。本模组的源代码及所有资源均遵循 MIT 许可证。\n\n## 开发历史\n本模组基于 VS: Addition 的代码，但我的目标是使其不依赖特定物理引擎。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

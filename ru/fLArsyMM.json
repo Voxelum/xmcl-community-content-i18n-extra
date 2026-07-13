@@ -1,0 +1,6 @@
+{
+  "bodyHash": "485b495242edaca6",
+  "content": "\n\nЭтот мод предоставляет механизм проверки версий модов, аналогичный Forge. В настоящее время он лишь выводит статус в консоль.\n\nПоддерживает поля «homepage» и «promos.<mcversion>-latest».\n\nПодробнее об реализации смотрите на [https://github.com/Kotori316/automatic-potato/blob/main/README.md](https://github.com/Kotori316/automatic-potato/blob/main/README.md).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

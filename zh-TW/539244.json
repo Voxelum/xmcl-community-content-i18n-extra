@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a425f4011c64a00c",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/9PXWMXQ.png\" alt=\"標誌\"></p>\n<h1>實體視距</h1>\n<p>此模組允許您調整實體開始顯示的距離！\n它可在客戶端與伺服器上運作，且雙方皆非強制安裝（即原版客戶端／伺服器仍可正常連線）。\n若您想限制物品展示框、盔甲架及其他實體（包含模組新增的實體）的渲染距離，此模組非常適合。</p>\n<p>您可以在<code>影像設定</code>中的<code>實體距離設定</code>修改選項，或使用<code>/entityviewdistance</code>指令。</p>\n<p><em>此模組僅適用於搭配 Fabric API 或相容版本的 Fabric 載入器！</em></p>\n<p>如有任何問題，歡迎至我的 <a href=\"/linkout?remoteUrl=https%253a%252f%252fpb4.eu%252fdiscord\" rel=\"nofollow\">Discord</a></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fpb4.eu%252f\" rel=\"nofollow\">也歡迎查看我的其他模組與專案，相信會對您有所幫助！</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

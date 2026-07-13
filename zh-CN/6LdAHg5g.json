@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6df8906faf35945a",
+  "content": "\n\n# 简易末影背包\n\n本模组添加了一个末影背包，可作为便携末影箱使用。合成时需将末影箱置于中央并用皮革包围。你可以通过右键使用它来打开背包，或将其放置在物品栏任意位置并按下 B 键（默认按键，可自定义）来打开。如果安装了 [Accessories](https://modrinth.com/mod/accessories)，该背包还可装备至背部栏位。\n\nFabric 版本需要 [Fabric API](https://modrinth.com/mod/fabric-api)。\n\nNeoForge 版本无依赖项。\n\n![配方](https://cdn.modrinth.com/data/cached_images/fe9635334f39daff819853d83aa59daf7b9f3bc9.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

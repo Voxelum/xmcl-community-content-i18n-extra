@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a5601fd8c4214a14",
+  "content": "\n\nRectPick позволяет выделять предметы в прямоугольной области инвентаря и переносить их в другой инвентарь.\n\nДемонстрация работы:<br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/4ejO-utgtz8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**Требования**<br>\nNeoForge 1.21.1\n\n**Установка**<br>\n1. Установите NeoForge 1.21.1\n2. Поместите файл мода (.jar) в папку mods.\n\n**Настройка**<br>\nПо умолчанию клавиша выделения/переноса — C, но её можно изменить через привязки клавиш.\n\n**Исходный код**<br>\nhttps://github.com/Pepton-0/RectPick",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac42fc4cb44dc3ac",
+  "content": "\n\n本模组添加了通用机械（Mekanism）与模块化路由器之间的兼容功能。\n\n目前，这包括通过“气体升级”以及“气体 Mk1”和“气体 Mk2”模块实现的气体（化学品）传输。它们的工作方式类似于内置的流体模块，只不过……传输的是气体。\n\n要使气体传输正常工作，路由器的缓存中必须包含能够存储气体的物品（例如：气体罐）。注意：默认情况下，您无法使用气体模块传输放射性气体。即使您在配置文件中更改了此设置，也请记住，气体罐及其他内置的通用机械物品气体容器无法储存放射性物质，因此不能将它们用作缓存。\n\n**气体补给模块**：将路由器缓存中的气体传输至玩家背包（盔甲栏、主手或副手）。可用于无线且跨维度地为喷气背包或水壶补充气体。\n\n![气体罐作为缓存](https://cdn.modrinth.com/data/cached_images/861dbfb02783cad7569a02fe384eb0f26f8f5b22.png)\n![配置界面](https://cdn.modrinth.com/data/cached_images/e2fc6c58b03b4549a2b211dad4cf211096a84e14.png)\n![传输方向](https://cdn.modrinth.com/data/cached_images/ef2acdc072579d9f2cb3145b9fb31101fc6b858f.png)\n![模组物品](https://cdn.modrinth.com/data/cached_images/f81f753610c32ab6a81c2565105a7bdfa35750ed.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

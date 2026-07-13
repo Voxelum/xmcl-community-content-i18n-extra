@@ -1,0 +1,6 @@
+{
+  "bodyHash": "37fc827662a3bb46",
+  "content": "\n\n本模组旨在让你显示与敌方玩家/生物之间的距离，并查看你的攻击实际命中的距离。这是一项非常有用的信息，能帮助你控制连击范围并调整视角，从而优化攻击距离。所有显示细节——包括文本大小、颜色、位置、阴影和小数位数——均可自定义。\n\n该模组提供三种不同的显示模式：\n- **距离**\n  \n  显示从你的眼睛到敌方命中框的距离\n- **命中距离**\n  \n  显示你上一次攻击命中的距离\n- **平均命中距离**\n  \n  显示最近 X 次攻击或当前游戏会话内命中距离的平均值\n\n_Please note, this mod and some of the code was originally written by Wolren. I maintain and update a separate (1.21.5+) fork. For older versions, his work is published here [https://modrinth.com/mod/reach-display](https://modrinth.com/mod/reach-display)_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

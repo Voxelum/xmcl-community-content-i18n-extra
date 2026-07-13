@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6bf40ececc0ba6d1",
+  "content": "\n\n<p>Этот мод добавляет несколько новых ячеек хранения для Applied Energistics 2.\nВ настоящее время поддерживает предметы, жидкости и химикаты (после установки <a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics\" target=\"_blank\" rel=\"nofollow\">Applied Mekanistics</a>).\nОбладает бесконечной вместимостью и неограниченным количеством типов. \nПринцип использования полностью аналогичен ячейкам хранения Applied Energistics 2.\nНе беспокойтесь о проблеме больших NBT-данных; используется внешний метод хранения, похожий на AE2 Things.</p>\n<p>Учитывая влияние на производительность, максимальное количество для одного типа составляет Long_MAX (2^63-1).\nРазумеется, вряд ли вам понадобится хранить столько. Если же это действительно необходимо, можно попробовать <a href=\"https://www.curseforge.com/minecraft/mc-mods/bigger-ae2\" target=\"_blank\" rel=\"nofollow\">Bigger AE2</a>.</p>\n<p>Часть кода основана на <a href=\"https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge\" target=\"_blank\" rel=\"nofollow\">AE2 Things</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

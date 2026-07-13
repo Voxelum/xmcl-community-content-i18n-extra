@@ -1,6 +1,6 @@
 {
-  "bodyHash": "pwupoVenDvI=",
-  "content": "<h2>О</h2><p><strong>NBT Автозаполнение</strong> — это мод для клиентской части, добавляющий подсказки для тегов NBT в командах.</p><p>При вводе тега NBT для сущности, блока или предмета отображается список доступных тегов и их типов.</p><h2>Примеры</h2><p><img src=\"https://media.forgecdn.net/attachments/609/76/example1.png\" alt=\"\"></p><p><img src=\"https://media.forgecdn.net/attachments/609/77/example2.png\" alt=\"\"></p><p><img src=\"https://media.forgecdn.net/attachments/609/78/example3.png\" alt=\"\"></p><p><img src=\"https://media.forgecdn.net/attachments/609/79/example4.png\" alt=\"\"></p>",
+  "bodyHash": "65cbae919e05c60b",
+  "content": "\n\n<h2>Описание</h2>\n<p><strong>NBT Autocomplete</strong> — это мод на стороне клиента, добавляющий подсказки для NBT-тегов в командах.</p>\n<p>При вводе NBT-тега сущности, блока или предмета он показывает список доступных тегов и их типов.</p>\n<h2>Примеры</h2>\n<p><img src=\"https://media.forgecdn.net/attachments/609/76/example1.png\" alt=\"\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/609/77/example2.png\" alt=\"\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/609/78/example3.png\" alt=\"\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/609/79/example4.png\" alt=\"\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

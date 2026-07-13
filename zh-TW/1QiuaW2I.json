@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WzFlZO53Zzg=",
-  "content": "<img src=\"https://github.com/Jan-Marvin/simple-auto-fishing/blob/fabric-latest/src/main/resources/assets/simpleautofishing/icon.png?raw=true\" align=\"right\" width=\"15%\" />\n\n# [Simple-Auto-Fishing](https://github.com/Jan-Marvin/simple-auto-fishing)\n\n一款用於自動釣魚的Minecraft模組\n\n## 操作方式：\n```\n切換模式：   潛行 + 攻擊（主手需裝備釣竿）\n```\n\n從Minecraft 1.21.11開始：\n```\n調整拋竿延遲：   /saf set <延遲> （預設17）\n```\n從Minecraft 26.1.2開始：\n```\n開關模組：   /saf toggle （預設啟用）\n```\n從Minecraft 26.2開始：\n```\n圖形介面：   U鍵（預設）\n```\n## 模式：\n```\n模式1（預設）\n使用目前釣竿，無防耐久損壞保護\n\n模式2\n使用目前釣竿，附帶防耐久損壞保護\n\n模式3\n使用快捷欄中所有釣竿，無防耐久損壞保護\n```\n從Minecraft 26.1.2開始：\n```\n模式4\n使用快捷欄中所有釣竿，附帶防耐久損壞保護\n```",
+  "bodyHash": "de173f4eed8a7d0f",
+  "content": "\n\n<img src=\"https://github.com/Jan-Marvin/simple-auto-fishing/blob/fabric-latest/src/main/resources/assets/simpleautofishing/icon.png?raw=true\" align=\"right\" width=\"15%\" />\n\n# [Simple-Auto-Fishing](https://github.com/Jan-Marvin/simple-auto-fishing)\n\n\n\n一款用於自動釣魚的 Minecraft 模組\n\n## 操作說明：\n```\n切換模式：   潛行 + 攻擊（主手裝備釣竿時）\n```\n\n自 Minecraft 1.21.11 起：\n```\n調整拋竿延遲：   /saf set <delay>（預設值為 17）\n```\n自 Minecraft 26.1.2 起：\n```\n開啟/關閉模組：   /saf toggle（預設為開啟）\n```\n自 Minecraft 26.2 起：\n```\n圖形介面：   U（預設）\n```\n## 模式：\n```\n模式 1（預設）\n使用當前釣竿，無防斷裂保護\n\n模式 2\n使用當前釣竿，具備防斷裂保護\n\n模式 3\n使用快捷列中的所有釣竿，無防斷裂保護 \n```\n自 Minecraft 26.1.2 起：\n```\n模式 4\n使用快捷列中的所有釣竿，具備防斷裂保護\n```",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

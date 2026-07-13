@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aaf468172114a693",
+  "content": "\n\n## 简介\n\n**DLC Manager 是一款面向整合包的游戏内 DLC 管理模组。它允许玩家直接从游戏界面启用或禁用可选内容（包括模组、资源包、数据包、TACZ 枪械包等），并在需要时引导玩家重启游戏或重载资源。**\n\n***\n\n## ✅ 功能特性\n\n*   **游戏内 DLC 管理界面**\n*   **集中启用/禁用 DLC**\n*   **分组列表视图**\n*   **智能应用模式选择**\n*   模组/TACZ 更改 → **需重启游戏**\n*   非模组更改 → **需重载资源**\n*   **自动提示系统**  \n    将 JSON 文件放入 `DLC/info` 目录即可为各 DLC 显示独立提示（支持多语言）。\n\n***\n\n## ⚙ 可配置路径\n\n除非使用绝对路径，否则所有路径均**相对于整合包根目录**。  \n所有配置项均支持使用逗号分隔填写**多个路径**。\n\n*   **DLC 根目录** (`DLC`)\n*   **TACZ DLC 目录** (`tacz`)\n*   **资源包目录** (`resourcepacks`)\n*   **数据包目录** (`datapacks`)\n*   **其他 DLC 启用目录** (`dlc_other`)\n\n***\n\n## 📁 DLC 文件夹结构\n\n```\n<整合包根目录>\n└─ DLC/\n   ├─ example_mod.jar\n   ├─ resource_pack.zip\n   ├─ datapack.zip\n   ├─ tacz/                 (TACZ DLC 目录)\n   ├─ remote/          \n   ├─ required/ \n   └─ info/                 (提示文本 JSON 文件)\n```\n\n***\n\n## 💬 维基文档\n\n[Wiki 文档](https://moddedmc.wiki/en/project/dlc-manager/latest/docs)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

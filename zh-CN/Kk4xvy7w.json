@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4615c3244f2c3cc1",
+  "content": "\n\n# Modern Industrialization 音效扩展包\n\n本模组是一个为 Modern Industrialization 中的所有单块机和多方块机添加音效的扩展包。它还为使用扳手添加了相应的音效！此模组必须在客户端和服务端同时安装才能生效。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/skFM2xJ35kw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n \n模组还附带了一把钢锤，右键点击机器即可静音或取消静音。以下是它的合成表：\n\n![mallet recipe](https://i.imgur.com/zheklp5.png)\n \n## 前置要求\n\nModern Industrialization >= 1.6.14（及其所有依赖模组）\n\n我计划在未来将其移植到 MI 的 1.20 分支版本。\n\n \n## 可选模组\n\nKubeJS >= 1902.6.1-build.300\n\n \n## 致整合包作者\n\n如果您通过 KubeJS 兼容性为 MI 添加了自定义机器，您可以按照[此指南](https://github.com/TheStaticVoid/MI-Sound-Addon/wiki/Adding-sounds)轻松为其添加音效。\n\n## 问题反馈\n如果您在使用本模组时遇到任何问题，或有任何疑问，请加入 [StaTech Industry discord](https://discord.gg/RDaJEnN3uS) 并在其中提问。\n\n \n## 鸣谢与许可证声明\n\n本模组的大部分音效来源于 [GregTech CEu Modern Project](https://github.com/GregTechCEu/GregTech-Modern)。该项目的音效采用知识共享（Creative Commons）许可证授权。完整的许可证免责声明请参阅 [README](https://github.com/TheStaticVoid/MI-Sound-Addon/blob/master/README.md)。\n\n \n\n本模组与 Modern Industrialization 模组及其开发团队无关。如有问题，请勿直接联系他们。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "601225837677583a",
+  "content": "\n\n<h1>SchrumboHUD</h1>\n<p>SchrumboHUD 是一款高度可自訂的 Minecraft 模組，可於螢幕上永久顯示玩家的物品欄與/或盔甲。</p>\n<h2>模組功能</h2>\n<ul>\n<li><strong>物品欄 HUD</strong></li>\n<li><strong>盔甲 HUD</strong></li>\n<li><strong>偷窺模式</strong> - 按住快捷鍵暫時顯示 HUD</li>\n</ul>\n<p>您可以使用其中一種顏色預設，也可以自行調整顏色。</p>\n<h2>快捷鍵</h2>\n<table>\n<thead>\n<tr>\n<th>動作</th>\n<th>預設按鍵</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>開啟設定</td>\n<td>右 Shift</td>\n</tr>\n<tr>\n<td>切換始終顯示</td>\n<td>L</td>\n</tr>\n<tr>\n<td>偷窺 HUD</td>\n<td>未綁定</td>\n</tr>\n</tbody>\n</table>\n<p>您也可以使用 <code>/shud</code> 來開啟設定。</p>\n<p>歡迎提出建議，請在 Discord 上私訊我 (schrumboo)。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

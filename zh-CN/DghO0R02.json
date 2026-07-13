@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb308fcd37a0dcb3",
+  "content": "\n\n![Connected Glass](https://imgur.com/9HhMKLg.png)  \n\n**连接玻璃** 添加了具有**连接纹理**的新玻璃类型！其中包括**普通、透明和旧版玻璃**纹理！\n\n---\n\n### 内容：\n\n#### 连接玻璃\n- 普通玻璃纹理，但相邻方块会自动连接！  \n\n![Connecting Glass](https://imgur.com/YUeq5yG.png)\n\n#### 透明玻璃\n- 普通玻璃纹理的透明版本！  \n\n![Clear Glass](https://imgur.com/tBFyFOW.png)\n\n#### 划痕玻璃\n- 经典的开发期素材风格旧版玻璃纹理！  \n\n![Scratched Glass](https://imgur.com/SPgoOZY.png)\n\n#### 着色玻璃\n- 着色玻璃纹理的连接与染色版本！\n- 着色玻璃可以阻挡光线通过！\n\n![Tinted Glass](https://imgur.com/QQGBn4Q.png)\n\n---\n\n### 常见问题\n**如果我也想要原版纹理怎么办？**  \n连接玻璃不会替换原版玻璃方块，而是额外添加新的方块  \n**有对应的玻璃板吗？**  \n是的，每种新玻璃类型都有对应的玻璃板  \n**新玻璃类型有染色版本吗？**  \n是的，每种玻璃类型都包含所有染色版本  \n**我可以在整合包中使用你的模组吗？**  \n当然可以，欢迎在你的整合包中使用我的模组  \n**为什么连接玻璃与 Sodium 不兼容？**  \n如果你使用的是 0.6 版本之前的 Sodium，还需要安装 [Indium](https://modrinth.com/mod/indium)。Sodium 使用自定义渲染器替换了原版渲染，这会忽略 Fabric 渲染 API。Indium 为 Sodium 打上了补丁以支持 Fabric 渲染 API。\n\n---\n\n### Discord\n如需了解后续内容、即将推出的模组以及参与讨论，欢迎加入 SuperMartijn642 的 Discord 服务器！  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

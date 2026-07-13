@@ -1,0 +1,6 @@
+{
+  "bodyHash": "49480f24d94d9808",
+  "content": "\n\n<h1>终端查看单元格修复</h1>\n<p>在原版 Applied Energistics 2 (AE2) 1.21.1 中，某些错误操作可能导致终端无法直接显示查看单元格槽位。本模组已解决并修复了该问题。</p>\n<h2>Q&amp;A</h2>\n<p>问：为什么放置在左侧？</p>\n<p>答：为避免与 AE 无线终端的升级槽冲突。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

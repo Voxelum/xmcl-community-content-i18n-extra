@@ -1,0 +1,6 @@
+{
+  "bodyHash": "193e4f5e6b7d6d53",
+  "content": "\n\n<p>Мод совместимости для <a href=\"https://www.curseforge.com/minecraft/mc-mods/vics-point-blank\" target=\"_blank\" rel=\"nofollow\">Vic's Point Blank</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/puffish-attributes\" target=\"_blank\" rel=\"nofollow\">Pufferfish Attributes</a>. <br>Он добавляет новый тип урона и заставляет оружие Point Blank использовать его, чтобы Pufferfish мог определять этот урон как дальний.</p>\n<p>Это позволяет добавлять игрокам или элементам брони сопротивление к урону на расстоянии, при этом снижение урона будет применяться корректно (базовый тип урона Point Blank не является снарядом). Кроме того, это даёт возможность добавить самому оружию пробивание брони и зачарований защиты.</p>\n<p>Побочным эффектом этого мода является то, что урон от оружия Point Blank теперь снижается защитой от снарядов.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

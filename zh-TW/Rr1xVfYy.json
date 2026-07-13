@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c470a18254c85366",
+  "content": "\n\n允許玩家持續進食並將多餘的飽和度儲存起來。將溢出的飢餓值轉換為飽和度。計算公式為：溢出飢餓值 × k。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

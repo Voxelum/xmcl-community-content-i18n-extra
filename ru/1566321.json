@@ -1,6 +1,6 @@
 {
-  "bodyHash": "E6U90LfHgWQ=",
-  "content": "<p>Неофициальный автономный порт NeoForge 1.21.1 блоков и данных «Вентиляторного катализатора» из мода Create: Connected.</p><p>Оригинальный проект: Create: Connected от Lysine<br><a href=\"https://www.curseforge.com/minecraft/mc-mods/create-connected\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/create-connected</a><br>Исходный код: <a href=\"https://github.com/hlysine/create_connected\" target=\"_blank\" rel=\"nofollow\">https://github.com/hlysine/create_connected</a></p><p>Этот порт включает только часть, связанную с вентиляторным катализатором, и сохраняет оригинальные ID из Create: Connected для обеспечения совместимости. Производный код и данные лицензируются по AGPL-3.0 или более поздней версии, соответствующей лицензии Create: Connected.</p>",
+  "bodyHash": "33c64b9dd68d44d4",
+  "content": "\n\n<p>Неофициальный автономный порт блоков и данных Fan Catalyst из мода Create: Connected для NeoForge 1.21.1.</p>\n<p>Оригинальный проект: Create: Connected от Lysine<br><a href=\"https://www.curseforge.com/minecraft/mc-mods/create-connected\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/create-connected</a><br>Исходный код: <a href=\"https://github.com/hlysine/create_connected\" target=\"_blank\" rel=\"nofollow\">https://github.com/hlysine/create_connected</a></p>\n<p>Данный порт включает только функционал Fan Catalyst и сохраняет оригинальные ID create_connected для совместимости. Производный код и данные лицензированы по лицензии AGPL-3.0-or-later, в соответствии с Create: Connected.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2e786ac3047ac762",
+  "content": "\n\n<h1>⚠️ 系統報告：BUILD_945.LOG</h1>\n<p><strong>警告：</strong>此檔案來自未公開且已損壞的開發存檔。它並非 Mojang 的官方發行版本。仔細檢查原始碼後發現，核心引擎機制、世界穩定性以及本地介面渲染均存在嚴重異常。</p>\n<p>請謹慎操作。一旦整合至您的用戶端，核心模組將無法輕易解除連結。</p>\n<h3>## 偵測到系統異常</h3>\n<ul>\n<li>\n<p><strong>不速之客（「暗影」）：</strong>初期報告指出，在運行恰好一分鐘後，一個名義為「暗影」的未註冊實體會繞過標準網路協定，強行插入玩家列表。它透過加密、極具個人色彩且高度反應性的聊天記錄進行溝通。</p>\n</li>\n<li>\n<p><strong>聲學與心理扭曲：</strong>本地音訊引擎會發生突發性的局部故障&mdash;觸發環境驚悚音效，並在目標正後方傳來急促且不規律的呼吸聲。</p>\n</li>\n<li>\n<p><strong>凝視事件：</strong>隨機間歇性地，世界理智值會降至 0%。半徑 200 格範圍內的所有生物會突然停止 AI 尋路，完全無視威脅來源，並將視線死死鎖定在玩家身上。</p>\n</li>\n<li>\n<p><strong>地下層 666（噩夢維度）：</strong>強制玩家角色入睡有 30% 的機率引發完全的空間位移。目標將在一片漆黑、宛如虛空的鏡像維度中甦醒。逃脫協議受到嚴格限制且設有時間鎖。</p>\n</li>\n<li>\n<p><strong>介面劫持與敵對行為：</strong>系統會主動監控使用者行為。試圖淹沒或破壞通訊協定將導致介面立即鎖定、畫面故障疊加、局部閃電打擊，以及完全切斷用戶端連線。</p>\n</li>\n</ul>\n<h3>### 技術規格</h3>\n<ul>\n<li>\n<p><strong>運行環境：</strong>Forge 模組載入器 (FML)</p>\n</li>\n<li>\n<p><strong>檔案簽章：</strong>945.jar / 0.945-SNAPSHOT</p>\n</li>\n<li>\n<p><strong>設定：</strong>完全採用客戶端-伺服器同步機制。內建自訂渲染畫面（<code>ShadowWarningScreen</code>、<code>ShadowHackScreen</code>、<code>ShadowThreatScreen</code>），可繞過標準介面的退出輸入指令。</p>\n</li>\n</ul>\n<blockquote>\n<p><em>「這個世界已經無藥可救。如果你聽見她的低語，就順從吧。」</em></p>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33132ec4d25e7535",
+  "content": "\n\n用於擴充 Applied Energistics 2 終端機的函式庫。\n\nMyotus 開放了一個輕量的公開 API，可用於可選整合、終端設定分頁以及基於物品的終端升級卡。\n\n\n\n該函式庫目前專注於以下四個面向：\n\n- 透過標記註解註冊可選整合\n- 註冊自訂終端設定分頁\n- 執行階段檢查哪些整合處於啟用狀態\n- 具備生命週期回呼的基於物品的終端升級卡",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

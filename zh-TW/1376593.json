@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aa7e031997e3335f",
+  "content": "\n\n<h2>索求越多，所得越少。</h2>\n<h1>ME: Xposed – 將你的 AE2 網路公開給其他模組</h1>\n<p>說明：\nME: Xposed 允許其他模組（例如 Refined Storage 或任何與物品及流體處理器互動的模組）透過控制器存取並操作你的 AE2 網路內容。儲存於你的 ME 系統中的物品與流體，現在可供外部自動化設備、管線與機器使用，同時完全遵循 AE2 的儲存機制。</p>\n<p>注意！&nbsp;\n此模組並非旨在使原有介面功能失效，而是提供你直接搭配 AE2 儲存空間使用其他<code>更友善的</code>終端機、製造台等。&nbsp;\n為此目的，我們新增了一個<code>readOnly</code>設定，預設值為<code>true</code>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

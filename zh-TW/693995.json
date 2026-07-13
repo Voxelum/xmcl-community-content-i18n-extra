@@ -1,0 +1,6 @@
+{
+  "bodyHash": "30400f6440d41965",
+  "content": "<p><strong>英文</strong> | <a href=\"https://github.com/xiaocihua/stack-to-nearby-chests/blob/master/README-zh_CN.md\" target=\"_blank\" rel=\"nofollow\">简体中文</a></p>\n<p>僅限客戶端的模組，將泰拉瑞亞中的快速整理和補貨功能加入 Minecraft。</p>\n<p>遍歷所有鄰近容器的程式碼來自 <a href=\"https://github.com/Earthcomputer/clientcommands\" target=\"_blank\" rel=\"nofollow\">clientcommands</a> 模組。</p>\n<p><strong>需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></strong></p>\n<h2>功能</h2>\n<p><strong>按左 Ctrl + S + C 開啟模組設定畫面，並配置模組的外觀、行為和快捷鍵。</strong></p>\n<p><strong>快速整理</strong>：如果容器內至少有一個該物品，則將玩家背包中相同的物品移動到容器中。</p>\n<p><strong>補貨</strong>：使用容器中的物品將玩家背包中的可堆疊物品補充至滿堆。</p>\n<p>在容器畫面中使用按鈕或快捷鍵執行上述兩個動作。不會被整理或補貨的物品可以在模組設定中指定（預設：潛影盒物品、束口袋物品）。</p>\n<p><strong>快速整理至鄰近容器</strong>：對玩家範圍內所有可開啟的容器執行快速整理。</p>\n<p><strong>從鄰近容器補貨</strong>：從玩家範圍內所有可開啟的容器中補貨可堆疊物品。</p>\n<p>在玩家背包畫面中使用按鈕或快捷鍵，或在未開啟任何畫面時使用快捷鍵，對鄰近容器執行快速整理或補貨。作為整理目標和補貨來源的容器可以在模組設定中指定（預設：箱子、陷阱箱、木桶、潛影盒、終界箱、帶箱子的船、帶箱子的礦車、驢子、騾子、駱馬）。</p>\n<p><strong>選擇性快速整理</strong>：使用快捷鍵或將物品拖曳到「快速整理至鄰近容器」按鈕上，僅將玩家背包中的特定類型物品快速整理到鄰近容器中。</p>\n<p><strong>收藏物品</strong>：按住左 Alt 並右擊物品以將其加入收藏。收藏的物品無法進行快速整理，但其他方面表現如常物品。在模組設定中可以分別為收藏物品禁用丟擲（Q 鍵）、拾取、快速移動和交換等操作。當收藏物品從玩家背包中移除時，其收藏狀態也會取消。此功能在創造模式中不可用，切換到創造模式會清除所有物品的收藏狀態。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "215781db98c7f418",
+  "content": "# SmoothBreak \n![在使用 SmoothBreak 时，切换工具仍可继续破坏方块](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9kbTk5cXc2ZnVmZW8xajNmam9qYzRmODFpbWw1MzlkMG5kazh4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vkw9jRakN0uTCguhcd/giphy.gif)\n\nSmoothBreak 恢复了 Minecraft 1.7 中的方块破坏行为：在挖掘过程中切换工具**不会**重置方块的破坏进度。\n\n在现代版本中，当你使用一种工具挖掘方块并切换到另一种工具时，破坏进度会重置。此模组可防止这种情况发生——允许你**在镐子（或类似工具）之间滚动切换**，而不会丢失任何破坏进度。\n\n## 是否会更新到更高版本或其他加载器？\n\n如果许多用户提出请求，我一定会进行更新！\n请通过我的网站联系我：\nhttps://javivi.dev\n\n## 考虑捐赠 ☕\n\nhttps://ko-fi.com/javividev",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

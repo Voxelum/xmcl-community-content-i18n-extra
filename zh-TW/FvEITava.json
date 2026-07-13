@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc3b6e89a05160a0",
+  "content": "\n\n# 實體選擇器工具\n\n用於在 Minecraft 中查看與建立實體範圍選擇器的工具（例如 `@e[dx=3,dy=5,dz=2]`）。\n\n## 功能特色\n\n- 客戶端偵測由指令方塊與指令方塊礦車建立的範圍。\n- 伺服器端整合，用於預覽由資料包函數建立的範圍。\n- 豐富的設定選項（請參閱圖庫）。\n- 可搭配您指定的權杖工具，或作為 Axiom 建造工具來建立矩形體積。\n\n## 支援版本\n\n目前支援的版本為：**26.2**、**26.1.x** 與 **1.21.11-10**。目前僅提供 Fabric 版本。\n歡迎提出任何版本建議。\n\n## 依賴項目\n\n- 需要安裝 [Fabric API](https://modrinth.com/project/P7dR8mSH)。\n- 客戶端需安裝 [YetAnotherConfigLib](https://modrinth.com/project/1eAoo2KR)。\n\n## 授權條款\n\n本模組的所有檔案均採用 [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html) 授權，*惟*\n`src/main/resources/assets/entityselectortools/icon.png`/`.idea/icon.png` 除外，該圖檔保留所有權利。\n\n若您分發此專案的修改版本，必須移除或替換該圖檔為您的自有圖檔。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

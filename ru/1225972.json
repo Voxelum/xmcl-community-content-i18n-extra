@@ -1,6 +1,6 @@
 {
-  "bodyHash": "TErdxFPY/K4=",
-  "content": "<h2>Описание</h2><p>Этот датапак/мод отображает координаты сразу после смерти на экране, чтобы игрок мог найти украденные предметы или место. Если вам нужны координаты в чате, вы можете использовать эту команду:</p><pre><code>/trigger bizcub.death_coords.trigger1</code></pre><p>Принцип работы показан на видео</p><p><img src=\"https://i.postimg.cc/Kvh5fKDD/2025-01-10-15-32-00.gif\" alt=\"превью\"></p><h2>Зависимости</h2><ul>\n<li>Для загрузчика Fabric требуется <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
+  "bodyHash": "721e74bcf7464835",
+  "content": "\n\n<h2>Описание</h2>\n<p>Этот датапак/мод отображает координаты сразу после смерти на экране, чтобы игрок мог найти украденные предметы или место. Если вам нужны координаты в чате, вы можете использовать эту команду:</p>\n<pre><code>/trigger bizcub.death_coords.trigger1</code></pre>\n<p>Принцип работы показан в видео</p>\n<p><img src=\"https://i.postimg.cc/Kvh5fKDD/2025-01-10-15-32-00.gif\" alt=\"предпросмотр\"></p>\n<h2>Зависимости</h2>\n<ul>\n<li>Загрузчик Fabric требует <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

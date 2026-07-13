@@ -1,0 +1,6 @@
+{
+  "bodyHash": "89131333042c6d76",
+  "content": "\n\n<p>Epic Fight 技能書合成台</p>\n<p>**受夠了為了撿到想要的技能書而花數小時刷怪了嗎？**</p>\n<p>此 [Epic Fight](<a href=\"https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod</a>) 模組新增了**技能書合成台** &mdash; 一種全新工作站，讓你能夠使用依技能類別區分的素材，合成任何你選擇的 Epic Fight 技能書。</p>\n<p>&nbsp;功能特色</p>\n<p>&nbsp;技能書合成台<br>一款可合成的工作站，擁有自訂 3D 模型。將書放入其中時，合成台上會顯示該書的視覺效果 &mdash; 取出後便會消失。放置時，合成台也會自動朝向玩家。</p>\n<p>**合成配方：** 上排 3 本書 / 中排 鐵錠 + 工作台 + 鐵錠 / 下排 3 塊木板。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_743e2a55-c89b-44fd-8ea9-d8401f756e1e.png\"> &nbsp; &nbsp;</p>\n<p>選擇精確的技能<br>打開合成台介面，你會看到五個分類標籤：</p>\n<p>- **閃避**（滾翻、踏步...）<br>- **防禦**（格擋、衝擊防禦...）<br>- **被動**（狂戰士、劍術大師...）<br>- **機動**<br>- **身份**</p>\n<p>選擇分類並點擊你想要的技能，所需素材會**自動從你的物品欄中提取**。從結果欄位取出技能書即可 &mdash; 完成。這是一本正版的 Epic Fight 技能書，只需右鍵點擊即可學習技能。</p>\n<p>其他 Epic Fight 模組新增的技能也會自動顯示！</p>\n<p>### 各分類使用不同素材<br>每個分類都需要一本書加上專屬素材（預設值）：</p>\n<p>| 分類 | 素材 |<br>|---|---|<br>| 閃避 | 8 羽毛 + 2 綠寶石 |<br>| 防禦 | 8 鐵錠 + 1 盾牌 |<br>| 被動 | 16 青金石 + 1 鑽石 |<br>| 機動 | 2 兔腳 + 4 綠寶石 |<br>| 身份 | 4 鑽石 + 8 經驗瓶 |</p>\n<p>完全可自訂<br>所有素材（物品與數量）均可在 `config/epicfight_skillbook_table/materials.json` 中進行修改。非常適合希望擁有獨特進度系統的整合包開發者與伺服器管理員。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

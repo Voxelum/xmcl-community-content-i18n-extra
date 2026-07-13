@@ -1,0 +1,6 @@
+{
+  "bodyHash": "012b72f3f9a2bc56",
+  "content": "\n\n# tpshud-fabric\n一款完全可自訂的 Fabric 模組，能在**無需於伺服器端安裝任何東西**的情況下顯示伺服器 TPS。\n![環境](https://img.shields.io/badge/environment-Client%20&%20Server-1976d2?style=flat-square)\n![模組載入器](https://img.shields.io/badge/modloader-Fabric,%20Quilt%20&%20Paper-1976d2?style=flat-square)\n![圖片](https://i.imgur.com/rgFLhlA.png)\n## 相依模組\n* [fabric-api](https://modrinth.com/mod/fabric-api)\n* [fabric-language-kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n* [YetAnotherConfigLib](https://modrinth.com/mod/yacl)（選用）\n* [Mod Menu](https://modrinth.com/mod/modmenu)（選用）\n# 伺服器端注意事項\n伺服器端的插件／模組完全是選填的，本模組可在完全不需要伺服器端模組的情況下運作。\n此 JAR 檔適用於以下平台：\n- Fabric\n- Quilt\n- Paper（以及 Bukkit、Spigot、Purpur 等...）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

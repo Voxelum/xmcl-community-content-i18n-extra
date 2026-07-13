@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5336d328522b32ea",
+  "content": "\n\n本模组基于 [WingsModCosmetic](https://www.curseforge.com/minecraft/mc-mods/wingsmod) 开发，并在其原始版本上进行了一些修改。已移除颜色调整功能与相关介面。\n\n此模组会在玩家背部加入末影龙的预设翅膀贴图。开发者于原始码中预留了扩展功能，代表您只需依照原始模板绘制翅膀贴图，并在对应类型中填入贴图路径与 ID，即可生成对应的翅膀。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

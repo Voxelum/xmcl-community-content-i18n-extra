@@ -1,0 +1,6 @@
+{
+  "bodyHash": "619fcfa9d3fbbe71",
+  "content": "\n\n# Интерфейс брони от sheeta\n![hotbar](https://cdn.modrinth.com/data/cached_images/dae0917dc7570315f6bce4a83d2a861e36fc9164.png)\n\nЭтот мод добавляет минималистичный виджет в стиле ванили, который отображает ваши предметы брони, а также выделенные слоты для [Амулета бессмертия](https://modrinth.com/mod/charm-of-undying) и [Слота элитр](https://modrinth.com/mod/elytra-slot). Он предоставляет четкое визуальное предупреждение при низком уровне прочности, позволяя отслеживать ваше основное снаряжение в интерфейсе в стиле ванили без загромождения текстом или цифрами. Положение и внешний вид виджета полностью настраиваются через файл конфигурации.\n\n**Требуется**: [ukulib](https://modrinth.com/mod/ukulib)  \n**Рекомендуется**: [Амулет бессмертия](https://modrinth.com/mod/charm-of-undying) и [Слот элитр](https://modrinth.com/mod/elytra-slot)  \n\n\n**Благодарности**:\nОригинальный мод от [BerdinskiyBear](https://www.curseforge.com/minecraft/mc-mods/berdinskiybears-armor-hud), форкнутый [uku](https://modrinth.com/mod/ukus-armor-hud), затем форкнутый sheeta.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

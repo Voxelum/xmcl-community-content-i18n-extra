@@ -1,0 +1,6 @@
+{
+  "bodyHash": "57c2087cdabaadce",
+  "content": "\n\n<h1>矿石生成禁用器</h1>\n<p>本模组灵感来源于 KubeJS 移除了 WorldGen 类，这使得整合包作者通过脚本管理和禁用矿石生成变得更加困难。Ore Generation Disabler（矿石生成禁用器）应运而生，作为在现代 NeoForge 整合包中控制主世界矿石生成的轻量级替代方案。</p>\n<p>该模组会在区块生成之前移除生成矿石的世界生成特性。它不是在生成后替换方块，而是直接从源头阻止匹配的矿石特性运行。矿石的控制通过一个方块标签实现：</p>\n<pre><code>#oregenerationdisabler:disabled_overworld_ores</code></pre>\n<p>任何添加到此标签的矿石方块都会被检测，并用于禁用生成该方块的对应世界生成特性。</p>\n<h1>功能特性</h1>\n<ul>\n<li>在区块生成前禁用主世界的矿石生成。</li>\n<li>使用可配置的方块标签，而非硬编码的矿石列表。</li>\n<li>兼容原版及大量模组矿石。</li>\n<li>不会移除作为装饰放置在结构内部的矿石。</li>\n<li>专为采用替代矿石生成系统的自定义整合包设计。</li>\n<li>支持数据包和 KubeJS 标签编辑。</li>\n</ul>\n<h2>配置方法</h2>\n<p>首次启动后，模组会自动生成配置文件。</p>\n<h2>示例</h2>\n<p>你也可以使用 KubeJS 将方块添加到该标签中：</p>\n<pre><code>ServerEvents.tags('block', event =&gt; {\n  event.add('oregenerationdisabler:disabled_overworld_ores', [\n    'minecraft:iron_ore',\n    'minecraft:deepslate_iron_ore',\n    'minecraft:diamond_ore',\n    'minecraft:deepslate_diamond_ore'\n  ])\n})</code></pre>\n<h3>重要提示</h3>\n<p>本模组仅影响新生成的区块。已存在的区块不会发生改变。</p>\n<p>本模组最初是为我的个人整合包开发的，后来发布是为了帮助其他整合包开发者应对 KubeJS 移除 WorldGen 后的矿石生成问题。欢迎 fork、改进或将其改编到你自己的项目中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

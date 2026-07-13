@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f14b0472827d5c3c",
+  "content": "\n\n# 说明\n此数据包使部分被动生物的生成蛋变为可制作状态。本版本支持制作的生成蛋包括：\n- 绵羊\n- 牛\n- 猪\n- 鸡\n\n# 安装指南\n在 Windows 系统中，请前往以下路径的存档文件夹：\n\n```\nC:\\Users(你的用户名)\\AppData\\Roaming\\.minecraft\\saves\n```\n将压缩包放入数据包文件夹中，随后重启游戏或执行命令 /reload 即可。\n\n# 合成配方\n\n![牛生成蛋合成配方](https://cdn.modrinth.com/data/cached_images/496aee28dfd2e5eb5460e131df2ccc66af5fb4d0.png)\n\n![鸡生成蛋合成配方](https://cdn.modrinth.com/data/cached_images/bd4a465c819d07afa5ab4d1709f9f5b59dc47d6b.png)\n\n![猪生成蛋合成配方](https://cdn.modrinth.com/data/cached_images/e7254a21d2323240dc92d25d33d0c337111cbbf2.png)\n\n![绵羊生成蛋合成配方](https://cdn.modrinth.com/data/cached_images/dff76ca57b1a8875d401f754356761ef760343e9.png)\n\n# 其他\n若对此数据包有任何疑问或问题，欢迎通过 Discord 联系我：@oshielder",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

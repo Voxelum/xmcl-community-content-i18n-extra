@@ -1,0 +1,6 @@
+{
+  "bodyHash": "97781d65407dd3b6",
+  "content": "\n\n# AeroCobbleGen 适用于 **NeoForge 1.21.1**\n\n- 允许矿石与 Create 模组材料通过圆石生成器进行生成。若在被生成的圆石正下方放置一个熔炉方块，则可额外生成更多偏向 Create 模组的材料。\n\n- 兼容 Create: Aeronautics 的飞行载具（这基本上就是我制作这个模组的初衷）\n\n- 完全可自定义：首次生成圆石时，模组会在 `\\minecraft\\config\\` 目录下创建名为 `aeronauticscobblegen.toml` 的文件；该文件包含所有可生成的方块及其权重。你可以实时编辑该文件，修改后无需重新加载游戏即可生效！\n\n**免责声明：** 本模组是凭感觉（vibe coding）开发的，并且使用了 MCreator，抱歉，我其实是个“冒牌货”。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

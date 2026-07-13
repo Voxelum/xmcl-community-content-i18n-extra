@@ -1,6 +1,6 @@
 {
-  "bodyHash": "biJlvdnuArM=",
-  "content": "<h1>Классический туман (пакет ресурсов)</h1><p>Этот пакет ресурсов делает дальний туман выглядящим <del>хорошо</del>, как это было в альфа-версиях.</p><p>Он изменяет только туман в обычном мире; другие измерения не затрагиваются.</p><p>Спасибо моему другу <a href=\"https://youtube.com/flamesatgames\" rel=\"nofollow\">flamesatgames</a> за запрос на этот пакет — мне было так весело его создавать!</p><hr><p>ПРИМЕЧАНИЕ: Этот пакет не работает с Sodium, потому что Sodium не поддерживает стандартные шейдеры. Вам нужно использовать мод <a href=\"https://github.com/DartCat25/sodium-shader-support\" rel=\"nofollow\">DartCat25's Sodium Shader Support</a> вместе с Sodium.</p>",
+  "bodyHash": "eb4c81e17b0ef810",
+  "content": "\n\n<h1>Классический туман (Пакет ресурсов)</h1>\n<p>Этот пакет ресурсов делает дальний туман <del>красивым</del>, каким он был в эпоху альфа-версий.</p>\n<p>Он изменяет туман только в обычном мире, остальные измерения не затрагиваются.</p>\n<p>Спасибо моему другу <a href=\"https://youtube.com/flamesatgames\" rel=\"nofollow\">flamesatgames</a> за запрос, мне было очень весело создавать этот пакет!</p>\n<hr>\n<p>ПРИМЕЧАНИЕ: Это не работает с Sodium, так как он не поддерживает стандартные шейдеры. Вам необходимо использовать мод <a href=\"https://github.com/DartCat25/sodium-shader-support\" rel=\"nofollow\">DartCat25's Sodium Shader Support</a> совместно с Sodium.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

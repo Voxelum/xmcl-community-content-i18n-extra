@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YBfjX8bT0SI=",
-  "content": "这个模组本身不会做任何事情，但允许其他模组弯曲模型部件。\n\n它非常轻量，模组开发者可以将其包含在自己的项目中。\n\n开发者说明：https://github.com/KosmX/bendy-lib",
+  "bodyHash": "ce6b9cad94c75f28",
+  "content": "\n\n本模组本身无实际功能，仅允许其他模组对模型部件进行弯曲处理。  \n\n该模组十分轻量，开发者可直接将其集成至自己的项目中。  \n\n开发者文档：https://github.com/KosmX/bendy-lib",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

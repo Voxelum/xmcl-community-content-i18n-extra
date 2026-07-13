@@ -1,0 +1,6 @@
+{
+  "bodyHash": "53d6c478d4350342",
+  "content": "\n\n《Create Aeronautics：傳動與連桿》為 Create Aeronautics 中可移動的結構添加了機械連桿部件，用於連接、約束並在各結構間傳遞運動。\n\n本模組包含萬向節、液壓杆、鉸鏈頭、氣動調節器與動能轉換軸承。萬向節與連接杆允許獨立的物理結構保持連接，同時仍支援受控的運動。液壓杆提供可調整的伸縮、阻尼、回彈力，並可透過氣動調節器以紅石控制目標長度。\n\n動能轉換軸承能將附著於航空學物理結構的旋轉轉化為 Create 的動能輸出，讓移動中的機器能更自然地與軸承及機械動力網路互動。\n\n本模組專為實驗性機械建築設計，例如飛機機構、摺疊結構、懸吊系統、動力鉸鏈、穩定器等，適用於需要超越簡單靜態方塊的複雜裝置。主要方塊內建遊戲內的 Ponder 場景，且多項行為數值可透過 NeoForge 設定檔進行微調。\n\n![完全相容於物理結構且動畫精緻的萬向節](https://cdn.modrinth.com/data/cached_images/acb94fe79ca8417f29152fa055c8d33c1c0b9e96_0.webp)\n![將動能轉換為應力的機器](https://cdn.modrinth.com/data/cached_images/e216e80afc68ecbc87bf32736b2ba46a2cd9c029_0.webp)\n![使用液壓臂的起重挖掘機](https://cdn.modrinth.com/data/cached_images/e7db779426031debc28b7c3e142a4ec1b5658c8f_0.webp)\n![精緻的藝術系統](https://cdn.modrinth.com/data/cached_images/21edb2aa833ad2763f7749626a12233ac4bb326d_0.webp)\n![鞍山合金萬向節](https://cdn.modrinth.com/data/cached_images/20f3b61b9e83b4bc4b8f68c03047fde84cd86c47_0.webp)\n![所有物品](https://cdn.modrinth.com/data/cached_images/24937248f1139bee2a8fee4a44daf8fdac6cb8ec_0.webp)\n\n提供完整的物理結構支援與精緻動畫；您可用其打造液壓起重機、伸縮機構乃至汽車懸吊系統。激發創意與想像力。\n\n《航空學》擴充模組，新增了許多利於載具設計與日常實用的零組件，例如萬向節、動能轉換器與液壓杆等。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4sAg2GcsfTw=",
-  "content": "## 將螢光石等光源方塊納入鎬類可挖掘範圍，使其能被更有效率地採集。\n\n### 使用模組版本時的安裝說明：\n功能與資料包相同，但會套用至所有透過此模組建立/啟用的世界。若不想套用至所有世界，請改用資料包版本\n\n**Forge**：\n<br>無需依賴項目，直接將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需搭配 Fabric API 使用\n\n**Quilt**：\n<br>需搭配 Quilted Fabric API 使用\n\n### Purpur 擴充包\nPurpur 擴充包是曾被建議加入 Purpur 的功能集——或符合 Purpur 主題，但經評估更適合以資料包形式呈現的內容！\n<br>這些資料包的運作方式與 Purpur 中的單一設定選項類似，可隨時新增或移除而不影響伺服器運作\n<br>這些擴充包可在原版環境中使用，不需運行 Purpur 伺服器即可使用",
+  "bodyHash": "2ac37a202e2e2f8a",
+  "content": "\n\n## 將發光石等光源方塊歸類為使用鎬即可採集，以提升採集效率。\n\n### 使用模組版本的安裝資訊：\n其功能與數據包相同，但會套用至所有建立或啟用此模組的世界。如果您不希望套用到所有世界，請改用數據包。\n\n**Forge**：\n<br>無需任何依賴項，只需將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 收錄了曾建議新增至 Purpur 的功能，或是符合 Purpur 主題的內容，但最終決定以數據包的形式呈現會更為合適！ \n<br>這些數據包的功能等同於 Purpur 中的單一設定選項。您可以隨時新增或移除它們，而不會對伺服器造成損害。\n<br>它們在原版環境中也能運作，您無需使用 Purpur 即可使用這些內容。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

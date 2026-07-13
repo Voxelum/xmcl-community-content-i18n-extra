@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eacb30145c759b16",
+  "content": "\n\n<p><strong>歡迎來到甜蜜夢境！</strong> 🌙 《甜蜜夢境》是一款生活品質（QoL）模組，旨在讓 Minecraft 的夜晚更具互動性與回報。非常適合多人伺服器與原版強化整合包，此模組在優化玩家與床的互動方式同時，亦能完美保留原版遊戲體驗。</p>\n<p><strong>✨ 目前功能：</strong></p>\n<ul>\n<li>\n<p><strong>動態睡眠提示：</strong> 每次有玩家上床睡覺時，會自動在伺服器聊天視窗傳送一段有趣的訊息。</p>\n</li>\n<li>\n<p><strong>舒適的清晨：</strong> 睡覺真的會有回報！自然醒來時會獲得暫時的再生效果，並完全恢復飢餓值。</p>\n</li>\n<li>\n<p><strong>投票跳過夜晚系統：</strong> 當其他人都到地表時，你卻被困在洞穴深處？玩家可以使用 <code>/voteday</code> 指令。若有線上玩家超過 50% 投票贊成，伺服器將自動跳至清晨。</p>\n</li>\n<li>\n<p><strong>完整多語言支援：</strong> 目前支援英文與西班牙文（會自動對應您的客戶端語言）。</p>\n</li>\n</ul>\n<p><strong>🛠️ 開發中功能（測試版）：</strong></p>\n<ul>\n<li><strong>失眠懲罰：</strong> 我正致力於開發一項新功能，若玩家在遊戲內連續清醒超過 3 天，將施加「緩慢」效果。敬請期待後續更新！</li>\n</ul>\n<p><strong>📥 安裝說明：</strong> 需要 Minecraft Forge 1.20.1。只需將其放入您的 <code>mods</code> 資料夾中，即可享受更棒的睡眠體驗！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

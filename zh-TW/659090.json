@@ -1,0 +1,6 @@
+{
+  "bodyHash": "67d48c1ef3d1a7f2",
+  "content": "\n\n<p>若配方中將煤炭等燃料設為熔爐原料，按住 Shift 點擊煤炭堆會將其放入原料槽，而非燃料槽。</p>\n<p>&nbsp;</p>\n<p>本模組已修改此行為，確保在填入原料槽前，會優先填滿燃料槽。</p>\n<p>&nbsp;</p>\n<p>預設情況下，本模組僅針對煤炭與木炭生效。您可將其他燃料加入至 itemtag 以擴充支援。</p>\n<pre>fuelgoeshere:forced_fuels</pre>\n<p>&nbsp;</p>\n<p>如需協助請加入 Discord&nbsp;<a href=\"https://discord.gg/Vayx3k8Szd\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/Vayx3k8Szd</a></p>\n<p>&nbsp;</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.akliz.net%252flobstermods\" rel=\"nofollow\"><img src=\"https://jonn.dk/akliz_banner_productivebees.png\" alt=\"贊助商\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

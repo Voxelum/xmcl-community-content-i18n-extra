@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9970484b02fa0c15",
+  "content": "\n\n此模組為 Create 新增了多種子彈類型，並包含一些供資料包開發者使用的新資料驅動動作。\n\n目前內容包含：\n\n<details>\n<summary>劇透</summary>\n\n原版遊戲：\n- 餅乾 - 恢復 1 點飽食度。（包含 Farmer's Delight 模組新增的餅乾）\n- 雕刻南瓜與南瓜燈 - 效果與南瓜相同，但威力稍弱。南瓜燈變體適合用來照亮洞穴，且能引燃敵人。\n- TNT - 功能明確，速度非常低。\n\nMiners Delight：\n- 洞穴胡蘿蔔 - 威力更強的胡蘿蔔。\n- 烤洞穴胡蘿蔔 - 略強於烤馬鈴薯。\n- 銅胡蘿蔔 - 基本上相當於帶有「引導」效果的較弱金胡蘿蔔。\n\nMy Nether's Delight：\n- 子彈辣椒 - 弱爆炸物，與 TNT 相比具有更高的速度。\n- 岩漿蛋糕 - 高傷害投射物，可引燃敵人。\n- 岩漿蛋糕切片 - 低傷害變體，裝填時間較快。\n\n</details>\n\n供資料包開發者的新命中動作：\n\n<details>\n<summary>劇透</summary>\n\n\n方塊命中動作：\n- lightning_strike - 擊中避雷針時引發雷擊。效果類似「引導」。\n- explosion - 根據參數創建爆炸：(半徑, 是否引發火焰, 交互行為)\n\n實體命中動作：\n- lightning_strike - 擊中實體時引發雷擊。效果類似「引導」。\n- explosion - 根據參數創建爆炸：(半徑, 是否引發火焰, 交互行為)\n\n</details>\n\n未來計畫：若需求足夠高，我可能會新增更多內容以支援其他模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

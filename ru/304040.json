@@ -1,0 +1,6 @@
+{
+  "bodyHash": "67296529faaeb782",
+  "content": "\n\n<p>Это дополнение к <a href=\"https://minecraft.curseforge.com/projects/ic2-classic\" rel=\"nofollow\">IC2 Classic</a>, на данный момент добавляющее лишь мощный, улучшаемый нано-лук и специальные стрелы, но в будущем, вероятно, появятся и другие нововведения.</p>\n<p>&nbsp;</p>\n<p>Данное дополнение <span style=\"text-decoration:underline\">не будет <span style=\"color:#f00\"><strong>работать</strong></span> с IC2 Experimental</span>, так как оно использует API дополнений, внедрённое в последних версиях IC2 Classic для Minecraft 1.12.2.</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration:underline\"><span style=\"color:#f00;text-decoration:underline\">Известные проблемы:</span></span></p>\n<ul>\n<li>Мод HWYLA отображает предметы как принадлежащие Minecraft (на данный момент это невозможно исправить). Это влияет только на информацию во всплывающей подсказке о том, какой мод добавляет предмет в игру.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

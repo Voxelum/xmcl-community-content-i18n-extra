@@ -1,0 +1,6 @@
+{
+  "bodyHash": "73abc1466a0667fb",
+  "content": "\n\n# | 說明 |\n為凋靈的戰利品表新增掉落內容。死亡時會掉落。包含部分自訂物品。\n- 下界之星 100%（基礎掉落）\n- 1 下界合金錠 10% 或 1-2 下界合金碎片 90%\n- 2-4 骨頭 50% 或 2-4 煤炭 50%\n- 凋靈玫瑰 100%\n- 可疑的燉肉 100%（必定包含持續 5-30 秒的「凋靈」效果。可用來惡搞他人。）\n- 黑暗之心 100%（自訂物品，手持時會將燃燒倒數計時器歸零，離開火源後立即熄滅。除非進入火／熔岩前手裡已拿著它，否則無效。不會提供防火效果。本質上是煙火火箭星，但用於煙火時不會產生任何效果，請別浪費。）\n\n\n# | 版本 |\n目前支援 Minecraft Java ```1.21.2-26.2```。未來可能開放 1.21.2 之前的版本支援。\n\n# | 相容性 |\n與使用相同戰利品表的資源包（```minecraft:entities/wither```）不相容。這包含其他掉落物／Boss 掉落物資源包與模組。載入清單中位置較前的資源包會優先使用其戰利品表。\n\n## | Patreon |\n加入我的新 <a href=\"https://patreon.com/Nerd_1023?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\">Patreon</a> 以支持我的專案！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "VdeIxZkb5H0=",
-  "content": "# Cull Particles MultiLoader\nКаннилизация частиц для нескольких мод-лоадеров.\n\nУвеличивает ваш FPS, не отображая невидимые частицы. Этот мод является обновлённой версией [мода от Tfarcenim](https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric), но с поддержкой нескольких мод-лоадеров (Forge, NeoForge, Fabric и Quilt) и новых версий Minecraft (1.21.x).",
+  "bodyHash": "f59fe2757b222207",
+  "content": "\n\n# Отсечение частиц MultiLoader\nОтсечение частиц для нескольких загрузчиков модов.\n\nПовышает FPS за счёт отключения отрисовки невидимых частиц. Этот мод является обновлённой версией [мода от Tfarcenim](https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric), но с поддержкой нескольких загрузчиков модов (Forge, NeoForge, Fabric и Quilt), а также более новых версий Minecraft (1.21.x).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

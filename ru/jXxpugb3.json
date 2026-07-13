@@ -1,6 +1,6 @@
 {
-  "bodyHash": "eaqNq9YYD1U=",
-  "content": "Требуется [MixinBooter](https://modrinth.com/mod/mixinbooter) (8.0 или выше не работает; пока что используйте 7.1)\n\nПатч, позволяющий связывать звёзды с миром. Другими словами, вы можете отправляться к звёздам. Сама звезда не включена — её нужно добавить отдельно. Пример использования API предоставляет [HaveASolTime](https://github.com/Codetoil/haveasoltime \"HaveASolTime Github\").\n\nТакже доступен на [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tothestars \"ToTheStars CurseForge\").",
+  "bodyHash": "3e3aca4a11f554b7",
+  "content": "\n\nТребуется [MixinBooter](https://modrinth.com/mod/mixinbooter) (версии 8.0 и выше не работают, на данный момент используйте 7.1)\n\nПатч, позволяющий связывать звёзды с мирами. Иными словами, вы можете отправляться к звёздам. Не включает сами звёзды, их необходимо добавить отдельно. [HaveASolTime](https://github.com/Codetoil/haveasoltime \"HaveASolTime Github\") приводит пример использования API.\n\nТакже доступно на [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tothestars \"ToTheStars CurseForge\").",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

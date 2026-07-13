@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6a278672abfe923e",
+  "content": "\n\nTiny Gates 新增了紅石閘門：包含標準方塊大小的閘門（與延時器同尺寸），若安裝了 Tiny Redstone，則還會有極其微型的紅石閘門，可用於組裝微型電路。\n\n閘門可放置在任何朝向上：地板、牆壁和天花板皆可！\n\n## 閘門種類\n\n### AND 閘（與閘）\n當左側與右側同時收到訊號時，前方會輸出訊號。\n\n### OR 閘（或閘）\n當左側或右側任一側收到訊號時，前方會輸出訊號。\n\n### XOR 閘（互斥或閘）\n當輸入訊號不一致時，前方會輸出訊號，類似三路開關的邏輯。\n\n### NOT 閘（非閘）\n當後方沒有訊號時，前方會輸出訊號。功能類似紅石火把，但僅單向傳輸且無延遲。\n\n### RS 鎖存器\n當左側訊號（設定訊號）出現脈衝時，前方開始輸出。直到右側訊號（重置訊號）出現脈衝前，會持續維持輸出狀態。\n\n### T 觸發器\n當後方收到脈衝時，前方輸出狀態會切換（開關反轉）。\n\n### 計數器\n統計後方輸入的脈衝次數（最高至 15 次）。會顯示當前數字，並向該數字對應的訊號強度輸出至前方。亦可作為變阻器使用。從左側輸入可鎖定當前數字；從右側輸入則重置計數器。\n\n### 時脈\n以設定的間隔向前方輸出紅石脈衝。右鍵點擊可開啟設定畫面調整間隔。向後方輸入紅石訊號即可停用。\n\n### 邊沿檢測器\n當後方輸入的紅石訊號啟動（上升緣）或關閉（下降緣）時，會向前方輸出單一紅石脈衝。右鍵點擊可切換要檢測的邊緣類型（上升緣或下降緣）。\n\n## 介紹影片（內容已過時）\n此影片製作時尚未推出標準方塊尺寸的閘門，且 Tiny Redstone 現已改為選配模組，但其餘資訊皆屬正確。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Ubb0DV6wuFw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

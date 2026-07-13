@@ -1,6 +1,6 @@
 {
-  "bodyHash": "KznnfdlvqW0=",
-  "content": "这是机械动力：航空学的一个附属模组，添加了一些我认为主模组中缺少的方块和物品。我打算有空的时候时不时更新一些新内容。\n\n### 新增方块与物品：\n\n- <span style=\"color:#FFFFFF;\">**航空区块加载器：**</span> 放置在Sable子层级上时，该方块会保持该层级及周围区块处于加载状态。它会动态计算尺寸，并根据飞艇大小调整加载区块的\"气泡范围\"。若放置在Sable子层级之外则无效果。不建议在高速移动的飞行器上使用，因为可能超出区块加载速度导致卡住。\n\n![区块加载器合成](https://cdn.modrinth.com/data/cached_images/4a84d521212e7d5679ff242cc9f958a240a5389d.png)\n\n- <span style=\"color:#FFFFFF;\">**玩家指南针：**</span> 可供玩家绑定使用的指南针。绑定后，指针将指向该玩家的位置（若其离线则指向最后已知位置）。兼容航空学导航台。\n\n- <span style=\"color:#FFFFFF;\">**方向指南针：**</span> 可打开界面让玩家选择自定义航向的指南针。指针将始终指向所选方向。兼容航空学导航台。\n\n### 未来计划添加：\n*   可传递旋转动力的链条与绞盘\n*   绳索/链条快速连接/脱离接口",
+  "bodyHash": "4968004d372e1af7",
+  "content": "\n\n这是一个为 Create Aeronautics 制作的附加模组，包含我认为原版模组中缺失的一些方块和物品。我打算在有空的时候不定期更新新内容。\n\n### 新增的方块与物品：\n\n- <span style=\"color:#FFFFFF;\">**航空区块加载器：**</span> 放置在 Sable 子层级上时，该方块将保持其自身及周围区块处于加载状态。它会根据飞艇大小动态计算并调整已加载区块的范围。若放置在 Sable 子层级之外则无效。不建议在极速飞行的载具上使用，因为其区块加载速度可能跟不上移动速度而导致卡住。\n\n![Chunkloader crafting ](https://cdn.modrinth.com/data/cached_images/4a84d521212e7d5679ff242cc9f958a240a5389d.png)\n\n- <span style=\"color:#FFFFFF;\">**玩家指南针：**</span> 一种可供玩家使用的指南针，绑定后指向该玩家的位置；若玩家离线，则指向其最后已知位置。兼容航空导航台。\n- <span style=\"color:#FFFFFF;\">**定向指南针：**</span> 打开后会显示界面，允许玩家选择任意方向。指南针将始终指向所选方向。兼容航空导航台。\n\n未来计划添加的内容：\n*   可传递旋转动力的链条与绞盘\n*   绳索/链条快速连接与释放接口",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8376ae392e5fcfec",
+  "content": "\n\n<p>簡單的附加模組，讓<a href=\"https://www.curseforge.com/minecraft/mc-mods/luishs-guns\" rel=\"nofollow\">Luish's Guns 模組</a>中的武器可以合成。</p>\n<hr>\n<h3><strong>步槍合成</strong></h3>\n<p><img src=\"https://cdn.modrinth.com/data/A9HM0lEo/images/400b19add641307be5f7a2746a642fc9e0030c35.png\" alt=\"步槍合成\"></p>\n<h3><strong>霰彈槍合成</strong></h3>\n<p><img src=\"https://cdn.modrinth.com/data/A9HM0lEo/images/e7abb182285e84b1daa59b842f8bb3815f08ee3b.png\" alt=\"霰彈槍合成\"></p>\n<h3><strong>雙管霰彈槍合成</strong></h3>\n<p><img src=\"https://cdn.modrinth.com/data/A9HM0lEo/images/2f867daf43292018af2b373b29e68d85a8e4981f.png\" alt=\"雙管霰彈槍合成\"></p>\n<hr>\n<div>\n<h3>&nbsp;</h3>\n<h2><strong>為何要作為獨立附加模組，而不直接整合進原模組中？</strong></h2>\n<p>從生存友好的體驗來看，這些合成配方可能略顯不合理。此外，由於它是基於資料包（datapack）構建的，因此在原始資料包或模組內部無法實現模組化的合成系統。</p>\n<p>另外，原作者原本的計畫是開發一款專用的武器合成台，但因開發進度延遲，最終未能納入原始專案中。</p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

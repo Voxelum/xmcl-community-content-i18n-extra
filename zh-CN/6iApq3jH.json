@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7341a8e7affbec48",
+  "content": "\n\n# 关于：\n**这款着色器对模组、模型和材质包开发者十分实用。它在一个着色器中集成了多种模式，可分别显示线框、法线贴图、深度、PBR、位置等信息，且每种模式均带有对应标签。**\n\n我刚开始接触着色器时，并不太清楚这些模式在调试时的实际视觉效果。因此，我将它们整合在一个现成的着色器中，希望能帮助新手更方便地入门。\n\n<p align=\"center\">\n  <a href=\"https://patreon.com/cw/lolip_p\">\n    <img src=\"https://img.shields.io/badge/Patreon-000000.svg?style=for-the-badge&logo=patreon&logoColor=white\">\n  </a>\n  <a href=\"https://discord.gg/Cz2sCWz5Wh\">\n    <img src=\"https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white\">\n  </a>\n</p>\n\n### 线框演示：\n![线框演示](https://cdn.modrinth.com/data/6iApq3jH/images/eeb81e16c831fd282718cbe79a8481bb19cd497d.webp)\n### 法线贴图演示：\n![法线贴图演示](https://cdn.modrinth.com/data/6iApq3jH/images/934225186882464725d9a24c10e4265e3e885627.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

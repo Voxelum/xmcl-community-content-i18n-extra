@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cbadcd4b97ee7404",
+  "content": "\n\n![Logo](https://i.imgur.com/q2FAXqT.png)\n\nTransfer Labels 是一款模組，可讓你在相鄰的方塊之間轉移物品或流體。\n\n### 運作方式：\n\n*   潛行並右鍵點擊方塊即可放置標籤。\n*   手持標籤並右鍵點擊已放置的標籤即可進行互動。\n*   手持標籤並左鍵點擊已放置的標籤即可將其移除。\n\n你可以使用「標籤存取器」方塊來存取標籤。\n\n### 過濾設定：\n\n開啟標籤介面時，可使用多種過濾類型進行篩選，例如流量調節、精確數量、模組與標籤。\n\n針對帶有數量的過濾器，在滾動滑鼠滾輪的同時按住 Shift、Alt 或 Ctrl 鍵（含任意組合），即可調整數量。\n\n### 加速功能：\n\n你可以在數量槽或速度槽中放入相同的物品標籤，以提升標籤的運作效率。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/VHuVtUBuSAE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

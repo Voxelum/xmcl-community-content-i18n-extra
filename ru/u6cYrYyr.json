@@ -1,0 +1,6 @@
+{
+  "bodyHash": "468fa2ef154e0908",
+  "content": "\n\nДополнение для Mekanism к Umbra Poor Ores:\n\nДобавляет генераторы Mekanism 1-го и 2-го уровней:\n- Уровень 1: вырабатывает энергию из бедной руды олова, свинца и осмия\n- Уровень 2: вырабатывает энергию из бедной руды олова, свинца, осмия, урана, флюорита и соли\n\nТакже добавляет рецепты для переработки руд олова, свинца, осмия, урана и флюорита из Mekanism, а также рецепт блока соли из материалов бедной руды.\n\nТребует [Umbra Poor Ores](https://modrinth.com/mod/umbra-poor-ores) и [Mekanism](https://modrinth.com/mod/mekanism)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

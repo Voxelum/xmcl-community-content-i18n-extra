@@ -1,6 +1,6 @@
 {
-  "bodyHash": "J0uNA8GQMEo=",
-  "content": "Tinkers' Advanced 是一個 Tinkers' Construct 的附加模組，除了加入了原創內容外，也加入了與科技模組的整合。\n*注意：此模組還在早期開發階段，內容不多，且伺服器效能表現未知。此外，需要 1.20.1 版本的 Tinkers' Construct 測試版才能運作。\n\n目前特色：\n- 全新的高科技武器，能發射流體來造成傷害（類似 Swasher 但有所不同）。\n- AE2 整合，包括賽特斯石英與福魯伊克斯石英。\n- Mek 整合，包括合金原子、強化的黑曜石、強化的螢石以及反物質。\n- 新的材料：輝鉍礦與鉍。前者可在地下找到，後者則需要鑄造廠來獲得。\n\n計劃中的特色：\n- PnC:R 整合，附加材料。\n- Anvil Craft 整合，附加材料。\n- Thermal 整合。\n- Immersive Engineering 整合。\n- 在現有的整合中加入原創材料。",
+  "bodyHash": "57f43d2d3ff65506",
+  "content": "\n\nTinkers' Advanced 是一款為匠魂（Tinkers' Construct）設計的附加模組，新增了部分原創內容與對各類科技模組的整合。\n*注意：本模組目前處於早期開發階段，內容較少，且在伺服器上的效能表現尚未可知。此外，運行此模組需要安裝 1.20.1 版本的匠魂測試版。\n\n現有功能：\n- 一款全新的高科技武器，透過噴射流體來造成傷害（概念類似 Swasher，但機制不同）。\n- 與 AE2（應用能源2）整合，包含賽特斯石英與氟素石英。\n- 與 Mekanism（通用機械）整合，包含原子合金、精煉黑曜石、精煉螢石與反物質。\n- 新增材料：輝鉍礦與鉍。前者可在地下發現，後者則需透過熔爐（Foundry）取得。\n\n規劃中功能：\n- 與 PnC:R 整合，並新增額外材料。\n- 與 Anvil Craft 整合，並新增額外材料。\n- 與熱力系列（Thermal）整合。\n- 與沉浸式工程（Immersive Engineering）整合。\n- 將原創材料加入現有的整合模組中。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

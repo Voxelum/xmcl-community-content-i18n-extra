@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3813b1b4785be134",
+  "content": "\n\n# 将方块转换为方块显示实体\n这个可配置的数据包允许你以 WorldEdit 风格选择一个方块区域，并将所有方块转换为对应的方块显示实体。该数据包与 [Axiom](https://modrinth.com/mod/axiom) 模组配合极佳，因为它允许你将显示实体分组并在之后轻松地进行操作。\n\n### 版本： <FONT COLOR=\"#3598db\">1.21.4</FONT> — <FONT COLOR=\"#ff39eb\">1.21.11</FONT>\n\n## 使用方法\n- `/function btobd:admin/give_converter_stick` - 给予你用于设置 pos1 和 pos2 的转换棍：\n  - `右键点击` → 设置 Pos1\n  - `再次右键点击` → 设置/移动 Pos2\n  - `Shift + 右键点击` → 清除 Pos1 和 Pos2\n- `/function btobd:admin/convert` - 开始转换过程（仅在 pos1 和 pos2 实体均已加载时生效）；\n- `/function btobd:admin/settings` - 打开设置界面；\n- `/function btobd:admin/convert_macro {x:<num>,y:<num>,z:<num>,x2:<num>,y2:<num>,z2:<num>}` - 通过将 `<num>` 替换为具体坐标来转换指定区域。\n\n观看演示视频：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/W_AcC19raRo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n## 致谢\n本数据包使用了 [Triton365 的“Blockstate”库](https://github.com/Triton365/BlockState)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

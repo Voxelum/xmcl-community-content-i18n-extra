@@ -1,6 +1,6 @@
 {
-  "bodyHash": "krqr31VUvcI=",
-  "content": "![Text](https://cdn.modrinth.com/data/cached_images/54b6b8a10b296c70656d88af79cbb4ccef7e4965.png)\n\n### 描述\n新增了3種不同用途的引擎類型：\n- **V4引擎**：提供便攜式引擎兩倍的SU，但燃料消耗也為兩倍。\n- **I2引擎**：提供便攜式引擎一半的SU，但燃料消耗也減半。\n- **中驅引擎**：提供與便攜式引擎相同的SU與燃料消耗，但透過齒輪而非傳動軸傳遞動力。\n\n所有引擎皆可垂直放置（與便攜式引擎不同），並支援「順時針」、「逆時針」及「中立」模式。中立模式可停止轉動與燃料消耗，無需移除燃料。\n\n新增1種紅石元件：\n- **紅石運算器**：可對紅石訊號進行加法、減法、乘法與除法運算。\n\n![創意標籤](https://cdn.modrinth.com/data/cached_images/5dcb2561c2b0c230c755969f0ab53426c96adea1.jpeg)\n\n<details>\n<summary>劇透警告</summary>\n\n**未來計畫**：\n- 更多紅石元件（邏輯閘）\n- 配方重製（適用於所有引擎類型，包括便攜式引擎）\n- 以及其他更多內容\n</details>\n\n有問題嗎？加入 [Discord](https://discord.com/invite/9j5QYM7TtK) 討論",
+  "bodyHash": "13dd55d23d49fe31",
+  "content": "\n\n![Text](https://cdn.modrinth.com/data/cached_images/54b6b8a10b296c70656d88af79cbb4ccef7e4965.png)\n\n### 說明\n新增 3 種具有不同用途的引擎類型\n- **V4 引擎**：提供便攜式引擎兩倍的 SU，但燃料消耗量也翻倍\n- **I2 引擎**：提供便攜式引擎一半的 SU，燃料消耗量則為一半\n- **中置驅動引擎**：提供與便攜式引擎相同的 SU 和燃料消耗量，但改為透過齒輪而非軸來傳遞動力\n\n所有引擎均可垂直放置（便攜式引擎無法做到），並具備「順時針」、「逆時針」與「中立」模式。中立模式可停止旋轉並暫停燃料消耗，無需卸下燃料。\n\n新增 1 種紅石元件\n- **紅石計算器**：允許對紅石信號進行加、減、乘、除運算。\n\n![Creative Tab](https://cdn.modrinth.com/data/cached_images/5dcb2561c2b0c230c755969f0ab53426c96adea1.jpeg)\n\n<details>\n<summary>劇透</summary>\n\n**未來計畫**：\n- 更多紅石元件（邏輯閘）\n- 配方重做（適用於所有引擎類型，包含便攜式引擎）\n- 以及更多內容\n</details>\n\n有任何問題嗎？歡迎加入 [Discord](https://discord.com/invite/9j5QYM7TtK)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

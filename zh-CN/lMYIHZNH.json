@@ -1,6 +1,6 @@
 {
-  "bodyHash": "uBxqrL83YNk=",
-  "content": "本项目可显著提升你在使用光影包游玩机械动力6.0时的帧数。\n\n项目直接修改了机械动力的代码，并计划将优化后的代码合并至官方版本。若成功合并，本模组将停止维护。\n\n帧数提升通过使用钠API和背面剔除实现。\n\n**1.21.1版本需要安装钠和Iris**\n\n**1.20.1版本需要安装Embeddium和Oculus**\n\n请查看我的另一个帧数优化模组Flerovium\n\n建议与ImmediatelyFast配合使用\n\n使用512个水车的测试光影包：\n\n7帧→35帧\n![优化前](https://cdn.modrinth.com/data/cached_images/120598500012bb331cb5c2989d62fa53e02c4054.jpeg)\n![优化后](https://cdn.modrinth.com/data/cached_images/a73d8344bfe1448cd21b5c38cdce22d4c5096691.jpeg)",
+  "bodyHash": "4d55d00efe7b7298",
+  "content": "\n\n本项目在使用光影包游玩 Create 6.0 时能大幅提升您的 FPS。\n\n本项目直接修改了 Create 的源码，并计划将优化代码合入官方。如果代码被合并，本项目将停止维护。\n\nFPS 的提升通过调用 Sodium API 和背面剔除技术实现。\n\n**1.21.1 需要搭配 Sodium 和 Iris**\n\n**1.20.1 需要搭配 Embeddium 和 Oculus**\n\n查看我的另一款 FPS 优化模组：Flerovium\n\n推荐搭配 ImmediatelyFast 使用\n\n测试环境：使用含 512 个水车的光影包\n\n7 FPS → 35 FPS\n![优化前](https://cdn.modrinth.com/data/cached_images/120598500012bb331cb5c2989d62fa53e02c4054.jpeg)\n![优化后](https://cdn.modrinth.com/data/cached_images/a73d8344bfe1448cd21b5c38cdce22d4c5096691.jpeg)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

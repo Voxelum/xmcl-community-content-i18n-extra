@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99512827d42dedc7",
+  "content": "\n\n<p>Добавляет систему интеграции AE2 и Replication.</p>\n<p>Добавлен блок под названием AE2-Replication Bridge, который позволяет AE2 считывать данные из сети Replication.</p>\n<p>&nbsp;</p>\n<p>В частности:&nbsp;</p>\n<ul>\n<li>Позволяет отображать количество материалов Replication в терминалах Applied Energistics 2.</li>\n<li>Включает возможность отправки запросов Replication к системам AE2.</li>\n<li>Позволяет автоматизировать работу дезинтеграторов с помощью шаблонов обработки.</li>\n</ul>\n<p>Я не являюсь автором данного мода, но если вы ищете версию для Refined2, вот она:</p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/replication-rs2-bridge\" target=\"_blank\" rel=\"nofollow\">Replication RS2 Bridge</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

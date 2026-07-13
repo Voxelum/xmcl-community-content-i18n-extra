@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ef92fcb91d2709b9",
+  "content": "\n\n## 将强化深板岩纳入镐可开采类别，使其能够被镐更快地开采\n\n### 使用模组版本时的安装信息：\n其功能与数据包相同，但会应用于所有在开启此模组时创建或启用的世界。如果您不希望它应用于所有世界，请改用数据包。\n\n**Forge**：\n<br>无需任何依赖，只需将模组放入 mods 文件夹即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 是一些曾被提议加入 Purpur 服务器软件的特性——或是符合 Purpur 风格的特性，但最终决定将它们作为数据包发布会更合适！ \n<br>这些数据包的功能等同于 Purpur 中的单个配置项。您可以随时添加或移除它们，且不会对服务器造成损害。\n<br>这些数据包在原版环境中同样适用，您无需运行 Purpur 即可使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

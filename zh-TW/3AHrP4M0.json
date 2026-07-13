@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+WgBaE8epgo=",
-  "content": "![](https://i.imgur.com/1LtRXYe.png)\n## FPS 監控器\n是一款輕量級、可自訂且多功能的工具，可在螢幕上顯示遊戲資訊，方便玩家快速查看。此模組可於畫面上的 HUD 以及遊戲視窗標題列顯示客戶端的 FPS（每秒幀數）、伺服器連線 Ping 值與記憶體使用量。該模組已編寫為可在 Forge 與 Fabric 上執行。\n\n![](https://i.imgur.com/UVdE34a.png)\n![](https://i.imgur.com/r5rgK53.png)\n### HUD：\nHUD 中資訊的顯示方式可透過模組的語言檔案進行設定。HUD 中的每個元素也可在設定中個別開關。\n![](https://i.imgur.com/zY9DaFL.png)\n![](https://i.imgur.com/9i4rFyG.png)\n### 遊戲視窗：\n啟用 `game_window_info` 選項，即可在遊戲視窗標題中顯示資訊。\n![](https://i.imgur.com/unA8TsZ.png)\n### 設定：\n以下為使用 Fabric 的 Cloth Config 時，遊戲內設定選單的外觀。\n![](https://i.imgur.com/ympLf7Y.png)\n### 按鍵綁定：\n您可以為每個 HUD 元素指定按鍵綁定來開啟或關閉，甚至可以使用「全部切換」選項將整個 HUD 關閉。\nFabric：按鍵綁定僅在安裝 Fabric API 時有效。\n![](https://i.imgur.com/ujR2gyb.png)",
+  "bodyHash": "f79a1fd33cfc7fe7",
+  "content": "\n\n![](https://i.imgur.com/1LtRXYe.png)\n## FPS 監控器 \n是一款輕量、可自訂且功能多樣的工具，用於在螢幕上顯示遊戲資訊，方便存取與閱讀。此模組可在螢幕 HUD 以及遊戲視窗標題列中顯示客戶端的 FPS（每秒幀數）、伺服器連線延遲（ping）與記憶體使用量。此模組已編譯為同時支援 Forge 與 Fabric 平台。\n\n![](https://i.imgur.com/UVdE34a.png)\n![](https://i.imgur.com/r5rgK53.png)\n### 螢幕提示資訊 (HUD)：\nHUD 中資訊的顯示方式可在模組的語言檔（lang file）中進行設定。在設定檔中，您也可以單獨切換關閉 HUD 中的每個項目。  \n![](https://i.imgur.com/zY9DaFL.png)\n![](https://i.imgur.com/9i4rFyG.png)\n### 遊戲視窗：\n啟用 `game_window_info` 選項，即可在遊戲視窗標題列中顯示這些資訊。\n![](https://i.imgur.com/unA8TsZ.png)\n### 設定：\n以下是搭配 Fabric 平台的 Cloth Config 時，遊戲內設定選單的外觀。\n![](https://i.imgur.com/ympLf7Y.png)\n### 鍵位設定：\n您可以將鍵位綁定至各項 HUD 元素以開關顯示，或使用「全部切換」選項來一次性關閉整個 HUD。\nFabric 平台：僅在安裝 Fabric API 時鍵位綁定才會生效。\n![](https://i.imgur.com/ujR2gyb.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

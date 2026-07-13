@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8893f5d3e97ab076",
+  "content": "\n\n音樂盒讓玩家能夠使用 Murichorum（一種生長於紫珀植物下方的新礦物）來製作唱片。\n\n同時新增數種建築方塊與材料、兩種資料驅動製作方式，並讓部分材料更容易取得：例如哭泣黑曜石、鐘、紫水晶母岩、龍息等。\n\n雖然我個人建議邊玩邊摸索，但若需要指引，可以參考遊戲內的進度或 Wiki。建議先從搜刮附近的古代城市開始。\n\n強烈建議搭配 JEI 或 REI 來查看配方。若您希望為 Murichorum 和 Echothyst 提供正確的盔甲紋飾材料，Trimmed 為可選依賴項。\n\n這是我的第一個正式模組。經過四週的開發，我對目前的成果相當滿意，尤其是音效設計。一如既往，如果您有任何建議，歡迎隨時在我的 [Discord](https://discord.gg/R7FMTfu) 提出——特別是如果您是整合包開發者，希望某些內容可設定（或有配方構思）。我也已設立 [Crowdin](https://crowdin.com/project/a-music-box-mcmod) 頁面供提交翻譯！\n\n__移植備註__：我較少考慮將模組移植至其他版本或載入器，除非大家需求強烈。但 1.12 絕對不會。\n\n自訂音效素材來自 ZapSplat。特別感謝 Kaupenjoe 提供的 1.21.1 Neoforge 模組開發教學，以及 Neoforge 和 MMD Discord 伺服器中提供指導的各位。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

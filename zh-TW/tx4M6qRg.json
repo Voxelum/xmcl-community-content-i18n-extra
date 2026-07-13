@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e9c3648a336c7f09",
+  "content": "\n\n# RFTools Storage\n\nRFTools Storage 是 [RFTools Base](https://modrinth.com/mod/rftools-base) 的擴充模組，主要新增儲存系統及所有相關功能。未來將加入遠端儲存與儲存掃描器功能，使本模組發展成為功能完整的儲存系統模組。與 1.12 版本相比，1.14 版本的效能大幅提升，且支援在單一卡片中儲存高達 500 種物品。目前仍為 Alpha 測試版。本模組設計為與其他 RFTools 擴充模組搭配使用，並需依賴 [RFTools Base](https://modrinth.com/mod/rftools-base) 與 [McJtyLib](https://modrinth.com/mod/mcjtylib)。\n\n\n![RFTools Storage UI](https://cdn.modrinth.com/data/tx4M6qRg/images/edf919be85b8338c8a11bf113fa005371a7ba08e.png)\n\n## 整合包\n歡迎在任何整合包中使用本模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

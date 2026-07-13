@@ -1,6 +1,6 @@
 {
-  "bodyHash": "k8XCT1NB1h0=",
-  "content": "<p><span style=\"font-size:24px\"><strong>Trinkets</strong></span></p><p><span style=\"font-size:12px\">一個基於 Fabric，可存取且資料驅動的 Minecraft 飾品模組。</span></p><p><img src=\"https://media.forgecdn.net/attachments/626/565/trinkets.png\" alt=\"Trinkets UI 範例\" width=\"560\" height=\"410\"><span style=\"font-size:24px\"><br>關於 Trinkets</span></p><p>Trinkets 為 Minecraft 新增了插槽群組與插槽系統。插槽群組是針對特定身體部位或較模糊區域的插槽集合。預設有 6 個插槽群組（頭部、胸部、腿部、腳部、非慣用手、慣用手），這些群組可以新增插槽，若有需要也可以加入更多群組。Trinkets 的 UI 直觀易用、可存取，並力求減少雜亂。其系統確保你不會用不到任何插槽，因為模組會自行請求所需的插槽。<span style=\"font-size:12px\"><br></span></p><p><span style=\"font-size:12px\">如何在你的模組中使用 Trinkets 的文件，可於本專案的 Wiki 中找到。</span><span style=\"font-size:12px\"><br></span></p><p>&nbsp;</p>",
+  "bodyHash": "f25bb625b2ef95f0",
+  "content": "\n\n<p><span style=\"font-size:24px\"><strong>Trinkets</strong></span></p>\n<p><span style=\"font-size:12px\">一款基於 Fabric 的 Minecraft 無障礙、資料驅動型配件模組。</span></p>\n<p><img src=\"https://media.forgecdn.net/attachments/626/565/trinkets.png\" alt=\"Trinkets 介面範例\" width=\"560\" height=\"410\"><span style=\"font-size:24px\"><br>關於 Trinkets</span></p>\n<p>Trinkets 為 Minecraft 新增了插槽群組與插槽系統。插槽群組是針對特定身體部位或較廣泛區域的插槽集合。預設提供 6 個插槽群組（頭部、胸部、腿部、腳部、副手、主手），可為其新增插槽，使用者亦可依需求新增更多群組。Trinkets 的介面直觀易用、具備無障礙設計，並致力於消除冗雜內容。該系統確保您不會擁有閒置未用的插槽，因為各個模組會自行請求所需的插槽。<span style=\"font-size:12px\"><br></span></p>\n<p><span style=\"font-size:12px\">有關如何在您的模組中使用 Trinkets 的說明文件，可於此專案的維基網站取得。</span><span style=\"font-size:12px\"><br></span></p>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

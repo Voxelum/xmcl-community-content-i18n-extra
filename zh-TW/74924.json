@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab0df2051fbc7cf1",
+  "content": "\n\n<p><img src=\"https://raw.githubusercontent.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png\" alt=\"https://raw.githubusercontent.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png\" width=\"750\" height=\"250\"><br> 此處包含供 Forge 模組使用的共用程式碼，由史萊姆騎士團維護。說明書程式碼與共用容器介面皆收錄於此。</p>\n<p>為什麼要這麼做？為了科學與史萊姆，不然還能為了什麼？<br> 原始碼可於 <a href=\"https://github.com/SlimeKnights/Mantle\" rel=\"nofollow\">GitHub</a> 找到。</p>\n<p>&nbsp;</p>\n<p>此外，也新增了重新設計的生命值顯示系統，以疊加的彩色紅心取代原本一排排堆疊的傳統樣式。不同的顏色僅在你能夠提升最大生命值時才會出現，一般紅心的顯示方式則維持不變。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a6905ca63602c4af",
+  "content": "\n\n<h2>Productive Trees，无蜜蜂</h2>\n<p>“Productive Trees，无蜜蜂”是《Productive Trees》的一个小型附加模组，通过引入“授粉袋”为玩家提供了一种手动培育树木的方法。</p>\n<p>不再依赖蜜蜂授粉，玩家可以采集一棵成熟树木的树液，将授粉袋悬挂在兼容的树下，加入 Productive Trees 花粉，稍后返回即可收获生成的树苗。</p>\n<h2>功能特性</h2>\n<ul>\n<li>新增授粉袋物品与方块</li>\n<li>允许玩家手动培育 Productive Trees 树苗</li>\n<li>使用 Productive Trees 花粉启动成熟过程</li>\n<li>支持随时间推移的成熟进度</li>\n<li>可使用骨粉加速剩余成熟时间</li>\n<li>可选的 Jade 模组支持可显示来源树木、花粉状态、成熟进度以及袋子何时可收获</li>\n</ul>\n<h2>使用方法</h2>\n<ol>\n<li>合成一个授粉袋。</li>\n<li>在成熟树木的树叶上使用以收集树液。</li>\n<li>将装满树液的袋子放置在兼容成熟树木的树叶下方。</li>\n<li>加入 Productive Trees 花粉。</li>\n<li>等待袋子完成成熟。</li>\n<li>收获新树苗。</li>\n</ol>\n<h2>前置要求</h2>\n<ul>\n<li>Minecraft 1.21.1</li>\n<li>NeoForge 21.1.x</li>\n<li>Productive Trees 1.21.1-1.0.0 或更高版本</li>\n</ul>\n<h2>可选依赖</h2>\n<ul>\n<li>Jade 15.10.x（用于提供额外的游戏内显示信息）</li>\n</ul>\n<h2>注意事项</h2>\n<p>本模组本身不添加新树种。它为 Productive Trees 提供了一种替代的培育方法。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

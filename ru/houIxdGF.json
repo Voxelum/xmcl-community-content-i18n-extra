@@ -1,6 +1,6 @@
 {
-  "bodyHash": "f4V8YqyENYw=",
-  "content": "<p align=\"center\">\n    <img alt=\"Shut Up GL Error\" src=\"https://github.com/JamCoreModding/shut-up-gl-error/blob/1.20.1/banner.png?raw=true\" />\n<p align=\"center\">\n\nПриглушает GL-ошибки, включая логирование недопустимых кодов клавиш, которые вызывают неприятные и постоянные сообщения:\n\n```\n########## GL ERROR ##########\n@ Предрендеринг\n65539: Недопустимый ключ -1\n```\n\nМод можно настроить так, чтобы либо полностью игнорировать ошибки (по умолчанию), либо логировать каждый код ошибки один раз, либо всегда логировать ошибки.\n",
+  "bodyHash": "a0a37b0e870cb4a6",
+  "content": "\n\n<p align=\"center\">\n    <img alt=\"Shut Up GL Error\" src=\"https://github.com/JamCoreModding/shut-up-gl-error/blob/1.20.1/banner.png?raw=true\" />\n<p align=\"center\">\n\nПодавляет ошибки GL, включая раздражающие и постоянные записи в лог для недействительных кодов клавиш:\n\n```\n########## GL ERROR ##########\n@ Pre render\n65539: Invalid key -1\n```\n\nМод можно настроить на полное подавление ошибок (по умолчанию), запись каждого кода ошибки только один раз или постоянное логирование ошибок.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

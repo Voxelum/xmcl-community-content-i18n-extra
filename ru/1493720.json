@@ -1,0 +1,6 @@
+{
+  "bodyHash": "601c7453d5d00ac9",
+  "content": "\n\n<p><span style=\"color:#ba372a\">Этот мод разработан специально для сборки&nbsp;<strong>[TaCZ] Last Offensive</strong>.<br><br></span></p>\n<p>Мод добавляет в игру несколько новых команд:</p>\n<ul>\n<li><strong><code>/playerspawn</code></strong> &mdash; Телепортирует и замораживает игрока в точке его появления (не требует OP).</li>\n<li><strong><code>/tspawn</code></strong> &mdash; Телепортирует игрока и устанавливает точку его появления по указанным координатам (не требует OP).</li>\n<li><strong><code>/tkill</code></strong> &mdash; Убивает пользователя (не требует OP); эту команду также можно привязать к клавише.</li>\n</ul>\n<p><span style=\"color:#ba372a\"><strong>Функции, которые вряд ли понадобятся за пределами [TACZ] Last Offensive:</strong></span></p>\n<ul>\n<li><strong><code>/tgotovo</code></strong> &mdash; Отображает сообщение в зелёном чате: \"[Имя игрока] готов!\" (не требует OP).</li>\n<li><strong><code>/tpoligon</code></strong> &mdash; Телепортирует игрока по координатам <code>-998 0 21 (не требует OP)</code>.</li>\n<li>Вы также можете привязать клавишу к действию <strong><code>/openguiscreen dev</code></strong>.</li>\n</ul>\n<p><span style=\"color:#ba372a\">&nbsp;</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

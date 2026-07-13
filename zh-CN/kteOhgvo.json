@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9b3d95f8e852af95",
+  "content": "\n\n本模组略微调整了落叶的移动逻辑，使每一片叶子都拥有独一无二的下落轨迹。所有详细设置均可在游戏内的配置界面中实时进行调整。\n\n*   Fabric版本需安装 ModMenu 才能打开配置界面。\n*   在 1.21.5 以下版本中，单独安装本模组仅会修改樱花树叶的下落轨迹；但若同时安装了 Falling Leaves 模组，其叶片轨迹也会一并被修改。请注意，本模组与 1.21.5 及以上版本的 Falling Leaves 不兼容。\n  \n![示例](https://resource-api.xyeidc.com//client/members/pics/02c0c1cf)\n\n如有其他想法或建议，欢迎随时反馈！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

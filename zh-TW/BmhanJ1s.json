@@ -1,6 +1,6 @@
 {
-  "bodyHash": "5l+Gs5DD0pM=",
-  "content": "# SkyBlock\n\n一個基礎空島生存的實作，在生成所有方塊和實體 <br/>\n後將其 _移除_，以確保結構 <br/>\n的邊界框保留在原始位置，但在 <br/>\n區塊被照亮之前完成，這樣每個區塊就不必重新照亮。<br/>\n***+entities***（-e）版本 _不_會移除實體，雖然它們 <br/>\n會掉進虛空。可以使用飛行機械捕捉它們。<br/><br/>\n你可以找到重建的原始<br/>\n空島生存 2.1 地圖，種子碼：-5013545841426130646<br/>\n網址：https://www.mediafire.com/folder/n7a7x0gkdvunw/Skyblock <br/>\n<br/><br/>\n***警告：*** 啟用此模組時，請勿開啟任何 1.18 以前的地圖！<br/>\n在從 1.18 前版本轉換到 1.18 後版本時，模組會移除舊區塊中的<br/> 所有方塊和實體。<br/> 請先移除模組，轉換你的地圖，然後再重新<br/> 加入模組。<br/>\n在任何 1.18 後版本之間更新應該是沒問題的，不過我<br/> 建議事先備份你的地圖。<br/><br/>\n\n# 安裝方式\nFabric 安裝器：https://fabricmc.net/use/\n\n如果你在安裝過程中的任何部分遇到問題，<br/>我寫了一份逐步教學：<br/>\nhttps://docs.google.com/document/d/1BWKdWrVqP9K3t1T7GJG-C6UjfWvbO4MiADr9DMjai00/ <br/>\n該教學是針對 1.18 撰寫的，但步驟適用於<br/>後續版本。<br/>\n你也可以在 YouTube 上觀看許多模組安裝教學影片。",
+  "bodyHash": "c47ae5f3afc42990",
+  "content": "\n\n# SkyBlock\n這是一個基礎的 SkyBlock 實作，所有方塊與實體會在生成 _之後_ 被移除 <br/>\n以確保結構的<br/>\n碰撞箱能保留在原始位置，但在區塊<br/>\n照明之前執行，因此無需重新照亮每個區塊。 <br/>\n***+entities*** (-e) 版本 _不會_ 移除實體，儘管它們 <br/>\n仍會掉入虛空。你可以使用飛行機器來捕獲它們。<br/><br/>\n你可以在以下網址找到原始<br/>\nSkyBlock 2.1 地圖的重製版，種子代碼：-5013545841426130646<br/>\nhttps://www.mediafire.com/folder/n7a7x0gkdvunw/Skyblock <br/>\n<br/><br/>\n***警告：*** 請勿在啟用此模組的情況下開啟任何 1.18 版本之前的世界！<br/>\n在將世界從 1.18 之前轉換至之後的過程中，此模組會移除所有<br/>\n方塊與實體\n在舊區塊中。<br/> 請先移除模組、轉換世界，然後再重新安裝 \n模組。<br/>\n更新 1.18 之後的版本之間通常沒問題，但我仍<br/> \n建議你事先備份你的世界。 <br/><br/>\n\n# 安裝方式\nFabric 安裝程式：https://fabricmc.net/use/\n\n如果在安裝過程中遇到任何問題， <br/>\n我提供了一份逐步操作指南：<br/>\nhttps://docs.google.com/document/d/1BWKdWrVqP9K3t1T7GJG-C6UjfWvbO4MiADr9DMjai00/ <br/>\n該教程是為 1.18 版本撰寫的，但步驟與 <br/>\n後續版本相同。 <br/>\n你也可以在 YouTube 上觀看許多其他模組安裝教學影片。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

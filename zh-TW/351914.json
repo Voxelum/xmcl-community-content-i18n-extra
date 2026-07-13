@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f7fbec04c776e8de",
+  "content": "\n\n<p>原名 mGui。</p>\n<p>&nbsp;</p>\n<p>包含：</p>\n<ul>\n<li>輕鬆的資料管理</li>\n<li>網路工具</li>\n<li><span>支援動畫與基於錨點的佈局系統的分層 UI 渲染</span></li>\n<li><span>特典查詢</span></li>\n</ul>\n<p>&nbsp;</p>\n<p>主要用於&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/tetra\" target=\"_blank\" rel=\"nofollow\">tetra</a>。</p>\n<p>&nbsp;</p>\n<h3>特典</h3>\n<p>mutil 在 Minecraft 1.19+ 版本中內建了特典系統，tetra（以及未來可能推出的其他模組）會使用此系統來提供外觀。當客戶端啟動時，此系統會向外部伺服器查詢該玩家是否擁有應有的特典；查詢內容包含玩家的 UUID，並採用 SSL 以確保連線安全。</p>\n<p>若欲停用此功能，可在&nbsp;<strong>mutil-client.toml</strong> 設定檔中將 <strong>query_perks&nbsp;</strong> 選項設為 <strong>false,&nbsp;</strong>由於設定檔會在啟動時自動生成，我已準備好這份 <a href=\"https://gist.github.com/mickelus/33814937088d2ca436e32e344d324921\" target=\"_blank\" rel=\"nofollow\">設定檔</a>，您可以將其放置於 config 資料夾中，以避免 mutil 在首次啟動時執行特典查詢。</p>\n<p>如果您有任何問題或改進建議，歡迎隨時在 Discord 上與我聯繫。&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

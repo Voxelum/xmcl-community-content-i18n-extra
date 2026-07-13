@@ -1,6 +1,6 @@
 {
-  "bodyHash": "fWdmOa7VvHU=",
-  "content": "# 什么是 Radium？\n这是 CaffeineMC 的 [Lithium](https://modrinth.com/mod/lithium) 模组在 Forge 上的一个非官方分支\n\n# Canary（金丝雀）\nCanary 本质上只是禁用了部分重要的 Lithium 优化功能，此外 Canary 是一个硬分叉，且上游版本更新较慢，我们的处理方式有所不同。\n\n# 模组包使用许可\n这是一个免费且开源的项目；只要您注明出处，即可将其放入您的整合包中！\n\n# 常见问题\n+ **如有其他任何疑问，请通过我们的 [Discord](https://discord.gg/UCsyn5RS4s \"Discord\") 频道联系我们！**",
+  "bodyHash": "f0026d136bf6e461",
+  "content": "\n\n# Radium 是什么？\n基于 Forge 的 [Lithium](https://modrinth.com/mod/lithium)（由 CaffeineMC 开发）的非官方分支\n\n# Canary\nCanary 基本上只是禁用了 Lithium 的部分重要优化。此外，由于 Canary 属于硬分叉，且向主仓库升级的速度较慢，因此我们的开发方向有所不同。\n\n# 模组整合包使用许可\n本项目为免费开源软件；只要注明出处，即可将其加入你的模组整合包中！\n\n# 常见问题\n+ **如有其他疑问，请联系我们的 [Discord](https://discord.gg/UCsyn5RS4s \"Discord\")！**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

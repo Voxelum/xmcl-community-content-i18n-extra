@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Ser1a0h24/o=",
-  "content": "<h3 style=\"text-align:left\"><strong>VulkanMod</strong></h3><p>&nbsp;</p><p>这是一款将Minecraft的OpenGL渲染器替换为使用Vulkan API的优化渲染器的模组。</p><p>其主要目的是提升性能。</p><p>&nbsp;</p><p>&nbsp;</p><p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/sbr7UxcAmOE?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p><p>&nbsp;</p><h2>安装方法</h2><p>&nbsp;</p><h4>系统要求</h4><p><br>- 设备（GPU）需支持Vulkan<br>- 需要Fabric加载器</p><p>&nbsp;</p><h4>安装步骤</h4><p>&nbsp;</p><ul>\n<li>需要安装Fabric模组加载器。</li>\n<li>将&nbsp;<code>VulkanMod.jar</code>&nbsp;移动到你的Minecraft实例的&nbsp;<code>mods</code>&nbsp;文件夹中。</li>\n</ul><p>&nbsp;</p><h4>更多信息请查看 <a href=\"https://github.com/xCollateral/VulkanMod\" target=\"_blank\" rel=\"nofollow\">Github</a></h4>",
+  "bodyHash": "4cbd784f476e50f4",
+  "content": "\n\n<h3 style=\"text-align:left\"><strong>VukanMod</strong></h3>\n<p>&nbsp;</p>\n<p>这是一款 Minecraft 模组，它将 Minecraft 的 OpenGL 渲染器替换为采用 Vulkan API 的优化渲染器。</p>\n<p>其主要目的是提升性能。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/sbr7UxcAmOE?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p>\n<p>&nbsp;</p>\n<h2>安装</h2>\n<p>&nbsp;</p>\n<h4>要求</h4>\n<p><br>- 支持 Vulkan 的设备（GPU）<br>- Fabric 加载器</p>\n<p>&nbsp;</p>\n<h4>步骤</h4>\n<p>&nbsp;</p>\n<ul>\n<li>需要 Fabric 模组加载器。</li>\n<li>将&nbsp;<code>VulkanMod.jar</code>&nbsp;移至&nbsp;<code>mods</code>&nbsp;文件夹（位于你的 Minecraft 实例目录中）。</li>\n</ul>\n<p>&nbsp;</p>\n<h4>如需更多信息，请查看 <a href=\"https://github.com/xCollateral/VulkanMod\" target=\"_blank\" rel=\"nofollow\">Github</a></h4>",
   "contentType": "text/html",
   "type": "curseforge"
 }

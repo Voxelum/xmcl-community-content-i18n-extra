@@ -1,0 +1,6 @@
+{
+  "bodyHash": "186a7c3c4589702a",
+  "content": "\n\n<h1>Ducky Peripherals</h1>\n<p>Дополнительный мод периферии для ComputerCraft.</p>\n<p>Подробнее см. на <a href=\"https://github.com/SamsTheNerd/ducky-periphs/wiki\" rel=\"nofollow\">вики</a>.</p>\n<h2>Новые компоненты</h2>\n<ul>\n<li>Машина погоды — получает данные о погоде</li>\n<li>Детектор сущностей — обнаруживает мобов</li>\n<li>Клавиатура — щёлк-щёлк, она может быть цветной!</li>\n<li>Резиновые уточки — расскажите им свой код, возможно, они помогут</li>\n<li>Скалкфон — аналог скалк-сенсора, но для вашего компьютера</li>\n<li>Фокусный порт — чтение и запись йот между CC и Hex Casting</li>\n</ul>\n<h2>Интеграция с модами</h2>\n<ul>\n<li>ComputerCraft: Restitched (<strong>Обязателен</strong>)</li>\n<li>Hex Casting (необязательно)</li>\n<li>Tech Reborn (добавляет дополнительные рецепты крафта)</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

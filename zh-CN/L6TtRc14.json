@@ -1,0 +1,6 @@
+{
+  "bodyHash": "718c7a11443bcd6d",
+  "content": "\n\n<h1 align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/xhyrom/e4mc-retro/refs/heads/1.9-1.12.x/.github/logo.png\" alt=\"e4mc 缩略图\" width=\"300\">\n</h1>\n\n\n**e4mc Retro** 是 [e4mc](https://modrinth.com/mod/e4mc) 模组的回溯移植版本，让你能够通过互联网向任何人开放你的 Minecraft 局域网世界 —— 即使在使用旧版 Minecraft 时也不例外。\n\n## e4mc 是什么？\n\ne4mc 是一款用于 Minecraft 的反向隧道代理。简单来说，它是一款能让你临时将本地 Minecraft 服务器暴露给互联网的软件。\n\n## 如何使用？\n\n只需安装该模组，然后像往常一样点击“对局域网开放”。本地端口旁会显示一个公网域名。其他人只需直接连接该公网域名，即可访问你的局域网服务器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

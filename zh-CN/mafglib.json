@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1f836be9629573da",
+  "content": "\n\n# MaFgLib\n\n**本模组在 1.20.4 ~ 1.20.6 以及 1.21.x 的 0.2.3 及以下版本中需要 [BadPackets](https://modrinth.com/mod/badpackets)。**\n\n<img alt=\"neoforge\" height=\"56\" src=\"https://raw.githubusercontent.com/KessokuTeaTime/badges-extra/main/assets/cozy/supported/neoforge_vector.svg\">\n<img alt=\"forge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\">\n\n<a href=\"https://modrinth.com/mod/mafglib\">\n<img alt=\"modrinth\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg\">\n</a>\n\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/mafglib\">\n<img alt=\"curseforge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg\">\n</a>\n\n本模组是 Masa 模组代码库的 (Neo)Forge 移植版，主要包含所有可配置选项、按键绑定系统、支持实现大部分 GUI 代码的功能以及其他供其他模组使用的实用组件（已在此基础中添加 ModConfigScreenRegister 用于注册配置界面）。\n\n[MaLiLib](https://modrinth.com/mod/malilib) 是 Masa's Litemods Library 的缩写，Forge 移植版沿用此命名规范，目前称为 MaFgLib（Masa 模组 Forge 移植版库）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

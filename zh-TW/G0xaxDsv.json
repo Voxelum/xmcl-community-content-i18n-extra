@@ -1,0 +1,6 @@
+{
+  "bodyHash": "12992205184bb144",
+  "content": "\n\n### 關於\n\nAalu Shaders 是一款輕量化且適合低配備的着色器，專為追求流暢幀率與出色視覺效果的玩家打造。開發時高度著重效能優化，能在提供豐富功能的同時，避免大幅影響遊戲效能。內建智慧自動曝光機制，可自動提升暗部亮度並壓制過亮區域，呈現更自然的畫面。此外，它還支援寫實的水面反射與各項視覺增強，同時確保在低階裝置上也能流暢運行。\n\n**主要功能：**\n\n- 動態模糊\n- 自動曝光\n- 水面反射\n- 景深 (DOF)\n\n[![DONATE](https://cdn.modrinth.com/data/cached_images/9ca53108869b47e9b29971eff953dd04427ebac8_0.webp)](https://buymeachai.ezee.li/gamesofdev)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

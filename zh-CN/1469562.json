@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a43fe25293b70a7b",
+  "content": "\n\n<p><span style=\"font-size:18px\">这是一个为&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/harrowing-hells\" rel=\"nofollow\">Harrowing Hells</a>、<a href=\"https://www.curseforge.com/minecraft/mc-mods/boss-checklist\" rel=\"nofollow\">Boss Checklist</a>&nbsp;和 <a href=\"https://www.curseforge.com/minecraft/mc-mods/field-guide\" rel=\"nofollow\">Field Guide</a> 提供的附加模组，旨在将前者的 Cinderscourge boss 整合到后两者的 Boss 清单界面中作为一条记录。</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:14px\"><strong>“你是怎么做到的？Harrowing Hells 明明是一个以模组形式打包的数据包！”</strong></span></p>\n<p><span style=\"font-size:14px\">首先，该模组添加了一个虚假的、无法刷新的替代实体，作为你所见记录的底层基础。条目中展示的自定义掉落物（Nether Dwarf Star）同样也是虚假且无法获取的物品，仅用于还原原版效果。一旦服务器检测到 boss 实例死亡，该 boss 的条目便会自动勾选标记。</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:14px\"><strong>“为什么这个没有和其他 Boss Checklist/Field Guide 附加模组打包在一起？”</strong></span></p>\n<p><span style=\"font-size:14px\">本模组使用了上述由模组自身添加的虚假实体。因此，无论你是否实际安装了 Harrowing Hells，该模组添加的 boss 条目都会显示出来。尤其是在 Boss Checklist 的情况下，你不希望你的整合包出现玩家四处好奇地寻找“Cinderscourge”，结果到后面才发现他们最初根本没有安装声称支持该 boss 的模组的情况吧。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

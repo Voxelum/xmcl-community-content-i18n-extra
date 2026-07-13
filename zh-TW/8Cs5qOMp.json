@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f0373a12eb81331c",
+  "content": "\n\n`Beacons For All` 是一款模組，讓信標的影響範圍不再限於玩家。透過設定檔，玩家可以設定信標是否會同時影響已馴服生物、被動生物或所有生物。所有原本會套用至附近玩家的信標效果，現在也會同時套用於指定類型的附近生物上。\n\n### 設定選項\n* 生物類型 - 指定信標是否可以影響所有已馴服生物、所有被動生物或任何生物。\n* 生物列表 - 指定可以被信標影響的特定生物。\n\n## 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

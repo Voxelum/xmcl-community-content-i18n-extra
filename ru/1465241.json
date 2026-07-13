@@ -1,0 +1,6 @@
+{
+  "bodyHash": "930ef8487f5bbccc",
+  "content": "\n\n<ul>\n<li>Это форк, содержащий только генерацию мира, популярного мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-molten-vents\" target=\"_blank\" rel=\"nofollow\">Create: Molten Vents</a>.</li>\n<li>Он добавляет исключительно функцию генерации магматических шахт, ничего более.</li>\n<li>Проект предназначен <strong>только для разработчиков модпаков</strong>, которым необходима генерация шахт, но нужен альтернативный способ добычи руды из них.</li>\n<li>Он не содержит никаких стандартных шахт.</li>\n<li><a href=\"https://github.com/Apothicon02/Create-Molten-Vents/tree/main/src/main/resources/data/molten_vents\" target=\"_blank\" rel=\"nofollow\">Здесь</a> приведён пример пользовательской настройки шахты. Если соответствующие блоки отсутствуют в базовой игре или в других модах, вам потребуется зарегистрировать их самостоятельно (например, через KubeJS).</li>\n<li>Я не претендую на авторство оригинального мода. Вся благодарность <a href=\"https://github.com/Apothicon02\" target=\"_blank\" rel=\"nofollow\">Apothicon02</a> за создание столь потрясающей разработки.</li>\n<li>Да, это маркированный список, так как никто не любит читать длинные абзацы.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

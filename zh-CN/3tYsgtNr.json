@@ -1,6 +1,6 @@
 {
-  "bodyHash": "N/fKR7AC5ZM=",
-  "content": "![title](https://cdn.modrinth.com/data/3tYsgtNr/images/2871d3c23629e9bcfa97c15d0ad9162a1ccefa17.jpeg)\n## 目录\n![banner1](https://cdn.modrinth.com/data/3tYsgtNr/images/b32cb2e1a69c868962ff03ca60bda749c642da81.png)\n\n本模组是 TACZ 与 LesRaisins 战术装备的扩展包，将《三角洲行动》中的一些热门近战武器添加到了游戏中。  \n目前包含六款精良的动画/模型武器：\n\n- 眼镜蛇\n- 先锋\n- 仁慈\n- 德穆兰之锋\n- 海光\n- TAC 匕首\n\n## 依赖模组\n![banner2](https://cdn.modrinth.com/data/3tYsgtNr/images/b1cd8e4b7fd02d5f5e88c95e90abd06aa3397600.png)\n\n这是一个模组，请将 `.jar` 文件放入 `mods` 文件夹，而非 tacz 枪械包路径。运行本模组需要 **tacz 1.1.6+** 和 **lesraisins tactical 0.3.0+** 作为前置依赖。",
+  "bodyHash": "ad685dba911fbeca",
+  "content": "\n\n![title](https://cdn.modrinth.com/data/3tYsgtNr/images/2871d3c23629e9bcfa97c15d0ad9162a1ccefa17.jpeg)\n## 简介\n![banner1](https://cdn.modrinth.com/data/3tYsgtNr/images/b32cb2e1a69c868962ff03ca60bda749c642da81.png)\n\n本模组扩展包专为 TACZ 与 LesRaisins Tactical Equipments 打造，将《三角洲部队》（Delta Force）中几款人气近战武器加入了游戏。  \n目前包含六款动画与建模制作精良的武器：\n- Cobra \n- Vanguard \n- Mercy \n- Desmoulins' Edge \n- Sea Gleam \n- TAC Dagger\n\n## 依赖项\n![banner2](https://cdn.modrinth.com/data/3tYsgtNr/images/b1cd8e4b7fd02d5f5e88c95e90abd06aa3397600.png)\n\n这是一个 MOD 扩展包，请将 `.jar` 文件放入 `mods` 文件夹中，切勿放入 TACZ 枪械包的目录路径下。运行此 MOD 需要已安装 **TACZ 1.1.6+** 与 **LesRaisins Tactical 0.3.0+** 或以上版本作为前置依赖。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

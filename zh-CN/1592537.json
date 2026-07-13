@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cef2db9fb74a131f",
+  "content": "\n\n<p>安全火炮</p>\n<p><strong>发射你拥有的每一门火炮 &mdash; 你的建筑安然无恙。</strong></p>\n<p>安全火炮是 Create Big Cannons 的一个插件，为其弹药添加了地形安全版本。每种炮弹和弹丸都会对生物和玩家造成全额伤害，但绝不会损坏、破坏、转换或修改任何方块 &mdash; 没有弹坑，没有烧焦的地面，没有液体移位，也不会在地表引发火灾。</p>\n<p>非常适合用于<strong>PvP竞技场、战争服务器、攻城小游戏、防破坏设置以及电影级建筑</strong>，让你既能体验火炮的壮观场面，又不会破坏地图结构。</p>\n<p><strong>弹药（共14种）</strong></p>\n<p><strong>自动火炮</strong><br>- 基础弹<br>- 穿甲弹<br>- 击退弹<br>- 防空弹</p>\n<p><strong>巨型火炮</strong><br>- 实心弹 &middot; 穿甲弹<br>- 高爆弹 &middot; 穿甲高爆弹<br>- 烟雾弹<br>- 臼石 &middot; 空投臼弹<br>- 破片弹 &middot; 葡萄弹袋<br>- 流质弹（液滴仍会对实体生效 &mdash; 例如岩浆会灼烧生物 &mdash; 但不会在地面放置液体或引发火灾）</p>\n<p><strong>功能特性</strong><br>- 可引信炮弹 &mdash; 可像原版CBC一样安装瞬发/近炸/定时引信<br>- 预装引信变体 &mdash; 直接从创造模式标签页取出即可发射<br>- 合成配方 &mdash; 使用羊毛即可将任意CBC弹药转化为安全版本<br>- 专属且分类清晰的创造模式标签页<br>- 完整的<strong>英文 &amp; 法文</strong>翻译支持</p>\n<p><strong>前置要求</strong><br>- Minecraft <strong>1.21.1</strong><br>- NeoForge (21.1.233)<br>- Create<br>- Create Big Cannons<br>- Ritchie's Projectile Library</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

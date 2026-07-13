@@ -1,0 +1,6 @@
+{
+  "bodyHash": "72ea12338015f078",
+  "content": "\n\n<h3>天气物理</h3>\n<p>本模组为 Weather2（Weather, Storms &amp; Tornadoes）与 Sable 子结构物理添加了兼容性支持。</p>\n<h3>目前已添加的功能：</h3>\n<ul>\n<li>龙卷风可牵引子结构，并迫使其进入漩涡运动</li>\n<li>物理效果取决于龙卷风的强度阶段</li>\n<li>龙卷风可摧毁船体方块，或将船只拆解为物理对象</li>\n<li><strong>全子结构的风力物理</strong></li>\n<li><strong>Create 模组风车帆的航行物理</strong></li>\n<li>物理与破坏逻辑完全可配置</li>\n</ul>\n<h3>前置需求</h3>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes\" target=\"_blank\" rel=\"nofollow\">Weather, Storms &amp; Tornadoes</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/coroutil\" target=\"_blank\" rel=\"nofollow\">CoroUtil（Weather2 前置依赖）</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/sable\" target=\"_blank\" rel=\"nofollow\">Sable</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

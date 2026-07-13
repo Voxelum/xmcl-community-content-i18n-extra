@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2c0f343212641569",
+  "content": "\n\n# AppliedSchematics\n\n一款连接 [Create](https://modrinth.com/mod/create) 的图纸大炮与 [Applied Energistics 2](https://modrinth.com/mod/ae2) 的 ME 网络的 Minecraft 模组，允许图纸大炮直接从你的 ME 系统中获取建筑材料。\n\n改编自 [Beyond Dimensions](https://modrinth.com/mod/beyonddimensions) 的 Create 整合内容。\n\n## 功能\n\n- **ME 图纸大炮通路** - 一种新方块，充当图纸大炮与 ME 网络之间的中介。\n- 将通路方块放置在图纸大炮旁边，并用线缆将其连接到你的 ME 网络。\n- 通路会自动读取图纸大炮的材料清单，并从 ME 存储中暴露所需物品。\n- 图纸大炮运行时按需从 ME 网络中提取物品——无需手动补货。\n- 支持同时连接多个相邻的图纸大炮。\n- 该物品会显示在 AE2 的创造模式标签页中。\n\n## 前置要求\n\n| 依赖 | 版本 |\n|---|---|\n| Minecraft | 1.21.1 |\n| NeoForge | 21.1+ |\n| Applied Energistics 2 | 19.2.17+ |\n| Create | 6.0.10+ |\n| Kotlin for Forge | 5.3.0+ |\n\n## 许可证\n\n本项目采用 [AGPLv3](LICENSE) 许可证。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

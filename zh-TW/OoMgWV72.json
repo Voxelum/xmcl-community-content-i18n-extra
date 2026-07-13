@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Da4h/6Pv6RU=",
-  "content": "---\n\n<a href=\"https://www.xdpxi.dev/neyhost\" target=\"_blank\">\n  <img src=\"https://www.xdpxi.dev/imgs/neyhost-banner.png\"/>\n</a>\n\n你是否曾想擁有自己的 **Minecraft 伺服器**，卻不知道從何開始？NeyHost 讓你能輕鬆建立符合各種用途的伺服器，無需任何技術經驗。立即開始使用，輸入我的優惠碼 `XDPXI` 即可**首月享 30% 折扣**！\n\n[前往 NeyHost](https://www.xdpxi.dev/neyhost)\n\n---\n\n**未經 FabricMC 認可或與其相關。**\n\n## 描述\n\n本模組提供一個假的 Fabric Loader，用以滿足那些需要特定 Fabric Loader 版本（但你不想使用或無法使用）的模組。\n\n## 範例（我的使用情境）\n\nRRLS 需要最新版本的 Fabric Loader。如果你正在使用 Quilt，Fabric Loader 的更新通常會延遲，有時甚至永遠不會到來。這時本模組就能派上用場；它偽裝成所需的 Fabric Loader 版本已存在，讓 RRLS 能順利執行。\n\n## 選擇版本\n\n每個版本號對應特定的 Fabric Loader 版本。所有版本在功能上完全相同，僅回報的版本號有所差異。",
+  "bodyHash": "fe45ff7f101bb8d0",
+  "content": "\n\n---\n\n<a href=\"https://www.xdpxi.dev/neyhost\" target=\"_blank\">\n  <img src=\"https://www.xdpxi.dev/imgs/neyhost-banner.png\"/>\n</a>\n\n你是否曾經想要擁有自己的 **Minecraft 伺服器**，卻不知道從何開始？NeyHost 讓你能輕鬆為各種用途建立伺服器，無需具備任何技術經驗。今天就來體驗吧！使用我的優惠碼 `XDPXI` 即可享受 **首月 7 折（減免 30%）**！\n\n[瀏覽 NeyHost](https://www.xdpxi.dev/neyhost)\n\n---\n\n**本專案未獲 FABRICMC 官方認可或與其關聯。**\n\n## 說明\n\n此模組提供了一個模擬的 Fabric Loader，以滿足那些要求特定版本 Fabric Loader（但你不想或無法使用該版本）的模組需求。\n\n## 範例（我的使用情境）\n\nRRLS 需要最新版本的 Fabric Loader。如果你使用的是 Quilt，Fabric Loader 的更新通常會延遲，有時甚至永遠不會到來。這就是這個模組派上用場的地方；它會偽裝成已安裝所需的 Fabric Loader 版本，讓 RRLS 能夠順利運行而不會出現問題。\n\n## 選擇版本\n\n每個發行版都對應特定的 Fabric Loader 版本。所有版本在功能上完全相同，僅有回報的版本號碼不同。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

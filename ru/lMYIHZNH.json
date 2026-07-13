@@ -1,6 +1,6 @@
 {
-  "bodyHash": "uBxqrL83YNk=",
-  "content": "Этот проект может значительно улучшить ваш FPS при использовании ShaderPacks в игре Create6.0.\n\nЭтот проект напрямую изменяет код Create, и есть план объединить оптимизированный код с официальным. Если код будет объединён, этот проект будет прекращён.\n\nУлучшение FPS достигается за счёт использования API Sodium и отсечения задних граней.\n\n**1.21.1 требует Sodium и Iris**\n\n**1.20.1 требует Embeddium и Oculus**\n\nПроверьте мой другой мод для повышения FPS — Flerovium\n\nРекомендую с ImmediateFast\n\nShaderpack с 512 водяными колёсами\n\n7 fps → 35 fps\n![До](https://cdn.modrinth.com/data/cached_images/120598500012bb331cb5c2989d62fa53e02c4054.jpeg)\n![После](https://cdn.modrinth.com/data/cached_images/a73d8344bfe1448cd21b5c38cdce22d4c5096691.jpeg)\n",
+  "bodyHash": "4d55d00efe7b7298",
+  "content": "\n\nЭтот проект может значительно повысить ваш FPS при использовании шейдерпаков в Create 6.0.\n\nПроект напрямую модифицирует код Create, и планируется слияние оптимизированных изменений с официальной версией. В случае слияния данный проект будет заброшен.\n\nУлучшение FPS достигается за счёт использования API Sodium и отсечения невидимых граней (backface culling).\n\n**Для 1.21.1 требуются Sodium и Iris**\n\n**Для 1.20.1 требуются Embeddium и Oculus**\n\nТакже посмотрите мой другой FPS-мод — Flerovium\n\nРекомендуется использовать совместно с ImmediatelyFast\n\nШейдерпак с 512 водяными колёсами\n\n7 fps -> 35 fps\n![До](https://cdn.modrinth.com/data/cached_images/120598500012bb331cb5c2989d62fa53e02c4054.jpeg)\n![После](https://cdn.modrinth.com/data/cached_images/a73d8344bfe1448cd21b5c38cdce22d4c5096691.jpeg)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

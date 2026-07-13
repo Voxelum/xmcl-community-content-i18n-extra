@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd973096ddd134c3",
+  "content": "\n\n<h2>将被 <em>Loconautics</em> 取代，后续开发已停止</h2>\n<h2>模组：</h2>\n<p>通过利用 <em>Sable</em> 子层级（类似 <em>Create Aeronautics</em>），本模组允许你在列车内部进行交互，甚至构建一个功能完整的 <em>Create</em> 基地。</p>\n<h2>使用方法：</h2>\n<p>像往常一样组装你的列车。组装完成后，方块将被转换为子层级，每节车厢生成一个子层级（注意：目前此转换适用于除控制器外的所有方块）。</p>\n<ul>\n<li>控制列车：使用副手的扳手右键点击控制器。</li>\n<li>重置列车：使用主手的扳手右键点击金色判定框。</li>\n</ul>\n<h2>状态：Beta</h2>\n<p>请注意，目前该功能仍处于初步实现阶段。</p>\n<h2>开发路线图：</h2>\n<ul>\n<li><del>重构代码库以改善视觉效果</del></li>\n<li>将列车交互重定向至子层级</li>\n<li>加入&nbsp;<em>Create: Train Transmission</em> 的功能</li>\n<li>列车拆解&nbsp;</li>\n<li>脱轨物理效果</li>\n<li>模组兼容（<strong>计划中</strong>）：<ul>\n<li>Railways Untold</li>\n<li>Create: Train Physics</li>\n<li>Steam 'n' Rail Neoforge</li></ul></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "92df26b4d80f8415",
+  "content": "\n\n<p><span style=\"font-size: 14px;\">Этот мод настолько прост, как и звучит.</span><br /><br /><span style=\"font-size: 14px;\">Позволяет видеть ваши координаты и направление в левом нижнем углу.</span></p>\n<p><span style=\"font-size: 14px;\">&nbsp;</span></p>\n<p><span style=\"font-size: 14px;\">Очень полезен, если вы хотите играть с reducedDebugInfo, но при этом иметь удобный способ получения координат.</span></p>\n<p><span style=\"font-size: 14px;\">&nbsp;</span></p>\n<p><span style=\"font-size: 14px;\">По умолчанию координата Y не отображается.</span><br /><br /><span style=\"font-size: 14px;\"><strong>Требуется только на стороне клиента, установить на сервере невозможно.</strong></span></p>\n<p><img src=\"https://i.imgur.com/TKacneX.png\" width=\"854\" height=\"480\" /></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

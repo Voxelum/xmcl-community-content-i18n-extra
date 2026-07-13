@@ -1,0 +1,6 @@
+{
+  "bodyHash": "36de75d4fb23d150",
+  "content": "\n\n<div>\n<h1>Ragdoll 与 Armourers Workshop 兼容修复</h1>\n<a href=\"https://github.com/TanukiBearMan/RagdollArmourersWorkshopFix#ragdoll-armourers-workshop-fix\" rel=\"nofollow\"></a></div>\n<p>适用于 Armourer's Workshop 和 Sable Player Ragdoll 的 NeoForge 1.21.1 客户端兼容性修复。</p>\n<div>\n<h2>修复内容</h2>\n<a href=\"https://github.com/TanukiBearMan/RagdollArmourersWorkshopFix#what-it-fixes\" rel=\"nofollow\"></a></div>\n<p>当穿着 Armourer's Workshop 服装的玩家进入 Sable Player Ragdoll 状态时，Sable 会为布偶模型的每个身体部位单独渲染一次原版玩家外观图层。由于 Armourer's Workshop 会将全套服装渲染器作为图层之一加入，导致服装被重复绘制，使布偶模型呈现出视觉上的重叠错乱效果。</p>\n<p>本模组会屏蔽不属于当前渲染的 Sable 布偶身体部位的 Armourer's Workshop 外观部件。服装在视觉上会正确附着于对应的布偶肢体上，而非在每个部位都重复渲染整套服装。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

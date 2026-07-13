@@ -1,6 +1,6 @@
 {
-  "bodyHash": "PIjpyZ40bcU=",
-  "content": "<p>這個模組為 Sable 物理庫（如 create aeronautics 等）中的 copycat+ 方塊添加了合理的 kpg（質量）。它包含了 copycats+ 中所有方塊的 kpg，包括像 copycat 層板這類方塊，層數越多 kpg 就越高。</p><p>這個模組的設計是讓你的 copycat+ 方塊擁有更合理的重量。如果你發現某個方塊的質量應該按比例調整卻沒有調整，或者質量不合理，可以留言，我會進行修復。</p><p>&nbsp;</p>",
+  "bodyHash": "46d4d80dbc778850",
+  "content": "\n\n<p>此模組為 Sable 物理庫的 Copycat+ 方塊加入了合理的 kpg（質量）<br>（適用於 Create 航空模組等）。它涵蓋了 Copycat+ 中的所有方塊，包含如 Copycat 層這類「層數越多，kpg 越高」的方塊。</p>\n<p>設計此模組的目的是讓你的 Copycat+ 方塊具備更合理的重量。若你發現某些方塊的質量應該隨結構增加卻未調整，或數值不合理，歡迎留言告知，我會進行修正。</p>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

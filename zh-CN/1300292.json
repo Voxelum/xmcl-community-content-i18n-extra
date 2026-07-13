@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f0df9706f330ed07",
+  "content": "\n\n<p><img src=\"https://raw.githubusercontent.com/LIUKRAST/SmartBounds/refs/heads/master/images/chain_conveyors.png\" alt=\"传送带有什么问题\">\n本模组旨在缩减 Create 方块实体庞大且多余的 <a href=\"#what-are-render-bounds\" rel=\"nofollow\">渲染范围</a>。\n你可以使用命令 <code>/neoforge debug_blockentity_renderbounds true</code> 来查看 NeoForge 的方块实体渲染范围。</p>\n<p>它还对部分方块实体渲染范围的 <a href=\"#render-bounds-caching\" rel=\"nofollow\">缓存机制</a> 进行了重构。</p>\n<p>这是一个相当微小的优化，但在大型机械装置和大型机器区域中，它能带来显著的帧数提升。</p>\n<p>我们目前支持：</p>\n<ul>\n<li>机械臂</li>\n<li>传送带</li>\n<li>链式传送带</li>\n<li>工厂面板</li>\n<li>PSI 与部署者</li>\n<li>滚轮</li>\n<li>青蛙端口</li>\n</ul>\n<h2>什么是渲染范围？</h2>\n<p>通常，为了优化性能，所有位于屏幕后方或外部的方块都不会被渲染，以避免不必要的计算。\n普通方块的渲染范围固定为 3x3 区域，但方块实体在此方面是可自定义的。\n原因是什么？很简单，因为有些东西比单个方块要大。例如，链式传送带需要更大的渲染包围盒来显示链条的连接处。\n问题在于，Create 模组很多时候倾向于“宁大勿小”，直接膨胀整个区域。这导致大部分方块实体即使完全不可见也会被渲染。</p>\n<h2>渲染范围缓存</h2>\n<p>包围盒并非每一帧都重新生成，因为方块只需在特定事件发生时才需要更改其包围盒。\n本模组也对此进行了优化，移除了部分方块（如传送带）无用的包围盒重载。这些方块之前会在每个游戏刻（每秒 20 次）重新加载包围盒。\n现在它们仅在游戏块被破坏并重新放置时才会更新，从而有效减少了卡顿。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

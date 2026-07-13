@@ -1,0 +1,6 @@
+{
+  "bodyHash": "08743f9508b15f6c",
+  "content": "\n\n这是一个库类模组，需要玩家自行定制内容。\n\n它允许玩家使用简单的 JSON 语法来修改或覆盖其他模组中的硬编码文本，从而帮助翻译人员完成翻译工作。\n\n你无需担心运行时开销或性能损失。本模组采用 ASM 实现高效的类替换，且缓存仅在目标模组更新后才会同步更新已替换的类，因此对现代计算机的影响微乎其微。\n\n版本 1.4.2+ 支持对模组代码进行字节码修改。\n\n有关文件配置的编写及具体运行原理，请参阅 [Wiki](https://github.com/3093FengMing/VaultPatcher/wiki)。\n\n如果在编写配置时遇到困难，请加入我们的 [Discord](https://discord.gg/MCMCJ9ynuy) 或 QQ(227323572)。\n\nGitHub: [VaultPatcher](https://github.com/3093FengMing/VaultPatcher)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

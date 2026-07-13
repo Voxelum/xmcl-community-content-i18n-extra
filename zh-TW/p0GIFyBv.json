@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e3cf230b2dd75f32",
+  "content": "\n\n![ACTUALLY SUBTRACTIONS](https://github.com/MelnCat/ActuallyAdditions/blob/port/1.20.1/pics/logo_minus.png?raw=true)\n\n這是技術模組《Actually Additions》的非官方 1.20.1 移植版本。\n\n截至目前，所有功能均已移植完成。其中包括：\n\n- 原子重構器，用於將資源轉化為水晶。\n- 自動化機器，例如自動放置器（自動放置方塊）、自動破壞器（自動破壞方塊）以及農夫（自動耕作）。在此移植版本中，若需要工具，自動破壞器可利用左上角欄位來放置工具進行破壞。\n- 強化器，用於將水晶強化為其強化形態。\n- 油菜（Canola）用於生產石油，可作為強大的能量來源。\n- 物流雷射，用於傳輸能量、物品與流體。\n- 以及更多內容。\n\n**請勿向原作者回報問題！ \n任何出錯都是我的責任，與他們無關！**\n\n![actually additions machines in 1.20.1](https://cdn.modrinth.com/data/cached_images/feaec285adb0e3dd3c6b7c9016f22f035ddd983d.png)\n\n[支援原作者！](https://ellpeck.de/#support)\n\n我並非此模組的作者，原版作者、開發人員與美術人員才是。我只是負責將其移植至 1.20.1 版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

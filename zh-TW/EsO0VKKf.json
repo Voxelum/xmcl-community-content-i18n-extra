@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3a7049cc11b59875",
+  "content": "\n\n![ 玩家首次進入遊戲時會獲得通往最近村莊的地圖。](https://cdn.modrinth.com/data/cached_images/e8ee41dc33854fde569aaaf89d66ad7ef9874cca.png)\n\n**這個簡單的數據包/模組會在玩家首次進入遊戲時，提供一張通往最近村莊的地圖。**\n\n### 安裝說明（數據包）：\n\n\n<details>\n<summary>提示</summary>\n\n- 下載數據包檔案。\n\n- 開啟你的 Minecraft 世界儲存資料夾：\n- C:\\Users\\<YourUsername>\\AppData\\Roaming\\.minecraft\\saves\\<YourWorldName>\\datapacks\n- 將下載的數據包檔案複製到 datapacks 資料夾中。\n- 啟動你的 Minecraft 世界，並使用 ```/reload``` 來載入數據包。\n\n\n\n\n\n \n\n\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

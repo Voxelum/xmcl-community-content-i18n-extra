@@ -1,0 +1,6 @@
+{
+  "bodyHash": "10bcc2d61150b1c8",
+  "content": "\n\n# 关于\nHexVR 是 Hexcasting 的一个客户端插件，旨在优化其在 Minecraft VR 模组 Vivecraft 中的使用体验。\n\n## 功能特性\n- 在空中绘制法术！\n- 同时绘制多个图案！（专为左右手都能施法的玩家设计）\n- 查看之前的堆栈记录！\n- 完全可自定义的网格！（仅限 Fabric 版）\n- 兼容所有 Hexcasting 插件！\n- 互相观看对方的施法过程！\n- 向其他玩家分享你的堆栈副本！（仅限 1.19.2 版本）\n- 新增获取 VR 玩家头部和手部位置与旋转角度的图案！\n## 单手设置\n- 下载模组及其依赖项\n- 启动 SteamVR 和 Minecraft\n- 在 VR > 控制器设置中开启“显示高级绑定”\n- 重启 SteamVR 和 Minecraft\n- 进入你的 SteamVR 控制器绑定设置 \n  - 在“Modded”选项卡中为某个按键设置为“HexVR: Draw Spell”（我推荐单手模式使用左扳机键）\n  - 在“In-Game”选项卡中移除你之前使用的该按键的绑定（例如左扳机键原先的绑定是传送）\n- 享受游戏吧！\n## 双手设置\n- 下载模组及其依赖项\n- 启动 SteamVR 和 Minecraft\n- 在 VR > 控制器设置中开启“显示高级绑定”\n- 重启 SteamVR 和 Minecraft\n- 进入你的 SteamVR 控制器绑定设置 \n  - 在“In-Game”选项卡中将左扳机键覆盖设置为用于交互和放置方块，替代原有的传送功能\n  - 在“In-Game”选项卡中解除左右触控板的绑定\n  - 在“Modded”选项卡中将左右触控板按键分别设置为“HexVR: Draw Spell - <Hand> - Simple”\n  - 享受游戏吧！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

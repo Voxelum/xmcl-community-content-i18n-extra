@@ -1,6 +1,6 @@
 {
-  "bodyHash": "HzYxAprZIC4=",
-  "content": "<p>Используется для создания модов на языке программирования Groovy. Работает путём интеграции библиотек Groovy, предоставляя GMLLangProvider для загрузки объявлений объектов @GMod.</p><p>&nbsp;</p><p>Включённые модули Groovy:</p><pre>stdlib, contracts, datetime, nio, macro, macro-library, templates, typecheckers, dateutil, ginq, toml, json.<br><br>Моддерам рекомендуется ознакомиться с README проекта, чтобы узнать, как использовать GML. Пользователям достаточно просто установить мод в папку mods.</pre>",
+  "bodyHash": "5004d5b61e8cca46",
+  "content": "\n\n<p>Используется для создания модов на языке программирования Groovy. Работает за счёт использования механизма Jar-in-Jar (JiJ) для библиотек Groovy, предоставляя GMLLangProvider для загрузки объявлений объектов с аннотацией @GMod.</p>\n<p>&nbsp;</p>\n<p>Включённые модули Groovy:</p>\n<pre>stdlib, contracts, datetime, nio, macro, macro-library, templates, typecheckers, dateutil, ginq, toml, json.<br><br>Для разработчиков модов см. README проекта, чтобы узнать, как использовать GML. Для пользователей достаточно просто установить мод в папку mods.</pre>",
   "contentType": "text/html",
   "type": "curseforge"
 }

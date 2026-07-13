@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b95927e12366cccf",
+  "content": "\n\n<p>该模组是 ThreadTweak 的移植版/分支版本</p>\n<p>该模组的主要功能是优化 Minecraft 的 CPU 调度。正如 Minecraft 启动时会占用 100% CPU 资源一样，这正是 MegaThread 存在的意义：用于优化 Minecraft 的 CPU 调度与 TPS。原版 Minecraft 默认仅使用 1 个线程并忽略其余线程，而本模组将引导 Minecraft 调用您所有的 CPU 核心，使游戏运行更加流畅。</p>\n<p>&nbsp;</p>\n<p><span style=\"color:#e03e2d\"><strong>本模组将不再更新。由于硬盘故障，我丢失了源代码。</strong></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

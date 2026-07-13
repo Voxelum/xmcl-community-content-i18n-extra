@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e2f43f727f783101",
+  "content": "\n\n在這個資料包中，玩家必須想辦法互相廝殺。每 3 到 5 分鐘，所有玩家會被隨機傳送到某個地點，並與另一名隨機玩家交換位置。每次有玩家死亡即被淘汰，直到最後一名倖存者為止。沒有人知道自己要與誰交換位置。\n\n### 遊戲資訊：\n|              |                |\n|---------------------|:---------------------:|\n| 遊戲版本           | 1.21.5 - 1.21.11 & 26.1             | \n| 玩家人數           | 2-8 人             | \n| 遊戲時長            | 不限            |\n\n### 遊戲指令：\n| 指令           | 功能              |\n|---------------------|:---------------------:|\n| /trigger deathswap_start            | 開始遊戲             |\n| /trigger deathswap_stop           | 停止遊戲            |\n| /trigger deathswap_settings          | 開啟設定選單            |\n\n\n### 授權條款：\n[MIT 授權](https://opensource.org/license/mit)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

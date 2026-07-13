@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YUGpWkx4r7c=",
-  "content": "Добавьте стол для раскручивания для Fabric/Forge.\n\nПредметы, созданные с помощью этого мода неправильно, можно разобрать и использовать повторно.\n\nОпытные очки по умолчанию не расходуются.\n\n\n# Рецепт\n- Стол для раскручивания\nСоберите рабочий стол, обрамив его алмазами.\n![table](https://media.forgecdn.net/attachments/392/783/recipe_uncrafting_table.png)\n## ИНТЕРФЕЙС\n![gui](https://media.forgecdn.net/attachments/504/859/2022-10-06-225338.png)\n\n(этот мод может увеличиваться в зависимости от предмета бесконечно, поэтому, если вы не хотите потерять баланс, соблюдайте самоконтроль.)\n<br /> <br />\n <br />\nФайл конфигурации: (GameDirectory)/config/uncraftingtable76.json",
+  "bodyHash": "191df780246b784a",
+  "content": "\n\nДобавляет стол разборки для Fabric/Forge.\n\nПредметы, созданные неправильно с помощью этого мода, можно разобрать и использовать повторно.\n\nОпыт не расходуется по умолчанию.\n\n\n# Рецепт\n- Стол разборки\nКрафт выполняется, если окружить верстак алмазами.\n![table](https://media.forgecdn.net/attachments/392/783/recipe_uncrafting_table.png)\n## Интерфейс\n![gui](https://media.forgecdn.net/attachments/504/859/2022-10-06-225338.png)\n\n(стоимость опыта может бесконечно расти в зависимости от предмета, поэтому для сохранения баланса рекомендуется самостоятельная настройка.)\n<br /> <br />\n <br />\nФайл конфигурации: (GameDirectory)/config/uncraftingtable76.json",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

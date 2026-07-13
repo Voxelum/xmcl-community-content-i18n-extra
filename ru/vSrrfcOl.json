@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d0cce756f5bb9b1c",
+  "content": "\n\nВерсия для 1.21+ перемещена на [https://modrinth.com/mod/sooty-chimneys](https://modrinth.com/mod/sooty-chimneys)\n\n![](https://raw.githubusercontent.com/mortuusars/SootyChimneys/master/media/logo_title_largest.png)\n# Сажевые трубы для Fabric\n\n> Требует [Fabric API](/mod/fabric-api) и [Fabric Language Kotlin](/mod/fabric-language-kotlin)\n\nЭто **неофициальный** порт мода [Sooty Chimneys](/mod/sooty-chimneys) на платформу Fabric.\n\nДобавляет кирпичные, из каменного кирпича, терракотовые и медные трубы, которые испускают частицы дыма.\n\n## Особенности:\n### Сажа\nСо временем труба покроется сажей и станет грязной. Очистите её с помощью топора.\n\nПри очистке сажи с трубы может выпасть чёрная краска, но это происходит не всегда.\n\n### Ветер\n\nДым из трубы зависит от направления и силы ветра. Ветер усиливается во время дождя и грозы, а к вечеру стихает.\n\n(Это касается только дыма от мода Sooty Chimneys)\n\n### Управление редстоуном\n\nКогда труба получает сигнал редстоуна, она перестаёт выпускать дым.\n\n### Блокировка дыма\n\nНажмите правой кнопкой мыши по трубе пустой рукой, чтобы переключить поток дыма.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

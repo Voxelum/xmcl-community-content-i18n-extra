@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f7a98768dbe3b72",
+  "content": "\n\n# EasyLAN\n**一款用於自訂區域網路伺服器（內建伺服器）設定的 Minecraft Forge 模組**<br>\n\n- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easylan)\n- [Modrinth](https://modrinth.com/mod/easylan)\n- [MC百科](https://www.mcmod.cn/class/11373.html)\n\n<br>\n\n## 可設定項目清單\n\n### *自訂設定*\n\n- 自訂連接埠（**100-65535**）\n- 自訂最大玩家數（**2-500000**）\n- 自訂歡迎訊息（**100 字限制**）\n\n### *伺服器基本設定*\n\n- 允許玩家對戰（**是/否**）\n- 線上模式（**是/否**）\n- 生成動物（**是/否**）\n- 生成 NPC（**是/否**）\n- 允許飛行（**是/否**）\n\n### *伺服器指令支援*\n\n- 白名單（**/whitelist [on/off/add/remove/...]**）\n- 封鎖名單（**/ban | /ban-ip | /pardon | /pardon-ip**）\n- 管理員（**/op | /deop**）\n- 儲存全部（**/save-all | /save-off | /save-on**）\n\n### *擴充功能*\n**擴充功能尚未進行相容性測試，若遊戲發生當機問題，請嘗試停用這些功能。**\n\n- HTTP API 資訊（支援 HTTP API | 連接埠：28960 | 位址：127.0.0.1）<br>\n- 區域網路輸出（於遊戲聊天視窗顯示區域網路伺服器資訊）\n\n<br>\n\n**您也可以透過 `.minecraft\\config\\easylan.cfg`（類似 server.properties 的格式）來設定此模組**\n\n## 支援版本\n\n- Forge 1.7.2 - 1.21.11<br>\n  **1.7.2 尚未測試，實際可用性仍不確定**\n- NeoForge 1.20.1 - 1.21.11\n- Fabric 1.14.4 - 1.21.11\n\n- 從舊版 EasyLAN 更新至新版時，請務必刪除 `.minecraft\\config\\easylan.cfg` 檔案，否則可能會導致遊戲當機（詳細資訊請參閱更新記錄）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

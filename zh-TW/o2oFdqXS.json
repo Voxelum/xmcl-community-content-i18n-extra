@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a370cf2dbfc6b7f7",
+  "content": "這是 [ChatCalc](https://modrinth.com/mod/chat-calc)（它本身也是 Kokeria 的 [ChatCalc](https://www.curseforge.com/minecraft/mc-mods/chatcalc) 的移植版本）移植到最新 Minecraft 版本的版本，因為原mod已很久未更新。同時，我也將其從 Java 完全轉換為 Kotlin，純粹是因為我可以這麼做。\n\n功能沒有太大變化，因此您可以查看[原版mod的描述](https://modrinth.com/mod/chat-calc)。不過，有一個額外的依賴項——[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)——這是讓 Kotlin 正常運行所必需的。\n\n我計劃稍後添加一些功能，例如更好的配置處理，以及允許在非聊天文本字段（如 ~~告示牌~~（已完成）、書、砧等）中進行計算。這些功能目前尚不可用。如果您希望mod中添加其他任何內容，請[在 GitHub 上創建一個問題](https://github.com/Emirlol/chatcalc/issues)。\n\n-------\n\n[![Bisect Hosting 宣傳橫幅。使用代碼 `rime` 可在首次訂單時獲得 25% 折扣！點擊打開網站。](https://www.bisecthosting.com/partners/custom-banners/89582869-0188-4067-b4a7-e98054191063.webp)](https://bisecthosting.com/rime)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

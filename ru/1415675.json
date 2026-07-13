@@ -1,0 +1,6 @@
+{
+  "bodyHash": "edd9568885240b49",
+  "content": "\n\n<h1>Cull Fewer Leaves</h1>\n<p>Cull Fewer Leaves пропускает рендеринг внутренних слоёв листвы, повышая производительность.</p>\n<h2>Производительность</h2>\n<p>В худшем случае, при взгляде на мангровое болото, этот мод может\nобеспечить прирост производительности до <em><strong>30%</strong></em> (измерено на слабом оборудовании).</p>\n<p>Вместо того чтобы оставлять только внешний слой листвы, Cull Fewer Leaves также рендерит определённое количество\nслоёв, указанных в конфигурационном файле.</p>\n<p><strong><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsodium\" rel=\"nofollow\">Также требует Sodium!</a></strong></p>\n<h2>Почему бы просто не использовать <a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.modrinth.com%252fmod%252fcull-leaves\" rel=\"nofollow\">Cull Leaves</a>?</h2>\n<p>Cull Leaves рендерит только самый внешний слой листвы, из-за чего вид может быть\nдовольно непривлекательным (см. быстрое отсечение на изображении ниже), но <strong>Cull Leaves обеспечивает\nбольший прирост производительности, чем Cull Fewer Leaves</strong>.</p>\n<h2>Сравнение</h2>\n<p><img src=\"https://i.imgur.com/yMUQxMX.png\" alt=\"сравнение\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

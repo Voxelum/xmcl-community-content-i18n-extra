@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c65febc8dca47c45",
+  "content": "\n\n# Function Command Deduplicator 函数命令去重器\n<img src=\"https://raw.githubusercontent.com/Myitian/FunctionCommandDeduplicator/refs/heads/main/.github/icon.png\" width=\"128\" alt=\"logo\">\n\n移除 mcfunction 中重复的命令对象，以降低加载超大型数据包时的内存占用。\n\n## 运行环境\n- Minecraft >= 1.20.5\n- 模组加载器 (Fabric/NeoForge/Forge)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

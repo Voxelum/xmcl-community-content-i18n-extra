@@ -1,0 +1,6 @@
+{
+  "bodyHash": "22041df257a14320",
+  "content": "\n\n# Держи Фонари\n**Hold Up Lanterns — это пакет ресурсов, который заменяет модель предмета в руке для Фонаря в третьем лице на модель блока и позиционирует его так, чтобы он удобно лежал в вашей руке.**\n\nБольшинство пакетов ресурсов должны работать вместе с Hold Up Lanterns, поскольку модель и текстуры остаются неизменными.\n\n\nЯ настоятельно рекомендую установить мод [Dynamic Light](https://modrinth.com/mod/lambdynamiclights), а также [Hold My Items](https://modrinth.com/mod/hold-my-items).\n\nПозиционирование Фонаря по умолчанию настроено для [Not Enough Animations](https://modrinth.com/mod/not-enough-animations), однако с помощью [Respackopts](https://modrinth.com/mod/respackopts) доступно альтернативное положение для пакетов ресурсов анимаций игрока, таких как [Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension).\n\nСовместимость с [Item Interactions](https://modrinth.com/resourcepack/item-interactions) также можно включить или отключить через [Respackopts](https://modrinth.com/mod/respackopts).\n\n![Демонстрация модели Фонаря в руке](https://cdn.modrinth.com/data/cached_images/c84cc2e271a87e623fe8cbad4d9fd1f76452ef76_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

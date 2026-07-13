@@ -1,0 +1,6 @@
+{
+  "bodyHash": "16e34d9c5d13a8a9",
+  "content": "\n\n本模組新增了一種不需要搭配門使用的門把手。\n\n![Recipe](https://raw.githubusercontent.com/wiki/TBoshoven/MinecraftMods/img/magic-doorknob/recipe-wood.png \"Recipe\")\n\n合成一個門把手，然後對著任意牆壁使用以建立臨時門洞。\n門洞的長度取決於門把手的材料。挖掘速度越快，門洞延伸的距離就越遠。\n除非你使用的是由鑽石或下界合金製成的堅固門把手，否則門洞無法穿透黑曜石等堅硬材質。\n\n![Doorknob](https://raw.githubusercontent.com/wiki/TBoshoven/MinecraftMods/img/magic-doorknob/demo.gif \"Doorknob\")\n\n當不再需要門洞時，只需右鍵點擊門即可關閉它。\n所有方塊都會恢復原狀，且你可以拾起門把手，以便未來製造更多的門洞。\n\n![Screenshot](https://raw.githubusercontent.com/wiki/TBoshoven/MinecraftMods/img/magic-doorknob/screenshot.png \"Screenshot\")\n\n提供適用於 Minecraft 1.12.2 及之後版本的模組。\n* 1.14.4 及以上版本支援穿過門洞以及為門把手附魔。\n* 1.16.5 及以上版本新增了由下界合金製成的門把手。\n\n可使用的附魔如下：\n\n* **雙重**（本模組新增）：在門洞末端生成第二扇門。\n* **效率**：增加所創建門洞的長度。\n\n注意：使用門洞應完全安全。它不會嘗試穿透包含方塊實體的方塊，以避免破壞或中斷相關機制。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

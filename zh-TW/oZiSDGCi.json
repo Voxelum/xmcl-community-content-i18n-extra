@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cb39409fe4dba553",
+  "content": "\n\n這是一個小型的**伺服器端**模組，當伺服器的 Watchdog（看門狗）系統因為伺服器陷入死結或停滯過久而強制關閉伺服器時，它會讓日誌顯示更多資訊。崩潰報告日誌現在會顯示死結發生時所有正在執行的程式碼。換句話說，它會顯示所有執行緒的完整堆疊追蹤，而不是通常被截斷（縮短）的版本。\n\n理論上，這應該有助於診斷是哪個模組程式碼或 Mixin 導致了「非主執行緒」鎖定。當某個執行緒鎖定時，伺服器主執行緒也會跟著卡住；如果這種狀態持續過久，Watchdog 就會將其強制終止，因為單一遊戲刻（tick）的完成時間太長了。**它無法解決所有的死結問題。** 但它提供的資訊可能足以讓你追查部分死結的成因。\n\n下方圖片展示了安裝此模組前後的效果對比 **(圖庫標籤頁能更清晰地顯示圖片)**： \n![Example of improvement](https://cdn.modrinth.com/data/oZiSDGCi/images/41969c24917aacdc6741bb68413cb3b81acaa2a2.png)\n\n**是的，您可以將此模組放入整合包中發布。** 客戶端也可以安裝此模組，但由於 Watchdog 系統僅在伺服器端運行，因此在客戶端上不會產生任何作用。您也可以選擇僅在伺服器端安裝此模組來運行伺服器。未安裝此模組的客戶端仍然可以正常連線。\n\n\n**注意 1：** NeoForge 20.4.107 及更新版本已內建此模組功能！如果您使用的是 Minecraft 1.20.4 或更新版本的 NeoForge，則無需安裝此模組！ https://github.com/neoforged/NeoForge/pull/512\n\n**注意 2：** Fabric API 0.104.0+1.21.2 及更新版本已內建此模組功能！如果您使用的是 Minecraft 1.21.2 或更新版本的 Fabric，則無需安裝此模組！ https://github.com/FabricMC/fabric/pull/4052",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

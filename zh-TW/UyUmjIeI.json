@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ea333f11c2f05616",
+  "content": "\n\n在原版 1.17+ 中，無論桶內實際裝的是哪一種美西螈，所有裝有美西螈的桶在視覺上都會顯示為粉紅色美西螈。這個僅限客戶端的 Fabric 模組修正了此問題，使物品紋理能正確顯示桶內實際的美西螈種類。此外，它也為幼體美西螈新增了對應紋理，讓你能清楚辨識每個桶子裡裝的是什麼。\n\n新的紋理效果如下：\n\n ![axolotl items](https://i.ibb.co/7RY4m3S/axolotls.png)\n\n ![baby items](https://i.ibb.co/6yDMJWW/2021-07-01-22-37-20.png)\n\n本模組與 More Axolotl Variants 相容，並包含該模組新增的所有變種紋理。\n\n\n需要 Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

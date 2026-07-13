@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f75c019c44ff20df",
+  "content": "\n\n# JJA 官方整合包\n\nJJA 官方整合包是專為搭配 JujutsuCraft 遊玩 Jujutsu Addon 而設計的 Forge 1.20.1 官方整合包。\n\n本整合包內含 Jujutsu Addon、JujutsuCraft、必要函式庫、相容性模組、效能優化模組，以及精心調整的設定檔，讓客戶端與專用伺服器皆能開箱即用。\n\n## 功能特色\n\n* Jujutsu Addon 官方整合包。\n* 基於 Minecraft 1.20.1 與 Forge 47.4.10 開發。\n* 內含 JujutsuCraft 及完整的 JJA 依賴套件。\n* 加入 ModernFix、FerriteCore、MemoryLeakFix、Packet Fixer 與 ServerCore 等效能與穩定性模組。\n* 提供 In Control、Lootr、Curios、Pehkui、Geckolib 及其相關函式庫的遊戲玩法與設定支援。\n* 提供對應的客戶端與伺服器檔案，方便多人連線設定。\n\n架設專用伺服器時，請使用對應的伺服器整合包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

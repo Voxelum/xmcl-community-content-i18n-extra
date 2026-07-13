@@ -1,0 +1,6 @@
+{
+  "bodyHash": "429f0f7692b934cc",
+  "content": "\n\n![Demonstrating Quick Stack](https://cdn.modrinth.com/data/cached_images/8026ec7e851d92b3a2c281415c8bb9ec53cd4623.gif)\n# 快捷堆叠物品栏 \n\n我很高兴向大家介绍快捷堆叠物品栏！这是一款灵感源自《泰拉瑞亚》的模组，只需按下单个按键即可将你的物品栏整理至附近的容器中。该操作会忽略快捷栏与附属槽位。\n\n## 功能：  \n  - 快捷堆叠（默认：V）：在玩家周围的可配置半径内搜索有效的容器，并将物品栏中匹配的物品移入其中。仅在存在可用空间时才会移动物品。\n  \n  - 备用容器（绑定方式：V + 右键）：低优先级容器，用于在倾倒时接收溢出及未分类的物品。  \n  \n  - 倾倒物品栏（默认：Shift + V）：将你的物品栏整理至附近容器后，把所有剩余及溢出物品转移至你绑定的备用容器中。\n\n## 配置：\n  - radius — 扫描半径（方块单位）（默认：8，最大值：16）\n  \n  - min_slots — 容器生效所需的最小槽位数（默认：9，不包含熔炉和酿造台）\n  \n  - button_offset_x / button_offset_y — 物品栏界面中“快捷堆叠”按钮的像素坐标位置\n\n## 兼容性：\n   \n   本模组基于 NeoForge 的 `IItemHandler` 能力系统构建，因此兼容任何实现了该接口的第三方存储方块——包括 Sophisticated Storage。槽位数低于 `min_slots` 阈值的容器（例如熔炉和酿造台）将被自动排除。所有参数均可在配置文件中自定义。\n\n  如遇模组冲突或异常行为，请前往 GitHub Issues（https://github.com/jacgoldberg/Inventory-Quick-Stack/issues）提交反馈，或留下评论！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

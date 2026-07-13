@@ -1,6 +1,6 @@
 {
-  "bodyHash": "8l+iaR5DKE8=",
-  "content": "# SlashBlade 刀紋外觀\n\n一個 SlashBlade: Resharped 的附加模組，讓玩家可以自由自訂 SlashBlade 的模型外觀。\n\n# 簡介\n\n雖然主模組與各種 SlashBlade 附加模組提供了眾多刀劍模型——有的時尚、有的優雅、有的炫酷奪目⋯⋯\n\n但這也帶來了一個兩難困境：一些視覺效果出色的刀劍可能數值不理想，而放棄已經完全升級的武器去重新練一把新的刀劍又讓人非常困擾。\n\n這個模組解決了這個問題——只需手持紙張，對著裝有刀劍的刀架按下滑鼠左鍵（會消耗一些榮耀之魂），即可獲得一張刀鞘設計圖。\n\n在鐵砧上將刀鞘設計圖與另一把 SlashBlade 結合，就能改變其外觀——而且完全不會改變任何屬性！\n\n# 設定\n\n透過設定檔（`slashbladeskin-common.toml`）來設定本模組的大部分功能。\n\n如果你想要降低經驗值消耗，那就得自己調整設定了。~~但你應該早就知道了。~~\n\n```toml\n#SlashBlade Skin 設定~~~~\n[common]\n\t#獲取 SlashBlade 刀紋外觀所需的經驗等級消耗（預設：10）\n\t#範圍：> 0\n\tskin_exp_cost = 10\n\t#獲取 SlashBlade 刀紋外觀所需的榮耀之魂消耗（預設：1000）\n\t#範圍：> 0\n\tskin_soul_cost = 1000\n```\n\n# 授權\n\n本模組採用 GPL v3.0 授權條款開源。\n\n只要 **遵守授權條款**，你就可以將它加入你的模組包／伺服器中。",
+  "bodyHash": "acc345db8e12dcd9",
+  "content": "\n\n# SlashBlade 外觀\n\nSlashBlade: Resharped 的擴充模組，讓玩家可以自由客製化 SlashBlade 的模型。\n\n# 簡介\n\n雖然主模組與各種 SlashBlade 擴充模組提供了眾多刀劍模型——風格時尚、優雅或炫酷奪目……\n\n這帶來了一個兩難的選擇：有些外觀吸引人的刀劍可能屬性並非最佳，而捨棄已完全強化的武器去重新刷取新武器可能會讓人感到沮喪。\n\n本模組解決了這個問題——只需手持紙張，左鍵點擊放置了刀劍的劍架（消耗部分驕傲靈魂），即可獲得刀鞘設計圖。\n\n在鐵砧上將「刀鞘設計圖」與另一把 SlashBlade 合併，即可更改其外觀——且不會改變任何屬性！\n\n# 設定\n\n可透過設定檔（`slashbladeskin-common.toml`）調整本模組的大多數功能。\n\n如果你想要更低的經驗值消耗，就得自己調整設定檔。~~不過你早就知道這一點了。~~\n\n```toml\n#SlashBlade 外觀設定~~~~\n[common]\n\t#取得 SlashBlade 外觀所需的經驗等級消耗。(預設: 10)\n\t#範圍: > 0\n\tskin_exp_cost = 10\n\t#取得 SlashBlade 外觀所需的驕傲靈魂消耗。(預設: 1000)\n\t#範圍: > 0\n\tskin_soul_cost = 1000\n```\n\n# 授權條款\n\n本模組採用 GPL v3.0 授權條款開放原始碼。\n\n只要**遵守授權條款**，你就可以將其納入你的模組包/伺服器中。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e2a0ee9946b828d2",
+  "content": "\n\n![th](https://cdn.modrinth.com/data/cached_images/ebda1f15c68dbbd5ee56e3a3479ba28f6056a09b_0.webp)\n\n*Станьте богатым, торгуйте с умом и постройте свою империю с помощью **Shop** — простого и полноценного датапака, который добавляет полную экономическую систему в ваш мир выживания!*\n\n## Как использовать\nВведите `/trigger Shop`, чтобы открыть меню, где можно покупать или продавать все доступные предметы в нескольких категориях.\n\n![main](https://cdn.modrinth.com/data/cached_images/f152c0fd5b87c69e60ad81c096a2a6befc3a22ac.png)\n\n## Легкая покупка и продажа:\n\n* `/trigger Shop.sell` — продает предмет в вашей руке\n* `/trigger Shop.sell_all` — продает все предметы одного типа\n\n![sell](https://cdn.modrinth.com/data/cached_images/7e3ed1deab3fbe26ef2b5994c63d1c28e74e5058.png)\n![buy](https://cdn.modrinth.com/data/cached_images/d1256f32360570437d3d1ee8ff2198a30268fd04.png)\n\n\n**Этот мод идеально подходит для геймплея в стиле Skyblock или любого другого мира!**\n\n\n## Удаление\n1. Откройте окно чата.\n2. Введите команду для удаления и нажмите Enter: \n`\n/function shop:uninstall\n`\n\n## Ссылки\n[![Наш Discord](https://cdn.modrinth.com/data/cached_images/9e22bf034ba3457c78764f14bff186f4b8ba505e.png)](https://discord.gg/b2hkD4Fn43)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

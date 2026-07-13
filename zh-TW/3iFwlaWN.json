@@ -1,0 +1,6 @@
+{
+  "bodyHash": "211da395247f6990",
+  "content": "\n\n# 流暢第三人稱鏡頭\n\n## 功能特色\n- 第三人稱視角下提供流暢的鏡頭跟隨效果\n- 可自訂 `smoothness` 與 `maxDistance` 參數\n- 提供可選的 `Limit Break` 模式，支援直接輸入數值\n- 整合 ModMenu 以便於遊戲內進行設定（Fabric 版本）\n\n## 預覽\n\n已啟用流暢鏡頭（第三人稱）。  \n*範例設定：smoothness=0.14, maxDistance=50.0*  \n> 注意：這些**並非**預設值。預設值為 **smoothness=0.30** 與 **maxDistance=20.0**。\n>\n> 注意：此預覽截圖來自 **Fabric** 版本。\n\n![流暢鏡頭全螢幕預覽](https://yoima.com/mc/smooththirdpersoncamera/gallery/a-1.gif)\n\n## 比較（原版遊戲 vs 流暢鏡頭）\n\n**左：** 原版遊戲（未安裝模組）  \n**右：** 已啟用流暢鏡頭\n\n> 注意：比較用的 GIF 動畫皆來自 **Fabric** 版本。\n\n| 場景 | 原版遊戲 | 流暢鏡頭 |\n| --- | --- | --- |\n| 鞘翅飛行 | ![原版疾跑轉向](https://yoima.com/mc/smooththirdpersoncamera/gallery/2-1.gif) | ![流暢鏡頭疾跑轉向](https://yoima.com/mc/smooththirdpersoncamera/gallery/1-1.gif) |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

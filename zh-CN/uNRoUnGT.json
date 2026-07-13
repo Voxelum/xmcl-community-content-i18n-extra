@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Aiz6KlVTq1M=",
-  "content": "该模组是一个依赖架构API的库。\n\n它本身没有特定的功能，但我的一些模组需要包含此模组才能运行。\n\n此模组目前需要架构API。\n\n---\n\n该库采用MIT许可证，你可以在许可范围内自由使用。\n\n需要MCPitanLib的模组：\n\n- Advanced Reborn（Fabric）……TechReborn附属模组\n- Ender Cane（Fabric/Forge）……添加了能让玩家轻松传送的物品\n- Enhanced Quarries（Fabric）……添加了采石场、填充机等机械\n- Item Alchemy（Fabric）……FabricMC版等价交换（类似Project E）的重制移植开发版\n- Ordinary Crook（Fabric/Forge）……添加了ExNihiloAdscensio的挂钩。挂钩是专门用于破坏树叶的工具\n- PipePlus（Fabric）……SimpleBCPipes附属模组\n- Simple Uncrafting Table（Fabric/Forge）……添加了拆解台\n- Small Stairs（Fabric/Forge）……添加了小台阶\n- Solomons Rod（Fabric/Forge）……添加了所罗门之杖，你能在空中放置所罗门方块",
+  "bodyHash": "d0c7977a2ab767d5",
+  "content": "\n\n本模组是一个依赖 Architecture API 的库模组。\n\n它本身并无特定功能，但我的部分模组需要将其作为前置依赖。\n\n该模组目前需要 Architecture API。\n\n 本库采用 MIT 协议，您可在许可范围内自由使用。\n\n需要 MCPitanLib 的模组\n\n- Advanced Reborn (Fabric)...TechReborn 附属模组\n- Ender Cane (Fabric/Forge)...添加了让玩家轻松传送的物品\n- Enhanced Quarries (Fabric)...添加了采石场、填充物等\n- Item Alchemy (Fabric)...正在移植至 FabricMC 的等价交换（类似 Project E）模组\n- Ordinary Crook (Fabric/Forge)...添加了 ExNihiloAdscensio 的 Crook。Croop 是专用于破坏树叶的工具。\n- PipePlus (Fabric)...SimpleBCPipes 附属模组\n- Simple Uncrafting Table (Fabric/Forge)...添加了反合成台\n- Small Stairs (Fabric/Forge)...添加了小楼梯\n- Solomons Rod (Fabric/Forge)...添加了所罗门之杖，可在空中放置所罗门方块",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

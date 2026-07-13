@@ -1,6 +1,6 @@
 {
-  "bodyHash": "R2INiB/6VHk=",
-  "content": "# Trinkets\n一個用於 Minecraft 的數據驅動飾品模組，使用 Fabric。\n\n![Trinkets 介面圖片](https://cdn-raw.modrinth.com/data/5aaWibi9/images/56224f13887cdd914a9624a18eb845dae0bcdfc0.png)\n\n## 關於\nTrinkets 為 Minecraft 新增了插槽組與插槽系統。插槽組是針對特定身體部位或較模糊區域的插槽集合。預設有 6 個插槽組（頭部、胸部、腿部、腳部、副手、主手），可以向其中添加插槽，必要時也可新增更多插槽組。Trinkets 的介面直觀易用、便於存取，並致力於減少雜亂。此系統意味著你永遠不會有閒置無用的插槽，因為模組會自行請求所需的插槽。\n\n如需基礎教學與完整文件，請參閱此專案的[維基](https://github.com/emilyploszaj/trinkets/wiki/Home)。",
+  "bodyHash": "c8ddd013f9419394",
+  "content": "\n\n# Trinkets\n一款基於 Fabric 的 Minecraft 資料驅動飾品模組。\n\n![Trinkets 介面截圖](https://cdn-raw.modrinth.com/data/5aaWibi9/images/56224f13887cdd914a9624a18eb845dae0bcdfc0.png)\n\n## 關於\nTrinkets 為 Minecraft 新增了欄位群組與欄位系統。欄位群組是針對特定身體部位或較寬鬆區域的欄位集合。預設包含 6 個可新增欄位的群組（頭部、胸部、腿部、腳部、副手、主手），若需要亦可自行擴充更多群組。Trinkets 的介面直覺易用、符合無障礙設計，並致力於避免畫面雜亂。此系統確保不會有閒置的欄位，因為各模組會主動請求它們所需的欄位。\n\n如需基礎教學與完整文件，請前往本專案的 [維基](https://github.com/emilyploszaj/trinkets/wiki/Home)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

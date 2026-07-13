@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4IEQZsjW+JY=",
-  "content": "<h1>Исправление сбоев в Sinytra Connector</h1><h2><span style=\"color:#3598db\">Этот мод устраняет сбои в Sinytra Connector, возникающие из-за совместимости некоторых модов Fabric и Neoforge. Этот мод обязателен, если вы используете Sinytra Connector и ваш мод Fabric вызывает сбои.</span></h2>",
+  "bodyHash": "cdb570a512a8d8d8",
+  "content": "\n\n<h1>Исправление вылетов Sinytra Connector</h1>\n<h2><span style=\"color:#3598db\">Этот мод исправляет вылеты в Sinytra Connector, возникающие из-за несовместимости некоторых Fabric-модов с NeoForge. Этот мод обязателен к установке, если вы используете Sinytra Connector и ваши Fabric-моды вызывают вылеты.</span></h2>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c9149236b14f4536",
+  "content": "\n\n## Описание\nПоказывает точные координаты вашего местоположения.\n\n![preview](https://cdn.modrinth.com/data/3opMvIxN/images/6985cec8e16048113b2945f438fe3e651a823eea.png)\n\n## Как использовать\nЧтобы переключить видимость координат, введите следующую команду:\n\n``` /trigger bizcub.coords.t ```\n\n## Зависимости\n- Для Fabric loader требуется [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

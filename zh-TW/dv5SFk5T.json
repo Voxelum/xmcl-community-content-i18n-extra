@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qayi6Ooy65I=",
-  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/7XMaHZTbhT8\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n在地化的天氣！能從遠處看到降雨和更猛烈的暴風雨接近\n- 龍捲風從動態風暴系統中生成\n- 雨雲從水域和潮濕生態域中積聚水分，只在局部區域降雨\n- 暴風雪和沙塵暴\n- 風暴鋒面系統利用生態域溫度差異，製造猛烈風暴！\n- 用我自製的不斷變化的粒子雲取代/補充原版雲朵\n- 將降雨和降雪替換為隨風飄動的粒子效果\n- 從舊版天氣模組改進風暴外觀\n- 偏轉器方塊能偏轉風暴方向，防止方塊損壞以保護你的建築\n- 風向標顯示風向（模型由 DecoCraft 的 Razz 製作）\n- 風速計顯示風速\n- 龍捲風感測方塊在龍捲風接近時觸發紅石訊號\n- 場景因落葉粒子、風粒子等而更加生動，所有植物相關事物都會產生粒子效果\n- 樹木會發出隨風搖曳的聲音\n- 可增強降雪效果，使其更逐漸且平滑地堆積（預設關閉，較耗記憶體！）",
+  "bodyHash": "108e69b529b6ad4e",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/7XMaHZTbhT8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n區域化天氣！遠距離觀看降雨與更強烈的暴風雨逼近\n- 龍捲風會從動態暴風系統中生成\n- 降雨雲會從水源與潮濕生物群系中積聚水分，並在該區域局部降雨\n- 暴雪與沙塵暴\n- 暴風前緣系統利用生物群系的溫差來製造強烈風暴！\n- 替換或搭配原版雲朵，改用自訂粒子雲，且始終持續流動變化\n- 以受風向吹拂的粒子效果替換原本的降雨與降雪\n- 優化舊版天氣模組的暴風視覺效果\n- 偏導方塊：可將暴風偏轉遠離，防止方塊受損以保護您的建築\n- 風向標：顯示風向（模型由 DecoCraft 的 Razz 製作）\n- 風速計：顯示風速\n- 龍捲風感應方塊：當龍捲風接近時觸發紅石信號\n- 場景加入落葉粒子、風粒子等效果，所有植物相關元素都會獲得粒子特效\n- 樹木會發出隨風擺動的音效\n- 可透過漸進平滑的積雪效果增強降雪表現（預設關閉，記憶體佔用較高！）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

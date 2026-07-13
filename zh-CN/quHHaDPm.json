@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2151a571b23664c2",
+  "content": "\n\n# 龙巢踪迹\n\nRoost Traces 将 Ice and Fire CE 的地表龙巢纳入 Create ReAutomated 的资源循环中。\n\n当龙巢生成时，该模组会在龙巢地面直接放置一个兼容的 Create ReAutomated 节点，并将其注册到 Create ReAutomated: Traces 中作为仅含节点的“踪迹查找器”目标。不会添加任何可见的踪迹露头或平台。\n\n节点池由数据包驱动，因此整合包可以为火焰、寒冰和闪电龙巢选择不同的奖励。放置过程轻量高效，避免强制加载区块，并对可恢复的失败情况采用有限次重试机制。\n\n## 错误与问题\n\n如有任何问题或疑问，欢迎点击下方图片加入 Discord 服务器。\n\n![加入 Discord](https://discordapp.com/api/guilds/838407794217844777/widget.png?style=banner3)\n\n## 支持我们\n\n[![https://www.bisecthosting.com/TYP](https://www.bisecthosting.com/partners/custom-banners/6f8fb0b7-b4a5-4dd3-9856-c8878d15de9b.webp)](https://www.bisecthosting.com/TYP)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

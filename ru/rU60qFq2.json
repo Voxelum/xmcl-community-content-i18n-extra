@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d1c47a1192a33600",
+  "content": "\n\n[![Баннер рекламы Bisect Hosting](https://www.bisecthosting.com/partners/custom-banners/ee9630c7-c981-45f9-9862-3a1d71a628bf.webp)](https://redirect.daqem.com?to=https%3A%2F%2Fbisecthosting.com%2FDAQEM%3Fr%3DItemRestrictionsModrinth)\n\n[![Баннер рекламы Ko-fi](https://i.imgur.com/SU7HhbO.png)](https://ko-fi.com/daqem)\n\n<br>\n\n## Что делает этот мод?\n\nЭтот мод позволяет ограничивать игроков в создании, плавке, зельеварении и починке предметов, а также в установке и разрушении блоков и нанесении урона мобам/игрокам с использованием определённого предмета.\n\nРеализация осуществляется с помощью условий Arc Lib.\n\n### Вот пример ограничения на установку и разрушение камня:\n```json\n{\n  \"types\": [\n    \"break_block\",\n    \"place_block\"\n  ],\n  \"conditions\": [\n    {\n      \"type\": \"arc:item\",\n      \"inverted\": true,\n      \"item\": \"minecraft:stone\"\n    }\n  ]\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

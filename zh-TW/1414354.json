@@ -1,6 +1,6 @@
 {
-  "bodyHash": "AMdgTptSiTI=",
-  "content": "<h2>X Ray</h2><p>可移除石頭及其他方塊，只保留礦物可見的模組/資料包。在地獄中也適用。</p><p>X-Ray 是一款強大的模組，徹底改變你在 Minecraft 世界中的探索方式。它能讓你透視普通方塊，凸顯出有價值的資源、結構和物體。</p><p>使用方式：只需在任一隻手上持有已填滿的地圖即可。</p><p><img src=\"https://cdn.modrinth.com/data/r8hnR3m9/images/8f21f107271770937160956489953644f1bc92ff.png\" alt=\"預覽\"></p><h2>使用方法</h2><p>本模組會自動啟用，無需額外設定。但若想暫時停用模組，請使用指令 <code>/trigger bizcub.x_ray.t</code>。執行後聊天欄會顯示模組的當前狀態。</p><h2>依賴項目</h2><ul>\n<li>Fabric 載入器需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
+  "bodyHash": "d9f3497197e88e77",
+  "content": "\n\n<h2>X Ray</h2>\n<p>可移除石頭與其他方塊以讓礦石保持可見的模組／資料包。同樣適用於下界。</p>\n<p>X-Ray 是一款強大的模組，徹底改變了您探索 Minecraft 世界的方式。它能讓您看穿普通方塊，高亮顯示珍貴的資源、結構與物品。</p>\n<p>要使用它，只需在任何手中拿取一張已探索完成的地圖。</p>\n<p><img src=\"https://cdn.modrinth.com/data/r8hnR3m9/images/8f21f107271770937160956489953644f1bc92ff.png\" alt=\"預覽\"></p>\n<h2>使用方法</h2>\n<p>該模組會自動啟用，無需額外設定。不過，若您想暫時停用模組，請使用指令 <code>/trigger bizcub.x_ray.t</code>。聊天欄將顯示模組目前的狀態資訊。</p>\n<h2>前置需求</h2>\n<ul>\n<li>Fabric 載入器需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

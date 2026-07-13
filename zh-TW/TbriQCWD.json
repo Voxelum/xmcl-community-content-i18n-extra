@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mvLjah8GUJc=",
-  "content": "# Iris / Oculus 與 GeckoLib 相容性修復\n\n修復了在使用具有實體陰影的著色器包時，GeckoLib 實體動畫無法正常運作的問題。\n\n以下為一個使用 Insanity Shader 且啟用實體陰影的 GeckoLib 實體運作範例。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5kLo4HdSz44\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "bodyHash": "d250d3f5e6e42d65",
+  "content": "\n\n# Iris / Oculus 與 GeckoLib 相容模組\n\n修復在使用具有實體陰影的光影包時，GeckoLib 實體動畫無法正常運作的問題。\n\nGeckoLib 實體搭配 Insanity Shader（含實體陰影）的運作範例。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5kLo4HdSz44\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "0XxJJEsUvA8=",
-  "content": "<a href=\"https://minecraftstorage.com/mods/no-f3\">\n  <img src=\"https://cdn.modrinth.com/data/cached_images/f781ca4ac71f082fe75d3a004f089e3add13d9f1_0.webp\" alt=\"no-f3\" />\n</a>\n&nbsp;\n\n&nbsp;\n\nДумаю, и, возможно, другие тоже, что некоторые функции F3, такие как координаты, слишком мощные. Именно поэтому этот мод убирает эти функции.\nС помощью мода вроде «Compass Coords» или «GUI Compass» вы затем сможете добавить координаты на компас, сделав его действительно полезным.\n\nКоманда «/gamerule reducedDebugInfo false» вернёт изменения, которые внес мод no-f3.",
+  "bodyHash": "547cde901620db50",
+  "content": "\n\n<a href=\"https://minecraftstorage.com/mods/no-f3\">\n  <img src=\"https://cdn.modrinth.com/data/cached_images/f781ca4ac71f082fe75d3a004f089e3add13d9f1_0.webp\" alt=\"no-f3\" />\n</a>\n&nbsp;\n\n&nbsp;\n\n\n\nЯ считаю, и, вероятно, многие другие тоже, что некоторые функции F3, такие как координаты, слишком сильны (OP). Именно поэтому этот мод их отключает.\nИспользуя моды вроде «Compass Coords» или «GUI Compass», вы сможете отображать координаты прямо на компасе, тем самым вернув ему практическую ценность.\n\nКоманда `/gamerule reducedDebugInfo false` отменит изменения, внесённые модом no-f3.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

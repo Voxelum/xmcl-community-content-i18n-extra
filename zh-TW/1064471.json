@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b9bdc28114e13e81",
+  "content": "\n\n<p>（此範本僅適用於包含 2 個紋理的方塊）</p>\n<p>步驟：</p>\n<ol>\n<li>將範本資料夾（於「檔案」標籤頁中可找到）移至你的桌面。</li>\n<li>解壓縮它。</li>\n<li>選擇刪除 pack.png 檔案（位於解壓縮後的範本資料夾內），或自行建立一個。</li>\n<li>前往 Minecraft 遊戲目錄&gt;versions&gt;（任意正式版（非模組載入器版本）(1.14+)）&gt;使用解壓縮軟體開啟 jar 檔案&gt;assets&gt;minecraft&gt;textures&gt;block&gt;（你的方塊側面/頂部紋理）&gt;將其複製到剪貼簿</li>\n<li>前往解壓縮後的範本資料夾&gt;assets&gt;minecraft&gt;textures&gt;block&gt;將 png 檔案貼上至該處。接著，若放入的是頂部紋理檔，請命名為 \"tnt_top\"；若是側面紋理，則命名為 \"tnt_side\"。重複此步驟，直到 block 資料夾內同時存在名為 \"tnt_top\" 與 \"tnt_side\" 的兩個紋理檔為止。</li>\n<li>回到主要的 zip 資料夾，刪除內部所有內容，並將解壓縮後的資料夾內的檔案複製進去。</li>\n</ol>\n<p>最終結構應如下所示：</p>\n<p>BirchLogTNTResourcePack.zip<br>├── assets<br>│ &nbsp; └── minecraft<br>│ &nbsp; &nbsp; &nbsp; └── textures<br>│ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; └── block<br>│ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; └── tnt_side.png</p>\n<p>│ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; │──tnt_top.png</p>\n<p>├── pack.mcmeta<br>└── pack.png （選填）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

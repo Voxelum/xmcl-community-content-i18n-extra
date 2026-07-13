@@ -1,6 +1,6 @@
 {
-  "bodyHash": "67PF9H1oUho=",
-  "content": "# Lithostitched\n\nLithostitched 是一個適用於 Fabric 與 Neoforge 的擴充庫模組，為世界生成帶來全新的可設定性與相容性強化。\n\n該模組在遊戲世界生成中加入了多項功能，旨在提升跨專案相容性並擴展整體的可設定性。\n\n- 正在建造生態域？有大量新增的地物類型等你來用！試試擴充的 `dungeon`、`ore` 和 `well` 地物，或者透過 `composite` 與 `template` 開創自己的道路。利用生態域注入器（biome injectors）輕鬆擺放你的生態域，這正是模組生態域佈局的簡單解決方案。\n\n- 正在製作或修改結構？現在你可以加入保證元素、結構專屬音樂、生成條件（如平坦度檢查）等等！你還可以使用 Lithostitched 的世界生成修改器系統，為原版結構添加模板與生成條件！\n\n- 想嘗試地形塑造？Lithostitched 新增了多種密度函數類型（包括 Fast Noise！），以及一套注入系統，能以相容的方式套用地形變更。\n\n\n所有這些新功能都是**資料驅動**的！更多資訊請參閱 [Lithostitched Wiki](https://github.com/Apollounknowndev/lithostitched/wiki)。",
+  "bodyHash": "69e122dd21f915b8",
+  "content": "\n\n# Lithostitched\n\nLithostitched 是一款適用於 Fabric 與 NeoForge 的擴充型程式庫模組，為世界生成（worldgen）提供了全新的可設定性與相容性增強功能。\n\n此程式庫將各類功能全面引入遊戲的世界生成系統中，旨在提升跨專案的相容性，並進一步擴展整體的可設定性。\n\n- 正在設計生物群系？這裡有海量的新特性類型！不妨試試擴充的 `dungeon`（迷宮）、`ore`（礦脈）與 `well`（水井）特性，或利用 `composite`（組合）與 `template`（範本）開創獨樹一格的路徑。搭配生物群系注入器（biome injectors）來放置你的生物群系，這正是解決模組化生物群系佈局的簡便方案。\n\n- 正在製作或修改結構？現在你可新增保證生成的元素、結構專屬音樂、生成條件（如平坦度檢查）等更多功能！你還能運用 Lithostitched 的世界生成修改器系統，為原版結構加入範本與生成條件！\n\n- 想要嘗試地形塑造？Lithostitched 新增了多種新的密度函數類型（包含 Fast Noise！），以及一套注入系統，能以相容的方式套用地形變更。\n\n\n所有這些新功能皆為**資料驅動**設計！歡迎瀏覽 [Lithostitched Wiki](https://github.com/Apollounknowndev/lithostitched/wiki) 了解更多詳情。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

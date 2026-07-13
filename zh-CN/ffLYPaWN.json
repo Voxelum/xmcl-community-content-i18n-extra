@@ -1,6 +1,6 @@
 {
-  "bodyHash": "I6Ysg4h1dsM=",
-  "content": "# Just Enough Immersive Multiblocks\n\n简单的沉浸工程附属模组，为多方块结构添加了 JEI 支持。\n\n多方块结构会显示在 JEI 搜索中。\n\n![JEI搜索](readme-images/jei-search.png)\n\n多方块配方会展示基础结构和所需材料。\n\n![电弧炉](readme-images/arc-furnace.png)\n\n同时原生支持 [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)（Minecraft 1.20.1+），无需额外兼容加载器。\n\n## 特定版本说明\n\n### 1.20.1\n\n- 衷心感谢 [FLORIAN4600](https://github.com/FLORIAN4600) 克服了棘手的生命周期问题，使本模组得以延续至 Minecraft 1.20+ 版本。\n- 感谢 [Pengy](https://github.com/PengyTheGamer) 提供 EMI 支持。\n\n### 1.16\n\n- 本模组在 1.16 版本存在已知问题，建议仅在单人模式下使用。\n\n### 早于 1.16 的版本\n\n- 不会向后移植至更早版本。除非您本人愿意自行移植并维护，否则请勿提出此类请求。\n- 独立的后向移植（1.12.2 版本）以 [Rather Enough Immersive Multiblocks](https://legacy.curseforge.com/minecraft/mc-mods/rather-enough-immersive-multiblocks) 形式存在。",
+  "bodyHash": "6d996685e90eb276",
+  "content": "\n\n# 足够沉浸式的多结构块\n\n一个简单的沉浸工程附加组件，为多结构块提供了 JEI 支持。\n\n多结构块将出现在 JEI 搜索栏中\n\n![JEI 搜索](readme-images/jei-search.png)\n\n多结构块配方将展示基础结构与所需材料\n\n![电弧炉](readme-images/arc-furnace.png)\n\n同时以一等插件形式支持 [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)（Minecraft 1.20.1+），无需额外兼容性加载器。\n\n## 特定版本说明\n\n### 1.20.1\n\n- 衷心感谢 [FLORIAN4600](https://github.com/FLORIAN4600) 攻克了棘手的生命周期问题，使本模组得以延续至 Minecraft 1.20+\n- 感谢 [Pengy](https://github.com/PengyTheGamer) 提供 EMI 支持\n\n### 1.16\n\n- 本模组在 1.16 版本中存在已知问题，仅建议在单人游戏环境下使用\n\n### 1.16 之前的版本\n\n- 本模组不会向后移植至更早版本。除非你个人已准备好亲自进行移植并负责后续维护，否则请勿询问。\n- 存在独立移植至 1.12.2 的版本，名为 [Rather Enough Immersive Multiblocks](https://legacy.curseforge.com/minecraft/mc-mods/rather-enough-immersive-multiblocks)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

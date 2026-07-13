@@ -1,6 +1,6 @@
 {
-  "bodyHash": "UuzMDgTthEE=",
-  "content": "一個伺服器端的 [Fabric](https://fabricmc.net/) 模組，讓地圖即使在其它維度也能顯示你的位置。\n\n<iframe src=\"https://www.youtube.com/embed/PG-rujo8Zcc\" height=\"358\" width=\"638\"></iframe>\n\n此模組新增的地圖標記會根據玩家所在的維度變換顏色。同時也會考慮維度座標比例，因此在地獄觀看主世界地圖時，地圖標記會顯示在主世界的對應位置（大約是地獄門會連結到的位置）。\n\n連結：[CurseForge](https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers) · [GitHub](https://github.com/A5b84/interdimensional-map-markers) · [Modrinth](https://modrinth.com/mod/interdimensional-map-markers)",
+  "bodyHash": "16b7b425dbb3c6fe",
+  "content": "\n\n這是一個伺服器端的 [Fabric](https://fabricmc.net/) 模組，可在地圖上顯示您的位置，即使您身處其他維度亦然。\n\n<iframe src=\"https://www.youtube.com/embed/PG-rujo8Zcc\" height=\"358\" width=\"638\"></iframe>\n\n本模組新增的地圖標記會根據玩家所在的維度改變顏色。它們也會考慮維度座標的縮放比例，因此當您在地獄查看主世界地圖時，地圖標記會顯示在主世界對應的位置（大約是地獄傳送門會通往的地方）。\n\n連結：[CurseForge](https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers) · [GitHub](https://github.com/A5b84/interdimensional-map-markers) · [Modrinth](https://modrinth.com/mod/interdimensional-map-markers)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

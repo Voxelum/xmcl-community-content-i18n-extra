@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f6d8457793728140",
+  "content": "\n\n### 描述\n \n此数据包会在每个玩家头顶显示其生命值。这在 PvP 服务器，或任何因各种原因需要查看其他玩家生命值的多人服务器中非常有用。\n\n![Example](https://cdn.modrinth.com/data/cached_images/afc56b332c60b1dfa750b63cdf151982ccf35c04.png)\n\n### 安装指南 \n\n在 Windows 系统上，前往你的存档文件夹，路径如下：\n```\nC:\\Users(your name)\\AppData\\Roaming\\.minecraft\\saves\n```\n将压缩包放入 `data_packs` 文件夹中，然后重启世界或执行 `/reload` 命令。\n\n### 卸载指南\n\n运行命令 `/function hp:uninstall`，然后删除该数据包。在执行卸载命令后，请务必在删除数据包之前不要重新加载（使用 `/reload` 或重启世界）！\n\n### 注意事项\n\n- 请注意，显示的数字是生命值点数而非红心，1 个红心 = 2 点生命值。\n- 此数据包仅显示玩家的生命值，不显示生物的生命值。\n- 如需反馈、报告错误或寻求其他帮助，请加入本页链接部分的 [Discord 服务器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

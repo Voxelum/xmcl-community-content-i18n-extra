@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2U/Ld/IZcPg=",
-  "content": "<p>ExpandAbility — это библиотечный мод, который предоставляет несколько событий для управления стандартными способностями игрока.</p><p>В настоящее время реализованы следующие способности/эффекты:</p><ul>\n<li>Плавание: плавать вне жидкостей или отключить плавание в жидкостях</li>\n<li>Ходьба по жидкостям</li>\n</ul><p>Запланированные способности/эффекты:</p><ul>\n<li>Постоянные статусные эффекты</li>\n</ul><p>Авторы мода:\nExpandAbility доступен в моём репозитории Maven: <a href=\"/linkout?remoteUrl=https%253a%252f%252fmaven.florens.be%252f\" rel=\"nofollow\">https://maven.florens.be</a></p><p><a href=\"https://discord.gg/87pXJadaRr\" rel=\"nofollow\"><img src=\"https://discordapp.com/api/guilds/298798089068609537/widget.png?style=banner2\" alt=\"\"></a></p>",
+  "bodyHash": "8abb2c899f48b82e",
+  "content": "\n\n<p>ExpandAbility — это мод-библиотека, предоставляющая несколько событий для управления стандартными возможностями игрока.</p>\n<p>В настоящее время реализованные способности/эффекты:</p>\n<ul>\n<li>Плавание: возможность плавать вне жидкостей или отключение плавания в жидкостях</li>\n<li>Ходьба по жидкостям</li>\n</ul>\n<p>Планируемые способности/эффекты:</p>\n<ul>\n<li>Постоянные статусные эффекты</li>\n</ul>\n<p>Для разработчиков модов:\nExpandAbility доступен в моём Maven-репозитории: <a href=\"/linkout?remoteUrl=https%253a%252f%252fmaven.florens.be%252f\" rel=\"nofollow\">https://maven.florens.be</a></p>\n<p><a href=\"https://discord.gg/87pXJadaRr\" rel=\"nofollow\"><img src=\"https://discordapp.com/api/guilds/298798089068609537/widget.png?style=banner2\" alt=\"\"></a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

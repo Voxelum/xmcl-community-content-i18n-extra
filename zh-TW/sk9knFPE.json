@@ -1,6 +1,6 @@
 {
-  "bodyHash": "VIBXHrqapok=",
-  "content": "Mozilla Rhino 程式庫的分支，專為模組使用而修改。此程式庫新增支援 ES6 的 JavaScript 引擎 Rhino，且不依賴於 Java 15 中已移除的內建 Nashorn 引擎。\n\n此模組本身不會執行任何操作，它是 [KubeJS](https://modrinth.com/mod/kubejs) 所使用的程式庫。\n\n[![](https://links.latvian.dev/links.png?mr=rhino)](https://links.latvian.dev/)\n\n[![](https://links.latvian.dev/partner.png)](https://links.latvian.dev/partner)",
+  "bodyHash": "c67a51ade301bc41",
+  "content": "\n\nMozilla Rhino 程式庫的分支版本，已修改以適用於模組。此程式庫加入了支援 ES6 的 JavaScript 引擎 Rhino，且不依賴已在 Java 15 中被移除的內建 Nashorn 引擎。\n\n此模組本身無法獨立運作，它是供 [KubeJS](https://modrinth.com/mod/kubejs) 使用的程式庫。\n\n[![](https://links.latvian.dev/links.png?mr=rhino)](https://links.latvian.dev/)\n\n[![](https://links.latvian.dev/partner.png)](https://links.latvian.dev/partner)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

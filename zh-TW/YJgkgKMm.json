@@ -1,6 +1,6 @@
 {
-  "bodyHash": "kcLeLh2SOJg=",
-  "content": "## 介紹\n這個資料包為伺服器管理員提供了一些實用的指令，使其能夠輕鬆地對玩家的 Xaero 小地圖系列模組進行必要的公平性修改。\n\n## 運作方式\n請參閱 [Xaero 的小地圖模組](https://modrinth.com/mod/xaeros-minimap) 中的「如何禁止在我的伺服器上使用洞穴模式和/或實體雷達？」章節。\n\n## 使用方式\n- `/function xaero:fairxaero` 讓小地圖停用洞穴模式（包含世界地圖）和實體雷達（公平遊戲模式）<br>\n- `/function xaero:nominimap` 完全停用小地圖<br>\n- `/function xaero:resetxaero` 重設所有系統訊息標記<br>\n- `/function xaero:xaerowmnetherisfair` 讓世界地圖的洞穴模式在地獄中運作，即使小地圖處於公平遊戲模式\n\n上述指令會告訴玩家伺服器管理員使用了哪個指令。如果您不希望玩家知道您使用了哪個指令，請在 `xaero:` 後面加上 `silent/`（例如：`/function xaero:silent/fairxaero`）（但玩家仍會收到一則空白訊息）\n\n## 自動執行\n新增的自動執行功能能在玩家加入伺服器時自動執行功能，修改其小地圖的行為。\n- `/function xaero:autorun/set/disabled` 停用此功能（預設）\n- `/function xaero:autorun/set/...` 選擇要自動執行的功能",
+  "bodyHash": "b350408d04dcc85d",
+  "content": "\n\n## 簡介\n此資料包為伺服器管理員提供了一些實用的指令，方便對玩家使用的 Xaero 地圖系列模組進行調整，以確保遊戲的公平性。\n\n## 運作原理\n請參閱 [Xaero 小地圖模組](https://modrinth.com/mod/xaeros-minimap) 中的「如何在伺服器上禁止使用洞穴模式和／或實體雷達？」章節。\n\n## 使用方法\n- `/function xaero:fairxaero`：強制小地圖（包含世界地圖）停用洞穴模式，並關閉實體雷達（公平遊玩模式）<br>\n- `/function xaero:nominimap`：完全停用小地圖<br>\n- `/function xaero:resetxaero`：重置所有系統訊息標記<br>\n- `/function xaero:xaerowmnetherisfair`：即使小地圖已啟用公平模式，仍讓世界地圖的下界洞穴模式正常運作\n\n上述指令會向玩家顯示伺服器管理員所使用的內容。若您不希望玩家知道您執行了哪個指令，可在 `xaero:` 後加上 `silent/`（例如：`/function xaero:silent/fairxaero`）。（但玩家仍會收到空白訊息）\n\n## 自動執行\n新增的自動執行功能可在玩家加入伺服器時自動執行函數，進而修改其小地圖的行為。\n- `/function xaero:autorun/set/disabled`：停用此功能（預設值）\n- `/function xaero:autorun/set/...`：選擇要自動執行的函數",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

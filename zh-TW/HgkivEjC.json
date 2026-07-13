@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bfe5371713756090",
+  "content": "\n\n本模組新增了一些用於傳送的指令。\n\n用法：`/tpmaster <操作> [<引數1> <引數2> ...]`。\n\n- `/tpmaster accept` - 接受您剛剛收到的傳送請求。\n- `/tpmaster deny` - 拒絕您剛剛收到的傳送請求。\n- `/tpmaster away [<距離> [<必須在陸地>]]` - 將您隨機傳送到 <距離> 格外的位置（關閉 <必須在陸地> 以允許傳送至水中）。\n- `/tpmaster request <目標> [ ask | invite ]` - 建立傳送請求，詢問 <目標> 是否可傳送至其所在位置，或邀請 <目標> 前來您的位置。\n- `/tpmaster spawn` - 傳送到公共出生點。\n- `/tpmaster sethome [<索引>]` - 將您目前的位置設定為第 <索引> 個家。\n- `/tpmaster home [<索引>]` - 傳送到您的第 <索引> 個家。\n- `/tpmaster back` - 傳回您上次死亡的位置。\n- `/tpmaster remove home [<索引>]` - 刪除您的第 <索引> 個家。\n- `/tpmaster remove back` - 清除您上次的死亡記錄。\n- `/tpmaster help` - 顯示說明資訊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

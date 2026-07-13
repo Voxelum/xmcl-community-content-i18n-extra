@@ -1,0 +1,6 @@
+{
+  "bodyHash": "83d1cc9d77b352ad",
+  "content": "\n\n# Исправление ошибки «Пустого воздуха» для Display Link в Create\n\nИсправляет баг в Create v6.0.10, из-за которого Display Link всегда показывал «Пустой воздух» в своём интерфейсе. Миксин изменяет метод `DisplayLinkBlockEntity.getTargetPosition()`, чтобы он возвращал правильную позицию блока вместо `BlockPos.ZERO`.\n\n## Для обычных пользователей\n\nЭтот мод должен быть установлен как на сервере, так и на клиенте. Поместите JAR-файл в папку `mods/` на обеих сторонах. На этом всё.\n\n## Для разработчиков\n\nКорневая причина заключается в том, что `DisplayLinkBlockEntity.getTargetPosition()` возвращает `BlockPos.ZERO`, несмотря на корректные значения `worldPosition` и `targetOffset`. Миксин заменяет тело метода на `getBlockPos().offset(targetOffset)`. Мод требуется на обеих сторонах, поскольку он патчит общий класс.\n\n# До исправления\n![Ошибочное поведение](https://cdn.modrinth.com/data/cached_images/dbe4cf71a54b5dde8e812202f85169026301361e.png)\n\n\n# После исправления\n![Нормальное поведение](https://cdn.modrinth.com/data/cached_images/9d592d9191fad52a5e34cb22d49fa7105f6b23c5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "sZJHJp3KmBQ=",
-  "content": "<h1>Lithostitched</h1><p>Lithostitched 是一個用於 Forge 和 Fabric 的函式庫模組，為世界生成提供全新的可配置性與相容性增強功能。</p><h2>介紹</h2><p>此模組為資料包和模組化世界生成開發者引入了新的工具，旨在提升跨專案的相容性並擴充整體的可配置性。目前已有以下功能：</p><ul>\n<li>生態域修飾器</li>\n<li>範本池注入器</li>\n<li>地表規則修飾器</li>\n</ul><p>所有這些新功能都是<strong>資料驅動</strong>的！更多資訊請參閱 <a href=\"https://github.com/Apollounknowndev/lithostitched/wiki\" rel=\"nofollow\">Lithostitched Wiki</a>。</p>",
+  "bodyHash": "a56f87e843013f55",
+  "content": "\n\n<h1>Lithostitched</h1>\n<p>Lithostitched 是一款適用於 Forge 與 Fabric 的程式庫模組，針對世界生成（worldgen）提供了全新的可配置性與相容性增強功能。</p>\n<h2>簡介</h2>\n<p>本模組為數據包（datapack）與模組化世界生成開發者引入了新工具，旨在提升跨專案相容性並擴展整體的可配置彈性。目前包含的功能有：</p>\n<ul>\n<li>生物群系修改器</li>\n<li>模板池注入器</li>\n<li>地表規則修改器</li>\n</ul>\n<p>所有這些新功能皆由<strong>資料驅動</strong>！欲了解更多資訊，請查看 <a href=\"https://github.com/Apollounknowndev/lithostitched/wiki\" rel=\"nofollow\">Lithostitched Wiki</a>。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

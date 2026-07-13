@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3c16d0504eaf76f",
+  "content": "\n\n### **Retina** 是一款專為 Minecraft：Java 版 1.20+ 設計的光線投射（Raycasting）庫數據包，採用體素遍歷技術。 \n\n與其他類似數據包不同，它支援（幾乎）**所有**類型的碰撞箱，包括方塊與實體。它也不依賴實體傳送，因此平均運作效率略高一些。\n\n此外，Retina 支援大量可自訂的輸入參數，並提供詳細的輸出資訊，使其成為自訂地圖與數據包的極佳資源，應用範圍涵蓋魔杖、槍械、自訂方塊放置以及雷射光束等。\n\n如需更多詳細資訊，請前往 [GitHub 儲存庫](https://github.com/Nico314159/Retina_v2) 查看。\n\n\n標誌設計致敬：<a href=\"https://www.vectorstock.com/royalty-free-vector/eye-radiation-from-a-laser-beam-ray-flat-icon-vector-33677720\">Vector image by VectorStock / vectorstock</a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

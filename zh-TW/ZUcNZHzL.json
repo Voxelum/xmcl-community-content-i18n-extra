@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9bb398db6d4cac63",
+  "content": "\n\n**一款極度輕量的 Iris 光影包，內建飽和度滑桿，讓你能夠自由調整遊戲畫面的飽和度**\n\n![Showcase of saturation](https://cdn.modrinth.com/data/cached_images/aa6660c423f51f4a8ebc5645bc0b2b2756e7d4ba_0.webp)\n\n滑桿的數值範圍如下：\n\n\"0.0 0.05 0.10 0.15 0.20 0.25 0.30 0.35 0.40 0.45 0.50 0.55 0.60 0.65 0.70 0.75 0.80 0.85 0.90 0.95 1.0 1.05 1.10 1.15 1.20 1.25 1.30 1.35 1.40 1.45 1.50 1.55 1.60 1.65 1.70 1.75 1.80 1.85 1.90 1.95 2.0 3.0 100\" \n\n其中 1 代表正常飽和度，0 為完全無飽和度，100 則為最高飽和度。\n\n本光影包由 MrBrose 製作，並獲得 RJ_Infinity 協助。\n\n基礎程式碼參考自 Bestsoft100 開發的「Base-Shader」\nhttps://modrinth.com/shader/base-shader",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fed57e20970d2325",
+  "content": "\n\n本模组修复了在 Create Aeronautics/Sable 模组中尝试钩住物理实体时，Create Stuff 'N Additions 模组出现的一个严重错误。\n\n现在，当玩家尝试钩住物理实体时，钩子会直接将其穿透。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

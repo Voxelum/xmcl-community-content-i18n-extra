@@ -1,0 +1,6 @@
+{
+  "bodyHash": "54c604e825b13d43",
+  "content": "\n\n# 關於\n- 你的物品欄僅限快捷欄、副手與裝備使用。其他所有欄位均無法操作，嘗試將物品放入會直接掉落。\n- 基礎資料包 - [UIM Minecraft](https://modrinth.com/datapack/uim-minecraft-hotbar-only)\n\n# 變更項目\n- 僅可使用快捷欄、副手與裝備，其餘所有物品欄位皆已封鎖。\n- 若世界內含有屏障方塊，建議建立新世界。\n- 動物與生物不會死亡。\n\n# 多人遊戲支援\n- 可正常運作於多人伺服器，並已於 15 人伺服器環境中完成測試。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

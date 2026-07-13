@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f22c2bc5dc973d47",
+  "content": "\n\n# 查看伺服器資源\n一款 Minecraft 模組，允許您在下載前預覽伺服器資源包的網址\n\n![新增的伺服器資源包介面](https://github.com/user-attachments/assets/edf3b358-0bad-4237-b4fe-910f931ca729)\n\n這讓您可以：\n1. 確認實際下載的內容與來源\n2. 將特定的資源包網址或網站加入白名單\n3. 針對每個伺服器資源包進行個別決定（通常情況下，即使您只接受了一個，客戶端仍會接受所有伺服器資源包）\n\n其他功能：\n1. 接收聊天訊息，告知您已下載了哪些資源包（可關閉）\n\n## 設定\n設定檔會儲存於 **viewserverresources.json**。\n\n您也可以透過 [Mod Menu](https://modrinth.com/mod/modmenu) 管理設定。\n\n![設定介面](https://github.com/user-attachments/assets/ba2d2197-e323-42f1-a43a-59dc0733e139)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

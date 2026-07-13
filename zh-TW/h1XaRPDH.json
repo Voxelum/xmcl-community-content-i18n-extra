@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4eaaf1ea78608f61",
+  "content": "\n\n使用核心著色器調整雨滴傾斜角度，無需額外安裝模組。微調雨滴材質使其更加逼真，並同步調整雨滴濺射粒子。此外，雲層著色器也經過微調，讓雲朵呈現半透明狀態並改善霧氣漸變效果。\n\n![Minecraft rain comparison](https://cdn.modrinth.com/data/cached_images/c16381a7e8b26b1c92f9207910848c2536e3e864.png)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/eey2iRNHg7c\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n我也可能會調整水滴粒子以保持一致。目前該粒子使用的是原版硬編碼的深藍色。\n\n相容性：\nDynamic Rain 應與 Sodium 相容。Sodium 偶爾會導致原版與 Fabric 模組的 Minecraft 渲染異常，但我個人未曾遇過此問題。若您遇到問題，可嘗試安裝擴充套件 Indium，它通常能修復渲染問題，但一般情況下並不需要。\n\n**不過，本資源包與著色器包（shaderpacks）不相容！**\n\n\n由於我在著色器程式碼方面的編程經驗有限，代碼的整潔度可能未臻完美，宣告與修改矩陣的方式或許還有更優異的寫法。\n\n\n本資源包的運作原理如下：頂點著色器會讀取雨滴材質中的特定 Alpha 值（透明度 38%），並透過轉換／旋轉粒子矩陣來實現雨滴傾斜效果。材質必須帶有透明背景，才能完整作用於整個粒子而非局部，因此需要片段著色器來遮罩背景。片段著色器會偵測並捨棄材質中的透明綠色背景，僅保留雨滴圖形。若有任何疑問或希望重用此段代碼，歡迎在 Discord 上透過 _timmychips_ 聯繫我！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

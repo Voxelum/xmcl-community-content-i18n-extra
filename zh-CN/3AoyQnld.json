@@ -1,0 +1,6 @@
+{
+  "bodyHash": "09b1abde2ae1680a",
+  "content": "\n\n# Bedframe\n\n转换层，用于将服务端带有纹理/自定义的 Polymer 方块和物品转换为原生的基岩版（Bedrock）表示形式。\n\n> ⚠️ Bedframe 处于早期开发阶段（可能长期保持此状态），因此你应当*预期*会出现问题。产品不含电池。详情请参阅商店页面。\n\n> ❗ 如果你正在寻找基岩版的通用模组支持，可以试试 [Hydraulic](https://github.com/GeyserMC/Hydraulic) 是否适合你。或者，如果你专门需要 Polymer 支持，且能使用 Geyser 的自定义物品 API V2 预览版，可以看看 [Rainbow](https://geysermc.org/wiki/other/rainbow/) 是否适合你。它们的转换代码比我的更优秀。请注意，Hydraulic 目前*不*支持 Polymer 模组，我也未测试过这两个模组同时运行的情况。\n\n## 前置要求\n\n- [Geyser-Fabric](https://geysermc.org/download)\n- [Polymer（或使用它及其资源包功能的模组）](https://modrinth.com/mod/polymer)\n\n你可能还需要开启 Polymer 的自动主机（Auto-Host）功能，但 Bedframe 并不强制要求它。\n\n## 兼容性\n\n请参阅[电子表格](https://docs.google.com/spreadsheets/d/1ru1hisG0D22LlQG8Kkw0XwVGLOjtfU8odAiiZo6nnzQ/edit?usp=sharing)。\n\n目前不支持使用显示实体的 Polymer 模组。（Geyser 本身也不支持该特性。）\n\nBedframe 不会修改无纹理的方块（因此像 [Server-Side Waystones](https://modrinth.com/mod/sswaystones) 这类模组会按预期正常工作）\n\n如遇不兼容的模组，欢迎随时[提交 Issue](https://github.com/sylvxa/bedframe/issues/new)。\n\n## 许可证\n\n本模组采用 CC0 协议开源。欢迎学习其代码并将其融入你自己的项目中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "73f7b90287c9fb61",
+  "content": "\n\n### <span style=\"font-size: 24px;\"><strong><span style=\"font-size: 18px;\">需要 Timeless and Classics Zero</span></strong></span>\n\n TaCZ Additions 是一款專為 TaCZ 設計的附加模組，著重於提升射擊體驗的沉浸感，並盡可能優化玩家的操作體驗。請注意，本模組目前處於早期開發階段。\n\n*   槍枝移動採動量運算\n*   橫向移動時槍枝會隨之傾斜\n*   數值完全可自訂設定\n*   後坐力倍率選項（可根據槍械類型及水平/垂直方向進行自訂）\n*   射擊時產生槍口火焰\n*   4倍鏡瞄準時視角會晃動（模擬狙擊遊戲效果）\n*   槍枝待機動作\n*   提供關閉射擊後槍口上揚後坐力的選項\n*   雷射瞄準器配件的雷射光點（顏色會根據配件動態變化）\n*   [製作中] 將彈匣懸停提示子彈數量取代 HUD 顯示\n\n***\n\n**發現問題或想來聊聊請加入 Zarra Studios 的 Discord：[https://discord.gg/PVd6GNpvtW](https://discord.gg/PVd6GNpvtW)**\n\n***\n\n**未來計畫：**\n\n*   **新增射擊時的自訂煙霧粒子效果**\n*   **修正視覺後坐力設定**\n*   **新增更多玩家要求的功能**\n*   **依槍械類別（狙擊槍、手槍、步槍等）獨立設定各項數值**\n\n***\n\n由 Zarra Studios 開發的模組\n\n請透過 Discord 或 GitHub 回報問題\n\n**原始碼已開源**\n\n#### **本程式碼採用 ARR 授權條款**  \n**若您使用本模組，請務必附上我們原版頁面（Curseforge 或 Modrinth）的連結**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

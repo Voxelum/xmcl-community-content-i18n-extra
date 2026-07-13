@@ -1,6 +1,6 @@
 {
-  "bodyHash": "QZIeYMdc6vU=",
-  "content": "<h2>更新：1.21.1 首个版本现已发布！</h2><p>本模组在EMI与[Let's Do]系列模组之间搭建了桥梁，因为这些模组原生仅支持JEI和REI。它为[Let's Do]系列模组中提供的各类制作方法在EMI中添加了合成配方。</p><p>此模组需要安装EMI才能运行。它不依赖任何[Let's Do]系列模组，因此你可以自由选择启用或禁用其中的任何一个模组。</p><p>本模组为以下模组的所有配方提供了EMI支持：</p><ul>\n<li>[Let's Do] 烘焙乐</li>\n<li>[Let's Do] 海滩派对</li>\n<li>[Let's Do] 酿造坊</li>\n<li>[Let's Do] 烛光晚餐</li>\n<li>[Let's Do] 草药酿造</li>\n<li>[Let's Do] 牧场物语</li>\n<li>[Let's Do] 葡萄园</li>\n<li>[Let's Do] 下界葡萄园</li>\n<li>[Let's Do] 农场与魅力及附属模组</li>\n</ul><p>新增配方——这些配方原本就存在于[Let's Do]系列模组中，但模组作者很可能没有为其创建JEI/REI的可视化界面。本模组为那些模组作者认为无需配方的制作方法添加了可视化展示。</p>",
+  "bodyHash": "3156587c3cdac530",
+  "content": "\n\n<h2>更新：1.21.1 首个版本已发布！</h2>\n<p>本模组填补了 EMI 与 [Let's Do] 系列模组之间的空白，因为这些模组原生仅支持 JEI 与 REI。它为 [Let's Do] 系列模组提供的各类制作方式在 EMI 中添加了相应的配方。</p>\n<p>安装本模组需预先安装 EMI。它并不依赖 [Let's Do] 系列中的任何模组，因此你可以按需自由搭配。</p>\n<p>本模组将以下模组的各种配方导入 EMI：</p>\n<ul>\n<li>[Let's Do] Bakery</li>\n<li>[Let's Do] Beachparty</li>\n<li>[Let's Do] Brewery</li>\n<li>[Let's Do] Candlelight</li>\n<li>[Let's Do] Herbal Brews</li>\n<li>[Let's Do] Meadow</li>\n<li>[Let's Do] Vinery</li>\n<li>[Let's Do] Nether Vinery</li>\n<li>[Let's Do] Farm &amp; Charm 及其兼容内容</li>\n</ul>\n<p>新配方 —— 这些配方原本就已存在于 [Let's Do] 模组中，但作者很可能未为其制作 JEI/REI 的可视化显示。本模组为那些被原作者认为“无需显示配方”的内容补充了可视化支持。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

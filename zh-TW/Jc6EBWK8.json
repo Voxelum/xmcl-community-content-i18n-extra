@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+vlp1dztKpY=",
-  "content": "真實力量：Goety（戈提）是一款Minecraft Forge模組，旨在橋接Goety與SlashBlade: Resharped（斬擊刃：重鑄）之間的空缺，讓Goety召喚的僕從能在戰鬥中揮舞傳奇武士刀武器。\n\n功能特色\n- **斬擊刃整合**：所有Goety召喚的僕從（殭屍、骷髏、幽靈等）現在都能裝備並使用斬擊刃武器  \n- **自動戰鬥AI**：僕從會自動偵測範圍內的敵人並執行斬擊攻擊  \n- **完整動畫支援**：包含斬擊特效、連擊組合與視覺回饋  \n- **動態目標鎖定**：採用Goety的優先目標系統進行智能敵方選擇  \n- **附加模組相容**：支援所有擴展召喚類別的Goety附加模組  \n\n**系統需求**  \n- Minecraft 1.20.1  \n- Forge 47.4.8+  \n- Goety（任意版本）  \n- SlashBlade: Resharped（任意版本）  \n\n**運作方式**  \n只需將任意斬擊刃武器裝備於召喚僕從的主手即可。僕從將自動：  \n- 偵測攻擊範圍內的敵對目標  \n- 面向目標方向  \n- 以正確動畫執行斬擊攻擊  \n- 維持攻擊冷卻機制以平衡戰鬥  \n\n**相容性**  \n本模組設計具有前瞻性，可相容：  \n- 所有現行及未來Goety更新版本  \n- Goety附加模組（如Cataclysm Goety等）  \n- 任何SlashBlade附加武器  \n\n**授權許可**  \nMIT 授權條款 - 歡迎在模組包中自由使用！",
+  "bodyHash": "095f0297b953a22d",
+  "content": "\n\nTrue Power of Goety 是一款 Minecraft Forge 模組，彌補了 Goety 與 SlashBlade: Resharped 之間的差距，讓 Goety 召喚的僕從能在戰鬥中揮舞傳說中的武士刀武器。\n\n功能特色\nSlashBlade 整合：所有來自 Goety 的召喚僕從（殭屍、骷髏、幽靈等）現在都可以裝備並使用 SlashBlade 武器\n自動戰鬥 AI：僕從會自動偵測範圍內的敵人並執行斬擊攻擊\n完整動畫支援：包含斬擊特效、連擊組合與視覺回饋\n動態鎖定目標：採用 Goety 的優先鎖定系統，進行智能的敵人選擇\n外掛相容性：與所有擴充 Summoned 類別的 Goety 外掛模組相容\n需求\nMinecraft 1.20.1\nForge 47.4.8+\nGoety（任意版本）\nSlashBlade: Resharped（任意版本）\n運作方式\n只需在主手欄為你的召喚僕從裝備任何 SlashBlade 武器即可。僕從將自動：\n\n偵測攻擊範圍內的敵對目標\n面向其目標\n搭配適當動畫執行斬擊攻擊\n維持攻擊冷卻時間以確保戰鬥平衡\n相容性\n本模組設計為具備未來相容性，可與以下項目相容：\n\n所有現行與未來的 Goety 更新\nGoety 外掛模組（如 Cataclysm Goety 等）\n任何 SlashBlade 外掛武器\n授權條款\nMIT 授權條款 - 歡迎自由用於模組包！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

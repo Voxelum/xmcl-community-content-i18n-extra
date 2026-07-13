@@ -1,6 +1,6 @@
 {
-  "bodyHash": "o8q/7wK81HU=",
-  "content": "主要实用模组，包含所有修复内容\n\n这个模组是我所有模组之间共享的通用代码的巨大集合。目前它在技术上是四个 Forge 模组的组合，包括 coroai、buildmod、configmod 和 extendedrenderer。\n\n你可以随意在任何整合包中使用这个模组。",
+  "bodyHash": "4dd7002a3021ae8a",
+  "content": "\n\n核心实用模组，功能一应俱全\n\n本模组是一个庞大的公共代码库，汇集了我旗下所有模组共用的基础代码。目前它在技术上相当于将 coroai、buildmod、configmod 和 extendedrenderer 这4个 Forge 模组合并而成。\n\n欢迎在任何模组整合包中使用本模组。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

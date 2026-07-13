@@ -1,0 +1,6 @@
+{
+  "bodyHash": "652d4e34e3fc353d",
+  "content": "\n\n![Banner](https://cdn.modrinth.com/data/cached_images/4a099f12c97ca1eeaa1e63abe7870130f8311de0_0.webp)\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/E5fkjKUgWJ\" target=\"_blank\">\n    <img src=\"https://cdn.modrinth.com/data/cached_images/2b44803205849fbce75a7ef7819e4a0c8fa23cab_0.webp\"\n         alt=\"Discord\"\n         width=\"200\">\n  </a>\n</p>\n\n\n\n# F To Freecam...\n\n...是一款簡單的自由視角模組！\n\n...只需按下 F 鍵即可進入自由視角模式\n\n...飛行時只需滾動滑鼠滾輪即可控制飛行速度！\n\n\n<details>\n<summary>使用方法</summary>\n\n1. 下載該模組與 [Fabric API](https://modrinth.com/mod/fabric-api)\n2. 將兩者放入您的 ```Mods``` 資料夾中\n3. 啟動 Minecraft 並按下 F 鍵開始使用自由視角！\n</details>\n\n\n<details>\n<summary>伺服器設定</summary>\n「F To Freecam」不允許在多人遊戲伺服器中使用自由視角！但如果您仍想使用，請按照以下步驟操作：\n\n1.    使用 Fabric 伺服器軟體建立一個伺服器。\n2.    安裝 Fabric API，並與客戶端使用的「F To Freecam」模組版本保持一致。\n3.    啟動您的伺服器！\n\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

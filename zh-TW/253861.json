@@ -1,0 +1,6 @@
+{
+  "bodyHash": "36a9281788c54184",
+  "content": "<h2><span style=\"font-size:36px\"><a style=\"font-size:36px\" href=\"/linkout?remoteUrl=https%253a%252f%252fmodrepo.de%252fminecraft%252ffaq\" rel=\"nofollow\">常見問題</a></span></h2>\n<p>&nbsp;</p>\n<p><span style=\"font-size:18px\">此模組允許您從物品欄中直接打開潛影盒。只需在物品欄中右鍵點擊潛影盒即可打開。按住蹲下鍵放置即可。</span></p>\n<p><img src=\"https://media.giphy.com/media/U8eGzAY8suFpuAyMQv/giphy.gif\" alt=\"\"></p>\n<p>&nbsp;</p>\n<h2>安裝</h2>\n<h3><em>版本 2.x.x 及更高版本</em></h3>\n<p>只需在伺服器上安裝此模組即可，但為了獲得更好的體驗，可選地在客戶端也進行安裝。</p>\n<h3><em>版本 1.x.x</em></h3>\n<p>您需要同時在伺服器<strong>和</strong>客戶端安裝此模組。</p>\n<p>&nbsp;</p>\n<h2>配置</h2>\n<h3><em>版本 2.x.x 及更高版本</em></h3>\n<p>配置文件位於 <code>config/shulkerbox/shulkerbox.properties</code>。</p>\n<h3><em>版本 1.x.x</em></h3>\n<p>配置文件位於世界資料夾中的 <code>serverconfig</code> 子資料夾內，檔名為 <code>shulkerbox-server.toml</code>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

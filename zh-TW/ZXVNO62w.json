@@ -1,6 +1,6 @@
 {
-  "bodyHash": "q9XY8R73/dY=",
-  "content": "🌟 概述\n\n你在建造 Create 模組工廠時，是否曾想過：「為什麼 Create 的注液口不能直接填充 Create Stuff 'N Additions 的儲罐呢？」現在可以了。\nEasyFilling 是一個輕巧、專注的小型附加模組，它橋接了這兩個模組，讓你的流體自動化保持簡單整潔——無需繞路。\n\n放一個注液口，注入正確的流體，把 CS'NA 儲罐放在下面……看著它慢慢填滿。就是這麼簡單。\n\n✨ 特色\n\n> 注液口 → CS'NA 儲罐：完整支援\n> 小型燃料/填充儲罐\n> 中型燃料/填充儲罐\n> 大型燃料/填充儲罐\n> 流體：水與熔岩（更多流體由 CS'NA 視情況處理）\n> 工具提示：標題始終可見；按住 Shift 可查看詳細資訊\n> 輕量：無新增方塊、無設定——僅提供正確的流體功能\n> 整合方便：客戶端 + 伺服器友好，效能表現良好\n\n⚙️ 需求\n\n> NeoForge 21.1.176\n> Create 6.0.6\n> Flywheel 1.0.x\n> Create Stuff 'N Additions 2.1.0.e\n\n已在 Minecraft 1.21.1 版本搭配上述版本進行測試。\n\n🧪 使用方法\n\n製作一個 CS'NA 燃料/填充儲罐（小型/中型/大型）。\n\n將正確的流體放入 Create 注液口中。\n\n將儲罐放在注液口下方（或讓它經過你的傳送線路）。完成。\n\n📦 模組包使用許可\n\n歡迎使用。你可以將 EasyFilling 加入任何模組包中。如果能附上來源連結會很感謝，但並非必要。\n\n🙌 致謝\n\n衷心感謝 Create、Flywheel 和 Create Stuff 'N Additions 背後的團隊。",
+  "bodyHash": "2b7c8ca9dc130438",
+  "content": "\n\n🌟 概述\n\n曾經在打造 Create 工廠時想過：「為什麼 Create 的 Spout 無法直接為 Create Stuff ’N Additions 的槽體裝填流體？」現在可以了。\nEasyFilling 是一款小巧且專注的模組擴充，將這兩個模組完美串接，讓您的流體自動化維持簡潔清晰——完全無需使用任何怪異的替代方案。\n\n放置一個 Spout，注入正確的流體，將 CS'NA 槽體置於下方……看著它自動裝填即可。就是這樣。\n\n✨ 功能特色\n\n> Spout → CS'NA 槽體：完整支援\n> 小型燃料/裝填槽\n> 中型燃料/裝填槽\n> 大型燃料/裝填槽\n> 流體類型：水與熔岩（其餘流體由 CS'NA 依適用情況自動處理）\n> 懸停提示：標題永久顯示；按住 Shift 鍵可查看額外詳細資訊\n> 輕量高效：不新增任何方塊，無需設定檔——僅提供正確的流體裝填能力\n> 整合包相容性佳：客戶端與伺服器皆支援，且對效能友好\n\n⚙️ 系統需求\n\n> NeoForge 21.1.176\n> Create 6.0.6\n> Flywheel 1.0.x\n> Create Stuff ’N Additions 2.1.0.e\n\n已於 Minecraft 1.21.1 搭配上述版本完成測試。\n\n🧪 使用方法\n\n製作 CS'NA 燃料/裝填槽（小型／中型／大型）。\n\n在 Create Spout 中注入正確的流體。\n\n將槽體置於 Spout 正下方（或讓其通過自動化輸送線路）。完成。\n\n📦 整合包授權\n\n歡迎使用。您完全可以自由將 EasyFilling 納入任何整合包中。若能附上原連結表示感謝，但並非強制要求。\n\n🙌 致謝\n\n衷心感謝 Create、Flywheel 以及 Create Stuff ’N Additions 背後的開發團隊。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3225eef9b44fa1a0",
+  "content": "\n\n## 描述\n讓硫磺方塊在接觸到方塊或實體時即可引爆。爆炸威力取決於方塊的速度。\n\n![Showcase](https://cdn.modrinth.com/data/1V0VOk1l/images/efb8ee2dae5327f39baa36ed0b9fd6ae2c41700e.gif)\n\n## 技術說明\n模組會以與原版引燃硫磺方塊相同的邏輯檢查方塊是否能爆炸。因此，任何能被引燃的目標在接觸時都會引發爆炸。\n\n模組也內建了設定檔（位於 config 資料夾中，名為 `explosive_sulfur_cubes.json`），包含以下欄位：\n- `explosionPowerMultiplier` - 控制爆炸威力\n- `speedThreshold` - 觸發爆炸所需的最小方塊速度",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

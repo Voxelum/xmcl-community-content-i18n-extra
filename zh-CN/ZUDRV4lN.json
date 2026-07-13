@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9159d3d865abb02e",
+  "content": "\n\nBetter Fusion Reactor 是 Mekanism Generators 的附属模组\n\n支持版本：1.12.2, 1.16.5, 1.18.2, 1.19.2\n\n本附加模组的理念是让 Mekanism 中的聚变反应堆更加贴近现实，并在管理上更具挑战性。\n\n在现实中，核聚变反应极其困难，人类尚未实现稳定且长期的聚变反应。\n\n安装此模组后，你将需要通过红石、计算机或手动方式来控制聚变反应堆的某些参数。\n\n温度越高，维持稳定反应就越困难。\n\n本模组为反应堆控制器和反应堆逻辑端口添加了全新的用户界面（UI）。\n\n如果你已建造了现有的反应堆，则需要使用本模组的方块重新建造它们。\n\n\n核心玩法是什么？\n\n你的任务是让当前反应性（Current Reactivity, CT）尽可能接近目标反应性（Target Reactivity, TR）。\n这样你就能获得更高的反应效率。这意味着更多的能量输出、每刻产生的蒸汽或热量。\n\n如果效率低于 80%，误差等级（Error Level）会逐渐上升。当误差等级达到 100% 时，反应堆将停机。如果在配置文件中启用了爆炸选项，反应堆甚至可能爆炸 💥（默认关闭）。\n\n如果效率高于 80%，误差等级会缓慢下降。\n\n请注意，目标反应性是一个 0 到 100 之间的随机值，并且会周期性变化。\n\n因此，你不能只是点燃反应堆就一走了之。你必须花费时间来手动控制它，或者利用红石或计算机编写某种自动化逻辑。\n\n注意热量乘数（Heat Multiplier, Hm）。该值越低，目标反应性重置的时间间隔就越长。 \n\n它也会影响误差等级的变化速度。因此，如果是手动控制，请尽量将其保持在接近 0 的值。\n\n热量乘数取决于等离子体温度。调整注入速率，你就能找到最佳数值。\n\n它还取决于冷却方式。水冷系统会使热量乘数更低。\n\n但如果想要获取更多能量，你就必须实现反应堆控制的自动化。\n祝你好运。\n\n\n\n示例 LUA 脚本（适用于 OpenComputers） https://github.com/igentuman/BettefFusionReactor/wiki/Simple-OpenComputers---ComputerCraft-script-for-reactor\n\n\n 鸣谢：\n\npupnewfster, aidancbrady, thommy101, thiakil 和 dizzyd\n原版模组作者",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

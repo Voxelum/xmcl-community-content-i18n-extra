@@ -1,6 +1,6 @@
 {
-  "bodyHash": "uBc/2nX4rOs=",
-  "content": "<p>為 ProjectE 附加元件開發者提供多種事件。</p><p>這使得修改內部流程更加容易。</p><h2>事件：</h2><ul>\n<li>EMC 變更事件<ul>\n<li>您可以使用此事件來處理 EMC 的變更。（例如：EMC 收益減少）</li></ul></li>\n</ul><p>本專案使用的圖示來自 <a href=\"https://www.curseforge.com/minecraft/mc-mods/projecte\" target=\"_blank\" rel=\"nofollow\">ProjectE 儲存庫</a>，並以 MIT 授權釋出。</p>",
+  "bodyHash": "02adddfac3038fa7",
+  "content": "\n\n<p>為 ProjectE 擴充模組開發者提供多個事件。</p>\n<p>這使得修改內部流程變得更加容易。</p>\n<h2>事件：</h2>\n<ul>\n<li>EMC 變更事件<ul>\n<li>您可以使用此事件來處理 EMC 的變更。（範例：EMC 收益減少）</li></ul></li>\n</ul>\n<p>本專案的圖示使用了來自 <a href=\"https://www.curseforge.com/minecraft/mc-mods/projecte\" target=\"_blank\" rel=\"nofollow\">ProjectE 倉庫</a> 的資源，該資源以 MIT 授權條款釋出。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

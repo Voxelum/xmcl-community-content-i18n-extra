@@ -1,0 +1,6 @@
+{
+  "bodyHash": "082893fc8e1d854f",
+  "content": "\n\n<h2><span style=\"color:#ecf0f1\">描述</span></h2>\n<p>此模组修补了 Spawn 模组中的 <code>AnimalVariantManager.chooseWeightedVariant()</code>，使其使用实体自带的线程安全 <code>RandomSource</code>，而非 <code>Level.random.</code></p>\n<p>这可以防止在 C2ME 于区块生成期间从工作线程调用 <code>finalizeSpawn</code> 时出现&nbsp;<code>ConcurrentModificationException</code>，否则将导致后续区块加载发生死锁。</p>\n<h2><span style=\"color:#ecf0f1\">已知问题</span></h2>\n<p>原始方法旨在使动物变种具有确定性，即在同一种子下，你在世界中的同一位置总会遇到相同的变种。此修复破坏了该行为，使变种完全随机化。使用相同种子生成世界每次都会得到不同的结果。</p>\n<p>可能还有更优雅的方式来解决此问题，但这需要更深度的整合，对我而言已超出本模组的范围。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

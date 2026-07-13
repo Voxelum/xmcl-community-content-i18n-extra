@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d84c4c5d3fde0fe5",
+  "content": "\n\n<h2><span style=\"color:#f00;font-size:36px\">1.17 以上版本皆不需此模組。本專案將不再進行更新。</span></h2>\n<h2>&nbsp;</h2>\n<h2>TRansliterationLib</h2>\n<pre><strong>&gt; 轉寫</strong>是一種將文字從一種文字系統轉換為另一種文字系統的轉換方式，涉及以可預測的方式交換字母（即 <em>trans-</em> + <em>liter-</em>）[...]</pre>\n<p>&nbsp;</p>\n<h5>描述</h5>\n<p>此模組庫承擔了主要的技術工作，使我自行開發的模組能完全獨立於其所執行的模組載入器。這帶來了只需編寫一次程式碼的優勢，進而加快開發與維護進度，並確保模組在 Forge 或 Fabric 上運行時的功能與行為保持一致。</p>\n<p>&nbsp;</p>\n<h5>安裝/版本</h5>\n<p>- 每個釋出的 TRansliterationLib JAR 檔均可同時適用於 Fabric 和 Forge（無需下載兩個獨立檔案）。</p>\n<p>- 請針對您選擇的 Minecraft 版本，搭配使用該模組庫與所需模組的最新版本！（混用舊版與新版的模組及模組庫可能會導致問題或崩潰）</p>\n<p>簡言之：請同時將所有內容更新至最新版本！</p>\n<p>&nbsp;</p>\n<h5>此模組庫具體能做什麼？</h5>\n<p>它提供了類似 Bukkit API 的介面，涵蓋所有（針對我的模組）所需的類別，並為 Fabric 和 Forge 分別包裝了正確的實作。這讓我能夠基於這些介面來編寫模組，進而大幅降低對模組載入器或 Minecraft 版本的依賴。此外，它也內建了適用於 Fabric 和 Forge 的 Cloth Config，讓模組能夠擁有自訂設定畫面而無需額外的外部相依套件，並提供了專屬的事件處理器系統，用於建立自有事件或轉發 Fabric/Forge 的事件。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

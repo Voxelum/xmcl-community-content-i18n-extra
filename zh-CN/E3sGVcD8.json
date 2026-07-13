@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6b5cff88c30ae7bf",
+  "content": "\n\n<center>\n\n# Mekanism 覆盖物\n\n<img src=\"https://i.imgur.com/jO02Tvh.png\" alt=\"\" width=\"160\" height=\"160\">\n\n一款 Mekanism 附属模组，提供了一种简单的方式为其线缆和管道添加外观覆盖。\n\n## 展示\n\n<img src=\"https://i.imgur.com/G44G2GM.png\" alt=\"\" width=\"501\" height=\"263\">\n\n<img src=\"https://i.imgur.com/XC280OS.png\" width=\"501\" height=\"263\">\n\n## 使用方法\n\n在工作台中合成覆盖物，并将其与想要覆盖的目标方块组合。之后只需右键点击需要覆盖的线缆或管道即可。\n\n若要移除覆盖物，直接破坏该方块，或使用处于扳手模式下的配置器（Configurator），亦或切换至其他科技模组的扳手即可。\n\n## 与 Iris、Oculus、Sodium、Embeddium 等渲染模组冲突导致崩溃？\n\n若使用更改 Minecraft 渲染方式的模组时出现崩溃，请前往 `.minecraft/config/mekanismcovers.json` 配置文件，将 disableAdvancedCoverRendering 的值设为 true。\n\n<img src=\"https://i.imgur.com/P8hRavN.png\" alt=\"\" width=\"411\" height=\"127\">\n\n## 合成配方\n\n<img src=\"https://i.imgur.com/DABZpqP.png\" alt=\"\" width=\"248\" height=\"137\">\n<img src=\"https://i.imgur.com/ZRgI03s.png\" alt=\"\" width=\"270\" height=\"136\">\n<img src=\"https://i.imgur.com/cOX0jnG.png\">\n\n## 其他信息\n\n如需反馈 Bug，请前往模组的 GitHub 仓库：https://github.com/lucaargolo/mekanism-covers\n\n如有其他疑问或建议，欢迎在 Discord 联系我：@D4rk#0693  \n你可以在 Cafeteria Development 服务器中找到我。  \n[![](https://discordapp.com/api/guilds/707435077679841350/embed.png?style=banner2&v=2)](https://discord.com/invite/G4PjhEf)  \n\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

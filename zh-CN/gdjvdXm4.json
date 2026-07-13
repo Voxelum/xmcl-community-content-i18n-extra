@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WFXzam8XUHA=",
-  "content": "# 梦幻描述\n这是一个临时模组，旨在让你在使用 Voxy 时能够调整航空子层级渲染距离，从更远的地方看到已加载的机械装置！我个人认为这能让空战体验大幅提升，并且更容易找到友方飞艇。\n\n# 调试说明\n（如果模组未生效，你需要修改 Sable 配置中的子层级追踪范围设置。）\n\n# 原始致谢\n最初基于另一个针对“遥远地平线”的模组开发\n[SSRD](https://modrinth.com/mod/ssrd)\n\n主要编码功劳归于传奇人物 [Ranold](https://modrinth.com/user/Ranold)！",
+  "bodyHash": "c063c7f472dbefe3",
+  "content": "\n\n# 功能描述\n这是一个临时模组，用于在使用 voxy 时启用 Aeronautics 的子区块渲染距离。让你能够从更远的地方看到已加载的机械！我个人觉得这让空战变得好多了，也更容易找到朋友的飞艇。\n\n\n# 故障排除\n（如果无法正常工作，你需要在 Sable 配置中更改“子区块追踪范围”设置。）\n\n# 原始来源\n最初基于 Distant Horizons 的另一个模组\n[SSRD](https://modrinth.com/mod/ssrd)\n\n大部分代码贡献归功于传奇人物 [Ranold](https://modrinth.com/user/Ranold)！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

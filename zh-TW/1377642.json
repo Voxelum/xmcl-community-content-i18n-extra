@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fffcd3272464a3e4",
+  "content": "\n\n<section>本模組主要包含兩項核心功能：</section>\n<ol>\n<li>\n<section>全新 AE 設備：ME 任務檢測器。連接至 AE 網路後，可偵測或提交儲存空間中的物品/流體以完成 FTB 任務。該檢測器與放置它的玩家所屬的 FTB 隊伍綁定。它會自動偵測庫存中的物品/流體以完成非消耗型任務。當隊員透過任務介面主動提交時，系統將優先消耗 ME 儲存空間中的物品/流體。</section>\n</li>\n<li>\n<section>為 FTB Quests 中的流體類型任務新增了「是否消耗流體」屬性（原先必須消耗流體且需透過任務進度檢測器 (Quest Progress Detector) 提交）。當設定為「不消耗」時，只要 AE 儲存空間中存在對應種類與數量的流體即可達成任務。</section>\n</li>\n</ol>\n<section></section>\n<section></section>\n<section></section>\n<section>本模組的主要內容包含以下兩項：&nbsp;</section>\n<section>\n<ol>\n<li>AE 設備：ME 任務檢測器，將其接入 AE 網路即可偵測或提交庫存中的物品/流體來完成 FTB 任務。檢測器與放置它的玩家所屬的 FTB 隊伍綁定，檢測器會自動偵測庫存物品來完成不消耗類型的任務。隊伍成員在任務介面主動提交時，會優先消耗 ME 庫存中的物品/流體。&nbsp;</li>\n<li>為 FTB 任務中的流體類型任務新增「是否消耗流體」屬性（原本必須消耗流體且必須透過任務進度檢測器 (Quest Progress Detector) 提交），當設定為「不消耗」時，只要在 AE 庫存中有對應種類和數量的流體即可完成任務。</li>\n</ol>\n</section>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

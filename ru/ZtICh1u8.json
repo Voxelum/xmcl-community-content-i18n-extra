@@ -1,6 +1,6 @@
 {
-  "bodyHash": "TY7bM2mnz/8=",
-  "content": "Это версия моего [Randomizer](https://modrinth.com/datapack/loot-randomizer), который рандомизирует гораздо больше, чем только выпадение блоков.\n\nQuilt: Вам нужен [QSL](https://modrinth.com/mod/qsl), иначе он не будет работать.\n\nПри обновлении рецепты крафта изменятся.\n\n**Рандомизировано:**\n- выпадение блоков\n- выпадение мобов\n- рецепты (верстак, печь...)\n- добыча из сундуков\n- рыбная ловля\n- подарки от жителей (не торговля)\n- археология\n- добыча из спавнеров в испытательной камере\n\n**Кредиты**\n- [MangoJellyPudding](https://modrinth.com/user/MangoJellyPudding): За создание Datapackа [No Recipe Advancements](https://modrinth.com/datapack/no-recipe-advancements) (лицензия MIT), который используется для скрытия рандомизированных рецептов крафта в книге знаний.",
+  "bodyHash": "c18b1932a9b89504",
+  "content": "\n\nЭто версия моего [Randomizer](https://modrinth.com/datapack/loot-randomizer), которая рандомизирует гораздо больше, чем просто выпадение блоков.\n\nQuilt: Вам потребуется [QSL](https://modrinth.com/mod/qsl), иначе мод не будет работать.\n\nПри обновлении изменятся рецепты крафта.\n\n**Рандомизируется:**\n- выпадение блоков\n- выпадение мобов\n- рецепты (верстак, печь...)\n- добыча из сундуков\n- рыбалка\n- подарки жителей (не торговля)\n- археология\n- добыча из спавнеров в залах испытаний\n\n**Благодарности**\n- [MangoJellyPudding](https://modrinth.com/user/MangoJellyPudding): За создание датапака [No Recipe Advancements](https://modrinth.com/datapack/no-recipe-advancements) (лицензия MIT), который используется для скрытия случайных рецептов крафта в книге знаний.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1282cad0948793ed",
+  "content": "\n\n有人試圖炸毀你的基地？驚喜！🎆 TNT to Rocket 會將主世界中所有被點燃的 TNT 變成隨機煙火。\n\n這是一個伺服器端的 Fabric 模組，透過介入實體生成生命週期來攔截主世界的 TntEntity，並將其替換為 FireworkRocketEntity，具備隨機的爆炸效果（形狀、顏色漸變、拖尾、閃爍）以及飛行時間。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

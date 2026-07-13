@@ -1,6 +1,6 @@
 {
-  "bodyHash": "jmbzUxxan9g=",
-  "content": "# Мод, который делает движение камеры плавным! 🎦  \n**Позволяет вам изменить обычное движение камеры, сделав его более плавным 📺**\n\n \n## Среды выполнения 🖨️\n\nТолько на стороне клиента!\n\n\n```\n**Fabric 1.20.1**\n**Fabric 1.21.1**\n\n**Forge 1.20.1**\n\n**NeoForge 1.21.1**\n```\n\n\n## Клавиатурные сокращения по умолчанию ⌨️\n\n```\n**K — Переключаться между обычным и плавным движением камеры**\n**0 — Открыть интерфейс для изменения плавности движения камеры**\n```\n\n \n## Пример видео 📽️:\n\n[https://i.imgur.com/i0lPJTp.gif](https://i.imgur.com/i0lPJTp.gif)\n\n**Среда Fabric:**\n\n- Fabric API\n- Architectury API\n\n**Среда Forge & NeoForge:**\n\n- Architectury API",
+  "bodyHash": "64f2c5ed5e16fc20",
+  "content": "\n\n# Мод, который делает движение камеры плавным! 🎦\n**Позволяет изменить обычное движение камеры, сделав его более плавным 📺**\n\n \n## Совместимость 🖨️\n \nТолько на стороне клиента!\n\n\n```\n **Fabric 1.20.1**\n **Fabric 1.21.1** \n \n **Forge 1.20.1**\n\n **NeoForge 1.21.1**\n```\n\n\n## Клавиши по умолчанию ⌨️\n \n\n```\n**K — Переключение между обычным и плавным движением камеры**\n**0 — Открыть меню для изменения плавности движения камеры**\n```\n\n \n## Пример видео 📽️:\n\n[https://i.imgur.com/i0lPJTp.gif](https://i.imgur.com/i0lPJTp.gif)\n\n**Среда Fabric:**\n\n- Fabric API\n- Architectury API\n\n**Среда Forge & NeoForge:**\n\n- Architectury API",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

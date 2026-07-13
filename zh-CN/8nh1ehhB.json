@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a44432ffbe1c7de4",
+  "content": "\n\n已弃用，建议使用 https://modrinth.com/mod/unimixins\n\n提供 Mixin 功能的依赖库\n\n* 包含一个经过阴影打包的 Sponge Powered Mixins 分支版本 —— 当前版本为 0.8.5-GTNH\n* 对必需库进行了阴影处理，解决了此前 0.8.5 版本在 MC 1.7.10 中难以使用的问题\n* 受 Mixin Booter Legacy 启发，为 Mixin 添加了两种额外的加载策略\n  * IEarlyMixinLoader —— 适用于针对 Minecraft、Forge 及 CoreMods 的 Mixin\n  * ILateMixinLoader & @LateMixin —— 适用于针对其他（非核心）Mod 的 Mixin。由于 1.7.10 的 ASMDataTable 存在限制，需同时实现该接口并使用对应注解\n\n取代 SpongeMixins 1.5（请勿将其与作为本库基础的 SpongePowered Mixins 混淆！这也是此次重命名的另一个原因）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

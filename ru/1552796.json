@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6e02ccd7e439dd6c",
+  "content": "\n\n<h1 style=\"text-align:left\"><strong>Оптимизатор мечей</strong></h1>\n<p><strong>Оптимизатор мечей</strong> — это лёгкий мод для Minecraft, который делает бой мечами более плавным и отзывчивым за счёт мгновенной обработки взмахов на стороне клиента, без ожидания ответа от сервера.</p>\n<p>Мод сохраняет ощущения от ванильного боя, одновременно уменьшая задержку между нажатием кнопки и появлением вашей атаки.</p>\n<h2><strong>Функции</strong></h2>\n<ul>\n<li>Мгновенная обработка взмахов мечом&nbsp;</li>\n<li>Более плавный бой</li>\n<li>Совместимость с ванильной игрой</li>\n<li>Лёгкий и оптимизированный&nbsp;</li>\n<li>Поддержка мультиплеера</li>\n</ul>\n<h2><strong>Статус</strong></h2>\n<p>Первый публичный релиз &mdash; всё ещё <strong>WIP</strong>, но полностью функционален</p>\n<h2><strong>Требования</strong></h2>\n<p><strong>Java 21 или новее</strong></p>\n<p><strong>Fabric Loader (поддержка Forge уже скоро!)</strong></p>\n<p><strong>Minecraft 1.21.9–1.21.11</strong></p>\n<p><strong>YetAnotherConfigLib v3</strong></p>\n<p><strong>Mod Menu (необязательно, только если хотите изменить настройки)</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

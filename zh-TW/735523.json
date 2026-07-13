@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fed5c3f8a4984777",
+  "content": "\n\n<h2>EMI 交易</h2>\n<p>一款為 EMI 設計的附加模組，提供村民交易支援。</p>\n<p><strong>注意：經 Flamarine 授權，我負責維護此 CurseForge 專案。</strong></p>\n<h3>功能特色</h3>\n<ul>\n<li>顯示交易所需花費與報酬</li>\n<li>顯示交易所需的村民等級</li>\n<li>支援流浪商人交易</li>\n<li>自動支援模組新增的村民</li>\n</ul>\n<h3>設定檔</h3>\n<p>此模組於 1.0.2 版本新增了一個非常簡單的設定檔（<code>config/emitrades.toml</code>），僅用於切換配方的舊版與新版顯示模式。目前尚無圖形介面，因此需手動編輯該檔案。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252ffzzyhmstrs\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp\" alt=\"Bisect Hosting 橫幅\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

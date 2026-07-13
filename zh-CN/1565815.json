@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0e3f18996cc488bf",
+  "content": "\n\n<p>本模组目前正处于开发阶段，旨在为 Ars Nouveau 与 Sable/Aeronautics 提供兼容支持。</p>\n<p>为 Ars Nouveau 添加对 Sable 的兼容支持，包括：</p>\n<ul>\n<li>允许星灵在 Sable 亚层上寻路至方块</li>\n<li>玩家在进入或离开行星仪（Planarium）时，自动返回对应的亚层</li>\n<li>使源力节点与中继器能够在亚层与现实世界之间正常运作</li>\n<li>若传送门或卷轴已绑定至特定亚层，使用后将把玩家传送回该亚层。</li>\n<li>修复了方块、粒子及实体的渲染问题。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

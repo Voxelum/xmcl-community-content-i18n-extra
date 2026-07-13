@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0bb807135d379df",
+  "content": "\n\n<p align=\"center\">\n\n  <img src=\"https://raw.githubusercontent.com/Scherso/NotSoEssential/main/.github/NOTSOESSENTIAL.svg\">\n\n</p>\n\n## 安裝指南\n\n1. **安裝 Minecraft 1.8.9、1.12.2、1.16.5 及以上版本。**\n2. **安裝 [Forge Mod Loader][forge] 或 [Fabric Mod Loader][fabric]。**\n3. **將模組放入 `minecraft/mods` 資料夾中。**\n4. **若需要，可自行 [編譯該模組][build]。** \n\n## 功能特色\n\n<h4 align=\"left\">\n\n- 移除主選單中的玩家模型。\n- 移除暫停選單中的玩家模型。\n- 移除邀請好友選項。\n- 移除所有裝飾品及其相關選項。\n- 移除通知功能。\n- 移除「Essential Settings...」並替換為「Snooper Settings...」。\n- 移除 Tab 選單與名稱標籤指示器。\n- 移除 Essential 連接外部伺服器（即遙測功能）的能力。\n</h4>\n\n[forge]: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html\n[fabric]: https://wiki.fabricmc.net/install\n\n[build]: https://github.com/Scherso/NotSoEssential/wiki/Build-With-Gradle",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

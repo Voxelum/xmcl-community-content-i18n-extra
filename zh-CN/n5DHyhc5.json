@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5dc42272581dd696",
+  "content": "\n\nSable 物理引擎与 ReplayMod (reforgedplaymod) 的兼容模组：使移动的 Sable\nSubLevel 机械装置能够在录像中正确记录并回放。\n\n修复内容：\n  - 移动记录。Sable 会绕过常规的 Minecraft 网络连接来广播 SubLevel 姿态快照（单人模式下通过直接调用，多人模式下通过独立的 UDP 通道），导致 ReplayMod 无法记录这些数据，从而使机械装置在录像中“冻结”。在录制过程中，该模组会将这些快照路由到常规网络通道——这样它们就会被写入录像，并在回放时恢复移动。\n  - 快速模式。ReplayMod 的快速模式会在没有 NeoForge 模组网络握手的情况下重建世界，这会导致客户端永远卡在“重新配置”界面。在回放期间，该模组会通过伪装连接类型为原版连接，从而顺利通过 NeoForge 的检查，使世界正常加载。\n\n适用于基于 Sable 的模组——例如 Create: Aeronautics（飞行机械装置）——用于录制包含移动船只和机器的电影级录像。\n\n需要 Sable 和 ReplayMod (reforgedplaymod)。\n\n注意：只有在此模组安装并启用期间录制的录像才会显示移动的机械装置。使用此模组前录制的旧录像并未内置移动数据，事后无法修复——回放时机械装置仍将保持静止。请重新录制一段新录像以查看修复效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

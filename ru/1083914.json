@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e4189feb9450f9fe",
+  "content": "\n\n<div>\n<h1>PocketGPS</h1>\n</div>\n<p>Этот мод добавляет предмет «PocketGPS» и изменяет поведение модов для мини-карт, заставляя их отображаться только при наличии предмета в инвентаре игрока или в слоте Curios/Trinkets/Accessories. Полезно, если вы хотите ограничить использование мини-карты на раннем этапе игры.</p>\n<p>Также существует опция конфигурации, требующая зарядки GPS для отображения карты. Скорость расхода энергии и максимальную ёмкость также можно изменить в конфигурации, если данная функция включена.&nbsp;</p>\n<p>В настоящее время поддерживает следующие мини-карты:</p>\n<ul>\n<li>Xaero's Minimap / WorldMap</li>\n<li>FTB Chunks</li>\n<li>JourneyMap</li>\n</ul>\n<h2><span style=\"color:#236fa1\"><strong><span style=\"text-decoration:underline\">Другие ссылки:</span></strong></span></h2>\n<ul>\n<li><a href=\"https://www.curseforge.com/minecraft/data-packs/disable-pocketgps-slot\" target=\"_blank\" rel=\"nofollow\">Отключить слот Curios/Trinkets/Accessories для PocketGPS</a> datapack&nbsp;</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

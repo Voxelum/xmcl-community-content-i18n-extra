@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6c908f6eb1b95f02",
+  "content": "\n\n這是一個簡單的模組，可讓你將工具以方塊的形式放置於世界中。\n\n手持對應該方塊的有效工具（例如草地用鍬、木質方塊用斧頭等），按住 Shift 鍵並右鍵點擊。\n\n當你想節省背包空間，或單純希望將工具存放在特定位置以防死亡後遺失時，這項功能非常實用。\n\n目前主要支援類似原版的工具，並已相容以下模組工具：\n+ [Better With Time](https://modrinth.com/mod/better-with-time) (十字鎬與戰斧)\n+ [Tough Environment](https://modrinth.com/mod/tough-environment) (鑿子)\n\n---\n\n**致謝：**本模組的功能移植自《Better Than Wolves》模組，該模組由 FlowerChild 開發，目前由 CE Team 持續維護。原始模組連結 -> [**此處**](https://btwce.com/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

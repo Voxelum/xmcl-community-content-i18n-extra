@@ -1,6 +1,6 @@
 {
-  "bodyHash": "LUGrDkuIlXU=",
-  "content": "Sodium FPS上限修复模组为Minecraft的FPS上限添加了一个输入框，并移除了原版260FPS上限，让你可以直接输入想要的上限值，不再受滑动条的束缚。\n\n现在Sodium为可选依赖。如果安装了Sodium，此模组会用输入框替换Sodium的FPS上限控制。如果没有安装Sodium，则会替换原版视频设置中的FPS上限控制。\n\n功能特性：\n- 直接输入自定义FPS上限，无需拖动滑块\n- 支持超过Minecraft原版260FPS滑块限制的数值\n- 在游戏启动间保存所选的上限值\n- 兼容已安装Sodium的情况\n- 兼容未安装Sodium的情况\n\n支持版本：\n- Fabric 1.20.1\n- Fabric 1.21.1\n- Fabric 1.21.11\n- Fabric 26.1.2\n- Fabric 26.2\n- NeoForge 1.21.1\n- NeoForge 1.21.11\n- NeoForge 26.1.2\n- NeoForge 26.2\n\n说明：\n- 仅客户端模组\n- Sodium为可选依赖，非必需\n- Fabric 1.21.11版本也支持Reese's Sodium Options 2.x\n- 仅支持Fabric和NeoForge加载器",
+  "bodyHash": "0d9a39ac4e9010a8",
+  "content": "\n\nSodium FPS Cap Fix 为 Minecraft 的帧率上限添加了一个文本输入框，并移除了原版 260 FPS 的上限限制，这样你就可以直接输入实际想要的帧率数值，而不必受限于滑动条。\n\n现在是否安装 Sodium 是可选的。如果已安装 Sodium，本模组会用文本输入框替换 Sodium 的帧率上限控制选项；如果未安装 Sodium，则会替换常规视频设置中的帧率上限控制选项。\n\n功能特性：\n- 直接输入自定义的 FPS 上限，无需拖动滑动条\n- 允许输入超过 Minecraft 默认 260 FPS 滑动条限制的值\n- 重启游戏后自动保存所设数值\n- 支持安装 Sodium 时使用\n- 支持不安装 Sodium 时使用\n\n支持的版本：\n- Fabric 1.20.1\n- Fabric 1.21.1\n- Fabric 1.21.11\n- Fabric 26.1.2\n- Fabric 26.2\n- NeoForge 1.21.1\n- NeoForge 1.21.11\n- NeoForge 26.1.2\n- NeoForge 26.2\n\n注意事项：\n- 仅客户端模组\n- Sodium 为可选安装项，非必需\n- Fabric 1.21.11 版本同时兼容 Reese's Sodium Options 2.x\n- 仅支持 Fabric 和 NeoForge 加载器",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

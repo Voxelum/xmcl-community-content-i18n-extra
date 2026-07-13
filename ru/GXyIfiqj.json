@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7dd41d366410c858",
+  "content": "\n\n## Особенности\n\nВдохновлён модом [Minimal Menu](https://modrinth.com/mod/minimalmenu), написан с нуля для Minecraft 26.2+. Упрощает меню, сокращая количество кнопок и визуальный шум.\n\n![До/После](https://cdn.modrinth.com/data/cached_images/b267b7fecc2d2dea3b751539f8189ac0d96bbd6f_0.webp)\n\n### Настройки\n\nГлавное меню:\n- Скрыть кнопку Realms\n- Уменьшить количество кнопок с иконками\n- Скрыть текст авторских прав\n\nЭкран паузы:\n- Уменьшить количество кнопок с иконками\n\nЭкран настроек:\n- Скрыть кнопку языка\n- Скрыть кнопку настроек чата\n- Скрыть кнопку настроек специальных возможностей\n- Скрыть кнопку телеметрии\n- Скрыть кнопку благодарностей и атрибуции\n\n### Зависимости\n\nДля изменения конфигурации опционально требуются [Mod Menu](https://modrinth.com/mod/modmenu) и [Cloth Config](https://modrinth.com/mod/cloth-config).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

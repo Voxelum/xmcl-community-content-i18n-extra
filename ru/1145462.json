@@ -1,6 +1,6 @@
 {
-  "bodyHash": "3qepGR2xFiI=",
-  "content": "<h1><em>API Atlas</em></h1><h4>Предоставляет API для генерации атласов во время выполнения игры (включая текстуры, управляемые данными), а также вспомогательные функции для загрузки пользовательских моделей предметов с использованием динамических спрайтов атласа</h4><hr><h2>Разработчики:</h2><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fironsjewelry.wiki%252fatlas-api\" target=\"_blank\" rel=\"nofollow\">Найдите документацию здесь</a></p><hr><h2>Примеры</h2><p>См. пример использования в <a href=\"https://www.curseforge.com/minecraft/mc-mods/irons-jewelry\" target=\"_blank\" rel=\"nofollow\">Iron's Gems n Jewelry</a></p><hr>",
+  "bodyHash": "046cff1fb9a9aee1",
+  "content": "\n\n<h1><em>Atlas API</em></h1>\n<h4>Предоставляет API для генерации атласов во время выполнения игры (включая текстуры на основе данных), а также утилиты для загрузки пользовательских моделей предметов с использованием спрайтов динамического атласа</h4>\n<hr>\n<h2>Разработчики:</h2>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fironsjewelry.wiki%252fatlas-api\" target=\"_blank\" rel=\"nofollow\">Найти документацию здесь</a></p>\n<hr>\n<h2>Примеры</h2>\n<p>Смотрите пример использования в <a href=\"https://www.curseforge.com/minecraft/mc-mods/irons-jewelry\" target=\"_blank\" rel=\"nofollow\">Iron's Gems n Jewelry</a></p>\n<hr>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a2fd149b9da58b86",
+  "content": "\n\n![баннер с изображением значка отключённого динамика на фоне пещеры из Minecraft](https://i.imgur.com/Fdy0WmZ.png)\n\n# Отсутствие фоновых звуков в пещерах\n\nПростой набор ресурсов для удаления жутких фоновых звуков пещер.\n\n## Как?\n\nЗамените звуки на пустые ogg-файлы, созданные с помощью `ffmpeg -f lavfi -i anullsrc=r=44100:cl=mono -t 0.000001 -c:a libvorbis cave.ogg`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "QshMPkZ27U4=",
-  "content": "Резко улучшает производительность OcclusionCuller от Sodium при использовании мода LOD, такого как Distant Horizons, Voxy, Nvidium или Bobby.\n\nПри использовании одного из этих модов LOD происходит перегрузка однопоточного while-цикла OcclusionCuller от Sodium, что обычно приводит к значительному падению FPS и подвисаниям кадров. Этот мод устраняет данный узкий участок в работе OcclusionCuller от Sodium.\n\nNvidium применяет аналогичный патч, но для графических процессоров на базе NVIDIA.\n\n![LOD](https://cdn.modrinth.com/data/C0Mcmx3E/images/fe2175cc547abf4412ccd7fc88d5991c323980d1.jpeg)",
+  "bodyHash": "9ea4c5f6e0504c69",
+  "content": "\n\nЗначительно улучшает производительность OcclusionCuller в Sodium при использовании модов уровня детализации (LOD), таких как Distant Horizons, Voxy, Nvidium или Bobby.\n\nПри использовании одного из этих модов LOD возникает перегрузка однопоточного цикла `while` в OcclusionCuller Sodium, что обычно приводит к значительному падению производительности FPS и подвисанию кадров. Данный мод устраняет это узкое место в OcclusionCuller Sodium.\n\nМод Nvidium применяет аналогичный патч, но только для видеокарт на базе NVIDIA.\n\n![LOD](https://cdn.modrinth.com/data/C0Mcmx3E/images/fe2175cc547abf4412ccd7fc88d5991c323980d1.jpeg)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

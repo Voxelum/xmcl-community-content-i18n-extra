@@ -1,6 +1,6 @@
 {
-  "bodyHash": "PdW3Kv1ISfE=",
-  "content": "<p>Bobby 是一款 Minecraft 模組，可實現超越伺服器視距設定的渲染距離。</p><p><img src=\"https://i.johni0702.de/7FlGK.png\" alt=\"Wynn 省在 96 區塊渲染距離下的畫面\"></p><p>其運作原理是記錄並儲存（於 <code>.minecraft/.bobby</code> 目錄中）所有由伺服器傳送的區塊資料，當這些區塊超出伺服器視距範圍時，模組便能重新載入並顯示這些預先保存的區塊。</p><p>此外，它還能選擇性地利用現有的單人世界存檔來載入伺服器從未傳送過的區塊。要使用此功能，只需將世界資料夾（非世界名稱！而是其資料夾名稱！）重新命名為「bobby-fallback」。</p><p>Bobby 會在設定檔變更時自動重新載入配置。若需遊戲內設定介面，請安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" rel=\"nofollow\">ModMenu</a> 及 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cloth-config\" rel=\"nofollow\">ClothConfig</a>。</p>",
+  "bodyHash": "134143f83c2536fb",
+  "content": "\n\n<p>Bobby 是一款 Minecraft 模組，可讓渲染距離超過伺服器的視距設定。</p>\n<p><img src=\"https://i.johni0702.de/7FlGK.png\" alt=\"渲染距離為 96 個區塊時的 Wynn 省\"></p>\n<p>它透過記錄並儲存（於 <code>.minecraft/.bobby</code> 中）伺服器發送的所有區塊來達成此目的，隨後當區塊超出伺服器的視距範圍時，即可將其載入並顯示。</p>\n<p>此外，它也能利用現有的單人世界來載入伺服器從未發送過的區塊。\n要使用此功能，只需將世界資料夾的名稱（非世界名稱！而是資料夾名稱！）重新命名為 &quot;bobby-fallback&quot; 即可。</p>\n<p>Bobby 會在設定檔發生變更時自動重新載入。\n若要使用遊戲內設定介面，請安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" rel=\"nofollow\">ModMenu</a> 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cloth-config\" rel=\"nofollow\">ClothConfig</a>。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

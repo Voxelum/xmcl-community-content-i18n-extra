@@ -1,6 +1,6 @@
 {
-  "bodyHash": "KWIAATgPbTg=",
-  "content": "# Celeritas/Nothirium 動態光源\n\n## 用於 Celeritas 1.12.2 的 SodiumDynamicLights 分支\n### 你需要安裝 cleanroom loader 才能執行此模組\n\n雖然名稱如此，但這個模組**並非 Celeritas/Nothirium 專用**。它可以獨立運作，但若要獲得最佳效能，請搭配支援**延遲區塊更新**的模組使用，例如：\n\n- **Celeritas**\n- **Nothirium**\n- **Stellar Core** *（請確保在其設定中啟用「Always defer chunk updates」）*\n\n### 特別感謝\n\n- **Txni** – 感謝原版 SodiumDynamicLights 的開發者\n- **Embeddedt** – 感謝創作了 Celeritas，進而促使我製作這個移植版本\n\n請自行從[此處](https://git.taumc.org/embeddedt/celeritas)編譯 Celeritas，或取得[自動建置的 JAR 檔](https://github.com/kappa-maintainer/Celeritas-auto-build/releases)\n\n原始模組可在[此處找到 Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights)。[原始程式碼](https://github.com/txnimc/SodiumDynamicLights)",
+  "bodyHash": "722568e044437447",
+  "content": "\n\n# Celeritas/Nothirium 動態光源\n\n## 基於 1.12.2 的 Celeritas 版本的 SodiumDynamicLights 分支\n### 運行此模組需要 Cleanroom Loader\n\n儘管名稱如此，此模組**並非僅限於 Celeritas/Nothirium**。它可獨立運作，但為了獲得最佳效能，建議搭配支援**延遲區塊更新（deferred chunk updates）**的模組使用，例如：\n\n- **Celeritas**\n- **Nothirium**\n- **Stellar Core** *（請確保其設定檔中已啟用「Always defer chunk updates」）*\n\n### 特別感謝\n\n- **Txni** – 提供原始的 SodiumDynamicLights\n- **Embeddedt** – 開發了 Celeritas，從而激發了我移植此模組的動力\n\n您可以從[這裡](https://git.taumc.org/embeddedt/celeritas)自行編譯 Celeritas，或直接下載[自動建置的 JAR 檔案](https://github.com/kappa-maintainer/Celeritas-auto-build/releases)\n\n原始模組請見 [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights)。[原始原始碼](https://github.com/txnimc/SodiumDynamicLights)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

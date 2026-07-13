@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2cbce4a19553f4f8",
+  "content": "\n\n![被熔岩照亮的洞穴中的爬行者](https://cdn.modrinth.com/data/cached_images/db98e8b5f28311e2c7edcd6e9cd00a82ba62f22b_0.webp)\n此模組為遊戲加入了彩色光照。其他添加彩色光照的模組可將其作為依賴項使用。\n# 警告\n此模組與 Sodium 不相容！\n\n# 功能\n- 不同方塊可發射不同顏色的光線\n- 穿過染色玻璃的光線也會帶有顏色\n- 發射顏色與過濾顏色可在資源包中自訂\n- 此模組僅限客戶端 - 你可以在任何伺服器上使用它，且從世界中移除時不會有任何問題\n\n# 資源包教學\n在你的資源包命名空間資料夾（包含 `textures` 和 `models` 等資料夾的位置）建立一個 `light` 資料夾。在那裡，你可以建立 `emitters.json` 檔案，用於定義方塊發射的光線顏色。範例：\n\\\n_assets\\\\example\\\\light\\\\emitters.json_\n```json\n{\n\t\"minecraft:torch\": \"#00FF00\", // 十六進位顏色碼\n\t\"minecraft:red_candle\": \"red\", // 染料名稱\n\t\"minecraft:redstone_lamp\": [ 0, 255, 255 ],\n\t\"minecraft:soul_torch\": \"purple;5\", // 覆寫亮度等級發射\n\t\"minecraft:oak_leaves\": \"light_blue;F\" // ';' 後的值為 0 到 F 的十六進位數字\n}\n```\n你也可以建立 `filters.json`，用於定義特定方塊允許通過的光線顏色。範例：\\\n_assets\\\\example\\\\light\\\\filters.json_\n```json\n{\n\t\"minecraft:red_stained_glass\": \"#00FF00\", // 十六進位顏色碼\n\t\"minecraft:green_stained_glass\": \"red\", // 染料名稱\n\t\"minecraft:glass\": [ 0, 255, 255 ]\n}\n```\n\n# 範例資源包\n~~彩色蠟燭：[colorful-candles.zip](https://github.com/erykczy/colorful-lighting/raw/e372648afdd442e96340f0d8ee477d6ae8138739/addons/colorful-candles.zip)~~",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

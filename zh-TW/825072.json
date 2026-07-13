@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ca057a3eb1860aaa",
+  "content": "\n\n<p>讓 <a href=\"https://www.curseforge.com/minecraft/texture-packs/fresh-animations\" target=\"_blank\" rel=\"nofollow\">Fresh Animations</a> 與 <a href=\"https://www.curseforge.com/minecraft/texture-packs/whimscape\" target=\"_blank\" rel=\"nofollow\">Whimscape</a> 相容！此為補丁模組，並非替代品；<em><strong>您必須同時安裝 Fresh Animations</strong></em>。</p>\n<hr>\n<h4><strong>載入順序</strong></h4>\n<p>「Whimscape x Fresh Animations」的載入順序高於「Fresh Animations」，而「Fresh Animations」的載入順序高於「Whimscape」。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/620/412/ws_x_fa_loadorder.png\" alt=\"\"></p>\n<p>我認為目前運作無重大問題的 Fresh Animations 擴充模組：</p>\n<ul>\n<li>Fresh Animations: Objects（<strong>載入順序需排在 Whimscape 之下</strong>）</li>\n<li>Fresh Animations: Player Extension（<strong>載入順序需排在 Whimscape 之下</strong>）</li>\n<li>Fresh Animations: Quivers（bogged 的箭袋動畫缺失）</li>\n</ul>\n<hr>\n<h4><strong>遇到問題？</strong></h4>\n<p>請至 <a href=\"https://github.com/kavast/Whimscape-Issues/issues\" target=\"_blank\" rel=\"nofollow\">GitHub 上的 Whimscape 問題回報區</a> 回報錯誤。在其他平台回報可能會被忽略，或導致我延後看到。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

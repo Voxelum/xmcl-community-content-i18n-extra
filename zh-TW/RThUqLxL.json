@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db9d802f387ca61b",
+  "content": "\n\n# 聊天高亮\n\n![由 OneConfig 驅動](https://raw.githubusercontent.com/Polyfrost/Nexus/main/apps/website/public/media/branding/badges/badge_1.png)\n\n<a href=\"https://www.freepik.com/icon/pin_5043900\">圖示由 HJ Studio 提供</a>\n\n在 Minecraft 聊天視窗中高亮顯示關鍵字！\n## 安裝方式\n- 取得最新的 [RELEASE](https://modrinth.com/mod/chat-highlighting/versions)\n- 使用模組啟動 Forge 1.8.9\n- 執行 /highlighting 進行設定\n\n## 使用方法\n- 啟用或停用設定檔即可重置／高亮所有先前的訊息！\n- 在單字欄位中，請使用以下語法：``(\"欲高亮的單字\";顏色代碼;選填格式)``\n- 多個項目之間請以 ; 分隔，範例：``(\"word\";6);(\"notword\";1;l)``\n## 功能特色\n- 持續更新\n- 自動在聊天中為您設定的關鍵字加上高亮，節省您的時間\n- 重新高亮／取消高亮先前的訊息\n- 隱藏您的名稱（直播時很有用）：只需輸入 ``(\"IGN\";k)``\n## 螢幕截圖\n![設定介面](https://github.com/QWERTZexe/Chat-Highlighting/blob/main/images/Config.png?raw=true)\n\n![Hypixel 範例](https://github.com/QWERTZexe/Chat-Highlighting/blob/main/images/LobbyJoin.png?raw=true)\n\n![隱藏名稱](https://github.com/QWERTZexe/Chat-Highlighting/blob/main/images/Streamhide.png?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

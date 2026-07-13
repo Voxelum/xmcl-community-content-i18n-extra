@@ -1,0 +1,6 @@
+{
+  "bodyHash": "06a67dd820689835",
+  "content": "\n\n# ЭТОТ ПЛАГИН БОЛЬШЕ НЕ ПОДДЕРЖИВАЕТСЯ, ТЕПЕРЬ У WTHIT ЕСТЬ ВСТРОЕННЫЙ ПЛАГИН ПРОВЕРКИ ВОЗМОЖНОСТИ ДОБЫЧИ.\n\n# WTHIT Harvestability\nФорк плагина [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability), плагин для [WTHIT Forge](https://modrinth.com/mod/wthit), добавляющий информацию о возможности добычи блока, на который вы смотрите.\n\nПо умолчанию отображается, можно ли в данный момент добыть блок, требуемый уровень инструмента для его добычи и тип инструмента, эффективного против данного блока. Кроме того, в экране конфигурации модулей Waila доступно множество параметров для точной настройки выводимой информации.\n\n Примечание: Этот мод в основном предназначен для использования с [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct), но информация актуальна и без него.\n\nИспользуйте [cAn i MiNe thIS bLOCk?](https://modrinth.com/mod/can-i-mine-this-block), если вы на Fabric!\n\n![](https://images2.imgbox.com/91/29/F7cjgw8x_o.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

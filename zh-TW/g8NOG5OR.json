@@ -1,6 +1,6 @@
 {
-  "bodyHash": "quiuS9r8VHA=",
-  "content": "# 你將長成的樹木\n\n一個Minecraft函式庫，旨在透過允許使用Minecraft的結構模板`.nbt`檔案來創建樹木，為使用者提供驚人的可配置性。\n\n最初是為熱門模組[你將前往的生態域](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)所製作，此函式庫專為使用者與模組製作者而建立，提供一個簡單易用的樹木創建系統。\n\n與使用此函式庫的伺服器連線的原始用戶端相容。\n\n# [Wiki](https://github.com/CorgiTaco/Oh-The-Trees-Youll-Grow/wiki)",
+  "bodyHash": "f86ac94b664b427a",
+  "content": "\n\n# Oh The Trees You'll Grow\n\n這是一個 Minecraft 函式庫，旨在讓使用者能夠利用 Minecraft 的結構範本 `.nbt` 檔案來建立樹木，從而提供極高的自訂彈性。\n\n此函式庫最初是為熱門模組 [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go) 所開發，現已為一般使用者與模組開發者打造出一套簡便的樹木建立系統。\n\n相容於連線至使用此函式庫之伺服器的原版客戶端。\n\n# [維基](https://github.com/CorgiTaco/Oh-The-Trees-Youll-Grow/wiki)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

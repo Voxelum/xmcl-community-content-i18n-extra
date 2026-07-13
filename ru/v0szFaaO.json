@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bee25c4f0f158c3c",
+  "content": "\n\nЭто простой мод, который добавляет поддержку периферии Computercraft: Tweaked для [WaterFrames](https://modrinth.com/mod/waterframes). \n\nС помощью этого мода вы можете изменять большинство параметров на любом из дисплеев WaterFrames.\n\nНа этом изображении показаны реализованные в настоящее время функции периферии.\n![Функции периферии](https://cdn.modrinth.com/data/cached_images/945ec82472a2d03018de25f4ea861dcc90f6cf71.png)\n\nС помощью этого можно создать множество крутых программ, вот несколько примеров:\n- клиент Jellyfin, работающий на терминале ComputerCraft. Клиент может получать и воспроизводить фильмы с медиасервера Jellyfin.\n- система плейлистов / запроса видео.\n- система поиска по YouTube.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "776d949a6537c197",
+  "content": "\n\n# VanillaHUD\n<img src=\"https://wsrv.nl/?url=https%3A%2F%2Fpolyfrost.org%2Fimg%2Fcompact_vector.svg&n=-1&w=1000\" width=56 /> ![Dev Workflow Status](https://img.shields.io/github/v/release/Polyfrost/VanillaHUD.svg?style=for-the-badge&color=1452cc&label=release)\n\n為多個原生使用者介面元素（如頭目條、計分板等）提供大量自訂選項。\n\n**功能**\n- 頭目條自訂\n- 動作欄自訂\n- 計分板自訂\n- 標題／副標題自訂\n- 快捷欄自訂\n- 玩家列表（Tab）自訂\n- 可捲動的提示資訊\n\n\n**此外，所有元素皆支援以下自訂選項：**\n- 顯示切換\n- 縮放比例\n- 文字顏色\n- 文字樣式\n- 於聊天視窗、除錯畫面（F3）、遊戲介面中顯示\n- 背景（支援圓角、邊框與顏色自訂）\n\n## 頭目條專屬自訂：\n- 是否顯示文字\n- 是否顯示條狀圖\n- 條狀圖位置\n- 頭目條名稱的標題與括號\n\n## 動作欄專屬自訂：\n- 是否使用唱機彩虹色效果\n- 動作欄的標題與括號\n\n## 計分板／側邊欄專屬自訂：\n- 是否顯示計分點數\n  - 部分伺服器會將數字用於合法用途，在這些情況下隱藏數字毫無意義。VanillaHUD 允許您在數字不連續時保留它們。\n- 是否保留計分板標題\n\n## 玩家列表（Tab）專屬自訂：\n- 開啟／關閉 Tab 列表時是否啟用動畫\n- Tab 列表中顯示的玩家數量\n- 是否透過切換開關或按鍵來開啟 Tab 列表\n- 是否顯示標頭／頁尾\n- 是否將自己顯示在最上方\n- 是否顯示玩家頭像或網路延遲（Ping）\n- 網路延遲是否以數字或圖示顯示\n- 當延遲為 0 或 1 時是否隱藏\n\n## 連結與支援\n* 遇到問題了嗎？[回報錯誤](https://polyfrost.org/discord)\n* 服務中斷？[查看 Polyfrost 狀態](https://status.polyfrost.org/)\n* 想交流互動嗎？[加入我們的 Discord 社群](https://polyfrost.org/discord)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

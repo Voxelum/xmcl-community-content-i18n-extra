@@ -1,0 +1,6 @@
+{
+  "bodyHash": "893245f6e7003fbb",
+  "content": "\n\n<p>В соответствии с лицензией GPL 3.0 данный мод представляет собой неофициальный порт для Forge версии <a href=\"https://www.curseforge.com/minecraft/mc-mods/croptopias-chocolaterie-fabric\" target=\"_blank\" rel=\"nofollow\">Croptopia's Chocolaterie [Fabric]</a> для Minecraft 1.20.1. Все заслуги принадлежат оригинальному автору slomax907.</p>\n<p>Содержимое неофициальной версии максимально приближено к оригиналу, за исключением следующих изменений:</p>\n<ul>\n<li>Добавлены теги <code>forge:chocolate</code> и <code>cacao:chocolate</code> к большему количеству продуктов питания (например, caramel_dark_chocolate, ведь это всё же шоколад) для повышения совместимости с другими модами.</li>\n<li>Изменён ключ <code>itemGroup</code> в файлах локализации в соответствии с требованиями Minecraft 1.20+.</li>\n</ul>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_d4d2f9c1-5deb-4c2f-823a-7f7386c20d7b.png\" alt=\"\" width=\"850\" height=\"717\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "AnmajRWNAyA=",
-  "content": "<h1>MaFgLib</h1><p>本模组是Masa's模组代码库的Forge移植版本，主要包含所有可配置选项、按键绑定系统、大部分GUI代码支持，以及其他可供其他模组使用的实用组件。</p><p>MaLiLib是Masa's Litemods Library的缩写，其Forge移植版本沿用了这一命名规范，目前称为MaFgLib（Masa's mod Forge port Library）。</p>",
+  "bodyHash": "d9d7019f3db82ce7",
+  "content": "\n\n<h1>MaFgLib</h1>\n<p>此模组为 Masa 模组代码库的 Forge 移植版，基本囊括了所有可配置选项、按键绑定系统、GUI 代码编写支持，以及其他可供其他模组调用的实用组件。</p>\n<p>MaLiLib 是“Masa 的 Litemods 库”（Masa's Litemods Library）的缩写，Forge 移植版沿用此命名规范，现名为 MaFgLib（Masa 模组 Forge 移植版库）。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

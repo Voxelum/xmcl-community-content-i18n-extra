@@ -1,0 +1,6 @@
+{
+  "bodyHash": "57de4d29baf7eeb0",
+  "content": "\n\n<p><strong>RefinedSpawner</strong></p>\n<p>隨心所欲地生成您想要的實體與位置，並提供完整的 NBT 支援 &mdash; 搭配清除與不掉落控制功能，讓您的世界保持整潔。</p>\n<p><strong>功能說明</strong></p>\n<p>RefinedSpawner 新增了一個可放置的隱形重生器（僅限創造模式），會根據您的設定定期生成生物。它專為需要穩定、可自訂生成機制的冒險地圖、地下城、自訂活動與整合包設計 &mdash; 甚至支援帶有複雜 NBT 數據的模組生物。</p>\n<p><strong>核心功能</strong></p>\n<p><strong>重生器物品（創造模式）：</strong>放置一個可在遊戲內設定的隱形實體。</p>\n<p><strong>兩個生物槽位（類型 1 與 類型 2）：</strong><br>使用生成蛋右鍵點擊以設定類型 1；按住 SHIFT 並右鍵點擊則設定類型 2。</p>\n<p><strong>完整 NBT 傳遞：</strong><br>讀取生成蛋中的 EntityTag，保留自訂名稱、裝備、顏色、屬性與模組數據。</p>\n<p><strong>簡潔緊湊的圖形介面包含以下選項：</strong></p>\n<p>* 生成間隔（秒）</p>\n<p>* 無玩家範圍（若附近存在非創造模式的玩家則不會生成）</p>\n<p>* 「檢查區域」（H/V）用於限制生物數量上限</p>\n<p>* 生成上限（此重生器同時存活的最大生物數）</p>\n<p>* 生成區域（H/V）新生物出現的範圍</p>\n<p>* 清除延遲（N 秒後自動移除已生成的生物，0 = 永不）</p>\n<p>* 切換開關：永遠主動攻擊玩家、不掉落物品</p>\n<p>* 真正有效的「不掉落」機制（即使搭配模組背包也能運作）：<br>* 阻斷經驗值與物品掉落，並在標記實體死亡時強制移除其裝備與容器物品。</p>\n<p>&nbsp;</p>\n<p>感謝您試用本模組！</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1343622/description_5c0c93aa-c7fe-4bfa-941b-1c53684845ca.png\" alt=\"\" width=\"695\" height=\"477\"></p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

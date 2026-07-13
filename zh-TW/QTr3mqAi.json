@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab565890faef44a8",
+  "content": "\n\n# WindowFix\n\nWindowFix 解決了 Windows 版 Minecraft 的一個特定問題：在與標題列系統功能表互動時（例如右鍵點擊標題列、最小化、還原等），可能會導致遊戲主迴圈當機或卡頓。\n\n## 環境\n\n- Windows 客戶端\n\n## 修復模式\n\nWindowFix 透過客戶端設定檔提供兩種模式：\n\n1. 封鎖原生系統功能表（以穩定性為優先）  \n完全封鎖標題列右鍵系統功能表，以避免進入 Win32 選單模態迴圈。\n\n2. 原生相容模式  \n保留原生右鍵系統功能表，並啟用 `MNS_MODELESS` 以降低卡頓發生的機率。\n\n## 設定檔\n\n首次啟動遊戲後會自動生成設定檔：\n\n`config/windowfix-client.toml`\n\n範例：\n\n```toml\nblockTitleBarSystemMenu = false\nkeepActiveDuringSystemMenu = true\n```\n\n修改設定值後請重新啟動遊戲。\n\n- `blockTitleBarSystemMenu`\n  - `true`：停用標題列右鍵的原生系統功能表。\n  - `false`：保留原生系統功能表行為。\n- `keepActiveDuringSystemMenu`\n  - 僅在 `blockTitleBarSystemMenu = false` 時生效。\n  - `true`：在系統功能表操作期間抑制短暫失去焦點的訊息，以減少短暫卡頓。\n  - `false`：保留預設的焦點行為。\n\n## 使用方法\n\n1. 將模組 JAR 檔案放入客戶端的 `mods` 資料夾中。\n2. 啟動遊戲，並根據需求調整 `config/windowfix-client.toml` 設定。\n\n## 日誌關鍵字\n\n可在 `latest.log` 中搜尋以下內容：\n\n- `Installed Win32 window hook for system menu freeze workaround.`\n- `Enabled MNS_MODELESS on system menu.`\n\n## 已知限制\n\n- 僅適用於 Windows 環境。\n- 在原生相容模式下，根據系統視窗管理行為的不同，仍可能出現短暫卡頓。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f4b80dba161b5c2e",
+  "content": "\n\n<p>Этот мод ограничивает количество жизней на мир заданным числом. По умолчанию при смерти вы теряете полсердца из постоянного здоровья, и после каждого возрождения у вас остаётся всё меньше сердец/ОЗ. Когда жизни закончатся, в зависимости от настроек, вас принудительно&nbsp;переведут в режим Наблюдателя или забанят на сервере на определённое время.</p>\n<p>&nbsp;</p>\n<p>Используйте команду /ll или /limitedlives в чате, чтобы узнать оставшееся количество жизней или время до следующего возрождения.</p>\n<p>Чтобы установить лимит смертей, введите: /ll &lt;set&gt; &lt;player&gt; &lt;deaths&gt;</p>\n<p>&nbsp;</p>\n<p>Требуются <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/completeconfig\" rel=\"nofollow\">CompleteConfig</a>. Версия для Forge доступна <a href=\"https://www.curseforge.com/minecraft/mc-mods/limited-lives\" rel=\"nofollow\">здесь</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

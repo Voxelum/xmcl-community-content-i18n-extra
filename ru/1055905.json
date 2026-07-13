@@ -1,0 +1,6 @@
+{
+  "bodyHash": "855ebfca032fd35a",
+  "content": "\n\n<h1>Отключение улучшений</h1>\n<p>Простой мод, который позволяет удалить все улучшения в заданном пространстве имён.</p>\n<h2>Использование</h2>\n<p>Мод удаляет все улучшения из пространств имён, указанных в конфигурации.</p>\n<pre><code>disabledMods = [\n    \"minecraft\", # удалить все улучшения из minecraft\n    \"mine.*\", # удалить улучшения из всех модов, название которых начинается на mine\n    \".*\" # удалить все улучшения\n]</code></pre>\n<h2>Зависимости</h2>\n<p>Включает <a href=\"https://github.com/TheElectronWill/night-config\" target=\"_blank\" rel=\"nofollow\">night-config</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

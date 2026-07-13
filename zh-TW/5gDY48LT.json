@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c0718f7df91a2702",
+  "content": "\n\n![Mod Text Image](https://cdn.modrinth.com/data/cached_images/0e59237fc1431e706fe1d8271cc1761c0423f608.png)\n\n</details>\n\n\n\n# -- 說明 --\n\n此模組會在洞穴中新增自然生成的骷髏屍體。\n\n目前共有 4 種不同類型的屍體。\n\n破壞骷髏屍體會掉落骨頭。\n\n部分屍體可能會手持鐵鎬、金鎬或石鎬。\n\n# -- 未來計畫 --\n手持工具的屍體（例如鐵鎬）。✅\n\n更多姿勢變化。✅\n\n更多戰利品，屍體附近會有裝藏寶物的背包。\n\n下界內容。✅\n\n# -- 常見問題 --\n  \n- 問：我可以將它包含在我的模組包中嗎？ \n- 答：當然可以！\n#\n- 問：我可以自訂掉落物嗎？\n- 答：可以，從模組版本 1.0.1 開始即可設定。 \n- 設定檔位於 config/lying_skeletons_config.properties\n\n附註：檔案與模組 ID 使用的模組名稱為 \"lying skeletons\"",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

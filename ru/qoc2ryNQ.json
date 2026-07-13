@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11d176e191913712",
+  "content": "\n\n### 英文说明\n**No Pot Effect** 移除了《我的世界》中三个最令人烦躁的视觉特效，这些特效不仅会干扰 PvP 战斗，还容易导致眼部疲劳：\n\n1. **视野扭曲（FOV Distortion）** — 完全禁用速度或缓速药水生效时的镜头缩放动画，使你的视野保持绝对固定。\n2. **反胃（传送门）** — 彻底消除反胃效果以及进入下界传送门时产生的屏幕扭曲/晃动特效。\n3. **受击晃动（Hurt Tilt）** — 移除受伤时的镜头抖动动画，确保准星和瞄准线始终保持稳定。\n\n每项功能均可在位于 `config/no-pot-effect.json` 的配置文件中单独自定义设置：    \n\n\n{ \n  \"disableFov\": true, \n  \"disableNausea\": true, \n  \"disableHurtTilt\": true \n}\n\n只需将对应值改为 `false`，即可重新启用该原版特效。\n\n运行环境：Minecraft 1.21.1，Fabric Loader 0.14+，Fabric API。\n\n适用端：仅客户端。\n\n\n### 俄文说明\n**No Pot Effect** 移除了《我的世界》中三个最影响 PvP 体验且容易刺眼的视觉特效：\n\n**视野扭曲（FOV Distortion）** —— 使用速度药水时镜头会拉远，使用缓速药水时会拉近。本模组完全禁用了此行为，保持视野不变。\n\n**反胃（恶心与传送门）** —— 反胃效果及进入下界传送门时的屏幕扭曲效果已被彻底移除。\n\n**受击晃动（Hurt Tilt）** —— 受伤时镜头向侧面剧烈倾斜的行为不再发生，不会干扰你的瞄准。\n\n所有选项均可在配置文件 `config/no-pot-effect.json` 中单独关闭：\n\n{ \n  \"disableFov\": true, \n  \"disableNausea\": true, \n  \"disableHurtTilt\": true \n}\n\n只需将对应值设为 `false` 即可在游戏中恢复该特效。\n\n要求：Minecraft 1.21.1，Fabric Loader 0.14+，Fabric API。\n\n适用端：仅限客户端（无需安装在服务端）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7db638bcbfa5454",
+  "content": "\n\n<h1>KarasunikiLib</h1>\n<p>KarasunikiLib 是一款面向 Fabric 和 NeoForge 的轻量级实用工具库模组，旨在简化 Karasu Lab 旗下模组的常见开发任务。</p>\n<h2>依赖项 🔧</h2>\n<p>本模组需要 Architectury API！</p>\n<h2>警告 ⚠️</h2>\n<p>本模组正在迁移至新系统。旧版接口将移至新的包名下。</p>\n<h2>功能特性 ⚙️</h2>\n<ul>\n<li>能量 API：统一的能量接口，使用更便捷。</li>\n<li>抽象方块：支持能量方块、存储方块等更多类型……</li>\n</ul>\n<h2>使用方法 ✍️</h2>\n<p>这是一个库模组，不会为玩家提供直接的游戏内功能。若要在您的模组开发中使用它：</p>\n<ol>\n<li>在您的 <code>build.gradle</code> 文件中将 KarasunikiLib 添加为依赖项。</li>\n<li>使用 <code>com.karasu256.karasunikilib</code> 包下提供的 API。</li>\n<li>如需了解特定接口的用法，请参阅源代码或内置的 Javadoc 文档。</li>\n</ol>\n<h2>贡献指南</h2>\n<p>欢迎贡献！如果您有建议、漏洞报告或希望提交拉取请求（Pull Request），请按照以下步骤操作：</p>\n<ol>\n<li>Fork 本仓库并从 <code>main</code> 分支创建您的开发分支。</li>\n<li>进行修改，并使用清晰的提交信息。</li>\n<li>确保您的代码能够编译通过并通过所有现有检查。</li>\n<li>提交包含更改描述的拉取请求（Pull Request）。</li>\n</ol>\n<h2>许可证</h2>\n<p>本项目采用 MIT 许可证授权。详细信息请参阅 <a href=\"LICENSE\" target=\"_blank\" rel=\"nofollow\">LICENSE</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "56b2bebe9239d8b8",
+  "content": "\n\n**Cobblemon: Interact Wheel Additions** 是一款針對 Cobblemon 1.7+ 的用戶端擴充模組，為擴展後的互動輪盤新增了更多功能。\n\n**本模組功能：**\n- 為寶可夢與玩家的互動在互動輪盤上新增了額外按鈕。\n  - 其中一個是關閉選單的替代方法，無需使用 Esc 鍵。\n  - 另一個會開啟新的使用者介面（UI）選單，用於重新排列選單中的選項。玩家可以移動圖磚來調整順序，並變更選單中選項的排列方式。關閉選單時，設定將會自動儲存。\n- 使用設定檔來儲存不同互動類型（寶可夢或玩家）的選項版面配置。\n  - 此設定資料可以分享或包含在模組包（modpack）中，以提供預設或建議的選項版面配置。\n\n如果您在使用該模組時遇到問題，請加入 [Cobblemon Discord](https://discord.gg/cobblemon \"Join the Cobblemon Discord\") 並在該模組的[專屬支援討論串](https://discord.com/channels/934267676354834442/1444048123558232247) 中提出，或在原始碼倉庫的 [問題追蹤板](https://gitlab.com/StarliteHeart/cobblemon-iwa/-/issues \"Cobblemon: IWA Issues\") 上建立工單！\n\n<a href=\"https://modrinth.com/mod/cloth-config\"><img src=\"https://raw.githubusercontent.com/Jab125/Jab125/main/imgs/requiredClothConfig.png\" alt=\"此模組需要 Cloth Config API\" width=300 height=100 /></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ccb0c5aabd5ad60",
+  "content": "\n\nTinkers' Advanced-Materials 是一款為《匠魂》（Tinkers' Construct）設計的擴充模組，新增了眾多強大的材料（主要整合自各類科技模組）。\n如果你偏好擁有獨特特性的科技材料，TiAcMe 或許是個不錯的選擇。\n\n目前整合的模組：\n- Thermal Series\n- Thermal Endergy\n- Mekanism\n- Applied Energetic\n- PnC:R\n- Create Utilities\n- Create: Rainbow Compound\n\n需要 [Tinkers' Advanced Core](https://modrinth.com/mod/tinkers-advanced-core)\n\n![Integrations](https://cdn.modrinth.com/data/cached_images/ac4110df9ebb658c1879a47d1483737009fd91e4.png)\n\n各項整合功能可於 _tinkers_advanced_core-common.toml_ 設定檔中開關，修改器行為則可於 _tinkers_advanced_materials-common.toml_ 設定檔中進行微調。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

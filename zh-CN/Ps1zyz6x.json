@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WtB37UUmjzY=",
-  "content": "# ScalableLux\n基于Starlight的Fabric模组，旨在提升Minecraft中光照更新的性能。\n\n## 为何存在此分支？\n- Starlight自[2024年3月8日](https://github.com/PaperMC/Starlight/commit/cca03d62da48e876ac79196bad16864e8a96bbeb)起已停止作为模组维护。\n- 原版照明引擎的性能仍是高性能区块生成的瓶颈。\n- 基础版Starlight仍比[原版快100%](<https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#light-engine-performance-changes-in-120-from-vanilla>)，使区块系统可扩展至24线程以上。\n- Starlight的\"无状态\"设计允许并行光照更新，进一步拉大性能差距。在[玩家较多、区块生成压力较大的专用服务器](https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#is-starlight-obsolete)上，该特性仍至关重要。因此，它对Fabric或拥有大量玩家的其他模组服务器依然非常重要。\n\n## 此分支有何改进？\n- 包含Starlight的所有性能优化并修复了额外漏洞。\n- 可选启用并行光照更新，显著提升高速世界生成及大量光照更新场景下的性能。",
+  "bodyHash": "349178fc879254ee",
+  "content": "\n\n# ScalableLux\n一款基于 Starlight 的 Fabric 模组，旨在提升 Minecraft 中光照更新的性能。\n\n## 为什么创建此分支？\n- Starlight 已不再作为模组进行维护 [自 2024 年 3 月 8 日起](https://github.com/PaperMC/Starlight/commit/cca03d62da48e876ac79196bad16864e8a96bbeb)。\n- 原版光照引擎的性能仍是高性能区块生成过程中的瓶颈。\n- 基础版 Starlight 的运行速度仍比原版快 [比原版快 100%](<https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#light-engine-performance-changes-in-120-from-vanilla>)，\n  使得区块系统能够扩展至超过 24 个线程。\n- Starlight 的“无状态”设计支持并行光照更新，进一步拉大了性能差距。\n  对于拥有众多玩家的大型专用服务器而言，[处理高负载的区块生成依然至关重要](https://gist.github.com/Spottedleaf/6cc1acdd03a9b7ac34699bf5e8f1b85c#is-starlight-obsolete)。\n  因此，该分支对于拥有大量玩家的 Fabric 或其他模组服务器依然具有重要意义。 \n\n## 此分支实现了什么？\n- 包含了 Starlight 的所有性能优化，并附带额外的错误修复。\n- 可选地启用并行光照更新，在高速\n  世界生成和重度光照更新场景中带来显著的性能提升。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

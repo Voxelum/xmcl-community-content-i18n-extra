@@ -1,6 +1,6 @@
 {
-  "bodyHash": "KmJEBctv9AU=",
-  "content": "**類似騎馬與砍殺風格的馬匹控制方式。**  \n向前加速、向後減速、向左轉彎、向右轉彎，按Y鍵可在原版控制與戰鬥控制之間切換。\n\n**伺服器管理員或模組包創作者的設定選項**\n\n此模組允許你透過伺服器設定檔（.minecraft > saves > \\[世界\\] > serverconfig > horsecombatcontrols-server.toml）鎖定玩家只能使用戰鬥模式。\n\n你也可以將設定檔複製後貼上作為預設設定（.minecraft > defaultconfigs），藉此將這些設定套用到每個新世界。\n\n**第三人稱視角**\n\n由於Better Third Person模組為閉源，本模組與其不相容。我推薦使用我的模組：[Open Third Person](https://www.curseforge.com/minecraft/mc-mods/open-third-person)",
+  "bodyHash": "89e3316291caf013",
+  "content": "\n\n**類似《骑馬與砍殺》風格的戰馬操控方式。**  \n前進加速、後退減速、左轉向左、右轉向右，按下 Y 鍵可從原版控制切換至戰鬥控制模式。\n\n**伺服器管理員或整合包開發者選項**\n\n您可以透過伺服器設定檔（.minecraft > saves > \\[世界名稱\\] > serverconfig > horsecombatcontrols-server.toml），強制玩家使用戰鬥控制模式。\n\n您也可以將這些設定套用至所有新建立的世界中，只需將設定檔複製並貼上至預設設定資料夾（.minecraft > defaultconfigs）。\n\n**第三人稱視角**\n\n由於 Better Third Person 為閉源模組，本模組無法與其相容。建議您改用我的模組 [Open Third Person](https://www.curseforge.com/minecraft/mc-mods/open-third-person)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

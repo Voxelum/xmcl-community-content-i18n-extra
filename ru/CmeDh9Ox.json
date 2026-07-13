@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2593a3aea2d398b5",
+  "content": "\n\n[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/DavidCGranger/HideModded-Continued)\n\nНачиная с версии 1.15.2, если игра модифицирована, после номера версии в главном меню будет отображаться надпись «(Modded)», а в заголовке окна игры — символ «*».\n\nЭтот мод скрывает символ «*» в заголовке окна игры и надпись «(Modded)» после номера версии игры в главном меню.\n\nЭтот мод **не** скрывает ваши моды от серверов!\n\nЭто форк [оригинального мода](https://modrinth.com/mod/hidemodded) от [CiiLu](https://modrinth.com/user/CiLu), обновлённый для поддержки версии 26.1 и новее. Исходный код оригинала доступен [здесь](https://github.com/CiiLu/HideModded).\n\nДля версий 1.21.11 и более ранних следует использовать оригинальный мод.\n\n![Screenshot](https://github.com/DavidCGranger/HideModded-Continued/blob/master/screenshot.png?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

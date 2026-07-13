@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FGY0X647t2o=",
-  "content": "这是 [Trinkets](https://modrinth.com/mod/trinkets) 模组的分支版本，已更新至 1.21.4-1.21.11 版本。未来开发模组时，请使用 [Trinkets Updated](https://modrinth.com/mod/trinkets-updated)。\n\n本模组本身不提供任何功能，你需要安装其他兼容本模组且包含物品的模组。例如 [Craftable Capes](https://modrinth.com/mod/craftablecapes)。\n\n\n\n在你的项目中加入以下配置：\nbuild.gradle：\n```\nrepositories {\n    exclusiveContent {\n\t\tforRepository {\n\t\t\tmaven {\n\t\t\t\tname = \"Modrinth\"\n\t\t\t\turl = \"https://api.modrinth.com/maven\"\n\t\t\t}\n\t\t}\n\t\tfilter {\n\t\t\tincludeGroup \"maven.modrinth\"\n\t\t}\n\t}\n}\n\ndependencies {\n\tmodImplementation \"maven.modrinth:trinkets-canary:${project.trinkets_version}\"\n}\n```\ngradle.properties：\n```\ntrinkets_version=3.10.0-1.21.4 # 请从版本页面复制对应的版本号\n```\n如果使用 Minotaur 插件上传模组，请记得将依赖 ID 改为 `trinkets-canary`。",
+  "bodyHash": "cdafcabc52245990",
+  "content": "\n\n这是 [Trinkets](https://modrinth.com/mod/trinkets) 模组的分支，已更新适配 1.21.4-1.21.11 版本。如需用于后续模组开发，请使用 [Trinkets Updated](https://modrinth.com/mod/trinkets-updated)。\n\n本模组本身不添加任何内容，您需要搭配其他兼容此模组且能添加物品的模组使用。例如：[Craftable Capes](https://modrinth.com/mod/craftablecapes)。  \n\n\n将其集成到您的项目中：  \nbuild.gradle:\n```\nrepositories {\n    exclusiveContent {\n\t\tforRepository {\n\t\t\tmaven {\n\t\t\t\tname = \"Modrinth\"\n\t\t\t\turl = \"https://api.modrinth.com/maven\"\n\t\t\t}\n\t\t}\n\t\tfilter {\n\t\t\tincludeGroup \"maven.modrinth\"\n\t\t}\n\t}\n}\n\ndependencies {\n\tmodImplementation \"maven.modrinth:trinkets-canary:${project.trinkets_version}\"\n}\n```  \ngradle.properties:  \n```\ntrinkets_version=3.10.0-1.21.4 # 请从版本页面复制对应版本号\n```\n如果使用 Minotaur 插件上传模组，请记住将依赖 ID 更改为 `trinkets-canary`。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

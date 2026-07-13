@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0331429fd58352ba",
+  "content": "\n\n<div>\n<p>允许你使用 Create（机械动力）自动化处理来自 Timeless and Classic Zero (TACZ) 的所有物品。新增钢、铝和铅等材料，以提高获取武器的难度。新增研究台，用于研发武器与弹药图纸（研发时间可配置）。</p>\n<p>移除默认 TACZ 配方<br>1. 在 tacz-common.toml 中将 \"DefaultPackDebug\" 设置为 true<br>2. 删除 \"config/tacz/custom/tacz_default_gun/tacz/recipes\" 目录下的所有文件夹</p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

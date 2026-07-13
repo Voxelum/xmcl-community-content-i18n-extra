@@ -1,6 +1,6 @@
 {
-  "bodyHash": "5OqF7VJExr0=",
-  "content": "这个模组改进了地图在下界及其他洞穴维度中的工作方式，只显示特定高度以下的方块，这个高度可以是你创建地图时所在的高度，也可以是配置文件中指定的数值。\n\n![截图](https://cdn.modrinth.com/data/fdtm99de/images/38ecc01708573652a2ed861b55ece85698aa303d.png)",
+  "bodyHash": "c366c8dff9f7123d",
+  "content": "\n\n本模组改进了在下界及其他洞穴维度中地图的显示方式，仅显示低于特定高度的方块，该高度可以是创建地图时的高度，也可以是配置文件中指定的数值。\n\n![screenshot](https://cdn.modrinth.com/data/fdtm99de/images/38ecc01708573652a2ed861b55ece85698aa303d.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

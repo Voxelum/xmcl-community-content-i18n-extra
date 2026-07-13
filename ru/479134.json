@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1767ffc6f3de50a",
+  "content": "<p>Скройте и настройте имена других игроков с помощью команд</p><p><img src=\"https://media.forgecdn.net/attachments/802/421/2024-02-04-15-55-25-1.gif\"></p><p><span style=\"font-size:14px\"><strong>Команды</strong></span></p><div class=\"spoiler\"><p>/hiddennames nameplateVisible [игрок(и)] [true/false]</p><p>/hiddennames defaultVisible [true/false]</p><p>/hiddennames blocksHideName [true/false] <em>Блоки скрывают табличку с именем</em></p><p>/hiddennames setName [игрок(и)] [цвет] [анимация] [\"имя\"] <em>Аргумент имени должен быть в кавычках</em></p><p>/hiddennames setName [игрок(и)] имя [\"имя\"]</p><p>/hiddennames setName [игрок(и)] цвет [цвет]</p><p>/hiddennames setName [игрок(и)] анимация [анимация]</p><pre>/hiddennames setName [игрок(и)] reset</pre><br><p><br><em>Все команды требуют уровень оператора 2 или выше для выполнения.</em></p></div><p><strong>Поддержать меня</strong></p><p>- Присоединяйтесь к моему <a href=\"https://discord.gg/pCws5wJ2yT\" rel=\"nofollow\">Discord-серверу</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

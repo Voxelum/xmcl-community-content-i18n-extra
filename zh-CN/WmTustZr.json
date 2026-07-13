@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e4472d20d0a5e26f",
+  "content": "\n\n<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/Fabiofdez/resources/refs/heads/master/media/better-snowy-leaves/banner.png\" alt=\"Better Snowy Leaves 模组横幅图片\" align=\"center\" width=\"900\" />\n</div>\n\n<br/>\n\nBetter Snowy Leaves 是一款轻量级模组，旨在微调一处细微的视觉效果：植被积雪；通过添加将积雪纹理叠加至树叶上的新材质，让 Minecraft 中的雪景树木看起来更加自然。本模组专为喜爱自然环境细节、同时希望保持原版玩法不变的玩家设计。\n\n<br/>\n\n## 关于\n\nBetter Snowy Leaves 的设计初衷极为简洁，因为它只做一件事：为植被方块添加一个新的 `#snowy` 块状态，类似于草方块。这样一来，温带和热带生物群系会按预期显示原始的植被材质，而在寒冷及雪原生物群系中则为植被增添积雪装饰。\n\n## 兼容性\n\nBetter Snowy Leaves 旨在成为原版 Minecraft 的自然延伸，这意味着：\n\n- 不改变游戏玩法\n- 不添加新方块或物品\n- 经过优化，对性能友好\n\n本模组应与修改植被行为的其他模组和数据包 100% 兼容。任何现有的世界或服务器都可以无缝添加 Better Snowy Leaves，且移除该模组时世界存档和服务器数据将保持完整。\n\n模组内置了与以下资源包兼容的资源文件。只需将相应的资源包置于 *Default Snowy Leaves* 资源包之上即可。\n\n- [Stay True (CurseForge)](https://www.curseforge.com/minecraft/texture-packs/stay-true) \n- [rainbow's foliage: polytone](https://modrinth.com/resourcepack/rainbows-foliage)（目前仅支持原版树叶；计划与其他受支持模组保持视觉一致）\n\nBetter Snowy Leaves 目前尚未包含针对模组自定义树叶的资源，但未来计划提供支持。如果您希望看到对其他带有自定义树叶模组的兼容支持，欢迎在 [GitHub](https://github.com/Fabiofdez/Better-Snowy-Leaves) 上与我们联系！\n\n*注意：修改植被材质或模型的资源包可能会干扰本模组的视觉效果。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

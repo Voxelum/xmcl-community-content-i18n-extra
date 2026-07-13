@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e412924036352ff0",
+  "content": "\n\n专为 Minecraft 26.2+ 打造的终极优化与舒适模组包。旨在为 Mac 和低配电脑提供流畅、无卡顿的游戏体验。\n\n是否厌倦了低帧率与杂乱的界面？本模组包经过精心挑选，采用最新的优化技术提升性能，同时加入必备的生活质量（QoL）功能，让游戏体验尽可能贴近原版。\n\n核心特性：\n1. 性能优先：内置 Sodium、Lithium 和 ImmediatelyFast 等高端优化模组，显著提升渲染效率并降低 CPU 占用。\n2. 玩法改进：加入 Xaero's World Map、AppleSkin 和 Simple Voice Chat 等必备工具，提升导航便利性与沉浸感。\n3. 界面增强：通过 Inventory Profiles Next 实现更整洁的物品栏管理，并加入 Blur+ 和 Better Mount HUD 等视觉优化。\n\n性能基准测试：\n测试设备：MacBook Air M2：在 16 个渲染区块下（分配 5GB 内存），稳定保持平均约 91 FPS。\n\n重要提示：\n> 首次启动：由于依赖库初始化问题，初次启动可能会失败。只需重启游戏即可正常运行。\n> 兼容性：强烈建议搭配 VanillaTweaks 使用，以获得最佳视觉效果。\n\n- Windows 用户须知：本模组包虽针对 Mac 优化，但在部分 Windows 硬件上可能会出现性能不稳定的情况。\n\n**致谢与法律声明**\n所有包含模组的版权均归其各自原作者所有。本模组包仅为方便玩家与优化性能而精心筛选的合集。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

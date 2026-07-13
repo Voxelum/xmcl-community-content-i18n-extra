@@ -1,0 +1,6 @@
+{
+  "bodyHash": "92595e09ae7738a1",
+  "content": "\n\n受傷時感覺不夠嚴重嗎？\n\n<h1>隆重推出受傷特效！</h1>\n\n這個由 [Rainy Realm Creations](https://modrinth.com/organization/rainy-realm-creations) 製作的數據包為遊戲添加了全新的受傷視覺特效。\n\n<h3>包含哪些特效？</h3>\n\n- 黑暗衝擊（Darkening Shock）\n  - 當生命值過低時，會觸發黑暗效果。\n- 心跳聲（Heartbeat）\n  - 隨著受到的傷害增加，心跳聲會變得更大、更快。\n- 開放性傷口（Open Wound）\n  - 在生命值較低時，為了嘗試治癒傷口，會有血粒子特效出現。\n\n<h3>支援：</h3>\n\n如有任何問題、錯誤回報、建議或其他支援需求，歡迎前往我們的 [Discord 伺服器](https://discord.gg/XHbR7pSwdW)！您還能搶先預覽即將推出的更新內容！\n\n<h3>設定！</h3>\n\n執行以下指令來自定義您的體驗！\n\n```\n/function inj-eff:config\n```\n\n您可以隨意切換所有特效！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

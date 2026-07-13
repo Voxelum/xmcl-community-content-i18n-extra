@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f53d29b5b40c41b",
+  "content": "<h1>服务器列表延迟修复器</h1>\n<p>本模组改进了多人游戏列表中服务器的延迟检测方式，使菜单体验更加流畅。特别是在频繁点击刷新按钮时，差异尤为明显。</p>\n<p>该模组通过增加用于检测服务器延迟的线程数量来实现优化。当线程池过载时，它还会自动清空线程池。</p>\n<table>\n<thead>\n<tr>\n<th style=\"text-align:center\"><strong>未安装模组时</strong></th>\n<th style=\"text-align:center\"><strong>安装模组后</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">仅多次点击刷新按钮后就会卡在加载界面</td>\n<td style=\"text-align:center\">即使疯狂点击刷新按钮也能正常加载</td>\n</tr>\n<tr>\n<td style=\"text-align:center\"><img src=\"https://cdn-raw.modrinth.com/data/iqK5uv72/images/9074b4ba1095ec7a89c1f75446fb12e00dbc6698.gif\" alt=\"未安装模组时的卡顿问题演示\"></td>\n<td style=\"text-align:center\"><img src=\"https://cdn-raw.modrinth.com/data/iqK5uv72/images/e224bb38f77b70822b2d1dfa77f97f9f380bc750.gif\" alt=\"安装模组后问题解决演示\"></td>\n</tr>\n</tbody>\n</table>\n<p>适用于 Forge 1.8.9 的替代方案：<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fserverlistbufferfixer\" rel=\"nofollow\">https://modrinth.com/mod/serverlistbufferfixer</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

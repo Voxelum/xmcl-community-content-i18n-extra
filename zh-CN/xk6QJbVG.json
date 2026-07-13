@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Q3sJkdJC7t0=",
-  "content": "# 自定义物品消失时间\n\n![消失时间地图编辑器，其中部分物品已设置了消失时间](https://cdn.modrinth.com/data/cached_images/ae143a4c7f812fa6e086a431b3cd56543bb9ec5c.png)\n\n### 设置物品消失时间，范围从0秒（立即消失）到1800秒（30分钟）",
+  "bodyHash": "8b19330b0309fba9",
+  "content": "\n\n# 自定义物品消失时长\n\n![物品消失时长地图编辑器，其中部分物品已设置消失时长](https://cdn.modrinth.com/data/cached_images/ae143a4c7f812fa6e086a431b3cd56543bb9ec5c.png)\n\n### 将物品的消失时长设置在 0 秒（立即消失）至 1800 秒（30 分钟）之间",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

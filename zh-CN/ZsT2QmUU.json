@@ -1,6 +1,6 @@
 {
-  "bodyHash": "xHPyTsHJW9s=",
-  "content": "# MakeUp Breezy\n\n这是由javiergcim制作的[MakeUp-UltraFast](https://github.com/javiergcim/MakeUpUltraFast)的修改版本。基于原版9.5a。修改由ENA_QWQ完成。\n\n兼容OptiFine和Iris 1.5.1+。\n\n## 与原版的区别\n\nMakeUp-Breezy为Minecraft带来了赛璐珞风格的动漫外观。\n- 将平滑光照替换为基于亮度的二值化阈值处理。暗部区域偏紫色，亮部区域增强蓝色调。\n- 蜡烛颜色被量化至16个亮度等级。\n- 移除了光泽材质的镜面高光。\n- 基于深度差异添加黑色轮廓线。\n- 在黎明和黄昏时云朵变为洋红色。\n- 增强天空的饱和度和对比度，尤其突出日出和日落的效果。\n\n## 致谢\n\n- 原始项目：[GitHub](https://github.com/javiergcim/MakeUpUltraFast) | [Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders) | [CurseForge](https://www.curseforge.com/minecraft/customization/makeup-ultra-fast-shader) | [PlanetMinecraft](https://www.planetminecraft.com/mod/makeup-ultra-fast-shader/)\n- 修改由ENA_QWQ完成",
+  "bodyHash": "2c2af6969e67dff0",
+  "content": "# MakeUp Breezy\n\n这是由 javiergcim 开发的 [MakeUp-UltraFast](https://github.com/javiergcim/MakeUpUltraFast) 的修改版本。原始版本为 9.5a。修改工作由 ENA_QWQ 完成。\n\n兼容 OptiFine 和 Iris 1.5.1+。\n\n## 与原版的变化\n\nMakeUp-Breezy 赋予 Minecraft 一种卡通渲染、动漫风格的视觉效果。\n- 用基于亮度的二进制阈值化替换了平滑光照。暗部区域变为紫色，亮部区域增强蓝色色调。\n- 蜡烛颜色被量化为 16 个亮度级别。\n- 移除了光泽材质的镜面高光。\n- 基于深度差异生成黑色轮廓线。\n- 在黎明和黄昏时分，云朵变为品红色。\n- 增加了天空的饱和度和对比度，尤其是在日出和日落时。\n\n## 致谢\n\n- 原始项目：[GitHub](https://github.com/javiergcim/MakeUpUltraFast) | [Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders) | [CurseForge](https://www.curseforge.com/minecraft/customization/makeup-ultra-fast-shader) | [PlanetMinecraft](https://www.planetminecraft.com/mod/makeup-ultra-fast-shader/)\n- 修改工作由 ENA_QWQ 完成",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

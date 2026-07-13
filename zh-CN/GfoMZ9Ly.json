@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fff2320a4d332ed9",
+  "content": "\n\n<h1>护盾状态！</h1>\n\n该模组会在玩家护盾上渲染颜色覆盖层，以直观显示护盾是否处于禁用状态。\n\n---\n### 信息：\n**颜色**\n\n通过模组的配置界面，您可以自定义并选择护盾禁用与启用时的颜色。您需要安装 Mod Menu 模组方可进入此设置。\n\n**配置**\n\n![Config1](https://i.ibb.co/GQbjx5Yp/2025-12-04-14-05-45.png)\n\n“插值”选项允许您选择让护盾显示两种静态颜色，还是让禁用颜色平滑过渡至启用颜色。借此方式，您可以大致预估护盾何时将重新激活。具体效果见下方两个视频：\n\n插值已启用：\n\n![https://i.imghippo.com/files/7LBqE1722036334.gif](https://cdn.modrinth.com/data/GfoMZ9Ly/images/cc69cc08e3fb96bb9b7624303893790a11a1f867.gif)\n\n插值已禁用：\n\n![https://i.imghippo.com/files/T4Wbr1722036757.gif](https://cdn.modrinth.com/data/GfoMZ9Ly/images/bc17b904cf4562e19bf4480020000c0bfa6a882b.gif)\n\n**兼容性与改进**\n\n此版本的 Shield Statuses 确保不会直接修改原版护盾的材质文件，而是采用游戏内颜色覆盖层的方式渲染，从而保证不会覆盖其他资源包提供的自定义护盾材质。\n\n本版本还修复了原版模组的一个 Bug：护盾在重新激活后，仍会错误地显示为禁用状态（橙色）。\n\n---\n**致谢**\n\n- 模组开发：Walksy\n- 图标设计：SakuraFX",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

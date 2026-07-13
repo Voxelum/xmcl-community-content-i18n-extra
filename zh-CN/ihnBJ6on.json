@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aecfd732c88c9585",
+  "content": "\n\n![Logo](https://i.imgur.com/9PXWMXQ.png)\n\n# 实体视距\n此模组允许您自定义实体可见的距离！\n它可在客户端与服务器端同时运行，且双方均非强制安装（即原版客户端/服务器仍可正常连接）。\n如果您希望限制物品展示框、盔甲架及其他任何（含模组添加）实体的渲染距离，该模组是理想选择。\n\n您可以通过 `视频设置` 中的 `实体距离设置` 修改相关选项，或使用 `/entityviewdistance` 命令。\n\n*此模组仅适用于 Fabric 模组加载器，并需搭配 Fabric API 或兼容模组使用！*\n\n如有任何问题，欢迎前往我的 [Discord](https://pb4.eu/discord) 提问。\n\n[也欢迎查看我的其他模组与项目，相信它们对您会有所帮助！](https://pb4.eu)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

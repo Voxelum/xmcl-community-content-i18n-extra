@@ -1,0 +1,6 @@
+{
+  "bodyHash": "96b1d774cec2e569",
+  "content": "\n\n一个为 [TouhouLittleMaid](https://modrinth.com/mod/touhou-little-maid) 添加 [EpicFight](https://modrinth.com/mod/epic-fight) 模组攻击动画的 EpicFight 扩展。\n# 功能简介\n新增任务：战斗模式\n![Replace this with a description](https://cdn.modrinth.com/data/cached_images/44bf58495077e64a4f1be199c7721d66edc46465.png)\n\n当女仆装备武器时，攻击逻辑将根据武器类型进行变化。\n\n![Replace this with a description](https://cdn.modrinth.com/data/cached_images/f231a9102ecd6bfd5ce30154ca9c8c5d49a7f8da.png)\n\n由于 EpicFight 使用其自带的 MeshModel 渲染器，本模组仅对 WineFox 模型进行了基础适配。\n\n# 依赖要求：\n必须使用以下指定版本，否则模组可能无法正常工作：\n\n[EpicFight](https://modrinth.com/mod/epic-fight): 20.14 或更高版本\n\n[TouhouLittleMaid](https://modrinth.com/mod/touhou-little-maid) : 1.5.0 或更高版本\n\n[EpicFight-Avalon](https://www.curseforge.com/minecraft/mc-mods/epic-fight-avalon): 20.12.6.4",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

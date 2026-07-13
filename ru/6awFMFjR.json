@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RdVLft6djCo=",
-  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/PjaFKqUSMuI\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Что его выделяет\n- Краш!\n- Попадание под колёса!\n- Резкие изменения направления!\n- Взрывы!\n- И многое другое!\n\n### Требования\n- Minecraft 1.21.1\n- NeoForge 21.1.219+\n- Sable\n- Sable Player Ragdoll\n\n### Всё настраивается в конфигурации сервера:\n\n- Главный переключатель включения/выключения\n- Чувствительность\n- Ограничение скорости запуска\n- Перезарядка повторного триггера\n- Учитывается ли влияние на креативных игроков",
+  "bodyHash": "cafa01c9687fdd44",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/PjaFKqUSMuI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Что запускает эффект\n- Столкновения!\n- Попадание под транспорт!\n- Резкая смена направления!\n- Взрывы!\n- Скоро появятся новые условия!\n  \n### Требования\n- Minecraft 1.21.1\n- NeoForge 21.1.219+\n- Sable\n- Sable Player Ragdoll\n\n### Все параметры настраиваются в конфигурации сервера:\n\n- Главный переключатель вкл/выкл\n- Чувствительность\n- Ограничение скорости отбрасывания\n- Время перезарядки повторного срабатывания\n- Влияет ли на игроков в креативном режиме",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

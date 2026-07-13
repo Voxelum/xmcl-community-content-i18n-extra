@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eaa049a78fe7a755",
+  "content": "\n\n### 這個模組具體能做什麼？\n\n預設情況下，Spell Engine 的法術並未開啟 PvP 功能，這是為了避免誤傷隊友。但如果你想要開啟 PvP 呢？\n\n為了解決這個問題，Spell Engine 整合了遊戲內建的原版團隊（Teams）系統，但說實話，在加入了模組的 Minecraft 中根本沒人用那個！\n\n因此，由於我的整合包主要使用 OPAC 來管理隊伍，我決定為所有 Spell Engine 法術全面新增支援，這樣你就不需要同時設定 OPAC 和原版團隊了！\n\n\n*使用此模組時，原版團隊的支援依然有效！它不會被取代。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

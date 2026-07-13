@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cdc95859de01e636",
+  "content": "\n\n# Create Cobblestone 深板岩生成器\n适用于 Create Cobblestone 模组的数据包，添加了深板岩生成器。必须已安装 Create Cobblestone 模组！\n\n![示例设置](https://cdn.modrinth.com/data/F2XXc3ws/images/ff1b5bcec470a2ae6ee70f81625a1350e398c2b2.png)\n\n## 安装方法\n1. 下载 [Create Cobblestone 模组](https://modrinth.com/mod/create-cobblestone)。\n2. 将数据包放入世界/服务器的 datapacks 文件夹中。\n3. 在配置文件中启用生成器（如果已被禁用）。\n4. 如果世界/服务器已经加载，请使用命令启用该数据包。否则，直接启动服务器或加入世界即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

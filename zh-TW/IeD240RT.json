@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ecf9cfc77c9ae7d5",
+  "content": "\n\n簡易輕量捲尺模組。使用紙張左鍵點擊設定 pos1，右鍵點擊設定 pos2，接著輸入 /csclear 指令即可清除。可在模組選單中自訂顏色與線條寬度。\n\n啟用光影（Shaders）時，線條寬度功能將無法運作。目前正在尋求解決方案，以確保此功能能正確顯示。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "46efd15b83d11d22",
+  "content": "\n\n<p>Dynamic Surroundings 已针对 Minecraft 1.21.1 进行更新，同时支持 Fabric 和 NeoForge 平台。此版本依赖 Architectury 库，因此必须安装该库模组才能使本模组正常运行。Architectury 目前尚未支持 MC 1.21.1 的 Forge 平台。一旦获得支持，我计划发布对应的 Forge 版本。</p>\n<p><span style=\"color:#2dc26b\">如果您正在寻找适用于 Fabric 1.20.x 的版本，请参阅 <a style=\"color:#2dc26b\" href=\"https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings-fabric-edition\" target=\"_blank\" rel=\"nofollow\">Dynamic Surroundings: Fabric Edition</a> 项目。</span></p>\n<h2>功能特性</h2>\n<ul>\n<li>增强型声音处理——在后台进行计算，为空间音效添加混响效果。</li>\n<li>独立声音控制——设置按键并在游戏内激活。使用此功能可屏蔽、剔除和控制声音的播放音量。此外，您还可以手动播放声音以试听。</li>\n<li>生物群系音效——根据所在区域的生物群系播放环境音效。玩家在世界中移动时，音效可实现无缝过渡。</li>\n<li>雾气密度变化——受生物群系、一天中的时间及天气状况驱动。</li>\n<li>高温方块特效——例如熔岩上方的火焰喷射，以及水流接触高温方块时产生的蒸汽。&nbsp;高温方块包括熔岩、岩浆块、营火以及装有熔岩的炼药锅。</li>\n<li>瀑布音效与视觉特效——当检测到附近存在流动的水源时触发。</li>\n<li>替换原版雷声音效为优化版本。</li>\n<li>将方块踩踏音效重映射为“优化”版本。</li>\n<li>提供多种客户端“DS”命令，用于导出配置信息。（目前我在开发时使用这些命令。未来计划整理文档以供大众使用。）</li>\n<li>自定义调试 HUD——支持按键绑定调出。将 Dynamic Surroundings 的相关显示内容从传统的 F3 界面中分离出来。</li>\n<li>兼容 Serene Seasons（宁静四季）——季节和温度的变化会影响模组效果。</li>\n<li>连接至原版服务器时 Dynamic Surroundings 依然保持兼容。Fabric 和 NeoForge 加载器均支持此功能。</li>\n</ul>\n<p>如需在游戏内使用菜单支持，请安装 Cloth-Config。Fabric 和 NeoForge 版本均可使用该模组。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

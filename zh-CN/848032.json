@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b2dfb6cafeb14e7",
+  "content": "\n\n<h1>幻化</h1>\n<p>一款旨在解决“外观不够酷炫”这一长期问题的Minecraft模组。<br>\n幻化模组允许你改变物品的外观，而完全不影响其原有功能！<br>\n它适用于护甲、武器、工具以及你能想到的任何其他物品！</p>\n<p><img src=\"https://i.imgur.com/woiAHnV.png\" alt=\"\"> <img src=\"https://i.imgur.com/emVdmtV.png\" alt=\"\"> <img src=\"https://i.imgur.com/5if3YW8.png\" alt=\"\"><br>\n<img src=\"https://i.imgur.com/27uCep2.png\" alt=\"\"></p>\n<h2><strong>与模组物品完全兼容</strong>！</h2>\n<p><img src=\"https://i.imgur.com/Rr4Hjk0.png\" alt=\"\"><br>\n<strong>更多示例请查看图片选项卡！</strong></p>\n<h1>物品与方块</h1>\n<h2>虚空碎片</h2>\n<p>用于制作幻化台。还能让你将物品设置为隐形！<br>\n<img src=\"https://i.imgur.com/TReHHkq.png\" alt=\"\"></p>\n<h2>幻化台</h2>\n<p>本模组添加的主要方块，用于对物品进行幻化。<br>\n<img src=\"https://i.imgur.com/DFmUHbn.png\" alt=\"\"></p>\n<h1>幻化机制说明</h1>\n<p>在世界中放置幻化台并右键点击，即可打开幻化界面：<br>\n<img src=\"https://i.imgur.com/h2xB6Fn.png\" alt=\"\"><br>\n从左至右，各个插槽分别为：</p>\n<ol>\n<li>燃料槽。每个紫水晶碎片可为幻化台提供能量，每次使用会消耗三分之一。</li>\n<li>目标槽。放入此处的物品将被进行幻化。</li>\n<li>外观槽。放入此处的物品将决定目标物品的外观，且<strong>不会</strong>在过程中被消耗。</li>\n</ol>\n<h2>外观机制</h2>\n<p>对于大多数物品，外观槽将直接作为目标物品的外观，仅以下情况例外：</p>\n<ul>\n<li>已幻化的物品。目标物品将继承现有物品的幻化效果，而非其原始外观。</li>\n<li>虚空碎片。若将其放入外观槽，目标物品将被幻化为隐形状态。</li>\n</ul>\n<p>若要移除物品上的幻化效果，只需将其放入幻化台中且不放置外观物品即可。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

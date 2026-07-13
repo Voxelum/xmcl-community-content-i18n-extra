@@ -1,6 +1,6 @@
 {
-  "bodyHash": "cjp9Z0aEHMw=",
-  "content": "# 🌈 RGB 輪廓方塊選取 [Fabric]\n\n> 一款簡潔輕量的客戶端 Minecraft 模組，將原本單調的預設方塊選取輪廓，替換為流暢且動態的 RGB 動畫邊緣。\n\n旨在維持原版風格的同時，提供更現代、多彩的方塊高亮效果，僅改變視覺上的輪廓顯示。不加入任何非必要的系統、繁重的渲染功能或額外的遊戲機制，確保效能影響降至最低，完美適用於日常遊戲。\n\n### ✨ 功能特色\n* **流暢 RGB 動畫：** 以多彩的顏色變換，讓你的十字準心標示更加現代化。\n* **零依賴：** 完全 **獨立運作**，無需 Fabric API！\n* **原版友善：** 完全保留核心遊戲機制與美學風格，不做任何改動。\n* **超輕量：** 效能影響極低，適合日常遊玩、低配電腦或大型模組包。\n* **僅客戶端：** 可在任何多人伺服器上安全使用。\n\n---\n\n### 🛠️ 最新更新日誌\n* **[錯誤修復]** 修復了當玩家在 Minecraft 的輔助功能設定中，啟用原版「高對比度方塊輪廓」選項時，發生的渲染錯誤問題。現在即使啟用高對比度，也能享受流暢的 RGB 渲染效果！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/zx3LW3BZpBA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "bodyHash": "fa934825363fdb79",
+  "content": "\n\n# 🌈 RGB 輪廓方塊標記 [Fabric]\n\n> 一款簡潔輕量的客戶端 Minecraft 模組，將原本單調的預設方塊選取輪廓替換為流暢、動態的 RGB 動畫邊緣。 \n\n旨在保持原版體驗的同時，提供更現代且色彩鮮豔的方塊高亮效果。本模組僅改變視覺輪廓，不會加入多餘的系統、繁重的渲染功能或額外的遊戲機制，確保效能影響降至最低，完全適合日常遊玩。\n\n### ✨ 功能特色\n* **流暢 RGB 動畫：** 以多彩漸層提升準星瞄準的現代感。\n* **零依賴：** 完全**獨立運作**。無需 Fabric API！\n* **原版友善：** 完全不更動核心遊戲機制與美術風格。\n* **極致輕量：** 對效能影響微乎其微，適合日常遊玩、低階電腦或大型模組包。\n* **僅限客戶端：** 在任何多人伺服器上皆可安全使用。\n\n---\n\n### 🛠️ 最新更新日誌\n* **[錯誤修復]** 修復了當玩家在 Minecraft 的輔助功能設定中啟用原版**高對比方塊輪廓**選項時所發生的渲染異常。即使開啟高對比模式，也能享受順暢的 RGB 渲染效果！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/zx3LW3BZpBA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "790a9062a34f9c58",
+  "content": "\n\n本模组提供了一个基础补丁，解决了你在尝试将 More Red 的红线放置在 Sable 装置上时，红线因被判定为“距离过远”而自动断开的问题。从技术层面来看，它只是在导线断开检测逻辑的开头进行了简单注入，使得当根据 Sable 的向量距离判定处于有效范围时，直接自动通过检测。\n\n我不了解如何修复渲染问题，因此这不太可能包含在本项目的开发范围内。\n\n适用于 NeoForge 1.21.1。需要安装 More Red（遗憾的是，该模组目前在 CurseForge 和 GitHub 上仅提供了 1.21.1 版本）以及 Sable。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

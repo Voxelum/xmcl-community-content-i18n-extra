@@ -1,6 +1,6 @@
 {
-  "bodyHash": "tw+1WclxL2c=",
-  "content": "# immptl-compat\n\nГрубые патчи совместимости для [Immersive Portals](https://modrinth.com/mod/immersive-portals-neoforge).\nЯ не рекомендую полагаться на эти патчи; лучше подождать, пока исправления не будут приняты в оригинальном моде.\n\nВсе заслуги принадлежат первоначальным авторам.\n\n## Текущие исправления:\n- [ae2](https://github.com/AppliedEnergistics/Applied-Energistics-2): исправлено отсутствие DimensionIntId для «ae2:spatial_storage» ([#54](https://github.com/iPortalTeam/ImmersivePortalsModForNeo/issues/54)).\n- [mekanism](https://github.com/mekanism/Mekanism): исправлена функция hasPlayerTracking с добавлением проверки трекера чанков ImmPtl ([#63](https://github.com/iPortalTeam/ImmersivePortalsModForNeo/issues/63)).",
+  "bodyHash": "230c2e7d66c6e494",
+  "content": "\n\n# immptl-compat\n\nБазовые патчи совместимости для [Immersive Portals](https://modrinth.com/mod/immersive-portals-neoforge).\nНе рекомендую полагаться на них; лучше дождаться, пока исправления не будут интегрированы в оригинальный мод.\n\nВсе заслуги принадлежат оригинальным авторам.\n\n## Текущие исправления:\n- [ae2](https://github.com/AppliedEnergistics/Applied-Energistics-2): исправлена ошибка с отсутствующим DimensionIntId для \"ae2:spatial_storage\" ([#54](https://github.com/iPortalTeam/ImmersivePortalsModForNeo/issues/54)).\n- [mekanism](https://github.com/mekanism/Mekanism): исправлена функция hasPlayerTracking для дополнительной проверки трекера чанков ImmPtl ([#63](https://github.com/iPortalTeam/ImmersivePortalsModForNeo/issues/63)).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

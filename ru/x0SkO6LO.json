@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FC2LcztDSEc=",
-  "content": "### **Примечание:**\n### Начиная с Minecraft 26.1 версия Fabric входит в состав этого [Счётчика дней](https://modrinth.com/mod/daycount) (с единым кодовым базой)\n\n----------------------------------\n\nМод для Minecraft, отображающий текущий день в левом верхнем углу. Также есть настройки, которые можно настроить, такие как размер, расположение и цвет.\n\n**Обратите внимание:** начиная с версии 1.3.0 этот мод использует API Cloth Config + Mod Menu для настройки. Экран графической конфигурации был удалён.\n\n![DayCount](https://cdn.modrinth.com/data/cached_images/a1a1b467a004f6954c08eb865ac3f52aa6d38dd3_0.webp)\n\n",
+  "bodyHash": "e01bae0fb468e6ee",
+  "content": "\n\n### **Примечание:**\n### Начиная с Minecraft 26.1 версия для Fabric входит в состав этого [Day Counter](https://modrinth.com/mod/daycount) (с единой кодовой базой)\n\n\\----------------------------------\n\nМод для Minecraft, отображающий текущий день в левом верхнем углу экрана. Также доступны настраиваемые параметры: размер, положение и цвет.\n\n**Обратите внимание:** начиная с версии 1.3.0 для настройки используется API Cloth Config и Mod Menu. Графический интерфейс настроек был удалён.\n\n![DayCount](https://cdn.modrinth.com/data/cached_images/a1a1b467a004f6954c08eb865ac3f52aa6d38dd3_0.webp)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5ae174e0e582d969",
+  "content": "\n\n<h1>检测不应存在的资源包</h1>\n<p>检测玩家是否在错误的位置加载了资源包。</p>\n<p>目前支持：</p>\n<ul>\n<li>不应出现在着色器包目录中的资源包</li>\n<li>嵌套资源包</li>\n</ul>\n<h2>崩溃原因</h2>\n<p>本模组可能与以下模组发生冲突，请检查您是否已安装其中任意一款：</p>\n<ul>\n<li>Iris (NeoForge/Fabric)</li>\n<li>OptiFine (Forge)</li>\n</ul>\n<h2>关于整合包</h2>\n<p>若您遵守相关许可协议，可自由将其用于整合包。</p>\n<p>若整合包重新分发 Minecraft 游戏本体（即把包含 Mod 文件、配置文件、着色器包、资源包、依赖库及启动器在内的整个游戏打包为一个 zip 文件的版本），则不允许使用此模组。</p>\n<h2>许可协议</h2>\n<p>为防止某些意外行为，本作品在原许可协议之外附加了限制性条款，详情请参阅 <a href=\"https://github.com/404Setup/404Setup/blob/main/LICENSE.md\" target=\"_blank\" rel=\"nofollow\">404Setup 公开许可证</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

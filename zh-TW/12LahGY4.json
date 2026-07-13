@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b924acabb739fcb",
+  "content": "\n\n# AzusaConfig\n\n此函式庫旨在將 Quilt Loader 的設定系統導入 Fabric/Forge/NeoForge。\n\n</div>\n\n**注意：不支援 Quilt，因為 [Quilt Loader](https://github.com/QuiltMC/quilt-loader) 已原生內建這些功能。您可以將 AzusaConfig 視為 [Quilt 的設定系統 (quilt-config)](https://github.com/QuiltMC/quilt-config) 移植至 Fabric/Forge/NeoForge 的版本。**\n\n## 授權條款\n本模組採用 Apache-2.0 授權條款。\n\nQuilt Loader 部分採用 Apache-2.0 授權條款。\n\nForge 的 Entrypoints 部分源自 [TT432/Cardinal-Components-API-Forge](https://github.com/TT432/Cardinal-Components-API-Forge/)，採用 MIT 授權條款。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

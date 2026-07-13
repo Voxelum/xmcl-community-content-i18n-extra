@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dd36ed6a0a0958d1",
+  "content": "\n\n# 關於\n這是 [Eternal Starlight](https://modrinth.com/mod/eternal-starlight) 的非官方擴充模組，會在永恆星光維度的地下額外生成八種原版礦石以及紅石礦。\n透過此模組，你可以在探索永恆星光地下時獲得更多資源。\n此外，即使你已在主世界開採了大量礦石並耗盡資源，也可以在尋找永恆星光的途中，順道前往地下採集原版礦石。\n![星光原版礦石](https://cdn.modrinth.com/data/vlMtLQ1s/images/e4290b5c63cc8eb6558c602a9d8ef94841227443.png)\n\n# 功能特色\n礦石生成方式與原版類似，但某些生物群系會產生特定礦石。如果你需要某種礦石，建議鎖定特定生物群系進行搜尋。\n此外還有四種特殊礦石：Grimstone（暗岩）、Voidstone（虛空岩）、Eternal Ice（永恆冰）與 Haze Ice（霧冰）。每種礦石都對應其生成的特定地點。\n永恆冰與霧冰的採集時間比其他礦石稍長。\n\n## 額外鐵礦\n- 黑暗沼澤\n\n## 額外煤炭\n- 星光永久凍土森林\n- 結晶沙漠\n- 永久凍土峯巒\n- 星光泰加林\n\n## 額外銅礦與金礦\n- 托雷亞森林\n- 緋紅森林\n\n## 額外青金石\n- 星光森林\n- 星光茂密森林\n- 幽影平原\n- 微光灌木叢地\n\n## 額外綠寶石\n- 星光永久凍土森林\n- 永久凍土峯巒\n- 星光泰加林\n\n## 額外鑽石\n- 結晶沙漠\n- 螢光菌絲島\n\n## 額外石英\n- 以太河\n- 閃耀河\n\n# 減少礦石生成設定 (1.1.0 版之後)\n\n## Fabric / NeoForge (2.1.0 版之後)\n\n開啟設定資料夾中的 `eternal_starlight_vo.json` 檔案，並修改參數以降低礦石生成率。\n「ReduceOres」（預設：false）可降低基礎礦石的生成頻率；「ExtraOrePerBiome」（預設：true）則可用來增加特定生物群系中部分礦石的生成量。\n「GenerateQuartz」（預設：true）可設為 false 以停用石英礦石的生成。（1.2.0 版之後）\n\n## NeoForge (2.0.0 版之前)\n\n可透過套用專案頁面附載的數據包來減少礦石生成量。各數據包的內容如下：\n\n - lite.zip \n\n降低礦石生成量。\n\n - non_extra.zip \n\n不再增加各生物群系的礦石生成量。\n\n- lite_non_extra.zip \n\n同時降低礦石生成量，並移除各生物群系的額外生成加成。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

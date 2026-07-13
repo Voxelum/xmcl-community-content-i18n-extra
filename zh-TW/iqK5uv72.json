@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f6f8b7a09d190392",
+  "content": "\n\n# Server Pinger Fixer\n\n本模組改善了多人遊戲列表中伺服器的連線偵測方式，讓選單的體驗更加順暢。尤其當您頻繁點擊重新整理按鈕時，更能明顯感受到差異。 \n\n此模組透過增加用於連線偵測的執行緒數量來運作。當執行緒池負載過高時，它也會自動清空該池。\n\n| 未安裝模組                                                                                            | 已安裝模組                                                                                                |\n|:----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|\n| 僅需點擊幾次重新整理按鈕<br/>就會卡住無法載入                                 | 即使連續點擊<br/>重新整理按鈕也能正常載入                                                                 |\n| <img src=\"https://cdn-raw.modrinth.com/data/iqK5uv72/images/9074b4ba1095ec7a89c1f75446fb12e00dbc6698.gif\" alt=\"未安裝模組時的問題 GIF\" width=\"300\" style=\"float:left\"/> | <img src=\"https://cdn-raw.modrinth.com/data/iqK5uv72/images/e224bb38f77b70822b2d1dfa77f97f9f380bc750.gif\" alt=\"安裝模組後修復問題的 GIF\" width=\"300\" style=\"float:right\"/> |\n\n<br>\n\nForge 1.8.9 的替代方案：https://modrinth.com/mod/serverlistbufferfixer",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

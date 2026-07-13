@@ -1,0 +1,6 @@
+{
+  "bodyHash": "012b72f3f9a2bc56",
+  "content": "\n\n# tpshud-fabric\n\nПолностью настраиваемый мод для Fabric, отображающий TPS сервера **без необходимости установки чего-либо на стороне сервера**.\n\n![Окружение](https://img.shields.io/badge/environment-Client%20&%20Server-1976d2?style=flat-square)\n![Загрузчик модов](https://img.shields.io/badge/modloader-Fabric,%20Quilt%20&%20Paper-1976d2?style=flat-square)\n\n![img](https://i.imgur.com/rgFLhlA.png)\n\n## Зависимости\n\n* [fabric-api](https://modrinth.com/mod/fabric-api)\n* [fabric-language-kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n* [YetAnotherConfigLib](https://modrinth.com/mod/yacl) (необязательно)\n* [Mod Menu](https://modrinth.com/mod/modmenu) (необязательно)\n\n# Примечания по серверной части\n\nСерверный плагин или мод полностью необязателен: данный мод работает в полном объёме без каких-либо компонентов на стороне сервера. \nАрхивы .jar работают на следующих платформах:\n\n- Fabric\n- Quilt\n- Paper (а также Bukkit, Spigot, Purpur ...)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

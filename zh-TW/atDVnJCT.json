@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6f09d75a9d65d184",
+  "content": "\n\n這是一個有趣的生存挑戰，你無法上升到 Y 軸高度 32 以上，但在下界與末地中仍然可以。本數據包的靈感來自 ibxtoycat 的挑戰：https://www.youtube.com/watch?v=zsQ-5Nt04Rc&list=PLe8AZ2rjfkpw15Z-CwYMcYp9hkoV3g7ak&ab_channel=ibxtoycat\n\n如何設定數據包：\n\n步驟 #1：建立一個已啟用該數據包的世界。\n\n步驟 #2：在遊戲選單中點擊「對區域網路開放」按鈕並啟用作弊。\n\n步驟 #3：在 Y 軸高度 32 以下尋找洞穴，放置床並設定重生點。\n\n步驟 #4：進入生存模式後，輸入 `/function cave:start`（會給予你一個起始工具箱和十分鐘的夜視效果）或 `/function cave:man`（無起始工具箱或夜視）。執行指令後，你將無法上升到 Y 軸高度 32 以上。\n\n步驟 #5：離開並重新加入世界，以關閉區域網路開放功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

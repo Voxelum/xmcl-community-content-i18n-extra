@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0e97ed4c373f2e3f",
+  "content": "\n\n### 加入我們的 [discord](https://discord.com/invite/VFnHmXzNrm) 來回報錯誤與提出建議。\n\n這個簡單的數據包改進了採礦體驗，讓你在發現煤炭、鐵、銅或黃金時獲得更多獎勵。礦脈的體積已大幅增加，但出現頻率已降低以取得平衡。\n\n煤炭礦脈有機率生成煤塊<br>\n鐵礦脈有機率生成生鐵塊<br>\n銅礦脈有機率生成生金塊<br>\n黃金礦脈有機率生成生金塊<br>\n部分礦床非常集中，你可以在其中找到小塊的生鐵或生金\n\n\n### 注意事項\n*這是一個世界生成數據包。世界生成數據包在世界創建階段加入效果最佳。你仍可在世界生成後將其加入，只需重新生成新區塊即可看到效果。*\n\n## 修改此數據包\n### 請務必下載此專案的<u>數據包</u>版本。\n\n若要修改礦石的體積，請前往 `data/minecraft/worldgen/configured_feature` 並更改所需 JSON 檔案中的 `size` 值（最大體積為 64）。\n\n若要修改礦石的稀有度，請前往 `data/minecraft/worldgen/placed_feature` 並編輯所需 JSON 檔案中的 `count` 值。\n（註：部分檔案目前使用 `rarity_filter` 而非 `count`，這將在即將推出的更新中進行調整）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

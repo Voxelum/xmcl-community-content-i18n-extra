@@ -1,0 +1,6 @@
+{
+  "bodyHash": "382b5ccdcfc2c3bd",
+  "content": "\n\n修改了 Sable 的升力與阻力計算機制，將其改為隨速度呈二次方增長，而非目前的線性增長。\n這將讓在 Aeronautics 中建造大型與小型飛機變得更加容易，因為您不再需要那麼大的機翼面積就能產生升力。\n\n這是本人首次開發的模組，僅進行過初步測試。若數值稍有偏差，可於 `ldfix` 設定檔中自行調整。\n隨著後續版本推出，本人無法保證會持續更新此模組。\n\n相依模組：\nSable - https://modrinth.com/mod/sable\nCreate - https://modrinth.com/mod/create\nCreate Aeronautics - https://modrinth.com/mod/create-aeronautics\n\n原始物理程式碼由 Sable 團隊開發。\n\n**已知問題：** Copycat Sails 模組中的仿製帆會產生過多的升力。\n這是因為它們為了配合原始的機翼計算邏輯而設有額外的乘數。\n- 目前解決方法：在 Copycat Sails 相容模組的設定檔中，將升力倍率從 1.75 改為 0.75，即可取得較佳效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

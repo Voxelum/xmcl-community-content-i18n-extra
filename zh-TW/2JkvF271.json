@@ -1,6 +1,6 @@
 {
-  "bodyHash": "5MIsG/Whnuw=",
-  "content": "想必各位都知道，Minecraft 的世界是由許多區塊所組成的。這些 16x16 的區域會根據玩家距離的遠近而決定是否載入。如果你的機器、植物或任何會運作的事物位於一個因附近沒有玩家而未載入的區塊中，那麼它們將不會有任何作用。\n\n本模組新增了一個名為「區塊載入器」的方塊。放置後，它會讓周圍的區塊保持載入狀態，即使附近沒有玩家，甚至沒有任何玩家在線上。如此一來，你的植物可以繼續生長，你的自動採礦機也能持續運作，即使你不在附近也沒問題。\n\n我們與 [CreeperHost](https://www.creeperhost.net/partner/covers1624vpp) 合作！結帳時使用優惠碼 `covers1624vpp`，首次購買可享 15% 折扣  \n![](https://covers1624.net/covers1624vpp.png)",
+  "bodyHash": "79964743af2eeb7d",
+  "content": "\n\n大家應該都知道，《我的世界》的遊戲世界是由許多「區塊」所組成。每個區塊大小為 16x16，其加載與否取決於玩家與該區塊的距離。如果你的機器、植物或其他需要運作的設施位於未加載的區塊中（通常是因為附近沒有玩家），那麼它們將不會運作。\n\n本模組新增了一種名為「區塊載入器」（Chunk Loader）的方塊。將其放置後，即使附近沒有玩家，甚至玩家完全離線，它也能維持周圍區塊處於加載狀態。這樣一來，即使你不在遊戲中，你的作物仍能繼續生長，自動採石場也能持續運作。\n\n我們與 [CreeperHost](https://www.creeperhost.net/partner/covers1624vpp) 合作！結帳時輸入優惠碼 `covers1624vpp`，即可享受首月 85 折優惠。  \n![](https://covers1624.net/covers1624vpp.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

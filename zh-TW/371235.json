@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4237c4805d368bc5",
+  "content": "\n\n<p style=\"text-align:center\"><strong>此模組需要 <a href=\"https://www.curseforge.com/linkout?remoteUrl=https://fabricmc.net/\" rel=\"nofollow\">Fabric</a></strong>，而非 Forge。</p>\n<p>使用retiNO！向Retina顯示器說<strong>「不！」</strong></p>\n<p>此模組會讓 Minecraft 在 Retina 顯示器上以半解析度渲染，這通常已經足夠使用，且能避免過度消耗你的效能與周邊硬體。</p>\n<p>&nbsp;</p>\n<p>注意：此模組<span style=\"text-decoration:underline\">僅影響 macOS</span>&nbsp;（儘管在其他平台上也能正常運作；只是不會執行任何操作），因為在該系統上有極為簡便的方法可達成相同效果。其他平台似乎沒有類似機制，但你可搭配 <a href=\"https://www.curseforge.com/minecraft/mc-mods/resolution-control\" rel=\"nofollow\">Resolution Control</a> 達到非常相近的效果。</p>\n<p>&nbsp;</p>\n<p>Canvas：若你正在使用 Grondag 的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/canvas-renderer\" rel=\"nofollow\">Canvas Renderer</a>，則無需安裝此模組&mdash;Canvas 已內建此功能，並預設啟用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

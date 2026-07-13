@@ -1,6 +1,6 @@
 {
-  "bodyHash": "s2H9c+RrORY=",
-  "content": "<p>改善 <a href=\"https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge\" target=\"_blank\" rel=\"nofollow\">附魔灌注台</a> 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/sortilege\" target=\"_blank\" rel=\"nofollow\">Sortilege</a> 模組之間的互動機制。</p><p>若未安裝此模組，附魔灌注台將無限制選擇附魔數量，若同時啟用 Sortilege 的附魔上限功能，會導致部分附魔效果浪費。</p><p>安裝後，當選擇的附魔數量超過物品可承受上限時，將無法進行附魔操作。</p><p>需同時安裝 Sortilege 與附魔灌注台模組方能運作。</p><h1>Forge 版本必須搭配 <a href=\"https://www.curseforge.com/minecraft/mc-mods/sinytra-connector\" target=\"_blank\" rel=\"nofollow\">Sinytra Connector</a> 使用！！！</h1>",
+  "bodyHash": "b54582ee9e031159",
+  "content": "\n\n<p>改善 <a href=\"https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge\" target=\"_blank\" rel=\"nofollow\">Enchanting Infuser</a> 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/sortilege\" target=\"_blank\" rel=\"nofollow\">Sortilege</a> 模組之間的互動機制。</p>\n<p>若未安裝此模組，在注入器中選擇附魔時將沒有數量限制，若啟用了 Sortilege 的附魔數量上限功能，多餘的附魔將會被浪費。</p>\n<p>安裝此模組後，若選擇的附魔數量超過物品能接受的附魔上限，則無法進行附魔。</p>\n<p>當然，必須同時安裝 Sortilege 與 Enchanting Infuser。</p>\n<h1>Forge 版本需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/sinytra-connector\" target=\"_blank\" rel=\"nofollow\">Sinytra Connector</a>！！！</h1>",
   "contentType": "text/html",
   "type": "curseforge"
 }

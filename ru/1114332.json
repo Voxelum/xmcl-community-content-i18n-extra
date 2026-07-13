@@ -1,0 +1,6 @@
+{
+  "bodyHash": "62a9476e757f08a6",
+  "content": "\n\n<h1>SpoutingFix</h1>\n<p>Исправляет проблему с реализацией REI в Create Fabric, которая вызывает ошибку при наличии нескольких жидкостных этапов в последовательной сборке.</p>\n<p>Это лишь временное решение, <a href=\"https://github.com/Fabricators-of-Create/Create/pull/1490\" rel=\"nofollow\">соответствующий pull request</a>\nуже принят в основной код Create.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

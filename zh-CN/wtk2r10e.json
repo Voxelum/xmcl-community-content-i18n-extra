@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2df3df5e434279fb",
+  "content": "\n\n### 生物血条模组\n#### 适用于 Forge、Fabric 和 Neoforge\n\n本模组会在生物头顶添加一个血条。\n\n提供 13 种可自定义位置的样式。\n\n按下 “H” 键即可打开选择器。\n其他可自定义的选项包括：\n- 渲染距离\n- 缩放大小\n- 名称显示\n- 血量数值显示（若所选样式支持）\n- 仅在生物处于敌对状态、受伤或鼠标悬停时显示\n\n- 纹理可见性\n\n- 仅显示受伤的生物\n- 配置文件黑名单设置\n- 如果你使用 Forge：\n（在 `blacklist =` 后输入 `minecraft:cow,minecraft:pig`，按此格式填写即可将这些生物加入黑名单）\n\n- 如果你使用 Fabric：\n（在 `blacklist =` 后输入 `cow,pig`，按此格式填写即可将这些生物加入黑名单）\n\n希望你喜欢。\n如果发现任何 Bug，请随时告知我。\n感谢下载本模组！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

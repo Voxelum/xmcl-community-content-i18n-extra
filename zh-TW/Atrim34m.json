@@ -1,0 +1,6 @@
+{
+  "bodyHash": "587b166d599909dd",
+  "content": "\n\n我製作這個是因為我不喜歡等待大量物品燒煉，尤其是在外出探索時。\n\n使用此資料包或模組後，在熔爐、高爐、煙燻爐與營火上燒煉物品，每個僅需 1 個遊戲刻。這意味著高爐與煙燻爐已幾乎多餘，因為一般熔爐的燒煉速度現在與它們完全相同。此外，該效果適用於所有可燒煉的物品。\n\n![GIF Demo](https://cdn.modrinth.com/data/cached_images/ea78e370104fbd008c099a943687ea3ac48c5315.gif)\n\n### 📝 NOTES\n\n您只需下載其中一種即可。請根據您的需求選擇**資料包**或**模組**版本。\n\nFabric、Forge 與 NeoForge 的模組已整合於同一個 JAR 檔案中。若您使用 **Fabric Loader**，則還需安裝 [Fabric API](https://modrinth.com/mod/fabric-api)。歡迎在您的模組整合包中使用本內容。\n\n- ⚠️ 載入資料包時，系統可能會提示「**不相容**」，但實際上仍可正常運作。\n- ⚠️ 僅限 **Fabric Loader** 支援 Minecraft 快照版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

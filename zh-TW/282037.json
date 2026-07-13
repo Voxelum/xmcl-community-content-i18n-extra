@@ -1,6 +1,6 @@
 {
-  "bodyHash": "6aF5aj867AY=",
-  "content": "<p>Satako 是一個用於模組開發的函式庫，其中包含：</p><ul>\n<li>與 Minecraft 相關的常數，包括顏色及其代碼</li>\n<li>自訂使用者介面元件（按鈕、開關按鈕、下拉按鈕、標籤、文字欄位、選擇按鈕、單選按鈕、自訂選單畫面、自訂無欄位畫面、自訂選單）</li>\n<li>實用函式（渲染、反射、物品處理輔助工具）</li>\n<li>實用類別（自訂 ArrayList 實作、預設方塊、方塊實體及物品處理實作）</li>\n</ul><p>我在自己的多個模組中都使用了這個函式庫。</p><p>同時還新增了指令：</p><p>'summon2' - 與 'summon' 相同，但允許分別指定實體的名稱空間與名稱；</p><p>'give2' - 與 'give' 相同，但允許分別指定物品的名稱空間與名稱；</p><p>'killall' - 殺死所有指定類型的實體，允許分別指定名稱空間與名稱；</p><p>'removeall' - 與 'killall' 相同，但會直接移除實體而非殺死。</p><p>Satako 具有按住 Alt 鍵時顯示物品延伸資訊的功能。</p><p>我的 Discord 伺服器，您可以在這裡獲得我任何模組的快速支援以及更新公告 - <a href=\"https://discord.gg/MYxxMfctWx\" rel=\"nofollow\">https://discord.gg/MYxxMfctWx</a></p>",
+  "bodyHash": "29a5e87c108d47b5",
+  "content": "\n\n<p>Satako 是一個用於模組開發的函式庫，包含：</p>\n<ul>\n<li>與 Minecraft 相關的常數，包括顏色及其代碼</li>\n<li>自訂使用者介面元件（按鈕、開關按鈕、下拉按鈕、標籤、文字欄位、選擇按鈕、單選按鈕、自訂選單畫面、自訂無槽位畫面、自訂選單）</li>\n<li>實用函式（渲染、反射、物品處理輔助工具）</li>\n<li>實用類別（自訂 ArrayList 實作、預設方塊、方塊實體與物品處理實作）</li>\n</ul>\n<p>我在多個自己的模組中使用了它。</p>\n<p>同時新增了指令：</p>\n<p>'summon2' - 與 'summon' 相同，但可分別指定實體的命名空間與名稱；</p>\n<p>'give2' - 與 'give' 相同，&nbsp;但可分別指定物品的命名空間與名稱；</p>\n<p>'killall' - 殺死所有指定類型的實體，可分別指定實體的命名空間與名稱；</p>\n<p>'removeall' - 與 'killall' 相同，但會移除實體而非將其殺死。</p>\n<p>當按住 Alt 鍵時，Satako 會顯示物品的擴充資訊。</p>\n<p>我的 Discord 伺服器，您可以在這裡獲得我任何模組的快速支援並接收更新公告 -&nbsp;<a href=\"https://discord.gg/MYxxMfctWx\" rel=\"nofollow\">https://discord.gg/MYxxMfctWx</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

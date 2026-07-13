@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e53f18956dbd9611",
+  "content": "\n\n<a href='https://ko-fi.com/X8X71FI3YO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/SQ5ZLKg5/support-me-on-kofi-beige.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>\n\n## 說明\n此模組／數據包會在地圖航點中加入死亡標記。\n\n![preview](https://cdn.modrinth.com/data/cached_images/007c57dd4c07f1e5d0d9ae4ff9ba4b77903ebaa7.png)\n\n## 使用方法\n玩家死亡後，系統會產生一個導航標記指引玩家前往死亡地點，且可同時存在多個此類標記。僅當玩家靠近標記足夠近時，該標記才會被自動移除，以確保不會無限累積。\n\n## 設定\n\n若希望僅在玩家背包內持有復原羅盤（Recovery Compass）時才顯示標記，請輸入以下指令：\n```\n/trigger bizcub.use_recovery_compass\n```\n\n若要恢復預設設定，請輸入以下指令：\n```\n/trigger bizcub.dont_use_recovery_compass\n```\n\n## 圖示\n預設情況下，標記圖示並非骷髏造型。但在展示模組功能的圖片中，圖示已更換為骷髏形狀。這是透過使用資源包實現的，您可以於下方模組或數據包的檔案中下載該資源包。\n\n## 依賴項\n- Fabric Loader 需要 [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

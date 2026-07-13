@@ -1,0 +1,6 @@
+{
+  "bodyHash": "86b1372d23cf3423",
+  "content": "\n\n# 不死圖騰欄\n\n> 用於 Minecraft 的緊湊型不死圖騰計數 HUD\n\n**Totem Bar** 是一款適用於 Minecraft 1.21.5+ 的輕量級客戶端 Fabric 模組，會在飽食度條正上方新增一個緊湊型的圖示指示器，用以顯示你目前擁有多少個**不死圖騰**。它採用了與護甲條和氧氣條等現有 HUD 元素一致的視覺風格，並搭配小巧的 9x9 像素圖示\n\n該欄位最多顯示 10 個圖騰：**手持的圖騰以實心圖示顯示**，**存放在物品欄中的則以空心圖示顯示**。這讓你在不開啟物品欄的情況下，就能輕鬆區分正在使用的與備用的圖騰。\n\n\n🛠️ [**Mod Menu**](https://modrinth.com/mod/modmenu) 是設定 Totem Bar 的必要條件。若未安裝，模組仍可正常運作但無法進行設定。\n\n\n## 支援的模組\n\n當系統中存在以下模組時，Totem Bar 會自動偵測並調整其渲染位置：\n\n- [**Better Mount HUD**](https://modrinth.com/mod/better-mount-hud) — 調整不死圖騰欄的垂直位置，以配合騎乘時重新顯示的飽食度條\n- [**Raised**](https://modrinth.com/mod/raised) — 將圖騰欄向上微調 2 個像素，以契合 Raised 模組的全局抬高 HUD 版面配置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5d4f2549dd8de1da",
+  "content": "\n\n<p>当你挖矿时突然被落下的砂砾砸中，或在沙滩下方挖掘时非常有用。你也可以利用此模组进行实验。你可以随意使用本模组，无需提及作者。</p>\n<p><em>Minecraft 1.21.1 &mdash; NeoForge&nbsp;&mdash; 轻量级实用模组</em></p>\n<p><strong>描述：</strong><br>Disable Falling Blocks 可防止受重力影响的方块掉落。每个方块类型均可在配置文件中单独开关。本模组为全新制作，请谨慎测试。</p>\n<hr>\n<p>已知问题：</p>\n<div class=\"spoiler\">\n<h2>已知问题</h2>\n<p>将门放置在沙子或类似方块上时会损坏。</p>\n</div>\n<p>信息：&nbsp;</p>\n<div class=\"spoiler\">\n<p>支持的方块：</p>\n<p>沙子<br>红沙<br>砂砾<br>混凝土粉末（所有颜色）<br>铁砧（所有耐久状态）<br>龙蛋（默认关闭）</p>\n<p>所有选项均可在配置文件中切换</p>\n<p>性能与兼容性：</p>\n<p>未检测到性能问题</p>\n<p>如果修改了沙子、砂砾或其他会下落的方块，则可能存在兼容性问题</p>\n</div>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

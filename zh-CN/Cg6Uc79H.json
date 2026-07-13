@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6e7765745e45cb04",
+  "content": "\n\n![Logo](https://raw.githubusercontent.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png)\n\n本模组包含用于Forge模组的共享代码，被史莱姆骑士团（SlimeKnights）旗下的多款模组所使用，包括《匠魂》（Tinkers' Construct）、《Natura》、《匠魂机械》（Tinkers' Mechworks）、《灵感》（Inspirations）和《陶瓷工艺》（Ceramics）。其中包含描述性书籍代码、通用容器接口以及JSON解析工具。\n\n为什么要开发它？为了科学和史莱姆，还能为什么呢？\n源代码可在[GitHub上获取](https://github.com/SlimeKnights/Mantle)。\n\n 此外，本模组还重写了生命值显示界面，采用叠加的彩色心形替代了以往层层堆叠的显示方式。不同颜色的心形仅在你拥有增加最大生命值的途径时才会显示，普通心形保持不变。如不需要此效果，可在客户端配置文件中将其禁用。\n\n----\n\n该项目目前提供1.18.2及以上版本，以及1.7.10、1.12.2和1.16.5版本的构建文件。如果你使用的Minecraft版本没有对应的Mantle发布版，请前往我们的Discord服务器提交请求，我将上传旧版本构建文件供你使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mgqpVlpBTPA=",
-  "content": "<h3>史詩戰鬥監聽器</h3><p>這個模組會追蹤以下數據統計：</p><ul>\n<li>揮擊次數</li>\n<li>格擋次數</li>\n<li>閃避次數</li>\n<li>招架次數</li>\n<li>完美閃避（成功閃避次數）</li>\n<li>天賦技能使用次數</li>\n<li>處決次數（來自史詩戰鬥：重生）</li>\n</ul><h3>明顯的前置模組...</h3><ul>\n<li>史詩戰鬥</li>\n<li>史詩戰鬥：重生</li>\n</ul><p>本模組原本設計為與 Puffish Skills 一同使用，可在招架與完美閃避時給予經驗值獎勵，但也可單純作為數據統計用途。</p><h4><em>適用於我的模組包：FalchionMC（開發中...）</em></h4>",
+  "bodyHash": "0ca92359dee27ec6",
+  "content": "\n\n<h3>Epic Fight Listener</h3>\n<p>此模組提供以下行為的統計追蹤功能：</p>\n<ul>\n<li>揮擊</li>\n<li>格擋</li>\n<li>閃避</li>\n<li>招架</li>\n<li>完美閃避（成功閃避）</li>\n<li>固有技能使用次數</li>\n<li>處決（來自 Epicfight Resurrection）</li>\n</ul>\n<h3>顯然需要的依賴模組如下...</h3>\n<ul>\n<li>Epic Fight</li>\n<li>Epic Fight: Resurrection</li>\n</ul>\n<p>此模組原本設計與 Puffish Skills 搭配使用，用於獎勵招架與完美閃避的經驗值，但也可單純作為統計工具使用。</p>\n<h4><em>專為我的整合包：FalchionMC（開發中...）所設計</em></h4>",
   "contentType": "text/html",
   "type": "curseforge"
 }

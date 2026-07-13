@@ -1,0 +1,6 @@
+{
+  "bodyHash": "81297f20f28ae145",
+  "content": "\n\n## HNN HUD 切换\n\n为 [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) 提供的简易附加组件。\n可通过自定义快捷键切换深度学习者（Deep Learner）的 HUD 显示。\n\n\n### 依赖\n* **NeoForge** (适用于 1.21.1)\n* **Hostile Neural Networks**\n\n### 兼容性\n* 已确认在 **1.21.1** 版本正常运行。\n\n---\n\n## HNN HUD 切换（中文说明）\n\n[Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) 的简易附加组件。\n\n按下设定按键（默认：`H`）即可切换深层学习机的 HUD 显示与隐藏。\n\n### 运行要求\n* **NeoForge** (1.21.1)\n* **Hostile Neural Networks**\n\n### 测试状态\n* 已确认在 **1.21.1** 下正常工作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

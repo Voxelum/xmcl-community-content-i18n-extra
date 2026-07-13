@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5c394888ae71d825",
+  "content": "\n\nAeronautics Addition 改善了 Create 元件在 Sable 動態結構中的運作方式。它讓機械臂能於世界空間中評估目標的抓取範圍與朝向，避免結構移動或旋轉後因局部座標計算產生的抓取失敗，進而使模組在動態物理環境中的表現更為穩定且直觀。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

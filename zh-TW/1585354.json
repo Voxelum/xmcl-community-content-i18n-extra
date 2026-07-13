@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7a5965f5c39642bb",
+  "content": "\n\n<h1>實體選擇器工具</h1>\n<p>用於在 Minecraft 中查看和建立實體體積選擇器的工具（例如 <code>@e[dx=3,dy=5,dz=2]</code>）。</p>\n<h2>功能</h2>\n<ul>\n<li>客戶端偵測由命令方塊與命令方塊礦車建立的體積。</li>\n<li>伺服器端整合，用於預覽由數據包函數建立的體積。</li>\n<li>豐富的設定選項（請參閱圖庫）。</li>\n<li>可使用您選擇的權杖工具或作為 Axiom 建造工具來建立長方體體積。</li>\n</ul>\n<h2>支援版本</h2>\n<p>目前支援的版本為：<strong>26.2</strong>、<strong>26.1.x</strong> 與 <strong>1.21.11-10</strong>。目前僅提供 Fabric 版本。若您有任何版本建議，歡迎提出。</p>\n<h2>相依模組</h2>\n<ul>\n<li>需要安裝 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fproject%252fP7dR8mSH\" target=\"_blank\" rel=\"nofollow\">Fabric API</a>。</li>\n<li>客戶端需要安裝 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fproject%252f1eAoo2KR\" target=\"_blank\" rel=\"nofollow\">YetAnotherConfigLib</a>。</li>\n</ul>\n<h2>授權條款</h2>\n<p>本模組的所有檔案均採用 <a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.gnu.org%252flicenses%252flgpl-3.0.en.html\" target=\"_blank\" rel=\"nofollow\">LGPL-3.0</a> 授權，<em>除了</em> <code>src/main/resources/assets/entityselectortools/icon.png</code>/<code>.idea/icon.png</code>，該圖示保留所有權利。</p>\n<p>若您分發此專案的修改版本，必須移除或替換為自訂的圖示。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

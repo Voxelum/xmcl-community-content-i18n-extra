@@ -1,0 +1,6 @@
+{
+  "bodyHash": "07fb14f877ebed4e",
+  "content": "\n\n移除夜視效果耗盡時的閃爍。\n\n此模組必須安裝於客戶端，且即使伺服器未安裝也能正常運作。將其安裝於伺服器上則不會產生任何效果。\n\n此模組僅單純移除閃爍效果，不具備動畫與設定選項。正因其功能簡潔，故能廣泛相容於多個不同版本的 Minecraft。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

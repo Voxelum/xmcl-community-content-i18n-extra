@@ -1,0 +1,6 @@
+{
+  "bodyHash": "69bfbcbf2e7e95b8",
+  "content": "\n\n<h2>描述</h2>\n<p>对箭矢命中目标的微调。</p>\n<h2>使用方法</h2>\n<p>默认情况下，所有箭矢都会自动锁定实体。若要防止箭矢瞄准你，请使用以下命令。</p>\n<pre><code>/function auto_aiming:cheat</code></pre>\n<p>若要恢复默认设置，请使用以下命令。</p>\n<pre><code>/function auto_aiming:no_cheat</code></pre>\n<h2>依赖项</h2>\n<ul>\n<li>Fabric 加载器需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

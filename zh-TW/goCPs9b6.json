@@ -1,0 +1,6 @@
+{
+  "bodyHash": "09651272f3c6dccc",
+  "content": "\n\n# Fuzz\n\n[中文](https://github.com/1024-byteeeee/Fuzz/blob/dev/README.md) | **English**\n\n一個基於 [Carpet Mod](https://github.com/gnembon/fabric-carpet) 運作邏輯的客戶端模組，提供若干實用功能。\n\n所有功能預設為關閉。\n\n---\n\n![img](https://cdn.modrinth.com/data/cached_images/3cc985048e53ee0179b1687270abfcd40c0b46a4.png)\n\n---\n\n## 快速開始\n\n- 主要指令\n\n\n\n  - /fuzz\n\n\n\n\n  \n    - /fuzz list\n\n\n\n\n\n      - /fuzz list &lt;category&gt;\n\n\n\n\n\n    - /fuzz &lt;rule&gt; &lt;option&gt;\n\n\n\n\n\n  /fuzz：檢視目前啟用的規則列表\n\n\n\n  /fuzz list：檢視完整規則列表\n\n\n\n  /fuzz list &lt;category&gt;：檢視指定分類標籤下的規則列表\n\n\n\n  /fuzz &lt;rule&gt; &lt;option&gt;：修改指定規則的選項\n\n## 說明文件\n\n- [規則](https://github.com/1024-byteeeee/Fuzz/blob/dev/docs/en/rules_en.md)\n- [指令](https://github.com/1024-byteeeee/Fuzz/blob/dev/docs/en/commands_en.md)\n- [開發](https://github.com/1024-byteeeee/Fuzz/blob/dev/docs/en/development_en.md)\n\n\n\n## 授權條款\n本專案採用 [ LGPL-v3.0 ](https://choosealicense.com/licenses/lgpl-3.0/) 授權條款發布。歡迎參考並將其應用於您的專案中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

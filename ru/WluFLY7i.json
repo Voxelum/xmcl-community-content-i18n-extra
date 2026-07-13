@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d759003ed001827b",
+  "content": "\n\n# mc-fix-hardcoded-lava-level\nМод для Minecraft, исправляющий [MC-237017](https://bugs.mojang.com/browse/MC-237017) (все пещеры заполнены лавой на уровне Y -54 и ниже), но не нарушающий ванильную генерацию лавы, в отличие от [https://github.com/Andrew6rant/MC-237017-Fix](https://github.com/Andrew6rant/MC-237017-Fix)\n\nДанный мод предназначен исключительно для серверной части и не требует никаких настроек на клиенте.\n\n## Важные примечания:\nЭто исправление изменяет жёстко заданный уровень лавы с -54 на 117 блоков ниже уровня моря. Оно должно решить проблему во многих пользовательских измерениях, однако некоторые экстремальные варианты могут остаться без изменений.\n\n## Нужен сервер Minecraft?\n[![pebblehost](https://github.com/warior456/Sculk-Depths/assets/66562258/ae831af6-309b-4f11-b896-5f4eb7567088)](https://billing.pebblehost.com/aff.php?aff=2968)\nВсего от 1$/месяц за 1 ГБ ОЗУ [Узнать больше](https://billing.pebblehost.com/aff.php?aff=2968)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

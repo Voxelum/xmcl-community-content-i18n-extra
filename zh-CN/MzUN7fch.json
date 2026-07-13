@@ -1,0 +1,6 @@
+{
+  "bodyHash": "da0f29cd4697a63a",
+  "content": "\n\n控制单个音效的音量。\n\n更改可针对当前存档/服务器进行本地设置，也可针对所有存档和服务器进行全局设置。\n\n本地音效设置优先于全局设置。\n\n\n\n帮助命令：\n\n`/fsc help` - 显示此帮助信息。\n\n`/fsc enable/disable` - 启用或禁用模组。\n\n`/fsc listen` - 将您听到的每个新音效的 ID 输出至聊天栏。再次运行此命令即可关闭监听。\n\n`/fsc list` - 列出所有音效修改。\n\n默认情况下，所有更改仅对当前存档/服务器生效。若要对所有存档和服务器生效，请在命令末尾添加 `global`。\n\n`/fsc set \"[sound]\" [volume]` - 设置指定音效的音量。\n\n`/fsc mute \"[sound]\"` - 静音指定音效。\n\n`/fsc reset \"[sound]\"` - 删除对指定音效的任何修改。\n\n`/fsc clear {global/local}` - 删除所有音效修改。\n\n`[sound]` 应与监听命令输出的 ID 保持一致，并用引号包裹。\n\n`[volume]` 应为 0 到 1 之间的数值。\n\n### 问题反馈\n\n您可以在 [Github](https://github.com/SoundsoftheSun/fine-sound-control/issues) 或 [Codeberg](https://codeberg.org/SoundsoftheSun/fine-sound-control/issues) 上提交问题。\n\n### 翻译\n\n我的模组下载用户大多来自非英语国家！如果您愿意帮助将我的模组翻译成您的语言，请访问 https://translate.soundsofthesun.net/projects 并使用 GitHub 账号登录参与贡献！\n\n<a href=\"https://translate.soundsofthesun.net/projects/fine-sound-control/\"><img src=\"https://translate.soundsofthesun.net/widget/fine-sound-control/multi-auto.svg\" alt=\"Translation status\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

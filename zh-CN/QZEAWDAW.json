@@ -1,0 +1,6 @@
+{
+  "bodyHash": "886cd14b06833cea",
+  "content": "\n\n为了加快重复结构的建造速度，本模组允许你记录方块的放置模式，之后即可瞬间完成建造。\n\n每个建筑方案都需要一个名称，并可通过自定义按键进行切换；在潜行状态下切换则反向循环。\n\n### 在服务器上使用时请格外小心！\n理论上可以正常运行，但如果服务器开启了_任何_反作弊系统，都有可能导致你被封禁！\n\n<details>\n<summary>建造教程</summary>\n\n#### 遗憾的是，保存建筑方案需要同时安装 Mod Menu 和 Cloth Config 模组。 \n\n按住 ReBuilder 的修饰键（默认为 Alt；与切换键不兼容）并按下你的循环键（默认为 Z）。这将直接开始录制，而不会打开菜单界面。\n\n#### 从开始录制到结束录制期间放置的所有方块都将被记录。\n\n打开 ReBuilder 的配置菜单，或按下与开始录制时相同的按键组合。\n\n若未保存便退出，建筑进度将原样保留，下次可继续编辑。\n</details>\n\n![在兼容模式下使用该模组的效果](https://cdn.modrinth.com/data/cached_images/ab148cca916c174b1bfe12b4e03462a0856979c2.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

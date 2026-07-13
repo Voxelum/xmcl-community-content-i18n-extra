@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e9237638118c5182",
+  "content": "\n\n允許透過 Sparse Structures 模組單獨配置來自 WDA 的結構。 \n\n當你在遊戲內輸入 `/dumpstructuresets` 指令時（搭配 Sparse Structures），過去你只能取得次要結構集；此相容性修復後，現在你可以使用 Sparse Structures 設定每一個獨立結構。 \n![此模組生成的檔案程式碼](https://cdn.modrinth.com/data/cached_images/a04fe84d32d5049e18c170d77d479cd89fe18ec1.png)\n此範例來自原版 Dungeons Arise，其中七海（Seven Seas）區域僅包含次要結構。\n\n次要結構為獨角獸戰艦（Unicorn Galleon）。\n\n我需要將此檔案保留與原模組相同的檔名，以便透過資料包（datapack）進行覆蓋替換。\n\n我也為原版 Dungeons Arise 和 Sparse Structures 開發了另一款獨立的相容性模組。\n![Wabbanode 橫幅](https://cdn.modrinth.com/data/cached_images/87b19f4b9068d4a344b05dda840b8b088e3be4f7.png)\n前往 Wabbanode 租用伺服器來架設你自己的伺服器吧！\nhttps://wabbanode.com/affiliate/booglie",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

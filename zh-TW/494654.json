@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a86cf34a292c3a4f",
+  "content": "\n\n<p>Fabric 版本（非本人維護）！ <a href=\"https://www.curseforge.com/minecraft/mc-mods/item-banning-fabric\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/item-banning-fabric</a></p>\n<p>此模組允許伺服器管理員將特定物品加入黑名單。被禁止的物品會在存放它的容器更新時立即被刪除，且將不再掉落。<br>你可以在 [save_name]/serverconfig/itemblacklist.json 找到該清單。</p>\n<p>你也可以在 `defaultconfigs` 資料夾下建立名為 `itemblacklist.json` 的預設黑名單。這將自動套用至你建立的每一個新世界中。&nbsp;</p>\n<p>新版本使用指南請見&nbsp;<a href=\"https://github.com/pitbox46/ItemBlacklist/blob/master/guide.md\" target=\"_blank\" rel=\"nofollow\">這裡</a>。</p>\n<p><br><span style=\"text-decoration:underline\"><strong>指令</strong></span><br>-/itemblacklist ban [物品] -<em>將指定物品加入黑名單<br></em>-/itemblacklist unban [物品]<em>&nbsp;- 將指定物品移出黑名單<br></em>-/itemblacklist ban all<em>&nbsp;- 禁止所有物品<br></em>-/itemblacklist list<em>&nbsp;- 顯示所有被禁止的物品（任何人都可使用此</em> 指令）<br><br><strong>支援我<br></strong>- 加入我的 <a href=\"https://discord.gg/pCws5wJ2yT\" rel=\"nofollow\">Discord 伺服器</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

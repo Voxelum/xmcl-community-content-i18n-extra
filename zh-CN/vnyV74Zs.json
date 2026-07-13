@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cfde2d6df7e73ab7",
+  "content": "\n\n# Create:降落伞\n本模组为 Sable 添加了降落伞。为契合 create:aerodynamics 的空气动力学机制，该模组作为 Create 的附属模组。\n\n它添加了 3 种类型的降落伞方块：\n![parachute](https://cdn.modrinth.com/data/cached_images/42d5da6399de1e10f6c0b65fa23c662f381ae3af.png)\n![parachute](https://cdn.modrinth.com/data/cached_images/1097e1082f87ce250b70d385e62e297847579536.png)\n![bigparachute](https://cdn.modrinth.com/data/cached_images/78b880c2c5c2367e677094c4c1882c4d8182ffbc.png)\n\n# 如何使用？\n空手右键点击降落伞方块即可进入界面，您可以在其中配置降落伞的阻力系数和滚转阻尼系数，还可以调整低速时断开降落伞的速度阈值。\n\n当降落伞收起时，红石信号可触发其展开。您可以在界面中选择是否在降落伞展开后再次激活红石以将其收回。\n\n手持染料右键点击降落伞即可更改颜色。\n![GUI](https://cdn.modrinth.com/data/cached_images/5e7ba0a6fd26cc8bd45c03c1ea6fde43cb4bf469.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

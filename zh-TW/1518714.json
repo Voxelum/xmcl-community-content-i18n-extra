@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YIULSymFi+M=",
-  "content": "<p style=\"text-align:center\"><span style=\"color:#e03e2d\"><strong>此模組已過時，請直接使用原版模組！</strong></span></p><p>&nbsp;&nbsp;</p><p>修復了與Create Aeronautics和Big Cannons的相容性問題。</p><p>當載入Simulated時，Create Aeronautics會覆寫Rotation Propagation，並使其回傳的清單變成不可變更，導致遊戲崩潰。此模組透過將該方法的回傳清單改為可變更來修復此問題。</p>",
+  "bodyHash": "b2c9b2498b55ce77",
+  "content": "\n\n<p style=\"text-align:center\"><span style=\"color:#e03e2d\"><strong>此模組已過時。請直接使用原版模組！</strong></span></p>\n<p>&nbsp;&nbsp;</p>\n<p>修復了 Create Aeronautics 與大型加農砲之間的相容性問題。</p>\n<p>在載入模擬區塊時，Create Aeronautics 會覆蓋 Rotation Propagation 並將其回傳的列表設為不可變，導致遊戲崩潰。本模組透過將該方法回傳的列表改為可變來修復此問題。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

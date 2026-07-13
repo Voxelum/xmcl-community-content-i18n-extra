@@ -1,6 +1,6 @@
 {
-  "bodyHash": "R0I3C66/ADE=",
-  "content": "本模组为[简易村民](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)添加了交易刷新功能。\n\n\n无需等待工作时间或反复替换工作站点方块，即可刷新所有未被交易过的村民的交易选项。\n\n## 特性\n\n- 在交易界面中通过按钮刷新交易\n- 通过快捷键（默认为C键）刷新交易\n- 可配置交易刷新按钮的位置\n\n![](https://media.giphy.com/media/AX8FajusxpjFW9wEyP/giphy.gif)",
+  "bodyHash": "aee8b682124f7021",
+  "content": "\n\n本模组添加了 [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) 的交易循环功能。\n\n\n无需等待工作时间或反复更换工作站方块，即可为每位尚未进行过交易的村民循环刷新交易。\n\n## 功能特性\n\n- 在交易界面中使用按钮进行交易循环\n- 使用按键绑定（默认为 C 键）进行交易循环\n- 可自定义交易循环按钮的位置\n\n![](https://media.giphy.com/media/AX8FajusxpjFW9wEyP/giphy.gif)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

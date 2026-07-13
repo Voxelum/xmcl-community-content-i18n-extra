@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5494d2ec5207f733",
+  "content": "\n\n# 進階巨集引擎\n---\n當前版本：https://modrinth.com/mod/datalib\n---\n**macroEngine** 是專為 Minecraft Java 版數據包開發者設計的函數框架。它提供結構化的巨集執行系統、模組化 API 模組與多版本相容性——無需安裝任何模組即可使用。\n\n## 功能特色\n\n| 功能 | 說明 |\n|---|---|\n| **巨集執行** | 透過 `macro:input` 儲存區動態注入變數，呼叫參數化函數 |\n| **模組化 API** | 內建數學、字串、玩家資料、排程、鉤子、旗標、列表與計時器等即用模組 |\n| **多版本相容** | 支援 1.20.3 至 26.1，採用覆寫式版本系統 |\n| **多人安全** | 無全域狀態衝突——專為多人同時使用設計 |\n| **權限管理** | 內建 `macro:perm` 模組，支援基於角色的存取控制 |\n| **對話系統** | 透過 `macro:dialog/open` 驅動基於儲存的 UI 對話 *(1.21.6+)* |\n| **鉤子系統** | 跨數據包綁定並觸發自訂事件 |\n| **純數據包** | 無需模組、外掛或可執行檔——僅使用 `.mcfunction` 與 `.json` |\n\n## 適用對象\n\nmacroEngine 專為需要可靠且可重複使用基礎架構的數據包開發者打造，免去從頭編寫冗餘程式碼的繁瑣工作。適用於管理員工具、小遊戲系統或複雜的玩家互動邏輯。\n\n## 安裝方式\n\n需使用 Minecraft Java 版 1.20.3 以上版本\n\n1. 從 [發行版本](https://github.com/runtoolkit/macroEngine-dp/releases/latest) 下載最新的 `.zip` 檔案\n2. 將 `.zip` 檔案放入 `<世界資料夾>/datapacks/` 目錄中\n3. 執行 `/reload`\n4. 執行 `/function ame_load:load/yes`\n5. 授予自己管理員標籤：`/tag @s add macro.admin`\n\n## 相容性\n\n| Minecraft 版本 | 數據包格式 | 狀態 |\n|---|---|---|\n| 1.20.3 – 1.20.4 | 26 | 支援 |\n| 1.21.x | 48 – 94 | 支援 |\n| 26.1 | 101+ | 支援 |\n\n## 文件說明\n\n完整的 API 參考文件與模組指南請見 [GitHub Wiki](https://github.com/runtoolkit/macroEngine-dp/wiki)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

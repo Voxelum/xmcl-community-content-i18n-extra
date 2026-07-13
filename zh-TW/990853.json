@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99ff427a671fbbcd",
+  "content": "\n\n<p><img src=\"https://cdn.modrinth.com/data/jhHNjn7K/images/38685788e23cc9ba5911e5bf593533254fca1d2d.png\" alt=\"\"></p>\n<h3><strong>一個輕量級的 API，讓您輕鬆管理您的設定檔。</strong></h3>\n<p>請查看 <a href=\"https://github.com/Infinituum17/FastConfigAPI/wiki/Getting-Started\" target=\"_blank\" rel=\"nofollow\">「快速開始」</a> 頁面以立即上手。</p>\n<h2>如何運作</h2>\n<p>此模組讓您在執行階段輕鬆地 <em>載入</em>、<em>管理</em> 和 <em>刪除</em> 設定檔。<br></p>\n<p>此模組的主要目的是提供一套簡單易懂的 API，<br>讓您可以盡快開始建立設定檔，同時確保它們平台獨立，<br>以便您能搭配任何喜愛的模組載入器使用。</p>\n<p>請前往 <a href=\"https://github.com/Infinituum17/FastConfigAPI/wiki/Getting-Started\" target=\"_blank\" rel=\"nofollow\">Wiki</a> 開始使用。</p>\n<h2>其他資源</h2>\n<p>此模組使用了 <a href=\"https://www.curseforge.com/minecraft/mc-mods/void-lib\" target=\"_blank\" rel=\"nofollow\">Void Lib</a>，<br>如果您使用的是 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252f\" target=\"_blank\" rel=\"nofollow\">Fabric</a>，並且有興趣在模組中使用註解來整合進階功能，<br>強烈建議您前往查看。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

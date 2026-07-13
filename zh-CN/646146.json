@@ -1,0 +1,6 @@
+{
+  "bodyHash": "32f9b70eccbfc4eb",
+  "content": "\n\n<h1>简化提升声音上限</h1>\n<p>一款以简单方式提升 Minecraft 声音源数量限制的模组（目前提升至 4095）</p>\n<h2>配置</h2>\n<p>配置文件位于 <code>.minecraft/config/rsls.properties</code>\n若已安装 Cloth Config 和 Fabric API，则提供游戏内编辑器</p>\n<p><img src=\"https://media.forgecdn.net/attachments/477/759/screenshot-from-2022-07-18-17-03-17.png\" alt=\"声音调试信息\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

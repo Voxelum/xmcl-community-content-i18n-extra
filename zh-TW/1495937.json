@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4a675089e375f434",
+  "content": "\n\n<h1>Ykkz000 的背包</h1>\n<p>新增額外背包，讓你攜帶更多物品。</p>\n<h2>功能</h2>\n<p>新增一個 <strong>9×3 背包</strong>，該背包在死亡或類似事件發生時<strong>不會掉落</strong>。</p>\n<ul>\n<li>按下 <strong>B</strong> 鍵開啟背包。</li>\n<li>按下 <strong>C</strong> 鍵關閉背包。</li>\n</ul>\n<h2>介面（供開發者使用）</h2>\n<ul>\n<li>將 <code>ykkz000.mcmod.backpack.world.entity.player.BackpackPlayer</code> 介面注入至 <code>net.minecraft.world.entity.player.Player</code> 類別，使依賴此模組的其他模組能直接存取背包。</li>\n<li>將 <code>ykkz000.mcmod.backpack.world.PackableContainer</code> 介面注入至 <code>net.minecraft.world.SimpleContainer</code> 類別，使依賴此模組的其他模組能整理 <code>SimpleContainer</code> 及其子類別的物品欄。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d64bf9259fbd1458",
+  "content": "\n\n新增/修改了 85 多个配方，以改善 Mekanism 与 The Factory Must Grow 之间的兼容性：\n- 移除重复的铅和钢配方及物品\n- 添加对 Mekanism 锂粉与 TFMG 锂矿石的兼容支持\n- 移除 Mekanism: Tools 模组中重复的钢制护甲与工具\n- 同样兼容 Mekanism: Generators\n- 将 TFMG 物品（主要是铝和塑料）加入 Mekanism 的配方中\n- 若要使用 Mekanism，必须先生产 TFMG 钢\n- 为层级安装器提供新配方\n- 如果不需要某些仅用于兼容性的配方，可以在配置文件中将其禁用\n\n若要从 JEI 中移除所有未使用的重复物品，请将以下物品列表放入 `yourmodpackname/config/jei/blacklist.cfg` 文件中：\n\n\n<details>\n<summary>TFMG 版本低于 1.0</summary>\n\n```\nmekanism:block_lead\nmekanism:ingot_steel\ntfmg:raw_lead\ntfmg:lead_ingot\ntfmg:sulfur_dust\nmekanismtools:steel_helmet\nmekanismtools:steel_leggings\nmekanismtools:steel_chestplate\nmekanismtools:steel_boots\ntfmg:steel_pickaxe\ntfmg:steel_sword\ntfmg:steel_axe\ntfmg:steel_shovel\ntfmg:steel_hoe\n```\n\n</details>\n\n<details>\n<summary>TFMG 版本 1.0 及以上</summary>\n\n\n```\nmekanism:ingot_lead\nmekanism:nugget_lead\nmekanism:ingot_steel\nmekanism:nugget_steel\ntfmg:sulfur_dust\ntfmg:steel_pickaxe\ntfmg:steel_sword\ntfmg:steel_axe\ntfmg:steel_shovel\ntfmg:steel_hoe\n```\n\n\n</details>\n\n\n\n  \n强烈推荐使用 JEI。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

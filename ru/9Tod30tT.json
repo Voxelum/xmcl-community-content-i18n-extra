@@ -1,0 +1,6 @@
+{
+  "bodyHash": "70da189b1e5ae44f",
+  "content": "\n\n# Описание\nДобавляет в игру простое кремневое копье. Выглядит как незеритовое копье (с немного иной текстурой), но обладает теми же характеристиками (2 ед. урона при атаке), что и каменное копье. Основная цель — внедрить реалистичный рецепт крафта. Несмотря на то, что это не сильно улучшит качество геймплея, данная функция выглядит логично.\nЕсли вы используете версию в виде датапака, убедитесь, что установлен необходимый пакет ресурсов.\n\n# Версии\nПоддерживает Java Edition 1.21.11 - 26.2\n\n# Совместимость\nНесовместимо с любым контентом, имеющим те же имена файлов или рецепты. Должно нормально работать с тем, что не заменяет его другим кремневым копьем.\n\n  <a href=\"https://patreon.com/Nerd_1023?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\"><img alt=\"patreon-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_vector.svg\"></a>\n  <a href=\"https://discord.gg/m5AGYxRj3g\"><img alt=\"discord-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2c65837956a0fa8e",
+  "content": "\n\n# 鸟窝会从树上掉落！\n\n<p align=\"center\">\n  <img src=\"https://cdn.modrinth.com/data/lCSBuaOg/images/85ba5944b7f2110b48fc33e704c90a6aa3a125ed.png\" alt=\"地上的鸟窝\"/>\n</p>\n\n# 右键点击它们可获得战利品！\n以物品形式呈现的类原版战利品箱/幸运方块，源自鸟儿遗落之物！按获取概率从高到低排列：\n\n<p align=\"center\">\n  <img src=\"https://cdn.modrinth.com/data/lCSBuaOg/images/c8891e347eb16b64e30c123b996a35966577ceb4.png\" alt=\"显示可从鸟窝中获得的物品的背包界面\"/>\n</p>\n\n# 配置\n你觉得鸟窝太多？还是太少？  \n你可以自定义平均需要破坏多少树叶才能获得一个鸟窝！  \n前往 `(minecraft文件夹)/config/birdnest.json`  \n将 `\"leaves\": 250`（默认值）修改为任意数字，代表平均需要破坏多少片树叶才能生成一个鸟窝。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

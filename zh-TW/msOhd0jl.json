@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7a476bd312d9a33e",
+  "content": "\n\n# 簡單彈弓\n你覺得遊戲裡的遠距離武器不夠多嗎？或者你已經用箭矢用到膩了？\n又或者你只是想單靠一件工具，就能在建造時擁有更長的射程？\n\n![使用彈弓對抗苦力怕](https://cdn.modrinth.com/data/msOhd0jl/images/fe41bb03af1b3e8a22e476d1742135670511a7f4.png)\n\n簡單彈弓是一款基於 [Polymer](https://modrinth.com/mod/polymer) 的 Fabric 伺服器端模組，為遊戲加入了彈弓以及相關的附魔！\n\n彈弓是一種武器，可用來發射各種類型的物品。雖然它會優先使用你手裡拿著的物品，但也能從你的快捷欄中任意選擇一件當前持有的物品。\n\n在大多數情況下，它的傷害輸出和射程都會受到限制，不過某些特定物品可能會賦予你特殊的額外效果，讓它變得更具實用性。例如，採掘工具會用來破壞方塊、烈焰棒會點燃火焰，以此類推。\n\n為了發揮它的最大潛力，你可以透過附魔來提升它的功能。可附魔的選項包括：\n- 方塊放置者（Block Placer）- 讓方塊物品自動發射並放置，\n- 迴力鏢（Boomerang）- 未命中實體或未消耗的物品會飛回給你，\n- 彈跳（Bounce）- 讓所有投射物擊中方塊後反彈。每級允許一次反彈，最高為 5 級，\n- 物品發射器（Item Sender）- 阻止任何物品效果與實體傷害，但能讓物品飛得更遠。\n- 工具應用（Tool User）- 讓部分工具（如斧頭和鏟子）對方塊和實體施加它們原本的效果。\n- 軌跡預測（Trajectory Prediction）- 顯示投射物的潛在飛行路徑。\n- 快速充能（Quick Charge）- 與弩相同，縮短裝填所需的時間。\n\n![使用彈弓進行建造](https://cdn.modrinth.com/data/msOhd0jl/images/665a17af430e9cdd3d3ed7e2d8207832ef8080bc.png)\n\n## 你可能想搭配使用的額外模組！\n\n### Polymer AutoHost\n處理伺服器自動生成資源包的最簡便方式！\n雖然它隨主版 [Polymer](https://modrinth.com/mod/polymer) 分發捆綁提供，但你必須手動啟用它，否則預設會是關閉狀態。不過設定起來非常快速且簡單！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

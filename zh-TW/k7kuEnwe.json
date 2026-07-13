@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2e19a1ba0b06c02c",
+  "content": "\n\n![](https://cdn.modrinth.com/data/k7kuEnwe/images/b02f77bef4db3f0cd640e97c9d5853adc50d98be.png)\n# 🛎️ 說明：\n此模組為終界之眼加入了一個簡單的機制：  \n終界之眼破碎後，不久便會出現在末地傳送門框架上。  \n## ✔️ 注意：\n使用 Fabric 版本需要安裝 Cloth Config API 以及 Fabric API！  \n# 🧿 更多說明：\n在伺服器設定檔（位於你的遊戲存檔資料夾中），你可以於「共享模式」與「個人模式」之間進行切換。共享模式為預設選項，允許所有破碎終界之眼的數據由所有玩家共享；而個人模式則會保留每個玩家專屬的破碎終界之眼數據，這意味著如果史蒂夫打破了 3 顆終界之眼，當他獨自抵達一個全新的末地傳送門時，框架上只會出現 3 顆終界之眼。  \n切換模式將導致所有先前數據遺失。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

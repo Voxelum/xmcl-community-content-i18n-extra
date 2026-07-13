@@ -1,6 +1,6 @@
 {
-  "bodyHash": "sZJHJp3KmBQ=",
-  "content": "<h1>Lithostitched</h1><p>Lithostitched 是一个为 Forge 和 Fabric 设计的库模组，为世界生成提供了新的可配置性和兼容性增强。</p><h2>描述</h2><p>本模组为数据包和模组世界生成开发者引入了新工具，旨在提高项目间的兼容性并扩展整体可配置性。目前包含以下功能：</p><ul>\n<li>生物群系修改器</li>\n<li>模板池注入器</li>\n<li>表面规则修改器</li>\n</ul><p>所有这些新功能都是<strong>数据驱动</strong>的！请查阅 <a href=\"https://github.com/Apollounknowndev/lithostitched/wiki\" rel=\"nofollow\">Lithostitched 维基</a> 获取更多信息。</p>",
+  "bodyHash": "a56f87e843013f55",
+  "content": "\n\n<h1>Lithostitched</h1>\n<p>Lithostitched 是一款面向 Forge 和 Fabric 的库模组，为我的世界生成（Worldgen）提供了全新的可配置性与兼容性增强功能。</p>\n<h2>简介</h2>\n<p>本模组为数据包制作者与模组世界生成开发者引入了新工具，旨在提升各项目间的兼容性并全面扩展可配置性。目前包含的功能有：</p>\n<ul>\n<li>生物群系修改器</li>\n<li>模板池注入器</li>\n<li>地表规则修改器</li>\n</ul>\n<p>所有新功能均为<strong>数据驱动</strong>！欲了解更多详情，请访问 <a href=\"https://github.com/Apollounknowndev/lithostitched/wiki\" rel=\"nofollow\">Lithostitched Wiki</a>。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

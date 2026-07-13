@@ -1,0 +1,6 @@
+{
+  "bodyHash": "03e3c894386e8912",
+  "content": "\n\nCannon Compressed Armor 强化了你已使用的方块——将圆石、深板岩、木板、原木等转化为身经百战的装甲，足以抵御 Create Big Cannons 的炮火。\n\n为 57 种原版方块中的每一种选择三种装甲变体：\n\n韧性（Toughness）—— 增加 CBC 穿甲抗性（Mk.6 时最高可达 3,500 韧性）\n防爆（Blast）—— 增加爆炸抗性（Mk.6 时最高可达 50 爆炸抗性）\n复合（Combined）—— 兼具以上两种特性，但会消耗更重的 Sable 物理重量\n\n每种变体包含六个升级等级。在合成台中，使用对应的模板包裹 8 个基础方块即可制作，产出 8 个装甲方块。模板由分级压缩铁锭制成——每一级会将上一级的 9 个进行压缩——因此 Mk.6 装甲需要投入大量的材料。\n\n安装 Create 后，装甲玻璃方块将使用该模组的连接纹理系统，无缝拼接成透明的加固墙壁。所有 Sable 物理重量均已精确计算，确保你的装甲飞艇保持平衡。\n\n依赖项：Create 和 Create Big Cannons\n\n强烈推荐使用：CBC Enhanced Sheels（专为它们提供的攻击等级而设计）以及 Create Aeronautics（在考虑重量的前提下实现平衡的天空战斗）。\n\n可选：All The Compressed（其压缩铁可作为模板材料，与内置压缩铁一同使用）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

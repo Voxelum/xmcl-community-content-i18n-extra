@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d6eb09476eec444d",
+  "content": "\n\n# 關於\n\n此為「True Ending」的可選附加模組，為末影龍戰鬥新增了 Boss 音樂。除了戰鬥期間的背景音樂外，在擊敗龍時還會播放一首特殊的原創曲目。為了讓這首曲子能清晰聽見，已調低末影龍死亡音效的音量。\n\n**注意：** 必須搭配「True Ending」數據包才能使用。\n\n下載 True Ending：[https://modrinth.com/datapack/true-ending](https://modrinth.com/datapack/true-ending)\n\n\n[![](https://cdn.modrinth.com/data/cached_images/786152d241197a57a71a6232fd9425af3f63cb7f_0.webp)](https://www.youtube.com/watch?v=C2IA06OI17E)\n\n# 技術變更\n\n新增以下音效\n- `true_ending:music.dragon`\n- `true_ending:music.dragon_defeat`\n- `minecraft:music.dragon_ambience`\n\n降低以下音效的音量\n- `minecraft:music.dragon` -> 降低 50%\n- `minecraft:entity.ender_dragon.death` -> 降低 50%",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

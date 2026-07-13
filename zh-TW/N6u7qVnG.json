@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b41b81d278ddb109",
+  "content": "\n\n專為 Forge Mod Loader 打造的 [CIT Resewn](https://modrinth.com/mod/cit-resewn) 分支版本。此為獨立實作的 MCPatcher CIT 功能（最常見於 OptiFine）。\n\n> 並非所有人都必須使用 OptiFine\n\n### 問題\n請務必注意，使用此模組時**切勿**直接向 CIT Resewn 回報問題。請先將問題回報至我的 GitHub 儲存庫，我會再評估是否需向上游專案回報。\n\n### 關於 X 版本？\n除非該版本已列入 GitHub README 的計畫支援清單，否則極大機率不會獲得支援。\n\n### 關於 X 載入器？\n雖然在對應版本上可能提供 NeoForge 支援，但其他載入器絕對無法支援。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

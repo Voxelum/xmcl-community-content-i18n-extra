@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4047bbd6f2f4679e",
+  "content": "\n\nЭтот мод является дополнением к модам GameStage и Appleskin.\n\nВы сможете управлять оверлеем мода Appleskin с помощью скриптов CraftTweaker. \n\nДо разблокировки стадии полоска голода и полоска здоровья останутся ванильными.\n\nПосле разблокировки все всплывающие подсказки и информация от мода Appleskin станут видимыми.\n\nЗависимости:\n\n\n[Appleskin](https://modrinth.com/mod/appleskin/) от squeek502\n[CraftTweaker](https://modrinth.com/mod/crafttweaker/) от Jareddlll08\n[GameStage](https://modrinth.com/mod/game-stages/) от DarkhaxDev\n\nПример script.zs для интеграции с CraftTweaker:\n\n\n```\nimport mods.appleskinstage.AppleskinStage;\n\nAppleskinStage.setStage(\"Demo_Stage\");\n```\n\nНе стесняйтесь использовать его в своих модпаках и задавать вопросы в комментариях. \n\nЛоготип от dxinxo",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

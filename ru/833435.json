@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c75caf34f8ed4ba1",
+  "content": "\n\n<h2><span style=\"font-size:36px\"><strong>ЗАЧАРОВАНИЯ ОТ ILMUSU</strong></span></h2><p>Этот мод добавляет <strong>дополнительные зачарования</strong> в Minecraft. Он также включает новую механику под названием <strong><span style=\"color:#c9f\"><strong>Демоническое зачарование</strong></span></strong>, которая делает процесс немного интереснее, не меняя игровой баланс слишком сильно (и может быть отключена через файл конфигурации). <br><br>Вся информация о механиках и зачарованиях доступна здесь: <span style=\"color:#f00\"><a style=\"color:#f00\" href=\"https://github.com/IlMusu/IlMusuEnchantmentsMod\" target=\"_blank\" rel=\"nofollow\">IlMusuEnchantments Wiki</a></span> <br><br>Основной файл конфигурации мода находится по адресу:<br><strong>  [minecraft_folder]/config/musuen/mod.properties</strong> <br><br>Можно отключить и изменить минимальный и максимальный уровни для каждого зачарования отдельно с помощью файла конфигурации, расположенного по следующему пути:<br><strong> [minecraft_folder]/config/musuen/enchantments.properties</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

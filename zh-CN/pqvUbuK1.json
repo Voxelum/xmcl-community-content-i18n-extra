@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5444dee75d0b1ba3",
+  "content": "\n\n# Craft Config Lib\n\n一个支持预设的客户端配置库，专为我的模组开发。如果你的项目需要，欢迎在模组中使用它。\n\n注意：此库仅适用于客户端模组。\n\n### 功能特性\n- **配置预设**\n  - 支持快速切换多种不同的配置\n  - 在特定世界或服务器自动应用预设\n- **内置按键绑定支持**\n  - 自动创建可绑定到按键的选项（仅限布尔值）\n- **自动注册配置**\n  - 自动注册配置界面，无需手动注册配置。\n \n\n## 展示\n### 主配置界面\n![main](https://cdn.modrinth.com/data/cached_images/9ef58bc4476109cd8cf100f9d33acd15f7c4dd3d_0.webp)\n\n\n### 预设编辑\n\n![preset](https://cdn.modrinth.com/data/cached_images/c6ca54bc070eceab3693a28286d42b466013665c.png)\n\n### 颜色选择器\n\n![color](https://cdn.modrinth.com/data/cached_images/d47af1224e84cada04708e9b24e54f8e750017bc.png)\n\n## 开发者指南\n\n### 安装设置\n将以下内容添加到仓库配置中\n```\nrepositories {\n    maven {\n        url = \"https://api.modrinth.com/maven\"\n    }\n}\n```\n\n然后在依赖中添加以下内容\n```\ndependencies {\n    implementation(\"maven.modrinth:craft-config:<version_name>\")\n}\n```\n\n请将 `<version_name>` 替换为合适的版本号。\n\n你可以在 [https://modrinth.com/mod/craft-config/versions](https://modrinth.com/mod/craft-config/versions) 查看版本列表。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1a86b9b17d273042",
+  "content": "\n\nЭто сборка модов с упором на Create (Механика), основной геймплей которой строится на использовании самого мода Create и его дополнений от других авторов.\n```\nCreate (Официальный сайт): https://createmod.net/\n```\n```\nОписание версий:\n  Каждый номер версии начинается с префикса v и заканчивается цифрами\n  Формат: v_._._\n  Первый \"_\" обозначает номер крупной версии, обычно подразумевает значительные изменения\n  Второй \"_\" обозначает номер промежуточной версии, в рамках которой вносятся небольшие корректировки\n  Третий \"_\" обозначает номер мелкой версии, содержащей исправления и стабильные обновления к текущей версии\n```\n\nНиже указаны ссылки на четыре обязательных мода:\n>CodeChickenLib-1.19.2-4.3.1.483-universal.jar : https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8\n\n>createbigcannons : https://www.curseforge.com/minecraft/mc-mods/create-big-cannons\n\n>mcw-bridges:https://www.curseforge.com/minecraft/mc-mods/macaws-bridges\n\n>aquaculture:https://www.curseforge.com/minecraft/mc-mods/aquaculture\n\n  Кроме того, некоторые моды не были включены в сборку из-за ограничений платформы CurseForge, их потребуется установить самостоятельно. В связи с этим некоторые версии сборки также были удалены.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

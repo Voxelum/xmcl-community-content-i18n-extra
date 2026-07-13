@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ccdec5eb8bbd937",
+  "content": "\n\n<p>模块运行后，将生成一个名为 skill_blacklist.json 的配置文件。您可以在该文件中修改需要禁用的技能，这样玩家将无法正常获取这些技能。但是，每次玩家进入游戏时，系统都会检查玩家是否拥有已禁用的技能，如果有的话，系统将自动将其移除。此举旨在防止玩家保留已禁用的技能。</p>\n<p>您可以通过以下命令将技能添加或移除出黑名单：</p>\n<p>将技能加入黑名单：<br><code>/skillblacklist add [skill_id]</code></p>\n<p>将技能从黑名单中移除：<br><code>/skillblacklist remove [skill_id]</code></p>\n<p>支持一键禁用特定模组的所有技能：<br><code>/</code><code>skillblacklis addmod</code><code> [mod_id]</code></p>\n<p>&nbsp;</p>\n<p><strong>如果您遇到任何问题，欢迎加入我们的 Discord 以获取帮助。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

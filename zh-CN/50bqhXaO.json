@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8a021ce0c02f67b6",
+  "content": "\n\n# 增强视觉着色器\n![极光](https://cdn.modrinth.com/data/cached_images/9158ab1cb6af51b279ade3198d570c23351a7554_0.webp)\n![天空](https://cdn.modrinth.com/data/cached_images/8e0a33a46401790bd403e5e5ba8b13478c7bc1d2_0.webp)\n![热浪扭曲](https://cdn.modrinth.com/data/cached_images/ee340f93f022bafebe0bd2831d381662898c04c6_0.webp)\n## 功能：\n1. 在屏幕中心周围显示生物和墙壁的轮廓，轮廓亮度随环境变暗而增加。 \n\n2. 在熔岩和其他热源上方添加热浪扭曲效果，以模拟现实中火焰上方的热浪现象。 \n\n3. 模糊屏幕两侧的物体，模糊强度随物体距离屏幕中心越远而增强。 \n\n4. 在水面上生成反射效果。 \n\n5. 为夜空添加极光和星星。 \n\n6. 优化天空的色彩渲染。 \n\n7. 添加基础的植被摆动效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

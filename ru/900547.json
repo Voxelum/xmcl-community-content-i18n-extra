@@ -1,0 +1,6 @@
+{
+  "bodyHash": "653e1dcd92f9937c",
+  "content": "\n\n<pre><code> Новые исправления ошибок: \n</code></pre>\n<p>Исправлен краш между Betweenland и Erebus при телепортации сущностей (не игроков) в эти измерения</p>\n<p>Исправлен краш при телепортации в измерение Midnight</p>\n<p>Должно исправить краш с модами Cubic Chunks и Hostile Invasions</p>\n<pre><code> Описание: \n</code></pre>\n<p>Tick Dynamic Continuation — это форк мода Tick Dynamic <a href=\"https://www.curseforge.com/minecraft/mc-mods/tick-dynamic\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/tick-dynamic</a>. Это CoreMod для Minecraft Forge, который стремится поддерживать показатель Ticks Per Second (TPS) сервера на уровне 20. Это достигается за счёт индивидуального контроля количества обновляемых сущностей (Entities) и блоков-сущностей (TileEntities) каждый тик. По мере снижения TPS сервера, количество обновляемых за тик сущностей и блоков-сущностей также уменьшается, что позволяет поддерживать высокий TPS.</p>\n<p>Примечание: на данный момент мод не совместим с SpongeForge.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

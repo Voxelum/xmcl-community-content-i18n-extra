@@ -1,6 +1,6 @@
 {
-  "bodyHash": "AfRMBWGijrg=",
-  "content": "# Create Aeronautics Bundled [RU]\n\nРусский ресурспак с переводом для **Create Aeronautics** под **Minecraft 1.21.1**.\n\nПак включает перевод для:\n\n- **Aeronautics**\n- **Offroad**\n- **Simulated**\n\n## Особенности\n\n- Перевод приведён к терминологии и стилю официальной русской локализации **Create**.\n- Исправлены строки интерфейса, подсказки, Ponder-сцены и часть контекстных формулировок.\n- Это отдельный ресурспак: он не заменяет файлы мода и включается через меню ресурсов Minecraft.\n\n## Установка\n\n1. Установите **Create**, **Create Aeronautics Bundled** и их зависимости.\n2. Скачайте архив ресурспака.\n3. Поместите ZIP в папку `resourcepacks`.\n4. Включите пак в меню ресурсов Minecraft.\n\n## Благодарности\n\n- **simibubi / Create Team** за Create\n- **Simulated Team** за Create Aeronautics Bundled\n- Официальной русской локализации **Create** за терминологическую основу\n\nЭтот перевод является неофициальным фанатским проектом и не аффилирован с авторами оригинальных модов.",
+  "bodyHash": "312ae1746abde9d7",
+  "content": "\n\n# Create Aeronautics Bundled [RU]\n\n适用于 **Minecraft 1.21.1** 的 **Create Aeronautics** 模组中文翻译资源包。\n\n本资源包涵盖以下内容的翻译：\n\n- **Aeronautics**\n- **Offroad**\n- **Simulated**\n\n## 特性说明\n\n- 译文已对齐 **Create** 官方中文版的术语与行文风格。\n- 修正了界面文本、提示、Ponder 场景及部分上下文表述。\n- 此为独立资源包：不会替换模组文件，需通过 Minecraft 资源包菜单启用。\n\n## 安装指南\n\n1. 安装 **Create**、**Create Aeronautics Bundled** 及其依赖项。\n2. 下载本资源包压缩包。\n3. 将 ZIP 文件放入 `resourcepacks` 文件夹。\n4. 在 Minecraft 资源包菜单中启用该资源包。\n\n## 鸣谢\n\n- **simibubi / Create Team** 提供 Create 基础支持\n- **Simulated Team** 提供 Create Aeronautics Bundled 基础支持\n- **Create** 官方中文版 提供术语参考基础\n\n本翻译为粉丝非官方项目，与原模组作者无隶属关系。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

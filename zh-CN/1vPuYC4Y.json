@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a771245dfb28304d",
+  "content": "\n\n## 描述\n对箭矢的瞄准效果进行小幅调整。\n\n## 使用方法\n默认情况下，所有箭矢都会自动追踪实体。若要防止箭矢瞄准你，请使用以下命令：\n\n```\n/function auto_aiming:cheat\n```\n若要恢复默认设置，请使用以下命令：\n\n```\n/function auto_aiming:no_cheat\n```\n\n## 依赖项\n- Fabric Loader 需要 [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

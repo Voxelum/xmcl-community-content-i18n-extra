@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WofBJ97Y/uU=",
-  "content": "# 絎縫布料 API（QFAPI）與絎縫標準庫（QSL）\n\n絎縫生態系的必備標準函式庫。QSL 為模組開發者提供絎縫專屬工具，讓他們能在模組中增添嶄新且引人入勝的功能；而絎縫布料 API 則確保與使用布料 API 的 Fabric 模組相容。\n\n**此專案需要絎縫載入器！**\n\n## 絎縫專案\n\n絎縫專案是一個開放原始碼、由社群驅動的模組開發工具鏈，主要針對 Minecraft 設計。透過專注於速度、易用性與模組化，絎縫旨在提供一套簡潔現代且具備開放生態系的模組開發工具鏈。\n\n進一步了解絎縫，請參考[我們的網站](https://quiltmc.org)。\n\n## 備註\n\n**絎縫目前仍在開發階段，屬於測試版。** 這表示可能會有問題發生，但我們會盡快修復。\n\n絎縫布料 API 不支援大多數布料 API 的「實作細節」。使用實作細節的模組可能在 Fabric 上運作正常，但在絎縫上則無法使用。",
+  "bodyHash": "8c9516a59e2976e5",
+  "content": "\n\n# Quilted Fabric API (QFAPI) 與 Quilt Standard Libraries (QSL)\n\nQuilt 生態系不可或缺的標準函式庫。QSL 為模組開發者提供僅限 Quilt 的工具，讓您的模組能加入全新且令人興奮的功能；而 Quilted Fabric API 則能與使用 Fabric API 的 Fabric 模組保持相容。\n\n**本專案需要 Quilt Loader！**\n\n## Quilt 計畫\n\nQuilt 計畫是一個開源、由社群驅動的模組開發工具鏈，主要針對 Minecraft 設計。透過專注於速度、易用性與模組化，Quilt 致力於提供一套簡潔且現代化的模組開發工具鏈，並擁抱開放的生態系。\n\n前往 [我們的網站](https://quiltmc.org) 了解更多關於 Quilt 的資訊。\n\n## 注意事項\n\n**Quilt 目前仍在開發階段，屬於 Beta 版本。** 這意味著可能會出現問題，但我們會盡最大努力盡快修復它們。\n\nQuilted Fabric API 並不支援大部分 Fabric API 的「實作細節」。使用實作細節的模組或許能在 Fabric 上運作，但在 Quilt 上將無法使用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

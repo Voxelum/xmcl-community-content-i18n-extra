@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3db217df58362868",
+  "content": "\n\n# LT-Rynek - Minecraft 模組\n\n## 📌 描述\n**LT-Market** 是一款愛好者開發的模組，旨在簡化各個 Minecraft 伺服器上的市場交易操作。它允許快速管理交易檔案、新增與移除物品，以及瀏覽可用報價。如果您使用本模組並希望表達感謝，歡迎分享是誰啟發了您！❤️\n\n## ✨ 功能特色\n- 建立與管理市場檔案的功能。\n- 可為檔案中的物品設定最高售價。\n- 從檔案中移除物品。\n- 顯示指定檔案中的物品清單。\n- 提供便捷的指令以簡化市場操作。\n- 自動生成使用者檔案的設定檔。\n- 可建立統計市場物品數量的清單。\n- 分析掛售於市場的物品。\n- 向使用者回報指定物品在市場上的最低/最高/平均/中位數/Q1/Q1 價格與數量。\n- 當出現低於設定價格的報價時，會播放音效通知。\n\n## 📜 指令\n- `/ltr` - 顯示模組資訊與當前啟用之檔案。\n- `/ltr profiles` - 顯示可用的檔案清單。\n- `/ltr add <maxPrice> <item>` - 將物品新增至當前檔案。\n- `/ltr remove <item>` - 從檔案中移除物品。\n- `/ltr list` - 顯示當前檔案中的物品。\n- `/ltr help` - 列出所有可用指令。\n- `/ltr config save` - 儲存設定檔。\n- `/ltr config reload` - 重新載入設定資料。\n\n## 🛠 設定檔\n首次啟動時，模組會自動生成設定檔：\n\n```\n%appdata%/.minecraft/config/ltrynek-profiles.json\n```\n您可在此檔案中手動編輯檔案及其內容。\n\n## 👥 作者\n- **LordTricker** - 主要開發者\n- **Mr. GPT** - 技術支援 🤖\n\n🎉 **感謝您使用 LT-Market！**\n\n---\n\n_“請大家取用並使用吧——因為這是我為你們所完成的工作。” ~LordTricker_\n\n---",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

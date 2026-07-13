@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e42b1082cb9d6e72",
+  "content": "\n\n此模組為 Auto Attack 的 1.20.1 移植版本。原始作者已將其實現開源，並採用 Unlicense 授權協議發布。\n\n安裝本模組後，按住攻擊鍵即可自動揮舞武器。每次揮擊都會在攻擊冷卻結束時立即觸發，確保每次都能造成最高傷害。\n\n本模組會盡量避免自動攻擊寵物。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

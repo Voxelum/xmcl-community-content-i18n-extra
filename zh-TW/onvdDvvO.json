@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd379bb79ded5991",
+  "content": "\n\n更大的礦脈：地獄版會增加下界金礦與石英礦脈的尺寸，同時降低其生成頻率。它也會略微提高古代殘骸的生成量，使其更容易取得，但不會過於簡單。\n\n### 注意事項\n這是一個世界生成資料包。世界生成資料包在世界建立階段加入時效果最佳。你仍然可以在世界生成後將其加入，但需要生成新的區塊才能看到效果。\n\n## 修改此資料包\n### 請確保下載此專案的 <u>資料包</u> 版本。\n\n若要修改礦石的尺寸，請前往 `data/minecraft/worldgen/configured_feature` 並更改所需 JSON 檔案中的 `size` 數值（最大尺寸為 64）。\n\n若要修改礦石的稀有度，請前往 `data/minecraft/worldgen/placed_feature` 並編輯所需 JSON 檔案中的 `count` 數值。\n（注意，部分檔案目前使用 `rarity_filter` 而非 `count`，這將在即將推出的更新中進行調整）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

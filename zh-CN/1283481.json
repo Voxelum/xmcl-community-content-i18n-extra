@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ab042fe06e682bd",
+  "content": "\n\n<p style=\"text-align:left\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_e7d3bc70-44f8-4bca-935b-f5aabbf8ffe2.png\" alt=\"\" width=\"128\" height=\"128\">&nbsp;</p>\n<h1><strong>Schematic Energistics</strong></h1>\n<p>添加“加农炮接口”方块，可将Create的“蓝图加农炮”连接到AE2网络及其自动合成系统。</p>\n<p>&nbsp;</p>\n<p><strong>如需官方精炼存储（Refined Storage）移植版，请查看<a href=\"https://www.curseforge.com/minecraft/mc-mods/refined-schematics\" target=\"_blank\" rel=\"nofollow\">精炼蓝图</a>！</strong></p>\n<p>&nbsp;</p>\n<h2><strong>功能特性</strong></h2>\n<ul>\n<li>自动从AE2存储中提取所需物品</li>\n<li>需要时可自动合成蓝图物品</li>\n<li>自动补充火药</li>\n<li>支持Neoforge 1.21.1与Forge 1.20.1</li>\n<li>兼容Create 0.5.1及Create 6</li>\n</ul>\n<p>&nbsp;</p>\n<h2><strong>使用方法</strong></h2>\n<p>将加农炮接口放置在蓝图加农炮旁边，并将其连接到AE2网络。蓝图加农炮一次仅能检测到一个加农炮接口。</p>\n<p>在从AE2网络请求物品前，蓝图加农炮会优先使用其他容器（如箱子、木桶等）中的物品。</p>\n<p>&nbsp;</p>\n<h2><strong>致谢</strong></h2>\n<p><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" target=\"_blank\" rel=\"nofollow\">机械动力 (Create)</a></strong></p>\n<p><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" target=\"_blank\" rel=\"nofollow\">应用能源2 (Applied Energistics 2)</a></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "EtSQMf2X3pY=",
-  "content": "# LibX\n\nLibX 是一個函式庫模組，包含了許多其他模組會用到的程式碼。\n\n對於玩家而言，它也提供了一些實用的指令，可透過 `/libx <名稱>` 來使用。\n\n如果你想在自己的模組中使用 LibX，請參考 [GitHub 頁面](https://github.com/ModdingX/LibX#libx)。\n\n**強烈建議盡可能使用標記為正式版的版本來進行遊戲。**",
+  "bodyHash": "1996c49b99464864",
+  "content": "\n\n# LibX\n\nLibX 是一款函式庫模組，內建大量供其他模組調用的程式碼。\n\n對玩家來說，它也提供了一些實用指令，可透過 `/libx <名稱>` 呼叫。\n\n若您想在自己的模組中使用 LibX，請參考 [GitHub 頁面](https://github.com/ModdingX/LibX#libx)。\n\n**強烈建議在遊玩遊戲時，盡可能使用標示為 Release 的版本。**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

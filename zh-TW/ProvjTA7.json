@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4f60873709eb321d",
+  "content": "\n\n# Mechanicals Lib\n適用於 NeoForge 模組開發的函式庫。主要用於（但不限於）Create 模組的擴充套件開發。\n\n## [專屬維基](https://wiki.mechanicalmods.net/mods/mechanicals-lib/)\n\n## 新增為依賴項\n- `build.gradle` 儲存庫：\n```\n    maven {\n        url \"https://maven.fosil.eu/releases\"\n    }\n```\n\n- `build.gradle` 依賴項：\n```\njarJar(implementation(\"com.oierbravo.mechanicals:Mechanicals:${minecraft_version}-${mechanicals_version}\"))\n```\n\n- `gradle.properties` 變數：\n```\nminecraft_version=1.21.1\nmechanicals_version=4.28 #Use always latest.\n```\n\n## 授權條款\n- Mechanicals Lib 採用 LGPL3 授權條款。更多資訊請參見 [LICENSE](LICENSE)。\n- 部分程式碼源自 Create 模組，該模組採用 MIT 授權條款。更多資訊請參閱 Create 的授權文件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

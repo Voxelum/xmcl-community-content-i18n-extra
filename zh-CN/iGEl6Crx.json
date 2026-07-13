@@ -1,0 +1,6 @@
+{
+  "bodyHash": "86c3fbd746a0aa71",
+  "content": "\n\n# Biolith\n\nBiolith 是一款专注于可配置性及模组生物群系一致、沉浸式分布的生物群系放置与世界地表生成服务端库模组。目前支持 Fabric、Forge、NeoForge 和 Quilt 加载器。你可以通过尝试以下 Terraformers 生物群系模组来体验 Biolith 的实际效果：\n\n* [Cinderscapes](https://modrinth.com/mod/cinderscapes)\n* [Terrestria](https://modrinth.com/mod/terrestria)\n* [Traverse](https://modrinth.com/mod/traverse)\n\n## 现有功能概览\n\n截至目前，除了我已实现但忘记在此更新的任何新功能外，目前包含以下功能：\n\n* 从 v1.2.0-alpha.1 版本开始，Biolith 支持所有四大模组加载器！\n* 从 v2.0.0-alpha.1 版本开始，可通过数据包添加生物群系放置与地表规则。\n* 在指定的噪声点放置主世界、下界或末地的生物群系。\n* 从所有噪声点移除原版/数据包的主世界、下界或末地生物群系。\n* 完全或部分替换主世界、下界或末地的生物群系。\n* 为主世界、下界、末地或模组生物群系添加子生物群系。\n  * （末地生物群系放置使用自定义噪声，仅在 1.20+ 版本可用。）\n\n<p/>\n\n* 注册自定义地表规则。\n* 使用自定义地表构建器覆盖原版地表。\n\n<p/>\n\n* 完全兼容 TerraBlender 和 Fabric 生物群系 API 的生物群系。\n* 部分兼容 BClib（生物群系放置将由 BClib 修改）。\n* 在 1.2.0-beta.1 版本中，可在 Modern Beta 世界中放置生物群系（适用于 1.20.4 - 1.20.6）。\n* 自 3.0.3 版本起，可在 Moderner Beta 世界中放置生物群系（适用于 1.21+）。\n* 自 3.0.5 版本起，自动防止特性顺序循环导致的崩溃。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

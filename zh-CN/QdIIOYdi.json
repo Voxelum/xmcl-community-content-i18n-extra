@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WZzOlOmQnXg=",
-  "content": "# 你好呀\n\n这个小型资源包为每种染色玻璃块和玻璃板添加了自定义纹理。玻璃板的侧面会渲染得更加突出，使其边框更明显。透明玻璃块和玻璃板会连接纹理，因为本包包含了Continuity的对应连接纹理内置资源包，同时也兼容OptiFine。\n\n快速浏览视频（从6分43秒到7分43秒）：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/QVHNhv8FHGo\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n如需更直观的展示，请查看图库。\n\n### 我制作了该资源包的多个版本：\n\n[边框玻璃块](https://modrinth.com/resourcepack/framed-glass-blocks)：仅所有染色玻璃块使用边框纹理（普通玻璃和遮光玻璃除外）  \n[边框玻璃板](https://modrinth.com/resourcepack/framed-glass-panes)：仅染色玻璃板有边框。\n\n### 鸣谢\n\n如果你有任何反馈，欢迎加入我的Discord并告诉我。  \n也别忘了在我的Modrinth主页上查看我的其他资源包哦 :D",
+  "bodyHash": "add44b29c653b7b6",
+  "content": "\n\n# 你好呀\n这个小资源包为每种彩色玻璃方块和玻璃板添加了自定义纹理。玻璃板会渲染侧面，使边框更加醒目。透明玻璃方块和玻璃板的纹理会自动连接，因为本资源包内置了 Continuity 的连通纹理支持，同时也完美兼容 OptiFine。\n\n你可以在这段视频的 6:43 到 7:43 处快速预览效果：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/QVHNhv8FHGo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n欢迎浏览画廊以获取更详细的展示。\n\n### 我提供了不同版本的资源包：\n\n[带框玻璃方块](https://modrinth.com/resourcepack/framed-glass-blocks)：仅所有彩色玻璃方块使用边框纹理（普通玻璃和着色玻璃除外）  \n[带框玻璃板](https://modrinth.com/resourcepack/framed-glass-panes)：仅更改彩色玻璃板。\n\n### 反馈与致谢\n如果您有任何反馈，欢迎加入我的 Discord 告诉我。\n也别忘了在我的 Modrinth 主页看看其他资源包哦 :D",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "890144c520037a5e",
+  "content": "\n\n<p>原版模组请<a href=\"https://legacy.curseforge.com/minecraft/mc-mods/connector-extras\" target=\"_blank\" rel=\"nofollow\">在此查看</a></p>\n<p>此为 Connector Extras 的分支版本，旨在修复与 Valkrien Skies 2 及其他可能包含该依赖的模组之间的 REA（reach_entity_attributes）mixin 冲突。</p>\n<p>若您未遇到此冲突，请使用原版！已针对 Connector 1.0.0 beta 46 完成测试。</p>\n<p>&nbsp;</p>\n<h2>许可证（源自原版项目，同样适用于本项目）</h2>\n<p>Connector Extras 采用 MIT 许可证授权。</p>\n<p><del>它捆绑了 Reach Entity Attributes 的 Forge 移植版，该部分采用 MIT 许可证授权。</del></p>\n<p><em><span style=\"color:#f1c40f\">^大概吧？^</span></em></p>\n<p>其 REI Bridge 模块包含了 REI Fabric 的部分代码，采用<br>MIT 许可证授权。<br>其 EMI Bridge 模块包含了 EMI Fabric 的部分代码，采用&nbsp;<a href=\"https://github.com/emilyploszaj/emi/blob/deef228b4a35cbcccd2e48e645118ed333a26013/LICENSE\" target=\"_blank\" rel=\"nofollow\">MIT 许可证</a>授权。<br>此外还包含了&nbsp;<a href=\"https://github.com/Fuzss/forgeconfigapiport/tree/8dbbc0d49afb46928a1dfc0c7f828af06da1638d/Fabric/src/main/java/fuzs/forgeconfigapiport/api/config/v2\" rel=\"nofollow\">Forge Config API Port API</a>，采用&nbsp;<a href=\"https://github.com/Fuzss/forgeconfigapiport/blob/8dbbc0d49afb46928a1dfc0c7f828af06da1638d/LICENSE.md\" rel=\"nofollow\">MPL-2.0 许可证</a>授权。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac42fc4cb44dc3ac",
+  "content": "\n\n此模組為 Mekanism 與 Modular Routers 之間新增了相容性功能。\n\n目前支援的功能包含透過「化學升級」以及「化學 Mk1」與「化學 Mk2」模組進行化學（氣體）傳輸。這些模組的運作方式與內建的流體模組類似，只是……傳輸的是化學物質。\n\n要讓化學傳輸功能正常運作，路由器的緩衝區內必須放置能儲存化學物質的物品（例如化學槽）。注意：預設情況下，您無法使用化學模組傳輸放射性化學物質。即便您在設定檔中變更此選項，也請務必注意：化學槽及其他內建的 Mekanism 物品化學容器皆無法儲存放射性物質，因此不可將它們用作緩衝區。\n\n**化學補充模組**：可將化學物質從路由器的緩衝區傳輸至玩家的物品欄（裝備槽、主手或副手）。可用於無線且跨維度為噴氣背包或水壺補充化學物質。\n\n![Tank as buffer](https://cdn.modrinth.com/data/cached_images/861dbfb02783cad7569a02fe384eb0f26f8f5b22.png)\n![Configuration UI](https://cdn.modrinth.com/data/cached_images/e2fc6c58b03b4549a2b211dad4cf211096a84e14.png)\n![Transfer dir](https://cdn.modrinth.com/data/cached_images/ef2acdc072579d9f2cb3145b9fb31101fc6b858f.png)\n![Mod Items](https://cdn.modrinth.com/data/cached_images/f81f753610c32ab6a81c2565105a7bdfa35750ed.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "91e0f9d27a9b1786",
+  "content": "\n\n<div align=\"center\">\n  <h1>卓越駿馬</h1>\n  <a href=\"https://modrinth.com/mod/strawberrylib\"><img src=\"https://github.com/ContentSMP/Badges/raw/refs/heads/main/strawberrylib/cozy_vector.svg\"></a>\n  <a href=\"https://discord.gg/Am6M8VQ\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/social/discord-singular_vector.svg\"></a>\n  <a href=\"https://ko-fi.com/moriyashiine\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/donate/kofi-singular_vector.svg\"></a>\n  <h3>卓越駿馬旨在減少騎乘馬匹的枯燥感，並大幅提升其實用性！</h3>\n</div>\n\n本模組提供以下功能：\n```\n* 馬匹繁殖後不再擁有固定的數值，而是每匹馬的速度與跳躍力都會有 1-5 的強度評級。此資訊會顯示在馬匹物品欄介面的擴充區塊中。\n* 只需騎著裝備了鞍的馬匹，這些數值就會隨著時間推移而逐漸提升。\n* 現在無需裝備鞍即可控制馬匹，但這不會計入訓練進度。\n* 裝備鞍可防止馬匹突然驚跳甩背。\n* 騎乘時低頭並使用食物（乾草捆除外）對馬互動，即可餵食馬匹。\n* 所有馬匹的生命值統一為 15 顆心（而非隨機數值）。\n* 皮革馬铠允許馬匹安全地行走在粉末雪上。\n* 骷髏馬不再受到靈魂沙的減速效果影響。\n* 牽引羊駝行走進行訓練，可增加其物品欄容量。\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

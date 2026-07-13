@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e2d4a925fc4410e1",
+  "content": "\n\n## **什麼是 FastPBR 光影包？**\n這是一款高效的光影包，仍能提供高畫質視覺效果，並採用 PBR 大氣效果，因此得名。\n\n**PBR 並不代表支援鏡面反射，請勿將兩者混淆，儘管這在光影包社群中是常見的誤解。**\n\n## **我可以在哪裡下載？**\n可在此處或透過我的網站（連結見下方）下載。\n\n## **它提供哪些功能？**\n* 動態柔和陰影\n* 採用 HBIL 的螢幕空間間接光照（可選）\n* 時序抗鋸齒與畫面放大技術（TAAU）\n* 包含體積雲的程序化寫實天空盒\n* 體積霧\n* 多種可選鏡頭特效，如景深、鏡頭光暈與暗角\n* **自 v2.0 起支援 Distant Horizons**\n\n## **有系統需求嗎？**\n* **Iris 1.6.0 或更新版本**\n* **不支援 OptiFine，除非它能跟上 Iris 更先進的功能集**\n* 需具備支援 OpenGL 4.3 或更高版本的顯示卡\n* Windows / Linux 系統\n\n## **外部連結：**\n* 我的網站：[連結](https://rre36.com)\n* 我的 Discord 伺服器：[連結](https://discord.gg/y5xzQ6H)\n\n[![成為 Patron 贊助者](https://rre36.com/wp-content/uploads/2023/05/Patreon_ForEmbed.png)](https://www.patreon.com/bePatron?u=19790203)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

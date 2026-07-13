@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9e5e9a16d3e9360c",
+  "content": "\n\n# Create Ponder\n\nPonder 功能已从 Create 中分离。\n\nPonder 是内置于游戏的 Create 教程，提供流畅的动画效果（实际机制为在 Ponder 界面中加载结构并进行模拟）。在背包中选择带有 Ponder 场景的物品并长按 [W] 键即可打开。\n\n此举旨在让整合包制作者能够直接使用 Ponder 功能，而无需引入完整的 Create。\n\n本模组与 Create 不兼容，且现已内置 `Ponder for KubeJS`。\n\n注意：本模组仅提供 Ponder 功能。因此，若您想要体验完整的 Create，请下载 [Create](https://modrinth.com/mod/create) 和 [Ponder for KubeJS](https://modrinth.com/mod/ponder)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

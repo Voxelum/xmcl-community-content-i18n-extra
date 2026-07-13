@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Z78d+qnIwlQ=",
-  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/3veNs2B6VXo\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n- 附加村民無法參與任何農場工作\n- 附加村民無法拾取地面上的物品\n- 附加村民不會受到傷害，且殭屍不會攻擊\n\n> 設定村民可販售的最大物品數量（僅在開始時設定）\n- /scoreboard players set maxstok varilshop-genel \"#\"\n- \"#\"：村民可販售的最大物品數量（1-27）",
+  "bodyHash": "54b7353a13ee3e97",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/3veNs2B6VXo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n\n- Addition 的村民無法參與任何農場作業\n- Addition 的村民無法撿起地上的物品\n- Addition 的村民不會受到傷害，且殭屍不會攻擊他們\n\n> 設定村民最多可出售的物品數量（僅於初始時設定）\n- /scoreboard players set maxstok varilshop-genel \"#\"\n- 「#」：村民最多可出售的物品數量（1-27）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

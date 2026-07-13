@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c1a6a8f5698cb88",
+  "content": "\n\nЭтот мод добавляет конвертеры ЭЭ для LV, MV и HV\n\nКонвертер принимает энергию Forge со стороны входа и передаёт ЭЭ в соседние машины IC2C, трансформаторы и аккумуляторные блоки.\n\nНастраиваемый коэффициент конвертации, по умолчанию 4 FE за 1 ЭЭ.\n\n\n[![Время спонсора](https://jonn.dk/akliz_banner_productivebees.png)](https://www.akliz.net/lobstermods)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

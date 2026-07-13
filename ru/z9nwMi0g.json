@@ -1,6 +1,6 @@
 {
-  "bodyHash": "SVRqPQrkmVA=",
-  "content": "![лучший сон на сервере](https://cdn.modrinth.com/data/cached_images/eb56d6a05ddee9b8dd8f70a40d66d5efcb4bbd7e.png)\n\n\nЭтот датапак/мод упрощает сон в многопользовательской игре, так как для пропуска ночи достаточно, чтобы спал только один игрок!\n\nАльтернативно вы можете использовать команду «/gamerule playersSleepingPercentage 1», чтобы добиться того же самого, но знаете ли, этот датапак даёт небольшое уведомление при перезагрузке, так что он круче!",
+  "bodyHash": "eb37e2f9f9bac7d7",
+  "content": "\n\n![better server sleep](https://cdn.modrinth.com/data/cached_images/eb56d6a05ddee9b8dd8f70a40d66d5efcb4bbd7e.png)\n\n\nЭтот датапак/мод упрощает сон в мультиплеере: для пропуска ночи достаточно, чтобы поспал всего один игрок!\n\nВ качестве альтернативы можно использовать команду `/gamerule playersSleepingPercentage 1`, чтобы добиться того же эффекта. Но, знаете ли, этот датапак показывает небольшое уведомление при перезагрузке, так что он выглядит круче!",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

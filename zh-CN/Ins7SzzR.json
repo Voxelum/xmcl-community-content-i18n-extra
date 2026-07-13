@@ -1,6 +1,6 @@
 {
-  "bodyHash": "uVSNK3e0FoQ=",
-  "content": "[![](https://violetmoon.org/branding/vm0.png)](https://violetmoon.org)[![](https://violetmoon.org/branding/vm1.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/vm2.png)](https://twitter.com/vazkiimods)[![](https://violetmoon.org/branding/vm3.png)](https://discord.gg/vm)\n![](https://violetmoon.org/branding/hero/neat.png)\n\n# 关于本模组\n\nNeat 是一个为每个实体上方添加单位框架的模组，如上图所示。你可以看到名称、生命值和护甲等信息。是的，这个名称是对 Tidy Plates 的双关。\n\n---\n\n# 特性\n\n- 完全客户端运行\n- 仅在怪物不被遮挡时显示血条\n- 血条颜色会根据怪物生命百分比变化（绿→黄→红）\n- 显示怪物的属性（针对亡灵杀手或节肢杀手附魔）及其护甲\n- 对堆叠的生物（如蜘蛛鸡骑士）合并显示血条\n- 兼容 Minecraft 的计分板队伍系统。队伍中的生物和玩家将显示彩色名称\n- 高度可配置\n- 提供快捷键切换血条显示\n\n---\n\n![](https://violetmoon.org/branding/support.png)\n[![](https://violetmoon.org/branding/patreon.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/store.png)](https://store.vazkii.net)\n[![](https://violetmoon.org/branding/ch.png)](https://violetmoon.org/creeperhost)",
+  "bodyHash": "4769b294636aecce",
+  "content": "[![](https://violetmoon.org/branding/vm0.png)](https://violetmoon.org)[![](https://violetmoon.org/branding/vm1.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/vm2.png)](https://twitter.com/vazkiimods)[![](https://violetmoon.org/branding/vm3.png)](https://discord.gg/vm)\n![](https://violetmoon.org/branding/hero/neat.png)\n\n# 关于\n\nNeat 是一个为每个实体顶部添加单位帧的模组，如上图所示。你可以看到名称、生命值和护甲等详细信息。是的，这个名字是“整洁板甲”（Tidy Plates）的一个双关语。\n\n---\n\n# 功能\n\n- 完全在客户端运行\n- 仅当生物未被遮挡时显示血条\n- 血条颜色会根据生物的生命值百分比变化（绿色到黄色再到红色）\n- 显示生物的属性（例如对亡灵的伤害或节肢杀手）及其护甲值\n- 将堆叠生物的血条合并显示（例如蜘蛛骑士或鸡骑士）\n- 兼容 Minecraft 的记分板队伍系统。队伍中的生物和玩家会显示带颜色的名字。\n- 高度可配置\n- 提供按键以切换血条的显示",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

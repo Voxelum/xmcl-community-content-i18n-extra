@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9fc779adf4712148",
+  "content": "\n\n![标题Logo](https://raw.githubusercontent.com/Zemelua/UMU-Backpack/main/material/title.png)\n\n# 这是什么？\nUMU背包是一款简单的模组，添加了背包与若干附魔。\n\n# 关于背包\n制作背包需要4张皮革、2张兔皮、1个金锭和1个潜影壳。\n\n![背包合成表](https://raw.githubusercontent.com/Zemelua/UMU-Backpack/main/material/recipe.png)\n\n背包还可以通过与染料合成来进行染色。\n\n装备背包后，按下B键即可打开背包界面。此外，若背包内装有物品，则无法卸下背包。\n\n# 附魔\n### 扩容\n普通背包界面仅有9个格子，但附魔“扩容”后可增至54个格子。\n\n### 背部保护\n当玩家装备带有此附魔的背包时，可减少受到的背后伤害。最高等级为4级，且与其他抗性类附魔不冲突。\n\n### 装载\n附魔“装载”后，背包不再因内有物品而锁定界面，而是可用于运输小鸡或猫等小型动物。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

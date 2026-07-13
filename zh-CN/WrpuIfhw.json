@@ -1,0 +1,6 @@
+{
+  "bodyHash": "726f8e139bd3635d",
+  "content": "\n\n你好世界\n此模组为游戏添加了尸体。\n当你死亡时，它会在原地生成，并包含你背包中的所有物品。\n\n\n# 功能特性\n\n玩家死亡时，尸体会出现在该位置。\n尸体会应用你的玩家皮肤。\n它会保留你死亡时携带的所有物品。\n它可以容纳无限数量的物品。\n\n右键点击尸体即可访问其中的物品。\n\n当所有物品被取出后，尸体会消失。\n尸体不会掉入虚空，也不会被岩浆烧毁。\n它也能在岩浆或水等液体中漂浮。\n\n![](https://i.imgur.com/PbLRPZG.png)\n\n![](https://i.imgur.com/6x9lhS5.png)\n\n经过1小时后，尸体会变成骷髅，表示它已经存在了较长时间。\n这不会影响尸体的原有功能。\n\n![](https://i.imgur.com/tDPoSPD.png)\n\n转移物品时，所有物品都会自动放回原来的格子中。\n\n![](https://i.imgur.com/QaYgkb9.png)\n\n\n## 死亡记录\n\n按下“U”键即可查看你所有的历史死亡记录。\n如果你处于创造模式，可以取回丢失的物品。\n\n![](https://i.imgur.com/mg68xFT.png)\n\n\n## 查看其他玩家的死亡记录\n\n作为管理员（OP），输入 `/deathhistory <玩家>` 即可查看其他玩家的死亡记录。\n\n![](https://i.imgur.com/RzYuMFX.png)\n\n![](https://i.imgur.com/OaPMXl6.png)\n\n\n## 找回丢失的物品\n\n你可以在死亡记录界面中点击“Items”按钮来取回丢失的物品。\n注意：只有处于创造模式时才能取出物品。\n\n\n## 传送至死亡地点\n\n点击死亡记录界面中的“Location”区域，聊天栏会显示将你传送至死亡地点的命令。\n命令中包含了坐标和所在维度。\n\n![](https://i.imgur.com/EvRsWwp.png)\n\n![](https://i.imgur.com/e7xZeen.png)\n\n\n## 可选功能（配置选项）\n\n- 仅允许尸体所有者访问物品栏\n- 允许所有人访问处于骷髅阶段的尸体\n- 尸体为空时的消失延迟（刻）\n- 即使尸体满载也会消失的延迟时间（刻）\n- 尸体转变为骷髅的延迟时间（刻）\n- 尸体生成时是否面朝下",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

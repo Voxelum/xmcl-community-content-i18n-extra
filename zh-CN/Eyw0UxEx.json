@@ -1,0 +1,6 @@
+{
+  "bodyHash": "03db4e7b7e4f700c",
+  "content": "\n\n# The One Probe\n\nThe One Probe（简称 TOP）是 WAILA 的更具沉浸感的版本。你不会一直看到信息提示，只有在手持探针时才会显示（注意：此模组可配置为像 WAILA 一样始终显示信息）。\n\n**注意！** The One Probe ***不是*** 仅客户端模组！服务器端也必须安装！\n\n**注意！** 此模组可在 1.10.2 *和* 1.11.2 上使用同一个 JAR 文件，并需要 [CompatLayer](https://www.modrinth.com/mod/compatlayer)\n\n1.12 版本为独立版本，且 *不* 需要 CompatLayer。\n\n此模组的主要功能是：当你手持（或副手持有）探针时，在屏幕上显示你所注视方块的相关信息。模组本身会显示方块名称、所属模组以及采集该方块所需的工具等基本信息。此外，如果方块支持 RF（红石流体），它还会显示其中存储的 RF 能量值；如果你按住 Shift（潜行），对于容器类方块（如箱子），它还会列出其中包含的所有物品。\n\n此模组高度可配置，如果上述功能不符合你的游玩习惯或整合包需求，你可以将其全部禁用。\n\n# API\n本模组还提供了一套灵活的 API，供其他模组调用以添加更多自定义信息。Deep Resonance 将使用此模组来显示关于晶体和液体的信息。RFTools 也将支持此模组。API 文档请见 [此处](https://github.com/McJtyMods/TheOneProbe/tree/master/src/main/java/mcjty/theoneprobe/api)。\n\n更多详情请参阅 [Wiki](https://github.com/McJtyMods/TheOneProbe/wiki)。\n\n## 整合包\n你有权在任何整合包中使用此模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

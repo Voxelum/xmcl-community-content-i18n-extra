@@ -1,6 +1,6 @@
 {
-  "bodyHash": "SArmLZVcvys=",
-  "content": "## 特色功能 <br>\n顯示每次交易給予村民的經驗值 <br><br>\n顯示交易剩餘次數，直到交易被鎖定 <br><br>\n高亮顯示經驗值最多的交易（綠色） <br><br>\n顯示村民當前的經驗值 <br>\n\n此模組需要安裝 YetAnotherConfigLib（YACL）與 ModMenu 才能存取設定。\n\n![模組圖片，顯示村民經驗值、交易剩餘次數及每次交易的經驗值](https://cdn.modrinth.com/data/zg7MrtH6/images/ee52e249765e81bba0e9e0e6e25fe4f664b305e5.png)\n\n若遇到任何問題，請至 GitHub 頁面回報。",
+  "bodyHash": "a33baf533a0d85b9",
+  "content": "\n\n## 功能 <br>\n顯示每次交易給予村民的經驗值 <br><br>\n顯示交易停用前剩餘的交易次數 <br><br>\n以綠色高亮顯示經驗值最高的交易 <br><br>\n顯示村民目前的經驗值 <br>\n\n本模組需搭配 YetAnotherConfigLib (YACL) 與 ModMenu 方可進行設定。 \n\n![模組畫面，顯示村民經驗值、交易停用前剩餘次數及各項交易的經驗值](https://cdn.modrinth.com/data/zg7MrtH6/images/ee52e249765e81bba0e9e0e6e25fe4f664b305e5.png)\n\n若遇到任何問題，請前往 GitHub 頁面進行回報。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

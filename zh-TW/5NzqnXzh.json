@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2b789ff0f8ec5071",
+  "content": "\n\n<h1>船隻變身為獨木舟！</h1>\n\n<img src=\"https://cdn.modrinth.com/data/5NzqnXzh/images/96fe515f4002245c18b0e6b9aab6068e09934351.png\" alt=\"\">\n\n<p>此資源包將 Minecraft 的基礎船隻重新建模並更換紋理為獨木舟。</p>\n<h3>需要 OptiFine 或模組 ETF、ETM<br>\n版本 1.20.1+<br></h3>\n\n<h4>支援項目：</h4>\n<ul>\n  <li>船隻</li>\n  <li>儲物箱船</li>\n  <li>竹筏</li>\n  <li>儲物箱竹筏</li>\n</ul>\n\n<h2>使用教學</h2>\n<h3>由於 OptiFine 的更新與功能支援較不穩定，建議改用模組 EMF 與 ETF 替代</h3>\n\n<h4>若使用 OptiFine，請確保啟用以下設定以獲得完整功能：</h4>\n<p>影像設定 -> 品質 -> 自訂實體模型：開啟<br>\n隨機實體 -> 開啟<br>\n發光紋理 -> 開啟<br>\n\n為避免紋理錯誤，獨木舟船隻應置於資源包列表的最頂端。<br></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

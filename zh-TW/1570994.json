@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ba04bb73e741434",
+  "content": "\n\n<h1>模組功能與升級</h1>\n<h2>🛠️ 基礎升級</h2>\n<p><em>提升您背包核心功能的升級項目。</em></p>\n<h3>🌌 末影升級</h3>\n<p>即使將背包放入末影箱中，仍可使用快捷鍵開啟，且背包內的所有升級效果皆會持續生效。</p>\n<h3>🕳️ 超級虛空升級</h3>\n<p>提供比標準<em>進階虛空升級</em>多得多的過濾槽位。</p>\n<hr>\n<h2>🔗 模組整合</h2>\n<p><em>能將您的背包與其他精彩模組串連的特殊升級。（所需的依賴模組已列於括號中）。</em></p>\n<h3>💾 Refined Storage 整合</h3>\n<blockquote>\n  <p><strong>需要：</strong><code>Refined Storage</code></p>\n</blockquote>\n<ul>\n<li><strong>RS 網路磁鐵升級</strong><br>\n吸引掉落的物品並直接存入您的 RS 網路。包含一個 GUI 切換開關，用於允許或阻止虛空升級銷毀物品。</li>\n<li><strong>RS 網路拾取升級</strong><br>\n瞬間撿起掉落的物品並直接存入 RS 網路。</li>\n<li><strong>RS 排放升級</strong><br>\n功能與標準<em>排放升級</em>相同，但支援 RS 網路，允許將物品排放至網路內的任何儲存方塊中。</li>\n</ul>\n<h3>💧 Thirst Was Taken 整合</h3>\n<blockquote>\n  <p><strong>需要：</strong><code>Thirst Was Taken</code></p>\n</blockquote>\n<ul>\n<li><strong>飲用升級</strong><br>\n當玩家口渴值下降時，自動飲用飲料。</li>\n<li><strong>進階飲用升級</strong><br>\n具備基礎飲用升級的所有功能，但允許按水質純度等級過濾飲料。</li>\n</ul>\n<h3>⚡ Apotheosis 整合</h3>\n<blockquote>\n  <p><strong>需要：</strong><code>Apotheosis</code></p>\n</blockquote>\n<ul>\n<li><strong>藥水護符升級</strong><br>\n允許放置在此升級內的 Apotheosis 藥水護符發揮作用，如同位於玩家物品欄中一般。預設具備<strong>4 個槽位</strong>容量。</li>\n<li><strong>進階藥水護符升級</strong><br>\n功能與基礎藥水護符升級完全相同，但擴充了<strong>9 個槽位</strong>的容量。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

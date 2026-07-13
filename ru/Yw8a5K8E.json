@@ -1,6 +1,6 @@
 {
-  "bodyHash": "3cX8DOPbXT8=",
-  "content": "Добавляет бомбохранилище для ядерных бомб в самолёты Immersive Aircraft, использует ядерные бомбы из пещер Алекса.\n![Рецепт крафта](https://cdn.modrinth.com/data/cached_images/71ea57ab5cfe6274ef999d684a335368afed6a06.png)\n\n**ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ:**\n\nИз-за особенностей работы системы размещения оружия в Immersive Aircraft по умолчанию такие корабли, как Военный корабль, могут сбрасывать до 6 ядерных бомб одновременно; для этого был создан datapack, чтобы сбалансировать количество бомб, сбрасываемых каждым самолётом.\n[ССЫЛКА](https://modrinth.com/datapack/nuke-bay-balance-pack)",
+  "bodyHash": "dac0dc0fb606cb7e",
+  "content": "\n\nДобавляет ядерную бомбовую камеру в самолёты из Immersive Aircraft, использует ядерные бомбы из Alex's Caves.\n![Crafting Recipe](https://cdn.modrinth.com/data/cached_images/71ea57ab5cfe6274ef999d684a335368afed6a06.png)\n\n**ПРЕДУПРЕЖДЕНИЕ:**\n\nИз-за особенностей системы размещения оружия в Immersive Aircraft, по умолчанию такие корабли, как Warship, могут сбрасывать до 6 ядерных бомб одновременно. Для балансировки количества сбрасываемых бомб каждым самолётом был создан соответствующий датапак.\n[LINK](https://modrinth.com/datapack/nuke-bay-balance-pack)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

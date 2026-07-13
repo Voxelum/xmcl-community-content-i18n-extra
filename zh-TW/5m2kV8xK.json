@@ -1,6 +1,6 @@
 {
-  "bodyHash": "U8Xiwxcb5X4=",
-  "content": "## NukaTeam的槍械庫\n**警告：此模組需要安裝[GeckoLib](https://modrinth.com/mod/geckolib)與[Framework](https://www.curseforge.com/minecraft/mc-mods/framework)**\n\nNTGL是一款基於MrCrayfish的槍械模組所開發的強大函式庫，能讓你在遊戲中添加多種具動畫效果的武器：槍械、近戰武器、手榴彈與投擲物。\n\n你可以透過槍械包來新增或修改現有武器，更多資訊請參考 [NTGL維基](https://github.com/Jetug/NukaTeamGunLib/wiki)\n\n## 功能特色：\n- 槍械包系統\n- 雙持武器\n- 可自訂的武器HUD\n- 切換彈藥類型\n- 射擊模式選擇\n- 死亡特效\n- 生物可使用槍械\n- 內建投射物類型：子彈、雷射、電擊、火焰、飛彈、手榴彈",
+  "bodyHash": "afe60e5e4ff6470f",
+  "content": "\n\n## NukaTeam 的槍械庫\n**警告：此模組需要 [GeckoLib](https://modrinth.com/mod/geckolib) 與 [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)**\n\nNTGL 是一款基於 MrCrayfish 槍械模組的強大基礎庫，可讓您為遊戲新增各種類型的動畫武器：槍械、近戰武器、手榴彈與投擲物。\n\n您可以使用槍械包來新增武器或編輯現有武器，更多資訊請見 [NTGL 維基](https://github.com/Jetug/NukaTeamGunLib/wiki)\n\n## 功能特色：\n- 槍械包系統\n- 雙持武器\n- 可自訂武器 HUD\n- 切換彈藥類型\n- 射擊模式選擇\n- 死亡特效\n- 生物可使用槍械\n- 內建投射物類型：子彈、雷射、電擊、火焰、飛彈、手榴彈",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

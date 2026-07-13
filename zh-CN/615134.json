@@ -1,6 +1,6 @@
 {
-  "bodyHash": "kGp3vGvWcxk=",
-  "content": "<p><span style=\"font-size:36px\"><strong>坏数据包</strong></span></p><p>Bad Packets 是一个库，允许不同模组平台之间进行数据包消息传递。</p><p>这意味着使用 Bad Packets 的模组的 Fabric 客户端版本可以向使用 Forge 版本的服务器发送数据包，反之亦然。</p><p>此模组<strong>并不能</strong>神奇地使所有拥有不同平台版本的模组彼此兼容，开发者需要使用 BP 的 API 来发送其数据包。即便如此，还有更复杂的问题，例如游戏对象 ID 同步，此模组并不处理这些问题，这使其从一开始就不现实支持。</p>",
+  "bodyHash": "f5fdb8262c6b1fbf",
+  "content": "\n\n<p><span style=\"font-size:36px\"><strong>Bad Packets</strong></span></p>\n<p>Bad Packets 是一个库，允许在不同模组平台之间进行数据包通信。</p>\n<p>这意味着使用 Bad Packets 的 Fabric 客户端模组版本可以向搭载 Forge 版本的服务器发送数据包，反之亦然。</p>\n<p>该模组&nbsp;<strong>并不能</strong>神奇地使所有跨平台模组自动兼容，开发者仍需使用 BP 的 API 来发送数据包。即便如此，仍存在诸如游戏对象 ID 同步等更复杂的情况，本模组并未处理这些问题，因此从一开始就不具备支持它们的现实可行性。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

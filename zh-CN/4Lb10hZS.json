@@ -1,0 +1,6 @@
+{
+  "bodyHash": "287985631f05a290",
+  "content": "\n\n<h1 style=\"text-align:center\">Create：座椅第三人称视角</h1> \n<p style=\"font-weight:400\">![演示视频](https://media.forgecdn.net/attachments/description/1581680/description_3c1e198e-3f4a-42c4-9f79-ab37bc259540.gif)</p>\n\n**一款轻量级的 Create 模组插件，允许你在坐在 Create 座椅上时缩放至第三人称视角。**\n\n非常适合在乘坐火车、飞艇和移动机械装置的同时，从外部观察它们的运行。\n\n<div><hr></div>\n\n## ✨ 功能特性\n\n* 切换自定义的座椅第三人称摄像机\n* 坐在 Create 座椅上时可自由缩放视角\n* 适用于移动机械装置、火车和飞行器\n* 起身后自动恢复原始摄像机视角\n* 支持完全自定义按键绑定\n\n<div><hr></div>\n\n## ⚙️ 使用方法\n\n* 坐在 Create 座椅上并按下 **V** 键以启用第三人称摄像机。\n* 使用**鼠标滚轮**或**[ / ]**键来调整缩放距离。\n* 再次按下 **V** 键或起身，即可恢复正常视角。\n* 所有按键绑定均可在以下位置更改：\n* **选项 → 控制 → Create: Seats Third Person**\n\n**注意：** 如果想在驾驶时调整火车速度，需要先关闭第三人称摄像机（按 `V`），通过滚轮更改速度后再重新开启。\n\n<div><hr></div>\n\n## 兼容性\n\n适用于 Create 火车、车厢、移动机械装置以及 Create: Aeronautics 飞行器。\n\n其他类似座椅的机械装置可通过客户端配置文件进行支持。\n\n<div><hr></div>\n\n## 🧩 我们更多的 Create 插件\n\n如果你喜欢本插件，欢迎查看我们的其他 Create 扩展模组：\n\n* [**⏳**] **[Create: 时间操纵器](https://modrinth.com/mod/create-time-manipulator)** — 利用基于 Create 的机制扭曲时间与天气。\n\n<div><hr></div>\n\n由 **Rampage99TV** 制作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

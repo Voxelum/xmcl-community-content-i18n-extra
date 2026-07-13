@@ -1,0 +1,6 @@
+{
+  "bodyHash": "501eccfe2931b107",
+  "content": "\n\n# VibrantPBR\n此资源包支持 **LabPBR** 的所有功能。\n### 包括：\n- 视差\n- AO[环境光遮蔽]\n- 自发光 \n- SSS[次表面散射]\n- 孔隙度\n\n![image1](https://cdn.modrinth.com/data/cached_images/69bfc2f6dece3c858cec3e2b444482b80bd2b686.png)\n\n## 3D 模型\n目前尚未添加大多数 3D 模型，未来将陆续增加更多模型。\n\n![image2](https://cdn.modrinth.com/data/cached_images/af92118f522f323d0329b84d758a6c27d01961e7.png)\n\n## 如何获得 VibrantPBR 的最佳视觉效果\n**首先**，请确保你的光影支持 **LabPBR**。                                                     \n以下是一些推荐的光影：\n- Sundial\n- Nostalgia\n- Kappa\n- Bliss\n- Complementary\n- SEUS GFME\n- Photon\n- BSL \n                                                                                                   \n**其次**，请确保已启用 **LabPBR 的所有功能** 以及 **视差效果**。 \n## 未来计划\n此资源包仍在开发中，未来将添加更多方块和模型。                      \n                                                                                                             \n![image3](https://cdn.modrinth.com/data/cached_images/0d108e7e758e034c4ac3c3c2f61360da13250fcf.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e47170f4dac6be55",
+  "content": "\n\n<p>### RopeFix 是一个小型辅助模组，修复了 Create Aeronautics 中影响飞艇及任何包含 rope_connector 和 rope 方块的结构的关键错误。<br>###&nbsp;</p>\n<p>## **问题所在**</p>\n<p>**当你复制包含绳索的结构时** &mdash; 例如气球通过绳索连接到船体的飞艇 &mdash; 并使用 **结构方块**、**Create 蓝图**、由其他模组加载的 **NBT 文件** 或任何模板系统进行粘贴时，会发生以下情况：</p>\n<p>**绳索看起来完好无损**（绳结纹理和连接点清晰可见）</p>\n<p>但绳索实际上并不存在物理实体 &mdash; 你无法抓取它，它不会摆动，也没有物理效果<br>这是因为 Create: Aeronautics 使用绝对世界坐标来保存绳索线段数据。<br>&nbsp;<br>当结构被粘贴到新位置时，这些坐标仍然指向原始建筑 &mdash; 绳索引擎会立即销毁该线段，但视觉绳结得以保留，从而产生了绳索正常工作的假象。</p>\n<p>### 解决方案<br>###&nbsp;<br>**RopeFix 在加载时拦截绳索数据，检测到连接器已移动（其保存的锚点不再与实际位置匹配），在绳索引擎处理之前剥离损坏的线段，并在下一个服务器刻自动在正确的位置重新生成绳索。<br>物理组装（Sable 子层级）已完全支持：模组能识别 world&harr;plot 坐标转换并予以保留，因此组装好的飞艇在物理模拟过程中能保持绳索完整。**</p>\n<p>### 问题反馈<br>&nbsp;<br>如有任何 bug 或其他问题，请在此处报告 (<a href=\"https://github.com/emariduble-cmd/Rope_fix/issues\" target=\"_blank\" rel=\"nofollow\">https://github.com/emariduble-cmd/Rope_fix/issues</a>)，我会尽快修复。</p>\n<p>### 前置要求</p>\n<p>(<a href=\"https://www.curseforge.com/minecraft/mc-mods/create-aeronautics\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/create-aeronautics</a>)</p>\n<p>### 注意事项:<br>###&nbsp;<br>在安装 RopeFix 之前粘贴的结构无法自动修复 &mdash; 安装模组后需重新粘贴一次。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

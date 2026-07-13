@@ -1,0 +1,6 @@
+{
+  "bodyHash": "87ac2c50174c2dac",
+  "content": "\n\n这是一个数据包！你需要将其添加到世界的数据包文件夹中，或者使用 OpenLoader 或 Paxi 等自动加载器。\n\n\n这个简单的数据包添加了来自 Bygone Nether 的“灵魂石”合成配方。召唤凋灵需要使用此方块替代灵魂沙，而很多玩家并不喜欢必须前往下界寻找该特定方块的做法。因此作为解决方案，现在只需使用 1 个灵魂沙和 1 个灵魂土即可合成它！\n\n\n如何安装？\n\n下载 ZIP 文件并将其放入你世界的 `datapacks` 文件夹中。\n\n或者，安装 OpenLoader 或 Paxi，并将数据包放入它们的 `data` 文件夹中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "060fa350f5277784",
+  "content": "\n\n# 关于\n\n_**Stylecraft**_ 是一款专注于利用真实世界表面为 Minecraft 光影制作 LabPBR 纹理的资源包。即使不使用光影也能运行，但将无法获得完整的视觉效果。\n\n所有纹理均始于寻找合适的拍摄表面并使用数码相机记录，随后经过多款软件处理以生成无缝材质。颜色经过精细调整，力求与原版纹理的质感高度契合。\n\n部分纹理支持视差遮挡（Parallax Occlusion），但由于连接纹理（Connected Textures）的运作机制，方块的角落处会出现凸起的边缘。\n\n## Stylecraft x64 预览视频\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/PaSV6DUD6pE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 所需模组\n\n[Fabric-API](https://modrinth.com/mod/fabric-api) 与 [Continuity](https://modrinth.com/mod/continuity) 是查看设计完整效果的必需模组。\n若仅使用 Optifine 渲染原木纹理，可能会遇到一些问题。\n\n## 注意事项\n上方视频基于 x64 版本。\n画廊图片由 x512 版本拍摄，您可在我的 [Patreon]\n(https://www.patreon.com/c/TheEdgeLoop) 上获取该版本。\n您可以在画廊中查看不同分辨率的对比效果。\n\n## 更新 2\n\n新增原木端面变体\n\n新增砖块",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

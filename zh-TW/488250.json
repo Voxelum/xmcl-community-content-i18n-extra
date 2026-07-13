@@ -1,6 +1,6 @@
 {
-  "bodyHash": "sF6mVEJr8gg=",
-  "content": "<p>將望遠鏡變成雙筒望遠鏡！耶！這句話我已經寫了三次。</p><p>&nbsp;</p><p>那麼，一如既往地，由於Mojang的設計方式，有兩個小問題我無法改變。</p><p><del>第一：由於Mojang將雙筒望遠鏡在臉部佩戴時的左右手適配問題硬編碼在模型狀態之外，導致無法很好地同時適應右手和左手使用。沒錯，又是硬編碼。唉，再次如此。</del> <strong>新版本已修復！</strong> 我終於找到時間解決了！自從1.21.4版本引入物品模型定義後，現在可以為副手使用的雙筒望遠鏡提供單獨的模型了。</p><p>第二：同樣因為Mojang的硬編碼特性，他們將望遠鏡的第一人稱視圖圖像硬編碼為1:1比例，無法擴展視野。至少我不知道如何編輯著色器，而且所有能實現這一效果的官方解決方案對我都不起作用，所以我也無能為力。</p><p>&nbsp;</p><p>除此之外，一切正常<br><br>不再使用Discord！<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fbhAnEEXUfV\" rel=\"nofollow\"><br><br><span style=\"color:#008080\">祝你有美好的一天！</span></a></p>",
+  "bodyHash": "5d998491e8061ed2",
+  "content": "\n\n<p>將望遠鏡變成雙筒望遠鏡！耶！我已經寫過三次這句話了。</p>\n<p>&nbsp;</p>\n<p>那麼，就像 Mojang 一向做的那樣，有兩件小事是我無法改動的。</p>\n<p><del>第一：由於 Mojang 沒有將此分配給模型狀態，而是直接硬編碼，當它們貼在臉上時，左右手的調整效果都不好。沒錯，又是硬編碼。是的，再來一次。</del> <strong>新版本已修復！</strong> 我終於回頭把它修好了！自 1.21.4 版本引入物品模型定義以來，現在可以為副手&nbsp;雙筒望遠鏡提供單獨的模型了。</p>\n<p>第二：基於 Mojang 同樣的硬編碼特性，他們將望遠鏡的第一人稱視角畫面寫死為 1:1 的比例，無法進行拉伸。至少我不知道如何修改著色器，而所有原版中用於達成此效果的方案對我都不起作用，所以我也不清楚該怎麼辦。</p>\n<p>&nbsp;</p>\n<p>除此之外一切都沒問題<br><br>不再需要 DISCORD！<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fbhAnEEXUfV\" rel=\"nofollow\"><br><br><span style=\"color:#008080\">祝你有美好的一天！</span></a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

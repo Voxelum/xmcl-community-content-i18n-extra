@@ -1,6 +1,6 @@
 {
-  "bodyHash": "cSDF/CYKv/A=",
-  "content": "Удаляет заклинания, добавленные модом [Подземелья и таверны](https://modrinth.com/datapack/dungeons-and-taverns).\n\nРаботает только с версией 4.1+ мода Подземелья и таверны.\n\nЕсли вы не любите, когда в структурах появляются заклинания, или хотите лучше контролировать их спавн для своего модпака или сервера",
+  "bodyHash": "e57ed85dcdf0e6b3",
+  "content": "\n\nУдаляет зачарования, добавляемые модом [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns)\n\nРаботает только с версией Dungeons and Taverns 4.1+\n\nЕсли вам не нравятся зачарования в структурах или вы хотите лучше контролировать их появление для сборника модов или сервера",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

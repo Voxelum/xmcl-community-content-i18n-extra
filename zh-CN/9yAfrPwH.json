@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mVGnZxRJa3w=",
-  "content": "本模组在《我的世界》中实现了完整功能的 Wayland 合成器！你可以在游戏世界中启动应用程序、打开窗口，从一个窗口拖放数据到另一个窗口，甚至将视频播放器固定在 HUD 上。一切由你决定。\n\n**重要提示**：本模组仅支持 **Linux** 系统！\n你可以在 macOS 和 Windows 上安装，但将无法使用任何功能。\n\n另请注意：waylandcraft 仅限客户端使用（只有你自己能看到自己的窗口），但服务器也可以安装它，以便让玩家在服务器上拥有自己的窗口物品。\n\n更多信息和常见问题修复请查看 [Github](https://github.com/EVV1E/waylandcraft)！\n\n![游戏中展示了包括 Firefox、GIMP 和 VLC 在内的多种窗口截图](https://cdn.modrinth.com/data/cached_images/17f57f2a435eff170adf0a67eabcf4ee8742529e.jpeg)",
+  "bodyHash": "9254fd32e7fdd4af",
+  "content": "\n\n此模组为 Minecraft 带来了完整的 Wayland 合成器功能！在 Minecraft 世界中完全启动应用程序并打开窗口。在不同窗口之间拖放数据。将视频播放器固定到你的 HUD 上。选择权由你决定。\n\n**重要提示**：此模组仅支持 **Linux**！\n你可以在 MacOS 和 Windows 上安装它，但不会获得任何功能。\n\n另请注意：waylandcraft 仅限客户端使用（只有你能看到自己的窗口），但服务器也可以安装它，以便让玩家在服务器上拥有窗口物品。\n\n如需更多信息及常见问题修复方案，请查看 [Github](https://github.com/EVV1E/waylandcraft)！\n\n![游戏内截图，展示了包括 Firefox、GIMP 和 VLC 在内的多种打开的窗口](https://cdn.modrinth.com/data/cached_images/17f57f2a435eff170adf0a67eabcf4ee8742529e.jpeg)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

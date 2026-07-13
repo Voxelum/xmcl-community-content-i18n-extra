@@ -1,0 +1,6 @@
+{
+  "bodyHash": "89c282b452e0bd84",
+  "content": "\n\n[![Kinetic Hosting](https://cdn.modrinth.com/data/cached_images/1af71189dede4258766a75b4957acefce1910966.webp)](https://billing.kinetichosting.com/aff.php?aff=1406)\n\n讓遊戲中的所有方塊都會彈跳\n\n**安裝方式**\n\n若是資料包版本，在建立世界時切換至「資料包」分頁，點擊按鈕開啟資料包資料夾並將該資料包拖曳進去，它應該會顯示在畫面左側，接著請像啟用實驗性資料包一樣將其啟用。\n\n若是模組版本（於 Windows 系統），右鍵點擊開始按鈕並選擇「執行」，輸入 `%appdata%` 後按確定，這會開啟一個資料夾，進入 `.minecraft` 資料夾後再進入 `mods`，將 `.jar` 檔案拖曳至此即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "scII3dUppuQ=",
-  "content": "- 這是一個函式庫模組，讓你能在 Minecraft 中使用 Effekseer 粒子特效（.efkefc 檔案）。\n- 預設情況下，它會將原版的閃電效果替換為 Effekseer 特效。\n![Effekseer 閃電效果](https://cdn.modrinth.com/data/cached_images/c28bf6797ac86c3998bc6e80548df26cb9e05654.jpeg)\n- 無需重新命名特效使用的資源（例如紋理），本模組移除了對資源位置路徑的名稱驗證。\n- 從資源包載入 Effekseer 檔案，欲了解如何放置檔案以使其運作，請參閱原始碼中的範例。\n\n聯絡方式：<br>\n[![加入 Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/pkpNN77yfs)](https://discord.gg/pkpNN77yfs)",
+  "bodyHash": "8e487b05b1542211",
+  "content": "\n\n- 這是一個函式庫模組，允許你在 Minecraft 中使用 Effekseer 粒子（.efkefc 檔案）。\n- 預設情況下，它會將原版的閃電效果替換為 Effekseer 效果。\n![Effekseer Lightning](https://cdn.modrinth.com/data/cached_images/c28bf6797ac86c3998bc6e80548df26cb9e05654.jpeg)\n- 無需重新命名效果所使用的資源（例如貼圖），此模組已移除對資源路徑名稱的驗證。\n- 會從資源包載入效果檔案，請參考原始碼以了解如何放置你的檔案使其運作 :)\n\n聯絡方式：<br>\n[![Join Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/pkpNN77yfs)](https://discord.gg/pkpNN77yfs)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

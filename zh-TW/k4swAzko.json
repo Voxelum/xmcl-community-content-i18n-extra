@@ -1,0 +1,6 @@
+{
+  "bodyHash": "daa159fddf53e0de",
+  "content": "\n\n# 切石機可將木材加工成半磚與階梯\n此數據包允許玩家在切石機中使用木板來製作半磚和階梯。\n\n### 注意事項：\n此數據包會新增配方。若移除該數據包，主控台可能會顯示關於遺失配方的警告訊息。這不會對您的世界或存檔資訊造成任何損害。\n\n### 安裝方式（Fabric/Forge/Quilt）：\n這些模組的功能與數據包相同，但會套用至所有已安裝此模組時建立或啟用的世界。如果您不希望套用到所有世界，請改用數據包。\n\n**Forge**：\n無需任何相依套件，只需將模組放入「mods」資料夾即可。\n\n**Fabric**：\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**Quilt**：\n需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)\n\n### PurpurPacks\nPurpurPacks 是曾建議加入 [Purpur](https://purpurmc.org/) 伺服器軟體的功能，或是符合 Purpur 主題的內容，但經過評估後認為以數據包的型態呈現更為合適！\n\n每個數據包的功能相當於 Purpur 中的一個獨立設定選項。您可以隨時新增或移除它們，而不會對伺服器造成損害。\n\n這些數據包並不依賴 Purpur；在原版環境或其他伺服器軟體中也能正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

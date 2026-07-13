@@ -1,6 +1,6 @@
 {
-  "bodyHash": "I7gqoWogikg=",
-  "content": "# 流暢捲動\n- 這款 Fabricmc 模組為 Minecraft 中的各種畫面增加了流暢捲動效果，例如：聊天欄、快捷欄、創造模式物品欄、伺服器/世界/資源包列表等等！\n### 設定\n- 您可以**自訂任何動畫速度**\n- **設定畫面**可從 Mod Menu 畫面中進入\n- 設定檔位於 `.minecraft/config/smoothscroll.json`\n  - 編輯設定檔後，在遊戲世界中按下 `F3+T`（重新載入資源）即可重新載入設定\n### NeoForge 相容性\n- 您可以透過 [Sinytra Connector](https://modrinth.com/mod/connector) 模組在 neoforge 上使用此模組\n  - 初次啟動遊戲時，可能會出現不相容的提示，忽略此訊息並重新啟動 Minecraft 即可\n- 我目前沒有計劃讓此模組原生支援 neoforge，但如果您是開發者，可以依照授權條款自行移植",
+  "bodyHash": "a2cb08007b0e31ed",
+  "content": "\n\n# 平滑滾動\n- 此 FabricMC 模組為 Minecraft 的多個介面（例如：聊天視窗、快捷欄、創造模式物品欄以及伺服器／世界／資源包列表等）加入了平滑滾動功能！\n### 設定\n- 您可以**自訂所有動畫速度**\n- 可於模組選單中開啟**設定畫面**\n- 設定檔路徑為 `.minecraft/config/smoothscroll.json`\n  - 修改設定檔後，請在遊戲世界中按下 `F3+T`（重新載入資源）以套用變更\n### NeoForge 相容性\n- 您可透過 [Sinytra Connector](https://modrinth.com/mod/connector) 模組在 NeoForge 環境上使用本模組\n  - 首次啟動遊戲時可能會顯示不相容警告，請忽略並重新啟動 Minecraft\n- 我目前並無計畫讓此模組原生支援 NeoForge，但若您為開發者，可依照授權條款自行進行移植\n\n\n## 平滑聊天\n![chat scrolling](https://cdn.modrinth.com/data/CllP7wW0/images/f319718ea84e5dc86bcbe83dd549572b13e2f6e6.webp)\n\n## 平滑列表滾動\n![list scrolling](https://cdn.modrinth.com/data/CllP7wW0/images/401f2ae6f42bfce23c4137746626a2eafeee78bb.webp)\n\n## 平滑創造模式物品欄\n![creative scrolling](https://cdn.modrinth.com/data/CllP7wW0/images/2e6e378c5dbc05ae2885246605f8890917b244cb.webp)\n\n## 平滑快捷欄滾動\n![hotbar scrolling](https://cdn.modrinth.com/data/CllP7wW0/images/802c27a82039a4767876d332932e01c9b4bd8f89.webp)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4604fb7c7c4a3f34",
+  "content": "\n\n想要搭建一个 Minecraft 服务器吗？ https://flow.bloom.host/\n\n![Bloom Hosting](https://cdn.modrinth.com/data/cached_images/8348b80f4dd78886a0a55ec7fde97675f11e962e.png)\n\n我们都热爱 Minecraft，但有时游戏内容可能会显得单调。本整合包包含超过 100 个模组，将大幅提升原版体验。\n\n你将发现数十款提升生活质量的模组、视觉优化、新增的环境音效等，为你的世界和建筑注入生机。以下是一些亮点功能：\n\n- 🌍 数十种全新生物群系与全面重做的全维度地形\n- 🛠️ 完整的工作系统，包含 10 种职业、独特加成与专属工具\n- 🎒 提升生活质量的改进，如背包整理、环境音效与背包功能\n- 🧱 适量新增的建造方块，既带来新鲜感又不会造成信息过载\n- 🌅 通过 Eclipse 光影与 Voxy LOD 实现惊艳的视觉效果\n- 🏰 遍布全球的数百个全新结构等待探索与发现\n- ✨ 为实体与玩家添加全新动画，让整个世界更加生动\n\n常见问题：\n\n如何提升游玩本整合包时的性能？\n\n- 降低光影质量设置或直接关闭光影会有极大帮助，或者禁用 Voxy 渲染。除这两项功能外，BA+ 实际上是一款非常轻量级的整合包。这两项均为仅客户端运行的模组，如果你的电脑负担过重，可以直接禁用它们。\n\n是否有仅服务端的整合包版本供我的服务器使用？\n\n- 目前还没有，但 BA+ 是专门为 FlowSMP 设计的，该服务器由 flowstate 运营。如果你感兴趣，可以前往 flowstate 的 Discord 频道了解。\n\n我的视角感觉飘忽不定，该怎么修复？\n\n- 你可能按到了 Y 键，这是电影级摄像机的默认快捷键。\n\n如何关闭第一人称模型/如何切换到第三人称模式？\n\n- 分别对应 F6 和 X 键。\n\n额外内容致谢：\n- VanillaTweaks: https://vanillatweaks.net/\n- Eclipse Shaders: https://github.com/Merlin1809/Eclipse-Shader\n\n本描述中的部分链接为推广链接；通过这些链接进行的购买将为我带来佣金。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

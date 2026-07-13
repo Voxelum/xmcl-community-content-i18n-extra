@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FOX82s0z8Q0=",
-  "content": "<h1>ObsidianUI</h1><p><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\" alt=\"forge\"> <img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg\" alt=\"fabric\"></p><p>Этот мод представляет собой порт для Forge проекта <a href=\"https://github.com/LambdAurora/SpruceUI\" rel=\"nofollow\">SpruceUI</a>.</p><p>ObsidianUI — это Minecraft-мод API, который добавляет некоторые инструменты для создания интерфейса. Это библиотека для создания и управления GUI, предоставляющая такие распространённые компоненты, как кнопки, текстовые поля, ползунки и другие.</p>\n\nСодержание посвящено модам, ресурс-пакам, модпакам, шейдер-пакам или другим ресурсам, связанным с Minecraft. Пожалуйста, сохраняйте стиль языка приятным для геймеров.",
+  "bodyHash": "40481ca0ca387527",
+  "content": "\n\n<h1>ObsidianUI</h1>\n<p><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\" alt=\"forge\"> <img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg\" alt=\"fabric\"></p>\n<p>Этот мод представляет собой порт для Forge проекта <a href=\"https://github.com/LambdAurora/SpruceUI\" rel=\"nofollow\">SpruceUI</a>.</p>\n<p>ObsidianUI — это API для модов Minecraft, предоставляющее набор инструментов для работы с графическим интерфейсом. Данная библиотека предназначена для создания и управления интерфейсами и включает в себя распространённые компоненты, такие как кнопки, текстовые поля, ползунки и многое другое.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

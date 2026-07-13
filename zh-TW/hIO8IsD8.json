@@ -1,6 +1,6 @@
 {
-  "bodyHash": "k4l3R4yUhTY=",
-  "content": "# RFTools 基礎模組\n\nRFTools Base 是 McJty 所有科技模組的基礎模組。這包括 [RFTools Dimensions](https://www.modrinth.com/mod/rftools-dimensions)、[RFTools Control](https://www.modrinth.com/mod/rftools-control)、[RFTools Power](https://www.modrinth.com/mod/rftools-power)、[Deep Resonance](https://www.modrinth.com/mod/deep-resonance)、[XNet](https://www.modrinth.com/mod/xnet) 等等。\n\n## 功能特色\n它具有以下功能：\n\n- 維度碎片礦石生成，主世界少量，其他維度較多\n- 機器灌注器\n- 其他科技模組的基礎合成材料\n- 智能扳手\n- 安全與所有者系統\n\n## 依賴項目\n**RFTools Base 依賴於 McJtyLib。**\n\n## 模組包\n歡迎在您的模組包中使用 RFTools Base。",
+  "bodyHash": "14b4a0aa94b43f68",
+  "content": "\n\n# RFTools Base\n\nRFTools Base 是 McJty 旗下所有科技模組的基礎模組。它包含 [RFTools Dimensions](https://www.modrinth.com/mod/rftools-dimensions)、[RFTools Control](https://www.modrinth.com/mod/rftools-control)、[RFTools Power](https://www.modrinth.com/mod/rftools-power)、[Deep Resonance](https://www.modrinth.com/mod/deep-resonance)、[XNet](https://www.modrinth.com/mod/xnet) 等。\n\n## 功能\n具備以下功能：\n\n- 維度碎片礦石生成：主世界數量較少，其他維度則較多\n- 機器灌注機\n- 供其他科技模組使用的基礎合成材料\n- 智慧扳手\n- 安全與擁有者系統\n\n## 依賴項\n**RFTools Base 需要 McJtyLib。**\n\n## 整合包\n歡迎在您的整合包中自由使用 RFTools Base。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

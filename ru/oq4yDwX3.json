@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e5aa4e10a24079af",
+  "content": "\n\n## Шрифт Play для Minecraft\n\nЭтот пакет ресурсов заменяет стандартный шрифт Minecraft на Play от Jonas Hecksher.\n\nPlay распространяется по лицензии <a href=\"https://openfontlicense.org/open-font-license-official-text/\">SIL Open Font License Version 1.1</a>, а материалы пакета — по лицензии MIT.\n\nПакет ресурсов лучше всего работает на версиях 1.20.5 и новее, но может функционировать и на более ранних версиях. Жирное начертание и свечение чернил могут вызывать некоторые искажения из-за способа создания этих эффектов в Minecraft (путём многократной отрисовки символа).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

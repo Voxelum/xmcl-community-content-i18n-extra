@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db6aec8410d6082a",
+  "content": "\n\n[Jade](https://modrinth.com/mod/jade)/[The One Probe](https://modrinth.com/mod/the-one-probe)/[WTHIT](https://modrinth.com/mod/wthit) 插件，用於顯示 Mekanism 紙箱內裝有什麼方塊與方塊實體。\n當與 [Mekanism](https://modrinth.com/mod/mekanism) 及其中一個支援的插件一起安裝時，它會在紙箱的工具提示中新增兩個區塊：「方塊」與「方塊實體」。\n若內部裝有怪物生成器，它也會顯示該生成器會生成什麼生物。\n\n\n工具提示將提供紙箱內方塊與方塊實體的相關資訊。\n![紙箱（含模組）](https://cdn.modrinth.com/data/f0fOt5qj/images/09e10ae7fb454fc45cbec77e458eeca24b32fd70.png)\n\n\n預設的紙箱工具提示已進行調整，以符合 Mekanism 10.5 的版本。\n![容器中的紙箱（含模組）](https://cdn.modrinth.com/data/f0fOt5qj/images/2e83272911c4ab7bba1df56405367178448b9f3d.png)\n\n\n開發此模組的初衷是因為紙箱缺乏便利性資訊。只要安裝了 Mekanism，我都會使用它們來搬運怪物生成器。\n但最讓人困擾的是，當紙箱堆滿儲存網路時，卻完全無法得知裡面裝了什麼。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

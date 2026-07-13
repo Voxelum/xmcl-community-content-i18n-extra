@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4ca8a6e948f39710",
+  "content": "\n\n<h1>Compact F3 Plus</h1>\n<p>一款极简且完全可自定义的 HUD 叠加层，适用于 NeoForge 和 Fabric，用干净易读的界面替代原版 F3 调试屏幕。</p>\n<h3>模式</h3>\n<ul>\n<li><strong>替换 F3（默认）：</strong>按 <code>F3</code> 键将打开精简 HUD，而非原版调试屏幕。</li>\n<li><strong>独立模式：</strong>保留原版 F3 功能，并通过 <code>F8</code>（可在控制设置中重新绑定）单独切换 HUD。</li>\n</ul>\n<h3>HUD 元素</h3>\n<ul>\n<li>FPS - 当前帧率与平均帧率，并根据阈值动态显示颜色指示</li>\n<li>内存占用</li>\n<li>卡顿监测器 - 监控卡顿频率以诊断掉帧问题</li>\n<li>服务器 TPS</li>\n<li>XYZ 坐标</li>\n<li>网络延迟（Ping）</li>\n<li>朝向：基本方位 + 俯仰角</li>\n<li>生物群系与维度</li>\n<li>方块光照与天空光照等级</li>\n<li>游戏会话计时器</li>\n<li>游戏内时间与天数统计</li>\n<li>史莱姆区块指示器</li>\n<li>水平与垂直移动速度</li>\n<li>物品耐久度</li>\n<li>当前播放的音乐曲目</li>\n<li>渲染实体数量</li>\n<li>作物生长进度</li>\n</ul>\n<h3>配置</h3>\n<p>每个元素均可单独开关。设置将保存至 <code>config/compactf3plus.json</code>，并可通过 Mod Menu（Fabric）或 NeoForge 模组列表访问。</p>\n<h3>鸣谢</h3>\n<ul>\n<li><a href=\"https://github.com/user2949\" target=\"_blank\" rel=\"nofollow\">username65735</a> - 原版 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcompact-f3\" target=\"_blank\" rel=\"nofollow\">Compact F3</a> 及 <a href=\"https://github.com/user2949/CompactF3-NeoForge\" target=\"_blank\" rel=\"nofollow\">开源发布版本</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

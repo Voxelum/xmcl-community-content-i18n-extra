@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5d3ae39e46da1e3",
+  "content": "\n\n![banner](https://cdn.modrinth.com/data/cached_images/7e58044b25bb53e5e917bfa760d1c646771879eb.png)\n\n_适用于 1.21+ 版本的 Sodium 智能树叶剔除算法_\n\n## 它有什么作用？\n\n这款 Sodium 插件优化了树叶的渲染性能。由于树叶具有半透明特性，其渲染开销通常较大。\n\n与其他树叶剔除性能模组不同，本模组直接注入 Sodium 的区块网格渲染管线中，并提供了几种新的模式。默认模式为“Solid Aggressive（实心激进）”，它会将大片树叶的内部以不透明的 FAST 模式渲染，而外部边缘仍保持 FANCY 模式。在茂密森林中使用光影时，这能带来显著的性能提升。此外还提供了一种更传统的“Hollow（空心）”剔除模式，会尽可能剔除树木内部的顶点。\n\n提供 NeoForge 和 Fabric 平台的下载版本。本模组不会向后移植。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

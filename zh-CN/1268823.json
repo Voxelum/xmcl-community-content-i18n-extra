@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+2Isyq87TMM=",
-  "content": "<h2><span style=\"color:#e03e2d\">您无需获得我的许可，即可将此模组自由包含在您的整合包中。</span></h2><p>&nbsp;</p><p>在我相继创作多个模组的过程中，为了避免不断将之前项目中的大量通用代码复制到新项目中，我开发了这个库来精简我的项目结构。</p><p>它提供了更高质量的动画类以及大量便捷方法。</p><p>该库主要提供以下功能：</p><ol>\n<li>\n<h2><span style=\"color:#f1c40f\"><em>提供基于帧的动画注册功能。</em></span></h2>\n</li>\n<li style=\"font-style:italic;color:#f1c40f\">\n<h2><span style=\"color:#f1c40f\"><em>包含针对多受击框伤害检测优化的动画类</em></span></h2>\n</li>\n<li style=\"font-style:italic;color:#f1c40f\">\n<h2><span style=\"color:#f1c40f\"><em>内置常用动画事件及方法，简化代码编写。</em></span></h2>\n</li>\n</ol><p>其名称源自亚瑟王传说中的阿瓦隆。</p>",
+  "bodyHash": "6d0871c7b4f3f116",
+  "content": "\n\n<h2><span style=\"color:#e03e2d\">您可以自由地将此MOD包含在您的MOD包中，无需征得我的许可。</span></h2>\n<p>&nbsp;</p>\n<p>随着我不断开发新MOD，为避免反复从旧项目中复制大量通用代码，我开发了这款类库以简化项目开发流程。</p>\n<p>它提供了更高质量的动画类以及众多便捷的方法。</p>\n<p>该库主要提供以下功能：</p>\n<ol>\n<li>\n<h2><span style=\"color:#f1c40f\"><em>提供基于帧的动画注册。</em></span></h2>\n</li>\n<li style=\"font-style:italic;color:#f1c40f\">\n<h2><span style=\"color:#f1c40f\"><em>包含针对多碰撞箱伤害检测进行优化的动画类</em></span></h2>\n</li>\n<li style=\"font-style:italic;color:#f1c40f\">\n<h2><span style=\"color:#f1c40f\"><em>内置常用动画事件与方法，简化代码编写。</em></span></h2>\n</li>\n</ol>\n<p>该名称源自亚瑟王传说中的阿瓦隆（Avalon）。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

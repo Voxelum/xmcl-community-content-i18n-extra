@@ -1,6 +1,6 @@
 {
-  "bodyHash": "E3l6AYAxOMc=",
-  "content": "![LOGO](https://cdn.modrinth.com/data/cached_images/dd6821e16ada02e2bf09b85bfafd2932ce987eea.png)\n**Описание**: Этот ресурспак добавляет детализацию к [Таверне Калейдоскоп](https://modrinth.com/mod/kaleidoscopetavern), обеспечивая полное покрытие PBR и нормальных карт для всех её предметов. Также к некоторым предметам добавлены эффекты параллакса. Тестировано и совместимо с [Таверной Калейдоскоп: Рефабрикация](https://modrinth.com/mod/kaleidoscope-tavern-refabricated).\n\n**Примечание**: Для работы этого ресурспака необходимо включить шейдеры. Согласно первичным тестам, он хорошо работает с «Eclipse Shader» и «iterationRP Shader», при этом необходимо установить «Режим параллакса» шейдера на «Гладкий».\n\n\n",
+  "bodyHash": "a1bbb734150b0130",
+  "content": "\n\n![LOGO](https://cdn.modrinth.com/data/cached_images/dd6821e16ada02e2bf09b85bfafd2932ce987eea.png)\n**Описание**: Этот набор ресурсов добавляет детальную проработку в [Kaleidoscope Tavern](https://modrinth.com/mod/kaleidoscopetavern), обеспечивая полное покрытие PBR и картами нормалей для всех его элементов. К выбранным объектам также добавлены эффекты параллакса. Протестирован и совместим с [Kaleidoscope Tavern Refabricated](https://modrinth.com/mod/kaleidoscope-tavern-refabricated).\n\n**Примечание**: Для работы данного набора ресурсов необходимо включить шейдеры. По результатам начальных тестов он отлично работает с «Eclipse Shader» и «iterationRP Shader». Необходимо установить параметр «Parallax Mode» в значение «Smooth».",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

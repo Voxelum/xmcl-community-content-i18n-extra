@@ -1,6 +1,6 @@
 {
-  "bodyHash": "POc0QRjJbD4=",
-  "content": "基於 Neo/Forge 的模組包，主打效能優化模組，讓 Minecraft 運行更流暢 版本 1.7.10 - 26.1.2\n\n此模組包旨在提升 Minecraft 的效能表現，同時加入一些提升遊戲體驗的便利模組（Quality Of Life mods），讓遊戲過程更加輕鬆。\n\n包含替代 OptiFine 的模組，例如自訂生物模型（Fresh Animations 可在此模組包中運作，但較舊版本如 1.16.5 或更早可能不相容）、縮放、光影等。",
+  "bodyHash": "39e2682abffa7e3e",
+  "content": "\n\n基於 Neo/Forge 的整合包，內含多種效能優化模組，讓 Minecraft 運行更快速（適用版本 1.7.10 - 26.1.2）\n\n本整合包旨在提升 Minecraft 的效能，並加入多款生活品質（QOL）模組，讓遊戲體驗更加輕鬆順手。\n\n包含可替代 OptiFine 的模組功能，例如自訂生物模型（Fresh Animations 已與此整合包相容，但舊版本如 1.16.5 或更早可能不支援）、鏡頭縮放、光影渲染等。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5c8911921bfbcc7",
+  "content": "\n\n<h1>表情符號</h1>\n<p>此模組為純客戶端模組，讓您在 Minecraft 中更輕鬆地輸入表情符號。無論在任何世界或伺服器，所有玩家（即使未安裝此模組）都能看到這些表情符號。</p>\n<p>您可以在任何文字欄位中輸入表情符號：</p>\n<ul>\n<li>在聊天視窗：輸入 <code>:</code> 會出現類似指令的提示，並支援自動補全功能</li>\n<li>在其他任何文字欄位：輸入 <code>:slug:</code> 它將被替換為對應該縮寫的表情符號</li>\n</ul>\n<h2>表情符號支援</h2>\n<p><em>預設情況下，此模組已內建支援超過 1200 種表情符號！</em></p>\n<p>部分範例：</p>\n<ul>\n<li><code>:hamburger:</code> -&gt; <code>🍔</code></li>\n<li><code>:shrug:</code> -&gt; <code>¯\\_(ツ)_/¯</code></li>\n</ul>\n<p>您也可以透過指令自訂新增任何表情符號或 ASCII 藝術圖案：</p>\n<blockquote>\n<p>/emojis add <code>slug</code> <code>emoji</code></p>\n</blockquote>\n<h2>資源包支援</h2>\n<p>此模組亦支援資源包，代表您可以為表情符號套用自訂字型，將原本單調的白色預設表情符號替換成色彩繽紛的樣式。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

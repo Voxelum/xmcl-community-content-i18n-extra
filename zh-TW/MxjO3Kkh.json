@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27bb9880a312db4f",
+  "content": "\n\n# OneKeyMiner\n\n## 簡介\n\n**OneKeyMiner** 是一款適用於 Fabric 的 Minecraft 模組，允許您在一次挖掘動作中開採多個相連且同類型的方塊。它簡化了資源收集流程，並提供高度可設定性，以適應不同的遊玩風格與伺服器規則。\n\n## 功能特色\n\n- 透過單一動作開採大型礦脈或樹木（例如：礦石、原木）\n- 為每種工具類型（斧頭、鋤頭、鎬子、鏟子、剪刀或全部）設定可開採的方塊清單\n- 可調整單次開採方塊數量上限，防止過度破壞\n- 支援切換互動模式，適用於可互動的方塊（例如：草地、耕地）\n- 可自訂啟動按鍵（僅限單人遊戲）\n- 支援舊版遊戲（1.7.10+）\n\n## 設定\n\n本模組使用 [MineConf](https://modrinth.com/mod/mineconf) 進行設定。\n\n### 設定項目\n\n| 設定參數                           | 說明                                                                     | 備註          |\n|------------------------------------|--------------------------------------------------------------------------|---------------|\n| limit                              | 每次動作最多開採的方塊數量                                               | 預設值：64    |\n| axe/hop/pickaxe/shovel/shers/any   | 該工具對應的開採方塊清單                                                 |               |\n| interact                           | 互動模式（例如：用鋤頭翻土、鋪設路徑）                                   | 預設值：false |\n| hotkey                             | 觸發按鍵（僅限單人遊戲）                                                 | 預設值：true  |\n| shape                              | 挖掘範圍形狀（例如：HORIZONTAL/VERTICAL_PLANE、COLUMN、SPHERE、TUNNEL） | 預設值：CUBE  |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

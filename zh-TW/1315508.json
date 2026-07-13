@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ca54d18b5c7aa11",
+  "content": "\n\n<h1>Totem Bar</h1>\n<blockquote>\n  <p>專為 Minecraft 打造的精簡圖騰計數 HUD</p>\n</blockquote>\n<p><strong>Totem Bar</strong> 是一款適用於 Minecraft 1.21.5+ 的輕量級客戶端 Fabric 模組，會在飢餓條正上方新增一個精簡的圖示指示器，用於顯示您目前持有的 <strong>不死图腾</strong> 數量。其視覺風格與護甲條、空氣值等現有 HUD 元素保持一致，並採用小巧的 9x9 像素圖示。</p>\n<p>該指示器最多可顯示 10 個圖騰：<strong>手持中的圖騰會顯示為實心圖示</strong>，而<strong>儲存在背包中的則顯示為空心圖示</strong>。這讓您在無需開啟背包的情況下，也能輕鬆區分已裝備與備用的圖騰。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

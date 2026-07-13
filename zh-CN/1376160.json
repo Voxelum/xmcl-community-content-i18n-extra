@@ -1,0 +1,6 @@
+{
+  "bodyHash": "601225837677583a",
+  "content": "\n\n<h1>SchrumboHUD</h1>\n<p>SchrumboHUD 是一款高度可定制的《我的世界》模组，可在屏幕上永久显示玩家的物品栏和/或护甲。</p>\n<h2>模组功能</h2>\n<ul>\n<li><strong>物品栏 HUD</strong></li>\n<li><strong>护甲 HUD</strong></li>\n<li><strong>暂显模式</strong> - 按住快捷键临时显示 HUD</li>\n</ul>\n<p>您可以直接使用预设的颜色方案，也可以自行修改颜色。</p>\n<h2>快捷键</h2>\n<table>\n<thead>\n<tr>\n<th>操作</th>\n<th>默认按键</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>打开配置界面</td>\n<td>右 Shift 键</td>\n</tr>\n<tr>\n<td>切换常驻显示</td>\n<td>L</td>\n</tr>\n<tr>\n<td>暂显 HUD</td>\n<td>未绑定</td>\n</tr>\n</tbody>\n</table>\n<p>您也可以使用 <code>/shud</code> 命令打开配置界面。</p>\n<p>欢迎提出建议，请在 Discord 上私信我（schrumboo）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

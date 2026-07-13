@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f35949e69bcd17d9",
+  "content": "\n\n<h1>VS: Rotanator</h1>\n<hr>\n<h3>免責聲明：本模組中（針對可控速度萬向節）的所有程式碼均歸屬於原作者：</h3>\n<h3><a href=\"https://github.com/GuyApooye\" target=\"_blank\" rel=\"nofollow\">GuyApooye</a></h3>\n<hr>\n<h2>這是一個簡單的模組，為 Valkyrien Skies 與 Create 之間增添了<strong>非常需要的</strong>生活品質（QoL）道具。</h2>\n<p>目前，此模組僅新增一項物品：</p>\n<ul>\n<li>可控速度萬向節（CV Joint），用於在 VS 船艦之間傳輸旋轉速度（來自 Create）。<ul>\n<li>具備可調節的連接範圍（預設值 3，最大值 10）</li>\n<li>若距離超過最大限制，將自動斷開連接</li>\n<li>不會自動重新連接</li>\n<li>要連接兩個 CV Joint，請手持 CV Joint 點擊第一個（它會顯示附魔光澤），<br>\n接著點擊第二個。<br>\n放置時也會觸發此行為，放置第二個時會自動與第一個連接。</li>\n<li><strong>CV Joint 同樣可在普通陸地上使用</strong>  </li></ul></li>\n</ul>\n<hr>\n<p>若您希望新增方塊、物品或實用功能，請在 GitHub 頁面建立 Issue（於 CurseForge 點擊「原始碼」連結，然後前往 Issues 分頁）</p>\n<hr>\n<p>您可免費在任何整合包中使用此模組。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

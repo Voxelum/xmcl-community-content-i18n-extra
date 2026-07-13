@@ -1,0 +1,6 @@
+{
+  "bodyHash": "57072ac16fc0c3c2",
+  "content": "\n\n<a href=\"https://ko-fi.com/microcontrollers\" target=\"_blank\">\n  <img alt=\"kofi-singular-alt\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_vector.svg\">\n</a>\n\n<a href=\"https://codeberg.org/MicrocontrollersDev/EntityGlow\" target=\"_blank\">\n  <img alt=\"codeberg\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg\">\n</a>\n\n<a href=\"https://modrinth.com/mod/oneconfig\" target=\"_blank\">\n  <img alt=\"oneconfig\" height=\"56\" src=\"https://polyfrost.org/media/branding/badges/badge_1.svg\">\n</a>\n\n# 實體發光\n\n本模組是 1.9+ 版本實體發光／輪廓功能的簡單移植。相關程式碼雖存在於 1.8.9 版本中，但運作方式並不相同。在 1.8 版本中，玩家必須切換至觀戰模式並按下特定快捷鍵。然而，伺服器（至少 Hypixel 如此）會發送有關玩家實體的必要資訊（可能還包含其他資料），因此我們可加入檢查機制並正確渲染其發光效果。不幸的是，物品的 NBT 資料並未傳送給 1.8.9 客戶端。\n\n自 1.0.2 版本起，現已新增強制為隊友渲染輪廓的選項。\n\n## 整合包？\n\n若您希望將我的模組用於整合包中，請確保該整合包僅在 Modrinth 上提供。若有任何進一步討論的需求，歡迎隨時與我聯繫。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

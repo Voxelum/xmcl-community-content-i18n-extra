@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b19f72fff3ba0815",
+  "content": "\n\n## 說明\n\n在合成桌使用 1 個煤炭和 1 根木棍合成火把時，通常會得到 4 支火把。但這不適用於紅石火把。\n使用此數據包後，以 1 個紅石粉和 1 根木棍進行合成現在同樣會產出 4 支紅石火把。\n\n## 安裝指南\n請前往您的世界存檔資料夾，Windows 系統路徑如下：\n\n```C:\\Users(您的使用者名稱)\\AppData\\Roaming\\.minecraft\\saves```\n將壓縮檔放入資料包資料夾中，接著重新啟動您的世界或執行 `/reload` 指令。\n\n## 其他注意事項\n- 若您對該數據包/模組有任何疑問或遇到問題，歡迎至我的 Discord 向我提問。我的 Discord 帳號為 ```oshielder```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

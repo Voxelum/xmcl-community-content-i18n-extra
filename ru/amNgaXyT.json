@@ -1,6 +1,6 @@
 {
-  "bodyHash": "GaZsBddVfQg=",
-  "content": "DashAmulet\n=======\nПростой настраиваемый мод для NeoForge, который добавляет амулет, позволяющий его носителю совершать рывки.\n\nПо умолчанию амулет имеет 3 рецепта, каждый из которых отличается временем перезарядки и дальностью рывка. Однако вы легко можете добавить больше рецептов, изменив объект результата в JSON-файле предмета. Для этого поместите следующий код в раздел components JSON-файла результата:\n\n```\n\"dashamulet:dash_data\": {\n    \"boost\": (float: значение усиления),\n    \"cooldown\": (integer: время перезарядки в тиках)\n}\n```\n\n\n*требуется [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)\n\n",
+  "bodyHash": "e90c28c1a211c202",
+  "content": "\n\nDashAmulet\n=======\nПростой настраиваемый мод для NeoForge, добавляющий амулет, позволяющий носителю совершать рывки.\n\nПо умолчанию у амулета предусмотрено 3 рецепта крафта, каждый из которых имеет разное время перезарядки и дальность рывка. Однако вы можете легко добавить дополнительные рецепты, изменив объект результата в JSON-файле предмета. Для этого поместите следующий код в раздел components файла результата:\n\n```\n\"dashamulet:dash_data\": {\n    \"boost\": (float: boost value),\n    \"cooldown\": (integer: cooldown in ticks)\n}\n```\n\n\n*требуется [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3bc1c5a4b83f0ca4",
+  "content": "\n\n**重要相依性資訊**\n使用此模組需要 *Create: Bits 'n' Bobs* 的特定版本。來自 Modrinth/CurseForge 的版本（0.0.44 及以下）**無法使用**。\n請直接從 GitHub 發布頁面下載相容的預編譯 .jar 檔案：\n **[Bits 'n' Tracks](https://github.com/qwxon/Create-Bits-n-Bobs-for-Tracks/releases)**\n\n![Preview](https://cdn.modrinth.com/data/cached_images/dd528f87816bf4e4edb4fdc369e16d02924c62b9.png)\n\n*(注意：Create: Bits 'n' Tracks 目前仍處於測試階段，可能會出現錯誤。)*\n\n### **Bits ’n’ Tracks**\n\n本模組的核心工具是**齒輪對齊工具**。它讓玩家在安裝後能調整齒輪位置、隱藏外露齒輪、重置齒輪設定，並為支援的結構啟用懸吊式物理機制。這大幅降低了對齊軌道、微調車輛行進與優化建築外觀的難度，無需反覆破壞與放置方塊。\n\n### **主要功能**\n\n* 多種尺寸的**軌道專用齒輪**。\n* **工業齒輪變體** *(模型源自 Create: Gears n' Kinetics 模組的工業齒輪)*。\n* 打造簡潔建築的**隱藏式齒輪**。\n* **齒輪對齊工具**，支援位移、隱藏、重置與微調齒輪。\n* 支援履帶車輛的**懸吊式物理機制**。\n* **可自訂**的物理與移動參數。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

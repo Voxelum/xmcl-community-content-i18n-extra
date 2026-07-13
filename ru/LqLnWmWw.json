@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5bf7a7abe108c4ba",
+  "content": "\n\n## 简介\n**metromod** 添加了一个名为 **Metro Digger（地铁挖掘机）** 的特殊工具，旨在自动化地下隧道挖掘与轨道铺设。\n\n### Metro Digger 是什么？\nMetro Digger 是一款实用工具，允许玩家快速创建笔直的地下隧道并自动铺设轨道，非常适合建造地铁系统和长距离运输通道。\n\n### 功能特性\n- 自动挖掘隧道\n- 自动铺设轨道\n- 支持普通、动力和激活轨道\n- 轨道方向自动对齐\n- 兼容生存模式\n- 轻量级且对服务器安全\n\n### 前置要求\n- Fabric Loader\n- Fabric API\n\n### 许可证\n保留所有权利\n\n# metromod\n\n## 主要物品：Metro Digger\n\n**Metro Digger** 是本模添加的自定义工具。\n\n使用时可实现以下功能：\n- 自动挖掘隧道\n- 移除玩家前方的方块\n- 自动铺设轨道\n- 构建笔直的地下地铁线路\n\n该工具非常适合用于：\n- 地铁系统\n- 深层矿道\n- 地下交通走廊\n\n---\n\n## 功能特性\n\n- 添加 **Metro Digger** 物品\n- 隧道自动挖掘\n- 轨道自动铺设\n- 支持普通、加速和激活轨道\n- 轨道方向正确对齐\n- 兼容生存模式\n- 轻量级且对服务器安全\n\n---\n\n## 工作原理\n\n使用 **Metro Digger** 会依次执行以下操作：\n\n1. 向前挖掘隧道\n2. 清除阻碍方块\n3. 铺设轨道\n4. 使轨道方向与行进方向保持一致\n\n本模在提供自动化的同时，保留了生存模式的挑战性，不会让游戏变成创造模式。\n\n---\n\n## 环境要求\n\n- Minecraft Java 版\n- 具体支持的 Minecraft 版本请参阅模组页面\n\n---\n\n## 安装方法\n\n1. 为您的 Minecraft 版本安装 Fabric Loader  \n2. 安装 Fabric API  \n3. 下载 **metromod** 的 `.jar` 文件  \n4. 将其放入 `.minecraft/mods` 文件夹  \n5. 通过 Fabric 启动器运行 Minecraft\n\n---\n\n## 许可证\n\n**保留所有权利**\n\n本模及其源代码和资源文件均为作者知识产权。\n\n允许：\n- 在单人游戏及服务器中使用本模\n\n禁止：\n- 传播/分发本模\n- 修改或反编译本模\n- 重新上传本模或其代码\n- 将代码或资源用于其他项目\n\n任何超出游戏内使用的行为均需获得作者授权。\n\n---\n\n## 项目状态\n\n本模目前处于积极开发阶段。  \n未来可能会增加新功能、优化性能并修复问题。\n\n---\n\n## 作者\n\n由 **Xenoziss** 制作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

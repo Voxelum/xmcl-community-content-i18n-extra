@@ -1,6 +1,6 @@
 {
-  "bodyHash": "pnhoa9XMQLg=",
-  "content": "<h1>Создать механическую курицу</h1><p>Аддон для создания. Генерирует молоко с помощью вращения и ингредиентов в виде предметов.</p><h2>Версия 1.21.1-2.x требует Mechanicals Lib</h2><ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/mechanicals-lib\" target=\"_blank\" rel=\"nofollow\">Curseforge</a></li>\n</ul><h2>Особенности</h2><ul>\n<li>Механическая корова, кинетический блок.</li>\n<li>Ponder</li>\n<li>Совместимость: JEI и JADE</li>\n<li>Настройка:<ul>\n<li>Время обработки</li>\n<li>Количество выходного продукта</li>\n<li>Выходная жидкость</li>\n<li>Влияние стресса</li>\n<li>Емкость для жидкости</li>\n<li>Необходимый ингредиент</li>\n<li>Количество необходимого ингредиента</li>\n<li>Громкость звука</li></ul></li>\n</ul><p><strong>Благодарим создателей Create.</strong></p>",
+  "bodyHash": "eb26c66ae4a5edce",
+  "content": "\n\n<h1>Механическая курица</h1>\n<p>Дополнение для Create. Производит молоко при вращении и наличии предметного ингредиента.</p>\n<h2>Версия 1.21.1-2.x требует Mechanicals Lib</h2>\n<ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/mechanicals-lib\" target=\"_blank\" rel=\"nofollow\">Curseforge</a></li>\n</ul>\n<h2>Особенности</h2>\n<ul>\n<li>Кинетический блок механической коровы.</li>\n<li>Ponder</li>\n<li>Совместимость: JEI и JADE</li>\n<li>Настраиваемые параметры:<ul>\n<li>Время обработки</li>\n<li>Количество вывода</li>\n<li>Выводимая жидкость</li>\n<li>Потребление нагрузки</li>\n<li>Ёмкость для жидкости</li>\n<li>Необходимый ингредиент</li>\n<li>Количество необходимого ингредиента</li>\n<li>Громкость звука</li></ul></li>\n</ul>\n<p><strong>Спасибо создателям мода Create.</strong></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

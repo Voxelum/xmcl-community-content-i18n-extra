@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ZHo1FKwVs1k=",
-  "content": "<p><strong>Это дополнение для Sable добавляет урон при столкновениях корабль — корабль и корабль — мир, в которых участвуют конструкции Sable (Create Aeronautics).</strong></p><p>Настройка производится в файле конфигурации (sablecollisiondamage-common.toml).</p><p>minBreakSpeed — минимальная скорость, необходимая для разрушения блоков.</p><p>staticSlowdownPerBlock — замедление, применяемое после каждого разрушенного блока.</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fvs-collision-damage\" target=\"_blank\" rel=\"nofollow\">Похоже на этот мод, но с небом Valkyrien</a></p><p>Это альфа-версия; пожалуйста, сообщайте о любых багах</p>",
+  "bodyHash": "6bb7e78ef70122a8",
+  "content": "\n\n<p><strong>Этот аддон для Sable добавляет урон при столкновениях кораблей друг с другом и с блоками мира, затрагивающий структуры Sable (Create Aeronautics).</strong> .</p>\n<p>Настройка производится в файле конфигурации (sablecollisiondamage-common.toml).</p>\n<p>minBreakSpeed — минимальная скорость, необходимая для разрушения блоков.</p>\n<p>staticSlowdownPerBlock — замедление, применяемое после каждого разрушенного блока.</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fvs-collision-damage\" target=\"_blank\" rel=\"nofollow\">Похожий мод, но для Valkyrien Skies</a></p>\n<p>Это альфа-версия, пожалуйста, сообщайте обо всех ошибках.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

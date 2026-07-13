@@ -1,6 +1,6 @@
 {
-  "bodyHash": "w6cIAdRv5O0=",
-  "content": "<p>\n    <img src=\"https://github.com/junyudev/sophisticated-ping/raw/1.19.2/common/src/main/resources/assets/sophisticated_ping/icon.png\" width=\"200\"> \n</p><h1>精密標記</h1><p>Minecraft 的精密標記輪盤。讓 MC 重返巔峰！</p><h2>標記系統</h2><p>預設快捷鍵：<code>c</code></p><p>向隊伍發送訊號以進行溝通。</p><p>在標記點上再次按下快捷鍵可取消標記。</p><h2>圖片</h2><p>來自隊友的標記：</p><p><img src=\"https://github.com/junyudev/sophisticated-ping/raw/1.19.2/images/pingFromTeammate.png\" alt=\"pingFromTeammate\"></p><p>夜晚的標記：</p><p><img src=\"https://github.com/junyudev/sophisticated-ping/raw/1.19.2/images/pingAtNight.png\" alt=\"pingAtNight\"></p>",
+  "bodyHash": "2a4b7bd14d4af6d2",
+  "content": "\n\n<p>\n    <img src=\"https://github.com/junyudev/sophisticated-ping/raw/1.19.2/common/src/main/resources/assets/sophisticated_ping/icon.png\" width=\"200\"> \n</p>\n<h1>Sophisticated Ping</h1>\n<p>Minecraft 專用進階訊號輪。讓 MC 重回巔峰！</p>\n<h2>訊號系統</h2>\n<p>預設快捷鍵：<code>c</code></p>\n<p>向隊友發送訊號以進行通訊。</p>\n<p>在訊號點上再次按下快捷鍵即可取消該訊號。</p>\n<h2>圖片</h2>\n<p>隊友發送的訊號：</p>\n<p><img src=\"https://github.com/junyudev/sophisticated-ping/raw/1.19.2/images/pingFromTeammate.png\" alt=\"pingFromTeammate\"></p>\n<p>夜間訊號：</p>\n<p><img src=\"https://github.com/junyudev/sophisticated-ping/raw/1.19.2/images/pingAtNight.png\" alt=\"pingAtNight\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

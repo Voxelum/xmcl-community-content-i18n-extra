@@ -1,6 +1,6 @@
 {
-  "bodyHash": "jW7XODZ+kP0=",
-  "content": "這個模組是 **[ArsArms](https://modrinth.com/mod/arsarms)** 的函式庫依賴。\n\n支援 **[Ars Nouveau](https://modrinth.com/mod/ars-nouveau)** 法術的遠距離施放。\n\nCastLib 是一個函式庫模組，它添加了 mumu17 的模組所使用的共享通用程式碼，若沒有其他模組啟用或使用它，這個模組本身不提供任何有價值的內容。",
+  "bodyHash": "f587c54c4980d1b4",
+  "content": "\n\n本模組為 **[ArsArms](https://modrinth.com/mod/arsarms)** 的程式庫相依模組。\n\n支援 **[Ars Nouveau](https://modrinth.com/mod/ars-nouveau)** 法術的遠距離施放。\n\nCastLib 是一個程式庫模組，提供了 mumu17 旗下模組共用的程式碼。若無其他模組啟用或使用此模組，本模組將無法提供任何實質功能。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

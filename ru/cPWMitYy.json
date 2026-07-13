@@ -1,0 +1,6 @@
+{
+  "bodyHash": "09e55827a0f3176b",
+  "content": "\n\n# Transport Lib\n\nБиблиотека для упрощения процесса создания транспортных сетей для любых ресурсов.\n\nПо умолчанию библиотека поддерживает следующие параметры:\n\n*   Потеря ресурса за блок (потеря энергии, утечка жидкостей…)\n*   Пользовательские обработчики транспорта для объединения/разделения ресурсов\n*   Синхронизация количества ресурсов с клиентом для визуального отображения\n*   Доступ к ресурсам в кабелях через способности блоков (в разработке)\n\nНиже приведён конкретный пример [регистрации сети](https://github.com/Thepigcat76/transport-lib/blob/main/src/main/java/com/thepigcat/transportlib/example/ExampleNetworkRegistry.java).\n\n```\n    public static final DeferredHolder<TransportNetwork<?>, TransportNetworkImpl<Integer>> MANA_NETWORK = NETWORKS.register(\"mana\",\n            () -> TransportNetworkImpl.builder(ManaTransportingHandler.INSTANCE)\n                    .synced(ByteBufCodecs.INT)\n                    .lossPerBlock((level, node) -> 1f)\n                    .transferSpeed(TransferSpeed::instant)\n                    .interactorCheck(((level, pos, direction) -> level.getBlockEntity(pos.relative(direction)) instanceof ManaBatteryBlockEntity))\n                    .build());\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

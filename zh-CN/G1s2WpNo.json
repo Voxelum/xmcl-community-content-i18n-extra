@@ -1,6 +1,6 @@
 {
-  "bodyHash": "iYRPRFgCZew=",
-  "content": "![横幅](https://i.imgur.com/ian8HrF.png)\n\n### 让第三人称视角下的摄像机能够独立旋转。\n\n#### 完全客户端模组！\n#### 仅通过游戏允许的合法操作来控制玩家旋转。\n#### 支持 Forge 和 Fabric 加载器\n\n允许你自由旋转摄像机 360 度：\n\n![](https://i.imgur.com/qqhe7Pr.gif)\n\n允许你在不改变摄像机旋转方向的情况下，朝八个方向行走：\n\n![](https://i.imgur.com/TtHWY1e.gif)\n\n仍然允许你以第三人称放置、破坏和使用物品：\n\n![](https://i.imgur.com/ODTRmMe.gif)\n\n在移动过程中提供完全的摄像机自由度：\n\n![](https://i.imgur.com/tYDN2Ss.gif)\n\n支持骑乘生物（马与猪）、游泳以及鞘翅飞行：\n\n![](https://i.imgur.com/ociEBxz.gif)",
+  "bodyHash": "32fadebe3d856556",
+  "content": "\n\n![Banner](https://i.imgur.com/ian8HrF.png)\n\n### 支持第三人称视角下的摄像机独立旋转。\n\n#### 纯客户端模组！\n#### 仅使用合法操作控制玩家转向。\n#### 兼容 Forge 与 Fabric\n\n允许你将摄像机自由旋转 360 度：\n\n![](https://i.imgur.com/qqhe7Pr.gif)\n\n允许你在不改变摄像机朝向的情况下向八个方向行走：\n\n![](https://i.imgur.com/TtHWY1e.gif)\n\n在第三人称视角下依然可以正常放置、破坏和使用物品：\n\n![](https://i.imgur.com/ODTRmMe.gif)\n\n移动时提供完全的摄像机自由度：\n\n![](https://i.imgur.com/tYDN2Ss.gif)\n\n支持载具（马和猪）、游泳以及鞘翅飞行：\n\n![](https://i.imgur.com/ociEBxz.gif)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

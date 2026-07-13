@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c05728d438544250",
+  "content": "\n\n这是 [Harrowing Hells](https://modrinth.com/datapack/harrowing-hells)、[Boss Checklist](https://modrinth.com/mod/boss-checklist) 和 [Field Guide](https://modrinth.com/mod/field-guide) 的一款附加模组，旨在将前者的“灰烬灾厄”（Cinderscourge）首领作为条目集成到后两者的界面中。\n\n  **“你是怎么做到的？Harrowing Hells 可是个以模组形式封装的数据包啊！”**\n首先，该模组添加了一个虚假的、无法生成的占位实体，作为你所见条目的基础。条目中展示的自定义掉落物（下界矮人之星）同样也是虚构且无法获取的物品，专门用于模拟真实情况。当服务器检测到该首领实体死亡时，其条目便会自动标记为完成。\n\n  **“为什么这个不与其他 Boss Checklist/Field Guide 附加模组一起发布？”**\n该模组依赖自身添加的上述占位实体。因此，无论你是否实际安装了 Harrowing Hells，该模组添加的首领条目都会显示。以 Boss Checklist 为例，你肯定不希望玩家在一个整合包里四处好奇地搜寻这个“灰烬灾厄”，结果后来才发现，他们一开始根本没装那个号称支持该首领的模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "a3BaUDXOlsA=",
-  "content": "<p><strong>航空創意曲奇相容</strong> 為 <strong>飛行員護目鏡</strong> 與 <strong>連結打字機</strong> 新增了曲奇欄位支援。</p><p><strong>連結打字機：</strong> 將連結打字機放入專屬的曲奇欄位。先像平時一樣設定方塊的按鍵綁定，然後將其拾起。當物品位於欄位中時，按下 <strong>Y</strong>（預設值，可重新綁定）即可遠端啟動打字機，其效果與右鍵點擊實體方塊完全相同，並會向任何連接的紅石連結發送訊號。</p><p><strong>飛行員護目鏡：</strong> 將其放入 <strong>頭部</strong> 曲奇欄位。創造模式的護目鏡疊加層與工程師檢測功能將會自動生效。</p>",
+  "bodyHash": "82c3f3c37920b0b5",
+  "content": "\n\n<p><strong>Create Aeronautics Curios Compat</strong> 為 <strong>飛行員護目鏡</strong> 與 <strong>連結打字機</strong> 新增 Curios 欄位支援。</p>\n<p><strong>連結打字機：</strong>將連結打字機放入專屬的 Curios 欄位中。請先在該方塊上正常設定快捷鍵，再將其拾起。當物品置於欄位內時，按下 <strong>Y</strong>（預設值，可重新綁定）即可遠端啟動打字機。其運作方式與直接右擊實體方塊完全相同，會向所有已串接的紅石鏈結發送訊號。</p>\n<p><strong>飛行員護目鏡：</strong>將其裝備於 <strong>頭部</strong> Curios 欄位中。Create 的護目鏡覆蓋層與工程師偵測功能將自動運作。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

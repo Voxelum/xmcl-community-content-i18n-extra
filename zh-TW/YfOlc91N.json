@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ttHePyjuzek=",
-  "content": "# 黃色十字表示夜晚會生成怪物，紅色十字表示隨時都可能生成怪物。<br>藍色十字表示有生怪磚時會生成怪物（僅限 1.18）\n\n此模組為玩家提供了類似 NEI 的光照顯示功能。\n\n本模組需要 Rift、Forge 或 Fabric 才能運行。（Fabric 版本需要 Fabric API、Cloth Config（Fabric）與 Architectury；Forge 版本需要 Cloth Config（Forge）與 Architectury）\n\n按下 **F7** 可切換光照顯示，亦可透過控制設定進行調整。\n\n### 設定\n- Rift 1.13.2：無設定畫面\n- Forge 1.13.x：無設定畫面\n- Forge 1.14+：模組列表 > 設定\n- Fabric 1.14+：Mod Menu > 設定",
+  "bodyHash": "2002d6b9140b02a7",
+  "content": "\n\n# 黃色十字代表怪物可在夜晚生成，紅色十字代表怪物隨時可生成。<br>藍色十字代表若有刷怪籠則怪物可生成（僅限 1.18）\n\n本模組為玩家提供類似 NEI 的光照覆蓋顯示功能。\n\n本模組需要 Rift、Forge 或 Fabric。（使用 Fabric 需安裝 Fabric API、Cloth Config (Fabric) 與 Architectury；使用 Forge 需安裝 Cloth Config (Forge) 與 Architectury。）\n\n按下 **F7** 切換光照覆蓋顯示，可於控制設定中進行調整。\n\n### 設定\n- Rift 1.13.2：無設定畫面\n- Forge 1.13.x：無設定畫面\n- Forge 1.14+：模組列表 > 設定\n- Fabric 1.14+：模組選單 > 設定",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

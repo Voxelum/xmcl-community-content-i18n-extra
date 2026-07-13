@@ -1,0 +1,6 @@
+{
+  "bodyHash": "adb837a48295bad6",
+  "content": "\n\n# Runtime Trims\n\n[![Modrinth](https://img.shields.io/modrinth/dt/runtimetrims?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/mod/runtimetrims)\n[![CurseForge](https://cf.way2muchnoise.eu/full_1122245_downloads.svg)](https://curseforge.com/minecraft/mc-mods/runtimetrims)\n\nБиблиотека, которая сама по себе ничего не делает, однако позволяет другим модам добавлять материалы и узоры для накладок\nво время выполнения игры, обеспечивая динамическую генерацию моделей предметов и брони.\n\nСмотрите [DynamicTrim](https://github.com/Bawnorton/Dynamic-Trim) и [AllTheTrims](https://github.com/Bawnorton/AllTheTrims)\nв качестве примеров реализации\n\n![img](https://i.imgur.com/GxumAxP.png \"DT and ATT Usage\")",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

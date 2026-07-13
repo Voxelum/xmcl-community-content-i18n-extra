@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c8df88a654131b16",
+  "content": "\n\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/377eb13d0910a202b516014b929817218eba405e.png\" alt=\"蛙蛙\"></p>\n<hr>\n<div>\n  <p><strong>蛙蛙</strong> 是一款帶有驚悚幽默風格的模組，為遊戲中添加了一個名為「蛙蛙」的生物！</p>\n\n  <p>\n    <a href=\"https://github.com/FuzjaJadrowa/Froggy/actions/workflows/build.yml\" rel=\"nofollow\"><img src=\"https://github.com/FuzjaJadrowa/Froggy/actions/workflows/build.yml/badge.svg\" alt=\"Build\"></a>\n  </p>\n</div>\n<hr>\n<h2>如何安裝？</h2>\n<ol>\n<li>確保您使用的是正確的模組載入器版本。</li>\n<li>下載與您的載入器對應的 JAR 檔案：<code>*-fabric-*.jar</code> 或 <code>*-neoforge-*.jar</code>。</li>\n<li>將下載的模組與 <strong>GeckoLib</strong>（必要）一同放入您的 <code>mods</code> 資料夾中。</li>\n<li>啟動遊戲。模組已安裝完成，您可以在 Minecraft 選項中進行設定。</li>\n</ol>\n<h2>功能特色</h2>\n<ul>\n<li>本模組添加了名為「蛙蛙」的有趣生物，它會在遊戲中突然跳出嚇你一跳（Jumpscare）。</li>\n<li>模組引入了 5 種獨特的「蛙蛙」變體，每種都有各自的行為模式，並會隨機生成。</li>\n<li>模組新增了配置介面，您可以自訂生成機率、停用部分變體等。</li>\n<li>模組為「蛙蛙」添加了止咳糖漿，使用後會改變它的行為。</li>\n<li>您也可以使用「裝蒼蠅的玻璃瓶」馴服野生的「蛙蛙」，並開啟馴服後的物品欄介面，在三種行為間切換及存放物品。</li>\n</ul>\n<h2>致謝</h2>\n<ul>\n<li>靈感來源為採用 MIT 授權的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/screamer\" target=\"_blank\" rel=\"nofollow\">Screamer</a> 模組。</li>\n<li>音效取自知名網路迷因。</li>\n<li>材質由 ImpSteve 製作。</li>\n</ul>\n<h2>授權條款</h2>\n<p>本專案採用 <strong>MIT</strong> 授權條款釋出。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ea4c1b0c0c7bae6",
+  "content": "\n\n# CCPowerGridCompat\n\n本模组为 CC:Tweaked 添加了相关方法，使电脑能够直接读取 Create: PowerGrid 仪表的数值。电压表、电流表和功率表的直读数值现已可作为外设读取，分别对应 `getVoltage`、`getAmperage` 和 `getPower` 方法。\n\n就是这么简单。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

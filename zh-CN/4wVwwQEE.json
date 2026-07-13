@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e53f18956dbd9611",
+  "content": "\n\n<a href='https://ko-fi.com/X8X71FI3YO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/SQ5ZLKg5/support-me-on-kofi-beige.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>\n\n## 描述\n此模组/数据包会在航点中添加死亡标记。\n\n![preview](https://cdn.modrinth.com/data/cached_images/007c57dd4c07f1e5d0d9ae4ff9ba4b77903ebaa7.png)\n\n## 使用方法\n玩家死亡后会出现一个标记，指引玩家前往其死亡地点，该地点可能有多个。只有当玩家靠近到一定距离时，这些标记才会被移除，以防止无限堆积。\n\n## 设置\n\n若要让标记仅在玩家背包中有死亡之球时才可见，请执行以下命令：\n```\n/trigger bizcub.use_recovery_compass\n```\n\n若要恢复默认状态，请执行以下命令：\n```\n/trigger bizcub.dont_use_recovery_compass\n```\n\n## 图标\n默认情况下，图标并非骷髅形状。但在展示模组功能的图片中，图标已被更改。为此我使用了一个资源包，你可以在下方的模组或数据包文件中下载它。\n\n## 依赖项\n- Fabric Loader 需要 [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c0c765e383bf106b",
+  "content": "\n\n# 夜行蝙蝠\n\n更改了蝙蝠的生成规则，使其能够在夜间于地表生成：\n- 蝙蝠现在可以在任何高度生成，包括地面以上。\n- 天空光不再阻止蝙蝠生成。\n- 天空光对阻止蝙蝠生成的效果弱于方块光。\n- 将所有常见的地表方块添加到了 `#bats_spawnable_on` 标签中。\n\n### 注意\n尽管 v1.1 向后兼容旧版本，但它需要 Java 21。如需兼容 Java 17，请使用 [v1.0](https://modrinth.com/mod/nocturnal-bats/version/1.0.0+1.19.4)。除兼容性范围外，两者在功能上完全相同。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

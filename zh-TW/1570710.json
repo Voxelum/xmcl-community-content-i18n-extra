@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bbc7ac388bd4305d",
+  "content": "\n\n<p>Create Cannon Gun Sight 是《Create: Big Cannons》的擴充模組，為架設型大炮提供實用的瞄準系統。</p>\n<p>功能特色</p>\n<p>- 瞄準鏡方塊：可安裝於大炮炮管旁，並組裝進大炮機械結構中。<br>- 炮手座椅方塊：提供專屬座位來操控大炮。<br>- 手持瞄準鏡時右鍵點擊座椅，即可將其綁定至炮手座椅。<br>- 入座後按下預設的 V 鍵即可切換瞄準鏡視角。<br>- 瞄準時可使用滑鼠滾輪縮放，提供標準與精密兩種瞄準模式。<br>- 內建 Create Ponder 教學場景，說明綁定、安裝與瞄準流程。<br>- 支援使用扳手旋轉或拆除瞄準鏡。</p>\n<p>需求</p>\n<p>此版本適用於 Fabric 平台的 Minecraft 1.20.1。需安裝 Fabric API、Create Fabric、Create: Big Cannons 與 Ritchie's Projectile Library。Valkyrien Skies 為選填，若已安裝則提供相容支援。</p>\n<p>注意事項</p>\n<p>架設型大炮一次僅能使用一個已綁定的瞄準鏡。若預設 V 鍵與其他模組衝突，請至 Minecraft 的控制設定選單中修改「切換瞄準鏡視角」的按鍵。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

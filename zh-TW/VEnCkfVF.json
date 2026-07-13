@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac99f87cf4cd01eb",
+  "content": "\n\n# xaero-map-chinese\n一個`xaero-map`的漢化資源包，包括`Xaero's Minimap`與`Xaero's World Map`模組的漢化\n\n翻譯參考[XaeroMap-CN-Localization](https://github.com/Sinbing/XaeroMap-CN-Localization)\n\n[![Crowdin](https://badges.crowdin.net/xaero-map-chinese/localized.svg)](https://crowdin.com/project/xaero-map-chinese)\n\n## 簡介\n\n**本漢化為個人漢化版本，並非官方漢化**\n\n## 如何使用\n從[Versions](https://modrinth.com/resourcepack/xaero-map-chinese/versions)下載最新版本漢化包，之後將漢化包放入`resourcepacks`資料夾中即可使用\n\n**漢化包不支援熱更新，需要重新啟動遊戲才能看到最新的漢化**\n\n## 結語\n\n如果您發現任何漢化錯誤，歡迎提交[issue](https://github.com/DreamingLri/masa-mods-chinese/issues/new)\n\n喜歡的話歡迎點一個**愛心**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

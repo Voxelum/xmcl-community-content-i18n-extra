@@ -1,0 +1,6 @@
+{
+  "bodyHash": "05e5b9567e498188",
+  "content": "\n\n<p>⚙️ <strong>功能特色：</strong></p>\n<ul>\n<li>\n<p>🕒 <strong>自動備份</strong>：可設定指定時間間隔（預設為每 30 分鐘）</p>\n</li>\n<li>\n<p>📦 <strong>ZIP 壓縮</strong> &mdash; 每次備份皆會儲存為 ZIP 壓縮檔</p>\n</li>\n<li>\n<p>🗑️ <strong>自動刪除舊備份</strong> &mdash; 僅保留設定數量以內的最新備份</p>\n</li>\n<li>\n<p>⌨️ <strong>實用指令：</strong></p>\n<ul>\n<li>\n<p><code>/hbackup create</code> &mdash; 手動建立備份</p>\n</li>\n<li>\n<p><code>/hbackup info</code> &mdash; 顯示目前設定</p>\n</li>\n<li>\n<p><code>/hbackup deleteall</code> &mdash; 刪除所有備份</p>\n</li>\n</ul>\n</li>\n</ul>\n<p>📁 <strong>備份存放位置？</strong><br> 所有備份檔案皆存放於遊戲目錄下的 <code>hbackups</code> 資料夾中。</p>\n<p>🛠️ <strong>參數設定：</strong><br> 可在 <code>hbackup.toml</code> 檔案中調整各項設定：</p>\n<ul>\n<li>\n<p><code>autoBackup</code> &mdash; 開啟／關閉自動備份功能</p>\n</li>\n<li>\n<p><code>autoBackupIntervalMin</code> &mdash; 備份間隔（分鐘）</p>\n</li>\n<li>\n<p><code>maxBackupCount</code> &mdash; 保留備份的最大數量</p>\n</li>\n</ul>\n<p>🔐 <strong>為什麼很重要？</strong><br> 因程式錯誤或伺服器當機而失去世界進度簡直是場噩夢。<strong>HBackUp</strong> 能保護您的遊戲進度，讓您安心無虞，確保資料不會遺失。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

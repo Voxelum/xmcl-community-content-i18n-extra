@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0bca4ceeaade338a",
+  "content": "\n\n# Bagus Cosmetic\n\nМод, созданный для того, чтобы наслаждаться косметическими предметами на сервере!\n\nКроме того, вы можете найти косметику у монстров (требуется настройка конфигурации)!\n\n### Что необходимо:\n\n・assets/[modid]/bagus_cosmetics/модель, которую вы хотите добавить (предупреждение: необходимо использовать файл модели Bedrock)\n\n・assets/[modid]/textures/cosmetic/текстура PNG с тем же идентификатором\n\n```\nПример: Если вы хотите добавить модель bagu в bagus_cosmetic\n/give bagus_cosmetic:[косметический предмет для применения]{Cosmetic:\"bagus_cosmetic:bagu\"}\n```\n\nпри привязке модели к предмету bagus_cosmetic:cosmetic_body\n\nЭто не обязательно, но вы должны указать определённый идентификатор части модели (modelpart id) для той части, которую хотите перемещать\n\ntorso -> body\n\nhead -> head\n\nright leg -> right_leg\n\nleft leg -> left_leg\n\nright hand -> right_hand\n\nleft hand -> left_hand",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

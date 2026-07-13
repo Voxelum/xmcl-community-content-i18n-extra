@@ -1,6 +1,6 @@
 {
-  "bodyHash": "hTwHHRQ5pAQ=",
-  "content": "Мод, заставляющий Torchflower (новый цветок в 1.20) светиться в темноте\n\nРаботает лучше, если установлен как на сервере, так и на клиенте\n\n![screenshot.png](https://raw.githubusercontent.com/NikitaCartes/Glowing-Torchflower/fabric-1.20.3%2B/screenshot.png)\n\nТакже посмотрите мой мод [Glowing Eyeblossom](https://modrinth.com/mod/glowing-eyeblossom)!\n\n### Уровень освещённости\n- Torchflower: 12\n- Torchflower в горшке: 14\n- Саженец Torchflower, маленький: 3\n- Саженец Torchflower, средний: 7\n- Саженец Torchflower, большой: 12\n\n### Конфигурация\nВы можете изменить уровень освещённости Eyeblossom в файле конфигурации.  \nФайл конфигурации находится в `<путь к игре>/config/GlowingTorchflower/main.conf`.",
+  "bodyHash": "3ef527508cc90a24",
+  "content": "\n\nМод, заставляющий Факельник (новый цветок в версии 1.20) светиться в темноте\n\nФакельник излучает свет на всех стадиях роста, а также когда он посажен в горшок.\n\nЛучше работает, если установлен как на сервере, так и на клиенте.\n\n![screenshot.png](https://raw.githubusercontent.com/NikitaCartes/Glowing-Torchflower/fabric-1.20.3%2B/screenshot.png)\n\nТакже рекомендую посмотреть мой мод [Glowing Eyeblossom](https://modrinth.com/mod/glowing-eyeblossom)!\n\n### Уровень света\n- Факельник: 12\n- Факельник в горшке: 14\n- Факельник (маленький): 3\n- Факельник (средний): 7\n- Факельник (большой): 12\n\n### Конфигурация\nВы можете изменить уровень света для Eyeblossom в файле конфигурации.  \nФайл конфигурации находится по пути `<каталог игры>/config/GlowingTorchflower/main.conf`.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

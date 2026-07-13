@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mvLjah8GUJc=",
-  "content": "# Совместимость с Iris / Oculus и GeckoLib\n\nИсправляет проблему, при которой анимации сущностей GeckoLib не работают при использовании шейдерпаков с тенями сущностей.\n\nПример работы сущности GeckoLib с шейдером Insanity, использующим тени сущностей.\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5kLo4HdSz44\" title=\"Плеер видео на YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n",
+  "bodyHash": "d250d3f5e6e42d65",
+  "content": "\n\n# Iris / Oculus и GeckoLib: Совместимость\n\nИсправляет проблему нерабочих анимаций сущностей GeckoLib при использовании шейдерпаков с тенями от сущностей.\n\nПример работы сущности GeckoLib с шейдерпаком Insanity с использованием теней от сущностей.\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5kLo4HdSz44\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

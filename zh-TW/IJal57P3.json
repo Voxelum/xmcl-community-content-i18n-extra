@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77507dadca469491",
+  "content": "\n\n# 關於此套件\n\n此套件允許你在工作台上使用 4 個磚塊和 1 個碎片來複製陶器碎片。衷心感謝 Discord 上的 ArchaeoPlays，其啟發了這個系統，該系統體認到考古學家在現實世界中試圖重現所發現的陶器碎片時所面臨的挑戰。\n\n# 其他套件\n\n這是我撰寫的一系列套件之一，旨在幫助讓《Minecraft》中的不可再生資源變得可再生，同時提升玩家的合成體驗。這些套件均單獨提供，玩家可以根據自己的喜好選擇加入。詳情請見以下連結：\n\n- [Balanced Copper Cutting](https://modrinth.com/datapack/balanced-copper-cutting)\n- [CJ's Balanced Woodcutter](https://modrinth.com/datapack/cjs-balanced-wodcutter)\n- [Heavy Core Duplication](https://modrinth.com/datapack/heavy-core-duplication)\n\n有任何需求嗎？歡迎在 Discord 上告訴我！\n\n# 常見問題\n\n\n### 我可以取得快照版本的支援嗎？\n可以！我通常不會線上發布快照版本，但如果你希望為特定快照版本製作或維護此數據包/模組，請加入 Discord 並告訴我！\n\n### 為什麼 JEI 是 Fabric 模組載入器版本的選填相依項目？我可以使用其他的物品介面嗎？\n\n預設情況下，模組添加的配方不會加入配方書中，因此不會顯示。JEI 允許透過視覺化使用者介面來查看這些配方。你可以將 JEI 替換為你偏好的任何配方查看介面。\n\n# 加入 Root 社群\n\n若要回報錯誤、提出建議，或追蹤新數據包與模組的開發動態，請加入我們的 [Root Community](https://rootapp.gg/AC2j8mo1jgqeyZuytuRzfA)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

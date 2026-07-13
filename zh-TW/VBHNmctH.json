@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3bd2d9223a6cdc77",
+  "content": "\n\n![baner](https://cdn.modrinth.com/data/cached_images/16d3c7824792fd7a88874f3e07090436bf7d86fd.png)\n## 🌱 AutoSow – 自動採收與重新種植\n\n**受夠了反覆播種的麻煩了嗎？** 🌾\nAutoSow 是一款輕量級的 Forge 模組，適用於 **Minecraft 1.21.x**，讓你能透過**右鍵點擊**成熟作物來**瞬間完成採收與重新播種**！\n同時支援許多植物的**發射器自動化**操作 🤖\n\n---\n\n### ✨ 功能特色\n\n* 🌾 **支援的作物：**小麥、胡蘿蔔、馬鈴薯、甜菜根、火炬花、地獄疣、可可豆、西瓜 🍉、南瓜 🎃、甜漿果 🍇\n* ⚙ **可自訂設定** – 可針對單一作物開啟或關閉，切換種子消耗機制等更多選項\n* 🤖 **發射器支援** – 搭配發射器（內裝剪刀）可自動採收西瓜、南瓜與甜漿果\n* 🪓 可使用空手或對應的播種物品進行操作\n* 🎯 特殊處理機制：\n\n  * 西瓜 → 輸出切片或完整方塊（可於設定中調整）\n  * 南瓜 → 始終輸出完整方塊\n  * 甜漿果 → 依生長階段進行採收\n\n---\n\n💡 非常適合用於**大型農場**、**自動化裝置**以及**以資源積累為主的生存基地**。\n\n🤝 還在尋找其他提升農民體驗的便利模組嗎？搭配 [Farmland Water - Walk Water by Fields](https://modrinth.com/mod/farmland-water) 能簡化你的整體農場佈局，並結合 [Stack Manager](https://modrinth.com/mod/stack-manager) 為種子、作物與藥水設定單品堆疊上限（最高 99），讓倉庫與背包更加整潔。另有 [Farmer Enchants](https://modrinth.com/mod/farmer-enchants) 提供專屬鋤頭附魔，讓耕作過程更輕鬆且獲得更多經驗值。\n\n📂 設定檔：`autosow-common.toml` *（首次運行時自動生成）*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

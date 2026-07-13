@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7e155cde3bbc523",
+  "content": "\n\n<p>修正 Minecraft 長期以來的 FPS 穩定性問題的模組。</p>\n<p>1) 在 FPS 目標值受限時（由於使用者設定或處於選單中），實施正確的幀間距控制：</p>\n<ul>\n<li>Minecraft 1.21.11 及以下版本：允許 FPS 實際達到目標值，而非隨機低於目標值 5-20 FPS。</li>\n<li>Minecraft 26.1 及以上版本：修正因使用過時資訊而導致 FPS 下降 1 的問題。</li>\n</ul>\n<p>2) 將輸入處理移至獨立執行緒，修正因 <code>glfwPollInputs()</code> 而在移動滑鼠時（特別是 Windows 系統上使用高輪詢率滑鼠時）導致 FPS 下降 2-3 倍的問題。</p>\n<p>比較：</p>\n<p>- 原版：<a href=\"https://www.youtube.com/watch?v=OW-tKVvHjY4\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=OW-tKVvHjY4</a><br>- Stable FPS：<a href=\"https://www.youtube.com/watch?v=lk8H2A76Nss\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=lk8H2A76Nss</a></p>\n<p>注意：啟動遊戲或調整視窗大小時，您可能會遇到圖形異常現象——這是刻意為之，因為修復它需要大量工作。我希望將修改降至最低，以確保與其他模組的相容性。<br><br>與 Sodium 相容</p>\n<div>\n<div>建議設定：</div>\n<div>- <code>Fullscreen: ON</code>（因為 Minecraft 在 Windows 上使用 <code>Hardware: Legacy Flip</code>）</div>\n<div>- <code>VSync: ON</code>（避免浪費時間渲染不會顯示的畫面幀）</div>\n<div>- 原版設定：<code>Max Framerate: Unlimited</code>（因為原版的 FPS 限制器已失效）</div>\n<div>- 搭配 Stable FPS 模組：<code>Max Framerate: any</code><br>注意：部分 Minecraft 版本渲染速度較慢，因此在這些版本上您可能需要進一步限制 FPS。</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

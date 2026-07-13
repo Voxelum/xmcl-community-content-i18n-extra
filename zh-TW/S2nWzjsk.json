@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b89bc509bca2c37",
+  "content": "\n\n### [**![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/requires/geckolib_vector.svg)**](https://modrinth.com/mod/geckolib)\n\n**Storage Upgrade** 是一款類似於 AE2 與 Refined Storage 的模組，但在資料儲存與視覺化呈現上採取了不同的設計理念。本模組旨在讓資源管理互動更接近終端機介面。此模組基於 MCreator 開發，因此移植至其他版本的 Forge 或 Fabric 將相當快速。\n\n# **此模組的基礎介紹：**\n\n1. **儲存控制器** 是主要的網路單元，其他單元皆連接至此。\n\n2. **儲存輸入/輸出** - 用於系統資源輸入與輸出的方塊。\n\n3. **基礎儲存方塊** - 可插入各種儲存晶片與驅動器的方塊。\n\n4. **顯示器** - 用於使用者與系統互動的方塊。初始狀態下不包含完整的圖形使用者介面（GUI），但可透過執行指令來啟用。若要查看指令列表，請輸入 \"/help\"。\n\n該系統可儲存三種不同類型的資料：1. 物品。2. 液體。3. 資料。\n\n此描述未來可能會有所更改，但目前該模組仍處於持續開發階段（WIP）。\n\n我的 Discord 伺服器：https://discord.gg/y3xkvMrYt6",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

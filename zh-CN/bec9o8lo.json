@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1654efed46b170f",
+  "content": "\n\n查看容器时直接显示其内部物品，无需打开即可预览。\n\n是否厌倦了因记不清箱内物品而反复开关箱子？是否厌倦了为了制作物品展示框而去刷牛获取皮革？这款模组就是为你准备的。\n\n![Barrel tooltip](https://cdn.modrinth.com/data/bec9o8lo/images/d4f541be247bf81dffc11afa933f72a2e6fd0c43.png)\n\n本模组实现了与 [Shulker Box Tooltips](https://modrinth.com/mod/shulkerboxtooltip) 相同的功能，只不过作用对象是游戏世界中的容器。\n\n本模组需同时安装于客户端与服务端，因为 Minecraft 客户端在未打开容器时不会在本地保存其内部物品数据。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

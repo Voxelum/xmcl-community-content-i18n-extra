@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6412c9d85014f709",
+  "content": "\n\n## 簡介\n這是一款模組，會顯示所有曾在該伺服器遊玩過的玩家統計資料。\n包含以下內容：\n- 最後上線時間\n- 累計遊玩時長\n- 擊殺數\n- 死亡次數\n- 每小時死亡數\n它也支援單人遊戲模式。\n\n## 功能展示\n連線至伺服器後，按下快捷鍵即可顯示玩家列表（預設為 Shift + Tab）\n![Tab stats](https://cdn.modrinth.com/data/zWtYC4e6/images/e5df09fb29639e799a6837352a4d94c8270545ea.png)\n\n\n# 靈感來源\n本模組的靈感來自多個地方，其中最著名的是 [FTB Utilities (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge)，它可以顯示玩家最後上線時間及其他各種統計資料。   \n當我在 [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) 發現原版計分板會顯示在玩家列表中時，我便開始思考應該顯示哪些統計資料，以及能否像玩家列表那樣呈現。\n這最終促成了本模組的誕生。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

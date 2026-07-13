@@ -1,6 +1,6 @@
 {
-  "bodyHash": "46wNZnVpjuE=",
-  "content": "# 功能│功能\n\n- 使用斧頭、鋤頭、鏟子或鎬子攻擊時，只會消耗該武器1點耐久度。│使用斧、鋤、鏟、鎬攻擊時只會消耗其1點耐久度。\n- 使用狼牙棒攻擊也能讓盾牌失效5秒鐘。│使用重錘來攻擊也能停用盾牌5秒。",
+  "bodyHash": "4e789cf90367ec4e",
+  "content": "\n\n# Function│功能\n- Attacking with an axe, hoe, shovel, or pickaxe will only deal 1 point of damage to that weapon.│使用斧頭、鋤頭、鏟子或鎬攻擊時，只會消耗該工具1點耐久度。\n- Attacking with a mace will also deactivate the shield for 5 seconds.│使用重錘攻擊也會使盾牌在5秒內無法使用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "af0b87f87ceaf793",
+  "content": "\n\n# pca-protocol\n\n這是 plusls-carpet-addition 的分叉版本，為伺服器提供 [PCA](https://github.com/plusls/plusls-carpet-addition) 協定支援。這就是它的全部功能。\n\n優勢：\n\n- 專注於單一功能。從原始 PCA 模組中移除了所有可能影響原版遊戲的額外功能，專心提供 PCA 協定支援。\n- 輕量級。無需額外依賴項，僅需 Fabric Loader。\n- 支援最新的 Minecraft 版本；相較之下，原始 [plusls/plusls-carpet-addition](https://github.com/plusls/plusls-carpet-addition) 模組已於 2022 年停止更新，而其某個分叉版本 [Nyan-Work/plusls-carpet-addition](https://github.com/Nyan-Work/plusls-carpet-addition) 亦於 2024 年停止更新。\n\n請注意，由於此為 PCA 模組的精簡版本，因此與 plusls-carpet-addition 必然會產生衝突。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

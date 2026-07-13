@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b49fbc9c58320f4d",
+  "content": "\n\n為《Create: Aeronautics》（模擬版）的便攜式引擎新增液體燃料支援。不再僅限於固體燃料，現在引擎可透過管道系統消耗熔岩等流體。\n\n# 數據包支援\n\n您可以透過建立數據包並使用以下檔案路徑來新增自訂流體：\n\n一般燃料：\n\n```\nepicdatapackname/data/portable_engine_liquid_fuel/data_maps/fluid/engine_fuel.json\n```\n\n過熱燃料：\n\n```\nmoreepicdatapackname/data/portable_engine_liquid_fuel/data_maps/fluid/super_engine_fuel.json\n```\n\n範例內容：\n\n```\n{\n  \"values\": {\n    \"modid:fluid_name\": {\n      \"burn_time\": 5000\n    },\n    \"#fluidtag:name\": {\n      \"burn_time\": 12000\n    }\n  }\n}\n```\n\n# 給數據包愛好者\n\n若要確保條目僅在安裝特定模組時載入：\n\n```\n{\n  \"neoforge:conditions\": [\n    {\n      \"type\": \"neoforge:mod_loaded\",\n      \"modid\": \"yourmodid\"\n    }\n  ],\n  \"values\": {}\n}\n```\n\n為求安全並避免覆蓋現有條目：\n\n```\n{\n  \"replace\": false,\n  \"values\": {}\n}\n```\n\n_`neoforge:conditions` 與 `replace` 可同時使用，兩者並不衝突。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4tHtgLZMWgk=",
-  "content": "用於以 Groovy 程式語言製作 NeoForge 模組。透過 JiJ 方式載入 Groovy 函式庫，並提供 GMLLangProvider 來載入 `@GMod` 物件宣告。\n\n包含的 Groovy 模組：\nstdlib、contracts、datetime、nio、macro、macro-library、templates、typecheckers、dateutil、ginq、toml、json。\n\n模組開發者請參閱專案 [README](https://github.com/GroovyMC/GroovyModLoader/blob/1.21.x/README.MD) 了解如何使用 GML。一般使用者只需將模組放入 mods 資料夾即可安裝。",
+  "bodyHash": "81c5f7efd8071e92",
+  "content": "\n\n用於使用 Groovy 程式語言開發 NeoForge 模組。透過遮蔽 Groovy 函式庫運作，並提供 GMLLangProvider 來載入 `@GMod` 物件宣告。\n\n內建 Groovy 模組：\nstdlib, contracts, datetime, nio, macro, macro-library, templates, typecheckers, dateutil, ginq, toml, json。\n\n對於模組開發者，請參閱專案的 [README](https://github.com/GroovyMC/GroovyModLoader/blob/1.21.x/README.MD) 以了解如何使用 GML。對於一般使用者，只需將此模組安裝至 mods 資料夾即可。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2daf889cc04d9559",
+  "content": "\n\n適用於所有場合（尤其是伺服器）的雪景樹葉。\n\n下雪時，樹葉會逐漸過渡為雪景色澤，功能類似於 [Minecraft: Bedrock Edition](https://minecraft.wiki/w/Bedrock_Edition) 中的相同機制。過渡時間與條件皆可完全自訂！\n\n即將於版本 `0.6.0` *（目前為 Beta 測試版）* 推出：\n* **此模組會修改 Minecraft 核心著色器。**    \n此設計旨在實現平滑過渡，取代過去依賴高耗能且笨重的區塊重新渲染機制。\n* **啟用 Iris 著色器時此模組將無法運作。**    \n目前正在評估備用渲染方案。    \n相關說明：https://github.com/IrisShaders/Iris/blob/1.21.11/docs/development/compatibility/core-shaders.md\n\n與其他雪景樹葉模組相比，本模組完全基於客戶端運行！您可無憂加入伺服器，無需擔心註冊表不一致或不應渲染的異常方塊等問題！透過材質修改的優化，讓樹葉在完全結霜時呈現純白色，而非僅是灰色。\n\n## 設定\n\nVisual Snowy Leaves 的設定可透過以下三種方式開啟：\n* 安裝 Fabric API 後，可綁定快捷鍵以開啟設定介面\n* 若安裝 ModMenu，則可透過模組選單直接進入相同的設定介面\n* 無論如何，您仍可在 `<.minecraft>/config/visual-snowy-leaves.json` 路徑下存取設定檔\n\n![使用此模組時的下雪期間所有 Minecraft 樹木（遺漏了深色橡木樹，因為我忘記加入了）。](https://cdn.modrinth.com/data/Ff2M7Ii7/images/c8054426e672534eae0f8f86c20368229c823efd.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

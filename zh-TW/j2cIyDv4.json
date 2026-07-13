@@ -1,0 +1,6 @@
+{
+  "bodyHash": "52309bfdad8e78d0",
+  "content": "\n\n這是一個非常簡單的模組，將原版**夜視**效果最後 10 秒的閃爍問題，改為在 5 秒內柔和淡出。\n\n  \n\n  ![No Night Vision Flickering Fade Out GIF](https://imgur.com/S2zBLrJ.gif)\n\n_除非有其他模組也嘗試實現相同功能，否則不應會造成任何相容性問題：_\n\n_僅影響的方法為：`GameRenderer.getNightVisionStrength();` 的 `TAIL` 階段。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

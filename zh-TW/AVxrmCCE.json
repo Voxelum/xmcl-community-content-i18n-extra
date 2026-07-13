@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1e46f97cc16a6d46",
+  "content": "\n\n## Terralith：無結構\n\n這是 Terralith 的附加模組，用於移除所有自訂結構。功能相當直觀。\n\n若使用資料包版本，請確保其載入順序排在原版 Terralith 上方。模組版本通常會自動以正確的順序載入。\n\n若您使用的是 Terralith 2.6.0 或更新版本，則無需此附加模組。您可以透過 Terralith 內建的設定檔來停用結構。\n\n### 常見問題\n**問。** 未來是否會提供僅停用特定結構的選項？\n\n**答。** 不會，此附加模組無法支援此功能。若您能使用模組，建議改用 [Structurify](https://modrinth.com/mod/structurify) 作為替代方案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

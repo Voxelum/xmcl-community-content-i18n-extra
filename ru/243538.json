@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0dac24f311c62c88",
+  "content": "\n\n<p>Утилита для создания островов на серверах со сборками Infinity Skyblock и Sky Factory. Доступно несколько команд, которые вы можете использовать.</p>\n<p>Вы можете создать до 100 островов, включая спавн (настраивается).</p>\n<p>[Только для операторов]</p>\n<p>/island_create &lt;Name&gt;</p>\n<p>/island_delete &lt;Name&gt;</p>\n<p>/island_rename &lt;OldName&gt; &lt;NewName&gt;</p>\n<p>/island_setspawn &lt;IslandName&gt; &lt;X&gt; &lt;Y&gt; &lt;Z&gt;</p>\n<p>/island_list</p>\n<p>&nbsp;</p>\n<p>[Игроки]</p>\n<p>/island_join&nbsp;&lt;Name&gt;</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

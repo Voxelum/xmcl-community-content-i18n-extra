@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f9a24a05315a6d3c",
+  "content": "\n\n# 默认快捷键\n\n本模组可为任意按键绑定设置默认快捷键。\n\n## 使用方法\n\n配置文件 `.minecraft\\config\\default-hotkeys.json` 将在首次完整启动后自动生成。（以便正确加载翻译）\n\n```json5\n[\n  {\n    // 翻译键名\n    \"comment\": \"key.advancements\",\n    // 当前语言下的翻译\n    \"translation\": \"进度\",\n    // 原版格式的快捷键\n    \"key\": \"key.keyboard.l\"\n  },\n  // ...更多\n]\n```\n\n查看所有可用的按键值，请参阅\n[Keys.java](https://github.com/CodeOfArdonia/DefaultHotkeys/blob/894408a90dd5aa795268dbe919ea7c9fc4866519/common/src/main/java/com/iafenvoy/dhks/Keys.java#L29)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

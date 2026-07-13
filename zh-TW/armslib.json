@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6043cff13fd7dbdc",
+  "content": "\n\nArmsLib 是一個程式庫模組，提供 mumu17 旗下模組共用的基礎程式碼。若無其他模組啟用或呼叫它，本模組本身並不具備任何實質用途。\n\n本模組主要用於與 TaCZ 進行整合。\n\n**主要功能**\n* 調整 TaCZ 子彈的傷害\n* 射擊子彈時，執行針對可選模組的自訂整合程式碼\n* 擴充庫存中子彈的參照功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

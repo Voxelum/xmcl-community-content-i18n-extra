@@ -1,0 +1,6 @@
+{
+  "bodyHash": "82eec109e616050b",
+  "content": "\n\n# Create Aeronautics：Mekanism 兼容\n\n为 Create Aeronautics / Sable 机械结构上的 Mekanism 方块提供兼容性修复。\n\n## 当前支持\n\n- 挂载状态下，Mekanism 传送器会根据投影的世界坐标计算目标位置与能量消耗。\n- Mekanism 维度稳定器会使区块票与移动的机械结构保持同步对齐。\n- 挂载时，Mekanism 传输器与管道支持配置器定向、侧面选择及视觉状态更新。\n- 挂载状态下，Mekanism 风力发电机会基于投影高度与天空检测运行。\n- Mekanism 数字矿工可执行扫描、显示队列目标、加载区块扫描目标，并从投影的世界坐标进行开采。\n\n许可证：MIT。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

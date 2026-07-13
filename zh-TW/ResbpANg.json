@@ -1,6 +1,6 @@
 {
-  "bodyHash": "G6rZjIxQNyE=",
-  "content": "此模組為你的世界添加了隱藏的無限礦脈。你可以使用機器來開採這些礦石。此模組需要安裝 [Create](https://modrinth.com/mod/create)。\n\n功能特色：\n- 新增隱藏礦脈與流體儲集層，每個區塊有隨機機率生成，且每個區塊只能存在一種礦脈\n- 礦脈為無限資源\n- 可透過資料包或 KubeJS 設定礦脈類型\n- 使用鑽孔機與流體抽取機來開採礦石\n- 機器需仰賴旋轉力驅動\n- 使用「礦脈探測器」道具來尋找礦脈與流體儲集層",
+  "bodyHash": "1ff7cf4b5b69f8c3",
+  "content": "\n\n此模組為你的世界添加了隱藏的無限礦脈。你可以使用機器來開採這些礦石。此模組需要 [Create](https://modrinth.com/mod/create)。\n\n功能特色：\n- 添加隱藏的礦脈與流體儲層，會以隨機機率在區塊中生成。每個區塊僅能存在一條礦脈。\n- 礦脈為無限資源\n- 可透過 Datapack 或 KubeJS 自訂礦脈類型\n- 使用鑽探機與流體萃取機來開採礦石\n- 機器由旋轉動力驅動\n- 使用「礦脈探測器」道具來尋找礦脈與流體儲層",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

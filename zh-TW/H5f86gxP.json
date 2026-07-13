@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5af349d2e9f93ef",
+  "content": "\n\n# 永恆附魔\n\n## 📖 描述\n\n永恆是一種全新的附魔，可防止物品消失或被摧毀！\n\n此附魔可透過附魔台、戰利品寶箱或與村民交易獲得。\n\n## ⌨️ 指令\n\n給予：\n\n```mcfunction\n/loot give @s loot eternal_enchantment:eternal\n```\n\n附魔：\n\n```mcfunction\n/enchant @s eternal_enchantment:eternal\n```\n\n## 🪪 授權條款\n\n[AGPL-3.0-or-later](https://github.com/lullaby6/data-packs/blob/main/LICENSE)\n\n## 👾 錯誤與問題\n\n請在 [Discord 伺服器](https://discord.gg/5UdcDa5xNC) 回報任何問題或錯誤。\n\n## 💌 贊助\n\n- [在 Ko-Fi 贊助](https://ko-fi.com/lullaby45743)\n- [在 PayPal 贊助](https://www.paypal.com/paypalme/lucianobrumer)\n\n## 🎁 伺服器託管\n\n建立自己的伺服器可能是一個非常耗時、繁瑣且昂貴的過程。\n\n但使用 BisectHosting，只需點擊幾下就能擁有自己的伺服器！他們提供全天候客服支援與迅速回覆，絕不讓任何問題阻礙你！\n有興趣嗎？我們特別為你準備了優惠方案！\n\nhttps://bisecthosting.com/lullaby\n\n![伺服器託管](https://www.bisecthosting.com/partners/custom-banners/e840cd99-59f6-4b27-b542-3023cd08bdfe.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

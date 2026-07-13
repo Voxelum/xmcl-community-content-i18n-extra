@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab0e607aa39ff83f",
+  "content": "\n\n# Ещё одно сияние\n\nТекстура сияния зачарованных предметов в ванильной версии кажется мне слишком шумной, так почему бы её не исправить?\n\n## Как это работает?\n\nЭтот набор ресурсов заменяет текстуру сияния зачарованных предметов и надетой брони на минималистичную текстуру с линиями вместо шума. Это создаёт эффект «полосатого» сияния. \n\n## GIF\n\n![gif](https://github.com/diskree/YetAnotherGlint/assets/96978370/24ac5722-b517-4f76-b48d-5e9605c8ac0c)\n\n## Настройка\n\nЭтот набор ресурсов поддерживает мод [Respackopts](https://modrinth.com/mod/respackopts)! Вы можете отдельно настроить сияние как для предметов, так и для надетой брони. Доступно 7 вариантов текстур на выбор. Также можно полностью отключить сияние.\n\n![img](https://github.com/diskree/YetAnotherGlint/assets/96978370/5ba3622c-b06c-4bc1-9709-314a99cc5be4)\n\nЭто аналог Unobtrusive Enchantment Glint из [Vanilla Tweaks](https://vanillatweaks.net/), но реализован лучше.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "AMdgTptSiTI=",
-  "content": "<h2>X光透视</h2><p>这款模组/数据包可移除石头等方块，仅保留矿物可见。此功能在下界同样有效。</p><p>X光透视是一款强大的模组，它彻底改变了你在《我的世界》中探索世界的方式。它允许你透视普通方块，高亮显示有价值的资源、结构和物体。</p><p>使用方法：只需在任意手中拿一张已填充的地图。</p><p><img src=\"https://cdn.modrinth.com/data/r8hnR3m9/images/8f21f107271770937160956489953644f1bc92ff.png\" alt=\"预览图\"></p><h2>用法说明</h2><p>该模组会自动激活，无需额外设置。但若想临时关闭模组，可使用指令 <code>/trigger bizcub.x_ray.t</code>。届时聊天栏将显示模组的当前状态信息。</p><h2>依赖项</h2><ul>\n<li>Fabric加载器需要安装<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
+  "bodyHash": "d9f3497197e88e77",
+  "content": "\n\n<h2>透视</h2>\n<p>移除石头及其他方块以保留矿石可见性的模组/数据包。同时在下界生效。</p>\n<p>透视是一款强大的模组，彻底改变了你探索《我的世界》的方式。它能让你看穿普通方块，高亮显示珍贵资源、结构和物品。</p>\n<p>使用时，只需在任意手持有一张已探索的地图即可。</p>\n<p><img src=\"https://cdn.modrinth.com/data/r8hnR3m9/images/8f21f107271770937160956489953644f1bc92ff.png\" alt=\"预览\"></p>\n<h2>使用方法</h2>\n<p>模组会自动激活，无需额外设置。不过，如果你想临时禁用该模组，请使用指令 <code>/trigger bizcub.x_ray.t</code>。此时聊天栏将显示模组的当前状态信息。</p>\n<h2>依赖项</h2>\n<ul>\n<li>Fabric 加载器需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

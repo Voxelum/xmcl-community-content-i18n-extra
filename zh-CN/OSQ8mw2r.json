@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ShYwlp25ZqY=",
-  "content": "# 爆炸增强\n\n### 自2023年以来增强爆炸效果。\n\n爆炸增强是一个简单的模组，使爆炸看起来更好。它添加了许多新的粒子效果，你可以随意启用或禁用它们。你也可以通过配置完全启用或禁用这个模组！\n\n还有一个特殊的水下爆炸效果，当爆炸发生在水下时。你可以让它在水下爆炸时产生大量的气泡，效果非常令人满意！\n\n## 依赖项\n\n**需要** Fabric API 和 YetAnotherConfigLib。  \n如果你希望编辑配置，还需要 Mod Menu。\n\n[![需要 Fabric API](https://i.imgur.com/OIHAigX.png)](https://modrinth.com/mod/fabric-api)",
+  "bodyHash": "ce890fdbc13d28f4",
+  "content": "\n\n# 爆炸增强\n\n### 自 2023 年起提升爆炸效果。\n\n爆炸增强是一款简单的模组，旨在让爆炸视觉效果更加出色。它添加了大量新粒子效果，所有粒子均可按需自由开关。同时，你也可以通过配置文件完全启用或禁用该模组！\n\n此外，模组还包含特殊的水下爆炸效果。你可以设置在水下爆炸时生成大量气泡，带来非常令人满足的视觉效果！\n\n## 依赖项\n\n**需要** Fabric API 与 YetAnotherConfigLib。  \n若需编辑配置文件，还需安装 Mod Menu。\n\n[![需要 Fabric API](https://i.imgur.com/OIHAigX.png)](https://modrinth.com/mod/fabric-api)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

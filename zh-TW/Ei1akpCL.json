@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Prl8+aEGfBQ=",
-  "content": "# **動態照明**\n\n<p align=\"center\">\n  <a href=\"https://www.patreon.com/cw/quillphen\" target=\"_blank\">\n    <img src=\"https://cdn.modrinth.com/data/cached_images/49b1e899a9f41e7eeeb877bc53e8d5838998a95b_0.webp\" alt=\"Patreon\">\n  </a>\n</p>\n\n為《Minecraft》添加動態照明功能，所有發光物品和發光實體都會產生跟隨它們移動的光源。\n\n![1](https://cdn.modrinth.com/data/Ei1akpCL/images/b273dabd35c9d12f56949b707368459aa1dd3a68.png)\n\n## 光照等級\n\n| 光照等級 | 亮度 | 光源物品 | 發光實體 |\n|------------|------------|---------------|----------|\n| **15** | 最亮 | 螢光石、海燈籠、燈籠、南瓜燈、蘑菇燈、烽火台、所有青蛙燈（翠綠、珍珠、赭黃） | 烈焰使者 |\n| **14** | 明亮 | 火把、營火、熔岩桶、終界燭 | — |\n| **10** | 中等 | 靈魂火把、靈魂燈籠、靈魂營火、紅石火把、發光莓果 | 岩漿立方怪、螢光魷魚 |\n| **7** | 微亮 | 烈焰桿、烈焰粉、螢光石粉、螢光墨囊 | — |",
+  "bodyHash": "31d86e321e7335e9",
+  "content": "\n\n# **動態光源**\n\n<p align=\"center\">\n  <a href=\"https://www.patreon.com/cw/quillphen\" target=\"_blank\">\n    <img src=\"https://cdn.modrinth.com/data/cached_images/49b1e899a9f41e7eeeb877bc53e8d5838998a95b_0.webp\" alt=\"Patreon\">\n  </a>\n</p>\n\n為 Minecraft 加入動態光源。所有發光物品與發光生物都會產生隨其移動的光線。\n\n![1](https://cdn.modrinth.com/data/Ei1akpCL/images/b273dabd35c9d12f56949b707368459aa1dd3a68.png)\n\n## 光源等級\n\n| 光源等級 | 亮度 | 光源 | 生物 |\n|------------|------------|---------------|----------|\n| **15** | 最亮 | 螢石、海晶燈、燈籠、南瓜燈、菌光體、信標、所有蛙光體（翠綠、珠光、赭黃） | 烈焰人 |\n| **14** | 明亮 | 火把、營火、熔岩桶、末地銀梭 | — |\n| **10** | 中等 | 靈魂火把、靈魂燈籠、靈魂營火、紅石火把、螢光莓果 | 岩漿史萊姆、螢光魷魚 |\n| **7** | 昏暗 | 烈焰棒、烈焰粉、螢石粉、螢光墨囊 | — |",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

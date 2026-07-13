@@ -1,0 +1,6 @@
+{
+  "bodyHash": "470df564b208d6f9",
+  "content": "\n\nEpic Fight x Iron's Spells：增强动画\n\n（原名为 Epic Fight x Iron's Spells 动画修复）\n\n如果您从旧版本更新到 2.1.8 或更高版本，请删除模组配置文件（efiscompat.toml），以便重新生成正确的配置。\n\n最新版本添加了数据包支持，可自定义法术动画。\n\n本模组通过 Epic Fight 系统为 Iron's Spellbook 添加自定义施法动画。客户端和服务器均需安装。\n\n重要提示：请按照下方所示关闭 Iron's Spellbook 客户端配置中的两项设置，否则在施法时将看到第一人称视角下的脸部模型。\n\nirons_spellbooks-client.toml\n[Animations]\n    #施法时第一人称视角下渲染的内容。\n    showFirstPersonArms = false\n    showFirstPersonItems = false\n\n功能特性：\n\n- 提供多种施法动画，在主手持有法杖时会显示独特的法杖变体动画。\n- 可配置选项，用于定义法杖物品并在动画播放期间隐藏手持物品。\n- 支持在执行 Epic Fight 的各类技能（如格挡、翻滚等）时取消施法。\n- 几乎所有功能均支持完全自定义配置\n  \n  ![施法动画](https://cdn.modrinth.com/data/cached_images/ac17fef3eccd34d27f53afa8a6fa78148f51cbc5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

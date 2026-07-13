@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8a0da2d22e4c7680",
+  "content": "\n\n## ApothSB\n\nApothSB позволяет размещать драгоценные камни из Apotheosis в слоты фильтров Sophisticated Backpacks, устраняя несовместимость, которая мешала фильтрации камней по тегам.\n\n### Возможности\n- Драгоценные камни из Apotheosis теперь можно помещать в слот фильтра тегов в улучшениях «Фильтр», «Подбор» и «Магнит».\n- Выбор тега apotheosis:gem работает корректно после размещения камня в слоте.\n- Мягкая зависимость: мод загружается безопасно даже при отсутствии Apotheosis или Sophisticated Backpacks.\n- Легковесный: не вносит изменений в геймплей, служит исключительно для устранения несовместимости.\n\n### Требования\nApotheosis 7.x (обязательно).\nSophisticated Backpacks 3.x (обязательно).\nSophisticated Core 1.x (обязательно, устанавливается автоматически вместе с Sophisticated Backpacks).\nMinecraft 1.20.1.\nForge 47.x.\n\n### Совместимость\nMinecraft 1.20.1, Forge 47.x, Apotheosis 7.x, Sophisticated Backpacks 3.x.\n\n### Лицензия\nMIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

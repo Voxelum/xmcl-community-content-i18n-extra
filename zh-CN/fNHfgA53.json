@@ -1,0 +1,6 @@
+{
+  "bodyHash": "24c7b84255872e87",
+  "content": "\n\n# 骑箭者模组\n旧版本已完全重写。该模组未来也会移植至 Forge 和 Neoforge，但目前仅支持最新版本的 Fabric。 \n\n## 如何运作？\n该附魔获取成本极低，可附于弓上，且能与经验修补或无限附魔共存。\n只需射出箭矢即可触发效果。你可以随时主动脱离箭矢，当箭矢击中方块时，系统也会自动将你卸下。\n\n## 获取位置\n附魔书通常会出现在战利品箱、村庄以及所有可购买书籍的地方 :=)\n\n## 游戏演示\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/dqjaceK5qkM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

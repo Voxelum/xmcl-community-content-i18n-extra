@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mAxfOCBHm2A=",
-  "content": "**这不是 [drive-by-wire-sable](https://modrinth.com/mod/drive-by-wire-sable) 模组的官方分支。原版模组：[drive-by-wire](https://modrinth.com/mod/drive-by-wire)。**\n\n此分支增加了对 TFMG 控制器（engine_controller）的支持。你可以为任意控制器功能（滚动上/下）配置通道。\n\n![图片](https://cdn.modrinth.com/data/cached_images/6363f9fc7e1df8fb23fbbe26822c39d52e9164a3.png)\n\n这是分支版本，请替换安装原版模组！",
+  "bodyHash": "85b071752f3a6a0a",
+  "content": "\n\n**这不是 [drive-by-wire-sable](https://modrinth.com/mod/drive-by-wire-sable) 模组的官方分支。原版模组：[drive-by-wire](https://modrinth.com/mod/drive-by-wire)。**\n\n此分支添加了对 TFMG 控制器（engine_controller）的支持。您可以为任何控制器功能配置通道（向上/向下滚动）。\n\n![image](https://cdn.modrinth.com/data/cached_images/6363f9fc7e1df8fb23fbbe26822c39d52e9164a3.png)\n\n请安装此版本以替代原版，此为分支！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

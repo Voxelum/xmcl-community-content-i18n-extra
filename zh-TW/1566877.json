@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de128b88022b845b",
+  "content": "\n\n<h2>BROMAX 的隨機戰鬥</h2>\n<p><strong>此模組適用於 1.16.5 及以下版本，運行需要 BROMAX Lib： <a href=\"https://www.curseforge.com/minecraft/mc-mods/bromax-lib\" target=\"_blank\" rel=\"nofollow\">連結</a></strong></p>\n<p>BROMAX 的隨機戰鬥是一款受《Better Combat》與《Epic Fight》啟發的戰鬥模組，相容性可追溯至 1.12.2，旨在提升戰鬥體驗並增加一定難度。&nbsp;<em><strong>請見諒早期 Beta 版本的瑕疵與錯誤，開發過程相當艱辛，我仍在持續修正問題。&nbsp;&nbsp;</strong></em>它包含（或目標是包含）以下內容：<br>超過 35 種不同武器類型的動畫，從簡單的劍與斧頭，到罕見的伐木斧、斬肉刀等<br>範圍傷害（AOE）系統<br>格擋功能（即將推出！）</p>\n<p>第一人稱視角下的武器動畫清晰可見，但不會干擾視野</p>\n<p>攻擊時的移動限制</p>\n<p><br><strong>適用於 1.19.2 及以上版本：</strong></p>\n<p>更優化的武器角度調整（即將推出！）</p>\n<p>更細緻的攻擊動畫（即將推出！）</p>\n<p><span style=\"text-decoration:underline\">戰鬥系統運作方式如下：<br></span>模組涵蓋的每把武器都有 3 種動畫：1 種預設、1 種重型稀有、1 種輕型稀有。攻擊的稀有度與差異取決於武器類型。當你進行攻擊時，會根據攻擊稀有度觸發相對應的動畫，並造成不同的傷害數值。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

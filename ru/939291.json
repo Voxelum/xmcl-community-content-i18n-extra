@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3a92858ecb948d94",
+  "content": "\n\n<h1>BetterArmorHUD</h1>\n<p>Добавляет цветные иконки и показатель прочности в HUD брони.</p>\n<ul>\n<li><img src=\"https://raw.githubusercontent.com/efekos/BetterArmorHUD/master/assets/toughness.png\" alt=\"\"> — это прочность.</li>\n<li><img src=\"https://raw.githubusercontent.com/efekos/BetterArmorHUD/master/assets/knockback_resistance.png\" alt=\"\"> — это устойчивость к отбрасыванию.</li>\n<li><img src=\"https://raw.githubusercontent.com/efekos/BetterArmorHUD/master/assets/unknown.png\" alt=\"\"> — это неизвестная броня, вероятно, не из ванильной версии.</li>\n<li>Остальные иконки достаточно понятны.</li>\n</ul>\n<p>Краткая демонстрация:</p>\n<p><img src=\"https://raw.githubusercontent.com/efekos/BetterArmorHUD/master/assets/gallery/mixed_1.png\" alt=\"\">\n<img src=\"https://raw.githubusercontent.com/efekos/BetterArmorHUD/master/assets/gallery/mixed_2.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

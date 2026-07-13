@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e6a60a3c28c66c77",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/DeUxl5j.png\" alt=\"\" width=\"1200\" height=\"400\"></p>\n<p>&nbsp;</p>\n<p>使用核心著色器使雨滴呈現傾斜效果，無需安裝其他模組。微調雨滴紋理以增強真實感，並同步更新雨滴濺射粒子。此外，雲朵著色器也已優化，使雲朵呈現半透明狀態，並改善霧氣衰減效果。</p>\n<p>&nbsp;</p>\n<p><span><span><iframe src=\"https://www.youtube.com/embed/eey2iRNHg7c?wmode=transparent\" width=\"638\" height=\"358\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p>\n<p>&nbsp;</p>\n<p>我可能也會調整水滴粒子以保持一致。目前它使用的是原版硬編碼的深藍色。</p>\n<p>&nbsp;</p>\n<p>相容性：Dynamic Rain 應與 Sodium 相容。Sodium 有時會導致原版與 Fabric 模組版 Minecraft 的渲染出現問題，但我個人並未遇到此狀況。若您遇到相關問題，建議嘗試安裝 Indium 擴充套件，它通常能修復渲染異常，不過一般情況下並非必要。<br><br><strong>不過，本資源包與光影套件（shaderpacks）不相容！</strong></p>\n<p>&nbsp;</p>\n<p>我在著色器程式碼方面的編程能力有限，因此程式碼的整潔度可能未達最佳狀態，宣告與修改矩陣的方式也可能還有更優化的做法。</p>\n<p>&nbsp;</p>\n<p>本資源包的運作原理是：頂點著色器會讀取雨滴紋理中的特定 Alpha 值（不透明度 38%），並對粒子矩陣進行變換與旋轉，從而實現雨滴傾斜效果。紋理必須具備透明背景，才能影響整個粒子而非僅局部，因此需要片段著色器來遮蔽背景。片段著色器會偵測並捨棄紋理中的透明綠色背景，僅保留雨滴部分。若有任何問題或想重複使用該程式碼，歡迎在 Discord 上聯繫 <em>timmychips</em>！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

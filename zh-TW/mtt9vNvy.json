@@ -1,6 +1,6 @@
 {
-  "bodyHash": "pdQkvaqGEhk=",
-  "content": "# Vein Miner Plus\n\n每次挖礦脈都要一個一個敲，很快就膩了。這個模組在不破壞平衡的前提下解決這個問題。\n\nVein Miner Plus 讓你能蹲下並挖掘一個礦石方塊，就能破壞整個相連的礦脈，同時仍然考慮工具耐久度及可設定的限制。\n\n## 特色\n- 蹲下並挖掘一個礦石即可破壞整個相連礦脈\n- 支援原版礦石、深板岩礦石、地獄礦石及遠古遺骸\n- 可設定每個礦脈的最大方塊數量\n- 蹲下需求可切換\n- 支援自訂方塊列表\n- 工具耐久度仍會根據每個方塊消耗\n\n## 為什麼使用它\n- 更快速的挖礦過程\n- 減少重複清理礦脈的動作\n- 強化的原版+生活品質提升\n\n## 設定檔\n`config/veinminerplus.json`\n\n## 需求\n- Fabric Loader\n- Fabric API",
+  "bodyHash": "e00ed85a94fc50ac",
+  "content": "\n\n# Vein Miner Plus\n\n一次只挖一個方塊來開採礦脈很快就會讓人感到枯燥。此模組在不會破壞遊戲平衡的前提下解決了這個問題。\n\nVein Miner Plus 允許你蹲下並挖掘單一方塊，即可破壞整個相連的礦脈，同時仍會遵守工具耐久度與可配置的數量限制。\n\n## 功能特色\n- 蹲下並挖掘單一礦石即可破壞整個相連的礦脈\n- 支援原版礦石、深板岩礦石、下界礦石與古老殘骸\n- 可設定每個礦脈的最大挖掘方塊數\n- 可切換是否需蹲下\n- 支援自訂方塊清單\n- 每個方塊仍會消耗工具耐久\n\n## 為什麼要使用它\n- 縮短開採時間\n- 減少重複清理礦石的繁瑣工作\n- 極佳的原版 Plus 風格體驗優化\n\n## 設定檔\n`config/veinminerplus.json`\n\n## 需求\n- Fabric Loader\n- Fabric API",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

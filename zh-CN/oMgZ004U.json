@@ -1,6 +1,6 @@
 {
-  "bodyHash": "uV0PymG3luo=",
-  "content": "[![fh](https://cdn.modrinth.com/data/cached_images/13858665ff42f62b0fc3b8a78e4d4cd59c51b5e5_0.webp)](https://feasthost.org/aff.php?aff=1)\n\n新增可存储能量（FE）于ME网络中的单元。\n\n<img src=\"https://media.forgecdn.net/attachments/906/413/fe_cells_new.png\" width=\"664\" height=\"226\">\n\n通过通量存取器与ME网络中存储的能量进行交互。\n\n<img src=\"https://media.forgecdn.net/attachments/906/414/flux_accessor_new.png\" width=\"651\" height=\"415\">\n\n最大容量的单元可存储超过200万亿FE！\n\n<img src=\"https://media.forgecdn.net/attachments/906/415/large_cell_new.png\" width=\"624\" height=\"255\">\n\n您可以直接在终端中查看存储的能量情况，并为物品充能或释放能量。\n\n<img src=\"https://media.forgecdn.net/attachments/906/416/terminal_new.png\" width=\"803\" height=\"435\">",
+  "bodyHash": "58693a57c6627c0e",
+  "content": "\n\n[![fh](https://cdn.modrinth.com/data/cached_images/13858665ff42f62b0fc3b8a78e4d4cd59c51b5e5_0.webp)](https://feasthost.org/aff.php?aff=1)\n\n新增存储单元，允许你在ME网络中存储能量（FE）。\n\n<img src=\"https://media.forgecdn.net/attachments/906/413/fe_cells_new.png\" width=\"664\" height=\"226\">\n\n通过通量访问器与ME网络中存储的能量进行交互。\n\n<img src=\"https://media.forgecdn.net/attachments/906/414/flux_accessor_new.png\" width=\"651\" height=\"415\">\n\n最大的存储单元可存储超过200万亿FE！\n\n<img src=\"https://media.forgecdn.net/attachments/906/415/large_cell_new.png\" width=\"624\" height=\"255\">\n\n你可以在终端中直接查看存储的能量数量，并对物品进行充电或放电。\n\n<img src=\"https://media.forgecdn.net/attachments/906/416/terminal_new.png\" width=\"803\" height=\"435\">",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

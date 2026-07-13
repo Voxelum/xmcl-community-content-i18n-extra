@@ -1,6 +1,6 @@
 {
-  "bodyHash": "tFZYC9kqeN0=",
-  "content": "# 戰術快樂幽靈作戰\n\n這個模組讓你可以用打火石點燃快樂幽靈，從由村民騎乘、裝滿TNT的拴繩儲物箱船上掉落TNT。每次掉落TNT時，儲物箱中的TNT會被消耗，同時打火石也會損失耐久度。\n\n此模組還新增了一項成就，可透過用快樂幽靈發射的TNT擊殺特定生物來獲得，並為以同樣方式死亡的玩家提供了獨特的死亡訊息。\n\nFabric 版本需要 [Fabric API](https://modrinth.com/mod/fabric-api)。NeoForge 版本無需其他需求。\n\n![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxuYjV4YTEwZTh6MHNvbm8yeGUwbGVpeGpvbGk2NWVqaGF2YmU3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ysm5V0QOt2QLgr6Nyw/giphy.gif)",
+  "bodyHash": "60e6aa4c37ca8a82",
+  "content": "\n\n# 戰術歡樂惡魂戰爭\n\n此模組允許你對歡樂惡魂使用打火石，使其從拴著牽繩、由村民騎乘且裝滿 TNT 的儲物箱船中掉落 TNT。每掉落一顆 TNT，箱子內的 TNT 就會被消耗，同時打火石的耐久度也會減少。\n\n此模組還新增了一項進度：使用由歡樂惡魂發射的 TNT 擊殺特定生物。此外，對於以同樣方式死亡的玩家，也會顯示獨特的死亡訊息。\n\nFabric 版本需要 [Fabric API](https://modrinth.com/mod/fabric-api)。NeoForge 版本則無任何需求。\n\n![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxuYjV4YTEwZTh6MHNvbm8yeGUwbGVpeGpvbGk2NWVqaGF2YmU3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ysm5V0QOt2QLgr6Nyw/giphy.gif)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

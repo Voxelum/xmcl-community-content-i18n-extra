@@ -1,0 +1,6 @@
+{
+  "bodyHash": "73738092a55300ca",
+  "content": "\n\n<a href=\"https://ko-fi.com/microcontrollers\" target=\"_blank\">\n  <img alt=\"kofi-singular-alt\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_vector.svg\">\n</a>\n\n<a href=\"https://codeberg.org/MicrocontrollersDev/Sciophobia\" target=\"_blank\">\n  <img alt=\"codeberg\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg\">\n</a>\n\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/sciophobia\" target=\"_blank\">\n  <img alt=\"curseforge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg\">\n</a>\n\n<a href=\"https://modrinth.com/mod/connector\" target=\"_blank\">\n  <img alt=\"sinytra connector\" height=\"56\" src=\"https://files.catbox.moe/6j289t.svg\">\n</a>\n\n# Sciophobia\n\n全域自訂 Minecraft 的文字陰影渲染效果。\n\n## 功能特色\n\n- 隱藏文字陰影\n    - 完全移除文字陰影。此選項有助於提升效能。\n- 強制文字陰影\n    - 強制在全域所有文字上顯示陰影。若已啟用「隱藏文字陰影」則此功能無效。\n- 替代文字陰影\n    - 僅將文字陰影向下偏移，而非同時向右下方偏移。\n- 完整文字陰影\n    - 透過複製文字來模擬所有文字的發光描邊效果。此功能可能會影響效能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d33a88728bd20408",
+  "content": "\n\n# 奇特且強大的武器\n\n**目前「奇特且強大的武器」模組只有 3 種物品，但我希望能新增更多物品**\n\n要獲得該物品請執行以下指令：\n```\n/function totem/give/<the item>\n```\n若要使用自訂材質，您可以下載此[資源包](https://modrinth.com/project/1p4AiChX)\n\n## 保護圖騰\n\n新增一種全新的不死圖騰，當玩家按住右鍵時會觸發爆炸效果\n\n![玩家使用保護圖騰時的畫面](https://cdn.modrinth.com/data/cached_images/0199e9d680f2902e2724adb1b9c761d8efa9e34f_0.webp)\n\n------------------------------------------------------------------\n\n保護圖騰在爆炸前會有一段蓄力時間\n\n![蓄力過程的動畫](https://cdn.modrinth.com/data/cached_images/812e596e6a4d0d3b84ee90c48301069636e2ca1f_0.webp)\n\n## 鐮刀\n\n為遊戲新增一把鐮刀，攻擊玩家時會施加緩慢或虛弱等效果，並且會將目標的生命值減半\n\n![Slapio 用鐮刀攻擊監守者](https://cdn.modrinth.com/data/cached_images/6748eff51fa46e128734d42de39badac5fc84eac.png)\n\n## 隱形斗篷\n\n新增一件隱形斗篷，裝備後可讓玩家完全隱形且不會產生粒子特效！[Slapio 穿上隱形斗篷](https://cdn.modrinth.com/data/cached_images/861e0783b3318122a67c7983cf8f49473cea8158.gif)\n\n\n## 合成配方\n\n![合成配方圖示](https://cdn.modrinth.com/data/cached_images/f7262b548cd61dd714ddf382747b64d284b50df5_0.webp)\n\n## 設定選單\n\n若要調整資料包的設定，請執行：\n```\n/function totem:config_book\n```\n![模組的設定書介面](https://cdn.modrinth.com/data/cached_images/c4590ce16eb2d4f6d9c2926c4336a69801c5fe5e.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

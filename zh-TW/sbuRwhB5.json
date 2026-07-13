@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3d0a39e166f0ff82",
+  "content": "\n\n<p>將 jc776 的 Copper Lungs 移植至 1.19 版本，並專為與 Thin Air（Miners Lung 移植版）相容而設計。本模組允許 Create 的潛水裝備與 Thin Air 搭配使用。當佩戴潛水頭盔及裝有空氣的氣罐時，將優先消耗裝備內的空氣，而非玩家自身的氧氣供應。<br />需要安裝 Create 與 Thin Air。<br /><br />-<a title=\"og\" href=\"https://modrinth.com/mod/copper-lungs\">Copper Lungs</a>（jc776 的原始模組）<br />-<a title=\"dep1\" href=\"https://modrinth.com/mod/create\">Create</a>（提供潛水裝備）<br />-<a title=\"dep2\" href=\"https://modrinth.com/mod/thin-air\">Thin Air</a>（提供氧氣機制）</p>\n<p><a href=\"https://modrinth.com/mod/create-air-fabric\">[bitheaven 提供的 Fabric 版本]</a></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

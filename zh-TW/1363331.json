@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c486bfb6311ef33a",
+  "content": "\n\n<h1>MaLiBind</h1>\n<p>MaLiBind 讓按鍵綁定更顯直覺。它會將 Minecraft 原版的按鍵綁定匯入 MaLiLib 的設定系統，讓你能夠使用 MaLiLib 精緻的介面與強大的後端來管理每個快捷鍵。該模組輕量且不侵入原版行為，專為給予玩家與模組開發者清晰、彈性的控制體驗而設計。</p>\n<h2>MaLiBind 為你帶來的功能</h2>\n<ul>\n<li>簡潔的分類管理 — 將相關快捷鍵分組，保持操作設定整潔有序。</li>\n<li>強大的觸發功能 — 搭配可自訂的觸發設定，讓單一按鍵能執行更多動作。</li>\n<li>極輕量的修改 — 不進行侵入式改動；僅在必要時引入少量的 Accessor Mixin。</li>\n</ul>\n<h2>需求</h2>\n<ul>\n<li>Minecraft &gt;=1.21</li>\n<li>對應 Minecraft 版本的 MaLiLib</li>\n<li>Fabric Language Kotlin &gt;= 1.11.0+kotlin.2.0.0</li>\n<li>與 MaLiLib 相容的 Fabric Loader</li>\n<li>（選填）與 MaLiLib 相容的 Mod Menu</li>\n</ul>\n<h2>快速上手</h2>\n<ol>\n<li>開啟 MaLiBind 的設定畫面（預設：<code>K</code> + <code>B</code>）。</li>\n<li>從下拉選單中選擇一個分類。</li>\n<li>快捷鍵初始狀態為空。請點擊「Load」按鈕以匯入原版按鍵綁定。</li>\n<li>調整快捷鍵並微調其觸發設定。</li>\n<li>點擊「Clear Vanilla」按鈕以移除原始的原版綁定，避免觸發重複。</li>\n</ol>\n<p>打造專屬體驗：MaLiBind 將控制權交還給你，同時保留熟悉的原版遊戲體驗。</p>\n<h2>何時應保留原版按鍵綁定</h2>\n<p>部分按鍵綁定可能無法與 MaLiLib 的系統完全相容。針對這些情況，建議保留原始的原版按鍵綁定，以確保其正常運作。範例如下：</p>\n<ul>\n<li>Minecraft 原版快捷欄快捷鍵（<code>1</code>–<code>9</code> 與 <code>F</code>）</li>\n<li>JEI 的所有按鍵綁定</li>\n<li>Xaero's Minimap 的「放大小地圖」功能（於設定為「按住」時）</li>\n</ul>\n<p>基於此原因，MaLiBind 預設會隱藏原版物品欄與 JEI 的按鍵綁定分類。若需更改此設定，請在設定畫面的 <code>Generic</code> 標籤頁中編輯 <code>ignoredCategories</code> 列表。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

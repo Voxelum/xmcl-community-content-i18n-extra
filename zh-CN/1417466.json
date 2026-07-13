@@ -1,0 +1,6 @@
+{
+  "bodyHash": "98999f2fb9503b42",
+  "content": "\n\n<div>本模组优化了&nbsp;<strong>CompoundTag 类</strong>中的多种方法：</div>\n<ol>\n<li>针对各类 <code>get</code>&nbsp;方法：在原版游戏中，它会先调用&nbsp;<code>contains</code>&nbsp;方法检查键是否存在，随后再调用&nbsp;<code>get</code>&nbsp;方法。这会导致&nbsp;<strong>两次 Map 查找</strong>。本模组将这两项操作合并为一次，并启用了内联优化，从而大幅提升了查找速度。</li>\n<li>优化了类的迭代逻辑：将原本使用&nbsp;<code>keySet</code>&nbsp;配合&nbsp;<code>get</code>&nbsp;的遍历方式，替换为&nbsp;<strong>同时遍历键与值</strong>的模式，从而避免了迭代过程中的大量查找操作。</li>\n<li>优化了其他相关类中涉及 <code>get</code>&nbsp;方法的各类操作。</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

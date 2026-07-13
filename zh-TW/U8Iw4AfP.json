@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a6a71de673c220d6",
+  "content": "\n\n![Vanilla](https://cdn.modrinth.com/data/cached_images/43e462954e4d32dd862930f9f091a20fdf9cec81.webp)\n\n### 概述\n讓超過 250 個模組及原版礦石具備發光效果！後續更新將持續新增更多模組支援，歡迎提出需求 :)\n\n- 最佳化僅載入您已安裝模組所需的資源，與傳統資源包相比大幅縮短載入時間。依我的經驗，可快上 30 至 120 秒：[影片比較](https://youtu.be/iRQeCUUSO58)\n- 提供遊戲內設定，可微調亮度或單獨關閉特定礦石的發光效果。\n- 無需額外安裝第三方發光模組\n\n<details>\n<summary>開發願景</summary>\n\n我計畫盡可能納入更多模組的支援，讓它幾乎能完美搭配各類整合包。本模組在設計上已確保與各種模組版本高度相容。\n\n若您發現已支援模組中的某些礦石未正常發光，或是使用了舊版材質，歡迎留言告知該模組的名稱、所使用的模組載入器以及 Minecraft 版本。\n\n</details>\n\n### 未來計畫：\n\n- 新增對更多 Minecraft 版本的支持。\n- 以及更多功能...\n\n##  🔍 發光礦石官方網站：\n\n**您可以在我的網站上查看支援的模組列表與使用說明：**\n\n[https://deftesthawk.github.io/glowing-emissive-ores/requirements-all/](https://deftesthawk.github.io/glowing-emissive-ores/requirements-all/?variant=mod)\n\n\n**如果您覺得這個模組有幫助，歡迎考慮贊助我的 [Ko-Fi](https://ko-fi.com/deftesthawk)，我在開發與更新此模組上投入了大量時間。**\n\n\n### **我的其他專案：**\n### [Modrinth](https://modrinth.com/user/deftesthawk)\n### \n### [CurseForge](https://www.curseforge.com/members/deftesthawk/projects)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

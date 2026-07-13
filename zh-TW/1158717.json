@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3aad8b30d6960c76",
+  "content": "\n\n<p>本模組旨在為激烈的戰鬥增添多種武器灌注效果，可在戰鬥過程中動態啟用，為使用者提供輕微的優勢。</p>\n<p>目前該模組包含以下灌注效果：</p>\n<h2>蝕毒灌注</h2>\n<ul>\n<li>賦予中毒與腐敗效果</li>\n<li>成功格擋時損傷對手的武器。</li>\n</ul>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_5d251f87-d9f3-4254-85a6-a00d1a44a674.gif\" width=\"396\" height=\"223\"></p>\n<h2>熾焰灌注</h2>\n<ul>\n<li>命中時使目標燃燒</li>\n<li>格擋時若耐力耗盡，將引發爆炸。此舉會將所有附近敵人擊退，消耗你的灌注效果並損壞武器。</li>\n</ul>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_a63b038b-77a4-44bc-97de-f7ee03a90412.gif\" width=\"402\" height=\"226\"></p>\n<h2>雷光灌注</h2>\n<ul>\n<li>造成額外的穿透護甲傷害。</li>\n<li>成功格擋時使對手陷入眩暈。</li>\n</ul>\n<h2>霜雪灌注</h2>\n<ul>\n<li>每命中 3 次疊加一次緩速與虛弱效果，最高可疊加至 4 級。</li>\n</ul>\n<p>所有灌注藥水亦可投擲以觸發相應效果（例如閃電藥水可使附近實體眩暈）。可灌注的武器可透過對應的標籤（tag）進行添加。</p>\n<p>處於激活狀態的灌注武器將顯示類似附魔的光澤、粒子效果，以及一個顯示剩餘持續時間的覆蓋圖層。武器的拖尾軌跡也會受到灌注效果的影響。</p>\n<p>&nbsp;</p>\n<p><span style=\"color:#800000\"><em>&nbsp;注意： </em></span></p>\n<p><span style=\"color:#800000\"><em>預設情況下僅部分鐵製武器具備可灌注標籤，若希望其他武器也能灌注，需將其加入「applicable」標籤中。</em></span></p>\n<p><span style=\"color:#800000\"><em>「length_long」與「length_medium」標籤也可作為快速調整武器粒子數量的捷徑。</em></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

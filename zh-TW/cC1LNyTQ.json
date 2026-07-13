@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dAowWJWVZno=",
-  "content": "## 抗性平衡器\n\n<center>適用於 Minecraft 1.17-1.21.1</center>\n\n需要 [Necronomicon API](https://www.curseforge.com/minecraft/mc-mods/necronomicon) 和 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)。</center>\n[需安裝連接器以支援 (Neo)Forge。](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector)\n\n<center>輕量級伺服端模組，可自訂抗性效果的傷害減免計算公式。同時能加入簡易減傷機制，例如每級減少 5% 傷害。</center>\n\n### **開發動機？**\n\n<center>雖然抗性在原版遊戲中表現優異，但許多模組也使用此效果，而預設值過於強大。本模組讓模組包開發者能自由定義抗性的實際效果。想削弱？請便。想強化？我不會批評。</center>",
+  "bodyHash": "5856e1ffd50a750b",
+  "content": "\n\n## 抗性平衡器\n\n<center>適用於 Minecraft 1.17-1.21.1</center>\n\n需要 [Necronomicon API](https://www.curseforge.com/minecraft/mc-mods/necronomicon) 與 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)。</center>\n[需要 (Neo)Forge Connector。](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector)\n\n<center>輕量級的伺服器端模組，允許自訂公式來計算抗擊打效果的傷害減免。同時也支援設定簡單的固定減傷，例如每級減少 5% 的傷害。</center>\n\n\n\n### **為什麼要製作這個模組？**\n\n\n\n<center>雖然抗擊打效果在原版中表現良好，但許多模組都會使用此效果，預設下往往過於強大。本模組讓整合包開發者能自由定義該效果的實際強度。想讓它變弱？請便。想讓它變強？我也絕不反對。</center>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

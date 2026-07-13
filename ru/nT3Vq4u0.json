@@ -1,6 +1,6 @@
 {
-  "bodyHash": "IvX0rRqtcn8=",
-  "content": "# Больше не требуется с версией Sinytra Connector v2.0.0-beta.10!\n\n***\n\nЭтот мод реализует обходную доработку для [https://github.com/Sinytra/Connector/issues/1343](https://github.com/Sinytra/Connector/issues/1343), которая предотвращает плавание (и вызывает несколько других проблем) при одновременной установке Sinytra Connector и определённых модов Fabric. Он будет удалён после того, как проблема будет надлежащим образом устранена в исходном репозитории.\n\nБолее конкретно, этот мод исправляет встроенные атрибуты NeoForge после того, как Sinytra Connector случайно делает их равными null — включая SWIM_SPEED.",
+  "bodyHash": "80b5e62e21b33de5",
+  "content": "\n\n# Утратил актуальность, начиная с Sinytra Connector v2.0.0-beta.10!\n\n***\n\nДанный мод реализует обходное решение для [https://github.com/Sinytra/Connector/issues/1343](https://github.com/Sinytra/Connector/issues/1343), которое предотвращает плавание (и вызывает ряд других проблем) при одновременной установке Sinytra Connector и определённых модов для Fabric. Он будет удалён, как только проблема будет должным образом исправлена в основном репозитории.\n\nБолее конкретно, этот мод восстанавливает встроенные атрибуты NeoForge после случайного обнуления их Sinytra Connector — включая SWIM_SPEED.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

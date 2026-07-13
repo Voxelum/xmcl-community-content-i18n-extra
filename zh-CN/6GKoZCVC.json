@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a1a27a35b6daa2a1",
+  "content": "\n\n当玩家受到致命伤害时，将进入濒死状态。此时可被复活，或通过物品延长濒死时间，否则会直接死亡。\n\n可通过配置文件进行调整。\n\n| 配置项 | 描述 |\n| :--- | :--- |\n| `reviveTime` | 复活玩家所需的刻数。 |\n| `reviveItems` | 可用于复活玩家的物品。 |\n| `extendItems` | 用于延长复活时间的物品。示例：`modid:item:ticks`。 |\n| `healthAfterRevive` | 复活后的生命值。 |\n| `excludedDamage` | 必定致死伤害类型。 |\n\n### 警告：\n本模组专为多人游戏设计。若您计划将其用于单人游戏，请勿安装，因为目前尚无单人游戏相关功能（但已在开发计划中）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

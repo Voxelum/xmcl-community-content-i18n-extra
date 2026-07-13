@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dec7117f582b842e",
+  "content": "\n\n眾所周知，Minecraft 1.20+ 之後 Mojang 更改了 GUI 圖檔，\n因此舊版材質包的介面通常無法正常使用。\n於是我製作了 Soartex Fanver GUI 材質包。\n\n搭配原版材質包使用：\nhttps://www.curseforge.com/minecraft/texture-packs/soartex-fanver-vanilla\nhttps://www.curseforge.com/minecraft/texture-packs/grove-vanilla\n\n已適配新版 GUI。如有問題歡迎回報。\n僅供 1.21.8 版本使用——在其他版本或許能運作，但可能會遇到問題。\n歡迎提供意見回饋。接受 Pull Request：\nhttps://github.com/Muruaaki/SoartexFanverGUI",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

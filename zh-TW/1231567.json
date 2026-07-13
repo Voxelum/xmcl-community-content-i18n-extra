@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7e7dba9dfcaca39f",
+  "content": "\n\n<p>此 API 的特色：</p>\n<ul>\n<li>物品欄 GUI API</li>\n<li>Brigadier 的 Kotlin 封裝</li>\n<li>用於建立複雜&nbsp;<code>Text</code>&nbsp;物件的 Kotlin DSL</li>\n<li>協程工具與任務</li>\n<li>Minecraft 類別的 kotlinx.serialization 支援</li>\n<li>計分板（側邊板）API</li>\n<li><code>ItemStack</code>&nbsp;工具函式</li>\n<li>使用 kotlinx.serialization 將任何類別序列化為 NBT</li>\n<li>NBT 建構器</li>\n<li>用於在區塊、實體等儲存持久資料的 API</li>\n<li>基於 kotlinx.serialization 的網路通訊（封包 c2s、s2c 與 c2c）</li>\n<li>Kotlin Compose UI 支援</li>\n<li>針對實體、世界等的一般擴充功能</li>\n<li>幾何工具\n<h2><span>與官方版本的差異在於，此版本已更新至 1.20.1，未來可能會繼續更新</span></h2>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

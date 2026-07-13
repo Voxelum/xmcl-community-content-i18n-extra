@@ -1,0 +1,6 @@
+{
+  "bodyHash": "699d5f404bbd83f2",
+  "content": "\n\n# Jade Addons (Fabric)\n\n本模组为 [Jade 🔍](https://modrinth.com/mod/jade) 1.18+ 提供了其他模组的集成支持。\n\n### 当前支持：\n\n- 通用\n  - 需手持或装备自定义物品方可使用 Jade\n- Create\n  - 精确的装置射线投射，并显示装置内的实际方块\n  - 装置容器\n  - 烈焰燃烧器燃料信息\n  - 制作蓝图结果物品\n  - 指示牌物品\n  - 不再忽略弧形轨道\n  - IO 过滤器信息\n  - 隐藏强力胶实体\n  - 氧气罐空气余量\n  - 将护目镜提示词集成至 Jade（默认禁用）\n- Lootr\n  - 基于玩家的库存显示\n  - 刷新与腐化时间\n- Modern Industrialization\n  - 能量\n  - 电缆与管道信息\n- Supplementaries\n  - 伪装受陷阱影响的礼物盒\n  - 隐藏礼物盒或地垫中的物品\n- Artifacts\n  - 伪装拟态怪\n\n### 整合包政策\n\n只要你的整合包仅发布于 CurseForge 或 Modrinth，即可将其添加至该整合包中。\n\n[![想要支持我以及模组的开发吗？BisectHosting 是完美的解决方案。新客户可使用优惠码 \"snownee\" 在购买游戏服务器首月时享受 25% 的折扣。凭借全天候客服与快速响应，您将体验到满足各类游戏需求的一流服务。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/oktbru)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

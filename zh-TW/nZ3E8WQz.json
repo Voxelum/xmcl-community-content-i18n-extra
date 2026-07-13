@@ -1,0 +1,6 @@
+{
+  "bodyHash": "119d28d649100730",
+  "content": "\n\n# CrashPatch\n\n<img src=\"https://wsrv.nl/?url=https%3A%2F%2Fpolyfrost.org%2Fimg%2Fcompact_vector.svg&n=-1&w=1000\" width=56 /> ![Dev Workflow Status](https://img.shields.io/github/v/release/Polyfrost/CrashPatch.svg?style=for-the-badge&color=1452cc&label=release)\n\n### 防止遊戲因崩潰而關閉！\n\nCrashPatch 是將 BetterCrashes（Minecraft 1.7.10 模組）移植至 Minecraft 1.8.9 的模組，而 BetterCrashes 本身則是 VanillaFix（Minecraft 1.12.2 模組）的移植版本。\n\nCrashPatch 的核心機制是在遊戲外部套用 try-catch 區塊，當發生異常（即崩潰）時，能夠阻止遊戲直接關閉。\n\n當 CrashPatch 偵測到崩潰時，會顯示一個畫面，你可以在其中選擇返回遊戲繼續遊玩、尋找解決崩潰的方法，或是開啟／上傳崩潰紀錄檔。\n\n若 Minecraft 在載入或初始化階段發生崩潰，則無法恢復遊玩狀態，但你仍可查看可能的解決方案，以及開啟與上傳崩潰紀錄檔。\n\n可自訂的選項包含：\n- 是否在啟動或遊戲進行時攔截崩潰\n- 顯示斷線原因\n- 強制關閉前的崩潰次數上限\n- 是否對崩潰紀錄檔進行反混淆處理\n- 上傳紀錄檔的目標位置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

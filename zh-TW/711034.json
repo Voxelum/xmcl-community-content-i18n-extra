@@ -1,0 +1,6 @@
+{
+  "bodyHash": "661ab10fc4a82e51",
+  "content": "\n\n<h1>液體燃燒器</h1>\n<p>難道你不覺得烈焰燃燒器無法使用液體作為燃料很奇怪嗎？現在終於可以了！\n液體燃燒器讓烈焰燃燒器能夠使用液體來加熱並觸發超熱效果。\n此功能同樣採用標籤機制，與原版 Create 模組的燃料設定一致，因此任何模組的液體皆可透過數據包進行新增。</p>\n<h3>如何新增液體：</h3>\n<p>可透過配方系統來新增液體。\n範例：\n<code>data/liquidburner/recipes/lavaburning.json</code></p>\n<pre><code>{```  \n    ```% 配方類型 ```  \n   ``` &quot;type&quot;: &quot;liquidburner:liquidburning&quot;, ```  \n```     % 液體類型 ```  \n  ```  &quot;fluid&quot;: &quot;minecraft:lava&quot;, ```  \n  ```   % 常規燃燒時間 ```    \n   ``` &quot;burntime&quot;: &quot;20000&quot;, ```    \n   ``` %（選填）超熱時間 ```  \n   ``` &quot;superheattime&quot; : &quot;0&quot; ```  \n```} \n</code></pre>\n<p>對於具有超熱時間的液體，燃燒時間代表燃料耗盡後持續運作多久。</p>\n<h1>已棄用（版本 0.2 及以下）</h1>\n<ul>\n<li>建立數據包／模組</li>\n<li>前往或建立資料夾 <code>data/liquidburner/tags/fluids</code></li>\n<li>將你的液體加入 <code>blaze_burner_fuel_regular</code> 以作為常規燃料</li>\n<li>將你的液體加入 <code>blaze_burner_fuel_special</code> 以作為超熱燃料</li>\n</ul>\n<h3>預設常規燃料：</h3>\n<ul>\n<li>熔岩</li>\n</ul>\n<h3>預設超熱燃料：</h3>\n<ul>\n<li>匠魂的灼熱之血（Tinker's Blazing Blood）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

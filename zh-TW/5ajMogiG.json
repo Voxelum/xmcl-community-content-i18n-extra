@@ -1,6 +1,6 @@
 {
-  "bodyHash": "nKmwtKIEtOk=",
-  "content": "## Ice And Fire Patcher\n\n此模組用於修復 [Ice And Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) 模組中的部分嚴重錯誤與崩潰問題。\n\n目前維護版本：1.16.5、1.18.2、1.19.2。\n\n**1.15.2 與 1.17.1 因玩家數量過少，已停止維護。**\n\n**1.20.1 已停止維護，請改用 [IceAndFire CE](https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce)。**\n\n## 目前已修復：\n\n- Citadel 在主線程獲取 Patreon 贊助者資訊，導致啟動速度變慢（現改為獨立線程執行）。\n- 龍之吐息會造成伺服器嚴重延遲。\n- 龍之吐息的粒子渲染錯誤。\n- 標題畫面效能低落，並恢復了渲染淡入效果。\n- 模型動畫器在動畫結束後未清除快取，導致記憶體洩漏。\n- 重新加入世界後，小精靈罐的顏色顯示不正確。\n- 鷹馬會飛得太高且難以控制。\n- 火龍骨劍、火龍鋼劍及工具無法燒烤掉落物。\n\n## 增強功能\n\n- 新增 `iceandfire:pixie_stolen_blacklist` 標籤。\n- 將部分金質物品加入 `minecraft:piglin_loved` 標籤，使豬布林能拾取它們。\n\n**加入我們的 [Discord](https://discord.gg/NDzz2upqAk) 回報您希望修復的錯誤。**",
+  "bodyHash": "135900810863de9a",
+  "content": "\n\n## 冰與火修復模組\n\n本模組旨在修復 [Ice And Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) 中的若干嚴重錯誤與崩潰問題。\n\n目前支援的版本：1.16.5、1.18.2、1.19.2。\n\n**由於玩家人數稀少，已停止維護 1.15.2 與 1.17.1 版本。**\n\n**已停止維護 1.20.1 版本，請改用 [IceAndFire CE](https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce)。**\n\n## 目前已修復的問題：\n\n- Citadel 在主執行緒抓取 Patreon 資料導致啟動緩慢。（現已改於獨立執行緒運行）\n- 龍息會導致伺服器嚴重延遲。\n- 龍息的粒子渲染錯誤\n- 標題畫面與恢復渲染漸變效果效能低落。\n- 模型動畫器在播放後未清除快取，導致記憶體泄漏。\n- 重新進入世界後，妖精瓶顏色顯示不正確。\n- 鷹馬飛行高度過高且表現不佳。\n- 火焰龍骨劍、火焰龍鋼劍與相關工具無法用來烹飪掉落物。\n\n## 功能增強\n\n- 新增 `iceandfire:pixie_stolen_blacklist` 標籤。\n- 將部分金色物品加入 `minecraft:piglin_loved` 標籤，使豬布林能夠拾取。\n\n**歡迎加入我們的 [Discord](https://discord.gg/NDzz2upqAk) 回報您希望修復的錯誤**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

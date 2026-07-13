@@ -1,6 +1,6 @@
 {
-  "bodyHash": "rdXI0p6jwdk=",
-  "content": "Clumps 将经验球聚合成单个实体，以减少在小范围内存在大量经验球时造成的卡顿。除此之外，它还让玩家在触碰到经验球的瞬间立即拾取它们，这样你就不会被一堆经验球糊在脸上。\n\n### 我需要在客户端还是服务器端安装？\n* 对于 **1.17 或更新的版本**，仅需在**服务器端**安装。\n* 对于**更旧的 Minecraft 版本**，你需要在**两端**都安装。\n\n如果你想支持我的模组开发工作，可以通过 **[![Patreon 徽标](https://i.imgur.com/CAJuExT.png) Patreon](https://www.patreon.com/jaredlll08)** 成为赞助者。\n\n[![Nodecraft 赞助横幅](https://assets.blamejared.com/nodecraft/jared.jpg)](https://nodecraft.com/r/jared)\n\n**本项目由 Nodecraft 赞助。使用代码 [JARED](https://nodecraft.com/r/jared) 首次服务可享七折优惠！**",
+  "bodyHash": "161e62c1c47b958f",
+  "content": "\n\nClumps 将经验球聚合成一个实体，以减少小范围内出现大量经验球时的卡顿问题。此外，它还能让经验球一接触到玩家就立即被拾取，这样您就不会被眼前的一大堆经验球挡住视线。\n\n### 需要在客户端还是服务器端安装？\n* 对于 **1.17 及更高版本**，仅需在 **服务器端** 安装。\n* 对于 **较旧的 Minecraft 版本**，则需在 **客户端和服务器端** 均进行安装。\n\n如果您想支持我的模组开发工作，可以通过 **[![Patreon logo](https://i.imgur.com/CAJuExT.png) Patreon](https://www.patreon.com/jaredlll08)** 成为赞助者。\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/jared.jpg)](https://nodecraft.com/r/jared)\n\n**本项目由 Nodecraft 赞助。使用代码 [JARED](https://nodecraft.com/r/jared)，您的首月服务可享 30% 折扣！**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

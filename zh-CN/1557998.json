@@ -1,0 +1,6 @@
+{
+  "bodyHash": "249b3116a8ad0e3a",
+  "content": "\n\n<p><a href=\"https://discord.gg/XgH4EpyPD2\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/1321365/description_19767e94-ef82-4569-92c6-b1e8b60e6e07.png\" alt=\"图片\"></a></p>\n<blockquote>\n<p><em>弯曲世界。保持性能。</em></p>\n</blockquote>\n<p>引入全新的鱼眼镜头效果，为《我的世界》带来微妙的广角相机体验。屏幕从中心向外动态扭曲，创造出更具沉浸感和风格化的视角，且不影响游戏玩法机制或世界几何结构。</p>\n<h2><img src=\"https://cdn.modrinth.com/data/oTF1LJqm/images/0c9d6d6c0d3139cf5f9e2c8b4be1a45fcfa0e344.png\" alt=\"村庄\"></h2>\n<p><img src=\"https://cdn.modrinth.com/data/oTF1LJqm/images/88d6d2c4da74f9c448fa71fa9fc546f1f4266fab.png\" alt=\"村庄 2\"></p>\n<h3>🐟 鱼眼镜头畸变</h3>\n<p>自定义的屏幕空间鱼眼着色器现在通过径向UV畸变重新映射最终渲染图像。该效果在屏幕边缘附近最强，而在中心区域保持柔和，确保游戏过程中的可见性和可用性。</p>\n<p>与激进的新奇鱼眼滤镜不同，此实现旨在补充探索、电影化镜头、内容创作和截图，同时保持画面干净。</p>\n<h3>🎥 专为创作者打造</h3>\n<p>新的镜头效果为录屏和截图增添了独特的视觉标识，使景观显得更宏大，建筑更宏伟，动作更具动感。</p>\n<p>无论您正在制作：</p>\n<ul>\n<li>YouTube 视频</li>\n<li>《我的世界》电影化展示</li>\n<li>着色器对比</li>\n<li>TikTok 短片</li>\n<li>缩略图渲染</li>\n</ul>\n<p>鱼眼效果都能提供额外的视觉深度与动感层次。</p>\n<h3>⚙️ 轻量级屏幕空间处理</h3>\n<p>畸变完全作为后处理通道应用，使用屏幕空间纹理坐标重映射。无需额外的几何计算、光线步进或重型渲染通道。</p>\n<h3>🎛️ 未来可扩展性</h3>\n<p>鱼眼系统设计为未来基于镜头效果的基础，包括可调节的畸变强度、电影化相机预设，以及计划在未来版本中推出的高级后处理选项。</p>\n<hr>\n<p><em>0.5 版标志着迈向更电影化视觉管线迈出的第一步，同时保持 Soleron 轻量、可配置且对创作者友好。</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

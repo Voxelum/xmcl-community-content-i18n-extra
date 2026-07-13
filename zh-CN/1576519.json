@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1949350edd78343e",
+  "content": "\n\n<p>Drive-By-Sable 是 Drive-By-Wire 的一个分支，修复了原版的一些问题。</p>\n<p><strong>本模组无需安装 DRIVE-BY-WIRE 即可正常运行</strong></p>\n<p>注意：在测试中可能仍有我尚未发现的漏洞。我是一名新手开发者。</p>\n<p>已知问题：</p>\n<ul>\n<li>大部分问题已在 CurseForge 上的最新正式版中修复。</li>\n<li>方块音效仍不符合预期，正在修复中。</li>\n<li>碰撞箱形状仍未与新模型完全匹配。</li>\n<li>对“模拟”创造模式标签页的横幅不满意（风格不匹配）。</li>\n<li>鼠标悬停提示无法正常使用。</li>\n<li>Ponder 功能无法正常使用。</li>\n</ul>\n<p>这些问题的修复将在下一个测试版中推出。目前，该模组已稳定运行并实现了最初的目标。</p>\n<p>原版 Drive-By-Wire with Sable 页面：&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/drive-by-wire-with-sable\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/drive-by-wire-with-sable</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

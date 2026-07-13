@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e695427b3e3c0450",
+  "content": "\n\n<h1>Автоматизация Item Scrapper</h1>\n<p>Item Scrapper Automation — это небольшой аддон для Item Scrapper на Forge 1.20.1.</p>\n<p>Он добавляет поддержку автоматизации для блока Скраппера:</p>\n<ul>\n<li>Обработчики предметов для автоматизации через трубы и воронки.</li>\n<li>Горизонтальные грани принимают предметы, подходящие для переработки.</li>\n<li>Нижняя грань предоставляет выходные слоты для извлечения.</li>\n<li>Deployer из Create может использовать Молот для скраппинга для автоматизации ударов по предмету.</li>\n<li>Общая настройка конфигурации определяет, насколько каждый удар молота Deployer продвигает процесс переработки.</li>\n</ul>\n<h2>Зависимости</h2>\n<ul>\n<li>Item Scrapper 1.3.0+ <a href=\"https://www.curseforge.com/minecraft/mc-mods/item-scrapper\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/item-scrapper</a></li>\n<li>Create 0.5.1.c+ <a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/create</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

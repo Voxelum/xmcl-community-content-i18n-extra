@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9cff0958d31ee256",
+  "content": "\n\n![隱藏不死圖騰](https://cdn.modrinth.com/data/cached_images/fb0f5bb0bc9e316c46ea7f496faaa3ba7f4f1872.jpeg)\n\n**當不死圖騰觸發時保持畫面清晰。**\n\n這個輕量級的客戶端資源包移除了閃爍的不死圖騰視覺特效與狀態效果漩渦，並將預設的圖騰音效替換為自訂音效。非常適合 PvP、極限模式玩家，以及需要乾淨錄影畫面的創作者。\n\n**主要功能**\n\n- 消除「圖騰觸發」雜訊：隱藏不死圖騰觸發時的綠色漩渦與閃光粒子。\n- 無狀態效果光環：移除玩家與生物周圍的藥水/環境效果粒子。\n- 自訂圖騰音效：當圖騰為您擋下致命傷害時，會播放自訂音效（已內建於資源包中）。\n- 零效能消耗：僅覆蓋純材質與音效，無需安裝光影模組或其他插件。\n\n**相容性**\n\n- 版本：Minecraft Java 版。\n- 支援版本：1.16 - 1.21.x。\n- 適用環境：原版、Fabric/Quilt、Forge 及常見客戶端。\n\n**安裝方式**\n\n下載 ZIP 檔案（請勿解壓縮）。\n\n將其放入以下資料夾：\nWindows：%appdata%/.minecraft/resourcepacks\nmacOS：~/Library/Application Support/minecraft/resourcepacks\nLinux：~/.minecraft/resourcepacks\n\n進入遊戲後，前往 選項 → 資源包，將「No Totem Pop Animation & Particles」拖曳至已啟用列表的最頂端。\n\n點擊 完成。若音效未立即變更，請按下 F3 + T 重新載入資源。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

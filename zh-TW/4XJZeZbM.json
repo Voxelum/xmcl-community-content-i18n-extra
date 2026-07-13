@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4TnadXwLJ2s=",
-  "content": "![logo](https://imgur.com/xnTQAch.png\"logo\")\n\n## 主要用於我們模組的 API，提供特定功能所需的工具。\n**需要安裝 Architectury API！**\n<br/><br/>\n\n\n### **木材 API**\n一個輕量且易於使用的木材 API，協助註冊船隻與告示牌。\n\n### **合成書**\n一款原版風格的合成書 - 只需建立兩個 Java 類別即可完成。\n\n### **渲染 API**\n適用於方塊與盔甲的渲染系統。方便製作 3D 渲染的盔甲。\n\n### **條件式合成**\n為 Forge 與 Fabric 提供簡單的條件式合成。\n\n### **配置**\n一些輔助工具，用於建立附註解的設定檔。\n\n***你可以在*** [這裡](https://github.com/Cristelknight999/DoAPI#readme \"Github\") ***找到一些範例。***",
+  "bodyHash": "bcff3bf980cff771",
+  "content": "\n\n![logo](https://imgur.com/xnTQAch.png\"logo\")\n\n## 主要供我們的模組使用，為特定功能提供實用工具的 API。\n**需要 Architectury API！**\n<br/><br/>\n\n\n### **Wood API**\n一款輕量且易於使用的 Wood API，可協助註冊船隻與告示牌。\n\n### **Recipe Book**\n採用原版風格的配方書——僅需建立兩個 Java 類別即可達成。\n\n### **Rendering API**\n專為方塊與盔甲設計的渲染系統，讓建立 3D 渲染盔甲變得更加輕鬆。\n\n### **Conditional Recipes**\n適用於 Forge 與 Fabric 的簡易條件配方。\n\n### **Config**\n協助建立帶有註解的設定檔的實用工具。\n\n***您可以在[此處](https://github.com/Cristelknight999/DoAPI#readme \"Github\")找到一些範例***",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

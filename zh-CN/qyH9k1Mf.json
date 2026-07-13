@@ -1,0 +1,6 @@
+{
+  "bodyHash": "07a71a785ccac38e",
+  "content": "\n\n![在橙色蛙明灯和扭曲藤蔓旁使用的梯子](https://cdn.modrinth.com/data/cached_images/9ecd273aae2e51766661feec8fcf7b8155eaf09f.png)\n# Minecraft 的 Evol 3D 梯子 \n\n厌倦了违背物理定律的扁平贴图梯子了吗？**Evol 的 3D 梯子**是一款资源包，用精细、高质量的 3D 模型替换原版 Minecraft 梯子，为你的建筑带来全新的深度与真实感。\n\n本资源包面向所有玩家，从原版玩家到高端光影爱好者皆宜。内含基于物理的渲染（PBR）纹理贴图，配合兼容的光影包使用时，梯子将能真实响应光照，呈现出逼真的反射与表面细节。\n\n### 特性 \n\n* **高质量 3D 模型：** 完全全新、精心雕琢的梯子 3D 模型。 \n* **PBR 纹理：** 包含高光、法线和粗糙度贴图，在支持的光影下呈现惊艳的真实感。 \n* **光影兼容：** 经过广泛测试，与最流行的支持 PBR 的光影包搭配效果极佳。 \n* **原版友好：** 即使不使用光影，本包依然能提升梯子的外观，提供比默认更好的模型。 \n* **无缝融合：** 设计完美契合原版美术风格。\n\n### 安装方法 \n\n1. 点击**下载**按钮获取资源包最新版本。 \n2. 启动已安装 OptiFine 或 Iris 的 Minecraft。 \n3. 进入**选项...** > **资源包...** \n4. 点击**打开资源包文件夹**。 \n5. 将下载的 `.zip` 文件拖入该文件夹。 \n6. 返回 Minecraft，在可用资源包列表中选择“Evol's 3D Ladders.zip”以启用它。 \n7. 为确保完整效果，请前往**选项...** > **视频设置...** > **光影...** 启用你喜欢的兼容 PBR 的光影包！\n\n### 光影兼容性 \n\n本资源包的 PBR 功能已进行测试，已知可与以下热门光影包完美配合： \n* BSL Shaders \n* Complementary Shaders (Unbound & Reimagined) \n* SEUS PTGI \n* Sildur's Vibrant Shaders (Extreme) \n* Continuum 2.1\n如果你的光影包支持 LabPBR 或 OldPBR 标准，应该也能完美运行！\n\n### 许可协议 \n\n本项目采用 Creative Commons BY-NC-SA 4.0 许可证授权。在适当归属的前提下，您可以自由地出于非商业目的使用、分享和修改本资源包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

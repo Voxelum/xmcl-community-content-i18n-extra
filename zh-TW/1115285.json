@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/viEL831o1o=",
-  "content": "<p>Almanac 是一個由我的模組使用的程式庫，主要包含多個模組之間共享、與載入器無關的通用代碼，以避免代碼重複。</p><p>Almanac 本身除了修復空白標籤導致物品無法堆疊的問題外，並未添加太多其他功能。</p><a href=\"https://discord.gg/aPPEPJWG39\" rel=\"nofollow\">  \n<img src=\"https://i.ibb.co/GFT3JFP/req-discord-130x130.png\" alt=\"Discord 伺服器邀請連結\">  \n</a>",
+  "bodyHash": "1b29dc653c6a9e3d",
+  "content": "\n\n<p>Almanac 是我開發的模組所共用的函式庫，主要提供不依賴特定載入器的共用程式碼，以避免不同模組間重複編寫相同的程式。</p>\n<p>單獨使用 Almanac 幾乎不會帶來新功能，僅修復了因空標籤導致物品無法堆疊的問題。</p>\n<a href=\"https://discord.gg/aPPEPJWG39\" rel=\"nofollow\">  \n<img src=\"https://i.ibb.co/GFT3JFP/req-discord-130x130.png\" alt=\"加入 Discord 伺服器連結\">  \n</a>",
   "contentType": "text/html",
   "type": "curseforge"
 }

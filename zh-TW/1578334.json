@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d9ccc31c4e510984",
+  "content": "\n\n<h1>卡通夢境著色器</h1>\n<p>一款專為 Minecraft（OptiFine）設計的風格化卡通著色器包，透過賽璐珞風格與強烈光影，將您的世界轉化為充滿活力、手繪般的夢幻景觀。</p>\n<h2>功能特色</h2>\n<ul>\n<li><strong>賽璐珞渲染（Cel-Shading）</strong> — 分明的光影帶讓所有物件呈現卡通或插畫風格</li>\n<li><strong>動態陰影</strong> — 跟隨太陽移動的柔和 PCF 陰影貼圖</li>\n<li><strong>體積光柱（God Rays）</strong> — 從太陽傾瀉而下的 volumetric 光柱效果</li>\n<li><strong>泛光（Bloom）</strong> — 明亮表面呈現柔和的光暈效果</li>\n<li><strong>環境光遮蔽（AO）</strong> — 在角落與縫隙處生成柔和的接觸陰影</li>\n<li><strong>邊緣輪廓</strong> — 根據深度資訊為幾何體添加細緻的描邊效果</li>\n<li><strong>水面特效</strong> — 菲涅爾反射、動態焦散光斑與鏡面高光</li>\n<li><strong>搖曳植被</strong> — 草叢、樹葉、花朵、農作物與熔岩皆會隨風擺動</li>\n<li><strong>動態火把照明</strong> — 溫暖且微微閃爍的火把光源</li>\n<li><strong>晝夜交替</strong> — 流暢的日出日落過渡，以及繁星閃爍的夜晚天空</li>\n<li><strong>水下特效</strong> — 潛入水中時產生扭曲感與藍色濾鏡效果</li>\n<li><strong>遠景霧氣</strong> — 地平線處的大氣薄霧效果</li>\n<li><strong>電影顆粒感與暗角</strong> — 細緻的後處理效果，營造電影級質感</li>\n</ul>\n<h2>系統需求</h2>\n<ul>\n<li>Minecraft Java 版</li>\n<li>OptiFine（任何近期版本）</li>\n</ul>\n<h2>支援版本</h2>\n<p>1.12.2 至 1.21.5+ 以及 26.1.x</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

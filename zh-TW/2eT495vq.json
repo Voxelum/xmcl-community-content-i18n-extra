@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2LiZNxizeLk=",
-  "content": "### Saturn for Minecraft Forge\n\n**Saturn** 是一款效能最佳化模組，旨在最佳化 Minecraft 的記憶體使用。它可以在用戶端、伺服器或兩者上安裝。\n\n**Saturn** 致力於從多方面最佳化記憶體使用，例如修正遊戲中的記憶體洩漏、減少 GC 堆積等。如果你想查看 **Saturn** 新增的所有最佳化功能，請點擊[此處](https://github.com/AbdElAziz333/Saturn/wiki/Saturn-Optimizations)。\n\n### 模組包許可\n\n當然可以，你可以將它包含在你的模組包中。\n\n### 問題與功能請求\n\n請使用頁面底部提供的問題追蹤器來回報錯誤、崩潰問題，或提出新功能建議。如果你希望以其他方式為本模組做出貢獻，我也非常樂意接受你的 Pull Request！\n\n如果你想支持我，可以使用我的代碼 **AbdElAziz333**，首次訂閱可享 25% 折扣，並與朋友一起暢玩！\n\n[![BisectHosting](https://i.imgur.com/ytD8AVA.png)](https://bisecthosting.com/AbdElAziz333)",
+  "bodyHash": "40c8f6f78461e8f5",
+  "content": "\n\n### 用於 Minecraft Forge 的 Saturn\n**Saturn** 是一款效能最佳化模組，專為優化 Minecraft 的記憶體使用而設計。它可安裝於客戶端、伺服器，或同時安裝於兩者。\n**Saturn** 致力於透過多種方式最佳化記憶體使用，例如修復遊戲內的記憶體洩漏、減少 GC 堆區使用量等。若想查看 **Saturn** 提供的所有最佳化項目，請點擊 [這裡](https://github.com/AbdElAziz333/Saturn/wiki/Saturn-Optimizations)。\n\n### 模組整合包使用許可\n\n當然，您可以將其加入您的模組整合包中。\n\n### 問題回報與功能建議\n\n請使用頁面底部連結的問題追蹤器回報程式錯誤與崩潰問題。若您想提出新功能建議，或希望以其他方式協助開發本模組，我也非常樂意接受 Pull Request！\n\n如果您想支持我，請使用優惠碼 **AbdElAziz333**，首月可享 25% 折扣，與好友們暢快遊玩！\n\n[![BisectHosting](https://i.imgur.com/ytD8AVA.png)](https://bisecthosting.com/AbdElAziz333)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c726205b9cce4ff4",
+  "content": "\n\n<h1>Celeritas/Nothirium 動態光源</h1>\n<h2>SodiumDynamicLights 於 1.12.2 針對 Celeritas 的分支版本</h2>\n<h2>執行此模組需要 Cleanroom Loader</h2>\n<p>儘管名稱如此，此模組<strong>並非僅限於 Celeritas/Nothirium</strong>。它可獨立運作，但為了獲得最佳效能，建議搭配支援<strong>延遲區塊更新（deferred chunk updates）</strong>的模組使用，例如：</p>\n<ul>\n<li><strong>Celeritas</strong></li>\n<li><strong>Nothirium</strong></li>\n<li><strong>Stellar Core</strong> <em>（請確認其設定檔中已啟用「Always defer chunk updates」）</em></li>\n</ul>\n<p>請從<a href=\"/linkout?remoteUrl=https%253a%252f%252fgit.taumc.org%252fembeddedt%252fceleritas\" target=\"_blank\" rel=\"nofollow\">此處</a>自行編譯 Celeritas，或直接下載<a href=\"https://github.com/kappa-maintainer/Celeritas-auto-build/releases\" target=\"_blank\" rel=\"nofollow\">自動建置的 JAR 檔案</a></p>\n<h3>特別感謝</h3>\n<ul>\n<li><strong>Txni</strong> &ndash; 開發原始版的 SodiumDynamicLights</li>\n<li><strong>Embeddedt</strong> &ndash; 創立 Celeritas，並因此激勵我進行此移植專案</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

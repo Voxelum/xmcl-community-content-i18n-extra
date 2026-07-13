@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c1de822d965ea084",
+  "content": "\n\n# 圆形方块\n\n一款为《我的世界》添加多种有趣圆形方块的模组。\n![预览](https://cdn.modrinth.com/data/vFFXUcKH/images/2711f95c0b0e188fa96c664c21bf62c0cbda424d.png)\n**可用的圆形方块**：\n- 圆柱体（1x1、2x2、3x3）\n- 四分之一圆柱体（仅支持 1x1）\n- 斜向管道（1x1、1x2、1x3、1x4、1x5，以及旋转变体）\n- 更多形状即将推出！\n\n\n请注意，当原版方块与四分之一圆柱体相邻放置时，四分之一圆柱体的光照效果可能与原版不完全一致。\n\n目前方块和物品尚未设置正式名称或翻译。\n\n本模组仅为概念验证。自 0.2.0 版本起，所有实心方块均可转换为圆柱体。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

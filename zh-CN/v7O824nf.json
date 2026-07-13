@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2715528fbde88517",
+  "content": "[Trinkets Canary](https://modrinth.com/mod/trinkets-canary) 的一个更新分支。\n\n在 26.1 及更高版本中，你应该改用 [Trinkets (Updated)](https://modrinth.com/mod/trinkets-updated)。\n\n由于 Trinkets Canary 的 GitHub 仓库已停止维护，且存在大量未修复的重大 bug，因此创建了此分支。它可作为 Trinkets Canary 的直接替代品，无论你是只想安装模组的用户，还是希望依赖该库进行开发的模组开发者。\n\n**在项目中使用**\n\n`build.gradle`\n```\nrepositories {\n    exclusiveContent {\n\t\tforRepository {\n\t\t\tmaven {\n\t\t\t\tname = \"Modrinth\"\n\t\t\t\turl = \"https://api.modrinth.com/maven\"\n\t\t\t}\n\t\t}\n\t\tfilter {\n\t\t\tincludeGroup \"maven.modrinth\"\n\t\t}\n\t}\n}\n\ndependencies {\n\tmodImplementation \"maven.modrinth:trinkets-continued:${project.trinkets_version}\"\n}\n```\n`gradle.properties`\n```\ntrinkets_version=3.12.0-26.1 # 请确保使用正确的版本\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

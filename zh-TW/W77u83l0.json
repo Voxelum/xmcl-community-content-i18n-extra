@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dQB9lPsP8eA=",
-  "content": "為 [The Aether](https://modrinth.com/mod/aether) 新增更多 [Farmer's Delight](https://modrinth.com/mod/farmers-delight) 砧板配方\n\n- 剝皮、拆解、回收天根木的木材\n- 琥珀收割者可以在砧板上剝除金橡木以獲得琥珀與樹皮\n    - （Forge/NeoForge）其他斧頭也能剝除金橡木，但只會掉落樹皮\n    - （Fabric）其他斧頭無法在砧板上剝除金橡木\n- 更多花朵染料的配方（可提供染料的植物）\n- 皮革手套可回收（有機率獲得）皮革\n\n![木頭切割](https://cdn.modrinth.com/data/W77u83l0/images/5e575ce970dac6a4fed18705f3564056a97c39b0.png) ![花卉切割](https://cdn.modrinth.com/data/W77u83l0/images/325f6840a6bf0e9eceec245c9bb36d78ebf1380c.png) ![皮革手套切割](https://cdn.modrinth.com/data/W77u83l0/images/7bc1d4435fcc93e5653a557454f0b441f4553609.png)",
+  "bodyHash": "2b19ccc060f9f322",
+  "content": "\n\n為 [The Aether](https://modrinth.com/mod/aether) 新增更多 [Farmer's Delight](https://modrinth.com/mod/farmers-delight) 砧板配方\n\n- 針對 Skyroot 木材的樹皮、剝皮與回收功能\n- 琥珀採集者可在砧板上對 Golden Oak 進行剝皮，以獲得黃金琥珀與樹皮\n    - （Forge/NeoForge）其他斧頭可對 Golden Oak 進行剝皮，但僅會掉落樹皮\n    - （Fabric）其他斧頭無法在砧板上對 Golden Oak 進行剝皮\n- 從能產出染料的花朵中獲取更多染料\n- 皮革手套可回收為（機率獲得）皮革\n\n![木材切割](https://cdn.modrinth.com/data/W77u83l0/images/5e575ce970dac6a4fed18705f3564056a97c39b0.png) ![花朵切割](https://cdn.modrinth.com/data/W77u83l0/images/325f6840a6bf0e9eceec245c9bb36d78ebf1380c.png) ![皮革手套切割](https://cdn.modrinth.com/data/W77u83l0/images/7bc1d4435fcc93e5653a557454f0b441f4553609.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d08e759974a4caaf",
+  "content": "\n\n# Lunarian Dream\n_Lunarian Dream_ 是一款 Minecraft Fabric 模組，為遊戲增添了來自東方Project的「夢世界」維度（特別是 [Touhou 15 LoLK](https://store.steampowered.com/app/937580/Touhou_Kanjuden__Legacy_of_Lunatic_Kingdom/)）。\n\n_上海愛麗絲幻樂團擁有東方Project的版權，本人與此專案沒有任何關連_（願神保佑 ZUN）\n\n## 需求\n\n- [Blabber](https://modrinth.com/mod/blabber)\n- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- 搭載 Fabric Loader 的 Minecraft 1.20.1\n\n## 功能\n\n- 透過在深海或深暗域中找到稀有結構，傳送至夢世界。\n- 夢世界由黑曜石網格構成，並帶有自訂（但相當樸素）的天空著色器效果。\n- 在夢世界中尋找甜蜜多雷米的房屋（位於 x,z ≈ 0 附近，但高度較高）。\n- 透過 Blabber 與甜蜜多雷米進行對話與交易。\n- 探索地牢，面對危險的敵人以獲取匹配的戰利品，內容專為原版終局遊戲設計。\n- 戰利品僅包含原版物品，部分附帶無法正常獲得的附魔。此外還有 2 種全新的獨特附魔。\n- 透過死亡返回主世界（請小心，別摔斷腿）。 \n\n**前往 [GitHub](https://github.com/wdfeer/lunarian_dream) 瀏覽程式碼、分叉專案並建置屬於你自己的版本**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

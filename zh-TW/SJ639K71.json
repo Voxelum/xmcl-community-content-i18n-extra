@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0682310ccca602d0",
+  "content": "\n\n**需求：**\n\n**-Fresh Animation v1.9 或更高版本，建議 1.21.1 及以下版本使用 v1.9.2，1.21.5 及以上版本則使用 1.10.1！**\n\n-[Mob AI Tweaks](https://modrinth.com/mod/mob-ai-tweaks) 模組\n\n-Entity Model Features 或 OptiFine\n\n讓 Mob AI Tweaks 與 Fresh Animations 相容的資源包\n\n功能：\n\n-為掠奪者新增進食動畫。\n\n-重製骷髏的拉弓動畫。\n\n-優化凋靈骷髏與喚魔者的特殊攻擊動畫。\n\n-優化溺屍的游泳與投擲動畫。\n\n-悅灵的攻擊動畫。\n\n-以及更多內容！\n\n範例圖片：\n\n![流浪者對抗鐵傀儡，展示重製後的拉弓動畫](https://cdn.modrinth.com/data/cached_images/1cb50ccc9bd46081f59b76729b02ecdead84a8d0_0.webp)\n\n![掠奪者正在吃烤馬鈴薯](https://cdn.modrinth.com/data/cached_images/5a3e376eaa3c1ba9e3a48d4b3ea0e8a714b3a364_0.webp)\n\n載入順序：\n\n![載入順序](https://cdn.modrinth.com/data/cached_images/f604fc1a7a5616e03b9e41de550d5cae92a24827.png)\n\n**注意：** 並非所有 FA 擴展包都受支援，其中部分會進一步更改動畫，導致它們覆蓋此資源包的自訂動畫修復。遺憾的是，由於 EMF/OptiFine 的動畫引擎限制，我們無能為力。最佳的解決方案是針對這些資源包自行製作修復，但這可能會增加維護上的負擔。\n\n**已知問題：** 在 1.21.5-10 版本中，幼年骷髏的盔甲渲染不正確。這是 EMF 的問題！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

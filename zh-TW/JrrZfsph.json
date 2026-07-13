@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4dacf083e33f6bee",
+  "content": "\n\n# 輕量級物品欄整理\n適用於 Fabric 的簡易、輕量級物品欄整理工具（**支援多人遊戲！**）\n\n[![Discord](https://cdn.modrinth.com/data/cached_images/dc515688822a389965659424c3f76f454c60275f.png)](https://discord.gg/GTA4awvHfm)\n\n## 僅限客戶端\n\n![顯示容器內物品整理的 Gif](https://cdn.modrinth.com/data/cached_images/9b7401372909cc8d2c7fd5f2541b0ed397262571.gif)\n\n## 功能特色\n- 依字母與數字順序（或反向）排列物品\n- 將相同物品合併成堆疊\n- 支援以下容器：\n  - 箱子（單格／雙格、礦車、船等）\n  - 終界箱\n  - 木桶\n  - 潛影盒\n  - 玩家物品欄\n- 可自訂設定（需安裝 [Cloth Config](https://modrinth.com/mod/cloth-config)）\n  - 按鈕大小與位置\n  - 排序方式\n  - 排序快捷鍵\n\n## 必要依賴項\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n\n## 選用依賴項\n- [ModMenu](https://modrinth.com/mod/modmenu)\n- [Cloth Config](https://modrinth.com/mod/cloth-config)\n\n## 授權條款\n本模組基於 [MIT 授權條款](https://github.com/borknbeans/LightweightInventorySorting/blob/main/LICENSE) 發布",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

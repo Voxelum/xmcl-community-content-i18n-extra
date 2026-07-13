@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ed08248ae677773",
+  "content": "\n\n<p>PokeTuga Market Transfer 是一款為 PokeTuga 伺服器開發的 Minecraft 1.21.1 Fabric 模組。</p>\n<p>此模組為 Cobblemon 新增了遊戲內市場系統，讓玩家可直接在 Minecraft 中與寶可夢上架資訊及市場轉移進行互動。該模組專為搭配 Cobblemon 與 CobbleDollars 設計，透過伺服器端系統處理寶可夢託管、付款、上架、購買、取消及其他市場操作。</p>\n<p>主要功能：<br>- 為 Cobblemon 設計的遊戲內市場介面<br>- 支援寶可夢上架與轉移功能<br>- 整合 CobbleDollars 付款機制<br>- 伺服器端託管處理，確保交易更安全<br>- 支援上架、購買、取消及已完成銷售等市場操作<br>- 專為 Minecraft 1.21.1 與 Fabric 打造</p>\n<p>重要通知：<br>此模組主要為 PokeTuga 伺服器而開發。不保證與其他伺服器、設定、模組包或遊戲環境的相容性。要正常運作，可能需要與 PokeTuga 相同的伺服器端設定、API、依賴套件及經濟系統配置。</p>\n<p>必要依賴項目：<br>- Fabric Loader<br>- Fabric API<br>- Fabric Language Kotlin<br>- Cobblemon<br>- CobbleDollars</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

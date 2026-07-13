@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4ddcb2078b9cd81d",
+  "content": "\n\n<p><strong>本模组是 Leon 开发的 <a href=\"https://www.curseforge.com/projects/1076861\" target=\"_blank\" rel=\"nofollow\">Create: Dynamic Lights</a> 的分支版本。</strong></p>\n<p>Sable Dynamic Lights 为移动结构集成了实时动态光照功能。该模组为放置在 Create 火车和机械装置上的发光方块提供了动态光照支持。同时，它还实现了移动中的 Sable 子区块无缝动态光照。在 LambDynamicLights 引擎的驱动下，所有计算与渲染均流畅高效。当火车行进或活塞运动时，火把、萤石和灯笼将真实地照亮周围环境。</p>\n<h2>依赖项：</h2>\n<ul>\n<li><a href=\"https://www.curseforge.com/projects/328085\" target=\"_blank\" rel=\"nofollow\">Create</a></li>\n<li><a href=\"https://www.curseforge.com/projects/393442\" target=\"_blank\" rel=\"nofollow\">LambDynamicLights</a></li>\n<li><a href=\"https://www.curseforge.com/projects/1312371\" target=\"_blank\" rel=\"nofollow\">Sable</a>（可选）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

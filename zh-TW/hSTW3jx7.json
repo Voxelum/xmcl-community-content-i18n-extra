@@ -1,6 +1,6 @@
 {
-  "bodyHash": "n2JxhX8xDeo=",
-  "content": "![運送流程](https://imgur.com/IVh2DIc.gif)\n\nCreate: Delivery Required 是一個以物流為核心的附加模組，圍繞著 Create: Aeronautics、Sable 和 Create: Numismatics 打造。本模組將移動結構轉變為真正的運輸載具：玩家可以標記 Sable 子樓層、裝載所需物品、飛翔或運輸至送貨區域，並完成合約以換取貨幣獎勵。\n\n系統核心是「承包商方塊」——玩家可在這裡選擇送貨任務、接受限時目標，並透過 Numismatics 硬幣或銀行卡存款獲得報酬。管理員可以建立、視覺化、掃描及管理送貨區域，而標記的子樓層在進入目標區域時會自動被檢查。\n\n展示影片：<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/3hmxtE7Q1Dw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n致謝：\n送貨標記材質 - duck | 承包商、市場材質 - nekonesse | 中文翻譯 - awa",
+  "bodyHash": "d9b98a0e14ff4353",
+  "content": "\n\n![Delivey process](https://imgur.com/IVh2DIc.gif)\nCreate: Delivery Required 是一款專注於物流的附加模組，以 Create: Aeronautics、Sable 和 Create: Numismatics 為核心打造。本模組將移動中的容器轉化為真正的配送載具：玩家可以標記 Sable 的子層，裝入所需的物品，將其飛行或運輸至配送區域，並完成合約以獲得貨幣獎勵。\n\n系統的核心是「Contractor」方塊——一個合約樞紐。玩家可在此選擇配送任務、接受限時目標，並透過 Numismatics 硬幣或銀行卡存款收取報酬。配送區域可由管理員建立、視覺化呈現、掃描與管理；當標記過的子層進入目標區域時，系統會自動進行核對。\n\n展示影片：<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/3hmxtE7Q1Dw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n鳴謝：\n配送標記紋理 - duck | Contractor、市場紋理 - nekonesse | 中文翻譯 - awa",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

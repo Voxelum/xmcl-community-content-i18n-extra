@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8bf939b5f7ec82cf",
+  "content": "\n\n<p><img src=\"https://cdn.modrinth.com/data/TIAnANoy/images/09b338a1676485e0d84b7cc1dd617c6329d280a3.webp\" alt=\"Анимированное изображение, демонстрирующее разницу между ванильным ландшафтом и Cliff Face. Ванильные склоны в основном коричневые и состоят из земли, тогда как склоны Cliff Face каменные и выглядят более безжизненными\"></p>\n<h1 style=\"text-align:center\">Cliff Face</h1>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/abdeb55549f0250c9eb31b96fc7657967f9fae8e_0.webp\" alt=\"Широкий вид длинного скального обрыва\"></p>\n<h1>🪨 Особенности</h1>\n<ul>\n<li><strong>Лучше всего работает с <a href=\"https://www.curseforge.com/minecraft/mc-mods/mc-258859\" rel=\"nofollow\">Steep Surfaces</a></strong>, из-за существующей (по моему мнению) ошибки в коде Minecraft</li>\n<li><strong>Работает на стороне сервера</strong> без потери совместимости с клиентом</li>\n<li><strong>Оптимизирован для производительности</strong>, так как использует стандартную генерацию поверхности Minecraft, а не более ресурсоёмкую генерацию структур</li>\n<li><strong>Поддерживает моды</strong>, изменяющие мир через систему генерации Minecraft (Terralith, Tectonic, Noisium, Biomes 'O Plenty, Geophilic, Lithopshere &amp; многие другие)</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

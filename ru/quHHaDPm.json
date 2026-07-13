@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2151a571b23664c2",
+  "content": "\n\n# Roost Traces\n\nRoost Traces интегрирует поверхностные гнезда драконов из Ice and Fire CE в цикл ресурсов Create ReAutomated.\n\nПри генерации гнезда мод размещает один совместимый узел Create ReAutomated непосредственно на полу гнезда и регистрирует его в Create ReAutomated: Traces как цель Trace Finder, работающую только с узлами. Видимых выходов следа или платформ не появляется.\n\nНаборы узлов настраиваются через датапаки, что позволяет авторам модпаков выбирать разные награды для гнезд огня, льда и молнии. Процесс размещения лёгкий, не требует принудительной загрузки чанков и использует ограниченное число повторных попыток при временных сбоях.\n\n## Ошибки и проблемы\n\nПо любым вопросам или проблемам вы можете присоединиться к Discord, кликнув по изображению ниже\n\n![Join Discord](https://discordapp.com/api/guilds/838407794217844777/widget.png?style=banner3)\n\n## Поддержать нас\n\n[![https://www.bisecthosting.com/TYP](https://www.bisecthosting.com/partners/custom-banners/6f8fb0b7-b4a5-4dd3-9856-c8878d15de9b.webp)](https://www.bisecthosting.com/TYP)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

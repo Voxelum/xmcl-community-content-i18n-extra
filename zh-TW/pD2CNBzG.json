@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a5282f596d2fb6b3",
+  "content": "\n\n# DotFantail16／點陣扇尾體16\n為遊戲新增 16px 的 [Fantail](https://ja.wikipedia.org/wiki/ファンテール体) 字型。[Fantail](https://ja.wikipedia.org/wiki/ファンテール体) 是一種字體風格，特點為豎細橫粗的筆畫。  \n新增16px的[扇尾體](https://ja.wikipedia.org/wiki/ファンテール体)字型，特點是豎細橫粗的筆畫。\n\n本套件使用「流行點陣體16」顯示繁體中文，並使用「KHドット兜町16」顯示日文。可透過「日文字形變體」選項在兩者之間切換。  \n使用「流行點陣體16」來顯示繁體中文，其上游「KHドット兜町16」來顯示日文。用「日文字形變體」選項來切換兩者。\n\n兩款原始字型皆已轉換為 [`.hex` 格式](https://en.wikipedia.org/wiki/GNU_Unifont#.hex_format)，以提升渲染效果。  \n兩字型皆已轉換為[`.hex`格式](https://en.wikipedia.org/wiki/GNU_Unifont#.hex_format)，避免ttf字型在Minecraft中的顯示問題。\n\n已加入補充字元以涵蓋遊戲內的文本用字。  \n含自製補字以涵蓋遊戲文本用字。\n\n## 功能特色\n* 採用 `unihex` 字型，避免告示牌與粗體文字出現渲染錯誤。\n* 涵蓋 `zh_tw`、`zh_hk` 與 `ja_jp` 的所有遊戲文本（截至 26.1.2 版本）。\n\n## 致謝\n兩款原始字型均依據 [SIL Open Font License 1.1](https://openfontlicense.org/) 授權發布。\n* [KHドット兜町16](http://jikasei.me/font/kh-dotfont/) by 平木敬太郎, TrueType by 自家製フォント工房\n* [流行點陣體16](https://github.com/scott0107000/FashionBitmap16) by Luke036, derived from KHドット兜町16",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

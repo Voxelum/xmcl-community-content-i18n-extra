@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5a91e5d3063089d7",
+  "content": "\n\n一個 Carpet Mod (fabric-carpet) 擴充模組，包含了一些實用或無用的功能，以及我個人想要但原版尚未內建的功能。\n在預設設定下，此模組完全不會改變任何原版遊戲行為。\n請搭配相同 Minecraft 版本的 Carpet Mod 使用。建議盡可能使用較新版的 Carpet Mod。更多模組詳情請參閱文件：https://github.com/DaCong114514qwq/Carpet-GUGU-Addition\n\n主要功能：\n調整試煉生成器、保險箱與強化深岩等方塊的硬度，使其更容易被挖掘。\n自動經驗修復：利用現有經驗值修復裝備，非常適合生存模式。\n遠端取物功能：為修改版的 Litematica Printer 模組（[BiliXWhite/litematica-printer](https://github.com/BiliXWhite/litematica-printer) 或 [zhaixianyu/litematica-printer](https://github.com/zhaixianyu/litematica-printer)）提供伺服器端支援，實現從容器遠端取出物品。\n欲查看更多實用功能，請使用指令「/carpet list GUGU」查看清單。\n\n更多功能說明，請前往 https://github.com/DaCong114514qwq/Carpet-GUGU-Addition/blob/main/Rules.md。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

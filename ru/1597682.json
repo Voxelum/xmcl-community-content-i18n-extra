@@ -1,0 +1,6 @@
+{
+  "bodyHash": "925f17a8ce57771e",
+  "content": "\n\n<h1>Рендер звука ReplayMod</h1>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/reforgedplay-mod\" rel=\"nofollow\">ReForgedPlay</a> дополнение, которое записывает звук во время рендеринга записи.</p>\n<p>Во время рендеринга оно заменяет аудиовыход Minecraft на <a href=\"https://github.com/openalext/openalext/blob/master/ALC_SOFT_loopback.txt\" rel=\"nofollow\">петлевое устройство OpenAL</a> и записывает захваченный звук в файл.</p>\n<h2>Настройки</h2>\n<p>В меню рендеринга ReplayMod добавлен раздел <strong>Настройки звука</strong>.</p>\n<p><img src=\"https://github.com/apehum/replaymod-audio-render/raw/main/.github/assets/settings.png\" alt=\"Настройки звука\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

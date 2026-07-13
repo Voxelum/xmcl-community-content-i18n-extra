@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Zgc7nIG/Evs=",
-  "content": "# Захватывающие быстрые пушистые листья — DynamicTrees\n\nЭто совместимый пакет, который добавляет [Jagutka's FancyFast Bushy Leaves](https://modrinth.com/project/pQHHONnS) в DynamicTrees и DynamicTrees - Terralith.\n\nЭтот пакет был создан для моего личного использования, но я решил загрузить его на Modrinth — в основном, чтобы не потерять его.\n\n## Требования\n\nЭтот пакет зависит от оригинальных [FancyFast Bushy Leaves](https://modrinth.com/project/pQHHONnS) — поместите этот пакет выше оригинала.\n\nКроме того, он ничего не делает, если у вас не установлен мод [Dynamic Trees](https://modrinth.com/project/vdjF5PL5).",
+  "bodyHash": "9f5d29d537be1b4c",
+  "content": "\n\n# FancyFast Bushy Leaves - DynamicTrees\n\nЭто пакет совместимости, который добавляет [Jagutka's FancyFast Bushy Leaves](https://modrinth.com/project/pQHHONnS) в DynamicTrees и DynamicTrees - Terralith.\n\nЭтот пакет был создан для личного использования, но я решил выложить его на Modrinth ~~в основном чтобы не потерять его~~.\n\n## Требования\n\nДля работы этого пакета требуется оригинальный [FancyFast Bushy Leaves](https://modrinth.com/project/pQHHONnS) — _расположите этот пакет выше оригинального_.\n\nОн также ничего не делает, если у вас не установлен мод [Dynamic Trees](https://modrinth.com/project/vdjF5PL5).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

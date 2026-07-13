@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1fc06ba570c79003",
+  "content": "\n\n**WunderLib（非官方 NeoForge 移植版）**\n\n本项目是 WunderLib 的**非官方 NeoForge 移植版**。它的存在是为了让依赖 WunderLib 的模组在现代 Minecraft 版本的 NeoForge 上可用。仅限 NeoForge（不支持 Fabric 或原版 Forge）。\n\n**本项目的作用**\n\n在 Minecraft 的 NeoForge 平台上提供 WunderLib 库（供其他模组使用的依赖/工具库）。目标是尽可能保持与上游版本一致的功能，仅在必要时进行移植或兼容性修改。\n\n**为何下载它**\n\n仅当某个模组或整合包需要在 NeoForge 上使用 WunderLib 时才下载此文件。WunderLib 属于底层库，通常不会单独添加任何独立的游戏内容。适用端：客户端与服务端均需安装。\n\n**本项目与原版的区别**\n\n- 加载器/平台：NeoForge（上游原版为 Fabric）\n- 目标：实现 Minecraft 在 NeoForge 上的兼容\n- 范围：尽可能保持与上游一致的行为；必要时进行兼容性修复\n\n**致谢 / 归属**\n\n所有美术资源及大部分代码均归属于原库开发者：BetterX Team。\n\n**原始项目（上游版本）**\n\nWunderLib (Fabric) 由 BetterX Team 开发 (Modrinth): https://modrinth.com/mod/wunderlib\n\n上游源代码 (GitHub): https://github.com/quiqueck/WunderLib\n\n**技术支持 / 问题反馈**\n\n这是**非官方的 NeoForge 移植版**。请**不要**将问题反馈至 BetterX Team 官方的 Discord 或 GitHub，因为他们不负责维护此移植版。\n\n如需报告此 NeoForge 版本的错误或寻求技术支持，请使用本移植版的 GitHub Issue 页面：https://github.com/Reijin2312/WunderLib_neoforge/issues\n\n如果此移植版引发的问题波及到了上游社区，请直接联系我。\n\nBetterX Discord（上游社区）: https://discord.com/invite/kYuATbYbKW",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

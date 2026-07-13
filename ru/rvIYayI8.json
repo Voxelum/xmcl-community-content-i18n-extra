@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6130b2e0f7709ea3",
+  "content": "\n\n![Демонстрация](https://cdn.modrinth.com/data/cached_images/e7575f486023616475d7bc5ef0766782d526db2c.png)Ragdoll Armourers Workshop Fix\n\n\nКлиентское исправление совместимости с NeoForge 1.21.1 для модов Armourer's Workshop и Sable Player Ragdoll.\n\nЧто исправлено\n\n\nКогда игрок в костюме из Armourer's Workshop переходит в состояние ragdoll от Sable Player Ragdoll, Sable отрисовывает стандартные слои игрока отдельно для каждой части ragdoll-тела. Armourer's Workshop добавляет полный рендерер гардероба как один из этих слоёв, из-за чего костюм может отрисовываться повторно, превращая ragdoll-модель в визуальный хаос с дубликатами.\n\nДанный мод скрывает части скина Armourer's Workshop, которые не относятся к текущей отрисовываемой части ragdoll-модели Sable. Костюм визуально остаётся привязанным к соответствующей конечности ragdoll вместо того, чтобы отрисовываться целиком на каждой части тела.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

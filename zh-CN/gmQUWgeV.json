@@ -1,6 +1,6 @@
 {
-  "bodyHash": "gBRWJuJo0TU=",
-  "content": "本模组目前正在为Ars Nouveau与Sable/Aeronautics制作兼容功能。\n\n添加了Ars Nouveau对Sable的兼容性，包括：\n\n- 允许Starbuncles在Sable子层级中寻路至方块\n- 进出植物馆时，将玩家恢复至子层级\n- 允许魔源与中继器在子层级与现实世界之间运作\n- 若传送门与传送卷轴绑定至子层级，将把玩家恢复至该子层级\n- 修复方块、粒子与实体的渲染问题",
+  "bodyHash": "7cfa3c17879b0421",
+  "content": "\n\n本模组目前仍在开发中，旨在为 Ars Nouveau 与 Sable/Aeronautics 提供兼容性支持。\n\n为 Ars Nouveau 添加 Sable 兼容功能，包括：\n\n- 允许 Starbuncle 寻路至 Sable 子层级上的方块\n- 在进出 planarium 时将玩家恢复至对应子层级\n- 允许源点和中继器在子层级与现实世界之间运作\n- 若已绑定至子层级，传送门与传送卷轴会将玩家传送回该层级\n- 修复方块、粒子及实体的渲染问题",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

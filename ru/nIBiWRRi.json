@@ -1,6 +1,6 @@
 {
-  "bodyHash": "IptFRzrixyU=",
-  "content": "# Mahi's No Fog\n\n**Mahi's No Fog** удаляет весь туман из вашего мира Minecraft — OptiFine не требуется!\n\n## Особенности\n- Удаляет горизонтальный туман, пещерный туман, туман Нижнего мира, туман Конца, подводный туман и туман, вызывающий слепоту или темноту\n- OptiFine не нужен — работает с оригинальной версией Minecraft\n- Поддержка Sodium через мод Sodium Core Shader Support\n\n## Совместимость\n- Java Edition 1.17 – 26.2\n- Пользователям Sodium требуется мод [Sodium Core Shader Support](https://modrinth.com/mod/sodium-core-shader-support)\n- Пользователям OptiFine: отключите туман вручную через Настройки видео → Дополнительно → Туман → ВЫКЛЮЧЕНО\n\n## Установка\nЗагрузите подходящую версию для вашей версии Minecraft во вкладке файлов.",
+  "bodyHash": "489bb4f0aab764cd",
+  "content": "\n\n# Mahi's No Fog\n\n**Mahi's No Fog** убирает весь туман из вашего мира в Minecraft — установка OptiFine не требуется!\n\n## Особенности\n- Убирает туман горизонта, пещерный туман, туман в Незере, туман в Энде, подводный туман, а также туман при эффектах слепоты и темноты\n- Не требует OptiFine — работает с ванильным Minecraft\n- Поддержка Sodium через мод Sodium Core Shader Support\n\n## Совместимость\n- Java Edition 1.17 – 26.2\n- Пользователям Sodium требуется мод [Sodium Core Shader Support](https://modrinth.com/mod/sodium-core-shader-support)\n- Пользователям OptiFine: отключите туман вручную через Настройки видео → Детали → Туман → Выкл.\n\n## Установка\nСкачайте нужную версию для вашей игры во вкладке Files.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

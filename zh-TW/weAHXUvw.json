@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aee0cc173870f869",
+  "content": "\n\n<p align=\"center\">\n  <b>Kind’s Crystal Optimizer</b>\n</p>\n\n<p align=\"center\">\n  提升水晶操作的反應速度與流暢度\n</p>\n\n<p align=\"center\">\n  <a href=\"https://modrinth.com/project/kinds-crystal-optimizer\">\n    <img src=\"https://img.shields.io/badge/Download on Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white\">\n  </a>\n\n---\n\n## 概述\n\nKind’s Crystal Optimizer 是一款客戶端效能模組，可有效降低放置與破壞終界水晶時的感知延遲。\n\n該模組透過在客戶端即時處理水晶動作（隱藏並立即渲染），即使在網路高延遲環境下，也能提供更流暢、快速且一致的操作體驗。\n\n---\n\n## 功能特色\n\n- 水晶即時渲染  \n- 降低放置與破壞延遲  \n- 更快的水晶實體渲染\n- 水晶操作反應更迅速  \n- 提升 PvP 操作一致性  \n- 優化高延遲（高 Ping）環境效能  \n\n---\n\n<p align=\"center\">\n  <b>效能對比（70ms）</b>\n</p>\n\n<small>     已放慢速度以顯示更多細節\n\n| 啟用模組 | 未啟用模組 |\n|----------|------------|\n| ![啟用模組](https://cdn.modrinth.com/data/weAHXUvw/images/9446d8d02642e5c49195372d02bc28b2b7d84ac6.gif) | ![未啟用模組](https://cdn.modrinth.com/data/weAHXUvw/images/ea8b9886230c8ce5970ba67069cf168d873765ee.gif) |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

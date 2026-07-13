@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd836e692288a5ea",
+  "content": "\n\n*刀具非常適合用來烹飪。它們也非常適合投擲。*\n\n![拼貼畫面：一名玩家將刀貼著頭部拿著、刀具插在方塊中（像是投擲靶場）、以及一個屍殼受到投擲刀具傷害的場景](https://cdn.modrinth.com/data/BYmvNgRP/images/e64d7468c9933365eb69ba2149e61399ab473092.png)\n\nKitchen Projectiles 讓你能夠從 [Farmer's Delight](https://modrinth.com/mod/farmers-delight) ([Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)) 中投擲刀具。刀具的投擲方式與三叉戟相同，造成的傷害也與近戰攻擊時一致。\n\n刀具會記住它們是從哪個槽位拿取的，當撿起時會自動返回該槽位（若該槽位為空），包含副手槽位。\n\n## 附魔\n\n刀具現在可以獲得額外的附魔：\n\n### 回返\n\n如同三叉戟，刀具會飛回你身邊。 \n\n如果刀具附有「背刺」附魔，且在擊中生物前尚未命中任何目標，它在返回途中仍會造成傷害。這是在不需要隱身的情況下獲取背刺傷害加成的絕佳方式。\n\n刀具也能正確地從虛空中返回。\n\n### 多重射出\n\n如同弩，你會一次投擲三把刀具。只有中間的那一把可以撿起。\n\n## 相容性\n\n- 目前支援 [Enchancement](https://modrinth.com/mod/enchancement)。任何附魔也會賦予刀具回返效果，且所有劍類附魔都能正常運作。這可能會存在平衡性問題，有待進一步測試。\n- 應能與新增 FD 刀具的模組正常運作，前提是這些刀具已加入 `#farmersdelight:tools/knives` 標籤。\n- 現已推出 Neoforge 版本！需要 [Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6144303cc515683a",
+  "content": "\n\n此輕量級模組允許管理員設定物品與標籤列表，玩家在死亡時將保留列表內的項目，其餘則會掉落。\n\n經驗值同樣可在死亡時保留，且支援設定保留的百分比。\n\n所有指令皆以 `/selectiveKeepInventory` 為前綴。\n\n必須關閉遊戲規則中的 `keepInventory`，此模組方能啟用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "yotlXffl1U4=",
-  "content": "數週前，在多款 Minecraft 模組中發現了一個極其嚴重的漏洞，該漏洞允許在客戶端和伺服器（進而影響伺服器上所有連線的客戶端）上執行任意遠端程式碼。\n\n \n\n有關此主題的更多詳細資訊以及目前已知受影響模組的清單，請參閱[此處](https://github.com/dogboy21/serializationisbad/blob/master/README.md)。",
+  "bodyHash": "a42feab0391e02a4",
+  "content": "\n\n數週前，許多《Minecraft》模組中被發現存在一項極度嚴重的安全漏洞，該漏洞允許在客戶端與伺服器上執行任意遠端程式碼（因此甚至會波及伺服器上所有已連線的客戶端）。\n\n關於此議題的更多詳細資訊，以及目前已知受影響的所有模組清單，可於此處查閱 [這裡](https://github.com/dogboy21/serializationisbad/blob/master/README.md)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

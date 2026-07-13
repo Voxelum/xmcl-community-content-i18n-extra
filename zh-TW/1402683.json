@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5a05d166a877f76b",
+  "content": "\n\n<p>當成功執行 <strong>/locate</strong> 指令時，會向使用者傳送額外訊息。</p>\n<p>點擊該訊息將使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap\" target=\"_blank\" rel=\"nofollow\">Xaero's</a> 於查詢到的位置建立新的路徑點。</p>\n<p>同時新增一個新指令：</p>\n<ul>\n<li>/waypoint_locate_add &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;dimension&gt; &lt;name&gt;</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

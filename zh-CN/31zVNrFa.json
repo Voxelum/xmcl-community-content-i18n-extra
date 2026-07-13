@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8d4052e3146beed7",
+  "content": "\n\n# Xaero小地图与传送石兼容性\n\n**Xaero小地图与传送石兼容性**会自动将**传送石**与**Xaero小地图**关联，无需任何手动设置即可创建和更新路点。\n\n每当激活或重命名一块传送石时，Xaero小地图上都会在相同位置立即创建或更新对应的路点。\n\n所有路点均会持久保存，且该模组支持单人和多人服务器环境。\n\n![传送石路点示例](https://i.ibb.co/C36Dpx6P/2025-12-27-17-24-12.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

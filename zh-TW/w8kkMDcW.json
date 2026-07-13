@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3f8cf0d03cb08170",
+  "content": "\n\n# TotemShow\n\n這是一個資料包，用於偵測玩家是否使用了不死图腾，並向所有玩家廣播訊息。\n\n![使用者啟動不死图腾時顯示的訊息。](https://cdn.modrinth.com/data/w8kkMDcW/images/97e584fa1c265a5dbe5224b73efabd9db0e11472.png)\n\n---\n\n## 📣 功能特色\n- 偵測任何玩家使用不死图腾的時機。\n- 使用翻譯鍵值 `segtotems.message` 廣播訊息 - 可透過資源包或語言檔案完全自訂。\n\n---\n\n## 💬 自訂設定\n\n您可以透過編輯語言檔案中的 `segtotems.message` 鍵值來自訂廣播訊息。以下範例顯示預設訊息在 `en_us.json` 檔案中的呈現方式：\n\n```json\n{\n    \"segtotems.message\": \"§6☠ %s §7used a §eTotem of Undying§6!\"\n}\n```\n\n在您自己的 `en_us.json`（或等效檔案）中修改此鍵值即可變更遊戲內訊息的外觀，建議於資源包中進行此操作以提供更佳的使用者體驗。\n\n## 📺 內容創作者\n\n如果您在影片、直播或其他內容中使用 TotemShow，請在描述中加入本頁連結以標示專案來源：\n\n```\nTotemShow: https://modrinth.com/datapack/totemshow\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

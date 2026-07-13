@@ -1,0 +1,6 @@
+{
+  "bodyHash": "16389417f093fe36",
+  "content": "\n\n# NeoKiss\n\nNeoKiss 是遵循 MIT 许可证的 [kiss mod](https://modrinth.com/mod/kiss-fabric) 的一个分支。\\\n具体来说，它是 [1.2.0 Neoforge](https://modrinth.com/mod/kiss-fabric/version/plUmdfHo) 版本的分支。\n\n> [Recaf](https://github.com/Col-E/Recaf/releases/tag/4.0.0-alpha) 是我们反编译 jar 包的首选工具。\n\n此分支旨在修复原版模组的一些小问题、解决部分导致大版本不兼容的 Bug，并将其公开给广大玩家。\n\n_**如果我们在航空器上接吻会怎样，，？？**_\n\n## 使用方法\n\n快速靠近另一名玩家并潜行，爱心粒子就会开始浮现。 \n\n或者，你也可以使用 `/kiss <player>` 命令来维持你的异地恋关系，但请注意：禁止自恋 \\>:3c\n\n## 配置\n\n配置项相当直观易懂 :3\n\n**neokiss-common.toml**\n```\n# 发送给被亲吻玩家的提示消息（%s 替换为玩家名称）\nkissMessage = \"%s 亲吻了你！\"\n\n# 发送给亲吻玩家的提示消息（%s 替换为玩家名称）\nkissPromptMessage = \"你亲吻了 %s！\"\n\n# 尝试亲吻自己时的错误消息\nselfKissErrorMessage = \"你不能亲吻自己！\"\n\n# 命令处于冷却时间时的错误消息（%d 替换为秒数）\ncooldownErrorMessage = \"请等待 %d 秒后再亲吻！\"\n\n# 命令冷却时间（秒）\n# 默认值: 10\n# 范围: 1 ~ 3600\ncommandCooldown = 10\n\n# 潜行时生成的最大爱心粒子数量\n# 默认值: 6\n# 范围: 1 ~ 20\nmaxSneakParticles = 6\n\n# 潜行时检测附近玩家的半径\n# 默认值: 16.0\n# 范围: 1.0 ~ 128.0\nsneakTriggerRadius = 1.0\n\n# 检测玩家的最大视角角度（单位：度）\n# 默认值: 90.0\n# 范围: 1.0 ~ 360.0\nmaxViewAngleDegree = 90.0\n\n# 启用 /kiss 命令\nenableKissCommand = true\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

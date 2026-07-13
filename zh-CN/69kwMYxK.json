@@ -1,0 +1,6 @@
+{
+  "bodyHash": "94f20e985c02289f",
+  "content": "\n\n这款独特的覆盖材质包仅使用石砖，呈现出外观自然、由完整未切割石砖砌成的石墙。仅修改了墙壁部分，地面保持不变。\n#  \n![Stone wall](https://cdn.modrinth.com/data/cached_images/44b328ef2735cadbf68543aafbef628cd76d0d15.jpeg)\n#  \n石头、苔石、裂石砖已扩展至以下方块：\n- 天然石头（安山岩、闪长岩、方解石、花岗岩、凝灰岩、石头、圆石） \n- 陶土 \n- 混凝土、混凝土粉末 \n- 泥土、泥块、黏土、沙子、砂砾\n- 死珊瑚 \n\n我制作此材质包是因为大多数连接方块和覆盖材质包更改了过多内容，导致在创造模式建造时出现不必要的视觉瑕疵。\n# \n如果您也希望地面使用完整砖块，请删除资源包内以下文件中的这一行： \n```\nfaces=east west north south\n```\n文件路径为：\n```\n/assets/minecraft/optifine/ctm/_overlays/stone_bricks/stone_bricks.properties\n```\n# \n欢迎体验我的另一款材质包 [Grass Overlay](https://modrinth.com/resourcepack/grass-overlay)：以类似的方式，它仅会覆盖草和苔藓的悬垂部分贴图。\n\n如有任何建议，请通过我的 Discord 频道告知我。\n# \n需要 OptiFine 或 Continuity 模组。在原版 Minecraft 中无法使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

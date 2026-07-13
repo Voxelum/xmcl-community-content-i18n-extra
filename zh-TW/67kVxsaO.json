@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RbND9nYvTc0=",
-  "content": "![Title Image](https://cdn.modrinth.com/data/cached_images/2755f12b234e5834d2ad31ef93a6eb745f29ab10.png)\n\n<hr>\n\n一個簡單的模組，可以防止 Minecraft 在標籤中的一個或多個條目無效時，將整個標籤的內容全部丟棄。如果標籤被「處理」過，遊戲內會出現提示訊息，而類似原版遊戲的更多資訊可以在執行此模組的伺服器/用戶端日誌中找到。\n\n這個模組的設計初衷，是因為有些模組或資料包可能會加入無效的條目到，例如 \"minecraft:mineable/pickaxe\"，導致所有可被鎬子挖掘的方塊都變得不可挖掘，從而破壞遊戲。\n\n**TLDR：** 此模組可防止模組/資料包的錯誤破壞遊戲的整個部分。如需了解有關 **理解** 或 **靜音** 遊戲內訊息提示的更多資訊，請前往 [Github 連結](https://github.com/Dragon-Seeker/LoadMyFingTags/blob/3961e898550c4d996199bea0fa408a61e87e8dba/info.md) 查看更多資訊。\n\n## 關於版本的備註\n- **[MultiLoader 更新]** Ver1.0.1：修正了 Mixin 僅套用於用戶端的問題。\n### Forge\n- **[47.1.44 - 47.2.5]** Ver1.0.3：修正了 Forge 重新實作單人模式 Modmenu 的問題。\n- **[47.2.6 及以上版本]** Ver1.0.4：修正了 Forge 在 TagGroup.Loader 中使用 HashSet 而非 LinkedHashSet 的補丁錯誤。",
+  "bodyHash": "27504fbf7b18bcbc",
+  "content": "\n\n![標題圖片](https://cdn.modrinth.com/data/cached_images/2755f12b234e5834d2ad31ef93a6eb745f29ab10.png)\n\n<hr>\n\n一款簡單的模組，可防止當標籤內的一或多個條目無效時，Minecraft 直接捨棄整個標籤的內容。若標籤遭「修正」，遊戲內會顯示提示訊息；更多類似原版遊戲的詳細資訊則可在模組運行所在的伺服器或客戶端日誌中找到。\n\n開發此模組是為了處理某些模組或資料包可能加入無效條目（例如 `minecraft:mineable/pickaxe`）的問題，這會導致所有應能被鎬挖掘的方塊無法被挖掘，進而破壞遊戲體驗。\n\n**簡短總結：** 本模組可防止模組或資料包的錯誤導致遊戲大範圍崩潰。若需進一步了解如何**理解**或**靜音**遊戲內的聊天提示訊息，請前往 [Github 連結](https://github.com/Dragon-Seeker/LoadMyFingTags/blob/3961e898550c4d996199bea0fa408a61e87e8dba/info.md) 查看詳細資訊\n\n## 版本說明\n- **[MultiLoader 更新]** Ver1.0.1：修復 Mixin 僅在客戶端生效的問題\n### Forge\n- **[47.1.44 - 47.2.5]** Ver1.0.3：修復 Forge 重新實作單人遊戲模組選單所導致的問題\n- **[47.2.6 及以上]** Ver1.0.4：修復 Forge 補丁中 `TagGroup.Loader` 使用 `HashSet` 而非 `LinkedHashSet` 的錯誤",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

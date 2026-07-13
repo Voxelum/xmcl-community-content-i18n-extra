@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Vbjdl+rNqUM=",
-  "content": "# Введение\nNonConflictKeys — это независимая реализация одноимённой функции из [Modern KeyBinding](https://modrinth.com/mod/modernkeybinding).\n\n# Особенность\nКлавиши, назначенные на одну и ту же клавишу, будут активированы все одновременно при её нажатии.\n\n# ВНИМАНИЕ\nВы **ОБЯЗАТЕЛЬНО МОЖЕТЕ** добавить мод в свой модпак.",
+  "bodyHash": "49ae2814b05e1e50",
+  "content": "\n\n# Введение\nNonConflictKeys — это независимая реализация одноимённой функции в [Modern KeyBinding](https://modrinth.com/mod/modernkeybinding).\n\n# Особенности\nПри нажатии клавиши будут активированы все привязки, использующие эту клавишу.\n\n# ВНИМАНИЕ\nВы **МОЖЕТЕ** добавить этот мод в свой модпак.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

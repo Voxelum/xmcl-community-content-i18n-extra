@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db8cba644a5c9a1e",
+  "content": "\n\n<p>本模组适用于 Minecraft Transit Railway 模组。最新版本需要&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway\" target=\"_blank\" rel=\"nofollow\">Minecraft Transit Railway 模组</a> 的 3.2 版本。</p>\n<p>&nbsp;</p>\n<p><strong>（不支持自定义字体的显卡兼容性说明）</strong></p>\n<p><em>自定义字体默认处于关闭状态。如果您希望在乘客信息系统（PIDS）和/或车站圆形站名牌中使用自定义字体，则必须在铁路仪表盘选项界面中启用“使用 MTR 自定义字体”选项。如果尝试使用任何依赖自定义字体的物品时游戏发生崩溃，则表明您的显卡不支持在 Minecraft 中使用自定义字体，您需要保持该选项关闭以避免游戏崩溃。</em></p>\n<p>&nbsp;</p>\n<p><strong>（Forge 用户须知）</strong></p>\n<p><em>若隧道方块表面出现光照显示异常，请在 config/forge-client.toml 配置文件中将 experimentalForgeLightPipelineEnabled 的值设为 true。此操作通常可修复该问题。</em></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

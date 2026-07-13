@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ec43e289ad398eea",
+  "content": "\n\n<h1>伺服器 I18n API</h1>\n<p>這是一款伺服器端專用模組，旨在為其他伺服器端模組提供國際化（i18n）功能。</p>\n<p>語言偵測會自動進行，因此玩家無需進行任何操作。</p>\n<p><strong>此模組在客戶端上不需要安裝</strong></p>\n<h2>開發者指南</h2>\n<p>您需要將語言 JSON 檔放在 <code>data/&lt;mod id&gt;/lang/</code> 目錄中，並採用原版資源包的格式。</p>\n<p>唯一的 API 為 <code>ServerI18n</code> 類別。</p>\n<p>範例：</p>\n<p><code>Text.literal(ServerI18n.translate(player,\"translation key\",\"arg1\",\"arg2\"))</code></p>\n<p><code>ServerI18n.broadcast(server,\"translation key\",\"arg1\",\"arg2\")</code></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

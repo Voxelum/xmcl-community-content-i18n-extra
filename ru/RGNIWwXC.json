@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9d53d9947d41a69b",
+  "content": "\n\n<div style=\"text-align:center\"><img alt=\"Плавные меню\" src=\"https://i.imgur.com/PRb12iO.png\" ></div>\n\n## Плавная прокрутка меню для Forge 1.12.2\n\nРазблокирует лимит частоты кадров в меню и делает прокрутку стандартного элемента интерфейса полосы прокрутки более плавной.\n\nВ настройках мода можно выбрать целевую частоту кадров от 60 до 144 FPS.\n\nТребуется [MixinBooter](https://modrinth.com/mod/mixinbooter).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

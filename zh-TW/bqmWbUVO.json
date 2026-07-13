@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7666e8786ad5eab8",
+  "content": "\n\nGlore 是一款加入發光礦石與盔甲飾紋的模組。您可以調整設定檔，讓任何方塊或盔甲飾紋材料發出不同程度的光亮。 \n\n# 亮度\n### 方塊\n- 鑽石礦石：15\n- 綠寶石礦石：12\n- 黃金礦石：10\n- 青金石礦石：7\n- 銅礦石：7\n- 鐵礦石：4\n- 煤礦石：4\n- 紅石礦石：動態，行為與原版相同。\n### 盔甲飾紋\n- 紫水晶：每件飾紋提供 4 點亮度。 \n- 紅石：每件飾紋提供 2 點亮度。 \n\n# 客戶端 / 伺服器資訊\n此模組可在僅安裝於客戶端、僅安裝於伺服器，或兩者皆安裝的情況下運作，但若未同時安裝於兩端可能會出現問題。 \n僅限客戶端：只有盔甲飾紋的發光效果會生效。 \n僅限伺服器：只有方塊的發光效果會生效；新方塊的光照效果需待玩家重新連線至伺服器或重新進入該區塊後才會對客戶端生效。\n兩者皆安裝：所有效果均可正常運作，不會出現問題。 \n\n# 顏色\n若要讓本模組新增的光源呈現_彩色_效果，您需要搭配支援彩色光源的著色器（光影）模組使用。本模組是使用 Complementary Reimagined + Euphoria Patches 並啟用其彩色光源設定進行開發與測試的，但其他支援的著色器應該也能正常運作。\n\n# 設定檔\n<details>\n<summary>1.21</summary>\n在 config 資料夾中有一個主要的設定檔 json (glore.json)，可讓您調整哪些方塊會發光以及發光的強度。 \n此外，還有一個第二設定檔「glore_trims.json」，可讓您調整穿戴哪些盔甲飾紋會發光，以及每件盔甲部件會發出多少光亮。 \n</details>\n<details>\n<summary>1.20.x</summary>\n此模組有兩個設定檔 json 位於 mods 資料夾中，與模組檔案並列存放。當您安裝模組並啟動遊戲時，它們會被自動生成，您可以根據需求調整這些設定，以變更哪些方塊會發光及其亮度。\n</details>\n\n\n\n![鑽石礦石在礦坑軌道下發光。](https://cdn.modrinth.com/data/cached_images/9735c54cba338805d96410cfa586d2fef0205bb3.png)\n\nDiscord：https://discord.gg/HHqKa8vTAN \n此模組可自由用於任何整合包。\n\n[![需要 Minecraft 伺服器嗎？建議使用 Kinetic Hosting，輸入優惠碼「APOTHICON」首月可享 15% 折扣！](https://cdn.modrinth.com/data/cached_images/f620b8ad8be1fc7fba8ec6a160027021a980f6b8.png)](https://billing.kinetichosting.net/aff.php?aff=146)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

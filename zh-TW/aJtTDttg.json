@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac341224723bf8fc",
+  "content": "\n\n# LibAnalog\n類比鍵盤能夠為每個按鍵偵測不同程度的壓力值，而非僅有預設的按下或釋放狀態。本模組透過覆寫 Minecraft 預設的快捷鍵設定，為其他依賴壓力感應輸入的模組提供底層基礎。\n\n## 支援的裝置\n此程式庫旨在支援多種不同的類比鍵盤，但目前僅限於以下型號：\n- Wooting 60HE\n- Wooting 80HE",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b2dddb971dfd5ca",
+  "content": "\n\n<h1 style=\"text-align: center;\">ChatCalc (порт для NeoForge)</h1>\nВыполняйте **математические вычисления прямо в чате** – без команд и сторонних инструментов.  \nПоддерживает пользовательские функции, константы и вычисления в реальном времени.\n\n***\n![demo](https://cdn.modrinth.com/data/cached_images/0cb126978cf3291be1d92cf2308b2cdd05e506eb.webp)\n\n## ✨ Особенности\n\n*   💬 Вычисления прямо в чате (нажмите **TAB** для выполнения)\n*   🔢 Предпросмотр результата над чатом\n*   ⚙️ Пользовательские функции и константы\n*   🧮 Поддерживает `+ - * / ^ %`, тригонометрию, логарифмы, квадратный корень и многое другое\n*   🚀 Только на стороне клиента – работает везде\n\n***\n\n## 💡 Использование\n\nВведите:\n\n2+2 → TAB → 4\n\nsin(pi/2) → TAB → 1\n\nmyFunc(x;y)=x^2+y^2\n\nmyFunc(3;4) → TAB → 25\n\n## 🧾 Лицензия\n\nЛицензировано по **MPL-2.0**  \nОригинальный мод для Fabric от [RealRTTV](https://github.com/RealRTTV/ChatCalc)  \nПорт для NeoForge от [Smallinger](https://github.com/Smallinger/ChatCalc-NeoForge)\n\n## 🔗 Дополнительная информация\n\n[Репозиторий на GitHub](https://github.com/Smallinger/ChatCalc-NeoForge)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

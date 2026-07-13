@@ -1,0 +1,6 @@
+{
+  "bodyHash": "16a2c30ebcb5cce9",
+  "content": "\n\n# 附魔停用標籤\n此模組提供一個標籤，可用於防止特定附魔在您的世界中出現。\n\n該標籤位於 `data/enchantmentdisabletag/tags/enchantment/disabled.json`，引用時可使用 `enchantmentdisabletag:disabled`。\n\n請查看 [Wiki](https://github.com/GreenhouseTeam/enchantment-disable-tag/wiki) 以了解如何設定此模組。\n\n## 僅伺服器還是需要安裝在用戶端？\n此模組可僅在伺服器上運行，但建議同時安裝在用戶端，以便獲得更完整的體驗，例如：\n- 創造模式選單將不會顯示已停用的附魔。\n- 「使用 /enchant 指令停用附魔時」錯誤提示的語言檔。\n\n## 此模組會刪除我物品上的附魔嗎？\n會的。因此在停用任何附魔之前，請先備份您的世界。若您希望，也可針對那些可能為了特定附魔而辛苦刷取的玩家提供補償。\n\n## 授權條款\n本模組採用 [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html) 授權提供，意味著您可以對本模組的程式碼隨您處置。\n這本就不該由我獨佔的概念，因此我選擇將此模組置於公有領域。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

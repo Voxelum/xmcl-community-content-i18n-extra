@@ -1,6 +1,6 @@
 {
-  "bodyHash": "phP15htdMqY=",
-  "content": "# ReplayModAudioRender\n\nДополнение для ReplayMod, которое захватывает аудио во время воспроизведения повтора.\n\nОно заменяет аудиоустройство Minecraft на [loopback-устройство OpenAL](https://github.com/openalext/openalext/blob/master/ALC_SOFT_loopback.txt) во время рендеринга и записывает захваченное аудио в файл.\n\n## Настройки\n\nРаздел «Настройки аудио» добавлен в меню рендеринга ReplayMod.\n\n![Настройки аудио](https://github.com/apehum/replaymod-audio-render/raw/main/.github/assets/settings.png)\n",
+  "bodyHash": "960238d24bf9c1a3",
+  "content": "\n\n# ReplayModAudioRender\n\nАддон для ReplayMod, который записывает звук во время рендеринга повтора.\n\nВо время рендеринга он заменяет аудиоустройство Minecraft на [loopback-устройство OpenAL](https://github.com/openalext/openalext/blob/master/ALC_SOFT_loopback.txt) и записывает захваченный звук в файл.\n\n## Настройки\n\nВ меню рендеринга ReplayMod добавлен раздел **Настройки звука**.\n\n![Настройки звука](https://github.com/apehum/replaymod-audio-render/raw/main/.github/assets/settings.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

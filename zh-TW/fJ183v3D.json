@@ -1,0 +1,6 @@
+{
+  "bodyHash": "14d856d194522f59",
+  "content": "\n\n### <big>⚠️**警告：**</big> [**Distant Horizons**](https://modrinth.com/mod/distanthorizons)<small><small><small> 或 [voxy](https://modrinth.com/mod/voxy)</small></small></small> 與 [**Sodium**](https://modrinth.com/mod/sodium) 必須安裝於客戶端！<big>⚠️</big>\n\n## <big>**獨立的 Sable 渲染距離**</big> \n\n**SSRD** 是一款讓玩家能夠在原版渲染距離之外，看到更遠處 Sable 物理物件的模組。如果您使用 **Create: Aeronautics** 搭配 Distant Horizons 來建造飛機、汽車或船隻，這款模組基本上是必備的（尤其是在多人遊戲中）。\n\n## 設定檔\n調整 **子層渲染距離** 的滑桿位於 Sodium 的影片設定選單中，緊鄰正常 **模擬距離** 滑桿的下方。允許的最大距離會動態更新，以符合您的 Distant Horizons 距離或伺服器設定的最大值。\n\n## 強制載入\n自 2.0.1 版本起，Sable 擁有自己的強制載入方法 `/sable forceload @`，這需要管理員權限 (OP)。SSRD 的強制載入功能已全面翻新，採用對伺服器更友善的方式。`/ssrd forceload` 不需要玩家具備管理員權限，但仍會遵守強制載入上限，該上限可透過 `/gamerule ssrdForceLoadLimit` 進行變更（預設為 10）。\n\n---\n<details>\n<summary>重要資訊</summary>\n\n* 1.8 及更高版本 <big>**需要**</big> sodium 0.8，若您在此版本使用 voxy，則需要[此](https://github.com/m3t4f1v3/voxy/tree/mc_1211-sodium0.8.12) 移植版\n\n\n* 某些 Iris 光影包會導致渲染問題，例如當啟用特定光影包時，可以透過 LODs 看到子層。\n  \n* 目前您無法將影片設定滑桿與 voxy 搭配使用，請改用 ssrd 的設定檔來調整子層渲染距離。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

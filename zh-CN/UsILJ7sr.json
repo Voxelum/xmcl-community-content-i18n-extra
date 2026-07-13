@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d656a9203288cfbb",
+  "content": "\n\n# Sable Fan Config\n\n## 项目简介\n\nSable Fan Config 是一款简单的 Minecraft 模组，可在安装 Sable 模组时用于配置 Create 模组的风扇推力。\n\n## 功能\n\n- 支持调整 Create 模组中风扇的速度倍率\n- 通过配置文件进行简便的设置\n\n## 配置选项\n\n安装模组后，会在 `config` 文件夹中自动生成名为 `sablefanconfig-common.toml` 的配置文件。\n\n### 可用配置项\n\n| 配置项 | 说明 | 默认值 | 取值范围 |\n|-------|------|-------|------|\n| encased_fan_block_prop_speed_multi | 风扇推力倍率 | 1 | 0-100 |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

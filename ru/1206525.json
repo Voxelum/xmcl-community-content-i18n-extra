@@ -1,0 +1,6 @@
+{
+  "bodyHash": "47493e52a0f1f8b2",
+  "content": "\n\n<p>MCEF — это мод и библиотека для добавления веб-браузера Chromium в Minecraft. Этот мод не выполняет никаких полезных функций самостоятельно; он представляет собой библиотеку для использования браузера Chromium другими модами.</p>\n<p>&nbsp;</p>\n<p><strong>--- Внимание ---</strong><br>Причина существования этого форка заключается в том, что при использовании текущей версии мода MCEF для 1.12.2 (по состоянию на 24.02.2025) необходимые файлы CEF не загружаются, из-за чего мод webdisplays не работает. Данный форк изменяет зеркало по умолчанию, с которого мод загружает бинарные файлы mcef. Зеркало:&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fcdn.oxmc.me%252finternal%252fmcef\" target=\"_blank\" rel=\"nofollow\">https://cdn.oxmc.me/internal/mcef</a><br><br><strong>ПРИМЕЧАНИЕ:&nbsp;</strong>Это устаревшая версия mcef для работы с 1.12.2, включённая версия Chromium: <code>100.0.4896</code></p>\n<p>&nbsp;</p>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

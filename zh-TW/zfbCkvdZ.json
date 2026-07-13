@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6f60161fb44ba106",
+  "content": "\n\n# Kambrik\n\n一款適用於 Fabric 的輕量級 Kotlin 程式庫模組。\n旨在透過各種方式簡化開發流程。\n\nKambrik 目前提供：\n* 簡化的物品、方塊、附魔等註冊機制\n* 用於簡易建立指令的命令 DSL\n* 支援網路雙向傳輸資料的訊息 API\n* 針對常見且可重複使用功能的擴充方法\n* 文字建構器 DSL\n\n\n實驗性功能：\n* 結合 Kotlinx Serialization 的簡單物件與 NBT 轉換\n\n\n即將推出的功能：\n* GUI 繪製 DSL\n\n\n實驗性的程式庫功能將暫存於 `kambrikx` 中，直到其成熟為止。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ZpZz1U7RJvs=",
-  "content": "# Модификация TwilightForest Thread Safety для Forge 1.20.1\n\nЭтот мод является неофициальным форком модификации TwilightForest Thread Safety Addon, созданной ishlandmc.\n\nОна делает [C2MEF](https://modrinth.com/mod/c2mef) или [C2ME](https://modrinth.com/mod/c2me-fabric) + [Connector](https://modrinth.com/mod/connector) (C2ME + Connector пока не полностью протестированы) совместимыми с Twilight Forest на Forge 1.20.1, сделав генерацию Twilight Forest потокобезопасной и ускорив её.",
+  "bodyHash": "32b347158e1e18d1",
+  "content": "\n\n# TwilightForest Thread Safety Addon для Forge 1.20.1\n\nДанный мод является неофициальным форком дополнения TwilightForest Thread Safety Addon от разработчика ishlandmc.\n\nОн обеспечивает работу [C2MEF](https://modrinth.com/mod/c2mef) или [C2ME](https://modrinth.com/mod/c2me-fabric) + [Connector](https://modrinth.com/mod/connector) (связка C2ME и Connector не была полностью протестирована) с Twilight Forest на Forge 1.20.1, делая генерацию в Twilight Forest потокобезопасной и более быстрой.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

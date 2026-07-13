@@ -1,0 +1,6 @@
+{
+  "bodyHash": "207292ddf8158099",
+  "content": "\n\n<h1>免责声明：本项目为社区项目，与 Sable / Create Simulated 团队无关，未获得其支持或认可。</h1>\n<p><a href=\"https://github.com/erincatto/box3d\" target=\"_blank\" rel=\"nofollow\">Box3D</a> 是一款现代化的物理引擎，在稳定性与精度方面优于大多数通用物理引擎（包括 PhysX 和 Rapier）。本模组将 Box3D 作为 Rapier（Sable 默认使用的物理引擎）的可选替代方案加入游戏。</p>\n<p><span><iframe src=\"https://www.youtube.com/embed/YGrY6pe3nI4?si=8hpQnaRi1uqTQMx5\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></span></p>\n<h2>注意事项：</h2>\n<ul>\n<li>尚未经过充分测试（这也是我们选择公开发布的原因啦 lol）</li>\n<li>不支持将 Create 模组的传送带用作轨道（Sable 通过接触修改回调实现该功能，而 Box3D 并不支持此类回调。此处使用的是未经任何补丁的官方上游 Box3D）</li>\n<li>故意保持随性状态。如果连不熟悉 Sable 和 Box3D 的开发者都能完成此项目，真正的专家自然能做得更出色、更高效。开源开放的项目终将胜过封闭限制的项目。</li>\n</ul>\n<p>本项目旨在作为概念验证，展示 Sable 及其整个 Simulated 套件完全开源/源码可见的特性，如何让完全不了解该领域的旁观者也能为其生态系统做出贡献。若是真正的开源软件，这原本会是 Valkyrien Skies 的一个附加模组。遗憾的是，VS2 目前仅公开了面向 Minecraft 的部分，而其独立于 Minecraft 的核心模块（含网络部分）均为经过混淆处理的闭源软件。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

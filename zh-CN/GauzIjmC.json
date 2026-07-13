@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b36ae501a2c2c995",
+  "content": "\n\n一款轻量级模组，允许所有玩家使用原版 `/tp` 指令，无需管理员权限或开启作弊模式，也不包含 `/tpa` 之类的请求/接受流程。\n\n本模组重写了原版 `/tp` 指令：\n\n- 所有玩家均可使用 `/tp`，无需管理员权限或任何其他权限。\n- 为保证游戏公平性，`/tp` 仅支持目标选择器 `@s`。不支持 `@e`、`@p`、`@r`、UUID 目标以及多目标用法（例如 `/tp @e @s`、`/tp <uuid>`）。\n\n玩家仍可像原版 `/tp` 一样传送到其他玩家或指定坐标。\n\n可用指令示例：\n\n- `/tp Player`\n- `/tp x y z`\n- `/tp PlayerA PlayerB`\n- `/tp @s Player`\n- `/tp Player @s`\n- `/tp @s x y z`\n- `/tp Player x y z`\n\n配置文件示例（`justtp-common.toml`）：\n\n```toml\n# 是否允许使用坐标传送，默认为 `true`\nenableCoordinateTp = true\n\n# 传送消息发送模式\n# 可选值：OFF、BOTH、ALL\ntpMessageMode = \"ALL\"\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

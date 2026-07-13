@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27299866303f4b6f",
+  "content": "\n\n# HideNames\nПростой мод для Minecraft, работающий на стороне сервера (включая LAN).\n\n### Использование\nЧтобы включить или отключить правило, используйте:\n/gamerule hidenames:hide_names true/false\n\n### Требования\n- Minecraft 1.21.11\n- Fabric Loader\n- Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

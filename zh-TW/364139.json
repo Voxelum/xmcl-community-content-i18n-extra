@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fa15f09e069418fb",
+  "content": "\n\n<p>本模組新增了一種不需要門的門把。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/307/451/wood.png\" alt=\"合成配方\"></p>\n<p>製作一個門把，然後在任意牆壁上使用以創建臨時門洞。門洞的長度取決於門把的材質。挖掘速度越快，門洞延伸得越遠。門洞無法穿過黑曜石等高硬度方塊，除非你擁有由鑽石或獄髓金製成的強韌門把。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/300/432/doorknob.gif\" alt=\"門把\"></p>\n<p>當不再需要門洞時，只需右鍵點擊門即可關閉它。所有方塊都會恢復原狀，你的門把也能被撿起，以便未來創建更多門洞。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/307/445/1.png\" alt=\"截圖\"></p>\n<p>提供適用於 Minecraft 1.12.2 及以上版本的模組。</p>\n<ul>\n<li>1.14.4 及以上版本允許穿越門洞並為門把附魔。</li>\n<li>1.16.5 及以上版本新增獄髓金製門把。</li>\n</ul>\n<p>支援以下附魔：</p>\n<ul>\n<li><strong>雙重</strong>（本模組新增）會在門洞末端額外生成一扇門。</li>\n<li><strong>效率</strong> 會增加所創建門洞的長度。</li>\n</ul>\n<p>注意：此門洞使用時應完全安全。它不會嘗試穿過含有方塊實體的方塊，藉此避免破壞方塊或中斷機制。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

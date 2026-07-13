@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0f7e3dcfd732f8ac",
+  "content": "\n\n![project description](https://cdn.modrinth.com/data/cached_images/d1813838e7ccca73eca8e0cc23dfabc84a6f8e09_0.webp)\n\n## 死亡动画\n- 支持版本：**1.20.2+**\n- 玩家死亡时会炸裂成偏红色的方块！\n- 生物的“碎块”效果各不相同！\n\n目前支持以下生物：**僵尸、骷髅、凋灵骷髅、苦力怕、溺尸、末影龙、末影人、恶魂、蜘蛛、唤魔者、卫道士、猪灵、猪灵蛮兵和监守者**。未来将陆续添加更多！\n\n## 额外选项\n生物碎块效果默认开启，但你可以通过运行以下命令来禁用它：\n```\n/scoreboard players set EnableMobGibbing gib.CONFIG 0\n```\n## 鸣谢\n#### SCHMOOVE II (chopstickwater)\n\n[SCHMOOVE II](https://discord.gg/B25MX3D5fG) 是由 **chopstickwater** 在沙盒服务器 [legitimoose.com](https://store.legitimoose.com/) 上制作的一款动作射击游戏。“碎块效果”（或称“死亡动画”）是她的原创功能，玩家死亡时会炸裂成小型彩色方块（即“碎块”）。该效果基于物理引擎模拟，使爆炸表现尽可能逼真。\n\n可疑链接？\nhttps://files.catbox.moe/8to4ap.mp4",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

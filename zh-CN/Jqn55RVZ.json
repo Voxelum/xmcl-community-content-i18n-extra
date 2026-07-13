@@ -1,0 +1,6 @@
+{
+  "bodyHash": "94e1488d033b9516",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/m1_DvZ7u-mU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n该着色器采用屏幕空间置换技术，作为 POM 的替代方案。\n\n因此，方块将以像素级精度重新渲染为高精度 3D 模型。\n\n**请使用 POM 材质包。** 图中展示的是 [Rotr 方块](https://modrinth.com/resourcepack/rotrblocks)。\n\n这纯属娱乐，旨在测试该技术是否适用于 Minecraft。由于处于高度实验阶段，某些情况下可能会出现画面崩坏或大量 Bug。\n\n请勿期望更改“置换”菜单以外的选项能保持正常运行，再次强调，这是一款实验性测试着色器。（它基于“仅彩色光照”着色器构建）\n\n如果您希望该着色器不断完善，欢迎在此处及 Discord 上提供反馈。\n如果您愿意，也可以通过 Patreon 和 YouTube 支持我及我的项目。\n\n玩得开心！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

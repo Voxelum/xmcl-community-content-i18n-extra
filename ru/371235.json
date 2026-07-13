@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4237c4805d368bc5",
+  "content": "\n\n<p style=\"text-align:center\"><strong>Для работы этого мода требуется <a href=\"https://www.curseforge.com/linkout?remoteUrl=https://fabricmc.net/\" rel=\"nofollow\">Fabric</a></strong>, а не Forge.</p>\n<p>Просто скажите <strong>\"нет!\"</strong> ретина-экранам вместе сretiNO!</p>\n<p>Этот мод заставляет Minecraft рендерить игру в половинном разрешении на дисплеях Retina, чего вам, скорее всего, хватит с головой, и при этом он не убивает производительность вашего ПК и всей его родни.</p>\n<p>&nbsp;</p>\n<p>Примечание: Этот мод <span style=\"text-decoration:underline\">влияет только на macOS</span>&nbsp;(хотя он отлично работает на других платформах; просто ничего не делает), так как там есть невероятно простой способ реализовать это. На других платформах похожего решения似乎 нет, но вы можете добиться почти того же с помощью <a href=\"https://www.curseforge.com/minecraft/mc-mods/resolution-control\" rel=\"nofollow\">Resolution Control</a>.</p>\n<p>&nbsp;</p>\n<p>Canvas: Если вы используете <a href=\"https://www.curseforge.com/minecraft/mc-mods/canvas-renderer\" rel=\"nofollow\">Canvas Renderer</a> от Grondag, этот мод вам не нужен — в Canvas уже есть эта функция, и она включена по умолчанию.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

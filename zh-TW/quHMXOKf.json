@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2411d9b367790cf3",
+  "content": "\n\n# 快速資源包\n\n## 穩定版 1.1.0\n\n透過快捷鍵即時開關選定的資源包，無需重新啟動遊戲。\n此版本新增了內建快速選單，並改善了與原版資源包介面的整合。\n\n\n![快速資源包:https://www.emanuelefaraci.com/projects?open=quick-resource-pack](https://cdn.modrinth.com/data/cached_images/b22a92de6d7aabd7f3b011652755a877463455ae_0.webp)\n\n\n---\n\n## 完整說明\n\nQuick Resource Pack 是一款僅限客戶端的 Fabric 模組，讓你只需挑選一次資源包，即可在遊玩過程中隨時切換開關。\n\n1.1.0 版本為重大更新：\n- 新增內建模組選單，方便快速挑選資源包\n- 更佳的原版資源包介面整合\n- 提升於 1.21.x 各小版本間的相容性與穩定性\n\n## 功能特色\n\n### 快速切換\n- 使用可自訂的快捷鍵（預設：R）切換選定的資源包\n- 採用非同步載入機制，減少遊戲卡頓\n- 提供載入、啟用與停用狀態的 Toast 通知\n\n### 內建介面\n- 專屬的模組內快速選單\n- 在原版資源包介面中設定「快速切換」按鈕\n- 提供適合日常使用的快速挑選流程\n\n### 設定選項\n- 選擇目標資源包\n- 開啟或關閉通知功能\n- 支援遊戲啟動時自動套用（可選）\n- 整合 Cloth Config 與 Mod Menu\n\n## 系統需求\n\n- Minecraft 1.21.x（已提供針對各小版本的獨立檔案）\n- Java 21\n- Fabric Loader\n- Fabric API\n- Cloth Config API\n- Mod Menu\n\n## 使用方法\n\n1. 開啟模組快速選單（或設定畫面）。\n2. 選擇你想要綁定的資源包。\n3. 在遊戲中使用快捷鍵來開關該資源包。\n\n替代操作方式：\n開啟原版資源包畫面，選取資源包後，點擊「設定為快速切換」。\n\n## 相容性\n\n- 僅限客戶端（無需安裝至伺服器）\n- 與常見的客戶端模組相容性良好（包含 Sodium 與 Iris）\n- 提供針對 1.21.x 各小版本的獨立構建檔，以確保各版本的最佳穩定性\n\n## 實用連結\n\nGitHub: https://github.com/emqnuele/quick-resource-pack\n官方網站: https://emanuelefaraci.com",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

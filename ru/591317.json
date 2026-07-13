@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c4d9dd661a6e77e",
+  "content": "\n\n<h2>ForgetMeChunk</h2>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>ForgetMeChunk — это простой клиентский мод, который предотвращает выгрузку карты света на стороне клиента. Это устраняет падения FPS, возникающие при пересечении определённых границ чанков.</p>\n<p>Однако <strong>это вызывает утечку памяти</strong>. Эта утечка сбрасывается при смене измерения или выходе из сервера/мира, <strong>поэтому используйте на свой страх и риск</strong>.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3>Демо</h3>\n<p><span>демонстрация выполнена с использованием мира Hermitcraft Season 8 и Minecraft 1.18.1</span></p>\n<p>&nbsp;</p>\n<p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/Wee5Rct6b_k?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

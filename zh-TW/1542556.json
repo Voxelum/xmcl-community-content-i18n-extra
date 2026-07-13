@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7277bcc531ff67bd",
+  "content": "\n\n<p><strong>這是一個專為我的 Minecraft 模組所撰寫的基礎模組，主要目的為修改與擴充 Tetra 模組的內容與機制。</strong></p>\n<p><strong>它整合了 MixinExtras 以提供相容性更高的 mixin，進而降低與其他模組互動時的衝突並提升穩定性。</strong></p>\n<p><strong>該模組目前為&nbsp;<code>IModularItem</code>&nbsp;中的部分方法提供了包裝器。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

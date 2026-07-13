@@ -1,0 +1,6 @@
+{
+  "bodyHash": "efb0f22930448b11",
+  "content": "\n\n# KilaGraph\n\n**专为 Minecraft 模组开发者设计的可编程节点图与着色器图工具包。**\n\n[![NeoForge](https://img.shields.io/badge/NeoForge-26.1+-E04E14?style=for-the-badge)](https://neoforged.net/)\n[![LDLib2](https://img.shields.io/badge/Built%20on-LDLib2-2F80ED?style=for-the-badge)](https://github.com/Low-Drag-MC/LDLib2)\n[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)\n\n</div>\n\nKilaGraph 基于 LDLib2 的节点图工具包构建，旨在为模组提供游戏内可编程图表功能。它面向希望使用可视化逻辑图、可复用图表资源，并能以类似 ShaderGraph 的方式开发自定义 RenderType，而无需手动编写每个着色器及编辑器工作流的作者。\n\n## 特性\n\n- **蓝图图 (Blueprint Graphs)**：适用于模组端逻辑与数据流的通用可编程节点图。\n- **渲染类型图 (RenderType Graphs)**：可编译为 Minecraft RenderType 管道的可视化着色器图。\n- **着色器函数图 (Shader Function Graphs)**：可在多个 RenderType 图中复用的着色器子图。\n- **编辑器集成**：基于 LDLib2 的图表编辑、资源管理、节点库、设置面板及实时着色器预览。\n- **适配 Minecraft 的节点**：提供针对物品、方块、流体、实体、NBT、世界查询、数学运算、列表、映射、字符串及着色器操作的实用工具。\n\n## 依赖要求\n\n- Minecraft / NeoForge `26.1`\n- LDLib2 `26.1.2.20+`\n\n确切的依赖版本范围定义在 `gradle.properties` 中。\n\n## 链接\n\n- [LDLib2](https://github.com/Low-Drag-MC/LDLib2)\n- [KilaGraph 仓库](https://github.com/Low-Drag-MC/KilaGraph)\n\n## 许可证\n\nKilaGraph 采用 MIT 许可证开源。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

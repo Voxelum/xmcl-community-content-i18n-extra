@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ce2441fd852ceff4",
+  "content": "\n\nБазовый модуль, используемый в других модах\n\n## Необходимые зависимости:\n\n*   [ModularUI](https://modrinth.com/mod/modularui)\n*   [GTNHLib](https://modrinth.com/mod/gtnhlib)\n*   [UniMixins](https://modrinth.com/mod/unimixins)\n\n## Особенности:\n*   Загрузчик JSON,\n*   Загрузчик рецептов JSON,\n*   Система Capabilities,\n*   Item Cooldown позволяет добавлять время восстановления предмету после каждого использования,\n*   Компонент данных для предметов, упрощающий работу с get/set,\n*   Быстрая запись/чтение NBT в TileEntity и WorldSavedData с помощью NBTPersist,\n*   Быстрые сетевые сообщения с PacketCodec,\n*   События ввода мыши и клавиатуры,\n*   Проверка обновлений,\n*   Множество вспомогательных классов, помогающих сократить дублирование кода,\n*   Базовый класс BaseMod, помогающий обрабатывать команды, привязки клавиш, события...",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

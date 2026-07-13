@@ -1,0 +1,6 @@
+{
+  "bodyHash": "008169e9e9f42086",
+  "content": "\n\n<p>Очень простой мод: Воспроизводит <strong>настраиваемый</strong> звук, когда:</p>\n<ul>\n<li>Minecraft загружается и попадает в главное меню</li>\n<li>Загружается мир</li>\n<li>Minecraft завершает перезагрузку ресурсов</li>\n</ul>\n<p>&nbsp;&nbsp;</p>\n<p>Он называется &ldquo;Ding&rdquo;, потому что это звук, который воспроизводится при подборе сферы опыта.</p>\n<p>&nbsp;</p>\n<p>Только для клиента. Требуется <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/completeconfig\" rel=\"nofollow\">CompleteConfig</a>. Версия для Minecraft Forge доступна <a href=\"https://www.curseforge.com/minecraft/mc-mods/ding\" rel=\"nofollow\">здесь</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

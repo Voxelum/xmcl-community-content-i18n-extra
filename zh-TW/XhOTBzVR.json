@@ -1,0 +1,6 @@
+{
+  "bodyHash": "70057e3ecb9c0521",
+  "content": "\n\n# Xaero 地圖 Chest Tracker 整合\n\n此模組擴充了 [Chest Tracker](https://modrinth.com/mod/chest-tracker) 的功能，並將結果顯示於 [Xaero's Map](https://modrinth.com/mod/xaeros-world-map) 中。\n\n它與 Xaero's Minimap、Better PVP 及其對應版本相容。\n\n![遊戲內航點](https://cdn.modrinth.com/data/XhOTBzVR/images/b0f97f693cbc935937b0cb7d0ec7cf830b9da2db.png)\n\n![地圖畫面](https://cdn.modrinth.com/data/XhOTBzVR/images/01b0c61dfda5ea9fc992536536093af1f701449d.png)\n\n### 需求：\n* [ChestTracker](https://modrinth.com/mod/chest-tracker)\n* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

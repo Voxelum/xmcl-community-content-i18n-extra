@@ -1,0 +1,6 @@
+{
+  "bodyHash": "41dddfda7612ca0d",
+  "content": "\n\n你曾經玩過《異星工廠》(Factorio)，並發現他們的 QoL 功能：「快速實體轉移」嗎？該功能允許你在不開啟圖形介面 (GUI) 的情況下直接轉移物品。 \n\n本模組正是為你帶來這項功能，讓玩家與方塊實體之間能進行類似《異星工廠》風格的物品轉移。\n\n「魔法」運作原理說明：\n* 首先，手持合適的物品按下 CTRL + 左鍵／右鍵點擊\n* 若這三種方塊實體的輸出槽中含有物品或經驗值，玩家將直接獲取。\n* 可燃物品會自動置入燃料槽。 \n* 若物品兼具可燃性與熔煉配方，系統會優先嘗試放入燃料槽，其次才是輸入槽。\n* 擁有燒結／熔煉／熏製配方的物品會直接放入輸入槽。\n\n本模組亦支援第三方方塊實體，只要其實例類型為 `AbstractFurnaceBlockEntity`、`SmokerBlockEntity` 或 `BlastFurnaceBlockEntity` 即可。\n\n![](https://cdn.modrinth.com/data/inmPbeHN/images/3136767cd71ba910cbde313ed83149644b0e8b8b.gif)\n\n![](https://cdn.modrinth.com/data/inmPbeHN/images/7dbe20a8ffdaccb937cdd1fb82b8c4eb490bfefa.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

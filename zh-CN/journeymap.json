@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b7f7fb794e423aa",
+  "content": "\n\n![JourneyMap](http://i.imgur.com/322B1np.png)\n\n  **在探索过程中，于游戏内或网页浏览器中实时绘制地图。**\n\n  JourneyMap 是一款适用于 [Forge](https://forums.minecraftforge.net/)、[Fabric](https://fabricmc.net/) 和 [Quilt](https://quiltmc.org/) 的客户端+服务端模组，可在你探索时实时绘制你的 Minecraft 世界地图。你可以选择在网页浏览器中查看，或在游戏内以小地图或全屏模式查看。\n\n  ## 注意：目前服务端仅用于从服务器端控制 JourneyMap 的功能，服务端本身不进行任何地图绘制工作。若要显示任何内容，客户端必须安装 JourneyMap。 \n\n  #### 关于“服务端与客户端可选”：客户端可以连接未在服务端安装 JourneyMap 的服务端，未安装 JourneyMap 的客户端也可以连接已安装该模组的服务端。 \n\n  #### 帮助与文档\n\n  - 指南与教程：[http://journeymap.info](http://journeymap.info)\n  - **[JourneyMap Discord](https://discord.gg/eP8gE69) 服务器提供技术支持**\n\n  #### 是 Bukkit/Paper 服务端管理员吗？\n\n  请访问 [http://journeymap.info/Server](https://teamjm.github.io/journeymap-docs/latest/server/basic-usage/) 获取相关信息与配置详情。\n\n  #### 需要生成大型地图图片？\n\n  请查看 **[JourneyMap Tools](https://github.com/TeamJM/journeymap-tools)** 项目。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

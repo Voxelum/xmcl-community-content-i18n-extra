@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1ff9ecf618111e1c",
+  "content": "\n\n# strut 秀出你的結構！\n\n此函式庫模組可用來建立跨越區塊、形成連續且可互動結構的支撐樑。\n\n## 主要功能：\n* **碰撞結構：** Strut 會生成實體碰撞結構，確保更流暢的互動體驗。\n* **Flywheel 整合：** Strut 可透過 Flywheel 渲染系統進行繪製，進而提升效能。\n* **表面裁切：** Strut 模型會依據表面進行裁切，呈現更精緻的外觀。\n* **電纜樣式：** Strut 可搭配電纜行為，以停用碰撞、維持形狀並產生自然的下垂效果。\n\n## 給玩家\n\n本模組為函式庫，請根據所需模組安裝後即可盡情遊玩！\n\n## 給開發者\n\n本模組的相關文件可於 [struts.azmod.net](https://struts.azmod.net/) 查閱。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

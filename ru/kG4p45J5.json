@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9fb4490cbabf51b8",
+  "content": "\n\n[![Kinetic Hosting](https://cdn.modrinth.com/data/cached_images/1af71189dede4258766a75b4957acefce1910966.webp)](https://billing.kinetichosting.com/aff.php?aff=1406)\n\nДобавьте возможность создания Ока Эндера с помощью Стержней бризы, Призмариновых осколков и Комочков смолы (требуется мод [Vanilla Backport](https://modrinth.com/project/6xwxDTgf) для версии 1.21.1)\n\nЭтот рецепт полностью редактируется через тег #lleoe:end_eye\n\n![Рецепт призмарина](https://cdn.modrinth.com/data/cached_images/728170f202767d05a9fc947513084e934aca725c.png)\n![Рецепт смолы](https://cdn.modrinth.com/data/cached_images/b53e4c2ecd18844bb987e000a39397c28e6ba586.png)\n![Рецепт стержня бризы](https://cdn.modrinth.com/data/cached_images/ed885359554a92d24a439e02ba765f428829a7ea.png)\n\n\n**Установка**\n\nДля версии с датпаком: при создании мира перейдите на вкладку «Датпаки», нажмите кнопку для открытия папки датпаков и перетащите датпак внутрь. Он должен появиться в списке слева, после чего включите его так же, как вы включаете экспериментальные датпаки.\n\nДля версии с модом (в Windows): нажмите правой кнопкой мыши на меню «Пуск» и выберите «Выполнить», затем введите `%appdata%`. Откроется папка, перейдите в `.minecraft`, а затем в `mods`. Перетащите туда файл `.jar`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "jt1PlS7vDSo=",
-  "content": "# Mr_Chibi的自動播種機 1.21.5+\n_支援單人、多人以及模組環境，適用於1.21.5以上版本_\n\n## 它提供了什麼樣的遊戲機制？\n- 允許農作物自動種植，無需右鍵點擊。\n- 種植僅限於**耕地**與**靈魂沙**上。\n\n### 它是如何運作的？\n舉例來說，如果玩家主手持有任何類型的**種子**或**農作物**。\n假設是「**minecraft:carrot**」或「**minecraft:wheat_seeds**」，遊戲會自動從玩家物品欄中取出，並自動放置，同時從物品欄中移除。\n\n### 影片展示：\n[https://www.youtube.com/watch?v=cTniu6FlGtE](https://www.youtube.com/watch?v=cTniu6FlGtE)\n\n### 錯誤回報者：\n[AbadabaBoy](https://github.com/AbadabaBoy) - 因特定光照等級導致的種子複製錯誤。",
+  "bodyHash": "e5fd04cb2e84daca",
+  "content": "\n\n# Mr_Chibi's AutoPlanter 1.21.5+\n_適合單人、多人及模組環境，支援 1.21.5+_\n\n## 提供哪些遊戲機制？\n- 允許作物自動種植，無需右鍵點擊。\n- 種植功能僅適用於**耕地**與**靈魂沙**。\n\n### 運作方式為何？\n舉例來說，如果玩家在主手拿著任何類型的**種子**或**作物**。\n假設是「**minecraft:carrot**」或「**minecraft:wheat_seeds**」，遊戲會自動從玩家的物品欄中取出該物品進行種植，並將其從物品欄中移除。\n\n### 影片示範：\n[影片示範](https://www.youtube.com/watch?v=cTniu6FlGtE)\n\n### 錯誤回報者：\n[AbadabaBoy](https://github.com/AbadabaBoy) - 特定光照等級下的種子異常複製問題。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

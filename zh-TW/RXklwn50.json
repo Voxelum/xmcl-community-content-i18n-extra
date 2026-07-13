@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00d5be49b803d3b4",
+  "content": "\n\n# **Truly Modular: Archery**  \n*無限自訂的弓、弩與箭矢合集*\n  \n![](https://cdn.modrinth.com/data/RXklwn50/images/210f89c8351319aa1445277f64f166930afc4bdd.png)\n  \n\n「Truly Modular: Archery」是一套模組化的弓與箭矢模組。\n它讓原版弓、箭矢與弩能在模組化工坊中進行模組化組合。\n     \n![](https://cdn.modrinth.com/data/RXklwn50/images/0e662b1bf49942ec468fac65d0b30422f355c903.png)  \n\n## **內容物**\n- 3 個弓箭架 (Arrowrest)\n- 4 個弓臂 (Bow arms)\n- 1 根弓弦 (String)\n- 2 組箭羽 (Arrow Fletching)\n- 1 根箭桿 (Arrow Shaft)\n- 2 個箭頭（自訂箭頭支援 TNT、火藥、終界珍珠、合唱果實、冰塊、避雷針、潑濺型與滯留型藥水）\n\n\n## **相容性**\n- [Better Combat](https://modrinth.com/mod/better-combat) 已完整支援\n- 光影模組（如 Iris、Oculus、OptiFine）僅提供部分支援。 \n光影功能僅在啟用備用渲染器時有效。若與 Iris 和 Oculus 同時載入，預設會自動啟用。若在配置檔中可將其停用，或當其他模組造成渲染問題時，也可強制啟用。\n- Truly Modular 預設採用自動相容機制，這表示大多數模組的剑與材質應該都能被識別，若要專屬相容則可透過資料包實現。   \n您可以使用 [MaterialHelper 網站](https://truly-modular.github.io/Material-Helper/) 自行建立相容資料包。\n\n## **常見問題 (FAQ)**\n - 這是給哪個啟動器的？Forge？Fabric？\n   - 兩者皆可，請查看 jar 檔案說明。\n - 會移植到舊版嗎？\n    - 目前沒有計畫。Truly Modular 有許多功能開發優先於移植舊版。待開發清單縮小後，我們可能會考慮移植。\n  - 是否支援 X 模組？\n    - 很有可能？生成式相容機制有高機率能與大多數模組無縫運作。您可以在此查閱更多資訊或回報問題。\n - 我可以為此撰寫擴充模組嗎？\n   - 可以。如需任何協助，歡迎前往我們的 [Discord](https://discord.gg/dSvGfHmfdM) 或查看 API [Wiki](https://truly-modular.github.io/)。\n - 我可以在整合包中使用此模組嗎？\n   - 可以。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

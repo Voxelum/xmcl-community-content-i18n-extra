@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ce2199bcffd8ba6",
+  "content": "\n\n🌪️ 簡單天然災害模組\n簡單天然災害模組（SNDM）為你的《我的世界》世界增添了一個完全動態、逼真且具破壞性的天然災難。此模組基於 Forge 1.20.1 開發，將大自然最強大的力量之一直接帶入你的遊戲中。\n功能特色\n\n5 個逐漸升級的階段，每 5 分鐘自動增強威力\n真實的方塊破壞與拋擲——颶風會將方塊從地面上撕裂並拋向空中，化作掉落方塊實體飛舞後落回地面\n玩家牽引——風暴會以遞增的力量將你拉向其風眼（階段越高牽引力越強）\n逼真的螺旋粒子系統，中心為平靜的風眼\n隨階段提升而變得更響亮、更強烈的環境風聲\n生存模式下的隨機自然觸發——風暴可自行出現\n完整的指令控制，可立即啟動、停止或設定任意階段\n\n指令\n\n/hurricane start — 在第 1 階段啟動颶風\n/hurricane start phase2 至 phase5 — 直接跳轉至任意階段\n/hurricane stop — 立即停止颶風\n/hurricane status — 顯示當前階段與剩餘時間\n/sandstorm\n/tornado\n/tsunami\n/supercell\n\n本模組內的方塊目前尚無法合成。\n需求\n\nMinecraft 1.20.1\nForge 47.2.0\n\n⚠️ 警告：第 5 階段對低階電腦的效能要求極高。請務必從所有災難的第 1 階段開始！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

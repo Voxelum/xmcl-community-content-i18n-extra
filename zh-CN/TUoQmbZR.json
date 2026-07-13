@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9a76f75be5d10041",
+  "content": "\n\n## 特性\n* **体素全局光照：** 针对 Iris 性能优化的高级光线追踪光照。\n* **日月食机制：** 在日月食过渡期间进行动态且持久的追踪。\n* **镜头特效：** 程序化生成的水滴效果与屏幕空间焦距模糊。\n\n## 后处理\n* **CRT 模式：** 复古 VCR 着色器通道，还原经典的扫描线与荧光粉辉光。\n* **ASCII 模式：** 在整个视口中实时进行字符网格转换。\n* **随身摄像头模式：** 具有自动曝光逻辑的超沉浸式鱼眼镜头视角。\n\n## 选项\n* 上述所有内容均为模块化设计。您可通过游戏内的着色器配置菜单完全调整或关闭每一项视觉特效！\n\n## 许可证与鸣谢\n* **许可证：** 互补协议 1.3。本项目是 [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)（由 gri573 开发）的衍生项目，而该项目基于 EminGT 的 [Complementary Shaders](https://modrinth.com/shader/complementary-unbound)。原始版权声明及许可证条款均被严格保留。\n* **主要开发者：** FastdropX\n* **模组修改政策：** 出于对项目本身的尊重，请在发布重大修改前通知开发者或提交拉取请求。\n* **鸣谢：** \n  * gri573（为 Rethinking Voxels 中出色的体素光线追踪实现做出了贡献）。\n  * EminGT（基础 Complementary Shaders 框架的创作者）。\n  * Xonk（日月食过渡算法）。\n  * 基础 CRT、ASCII 和随身摄像头模式屏幕矩阵的原始社区贡献者。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

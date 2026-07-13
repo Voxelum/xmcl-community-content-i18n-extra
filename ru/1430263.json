@@ -1,0 +1,6 @@
+{
+  "bodyHash": "73802bfd6072e1bd",
+  "content": "\n\n<div>\n<div>\n<h2>Обзор:</h2>\n<div>Madoku Craft: Smelting — это настраиваемая система плавки. Она позволяет пользователям изменять скорость плавки в печах и их топливную эффективность. Система также даёт возможность печам принимать дополнительные ингредиенты.</div>\n</div>\n</div>\n<div>&nbsp;</div>\n<div><img src=\"https://media.forgecdn.net/attachments/description/null/description_8fdd0b24-afc5-4918-b491-ea0914f39115.gif\" alt=\"\" width=\"440\" height=\"284\"></div>\n<div><hr></div>\n<div>\n<h2>Зависимости:</h2>\n<br>\n<div>\n<ul>\n<li>Fabric API</li>\n<li>Madoku Craft API</li>\n</ul>\n</div>\n<div>\n<div><hr></div>\n<h2>Реализация:</h2>\n<br>\n<div>\n<div>\n<ul>\n<li>По умолчанию этот мод увеличивает скорость плавки для всех печей.</li>\n<li>Коптильни и доменные печи теперь работают более экономно в плане расхода топлива.</li>\n<li>Вы можете настроить эти параметры в конфигурационных файлах.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

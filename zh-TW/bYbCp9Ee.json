@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4017e5b1605d3f8d",
+  "content": "\n\n# 🔒 臉部辨識門\n\n**使用最新的生物辨識技術保護你的基地！**\n\n「臉部辨識門」為遊戲新增一扇高科技鐵門，僅對其擁有者開啟。無需鑰匙、不需紅石，只需你本人即可。\n\n## ✨ 功能特色\n\n* **生物辨識安全：**門會掃描注視它的玩家。若是本人，門便會自動開啟。\n* **光線投射檢測：**採用進階光線投射技術，確保你正直接注視掃描器。\n* **可自訂設定：**可透過模組選單調整檢測範圍、關閉延遲與 HUD 提示訊息。\n* **智慧機制：**持續注視時門會保持開啟，離開後則會自動關閉。\n* **多語言支援：**內建 30 種以上語言，涵蓋英文、土耳其文、德文、法文、俄文及中文等。\n\n## 🛠️ 依賴項目\n\n本模組需安裝以下前置模組方可運作：\n\n**Fabric 版本：**\n* [Fabric API](https://modrinth.com/mod/fabric-api)\n* [Cloth Config API](https://modrinth.com/mod/cloth-config)（設定功能必要）\n* [Mod Menu](https://modrinth.com/mod/modmenu)（選填，供遊戲內修改設定）\n\n**NeoForge 版本：**\n* [Cloth Config API](https://modrinth.com/mod/cloth-config)\n\n## 📸 遊戲截圖\n\n![臉部辨識門](https://cdn.modrinth.com/data/cached_images/1697045398764851cbf176b8b9be73d2624e60d2_0.webp)\n\n## ⚙️ 設定選項\n\n你可以在設定畫面中調整以下參數：\n* **檢測範圍：**門能偵測到你的最遠距離（預設：5 格）。\n* **關閉延遲：**門開啟後維持的時間（預設：1 秒）。\n* **顯示訊息：**切換是否顯示動作條訊息「臉部辨識已確認」。\n\n---\n*由 Calfmolten 製作*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

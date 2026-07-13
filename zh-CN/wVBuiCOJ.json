@@ -1,0 +1,6 @@
+{
+  "bodyHash": "12df2cb051d94f68",
+  "content": "\n\nInsight 是一款信息类模组，为游戏添加了多种功能的 3D 提示框/悬浮窗/GUI（名称随你如何称呼）：\n\n**TargetHUD**（支持智能定位选项，可根据你的视角动态调整 HUD 位置，以确保最佳可见度）\n\nTargetHUD 用于显示实体信息，尤其是生命值。\n![TargetHUD Dynamic positioning showcase](https://cdn.modrinth.com/data/cached_images/bcec52a79a1b10eadc042af914eb8ad4a8b7e820.gif)\n\n**掉落物品**\n\n当你不确定地上掉落物是什么时（例如在整合包中，或是颜色较暗/难以辨认的原版物品），该功能非常实用。直接查看比捡起来更高效。\n![Dropped Items](https://cdn.modrinth.com/data/cached_images/5748f5db7b1e77823b11a5785acd889cd6a59c75.png)\n\n**床计时器**\n\n床计时器可帮你掌握夜晚来临的时间。\n![Bed Timer](https://cdn.modrinth.com/data/cached_images/aa1a92fb74aa88a6e29e822d7b04374c651b9f8c.png)\n\n此外还有更多功能。Insight 支持自定义设置，可通过配置界面进行调整。\n\n如果你使用的是 Fabric 端，强烈推荐安装 [Mod Menu](https://modrinth.com/mod/modmenu) 以便配置 Insight。\n\nInsight 提供多种模组加载器版本，并将在近期推出多个 Minecraft 版本，以实现广泛兼容。\n\nInsight 目前仍处于早期测试阶段，可能会遇到一些 Bug，敬请谅解！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

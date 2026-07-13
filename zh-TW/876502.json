@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fe090555b46cf24f",
+  "content": "\n\n<h1><span style=\"color:#e03e2d\">此模組已不再維護，請查看<a href=\"https://www.curseforge.com/minecraft/mc-mods/woodencog\" target=\"_blank\" rel=\"nofollow\">此分叉版本</a></span><br><br>Woodencog 是一款針對 Create 的相容性模組。本模組旨在讓玩家能透過 Create 自動化 TFC 的幾乎所有環節。我們計畫完成完整的相容性架構，隨後開放整合包製作者與玩家利用數據包或 KubeJS 自由調整配方與系統。<br><br>此模組可能會打破 TFC 的進度推進，並允許大幅跳過遊戲內容。正因如此，即使模組開發完成，我也不太建議直接原封不動地使用它，而是應將其視為一種工具，協助你打造包含僅靠數據包無法實現之功能的自訂整合包。我們仍會進行一些平衡性調整，但使用本模組將使通關 TFC 變得更加輕鬆。截至目前為止，本模組包含：<br></h1>\n<ul>\n<li>所有合金均可於水盆中鍛造（經過一些特殊處理與除錯後，現在支援向水盆中輸入 4 種流體）</li>\n<li>部分 TFC 物品現在可於工程師護目鏡上顯示詳細資訊</li>\n<li>可透過風扇控制物品溫度（加熱與冷卻）</li>\n<li>機械臂現在可操作木炭熔爐（特別感謝 <a href=\"https://www.youtube.com/@SeriousCreeper\" rel=\"nofollow\">SeriousCreeper</a>）</li>\n</ul>\n<p><br>歡迎下載體驗並提供您的反饋。<br><br><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252f4FPu72ZVEc\" rel=\"nofollow\">Discord</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

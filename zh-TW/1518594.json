@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c3f7c3bbc27311a4",
+  "content": "\n\n<h2>遇到的問題</h2>\n<p>你擁有一個有 20 位村民的交易大廳。每位村民最多有 10 筆交易。每次打開武器匠介面，你都必須滑過六筆永遠不會用的交易，才能找到真正想要的那一筆。每次都是如此。</p>\n<p>假設你要從 8 個滿等農夫那裡購買金蘿蔔 —— 那是一筆埋藏在清單底部的大師級交易。在一個典型的生存世界中，這意味著你要花費 <strong>1,664 次滾輪滑動</strong> 和 <strong>20 分鐘</strong> 的時間，滑過那些你永遠不會用到的麵包與甜菜根交易。你的滾輪值得更好的對待。</p>\n<h2>解決方案</h2>\n<p>Handy Traders 允許你為每位村民的個別交易項目設為收藏。被收藏的交易會自動排在清單頂部，讓你看重的交易每次打開介面時都能第一時間看到。</p>\n<h3>功能特色</h3>\n<ul>\n<li><strong>點擊收藏</strong> — 點擊任意交易列的左上角即可將其加入收藏，並顯示金色角標</li>\n<li><strong>置於頂部</strong> — 收藏的交易會自動移至清單最上方</li>\n<li><strong>獨立記憶</strong> — 每位村民都會獨立記住自己的收藏，且設定會跨遊戲存檔保留</li>\n<li><strong>零依賴</strong> — 可獨立運作，透過 JSON 檔案進行設定</li>\n</ul>\n<h3>選用擴充</h3>\n<p>安裝 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fyacl\" rel=\"nofollow\">YACL</a> 與 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodmenu\" rel=\"nofollow\">Mod Menu</a> 即可在遊戲內開啟設定畫面。即使沒有安裝，所有功能依然正常運作 —— 只需直接編輯 <code>config/handytraders.json</code> 即可。</p>\n<h3>屬於 Handy 系列</h3>\n<p>也歡迎試試看 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fhandy-shulker\" rel=\"nofollow\">Handy Shulkers</a> —— 為潛影盒提供類似束口袋的便捷互動。</p>\n<hr>\n<p>純客戶端模組。不改變任何遊戲機制。只是讓你免於不斷滑滾輪。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

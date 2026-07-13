@@ -1,0 +1,6 @@
+{
+  "bodyHash": "def98cd4c3c6c41f",
+  "content": "\n\n<p>Просто базовый мод, используемый в других модах</p>\n<h2>Требуемые зависимости:</h2>\n<ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/modularui\" target=\"_blank\" rel=\"nofollow\">ModularUI</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/gtnhlib\" target=\"_blank\" rel=\"nofollow\">GTNHLib</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/unimixins\" target=\"_blank\" rel=\"nofollow\">UniMixins</a></li>\n</ul>\n<h2>Возможности:</h2>\n<ul>\n<li>Загрузчик JSON,</li>\n<li>Загрузчик рецептов JSON,</li>\n<li>Система capabilities,</li>\n<li>Item Cooldown позволяет добавлять время восстановления предмету после каждого использования,</li>\n<li>Data Component для предметов, упрощающий работу с get/set,</li>\n<li>Быстрая запись/чтение NBT в TileEntity и WorldSavedData с помощью NBTPersist,</li>\n<li>Быстрая отправка пакетов сообщений через PacketCodec,</li>\n<li>События ввода мыши и клавиатуры,</li>\n<li>Проверка обновлений,</li>\n<li>Множество классов-помощников, сокращающих дублирование кода,</li>\n<li>Класс BaseMod, помогающий обрабатывать команды, привязки клавиш, события,…</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

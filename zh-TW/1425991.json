@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f76775dd457a9613",
+  "content": "\n\n<p>本模組為 <a href=\"https://www.curseforge.com/minecraft/mc-mods/emi-ores/files/6060341\" target=\"_blank\" rel=\"nofollow\">EMI Ores</a> 的衍生版本。</p>\n<p>可輕鬆於 <a href=\"https://www.curseforge.com/minecraft/mc-mods/jei\" target=\"_blank\" rel=\"nofollow\">JEI</a> 內部查看礦物生成資訊。</p>\n<p>EMI Ores 是一款專為配方檢視器 EMI 設計的插件，用於顯示礦物在世界中的生成機制相關資訊，包括：</p>\n<ul>\n<li>Y軸分佈</li>\n<li>礦脈大小</li>\n<li>每區塊礦脈數量</li>\n<li>生態域限制</li>\n</ul>\n<p>此模組必須在客戶端與伺服器同時安裝方可正常運作；若僅存在於單一端，它將自動靜默停用。</p>\n<p>由於本模組會從數據包配置的生成特性中擷取資料，因此在絕大多數情況下，模組新增的礦物無需額外設定即可正確顯示。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

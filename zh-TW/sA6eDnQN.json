@@ -1,6 +1,6 @@
 {
-  "bodyHash": "QbfMclPQme0=",
-  "content": "# 夜視\n\n專為 [Polytone](https://modrinth.com/mod/polytone) 或 [OptiFine](https://optifine.net/home) 設計的超小型夜視資源包，透過自訂光源映射與環境屬性修改器來實現。\n\n![預覽](https://cdn.modrinth.com/data/sA6eDnQN/images/d9fb3f33774f105e179bf99aaea6fa2aba4851e9.png)\n\n自訂光源映射功能目前不適用於 Minecraft 1.21.10 及以上版本的 Polytone，而修改後的環境屬性僅存在於 Minecraft 26.1+ 中，因此您可能僅能在中間版本使用 OptiFine 搭配此資源包。\n\n使用 [OptiFine](https://optifine.net/home) 時，需滿足：自訂顏色：開啟、平滑光照：關閉、動態光源：關閉\n\n> **請務必在多人遊戲中使用此類資源包前，確認伺服器規則。**",
+  "bodyHash": "abca780466527387",
+  "content": "\n\n# 夜視\n\n一款適用於 [Polytone](https://modrinth.com/mod/polytone) 或 [OptiFine](https://optifine.net/home) 的小型夜視資源包，透過自訂光照貼圖與環境屬性修改器實作。\n\n![Preview](https://cdn.modrinth.com/data/sA6eDnQN/images/d9fb3f33774f105e179bf99aaea6fa2aba4851e9.png)\n\n目前 Polytone 於 Minecraft 1.21.10 及之後的版本尚未提供自訂光照貼圖支援，且環境屬性的修改功能僅存在於 Minecraft 26.1+ 版本，因此若您使用的版本介於兩者之間，可能僅能搭配 OptiFine 使用此資源包。\n\n使用 [OptiFine](https://optifine.net/home) 時，需將以下選項設定為：自訂顏色：開啟、平滑光照：關閉、動態光源：關閉\n\n> **在多人遊戲中使用此類資源包前，請務必先確認伺服器規則。**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

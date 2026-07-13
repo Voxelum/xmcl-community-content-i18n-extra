@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2e09d5465eb8d5a",
+  "content": "\n\n此附加模組是針對 **Valkyrien Skies 2** 的極簡整合模組，旨在讓 **ComputerCraft** 電腦能夠收集更多資訊，並在（指令電腦的情況下）對飛船擁有更多控制權  \n\n本模組僅包含兩項功能，兩者皆為放置於飛船上之電腦的應用程式介面（API）  \n\nShipAPI - _一款新 API，讓放置在飛船上的電腦能更廣泛地存取飛船資訊！在啟動時，它會同時以「ship」與飛船的名稱顯示！_  \n\nExtendedShipAPI - _此 API 是專為指令電腦設計的 ShipAPI 擴充版，不僅繼承了原始方法，還新增了直接控制飛船的方法！在啟動時，它也會同時以「ship」與飛船的名稱顯示！_  \n\n此外，自版本 0.0.8 起，內建了一些用於建立**自訂 PID 控制器**的遊戲內實用程式。這要感謝 [**19PHOBOSS98**](https://github.com/19PHOBOSS98) 允許我從 [他的 GitHub 儲存庫](https://github.com/19PHOBOSS98/LUA_PID_LIBRARY/tree/main) 加入這些程式，該儲存庫採用 [MIT 授權條款](https://github.com/19PHOBOSS98/LUA_PID_LIBRARY/blob/main/LICENSE)！  \n\n如果你想支持我和我的專案，[請我喝杯咖啡](https://www.buymeacoffee.com/techtastic)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

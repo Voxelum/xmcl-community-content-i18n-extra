@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2157a606a76cf9f8",
+  "content": "\n\n<h1>足够多的沉浸式复合结构</h1>\n<p>一款简单的《沉浸工程》插件，为复合结构提供JEI支持。若安装了《沉浸石油》等大多数相关插件，亦能支持其对应的结构。</p>\n<p>复合结构会显示在JEI搜索栏中，方便快速查阅。它们还会与每个复合结构配方所需的“催化剂”原料相关联，支持直接跳转查看。</p>\n<p><img src=\"https://raw.githubusercontent.com/sguest/jei-multiblocks/main/readme-images/jei-search.png\" alt=\"JEI搜索\"></p>\n<p>复合结构配方会展示基础结构与所需原料。虽然本意并非完全替代《工程师手册》，但这能让你通过单击输入方块轻松查找对应配方。</p>\n<p><img src=\"https://raw.githubusercontent.com/sguest/jei-multiblocks/main/readme-images/arc-furnace.png\" alt=\"电弧炉\"></p>\n<p>同时原生支持<a href=\"https://www.curseforge.com/minecraft/mc-mods/emi\" rel=\"nofollow\">EMI</a>作为一级插件（适用于Minecraft 1.20.1及以上版本），无需任何兼容加载器。</p>\n<h2>特定版本说明</h2>\n<h3>1.20.1</h3>\n<ul>\n<li>特别感谢<a href=\"https://github.com/FLORIAN4600\" rel=\"nofollow\">FLORIAN4600</a>解决了棘手的生命周期问题，使本模组得以延续至Minecraft 1.20及以上版本</li>\n<li>感谢<a href=\"https://github.com/PengyTheGamer\" rel=\"nofollow\">Pengy</a>提供EMI支持</li>\n</ul>\n<h3>1.16</h3>\n<ul>\n<li>该模组在1.16版本中存在已知问题，建议仅限单人游戏使用</li>\n</ul>\n<h3>早于1.16的版本</h3>\n<ul>\n<li>不会进行低版本移植。除非你亲自准备移植并负责后续维护，否则请勿提出请求。</li>\n<li>已存在独立移植至1.12.2的版本，名为<a href=\"https://legacy.curseforge.com/minecraft/mc-mods/rather-enough-immersive-multiblocks\" rel=\"nofollow\">Rather Enough Immersive Multiblocks</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

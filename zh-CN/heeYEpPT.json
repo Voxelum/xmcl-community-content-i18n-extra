@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a347d6c76726a7bc",
+  "content": "\n\n# Compact F3 Plus\n\n一款适用于 NeoForge 和 Fabric 的极简、完全可自定义的 HUD 界面，使用简洁易读的布局替换原版 F3 调试屏幕。\n\n### 模式\n\n- **替换 F3（默认）：** 按下 `F3` 打开精简 HUD 而非原版调试屏幕。\n- **独立模式：** 保留原版 F3 功能，并通过 `F8`（可在控制设置中重新绑定）单独切换该 HUD。\n\n### HUD 元素\n\n- FPS - 当前帧率与平均帧率，带基于阈值的动态颜色指示\n- 内存占用\n- 卡顿监控 - 用于诊断掉帧的卡顿率监测\n- 服务器 TPS\n- XYZ 坐标\n- 网络延迟（Ping）\n- 朝向：基础方向 + 俯仰角\n- 生物群系与维度\n- 方块光照与天空光照等级\n- 游戏会话计时器\n- 游戏内时间与天数\n- 史莱姆区块指示器\n- 水平与垂直移动速度\n- 物品耐久度\n- 当前播放的音乐曲目\n- 渲染实体数量\n- 作物生长进度\n\n### 配置\n\n每个元素均可单独开关。设置将保存至 `config/compactf3plus.json`，可通过 Mod Menu（Fabric）或 NeoForge 模组列表进行访问。\n\n### 致谢\n- [username65735](https://github.com/user2949) - 原版 [Compact F3](https://modrinth.com/mod/compact-f3) 及 [开源发布](https://github.com/user2949/CompactF3-NeoForge)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

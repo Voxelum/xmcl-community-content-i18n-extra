@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e32bd22d158b895",
+  "content": "\n\n适用于离线/在线服务器的身份验证模组。\n<br>\n<br>\nEasyAuth 会阻止未通过身份验证的玩家执行放置方块、移动、输入命令或使用物品栏等操作。\n<br>\n<br>\n\n### 功能：\n- 自动登录已购买 Minecraft 的玩家\n- 在线玩家使用在线 UUID\n- 同一 IP 连接时支持自动登录会话\n- 坐标保护\n- 防止出现“从其他位置登录”提示\n- 服务端翻译\n- 密码支持特殊字符\n- 全局密码\n- 支持 LuckPerms API 及上下文\n- 支持 Floodgate 和 Carpet 玩家\n- 支持 Vanish 模组以隐藏未认证玩家\n\n查看 [命令](https://github.com/NikitaCartes/EasyAuth/wiki) 和 [配置文件](https://github.com/NikitaCartes/EasyAuth/wiki/Config)\n\n本模组基于 samo_lego 的 [模组](https://modrinth.com/mod/SimpleAuth)。适用于 Minecraft 1.15 - 1.16\n<br>\n<br>\n\n如需基于名称的白名单功能，也可查看 [我的模组](https://modrinth.com/mod/easywhitelist)\n<br> \n<br>\n\n### 依赖项 \n本模组需要：\n- [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

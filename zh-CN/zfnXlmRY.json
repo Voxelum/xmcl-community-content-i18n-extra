@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4ac19f49e3d182d3",
+  "content": "\n\n- 将裂纹下界砖的纹理替换为全反射材质。\n- 需要支持 LabPBR 的光影。\n- 部分光影可能会出现反射模糊的问题，请尝试禁用硬编码高光。\n- ![镜像墙壁与村庄。](https://cdn.modrinth.com/data/zfnXlmRY/images/201dff5b46321b2c04a570aa2da588e42e5ffa93.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

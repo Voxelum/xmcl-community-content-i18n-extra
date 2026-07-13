@@ -1,0 +1,6 @@
+{
+  "bodyHash": "83d1cc9d77b352ad",
+  "content": "\n\n# Create 显示链接虚空修复\n\n修复了 Create v6.0.10 中显示链接在图形界面内始终显示“虚空空气”的问题。Mixin 补丁修改了 `DisplayLinkBlockEntity.getTargetPosition()`，使其返回正确的方块坐标，而非 `BlockPos.ZERO`。\n\n## 普通用户须知\n\n此模组需同时安装于服务端和客户端。将 JAR 包放入双方的 `mods/` 文件夹即可。无需其他操作。\n\n## 开发者须知\n\n该问题的根本原因在于：即使 `worldPosition` 与 `targetOffset` 数值正确，`DisplayLinkBlockEntity.getTargetPosition()` 仍会返回 `BlockPos.ZERO`。Mixin 补丁将原方法体替换为了 `getBlockPos().offset(targetOffset)`。由于修补的是共享类，因此必须在两端均安装本模组。\n\n# 修复前\n![问题示例](https://cdn.modrinth.com/data/cached_images/dbe4cf71a54b5dde8e812202f85169026301361e.png)\n\n# 修复后\n![正常效果](https://cdn.modrinth.com/data/cached_images/9d592d9191fad52a5e34cb22d49fa7105f6b23c5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

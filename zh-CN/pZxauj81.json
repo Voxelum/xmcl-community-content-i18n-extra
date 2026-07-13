@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6934a225a71ed178",
+  "content": "\n\n![](https://i.imgur.com/AsiGOED.png)\n\n<div>\n    <a href=\"https://modrinth.com/mod/plasmo-voice\">Plasmo Voice</a>\n    <span> | </span>\n    <a href=\"https://modrinth.com/plugin/pv-addon-whisper\">Modrinth</a>\n    <span> | </span>\n    <a href=\"https://github.com/plasmoapp/pv-addon-whisper/\">GitHub</a>\n    <span> | </span>\n    <a href=\"https://discord.com/invite/uueEqzwCJJ\">Discord</a>\n     <span> | </span>\n    <a href=\"https://www.patreon.com/plasmomc\">Patreon</a>\n</div>\n\n# pv-addon-whisper\n\n服务器端 [Plasmo Voice](https://modrinth.com/mod/plasmo-voice) 插件。\n\n默认情况下，耳语（Whisper）的传输距离为当前邻近距离的一半。您可以在配置文件中调整该比例。\n\n## 使用方法\n\n打开 Plasmo Voice 菜单（默认按键为 `V`），进入 `Activation` 选项卡，并配置 `Whisper` 激活选项。\n\n## 权限\n\n使用耳语的权限：`pv.activation.whisper`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

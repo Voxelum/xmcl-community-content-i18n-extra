@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd421a1f87d03cf3",
+  "content": "\n\n# Life Potato\n\n<img align=\"right\" width=\"120px\" height=\"120px\" src=\"https://cdn.modrinth.com/data/8lQneGao/a8dbc2468c0effc978217ea41d670334033b49be_96.webp\" alt=\"LifePotato Logo\">\n\n\nЯдовитый картофель больше не бесполезен! С помощью этого датапака употребление ядовитого картофеля будет навсегда увеличивать ваше максимальное здоровье на 1 сердце (2 HP), позволяя достичь предела в 20 сердец.\n\n\n## Установка\n\n### Датапак\n1. Скачайте датапак.\n2. Скопируйте файл .zip в папку datapacks, которая находится по пути `%APPDATA%\\.minecraft\\saves\\<your-world-name>\\datapacks` (в Windows). Замените `<your-world-name>` на название вашего мира.\n3. Перезагрузите мир или выполните команду `/reload`.\n\n### Мод\n1. Скачайте мод.\n2. Скопируйте скачанный файл `.jar` в папку mods, которая находится по пути `%APPDATA%\\.minecraft\\mods` (в Windows).\n3. Перезагрузите мир или выполните команду `/reload`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

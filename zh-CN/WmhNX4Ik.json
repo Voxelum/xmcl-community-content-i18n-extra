@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a33766c063bc802d",
+  "content": "\n\n# NBT 数据导出器\n## 简介\n\n作为最常用的命令之一，`/data get` 命令可将目标方块或实体的 NBT 数据返回给执行者。\n\n然而，NBT 数据默认无法自动导出至剪贴板或文件。本模组旨在解决此问题。\n\n## 使用方法\n\n安装模组后，将新增两条游戏规则。 \n您可以在创建世界界面中将其设为 true，或通过命令 `/gamerule exportToClipboard true` 与 `/gamerule exportToFile true` 进行配置。\n\n此后，当玩家使用 `/data get` 命令时，NBT 数据将根据对应的游戏规则自动导出至剪贴板或文件。导出的文件保存在 `.minecraft/export` 目录下，文件名以命令执行的时间命名。\n\n## 外部链接\n* GitHub（含 Issue 反馈）：https://github.com/QWERTY770/DataExporter\n* MCMOD：https://www.mcmod.cn/class/9061.html\n* MCBBS：https://www.mcbbs.net/thread-1424236-1-1.html\n\n----\n本模组受 Lxazl5770 委托开发。\n\n目前该模组暂不支持 Fabric 平台，但欢迎其他开发者将其移植至 Fabric/Quilt。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

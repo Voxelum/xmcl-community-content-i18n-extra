@@ -1,0 +1,6 @@
+{
+  "bodyHash": "694e2ee1dd18b881",
+  "content": "\n\nПростой клиентский мод, полностью скрывающий все погодные эффекты, такие как дождь, снег и молнии, благодаря чему погода всегда выглядит ясно.\n\nВ моде есть опциональная конфигурация, зависящая от [CompleteConfig](https://modrinth.com/mod/completeconfig).  \nЕсли вы хотите переключать работу мода прямо в игре, вам потребуется установить оба [CompleteConfig](https://modrinth.com/mod/completeconfig) и [Cloth Config](https://modrinth.com/mod/cloth-config).\n\n**Примечание:** Этот мод не влияет на цикл смены погоды в мире, а лишь скрывает визуальные эффекты погоды для игрока.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

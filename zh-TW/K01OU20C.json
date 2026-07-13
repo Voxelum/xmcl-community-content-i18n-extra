@@ -1,6 +1,6 @@
 {
-  "bodyHash": "a28y8YHyJhM=",
-  "content": "# ![Cardinal Components API](https://raw.githubusercontent.com/OnyxStudios/Cardinal-Components-API/1.18/banner.svg)\n一個為 Quilt 和 Fabric 打造的元件 API，簡單、模組化且速度極快。\n\n詳細資訊可參閱儲存庫的 [**Wiki**](https://ladysnake.org/wiki/cardinal-components-api)。\n以下資訊為後者的精簡版。\n\n## 功能特色\\*\n- 🔗 將資料附加到多種原版類別\n- 🧩 一次實作，隨處可用——模組資料將自動儲存\n- 📤 透過單一輔助介面同步資料\n- 👥 選擇玩家重生時元件的複製方式\n- ⏲️ 與目標一同進行元件刻更新\n- 🛠️ 精細調整所有設定以符合你的需求\n- ☄️ 享受 ASM 生成擴充的極速效能\n\n*\\*此為非完整列表，完整內容請參考 Wiki 與 Javadoc。*",
+  "bodyHash": "9e249bd01f919f9e",
+  "content": "\n\n# ![Cardinal Components API](https://raw.githubusercontent.com/OnyxStudios/Cardinal-Components-API/1.18/banner.svg)\n一款專為 Quilt 與 Fabric 設計的元件 API，兼具易用性、模組化與極致效能。\n\n詳細資訊可於此倉庫的 [**Wiki**](https://ladysnake.org/wiki/cardinal-components-api) 中查閱。\n以下內容為其精簡版本。\n\n## 功能\n- 🔗 將資料附加至多種原版類別\n- 🧩 一次實作，隨插即用 — 模組資料將自動儲存\n- 📤 透過單一輔助介面同步資料\n- 👥 自訂玩家在重生時元件的複製方式\n- ⏲️ 讓元件與其目標物件同步進行遊戲刻（Tick）更新\n- 🛠️ 微調各項設定以完美契合您的需求\n- ☄️ 享受由 ASM 生成的擴充功能帶來的極速體驗\n\n*\\*以上僅列舉部分功能，完整清單請參閱 Wiki 與 Javadoc。*",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

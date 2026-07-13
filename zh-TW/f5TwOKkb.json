@@ -1,0 +1,6 @@
+{
+  "bodyHash": "463a65f83b632d6d",
+  "content": "\n\n[![Discord Server](https://img.shields.io/discord/176190900945289237?style=flat-square&logo=discord&logoColor=ffffff&label=Discord)](https://discord.gg/ykHRhmC)\n\n![Mod Logo](https://github.com/FirEmerald/AdditionalPlacements/blob/1.20.1/logo.png?raw=true)\n\n[Fabric version here](https://modrinth.com/mod/additional-placements-fabric)\n\n\n\nAdditional Placements 是一款輕量原版風格模組，讓您可以以新的方向放置方塊。\n不會新增任何物品，而是修改原有方塊的放置邏輯。\n目前支援（包含大多數模組新增的方塊）：\n半磚（Slabs）- 允許垂直放置\n階梯（Stairs）- 允許垂直放置，且階梯會進行垂直連接\n地毯（Carpets）- 允許放置在牆壁與天花板上\n壓力板（Pressure Plates）- 允許放置在牆壁與天花板上\n\n![A group of vaguely spherical objects](https://i.imgur.com/8lUz6pT.png)\n「測試球體」。這些奇特形狀包含了所有 108 種可能的階梯方塊狀態與所有 6 種可能的半磚方塊狀態，僅供測試用途。\n\n![Video of stairs and slabs being placed in various orientations](https://i.imgur.com/OnxYZfA.gif)\n半磚與階梯的放置邏輯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

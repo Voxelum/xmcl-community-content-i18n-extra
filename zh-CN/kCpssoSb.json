@@ -1,0 +1,6 @@
+{
+  "bodyHash": "315526e522c5c3f5",
+  "content": "\n\n# 重要通知！！！！！！\n我（StockiesLad）再次退出了模组开发。这则通知旨在说明为何长时间没有更新。为什么再次退出？因为模组开发已经不再让我感到有趣，而且我总是担心会再次卷入令人烦躁的 Discord 社区纠纷中，这些纠纷不知怎的就会榨干我对模组开发的所有热情。目前还没有人愿意站出来接手开发工作，这在一定程度上是我的责任。这则通知迟到了好几个月。如果你喜爱 Fastload 并打算继续维护它，只需在 Discord 上联系我进行讨论即可。请注意，由于我现在几乎不再使用 Discord，我的回复可能会很慢。感谢你花时间阅读此内容！\n\n# 简要说明\nFastload 是一个*相对*简单的模组，它修改了世界加载过程中的一些关键部分以提升加载速度。\n\n# 运行环境\n- 客户端（可选）\n- 服务端（可选）\n\n# 致谢\n- StockiesLad（所有者）\n- JoostMSoftware（联合所有者）\n- AbdElAziz333（Forge 适配）\n- VidTu（Ksyxis（创意来源））\n- kennytv（Forcecloseloadingscreen（代码））\n\n# 功能特性\n- 441 预生成机制：彻底移除该机制，以同步区块生成与区块渲染。\n- 加载界面：可取消（可配置）\n- 渲染：预渲染阶段（可配置）\n\n# 推荐搭配\n- C2ME：优化区块生成。\n- Sodium：优化区块渲染。\n\n# 详细说明\n“441”区块加载引擎顾名思义，就是指该机制会加载 441 个区块。之所以是 441 个区块，是因为它以玩家为中心、半径 10 个区块的正方形范围进行生成。计算公式为：(10 × 2) + 1 = 21，再平方得到 441。Fastload 移除了这一*特性*，因为它极其浪费时间。取而代之的是，它只会加载 1 个区块（出生点区块），并在早期渲染阶段加载出生点区域的其他区块。\n\n此外，它还用自己的实现替换了部分加载界面。这使得渲染可以立即开始，而无需等待接收玩家出生数据包。\n\n# 相关链接\n- Modrinth: https://modrinth.com/mod/fastload\n- Curseforge: https://www.curseforge.com/minecraft/mc-mods/fastload\n- Discord: https://discord.gg/fMSnenNSXM",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

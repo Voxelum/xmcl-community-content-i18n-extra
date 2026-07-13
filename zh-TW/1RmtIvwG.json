@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de59ced0f667134c",
+  "content": "\n\n# 精細飢餓\n本模組重做了 Minecraft 的飢餓系統以增加精細度，並移植了《Better Than Wolves》中的「極限飢餓」部分系統。\n\n為確保正常運作，客戶端與伺服器都必須安裝此模組，否則可能會出現異常行為。\n\n## 功能特色：\n- 完整的飢餓條現在為 60 單位。1 份 = 6 單位\n- 實作了 `granular_hunger:hunger_pips` 物品元件，用於補充 `minecraft:food` 物品元件\n- 實作了 `granular_hunger:hunger_cost` 玩家屬性。基礎值為 1。數值越高 = 消耗飢餓格所需的疲勞值越低。\n- 處於飢餓效果時，無法食用食物，蛋糕也不例外。\n- 飽和度現在代表脂肪，且您出生時不具備任何飽和度。\n- 自然恢復機制已重做，僅在飢餓值高於 4 份（24 個飢餓格）時才會開始恢復。\n  - 簡單難度：每 12 秒恢復半顆心。\n  - 普通或困難難度：每 20 秒恢復半顆心。 \n\n## 致謝\n本模組移植了由 FlowerChild 製作、目前由 CE Team 維護的《Better Than Wolves》模組功能。原模組連結 -> [這裡](https://btwce.com)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

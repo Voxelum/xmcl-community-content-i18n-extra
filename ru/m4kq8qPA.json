@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fdfb6323836c0d22",
+  "content": "\n\n![Сушилка в работе](https://cdn.modrinth.com/data/cached_images/faaeabbe9a31b663637a5777b5186588eaf70c9a.gif)\n\nПростой порт сушилки из Tinkers' Construct для версий 1.20.1+ с дополнительными параметрами конфигурации, интеграцией JEI и поддержкой рецептов на основе данных.\n\n**Для версии 1.20.1** вы можете задавать рецепты по пути: `your_pack/data/rackitup/recipes/your_recipe.json`\n\nПример JSON (время указывается в тиках):\n\n```json\n{\n  \"type\": \"rackitup:drying\",\n  \"ingredient\": {\n    \"item\": \"minecraft:rotten_flesh\"\n  },\n  \"result\": {\n    \"item\": \"rackitup:monster_jerky\",\n    \"count\": 1\n  },\n  \"time\": 12000\n}\n```\n**Для версии 1.21+** путь изменён на `your_pack/data/rackitup/recipe/your_recipe.json`, а вместо `\"item\": \"rackitup:monster_jerky\"` внутри `\"result\"` достаточно указать:\n```json\n\"id\": \"rackitup:monster_jerky\n```\n\nВы также можете подвешивать предметы без рецептов в качестве декора.\n\nНе стесняйтесь предлагать новые функции в [Discord](https://discord.gg/XycfdKx9JH)\n\n[![Поддержать меня на Ko-fi](https://cdn.modrinth.com/data/cached_images/ea724bdc4fc0daa04bebac2ef881a89fbafe8bc5.png)](https://ko-fi.com/W7W21Z2KUO)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

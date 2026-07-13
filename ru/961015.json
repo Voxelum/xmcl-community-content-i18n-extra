@@ -1,0 +1,6 @@
+{
+  "bodyHash": "697db621ec55b874",
+  "content": "<p>Этот пакет является модификацией шейдерпака PSX (<a href=\"https://github.com/ckosmic/minecraft-psx\" rel=\"nofollow\">https://github.com/ckosmic/minecraft-psx</a>), который эмулирует графику в стиле PlayStation 1 для Minecraft. Шейдер предназначен для использования с модпаком MCSX — хоррор-модпаком в стиле PlayStation 1, однако он должен быть совместим с Minecraft версий от 1.17 до 1.20 через OptiFine или Iris, хотя совместимость вне этого модпака не гарантируется.</p>\n<p>Исходный код этого шейдера доступен по этой ссылке <a href=\"https://github.com/ninjamike1211/PSX_MCSX/tree/main\" rel=\"nofollow\">https://github.com/ninjamike1211/PSX_MCSX/tree/main.</a></p>\n<p>&nbsp;</p>\n<p>Главное изменение, которое внедряет этот пакет, — это затенение цветом с использованием алгоритма floodfill. Также здесь есть изменения тумана в пещерах, изменения в рендеринге неба и тумана, несколько проходов тумана для полупрозрачных объектов и различные другие улучшения и настройки для совместимости с модами.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

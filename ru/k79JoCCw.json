@@ -1,6 +1,6 @@
 {
-  "bodyHash": "BE6M+hrX49Q=",
-  "content": "![Светящиеся руды в Minecraft](https://cdn.modrinth.com/data/cached_images/10f7b81a5b5eaa1794eddc3c939888d052639dd8.webp)\n\n**Светящиеся руды с эмиссией** добавляют светящиеся текстуры к рудам верхнего мира и Нижнего мира. Необходим мод [OptiFine](https://optifine.net) (Forge), [Continuity](https://modrinth.com/mod/continuity) (Fabric, Forge, NeoForge или Quilt) или любой другой мод, поддерживающий эмиссионные текстуры; в противном случае ничего не изменится.\n\n\n\nДелает следующие блоки светящимися:\n- Железная руда\n- Угольная руда\n- Руда красного камня\n- Изумрудная руда\n- Алмазная руда\n- Лазуритовая руда\n- Золотая руда\n- Медная руда\n- Древние обломки\n- Золочёный чёрный камень\n- Нижняя кварцевая руда\n- Нижняя золотая руда",
+  "bodyHash": "26db7cada72947c1",
+  "content": "\n\n![Светящиеся руды в Minecraft](https://cdn.modrinth.com/data/cached_images/10f7b81a5b5eaa1794eddc3c939888d052639dd8.webp)\n\n**Emissive Glowing Ores** добавляет светящиеся текстуры к рудам из Верхнего мира и Незера. Требуется [OptiFine](https://optifine.net) (Forge), [Continuity](https://modrinth.com/mod/continuity) (Fabric, Forge, NeoForge или Quilt) или любой другой мод, поддерживающий эмиссивные текстуры, иначе ничего не изменится.\n\n\n\nДелает следующие блоки светящимися:\n- Железная руда\n- Угольная руда\n- Редстоуновая руда\n- Изумрудная руда\n- Алмазная руда\n- Лазуритовая руда\n- Золотая руда\n- Медная руда\n- Древние обломки\n- Позолоченный базальт\n- Руда незеритового кварца\n- Руда незеритового золота",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

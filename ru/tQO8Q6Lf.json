@@ -1,6 +1,6 @@
 {
-  "bodyHash": "jMwg8YdlXio=",
-  "content": "> Добавить глобальное меню конфигурации для [Brutal Nightmare](https://modrinth.com/datapack/brutal-nightmare)\n---\n**ПРИМЕЧАНИЯ! ВЫ ДОЛЖНЫ ПЕРЕЗАПУСТИТЬ МИР ПОСЛЕ ИЗМЕНЕНИЯ НАСТРОЕК ЧЕРЕЗ ЭТО**\n\n---\n**Поддержка**\n+ Forge, Fabric, Quilt (`1.16–1.25`)\n+ Для [Brutal Nightmare](https://modrinth.com/datapack/brutal-nightmare) — версия `4.6+`\n\n**Функции**\n+ Добавить экран меню конфигурации для [Brutal Nightmare](https://modrinth.com/datapack/brutal-nightmare) и глобальную конфигурацию мира\n> Требуется `Cloth Config API`! Также ОБЯЗАТЕЛЬНО наличие `FabricAPI` и `ModMenu` в изданиях Fabric и Quilt",
+  "bodyHash": "bc0b11fffd89180f",
+  "content": "\n\n> Добавить глобальное меню конфигурации для [Brutal Nightmare](https://modrinth.com/datapack/brutal-nightmare)\n---\n**ПРИМЕЧАНИЕ! ВЫ ДОЛЖНЫ ПЕРЕЗАГРУЗИТЬ МИР ПОСЛЕ ИЗМЕНЕНИЯ НАСТРОЕК ЧЕРЕЗ ЭТОТ ИНТЕРФЕЙС**\n\n---\n**Поддержка**\n+ Forge, Fabric, Quilt (`1.16-1.25`)\n+ Для [Brutal Nightmare](https://modrinth.com/datapack/brutal-nightmare) — версия `4.6+`\n\n**Возможности**\n+ Добавлен экран настроек конфигурации для [Brutal Nightmare](https://modrinth.com/datapack/brutal-nightmare) и глобальный конфиг мира\n> Требуется `Cloth Config API`! В версиях для Fabric и Quilt также ТРЕБУЮТСЯ `FabricAPI` и `ModMenu`.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

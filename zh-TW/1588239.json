@@ -1,0 +1,6 @@
+{
+  "bodyHash": "992af2a52a16ff72",
+  "content": "\n\n<pre>這是極早期的測試版，請留意目前可能還有許多功能尚未實裝或正在規劃中，部分功能可能還無法正常運作。</pre>\n<pre><code> 這並非模組的完整版本，仍需大量開發與調整才能正常運作並達到最佳狀態。未來將推出更多更新，以達成我期望的效果。</code></pre>\n<pre><span style=\"font-family:Lato, &amp;#x27\">TaCZ 第一人稱相容模組是為 [TaCZ] Timeless and Classics Zero Guns 與 First-person Model 打造的小型客戶端相容橋接器。</span></pre>\n<pre><code>\n當同時安裝這兩個模組時，First-person Model 可能會干擾 TaCZ 的第一人稱槍械渲染。這會導致 TaCZ 的槍械、瞄準、手部位置、換彈動畫、射擊動畫以及 TaCZ 擴充槍械在第一人稱視角下出現異常行為。\n\n此相容模組透過偵測本機玩家是否處於第一人稱視角並手持 TaCZ 槍械來修正此問題。當玩家手持 TaCZ 槍械時，該模組會通知 First-person Model 不要渲染其第一人稱角色身體，從而讓 TaCZ 繼續掌控槍械與手部的渲染。\n\n此相容性檢查採用 TaCZ 的 IGun 介面而非硬編碼的物品 ID，因此只要 TaCZ 的擴充槍械是基於 TaCZ 標準槍械物品系統開發的，就應該能自動獲得支援。</code></pre>\n<pre>&nbsp;</pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

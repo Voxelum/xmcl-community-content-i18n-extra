@@ -1,0 +1,6 @@
+{
+  "bodyHash": "506e3decf4606267",
+  "content": "\n\n<p>加载界面总是枯燥乏味、布满尘土？过去一直如此，但现在不同了！用文字和纹理美化你的加载界面吧！它能让整个模组包更加协调统一。</p>\n<p>&nbsp;</p>\n<p>功能：</p>\n<ul>\n<li style=\"padding-left:30px\">为加载世界/维度以及连接/断开服务器时出现的加载界面添加文字、纹理和颜色。</li>\n<li style=\"padding-left:30px\">支持完全自定义，可通过主菜单 -> 模组 -> 加载界面 -> 配置访问游戏内图形界面进行设置。</li>\n</ul>\n<p>&nbsp;</p>\n<p>致谢：</p>\n<ul>\n<li style=\"padding-left:30px\">包含 <a href=\"https://github.com/SpaiR/imgui-java\" rel=\"nofollow\">ImGui Java</a> 的打包副本，这是 <a href=\"https://github.com/ocornut/imgui\" rel=\"nofollow\">Dear ImGui</a> 的 Java 实现。衷心感谢这两个项目的卓越贡献。</li>\n</ul>\n<p>&nbsp;</p>\n<h4>1.12：</h4>\n<div class=\"spoiler\">\n<p>功能：</p>\n<ul>\n<li style=\"padding-left:30px\">为加载世界/维度以及连接/断开服务器时出现的加载界面添加文字和纹理。</li>\n</ul>\n<p>已知问题：</p>\n<ul>\n<li style=\"padding-left:30px\">该模组尚未开发完成且暂无文档说明。我目前发布它纯粹是为了配合 Sky Factory 4 的推出。</li>\n</ul>\n</div>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "t0j9OSVc4u4=",
-  "content": "<p><strong>此模组为其他模组提供库支持，其本身不包含任何功能。</strong></p><p>本库包含了新的事件、辅助工具和实用程序，旨在让模组开发者的工作更加轻松。支持客户端和服务器端，适用于Forge模组。</p><p>开发此库是为了更便捷地制作我自己的模组，因此若您将其用于自身项目，我能提供的支持将较为有限。</p><p>&nbsp;&nbsp;</p><p>这是该库的Forge版本，如果您需要Fabric版本，<a href=\"https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric\" rel=\"nofollow\">请点击此处</a>。</p><p>&nbsp;</p><p><em>您可以自由地在模组开发或整合包中使用本库！</em></p><p>&nbsp;</p><p><a href=\"https://discord.gg/S5NQjbXPnb\" rel=\"nofollow\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\"></a></p><p><strong>遇到问题、有功能建议或其他需求？欢迎加入我们的Discord社区！</strong></p>",
+  "bodyHash": "42c2ee5c6699a31b",
+  "content": "\n\n<p><strong>本模组是一个供其他模组使用的库，它本身不会执行任何操作。</strong></p>\n<p>该库包含新的事件、辅助方法与实用工具，旨在简化模组开发者的工作。&nbsp;适用于客户端和服务器端，专为 Forge 模组设计。</p>\n<p>本库最初是为了方便我自己开发模组而制作的，因此如果您将其用于自己的项目，我只能提供有限的技术支持。</p>\n<p>&nbsp;&nbsp;</p>\n<p>这是该库的 Forge 版本，如果您在寻找 Fabric&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric\" rel=\"nofollow\">请点击这里</a>。</p>\n<p>&nbsp;</p>\n<p><em>您可以自由地在模组开发或整合包中使用此库！</em></p>\n<p>&nbsp;</p>\n<a href=\"https://discord.gg/S5NQjbXPnb\" rel=\"nofollow\"><img src=\"https://i.imgur.com/yX0xrk0.png\" width=\"200\" height=\"68\"></a>\n<p><strong>遇到问题、功能建议或其他需求？&nbsp;加入我们的 Discord 服务器！</strong></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

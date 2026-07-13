@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f573c9c05b55d57e",
+  "content": "\n\n# Create Big Cannons：等量反向\n\n## 自 CREATE BIG CANNONS 5.11.3 起已過時\n\n你是否曾將 Create: Big Cannons 的砲管安裝至 Create: Aeronautics 的載具上，卻因無法感受到射擊時的後坐力而感到失望？你是否曾向物理物件射擊，卻只能看著彈丸造成傷害後直接反彈？\n\n安裝此模組後，上述情況將全面改觀。開火時，砲彈的衝擊力會讓你的載具劇烈搖晃。敵方炮彈若撞上你的船隻，甚至可能導致航行偏離軌跡。凡有作用力，必產生等量且方向相反的反作用力。\n\n### 修改內容：\n- 安裝於物理物件上的 Create: Big Cannons 砲管與自動砲，在開火時現在會產生後坐力效果。\n- 砲彈與自動砲子彈在撞擊物理物件時，現在會產生衝擊力效果。\n\n此模組與 [Create Big Cannons: Going Ballistic](https://modrinth.com/mod/create-big-cannons-going-ballistic) 相容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

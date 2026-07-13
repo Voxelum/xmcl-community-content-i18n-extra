@@ -1,6 +1,6 @@
 {
-  "bodyHash": "05xSpRvkDl8=",
-  "content": "**我制作这些兼容模组的目标是通过移除重复的物品、生物和方块，使模组在整合包中更好地协同工作。它确保任何依赖于被移除的物品、生物和方块的内容仍然可以正常工作，通过将这些依赖重定向到剩余的等效物品、生物和方块。**\n## 包含的模组列表\n- 农夫的喜悦 (Farmer's Delight)\n- 矿工的喜悦 (Miner's Delight)\n- 文化的喜悦 (Cultural Delights)\n- 补充品 (Supplementaries)\n- 闹鬼的收获 (Haunted Harvest)\n- 自然学家 (Naturalist)\n## 更改列表\n### 移除的重复物品\n- 文化的喜悦 熟鱿鱼\n- 文化的喜悦 生鱿鱼\n- 文化的喜悦 鱿鱼\n- 文化的喜悦 熟鱿鱼\n- 文化的喜悦 发光鱿鱼\n- 文化的喜悦 玉米棒\n- 文化的喜悦 玉米棒箱子\n- 文化的喜悦 玉米粒\n- 文化的喜悦 爆米花\n- 自然学家 熟鸡蛋\n- 补充品 绳子\n### 移除的重复方块\n- 文化的喜悦 野生玉米\n\n### 合成配方调整\n- 自然学家 鸭蛋现在会烹饪成农夫的喜悦 煎蛋\n- 所有使用文化的喜悦 玉米的配方现在使用闹鬼的收获 玉米\n- 文化的喜悦 鱿鱼卷现在使用矿工的喜悦 触手制作\n- 所有使用补充品 绳子的配方现在使用农夫的喜悦 绳子\n### 战利品表调整\n- 鱿鱼不会掉落文化的喜悦 鱿鱼\n- 发光鱿鱼不会掉落文化的喜悦 发光鱿鱼",
+  "bodyHash": "204316bf44efd070",
+  "content": "\n\n**我开发这些兼容性模组的目标是通过移除重复的物品、生物和方块，使各模组在整合包中更好地协同工作。它通过将依赖项重定向至剩余的等效物品、生物和方块，确保所有相关功能仍可正常运行。**\n## 包含的模组列表\n- Farmer's Delight\n- Miner's Delight\n- Cultural Delights\n- Supplementaries\n- Haunted Harvest\n- Naturalist\n## 修改内容\n### 已移除的重复物品\n- Cultural Delights 熟鱿鱼须\n- Cultural Delights 生鱿鱼须\n- Cultural Delights 鱿鱼\n- Cultural Delights 熟鱿鱼\n- Cultural Delights 发光鱿鱼\n- Cultural Delights 玉米棒\n- Cultural Delights 玉米棒箱\n- Cultural Delights 玉米粒\n- Cultural Delights 爆米花\n- Naturalist 熟蛋\n- Supplementaries 绳索\n### 已移除的重复方块\n- Cultural Delights 野生玉米\n\n### 合成配方调整\n- Naturalist 鸭卵现在烹饪后将产出 Farmer's Delight 煎蛋\n- 所有原本使用 Cultural Delights 玉米的配方，现均改为使用 Haunted Harvest 的玉米\n- Cultural Delights 鱿鱼卷现在改用 Miner's Delight 触手制作\n- 所有原本使用 Supplementaries 绳索的配方，现均改为使用 Farmer's Delight 绳索\n### 战利品表调整\n- 鱿鱼不再掉落 Cultural Delights 鱿鱼\n- 发光鱿鱼不再掉落 Cultural Delights 发光鱿鱼",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

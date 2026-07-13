@@ -1,0 +1,6 @@
+{
+  "bodyHash": "24075724da50993e",
+  "content": "\n\n# 简易传送带\n[![在 Modrinth 上下载](https://img.shields.io/badge/Download-Modrinth-1bd96a?style=for-the-badge\\&logo=modrinth\\&logoColor=white)](https://modrinth.com/datapack/better-peaceful)\n[![Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge\\&logo=discord\\&logoColor=white)](https://discord.gg/xS85W48Cb3)\n## 概述\n**简易传送带**是一款**轻量级**的 Minecraft 数据包，它将**紫色釉陶瓦**转换为功能性的**实体传送带**。当物品被掉落或生物移动到**传送带方块**上时，它们会按照**陶瓦上的箭头**所指方向自动推进。这使得您无需使用**红石**、**水流**或任何**额外方块**即可构建简单的物品与生物运输线。\n\n该系统设计为兼容原版且易于使用。您只需放置紫色釉陶瓦并正确调整其朝向。物品和大多数生物随后将沿连接的传送路径平滑移动，使其适用于农场、存储系统、分类装置、生物运输系统及紧凑型自动化建筑。\n\n由于复用了现有方块，该数据包能自然融入生存与创造世界。它专注于简洁性与快速搭建，让玩家无需学习复杂机制即可迅速创建可用的运输系统。\n\n## 技术细节\n\n- 使用紫色釉陶瓦作为传送带方块\n- 可移动物品和大多数生物\n- 玩家不受影响\n- 出于兼容性考虑，部分实体可能被排除\n- 通过 `data merge entity @s {Motion:[]}` 施加运动（速度为 0.1）\n- 移动方向取决于方块的箭头朝向\n- 适用于原版 Minecraft\n- 无需资源包\n\n## 实际演示\n![数据包运行效果](https://cdn.modrinth.com/data/cached_images/49596e6afd99730d8790a75197e6a833fea783b8.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

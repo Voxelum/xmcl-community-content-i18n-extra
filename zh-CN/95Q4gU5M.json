@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3471c6a275aabb44",
+  "content": "\n\n# Fish 的集成 Minecraft\n\nFish 的集成 Minecraft 通过添加与 IntelliJ 编程直接关联的功能，大幅提升了 Minecraft 的开发效率。\n\n## ✨ 连接 IntelliJ\n\n虽然运行该模组**并非必需**，但许多功能需要配合我们的 [IntelliJ 插件](https://github.com/FishIntegratedMinecraft/FIM-IntelliJ) 才能正常工作！\n\n## 主要功能列表\n\n- 快速访问和编辑向量/坐标/包围盒\n- Minecraft 世界工具\n  - 快速复制方块（坐标、中心点、方块状态...）\n- 支持在 IntelliJ 与 Minecraft 之间快速切换的快捷键\n\n## 计划中的功能\n- 实体与玩家世界工具（复制 UUID、位置等）\n- 项目可自定义的 IntelliJ 触发类\n- 在 Minecraft 中自动查看类中的向量/坐标\n- 资源包相关功能\n- *以及更多！*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6733bb0b232e2f52",
+  "content": "\n\n# 簡易資源載入器\n簡易資源載入器是一款小巧的模組，允許您為您的 Minecraft 遊戲實例新增必要（或選配）的資源包與資料包，非常適合整合包製作人或伺服器架設者使用。\n它可在客戶端、單人遊戲與專用伺服器上運作，且完全不需要任何設定檔。 \n您只需將資料包（可以是資料夾或壓縮檔）放入正確的位置即可。\n\n## 使用方式\n啟動時，模組會自動建立所有所需的資料夾。當然，如果您需要，也可以手動建立它們。\n資料夾遵循簡單的結構：`resources/<TYPE>/<REQUIREMENT>`。其中 `<TYPE>` 可替換為 `resourcepack`（作為客戶端資源包載入）、\n`datapack`（作為伺服器／單人遊戲資料包載入），或是 `common`（同時加入兩者，當資料包與資源包包含在同一個檔案中時非常實用）。\n`<REQUIREMENT>` 則替換為 `required`（代表該資料包會始終載入）或 `optional`（代表您可隨時開啟或關閉）。\n\n舉例來說，若您將資料包放入 `resources/common/required/`，它將會同時作為資源包與資料包始終載入；但若放入 `resources/resourcepack/optional/`，\n則只會將其作為一個可開關的資源包加入。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,14 +1,6 @@
 {
-  "bodyHash": "NE9+2pGP10Y=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "a5544700-ad26-97f7-9a31-186f88b925db"
-  },
+  "bodyHash": "619c2cc3434c7136",
+  "content": "\n\n<p>Модифицирует ванильные команды, позволяя использовать их на оффлайн-игроках</p>\n<h2>Поддерживаемые команды</h2>\n<p>Следующие команды были изменены для поддержки оффлайн-игроков:\n<code>advancement</code>, <code>attribute</code>, <code>bossbar</code>, <code>clear</code>, <code>damage</code>, <code>data</code>, <code>effect</code>, <code>enchant</code>, <code>experience</code>, <code>execute</code>,\n<code>gamemode</code>, <code>give</code>, <code>item</code>, <code>function</code>, <code>kill</code>, <code>loot</code>, <code>recipe</code>, <code>spawnpoint</code>, <code>spreadplayers</code>, <code>tag</code>, <code>teleport</code></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

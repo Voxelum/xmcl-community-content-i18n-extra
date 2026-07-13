@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8150e98fbd8811f9",
+  "content": "\n\n![Logo](https://i.ibb.co/cXs7rYY8/LOGO-final.png)\n\n# 遊戲中 Twitch 聊天\n\n**Twitch Chat In Game** 是一款簡單卻功能強大的客戶端 Minecraft 模組，能將您的 Twitch 聊天室直接帶入遊戲中。無論您是單人遊玩還是加入 Hypixel 等大型伺服器，您都能即時看到觀眾的留言，無需額外使用第二台螢幕或覆蓋層軟體。\n\n## 主要功能\n\n*   **僅限客戶端**：此模組完全在您的客戶端運作。您可在**任何伺服器**上使用它，包括單人世界、Realms 以及 Hypixel 等公開伺服器，伺服器端無需安裝任何內容。\n*   **廣泛相容性**：隨處可用！\n*   **色彩支援**：顯示使用者名稱並保留其 Twitch 聊天室配色。\n\n## 截圖\n\n### 支援單人模式\n![Singleplayer](https://i.ibb.co/3mpSVF7Y/2026-02-10-10-40-21.png)\n\n### 支援多人連線（例如 Hypixel）\n![Hypixel](https://i.ibb.co/dsFLt6D4/2026-02-10-10-42-07.png)\n\n## 使用方法\n\n> [!IMPORTANT]\n> **本模組需要 Fabric API 才能運作！**\n> **本模組需要 Fabric API 才能運作！**\n\n1.  **安裝模組**：將 `.jar` 檔案放入您的 `mods` 資料夾中（需安裝 **Fabric API**）。\n2.  **啟動 Minecraft**：開啟您的遊戲。\n3.  **連線**：首次啟動時，輸入 `/twitchchat start <頻道名稱>` 即可連線至 Twitch 頻道聊天室！\n    *   範例：`/twitchchat start poule_trempee`\n4.  **遊玩**：加入任意世界或伺服器。您的 Twitch 聊天室訊息現在會顯示於遊戲聊天欄中！\n5.  **斷線**：隨時輸入 `/twitchchat stop` 即可與聊天室斷開連線。\n6.  **加入黑名單**：輸入 `/twitchchat blacklist <暱稱>` 以隱藏特定使用者的訊息（例如 `/twitchchat blacklist example123`）。\n7.  **移出黑名單**：輸入 `/twitchchat unblacklist <暱稱>` 即可重新顯示該使用者的訊息。\n\n## 運作原理\n\n此模組會建立輕量且直接的連線，連接到 Twitch 的 IRC（聊天）伺服器。它會監聽您指定頻道中的新訊息，並將它們渲染至 Minecraft 的聊天介面中，就像一般的遊戲訊息一樣。由於它純粹是為您提供的視覺覆蓋層，不會與您遊玩的伺服器進行互動，因此安全且適用於所有環境。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

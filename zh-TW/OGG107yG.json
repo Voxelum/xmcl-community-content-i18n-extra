@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a41bbdf32340d75b",
+  "content": "\n\n# Mekanism Enchantable\n\nMekanism 的物品現在可以附魔了！\n\n## 功能\n- 使以下物品可透過附魔台進行附魔\n  - 原子分解器\n  - 電動弓\n  - 機械工具\n  - 噴射背包 / 裝甲噴射背包\n  - 自由跑鞋 / 裝甲自由跑鞋\n  - 防化服\n  - 潛水面罩 / 潛水氧氣瓶\n  - 機械套裝\n\n![image](https://github.com/user-attachments/assets/bfe5a7f5-65de-4124-9b4f-4973ea8a8cfc)\n\n## 未來計畫\n- 實作「耐久」與「經驗修復」附魔機制\n- 支援火焰噴射器\n- ~~可附魔機器（！？）~~ 請使用 toapuro 開發的 Mekanism Enchantable Machines（[CurseForge](https://www.curseforge.com/minecraft/mc-mods/mekanism-enchantable-machines) | [Modrinth](https://modrinth.com/mod/mekanism-enchantable-machines)）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

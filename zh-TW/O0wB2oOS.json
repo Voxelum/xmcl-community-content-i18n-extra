@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71a40e1907c33933",
+  "content": "\n\n<!-- Language Switch | 語言切換 -->\n\n# SimpleLocks\n[English](https://github.com/YuWan-030/SimpleLocks/blob/v1.0.1/README.md) | [簡體中文](https://github.com/YuWan-030/SimpleLocks/blob/v1.0.1/README_zh.md)\n\n一款簡單的 Minecraft Forge 模組，使用特殊的「鎖」道具來鎖定容器。防止未經授權的玩家破壞或存取已鎖定的容器。\n\n---\n\n## 功能特色\n\n- 使用「鎖」道具鎖定任何容器（箱子、木桶等）。\n- 僅有擁有者或伺服器管理員（OP）可破壞或存取已鎖定的容器。\n- 鎖會與玩家綁定（按住 Shift 並右鍵點擊以綁定）。\n- 鎖無法存放在終界箱中。\n- 管理員（權限等級 4）可跳過所有限制。\n\n---\n\n## 安裝方式\n\n1. 為您的伺服器或客戶端下載並安裝 [Minecraft Forge](https://files.minecraftforge.net/)。\n2. 將 `SimpleLocks` 模組的 JAR 檔案放入您的 `mods` 資料夾中。\n3. 啟動遊戲或伺服器。\n\n---\n\n## 使用說明\n\n1. 從創造模式物品欄（工具與實用工具分頁）取得鎖道具。\n2. 手持鎖道具，按住 Shift 並右鍵點擊以將其綁定給自己。\n3. 將鎖道具放入任意容器中即可進行鎖定。\n4. 僅有擁有者或管理員（OP）可破壞或與已鎖定的容器互動。\n\n---\n\n## 權限設定\n\n- 管理員（OP，權限等級 4）始終可以存取並破壞已鎖定的容器。\n- 一般玩家僅能操作綁定給自己的鎖。\n\n---\n\n## 相容性\n\n- 支援原版容器以及大多數具備 Forge 相容性的模組容器。\n\n---\n\n## 問題回報與意見回饋\n\n請透過 GitHub 提交問題回報或建議。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "yznDv+OO+js=",
-  "content": "让 [Litematica](https://github.com/maruohon/litematica) 能够在服务器中粘贴方块/实体的磁砖实体资料\n\n通过使用自定义聊天封包来绕过聊天长度限制，客户端可以简单地将磁砖实体或实体 NBT 标签附加到 `/setblock` 或 `/summon` 指令中\n\n需要在客户端和服务器上都安装才能运作。\n\n客户端方面，只需要安装 litematica 模组。服务器方面，不需要安装任何东西。\n\n如果您的 litematica 模组中存在这两个选项，需要将 `commandUseWorldEdit` 设为 false，并将 `pasteNbtRestoreBehavior` 设为 `None`，此模组才能运作\n\n如果方块状态与示意图相符，磁砖实体资料将不会再次被粘贴",
+  "bodyHash": "f1a6246515837b4e",
+  "content": "\n\n讓 [Litematica](https://github.com/maruohon/litematica) 能夠在伺服器上貼上方塊實體資料／實體資料\n\n透過使用自訂聊天封包來繞過聊天長度限制，讓客戶端只需將方塊實體或實體的 NBT 資料附加至 `/setblock` 或 `/summon` 指令後即可執行\n\n你需要在客戶端與伺服器上都安裝此模組才能正常運作。\n\n客戶端僅需安裝 Litematica 模組即可。伺服器端則無需額外安裝任何內容。\n\n若要讓此模組運作，你需在 Litematica 設定中將 `commandUseWorldEdit` 設為 `false`，並將 `pasteNbtRestoreBehavior` 設為 `None`（若你的 Litematica 模組中存在這兩個選項的話）。\n\n不過，如果當前方塊狀態與藍圖相符，系統將不會再次貼上方塊實體資料。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

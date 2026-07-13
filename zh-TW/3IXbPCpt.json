@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d0ac7e165a4df7e",
+  "content": "\n\n# KasugaLib\n\nKasugaLib（簡稱 Ksglib）是一款基礎模組，旨在減輕模組開發者的工作負擔並提升開發效率。\n\n**此模組不會直接在遊戲中添加任何內容。**\n\n### 註冊\n\nKasugaLib 為 Minecraft Forge 模組開發提供了一系列易於使用的註冊工具。\n\n1. BlockReg\n  \n2. BlockEntityReg\n  \n3. ItemReg\n  \n4. EffectReg\n  \n5. CommandReg\n  \n6. FluidReg\n  \n7. ChannelReg（用於網路通道）\n  \n8. MenuReg（用於選單與畫面）\n  \n\n    ......\n---\n\n### 外部註冊\n\nKsglib 還提供了一些 Forge 原生未提供的註冊功能。\n\n1. KeyBindingReg\n  \n2. StaticImageHolder(StaticImage, ImageMask...)\n  \n3. FontRegistry（用於字型，例如 .ttf 字型）\n  \n4. ModelRegistry（用於動畫模型）\n  \n5. BundleReg（一次註冊大量元素）\n  \n---\n### GUI 引擎\n\nKsglib 內建基於 Reactive Native 的 GUI 引擎。該模組仍在開發中，即將推出。\n\n1. 支援 HTML、CSS 和 JS（用於 GUI）！\n  \n2. 支援熱模組重載。\n  \n3. 支援外部工具除錯。\n  \n---\n### 實用工具\n\nKsglib 為您準備了若干工具，協助您克服 Minecraft Forge 開發中的版本差異問題。\n\n1. VectorUtils.\n\n2. ResourceUtils.\n\n3. LazyRecomputable<?>\n\n4. DirectionUtils.\n\n5. 移除了 MC 1.20.1 的材質路徑限制。\n    \n---\n### 其他\n\nKsglib 提供了一些實驗性功能。我們希望使用它們的開發者能幫助我們完善這些功能。\n\n1. 基於 JSON 的模型動畫。\n  \n2. 移除了 MC 的 blockstates 路徑限制。\n\n---\n### Create 版本\n\nKsglib 提供原版與 Create 兩個版本。Create 版本提供了部分針對 Create 模組的實用工具。\n\n1. Create 註冊工具（Tracks、TrackMaterials、Bogeys、Behaviours）\n  \n2. SimpleTrackBlock、StateGenerator 等...",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

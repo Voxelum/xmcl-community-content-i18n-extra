@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15adfe8fe8fb5e30",
+  "content": "\n\n# DreamMasaAddition\n\n[![Modrinth Downloads](https://img.shields.io/modrinth/dt/dma?label=Modrinth%20Downloads&logo=Modrinth%20Downloads&style=flat-square)](https://modrinth.com/mod/dma)\n[![Dev Build](https://img.shields.io/github/actions/workflow/status/Forgot-Dream/DreamMasaAddition/DevBuild.yml?label=Last%20build&style=flat-square)](https://github.com/Forgot-Dream/DreamMasaAddition/actions/workflows/DevBuild.yml)\n\n**只是我想要加入的一些小調整。**\n\n## 功能\n\n- **windowResizable**：設定遊戲視窗大小是否可調整。\n- **quickCraftWithRecipeBook**：在配方書中按住 Shift 並點擊配方物品，即可將背包內所有可用材料一次性製作成該物品。此功能依賴 **ItemScroller**。\n- **ignoreSpecNBTTagsWhenSort**：使用 OMMC 時，在整理物品時忽略具有指定 NBT 標籤的物品。\n- **fixTweakerooGammaOverride**：修復了啟動客戶端時 **Tweakeroo** 的伽瑪值覆蓋無效的問題。\n\n## 依賴項目\n\n- [MagicLib](https://github.com/Hendrix-Shen/MagicLib) >= 0.8.662-stable\n- Java 21+\n- **(選填)** ItemScroller 0.24.55+\n\n## 支援的 Minecraft 版本\n\n- 1.20.1\n- 1.20.4\n- 1.20.6 **(未測試)**\n- 1.21(.1) **(主要支援)**\n- 1.21.3\n\n## 開發\n\n歡迎提交 Issues 與 PRs。\n\n## 授權條款\n本專案採用 GPLv3 授權條款。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

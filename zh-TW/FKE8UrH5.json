@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99ef73a0f4a4478f",
+  "content": "\n\n# **已知問題：無法在 1.21.2+ 版本上使用**\n### 目前正在嘗試修復此問題。\n\n**優化鞘翅的數學運算程式碼**，透過預先計算部分變數及其他相關內容。每遊戲刻的運算速度可提升約 **25-35%**，同時仍**維持原版行為一致性**（在低階硬體上表現應該會**更好**！）。\n\n### 效能：\n持續使用鞘翅飛行約一百萬個遊戲刻（相當於近 14 小時），Minecraft 即可節省約 ±300 FPS 的運算量（雖然數字不算驚人，但確實有幫助！）。更多詳細說明請前往圖文介紹區。\n\n### 依賴項目：\n1. Fabric Loader 安裝程式（版本 0.16.14 以上） - [https://fabricmc.net/use/installer/](https://fabricmc.net/use/installer/)\n2. Fabric API（支援 Minecraft 1.21.1 以上的任何版本） - [https://modrinth.com/mod/fabric-api](https://modrinth.com/mod/fabric-api)\n\n### 致謝：\n- sebastian - 舊版圖示與 Neoforge 移植\n- Neoforge 版本原始碼倉庫：https://github.com/BaboboiPR/elytra-optimization-neoforged\n\n### 相容性：\n應能與其他所有模組正常運作。\n\n**歡迎隨時透過我的 Discord 回報任何錯誤！ - @qkba**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

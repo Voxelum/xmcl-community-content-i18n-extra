@@ -1,6 +1,6 @@
 {
-  "bodyHash": "1ksQAt2ZFZ0=",
-  "content": "# FDLib\n\n功能\n\n1) 基岩模型載入器（不支援模型中的某些參數，如鏡像UV）\n\n2) 基岩動畫載入器，支援「數學」關鍵影格\n\n3) 過場動畫（客戶端）\n\n4) 自訂魔王血量條\n\n5) 衝擊影格（可在fdlib設定中停用）\n\n6) JSON設定檔\n\n7) 簡單的封包註冊\n\n以及其他工具與數學相關功能。\n\n\n\n問題與解答：\n\n\n\n- 我可以在模組包中使用這個程式庫嗎？\n\n    可以\n\n\n\n- 我可以在我的模組中使用這個程式庫嗎？\n\n    您可以在自己的模組中使用這個程式庫，但不能將其內建在模組中！\n\n\n\n- 我被卡在過場動畫裡，該怎麼辦？\n\n    使用「/fdlib fix cutscene」指令即可立即結束目前的過場動畫。不建議在遊戲過程中使用，以免破壞遊戲體驗。\n\n\n\n- JSON設定檔可以重新載入嗎？\n\n    可以，請使用以下指令：「/fdlib reload configs/clientsideConfigs」",
+  "bodyHash": "afe2406b84d451b3",
+  "content": "\n\n# FDLib\n\n功能特色\n\n1) 基岩版模型載入器（不支援模型中的某些參數，例如鏡像 UV）\n\n2) 支援「math」關鍵幀的基岩版動畫載入器\n\n3) 過場動畫（客戶端）\n\n4) 自訂首領血條\n\n5) 打擊幀（可在 fdlib 設定檔中停用）\n\n6) JSON 設定檔\n\n7) 簡易封包註冊\n\n以及其他實用工具與數學相關功能。\n\n\n\n常見問題與解答：\n\n\n\n- 我可以在整合包中使用這個庫嗎？\n\n    可以\n\n\n\n- 我可以將這個庫用於我的模組嗎？\n\n    您可以將此庫用於您的模組，但不得作為內建元件！\n\n\n\n- 我在過場動畫中卡住了，該怎麼辦？ \n\n    執行指令 `/fdlib fix cutscene` 會立即結束當前過場動畫。不建議在遊戲過程中使用，以免破壞遊戲體驗。\n\n\n\n- JSON 設定檔是否可重新載入？\n\n    可以，請使用以下指令：`/fdlib reload configs/clientsideConfigs`",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

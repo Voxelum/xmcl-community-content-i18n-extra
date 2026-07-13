@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b63c3d6c320dcc3b",
+  "content": "\n\n# ClaudeCraft\n\n  一款為 Forge 與 NeoForge 設計的模組，將 Claude AI 引入 CC: Tweaked 的電腦與烏龜中。\n\n  玩家可透過遊戲內的終端機與 Claude 互動：提問、執行工具、自動化任務，並使用自然語言控制烏龜。\n\n  ## 連線模式\n\n  兩種模式都會在遊戲內提供相同的 `claude` 程式；請依您的環境選擇：\n\n  - **API 金鑰模式** - 直接使用您自己的金鑰連線至 Anthropic API。支援即時串流，金鑰會安全地儲存在伺服器端。\n  - **通道模式（Claude Code）** - 透過本機的 Claude Code 工作階段進行連線。**無需 API 金鑰** - 它會沿用您現有的 Claude Code 登入狀態，並將完整的 Claude Code 代理程式導入電腦中，每台電腦或烏龜各擁有一個獨立的工作階段。\n\n  ## 需求\n\n  - 安裝 Forge 或 NeoForge 的 Minecraft - 請參閱 **「版本」** 標籤頁以取得對應您遊戲版本的構建檔\n  - CC: Tweaked 1.117.1 以上版本\n  - **以下任一項：**\n    - 用於 API 金鑰模式的 Anthropic API 金鑰，**或**\n    - 在伺服器主機上安裝 Claude Code 與 Bun（用於通道模式）\n\n  ## 功能\n\n  - **串流回應：** 在終端機上即時查看 Claude 的輸出內容（API 金鑰模式）。\n  - **工具使用：** Claude 可讀寫檔案、執行 Shell 指令、控制紅石、操作週邊裝置以及駕駛烏龜。自動相容於任何週邊裝置模組。\n  - **獨立電腦隔離：** 在通道模式下，每台電腦與烏龜皆擁有專屬的 Claude Code 工作階段。\n  - **對話紀錄：** 依電腦分別儲存持久化的聊天紀錄。\n  - **可自訂設定：** 可選擇模型、最大 Token 數、系統提示詞以及併發限制。\n\n  ## 遊戲內指令\n\n  設定您的 Anthropic API 金鑰（API 金鑰模式）：\n  ```\n  /claudecraft setkey <key>\n  ```\n\n  更換 Claude 模型：\n  ```\n  /claudecraft model <model>\n  ```\n\n  顯示目前設定：\n  ```\n  /claudecraft status\n  ```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

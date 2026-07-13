@@ -1,0 +1,6 @@
+{
+  "bodyHash": "369b1ca3e93baed3",
+  "content": "\n\nApplied Generators 為 AE2 添加了 FE 發電機。\n\n- 奇點發電機 - 透過消耗奇點來產生 FE。\n- 通量發電機 - 以恆定速率持續產生 FE。\n\n本模組亦新增了 FE 儲存功能與部分功能方塊。\n\n- 通量儲存格 - 可像箱子般儲存 FE。\n- 創世合成器 - 為本模組物品或部分 AE2 物品新增合成配方。\n- 圖案緩衝槽 - 可儲存圖案所需的原料物品。\n- 冶煉爐 - 可透過 AE 系統而非燃料來冶煉物品。\n\n配方介面整合：EMI、REI、JEI\n\n**目前，在 26.1.2 版本中僅支援 JEI。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

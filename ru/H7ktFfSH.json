@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FYAOEv8OA9k=",
-  "content": "![banner](https://cdn.modrinth.com/data/cached_images/4e932b3e7ba4872ccc3619689f8c7c36d1c454fc_0.webp)\n\nDark Window Bar — это простой мод, который автоматически делает панель заголовка Minecraft тёмной в Windows.\n\nМод определит, работаете ли вы в тёмном режиме Windows, и если да, то окно при запуске будет оформлено так, чтобы соответствовать настройкам операционной системы:\n\n![demo](https://cdn.modrinth.com/data/cached_images/21ee3a346849dc3076945ef2c1b65338f9d537cb.png)\n\nИз-за использования специфичных для Windows API для настройки атрибутов окон этот мод будет работать только на Windows 10 и Windows 11. При запуске на других операционных системах мод отключится сам.",
+  "bodyHash": "62027b1dbdd8ec14",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/4e932b3e7ba4872ccc3619689f8c7c36d1c454fc_0.webp)\n\nDark Window Bar — это простой мод, который автоматически делает строку заголовка окна Minecraft тёмной в Windows.\n\nМод определяет, используете ли вы Windows в тёмном режиме, и если да, то при запуске окно будет стилизовано под операционную систему:\n\n![demo](https://cdn.modrinth.com/data/cached_images/21ee3a346849dc3076945ef2c1b65338f9d537cb.png)\n\nПоскольку для установки атрибутов окна используются специфичные для Windows API, этот мод работает только на Windows 10 и Windows 11. На других операционных системах мод отключается самостоятельно.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

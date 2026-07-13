@@ -1,6 +1,6 @@
 {
-  "bodyHash": "PcT/dt7ahCw=",
-  "content": "# chat-attestation\n\n用於 Kaboom 及其他可能伺服器的無機器人冒名防護機制\n\n**絕對不要將你的 chat-attestation.priv.key 檔案傳給任何人**。你的公鑰會在啟動時顯示於記錄檔中（請搜尋「\nEncoded public key」）。\n\n## 已知問題\n\n- 與 ChatPatches 不相容（[#2](https://code.optmstc.dev/opt/chat-attestation/issues/2)）\n  - 疑似在訊息加入聊天元件後內容才被更新，導致系統聊天功能異常。\n- 壓縮一般聊天訊息無法與 ChipmunkMod 搭配使用（[#4](https://code.optmstc.dev/opt/chat-attestation/issues/4)）\n  - 你無法傳送壓縮的一般聊天訊息，但可以正常閱讀。疑似 sendChat 被重複觸發兩次。\n- 偶發性的指令告示牌失效問題（[#3](https://code.optmstc.dev/opt/chat-attestation/issues/3)）\n  - 看起來像是競賽條件（race condition）所致。老實說，我可能直接移除這個功能。",
+  "bodyHash": "12e7d5c2049743eb",
+  "content": "\n\n# chat-attestation\n\n為 Kaboom 及其他可能的伺服器提供免機器人驗證的防冒充保護\n\n**絕對不要將你的 chat-attestation.priv.key 檔案發送給任何人**。你的公鑰會在啟動時輸出至日誌中（請搜尋「\nEncoded public key」）。\n\n## 問題\n\n- 與 ChatPatches 不相容 ([#2](https://code.optmstc.dev/opt/chat-attestation/issues/2))\n  - 內容似乎在加入聊天元件後才被更新。這會導致系統聊天無法正常使用。\n- 壓縮的一般聊天不支援 ChipmunkMod ([#4](https://code.optmstc.dev/opt/chat-attestation/issues/4))\n  - 你無法發送壓縮的一般聊天，但可以閱讀它。看起來像是 sendChat 被呼叫了兩次。\n- 偶爾發生指令簽名失敗 ([#3](https://code.optmstc.dev/opt/chat-attestation/issues/3))\n  - 看起來是競態條件所致。老實說，我可能會直接移除這個功能。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

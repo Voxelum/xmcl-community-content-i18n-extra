@@ -1,6 +1,6 @@
 {
-  "bodyHash": "MS2+Nvpu8QQ=",
-  "content": "# Что это?\nЭто зум, знакомый по Optifine, но без ограничений по масштабированию.\n\n**! Если вы используете Fabric, вам также нужно скачать [Fabric API](https://modrinth.com/mod/fabric-api)!**\n\n\n\n![Пример масштабирования: ослик в саванне](https://i.postimg.cc/qRjDhkzR/infinitezoom1.gif)\n\n![Клавиша зума в меню «Клавишные сокращения»](https://cdn.modrinth.com/data/cached_images/09ddd1c3f8e30e02685310ad48daa1d9ca58d938.png)\n\n![Масштабирование](https://i.postimg.cc/YSGzfzyf/zoom.gif)\n\nЭто расширенная версия известного Optifine Zoom, но с гораздо большим диапазоном масштабирования — теперь вы наконец-то можете приближать объекты на большие расстояния, не ограничиваясь лишь несколькими десятками блоков.",
+  "bodyHash": "437802d3150fdb98",
+  "content": "\n\n# Что это?\nЭто аналог зума из Optifine, но без ограничений на степень приближения.\n\n**! Если вы используете Fabric, вам также необходимо скачать [Fabric API](https://modrinth.com/mod/fabric-api) !**\n\n\n\n![пример зума: осёл в саванне](https://i.postimg.cc/qRjDhkzR/infinitezoom1.gif)\n\n![привязка клавиши зума в меню управления](https://cdn.modrinth.com/data/cached_images/09ddd1c3f8e30e02685310ad48daa1d9ca58d938.png)\n\n![зум](https://i.postimg.cc/YSGzfzyf/zoom.gif)\n\nЭто расширенная версия популярного зума из Optifine, но с гораздо большим радиусом действия, что позволяет наконец приближать объекты на огромное расстояние, не ограничиваясь всего несколькими десятками блоков.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "zB+QCN6B968=",
-  "content": "## Описание\n\nЭтот датапак/мод отображает координаты сразу после смерти на экране, чтобы игрок мог найти украденные предметы или место. Если вам нужны координаты в чате, вы можете использовать эту команду:\n\n```\n/trigger bizcub.death_coords.trigger1\n```\nПринцип работы показан на видео\n\n![превью](https://i.postimg.cc/Kvh5fKDD/2025-01-10-15-32-00.gif)\n\n## Зависимости\n- Fabric loader требует [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "bodyHash": "29a730f199045f11",
+  "content": "\n\n## Описание\n\nЭтот датапак/мод отображает координаты сразу после смерти на экране, чтобы игрок мог найти пропавшие предметы или место. Если вам нужны координаты в чате, вы можете использовать эту команду:\n\n```\n/trigger bizcub.death_coords.trigger1\n```\nПринцип работы показан в видео\n\n![preview](https://i.postimg.cc/Kvh5fKDD/2025-01-10-15-32-00.gif)\n\n## Зависимости\n- Загрузчик Fabric требует [Fabric API](https://modrinth.com/mod/fabric-api)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

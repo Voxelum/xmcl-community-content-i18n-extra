@@ -1,0 +1,6 @@
+{
+  "bodyHash": "76a6d377f64397b0",
+  "content": "\n\n為 Minecraft 1.12.2 (Forge) 後製移植的 [Construction Wand](https://modrinth.com/mod/construction-wand) 功能。\n\n## 已實作功能\n\n### 物品與核心模組\n- 4 種法杖類型：石頭／鐵／鑽石／無限\n- 4 種核心：天使／破壞／AE／ProjectE\n- 核心覆蓋模型與著色（安裝核心後，法杖外觀會改變）\n\n### 放置與破壞邏輯\n- 建造模式\n- 天使模式：支援空中放置\n- 破壞模式\n- 選配 Baubles 相容性：裝備於 Baubles 槽位的容器物品可提供建築用方塊\n- 選配 ProjectE 相容性：可消耗 EMC 直接放置方塊的建造法杖\n- 採用接近原版實作的互動流程：\n  - 放置動作透過 `ItemBlock.placeBlockAt` 處理\n  - 破壞動作透過 `removedByPlayer` + `onPlayerDestroy` 處理\n  - 與 Forge 的放置/破壞事件整合\n\n### 升級與選項\n- 核心安裝升級（於合成欄中將法杖與核心合併）\n- 可切換的選項（鎖定/方向/替換/匹配/隨機/核心）\n- 法杖圖形介面（於空中右鍵時按下快捷鍵組合開啟）\n\n### 復原與預覽\n- 復原歷史紀錄\n- 復原預覽同步（由快捷鍵觸發查詢）\n- 復原後自動刷新預覽畫面\n- 預覽顏色設定：\n  - 破壞核心：紅色\n  - 復原預覽：綠色\n  - 天使核心支援對空氣的預覽顯示\n\n### 預設控制鍵\n\n- `Shift + Ctrl + 滑鼠滾輪`：切換鎖定模式\n- `Shift + Ctrl + 左鍵點擊`（於空中揮動）：切換核心\n- `Shift + Ctrl + 右鍵點擊`（於空中）：開啟法杖設定圖形介面\n- 按住 `Shift + Ctrl`：顯示復原預覽\n- 手持法杖時對著方塊 `Shift + 右鍵點擊`：執行復原",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

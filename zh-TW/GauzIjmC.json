@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b36ae501a2c2c995",
+  "content": "\n\nA lightweight mod that lets any player use the vanilla `/tp` command, no OP or cheat mode, no `/tpa` or request/accept flow.\n一款輕量級模組，讓任何玩家都能使用原版 `/tp` 指令，無需 OP 權限或作弊模式，也不具備 `/tpa` 或請求／接受流程等複雜機制。\n\nThis mod overrides the vanilla `/tp` command:\n本模組覆寫了原版的 `/tp` 指令：\n\n- All players can use `/tp` without OP or any permissions.\n- 所有玩家皆可直接使用 `/tp`，無需 OP 或任何特定權限。\n- For fair use, `/tp` only supports selector `@s`. Selectors like `@e`, `@p`, `@r`, UUID targets, and multi-target usage are not supported (e.g. `/tp @e @s`, `/tp <uuid>`).\n- 為確保遊戲公平性，`/tp` 僅支援選擇器 `@s`。不支援 `@e`、`@p`、`@r`、UUID 目標及多目標用法（例如 `/tp @e @s`、`/tp <uuid>`）。\n\nPlayers can still teleport to other players or coordinates just like vanilla `/tp` does.\n玩家仍能像原版 `/tp` 一樣，傳送至其他玩家或指定座標。\n\nExample available commands:\n可用指令範例：\n\n- `/tp Player`\n- `/tp x y z`\n- `/tp PlayerA PlayerB`\n- `/tp @s Player`\n- `/tp Player @s`\n- `/tp @s x y z`\n- `/tp Player x y z`\n\nExample configuration file (`justtp-common.toml`):\n設定檔範例（`justtp-common.toml`）：\n\n```toml\n# Whether /tp supports coordinates, defaults to `true`\n# 是否允許 /tp 使用座標，預設為 `true`\nenableCoordinateTp = true\n\n# Teleport message mode\n# 傳送訊息模式\n# Allowed Values: OFF, BOTH, ALL\n# 可選值：OFF、BOTH、ALL\ntpMessageMode = \"ALL\"\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

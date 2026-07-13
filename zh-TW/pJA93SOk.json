@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac5cb0f2cd6cdfe1",
+  "content": "\n\n# Botania 種子\n\n這是為 [Botania](https://modrinth.com/mod/botania) 設計的擴充模組，為所有 16 種神秘花朵製作可種植的種子。此外，它還包含幾項小調整，讓獲取神秘花朵的過程稍微增加一點難度。\n\n此模組最初是為 Stardew Valley 風格的整合包 [Society: Capital Hill](https://www.curseforge.com/minecraft/modpacks/society-capital-hill) 而開發，但它作為獨立模組運作，並將像其他模組一樣持續維護。非常歡迎提供任何回饋或建議！\n## 功能特色\n\n### 神秘花朵作物\n\n每種神秘花朵都有其專屬種子，可使用任意種子與 Minecraft 染料製作而成。若您計畫在整合包或其他設定中限制 Botania 的獲取，可以並且應該修改這些合成配方。\n\n### Botania 調整項目\n\n以下針對基礎版 Botania 模組進行的修改，旨在讓種植神秘花朵的過程更具合理性：\n- 神秘花朵與輝耀蘑菇不再於世界中自然生成（可透過資料包進行調整）\n- 輝耀蘑菇現在需要花瓣才能合成，使其更具裝飾性\n- 埋藏的花瓣無法再使用骨粉催熟成長為高草，從而杜絕無限複製花瓣的問題。\n## 依賴模組\n\n本模組具備以下依賴關係，並已於以下版本測試通過：\n\n- 由 vazkii 開發的 [Botania](https://modrinth.com/mod/botania) 第 447 版。只要 Botania 更新，本模組*極可能*會保持相容。\n## 支援\n\n有任何問題、留言或建議嗎？歡迎加入我們的 [Discord](https://discord.gg/GdcZkrZqkj)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

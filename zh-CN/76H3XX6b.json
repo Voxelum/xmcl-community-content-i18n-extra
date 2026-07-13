@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2cd99657f12c4d8",
+  "content": "\n\n《建筑魔杖》- KOTS 分支，增加了更多模组兼容性与生活质量（QoL）改进。\n\n本版本引入了以下更改：\n\n- 将原本需要按 **潜行 + “魔杖配置键”** 的操作，简化为仅按 **“魔杖配置键”**（**默认：左 Ctrl**），用于撤销、模式切换、核心切换以及打开图形界面（GUI）等操作。\n- 支持使用来自盔甲栏位与 Curios（奇物）饰品栏位的物品。\n- 支持使用来自 L2 Backpacks 的物品。\n- 支持使用来自 Applied Energistics 2（应用能源2）的便携存储单元、无线终端以及无线合成终端中的物品。\n- 支持 Tom’s Simple Storage 无线终端，访问逻辑与原版保持一致。\n- 支持 Refined Storage（精准存储）无线终端，能耗根据物品数量与 RS 配置计算，同时支持无距离限制与跨维度访问。\n- 支持 Beyond Dimensions（超越维度）。\n- 支持 Occultism（神秘学）存储访问器。\n- 支持 Sable。\n- 启用对潜影盒、Sophisticated Backpacks（高级背包）与 L2 Backpacks 的嵌套读取功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

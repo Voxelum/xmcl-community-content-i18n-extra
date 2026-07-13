@@ -1,0 +1,6 @@
+{
+  "bodyHash": "695eecff4e2f7fc3",
+  "content": "\n\n# EnS-hAder\n\n一款采用柔和粉彩色调、营造沉浸氛围的 Minecraft 着色器包。兼容 **Iris** 和 **OptiFine**，基于 GLSL 1.20 构建，支持所有 Minecraft 版本。\n\n## 功能特性\n\n- **柔和阴影** — 采用平滑的 PCF 过滤阴影边缘\n- **泛光效果** — 明亮表面呈现柔和的辉光溢出\n- **动态水面** — 带有波浪起伏与镜面高光反射\n- **可调雾距** — 支持 4 至 16 个区块，可在游戏内着色器选项界面（⚙️）中调整\n\n## 安装方法\n\n1. 安装 [Iris](https://modrinth.com/mod/iris) 或 OptiFine\n2. 从本页面下载 ZIP 文件\n3. 将其放入 `.minecraft/shaderpacks/` 文件夹中\n4. 在游戏中：视频设置 → 着色器包 → 选择 **EnS-hAder**\n\n## 源代码\n\n完整源代码托管于：https://github.com/thecrenss/EnS-hAder",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

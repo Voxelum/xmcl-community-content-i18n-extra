@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d425426423772b1",
+  "content": "\n\n使用 5 個鵝卵石、一個熔岩桶與一個水桶、1 份紅石粉和 1 個活塞來合成橋接器。\n\n![Crafting](https://cdn.modrinth.com/data/CZBBlqna/images/e31d6ab04ae3b1843ba84ee1affbcc2bd67da537.png)\n\n橋接器內置有熔岩與水，放置後會朝其面對的方向生成並放置鵝卵石。\n\n放置方向不受限於四個基本方位；您可以向上或向下放置它，也能將其放置於水中或熔岩中。\n\n當所在區塊未加載，或前方有方塊阻擋時，它會停止運作。一旦阻擋的方塊被移除，它將恢復運作。\n\n![Auto Bridger at work](https://cdn.modrinth.com/data/CZBBlqna/images/d349d962596740723e0e33b961f00df0bc2471b2.png)\n\n查看[我的其他模組](https://modrinth.com/user/Pepsied)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

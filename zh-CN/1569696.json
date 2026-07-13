@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6b169a163a90e93b",
+  "content": "\n\n<p>与 ReplayMod (reforgedplaymod) 的兼容性：确保 Sable SubLevel 机械的运动能够被正确录制并在回放中正常播放</p>\n<p>修复内容：</p>\n<ul>\n<li>运动录制。Sable 会绕过常规 Minecraft 连接广播 SubLevel 姿态快照（单人游戏通过直接调用，多人游戏通过独立的 UDP 通道），导致 ReplayMod 无法录制它们，从而使机械在回放中“冻结”。在录制期间，本模将快照路由到常规通道 &mdash; 这样它们就会被包含在回放中，回放时机械也能再次移动。</li>\n<li>快速模式。ReplayMod 的快速模式在不执行 NeoForge 模组网络握手的情况下重建世界，这会导致客户端永久卡在“重新配置”界面。在进行回放时，本模会让连接以原版连接的身份顺利通过 NeoForge 的检查，从而使世界正常加载。</li>\n</ul>\n<p>适用于基于 Sable 的模组 &mdash; 例如 Create: Aeronautics（飞行机械）&mdash; 用于录制包含移动船只和机械的电影级回放。</p>\n<p>需要安装 Sable 和 ReplayMod(reforgedplaymod)。</p>\n<p>注意：只有在此模组安装并处于激活状态下录制的回放才会显示移动的机械。之前未安装此模组时录制的旧回放没有内置运动数据，事后无法修复 &mdash; 回放时机械仍会保持冻结状态。请重新录制一次回放以查看修复效果。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

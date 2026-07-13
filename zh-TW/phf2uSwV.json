@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ae7c9ffcc26c1ad",
+  "content": "\n\n# TranslateOverlay\n### 語言：英文 | [簡體中文](https://github.com/PlumeIS/TranslateOverlay/blob/1.21/README_zh-cn.md)\n### 一款帶有覆蓋層功能的 Minecraft 翻譯模組。\n\n#### 支援版本：   \nFabric: [1.17.1]() [1.18.1]() [1.18.2]() [1.19.4]() [1.20.1]() [1.20.6]() [1.21.1]()   \nForge: [1.17.1]() [1.18.1]() [1.18.2]() [1.19.4]() [1.20.1]() [1.20.6]() [1.21.1]()   \nQuilt: [1.20.6]()   \n\n---\n\n### 支援的翻譯平台：\n> *翻譯過程需要將您的資料上傳至遠端伺服器。*\n+ Microsoft Bing\n  + 開啟並使用。\n  + 無需設定。\n+ 百度\n  + 申請並設定百度 API。\n+ 本機 API\n  + 使用 RPC 建立本機翻譯服務。\n\n---\n\n### 功能特色：\n#### ChatTranslate\n在聊天視窗中翻譯訊息。   \n\n##### *預覽：*\n![img](https://plumeis.github.io/img/tov1.png)\n---\n#### OCRTranslate\n使用 OCR 技術翻譯遊戲截圖。   \n> *預設快捷鍵：M*   \n\n##### *預覽：*\n![img](https://plumeis.github.io/img/tov2.png)\n----\n#### BookTranslate\n翻譯已書寫或可書寫的書籍。   \n> *預設快捷鍵：K*   \n----\n#### BlockTranslate\n翻譯世界中的告示牌與書本。   \n> *預設快捷鍵：K*   \n----\n\n### 設定檔\n設定檔儲存於 `./<minecraftDir>/config/translateoverlay.json`   \n有關設定檔選項的詳細資訊，請參閱[設定檔選項文件](https://github.com/PlumeIS/TranslateOverlay/blob/1.21/CONFIG_DOC.md)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

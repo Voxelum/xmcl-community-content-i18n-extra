@@ -1,0 +1,6 @@
+{
+  "bodyHash": "af9f466c9f501011",
+  "content": "\n\n<p>此模組採用 Nvidia Reflex 原理來降低 Minecraft 中的渲染延遲，透過估算 CPU 與 GPU 運算時間來自動鎖幀。（支援任何 GPU 使用）</p>\n<p>設定中有兩個選項：一個是開關切換，另一個是用於減少等待時間。<br>等待時間的調整單位為奈秒。如果啟用 Reflex 後發現 GPU 佔用率下降，您可以稍微調高數值，將 GPU 佔用率提升至接近 100%。然而，若數值調得過高反而會增加延遲。<br>有時演算法可能會估算錯誤，導致延遲設定過短而讓渲染佇列堆積，進而使渲染延遲上升。在這種情況下，您可以輸入負數來增加等待時間，以降低延遲。</p>\n<p>此模組參考 Nvidia Reflex 原理，在 Minecraft 中降低渲染延遲，透過估算 CPU 與 GPU 時間來實現自動鎖幀。（允許任意 GPU 使用）</p>\n<p>設定中提供兩個選項，分別為切換開關與減少等待時間。<br>調整等待時間的單位為奈秒。若啟用 Reflex 後 GPU 佔用率下降，可適度調高數值以提升 GPU 佔用率，使其剛好達到 100%；但若調升過頭反而會增加延遲。<br>有時演算法估算可能出現偏差，導致延遲過短而使渲染佇列堆積，進而拉高渲染延遲。此時可輸入負數來延長等待時間，以降低延遲。</p>\n<p>&nbsp;<img src=\"https://media.forgecdn.net/attachments/thumbnails/1093/238/310/172/test-png.png\" alt=\"\" width=\"310\" height=\"154\"></p>\n<p><img src=\"https://legacy.curseforge.com/minecraft/mc-mods/reflex-antilag/settings/test.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

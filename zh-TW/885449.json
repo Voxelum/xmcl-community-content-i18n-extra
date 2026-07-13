@@ -1,6 +1,6 @@
 {
-  "bodyHash": "HnR5F7UlrzM=",
-  "content": "<p>這是一個整合了我過去三年模組開發經驗的函式庫模組，旨在抽象化Fabric和Forge之間的程式碼差異。</p><p>&nbsp;</p><p>包含Configurate配置系統，可在Fabric和Forge上實現通用配置功能（源自Croptopia模組）</p><p>包含網路抽象層，封裝Fabric與Forge封包差異（源自Shoppy模組）</p><p>採用GSON實現伺服器端翻譯系統，讓Fabric/Forge伺服器模組無需將語言檔案分發給客戶端，仍能根據客戶端傳送的語言進行本地化（本模組核心功能）</p><p>基於GSON的世界資料儲存抽象層，用於儲存每個世界專屬的數據（源自Professions模組）</p><p>&nbsp;</p><p>&nbsp;</p><p>更多功能持續開發中！</p><p>&nbsp;</p><p>可透過以下Maven倉庫添加依賴：<a href=\"/linkout?remoteUrl=https%253a%252f%252fmaven.epherical.com%252f%2523%252freleases%252fcom%252fepherical%252fepherolib\" rel=\"nofollow\">https://maven.epherical.com/#/releases/com/epherical/epherolib</a></p>",
+  "bodyHash": "eee6cf503f42fcae",
+  "content": "\n\n<p>這是一款函式庫模組，融合了我在過去三年模組開發中的所學，旨在協助抽象化 Fabric 與 Forge 之間的程式碼。</p>\n<p>&nbsp;</p>\n<p>內建 Configurate，供 Fabric 和 Forge 使用以建立統一的設定系統。（源自 Croptopia）</p>\n<p>提供網路通訊的抽象方法，隱藏 Fabric 與 Forge 封包差異。（源自 Shoppy）</p>\n<p>包含基於 GSON 的伺服器端翻譯功能。對於 Fabric/Forge 伺服器端模組而言，無需將語言檔案分發至客戶端，但仍能利用客戶端傳送過來的語言設定進行本地化。（此處實現）</p>\n<p>提供基於 GSON 的儲存抽象層，用於存放需依世界獨立儲存的資料（源自 Professions）。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>更多功能即將推出！</p>\n<p>&nbsp;</p>\n<p>若要依賴此函式庫，請前往 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmaven.epherical.com%252f%2523%252freleases%252fcom%252fepherical%252fepherolib\" rel=\"nofollow\">https://maven.epherical.com/#/releases/com/epherical/epherolib</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "EKenVHyPILM=",
-  "content": "Изменяет текстуру в minecraft/textures/block/cobweb.png на голубую, сохраняя при этом три оттенка из оригинальной текстуры паутины.\n\nОригинальные оттенки:\n- #FFFFFF (яркий)\n- #E4E9E9 (средний)\n- #C4CED2 (тёмный)\n\nНовые оттенки:\n- #00FFFF  (яркий)\n- #00E7E7  (средний)\n- #00CCCC  (тёмный)",
+  "bodyHash": "06759ed29d566110",
+  "content": "\n\nИзменяет текстуру в minecraft/textures/block/cobweb.png на циановую, сохраняя три оттенка оригинальной текстуры паутины.\n\nОригинальные оттенки:\n- #FFFFFF (светлый)\n- #E4E9E9 (средний)\n- #C4CED2 (тёмный)\n\nНовые оттенки:\n- #00FFFF  (светлый)\n- #00E7E7  (средний)\n- #00CCCC  (тёмный)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

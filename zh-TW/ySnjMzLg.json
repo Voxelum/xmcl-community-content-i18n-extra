@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qPidYs0eCeY=",
-  "content": "## 配件相容層\n\n本模組以Accessories為框架，透過對Trinkets與Curios兩款模組進行Mixin修補，扮演兩者包裝器的角色。其設計支援Connector或Kilt環境，代表無論在Fabric或NeoForge平台上，Trinkets或Curios的支援功能皆可正常運作。\n\n## **需求模組**：\n- [Accessories](https://modrinth.com/mod/accessories/)\n- **[Trinkets](https://modrinth.com/mod/trinkets) 及/或 [Curios](https://modrinth.com/mod/curios)**\n\n## 取代項目：\n使用此版本時，**無需再安裝**以下相容層：\n- [Trinkets相容層](https://modrinth.com/mod/accessories-tc-layer)\n- [Curios相容層](https://modrinth.com/mod/accessories-cc-layer)\n\n### 已知問題：\n- 所有相關畫面與渲染效果目前皆統一整合至配件畫面（Accessories Screen）\n- Curios相關問題：\n  - 主動狀態功能尚未實作，因此依賴此功能的模組將無法控制已裝備配件的狀態\n  - `ICurioSlotExtension` 尚未實作，導致無法進行物品堆疊替換或提示文字調整",
+  "bodyHash": "707016a31326ac31",
+  "content": "\n\n## 配件相容層\n\n本模組以 Accessories 為基礎框架，透過對 Trinkets 與 Curios 套用 mixin 修補程式，作為兩者的包裝層。其設計支援 Connector 或 Kilt，代表無論使用 Fabric 還是 NeoForge，Trinkets 或 Curios 的支援功能皆能正常運作。\n\n## **需求**： \n- [Accessories](https://modrinth.com/mod/accessories/)\n- **[Trinkets](https://modrinth.com/mod/trinkets) 以及/或 [Curios](https://modrinth.com/mod/curios)**\n\n## 取代項目： \n使用此版本時，以下相容層已**不再需要**：\n- [Trinkets 相容層](https://modrinth.com/mod/accessories-tc-layer)\n- [Curios 相容層](https://modrinth.com/mod/accessories-cc-layer)\n\n### 已知問題：\n- 目前所有相關介面或渲染畫面已統一至 Accessories 介面\n- Curios：部分功能為已知問題，未來將嘗試修復\n  - 目前未實作「激活狀態」功能，這意味著依賴此功能的模組將無法控制已裝備配件的狀態\n  - 未實作 `ICurioSlotExtension`，因此任何物品堆疊替換或提示資訊調整功能將無法運作",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

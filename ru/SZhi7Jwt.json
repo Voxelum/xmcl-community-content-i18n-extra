@@ -1,0 +1,6 @@
+{
+  "bodyHash": "303cbe468b180a86",
+  "content": "\n\n# Предпросмотр шалкера\n\n---\n\nShulker Preview — это клиентский мод, который позволяет открывать шалкер без его установки (однако вы не сможете забрать находящиеся в нём предметы).  \nКнопку для просмотра содержимого шалкера можно изменить в настройках игры.\n\nВот демоверсия:\n\n![Демо предпросмотра шалкера](https://github.com/kgriff0n/shulker-preview/raw/master/img/shulker-demo.gif)\n\nНачиная с **версии 1.2**, вы также можете открывать шалкеры в инвентаре и контейнерах.\n\n**У каждого цвета шалкера свой внешний вид:**\n\n| ![Жёлтый шалкер](https://github.com/kgriff0n/shulker-preview/raw/master/img/yellow-shulker.png) | ![Красный шалкер](https://github.com/kgriff0n/shulker-preview/raw/master/img/red-shulker.png)   |\n|-------------------------------------------|---------------------------------------|\n| ![Розовый шалкер](https://github.com/kgriff0n/shulker-preview/raw/master/img/pink-shulker.png)     | ![Лаймовый шалкер](https://github.com/kgriff0n/shulker-preview/raw/master/img/lime-shulker.png) |\n\n[![Баннер MinecraftStorage](https://cdn.modrinth.com/data/cached_images/ec0120705f77bd6c0c7e5b79e889afed1bafe9c4_0.webp)](https://minecraftstorage.com/mods/shulker-preview)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

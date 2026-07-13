@@ -1,0 +1,6 @@
+{
+  "bodyHash": "692169866e6585e9",
+  "content": "\n\n# 进度禁用\n\n一款简单的模组，可移除指定命名空间下的所有进度。\n\n## 使用方法\n\n该模组会移除配置文件中设置的所有命名空间内的进度。\n\n```toml\ndisabledMods = [\n    \"minecraft\", # 移除所有 Minecraft 进度\n    \"mine.*\", # 移除所有以 mine 开头的模组中的进度\n    \".*\" # 移除所有进度\n]\n```\n\n## 依赖项\n\n内置 [night-config](https://github.com/TheElectronWill/night-config)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

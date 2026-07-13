@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a7e88a4e70f8d17",
+  "content": "\n\n[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ToCraft)\n\n# CraftedCore\n\n该模组包含一些 Forge 和 Fabric 模组的共享代码。\n\n因此，它不会添加新功能，也不会改变用户体验，但部分模组依赖于此。\n\n## 法律说明\n\n本模组基于 [Architectury API](https://github.com/architectury/architectury-api/tree/1.19.2)，因此使用了其中的一些脚本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

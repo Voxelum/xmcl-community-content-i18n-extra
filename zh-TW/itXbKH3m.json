@@ -1,0 +1,6 @@
+{
+  "bodyHash": "88e8598a5db88b3c",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/_pm-h7bPLBg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n我想為遊戲中用於終界龍火球紋理/模型的 2D 貼圖添加一個 3D 替換方案。但我發現遊戲本身並沒有辦法使用我建立的模型，即使搭配了像 [Entity Model Features(EMF)](https://modrinth.com/mod/entity-model-features) 這樣的模組也無法運作。因此，這個模組旨在提供渲染支援，讓該火球呈現 3D 效果。\n\n\n\n可能與 [Particle Core](https://modrinth.com/mod/particle-core) 不相容\n\n\n\n相容模組：\n\n[EMF](https://modrinth.com/mod/entity-model-features)\n\n[ETF](https://modrinth.com/mod/entitytexturefeatures)\n\n[Entity Culling](https://modrinth.com/mod/entityculling)\n\n以及眾多其他模組。我自己安裝了超過 90 個用戶端模組，在測試期間並未發現任何持續性的錯誤。\n\n\n如果您發現任何問題，請透過 Discord 與我聯繫。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

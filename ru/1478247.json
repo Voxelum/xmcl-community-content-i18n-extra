@@ -1,6 +1,6 @@
 {
-  "bodyHash": "b46f5aaf34d59469",
-  "content": "\n\n<p><strong>Этот мод устраняет вылеты при использовании VulkanMod вместе с Create на Fabric</strong></p>\n<p>Он решает распространённые проблемы, такие как:</p>\n<p>Ошибки фреймбуфера (например, 36013, 34041), несовместимость форматов буфера трафарета и глубины, вылеты при рендеринге в интерфейсе Create и в мире</p>\n<hr>\n<p>⚙&nbsp;<strong>Как это работает</strong> Вносит исправления в несовместимые пути OpenGL между Create и VulkanMod, переназначая неподдерживаемые форматы фреймбуфера, использование трафарета и другие параметры</p>\n<ul>\n<li>Только на стороне клиента</li>\n</ul>\n<hr>\n<p>&nbsp;</p>\n<h1>Ссылки</h1>\n<p>Modrinth:<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fvulkan-create-compatibility\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/vulkan-create-compatibility</a></p>",
+  "bodyHash": "e870b46163ae074c",
+  "content": "\n\n<p><strong>Этот мод исправляет вылеты при использовании VulkanMod вместе с Create на Fabric</strong></p>\n<p>Он устраняет распространённые проблемы, такие как:</p>\n<p>Ошибки фреймбуфера (например, 36013, 34041) Несовместимость форматов stencil/depth буферов</p>\n<hr>\n<p>⚙&nbsp;<strong>Как это работает</strong> Патчит несовместимые пути OpenGL между Create и VulkanMod, переназначая неподдерживаемые форматы фреймбуфера, использование stencil и другое</p>\n<ul>\n<li>Только для клиента</li>\n</ul>\n<hr>\n<p>&nbsp;</p>\n<h1>Ссылки</h1>\n<p>Modrinth:<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fvulkan-create-compatibility\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/vulkan-create-compatibility</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

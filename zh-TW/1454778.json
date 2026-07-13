@@ -1,0 +1,6 @@
+{
+  "bodyHash": "48033858117a1d76",
+  "content": "\n\n<h1>我的翻譯在哪裡</h1>\n<p>此模組可將所有未翻譯的鍵值匯出為 JSON 檔案。</p>\n<p>想像一下你想翻譯模組中某些尚未翻譯的鍵值。你必須手動輸入它們，這不僅浪費時間，還可能出現拼字錯誤。現在有了這個模組，你可以更輕鬆地進行翻譯。</p>\n<h2>此模組可匯出的內容</h2>\n<p><strong>所有匯出的檔案都會放置在 <code>.minecraft/config/wamt/exports/&lt;mod id&gt;/&lt;language&gt;.json</code> 中。</strong></p>\n<ul>\n<li>沒有任何翻譯的鍵值（顯示方式如 <code>item.xxx.yyy</code>）：由於 Minecraft 語言系統的限制，這些鍵值不一定能全部匯出。你可能需要在遊戲中至少讓它們顯示一次。</li>\n<li>特定語言遺漏的鍵值（例如使用中文時部分文字仍為英文）：這些鍵值將在重新載入資源後立即匯出。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

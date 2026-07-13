@@ -1,0 +1,6 @@
+{
+  "bodyHash": "acc345910acb6c19",
+  "content": "\n\n# Описание\nПервые 5 ударов в комбо увеличивают ваш урон.\nПервый удар после получения урона: 1\nВторой удар подряд: 2\nУвеличивается до 6 к урону, который сохраняется.\nСбрасывается при получении урона от любого источника.\n\n# Версии\nПоддерживает Java Edition 1.21.5 - 26.2\n\n# Совместимость\nНесовместимо с любыми модификациями, имеющими одинаковые имена файлов или названия в scoreboard. Изменяет базовый урон атаки игроков.\n\n  <a href=\"https://patreon.com/Nerd_1023?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\"><img alt=\"patreon-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_vector.svg\"></a>\n  <a href=\"https://discord.gg/m5AGYxRj3g\"><img alt=\"discord-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c06c76037e93d03c",
+  "content": "\n\n這是一個簡單的 Create 模組擴充套件，透過一些簡單快速的 Mixins 實作了 [PR10080](https://github.com/Creators-of-Create/Create/pull/10080)。\n\n修復了擊退、力量與火焰附魔對馬鈴薯砲無效的問題（如問題 [#8030](https://github.com/Creators-of-Create/Create/issues/8030) 所回報）。\n\n經過此修復後，搭配適當附魔與選定彈藥的馬鈴薯砲，就能發揮它本來就該有的強大威力。\n\n本擴充套件不處理 Create 裝備上存在的其他原版附魔問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

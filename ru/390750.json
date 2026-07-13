@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71f7377d0a0b3563",
+  "content": "\n\n<p>Простой серверный мод на сундуки смерти. Для Forge.</p>\n<p>&nbsp;</p>\n<p>Работает как на стороне сервера, так и на стороне клиента.</p>\n<p>&nbsp;</p>\n<p>Использует только ванильные сундуки, поэтому не требует установки со стороны клиента.</p>\n<p>&nbsp;</p>\n<p>Особенности в версии 1.4 (можно изменить в файлах конфигурации):</p>\n<p>Над сундуками спавнятся головы игроков (отключено по умолчанию).</p>\n<p>Игроки получают журнал, показывающий время смерти, измерение и координаты (включено по умолчанию).</p>\n<p>Сундуки заблокированы и могут быть открыты только игроками с соответствующим журналом (включено по умолчанию).</p>\n<p>&nbsp;</p>\n<h2><a href=\"https://discord.gg/HJRGXq4ts7\" target=\"_blank\" rel=\"nofollow\"><strong><img src=\"https://media.forgecdn.net/attachments/description/1257940/description_96b062ac-fd45-4ba0-b076-c0f3f612a350.png\" alt=\"\" width=\"31\" height=\"31\">&nbsp; Есть вопросы или предложения? Присоединяйтесь к моему Discord!</strong></a></h2>\n<p>&nbsp;</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252fsmiley\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/63aa6891-b5b5-4f3b-9ee5-ab0b7a577e98.webp\" alt=\"\" width=\"678\" height=\"113\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

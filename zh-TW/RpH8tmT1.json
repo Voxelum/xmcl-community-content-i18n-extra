@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c0f1e2101aebe94d",
+  "content": "\n\n# Azimuth\n\nAzimuth 是一個為 Create 附加模組開發者擴充 Create API 的程式庫。\n\n### 主要功能：\n\n* **Super Block Entity 行為：** 適用於 SmartBlockEntity 的可組合行為元件，包含生命週期鉤子、動力系統與渲染擴展。\n* **進度系統：** 採用 Create 風格的進度定義與頒發機制。\n* **輪廓線：** 提供額外的動畫輪廓類型以供視覺引導，在 Ponder 場景中尤為實用。\n\n### 給玩家\n\n本模組為程式庫性質，請與所需的主模組一併安裝，享受遊戲樂趣吧！\n\n### 給開發者\n\n本模組的文件可於 [azimuth.azmod.net](https://azimuth.azmod.net) 查閱。\n\n## 榮耀歸於 AZ TECH\n\n**_由 Cake 製作_**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

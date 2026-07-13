@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0abed78baf9d2992",
+  "content": "\n\n## 安裝\n將 ZIP 檔案放入 `shaderpacks` 目錄中。\n請勿從壓縮檔中解壓縮 `shaders` 資料夾。\n\n## 說明\nYamashita Shimejize 是 [Miniature Shader](https://modrinth.com/shader/miniature-shader) 的風格化分支，將微縮景觀效果推向了像素化陰影之外的全新境界。此套件將這種粗獷的像素藝術風格延伸至光影、霧氣、水面、天氣、反射與天候效果，同時保持場景清晰易讀且充滿氛圍。\n\n功能特色：\n- 像素化陰影、色階化光影、霧氣條帶效果以及方塊狀反射\n- 強化雙層雲朵，並支援自訂雲層陰影\n- 熱空氣扭曲效果，以及熔岩、火焰、火把與燈籠的自發光暈\n- 動態模糊、上帝之光、泛光、色差、像素風格鏡頭光暈、帶有可調整不透明度的像素風格鏡頭雨滴，以及可選的深度感知景深（強度可調），從微縮模型的柔和感到微距攝影風格皆可自由切換\n- 墨漬風格的雨後水窪，於平坦地形上呈現如水面般的倒影\n- 極光、雨後彩虹、流星\n- 像素植被風動效果，支援 16x16、32x32 與 64x64 材質包匹配模式\n\n---\n![Have a nice stay.](https://cdn.modrinth.com/data/CGMMa4Ji/images/cd24a8e8a426232247eb39ff57ee454b946a3dd9.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

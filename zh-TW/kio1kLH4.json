@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e838c22ab484506a",
+  "content": "\n\n# 無邊框採礦\n\n傳奇（目前已放棄）的 Borderless Mining Project 重啟專案\n原始模組請見：https://modrinth.com/mod/borderless-mining\n\nhttps://www.curseforge.com/minecraft/mc-mods/borderless-mining\nBorderless Mining 將全螢幕選項改為使用填滿螢幕的無邊框視窗。這讓你能夠在一個螢幕上開啟 Minecraft，同時在另一個螢幕上使用其他程式——因為通常當 Minecraft 失去焦點時會自動最小化。\n\n此模組還在「影片設定」畫面中新增了「無邊框視窗」選項，讓你能輕鬆在遊戲內停用此模組，並可透過 Mod Menu 存取設定選單。\n\n本模組是對 Forge 1.12 版本的 [Fullscreen Windowed (Borderless)](https://minecraft.curseforge.com/projects/fullscreen-windowed-borderless-for-minecraft) 進行重寫的作品。不過它最初是該模組的衍生版本（本模組的 1.12 版即是此衍生版）——原始說明請見 CurseForge 頁面底部。\n\n如果你正在尋找適用於 Forge 1.14+ 的類似模組，請查看 nekeras 開發的 [Borderless Window](https://github.com/Nekeras/borderless)。\n\n在 macOS 系統上，此模組預設為停用狀態，因為無法將視窗置於選單列之上，且 macOS 本身已具備較佳的全螢幕支援功能。# Borderless-Mining-Revived",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

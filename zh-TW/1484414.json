@@ -1,0 +1,6 @@
+{
+  "bodyHash": "807fd43b6f6e3bbe",
+  "content": "\n\n<p>Cheat Logger 是一款輕量的伺服器端 Fabric 模組，透過記錄管理指令來提升 Minecraft 伺服器的透明度。</p>\n<p><strong>當管理員執行任何指令時，所有玩家都會看到：</strong></p>\n<p>👤 執行指令的玩家<br>\n⚡ 執行的指令內容<br>\n🖥️ 由玩家或主控台執行</p>\n<p><strong>這有助於伺服器維持公平性，讓所有玩家都能看見管理行為。</strong></p>\n<p><strong>✨ 功能特色</strong></p>\n<ol>\n<li><p>記錄管理員指令</p>\n</li>\n<li><p>顯示執行指令的玩家名稱</p>\n</li>\n<li><p>將主控台指令顯示為 [CONSOLE]</p>\n</li>\n<li><p>提供黑名單系統，可隱藏如 /msg 或 /tell 等指令</p>\n</li>\n<li><p>僅限伺服器端——玩家無需安裝此模組</p>\n</li>\n</ol>\n<p><strong>⚙ 日誌訊息範例</strong></p>\n<pre><code>[CheatLog] Admin used: /give @p diamond 64  \n</code></pre>\n<p><strong>✅ 安裝方式</strong></p>\n<p>將 .jar 檔案放入伺服器的 mods 資料夾中，然後啟動伺服器即可。</p>\n<p><strong>💡 由於這是伺服器端模組，加入伺服器的玩家無需進行任何安裝。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

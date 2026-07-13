@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31aa6f9e4183e202",
+  "content": "\n\n本模组添加了**类似维尔图姆人**的飞行机制，配有流畅的动画与音效。它在创造模式下完全独立运行，允许你以高速飞行并伴随屏幕震动效果。该模组主要为我即将推出的维尔图姆人模组设计，但其他开发者若需要仍可**自行接入**。\n\n你也可以在此下载我的维尔图姆人模组 [here](https://modrinth.com/mod/viltrumite)。\n\nflightRotY = 0（可在配置文件中修改此值。）\n\n![flight1](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3l2OWlnbm8xYm83ZGw0Znhqd2hpcTd4Y29sdmljMWNlcGNxdmR2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iLmjdTZDi53MS9HlIe/giphy.gif)\n\nflightRotY = 0.85（默认值）\n\n![test1](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm11MWluOHhmZHFjNmpwOTg2dmZwd3B6bHk3Mm00ZG11Z3cwY3RvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QotNh7yAWTNmloDvq7/giphy.gif)\n\n![flight2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZneW93N3Judmp4MnVmcWR5cGVqajBjN3phbzN3d2Rva2IxZWJuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/94A9EE1qSbyuLmIB4x/giphy.gif)\n\n![flight3](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBxcTM2dnd1MWRrMGxwNjM2d3RvemlsY3NpaWNoN3g2ajg2OWRxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lp6pUxutnHjpJxjDIv/giphy.gif)\n\n按住 SHIFT 键可锁定巡航速度。\n按住 SHIFT 键时双击空格可触发快速起飞。在从 NONE 状态切换至 HOVER 状态之前，请勿松开 SHIFT 键。\n\n玩家共有 **4** 种飞行状态：\n\n- **NONE：** 你位于地面或处于正常下落状态。\n- **HOVER：** 你在空中悬浮，可使用 WASD+空格+SHIFT 键缓慢移动。（原版飞行模式）\n- **CRUISE：** 你正朝注视方向高速飞行。必须按住 **CTRL** 键才能加速飞行。\n- **SONIC：** 你正以接近最高速度飞行。（>= 80%）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

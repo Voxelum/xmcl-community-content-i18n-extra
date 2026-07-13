@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a09db91d4c763e8b",
+  "content": "\n\n太空太過無聊？身為採礦企業的你絕不會這麼認為！\n\n## 功能特色\n- 讓 Mekanism 的礦石（錫、鋨、鉛、鈾、螢石）在 Ad Astra 的所有五顆星球上生成。\n- 所有礦石變體均採用自訂繪製的紋理。\n- 功能完全等效：與所有 Mekanism 機器及其他相關模組完全相容。\n- 使 Mekanism 礦石的深板岩變體能在 Glacio 的深板岩區域自然生成。\n\n## 星球資源對照表\n下表顯示各星球會生成哪些新礦石！\n\n| 星球 \\ 礦石 | 錫 | 鋨 | 鉛 | 鈾 | 螢石 |\n|--------------|:---:|:------:|:----:|:-------:|:--------:|\n| 月球         |  ✅  |   ✅    |      |         |          |\n| 火星         |  ✅  |        |      |    ✅    |    ✅     |\n| 水星         |     |   ✅    |  ✅   |    ✅    |          |\n| 金星         |     |        |  ✅   |    ✅    |    ✅     |\n| 冰川星       |  ✅  |   ✅    |  ✅   |    ✅    |    ✅     |\n\n## 常見問題\n- 如何微調礦物生成設定？\n    - Mekanism 的世界生成設定同樣適用於本模組礦物的生成位置與數量。\n    - 可透過數據包覆寫個別礦石變體。詳細資訊請參閱 JAR 檔案中的 `data/mekanismaaa/worldgen/configured_feature` 資料夾。\n- 如何讓 Ad Astra 的礦石（例如德希礦）配合 Mekanism 的礦物處理流程？\n    - 本模組未內建此功能。建議使用 *JAOPCA* 或 *More Mekanism Processing*。\n\n*本模組與 Mekanism 或 Ad Astra 並無隸屬關係。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

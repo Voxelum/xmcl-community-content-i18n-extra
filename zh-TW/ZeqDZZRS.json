@@ -1,6 +1,6 @@
 {
-  "bodyHash": "zXPJqwa70n8=",
-  "content": "# mCRT\n\nmCRT 是一款簡單且高度可自訂的類比恐怖風格著色器，主要設計用於模擬 CRT 顯示器。\n\n---\n### 特色\n\\- 可自訂的畫素尺寸\\\n\\- 多種彩色疊加效果\\\n\\- 完全可調整的霧氣\\\n\\- 可自訂的掃描閃爍\\\n\\- 可變的螢幕雪花雜訊\\\n\\- 色差效果\n\n![一張展示 Minecraft CRT 著色器的截圖，畫面中是一個有噴泉的石頭房間。](https://cdn.modrinth.com/data/ZeqDZZRS/images/2e428e32b1c6aea5fad09e38847b525877473414.png)\n---\n![一張展示 Minecraft CRT 著色器的截圖，畫面中是一條無盡的石頭走廊](https://cdn.modrinth.com/data/ZeqDZZRS/images/0684e95809ec858325f0ab90db357da8be1568fb.png)\n---\n![一張展示 Minecraft CRT 著色器於夜視模式下的截圖，畫面中是夜晚的 landscape](https://cdn.modrinth.com/data/ZeqDZZRS/images/2dd9f093abb76b3923902bbd8be855e5f75a4b14.png)\n\n此著色器改編（並擴充）自 Xor 為 GameMaker 開發的優秀 CRT 著色器，可於[此處](https://mini.gmshaders.com/p/gm-shaders-mini-crt)找到。",
+  "bodyHash": "196dbf0b4c060ff3",
+  "content": "\n\n# mCRT\n\n\nmCRT 是一款簡單且高度可自訂的類比恐怖風格着色器，主要用於模擬 CRT 顯示器。\n\n---\n### 功能特色\n\\- 可自訂像素大小\\\n\\- 多種彩色覆蓋層\\\n\\- 完全可調整的霧效\\\n\\- 可自訂掃描線閃爍\\\n\\- 可變化的螢幕雜訊\\\n\\- 色差效果\n\n注意：此着色器可能會產生相當明顯的[摩爾紋](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern)，因此您可能需要嘗試調整像素大小設定，以獲得更理想的視覺效果。\n\n![Minecraft CRT 着色器截圖，顯示一間帶有噴泉的石頭房間。](https://cdn.modrinth.com/data/ZeqDZZRS/images/2e428e32b1c6aea5fad09e38847b525877473414.png)\n---\n![Minecraft CRT 着色器截圖，顯示一條無盡的石頭走廊。](https://cdn.modrinth.com/data/ZeqDZZRS/images/0684e95809ec858325f0ab90db357da8be1568fb.png)\n---\n![Minecraft CRT 着色器在夜視模式下的截圖，顯示夜晚的風景。](https://cdn.modrinth.com/data/ZeqDZZRS/images/2dd9f093abb76b3923902bbd8be855e5f75a4b14.png)\n\n本着色器是改編並擴充自 Xor 為 GameMaker 開發的優秀 CRT 着色器，原始作品可於[此處](https://mini.gmshaders.com/p/gm-shaders-mini-crt)找到。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

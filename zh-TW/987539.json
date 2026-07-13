@@ -1,0 +1,6 @@
+{
+  "bodyHash": "01fa18d62b90440f",
+  "content": "\n\n<h1 style=\"text-align:center\">罪之灰：類魂系Boss戰鬥</h1>\n<p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/987539/description_4b421f9d-f931-47db-9758-22aca4fea469.png\"></p>\n<p>設定檔會生成於&nbsp;<code>config\\ash_of_sin 目錄。</code></p>\n<p>設定檔的名稱為 soul_like_boss_battle.toml。</p>\n<p>將實體新增至設定檔後，當該實體周圍的所有玩家皆被擊敗時，該實體將移除所有狀態效果（增益與減益），並回滿生命值。</p>\n<p>防止鐵傀儡攻擊Boss的機制。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

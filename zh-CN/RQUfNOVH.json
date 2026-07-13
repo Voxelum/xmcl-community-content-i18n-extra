@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qTR/K8dxbdA=",
-  "content": "![猪灵重制版标志](https://cdn.modrinth.com/data/cached_images/b6de22e7055af824e768eb0463cffd337f3c1074.png)\n\n# 猪灵重制版动画兼容包\n\n本资源包使AL的猪灵重制版与Fresh_LX制作的新鲜动画兼容！\n\n由于AL的猪灵重制版为猪灵和疣猪兽使用了自定义模型，单独使用时无法兼容新鲜动画。\n\n此附加资源包通过采用适配动画的新模型解决了这一问题！\n\n重要提示：\n\n为使本资源包正常工作，需将其加载顺序置于新鲜动画之上。\n\n加载顺序如下：\n- 本资源包\n- 新鲜动画",
+  "bodyHash": "5322522cda51d886",
+  "content": "\n\n![Piglins Revamped logo](https://cdn.modrinth.com/data/cached_images/b6de22e7055af824e768eb0463cffd337f3c1074.png)\n\n# \n\n本模组包使 AL's Piglins Revamped 与 Fresh_LX 的 Fresh Animations 兼容！\n\n由于 AL's Piglins Revamped 为其猪灵和疣猪兽使用了自定义模型，因此它本身无法与 Fresh Animations 兼容。\n\n本附加包通过引入适配相应动画的新模型解决了该问题！\n\n重要提示：\n\n为使本模组包正常工作，您需要将其加载顺序置于 FA 之上。\n\n请按以下顺序加载：\n\n- 本模组包\n- Fresh Animations",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

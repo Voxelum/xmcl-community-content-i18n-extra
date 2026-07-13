@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/8iEgePderg=",
-  "content": "與其在方塊頂面顯示十字或數字，Lighty 採用不同的方法——它在方塊上方渲染出類似透明地毯的區塊！或者，在 1.1.0 版本新增的功能——以 Lighty 風格顯示實際的光照強度數值！\n\n請務必前往 [畫廊](https://modrinth.com/mod/lighty/gallery) 查看一些圖片！\n\n## 設定\n- 若要啟動覆蓋層，請按 `F7` 並選擇所需的模式。此按鍵可在按鍵綁定選單中設定。\n- 自 1.2.0 版本起，您可以使用 `F8` 快速開啟或關閉光照覆蓋層！此按鍵可在按鍵綁定選單中設定。\n- 自 1.3.0 版本起，您可以在新的設定選單（按 `F7` 開啟）中調整「紅色」/「橙色」的閾值。對於那些想要美觀地照亮場所，或正在遊玩某些改變怪物生成規則的模組的玩家來說，非常實用。\n\n## 顏色的意義：\n - 綠色：此處不會生成任何怪物！\n - 橙色：如果太陽下山，怪物就會生成！請小心！\n - 紅色：怪物可以在這裡生成！\n\n如果您對這個模組有任何想法，歡迎開啟 [新的 Codeberg 議題](https://codeberg.org/SchmarrnDevs/Lighty/issues)！\n\n如果您喜歡這個模組，請考慮追蹤專案以獲取最新更新通知！\n\n此模組靈感來自 [LightLevel](https://github.com/Parzivail-Modding-Team/LightLevel)。",
+  "bodyHash": "2a68e71705a2094e",
+  "content": "\n\n與在方塊頂面渲染叉號或數字不同，Lighty 採取了不同的做法——它會在頂部渲染一個類似地毯的透明方塊！或者，在 1.1.0 版本中新增的功能——渲染實際的光照等級數字，但採用 Lighty 風格！\n\n務必查看 [圖庫](https://modrinth.com/mod/lighty/gallery) 以欣賞一些圖片！\n\n## 設定\n- 要啟動覆蓋層，請按下 `F7` 並選擇所需模式。此鍵可在鍵位設定選單中進行自訂。\n- 自 1.2.0 版本起，您可以使用 `F8` 快速切換光照覆蓋層的開關！此鍵可在鍵位設定選單中進行自訂。\n- 自 1.3.0 版本起，您可以在新的設定選單（透過 `F7` 進入）中調整「紅色」／「橘色」的閾值。對於希望美觀佈置照明，或是遊玩某些會改變怪物生成規則的模組的玩家來說非常實用。\n\n## 顏色代表意義：\n - 綠色：此處不會生成怪物！\n - 橘色：太陽下山後將會有怪物生成！請小心！\n - 紅色：此處會生成怪物！\n\n如果您對這個模組有任何想法，歡迎開啟 [新的 Codeberg 問題回報](https://codeberg.org/SchmarrnDevs/Lighty/issues)！\n\n如果您喜歡這個模組，建議追蹤此專案以接收新版更新的通知！\n\n本模組的靈感來自 [LightLevel](https://github.com/Parzivail-Modding-Team/LightLevel)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

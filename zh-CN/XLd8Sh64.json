@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7d944da63a24f3cc",
+  "content": "\n\n# Numeral Ping\n## 重要提示：自 1.2.1 版本起，你还需下载 [YACL](https://modrinth.com/mod/yacl)。\n\n顾名思义™\n\n一款 Quilt/Fabric 模组，用于在标签页列表（Tab 列表）中显示每位玩家的延迟（Ping），而非默认图标。本模组深受 [Numeric Ping](https://www.curseforge.com/minecraft/mc-mods/numericping)（灵感来源）启发，本质上是一款采用相似渲染方法的无缝替换版。本模组更新更及时，且拥有友好的配置界面。\n\n## 鸣谢\n\n本模组由 thaumiel9 翻译为简体中文，FITFC 翻译为巴西葡萄牙语。\nFesaa 为代码开发做出了贡献！\n \n## 资源包\n\n若你的资源包存在兼容问题，请启用内置字体修复包（根据你的偏好选择 \"numeralping/font_fix\" 像素化字体或 \"numeralping/font_fix_high_res\" 平滑字体）。\n\n## 单人游戏\n\n你可以在单人游戏中安装此模组，但实际作用不大。不过，如果你开启局域网（LAN）联机，它可能会派上用场。\n\n## 多人游戏\n\n你可以在任意服务器上使用此模组，无需服务器端提供额外支持。遗憾的是，在 Hypixel（以及部分其他服务器）上，延迟数据仅在大厅环境中正确显示。\n\n## Forge 与旧版本\n\nForge 及旧版本未来可能会获得支持。该模组结构相对简单，大量代码可实现共享复用。\n \n## 后续版本\n嗨，来自未来的你。如果我还“在线”，我会尽力保持此处内容更新。若尚未创建相关议题，欢迎前往 GitHub 提交 Issue。\n\n## 功能建议\n\n如有功能建议，请提交新的 Issue。\n\n## 出现问题时\n\n若遇到严重问题，请再次通过问题追踪器（推荐方式）进行反馈。本模组应具备良好的兼容性，但意外状况总难免发生。\n\n![模组运行演示](https://user-images.githubusercontent.com/57493648/147222964-0fca6dbd-644f-4ade-853a-ef55ab658637.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

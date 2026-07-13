@@ -1,0 +1,6 @@
+{
+  "bodyHash": "612795147cf867b1",
+  "content": "\n\n<p style=\"text-align:center\"><span style=\"font-size:24px\">EveryMole</span></p>\n<p>&nbsp;</p>\n<p>Базовый обязательный мод -&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/alexs-caves\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/alexs-caves</a></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:24px\">Описание</span></p>\n<p>Этот аддон поддерживает датапаки, реализующие механизм жертвоприношения для моба Underzealot из Alex's Caves!</p>\n<p>Если вы хотите добавить дополнительные механики жертвоприношения...</p>\n<p>поместите файлы в папку \"/data/[modid]/every_mole/sacrifice/\"</p>\n<p>&nbsp;</p>\n<p>Этот мод поддерживает объединение NBT-тегов при конвертации мобов.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:24px\">Пример скрипта датапака</span></p>\n<p><span style=\"font-size:14px\"><a href=\"https://github.com/baguchan/EveryMole/blob/master/src/main/resources/example_data/every_mole/every_mole/sacrifice/vex.json\" rel=\"nofollow\">нажмите здесь, чтобы посмотреть! (переход на GitHub)</a></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

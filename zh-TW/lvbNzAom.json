@@ -1,0 +1,6 @@
+{
+  "bodyHash": "494610634d880fc8",
+  "content": "\n\n# PA9 村民交易調整\n\n**掌握你的村民交易體驗。**\n\n每次開啟交易都要在冗長的列表中翻找嗎？PA9 村民交易調整讓你能夠自由重新排列任意村民的交易順序，並在你下次開啟該村民時自動恢復你設定的順序。交易順序會針對個別村民與世界獨立儲存，因此複製的世界或多個伺服器之間絕不會互相干擾。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/rc6D0SYxjto\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n![Mod Name](https://cdn.modrinth.com/data/cached_images/01a46a1f5fae0fe5a83943dcd982fc6c4abb2eee.png)\n\n![Trade Reorder Interface](https://cdn.modrinth.com/data/cached_images/05e539d5b29ebfbbd5ae8da05785080a1d377cab.png)\n\n![View All and Cycle](https://cdn.modrinth.com/data/cached_images/d0bed955cfa5d3d271f34b49cbedef906b2f266b.png)\n\n## 功能特色\n\n- **重新排列交易** — 切換至排序模式，使用上／下按鈕將任意村民的交易列表調整為你喜歡的樣子。你的設定會即時儲存至本地。\n- **查看所有未來交易（單人模式）** — 啟用「查看全部」模式，不僅能看到村民目前的報價，還能預覽他們升級後將解鎖的全部交易——這些內容均依照原版遊戲的邏輯生成，確保你所見即為實際獲得的內容。\n- **循環刷新** — 發現新村民的交易不理想嗎？點擊「循環」按鈕即可重新生成其全套交易組合。此功能對從未交易過的村民同樣有效，你可以反覆嘗試直到找到值得保留的交易為止。\n- **隨時重置** — 只需一鍵，即可恢復村民的原始交易順序並清除你的自訂設定。\n\n---\n\n**所需環境：** Fabric Loader 0.18.4+、Fabric API、Minecraft 26.1.2",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

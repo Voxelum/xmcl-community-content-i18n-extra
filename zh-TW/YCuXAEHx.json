@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2c0f7e124502f86",
+  "content": "\n\n## README\n\nCobblemon Armors Feature 是 [Cobblemon Armors](https://modrinth.com/mod/cobblemon-armors) 模組的附加元件，用於恢復套裝效果。\n\n## !!! 重要 !!!\n\n自 Cobblemon Armors 1.5.2 版本起，已不再需要安裝 Cobblemon Armors Feature 模組。伺服器管理員可透過 `enableArmorSetFeature` 遊戲規則來切換此功能。\n\n### 火箭隊\n- 需要：毒屬性\n- 禁止：超能力屬性\n- 賦予：抗性提升\n\n### 海洋隊\n- 需要：水屬性\n- 禁止：火屬性\n- 賦予：海豚的恩惠\n\n### 熔岩隊\n- 需要：火屬性\n- 禁止：水屬性\n- 賦予：火焰抗性\n\n### 銀河隊\n- 需要：水屬性與鋼屬性\n- 賦予：跳躍提升\n\n### 白色等离子隊\n- 需要：火屬性\n- 禁止：電屬性\n- 賦予：急迫\n\n### 黑色等离子隊\n- 需要：電屬性\n- 禁止：火屬性\n- 賦予：急迫\n\n### 彩虹火箭隊\n- 需要：火屬性、草屬性與水屬性\n- 賦予：夜視",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

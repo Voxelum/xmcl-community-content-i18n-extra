@@ -1,6 +1,6 @@
 {
-  "bodyHash": "IdLmJn8DvKs=",
-  "content": "這是我所有模組的共用函式庫。它讓我不必在所有模組中重複編寫相同代碼，並能在開發或除錯階段更加快速。\n\n- 太陽能發電\n- 維度儲存\n- 擴充儲存\n- 流體系統",
+  "bodyHash": "603b30435f92215d",
+  "content": "\n\n這是供我所有模組使用的共用程式庫。這使我無需在各模組中重複程式碼，進而提升開發與除錯的效率。\n\n- SolarGeneration\n- DimStorage\n- ExtraStorage\n- FluidSystem",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

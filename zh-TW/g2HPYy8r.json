@@ -1,0 +1,6 @@
+{
+  "bodyHash": "664e333d43788906",
+  "content": "\n\n# 顯示耐久度\n\nShow Durability 是一款 Fabric 模組，能在物品欄與快捷欄中，直接於物品上以數字顯示其耐久度。耐久度顯示功能可透過鍵位設定（預設為 <kbd>B</kbd>）進行切換。此模組需安裝 Fabric API（自 1.1.0 版本起），且僅需安裝於客戶端。支援單人遊戲與多人遊戲。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

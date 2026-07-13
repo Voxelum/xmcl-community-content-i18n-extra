@@ -1,6 +1,6 @@
 {
-  "bodyHash": "7/Ftyy7FCL0=",
-  "content": "### 描述\n\n此資料包會在所有玩家的頭頂顯示其生命值。這在 PVP 伺服器或任何需要查看其他玩家生命值的多人伺服器中非常有用。\n\n![範例](https://cdn.modrinth.com/data/cached_images/afc56b332c60b1dfa750b63cdf151982ccf35c04.png)\n\n### 安裝指南\n\n前往 Windows 上的存檔資料夾，路徑如下：\n```\nC:\\Users（你的使用者名稱）\\AppData\\Roaming\\.minecraft\\saves\n```\n將壓縮檔案放入資料包資料夾中，然後重新啟動你的世界或執行 /reload。\n\n### 解除安裝指南\n\n執行指令 `/function hp:uninstall`，然後刪除該資料包。請務必不要在執行解除安裝指令後重新載入（使用 /reload 或重新啟動世界），直到資料包被刪除為止！\n\n### 其他注意事項\n\n- 請注意，顯示的數字是生命點數，而非愛心數。1 顆愛心 = 2 點生命值。\n- 此資料包僅顯示玩家的生命值，不顯示生物的。\n- 如需回饋、錯誤回報或其他協助，請透過此頁面的連結區加入 [Discord 伺服器](https://discord.gg/kk3j3ct6xk)！",
+  "bodyHash": "f6d8457793728140",
+  "content": "\n\n### 說明\n \n此資料包會在每個玩家的頭頂顯示其生命值。這在 PvP 伺服器或任何需要查看其他玩家血量的多人遊戲伺服器上非常實用。\n\n![範例](https://cdn.modrinth.com/data/cached_images/afc56b332c60b1dfa750b63cdf151982ccf35c04.png)\n\n### 安裝指南 \n\n請前往您的存檔資料夾，Windows 系統預設路徑如下：\n```\nC:\\Users(您的名稱)\\AppData\\Roaming\\.minecraft\\saves\n```\n將壓縮檔放入資料包資料夾中，接著重新開啟世界或執行 `/reload` 指令即可。\n\n### 解除安裝指南\n\n請執行指令 `/function hp:uninstall`，隨後刪除該資料包。請務必在刪除資料包之前，不要執行重新載入（使用 `/reload` 或重新開啟世界）！\n\n### 其他注意事項\n\n- 請留意，顯示的數值為「生命值」而非「心數」，1 心等於 2 點生命值。\n- 此資料包僅顯示「玩家」的生命值，不顯示「生物」的生命值。\n- 如需提供意見回饋、回報問題或尋求其他協助，歡迎透過本頁面的連結區塊加入 [Discord 伺服器](https://discord.gg/kk3j3ct6xk)！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

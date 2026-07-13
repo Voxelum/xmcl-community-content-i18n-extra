@@ -1,0 +1,6 @@
+{
+  "bodyHash": "820f84e6ae29fc02",
+  "content": "\n\n# 已封存！我沒有時間或動力為較新的 Create 版本維護此模組。反正你應該改用 Connector 下的 Origins！\n\n為 Origins (Forge) 移植的 [Create Origins](https://modrinth.com/mod/create-origins)\n\n同時支援 [Create: Estrogen](https://modrinth.com/mod/estrogen)！\n\n允許使用 `origins:water_breathing` 的 Merlings 及其他起源，透過背氣瓶與潛水頭盔在陸地上呼吸。\n\n同時新增 2 種新能力類型與能力：`createorigins:goggles` 與 `createorigins:girl_power`。\n「護目鏡」會賦予你機械視覺（Mechanical Sight），即使未裝備護目鏡也能看到該畫面覆蓋效果。\n「女孩力量」會賦予你來自 Create: Estrogen 的女孩力量效果，但改為永久生效。\n\n同時修復了處於 Estrogen 效果下時，`origins:fall_immunity` 無法正常作用的錯誤。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

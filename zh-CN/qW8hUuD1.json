@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8dea1f8d541a3dfe",
+  "content": "\n\n嘿，这是 Better Snowy Biomes，一个旨在改进原版雪原生物群系的项目。\n\n为了获得最佳体验，请务必将图形设置中的“**Biome Blend**（生物群系混合）”调至**最高**！\n\n### 兼容性\n\nTectonic：创建世界时，请在数据包加载顺序中将该 Fabric 模组置于 Tectonic 之上。数据包版本不支持 Tectonic。\n\nQuilt：你需要 [QSL](https://modrinth.com/mod/qsl)，否则无法正常运行。\n\n不建议将其与 TerraLith 或 Geophilic 等其他世界生成模组一起使用。\n\n### 特性\n\n_树下的积雪；雪花覆盖树叶_\n![](https://cdn.modrinth.com/data/cached_images/7f19962d1f4f7044fd3dabe86132c4a9b81aca07.jpeg)\n\n_轻松支持 Tectonic_\n![](https://cdn.modrinth.com/data/cached_images/44e7feffdd481b58b845b0c9eb5d42ffb114af32.jpeg)\n\n_平滑积雪：灵感源自 TerraLith；基于独立代码开发_\n![](https://cdn.modrinth.com/data/cached_images/db7f3881aa18c824b0a6a9863f1aac1a6b200beb.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

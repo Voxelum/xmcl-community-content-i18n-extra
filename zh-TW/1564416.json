@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c23bd067d75042a",
+  "content": "\n\n<p><strong>本模組旨在修復《Jujutsucraft》（Sorceryfight）中的世界生成問題，該問題會導致地圖被截斷，僅能生成至 Y: 0。雖然過去曾有其他創作者推出類似的修復方案，但已過時且在遊戲最新版本中無法運作，這促使我開發了這個更新版本。</strong></p>\n<p><strong>使用本模組後，將解除世界生成的限制，使地圖能完整載入至 Y: -64，並讓基岩在最深處正常生成。在確保世界完整載入的同時，它也會保留所有原始模組的功能。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

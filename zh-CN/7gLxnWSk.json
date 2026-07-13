@@ -1,0 +1,6 @@
+{
+  "bodyHash": "26cf41e030c7994f",
+  "content": "\n\n![在 Modrith 上可用](https://wsrv.nl/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2F%40intergrav%2Fdevins-badges%402%2Fassets%2Fcompact%2Favailable%2Fmodrinth_vector.svg&n=-1)\n\n# Revenants Hats\n一款轻量级、高度可配置且安全可靠的插件，允许玩家将手持物品装备为帽子。\n\n![基础帽子](https://cdn.modrinth.com/data/cached_images/fa3caa240a053aeb36b1b4ecc675b55cbb611ec0.png)\n\n### 功能特性\n- 极其简单的配置方式\n- 反复制保护 _(与其他帽子插件不同)_\n- 直观的权限系统 \n\n### 权限设置\n该插件使用一个主要权限 `hat.use`，允许玩家将物品装备为帽子（默认对所有玩家开启）。\n\n### 配置文件\n所有设置均存储在 `./plugins/RevenantsHats/` 目录中。`config.yml` 文件会在服务器首次启动时自动生成。\n\n`Config.yml`：存储所有配置选项。以下是默认配置：\n```yaml\nmessages:\n  no-item-held:     \"§c你必须手持物品才能使用 /hat 命令\"\n  hat-equipped:     \"§a帽子已装备！\"\n  cannot-remove:    \"§c此帽子无法卸下。\"\n  cannot-drop:      \"§c此帽子无法丢弃。\"\n  cannot-pickup:    \"§c帽子物品无法拾取！\"\n  not-allowed-item: \"§c你无法将此物品装备为帽子。\"\n\nhat-restriction:\n  mode: BLACKLIST\n  materials:\n    - bedrock\n    - command_block\n```\n`messages` 键支持传统颜色代码，可自定义所有动作栏通知文本，并支持完全自定义。\n\n`hat-restriction` 的 `mode` 支持 `BLACKLIST`（黑名单模式，禁止列出的材质）和 `WHITELIST`（白名单模式，仅允许列出的材质），分别用于控制材质或方块是否可以作为帽子。\n\n`materials` 子键允许添加材质名称列表到你的 `hat-restriction` 配置中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

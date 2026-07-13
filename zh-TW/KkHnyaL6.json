@@ -1,6 +1,6 @@
 {
-  "bodyHash": "QK4Z8+tcOUM=",
-  "content": "Aquarius Libs 是 aquariusplayz 部分模組的必備模組化函式庫。\n\n單獨安裝它並不會改變遊戲內容，但它實現了多項功能與變數，讓模組更新變得更加容易。\n\n同時能讓模組創作時使用更少的程式碼。\n\n此外，它還能促進使用此函式庫的模組之間更順暢的溝通，\n\n並讓錯誤修復工作變得更加輕鬆。",
+  "bodyHash": "1271c841425e7a3c",
+  "content": "\n\nAquarius Libs 是 aquariusplayz 旗下部分模組必備的開發函式庫。\n\n它本身不會改變遊戲內容，但內建了各項函式與變數，能讓模組更新作業更為簡便，\n\n同時也能讓開發者在建立模組時大幅減少程式碼的編寫。\n\n此外，它也能促進使用此函式庫的各模組間之通訊，\n\n並使後續的除錯工作更為輕鬆。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

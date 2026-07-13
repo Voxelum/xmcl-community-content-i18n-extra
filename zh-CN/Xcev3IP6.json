@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d73218a9b45996d7",
+  "content": "\n\n# Epic Fight: 更多技能槽位\n\n一款为 [Epic Fight](https://modrinth.com/mod/epic-fight) 添加额外技能槽位的简易模组：\n\n* 2 个额外被动槽位（共 5 个）\n* 1 个额外身份槽位（共 2 个）\n\n<img src=\"https://github.com/EchoEllet/EpicFightMoreSkillSlots/blob/main/readme_images/extra_passive_slots.png?raw=true\" alt=\"额外被动技能\" width=\"1200\">\n\n本模组对于包含以下模组的整合包尤为实用：  \n[Weapons of Miracles](https://modrinth.com/mod/weapons-of-miracles)、[Dodge Parry Reward](https://www.curseforge.com/minecraft/mc-mods/epic-fight-dodge-parry-reward)、\n以及 [Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall)。\n\n这些模组增加了大量被动技能。此外，若你在使用增加生存难度的模组，在没有\n这些额外槽位的情况下，你将被限制只能装备 3 个被动技能，从而限制你的流派构建选择。\n\n## 现有存档\n\n你可以安装本模组并加载现有世界，而不会丢失当前已拥有的技能。  \n但是，如果你移除该模组后再加载现有世界，额外的技能槽位将会消失。\n\n## 兼容性\n\n已测试与 [Epic Fight: Skill Tree](https://modrinth.com/mod/epic-fight-skill-tree) 兼容，且运行符合预期。\n\n## 局限性\n\n目前，本模组不提供调整额外技能槽位数量的配置选项。  \n不过，添加此功能应该很简单。\n\n## 错误报告\n\n这不是 Epic Fight 的官方插件，因此任何问题都应向\n[this mod issue tracker](https://github.com/EchoEllet/EpicFightMoreSkillSlots/issues)\n报告，而非联系 Epic Fight 开发团队。\n\n## 免责声明\n\n> **本模组并非 Minecraft 官方产品。  \n> **未经 Mojang 或微软批准，亦不与它们关联。**\n\n> **本模组与 [Epic Fight Team](https://github.com/Epic-Fight) 无关。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

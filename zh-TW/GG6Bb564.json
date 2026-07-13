@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a71e216b42342d59",
+  "content": "\n\n# **平滑鏡頭**\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/DDDIOx-Jm8g\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nSmoothCamera 為 Minecraft 增添了電影般的流暢鏡頭移動效果。它能緩和突發的動作、使視角過渡更加順滑，並提升整體的視覺體驗。僅限客戶端運作。\n\n\n\n## **⚙️ 設定**\n\n### **⌨️ 遊戲內指令設定：**\n\n\n\n> ### **🔧 主要指令**\n> \n> ```\n> /smoothcamera\n> ```\n> \n> **🔁 切換**\n> \n> 啟用或停用此模組：\n> \n> \n> ```\n> /smoothcamera toggle\n> ```\n> \n> **🎯 平滑度（鏡頭）** \n>\n> 控制鏡頭移動的平滑程度：\n> \n> \n> ```\n> /smoothcamera smoothness <value>\n> ```\n> \n> 範圍：0.001 – 0.5\n> 預設值：0.5\n> 數值越低 = 反應越快，數值越高 = 越平滑\n> \n> **🎥 F5 平滑度（第三人稱）**\n> \n> 控制第三人稱視角的平滑過渡：\n> \n> \n> ```\n> /smoothcamera f5 <value>\n> ```\n> \n> 範圍：0.001 – 0.1\n> 預設值：0.025\n> 數值越低 = 反應越快，數值越高 = 越平滑\n> ✨ 功能特色\n> 電影般的流暢鏡頭移動\n> 終界珍珠與瞬移平滑處理\n> 第三人稱（F5）視角平滑過渡\n> 可透過指令調整\n> 輕量級且僅限客戶端（支援任何伺服器）\n\n\n### **📄 設定檔設定：**\n\n\n> 設定檔位於 ***/config/smoothcamera.json**\n> \n> 預設檔案結構： \n> \n> ```\n> {\n>   \"enabled\": true,\n>   \"smoothness\": 0.1,\n>   \"smoothnessf5\": 0.006\n> }\n> ```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

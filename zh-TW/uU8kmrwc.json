@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ce96f3a7b3e50f1d",
+  "content": "\n\n![Banner](https://cdn.modrinth.com/data/uU8kmrwc/images/d63bbbec47aff02897ea2291201bf1d0ac330088.gif)\n\n<hr width=\"25%\" />\n\n在挖掘或建造時，撿拾你破壞的物品有時會令人感到困擾，因為它們可能會掉落在你剛好無法觸及的地方。\n\n這個資料包旨在解決這個問題，它允許你在副手使用銅錠來吸引物品靠近。半徑 6 格範圍內的所有物品（大致相當於你的挖掘範圍）都會被傳送到你身邊，讓你能輕鬆撿拾。此外，經驗球以及地上的可撿取箭矢也會被你吸引過來。\n\n<hr width=\"25%\" />\n\n作為磁鐵使用的物品由 ```simple_magnet:acts_as_magnet``` 物品標籤決定，若有需要，你可以透過其他資料包來自訂該標籤。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

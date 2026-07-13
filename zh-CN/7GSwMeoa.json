@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7ae038442339cbd9",
+  "content": "\n\n这是一个数据包！你需要将其放入世界的 datapacks 文件夹中，或者使用 OpenLoader 或 Paxi 等自动加载器。\n\n\n这个简单的数据包移除了部分结构模组中的稻草人。这些功能制作较为粗糙，每隔 2 个区块就会生成，导致它们极其常见，而且相当烦人。\n\n\n如何安装？\n\n下载 zip 文件，并将其放入你世界的 datapacks 文件夹中。\n\n或者，安装 OpenLoader 或 Paxi，然后将该数据包放入它们的 data 文件夹内。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

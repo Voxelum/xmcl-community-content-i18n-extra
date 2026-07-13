@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f17eb6e720c439b2",
+  "content": "\n\n## ⏰ | Ringo Clock 合成配方：\n![⏰ | Ringo Clock Recipe](https://cdn.modrinth.com/data/cached_images/b146c852b98f76dc1561b96dda6a6dace2daead3.png)\n## 生物實體資料儲存：\n- 物品欄\n- 盔甲\n- 副手\n- 終界箱\n- 合成欄\n- 選中槽位\n- 經驗值資料：\n - _等級_\n - _經驗值點數_\n- 位置\n- 朝向資料\n - _X軸旋轉_\n - _Y軸旋轉_\n- 燃燒刻數\n- 標籤\n- 飽食度\n- 替身力量資料：\n - _力量_\n - _能量_\n - _是否已召喚_\n- 非力量資料：\n - _力量_\n - _能量_\n- 怪物實體的目標\n## 物品實體資料儲存：\n- 位置\n- 標籤\n- 物品堆疊\n- NBT\n## 投射物實體資料儲存：\n- 位置\n- 標籤\n- 擁有者\n- 朝向資料 (X軸旋轉, Y軸旋轉)\n- 位移量\n## 世界資料儲存：\n- 時間\n## 玩家資料儲存（僅限客戶端功能）：\n- 攜帶物品\n## 方塊資料儲存：\n- 物品欄\n- NBT\n- 屬性\n\n## 設定檔：\n- 取得設定檔：`/config showfile rotp_mandom COMMON`\n- 您可調整：時間回溯的作用區塊數、時間回溯冷卻時間，以及啟用或停用各項功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

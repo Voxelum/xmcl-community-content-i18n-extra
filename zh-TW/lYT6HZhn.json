@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2d087ec7a59a9eba",
+  "content": "\n\n此資料包允許在使用 Tetra 的模組化工具時，搭配 Better Combat 的攻擊動畫邏輯。它是透過為 Tetra 基礎版中的每個原版模組套用合成效果來實現的。\n\n\n**此資料包本身並不支援任何 Tetra 的附加模組，但通常也不會直接不相容。**\n\n~~**由於 Minecraft NBT 的問題（進而影響 Better Combat），此資料包／模組在多人遊戲中無法正常運作。**~~\n\n後來發現有人推出了修復方案，可於此處查看：\n[https://modrinth.com/mod/better-combat-nbt-fix](https://modrinth.com/mod/better-combat-nbt-fix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

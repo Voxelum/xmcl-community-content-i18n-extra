@@ -1,6 +1,6 @@
 {
-  "bodyHash": "vDQygiyivEI=",
-  "content": "## **Отключает атмосферный и дальний туман для улучшения видимости**\n| Клиент             | Поддерживается |\n|--------------------|-----------|\n| Vanilla Minecraft  |✅Просто примените пакет ресурсов |\n| Sodium             |💡Используйте мод [Sodium Extra](https://modrinth.com/mod/sodium-extra) для управления туманом |\n\n| Измерение   | Убирает туман |\n|------------|-------------|\n| Верхний мир  | ✅           |\n| Нижний мир   | ✅           |\n| Конечный мир  | ✅           |\n\n![верхний мир](https://cdn.modrinth.com/data/cached_images/fec8f92bdd0e4bd26a31ccb0fdfa8a8bb00af0d9.png)\n![нижний мир](https://cdn.modrinth.com/data/cached_images/d72355d0a75d2abefeb7a387f69a9aab2b1172b8.png)",
+  "bodyHash": "d6042bcecca89ac4",
+  "content": "\n\n## **Отключает атмосферный и дальний туман для лучшей видимости**\n| Клиент             | Поддерживается |\n|--------------------|----------------|\n| Vanilla Minecraft  |✅Просто примените пакет ресурсов |\n| Sodium             |💡Используйте мод [Sodium Extra](https://modrinth.com/mod/sodium-extra) для управления туманом |\n\n| Измерение   | Удаление тумана |\n|------------|----------------|\n| Верхний мир  | ✅              |\n| Незер       | ✅              |\n| Край        | ✅              |\n\n![overworld](https://cdn.modrinth.com/data/cached_images/fec8f92bdd0e4bd26a31ccb0fdfa8a8bb00af0d9.png)\n![nether](https://cdn.modrinth.com/data/cached_images/d72355d0a75d2abefeb7a387f69a9aab2b1172b8.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

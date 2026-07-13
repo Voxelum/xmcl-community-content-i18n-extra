@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a0adb18280b7564",
+  "content": "\n\n<p style=\"text-align:center\"><strong>WariumComputers</strong></p>\n<p>此模組允許您使用 ComputerCraft 來控制 Warium 武器的瞄準角度。安裝此模組後，所有可放置的武器將獲得以下功能：</p>\n<p><code>setPitch(value) --設定砲塔的俯仰角（垂直瞄準角度）。數值以度為單位。</code></p>\n<p><code>setYaw(value) --設定砲塔的偏航角（水平瞄準角度）。數值同樣以度為單位。</code></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

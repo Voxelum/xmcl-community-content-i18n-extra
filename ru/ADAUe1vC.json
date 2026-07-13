@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bb58f7e239cf60dd",
+  "content": "\n\n# Immersive Energistics\n\nОфициальное дополнение для поддержки Immersive Engineering в AE2. На данный момент добавляет провода, поддерживающие ME-сеть.\n\n### ME-коннектор\nME-коннекторы позволяют подключать провода к устройствам и кабелям AE2. Принимают только одно подключение ME-провода (плотного или обычного).\n\n### ME-ретранслятор\nME-ретрансляторы принимают несколько подключений ME-проводов, но не подключаются к устройствам и кабелям AE2.\n\n### Бобина ME-провода\nСтандартные ME-провода. Могут передавать до 8 каналов (в режиме каналов по умолчанию AE2).\n\n### Бобина плотного ME-провода\nПлотные ME-провода. Могут передавать до 32 каналов (в режиме каналов по умолчанию AE2).\n\n### Скриншоты\n![setup1](https://raw.githubusercontent.com/AppliedEnergistics/Immersive-Energistics/main/images/setup1.png)\n![setup1 network](https://raw.githubusercontent.com/AppliedEnergistics/Immersive-Energistics/main/images/setup1_network.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

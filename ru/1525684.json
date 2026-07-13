@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Qast5fdUA8o=",
-  "content": "<p><span style=\"font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;text-align:left;text-indent:0px;text-transform:none;background-color:oklab(0.678888 0.00325716 -0.011175 \\2f 0.0784314);display:inline !important;float:none\">Провода CCA теперь могут соединяться между подуровнями physicsobject и обычным миром. Провода между разными подуровнями также работают. Отображение проводов было скорректировано для таких случаев. Провода автоматически защёлкиваются, если движение слишком сильно их растягивает</span></p>",
+  "bodyHash": "75cc88fbb2467e6f",
+  "content": "\n\n<p><span style=\"font-family:'gg sans', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:400;text-align:left;text-indent:0px;text-transform:none;background-color:oklab(0.678888 0.00325716 -0.011175 \\2f 0.0784314);display:inline !important;float:none\">Провода CCA теперь могут соединять подуровни физических объектов с обычным миром. Провода между различными подуровнями также работают. Отрисовка проводов была скорректирована для таких случаев. Провода будут автоматически привязываться, если перемещение растянёт их слишком сильно.</span></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

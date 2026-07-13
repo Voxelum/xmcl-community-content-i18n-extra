@@ -1,0 +1,6 @@
+{
+  "bodyHash": "064104ee136d9ba0",
+  "content": "\n\n<p><img src=\"https://cdn.modrinth.com/data/s0tNTkDN/images/b2767e8a5badb0c470e3b30683e88814e05ca81e.gif\" alt=\"玩家使用下界合金鎬挖掘基岩方塊。\"></p>\n<p>允許玩家使用採掘等級 4 或以上的鎬挖掘基岩（於 1.20.4 及以下版本可設定）。挖掘後基岩不會掉落任何物品（同樣可設定），僅會直接破壞。基岩的破壞時間（預設 71）與爆炸抗性（預設 3600000）也皆可輕易設定。</p>\n<h2>設定檔</h2>\n<p># destroy_time: 基岩的破壞時間。（黑曜石為 50，石頭為 1.5，-1 為無法破壞）<br>\n# explosion_resist: 基岩的爆炸抗性。（石頭為 6，玻璃為 0.3）<br>\n# mining_level: 挖掘基岩所需的採掘等級。（下界合金為 4）（僅限 1.20.4 及以下版本）<br>\n# drop_bedrock: 基岩破壞時是否應掉落為方塊。<br></p>\n<p>destroy_time=100<br>\nexplosion_resist=3600000<br>\nmining_level=4 #僅限 1.20.4 及以下版本<br>\ndrop_bedrock=false</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

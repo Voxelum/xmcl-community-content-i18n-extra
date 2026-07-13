@@ -1,0 +1,6 @@
+{
+  "bodyHash": "817ec655bede1de6",
+  "content": "\n\n# Better Ping\n\n**這款深受喜愛的「Better Ping Display」模組之延續作品，已針對現代 Minecraft 進行更新與維護。**\n\n這是一款客戶端 Fabric 模組，將 Minecraft 中不直觀的 Ping 條替換為實際數值，讓你能一眼掌握確切的連線品質。\n\n## 功能特色\n\n- **查看真實 Ping 值** - 精確的毫秒數值，取代模糊的信號條\n- **智慧色彩標示** - 根據延遲自動切換顏色（綠色 = 順暢，紅色 = 延遲）\n- **完全自訂** - 調整顏色、文字格式與顯示偏好，打造符合你風格的介面\n- **全伺服器通用** - 僅限客戶端使用，因此可搭配任何伺服器（包含原版伺服器）\n- **輕量無負擔** - 簡單、專注且輕巧\n\n## 為什麼選擇本模組？\n\n原始版本的 Better Ping Display 已停止更新，導致玩家無法在新版本中使用。Better Ping 延續了該模組的精神，確保其持續運作並相容於最新的 Minecraft 版本，同時忠於其核心宗旨：讓你清晰掌握自己的連線狀況。\n\n## 輕鬆設定\n\n透過 `betterpingdisplay.json` 自訂所有選項：\n- 開關自動色彩標示\n- 顯示或隱藏原始延遲條\n- 設定自訂文字顏色\n- 定義專屬格式（例如 `%dms`、`%d ping`）\n\n## 支援版本\n\n1.21.9+1.21.10\n\n**原始模組：** [Better Ping Display - Fabric](https://modrinth.com/mod/better-ping-display-fabric)\n\n---\n\n*需搭配 [Fabric Loader](https://fabricmc.net/) 與 Fabric API*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

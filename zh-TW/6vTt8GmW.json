@@ -1,0 +1,6 @@
+{
+  "bodyHash": "38c17df3fe726cf3",
+  "content": "\n\n![Scorpions & Crabs 標誌](https://cdn.modrinth.com/data/cached_images/d0b2517b774ac4384c43fd2f189559c4cf5df69c.png)\n\n# \n\n此整合包讓 AL's Scorpions & Crabs 能夠與 Fresh_LX 開發的 Fresh Animations 相容！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/jSTOYt4Rt8s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n \n\n由於 AL's Scorpions & Crabs 使用自訂模型，單獨使用時無法與 Fresh Animations 相容。\n\n此附加模組包透過提供採用對應動畫的新模型來解決此問題！\n\n \n\n重要提醒：\n\n要讓此整合包正常運作，請將它的載入順序排在 Fresh Animations (FA) 之前。\n\n此整合包也內建與官方 [Fresh Animations Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions) 的相容性，特別是 FA+Spider Edit！\n\n \n\n請依照以下順序載入：\n\n-FA+Extensions（選配）\n-此整合包\n-Fresh Animations",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

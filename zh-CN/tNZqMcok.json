@@ -1,0 +1,6 @@
+{
+  "bodyHash": "912194a11e50b231",
+  "content": "\n\n<a href=\"https://github.com/chromaticforge/rawinput\" target=\"_blank\">\n  <img alt=\"github\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg\">\n</a>\n\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/rawinput\" target=\"_blank\">\n  <img alt=\"curseforge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg\">\n</a>\n\n<a href=\"https://modrinth.com/mod/oneconfig\" target=\"_blank\">\n    <img alt=\"oneconfig\" height=\"56\" src=\"https://polyfrost.org/media/branding/badges/badge_1.svg\">\n</a>\n\n<a href=\"https://discord.gg/gGuQ55PCRn\" target=\"_blank\">\n    <img alt=\"discord\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg\">\n</a>\n\n\n--- \n\n## Raw Input\n直接处理鼠标输入以提高精度。\n\n### 特性\n- 异步轮询。 \n- 自动重新扫描。\n- 在不支持的系统上安全禁用。\n\n### 使用方法\n输入 `/rawinput` 打开 OneConfig 界面。\n\n输入 `/rawinput rescan` 重新扫描新鼠标。\n\n---\n\n### Legacy Fabric 去哪了？\n它已独立成为一个新项目！你可以在[这里](https://modrinth.com/mod/rawmouseinput)找到它。该项目支持 MC 1.7.x - 1.12.x 的 Legacy Fabric 和 Ornithe。\n\n---\n\n###### 代码采用 [GPL 3.0](LICENSE) 许可证授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

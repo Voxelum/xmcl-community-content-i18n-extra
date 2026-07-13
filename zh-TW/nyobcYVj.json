@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab890eea50bfca60",
+  "content": "\n\n透過僅重新載入遊戲的相對應區塊，而非執行完整的重新載入，讓更改 Mipmaplevels 與語言的速度更快速甚至即時生效。\n\n適用版本：snapshot-20w10a 及以上，請使用 1.16_to_1.19\n\n適用版本：snapshot-19w14a 至 snapshot-20w09a，請使用 1.14_to_1.15.2\n\n優化後的 Mipmaplevels 重新載入功能與 Sodium 選單不相容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

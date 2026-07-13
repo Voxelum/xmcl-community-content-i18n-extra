@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FzIkOnVaNOQ=",
-  "content": "<p>這個模組基於<a href=\"https://www.curseforge.com/minecraft/mc-mods/wingsmod\" target=\"_blank\" rel=\"nofollow\">WingsModCosmetic</a>，並對原始版本進行了一些修改。移除了色彩調整功能和介面。<br>模組會在玩家背部添加預設的終界龍翅膀紋理，開發者還在原始碼中保留了擴展功能，這意味著您只需要按照原始模板繪製翅膀紋理，在類型中填入紋理路徑和ID，就能生成對應的翅膀。</p>",
+  "bodyHash": "98751034279909ca",
+  "content": "\n\n<p>此模組基於 <a href=\"https://www.curseforge.com/minecraft/mc-mods/wingsmod\" target=\"_blank\" rel=\"nofollow\">WingsModCosmetic</a>，並對原版進行了一些修改。已移除色彩調整與介面功能。<br>此模組會在玩家背部添加預設的終界龍翅膀貼圖，且開發者已在原始碼中預留了擴充功能，這意味著您只需依照原始範本繪製翅膀貼圖，並在類型中填入貼圖路徑與 ID，即可生成對應的翅膀。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

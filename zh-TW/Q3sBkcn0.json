@@ -1,6 +1,6 @@
 {
-  "bodyHash": "P+4F/wp3Wv8=",
-  "content": "這是 Cobblemon 的一個輔助模組，讓你能夠調整化石運作流程的方式！\n\n有了這個模組，你可以：\n\n* 改變使用復活機器生成化石所需的遊戲刻數。\n* 改變使用復活機器生成的寶可夢的色違機率。\n\n若要更改模組的設定，請先安裝模組並執行遊戲一次，然後前往你的設定檔目錄，根據需求進行修改、儲存，再重新啟動遊戲！\n\n[快來 Discord 上找我們吧！](https://discord.gg/WKAR27SdSv)",
+  "bodyHash": "afaea8c6427e7e38",
+  "content": "\n\nCobblemon 的副模組，讓你能夠自訂化石復原流程的運作方式！\n\n使用此模組，你可以：\n\n* 更改使用復生機生成化石所需的刻數。\n* 更改使用復生機生成寶可夢的閃光率。\n\n若要修改模組設定，請在已安裝模組的情況下先運行一次遊戲，接著前往 config 資料夾，依需求進行修改、儲存後重新運行遊戲即可！\n\n[歡迎來我們的 Discord 交流！](https://discord.gg/WKAR27SdSv)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

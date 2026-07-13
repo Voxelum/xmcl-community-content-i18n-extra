@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4d71b564c68f3f26",
+  "content": "\n\n# SmoothMaps\n一款 Minecraft 模组，为物品框内的地图、画作和铁轨提供平滑光照及性能优化。\n\n遵循您的平滑光照设置，且不会造成明显的性能损耗。\n\n### 特性\n- 为物品框内的地图提供快速平滑光照\n- 为画作提供快速平滑光照\n- 为铁轨启用平滑方块光照\n- 通过剔除内部面提升画作渲染性能\n- 优化服务端地图渲染性能（最高提速 60%）\n- 降低地图渲染的 GPU 带宽开销（采用局部纹理更新）\n\n![Minecraft 地图中的 Toby 图片，展示了平滑光照效果。](https://cdn.modrinth.com/data/x69OnBPN/images/d81ba612a40cfa6f9fca2dd85a59d0fc57e5ba34.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

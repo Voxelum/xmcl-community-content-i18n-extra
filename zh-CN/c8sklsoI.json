@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4bf5fd0eff9b756a",
+  "content": "\n\n# 下界合金瞬间挖掘\n\n当你手持效率 V 的镐或斧并处于迅捷 II 效果下时，将瞬间挖掘的适用范围扩展至深板岩、下界砖、末地石及多种木材等更坚硬的方块。\n\n## 工作原理\n\n本方案利用了快照 [24w18a](https://www.minecraft.net/es-es/article/minecraft-snapshot-24w18a) 中引入的 `minecraft:mining_efficiency` 属性，该属性在使用对应工具时会提供挖掘速度加成。该属性仅在你手持效率 V 的镐或斧且拥有迅捷 II 效果时生效。一旦条件不满足，该属性会自动恢复为默认值。因此不会产生任何副作用。你仅能实现对通常无法瞬间挖掘的方块的快速开采。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

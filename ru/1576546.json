@@ -1,0 +1,6 @@
+{
+  "bodyHash": "06abde74f374e980",
+  "content": "\n\n<p>⚠️ ВНИМАНИЕ: Известно, что этот мод конфликтует с 'WATUT'. Не используйте эти два мода в одном модпаке.</p>\n<p>Этот мод запрещает игрокам использовать определённые команды для «читерства» или обхода игровых ограничений. Он идеально подходит для серверов выживания или приключенческих карт.</p>\n<h3>🚫 Отключённые команды:</h3>\n<p><strong>Инвентарь и сущности:</strong></p>\n<ul>\n<li>/give</li>\n<li>/clear</li>\n<li>/item</li>\n<li>/enchant</li>\n<li>/experience (и /xp)</li>\n<li>/effect</li>\n<li>/summon</li>\n<li>/kill</li>\n</ul>\n<p><strong>Редактирование и манипуляция миром:</strong></p>\n<ul>\n<li>/setblock</li>\n<li>/fill</li>\n</ul>\n<p><strong>Управление игроками и администрирование:</strong></p>\n<ul>\n<li>/gamemode</li>\n<li>/teleport (и /tp)</li>\n</ul>\n<p>Хотите арендовать сервер через Bisect Hosting? Вот ссылка на скидку 25% при первой покупке: <a href=\"https://url-shortener.curseforge.com/rcTPC\" target=\"_blank\" rel=\"nofollow\">https://url-shortener.curseforge.com/rcTPC</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5172f22fb4ae3573",
+  "content": "\n\n# Современное меню варпов\n\nЭтот проект является неофициальной современной портированной версией для Minecraft мода [Fancy Warp Menu](https://modrinth.com/mod/fancy-warp-menu)!\n\nПоддерживаемые версии: 1.21.11, 26.1.2\n\n---\n\n## Необходимые моды\n\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- [YetAnotherConfigLib](https://modrinth.com/mod/yacl)\n\n## Отличия от оригинала\n\n- Формат пользовательской раскладки\n  - Это означает, что ресурсные паки от Fancy Warp Menu несовместимы\n  - Предпросмотр различий доступен [здесь](https://github.com/Yukkuritaku/ModernWarpMenu/blob/modern-main/docs/fwm_to_mwm_migration_guide.md)\n    - (Шаблон ресурсного пака пока не разработан)\n\n## Скриншоты\n\n![Экран меню варпов](https://cdn.modrinth.com/data/3GNyRk4I/images/c1965b2dae3f23a94a15ae8d07f29d6c7522ffc5_350.webp)\n\n![Настройки](https://cdn.modrinth.com/data/3GNyRk4I/images/19b68106251df72eadd7d562b06cd9fc56158c87_350.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

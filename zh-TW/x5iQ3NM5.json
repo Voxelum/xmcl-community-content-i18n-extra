@@ -1,6 +1,6 @@
 {
-  "bodyHash": "3NKyGUkjS3g=",
-  "content": "## Tom's Trading Network\n一個簡易模組，讓你更輕鬆地與其他玩家交易  \n本模組仍在開發中，目前功能包含：  \n- 自動販賣機  \n![自動販賣機](https://cdn.modrinth.com/data/x5iQ3NM5/images/5c7d5e6da7351600866a6bf72585d107a80666a6.gif)  \n可設定一個單一交易的簡單交易機器。物品可以在設定的面進行輸入或提取。  \n自動販賣機在已認領的區塊中仍可運作，無需互動權限。  \n在設定介面中右鍵點擊物品堆疊以查看更多選項。",
+  "bodyHash": "287590fe46566fda",
+  "content": "\n\n## Tom 的交易網絡\n一款簡易模組，讓玩家間的交易更加輕鬆  \n本模組持續開發中，目前功能：  \n- 自動販賣機  \n![自動販賣機](https://cdn.modrinth.com/data/x5iQ3NM5/images/5c7d5e6da7351600866a6bf72585d107a80666a6.gif)  \n可設定一台僅含單一交易的簡易販賣機。物品可透過設定的側面放入或取出。  \n該販賣機於已聲明的區塊內運作，無需互動權限即可使用。  \n在設定介面中右鍵點擊物品堆疊，即可查看更多選項。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

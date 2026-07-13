@@ -1,0 +1,6 @@
+{
+  "bodyHash": "17be2a00d0407904",
+  "content": "\n\n本模组添加了与 Create Aeronautics 兼容的动态锥形聚光灯，支持使用 Veil 或 LambDynamicLights 进行渲染。\n\n该模组目前仍处于非常活跃的开发阶段，可能存在不稳定情况。建议备份你的存档以防万一 :)\n\n你可以在模组的设置界面中选择偏好的光源渲染器：\n- Lamb 选项：支持光影，兼容性极佳。但计算依赖 CPU，因此大范围灯光时性能较差。必须安装 LambDynamicLights 4.8.8 才能正常使用。\n- Veil 选项：不支持光影，且兼容性可能令人头疼。但它底层使用光影渲染，因此无论设置多大的范围都能保持完美流畅。\n\n目前暂不支持 Create 的机械结构（如基础旋转轴承等）。请使用 Aero 附带的万向节轴承（Swivel Bearings）。\n\nVeil 选项的已知问题：\n- Iris 光影加载器\n- 其他光影（Shaders）\n- TACZ（枪械模组）\n- Create Deep Seas\n- Vista\n- Grassier Grass\n- Supplementaries 3.7.7（3.6.8 版本不知为何能正常工作）\n- 非 NVIDIA 显卡，包括 AMD、Intel 核显、MacBook 等……（可能正常也可能不正常）\n- Sodium 0.6 版本（建议使用 0.8.12 版本）\n- 出现黑色块状伪影。若遇到此问题，请尝试调高渲染距离或调低灯光范围。\n- 在大整合包中有时无法正常工作，如有更多不兼容信息欢迎反馈。\n\nLamb 选项的已知问题：\n- 视觉效果较差\n\n你可以右键点击这两种方块来修改其设置。它们还会根据红石信号调整亮度，0 表示关闭，15 为最高亮度。\n如果你选择 Lamb 选项，探照灯方块中将出现“替代模式”选项。该模式会将锥形光替换为一个球体光源，位于光束应接触地面的位置。视觉效果略有不同，但这是在 Lamb 模式下实现超过 50 格灯光范围的唯一选择。\n\n如需联系作者，请前往 Create Aeronautics Discord 服务器的 Showcase 板块发帖。目前这是唯一的联系方式。\n\n![你应该把它命名为聚光灯之类的](https://cdn.modrinth.com/data/cached_images/7e310d972ffa570dc421c0973adfbb56142880eb.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

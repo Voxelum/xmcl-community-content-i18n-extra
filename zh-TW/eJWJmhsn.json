@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8916d3bee61f7b03",
+  "content": "\n\n# Chest Stealer\n\n一款輕量的 Minecraft 客戶端模組，讓您在開啟容器介面時，能自動且快速地拾取其中的物品。\n\n![Chest Stealer 示範](https://cdn.modrinth.com/data/eJWJmhsn/images/9e18d1b1006611181ac816f2f7e1335e9be8fd22.gif)\n\n此模組會模擬在每個遊戲刻（每秒 20 次）按住 Shift 鍵並左鍵點擊箱子內的物品。\n\n**警告：**使用此模組可能會觸發反作弊系統偵測。使用前請務必詳閱伺服器規則。\n\n## 功能特色\n- 可自訂拾取速度（`itemsPerTick`），並提供白名單與黑名單過濾功能以鎖定特定物品。相關設定可於 `config/cheststealer.properties` 中調整（v1.1.0 新增）。\n- 智慧跳過空欄位（即便箱子內容雜亂也能極速運作）\n- 一鍵切換開關（預設按鍵為 **R**）\n- 按鍵綁定可在「控制鍵」→「Chest Stealer」中自訂\n- 於動作列即時顯示狀態（已啟用／已停用）\n\n## 按鍵設定\n- **R** — 切換自動拾取功能開關（預設值；可於設定中更改）\n- 僅在功能已啟用且正在開啟容器介面時生效",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

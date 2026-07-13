@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d0766c399ba10ac",
+  "content": "\n\n# OffersHUD\n\nOffersHUD 是一款客戶端模組，能夠在不進行右鍵點擊的情況下，以 HUD 形式顯示村民的交易列表。\n\n同時支援 **Fabric** 與 **NeoForge**。\n\n![show offers](https://raw.githubusercontent.com/naari3/offers-hud/main/docs/2022-01-10_08.00.13.png)\n\n## 安裝\n\n### 下載\n\nOffersHUD 的最新版本已發布至以下平台：\n\n- [Modrinth](https://modrinth.com/mod/offershud)\n- [GitHub Release](https://github.com/naari3/offers-hud/releases)\n- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/offershud)\n\n### 必要模組\n\n#### Fabric\n\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- [Cloth Config API](https://modrinth.com/mod/cloth-config)\n- [Mod Menu](https://modrinth.com/mod/modmenu)\n\n#### NeoForge\n\n- [Cloth Config API](https://modrinth.com/mod/cloth-config)\n\n## 功能\n\n### 主要功能\n\n當您將游標聚焦於擁有職業的村民（或流浪商人）時，交易列表將顯示於螢幕左上角。\n\n這非常實用，例如可以仔細篩選並查看村民的交易條件細節。\n每次重新放置工作方塊時，都無需再對村民進行右鍵點擊。\n\n### 設定\n\n可從模組選單（Mods）進入設定畫面。\n\n#### 啟用\n\n- 切換啟用/停用狀態\n- 預設值：**true**\n\n#### 忽略無職業村民\n\n- 當游標聚焦於無職業村民時不會觸發任何反應。\n- 若設為停用（false），則會嘗試與無職業村民進行互動。\n  - 主要用於 Spigot 伺服器上的特殊村民等情境。\n- 預設值：**true**\n\n#### 抑制村民點頭動作\n\n- 互動時村民將不再做出點頭動作，即使針對無職業村民亦然。\n  - 主要配合 `Ignore villagers who do not have a profession: false` 使用\n- 預設值：**false**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

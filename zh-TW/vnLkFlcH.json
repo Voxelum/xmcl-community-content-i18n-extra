@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1e25d483abdb1d8",
+  "content": "\n\n## 功能特色\n- 解除玩家 NBT 資料操作限制\n\n## 指令\n\n適合數據包/指令作者使用的實用指令\n\n`/absorption (實體) get|add|set`：控制實體的吸收值（護盾），或取得其數值。\n\n`/fire (實體) get|add|set`：控制實體的燃燒刻，或取得其數值。\n\n`/freeze (實體) get|add|set`：控制實體的冰封刻（粉末雪效果），或取得其數值。\n\n`/gravity (實體) on|off`：切換實體的重力效果。\n\n`/invulnerable (實體) on|off`：切換實體的無敵狀態。\n\n`/motion (實體) add|set|forward`：賦予實體運動速度。`forward` 選項會根據實體的旋轉角度計算方向。\n\n`/player_abilities fly|flyspeed|walkspeed|instantBreak|allowBuild`：修改玩家的遊戲能力設定。\n    `instantBreak`：切換類似創造模式的「瞬間破壞」功能。（可能無法正常使用）\n    `allowBuild`：切換放置方塊功能。此設定會允許冒險模式放置方塊，並禁止創造模式放置方塊。\n\n`/heal (實體)`：治療指定實體。\n\n`/food (實體) hunger|saturation add|get|set`：控制玩家的飢餓值或飽食度。\n\n`/fallfly`：讓玩家進行下落飛行（鞘翅飛行）。建議搭配每刻（per tick）使用以實現真正的下落飛行。\n\n`/cooldown (玩家) (物品) (冷卻時間)`：設定物品的冷卻時間以防止右鍵使用。（例如：盾牌、終界珍珠、歌蕾果實）\n\n`/motionupdate (玩家)`：更新玩家的運動數值。對於 `/data merge` 指令相當實用。\n\n`/explosion (位置) (威力) (引爆者) (火焰) (爆炸類型)`：製造爆炸！為簡化使用，可省略 `exploder`、`fire` 與 `explosionType` 參數。\n\n`/cameraset (目標)`：觀察目標，且不受任何限制。支援在任何遊戲模式下進行觀察。\n\n`/hotbar (目標) (欄位編號)`：將目標快捷列中指定的欄位設為已選取狀態。\n\n`/rotate (目標) add|set (數值)`：在不傳送目標的前提下，設定或累加目標的旋轉角度。\n\n`/damagetilt (目標) (數值)`：使目標的鏡頭產生受擊時的傾斜效果。\n\n`/ptime (目標) (時間)`：將目標所在世界的時間設定為指定數值。\n\n`/timeflow (目標) rate|freeze (數值|布林值)`：將目標所在世界的刻率（tick rate）設定為指定參數。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

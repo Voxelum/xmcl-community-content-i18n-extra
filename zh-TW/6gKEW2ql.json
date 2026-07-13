@@ -1,6 +1,6 @@
 {
-  "bodyHash": "hFrT935uDjo=",
-  "content": "這是 Clefal 模組的函式庫模組。\n\n若您想使用 Clefal 的模組，此模組是必需的。\n\n它提供了獨立版本的 Neoforge Eventbus 和 Vavr，並包含多個實用類別，可協助開發者在跨平台環境中進行開發。\n\n若僅安裝此模組，將不會產生任何效果。",
+  "bodyHash": "29e0801193c00945",
+  "content": "\n\n這是 Clefal 系列模組的依賴庫模組。\n\n若您要使用 Clefal 的模組，則必須安裝此模組。\n\n它提供了 Neoforge EventBus 與 Vavr 的獨立版本，並包含多個實用工具類別，可協助開發者在跨平台環境中進行開發。\n\n若您僅單獨安裝此模組，將不會產生任何作用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

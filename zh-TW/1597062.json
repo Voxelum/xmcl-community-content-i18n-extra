@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ae196e8c56a853d6",
+  "content": "\n\n<p>XaeroHeadTracker 讓你能夠直接在 <span style=\"text-decoration:underline\">Xaero 的世界地圖</span> 上查看所有伺服器中其他玩家的位置，<strong>不受距離限制</strong>。</p>\n<p>你可以設定是否<strong>顯示頭像與名稱</strong>。</p>\n<p>你也可以<strong>選擇是否與其他玩家分享你的位置</strong>。</p>\n<p>若玩家關閉了位置分享功能，其最後已知位置的顯示時間會標示<strong>距離上次更新已過多久</strong>。持續分享位置的玩家會被標記為 &ldquo;<span style=\"color:#2dc26b\">即時</span>&rdquo;。</p>\n<p>此模組與 <span style=\"text-decoration:underline\">Xaero 的小地圖</span> 相容，因此不會重複顯示玩家位置。</p>\n<p>即使伺服器已安裝此模組，客戶端仍可選擇性安裝；若不願使用則無需安裝，但若想查看其他玩家位置則必須安裝。</p>\n<p>&nbsp;</p>\n<p style=\"text-align:center\"><span style=\"color:#eccafa\"><strong>若你需要目前尚無提供的特定版本，請留言告知。</strong></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

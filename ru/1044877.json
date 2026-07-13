@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/4WIDVZvzJs=",
-  "content": "<p>Этот мод позволяет выделять предметы в инвентаре, фильтруя их с помощью строки поиска JEI. <br>Дважды щёлкните строку поиска JEI, чтобы переключить режим выделения. <br>Поддерживаемые префиксы JEI: `@modid #tooltip $oredict %creativetab &amp;resourceid`</p>",
+  "bodyHash": "10d55e657780561e",
+  "content": "\n\n<p>Этот мод позволяет подсвечивать предметы в инвентаре, отфильтрованные через строку поиска JEI. <br>Дважды щёлкните по строке поиска JEI, чтобы переключить режим подсветки. <br>Поддерживаемые префиксы JEI: `@modid #tooltip $oredict %creativetab &amp;resourceid`</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

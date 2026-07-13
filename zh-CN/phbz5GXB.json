@@ -1,6 +1,6 @@
 {
-  "bodyHash": "HjpmdiiZq5c=",
-  "content": "# 你好呀\n这个小资源包为玻璃板添加了自定义纹理，基本是在原版玻璃基础上加上边框。玻璃方块纹理保持不变，因此在技术性建筑中使用大量白色染色玻璃时依然能保持原有效果。玻璃板会渲染侧边纹理以突出边框。透明玻璃板的纹理能相互连接（如同所有玻璃方块），因为本包包含了Continuity内置的连接纹理资源包，同时也能兼容OptiFine。\n\n通过这个视频（6:43至7:43）快速了解概览：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/QVHNhv8FHGo\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n想更全面了解可查看图库。\n\n### 我制作了该包的可选版本：\n- [框边玻璃](https://modrinth.com/resourcepack/framed-glass)：所有染色玻璃方块和玻璃板都使用新的边框纹理（普通玻璃和遮光玻璃除外）\n- [框边玻璃方块](https://modrinth.com/resourcepack/framed-glass-blocks)：仅修改染色玻璃方块的纹理。使用Continuity时玻璃板纹理可连接\n\n### 鸣谢\n如有任何反馈，欢迎加入我的Discord告诉我。\n也请务必在我的Modrinth主页上查看我的其他资源包 :D",
+  "bodyHash": "18ef4ed65d6606cc",
+  "content": "\n\n# 你好呀\n这个小资源包添加了自定义的玻璃板纹理，基本上是在原版玻璃的基础上增加了边框。玻璃块的纹理保持不变，因此在技术建筑中使用大量白色染色玻璃时，仍能保持预期的视觉效果。玻璃板会渲染其侧面，以使边框更加突出。透明玻璃板会像所有玻璃块一样实现纹理连接，因为本资源包内置了 Continuity 的连接纹理支持，并且也兼容 OptiFine。 \n\n你可以观看此视频（6:43 至 7:43）快速了解：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/QVHNhv8FHGo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n欢迎查看画廊以获取更全面的概览。\n\n### 我创建了该资源包的可选版本：\n- [带框玻璃](https://modrinth.com/resourcepack/framed-glass)：所有彩色玻璃块和玻璃板均使用新边框纹理（普通玻璃和着色玻璃除外）\n- [带框玻璃块](https://modrinth.com/resourcepack/framed-glass-blocks)：仅更改彩色玻璃块。使用 Continuity 时玻璃板将支持连接纹理\n\n### 鸣谢\n如果您有任何反馈，欢迎加入我的 Discord 告诉我。\n别忘了在我的 Modrinth 主页上看看我的其他资源包哦 :D",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

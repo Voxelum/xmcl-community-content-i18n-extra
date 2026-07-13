@@ -1,6 +1,6 @@
 {
-  "bodyHash": "MkDbqZJCLA0=",
-  "content": "# HUD для брони\n\nHUD для брони добавляет элемент HUD для брони в [HUD Lib](https://modrinth.com/mod/hud-lib); он имеет опции для изменения цвета, фона и того, хотите ли вы, чтобы цвет зависел от степени износа (>80% — тёмно-зелёный, >50% — зелёный, >20% — жёлтый, в противном случае — красный). Чтобы открыть настройки, нажмите `RIGHT SHIFT`.\n\n## Скриншот\n\nВот HUD для брони с настройками по умолчанию; положение и цвета можно изменить.\n![HUD для брони с настройками по умолчанию](https://cdn.modrinth.com/data/wAk5JZkv/images/98fff26d0d67ccc2be44006dd909e79b82bfa8d1.png)",
+  "bodyHash": "666b5c8c8c3a3649",
+  "content": "\n\n# Armor HUD\n\nArmor HUD добавляет элемент HUD брони в [HUD Lib](https://modrinth.com/mod/hud-lib). В нём есть настройки для изменения цвета, цвета фона, а также возможность привязки цвета к прочности (>80% — тёмно-зелёный, >50% — зелёный, >20% — жёлтый, иначе красный). Чтобы открыть меню настроек, нажмите `RIGHT SHIFT`. \n\n## Скриншот\n\nНа изображении показан HUD брони со стандартными настройками; положение и цвета можно изменить.\n![Armor HUD with default configuration](https://cdn.modrinth.com/data/wAk5JZkv/images/98fff26d0d67ccc2be44006dd909e79b82bfa8d1.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

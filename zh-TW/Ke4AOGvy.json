@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4cf9e6a2635bfc03",
+  "content": "\n\n![downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fconnorcode.com%2Fapi%2Fdownloads%3Fmodrinth%3DKe4AOGvy%26curseforge%3D1198041&query=%24%5B%27total-human%27%5D&label=downloads&style=for-the-badge&color=0dc362)\n\n希望你的 Minecraft 盔甲能更真實一點嗎？現在可以了！這個簡單的便利性模組讓你在裝備全部四件盔甲時，能將受到的傷害轉移到盔甲上，從而完全抵銷傷害。\n\n## 模組功能\n本模組讓玩家在裝備完整的一套盔甲（四件皆可，支持混搭）時能夠抵擋大部分傷害，機制類似 1.20.5「護甲獸爪」更新中的狼盔甲系統。雖然你不再會損失生命值，但受到的傷害會轉嫁至所穿戴四件盔甲的耐久度上。這意味著你需要更頻繁地修復盔甲，但只要盔甲沒有損壞，就能保證不會因攻擊而死亡。此機制同樣適用於怪物，因此要擊殺一整套盔甲的殭屍或骷髏可能需要花費不少時間。\n\n## 免傷說明（所有盔甲）\n- 摔落傷害（無法抵銷）\n- 站在熔岩中（無法抵銷）\n- 站在火中（無法抵銷）\n- 音波震擊（無法抵銷）\n\n### 羊毛或布料盔甲專屬（僅限模組新增）\n- 所有類型的傷害均無法抵銷\n\n### 皮革盔甲專屬\n- 爆炸傷害（無法抵銷）\n- 箭矢傷害（無法抵銷）\n- 三叉戟傷害（無法抵銷）\n\n### 下界合金盔甲專屬\n- 所有火焰類型傷害將被抵銷\n\n**注意：鞘翅不計為盔甲部件，但頭顱與頭骨會計入。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

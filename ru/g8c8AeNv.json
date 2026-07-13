@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e10529a22b30d142",
+  "content": "\n\n# Mekanism Borderless Multiblock\n\nДополнительный мод для Mekanism.\n\nЭтот мод **увеличивает максимально допустимый размер** мультиблочных конструкций Mekanism.\n\nЕсли вы посмотрите на галерею, всё станет понятно\n\n\n\n\n## Конфигурация\n\n### Сервер\n\n**Конфигурация по умолчанию для мультиблоков**\n\n```\ndefaultBoundOverride - Применять ко всем мультиблокам (true/false)\n\ndefaultStructureX/Y/ZBound - Максимальный размер мультиблока\n```\n\n**Специфичная конфигурация для мультиблоков**\n\nПрактически идентична настройкам по умолчанию:\n```\n*ReactorBoundOverride - Наследовать настройки по умолчанию (true/false)\n\n*StructureX/Y/ZBound - Максимальный размер мультиблока\n\n```\n### Клиент\n\n```\nreduceOverhead - Уменьшает нагрузку клиентских тиков мультиблоков для повышения производительности (нестабильно)\n\nfusionCoreSizeMultiplier - Шутка\n```\n\nПримечание: В настоящее время этот мод не поддерживает Mekanism Extras и Just Enough Mekanism Multiblocks.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "iDysOXCrz8M=",
-  "content": "# Function│功能\n此資料包讓部分生物在被屬於```#is_fire```標籤的傷害擊殺時，掉落的物品會被烤過。\n\n由於營火與岩漿塊對生物造成的傷害屬於```#is_fire```標籤內的傷害，因此被營火與岩漿塊所造成的傷害擊殺時會掉落熟肉。\n# Support│支援\n該資料包也支援[山羊掉落物](https://modrinth.com/datapack/goat-drops)和[劫掠獸掉落物](https://modrinth.com/datapack/ravager-drops)，山羊和劫掠獸在被屬於```#is_fire```標籤的傷害擊殺時，也會掉落烤過的物品；另外，該資料包也有兼容[骨頭掉落](https://modrinth.com/datapack/bone-drop)。\n\n### 依序輸入以下兩條指令以確保該資料包的功能能正確生效\n\n```/datapack disable \"file/doesn't_this_count_as_being_burned_to_death_1.0.1+1.21.5\"```\n\n```/datapack enable \"file/doesn't_this_count_as_being_burned_to_death_1.0.1+1.21.5\" last```",
+  "bodyHash": "7b765b4a971d7c24",
+  "content": "\n\n# Function│功能\n此資料包讓部分生物在被帶有```#is_fire```標籤的傷害擊殺時，掉落物品會被烤熟。│此資料包讓部分生物在被屬於```#is_fire```標籤的傷害擊殺時，掉落的物品會被烤過。\n\n由於營火與岩漿塊對生物造成的傷害屬於```#is_fire```標籤範圍，因此被營火或岩漿塊擊殺的生物會掉落熟肉。│由於營火與岩漿塊對生物造成的傷害屬於```#is_fire```標籤內的傷害，因此被營火與岩漿塊所造成的傷害擊殺時會掉落熟肉。\n# Support│支援\n此資料包亦支援[Goat Drops](https://modrinth.com/datapack/goat-drops)與[Ravager Drops](https://modrinth.com/datapack/ravager-drops)，當山羊與劫掠獸遭帶有```#is_fire```標籤的傷害擊殺時，亦會掉落烤熟物品；此外，本資料包亦與[Bone Drop](https://modrinth.com/datapack/bone-drop)相容。│該資料包也支援[山羊掉落物](https://modrinth.com/datapack/goat-drops)和[劫掠獸掉落物](https://modrinth.com/datapack/ravager-drops)，山羊和劫掠獸在被屬於```#is_fire```標籤的傷害擊殺時，也會掉落烤過的物品；另外，該資料包也有兼容[骨頭掉落](https://modrinth.com/datapack/bone-drop)。\n\n### 依序輸入以下兩條指令以確保該資料包的功能能正確生效│依序輸入以下兩條指令以確保該資料包的功能能正確生效\n\n```/datapack disable \"file/doesn't_this_count_as_being_burned_to_death_1.0.1+1.21.5\"```\n\n```/datapack enable \"file/doesn't_this_count_as_being_burned_to_death_1.0.1+1.21.5\" last```",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

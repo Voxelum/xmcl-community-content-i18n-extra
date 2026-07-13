@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aee8d252ad4352aa",
+  "content": "\n\n# 僅新增一個用於顯示天空的方塊\n\n## 功能\n- 天空方塊 - 呈現您所在維度的天空景象\n- 虛空方塊 - 呈現終界傳送門的效果\n- 可透過紅石控制\n- 提供 Forge、Fabric、Quilt 版本\n\n## 截圖\n![地下屋搭配天空](https://cdn.modrinth.com/data/GdhF8pws/images/51e909546b2e71e19a3868e74a0a91cdc839d7a8.png \"Underground house with sky\")\n\n![地下屋搭配天空，部分天空方塊已用紅石火把關閉](https://cdn.modrinth.com/data/GdhF8pws/images/fa82b52eb003996c370149531f1fe420ea59ce5c.png \"Underground house with sky, some blocks of sky have been disabled with a redstone torch\")\n\n## 相容性\n應能與 Sodium / Rubidium 完全相容。目前使用 Iris / Oculus 載入的着色包會異常；我預計會盡快改善相容性。不支援 Optifine，且未來亦不會提供支援。\n\n## 致謝\n此為將原始位於 https://github.com/nanite/Literal-Sky-Block 的 Literal Sky Block 移植至 1.19.2(+) 的版本。並參考了來自 Fabric 移植版的部分程式碼（位於 https://github.com/Gaming32/literal-sky-block-fabric/）。上述兩個專案皆採用 LGPL-3.0 授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

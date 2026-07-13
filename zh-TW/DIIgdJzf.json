@@ -1,6 +1,6 @@
 {
-  "bodyHash": "8+pUT0d1Z28=",
-  "content": "一個函式庫模組，彙整了我過去三年模組開發中學到的經驗，用於抽象化 Fabric 與 Forge 之間的程式碼。\n\n內建 Configurate，可在 Fabric 與 Forge 上使用，提供統一的設定系統。（取自 Croptopia）\n\n內建網路通訊抽象化方法，隱藏 Fabric 與 Forge 封包之間的差異。（取自 Shoppy）\n\n內建使用 GSON 的伺服端翻譯功能，因此對於 Fabric/Forge 的伺服端模組，語言檔案無需分發給客戶端，但仍可根據客戶端傳送至伺服器的語言設定來運用在地化功能。（此功能）\n\n基於 GSON 的儲存抽象層，用於儲存你想按世界儲存的資料。（取自 Professions）",
+  "bodyHash": "79c5765fd8d8a65f",
+  "content": "\n\n這是一款函式庫模組，匯集了我過去三年在模組開發中所累積的經驗，旨在協助抽象化 Fabric 與 Forge 之間的程式碼。\n\n內含 configurate，適用於 Fabric 與 Forge，用以提供統一的設定檔系統。(源自 Croptopia)\n\n提供抽象化網路通訊的方法，以隱藏 Fabric 與 Forge 封包的差異。(源自 Shoppy)\n\n內建採用 GSON 的伺服器端翻譯機制，讓 Fabric/Forge 伺服器端模組無需將語言檔分發至客戶端，仍能依據客戶端傳送至伺服器的語言進行本地化處理。(基於此需求)\n\n提供基於 GSON 的儲存抽象層，用於保存需依世界個別儲存的資料。(源自 Professions)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

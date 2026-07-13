@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ZHoxfPJ7iQI=",
-  "content": "<p>這個模組新增了一個外觀像泥土和發射器的方塊。</p><p>&nbsp;</p><ul>\n<li>它可以自動種植樹苗，這是原版遊戲中無法做到的功能。</li>\n<li>樹木可以在同一個位置持續生長。你不必擔心要在哪裡種樹苗，因為草方塊無法擴散到這個方塊上，所以你可以輕鬆找到它。</li>\n</ul><hr><p>該方塊具有圖形介面，內含 9 個樹苗格子。</p><p><img src=\"https://media.forgecdn.net/attachments/224/985/gui_open.png\" alt=\"\" width=\"585\" height=\"336\"></p><p>當鄰近方塊更新且圖形介面關閉時，它會種植樹苗。（若泥土上方有不可取代的方塊，則不會放置方塊。）</p><p>當你破壞泥土上方的原木時，它會很快地種植樹苗。</p><p><img src=\"https://media.forgecdn.net/attachments/224/986/gui_closed.png\" alt=\"\" width=\"583\" height=\"335\"></p><p>&nbsp;</p><p>你可以使用鋤頭對這個方塊按下右鍵來切換模式（觸發式或非觸發式）。在觸發式方塊上，你可以種植種子（小麥種子、胡蘿蔔、馬鈴薯等）。</p><p>然後，透過這個自動種植器、裝有水桶的發射器和計時電路，就能實現全自動農田。</p><p><img src=\"https://media.forgecdn.net/attachments/371/483/2021-06-13_10.png\" alt=\"\" width=\"580\" height=\"326\"></p><p>&nbsp;</p>",
+  "bodyHash": "c2624a327d4fd508",
+  "content": "\n\n<p>此模組新增了一個外觀類似泥土與發射器的方塊。</p>\n<p>&nbsp;</p>\n<ul>\n<li>它允許您自動化種植樹苗，這是原版遊戲無法做到的。</li>\n<li>樹木總能在相同位置生長。您無需擔心樹苗要種在哪裡，因為草方塊不會擴散至此方塊，讓您能輕易找到它。</li>\n</ul>\n<hr>\n<p>該方塊擁有圖形介面，並提供 9 個插槽供放置樹苗。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/224/985/gui_open.png\" alt=\"\" width=\"585\" height=\"336\"></p>\n<p>當相鄰方塊更新且圖形介面關閉時，它便會種植樹苗。（若泥土上方存在不可替換的方塊，則不會放置。）</p>\n<p>當您破壞泥土上方的原木後，它很快就會種植樹苗。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/224/986/gui_closed.png\" alt=\"\" width=\"583\" height=\"335\"></p>\n<p>&nbsp;</p>\n<p>您可以使用鋤頭點擊此方塊來切換模式（觸發式或非觸發式）。在觸發式模式下，您還可以播種種子（小麥種子、胡蘿蔔、馬鈴薯等）。</p>\n<p>搭配此自動種植機、裝有水桶的發射器以及計時線路，即可組建完全自動化的農場。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/371/483/2021-06-13_10.png\" alt=\"\" width=\"580\" height=\"326\"></p>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

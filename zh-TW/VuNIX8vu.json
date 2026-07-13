@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fac76e90910a235f",
+  "content": "\n\n適用於 Faithful 64x 材質包的附加模組。讓玻璃方塊與玻璃板呈現美觀的連接效果。\\\n請將其放置在 [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) 材質包之上，以確保正常運作。\n\n## **預設類型玻璃附加模組範例：**\n![Before and After Comparison.](https://cdn.modrinth.com/data/cached_images/f611a002e0a9f5403013d0b247d1e6ff053287c6_0.webp)\n\n<details>\n<summary>如果您需要這些附加模組，可在此下載其他類型：</summary>\n\nFaithful Fusion Connected (FFC) 純淨玻璃 32x。([前往](https://modrinth.com/resourcepack/faithful-fusion-connected-clean-glass-32x-add-on))\\\nFaithful Fusion Connected (FFC) 預設玻璃 32x。([前往](https://modrinth.com/resourcepack/faithful-fusion-connected-default-glass-32x-add-on))\\\nFaithful Fusion Connected (FFC) 純淨玻璃 64x。([前往](https://modrinth.com/resourcepack/faithful-fusion-connected-clean-glass-64x-add-on))\\\nFaithful Fusion Connected (FFC) 預設玻璃 64x。（本附加模組）\n\n</details>\n\n## **所需套件：**\n\n此材質包附加模組還需安裝由 [SuperMartin642](https://modrinth.com/user/SuperMartijn642) 開發的 [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) 才能運作。\n\n## 注意：\n\n此附加模組不支援 [Continuity](https://modrinth.com/mod/continuity)，因為 Faithful 材質包已內建 OptiFine 附加模組。若您希望搭配 Continuity 使用，歡迎加入我們的 [Discord](https://discord.com/invite/54jf2kuwVb) 尋求協助。\\\n因此，若您已使用 OptiFine，則無需安裝此模組。Faithful 64x 已內建此功能（預設類型）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

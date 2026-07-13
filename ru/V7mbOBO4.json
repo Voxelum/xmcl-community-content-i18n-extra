@@ -1,6 +1,6 @@
 {
-  "bodyHash": "gM6HqSEDdBQ=",
-  "content": "Этот мод добавляет совместимость между AE2 и Create. Этот мод требует [Create](https://modrinth.com/mod/create) и [AE2](https://modrinth.com/mod/ae2).\n\nДобавляет мост AE Stock, который соединяет две системы хранения вместе. Предметы из системы Create Stock отображаются как крафтируемые предметы в AE. Create может запрашивать хранимые предметы из AE через мост с подключённым упаковщиком.\n\nБудущие планы:\n- Перенос на версию 1.21\n- Поддержка Refined Storage\n- Автокрафт AE/RS из Create",
+  "bodyHash": "c3d45dcabf15fe87",
+  "content": "\n\nЭтот мод добавляет совместимость между AE2 и Create. Для работы требуется наличие [Create](https://modrinth.com/mod/create) и [AE2](https://modrinth.com/mod/ae2).\n\nДобавляет мост AE Stock, связывающий две системы хранения. Предметы в системе Create Stock отображаются в AE как доступные для создания. С помощью подключённого упаковщика Create может запрашивать хранимые предметы из AE через этот мост.\n\nПланы на будущее:\n- Порт для версии 1.21\n- Поддержка Refined Storage\n- Автокрафт предметов AE/RS через Create",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

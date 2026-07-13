@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d240f74d2b701b30",
+  "content": "\n\n我将此模组移植到了 NeoForge。原作者曾声明不会提供 Forge 移植版，而我主要需要在 MC 1.21.1 版本上使用此模组，因此我不会在其他 Minecraft 版本上进行移植。\n原版项目 [链接](https://modrinth.com/mod/dense-flowers)\n以下为原版项目的 README 说明。\n\n![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/unsupported/forge_vector.svg)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/project/dense-flowers)\n\n这是一款 Fabric 模组，通过在单个方块内渲染多朵花，使花田外观更加茂密。\n\n周围花朵越密集的区域，越容易被渲染为多朵花。\n本模组无需在服务器端运行，因此你可以随时随地享受茂密的花田效果。\n\n![2024-07-31_12.11.48.png](https://github.com/owen233666/foxified-dense-flowers/blob/neoforge-1.21.1/assets/preview.jpeg?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

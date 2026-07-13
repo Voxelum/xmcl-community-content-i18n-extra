@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3011ceddc0bd237a",
+  "content": "\n\n<p>此為 TaCZ 的附加模組，可啟用半透明方塊功能，讓創意模型設計擁有更廣泛的空間。</p>\n<p>教學影片位於「媒體」區段中。</p>\n<p>以下是影片中提及的範本。<br><br><br></p>\n<div>\n<div>{</div>\n<div>&nbsp; \"render\": {</div>\n<div>&nbsp; &nbsp; \"model_render_mode\": \"SELECTIVE_BONES_DEPTH_PEELING\",</div>\n<div>&nbsp; &nbsp; \"transparent_bone_name_suffixes\": [\"_translucent\"],</div>\n<div>&nbsp; &nbsp; \"transparent_alpha_mode\": \"OVERRIDE\",</div>\n<div>\n<div>\n<div>&nbsp;\"translucent_scope\": true,</div>\n</div>\n</div>\n<div>&nbsp; &nbsp; \"transparent_alpha_override\": 0.30,</div>\n<div>\"bone_alpha\": {</div>\n<div>&nbsp; &nbsp; &nbsp; \"A_translucent\": 0.70,</div>\n<div>&nbsp; &nbsp; &nbsp; \"B_translucent\": 0.10</div>\n<div>&nbsp; &nbsp; &nbsp;</div>\n<div>&nbsp; &nbsp; }</div>\n<div>&nbsp; }</div>\n<div>}</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

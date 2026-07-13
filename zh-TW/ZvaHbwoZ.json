@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0247f3771dce2c63",
+  "content": "\n\n# Better Ping Display - Forge/NeoForge 版\n\n_這是一個 Forge 模組。若要使用此模組的 Fabric 版本，請點擊[這裡](https://modrinth.com/mod/better-ping-display-fabric)。_\n\n一款專為 Minecraft 設計的模組，可在玩家列表中將每位玩家的延遲（Ping）以數值形式顯示。此外還提供設定檔，可供調整文字顏色與顯示格式（僅適用於 Minecraft 1.12 及以上版本）。\n\n![](https://vladmarica.com/assets/minecraft/better-ping-display.png)\n\n本模組僅需安裝於客戶端，伺服器端無須安裝。即使在原版伺服器上遊玩也能正常運作。\n\n### 設定說明\n\n有關各項設定選項的詳細說明，請參閱：https://github.com/vladmarica/better-ping-display#configuration",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

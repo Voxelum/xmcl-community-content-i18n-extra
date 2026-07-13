@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Xajndgpt4vM=",
-  "content": "**Just Enough Breeding (JEBr)** 是一个 [JEI](https://modrinth.com/mod/jei)/[REI](https://modrinth.com/mod/rei)/[EMI](https://modrinth.com/mod/emi) 插件，用于显示各种生物的繁殖相关信息。\n\n##### **功能**\n\n该模组添加了额外的 JEI/REI/EMI 分类页面，提供以下信息：\n\n- 显示生物繁殖所需的物品。\n- 展示生物的刷怪蛋，便于快速查找。\n- 若生物繁殖后会产卵，则显示产卵数量。\n- 若生物需驯服后方可繁殖，其名称后会添加“（已驯服）”标记。\n\n![https://cdn.modrinth.com/data/9Pk89J3g/images/d5b16b34ad66f578808627a090a38dabb81f9f5e.png](https://cdn.modrinth.com/data/9Pk89J3g/images/d5b16b34ad66f578808627a090a38dabb81f9f5e.png)\n\n##### **集成**\n\n想要将你的模组与 Just Enough Breeding 集成（反之亦然）？[Wiki](https://github.com/Christofmeg/JustEnoughBreeding/wiki) 页面提供了所需的一切信息。",
+  "bodyHash": "04ea3dda418dfc2f",
+  "content": "\n\n**Just Enough Breeding (JEBr)** 是一款 [JEI](https://modrinth.com/mod/jei)/[REI](https://modrinth.com/mod/rei)/[EMI](https://modrinth.com/mod/emi) 插件，用于显示各类生物实用的繁殖信息。\n\n##### **功能特性**\n\n本模组新增了额外的 JEI/REI/EMI 分类，提供以下信息：\n\n- 显示生物繁殖所需的物品。\n- 展示对应生物的刷怪蛋，方便快速查找。\n- 若生物繁殖后会产卵，则显示产卵数量。\n- 若生物需先驯服才能繁殖，其名称旁会标注“（已驯服）”。\n\n![https://cdn.modrinth.com/data/9Pk89J3g/images/d5b16b34ad66f578808627a090a38dabb81f9f5e.png](https://cdn.modrinth.com/data/9Pk89J3g/images/d5b16b34ad66f578808627a090a38dabb81f9f5e.png)\n\n##### **集成支持**\n\n想要将你的模组与 Just Enough Breeding 集成（反之亦然）？[维基](https://github.com/Christofmeg/JustEnoughBreeding/wiki) 提供了所需的一切信息。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "BPJEfN5NBJU=",
-  "content": "**AE2与Create的整合**\n\nCreate: Applied Kinetics的社区Discord：\n\nhttps://discord.gg/fGUhb7Mwv2\n\n\\\n**关于：**\n\nCreate: Applied Kinetics实现了与AE2和Create的简单整合。\n\n\\\n**内容：**\n\n - 提供了一种方式（添加了能量提供者）将动能传输到AE的能量接收器。\n\n - 将所有雕刻机配方替换为Create的序列装配配方。\n\n - 可以访问AE2网络的物品和流体的ME代理，这可以帮助你将Create的物品和流体处理与AE2连接起来。例如，将一个示意图炮与AE2连接，通过漏斗从网络输入/输出。\n\n - 未来可能实现P2P动能能量传输。",
+  "bodyHash": "feac725f60bbe634",
+  "content": "\n\n**AE2与机械动力的整合**\n\nCommunity Discord for Create: Applied Kinetics:\n\nhttps://discord.gg/fGUhb7Mwv2\n\n\\\n**简介：**\n\nCreate: Applied Kinetics 实现了与 AE2 和机械动力的基础整合。\n\n\\\n**内容：**\n\n - 提供新途径（新增能量供给器）将动能传输至 AE 的能量接收器\n\n - 将所有压印机配方替换为机械动力的序列装配配方\n\n - 支持访问 AE2 网络中物品和流体的 ME 代理，这有助于将机械动力的物品与流体处理系统接入 AE2。例如，通过漏斗管将图纸大炮接入网络，实现从网络中输入/输出物品\n\n - 未来可能支持 P2P 动能传输",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "826976abe37998d0",
+  "content": "\n\n此資料包提供了一項實用功能，將一般武器的附魔上限從預設的 6 個提升至 8 個。其運作方式是為以下來自 MCDW 的弩添加特定標籤 (`#prominent:limit_8`)：\n- Corrupted Crossbow\n- Lightning Harp Crossbow\n- Pride of the Piglins\n- Veiled Crossbow\n\n當套用此標籤後，這些弩的附魔數量將限制為 8 個。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

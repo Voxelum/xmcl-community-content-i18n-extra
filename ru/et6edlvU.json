@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e438d9b862a70a5a",
+  "content": "\n\n<details>\n<summary>中文 (Chinese Simplified)</summary>\n\n禁用末地水晶爆炸造成的伤害与击退效果。\n\n也可通过配置文件或 /nocrystal 命令禁用 TNT 矿车及方块（重生锚与床）的爆炸伤害。\n\n## 命令用法\n**/nocrystal <crystal/block/tntminecart> <on/off/get>**\n\n示例：_/nocrystal tntminecart on_  \n（on = 开启保护，即无伤害与击退；\noff = 关闭保护，即恢复伤害与击退）\n\n安装模组后，默认仅末地水晶受到保护。\n\n### 您可以在我的[网站](https://mods.gustagamermtw.com/)上提交反馈或报告漏洞，所有消息均为匿名。\n</details>\n\n## 依赖项\n_(依赖项)_\n\n**1.21+ 需要 [Architectury API](https://modrinth.com/mod/architectury-api)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

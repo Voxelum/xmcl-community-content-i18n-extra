@@ -1,0 +1,6 @@
+{
+  "bodyHash": "810d6b099ef97a4f",
+  "content": "\n\n车站装饰（简称MSD）是基于[Minecraft Transit Railway Mod](https://modrinth.com/mod/minecraft-transit-railway)的附加模组，添加了众多装饰物品，如PIDS、铁路标志牌，当然最重要的是接触网装饰！\n\n**请注意，从1.3.5版本开始，支持的最低MTR版本为4.0.0-beta-8！**\n\n**无论如何，更新版本前请务必先备份您的世界存档！**\n<h1>如何确定我应该下载哪个版本的MSD？</h1>\n\n**文件名中包含了适配的MTR版本号，例如``MSD-fabric-1.20.4-4.0.0-beta-8-1.3.5.jar``，其中fabric表示适用的模组加载器，1.20.4表示适配的Minecraft版本，4.0.0-beta-8表示适配的MTR版本，1.3.5为MSD自身的版本号，请确保模组加载器、Minecraft版本、MTR版本均一一对应**\n\n![display](https://github.com/AIDA64S/MTR-Station-Decoration-Addon/blob/4.0.0/image/2024-06-20_15.09.20.png?raw=true)\n<h1>支持</h1>\n<h2>为什么游戏无法启动？</h2>\n<p>可能是使用了不匹配的MTR或MSD版本。本模组依赖MTR，请检查您使用的MSD与MTR版本是否相互对应。</p>\n<h2>版本正确，但游戏仍无法启动或遇到Bug？</h2>\n<p>Discord是我们主要的交流平台，点击 <a href=\"https://discord.gg/kBfwGeQMCS\" rel=\"noopener noreferrer ugc\">Discord服务器</a> 加入我们</p>\n<h2>不知道如何使用该模组？</h2>\n<p>您可以在我们Discord的相应频道进行咨询，同时我们也会逐步上传一些使用教程。<br>\n<a href=\"https://www.youtube.com/watch?v=QwO3qAMFcQg&list=PL1FAjqz9YsD0XfZHvnp6x6nHil4S--fCy\">旧版接触网使用视频</a>\n\n<a href=\"https://www.youtube.com/watch?v=_Dbnunsjn58\">新版接触网使用视频</a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

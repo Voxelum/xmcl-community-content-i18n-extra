@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9d3c5a0824c94f9c",
+  "content": "\n\n**这是 ProjectE 的附加模组**<br>\n它仅添加了一个方块：**EMC 接口**\n\n你可以将其连接到许多虚拟存储模组，例如 Refined Storage 或 AE2。<br>\n连接后，你可以直接从虚拟存储中通过 EMC 存取物品。\n\n**如果你使用的是 Refined Storage：**<br>\n在 EMC 接口上放置一个外部存储总线以进行连接。<br>\n**如果你使用的是 AE2：**<br>\n在 EMC 接口上放置一个 ME 存储总线以进行连接。\n\n请注意，你也可以将其连接到其他模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

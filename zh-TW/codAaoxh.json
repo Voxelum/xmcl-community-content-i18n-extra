@@ -1,6 +1,6 @@
 {
-  "bodyHash": "wF8iKgF4DIc=",
-  "content": "<center>MidnightLib 是一個輕量級的函式庫，為模組提供常見工具與設定系統。</br>\n</br>我們鼓勵模組開發者透過 Jar-in-Jar 將其與模組一起打包。每個功能都可以在函式庫自己的設定介面/檔案中切換。\n<p style=\"text-align: center;\"><img src=\"https://cdn.modrinth.com/data/codAaoxh/images/7e6251fa3c8889105c343964ae85f206b11a21b5.png\" alt=\"範例設定介面\" height=\"532\" />\n<center>立即造訪全新的 <a href=\"https://www.midnightdust.eu/wiki/midnightlib\">Wiki</a> 以開始使用。</center>",
+  "bodyHash": "1d4d0e813b2891fb",
+  "content": "\n\n<center>MidnightLib 是一個輕量級函式庫，為模組提供通用工具與設定系統。</br>\n</br>模組開發者獲准並被鼓勵透過 Jar-in-Jar 方式將其與模組一併打包。<br />所有功能均可在該函式庫專屬的設定畫面或設定檔中切換。\n<p style=\"text-align: center;\"><img src=\"https://cdn.modrinth.com/data/codAaoxh/images/7e6251fa3c8889105c343964ae85f206b11a21b5.png\" alt=\"範例設定畫面\" height=\"532\" />\n<center>立即前往全新的 <a href=\"https://www.midnightdust.eu/wiki/midnightlib\">Wiki</a> 開始使用。</center>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

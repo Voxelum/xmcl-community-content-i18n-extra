@@ -1,0 +1,6 @@
+{
+  "bodyHash": "931c7cc363fe7b45",
+  "content": "\n\n此模組新增原版小型階梯。[Small Stairs](https://www.curseforge.com/minecraft/mc-mods/small-stairs119) 的附加模組\n\n必要模組：[Small Stairs](https://www.curseforge.com/minecraft/mc-mods/small-stairs119)、[MCPitanLib](https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch)、[Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)  \n（使用 Fabric 載入器時，也需安裝 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)）\n\n新增 1/3 大小的階梯。它佔用的空間不多，因此在分支採礦後放置可以讓你更順暢地移動。\n\n同時支援 Fabric 與 Forge。\n\n將新增與最新版本原版新增階梯相同材質的小型階梯。\n\n例如：小型切製銅階梯、小型櫻樹木板階梯與小型平滑砂岩階梯\n\n（部分物品可能因遊戲版本而不會新增。）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

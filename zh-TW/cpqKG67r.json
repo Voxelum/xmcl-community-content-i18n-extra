@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Hz94NrK5AgA=",
-  "content": "# 特色功能\n## 無限結構建築 [(開發測試展示)] (0)\n\n圖案藍圖可以安裝在列車、龍門吊架或其他任何動力裝置上，以無限重複建築藍圖的迭代版本。\n\n![藍圖列印說明](https://cdn.modrinth.com/data/cpqKG67r/images/f746aa1bb02aee9b78175aab67606b7f92b0e07e.png)\n\n## 建築模式 [(開發測試展示)] (2)\n\n這些圖案藍圖可用於重複現有藍圖，例如重複一座橋樑來讓它變得更長！在創造模式下列印，或放入藍圖加農砲來建築！\n\n![列印展示](https://cdn.modrinth.com/data/cpqKG67r/images/b3043b120d7f7d16a3e9f6b6646cc8bd69f29d44.png)\n\n# 關於版本支援的說明\n\n雖然有 Fabric 和 Forge 1.20.1 的版本，但這些屬於舊版，不太可能獲得後續支援。這是因為維護不同版本模組的困難度，以及我個人對其他專案的關注。未來將以 Neoforge 1.21.1 作為主要開發版本。造成不便敬請見諒。",
+  "bodyHash": "87f5ba1598d15420",
+  "content": "\n\n# 功能特色\n## 無限機構組建 [(開發測試演示)](https://www.youtube.com/watch?v=EhZnNdxGKrg&ab_channel=SomeGuyCalledCak)\n\n圖案設計圖可放置於列車、行車架或其他任何機構上，藉此無限次構建該設計的實例。\n\n![設計圖列印說明](https://cdn.modrinth.com/data/cpqKG67r/images/f746aa1bb02aee9b78175aab67606b7f92b0e07e.png)\n\n## 建築圖案 [(開發測試演示)](https://www.youtube.com/watch?v=jGvMWfpR8nQ&ab_channel=SomeGuyCalledCak)\n\n這些圖案設計圖可用來重複現有設計，例如重複一座橋樑以延長其長度！在創造模式中列印，或將其放入設計圖發射器中進行建造！\n\n![列印演示](https://cdn.modrinth.com/data/cpqKG67r/images/b3043b120d7f7d16a3e9f6b6646cc8bd69f29d44.png)\n\n# 版本支援說明\n\n雖然有針對 Fabric 和 Forge 1.20.1 的版本，但這些屬於舊版，未來可能不會繼續提供維護與更新。這是因為同時維護多個模組版本相當耗時，加上我目前將重心放在其他專案上。往後，Neoforge 1.21.1 將成為主要的開發版本。為此造成的不便敬請見諒。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

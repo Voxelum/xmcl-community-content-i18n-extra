@@ -1,6 +1,6 @@
 {
-  "bodyHash": "123NMiXIPUI=",
-  "content": "<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_446f8b0a-691d-4278-8f07-58ae0f3b6430.png\" width=\"238\" height=\"227\"></p><p>&nbsp;</p><p>Исправляет проблему, при которой механизмы Create размещали некоторые блоки с неправильной ориентацией вместе с физическими структурами Sable/Aeronautics, такими как снаряды для пушек.</p><p>修复 Create 机械手在 Sable/Aeronautics 物理结构上放置方块时，部分方块朝向跟着物理结构错误旋转的问题，比如火炮的弹头</p><p>&nbsp;</p>",
+  "bodyHash": "249534703d285fe3",
+  "content": "\n\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_446f8b0a-691d-4278-8f07-58ae0f3b6430.png\" width=\"238\" height=\"227\"></p>\n<p>&nbsp;</p>\n<p>Исправлена проблема, при которой Deployer из Create размещал некоторые блоки с неправильно повёрнутой ориентацией вместе с физическими конструкциями из Sable/Aeronautics, такими как снаряды пушек.</p>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

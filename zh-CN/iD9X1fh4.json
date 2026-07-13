@@ -1,6 +1,6 @@
 {
-  "bodyHash": "8ILiCGwigJQ=",
-  "content": "Uniforms 是 Iris 模组的一个简单扩展，允许你实时编辑某些选项。该模组支持以下 Fabric 版本：`1.20.4`、`1.20.1` 以及 `1.21.1` 至 `1.21.8`（在通过 Sinytra Connector 和 Oculus 的 Forge `1.20.1` 及通过 Sinytra Connector 和 Iris 的 NeoForge `1.21.1` 上也可运行）。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/PCdQVHS-ZzU\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n注意：在编辑参数时，你必须**松开滑块**才能使数值生效。\n\n注意：此模组仅支持 Iris `1.7` 及以上版本！\n\n**重要提示**：部分光影包可能无法正常工作。本模组**与 BBS 模组不兼容**（BBS 模组已有自己的实现，因此你无需重复安装）。\n\n## 实现原理\n\n该模组会转换由 Iris/Oculus 加载的 GLSL 代码，将基于 `#define` 的参数替换为可从光影包外部更新的 GLSL uniform 变量。\n\n由于实现方式的特殊性，部分选项无法在实时状态下编辑（例如那些用于需要常量参数的表达式中的选项，比如数组大小；以及用于其他 `#define`、`#if` 和 `#elif` 等宏定义中的选项）。",
+  "bodyHash": "6de761d14fcc0246",
+  "content": "\n\nUniforms 是 Iris 模组的一款简易附加组件，允许你实时编辑某些选项。它支持 Fabric `1.20.4`、`1.20.1` 以及 `1.21.1` 至 `1.21.8`（在 Forge `1.20.1` 上配合 Sinytra Connector 和 Oculus 可用，在 NeoForge `1.21.1` 上配合 Sinytra Connector 和 Iris 可用）。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/PCdQVHS-ZzU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n注意：编辑参数时，必须**松开滑块**才能使数值生效。\n\n注意：本模组仅支持 Iris `1.7` 及以上版本！\n\n**重要提示**：部分光影包可能无法正常工作。本模组与 BBS 模组**不兼容**（BBS 模组自带相关实现，因此你实际上并不需要它）。\n\n## 工作原理？\n\n本模组会处理由 Iris/Oculus 加载的 GLSL 代码，将基于 `#define` 的参数替换为可从光影包外部进行更新的 GLSL uniform 变量。\n\n受实现机制限制，部分选项无法设置为实时可编辑（例如那些用于需要常量参数的表达式中的选项，如数组大小，以及嵌套在 `#define`、`#if`、`#elif` 等宏内部的选项）。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

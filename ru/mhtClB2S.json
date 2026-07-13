@@ -1,6 +1,6 @@
 {
-  "bodyHash": "chIGlEBfr9s=",
-  "content": "Позволяет создавать рецепты, блоки и предметы из [TFC](https://modrinth.com/mod/terrafirmacraft)\n\nПример:\n\n```js\nonEvent('recipes', event => {\n    event.recipes.tfc.bloomery('minecraft:oak_log', Fluid.of('tfc:metal/bismuth_bronze', 2), 'minecraft:bucket', 20)\n})\n```\n\nПолный список возможностей и инструкции по их использованию смотрите в [wiki](https://notenoughmail.github.io/kubejs_tfc/)",
+  "bodyHash": "1d797132a9067cf4",
+  "content": "\n\nПозволяет создавать рецепты, блоки и предметы из [TFC](https://modrinth.com/mod/terrafirmacraft)\n\nПример:\n\n```js\nonEvent('recipes', event => {\n    event.recipes.tfc.bloomery('minecraft:oak_log', Fluid.of('tfc:metal/bismuth_bronze', 2), 'minecraft:bucket', 20)\n})\n```\n\nСм. [вики](https://notenoughmail.github.io/kubejs_tfc/) для получения полного списка возможностей и инструкций по их использованию.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

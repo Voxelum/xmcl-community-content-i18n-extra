@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00b02f6fab997356",
+  "content": "\n\n![Демонстрация](https://cdn.modrinth.com/data/KKb9KQzX/images/2b212dac05f7e38c692b5aaac9147f7da0f2986f.gif)\n\n**Этот мод является форком мода [Create: Dynamic Lights](https://modrinth.com/project/evMQRxqV) от Леона.**\n\nSable Dynamic Lights добавляет динамическое освещение в реальном времени для движущихся конструкций. Мод поддерживает динамический свет для светящихся блоков, размещённых на поездах и механизмах Create. Он также обеспечивает плавное динамическое освещение для движущихся подуровней Sable. Благодаря движку LambDynamicLights все вычисления и рендеринг выполняются плавно и эффективно. Факелы, светозеркало и фонари будут реалистично освещать окружение при движении поездов или работе поршней.\n\n## Зависимости:\n\n*   [Create](https://modrinth.com/project/LNytGWDc)\n*   [LambDynamicLights](https://modrinth.com/project/yBW8D80W)\n*   [Sable](https://modrinth.com/project/T9PomCSv) (необязательно)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

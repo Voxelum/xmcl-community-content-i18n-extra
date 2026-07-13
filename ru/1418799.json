@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13c36c611d99aae4",
+  "content": "\n\n<p>Этот библиотечный мод создан для всех моих модов Simple Stations</p>\n<p>Включает:</p>\n<ul>\n<li>Базовую отрисовку экранов и инициализацию слотов данных</li>\n<li>Вынесение повторяющегося кода в единое место для упрощения миграции на другие версии</li>\n<li>Введение абстрактного класса и стратегий для гибкого повторного использования</li>\n<li>Ресурсы как базовая логика для расходуемых объектов: предметы, жидкости, энергия и прочее</li>\n</ul>\n<p>Между крупными версиями возможны несовместимые изменения</p>\n<p>Зависимые моды</p>\n<ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/simple-stations-miner\" target=\"_blank\" rel=\"nofollow\">Шахтёр</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/simple-stations-farmer\" target=\"_blank\" rel=\"nofollow\">Фермер</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/simple-stations-mason\" target=\"_blank\" rel=\"nofollow\">Каменщик</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

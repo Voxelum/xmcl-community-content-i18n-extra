@@ -1,6 +1,6 @@
 {
-  "bodyHash": "fYZIXZeM3IQ=",
-  "content": "## Common Networking\n\n此函式庫模組旨在統一不同模組載入器之間的網路通訊與封包註冊，讓使用 [Jared's MultiLoader Template](https://github.com/jaredlll08/MultiLoader-Template) 的開發者只需在共用模組中處理網路相關功能。但它的用途並不限於 MultiLoader，也可應用於其他專案。\n\n這也讓你的模組能不受載入器限制。封包的建構方式，使得客戶端上的 Forge 版本模組，能夠與伺服器上的 Fabric 版本進行通訊。不過你需要自行建立交握封包。",
+  "bodyHash": "1551bf7472b965c5",
+  "content": "\n\n## 共用網路\n\n此函式庫模組旨在統一不同模組載入器間的網路通訊與封包註冊流程，使使用 [Jared 的 MultiLoader 模板](https://github.com/jaredlll08/MultiLoader-Template) 的開發者只需在共用模組中處理網路相關事宜。不過，它的用途並不限於 MultiLoader，同樣可應用於其他專案。\n\n這也能讓你的模組不依賴特定載入器。透過此架構，客戶端的 Forge 版本可與伺服器的 Fabric 版本進行通訊。不過，你仍需自行建立握手封包。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

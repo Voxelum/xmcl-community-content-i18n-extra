@@ -1,6 +1,6 @@
 {
-  "bodyHash": "woYTR+Qabcs=",
-  "content": "<p>AE2 與 Create 的整合</p><p><strong>Create: Applied Kinetics 社群 Discord：</strong></p><p><a href=\"https://discord.gg/fGUhb7Mwv2\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/fGUhb7Mwv2</a></p><p><strong>關於：</strong></p><p>Create: Applied Kinetics 實現了 AE2 與 Create 的簡單整合</p><p><strong>內容：</strong></p><p>- 提供一種方式（新增能量供應器）將動能傳輸至 AE 的能量接收器</p><p>- 將所有刻錄機配方替換為 Create 的序列組裝配方</p><p>- ME 代理器可存取 AE2 網絡的物品與流體，協助您將 Create 的物品與流體處理與 AE2 連接。例如將藍圖炮與 AE2 連接，透過滑槽從網絡輸入/輸出</p><p>- 未來可能實現點對點動能傳輸</p>",
+  "bodyHash": "048a97d950d1db0e",
+  "content": "\n\n<p>AE2 與 Create 的整合</p><p><strong>Create: Applied Kinetics 社群 Discord：</strong></p><p><a href=\"https://discord.gg/fGUhb7Mwv2\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/fGUhb7Mwv2</a></p><p><strong>關於：</strong></p><p>Create: Applied Kinetics 實作了與 AE2 及 Create 的簡易整合</p><p><strong>內容：</strong></p><p>- 提供了一種方式（新增能源供應器）將動力傳遞至 AE 的能源接收器</p><p>- 以 Create 的序列組裝配方取代所有壓印機配方</p><p>- 可存取 AE2 網路中物品與流體的 ME 代理，這能協助您將 Create 的物品與流體處理流程與 AE2 連接。例如將圖紙大炮接入 AE2，並透過導料槽從網路進行輸入/輸出。</p><p>- 未來可能支援 P2P 動力能量傳輸</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

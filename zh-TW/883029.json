@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e31ab4e88236743d",
+  "content": "\n\n<p>「捕魚陷阱」是一款簡單的模組，它僅新增了一個捕魚陷阱，讓你能夠消耗作物來被動收集魚類。雖然我喜歡在《我的世界》中釣魚，但我一直覺得其他掉落物讓它成為一個不可靠的食物來源，尤其是當你需要大量魚類來製作像是《農夫的恩賜》這類模組中的食譜時。歡迎提出建議或改進意見，但這最初只是我自娛自樂的模組構想。</p>\n<p>為了避免產魚過於輕易，捕魚陷阱必須完全浸沒在湖泊、海洋或河流等水域生態域中，否則將無法捕獲任何東西。</p>\n<p>建議搭配已安裝《農夫的恩賜》模組使用。</p>\n<p>&nbsp;</p>\n<p>哪些誘餌能釣到哪些物品？</p>\n<ul>\n<li><strong>麵包</strong>&nbsp;-&gt; 任何魚類 [鱈魚；鮭魚；熱帶魚；河豚]</li>\n<li><strong>甜菜根</strong>&nbsp;-&gt; 僅鱈魚</li>\n<li><strong>甜莓</strong>&nbsp;-&gt; 僅鮭魚</li>\n<li><strong>西瓜片</strong>&nbsp;-&gt; 僅熱帶魚</li>\n<li><strong>金蘿蔔</strong>&nbsp;-&gt; 僅河豚</li>\n<li><strong>誘餌槽無物品</strong>&nbsp;-&gt; 來自&nbsp;<em><code>minecraft:gameplay/fishing/junk</code></em>&nbsp;戰利品表的任何物品</li>\n</ul>\n<p>&nbsp;</p>\n<p>來看看另一款與魚相關的模組 <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/let-fish-love\" rel=\"nofollow\">讓魚相愛</a></p>\n<p>&nbsp;</p>\n<p>感謝 Vectorwing 允許我改繪帆布紋理，並感謝 Supplementaries 團隊允許我編輯木棍紋理，以此作為陷阱的基礎設計。</p>\n<p>若有任何問題需要協助，請參考此 Discord 連結： <a href=\"https://discord.gg/3EjQQWKaTF\" rel=\"nofollow\">https://discord.gg/3EjQQWKaTF</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

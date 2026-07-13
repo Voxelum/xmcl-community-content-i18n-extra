@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8396f42555cafa7",
+  "content": "\n\n「殭屍破壞與建造」模組強化了殭屍（以及可選的其他生物），賦予其破壞與放置方塊的能力。\n\n![使用此模組的殭屍行為範例](https://raw.githubusercontent.com/XTiK555/ZombieBreakAndBuild/develop/showcase/example_zombie_actions.gif)\n\n---\n\n### ✨功能特色\n- 殭屍（及其他生物）能夠：\n  - 破壞與放置方塊。\n  - （可選）穿透牆壁觀察目標。\n  - （可選）始終鎖定最近的玩家。\n- （可選）殭屍放置的方塊會隨時間消失，被破壞的方塊也會隨時間恢復原狀。\n- 透過設定檔提供彈性的生物支援。\n- 可在設定檔中自訂平衡性設定。\n\n_（設定檔位於 `[你的伺服器資料夾]\\config\\zombies-break-&-build.toml`；若為單人遊戲，請查看本機 `[你的 Minecraft 資料夾]\\config\\` 目錄。）_\n\n---\n\n### 🛠️安裝方式\n1. 安裝相容的模組載入器（Fabric / Forge / NeoForge）。\n2. 下載並將模組 `.jar` 檔案放入 `[你的伺服器資料夾]\\mods\\` 目錄。若為單人遊戲，請放入本機 `[你的 Minecraft 資料夾]\\mods\\` 目錄。\n\n---\n此模組將讓你的殭屍／末日主題模組整合包更具挑戰性！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

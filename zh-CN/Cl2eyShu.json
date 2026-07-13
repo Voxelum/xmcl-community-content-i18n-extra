@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2iJpEgA2kvQ=",
-  "content": "# 服务端国际化API\n\n这是一个仅服务端模组，为纯服务端模组提供国际化支持。\n\n语言检测会自动完成，玩家无需进行任何操作。\n\n**此模组无需安装至客户端**\n\n## 给开发者的指南\n\n你需要将语言文件以原版资源包格式放置在 `data/<mod id>/lang/` 目录下。\n\n唯一的API是 `ServerI18n` 类。\n\n示例：\n\n`Text.literal(ServerI18n.translate(player,\"翻译键\",\"参数1\",\"参数2\"))`\n\n`ServerI18n.broadcast(server,\"翻译键\",\"参数1\",\"参数2\")`",
+  "bodyHash": "90e64a0a8fc67d9e",
+  "content": "\n\n# 服务端国际化 API\n\n这是一个仅服务端的模组，旨在为其他仅服务端模组提供国际化（i18n）支持。\n\n语言检测会自动完成，因此玩家无需进行任何操作。\n\n**此模组在客户端无需安装**\n\n## 开发者指南\n\n你需要将语言 JSON 文件放入 `data/<mod id>/lang/` 目录中，格式需遵循原版资源包规范。\n\n唯一的 API 是 `ServerI18n` 类。\n\n示例：\n\n`Text.literal(ServerI18n.translate(player,\"translation key\",\"arg1\",\"arg2\"))`\n\n`ServerI18n.broadcast(server,\"translation key\",\"arg1\",\"arg2\")`",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

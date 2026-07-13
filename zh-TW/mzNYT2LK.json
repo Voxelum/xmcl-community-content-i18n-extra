@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Csi+Eoj02Bw=",
-  "content": "# GreatScrollableTooltips\n允許在物品欄中滾動物品的工具提示（Lore）\n\n# 使用方法\n將模組檔案放入 mods 目錄中，將滑鼠指針對準物品，然後滑動滑鼠滾輪即可滾動物品工具提示\n\n部分版本支援您按住 Shift 並使用滑鼠滾輪來實現水平滾動\n\n# 配置方法\n如果您使用的是 Forge 版本，請進入 Mod 頁面，找到 Great Scrollable Tooltips 並點擊「config」\n\n如果您使用的是 Fabric 版本，請安裝 Mod [模組選單](https://modrinth.com/mod/modmenu)，在模組選單頁面中找到 Great Scrollable Tooltips 並點擊配置圖示\n\n<hr />\n\n<details>\n\n  <summary>简体中文 zh-cn</summary>\n  \n  # GreatScrollableTooltips\n  \n  允许滚动物品栏中的物品工具提示（Lore）\n  \n  # 用法\n  将 Mod 文件放入 mods 目录中，将鼠标指针对准一个物品，滑动鼠标滚轮即可滚动物品工具提示\n  \n  部分版本支持您按住 Shift 并使用鼠标滚轮来实现水平滚动\n  \n  # 配置方法\n  如果您正在使用 Forge 版本，请进入 Mod 页面，找到 Great Scrollable Tooltips 并点击 “config”\n  \n  如果您正在使用 Fabric 版本，请安装 Mod [模组菜单](https://modrinth.com/mod/modmenu)，并在模组菜单页面中找到 Great Scrollable Tooltips 并点击配置图标\n  \n</details>",
+  "bodyHash": "eda5dabb779b2ac1",
+  "content": "\n\n# GreatScrollableTooltips\n允許在物品欄中滾動物品工具提示（Lore）\n\n# 使用方法\n將模組檔案放入 mods 資料夾中，將滑鼠指標指向物品，並滾動滑鼠滾輪即可滾動物品工具提示。\n\n部分版本支援按住 Shift 鍵並使用滑鼠滾輪進行水平滾動。\n\n# 設定方式\n如果您使用的是 Forge 版本，請進入模組頁面，找到 Great Scrollable Tooltips 並點擊「config」。\n\n如果您使用的是 Fabric 版本，請先安裝模組 [Mod Menu](https://modrinth.com/mod/modmenu)，在模組選單頁面中找到 Great Scrollable Tooltips 並點擊設定圖示。\n\n<hr />\n\n<details>\n\n  <summary>繁體中文 zh-tw</summary>\n  \n  # GreatScrollableTooltips\n  \n  允許在物品欄中滾動物品工具提示（Lore）\n  \n  # 使用方法\n  將模組檔案放入 mods 資料夾中，將滑鼠指標指向物品，並滾動滑鼠滾輪即可滾動物品工具提示\n  \n  部分版本支援按住 Shift 鍵並使用滑鼠滾輪進行水平滾動\n  \n  # 設定方式\n  如果您使用的是 Forge 版本，請進入模組頁面，找到 Great Scrollable Tooltips 並點擊「config」\n  \n  如果您使用的是 Fabric 版本，請先安裝模組 [Mod Menu](https://modrinth.com/mod/modmenu)，在模組選單頁面中找到 Great Scrollable Tooltips 並點擊設定圖示\n  \n</details>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

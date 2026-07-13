@@ -1,0 +1,6 @@
+{
+  "bodyHash": "699e83fec7222521",
+  "content": "\n\n你知道可以在旗幟上疊加多種圖案嗎？現在，你也可以同樣自定義你的盔甲了！\n此模組允許你同時為盔甲套用多個裝飾，而不必一次只能套用一個。你可以使用遊戲規則 `maxTrimStack`（適用於 1.21.1）與 `max_trim_stack`（適用於 26.1+）來調整上限。預設值為 32，但最高可調至 100（雖然這樣有點過頭了）。\n\n若要移除裝飾，請在鐵砧中使用打火石。\n\n甚至完美支援模組新增的裝飾與材質！！！\n\n![Fancy](https://media.forgecdn.net/attachments/679/491/2023-06-17_03.png)\n\n趕快去讓你的盔甲看起來更加華麗吧！\n\n### 擴充模組：\n\n*   [堆疊鞘翅裝飾](https://modrinth.com/mod/stackable-elytra-trims)\n\n請務必回報任何問題！！！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

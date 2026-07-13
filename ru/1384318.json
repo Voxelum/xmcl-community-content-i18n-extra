@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ce913918952f960",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/LKzHZmj.png\" alt=\"Чистые подсказки\"></p>\n<p><strong>Cleaner Tooltips</strong> — это простой мод, который заменяет отображение характеристик на чистые и интуитивно понятные иконки.</p>\n<p>Этот мод полностью работает на стороне клиента.</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/c3284d7ed59a5e8f7c0c14de0761ea543be91c6c.png\" alt=\"Пример изображения\"></p>\n<h2>Возможности</h2>\n<ul>\n<li>Отображает прочность предметов</li>\n<li>Сравнивает характеристики экипированных предметов и тех, на которые наведён курсор</li>\n<li>Острота увеличивает урон при атаке (Исправляет <a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC%252fissues%252fMC-271840\" target=\"_blank\" rel=\"nofollow\">MC-271840</a>)</li>\n<li>Отображает скорость добычи инструментами (отключено по умолчанию)</li>\n<li>Текстуры и логика рендеринга/расчётов полностью управляются через ресурспаки</li>\n</ul>\n<h2>Совместимость</h2>\n<p>Cleaner Tooltips совместим с большинством модов, влияющих на интерфейс, в том числе:</p>\n<ul>\n<li>Better Combat — добавляет дальность атаки рядом с характеристиками.</li>\n<li>Legendary Tooltips</li>\n<li>Equipment Compare</li>\n<li>Tooltip Overhaul</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

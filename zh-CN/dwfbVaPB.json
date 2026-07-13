@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b410a8923ca841cb",
+  "content": "\n\n# Mochila 标准配方 (JEI 与 REI 修复)\n\n这个简单的数据包为 **Mochila** 模组提供了桥梁支持，为所有背包添加了标准的原版配方文件（`.json`）。\n\n### ❓ 为什么安装此数据包？\n默认情况下，*Mochila* 模组目前仅与 **EMI**（高效魔法物品管理）集成以显示配方。如果您使用的是 **JEI**（Just Enough Items）、**REI**（Roughly Enough Items），或者仅使用原版的**配方书**，将无法查看背包的合成方法。\n\n### ✨ 功能特性\n* **JEI 支持：** 配方现在可以在 Just Enough Items 中正确显示。\n* **REI 支持：** 完美兼容 Roughly Enough Items。\n* **原版友好：** 将配方添加至绿色的原版配方书（无需安装其他模组）。\n* **通用兼容：** 同时适用于客户端（单人游戏）和服务器。\n\n### 🛠️ 安装方法\n由于这是一个**数据包**，其安装方式与普通模组略有不同（除非您使用了全局数据包加载器）：\n\n1.  下载 `.zip` 文件。\n2.  进入您的世界文件夹（例如 `.minecraft/saves/MyWorld/`）。\n3.  打开 `datapacks` 文件夹。\n4.  将文件放入其中。\n5.  如果已在游戏中，请运行 `/reload` 命令重新加载。\n\n*注意：本项目为非官方作品，与原 Mochila 作者无关。它仅提供缺失的 JSON 数据支持。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

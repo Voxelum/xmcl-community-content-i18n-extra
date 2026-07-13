@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bc417f00d9da57c2",
+  "content": "\n\n<h1>Bewitchment 調整</h1>\n<p>為幽靈手鐲（Specter Bangle）加入原版的隱形效果。</p>\n<h2>問題所在</h2>\n<p>Bewitchment 的幽靈手鐲會讓你在視覺上隱形，但 MCDW 的伏擊附魔不支援這種機制，因此我進行了修復。然而，部分生物仍然能偵測到你，因為它們會檢查原版隱形狀態效果。</p>\n<h2>解決方案</h2>\n<p>本模組會在裝備幽靈手鐲並潛行時，為你附加原版的隱形效果。</p>\n<h2>需求</h2>\n<ul>\n<li>Minecraft 1.20.1</li>\n<li>Fabric Loader 0.15.0+</li>\n<li>Bewitchment</li>\n<li>可能也需安裝 Trinkets，但尚未實際測試過。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

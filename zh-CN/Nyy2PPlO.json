@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a498d6e689896cc",
+  "content": "\n\n这是一个专为 1.20 版本构建的简单数据包（应兼容其他版本），可完全移除物品的耐久度。\n\n只需将数据包拖入对应世界的 datapack 文件夹中，然后运行 /reload 命令即可。\n无需任何配置或设置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

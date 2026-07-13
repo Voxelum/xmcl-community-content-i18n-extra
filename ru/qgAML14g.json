@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ce2c16e8656284b",
+  "content": "\n\n# No End Flash!\n\n<p align=\"center\" style=\"display: block\">\n    <img src=\"https://cdn.modrinth.com/data/qgAML14g/6cdc0a6902cba3f9af011dfb148e118f42bda2bf_96.webp\" width=\"100\">\n    <a href=\"\"></a>\n</p>\n\n![No-End-Flash!](https://img.shields.io/modrinth/v/no-end-flash!?label=\"latest%20mod%20version\")\n![No-End-Flash!](https://img.shields.io/modrinth/game-versions/no-end-flash!?label=\"latest%20game%20version\")\n\nNo-End-Flash — это простой клиентский мод на Fabric для Minecraft, отключающий визуальный эффект фиолетовой молнии, известный как «Вспышка Края».\n\n## Использование\n\nВы можете включать и отключать вспышки Края с помощью команды `/noendflash`.\n\nДоступные аргументы: \n- Вызов команды без параметров — справочная информация\n- `status` — текущий статус вспышек Края\n- `toggle` — переключить вспышки Края (и название говорит само за себя, не так ли?)\n\n## Лицензия\n\nЭтот проект распространяется по лицензии **CC0 1.0 Universal**. Подробнее см. в файле [LICENSE](LICENSE).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

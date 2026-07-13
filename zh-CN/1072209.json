@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8b6860c72b9843b2",
+  "content": "\n\n<p>本模组对 Mekanism 进行了各种调整（好吧&hellip;也许将来会有），提高了你使用其机器时的功能上限。</p>\n<p>&nbsp;</p>\n<p>当前调整列表：</p>\n<ul>\n<li>默认将速度与能量升级的上限从 8 提升至 32。当机器达到每刻执行一次操作的速率后，将开始同时执行多项操作。</li>\n<li>允许 Meka 护甲/工具附魔的配置项，默认为 false。不会自动为物品添加可附魔标签，需由您自行添加。</li>\n</ul>\n<p>所有更改均可自定义配置，修改后需要重启游戏才能生效。</p>\n<p>&nbsp;</p>\n<p>感谢 <a href=\"https://www.curseforge.com/members/nin8995/projects\" target=\"_blank\" rel=\"nofollow\">nin8995</a> 制作的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/mekanism-tweaks\" target=\"_blank\" rel=\"nofollow\">Mekanism Tweaks</a>，提升升级上限的功能最初即借鉴自该模组，随后已修改以适配 NeoForge 及更新版本的 Mekanism。</p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/mekanism-tweaks\" target=\"_blank\" rel=\"nofollow\">Mekanism Tweaks | 1.12 - 1.19</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/mekanism-upgrades-reborn\" target=\"_blank\" rel=\"nofollow\">Mekanism Upgrades: Reborn | 1.20.1</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

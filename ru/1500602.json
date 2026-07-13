@@ -1,6 +1,6 @@
 {
-  "bodyHash": "c3V2PO35EYw=",
-  "content": "<p>MotionBlurX добавляет плавный временной эффект размытия движения в Minecraft на Fabric для версии 1.21.11. Он придаёт движению камеры более чистое, кинематографичное ощущение, оставаясь при этом легким и простым в использовании. Вы можете настроить степень размытия в игре с помощью простой команды в соответствии со своими предпочтениями.</p><p>Исходный код: <a href=\"https://github.com/Noryea/motionblur-fabric/\" rel=\"nofollow\">https://github.com/Noryea/motionblur-fabric/</a></p><ul>\n<li><p>Команда</p>\n<p>/motionblur &lt;процент&gt;: изменить степень размытия</p>\n</li>\n</ul>",
+  "bodyHash": "0cb0eaa3c09883e8",
+  "content": "\n\n<p>MotionBlurX добавляет плавный эффект размытия при движении в Minecraft на Fabric для версии 1.21.11. Он придаёт движению камеры более аккуратный и кинематографичный вид, оставаясь при этом лёгким и простым в использовании. Вы можете настроить интенсивность размытия в игре с помощью простой команды, чтобы она соответствовала вашим предпочтениям.</p>\n<p>Основано на: <a href=\"https://github.com/Noryea/motionblur-fabric/\" rel=\"nofollow\">https://github.com/Noryea/motionblur-fabric/</a></p>\n<ul>\n<li><p>Команда</p>\n<p>/motionblur &lt;percent&gt;: изменение интенсивности размытия</p>\n</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "wkAm3uLvaIk=",
-  "content": "![比較 GIF](https://i.imgur.com/odnnrV2.gif)\n\n<br>\n\n僅修改伺服端邏輯，因此在專用伺服器上以客戶端安裝時不會產生效果。\n\n<br>\n\n## 🏹| 笨重盾牌\n你是否曾反應夠快舉起盾牌，卻仍被衛道士直接一擊穿透？\n\n> *咚* 「...怎～麼～會～」\n\n沒錯，您猜對了：Minecraft 在舉盾時隱藏了 5 刻的等待時間，而動畫完全沒有反映出來。\n\n這個模組讓您可以自訂或完全移除這個延遲。且適用於原版或模組中所有基礎遊戲阻擋延遲會影響的物品。\n\n<br>\n\n## 👀| 運作原理\n請參閱 [GitHub 說明檔](https://github.com/Revvilo/Responsive-Shields#readme) 查看技術細節。\n\n<br>\n\n## ⚙️| 設定\n### 檔案與內容：\n#### responsive-shields.toml\n\n>`舉盾時間`\n>>（預設值：0）從右鍵點擊到遊戲開始阻擋攻擊之間的時間量（以刻為單位）。\n\n>`啟用`\n>>（預設值：true）是否啟用模組效果。\n\n### 資訊：\n- 將舉盾時間設為 0 可使盾牌立即進行阻擋。\n\n- 將舉盾時間設為 5 等同於原版效果。\n\n- 客戶端的舉盾動畫大約需要 1 刻完成。因此將舉盾時間設為 1 或 2 是在反應靈敏度與不易進行盾擊之間的平衡點。",
+  "bodyHash": "420ca601413bf167",
+  "content": "\n\n![比較 GIF](https://i.imgur.com/odnnrV2.gif)\n\n<br>\n\n僅更改伺服器端邏輯，因此在專用伺服器上僅安裝於客戶端時無效。\n\n<br>\n\n## 🏹| 遲緩的盾牌\n有沒有過反應夠快舉起盾牌，卻還是被衛道士一擊穿透的情況？\n\n> *bonk*「……怎麼會wwww」\n\n沒錯，你猜對了：當你在 Minecraft 中舉起盾牌時，背景實際上隱藏了 5 個刻（ticks）的等待時間，這完全沒有反映在動畫上。\n\n此模組允許你調整或完全移除該延遲。它適用於原版遊戲格擋延遲所適用的所有物品，無論是原版還是模組物品。\n\n<br>\n\n## 👀 | 運作原理\n進階技術細節請參閱 [GitHub 說明文件](https://github.com/Revvilo/Responsive-Shields#readme)。\n\n<br>\n\n## ⚙️| 設定檔\n### 檔案與內容：\n#### responsive-shields.toml\n\n> `Raise Time`\n>> （預設值：0）從右鍵舉起盾牌到遊戲開始格擋攻擊所需的時間（以刻為單位）。\n\n> `Enabled`\n>> （預設值：true）是否啟用此模組的效果。\n\n\n### 資訊：\n- 將 Raise Time 設為 0 可使盾牌立即格擋。\n\n\n- 將 Raise Time 設為 5 則與原版相同。\n\n\n- 客戶端的舉盾動畫大約需要 1 個刻才能完成。因此將 Raise Time 設為 1 或 2 能在反應速度與避免被瞬間擊穿之間取得不錯的平衡。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

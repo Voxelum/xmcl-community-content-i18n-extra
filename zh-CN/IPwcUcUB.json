@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d010c1aede32211b",
+  "content": "\n\n**简介**\n\n欢迎来到科技世界！你是否喜欢 BotanyPots（植物罐），但觉得它有点慢？你是否拥有多余的能量却不知如何利用？那么 PowerPots（动力罐）就是你的新伙伴，通过多级罐体设计，带来更快的生长速度和更高的产出。\n\n它是 BotanyPots 的扩展模组。\n\n**功能**\n- PowerPots 允许你将作物的生长速度和产出量翻倍甚至更多\n- 具备自动漏斗功能\n- 支持使用任意类型的能源来启动作物生产\n- 潜行 + 右键点击可打开升级界面，最多支持 3 个升级槽位\n- 罐体等级最高可达 5 级\n\n**升级项**\n\n这些升级项可通过潜行 + 右键打开的升级界面添加。从版本 1.0.8 开始，你还可以在控制设置中自定义按键以快速打开该 GUI 界面。\n- 速度升级：提升生产速度\n- 时运升级：在基础产出之上提供额外奖励产量\n- 能量升级：提高 PowerPots 的能源利用率\n- 产量升级：可将 PowerPots 的产出量翻倍\n\n**致谢**\n\n感谢 FTB 提供灵感，本模组基于其创意移植。官方原版链接：https://www.curseforge.com/minecraft/mc-mods/ftb-power-pots\n\n同时感谢 MtChloe05，虽然原项目未添加配方，但我 Fork 了该项目并补充了完整配方。\nhttps://www.curseforge.com/minecraft/mc-mods/energy-pots\n\n最后感谢 BotanyPots 和 Bookshelf 的开发者们：https://modrinth.com/mod/bookshelf-lib https://modrinth.com/mod/botany-pots",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "UaVDiUMXt5A=",
-  "content": "<h2 style=\"text-align:center\"><span style=\"text-decoration:underline\"><em><strong>ЭТО ДЛЯ FABRIC</strong></em></span></h2><p>Запрещает появляться всплывающим подсказкам, размер которых превышает допустимый экран, за пределами экрана.</p><p>ToolTipFix также автоматически переносит текст на новую строку\\n</p><p>&nbsp;</p><p>С установленным модом: <img src=\"https://raw.githubusercontent.com/kyrptonaught/tooltipfix/master/images/after.png\" alt=\"\" width=\"854\" height=\"480\"></p><p>Без установленного мода: <img src=\"https://raw.githubusercontent.com/kyrptonaught/tooltipfix/master/images/before.png\" alt=\"\" width=\"854\" height=\"480\"></p>",
+  "bodyHash": "3c04c31a779e4cbf",
+  "content": "\n\n<h2 style=\"text-align:center\"><span style=\"text-decoration:underline\"><em><strong>ЭТО ДЛЯ FABRIC</strong></em></span></h2>\n<p>Предотвращает уход подсказок, которые слишком велики для экрана, за его пределы.</p>\n<p>ToolTipFix также автоматически переносит строки по \\n.</p>\n<p>&nbsp;</p>\n<p>С установленным модом: <img src=\"https://raw.githubusercontent.com/kyrptonaught/tooltipfix/master/images/after.png\" alt=\"\" width=\"854\" height=\"480\"></p>\n<p>Без установленного мода: <img src=\"https://raw.githubusercontent.com/kyrptonaught/tooltipfix/master/images/before.png\" alt=\"\" width=\"854\" height=\"480\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

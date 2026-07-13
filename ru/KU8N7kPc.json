@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WcQw3nqpqxI=",
-  "content": "Дополнительный мод для [Better Combat](https://modrinth.com/mod/better-combat), который позволяет ему работать с (человекообразными) мобами.\n\nТребуется [Mob Player Animator](https://modrinth.com/mod/mob-player-animator), чтобы правильно анимировать мобов через [Player Animator](https://modrinth.com/mod/playeranimator).\n\nВключены настройки конфигурации, позволяющие контролировать, какие мобы могут использовать систему Better Combat, а также автоматически добавлять в чёрный список мобы, анимированные с помощью GeckoLib, поскольку они не совместимы с Player Animator.\n\nСовместим с [Guard Villagers](https://modrinth.com/mod/guard-villagers) и [Villager Recruits](https://modrinth.com/mod/villager-recruits).",
+  "bodyHash": "aae7768da355029e",
+  "content": "\n\nДополнительный мод к [Better Combat](https://modrinth.com/mod/better-combat), позволяющий ему работать с (гуманоидными) мобами.\n\nТребует [Mob Player Animator](https://modrinth.com/mod/mob-player-animator) для корректной анимации мобов через [Player Animator](https://modrinth.com/mod/playeranimator).\n\nВключены параметры конфигурации для управления тем, какие мобы могут использовать систему Better Combat, а также автоматическое добавление в чёрный список мобов, анимированных с помощью GeckoLib, поскольку они несовместимы с Player Animator.\n\nСовместимо с [Guard Villagers](https://modrinth.com/mod/guard-villagers) и [Villager Recruits](https://modrinth.com/mod/villager-recruits).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

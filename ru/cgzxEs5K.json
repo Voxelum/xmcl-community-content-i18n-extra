@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5e3a4b7d3b764644",
+  "content": "\n\n# Mekanism Overflow Energy\n\nПо умолчанию Mekanism ограничен системой ForgeCapabilities.ENERGY, которая устанавливает предел для одной передачи энергии на уровне `Integer.MAX_VALUE` (~2,14 млрд FE).\n\nMekanism Overflow Energy расширяет это ограничение, передавая `Integer.MAX_VALUE` несколько раз за такт, что позволяет передавать до `Integer.MAX_VALUE * maxOperationCount` энергии за такт.\n\n## Конфигурация\n\nФайл конфигурации создаётся по пути:\n\nconfig/mekanismoverflowenergy-common.toml\n\nmaxOperationCount — максимальное количество повторных передач (по умолчанию: 256)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

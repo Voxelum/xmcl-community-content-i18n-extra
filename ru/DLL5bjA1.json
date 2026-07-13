@@ -1,6 +1,6 @@
 {
-  "bodyHash": "DGzYeh04FHI=",
-  "content": "# Мод «Портальный пистолет»\n\nПереосмысление мода [iPortalTeam's Portal Gun Mod](https://modrinth.com/mod/portal-gun) для [Forge](https://files.minecraftforge.net/).\n\n<img src=\"https://s2.loli.net/2023/03/19/mxdDAr76Y3RwV9B.png\" alt=\"portal_gun.png\" width=\"300\"/>\n\n### Требования\n\n- [GeckoLib](https://modrinth.com/mod/geckolib)\n- [Immersive Portals (для Forge)](https://modrinth.com/mod/immersive-portals-neoforge)\n\n### Рецепт крафта\n\n<img src=\"https://s2.loli.net/2023/03/19/qz5fNVnZCgytJUX.png\" alt=\"portal_gun_recipe.png\" width=\"200\"/>\n\n### Кредиты\n\nБольшое спасибо [iPortalTeam](https://github.com/iPortalTeam) за создание оригинального мода и \n[Thelnfamous1](https://github.com/Thelnfamous1/PortalGun/) за порт на Forge 1.19.2.",
+  "bodyHash": "bc79e0a7fc208db5",
+  "content": "\n\n# Мод Портального пистолета\n\nРеализация мода [Portal Gun от iPortalTeam](https://modrinth.com/mod/portal-gun) для [Forge](https://files.minecraftforge.net/).\n\n<img src=\"https://s2.loli.net/2023/03/19/mxdDAr76Y3RwV9B.png\" alt=\"portal_gun.png\" width=\"300\"/>\n\n### Требования\n\n- [GeckoLib](https://modrinth.com/mod/geckolib)\n- [Immersive Portals (для Forge)](https://modrinth.com/mod/immersive-portals-neoforge)\n\n### Рецепт крафта\n\n<img src=\"https://s2.loli.net/2023/03/19/qz5fNVnZCgytJUX.png\" alt=\"portal_gun_recipe.png\" width=\"200\"/>\n\n### Благодарности\n\nБольшая благодарность [iPortalTeam](https://github.com/iPortalTeam) за создание оригинального мода и \n[Thelnfamous1](https://github.com/Thelnfamous1/PortalGun/) за порт на 1.19.2 для Forge.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

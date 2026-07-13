@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a09dd894d9b185b5",
+  "content": "\n\n其他附加模組可能聲稱擁有類似功能，但它們是在此模組發布前/後複製了本模組的程式碼。\n違反模組授權條款可能會導致托管該模組的伺服器以及違反正服務條款的使用者被取消使用本模組的權限。此決定可在 Discord：https://discord.gg/CASmzp4k5b 提出覆核申請。\n\n本模組使用 ProGuard Java 混淆器進行編譯。\n\n非法修改、重新分發或竊取本模組程式碼，將導致使用者權限被撤銷，並可能面臨法律訴訟。\n\n- Super Dynamic KubeJS 與 Tensura/Manascore API 相容支援\n- 可腳本化控制的技能獲取限制\n- 可腳本化控制的覺醒限制\n- Tensura 大幅優化\n- Manascore 大幅優化\n- Tensura 大量 Bug 修正\n- Manascore 大量 Bug 修正\n- CNPCs 網路延遲修復\n- 可腳本化任務選單（未來將由 FTBQuests 相容模組取代）\n- 全面支援 Tensura 各項功能\n- 使用 KubeJS 註冊簡易自訂技能／種族\n- 可自訂改進的真正獨特內容\n- 針對 Hihi'Irokane 方案及以上用戶提供整合包後門檢查服務\n- 相較原版大幅提升 TPS\n- Neruina 優化，在確保實體計時安全的同時提升 TPS\n- AI 優化以降低玩家端延遲\n- 加快 Battlewill 與重置捲軸的使用速度，並透過防止大量重複登入來減少 Tensura 加入事件時的網路延遲\n- 低階、高階與滿階藥水及重置捲軸支援堆疊\n- FTBQuests 新增任務／獎勵／選項\n- 專屬 FTBTeams Tensura 相容支援\n\n這是一款伺服器實用模組，免費版可自由用於單人遊戲。若要以該模組託管伺服器，您必須於 Discord：https://discord.gg/CASmzp4k5b 取得授權金鑰。\n\n下載或使用本模組即表示您同意 Discord 中公布的服務條款，該條款已明確規範模組的使用須知與禁止事項。\n\n如需協助，請至模組 Discord 頻道尋求支援。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

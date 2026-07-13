@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4d653c92680c2861",
+  "content": "\n\n<p>ArmsLib 是一個函式庫模組，提供供 mumu17 的模組共用的基礎程式碼。若無其他模組啟用或呼叫此模組，它本身將無法提供任何實質功能。</p>\n<p>&nbsp;</p>\n<p><strong>主要功能</strong></p>\n<ul>\n<li>調整 TaCZ 子彈的傷害</li>\n<li>於子彈射出時，執行針對可選模組的自訂整合程式碼</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

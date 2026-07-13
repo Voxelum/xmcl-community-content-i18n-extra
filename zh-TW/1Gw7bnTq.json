@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bb6ac61c81faa271",
+  "content": "\n\n# 您的選項將被保存 (YOSBS)\n\nYour Options Shall Be Saved (YOSBS) 是一款輕量級的實用模組，讓模組包創作者能夠定義預設的設定檔，而不會覆蓋玩家的個人偏好設定。\n\n更新模組包時，自訂設定（如快捷鍵或模組設定）經常會被重置，因為大多數啟動器會直接替換整個 `config/` 資料夾。\n\nYOSBS 透過此機制解決此問題：首次啟動時，它只會將放置在 `config/yosbs/` 中的檔案複製到對應位置一次，隨後便不再重複操作。\n\n這讓模組包創作者能完全掌控以下行為：\n\n- 放在 `config/yosbs/` 內的檔案視為使用者專屬：僅複製一次，隨後保持不變\n- 放在 `config/` 內的檔案則維持原樣：每次更新時都會被替換\n\n藉此方式，您可以自行決定哪些設定應予以保留，哪些則應重置。\n\n## 功能特色\n- **零設定**：只需將預設檔案放入 `/config/yosbs/…`（或舊版路徑 `/config/yosbr`）即可\n- 支援**任何**檔案，例如 `options.txt`、模組設定檔、`optionsshaders.txt` 等\n- 於 **啟動前階段** 執行，在 Fabric/Forge 開始載入其他模組之前運作\n\n\n## 相容性與安裝\n1. Fabric Loader ≥ 0.4.0 *(無需 Fabric API)*\n2. Minecraft 1.14 – 1.21.x\n3. 需要 Java 8 或更新版本 \n4. 將 YOSBS 的 `.jar` 檔案放入 `mods/` 資料夾並啟動遊戲一次——系統將自動建立 `/config/yosbs` 資料夾（您也可以手動建立）\n\n\n\n## 使用範例\n\n| 希望隨模組包提供… | 首次啟動前請執行此操作 |\n|---------------|----------------------------|\n| 預設的 `options.txt` | 將您的檔案放置於 `/config/yosbs/options.txt` |\n| REI 的設定檔 | `/config/yosbs/config/roughlyenoughitems/config.json5` |\n\n## 致謝\n靈感來自 shedaniel 開發的原始模組 [Your Options Shall Be Respected – YOSBR](https://modrinth.com/mod/yosbr)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

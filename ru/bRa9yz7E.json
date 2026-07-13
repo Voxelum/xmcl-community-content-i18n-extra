@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7aad9ee319759c62",
+  "content": "\n\n# Глобальные датапаки\n\nМод, создающий глобальную папку для датапаков в директории игры .minecraft, чтобы вам не приходилось копировать их между мирами.\n\n### Папка с датапаками\nДобавляет папку `datapacks` в .minecraft с датапаками, которые по умолчанию включены во всех мирах.\n\n### Доступные датапаки\nДобавляет папку `available_datapacks` в .minecraft с датапаками, которые по умолчанию отключены во всех мирах.\n\n\n### Информация\n⚠️Это мод **только для Fabric**, и планов по созданию версии для Forge нет. \n&nbsp; \n![Пример](https://github.com/Declipsonator/Global-Datapack/blob/main/spacetaker.png?raw=true)\n<br/><br/>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "73910a28682b4d93",
+  "content": "\n\n# 紅石管理器\n\n本模組相對較新，可能仍存在一些錯誤。\n\n請前往 [GitHub](https://github.com/gigili/RedstoneManager) 回報問題與提供意見。\n\n透過單一中央命令方塊管理所有紅石開關。\n\n以下是該模組預期運作方式的範例圖片。目前仍在持續開發中，內容與功能可能會隨時調整：\n\n![該模組預期運作方式的範例圖片](https://raw.githubusercontent.com/gigili/RedstoneManager/refs/heads/1.21.1/assets/sample.png)\n\n## 使用方式\n\n首先製作一個「管理器」與一個「連結器」。\n\n手持連結器對準拉杆，按下 `蹲下 + 右鍵` 即可建立連結。\n\n開啟管理器，點擊加號按鈕建立第一個群組。\n\n將連結器放入新建立的群組中。\n\n您現在可以在管理器中單獨切換該拉杆的開/關狀態，或是切換整個群組的狀態。\n\n## 適用於模組包\n\n連結器採用標籤系統運作，會檢查方塊是否擁有標籤：`redstonemanager:linkable_items`。\n\n若方塊擁有此標籤，便允許在其之間建立連結。\n\n接著，它會檢測該方塊的供電狀態以取得其當前狀態。\n\n## 給開發者\n\n您可以透過新增以下設定，將本模組加入您的專案：\n\n```\nmaven {\n    name = \"Gac Repository\"\n    url = uri(\"https://maven.igorilic.dev/releases\")\n}\n```\n\n然後將其作為依賴項加入：\n\n```\nimplementation \"dev.igorilic:redstonemanager:${rm_version}\"\n```\n\n# 有建議嗎？\n\n如果您有任何能改善模組包的建議，請開啟一個 Issue 讓我們展開討論。\n\n或加入 Discord 伺服器：[https://discord.gg/7maXVvt2c4](https://discord.gg/7maXVvt2c4)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mTVEhQsykko=",
-  "content": "# 主菜单致谢\n为用户的标题画面添加信息展示功能。\n\n![预览](https://i.imgur.com/vvIfvYG.png)\n\n用户可以像处理聊天消息一样与文本互动，支持点击事件；\n若存在点击事件，悬停时文本会显示下划线。\n\n## Wiki\n使用说明请[查阅Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)",
+  "bodyHash": "32d8b8823e25df62",
+  "content": "\n\n# 主菜单制作人员名单\n提供了一种在标题画面中添加信息的方式。\n\n![预览](https://i.imgur.com/vvIfvYG.png)\n\n该文本支持与聊天消息相同的交互方式，可响应点击事件；\n若设置了点击事件，鼠标悬停时将显示下划线。\n\n## 维基\n有关使用说明，[请查阅维基](https://github.com/isXander/main-menu-credits/wiki/Usage)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

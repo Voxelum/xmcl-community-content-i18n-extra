@@ -1,6 +1,6 @@
 {
-  "bodyHash": "e6bcZRFDkSM=",
-  "content": "Forge 服务器兼容性检查器并不总是准确的，可能会在模组包用户添加服务器时导致一些问题，显示为不兼容。\n\n这个模组通过比较模组包项目 ID 和模组包版本 ID（由模组包作者在配置文件中设置）来解决这个问题，如果匹配则显示勾号，如果不匹配则显示叉号。\n\n服务器和客户端运行相同版本\n![](https://cdn-raw.modrinth.com/data/KJhXPbHQ/images/dcc8da720c8b426be8a5c79363b6f5864428d051.png)\n服务器或客户端版本不兼容\n![](https://cdn-raw.modrinth.com/data/KJhXPbHQ/images/0ea169b464a63c5c6fa857b8a6b370552781afa3.png)\n\n## 如何配置模组？\n\n配置模组很简单，首先，你需要打开配置文件夹中的 bcc-common.toml，然后设置模组包名称和版本，点击保存，就完成了。\n\n记得在更新模组包时更新版本。\n\n注意：Fabric 配置文件名为 bcc.json\n\n## 如果服务器未安装此模组，但客户端安装了会怎样？\n\n此模组会首先检查所需数据是否已设置，如果没有，则会回退到使用默认的 Forge 实现。\n\n---\n\n除非另有说明，否则保留所有权利。FeedTheBeast 获得了在模组包中使用的分发许可。",
+  "bodyHash": "bd24c20d3ec77506",
+  "content": "\n\nForge 服务器兼容性检查器并不总是准确的，当模组包用户在添加服务器时，如果显示不兼容，可能会引发一些问题。\n\n本模组为模组包作者修复了此问题。它会比对模组包的项目 ID 和作者在配置文件中设置的版本 ID，匹配时显示对勾，不匹配则显示叉号。\n\n\n服务器与客户端版本一致\n![](https://cdn-raw.modrinth.com/data/KJhXPbHQ/images/dcc8da720c8b426be8a5c79363b6f5864428d051.png)\n服务器或客户端版本不兼容\n![](https://cdn-raw.modrinth.com/data/KJhXPbHQ/images/0ea169b464a63c5c6fa857b8a6b370552781afa3.png)\n\n## 如何配置本模组？\n\n配置非常简单：首先打开 `config` 文件夹中的 `bcc-common.toml` 文件，然后设置模组包名称和模组包版本，点击保存即可。\n\n请注意，在更新模组包时也要记得同步更新版本号。\n\n\n注意：Fabric 版本的配置文件名为 `bcc.json`\n\n\n## 如果服务端未安装此模组，但客户端已安装会发生什么？\n\n本模组会优先检查所需数据是否已设置；若未设置，则会回退使用 Forge 默认的兼容性检查实现。\n\n---\n\n除非另有说明，否则保留所有权利。授权 FeedTheBeast 将其用于模组包分发。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

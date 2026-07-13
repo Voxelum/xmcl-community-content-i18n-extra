@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f9cf441d1d144a49",
+  "content": "\n\n<p><span style=\"font-size:24px\">Исправление сохранения чанков</span></p>\n<p><span style=\"font-size:14px\">Исправляет критический баг&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-224729\" target=\"_blank\" rel=\"nofollow\">https://bugs.mojang.com/browse/MC-224729</a>, из-за которого генерация мира вдали от игрока прерывалась, из-за чего деревья и другие структуры появлялись посередине границ чанков, вызывая серьёзные проблемы.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:14px\">Пример ошибки:</span></p>\n<p><img src=\"https://cdn.discordapp.com/attachments/730241298099077262/828816530523160596/unknown.png\" alt=\"Кленовое дерево, разрезанное пополам\" width=\"452\" height=\"245\"></p>\n<p><span style=\"font-size:14px\">Данный мод исправляет ошибку, гарантируя сохранение всех чанков при полном выключении сервера за счёт изменения нескольких условий. Это не должно вызывать конфликтов с другими модами.</span></p>\n<p><span style=\"font-size:14px\">Если у вас возникли вопросы или проблемы, пожалуйста, присоединяйтесь к моему Discord:&nbsp;<a href=\"https://discord.gg/EwQmvQtshV\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/EwQmvQtshV</a></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

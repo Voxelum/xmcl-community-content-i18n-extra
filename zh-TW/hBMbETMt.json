@@ -1,6 +1,6 @@
 {
-  "bodyHash": "U0Qt6Ij495Q=",
-  "content": "此模組修復了在使用 [SlashBlade:Resharped](https://modrinth.com/mod/slashblade-resharped) 搭配 [Yes Steve Model](https://modrinth.com/mod/yes-steve-model) 時，SlashBlade 模型無法正常渲染的 Bug。\n\n修改前\n![修改前](https://cdn.modrinth.com/data/hBMbETMt/images/330456f851db324f762a0e1f7e7390b082d42785.png)\n修改後\n![修改後](https://cdn.modrinth.com/data/hBMbETMt/images/44aaf2a41837b274c261cda8dbe7f625514977e1.png)",
+  "bodyHash": "8c5270d3a8a74cbc",
+  "content": "\n\n此模組修正了在使用 [SlashBlade:Resharped](https://modrinth.com/mod/slashblade-resharped) 與 [Yes Steve Model](https://modrinth.com/mod/yes-steve-model) 同時運作時，SlashBlade 模型無法渲染的問題。\n\n修正前\n![修正前](https://cdn.modrinth.com/data/hBMbETMt/images/330456f851db324f762a0e1f7e7390b082d42785.png)\n修正後\n![修正後](https://cdn.modrinth.com/data/hBMbETMt/images/44aaf2a41837b274c261cda8dbe7f625514977e1.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "661ab10fc4a82e51",
+  "content": "\n\n<h1>液体燃烧器</h1>\n<p>烈焰燃烧器不能使用液体作为燃料，这难道不奇怪吗？现在可以了！</p>\n<p>液体燃烧器赋予了烈焰燃烧器使用液体来加热和过热燃烧器的能力。</p>\n<p>这也与普通的 Create 燃料一样基于标签（tag），因此可通过数据包添加任意模组的流体。</p>\n<h3>如何添加流体：</h3>\n<p>可以通过配方来添加流体。</p>\n<p>示例：</p>\n<p><code>data/liquidburner/recipes/lavaburning.json</code></p>\n<pre><code>{\n    % 配方类型\n    \"type\": \"liquidburner:liquidburning\",\n    % 流体类型\n    \"fluid\": \"minecraft:lava\",\n    % 普通燃烧时间\n    \"burntime\": \"20000\",\n    % (可选) 过热时间\n    \"superheattime\": \"0\"\n}\n</code></pre>\n<p>对于具有过热时间的流体，燃烧时间表示燃料耗尽后燃烧器继续工作的时长。</p>\n<h1>已弃用（0.2 及以下版本）</h1>\n<ul>\n<li>制作一个数据包/模组</li>\n<li>前往/创建目录 <code>data/liquidburner/tags/fluids</code></li>\n<li>将你的流体添加到 <code>blaze_burner_fuel_regular</code> 作为普通燃料</li>\n<li>将你的流体添加到 <code>blaze_burner_fuel_special</code> 作为过热燃料</li>\n</ul>\n<h3>默认普通燃料：</h3>\n<ul>\n<li>岩浆 (lava)</li>\n</ul>\n<h3>默认过热燃料：</h3>\n<ul>\n<li>匠魂炽焰之血 (Tinkers' Blazing Blood)</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

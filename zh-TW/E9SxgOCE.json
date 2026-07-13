@@ -1,6 +1,6 @@
 {
-  "bodyHash": "CwoyeV+4flE=",
-  "content": "實質上回歸了MC-263293的功能。讓你的切換衝刺（及蹲下）不會在重生時被重置。",
+  "bodyHash": "2a356c226acd4954",
+  "content": "\n\n基本上恢復了 MC-263293 的功能，防止在重生時重置切換 Sprint（以及 Shift）的狀態。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

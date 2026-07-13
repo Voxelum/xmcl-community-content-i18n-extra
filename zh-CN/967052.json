@@ -1,0 +1,6 @@
+{
+  "bodyHash": "46f6c88f86e422cc",
+  "content": "\n\n<p><span style=\"color:#fff\"><a href=\"https://url-shortener.curseforge.com/robDC\" target=\"_blank\" rel=\"nofollow\">点击这里</a></span><span style=\"color:#e03e2d\"> 以获取 BisectHosting 的 25% 折扣，帮助您以更优惠的价格部署服务器！</span></p>\n<p>这是一个库模组，需要玩家自行定制内容。</p>\n<p>它允许玩家使用简单的 JSON 语法修改或覆盖其他模组中的硬编码文本，从而协助翻译人员进行本地化工作。</p>\n<p>您无需担心运行时开销或性能损耗。该模组利用 ASM 实现高效的类替换，且缓存仅在目标模组更新时才会同步更新被替换的类，因此对现代电脑的性能影响微乎其微。</p>\n<p>有关配置文件编写及具体运行原理，请参阅 <a href=\"https://github.com/3093FengMing/VaultPatcher/wiki\" target=\"_blank\" rel=\"nofollow\">Wiki</a>。</p>\n<p>如果在编写配置时遇到困难，欢迎加入我们的 <a href=\"https://discord.gg/MCMCJ9ynuy\" target=\"_blank\" rel=\"nofollow\">Discord</a> 群或联系 QQ(227323572)。</p>\n<p>Github：<a href=\"https://github.com/3093FengMing/VaultPatcher\" target=\"_blank\" rel=\"nofollow\">VaultPatcher</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

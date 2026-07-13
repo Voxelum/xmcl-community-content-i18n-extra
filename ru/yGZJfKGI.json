@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/498cGWpTY8=",
-  "content": "Добавьте совместимость с улучшенным боем для оружия из [Incendium](https://modrinth.com/datapack/Incendium).\n\nДатапак должен быть установлен до получения оружия; оружие, полученное до установки пакета, не обновится.  \nЧтобы настроить больше параметров, посетите мой [Github](https://github.com/NMDx86/IBCA)\n\n",
+  "bodyHash": "1336710b26fb544c",
+  "content": "\n\nДобавляет поддержку Better Combat для оружия [Incendium](https://modrinth.com/datapack/Incendium).\n\nДатпак необходимо установить до получения оружия; оружие, полученное до установки датпака, не будет обновлено.\nДля дополнительной настройки посетите мой [Github](https://github.com/NMDx86/IBCA).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

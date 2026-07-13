@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5a9a574d0dc5625e",
+  "content": "\n\n# **ResourcePackCached**\n\nResourcePackCached 會保持伺服器資源包處於載入狀態，因此重新加入時無需再次載入。它還會在遊戲啟動時重新套用上次使用的伺服器資源包。\n\n---\n\n## **主要使用情境**\n\n適合以下需求的使用者：\n\n- 將資源包託管於伺服器上，簡化更新流程，並透過移除本機副本來減少整合包體積。\n- 縮短加入遊戲的時間並避免重複載入，提升使用者體驗。  \n- 加快使用資源包的模組或外掛的測試與除錯速度。\n\n---\n\n## **功能說明**\n\n**ResourcePackCached** 會自動執行以下步驟：\n\n| 步驟 | 說明                           |\n| ---- | ------------------------------ |\n| 1    | 首次加入遊戲時快取伺服器資源包。 |\n| 2    | 斷線後仍保持資源包載入狀態。    |\n| 3    | 重新加入時跳過重複載入。        |\n| 4    | 遊戲啟動時重新套用該資源包。    |\n\n## **支援**\n\n需要協助或想回報問題嗎？  \n- 前往 [GitHub 儲存庫](https://github.com/Furq07/resourcepackcached/issues) 開啟 Issue  \n- 加入 [Discord 伺服器](https://discord.gg/XhZzmvzPDV)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

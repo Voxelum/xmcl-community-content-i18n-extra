@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ec76d938bbb92d7d",
+  "content": "\n\n《Create: Modern Tech》是《Create Aeronautics》模组的附加组件，引入了若干新方块与物品。核心新增方块为体积显示器，可在玩家周围渲染出世界的3D视图。它还支持在显示器内设置信标，并生成指向该信标的指南针，从而实现船只的自动导航功能。此外，模组还添加了AI核心、音频触发器和扬声器方块，供玩家搭建专属的飞船AI系统。音频触发器与扬声器方块搭载了TTS系统，只要通过红石信号触发，即可让AI播报你自定义的任何语音内容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

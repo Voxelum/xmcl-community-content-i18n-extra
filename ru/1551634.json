@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3011ceddc0bd237a",
+  "content": "\n\n<p>Этот аддон для TaCZ позволяет использовать полупрозрачные кубы, открывая больше возможностей для креативного дизайна моделей.</p>\n<p>Учебное видео доступно в разделе «Медиа».</p>\n<p>Ниже приведён шаблон, упомянутый в видео.<br><br><br></p>\n<div>\n<div>{</div>\n<div>&nbsp; \"render\": {</div>\n<div>&nbsp; &nbsp; \"model_render_mode\": \"SELECTIVE_BONES_DEPTH_PEELING\",</div>\n<div>&nbsp; &nbsp; \"transparent_bone_name_suffixes\": [\"_translucent\"],</div>\n<div>&nbsp; &nbsp; \"transparent_alpha_mode\": \"OVERRIDE\",</div>\n<div>\n<div>\n<div>&nbsp;\"translucent_scope\": true,</div>\n</div>\n</div>\n<div>&nbsp; &nbsp; \"transparent_alpha_override\": 0.30,</div>\n<div>\"bone_alpha\": {</div>\n<div>&nbsp; &nbsp; &nbsp; \"A_translucent\": 0.70,</div>\n<div>&nbsp; &nbsp; &nbsp; \"B_translucent\": 0.10</div>\n<div>&nbsp; &nbsp; &nbsp;</div>\n<div>&nbsp; &nbsp; }</div>\n<div>&nbsp; }</div>\n<div>}</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

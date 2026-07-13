@@ -1,6 +1,6 @@
 {
-  "bodyHash": "t9D3rOjv20M=",
-  "content": "Добавляет интеграцию анимации говорящего между [Настраиваемыми моделями игроков](https://modrinth.com/mod/custom-player-models) и [Простым голосовым чатом](https://modrinth.com/mod/simple-voice-chat).\n\nВключает воспроизведение анимации «Говорящий» в моделях настраиваемых игроков при использовании Простого голосового чата.\n\nФрейм анимации зависит от громкости звука игрока.\n\nРаботает с Forge и Fabric.",
+  "bodyHash": "e6bc85a22f0d869d",
+  "content": "\n\nДобавляет интеграцию анимации разговора между [Customizable Player Models](https://modrinth.com/mod/custom-player-models) и [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat).\n\nВключает воспроизведение анимации «Разговор» для моделей Customizable Player Models при использовании Simple Voice Chat.\n\nКадр анимации зависит от громкости звука игрока.\n\nСовместимо с Forge и Fabric.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

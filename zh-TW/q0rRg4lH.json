@@ -1,6 +1,6 @@
 {
-  "bodyHash": "NezR1OVqbcY=",
-  "content": "## 關於\n《地牢探索》是一個為主世界新增大量地下地牢結構的模組，供玩家探索。每個地牢的佈局、大小、戰利品及外觀風格皆為隨機生成。\n\n最新版本僅相容於 **NeoForge** 模組載入器；較舊版本則使用 **Forge**。\n若您正在尋找 **Fabric** 版本，請參考 [Roguelike Dungeons 的官方後續版本](https://modrinth.com/mod/roguelikedungeons)。\n\n## 起源與相關專案\n本模組是 [Greymerk](https://modrinth.com/user/Greymerk) 創作的 [Roguelike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons)（RLD）模組 **1.x** 系列版本的精神繼承者。\n因此，它重用了 RLD 大部分房間設計及整體建築風格。\n目標是將 RLD 生成的獨特地牢帶到 Minecraft 的新版本，同時擴充原始內容並提供更多設定可能性。\n\n## 自訂化\n透過資料包的強大功能，您可以廣泛自訂此模組。\n例如，您可新增生物、戰利品、自訂主題等。\n在 **3.0** 更新發布後，Wiki 上將提供更多相關資訊。\n\n## 專案狀態\n本模組仍在積極開發中，尚未被視為完整版本。\n敬請關注後續更新！",
+  "bodyHash": "82b63961588f9603",
+  "content": "\n\n## 關於\nDungeon Crawl 是一個為主世界添加大量地下迷宮結構的模組，供玩家探索。每個迷宮的佈局、大小、戰利品與視覺風格皆會隨機生成。\n\n近期版本僅相容於 **NeoForge** 載入器；較舊版本則使用 **Forge**。\n若您正在尋找 **Fabric** 版本，可參考 [Roguelike Dungeons 的官方延續專案](https://modrinth.com/mod/roguelikedungeons)。\n\n## 起源與相關專案\n本模組旨在成為 [Roguelike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons)（RLD）模組 **1.x** 系列的靈魂續作，該模組由 [Greymerk](https://modrinth.com/user/Greymerk) 創作。\n因此，它復用了 RLD 絕大多數的房間設計與整體建築風格。\n我們的目標是將 RLD 生成的獨特迷宮移植至更新版本的 Minecraft，同時擴展原始內容並提供更多設定選項。\n\n## 自訂功能\n透過資料包的機制，您可以對本模組進行廣泛的自訂。\n例如，您可以新增生物、戰利品、自訂主題等內容。\n更多相關資訊將在 **3.0** 版本釋出後於 Wiki 上公開。\n\n## 專案現況\n本模組仍在積極開發中，尚未視為正式完成。\n敬請關注後續更新！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

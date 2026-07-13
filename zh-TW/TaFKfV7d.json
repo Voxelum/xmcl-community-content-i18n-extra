@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8666a52bb5f25d7a",
+  "content": "\n\n# Lag Free\n\n## 此模組的功能為何？\nLag Free 旨在降低 Minecraft 伺服器上的延遲，改善玩家體驗，並讓伺服器架設更為輕鬆。此模組亦提供一層防護機制，防止玩家利用雪球、箭矢與末影珍珠製造造成延遲的裝置。\n\n## 運作方式\n於設定檔（路徑為 `world/serverconfig/lag_free-config.toml`）中，您可設定一個以秒為單位的時間間隔，用以控制自動清理延遲的頻率。\n\n預設情況下，清理動作會刪除地面上所有的物品。您還可在設定檔中選擇額外移除所有的礦車與盔甲座，但請注意，這可能會導致相關農場或涉及這些方塊的紅石機制無法正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e2778f4f17e4c586",
+  "content": "\n\n本模组修复了与 Connector 相关的一个崩溃问题。如果你同时安装了 Chloride 和 Oculus，在进入世界时会导致 UltraCraft 崩溃。\n\n这是一个非常快捷的修复补丁，实质上只是修改了 refmap 和 Mixin 文件。\n该修复由 nuhayuponosik 完成，感谢他在本人忙于现实生活事务时代为制作，功劳应归于他。\n此外，如果你使用的是 Fabric 平台，请支持原作者 Absolutelyaya，所有荣誉应归于他们。建议直接下载原版模组：https://modrinth.com/mod/absolute-ultracraft",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

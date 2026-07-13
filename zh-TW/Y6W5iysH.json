@@ -1,0 +1,6 @@
+{
+  "bodyHash": "79e7254c8419f6fd",
+  "content": "\n\n# 測量員大圖鑑\n\n![測量員大圖鑑](https://github.com/SettingDust/SurveyorAtlases/raw/refs/heads/main/img.png)\n\n「測量員大圖鑑」透過無縫整合 [地圖大圖鑑](https://www.curseforge.com/minecraft/mc-mods/map-atlases) 與 [測量員地圖框架](https://modrinth.com/mod/surveyor)，進一步強化了該模組的功能。此整合可自動新增地圖標記，簡化您的探索與導航過程。\n\n本模組將結構物與地標的渲染交由 Moonlight Markers 處理，提供清晰整齊的地圖視覺效果。\n\n目前支援的標記包含：\n- [Supplementaries](https://modrinth.com/mod/supplementaries)：\n    - 透過 [Surveystones](https://modrinth.com/mod/surveystones) 顯示路石（Waystones）\n    - 鐘、床、導航石、下界傳送門與結構物",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

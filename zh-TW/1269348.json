@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6da6a86c8f9b1057",
+  "content": "\n\n<p>「任務周邊」是一個方塊，能讓 CC:Tweaked 電腦從 FTB Quests 讀取任務資料。</p>\n<p>&nbsp;</p>\n<p>我們並未實作建立或刪除任務、章節與任務項目的功能，因為這類操作僅在製作整合包時才具合理性。</p>\n<p>此外，玩家也不應被允許修改整合包的任務書。</p>\n<p>（老實說，既然能直接使用 FTB Quests 的圖形化介面，透過 Lua 指令列來建立任務只會讓過程變得更加繁瑣。）</p>\n<p>&nbsp;</p>\n<p>如需查看所有可用功能的完整資訊，請前往 GitHub 頁面查看。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

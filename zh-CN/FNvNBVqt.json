@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6dfabbeed5d59d08",
+  "content": "\n\n## 展示\n<img src=\"https://i.ibb.co/7NKwX5zj/unoptimized.gif\" alt=\"水面波纹预览 GIF\" width=1920 height=1080>\n\n查看更多预览，请访问[画廊](https://modrinth.com/project/waves/gallery)。\n\n## 简介\n这是一个适用于原版 Minecraft 的材质包（非模组或光影包）。使用它非常简单，只需应用该材质包即可。无需安装其他依赖，也无需修改任何设置。你可以通过材质包内部或可选模组 respackopts 访问一些可选设置。\n\n材质包中的水面波纹设计极为简洁，其原理是分别计算 X 轴方向的正弦波和 Z 轴方向的余弦波（均基于高度、速度和频率），然后取两者的平均值。这些波纹并非追求写实，而是旨在为原版游戏增添更多层次感。\n\n## 使用方法\n1. 像往常一样下载并安装该材质包。\n2. （可选）安装 [respackopts](https://modrinth.com/mod/respackopts) 以更精细地控制波纹外观。安装后，你应该能在材质包旁边看到一个设置图标。\n3. 如果效果未生效，请尝试禁用其他冲突的材质包。请注意，此材质包与 Sodium 模组不兼容。\n4. 如果在列表中找不到该材质包，请尝试点击左下角的文件夹视图按钮（若启用了递归资源包），然后使用搜索栏进行查找。\n5. 若不使用 respackopts 进行配置，请打开材质包文件，进入 `assets/minecraft/shaders/include` 目录，然后打开 `config.glsl` 文件。你可以将其中 3 个数值修改为你想要的任意数字。\n\n## 支持\n**加入[我的 Discord](https://discord.gg/gymTft2GbV)**\n   - 报告 Bug\n   - 提交建议\n   - 为未来材质包投票\n   - 与社区互动\n   - 咨询材质包相关问题\n   - 询问是否可在你的材质包中集成此包\n\n**查看[项目仓库](https://github.com/AlphaLeoli/Texture-Packs)**\n   - 报告 Bug\n   - 提交建议\n   - 通过创建拉取请求贡献代码\n\nhttps://www.alphaleo.li/resourcepacks",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

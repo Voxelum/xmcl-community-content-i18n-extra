@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ko6asUM83bQ=",
-  "content": "<p><img src=\"https://media.forgecdn.net/attachments/491/556/logo_xycraft_world.png\"></p><p>世界生成與礦石系統登場！這個世界充滿待解的謎團，其中就包括會發光的賽克礦！</p><p>&nbsp;</p><p><strong>模組概要：</strong></p><p>XyCraft World 是多數模組的必要組件，雖然本可整合至核心模組，但考量到需為外部開發者提供不強制包含地形生成的工具組，故最終決定獨立發布。所有與世界生成或探索相關的內容都將歸屬於此模組。</p><p>&nbsp;</p><p><strong>特色功能：</strong></p><ul>\n<li>為所有<em>XyCraft</em>模組提供地形生成系統</li>\n<li>含標籤分類的賽克礦與鋁礦等材料</li>\n<li>新增採用經典<em>XyCraft</em>雲霧光效的裝飾方塊</li>\n</ul><p>&nbsp;</p><p><strong>開發規劃：</strong></p><ul>\n<li>擬實作類似《滿意工廠》的礦脈生成機制</li>\n<li>增加更多探索獎勵內容</li>\n<li>加入遊戲內指引系統提示材料獲取方式與用途</li>\n<li>新增玉米、番茄等農作物</li>\n<li>可能追加新維度（若實裝將不屬於當前開發路線圖）</li>\n<li>採礦時獲得經驗值</li>\n<li>擴充更多方塊變體與選項</li>\n</ul>",
+  "bodyHash": "0a065c12a50072a5",
+  "content": "\n\n<p><img src=\"https://media.forgecdn.net/attachments/491/556/logo_xycraft_world.png\"></p>\n<p>世界生成與礦石現已推出！整個世界中充滿了等待揭開的謎團，其中之一便是發光的 Xychorium！</p>\n<p>&nbsp;</p>\n<p><strong>摘要：</strong></p>\n<p>XyCraft World 是大多數模組的必要組件。雖然這項功能原本很可能會打包進 Core 中，但經過討論後，決定提供給外部開發者使用的工具，同時不強制包含世界生成部分。正因如此，我們將其獨立出來。所有與世界生成或探索相關的內容都將放在此模組中。</p>\n<p>&nbsp;</p>\n<p><strong>功能特色：</strong></p>\n<ul>\n<li>為所有 <em>XyCraft</em> 模組提供世界生成</li>\n<li>提供帶有正確標籤的材料，如 Xychorium 和鋁</li>\n<li>加入使用標誌性 <em>XyCraft</em> 雲朵與發光效果的裝飾方塊</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>未來規劃：</strong></p>\n<ul>\n<li>概念上類似《幸福工廠》的礦脈節點。</li>\n<li>為玩家提供更多探索獎勵</li>\n<li>遊戲內指引，說明材料的尋找位置及用途。</li>\n<li>新增食物／植物類物品，如玉米和番茄。</li>\n<li>可能新增維度，但若確定會實作，目前也不在開發路線圖中。</li>\n<li>開採礦石時掉落經驗值。</li>\n<li>增加更多方塊變體與選項。</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "gS7XsIpcIFQ=",
-  "content": "## 資訊\n\n當你的盾牌處於冷卻（禁用）狀態時，盾牌會變成紅色，並逐漸恢復正常顏色。你不需要安裝任何模組，這在原生 1.21.4 及以上版本中即可運作。\\\n注意：此效果僅適用於你自身，無法看到其他人的冷卻狀態。\n\n## 展示\n\n![盾牌禁用後呈現紅色](https://cdn.modrinth.com/data/oRTeQDkt/images/4fa426473db0c29c6ee676d52d4108b62b079706.png)\n\n![盾牌禁用後稍帶紅色的狀態](https://cdn.modrinth.com/data/oRTeQDkt/images/9638cdb3b4e127c563eccceda4772c091bc6ee0e.png)\n\n[![Sparked host 贊助](https://cdn.modrinth.com/data/cached_images/3fdc990911fad7d2e86556421b70f72ab56ab3a6_0.webp)](https://billing.sparkedhost.com/aff.php?aff=3158)",
+  "bodyHash": "ec5414c0bd841e97",
+  "content": "\n\n## 資訊\n當你的盾牌處於冷卻時間（無法使用）時，盾牌會變成紅色，並逐漸恢復正常。你不需要安裝任何模組即可使用此功能，它適用於原版 1.21.4 及更高版本。\\\n注意：此功能僅對你自己生效，你無法看到其他人的冷卻狀態。\n\n## 展示\n![禁用後的紅色盾牌](https://cdn.modrinth.com/data/oRTeQDkt/images/4fa426473db0c29c6ee676d52d4108b62b079706.png)\n\n![剛禁用後泛紅的盾牌](https://cdn.modrinth.com/data/oRTeQDkt/images/9638cdb3b4e127c563eccceda4772c091bc6ee0e.png)\n\n[![Sparked Host 贊助商](https://cdn.modrinth.com/data/cached_images/3fdc990911fad7d2e86556421b70f72ab56ab3a6_0.webp)](https://billing.sparkedhost.com/aff.php?aff=3158)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

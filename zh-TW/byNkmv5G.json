@@ -1,6 +1,6 @@
 {
-  "bodyHash": "zCGZ4ZYG2RM=",
-  "content": "SkyHanni 是一款 Fabric 模組，為 Hypixel SkyBlock 提供了許多功能。該模組以其獨特的農田覆蓋層而聞名。\n\n# 功能特色\n- Diana\n  - 路徑點估算 + 審判者分享\n- 農田\n  - 作物里程碑顯示\n  - 下一個作物里程碑的預計時間\n  - 訪客所需物品及價格，懸停並點擊可開啟市集\n  - 所有作物的每小時收入計算\n    - 使用當前每秒方塊數\n    - 使用真實農場財富值\n- 傷害指示器\n- Bingo\n  - 目標指南\n  - 帶有部分進度顯示的步驟助手\n  - 用於僕從的合成助手\n- [以及更多功能](https://github.com/hannibal002/SkyHanni/blob/beta/docs/FEATURES.md)\n\n## 外部請求\n\nSkyHanni 會向第三方 API 發送一些外部請求，以啟用某些功能：\n - **頂尖排行榜**：啟用後，會將您的玩家 UUID 和 SkyBlock 設定檔 UUID 發送到 [api.eliteskyblock.com](<https://api.eliteskyblock.com>)\n - **Jacob 競賽與豐收盛宴分享**：選擇啟用後，會將包含即將到來的 Jacob 競賽作物或豐收盛宴作物的純 JSON 資料發送到 [api.eliteskyblock.com](<https://api.eliteskyblock.com>)\n\n使用 SkyHanni 時，絕不會將任何敏感或私人資料發送給第三方。",
+  "bodyHash": "317fc5c43fd0a4d9",
+  "content": "\n\nSkyHanni 提供 Fabric 模組版本。它為 Hypixel SkyBlock 帶來了眾多實用功能。\n此模組以其獨特的花園介面覆蓋層而聞名。\n\n# 功能特色\n- Diana\n  - 路徑點預估值 + 審判官共享\n- 花園\n  - 作物里程碑顯示\n  - 下一個作物里程碑的預計耗時\n  - 訪客所需物品及價格，懸停並點擊即可開啟集市\n  - 所有作物的每小時收益計算\n    - 基於目前每秒耕作速度\n    - 基於真實耕種幸運值\n- 傷害提示\n- Bingo 活動\n  - 目標指南\n  - 步驟輔助工具（含部分進度顯示）\n  - 僕從合成輔助\n- [還有更多功能](https://github.com/hannibal002/SkyHanni/blob/beta/docs/FEATURES.md)\n\n## 外部請求\n\nSkyHanni 會向第三方 API 發出部分外部請求，以啟用特定功能：\n - **Elite 排行榜**：啟用後，會將包含您玩家 UUID 與 SkyBlock 檔案 UUID 的請求傳送至 [api.eliteskyblock.com](<https://api.eliteskyblock.com>)\n - **Jacob 競賽與豐收盛宴分享**：當您**選擇加入**時，會將包含即將到來的 Jacob 競賽作物或豐收盛宴作物的純 JSON 資料傳送至 [api.eliteskyblock.com](<https://api.eliteskyblock.com>)\n\n使用 SkyHanni 期間，絕不會向第三方傳輸任何敏感或個人資料。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

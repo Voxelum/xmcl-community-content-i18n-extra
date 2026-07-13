@@ -1,0 +1,6 @@
+{
+  "bodyHash": "507c09fa37b99c43",
+  "content": "\n\nBreak Progress HUD 是一款輕量級的客戶端模組，會在準心下方平滑顯示方塊破壞進度百分比。\n\n功能：\n- 流暢且不受幀率（FPS）影響的動畫\n- 進度條顏色編碼（紅 → 黃 → 綠）\n- 支援徒手與工具破壞\n- 可自訂顯示位置與顏色\n- 專為搭配 Jade 設計（避免進度條重複顯示）\n\nMinecraft 1.20.1\nForge",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

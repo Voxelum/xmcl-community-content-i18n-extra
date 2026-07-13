@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2715528fbde88517",
+  "content": "\n\nОбновлённый форк [Trinkets Canary](https://modrinth.com/mod/trinkets-canary).\n\nДля версий 26.1 и выше вместо него следует использовать [Trinkets (Updated)](https://modrinth.com/mod/trinkets-updated).\n\nЭтот форк был создан, поскольку репозиторий Trinkets Canary на GitHub стал неактивным, а критические ошибки так и не были исправлены. Он полностью заменяет Trinkets Canary как для пользователей, устанавливающих моды, так и для разработчиков, использующих trinkets в качестве зависимости.\n\n**Добавление в проект**\n\n`build.gradle`\n```\nrepositories {\n    exclusiveContent {\n\t\tforRepository {\n\t\t\tmaven {\n\t\t\t\tname = \"Modrinth\"\n\t\t\t\turl = \"https://api.modrinth.com/maven\"\n\t\t\t}\n\t\t}\n\t\tfilter {\n\t\t\tincludeGroup \"maven.modrinth\"\n\t\t}\n\t}\n}\n\ndependencies {\n\tmodImplementation \"maven.modrinth:trinkets-continued:${project.trinkets_version}\"\n}\n```\n`gradle.properties`\n```\ntrinkets_version=3.12.0-26.1 # убедитесь, что используете правильную версию\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

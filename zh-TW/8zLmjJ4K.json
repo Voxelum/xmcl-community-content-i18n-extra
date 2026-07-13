@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5032672c1fcb2795",
+  "content": "## 通过在锻造台将石质工具与铁锭合成，使石质工具升级为铁质工具\n\n### 注意：\n此数据包添加了配方。移除此数据包会导致控制台中出现关于缺失配方的警告。这不会对您的世界或存档信息造成危险。\n\n### 使用模组版本时的安装信息：\n这些功能与数据包相同，但会应用于所有在此模组开启状态下创建/启用的世界。如果您不希望此功能应用于所有世界，请使用数据包。\n\n**Forge**：\n<br>无需依赖项，只需将模组放入 mods 文件夹即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur 包\nPurpur 包是那些建议添加到 Purpur 中——或者符合 Purpur 主题——但最终决定更适合作为数据包的功能！\n<br>这些数据包的功能类似于 Purpur 中的单个配置设置。它们可以随时添加和移除，而不会损坏服务器。\n<br>它们在原版 Minecraft 中也能工作，您不需要运行 Purpur 服务器软件即可使用这些数据包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

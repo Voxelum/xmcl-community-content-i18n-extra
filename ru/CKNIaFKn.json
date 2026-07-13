@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4KLRzI17rgc=",
-  "content": "# АВТОР CREATE RAILWAYS ИСПРАВИЛ ЭТУ ОШИБКУ НАТУРАЛЬНЫМ ОБРАЗОМ. ЭТО БОЛЬШЕ НЕ ТРЕБУЕТСЯ.\n\n\n**Если у вас возникают сбои при правом клике на расширенную панель отображения из навигатора Create Railways, этот мод, скорее всего, их исправит.**\n\nЯ создал этот мод примерно за 4 часа, чтобы исправить ошибку, при которой «открытие экрана настроек showAdvancedDisplaySettingsScreen через onWrenched вызывает NullPointerException в owo-lib, поскольку MenuAccess.getMenu() возвращает null во время инициализации экрана».",
+  "bodyHash": "13c893fdf11bfe61",
+  "content": "\n\n# РАЗРАБОТЧИК CREATE RAILWAYS УЖЕ ИСПРАВИЛ ЭТУ ОШИБКУ НАТИВНО. ЭТОТ МОД БОЛЬШЕ НЕ ТРЕБУЕТСЯ.\n\n\n**Если у вас возникают вылеты при правом клике по расширенной панели отображения из мода Create Railways Navigator, этот мод, скорее всего, исправит проблему.**\n\nЯ сделал этот мод буквально за 4 часа, чтобы исправить ошибку, при которой «открытие showAdvancedDisplaySettingsScreen через onWrenched вызывает NullPointerException в owo-lib, поскольку MenuAccess.getMenu() возвращает null на этапе инициализации экрана».",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

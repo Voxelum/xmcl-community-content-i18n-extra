@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fa21fad4b89c460e",
+  "content": "\n\n## DirTNT\n\n一款適用於 Fabric 的 Minecraft 模組，內建泥土炸彈，滿足您所有填坑需求。  \n現在還新增了沙塊、礫石與石頭炸彈，並且可透過設定檔將炸彈對應至遊戲中的幾乎任何方塊！\n\n若要進行後者設定，請參閱 \\`dirtnt.json\\` 設定檔（遊戲啟動時會自動產生）。  \n若您想進行測試實驗，還有一個 \\`enableAll\\` 除錯選項可供使用。  \n\n- 適用於 Fabric Minecraft 1.16 及以上版本，需搭配 Fabric API\n- 1.4 之前的版本需安裝 [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) 或 [BRRP](https://modrinth.com/mod/brrp)（擇一即可）\n- 1.4 版本需搭配 [BRRP](https://modrinth.com/mod/brrp)（因 BRRP 存在相容性問題，Fabric API 需使用 **低於** 0.116.4 的版本），而  \n  自 1.5 版本起已無需上述任何套件！\n- 伺服器與客戶端皆須安裝\n- 伺服器與客戶端的設定檔必須完全一致\n\n### 影片示範：  \n[![縮圖](https://img.youtube.com/vi/Kw3FTI6X-hs/0.jpg)](https://www.youtube.com/watch?v=Kw3FTI6X-hs \"點擊觀看\")\n\n![被泥土包圍的炸彈會生成泥土炸彈](https://raw.githubusercontent.com/Fourmisain/DirTNT/1.17/recipe.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

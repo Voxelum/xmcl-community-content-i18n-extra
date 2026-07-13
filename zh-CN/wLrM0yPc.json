@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc7598cb15d2ea8b",
+  "content": "\n\n## 关于\n允许在所有已加载/生成的区块中进行大规模过滤物品搜索。  \n检查（可能）所有“存储”方块实体和实体中的物品。  \n**在服务器端运行。** 安装到客户端以启用部分实用的按键绑定。  \n使用 [YetAnotherConfigLib](https://modrinth.com/mod/yacl) 进行配置。  \n\n## 用法  \n完整信息请参阅 [README](https://github.com/Vladomeme/itemfinder/blob/master/README.md)。  \n  \n`/finditem id <id>` - 搜索具有精确 ID 的物品。  \n  \n`/finditem name <name>` - 搜索在默认（或自定义，若存在）名称中包含 `<name>` 字符串的物品。  \n  \n`/finditem data <data>` - 搜索在其 NBT/数据组件中包含 `<data>` 字符串的物品。  \n\n`/finditem loot_table <loot_table>` - 搜索拥有该战利品表的可拾取方块实体。  \n特殊参数：`any`、`none`、`none_empty`。  \n  \n### 搜索模式\n**普通**模式仅检查当前已加载的区块与实体，运行即时完成。  \n  \n**全局**模式可通过在命令中添加 `global` 来激活：`/finditem <search_type> <argument> global`  \n搜索当前维度内所有已生成的区块，可能需要几秒钟。\n\n### 其他说明\n* 你可以按下按键绑定（默认为 `N`）按顺序传送至搜索结果位置。\n* 模组提供了按键绑定，可使用当前手持物品执行普通/全局物品搜索（默认未设置）。\n* 将鼠标悬停在搜索结果中的方块实体/实体名称上，可查看匹配搜索条件的物品堆叠/战利品表。\n* 模组将对容器内发现的潜影盒和收纳袋进行嵌套搜索。\n* 请查看配置文件！里面包含一些实用选项。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

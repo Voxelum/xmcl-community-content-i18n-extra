@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cb90e29086783123",
+  "content": "\n\n![关于](https://i.imgur.com/nMG1TNv.png)\n\n专为搭配 [Ashen 16x](https://modrinth.com/resourcepack/ashen/) 使用而设计，此字体包用全新从零绘制的衬线体替换了原版全套字体。该字体最初作为 Ashen 16x 的核心功能包含在内，但我已将其拆分为独立的附加包，供不想配合 Ashen 使用的玩家，或希望将该字体与其他无关资源包搭配使用的玩家获取。\n\n与许多自定义字体包不同，Ashen 的自定义字体提供了一套*完整*的字体家族，这意味着它**不仅限于**标准拉丁字母表。只要能在原版 Minecraft 中输入的内容，都能用此字体显示！这包括灾厄村民（Illager）和标准银河（附魔台）字母表。不过也存在一些例外情况——当原版会插入 Unicode 字符（例如天城文）时，Ashen *不会*覆盖这些 Unicode 字符。\n___\n![兼容性](https://i.imgur.com/MwVLhEd.png)\n\n只要将此包放置在你使用的其他任何包的*上方*，它就能开箱即用地兼容所有其他资源包。不过，我尚未测试过通过 .ttf 文件等方式添加字体的资源包，因此实际效果可能因包而异。 \n\n尽管兼容任意资源包，我仍需重申：这款字体是专门为我的中世纪奇幻风格资源包 [Ashen 16x](https://modrinth.com/resourcepack/ashen/) 量身定制的！\n___\n对资源包有疑问？遇到了损坏或未按预期运行的问题？或是你语言字母表中的某个字符看起来*非常不对劲*？欢迎加入我们的 Discord 服务器：https://discord.gg/k5pDjKbhdh\n___\n\n[![Bisect 横幅](https://www.bisecthosting.com/partners/custom-banners/3c357293-8dfb-410a-a5e3-0d778833e154.webp)](https://bisecthosting.com/aim-boot)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

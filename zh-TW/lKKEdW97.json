@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13be1f2cbba15ebf",
+  "content": "\n\n將 Create 機械自動化與 Refined Storage 2 串接。\n\nStockBridge 新增了一個網路介面方塊，可連線至你的 Refined Storage 網路，並將其轉換為標準儲存空間。Create 的倉庫、漏斗、皮帶與機械臂可直接插入或抽取物品——無需使用箱子作為緩衝區。\n\n運作方式\n\n製作並放置一個網路介面方塊\n\n在任意側面連接 RS 電纜\n\n安裝 Create 自動化設備（倉庫、漏斗、機械臂等）\n\n物品會自動在你的 RS 網路與 Create 機械裝置之間流通\n\n功能特色\n\n單一即可橋接 RS 與 Create\n\n相容所有使用標準物品處理器的模組（如漏斗、管線等）\n\n可在設定檔中自訂能耗（FE/t）\n\nJade 浮動提示可顯示網路狀態（選配）\n\n內建 JEI 合成配方\n\n版本資訊\n\nMinecraft 1.21.1\n\nNeoForge\n\nRefined Storage 2.0.0+（必要）\n\n選用但建議安裝：Create、Jade、JEI\n\n若發現任何問題或有改進想法，歡迎隨時留言！\n\n亦可於 CurseForge 下載：https://www.curseforge.com/minecraft/mc-mods/stockbridge-refinedstrotage-create/files",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

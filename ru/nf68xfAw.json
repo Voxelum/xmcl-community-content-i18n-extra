@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+4HyWAlr4zM=",
-  "content": "Sparkweave — это библиотека модов для совместного использования кода и функциональности между всеми моими модами.\n\n---\n⚠ ЭТО БИБЛИОТЕКА; ОНА НЕ ДЕЛАЕТ НИЧЕГО САМОСТОЯТЕЛЬНО ⚠\n---\n\n### Текущие возможности:\n\n- помощники по регистрации\n- утилиты для графического интерфейса\n- аннотации контекста пакета\n- автоматическая загрузка переменных среды из файла `.env`\n##### также см. [пакет api](https://github.com/Up-Mods/Sparkweave/tree/HEAD/Common/src/main/java/dev/upcraft/sparkweave/api)\n\n[![Спонсорство KineticHosting. Вы можете поддержать меня, заказав игровой сервер по этой ссылке](https://cdn.modrinth.com/data/cached_images/5f38256edd5ee724784ff43b09ec1c0d4e01b861_0.webp)](https://billing.kinetichosting.com/aff.php?aff=1248)",
+  "bodyHash": "5aaeb2246fdcb617",
+  "content": "\n\nSparkweave — это библиотека для моддинга, позволяющая делиться кодом и функциональностью между всеми модами.\n\n---\n⚠ ЭТО БИБЛИОТЕКА; ОНА НЕ ВЫПОЛНЯЕТ НИЧЕГО САМА ПО СЕБЕ ⚠\n---\n\n### Текущие возможности:\n\n- утилиты регистрации\n- инструменты для графического интерфейса (GUI)\n- аннотации контекста пакета\n- автоматическая загрузка переменных окружения из файла `.env`\n##### также см. [пакет API](https://github.com/Up-Mods/Sparkweave/tree/HEAD/Common/src/main/java/dev/upcraft/sparkweave/api)\n\n[![Спонсорство KineticHosting. Вы можете поддержать меня, заказывая игровой сервер по этой ссылке](https://cdn.modrinth.com/data/cached_images/5f38256edd5ee724784ff43b09ec1c0d4e01b861_0.webp)](https://billing.kinetichosting.com/aff.php?aff=1248)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

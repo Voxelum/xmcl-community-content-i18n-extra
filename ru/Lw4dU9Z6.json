@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ee351dd0e1c88440",
+  "content": "\n\nЛёгкий мод только для серверной части, обеспечивающий общие скидки жителей для всех игроков на сервере. Альтернативный [datapack](https://modrinth.com/datapack/our-villager-discounts-datapack) не требует обновления с каждым новым релизом Minecraft.\n\n### Зачем?\n\n* Существует [открытая проблема с версии 1.14.2](https://bugs.mojang.com/browse/MC-153392), которая не позволяет реализовать это через обычный datapack, работающий с NBT-данными жителей.\n* Игроки могут совместно использовать один торговый зал, чтобы снизить нагрузку на сервер.\n* Игроки могут делиться результатами сложного процесса лечения жителей.\n\n### Особые инструкции для Fabric\n\nДля работы требуется наличие как [Fabric API](https://modrinth.com/mod/fabric-api), так и [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

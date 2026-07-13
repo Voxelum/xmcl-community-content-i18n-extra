@@ -1,0 +1,6 @@
+{
+  "bodyHash": "343055cb022fbfac",
+  "content": "\n\n# Набор патчей Polymer\nЭто патч для [blockus](https://modrinth.com/mod/blockus), [cinderscapes](https://modrinth.com/mod/cinderscapes), [terrestria](https://modrinth.com/mod/terrestria), [traverse](https://modrinth.com/mod/traverse) и [woods_and_mires](https://github.com/KiloCraft/WoodsAndMires), позволяющий им полностью работать на стороне сервера с сохранением всего функционала.\n\nОригинальные моды обязательны к установке *(этот мод будет патчить только установленные моды)* и не включены в состав данного мода.\n\nДля работы этого мода требуется серверный ресурспак, о настройке которого вы можете прочитать здесь: https://polymer.pb4.eu/latest/user/resource-pack-hosting/\n\n## Лицензия\n\nЭтот мод частично основан на коде из [enderscape-patch](https://github.com/PolymerPorts/enderscape-patch), который распространяется под лицензией [GNU Lesser General Public License v3.0](https://github.com/PolymerPorts/enderscape-patch/blob/master/LICENSE).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

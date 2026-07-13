@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eba54b7c1805361f",
+  "content": "\n\n# CalcBar\n[<img alt=\"modrinth\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg\">](https://modrinth.com/mod/calcbar)\n[<img alt=\"curseforge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg\">](https://www.curseforge.com/minecraft/mc-mods/calcbar)\n\n![видео калькулятора](https://cdn.modrinth.com/data/cached_images/b6f0b728ac9686148662c677cbc1719c70896069.gif)\n\n## Возможности\n- Поддерживает базовые математические операции: +, -, *, /, ^, скобки и другие\n- Константы для распространённых расчётов в Minecraft: <br>\n  s = 1 стек = 64<br>\n  hs = половина стека = 32<br>\n  qs = четверть стека = 16\n- Поддерживает функции SIN, COS, TAN, SQRT\n- Результаты обновляются по мере ввода",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "664aeda5dcac1670",
+  "content": "\n\n# Заменитель шкалы выносливости для парашютирования\n\nНадстройка для [мода Tictim's Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders), заменяющая стандартный круговой индикатор выносливости на полоску интерфейса в стиле оригинальной игры.\n\n## Особенности\n\n- Убирает круговое колесо выносливости из оригинального мода\n- Добавляет настраиваемую горизонтальную полоску выносливости, похожую на оригинальную полоску здоровья\n- Поддерживает перетаскивание и настройку положения внутри игры для удобства\n- Корректно учитывает изменение размера окна и масштаб интерфейса\n\n## Требования\n\n- Minecraft 1.20.1\n- Forge 47.4.13\n- [Мод Tictim's Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders)\n\n## Установка\n\n1. Убедитесь, что мод Tictim's Paragliders установлен.\n2. Поместите файл `.jar` мода `Paraglider Stamina Replacer` в папку `mods`.\n3. Запустите Minecraft через Forge.\n\n## Благодарности\n\nБольшое спасибо Tictim за мод Paragliders и продуманную систему выносливости\n\n## Лицензия\n\nЭтот мод распространяется по лицензии [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) в связи с зависимостью от Paragliders, который также имеет лицензию GPL.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

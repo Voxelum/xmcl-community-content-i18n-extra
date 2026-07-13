@@ -1,0 +1,6 @@
+{
+  "bodyHash": "26ef65a88453d273",
+  "content": "\n\n<p style=\"text-align:center\"><span style=\"color:#e03e2d\"><strong>此模組已停止支援 Forge，並將持續在 Fabric 1.21.1+ 上進行開發</strong></span></p>\n<p style=\"text-align:center\"><strong>為防止所有模組配方失效，最新版本已移除配方禁用功能。Forge 版本將不再推出任何修復或新功能。</strong></p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p><strong>VMinus</strong> 是一款可透過簡單的 JSON 檔案來編輯、移除及替換物品、方塊、實體等（含原版與模組內容）的模組。它採用資料驅動方式實作，屬業界首創；若您不熟悉資料包（datapack），也可選擇使用設定檔驅動。此外，VMinus 允許在這些 JSON 檔案中進行全域、標籤化及條件式的修改，以動態地一次調整多項功能。</p>\n<p><strong>主要功能</strong></p>\n<ul>\n<li>修改各種物品的多項屬性，例如堆疊數量、耐久度、食物屬性、數值、稀有度、提示資訊等。</li>\n<li>修改各種方塊的多項屬性，例如方塊音效、破壞時間、爆炸抗性、光照等級、滑溜度等。</li>\n<li>修改實體數值及其他進階屬性（實體屬性修改功能將持續擴充）。</li>\n<li>編輯所有原版附魔的所有屬性。</li>\n<li>可為大多數原版生物新增變體。</li>\n<li>移除並替換世界中存在的物品、基礎合成配方、創意模式選單／JEI 以及基礎戰利品表中的物品。</li>\n<li>在所有世界生成與放置邏輯中移除並替換方塊。</li>\n<li>阻止實體生成並將其從 /summon 指令中移除。</li>\n<li>移除任何附魔。</li>\n<li>新增多項指令，例如 heal（治療）、fire（點火）、freeze（凍結）與 durability（耐久度）。</li>\n<li>提供多種可使用的全新屬性，例如暴擊傷害、採掘速度、魔法防護等。</li>\n</ul>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

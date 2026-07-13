@@ -1,6 +1,6 @@
 {
-  "bodyHash": "sYjdBqu7C9s=",
-  "content": "# 免責聲明\n這**不是** Create 模組的附加元件，此模組不依賴於它。它僅修復了 https://bugs.mojang.com/browse/MC-185901 。此模組是為了解決玩家攜帶並渲染大型裝置時所產生的問題而創建的，因此取名為「Create:」，但它並非 Create 模組的附加元件。\n\n# 資訊\n這是一個僅限用戶端的模組。它能讓玩家資料大小從原版的 2MB 提升至 10MB。\n\n沒有此模組時會出現的錯誤：\n <img src=\"https://cdn.modrinth.com/data/jv0UKGOX/images/fd9a41a45608bb27e946261d76cb0353d4b8a630.png\" width=\"1000\" />\n\n# 感謝\nXLPackets 1.16，我從該版本的 XLPackets 移植了這項功能。與 XLPackets 不同，此模組僅限用戶端使用。",
+  "bodyHash": "117e2cabb4649008",
+  "content": "\n\n# 免責聲明\n本模組並非 Create 的附加模組，且不依賴該模組。它僅修復了 https://bugs.mojang.com/browse/MC-185901 。此模組專門為解決玩家攜帶與渲染大型機械構造的效能問題而設計，因此取名為「Create:」，但它並非 Create 的模組附加內容。\n\n# 資訊\n這是一款僅限客戶端的模組。它將玩家數據的上限從原版的 2MB 提升至 10MB。\n\n未安裝此模組時的錯誤：\n <img src=\"https://cdn.modrinth.com/data/jv0UKGOX/images/fd9a41a45608bb27e946261d76cb0353d4b8a630.png\" width=\"1000\" />\n\n# 致謝\nXLPackets 1.16：我從該版本的 XLPackets 移植了這項功能。與 XLPackets 不同，此模組僅限客戶端使用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

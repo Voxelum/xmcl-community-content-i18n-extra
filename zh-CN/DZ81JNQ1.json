@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31145ee3b550b7e0",
+  "content": "\n\n# 音频引擎调整\n\n---\n\n## 更新内容\n自 **v1.2.7** 版本起，您现在可以**独立于原版音量滑块**调整每个音效的**音量**。\n\n![Sound List Menu](https://cdn.modrinth.com/data/cached_images/2040acf776a796a14fa8ff2eb3ed7d7136946f81_0.webp)\n---\n\n## 概述\n本模组更改了 Minecraft 调度音效的方式，以防止音效池满溢，或至少减轻音效池满溢带来的影响。\n\n### 简明摘要\n它修复了以下常见错误（以及相关的日志刷屏问题）：\n```\n[Render thread/WARN]: Failed to create new sound handle\n[Sound engine/WARN]: Maximum sound pool size 247 reached\n```\n\n若无此模组，音效池满溢会导致所有游戏内音频停止播放，直到有空闲槽位释放为止。\n\n---\n\n## 工作原理\n\n- 每个游戏刻，音效会按类型**收集并分类**。  \n  - **类别数值越低 = 优先级越高**。  \n  - 同类别内，音效按**与玩家的距离**排序。\n\n- 根据**音效池的填充程度**，仅允许特定类型的音效播放。其他类型将被跳过。  \n  - 若音效池意外完全填满（在合理阈值下不应发生），新音效将直接被跳过。\n\n- **重复检查**：  \n  - 同一坐标（1个方块）内仅允许有限数量的相同音效同时播放。  \n  - 超出限制的重复音效将被跳过。\n\n- **MASTER（主音量）**和**MUSIC（音乐）**音效可绕过队列和重复检查（这对主菜单或服务器冻结时的 GUI 事件非常重要）。  \n  - 它们仍受填充程度阈值的限制。  \n  - 其他类别若请求立即播放，则会延迟至下一个游戏刻执行。\n\n- 所有参数均可通过 **ModMenu** 或直接编辑配置文件进行自定义。\n\n---\n\n## 默认设置\n```yaml\nMASTER    : 类别 0，始终允许\nVOICE     : 类别 0，始终允许\nPLAYERS   : 类别 1，上限 95%\nHOSTILE   : 类别 2，上限 90%\nBLOCKS    : 类别 3，上限 80%\nMUSIC     : 类别 4，上限 70%\nRECORDS   : 类别 4，上限 70%\nNEUTRAL   : 类别 5，上限 60%\nWEATHER   : 类别 6，上限 50%\nAMBIENT   : 类别 6，上限 50%\n\nmaxDuplicatedSounds: 5\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

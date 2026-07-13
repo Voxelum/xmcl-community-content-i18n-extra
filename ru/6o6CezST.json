@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b130afb3da8813c",
+  "content": "\n\n## Уровень = Граница\n\nКроссплатформенный мод для популярного проекта Minecraft, в котором граница всегда имеет радиус, равный текущему уровню опыта игрока.\n\n[![](https://img.youtube.com/vi/Mu67I1qxYL8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Mu67I1qxYL8)\n\n### Настройка\n\nИспользуйте команду ```/levelborder``` для настройки мода в игре.\n\nЦентр границы совпадает с точкой спавна мира. Чтобы изменить её, используйте ```/setworldspawn``` и перезаайдите в игру один раз.\n\n### Поддерживаемые загрузчики модов\n\n- Fabric или Quilt\n- Neoforge\n- Paper\n\n### Скачать\n\nLevel = Border можно скачать [здесь на **Modrinth**](https://modrinth.com/mod/lvlb/versions) или [здесь на **CurseForge**](https://www.curseforge.com/minecraft/mc-mods/lvlb/files/all).\n\n### Форк\nЭтот проект является форком https://github.com/jakobkmar/level-border.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

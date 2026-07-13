@@ -1,6 +1,6 @@
 {
-  "bodyHash": "l/Sg8QOSekQ=",
-  "content": "<a href='https://ko-fi.com/X8X71FI3YO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/SQ5ZLKg5/support-me-on-kofi-beige.png' border='0' alt='Купи мне кофе на ko-fi.com' /></a>\n\n## Описание\n\nМод, скрывающий рамки, если они содержат предмет. Это решение позволяет улучшить интерьер и видеть рамки даже тогда, когда они пусты.\n\n![превью](https://cdn.modrinth.com/data/cached_images/c17170bbc8e2d4c8b0d1ddf1f9013b59cd5cf609.png)\n\n## Использование\n\nЧтобы снова увидеть все рамки, даже те, которые содержат предмет, можно нажать кнопку H (по умолчанию). Состояние рамок сохраняется в конфигурационном файле ```hide_item_frame.json```",
+  "bodyHash": "593a6dea8fdc73fe",
+  "content": "\n\n<a href='https://ko-fi.com/X8X71FI3YO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/SQ5ZLKg5/support-me-on-kofi-beige.png' border='0' alt='Купить мне кофе на ko-fi.com' /></a>\n\n## Описание\n\nМод, который скрывает рамки, если в них содержится предмет. Это решение позволяет сделать интерьер более аккуратным и видеть рамки только тогда, когда они пусты.\n\n![preview](https://cdn.modrinth.com/data/cached_images/c17170bbc8e2d4c8b0d1ddf1f9013b59cd5cf609.png)\n\n## Использование\n\nЧтобы снова отобразить все рамки, включая те, что содержат предметы, нажмите клавишу H (по умолчанию). Состояние отображения рамок сохраняется в конфигурационном файле ```hide_item_frame.json```",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

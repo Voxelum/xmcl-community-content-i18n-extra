@@ -1,0 +1,6 @@
+{
+  "bodyHash": "200326c824a1e7c8",
+  "content": "\n\n<p><strong>漫游宠物（更新版）</strong>是原版<a href=\"https://www.curseforge.com/minecraft/mc-mods/wandering-pets\" target=\"_blank\" rel=\"nofollow\">Minecraft 1.16 Forge 模组</a>的分支版本，已重新开发以适配<strong>Minecraft 1.21+ NeoForge</strong>和<strong>Fabric</strong>，并包含了一些优化与修复。</p>\n<p>这是一个非常简单的模组，允许玩家在<strong>跟随</strong>和<strong>漫游</strong>（未驯服时的状态）之间切换可驯服生物的行为，使它们在不跟随玩家时不会一直坐着。使用方法很简单：确保生物处于站立状态，对其<strong>Shift+右键点击</strong>即可开始漫游。</p>\n<p>对于猫而言，由于它们也会坐在物体上睡觉，因此对其行为进行了调整，使其在漫游与偶尔坐下或睡觉之间交替。你可以在配置文件中关闭此功能，但这会导致猫变得异常嗜睡。</p>\n<h2>功能特性</h2>\n<ul>\n<li>修复了错误，增强了兼容性，并已为 NeoForge 和 Fabric 1.21+ 重新实现。</li>\n<li>支持 Shift+右键点击在跟随与漫游状态间切换</li>\n<li>优化了猫的行为：猫会在坐下、睡觉和漫游之间交替</li>\n<li>模组兼容：自动扩展支持使用原版行为逻辑（如 FollowOwnerGoal）的模组生物</li>\n</ul>\n<h2>配置文件</h2>\n<ul>\n<li>编辑 <code>config</code> 文件夹中的 <code>wanderingpets-common.toml</code> 以调整模组设置</li>\n<li>模组将在游戏加载时自动搜索可能兼容的模组添加实体</li>\n</ul>\n<h2>更新日志</h2>\n<ul>\n<li>1.0 - 初始发布&nbsp;</li>\n<li>1.1 - 精简并增强了对模组添加的可驯服生物的兼容性。（支持 Friends &amp; Foes、Tameable Foxes 等）</li>\n<li>1.2 - 添加了白名单功能，用于控制是否对模组生物启用该行为。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

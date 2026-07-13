@@ -1,6 +1,6 @@
 {
-  "bodyHash": "B74IBd9bejM=",
-  "content": "這個模組允許玩家互相餵食。\n\n如果食物在finishUsingItem方法中返回物品（例如蘑菇湯的碗），餵食者將會取回它。\n\n被餵食所需的飢餓值閾值以及食物黑名單是可配置的。\n![餵食](https://cdn.modrinth.com/data/cached_images/ecbf8c630de28ffd66f4dd784557a1e843b793d9.png)",
+  "bodyHash": "1545e6e7ec40b1f1",
+  "content": "\n\n此模組允許玩家互相餵食。\n\n如果食物在 finishUsingItem 方法中返回物品（例如蘑菇燉湯的碗），餵食者將收回該物品。\n\n被餵食所需的飢餓閾值與食物黑名單皆可自訂。\n![餵食](https://cdn.modrinth.com/data/cached_images/ecbf8c630de28ffd66f4dd784557a1e843b793d9.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

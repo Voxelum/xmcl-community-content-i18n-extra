@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4bac393dbd8489b2",
+  "content": "\n\n# --概述與使用方法--  \n**本整合包旨在讓追捕模式更加有趣且易於上手。內建多種效能優化模組，確保遊戲運行流暢。此整合包搭配 [The Heartstone Mod](https://modrinth.com/mod/heartstone 'The Heartstone Mod') 與 [The Starterkit Mod](https://https://modrinth.com/mod/starter-kit 'The Starterkit Mod') 使用，所有玩家出生時都會自動獲得一顆心石。接著，獵人將心石交給速通玩家，速通玩家再將心石歸還給獵人。這樣追捕即可開始！若為伺服器架設，請務必確保設定檔與整合包內附的保持一致。此外，整合包內建 e4mc，讓你無需自行架設伺服器即可與朋友一同遊玩追捕模式。**\n# --模組列表--  \n**共包含 26 個模組。**  \n<details>\n<summary>追捕模式專用模組</summary>\n\n**Axes Are Weapons**    \n**Cosmetic Armor**  \n**Custom Crosshair Mod**  \n**Detail Armor Bar**   \n**Durability Viewer**  \n**Freelook**  \n**Heartstone**  \n**Starter kit**  \n**Universal Graves**  \n**e4mc**  \n**Zoomify**  \n\n</details>\n<details>\n<summary>效能優化模組</summary>\n\n**Concurrent Chunk Management Engine**  \n**FPS Display**  \n**FastAnim**  \n**FerriteCore**  \n**Lithium**  \n**Server Core**  \n**Sodium**  \n**Starlight**  \n\n</details>\n<details>\n<summary>其他模組</summary>\n\n**Cloth Config Api**  \n**Collective**  \n**Fabric Api**  \n**Fabric language kotlin**  \n**Moonlight lib**  \n**Trinkets**  \n**YetAnotherConfigLIb**  \n\n</details>\n\n# --效能表現--\n**整合包效能表現相當不錯。在我的老舊電腦上，僅分配 2GB 記憶體即可達到 200+ FPS。（截圖已於圖庫中展示）**\n\n# --支援與反饋--    \n**若在使用整合包時遇到任何問題或疑問，歡迎在 Discord 上私訊我（ID：legoaggelos）**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

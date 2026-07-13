@@ -1,0 +1,6 @@
+{
+  "bodyHash": "83114f9da2726674",
+  "content": "\n\n<p>有人試圖炸毀你的基地？<strong>驚喜！</strong> 🎆 <strong>TNT to Rocket</strong> 會將主世界中所有被點燃的 TNT 全部轉換為隨機煙火。</p>\n<p>這是一款伺服器端的 Fabric 模組，透過鉤取實體生成生命週期來攔截主世界的炸藥實體（TntEntity），並將其替換為具備隨機爆炸參數（形狀、顏色、漸層、軌跡、閃爍）與飛行持續時間的煙火火箭實體（FireworkRocketEntity）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

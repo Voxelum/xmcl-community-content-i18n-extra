@@ -1,0 +1,6 @@
+{
+  "bodyHash": "06690a78bc87fdc4",
+  "content": "\n\n<p style=\"text-align:center\">原料重疊的配方會引發不少問題，特別是在 Create 模組及其外掛中，若你的工廠選錯配方，可能會導致完全混亂。當多個配方擁有相同輸入時，系統只會選擇一個主導配方，這會導致你無法使用其他配方。本模組會從這兩個模組中移除重複的配方（僅刪除最不必要的選項）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

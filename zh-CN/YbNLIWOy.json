@@ -1,6 +1,6 @@
 {
-  "bodyHash": "e768rOfg0zU=",
-  "content": "# Sable: Far and Wide（远及广袤）\n\n一款提升Sable模组中船只渲染/模拟距离的模组，使大型船只即使在玩家附近时也不会因超出渲染范围而消失。\n\n该模组未经[SSRD](https://modrinth.com/mod/ssrd)测试，但因其功能不同，理论上可兼容运行。\n\n![对比图：左侧为原始效果，船只因渲染距离不足而更接近玩家；右侧为模组效果，船只可渲染至更远距离，几乎完全隐没在雾气中。](https://cdn.modrinth.com/data/cached_images/0d7d8fa2d0b48cf708b8b912fa3d8b57e8fa6f08_0.webp)\n\n<details>\n<summary>工作原理</summary>\n\n原版Sable仅在所有子区块均处于完全加载（含模拟）状态时才加载船只/子世界，一旦任何子区块脱离完全加载状态则立即卸载。这可能导致本不应消失的船只过早消失。本模组修改机制如下：当船只中心区块处于完全加载状态时即加载子世界，仅在所有区块均脱离完全加载状态时才卸载子世界。\n\n船只上的实体仍会在超出模拟距离时卸载，但船只本身仅在其整体完全脱离模拟距离时才被卸载。\n\n</details>",
+  "bodyHash": "e78e1b95d0a723cc",
+  "content": "\n\n# Sable: Far and Wide\n一款增加 Sable 船只渲染与模拟距离的模组，使建造更大的船只时，即使仍在玩家附近也不会消失。\n该模组尚未与 [SSRD](https://modrinth.com/mod/ssrd) 进行过测试，但由于两者功能不同，预计可以良好兼容。\n\n![Before: the ship is shown closer to the player, as it cannot render any further. After: the ship is now shown further from the player, almost entirely consumed by the fog.](https://cdn.modrinth.com/data/cached_images/0d7d8fa2d0b48cf708b8b912fa3d8b57e8fa6f08_0.webp)\n\n<details>\n<summary>它是如何工作的？</summary>\n\n默认情况下，Sable 仅在所有子层级区块都处于完全加载状态（包含模拟）时才会加载船只/子层级，只要有一个子层级区块未处于完全加载状态就会将其卸载。这会导致船只在本应保留的情况下过早消失。使用此模组后，Sable 会在子层级中心点位于完全加载区块时进行加载，并且仅当所有区块都移出完全加载范围时才会卸载。\n\n船上的实体仍会在超出模拟距离时卸载，但船只本身只有完全移出模拟距离时才会卸载。\n\n</details>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

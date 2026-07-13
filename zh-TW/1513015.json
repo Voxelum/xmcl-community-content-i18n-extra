@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8cafb66a57adc106",
+  "content": "\n\n<p><strong>一款 Minecraft Forge 模組，新增了多項指令，旨在讓您在死亡後能更輕鬆地繼續遊戲。<br><br>指令：<br><br>/back - 倒數計時結束後，將您傳送回最後一次死亡的地點。<br>/backreset - 重置 /back 指令的剩餘冷卻時間。（僅限管理員）<br>/backsetwarmup - 自訂使用 /back 進行傳送的等待時間（秒）。（僅限管理員）<br>/backsetcooldown - 自訂使用 /back 後的冷卻時間。（僅限管理員）&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

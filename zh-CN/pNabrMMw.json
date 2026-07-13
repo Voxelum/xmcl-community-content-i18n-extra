@@ -1,6 +1,6 @@
 {
-  "bodyHash": "cb3ERt4FMDA=",
-  "content": "ae2wtlib 是[无线合成终端](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal)、[无线样板终端](https://www.curseforge.com/minecraft/mc-mods/wireless-pattern-terminal)、[无线接口终端](https://www.curseforge.com/minecraft/mc-mods/wireless-interface-terminal)、[无线流体终端](https://www.curseforge.com/minecraft/mc-mods/wireless-fluid-terminal)及[无线终端库](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib)针对现代Minecraft版本的Fabric/Forge移植版。\n\n该模组提供了多种应用能源2终端的无线版本，并支持量子桥接卡，使终端能跨维度乃至在任何位置使用。\n\n此外还新增了无线通用终端，将全部无线终端功能集成于一件物品中。\n\n缺失功能/已知问题\n- 在无线合成终端中显示饰品功能已失效",
+  "bodyHash": "3d4ee0cfc1ff9deb",
+  "content": "\n\nae2wtlib 是现代 Minecraft 版本上 [Wireless Crafting Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal)、[Wireless Pattern Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-pattern-terminal)、[Wireless Interface Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-interface-terminal)、[Wireless Fluid Terminal](https://www.curseforge.com/minecraft/mc-mods/wireless-fluid-terminal) 和 [Wireless Terminal Library](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib) 的 Fabric/Forge 移植版\n\n\n\n它提供了多款 Applied Energistics 2 的无线终端，并支持 Quantum Bridge Card（量子桥接卡），允许终端在全图范围内乃至跨维度正常使用。\n\n\n此外，它还新增了一个无线通用终端，将所有的无线终端整合至单一物品中。\n\n缺失功能 / 已知问题\n- 在无线合成终端中显示饰品（Trinkets）的功能已失效",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

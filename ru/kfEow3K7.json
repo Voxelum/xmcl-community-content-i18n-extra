@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2d04733d4a2bc9ea",
+  "content": "\n\n# VoluBind\n\n[![Версия на Modrinth](https://img.shields.io/modrinth/v/volubind?label=Version&labelColor=15151e&color=007daf&style=flat-square)](https://modrinth.com/mod/volubind/version/latest)\n[![Лицензия на GitHub](https://img.shields.io/github/license/LilydevMC/VoluBind?label=License&labelColor=15151e&color=af5900&style=flat-square)](https://github.com/LilydevMC/VoluBind/blob/1.20/LICENSE)\n[![Чат в Discord](https://img.shields.io/discord/995465843364343883?label=Discord&labelColor=15151e&color=5865F2&style=flat-square)](https://discord.gg/TZAt4PA5av)\n\nПереключайте громкость с помощью горячих клавиш! \n\nС помощью VoluBind вы можете переключать громкость с обычного значения на пользовательское с помощью простой привязки клавиш!\n\nНастоятельно рекомендуется использовать собственное меню громкости VoluBind вместо стандартного, однако последнее оставлено для обеспечения совместимости.\n\n\n## Зависимости\n\nДля работы VoluBind необходимы [Fabric API](https://modrinth.com/mod/fabric-api)\nи замечательная [owo-lib](https://modrinth.com/mod/owo-lib).\n\n## Лицензия\n\nРаспространяется под лицензией [GNU Lesser General Public License v3.0](https://github.com/LilydevMC/VoluBind/blob/1.20/LICENSE).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

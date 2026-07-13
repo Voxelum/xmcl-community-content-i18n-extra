@@ -1,6 +1,6 @@
 {
-  "bodyHash": "EpgA0wzyQd4=",
-  "content": "<p>在农夫乐事中，长期以来一直存在一个问题：无法将相同的食材放入烹饪锅的同一个格子中来制作食物。这使得食物自动化变得困难。而本模组就是为了解决这个问题而制作的。(<a href=\"https://github.com/vectorwing/FarmersDelight/issues/26\" target=\"_blank\" rel=\"nofollow\">原始问题</a>)</p><p>此外，通过在配方匹配前提取相同的逻辑，略微提升了性能。</p><p><strong>1.21版本新特性：</strong>不再对未激活状态下的配方进行不必要的匹配，从而提升了性能。</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252frb.gy%252f87fgcz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp\" alt=\"想支持我和模组的开发吗？BisectHosting 是不错的选择。新用户可以使用促销代码 \"snownee\" 在首月享受游戏服务器 25% 的折扣。我们提供 24/7 支持和快速响应，为您提供一流的游戏服务。\"></a></p>",
+  "bodyHash": "4cc3a60bb8ed6401",
+  "content": "\n\n<p>在《丰收庆典》中，一直存在一个问题：无法将相同的食材放入烹饪锅的同一个槽位来制作食物。这使得自动化制作食物变得困难。本模组正是为了解决这个问题而制作。（<a href=\"https://github.com/vectorwing/FarmersDelight/issues/26\" target=\"_blank\" rel=\"nofollow\">原始问题反馈</a>）</p>\n<p>此外，通过在配方匹配前提取相同逻辑，略微提升了性能。</p>\n<p><strong>1.21 更新内容：</strong>通过避免在非活跃状态下进行不必要的配方匹配，提升了性能。</p>\n<a href=\"/linkout?remoteUrl=https%253a%252f%252frb.gy%252f87fgcz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp\" alt=\"想要支持我和模组开发吗？BisectHosting 是完美的解决方案。新客户可使用促销码 &quot;snownee&quot; 在购买游戏服务器首月时享受 25% 折扣。凭借全天候支持与快速响应，您将获得满足一切游戏需求的一流服务。\"></a>",
   "contentType": "text/html",
   "type": "curseforge"
 }

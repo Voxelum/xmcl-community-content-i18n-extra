@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c16b094160c748da",
+  "content": "\n\n这是 [Embers Rekindled](https://www.curseforge.com/minecraft/mc-mods/embers-rekindled) 的向前移植版本，将其适配至基于新版 NeoForge 的 Minecraft 1.21.1。\n\n加入 [Discord 服务器](https://discord.gg/7pUhKF4uKD)\n\n## 修改内容\n\n*   支持 Create 模组，并实现从余烬生成 Create 的 SU\n*   支持 Sable 子层级功能\n*   合并了灰烬护目镜与工程师护目镜\n*   新增余烬转 FE 发电机\n*   `烈焰燃烧器` 可由余烬供能，并使用`风箱`进行超加热\n*   `炉心线圈` 可为顶部放置的 3x3 区域内的`烈焰燃烧器`供能，并支持使用`风箱`进行超加热；但超加热整个 3x3 区域需要消耗大量`余烬`\n*   放置在`烈焰燃烧器`上的`余烬漏斗`会检测以该燃烧器为中心的 3x3 区域，并为区域内所有烈焰燃烧器提供余烬\n*   调整了结构与矿石的生成时机，使其在地形生成之后进行，以避免其他地形生成模组破坏其结构\n*   新增`卡米尼转向齿轮`和`视石`，用于自动追踪`子层级机械装置`，并使用`光束炮`为其余烬储存库充电\n*   新增`Create`动力机器升级模块，以及`工程师之锤`，可将`工程师扳手`与`匠人之锤`合二为一\n\n## 入门指南\n\n《Embers Re-Ignited》的入门流程与 Rekindled 完全一致，首先找到一只`远古傀儡`：\n\n![远古傀儡](https://github.com/RCXcrafter/EmbersRekindled/blob/rekindled/images/golem.png?raw=true)\n\n击杀该傀儡，并使用其掉落物制作`远古法典`，它将作为本模组的指南书。\n\n此后，其余玩法基本保持不变。\n\n## 注意事项与已知问题\n\n*   此为测试版发布，部分内容可能存在损坏或未按预期工作的情况。模组仍在积极开发中，我会逐步处理所有问题。根据我的测试，目前整体已具备可玩性和可用性\n    \n*   子层级机械装置的组装/拆卸后，需使用锤子手动重新链接`余烬发射器`、`余烬接收器`、`余烬漏斗`、`余烬排出器`及余烬传输方块",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

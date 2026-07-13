@@ -1,0 +1,6 @@
+{
+  "bodyHash": "855ebfca032fd35a",
+  "content": "\n\n<h1>停用進度</h1>\n<p>一個簡單的模組，可移除指定命名空間中的所有進度。</p>\n<h2>使用方法</h2>\n<p>此模組會移除設定檔中配置之命名空間的所有進度。</p>\n<pre><code>disabledMods = [\n    \"minecraft\", # 移除所有 Minecraft 進度\n    \"mine.*\", # 移除所有名稱以 mine 開頭的模組的進度\n    \".*\" # 移除所有進度\n]</code></pre>\n<h2>相依性</h2>\n<p>包含 <a href=\"https://github.com/TheElectronWill/night-config\" target=\"_blank\" rel=\"nofollow\">night-config</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

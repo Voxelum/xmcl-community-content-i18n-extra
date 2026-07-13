@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11292e19d7668749",
+  "content": "\n\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/darkspawn\" target=\"_blank\" rel=\"nofollow\">DarkSpawn</a> — датапак для изменения координат спавна</p>\n<p><strong>Инструкция</strong></p>\n<p>ИСПОЛЬЗУЙТЕ ТЕКСТОВЫЙ РЕДАКТОР, НАПРИМЕР NOTEPAD++, И ОТРЕДАКТИРУЙТЕ СЛЕДУЮЩИЕ ФАЙЛЫ:-</p>\n<p>data/darkspawn/functions/darkspawntick.mcfunction (Обратите внимание на 3-ю строку)</p>\n<p>Замените координаты `20 100 20` на любые нужные вам и загрузите этот файл датапака в папку 'datapacks' вашего мира.<br>Для пользователей серверов: обязательно перезапустите сервер или используйте команду /reload, чтобы изменения вступили в силу.</p>\n<p>&nbsp;</p>\n<p><a href=\"https://discord.gg/uCPfPBvsRJ\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/958/418/join-discord.png\" alt=\"\" width=\"598\" height=\"187\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

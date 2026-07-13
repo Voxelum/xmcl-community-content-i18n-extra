@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ek9Sm/O0FNc=",
-  "content": "# 遠程武器 API\n\n此模組為開發者提供 API，可輕鬆製作弓與弩。\n\n![bow](https://cdn.modrinth.com/data/AqaIIO6D/images/d9227999f990f1c268d23dd8bb7b60fa21806bf7.png)\n\n功能特色：\n- 弓與弩的構造\n- 可自訂武器屬性：傷害、拉弓時間、拋射物速度（選填）\n- 自動物品模型謂詞註冊（與原版模型謂詞匹配）\n- 正確的第一人稱與第三人稱渲染\n- 正確的拉弓視野調整\n\n所有技術細節請詳閱 GitHub 的 readme 文件。",
+  "bodyHash": "03faf4746ff6ba56",
+  "content": "\n\n# 遠程武器 API\n\n此模組為開發者提供 API，讓您可以輕鬆建立弓與弩。\n\n![bow](https://cdn.modrinth.com/data/AqaIIO6D/images/d9227999f990f1c268d23dd8bb7b60fa21806bf7.png)\n\n功能：\n- 弓與弩的建構\n- 可自訂武器屬性：傷害、蓄力時間、彈丸速度（選填）\n- 自動註冊物品模型條件（與原版模型條件一致）\n- 正確渲染第一人稱與第三人稱視角\n- 正確的拉弓視野 (FOV)\n\n所有技術細節請參閱 GitHub 上的 README。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

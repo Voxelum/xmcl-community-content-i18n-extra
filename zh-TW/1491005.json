@@ -1,6 +1,6 @@
 {
-  "bodyHash": "f+JPgJrhpLM=",
-  "content": "<h1 style=\"text-align:center\">罪孽灰燼：不再有無效統計</h1><p><img src=\"https://media.forgecdn.net/attachments/description/null/description_3a08b86b-b9e0-4131-8098-12e363838b85.png\"></p><p>當移除某些模組後，玩家統計檔案仍會殘留這些模組的物品、方塊、實體及自訂統計資料。每次伺服器啟動或玩家登入時，主控台就會被類似「不知道 xxx:yyy 是什麼」的警告訊息淹沒。本模組會掃描並移除這些無效資料，讓您的日誌保持乾淨。</p>",
+  "bodyHash": "7f3cb2716aba0460",
+  "content": "\n\n<h1 style=\"text-align:center\">《罪之灰》：不再出現無效統計數據</h1>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_3a08b86b-b9e0-4131-8098-12e363838b85.png\"></p>\n<p>移除某些模組後，玩家統計數據檔案中仍會保留來自這些模組的物品、方塊、實體及自訂統計數據的條目。每次伺服器啟動或玩家登入時，主控台都會被類似「不知道 xxx:yyy 是什麼」的警告訊息淹沒。本模組會掃描並移除這些無效條目，讓您的日誌保持乾淨。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

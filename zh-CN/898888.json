@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f4a7a4cfcb981c09",
+  "content": "\n\n<p>安装此数据包以禁用 Pixelmon 的原版生物覆盖机制（允许僵尸、蜘蛛等生成！）</p>\n<p><code>注意：如果您希望生物自然生成（例如在夜晚或洞穴中），您还需要在 `config/pixelmon/config.yml` 文件中将 `allow-vanilla-mobs` 更改为 `true`。</code></p>\n<p>本项目支持 Pixelmon 的 1.16 和 1.21 版本。&nbsp;<strong>请务必下载与您版本匹配的正确文件。</strong></p>\n<p>（该模组与我的 <a href=\"https://www.curseforge.com/minecraft/texture-packs/disable-vanilla-mob-replacement\" rel=\"nofollow\">数据包完全相同</a>，但以模组形式提供以便轻松安装。）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

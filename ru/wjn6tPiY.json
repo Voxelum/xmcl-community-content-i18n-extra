@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d1f9d87f98675b60",
+  "content": "\n\nЭтот мод позволяет владельцам серверов заносить определённые предметы в чёрный список. Запрещённые предметы будут удалены сразу после обновления контейнера, в котором они находятся, и больше не будут выпадать.\nВы можете найти список по адресу `[save_name]/serverconfig/itemblacklist.json`\n\nВы также можете создать стандартный чёрный список в папке `defaultconfigs` с именем `itemblacklist.json`. Он будет автоматически применяться при создании каждого нового мира.\n\n\n<details>\n<summary>Команды</summary>\n\n```\n/itemblacklist ban [item] \n  запрещает предмет\n/itemblacklist unban [item] \n  снимает запрет с предмета\n/itemblacklist ban all \n  разрешает все предметы\n/itemblacklist list \n  отображает все запрещённые предметы (может использоваться любым игроком)\n```\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

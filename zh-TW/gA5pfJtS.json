@@ -1,0 +1,6 @@
+{
+  "bodyHash": "25a1b2256b68f343",
+  "content": "\n\n**非常**吵雜且略帶詭異風格的資源包。\n我以 [此處](https://www.planetminecraft.com/texture-pack/minecraft-1-21-1-vanilla-default-complete-sounds-languages-panoramas/) 作為模板（適用於 1.21.1），衷心感謝原作者！\n\n所有音效均使用 [SoX](https://sourceforge.net/projects/sox/) 處理，圖片部分則使用 [ImageMagick](https://imagemagick.org/)。\n\n大部分的新素材皆透過 [此工具](https://github.com/rmheuer/McAssetExtractor) 取得。\n\n請至版本分頁下載這兩個檔案（[點擊此處](https://modrinth.com/resourcepack/deep-fried/version/0.6-NOISE-64X)）。\n\n影片示範：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/YkN38HvdNiM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "NmtUU2c7aQU=",
-  "content": "![横幅](https://cdn.modrinth.com/data/cached_images/4e1ae6164f6b5bd65d6f6243017404eec9ee2412_0.webp)\n\n沉浸式盔甲HUD在现有的盔甲耐久度条上方，为HUD添加了您当前穿戴盔甲类型的信息，并显示哪些盔甲即将破损的耐久度详情。\n\n沉浸式盔甲HUD使用自定义的7x7迷你盔甲图标渲染信息，设计为像素级精准并与原版界面条对齐：\n\n![演示](https://cdn.modrinth.com/data/cached_images/db4ccf7ca618f0a7c1a15b25c169ca942daa3d1c.png)\n\n盔甲HUD条的位置和偏移量可配置——您可以将其切换至右侧，或手动调整X和Y坐标。\n\n该模组还提供多种模组的兼容支持，目前仅支持来自天境（The Aether）的盔甲：\n\n![模组兼容](https://cdn.modrinth.com/data/cached_images/c988e6a1a2d27b84de98f718921bd230cd08f7f1.png)",
+  "bodyHash": "043fb29d73dc6303",
+  "content": "\n\n![橫幅](https://cdn.modrinth.com/data/cached_images/4e1ae6164f6b5bd65d6f6243017404eec9ee2412_0.webp)\n\nImmersive Armor HUD 會在現有的盔甲圖示條上方顯示你目前所穿戴盔甲的類型資訊，並提供耐久度提示，讓你清楚掌握哪些盔甲即將損壞。\n\nImmersive Armor HUD 使用自訂的 7x7 迷你盔甲圖示來呈現盔甲資訊，這些圖示經過像素級精準設計，能與原版圖示條完美對齊：\n\n![示範](https://cdn.modrinth.com/data/cached_images/db4ccf7ca618f0a7c1a15b25c169ca942daa3d1c.png)\n\n盔甲 HUD 欄位的位置與偏移量皆支援自訂——你可以將其切換至右側，或手動調整 X 與 Y 軸座標。\n\n本模組亦提供與其他模組的相容性，目前僅支援來自 The Aether 的盔甲：\n\n![模組相容性](https://cdn.modrinth.com/data/cached_images/c988e6a1a2d27b84de98f718921bd230cd08f7f1.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

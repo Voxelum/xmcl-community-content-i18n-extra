@@ -1,6 +1,6 @@
 {
-  "bodyHash": "p6f5cavQmZI=",
-  "content": "![標題](https://cdn.modrinth.com/data/cached_images/07180a35f0251c713a3a4eea89f2d0a6161eb39e.png)\n\n---------\n這是一個客戶端模組，透過智慧地隱藏（剔除）玩家看不見的遠距離實體和方塊實體來提升遊戲效能。\n它設計簡潔、經過優化，並能與大多數視覺模組和光影無縫協作。\n\n# 運作原理\n此模組會跳過渲染超出可配置距離的物件，從而節省資源並提高FPS。\n每種物件類型（生物、船隻、告示牌、物品展示框等）都可以設定各自的渲染距離。\n關鍵視覺元素會在合理範圍內保持可見，以維持遊戲的視覺效果。\n\n# 功能特色\n- 經過優化的剔除演算法，對效能影響極小。\n- 不同物件類別可分別設定距離參數。\n- 支援顯示實體（物品展示、方塊展示、文字展示）。\n- 完全相容於光影和渲染模組。\n\n# 已知問題\n如果安裝了「Enhanced Block Entities」並啟用告示牌剔除功能，告示牌將不會被剔除，因為該模組使用預先烘焙的模型來處理告示牌。\n\n---\n\n需要 [oωo](https://modrinth.com/mod/owo-lib) 和 [TLib](https://modrinth.com/mod/tlib) 才能運作。",
+  "bodyHash": "64c476fe46584b54",
+  "content": "\n\n![title](https://cdn.modrinth.com/data/cached_images/07180a35f0251c713a3a4eea89f2d0a6161eb39e.png)\n\n---------\n僅限客戶端的模組，透過智能地隱藏（剔除）距離過遠且玩家無法看見的實體與方塊實體來提升效能。\n它設計簡潔、高度優化，並能與大多數視覺模組及光影無縫兼容。\n\n# 運作原理\n本模組會跳過超出可設定距離之物件的渲染，以節省資源並提升 FPS。\n每種物件類型（生物、船隻、告示牌、物品框等）皆可獨立設定渲染距離。\n為維持遊戲原貌，關鍵視覺元素會在合理距離內保持可見。\n\n# 功能特色\n- 經優化的剔除演算法，對效能影響降至最低。\n- 不同類別的物件擁有獨立的距離設定。 \n- 支援顯示實體（物品顯示實體、方塊顯示實體、文字顯示實體）。\n- 完全相容於各種光影與渲染模組。\n\n\n# 已知問題\n若已安裝 Enhanced Block Entities 並啟用告示牌剔除功能，告示牌將不會被剔除，因為該模組依賴告示牌的烘焙模型。\n\n---\n\n需要 [oωo](https://modrinth.com/mod/owo-lib) 與 [TLib](https://modrinth.com/mod/tlib) 才能運作。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

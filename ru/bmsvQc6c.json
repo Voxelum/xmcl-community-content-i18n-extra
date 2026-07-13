@@ -1,0 +1,6 @@
+{
+  "bodyHash": "937d5066ce470e75",
+  "content": "\n\nНа мой взгляд, в этом скриншоте что-то не так:\n\n![Old Copper](https://cdn.modrinth.com/data/cached_images/a29c04deca5294deb97e5cb280afc65afb09b98f_0.webp)\n\nВидите, у корпуса есть дерево, а у большинства других медных блоков его нет? Корпуса из андезита и поезда не имеют этой проблемы, как вы можете видеть:\n\n![Andesite Casing](https://cdn.modrinth.com/data/cached_images/bf29f0e10cda3a88953fbdf3d01ff60c4dabef7d.png)\n![Train Casing](https://cdn.modrinth.com/data/cached_images/0a371fdc48f0be36a97a7041e87114c160a6bb98.png)\n\nПоэтому я решил добавить в текстуры меди недостающие деревянные детали, и выглядит это довольно круто.\n\n![New Copper](https://cdn.modrinth.com/data/cached_images/461b4ae69a9e814197f92b1880842d4aa9b98dcf.png)\n\nВот и весь ресурспак. Он немного простой, но создать и отредактировать несколько текстур было очень весело. Я также не стал трогать внутренности блоков для жидкостей, так как логично, чтобы они были на 100% медными.\n\n\nБольше изображений в галерее.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

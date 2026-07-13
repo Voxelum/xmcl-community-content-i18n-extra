@@ -1,6 +1,6 @@
 {
-  "bodyHash": "aU3ApR+7pzI=",
-  "content": "# EMI Trades\n\nEMI的附加模組，新增村民交易支援。\n\n### 功能\n\n* 顯示所需花費與報酬\n* 顯示交易所需的等級\n* 支援流浪商人交易\n\n### 設定\n\n此模組在1.0.2版本中新增了一個非常簡單的設定檔（`config/emitrades.toml`，1.2.0以上版本為`config/emitrades.json5`），僅能切換配方的新舊顯示模式。目前尚無圖形介面，因此需要手動編輯。",
+  "bodyHash": "467d8d8894a5211b",
+  "content": "\n\n# EMI 交易\n\n為 EMI 新增村民交易支援的擴充模組。\n\n### 功能特色\n\n* 顯示交易成本與報酬\n* 顯示交易所需的等級\n* 支援流浪商人交易\n\n### 設定檔\n\n此模組於 1.0.2 版本新增了極其簡易的設定檔（`config/emitrades.toml`，或 1.2.0+ 版本的 `config/emitrades.json5`），僅用於切換舊版與新版的配方顯示方式。目前尚無圖形介面，因此需要手動編輯設定檔。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

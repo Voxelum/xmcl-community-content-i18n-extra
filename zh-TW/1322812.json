@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8fadcee91981383a",
+  "content": "\n\n<h1>團隊傳送石</h1>\n<p>一款簡易模組，可將您已知的傳送石與隊友分享（隊伍需使用原版 /team 指令建立）。</p>\n<p>當玩家啟用傳送石或加入伺服器時，會自動同步分享。</p>\n<p>若您想將其移植至較新或較舊的版本，歡迎自由操作，只需提交 Pull Request 即可。</p>\n<p>僅需安裝於伺服器端。</p>\n<p>主要為我的 <a href=\"#/projects/895737/files\" target=\"_blank\" rel=\"nofollow\">Survival Reimagined 整合包</a> 而開發。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

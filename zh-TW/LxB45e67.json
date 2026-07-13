@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b2d2bc70eb1dd7b",
+  "content": "\n\n# 更好的多人睡眠\n\n一款專為**伺服器**設計的模組/數據包，只需一名玩家入睡即可度過夜晚。若其他玩家不同意跳過夜晚，可取消此操作。\n\n## 展示\n\n![showcase1](https://cdn.modrinth.com/data/cached_images/834561dc0d859736bfc37a27b985b9674f115f83.png)\n\n當玩家試圖跳過夜晚時顯示的文字。\n\n點擊 [**取消**] 文字後，該玩家的睡眠將被中斷，並被踢出床鋪。\n#\n\n### 提示\n由於數據包有其自身限制，點擊該文字後將顯示以下訊息。\n\n![tip](https://cdn.modrinth.com/data/cached_images/9eb0dccfebe8897d856db6d9b553fcb1734a5632.png)\n\n若想停用此功能，只需執行 ```/gamerule sendCommandFeedback false```，文字就會隱藏。\n\n_note: 低於 1.19 的版本可能可用，但尚未經測試。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

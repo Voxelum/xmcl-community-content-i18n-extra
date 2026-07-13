@@ -1,6 +1,6 @@
 {
-  "bodyHash": "c5zoIfZwh4Q=",
-  "content": "Простой мод для клиентской части, добавляющий настраиваемые временные метки в игровой чат.\n\nСтиль и формат временных меток можно редактировать в файле config/timestamp-chat-client.toml с помощью [SimpleDateFormat] от Java и [форматирующих кодов] от Minecraft.\n\nПожалуйста, сообщайте о любых проблемах или ошибках в [трекере проблем].\n\n[SimpleDateFormat]: https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html\n[форматирующие коды]: https://minecraft.gamepedia.com/Formatting_codes\n[трекер проблем]: https://github.com/peanutbutter144/timestamp-chat/issues",
+  "bodyHash": "6ba726b14ef6582f",
+  "content": "\n\nПростой мод только для клиента для добавления настраиваемых временных меток в игровой чат.\n\nСтиль и формат временных меток можно изменить в файле config/timestamp-chat-client.toml с помощью Java-класса [SimpleDateFormat] и кодов форматирования Minecraft.\n\nПожалуйста, сообщайте о любых проблемах или ошибках в [трекере проблем].\n\n[SimpleDateFormat]: https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html\n[formatting codes]: https://minecraft.gamepedia.com/Formatting_codes\n[issue tracker]: https://github.com/peanutbutter144/timestamp-chat/issues",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "24727fd9a63d411e",
+  "content": "\n\n# gurkan 的超級模組\n\n這是一個 _主要用於_ 我個人營運的私人 Minecraft 伺服器的模組，不過或許其他人也會喜歡，因此我還是決定將它發布出來。\n\n本模組新增以下內容：\n- ~~可自訂靜音生物名稱標籤（移植自 [VanillaTweaks](https://vanillatweaks.net/)）（自 0.2.0 新增，於 0.6.0 移除）~~\n- 靜音棒（自 0.6.0 新增）\n- 村民可拴繩（自 0.3.0 新增）\n- 擁有「羽毛落地」（或緩降效果）時，停用作物踩踏破壞（自 0.3.0 新增）\n\n## 鳴謝\nVanilla Tweaks：https://vanillatweaks.net/（僅適用於 0.6.0 以下版本）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

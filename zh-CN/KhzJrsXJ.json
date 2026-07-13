@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e4460a2fcfdc187",
+  "content": "\n\n# 保留物品栏\n\n![保留物品栏封面图片](https://raw.githubusercontent.com/Sekai0NI0itamio/keep-inventory/main/.modcompiler-art/description-image.webp)\n\n再也不用在死亡时丢失物品了！此模组会自动强制将 `keepInventory` 游戏规则设置为 `true`，并阻止任何手动更改。\n\n## 功能\n\n- ✅ **自动启用** - 加载任何世界时自动设置 `keepInventory=true`\n- ✅ **持续强制执行** - 每秒检查一次，确保规则保持开启状态\n- ✅ **自动修正** - 如果被改为 false，会自动将其恢复为 true\n\n## 工作原理\n\n该模组通过以下两种机制确保 `keepInventory` 始终保持开启：\n\n**定期检查**：每秒（20刻）验证一次游戏规则是否仍为 `true`。\n**自动修复**：如果检测到游戏规则被更改为 `false`，会自动将其纠正回 `true`。\n\n这意味着即使玩家或管理员尝试运行 `/gamerule keepInventory false`，模组也会在 1 秒内将其改回！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0efda728d433edf4",
+  "content": "\n\n# PerfectAnvilTFG\n\n為 TerraFirmaCraft (TFC) 設計的資源包，提供「完美鐵砧」圖形介面輔助工具。\n\n# 使用方法\n\n![initial.png](https://imgur.com/xR3oKeD.png)\n\n確認目前紅色箭頭的位置（此例中為 43，因為每個像素計為 1）。\n\n![initial-zoomed.png](https://imgur.com/r5o45H2.png)\n\n將紅色箭頭的值減去頂部橘色標示的最後三次所需動作的總和（將「任意擊打」視為輕擊或 -3，總計為 -9）。在此範例中，計算方式為 `43 - (-3 - 3 - 3) = 43 - (-9) = 52`。此數值 `52` 即為您放置綠色箭頭的位置。\n\n使用像素指引，統計各顏色像素的數量，並按對應顏色執行該次數的動作。此例為：2 次縮短（紅色）、1 次擴闊（橘色）與 1 次彎曲（黃色）。\n\n![prepping.png](https://imgur.com/z7jTpGT.png)\n\n現在，您的綠色箭頭應已放置在 52 的位置。\n\n![prepped.png](https://imgur.com/izrBj0n.png)\n\n現在您可以透過反向執行標示的動作來完成鍛造（雖然此例中全為輕擊），從而使綠色箭頭與紅色箭頭對齊。\n\n![final-actions.png](https://imgur.com/QJPU9uu.png)\n\n## 鳴謝\n\n本資源包衍生自 Simon 的 [Anvil GUI](https://www.curseforge.com/minecraft/texture-packs/tfc-anvil-helper)，採用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授權。\n\n## 修改內容\n\n* 修正了鐵砧圖形介面材質中 3、6、19 和 22 次擊打的指示器。\n\n## 授權條款\n\n本專案採用創用 CC 姓名標示 4.0 國際授權條款。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

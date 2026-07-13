@@ -1,0 +1,6 @@
+{
+  "bodyHash": "64bb7f29707b3d0b",
+  "content": "\n\n# GRIFFO\n\n**[繁體中文]**\n\nGRIFFO 是一款介於 Essential 與 EMF（Entity Model Features）之間的橋接模組，能自動解決這兩個模組間的動畫衝突。\n\n當 Essential 播放表情動作時，EMF 會遮蔽玩家的動畫，導致畫面出現瑕疵。GRIFFO 會在背景自動偵測表情動作是否啟用，並在動作持續期間暫時暫停 Fresh Animations，待動作結束後再無縫恢復——完全無需設定。\n\n✔ 自動偵測\n\n✔ 無需設定\n\n✔ 完全相容於 Fresh Animations\n\n---",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

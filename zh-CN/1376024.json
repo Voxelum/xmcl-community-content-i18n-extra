@@ -1,0 +1,6 @@
+{
+  "bodyHash": "928e6d17244088c8",
+  "content": "\n\n<p>厌倦了等待 `/locate biome` 指令或自然罗盘扫描完成，甚至导致服务器崩溃吗？</p>\n<p><strong>Biome Spy</strong> 重写了生物群系搜索算法，可将生物群系定位时间缩短高达 <strong>97%</strong>，并将结构定位时间缩短高达 <strong>90%</strong>。</p>\n<p>本模组假设世界生成过程中使用的五个噪声函数与<strong>高度无关</strong>，从而能在不影响精度的前提下大幅降低搜索计算量（仍支持搜索洞穴生物群系）。</p>\n<p>✅ 支持 <strong>TerraBlender</strong> 与 <strong>AlexsCaves</strong> 生物群系<br>\n🧭 已在 <strong>All The Mods 10</strong> 中测试并验证通过<br>\n⚡ 无需改动世界生成逻辑，无需配置文件——只为纯粹的速度。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

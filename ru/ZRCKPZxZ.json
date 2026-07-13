@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9daa821aa4af5afc",
+  "content": "\n\nПростой мод, который заставляет персонажа падать в режим «тряпичной куклы» (ragdoll), если он стоит на наклонных подуровнях. Бег или движение облегчают падение, а приседание или стояние на месте затрудняют его.\n\nЭтот мод также наклоняет всех сущностей, стоящих на подуровнях, благодаря чему они выглядят так, будто действительно находятся там.\n\nТряпичные куклы также пытаются сохранять равновесие, отчасти напоминая систему физики Euphoria из GTA 4.\n\nВсе углы наклонения можно настроить в конфигурационном файле.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/zcsnn0jdOUY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2vPdcLa7aEs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

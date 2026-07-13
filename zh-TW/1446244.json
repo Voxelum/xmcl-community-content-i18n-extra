@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a84c5f50b2ceb012",
+  "content": "\n\n<h1>簡介</h1>\n<p>一個簡單的資源包，將原版玩家頭顱轉換為可愛的玩偶。</p>\n<p>一個簡單的材質包，將原版的 &ldquo;玩家頭顱&rdquo; 替換成了可愛的玩偶模型。</p>\n<h1>需求</h1>\n<p>你<strong>必須</strong>安裝以下其中一種模組，才能使模型正常運作：</p>\n<p>為了讓模型正常顯示，你<strong>必須</strong>安裝以下其中一種模組：</p>\n<ul>\n<li><strong>OptiFine</strong></li>\n<li><strong>ETF + EMF</strong>（推薦）</li>\n</ul>\n<h1>圖庫</h1>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/23a59ab4af7b879f463af2bd643e08639957f096.jpeg\" alt=\"預覽\"></p>\n<h1>注意事項</h1>\n<ol>\n<li>\n<p>佩戴在頭上時可能會出現視覺異常。</p>\n<p>將玩偶戴在頭上時可能會出現顯示問題。</p>\n</li>\n<li>\n<p>碰撞箱與音效與原版玩家頭顱相同。</p>\n<p>玩偶的碰撞箱以及放置／破壞音效均與原版頭顱保持一致。</p>\n</li>\n<li>\n<p>若使用「Skin Layers 3D」，請停用「3D Skulls」與「3D Skulls Item」設定，否則將出現渲染問題。</p>\n<p>若已安裝「3D 皮膚層」模組，請關閉「3D 頭顱」與「3D 頭顱物品」選項，否則會出現渲染問題。</p>\n</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

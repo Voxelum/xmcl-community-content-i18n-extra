@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4f0c9f4aaec1b5e4",
+  "content": "\n\n# Infinite Music (fabric 1.20.x, 1.21.x)\n\n *透過 Infinite Music 模組消除音樂曲目間的延遲，為您帶來無間斷的聽覺享受，讓您在遊戲冒險中體驗流暢且沉浸的音樂旅程。*\n\n## 功能特色\n- 預設消除音樂曲目間的延遲\n- 可針對不同類型的音樂設定延遲時間\n- 可停用或啟用特定類型的音樂\n- 以下音樂類型皆可進行設定：\n    - 主選單\n    - 遊戲過程（生存模式）\n    - 創造模式\n    - 水下\n    - 末地\n- 播放唱片音樂時暫停背景音樂\n\n## 設定檔\n需安裝 [Mod Menu](https://modrinth.com/mod/modmenu) 方能開啟設定介面；不過它僅為選用項目，不影響模組正常運作。您可瀏覽 [圖庫](https://modrinth.com/mod/infinite-music/gallery) 預覽設定畫面。\n\n## 相容性\n若您希望手動控制播放的音樂曲目，本模組自 0.4.6 版本起已與 [Music Notification](https://modrinth.com/mod/music-notification) 相容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

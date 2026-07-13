@@ -1,6 +1,6 @@
 {
-  "bodyHash": "y3fjx2Bzzic=",
-  "content": "Not Enough crashes 是一個能改善 Minecraft 崩潰體驗的模組。  \nNEC 支援用戶端與伺服器端獨立安裝。  \n功能包括：\n\n- 崩潰時可直接返回主選單繼續遊戲，無需重新啟動。\n- 透過特殊崩潰畫面，可便捷地提交經語法高亮的崩潰報告。\n- 顯示導致崩潰的模組列表，點擊即可跳轉至其問題追蹤器。\n- 更實用的堆疊追蹤資訊，經反混淆處理並包含 NBT 等額外數據，方便模組開發者除錯。\n\n[在 Discord 上討論 Not Enough Crashes](https://discord.gg/CFaCu97 \"Discuss Not Enough Crashes on Discord\")",
+  "bodyHash": "0bbe122bbb5ed4fc",
+  "content": "\n\nNot Enough Crashes 是一款改善 Minecraft 崩潰問題的模組。    \nNEC 可獨立安裝於客戶端與伺服器。  \n功能包含：\n\n- 當遊戲崩潰時，您可以返回主選單並繼續遊玩，無需重新啟動。\n- 透過特殊的崩潰畫面，方便提交帶有語法高亮的崩潰報告。\n- 顯示導致崩潰的模組列表，點擊即可前往其問題追蹤頁面。\n- 提供更具實用的解除混淆堆疊追蹤（Stack Trace），並為模組開發者額外包含 NBT 等資訊。\n\n[在 Discord 上討論 Not Enough Crashes](https://discord.gg/CFaCu97 \"Discuss Not Enough Crashes on Discord\")",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

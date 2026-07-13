@@ -1,6 +1,6 @@
 {
-  "bodyHash": "BK7MGtKL/gY=",
-  "content": "## 說明\n這是 Inventory Profiles Next 所使用的 GUI/配置庫\n\n這個庫將在 IPN 和我未來製作的任何模組之間共用\n\n## 常見問題\n\n我可以在我的模組中使用它嗎？\n\n請隨意使用，但目前沒有文件或範例。而且程式碼也不夠清晰。",
+  "bodyHash": "9dd6a3b755f03032",
+  "content": "\n\n## 說明\n這是 Inventory Profiles Next 所使用的 GUI/Config 程式庫。\n\n此程式庫將由 IPN 與我未來開發的任何模組共用。\n\n## 常見問題\n\n我可以將其用於我的模組中嗎？\n\n歡迎自由使用，但目前尚無文件或使用範例，且程式碼也相對不夠清晰。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

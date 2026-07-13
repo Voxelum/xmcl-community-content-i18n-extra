@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Fwr5dSmd2eU=",
-  "content": "不滅符咒是一個使用 Curios API（Forge）與 Trinkets API（Fabric/Quilt）的模組，可在玩家物品欄中新增一個「符咒欄位」，並讓不死圖騰能直接透過手持使用或放入此欄位中。\n\n## 功能特色\n\n![](https://i.ibb.co/qmyCPfp/undying-screenshot.png)\n\n![](https://i.ibb.co/WWfRvqB/trinketotem.png)\n\n當圖騰處於此欄位時，玩家將獲得如同手持圖騰時的死亡保護效果。這讓玩家無需費心記得要手持圖騰，也無需犧牲一個實用的快捷欄或物品欄空間來攜帶它。\n\n## 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "bodyHash": "ec2a7f737a459dcb",
+  "content": "\n\n「Charm of Undying」是一款模組，採用 Curios API（Forge）與 Trinkets API（Fabric/Quilt），為玩家物品欄新增「護符槽」（Charm slot），並允許將「不死图腾」（Totem of Undying）置入該槽位，支援直接放置或透過手持图腾時使用來裝備。\n\n## 功能\n\n![](https://i.ibb.co/qmyCPfp/undying-screenshot.png)\n\n![](https://i.ibb.co/WWfRvqB/trinketotem.png)\n\n當图腾裝備於此槽位時，玩家將享有與手持图腾相同的死亡保護效果。這讓您可以免於遺忘手持图腾的煩惱，也無需犧牲便捷的快捷欄或物品欄格子來存放图腾，即可享受其帶來的益處。\n\n## 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

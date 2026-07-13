@@ -1,6 +1,6 @@
 {
-  "bodyHash": "VZdTKHglIDo=",
-  "content": "此模組旨在透過 TACZ 與 Create Aeronautics 來提升相容性。\n\n目前，此模組讓 TACZ 槍枝的子彈能與物理物件碰撞，而不會直接穿過。\n\n當然，需要先安裝 Create、Aeronautics 與 TACZ。",
+  "bodyHash": "f373abbfd65a5b03",
+  "content": "\n\n本模組旨在透過 TACZ 與 Create Aeronautics 提升相容性。\n\n目前，該模組會讓 TACZ 的子彈與物體產生碰撞，而不是直接穿過去。\n\n當然，本模組必備 Create、Aeronautics 與 TACZ。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

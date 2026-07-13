@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8239d62cd7b9efc3",
+  "content": "\n\n<p>本模组添加了与 Create Aeronautics 兼容的动态锥形聚光灯，支持使用 Veil 或 LambDynamicLights 渲染。</p>\n<p>该模组仍处于积极开发阶段，可能存在不稳定情况。建议备份存档以防万一。:)</p>\n<p>你可以在模组的设置界面中选择偏好的灯光渲染器：<br>- Lamb 选项支持光影，兼容性极佳。但计算依赖 CPU，对大范围灯光性能较差。必须安装 LambDynamicLights 4.8.8 版本才能生效<br>- Veil 选项不支持光影，且兼容性可能带来一些麻烦。但它基于光影渲染，因此无论你设置多大的范围都能保持流畅。</p>\n<p><br>目前不适用于 Create 的机械装置（如基础机械轴承等）。请使用来自 Create Aeronautics 的万向轴承。</p>\n<p><br>VEIL 选项已知问题<br>- 光影模组<br>- TACZ<br>- Create Deep Seas<br>- AMD 显卡？（可能正常也可能不正常）<br>- MacBook？（同上）<br>- Sodium 0.6（建议使用 0.8.12 版本）<br>- 出现黑色形状的伪影。如果看到此问题，请尝试增加渲染距离或减小灯光范围<br>- 在某些大型整合包中可能无法正常工作，如有更多不兼容情况欢迎反馈&nbsp;</p>\n<p>LAMB 选项已知问题<br>- 视觉效果较差</p>\n<p><br>你可以右键点击这两种方块来修改其设置。它们也会根据红石信号改变亮度，0 为关闭，15 为最大亮度。<br>如果在探照灯方块中选择 Lamb 选项，会出现“替代模式”设置。该模式会将锥形光替换为一个位于光束落地点的光球。外观略有不同，但如果使用 Lamb 并希望灯光范围超过 50 格，这几乎是唯一的选择。</p>\n<p>如需联系开发者，可在 Create Aeronautics Discord 频道的展示区查看相关帖子。目前这是唯一的联系方式。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1565038/description_28b63562-03d6-4fc2-a879-8b5912a2dd4f.png\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

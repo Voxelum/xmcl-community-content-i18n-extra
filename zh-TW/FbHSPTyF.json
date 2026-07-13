@@ -1,0 +1,6 @@
+{
+  "bodyHash": "305e8a90d2821fa9",
+  "content": "\n\n# KISS – 保持物品欄整潔、簡單\n\n輕量級的物品欄整理模組，為 [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) 帶有特定設計理念的修改版分支。\n\n## 截圖\n\n| 整理前 | 整理後 |\n|----------------|---------------|\n| ![整理前凌亂的物品欄](https://cdn.modrinth.com/data/FbHSPTyF/images/08380e05b921fe4c09b4785341fc3b0545358e07.png) | ![完美整潔、已整理的物品欄](https://cdn.modrinth.com/data/FbHSPTyF/images/4e10f256933a0a36cc401ac90269fc19d5a5b149.png) |\n\n## 設定\n\n使用 [Mod Menu](https://modrinth.com/mod/modmenu) 進行圖形化介面設定，或改用 `/kiss` 指令。\n\n## 使用方法\n\n你可以使用中鍵或 `R` 鍵來整理你正視線的物品欄。這些快捷鍵可在「選項 -> 控制 -> 按鍵設定」中更改。你也可以設定此模組**永遠不**整理玩家物品欄，或是同時整理非玩家物品欄（例如你開啟的箱子）與玩家物品欄。\n\n雖然此模組在技術上只需安裝於伺服器端，但你仍應同時安裝在伺服器與用戶端。若僅安裝於伺服器，原版用戶端只能透過 `/kiss` 指令來使用。由於 [Modrinth 的已知問題](https://github.com/modrinth/knossos/issues/1612)，我將此模組在用戶端標記為 `Required`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

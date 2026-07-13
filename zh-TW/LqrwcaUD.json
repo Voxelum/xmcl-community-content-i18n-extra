@@ -1,0 +1,6 @@
+{
+  "bodyHash": "49179c4467a39f20",
+  "content": "\n\n![.](https://cdn.modrinth.com/data/cached_images/0be97f0bef6727a0ad7aaf057c27ed3970b5c875.png)\n\n在一個對原版友好的角色扮演進度系統中，新增天賦、技能、被動效果、物品需求與玩家頭銜。\n\nJustLeveling Fork 讓玩家可以透過八種天賦成長，投資被動加成，切換獨特技能，解鎖頭銜，並為注重進度推進的整合包設定物品／方塊／實體需求。主要的進度介面將天賦等級、被動效果、技能與頭銜集中於一處。\n\n## 特色\n\n- 八種天賦，最大等級可自訂。\n- 針對戰鬥、移動、攻擊距離、採礦、防禦、魔法與幸運的被動加成。\n- 每種天賦皆可開關的技能，包含實用與戰鬥效果。\n- 可解鎖並顯示的玩家頭銜。\n- 可自訂的物品、方塊與實體需求。\n- 支援遊戲內設定。\n- 同時支援客戶端與伺服器。\n- 目前 1.21.1 版本支援 Fabric 與 NeoForge。\n\n## 選用整合\n\n- 支援 Better Combat。\n- 支援 FTB Quests。\n- 支援 Questlog。\n- 支援 Modular Item API／與 Tetra 相關的物品需求。\n\n## 依賴項\n\n若使用 Fabric 1.21.1，請安裝 Fabric API、Trinkets、YetAnotherConfigLib 與 Cloth Config。\n\n若使用 NeoForge 1.21.1，請安裝 Architectury API。選用整合僅在使用對應模組時才需要安裝。\n\n## 常見問題\n\n### 如何開啟升級介面？\n使用 Minecraft 控制選項中設定的按鍵。預設按鍵可能因整合包而異。\n\n### 我需要安裝原始的 Just Leveling 模組嗎？\n不需要。直接使用此分支即可。\n\n### 我可以在整合包中使用嗎？\n可以。\n\n### 如何新增或更改物品限制？\n編輯 `.minecraft/config/JLFork/` 資料夾中產生的設定檔，特別是 `justleveling-fork.lockItems.json5`。官方維基提供範例與已支援的天賦名稱。\n\n### 若遺漏了相容性規則或限制，我該怎麼辦？\n請提出 Issue，附上該物品／方塊／實體 ID 及其所屬模組，以便新增支援或記錄說明。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

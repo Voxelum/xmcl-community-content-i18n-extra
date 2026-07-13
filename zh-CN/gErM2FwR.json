@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5aaaa440cf44eda",
+  "content": "\n\n## 🔔 现已支持 [Respackopts](https://modrinth.com/mod/respackopts)！\n只想修改草方块？不想改动仙人掌？对甘蔗没兴趣？没问题。  \nRespackopts 为资源包提供了一种在资源包菜单中自定义配置界面的方式。  \n只需根据需要轻松开启或关闭各项功能！\n\n# 工作原理\n本资源包仅会添加自定义的**模型**与**方块状态**，_不替换任何纹理_。\n\n![默认展示](https://cdn.modrinth.com/data/cached_images/4c64cf1e78b6d61f01661fc4f33f847996ede1eb.png)\n\n它利用原有纹理，对部分环境**方块模型**进行微调（例如草方块和仙人掌）。\n\n![边缘植被预览（开关渐变效果）](https://cdn.modrinth.com/data/cached_images/194d76cca6a103d77864aa3b564ca197458b2cd1.gif)\n\n_([抱歉画质有限——建议前往画廊查看！](./edgy-foliage/gallery))_\n\n## 鸣谢\n最初灵感来源于 Reddit 上的 [u/alkalinechaos](https://www.reddit.com/user/alkalinechaos/) 及其[原帖](https://www.reddit.com/r/Minecraft/comments/2mz9m4/custom_grass_block_model_makes_grass_less_blocky/)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

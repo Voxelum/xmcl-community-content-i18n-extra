@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ec1e6a8dd105a2ec",
+  "content": "\n\n本着色器是基于 Coldnight 制作并遵循 Apache 许可证的《[The-Next-Shader](https://modrinth.com/shader/the-next-shader)》修改而来。它旨在实现半写实风格与高性能，并包含原版所没有的一些基础功能。\n\n## **功能特性**\n * GTAO（真实环境光遮蔽）\n * RSM（反射阴影贴图）\n * SSPT（屏幕空间路径追踪）\n * 大气散射\n * 体积云\n * 平面云\n * 泛光\n * AGX 色调映射\n * 水面波浪\n * 雨天水洼（经 [Complementary](https://modrinth.com/shader/complementary-reimagined) 授权 :D）\n * 湿润表面\n * 基础 POM（视差遮挡映射）\n * TAA（时间抗锯齿）\n * 高光反射\n * 运动模糊\n * 景深\n * 体积雾\n * 体积光\n * 镜头光晕\n * 屏幕空间反射\n * 雨滴涟漪\n * PCSS 软阴影\n\n具体还有没有其他功能就不清楚了，你可以亲自体验探索一下。\n\n## **支持的模组**\n * 基础支持 [Voxy](https://modrinth.com/mod/voxy)\n\n如果你发现任何问题（如游戏渲染异常、画面瑕疵等），欢迎向我反馈以便修复。你可以在[此处⁠](https://github.com/lothanhchiton/serendipity/issues)提交 Issue。\n \n本着色器已在 Intel 显卡上完成测试。理论上它应兼容 AMD 和 Nvidia 显卡，但本人无法完全保证。\n此外，也可借助 [MobileGlues](https://github.com/MobileGL-Dev/MobileGlues-release) 在移动端加载；iPhone 用户可使用 [congcq](https://github.com/congcq) 开发的 [Hynis](https://github.com/congcq/Hynis) 启动器配合其他渲染器进行加载。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

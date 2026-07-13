@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e271771f17e41278",
+  "content": "\n\n## [东方少女](https://modrinth.com/mod/touhou-little-maid) 非官方 Fabric 移植版\n本模组的功能与原版保持一致，不过对应版本可能稍显过时。<br>\n这是一款为 Minecraft 加入可爱女仆的模组，她们能够协助战斗、耕种及其他各类任务。\n本模组支持以基岩版实体格式加载自定义模型，你可以轻松切换女仆模型，或自行创建专属的女仆模型。<br>\n关于 TLM 的详细信息，请参阅其 [WIKI](http://page.cfpa.team/TouhouLittleMaid/)。<br>\n\n**注意：**\n- **本模组需要 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)。**\n- **若要在游戏内修改部分设置，请安装 [Cloth Config API](https://modrinth.com/mod/cloth-config)。**\n- **本模组目前仍处于实验阶段，可能存在一些 Bug。**\n- **若要安装 TACZ-Fabric-1.20.1，必须使用 [此分支](https://github.com/Sh1roCu/TACZ-Fabric/releases/tag/v1.0.2-hotfix4)，否则女仆将不会发出声音。**\n- **自版本 1.20.1-0.1.7.1-(neo)forge1.3.8 起兼容 [TACZ-Refabricated](https://github.com/Sh1roCu/TACZ-Refabricated)，不支持旧版 TACZ-Fabric。**\n\n**<br>\n若要扩展本模组，可在你的 fabric.mod.json 中添加类型为 \"little_maid_extension\" 的入口点：** \n\n```\n  \"entrypoints\": {\n    \"little_maid_extension\": [\n      \"com.example.yourmod.YourMaid\"\n    ]\n  },\n```\n\n**并实现** ```ILittleMaid``` 接口",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

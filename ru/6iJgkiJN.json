@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d453c8dfd3e76099",
+  "content": "\n\nМоя попытка создать мод для отображения пинга в HUD.\n\n ![Пример отображения](https://cdn.modrinth.com/data/6iJgkiJN/images/caf6f5efad1e77534a5bb3248086ddd0f3f789eb.png)\n\nНастройки внешнего вида можно открыть через кнопку в левом верхнем углу меню паузы (только для версии 1.8.9), с помощью привязки клавиш (по умолчанию —), а также с помощью команды `/pingcounter` (для версий 1.21.x+).\n\n ![Меню настроек](https://cdn.modrinth.com/data/6iJgkiJN/images/7786ae27bc9db6a8a786098c831596e486ac6c39.png)\n\nЕсли кнопка настроек (только для 1.8.9) перекрывается элементами других модов, её можно отключить, установив параметру `hideSettingsButton` в файле конфигурации значение `true`.\n\nВ отображаемом тексте `$[ping]` заменяется на текущий пинг до сервера. Если оставить текстовое поле пустым, настройки вернутся к значениям по умолчанию.\n\n**Настройки могут измениться после обновлений.**\n\nGitHub: https://github.com/EverTech1/PingCounter\n\nСообщать об ошибках здесь: https://github.com/EverTech1/PingCounter/issues\n\nEmail для связи: evertech1mc@gmail.com",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

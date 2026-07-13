@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2sBWok/1alQ=",
-  "content": "# Дополнительные библиотеки VulkanMod\n\nДополнительные библиотеки для VulkanMod.\n\nВ настоящее время добавлены следующие библиотеки:\n- нативные библиотеки lwjgl для Windows и Linux ARM\n\n## Установка\n\nЭто дополнение, пожалуйста, убедитесь, что файл `VulkanMod.jar` находится в вашей папке `mods`.",
+  "bodyHash": "78d593d40ad93949",
+  "content": "\n\n# Дополнительные библиотеки для VulkanMod\n\nДополнительные библиотеки для VulkanMod.\n\nВ настоящее время добавлены следующие библиотеки:\n- нативные библиотеки LWJGL для Windows и Linux ARM\n\n## Установка\n\nЭто дополнение, убедитесь, что `VulkanMod.jar` находится в вашей папке `mods`.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

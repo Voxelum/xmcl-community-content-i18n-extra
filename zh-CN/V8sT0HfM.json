@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RE1a4bDnTjU=",
-  "content": "## [支持的模组](https://hackmd.io/@TagnumElite/PEI_ModList)\n\n## 描述：\n\nProjectE Integration 将其他模组中的物品、流体、方块及配方与 ProjectE 集成，使其默认具有 EMC 值或通过配方获得 EMC。\n\n例如，沉浸工程的工作台能让真空管通过蓝图配方获得 EMC。\n\n如有问题或建议，请[在此 GitHub 页面](https://github.com/TagnumElite/ProjectE-Integration/issues/new/choose)反馈。\n\n### 背景：\n\n启发这一切的原版模组是 [Expanded Equivalence](https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence)。我希望为更多模组提供支持，并且无需核心模组修改即可实现。因此 PEI 诞生了。\n\n### 许可：\n\n你可以将该代码用于任何目的，它基于 [MIT 许可证](https://choosealicense.com/licenses/mit/)。若将此代码用于任何恶意目的，我将要求将其移除。",
+  "bodyHash": "dcda534a0d766871",
+  "content": "\n\n## [支持的模组](https://hackmd.io/@TagnumElite/PEI_ModList)\n\n## 描述：\n\nProjectE Integration 将其他模组的物品、流体、方块及配方整合至 ProjectE 中，使其默认或通过配方生成 EMC。\n\n例如，沉浸工程 (Immersive Engineering) 的工作台可通过蓝图配方使真空管获得 EMC。\n\n请前往 [GitHub 页面](https://github.com/TagnumElite/ProjectE-Integration/issues/new/choose) 报告问题或提交建议。\n\n### 创作背景：\n\n启发本模组的原始作品是 [Expanded Equivalence](https://www.curseforge.com/minecraft/mc-mods/expanded-equivalence)。我希望支持更多模组，且希望在不依赖核心模组修改的前提下实现该功能。PEI 由此诞生。\n\n### 使用许可：\n\n您可以自由使用本代码，本项目采用 [MIT 许可证](https://choosealicense.com/licenses/mit/)。若您将本代码用于任何恶意用途，我将立即撤销授权并下架相关内容。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

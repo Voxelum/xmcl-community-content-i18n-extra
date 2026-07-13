@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4536df3149a21ac9",
+  "content": "\n\n<p><strong>CBC: Firepower Components</strong> 是 <strong>Create Big Cannons</strong> 的一個小型擴充模組。它提供了一些緊湹型方塊，用於大砲組建時節省空間，避免標準的安裝與裝填配置佔用過多區域。</p>\n<p>目前版本包含：</p>\n<ul>  \n&nbsp; <li><strong>緊湹型大炮砲架</strong> - 適用於大型大炮的單格側置砲架。</li>  \n&nbsp; <li><strong>緊湹型自動砲砲架</strong> - 適用於自動砲的緊湹型砲架，並負責操控自動砲。</li>  \n&nbsp; <li><strong>自動砲供彈裝置</strong> - 將散裝自動砲彈供應至相鄰已組建的緊湹型自動砲砲架。</li>  \n&nbsp; <li><strong>大炮彈匣裝填器</strong> - 為已組建的大型大炮砲架提供三發容量的外部彈匣。</li>  \n</ul>\n<p>該彈匣裝填器可接收砲彈與動力彈殼的配對，等待三發子彈全部就緒後，再將其供入已安裝的大砲。擊發後的空大彈殼可透過標準的物品自動化機制從側面、背面或底部抽出。</p>\n<p>本模組在功能與視覺風格上皆力求貼近 Create Big Cannons。由於美術與建模並非我的專長，大部分視覺素材皆由 AI 協助製作，並針對本模組進行了調整。</p>\n<p><strong>必要依賴項：</strong></p>\n<ul>  \n&nbsp; <li>Create</li>  \n&nbsp; <li>Create Big Cannons</li>  \n&nbsp; <li>Ritchie's Projectile Library</li>  \n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

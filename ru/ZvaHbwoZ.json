@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+peySQn+JUs=",
-  "content": "# Улучшенный отображение пинга — версия для Forge/NeoForge\n\n_Это мод для Forge. Для версии этого мода под Fabric нажмите [здесь](https://modrinth.com/mod/better-ping-display-fabric)._\n\n\nМод для Minecraft, который отображает пинг каждого игрока в списке игроков в виде числа. Также есть файл конфигурации для изменения цвета и формата текста (доступно только для Minecraft 1.12+).\n\n![](https://vladmarica.com/assets/minecraft/better-ping-display.png)\n\nЭто мод для клиентской стороны. Серверу не требуется его установка. Он работает даже при игре на чистых серверах.\n\n### Конфигурация\n\nОзнакомьтесь с https://github.com/vladmarica/better-ping-display#configuration, чтобы узнать, что делают различные параметры конфигурации.\n\n",
+  "bodyHash": "0247f3771dce2c63",
+  "content": "\n\n# Better Ping Display - Версия для Forge/NeoForge\n\n_Это мод для Forge. Для версии под Fabric нажмите [здесь](https://modrinth.com/mod/better-ping-display-fabric)._\n\n\nМод для Minecraft, отображающий пинг каждого игрока в списке игроков в виде числа. Также имеется конфигурационный файл\nдля изменения цвета и формата текста (доступен только для Minecraft 1.12+).\n\n![](https://vladmarica.com/assets/minecraft/better-ping-display.png)\n\nЭто клиентский мод. Серверу не требуется его установка. Он работает даже при игре на ванильных серверах.\n\n### Конфигурация\n\nПодробное описание назначения различных параметров конфигурации см. на https://github.com/vladmarica/better-ping-display#configuration.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

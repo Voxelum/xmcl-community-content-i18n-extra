@@ -1,14 +1,6 @@
 {
-  "bodyHash": "rEjLj41mMrc=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "f2e3055d-17e4-9092-8f91-1ef0a696f65f"
-  },
+  "bodyHash": "5b346602ba6da642",
+  "content": "\n\n**Do a Flip** — это мод только для клиента, который даёт мобам шанс выполнить сальто вперёд или назад при падении на расстояние более 2 блоков.\\\nМод включает следующие параметры конфигурации:\n\n-   **flipChance** — Вероятность выполнения сальто мобом (от 0 до 1). По умолчанию установлено значение 0,35, что соответствует 35%.\n-   **invertMobs** — Инвертирует параметр **flippingMobs**, превращая его в чёрный список вместо белого.\n-   **flippingMobs** — Список мобов, способных выполнять сальто. По умолчанию это чёрный список, содержащий ID **летучих мышей, стоек для брони, Эндер-драконов и визеров**, поскольку параметр **invertMobs** по умолчанию имеет значение `true`.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

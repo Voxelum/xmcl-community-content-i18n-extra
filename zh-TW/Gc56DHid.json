@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eda077713d3ce830",
+  "content": "\n\n此模組將封包大小從 2MB 提升至 Java 整數最大值，使部分大型資料包得以正常運作，並防止客戶端因觸發最大封包限制而被踢出伺服器。若您的整合包已安裝 Origins，強烈建議使用此模組，因為相關的資料包經常會發送體積異常龐大的封包。\n\n此模組修復了以下問題：[The bug in question.](https://bugs.mojang.com/browse/MC-185901)，該問題通常會伴隨以下錯誤訊息：\n\n- 有效載荷不得超過 1048576 位元組\n- 有效載荷不得超過 32767 位元組\n\n若您正在尋找適用於 1.20.2 之後版本的模組封包解決方案，建議您改用 [Robin's Unlimited Packets](https://modrinth.com/mod/unlimited-packets)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

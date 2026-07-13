@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b252f0b65daa6766",
+  "content": "\n\n<p>服务端模组，包含一些用于减少模组环境中AI引起延迟的功能。</p>\n<p>如果你的整合包使用了 Lycanites Mobs，强烈推荐使用。</p>\n<p>&nbsp;</p>\n<p>你还能减缓兔子的移动速度！（仅适用于 1.12.2）</p>\n<p>&nbsp;</p>\n<p>提供适用于&nbsp;Forge 1.12.2 和 Forge 1.16.5 的版本。</p>\n<p>&nbsp;</p>\n<p>若满足以下条件，建议在你的整合包中使用：</p>\n<ul>\n<li>你的整合包包含增加最大实体半径的模组（如 Lycanites Mobs、Advanced Rocketry、Immersive Railroading 等）</li>\n<li>你的整合包运行着 Ice and Fire（1.12.2）</li>\n<li>你的兔子过于聪明（1.12.2）</li>\n</ul>\n<p>&nbsp;</p>\n<p>在 1.16.5 版本中，该模组将<em>仅当</em>你的整合包包含增加最大实体半径的模组（例如 Lycanites Mobs）时才会发挥作用，否则反而会导致运行更慢。请注意！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

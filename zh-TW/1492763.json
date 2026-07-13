@@ -1,6 +1,6 @@
 {
-  "bodyHash": "rrJ8vJiPsOE=",
-  "content": "<p>Iron's Lib 是一個為我的模組添加易於重用框架的函式庫，同時也提供 Patreon 整合 API 層。</p><p><strong>裝備外觀變換系統 (Transmogs)</strong></p><ul>\n<li>為物品套用獨特的護甲模型</li>\n<li>高度可自訂的護甲介面</li>\n<li>自動披風物理處理</li>\n</ul><p><strong>雕像系統 (Statues)</strong></p><ul>\n<li>動態玩家雕像資源生成</li>\n<li>動態多方塊結構處理</li>\n<li>靜態模型渲染</li>\n</ul><p><strong>屬性系統 (Attributes)</strong></p><ul>\n<li>輕量且不侵入式地實現常見 RPG 風格屬性<ul>\n<li>護甲穿透、挖掘速度、經驗獲取、箭矢傷害、暴擊傷害、閃避機率、治療量加成</li></ul></li>\n<li>屬性重新映射器，可在遊戲中動態熱交換物品屬性以達成最高相容性<ul>\n<li>原生相容 Apothic Attributes</li>\n<li>提供程式碼與資料包兩種接入點</li></ul></li>\n</ul><p><strong>Patreon 整合</strong></p><ul>\n<li>提供上述所有功能的 Patreon 整合服務</li>\n</ul>",
+  "bodyHash": "91ad7be5b5051375",
+  "content": "\n\n<p>Iron's Lib 是一個為我的模組提供易於複用框架的函式庫，同時包含 Patreon 整合 API 層。</p>\n<p><strong>外觀轉換</strong></p>\n<ul>\n<li>為物品套用獨特的護甲模型</li>\n<li>高度可自訂的護甲介面</li>\n<li>自動處理披風物理運算</li>\n</ul>\n<p><strong>雕像</strong></p>\n<ul>\n<li>動態生成玩家雕像資源</li>\n<li>動態處理多區塊結構</li>\n<li>靜態模型渲染</li>\n</ul>\n<p><strong>屬性</strong></p>\n<ul>\n<li>輕量且非侵入式的常見 RPG 風格屬性實作<ul>\n<li>護甲穿透、採掘速度、經驗獲取、箭矢傷害、暴擊傷害、閃避機率、治療量</li></ul></li>\n<li>屬性重新映射器，支援遊戲內動態切換物品屬性以達成最大相容性<ul>\n<li>原生相容 Apothic Attributes</li>\n<li>提供程式碼與資料包的入口點</li></ul></li>\n</ul>\n<p><strong>Patreon 整合</strong></p>\n<ul>\n<li>為上述所有功能提供 Patreon 整合服務</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

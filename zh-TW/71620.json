@@ -1,0 +1,6 @@
+{
+  "bodyHash": "613b345f58c96b84",
+  "content": "\n\n<p>此模組修復了Minecraft中長期困擾亞洲玩家的輸入錯誤<br></p>\n<p>功能：<br>&nbsp;&nbsp;您現在可以使用輸入法在遊戲中輸入多字元（如中文、日文等）<br>&nbsp;&nbsp;(已在Windows平台測試)</p>\n<p>需求：<br>&nbsp;&nbsp;Forge Mod Loader</p>\n<p>其他平台（實驗性）：<br>&nbsp;&nbsp;在Mac和Linux上輸入文字時，請開啟您想要輸入的位置，按下F12鍵，應該會彈出一個輸入視窗，然後輸入您想要的內容。<br>&nbsp; 另外，當輸入視窗開啟時，您的遊戲可能會顯示無回應狀態。<br>&nbsp;&nbsp;在Windows平台上不會有F12這個功能。<br>&nbsp;&nbsp;若要停用F12功能，請刪除jar檔案內的'\\lain\\mods\\inputfix\\impl\\GuiScreenFixOthers.class'，這將使模組回退至Windows的預設流程。</p>\n<p>適用於 1.9 及以上版本：</p>\n<p>&nbsp; 您不需要此模組，我認為官方已採用此修補程式。在Windows平台上應該預設即可正常運作。我認為我不會再更新此模組，因為其他平台的支持似乎無法正常運作（我認為）。</p>\n<p>適用於 1.7.2：<br>&nbsp; 1.7.10 版本會導致崩潰，請使用 1.7.2 版本。</p>\n<p>適用於 1.6.x：<br>&nbsp; 您需要將其安裝在伺服器上，才能正確在告示牌上輸入文字。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

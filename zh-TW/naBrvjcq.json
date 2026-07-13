@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ef980e13c2782f2",
+  "content": "\n\n<img src=\"https://cdn.modrinth.com/data/naBrvjcq/images/0d781f3f3a7f93cb70b2d7808e9fe2ae526a51f0.png\" width=\"500px\" alt=\"展示\">\n\n# Filters API\n\nFilters API 是一套易用、開放且功能完整的程式庫，提供篩選系統來分類您模組的創意模式標籤頁。\n\n透過在創意模式介面左側新增篩選分頁，Filters API 讓您能依據物品所屬類別限制顯示範圍，輕鬆查找所需物品。此外，API 也支援將未分類物品集中至「未分類」篩選器中，避免這些物品從標籤頁消失。\n\n本專案靈感來自 [Filters Mod](https://github.com/MrCrayfish/Filters) 與 [MrCrayfish's Furniture Mod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod)。\n\n## 開發者維基\n\n[https://mc-filters.netlify.app/](https://mc-filters.netlify.app/)\n\n## 語言翻譯\n\nFilters API 正透過 [ZiYue Weblate](https://weblate.ziyuesinicization.site/engage/filters-api/) 進行翻譯。\n\n[![](https://weblate.ziyuesinicization.site/widget/filters-api/multi-auto.svg)](https://weblate.ziyuesinicization.site/engage/filters-api/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

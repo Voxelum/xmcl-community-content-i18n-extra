@@ -1,0 +1,6 @@
+{
+  "bodyHash": "049e85b2fd0bab93",
+  "content": "\n\nProject Red 是一系列模組的集合，旨在透過導線、邏輯閘、積體電路等大幅強化紅石電路系統。本模組深受 Eloraam 開發的《Red Power》啟發。\n\n這是「探索模組」。它為世界生成加入了礦脈與地景結構，並提供實用的工具等內容。\n\n### 依賴項目\n要使 Project Red 正常運作，需要安裝以下幾個外部函式庫模組：\n\n* **[CodeChicken Lib](https://modrinth.com/mod/codechicken-lib)**\n* **[CB Multipart](https://modrinth.com/mod/cb-multipart)**\n\n\n### 模組列表\n以下是 Project Red 各模組的清單與簡要說明。您可以自由選擇要安裝哪些模組。\n\n* **[核心](https://modrinth.com/project/project-red-core)：** 其他模組共用的基礎函式庫。單獨安裝時功能有限，但為*必要*安裝項目。\n* **[擴展](https://modrinth.com/project/project-red-expansion)：** 機器、框架、馬達與電力產生設備。\n* **[探索](https://modrinth.com/project/project-red-exploration)：** 世界生成、礦脈、工具、裝飾方塊等。\n* **[照明](https://modrinth.com/project/project-red-illumination)：** 裝飾性照明，可透過紅石控制。\n* **[整合](https://modrinth.com/project/project-red-integration)**： 可取代大型多方塊電路的紅石邏輯閘。\n* **[傳輸](https://modrinth.com/project/project-red-transmission)**： 可沿牆壁鋪設、繞過轉角並將多條線路合併為一捆電纜的紅石導線。\n* **[製造](https://modrinth.com/project/project-red-fabrication)**： 設計與製作自訂積體電路，並將其作為單一高效能邏輯閘放置（*注意*：需同時安裝**整合**與**傳輸**模組）。\n\n\n### 社群互動\n* [GitHub 討論區](https://github.com/MrTJP/ProjectRed/discussions) - 用於提出功能建議、問題諮詢或其他開發相關討論\n* [Chickenbones Mods Discord](https://discord.com/invite/9nr3qyC) - 若您想聊天或發送私人訊息\n\n### 整合包使用規範\n您可以隨意將我的模組加入整合包中。若能在整合包中附上此頁面的連結，我們將不勝感激 :)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

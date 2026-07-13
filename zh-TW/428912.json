@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9033459d59ba75a0",
+  "content": "\n\n<h2>警告</h2>\n<p><strong>Krypton 仍在開發中。</strong> 我不保證其穩定性、與其他模組的相容性，或能支援所有可能的環境設定。本模組的支援將以「盡力而為」的方式提供。這並非我的正職工作，而是源於過往相關經驗所發展出來的興趣愛好。</p>\n<h2>贊助我！</h2>\n<p>這個模組讓你的伺服器得以順利運行嗎？<a href=\"https://github.com/sponsors/astei\" rel=\"nofollow\">提供一點小額贊助</a>，讓我能夠繼續開發下去。</p>\n<h2>Krypton 是什麼？</h2>\n<p>Krypton（源自古希臘語 <em>kryptos</em>，&quot;the hidden one&quot;）是一款試圖優化 Minecraft 網路堆疊的 Fabric 模組。其技術基礎源自 <a href=\"/linkout?remoteUrl=https%253a%252f%252fvelocitypowered.com%252f\" rel=\"nofollow\">Velocity</a> 與 <a href=\"https://github.com/Spottedleaf/Tuinity\" rel=\"nofollow\">Tuinity</a> 專案的相關開發工作。</p>\n<p>Krypton 包含多項效能優化，包括：</p>\n<ul>\n<li><strong>高度優化的 Netty 處理常式</strong>：源自 <a href=\"/linkout?remoteUrl=https%253a%252f%252fvelocitypowered.com%252f\" rel=\"nofollow\">Velocity</a> 代理伺服器（該專案由我負責開發）。這些處理常式已通過實際環境測試與詳細的效能分析，並會在最適當的情境下策略性地部署原生程式碼。</li>\n<li><strong>整合 Flush 操作</strong>：以降低伺服器 CPU 使用率（並減輕利用猜測執行機制的安全漏洞影響），同時縮短伺服器 Tick 時間。</li>\n<li><strong>微觀優化</strong>：降低記憶體使用量並提升封包序列化速度。</li>\n</ul>\n<p><a href=\"https://discord.gg/RUGArxEQ8J\" rel=\"nofollow\">歡迎加入我的 Discord</a> 以討論本模組或尋求支援。</p>\n<h2>相容性</h2>\n<p>Krypton 應能在任何可運行 Minecraft 的環境中運作——當然，不過它主要針對 Linux 進行最佳化。</p>\n<p>我會盡力確保 Krypton 能與 Fabric API、Lithium 和 Sodium 順利相容。對於這些模組以外的支援，則以「盡力而為」的方式提供。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

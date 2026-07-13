@@ -1,6 +1,6 @@
 {
-  "bodyHash": "VA/QcIBqeNg=",
-  "content": "## 如果你安装了本模组，Sable 和 Sodium 将不再获得官方支持。\n\n## 描述\n\n尽管 Sable 的最新提交包含了对新版 Sodium 的支持补丁，但尚未发布。\n\n因此，本模组将新版 Sodium 的支持反向移植到了 Sable 1.2.2 中，并添加了与新 Sodium 的兼容性。\n\n目前，Create: Aeronautics 也能正常工作。\n\n注意：与其他依赖 Sable 的模组可能会出现兼容性问题。",
+  "bodyHash": "8a114f6c13952bd9",
+  "content": "\n\n## 如果您已安装此模组，Sable 和 Sodium 将不再获得官方支持。\n\n## 描述\n\n尽管 Sable 的最新提交包含了对新版 Sodium 的支持补丁，但该版本尚未正式发布。\n\n因此，本模组将新版 Sodium 的支持反向移植至 Sable 1.2.2，并新增了对新版 Sodium 的兼容性。\n\n目前，Create: Aeronautics 也能正常工作。\n\n注意：依赖 Sable 的其他模组可能会出现兼容性问题。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

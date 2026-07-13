@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e55fc706858d0dcc",
+  "content": "\n\n![軌道電磁炮：更新版](https://raw.githubusercontent.com/Rayness/orbital-railgun-renewed/1.21.1/media/banner-960.png)\n\n**Mishkis 所開發的 [Orbital Railgun](https://modrinth.com/mod/orbital-railgun) 的非官方 NeoForge 移植版**（MIT 授權），已更新至現代 Minecraft 版本——涵蓋從 1.21.1 至 26.1。\n\n製作軌道電磁炮後，按住右鍵透過全螢幕介面瞄準，並點擊左鍵呼叫軌道打擊。三十秒後，半徑 24 格範圍內的所有事物將被蒸發至基岩層。\n\n## 描述\n如果你曾渴望瞬間摧毀大片土地，且完全不在乎當地動植物的死活，那麼我們新發明的軌道電磁炮可能會引起你的興趣。透過運用恆星的力量，你能夠直接與我們的快速反應電磁炮衛星通訊，輕鬆獲得絕對的破壞力。只需瞄準你的軌道電磁炮並開火，短短半分鐘內你就會造成生態浩劫，但至少現在那片區域已經一乾二淨了！\n\n**注意：它確實會摧毀基岩。**\n\n## 特色\n\n- 🛰️ 原汁原味的軌道打擊體驗：瞄準著色器、天際光束、巨大隕石坑\n- ⚡ 更快的爆炸後畫面特效：暗角效果約 8 秒內消散，而非原本的約 20 秒\n- 🧊 無需額外渲染庫——Satin 已被原版後處理管線取代\n- ✅ 相容於 Sodium\n\n## 需求\n\n- NeoForge\n- 對應你 Minecraft 版本的 [GeckoLib](https://modrinth.com/mod/geckolib)（4.x 版適用於 MC 1.21.4 及以下，5.x 版適用於 MC 1.21.5 及以上）\n\n## 致謝\n\n- **Mishkis** —— 原版模組開發者（[GitHub](https://github.com/Mishkis/orbital-railgun)）\n- **Rayness** —— NeoForge 移植版開發者（[GitHub](https://github.com/Rayness/orbital-railgun-renewed)）\n\n## 使用方法\n![請替換為說明圖片](https://cdn.modrinth.com/data/cached_images/685176d5f3faa67d399b210cee1c6c0a4936d78d.png)\n\n製作好軌道電磁炮後，按住右鍵進行瞄準，接著點擊左鍵即可開火。\n\n---\n\n本專案為以原始 MIT 授權發布的**非官方**移植版。若遇到此移植版的問題，請於[此處](https://github.com/Rayness/orbital-railgun-renewed/issues)回報——請勿打擾原作者。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

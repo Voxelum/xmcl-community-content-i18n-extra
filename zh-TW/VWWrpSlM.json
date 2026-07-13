@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fde7e29a4d89457c",
+  "content": "\n\n# 切石機切割木材 - 門與活板門\n此數據包為切石機新增了門與活板門的配方。\n\n### 注意事項：\n\n此數據包會新增配方。若移除此數據包，控制台可能會顯示關於遺失配方的警告訊息。這對您的世界或存檔資料並無危害。\n\n### 安裝方式（Fabric/Forge/Quilt）：\n其功能與數據包相同，但會自動套用至所有安裝此模組時建立或啟用的世界。若您不希望套用到所有世界，請改用數據包。\n\n**Forge**：\n無需額外依賴，只需將模組放入「mods」資料夾即可。\n\n**Fabric**：\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**Quilt**：\n需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)\n\n\n### PurpurPacks\nPurpurPacks 是建議加入 [Purpur](https://purpurmc.org/) 伺服器軟體的功能，或是符合 Purpur 風格的內容，但經評估後認為以數據包形式呈現更為合適！\n\n每個數據包的功能都相當於 Purpur 中的一個獨立設定選項。您可以隨時新增或移除它們，而不會影響伺服器運作。\n\n這些數據包並不依賴 Purpur；它們在原版環境或其他任何伺服器軟體中都能完全正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

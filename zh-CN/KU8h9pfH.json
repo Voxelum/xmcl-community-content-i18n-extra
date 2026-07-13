@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7b765b4a971d7c24",
+  "content": "\n\n# 功能\n此数据包会使部分生物在被带有```#is_fire```标签的伤害击杀时，掉落已烹饪的物品。\n\n由于营火和岩浆块对生物造成的伤害被视为```#is_fire```伤害，因此被营火或岩浆块击杀的生物会掉落熟肉。\n# 支持\n此数据包还支持[山羊掉落物](https://modrinth.com/datapack/goat-drops)和[劫掠兽掉落物](https://modrinth.com/datapack/ravager-drops)，山羊和劫掠兽在被带有```#is_fire```标签的伤害击杀时也会掉落已烹饪的物品；此外，该数据包还兼容[骨头掉落](https://modrinth.com/datapack/bone-drop)。\n\n### 请按顺序输入以下两条指令，以确保该数据包的功能能够正确生效：\n\n```/datapack disable \"file/doesn't_this_count_as_being_burned_to_death_1.0.1+1.21.5\"```\n\n```/datapack enable \"file/doesn't_this_count_as_being_burned_to_death_1.0.1+1.21.5\" last```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

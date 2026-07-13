@@ -1,0 +1,6 @@
+{
+  "bodyHash": "594000a2c1aaa59b",
+  "content": "\n\nMineZero 是一款戰術性檢查點模組，允許玩家設定檢查點並在死亡後重置世界。受 _Re:Zero_ 啟發，它支援單人與多人遊戲。最後設定檢查點的玩家將成為「錨點」，當該玩家死亡時會重置世界，並將所有玩家恢復至儲存狀態，包含物品欄、生命值、飢餓度、灼燒時間與經驗值。\n\n**主要特色：**\n\n*   **受 _Re:Zero_ 啟發**：像菜月昴一樣基於檢查點進行戰術性重置。\n*   **神器笛（Artifact Flute）**：使用特殊物品立即設定檢查點。\n*   **多人遊戲支援**：錨點系統確保合作挑戰體驗。\n*   **實體與物品還原**：重置所有生物、玩家、方塊與地面掉落物。\n*   **支援 9 種語言翻譯**：英語、簡體中文、俄語、巴西葡萄牙語、德語、西班牙語、法語、日語與韓語。\n*   **視覺增強**：採用來自 [unused-textures](https://github.com/malcolmriley/unused-textures) 的貼圖。\n\nMineZero 適合生存挑戰、冒險地圖與角色扮演，能為您的遊戲體驗帶來獨特轉變。\n\n[![加入 Discord](https://i.imgur.com/2F7fEU8.gif)](https://discord.gg/S9zrhP8e5B)\n\n## 社群與反饋！\n\n如果您喜歡我的模組並希望協助塑造其未來，非常歡迎與我聯繫！加入我的 [Discord 伺服器](https://discord.gg/S9zrhP8e5B)，分享您的反饋、回報錯誤、建議新功能，或討論 Minecraft 模組開發。您的意見至關重要，將直接影響模組的發展方向。\n\n***\n\n### 模組推薦？\n\n如果您是 _Re:Zero_ 的粉絲，不妨試試 Zoomerreid 開發的 [_Re:Zero Experience_](https://www.curseforge.com/minecraft/mc-mods/re-zero-experience)。該模組直接加入了動畫中的角色、魔法與技能，帶來相當獨特的體驗。\n\n雖然 _MineZero_ 著重於 **死亡回歸（Return by Death）**，但 _Re:Zero Experience_ 則引入了動畫中的 **魔女因子、神聖庇護以及對抗主要敵人的戰鬥**。這兩個模組並未官方整合，但它們分別為 Minecraft 增添了 _Re:Zero_ 世界中不同的元素。若您對該系列感興趣，絕對值得嘗試。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

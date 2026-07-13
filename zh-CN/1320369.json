@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b3d6c4c141abf038",
+  "content": "\n\n<p>应用发电机为AE2添加了FE发电机。</p>\n<ul>\n<li><strong>奇点发电机</strong> - 通过消耗奇点来产生FE。</li>\n<li><strong>通量发电机</strong> - 以恒定速率持续产生FE。</li>\n</ul>\n<p>该模组还添加了FE存储设备与部分功能方块。</p>\n<ul>\n<li><strong>通量存储单元</strong> - 可像箱子一样储存FE。</li>\n<li><strong>创世纪合成器</strong> - 为本模组物品及部分AE2物品添加合成配方。</li>\n<li><strong>图案缓冲块</strong> - 可储存图案制作所需的原料物品。</li>\n<li><strong>冶炼炉</strong> - 可使用AE能源替代燃料进行冶炼。</li>\n</ul>\n<p>配方查看器集成：EMI、REI、JEI</p>\n<p><strong><span style=\"text-decoration:underline\">目前，26.1.2版本仅支持JEI。</span></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

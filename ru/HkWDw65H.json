@@ -1,6 +1,6 @@
 {
-  "bodyHash": "R771RHim8/Q=",
-  "content": "### **_EN:_**\nМод добавляет конфиг (CSC client config.toml в .minecraft/config/), который позволяет менять скины игроков на стороне клиента. Для работы с модом рекомендуется мод \"confiured\" или что-то вроде. \"Kleiders Custom Renderer API\" требуется.\n### **_RU:_**\nМод добавляет конфиг (CSC client config.toml в .minecraft/config/), который позволяет менять скины игроков на стороне клиента. Для работы с модом рекомендуется мод \"confiured\" или что-то вроде. \"Kleiders Custom Renderer API\" требуется.",
+  "bodyHash": "645632bcf89ee9c9",
+  "content": "\n\n### **_EN:_**\nМод добавляет конфигурационный файл (CSC client config.toml в .minecraft/config/), который позволяет менять скины игроков на стороне клиента. Для работы с модом рекомендуется использовать мод «Configured» или аналогичный. Требуется «Kleiders Custom Renderer API».\n### **_RU:_**\nМод добавляет конфигурационный файл (CSC client config.toml в .minecraft/config/), который позволяет менять скины игроков на стороне клиента. Для работы с модом рекомендуется использовать мод «Configured» или аналогичный. Требуется «Kleiders Custom Renderer API».",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

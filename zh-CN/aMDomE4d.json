@@ -1,0 +1,6 @@
+{
+  "bodyHash": "442e087c7d6dcf98",
+  "content": "\n\n# 警告！使用了 AI 辅助编程！\n\n\nCC Vessel Fix 是一款小型的 NeoForge 兼容性热修复模组，旨在解决在模组包中使用 Destroy 功能时，Create: Connected Fluid Vessels 在 Create 机械装置上导致服务器崩溃的问题。\n\n当流体输送尝试填充一个已挂载的 Fluid Vessel，而其内部的 `geniusFluidTank` 存储尚未初始化时，就会引发 `NullPointerException`（空指针异常）并导致服务器崩溃。\n\n本模组通过检测异常的 Fluid Vessel 状态来防止崩溃，并在发现故障时安全地中止流体输送，从而避免服务器直接崩溃。当保护机制触发时，附近玩家会在聊天栏收到警告，此时应将受影响的 Fluid Vessel 替换为普通储罐以恢复正常运作。\n\n实际上，该模组也包含俄语翻译 :>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

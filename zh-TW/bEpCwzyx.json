@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5241f8bd1cf2ae17",
+  "content": "\n\n修復 [深層洞穴](https://modrinth.com/mod/deeper_caves) 的問題。\n\n礦石與板岩方塊的掉落表不正確。它們不僅在任何情況下都只會掉落 1 個，而且絲綢之觸附魔也無法生效。以下是修復方案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

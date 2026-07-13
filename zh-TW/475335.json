@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc3e201753bb442c",
+  "content": "\n\n<p>簡單的 Applied Energistics 2 擴充模組。提供更多設定選項。</p>\n<p>&nbsp;</p>\n<p>我的 Discord 伺服器：&nbsp;<a href=\"https://discord.gg/ghrPuEaaWm\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/ghrPuEaaWm</a></p>\n<p>&nbsp;</p>\n<p>需求：Forge、&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" rel=\"nofollow\">AE2</a></p>\n<p>&nbsp;</p>\n<p>設定檔路徑：&nbsp;.minecraft/config/ae2ao.toml</p>\n<p>&nbsp;</p>\n<p><a href=\"https://github.com/Domaman202/AE2AOFE/blob/description/documentation.md\" rel=\"nofollow\">說明文件</a></p>\n<p>&nbsp;</p>\n<p><strong>功能特色</strong></p>\n<ul>\n<li><strong>允許控制器跨樣板連接</strong></li>\n<li><strong>單一 ME 網路中可設置多個控制器</strong></li>\n<li><strong>ME 儲存體防火抗性</strong></li>\n<li><strong>ME 儲存體抗爆炸性</strong></li>\n<li><strong>取消頻道數量限制</strong></li>\n<li><strong>提供上述所有功能的獨立開關設定</strong></li>\n<li><strong>控制器最大尺寸設定</strong></li>\n<li><strong>每個位元組可儲存的物品與流體量設定</strong></li>\n</ul>\n<p>&nbsp;</p>\n<p>本模組僅適用於伺服器端，客戶端無需安裝。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

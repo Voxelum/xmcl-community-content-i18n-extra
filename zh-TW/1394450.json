@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b6da529b871d618",
+  "content": "\n\n<p><strong>這是什麼？</strong></p>\n<ul>\n<li>一款能偵測並記錄使用 Xray 的玩家模組！</li>\n</ul>\n<hr>\n<h2>&nbsp;功能特色有哪些？</h2>\n<ul>\n<li>掃描 Xray</li>\n<li>建立資料夾&nbsp;</li>\n<li>當玩家加入伺服器時，用戶端會檢查是否存在 Xray <strong>材質包</strong>，若發現則會向伺服器發送訊息 `(<code>&lt;伺服器根目錄&gt;/config/xray_reports/</code>)`。</li>\n</ul>\n<hr>\n<h2>說明：</h2>\n<p>其他 Xray 偵測器很容易被繞過，因此我開發了這一款，內建超過五種不同的偵測方式，且準確率達百分之百。</p>\n<hr>\n<h2>致謝：</h2>\n<p>Logo 由 @MarbeledNull 設計</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

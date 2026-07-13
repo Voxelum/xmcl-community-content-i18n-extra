@@ -1,0 +1,6 @@
+{
+  "bodyHash": "39cb9c646f6fc65b",
+  "content": "\n\n提供超精细材质，在近距离观察时增强 PBR 粗糙度效果。可与其他资源包配合使用，也可单独覆盖原版使用。\n\n\n**需要支持该功能的着色器。**\n\n**支持的着色器：**\n\n - Icarus\n    \n - [Just Colored Lighting](https://modrinth.com/shader/just-colored-lighting) \n    \n - [Pegasus](https://modrinth.com/shader/pegasus) \n  \n**即将支持：**\n  \n - Simply Upscaled\n    \n - CTMPOMFIX\n    \n - 任何希望添加支持的着色器，请联系我，我将提供当前版本的代码（但请注意，代码可能会随时更改）\n    \n\n如果你想制作自己的版本，请随意！ResourcePack.zip 中附有一份“READ ME”文件，其中说明了格式要求。该格式在未来版本中可能会根据我的开发经验与你的反馈进行调整。\n\n\n以下视频展示了将此 Macro 资源包叠加在其他资源包之上的效果：视频中演示了结合原版、AVPBR 和 Patrix 的效果。相关链接可在视频描述中找到。本页面的画廊仅展示此 Macro Roughness 资源包的内容。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5tEgYYEpGTM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2YJbUVqobRE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

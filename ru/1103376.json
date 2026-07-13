@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dc80c183dc4455af",
+  "content": "\n\n<h1>Команда списка модов</h1>\n<p>Мод добавляет команду для вывода списка модов. &lt;br/&gt;\nУстанавливать этот мод на стороне клиента не требуется, за исключением использования в одиночной игре.</p>\n<h2>Команды</h2>\n<ul>\n<li><code>/mods</code> : Вывести список модов по имени на сервере</li>\n<li><code>/mods help</code> : Получить справку по команде mods</li>\n<li><code>/mods info &amp;lt;mod_id&amp;gt;</code> : Получить информацию о моде</li>\n<li><code>/mods all [id/name]</code> : Вывести все моды на сервере</li>\n<li><code>/mods normal [id/name]</code> : Вывести обычные моды на сервере</li>\n</ul>\n<h2>Зависимости</h2>\n<ul>\n<li><p><a href=\"https://curseforge.com/minecraft/mc-mods/mcpitanlibarch\" rel=\"nofollow\">MCPitanLib</a></p>\n<ul>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/architectury-api\" rel=\"nofollow\">Architectury API</a></li>\n</ul>\n</li>\n<li><p><a href=\"https://curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a> (только Fabric)</p>\n</li>\n</ul>\n<h2>Лицензия</h2>\n<ul>\n<li>CC0-1.0</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

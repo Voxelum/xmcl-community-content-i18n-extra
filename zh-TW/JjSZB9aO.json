@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d83187d938aacfba",
+  "content": "\n\n# Aetherial Islands：叢集編輯\n\n這是一個簡單的資料包，會修改 [Aetherial Islands](https://modrinth.com/datapack/aetherial-islands)、[Skylands Over The Sea](https://modrinth.com/datapack/skylands-over-the-sea) 與 [Angel Islands](https://modrinth.com/datapack/angel-islands) 的島嶼生成地形函數，讓島嶼以叢集方式出現，而非均勻分佈於整個世界。\n\n### 使用時請務必將此資料包放在其他資料包的*上方*，否則將無法生效！！\n\n請查看圖庫以獲取修改叢集規模與擴散範圍的說明！您也可以將其上傳至 [Misode](https://misode.github.io/worldgen/density-function/) 進行線上編輯。\n\n如果您和我一樣對試煉密室在天空中大量生成感到困擾，可以修改其 `structure_set.json` 檔案中的 `separation`／`spacing` 參數來減少它們。我未來或許會直接納入此功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "P4W4rIl3qlc=",
-  "content": "<p>這是 Mozilla 的 Rhino 程式庫的一個分支，專為模組使用而修改。此程式庫新增了支援 ES6 的 JavaScript 引擎 Rhino，且不依賴於 Java 15 中已移除的內建 Nashorn 引擎。</p><p>此模組本身不會執行任何功能，它是被 <a href=\"https://www.curseforge.com/minecraft/mc-mods/kubejs\" target=\"_blank\" rel=\"nofollow\">KubeJS</a> 使用的函式庫。</p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252flinks.latvian.dev%252f\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://links.latvian.dev/links.png?cf=rhino\" alt=\"\"></a></p><p><a href=\"/linkout?remoteUrl=https%253a%252f%252flinks.latvian.dev%252fpartner\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://links.latvian.dev/partner.png\" alt=\"\"></a></p>",
+  "bodyHash": "c335e1a5f01ce436",
+  "content": "\n\n<p>此為 Mozilla Rhino 函式庫的分支版本，經修改後可供模組使用。該函式庫提供了支援 ES6 的 JavaScript 引擎 Rhino，且不再依賴已在 Java 15 中移除的內建 Nashorn 引擎。</p>\n<p>此模組本身不會執行任何功能，僅作為 <a href=\"https://www.curseforge.com/minecraft/mc-mods/kubejs\" target=\"_blank\" rel=\"nofollow\">KubeJS</a> 所使用的函式庫。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252flinks.latvian.dev%252f\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://links.latvian.dev/links.png?cf=rhino\" alt=\"\"></a></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252flinks.latvian.dev%252fpartner\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://links.latvian.dev/partner.png\" alt=\"\"></a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

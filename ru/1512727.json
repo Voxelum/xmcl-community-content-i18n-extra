@@ -1,0 +1,6 @@
+{
+  "bodyHash": "69172cc844174b3b",
+  "content": "\n\n<h2><strong>ApothSB</strong></h2>\n<p>ApothSB позволяет размещать камни из Apotheosis в слотах фильтров Sophisticated Backpacks, устраняя несовместимость, которая мешала фильтрации камней по тегам.</p>\n<h3><strong>Особенности</strong></h3>\n<ul>\n<li>Теперь камни из Apotheosis можно размещать в слоте фильтра по тегу для улучшений Filter, Pickup и Magnet.</li>\n<li>Выбор тега apotheosis:gem корректно работает после размещения камня в слоте.</li>\n<li>Мягкая зависимость: мод загружается стабильно даже при отсутствии Apotheosis или Sophisticated Backpacks.</li>\n<li>Лёгкий мод без изменений геймплея, исключительно для устранения проблем с совместимостью.</li>\n</ul>\n<h3><strong>Требования</strong></h3>\n<ul>\n<li>Apotheosis 7.x (обязательно).</li>\n<li>Sophisticated Backpacks 3.x (обязательно).</li>\n<li>Sophisticated Core 1.x (обязательно, устанавливается автоматически вместе с Sophisticated Backpacks).</li>\n<li>Minecraft 1.20.1.</li>\n<li>Forge 47.x.</li>\n</ul>\n<h3><strong>Совместимость</strong></h3>\n<p>Minecraft 1.20.1, Forge 47.x, Apotheosis 7.x, Sophisticated Backpacks 3.x.</p>\n<h3><strong>Лицензия</strong></h3>\n<p>MIT</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

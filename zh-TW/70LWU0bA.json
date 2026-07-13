@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a5836f222ddb567d",
+  "content": "\n\n![icon](https://cdn.modrinth.com/data/cached_images/7abbf885f5ef5a7a707961983c42ca6eb7abba89_0.webp)\n\n# New:Sim-U-Kraft\n\nNew:Sim-U-Kraft 是一款適用於 Minecraft 的城市建造與 NPC 生活模擬模組。您可以建立城市、劃定土地、放置建築、僱用市民，並將簡單的聚落轉變為具備建設、農業、商業、工業與物流功能的運作中城鎮。\n\n本模組支援 **NeoForge 上的 Minecraft 1.21.1**，同時亦支援 **Forge 上的 Minecraft 1.20.1**。\n\n![可用於 NeoForge](https://img.shields.io/badge/Available%20for-NeoForge-f16436?style=for-the-badge)\n![可用於 Forge](https://img.shields.io/badge/Available%20for-Forge-f16436?style=for-the-badge)\n\n## 安裝指南\n\n請下載符合您 Minecraft 版本與模組載入器的檔案。Minecraft **1.21.1** 請使用 **NeoForge** 版本，Minecraft **1.20.1** 則請使用 **Forge** 版本。\n\n安裝好正確的模組載入器後，將 New: Sim-U-Kraft 放入您的 mods 資料夾。此外，您還需要安裝與您 Minecraft 版本對應的 **LDLib / LDLib2**。\n\n## 遊戲玩法\n\n首先放置「城市核心」以建立您的城市。接著，您可以劃定區塊、管理城市資金，並開始培育市民 NPC 人口。\n\n建築需透過「建造面板」進行選擇。挑選建築後可在世界中預覽，確認位置後即可讓僱用的建築工人收集素材並進行建造。\n\n市民可擔任各種職業，例如建築工、規劃師、農民、商業從業人員、工業從業人員與物流人員。隨著時間推移，您的城市將從小型基地發展為包含住宅、農場、商店、工廠、倉庫與物品輸送路徑的活躍生產網絡。\n\n## 補充說明\n\nNew: Sim-U-Kraft 專為單人遊戲與專用伺服器設計。城市資料與 NPC 工作由伺服器處理，而客戶端則負責顯示 HUD、介面畫面、預覽圖與狀態更新。\n\n本模組內建英文與簡體中文語系，提供可自訂的客戶端與伺服器選項，並支援 Xaero's World Map 的城市高亮顯示功能（選配）。\n\n## 授權條款\n\nNew: Sim-U-Kraft 採用 **GPL 3.0** 授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "t8rum7K4Zpg=",
-  "content": "![Замените это описанием](https://cdn.modrinth.com/data/cached_images/a86380a4614998aaad6fcce8209e1260f90e4db5.png)\n\n#\n\nЭтот пакет делает AL's Ghasts Revamped совместимым с Fresh Animations от Fresh_LX!\n\n  \n\nПоскольку AL's Ghasts Revamped использует пользовательскую модель для своего Ghast и Happy Ghast, самостоятельно он несовместим с Fresh Animations.\n\nЭтот дополнительный пакет исправляет эту проблему с помощью новых моделей, которые используют соответствующие анимации!\n\n  \n\nВажно:\n\nЧтобы этот пакет работал, необходимо загрузить его выше FA.\n\n  \n\nЗагрузите их в следующем порядке:\n\n- Этот пакет\n\n- Fresh Animations",
+  "bodyHash": "29dba23c1609e152",
+  "content": "\n\n![Замените это описанием](https://cdn.modrinth.com/data/cached_images/a86380a4614998aaad6fcce8209e1260f90e4db5.png)\n\n# \n\nЭтот пакет делает мод AL's Ghasts Revamped совместимым с Fresh Animations от Fresh_LX!\n\nПоскольку AL's Ghasts Revamped использует кастомную модель для Гаста и Счастливого Гаста, сам по себе он несовместим с Fresh Animations.\n\nЭтот аддон исправляет проблему, добавляя новые модели, которые используют соответствующие анимации!\n\nВажно:\n\nЧтобы этот пакет работал корректно, его необходимо загружать выше FA.\n\nЗагружайте их в следующем порядке:\n\n- Этот пакет\n- Fresh Animations",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

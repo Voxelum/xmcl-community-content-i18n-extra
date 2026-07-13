@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Q3GTwi7c0v4=",
-  "content": "# Переключаемая ячейка просмотра AE2\n\nЭтот мод — простое дополнение к AE2, которое добавляет переключаемые ячейки просмотра.\n\n![Демонстрация переключения состояния переключаемой ячейки просмотра правым кликом мыши по ней.](https://raw.githubusercontent.com/Lapis256/AE2ToggleableViewCell/refs/heads/26.1/images/demo.gif)\n\n## Лицензия на текстуры\n\nТекстуры, используемые в этом моде, получены из ресурсов, доступных в\nрепозитории [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2/tree/forge/1.20.1), в частности из ветки\n`forge/1.20.1`, и лицензированы по лицензии [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).\n",
+  "bodyHash": "c6a4d78df1d5b88d",
+  "content": "\n\n# AE2 Переключаемая ячейка просмотра\n\nЭто простой аддон для AE2, добавляющий переключаемые ячейки просмотра.\n\n![Демонстрация переключения состояния переключаемой ячейки просмотра по правому клику.](https://raw.githubusercontent.com/Lapis256/AE2ToggleableViewCell/refs/heads/26.1/images/demo.gif)\n\n## Лицензия текстур\n\nТекстуры, используемые в этом моде, взяты из ресурсов, доступных в\n[репозитории Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2/tree/forge/1.20.1), конкретно из ветки\n`forge/1.20.1`, и распространяются по лицензии [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

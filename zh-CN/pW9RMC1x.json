@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8f7cdee4d2986d04",
+  "content": "\n\n默认行为：进入游戏时所有粒子效果均被禁用——不会显示火焰、烟雾或任何模组添加的粒子。\n\n白名单系统：使用配置文件 particleinterceptor.cfg 定义允许的粒子 ID（例如 minecraft:flame、minecraft:explosion）。\n\n热重载命令：输入 /again 可立即重新加载白名单，无需重启游戏。\n\n/txt 命令：将遇到的所有粒子导出至 config/particle_list.txt，便于构建白名单。\n\nTinkers'Construct 优化：通过配置选项完全禁用 TConstruct 的粒子生成（默认开启，需重启生效；启用后将对 TConstruct 绕过白名单检查）。\n\n服务端优势：拦截粒子网络数据包并阻止创建粒子对象——节省带宽并降低 CPU 负载。\n\n依赖项：需要外部 Mixin 加载器，如 MixinBooter 或 FermiumBooter。\n\n性能提升：大幅减少不必要的粒子渲染，提高 FPS——对低配设备或大型整合包尤为有效。\n\n专为受困于 Tinkers'Construct 伤害叠加粒子刷屏而卡顿的玩家带来的好消息！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "45b48ba637f76b74",
+  "content": "\n\n- 修复了小型填充罐（Create Stuff 'N Additions）与流体容器（Create: Connected）之间的配方重复冲突。\n- ![Replace this with a description](https://cdn.modrinth.com/data/cached_images/3d5538eab784ebaaf6d22058b53d7785148f7edc.png)\n- 现在，你终于可以将流体储罐合成为流体容器，而不会再误合成出小型填充罐；虽然配方成本增加了4个铜锭，但铜矿非常容易获取。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

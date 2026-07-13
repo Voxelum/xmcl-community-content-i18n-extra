@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bcd291873c72de69",
+  "content": "\n\n本模组在开发时使用了 [Sodium](https://modrinth.com/mod/sodium) 和 [Better Combat](https://modrinth.com/mod/better-combat/versions) 模组，因此可能会与这些模组产生兼容性问题。由于我实在写不了代码，本模组是使用 [MCreator](https://mcreator.net/) 设计的，在此感谢开发者们让这一切成为可能。还要感谢 Discord 上 [Afterlife Studios](https://discord.gg/UQAF6Bu4) 的站长，他在部分代码编写上提供了帮助。\n\n你是否也曾想过：“嗯，Mojang 怎么不把某某功能或某某物品加入 Minecraft 呢？”如果是这样，这个模组就是为你准备的。（感谢我的五年级英语老师教会了我什么是反问句。）\n\n\n\n### 它是如何工作的？\n\n我会从 Minecraft 建议网站或 [r/MinecraftSuggestions](https://www.reddit.com/r/minecraftsuggestions/) 寻找有趣的点子，并将它们制作成模组。我计划添加新的结构、生物群系、方块、物品，当然还有 _**卫生纸**_。当然，我也会加入自己的想法，但我主要想实现大家提出的创意。这某种程度上就像是一个属于玩家的模组。~~听起来真老套。~~\n\n\n\n### 为什么要做这个？\n\n我热爱 Minecraft，希望看到它呈现出最佳状态，因此我想把社区建议的功能加入游戏中以改善体验。由于我完全不会写代码，我使用 MCreator 来简单地实现这些想法。我希望这些功能中的一些有一天能加入原版游戏，但目前我只能做到这里了。\n\n\n\n### 它会添加什么内容？\n在 1.0 版本更新中，我计划添加：\n<details>\n<summary>剧透</summary>\n\n- 一口水井\n- 一个小型稻草人\n- 一些碎石块\n- 一处墓地试炼\n- 一座试炼塔（类似《我的世界：地下城》中的）\n- 几种附魔\n- 一些新武器\n- 以及几个新进度。\n  \n\n 内容不算多，但万事开头难嘛。\n</details>\n\n在 2.0 版本更新中，我计划添加：\n<details>\n<summary>剧透</summary>\n\n- 翻滚动作\n- 一个无法实际使用的显微镜\n- 萤火虫（作为无交互性的粒子效果）\n- 一个气压计，以及显示游戏内时间和坐标的时钟\n- 针对一些搞笑随机事件的专属进度\n- 为工具和盔甲新增的独立进度标签页\n- 名为“黑渊洞穴”的新生物群系\n- 坠入末地虚空时将玩家传送至维度顶部\n\n内容依然不多，但实现翻滚动作恐怕会很难。我们拭目以待吧。\n</details>\n\n感谢你阅读完所有内容，祝你今天愉快！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

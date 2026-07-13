@@ -1,0 +1,6 @@
+{
+  "bodyHash": "757b94926b8bee8e",
+  "content": "\n\n**Lamb Lanterns** 是 [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) 的一个小型辅助模组。它允许你将原版灯笼（或灵魂灯笼）放入专用的 **Lantern**（灯笼）Curios 槽位中——然后它就会像真正的灯笼一样运作。\n\n## 功能特性\n\n- 在 Curios 界面中添加了一个专用的 `lantern` 槽位，图标为淡化的灯笼剪影。无需再与背包、戒指或护身符争夺腰带槽位空间。\n- 佩戴的灯笼会悬挂在玩家模型的右侧髋部，链条连接在身体模型的实际髋骨位置。\n- 带有阻尼的 2D 摆锤物理效果：行走时灯笼向前摆动，横向移动时左右摆动，开始潜行时会轻微晃动一下。\n- 安装了 **LambDynamicLights** 后，它会通过 LDL API 发出真实的动态光源——效果完全等同于你手持灯笼。\n\n需在**服务器和客户端同时安装**——槽位数据由服务端管理（Curios 以服务端为准），渲染和动态光源效果则在客户端运行。\n\n## 注意事项\n\n- 悬挂的灯笼模型渲染参数设为 `hanging=true`，因此即使上方没有附着方块，链条依然可见。\n- 数据包可以通过给物品添加 `#curios:lantern` 标签将其加入该槽位。这些物品可以存放，但除非物品自带第三方 `ICurioRenderer`，否则只有原版灯笼会在角色身上渲染。\n- 原版光照是单色的，因此在原版中灵魂灯笼的光也是白色的。支持逐方块发射着色的着色器包会自行为其添加颜色。\n\n## 鸣谢\n\n基于角色的固定渲染方式和摆锤造型灵感来源于 Toni 制作的 [ImmersiveLanterns](https://modrinth.com/mod/immersive-lanterns) —— 强烈推荐去看看，它能提供更全面的灯笼配件实现。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

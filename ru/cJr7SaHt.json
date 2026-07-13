@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f0a34ec253e14ea2",
+  "content": "\n\n# Navigator\n\nNavigator — это API-мод, позволяющий другим модам добавлять интеграцию с:\n* [JourneyMap](https://modrinth.com/mod/journeymap/versions?g=1.7.10)\n* [Xaeros World](https://modrinth.com/mod/xaeros-world-map/versions?g=1.7.10) & [Minimap](https://modrinth.com/mod/xaeros-minimap/versions?g=1.7.10)\n* [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) (ограниченная поддержка)\n\n### Зависимости\n* [GTNHLib](https://modrinth.com/mod/gtnhlib)\n\n### Пример реализации слоя\nNavigator предоставляет отладочный слой, который также можно использовать в качестве шаблона для ваших собственных слоёв.\n* [JourneyMap Dirty Chunk Layer](https://github.com/GTNewHorizons/Navigator/tree/master/src/main/java/com/gtnewhorizons/navigator/impl/journeymap)\n* [Xaeros Dirty Chunk Layer ](https://github.com/GTNewHorizons/Navigator/tree/master/src/main/java/com/gtnewhorizons/navigator/impl/xaero)\n* [The ButtonManger, LayerManager и ILocationProvider](https://github.com/GTNewHorizons/Navigator/tree/master/src/main/java/com/gtnewhorizons/navigator/impl) всегда являются общими для обоих модов.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

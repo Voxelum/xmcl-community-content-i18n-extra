@@ -1,0 +1,6 @@
+{
+  "bodyHash": "56df74f556cb1369",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/tpiCtpRqk2Q\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n這款簡單且高度可自訂的模組將《Minecraft》轉變為殭屍末日世界，同時仍保持與原版的兼容！它的體驗更偏向於一種遊戲模式或迷你遊戲，而非傳統意義上的模組。\n\n# 功能特色\n- 殭屍在白天不再會被陽光燃燒\n- 殭屍仍可在白天生成，但生成率會降低（預設為 25%）\n- 方塊光源（例如火把）仍可防止殭屍生成\n- 所有難度的殭屍都能破壞門\n- 村民被殭屍殺死時必定會轉化為殭屍村民\n- 90% 的村莊已被遺棄，且充滿了殭屍村民！\n\n# 設定選項\n所有功能均可在設定檔中調整開關，惟村莊遺棄率除外（因該功能依賴資料包）。不過，您可以在建立世界畫面中停用該資料包，或使用其他資料包進行覆蓋（請確保其載入順序排在該模組資料包之上）。\n\n# 相容性\n以下模組已與「TNT's Zombie Apocalypse」進行測試並確認相容：\n- [TNT's Combat](https://modrinth.com/mod/tnts-combat)\n- [TNT's Harder Beds](https://modrinth.com/mod/tnts-harder-beds)\n- [Beddium](https://modrinth.com/mod/beddium)\n\n經測試，OptiFine 會在遊戲啟動時導致崩潰。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

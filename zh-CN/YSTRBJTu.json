@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Ow/HBOl9uco=",
-  "content": "Sable: Ragdoll Dummies 是 Sable: Ragdolls 的一个附属模组，新增了**布偶假人**物品，让你无需使用指令即可生成假人！\n\n该模组需要 **Sable** 和 **Sable: Ragdolls** 才能正常工作。\n\n## 特性\n\n你可以用雕刻过的南瓜和盔甲架合成布偶假人物品！\n![布偶假人合成配方](https://cdn.modrinth.com/data/cached_images/ef7dd50b1931a90d05276c42d7d8442aa3babd03.png)\n\n在铁砧上将布偶假人物品重命名为玩家的用户名，就能更改皮肤！\n![将布偶假人重命名为 Notch](https://cdn.modrinth.com/data/cached_images/07dd2ad4e39ef012dba3cb36cb553fa77c8258b6.png)\n\n只需右键点击地面，即可放置布偶假人！\n![现在假人看起来像 Notch 了！](https://cdn.modrinth.com/data/cached_images/486df3d732738302e89748853bceff335bfaf5cc.png)\n\n## 免责声明\n\n**目前没有直接的方法移除布偶假人，因此最佳方式是进入 Sable: Ragdolls 的配置文件，启用自动消失选项！**\n\n**你不需要此模组来生成布偶假人！Sable: Ragdolls 本身就提供了生成假人的指令，此模组仅让该流程对生存模式更加友好。**",
+  "bodyHash": "1a5d674fb2bfe343",
+  "content": "\n\nSable: Ragdoll Dummies 是 Sable: Ragdolls 的一个附加组件，新增了一个**布偶假人**物品，让你无需使用指令即可生成假人！\n\n本模组需要 **Sable** 和 **Sable: Ragdolls** 才能正常运行。\n\n## 功能特性\n\n你可以使用雕刻南瓜和盔甲架合成布偶假人物品！\n![布偶假人合成配方](https://cdn.modrinth.com/data/cached_images/ef7dd50b1931a90d05276c42d7d8442aa3babd03.png)\n\n在铁砧中将布偶假人重命名为玩家的用户名，即可更改其外观皮肤！\n![将布偶假人重命名为 Notch](https://cdn.modrinth.com/data/cached_images/07dd2ad4e39ef012dba3cb36cb553fa77c8258b6.png)\n\n只需右键点击地面即可放置布偶！\n![现在这个假人看起来像 Notch！](https://cdn.modrinth.com/data/cached_images/486df3d732738302e89748853bceff335bfaf5cc.png)\n\n## 注意事项\n\n**目前并没有直接移除布偶的简便方法，因此最好的处理方式是在 Sable: Ragdolls 的配置文件中启用自动消失选项！**\n\n**你并不需要安装此模组来生成布偶假人！Sable: Ragdolls 本身已自带生成指令，本模组仅为了让该过程更适合生存模式使用。**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

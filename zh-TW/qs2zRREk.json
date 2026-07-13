@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1e78f871edfcfe94",
+  "content": "\n\n你的快捷鍵太多，但實體鍵盤按鍵不夠用嗎？你厭倦了為了不常用的鍵而不斷重新綁定嗎？是不是很難記住每個按鍵的功能？那麼這個模組正是為你設計的。\n\n本模組新增了「快捷鍵群組」功能，基本上就是將多個快捷鍵合併到單一按鍵上。\n\n## 建立群組\n\n要建立新的群組，請開啟快捷鍵設定畫面，在 KeyBind Bundles 分類（應為第一個）下，點擊 **Add key bundle** 按鈕，然後為你的群組輸入名稱。\n\n![Add bundle](https://cdn.modrinth.com/data/cached_images/b128a4c3d43491ba6d62a0e1a77ed3d45ffbef48.png)\n\n接著，點擊該群組的 **Edit** 按鈕。在新畫面中，將游標懸停在中央的環形選單上，並點擊 **Add entry**。這會再次開啟快捷鍵設定畫面，但此時每個快捷鍵旁都會出現一個選取按鈕。你可以在這裡選擇要加入群組的綁定設定。\n\n選定綁定設定後，你可以在環形選單中編輯各個項目，並自訂其名稱與物品圖示。\n![Binding](https://cdn.modrinth.com/data/cached_images/b97358de217b3ab864ae6e810c8cb2599d4ea657_0.webp)\n\n## 使用群組\n\n按下 Esc 鍵退出編輯選單，並將該群組綁定至某個按鍵。之後在遊戲中，按住你設定的按鍵即可喚出環形選單。將游標懸停於目標項目上並按下滑鼠左鍵，即可觸發對應的快捷鍵。就是這麼簡單！\n\n![Using](https://cdn.modrinth.com/data/cached_images/65a586ee1a843588ecdf208f86fe803e80cab958.png)\n\n你也可以透過右鍵點擊來為鍵位映射添加書籤。一旦設為書籤，按下群組對應的按鍵就會直接觸發該映射，無需打開環形選單。當有按鍵被書籤化時，預設情況下按住 **Radial menu modifier**（即左側 Alt 鍵）即可再次開啟環形選單。在環形選單中，目前設為書籤的按鍵會以紅色高亮顯示。\n\n此模組與 [Controlling](https://modrinth.com/mod/controlling) 相容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5e4bfe135623d123",
+  "content": "\n\n# Create Big Cannons：周邊裝置\n<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/nosqd/cbcperipheral/refs/heads/main/brand/icon.png\" alt=\"Mod Logo\" width=\"256\"/>\n</p>\n\n## 簡短摘要\n> 此模組為 Create Big Cannons 新增了 CC: Tweaked 周邊裝置。\n\n周邊裝置方法：\n- `assemble()` / `disassemble()` - 分別用於組裝與拆解砲塔。\n- `fire()` - 發射砲彈；若砲塔未組裝則會拋出錯誤。\n- `getYaw()` / `getPitch()` - 回傳砲塔目前的偏航角（yaw）與俯仰角（pitch）。\n- `getX()` / `getY()` / `getZ()` - 回傳砲塔安裝方塊的位置座標。\n- `isRunning()` - 回傳砲塔的組裝狀態。\n- `setYaw(yaw)` / `setPitch(pitch)` - 設定砲塔角度；在 `cbc_fixed_cannon_mount` 上無法使用。\n\n## API 文件\nAPI 文件可於此處取得：https://github.com/nosqd/cbcperipheral/wiki/Peripherals\n\n## 開發指南\n此模組僅需使用 Gradle 即可進行編譯，因此你可以在 IntelliJ IDEA 中開啟專案並開始編寫程式碼。\n\n## 貢獻指南\n歡迎所有形式的貢獻。此模組的程式碼與所有資源均採用 MIT 授權條款。\n\n## 歷史沿革\n此模組基於 VS: Addition 的程式碼開發，但我希望將其改寫為不依賴特定物理引擎的版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

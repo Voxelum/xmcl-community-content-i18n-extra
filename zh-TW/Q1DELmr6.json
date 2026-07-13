@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1e72f45b1d990130",
+  "content": "\n\n![Skeletons Revamped 標誌](https://cdn.modrinth.com/data/cached_images/07e8fa43cce25862d25c97d4431c4c4a5cc419f0.png)\n\n# \n\n此附加套件讓 AL 的 Skeletons Revamped 能與 Fresh_LX 的 Fresh Animations 相容！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/S3x1dbaA8JA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n由於 AL's Skeletons Revamped 為骷髏使用了自訂模型，因此單獨使用時無法與 Fresh Animations 相容。\n\n本附加套件透過採用對應動畫的新模型解決了此問題！\n\n \n\n此外，這個 Fresh Animations 專屬版本還提供了一些額外的動畫功能，例如骷髏死亡時會碎裂！\n\n \n\n重要事項：\n\n要使此套件正常運作，您必須將它的載入順序排在 Fresh Animations 之上。\n\n請依以下順序載入：\n\n- 本套件\n- Fresh Animations",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

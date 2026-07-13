@@ -1,6 +1,6 @@
 {
-  "bodyHash": "PlOwsrpzlZk=",
-  "content": "# Touhou Little Maid: Attribute Display\n\n`Touhou Little Maid: Attribute Display` 是一個針對 Minecraft `1.20.1` 的 Forge 模組，為 `Touhou Little Maid` 的女僕新增了一個專用的屬性介面。\n\n## 簡介\n\n本模組為 `Touhou Little Maid` 的女僕 GUI 增加了一個獨立的屬性頁面，用於查看女僕當前擁有的屬性、具體數值、加成區間的構成與公式明細。\n\n介面支援：\n\n- 按模組對屬性進行分組顯示\n- 使用左側分組圖示快速切換\n- 收藏常用屬性並在收藏夾中檢視\n- 顯示屬性的基礎值、加法、乘法及最終結果\n- 自動隱藏沒有語言檔案的屬性\n\n## 需求\n\n- Minecraft `1.20.1`\n- Forge `47.4.0`\n- Touhou Little Maid `1.5.0`\n\n## 備註\n\n- Mod ID: `tlm_atrribute_display`\n- 授權條款: `MIT`",
+  "bodyHash": "1d1e488f12b80383",
+  "content": "\n\n# 東方少女僕：屬性顯示\n\n`東方少女僕：屬性顯示` 是一款適用於 Minecraft `1.20.1` 的 Forge 模組，專為 `東方少女僕` 的女僕新增專屬的屬性檢視畫面。\n\n## 簡介\n\n本模組為 `東方少女僕` 的女僕 GUI 新增了一個獨立的屬性分頁，用於檢視女僕目前的屬性、具體數值、倍率構成與公式明細。\n\n介面功能：\n\n- 依模組將屬性分組顯示\n- 使用左側分組圖示快速切換\n- 收藏常用屬性並於收藏夾中瀏覽\n- 顯示屬性基礎值、加算、乘算與最終結果\n- 自動隱藏無語言檔的屬性\n\n## 需求\n\n- Minecraft `1.20.1`\n- Forge `47.4.0`\n- 東方少女僕 `1.5.0`\n\n## 備註\n\n- 模組 ID：`tlm_atrribute_display`\n- 授權條款：`MIT`",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

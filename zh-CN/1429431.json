@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b9ce5c96ba5548e",
+  "content": "\n\n<section>\n<div>\n<div>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/fb0f5bb0bc9e316c46ea7f496faaa3ba7f4f1872.jpeg\" alt=\"隐藏图腾\"></p>\n<p><strong>图腾触发时保持屏幕整洁。</strong></p>\n<p>这款轻量级客户端资源包移除了不死图腾的炫目特效和状态效果粒子，并将默认图腾音效替换为自定义音效。非常适合 PvP、极限模式玩家以及需要干净画面的创作者。</p>\n<p><strong>功能说明</strong></p>\n<ul>\n<li>无“图腾破碎”干扰：隐藏不死图腾的绿色漩涡/闪光粒子。</li>\n<li>无状态效果光环：移除玩家和生物周围的生命药水/环境效果粒子。</li>\n<li>自定义图腾音效：当图腾触发保护你时播放自定义音效（已包含在资源包内）。</li>\n<li>零性能损耗：纯材质与音效覆盖，无需安装光影或模组。</li>\n</ul>\n<p><strong>兼容性</strong></p>\n<ul>\n<li>版本：Minecraft Java 版。</li>\n<li>支持版本：1.16 - 1.21.x。</li>\n<li>兼容环境：原版、Fabric/Quilt、Forge 及主流客户端。</li>\n</ul>\n<p><strong>安装方法</strong></p>\n<p>下载 ZIP 文件（请勿解压）。</p>\n<p>放置路径：Windows: %appdata%/.minecraft/resourcepacks macOS: ~/Library/Application Support/minecraft/resourcepacks Linux: ~/.minecraft/resourcepacks</p>\n<p>在游戏中依次点击 选项 &rarr; 资源包，将 No Totem Pop Animation &amp; Particles 移至已启用列表顶部。</p>\n<p>点击“完成”。如果音效未立即生效，请按 F3 + T 重载资源。</p>\n</div>\n</div>\n</section>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

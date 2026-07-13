@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d93e5626e4c6213a",
+  "content": "\n\nЭтот мод служит вспомогательным / базовым модом для [Connected Modpack](https://modrinth.com/modpack/connected) и [Create Combined Modpack](https://modrinth.com/modpack/create-combined), на данный момент он добавляет:\n\n## Возможности\n\n### Настройка ускорения фейерверками\n\nУправляет возможностью использования ракет-фейерверков для ускорения элитр в полёте.\n\n**Команда в игре:**\n```\n/connected-core fireworkboosting [true|false]\n```\n\n**Файл конфигурации:**\n\nОткройте `config/connected-core.toml` и установите:\n```toml\nFireworkBoosting = true\n```\n\n- Установите `true`, чтобы **включить** ускорение фейерверками\n- Установите `false`, чтобы **отключить** ускорение фейерверками (по умолчанию)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

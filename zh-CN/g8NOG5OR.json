@@ -1,6 +1,6 @@
 {
-  "bodyHash": "quiuS9r8VHA=",
-  "content": "# 你将长成的树木\n\n本库为Minecraft库，旨在通过允许使用Minecraft结构模板`.nbt`文件创建树木，为用户提供极致的可配置性。\n\n最初为热门模组[你将去的生物群系](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)制作，该库现已面向普通玩家与模组开发者共同开放，提供简便的树木创建系统。\n\n兼容使用本库的服务端与原版客户端连接。\n\n# [Wiki](https://github.com/CorgiTaco/Oh-The-Trees-Youll-Grow/wiki)",
+  "bodyHash": "f86ac94b664b427a",
+  "content": "\n\n# Oh The Trees You'll Grow\n\n这是一款 Minecraft 库，旨在通过允许使用 Minecraft 的结构模板 `.nbt` 文件来创建树木，为用户提供出色的自定义配置能力。\n\n该库最初是为热门模组 [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go) 开发，现已面向所有用户与模组创作者，提供一个简便易用的树木创建系统。\n\n兼容原版客户端连接至搭载此库的服务器。\n\n# [Wiki](https://github.com/CorgiTaco/Oh-The-Trees-Youll-Grow/wiki)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

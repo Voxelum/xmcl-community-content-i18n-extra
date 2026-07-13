@@ -1,6 +1,6 @@
 {
-  "bodyHash": "iJN/t6XRKwI=",
-  "content": "# Разблокировщик ресурс-паков для сервера\nТочно как указано в названии, он позволяет переопределять и перемещать ресурс-паки, предоставляемые серверами, в меню ресурс-паков. Вот и всё.\n\nПоследняя версия https://www.curseforge.com/minecraft/mc-mods/server-pack-unlocker, которая, вероятно, была заброшена\n\n### Отключение ресурс-пака\nЧтобы полностью отключить ресурс-пак сервера (и предотвратить его загрузку), вы можете изменить настройку ресурс-паков сервера на «Отключено», как показано на изображении ниже.  \n<img src=\"https://raw.githubusercontent.com/TheMysterys/Server-Pack-Unlocker/main/images/settings.png\" width=\"500px\">\n\n[Ссылка на GitHub](https://github.com/TheMysterys/Server-Pack-Unlocker/issues)",
+  "bodyHash": "acc53faa28a44aaf",
+  "content": "\n\n# Разблокировщик серверных пакетов ресурсов\nКак следует из названия, он позволяет заменять и перемещать пакеты ресурсов, предоставляемые сервером, в меню пакетов ресурсов. Всё.\n\nАктуальная версия https://www.curseforge.com/minecraft/mc-mods/server-pack-unlocker, разработка которой, вероятно, была заброшена\n\n### Отключение пакета ресурсов\nЧтобы полностью отключить серверный пакет ресурсов (и предотвратить его загрузку), вы можете изменить настройку «Серверные пакеты ресурсов» на «Отключено», как показано на изображении ниже  \n<img src=\"https://raw.githubusercontent.com/TheMysterys/Server-Pack-Unlocker/main/images/settings.png\" width=\"500px\">\n\n[Ссылка на GitHub](https://github.com/TheMysterys/Server-Pack-Unlocker/issues)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

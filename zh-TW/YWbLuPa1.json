@@ -1,0 +1,6 @@
+{
+  "bodyHash": "677bc4a8352c8915",
+  "content": "\n\n# RFTools Power\n\n此模組是 RFTools 的擴充模組，內含多種儲能與發電解決方案。在發電方面，有簡單的煤炭發電機、烈焰棒發電機（來自 Blazerods）以及 Endergenic（來自終界珍珠）。此外還提供跨維度儲能系統，以及可儲存大量能量的多區塊儲能結構。\n\n此模組新增以下發電與儲能選項：\n- 使用煤炭或木炭的簡單發電機\n- 使用烈焰棒的發電機\n- 使用終界珍珠的發電機（Endergenic）\n- 維度電池（Dimensional Powercell），可在極長距離（甚至其他維度）間儲存與傳輸能量\n- 用於大容量儲能的多區塊結構\n\n![RFTools Power blocks](https://cdn.modrinth.com/data/YWbLuPa1/images/4626df831d504396ff30cfe229ea6629d8bc7d7f.png)\n\n**注意！** 此模組需要 RFTools Base 作為前置模組。\n\n# 整合包\n歡迎在您的整合包中自由使用此模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

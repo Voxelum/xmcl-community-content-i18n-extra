@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc0f896428a3bcc7",
+  "content": "\n\nSauriaLib — это форк GeckoLib 3 для версии 1.12.2. Он совместим со всеми старыми модами для 1.12.2, использующими старую GeckoLib 3.\n\n### **Этот мод требует Cleanroom Loader**\n\nИзменения:\n- Исправлен огромный спам в логах при запуске игры\n- Исправлены странные тени на моделях. Хотя для других игроков они всё ещё могут выглядеть необычно\n- Разрешено использование примера мода в релизной сборке, что упрощает тестирование\n- Исправлено неправильное положение шлема брони при приседании\n\nВ планах:\n- Прозрачные текстуры\n- Абстрактный гео-объект для рендеринга модели в любом месте\n- Поддержка [Lumenized](https://www.curseforge.com/minecraft/mc-mods/lumenized)\n- Использование [CodeChickenLib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-cre), чтобы не требовалось делать предметы/блоки TE\n\nО [RiftLibrary](https://www.curseforge.com/minecraft/mc-mods/riftlibrary): Я знаю, что существует другой форк GeckoLib, но он не является ABI-совместимым.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

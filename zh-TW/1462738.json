@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fabad3c9e5637b96",
+  "content": "\n\n<h1 style=\"text-align:center\"><span style=\"color:#169179\"><strong>運作方式：</strong></span></h1>\n<h2><span style=\"color:#2dc26b\">這是一個輕量級的科技模組。當您在物品欄中切換至槍械時，它會自動切換至第一人稱視角。您可以使用指令在客戶端上開關此功能。</span></h2>\n<h1 style=\"text-align:center\"><span style=\"color:#169179\"><strong>指令</strong>：</span></h1>\n<p><span style=\"color:#2dc26b\">/tf - 檢查目前狀態（預設動作）<br><br>/tf toggle - 切換功能開關<br><br>/tf status - 查看功能狀態<br><br>/tf help - 查看說明資訊<br></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

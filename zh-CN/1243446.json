@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WwqiWuHZkLw=",
-  "content": "<h1>REI拼音输入法增强</h1><p>为REI添加更完善的拼音输入支持</p><p>本模组修复了<a href=\"https://github.com/shedaniel/RoughlyEnoughItems/issues/1440\" target=\"_blank\" rel=\"nofollow\">REI拼音输入问题</a></p>\n\n<h3>支持不完整拼音输入</h3>\n<p><img src=\"https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/1.png?raw=true\" alt=\"不完整拼音示例\"></p>\n\n<h3>优化多音字识别</h3>\n<p><img src=\"https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/2.png?raw=true\" alt=\"多音字支持示例\"></p>\n\n<h2>兼容REI版本</h2>\n<ul>\n<li>8.3.519 至 9.0 版本</li>\n<li>9.1.520 及以上版本</li>\n</ul>",
+  "bodyHash": "2d320d612cb19ace",
+  "content": "\n\n<h1>大致足够的输入法</h1>\n<p>为 REI 提供更优质的拼音输入法。</p>\n<p>本模组用于修复 <a href=\"https://github.com/shedaniel/RoughlyEnoughItems/issues/1440\" target=\"_blank\" rel=\"nofollow\">https://github.com/shedaniel/RoughlyEnoughItems/issues/1440</a>。</p>\n<h3>允许输入不完整的声母和韵母</h3>\n<p><img src=\"https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/1.png?raw=true\" alt=\"\"></p>\n<h3>更完善的多音字支持</h3>\n<p><img src=\"https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/2.png?raw=true\" alt=\"\"></p>\n<h2>支持的 REI 版本</h2>\n<ul>\n<li>≥ 8.3.519 且 &lt; 9</li>\n<li>≥ 9.1.520</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

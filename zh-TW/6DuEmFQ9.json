@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ee196888157eef2",
+  "content": "\n\n# 這個資源包的功能是什麼？\n裝備雕刻南瓜時，它會播放《Never Gonna Give You Up》的開頭音樂，並在畫面上以全螢幕播放 Rick Astley 的 GIF 動畫。\n![what it does](https://cdn.modrinth.com/data/6DuEmFQ9/images/ed405decc2b6c8d551ab689505cdcae15c1d7d19.gif)\n\n# **❗❗❗需求❗❗❗**\n**必須在 Fabric 上安裝 [Animatica 模組](https://modrinth.com/mod/animatica/versions)（[Forge 版本請見此處](https://modrinth.com/mod/animaticareforged)），或搭配 OptiFine 才能運作。**\n\n# 如果您使用的是 1.21.7 以上版本\n原版 Animatica 模組宣稱僅支援到 1.21.6，但這並不正確。您可以在 1.21.7-1.21.11 上自由使用 [Animatica 模組 1.21.5-1.21.6](https://modrinth.com/mod/animatica/version/0.6.1+1.21.5)。\n\n# 如果您使用的是 26.1 以上版本\n此時可改用替代方案。您應該使用 [Animatica Refabricated](https://www.curseforge.com/minecraft/mc-mods/animatica-refabricated)。目前僅上架於 Curseforge，但部分優秀的 Fork 開發者（coredex-source）表示該專案目前正在 Modrinth 上進行審核。\n\n# 資源包的隱藏版本\n標記為 1.0.0**b** 的版本為隱藏版本。它會將原本顯眼的「RICKROLL!」資源包名稱替換為「Fixed Sodium Icons🟩」。\n## 1.0.0a\n![1.0.0a](https://cdn.modrinth.com/data/6DuEmFQ9/images/ad09f5f9fb63a6a194cfddc4d44ed7b0ec6de9d2.png)\n## 1.0.0b\n![1.0.0b](https://cdn.modrinth.com/data/6DuEmFQ9/images/b89c2a072f53907ead15d8e86046568298f72db6.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

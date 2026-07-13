@@ -1,6 +1,6 @@
 {
-  "bodyHash": "omMLp93NkP4=",
-  "content": "<h2>О</h2><p><strong>NBT Copy</strong> — это небольшой мод, добавляющий кнопку копирования для вывода команды <code>/data get</code>.</p><p>Это мод серверного уровня, поэтому для работы с <code>/data get</code> в многопользовательской игре его необходимо установить на сервер, однако он также совместим с <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fclient-commands\" target=\"_blank\" rel=\"nofollow\">клиентскими командами</a> <code>/cgetdata</code> на стороне клиента.</p><h2>Пример</h2><p><img src=\"https://media.forgecdn.net/attachments/816/230/example1.png\" alt=\"\"></p>",
+  "bodyHash": "65cb37d65191f33f",
+  "content": "\n\n<h2>О моде</h2>\n<p><strong>NBT Copy</strong> — это небольшой мод, добавляющий кнопку копирования для вывода команды <code>/data get</code>.</p>\n<p>Это серверный мод, поэтому для работы с <code>/data get</code> в мультиплеере он должен быть установлен на сервере, но также работает с <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fclient-commands\" target=\"_blank\" rel=\"nofollow\">clientcommands</a> <code>/cgetdata</code> на стороне клиента.</p>\n<h2>Пример</h2>\n<p><img src=\"https://media.forgecdn.net/attachments/816/230/example1.png\" alt=\"\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9647acc88c3d445d",
+  "content": "\n\n![由多個經過修改的 Minecraft 方塊拼貼而成的圖像，調整了它們在原版遊戲中的外觀，以便更方便地辨識方塊是否處於通電狀態及其他相關特性。](https://cdn.modrinth.com/data/cached_images/dfd9afee1cc5706dbc132704935e83bd68ac26ea.png)\n\n## 關於\n此資源包透過為各種方塊添加可見的機制、燈光與其他指示器，讓紅石裝置更直觀易懂，同時盡可能保持原版視覺風格。 \n\n靈感來自 [Vanilla Tweaks](https://vanillatweaks.net/) 與 [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)，並採用部分該類資源包模型檔案與數張修改過的紋理圖檔，作為本資源包自訂調整的基礎。並非直接複製貼上。 \n\n建議搭配使用 Vanilla Tweaks 的「不發光紅石礦」、「搖滾拉杆」與「視覺蜂蜜階層」功能，它們能完美互補。請將 VRVP 置於資源包列表的最頂端，以確保其優先權高於其他可能覆蓋它的資源包。\n\n## 已修改方塊\n\n- 煉藥鍋\n- 堆肥桶\n- 日光偵測器\n- 發射器\n- 投擲器\n- 漏斗\n- 唱片機\n- 樹葉\n- 音符盒\n- 觀察者\n- 活塞與黏性活塞\n- 延遲器與比較器底面\n- 腳手架\n- 標靶方塊\n- 絆線\n\n請查看圖庫中的圖片與說明，了解這些方塊的具體變更。\n\n## 致謝\n\n作者：batbrain55\n\n靈感來源並參考 Redstone Tweaks 的 `.json` 檔案與數張修改紋理圖：https://www.curseforge.com/minecraft/texture-packs/redstone-tweaks\n\n針對舊版遊戲，靈感來源並參考 Vanilla Tweaks 修改後的 Pixel Consistent Tripwire：https://vanillatweaks.net/\n\nMinecraft 遊戲基礎紋理圖與遊戲版權歸 Mojang 所有",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

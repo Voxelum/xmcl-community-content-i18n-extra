@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1364adf80a5700cf",
+  "content": "\n\n這是 [Fungal Infection:Spore](https://modrinth.com/mod/fungal-infectionspore) 模組的擴充模組，\n\n加入了 Proto Hivemind Girl。\n\n每 50 秒有 1% 的機率，Proto Hivemind 會轉化為 Proto Hivemind Girl。\n\n當 Proto Hivemind Girl 死亡時，會恢復為 Proto Hivemind。\n\n您可以自由將其放入任何整合包中——無需詢問或取得授權——也非常歡迎錄製影片。\n\n指令\n\n```\n/gamerule dophgirlspawn true/false\n若設為 false，Proto Hivemind 將不會轉化為 Proto Hivemind Girl。\n\n/gamerule dophgirlmaxamount [amount]\nProto Hivemind 自然轉化為 Proto Hivemind Girl 的最大數量。\n\n/gamerule phgirlregeneration false/true\n若設為 false，Proto Hivemind Girl 將不會擁有再生效果。\n```\n\n\n![hello](https://cdn.modrinth.com/data/zNYIqpUI/images/34a7b150c0c74a04ce92590d6d0946bfd062d5c0.png)\n\n詳細資訊\n\n<details>\n<summary>劇透</summary>\n\nProto Hivemind Girl 擁有 5 項獨特技能與再生增益效果。 \n\n受到傷害時，有 50% 機率獲得免疫狀態。\n\n免疫火焰、溺水、爆炸、凋靈、閃電、鐵砧、摔落傷害、特定藥水效果、仙人掌及龍息。\n\n技能 1：跳躍並進行快速飛踢。 \n\n技能 2：用右腿將敵人踢開。 \n\n技能 3：對附近敵人造成爆炸傷害。 \n\n技能 4：飛向空中，以閃電和爆炸傷害攻擊敵人。 \n\n技能 5：身體擴大後迅速壓縮，引發核爆。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

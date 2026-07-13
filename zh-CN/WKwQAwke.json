@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0e605de793d98a33",
+  "content": "\n\nLibJF 是我用于小型模组的库，包含多个常用组件。\n具体来说，它提供：\n- 一套完整的配置系统，具备用户界面、命令、编译时代码生成、预设、验证器等功能\n- 一个用于操作已加载数据和资源的框架\n- 两个新标签（你也可以在数据包中使用）：\n  - `libjf:overpowered`：如果实体仅穿戴带有此标签的护甲物品，它将变为无敌状态\n  - `libjf:shulker_boxes_illegal`：带有此标签的物品无法放入潜影盒中。\n    主要用于背包或类似物品\n- 用于序列化、脚本加载、协程、IO 等的工具代码\n- 网络工具，包括 HTTP 客户端和服务器\n- 支持多种提供者的可配置且可扩展的翻译系统\n- 用于早期初始化和 ASM 补丁的工具\n\n如果是我的模组，通常可以默认它依赖 LibJF（或自带了其中的一部分）。\n\n如果你想自行使用 LibJF，可以在[这里](https://mods.jfronny.dev/LibJF)查阅文档。\n\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"建议与支持\" src=\"https://img.shields.io/badge/Suggestions%20and%20Support-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

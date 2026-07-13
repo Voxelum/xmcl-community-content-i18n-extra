@@ -1,6 +1,6 @@
 {
-  "bodyHash": "F43Tdcu4Idk=",
-  "content": "<p><em>「表達」系列的第二個模組。</em></p><p style=\"text-align:center\"><strong>TACZ 版本需要 TACZ，Pointblank 版本則需要 Pointblank<br><br>另外還有僅包含傾斜功能的「通用」版本，無需任何前置模組，因此您可以在上述任一版本中使用，或是在不支援的槍械模組（如 GCAA）上使用<br><br>如果您想為 VPB 增添奔跑動畫與槍械收放動作，請查看 <a href=\"https://www.curseforge.com/minecraft/mc-mods/vpb-expressive-running\" target=\"_blank\" rel=\"nofollow\">VPB Expressive</a><br></strong></p><p>-為所有槍械新增流暢的傾斜動作，包含第一人稱視角的旋轉與變換，目前尚無第三人稱動畫<br>-在瞄準時可進行指向射擊，適用於未配備傾斜瞄具或純粹想展現帥氣姿態的情況<br>-新增匍匐前進動作<br><br><br>開發路線圖 ---<br>-流暢傾斜（終於來了）<br>-指向射擊／戰術姿態<br>-攀爬動作<br>-所有動作的第一人稱動畫<br>-匍匐</p>",
+  "bodyHash": "07fd0706f08a1f5d",
+  "content": "\n\n<p><em>「Expressive」系列的第二款模組。</em></p>\n<p style=\"text-align:center\"><strong>TACZ 版本需要安裝 TACZ，POINTBLANK 版本需要安裝 POINTBLANK。<br><br>有一個僅包含傾斜動作且無需依賴項的「通用（Generic）」版本，因此無論使用哪款槍械模組都可以搭配，或用於 GCAA 等尚未支援的槍械模組。<br><br>如果您需要 VPB 的跑步動畫與收槍動作，歡迎前往查看 <a href=\"https://www.curseforge.com/minecraft/mc-mods/vpb-expressive-running\" target=\"_blank\" rel=\"nofollow\">VPB Expressive</a><br></strong></p>\n<p>-為所有槍械加入順滑的第一人稱旋轉與位移傾斜效果，暫無第三人稱動畫<br>-瞄準時支援指向瞄準，適合沒有傾斜瞄具或單純想耍帥的玩家<br>-匍匐/爬行動作<br><br><br>開發路線圖 ---<br>-順滑傾斜動作（終於有了）<br>-指向瞄準／戰術站姿（Tac stance）<br>-攀越／攀爬動作<br>-所有動作的第一人稱動畫<br>-匍匐動作</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

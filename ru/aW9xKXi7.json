@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c3944a2434333224",
+  "content": "\n\nТребуется [CC:Tweaked](https://modrinth.com/mod/cc-tweaked) версии 1.101.1 или выше\n\nЭтот клиентский мод позволяет добавлять новые накладки на черепах через конфигурационные файлы и ресурпаки\n\n \n```toml\n[\"Client Side Configs for Turtle Cosmetics\"]\n\n        #Пути для ресурсов (пространство имён:ресурс)\n\n        resources = [\"computercraft:block/turtle_elf_overlay\"]\n\n        #Метки для накладок (должны совпадать по количеству с путями)\n\n        label = [\"elf\"]\n```\n \n\nДобавив метку `elf` к черепахе, она получит соответствующую накладку. Накладки можно комбинировать, добавляя в метку ключевые слова для каждой из них. Сам мод не содержит никаких накладок.\n\nДругие моды могут добавлять дополнительные накладки\n\n```java\n\tOverlays.addOverlay(new Overlay(\"glass\",new ResourceLocation(\"minecraft:block/glass\")));\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "23cc5ec9d3848a3b",
+  "content": "\n\n<h2>描述</h2>\n<p>一个轻量级的服务端模组，当玩家在其他人附近快速蹲伏时，会在其头顶生成爱心粒子效果——这是一种简单的友好表示。</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/229f853e39181c31096cbc8252a28a401b63e409.png\" alt=\"封面\"></p>\n<h2>命令</h2>\n<ul>\n<li><code>/kiss &lt;player&gt;</code>：允许你使用此命令亲吻其他玩家（默认情况下，每位玩家每 10 秒只能使用一次该命令。被亲吻的玩家会收到通知，并且其头顶会出现爱心粒子效果。）\n</li>\n</ul>\n<h2>默认配置</h2>\n<p><code>kissmod.json</code></p>\n<pre><code>{\n  // 蹲伏时生成的最大爱心粒子数量（1–20）\n  \"maxSneakParticles\": 6,\n\n  // 粒子的垂直位置偏移量（以方块为单位）\n  // 1.6 = 站立玩家的视线高度\n  \"sneakParticleHeight\": 1.6,\n\n  // 接收亲吻时显示的消息\n  // %s = 自动替换为施吻者的用户名\n  \"kissMessage\": \"%s 亲吻了你！\",\n\n  // 亲吻他人后向发送者显示的消息\n  // %s = 自动替换为接收者的用户名\n  \"kissPromptMessage\": \"你亲吻了 %s\",\n\n  // /kiss 命令的冷却时间（秒）\n  // 防止命令滥用（0 = 无冷却）\n  \"commandCooldown\": 10,\n\n  // 完全启用或禁用 /kiss 命令\n  \"enableKissCommand\": true,\n\n  // 尝试亲吻自己时显示的错误消息\n  \"selfKissErrorMessage\": \"你不能亲吻自己！\",\n\n  // 冷却结束前使用 /kiss 时显示的错误消息\n  // %d = 自动替换为剩余秒数\n  \"cooldownErrorMessage\": \"你必须等待 %d 秒后才能再次亲吻！\",\n\n  // 检测附近玩家以触发亲吻或蹲伏粒子效果的最大视角（度）\n  // 角度越小，仅视为正前方可见的玩家\n  \"maxViewAngleDegree\": 90.0\n}</code></pre>\n<h2>许可证</h2>\n<p><a href=\"https://github.com/jiazengp/kiss-fabric/blob/master/LICENSE\" target=\"_blank\" rel=\"nofollow\">MIT</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

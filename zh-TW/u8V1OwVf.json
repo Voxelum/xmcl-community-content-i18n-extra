@@ -1,6 +1,6 @@
 {
-  "bodyHash": "UqaurZBkatA=",
-  "content": "# 身份變換（非官方 Forge、NeoForge 與 Fabric 移植版）\n\n此為 Draylar1 所開發的 Identity 模組的非官方移植版本，適用於現代 Minecraft 版本。\n\n原始模組已停止維護，且不支援現行的載入器或遊戲版本。  \n本專案專注於讓 Identity 能在當前的 Forge、NeoForge 及 Fabric 模組包中繼續使用。\n\n## 支援的版本\n\nForge 1.20.1  \nFabric 1.20.1 與 1.21.1  \nNeoForge 1.21.1\n\n## 操作方式\n\n按下 # 鍵（數字鍵 1 左側的按鍵）開啟身份變換選單。\n\n## 功能特色\n\n可變形成原版與模組新增的生物  \n重構內部機制以提升穩定性  \n修正身份選單的滾動及版面錯誤等問題  \n減少開啟選單時的效能影響  \n提供飛行、水生及特殊生物行為的設定系統\n\n## 已知問題\n\n變形成冰與火之龍時會呈現幼體型態  \n海蛇會隱形  \n部分飛行與水生生物可能會有飄浮感或動作不順暢  \n部分 GeckoLib 生物無法完整播放動畫\n\n## 相容性說明\n\n自 2.3 版起支援 BjornLib  \n與 Sculk Horde 相容  \n騎龍模組不再造成崩潰，但不支援變形成龍\n\n## 預計開發項目\n\n改善 GeckoLib 動畫支援  \n擴充自訂生物行為的設定選項  \n持續進行相容性與效能修正\n\n## 免責聲明\n\n此為 Draylar1 所開發 Identity 模組的非官方移植版。  \n所有原創功勞歸於原作者。  \n本專案僅為讓該模組能在現代載入器上正常運作而存在。",
+  "bodyHash": "05ced3284c969138",
+  "content": "\n\n# Identity（非官方 Forge、NeoForge 與 Fabric 移植版）\n\n這是 Draylar1 開發的 Identity 模組針對現代 Minecraft 版本的非官方移植版。\n\n原版模組已停止維護，且不支援目前的載入器或遊戲版本。  \n本專案著重於讓 Identity 能繼續在現行的 Forge、NeoForge 與 Fabric 整合包中使用。\n\n## 支援版本\n\nForge 1.20.1  \nFabric 1.20.1 與 1.21.1  \nNeoForge 1.21.1\n\n## 操作方式\n\n按下 # 鍵（位於數字 1 左側的按鍵）開啟 Identity 選單\n\n## 功能特色\n\n可變身為原版與模組生物  \n重構內部程式碼以提升穩定性  \n修復 Identity 選單的捲動與版面配置等問題  \n降低開啟選單時的效能問題  \n提供設定系統，用於調整飛行、水生及特殊生物的行為\n\n## 已知問題\n\n變身為冰火龍時會顯示為幼龍  \n海蛇呈現隱形狀態  \n部分飛行與水生生物的移動手感可能偏飄或動作不夠流暢  \n部分 GeckoLib 實體的動畫無法完整播放\n\n相容性說明\n\n自 2.3 版本起相容 BjornLib  \n相容 Sculk Horde  \nDragon Mount 模組已不會導致崩潰，但無法拉變身為這些生物\n\n## 未來規劃\n\n強化 GeckoLib 動畫支援  \n擴充自訂生物行為的設定選項  \n持續進行相容性與效能修復\n\n## 聲明\n\n此為 Draylar1 所開發之 Identity 模組的非官方移植版。  \n所有榮譽歸還給原作者。  \n本專案僅為讓該模組能在現代載入器上繼續運作而存在。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

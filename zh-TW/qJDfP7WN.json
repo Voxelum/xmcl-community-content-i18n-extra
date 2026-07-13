@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mTVEhQsykko=",
-  "content": "# 主選單資訊\n\n為使用者的標題畫面增添一項資訊顯示功能。\n\n![預覽](https://i.imgur.com/vvIfvYG.png)\n\n使用者可以像一般聊天訊息一樣與文字進行互動，包含點擊事件。\n如果文字存在點擊事件，則滑鼠懸停時會顯示底線。\n\n## Wiki\n如需使用說明，請[參閱Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage)",
+  "bodyHash": "32d8b8823e25df62",
+  "content": "\n\n# 主選單致謝\n提供一種將資訊新增至使用者主選單的方法。\n\n![預覽](https://i.imgur.com/vvIfvYG.png)\n\n使用者可以像處理一般具有點擊事件的聊天訊息一樣與文字互動，若該文字設有點擊事件，懸停時會顯示底線。\n\n## 維基\n如需使用說明，請[參考維基頁面](https://github.com/isXander/main-menu-credits/wiki/Usage)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

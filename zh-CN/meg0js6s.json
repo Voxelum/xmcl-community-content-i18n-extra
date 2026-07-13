@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ce2b158f4c6c745f",
+  "content": "\n\n[**CurseForge 备用下载**](https://www.curseforge.com/minecraft/data-packs/big-globe-remove-obelisk)\n\n此模组/数据包移除了来自 [Big Globe](https://modrinth.com/mod/big-globe) 的方尖碑，使其不再在世界中生成。\n\n生成该结构会占用较高的 CPU 资源，移除它可以显著提升性能。\n\n### **修改前示例：**\n![o](https://cdn.modrinth.com/data/cached_images/b02a4e3c0099cd96fcae9793e7c7d8c9e87f0657_0.webp)\n\n### **修改后示例：**\n![p](https://cdn.modrinth.com/data/cached_images/4e540ceda8319617286e7391ca63032bfd2da391_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

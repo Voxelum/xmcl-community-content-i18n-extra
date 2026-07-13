@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1eaff077622f0712",
+  "content": "\n\n## 盘旋的烟雾\n盘旋的烟雾让烟雾粒子能够自然地响应动态风力、天气、周围地形和局部气流。烟雾在源头附近会垂直上升，随后逐渐随风飘散；而洞穴、树木、墙壁和其他障碍物则会减弱或阻挡室外气流。\n\n该模组包含多种风力状态，从无风微风到强风和突然的阵风不等。降雨和雷暴也会影响风力表现，而洞穴内部通常保持静止，偶尔会有微弱的地下气流。\n\n### 特性\n- 动态的风向与风力强度\n- 无风、正常、强风和阵风等多种风力条件\n- 基于天气的风力变化\n- 感知地形与障碍物的气流系统\n- 基于高度的烟雾移动机制\n- 洞穴内偶尔出现的微弱气流\n- 可配置的风力行为与兼容性选项\n\n### 兼容模组\n- Create\n- Create: Aeronautics\n- Steam 'n' Rails\n\n\n### 指令\n盘旋的烟雾提供客户端指令，用于测试和查看风力系统。\n-  /swirlingsmoke wind get\n> 显示当前的风力类型、方向、强度、模式及剩余持续时间。\n\n- /swirlingsmoke wind set none\n> 强制设置为无风状态。\n\n- /swirlingsmoke wind set calm\n> 强制设置为微风状态。\n\n- /swirlingsmoke wind set normal\n> 强制设置为正常风力。\n\n- /swirlingsmoke wind set strong\n> 强制设置为强风状态。\n\n- /swirlingsmoke wind set gust\n> 强制设置为强力阵风状态。\n\n- /swirlingsmoke wind set <type> <direction>\n> 强制设置指定的风力类型与方向。方向采用角度制：0为东，90为南，180为西，270为北。\n\n- /swirlingsmoke wind auto\n> 将风力系统恢复为由天气驱动的自动运行模式。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

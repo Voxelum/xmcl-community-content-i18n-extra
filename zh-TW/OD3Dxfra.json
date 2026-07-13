@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e54eec04eb20c257",
+  "content": "\n\n# 運作方式\n右鍵點擊\n\n破壞\n\n## 用途\n戰利品箱可能掉落的物品\n\n<details>\n<summary>Forge</summary>\n\n**forge:hasi/lootbox_drops**\n> 例如：\n- 斧頭\n- 木板\n- 花朵\n\n</details>\n\n<details>\n<summary>Neoforge</summary>\n\n同樣使用 **\"forge:hasi/lootbox_drops\"**\n\n</details>\n\n<details>\n<summary>戰利品箱會如何掉落？</summary>\n\n1. 取得傳輸器（可透過自然生成的箱子獲得）\n2. 右鍵點擊（在開闊天空下效果最佳）\n3. 戰利品箱會從天空中緩緩降落\n\n</details>\n\n![從天空落下](https://cdn.modrinth.com/data/cached_images/c6cc4e5eac3f3f262943589ce3415e386d6f398d_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

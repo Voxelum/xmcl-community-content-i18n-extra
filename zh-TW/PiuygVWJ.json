@@ -1,0 +1,6 @@
+{
+  "bodyHash": "acc53faa28a44aaf",
+  "content": "\n\n# 伺服器資源包解鎖器\n正如其名，此模組允許您覆蓋並調整伺服器所提供的資源包順序。僅此而已。\n\n此為 https://www.curseforge.com/minecraft/mc-mods/server-pack-unlocker 的更新版本（原專案可能已停止維護）\n\n### 停用資源包\n若要完全停用伺服器資源包（並防止自動下載），您可以將「伺服器資源包」設定更改為「停用」，如下圖所示  \n<img src=\"https://raw.githubusercontent.com/TheMysterys/Server-Pack-Unlocker/main/images/settings.png\" width=\"500px\">\n\n[GitHub 連結](https://github.com/TheMysterys/Server-Pack-Unlocker/issues)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

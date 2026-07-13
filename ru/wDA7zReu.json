@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a8fa5c65459fa7b4",
+  "content": "\n\n# Функция\nЕсли тип урона относится к \n```indirect_magic,magic,lightning_bolt,thorns,sonic_boom,wither``` (косвенная магия, магия, молния, шипы, звуковой удар, эффект иссушения),\nтакой урон может игнорировать время восстановления после получения урона.\n# Зачем это нужно?\n- Зелье мгновенного исцеления восстанавливает здоровье при каждом попадании, так почему зелье мгновенного вреда должно ждать 0,5 секунды перед повторным использованием?\n- Трезубец с зачарованием «Проводник» наносит 8 ед. урона при попадании в существо, а как насчёт урона от молнии? Он будет иметь иммунитет.\n# Известные проблемы\nИз-за механик ванильной версии установка этого датапака приведёт к тому, что Адский розовый цветок будет наносить 1 ед. урона от эффекта иссушения каждый тик. Чтобы исправить это, пожалуйста, установите [Wither Rose Tweak](https://modrinth.com/datapack/wither-rose-tweak).\n# Пример использования\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/a277RzENLLY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

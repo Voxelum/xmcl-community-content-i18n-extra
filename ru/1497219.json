@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c7ae27d099d8db99",
+  "content": "\n\n<h1>UltraEasyMenu</h1>\n<p>UltraEasyMenu — это мод для Fabric и NeoForge для последних версий Minecraft, ориентированный на простую настройку главного меню.</p>\n<h1>⚙️ Доступные функции</h1>\n<ul>\n<li>Фиксированное фоновое изображение для главного меню.</li>\n<li>Настройка без необходимости редактирования файлов: просто поместите background.png и logo.png в папку \"/config/ultraeasymenu/\"</li>\n<li>Вы можете изменить изображение, отредактировав <code>config/ultraeasymenu-client.toml</code></li>\n<li>Ключ конфигурации: <code>menuBackgroundFilePath</code>.</li>\n<li>Значение: абсолютный путь или путь относительно директории игры.</li>\n<li>Пример абсолютного пути: <code>C:/Users/your-user/Pictures/menu.png</code>.</li>\n<li>Пример относительного пути: <code>config/ultraeasymenu/background.png</code>.</li>\n<li>Ключ конфигурации: <code>hideMinecraftLogo</code> (установите значение <code>true</code>, чтобы скрыть логотип Minecraft из оригинальной версии).</li>\n<li>Ключ конфигурации: <code>nhideSplashText</code>&nbsp;(установите значение <code>true</code>, чтобы скрыть тексты приветствия из оригинальной версии).</li>\n<li>Если настроенный файл отсутствует или некорректен, будет использоваться стандартная панорама оригинальной версии.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

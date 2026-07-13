@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8113f385dd2a7355",
+  "content": "\n\n本模組是基於 qwxon 的模組 Create:Tracks 所開發的分叉版本。\n本模組新增了類似於 Aeronautics 的 Trackwork 模組中的軌道。\n本模組與 Create:Tracks 不相容，請將其替換。\n\n我調整了軌道的外觀與結構，使其更接近 Trackwork，同時亦融入了原版 Tracks 的優點。\n\n我實作了類似 Trackwork 的高離地懸掛系統，\n修改了軌道支架的機制以繞過動力源，並修復了破壞時物品掉落的問題！\n\n[Trackwork's Style](https://cdn.modrinth.com/data/cached_images/ed45d677cc52d7e2f301095f3181680c3b51b2bb.png)\n\n在此，我要向本模組分叉的原作者 qwxon 表達最崇高的敬意。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "20af362165c7da68",
+  "content": "\n\n**该模组新增了以下物品：**\n1. 一种多功能工具，可在多种模式间切换，并提供各种增益效果（BUFF）与选项；\n2. 支持并行操作的合金炉；\n3. 安装热力学系列模组后，将额外提供升级组件与并行组件；\n4. 新增九种合金，以及用于合成的对应齿轮和玻璃；\n5. 维度传送器：已包含在该维度内的方块（提供奇偶两种样式）、永昼、可自定义的边界方块、填充方块与中心点方块。 \n\n**此外，还包含以下调整：**\n1. 修改Mek升级数量上限，数量和升级效果倍率可通过配置文件进行调整；\n2. 移除了花盆与漏水花盆的渲染动画，并支持通过配置文件修改花盆的放大比例；\n3. 支持通过配置文件自定义装配矩阵模板核心的模板倍率。\n\n**引用模组：**\n1. Mekanism 版权所有 (c) 2017-2025 Aidan C. Brady；\n2. Thermal More Integral Components 版权所有 (c) 2024 Elephant_dev；\n3. Thermal Parallel 版权所有 (c) 2025 EtSH-C2H6S；\n4. Mekanism+Upgrades: Reborn 版权所有 (c) Y_Xiao233；\n5. Apotheosis 版权所有 (c) 2023 Brennan Ward。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

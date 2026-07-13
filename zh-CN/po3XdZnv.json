@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a04100bda0e4f75a",
+  "content": "\n\n# MediaToast\n\n## 描述\n\n此 Fabric 模组利用原版音乐提示功能，显示您当前系统中正在播放的媒体。\n\n要使其正常工作，您还需要在原版设置中启用提示功能。\n\n本模组最初基于我的另一个模组 [MprisCustomHud](https://github.com/technicfan/MprisCustomHud) 开发，我制作该模组主要是为了学习如何使用 dbus-java 调用 MPRIS（和 D-Bus）。\n\n制作这个模组是为了让我学习一些关于 Mixin 的知识，而且我觉得它很酷 :)\n\n### 按键控制\n\n支持播放/暂停、下一曲、上一曲、刷新以及切换当前活动播放器的快捷键绑定。\n\n### 配置\n\n默认情况下，模组会自动从当前活跃的播放器中选择一个并启用，因此当其他音乐正在播放时，您将不会看到原版的音乐提示。要切换当前活跃的播放器，请使用对应快捷键（仅在禁用“仅首选源”时生效）。\n<br>\n所有选项均位于原版声音设置中，即最初启用音乐提示的选项下方。每个选项都有工具提示说明其具体功能。\n\n### Linux Flatpak 注意事项\n\n- 当您在 Flatpak 沙盒环境中运行 Minecraft 时，您需要通过 [Flatseal](https://github.com/tchx84/flatseal) 等工具，将 `org.mpris.MediaPlayer2.*` 添加到启动器可通信的已知会话总线名称列表中。\n\n### 备注\n\n- 不会再提供旧版本，因为音乐提示功能在 1.21.6 之前并不存在（我当时怎么以为它是 1.21.10 的）\n- macOS 可能不受支持（我也没有测试环境）\n\n### 使用的库\n\n- [dbus-java](https://github.com/hypfvieh/dbus-java)\n    - freedesktop.org 提供的 Java D-Bus 库的改进版 [https://dbus.freedesktop.org/doc/dbus-java](https://dbus.freedesktop.org/doc/dbus-java)\n- [mediainterface](https://github.com/EndlessSource/mediainterface)\n    - 允许从 Java/Kotlin 访问操作系统的“媒体远程控制”/“正在播放”界面。\n\n### 许可证\n\n本模组采用 MIT 许可证授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b4373465cd501c4",
+  "content": "\n\n**已归档，因为[兼容性正在被整合进 Cold Sweat 本体中](https://github.com/Momo-Softworks/Cold-Sweat/issues/659)。一旦完全整合，本模组将不再具有存在意义。**\n\n尝试为 Cold Sweat 与 Sable 添加兼容性。已在 Aeronautics / Simulated 中测试通过。\n\n- 放置在子层级的壁炉/烟囱会将效果作用于你\n- 放置在子层级的温度方块（熔岩、灵魂火等）也会对你产生影响\n- 基于此，像热岩块（Thermolith）这样的方块也能在子层级间准确反映温度。\n\n代码质量并非最佳，但这是我的作品。我没有提交 PR，是担心增加他人的维护负担。鉴于添加大量 Sable 相关检查会侵入性较强，我不想给 Cold Sweat 塞入过多 1.21 专属的杂项代码，毕竟他们已经在维护多个版本了。\n\n如果发现有遗漏的功能，请在 GitHub 上提交 Issue。这部分我有点赶工，主要精力都放在了核心功能上。绝非随手拼凑的代码。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

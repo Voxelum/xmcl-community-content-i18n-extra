@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ab042fe06e682bd",
+  "content": "\n\n<p style=\"text-align:left\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_e7d3bc70-44f8-4bca-935b-f5aabbf8ffe2.png\" alt=\"\" width=\"128\" height=\"128\">&nbsp;</p>\n<h1><strong>Schematic Energistics</strong></h1>\n<p>新增「砲台介面」方塊，可將 Create 模組的圖樣加農砲（Schematicannon）連接到 AE2 網路及其自動合成系統。</p>\n<p>&nbsp;</p>\n<p><strong>如需官方 Refined Storage 移植版，請查看 <a href=\"https://www.curseforge.com/minecraft/mc-mods/refined-schematics\" target=\"_blank\" rel=\"nofollow\">Refined Schematics</a>！</strong></p>\n<p>&nbsp;</p>\n<h2><strong>功能特色</strong></h2>\n<ul>\n<li>自動從 AE2 儲存空間中提取所需物品</li>\n<li>可在需要時自動合成圖樣物品</li>\n<li>自動補充火藥</li>\n<li>支援 Neoforge 1.21.1 與 Forge 1.20.1</li>\n<li>適用於 Create 0.5.1 與 Create 6</li>\n</ul>\n<p>&nbsp;</p>\n<h2><strong>使用方法</strong></h2>\n<p>將砲台介面放置在圖樣加農砲旁邊，並將其連接到 AE2 網路。圖樣加農砲一次只會偵測一個砲台介面。</p>\n<p>圖樣加農砲在向 AE2 網路請求物品前，會優先使用其他容器（如箱子、木桶等）。&nbsp;</p>\n<p>&nbsp;</p>\n<h2><strong>致謝</strong></h2>\n<p><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" target=\"_blank\" rel=\"nofollow\">Create</a></strong></p>\n<p><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" target=\"_blank\" rel=\"nofollow\">Applied Energistics 2</a></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

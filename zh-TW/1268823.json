@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+2Isyq87TMM=",
-  "content": "<h2><span style=\"color:#e03e2d\">您可以自由地將本模組包含在您的模組包中，無需徵求我的許可。</span></h2><p>&nbsp;</p><p>隨著我一個接一個地創造模組，為了避免不斷將先前專案中的大量共通程式碼複製到新專案中，我開發了這個函式庫來簡化我的專案流程。</p><p>它提供了更高品質的動畫類別與許多便利的方法。</p><p>本函式庫主要提供以下功能：</p><ol>\n<li>\n<h2><span style=\"color:#f1c40f\"><em>提供基於幀的動畫註冊功能。</em></span></h2>\n</li>\n<li style=\"font-style:italic;color:#f1c40f\">\n<h2><span style=\"color:#f1c40f\"><em>包含針對多個碰撞箱傷害偵測最佳化的動畫類別</em></span></h2>\n</li>\n<li style=\"font-style:italic;color:#f1c40f\">\n<h2><span style=\"color:#f1c40f\"><em>內建常見的動畫事件與方法，以簡化程式碼。</em></span></h2>\n</li>\n</ol><p>名稱源自亞瑟王傳說中的阿瓦隆。</p>",
+  "bodyHash": "6d0871c7b4f3f116",
+  "content": "\n\n<h2><span style=\"color:#e03e2d\">您可以自由地將此 MOD 包含在您的 MODpack 中，無需經過我的許可。</span></h2>\n<p>&nbsp;</p>\n<p>由於我不斷開發新的 MOD，為了避免頻繁從舊專案複製大量通用程式碼到新專案中，我開發了這套函式庫來簡化我的開發流程。</p>\n<p>它提供了高品質的動畫類別以及眾多便捷的方法。</p>\n<p>此函式庫主要提供以下功能：</p>\n<ol>\n<li>\n<h2><span style=\"color:#f1c40f\"><em>提供基於幀的動畫註冊功能。</em></span></h2>\n</li>\n<li style=\"font-style:italic;color:#f1c40f\">\n<h2><span style=\"color:#f1c40f\"><em>內建針對多碰撞箱傷害檢測進行優化的動畫類別</em></span></h2>\n</li>\n<li style=\"font-style:italic;color:#f1c40f\">\n<h2><span style=\"color:#f1c40f\"><em>內建常見動畫事件與方法，以精簡程式碼。</em></span></h2>\n</li>\n</ol>\n<p>名稱源自亞瑟王傳說中的阿瓦隆（Avalon）。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

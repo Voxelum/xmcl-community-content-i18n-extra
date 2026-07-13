@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5d3ae43b6e95be16",
+  "content": "\n\n<p style=\"text-align:center\"><span style=\"font-size:18px\"><strong>船隻摔落修復</strong></span></p>\n<p style=\"text-align:center\">&nbsp;這是一個簡單的模組，修正了船隻從特定距離&nbsp;<strong>f(n)&nbsp;= (25n^2 &plusmn; n)/2</strong> 摔落時會隨機損壞並可能導致玩家死亡的錯誤。</p>\n<p style=\"text-align:center\">此模組也能為船隻帶來輕微的性能提升。</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">請勿與&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fboat-fall\" rel=\"nofollow\"><strong>Boat Fall</strong></a> 模組混淆，該模組的作用與 BBF 相反。（啟用船隻摔落傷害）</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">BBF 維持了原版船隻的行為模式，Mojang 表示這「符合預期設計」。本模組僅作為緊急修復，用以防止意外死亡。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

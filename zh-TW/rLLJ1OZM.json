@@ -1,6 +1,6 @@
 {
-  "bodyHash": "o8q/7wK81HU=",
-  "content": "主要工具模組，包含所有必要的修復與功能\n\n這個模組是我所有模組之間通用程式碼的大型合集。技術上來說，它目前是四個 Forge 模組的結合：coroai、buildmod、configmod 以及 extendedrenderer。\n\n你可以將此模組用於任何你喜歡的模組包中。",
+  "bodyHash": "4dd7002a3021ae8a",
+  "content": "\n\n核心實用模組，內建各項輔助功能\n\n本模組匯集了我所有模組共用的程式碼。嚴格來說，它目前是四個 Forge 模組（coroai、buildmod、configmod 與 extendedrenderer）的合併體。\n\n歡迎將本模組用於任何你喜愛的整合包中。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

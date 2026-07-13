@@ -1,6 +1,6 @@
 {
-  "bodyHash": "BkrUsR57+eg=",
-  "content": "![Logo](https://raw.githubusercontent.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png)\n\n此模組包含 Forge 模組的共享程式碼，由 SlimeKnights 團隊使用，例如 Tinkers' Construct、Natura、Tinkers' Mechworks、Inspirations 及 Ceramics。描述性書籍程式碼、通用背包介面以及 JSON 解析工具都在這裡。\n\n為什麼這麼做？當然是為了科學和史萊姆啊，不然呢？\n原始碼可以在 [GitHub](https://github.com/SlimeKnights/Mantle) 上找到。\n\n \n此外，本模組還重新設計了生命值顯示方式，改用彩色愛心疊加顯示，取代原本多行愛心的排列方式。只有當你有辦法提升最大生命值時，才會出現不同的顏色，一般愛心則保持不變。如果你希望，可以在客戶端配置檔案中關閉此功能。\n\n----\n\n此專案目前提供 1.18.2+ 版本，以及 1.7.10、1.12.2 和 1.16.5 版本的建置檔。如果你使用的 Minecraft 版本沒有對應的 Mantle 版本，請在我們的 Discord 提出請求，我會上傳較舊的版本。",
+  "bodyHash": "6e7765745e45cb04",
+  "content": "\n\n![Logo](https://raw.githubusercontent.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png)\n\n這裡包含供 Forge 模組使用的共用程式碼，由 SlimeKnights 團隊旗下的 Tinkers' Construct、Natura、Tinkers' Mechworks、Inspirations 與 Ceramics 等模組所採用。內容涵蓋說明書（Descriptive Book）相關程式碼、通用背包介面以及 JSON 解析工具。\n\n為什麼要這麼做？為了科學跟史萊姆，不然還能為了什麼呢？\n原始碼可於 [GitHub](https://github.com/SlimeKnights/Mantle) 取得。\n\n \n此外，新增了重新設計的愛心（生命值）顯示介面，以疊加的彩色愛心取代一排又一排堆疊的愛心。不同的顏色僅在你擁有增加最大生命值的方式時才會顯示，一般愛心則維持不變。若你不需要此功能，可於客戶端設定檔中將其關閉。\n\n----\n\n本專案目前提供 1.18.2 以上版本，以及 1.7.10、1.12.2 與 1.16.5 的編譯版本。如果你使用的 Minecraft 版本沒有對應的 Mantle 發行版，歡迎在我們的 Discord 社群提出請求，我將上傳舊版本的編譯檔案。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

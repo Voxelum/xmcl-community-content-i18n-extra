@@ -1,0 +1,6 @@
+{
+  "bodyHash": "668d3455077b5806",
+  "content": "\n\n本模組新增了 Blue Skies 與 Tetra 之間的相容性。它讓以 Blue Skies 材質打造的工具能在 Blue Skies 維度中維持正常的速度與傷害數值，同時也會加入這些 Blue Skies 材質。此外，模組還提供多項其他相容性修補，例如讓來自 Tetra 的斧頭能夠在 Starlit Crusher 上使用。\n\n本模組新增的材質包含：\n\n* 查羅石\n* 透輝石\n* 月光石\n* 紅榴石\n* 阿奎特石\n* 法爾賽特石\n* 地平石 - 此材質還能為工具提供自動熔煉功能\n* 風息石\n* 月岩\n* 綠松石\n* 藍光木\n* 櫻木\n* 暮光木\n* 霜光木\n* 月木\n* 楓木\n* 星光木\n\n模組內建數值可透過數據包進行調整，操作方式與預設的 Tetra 相同。\n\n另外，若想繞過 Blue Skies 的材質削弱機制，可額外新增材質並賦予其「Fairweather」改進模組（對應按鍵為 dimasctetracompat/fairweather）。\n\n<p><a href=\"https://ko-fi.com/williamnottell\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/ACCBDD-white?style=flat-square&amp;logo=kofi\" alt=\"Ko-Fi\"></a> <a href=\"https%3A%2F%2Fdiscord.gg%2FkVj8w5ne46\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/discord/1290921259848437781?style=flat-square&amp;logo=discord&amp;label=Discord&amp;labelColor=222222&amp;color=5865f2\" alt=\"Discord\"></a></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

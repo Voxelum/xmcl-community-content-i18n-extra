@@ -1,6 +1,6 @@
 {
-  "bodyHash": "hZjU9PIOPW0=",
-  "content": "<p>Этот мод отображает дополнительную информацию на сервере Hypixel SkyBlock, включая:</p><ol>\n<li>\n<p>Коoldown способности шахтёра: Узнайте точное время, оставшееся до перезарядки вашей способности.</p>\n</li>\n<li>\n<p>Таймер продления серии убийств: Следите за тем, сколько времени у вас осталось для продления текущей серии убийств.</p>\n</li>\n</ol><p>&nbsp;</p><p><a href=\"https://discord.gg/A2ZfamBfHB\" target=\"_blank\" rel=\"nofollow\">сервер Discord для отчётов об ошибках</a></p><p>&nbsp;</p><p>необходимые моды;</p><p>Fabric API</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "bodyHash": "100a2a19da154420",
+  "content": "\n\n<p>Этот мод отображает дополнительную информацию на сервере Hypixel SkyBlock, включая:</p>\n<ol>\n<li>\n<p>Время перезарядки способности шахтера: Узнайте точно, сколько времени осталось до восстановления вашей способности.</p>\n</li>\n<li>\n<p>Таймер продления серии убийств: Следите за тем, сколько у вас осталось времени для продления текущей серии убийств.</p>\n</li>\n</ol>\n<p>&nbsp;</p>\n<p><a href=\"https://discord.gg/A2ZfamBfHB\" target=\"_blank\" rel=\"nofollow\">сервер Discord для баг-репортов и идей</a></p>\n<p>&nbsp;</p>\n<p><a href=\"https://github.com/padobus/skyhelper.git\" target=\"_blank\" rel=\"nofollow\">исходный код&nbsp;</a></p>\n<p>&nbsp;</p>\n<p>требуемые моды:</p>\n<p>Fabric API</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

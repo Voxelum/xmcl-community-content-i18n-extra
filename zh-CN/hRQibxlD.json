@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a2641cfd2e2f0be0",
+  "content": "\n\n**注意！由于现实事务和即将到来的考试，SableImpact 的开发已暂时搁置。项目预计将于2026年夏末左右恢复。感谢您的耐心与理解！:(**\n\nSableImpact 是一款基于 Sable 引擎打造的模组，让您的物理实体能够与现实世界进行逼真的互动。现在，您创造的任何装置都将具备质量、速度与动能，使其能够碎裂、撞击并摧毁周围的环境！\n\n**重要说明：**\n\n**开发状态：** 本模组目前处于早期开发阶段。请注意，代码主要在 AI（Gemini）的协助下编写。虽然代码可以正常运行且核心概念扎实，但暂时还无法保证达到完美的优化水平或提供绝对稳定的体验。\n\n**破坏机制（版本 1.0.0）：** 当前版本仅专注于物体对环境的冲击效果。物理装置（您的飞船）在碰撞时暂时不会受损或破碎；它们将基于自身的惯性充当攻城冲撞体。我们正积极致力于在未来的更新中加入自毁机制！\n\n**依赖与兼容性：**\n使用本模组仅需安装 Sable 引擎即可。但为了完全释放 SableImpact 的潜力，真正让您的造物“活”起来，强烈建议搭配 Create 和 Create: Aeronautics 模组一同游玩！\n\n**致开发者：**\nSableImpact 完全开源！我们非常欢迎您将我们的物理碰撞逻辑作为基础或 API，用于开发您自己的模组和插件。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/t93y_xoH0s0\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

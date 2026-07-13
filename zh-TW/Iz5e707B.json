@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ceeef7950d28b696",
+  "content": "\n\n# Rubies\n\n這是我（Ruby）想要的一系列實用工具。\n\n![一系列排列展示用的方塊，請見下方](https://cdn.modrinth.com/data/cached_images/4c753a06f88f5e37b95ac48ddcf8ab22249b31cf.png)\n\n## 功能特色\n\n- 支援子層級的區塊載入器。\n- 載入偵測器：區塊載入完成時會輸出紅石訊號。\n- 桿：一種可搭配子層級轉軸的空心方塊。\n- 伸縮執行器：類似伸縮活塞的結構。\n- 青蛙端口、郵箱與包裹過濾器現已支援正則表達式（Regex）。\n- 反向陀螺槳軸承：嘗試對齊重力方向（+y）。\n- 紅石槳軸承：隨紅石訊號強度調整角度。\n- 陀螺儀水平面槳軸承：嘗試對齊水平面。\n- 聯網紅石鏈接：可像儲庫網路一樣進行配對設定。\n\n雖然目前尚無 ponder 說明文件，但所有功能皆可在遊戲內查看詳細說明。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "638f5da6afdcf86a",
+  "content": "\n\n# Applied Stalin Sorting\n## Обзор\nЭтот мод заменяет стандартный механизм сортировки терминала AE2 (Tim Sort) на более быстрый: Stalin Sort.\nОн работает полностью на стороне клиента. Не переживайте: это изменяет только визуальный порядок, а предметы в хранилище на самом деле не удаляются.\n\n## Производительность\n| Механизм сортировки | Временная сложность |\n| --- | --- |\n| Tim Sort | O(n log n) |\n| Stalin Sort | O(n) |\n\n## Совместимые моды\n- [Applied Sorting](https://www.curseforge.com/minecraft/mc-mods/applied-sorting) (от Meatwo310)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

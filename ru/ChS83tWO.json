@@ -1,6 +1,6 @@
 {
-  "bodyHash": "x/Tk0bO3pFw=",
-  "content": "Показывает ваш FPS и настройку максимального FPS в левом верхнем углу экрана.\n\nВы можете задать координаты экрана x и y с помощью команды /fpsdisplay setPos x y\n\nВы можете включить или отключить отображение с помощью /fpsdisplay enable/disable\n\nВы можете отключить отображение максимального FPS с помощью /fpsdisplay maxFps enable/disable",
+  "bodyHash": "7efb01865707eaa3",
+  "content": "\n\nОтображает ваш текущий FPS и настройку максимального FPS в левом верхнем углу экрана.\n\nВы можете задать координаты x и y на экране с помощью команды /fpsdisplay setPos x y\n\nВы можете включить или отключить отображение с помощью команды /fpsdisplay enable/disable\n\nВы можете включить или отключить отображение максимального FPS с помощью команды /fpsdisplay maxFps enable/disable",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b4a934c7a98f3fa",
+  "content": "\n\n<h1>Data Energistics / 数据能源</h1>\n<h2>简介</h2>\n<p>Data Energistics 是一个围绕 Applied Energistics 2 的数据能源扩展，加入数据水晶、数据流存储、自动化机器、传送锚、数据拟生、高级工具与内置 GuideME 指南。</p>\n<h2>描述</h2>\n<p>Data Energistics 是一款围绕“数据”与“数据流”构建的 Applied Energistics 2 扩展模组。它加入了数据水晶、数据流存储、自动化机器、传送锚、数据拟生、高级工具以及内置的 GuideME 指南。</p>\n<hr>\n<h2>详细描述</h2>\n<p>Data Energistics 为 AE2 扩展了一套以“数据”和“数据流”为核心的科技路线。从数位化陨石开始，玩家可以获取数据水晶，搭建新的 AE 网络设备，并逐步解锁数据采集、重组、存储、传输与拟生自动化。</p>\n<h3>主要特性</h3>\n<ul>\n<li>全新的数据水晶材质、数位化陨石及相关世界内容。</li>\n<li>数据流存储元件、便携数据流元件与无限数据元件。</li>\n<li>数据重组器、数据提取仪与数据拟生场等核心机器。</li>\n<li>自适应样板供应器方块与部件，可继承并扩展样板供应器的相关行为。</li>\n<li>数据均分塔，用于远距离传输 AE 频道与 FE 能量。</li>\n<li>数据传送锚，支持按颜色频道进行点对点传送。</li>\n<li>数据撕裂器，通过消耗数据流来加速机器运行、AE 设备运作及游戏随机刻。</li>\n<li>数位化存储仓，支持接入 ME 网络的混合存储方块，可存储物品、流体与通用钥匙。</li>\n<li>由 AE 能量驱动的工具与武器，包括数据水晶工具、数据光剑、数据圣裁者与物质聚合弩。</li>\n<li>内置 AE2 Guide / GuideME 文档，涵盖主要机器、材料、升级与玩法进度说明。</li>\n</ul>\n<h3>依赖与兼容</h3>\n<ul>\n<li>Minecraft: 1.21.1</li>\n<li>Mod Loader: NeoForge</li>\n<li>核心依赖: Applied Energistics 2, GuideME</li>\n<li>可选兼容: AE2WTLib, Applied Mekanistics, Applied Create, ExtendedAE Plus, Mekanism 及其他 AE2 生态相关模组。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

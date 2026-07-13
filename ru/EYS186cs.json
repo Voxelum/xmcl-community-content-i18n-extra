@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2f710b4609b49957",
+  "content": "\n\nЭтот мод является дополнением к модам GameStages и Jade. \n\nВы сможете управлять стадиями оверлея мода Jade с помощью скриптов CraftTweaker. \n\nзависимости :\n\n[Gamestages](https://modrinth.com/mod/game-stages/version/15.0.1) от DarkhaxDev\n[Jade](https://modrinth.com/mod/jade) от Snowee\n[Crafttweaker](https://modrinth.com/mod/crafttweaker/) от Jareddlll08\n\nпример script.zs :\n\n\n```\nimport mods.jadestage.JadeStage;\n\nJadeStage.setStage(\"Demo_Stage\");\n```\n\nНе стесняйтесь использовать его в своих модпаках и задавать вопросы в комментариях.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

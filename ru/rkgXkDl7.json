@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a839729b17a519c8",
+  "content": "\n\n# Команды для оффлайн-игроков\n\nИзменяет ванильные команды, позволяя использовать их на оффлайн-игроках\n\n## Поддерживаемые команды\n\nСледующие команды были изменены для поддержки оффлайн-игроков:\n`advancement`, `attribute`, `bossbar`, `clear`, `damage`, `data`, `effect`, `enchant`, `experience`, `execute`,\n`gamemode`, `give`, `item`, `function`, `kill`, `loot`, `recipe`, `spawnpoint`, `spreadplayers`, `tag`, `teleport`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

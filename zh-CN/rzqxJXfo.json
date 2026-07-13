@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bf11bb610a63e31f",
+  "content": "\n\n# 关于 Cosmonautics: Deep Air\n本模组仅通过 Deep Sea 系统为 Cosmonautics 添加了局部空气与重力。这是在 Cosmonautics 独立版本内置空气功能之前的临时解决方案。\n\n关于重力有一个主要的注意事项：受 Deep Sea 内存清理机制影响，你的飞船中至少需要保留一个有空气的房间。\n\n# 前置模组\n\n    Create\n    Create Aeronautics\n    Sable\n    Cosmonautics\n    Create: Deep Sea\n\n** 可选，但三者中必须安装其一。（或任何允许生成与传输 FE [动力] 的模组）\n\n    Create Addition\n    Create New Age\n    Create Power Grid",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

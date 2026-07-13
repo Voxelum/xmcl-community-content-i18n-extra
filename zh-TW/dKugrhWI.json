@@ -1,0 +1,6 @@
+{
+  "bodyHash": "207232a5ba6d8028",
+  "content": "\n\n![Inspiration](https://cdn.modrinth.com/data/cached_images/f958e15a20d843d99c60b08fb0c0dae14ae299a0.jpeg)\n\n本模組會隨機在石頭、深板岩、砂岩、下界岩等多種方塊中生成稀有的挖掘點。  \n偶爾，這些方塊會散發微弱的閃光。與之互動將觸發挖掘動作，而非一般的採礦。\n\n此機制靈感來自《Pokémon Underground》（寶可夢地下探險）。\n\n---\n\n### 挖掘系統\n\n挖掘是一種與隱藏牆體結構進行的有限互動。\n\n你需要逐層移除牆體以揭開埋藏的道具，同時必須維持牆壁的穩定度。\n\n你可以選擇精準工具來清除單一格子，或選用重型工具以更高代價清除更大範圍。每次行動都會降低穩定度。當穩定度歸零時，牆壁會坍塌，剩餘的道具將永久遺失。\n\n![Mining Minigame](https://cdn.modrinth.com/data/cached_images/0019e86eac89380e6635c3b69e3263c31a6fec75.png)\n---\n\n### 戰利品整合\n\n本模組既可獨立運作，也能完美整合至模組包中。\n\n在原版環境中，挖掘可能掉落鑽石、下界合金碎屑、附魔金蘋果和音樂唱片等物品。\n\n安裝 Cobblemon 與 Mega Showdown 後，挖掘點內可能包含化石、進化之石、遺跡雕像、皇冠碎片、Mega石、钥石以及太晶碎片。\n\n可透過設定檔新增其他模組的物品。\n\n---\n1.3 版新內容：現在你有機會發現大型、超大型與巨型礦脈！它們蘊含更多且更稀有寶物！\n![Example of a Very Large Deposit](https://cdn.modrinth.com/data/cached_images/15c02175ac05123857985945dc16f5ff27cb9c7c.png)\n\n### 設定檔\n你可以在 pickaxeminigame.json 中自定義以下內容：\n\n- 閃光生成頻率  \n- 牆壁穩定度縮放比例  \n- 戰利品表與稀有度（稀有度越高，生成機率越低）\n- 伺服器專屬設定（如生成半徑）\n- 稀有挖掘點的數量、大小、出現機率與稀有度修正係數。\n\n1.4 版以上版本收錄了由 Zame 重新製作的精彩地下場景原聲帶！\nhttps://www.youtube.com/watch?v=Hgl2rBsOdrE&list=RDHgl2rBsOdrE",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

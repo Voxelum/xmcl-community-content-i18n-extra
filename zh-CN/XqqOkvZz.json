@@ -1,6 +1,6 @@
 {
-  "bodyHash": "eCLmlFnKYIw=",
-  "content": "<h1>Carpet: NeoForged</h1>\n\n这是 gnembon 的 [Carpet Mod]（0）的分支，已移植到 NeoForge\n\n<hr>\n\n所有功能应与 Fabric Carpet 相同，提供大量可配置的原版游戏改进，例如：\n- 可移动的方块实体\n- 可堆叠的潜影盒\n- Scarpet 脚本语言\n- 以及原模组中的其他所有功能\n\n所有这些功能仅需服务器端支持。\n\n<h2>兼容性</h2>\n\n部分 Carpet 扩展模组可在使用 [Sinytra Connector]（1）时正常工作，尤其是那些混合较轻量级的扩展（大多数 scarpet 扩展应能正常运行）。",
+  "bodyHash": "e44fc6f29a58e287",
+  "content": "\n\n<h1>Carpet: NeoForged</h1>\n\ngnembon 的 [Carpet Mod](https://modrinth.com/mod/carpet) 移植至 NeoForge 的分支版本\n\n<hr>\n\n其功能应与 Fabric 版 Carpet 保持一致，提供大量可配置的原版微调选项，例如：\n - 可移动的方块实体\n - 可堆叠的潜影盒\n - Scarpet 脚本语言\n - ……以及原版模组的所有其他功能\n\n所有这些功能仅需在服务器端部署即可生效。\n\n<h2>兼容性</h2>\n\n在使用 [Sinytra Connector](https://modrinth.com/mod/connector) 时，部分 Carpet 扩展模组可以正常工作，主要是那些较少使用 Mixin 的模组（大多数 Scarpet 扩展模组应能正常运行）。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

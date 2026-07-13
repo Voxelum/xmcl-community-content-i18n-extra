@@ -1,14 +1,6 @@
 {
-  "bodyHash": "7yXRIicA4HI=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "a754dec1-a21d-906b-a57e-386076973d72"
-  },
+  "bodyHash": "185c9fc742f6ac92",
+  "content": "\n\nДобавляет пистолет в Minecraft (круто)\n\n![Спрайт пистолета](https://cdn.modrinth.com/data/cached_images/0db4c157104e81dfd53df6ea03886b644220894f.png)\n\nЭтот мод добавляет в Minecraft пистолет и картину с его изображением. Это позволяет создавать более интересные и реалистичные ситуации на ролевых серверах вроде Hood RP или Ghetto RP, не перегружая геймплей сложным крафтингом, множеством видов оружия и боеприпасов, как в некоторых других аналогах. На данный момент мод содержит всего одно оружие — кремниевый пистолет (Flintlock Pistol).\n\n  <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/WyJgyIMnBew\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nПистолет создаётся из 2 досок любого вида, 2 железных слитков и кремня. В качестве боеприпасов используются порох и железный самородок. Оружие рассчитано на 100 выстрелов и имеет перезарядку длительностью 5 секунд после каждого залпа. Также положение пистолета от первого и третьего лица было скорректировано, чтобы он держался более реалистично.\n\n![Рецепт крафта пистолета с крутым графическим оформлением](https://cdn.modrinth.com/data/cached_images/e82025a0013e1055bf04024f1dd62618338e13d0.png)\n\n![Картина с пистолетом, добавленная в мод](https://cdn.modrinth.com/data/cached_images/cdf6491cff32f3a5e58170eb2387f06e4b916da2.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "70616905c93f38df",
+  "content": "# Lightspeed Boat\n\n[在 Modrinth 下载](https://modrinth.com/mod/lightspeed-boat)，或者如果你喜欢这个项目，[赞助开发者](https://afdian.com/a/yezhiyi9670)。\n\n这是 Minecraft™ Java 版中快速旅行的酷炫方式！\n\n## 摘要\n\nLightspeed Boat 原本是基岩版中的一个 ~~bug~~ 特性，即船在板条上移动时没有摩擦力。这使得利用流水可以将船加速到极高的速度。（注：此问题在基岩版中现已部分修复）\n\n本模组将该特性引入 Java 版。享受酷炫的可自动化快速旅行系统吧！\n\n![](https://github.com/yezhiyi9670/lightspeed-boat/raw/master/img/horizontal.png)\n\n上图是一种可用的加速船的设计方案。[在 Minecraft Wiki 上阅读更多关于 Lightspeed Boat 的信息](https://zh.minecraft.wiki/w/%E6%95%99%E7%A8%8B/%E5%85%89%E9%80%9F%E8%88%B9)。\n\n**警告：此模组必须同时存在于服务器和客户端，否则可能会导致一些服务器与客户端不同步的问题。**\n\n注意：默认情况下，模组具有保护措施，防止速度超过 72.73m/s（蓝冰上的速度）。\n\n## 详情\n\n以下是模组的机械细节。\n\n如果船的速度大于 `lightspeedThershold` 2.4（单位：米/秒），并且满足以下条件之一，则船将进入光速状态：\n\n- 船的 Y 坐标减去其向下取整后的值介于 `slabHeightMin` 0.4999 和 `slabHeightMax` 0.5241 之间。船必须处于 IN_WATER（在水中）或 ON_LAND（在陆地上）状态。船所在的方块不能是水或气泡柱。（这要求船位于板条上）\n- 船的包围盒的 maxY 为整数，且船的 Y 方向速度接近零。（这需要利用灵魂沙气泡柱和陷阱门）\n\n如果启用了 `requireLevitating`，则第一个条件将被禁用。\n\n在光速状态下：\n\n- 阻力（水平速度衰减）将恒定为 `lightspeedDrag` 0，除非速度超过 `maxLightspeed` 72.73。\n- 如果 `allowPlayerDrive` 为 false，玩家将无法驾驶船，但仍可以转向它。\n- 如果 `allowPlayerTurn` 为 false，玩家将无法转向船。\n\n可以通过编辑 `config/lightspeedboat-common.json` 文件来自定义这些值。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

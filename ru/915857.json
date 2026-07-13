@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dRWzvquxIvE=",
-  "content": "<h2>Твикердж</h2><p>Неофициальный порт для Forge мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/tweakeroo\" rel=\"nofollow\">Tweakeroo</a>. Это клиентский мод. Он добавляет в игру множество разнообразных настраиваемых клиентских твиков.</p><h3>О серверной версии:</h3><ul>\n<li>вам необходимо установить <a href=\"https://github.com/ThinkingStudios/Servux-Forge\" rel=\"nofollow\">Servux-Forge</a>.</li>\n<li>я не переношу Carpet на Forge, а это означает, что некоторые функции могут не совпадать с оригинальными функциями мода на основе Fabric.</li>\n</ul>",
+  "bodyHash": "26c36ca20aad83ca",
+  "content": "\n\n<h2>Tweakerge</h2>\n<p>Неофициальный порт Tweakeroo на Forge. Это клиентский мод, который добавляет в игру набор различных настраиваемых клиентских настроек.</p>\n<h3>О серверной части:</h3>\n<ul>\n<li>Вам необходимо установить <a href=\"https://github.com/ThinkingStudios/Servux-Forge\" rel=\"nofollow\">Servux-Forge</a>.</li>\n<li>Я не портировал Carpet на Forge, поэтому некоторые функции могут отличаться от оригинального функционала мода на Fabric.</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

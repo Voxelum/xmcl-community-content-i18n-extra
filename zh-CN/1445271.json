@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3a2e9b6061dfd981",
+  "content": "\n\n<h2><strong><img src=\"https://media.forgecdn.net/attachments/description/1445271/description_095107f6-62f4-4039-833e-93a7ae19a287.png\" alt=\"\" width=\"157\" height=\"157\"></strong></h2>\n<h2>&nbsp;</h2>\n<h1><strong>ME灵魂卡</strong></h1>\n<p>一款适用于AE2的升级组件，允许你直接从AE2网络中调用灵魂来加速机器，无需受限于灵魂涌流机制的繁琐。</p>\n<p>&nbsp;</p>\n<h3><strong>使用方法</strong></h3>\n<p>制作灵魂卡并将其安装到兼容的AE2机器中（模式提供器、接口、输出总线和输入总线）。<strong>该升级仅兼容对应机器的部件变体。</strong></p>\n<p>&nbsp;</p>\n<h3><strong>关于加速锁定</strong></h3>\n<p>本模组内置了一套系统，可防止多台AE2机器同时加速同一个方块，同时也禁止将AE2加速与灵魂涌流叠加。这意味着刻加速无法超越灵魂涌流所能达到的上限。</p>\n<p>你可以在配置文件中禁用此功能。</p>\n<p>&nbsp;</p>\n<h3><strong>前置要求</strong></h3>\n<p>需要安装AE2和Soulplied Energistics。</p>\n<p>&nbsp;</p>\n<h3><strong>致谢</strong></h3>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" target=\"_blank\" rel=\"nofollow\">应用能源2（Applied Energistics 2）</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/soulplied-energistics\" target=\"_blank\" rel=\"nofollow\">灵魂化能源（Soulplied Energistics）</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

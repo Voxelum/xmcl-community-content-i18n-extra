@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fff24c27d34b991c",
+  "content": "\n\n<p>此客戶端 Fabric 模組會在客戶端已擁有伺服器資源包時跳過載入。</p>\n<p>這能避免在加入或離開伺服器時出現令人困擾的 Mojang 載入列。</p>\n<p>它是透過比對資源包檔案的雜湊值來達成此目的。</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

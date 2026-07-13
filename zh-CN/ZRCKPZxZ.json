@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Vk9f7oBHtsE=",
-  "content": "一款简单的模组，当你站在倾斜的子地形上时，会让你进入布娃娃状态。奔跑/移动会让你更容易摔倒，潜行/站立不动则会降低摔倒的几率。\n\n该模组还会让所有站在子地形上的实体倾斜，这样看起来它们就像真实地站在上面一样。\n\n布娃娃也会尝试保持平衡，有点类似《GTA 4》的狂喜布娃娃系统。\n\n所有角度都可以在配置文件中调整。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/zcsnn0jdOUY\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "bodyHash": "9daa821aa4af5afc",
+  "content": "\n\n一个简单的模组，当你站在倾斜的方块上时会使你进入软跌倒（ragdoll）状态。奔跑/移动会让你更容易摔倒，潜行/站立不动则会让摔倒变得更困难。\n\n此模组还会让站在倾斜方块上的所有实体随之倾斜，这样看起来它们就仿佛真的稳稳站在那儿一样。\n\n软跌倒状态下的角色也会尝试自我平衡，有点类似《GTA 4》的Euphoria物理跌倒系统。\n\n所有角度均可在配置文件中自定义。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/zcsnn0jdOUY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2vPdcLa7aEs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

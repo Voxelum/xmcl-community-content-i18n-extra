@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a73f64402bc9dcc3",
+  "content": "\n\n**BCLib（非官方 NeoForge 移植版）**\n\n本项目是 BCLib 的 **NeoForge** 非官方移植版。\n该项目旨在让依赖 BCLib 的模组能够在现代版本的 Minecraft NeoForge 上运行。\n仅限 NeoForge（不支持 Fabric 或原版 Forge）。\n\n**本项目的作用**\n\n在 NeoForge 上提供 BCLib 库（这是一个供其他模组使用的依赖/工具库，例如 BetterEnd/BetterNether 的 NeoForge 移植版）。\n\n目标是尽可能保持与上游原版一致的功能，仅在必要时进行移植或兼容性修改。\n\n**为何下载它**\n\n仅当某个模组/整合包需要在 NeoForge 上运行且依赖 BCLib 时，才下载此文件。\nBCLib 仅为底层库文件，通常不会单独添加任何游戏内容。\n安装要求：客户端与服务器端均需安装。\n\n**与原版（上游）的区别**\n\n- 加载器/平台：NeoForge（上游原版为 Fabric）\n- 目标：实现 Minecraft 在 NeoForge 平台上的兼容运行\n- 范围：在可能的情况下严格遵循上游原版的行为逻辑；必要时进行兼容性修复\n\n**致谢 / 归属**\n\n所有美术资源及大部分代码均归属于原库开发者：BetterX Team。\n\n**原始项目（上游）**\n\nBCLib (Fabric) by BetterX Team (Modrinth): https://modrinth.com/mod/bclib\n\n上游源码 (GitHub): https://github.com/quiqueck/BCLib\n\n**技术支持 / 问题反馈**\n\n这是 **非官方的 NeoForge 移植版**。请 **不要** 将问题反馈至 BetterX Team 官方的 Discord 或 GitHub，因为他们不负责维护此版本。\n\n如需报告此 NeoForge 版本的 Bug 或获取技术支持，请使用本移植版的 GitHub Issue 页面：https://github.com/Reijin2312/BCLib_Neoforge\n\n若此移植版引发的问题波及上游社区，请直接联系我处理。\n\nBetterX Discord（上游社区）: https://discord.com/invite/kYuATbYbKW",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

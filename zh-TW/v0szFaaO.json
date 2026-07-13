@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bee25c4f0f158c3c",
+  "content": "\n\n這是一個簡易模組，為 [WaterFrames](https://modrinth.com/mod/waterframes) 新增了 Computercraft: Tweaked 的週邊支援。\n\n透過此模組，您可以將大多數參數套用至任意 WaterFrames 顯示器上。\n\n此圖片展示了目前已實作的週邊功能。\n![Peripheral Functions](https://cdn.modrinth.com/data/cached_images/945ec82472a2d03018de25f4ea861dcc90f6cf71.png)\n\n搭配此模組您可以開發許多有趣的程式，以下為部分範例：\n- 運行於 Computercraft 終端機上的 Jellyfin 客戶端。該客戶端能夠從 Jellyfin 媒體伺服器取得並播放影片。\n- 播放清單／影片請求系統。\n- YouTube 搜尋系統。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

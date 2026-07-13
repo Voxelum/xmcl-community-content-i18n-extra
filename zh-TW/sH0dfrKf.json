@@ -1,0 +1,6 @@
+{
+  "bodyHash": "051e0391e56422b7",
+  "content": "\n\n# <img src=\"https://raw.githubusercontent.com/senseiwells/EssentialClient/refs/heads/1.21.3/src/main/resources/assets/essential-client/icon.png\" align=\"center\" width=\"64px\"/> EssentialClient\n\n[![Discord](https://badgen.net/discord/online-members/7R9SfktZxH?icon=discord&label=Discord&list=what)](https://discord.gg/7R9SfktZxH)\n\nEssentialClient 是一款客戶端模組，提供多種實用工具，並內建圖形化介面以修改 Carpet 規則！\n\n> EssentialClient 目前正進行重寫。\n> 先前版本的部分功能已被移除，因為我認為它們不適合此模組，或是維護起來相當困難。\n> \n> 我已完全移除 EssentialClient 的腳本功能，因其設計存在重大缺陷，導致維護與使用上都相當不便。\n> 長期目標是實作更完善的解決方案；不過，這需要一些時間。\n> \n> 未來僅會支援最新的 Minecraft 版本。\n\n\n## 使用方法\n\n此模組需要 fabric-launcher、fabric-api、fabric-kotlin 以及 YetAnotherConfigLib。\n\n您可選擇性安裝 chunk-debug、fabric-carpet 和 mod-menu。 \n\n安裝完成後，您可以透過 mod-menu 進入設定選單，或按下 EssentialClient 選單的快捷鍵（可在遊戲選項中更改）。\n\n在此介面中，您可以查看並修改 EssentialClient 設定、Carpet 伺服器設定，或開啟 ChunkDebug 地圖（前提是您已安裝 ChunkDebug）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

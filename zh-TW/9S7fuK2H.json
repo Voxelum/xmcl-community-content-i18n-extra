@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f91ef9d97a9379d",
+  "content": "\n\n# Options Con Tim\n\nv1.6.1-1.1.0\n\n[Modrinth](https://modrinth.com/mod/cobblemon-optionscontim)\n\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/cobblemon-optionscontim)\n\n[GitHub](https://github.com/timinc-cobble/cobblemon-options-con-tim)\n\n## 如果……\n\n…Cobblemon 能有更多設定選項？\n\n## 功能特色\n\n- 可選擇性地阻止戰鬥外的捕獲。亦可將特定精靈球類型設為例外（請勿不小心破壞巡遊球的正常功能！）。\n- 可選擇性地阻止寶可夢在戰鬥外掉落物品。\n\n## 相依模組\n\n- [Cobblemon](https://www.notion.so/Cobblemon-22157e0d4afd80a49896c70a775a3c7f?pvs=21)\n- [Cobblemon Tim Core](https://www.notion.so/Tim-Core-22057e0d4afd809b9c02e78f26805376?pvs=21)\n\n## 測試步驟\n\n安裝該模組後至少啟動一次遊戲，以生成預設設定檔。在未與野生寶可夢進入戰鬥的情況下向其投擲精靈球，觀察其是否正常運作。接著開啟設定檔，將 `outOfBattleCaptures.default` 改為 `false`，重新啟動遊戲，再次嘗試在未進入戰鬥的情況下向野生寶可夢投擲精靈球，並觀察精靈球是否會被拒絕。\n\n## 玩家協助\n\n[設定選項](https://www.notion.so/Config-Options-24b57e0d4afd803ab461d5dab0221b16?pvs=21)\n\n## 未來規劃\n\n若想追蹤本模組的開發進度，歡迎加入 [Discord 伺服器](https://discord.com/invite/WKAR27SdSv) 並訂閱相關頻道的通知。您也可以在 [模組主頁面](https://www.notion.so/Options-Con-Tim-21d57e0d4afd809cb9bcd7376eb2e968?pvs=21) 查看待辦事項清單。\n\n## 意見回饋\n\n若對本模組有任何疑問、建議，或只是想來打個招呼，歡迎前往 [Discord 伺服器](https://discord.com/invite/WKAR27SdSv) 與我們聯繫！\n\n## 贊助支援\n\n如果您喜歡本作品，或它曾為您帶來幫助，歡迎考慮 [贊助一杯咖啡](https://ko-fi.com/timsminecraftmods)。若您願意，也可附上說明我是如何協助您的！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

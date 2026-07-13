@@ -1,6 +1,6 @@
 {
-  "bodyHash": "MH/R98bOufA=",
-  "content": "物品過濾器是一個函式庫模組，被 FTB Quests、Modular Pipes 和 QNet 等模組所使用。它新增了一個單一物品——「物品過濾器」，可用於進階過濾與物品選擇。你可以透過 API 輕鬆新增自己的過濾器。\n\n \n\n若要在任務中使用，請透過作弊取得任何過濾器（或使用現有過濾器，蹲下並右鍵以變更類型），然後右鍵編輯。接著在物品任務中，從你的物品欄中選擇物品。圖示會自動生成為有效物品的滾動列表，但任務標題需自行修改。\n\n \n\n目前可用的過濾器：\n\n- NOT（非）——反轉子過濾器（不是蘋果）\n- OR（或）——符合任一子過濾器即匹配（蘋果或胡蘿蔔）\n- AND（且）——符合所有子過濾器即匹配（鑽石劍且附魔）\n- XOR（互斥或）——過濾器A或B其中一個符合時匹配，但兩者同時符合則不匹配（「dyeBlue」或「gemLapis」礦石名稱，但不能同時相符）\n- 礦物辭典名稱（Ore Dictionary Name）——物品含有礦物名稱時匹配（「ingotCopper」）\n- 創造頁籤（Creative Tab）——物品位於創造模式頁籤時匹配（「建築方塊」）\n- 模組（Mod）——物品來自指定模組時匹配（「YABBA」）\n- NOT、OR、AND 和 XOR 目前沒有圖形介面。\n\n[![](https://links.latvian.dev/links.png?mr=itemfilters)](https://links.latvian.dev/)\n\n[![](https://links.latvian.dev/partner.png)](https://links.latvian.dev/partner)",
+  "bodyHash": "a6c997bb35dee4e8",
+  "content": "\n\nItem Filters 是一個程式庫模組，被 FTB Quests、Modular Pipes 和 QNet 等模組所使用。它新增了一個名為「Item Filter」的物品，提供進階的篩選與物品選擇功能。你可以透過 API 輕鬆地新增自訂篩選器。\n\n \n\n若要在任務中使用它，請作弊取得任意篩選器（或使用現有篩選器並按住 Shift 右鍵點擊來更改類型），然後右鍵點擊以進行編輯。接著在物品任務中，從你的物品欄選擇物品。圖示會自動生成為可選物品的捲動列表，但你必須自行更改任務標題。\n\n \n\n目前可用的篩選器：\n\n- NOT（否決）- 反轉子篩選器的條件（非蘋果）\n- OR（或）- 當任一子篩選器符合時即匹配（蘋果或胡蘿蔔）\n- AND（且）- 當所有子篩選器皆符合時即匹配（鑽石劍且附魔）\n- XOR（互斥或）- 當篩選器 A 或 B 其中之一符合時即匹配，但不能同時符合（例如礦物字典名稱 \"dyeBlue\" 或 \"gemLapis\"，但兩者不可同時存在）\n- Ore Dictionary Name（礦物字典名稱）- 當物品具有該礦物字典名稱時即匹配（如 \"ingotCopper\"）\n- Creative Tab（創造模式分類）- 當物品位於指定創造模式分類時即匹配（如 \"Building Blocks\"）\n- Mod（模組）- 當物品來自指定模組時即匹配（如 \"YABBA\"）\n- NOT、OR、AND 與 XOR 目前尚無圖形介面（GUI）。\n\n[![](https://links.latvian.dev/links.png?mr=itemfilters)](https://links.latvian.dev/)\n\n[![](https://links.latvian.dev/partner.png)](https://links.latvian.dev/partner)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

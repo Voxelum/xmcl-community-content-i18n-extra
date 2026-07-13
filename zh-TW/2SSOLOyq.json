@@ -1,0 +1,6 @@
+{
+  "bodyHash": "50a6edae2e9d4451",
+  "content": "\n\n這是針對伺服器端 tick 的客戶端預測前置模組。編寫初衷是作為 EasyPlaceFix 的前置支援，您可以將腳本操作作為任務傳入並進行處理，透過 tick 中斷標誌位來控制任務中斷。\n\n這是一個用於預測伺服器端 tick 的前置模組。編寫初衷是作為 EasyPlaceFix 的前置，可將腳本操作作為任務傳入，使用 tick 中斷標誌位控制任務中斷。![TPS/RTT in F3](https://cdn.modrinth.com/data/cached_images/c62d542ea4a2eb130c4845e08d6de454364adccb_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

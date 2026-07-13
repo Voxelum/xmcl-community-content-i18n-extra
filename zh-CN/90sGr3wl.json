@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5a91e5d3063089d7",
+  "content": "\n\n一款 Carpet Mod (fabric-carpet) 扩展，包含一些有用或无用的功能，以及我个人想要但官方尚未内置的内容。\n在默认配置下，本模组不会改变任何原版行为。\n需与相同 Minecraft 版本的 Carpet Mod 配合使用。请尽可能使用较新版本的 Carpet Mod。更多详情请参阅文档：https://github.com/DaCong114514qwq/Carpet-GUGU-Addition\n\n主要功能：\n调整试炼发电机（Trial Generator）、宝库（Vault）和强化深板岩（Reinforced Deepstone）等方块的硬度，使其更容易挖掘。\n自动经验修复：利用现有经验值修复装备，非常适合生存模式。\n远程取物：为修改版的 Litematica Printer 模组（[BiliXWhite/litematica-printer](https://github.com/BiliXWhite/litematica-printer) 或 [zhaixianyu/litematica-printer](https://github.com/zhaixianyu/litematica-printer)）提供服务器端支持，实现从容器中远程提取物品。\n欲了解更多实用功能，请使用命令 `/carpet list GUGU` 查看列表。\n\n更多功能说明，请访问：https://github.com/DaCong114514qwq/Carpet-GUGU-Addition/blob/main/Rules.md.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b4aa6140b94e897e",
+  "content": "\n\n# 簡單旅行者背包\n\nSimple Traveler Packs 為 Fabric 平台新增了可穿戴的背包等級。每個背包皆擁有獨立的儲存容量，可裝備於 Trinkets 模組的「背部」槽位，穿戴時可透過鍵位設定打開，並在角色身上呈現為可見的 3D 背包模型。\n\n![穿戴中的背包](https://cdn.modrinth.com/data/cached_images/e9e8ed9f4b5175ce4ef1e4ffd73b41a3cec38b33_0.webp)\n\n## 功能特色\n\n- 三種背包等級：\n  - 偵察背包 — 9 格\n  - 旅行者背包 — 18 格\n  - 遠征背包 — 27 格\n- 將背包裝備至 Trinkets 的背部槽位\n- 按下 **G** 鍵開啟已裝備的背包\n- 手持背包時點擊右鍵即可開啟\n- 物品會自動保存於各背包內\n- 禁止背包嵌套\n- 每種背包皆有其專屬的合成配方\n- 每種背包皆有其專屬的穿戴 3D 模型與紋理\n\n## 需求條件\n\n此模組需要以下前置模組：\n\n- Fabric API\n- Trinkets Updated\n\n此模組需同時安裝於客戶端與伺服器。\n\n## 備註\n\n背包無法放入其他背包中。此設計可防止嵌套漏洞，並維持儲存空間的平衡。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dc67e91150d6314d",
+  "content": "\n\n<p><a href=\"https://discord.gg/uXWsRftdy7\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/1007349372444491856.svg?&logo=Discord&colorB=7289da\" alt=\"Discord 伺服器\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/overpowered-mending\" rel=\"nofollow\"><img src=\"http://cf.way2muchnoise.eu/short_344973_downloads.svg\" alt=\"OverpoweredMending Curse 統計數據\"></a>\n<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252foverpoweredmending\" rel=\"nofollow\"><img src=\"https://img.shields.io/modrinth/dt/overpoweredmending?logo=Modrinth\" alt=\"Modrinth 下載次數\"></a></p>\n<p>修改了經驗修補（Mending）附魔的作用方式。\n它不再僅針對你當前裝備的物品（盔甲、主手或副手），而是會掃描你的整個物品欄，找出最需要修復的物品。</p>\n<p>不相容項目：</p>\n<ul>\n<li>部分版本的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/clumps\" rel=\"nofollow\">Clumps</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/cofh-core\" rel=\"nofollow\">CoFHCore</a></li>\n</ul>\n<hr>\n<ul>\n<li>對於 Fabric 使用者，需要安裝 <strong>Fabric API</strong>。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00b51d35a266c5bb",
+  "content": "\n\n<h1>Arrow Opts</h1>\n<p>一款适用于 NeoForge 和 Fabric 的多加载器 Minecraft 模组，用于配置玩家投射物击中实体时播放的声音。</p>\n<h2>功能</h2>\n<ul>\n<li>支持 NeoForge 和 Fabric 多加载器。</li>\n<li>可按实体类型自定义命中音效。\n<ul>\n<li>支持针对特定投射物的映射（按投射物 ID 分组，再按命中实体类型区分）或通用的备用实体映射。</li>\n</ul>\n</li>\n<li>未映射实体的默认备用音效（默认：<code>minecraft:entity.experience_orb.pickup</code>）。</li>\n<li>可配置的命中音效防重复计时器（默认：500毫秒）。</li>\n<li>可自定义音量与音调控制。</li>\n<li>游戏内配置界面提供以下功能：\n<ul>\n<li>支持添加和删除的实体-音效映射列表。</li>\n<li>支持搜索的实体类型与音效下拉选择器。</li>\n<li>搜索结果中高亮显示匹配的字符。</li>\n</ul>\n</li>\n<li>提供 BuyMeACoffee 和 Patreon 的支持链接。</li>\n</ul>\n<h2>配置说明</h2>\n<p>所有平台的设置均存储在&nbsp;<code>config/arrowopts.json</code>&nbsp;中。可通过游戏内模组菜单修改配置，或直接编辑该 JSON 文件。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

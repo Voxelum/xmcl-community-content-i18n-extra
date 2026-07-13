@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mV6Vo0krbTY=",
-  "content": "Sable Physics Tree 让砍树与 Sable 物理系统产生互动。\n\n当树木被砍伐时，相连的上部树干和附近的树叶会被组合成一个 Sable 物理对象，并受到一个初始的下落冲量。树叶会随时间逐渐消失，因此倒下的树木不会留下永久悬浮的树冠。\n\n依赖：\n\n- Minecraft 1.21.1\n- NeoForge\n- Sable",
+  "bodyHash": "6a31d858bf517718",
+  "content": "\n\nSable Physics Tree 使伐木操作与 Sable 物理引擎产生交互。\n\n  当树木被砍伐时，相连的上部树干和周围的树叶会被组合成一个 Sable 物理实体，并赋予初始的下落冲量。树叶会随时间逐渐腐烂消失，因此下落的树木不会留下永久悬浮的树冠。\n\n  依赖项：\n\n  - Minecraft 1.21.1\n  - NeoForge\n  - Sable",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

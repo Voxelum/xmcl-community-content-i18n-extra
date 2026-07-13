@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e88f150192335a9c",
+  "content": "\n\n<p>本模组提供了一个配置文件，允许你更改游戏中几乎所有生物的体型大小、攻击力、移动速度、跳跃高度等属性。</p>\n<p>&nbsp;</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fhastebin.com%252foqihuredek.pl\" rel=\"nofollow\">示例配置</a></p>\n<p>&nbsp;</p>\n<p>模组将生成一份完整的默认配置值清单。在未手动修改配置前，该模组默认不会对游戏内容进行任何更改。</p>\n<p>&nbsp;</p>\n<pre>minecraft {\n    player {\n        D:armor=0.0\n        D:damage=0.0625\n        D:health=0.5\n        D:jump=0.5\n        D:reach=0.0625\n        D:scale=0.0625\n        D:speed=0.25\n        D:toughness=0.0\n    }\n}</pre>\n<p>例如，此配置会将玩家的体型调整为与 Chisels & Bits 模组中的方块一致，同时调整其跳跃高度与移动速度。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

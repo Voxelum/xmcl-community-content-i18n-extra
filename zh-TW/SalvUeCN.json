@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b42d84d5b90af520",
+  "content": "\n\n## 🪓 FallingTrees\n以史無前例的速度砍伐樹木！FallingTrees 是快速推進遊戲進度的必備工具，現在它已作為數據包提供！\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H118OP6T)\n\n> ## 覆蓋畫面與使用方法。\n> 要啟用內建的覆蓋畫面，請執行 ```/scoreboard players set #limit fallingtrees_overlay 1``` 指令。若要停用即時挖掘，請按住 ```sneak``` 鍵。\n> ## 作為附魔獲取 <img src=\"https://i.imgur.com/JReqOrU.gif\" width=25>\n> 若僅想將其作為附魔使用，請與本數據包一併安裝 [FallingTrees Enchantment](https://modrinth.com/datapack/fallingtrees-enchant) 數據包。\n## 展示畫面\n![數據包展示畫面。](https://github.com/Sheepearrrrrrrrrr/Sheepearrrrrrrrrr.github.io/blob/main/about/yippe.gif?raw=true)\n## 一些建議\n- 不要一次破壞過多原木，否則可能會導致延遲，或因指令執行次數限制而無法完整破壞整棵樹。\n\n## 解除安裝\n若要解除安裝，請執行 `/function sheepearrr:ft/uninstall`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

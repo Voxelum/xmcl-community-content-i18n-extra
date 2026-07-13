@@ -1,6 +1,6 @@
 {
-  "bodyHash": "GPxA196OZk8=",
-  "content": "# 無淡出效果\n**此為適用於 1.20 及以上版本的 [No Fade](https://github.com/UltimateBoomer/mc-no-fade) 分支版本。**\n\n你是否對載入《我的世界》時的冗長過場動畫感到厭煩？《無淡出效果》是一款客戶端模組，能移除遊戲中所有淡出動畫。這包括從 Mojang 啟動畫面淡出至主選單的過程，以及重新載入材質後的淡出效果。\n\n## **與原版相比有哪些新功能？**\n- 支援 1.20 及更高版本\n- 支援 Forge 與 NeoForge！\n- 移除更多淡出動畫！\n- 提供設定選項，可開關聊天淡出、字幕淡出等效果\n\n![無淡出效果已停用](https://raw.githubusercontent.com/DerpDerpling/Fadeless/refs/heads/1.21/assets/fadeless_comparison.webp)\n\n## 此為 [no fade](https://github.com/UltimateBoomer/mc-no-fade) 的分支版本。原作者已[授權許可](https://raw.githubusercontent.com/DerpDerpling/i.derpy.xyz/main/img/proof.png)我重新上傳/維護此模組。所有榮譽歸於 [UltimateBoomer](https://github.com/UltimateBoomer)。",
+  "bodyHash": "02f7edf6297e7d7e",
+  "content": "\n\n# Fadeless\n**這是 [No Fade](https://github.com/UltimateBoomer/mc-no-fade) 的分支版本，適用於 1.20 及以上版本。**\n\n你是否厭倦了進入 Minecraft 時冗長的過渡動畫？Fadeless 是一款客戶端模組，可移除 Minecraft 中的所有淡出動畫。這包括從 Mojang 啟動畫面到主選單的淡出效果，以及重新載入材質後的淡出效果。\n## **相較於原版有哪些新功能？**\n- 支援 1.20 及更高版本。\n- 支援 Forge 與 NeoForge！\n- 移除更多淡出動畫！\n- 提供設定選項，可切換聊天訊息淡出與字幕淡出等效果\n\n![Fadeless Disabled](https://raw.githubusercontent.com/DerpDerpling/Fadeless/refs/heads/1.21/assets/fadeless_comparison.webp)\n\n\n## 本專案為 [no fade](https://github.com/UltimateBoomer/mc-no-fade) 的分支版本。原作者已 [授權予我](https://raw.githubusercontent.com/DerpDerpling/i.derpy.xyz/main/img/proof.png) 重新上傳並維護此專案。所有功勞歸 [UltimateBoomer.](https://github.com/UltimateBoomer) 所有。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

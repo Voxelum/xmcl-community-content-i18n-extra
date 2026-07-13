@@ -1,0 +1,6 @@
+{
+  "bodyHash": "25a3626b084d22c3",
+  "content": "\n\n此模组强制使用 CTRL 键来丢弃一组物品。在丢弃物品组时，它实际上也覆盖了 macOS 的“CMD”键功能。（因此会跳过 CMD+Q 的 macOS 快捷键）\n\n支持 Forge(1.12.2) 和 Fabric(1.14 至最新版本)。（Fabric 1.14 至 1.19.2 对应 v1.8，Fabric 1.19.3 及以上对应 v1.9）\n\n*对于非 macOS 用户，此模组基本毫无用处。抱歉！\n\n（是的，此模组仍在维护中，只是不需要任何更新！）\n\n## 由于 [25w41a, MC-22882](https://bugs.mojang.com/browse/MC/issues/MC-22882) 已被修复！因此从 1.21.11+ 版本开始将不再需要此模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

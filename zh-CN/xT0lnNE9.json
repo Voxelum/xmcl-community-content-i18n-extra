@@ -1,6 +1,6 @@
 {
-  "bodyHash": "6M/sOqq1/jk=",
-  "content": "这是对我旧版Voxy World Gen模组的重写，本模组并非被动区块生成模组的分支，而是完全独立的全新模组。\n\n## 特性\n\n- 在后台极速生成区块，并自动与Voxy进行集成/摄入。\n- 可配置生成速度与队列大小。\n- 集成Tellus。https://github.com/Yucareux/Tellus\n- 支持服务端安装。\n\n## 配置\n\n配置文件位于 `config/voxyworldgenv2.json`。\n\n## 许可协议\n\n自定义许可协议，详情请参阅LICENSE文件。\n\n## 需要服务器？\n\n我使用BisectHosting已经好几个月了，他们一直很可靠，而且操作起来非常简单！如今我已与他们达成合作伙伴关系！通过他们托管服务器将直接支持我的开发！请考虑使用我的促销码 <iseeethan>，首月可享25%折扣！\n\n点击下方横幅立即开始！\n\n\n[![横幅](https://www.bisecthosting.com/partners/custom-banners/6223f15d-bdb4-4fe1-8c03-613cffe1ada7.webp)](https://shorturl.at/XePGB)",
+  "bodyHash": "80f2ea0e083a82cd",
+  "content": "\n\n这是我对旧版 Voxy World Gen 模组的全面重写。本模组并非被动区块生成器模组的衍生版本，而是一个完全独立的模组。\n\n## 功能特性\n\n- 在后台极速生成区块，并自动与 Voxy 同步加载。\n- 可自定义生成速度与队列大小。\n- 集成 Tellus。https://github.com/Yucareux/Tellus\n- 支持服务端运行。\n\n## 配置说明\n\n配置文件位于 `config/voxyworldgenv2.json`。\n\n## 许可证\n\n自定义协议，详情请参阅 LICENSE 文件。\n\n## 需要服务器？\n\n我使用 BisectHosting 已有数月，它一直非常可靠且易于操作！我现在已与他们合作成为推广伙伴！通过他们托管服务器将直接支持我！欢迎使用我的优惠码 `<iseeethan>`，首月可享约 25% 的折扣！\n\n点击下方横幅即可开始！\n\n[![banner](https://www.bisecthosting.com/partners/custom-banners/6223f15d-bdb4-4fe1-8c03-613cffe1ada7.webp)](https://shorturl.at/XePGB)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

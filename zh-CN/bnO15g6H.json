@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6a927619052b23e3",
+  "content": "\n\n当分配的 **Java 内存过少** 时会进行提示，并在游戏加载完成后 **播放提示音**。<br>\n所有选项均可在 `config/loadsupport.toml` 中完全自定义。\n\n## 配置 🚀\n`config/loadsupport.toml` 中的配置文件相当直观：\n```toml\nloadFinishSound = \"minecraft:ui.toast.challenge_complete\"\nminMemory = 4.0\nerrorTitle = \"错误：Java 内存不足！\"\nerrorMinMemory = \"请为您的 Minecraft 实例至少分配 {minMemory} GB 的 Java 内存！\"\nerrorCurrentMemory = \"您当前已分配 {currentMemory} GB 内存。\"\nmemoryInfoLink = \"https://github.com/vaporvee/LoadSupport/wiki/How-to-allocate-more-memory-to-your-Minecraft-instance\"\n```\n`{minMemory}` 和 `{currentMemory}` 将被替换为实际数值。\n\n## 计划中的功能 👀\n- 🪛 游戏内设置（支持 Modlist）\n- 🧩 更多功能，让玩家了解 Minecraft 无法加载的原因\n\n## 功能\n### 当 Java 内存选择过少时直接显示警告 🚨\n玩家无需等待即可得知是否选择了错误的 Java 内存量。\n\n![Screenshot](https://cdn.modrinth.com/data/cached_images/0b148e2023ca586cc64f821a2ce0ca8b87402ce5.png)\n\n#### 拦截游戏窗口 🚧\n确保玩家获得正确的性能体验。\n\n---\n\n### Minecraft 加载完成时播放提示音 🔊\n在游戏后台运行时也能直接知晓 Minecraft 何时启动。\n\n<iframe src=\"https://www.youtube-nocookie.com/embed/h2eBoIoq5vw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

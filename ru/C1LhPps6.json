@@ -1,0 +1,6 @@
+{
+  "bodyHash": "88bb12062c9cc861",
+  "content": "\n\n# Voxel vibes [АЛЬФА]\n\nПростой шейдер, ориентированный на сохранение ванильного стиля\n\n## Основные функции\n- Тени, выровненные по пикселям\n- Улучшенный рендеринг небосвода\n- Улучшенный туман\n- Базовая поддержка Distant Horizons\n\n## Галерея\nБольше изображений смотрите в [Галерее](https://modrinth.com/shader/voxel-vibes/gallery)\n\n![Джунгли](https://cdn.modrinth.com/data/C1LhPps6/images/47ec0a4a4932c677f86213c9ef328a5f05f3b691.png)\n\n![Пиксельные тени попугаев](https://cdn.modrinth.com/data/C1LhPps6/images/960c10c51eb6a27e82df4d843c3eb38513c8c595.png)\n\n\n\nНа данный момент этот шейдер является тестовым и его поддержка не гарантируется. Всё может измениться, а дальнейшее развитие зависит от вашей обратной связи. Ошибки ожидаются, сообщайте о них на странице Issues. \n\n\nОснован на [XorDevs Default Shaderpack](https://github.com/XorDev/XorDevs-Default-Shaderpack)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

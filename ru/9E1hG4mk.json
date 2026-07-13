@@ -1,6 +1,6 @@
 {
-  "bodyHash": "NnZp9W+kqWM=",
-  "content": "# Narrus Yeetus без ошибок\n### Удалите надоедливого рассказчика и ВСЕ ошибки, связанные с ним.\n\nФорк NarrusYeetus от [TheEnderCore](https://modrinth.com/user/TheEnderCore), этот мод удаляет рассказчика, не вызывая ошибок без причины.\n\n(NarrusYeetus вызывал ошибку после интеграции с Narrator)\n\n**NarrusYeetus:**\n\n<code>[15:35:39] [Поток рендеринга/ОШИБКА] (Рассказчик) Narrus Yeetus!</code>\n\n**NarrusYeetus без ошибок:**\n\n<code>[15:36:49] [Поток рендеринга/ИНФО] (Рассказчик) NarrusYeetus отключил рассказчика!</code>\n\n### Другие изменения от NarrusYeetus:\n- Удаляет информацию о рассказчике с экрана доступности\n- Предотвращает открытие экрана начальной настройки доступности\n\n",
+  "bodyHash": "5f6c3e5caf651202",
+  "content": "\n\n# Narrus Yeetus без ошибок\n### Убирает надоедливого рассказчика и ВСЕ связанные с ним ошибки.\n\nФорк мода NarrusYeetus от [TheEnderCore](https://modrinth.com/user/TheEnderCore). Этот мод отключает Рассказчика, не выдавая при этом ошибок без причины.\n\n(Оригинальный NarrusYeetus выдавал ошибку после внедрения в класс Narrator)\n\n**NarrusYeetus:**\n\n<code>[15:35:39] [Render thread/ERROR] (Narrator) Narrus Yeetus!</code>\n\n**NarrusYeetus без ошибок:**\n\n<code>[15:36:49] [Render thread/INFO] (Narrator) NarrusYeetus has disabled the narrator!</code>\n\n### Другие изменения по сравнению с NarrusYeetus:\n- Удаляет информацию о рассказчике из экрана настроек специальных возможностей\n- Предотвращает открытие экрана настроек специальных возможностей при первом запуске",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

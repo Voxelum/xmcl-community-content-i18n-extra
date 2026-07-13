@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qWRY4p1kY0s=",
-  "content": "<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fcorgitaco.dev%252fannouncement\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://raw.githubusercontent.com/CorgiTaco/corgitaco.github.io/refs/heads/main/announcement.png\" alt=\"\" width=\"850\" height=\"100\"></a></p><p>这是一个包含用于Corgi Taco's模组的代码的模组，提供以下实用功能：</p><p>- 使用Mojang编解码器的`.json5`配置序列化，带注释的json文件。</p><p>- 带注释的编解码器。</p><p>- 从NBT生成树木的功能。</p><p>- 混合/缓动函数编解码器注册表，便于编解码器配置序列化。</p><p>- 实体过滤器。</p><p>- 村民交易编解码器注册表，便于编解码器配置序列化。<br><br><br></p><p><a href=\"https://discord.gg/Qfzyh7mynz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/468893/description_71733f92-1e49-473e-b759-0d3f6bb7f92c.png\" alt=\"\" width=\"850\" height=\"283\"></a></p>",
+  "bodyHash": "3d8f0be642ded736",
+  "content": "\n\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fcorgitaco.dev%252fannouncement\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://raw.githubusercontent.com/CorgiTaco/corgitaco.github.io/refs/heads/main/announcement.png\" alt=\"\" width=\"850\" height=\"100\"></a></p>\n<p>这是一个包含 Corgi Taco 旗下模组所用代码的模组，具有以下实用功能：</p>\n<p>- 使用 Mojang 编解码器（codecs）进行 `.json5` 配置序列化。支持带注释的 JSON 文件。</p>\n<p>- 支持注释的编解码器。</p>\n<p>- 从 NBT 数据生成树木的功能。</p>\n<p>- 混合/缓动函数编解码器注册表，便于编解码器配置序列化。</p>\n<p>- 实体过滤器。</p>\n<p>- 村民交易编解码器注册表，便于编解码器配置序列化。<br><br><br></p>\n<p><a href=\"https://discord.gg/Qfzyh7mynz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/468893/description_71733f92-1e49-473e-b759-0d3f6bb7f92c.png\" alt=\"\" width=\"850\" height=\"283\"></a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FuWILYwvw9g=",
-  "content": "![Banner](https://raw.githubusercontent.com/uku3lig/betterhurtcam/experimental/subprojects/banner.png) \\\n[![Modrinth 頁面](https://img.shields.io/modrinth/dt/o4y0N2hu?style=for-the-badge)](https://modrinth.com/mod/betterhurtcam)\n\n*平面設計是我的熱情*\n\n**BetterHurtCam** 是 [NoHurtCam](https://github.com/UltraBlackLinux/noHurtCam) 的改良版本，不僅可以停用受傷視角晃動，還能透過內建設定畫面或按鍵綁定來調整晃動強度！\n\n*支持的 Minecraft 版本*：b1.7.3 以及 1.14 之後的所有版本\n\n## 關於 23w06a 的情況\n\n在 1.19.4 的快照版本 [23w06a](https://www.minecraft.net/en-us/article/minecraft-snapshot-23w06a) 中，Mojang 新增了一個無障礙選項：傷害傾斜。正如其名，可以用來調整傷害傾斜的強度。理論上 BetterHurtCam 已非必要，但你可能仍會在 1.19.4+ 版本中需要它，原因如下：\n* 可以使用任意倍率（例如大於 1 或小於 0，如果你喜歡的話）\n* 恢復舊版非方向性的傷害傾斜效果\n* 停用生命條的閃爍動畫\n\n## 依賴項\n* [ukulib](https://modrinth.com/mod/ukulib)（適用於 1.3.3 以上版本）",
+  "bodyHash": "0849dd65f6770a1e",
+  "content": "\n\n![Banner](https://raw.githubusercontent.com/uku3lig/betterhurtcam/experimental/subprojects/banner.png) \\\n[![Modrinth 頁面](https://img.shields.io/modrinth/dt/o4y0N2hu?style=for-the-badge)](https://modrinth.com/mod/betterhurtcam)\n\n*平面設計是我的熱愛*\n\n**BetterHurtCam** 是 [NoHurtCam](https://github.com/UltraBlackLinux/noHurtCam) 的重新改版版本，不僅可以停用受擊時的鏡頭晃動，還能透過內建設定畫面或按鍵綁定來調整其強度！\n\n*支援的 Minecraft 版本*：b1.7.3 以及 1.14 之後的所有版本\n\n## 關於 23w06a 快照的情況\n\n在 1.19.4 的快照 [23w06a](https://www.minecraft.net/en-us/article/minecraft-snapshot-23w06a) 中，Mojang 引入了一項新的無障礙選項：受擊傾斜（Damage Tilt）。正如其名，該選項可用於調整受擊傾斜的強度。從技術層面來說，BetterHurtCam 已非必須，但在 1.19.4 及以上版本中，您仍可能因為以下原因選擇使用它：\n* 使用任意倍率（例如高於 1 或低於 0，視個人喜好而定）\n* 恢復舊版不受方向影響的受擊傾斜效果\n* 停用生命值條的閃爍動畫\n\n## 依賴項目\n* [ukulib](https://modrinth.com/mod/ukulib)（適用於 1.3.3 及以上版本）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

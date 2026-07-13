@@ -1,0 +1,6 @@
+{
+  "bodyHash": "17aec6004e96178e",
+  "content": "\n\nЭто мод, который добавляет пресеты для мода [Pehkui](https://modrinth.com/mod/pehkui)!\n\n/big — выполняет команду /scale set pehkui:base 1 @p\n\n/small — выполняет команду /scale set pehkui:base 0.06 @p\n\nПриятной игры!\n\nЭтот мод был создан с помощью MCreator (за исключением версии для Fabric). Скачать его можно [здесь](https://mcreator.net/).\n\nИнтересный факт: я написал код версии для Fabric самостоятельно.\n\nНе такой уж и интересный факт: я пытался сделать конфиг, но не смог заставить его работать, так что вам придётся довольствоваться этим.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

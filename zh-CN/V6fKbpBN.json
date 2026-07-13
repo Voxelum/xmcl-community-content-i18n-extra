@@ -1,6 +1,6 @@
 {
-  "bodyHash": "cCXOmI8zPYY=",
-  "content": "这是一个由CraisinLord制作的集成结构系列的库模组。它将结构类型和数据抽象等共享工具整合到一个统一的模组中。\n\n目前，集成API是以下模组的必要前置：\n\n- 集成地牢与结构\n- 集成要塞\n- 集成村庄\n- 集成灾厄\n- 集成崛起地牢\n- 集成七海\n- 集成宝可梦（即将推出）\n\n欢迎模组开发者将此模组作为依赖项使用！它提供了以下功能：\n\nAPI包含以下内容：\n\n- 易于使用的地图制作者交易\n- 结构方块限制从48扩展到256\n- 自定义全新改良的拼图管理器\n- 在结构JSON文件中添加了大量配置选项\n- 轻量级数学工具\n- 可使用IDAS配置数据包作为示例参考\n- 更多关于如何使用集成API的信息：https://github.com/craisinlord/integrated-api.github.io\n\n如果遇到任何问题或有任何建议，请点击下方图片或链接加入Discord，我会尽力回复每一位玩家，并且非常欢迎各种建议！感谢您游玩并支持我的模组！\n\nhttps://discord.com/invite/72a7jmc5mb\n\n我花费了超过500小时来构建和编写我的免费模组。我为此专门学习了Java。如果您非常喜欢我的作品，支持我的两种好方法是通过Patreon直接赞助，或者通过BisectHosting购买服务器并使用优惠码CRAISINCRAFT享受25%折扣。",
+  "bodyHash": "fd290980a6fad646",
+  "content": "\n\n这是由 CraisinLord 制作的 Integrated Structures 系列的库模组。它将结构类型和数据抽象等共享工具整合到了同一个模组中。\n\n目前，以下模组需要集成 API：\nIntegrated Dungeons and Structures\nIntegrated Stronghold\nIntegrated Villages\nIntegrated Cataclysm\nIntegrated Dungeons Arise\nIntegrated Seven Seas\nIntegrated Cobblemon（即将推出）\n\n对于模组开发者，欢迎将此模组作为依赖项使用！它提供：\n\nAPI 包含以下内容：\n- 易于使用的制图师地图交易功能\n- 将结构方块限制从 48 扩展至 256\n- 全新定制并优化的拼图管理器\n- 为结构 JSON 文件添加了大量配置选项\n- 轻量级数学工具类\n- 参考 IDAS 配置数据包以了解具体实现方法\n- 关于如何使用 Integrated API 的更多信息：https://github.com/craisinlord/integrated-api.github.io\n\n如果您遇到任何问题或有建议，请点击下方的图片或链接加入我们的 Discord 服务器。我会尽力回复每一位用户，也非常欢迎提出建议！感谢您游玩并支持我的模组！\n\n https://discord.com/invite/72a7jmc5mb\n\n我为开发这些免费模组投入了超过 500 小时。我是为了这个项目专门学习的 Java。如果您非常喜欢我的作品，支持我的两种方式非常棒：一是直接通过 Patreon 赞助，二是通过 BisectHosting 购买服务器并使用优惠码 CRAISINCRAFT 享受 25% 的折扣。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

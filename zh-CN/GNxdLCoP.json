@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qSb55bZ0bnA=",
-  "content": "<center><p style=\"text-align: center;\">为树叶方块添加了剔除功能，相比原版大幅提升性能。</p>\n<p style=\"text-align: center;\">这是对 OptiFine 功能 '智能树叶' 的重现</p>\n<p style=\"text-align: center;\">没错，就是这么简单。</p>\n<p style=\"text-align: center;\">此模组还可以配合我的 <a href=\"https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves\">Better Leaves 资源包</a> 来提高帧率</p>\n<p style=\"text-align: center;\">完全兼容 Sodium、Canvas、LambdaBetterGrass 等模组。</p>\n<p style=\"text-align: center;\"><img src=\"https://i.ibb.co/LzFXtm8/Oak-Leaves-JE4-1.png\" width=\"768\" height=\"132\" /></p>\n<p style=\"text-align: center;\"><img src=\"https://i.imgur.com/U55i4uD.png\" alt=\"\" width=\"655\" height=\"368\" /></p>",
+  "bodyHash": "201527af7fe8ab06",
+  "content": "\n\n<center><p style=\"text-align: center;\">为树叶方块添加剔除功能，相比原版可带来巨大的性能提升。</p>\n<p style=\"text-align: center;\">这是 OptiFine “智能树叶”（Smart Leaves）特性的复刻版。</p>\n<p style=\"text-align: center;\">没错，就是这么简单。</p>\n<p style=\"text-align: center;\">搭配我的 <a href=\"https://www.curseforge.com/minecraft/texture-packs/motschens-better-leaves\">Better Leaves 资源包</a>，本模组还能进一步提升帧率。</p>\n<p style=\"text-align: center;\">与 Sodium、Canvas、LambaBetterGrass 等模组完全兼容。</p>\n<p style=\"text-align: center;\"><img src=\"https://i.ibb.co/LzFXtm8/Oak-Leaves-JE4-1.png\" width=\"768\" height=\"132\" /></p>\n<p style=\"text-align: center;\"><img src=\"https://i.imgur.com/U55i4uD.png\" alt=\"\" width=\"655\" height=\"368\" /></p></center>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ae613f0b7f69ac09",
+  "content": "\n\n# Create: Bright Ponders\n\n一款简单的模组，旨在为 Create 的“思考”（Ponder）系统添加全亮模式并移除方块阴影，有望修复部分光照问题。此功能可通过模组的配置文件进行开启或关闭。\n\n# 对比\n\n### 修改前\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/e71570b886713a2fc00091daf689bdacc4436a17.png\" alt=\"光线较暗的 Ponder 场景\" width=\"480\">\n\n### 修改后\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/0477320e2864cfaeebb49f362013affe9dbd86af.png\" alt=\"光线较亮的 Ponder 场景\" width=\"480\">",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

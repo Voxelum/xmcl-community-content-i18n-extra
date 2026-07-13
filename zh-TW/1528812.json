@@ -1,6 +1,6 @@
 {
-  "bodyHash": "kUL8+gr5FyQ=",
-  "content": "<p>非官方移植版，適用於 1.21.1 版本的 NeoForge。相容於 Sable 而非 VS。可與 CC: Tweaked 搭配使用。</p><p>原始碼可於&nbsp;<a href=\"https://github.com/DXENDBucket/Create-Radar-Sable\" target=\"_blank\" rel=\"nofollow\">https://github.com/DXENDBucket/Create-Radar-Sable</a>&nbsp;取得。</p><p>需要 Create 與 Create Big Cannons 作為前置模組。</p><p><br>\n<strong>描述更新</strong></p><ul>\n<li>先前的描述提到，當官方移植版推出時，本專案將停止更新。為避免誤解，這表示我將不會繼續追蹤上游原始碼，作為官方移植版的非官方替代品。實際上，本專案除了官方內容之外，已經加入獨有的功能。我仍可能會將此專案作為 legacy/社群分支持續維護，用於修復錯誤、提升相容性，以及開發獨立的新功能。</li>\n<li>本專案最初是基於原始專案的 MIT 授權早期版本所製作的非官方移植版。本專案不會追蹤或納入採用新授權協議的新版上游內容。</li>\n</ul>",
+  "bodyHash": "8735194c315f9193",
+  "content": "\n\n<p>這是 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate-radars\" target=\"_blank\" rel=\"nofollow\">Create: Radars</a>&nbsp;的 1.21.1 NeoForge 非官方移植版。使用 Sable 替代 VS，並已相容 CC: Tweaked。</p>\n<p>原始碼存放於&nbsp;<a href=\"https://github.com/DXENDBucket/Create-Radar-Sable\" target=\"_blank\" rel=\"nofollow\">https://github.com/DXENDBucket/Create-Radar-Sable</a>。</p>\n<p>需要安裝 Create 與 Create Big Cannons。</p>\n<p><br>\n<strong>說明更新</strong></p>\n<ul>\n<li>先前說明曾指出，一旦官方移植版推出，本專案將停止更新。在此澄清，這代表我不會繼續追蹤上游專案，也不會將其作為官方移植版的替代品。除了官方內容外，我已在專案中加入獨特功能。未來我仍可能以傳統或社群分支的形式維護此專案，專注於修復錯誤、相容性調整與獨立開發的功能。</li>\n<li>本專案最初是基於原始專案早期採用 MIT 授權的版本所建立的非官方移植版。本專案將不會追蹤或合併後續在較新授權條款下發布的上游版本內容。</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

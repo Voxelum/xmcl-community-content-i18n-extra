@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bbf2a81500cc3340",
+  "content": "\n\n# AE2 图案补货器\n\n一款适用于 Applied Energistics 2 的轻量级生活质量增强插件，为图案编码终端添加了以下两项功能：\n \n### 自动补货空白图案\n当空白图案槽为空且你点击“编码”时，会自动从 ME 网络中存储的空白图案里补充该槽位。\n\n![空白图案补货器](https://raw.githubusercontent.com/sawces/ae2-pattern-restocker/refs/heads/main/docs/ae2-pattern-restocker-replacement.gif)\n\n### 清除并补货图案按钮\n在已编码图案槽上有一个小型的“X”徽章，点击后会将已编码图案还原为空白图案，并按优先级返回到空白图案槽、ME 存储或你的物品栏中。\n\n![清除并补货已编码图案](https://raw.githubusercontent.com/sawces/ae2-pattern-restocker/refs/heads/main/docs/ae2-pattern-restocker-clear-and-restock.gif)\n\n无需特殊卡片、升级模块或额外物品。\n\n## 为什么需要这个模组？\n\n一些大型 AE2 插件模组虽然包含类似功能，但也引入了许多额外特性、机制和平衡性改动。本模组旨在以精简、独立的形式仅提供上述生活质量提升，方便添加到整合包中而不会显著改变其原有的游玩体验。\n\n## 配置\n两项功能均可在 `config/ae2_pattern_restocker-common.toml` 文件中独立开关。默认情况下均为开启状态。\n安装\n\n## 安装\n通过支持 CurseForge 或 Modrinth 的启动器进行安装（如 CurseForge App、Modrinth App、Prism Launcher、ATLauncher、FTB App 等），或将 JAR 文件手动放入你的 `mods` 文件夹中（与 Applied Energistics 2 放在一起）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

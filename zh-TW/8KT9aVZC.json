@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c860d47e517e73d",
+  "content": "\n\n![banner](https://cdn.modrinth.com/data/cached_images/e46cc78450b9cea58e99b2ffc15ebf9907225c7c_0.webp)\n《Rustic Engineer》是一款以各類機械構造為核心的模組，涵蓋運輸機械甚至是各種配件。整體風格極為復古，僅使用木材與金屬打造，並維持與原版一致的視覺風格。\n\n開發這些模組需要時間、熱忱與細心的打磨——只因我樂見大家在使用時玩得開心。\n如果這個模組曾為你帶來遊戲中的精彩時刻，歡迎考慮請我喝杯咖啡 ☕。\n這能持續激勵我創作更多內容，而你還可能獲得一些獨家獎勵。\n每一份支持都至關重要![Ko-fi](https://cdn.modrinth.com/data/cached_images/b98ea373e8fab2df7e4a6c29c57d57209790587a_0.webp)\n\n本模組仍在持續開發中，但目前已提供多種可供建造與使用的機械。\n\n如何製作鐵板：\n將鐵錠放在鐵砧上，再用樸實錘敲擊。\n\n<details>\n<summary>版本 1.1.0 – 更新日誌</summary>\n\n物品與機械\n\n新增物品說明。\n新增機械說明。\n為機械套用新的鐵系金屬材質。\n重新設計與機械相關的物品圖示。\n新增飛船的模型。\n新增創意模式選單的新標誌。\n\n移除內容\n\n移除太陽石（Solarite）及其所有相關衍生物品。\n移除液壓機。\n移除管鉗。\n所有原本使用太陽石的配方現已改為使用鐵。\n\n新增物品\n\n新增樸實錘：（用於製作鐵板。）\n同時具備武器功能，屬性等同於鐵斧。\n新增木箱：（用於收納與運輸機械。）\n\n機械\n\n機械現在於破壞或收集時，會掉落其儲存格中的所有物品。\n\n</details>\n\n**需要 Geckolib</br>\n需要 JEI（用於查看配方）**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

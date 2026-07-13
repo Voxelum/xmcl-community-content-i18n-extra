@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd97c65000e80e39",
+  "content": "\n\n<p><strong>ae2helpers</strong> 是《应用能源2》（Applied Energistics 2）的一款便利性（QoL）插件，旨在让自动合成配置更加流畅且紧凑。</p>\n<h1>功能特性</h1>\n<p><strong>1. 合成结果导入卡：</strong>一款专为<strong>图案供给机</strong>设计的特殊升级组件。</p>\n<ul>\n<li><strong>作用：</strong>允许图案供给机使用同一个面<strong>推送</strong>原材料至机器，并将成品<strong>拉取</strong>回来。</li>\n<li><strong>优势：</strong>无需再额外安装导入总线或物品管道。</li>\n<li>仅对不会自动将成品推送给相邻机器的机器有用/必要。</li>\n</ul>\n<p><strong>2. 自动配方插入：</strong>改进了<strong>合成终端</strong>的操作流程。</p>\n<ul>\n<li><strong>作用：</strong>在终端中请求自动合成为某配方时，合成网格会进入带有“幽灵物品”的等待状态。</li>\n<li><strong>优势：</strong>当你的计算核心完成任务的瞬间，物品将<strong>自动填入</strong>合成网格。再也不用苦等并重新点击配方了！</li>\n<li>兼容 JEI、EMI 和 REI</li>\n</ul>\n<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://cdn.modrinth.com/data/cached_images/67e241ead24f849a1c7e4aaf000df4fcc99a4161.gif\" alt=\"自动导入展示\"></p>\n<p>本模组（显然）需要安装 AE2。我不会提供向下移植。新增的功能均包含在配置文件中供玩家调整。</p>\n<p>&nbsp;</p>\n<p>包含与 Applied Flux 和 ME 灵魂卡的兼容性。由于它们都会为图案供给机添加升级槽位，我决定采用<br>非侵入式方案，直接添加一个独立槽位，从而避免对这些模组进行 Mixin 注入。</p>\n<p>&nbsp;</p>\n<p><a href=\"https://github.com/AE2\" target=\"_blank\" rel=\"nofollow\">@AE2 / RS2 开发者：欢迎自由复制此功能（及/或相关代码）。</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b87b9588f75c2b9e",
+  "content": "\n\n# Safe Crystals\n\nSafe Crystals 是一款輕量級的客戶端 Fabric 模組，可幫助您在放置終界水晶時防止意外挖掘黑曜石。\n\n當您手持終界水晶時，此模組會阻擋對黑曜石的攻擊動作。這有助於保持水晶放置的順暢，並防止在水晶 PvP 期間產生不必要的方塊破壞互動。\n\n![Safe Crystals 預覽](https://i.imgur.com/aDFGgSR.png)\n\n## 功能特點\n\n* 手持終界水晶時防止意外挖掘黑曜石\n* 確保水晶放置過程順暢且不受干擾\n* 阻擋不必要的黑曜石破壞動畫\n* 內建遊戲內切換快捷鍵\n* 切換時顯示動作列訊息\n* 可透過 Mod Menu 進行設定\n* 僅限客戶端使用\n\n## 運作原理\n\n若已啟用 Safe Crystals 且您正手持終界水晶，則對黑曜石的挖掘將被阻擋。\n\n這有助於在快速放置水晶時防止意外挖掘黑曜石，並使放置流程更為一致。\n\n若停用此模組，Minecraft 將恢復正常運作。\n\n![阻擋黑曜石挖掘](https://i.imgur.com/jpBcxAm.gif)\n\n## 設定\n\nSafe Crystals 可透過 Mod Menu 進行設定。\n\n您可以設定：\n\n* 是否啟用此模組\n* 是否顯示動作列訊息\n* 切換快捷鍵\n\n![Safe Crystals 設定畫面](https://i.imgur.com/D7mC7Wg.png)\n\n## 切換快捷鍵\n\nSafe Crystals 內建遊戲快捷鍵，可快速啟用或停用保護功能。\n\n預設切換鍵為：\n\n```text\nB\n```\n\n切換時，模組會顯示動作列訊息，告知您 Safe Crystals 目前為啟用或停用狀態。\n\n![Safe Crystals 切換提示](https://i.imgur.com/QeODpcS.png)\n\n## 需求\n\n* Fabric Loader\n* Fabric API\n* Cloth Config\n\n## 選配項目\n\n* Mod Menu（建議安裝以便於遊戲內設定）\n\n## 聯繫方式\n\n若缺少特定版本或有特殊需求，歡迎隨時在 Discord 上聯繫我。\n\n[![Discord](https://img.shields.io/badge/Discord-Join%20Support-5865F2)](https://discord.gg/PjucdG2ESs)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

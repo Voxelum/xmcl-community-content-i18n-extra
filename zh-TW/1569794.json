@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6982186bd4573fa7",
+  "content": "\n\n<h1>CBC Optics</h1>\n<p>為 Create Big Cannons 新增瞄具，並與 Aeronautics 相容。</p>\n<p>主要新增內容：</p>\n<ul>\n<li>砲塔瞄具：安裝於大型砲側面並完成組裝後即可使用。透過快捷鍵或瞄具觀察器查看瞄準畫面，再次按下快捷鍵即可退出。</li>\n<li>自動砲瞄具：安裝於自動砲上，亦支援 Advanced Technologies 與 Neo Warfare 模組的砲械。操作方式與一般瞄具非常相似。</li>\n<li>光學控制單元：用於管理多個瞄具。使用瞄具連結器將瞄具與 OCU 綁定，按住 Shift 鍵並右鍵點擊連結器可重置綁定。接著使用瞄具觀察器將 OCU 裝備至自身，之後即可透過快捷鍵進行操控。</li>\n</ul>\n<p>本模組仍處於測試階段，可能會出現一些錯誤。若您發現問題、有建議或疑問，歡迎留言、在 GitHub 開立 Issue，或直接透過 Discord 聯繫我（@lememz）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

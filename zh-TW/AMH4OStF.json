@@ -1,0 +1,6 @@
+{
+  "bodyHash": "06919188b193fecb",
+  "content": "\n\n# 冰雪武裝\n\n**內嵌金屬碎塊的雪球，還有雪錐！**\n\n_本模組為 [MMD](https://mcmoddev.com/) 舉辦的 [WinterJam 2020](https://github.com/MinecraftModDevelopment/MMD-Site/blob/master/docs/events/winter_jam_2020.md) 參賽作品！_\n\n> **若想查看大多數物品的合成配方，建議安裝 [mezz 開發的 Just Enough Items](https://modrinth.com/mod/jei) 或 [shedaniel 開發的 Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)。**\n\n## 武裝雪球\n\n新增武裝雪球！利用內嵌金屬或火藥的緊實雪塊力量，對敵人（或許還有朋友？）造成傷害吧！\n\n - **鐵心雪球** - 造成 _一顆心_ 的傷害\n - **金心雪球** - 造成 _半顆心_ 的傷害，擊殺時具備 _搶奪 I_ 效果\n - **鑽石心雪球** - 造成 _一點五顆心_ 的傷害，並施加 _緩速 I_ 效果持續一點五秒\n - **下界合金心雪球** - 造成 _兩顆心_ 的傷害，並施加 _失明 I_ 效果持續兩秒\n - **爆炸雪球** - 命中時爆炸，對周圍所有實體造成中等傷害\n\n## 雪錐\n\n製作雪錐，這是獻給朋友們的絕佳冬日甜點！也可以將它們浸泡於藥水中，以縮短持續時間為代價，換取可重複使用的效果！\n\n - **威化錐** - 恢復半格飢餓值與微量飽食度\n - **雪錐** - 恢復一格飢餓值與少量飽食度\n - **黃金雪錐** - 恢復兩格飢餓值與大量飽食度，並賦予 _抗火 I_ 效果持續六秒；即使飢餓值已滿仍可食用！\n - **藥水雪錐** - 恢復一格飢餓值與少量飽食度；會賦予其合成時所使用的藥水效果\n   - _自 v1.18.0 版本起，藥水雪錐的合成方式為：將 8 個雪錐環繞 1 瓶藥水／噴濺型藥水擺放。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

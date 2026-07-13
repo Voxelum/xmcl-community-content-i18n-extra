@@ -1,6 +1,6 @@
 {
-  "bodyHash": "bxN6HFSnCWY=",
-  "content": "<p>&nbsp;新增一套使用 Curios API 與 TACZ 相容的槍帶系統<br><br>使用方法：<br>將槍放入槍帶物品中<br>將槍帶放入你的 Curios 槽位<br>按下 X（預設快捷鍵）即可從槍帶中取出或放回槍枝<br><br>功能特色：<br>分級槍帶，具有不同的取出與收納延遲時間<br>支援切換槍枝</p><p>完整生存模式相容</p><p>設定檔（儲存於世界資料夾中的 serverconfig 資料夾）</p><p>&nbsp;</p><p>製作名單：maxinablender（美術資源）、tkg112（程式開發）</p>",
+  "bodyHash": "edaa8d139edcc0d5",
+  "content": "\n\n<p>&nbsp;使用 Curios API 為 TACZ 添加彈弓系統<br><br>使用方法：<br>將槍械放入彈弓物品中<br>將彈弓裝備至 Curios 欄位<br>按下 X（預設快捷鍵）可從彈弓取出槍械或將其放回彈弓<br><br>功能特色：<br>不同階級的彈弓，具有不同的拔出與收起延遲時間<br>槍械切換</p>\n<p>完整支援生存模式</p>\n<p>設定檔（存放於世界資料夾的 serverconfig 資料夾內）</p>\n<p>&nbsp;</p>\n<p>製作人員：maxinablender（資源）、tkg112（程式開發）</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

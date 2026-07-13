@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ffbabc7a39674dc8",
+  "content": "\n\n# Эгоистичный житель\n\nВдохновлено Dawncraft и механикой сплетен от [You Thief](https://modrinth.com/datapack/you-thief!)\n\nЖители будут запоминать, если видят, как ломаются блоки без тега `#selfish_villager:non_property` или взаимодействуют с блоками из тега `#selfish_villager:interactable_property` в указанном радиусе в структурах `#village`.  \nОни запомнят это и [будут сплетничать](https://minecraft.fandom.com/wiki/Villager#Gossiping).  \nРекомендуется установить https://modrinth.com/mod/your-reputation для отображения репутации.  \n  \nПо умолчанию  \n  - `#selfish_villager:non_property` содержит `\"#c:grass\"`, `\"#c:grass_like\"`, `\"#c:flowers\"`.  \n  - `#selfish_villager:interactable_property` содержит `\"#c:chests\"`, `\"#c:barrel\"`.  \nДополнительную информацию см. в папке data на GitHub.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27ae12c56de596ad",
+  "content": "\n\n<h1 style=\"text-align:center\">副手 Tick 修復</h1>\n<p style=\"text-align:center\">這是一款簡單的模組，用於修復副手物品未執行物品欄 Tick 方法的問題。這能修正某些物品在副手使用時產生的非預期行為，主要針對 Simply Swords（這也是製作此模組的首要原因）。</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<h3 style=\"text-align:center\"><strong>警告</strong></h3>\n<p style=\"text-align:center\">雖然此模組旨在修復問題，但若使用不當仍可能導致非預期的結果。因此，預設設定僅套用至 Simply Swords 的物品。我不確定這是否會對其他可能已有替代方案的模組造成負面影響，因此建議謹慎使用此模組，並測試確認所有物品均能如預期運作。</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">可於 config/offhandtickfix.json5 中進行設定</p>\n<p style=\"text-align:center\">&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

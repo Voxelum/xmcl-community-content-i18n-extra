@@ -1,0 +1,6 @@
+{
+  "bodyHash": "02e8d54dde8a51d0",
+  "content": "此專案是針對 **cheetahTDs** 開發的 **Totem Pets** 所進行的修復。我修正了狗和貓的模型無法顯示的錯誤。這僅是一個小修復，我不擁有這些模型、紋理或程式碼的任何所有權。\n\n**新增與 Punchy 的相容性！** 如果您現在打算使用它，建議先安裝舊版，因為新版會使原版 Totem 消失（或者您可以手動在手持編輯器中調整位置）。\n\n**此專案仍保留與原版相同的依賴項。**\n> 對於 1.21.5 之前的每個版本，您都需要安裝 CitReswen 或 Optifine 模組，此資源包才能運作。對於 1.21.5 之後的版本，則無需這些模組即可正常運作。\n\n請在此查看原始作品：[Totem Pets](https://modrinth.com/resourcepack/totem-pets)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

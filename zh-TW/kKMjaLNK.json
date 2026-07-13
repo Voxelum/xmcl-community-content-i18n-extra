@@ -1,6 +1,6 @@
 {
-  "bodyHash": "w8TZ7O0nWOU=",
-  "content": "為[Spellbound Weapons](https://modrinth.com/datapack/spellbound-weapons)添加Better Combat兼容性，使用提供的預設配置，每種武器現在都擁有獨特的動畫、攻擊判定框和屬性。\n\n注意：Ocean Edge無法獲得，因此保留默認的劍動畫，但我為其他彩蛋物品（如Spellbound Sword和[Delete]）添加了一些很酷的功能。\n\n數據包必須在獲得武器之前安裝，在安裝數據包之前獲得的武器將不會更新。如需更多自定義選項，請訪問我的[Github](https://github.com/NMDx86/Spellbound-Weapons-BetterCombat)。",
+  "bodyHash": "a8c402b72efb0ac4",
+  "content": "\n\n使用提供的預設值，為 [Spellbound Weaponds](https://modrinth.com/datapack/spellbound-weapons) 加入 Better Combat 相容性，現在每把武器都擁有獨特的動畫、碰撞箱與屬性。\n\n注意：Ocean Edge 無法取得，因此會保留預設的劍類動畫；不過我為其他彩蛋物品（例如 Spellbound Sword 與 [Delete]）加入了一些酷炫的功能。\n\n必須先安裝此資料包再獲取武器，在安裝前已取得的武器將不會套用更新。如需更多自訂選項，請前往我的 [Github](https://github.com/NMDx86/Spellbound-Weapons-BetterCombat)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

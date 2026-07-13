@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8a2b141c7adf0bc0",
+  "content": "\n\n🔥 CurseForge 下載量突破 22.5 萬次，Modrinth 亦有 6.9k！非常感謝大家！🔥\n\n\n[GitHub](https://github.com/Meatwo310/applied-sorting) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-sorting) | [Modrinth](https://modrinth.com/mod/applied-sorting)\n\n\n# 📖 Applied Sorting\n**Applied Sorting** 是一款僅限客戶端的模組，為 [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) 的終端機新增了類似 [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) 的基於 ID 的排序功能。\n\n\n## ✨ 功能特色\n- **新增排序選項**：在 AE2 終端機中加入排序按鈕，支援以下幾種排序方式：\n  - **內部 ID**：依據遊戲內部分配給物品的數值 ID 進行排序，通常會依照物品註冊的順序排列。\n  - **資源位置**：依據資源名稱（如 `minecraft:stone`）進行排序。\n\n![AE2 Terminal sorted by ID](https://github.com/user-attachments/assets/f249a663-e3c5-4c8c-85d6-12e046807254)\n\n## ℹ️ 注意事項\n- 此模組**僅限客戶端使用**。您不需要在伺服器上安裝。\n\n\n## 📜 授權與致謝\n本專案採用 MIT 許可證授權。\n\n衷心感謝 TeamAppliedEnergistics 開發了這麼優秀的模組。  \n感謝 [mochi-753](https://github.com/mochi-753/) 完成 1.21.1 版本的初始移植工作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

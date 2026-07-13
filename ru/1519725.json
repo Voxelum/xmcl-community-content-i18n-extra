@@ -1,6 +1,6 @@
 {
-  "bodyHash": "OfRtmd2HqVM=",
-  "content": "<p>NoHurtCamera удаляет эффект повреждения камеры.</p><p>Форк оригинального мода от UltraBlackLinux.</p><p>Оригинальный мод уже не поддерживается. Автор прямо разрешает делать форки: «Смело делайте форк этого мода, сейчас он уже заброшен» — UltraBlackLinux</p><p>Оригинал: <a href=\"https://github.com/UltraBlackLinux/noHurtCam\" rel=\"nofollow\">https://github.com/UltraBlackLinux/noHurtCam</a> Лицензия: AGPL-3.0 (такая же, как и у оригинала)</p><p>Обновлено для работы с Fabric 1.21.4. Другие версии скоро будут доступны.</p><p>Команда: /nohurtcam (включает/выключает)</p><p>Только на стороне клиента. Сервер не требуется.</p>",
+  "bodyHash": "7e2b6d4a7e656db7",
+  "content": "\n\n<p>NoHurtCamera отключает эффект тряски камеры при получении урона.</p>\n<p>Форк оригинального мода от UltraBlackLinux.</p>\n<p>Оригинальный мод заброшен. Автор явно разрешает создание форков: «Не стесняйтесь делать форки, мод теперь заброшен.» — UltraBlackLinux</p>\n<p>Оригинал: <a href=\"https://github.com/UltraBlackLinux/noHurtCam\" rel=\"nofollow\">https://github.com/UltraBlackLinux/noHurtCam</a> Лицензия: AGPL-3.0 (та же, что и у оригинала)</p>\n<p>Обновлено для работы с Fabric 1.21.4. Скоро появятся версии для других версий.</p>\n<p>Команда: /nohurtcam (включает/выключает эффект)</p>\n<p>Только для клиента. Сервер не требуется.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1abbb1b2488ad776",
+  "content": "\n\n專為 [Society: Sunlit Valley](https://modrinth.com/project/society-sunlit-valley) 設計的整合包專用模組，包含所需資源檔以及無法透過 KubeJS 完成的整合包專屬調整（例如 Mixin）。雖然此模組主要為該整合包而製，但如果你打算在其他情境下使用也完全不受限制！\n\n**現有的 Mixin**\n\n*   修復 PerfectPlushies 問題：[https://github.com/SirJain0/PerfectPlushies/issues/12](https://github.com/SirJain0/PerfectPlushies/issues/12)\n\n**計畫加入的 Mixin**\n\n*   Serene Seasons - 永恆春季／秋季生物群系標籤\n*   Create Numismatics - 修復銀行帳戶溢位問題\n*   水結冰機制（可能）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

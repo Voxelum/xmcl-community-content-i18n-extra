@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00d72e69ff1d8e81",
+  "content": "\n\n這款運行於客戶端的 Fabric 模組會在客戶端已擁有伺服器資源包時跳過載入程序。\n\n藉此避免在加入或離開伺服器時出現令人困擾的 Mojang 載入進度條。\n\n該模組會透過比對資源包的檔案雜湊值來實現此功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

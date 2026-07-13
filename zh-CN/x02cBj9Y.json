@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aef521c3ac2e17d2",
+  "content": "\n\n一款客户端 [Fabric](https://fabricmc.net/) 模组，在状态效果 HUD 和物品栏中添加小型可自定义的进度条，用于显示效果的剩余持续时间。\n\n功能特性：\n- 小巧可爱的进度条\n- 提供配置界面以调整颜色与进度条位置\n- 在特定情况下可自动隐藏进度条以减少界面杂乱（如信标效果或持续时间极长的效果）\n\n依赖 [Cloth Config]。配置界面可通过 [Mod Menu](https://modrinth.com/mod/modmenu) 打开。\n\n![HUD 上的进度条](https://cdn.modrinth.com/data/x02cBj9Y/images/c98d161c7500da131ffae614e573d61fcb0c99b2.png \"HUD\")\n\n![物品栏中的进度条](https://cdn.modrinth.com/data/x02cBj9Y/images/b078783e15bacfd25185abbce01cea107e2106bd.png \"Inventory\")\n\n## 致谢\n- 设计可能受 [SkyUI](https://www.nexusmods.com/skyrim/mods/3863) 的活跃效果 HUD 启发\n- 配置界面由 [Cloth Config] 提供支持\n- `pt_br` 翻译由 [FITFC](https://github.com/FITFC) 完成\n\n相关链接：[CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars) · [GitHub](https://github.com/A5b84/status-effect-bars) · [Modrinth](https://modrinth.com/mod/status-effect-bars)\n\n[Cloth Config]: https://modrinth.com/mod/cloth-config",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

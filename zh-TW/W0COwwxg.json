@@ -1,0 +1,6 @@
+{
+  "bodyHash": "794974d1805f3eed",
+  "content": "\n\n<div align=\"center\">\n  \n**自訂圖騰**\n</div>\n\n---\n<div align=\"center\">\n\n\n[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/A2Nx9kxDeB) [![Modrinth](https://img.shields.io/badge/Modrinth-1bd96a?logo=modrinth&logoColor=white&style=for-the-badge)](https://modrinth.com/user/cutebow)\n</div>\n\n---\n\n# 功能介紹！\n\n此為客戶端模組，可讓您完全自訂「手持」與「觸發」圖騰的動畫。可調整縮放比例、位置、透明度、染色及動畫設定。內建可選的健康值色彩插值功能，能於自訂的低血量與高血量顏色之間平滑過渡。\n\n---\n<div align=\"center\">\n\n\n![.](https://cdn.modrinth.com/data/W0COwwxg/images/c557f5f5b627acd20e9ffba1cdc98a16758d921a.png)\n\n_健康值色彩效果如下（您可自行調整低血量與高血量的顏色。）_\n\n</div>\n\n---\n\n# 設定項目\n\n**手持圖騰設定：**\n\n- 開啟/關閉手持圖騰開關\n- 手持圖騰縮放滑桿\n- 圖騰模型縮放滑桿\n- 透明度滑桿\n- Y軸（高度）位置滑桿\n- X軸（左右）位置滑桿\n- 染色選擇器（YACL 色彩挑選器）\n- 圖騰觸發色彩插值開關：依玩家當前生命值，逐漸過渡圖騰顏色\n- 健康時顏色自訂（YACL 色彩挑選器）\n- 低血量時顏色自訂（YACL 色彩挑選器）\n\n**圖騰觸發動畫設定：**\n\n- 開啟/關閉圖騰觸發動畫開關\n- 動畫縮放滑桿\n- 動畫速度滑桿\n\n歡迎加入我的 Discord！\n\n[![追蹤我！](https://img.shields.io/badge/Follow%20me!-💕-pink?style=flat)](https://namemc.com/profile/cutebow)\n\n\n[![NameMC](https://img.shields.io/badge/namemc-cutebow-ffb6c1?style=flat&logo=minecraft&logoColor=white)](https://namemc.com/profile/cutebow)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "41934ebc9c089c1f",
+  "content": "\n\n一個能將 Create 模組的 FE 電能轉換為 Equivalent Exchange 模組 EMC 值的模組。（由 AI 製作）\n\n新增了 FEMC 轉換器方塊，該方塊本身可儲存 10k FE 的電能。輸入的 FE 每 10 tick 進行一次轉換（若未達到設定數值則不轉換）。所有轉換器方塊於同一 tick 內進行運算。\n\nEMC 值會發放給放置該方塊的玩家，並與 Equivalent Exchange 團隊的其他模組相容。\n\n未新增任何合成配方！\n\n轉換數值可在 config 資料夾內的 fetoemc-common.toml 檔案中編輯。（預設值：50k FE 轉換為 5000 EMC）\n\n本模組理論上完全相容於任何版本的機械動力與 Create 模組。\n\n模組程式碼由 DeepSeek v4 協助編寫，圖示由 Doubao 生成，方塊繪製由作者親手繪製，awa。\n\n更新頻率隨緣（主要是因為沒什麼新功能可加了），目前仍處於測試階段，請勿在重要存檔中使用。\n\n感謝您的使用！\n\n一個能將 Create 模組的 FE 電能轉換為 Equivalent Exchange 模組 EMC 值的模組。（由 AI 製作）\n\n新增了 FEMC 轉換器方塊，方塊本身可儲存 10k FE 的電能，輸入的 FE 每 10 tick 進行一次轉換（未達到設定數值則不轉換），所有轉換方塊於同一 tick 內計算。\n\nEMC 值會發放給放置方塊的玩家，相容於 Equivalent Exchange 團隊模組。\n\n未新增合成配方！\n\n轉換數值可透過 config 資料夾中的 fetoemc-common.toml 進行編輯。（預設每 50k FE 轉換 5000 EMC）\n\n模組理論上相容於任意版本的機械動力與 Create 模組\n\n模組程式碼由 DeepSeek v4 製作，圖示由豆包生成，方塊由作者親手繪製 awa。\n\n隨緣更新（主要是因為沒太多東西可加了），目前為測試階段，請勿在重要存檔中使用。\n\n感謝使用！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

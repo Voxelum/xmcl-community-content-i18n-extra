@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5a70ab14456261e",
+  "content": "\n\n# RFTools Control\n\nRFTools Control 是一款為 RFTools 系列模組設計的擴充模組，透過基於視覺化網格的程式語言來提供自動化控制功能。你可以在網格中排列操作碼，藉此移動物品、控制紅石、檢查能量（RF）等。除了能存取一般物品欄外，本模組也支援直接存取由儲存掃描器控制的系統。未來預計將提供讓儲存掃描器自動合成物品的功能，不過目前尚未完全實作。\n\n本模組的兩個主要方塊分別是「程式機」（用於建立程式）與「處理器」（用於執行程式）。同時亦提供聯網功能。\n\n![RFTools Control UI](https://cdn.modrinth.com/data/DQjhR62z/images/39b77739c6e2a431293224e10b1d36404d123947.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

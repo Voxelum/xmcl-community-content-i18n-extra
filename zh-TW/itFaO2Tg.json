@@ -1,6 +1,6 @@
 {
-  "bodyHash": "0UqJLe01BC0=",
-  "content": "# FastQuit-Forge  \n此模組為 [FastQuit](https://modrinth.com/mod/fastquit) 的 Forge 移植版本。請勿在原始模組頁面回報與此模組相關的崩潰紀錄，您可以在我們的[問題回報頁面](https://github.com/frcvdt45g6by7hnj8ukm-nh8b7g6vtf5r4de3/FastQuit-Forge/issues)提交問題。  \n\n## 介紹  \n此模組讓您在點擊「儲存並返回標題畫面」後，能立即返回標題畫面。世界將會在背景中儲存，並仍會顯示在世界清單中。您可以在世界仍在儲存時編輯、刪除或重新建立世界。此外，本模組提供許多可設定的選項。  \n\n## 授權  \n與原始模組相同，此模組採用 MIT 授權開源。  \n\n![圖片](https://cdn.modrinth.com/data/itFaO2Tg/images/88c59a3c513cd7c4b8a07203740910faba793e0c.gif)",
+  "bodyHash": "b528e0823f4c906f",
+  "content": "\n\n# FastQuit-Forge  \n本模組為 [FastQuit](https://modrinth.com/mod/fastquit) 的 Forge 移植版本。請勿在原版模組頁面回報與此模組相關的崩潰紀錄。請改為至我們的 [問題回報頁面](https://github.com/frcvdt45g6by7hnj8ukm-nh8b7g6vtf5r4de3/FastQuit-Forge/issues) 提交議題。  \n\n## 簡介  \n本模組允許您在點擊「儲存並退出至主選單」後，立即返回遊戲主選單畫面。世界檔案將在背景進行儲存，且仍會顯示在世界列表中。在世界儲存期間，您仍可編輯、刪除或重新建立該世界。此外，本模組提供了多種可自訂的選項。  \n\n## 授權條款  \n本模組與原版一樣，採用 MIT 授權條款開源。  \n\n![image](https://cdn.modrinth.com/data/itFaO2Tg/images/88c59a3c513cd7c4b8a07203740910faba793e0c.gif)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

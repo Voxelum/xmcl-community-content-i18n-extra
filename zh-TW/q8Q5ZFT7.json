@@ -1,6 +1,6 @@
 {
-  "bodyHash": "n2OdXDn50K8=",
-  "content": "一個由 Kotlin DSL 驅動的 GUI 函式庫。其設計旨在支援所有 Minecraft 版本與模組載入器。\n\n文件：[docs](https://2894638479.github.io/KotlinMCUI/)\n\n良好的二進位相容性\n\n*   單一 jar 檔案。\n*   獨立於 Minecraft 與模組載入器。\n*   提供跨平台入口點。\n*   相容性由後端保證。\n\n支援功能：\n\n*   宣告式、響應式佈局\n*   簡潔語法\n*   原版 UI 風格\n*   上下文縮放\n*   鍵盤操作\n*   旁白功能\n*   工具提示\n*   焦點、懸停效果\n*   區域變數\n*   插值動畫\n*   文字在地化\n*   元件：\n    *   `Row`、`Column`、`Box`\n    *   `Button`\n    *   `Slider`\n    *   `Container`、`Slot`、`Item`\n    *   `EditableText`\n    *   `Row`\n    *   `Column`\n    *   `LazyColumn`\n    *   文字\n        *   `TextAutoFold`\n        *   `EditableText`\n        *   字型大小、顏色\n        *   斜體、粗體、陰影、底線…\n    *   圖片\n        *   本地檔案圖片\n        *   資源圖片\n        *   九宮格渲染\n    *   …",
+  "bodyHash": "5edb87505a145728",
+  "content": "\n\n一款由 Kotlin DSL 驅動的 GUI 函式庫。其設計旨在支援所有 Minecraft 版本與載入器。\n\n文件：[文件](https://2894638479.github.io/KotlinMCUI/)\n\n優異的二進位相容性\n\n*   單一 JAR 檔案。\n*   獨立於 Minecraft 與載入器。\n*   具備跨平台進入點。\n*   相容性由後端保證。\n\n支援的功能：\n\n*   宣告式、響應式版面配置\n*   簡潔語法\n*   原版 UI 風格\n*   情境縮放\n*   鍵盤操作\n*   朗讀功能\n*   工具提示\n*   焦點、懸停\n*   區域變數\n*   插值動畫\n*   文字翻譯\n*   元件：\n    *   `Row`、`Column`、`Box`\n    *   `Button`\n    *   `Slider`\n    *   `Container`、`Slot`、`Item`\n    *   `EditableText`\n    *   `Row`\n    *   `Column`\n    *   `LazyColumn`\n    *   Text\n        *   `TextAutoFold`\n        *   `EditableText`\n        *   字體大小、顏色\n        *   斜體、粗體、陰影、底線……\n    *   Image\n        *   本機檔案圖片\n        *   資源圖片\n        *   九宮格渲染\n    *   …",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

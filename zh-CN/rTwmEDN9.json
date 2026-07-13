@@ -1,0 +1,6 @@
+{
+  "bodyHash": "44d2960b69898f03",
+  "content": "\n\n# Mekanism: CleanVision\n\n一款小型 Mekanism 模组，为偏好**原版夜视效果**的玩家提供了一个替代版的**MekaSuit 模块**。\n\n与 Mekanism 原版中的*视觉增强单元*（会产生绿色滤镜效果）不同，该模块提供的是**经典夜视效果**——画面清晰明亮，就像喝下药水一样。\n\n---\n\n## 功能特性\n- 新增**纯净视觉增强单元** MekaSuit 模块\n- 仅支持安装在**头盔**上（与原视觉模块相同）\n- 耗电量与 Mekanism 的视觉增强单元完全一致\n- 可通过 MekaSuit 的 HUD 界面完全切换开关\n- 物品提示中会明确标注此为 *原版风格* 版本\n\n---\n\n## 语言支持\n- 英语 (en_us)\n- 日本語 (ja_jp)\n\n---\n\n## 许可证\n本项目采用 MIT 许可证开源。\n\n---\n\n## 鸣谢\n- **Mekanism** —— 提供了强大的 MekaSuit 模块系统",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

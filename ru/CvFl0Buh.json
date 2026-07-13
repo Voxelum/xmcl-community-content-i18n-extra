@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f0cd83740e3470ba",
+  "content": "\n\n**前置要求**\n[NightVisuals GUI](https://modrinth.com/mod/nightvisuals-gui)\n\n**功能说明**\n\nNightVisuals NoHurtCam 是一款视觉辅助模组，用于禁用玩家受到伤害时的屏幕抖动效果，从而在激烈的 PvP 战斗中提供更稳定的瞄准体验与更清晰的视野。\n\n**核心特性**\n\n* **禁用受击镜头：** 完全移除因受到伤害或坠落引起的画面倾斜与晃动效果。\n* **功能开关：** 可通过游戏内 NightVisuals GUI 菜单轻松启用或禁用该功能。\n* **纯客户端运行：** 完全在客户端侧通过覆盖视觉叠加渲染通道来实现——在多人服务器中绝对安全。\n* **零性能开销：** 仅修改渲染方法标志位，不增加额外计算量，确保维持最高帧率。\n\n**配置说明**\n\nNoHurtCam 通过 NightVisuals GUI 进行切换（默认按键：**RShift**）。无需单独的配置文件。\n\n**安装指南**\n\n1. 安装 Fabric Loader 和 Fabric API。\n2. 安装 **NightVisuals GUI**（必需依赖项）。\n3. 将下载好的 NoHurtCam 模组 `.jar` 文件放入 `mods` 文件夹。\n4. 启动游戏。\n\n---",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

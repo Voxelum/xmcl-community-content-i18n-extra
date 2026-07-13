@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2ef29351c97d3de",
+  "content": "\n\nДобавляет мини-игру для рыбалки\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/kmW6xKJcovk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Описание\n\nПри вытаскивании рыбы появляется мини-игра — рыба плавает по кругу. \nНажмите правую кнопку мыши, когда рыба находится в зоне улова, чтобы получить награду. \nЕсли попадёте в рыбу в критической зоне, вы получите двойную награду!\n\nНекоторые параметры можно настроить индивидуально для каждой рыбы с помощью файла `fishing_index.json`. \nПодробнее см. в руководстве.\n\n## Совместимость\n\nДолжно работать совместно с большинством других модов на рыбалку. Поддерживается прямая совместимость с Aquaculture 2.\n\n## Руководства\n\n- [fishing_index_guide.md](https://github.com/pitbox46/FishingOverhaul/blob/master/fishing_index_guide.md)\n\n## Ссылки\n\n- [Github](https://github.com/pitbox46/FishingOverhaul)\n- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fishing-overhaul)\n- [Modrinth](https://modrinth.com/mod/fishingoverhaul)\n- [Discord](https://discord.gg/cZbRsXGXZt)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

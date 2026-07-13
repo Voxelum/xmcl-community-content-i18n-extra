@@ -1,0 +1,6 @@
+{
+  "bodyHash": "41d0861ffc35b080",
+  "content": "\n\n## 資訊\n運作方式與 [遠端箱子](https://modrinth.com/project/remote-chests) 完全相同，只是它傳輸的是光線狀態。\n你需要至少兩個紅石光源方塊（紅石燈或任何銅燈泡）、兩個物品展示框、一支紅石火把、一支普通火把和一個鐵砧。其中一個燈將作為「源頭」光源，另一個則作為「鏡像」燈。\n\n紅石火把（源頭）的作用是將光線狀態反射至指定頻道下普通火把（目標）控制的燈上。\n\n你為紅石火把和普通火把命名的名稱即為「頻道」。這就是用來精確指定哪些燈需要同步的方式。藉此，你可以讓多個燈鏡像同一個源頭。你只需要一支紅石火把，就能將光線狀態同步給所有同名普通火把控制的燈。\n\n光線狀態將從同頻道中最近的源頭燈進行鏡像。這表示你可以設置多個擁有相同頻道名稱的源頭燈。但每個目標燈只會使用距離它最近的源頭燈。\n\n如果你將目標燈連接比較器，就能打造出一套無線紅石應用。\n\n你可以設置多個具有相同頻道名稱的源頭／目標燈。源頭燈的光線始終會反射至距離最近的同頻道目標燈。\n\n非常適合用來製作怪物農場的開關。它也支援跨維度運作。\n\n**源頭燈和目標燈必須位於已載入的區塊內才能正常運作！**\n\n## 如何組裝遠端燈\n1) 隨意放置你想要的燈\n2) 在兩個燈的任意一面都放上物品展示框（即使在同一頻道，它們也可以放在不同的面）\n3) 使用鐵砧為紅石火把和普通火把命名相同的名字。這個名字將作為「頻道名稱」\n4) 將紅石火把放入源頭燈的物品展示框中（光線反射的**起點**）\n5) 將普通火把放入目標燈的物品展示框中（光線鏡像的**終點**）\n\n這樣你就完成遠端燈的組裝了。準備就緒！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/j3CuLKvuBdo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n查看 [我的其他模組](https://modrinth.com/user/Pepsied)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

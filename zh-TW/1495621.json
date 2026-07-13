@@ -1,0 +1,6 @@
+{
+  "bodyHash": "93bf81fd19c95a56",
+  "content": "\n\n<p><strong>CreativeEasy</strong> 是一款輕量且高效的實用模組，旨在簡化您在《我的世界》中的建造與測試流程。再也不用在需要飛行或撿拾方塊時，反覆輸入像 <code>/gamemode creative</code> 這樣冗長的指令了。</p>\n<h4>🚀 主要功能：</h4>\n<ul>\n<li>\n<p><strong>瞬間切換：</strong>只需按下 <strong>\"K\"</strong> 鍵，即可在 <strong>生存模式</strong> 與 <strong>創造模式</strong> 之間切換。</p>\n</li>\n<li>\n<p><strong>權限系統：</strong>為防止濫用，此切換功能僅在玩家 <strong>已開啟作弊</strong> 或擁有 <strong>管理員權限（等級 2 以上）</strong> 時生效。若未開啟作弊，按鍵將無任何作用！</p>\n</li>\n<li>\n<p><strong>智慧邏輯：</strong>模組會自動偵測您目前的狀態；若處於生存模式，將切換至創造模式。若已在創造模式，則會自動切回生存模式。</p>\n</li>\n</ul>\n<h4>🛠️ 使用方法：</h4>\n<ol>\n<li>\n<p>確保您進入的世界已 <strong>開啟作弊</strong>。</p>\n</li>\n<li>\n<p>按下鍵盤上的 <strong>[K]</strong> 鍵。</p>\n</li>\n<li>\n<p>享受無需透過指令選單就能快速建造的樂趣吧！<em>（註：您可以在標準的《我的世界》控制設定中，將該鍵重新綁定為其他字母。）</em></p>\n</li>\n</ol>\n<hr>\n<h3>🔧 技術資訊：</h3>\n<ul>\n<li>\n<p><strong>載入器：</strong>NeoForge</p>\n</li>\n<li>\n<p><strong>版本：</strong>1.21.1（或您的特定版本）。</p>\n</li>\n<li>\n<p><strong>類型：</strong>客戶端與伺服器端皆適用。</p>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

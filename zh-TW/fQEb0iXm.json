@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ihFKChVfD/g=",
-  "content": "## 警告\n\n**Krypton 仍在開發中。** 我無法保證其穩定性、與其他模組的相容性，或支援所有可能的環境配置。此模組的支援將以「盡力而為」的方式提供。這並非我的正職，而是基於相關工作經驗發展出的興趣專案。\n\n## 贊助我吧！\n\n這個模組是否讓你的伺服器順利運作？[贊助一點資金](https://github.com/sponsors/astei)讓我能繼續開發。\n\n## 什麼是 Krypton？\n\nKrypton（源自古希臘語 _kryptos_，意為「隱藏之物」）是一個 Fabric 模組，旨在最佳化 Minecraft 的網路通訊堆疊。其設計靈感來自 [Velocity](https://velocitypowered.com/) 與 [Tuinity](https://github.com/Spottedleaf/Tuinity) 專案中的研究。\n\nKrypton 包含多項最佳化功能，例如：\n\n* **高度最佳化的 Netty 處理器**，源自 [Velocity](https://velocitypowered.com) 代理（由我開發）。這些處理器經過實際應用與深度分析，並在關鍵處策略性地使用原生程式碼。\n* **合併資料流**，降低伺服器 CPU 使用率（同時減少因硬體安全漏洞而導致的推測執行影響），並縮短伺服器運行週期時間。\n* **微觀最佳化**，減少記憶體使用量並提升封包序列化速度。\n\n## 相容性\n\nKrypton 應能在任何能執行 Minecraft 的環境中運作，但預設針對 Linux 進行最佳化。\n\n我會盡力確保 Krypton 能與 Fabric API、Lithium 及 Sodium 相容。對其他模組的支援則以盡力而為的方式提供。",
+  "bodyHash": "d3aefe5a85be211a",
+  "content": "\n\n## 警告\n\n**Krypton 仍在開發中。** 我不保證其穩定性、與其他模組的相容性，或對各種環境的支援。本模組的技術支援以「盡力而為」為原則。這不是我的全職工作，而是基於過往相關經驗發展出來的一個興趣專案。\n\n## 贊助我！\n\n這個模組讓你的伺服器能夠順利運作嗎？[贊助一點資金](https://github.com/sponsors/astei)讓我能繼續開發。\n\n## Krypton 是什麼？\n\nKrypton（源自古希臘語 _kryptos_，意為「隱藏者」）是一款 Fabric 模組，旨在最佳化 Minecraft 的網路堆疊。它衍生自 [Velocity](https://velocitypowered.com/) 與 [Tuinity](https://github.com/Spottedleaf/Tuinity) 專案的相關工作。\n\nKrypton 包含多項最佳化功能，包括：\n\n* **高度最佳化的 Netty 處理器**：源自 [Velocity](https://velocitypowered.com) 代理伺服器（我是該專案的開發者）。這些處理器已透過實際環境驗證與大量效能分析，並會在最合適的地方策略性地部署原生程式碼。\n* **整合 flush 操作**：降低伺服器 CPU 使用率（並減少利用猜測執行漏洞的硬體安全威脅），同時縮短伺服器 tick 時間。\n* **微觀最佳化**：減少記憶體使用量並提升封包序列化速度。\n\n## 相容性\n\nKrypton 應能在任何可運行 Minecraft 的環境中運作——當然，它是針對 Linux 進行最佳化調校。\n\n我會盡力確保 Krypton 與 Fabric API、Lithium 和 Sodium 相容。超出這三個模組的支援則以「盡力而為」為原則。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

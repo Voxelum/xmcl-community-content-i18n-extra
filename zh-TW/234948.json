@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b701cb61c9493510",
+  "content": "\n\n<p>此模組為 Minecraft 1.8 引入的新皮膚格式新增渲染支援。</p>\n<p>現在你可以在 1.7.10 中使用你酷炫的新皮膚了！</p>\n<p>如果你需要 1.8 及更高版本的離線皮膚功能，請查看 <a href=\"http://minecraft.curseforge.com/projects/offlineskins\" rel=\"nofollow\">OfflineSkins</a>。</p>\n<p>如果你的 Alex 型皮膚未獲此模組識別，請嘗試 <a href=\"https://www.curseforge.com/minecraft/mc-mods/et-futurum-requiem\" target=\"_blank\" rel=\"nofollow\">Et Futurum Requiem</a>。</p>\n<p>&nbsp;</p>\n<p>功能：</p>\n<p>&nbsp; 1. 支援 1.8 皮膚格式的渲染！</p>\n<p>&nbsp; 2. 支援 1.8 皮膚自訂功能！可在選項選單中找到，翻譯內容由 1.8 資源檔生成。（若伺服器未安裝此模組，其他玩家將無法看見變更）</p>\n<p>&nbsp; 3. 離線皮膚支援。（不過不會自動運作，你需要將皮膚檔案放入產生的資料夾中（.minecraft/cachedImages/skins），並以你的使用者名稱命名，副檔名為 .png）</p>\n<p>&nbsp; 4. 提供 API 供其他模組進行互動。</p>\n<p>&nbsp;</p>\n<p>不過它與&nbsp;1.8 略有不同：</p>\n<p>&nbsp; 1. 僅當皮膚檔案中的像素（座標&nbsp;55, 20）完全透明，且採用新皮膚格式（64x64）時，才會套用 Alex/瘦長模型。</p>\n<p>&nbsp; 2. 第三人稱手持物品的顯示方式與 1.8 不同，因為 1.8 更改了渲染方式，而我並未跟進修改。</p>\n<p>&nbsp; 3. 用於皮膚自訂的網路協議與 1.8 不同，這意味著它僅在安裝此模組的 1.7.10 Forge 伺服器上生效，1.8 玩家將無法看見變更。但你本人應該始終能看到變更。</p>\n<p>&nbsp; 4. 這是 1.7.10 版本，未安裝此模組的其他玩家會正常顯示你的皮膚，也就是說他們不會看到額外圖層。</p>\n<p>&nbsp;</p>\n<p>與其他模組的相容性：尚未測試，但此模組為開放原始碼，你可以請求其他模組作者加入支援。自 1.7.10-v4 起，它應已與 SmartMoving 和 RenderPlayerAPI 相容。</p>\n<p>注意：此模組僅適用於 1.7.10。</p>\n<p><del>為何創建此模組：因為大多數模組都會跳過 1.8，而我不確定 Forge 何時會支援 1.9 等版本。</del> 好了，繼續吧。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

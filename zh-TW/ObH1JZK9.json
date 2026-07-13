@@ -1,6 +1,6 @@
 {
-  "bodyHash": "3mMNEwAKtLw=",
-  "content": "**Overgrown's Cobblemon: Darkrai 是一款開源的 Cobblemon 資料包/模組，支援 Fabric、Forge 及 NeoForge。**\n\n---\n這個資料包的目標很簡單：加入一隻廣受喜愛的寶可夢，讓大家都能享受樂趣！原始碼完全開放，我鼓勵社群參與貢獻，也歡迎 Fork 自行修改。\n\n![Cobblemon 分隔線](https://cdn.modrinth.com/data/cached_images/dc09f2fafd636f34e7462b823984513cddab2ce1.png)\n\n<center><span><font size=\"5\"><strong>安裝方式</strong></font></span></center>\n\n**Fabric：**\n- 需要對應 Minecraft 版本所建議的 Fabric Loader 版本。\n- 需要 Fabric API。\n- 將 Fabric API 及 Cobblemon-Fabric 放入 mods 資料夾。\n\n**NeoForge：**\n- 需要對應 Minecraft 版本所建議的 NeoForge 版本。\n- 需要 Kotlin for Forge。\n- 將 Kotlin for Forge 及 Cobblemon-NeoForge 放入 mods 資料夾。",
+  "bodyHash": "bf571db1536c6105",
+  "content": "\n\n**Overgrown 的 Cobblemon：Darkrai 是一款適用於 Fabric、Forge 與 NeoForge 的開放原始碼 Cobblemon 數據包／模組。**\n\n---\n本專案的目標非常簡單：為所有玩家增添一隻備受喜愛的寶可夢！原始碼已公開，我不僅歡迎社群貢獻，也鼓勵大家 Fork 此專案。\n![Cobblemon Divider](https://cdn.modrinth.com/data/cached_images/dc09f2fafd636f34e7462b823984513cddab2ce1.png)\n<center><span><font size=\"5\"><strong>安裝方式</strong></font></span></center>\n\n**_Fabric：_**\n- 需搭配適合您 Minecraft 版本的推薦 Fabric Loader 版本。\n- 需安裝 Fabric API。\n- 將 Fabric API 與 Cobblemon-Fabric 放入 mods 資料夾中。\n\n**_NeoForge：_**\n- 需搭配適合您 Minecraft 版本的推薦 NeoForge 版本。\n- 需安裝 Kotlin for Forge。\n- 將 Kotlin for Forge 與 Cobblemon-NeoForge 放入 mods 資料夾中。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

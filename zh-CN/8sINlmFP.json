@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1a2ed40f7017676c",
+  "content": "\n\n该数据包移除了凋灵风暴通常生成所在的建筑，改为在游戏内经过指定时间后，于远离坐标 0,0 的位置生成。在创造模式下使用管理员权限，你可通过触发命令 `/trigger WitherStormControls` 调整计时器时长、暂停计时器或重置计时器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

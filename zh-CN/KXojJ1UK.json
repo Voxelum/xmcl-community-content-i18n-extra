@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5f44aa2a3c0c258",
+  "content": "\n\n## 模组描述\n\n本模组非常简单，为玩家添加了一些受伤特效。\n\n*   添加了玩家受伤音效。您可以将 .ogg 文件放入 config/modid/sounds/ 文件夹中，即可使用自定义的受伤音效。打开物品栏界面，您会看到一个 S 按钮，点击该按钮可打开音效选择菜单，您刚刚添加的音效就在此处。\n*   添加了伤害数字显示。当您攻击动物时，屏幕上会出现浮动的伤害数字。\n*   添加了视觉特效。当您受到敌人攻击时，屏幕会变红并带有发光效果。\n*   所有特效均可在设置中进行配置。\n\n以下是展示这些效果的一些截图：\n\n\n玩家被尸壳攻击，屏幕变红并发光。\n![玩家被尸壳攻击](https://cdn.modrinth.com/data/KXojJ1UK/images/16ef6460bd52c4b35f9cb5081c92cbb18f1668a8.png)\n\n玩家攻击怪物，屏幕显示浮动伤害数字\n\n![玩家攻击怪物](https://cdn.modrinth.com/data/KXojJ1UK/images/1ea077fbadd970954c2ec24bd1401a011ae328eb.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

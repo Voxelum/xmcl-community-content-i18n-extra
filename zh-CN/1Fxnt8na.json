@@ -1,6 +1,6 @@
 {
-  "bodyHash": "8PHLrrqV76E=",
-  "content": "Sable Chunk Guard 是一款针对 Sable 的轻量级 NeoForge 补丁模组。\n\n该模组阻止 Sable 的物理和实体碰撞代码同步加载尚未完全加载的区块。当所需的区块缺失或仍在生成时，该 tick 会跳过不安全的物理或碰撞计算，而不是强制服务器线程等待。\n\n这降低了因 Sable 与未加载或正在生成的区块交互而导致的严重 0 TPS 冻结、慢速区块停滞和退出世界时卡死的风险。",
+  "bodyHash": "7537ca901da5497a",
+  "content": "\n\nSable Chunk Guard 是一款针对 Sable 的轻量级 NeoForge 补丁模组。\n\n该模组可防止 Sable 的物理与实体碰撞代码同步加载尚未完全加载的区块。当所需区块缺失或仍在生成时，该刻将跳过不安全的物理或碰撞计算，而非强制服务器线程等待。\n\n这降低了因 Sable 与未加载或正在生成的区块交互而引发严重 0 TPS 卡顿、区块加载停滞以及退出世界卡死的风险。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

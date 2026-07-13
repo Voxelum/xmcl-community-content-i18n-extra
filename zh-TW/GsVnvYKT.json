@@ -1,0 +1,6 @@
+{
+  "bodyHash": "961440b77a47ae5e",
+  "content": "\n\n## Repurposed Structures [設定數據包](https://github.com/TelepathicGrunt/RepurposedStructures/releases/tag/4.0.0)\n\n造訪過一次某類結構（例如新的紀念碑、要塞、冰屋等）後，現在只會分別觸發一次進度，僅提示還有更多結構可供探索；而不像預設的 RS 進度那樣列出一張待辦清單，要求逐一造訪每種結構變體（這在單次休閒遊玩中可能根本無法達成）。\n\n![展示從簡單進度轉變為隱藏挑戰進度的效果，外觀類似於原版名為「以牙還牙」的進度，該進度需透過火球擊殺惡魂來達成](https://cdn.modrinth.com/data/cached_images/a3d24002283b9685cd3a77e945678150884f3960.png)\n> _展示從簡單進度轉變為隱藏挑戰進度的效果_\n\n這些改動旨在降低玩家為了收集所有進度而尋找新結構的壓力，同時與「找齊每種變體」相比，更能激發玩家探索各類新結構的興趣。\n\n總結來說：\n- 將所有進度類型改為 `challenge`（挑戰）\n- 使所有進度預設為隱藏狀態\n- 將條件合併為單一需求列表（「滿足任一即可」）\n\n### 前置需求\n- [Repurposed Structures for Minecraft 1.20 或 1.20.1](https://modrinth.com/mods?q=Repurposed+Structures&g=categories:fabric&g=categories:forge&v=1.20&v=1.20.1) 的任何版本\n- [用於翻譯的配套資源包](https://modrinth.com/resourcepack/rs-config-challenge-advancements-translations)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

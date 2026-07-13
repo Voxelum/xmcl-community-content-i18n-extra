@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77f838e0e280388b",
+  "content": "\n\n<p>PackagedDraconic 是 <a href=\"packagedauto\" rel=\"nofollow\">PackagedAuto</a> 与 <a href=\"draconic-evolution\" rel=\"nofollow\">Draconic Evolution</a> 的附属模组，旨在更便捷地自动制作使用 Draconic Evolution 聚变合成核心所制造的物品。本模组设计为无需安装 Applied Energistics 2 亦可运行，但强烈建议搭配其一同安装。</p>\n<p>本模组添加了聚变包装合成器（Fusion Package Crafter）。使用时，请将其放置在解包机（Unpackager）旁，由解包机负责处理合成配方。这些配方可通过编码器（Encoder）编码至配方存储器中。该合成器需配备足量且等级满足配方要求的标记聚变注入器（Marked Fusion Crafting Injectors）。当合成器接入 ME 网络时，它将自动把产出物排入网络中。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fthelmiffy1111\" rel=\"nofollow\">Ko-fi</a><br><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.crystaelix.com%252f\" rel=\"nofollow\">Discord</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

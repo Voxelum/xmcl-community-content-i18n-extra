@@ -1,6 +1,6 @@
 {
-  "bodyHash": "TQvYjC+DsiQ=",
-  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/lBttjKx9eqg\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n_沉浸式訊息_ 是一個為模組開發者與模組包創作者設計的 API，能將資訊直接傳遞給玩家——透過在螢幕上以字幕方式即時渲染！\n\n此模組整合了自訂字型渲染系統 Caxton（注意：尚未上架 Curseforge，若想使用精美字型需手動下載），為模組包創作者與模組開發者提供一個能為玩家帶來風格化且沉浸式體驗的系統。\n\n此外，本模組還內建動畫系統，支援轉場效果、文字特效（如震動與搖擺），並可完全控制螢幕上所有文字的大小、顏色與位置。所有訊息皆可透過網路從伺服器端傳送至客戶端，無論是使用直接模組 API，或若您並非程式設計師，也可透過內建的 Minecraft 指令 `/immersivemessages` 實現。\n\n如何使用全憑您的創意！請觀看上方展示影片了解各種可能性。\n\n## 給開發者\n\n您可於 [https://immersive.txni.dev/](https://immersive.txni.dev/) 閱讀文件。",
+  "bodyHash": "dcb0d2a4efff1a05",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/lBttjKx9eqg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n_Immersive Messages_ 是一款供模組開發者與整合包創作者使用的 API，能透過在玩家螢幕上直接渲染字幕的方式，將資訊即時傳遞給玩家。\n\n本模組可與自訂字型渲染器 Caxton 整合（注意：該渲染器尚未上架 Curseforge，若您想要使用精美字型，需手動下載！），為整合包創作者與模組開發者提供一套系統，藉此為玩家打造更具風格化與沉浸感的體驗。\n\n本模組同時內建動畫系統，提供轉場效果、文字特效（例如震動與擺動），並允許完全控制螢幕上所有文字的大小、顏色與位置。所有訊息皆可透過網路從伺服器傳輸至客戶端；您可以選擇直接使用模組提供的 API，若不熟悉程式開發，也能使用內建的預設 Minecraft 指令 `/immersivemessages`。\n\n具體用途全憑您發揮！請觀看上方的展示影片，探索更多可能性。\n\n## 為開發者\n\n您可至 [https://immersive.txni.dev/](https://immersive.txni.dev/) 閱讀相關文件。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

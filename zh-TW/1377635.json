@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ca440b0dc73941aa",
+  "content": "\n\n<p><strong>難度縮放</strong><br>生物會根據與出生點 (0, 0) 或自訂出生點的距離變得更強：<br>- 生命值、傷害、護甲和速度（笑）都會縮放</p>\n<p>- 可選擇要縮放哪些屬性。<br>- 預設：每 1000 格增加 100% 屬性<br>- 預設上限為 5 倍<br>- 範例：在 3000 格處，殭屍的生命值將從 20 提升至 80</p>\n<p><strong>經驗值縮放</strong><br>距離出生點越遠的生物掉落的經驗值越多：<br>- 預設：每 1000 格增加 100% 經驗值<br>- 預設上限為 10 倍<br>- 獎勵冒險探索行為</p>\n<p><strong>實體生成限制</strong><br>阻止特定生物或整個模組在出生點附近生成：<br>- 支援萬用字元：modid:*entity*@distance<br>- 可限制單一實體或整個模組<br>- 非常適合用於根據距離限制危險生物</p>\n<p><strong>結構生成限制</strong><br>防止結構在出生點附近生成：<br>- 支援與實體相同的萬用字元格式<br>- 與實體限制分開設定</p>\n<p><strong>自訂出生點</strong><br>選擇難度縮放的起始位置：<br>- 使用結構作為中心點（例如：村莊、要塞）<br>- 或手動設定座標<br>- 距離計算會自動適應</p>\n<p>設定檔位置：config/distantdangers-common.toml<br><br>為我正在開發的 RPG 模組包所設計！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

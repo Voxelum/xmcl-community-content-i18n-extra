@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Zj+GpzOLpNM=",
-  "content": "L_Ender's Mod 的新動畫 API\n\n這個 Mod 是 L_Ender's Cataclysm 的基礎 API\n\n其基礎是 mowzie's mob 的內部動畫 API 以及 citadel\n\nCitadel 添加了許多雜項功能，因此變得相當龐大\n\n由於更新可能會有延遲，所以特別建立了這個 API",
+  "bodyHash": "fc860362b5b86a29",
+  "content": "\n\nL_Ender 模組的全新動畫 API\n\n本模組作為 L_Ender's Cataclysm 的底層 API\n\n基礎架構源自 Mowzie's Mobs 的內部動畫 API 與 Citadel\n\n由於 Citadel 加入了大量雜項功能，導致模組過於沉重\n為避免因更新延遲而特別開發此模組",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

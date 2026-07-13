@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13b0aa1fd463b842",
+  "content": "\n\n<p>Это форк <a href=\"https://www.curseforge.com/minecraft/mc-mods/alexs-caves\" rel=\"nofollow\">Alex's Caves</a>, в котором защита от радиации и кислоты использует теги вместо ID предметов. Данный мод будет архивирован после добавления соответствующего функционала в оригинальную версию Alex's Caves. Пожалуйста, поддерживайте авторов оригинального мода, а не меня.<br><br>В настоящее время добавляет:</p>\n<ul>\n<li>Тег предмета для защиты от радиации: \"rad_protective_armor\".</li>\n<li>Тег предмета для защиты от кислоты: \"acid_protective_armor\".</li>\n<li>Радиоактивные предметы со следующими тегами:\n<ul>\n<li>weak_radioactive_items</li>\n<li>radioactive_items</li>\n<li>strong_radioactive_items</li>\n</ul>\n</li>\n</ul>\n<p>Все они используют идентификатор мода \"alexscaves\".</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

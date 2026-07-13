@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1925cbe12dad1900",
+  "content": "\n\n# 海上空岛 (Skylands over the Seas)  \n这是一个数据包，会将主世界的地形生成改为浮空岛，并附带一些变化！所有的海洋生物群系都会生成在你脚下，而所有的洞穴和地下生物群系则会生成在海洋之下。 \n\n# 重要提示：\n该数据包/模组 3.0.0 以下的版本会修改维度高度。最初添加此功能是为了让在岛上建造时有更多操作空间，但我已在 3.0.0+ 版本中移除了它，因为当模组被移除时，这 _**会**_ 导致存档损坏。3.0.0 版本不存在此问题。如果你正在将 2.X.X 版本的数据包迁移至 1.21.9+，请使用 2.0.4 版本，但请注意该版本 _**不会**_ 获得后续版本的支持。对于由此带来的不便，我深表歉意。\n\n## 此外推荐查看\n- [Angel Islands](https://modrinth.com/datapack/angel-islands) 一款模组，会在深海生物群系中将普通主世界生成改为包含 Aetherial Islands！\n- [Aetherial Islands: Clusters Edit](https://modrinth.com/datapack/aetherial-islands-clusters-edit) 一个扩展模组，用于划定岛屿的生成与非生成区域，从而在岛屿集群之间形成巨大的空白地带（同样适用于本数据包！）。\n- [Diabolical Islands](https://modrinth.com/datapack/diabolical-islands) 一款模组，将 Aetherial Islands 的地形生成机制引入下界！\n\n\n## 兼容性：此模组是否兼容 <u>*在此插入模组名称*</u>？\n如果该模组更改了地形，其中一个模组很可能会覆盖另一个。如果该模组仅添加生物群系，通常可以兼容；但若遇到水体无法生成的问题，请安装可选依赖项 [Lithostitched](https://modrinth.com/mod/lithostitched)。这是由于实现该功能需要采用特殊技术，加之 Minecraft 原生表面构建器（surface builders）存在一些特性所致。部分问题可能需要制作特定的兼容补丁，我未来可能会提供。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

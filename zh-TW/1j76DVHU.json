@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mk7QLNldhVU=",
-  "content": "## Timeless and Classics Zero: Refabricated\n\n此模組是 [TaCZ](https://modrinth.com/mod/timeless-and-classics-zero) 的非官方 Fabric 移植版本。TaCZ 由原 TaC 開發團隊重組後重新開發，完全重寫了所有程式碼，重製了模型與動畫，並新增及修改了許多功能。\n\n**注意：**\n- **此模組需要安裝 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)。**\n- **此模組仍處於實驗階段，可能還存在一些錯誤。**\n- **<font color=\"red\">若想在 Minecraft 1.21.1 中載入自訂槍包，可使用 [pack upgrader mod](https://www.curseforge.com/minecraft/mc-mods/tacz-pack-upgrader) 將槍包升級為 1.21.1 NeoForge 相容版本，再嘗試透過 TACZ-Refabricated-1.21.1 載入。</font>**\n- **關於 1.21 版本，可以安裝 [Keybind Fix Plus](https://modrinth.com/mod/keybind-fix-plus) 或類似模組來解決按鍵衝突問題。**\n- **<font color=\"red\">如果放入自訂槍包後遊戲文字變成小方塊，可嘗試將槍包解壓縮後再載入解壓後的資料夾。</font>**\n\n更多細節請參考原始專案。",
+  "bodyHash": "e0798ac7314cf369",
+  "content": "\n\n## Timeless and Classics Zero: Refabricated\n\n本模組為 [TaCZ](https://modrinth.com/mod/timeless-and-classics-zero) 的非官方 Fabric 移植版。TaCZ 由原 TaC 開發團隊成員重新組織後進行開發，全面重寫了所有程式碼，重新製作模型與動畫，並新增及修改了許多功能。\n\n**注意：**\n- **本模組需要 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)。**\n- **本模組仍處於實驗階段，可能仍存在某些錯誤。**\n- **<font color=\"red\">如果您想在 MC1.21.1 中載入自訂槍械包，可以使用 [pack upgrader mod](https://www.curseforge.com/minecraft/mc-mods/tacz-pack-upgrader) 將其升級為支援 1.21.1 NeoForge 的格式，然後嘗試使用 TACZ-Refabricated-1.21.1 載入。</font>**\n- **針對 1.21 版本，您可以安裝 [Keybind Fix Plus](https://modrinth.com/mod/keybind-fix-plus) 或類似模組來解決按鍵衝突問題。**\n- **<font color=\"red\">如果放入自訂槍械包後 Minecraft 文字變成小方塊，您可以嘗試解壓該槍械包，然後載入解壓後的內容。</font>**\n\n更多詳細資訊可參考原始專案。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

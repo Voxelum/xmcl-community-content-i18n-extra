@@ -1,0 +1,6 @@
+{
+  "bodyHash": "404650783ef9186f",
+  "content": "\n\n這個資源包是一個相容橋接模組，結合了 Fresh Animations 的玩家動作與 Just Expressions 的動態眼部邏輯。\n\n請參考 Just Expressions 官方 [wiki](https://github.com/IthanMendoza/Fresh-Moves/wiki) 的說明，為您的角色皮膚新增動態眼部效果。\n\n## 需求\n為了正常運作，此資源包需具備與原版相同的前置模組：\n- Entity Model Features (EMF)\n- Entity Texture Features (ETF)\n- Fresh Animations: Player Extension（提供基礎動畫）。\n\n## 安裝順序\n請在資源包選單中確認載入順序如下（由上至下）：\n1. 此相容資源包（優先權最高）\n2. Fresh Animations: Player Extension\n3. Just Expressions（選填，僅用於材質）\n\n## 致謝\n- Frash Animations 作者：[FrashLX](https://modrinth.com/user/FreshLX)\n- Just Expressions 作者：[IthanMendoza](https://modrinth.com/user/IthanMendoza)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

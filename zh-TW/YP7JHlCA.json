@@ -1,6 +1,6 @@
 {
-  "bodyHash": "BxRtrmq1PXM=",
-  "content": "# 花朵地圖\n\n以迷你地圖風格顯示花朵漸層。由於自 1.18 版本起花朵漸層改為三維立體，本模組可控制地圖的渲染 Y 軸高度。預設使用玩家所在 Y 軸位置，但也可切換為手動 Y 軸模式，並可透過按鍵綁定進行調整。\n\n本模組無需輸入種子碼即可在多人遊戲中正常運作，前提是伺服器端未透過資料包修改生態域設定。\n\n![中等 Y 軸高度](https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/shot1.jpg)\n\n![較高 Y 軸高度](https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/shot2.jpg)\n\n![設定介面](https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/settings.png)\n\n![按鍵綁定](https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/keybind.png)",
+  "bodyHash": "086ccdacddfcf7df",
+  "content": "\n\n# 花朵地圖\n\n以迷你地圖風格顯示花朵漸層分佈。由於自 1.18 版本起該漸層已具備三維特性，本模組可控制渲染地圖的 Y 軸高度。預設情況下會使用玩家的 Y 軸座標，但可切換至手動 Y 模式，並透過鍵位綁定進行控制。\n\n在多人遊戲中，只要伺服器端未透過資料包修改生物群系，即使不輸入世界種子也能正常運作。\n\n![中等 Y 軸](https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/shot1.jpg)\n\n![高 Y 軸](https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/shot2.jpg)\n\n![設定](https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/settings.png)\n\n![鍵位綁定](https://raw.githubusercontent.com/Draradech/FlowerMap/master/doc/keybind.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

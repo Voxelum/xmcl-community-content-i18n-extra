@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FSMwfpvW6JU=",
-  "content": "這個模組是 [**ArsArms**](https://modrinth.com/mod/arsarms) 的函式庫依賴項。\n\nArsCurios 是一個函式庫模組，它添加了 mumu17 的模組所使用的共享通用程式碼。如果沒有其他模組啟動或使用它，這個模組本身並不提供任何有價值的功能。",
+  "bodyHash": "823976ab7cecd9bb",
+  "content": "\n\n此模組為 [**ArsArms**](https://modrinth.com/mod/arsarms) 的函式庫相依模組。\n\nArsCurios 是一個函式庫模組，提供了 mumu17 旗下模組共用的基礎程式碼；若沒有其他模組啟用或使用它，本模組將毫無實際用途。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

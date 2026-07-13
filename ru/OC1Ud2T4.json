@@ -1,6 +1,6 @@
 {
-  "bodyHash": "U00EXRwwRUw=",
-  "content": "# Предварительный просмотр схем\n\nLitematica — мод для Fabric, который добавляет несколько полезных функций.\n\n## Возможности мода:\n\n### Предварительные просмотры схем\n![предварительные_просмотры](https://raw.githubusercontent.com/DimasKama/SchematicPreview/refs/heads/master/images/previews.png)\n\n### Иконки каталогов\n![иконки_каталогов](https://raw.githubusercontent.com/DimasKama/SchematicPreview/refs/heads/master/images/directories_icons.png)\n\n### Кнопка замены в списке материалов\n![кнопка_замены](https://raw.githubusercontent.com/DimasKama/SchematicPreview/refs/heads/master/images/replace_button.png)\n",
+  "bodyHash": "ac3c51b7c1768303",
+  "content": "\n\n# SchematicPreview\n\nДополнение для Fabric к Litematica, добавляющее множество полезных функций.\n\n## Возможности мода:\n\n### Предпросмотр схем\n![previews](https://raw.githubusercontent.com/DimasKama/SchematicPreview/refs/heads/master/images/previews.png)\n\n### Иконки папок\n![directories_icons](https://raw.githubusercontent.com/DimasKama/SchematicPreview/refs/heads/master/images/directories_icons.png)\n\n### Кнопка замены в списке материалов\n![replace_button](https://raw.githubusercontent.com/DimasKama/SchematicPreview/refs/heads/master/images/replace_button.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

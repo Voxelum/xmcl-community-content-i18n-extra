@@ -1,0 +1,6 @@
+{
+  "bodyHash": "23ad5d358dd096ab",
+  "content": "\n\n<p>這是一款命令模組，功能類似「kill」，但比 kill 指令更強大。指令如下：</p>\n<p>/wipe true&nbsp; &nbsp; 此指令會清除遊戲中的所有實體，聽起來像和平模式，但它會讓所有實體消失。實體將不會再生成，直到輸入 /wipe false。</p>\n<p>/wipe false 。它可讓實體重新生成。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

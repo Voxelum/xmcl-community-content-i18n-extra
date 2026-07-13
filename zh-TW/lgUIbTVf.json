@@ -1,0 +1,6 @@
+{
+  "bodyHash": "81a7deb1b8c32c2f",
+  "content": "\n\n警告：此模組並非為低階電腦設計，可能會造成延遲！\n\n你是否曾經只想看著來自 Alex's Caves 的 Tremorzilla 對世界展開毀滅性破壞，卻懶得自己動手？\n\n沒錯，你來對地方了！此模組讓 Tremorzilla 處於持續暴怒狀態，見物就殺。此外，Tremorzilla 的破壞力大幅提升，無論走到哪裡都會留下放射性毀滅痕跡。\n\n模組基本資訊：\n\nTremorzilla 極罕見地生成於深海甚至地下，你仍可透過正常方式（人工召喚）將其喚醒。\n\n同時新增「生命湮滅者」道具，一種強大的炸藥，合成材料包含凋靈之星、兩顆末影水晶、鐵活板門、鐵塊與靈魂營火。右鍵點擊該炸藥的次數越多，爆炸威力越大。建議在極近距離對 Tremorzilla 使用，請注意炸藥仍可能因 Tremorzilla 行走而觸發，因此建議將其放置在 Tremorzilla 的上方或下方。\n\n另附：鎘射砲（Cadmium Blaster），當飛彈成功命中時，會大幅削弱 Tremorzilla 的生命值。\n\n劇透警告：如果你真的成功擊敗了 Tremorzilla，你很可能會被它炸飛！\n\n其他新增內容：\n\n終極 Tremorzilla（僅限創造模式功能）：一個威力呈天文數字級提升、擁有更多技能的 Tremorzilla 版本。\n\nTremorzilla 現在擁有新的成長階段！包含小型蜥蜴狀的幼體階段，以及青少年階段！\n\nTremorzilla 的原子吐息現在變得強大得多——可無視其他模組的大部分傷害上限，穿透抗性，甚至直接穿透護甲。換句話說，若想安全擊敗它，務必先耗盡它的原子吐息。\n\n透過特定遊戲規則，Tremorzilla 偶爾會進入凍結狀態（靈感源自《新哥吉拉》），使其陷入僵直狀態約不到三分鐘。這段期間是你準備應對它回歸的好時機。Tremorzilla 也會定期召喚僕從（有毒洞穴實體與迷你 Tremorzilla）。\n\n若用熔岩桶、紅石塊或螢石塊右鍵點擊 Tremorzilla，它將進入燃燒模式！注意：此階段讓 Tremorzilla 近乎無敵（除非使用非本模組的物品將其移除），且威力驚人，但持續時間結束後，Tremorzilla 會爆發巨大能量。請謹慎使用。\n\n本模組需要安裝 Alex's Caves 才能運作！\n\n若要關閉暴怒效果但保留其他功能：\n\n將遊戲規則 `IsTremorzillaAngry` 設定為 `false`\n\n特別感謝 Discord 上的 crazy_goggalcon4321 提供模組縮圖！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

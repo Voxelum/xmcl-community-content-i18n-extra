@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a68c044615b77993",
+  "content": "\n\n**Hibernateforge** 是一款轻量级工具，当没有玩家在线时，它会自动让 Minecraft Forge 服务器进入休眠状态。通过在空闲时段降低 CPU 占用，它有助于节省服务器资源、减少电费支出，并使你的服务器更加节能环保。这是一种简单高效的方式，既能保持 Minecraft 世界平稳运行，又能在不需要时避免电力浪费。\n\n## 功能特性：\n\n- 按设定间隔短暂休眠服务器，以节省 CPU 资源\n- 仅清除安全且临时的实体，绝不会影响任何重要或持久化数据\n- 内置内存管理系统，有效降低服务器 RAM 占用\n\n## 命令\n\n- /hibernate – 切换休眠状态\n- /hibernate status – 显示详细休眠状态\n- /hibernate memory – 显示实时 RAM 占用\n- /hibernate gc – 手动触发垃圾回收",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

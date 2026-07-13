@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb053b1d33527ed6",
+  "content": "\n\n## 啟用熔爐或高爐中燒煉原礦區塊的功能。燒煉時間會是對應單一物品版本的 9 倍，此功能主要用於節省空間而非時間。\n\n### 注意： \n此資料包會新增配方，移除該資料包時，控制台可能會顯示關於遺失配方的警告。這不會對您的世界或存檔資訊造成危害。\n\n### 使用模組版本時的安裝資訊：\n它們在功能上與資料包相同，但會套用於所有在此模組啟用狀態下建立或開啟的世界。如果您不希望此設定套用於所有世界，請改用資料包\n\n**Forge**：\n<br>無需任何依賴，只需將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 是曾建議加入 Purpur 的功能，或是符合 Purpur 主題的內容，但經過評估後認為以資料包的形式呈現會更合適！ \n<br>這些資料包的運作方式與 Purpur 中的單一設定選項相同。您可以隨時新增或移除它們，且不會損壞伺服器。\n<br>這些功能在原版 Minecraft 中也能正常運作，您不需要運行 Purpur 伺服器即可使用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

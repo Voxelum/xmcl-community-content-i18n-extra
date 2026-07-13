@@ -1,0 +1,6 @@
+{
+  "bodyHash": "948488c3f5043e30",
+  "content": "\n\nMek Energistics 添加了与 AE2 连接的 Mekanism 机器，它们能够存储编码图案、接收来自 ME 网络的合成请求、使用 AE 能量，并将成品直接返还至 ME 存储中。\n\n# 功能\n- 添加 Mekanism 机器的 ME 版本。\n- 添加 ME 工厂及 ME 工厂安装器，用于升级受支持的 Mekanism 机器。\n- 内置支持 AE2 编码图案的图案提供器组件。\n- 支持将物品、流体和化学物质输出返还至 ME 网络。\n- 支持使用 AE 能量，同时保持对 FE 能量的兼容。\n- 保留 Mekanism 风格的图形界面、侧面配置、升级系统以及配置器行为。\n## 兼容性\n必需：\n\n- Applied Energistics 2\n- Mekanism\n- Applied Mekanistics\n  \n可选集成：\n\n- Mekanism Extras\n- Mekanism More Machine\n\nMek Energistics 专为希望 Mekanism 处理机器能在 AE2 自动合成系统中无缝运行而设计，玩家无需为每台机器单独配置图案提供器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/aFuvMrMRW0=",
-  "content": "# 伺服器端連鎖採集  \n這是一個Fabric伺服器模組，用於添加連鎖採集功能。唯一依賴是Fabric API。  \n\n您可以使用指令 `/config serverveinmine veinMineableBlocks add [方塊]` 將方塊加入可連鎖採集清單  \n\n或者直接編輯位於 `[伺服器目錄]/config/serverveinmine/config.json` 的設定檔  \n\n系統會以目標方塊為中心檢查3x3x3範圍內的同類方塊（包含其深板岩變種）。若找到相同類型的方塊，會將其加入採集佇列並繼續檢查該方塊周圍3x3x3區域。  \n\n預設最大採集量為64個方塊，超過此數量為防止延遲將會取消本次連鎖採集。",
+  "bodyHash": "820bc8ae7c94aa95",
+  "content": "\n\n# 伺服器端群採\n這是一個用於 Fabric 伺服器的模組，可新增群採功能。唯一依賴項為 Fabric API。 \n\n您可以使用指令 `/config serverveinmine veinMineableBlocks add [方塊]` 將方塊加入清單中。\n\n或者您可以編輯 `[伺服器目錄]/config/serverveinmine/config.json` 中的設定檔 JSON。 \n\n系統會以目標方塊為中心，檢查 3x3x3 範圍內是否有對應的方塊或其深板岩等效物。若發現同類型方塊，它會被加入佇列，並以其為中心繼續進行 3x3x3 範圍檢查。\n\n預設最大數量為 64 個方塊；超過此限制時，為防止遊戲延遲，群採動作將被拒絕。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

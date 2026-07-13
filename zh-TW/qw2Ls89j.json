@@ -1,6 +1,6 @@
 {
-  "bodyHash": "88wshz/iKvI=",
-  "content": "~~現在是2021年。~~ ~~現在是2022年。~~ ~~現在是2023年。~~ ~~現在是2024年。~~ ~~現在是2025年。~~ 現在是2026年。過去20年社會幾乎沒有進步。世界正在分崩離析。你仍然無法更改《Minecraft》中的旁白按鍵綁定。\n<br/><br/>\n嗯，現在你可以了。\n\n<details><summary>關於Fabric按鍵綁定模組相容性的說明</summary>\n\nRebind Narrator 與以下按鍵擴展模組整合（因為Fabric的按鍵綁定不如Neoforge的那麼靈活）：\n\n|遊戲版本|相容模組|\n|-----------:|:----------|\n|1.20.1|AMECS、NoMoreUselessKeys|\n|1.21.1|AMECS Reborn|\n|1.21.5|AMECS Reborn|\n|1.21.11||\n\n如果有我遺漏的模組，請在問題追蹤器上告訴我。\n\n</details>\n\n有問題嗎？有評論嗎？還是只是感到孤單？來Discord找我：https://highlysuspect.agency/discord/",
+  "bodyHash": "ac2b1ffb4d9f9eef",
+  "content": "\n\n~~已經是 2021 年了。~~ ~~已經是 2022 年了。~~ ~~已經是 2023 年了。~~ ~~已經是 2024 年了。~~ ~~已經是 2025 年了。~~ 現在是 2026 年。過去 20 年來社會進展甚微。世界正分崩離析。你仍然無法在 Minecraft 中更改朗讀員的快捷鍵。\n<br/><br/>\n不過，現在你可以了。\n\n<details><summary>Fabric 快捷鍵模組相容性備註</summary>\n\nRebind Narrator 已與以下快捷鍵擴充模組進行整合（因為 Fabric 的快捷鍵功能不如 Neoforge 那麼豐富）：\n\n|遊戲版本|相容模組|\n|-----------:|:----------|\n|1.20.1|AMECS, NoMoreUselessKeys|\n|1.21.1|AMECS Reborn|\n|1.21.5|AMECS Reborn|\n|1.21.11||\n\n若有遺漏的模組，請至問題追蹤器告知我。\n\n</details>\n\n有任何疑問或建議嗎？還是只是覺得孤單？歡迎加入我的 Discord：https://highlysuspect.agency/discord/",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

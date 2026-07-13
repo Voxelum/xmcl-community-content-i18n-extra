@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7aad9ee319759c62",
+  "content": "\n\n# 全域數據包\n\n此模組會在你的 .minecraft 遊戲目錄中建立一個全域數據包資料夾，讓你無需在世界之間複製數據包。\n\n### 數據包資料夾\n在 .minecraft 中新增 `datapacks` 資料夾，其中的數據包預設會在所有世界中啟用。\n\n### 可用數據包\n在 .minecraft 中新增 `available_datapacks` 資料夾，其中的數據包預設會在所有世界中停用。\n\n\n### 資訊\n⚠️此為僅限 **Fabric** 的模組，目前沒有計畫推出 Forge 版本。 \n&nbsp; \n![Example](https://github.com/Declipsonator/Global-Datapack/blob/main/spacetaker.png?raw=true)\n<br/><br/>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

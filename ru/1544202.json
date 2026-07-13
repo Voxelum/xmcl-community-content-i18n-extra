@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a07c8a0862a5ba1",
+  "content": "\n\n<p>Устанавливает всем фантамам 1 ед. здоровья, благодаря чему их можно легко убить одним ударом или бронёй с шипами.</p>\n<h1>Настройки</h1>\n<p>Значение HP можно изменить в файле <code>config/onehpphantoms.json</code>, чтобы задать другое значение по умолчанию (от 0 до 20).</p>\n<table>\n<thead>\n<tr>\n<th>Параметр</th>\n<th>По умолчанию</th>\n<th>Описание</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>hp</code></td>\n<td><code>1</code></td>\n<td>Количество здоровья у появляющихся фантамов по умолчанию.</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

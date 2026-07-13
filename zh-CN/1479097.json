@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ea070f82e1bf0d88",
+  "content": "\n\n<h3><span style=\"color:#f00\">注意：请安装 AnotherFix 库以运行此模组</span></h3>\n<p><span style=\"color:#3598db\">链接 <a href=\"https://www.curseforge.com/minecraft/mc-mods/anotherfix\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/anotherfix</a></span></p>\n<h3><span style=\"color:#f00\">全新更新！</span></h3>\n<p>该模组自3月15日起暂无更多更新，下一次更新将于4月26日开始。</p>\n<h3>NebulaMod：下一代优化套件</h3>\n<p><strong>NebulaMod 是一款专为 Minecraft 打造的综合性优化引擎，旨在显著提升帧率并减少微卡顿。基于 Architectury 框架构建，它采用了先进的渲染技术与逻辑端优化，确保在高端与低端硬件上均能获得流畅的游戏体验。</strong></p>\n<h3>核心功能</h3>\n<p>高级实体剔除：通过计算玩家视锥体与距离内的可见性，动态管理实体渲染，防止 GPU 处理屏幕外的对象。</p>\n<p>逻辑刻节流：降低由实体 AI 与世界逻辑引起的 CPU 开销。NebulaMod 智能调节远距离实体的更新频率，以兼顾服务端与客户端的性能。</p>\n<h3>精简关卡渲染：优化 Minecraft 引擎的内部渲染管线，减少在世界探索过程中不必要的绘制调用与内存分配。</h3>\n<p>集成诊断：通过专用按键（默认：9）提供实时激活反馈，以便在当前会话中验证优化状态。</p>\n<p>技术规范框架：Architectury（原生支持 Forge 与 Fabric）。</p>\n<p>目标版本：Minecraft 1.20.1 及以上。</p>\n<p>兼容性：与大多数硬件加速渲染模组及着色器加载器高度兼容。</p>\n<p>性能影响：NebulaMod 专注于消除原版游戏渲染与实体管理系统中的瓶颈。用户可预期平均帧率大幅提升，帧时间分布更加稳定，尤其在实体密集的环境中效果显著。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

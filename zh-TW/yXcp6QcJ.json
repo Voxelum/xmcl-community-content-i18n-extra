@@ -1,0 +1,6 @@
+{
+  "bodyHash": "390c5fe0067c228c",
+  "content": "\n\n此模組可讓您在伺服器上繞過資源包要求。使您能在需要資源包的伺服器上遊玩，而無需下載該資源包。\n\n![使用此模組時玩家會看到的提示畫面截圖](https://cdn.modrinth.com/data/cached_images/bc961fdd36bcc04496c858770f797b8176e0994b.png)\n\n請注意，此模組僅在伺服器提示您下載或接受資源包後才會生效。若您已啟用伺服器資源包，則必須將「伺服器資訊」頁籤中的 `Server Resource Packs` 選項更改為 `Prompt` 或 `Disabled`。\n\n若之後想為伺服器啟用資源包，只需將「伺服器資訊」頁籤中的 `Server Resource Packs` 選項更改為「Enabled」即可。\n\n**此模組完全僅限客戶端**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
