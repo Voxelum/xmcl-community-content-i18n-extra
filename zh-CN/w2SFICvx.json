@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b31e7a553c916d83",
+  "content": "\n\n![一张 Minecraft 聊天界面的截图，显示 Compact Chat 将多条消息合并为单行](https://raw.githubusercontent.com/caoimhebyrne/compact-chat/refs/heads/main/.github/screenshot.png)\n\nCompact Chat 是一款 Minecraft 模组，可移除聊天中的重复消息，并提供大量自定义选项。\n\n<div>\n    <img alt=\"fabric\" height=\"40\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg\">\n    <img alt=\"fabric\" height=\"40\" src=\"https://raw.githubusercontent.com/Hyperbole-Devs/vectors/8494ec1ac495cfb481dc7e458356325510933eb0/assets/compact/supported/neoforge_vector.svg\">\n</div>\n\n<br />\n\n## 与其他模组的兼容性\n\nCompact Chat 旨在与其他模组保持兼容，尤其是那些在消息开头添加时间戳的模组。\n\n默认情况下，Compact Chat 不会合并以时间戳开头的消息，但您可以通过在配置界面中调整“忽略首字符数量”设置来更改此行为（需要 [ModMenu](https://modrinth.com/mod/modmenu) 才能打开！）。\n\n![一张 Compact Chat 配置界面的截图，显示“忽略首字符数量”选项设置为 10](https://raw.githubusercontent.com/caoimhebyrne/compact-chat/refs/heads/main/.github/ignore-first-characters.png)\n\n设置该值后，Compact Chat 将忽略消息开头直到指定长度的字符。\n\n例如，当该设置设为 `10`，且消息如下时：\n\n```\n[20:19:00] <caoimheee> hello!\n```\n\nCompact Chat 会将其视为：\n\n```\n<caoimheee> hello!\n```\n\n## 许可证\n\n本项目采用 [MIT](./LICENSE) 许可证授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

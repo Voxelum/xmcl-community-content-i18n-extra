@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3e398e68f6a02010",
+  "content": "\n\n# BIC Shield Compat\n\n伺服器端的 Minecraft 1.20.1 Forge 模組，讓能夠破壞盾牌的武器能有效對抗《Born in Chaos》中的格擋怪物。\n\n## 功能說明：\n\nSkeleton Thrasher 與 Door Knight 不使用實體盾牌；它們在受到攻擊時會短暫獲得四級抗性（Resistance IV）來進行防禦，因此通常能破壞盾牌的戰斧對它們無效。透過修改受擊邏輯的 Mixin，當可禁用盾牌的武器（原版戰斧或 Tinkers' Construct 的戰斧，並透過 Forge 的 `canDisableShield` 進行判定）造成近戰傷害時，系統會移除其抗性效果，並將該怪物的格擋動作進入五秒冷卻時間，而其他武器的格擋機制則維持原狀。\n\n本模組需要 Minecraft 1.20.1 與 Forge 47.x，並將《Born in Chaos》設為選用依賴項：即使未安裝該模組，本模組仍可正常載入，但僅在《Born in Chaos》安裝後才會生效。Tinkers' Construct 為選用項目，因為即便沒有它，此修復機制仍會套用至原版戰斧。只需將 `.jar` 檔案放入伺服器的 `mods` 資料夾即可。本模組無需設定檔，且僅需安裝於伺服器端。\n\n## 授權條款：\n\nMIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

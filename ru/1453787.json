@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fb734d803a6efba1",
+  "content": "\n\n<p style=\"text-align:left\"><span style=\"font-size:24px\">Описание</span></p>\n<p style=\"text-align:left\"><br>Простой мод для регистрации, предназначенный для защиты сервера и аккаунтов игроков. Для администраторов доступна настройка точки ожидания и других команд. Ниже приведены все команды:</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"text-align:left\"><span style=\"font-size:24px\">Как использовать</span><br><span style=\"font-size:18px\">&nbsp; &nbsp;Игроки</span><br>/register [пароль] [пароль] — регистрация</p>\n<p>/login [пароль] — вход</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:18px\">&nbsp; &nbsp;Администраторы</span><br>/set_idle_point [координаты блока] — устанавливает точку ожидания при входе</p>\n<p>/forcelogin [игрок] — принудительно разрешает вход игроку</p>\n<p>/unregister [игрок] — удаляет пароль игрока, позволяя ему создать новый при следующем входе</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

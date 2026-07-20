@@ -1,0 +1,6 @@
+{
+  "bodyHash": "388206b18b88fa08",
+  "content": "\n\n**Minescript** 是一個使用 Python 程式語言撰寫腳本來控制及與 Minecraft 互動的平台。\n\n在使用 **Minescript** 之前，請先閱讀 [使用條款](https://minescript.net/terms)。\n\n加入 [Minescript Discord 伺服器](https://discord.gg/NjcyvrHTze) 以獲取公告並與 Minescript 社群互動。\n\n查看 [Minescript 文件](https://minescript.net/docs/) 以了解指令與 API 的詳細資訊。\n\n[下載 Python 腳本](https://minescript.net/downloads/) 這些腳本是為搭配 Minescript 使用而開發。\n\n**設定**\n1. 下載並安裝適用於 Fabric（需 Fabric API）或 Forge 的 Minescript 模組。\n\n2. 若您尚未安裝，請下載並安裝 Python 3：https://www.python.org/downloads/（Windows 使用者也可從 Microsoft Store 取得）\n\n3. 啟動已安裝 Minescript 模組的 Minecraft。首次執行時，模組會自動在 minecraft 資料夾內建立 minescript 資料夾。\n\n4. 在 minescript 資料夾中建立 Python 腳本。\n\n5. 在 Minecraft 遊戲內的聊天視窗中輸入反斜線（\"\\\\\"）後接腳本名稱（不含 \".py\" 副檔名），即可執行 Python 腳本。\n\nMinescript 預期 Python 安裝於以下位置：\n\n- 於 Windows：`%userprofile%\\AppData\\Local\\Microsoft\\WindowsApps\\python3.exe`\n- 於 Mac、Linux 等系統：`/usr/bin/python3`\n\n若您的系統將 Python 安裝在其他位置，您可以修改 minescript 資料夾中 config.txt 檔案的 `python` 變數，以指向該路徑。 \n\n**範例**\n\n請查看此 [範例腳本](https://minescript.net/example/)，示範如何從 Python 腳本存取玩家座標、讀取指定位置的方塊，以及建立帶有自訂文字的告示牌等方塊。\n\n**相容性**\n已在以下平台進行測試：\n- Fabric、Forge 與 NeoForge 模組載入器\n- Python 3.7 至 3.10\n- macOS（最高支援至 Sonoma）\n- Linux（Pop!_OS、NixOS、Bazzite 與 SteamOS）\n- Windows 10 與 11（x86）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "DSmrxi+L0zk=",
-  "content": "允許你使用「Create」模組來自動化處理「Timeless and Classic Zero (TACZ)」（支援至 1.1.7 版本，但尚未加入槍口與瞄具配件）中的所有物品。新增了鋼、鋁、鉛等材料，提高取得武器的難度。新增了研究台，可用來研究彈藥藍圖（研究時間可設定）。\n\n移除預設的 TACZ 合成配方\n\n將「tacz-common.toml」中的「DefaultPackDebug」設為 true\n刪除「config\\tacz\\custom\\tacz_default_gun\\tacz\\recipes」內的所有資料夾\n\n注意：新版本的 TACZ 設定檔直接位於 .minecraft 資料夾中，路徑為「minecraft\\tacz\\tacz_default_gun\\data\\tacz\\recipes」，設定檔也重新命名為「tacz-pre.toml」\n\n*我已經移除了武器藍圖的需求，因為我認為這多此一舉。~~物品仍然存在於遊戲中，因為我懶得處理；有些槍枝還沒有合成配方，也是因為我懶~~ 截至 1.1.7 版本，所有槍枝都有了配方，且藍圖也已妥善移除。\n\n**所有功勞歸於原作者，我只是為新槍枝添加了一些新的合成配方。\n\n這個專案目前暫緩開發，我仍有計畫要更新，但不會那麼快。",
+  "bodyHash": "ea0d61070f6b951f",
+  "content": "\n\n讓你搭配 Create 模組自動化處理 Timeless and Classic Zero (TACZ) 中的所有物品（支援至 1.1.7 版本，仍需補上槍口與瞄具配件）。新增鋼、鋁與鉛等新材料，以提升取得武器的難度。新增研究台，用於研究彈藥藍圖（研究耗時可自訂設定）。\n\n移除一般 TACZ 配方\n\n在 tacz-common.toml 中將 \"DefaultPackDebug\" 設為 true\n刪除 \"config\\tacz\\custom\\tacz_default_gun\\tacz\\recipes\" 中的所有資料夾\n\n注意：較新版本的 TACZ 會將設定檔直接存放在 .minecraft 資料夾中，此時路徑將變更為 \"minecraft\\tacz\\tacz_default_gun\\data\\tacz\\recipes\"，且設定檔已更名為 \"tacz-pre.toml\"\n\n*我移除了武器藍圖的需求，因為我認為這過於冗餘。~~物品仍保留在遊戲中只是因為我懶得處理，部分槍枝尚未有配方也是因為我又懶了~~ 不過截至 1.1.7 版本，所有槍枝都已實裝配方，且藍圖機制已正確移除\n\n**所有榮譽歸功於原作者，我只是為新槍枝額外新增了一些配方\n\n此專案目前已進入暫緩狀態，我仍打算未來更新它，但近期不會進行",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

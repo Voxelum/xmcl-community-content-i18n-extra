@@ -1,0 +1,6 @@
+{
+  "bodyHash": "55ec8ea52c157d3b",
+  "content": "\n\n## Mobber\n\nMobber добавляет в Minecraft чистую хаотичную энергию, спавня **случайные предметы**, **случайных мобов** и **случайные структуры** через выбранные вами интервалы времени.\n\nПросто настройте таймеры с помощью команд и наблюдайте, как мир погружается в прекрасную бессмыслицу.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/9BNm3MKDT3M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n---\n\n### ⭐ Команды\n\n```\n/randomItemTimeSet <seconds>\n/randomMobTimeSet <seconds>\n/randomStructureTimeSet <seconds>\n/randomEventMessagesInChat <true/false>\n```\n\nТаймеры принимают целые числа. Сообщения принимают true/false.\n\n---\n\n### 🎮 Зачем использовать этот мод?\n\n- Хаос для событий на SMP-серверах  \n- Идеально подходит для создателей контента  \n- Отлично работает для видео с челленджами  \n- Превращает выживание в непредсказуемое безумие  \n\n---\n\n### 📦 Требования\n\n- Fabric Loader  \n- Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

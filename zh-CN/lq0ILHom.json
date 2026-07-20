@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fee4a4080d17bfe0",
+  "content": "\n\n**本模组在使用基于结构的系统生成生物时，不再需要空气方块。**  \n![比较模组凋灵修复功能与原版 Minecraft 的 GIF](https://cdn.modrinth.com/data/cached_images/8d5302b9edfa53aa11d3dcea642da5a67fe6ad31.gif)\n![比较模组傀儡修复功能与原版 Minecraft 的 GIF](https://cdn.modrinth.com/data/cached_images/55582500c90187e7f6ba30c9ac6a7d2146f28735.gif)  \n_(此处涉及的方块现在可以是任意方块)_  \n\n**该模组还会尝试将傀儡生成在安全的位置。**  \n![展示原版 Minecraft 中在墙边生成傀儡导致窒息的 GIF](https://cdn.modrinth.com/data/cached_images/49782dc04216d6f220c6b0f86372ad1b783bf1b7.gif)\n![展示傀儡传送到足够远的位置以避免窒息的 GIF](https://cdn.modrinth.com/data/cached_images/b153f72ed14b32958df1a903954d5f50570d58f6.gif)\n![展示傀儡通过破坏方块来避免生成时窒息的 GIF](https://cdn.modrinth.com/data/cached_images/7d2c976112bafd03662cc7da9e9f5521a49dd27f.gif)  \n由于傀儡的碰撞箱较大，如果它在生成时紧贴墙壁或头部高度有方块，会立即窒息。因此有两种可选方案来避免这种情况：\n\n你可以在配置文件中自由启用或禁用这些功能，并且可以同时启用两者：  \n![展示同时启用传送与方块破坏机制的 GIF](https://cdn.modrinth.com/data/cached_images/c9add5d7ba304f769ca7b7efaada09c81adcb78e.gif)  \n\n**该模组允许傀儡执行以下操作：**  \n1» 在落地前免疫窒息效果，让程序逻辑可以等待到真正需要时再处理。  \n2» 向最佳方向（包括对角线角落）传送，以避开方块密集的区域。  \n3» 如有必要，直接破坏挡路的方块。  \n_(如果某个方向存在不可破坏的方块，傀儡将忽略该方向；若所有方向均被不可破坏的方块阻挡，则不会采取任何行动。)_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

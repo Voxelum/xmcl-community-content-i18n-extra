@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31c2b11567ffd201",
+  "content": "\n\n<p style=\"text-align:left\"><span>Исправляет давнюю (почти десятилетнюю) проблему с неработающими привязками кнопок мыши в инвентарях (см. отчет об ошибке по ссылке ниже).</span></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-577\" rel=\"nofollow\">https://bugs.mojang.com/browse/MC-577</a></p>\n<p>&nbsp;</p>\n<p>Примечание:</p>\n<p>Привязка действия «выбросить» к кнопкам мыши 4/5 вызывает странные эффекты в творческом инвентаре. Я не рекомендую так делать, если вы планируете использовать творческий режим.</p>\n<p>&nbsp;<br><strong>Возникли проблемы?</strong></p>\n<p>Присоединяйтесь к моему <a href=\"https://discord.gg/BKfEdgjMf9\" rel=\"nofollow\">серверу Discord</a>&nbsp;и задавайте вопросы!</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration:underline\"><strong>Убедитесь, что скачали правильный .jar файл для вашей версии игры и загрузчика модов</strong></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "89e4e3dc8f6b2674",
+  "content": "\n\n<h1><strong>Reactables</strong></h1>\n<p><strong>能對遊戲事件產生反應的 UI 與世界特效。</strong></p>\n<p>Reactables 透過在常規遊戲時刻加入細微反應，讓《我的世界》感覺更加生動。每一次擊中、每一次墜落、每一次升級現在都會有對應的動態回饋。</p>\n<p><strong>特效</strong><br>- 受傷時快捷欄會震動<br>- 受到攻擊時螢幕邊緣閃紅光<br>- 疾跑時快捷欄會動態位移<br>- 生命值低時快捷欄會脈衝閃爍<br>- 生命值低時螢幕變暗<br>- 墜落時快捷欄會上浮<br>- 進食時快捷欄會彈跳<br>- 升級時經驗條會閃爍</p>\n<p><strong>設定</strong><br>所有特效均可在設定畫面中個別切換。按下 R 鍵（可自訂）或透過模組選單開啟。</p>\n<p><strong>相容性</strong><br>- 與 Sodium 和 Iris 相容<br>- 僅限客戶端，無需安裝於伺服器<br>- 僅支援 Fabric</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

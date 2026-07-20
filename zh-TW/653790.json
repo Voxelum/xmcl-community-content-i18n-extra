@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8df5cb70d3a00700",
+  "content": "\n\n<p><img src=\"https://media.forgecdn.net/attachments/491/557/logo_xycraft_override.png\"></p>\n<p>原版 Minecraft 雖然擁有許多能帶來樂趣與享受的功能，但如果我們只稍微改變它的美學風格，讓它變得更加現代化會怎麼樣呢？請理解，雖然我非常喜歡這些覆蓋後的新內容，但它們並不被標記為 &ldquo;最佳&rdquo;, &ldquo;更好&rdquo;, 或 &ldquo;改進&rdquo;，而純粹只是 &ldquo;連接&rdquo;。</p>\n<p>&nbsp;</p>\n<p><strong>摘要：</strong></p>\n<p>XyCraft Override 為原版方塊提供替代外觀，同時允許您停用正在被覆蓋的紋理以實現連接效果。是否曾想過擁有連接的原版玻璃方塊？或是 XyCraft 發光石磚？沒錯，這個模組就是為您而設的！</p>\n<p>&nbsp;</p>\n<p><strong>功能特色：</strong></p>\n<ul>\n<li>覆蓋部分方塊（例如玻璃）的原生紋理，提供連接紋理效果！</li>\n<li>為各種方塊提供替代版本，作為裝飾您的世界時的額外選擇！</li>\n<li>微調了幾個機械方塊的外觀，使其在啟動時更具表現力，例如觀察器。</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>規劃中：</strong></p>\n<ul>\n<li>可選擇啟用的設定選項，提供增強的遊戲玩法功能。目前尚未設計任何選項，但作為通用概念，想像一下可以關閉踩踏熔岩方塊傷害的功能。預設情況下它仍會對您造成傷害，但玩家可以自行變更。</li>\n<li>更多連接紋理的覆蓋內容。包含其他模組與原版。</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>已知問題：</strong></p>\n<ul>\n<li>啟用可選的 Minecraft 模型檔案時，請注意，模型載入器處理部分較複雜模型時似乎存在錯誤。因此首次啟用時，會顯示缺少模型的提示。請嘗試重新載入資源（F3+T）。這應該能解決問題。此現象似乎僅在初次啟用資源時影響用戶端，日後重新啟動遊戲則無需反覆重載。簡而言之；這可能是 Forge/Neo 的錯誤，未來將會修正。目前已有變通方法 :)</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

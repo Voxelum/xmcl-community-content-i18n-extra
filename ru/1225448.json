@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e0f84a138fcb084",
+  "content": "\n\n<p>Базовый мод-библиотека, позволяющий очень легко использовать JDA без лишних усилий. Просто перетащите его в папку mods и добавьте следующее в ваш build-скрипт:</p>\n<pre><code>repositories {\n    maven {\n        url = '<a href=\"\" target=\"_blank\" rel=\"nofollow\">https://maven.mangorage.org/releases/&#x27;</a>\n    }\n}\ndependencies {\n   implementation(\"org.mangorage:JDA-Library:version\")\n}</code></pre>\n<p>И это всё! Теперь вы можете использовать JDA!</p>\n<p>Не забудьте поместить его в папку mods!</p>\n<p>Присоединяйтесь к моему <a href=\"/linkout?remoteUrl=http%253a%252f%252fdiscord.mangorage.org%252f\" target=\"_blank\" rel=\"nofollow\">discord</a>, если нужна помощь!</p>\n<p>Сама по себе она ничего не делает. Это вспомогательный/библиотечный мод для разработчиков модов.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

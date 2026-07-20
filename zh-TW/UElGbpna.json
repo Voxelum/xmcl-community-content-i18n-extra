@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RTVA7r9Tgi8=",
-  "content": "AA 是《博克島》模組的擴展內容，新增了許多額外的龍。這得益於 Nord_Act 的《博克島》變體加載器，讓我們能夠在不取代現有龍的前提下，為已有龍種添加重新建模的變體。然而，這也意味著技能可能會出現不匹配的情況。\n\n設定檔需要從其所包含的壓縮檔中提取出來，並按照常規設定方法進行安裝。\n\n錯誤回報與支援討論區可在我們的 Discord 伺服器中找到。\n\nAA 是由 LuckiestLycan、Mqzikeen、SakuraBabochka、Gecko_sauce、DragonTamer、Blue 和 Mako 共同製作的專案。其中包含來自 Ness、Immersed、VLS、Chrys 以及 NBD（新博克黎明）團隊的 Will，還有 NBD 社群的 MazingA、GrayDoesn'tExist、Roar、SomeGuy 和 MilqyWay 所提供的素材。此外，還包含了 AmiEpyk、JayJay、DragoFRN、Suki、GrayDoesn’tExist、LIA、Mittens 和 Skeley-Arts 所設計的變體。我們的授權條款將始終維持為 ARR（保留所有權利），以保護這些我們擁有使用與散布許可、但並非所有權的素材。大多數龍模型是以 IoB 的模型為基礎，因為硬編碼的骨架依賴性使得重新從零製作模型不切實際。AA 並未宣稱擁有這些模型，它們是由 IoB 團隊創作，現屬於 NBD。我們被允許使用這些 IoB 基礎素材，前提是我們始終作為 IoB 和/或 NBD 的附加內容，且不宣稱擁有這些模型的製作權。*這些致謝名單可能會視需要變更，並將始終以本模組包最新版本為準。*",
+  "bodyHash": "7bd0c2e11f11232f",
+  "content": "\n\nAA 是《Isle of Berk》模組的擴充套件，新增了許多額外龍種。此功能透過 Nord_Act 開發的《Isle of Berk》變體載入器實現，讓我們能在不取代現有龍種的前提下，新增重新建模的龍種變體。然而，這也可能導致部分技能與龍種不相匹配。\n\n設定檔必須從其所屬的壓縮檔中解壓取出，並依照一般的設定檔安裝方式進行安裝。\n\n錯誤回報與支援論壇請至我們的 Discord 伺服器。\n\nAA 是由 LuckiestLycan、Mqzikeen、SakuraBabochka、Gecko_sauce、DragonTamer、Blue 和 Mako 共同開發的專案。本模組包含 Ness、Immersed、VLS、Chrys 與 Will（NBD／New Berk's Dawn 團隊成員），以及 MazingA、GrayDoesn'tExist、Roar、SomeGuy 與 MilqyWay（NBD 社群成員）提供的素材。此外，亦收錄了 AmiEpyk、JayJay、DragoFRN、Suki、GrayDoesn’tExist、LIA、Mittens 與 Skeley-Arts 設計的變體模型。我們的授權條款為 ARR，並將持續維持此條款，以保護這些我們僅獲授权使用與分發、但無所有權的素材。絕大多數的龍種模型均以 IoB 模型為基礎，這是因為骨骼綁定(rigging)存在硬編碼依賴關係，使得從頭建模並不切實際。AA 並不宣稱擁有這些模型的製作權，它們最初由 IoB 團隊創作，現已歸屬於 NBD。只要我們維持作為 IoB 和／或 NBD 的擴充模組身份，且不宣稱自行製作這些素材，即可合法使用這些 IoB 基礎素材。*這些鳴謝名單將視情況進行必要調整。其內容將始終與該模組包的最新發行版本保持一致。*",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "fKoNKI3pNe8=",
-  "content": "<p>一個讓模組能夠以不與其他模組衝突的方式，為玩家角色製作動畫的函式庫。（還有更多功能！）<br>\n此模組專為模組開發者設計，本身不會獨立產生任何效果。</p><p>以下是其中部分功能：<br>\n* 支援從 Blender 與 Blockbench 的 JSON 檔案載入動畫。（GeckoLib 與 Bedrock 格式）<br>\n* 相當完善的 Molang 支援！<br>\n* 支援效果關鍵幀，例如粒子關鍵幀。<br>\n* 可新增自訂樞紐點（例如：一個髖骨，能讓除了雙腿以外的所有部位繞著髖部旋轉）<br>\n* 可新增自訂骨骼，並能取得其位置，以便加入自訂粒子效果。</p><p>文件說明：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdocs.zigythebird.com%252f\" target=\"_blank\" rel=\"nofollow\">https://docs.zigythebird.com/</a></p>",
+  "bodyHash": "c307668f279e5f15",
+  "content": "<p>一個讓模組能夠動畫化玩家的函式庫，且不會與其他模組衝突。（還有更多功能！）<br>\n此模組是為模組開發者設計的函式庫，本身不會執行任何操作。</p>\n<p>以下是部分功能：<br>\n* 您可以從 Blender 和 Blockbench 的 JSON 檔案載入動畫。（支援 GeckoLib 和 Bedrock 格式）<br>\n* 相當完善的 Molang 支援！<br>\n* 支援類似粒子關鍵幀的效果關鍵幀。<br>\n* 能夠新增自定義樞軸點（例如：一個髖部骨骼，用於旋轉除腿部以外的所有部位）。<br>\n* 能夠新增自定義骨骼，並可取得其位置以添加自定義粒子。</p>\n<p>文件說明：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdocs.zigythebird.com%252f\" target=\"_blank\" rel=\"nofollow\">https://docs.zigythebird.com/</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

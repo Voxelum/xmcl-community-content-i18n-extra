@@ -1,0 +1,6 @@
+{
+  "bodyHash": "880c79535638bb5d",
+  "content": "\n\n<h1>簡單交易</h1>\n<p>一款輕量級的伺服器端玩家間交易模組。支援 <strong>Fabric</strong> 與 <strong>NeoForge</strong>。</p>\n<h2>功能</h2>\n<ul>\n<li><strong>安全的箱子交易介面</strong>：共用 6 欄箱子，雙方各佔一側，中間設有分隔</li>\n<li><strong>防騙保護</strong> 只要加入或移除物品，「準備就緒」狀態就會自動重置</li>\n<li><strong>雙重確認</strong> 僅當雙方玩家都點擊「準備就緒」時，交易才會執行</li>\n<li><strong>物品安全</strong> 關閉介面或斷線將取消交易並歸還所有物品</li>\n<li><strong>可點擊的聊天按鈕</strong> 接收交易者可在聊天訊息中點擊 <code>[接受]</code> / <code>[拒絕]</code> 按鈕</li>\n<li><strong>請求過期</strong> 待處理請求於 60 秒後自動失效</li>\n</ul>\n<h2>指令</h2>\n<table>\n<thead>\n<tr>\n<th>指令</th>\n<th>說明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>/trade player</code></td>\n<td>向其他玩家發送交易請求</td>\n</tr>\n<tr>\n<td><code>/trade accept</code></td>\n<td>接受收到的交易請求</td>\n</tr>\n<tr>\n<td><code>/trade deny</code></td>\n<td>拒絕收到的交易請求</td>\n</tr>\n</tbody>\n</table>\n<h2>授權</h2>\n<p>Apache 2.0 授權</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

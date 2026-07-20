@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bbbeafb94c2551a6",
+  "content": "\n\n<p>PackagedExCrafting 是 <a href=\"packagedauto\" rel=\"nofollow\">PackagedAuto</a> 與 <a href=\"extended-crafting\" rel=\"nofollow\">Extended Crafting</a> 的擴充模組，旨在更輕鬆地實現使用 Extended Crafting 組裝台進行物品製作的自動化。本模組設計為無需依賴 Applied Energistics 2 即可獨立運作，但仍建議搭配安裝以提升效能。</p>\n<p>本模組加入了多種製造機。使用時，請將其放置於拆封機旁，並由拆封機負責處理相應的製作配方（配方需使用編碼器寫入配方儲存器）。終界製造機與通量製造機需分別搭配對應的轉換器，組合製造機則需配置足夠數量的標記基座。當製造機連接至 ME 網路時，會自動將產出物輸送至該網路中。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fthelmiffy1111\" rel=\"nofollow\">Ko-fi</a><br><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.crystaelix.com%252f\" rel=\"nofollow\">Discord</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "452005b35084210d",
+  "content": "\n\n<p>CustomNPCs 交易桌</p>\n<p>為 CustomNPCs(GBPort) 所設計的小型 Forge 1.20.1 擴充套件。<a href=\"https://www.curseforge.com/minecraft/mc-mods/customnpcs-unofficial\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/customnpcs-unofficial</a></p>\n<p>本模組新增了「交易桌」，可讀取 CustomNPCs 商人複製身資料，並自動使用由漏斗、管線或其他物品運輸模組提供的物品來購買所選的交易。</p>\n<p>需求\nCustomNPCs GBPort / CustomNPCs-Unofficial\n功能\n新增可自動化運作的交易桌。\n讀取來自 customnpcs/clones 的商人報價。\n使用已綁定的供應清單來選擇此交易桌應使用的 NPC 商人。\n讓玩家能從交易桌介面中選擇一項交易。\n僅接受目前所選交易所需的付款物品。\n從交易桌底部輸出已購買的物品。\n基本用法\n建立並儲存一個 CustomNPCs 商人複製身。\n放置一張交易桌。\n將與該商人綁定的供應清單放入交易桌中。\n選擇您想要自動化的交易。\n透過物品運輸系統插入所需的付款物品。\n從底部提取已購買的物品。\n設定檔\n設定檔位於：</p>\n<p>config/customnpcs_trade_table-common.toml\n範例：</p>\n<p>currency_items = [&quot;minecraft:emerald&quot;]</p>\n<p>[trade_table]\ntrade_interval_ticks = 10</p>\n<p>[supply_list_purchase]\nenable_direct_purchase = true\nprice = 64\n選項\ncurrency_items：直接從 NPC 購買供應清單時接受的物品。此項目不影響交易桌的付款物品。\ntrade_table.trade_interval_ticks：交易桌嘗試自動購買的頻率。20 ticks = 1 秒。\nsupply_list_purchase.enable_direct_purchase：啟用右鍵點擊直接向 CustomNPCs 商人購買供應清單的功能。\nsupply_list_purchase.price：啟用直接購買供應清單時所消耗的貨幣物品數量。\n預設情況下，直接購買供應清單的功能為停用狀態。若未啟用此功能，供應清單必須透過指令、任務、腳本、戰利品表或其他整合包專屬方式取得。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

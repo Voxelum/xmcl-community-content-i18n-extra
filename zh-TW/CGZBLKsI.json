@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0a383afd9e657d4",
+  "content": "\n\nNoCombatSound 是一款輕量級的 Minecraft 資源包，可移除所有主要的戰鬥相關音效。\n此資源包專為偏好更簡潔、不受干擾的 PvP 或 PvE 體驗的玩家而設計，透過關閉火災、爆炸、終界珍珠（投擲與落地）、命中以及所有受傷／傷害音效來達成。\n\n不會更改任何材質或遊戲元素 — 僅修改音效。\n\n> 功能特色\n\n- 移除火災音效\n  （燃燒、火焰爆裂聲、環境火焰背景音）\n  \n- 移除爆炸音效\n  （TNT、末地水晶、安息之锚）\n  \n- 移除終界珍珠音效\n  （投擲與傳送落地衝擊聲）\n \n- 移除命中音效\n  （攻擊玩家或生物時）\n  \n- 移除受傷／傷害音效\n  （玩家受到任何形式的傷害時）\n \n- 完全基於客戶端運作\n  \n- 零性能影響\n  \n- 簡潔輕量，且對 PvP 友善\n\n> 相容性\n\n- 本資源包適用於：\n \n- 所有支援資源包的現代 Minecraft 版本\n  \n- 原版遊戲\n  \n- Fabric / Quilt\n  \n- Forge / NeoForge\n  \n- OptiFine\n  \n- 基於 Sodium 的模組整合包\n  \n多人遊戲安全 — 伺服器無需安裝任何內容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

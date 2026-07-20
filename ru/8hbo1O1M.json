@@ -1,14 +1,6 @@
 {
-  "bodyHash": "3VWt3Ihvwkk=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For details, see: https://help.aliyun.com/zh/model-studio/error-code#token-limit",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "2bc77399-d3ca-9ab3-a423-0a6276941dc5"
-  },
+  "bodyHash": "26c24f8318b2c563",
+  "content": "\n\n**Цветник** позволяет размещать несколько цветов в одном блоке, аналогично тому, как работают морские огурцы и свечи. Просто нажмите правой кнопкой мыши по цветку тем же цветком, и он превратится в цветник, который может вместить до 4 цветов. (**Вы НЕ МОЖЕТЕ смешивать разные виды)**\n\nВы также можете использовать костную муку на существующие цветы, чтобы создать цветник.\n<br>\n<p><img src=\"https://i.imgur.com/0KFppoR.png\" alt=\"Партнёр Akliz\" width=\"320\" height=\"152\"></p>\n<p><a href=\"https://www.akliz.net/mrbysco\" rel=\"nofollow\">Нужен сервер? Получите скидку 20% на первый месяц по промокоду \"mrbysco\"</a></p>\n \n<b>Если у вас есть вопросы, добро пожаловать на мой Discord.</b>\n\n## Хотите поддержать нас? ##\n<p><a href=\"https://www.patreon.com/Mrbysco\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -Mrbysco</p>\n<p><a href=\"https://www.patreon.com/ShyNieke\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -ShyNieke</p>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

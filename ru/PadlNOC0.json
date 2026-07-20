@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0e1bd7cbf93ac4f2",
+  "content": "\n\n- /trackblock add <block_id> <amount>\n- /trackblock clear\n- /trackblock hide \n- /trackblock list\n- /trackblock remove <block_id>\n- /trackblock show\nпозволяет закрепить цели добычи и сбора ресурсов прямо на вашем HUD, чтобы вы всегда знали, сколько предметов осталось собрать. Отслеживайте несколько задач одновременно, наблюдайте за прогрессом в реальном времени при сборе ресурсов и перемещайте HUD через меню мода, чтобы разместить его в любом месте экрана.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "UgpKAho7moA=",
-  "content": "歡迎來到神秘山庫，這是MMF-Group模組的函式庫。  \n專為開發者打造的函式庫，同時也為想了解Zheng其他模組的玩家提供歡迎資訊。  \n\n特色功能：  \n> 基礎方塊、物品類別，讓編碼更輕鬆。  \n> 食物資訊系統，提升模組相容性與更多功能。  \n> 使用列表註冊RegistryObject清單。  \n> 抽象資料生成器。  \n> 基岩版實體模型（開發中！）",
+  "bodyHash": "8d5b4bd002562173",
+  "content": "歡迎使用神秘山丘庫（Mysterious Mountain Lib），這是 MMF-Group 模組的開發庫。  \n這主要是一個供程式設計師使用的庫，同時也是一份歡迎資訊，供想了解鄭（Zheng）其他模組的玩家參考。  \n\n功能：  \n> 提供基礎方塊與物品類別，簡化程式碼開發。  \n> 新增食品資訊（FoodInfo），以支援模組相容性及其他功能。  \n> 透過列表註冊一組 RegistryObject。  \n> 抽象資料生成器（Abstract Data Generators）。  \n> 基岩層實體模型（開發中！）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

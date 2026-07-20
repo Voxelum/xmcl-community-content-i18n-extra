@@ -1,6 +1,6 @@
 {
-  "bodyHash": "cugQW81sZSQ=",
-  "content": "# **戰鬥碰撞箱**\n\n這個**純視覺**模組新增了除錯碰撞箱線條寬度的設定（原版的寬度對我來說通常太細了）、每個元件的顏色，以及每個元件的開關切換。\n\n厭倦了瞇著眼睛看小小的攻擊指示器，只為了確認你是否在攻擊範圍內嗎？有了戰鬥碰撞箱，整個碰撞箱會改變顏色（預設為紅色）來指示你的鎖定目標。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/IugaEAV7xi8\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n（更多預覽圖請見圖庫，也別忘了看看 [Tektonikal](https://modrinth.com/user/Tektonikal)）\n\n## 依賴模組\n\n此模組需要 [Fabric api](https://modrinth.com/mod/fabric-api) 以及 [Cloth config](https://modrinth.com/mod/cloth-config) 和 [Mod menu](https://modrinth.com/mod/modmenu) 來進行設定。",
+  "bodyHash": "6ac1cbf6dcea7fd1",
+  "content": "# **戰鬥碰撞箱**\n\n這個**純視覺**模組提供了除錯碰撞箱線條寬度（原版的大小通常太細，不符合我的喜好）、各組件的顏色設定，以及針對每個組件的開關功能。\n\n是否厭煩了眯著眼睛查看微小的攻擊指示器，以確認自己是否在攻擊範圍內？使用戰鬥碰撞箱後，整個碰撞箱會改變顏色（預設為紅色），以標示你鎖定的敵人。\n\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/IugaEAV7xi8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n(更多預覽可在圖庫中找到，別忘了去看看 [Tektonikal](https://modrinth.com/user/Tektonikal))\n\n## 相依性\n\n此模組需要 [Fabric API](https://modrinth.com/mod/fabric-api)，以及 [Cloth Config](https://modrinth.com/mod/cloth-config) + [Mod Menu](https://modrinth.com/mod/modmenu) 來進行設定。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

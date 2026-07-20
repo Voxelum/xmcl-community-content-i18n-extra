@@ -1,0 +1,6 @@
+{
+  "bodyHash": "da25dfad7a174d9b",
+  "content": "\n\n<h2>Эффект синих и белых курсоров мыши</h2>\n<p>Этот мод добавляет в Minecraft эффект клика и стиль курсора в стиле Blue Archive.</p>\n<h3><strong>Требуется <a href=\"https://www.curseforge.com/minecraft/mc-mods/apricityui\" target=\"_blank\" rel=\"nofollow\">ApricityUI</a>!</strong></h3>\n<p>Превью:\n<img src=\"https://resource-api.xyeidc.com//client/members/pics/b4ebf414\" alt=\"gif\"></p>\n<p>Этот мод переносит в Minecraft следующие два проекта:</p>\n<ul>\n<li><p><a href=\"https://github.com/DoomVoss/BASpark\" target=\"_blank\" rel=\"nofollow\">https://github.com/DoomVoss/BASpark</a></p></li>\n<li><p><a href=\"https://github.com/makipom/BlueArchive-Cursors\" target=\"_blank\" rel=\"nofollow\">https://github.com/makipom/BlueArchive-Cursors</a></p></li>\n</ul>\n<p>Функционал полностью зависит от ApricityUI; собственный исходный код мода отвечает только за выбор стиля курсора для различных ситуаций.</p>\n<p>Большинство курсоров не используются. Если вам нужно изменить стили, вы можете воспользоваться Qingxue UI для кастомизации переопределённого CSS.</p>\n<p>В планы на будущее входит добавление второго набора курсоров и внедрение смены стиля курсора в зависимости от ситуации.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

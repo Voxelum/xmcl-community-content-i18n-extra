@@ -1,0 +1,6 @@
+{
+  "bodyHash": "919e085401bfed47",
+  "content": "\n\nNo More Overlays позволяет пользователям включать или отключать любые визуальные эффекты оверлеев в Minecraft. Для переключения различных оверлеев мод предоставляет удобный интерфейс настроек в меню «Моды» Forge или Mod Menu для Fabric/Quilt.\n\n\n\n<p align=\"center\">\n  <a href=\"https://github.com/LMokahel/No-More-Overlays/issues\">\n    <img src=\"https://i.imgur.com/L8Vw9QX.png\" alt=\"Отправить отчет об ошибке на мой GitHub\" width=\"300\">\n  </a>\n</p>\n\n\nДоступные для переключения оверлеи:\n- Затемнение под водой\n- Срабатывание тотема бессмертия\n- Темнота\n- Затемнение при слабом освещении\n- Огонь\n- Старый страж\n- Подзорная труба\n- Портал в Незер\n- Укачивание\n- Обморожение\n- Тыква на голове\n\n\n### Зависимости\n\nДля работы этого мода требуется Cloth Config API на Forge и NeoForge, а также Mod Menu и Fabric API на Fabric и Quilt. Кроме того, для версий 1.0.0 и 1.0.1 мода NoMoreOverlays необходима Architectury API.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

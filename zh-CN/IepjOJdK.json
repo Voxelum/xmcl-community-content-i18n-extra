@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e4d375a87d2c071f",
+  "content": "\n\n## 说明\n⚠️ 本模组的修复版本目前由“RuMTR Development”团队发布。鉴于原版存在诸多长期未修复的漏洞，我们决定推出此修复版。我们并非该模组的主要原作者，所有荣誉与版权均归属于 [Aphrodite281](https://modrinth.com/user/Aphrodite281)。若您在游玩过程中遇到任何问题，欢迎随时向我们反馈。\n\n我们已将此模组迁移至带有全新品牌标识的新页面，后续更新将在此处发布：https://modrinth.com/mod/mtr-34-minecraft-transit-railway-3+4/gallery\n\n**兼容性：** 支持 MTR 3.1.12 至 3.2.2 版本。\n\n本模组基于 [Zbx1425](https://modrinth.com/user/Zbx1425) 的 [MTR-NTE](https://modrinth.com/mod/mtr-nte) 开发，并新增以下特性：\n- 轨道超高（外轨超高）\n- 游戏内 JavaScript 交互支持\n- 扩展的 JavaScript 运行环境\n- 混合构建器（Compound Creator）\n- 更丰富的轨道限速设置\n\n在开始使用或开发前，请务必阅读 [ANTE 使用/开发文档](https://aphrodite281.github.io/mtr-ante/#/)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

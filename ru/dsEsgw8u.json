@@ -1,0 +1,6 @@
+{
+  "bodyHash": "08c6fbfe9133c019",
+  "content": "# Ещё один мод на серебро\n\n## Мотивация\n\nНа нашем сервере недавно началась новая выживалка с модами на базе [Create].  \nМы также установили [Create Craft & Addition].  \nОднако столкнулись с проблемой: «Почему я не могу скрафтить электрум?»  \nПроверив файл рецепта в формате JSON, мы обнаружили, что ему требуется предмет `c:silver_ingot`.  \nПри дальнейшем исследовании выяснилось, что многие технические моды ещё не поддерживают `Fabric 1.20.1`,  \nпоэтому мы решили создать новый мод, который добавляет всего лишь серебро.\n\n## Возможности\n\nДобавлены: руда глубокого сланцевого серебра, самородное серебро, серебряный слиток, серебряное зерно и блок серебра.\n\n## Благодарности\n\n- [Create]:\n  Генерация руд в мире, рецепты\n- [Fabric Modding Tutorial](https://www.youtube.com/list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ):\n  Очень впечатляющая работа, сильно помогла нам.\n\n[Create]:https://github.com/Fabricators-of-Create/Create/tree/mc1.20.1/fabric/dev\n\n[Create Craft & Addition]:https://github.com/mrh0/createaddition/tree/fabric-1.20.1",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

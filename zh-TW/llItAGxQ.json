@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Xxr1K+1YmBQ=",
-  "content": "# Slash Fly\n\n一個為單人與多人模式新增簡易 `/fly` 指令的 Minecraft Mod。\n\n## 主要功能\n### 1.3.0\n* 支援 [luckperms](https://modrinth.com/mod/luckperms)\n   * `/fly` - `slashfly.command.fly`\n   * `/fly <速度>` - `slashfly.command.fly.speed`\n\n### 1.2.0\n* 防止切換遊戲模式時失去飛行狀態\n\n### 1.1.1\n* 修復 **Fabric** 版本的地面上挖掘速度問題\n\n### 1.1.0\n* 飛行時處於水下不再影響挖掘速度\n\n### 1.0.0\n* 初次發布\n* 新增 `/fly` 指令集\n* 飛行開關狀態在登入和死亡後保持\n* 飛行時可維持正常方塊破壞速度\n\n## 使用方法\n\n```\n/fly - 切換飛行\n/fly <速度> - 設定飛行速度 0.1 至 100.0（預設：0.5）\n```",
+  "bodyHash": "418bad4e65874baa",
+  "content": "\n\n# Slash Fly\n\n一款為單人與多人遊戲加入簡易 `/fly` 指令的 Minecraft 模組。\n\n## 主要功能\n### 1.3.2\n* 確保在切換遊戲模式時飛行行為保持一致\n\n### 1.3.1\n* 即使在 LuckPerms 中未擁有 slashfly 權限，亦允許在創造模式中飛行\n\n### 1.3.0\n* 新增支援 [luckperms](https://modrinth.com/mod/luckperms)\n   * `/fly` - `slashfly.command.fly`\n   * `/fly <速度>` - `slashfly.command.fly.speed`\n\n### 1.2.0\n* 防止在切換遊戲模式時失去飛行狀態\n\n### 1.1.1\n* 修復 **Fabric** 版地表上方挖掘速度異常的問題\n\n### 1.1.0\n* 飛行時在水下挖掘不再會降低挖掘速度\n\n### 1.0.0\n* 初始版本發布\n* 新增 `/fly` 指令\n* 飛行開關狀態於重新登入或死亡後會保留\n* 飛行時允許保持正常的方塊破壞速度\n\n## 使用方法\n\n```\n/fly - 切換飛行\n/fly <速度> - 將飛行速度從 0.1 調整至 100.0（預設：0.5）\n```",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

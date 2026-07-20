@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bf86c35a9478a245",
+  "content": "\n\n<h1>Простой мод, добавляющий игроку механику плевания.</h1>\n<p>Всегда хотели плевать как лама? Теперь вы можете сделать это с этим модом! Нажмите клавишу (зажатую, по умолчанию запятую), чтобы выплюнуть!</p>\n<p>&nbsp;</p>\n<p>Для 1.21.10+ <strong>Forge</strong>: конфигурации времени восстановления плевы и урона перенесены из категории COMMON в SERVER. Чтобы изменить их, откройте папку вашего сохранённого мира через любой файловый менеджер (например, Проводник), затем зайдите в папку \"serverconfig\". Там вы найдёте файл \"spittingimage-server.toml\" и сможете настроить параметры по своему усмотрению (настройки полностью идентичны для мультиплеера и одиночной игры).</p>\n<h2><strong>&nbsp;</strong></h2>\n<p><span><span><iframe style=\"width:740px\" src=\"https://www.youtube.com/embed/1qOEzCazBnc\" width=\"740\" height=\"435\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p>\n<h1>Версия Fabric требует MidnightLib</h1>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

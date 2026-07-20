@@ -1,0 +1,6 @@
+{
+  "bodyHash": "94243fffe81133f9",
+  "content": "\n\n<p>本模組針對極其優秀且與原版相容的龍類騎乘模組 <a href=\"https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy\" target=\"_blank\" rel=\"nofollow\">Dragon Mounts: Legacy</a> 套用了一些修補程式。</p>\n<p><strong>《Dragon Mounts: Legacy》為必要依附模組。</strong></p>\n<p><strong>目前除了 1.20.1 Forge 版本外，暫無移植至其他版本的計畫。</strong></p>\n<p><strong>目前本模組具備以下功能：</strong></p>\n<ul>\n<li>在 JEI 中動態註冊龍蛋變體，讓你能够查看所有類型的龍蛋。（修正了原先僅能檢視「天空聖域」或「水域」龍蛋變體的狀況）</li>\n<li>修正在非遊戲狀態下嘗試使用指令快捷鍵時導致當機的問題。（此問題在新版模組中已修復，但 1.20.1 版本尚未修復。）</li>\n</ul>\n<p><strong>為什麼不提交 PR？</strong></p>\n<p>原作者似乎對維護舊版本沒有興趣。我可能會將 JEI 整合部分作為 1.21 版本的 PR 提交。原作者也可以自由複製此內容。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

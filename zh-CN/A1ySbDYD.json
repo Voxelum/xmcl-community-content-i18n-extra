@@ -1,6 +1,6 @@
 {
-  "bodyHash": "KaIyi2/snVc=",
-  "content": "这个模组重写了末地城的生成机制，使其规模更大，分支路径更多。\n\n配置文件可用于修改以下内容：\n\n- 每个末地城的最大船只数量  \n- 每个中间塔的最大高度  \n- 桥梁的长度  \n\n我找到的最佳值是中间塔高度为8，桥梁长度为长。  \n不过，可能会有一些末地城在高度限制处被截断。  \n\n如果你将这个模组与BetterEnd一起使用，建议降低设置，因为基础会更高。  \n\n此模组兼容BetterEnd的末地城数据包。  \n\n原版：https://www.curseforge.com/minecraft/texture-packs/vanilla-better-end-city  \nFabric BetterEnd：https://www.curseforge.com/minecraft/texture-packs/better-end-city-for-better-end  \n\nCurseforge页面：  \nhttps://www.curseforge.com/minecraft/mc-mods/bigger-better-end-cities",
+  "bodyHash": "fe2e9b280ac6363a",
+  "content": "\n\n本模组重写了末地城的生成逻辑，使其规模更大，并包含更多分支路径。\n\n配置文件可用于修改以下参数：\n\n每座城市飞船的最大数量\n\n每个中间塔楼的最大高度\n\n桥梁的长度\n\n我找到的最佳配置为：中间塔楼设为 8，桥梁长度设为“长”（long）。\n\n不过，部分城市可能会在高度上限处被截断。\n\n若配合 BetterEnd 使用，建议调低上述设置，因为 BetterEnd 会提高生成底层的高度。\n\n此模组支持与 Better End City 数据包兼容。\n\n原版：https://www.curseforge.com/minecraft/texture-packs/vanilla-better-end\n\nFabric Better End：https://www.curseforge.com/minecraft/texture-packs/better-end-city-for-better-end\n\n\nCurseForge：\nhttps://www.curseforge.com/minecraft/mc-mods/bigger-better-end-cities",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

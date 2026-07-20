@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f0f0f7c1ebb56cfd",
+  "content": "\n\nSchema Loader 是一款高效能的服務器端 Fabric 模組，能夠**讀取 .litematic 檔案並直接在您的世界中進行建置**。它經過高度最佳化，可在貼上龐大結構時避免導致伺服器延遲。\n\n功能特色：\n\n僅限服務器端：**玩家無需安裝此模組**即可查看或使用。\n\n無延遲貼上：採用動態時間預算佇列，即使在建置巨型結構時也能維持 20 TPS。\n\n粒子預覽：確認前會顯示結構將放置位置的包圍盒輪廓。\n\n智慧最佳化：跳過放置相同方塊（例如泥土疊在泥土上）以節省 CPU 運算時間。\n\n復原系統：不小心把結構貼錯位置？使用內建的 /schema undo 指令即可安全復原最後一次操作。\n\n旋轉與翻轉：在貼上過程中可輕鬆旋轉（90、180、270 度）或翻轉您的結構圖。\n\n自動完成：按下 Tab 鍵會提示資料夾中可用的結構圖。\n\n非 ASCII 支援：可安全載入包含特殊字元的檔案。\n\n指令：\n\n/schemaload <filename> ：在您所在位置**預覽結構圖**。\n\n/schemaload <filename> <x> <y> <z> [rotation] [mirror] ：在**指定座標預覽結構圖，並可選擇性旋轉或翻轉。**\n\n/schema accept ：**開始建置**已預覽的結構圖。\n\n/schema decline ：**取消**預覽。\n\n/schema undo ：**復原**最後一次結構圖放置，以保護您的世界。\n\n/schemahelp ：遊戲內**說明選單**。\n\n安裝方式：將模組放入伺服器的 mods 資料夾中。將您的 .litematic 檔案放入伺服器根目錄下的 schematics 資料夾。需安裝 Fabric API。\n\n[由人工智慧協助開發]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

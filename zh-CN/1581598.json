@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d89406d8176063a",
+  "content": "\n\n<p>TaCZ Gunpack Redistribution 是一款专为 Timeless and Classics Guns: Zero 打造的轻量级兼容工具。</p>\n<p>默认情况下，TaCZ 的枪械包分发对整合包来说可能不太方便，因为整合包通常需要将枪械包内容放入 override 文件夹中。本模组扩展了 TaCZ 的枪械包检测机制，使合法的枪械包可以直接放置在 Minecraft 资源包文件夹中。</p>\n<p>这是原版 TaCZ Gunpack Redistribution 模组的 Minecraft 1.21.1 / NeoForge 移植分支版本。</p>\n<h3>主要功能</h3>\n<p>允许 TaCZ 从资源包文件夹中检测有效的枪械包文件夹或 <code>.zip</code> 格式的枪械包。这使得 CurseForge 上的整合包作者能够通过 CurseForge 系统直接分发 TaCZ 枪械包。</p>\n<p>原版 TaCZ Gunpack Redistribution 模组的所有功劳归于 ChloePrime。此版本仅为适配 1.21.1 的分支版本。</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

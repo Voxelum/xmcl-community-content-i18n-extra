@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c0e8585a9a5e4031",
+  "content": "\n\n<h1>AE2 MEGA Things</h1>\n<p>本模组是 AE2 Things 与 MEGA Cells 的附加模组，引入了多种无类型限制的 DISK Cells（磁盘存储单元）。</p>\n<h2>功能特性</h2>\n<h3>DISK Cells（磁盘存储单元）</h3>\n<h5>物品磁盘</h5>\n<p>存储容量从 1M 到 256M 不等，每个物品消耗 1 字节。</p>\n<h5>流体磁盘</h5>\n<p>容量从 1k 到 256M 不等，每 1000mB 消耗 1 字节。</p>\n<h5>化学磁盘（与 Applied Mekanistics 集成）</h5>\n<p>添加了用于存储化学物质的磁盘，容量范围为 1k 至 256M，每 1000mB 消耗 1 字节。</p>\n<h5>通用特性</h5>\n<p>所有磁盘均会产生存储损耗，每 1 KiB 损耗 24 字节，与 AE2 Things 保持一致。</p>\n<h3>命令增强</h3>\n<p>本模组修改了 AE2 Things 的 <code>/ae2things recover</code> 命令，并新增以下功能：</p>\n<ul>\n<li>您可以指定第三个参数来明确选择用于恢复的 DISK。</li>\n</ul>\n<hr>\n<h2>许可证</h2>\n<p>本模组遵循 GNU 宽通用公共许可证 v3.0 (LGPL-3.0)。源代码以及依赖项和资源的详细许可信息可在 <a href=\"https://github.com/Lapis256/AE2MEGAThings\" target=\"_blank\" rel=\"nofollow\">GitHub 仓库</a> 中查看。</p>\n<h3>依赖项与资源</h3>\n<p>本模组依赖于 Applied-Energistics-2、MEGACells、Applied-Mekanistics 和 AE2Things-Forge 等多个项目，这些项目均有各自的许可证。本模组的贴图源自上述项目，采用 CC BY-NC-SA 3.0 或兼容协议授权。如需完整的依赖项、资源及其许可证列表，请参阅该仓库。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

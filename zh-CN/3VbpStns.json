@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13bb237014bfd15d",
+  "content": "\n\n**概述**\n---\n**IVR** 是《我的世界》Transit Railway (MTR) 模组的插件。\n\n本模组提供了两种风格高度还原的港铁（KCR）铁路标志：现代标志与古典标志。\n\n你可以在游戏中同时体验更多样化的标志。\n\n此外，IVR 模组还提供了近 **500** 种符号，方便你在游戏中轻松模拟港铁公司运营。\n\n要求\n---\n1. Fabric（不支持 Forge）\n2. Minecraft Transit Railway（版本 3.2.2-hotfix1 或更高），但**不支持 MTR 4.0**\n3. Minecraft 1.16.x-1.19.x\n\n本模组同时支持客户端和服务端。\n\n若要运行服务端游戏，**客户端和服务端均需安装**。\n\n注意事项\n---\n本模组可能存在缺陷。\n\n使用前请务必备份世界存档。\n\n如有任何问题，请前往 https://github.com/Hulan1234/IVR-Mod 提交反馈。\n\n未来规划\n---\n1. 支持 Minecraft 1.20.1\n2. 港铁线路图\n3. 支持 Forge\n4. 支持 MTR 4.0（预计 500 年后）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

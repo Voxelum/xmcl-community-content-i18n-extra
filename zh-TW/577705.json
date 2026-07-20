@@ -1,0 +1,6 @@
+{
+  "bodyHash": "068a334e5d234a3a",
+  "content": "\n\n<h2><strong>概述</strong></h2>\n<p>Player Ladder 讓你只需右鍵點擊其他玩家，即可騎乘或抱起他們。</p>\n<h3><strong>額外功能</strong></h3>\n<ul>\n<li>擴充 <code>/ride</code> 指令，讓實體可以騎在玩家身上。</li>\n<li>內建 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fpickup-me\" target=\"_blank\" rel=\"nofollow\">Pick Up Me</a> 功能（需在設定檔中將 <code>rightClickMode</code> 切換為 <strong>PICK_UP</strong>）。</li>\n<li>若安裝於客戶端，即使頭上有實體也能與世界互動。</li>\n<li>允許抱起/騎乘任何生物（預設關閉）</li>\n</ul>\n<p>僅支援最新版本的 <strong>Minecraft</strong>。</p>\n<p>若您使用的是 Fabric，則需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fconfiglib\" target=\"_blank\" rel=\"nofollow\">FConfigLib</a>。<br>若已安裝 <strong>Cloth Config API</strong> 和 <strong>Mod Menu</strong>，即可透過圖形化介面編輯設定檔。</p>\n<h3><strong>類似模組/附加元件</strong></h3>\n<ul>\n<li>Zepaii 為 Minecraft 基岩版開發的 <a href=\"https://www.curseforge.com/minecraft-bedrock/scripts/sit-on-player-unofficial-bedrock-port-of-player\" target=\"_blank\" rel=\"nofollow\">Sit On Player</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

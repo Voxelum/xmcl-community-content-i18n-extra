@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b3250f54b01ffd6",
+  "content": "\n\n選擇一個垂直或水平的平面，然後你可以點擊並拖曳，在該平面上快速且整齊地放置方塊。利用這個功能可以輕鬆延伸牆壁、地板、橋樑或屋頂。\n\n![點擊並拖曳以快速建造牆壁](https://cdn.modrinth.com/data/cached_images/18da90cc64adc0a3e1839e05ea24da7b993021a3.gif)\n\n### 操作說明\n按下左側的 Alt 鍵（可重新綁定至任意按鍵）以切換「簡易建築模式」。建築平面將設定為你按下按鍵時所面對的朝向，因此如果你想延伸牆壁，請看著該牆壁並按下按鍵；若想延伸橋樑，則看向地面並按下按鍵。屋頂、欄杆、鷹架等皆適用此邏輯。\n\n### 半磚與階梯\n當你看著半磚或階梯方塊時按下簡易建築模式按鍵，系統在放置其他方塊時會嘗試匹配該方塊的類型。這意味著，若你在看著上半部半磚時啟動簡易建築模式，放置的將是上半部半磚；若看著下半部半磚，則會放置下半部半磚。\n\n### 伺服器使用說明\n**這是一個純客戶端模組，也就是說即使伺服器未安裝此模組你依然可以使用。不過，此模組可能不被多人遊戲伺服器允許，使用後可能會導致封禁。在多人遊戲中使用前，請務必諮詢伺服器管理員。**\n\n### 方塊放置限制\n本模組不允許你在不可能的位置放置方塊。放置方塊時必須有相鄰的方塊作為支撐。這表示你無法透過在孤立方塊上方放置方塊來懸空放置上半部半磚，也無法將方塊放置在空氣中。不過，你仍然可以放置平常無法放置的方塊（例如：不需探出邊緣即可延伸橋樑）。\n\n### 開放原始碼\n歡迎任何修復、改進或移植版本。[原始碼已於 GitHub 公開](https://github.com/marianolarre/easy-building-minecraft-mod)。\n\n### 實機展示\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/jtbILROmY7U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

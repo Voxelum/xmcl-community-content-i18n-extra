@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a07c8a0862a5ba1",
+  "content": "\n\n<p>讓所有幽靈僅有 1 點生命值，因此可輕易透過一拳或刺甲盔甲將其擊敗。</p>\n<h1>設定</h1>\n<p>可在 <code>config/onehpphantoms.json</code> 中修改數值，以設定不同的預設生命值（介於 0 至 20 之間）。</p>\n<table>\n<thead>\n<tr>\n<th>設定項目</th>\n<th>預設值</th>\n<th>說明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>hp</code></td>\n<td><code>1</code></td>\n<td>幽靈生成時的預設生命值。</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

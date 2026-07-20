@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6c3bd90a08338af3",
+  "content": "\n\n# 描述\n將狼項圈轉換為高解析度彩虹。**與白色染色項圈搭配效果最佳。若想將其設為預設值，請在迴圈型命令方塊中使用以下指令。** 請注意，此指令會將所有狼的項圈變為白色，且彩虹效果必須搭配資源包才能顯示。你可以將 @e[] 替換為目標選擇器或你的狼的 UUID，以僅對特定狼套用（或直接使用白色染料）。<br>\n```/execute as @e[type=wolf] run data merge entity @s {CollarColor:0b}```\n\n# 版本\n支援 Java 版 1.21 - 26.2（較舊版本未經測試）\n\n# 相容性\n與任何修改狼項圈材質的模組不相容。建議使用白色染料以達到最佳效果。解析度高於原版材質。\n\n  <a href=\"https://patreon.com/Nerd_1023?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\"><img alt=\"patreon-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_vector.svg\"></a>\n  <a href=\"https://discord.gg/m5AGYxRj3g\"><img alt=\"discord-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

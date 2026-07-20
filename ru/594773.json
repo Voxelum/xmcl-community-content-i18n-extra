@@ -1,6 +1,6 @@
 {
-  "bodyHash": "cP7A9fAIV3E=",
-  "content": "<h1>Глобальные Датапаки</h1>\n<p>Мод, который создает глобальную папку с датапаками в вашей игровой директории .minecraft, чтобы вам не приходилось копировать датапаки между мирами.</p>\n<h3>Папка с Датапаками</h3>\n<p>Добавляет папку <code>datapacks</code> в .minecraft, содержащую датапаки, которые по умолчанию включены в каждом мире.</p>\n<h3>Доступные Датапаки</h3>\n<p>Добавляет папку <code>available_datapacks</code> в .minecraft, содержащую датапаки, которые по умолчанию отключены в каждом мире.</p>\n<h3>Информация</h3>\n<p>⚠️ Это мод только для <strong>Fabric</strong>, и планов по созданию версии для Forge нет.\n&nbsp;\n<img src=\"https://github.com/Declipsonator/Global-Datapack/blob/main/spacetaker.png?raw=true\" alt=\"Пример\">\n<br><br></p>",
+  "bodyHash": "01f4389d3fc6fe55",
+  "content": "\n\n<h1>Глобальные датпаки</h1>\n<p>Мод, создающий глобальную папку для датпаков в директории .minecraft, чтобы вам не приходилось копировать их между мирами.</p>\n<h3>Папка с датпаками</h3>\n<p>Добавляет папку <code>datapacks</code> в .minecraft с датпаками, которые включены в каждом мире по умолчанию</p>\n<h3>Доступные датпаки</h3>\n<p>Добавляет папку <code>available_datapacks</code> в .minecraft с датпаками, которые отключены в каждом мире по умолчанию</p>\n<h3>Информация</h3>\n<p>⚠️Это мод только для <strong>Fabric</strong>, и планов по созданию версии для Forge нет.\n&nbsp;\n<img src=\"https://github.com/Declipsonator/Global-Datapack/blob/main/spacetaker.png?raw=true\" alt=\"Пример\">\n<br><br></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

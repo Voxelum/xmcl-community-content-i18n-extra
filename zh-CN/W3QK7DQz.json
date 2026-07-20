@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c312580fc1ad5906",
+  "content": "\n\n该光影包的效果几乎与原版渲染完全一致，仅额外支持 TAA。它兼容 OptiFine 和 Iris。\n\n## 鸣谢\n* 原版渲染复刻自 [XorDevs-Default-Shaderpack](https://github.com/XorDev/XorDevs-Default-Shaderpack)\n* TAA 实现源自 [BSL](https://bitslablab.com/bslshaders/)\n* FidelityFX CAS 源自 [AMD](https://github.com/GPUOpen-Effects/FidelityFX-CAS)，片段着色器版本来自 [vkBasalt](https://github.com/DadSchoorse/vkBasalt)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

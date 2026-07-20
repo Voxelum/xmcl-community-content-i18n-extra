@@ -1,0 +1,6 @@
+{
+  "bodyHash": "07934dcc17dde0be",
+  "content": "\n\n# FixBookGUI\n\n將書本介面移至螢幕中央\n此模組旨在修復 [MC-61489](https://bugs.mojang.com/browse/MC/issues/MC-61489)\n\n絕大多數的修復邏輯源自 [mworzala 的 gist](https://gist.github.com/mworzala/9a8d86803784c9c81aac77d9a7f9fb2b)，因此修復功勞歸於他們，我只是將其製作成模組。（他們並未參與此模組的開發）\n\n### 比較\n\n<div>\n    <table>\n        <tr>\n            <td align=\"middle\">\n            <img alt=\"Difference: Book\" src=\"https://raw.githubusercontent.com/KosmoMoustache/FixBookGUI/next/.github/assets/book.jpg\">\n            <figcaption align=\"middle\">書本</figcaption>\n            </td>\n        </tr>\n        <tr>\n            <td align=\"middle\">\n                <img alt=\"Difference: Writing book\" src=\"https://raw.githubusercontent.com/KosmoMoustache/FixBookGUI/next/.github/assets/write.jpg\">\n                <figcaption align=\"middle\">書與筆</figcaption>\n            </td>\n        </tr>\n        <tr>\n            <td align=\"middle\">\n                <img alt=\"Difference: Lectern\" src=\"https://raw.githubusercontent.com/KosmoMoustache/FixBookGUI/next/.github/assets/lectern.jpg\">\n                <figcaption align=\"middle\">講台</figcaption>\n            </td>\n        </tr>\n    </table>\n</div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

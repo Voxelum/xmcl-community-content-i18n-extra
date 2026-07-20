@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5febdc1bb18dbf0",
+  "content": "\n\n<p style=\"text-align:center\">在 <strong>Artifacts</strong> 模组中，当渲染第一人称手臂时，ArmRenderHandler 会检查你是否装备了手套类 Artifact（用于在手上渲染装饰效果）。渲染器可能会尝试查找列表中尚未存在的槽位索引。正如你所料……导致崩溃！<br><br>已从 <span style=\"text-decoration:underline\">Linggango Tweaks</span> 分离<br>欢迎自由使用！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

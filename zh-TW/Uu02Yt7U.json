@@ -1,6 +1,6 @@
 {
-  "bodyHash": "s4smigt1Ojo=",
-  "content": "# 深板岩生成器\n\n這個模組非常簡單，正如其名，它在 Minecraft 中新增了一個深板岩生成器，讓你能在需要時將其工業化。<br>\n要讓它運作，請在岩漿將要與水接觸的位置下方放置一個**強化深板岩方塊**，這樣便會生成**深板岩**而非石頭。\n\n以下是範例：![操作方式](https://cdn.modrinth.com/data/cached_images/a9c01293f3ee972714a3bc0020e61627e43029ad.png)",
+  "bodyHash": "186522621ead5756",
+  "content": "# 深板岩生成器\n\n這個模組非常簡單，正如它的名字所示，它為 Minecraft 添加了一個深板岩生成器，因此如有需要，您可以實現其工業化。<br>\n要使其運作，請在熔岩與水碰撞點的下方放置一個**加固深板岩方塊**，這樣就會生成一個**深板岩方塊**，而不是普通的石頭方塊。\n\n這裡有一個範例：![使用方法](https://cdn.modrinth.com/data/cached_images/a9c01293f3ee972714a3bc0020e61627e43029ad.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

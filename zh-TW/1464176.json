@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c0e4a6d0e7c1296",
+  "content": "<p>此模組為 MineZero 版本 1.0.12 而製作，並應能與較舊版本相容。如果在特定版本無法運作或導致多人遊戲出現錯誤，請在評論區留言告知，我會嘗試修復。</p>\n<p>這是一個小型模組，利用 MineZero 的 CheckpointManager 和 TriggerRBD 類別，在每個檢查點儲存及載入飽食度、疲勞值和氧氣值，因為 MineZero 本身並未提供此功能。此外，它還修正了一個耐久度錯誤：如果你多次返回同一個檢查點，物品的耐久度將不再恢復。</p>\n<p>MineZero：<a href=\"https://www.curseforge.com/minecraft/mc-mods/mine-zero-return-by-death\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/mine-zero-return-by-death</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

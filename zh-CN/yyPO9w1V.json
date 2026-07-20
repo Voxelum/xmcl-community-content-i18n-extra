@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8d0f8c875b857129",
+  "content": "\n\n这是一个简单的 Mixin 补丁，修复了 Sable 中的一个问题：当位于世界高度限制之上时，子层不会受到爆炸伤害。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

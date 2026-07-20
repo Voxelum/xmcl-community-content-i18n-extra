@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0315e38abf12574f",
+  "content": "\n\n## TaCZ Pack Upgrader\n**如果您使用的是官方 TaCZ，本模組與之完全無關**  \n自動將槍包升級至與 [TaCZ 1.21.1](https://modrinth.com/mod/tacz-1.21.1) 相容\n\n## 基本用法\n1. 安裝此模組\n2. 像平常一樣將槍包放入 `tacz` 資料夾中\n3. 啟動遊戲，槍包便會自動升級並載入\n\n## 關於 `.jar` 檔案\n在 TaCZ 的脈絡下，`.jar` 檔案主要分為兩種類型：\n1. `.jar` 格式的槍包\n   - Maxstuff、Daffa's Arsenal、Gucci & Vuitton Attachments、LesRaisins Append Pack 等\n2. `.jar` 格式的模組擴充套件（仍可能包含槍包）\n   - TaCZ Tweaks、LesRaisins Tactical Equipments、TaCZ Durability 等\n\n此升級器僅能處理槍包，無法處理模組擴充套件；透過程式方式將模組從 1.20.1 升級至 1.21.1 是不可能的。\n\n請務必將 `.jar` 格式的槍包放入 `tacz` 資料夾，而非 `mods` 資料夾  \n完成上述步驟後，其餘流程皆會自動處理\n\n## 疑難排解\n- 部分槍包可能會依存於某些模組擴充套件（例如：LesRaisins Tactical Equipments）\n  - 在這種情況下您幾乎無能為力，因為這些擴充套件在 1.21.1 版本中尚不存在\n  - 或許您可以嘗試尋找不具備這些依存關係的舊版槍包\n\n## 授權條款\n[LGPLv3](https://github.com/MUKSC/TaCZPackUpgrader/blob/main/LICENSE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

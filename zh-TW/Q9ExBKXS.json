@@ -1,0 +1,6 @@
+{
+  "bodyHash": "482491eee26cfebd",
+  "content": "\n\n# 描述：\n\n本模組是一款基於《艾爾登法環》（Elden Ring）遊戲內容的附魔模組。\n\n您可以透過一般遊戲方式獲得這些附魔，此外還有一些極其罕見的懷舊附魔。\n\n某些附魔組合起來會非常強大，但也總伴隨著自身的缺點。\n\n例如，火焰附魔必須在火焰環境中才能生效，而月亮附魔則需在夜間發揮作用。\n\n遊戲內收錄超過 100 種不同的法術，且後續更新將持續新增附魔，請善用它們來擊敗敵人！\n\n即使您未曾遊玩過本作，也能在其中體驗到《艾爾登法環》獨特的風土民情與文化特色！\n\n## 如何了解附魔效果：\n\n您可以使用附魔說明功能來查看每個附魔的具體作用。\n\n## 移除不需要的附魔：\n\n請於 config/carianstyle.cfg 檔案的卸載設定區填入欲移除附魔的 ID。具體 ID 可透過開啟語言檔查看，等號（=）前方的字串即為對應 ID。\n\n![flame](https://cdn.modrinth.com/data/cached_images/5b1a61b0146267d4be252b293b8fd9e7a83e932c.png)\n\n![effect](https://cdn.modrinth.com/data/cached_images/4edad5c377ddd57fc68f387fae25d7f044916550.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

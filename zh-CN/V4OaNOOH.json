@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d630d670dd03ec5e",
+  "content": "\n\n## Irons Spells N FTB Teams\n\n一款轻量级的桥接/附加模组：让 **Iron's Spells 'n Spellbooks** 的法术召唤物（骷髅、僵尸、恼鬼、北极熊等）在选取攻击目标时，遵循 **FTB Teams** 的队伍归属关系。\n\n在同一支 FTB 队伍内，玩家及其召唤物永远不会成为彼此召唤物的攻击目标，即使玩家之间仍可直接互相造成伤害。无需传送功能、不添加物品或新法术——仅修正目标选取逻辑。\n\n### 功能特性\n- 召唤物在选取攻击目标时将自动忽略队友（及队友的召唤物）\n- 提供单一配置开关以启用/禁用，无需卸载模组即可切换\n- 不新增任何物品、方块或法术——纯粹通过轻量级 Mixin 补丁修正行为\n- Boss 召唤的生物（如死灵法师、火焰Boss等）不受影响——仅针对玩家拥有的召唤物生效\n\n### 前置要求\n| 模组 | 版本 |\n|---|---|\n| Minecraft | 1.21.1 |\n| NeoForge | 21.1.235+ |\n| Iron's Spells 'n Spellbooks | 1.21.1-3.16.2+ |\n| FTB Teams | 2101.1.10+ |\n\n上述列出的两个模组均为**必需依赖**——缺少它们将导致本模组加载失败。它们各自的其他依赖（GeckoLib、Curios、Player Animator、Iron's Lib、Architectury、FTB Library）也需按常规要求安装。\n\n### 配置文件\n`enableTeamSummonProtection`（默认值：`true`）——将其设为 `false` 可完全恢复为原版 Iron's Spells 的目标选取逻辑。\n\n### 注意事项\n- 仅服务端运行逻辑；对专用服务器和单人游戏均安全\n- 队友间的直接伤害（友伤）不受影响——该机制由原版计分板队伍设置控制，与本模组无关\n- 本模组的代码由人工指导下的 AI（Claude Code）生成\n\n### 开源协议\nGPL-3.0-or-later。源码：[GitHub](https://github.com/HenryCROSS/Irons-Spell-N-FTB-Teams)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

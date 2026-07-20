@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3da75944d17ea9f3",
+  "content": "\n\n![骑乘与冲刺：气垫车](https://github.com/Geegaz-Datapacks/RideDash/blob/main/img/title.png?raw=true)\n\n## 特性：\n**一种全新的飞行载具：气垫车**\n- 使用火焰弹作为燃料\n- 可用铁锭修复\n- 可使用16种染料中的任意一种进行染色\n- 可搭配旗帜装饰，使用斧头即可移除\n\n**移动：**按住前进/后退（同时按住两者可悬停）<br>\n**加速：**按住跳跃键（持续1秒）<br>\n**冲刺：**按下左/右键（冷却时间1秒）\n\n**合成配方** \n\n![解锁条件：获得马鞍](https://github.com/Geegaz-Datapacks/RideDash/blob/main/img/recipe.png?raw=true)\n\n## 安装方法\n### 数据包\n`rida_<version>.zip` 包含资源与数据文件——请将其同时复制到你的数据包（datapacks）和资源包（resourcepacks）文件夹中。<br>\n此外还提供了 `rida_<version>_datapack.zip` 和 `rida_<version>_resourcepack.zip`，如果你希望分开下载可选用这两个文件。\n\n### 模组\n为方便起见，我们提供了模组版本。你可以像安装其他模组一样，通过 Modrinth 启动器或下载 `.jar` 文件来安装它。\n\n---\n\n数据包采用 MIT 许可证发布 - [查看完整协议](https://github.com/Geegaz-Datapacks/RideDash/blob/main/src/LICENSE_datapack.md)<br>\n资源包采用 CC BY 4.0 许可证发布 - [查看完整协议](https://github.com/Geegaz-Datapacks/RideDash/blob/main/src/LICENSE_resourcepack.md)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

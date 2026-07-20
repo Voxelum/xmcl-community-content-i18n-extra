@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8dbe78e7fc3f7c69",
+  "content": "\n\n<h1>LoadLeak</h1>\n<p><strong>LoadLeak</strong> 是一款轻量级优化模组，通过重构游戏的初始化流程来改善 Minecraft 的启动体验。</p>\n<p>该模组无需等待所有系统加载完毕即可让游戏进入可操作状态。LoadLeak 会减少不必要的启动开销，并将非核心的初始化任务延迟至实际使用时再执行。这使得 Minecraft 能够更快地进入主菜单，同时完全保留原版的游戏行为。</p>\n<h2>特性</h2>\n<ul>\n<li>\n<p>更快的游戏启动速度</p>\n</li>\n<li>\n<p>优化的初始化流程</p>\n</li>\n<li>\n<p>减少不必要的启动工作</p>\n</li>\n<li>\n<p>延迟非关键加载任务</p>\n</li>\n<li>\n<p>不改变游戏玩法或世界生成机制</p>\n</li>\n<li>\n<p>轻量级设计，专为与其他优化模组兼容而打造</p>\n</li>\n</ul>\n<p>LoadLeak 专注于提升启动效率，而非提高帧率或更改玩法机制。游戏加载完成后，其运行表现与原版 Minecraft 完全一致。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

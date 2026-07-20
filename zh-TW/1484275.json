@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5c65b48f434c93b",
+  "content": "\n\n<h1>Ad Astra 電纜修復</h1>\n<p>一款 Fabric 模組，可修復 <strong>Ad Astra</strong> 機器在與外部流體或物品管線（例如 Pipez 或其他運輸模組的管線）互動時發生的巢狀交易崩潰問題。</p>\n<h2>功能特色</h2>\n<ul>\n<li><strong>巢狀交易修復</strong>：防止機器在外部管線已開啟交易的情況下，嘗試處理內部交易時觸發 <code>IllegalStateException: Transaction already in progress</code> 崩潰。</li>\n<li><strong>提升相容性</strong>：讓 Ad Astra 機器能更穩定地與更多種類的物品／流體運輸系統搭配運作。</li>\n</ul>\n<h2>運作原理</h2>\n<p>本模組透過 Sponge Mixins 封裝 <code>MachineFluidTransactionMixin</code> 及（如適用）物品交易，確保在沒有進行中的交易時才會嘗試開啟新交易，或直接委派至現有的交易上下文。</p>\n<h2>安裝方式</h2>\n<ol>\n<li>安裝 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252f\" target=\"_blank\" rel=\"nofollow\">Fabric Loader</a>。</li>\n<li>將此 <code>.jar</code> 檔案放入你的 <code>mods</code> 資料夾中。</li>\n<li>需要 <strong>Ad Astra</strong> 及其相依模組。</li>\n</ol>\n<h2>授權條款</h2>\n<p>本專案採用 MIT 授權條款。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

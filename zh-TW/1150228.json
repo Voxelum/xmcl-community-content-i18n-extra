@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77716b54a17fe381",
+  "content": "\n\n<h1>製作這些相容模組的目標，是透過移除重複的物品、生物與方塊，讓各模組在整合包中能更好地搭配運作。<em>這能確保所有依賴於已移除物品、生物和方塊的項目仍可正常運作，方法是將這些依賴導向剩餘的同等價&nbsp;</em><em>物品、生物與方塊</em><em>。</em></h1>\n<h2 style=\"text-align:center\"><strong>變更清單</strong></h2>\n<h4><strong>已移除的重複生物</strong></h4>\n<ul>\n<li>Naturalist 的犀牛</li>\n<li>Naturalist 的鯰魚</li>\n<li>Naturalist 的大象</li>\n<li>Naturalist 的響尾蛇</li>\n<li>Naturalist 的棕熊</li>\n</ul>\n<h4><strong>已移除的重複物品</strong></h4>\n<ul>\n<li>Naturalist 的熊毛</li>\n<li>Naturalist 的生鯰魚</li>\n<li>Naturalist 的熟鯰魚</li>\n<li>Naturalist 的鯰魚桶</li>\n</ul>\n<h4><strong>合成配方調整</strong></h4>\n<ul>\n<li><strong>Naturalist 泰迪熊</strong>：現在改用 Alex's Mobs 的熊毛進行合成</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e12ef253420af829",
+  "content": "\n\n本模组是 Shoulder Surfing Reforged 的附加组件。当玩家使用 Pehkui 模组调整体型，且缩小至正常尺寸以下时，游戏视角会出现频繁的穿模或异常晃动现象，尤其是在攀爬或脸部紧贴前方方块时尤为明显。\n\n本模组修复了 Shoulder Surfing 在玩家体型小于原版默认大小时产生的视角问题。\n\n运行本模组**必须**安装 Shoulder Surfing。Pehkui 或其他任何改变玩家体型的模组均为完全可选。如果您未使用任何调整玩家体型的模组，则无需安装此附加组件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

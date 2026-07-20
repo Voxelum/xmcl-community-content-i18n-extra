@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f8b5c2f7ee27d93c",
+  "content": "\n\n<p>&nbsp;</p>\n<p>VTXS 專案誕生，旨在挑戰現代圖形趨勢中過度依賴 TAA 與畫面上採樣技術而模糊化一切的風氣。VTXS 的核心理念是：無論鏡頭移動速度多快，畫面中的所有細節都能保持完美清晰。</p>\n<h3><strong>螢幕空間示範</strong></h3>\n<p><img src=\"https://media.forgecdn.net/attachments/1577/883/2026-03-05_03.jpg\" alt=\"VTXS\" width=\"1905\" height=\"1072\"><br>此著色器（Shader）引入了一套專為 VTXS 開發的光照系統。</p>\n<p>螢幕上可見的每個自發光像素都會照亮場景並投射陰影。<br>雜訊水平已降低至足以支援即時遊玩，無需額外進行去雜訊處理。不過，系統仍內建了可選的去雜訊功能。</p>\n<p>&nbsp;</p>\n<p>雖然目前仍為示範版本，但此著色器旨在用於實際遊戲遊玩，因此所有完整且可遊玩體驗所需的機能均已規劃在列。</p>\n<h3><strong>已實作功能</strong></h3>\n<ul>\n<li>螢幕空間路徑追蹤</li>\n<li>物理基礎大氣效果</li>\n<li>全範圍粗糙度鏡面反射</li>\n<li>體積雲</li>\n<li>丁達爾效應</li>\n<li>次表面散射</li>\n<li>可變半影陰影</li>\n<li>泛光</li>\n<li>人眼適應</li>\n<li>螢幕空間光線追蹤折射</li>\n<li>GBAA 抗鋸齒</li>\n</ul>\n<p>特別感謝 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fuser%252fjbritain\" rel=\"nofollow\">jbritain</a>&nbsp;為 VTXS 製作體積雲！</p>\n<p>強烈建議搭配使用 PBR 材質包，因為內建的 PBR 系統功能相當有限。</p>\n<p>此著色器目前已支援 Intel 顯示卡，但仍可能存在一些問題。如有任何異常，歡迎前往我的 <a href=\"https://discord.gg/5zg5XuhCBk\" rel=\"nofollow\">Discord 伺服器</a> 回報。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

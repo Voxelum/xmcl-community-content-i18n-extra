@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7dac78a67c5e7589",
+  "content": "\n\n*注意：此模组仍处于早期开发阶段，所有内容均可能随时更改！*\n\n本模组引入了可自定义的航点，并显示在游戏内 HUD 界面上。\n玩家可在游戏内创建和编辑航点，也可在服务器端通过编程方式对其进行管理。\n\n![](https://github.com/user-attachments/assets/a771bc9d-3f3f-464d-81f4-38743e0de0aa)\n\n![](https://github.com/user-attachments/assets/7715347f-64e1-4816-906f-ff5b18d34b44)\n\n![](https://github.com/user-attachments/assets/0b9b1e8d-7702-4dba-93d5-976412d9df11)\n\n## 功能特性\n\n- 游戏内指南针 HUD 显示航点位置\n- 航点支持自定义颜色或图标\n- 玩家可在游戏内直接创建和编辑航点，亦支持通过编程接口操作\n- 航点数据统一存储于服务器\n- 可通过 API 添加、编辑、删除航点，或将其设为只读\n- 航点将显示在游戏内 HUD 界面上\n- 航点支持隐藏\n- 完全开源",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

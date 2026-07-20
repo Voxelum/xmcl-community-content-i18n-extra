@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6117579f0ec4092b",
+  "content": "\n\n<p><a href=\"https://discord.gg/8WtpQfy\" rel=\"nofollow\"><strong>加入我們的 Discord：https://discord.gg/8WtpQfy</strong></a></p>\n<p>&nbsp;</p>\n<h3>概述</h3>\n<p>本模組旨在為希望在生存世界中遊玩、卻不需持續進食的玩家，調整飢餓機制。此模組設計為可在多人伺服器（SMP）中針對個別玩家進行設定，因此並非所有玩家都必須被強制採用單一模式。這會影響遊戲平衡，但是否可接受則由您決定。</p>\n<p>此模組會對受影響的玩家進行以下功能調整：</p>\n<ul>\n<li>飢餓條將固定在半滿狀態。這允許玩家疾跑，但會禁用生命值自動恢復。</li>\n<li>若玩家受到「飢餓」效果影響，其飢餓條數值將降至疾跑門檻以下。</li>\n<li>若玩家受到「生命恢復」效果影響，其飢餓條數值將達到滿值。</li>\n<li>食用食物會立即恢復一半食物值對應的生命值。例如：一塊餅乾可恢復半顆心，一塊熟豬排可恢復兩顆心。</li>\n</ul>\n<h3>設定檔</h3>\n<p>此模組會建立一個名為 'hungerstrike.cfg' 的設定檔。它僅包含一個設定選項：</p>\n<ul>\n<li><strong>模式（Mode）</strong>：設定此模組套用到玩家的方式。可接受的值為 NONE、LIST 和 ALL。預設值為 LIST。\n<ul>\n<li>NONE：所有玩家的飢餓系統調整皆為關閉。</li>\n<li>LIST：僅對透過遊戲內指令 /hungerstrike 新增的玩家啟用飢餓系統調整。</li>\n<li>ALL：所有玩家皆會啟用飢餓系統調整。</li>\n</ul>\n</li>\n</ul>\n<p>您可以透過遊戲內指令或直接編輯檔案來修改此設定。</p>\n<h3>連結與資源</h3>\n<p>更多資訊請參考此模組的 <a href=\"http://www.minecraftforum.net/topic/2439390-\" rel=\"nofollow\">MC 論壇討論串</a>。</p>\n<p>原始碼可於此模組的 <a href=\"https://github.com/jaquadro/ForgeMods\" rel=\"nofollow\">GitHub 專案頁面</a> 取得。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

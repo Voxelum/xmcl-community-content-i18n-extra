@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RD0M1JA0NMY=",
-  "content": "# 地毯模組暴擊攻擊修復\n一個適用於 Minecraft 1.21+ (Fabric) 的模組，修復了地毯模組中假玩家的暴擊攻擊問題。\n\n### 問題\n在原始的地毯模組中，假玩家無法執行暴擊攻擊（跳躍攻擊），即使在跳躍並在下落時攻擊也是如此。",
+  "bodyHash": "8316db5c4eafd0cc",
+  "content": "\n\n# Carpet 重擊攻擊修復\n一款適用於 Minecraft 1.21+（Fabric）的模組，用於修復 Carpet 模組中假玩家的重擊問題。\n\n### 問題\n在原始的 Carpet 模組中，即使在下落時跳躍並進行攻擊，假玩家也無法執行重擊（跳躍攻擊）。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28e2bda75836ec42",
+  "content": "\n\nЭтот ресурс-пак заменяет арбалет на «Мозамбик» из игр Titanfall, Titanfall 2 и Apex Legends.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/0HJIGop7pLY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nВы можете изменить эмблему (по умолчанию — крипер), для этого вам нужно просто создать файл \"emblem.png\" и сделать свою собственную эмблему [путь: \"assets\\minecraft\\textures\\mozambique\"].\n\nНа дисплее отображается то, что вы зарядили в оружие (стрела/фейерверк/ничего).\n\nВ инвентаре/интерфейсе (HUD) отображается статус заряжания или разряжания оружия.\n\nOptiFine не требуется. Создано с помощью Blockbench.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

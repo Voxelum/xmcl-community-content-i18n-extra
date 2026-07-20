@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1023d7f37708c3ad",
+  "content": "\n\n<p>Текущие возможности:</p>\n<p>управление узлом управления транспортом Valkyrien Wariums</p>\n<p>обязательно оберните узел управления транспортом как периферию!</p>\n<p>функции:</p>\n<p>тангаж&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; setNodePitch(&lt;1, 0 или -1&gt;)</p>\n<p>рыскание&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; setNodeYaw(&lt;1, 0 или -1&gt;)</p>\n<p>крен&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;setNodeRoll(&lt;1, 0 или -1&gt;)</p>\n<p>тяга&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; setNodeThrottle(&lt;1, 0 или -1&gt;)</p>\n<p>шасси&nbsp; setNodeLandingGear(&lt;true/false&gt;)</p>\n<p>триггер канала&nbsp; setNodeTrigger(&lt;канал&gt;, &lt;true/false&gt;)</p>\n<p>&nbsp;</p>\n<p>getNode&lt;&gt;()</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

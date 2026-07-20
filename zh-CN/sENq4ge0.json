@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0c2f09fb8044e5cb",
+  "content": "\n\n*注意：如果你不使用 Linux，此模组并不适合你*\n\n“[Wayland](https://wayland.freedesktop.org/) 是用于替代 X11 窗口系统协议与架构的方案，旨在更易于开发、扩展和维护。”\n\n随着 Wayland 合成器在 Linux 上的日益普及，包括多个桌面环境默认切换至 Wayland，应用程序对 Wayland 的支持让 Linux 桌面体验更加完善。\n\n虽然 Minecraft 可以在 XWayland 下运行，但诸如每显示器 HiDPI 缩放等功能无法正常工作。如果你遇到了与 XWayland 相关的问题，此模组正是为你准备的。\n\n# 前置要求\n\n需要安装支持 Wayland 的 GLFW 库，并添加以下 JVM 启动参数：\n```\n-Dorg.lwjgl.glfw.libname=/usr/lib/libglfw.so\n```\n\n若要在 Arch Linux 上安装正确的 GLFW，请运行：\n```sh\nsudo pacman -S glfw-wayland\n```\n\n# 设计初衷\n\n在使用 [Sway WM](https://swaywm.org/) 搭配 HiDPI 显示器后，我编写了这个模组。所有 XWayland 应用看起来都很模糊，因此无法满足日常使用需求。社区的常见解决方案是[修补系统级 glfw](https://github.com/Admicos/minecraft-wayland)，但我更倾向于避免这种做法。\n\n# 问题反馈\n\n安装此模组后，如果你在 Wayland 下继续遇到 Minecraft 的相关问题，且该问题尚未被报告过，请在[问题追踪器](https://github.com/StackDoubleFlow/MCWaylandFix/issues)上提交错误报告。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

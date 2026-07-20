@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c45e81103c36067a",
+  "content": "\n\n<h3>收割什么作物？</h3>\n<ul>\n<li>小麦</li>\n<li>甜菜根</li>\n<li>土豆</li>\n<li>胡萝卜</li>\n<li>南瓜</li>\n<li>西瓜</li>\n<li>火把花</li>\n<li>甜浆果</li>\n<li>下界疣</li>\n<li>甘蔗</li>\n</ul>\n<h3>如何制作？</h3>\n<p>该模组会寻找一个上方带有物品展示框且展示框内放置了你选择锄头的箱子。随后它会向四周延伸4个方块的范围，形成一个正方形区域用于自动收割作物，并将收获的作物自动存入箱子中（前提是箱子有空槽位）。</p>\n<p>箱子可以充水以灌溉周围的耕地。收割机的作用范围与水流对耕地的作用范围相同。</p>\n<p>锄头在收割时会消耗耐久，但永远不会彻底损坏。当锄头仅剩最后一次使用时，农场会自动暂停收割。如果展示框中的锄头在旋转，说明农场正在运行；若不旋转，则需要更换新的锄头。你可以使用“经验修补”附魔来防止耐久度消耗。</p>\n<p>你可以分别将“时运”和“耐久”附魔等级提升至最高3级和10级。</p>\n<p><img src=\"https://cdn.modrinth.com/data/sOrP6C8G/images/70f6d789d8cc82b0d7e607dcc04e328668953fa2.jpeg\" alt=\"收割机作用范围\"></p>\n<p>查看 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fuser%252fPepsied\" target=\"_blank\" rel=\"nofollow\">我的其他模组</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

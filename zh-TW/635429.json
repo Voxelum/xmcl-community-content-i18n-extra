@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4cbd784f476e50f4",
+  "content": "\n\n<h3 style=\"text-align:left\"><strong>VukanMod</strong></h3>\n<p>&nbsp;</p>\n<p>這是一個將 Minecraft 的 OpenGL 渲染器替換為採用 Vulkan API 的優化渲染器的 Minecraft 模組。</p>\n<p>其主要目的是提升效能。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/sbr7UxcAmOE?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p>\n<p>&nbsp;</p>\n<h2>安裝方式</h2>\n<p>&nbsp;</p>\n<h4>需求</h4>\n<p><br>- 支援 Vulkan 的裝置（GPU）<br>- Fabric 載入器</p>\n<p>&nbsp;</p>\n<h4>步驟</h4>\n<p>&nbsp;</p>\n<ul>\n<li>需安裝 Fabric 模組載入器。</li>\n<li>將&nbsp;<code>VulkanMod.jar</code>&nbsp;移至&nbsp;<code>mods</code>&nbsp;資料夾（位於您的 Minecraft 執行個體目錄中）。</li>\n</ul>\n<p>&nbsp;</p>\n<h4>如需更多資訊，請前往 <a href=\"https://github.com/xCollateral/VulkanMod\" target=\"_blank\" rel=\"nofollow\">Github</a> 查看</h4>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

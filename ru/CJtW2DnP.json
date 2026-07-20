@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d42c6e6d4a8d826",
+  "content": "\n\n## FastChest — Неофициальный порт для Minecraft 26.1-26.2\n\nЭто неофициальный порт мода [FastChest](https://github.com/FakeDomi/FastChest), созданного Domi, для Minecraft Java Edition **26.1 (Tiny Takeover)**.\n\n### Что он делает?\nFastChest заменяет анимированный 3D-рендерер обычных сундуков и эндер-сундуков на простую статичную модель блока. Это устраняет ненужные анимации и значительно повышает FPS в местах с большим количеством сундуков.\n\n### Требования\n- Minecraft 26.1\n- Fabric Loader 0.17.2+\n- Fabric API 0.146.1+26.1.2\n\n### Примечания\n- Это неофициальный порт. Оригинальный мод создан [Domi](https://github.com/FakeDomi/FastChest).\n- Лицензия: MIT.\n- Исходный код: https://github.com/FakeDomi/FastChest\n\n---\n\n*Если вы говорите по-испански: Этот мод заменяет 3D-рендерер сундуков на статичные модели, улучшая производительность (FPS) в зонах с большим количеством сундуков.*\nНеофициальный порт FastChest для Minecraft 26.1.\nОригинальный мод создан Domi: https://github.com/FakeDomi/FastChest",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

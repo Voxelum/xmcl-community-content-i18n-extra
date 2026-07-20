@@ -1,0 +1,6 @@
+{
+  "bodyHash": "033a53ccab1efb65",
+  "content": "\n\n![遊戲內截圖，顯示玩家與螢幕上方角落的座標。](https://cdn.modrinth.com/data/cached_images/23a174ff36f0ef351f68b3602af9674050ab00be.png)\n\n**Bedrock Coordinates** 是一款專為 Fabric 打造的簡易模組，會在螢幕左上角顯示您的座標，就像《我的世界》基岩版一樣。\n\n您可以按下 F1 切換顯示狀態，或至「輔助功能設定」選單中將其關閉。\n\n此外還提供了一個自訂快捷鍵，可讓您切換顯示於 F3 除錯選單中的玩家 XYZ 座標與方塊座標。您可以在快捷鍵設定中更改此按鍵。\n\n### 需求\n- Fabric Loader\n- Fabric API\n\n必須安裝 Fabric API 才能讓該模組正常運作。\n\n### 翻譯\n我們正致力於擴充更多語言支援。\n\n若您願意協助翻譯本模組，歡迎前往 GitHub 提交您的翻譯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

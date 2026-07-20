@@ -1,6 +1,6 @@
 {
-  "bodyHash": "O+JKUmBmkL4=",
-  "content": "# 背包屬性\n\n這是 Minecraft 中背包的一種不同設計。遊戲不會新增任何背包物品，但玩家可以隨時存取背包（根據組態設定而定）。\n\n玩家可以透過快捷鍵（預設為 B）開啟新的背包介面。\n\n最小欄位數量為 0，在這種情況下背包介面不會開啟。玩家會收到通知，表示目前沒有背包欄位。\n\n最大欄位數量為 27。\n\n## 組態設定\n\n伺服器組態選項「natural_backpack_capacity」控制每個玩家預設擁有的背包欄位數量。\n\n實體屬性「backpackattribute:backpack_capacity」控制從預設數量增加或減少的欄位數量。預設值為 0，但可以透過實體屬性修飾符（EAM）進行調整。\n\n已停用欄位的背景紋理不會顯示。這可以在用戶端組態中停用。\n\n## 「當我的背包縮小時，背包裡的物品會怎麼樣？」\n\n當某個背包欄位包含物品且變成非啟用狀態時，該物品會移動到普通物品欄，如果物品欄已滿，則會掉落在玩家所在位置。玩家會透過聊天訊息收到相關通知。\n\n## 「當我死亡時，背包裡的物品會怎麼樣？」\n\n多個伺服器組態選項控制玩家死亡時的情況。\n\n當「keep_backpack_inventory_on_death」選項設為 true 時，物品會保留在背包中。這類似於原版的「keepInventory」遊戲規則。\n\n當「keep_backpack_inventory_on_death」設為 false 時，會根據「clear_backpack_inventory_on_death」選項產生兩種結果：\n- 選項為 true 時，物品會被銷毀。\n- 選項為 false 時，物品會掉落在玩家所在位置。",
+  "bodyHash": "31ae9560a0fac943",
+  "content": "\n\n# 背包屬性\n\n這是 Minecraft 中背包的一種全新做法。不會額外加入背包物品，玩家可以隨時存取背包（取決於設定檔設定）。\n\n玩家可以透過快捷鍵（預設為 B）開啟新的背包介面。\n\n最少格子數為 0，在這種情況下背包介面不會開啟。系統會提示玩家目前尚無可用的背包格子。\n\n最多格子數為 27。\n\n## 設定\n\n「natural_backpack_capacity」伺服器設定項目可控制每位玩家預設擁有的背包格子數量。\n\n實體屬性「backpackattribute:backpack_capacity」可控制相對於預設數量，要新增或減少多少格子。預設值為 0，但透過實體屬性修正器（EAMs）可以進行變更。\n\n停用格子的背景紋理將不會顯示。此功能可在用戶端設定中關閉。\n\n## 「當我的背包縮小時，裡面的物品會怎樣？」\n\n當背包格子內有物品且該格子變為非啟用狀態時，該物品會移至普通背包，若普通背包已滿則會掉落於玩家所在位置。系統會透過聊天訊息通知玩家。\n\n## 「當我死亡時，背包裡的物品會怎樣？」\n\n多個伺服器設定項目可控制玩家死亡時的物品處置方式。\n\n當「keep_backpack_inventory_on_death」設定為 true 時，物品會保留在背包中。這類似於原版遊戲規則「keepInventory」。\n\n當「keep_backpack_inventory_on_death」設定為 false 時，根據「clear_backpack_inventory_on_death」設定會有兩種結果：\n- 若該設定為 true，物品將會被銷毀。\n- 若該設定為 false，物品將會掉落於玩家所在位置。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

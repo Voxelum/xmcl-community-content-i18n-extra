@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2aea814a19cc8b48",
+  "content": "\n\n<p>Дополнение для Minecraft 1.12.2 на базе Forge для <a href=\"https://www.curseforge.com/minecraft/mc-mods/packagedauto\" rel=\"nofollow\">PackagedAuto</a> + <a href=\"https://www.curseforge.com/minecraft/mc-mods/packagingprovider\" rel=\"nofollow\">PackagingProvider</a>.</p>\n<p>Добавляет <strong>Беспроводной поставщик упаковки ME</strong>, который может управлять удалёнными упаковочными машинами (1→N) с помощью предмета <strong>Коннектор пакетов</strong>.</p>\n<h2>Зависимости</h2>\n<ul>\n<li>PackagedAuto</li>\n<li>PackagingProvider</li>\n</ul>\n<h2>Использование</h2>\n<ol>\n<li>Нажмите ПКМ по упаковкеющей машине (например, Расширенный крафтер пакетов) — сохраняется позиция и направление.</li>\n<li>Нажмите ПКМ по Беспроводному поставщику упаковки ME — добавляет эту цель в список связей.</li>\n<li>Повторите для остальных машин (1 провайдер → N целей, работа по кругу).</li>\n<li>Нажмите ПКМ по провайдеру с <strong>непривязанным</strong> коннектором, чтобы вывести в чат список связанных координат.</li>\n<li><strong>Shift + ПКМ</strong> по беспроводному провайдеру с коннектором, чтобы очистить <strong>все</strong> связи.</li>\n<li>Shift + ПКМ по воздуху, чтобы снять временную привязку с предмета-коннектора.</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

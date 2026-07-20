@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7378e04a191088c7",
+  "content": "\n\n# **容器預覽 [儲存提示]**\n\n容器預覽是一款輕量且高度相容的便利性（QoL）模組，可直接在工具提示中顯示容器物品的內容。作為 Shulker Peek 的官方繼承者，本模組確保您不再需要放置幽靈盒子、背包或包裹來查看內部物品，即可即時預覽！\n\n\n\n## **✨ 核心功能**\n\n廣泛的儲存模組支援：開箱即用，完美支援您喜愛的自訂背包、包裹、幽靈盒替代品、EChesT 及其他擴展儲存模組！\n\n直接工具提示預覽：在標準懸停工具提示中，無縫即時查看任何容器物品的精確內容。\n\n巢狀預覽：深入探索！完整支援查看儲存在其他容器內的容器物品內容。\n\n詳細與鎖定模式：進階檢查模式允許您將工具提示固定在原地，並在不受 UI 干擾的情況下查看詳細的物品資訊。\n\n可自訂版面配置：透過完整的網格支援以及靈活、簡潔的版面配置選項，客製化您的瀏覽體驗。\n\n多載入器原生支援：統一但原生。模組能無縫處理引導、註冊及平台特定整合，全面支援所有主流模組載入器！\n\n伺服器支援：與 Shulker Peek 不同，它現在完全支援伺服器。您可以查看賣家的名稱、價格和到期時間。請注意，這仍是客戶端模組，但能與伺服器進行互動（這意味著它並非伺服器端模組，僅在安裝於客戶端時生效）。 \n\n## **⚙️ 相容性與依賴項**\n\n容器預覽旨在成為真正的多載入器專案，為所有主流模組載入器提供原生檔案。請務必前往「Files」標籤頁下載對應您所用載入器的正確檔案！\n\nFabric 使用者：需要 Fabric API。為了方便使用遊戲內設定選單，我們強烈建議搭配安裝 Mod Menu 以及可選的 YetAnotherConfigLib (YACL)。\n\n其他載入器：即插即用！原生整合意味著除了載入器本身外，無需任何其他外部模組依賴。\n\n加入 Discord 社群以獲取更多有趣的更新、抢先看資訊以及提交錯誤回報！\n\n<div>\n  <a href=\"https://discord.gg/HHtY2VThzt\">\n    <img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hhaHliMmNsazh2dXh3aXVlc2xtbTQ0M2Y5cWs3N3VncmtmeTNndyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/G9iNGjpV4sD4O6o778/giphy.gif\" width=\"150\" alt=\"加入我們的 Discord\">\n  </a>\n</div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

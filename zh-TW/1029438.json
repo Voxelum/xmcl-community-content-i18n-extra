@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ca53395998950f2e",
+  "content": "\n\n<h1><strong><span style=\"color:#e67e23\">概述</span></strong></h1>\n<p>WATERMeDIA: Binaries 是一個獨立的 JAR 檔案，將所有 VLC 與 FFMPEG 的二進制檔整合在同一個胖 JAR（fat jar）中。這能有效減輕 CurseForge 平台對龐大 JAR 檔案的負擔，讓 mod 能夠更快更新，且無須擔心檔案大小問題。</p>\n<p>&nbsp;</p>\n<h1><strong><span style=\"color:#e67e23\">運作原理</span></strong></h1>\n<p>此 JAR 檔案包含了被視為「mod」所需的所有內容。在載入階段，它會將自身的 ClassLoader 附加至 WATERMeDIA API，以執行掃描並從中提取二進制檔。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

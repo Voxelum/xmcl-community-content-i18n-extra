@@ -1,6 +1,6 @@
 {
-  "bodyHash": "n8NDYMqYlIk=",
-  "content": "<p>這個附加模組為《Iron's Spells and Spellbooks》中每個魔法學派新增了專屬技能樹。你可以同時提升這些學派技能樹與<a href=\"https://www.curseforge.com/minecraft/mc-mods/unofficial-irons-spells-n-spellbooks-skill-tree\" target=\"_blank\" rel=\"nofollow\">「主技能樹」</a>的等級。所有法術都會貢獻給主技能樹，但只會給予所屬學派的經驗值。舉例來說，當你使用火球術時，會同時獲得主魔法樹和火系學派樹的經驗值，但不會獲得冰系學派樹的經驗值。</p><p>本模組提供兩種版本：普通版當你點滿技能樹時會獲得該魔法學派30%的威力加成；強化版則提供90%的加成。如果你已經使用某個版本但想切換，可以直接下載另一個版本（注意同時只能安裝一個版本），你的技能樹進度將會保留，只有最終加成效應會改變。</p><p>&nbsp;</p><p>歡迎自由運用此模組：收錄在你的模組包中、修改後重新上傳自己的版本...隨便啦！</p>",
+  "bodyHash": "30947f9fc9e148ce",
+  "content": "\n\n<p>這個附加模組為 Iron's Spells and Spellbooks 中現有的每一個魔法學派都新增了一棵技能樹。你可以與<a href=\"https://www.curseforge.com/minecraft/mc-mods/unofficial-irons-spells-n-spellbooks-skill-tree\" target=\"_blank\" rel=\"nofollow\">「主技能樹」</a>同步升級。所有法術都會讓主技能樹獲得經驗值，但只會為對應學派的技能樹提供經驗值。舉例來說，如果你使用火球術，你會獲得主魔法技能樹與火焰學派技能樹的經驗值，但不會獲得冰霜學派技能樹的經驗值<br>本模組有兩個版本：普通版在點滿樹上所有技能後，會為你提供該魔法學派法術威力 30% 的加成；而超強版（OP）在點滿所有技能後則提供 90% 的加成。如果你從某個版本開始遊玩但不喜歡，可以下載另一個版本（但請務必確保同時只安裝一個版本）。你將保留原有的技能樹進度，唯一改變的就是所獲得的加成數值。</p>\n<p>&nbsp;</p>\n<p>歡迎隨意使用此模組，可以將其放入你的整合包中、修改它並重新上傳你自己的版本，愛怎麼做都行 lol</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

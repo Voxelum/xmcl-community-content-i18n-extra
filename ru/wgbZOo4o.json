@@ -1,6 +1,6 @@
 {
-  "bodyHash": "XUocU6+wSlw=",
-  "content": "Это простой небольшой модпак с модами, рекомендованными для использования вместе с датапаком Legendary Dungeons. Важно отметить, что мод Fight or Flight Reborn настроен должным образом, чтобы обеспечить правильный тип агрессии для вражеских покемонов, которые появляются. (Чтобы сделать это вручную, измените значение \"do_pokemon_attack_unprovoked\" на true в файле fightorflight.json5.)\n\nЯ призываю всех добавлять к Legendary Dungeons любые дополнительные датапаки или моды — здесь представлены лишь базовые, минимальные компоненты.\n\n- Если вы не знаете, как установить AllTheMons x MegaShowdown, ознакомьтесь с инструкциями на странице их датапака на Modrinth: https://modrinth.com/datapack/allthemons-x-mega-showdown-legacy",
+  "bodyHash": "b223ad6fefc06d6e",
+  "content": "\n\nЭто простой модпак с модами, которые рекомендуется использовать вместе с датапаком Legendary Dungeons. Важно отметить, что мод Fight or Flight Reborn настроен должным образом, чтобы обеспечивать правильный тип агрессии у появляющихся враждебных покемонов. (Чтобы сделать это вручную, измените \"do_pokemon_attack_unprovoked\" на true в файле fightorflight.json5)\n\nЯ рекомендую добавлять любые дополнительные датапаки или моды вместе с Legendary Dungeons, так как это лишь базовый набор.\n\n- Тем, кто не знает, как установить AllTheMons x MegaShowdown, пожалуйста, посетите страницу этого датапака на Modrinth для получения инструкций. https://modrinth.com/datapack/allthemons-x-mega-showdown-legacy",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

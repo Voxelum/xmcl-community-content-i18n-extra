@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2c701b124db16fb1",
+  "content": "<p>Оригинальный мод <a href=\"https://www.curseforge.com/minecraft/mc-mods/backpack-baubles\" target=\"_blank\" rel=\"nofollow\">Backpack Baubles</a> от <a href=\"https://github.com/ChloeDawn\" target=\"_blank\" rel=\"nofollow\">ChloeDawn</a></p>\n<p>Этот порт для Cleanroom Loader устраняет конфликт между <a href=\"https://www.curseforge.com/minecraft/mc-mods/backpack-baubles\" target=\"_blank\" rel=\"nofollow\">Backpack Baubles</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/bubbles-a-baubles-fork\" target=\"_blank\" rel=\"nofollow\">Bubbles</a><br>В исходном коде не было внесено много существенных изменений, но я подготовил этот порт, так как считал это необходимым</p>\n<p><strong>Отличия от оригинального мода:</strong><br>- Теперь он больше не генерирует файл coremod<br>- Исправлен специфичный краш, возникавший при открытии инвентаря выживания с использованием мода Bubbles вместо Baubles</p>\n<p>&nbsp;</p>\n<h1><a href=\"https://www.curseforge.com/linkout?remoteUrl=https://cleanroommc.com/\" target=\"_blank\" rel=\"nofollow\"><strong>Требуется Cleanroom!!</strong></a></h1>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

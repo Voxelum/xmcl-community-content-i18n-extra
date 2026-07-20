@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6863ef712e097ba4",
+  "content": "# 原版按键管理器\n[![许可证](https://img.shields.io/github/license/Fallen-Breath/fabric-mod-template.svg)](http://www.gnu.org/licenses/lgpl-3.0.html)\n[![工作流](https://github.com/sakura-ryoko/vkm/actions/workflows/gradle.yml/badge.svg)](https://github.com/sakura-ryoko/vkm/actions/workflows/gradle.yml)\n\n使用此插件，MaLiLib 的按键设置将显示与原版按键的不兼容之处，若存在冲突，你可以编辑原版按键。\n\n厌倦了修复来自不同按键系统的按键冲突了吗？这是你的解决方案。\n\n## 默认热键： ~~O + C~~ `[右中括号] + C`\n\n\n_（“O + C” 原版与 26.2 版的 “好友屏幕” 热键冲突）_\n\n![默认热键](https://github.com/sakura-ryoko/vkm/blob/multi/Default-Hotkey.png?raw=true)\n\n_或者从 1.21+ 版本开始，可选地通过 MaLiLib 配置切换器访问它。_\n\n![冲突热键](https://github.com/sakura-ryoko/vkm/blob/multi/Conflict-Hotkey.png?raw=true)\n\n_（否则会发生冲突的原版按键 ...）_\n\n[![加入 Sakura 的 RyokoCraft Discord 服务器](https://sakuraryoko.com/files/1398873/discord-300px.png)](https://discord.gg/ryokocraftmc)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

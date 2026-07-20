@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2201d62a5ced38d5",
+  "content": "\n\n<h1>Facet</h1>\n<p>Facet 是一款輕量級的客戶端 Fabric 模組，能在不更動資源包材質的前提下，讓方塊計數與距離測量更加直觀。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/thumbnails/1792/219/310/172/screenshota-jpeg.jpeg\" alt=\"螢幕截圖\"></p>\n<h2>功能特色</h2>\n<ul>\n<li>可開關的材質色方塊輪廓</li>\n<li>目標方塊的螢光輪廓（支援正常互動範圍外的目標）</li>\n<li>顯示 X、Z、Y 座標與總曼哈頓距離的 HUD 介面</li>\n<li>具色彩標示的曼哈頓路徑指示器</li>\n<li>可自訂輪廓透明度、寬度及目標方塊樣式</li>\n</ul>\n<h2>相容性</h2>\n<ul>\n<li>Minecraft 26.1 與 26.2</li>\n<li>Fabric Loader 0.19.3 以上版本</li>\n<li>Java 25 以上版本</li>\n<li>僅限客戶端；無需伺服器端安裝</li>\n</ul>\n<h2>相依模組</h2>\n<ul>\n<li>Fabric API — 必要</li>\n<li>Mod Menu — 選配，但強烈建議使用以便於遊戲內設定</li>\n</ul>\n<h2>安裝方式</h2>\n<ol>\n<li>安裝 Fabric Loader 與 Fabric API。</li>\n<li>下載與您的 Minecraft 版本相符的 Facet 檔案。</li>\n<li>將 JAR 檔案置入 <code>.minecraft/mods</code> 資料夾中。</li>\n<li>透過 Fabric 配置檔啟動 Minecraft。</li>\n</ol>\n<h2>相關連結</h2>\n<ul>\n<li>原始碼：<a href=\"https://github.com/johnbitcn/fabric-facet\" target=\"_blank\" rel=\"nofollow\">https://github.com/johnbitcn/fabric-facet</a></li>\n<li>問題回報：<a href=\"https://github.com/johnbitcn/fabric-facet/issues\" target=\"_blank\" rel=\"nofollow\">https://github.com/johnbitcn/fabric-facet/issues</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

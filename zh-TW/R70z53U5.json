@@ -1,0 +1,6 @@
+{
+  "bodyHash": "70616905c93f38df",
+  "content": "\n\n# 光速船\n\n[在 Modrinth 下載](https://modrinth.com/mod/lightspeed-boat)，或[贊助開發者](https://afdian.com/a/yezhiyi9670)如果你喜歡這個專案。\n\n超酷的快速移動方式，現已登陸 Minecraft™ Java 版！\n\n## 摘要\n\n光速船原本是基岩版中的一個 ~~BUG~~ 功能，船隻在半磚上時不會受到摩擦力。這使得玩家能夠利用流動的水將船加速到極高的速度。（注意：此功能現在已在基岩版中部分修復）\n\n此模組將該功能帶到了 Java 版。享受酷炫且可自動化的快速移動系統吧！\n\n![](https://github.com/yezhiyi9670/lightspeed-boat/raw/master/img/horizontal.png)\n\n上圖為一種可用的船隻加速設計。[在 Minecraft Wiki 上閱讀更多關於光速船的資訊](https://zh.minecraft.wiki/w/%E6%95%99%E7%A8%8B/%E5%85%89%E9%80%9F%E8%88%B9)。\n\n**警告：此模組必須同時存在於伺服器與客戶端，否則可能會發生伺服器與客戶端不同步的問題。**\n\n注意：預設情況下，模組內建保護機制，可防止速度超過 72.73m/s（藍冰速度）。\n\n## 詳細說明\n\n以下是此模組的運作原理。\n\n當船隻的速度大於 `lightspeedThershold` 2.4（單位為 m/s），且滿足以下任一條件時，船隻將進入光速狀態：\n\n- 船隻的 Y 座標減去其向下取整後的值介於 `slabHeightMin` 0.4999 與 `slabHeightMax` 0.5241 之間。船隻必須處於 IN_WATER 或 ON_LAND 狀態。船隻所處的方塊不能是水或氣泡柱。（這表示船隻必須位於半磚上）\n- 船隻的碰撞箱 maxY 為整數值，且船隻的 Y 方向速度接近零。（這需要使用靈魂沙氣泡柱與陷阱門）\n\n若啟用 `requireLevitating`，則第一個條件將會失效。\n\n在光速狀態下：\n\n- 阻力（水平速度衰減）會恆定為 `lightspeedDrag` 0，除非速度超過 `maxLightspeed` 72.73。\n- 若 `allowPlayerDrive` 為 false，玩家將無法駕駛船隻，但仍可轉向它。\n- 若 `allowPlayerTurn` 為 false，玩家將無法轉向船隻。\n\n可透過編輯 `config/lightspeedboat-common.json` 檔案來自訂這些數值。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

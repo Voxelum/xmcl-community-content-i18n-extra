@@ -1,0 +1,6 @@
+{
+  "bodyHash": "07cb966e40e7343a",
+  "content": "\n\nFluidSystem 允许你建造任意形状的多方块储罐，最多可由 400 个方块组成。  \n这些储罐的容量极高，能够储存海量液体，数量简直惊人。  \n此外，系统还提供了一套管道网络，可实现液体的瞬时大规模输送。  \n如需获得连接纹理效果，建议安装 ConnectedTexturesMod 模组。\n\n## 储罐\n你可以建造任意尺寸的储罐，只要每个储罐都配备了一个控制器。  \n若要将液体注入储罐，必须放置“Tank Block Input”。  \n若需实现液体的极速输送，请搭配管道与“output pipe”和“input pipe”使用。  \n请注意，需要施加红石信号才能启用液体输送功能。  \n部分示例请参阅配图。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

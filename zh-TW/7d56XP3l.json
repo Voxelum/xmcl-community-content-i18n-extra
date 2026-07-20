@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qMM9AwIDAxo=",
-  "content": "# Raki Kazuki HUD & GUI 材質包\n\n這款 [Raki Kazuki](https://www.youtube.com/@RakiKazuki) 資源包是由 [Jellis（我）](https://x.com/Jellis_X) 製作的**非官方**且為**粉絲創作**的 PixelLink 專案，旨在改造大部分（甚至全部）圖形介面！本模組以這隻浣熊魔女為主題，充滿了她的魔幻美學！\n\n除了主選單背景之外，我所有內容都是從零開始繪製的。\n\n# 安裝指南\n\n從本專案頁面選擇版本後，您會獲得一個 ``.zip`` 檔案。**請勿解壓縮**。請前往遊戲的 _resource packs_ 資料夾，路徑如下：\n\n**[ESC] →「選項...」→「資源包...」→「打開資源包資料夾...」**\n\n此操作會開啟檔案總管中的資料夾。接著將 ``PXL_RAKI_x.xx.zip`` 檔案拖曳進去，畫面上應會出現以下結果：\n\n![將下載的資源包拖曳進去後](https://cdn.modrinth.com/data/cached_images/51122919e780a8b386af30f1a56c8596f567ffb1.png)\n\n將滑鼠游標移至材質包圖示上，點擊**箭頭**，然後按下「完成」以啟用模組包。這樣就完成了，恭喜！\n\n這是將資源包套用到遊戲中的標準方式，無需其他**額外需求**即可正常運作。\n\n# 致謝名單\n\n### 設計靈感來源\nRaki Kazuki（[YouTube](https://www.youtube.com/@RakiKazuki)）\n\n### 主選單背景渲染\nDarrick966（[X（推特）](https://x.com/Darrick966)）",
+  "bodyHash": "7d1815a73a97ccb9",
+  "content": "\n\n# Raki Kazuki HUD 與 GUI 包\n此 [Raki Kazuki](https://www.youtube.com/@RakiKazuki) 資源包為非官方且由粉絲製作的 PixelLink 計畫，由 [Jellis（我）](https://x.com/Jellis_X) 製作，全面翻新了大多數甚至所有的圖形介面！它以這位浣熊女巫及其所有女巫風格的美學為主題！\n\n我的所有作品皆完全從頭開始製作（主選單背景除外）。 \n\n# 安裝指南\n在本專案頁面選擇版本後，您會得到一個 ``.zip`` 檔案。請不要解壓縮。前往您的 _資源包_ 資料夾，您可以在設定中透過以下路徑找到：\n\n**[ESC] -> 「選項...」->「資源包...」->「開啟資料夾...」**\n\n這應該會在檔案總管中開啟一個資料夾。將您的 ``PXL_RAKI_x.xx.zip`` 檔案拖曳進去後，您的畫面應該會如下所示：\n\n![拖入下載的資源包後](https://cdn.modrinth.com/data/cached_images/51122919e780a8b386af30f1a56c8596f567ffb1.png)\n\n將游標移至資源包圖示上並點擊 **箭頭**，然後點擊「完成」以啟用該資源包。這樣就完成了，恭喜！\n\n這是將資源包套用至遊戲的標準方式。運行此資源包不需要其他任何 _需求_。 \n\n# 鳴謝\n### 設計靈感\nRaki Kazuki（[YouTube](https://www.youtube.com/@RakiKazuki)）\n\n### 主選單背景渲染\nDarrick966（[X](https://x.com/Darrick966)）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

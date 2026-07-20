@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d58be3fc463ffca6",
+  "content": "\n\n這是一個同時支援 [Eternal Battletowers](https://modrinth.com/datapack/eternal-battletowers) 與 [Boss Checklist](https://modrinth.com/mod/boss-checklist) 的附加模組，會將前者的「塔樓守護者」首領整合至後者的首領清單介面中，作為一個獨立條目。\n\n**你是怎麼讓它運作的？Eternal Battletowers 本身是一個包裝成模組的資料包！**\n首先，此模組加入了一個虛構且無法生成的替代實體，作為你所見首領清單條目的基礎。一旦系統偵測到玩家已達成「擊敗塔樓守護者」對應的進度，該首領的條目便會自動標記為已擊敗。\n\n**為什麼這個沒有跟你的其他 Boss Checklist 附加模組一起打包？**\n此模組使用了上述由自身新增的虛構實體。因此，無論你是否實際安裝了 Keebsz's Battle Towers 模組，「塔樓守護者」的首領條目都會正常顯示。這樣可以避免模組包出現問題：玩家好奇地四處尋找「塔樓守護者」，結果後來才發現，他們根本連原本應該支援該首領的模組都沒有安裝。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

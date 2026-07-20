@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3853d18686d6e6d4",
+  "content": "\n\n一款輕量級的縮放模組，只需按下單一按鍵即可放大畫面——簡潔實用，絕無冗餘功能。\n\n## 使用方法\n- 按下 **Q** 鍵進行放大 *(可在「控制」>「鍵位設定」中重新綁定)*\n- `*New` 放大時滑動滑鼠滾輪可進一步放大或縮小 *(若已啟用「滾輪縮放」功能)*\n\n### 選單選項\n- `*New` 設定 **選單快捷鍵** 以開啟「設定畫面」。 \n- 使用斜線指令開啟選單：`/zoom menu`\n- 開啟 **模組選單** 自訂所有設定選項\n\n## 設定選項\n\n**縮放過渡動畫** - 平滑或即時\n\n**電影鏡頭模式** - 飄逸平滑或即時切換\n\n`*New` **滾輪縮放** - 按住縮放鍵並滾動滑鼠滾輪可進一步放大。 \n*_內建相對滑鼠靈敏度調整，放大倍率越高靈敏度越低，避免高倍率下鏡頭亂晃（啟用電影鏡頭模式時將跳過此功能）_*\n\n`*New` **縮放時隱藏快捷欄** - 切換放大時是否顯示快捷欄。\n\n`*New` **縮放時視野晃動** - 切換放大時是否保持視野晃動效果，此設定獨立於一般移動晃動設定。\n\n**望遠鏡遮罩** - 放大時顯示經典瞄準鏡視覺效果\n\n**遮罩風格** - 拉伸式或帶框式\n\n**遮罩視角** - 僅第一人稱或全視角\n\n**望遠鏡音效** - 放大與取消放大時播放望遠鏡使用音效\n\n## 指令\n以下所有指令在未帶參數執行時會切換狀態，或可指定明確值：\n- `/zoom transition [smooth|instant]`\n- `/zoom cinematic [on|off]`\n- `/zoom scroll [on|off]` - 滾輪縮放\n- `/zoom bobbing [on|off]` - 縮放時視野晃動\n- `/zoom spyglass [on|off]` - 望遠鏡遮罩\n- `/zoom style [stretched|framed]`\n- `/zoom perspective [first|all]`\n- `/zoom sound [on|off]`\n- `/zoom menu` - 開啟設定畫面\n- `/zoom reset` - 重置所有設定為預設值\n- `/zoom settings` - 在聊天視窗列印所有當前設定\n\n## 開發人員\n由 Chapman 開發",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

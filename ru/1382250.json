@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80cfdaee6ce77e2b",
+  "content": "\n\n<h1>Настраиваемое отображаемое имя</h1>\n<p>Простой клиентский мод, позволяющий локально переименовывать себя и других игроков.</p>\n<p>Вы также можете украшать имена с помощью тегов, например <code>&amp;lt;#ffffff&amp;gt;&amp;lt;bold&amp;gt;Custom &amp;lt;#ffff00&amp;gt;Displayname</code>.</p>\n<p>Поддерживаемые теги:</p>\n<ul>\n<li><strong>жирный</strong></li>\n<li><strong>курсив</strong></li>\n<li><strong>подчёркнутый</strong></li>\n<li><strong>зачёркнутый</strong></li>\n<li><strong>мерцающий</strong></li>\n<li><strong>сброс</strong></li>\n<li><strong>hex</strong> (например, <code>&amp;lt;#ff0000&amp;gt;</code>)</li>\n</ul>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/52003c86a32524e87a07d5b0058560b65911d244_0.webp\" alt=\"Скриншот, на котором отображаемое имя игрока изменено на «Кастомизированное имя».\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "40ff486aa423a4e6",
+  "content": "\n\n<p><span style=\"font-size:24px\">О моде</span></p>\n<p>Fabric Chunk Pregenerator — это мод для Fabric, позволяющий заранее генерировать чанки для вашего сервера или одиночной игры. Требуется Fabric API!</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:24px\">Команды</span></p>\n<p>/pregen start &lt;радиус&gt; - Начинает предварительную генерацию в квадрате со стороной &lt;радиус&gt; чанков. Одновременно может выполняться только один процесс.</p>\n<p>/pregen stop - Останавливает предварительную генерацию и показывает количество завершённых чанков.</p>\n<p>/pregen status - Показывает количество предварительно сгенерированных чанков.</p>\n<p>/pregen help - Показывает сообщение с помощью.</p>\n<p>&nbsp;</p>\n<p>Обратите внимание, что предварительная генерация создаёт квадрат, где радиус отсчитывается от центра во все стороны! Использование значения 10 в качестве радиуса создаст область размером 20x20 чанков.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:24px\">Сервер Discord</span></p>\n<p><a href=\"https://discord.gg/EwQmvQtshV\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/EwQmvQtshV</a></p>\n<p>Присоединяйтесь, чтобы получить помощь по Fabric Chunk Pregenerator!</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

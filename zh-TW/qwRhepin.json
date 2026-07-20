@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be446bf028b62e1d",
+  "content": "\n\n# 剪刀的「搶奪」附魔\n允許將「搶奪」附魔套用於剪刀，在剪除綿羊、哞菇和沼骸等生物時增加掉落物數量。\n\n### PurpurPacks\nPurpurPacks 是玩家建議加入 [Purpur](https://purpurmc.org/) 伺服器軟體的功能，或是符合 Purpur 主題的設計，但經過評估後認為以資料包形式實作會更合適！\n\n每個資料包的運作方式，就如同在 Purpur 中調整單一設定一樣。您可以隨時新增或移除這些資料包，且不會對伺服器造成任何損壞。\n\n這些資料包並不依賴 Purpur；它們在原版 Minecraft 或其他任何伺服器軟體上都能正常運作。\n\n### ℹ 使用新版附魔系統 ℹ\n本資料包採用新版附魔系統，在 Mojang 官方確認該功能穩定之前，可能需要經常更新以維持正常運作。\n\n### 安裝方式 (Fabric/Forge/Quilt)：\n這些模組的運作方式與資料包相同，但會自動套用至所有已安裝此模組所建立或啟用的世界。若您不希望影響所有世界，請改用資料包。\n\n**Forge**：\n無需額外依賴，只需將模組放入「mods」資料夾即可。\n\n**Fabric**：\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**Quilt**：\n需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9998feb9e66bf5b2",
+  "content": "\n\n![「DaysPlayed」模組的螢幕截圖。](https://cdn.modrinth.com/data/cached_images/996202b83ba462fe2b497b29b8aeed19897cbb40.png)\n\n**DaysPlayed** 是一款針對 Fabric 推出的簡易模組，會顯示您在遊戲中已遊玩的天數，功能與《我的世界》Bedrock 版相同。\n\n安裝後，自世界建立以來經過的《我的世界》天數便會顯示在您的畫面上。隨著時間流逝，數字會自動更新。\n\n這對於追蹤長期生存世界或極限生存遊程的進度非常實用。\n\n### 需求\n- Fabric Loader\n- Fabric API\n\n必須安裝 Fabric API 才能使此模組正常運作。\n\n### 翻譯\n我們正致力於增加更多語言的支持。\n\n若您願意協助翻譯此模組，請前往 GitHub 並提交您的翻譯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

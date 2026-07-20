@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5bc6583434351f1",
+  "content": "<h1>Rollable</h1>\n<p>Это визуальная форк-версия модов <a href=\"https://github.com/enjarai/do-a-barrel-roll\" target=\"_blank\" rel=\"nofollow\">Do a Barrel Roll</a>\nи <a href=\"https://github.com/enjarai/rolling-down-in-the-deep\" target=\"_blank\" rel=\"nofollow\">Rolling Down in the Deep</a>. Модификация переведена исключительно на клиентскую сторону,\nоптимизирован графический интерфейс и логика полёта.</p>\n<p>Настройки можно изменить через меню мода или с помощью горячей клавиши <code>open config</code>.</p>\n<p>Версии для Minecraft 1.16.5 будут портированы после полного тестирования.</p>\n<h2>Возможности</h2>\n<ul>\n<li>Элитры теперь ведут себя как крылья самолёта.</li>\n<li>Плавание с возможностью свободного обзора.</li>\n<li>Все игроки видят одинаковую конфигурацию в вашем поле зрения.</li>\n<li>Полностью клиентский мод! Другие игроки будут видеть вас как обычного игрока без установленного мода.</li>\n<li>События для разработчиков, позволяющие регистрировать собственные конфигурации.</li>\n</ul>\n<h2>Совместимость</h2>\n<p>Мод интегрирован и поддерживает <code>Camera Overhaul</code>, <code>Controlity</code> и <code>Flight Assistant</code>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

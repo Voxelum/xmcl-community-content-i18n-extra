@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bdc8969810522f7c",
+  "content": "\n\n# Bigger Stacks（非官方）\n\n基於 NeoForge 1.21.1 的衍生版本，可大幅提升幾乎所有物品的堆疊數量。全域上限設於 `biggerstacks-rules.xml`，而單一覆蓋規則（如不死图腾、藥水、附魔書等）則記載於 `biggerstacks-template-overrides.json`。\n\n## 使用方式\n\n1. 將 `.jar` 檔案放入客戶端與伺服器的 `mods/` 資料夾中。\n2. 在遊戲內執行 `/biggerstacks quicksetup` 以微調三個預設類別，或若您偏好純 XML 格式，可手動編輯 `run/config/biggerstacks-rules.xml`。\n3. 若要讓通常無法堆疊的物品（如不死图腾、自訂物品、物品標籤）得以堆疊，請於 `biggerstacks-template-overrides.json` 內新增對應條目。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

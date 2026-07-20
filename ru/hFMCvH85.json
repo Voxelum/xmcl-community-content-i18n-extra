@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac1f61939f8fc031",
+  "content": "\n\n[![Сервер Discord](https://img.shields.io/discord/1007349372444491856.svg?logo=Discord&colorB=7289da)](https://discord.gg/uXWsRftdy7)\n[![Загрузки CurseForge](http://cf.way2muchnoise.eu/short_344996_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/edit-sign)\n[![Загрузки Modrinth](https://img.shields.io/modrinth/dt/editsign?logo=Modrinth)](https://modrinth.com/mod/editsign)\n\nПозволяет редактировать таблички, не ломая их. Просто нажмите правую кнопку мыши по табличке, чтобы отредактировать её. Если вы не хотите этого делать, используйте приседание при взаимодействии.\n\n**Проект прекращён начиная с Minecraft 1.20, так как функция уже встроена в игру по умолчанию**\n\n---\n\n* Для пользователей Fabric требуется **Fabric API**.\n* Для пользователей Forge **Cloth Config API** является опциональным на стороне клиента и позволяет открывать интерфейс конфигурации прямо в игре.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

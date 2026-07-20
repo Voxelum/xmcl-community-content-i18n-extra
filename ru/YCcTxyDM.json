@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3ba66f1fb8f4d022",
+  "content": "\n\n## **Обзор**  \nPlayer Ladder добавляет возможность кататься на других игроках или поднимать их простым нажатием правой кнопки мыши. \n\n### **Дополнительные возможности**  \n- Расширяет команду `/ride`, поддерживая посадку сущностей сверху на игроков.\n- Включает функционал [Pick Up Me](https://modrinth.com/mod/pickup-me) (в конфигурации необходимо переключить `rightClickMode` в **PICK_UP**).\n- При установке на клиенте позволяет взаимодействовать с миром, пока на вас находится сущность.<br>\n- Позволяет поднимать/кататься на любых живых сущностях (отключено по умолчанию)\n\nПоддерживается только последняя версия **Minecraft**.\n\nТребуется [FConfigLib](https://modrinth.com/mod/fconfiglib), если вы используете Fabric. <br>\nКонфигурацию можно редактировать через графический интерфейс, если установлены **Cloth Config API** и **Mod Menu**.\n\n### **Похожие моды/аддоны**\n* [Sit On Player](https://www.curseforge.com/minecraft-bedrock/scripts/sit-on-player-unofficial-bedrock-port-of-player) от Zepaii для Minecraft Bedrock Edition",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

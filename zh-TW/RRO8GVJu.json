@@ -1,0 +1,6 @@
+{
+  "bodyHash": "329ae83510daf645",
+  "content": "\n\nEnchanting With TFC 是一款 TFC 附加模組，擴充了 TFC 中的附魔系統。\n\n本模組新增了附魔台的合成配方以及數種新的附魔。\n\nEnchanting With TFC 新增以下附魔：\n- 穿刺保護 => 降低穿刺傷害的影響（可與其他保護類附魔疊加）。\n- 斬擊保護 => 降低斬擊傷害的影響（可與其他保護類附魔疊加）。\n- 壓碎保護 => 降低壓碎傷害的影響（可與其他保護類附魔疊加）。\n- 緩慢特性 => 減慢目標速度。\n- 狩獵 => 增加對掠食者的傷害（可與銳利度疊加）。\n\n要開始使用，你需要取得原版黑曜石，可以使用熟鐵鎬或更高階的鎬來開採。\n\n附魔台的合成需要熟鐵片、紅色羊毛和一本書。\n\n![Enchanting Table Recipe](https://raw.githubusercontent.com/Mrthomas20121-Mods/EnchantingWithTFC/master/EnchantingTableRecipe.png)\n\n由於 TFC 移除了書架的合成配方，你需要使用 TFC 的雕花書架並放上書籍。每 6 本書提供 3 點附魔力，只需 6 個擺滿書籍的雕花書架即可達到 30 級。\n\n在附魔台合成中，寶石塵粉（如紫水晶、蛋白石等）將取代青金石。\n\n[![Kinecic Hosting banner](https://raw.githubusercontent.com/Mrthomas20121/Branding/master/KineticHosting.png) ](https://billing.kinetichosting.net/aff.php?aff=540)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ezJr0VtN0Sc=",
-  "content": "<p>一款半写实风格的水流运动模组，对性能影响极低。</p><p>水具有有限性：若下方存在空间，水源会向下流动；若上方有水且目标位置存在流动水体，水源会向侧面移动；斜向流动遵循相同规则。</p><p>&nbsp;</p><p><img src=\"https://imgur.com/Qc2ysCv\" alt=\"水流示意图\"></p><p>&nbsp;<img src=\"https://cdn.discordapp.com/attachments/400699000237326338/1053739869362454648/theoutput.gif\" alt=\"动态演示\"></p><p>&nbsp;</p><p>设置指令：&nbsp;/gamerule waterSourceConversion false</p>",
+  "bodyHash": "9ca7b833826bb820",
+  "content": "\n\n<p>一款对性能影响较小的半写实水流移动模组。</p>\n<p>水源数量有限。若下方有空位，水源会向下移动；若上方有水且目标方块为流动水，则向侧方移动；对角线移动亦遵循相同规则。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://imgur.com/Qc2ysCv\" alt=\"\"></p>\n<p>&nbsp;<img src=\"https://cdn.discordapp.com/attachments/400699000237326338/1053739869362454648/theoutput.gif\"></p>\n<p>&nbsp;</p>\n<p>设置：&nbsp;/gamerule waterSourceConversion false</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ce727a9fecb22f6",
+  "content": "\n\n## ⚔️ 王者之劍：Avaritia 重生與超越\n大家好，我是 Xilombo，你們剛剛找到了能夠終結一切終局玩法的終極內容。\n\n這個模組不僅僅是簡單堆砌「超強」裝備的集合——它是力量的絕對權威。我將原版 Avaritia（1.7.10）完整移植到了現代版 Minecraft 中，但本模組的璀璨明珠是《王者之劍》。\n\n<details>\n<summary>👑 王者之劍</summary>\n\n**強制死亡機制**：運用先進的 CoreMod（ASM）技術，這把劍直接鎖定實體的核心狀態（isAlive、getHealth、isDeadOrDying）。\n\n**無視一切防禦**：它完全不在乎「無限生命」、「無敵」或「傷害抵消」。只要命中，實體就會直接消失。\n\n**寰宇之力**：擁有華麗的 RGB 動態懸停提示與自訂攻擊邏輯，它是模組開發歷史上最強大的武器。\n</details>\n\n\n<details>\n<summary>💎 還有哪些內容？</summary>\n  \n**經典 Avaritia 移植版**：搭配原始材質與機制，重溫 1.7.10 版本的輝煌，现已完全相容 1.20.1。\n\n**強化版 Avaritia 套裝**：Infinity 盔甲的改版版本。即便已經實作了 11 個防移除 Mixin，我仍不斷努力讓這套防禦更加堅不可摧。\n\n**核心模組（Coremod）**：我透過 ILaunchPluginService 修改了 getHealth、isAlive 和 isDeadOrDying 方法（getHealth 永遠返回 Float.POSITIVE_INFINITY，isAlive 永遠返回 true，isDeadOrDying 永遠返回 false）。\n\n**無懈可擊的防禦**：這套裝備專為抵禦市面上最「破壞平衡」的模組而設計。\n</details>\n\n\n\n### 🚀 為什麼要選擇這個模組？\n如果你懷念在 Minecraft 中成為真正神明的感覺，你的尋找到此為止。無論你是想要經典的懷舊體驗，還是《王者之劍》全新「強化」的現實，這個模組都能讓你以霸氣十足的姿態體驗絕對的支配力。\n\n## 我的裝備能擊敗哪些模組？\n本模組壓制 Omnimobs（Flashfur 製作的所有版本）、MoreAvaritia（wzz 製作的所有版本）以及 ArcaneVortex（TwoQian 製作的所有版本）。不過在多數遭遇戰中，它偶爾仍能戰勝 Pig2（kakiku2021 於 CurseForge 發布的版本）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

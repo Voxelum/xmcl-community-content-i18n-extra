@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71a5476d32a5ebba",
+  "content": "\n\n這是一個同時為 [Ultris: Boss Expansion](https://modrinth.com/datapack/ultris) 與 [Boss Checklist](https://modrinth.com/mod/boss-checklist) 設計的附加模組，會將前者的所有首領整合至後者的首領清單介面中作為條目。\n\n\n**「你是怎麼做到的？Ultris 可是以模組形式打包的數據包！」**\n首先，此模組會加入一些虛構且無法生成的替代實體，作為你所見首領清單條目的基礎。每個條目中「掉落物」分類顯示的自訂掉落物同樣是虛構且無法獲得的物品，專門用來模擬真實情況。一旦偵測到玩家獲取了擊敗對應首領所屬的進度，該條目就會自動標記為已擊敗。\n\n**「為什麼不把它和其他 Boss Checklist 附加模組打包在一起？」**\n此模組使用了上述由模組本身新增的虛構實體。因此，無論你是否實際安裝了 Ultris: Boss Expansion 模組，本模組新增的所有首領條目都會顯示。你肯定不希望模組整合包出現這種情況：玩家四處好奇地尋找「Sanctum Keeper」，結果後來才發現自己根本連那個聲稱支援該首領的模組都沒裝。\n\n\n\n\n\n\n\n_特別感謝 [Yori3o](https://modrinth.com/user/Yori3o) 聽進我的建議，終於在他們的模組中加入了數據包支援！<3_\n\n ͏\n\n### 用於代表首領掉落物品的所有貼圖均直接取自 Ultris: Boss Expansion，並非本人製作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "U7DNq+Kk0bg=",
-  "content": "<p>&nbsp;(<a href=\"https://github.com/TeamGalacticraft/DynamicDimensions\" rel=\"nofollow\">TeamGalacticraft/DynamicDimensions：用于在运行时添加和移除Minecraft维度的库。</a>)</p><p>&nbsp;</p><p>Dynamic Dimensions由TeamGalacticraft创建。本模组是Dynamic Dimensions的一个分支版本，为了在Advanced Rocketry 3.0中使用而进行了少量修改。</p><p>与原仓库相比，主要修改之处在于使用主世界等级数据，以便在不同维度上实现独立的昼夜循环和天气变化周期。</p>",
+  "bodyHash": "390db1d37bd02857",
+  "content": "\n\n<p>&nbsp;(<a href=\"https://github.com/TeamGalacticraft/DynamicDimensions\" rel=\"nofollow\">TeamGalacticraft/DynamicDimensions：用于在运行时便捷添加和移除 Minecraft 维度的库。</a>)</p>\n<p>&nbsp;</p>\n<p>Dynamic Dimensions 由 TeamGalacticraft 开发。本模组是其分支版本，经过少量修改以适配 Advanced Rocketry 3.0。</p>\n<p>与原版仓库的主要改动在于使用主世界存档数据，从而允许在不同维度设置独立的昼夜交替与天气周期。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

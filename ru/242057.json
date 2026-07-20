@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a4eaeca5786cacf",
+  "content": "\n\n<p>Это небольшой coremod для Minecraft 1.7.10, который заставляет крестьян проверять метаданные и NBT-данные предметов, которые они покупают. Проверка NBT отключена по умолчанию, но может быть включена в конфигурационном файле. Мод будет работать, даже если установлен только на сервере (результат появится у клиента, но его нельзя будет забрать из слота).</p>\n<p>Обновление этого мода до Minecraft 1.8.x не требуется, так как ошибка, исправляемая данным модом, была устранена Mojang в версии 1.8.1.</p>\n<p>С помощью команды <code>spawn</code> возможно создать крестьян (например, для магазинов) с проверкой или игнорированием сделок по NBT/метаданным (независимо от параметров конфигурации).</p>\n<p>Пример:</p>\n<p><code>/summon Villager ~1 ~ ~ {Profession:2,Career:1,Offers:{Recipes:[{buy:{id:277,Count:1},sell:{id:1,Count:64},checkMeta:0,checkNbt:0},{buy:{id:277,Count:1},sell:{id:1,Count:64},checkMeta:0,checkNbt:1},{buy:{id:277,Count:1},sell:{id:1,Count:64},checkMeta:1,checkNbt:0},{buy:{id:277,Count:1},sell:{id:1,Count:64},checkMeta:1,checkNbt:1}]}}</code></p>\n<p><br><code></code></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

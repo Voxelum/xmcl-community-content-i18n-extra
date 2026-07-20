@@ -1,0 +1,6 @@
+{
+  "bodyHash": "55735d8345346bbd",
+  "content": "\n\n![Header](https://cdn.modrinth.com/data/cached_images/2d429519ce263b5094c15779e6086a1af94feb10.png)\n《Isometric Renders》允許您拍攝等距視角的截圖，或更精確地說，是建立遊戲物件（如世界區域、方塊、物品與實體）的渲染圖。\n\n這些渲染圖會自動處理成透明背景，您可以在遊戲內精美的圖形介面中直接調整縮放比例、位置設定以及許多其他選項。\n\n本模組的設計初衷是方便用於模組維基或類似的文件紀錄，操作簡易且效能表現優異。\n\n詳細文件請參閱：https://docs.wispforest.io/isometric-renders/home\n***\n🌟 **目前支援的渲染目標** 🌟\n- 物品\n- 方塊\n- 實體\n- 世界區域\n- 批次匯出多個方塊或物品\n- 物品圖集（總覽）\n\n基本指令為 **/isorender**\n***\n![Area Render Showcase ](https://cdn.modrinth.com/data/cached_images/280b6f079657b44917e799637c6aa16d8b276974.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

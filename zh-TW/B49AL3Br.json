@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3fae077ebc4c661f",
+  "content": "\n\n# 自動隱藏快捷欄\n\n未使用時會自動隱藏 Minecraft 的 HUD，以保護 OLED 螢幕避免燒屏，並提供更極簡的使用體驗。\n\n_Note: This project is a fork of Alphayt's mod [OLED Saver](https://modrinth.com/mod/oled-saver) with extra features, support for NeoForge, and support for Minecraft 26.1+._ -> _注意：本專案為 Alphayt 的模組 [OLED Saver](https://modrinth.com/mod/oled-saver) 之分支版本，額外增加了功能、支援 NeoForge，以及支援 Minecraft 26.1+。_\n\n### **功能特色**\n\n* 同時支援 Fabric 與 NeoForge\n* 僅在切換快捷欄槽位時顯示快捷欄\n* 生命值條僅在血量改變或未滿時顯示\n* 飽食度條僅在飢餓值改變或未滿時顯示\n* 護甲條僅在護甲值改變時顯示\n* 經驗條與等級僅在經驗值改變時顯示\n* 騎乘跳躍／衝刺條僅在蓄力時顯示\n* 隱藏手持物品的提示資訊（預設關閉）\n* 在開啟物品欄時始終顯示統計資訊\n* 高度可自訂\n  * 設定是否隱藏手持物品的提示資訊\n  * 設定進入物品欄時，統計資訊是否以自訂文字疊加層顯示\n  * 設定 UI 元素在變更後顯示的持續時間\n  * 設定生命值或飽食度未滿時是否始終顯示\n  * 設定哪些 UI 元素應始終顯示\n  * 透過 MidnightLib 進行 GUI 設定（已隨模組內建）\n\n### **Fabric 依賴項目**\n* [Architectury API](https://modrinth.com/mod/architectury-api)\n* [Fabric API](https://modrinth.com/mod/fabric-api)\n\n### **NeoForge 依賴項目**\n* [Architectury API](https://modrinth.com/mod/architectury-api)\n\n---\n\n模組的 YouTube 示範影片：\n\n[![Video demonstration of the mod](https://img.youtube.com/vi/LG09eT5JVJQ/0.jpg)](https://www.youtube.com/watch?v=LG09eT5JVJQ)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

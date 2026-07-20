@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d6618dace374988e",
+  "content": "\n\n<p>Мод совместимости, устраняющий проблему между <a href=\"https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies\" target=\"_blank\" rel=\"nofollow\">VS2</a> и&nbsp;&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod\" target=\"_blank\" rel=\"nofollow\">Imersive Portal</a></p>\n<p>&nbsp;</p>\n<p>Тестирование проводилось на последней версии VS2 (2.3-beta12) и&nbsp;последней версии Imersive Portal для 1.20.1</p>\n<p>&nbsp;</p>\n<p>Поскольку мод вносит незначительные изменения&nbsp;во внутреннюю работу VS2, я не указал его как обязательную зависимость. Это означает, что он будет пытаться загрузиться независимо от версии VS2, поэтому один и тот же JAR-файл должен быть совместим с несколькими версиями VS.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

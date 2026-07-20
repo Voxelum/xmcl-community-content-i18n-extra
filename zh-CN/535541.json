@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9d2421da491a2622",
+  "content": "<p>Fabric 移植版模组 <a href=\"https://www.curseforge.com/minecraft/mc-mods/chalk\" rel=\"nofollow\">Chalk（粉笔）</a>，由 <a href=\"https://www.curseforge.com/members/mortuus_art\" rel=\"nofollow\">mortuus_art</a> 开发，并进行了一些添加和 1.17 版本的适配。非常感谢原作者创建原始的 Forge 版本并允许将 Chalk 移植到 Fabric！</p><h3><span style=\"font-size:18px\">添加粉笔以辅助你的挖矿之旅，从此不再迷路。</span></h3><p>使用粉笔，你可以标记每个完整方块（全方块）的表面。</p><p>击中方块的角落会创建一个指向该方向的箭头，击中中心则会创建一个“X”标记。</p><p>荧光粉笔的标记在完全黑暗中也能看见，非常适合洞穴探险！</p><p><img src=\"https://media.forgecdn.net/attachments/thumbnails/400/227/310/172/chalk.png\" alt=\"地下环境中的普通粉笔和荧光粉笔\" width=\"636\" height=\"380\"></p><h4>新增内容：</h4><ul><li>粉笔：通过无固定配方的合成方式制作，需要 2 块方解石（+染料）</li><li>荧光粉笔：通过无固定配方的合成方式制作，需要 2 块方解石和 1 个发光墨囊（+染料）</li></ul><h4>想要拥有彩虹般颜色的粉笔吗？</h4><p>=&gt; 请查看插件：<a href=\"https://www.curseforge.com/minecraft/mc-mods/chalk-fabric-colorful-addon\" rel=\"nofollow\">Chalk (Fabric): 彩色插件</a></p><p>（1.18.2 版本默认包含彩色粉笔）</p><h4>正在玩 <strong>Forge</strong> 版本？请查看原版：<a href=\"https://www.curseforge.com/minecraft/mc-mods/chalk\" rel=\"nofollow\">mortuus_art 开发的 Chalk</a>。</h4>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

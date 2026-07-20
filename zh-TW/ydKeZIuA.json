@@ -1,0 +1,6 @@
+{
+  "bodyHash": "974c7e5a4ba988f0",
+  "content": "\n\n# 足夠的 HUD Veltium \n![請在此處替換為描述文字](https://cdn.modrinth.com/data/cached_images/56455ba779e13a5d5d7ee80f927aa15a861952b3.png)\n\n## 主要功能\n\n**全新 HUD**，採用簡潔易讀的設計\n- FPS 計數器\n- 記憶體使用量監控\n- 座標顯示\n- Ping 值顯示\n- 即時顯示\n\n![預設設定](https://i.postimg.cc/dVSqczYj/2025-07-06-18-43-10-1.png)\n\n\n\n## 相依模組\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)\n\n## 選用模組\n- [Mod Menu](https://modrinth.com/mod/modmenu)\n- [Sodium](https://modrinth.com/mod/sodium)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

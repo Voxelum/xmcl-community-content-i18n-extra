@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a60e5cda357f29ef",
+  "content": "\n\n<p><strong>注意：我目前正在更新舊版本，以納入新的最佳化功能與解除限制。</strong></p>\n<h1>大型結構方塊</h1>\n<p>大型結構方塊將結構方塊的最大尺寸與角落搜尋半徑提升至 512 方塊。包圍框的渲染距離也增加至 256 方塊。</p>\n<p>簡而言之：</p>\n<ul>\n<li>將最大結構尺寸提升至 512 方塊。</li>\n<li>將結構包圍框的渲染距離提升至 256 方塊。</li>\n<li>最佳化角落搜尋演算法<ul>\n<li>保留結構方塊角落的快取，實現即時解析。</li></ul></li>\n<li>移除拼圖（Jigsaw）的深度限制。</li>\n<li>移除結構特徵／池的 128 方塊距離限制。</li>\n<li>為結構方塊物品新增創意模式物品分類。</li>\n</ul>\n<p>與原版需要數秒鐘（有時甚至會當機）相比，HSB 的角落搜尋能瞬間完成解析。這在允許玩家建立結構的建築伺服器上尤為實用。</p>\n<p><strong>範例</strong>\n<img src=\"https://www.convallyria.com/images/structureblocks/guildcastle.png\">\n<img src=\"https://www.convallyria.com/images/structureblocks/ui.png\"></p>\n<p><strong>錯誤、問題與疑問</strong></p>\n<p>如果您有任何疑問，歡迎加入我們的 Discord：<a href=\"https://discord.gg/fh62mxU\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/fh62mxU</a>。</p>\n<p>錯誤、問題及其他相關事項請回報至我們的問題追蹤器。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fW7W4KMMB4\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://storage.ko-fi.com/cdn/kofi3.png?v=3\" alt=\"在 ko-fi.com 贊助我\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

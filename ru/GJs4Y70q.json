@@ -1,0 +1,6 @@
+{
+  "bodyHash": "61e2061c951b55fa",
+  "content": "## Это простой мод, добавляющий рецепт для рун в мод [Quark](https://modrinth.com/mod/quark)\n![Рецепт](https://cdn.modrinth.com/data/cached_images/5d1852733ff56886e4d44ad457cd62d44ffa00c3.png)\n\n### Требует установки модов [Create](https://modrinth.com/mod/create) и [Quark](https://modrinth.com/mod/quark)\n# Порты\n- Fabric : Quark — это мод исключительно для Forge, поэтому, если они не перенесут его на Fabric, я также не смогу этого сделать.\n- Версии 1.19.2 и выше : Я буду переносить мод на версии старше 1.19.2 по мере возможности. Порт для 1.20.1 уже доступен, а другие промежуточные версии будут добавлены только по запросу через [комментарии на CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/create-quark-runes).\n- Версии до 1.19.2 : Я буду переносить мод на запрошенную версию, вы можете оставить запрос в своих [комментариях на CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/create-quark-runes).\n\n**Вы можете использовать этот мод в своих сборках, если он остается размещенным на CurseForge или Modrinth.**\n\nК сожалению, мне приходится отдельно заявить следующее: этот мод доступен **ТОЛЬКО на Modrinth или CurseForge**. Ни на других сайтах нет доверенных ссылок для загрузки этого мода.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

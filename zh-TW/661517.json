@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5004d5b61e8cca46",
+  "content": "\n\n<p>用於使用 Groovy 程式語言製作模組。透過注入 Groovy 函式庫運作，並提供 GMLLangProvider 以載入 @GMod 物件宣告。</p>\n<p>&nbsp;</p>\n<p>內建的 Groovy 模組：</p>\n<pre>stdlib, contracts, datetime, nio, macro, macro-library, templates, typecheckers, dateutil, ginq, toml, json.<br><br>對於模組開發者，請參閱專案的 README 文件以了解如何使用 GML。一般使用者只需將此模組安裝至 mods 資料夾即可。</pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "526fcaba00ce498b",
+  "content": "\n\n# Somber\n\n![黑暗霧氣森林](https://cdn.modrinth.com/data/cached_images/1f4ceb4028b46c0464070fa8c8a7b8500474832d_0.webp)\n\nSomber 是一款輕量化的着色器，旨在透過新增詭異效果，重現早期 Minecraft Beta/Alpha 版本的懷舊氛圍。\n\n**建議使用內建的 *Programmer Art* 材質包以恢復舊版紋理。**\n\n![點燃單支火把的黑暗霧氣森林](https://cdn.modrinth.com/data/cached_images/9d1937fe874f0c5f46d61710ae7541dcf405ad77_0.webp)\n\n## 效果\n\n大多數效果可在着色器的設定選單中開啟、關閉並進行自訂，包括：\n- 暗角\n- 暗角強度\n- 色差\n- 色差強度\n- 噪點\n- 噪點強度\n- 霧氣\n- 霧氣強度\n- 天空霧氣疊加\n- 水體透明度\n- 水體鮮豔度強度\n- 舊版植被鮮豔度\n- 植被鮮豔度強度\n- 星光亮度\n- 日月亮度\n\n此着色器也會像舊版本一樣強化陰影效果，加入隨深度變暗的動態霧氣，並移除頂層水體的透明度，使您無法看見水面下方的景象。\n\n![濃霧籠罩的森林](https://cdn.modrinth.com/data/cached_images/f12a0a1206228876b6d9d916f1f018a2fe238b9b_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

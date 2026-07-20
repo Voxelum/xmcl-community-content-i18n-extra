@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e044f365c762a22d",
+  "content": "\n\n<p>JourneyPAC 是一款 Minecraft 客戶端模組與 JourneyMap 外掛，用於顯示透過 OpenPAC 所宣告的地塊。<br>\n本專案靈感源自 <a href=\"https://www.curseforge.com/minecraft/mc-mods/journeymap-integration\" target=\"_blank\" rel=\"nofollow\">JourneyMap Integration</a>，該外掛同樣為 FTB 宣告系統提供此功能。</p>\n<h2>相依性</h2>\n<ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/journeymap-integration\" target=\"_blank\" rel=\"nofollow\">JourneyMap</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims\" target=\"_blank\" rel=\"nofollow\">Open Parties and Claims</a></li>\n<li>（1.1.7 版本之前，Fabric）<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\" target=\"_blank\" rel=\"nofollow\">Forge Config API Port</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "282202549661c10d",
+  "content": "\n\n# 抗水藥水\n\n一款適用於 Minecraft Fabric <sup>（及 NeoForge）</sup> 的模組，新增「抗水藥水」，提供「抗水」效果——可抵消非溺水類的水傷害。\n\n在原版遊戲中，賦予實體抗水效果的唯一用途是讓原本會受到水傷害的生物（例如終界使者）能在其中游泳而不受傷害；然而，若安裝了 [Origins](https://modrinth.com/mod/origins) 模組，該效果也會保護懼水型起源不受傷害。\n\n此效果可使以下（非詳盡）列表中的實體對水傷害免疫：\n\n* 終界使者\n* 擁有「origins:water_vulnerability」能力的起源玩家\n  * [Blazeborn](https://origins.readthedocs.io/en/latest/misc/base_contents/origins/blazeborn/)\n  * [Enderian](https://origins.readthedocs.io/en/latest/misc/base_contents/origins/enderian/)\n  * 其他任何懼水型起源\n\n釀造配方：\n\n![抗水藥水的預設釀造配方：海綿](https://cdn.modrinth.com/data/cached_images/b548d8b550beefbbfcc4c232fc20d438d64554ff.jpeg)\n\n在釀造台中，將不明藥水與海綿結合。若要延長藥水持續時間，可加入紅石粉。\n\n這類藥水常見於沉船的戰利品中，有時也會出現在古代城市，其他地點則較為罕見。\n\n藥水的釀造配方可在模組設定檔或 ModMenu 選項中進行修改（替換為遊戲內任意物品）。藥水的顏色也可自行調整。\n\n例如，你可以將材料設為「minecraft:nautilus_shell」（鸚鵡螺殼），並將藥水顏色改為綠色： \n\n![](https://cdn.modrinth.com/data/oXj4ct3c/images/874f971c05a685b5466e96f3b0e5cac2edb15163.jpeg)\n\n![](https://cdn-raw.modrinth.com/data/oXj4ct3c/images/69eb34b736e5372df5d09a61bd060bdcff1d864f.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

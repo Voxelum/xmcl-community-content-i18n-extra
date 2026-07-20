@@ -1,6 +1,6 @@
 {
-  "bodyHash": "6MwUta+fUjM=",
-  "content": "Воспроизводит звук каждый раз, когда получается сообщение в чате.\n\nЗвук различается для сообщений о присоединении, уходе, смерти, личных сообщениях и сообщениях о достижениях.\nВы можете выбрать, какой из стандартных звуков будет воспроизводиться при этих событиях, а также настроить их громкость и высоту тона.\n\nЭтот мод требует [Fabric](https://fabricmc.net/), [Fabric API](https://www.modrinth.com/mod/fabric-api), [Mod Menu](https://modrinth.com/mod/modmenu) и [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config).\nКроме того, он конфликтует с ReplayMod.",
+  "bodyHash": "ce81dc9194e1660b",
+  "content": "\n\nПроигрывает звук при каждом полученном сообщении в чате.\n\nЗвуки различаются для сообщений о входе, выходе, смерти, личных сообщениях и достижениях.\nВы можете выбрать стандартный звук для каждого из этих событий, а также настроить его громкость и высоту тона.\n\nДля работы этого мода необходимы [Fabric](https://fabricmc.net/), [Fabric API](https://www.modrinth.com/mod/fabric-api), [Mod Menu](https://modrinth.com/mod/modmenu) и [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config).\nТакже он конфликтует с ReplayMod.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

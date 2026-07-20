@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fa12d3ff8ee55d6d",
+  "content": "\n\n# NoFog\n\n單純移除遊戲中的霧效。  \n\n支援 1.17 至 1.21.11。  \n**1.17-1.19.4 版本可能會顯示為僅適用於較新版的 Minecraft，但仍可正常運作。**  \n\n### 此模組與 Sodium 不相容！\nSodium 與會修改著色器的資源包不相容。  \n建議改用安裝 [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

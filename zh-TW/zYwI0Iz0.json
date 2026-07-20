@@ -1,0 +1,6 @@
+{
+  "bodyHash": "106c17dd590f081c",
+  "content": "\n\n**這是一個正在開發中的專案！**\n\n本模組是 Talhanation 的「村民工人」、「村民招募」以及重製模組 TerraFirmaCraft 的相容性子模組。\n本專案包含部分由模組所有者 talhanation 編寫的原始程式碼。\n其餘程式碼的作者為 Ckeeze。\n嚴禁將本模組用於商業專案。只要免費發行且僅提供給擁有正版 Minecraft 的使用者，您便可將本模組納入任何平台的任何整合包中。\n更多資訊請參閱授權條款。\n\n除了功能上的相容性外，本模組也致力於優化兩個模組之間的遊戲互動，讓玩家從標準 TFC 玩法過渡到加入工人與招募員增強後的玩法時，過程更加流暢且平衡。\n\n**功能特色：**\n- 取代無法取得的原版綠寶石，招募員與工人現在改用硬幣，該硬幣可於 TFC 鐵砧中使用貴金屬打造\n- 招募員完全支援 TFC 功能，例如食用 TFC 食物、騎乘 TFC 馬匹、穿戴 TFC 裝備等\n- 所有招募員的工作方塊均可在早期銅器時代使用 TFC 材料製作\n- 玩家現在可透過使用類似 TFC 的「虛弱」藥水替代品來治療殭屍村民，從而獲得村民\n- 村民在被治療後會失去原有職業，且原版交易功能仍不可用\n- 村民可使用 TFC 食物（農作物與麵包）進行繁殖\n- 工人會負責從 TFC 儲物箱取放物品，食用已烹飪的 TFC 食物，並忽略腐壞或未加工的食物\n- 漁夫可在淡水與鹹水區域釣魚，並獲得 TFC 魚類作為掉落物\n- 礦工會放置 TFC 火把，並負責拾取與存放 TFC 資源\n- 伐木工會補種 TFC 樹苗\n- 農民會耕作 tfc:soil（土壤），種植並收穫大多數 TFC 作物\n- 農民在種植時會考量氣候因素\n- 農民會自動補充土壤養分\n- 商人可騎乘 TFC 馬匹\n- 畜牧場主可完全管理 TFC 動物\n- 新增 9 種獨特的 TFC 村民職業，協助確保糧食安全、交易稀有或非可再生資源，或獲取更多硬幣\n\n**未來計畫：**\n- 滿月生成事件：協助玩家收集殭屍村民，作為初期的工人／招募員來源\n- 礦工在側向挖掘時會放置支撐樑\n- 伐木工將使用鐮刀收集樹苗\n- 漁夫將消耗魚餌\n\n**相依模組連結：**\n\n[https://modrinth.com/mod/villager-workers](https://modrinth.com/mod/villager-workers)\n\n[https://modrinth.com/mod/villager-recruits](https://modrinth.com/mod/villager-recruits)\n\n[https://modrinth.com/mod/terrafirmacraft](https://modrinth.com/mod/terrafirmacraft)\n\n**免責聲明：**\n本模組仍處於初期開發階段，可能會出現錯誤與不穩定情況！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

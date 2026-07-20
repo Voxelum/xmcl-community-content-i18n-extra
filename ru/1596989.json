@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a0dbc4f7a995d9c1",
+  "content": "\n\n<p><strong>Hyperbox: Immersive Portals Compatibility</strong> добавляет интеграцию между <strong>HyperBox</strong> и <strong>Immersive Portals 3.0.7-all</strong> для <strong>Minecraft Forge 1.20.1</strong>.<br><br>Это позволяет измерениям из HyperBox корректно работать при использовании Immersive Portals 3.0.7-all для Forge 1.20.1.<br><br>Я не тестировал это с другими модами или дополнениями для создания измерений, и рассматриваю возможность сделать его более универсальным, но на данный момент оно ориентировано исключительно на HyperBox.<br><br>Оригинальный HyperBox: <a href=\"https://www.curseforge.com/minecraft/mc-mods/hyperbox\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/hyperbox</a><br>Оригинальные Immersive Portals: <a href=\"https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge</a><br><br>Примечание:&nbsp; Я протестировал этот мод с:<br>Immersive Portals (Forge) с поддержкой GravityChanger от Matthew_Alpha.<br>и подтвердил, что он работает корректно.<br><br><br>1.0.2:&nbsp; Улучшена стабильность в ситуациях, когда HyperBox разрушается при нахождении внутри него игрока.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

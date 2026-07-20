@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e981506a90593a07",
+  "content": "\n\n<h1><span>🔪 💀🩸血腥處決</span></h1>\n<p><span>《血腥處決》是一款專為《Epic Fight》設計的斷頭模組。當敵方血量低於 30% 時，按下左側 Alt 鍵即可發動處決，一刀斬下其頭顱。本模組支援所有主要武器類型，包含劍、巨劍、打刀、長劍、小太刀以及雙持匕首。創造模式不受此血量限制。對玩家同樣適用！</span></p>\n<p><span><img src=\"https://media.forgecdn.net/attachments/description/null/description_7485717b-eceb-4c8f-94a6-b877442eb537.png\" alt=\"\" width=\"845\" height=\"480\"></span></p>\n<p><span>處決完成後，目標的頭部模型會立即消失。被斬下的頭顱會掉落為獨立的物理實體，並保留原角色的紋理與模型。頭顱會在地板上滾動翻轉，頸部噴濺出鮮血，同時伴隨血液爆散的音效。</span></p>\n<p><span>處決動作設有冷卻時間，且在播放處決動畫期間，目標將無法移動。掉落的頭顱實體也會顯示原角色所穿戴的盔甲渲染。本模組可與《Bloody Bits》模組搭配使用，以獲得更豐富的血液視覺效果。</span></p>\n<h2><em><strong>建議搭配安裝模組：epicfight-impactful</strong></em></h2>\n<h2><span>&nbsp;</span></h2>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

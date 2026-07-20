@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a1bbb734150b0130",
+  "content": "\n\n![LOGO](https://cdn.modrinth.com/data/cached_images/dd6821e16ada02e2bf09b85bfafd2932ce987eea.png)\n**描述**：此資源包為 [萬花筒酒館](https://modrinth.com/mod/kaleidoscopetavern) 增添了豐富細節，為其所有物品提供完整的 PBR 與法線貼圖覆蓋。部分物品亦已新增視差效果。本資源包已透過測試，並與 [萬花筒酒館重製版](https://modrinth.com/mod/kaleidoscope-tavern-refabricated) 相容。\n\n**注意**：使用此資源包需啟用光影。根據初步測試，它在「Eclipse Shader」與「iterationRP Shader」下運作良好，且必須將光影的「視差模式」設定為「平滑」。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

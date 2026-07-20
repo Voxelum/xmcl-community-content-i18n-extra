@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ca07e24d3a1063ab",
+  "content": "\n\n這是 [Fog Looks Good Now](https://www.curseforge.com/minecraft/mc-mods/fog-looks-good-now) 模組的 1.20.1 移植版。此版本僅為移植，所有榮譽歸於 [CAPPIN1](https://www.curseforge.com/members/cappin1/projects)。我是為了自己未來的整合包「A Distant Journey」所製作，但你也可以自由地在自己的整合包中使用它。\n\n請勿向我請求移植至其他版本。如果我未來決定為該版本製作整合包，我可能會移植 1.21.1，但無法保證哦 :3\n\n## 已知不相容項目\n\n* [Enligthend](https://www.curseforge.com/minecraft/mc-mods/enlightend) - 出於某些原因，它會與 FLGN 同時完全關閉霧氣效果。我沒有實際測試過，因此無法確定這是否 100% 是 Enligthend 造成的問題，但從我的整合包中移除它即可解決此問題。\n\n## 原始說明\n\nFog Looks Good Now 會將霧氣起始點前移，在保持相同視距的同時大幅提升遊戲畫面的視覺效果，從而營造出更強烈的深度感與氛圍。\n\n此外，本模組還新增了可自訂的洞穴霧氣，以及針對不同生物群系的霧氣濃度設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

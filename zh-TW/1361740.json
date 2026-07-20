@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aeb42d002df67cc4",
+  "content": "\n\n<p>為 Cobblemon 襲擊巢穴提供額外的伺服器實用功能。</p>\n<ul>\n<li>可自訂的聊天公告，於襲擊巢穴生成或刷新時顯示。</li>\n<li><code>/crd broadcast</code> 指令，讓玩家將遠程襲擊廣播至聊天頻道。</li>\n<li><code>/crd invite</code> 指令，用於邀請特定玩家加入遠程襲擊。</li>\n<li>實作可選的遠程鑰匙 <code>cobblemonraiddens:remote_key</code> 條件，以進行遠程襲擊。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

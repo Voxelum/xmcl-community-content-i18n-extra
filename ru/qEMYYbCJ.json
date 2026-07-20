@@ -1,0 +1,6 @@
+{
+  "bodyHash": "654f5770ccf7a12c",
+  "content": "\n\n# Ограничения PvP\n\nСерверный мод для Fabric, предназначенный для ограничения предметов, используемых в PvP, разработан специально для [Attribute SMP](https://www.youtube.com/@AttributeSMPs)\n\n> Позволяет установить лимит урона для булав и копий, а также перезарядку для выпада копьём.\n> Планируется добавление пользовательских лимитов для предметов.\n\n- **Зависимости:**\n    - [Fabric API](https://modrinth.com/mod/fabric-api)\n    - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n\n## Команды\n\n- `/pvplimits reload`: Перезагружает файл конфигурации [Только для администраторов]\n- `/pvplimits config`: Встроенный в игру редактор конфигурации [Только для администраторов]\n\n## Конфигурация\n\nЛимиты можно настроить в файле `config/pvplimits.toml` или с помощью встроенного в игру редактора конфигурации.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

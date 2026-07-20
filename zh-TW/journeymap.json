@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b7f7fb794e423aa",
+  "content": "\n\n![JourneyMap](http://i.imgur.com/322B1np.png)\n\n**探索時，可在遊戲內或網頁瀏覽器中即時顯示地圖。**\n\nJourneyMap 是一款適用於 [Forge](https://forums.minecraftforge.net/)、[Fabric](https://fabricmc.net/) 和 [Quilt](https://quiltmc.org/) 的客戶端與伺服器模組，能在您探索時即時繪製您的 Minecraft 世界地圖。您可以在網頁瀏覽器中查看地圖，或在遊戲中以小地圖或全螢幕模式檢視。\n\n## 注意：目前伺服器端僅用於從伺服器控制 JourneyMap 的功能，伺服器端目前不會進行任何地圖繪製。若要顯示任何內容，JourneyMap 必須安裝在客戶端上。\n\n#### 伺服器與客戶端皆為選配表示：客戶端可以連線到未安裝 JourneyMap 的伺服器，而未安裝 JourneyMap 的客戶端也可以連線到已安裝此模組的伺服器。\n\n#### 協助與文件\n\n- 指南與教學：[http://journeymap.info](http://journeymap.info)\n- **支援可於 [JourneyMap Discord](https://discord.gg/eP8gE69) 伺服器取得**\n\n#### 使用 Bukkit/Paper 的伺服器管理員？\n\n請前往 [http://journeymap.info/Server](https://teamjm.github.io/journeymap-docs/latest/server/basic-usage/) 查看相關資訊與設定說明。\n\n#### 需要生成大型地圖圖片嗎？\n\n請參考 **[JourneyMap Tools](https://github.com/TeamJM/journeymap-tools)** 專案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

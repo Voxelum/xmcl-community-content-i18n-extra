@@ -1,0 +1,6 @@
+{
+  "bodyHash": "45543c8102b64bd0",
+  "content": "\n\n本项目经原作者明确许可，重新分发适用于 Enchantment Level Language Patch 的\n阿拉伯数字/罗马数字附加组件。\n\n🔗 主模组：\nhttps://modrinth.com/mod/enchlevel-langpatch\n\n在原项目中，该附加组件作为同版本下的附加文件或源码文件进行分发，这导致使用\nModrinth/CurseForge API 的启动器无法正确下载或更新它。\n本项目仅旨在为该附加组件提供兼容启动器的分发版本。\n\n🔹 这是一个附加组件，并非独立模组。\n🔹 必须安装主模组 Enchantment Level Language Patch。\n🔹 未修改任何功能；文件与原始附加组件完全一致。\n\n许可证：CC0-1.0",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

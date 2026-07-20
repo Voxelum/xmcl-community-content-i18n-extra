@@ -1,0 +1,6 @@
+{
+  "bodyHash": "81c78e129ee10235",
+  "content": "\n\n**本模組未使用或重新分發任何來自「Create: Unify」的資源。**\n\n這是一個簡單的模組，旨在使 [Create: Unify](https://modrinth.com/mod/create-unify) 能夠與 Create 6 相容。該模組利用 Mixin 技術實現此功能，且不包含 Unify 的任何原始資源。它可配合最新版的 Create (6.0.5) 與 Create: Unify (1.0a) 運作，並修復了一項會導致玩家無法進入搭載此模組伺服器的錯誤。Create: Unify 是一款為遊戲新增多種不同材質的模組，能夠整合來自諸多不同模組的礦石。\n\n**免責聲明：** 本模組尚未進行廣泛測試。儘管它應能與多數模組正常運作，但無法保證完全的相容性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

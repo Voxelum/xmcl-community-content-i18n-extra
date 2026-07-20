@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd8679c375c7d710",
+  "content": "\n\n一款專為地圖或模組開發者設計的小工具，協助處理 NBT 物品與方塊。\n<br>  \n要查看物品的 NBT 標籤，只需按下 F3+H 啟用進階提示資訊，標籤就會出現在提示內容中。較長的標籤會以自動捲動的方式呈現，可透過按住 SHIFT 暫停捲動，或按住 ALT 加速捲動。預設的捲動速度與一次顯示的最大標籤行數皆可進行設定。\n<br>  \n設定選單中提供更多切換選項。\n<br>  \n將 NBT 標籤複製到系統剪貼簿的快捷鍵可在「控制」設定中進行調整。\n<br>  \n支援多種顯示格式，適用於提示資訊（預設：自訂易讀且帶顏色的格式）與複製功能（預設：JSON），皆可自行設定。\n<br><br>\n*強烈建議使用 ModMenu 來編輯設定檔。*\n\n<br>\n \n\n## 其他資訊\n\n部分伺服器可能將此模組視為作弊行為，請在安裝前與伺服器管理員確認是否允許。  \n您可以自由在任何整合包中使用此模組\n<br>\n\n\n## 截圖\n\n<br>\n\n預設畫面：  \n![friendly format](https://zabi94.dev/mc_screenshots/friendly.png)\n\n<br>\n\n無色彩版本：\n![bw format](https://zabi94.dev/mc_screenshots/uncolored.png)\n\n<br>\n\nJSON 畫面：\n![json format](https://zabi94.dev/mc_screenshots/json.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

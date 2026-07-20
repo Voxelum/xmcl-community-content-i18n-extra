@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6a01a04ad3140ed8",
+  "content": "\n\n## О моде\nЭтот мод позволяет использовать 3D-скины в MC 1.7.10.\nВ качестве зависимостей требуются Skinport, UniMixins и GTNH Lib.\n\n## Он некорректно работает с шейдерами на базе BSL.\n![Проблема с шейдерами в стиле BSL](https://cdn.modrinth.com/data/cached_images/67465be77e22a8b86a8acf9c3c679386262293e1_0.webp)\n\n## Он отлично работает с шейдерами в стиле SEUS.\n![Изображения, демонстрирующие производительность с шейдерами в стиле SEUS.](https://cdn.modrinth.com/data/cached_images/0e29602c27b8a0c6c56d6f936ac6941e728699fd_0.webp)\n\n## Разумеется, он работает и при отключённых шейдерах.\n![Изображение 3D-скина](https://cdn.modrinth.com/data/cached_images/a071b418e3452be0dccd65f26e0f1e3b903c2999.png)\n\nРабота с OptiFine не тестировалась, и её использование не рекомендуется.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

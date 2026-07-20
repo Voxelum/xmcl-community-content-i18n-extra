@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ff9826856f926e7a",
+  "content": "\n\n<h1>Create: Webhooks</h1>\n<p>一款伺服器端的 Create 擴充模組，當列車發生碰撞時會發送 Webhook 通知。</p>\n<h2>功能</h2>\n<p><strong>Discord Webhooks</strong> &mdash; 每次列車碰撞時，您的 Discord 頻道都會收到一則豐富的嵌入訊息（Embed），包含列車名稱、速度、位置、駕駛、乘客等詳細資訊<br><strong>自訂 API 支援</strong> &mdash; 可選擇將原始 JSON 資料傳送至任何 HTTP 端點，而非僅限於 Discord<br><strong>全面可設定</strong> &mdash; Webhook URL、格式、逾時時間與伺服器名稱均可在遊戲內或透過設定檔進行編輯<br><strong>非侵入式</strong> &mdash; 僅在安裝 Create 時才會掛鉤運作，未安裝時亦可正常載入</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1484625/description_c3a44d96-b90d-4ac4-9024-9dad5da96ede.png\"></p>\n<h2>需求</h2>\n<p>NeoForge 21.1.219+<br>Create 6.0.0+</p>\n<h2>免責聲明</h2>\n<p>Create: Webhooks 是一款獨立的第三方模組，<strong>並未與 Create 計畫有任何隸屬、背書或關聯關係</strong>。Create 的版權歸其原作者所有。所有商標及註冊商標均歸各自所有者所有。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

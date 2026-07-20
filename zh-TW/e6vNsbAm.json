@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f365d74ec15bc659",
+  "content": "\n\nVintageFix 是一款針對 Minecraft 1.12.2 的效能優化模組，致力於成為比 FoamFix 更精簡且高效的版本。它能顯著降低記憶體使用量，並略微減少載入時間。這是透過整合經過修改的 FerriteCore 區塊狀態／模型優化，以及更新、更可靠的舊版 VanillaFix 動態資源修補程式來實現的，該修補程式會即時載入模型，而非在遊戲啟動時一次性載入。\n\n為了獲得最佳效果：\n\n* **[MixinBooter](https://modrinth.com/mod/mixinbooter) 為必要依賴項。**\n* 請勿使用 OptiFine。使用 OptiFine 可能會導致渲染異常，並且會增加啟動時間。\n* 請使用最新版的 [CensoredASM](https://legacy.curseforge.com/minecraft/mc-mods/lolasm)。NormalASM 可能可以使用，但通常更新落後。\n\n## 需要 Minecraft 伺服器？考慮 CreeperHost！\n![使用代碼 taumc-qk0 享 10% 折扣](https://cdn.modrinth.com/data/cached_images/c537b7f7d52aee93c4c2f3990a0a305da38ce041.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

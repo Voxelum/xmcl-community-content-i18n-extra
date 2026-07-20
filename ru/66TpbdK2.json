@@ -1,0 +1,6 @@
+{
+  "bodyHash": "934187e4b1c6b16d",
+  "content": "**Настройки снега позволяют настраивать снегопады, включая указание блоков, на которые может падать снег, а также возможность таяния снега рядом с источниками света.**\n\nТэги блоков `murf-tweaks:allows_snowfall` и `murf-tweaks:prevents_snowfall` можно использовать для настройки поведения мода в датапаке. По умолчанию снег может покрывать снег, траву и листву.\n\nПравило игры `murf-tweaks:do_snow_melting` позволяет включить или отключить таяние снега рядом с источниками света.\n\nМод полностью работает на стороне сервера.\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61T1SK5)\n\n![Murf Tweaks](https://cdn.modrinth.com/data/cached_images/7aa317020f29ec30acd5a1b23b42b37f5843873f.png)\n\n**Это часть пакета модов [Murf Tweaks](https://modrinth.com/mod/murf-tweaks)!**\n\n[Посмотрите мои другие работы](http://murfgames.co.uk/)\n\n[**Добавьте мою оригинальную игру NIGHTMAZE в список желаемого в Steam**](https://store.steampowered.com/app/4584550/Nightmaze/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

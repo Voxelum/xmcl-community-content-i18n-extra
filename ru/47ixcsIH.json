@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5ce1b396cd8e2a4",
+  "content": "# LogObfuscator\nСкрывает конфиденциальную информацию в сообщениях журнала\n\nМодифицирует сообщения журнала в логе Minecraft\n\nПредотвращает получение консолью информации (IP-адреса, координаты) путем просмотра журнала Minecraft\n\n## Информация\n**В настоящее время патчатся:**\n- Вход игрока `PlayerList::placeNewPlayer`\n- Смерть именованного сущности `LivingEntity::die`\n- Смерть жителя `Villager::die`\n- Удар грома по жителю `Villager::thunderHit`\n- Создайте отчет об ошибке или свяжитесь со мной для патчинга другой информации!\n\n![join](https://raw.githubusercontent.com/P3nguinMinecraft/LogObfuscator/refs/heads/1.21.11/imgs/join.png)\n\n**Заменяет все параметры на `OBF_[param]`, такие как `OBF_X`**\n\n### Команда\n##### `/logobfuscator`\nПодтверждает пользователю, что мод установлен.\n\n## Зависимости\nТребуется [Fabric API](https://modrinth.com/mod/fabric-api)\n\n## Благодарности\nP3nguinMinecraft",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

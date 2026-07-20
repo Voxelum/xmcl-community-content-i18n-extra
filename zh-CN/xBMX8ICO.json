@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab42509f80a2ba14",
+  "content": "\n\n![](https://github.com/e-splat/WorldEditItems/blob/Quilt/Fabric/cosoworldedititems.png?raw=true)\n\n你是否觉得 WorldEdit 使用 Minecraft 原版物品会破坏游戏体验？这个模组正是为你准备的！本模组添加了三个用于 WorldEdit 的新物品，让你无需再使用原版物品。\n\n**需要 [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)**\n\n支持 **Fabric**（需要 [Fabric API](https://modrinth.com/mod/fabric-api)）、**Quilt**（请使用 Fabric 版本）（需要 [Quilt Standard Libraries](https://modrinth.com/mod/qsl)）以及 **Forge**\n\n## 配置\n\n1. 检查是否已安装 WorldEdit（未安装则模组无效）\n2. 将 .jar 文件放入你的 mods 文件夹中\n3. 在游戏中，手持 Wand/NavWand/SuperPickaxe 物品，然后输入 `/tool selwand` `/tool selwand`（目前 SuperPickaxe 选项似乎暂不可用，我稍后会更新说明）\n4. 之后，尝试使用 Wand Axe 或 Nav Wand 并查看实际效果\n\n**注意**：如果上述命令无法正常使用，请向 [WorldEdit 开发者](https://github.com/enginehub/worldedit/issues) 反馈此问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

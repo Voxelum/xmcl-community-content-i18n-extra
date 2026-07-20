@@ -1,0 +1,6 @@
+{
+  "bodyHash": "61143f7255254fe4",
+  "content": "**Create: Unclamped** 移除了 Create 模组中部分基于速度的内置速度限制！\n\n### 功能\n- 移除了机械臂的速度限制\n- 移除了创意电机的速度限制\n- 移除了动能卷轴数值行为的速度限制\n\n这些功能组合在一起，让你能够充分利用 `maxRotationSpeed`（最大旋转速度）配置选项来增强创意电机和机械臂的性能！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

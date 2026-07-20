@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c7f012bf4d330ba5",
+  "content": "\n\nЭто мод, который позволяет использовать язык программирования Kotlin для модов Fabric.\n\nПримечание: Этот мод не добавляет контент! Это зависимость, которую другие моды используют для совместимости.\n\nЭтот мод работает независимо от версии Minecraft, так как зависит только от наличия Fabric Loader.\n\nДля разработчиков модов: См. -> https://github.com/FabricMC/fabric-language-kotlin#usage",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

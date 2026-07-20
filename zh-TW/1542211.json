@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e93edcae65bf6bed",
+  "content": "\n\n<p>SprintFix 是一款輕量級的客戶端 Fabric 模組，讓疾跑更順暢、更易於使用。</p>\n<p>它新增了自動疾跑功能，幫助在重生後保留切換式疾跑狀態，並提供簡易的快捷鍵設定，讓玩家能隨時開啟或關閉各項功能。SprintFix 的設計力求輕量精簡，且無需 Fabric API。</p>\n<h2>功能特色</h2>\n<h3>自動疾跑</h3>\n<p>自動疾跑功能會在遊戲過程中保持疾跑鍵處於啟用狀態，因此當您向前移動時，無需按住疾跑鍵即可自然開始疾跑。</p>\n<h3>重生疾跑修復</h3>\n<p>Minecraft 可能會在重生時重置黏性或切換式疾跑狀態。SprintFix 有助於保留該疾跑狀態，讓您在死亡重生後的疾跑體驗更加一致。</p>\n<h3>切換快捷鍵</h3>\n<p>SprintFix 在 Minecraft 的「控制項」選單中新增了兩個快捷鍵：</p>\n<ul>\n<li>切換自動疾跑</li>\n<li>切換重生疾跑修復</li>\n</ul>\n<p>這兩個快捷鍵預設皆未綁定，您可以自行設定按鍵。</p>\n<h3>設定儲存</h3>\n<p>這兩項功能預設皆為開啟狀態。當您切換它們時，SprintFix 會自動儲存您的設定。</p>\n<h2>輕量設計</h2>\n<p>SprintFix 僅限客戶端使用，且不需要 Fabric API。只需安裝 Fabric Loader，將符合您 Minecraft 版本的 SprintFix JAR 檔案加入模組資料夾，即可開始遊玩。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

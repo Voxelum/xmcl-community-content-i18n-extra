@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c4772cd2d68a8c5",
+  "content": "\n\n# 通用附魔\n\n此資料包僅為娛樂用途製作，並未實裝於原版遊戲中。每個附魔僅能透過指令 `/enchant @s generic_enchant:enchant_name 1` 取得。\n\n## 附魔列表\n\n- 霜凍\n  - 將目標凍結在粉末雪中（效果未如預期）\n- 漂浮\n  - 使目標漂浮（無法運作）\n- 閃電\n  - 在目標處召喚閃電（正常運作）\n- 龍捲風\n  - 有機率在目標後方 10 格處召喚龍捲風\n- 凋靈\n  - 賦予目標凋靈效果（無法運作）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "76fa931ba3e5116d",
+  "content": "\n\n<p>Добавляет идентификаторы и теги деревенских структур для следующих модов в тег #minecraft:village, чтобы VillageSpawnPoint мог ссылаться на этот тег при попытке появления игрока в деревне.</p>\n<ul>\n<li>Repurposed Structures</li>\n<li>CTOV</li>\n<li>Biomes We've Gone</li>\n<li>Sky Villages</li>\n<li>Terralith</li>\n</ul>\n<p>Это позволяет игрокам появляться в любом типе деревни в Craft to Exile 2, а не только в деревнях одного мода.</p>\n<p>Это решает проблему в Craft to Exile 2, связанную с тем, что вы на самом деле не появлялись в деревнях, поскольку тег по умолчанию, установленный в конфигурации Village Spawn Point, был #minecraft:village, который замещался модом Repurposed Structures, а конфигурация Village Spawn Point настроена только на использование одного тега. Не существовало единого тега, полностью охватывающего все вышеуказанные моды, поэтому данный ресурспак добавляет их все в тег #minecraft:village.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

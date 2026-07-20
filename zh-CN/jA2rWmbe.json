@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6955ed35ce81e4e5",
+  "content": "\n\n沉浸式传送门（Forge 移植版）终于重新支持重力了！如果你想要的话，它也能完美兼容 Forge 的传送枪插件 :3\n\n本模组基于：https://modrinth.com/mod/immersive-portals-neoforge，但重新加入了重力系统，就像它的 Fabric 移植版长期以来所具备的那样。因为我极度渴望实现重力功能，所以过去的一周里（01/06/2026 至 06/06/2026），我潜心学习 IntelliJ IDEA 并仔细排查代码差异，只为亲手将它重新适配成功。如果你也怀念那种令人头晕目眩的重力效果，又正在使用 Forge，那就尽情体验吧 ^w^\n特别感谢 Tfarcenim 将 GravityChanger 成功移植至 Forge 平台！\nhttps://www.curseforge.com/minecraft/mc-mods/gravity-control\n![preview](https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2FhH5DCdy%2Fimmptl-image-1-20.png&n=-1)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

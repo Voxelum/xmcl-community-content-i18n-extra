@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1ccd190904293eb7",
+  "content": "\n\n[GhostJump](https://www.curseforge.com/minecraft/mc-mods/ghostjump) 模組現已更新，支援 Minecraft 1.20.1！\n\n## **功能特色：**\n1. **墓碑互動**：右鍵點擊石棺方塊時，有機率在墓碑附近生成預先設定的實體。\n2. **自訂實體**：可透過設定檔配置欲召喚的實體種類，預設為 \"graveyard:reaper\"。\n3. **召喚機率設定**：可透過設定檔調整觸發召喚的機率，預設為 7%。\n\n## **設定選項：**\n- **機率**：觸發實體召喚的機率，數值介於 1 至 100 之間，預設值為 7。\n- **召喚實體**：欲召喚的實體清單，預設為 [\"graveyard:reaper\"]。\n\n體驗全新的墓碑互動功能，為你的遊戲增添一絲驚喜吧！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

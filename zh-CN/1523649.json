@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7c73ea7bf4d23da9",
+  "content": "\n\n<p>使用摇杆控制你的 <span style=\"color:#3598db\"><em><strong>Create Aeronautics</strong></em></span> 飞行器。它支持将 <span style=\"color:#f1c40f\">4 种红石频率</span> 作为输入，分别对应 <span style=\"color:#f1c40f\"><strong>俯仰上下、滚转左右</strong></span>。</p>\n<p>将 2 个俯仰频率连接到控制升降舵和副翼的红石链接器上。或将其连接到推力矢量控制系统。</p>\n<p>将 2 个滚转/偏航/转向频率连接到控制飞行器倾斜与转向系统的红石链接器上。或将其连接到推力矢量控制系统。</p>\n<p><span style=\"color:#f1c40f\"><strong>手持<span style=\"color:#e03e2d\">空手</span>按住 Shift 并右键点击摇杆以选择频率</strong></span>。</p>\n<p><strong><span style=\"color:#f1c40f\">右键点击并移动光标以进行摇杆控制</span></strong>。（<span style=\"color:#fbeeb8\">光标向下表示拉起/俯仰向上</span>）</p>\n<p>合成配方：任意顺序放置一个红石链接器与一个模拟拉杆</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_b8dbf70a-1635-41cd-937c-e0d0e5ce0acf.png\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "3Mn+wsaUo1g=",
-  "content": "# bad packets\nBad Packets 是一個能讓不同模組平台之間進行封包通訊的函式庫。\n\n這代表使用 Bad Packets 的模組，如果其 Fabric 客戶端版本可以傳送封包給使用 Forge 版本的伺服器，反之亦然。\n\n本模組**並不會**神奇地讓所有跨平台的模組版本彼此相容，開發者需要使用 BP 的 API 來傳送其封包。即便如此，還有像遊戲物件 ID 同步這類更複雜的事項是本模組無法處理的，這也使得它從一開始就不太可能被支援。",
+  "bodyHash": "5980c2f48ae84300",
+  "content": "\n\n# bad packets\nBad Packets 是一個允許在不同模組開發平台之間進行封包通訊的程式庫。\n\n這意味著使用 Bad Packets 的模組 Fabric 客戶端版本可以向使用 Forge 版本的伺服器發送封包，反之亦然。\n\n此模組**並不會**神奇地讓所有具備多平台版本的模組互相兼容。開發者仍需自行使用 BP 的 API 來傳送封包。即便如此，本模組仍無法處理一些更複雜的機制（例如遊戲物件 ID 同步），因此在最初就難以實現全面支援。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cdb9f27a885c15f5",
+  "content": "\n\n![](https://img.shields.io/badge/v2.0-Release-green)\n![](https://img.shields.io/modrinth/dt/OQCz8S7N)\n\n> 如果您遇到问题，请在 [Github Issue Page](https://github.com/RedsXi/ctplus/issues) 提交反馈\n\n# CrabMTR Transit+\n\n## 简介\n一款为 MTR 增添新功能的模组。\n\n## 模组内容\n更多检票闸机\n\n\n### 检票闸机（直接扣费）\n通过闸机时自动扣除您的余额！\n（如需修改闸机的通行费用，请使用命令 /setPassCost <x> <y> <z> <cost>）\n\n图片：\n\n![Barrier](https://redsxi.github.io/CrabGC-s-Extension-of-MTR/screenshots/2023-07-16_01.18.30.png)\n\n![Passing](https://redsxi.github.io/CrabGC-s-Extension-of-MTR/screenshots/2023-07-16_01.18.32.png)\n\n### 单程票  \n\n![Single Journey Ticket](https://fe-static.crabapi.cn/xianzhoutongjian/editor/user_uploads/650ef942e24a0c4d6d0be39f/1705122401_9e5ad217-62a8-457e-8a7f-91938ec10ac2)\n仅作为车票使用。    \n持有期间可防止 MTR 票务系统扣除您的余额。    \n通过闸机时请手持该票进行使用。    通过出口闸机后，车票将被系统回收。\n\n### 其他\n> 🚩敬请期待",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

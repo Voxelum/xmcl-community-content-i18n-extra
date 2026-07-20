@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3eb5afe506be57fa",
+  "content": "\n\nModern UI 的文字渲染引擎與 Inline 不相容。\n此模組預設將使用 Modern UI 進行文字渲染，當存在 Inline 資料時，則會回退至原版文字渲染引擎（該引擎已被 Inline 注入）。\n\n注意：此模組採用相對簡單的實作方式，且尚未經過完整測試。可能會導致遊戲不穩定或發生崩潰。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

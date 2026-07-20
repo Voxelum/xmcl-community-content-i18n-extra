@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31c7a93bf8c50ced",
+  "content": "\n\nПростой мод, сокращающий текст подсказки для украшенной брони.\nДо:\n![Для описания типа украшения на броне требуется целых три строки](https://cdn.modrinth.com/data/cached_images/53653e7cef7b669bfd2e2f35efe9d9040e049709.png)\n![Теперь достаточно всего одной строки](https://cdn.modrinth.com/data/cached_images/c56201881949197a72560145a689098d7b29a72b.png)\nИдея взята из [этого мода](https://modrinth.com/mod/better-trim-tooltips), но он не включает совместимость с StackedTrimes. \nСкобки вокруг материала украшения не прописаны напрямую в коде, их можно изменить в языковых файлах.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

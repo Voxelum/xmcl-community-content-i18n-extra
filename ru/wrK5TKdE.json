@@ -1,6 +1,6 @@
 {
-  "bodyHash": "f6c51cc95a022a96",
-  "content": "\n\nОтображает ваш текущий пинг и FPS справа от панели быстрого доступа.\n![Отображение пинга и FPS](https://cdn.modrinth.com/data/cached_images/078f9f1757b5db8b93f09ecea4822dbdfe0cd033.png)\nРаботает только на стороне клиента. Требуется Fabric Loader, Fabric API и Java 21+ (очевидно).\n\nПримечания:\n* Может конфликтовать с другими модами HUD/GUI, отображаемыми справа от панели быстрого доступа\n* Обновление пинга может происходить с задержкой на некоторых серверах, ограничивающих частоту передачи таких данных\n\nТекущие версии: [1.21.11](https://modrinth.com/mod/ping-overlay/version/1.21.11+1.0.0)",
+  "bodyHash": "9a261408e5edd7ab",
+  "content": "\n\n# Оверлей пинга\n\n[![](https://img.shields.io/discord/1525357108541919362?style=for-the-badge&logo=discord&logoColor=white&label=Join%20Server)](https://discord.gg/zD2jUXsRDD)\n![Отображение пинга/FPS](https://cdn.modrinth.com/data/cached_images/078f9f1757b5db8b93f09ecea4822dbdfe0cd033.png)\n## Описание\n\nОтображает ваш текущий пинг и FPS справа от хотбара.\n\nТолько на стороне клиента. Требует Fabric Loader, Fabric API и Java 21+ (очевидно).\n\nПримечания:\n* Может конфликтовать с другими модами HUD/GUI, отображаемыми рядом с правой частью хотбара\n* Обновление пинга может происходить медленно на некоторых серверах из-за ограничения частоты запросов (rate limit)\n\nТекущие поддерживаемые версии: [26.2](https://modrinth.com/mod/ping-overlay/version/26.2+1.0.0), [1.21.11](https://modrinth.com/mod/ping-overlay/version/1.21.11+1.0.1)\n\nСвяжитесь с нами через [Discord](discord.gg/zD2jUXsRDD), если у вас есть предложения или возникнут проблемы",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

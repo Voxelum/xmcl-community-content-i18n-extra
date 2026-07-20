@@ -1,0 +1,6 @@
+{
+  "bodyHash": "747c8f5c698bfbda",
+  "content": "\n\n# 槍械傷害成長模組\n\n此 Fabric 模組串接了 **Soulslike Weaponry** 與 **Ranged Weapon API**，讓槍械傷害能隨玩家屬性進行成長。\n\n## 功能特色\n- **屬性成長**：槍械傷害（銀彈）會依據 `ranged_weapon:damage` 屬性進行計算。\n- **可自訂設定**：可選擇加法或乘法成長模式。\n- **自訂倍率**：可於設定檔中微調傷害數值。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

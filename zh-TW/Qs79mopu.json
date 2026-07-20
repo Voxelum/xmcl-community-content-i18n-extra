@@ -1,0 +1,6 @@
+{
+  "bodyHash": "292456740835e335",
+  "content": "\n\n![Banner](https://cdn.modrinth.com/data/cached_images/642bf55322bc3d410676182a579f858045b17a69.png)\n\n# 這個模組有什麼功能？\n- 當附近有玩家觸發圖騰或死亡時，此模組會自動傳送訊息。\n- 您可以在設定選單中使用「偵測半徑」滑桿來調整追蹤距離（以方塊為單位）。\n\n# 安裝\n- 需求：**Fabric Loader, Mod Menu, Cloth Config API, Fabric API**。\n- 此為客戶端模組，因為訊息是由您發送至聊天記錄。\n\n# 設定\n- 您可以透過 Mod Menu 或輸入 /ezchat 指令來開啟設定介面。\n- 您可以透過文字欄位自訂訊息。\n- 您可以新增多個文字欄位，系統會隨機選取其中一條訊息。\n- 文字欄位支援佔位字元：**[pops]** 代表觸發次數，**[name]** 代表目標玩家名稱。\n\n![Basic configuration](https://cdn.modrinth.com/data/cached_images/b0a9699c1f51b720dbc7c88f359425d5115a7b7e.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

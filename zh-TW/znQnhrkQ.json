@@ -1,6 +1,6 @@
 {
-  "bodyHash": "POXelyDv4q4=",
-  "content": "# Voxy Extra\n\nVoxy Extra 是 Voxy 的擴充模組，它加入了一些不應包含在 Voxy 中的功能。這些可能是超出範圍的功能、設計不良的功能等等。\n\n# 功能特色\n - **地獄迷霧修復**：在啟用環境迷霧的情況下停用地獄迷霧；\n - **使用 Flashback 重播複製 LoD**：允許在舊重播中顯示正確的 LoD 狀態，同時啟用攝取功能（會占用你的硬碟空間）；\n - **伺服器黑名單**：允許在特定伺服器上停用 Voxy；\n - **LoD 鏡像**：允許為多個伺服器設定一個 LoD 儲存空間。\n\n**所有選項均可在 Sodium 選單中進行設定。**\n\n# 建議\n\n如果你對 Voxy 有任何想法，且確定超出範圍，歡迎在此提出建議：[問題回報](https://github.com/ImGRUI/voxy-extra/issues)。",
+  "bodyHash": "e7f705ea6c969034",
+  "content": "\n\n# Voxy Extra\n\nVoxy Extra 是一款 Voxy 的附加模組，新增了本不應存在於 Voxy 中的功能。這些功能可能超出其設計範圍、設計不當等。\n\n# 功能特色\n - **地獄霧氣修復**：啟用環境霧氣時，停用地獄的霧氣效果；\n - **搭配 Flashback 重播複製 LoD**：允許在舊版重播中正確顯示 LoD 狀態，並支援讀取（會大量消耗你的硬碟空間）；\n - **伺服器黑名單**：允許在特定伺服器上停用 Voxy；\n - **LoD 鏡像**：允許為多個伺服器共用同一個 LoD 儲存空間。\n\n**所有選項均可在 Sodium 選單中進行設定。**\n\n# 功能建議\n\n如果你有任何確實超出 Voxy 範圍的功能構想，歡迎在此提出建議：[Issues](https://github.com/ImGRUI/voxy-extra/issues)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

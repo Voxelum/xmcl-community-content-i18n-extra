@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3bfeab478192917f",
+  "content": "# **Мод Optimal Eat**\n\nЭтот мод автоматически прекращает приём пищи, как только вы полностью использовали предмет.\n\nВ ванильном Minecraft можно продолжать есть пищевой предмет, даже когда он полностью использован, и вы остановитесь только после получения пакета от сервера (что может занять некоторое время, как знают многие игроки с высоким пингом).\n\nЭтот мод был специально разработан для PvP-игровых режимов, таких как UHC, OP и DiamondPot, где время простоя при приёме пищи должно быть минимальным!\n\nНиже представлен демонстрационный ролик Optimal Eat, который был ускорен в 1200 раз для наглядности эффекта.\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BRbcV3WhFuE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n(Больше превью доступны в галерее, и не забудьте посмотреть [Tektonikal](https://modrinth.com/user/Tektonikal))\n\n## Зависимости\n\nЭтот мод требует [Fabric API](https://modrinth.com/mod/fabric-api), а также [Cloth Config](https://modrinth.com/mod/cloth-config) и [Mod Menu](https://modrinth.com/mod/modmenu) для настройки.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

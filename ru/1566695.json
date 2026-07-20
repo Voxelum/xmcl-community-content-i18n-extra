@@ -1,6 +1,6 @@
 {
-  "bodyHash": "fWkm4OJv0iY=",
-  "content": "<p>Генерирует биомы Верхнего мира по логарифмической спиральной схеме\n<img src=\"https://cdn.modrinth.com/data/cached_images/c4b27e5d4c4d295a53250d207a73c9dceb291a30_0.webp\" alt=\"image\"></p><h2>Особенности</h2><p>Этот пресет генерирует биомы Верхнего мира по логарифмической спиральной схеме, используя точку начала Верхнего мира X=0, Z=0 в качестве центра спирали.\nРасположение биомов расширяется от исходной точки, образуя изогнутую спиральную структуру по всему миру вместо обычного распределения на основе шума.</p><h2>Настройка для сервера</h2><p>server.properties</p><pre><code>level-name=world\nlevel-seed=\nlevel-type=logarithmicspiralbiome:logarithmic_spiral\n</code></pre>",
+  "bodyHash": "bca7d0e6d26bb536",
+  "content": "\n\n<p>Генерирует биомы Верхнего мира в виде логарифмической спирали\n<img src=\"https://cdn.modrinth.com/data/cached_images/c4b27e5d4c4d295a53250d207a73c9dceb291a30_0.webp\" alt=\"image\"></p>\n<h2>Особенности</h2>\n<p>Этот пресет генерирует биомы Верхнего мира в виде логарифмической спирали, используя начальную точку Верхнего мира X=0, Z=0 в качестве центра спирали.\nРасположение биомов расширяется от центра наружу, формируя изогнутую спиральную структуру по всему миру вместо обычного распределения на основе шума.</p>\n<h2>Настройки для сервера</h2>\n<p>server.properties</p>\n<pre><code>level-name=world\nlevel-seed=\nlevel-type=logarithmicspiralbiome:logarithmic_spiral\n</code></pre>",
   "contentType": "text/html",
   "type": "curseforge"
 }

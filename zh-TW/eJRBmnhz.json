@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3842312b7c4debbd",
+  "content": "\n\nInvSee 是一款現代化、持續更新且高度可自訂的 Fabric 模組，可用於查看其他玩家的物品欄、座標、維度、經驗等級、終界箱與盔甲。它擁有與其它 InvSee 外掛及模組不同的全新介面。\n\n支援線上與離線玩家，同時也相容 Geyser 玩家。\n\n### 查看特定玩家（線上／離線）\n\n```\n/invsee *username*\n```\n\n### 查看所有玩家（線上／離線）\n```\n/invsee\n```\n\n\n## 功能特色\n- 物品欄\n- 盔甲\n- 經驗值\n- 終界箱\n- 座標\n- 維度\n- 生命值\n- 飽食度\n- 狀態效果（含持續時間與等級）\n- 最後在線時間\n>\n- 語言設定\n- 詳細按鈕設定\n>\n- 佔位符\n- 動作\n- 指令\n\n\n### 支援語言\n- 英文 (en_us)\n- 土耳其文 (tr_tr)\n\n**[WIKI](https://github.com/Runteryaa/invsee/wiki)**\n\n#### 歡迎前往 GitHub 貢獻\n\n**這是一款伺服器端模組，但你也可以在客戶端使用以查看盔甲槽圖示。需安裝於伺服器端，客戶端為選配。**\n\n\n本模組使用 AI 協助開發",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

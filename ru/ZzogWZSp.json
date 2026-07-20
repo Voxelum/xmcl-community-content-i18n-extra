@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bbe8e0ed379d5a70",
+  "content": "\n\nПозволяет администраторам сервера включать и отключать свои OP-права.\n- `/oplock login` (включает OP-права)\n- `/oplock logout` (отключает OP-права)\n\nПо умолчанию администраторы сервера отключены при подключении.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

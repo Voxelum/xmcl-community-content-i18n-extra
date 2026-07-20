@@ -1,6 +1,6 @@
 {
-  "bodyHash": "POXelyDv4q4=",
-  "content": "# Voxy 额外功能\n\nVoxy Extra 是 Voxy 的一个扩展插件，它添加了一些本不应包含在 Voxy 中的功能。这些功能可能超出原版范围、设计欠佳等。\n\n# 功能列表\n - **下界迷雾修复**：在启用环境迷雾时禁用下界迷雾；\n - **通过回放复制LoD**：允许在旧回放中显示正确的LoD状态，同时支持数据导入（会占用磁盘空间）；\n - **服务器黑名单**：允许在特定服务器上禁用Voxy；\n - **LoD镜像**：允许多个服务器共享同一个LoD存储设置。\n\n**所有选项均可在Sodium菜单中配置。**\n\n# 建议反馈\n\n如果您对Voxy有任何超出原版范围的功能想法，欢迎在此提出建议：[问题反馈](https://github.com/ImGRUI/voxy-extra/issues)。",
+  "bodyHash": "e7f705ea6c969034",
+  "content": "# Voxy Extra\n\nVoxy Extra 是 Voxy 的一个附加组件，添加了一些原本不应包含在 Voxy 中的功能。这些功能可能超出其设计范围、存在设计缺陷等。\n\n# 功能\n - **下界雾修复**：启用环境雾时禁用下界雾；\n - **在 Flashback 回放中复制 LoD**：允许在旧的回放文件中显示正确的 LoD 状态，同时也支持导入回放数据（会占用你的磁盘空间）；\n - **服务器黑名单**：允许在特定服务器上禁用 Voxy；\n - **LoD 镜像**：允许为多个服务器设置同一个 LoD 存储。\n\n**所有选项均可在 Sodium 菜单中进行配置。**\n\n# 建议\n\n如果你有任何想法认为 Voxy 绝对不应该包含该功能，欢迎在此处提出建议：[Issues](https://github.com/ImGRUI/voxy-extra/issues)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

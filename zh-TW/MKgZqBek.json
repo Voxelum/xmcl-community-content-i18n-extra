@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be56fc47aa8f24ff",
+  "content": "\n\n**[OptiGUI](https://modrinth.com/mod/optigui) 為選配項目，但強烈建議安裝，以便部分方塊擁有獨立的 GUI！(Optifine 大致相容，僅桶子除外)**\n\n## 適用於 1.21.4 - 26.2，並提供 1.20.1 的回溯移植版本！\n\n「Ore UI Recreation」是一個資源包，旨在於 Java 版中還原即將推出的基岩版 UI。它為箱子、終界箱與潛影盒提供了色彩編碼的介面，並以基岩版預覽中的 Ore UI 素材為基礎，將遊戲內其餘 GUI 統一為此全新風格。\n\n歡迎透過 GitHub 提供回饋與建議！\n\n![主題風格類似箱子，第 3 列前 2 格分別為鑽石劍與 5 顆蘋果，背包欄位為空的箱子介面。](https://cdn.modrinth.com/data/cached_images/ca3b345e6c380458586ad173c924fd17d955652b.png)\n![Minecraft 生存模式 HUD，物品包含：耐久度約 75% 的鑽石劍、幾乎全新的附魔下界合金鍬、鐵鎬、鐵鍬、33 塊熟牛排、14 塊熟豬排、32 支火把、40 塊泥土。副手持有盾牌。玩家目前選取了 30 塊熟牛排。](https://cdn.modrinth.com/data/cached_images/545cc4a01cc7e38f51fb902befccaaaae5568ff8.png)\n\n### 如果你正在尋找深色模式變體，請查看以下分支！\n\n[Dark OreUI Recreation by itznotmikel](https://modrinth.com/resourcepack/dark-oreui-recreation)\n\n[OreUI Recreation - Dark mode by Bartolommeo](https://modrinth.com/resourcepack/oreui-recreation-dark-mode)\n\n### 資源包限制\n\n- 由於資源包的技術限制，部分介面的內距可能不一致。\n- Optifine 不支援自訂桶子 GUI\n\n### 致謝\n\n- BoardSodie：原始圓角快捷欄設計\n- Pigzone00：初始快捷欄問題回報\n\n### 尚待完成的事項與未來計畫？\n\n隨著遊戲內幾乎所有 UI 都已完成，我計劃為其他模組新增支援。歡迎在 GitHub 上建立 Issue，提出你希望未來獲得支援的模組！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

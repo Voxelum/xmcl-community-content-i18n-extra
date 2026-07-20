@@ -1,6 +1,6 @@
 {
-  "bodyHash": "PDEzg/dMiAM=",
-  "content": "# Специальный загрузчик моделей\nЗависимый мод для поддержки загрузки Obj-моделей в Fabric.  \nРазработан вдохновлённым [FOML](https://github.com/OnyxStudios/FOML) и [Myron](https://github.com/Haven-King/myron).  \nБолее подробную информацию смотрите в [Вики](https://github.com/TeamFelnull/SpecialModelLoader/wiki).\n\n## Модпак, включайте в свои моды\nПожалуйста, используйте его свободно.",
+  "bodyHash": "952e4a7351502000",
+  "content": "\n\n# Загрузчик специальных моделей\nМод-зависимость для поддержки загрузки моделей OBJ в Fabric.  \nРазработан по мотивам [FOML](https://github.com/OnyxStudios/FOML) и [Myron](https://github.com/Haven-King/myron).  \nДля получения дополнительной информации посетите [Вики](https://github.com/TeamFelnull/SpecialModelLoader/wiki).\n\n## Использование в модпаках и других модах\nИспользуйте на своё усмотрение.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

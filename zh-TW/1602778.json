@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7566f7ff04f3ae75",
+  "content": "\n\n<h1>現代平衡煉金術 (Fabric)</h1>\n<p>將物品轉化為 EMC，產生被動收入，發射追蹤箭矢，並與盟友共享儲備池。</p>\n<h2>EMC</h2>\n<p>EMC（Energy-Matter Covariance，能量與物質等價換算）是此模組的貨幣。每個可合成的物品都有 EMC 數值。在轉化桌中燒毀物品以獲取 EMC（獲得其數值的 95% — 扣除 5% 燒毀稅）。燒毀後，該物品會被「記錄」，之後即可再次轉化出來。</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/1c52a1f569abbb6d7c123e435375ee1f87ff1d49.png\" alt=\"preview\"></p>\n<h2>機制</h2>\n<ul>\n<li><strong>轉化桌</strong>：燒毀物品以獲取 EMC。將已記錄的物品轉化回來（點擊轉換 1 個，按住 Shift 點擊轉換 64 個）。</li>\n<li><strong>轉化石板</strong>：便攜式轉化桌。</li>\n<li><strong>能量收集器</strong>：每級被動生成 1 EMC/秒。最多可堆疊 100 個。需要直接接觸天空。擁有者線上時會獲得 EMC；離線產出會在登入時結算（上限 24 小時）。</li>\n<li><strong>財富稅</strong>：被動收入會根據你的餘額進行扣減 — 餘額低於 100k 時保留 100%，100k 時為 90%，500k 時為 85%，1M 時為 70%，20M 時為 50%，100M 以上為 10%。</li>\n<li><strong>暗影施法弓</strong>：發射會彎曲射向 16 格內附近生物的追蹤箭矢。每次射擊消耗 14 EMC。按住右鍵可自動發射，射擊間隔為 0.8 秒。支援力量與烈焰附魔。</li>\n<li><strong>煉金袋</strong>：提供 72 格的便攜式儲存空間，共 16 種顏色。使用染料可重新上色。</li>\n</ul>\n<h2>指令</h2>\n<ul>\n<li><code>/emc</code> — 顯示你的 EMC 餘額並閃爍 HUD 提示</li>\n<li><code>/balances [page]</code> — 所有玩家的 EMC 餘額與產出排行榜</li>\n<li><code>/collectors</code> — 列出你的能量收集器及其位置與產出</li>\n<li><code>/energyshare &lt;player&gt;</code> — 與另一位玩家合併 EMC 儲備池（雙方必須確認）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e1f60f66a856f974",
+  "content": "Clean F3 是一个轻量级的开源模组，通过移除调试屏幕中一些无用的信息来改善其外观。\n\nBefore:\n![before](https://i.imgur.com/z3lEZOx.png)\n\nAfter:\n![after](https://i.imgur.com/Ta3KwS8.png)\n\n所有设置均可通过 [MidnightLib](https://modrinth.com/mod/midnightlib) 在配置界面中进行更改。\n\n版本 0.4.4 的设置如下：\n![settings](https://imgur.com/cGGvRNJ.png)\n\n此模组不仅允许你移除原版中的调试元素，还可以从一些流行的模组中移除，包括但不限于：\n- Distant Horizons\n- EntityCulling\n- Iris\n- JourneyMap\n- LambDynamicLights\n- Litematica\n- ModernFix\n- Presence Footsteps\n- Sodium\n- ViaFabric\n\n# 常见问题解答\n\n问：你会更新此模组到 1.21.8 之后吗？\n答：不会。原版已经添加了自定义 F3 屏幕显示内容的系统，因此此模组在现代版本中已不再必要。\n\n问：为什么也要隐藏其他模组的 F3 元素？模组作者难道不是故意添加它们的吗？\n答：虽然某些模组添加的元素对调试有用，但对大多数用户来说这些并不重要，反而会分散他们对更相关内容的注意力。然而，如果你想报告其中一个受影响模组的问题，请确保在他们要求提供截图时重新开启其调试信息！\n\n问：你能添加一个用于 [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) 的切换开关吗？\n答：ImmediatelyFast 已经内置了禁用其调试信息的配置选项。\n\n问：你能添加另一个模组 xyz 的切换开关吗？\n答：请在 GitHub 上提交一个包含该模组名称的 Issue，以便我进行调查。\n\n问：Neoforge/Forge 版本呢？\n答：Clean F3 目前仅针对 Fabric 开发。不过，如果你希望在 NeoForge 上使用它，可以通过 [Sinytra Connector](https://modrinth.com/mod/connector) 实现。遗憾的是，这不适用于 Forge 1.20.1。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

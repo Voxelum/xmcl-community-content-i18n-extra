@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/ke0CPdWPsY=",
-  "content": "研磨附魔為磨石新增了幾項功能。\n\n### 將附魔轉移到書上\n你可以將附魔物品和一本書放入磨石，這樣附魔就會轉移到書上（並歸還未附魔的物品）。\n![附魔物品轉移](https://docs.mschae23.de/w/img_auth.php/thumb/6/6a/Grind_enchantments_-_Disenchant.png/900px-Grind_enchantments_-_Disenchant.png)\n\n### 在書之間移動附魔\n若將附魔書放入上方欄位，並將空白書（或已附魔的書）放入下方欄位，則第一本書最上方的附魔會轉移到另一本書上。\n\n這在書上存在不同類型物品的附魔時（例如同時擁有效率與保護的書）特別實用，可以將它們分開。\n\n支援 [免稅等級](https://modrinth.com/mod/tax-free-levels)。\n\n\n此模組適用於 Fabric。暫無移植至 Forge 的計畫。",
+  "bodyHash": "cced9b51202b0a43",
+  "content": "\n\nGrind Enchantments 為磨石新增了幾項新功能。\n\n### 解除附魔至書本\n你可以將附魔物品與一本書放入磨石，這樣就能將附魔轉移到書本上（同時收回未附魔的物品）。\n![Disenchant items](https://docs.mschae23.de/w/img_auth.php/thumb/6/6a/Grind_enchantments_-_Disenchant.png/900px-Grind_enchantments_-_Disenchant.png)\n\n### 在書本之間轉移附魔\n若將一本附魔書放入磨石的上方槽位，並將一本空白（或已附魔）的書放入下方槽位，第一本書最上方的附魔就會被轉移到另一本書上。 \n\n這對於擁有包含多種物品類型附魔的書本很有幫助（例如同時具有「效率」和「保護」附魔的書），你可以將它們分離。\n\n支援 [Tax Free Levels](https://modrinth.com/mod/tax-free-levels)。\n\n\n此模組僅供 Fabric 使用。目前無移植至 Forge 的計畫。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

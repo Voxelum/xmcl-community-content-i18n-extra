@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d1ea879d77817dbb",
+  "content": "\n\n<div>\n<img style=\"width:512px\" alt=\"Create: Compact Additions 图标\" src=\"https://github.com/CerealCamera/Compact-Additions/blob/50e5eb5955e0d02ed10c41c423570f785af0a091/src/main/resources/icon.png?raw=true\">\n<h1>Create: Compact Additions</h1>\n</div>\n<h3>概述</h3>\n<p><i>Create: Compact Additions</i> 为 <a href=\"https://github.com/Creators-of-Create/Create\" rel=\"nofollow\">Create</a> 和 <a href=\"https://github.com/Creators-of-Aeronautics/Simulated-Project\" rel=\"nofollow\">Create: Simulated</a> 添加了一些紧凑的动力学组件，例如反向模拟传输器和带齿变速齿轮。它们提供了制作紧凑型机器与载具的巧妙方案。</p>\n<h3>功能特性</h3>\n<ul>\n<li>反向模拟传输器：一种紧凑且高效的方式，可通过红石信号控制转速（RPM）。</li>\n<li>带齿变速齿轮：集成齿轮的变速轴，支持侧面传递旋转动力及接收侧面输入。</li>\n</ul>\n<h3>技术说明</h3>\n<p>反向模拟传输器的运作方式与标准模拟传输器完全一致，仅信号相反。因此，标准模拟传输器在信号强度为 10 时输出的 RPM，等同于反向模拟传输器在信号强度为 5 时的输出。\n带齿变速齿轮融合了封装齿轮与变速轴的功能，但齿轮本身不受变速逻辑影响。当旋转动力由齿轮输入并接收到红石信号时，两侧的输出转向会同时反转。</p>\n<h3>致谢</h3>\n<ul>\n<li>材质与模型基于 <a href=\"https://github.com/Creators-of-Create/Create\" rel=\"nofollow\">Create</a> 和 <a href=\"https://github.com/Creators-of-Aeronautics/Simulated-Project\" rel=\"nofollow\">Create: Simulated</a></li>\n<li>大部分代码基于 <a href=\"https://github.com/Creators-of-Aeronautics/Simulated-Project\" rel=\"nofollow\">Create: Simulated</a> 及其他 Create 附属模组</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "81qznrIMHFI=",
-  "content": "我們的社群 Discord：[點擊我](https://discord.ogcraftnet.vip/)\n\n適用於 Minecraft 的 TrueLightFX 光影\n\nTrueLightFX 是一款基於開源 Prismarine 光影客製化的 Minecraft 光影。此光影旨在透過新增擬真的光照、陰影與大氣效果來提升 Minecraft 的視覺體驗，同時維持良好的效能。有了 TrueLightFX，玩家可以享受沉浸式的遊戲體驗，包含改善的光影動態、平滑的水面反射以及鮮豔的色彩——無論是低階還是中階系統都非常適合。感謝 Septonious：[原始專案](https://github.com/Septonious/Prismarine-Shader)採用舊版 MIT 授權的原始專案",
+  "bodyHash": "37305eb8444da1f5",
+  "content": "\n\n我們的社群 Discord：[點我](https://discord.ogcraftnet.vip/)\n\nTrueLightFX Minecraft 光影包\n\nTrueLightFX 是一款基於開源專案 Prismarine Shader 所開發的自訂 Minecraft 光影。此光影旨在透過加入真實的光照、陰影與氛圍效果來提升 Minecraft 的視覺體驗，同時保持良好的效能。使用 TrueLightFX，玩家可享有沉浸式的遊戲體驗，包含改善的光線動態、流暢的水面反射以及鮮豔的色彩——非常適合低階與中階系統。\n特別感謝 Septonious：[原始專案](https://github.com/Septonious/Prismarine-Shader)，採用該專案較舊的 MIT 授權版本。\n\n相容性：\nTrueLightFX 可能支援 Minecraft 1.8.2 至 1.19 版本，但較舊的版本可能會出現錯誤與流暢度下降的問題。為了獲得最佳體驗，強烈建議使用 Minecraft 1.19 或更新版本。\n此外，我不建議使用 OptiFine，因為某些功能在 OptiFine 上錯誤頻發，但在 Iris 上則能正常運作！\n另外請注意，我建議您僅在 Iris 與 Sodium 仍持續更新的遊戲版本上使用！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

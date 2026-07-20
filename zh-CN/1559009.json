@@ -1,0 +1,6 @@
+{
+  "bodyHash": "74f6e1206917ffaf",
+  "content": "\n\n<p><strong>Create Aero + Connected FluidVessel 兼容</strong></p>\n<p>Create Connected 的 FluidVessel 是 Create 生态中最优秀的流体存储方案之一 &mdash; 但默认情况下，Create Aeronautics 的蒸汽阀完全无法识别它。将蒸汽阀放置在 FluidVessel 上方不会触发任何效果：无法作为锅炉运作、不产生蒸汽、也无法提供动力。本模组修复了该问题。</p>\n<p>将蒸汽阀放置在 Create Connected FluidVessel 上方，它们的工作方式将与原版 Create 流体储罐完全一致 &mdash; 将你的容器转化为可正常运作的锅炉，产生蒸汽以驱动引擎、机械设备和飞艇。</p>\n<p><strong>修复内容：</strong></p>\n<ul>\n<li><strong>FluidVessel 可作为锅炉使用</strong>&nbsp;&mdash; 放置在 FluidVessel 上方的蒸汽阀现在能正确激活其锅炉功能，按预期产生蒸汽</li>\n<li><strong>红石信号同步</strong>&nbsp;&mdash; 单一红石信号现在可同时正确激活连接至同一 FluidVessel 的所有蒸汽阀，而非各阀门独立响应</li>\n<li><strong>传动轴实体 Bug</strong>&nbsp;&mdash; 修复了当蒸汽阀传动轴连接至飞艇上的 FluidVessel 时，会分裂为独立物理实体的问题</li>\n</ul>\n<hr>\n<p><strong>前置模组：</strong></p>\n<ul>\n<li>Create</li>\n<li>Create Aeronautics</li>\n<li>Create Connected</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

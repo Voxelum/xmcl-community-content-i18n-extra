@@ -1,0 +1,6 @@
+{
+  "bodyHash": "343cb241165c85b9",
+  "content": "# 概述\n如果你使用的是高刷新率显示器，你可能会注意到在拖动光标时，主菜单感觉卡顿且响应迟缓。本模组通过解除主菜单中 60fps 的限制来解决这个问题。\n\n这是一个移植版本，原版模组可以在[这里](https://www.curseforge.com/minecraft/mc-mods/smoothmenu)找到。请不要将 Refabricated 的问题报告给 Forge 模组仓库。\n# 许可证\n我有权移植该模组，因为其许可证为 MIT。我需要在此声明这一点，因为原版模组的 `mods.toml` 文件中[意外标记为 ARR](https://github.com/BookerCatch/SmoothMenu/issues/1)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

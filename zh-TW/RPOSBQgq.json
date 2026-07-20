@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5672d4c4c731fe18",
+  "content": "\n\n# ItemSwapper\n\n> 本模組仍在開發中，功能可能會隨時間調整。歡迎在 Github 上開啟 Issue 或討論區，提供您的建議或回報遇到的問題。\n\n基於 [Xisumavoid 的影片](https://www.youtube.com/watch?v=A6DvnFCW5FY) 對物品欄系統進行微調。\n新增一個透過按下快捷鍵（預設：`R`）觸發的物品切換介面。根據主手持有的物品不同，介面會顯示相應的選項（未綁定的物品則不會顯示）。移動滑鼠游標（或使用滾輪針對列表）來切換選項。鬆開快捷鍵即可將主手物品與選中的物品交換。在物品輪盤中，當選定物品時按下滑鼠中鍵，可切換至相關物品（若有）。\n\n## 功能特色\n\n- 在物品欄內切換物品\n- 空手時顯示物品欄\n- 切換物品欄內潛影盒中的物品（需伺服器安裝對應模組/外掛）\n- 方塊調色板（物品輪盤）\n- 動態物品列表（如工具、食物、藥水等）\n- 完全支援透過資源包自訂\n\n## 依賴項目\n\n- FabricAPI\n\n## 感謝名單\n\n- [Xisumavoid](https://www.youtube.com/xisumavoid) 提供概念與影片靈感\n- [LizardOfOz](https://www.youtube.com/LizardOfOz) 設計師\n- [Stridey](https://modrinth.com/user/Stridey) 紋理繪製\n- [DnatorGames](https://twitter.com/DnatorGames) Logo 設計\n- [Ratty](https://github.com/RodentMastermind) 協助資源包製作\n\n## 截圖\n\n![木板類型](https://raw.githubusercontent.com/tr7zw/ItemSwapper/1.19/img/planktypes.png)\n![木材選項](https://raw.githubusercontent.com/tr7zw/ItemSwapper/1.19/img/woodoptions.png)\n![染料](https://raw.githubusercontent.com/tr7zw/ItemSwapper/1.19/img/dyes.png)\n![工具](https://raw.githubusercontent.com/tr7zw/ItemSwapper/1.19/img/tools.png)\n![藥水](https://raw.githubusercontent.com/tr7zw/ItemSwapper/1.19/img/potions.png)\n![紅石](https://raw.githubusercontent.com/tr7zw/ItemSwapper/1.19/img/redstone.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "192f533e8a9b2d4d",
+  "content": "\n\n<p>本模組賦予幽靈更清晰且具意義的角色。失眠生成的時代已經過去，幽靈現在<strong>僅在滿月期間</strong>出現，且必須<strong>你在世界中取得一定進展後</strong>才會生成。無論你是厭倦了因跳過睡眠而受懲罰，還是單純希望幽靈更具主題性與威脅感，本模組都提供了一個精緻輕量的替代方案。</p>\n<p>&nbsp;</p>\n<h2><strong>功能特色</strong></h2>\n<ul>\n<li>自動禁用 <code>doInsomnia</code> 遊戲規則。</li>\n<li>幽靈將<strong>僅在滿月之夜的午夜生成</strong>（每8夜中僅有1夜會發生）。</li>\n<li>除非玩家解鎖了<strong>「取得硬體」</strong>進度（即熔煉過鐵），否則幽靈不會生成。</li>\n<li>當滿月之夜到達午夜時，<strong>每位玩家</strong>都會觸發一次<strong>幽靈群組生成</strong>，數量取決於難度（簡單：1至2隻，普通：2至3隻，困難：2至4隻）。</li>\n<li>若整個群組被殲滅，新群組將在<strong>10秒後</strong>再次生成，並持續重複直到<strong>該夜結束</strong>。</li>\n<li>幽靈的數值已進行調整：生命值從20降至10，傷害從2提升至5，擊退強度從0提升至1。</li>\n</ul>\n<p>&nbsp;</p>\n<h2><strong>常見問題</strong></h2>\n<p><strong>問：本模組是否適用於現有世界？</strong><br>\n<strong>答：</strong>是的！本模組完全支援現有世界。</p>\n<p><strong>問：幽靈會在創造模式中生成嗎？</strong><br>\n<strong>答：</strong>會的，幽靈在創造模式中也能像原版 Minecraft 一樣生成。如果需要，你可以使用 <code>doPhantomSpawning</code> 遊戲規則（或透過 Forge 1.19.3 及更早版本的設定檔）完全關閉幽靈生成。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

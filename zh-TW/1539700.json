@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13d16d83604c22f5",
+  "content": "\n\n<p><strong>Worldgen Guard</strong><br>一款防禦性模組，可防止有缺陷的世界生成模組在區塊生成期間強制載入相鄰區塊所導致的伺服器凍結。</p>\n<p><strong>問題所在</strong><br>部分 Minecraft 模組包含的 Feature（特性）實作，會在區塊仍在生成時呼叫如 Block.dropResources()、BlockEntity.setChanged() 或 Level.getBlockState() 等方法。這些呼叫可能會觸發對尚未完成生成的相鄰區塊進行同步強制載入，導致伺服器執行緒無限期停滯在 CompletableFuture.join() 上。</p>\n<p>症狀表現：玩家會發現世界凍結。方塊不再掉落物品，生物無法移動，Tick 計數器從 40 秒 &rarr; 80 秒 &rarr; 無窮大遞增。伺服器不會崩潰，只是停止運算。重新啟動僅能延遲下一次的凍結，當世界生成再次觸發相同條件時仍會發生。</p>\n<p><strong>此模組的功能</strong><br>Worldgen Guard 會安裝四個防禦性的 Mixin，在區塊裝飾階段攔截危險呼叫，並在它們導致伺服器死結前將其取消。這些取消操作是安全的：原版世界生成從不依賴這些呼叫，且它們原本應產生的資料，要麼會透過常規的區塊儲存路徑持久化，要麼會在首次互動時惰性重新計算。</p>\n<p><strong>運作原理</strong><br>* ChunkGenerator mixin 會在執行生物群落裝飾時將每個執行緒標記為「世界生成中」。<br>* Block mixin 會在世界生成期間取消 dropResources() 呼叫。<br>* BlockEntity mixin 會在世界生成期間取消 setChanged() 呼叫（視情況而定）。<br>* 可選啟用的 Level mixin 會記錄可疑的跨區塊讀取操作，以協助識別其他有問題的模組。<br>所有四項防護機制均可在 <span style=\"text-decoration:underline\">config/worldgen_guard-common.tom</span>l 設定檔中個別開關。<br><br><br><strong>何時安裝</strong><br>你運行著重度模組化的伺服器，並曾見過無法解釋的「世界凍結但伺服器仍在運作」症狀。<br>你的玩家回報，在探索新區塊後，挖掘方塊或生物行為會隨機停止運作。<br>你是模組包作者，希望加強你的模組包，以抵禦大量品質不佳的世界生成模組所衍生的潛在問題。<br>如果你的伺服器運作正常，則不需要安裝此模組。本模組是针对特定死結模式的定向修復方案，而非通用的效能提升工具。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

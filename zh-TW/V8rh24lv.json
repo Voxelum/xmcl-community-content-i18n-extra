@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c81e77d090094815",
+  "content": "Spear Core\n\n一個輕量級的庫模組，為 Minecraft 1.21.1 NeoForge 提供完整的長矛武器系統。\n\n功能：\n完整的長矛武器機制：蓄力、突刺以及基於動量的傷害\n三階段蓄力系統：下馬 → 擊退 → 傷害\n支援左鍵戳擊和右鍵蓄力攻擊\n第一人稱與第三人稱動畫，並具有流暢的過渡效果\n基於速度的碰撞檢測，範圍可配置\n內建「衝刺」附魔（攻擊時向前衝刺）\n可配置的材質預設值，用於自訂長矛\n為其他模組提供 API，方便輕鬆建立自訂長矛物品\n\n供模組開發者使用：\n繼承 `SpearItem` 或使用 `SpearProperties` 來建立擁有自訂屬性、材質和行為的長矛。無需複雜設定。\n\n預設情況下，Spear Core 不會向遊戲中添加任何物品。要啟用內建的長矛，請執行以下步驟：\n\n1. 運行遊戲一次以生成設定檔\n2. 打開 `config/spearcore-common.toml`\n3. 設置 `enableVanillaSpears = true` 以啟用木製、石製、鐵製、金製、鑽石製和下界合金製長矛\n4. 設置 `enableCopperSpear = true` 以啟用銅製長矛",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

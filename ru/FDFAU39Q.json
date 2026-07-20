@@ -1,0 +1,6 @@
+{
+  "bodyHash": "212a79f24324f364",
+  "content": "\n\n# Описание\n\nВ игре существует неиспользуемый блок под названием «Верстак перьевщика». Поэтому я решил сделать этот блок полезным, добавив гораздо более простой способ создания заряженных стрел.\n\nЭтот мод наделяет верстак перьевщика возможностью преобразовывать обычные стрелы в заряженные с помощью зелья.\nОдна банка зелья (любого типа) позволяет превратить любое количество стрел из первого слота.\n\n![интерфейс верстака перьевщика](https://i.ibb.co/PWVGMbF/image-public-fletch.jpg)\n\n# Предпросмотр\n\n<img src=\"https://i.ibb.co/yfWYjkS/This-is-a-mod-that-add-a-GUI-to-the-Fletching-Table-allowing-it-to-craft-tipped-arrows-by-using-any.gif\" width=\"1000\"></img>\n\n# Интеграция с JEI / REI\n\n<img src=\"https://i.ibb.co/bptdTkK/screen-rei.png\" width=\"1000\"></img>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

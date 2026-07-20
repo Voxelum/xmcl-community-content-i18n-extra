@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c65febc8dca47c45",
+  "content": "\n\n# Удалитель дубликатов командных функций\n<img src=\"https://raw.githubusercontent.com/Myitian/FunctionCommandDeduplicator/refs/heads/main/.github/icon.png\" width=\"128\" alt=\"logo\">\n\nУдаляет дубликаты объектов команд в файлах .mcfunction для снижения потребления памяти при загрузке очень крупных пакетов данных.\n\n## Требования\n- Minecraft >= 1.20.5\n- Загрузчик модов (Fabric/NeoForge/Forge)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

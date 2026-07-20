@@ -1,0 +1,6 @@
+{
+  "bodyHash": "446f3c88d47098a1",
+  "content": "\n\nUnbound Visual+ 是 Complementary Unbound 的修改版本，加入了與原版光影不同的特效與視覺效果，並提升了色彩飽和度。\n我們對其他光影包並無敵意，僅對其他使用者開發的光影進行修改。若有任何問題，歡迎聯繫我們。\n\n\n\n# 效能\n\n如果您遇到延遲問題，可以將設定檔改為**低（Low）**；若仍有明顯卡頓，可調整為**標準（Standard）**；若電腦效能穩定，建議將其調至**超高（Ultra）**以獲得令人驚豔的視覺效果（即我們所稱的 Visual +）。若您追求極致流暢，我們還新增了一個**電影級（Cinematic）**設定檔。\n\n\n# 功能特色\n\n- 上帝之光與體積光照明（內建/預設）\n- 針對 Patrick's 等資源包，更新並最佳化 PBR 貼圖支援。\n- 經改良並整合多種附加技術的 SSR（螢幕空間反射）方案。\n- 角色/玩家反射（SSBO/SSR/WSR）（需啟用超高/電影級/標準設定檔）\n- 更自然且濃密的霧氣效果\n- 增強的色彩光照系統\n\n\n# 注意事項\n\n目前方塊反射的光影技術尚未完全成熟，仍存在滲漏、資料遺失及渲染異常等問題，我們目前正在積極改進中。\n\n\n\n# 所需條件\n\n- 請確保您已為所選光影包版本及對應的 Minecraft 版本安裝了 **Iris**。\n- 安裝 **Fabric** 載入器（官方原版）。\n- 可選用效能最佳化與記憶體管理模組（選配）。\n\n\n# 授權與鳴謝\n\n本光影包基於 Complementary Unbound 修改而成，**我們不宣稱擁有其版權**，原始內容歸原作者所有，該作者亦為 Modrinth 平台創作者之一。原作者名稱為 EminGT，來自土耳其。他以製作亮度極高且品質卓越的 Complementary Unbound、Complementary Shaders 與 Complementary Reimagined 而聞名。\n\n\n# 授權條款\n\n本光影包之授權允許修改與使用，任何人皆可遵循，但仍須遵守原作者之版權規範。https://opensource.org",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

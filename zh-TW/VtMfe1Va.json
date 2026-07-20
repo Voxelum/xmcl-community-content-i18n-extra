@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b1994a55af797582",
+  "content": "\n\n**S-Lib 是一個共用函式庫，包含 Stalemated 的 Minecraft 模組常見的實用工具、輔助功能與 API。** \n\n它本身不提供任何內容，純粹是運行 [Custom Tooltip API](https://modrinth.com/mod/custom-tooltip-api) 與 Smart Tooltip Scroll 等專案所必要的依賴項。\n\n若你認為它符合你的需求，歡迎在專案中自由使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "CjWlEjK60xA=",
-  "content": "***仅在服务器端需要。*** 移除服务器端对玩家速度的限制，这些限制会导致控制台中出现“玩家XYZ移动过快”的消息和回弹现象。\n\n代码主要源自Random Patches的速度限制，该代码采用MIT许可证，因此与许可证兼容。然而，实际上没有其他方法可以实现这一点：[源代码](https://github.com/TheRandomLabs/RandomPatches/blob/1.16-forge/src/main/java/com/therandomlabs/randompatches/mixin/ServerPlayNetHandlerPlayerSpeedLimitsMixin.java)\n\n与Random Patches冲突。如果你已经安装了Random Patches，请不要安装此模组。\n\nPatreon & Discord\n\n你可以在[Patreon](https://www.patreon.com/noobanidus)上支持我！\n\n此模组的所有支持可在[我的Discord]((https://discord.gg/9YVkaee)上获得。你还可以关注我的动态并获取直播通知！",
+  "bodyHash": "13daa6fd7f3470dc",
+  "content": "\n\n***仅服务端必需。*** 移除服务端对玩家移动速度的限制，从而避免控制台出现“玩家 XYZ 移动过快”的提示以及回弹现象。 \n\n代码主要源自 Random Patches 的速度限制模块，该模块采用 MIT 协议授权，因此本模组与其协议兼容。不过实际上几乎别无他法：[源码](https://github.com/TheRandomLabs/RandomPatches/blob/1.16-forge/src/main/java/com/therandomlabs/randompatches/mixin/ServerPlayNetHandlerPlayerSpeedLimitsMixin.java)\n\n与 Random Patches 存在冲突。若您已安装 Random Patches，则无需安装此模组。\n\nPatreon 与 Discord\n\n您可以在 [Patreon](https://www.patreon.com/noobanidus) 上支持我！\n\n本模组的所有支持服务均在 [我的 Discord]((https://discord.gg/9YVkaee)。您也可以在此关注我的开发动态并接收通知流！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

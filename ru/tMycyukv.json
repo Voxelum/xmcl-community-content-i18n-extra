@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4546f696edefd786",
+  "content": "![ЛОАДЕР FORGE](https://img.shields.io/badge/Loader-Forge-ecebe6?labelColor=B446C6&style=for-the-badge) ![ДОСТУПНО 1.20.1](https://img.shields.io/badge/Available-1.20.1-ecebe6?labelColor=B446C6&style=for-the-badge)\n![Основной логотип](https://cdn.modrinth.com/data/cached_images/adc712c3602ec90da72c7dadec226e9f70fbd895_0.webp)\nЭтот мод является универсальной библиотекой для модов, созданных [MegaDarkness](https://modrinth.com/user/MegaDarkness), предоставляя общий код для избежания ненужного дублирования и повторной реализации.\n\nКроме того, он переносит определенные функции из более новых версий Minecraft (>1.20.1) (такие как [Компоненты предметов](https://minecraft.wiki/w/Item_components)) и вводит дополнительные команды.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "618f1f5dde0d44d1",
+  "content": "\n\n<div>\n  <h1>可重生宠物</h1>\n  <a href=\"https://www.curseforge.com/minecraft/mc-mods/strawberrylib\" rel=\"nofollow\"><img src=\"https://github.com/ContentSMP/Badges/raw/refs/heads/main/strawberrylib/cozy_vector.svg\"></a>\n  <a href=\"https://discord.gg/Am6M8VQ\" rel=\"nofollow\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/social/discord-singular_vector.svg\"></a>\n  <a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fmoriyashiine\" rel=\"nofollow\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/donate/kofi-singular_vector.svg\"></a>\n  <h3>使用新物品“以太宝石”，可在宠物死亡后于你下次睡觉时使其复活。</h3>\n</div>\n<p>切换复活状态的方法是：对着宠物按下 [使用物品/放置方块] 键。你还可以潜行并使用以太宝石，将 9x3x9 范围内的多只宠物设置为死亡后可复活。以太宝石仅对你拥有的宠物生效，被加入 <code>respawnablepets:cannot_respawn</code> 标签的实体将被排除。</p>\n<p><strong>合成配方</strong></p>\n<p><img src=\"https://github.com/MoriyaShiine/respawnable-pets/blob/main/.webassets/recipe.png?raw=true\" alt=\"合成配方\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a26017cca4738ec5",
+  "content": "\n\n<!--DO NOT EDIT MANUALLY: synced from gh readme-->\n<!--suppress HtmlDeprecatedTag, XmlDeprecatedElement, HtmlDeprecatedAttribute -->\n<p align=\"center\">\n<img alt=\"模組圖示：被石頭包圍的天空方塊\" src=\"https://raw.githubusercontent.com/techno-sam/crystalline-sky/refs/heads/fabric-1.21.8/src/main/resources/assets/crystalline_sky/icon.png\" width=\"128\"/>\n</p>\n\n<p align=\"center\">\n將天空結晶化為方塊形式。滿足您所有在洞穴中需要天空的需求。<br/>\n</p>\n\n<p align=\"center\">\n<a href=\"https://modfest.net/toybox\"><img alt=\"為 Modfest：Toybox 製作\" src=\"https://raw.githubusercontent.com/ModFest/art/refs/heads/v2/badge/svg/toybox/compact.svg\"></a>\n</p>\n\n---\n\nCrystalline Sky 新增數種會發射天光的方塊：\n- **Sky**：發射天光等級 15，渲染效果如同天空。\n- **Sky Light**：發射天光等級介於 0 至 15 之間，具備透明渲染效果。\n- **Weeping Sky**：在其正下方垂直柱狀範圍內發射天光等級 15，渲染效果如同天空。\n- **Weeping Sky Light**：在其正下方垂直柱狀範圍內發射天光等級 15，具備透明渲染效果。\n\n---\n\n![Weeping Sky 方塊照亮洞穴的場景](https://cdn.modrinth.com/data/dhKWKlrK/images/5dc5430dd318361d12c962ac555d79f68aeac243.png)\n\n---\n\n**額外鳴謝**\n\n`skybox_sunny_day.png` 是 [KIIRA 的素材](https://opengameart.org/content/sky-box-sunny-day) 的縮小版，您可自行選擇適用 CC-BY 3.0、CC-BY-SA 3.0、GPL 3.0、GPL 2.0 或 OGA-BY 3.0 授權條款。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "feee71e367286cd3",
+  "content": "\n\n## 启用高炉冶炼沙子\n\n### 注意：\n此数据包添加了相关配方。移除该数据包会导致控制台显示关于丢失配方的警告。这对你的世界或存档数据没有任何危害。\n\n### 使用模组版本的安装说明：\n其功能与数据包完全相同，但会生效于所有在开启此模组时创建或加载的世界。如果你不希望影响所有世界，请使用数据包版本。\n\n**Forge**：\n<br>无需依赖项，直接将模组放入 mods 文件夹即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 是一些曾被提议加入 Purpur 服务器的功能——或是契合 Purpur 主题的内容，但开发团队最终决定将它们以数据包形式发布会更合适！\n<br>这些数据包的作用等同于 Purpur 中的单一配置项。你可以随时添加或移除它们，且不会对服务器造成任何损坏。\n<br>这些数据包在原版 Minecraft 中即可使用，无需运行 Purpur 服务器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

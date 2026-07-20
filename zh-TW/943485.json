@@ -1,6 +1,6 @@
 {
-  "bodyHash": "MvyWAsvOEBw=",
-  "content": "<p>通常情況下，Backpacked模組中的背包合成配方需要六張兔子皮來製作。</p><p>&nbsp;</p><p>由於兔子皮可能難以取得，特別是在裝有其他模組的世界中，這使得背包變得過於難以獲得。</p><p>&nbsp;</p><p><img src=\"https://files.horizon.pics/525406e3-5a57-460f-b8ee-46b7481a3e28?a=580&amp;mime1=image&amp;mime2=png\" alt=\"Backpacked模組中背包的合成配方圖片\" width=\"157\" height=\"165\"></p><p>&nbsp;</p><p>這個數據包將兔子皮改為皮革。這不適用於Fabric版本的Backpacked，因為數據包的配方更改使用了Forge標籤，而不是該模組Fabric版本所使用的c標籤。</p><p><strong>使用方法：放入你世界的數據包資料夾中，或使用像Paxi、Openloader或Global Packs這樣的數據包加載器來自動加載到所有新世界中。</strong></p>",
+  "bodyHash": "f2d223506ee40677",
+  "content": "\n\n<p>通常，來自「Backpacked」模組的背包製作配方需要六張兔皮。</p>\n<p>&nbsp;</p>\n<p>由於兔皮較難取得，尤其是在整合包世界中，這使得獲得背包變得過於困難。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://files.horizon.pics/525406e3-5a57-460f-b8ee-46b7481a3e28?a=580&mime1=image&mime2=png\" alt=\"Backpacked 模組的背包配方圖片\" width=\"157\" height=\"165\"></p>\n<p>&nbsp;</p>\n<p>此資料包將配方中的兔皮替換為皮革。此修改不適用於 Backpacked 的 Fabric 版本，因為該資料包的配方更改使用了 Forge 標籤，而非該模組 Fabric 版本所使用的 c 標籤。</p>\n<p><strong>使用方法：將其放入世界的 datapacks 資料夾中，或使用 Paxi、Openloader 或 Global Packs 等資料包載入器，即可自動載入至所有新世界中。</strong></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a4025ffd1a7ca6ba",
+  "content": "\n\n此模組使用 Mojang 現代的 Brain（大腦）系統重寫了蜜蜂 AI，讓行為表現更加一致且可靠。蜜蜂對家的記憶更為精確，其尋路邏輯也經過優化，同時兼顧了效能與穩定性。 \n\n**蜜蜂將不再隨機飛離家園或卡在天空中。**\n\n此模組有效修復了以下問題：\\\n[MC-206401](https://bugs.mojang.com/browse/MC-206401) \\\n[MC-190261](https://bugs.mojang.com/browse/MC-190261) \\\n[MC-190042](https://bugs.mojang.com/browse/MC-190042) \\\n[MC-276167](https://bugs.mojang.com/browse/MC-276167) \\\n[MC-174348](https://bugs.mojang.com/browse/MC-174348) \\\n[MC-160394](https://bugs.mojang.com/browse/MC-160394) \n\n此模組僅需安裝於伺服器端即可。除非您希望在單人遊戲中使用，否則無需擔心客戶端是否需要安裝。 \n\n圖示由 [xirobi](https://xirobi.carrd.co/) 設計！\n\n<img src=\"https://www.bisecthosting.com/partners/custom-banners/c97a8af1-61c5-4684-918c-ba0d7efcdbfe.png\" width=\"80%\" />",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

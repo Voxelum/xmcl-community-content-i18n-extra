@@ -1,6 +1,6 @@
 {
-  "bodyHash": "sPGqf/c0/18=",
-  "content": "<h1 style=\"text-align:center\"><strong>FDLib</strong></h1><h3 style=\"text-align:center\">功能特色</h3><p>&nbsp;</p><p>1) 基岩版模型載入器（不支援模型中的部分參數，如鏡像UV）</p><p>2) 支援「數學」關鍵影格的基岩版動畫載入器</p><p>3) 過場動畫（客戶端）</p><p>4) 自訂首領血條</p><p>5) 衝擊畫面效果（可於fdlib設定中關閉）</p><p>6) Json設定檔</p><p>7) 簡易封包註冊</p><p>以及其他實用工具與數學功能。</p><p>&nbsp;</p><p>問與答：</p><p>&nbsp;</p><p><strong>- 我可以在模組包中使用這個函式庫嗎？</strong></p><p>可以</p><p>&nbsp;</p><p><strong>- 我可以將這個函式庫用於自己的模組嗎？</strong></p><p>您可將此函式庫用於您的模組，但不得作為內建組件使用！</p><p>&nbsp;</p><p><strong>- 我卡在過場動畫中，該怎麼辦？&nbsp;</strong></p><p>輸入指令「/fdlib fix cutscene」將立即結束當前過場動畫。不建議在遊戲過程中隨意使用，以免破壞遊戲體驗。</p><p>&nbsp;</p><p><strong>- Json設定檔是否支援重新載入？</strong></p><p>是的，請使用指令：「/fdlib reload configs/clientsideConfigs」</p>",
+  "bodyHash": "f40479a00deeb0ca",
+  "content": "\n\n<h1 style=\"text-align:center\"><strong>FDLib</strong></h1>\n<h3 style=\"text-align:center\">功能特色</h3>\n<p>&nbsp;</p>\n<p>1) 基岩版模型載入器（不支援模型中的某些參數，例如鏡像 UV）</p>\n<p>2) 支援「math」關鍵幀的基岩版動畫載入器</p>\n<p>3) 過場動畫（客戶端）</p>\n<p>4) 自訂 Boss 血條</p>\n<p>5) 打擊幀（可在 fdlib 設定檔中停用）</p>\n<p>6) JSON 設定檔</p>\n<p>7) 簡易封包註冊</p>\n<p>以及其他工具與數學相關功能。</p>\n<p>&nbsp;</p>\n<p>常見問題與解答：</p>\n<p>&nbsp;</p>\n<p><strong>- 我可以在模組包中使用這個庫嗎？</strong></p>\n<p>可以。</p>\n<p>&nbsp;</p>\n<p><strong>- 我可以在我的模組中使用這個庫嗎？</strong></p>\n<p>您可以將此庫用於您的模組，但不可將其作為內建模組使用！</p>\n<p>&nbsp;</p>\n<p><strong>- 我卡在過場動畫中該怎麼辦？&nbsp;</strong></p>\n<p>執行指令 \"/fdlib fix cutscene\" 可立即結束當前過場動畫。不建議在遊戲過程中使用，以免影響遊戲體驗。</p>\n<p>&nbsp;</p>\n<p><strong>- JSON 設定檔是否可以重新載入？</strong></p>\n<p>可以，請使用以下指令：\"/fdlib reload configs/clientsideConfigs\"</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

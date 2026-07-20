@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f54ca35b703dd046",
+  "content": "\n\n<p>這是 RedDev（我）為《我的世界》開發的光線追蹤音效實作。與 Sound Physics 模組不同，此處的光線投射起點為玩家而非聲音來源（理論上更為優化）。混響效果盡可能透過 OpenAL 達成精準呈現。本模組基於 Vercidium 的影片《A First look at Ray Traced Audio》中所探討的架構進行開發。同時相容於 SVC 與 Sinytra，耶！</p>\n<p>注意：CurseForge 上的版本未必皆是最新版。若您需特定版本用於整合包，請前往 Modrinth 或私訊 RedLife。（純粹是因為我太懶了，每次更新根本不想上傳 9 個檔案啦哈哈）</p>\n<p>簡而言之：超讚的光線追蹤音效，哇喔～。</p>\n<p>宣傳片：&nbsp;</p>\n<p><span><span><iframe src=\"https://www.youtube.com/embed/ICHHoZH82fw\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p>\n<p>簡短說明影片：</p>\n<p><span><span><iframe src=\"https://www.youtube.com/embed/xYEn5TlQ6Yw\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p>\n<p>完整開發日誌：<a href=\"https://www.youtube.com/playlist?list=PLFZJv03VT4l4e0WHEBjRRmWVq-Hg6RR1w\" target=\"_blank\" rel=\"nofollow\">播放清單</a></p>\n<p>設定項目相當多，只需使用 ModMenu 或類似工具即可在遊戲內進行調整：)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

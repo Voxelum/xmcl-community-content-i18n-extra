@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33d47feb89058c71",
+  "content": "\n\n这个数据包实现了一个 Deadline（限时生存）玩法。支持 2 名及以上玩家组队进行，队伍数量可为 2 到 4 支。游戏开始时会进入准备阶段。默认时间为 1 小时，但可在配置文件中修改。准备期结束后将正式进入饥饿游戏模式，最后存活的玩家或队伍获胜。\n\n### 安装方法：  \n**如果你在加载时收到提示说该数据包不支持较低版本，请忽略此提示，它仍然可以正常运行。**\n\n**数据包安装：**  \n1. 找到对应世界的 `datapacks` 文件夹  \n2. 将 `Deadline.zip` 文件拖入该文件夹  \n3. 在游戏中执行 `/datapack enable \"file/Deadline.zip\"` 启用该数据包  \n\n**模组安装：**  \n1. 按照教程安装你偏好的模组加载器（Forge、Fabric、NeoForge 或 Quilt）\n2. 将下载的 `.jar` 文件拖入（Windows 系统下为）`%appdata%\\.minecraft\\mods` 目录\n3. 启动世界并开始游玩\n\n\n### 游戏玩法：\n使用以下命令选择战斗区域中心点：\n\n```\n/function deadline:center\n```\n\n可使用以下命令自动分配队伍：  \n```\n/function deadline:team_set\n```\n\n你也可以手动创建队伍（例如，你想打 2v2，每队 2 人，而不是自动分配的 1v1v1v1）。\n\n以加入蓝色队伍为例：\n\n```\n/team join deadline_blue <player>\n```\n\n之后使用以下命令开始游戏：\n```\n/function deadline:start_game\n```\n\n若要强制结束游戏，请使用：\n```\n/function deadline:end_game\n```\n\n若要设置游戏开始前的准备时间，请使用（单位为秒，1 小时 = 60*60 秒 = 3600 秒）：\n```\n/scoreboard players set Temp deadline_time <time>\n```\n\n**如有任何问题，请前往我的 Discord 服务器反馈。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

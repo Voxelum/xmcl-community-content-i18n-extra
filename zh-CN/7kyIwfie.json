@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8c67efd4df57f9e",
+  "content": "\n\n# World Preview NeoForged\n这是 [World Preview](https://modrinth.com/mod/world-preview) 的非官方移植版本。原版模组虽然支持 1.21.x，但仅适用于 Fabric 和 Forge 加载器。该模组对我的使用场景至关重要，因此我决定移植这款功能极其强大的工具，以简化配置流程，尤其是在寻找完美出生点时。\n__________________________________________________________________________________________________\n\n### 重要提示\n不过，TFC 与该移植版并非完全兼容，但 [World Preview TFC](https://modrinth.com/mod/world-preview-terrafirmacraft) 可以。\n\n## 预览\n以下是该模组提供的一些预览示例。\n### 生物群系\n![首次视图展示](https://raw.githubusercontent.com/caeruleusDraconis/world-preview/1.20/img/biomes.png)\n\n### 结构位置\n![Structures ](https://raw.githubusercontent.com/caeruleusDraconis/world-preview/1.20/img/structures.png)\n\n### 高度图\n![高度图](https://raw.githubusercontent.com/caeruleusDraconis/world-preview/1.20/img/heightmap.png)\n\n### Y轴交集（特定 Y 坐标的遮罩）\n![Y-Intersection](https://raw.githubusercontent.com/caeruleusDraconis/world-preview/1.20/img/y-int.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

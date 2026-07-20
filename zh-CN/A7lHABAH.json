@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c84387179c653109",
+  "content": "\n\n## Skinss\n\nSkinss 是一款适用于 Fabric/Forge 的模组，允许玩家使用本地文件中的**自定义皮肤和披风**，并支持**服务端同步**，以便安装了该模组的其它玩家也能看到。\n\n**警告**：与 Tl_skin 不兼容。\n预计后续更新将修复此问题。\n\n### 功能特性\n- 从本地 **PNG** 文件应用自定义**皮肤**\n- 从本地 **PNG** 文件应用自定义**披风**\n- 支持**动态 GIF 披风**\n- **服务端同步**：自定义纹理将与其他玩家共享（需服务器和客户端均安装该模组）\n- 保存您的选择，并在重新加入时自动应用\n\n### 工作原理\n- 当您应用皮肤/披风时，Skinss 会将纹理数据上传至服务器。\n- 服务器会将其广播给所有已连接的玩家。\n- 客户端在渲染时会在本地覆盖玩家纹理。\n\n### 指令\n- `/skinss skin classic <file.png>` — 应用经典/宽体型皮肤\n- `/skinss skin slim <file.png>` — 应用纤细体型皮肤\n- `/skinss cape <file.png|file.gif>` — 应用披风（支持 PNG 或 GIF）\n- `/skinss remove skin` — 移除自定义皮肤\n- `/skinss remove cape` — 移除自定义披风\n- `/skinss remove all` — 同时移除两者\n\n### 文件路径\n请将文件放置于以下目录：\n- `config/skinss/skin/` — 皮肤（`.png`）\n- `config/skinss/cape/` — 披风（`.png` / `.gif`）\n\n### 依赖项\n- Fabric Loader\n- **Fabric API**\n- 同步要求：**Skinss 必须安装在服务器及所有客户端上**\n\n### 注意事项 / 限制\n- 仅安装了 Skinss 的玩家才能看到自定义纹理。\n- 体积过大的 GIF 披风可能会降低游戏性能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

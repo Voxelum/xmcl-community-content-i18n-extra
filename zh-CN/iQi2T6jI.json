@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11de352ed3840967",
+  "content": "# 告示牌编辑器 GUI（支持命令）\n\n## 功能\n\n允许玩家在图形界面中修改告示牌的样式和命令。\n\n现在支持双面告示牌的编辑。\n\n您可以按默认按键“V”来切换当前编辑的告示牌面。（您可以在设置中更改此按键）\n\n## 翻译\n\n我们的 GUI 支持简体中文和英文。\n\n帮助我们翻译该项目 [点击这里](https://github.com/wifi-left/sign-editor/tree/master/src/main/resources/assets/signgui/lang)。\n\n## 开发环境搭建\n\n有关设置说明，请参阅与您所使用的 IDE 相关的 [Fabric Wiki 页面](https://fabricmc.net/wiki/tutorial:setup)。\n\n## 许可证\n\n本模板采用 CC0 许可证提供。欢迎学习并将其整合到您自己的项目中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

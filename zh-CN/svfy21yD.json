@@ -1,0 +1,6 @@
+{
+  "bodyHash": "12bafa8e5a38b91d",
+  "content": "描述\nEtherImagen 提供了一种简单且沉浸式的展示方式，让您能够在 Minecraft 中显示自己的图片。\n\n使用特殊的图像框架，您可以上传存储在电脑上的图片，并将其直接放置在您的世界中作为装饰、海报、艺术品、标志、表情包、活动横幅等。\n\n🖼 功能特点：\n- 从计算机上传自定义图片\n- 将图片放置在装饰性框架中\n- 在生存或创造模式下易于使用\n- 支持多人游戏\n- 轻量级且经过优化\n🔒 权限系统：\n该模组包含一个命令来控制谁可以与图像框架进行交互。\n\n命令：\n /etherimage requireop <true/false>\n\n- true  → 只有 OP（管理员）玩家可以使用图像框架\n- false → 所有玩家都可以使用图像框架\n\n示例：\n- /etherimage requireop true\n- /etherimage requireop false\n\n对 URL 的支持将在不久后通过 watermedia 添加",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "rmrcD8SDzJk=",
-  "content": "這個模組新增了一個可以幾乎無限存放單一物品的箱子。\n\n其他模組中的箱子最多只能存放約20億個物品，這對於自動收集的材料如鵝卵石、泥土、地獄石來說是不夠的。有了這個模組，你只需要為每種物品準備一個箱子。我的模組中的箱子可以存放超過20億個物品，甚至超過長整數的最大值。\n\n請查看畫廊以獲取一些詳細圖片。\n\n無論是Forge還是Fabric版本，這個模組除了平台本身外，不需要依賴其他模組。\n\n連結至[CurseForge](https://www.curseforge.com/minecraft/mc-mods/infchest)",
+  "bodyHash": "6c666d0d87c8feb9",
+  "content": "\n\n本模組新增一種箱子，可近乎無限地儲存單一物品。\n\n其他模組的箱子容量上限僅約 20 億。這不足以儲存自動收集的素材（如鵝卵石、泥土、下界岩）。使用本模組後，你只需為每種物品配置一個箱子即可。此箱子能儲存的數量將突破 20 億，甚至超越長整數（long）的上限。\n\n更多細節圖片請參閱圖庫。\n\n無論 Forge 或 Fabric 平台，本模組均無需額外依賴模組。\n\n前往 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/infchest)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

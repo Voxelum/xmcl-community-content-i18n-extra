@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6a4a38a4f0177954",
+  "content": "# PixelBlades PRB 附加包\n![应用了 PBR 的钻石斧](https://cdn.modrinth.com/data/cached_images/5d5fb202b8ad727811d60d4825d0a357f1f0c97c_0.webp)\n\n一个添加了微妙 PBR 效果的附加资源包，专为与 [pixelblades](https://modrinth.com/collection/uBtkjTQc) 配合使用而创建。\n\n它适用于 PixelBlades 的两个版本：标准版和 2D 版。\n\n### 注意事项：\n- 此附加包在 **[Complementary Shaders](https://modrinth.com/shader/complementary-reimagined)** 的“高”预设下效果最佳；因为我的所有测试均基于该预设进行。\n\n- 使用时需在着色器设置中启用 labPBR。\n\n![PBR 开/关对比](https://cdn.modrinth.com/data/cached_images/bb5403a1c8b7ff486607582295ec5f19088f3ca0_0.webp)\n### **查看我的其他资源包**\n\n[![PixelBlades](https://cdn.modrinth.com/data/cached_images/203dacdeff3225b7fe133c21ef85201bb0879eb0_0.webp)](https://modrinth.com/project/pixelblades) [![PixelBlades 2D](https://cdn.modrinth.com/data/cached_images/13b973dbee0739aa12b14bbccea286938b899105.png)](https://modrinth.com/project/pixelblades2d)\n\n如果您有任何想法想要分享，或遇到任何问题需要反馈，请通过 Instagram 私信联系我：**[@mr.payy](https://www.instagram.com/mr.payy/)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

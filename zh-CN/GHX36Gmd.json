@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d33acb6f9e4916d9",
+  "content": "\n\n![替换为描述](https://cdn.modrinth.com/data/cached_images/17e8642420f9522d7bcce4047469c2b13bc6d376.png)\nReRetro Damage Indicators 将经典模组风格的伤害指示器外观与体验带回现代 Minecraft。代码基于官方模组库移植。\n本模组高度可配置，屏幕上复古伤害指示器的位置、透明度、大小、显示方式等均可自定义调整。本模组仅支持客户端，无需在服务器上安装即可使用。\n\n本模组可选支持 Cloth Config API，支持在游戏内直接进行配置。\n\n\n界面除显示生物头像及生命值和名称栏外，还会标注生物类型。包括节肢动物、动物、灾厄村民、不死生物、Boss 等。同时兼容来自其他模组的生物：\n![logo](https://i.imgur.com/jI3SuJ4.png)\n在玩家 HUD 显示伤害指示器的同时，受伤的生物在受到伤害或恢复生命值时也会产生粒子效果，直观显示具体数值。该功能可在配置文件中自由开关。\n\n本模组在设计时充分考虑了整合包的需求，欢迎随意将其集成到各类整合包中！\n![logo](https://i.imgur.com/MobpMTc.png)\n特别鸣谢：\n\n- Ron0：负责纹理重制与生物类型图标；原始作者 sbom_xela",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "74cdcbb05d483b57",
+  "content": "\n\n<p>隨著各種 Iron&rsquo;s Spellbooks 擴充套件引入更多異界法術，ISS 的異界研究介面可能會變得非常擁擠，導致難以看見和選取圖示。如果這讓你有點困擾，這個模組正是為了解決這個問題而製作的！</p>\n<p>1.20.1</p>\n<ul>\n<li>此模組會放大異界研究介面，並改變法術圖示的排列方式（透過 Mixin 重新導向至新介面來實作）。</li>\n<li>您可以編輯 <code>virtualwitcharrangement-client.toml</code> 設定檔來切換不同的版面配置。</li>\n</ul>\n<p>1.21.1</p>\n<ul>\n<li>此模組允許您在異界研究介面上<strong>自由拖曳</strong>法術節點。只需<em>按住 <strong>ALT</strong></em> 並使用滑鼠左鍵拖曳即可。</li>\n<li>您的自訂版面配置會儲存於客戶端的 <code>config/vwa_eldritch_research_nodes.json</code> 中，這表示它不會重置——整合包作者甚至可以為玩家提供預設的節點版面配置。</li>\n</ul>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_fb51b9b5-e2dc-4259-8639-d744ee88f200.png\" alt=\"1.20.1\" width=\"798\" height=\"817\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1343972/description_f288adf0-9abd-4a83-820a-a29e2a99c740.png\" alt=\"1.21.1\" width=\"787\" height=\"802\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

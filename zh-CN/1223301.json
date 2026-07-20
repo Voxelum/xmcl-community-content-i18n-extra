@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e4b1f2367776c252",
+  "content": "\n\n<p>这是一个非常轻量的模组，会自动添加类似草方块和树叶的方块，以便在某些光影下实现正确的摆动效果。所有细节均可完全自定义配置。</p>\n<p>现在，你可以在光影选择界面使用“维度覆盖”（Dimension Override）开关，为不同维度使用不同的光影。通过配置文件在指定维度禁用光影的现有功能仍然有效，但当开启“维度覆盖”时，该设置也会被覆盖。</p>\n<h2>默认配置</h2>\n<pre><code># 包含作为摆动草方块的方块列表及/或方块标签列表。\nwavingBlocks = [\"#minecraft:sword_efficient\", \"farmersdelight:sandy_shrub\"]\n\n# 包含作为树叶的方块列表及/或方块标签列表。\nleavesBlocks = [\"#minecraft:leaves\"]\n\n# 包含作为农作物的方块列表及/或方块标签列表。\ncropsBlocks = [\"\"]\n\n# 从其他列表中排除的方块列表及/或方块标签列表。\nexcludeBlocks = [\"#minecraft:saplings\", \"minecraft:melon\", \"minecraft:pumpkin\", \"minecraft:carved_pumpkin\", \"minecraft:jack_o_lantern\", \"minecraft:chorus_plant\", \"minecraft:chorus_flower\"]\n\n# 不应启用光影的维度列表。\ndisabledDimensions = [\"stellaris:moon\", \"stellaris:mars\", \"stellaris:venus\", \"stellaris:mercury\"]</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

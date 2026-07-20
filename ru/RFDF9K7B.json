@@ -1,14 +1,6 @@
 {
-  "bodyHash": "rDjlxyRHaR0=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "04ba736d-66d4-905f-b151-697093c75c24"
-  },
+  "bodyHash": "c6820562c20ec937",
+  "content": "Этот мод заставит ваших друзей, не исповедующих ислам, отказаться от свинины! Каждый раз, когда кто-то попытается утолить голод, съев свинину, его телепортирует в ад!\n\nВы также можете включить взрыв перед телепортацией в настройках мода через меню модов и настроить силу взрыва.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

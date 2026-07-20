@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5194727adfa1f78",
+  "content": "\n\n土豆大炮的投射物现在可以破坏方块了！\n\n模组本身并未赋予投射物破坏方块的能力，但你可以通过在 `on_block_hit` 对象中使用 `cdb:break_block` 类型来实现这一效果。\n\n你还可以在此查看数据包示例 [here](https://github.com/StarmanMine142/cdb/tree/example-datapack) 以及维基 [here](https://github.com/StarmanMine142/cdb/wiki)。\n\n**嘿嘿，这是我的 jarona**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

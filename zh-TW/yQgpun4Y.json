@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1b0fd8c90c75fa91",
+  "content": "\n\n這是一款同時為 [Incendium](https://modrinth.com/datapack/incendium) 與 [Boss Checklist](https://modrinth.com/mod/boss-checklist) 設計的附加模組，將前者的 Hovering Inferno 首領整合至後者的頭目清單介面中作為一個條目。\n\n\n**「你是怎麼讓它運作的？Incendium 可是打包成模組的數據包！」**\n首先，此模組會加入一個虛構且無法生成的替代實體，作為你所見頭目清單條目的基礎。條目中「掉落物」分類顯示的自訂掉落物同樣是虛構且無法獲取的物品，專門設計用來模擬真實的首領掉落。一旦偵測到玩家已獲得擊敗該首領對應的「進度」，該首領條目便會自動標記為已擊敗。\n\n**「為什麼不把你其他的 Boss Checklist 附加模組一起打包？」**\n此模組使用了上述由本模組自行加入的虛構實體。因此，無論你是否實際安裝了 Incendium 模組，此模組加入的 Hovering Inferno 條目都會正常顯示。你肯定不希望自己的整合包出現這種情況：玩家好奇地到處尋找這個「Hovering Inferno」，結果後來才發現，根本連聲稱支援該首領的模組都沒安裝。\n\n\n\n**此附加模組包含來自 Stardust Labs 的 Sparkles 的貼圖與模型，採用 BSD 3條款授權協議。**\n\n**Sparkles 資源包：[https://modrinth.com/resourcepack/sparkles](https://modrinth.com/resourcepack/sparkles)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "HnZPAjPuxeI=",
-  "content": "为我的模组提供共享代码的核心库。\n\n单独使用时，这个模组除了注册自身外不会执行任何操作，因此得名。",
+  "bodyHash": "3dd92a556eeae10b",
+  "content": "\n\n存放供我的模组共用的代码。  \n单独加载时，此模组仅会注册自身，别无其他功能，故而得名。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

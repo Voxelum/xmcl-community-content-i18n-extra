@@ -1,0 +1,6 @@
+{
+  "bodyHash": "687e21149d04c2ec",
+  "content": "\n\n這個（帶有恐怖元素）模組會讓村民有 10% 的機率變成隱藏的瘋狂村民，他們主要在夜晚攻擊脆弱的目標（通常會鎖定幼年村民，有時也會鎖定動物）。攻擊之後，他們會休息長達一小時，並且在被擊殺時會掉落鋤頭。\n\n你可以使用 `/psychovillagers spawn` 指令手動生成一名瘋狂村民。\n\n提供設定選項，你可以關閉恐怖音效、調整瘋狂村民的出現機率，以及更多設定。\n\n其他部分實用設定：\n\n預設關閉：\n- COORDINATED_PSYCHOS - 若啟用，瘋狂村民將僅攻擊玩家，且攻擊行為會互相協同。\n\n名稱自明，預設開啟：\n- PSYCHOS_ATTACK_PLAYERS;\n- PSYCHOS_ATTACK_VILLAGERS;\n- PSYCHOS_ATTACK_ANIMALS;\n- PSYCHOS_ATTACK_PSYCHOS;\n- CORPSES;\n\n預設關閉：\n- CORPSES_DESPAWN;",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

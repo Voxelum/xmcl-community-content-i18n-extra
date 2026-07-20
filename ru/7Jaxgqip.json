@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f3cd499b15bf553f",
+  "content": "\n\n# Carpet-Fixes\n\nМод-расширение для [Fabric Carpet](https://modrinth.com/mod/carpet), который стремится исправить как можно больше ошибок ванильного Minecraft!\n\n**На данный момент содержит более 220 исправлений**\n\n---\n\n### Требует Carpet: [Скачать](https://modrinth.com/mod/carpet/versions)\n  \n---\n\n## Настройки\n\nСм. [список всех доступных настроек](https://github.com/fxmorin/carpet-fixes/wiki/Available-Settings)\n\n## Подробнее\nЭтот мод работает как в одиночной, так и в сетевой игре, хотя он изменяет только серверную функциональность!\nМод также исправляет некоторые клиентские ошибки (их не так много), но только если carpet-fixes установлен на сервере.\nДля исправлений на стороне клиента рекомендуем ознакомиться с: [blanket](https://github.com/BlanketMC/blanket-client-tweaks)  \n\n## Мои другие моды на оптимизацию/исправления\n* [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) — Исправляет множество утечек памяти как для клиента, так и для сервера\n* [MoreCulling](https://modrinth.com/mod/moreculling) — Изменяет обработку отсечения состояний блоков для повышения производительности\n* [Blanket](https://modrinth.com/mod/blanket) — Тонкая настройка и исправления на стороне клиента\n\n---",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

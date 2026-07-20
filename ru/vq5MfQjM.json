@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dfac364f74e25c74",
+  "content": "\n\nЭто автономное дополнение к моду [Tetra](https://modrinth.com/mod/tetra), добавляющее новый модуль для древкового оружия с одним наконечником под названием «Наконечник алебарды».\n\nПо умолчанию модули алебарды увеличивают дальность атаки оружия на 0.5, а также добавляют эффект _пронзания_.\nЗажмите правую кнопку мыши для заряда способности: она накладывает дебафф снижения брони, если броня цели превышает 5 или ещё не подвержена эффекту пронзания; в противном случае вызывает кровотечение длительностью 6 секунд.\n\nДемонстрационное видео.\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/chYMpDOWBhw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5e672ca68fc98fe",
+  "content": "\n\n# API Block\n## Что такое API Block?\nAPI Block — это технический блок, позволяющий отправлять HTTP-запросы из Minecraft и определять, были ли они выполнены успешно, с помощью сигналов редстоуна.\n\n## Получение мода\nModrinth: здесь!\nСтраница релизов: https://github.com/SunkenPotato/apiblock/releases\n\n### Сборка из исходного кода\nКлонируйте репозиторий:\n```\ngit clone https://github.com/SunkenPotato/apiblock.git\n```\nЗапустите команду сборки:\n```\n./gradlew build\n```\nГотовый файл будет находиться в `build/libs/apiblock-*.jar`\n\n## Дорожная карта\n- ✅ HTTP GET\n- ✅ Заголовки\n- ❌ HTTP POST \n- ❌ HTTP Content\n- ✅ ~~Пользовательский интерфейс~~ Интерфейс команд\n- ❌ Текстуры и модели 😅\n- ⭐ и многое другое",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

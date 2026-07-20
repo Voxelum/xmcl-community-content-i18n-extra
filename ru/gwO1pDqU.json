@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ee94c7ff3ae8a8e7",
+  "content": "\n\nЭто порт набора ресурсов \"[Hide artifacts](https://modrinth.com/resourcepack/hide-artifacts)\" от syberflow.\n\nТак как этот набор больше не работает на последней версии мода Artifacts, я самостоятельно обновил его, затратив относительно немного усилий.\n\nЛичная причина создания этого порта заключается в том, что мод Artifacts некорректно привязывает свои модели к модели игрока, из-за чего они выглядят странно при использовании анимационных наборов ресурсов, таких как Fresh Animations Player Extension.\n\n\n### С Hide Artifacts\n![С Hide Artifacts](https://cdn.modrinth.com/data/cached_images/dd85ba4291edc2b35770bc44b0095ee59c63c502.png)\n\n### Без Hide Artifacts\n![Без Hide Artifacts](https://cdn.modrinth.com/data/cached_images/c040980c03537850106a9b3fef2c0f44b2116530.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

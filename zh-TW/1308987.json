@@ -1,0 +1,6 @@
+{
+  "bodyHash": "344dd77954ac2675",
+  "content": "\n\n<h1>🧠 Easy NPC：核心</h1>\n<p><em><strong>Easy NPC：核心</strong></em> 包含 <em>Easy NPC</em> 模組的基礎邏輯。<br>\n它提供其他 Easy NPC 模組所使用的必要後端系統。</p>\n<h2>🔧 主要功能</h2>\n<ul>\n<li>📦 <strong>包含</strong> <em>Easy NPC</em> 的核心功能。</li>\n<li>⚙️ <strong>提供</strong> 共用的後端邏輯與基礎架構。</li>\n<li>🧩 <strong>為以下模組的依賴項：</strong><ul>\n<li><code>easy_npc-config-ui</code></li>\n<li><code>easy_npc-bundle</code></li></ul></li>\n</ul>\n<h2>👨‍💻 適合誰使用？</h2>\n<p>此模組最適合以下使用者：</p>\n<ul>\n<li>🖥️ <strong>伺服器擁有者</strong></li>\n<li>🧪 <strong>模組開發者</strong></li>\n<li>🧪 <strong>整合包開發者</strong></li>\n<li>🔧 <strong>進階玩家或多人遊戲環境</strong></li>\n</ul>\n<p>如果您<strong>不需要</strong>內建的設定介面，或希望對 Easy NPC 的整合方式有更高控制權，請使用此版本。</p>\n<h2>🙅 不適合一般玩家</h2>\n<blockquote>\n  <p>⚠️ 大多數玩家應使用<strong>整合版</strong>，該版本內建友善的使用者設定介面。<br>\n  👉 下載頁面：<a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-npc\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/easy-npc</a></p>\n</blockquote>\n<h2>✅ 可獨立使用</h2>\n<p>雖然它<strong>可以</strong>獨立運作，但主要設計為模組化後端，用於更複雜的環境設定。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

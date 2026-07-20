@@ -1,0 +1,6 @@
+{
+  "bodyHash": "25e7b30b90e18e41",
+  "content": "\n\n## 允許在同一張弓上同時附魔無限與經驗修復\n### 安裝方式（Fabric/Forge/Quilt）：\n它們在功能上與數據包完全相同，但會套用至所有安裝此模組時建立或啟用的世界。如果您不希望套用到所有世界，請改用數據包。\n\n**Forge**：\n無需任何依賴項，只需將模組放入「mods」資料夾即可。\n\n**Fabric**：\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**Quilt**：\n需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)\n### PurpurPacks\nPurpurPacks 是建議加入 [Purpur](https://purpurmc.org/) 伺服器軟體的功能——或是符合 Purpur 主題的功能，但經過評估後認為以數據包的形式呈現更為合適！\n\n每個數據包的作用都相當於 Purpur 中的單一設定選項。您可以隨時新增或移除它們，而不會損害伺服器。\n\n這些數據包並不依賴 Purpur；它們在原版伺服器或任何其他伺服器軟體中都能正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

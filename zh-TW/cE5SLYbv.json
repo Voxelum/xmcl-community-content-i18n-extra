@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d5f7558fd43fa58",
+  "content": "\n\n本模組不處理動態光照。\n需要 [Curios (Forge)](https://modrinth.com/mod/curios)、[Radiant Gear](https://modrinth.com/mod/radiant-gear)，以及相容的動態光照模組（詳情請見 Radiant Gear）。\n若遇到任何動態光照問題，請參考您的動態光照模組或 Radiant Gear。\n\n若要啟用腰間燈籠擺動效果，請至 config 資料夾中的用戶端設定檔進行開啟。\n\n相容模組：\n- Supplementaries + Squared\n- Cyclic\n- Quark\n- Additional Lanterns\n- Macaw's Lights and Lamps\n- Skinned Lanterns\n- Hardcore Torches\n- Chipped",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

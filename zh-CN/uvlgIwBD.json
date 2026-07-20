@@ -1,10 +1,6 @@
 {
-  "bodyHash": "CEivaZ0gQ4c=",
-  "content": {
-    "error": {
-      "message": "We were unable to start processing your request within the 900-second timeout limit. Please try again later."
-    }
-  },
+  "bodyHash": "678af4fda5bb9e76",
+  "content": "<a href=\"https://ko-fi.com/microcontrollers\" target=\"_blank\">\n  <img alt=\"kofi-singular-alt\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_vector.svg\">\n</a>\n\n<a href=\"https://codeberg.org/MicrocontrollersDev/Smooth-Skies\" target=\"_blank\">\n  <img alt=\"codeberg\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg\">\n</a>\n\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/smooth-skies\" target=\"_blank\">\n  <img alt=\"curseforge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg\">\n</a>\n\n<a href=\"https://modrinth.com/mod/connector\" target=\"_blank\">\n  <img alt=\"sinytra connector\" height=\"56\" src=\"https://files.catbox.moe/6j289t.svg\">\n</a>\n\n# Smooth Skies\n\n一款非常简单的模组，在使用高渲染距离（例如搭配 Nvidium）时，使雾气颜色更加平滑。此外还包含其他可自定义的功能和修复，请参阅截图画廊及下文详情！\n\n## 功能\n\n- 设置雾视距\n  - 修复使用高渲染距离时的硬雾截断问题\n  - 可自定义以增加雾的高度，请参阅画廊截图\n- 修复天空盒裁剪\n  - 通过增加远裁剪平面来修复低渲染距离下天空盒被切断（即出现空洞/缺口）的问题\n  - 显著修复 Hypixel 上的 Limbo 场景问题\n  - 此功能修复了 [MC-298225](https://mojira.dev/MC-298225)\n- 降低虚空黑暗度\n  - 将虚空黑暗度设置为仅在接近世界最低 Y 值时显示，而非固定值\n  - 此功能修复了在低于海平面时有时可见的黑色虚空问题（在空岛类世界中尤为明显）\n- 晴朗天空\n  - 完全移除雾气颜色，使天空呈现单一颜色\n  - 移植自 grondag 的 Clear Skies 模组\n- 移除虚空中的天空\n  - 当玩家位于最低建筑高度以下（即进入虚空）时停止渲染天空\n  - 可能导致天空盒突变\n  - 此功能修复了 [MC-249655](https://mojira.dev/MC-249655)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

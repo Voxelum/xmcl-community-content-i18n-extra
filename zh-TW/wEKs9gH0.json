@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de058e49feb1f824",
+  "content": "\n\n此模組使用 Immersive Engineering 的 API，為 TerraFirmaCraft 引入了新的多塊機器。\n\n請查閱《工程師手冊》以獲取多塊結構及其他詳細資訊。\n\n---\n### 機器\n- **動力織布機** 將纖維編織成布料。\n\n- **脫粒機** 將不可食用的穀殼從原作物中分離，留下未精煉的穀物。\n\n- **磨坊** 將穀物研磨成麵粉。\n\n- **制革房** 負責獸皮的石灰處理、清洗與鞣製。\n\n- **刮肉機** 用於刮除獸皮殘留物。\n---\n### 依賴項\n- [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft)\n\n- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering)\n---\n### 鳴謝\n\n- PyralIron 創建了原始模組\n\n- tao6626 重新製作了多塊模型",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

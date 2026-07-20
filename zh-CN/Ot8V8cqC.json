@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7d7ff70a4ee540e0",
+  "content": "\n\n## 用于可组装分解器多区块的数据包\n\n### 特性\n可用于将工具或护甲上的附魔转移至书本的可组装多区块结构\n\n### 组装\n\n设置：\n```\nЮ|\n>\n```\n\n\nЮ：minecraft:grindstone（任意朝向）\n\n\\>：minecraft:lectern（任意朝向）\n\n\\|：minecraft:item_frame（置于研磨台上，位置任意）\n\n\n### 使用指南\n\n将工具放入物品展示框\n\n在讲台中放入可书写书\n\n→ 带有工具附魔的附魔书将弹出",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

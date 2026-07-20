@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3ebaf81aa083e023",
+  "content": "# 移除对话框警告\n\n一个简单的服务端 Fabric 模组，用于移除“确认命令执行”警告屏幕。\n\n## 原理是什么？\n\n当发送给玩家时，任何 `run_command` 对话框操作都会被转换为 `dynamic/custom`。当服务器接收到此操作时，它会以玩家的身份运行指定的命令，从而绕过警告屏幕。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a99f850b9c70f78",
+  "content": "\n\n<h1>Подсказки для ульев</h1>\n<p>Совместим со всеми перечисленными ниже загрузчиками:</p>\n<ul>\n<li>Forge</li>\n<li>NeoForge (вау, так ярко и ново!)</li>\n<li>Fabric</li>\n</ul>\n<p><img src=\"https://github.com/EDToaster/beehive-tooltips/raw/master/screenshot.png\" alt=\"Пчёлы\"></p>\n<h2>Установка</h2>\n<p>У этого мода есть две версии: одна для загрузчика <strong>Forge</strong>, а другая для <strong>Fabric</strong>. Обязательно скачайте нужный файл! Версия для <strong>Fabric</strong> требует установки мода Fabric API.</p>\n<h2>Использование</h2>\n<p>Подсказка для улья появится, когда включены расширенные подсказки (<code>F3+H</code>). Работает как с предметом «Улей», так и с предметом «Пчелиное гнездо».</p>\n<h2>Ошибки</h2>\n<p>Пожалуйста, сообщайте об ошибках в <a href=\"https://github.com/EDToaster/beehive-tooltips\" rel=\"nofollow\">репозиторий на GitHub</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

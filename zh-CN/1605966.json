@@ -1,0 +1,6 @@
+{
+  "bodyHash": "40358b97cd5ca69a",
+  "content": "<h1>Extended Silence 3.6 - 社区版 Forge 1.20.1 修复</h1>\n<p>这是 Extended Silence 3.6 针对 Minecraft 1.20.1 Forge 的非官方社区修补版本。</p>\n<p>原版模组作者：<strong>Tanehu98</strong>。<br>\n原始项目遵循 <strong>MIT 许可证</strong> 授权。\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/extended-silence\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/extended-silence</a></p>\n<h2>已修复</h2>\n<ul>\n<li>修复了打开单人游戏 / 创建世界时的崩溃问题。</li>\n<li>修复了以下文件中无效的 Forge 生物群系修改器条目：</li>\n</ul>\n<p>```text\ndata/extended_silence/forge/biome_modifier/deepdweller_biome_modifier.json</p>\n<p>项目地址：<a href=\"https://github.com/IXOlex/Extended-Silence-Fix-for-MC-1.20.1\" target=\"_blank\" rel=\"nofollow\">https://github.com/IXOlex/Extended-Silence-Fix-for-MC-1.20.1</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

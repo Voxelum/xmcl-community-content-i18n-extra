@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b30edaecafafbef6",
+  "content": "\n\n為 Cobblemon Raid Dens 增添額外的伺服器實用功能。\n- 可自訂的聊天公告，於襲擊巢穴生成或刷新時顯示。\n- ``/crd broadcast`` 指令，供玩家將遠程襲擊訊息廣播至聊天視窗。\n- ``/crd invite`` 指令，用於邀請特定玩家參與遠程襲擊。\n- 實作可選的遠程密鑰（``cobblemonraiddens:remote_key``）機制，作為進行遠程襲擊的前置需求。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

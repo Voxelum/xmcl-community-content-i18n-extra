@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f7c33afe0fa73c82",
+  "content": "\n\n# Mumble Link for Fabric\n\n[![GitHub](https://img.shields.io/badge/GitHub-Stoupy51%2Ffabric--mumblelink--mod-blue?logo=github)](https://github.com/Stoupy51/fabric-mumblelink-mod)\n[![Modrinth](https://img.shields.io/modrinth/dt/mumble-link-fabric?logo=modrinth&label=Downloads)](https://modrinth.com/mod/mumble-link-fabric)\n\n**🔁 來自 [原版 Mumble Link 模組](https://github.com/magneticflux-/fabric-mumblelink-mod) 的衍生版本**\n\n📚 文件說明\n* 原始 README：https://github.com/magneticflux-/fabric-mumblelink-mod\n* 疑難排解維基：https://github.com/magneticflux-/fabric-mumblelink-mod/wiki/Troubleshooting\n\n## 📖 關於本模組\n\n將 Minecraft 與 **🎧 Mumble** 和 **🗣️ TeamSpeak** 等具備位置音訊功能的系統相連，打造沉浸式的語音聊天體驗。此模組會將玩家的位置與面向同步至外部語音客戶端，讓多人遊戲中的空間音效更加真實（功能類似 Simple Voice Chat 等模組提供的基於距離的通訊，但本模組是透過外部 VoIP 工具來實現）。\n\n此衍生版本已針對 **🆕 最新的 Minecraft 版本** 進行更新，使用 **🧵 Fabric** 載入器開發，並能與使用 **🌙 Lunar Client**、**🐺 LabyMod**、**🦁 BadlionClient** 等客戶端的玩家無縫協作。\n\n## ✨ 本衍生版本的額外功能\n\n* 🧪 支援最新的 Minecraft 版本\n* ✅ 改用相同的左手座標系統，提升與 Mumble Link 相容客戶端的相容性",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

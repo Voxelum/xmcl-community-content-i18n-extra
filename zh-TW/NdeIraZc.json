@@ -1,0 +1,6 @@
+{
+  "bodyHash": "023aabd4f865dbff",
+  "content": "\n\n![title](https://cdn.modrinth.com/data/cached_images/087c07c667d2f43701f448b5b96f291705fefa9f.png)\n## v3.0.0\n- 修復了南瓜眼附魔現在能完全正常運作的問題\n- 修復了終界村民轉化為殭屍村民後缺少紋理的錯誤\n- 修復了終界化藥水對貓咪無效的問題\n- 新增了終界盔甲匠村民\n- 新增了終界工具製作者村民\n- 新增了終界斧、終界劍、終界鏟、終界鎬、終界鋤\n- 新增了珍珠頭盔、帶有翔翼的珍珠胸甲、珍珠護腿、珍珠靴子\n- 穿戴全套裝備時使用珍珠傳送會獲得額外的生命值和速度加成\n- 新增了黑曜石破壞者附魔（I/II/III），大幅提升挖掘黑曜石/哭泣黑曜石的效率，僅可透過與附魔師村民交易取得\n                                            \n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/2YSQZSRXTUQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n## 上次重大更新 v2.4\n- 更改釀造結構以容納終界釀造台取代一般釀造台\n- 修復農場生成在地底下的問題\n- 修復檔案結構\n- 修復村民的 NBT 生成數據\n- 修復鐵傀儡在村莊生成的問題，並替換為終界傀儡\n- 修復終界貓顯示錯誤名稱的問題\n- 新增了終界呆子職業\n- 新增可使用指令召喚終界呆子的功能\n- 新增了終界傀儡\n- 新增了終界傀儡生怪蛋\n- 新增當附近村民數量足夠時可召喚終界傀儡的功能\n- 新增終界傀儡死亡後會掉落終界百合\n- 新增了傳送藥水/噴灑藥水/滯留藥水的 I/II 級別（隨機將實體傳送到 50/100 格遠處）\n- 新增了終界化藥水 I 級別（將村民或鐵傀儡轉化為其終界版本）\n- 新增了凍結藥水/噴灑藥水/滯留藥水的 I/II/III 級別（將實體凍結 7/13/17 秒）\n- 新增了新的終界釀造職業（由於新藥水無法自行釀造，將提供交易購買）\n- 新增了新的終界釀造台方塊（賦予終界釀造職業）\n- 新增可使用終界百合合成終界釀造台的功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

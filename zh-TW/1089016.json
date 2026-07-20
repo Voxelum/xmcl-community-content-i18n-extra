@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2e7e89758dd1a274",
+  "content": "\n\n<h1>Neon Skylines 2.3</h1>\n<p>此着色器靈感來自《HALO ODST》的夜視效果，利用邊緣檢測技術勾勒地形與實體的輪廓。現在，你也能體驗從軌道空降進入方塊狀陌生世界的感覺。邊緣偵測器的靈敏度與輪廓顏色皆可完全自訂。建議搭配低亮度設定嘗試！</p>\n<p>針對實體的專屬輪廓功能已開放，適用於 Iris/Oculus 及 1.20 以上版本。</p>\n<h2>主要特色</h2>\n<ul>\n<li>原版風格基底\n<ul>\n<li>邊緣疊加於類似原版 Minecraft 的場景上</li>\n</ul>\n</li>\n<li>不同類別的自訂輪廓顏色\n<ul>\n<li>地形</li>\n<li>敵人</li>\n<li>友軍</li>\n<li>玩家</li>\n<li>拾取物</li>\n<li>其他實體</li>\n</ul>\n</li>\n<li>邊緣偵測器設定\n<ul>\n<li>光照</li>\n<li>選擇在黑暗中、光亮處繪製輪廓，或兩者皆繪製</li>\n<li>色彩差異</li>\n<li>深度</li>\n<li>法線</li>\n</ul>\n</li>\n<li>兩種預設主題可供擴充\n<ul>\n<li>ODST</li>\n<li>NEON</li>\n</ul>\n</li>\n<li>支援 Distant Horizons。</li>\n</ul>\n<h2>效能參考</h2>\n<p>開啟所有着色器功能後，我的筆電（搭載 RTX 4070）GPU 佔用率從 43% 上升至 56%（+13%）。</p>\n<ul>\n<li>140 FPS（垂直同步）</li>\n<li>單人模式 12 個區塊的渲染距離</li>\n<li>Iris + Sodium</li>\n</ul>\n<h2>待辦事項</h2>\n<ul>\n<li>深度衰減設定，使邊緣隨距離增加而漸隱\n<ul>\n<li>是否按偵測類型（色彩、深度、法線）分別設定？</li>\n<li>反向衰減開關</li>\n</ul>\n</li>\n<li>改善天氣狀況下的邊緣處理</li>\n<li>針對光線與法線的實體及 DH 靈敏度乘數</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

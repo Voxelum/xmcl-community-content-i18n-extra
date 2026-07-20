@@ -1,6 +1,6 @@
 {
-  "bodyHash": "D5bqMZorQ9E=",
-  "content": "<p>Когда вы используете некоторые языки (например, китайский, японский и т.д.)</p><p><span>Символы ASCII будут отображаться в шрифте Unicode даже при отключённом режиме Force Unicode.<br></span>Этот мод исправляет эту проблему.</p><p>&nbsp;</p><p><span>Отслеживание ошибок:&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-127822\" rel=\"nofollow\">MC-127822</a></span></p><p>(Исправлено в 1.13-pre6)</p><p>&nbsp;</p><p><img src=\"https://i.imgur.com/FaooyNr.png\" alt=\"Скриншот\" width=\"683\" height=\"384\"></p>",
+  "bodyHash": "e5ef8af6f2c7a0c3",
+  "content": "\n\n<p>Когда вы используете некоторые языки (например, китайский, японский и т. д.)</p>\n<p><span>Символы ASCII будут отображаться шрифтом Unicode, даже если параметр «Принудительный Unicode» отключён.<br></span>Этот мод исправляет данную проблему.</p>\n<p>&nbsp;</p>\n<p><span>Баг-трекер:&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-127822\" rel=\"nofollow\">MC-127822</a></span></p>\n<p>(Исправлено в 1.13-pre6)</p>\n<p>&nbsp;</p>\n<p><img src=\"https://i.imgur.com/FaooyNr.png\" alt=\"Скриншот\" width=\"683\" height=\"384\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

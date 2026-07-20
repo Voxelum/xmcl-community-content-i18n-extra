@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2e3eddb4f66184a2",
+  "content": "# 防爆炮据点\n\nFTB Chunks 可以阻止 TNT 炸毁你的领地，但 Create Big Cannons（创造大炮）使用自己的代码来破坏方块，FTB Chunks 无法检测到这些操作——因此大炮仍然会摧毁受保护的基地。**Cannonproof Claims（防爆炮据点）** 解决了这个问题。\n\n大炮造成的方块破坏与每个队伍现有的 **“允许爆炸”** 开关（`ftbchunks:allow_explosions`）绑定——也就是原本控制 TNT 的那个开关：\n\n- **关闭**（默认）→ 大炮无法破坏该队伍领地内的方块。\n- **开启** → 大炮（以及 TNT）可以破坏。\n\n像往常一样在 FTB Teams 设置界面中调整此选项。大炮依然可以发射、飞行并对玩家和实体造成伤害——只是无法破坏受保护的建造物。\n\n## 依赖\n- Minecraft **1.21.1**，**NeoForge**\n- **Create Big Cannons**\n- **FTB Chunks**\n\n## 安装\n将 jar 文件放入 `mods` 文件夹。保护机制在服务端运行，但你需要同时在服务端和客户端安装（NeoForge 要求模组列表一致）。也支持单人游戏。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

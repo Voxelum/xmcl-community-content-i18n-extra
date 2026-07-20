@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9e0d8127a99ee812",
+  "content": "\n\n<p style=\"text-align:center\"><strong>需要 Architectury API</strong></p>\n<p>&nbsp;</p>\n<p><br>《Still There? (AFK Screen)》是一款 100% 客户端的便利（QoL）模组，旨在当你离开键盘时保护电脑的性能与温度。</p>\n<p><strong>主要功能：</strong></p>\n<p><strong>智能检测：</strong>自动监控鼠标和键盘活动。</p>\n<p><strong>极致资源节省：</strong>在可配置的无操作时间后（默认 5 分钟），模组会打开一个模糊的电影感屏幕，并将游戏帧率限制为 10 FPS。这能让你的 CPU 和 GPU 得到休息，大幅降低功耗和发热。</p>\n<p><strong>即时恢复：</strong>点击或按下任意键即可。模组将立即关闭并恢复你原本的精确帧率，让你继续流畅游戏。</p>\n<p><strong>高度可配置：</strong>包含配置文件（<code>pausescreen-client.toml</code>），让你精确设定触发屏幕所需的分钟数。</p>\n<p><strong>多语言支持：</strong>已完整翻译为英语、西班牙语、葡萄牙语、法语、俄语和中文。</p>\n<p>---</p>\n<p>西班牙语说明：</p>\n<blockquote>\n<p><strong>Still There? (AFK Screen)</strong> 是一款 100% 客户端的便利（QoL）模组，旨在你离开键盘时保护电脑的性能与温度。</p>\n<p><strong>主要功能：</strong></p>\n<ul>\n<li>\n<p><strong>智能检测：</strong> 持续监控鼠标和键盘活动，确认你是否仍在原位。</p>\n</li>\n<li>\n<p><strong>极致资源节省：</strong> 在可配置的无操作时间后（默认 5 分钟），模组会激活模糊的电影感画面，并将游戏性能“压制”至仅 10 FPS。这使得 CPU 和 GPU 得以休息，大幅降低耗电与发热。</p>\n</li>\n<li>\n<p><strong>即时恢复：</strong> 无需等待。只需点击或按下任意键，模组将瞬间关闭，游戏帧率即刻恢复至原始水平。</p>\n</li>\n<li>\n<p><strong>完全可配置：</strong> 内置配置文件（<code>pausescreen-client.toml</code>），让你自由选择等待触发的具体分钟数。</p>\n</li>\n<li>\n<p><strong>多语言支持：</strong> 完整支持英语、西班牙语（西班牙、墨西哥、阿根廷）、葡萄牙语、法语、俄语和中文。</p>\n</li>\n</ul>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

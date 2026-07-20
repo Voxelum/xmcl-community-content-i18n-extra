@@ -1,0 +1,6 @@
+{
+  "bodyHash": "41d0861ffc35b080",
+  "content": "## 信息\n此模组的功能与[远程箱子](https://modrinth.com/project/remote-chests)完全相同，只不过它传输的是光照状态。\n你需要至少两个基于红石的光源方块（如红石灯或任何铜灯泡）、两个物品展示框、一个红石火把、一个普通火把以及一个铁砧。其中一个灯将作为你的“源”光源，而另一个则是“镜像”灯。\n\n红石火把（源）控制的光照状态会反射到指定频道上的普通火把（目标）所连接的灯上。\n\n红石火把和普通火把的名称即为频道名称。通过这种方式，你可以精确指定哪些灯需要同步。这样，你就可以让多个灯镜像同一个源灯。你只需要一个红石火把，即可将光照状态反射到所有同名的普通火把灯上。\n\n光照状态将从同一频道的最近源灯进行镜像。这意味着你可以拥有多个具有相同频道名称的源灯。但对于每个目标灯而言，只有最近的源灯会被使用。\n\n如果你将目标灯连接到比较器上，那么你就可以实现无线红石应用。\n\n你可以拥有多个具有相同频道名称的源灯/目标灯组合。源灯的光照状态始终会反射到最近的同名频道目标灯上。\n\n非常适合制作怪物农场等的开关。它也支持跨维度工作。\n\n**源灯和目标灯必须位于已加载的区块中才能正常工作！**\n\n## 如何构建远程灯\n1) 按照你想要的布局放置灯具\n2) 在两个灯具的任何一侧各放置一个物品展示框（即使在同一频道中，它们也可以位于不同的侧面）\n3) 使用铁砧将红石火把和普通火把重命名为相同的名称。这个名称将成为“频道名称”\n4) 将红石火把插入源灯的展示框中（光线将**从**此处反射）\n5) 将普通火把插入目标灯的展示框中（光线将镜像**到**此处）\n\n至此，远程灯搭建完成，随时可用。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/j3CuLKvuBdo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n查看[我的其他模组](https://modrinth.com/user/Pepsied)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

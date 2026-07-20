@@ -1,14 +1,6 @@
 {
-  "bodyHash": "FPksh7Dl40c=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "590ef498-fe43-930f-b101-9e3691f0bcad"
-  },
+  "bodyHash": "d400a659712e5444",
+  "content": "\n\n![preview](https://cdn.modrinth.com/data/cached_images/732fd2e847b683b9b4e160f560464ee2537d9ad5.png)\n### Что это за набор ресурсов?\nЭтот набор ресурсов представляет собой оверлей, который заменяет стандартное небо Minecraft на альтернативное.\n\n---\n\n### Требования\n- Требуется OptiFine\n- Включите опцию «Custom Sky» (Пользовательское небо)\n- Включите опции «Звёзды» и «Солнце и Луна»\n\n---\n\n### Как использовать этот набор ресурсов?\nОн совместим со всеми остальными наборами ресурсов. Просто убедитесь, что вы поместили его выше в списке тех, которые уже используете.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

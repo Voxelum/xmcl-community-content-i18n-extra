@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc2b18c39805bd80",
+  "content": "\n\n# SPBR x Fresh Animations\n\n[SPBR](https://modrinth.com/resourcepack/spbr) 由 [NyaShulker](https://modrinth.com/user/NyaShulker) 制作，是 [VNR](https://github.com/Poudingue/Vanilla-Normals-Renewed) 的继任者，这是一款类原版的 PBR 材质包，为原版纹理和着色器提供了优质的材质与凹凸细节。 \n[Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) 是由 [FreshLX](https://modrinth.com/user/FreshLX) 制作的资源包，它更改了实体模型以提供酷炫的动画和额外细节。 \n\n然而，如果你想同时使用它们，可能会发现一些图形伪影，例如缺少眼睛动画、缺失纹理、配色错误等。 \n这时就需要我的模组来解决了！\n\n为确保所有内容正确加载，建议你按以下加载顺序使用：\n![Load order](https://cdn.modrinth.com/data/cached_images/5172fbae03bcae91f506fd038ad1a366d13f81a8.png)\n\n若你使用 [Fresh Animations: Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions)，则需要搭配 [SPBR x Fresh Animations: Extensions](https://modrinth.com/resourcepack/spbr-x-fresh-animations-extensions)。 \n这是本模组的插件，旨在使其与提供动画模型额外细节的 **Extensions** 兼容。 \n我本想只维护一个模组，但 **Fresh Animations** 与 **Fresh Animations: Extensions** 之间确实存在一些不兼容的问题。 \n\n因此，这个小型补丁将非常实用！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

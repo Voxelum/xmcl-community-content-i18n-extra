@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c4f3ad35dfd095aa",
+  "content": "\n\n<p>Простой мод для Fabric, изменяющий логику спавна странствующих торговцев так, чтобы она работала индивидуально для каждого игрока. Соответствующие данные хранятся в NBT-данных игрока внутри тега <code>per_player_wandering_traders</code>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

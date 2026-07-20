@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c13bd68463ac41d0",
+  "content": "\n\n<p>Simply Swords 全部武器皆具備完整的 Epic Fight 招式。直接放入並投入戰鬥。</p>\n<p>透過 CompatLink 將所有 122 把 Simply Swords 武器（1.56.0、Forge 1.20.1）對應至 Epic Fight 的武器類型 &mdash; 分類依據來自 Simply Swords 自身的武器資料，並已在遊戲內驗證：</p>\n<p>- 巨劍、巨斧、大錘、巫妖劍 &rarr; 巨劍<br>- 武士刀 &rarr; 小太刀 / 長劍 &rarr; 長劍<br>- 刺劍、彎刀、旋刃 &amp; 特殊刀刃 &rarr; 劍<br>- 長矛、戟、斧槍、鐮刀、雙刃劍 &rarr; 長矛<br>- 三叉爪、戰爭戟 &rarr; 匕首</p>\n<p>純數據包（不含程式碼）：隨時新增或移除均安全。Simply Swords 的武器右鍵技能仍可正常使用。</p>\n<p>需求：CompatLink（必要）。Epic Fight 與 Simply Swords（若缺少其中任一模組，此套件僅會安全閒置，不會產生衝突）。</p>\n<p>---</p>\n<p>繁體中文：此為 CompatLink 映射套件，為 Simply Swords 的 122 種武器全部對應 Epic Fight 動作。由於是純數據包且不含程式碼，因此隨時安裝或卸載皆安全。必要條件：CompatLink。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

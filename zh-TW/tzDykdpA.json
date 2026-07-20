@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f8ef5629cc783ad8",
+  "content": "允許在生存（或冒險）模式中訪問創意物品欄。對於快速實驗或只是隨意玩耍非常有用。\n\n![生存模式心形圖標下的創意物品欄](https://cdn.modrinth.com/data/tzDykdpA/images/e2c8195d24feb5874fbdfc750f1e998a300cea21.png)\n\n## 指令\n\n所有指令都需要 OP 權限\n\n`/creative_inv enable [玩家]`\n\n為指定玩家啟用創意物品欄，默認為自身\n\n`/creative_inv disable [玩家]`\n\n為指定玩家禁用創意物品欄，默認為自身\n\n---\n\n僅啟用物品欄界面和物品複製功能，其他創意模式特性如瞬間破壞、免費附魔/投射物以及無限物品使用等功能，出於設計考慮並未包含在內。\n\n---\n\n趣味知識：在開發期間，該模組被稱為“補貼”（Subsidy），因為你的活動是由創意模式“資助”的。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

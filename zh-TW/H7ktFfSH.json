@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FYAOEv8OA9k=",
-  "content": "![橫幅](https://cdn.modrinth.com/data/cached_images/4e932b3e7ba4872ccc3619689f8c7c36d1c454fc_0.webp)\n\n暗色視窗列是一個簡單的模組，可自動將 Minecraft 的標題列在 Windows 系統上設為暗色主題。\n\n此模組會偵測您的 Windows 是否啟用暗色模式，若偵測到暗色模式，遊戲啟動時將自動套用與作業系統一致的視窗樣式：\n\n![示範](https://cdn.modrinth.com/data/cached_images/21ee3a346849dc3076945ef2c1b65338f9d537cb.png)\n\n由於使用了 Windows 專屬的 API 來設定視窗屬性，本模組僅適用於 Windows 10 和 Windows 11 系統。若在其他作業系統上運行，模組將自動停用功能。",
+  "bodyHash": "62027b1dbdd8ec14",
+  "content": "\n\n![banner](https://cdn.modrinth.com/data/cached_images/4e932b3e7ba4872ccc3619689f8c7c36d1c454fc_0.webp)\n\nDark Window Bar 是一款簡單模組，可自動在 Windows 上將 Minecraft 的標題列設為深色。\n\n此模組會偵測您是否以深色模式執行 Windows，若是，視窗在啟動時將套用與作業系統一致的樣式：\n\n![demo](https://cdn.modrinth.com/data/cached_images/21ee3a346849dc3076945ef2c1b65338f9d537cb.png)\n\n由於設定視窗屬性需使用 Windows 專屬 API，此模組僅適用於 Windows 10 與 Windows 11。在其他作業系統上執行時，此模組會自動停用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4J9KwufJ0u4=",
-  "content": "## 允許使用帶有絲綢之觸附魔的工具破壞紫水晶芽時掉落。\n\n### 使用模組版本時的安裝資訊：\n這些功能與資料包相同，但會應用於所有創建/啟用此模組的世界。如果您不希望此功能應用於所有世界，請改用資料包。\n\n**Forge**：\n<br>無需依賴項，只需將模組放入 mods 資料夾\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur 擴充包\nPurpur 擴充包是建議添加到 Purpur 的功能——或符合 Purpur 主題，但被認為更適合作為資料包的功能！\n<br>這些資料包的功能與 Purpur 中的單一配置設置相同。它們可以隨時添加和移除，而不會損壞伺服器。\n<br>這些功能在原生 Minecraft 中即可運作，您不需要運行 Purpur 即可使用它們。",
+  "bodyHash": "efa688018f6ed480",
+  "content": "\n\n## 使用具有「絲綢之觸」附魔的工具破壞紫水晶芽時，會掉落紫水晶芽。 \n\n### 使用模組版本時的安裝資訊：\n這些功能在運作上與資料包相同，但會套用至所有建立或啟用此模組的世界。若你不希望套用至所有世界，請改用資料包。\n\n**Forge**：\n<br>無需額外依賴，只需將模組放入 mods 資料夾即可。\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 包含曾建議加入 Purpur 伺服器、或符合 Purpur 風格的功能，但經過評估後認為以資料包形式提供會更為合適！ \n<br>這些資料包的功能等同於 Purpur 中的單一設定選項。你可以隨時新增或移除它們，且不會對伺服器造成任何損害。\n<br>這些功能在原版 Minecraft 中同樣適用，你無須運行 Purpur 伺服器即可使用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

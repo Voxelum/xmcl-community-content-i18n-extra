@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1699db002e1d59e6",
+  "content": "# **SqueakyFeatures**\n\n**挖掘**钨矿。**锻造**强力装备。**击退**怪物。\n\nSqueakyFeatures 是一个 NeoForge 模组，为《我的世界》添加了新材料、装备和战斗机制。\n\n# 功能特性\n\n## 🔩 **钨矿石**\n\n* 在地下发现钨矿石。\n* 将其熔炼成钨锭，并用它制作高级装备。\n\n## 🔨 **钨锤**\n\n* 一种由钨锻造的强大后期武器。\n* 可以对弱小的敌人施加**脑损伤**效果，使战斗更加有趣且富有回报。\n\n## 🧠 **脑损伤**\n\n* 由钨锤引起的自定义状态效果。\n* 仅对生命值处于低到中等的实体生效。\n\n## 🛡️ **钨甲**\n\n* 比下界合金更强。\n* 专为追求最大防护和耐久性的玩家设计。\n\n## ⚙️ **焊接台**\n\n* 用于高级钨制品制作的新工作台。\n* 目前用于焊接和制作钨锤。\n\n# 计划中的功能\n\n## 🌱 **新作物**\n\n### 计划添加：\n* 番茄\n* 卷心菜\n* 洋葱\n\n## SqueakyFeatures 仍在开发中。未来的更新计划加入更多内容、机制、装备和生活品质提升功能。\n\n# **其他功能**\n* 新的 `/fly` 命令！\n  格式：/fly <玩家> <true/false>\n* 获得传奇武器**钨锤**的进度奖励！\n\n# **图片展示**\n\n* 全套钨制装备和钨块\n![全身穿戴钨制装备的玩家站在各种钨相关方块旁](https://cdn.modrinth.com/data/cached_images/7341004fbf4b703134cd335d87d1f958072dd6f8.png)\n\n* 生存模式中使用 /fly 命令的玩家\n![生存模式中使用 /fly 命令的玩家](https://cdn.modrinth.com/data/cached_images/7d0ab5fe04da34042b80e737e086c5f95244e0b5_0.webp)\n\n* 焊接台的图形用户界面\n![焊接台方块使用的图形用户界面](https://cdn.modrinth.com/data/cached_images/8f2dd91e8a25efb0e9858cccf57a797450cced25.png)\n\n需求\n\n* Minecraft 1.21.1\n* NeoForge",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

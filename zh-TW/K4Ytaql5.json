@@ -1,0 +1,6 @@
+{
+  "bodyHash": "950a59a86d3da9fe",
+  "content": "\n\n<center>\n\n## NoRollback\n\n[![Modrinth 圖示](https://cdn.sqidgeon.uk/cozy/available/modrinth_vector.svg)](https://modrinth.com/project/K4Ytaql5)\n[![Discord 圖示](https://cdn.sqidgeon.uk/cozy/social/discord-plural_vector.svg)](https://discord.gg/FVq3j5heAc)\n\n[![Fabric 圖示](https://cdn.sqidgeon.uk/cozy/supported/fabric_vector.svg)](https://fabricmc.net/)\n[![Quilt 圖示](https://cdn.sqidgeon.uk/cozy/supported/quilt_vector.svg)](https://quiltmc.org/)\n[![NeoForge 圖示](https://cdn.sqidgeon.uk/cozy/supported/neoforge_vector.svg)](https://neoforged.net/)\n[![Forge 圖示](https://cdn.sqidgeon.uk/cozy/supported/forge_vector.svg)](https://files.minecraftforge.net/net/minecraftforge/forge/)\n\n</center>\n\nNoRollback 是一個旨在消除 99% _(來源：相信我)_ 回檔的模組。\n\n**在載入過一次世界後，你就可以從世界中卸除此模組。僅需使用一次即可。**\n\n## 運作原理？\n它會將遊戲規則 `elytra_movement_check` 與 `player_movement_check` 設定為 `false`。\n這使得玩家在使用鞘翅時能夠忽略速度限制，進而消除大多數的回檔現象，但代價是讓伺服器上的作弊變得更容易。（來源：[Minecraft Wiki - Gamerule](https://minecraft.wiki/w/Game_rule)）\n\n## 搭配推薦\n如果你使用此模組，可能會對 [Eslium](https://modrinth.com/project/zaVwh7an) 感興趣。\n\n## 支持我！\n加入我的極限生存 Minecraft 伺服器：[HardcoreSMP](https://modrinth.com/server/hardcoresmp_) - `38.143.19.130`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "IHCKllvHMkk=",
-  "content": "<p>此模組提供了一個框架，用於在模組包中建立進度系統。這些進度系統基於階段（Stages），階段是特定於玩家的標誌，用於追蹤他們的進度。透過其他模組和附加元件，你可以根據玩家已解鎖的階段來設定遊戲做出不同的反應。雖然「階段」一詞可能暗示線性進展，但它們實際上可以用於幾乎所有類型的進度系統。一些常見的例子包括將階段用於RPG職業和技能、遊戲模式（專家、困難、簡單）以及分支任務。</p>\n\n<p>有關如何使用GameStages的具體資訊，請參閱與你使用的模組版本相符的GitHub頁面。你也可以加入我的<a href=\"https://discord.darkhax.net\" rel=\"nofollow\">Discord</a>伺服器以獲得協助和進一步討論。你可以在此處<a href=\"https://legacy.curseforge.com/minecraft/mc-mods/game-stages/relations/dependents?filter-related-dependents=3\" rel=\"nofollow\">找到所有支援GameStages的模組列表。</a></p>\n\n[![Nodecraft贊助橫幅](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**此專案由Nodecraft贊助。使用優惠碼 [DARKHAX](https://nodecraft.com/r/darkhax) 即可享受首月服務30%折扣！**",
+  "bodyHash": "ddd176d081c8ea11",
+  "content": "\n\n<p>本模組提供了一個用於在整合包中建立進度系統的框架。這些進度系統基於「階段」（Stage），階段是用來追蹤玩家進度的玩家專屬標記。搭配其他模組與擴充套件使用，您可以設定遊戲根據玩家已解鎖的階段來做出不同的反應。雖然「階段」一詞可能讓人聯想到線性進度，但它實際上幾乎適用於所有類型的進度系統。常見的應用範例包括：將階段用於 RPG 職業與技能、整合包難度模式（專家、極限、簡單）以及分支任務等。</p>\n\n<p>關於如何具體使用 GameStages 的詳細資訊，請參考與您所使用的模組版本相對應的 GitHub 頁面。您也可以加入我的 <a href=\"https://discord.darkhax.net\" rel=\"nofollow\">Discord</a> 伺服器以尋求協助或進行進一步討論。支援 GameStages 的相依模組列表可<a href=\"https://legacy.curseforge.com/minecraft/mc-mods/game-stages/relations/dependents?filter-related-dependents=3\" rel=\"nofollow\">點擊此處查看</a>。</p>\n\n[![Nodecraft 贊助橫幅](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**本專案由 Nodecraft 贊助。使用優惠碼 [DARKHAX](https://nodecraft.com/r/darkhax) 可享首月服務 30% 折扣！**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

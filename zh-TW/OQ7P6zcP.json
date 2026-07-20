@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6c88bdba3e1a4d4f",
+  "content": "\n\n<!--DO NOT EDIT MANUALLY: synced from gh readme-->\n<!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->\n<center><img width=\"512\" alt=\"盒中的毛絨狐狸\" src=\"https://github.com/Sweet-Berry-Collective/MoreThanAFoxbox/blob/fabric-1.21.8/src/client/resources/assets/more_than_a_foxbox/icon.png?raw=true\"/></center>\n\n<center>\n遠不止是一隻放在盒子裡的狐狸！More Than A Foxbox 帶來熟悉的夥伴，並提供可自訂的姿勢與音效。\n</center>\n\n---\n\nMore Than A Foxbox 是 [foxbox](https://modrinth.com/mod/foxbox) 的續作，是一款資料驅動的玩偶模組，讓玩家能夠製作客製化的玩偶。\n\n遊戲內也預設提供了多種玩偶，包含：\n- 赤狐\n- 雪狐\n- 牛\n\n玩偶可透過全新的「縫製台」方塊進行製作，需要搭配「外殼」、「填充物」與「精華」三種道具。\n外殼道具通常為對應玩偶顏色的羊毛。\n填充物道具通常為新增的聚酯纖維填充物。\n而精華道具則是與該玩偶原型生物密切相關的物品。\n\n玩偶還能進一步裝備揚聲器與發聲器，分別賦予它們生物原聲音效或 squeaker 的擠壓聲。\n\n放置於地面上的玩偶支援三種姿勢切換，只需對著方塊按住 Shift 點擊即可。姿勢包含坐姿、站姿與趴姿。\n\n此外，玩家也能使用紙板道具製作紙箱，將玩偶放入其中呈現第四種姿勢。\n\n放置的玩偶會與紅石系統互動，提供比較器輸出訊號，並在通電時播放對應音效。\n\n若您希望新增更多玩偶，請參考我們儲存庫中的[範例目錄](https://github.com/Sweet-Berry-Collective/MoreThanAFoxbox/tree/fabric-1.21.8/examples)。\n\n---\n\n[![為 ModFest: Toybox 打造](https://raw.githubusercontent.com/ModFest/art/refs/heads/v2/badge/svg/toybox/cozy.svg)](https://modfest.net/toybox)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

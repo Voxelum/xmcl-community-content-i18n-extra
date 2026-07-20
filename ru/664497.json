@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ba8bc34ab9fb2867",
+  "content": "\n\n<p><a href=\"https://discord.gg/ykHRhmC\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://img.shields.io/discord/176190900945289237?style=flat-square&logo=discord&logoColor=ffffff&label=Discord\" alt=\"Discord\"></a></p>\n<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://github.com/FirEmerald/FECore/raw/main/logo.png\" alt=\"\"></p>\n<p>Базовая зависимость для модов FirEmerald при переходе на Minecraft 1.18.2 и новее</p>\n<p>Возможности:</p>\n<ul>\n<li>упрощённый код для сетевого взаимодействия</li>\n<li>простое управление интерфейсами BlockEntity</li>\n<li>более динамичные интерфейсы (включая вложенные компоненты)</li>\n<li>настраиваемые ограничивающие формы</li>\n<li>базовая система модулей совместимости</li>\n<li>взвешенные распределения</li>\n<li>дополнительные параметры codec</li>\n<li>псевдокарты с числовыми ключами (для улучшения производительности поиска и неизменяемости)</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

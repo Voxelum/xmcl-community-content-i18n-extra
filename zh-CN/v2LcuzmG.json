@@ -1,0 +1,6 @@
+{
+  "bodyHash": "51f8abb76d50cb83",
+  "content": "# 弹道预览\n\n**Projectile Preview（弹道预览）** 是一款 Fabric 客户端模组，在你投掷或射击之前，它会显示投射物的预测飞行轨迹。\n\n[![Downloads](https://img.shields.io/modrinth/dt/projectile.preview?color=00AF5C&label=downloads&logo=modrinth&style=for-the-badge)](https://modrinth.com/mod/projectile.preview)\n\n---\n\n## 功能特性\n\n- 投射物的实时轨迹预览\n- 支持以下物品：\n  - 弓\n  - 弩\n  - 三叉戟\n  - 可投掷物品（例如雪球、末影珍珠、药水）\n- 基于物理的精准模拟\n- 仅限客户端使用\n\n---\n\n## 兼容性\n\n- Minecraft **1.21.2 – 1.21.11**\n- 需要 Fabric Loader\n- 需要 Fabric API\n\n---\n\n## ⚠️ 服务器与封禁警告\n\n此模组提供**游戏优势**，在许多多人服务器中可能被视为**作弊行为**。\n\n- ❗ **在服务器上使用该模组可能导致被封禁**\n- ✔️ 设计用于**单人游戏**或**明确允许使用的服务器**\n- 使用前请务必检查服务器规则\n\n你需自行承担如何使用此模组的后果。\n\n---\n\n## 安装步骤\n\n1. 安装 Fabric Loader\n2. 安装 Fabric API\n3. 将模组 jar 文件放入你的 `mods` 文件夹\n4. 启动游戏\n\n---\n\n## 开发状态\n\n- 积极开发中\n- 预计会有破坏性更新\n- 代码结构可能会发生变化\n\n---\n\n## 许可证\n\nMIT 许可证\n\n您可以自由：\n- 使用代码\n- 修改代码\n- 复制代码\n- 将其包含在您自己的项目中\n\n只需保留许可证和版权声明即可。\n\n---\n\n## 致谢\n\n由 **Ryhox** 和 **Plattnericus** 开发",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

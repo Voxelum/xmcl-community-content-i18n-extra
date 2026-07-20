@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ff142be70aa0471d",
+  "content": "\n\n在原版的 Minecraft 中，處於模擬距離之外的區塊不會讓作物或樹苗生長。如果你種植了一片小麥田並遠離該區塊，當你再回來時，田地會完全維持在你離開時的狀態。\n\n此模組透過記錄區塊離開模擬距離或未被載入時的時間戳記來解決此問題。當你再次返回該區塊時，作物與樹苗會根據經過的時間進行生長。\n\n此模組**並不會**讓區塊保持載入狀態，僅針對以下方塊實例生效：\n- CropBlock\n- SaplingBlock\n- StemBlock\n- CocoaBlock\n- SugarCaneBlock\n- CactusBlock\n- SweetBerryBushBlock\n- LeavesBlock\n- FarmlandBlock",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

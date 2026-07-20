@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c35207c7c488288c",
+  "content": "\n\n# Vanilla+\n\n一款高效能、極簡的優化基準配置，在保持遊戲原汁原味體驗的同時，確保運行流暢無礙。 \n\n與那些改變核心玩法循環或在螢幕上充斥侵入性介面的臃腫整合包不同，**Vanilla+** 嚴格專注於效能指標、輸入回應最佳化以及無縫的結構更新。\n\n---\n\n## 效能指標與功能\n\n* **引擎全面重構：** 搭載 Sodium 與 Lithium，大幅提升幀率、最佳化背景遊戲邏輯，並消除微卡頓。\n* **超大視距：** 開箱即用整合 Distant Horizons，支援無限基於 LOD 的渲染路徑，同時不會過度消耗電腦資源。\n* **網路最佳化：** 內建 Fast IP Ping，加速多伺服器輪詢並降低本機 Socket 連線延遲。\n* **精緻體驗提升：** 整合 AppleSkin、Mouse Tweaks 以及乾淨流暢的角色動畫（NotEnoughAnimations），在維持預設美觀的同時改善遊戲操控感。\n* **隱私導向：** 隨附 No Chat Reports，徹底移除侵入性的玩家追蹤資料指紋。\n\n---\n\n## 安裝架構\n\n部署此套件僅需不到一分鐘。我們建議使用現代化的啟動器實例管理器，以獲得最乾淨的部署流程：\n\n1. **下載：** 前往我們的發行平台，取得針對目標 Minecraft 版本量身打造的 `.mrpack` 執行檔。\n2. **匯入：** 開啟 **Prism Launcher** 或官方 **Modrinth App**。\n3. **部署：** 點擊 `Add Instance` -> `Import` 並選擇下載的檔案。啟動器將自動從 Modrinth 的安全 CDN 直接下載已驗證的模組執行檔。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

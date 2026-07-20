@@ -1,6 +1,6 @@
 {
-  "bodyHash": "DEDkhuFaAqM=",
-  "content": "# 功能特性\n\nSilent Lib 主要是一個「函式庫」模組，為其他模組提供共用程式碼。不過它也新增了一個玩家可用的實用指令。\n\n## 指令\n\n### NBT 檢視器 (`/sl_nbt`)\n\n「sl_nbt」指令可用於以易讀格式檢視方塊、實體或物品的 NBT 資料。與原版的「data get」指令不同，此指令會開啟全新 UI 並格式化文字，方便瀏覽。輸出內容會依類型著色，32 位元整數更會同時顯示十進位與十六進位數值。您還可從此介面將 NBT 匯出為 JSON 檔案（提交錯誤回報時特別有用）。\n\n![NBT 檢視器](https://imgur.com/GHVop7W.png)",
+  "bodyHash": "fc25c6a85439f046",
+  "content": "\n\n# 功能特性\n\nSilent Lib 主要是一個「程式庫」模組，內含供其他模組共享的程式碼。不過它確實提供了一個值得注意的指令供玩家使用。\n\n## 指令\n\n### NBT 檢視器（`/sl_nbt`）\n\n「sl_nbt」指令可用來以易讀的格式檢視方塊、實體或物品的 NBT 資料。與原版的「data get」指令不同，此指令會開啟全新的介面，並對文字進行排版以利閱讀。輸出內容也會採用顏色標示，且 32 位元整數會同時以十進位和十六進位顯示。此外，您也可以在此將 NBT 資料匯出為 JSON 檔案（在回報錯誤時可能很有幫助）。\n\n![NBT 檢視器](https://imgur.com/GHVop7W.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

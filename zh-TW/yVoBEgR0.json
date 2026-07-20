@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5ca5881c7b41008",
+  "content": "\n\n<p>此模組允許您使用資料包為護甲、手持物品與生物附加自訂屬性。您可以設定所有木棍在副手持有時提供額外的最大生命值，或是移除下界合金裝備的擊退抗性屬性，亦或是以隨機數值提升生物的基礎護甲值！其主要目的是提供一種更簡潔的方式，來實作來自 Project: War Dance 與 Cloak and Dagger 的屬性修改器。</p>\n<p>後續計畫將支援其他類型的物品。如需範例資料包，請前往 <a href=\"https://github.com/Jackiecrazy/attributizer/tree/master/src/main/resources/data/attributizer/attributizer\">Github</a> 查看。</p>\n<p>圖示同樣取自 Lorc 的 game-icons.net。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

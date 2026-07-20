@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31beddc83ddce163",
+  "content": "<h1>Celestialsapien 附加模組</h1>\n<p><strong>重要提示：</strong>Forge 和 Fabric 版本提供為獨立下載。請務必安裝與您的模組載入器相匹配的版本。</p>\n<p>這是為《外星人進化》（Alien Evolution）設計的一份資源包，旨在恢復並補全缺失的 Celestialsapien（Alien X）素材。它還實現了 Celestialsapien 與校準版終極機變（Calibrated Ultimatrix）以及 OV 機變（OV Omnitrix）的兼容性。</p>\n<h2>功能特色</h2>\n<ul>\n<li>\n<p>恢復缺失的 Celestialsapien（Alien X）內容。</p>\n</li>\n<li>\n<p>新增對校準版終極機變和 OV 機變的支持。</p>\n</li>\n<li>\n<p>改善整體變形兼容性與穩定性。</p>\n</li>\n</ul>\n<h2>已知問題</h2>\n<ul>\n<li>\n<p>在變形過程中可能會出現輕微的延遲尖峰。</p>\n</li>\n<li>\n<p>在 Fabric 版本中，Bellicus 和 Serena 可能無法正確顯示。玩家在變形期間也可能被傳送至類似太空的維度。目前尚不清楚這些問題是由模組本身還是資源包引起的。除這些問題外，附加模組的功能符合預期。</p>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

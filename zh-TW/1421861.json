@@ -1,0 +1,6 @@
+{
+  "bodyHash": "46faf4c834082974",
+  "content": "\n\n<p><strong>Shadow Config</strong> 是一款輕量級的模組設定庫，專注於清晰、自動化與極簡設計。</p>\n<p>支援的副檔名：&nbsp;<br>- JSON<br>- JSONC<br>- TOML<br>- YAML<br>範例：</p>\n<div class=\"spoiler\">\n<p><img src=\"https://files.catbox.moe/05jrlk.png\"></p>\n</div>\n<p>&nbsp;</p>\n<p>它提供：</p>\n<ul>\n<li><strong>自動設定遷移</strong>，無需版本管理或手動對應</li>\n<li>&nbsp;</li>\n<li><strong>透過註解注入說明</strong>，讓設定檔更易讀且具備文件紀錄</li>\n<li>&nbsp;</li>\n<li><strong>基於 Jackson 的序列化機制</strong>，完整支援巢狀結構、列表與基本型別</li>\n<li>&nbsp;</li>\n<li><strong>格式無關的輸出</strong>&nbsp;，提供整潔的排版並可選擇保留註解</li>\n<li>&nbsp;</li>\n<li><strong>極低的執行期資源佔用</strong>，專為模組生態系整合設計，避免額外開銷</li>\n<li>&nbsp;</li>\n<li><strong>支援多種載入器</strong>，方便跨載入器模組開發</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

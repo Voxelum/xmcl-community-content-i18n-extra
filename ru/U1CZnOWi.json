@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb4e03f18fd74327",
+  "content": "\n\n# Простая команда убийства\n\nМод Simple Kill Command добавляет настраиваемую команду самоубийства на серверы Minecraft.\n\nПо умолчанию игроки могут выполнять `/kill` без прав оператора. Команда убивает только того игрока, который её запускает, и не принимает других целей.\n\n## Возможности\n\n- Настраиваемое имя команды\n- Настраиваемые псевдонимы\n- Опциональное требование разрешения\n- Поддержка Bukkit, Paper, Purpur, Folia, Fabric и Forge\n- Сборки для Fabric и Forge не требуют установки на клиенте\n\n## Конфигурация\n\nКоманда по умолчанию: `/kill`.\n\nФайл конфигурации для Bukkit создаётся по пути:\n\n```text\nplugins/SimpleKillCommand/config.yml\n```\n\nФайл конфигурации для Fabric и Forge создаётся по пути:\n\n```text\nconfig/simplekillcommand.properties\n```\n\nПсевдонимы в Fabric и Forge разделяются запятыми:\n\n```properties\ncommand.aliases=suicide,selfkill\n```\n\n## Лицензия\n\nMIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

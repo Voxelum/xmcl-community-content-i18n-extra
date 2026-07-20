@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b61a823f9af5a776",
+  "content": "\n\n# Create Aeronautics: 碎裂 💥\n\n## 飞行很有趣。坠毁则更加有趣。\n\n---\n\n## 本模组修改了什么？\n\n**Create Aeronautics: 碎裂** 为游戏添加了**结构的物理性破坏**。\n\n你的飞船现在：\n\n- 拥有**耐久度**\n- 受到撞击会**损坏**\n- 高速撞向悬崖时会**散架**\n- 会**丢失部件**——机翼、引擎、尾翼\n\n---\n\n## 新机制 = 新玩法\n\n### 伤害取决于物理引擎\n模组会考虑以下因素：\n- 撞击的力度\n- 飞船比撞击目标重多少\n- 撞击的具体位置\n\n### 谨慎建造\n现在工程力学至关重要。加固你的薄弱点。保护关键节点。或者建造廉价的“消耗品”，欣赏它们燃烧的绚丽景象。\n\n### 多人游戏乐趣\n- 载具在空中解体的竞速赛\n- 带有真实伤害的空战PvP\n- 宛如电影般的事故现场\n\n---\n\n![preview](https://cdn.modrinth.com/data/cached_images/6cd3df8a0f3399d94c2d3aba3b0ca5d9ec7ec965.png)\n\n---\n\n### **本模组为实验性内容，可能并不稳定。**\n\n---\n\n## 鸣谢\n- **Create** —— 感谢如此精美的模组\n- **Sable** —— 感谢其提供的物理系统与SubLevel架构",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

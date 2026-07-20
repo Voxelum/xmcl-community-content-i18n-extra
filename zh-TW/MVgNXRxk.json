@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99a91e081ae7f803",
+  "content": "\n\n![title1](https://cdn.modrinth.com/data/cached_images/5ad1438cc8e57203f6bbb8aaa4f83d14356d9613.png)\n本模組提供一套系統，可透過設定檔在控制選項中**隱藏****快捷鍵**，藉此限制擁有特定快捷鍵的玩家。\n\n此模組僅會**隱藏**快捷鍵，如果你希望它們無法使用，可以在隱藏前先解除綁定。\n\n_此模組僅需在客戶端安裝即可。_\n\n![title2](https://cdn.modrinth.com/data/cached_images/68568bf558f7662bdbadbfa2660c9a0fec7f72b0.png)\n要設定此模組，你必須先在 _./minecraft/config_ 資料夾中找到 _keybindhider.json_ 檔案。\n\n裡面會有以下內容：\n\n```\n{\n  \"hiddenCategories\": [],\n  \"hiddenKeybinds\": [],\n  \"disabledKeybinds\": false,\n  \"consoleLogs\": false\n}\n```\n在 _hiddenCategories_ 與 _hiddenKeybinds_ 列表中，你需要填入想要隱藏的**快捷鍵****ID**。若你想確認哪些快捷鍵已被隱藏，或想得知 Minecraft 外部模組的快捷鍵 ID，可以啟用 _consoleLogs_ 選項，這樣就能在客戶端主控台中看到相關資訊。\n\n如果你想了解 Minecraft 快捷鍵的 ID，並想更詳細地瞭解此模組的運作方式，可以前往[wiki](https://github.com/BanGameStudios/KeybindHider/wiki)。\n\n![title3](https://cdn.modrinth.com/data/cached_images/455151d8a6381523cb9366cd29a9bd378fba7fec.png)\n若已知其他模組快捷鍵的 ID，此模組也可與它們相容。\n\n![title4](https://cdn.modrinth.com/data/cached_images/e0ec0c16e844f93bddd8fc87f89fb8964c15bbd5.png)\n若遇到任何問題或有建議，你可以在社群 Discord（西班牙語系）中開立工單進行回報：https://discord.gg/sKRYYyVCnw\n\n若想支持我們，可透過以下途徑：\n- Patreon：https://www.patreon.com/c/BannedStudios\n- Ko-Fi：https://ko-fi.com/soykatto",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7eaf32a3c8b70f2e",
+  "content": "\n\n## Исправлена ошибка, из-за которой еда иногда потреблялась дважды!\n\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_46h.png)](https://www.curseforge.com/minecraft/mc-mods/no-double-eat) [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_46h.png)](https://modrinth.com/mod/no-double-eat)\n\nЕсли вы разработчик модпаков и хотите добавить No Double Eat в пакеты, распространяемые за пределами CurseForge или Modrinth, используйте [File Director](https://modrinth.com/mod/filedirector), чтобы избежать повторной загрузки файлов мода.\n\n---\n\nМне достаточно этого бага, поэтому я решил его исправить :P\n\nПодробнее см. [MC-849](https://bugs.mojang.com/browse/MC/issues/MC-849).\n\n---\n\n##### Поддерживаются версии 1.7.10–1.12.2. На версиях 1.15+ этот мод не требуется.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

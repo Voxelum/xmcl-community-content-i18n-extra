@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qaVYFUsSaU4=",
-  "content": "![Ping 標示橫幅](http://i.imgur.com/AeKobBv.png)\n\n受《傳送門 2》啟發，此模組將 Ping 工具帶入 Minecraft\n\n本模組旨在以實用方式重現該功能，同時確保其在 Minecraft 世界中確實具有用途。\n\n**使用方法**  \n使用 Ping 非常簡單。伺服器端與客戶端都必須安裝本模組。要發送 Ping，只需按住 **V** 鍵，然後將游標移至欲選擇的 Ping 類型上並放開 **V** 鍵，或直接點擊該類型。Ping 訊號便會發送給範圍內的所有玩家（範圍可調整）。\n在經驗值條（定位條）上會出現一個小圖示，協助您更準確地定位 Ping 的方向與位置。\n\n![Ping 範例](http://imgur.com/782LJtW.png)\n\n_**模組包許可**_\n\n歡迎在任何類型的模組包中使用 Ping，只要您附上本頁面的連結，且不從模組包中營利即可。\n\n_**致謝**_\n* dmillerw，Mine Menu 的原創作者——在我於 2016 年接手之前。",
+  "bodyHash": "b714f330b957a00d",
+  "content": "\n\n![Ping banner](http://i.imgur.com/AeKobBv.png)\n\n \n\n受到《傳送門 2》啟發，此模組將 Ping 工具帶入 Minecraft\n\n  \n本模組致力於以實用的方式還原該功能，並確保它在 Minecraft 世界中確實具有實用價值。\n\n \n\n**使用方法**  \n使用 Ping 非常簡單。伺服器與客戶端皆需安裝此模組。要發送 Ping，只需按住 **V** 鍵，並將滑鼠游標移至想要的類型上後放開 **V** 鍵，或直接點擊即可。隨後，Ping 訊號將會發送給範圍內的所有玩家（範圍可自訂設定）。\n在經驗條（定位條）上會出現一個小圖示，協助你更精準地判斷 Ping 的位置與方向。\n\n \n\n![Ping Example](http://imgur.com/782LJtW.png)\n\n \n\n_**模組包使用授權**_\n\n歡迎在任何模組包中使用此模組，只要附上本頁面連結，且勿透過該模組包獲利即可。\n\n_**致謝**_\n* dmillerw，Mine Menu 的原始作者——我在 2016 年接手前的創始人",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

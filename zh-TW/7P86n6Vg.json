@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RJJ1HLH5QE4=",
-  "content": "<h1>Walksy Lib</h1>\n\n一個基於建構器的設定庫，專為整合到我的模組中而設計。\n\n功能特色\n---\n- **序列化與反序列化**設定系統  \n- **標準與獨特選項**，包括：  \n  - **布林選項**  \n  - **數值選項**  \n  - **顏色選項**  \n  - **列舉選項**  \n  - **精靈/紋理選項** — 拖放自訂圖片  \n  - **像素網格選項** — 建立帶有動畫的自訂像素藝術（適用於粒子、圖示等）  \n  - **字串選項**  \n  - **字串列表選項**\n\n靈感來源\n---\n我從許多喜愛的設定庫中獲得靈感，主要有：\n- [YACL](https://modrinth.com/mod/yacl)\n- [UkuLib](https://modrinth.com/mod/ukulib)\n- [Cloth Config](https://modrinth.com/mod/cloth-config)\n- [MidnightLib](https://modrinth.com/mod/midnightlib)\n\n致謝\n---\n- **模組作者：** Walksy\n- **圖示設計：** Vqki",
+  "bodyHash": "5f95a06a99818cd4",
+  "content": "\n\n<h1>Walksy Lib</h1>\n\n一套基於建構者模式的設定檔函式庫，專為整合至我的模組而設計。\n\n功能特色\n---\n- **序列化與反序列化** 設定系統  \n- **標準與獨特選項**，包含：  \n  - **布林值選項**\n  - **數值選項**  \n  - **顏色選項**  \n  - **列舉選項** \n  - **精靈／紋理選項** — 支援拖放自訂圖片  \n  - **像素網格選項** — 可建立帶有動畫的自訂像素藝術（適用於粒子、圖示等...）  \n  - **字串選項**  \n  - **字串列表選項**\n\n靈感來源\n---\n我從許多我最喜愛的設定檔函式庫中汲取了靈感，主要包括：\n- [YACL](https://modrinth.com/mod/yacl)\n- [UkuLib](https://modrinth.com/mod/ukulib)\n- [Cloth Config](https://modrinth.com/mod/cloth-config)\n- [MidnightLib](https://modrinth.com/mod/midnightlib)\n\n致謝\n---\n- **模組：** Walksy\n- **圖示：** Vqki",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

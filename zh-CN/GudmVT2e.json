@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6f3c2ae89e19c839",
+  "content": "\n\n这是 EliteMasterEric 的 [Create: Salvage](https://modrinth.com/mod/create-salvage) 的非官方延续版本。此移植版仅包含原版特性，并进行了修复以兼容 Create 的最新版本。\n##  \n<details>\n<summary>原始模组说明</summary>\n\n## Create: Salvage\n终于，这些多余的工具和护甲片派上用场了！\n\nCreate: Salvage 提供了一类全新的配方类别，允许你从不再需要的工具中拆解回收原材料。\n\n## 特性\n\n- 将搅拌机置于水盆上方，烈焰喷灯置于下方，然后放入你不需要的物品。完成后，你将获得相当于该物品合成成本一半的铁锭和粒金。受损工具的回收量会按比例相应减少。\n- 对烈焰喷灯进行超频处理，可将金属物品的回收率提升至 100%，并解锁钻石和下界合金等高级材质物品的拆解功能。\n- 包含自定义的 Ponder 场景，用于介绍本模组。\n- 自定义 JEI 配方分类，方便浏览所有适用配方。\n- 配方完全基于数据驱动，便于模组二次开发与整合包制作。\n- 内置自动识别并应用大量模组配方的功能。\n- 添加了一个钻石粒金，因为我觉得钻石铲子拆解后毫无产出实在让人难受。若与其他模组冲突，请使用 [Almost Unified](https://modrinth.com/mod/almost-unified)。\n\n![Ponder 示例](https://raw.githubusercontent.com/EliteMasterEric/Create-Salvage/refs/heads/master/art/ponder.png)\n\n## 内置配方\n\n以下模组已内置拆解配方：\n\n- [Create](https://modrinth.com/mod/create)\n- [The Aether](https://modrinth.com/mod/aether)\n- [Farmer's Delight](https://modrinth.com/mod/farmers-delight)\n- [Deep Aether](https://modrinth.com/mod/deep-aether)\n- [Aether's Delight](https://modrinth.com/mod/the-aethers-delight)\n- [Leaf's Copper Backport](https://modrinth.com/mod/copper-backport/)\n</details>\n\n如果您是 Create: Salvage 的原作者，并希望我下架或归档此页面，请通过 Discord 联系我：@AdoLovesChicken。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

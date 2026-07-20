@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c6b5b2404dc495eb",
+  "content": "\n\n## 允許在信標基座中使用紅石塊，並允許將紅石粉作為信標的獻祭物品\n\n### 使用模組版本的安裝資訊：\n它們的功能與數據包相同，但會套用至所有建立或啟用了此模組的世界。若您不希望套用至所有世界，請改用數據包。\n\n**Forge**：\n<br>無需任何相依性，只需將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 是曾被建議加入 Purpur 的功能，或是符合 Purpur 主題的內容，但經過評估後認為以數據包的形式呈現會更合適！ \n<br>這些數據包的功能等同於 Purpur 中的單一設定選項。您可以隨時新增或移除它們，而不會損壞伺服器。\n<br>這些在原版遊戲中也能運作，您無需執行 Purpur 即可使用這些功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

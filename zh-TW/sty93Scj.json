@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1eaff077622f0712",
+  "content": "\n\n## 旋轉煙霧\n旋轉煙霧讓煙霧粒子對動態風向、天氣、周圍地形與局部氣流產生自然的反應。煙霧在來源附近會垂直上升，隨後逐漸隨風飄移；而洞穴、樹木、牆壁及其他障礙物則會減弱或阻擋戶外的氣流。\n\n本模組包含多種風況設定，從平靜無風到微風、強風乃至陣風皆有所涵蓋。降雨與雷暴也會影響風向行為，而洞穴內部大多保持靜止，僅偶爾出現細微的地下氣流。\n\n### 功能\n- 動態風向與強度變化\n- 平靜、正常、強風與陣風等多種風況\n- 基於天氣的風向變化\n- 感知地形與障礙物的氣流系統\n- 依據高度變化的煙霧移動方式\n- 偶爾出現的洞穴氣流\n- 可自訂的風向行為與相容性選項\n\n### 相容模組\n- Create\n- Create: Aeronautics\n- Steam 'n' Rails\n\n\n### 指令\n旋轉煙霧提供客戶端指令，用於測試與檢視風向系統。\n- /swirlingsmoke wind get\n> 顯示目前的風況類型、方向、強度、模式與剩餘持續時間。\n\n- /swirlingsmoke wind set none\n> 強制設定為平靜無風狀態。\n\n- /swirlingsmoke wind set calm\n> 強制設定為微風狀態。\n\n- /swirlingsmoke wind set normal\n> 強制設定為正常風速。\n\n- /swirlingsmoke wind set strong\n> 強制設定為強風狀態。\n\n- /swirlingsmoke wind set gust\n> 強制設定為強烈陣風狀態。\n\n- /swirlingsmoke wind set <type> <direction>\n> 強制設定風況類型與方向。方向以角度計算：0 代表東方、90 代表南方、180 代表西方、270 代表北方。\n\n- /swirlingsmoke wind auto\n> 將風向系統恢復為由天氣自動驅動的狀態。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

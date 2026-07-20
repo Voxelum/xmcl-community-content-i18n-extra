@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c3d45dcabf15fe87",
+  "content": "\n\n本模组添加了 AE2 与 Create 之间的兼容性。本模组需要 [Create](https://modrinth.com/mod/create) 和 [AE2](https://modrinth.com/mod/ae2)。\n\n添加了 AE 库存桥接器，将两种存储系统连接在一起。Create 库存系统中的物品会作为可合成物品显示在 AE 中。在桥接器上连接包装器后，Create 即可通过该桥接器向 AE 请求所需物品。\n\n未来计划：\n- 移植至 1.21 版本\n- 支持精细存储 (Refined Storage)\n- 通过 Create 实现 AE/RS 自动合成",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

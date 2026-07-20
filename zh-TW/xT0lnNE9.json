@@ -1,6 +1,6 @@
 {
-  "bodyHash": "6M/sOqq1/jk=",
-  "content": "這是我的舊版 Voxy World Gen 模組的重製版，這個模組並非被動區塊生成模組的分支，而是一個完全不同的模組。\n\n## 特色\n\n- 在背景非常快速地生成區塊，並自動將其導入 Voxy 中。\n- 可調整生成速度與佇列大小。\n- 支援 Tellus 整合。https://github.com/Yucareux/Tellus\n- 支援伺服器端。\n\n## 設定\n\n設定檔案位於 `config/voxyworldgenv2.json`。\n\n## 授權\n\n自訂授權，詳細資訊請參閱 LICENSE 檔案。\n\n## 需要伺服器嗎？\n\n我已經使用 BisectHosting 好幾個月了，他們一直都很可靠，而且實際上非常容易使用！我現在已經與他們合作成為合作夥伴！透過他們託管你的伺服器將直接支持我！請考慮使用我的促銷代碼 <iseeethan>，你可以在第一個月份享有約 25% 的折扣！\n\n點擊下方橫幅開始使用！\n\n\n[![banner](https://www.bisecthosting.com/partners/custom-banners/6223f15d-bdb4-4fe1-8c03-613cffe1ada7.webp)](https://shorturl.at/XePGB)",
+  "bodyHash": "80f2ea0e083a82cd",
+  "content": "\n\n這是我的舊版 Voxy World Gen 模組的重寫版本。此模組並非被動區塊生成器模組的分支，而是完全獨立的模組。\n\n## 功能特色\n\n- 在背景以極快速度生成區塊，並自動與 Voxy 整合匯入。\n- 可自訂生成速度與佇列大小。\n- Tellus 整合支援。https://github.com/Yucareux/Tellus\n- 提供伺服器端支援。\n\n## 設定檔\n\n設定檔位於 `config/voxyworldgenv2.json`。\n\n## 授權條款\n\n自訂授權，詳細資訊請參閱 LICENSE 檔案。\n\n## 需要伺服器嗎？\n\n我已經使用 BisectHosting 數個月，他們始終穩定可靠且操作簡便！我現在已正式成為其合作夥伴！透過他們託管伺服器能直接支持我的開發！歡迎使用我的專屬優惠碼 `<iseeethan>`，首月可享約 25% 折扣！\n\n點擊下方橫幅即可立即開始！\n\n\n[![banner](https://www.bisecthosting.com/partners/custom-banners/6223f15d-bdb4-4fe1-8c03-613cffe1ada7.webp)](https://shorturl.at/XePGB)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

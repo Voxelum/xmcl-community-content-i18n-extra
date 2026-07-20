@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c793e94aeffc6c1b",
+  "content": "\n\n# Размер хитбокса\n\nHit-box Sized — это ресурс-пак в стадии разработки, который заменяет модели каждого моба на один куб для повышения производительности в игре.\n\n# Требуется Optifine или EMF\n\nЭтот ресурс-пак использует функцию **OptiFine** под названием пользовательские модели сущностей (**CEM**) для добавления новых моделей и анимаций.\nБЕЗ ЭТОЙ ФУНКЦИИ ОН НЕ БУДЕТ РАБОТАТЬ КОРРЕКТНО!\nВ качестве альтернативы Optifine можно использовать комбинацию Entity Model Features и Entity Texture Features для поддержки функций CEM.\n\n- [Optifine](https://optifine.net/downloads)\n- [EMF](https://modrinth.com/mod/entity-model-features)\n- [ETF](https://modrinth.com/mod/entitytexturefeatures)\n\n## Возникли проблемы?\n\nУбедитесь, что включена следующая настройка: Настройки видео > Качество > Пользовательские модели сущностей: ВКЛ\nПри использовании модов наилучшим вариантом является связка EMF и ETF\n\n[Twitter](https://twitter.com/0yjyt) [Patreon](https://www.patreon.com/user?u=101079381)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

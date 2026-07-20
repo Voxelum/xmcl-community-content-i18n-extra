@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27f6ce60940ce1fc",
+  "content": "\n\nRelics Sable Compat 修复了 Relics 中的合唱权杖（Chorus Staff）与 Sable/Create Aeronautics 移动子层级及机械装置之间的不兼容问题。\n\n未安装此补丁时，若使用合唱权杖瞄准位于 Sable 管理的子层级内的方块或机械装置，可能会将玩家传送到错误位置。这是因为原始的传送射线检测使用的是子层级本地坐标，而非世界坐标。\n\n该兼容性模组通过 Sable Companion 修复了合唱权杖的传送逻辑，确保在传送玩家之前，传送目标能正确映射回世界坐标。\n\n已测试版本\n- Minecraft 1.21.1\n- NeoForge\n- Relics\n- Sable\n- Create\n- Create Aeronautics\n\n依赖项\n\n必需：\n- Relics\n- Sable\n\n可选：\n- Create\n- Create Aeronautics",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

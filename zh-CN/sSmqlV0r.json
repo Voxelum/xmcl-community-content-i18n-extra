@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c55fb48e3437e1b",
+  "content": "\n\n# KatamariIO \n![image](https://cdn.modrinth.com/data/cached_images/bc94075f17838afef4a8ee2a8257b06baedb9013_0.webp)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/swtzWXad8Vc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n## 命令\n权限等级：`2`（OP）\n\n- `/katamari size <targets> <value>`  \n为目标玩家设置碰撞大小。  \n范围：`0.01 .. 20.0`\n\n- `/katamari size <target>`  \n显示当前大小。\n\n- `/katamari restitution <targets> <value>`  \n设置恢复系数。  \n范围：`0.01 .. 1.2`\n\n- `/katamari restitution <target>`  \n显示恢复系数。\n\n- `/katamari ball <targets> <enabled>`  \n启用/禁用球体模式。\n\n- `/katamari resetBlocks <targets>`  \n清除粘附的方块，并将碰撞/渲染大小重置为 `KatamariIO.DEFAULT_BALL_SIZE`（当前为 `2.0f`）。\n\n## NBT 命令示例\n- `/data get entity @s SPM_BlockCount`\n- `/data get entity @s SPM_Size`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

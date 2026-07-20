@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a8955b961221b7d9",
+  "content": "\n\n<p>預設情況下，當夜視效果的剩餘時間少於 10 秒時，畫面會開始閃爍。</p>\n<p>此模組將該行為替換為剩餘 1 秒時快速淡出。&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>此模組可能與其他提供 `</em>GameRenderer.getNightVisionBrightness<em>` 的 Mixin 模組不相容。</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4cd26327240eea47",
+  "content": "\n\n# 人偶揮舞\n\n此模組為人偶加入了揮舞動畫的支援。它並未新增任何觸發揮舞動畫的方式，例如 26.1 快照版本中的 `/swing` 指令。\n\n## 技術細節\n\n`LivingEntity` 擁有一個 `updateSwingTime` 方法，必須在客戶端與伺服器端同時呼叫，才能允許實體揮動手臂。然而，該方法僅被 `Player` 與怪物使用。本模組透過 submixin 技術，在 `Mannequin` 的 `aiStep` 函式中加入了呼叫。\n\n```java\n@Mixin(LivingEntity.class)\npublic class LivingEntityMixin {\n\t@Shadow\n\tprotected void updateSwingTime() {};\n\n\t@WrapMethod(method = \"aiStep\")\n\tpublic void overrideAiStep(Operation<Void> original) {\n\t\toriginal.call();\n\t}\n}\n\n@Mixin(Mannequin.class)\npublic class MannequinSubMixin extends LivingEntityMixin {\n\t@Override\n\tpublic void overrideAiStep(Operation<Void> original) {\n\t\tsuper.overrideAiStep(original);\n\t\tupdateSwingTime();\n\t}\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

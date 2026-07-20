@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dfeed592d94659fe",
+  "content": "\n\n### 說明\n\n這個資料包讓您可以使用召喚 Herobrine 的經典祭壇來召喚雷雨！只需建造祭壇（將 9 個金塊以 3x3 排列，中心放置一個點燃的下界岩，四周環繞 4 個紅石火把），然後走進火中「獻祭」您的生命值即可。\n\n![altar build](https://cdn.modrinth.com/data/cached_images/e370de0551aa29e35045e6f5bcea59c51222815a.png)\n\n### 安裝指南\n\n- 前往您的存檔資料夾，Windows 系統路徑如下：\n```\nC:\\Users(your name)\\AppData\\Roaming\\.minecraft\\saves\n```\n  將壓縮檔案放入 data_packs 資料夾中，接著重新載入世界或執行      /reload\n\n### 其他注意事項\n\n- 金塊在使用後會轉為銅塊\n- 如需提供回饋、回報錯誤或尋求其他協助，請透過本頁面連結區塊加入 [Discord 伺服器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

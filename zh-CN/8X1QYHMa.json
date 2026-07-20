@@ -1,0 +1,6 @@
+{
+  "bodyHash": "26f10de34ea2896d",
+  "content": "\n\n# VFX Simple – 测试版\n\n*由 BunnyCrop Studios 开发的轻量级光影包，在提升 Minecraft 视觉效果的同时不牺牲性能。*\n\n## 🎥 展示\n\n<video src=\"https://i.imgur.com/BL0HzPV.mp4\" controls></video>\n\n## ✨ 功能特性\n\n### 增强的光照与阴影\n- 柔和的动态阴影，为游戏世界增添立体感\n- 改进的生物阴影，有效减少闪烁与穿模问题\n- 细腻的局部环境光遮蔽（AO），带来真实的深度感知\n- 光源散发温暖的光晕，并带有柔和的闪烁效果\n\n### 植被随风摆动\n- 树木、花朵和农作物会随风力动态摇曳\n\n### 粒子效果增强\n- 优化的粒子渲染与视觉效果\n- 粒子与环境更好地融合\n\n### 性能优化\n- 专为性能考量而开发\n- 对游戏帧率（FPS）影响极小\n- 兼容广泛的主流硬件配置\n\n## 📋 安装指南\n\n1. 为您的 Minecraft 版本安装 [OptiFine](https://optifine.net/downloads) 或 [Iris Shaders](https://irisshaders.net/download)\n2. 下载 VFX Simple 光影包\n3. 将下载的 `.zip` 文件放入您的 `.minecraft/shaderpacks` 文件夹中\n4. 使用 OptiFine 或 Iris 启动 Minecraft\n5. 进入 **选项 → 视频设置 → 光影**\n6. 从列表中选择 **“VFX Simple – 测试版”**\n\n## 🔧 兼容性\n\n- 支持 Minecraft **1.16.5 及以上版本**\n- 需要 OptiFine 或兼容的光影加载器\n- 兼容大多数主流 Minecraft 模组\n\n## 💻 性能表现\n\nVFX Simple 旨在保持轻量化的同时提供精美的视觉效果。它应在中端硬件上流畅运行，但具体表现可能因您的设备配置而异。\n\n**推荐配置：**\n- **显卡：** GTX 1050 或同等级别（或显存 2GB 以上的核显）\n- **处理器：** Intel i5 / AMD Ryzen 3 或更高\n- **内存：** 8GB 或以上\n\n## 🚧 测试版须知\n\n这是 VFX Simple 的测试版。虽然我们已尽力确保稳定性，但仍可能会偶尔遇到视觉瑕疵或性能波动。我们正在持续优化该光影包，非常欢迎您的反馈！\n\n## 🔮 未来计划\n\n- 添加更多大气特效\n- 优化水面渲染\n- 进一步提升性能优化\n- 扩展兼容性以支持更多 Minecraft 版本\n\n---\n\n*VFX Simple – 测试版 由 BunnyCrop Studios 制作*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

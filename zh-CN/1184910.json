@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8bae6a7d44565709",
+  "content": "\n\n<p>本模组解决了Patchouli与Emojiful之间的特定兼容性问题，该问题会影响Patchouli书籍中的文本渲染。</p>\n<p>&nbsp;</p>\n<p>其工作原理是确保Patchouli书籍使用默认的Minecraft字体，而不是Emojiful的字体。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://cdn.nanite.dev/data/assets/supports-neoforge@70h.png\" alt=\"\" width=\"254\" height=\"71\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4zFaZAcnvuY=",
-  "content": "***Эта библиотека предназначена для обеспечения совместной работы моих модов и улучшения их взаимной совместимости***\n\n***\n[CollectAll — Руды, деревья и культуры (v1.3+)](https://modrinth.com/mod/collectall-ores-trees-and-crops)\n\n[Reroll — Чары и торговля (v1.1.0+)](https://modrinth.com/mod/reroll-enchants-and-trades)\n\n***\nНет необходимости загружать RickCore, если только какой-либо другой мод не требует его, поскольку он сам по себе не содержит никакого контента.",
+  "bodyHash": "801bd6c8134d1644",
+  "content": "\n\n***Эта библиотека необходима для работы моих модов и обеспечения лучшей совместимости между ними***\n\n***\n[CollectAll - Руды, Деревья и Культуры (v1.3+)](https://modrinth.com/mod/collectall-ores-trees-and-crops)\n\n[Reroll - Зачарования и Торговля (v1.1.0+)](https://modrinth.com/mod/reroll-enchants-and-trades)\n\n***\nRickCore не нужно скачивать, если только другой мод не требует его, так как сам по себе он не содержит никакого контента.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "10507108e9762633",
+  "content": "\n\n<h1>动物围栏扩展 - Alex's Caves</h1>\n<p>本模组是一个兼容插件，允许来自 Alex's Caves 的生物与 Animal Pens 的围栏配合使用，使动物管理更加简便和一致。</p>\n<h2>功能特性</h2>\n<p>动物笼可捕捉：</p>\n<ul>\n<li>伽马蟑螂 - 可用洞穴蛛喂食</li>\n<li>射线猫 - 可用辐射鳃鱼喂食</li>\n<li>糖果角兽 - 可用拐杖糖喂食</li>\n<li>软糖熊 - 可用甜鱼喂食</li>\n</ul>\n<p>水生罐可捕捉：</p>\n<ul>\n<li>三裂虫 - 可用水桶捕捉</li>\n<li>辐射鳃鱼 - 可用酸液桶捕捉</li>\n<li>灯笼鱼 - 可用水桶捕捉</li>\n<li>海猪 - 可用水桶捕捉</li>\n<li>丝缕虫 - 可用水桶捕捉</li>\n<li>三脚鱼 - 可用水桶捕捉</li>\n<li>甜鱼 - 可用苏打水桶捕捉</li>\n</ul>\n<p>捕鸟网可捕捉：</p>\n<ul>\n<li>幽光蛾 - 无需额外操作</li>\n<li>诺托 - 无需额外操作</li>\n</ul>\n<p>其他：</p>\n<ul>\n<li>原始蛙变种掉落绯红蛙明灯</li>\n</ul>\n<h2>运行端：</h2>\n<p>服务端：添加所有交互功能。</p>\n<p>客户端：为鸟舍和水族箱中的生物添加动画效果。</p>\n<h2>🛠️ 前置依赖：</h2>\n<p>📌 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/animal-pens\" target=\"_blank\" rel=\"nofollow\">Animal Pen</a></strong>（必需）。<br>\n📖 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/alexs-caves\" target=\"_blank\" rel=\"nofollow\">Alex's Caves</a></strong>（必需）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

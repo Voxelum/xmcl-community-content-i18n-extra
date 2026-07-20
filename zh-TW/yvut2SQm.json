@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1488656e9df920aa",
+  "content": "# 大致足夠的輸入方法\n為 REI 添加更好的拼音輸入法。\\\n为REI添加了一个更好的拼音输入法。\n\n此模组修复了 https://github.com/shedaniel/RoughlyEnoughItems/issues/1440。\n\n### 允許不完整的聲母和韻母 允许不完整的声母和韵母\n![](https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/1.png?raw=true)\n### 更好的多音字支持 对多音字的更好的支持\n![](https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/2.png?raw=true)\n\n## 支持的 REI 版本 支持的REI版本\n- \\>= 8.3.519 且 < 9\n- \\>= 9.1.520",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

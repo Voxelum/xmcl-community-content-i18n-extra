@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qEPFwsQm7ow=",
-  "content": "Этот ресурсный пак заменяет ненужные специальные символы из CC: Tweaked на корейские. Вам придётся расшифровывать их вручную, но такие символы, как ㅘ и ㅙ, поддерживаются, так что текст будет читабельным. Если вам нужна таблица символов, посмотрите ниже!\n\n<details>\n<summary>Таблица символов</summary>\n\n![Таблица символов](https://cdn.modrinth.com/data/cached_images/d11730509a728c5553733313accfc99fc36e2eb4.png)\n\n\nНиже приведён пример: при запуске вы увидите ㄱ и ㄴ.\n\n```\nterm.clear()\nlocal a = \"\\xA0\"\nlocal b = \"\\xA1\"\nwrite(a .. \" \" .. b)\nterm.setCursorPos(1,1)\n```\n\n\n</details>\n\n",
+  "bodyHash": "eb156581c3bde69f",
+  "content": "\n\nЭтот ресурс-пак заменяет бесполезные специальные символы из CC: Tweaked на символы хангыля. Из-за системных ограничений их придётся набирать по отдельности, но поддерживаются такие сочетания, как ㅘ, ㅙ и др., поэтому читать текст будет вполне комфортно. Если вам нужна таблица символов, пожалуйста, посмотрите ниже!\n\n<details>\n<summary>Таблица символов</summary>\n\n![Таблица символов](https://cdn.modrinth.com/data/cached_images/d11730509a728c5553733313accfc99fc36e2eb4.png)\n\n\nНиже приведён пример. При запуске он выведет ㄱ ㄴ.\n\n```\nterm.clear()\nlocal a = \"\\xA0\"\nlocal b = \"\\xA1\"\nwrite(a .. \" \" .. b)\nterm.setCursorPos(1,1)\n```\n\n\n</details>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

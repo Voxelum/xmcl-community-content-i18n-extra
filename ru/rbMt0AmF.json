@@ -1,0 +1,6 @@
+{
+  "bodyHash": "481bf19f42ab97c2",
+  "content": "\n\nHalo HUD — это мод для Minecraft под загрузчик Fabric, добавляющий небольшой индикатор в стиле «ореола» вокруг прицела, показывающий состояние здоровья и голода игрока.\n\nЭто позволяет игрокам быстро оценивать состояние своего персонажа, не глядя вниз на интерфейс, что особенно удобно на больших мониторах.\n\n**HaloHUD >= 2.0 требует библиотеку YetAnotherConfigLib вместо ClothConfig!**\n\n\nИндикатор автоматически скрывается, когда шкалы заполнены полностью.\n\n## Зависимости\n\n* Опциональная зависимость от [YetAnotherConfigLib](https://modrinth.com/mod/yacl) для экрана настроек внутри игры\n\n### Только для Fabric\n* требуется [Fabric API](https://modrinth.com/mod/fabric-api)\n* опционально: [Mod Menu](https://modrinth.com/mod/modmenu) для экрана настроек внутри игры\n\n\n## Совместимость с другими модами\nМод должен быть совместим с любыми другими модами, которые не отрисовывают что-либо вокруг прицела.\n\nОтлично работает в связке с другим моим модом [AutoHud](https://modrinth.com/mod/autohud).\nТакже прекрасно сочетается с моим модом [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

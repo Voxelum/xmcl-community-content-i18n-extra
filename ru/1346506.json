@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bf0a11d1d76fcc71",
+  "content": "\n\n<p>Это именно то, что заявлено.</p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/spiffyhud\" rel=\"nofollow\">SpiffyHUD</a> имеет <a href=\"https://github.com/decce6/Gnetum/issues/29\" rel=\"nofollow\">проблему</a> с модом <a href=\"https://www.curseforge.com/minecraft/mc-mods/gnetum\" rel=\"nofollow\">Gnetum</a> из-за способа отрисовки его элементов HUD (TL;DR: используется миксин, поэтому...). Автор <a href=\"https://github.com/Keksuccino/SpiffyHUD/pull/42\" rel=\"nofollow\">Gnetum</a> уже подготовил исправление для этого, но автор Spiffy отказался&nbsp;его объединять. Я решил&nbsp;реализовать это в данном дополнении.</p>\n<p>Оно отключает реализацию рендерера через миксин и заменяет её на ту, которая опирается&nbsp;на соответствующие события Forge.</p>\n<p>Если вы не планируете использовать Gnetum (или любой другой похожий мод) вместе со SpiffyHUD, это дополнение не будет выполнять никаких действий.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

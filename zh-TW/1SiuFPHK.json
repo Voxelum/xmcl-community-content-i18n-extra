@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1a252b84fa47a7a4",
+  "content": "\n\n# LinuxSSH\n\n一款強大的工具，允許您在 Minecraft 中以終端機的形式透過 SSH 管理您的 Linux 電腦。\n\n## 需求\n\n* Fabric Loader \n* Fabric API\n* Fabric Language Kotlin\n\n## 如何使用？\n\n1. 將發布版的 JAR 檔案拖曳至您的 mods 資料夾中。\n2. 使用您偏好的啟動器（官方、MultiMC 等）啟動 Minecraft。\n3. 載入世界並享受遊戲吧！\n\n## 指令用法\n\n我們提供了一個 `/ssh` 指令來與此模組互動。\n\n1. 連線至主機\n\n   ```text\n   /ssh connect <user@hostname>\n   ```\n\n   例如：\n\n   ```text\n   /ssh connect celestia@192.168.1.129\n   ```\n\n2. 確認主機指紋\n\n   若您首次連線至該主機，可能需要確認來自 Linux 主機的指紋資訊。請輸入 `/ssh confirm <yes/no>` 以接受或拒絕該指紋。\n\n3. 輸入密碼\n\n   接著，輸入 `/ssh password` 以繼續。我們不會在本機儲存您的密碼，也不會透過網路傳輸它。\n\n4. 輸入 Linux 指令\n\n   您可以輸入 `/ssh command [command]` 來與 Linux 電腦互動。\n\n   例如：\n\n   ```text\n   /ssh command apt install xfce4 xfce4-goodies fonts-wqy* fastfetch -qq -y\n   ```\n\n5. 斷線\n\n   您可以輸入 `/ssh disconnect` 來斷開與 Linux 電腦的連線。\n\n6. 匯入公開金鑰／私密金鑰（開發中）\n\n   我們將在未來加入公開金鑰／私密金鑰功能。屆時您可以輸入 `/ssh import [Path]` 進行匯入。\n\n## 授權與原始碼\n\n© Moerain Software Developments and NuanRMxi Lazy Team 2025\n\n本模組採用 [GNU GPLv3 授權條款](https://www.gnu.org/licenses/gpl-3.0.en.html)。\n\n原始碼可於 [GitHub](https://github.com/NuanRMxi-Lazy-Team/LinuxSSH-MC) 取得。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

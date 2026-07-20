@@ -1,6 +1,6 @@
 {
-  "bodyHash": "h5RRMPxa5dU=",
-  "content": "<h1>大地奇物</h1><h2>獨立模組版本的「<a href=\"https://www.curseforge.com/minecraft/mc-mods/confluence\" target=\"_blank\" rel=\"nofollow\">匯流：異界</a>」飾品部分</h2><h3>飾品是可裝備的物品，能提供屬性加成與/或特殊能力，例如有限飛行。</h3><h3>飾品必須放在角色的飾品裝備欄中才能發揮作用，但部分資訊類飾品例外，它們只需存在於角色背包中即可生效。</h3><h2>本模組目前已重現超過170種飾品，未來將持續改進</h2><h3>例如重力球，能讓持有者翻轉重力，使玩家向上而非向下坠落，並可事後將重力恢復正常。裝備後，按下跳躍鍵即可切換重力方向。此效果僅影響裝備該物品的玩家。</h3><p><img src=\"https://media.forgecdn.net/attachments/879/112/2024-05-31_11.png\" alt=\"翻轉重力\"></p>",
+  "bodyHash": "98f5f1d5573232e7",
+  "content": "\n\n<h1>Terra Curio</h1>\n<h2>將「<a href=\"https://www.curseforge.com/minecraft/mc-mods/confluence\" target=\"_blank\" rel=\"nofollow\">Confluence: Otherworld</a>」的配件系統獨立為單一模組</h2>\n<h3>配件是可裝備的物品，可提供屬性增益與／或特殊能力，例如短時間飛行。</h3>\n<h3>配件必須裝備於角色的配件槽位中才能生效，但部分資訊型配件只需放置在背包內即可運作。</h3>\n<h2>此模組目前已移植超過 170 種配件，未來也將持續進行優化與更新</h2>\n<h3>例如重力球（Gravity Globe），能讓持有者反轉重力，使玩家朝上方坠落而非下方，並可在之後切換回正常重力。裝備後，按下跳躍鍵即可切換重力方向。此效果僅對裝備該物品的玩家生效。</h3>\n<p><img src=\"https://media.forgecdn.net/attachments/879/112/2024-05-31_11.png\" alt=\"反轉重力\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

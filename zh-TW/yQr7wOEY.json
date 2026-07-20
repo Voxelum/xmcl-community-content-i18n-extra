@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+8mp/+onV00=",
-  "content": "## 啟用高爐熔煉沙子功能\n\n### 注意：\n此資料包新增了配方，移除它會導致控制台出現關於缺失配方的警告。這對您的世界或存檔資訊沒有危險。\n\n### 使用模組版本時的安裝資訊：\n這些功能與資料包相同，但會應用於所有使用此模組創建/啟用的世界。如果您不希望應用於所有世界，請改用資料包。\n\n**Forge**：\n<br>無需依賴項，只需將模組放入 mods 資料夾\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur 擴充包\nPurpur 擴充包是建議加入 Purpur 的功能——或符合 Purpur 主題，但被認為更適合作為資料包的形式存在！\n<br>這些資料包的功能與 Purpur 中的單一配置設定相同。它們可以隨時添加或移除，不會損壞伺服器。\n<br>這些在原生 Minecraft 中即可運作，您不需要運行 Purpur 即可使用它們。",
+  "bodyHash": "feee71e367286cd3",
+  "content": "\n\n## 啟用高爐燒製沙子功能\n\n### 注意：\n此資料包會新增燒製配方。若移除此資料包，主控台將顯示關於遺失配方的警告。這不會對您的世界或存檔資訊造成危害。\n\n### 使用模組版本時的安裝資訊：\n其功能與資料包相同，但會套用至所有已建立或啟用了此模組的世界。若您不希望套用於所有世界，請改用資料包。\n\n**Forge**：\n<br>無需額外依賴，只需將模組檔案放入 mods 資料夾即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 是曾建議加入 Purpur，或符合其主題的功能，但經評估後認為以資料包形式提供更為合適！ \n<br>這些資料包的功能等同於 Purpur 中的單一設定項目。您可以隨時新增或移除，不會對伺服器造成損害。\n<br>這些資料包在原版 Minecraft 中即可運作，無需使用 Purpur。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

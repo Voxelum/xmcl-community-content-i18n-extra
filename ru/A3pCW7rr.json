@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a08e0d20b67f83af",
+  "content": "\n\n# Автозаполнение Hypixel\n\nПростой мод для Fabric версии 1.21.2-26.1, добавляющий автозаполнение по Tab для различных команд Hypixel.\n\n## Поддерживаемые команды\n\n|   Команда   |      Псевдонимы       |\n|:--------:|:------------------:|\n|  /chat   |                    |\n| /friend  |    /f, /friends    |\n|   /fl    |                    |\n|  /guild  |         /g         |\n|  /party  |         /p         |\n| /status  |                    |\n| /message | /whisper, /msg, /w |\n|    /r    |       /reply       |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

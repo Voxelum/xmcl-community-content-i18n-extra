@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d8d655c35b7f625d",
+  "content": "\n\n<h2><strong>Bedrock Tools76</strong></h2><p> <img src=\"https://media.forgecdn.net/attachments/802/723/bedrocktools76.png\" width=\"640\" height=\"400\"></p><h3>描述</h3><p>Bedrock Tools 新增了黑曜石與基岩工具。</p><p>這些工具讓玩家能夠破壞基岩與終界傳送門框架，並將它們轉換為物品。在創造模式中，玩家可以使用這些新增的工具一擊擊殺生物。基岩工具的耐久度設定為 60000，而黑曜石工具的耐久度則為 3500。雖然它們的挖掘速度不算特別快，但這些設定都可以在設定檔中進行自訂。此外，使用黑曜石鎬破壞基岩會使其耐久度減少 1000。</p><p>所需模組：<a href=\"https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch\" rel=\"nofollow\">MCPitanLib</a>、<a href=\"https://www.curseforge.com/minecraft/mc-mods/architectury-api\" rel=\"nofollow\">Architectury API</a></p><p>（若於 Fabric 載入器上使用，還需安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a>）<br>載入器：Fabric Loader、Forge Loader<br>授權條款：MIT License<br>模組包：可使用</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

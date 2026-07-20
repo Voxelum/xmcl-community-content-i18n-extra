@@ -1,6 +1,6 @@
 {
-  "bodyHash": "y1tws2kR7lA=",
-  "content": "<p>SpectrumJEI — это модификация для <a href=\"/mod/spectrum\">Spectrum</a>, которая добавляет поддержку просмотра рецептов в <a href=\"/mod/jei\">Just Enough Items</a>.</p>\n<p>Помимо всех функций REI/EMI, которые предоставляет Spectrum, этот мод также добавляет: <br>&bull; Отдельные категории для разных уровней Пьедесталов<br>&bull; Перенос рецептов с Пьедестала на Крафт-планшеты (1.19.2+)<br>&bull; Включает FractalJEI, который исправляет проблемы с отображением предметов в JEI (1.20.1+)</p>\n<p>Для поддержки <a href=\"/mod/emi\">EMI</a> используйте, пожалуйста, базовый мод напрямую.</p>\n<p>Этот мод поддерживает загрузку с помощью <a href=\"/mod/connector\">Sinytra Connector</a>, требует <a href=\"/mod/connector-extras\">Connector Extras</a>.</p>\n",
+  "bodyHash": "979672aaa0e76be2",
+  "content": "\n\n<p>SpectrumJEI — это дополнение к <a href=\"/mod/spectrum\">Spectrum</a>, добавляющее поддержку просмотра рецептов в <a href=\"/mod/jei\">Just Enough Items</a>.</p>\n<p>В дополнение ко всем функциям REI/EMI, предоставляемым Spectrum, данный мод также добавляет: <br>&bull; Отдельные категории для различных уровней пьедестала<br>&bull; Передача рецептов пьедестала на планшеты для крафта (1.19.2+)<br>&bull; Включает FractalJEI, исправляющий отсутствие предметов в JEI (1.20.1+)</p>\n<p>Для поддержки <a href=\"/mod/emi\">EMI</a> используйте базовый мод напрямую.</p>\n<p>Этот мод поддерживает загрузку вместе с <a href=\"/mod/connector\">Sinytra Connector</a>, при этом требуется <a href=\"/mod/connector-extras\">Connector Extras</a>.</p>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

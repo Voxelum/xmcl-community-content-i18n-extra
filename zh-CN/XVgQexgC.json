@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1e2bccc20c375a4c",
+  "content": "\n\n# 什么是 Weight？\n\n**Weight** 是 [Create: Aeronautics](https://modrinth.com/mod/create-aeronautics) 的附加组件，它让玩家的位置对模拟的机械装置产生实际影响。 \n\n站在甲板上的**玩家**和**生物**会为**Sable 的物理模拟**增添真实的质量。\n\n# 游戏玩法\n\n玩家拥有**自身的重量**，若聚集在某一侧，船只会向该方向倾斜。没有预设脚本效果，纯粹依靠**物理引擎**。\n\n**跳跃**和**落地**时会对甲板产生真实的冲击力，其大小会根据你跳跃或下落的力度按比例换算。\n\n# 配置\n\n所有数值——玩家质量、跳跃冲量强度、生物重量等，均可在游戏内进行调整！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

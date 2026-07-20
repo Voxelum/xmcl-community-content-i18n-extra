@@ -1,0 +1,6 @@
+{
+  "bodyHash": "61f046ad2c05c488",
+  "content": "\n\n<p>EMI GameStages Link 在 EMI 中添加了清晰的视觉指示器，让玩家能够立即查看哪些物品和配方被 GameStages 锁定。</p>\n<h2><img style=\"font-weight:400;font-size:16px\" src=\"https://media.forgecdn.net/attachments/description/null/description_c1a7ab64-c003-472f-935f-131a26b0f5a8.png\" alt=\"\" width=\"849\" height=\"531\"></h2>\n<p>&nbsp;</p>\n<h2>概述</h2>\n<p>EMI GameStages Link 是一款 Minecraft Forge 模组，它将<strong>EMI</strong>与 GameStages 集成，直接在 EMI 的物品列表和配方界面中显示锁定信息。<span>​</span><br>若物品或配方处于阶段锁定状态，该模组将显示锁形图标覆盖层、“锁定至&lt;阶段&gt;”标签、悬停提示详情，以及锁定产出的彩色高亮效果。<span>​</span></p>\n<h2>功能特性</h2>\n<ul>\n<li>自动集成 ItemStages（无需配置即可检测锁定物品）。<span>​</span></li>\n<li>自动集成 RecipeStages（无需配置即可检测锁定配方）。<span>​</span></li>\n<li>在锁定物品/产出上显示锁形图标覆盖层。<span>​</span></li>\n<li>在锁定配方上方显示“锁定至&lt;阶段&gt;”标签。<span>​</span></li>\n<li>悬停时显示所需阶段的提示详情。<span>​</span></li>\n<li>高亮显示锁定输出槽位（支持自定义颜色）。<span>​</span></li>\n<li>集成至 EMI 物品列表（在 EMI 搜索/物品列表面板中显示锁形图标）。<span>​</span></li>\n<li>通过物品 ID 或标签手动配置锁定，作为备用或扩展方案。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

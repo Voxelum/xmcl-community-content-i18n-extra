@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d6bce5a871ec5a0",
+  "content": "\n\nЭто мод-библиотека. Устанавливать его нет смысла, если только вы не планируете использовать мод, который от него зависит.\n\nТем не менее, если вы разработчик, использующий Architectury и Kotlin, это может быть вам интересно.\n```\nobject ArcheanosItems : GenericRegistry<Item>(Archeanos.MOD_ID, Registries.ITEM) {\n    val ANCIENT_SEED: ItemNameBlockItem by register(\"ancient_seed\") { ItemNameBlockItem(ArcheanosBlocks.SOURCESPROUT, Item.Properties()) }\n    val SOURCELEAF: Item by register(\"sourceleaf\") { Item(Item.Properties()) }\n    val SOURCE_FRUIT: ItemNameBlockItem by register(\"source_fruit\") { ItemNameBlockItem(ArcheanosBlocks.SOURCESPROUT, Item.Properties()) }\n    val INFUSED_SEED : ItemNameBlockItem by register(\"infused_seed\") { ItemNameBlockItem(ArcheanosBlocks.INFUSED_WHEAT, Item.Properties()) }\n    val INFUSED_WHEAT : InfusedFeed by register(\"infused_wheat\") { InfusedFeed(Item.Properties(), Items.WHEAT) }\n}\n```\n\nПосмотрите на это. Разве это не красиво?",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

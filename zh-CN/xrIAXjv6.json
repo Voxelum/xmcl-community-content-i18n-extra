@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a9fee12a96e4d5a",
+  "content": "\n\nRareVillages 使村庄变得更为稀少，它并非通过降低生成概率，而是通过增大村庄间的间距来实现。你可以使用 [Jacobsjo的Minecraft数据包地图](https://map.jacobsjo.eu/) 对比原版 Minecraft 与 RareVillages 的效果差异。2.0 版本现已支持 [Terralith](https://modrinth.com/datapack/terralith)。RareVillages 还会将原版村庄与武装村庄统一计算间距。这意味着你将不会像仅使用 Terralith 时那样，在原版村庄旁遇到武装村庄。\n\n**原版村庄：**\n- 未安装 RareVillages 时，村庄平均间距为 34 个区块，最小间距仅为 8 个区块。\n- 安装 RareVillages V1 后，村庄平均间距变为 100 个区块，最小间距为 50 个区块。\n- 安装 RareVillages V2 后，村庄平均间距变为 75 个区块，最小间距为 34 个区块。\n\n**武装村庄（Terralith）：**\n- 未安装 RareVillages 时，武装村庄平均间距为 46 个区块，最小间距仅为 18 个区块。\n- 安装 RareVillages V1 后，武装村庄平均间距变为 100 个区块，最小间距为 50 个区块。\n- 安装 RareVillages V2 后，武装村庄平均间距变为 75 个区块，最小间距为 34 个区块。\n\n请在下载前务必前往“版本”页面确认你所下载的具体版本。运行此数据包**_必须_**安装 Terralith。如果你不想使用 Terralith，可以在[此处](https://modrinth.com/datapack/rare-villages)找到仅针对原版村庄的 RareVillages 版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

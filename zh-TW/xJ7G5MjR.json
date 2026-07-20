@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dadf431157b1120d",
+  "content": "![title.png](https://github.com/pynickle/Enchanting-Vanilla-Architectury/blob/master/title.png?raw=true)\n\n## 描述\n\n**附魔原版（Enchanting Vanilla）** 是一款致力于增强原版游戏体验并保持原汁原味风格的模组。\n\n它专注于全方位优化游戏体验，不仅包括诸如将混凝土粉末投入水中使其凝固等生活质量（QOL）改进功能，还包含能够检测史莱姆区块等实用工具，你能想到的功能这里应有尽有！\n\n**所有已添加的功能均可在[Wiki](https://euphony.gitbook.io/enchanting-vanilla)中找到**\n\n## 依赖关系\n\n绝大多数功能均可开关，安装可选依赖项 **“YetAnotherConfigLib”** 模组后，你可以在游戏内通过可视化界面轻松配置它们。\n\n同时也提供配置文件支持。\n\n## 开发状态\n\n本模组正在积极更新中，未来还将添加更多功能！\n\n加入我的 [Discord](https://discord.gg/J2TwHucyzk) 与我交流。\n\n## 注意事项\n\n在 4.0.0 版本更新中，**我移除了客户端部分**。如果你仍想使用其相关功能，请迁移至 [Better Client](https://www.curseforge.com/minecraft/mc-mods/better-client)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

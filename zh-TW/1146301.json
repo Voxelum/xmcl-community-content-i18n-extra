@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bdf63701af56fc36",
+  "content": "\n\n<p>強化鐵砧將原版鐵砧介面修改為新增額外按鈕。</p>\n<ul>\n<li>16 個顏色按鈕，對應 Minecraft 支援的每個&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraft.wiki%252fw%252fFormatting_codes%2523Color_codes\" rel=\"nofollow\"><strong>顏色</strong><strong>代碼</strong></a></li>\n<li>6 個按鈕對應每個 <a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraft.wiki%252fw%252fFormatting_codes%2523Formatting_codes\" rel=\"nofollow\"><strong>格式化代碼</strong></a>&nbsp;，可讓你將文字設為模糊、粗體、刪除線、底線、斜體或重置格式</li>\n<li>4 個自訂按鈕對應 Minecraft Java 版的每個 <a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraft.wiki%252fw%252fFont%2523Java_Edition\" rel=\"nofollow\">字體</a></li>\n<li>3 個自訂描述按鈕，可將目前文字轉換為物品描述（最多 3 行不同的描述）</li>\n</ul>\n<p>&nbsp;</p>\n<p>每個按鈕都會在編輯框的游標位置插入格式化代碼。（若使用字體或描述按鈕則會插入在開頭）</p>\n<p>這些按鈕讓使用者可以在命名物品時使用顏色／字體／描述。</p>\n<p>&nbsp;</p>\n<p>描述功能大多尚未經過測試，若遇到任何問題請至議題追蹤器回報。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

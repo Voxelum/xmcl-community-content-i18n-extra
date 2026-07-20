@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3fa4b13cb61c7a28",
+  "content": "<h1>OverflowAnimations</h1>\n<p><img src=\"https://wsrv.nl/?url=https://polyfrost.org/img/compact_vector.svg&n=-1&w=1000\" width=\"56\"> <img src=\"https://img.shields.io/github/v/release/Polyfrost/OverflowAnimationsV2.svg?style=for-the-badge&color=1452cc&label=release\" alt=\"Dev Workflow Status\"></p>\n<p>本模组将 Overflow Animations (V1) 与 Sk1er 旧版动画代码结合为一个模组，并修复了错误且增加了额外功能。</p>\n<p><strong>包含：</strong></p>\n<ul>\n<li>旧版进食/喝水动画</li>\n<li>旧版鱼竿位置</li>\n<li>旧版弓的位置</li>\n<li>旧版方块攻击动作</li>\n<li>旧版挥动动画</li>\n<li>旧版潜行动画</li>\n<li>受到攻击时盔甲变红</li>\n<li>旧版生命值显示</li>\n<li>旧版格挡机制</li>\n<li>旧版物品栏位置（第一人称和第三人称）</li>\n<li>右键点击物品的同时左键攻击方块</li>\n<li>2D 物品渲染</li>\n<li>旧版物品切换动画</li>\n<li>旧版投射物轨迹</li>\n<li>更简洁的附魔光泽效果</li>\n<li>1.15 版盔甲附魔光泽效果</li>\n<li>其他旧版动画模组中未见的多种功能！</li>\n</ul>\n<p><em>“旧版调试碰撞箱”功能已从原版中移除，因为 <a href=\"https://github.com/Polyfrost/REDACTION\" rel=\"nofollow\">REDACTION</a> 具有相同的功能。</em></p>\n<h2>许可证</h2>\n<p>本模组目前采用 GNU 宽通用公共许可证第 3 版（LGPLv3）进行许可。</p>\n<h4>商标使用</h4>\n<p>未经书面授权，GNU LGPL 并不授予任何用于宣传目的的 Polyfrost 或 OneConfig 商标和标志的使用许可或权利。但是，您可以使用这些商标来描述模组的来源，或在合理使用范围内使用。</p>\n<h4>贡献者许可</h4>\n<p>对本仓库的贡献将根据提交时该仓库的许可条款自动获得许可（目前为 LGPL 第 3 版），这由 GitHub 服务条款子条款 D6 定义。如果您希望以其他兼容 LGPL 的许可证授权您的贡献，请提前告知我们。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

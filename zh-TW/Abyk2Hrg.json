@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6a3a8805409f1821",
+  "content": "\n\n# 增強亮度\n增強亮度是一款簡單的模組，可讓您將亮度設定在預設值之上。\n它使用 Fabric（非 Forge）開發，並與 Minecraft 1.19 相容。\n\n## 功能特色\n修改過的亮度滑桿，將亮度範圍擴展至 -150% 到 1200%。\n\n![顯示新亮度滑桿範圍的 GIF](https://i.imgur.com/ScqEWNE.gif \"From -15% to 1200%!\")\n\n最多可設定 5 個自訂亮度等級，可透過 [Mod Menu](https://modrinth.com/mod/modmenu) 進行存取。\n![選項介面中的 5 種亮度等級](https://user-images.githubusercontent.com/43352940/122160522-15903a80-ce3e-11eb-86f0-daa53a3b4788.png \"\")\n\n內建快捷鍵可在遊戲中調整亮度高低及切換至特定亮度等級。\n![快捷鍵選擇器介面](https://user-images.githubusercontent.com/43352940/122161054-02ca3580-ce3f-11eb-81f3-1f623548b3fd.png \"Hopefully 'b' isn't taken!\")\n\n## 截圖\n洞穴亮度比較\n![洞穴中多種亮度等級的比較](https://i.imgur.com/0e3v7rz.png \"From -150% to 1200%!\")\n\n夜間亮度比較\n![水下多種亮度等級的比較](https://i.imgur.com/jj6rp7y.png \"From -150% to 1200%!\")\n\n## 安裝方式\n1. 安裝 [Fabric](https://fabricmc.net/use/)\n2. 將 [Fabric API](https://modrinth.com/mod/fabric-api) 的 jar 檔案放入 mods 資料夾\n3. 將 Boosted Brightness 和 [Mod Menu](https://modrinth.com/mod/modmenu) 的 jar 檔案放入 mods 資料夾\n\n## 相容性\n與 Optifine 和 Sodium 相容。若您發現任何相容性問題，歡迎隨時告知。\n\n## 授權條款\nMIT。您可以自由在任何整合包中使用此模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

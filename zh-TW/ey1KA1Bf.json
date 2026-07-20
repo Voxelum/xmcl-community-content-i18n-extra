@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9922821b23f95931",
+  "content": "\n\n## 最高防護 III\n將「防護」附魔的等級上限設定為 3 級。 \n\n這使得在生存模式中無法獲得防護 IV。\n\n![嘗試使用 /enchant 指令為頭盔附魔防護 IV](https://cdn.modrinth.com/data/cached_images/f545f58643de0f71b11d2898ff95822da03fbb1b.png)\n\n\n<details>\n<summary>注意事項</summary>\n\n_若您在裝備已擁有防護 IV 的狀態下套用此資料包，該裝備將保留其防護等級。_\n\n</details>\n<details>\n<summary>安裝方式</summary>\n  \n### 伺服器安裝（資料包）\n  \n1. 進入伺服器主目錄\n  \n2. 開啟 _world_ -> _datapacks_\n\n3. 將資料包上傳至 _datapacks_ 資料夾中\n\n### 世界安裝（資料包）\n\n1. 按下 Win + R 並輸入 %appdata%\n\n2. 開啟 _.minecraft_ -> _saves_ -> _<世界名稱>_ -> datapacks\n\n3. 將資料包上傳至 _datapacks_ 資料夾中\n\n（注意：若您使用的是 Modrinth App 或 Prism Launcher 等啟動器，請在啟動器中前往您的遊戲實例並點選 _Open Folder_（開啟資料夾）。）\n\n### 伺服器安裝（模組）\n\n1. 進入伺服器主目錄\n\n2. 開啟 _mods_\n\n3. 將模組上傳至 _mods_ 資料夾中\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e76251e153148626",
+  "content": "\n\n這是 Tamaized 的 Void Fog 針對 Fabric 與 Minecraft 1.14（以及更高版本）所做的更新、移植與重寫版本。\n\n如同原版一樣，此模組重新帶回了 Minecraft 1.8 之前版本的虛空霧，並加入了一些改進，讓整體體驗更加有趣。\n\n1.14 變更項目\n - 讓霧氣擴散與退去的動畫更平滑\n - 當站在光線充足的區域時（例如火把周圍），霧氣會被驅散\n - 新增隱藏的大隻佬模式（你是大隻佬嗎？）\n - 新增可設定粒子密度的選項",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e9c96b3046322257",
+  "content": "\n\n# Fox's Core\n\n\n<a href=\"https://modrinth.com/project/foxs-core\">\n<img alt=\"Modrinth\"\nsrc=\"https://img.shields.io/badge/Modrinth-NA?style=for-the-badge&logo=modrinth&logoColor=000000&color=00AF5C\">\n</a>\n\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/foxs-core\">\n<img alt=\"CurseForge\"\n  src=\"https://img.shields.io/badge/CurseForge-NA?style=for-the-badge&logo=curseforge&logoColor=000000&color=F16436\">\n</a>\n\nМод-библиотека, используемый некоторыми проектами Fox.\n\nСодержит код, часто применяемый в нескольких проектах, что ускоряет и упрощает разработку.\n\nНеобходимо скачивать вместе с каждым модом, требующим эту библиотеку.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

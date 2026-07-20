@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bb58f7e239cf60dd",
+  "content": "\n\n# Immersive Energistics\n\nAE2 的官方沉浸工程擴充模組。目前新增了支援 ME 的線路。\n\n### ME 連接器\nME 連接器可用於將線路連接至 AE2 裝置與電纜。僅接受單一 ME 線路連接（無論為密集或普通）。\n\n### ME 中繼器\nME 中繼器可接受多條 ME 線路連接，但無法連接至 AE2 裝置與電纜。\n\n### ME 線圈\n標準的 ME 線路。最多可傳輸 8 個通道（使用 AE2 預設通道模式時）。\n\n### 密集 ME 線圈\n密集的 ME 線路。最多可傳輸 32 個通道（使用 AE2 預設通道模式時）。\n\n### 遊戲截圖\n![setup1](https://raw.githubusercontent.com/AppliedEnergistics/Immersive-Energistics/main/images/setup1.png)\n![setup1 network](https://raw.githubusercontent.com/AppliedEnergistics/Immersive-Energistics/main/images/setup1_network.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

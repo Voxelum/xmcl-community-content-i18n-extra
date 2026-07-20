@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33db02ffe67f8d4d",
+  "content": "\n\nStorageEye 是一款輕量級的 Fabric 模組，旨在協助您輕鬆整理與導覽儲存系統。再也不用打開數十個箱子，只為了尋找那一組鑽石了！\n\n功能特色：\n懸浮標籤：手持木棍對任何容器按下 Shift + 右鍵，即可顯示該容器內最常見物品的小型永久懸浮圖示。\n\n全域視圖：使用 `/chests view` 指令，即可查看已標記容器內所有物品的排序清單。\n\n智慧搜尋：在介面中按住 Shift 點擊物品，或使用 `/chests search <名稱>` 指令，即可在存放該物品的箱子周圍觸發綠色粒子特效。\n\n高亮模式：使用 `/chests highlight` 指令，短暫顯示您周圍所有已標記的容器。\n\n系統需求：需安裝 Fabric API。在客戶端與伺服器上均可最佳化運作！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4914a3779542b2de",
+  "content": "\n\nЭто мод совместимости, связывающий два мода: [HoloMobInfo](https://modrinth.com/mod/holomobinfo) и [Curios(Forge\\NeoForge)](https://modrinth.com/mod/curios).\n\n**Для работы дополнения необходимо установить оба мода: HoloMobInfo и Curios.**\n\n\n## Особенности\n\n- Проверка доступа к панелям мобов HoloMobInfo на основе Curios.\n- Для просмотра панелей мобов требуется надеть подзорную трубу в слот `spyglass` в Curios.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

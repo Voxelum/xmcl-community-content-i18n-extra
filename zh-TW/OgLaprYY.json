@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7a6823ac5b3d0e8d",
+  "content": "\n\n![角落實體](https://cdn.modrinth.com/data/cached_images/5d0ffc14b0af2b6875ded89bdcdf2570370e46ed.png)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/bHYMa2QzT2s\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen></iframe>\n\n> 一款針對 Minecraft 的心理恐怖模組。\n\n## 關於\n\n「Corner Entity」會在正常遊玩期間，於玩家附近生成一個神秘的實體。\n\n它不會直接追逐或攻擊。相反地，它會靜靜地在遠處窺視，營造出緊張與不確定的氛圍。\n\n靠近它會讓它消失，但每次遭遇都可能引發不可預測的事件。\n\n## 功能特色\n\n* 遊戲過程中隨機出現\n* 心理恐怖氛圍\n* 不可預測的事件與結果\n* 突發驚嚇（Jumpscares）以及音視覺特效\n* 完全可自訂的機制\n* 支援多人遊戲\n* 支援 Fabric 與 Forge\n\n## 設定\n\n本模組預設即可正常運作，無需額外設定。\n\n### Fabric\n\n安裝 **Mod Menu** 即可進入遊戲內的設定介面。\n\n若未安裝 Mod Menu，模組仍會以預設設定正常運作。\n\n### Forge\n\nForge 版本目前使用設定檔，而非遊戲內設定介面。\n\n首次啟動遊戲後，將在此路徑產生設定檔：\n\n```text\n.minecraft/config/devcounterentity-forge.toml\n```\n\n您可以手動編輯此檔案來自訂模組行為。\n\n## 需求\n\n### Fabric\n\n* Fabric Loader\n* Fabric API\n\n### Forge\n\n* Forge\n\n## 選用項目（僅限 Fabric）\n\n* Mod Menu — 啟用遊戲內設定介面\n\n## 相容性\n\n* Minecraft 1.20.1 以上版本\n* 單人遊戲\n* 多人遊戲\n* 專用伺服器\n\n## 警告\n\n本模組包含恐怖元素、突發驚嚇以及突然的音視覺特效。\n\n遊玩風險自負。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

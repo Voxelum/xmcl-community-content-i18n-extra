@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a5c1136dd1e35570",
+  "content": "\n\n<div align=\"center\">\n\n# Отключение меток на контейнерах\n\n<a href=\"https://modrinth.com/modpack/elysium-days\" target=\"_blank\" rel=\"noopener noreferrer\">\n  <img src=\"https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png\" alt=\"Как в сборке Elysium Days\" width=\"200\">\n</a>\n\n<br>\n<br>\n\nЭтот мод убирает метки с большинства взаимодействующих блоков и сущностей, за исключением добавленных другими модами. Он также удаляет надпись «Торговля» из интерфейсов торговцев.\n\nНо вы можете спросить, зачем кому-то это нужно? Этот мод существует, потому что меня сильно раздражало, как другие языки, кроме английского (EN_US), отображали дублирующийся текст на контейнерах при использовании ресурспаков вроде [GUI Revision](https://modrinth.com/resourcepack/gui-revision), которые добавляют названия контейнеров прямо в их пиксельную графику.\n\n---\n\n### Слева — оригинальная игра, справа — с NCL\n<img src=\"https://cdn.modrinth.com/data/cached_images/90c4d6b46a6f5b0cc63243291ba2d3d3b650e83c.png\" width=\"360\">\n<img src=\"https://cdn.modrinth.com/data/cached_images/3ab58539964924506fca0ef37c64743b7cbe7037.png\" width=\"360\">\n\n---\n\n### Благодарности:\nЛоготип мода от [Vixel](https://modrinth.com/user/Vixel)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

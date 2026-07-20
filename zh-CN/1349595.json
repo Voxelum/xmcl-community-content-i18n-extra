@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0cb46d5552d7a4d",
+  "content": "\n\n<p>此模组允许你自定义并在角色头顶显示弹出表情动作</p>\n<h3>自定义表情动作</h3>\n<ul>\n<li>可在“我的表情”界面中输入图片 URL 进行添加，该界面可通过主菜单中的按钮访问</li>\n<li>支持的格式为 .<strong>png</strong>、.<strong>gif</strong> 和 .jpeg。</li>\n<li>推荐使用 <a href=\"/linkout?remoteUrl=https%253a%252f%252fuploadimgur.com%252f\" target=\"_blank\" rel=\"nofollow\">uploadimgur.com</a> 上传图片</li>\n<li>每个表情动作都有多种可选音效</li>\n</ul>\n<h3>使用方法</h3>\n<ul>\n<li>按住 <strong>V</strong> 键打开表情菜单</li>\n<li>将光标移至目标表情动作后松开按键</li>\n<li>点击屏幕右侧或左侧可切换页面</li>\n</ul>\n<h3>模组 &gt; 弹出表情动作 &gt; 配置</h3>\n<ul>\n<li>设置表情动作的缩放比例和亮度</li>\n<li>设置<strong>个人</strong>表情高度。在使用自定义玩家模型模组（如 Yes Steve Model）时会有帮助</li>\n<li>访问<strong>玩家黑名单</strong></li>\n<li>如果你使用材质包替换默认表情动作，且该材质包包含的表情数量少于默认数量，你可以在客户端配置文件中通过设置 `resourcePackEmoteAmount` 来隐藏剩余未替换的内容</li>\n</ul>\n<h3>服务器</h3>\n<ul>\n<li>可通过 `/popupemotes serverblacklist add/remove/clear/show` 命令管理服务端黑名单。需要权限等级 3（可配置）或 `pop_up_emotes.moderator` 权限。</li>\n</ul>\n<p>也可以查看 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fpop-up-emotes-online-addon\" target=\"_blank\" rel=\"nofollow\">Pop-up Emotes Online Addon</a></p>\n<p><img src=\"https://i.imgur.com/oEoZWAa.gif\" alt=\"asda\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

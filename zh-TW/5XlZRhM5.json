@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e5ca26b2b8a2586",
+  "content": "\n\n# 作物防踐踏 🌾\n\n**阻止玩家與生物摧毀您珍貴的作物！**\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ypxASh8R1tI\" frameborder=\"0\" allowfullscreen></iframe>\n\nNo Crop Trample 是一款輕量級的實用模組，可防止玩家或生物跳上耕地時，將耕地踐踏並轉化為泥土。\n\n---\n\n## ✨ 功能特色\n\n### 🛡️ 防踐踏保護\n防止實體落在耕地方塊上時遭到破壞。您的作物安全無虞！\n\n### ⚙️ 細部控制\n獨立設定玩家與生物的踐踏行為：\n- 希望允許玩家踐踏但不允許生物？沒問題。\n- 希望允許生物踐踏但不允許玩家？也沒問題。\n- 想要全面保護？預設行為即可達成！\n\n### 🪶 輕量高效\n採用高效的 Mixin 技術，幾乎零性能影響。無需 Tick 處理器，也不會掃描實體。\n\n### 🖥️ 伺服器端相容\n可在伺服器端運作，無需安裝於客戶端。（建議於客戶端安裝以使用 ModMenu 設定介面）\n\n---\n\n## 📋 指令\n\n所有指令均需具備管理員（OP）權限。\n\n| 指令 | 說明 |\n|---------|-------------|\n| `/nocroptrample` | 顯示目前狀態。 |\n| `/nocroptrample player <on\\|off>` | 切換玩家踐踏防護。 |\n| `/nocroptrample mob <on\\|off>` | 切換生物踐踏防護。 |\n| `/nocroptrample reload` | 重新載入設定檔。 |\n\n---\n\n## 📁 設定檔\n\n設定檔路徑：`config/nocroptrample.json`\n\n```json\n{\n  \"preventEmptyTrampling\": true,\n  \"preventPlayerTrampling\": true,\n  \"preventMobTrampling\": true\n}\n```\n\n---\n\n## 📦 需求\n\n- Minecraft 1.21 以上版本\n- Fabric Loader 0.16 以上版本\n- Fabric API\n\n---\n\n## 🔗 連結\n\n- [GitHub](https://github.com/Murqin/NoCropTrample)\n- [Issues](https://github.com/Murqin/NoCropTrample/issues)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

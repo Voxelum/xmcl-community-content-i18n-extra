@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13fb887788019c32",
+  "content": "\n\n<h1 style=\"text-align:center\"><strong>拒絕無腦射擊</strong></h1>\n<p style=\"text-align:center\"><span style=\"color:#e03e2d\"><strong>注意：此模組需要&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero\" target=\"_blank\" rel=\"nofollow\">TACZ</a></strong></span></p>\n<p style=\"text-align:center\">每一槍都至關重要。</p>\n<p>為了增加 TacZ 的難度（並提升消音器的實用性），遠處的殭屍（甚至可能是一大群）現在能聽到你的槍聲，並且絕對會被吸引過來，每一發子彈現在都會產生影響，隱匿似乎也不再是個壞選擇。</p>\n<p>&nbsp;</p>\n<p>你可以在&nbsp;設定檔中加入屍潮，並將 useHorde 設為 true，以獲得更具挑戰性的體驗。</p>\n<p>&nbsp;</p>\n<p>你可以自訂以下選項：</p>\n<ul>\n<li>警告訊息（當觸發屍潮門檻的一半時觸發）</li>\n<li>危機訊息（當達到門檻&nbsp;並觸發屍潮時顯示）</li>\n<li>切換是否忽略&nbsp;消音武器的射擊</li>\n<li>計算射擊次數的半徑範圍（若玩家超出此範圍，射擊計數將被重置）</li>\n<li>觸發屍潮所需&nbsp;的射擊門檻</li>\n<li>屍潮持續時間（單位：tick）</li>\n<li>持續計算射擊次數的時間窗口（單位：秒。若超過該時間窗口，射擊計數將被重置）</li>\n</ul>\n<p>以及大量其他設定選項，請查看模組設定檔以了解詳情。</p>\n<p>&nbsp;</p>\n<p>問題可於 GitHub 儲存庫中回報。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

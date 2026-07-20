@@ -1,0 +1,6 @@
+{
+  "bodyHash": "22fa44b9c4c33f8b",
+  "content": "\n\n# 關於\n\n**敵對神經網路** 是一款基於 **深層生物學習** 的模組，適用於 1.16.5 及更高版本。它允許你訓練數據模型並執行模擬，生成生物預測，這些預測可用來產出生物掉落物。\n\n本模組的核心單位是 **數據模型**——一種儲存實體資訊的物品，可用於生成該實體的掉落物。要獲得數據模型，你必須先製作一個數據模型框架，並在目標實體上使用它以建立模型。取得模型後，你必須對其進行訓練。\n\n訓練數據模型有兩種途徑：使用 **深度學習器** 或 **模擬室**。深度學習器允許你在其中儲存多個數據模型，而你獲得的擊殺數將開始訓練模型。所有模型初始皆為 **故障** 狀態，必須在深度學習器中訓練至 **基礎** 等級。\n\n![](https://i.imgur.com/SAWYCOS.png)\n\n當你的模型達到 **基礎** 或更高等級時，你可以使用模擬室來運行模型的模擬。模擬必定會產出通用預測，並可能根據模型的準確率額外產出 **生物預測**。模型等級越高，準確率越高，最高可達 **自我意識** 等級的 99.5%。執行模擬需消耗能量（依模型類型而定）以及催化劑物品，通常為 **預測矩陣**。\n\n![](https://i.imgur.com/ZRGY2VL.png)\n\n**生物預測** 需要透過 **戰利品製造機** 進行處理，這是一種利用電力將預測轉換為生物掉落物的裝置。可用的掉落物基於預先定義的物品清單，且可為每種模型類型選擇目標。戰利品製造機會記住你對各類型所做的選擇，因此你可以將多種預測輸入同一台製造機中。\n\n![](https://i.imgur.com/qbOM4rh.png)\n\n# 自訂數據模型與模組支援\n\n可透過資料包新增自訂 **數據模型**。每個數據模型都以 **data_models** 資料夾下的單一檔案表示。範例可見原版模組中的 [女巫數據模型](https://github.com/Shadows-of-Fire/Hostile-Neural-Networks/blob/main/src/main/resources/data/hostilenetworks/data_models/witch.json) 檔案。\n\n未來若推出特定模組的相容資料包，可能會在此一併列出。\n\n# 支援作者\n\n[![](https://i.imgur.com/4D6zgZt.png)](https://discord.com/servers/shadows-mods-613010559532531713)\n[![](https://i.imgur.com/2kmJdLg.png)](https://www.akliz.net/shadows)\n\n## 聯絡資訊\n\nDiscord: <https://discord.shadowsoffire.dev/landing>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

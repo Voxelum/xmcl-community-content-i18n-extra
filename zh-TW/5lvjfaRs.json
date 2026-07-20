@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e1f60f66a856f974",
+  "content": "\n\nClean F3 是一款輕量級、開源的模組，透過移除畫面中部分無用的資訊來改善除錯畫面（F3）的外觀。\n\n調整前：\n![調整前](https://i.imgur.com/z3lEZOx.png)\n\n調整後：\n![調整後](https://i.imgur.com/Ta3KwS8.png)\n\n所有設定均可透過 [MidnightLib](https://modrinth.com/mod/midnightlib) 在設定畫面中進行調整。\n\n版本 0.4.4 的設定選項：\n![設定](https://imgur.com/cGGvRNJ.png)\n\n此模組不僅能讓你移除原版中的除錯元素，也能隱藏部分熱門模組的相關內容，包含（但不限於）：  \n- Distant Horizons  \n- EntityCulling  \n- Iris  \n- JourneyMap  \n- LambDynamicLights  \n- Litematica  \n- ModernFix  \n- Presence Footsteps  \n- Sodium  \n- ViaFabric  \n\n# 常見問題\n\nQ: 你會將此模組更新到 1.21.8 之後的版本嗎？  \nA: 不會。原版已內建自訂 F3 畫面顯示內容的功能，因此在較新的版本中已不再需要此模組。  \n\nQ: 為什麼也要隱藏其他模組的 F3 元素？開發者不是故意不加入這些資訊嗎？  \nA: 雖然部分模組加入的除錯元素對除錯有幫助，但對大多數玩家而言並無實際用途，反而會干擾視線。不過，如果你需要為受影響的模組回報問題，請務必在他們要求提供截圖時，重新開啟對應的除錯資訊！  \n\nQ: 可以為 [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) 新增切換開關嗎？  \nA: ImmediatelyFast 本身已內建設定選項，可直接關閉其除錯資訊。  \n\nQ: 可以為其他模組 xyz 新增切換開關嗎？  \nA: 請在 GitHub 上提交 Issue 並附上該模組的名稱，以便我進行評估與處理。  \n\nQ: 會有 NeoForge/Forge 版本嗎？  \nA: Clean F3 目前僅針對 Fabric 平台進行開發。若你希望在 NeoForge 上使用，可搭配 [Sinytra Connector](https://modrinth.com/mod/connector) 來運作。不過很遺憾的是，這無法適用於 Forge 1.20.1。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

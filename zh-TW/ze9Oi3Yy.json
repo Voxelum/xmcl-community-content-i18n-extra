@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e370020f6b8314bf",
+  "content": "\n\nAutoFisher 是一款 Minecraft（Fabric）模組，能自動化你的釣魚流程。\n\n**主要目標是減輕你因反覆點擊而產生的疲勞。**\n\n## 🔧 主要功能\n\n- **自動重新拋竿** - 偵測到魚咬鉤時，會自動將釣竿重新拋出\n- **完整指令控制** - 透過聊天指令管理所有設定（輸入 `/autofisher help` 查看完整列表）\n- **輕量高效** - 對遊戲效能的影響降至最低\n- **輕鬆切換** - 隨時快速啟用或停用自動化功能\n- **Mini-HUD 顯示** - 在畫面上顯示本次釣魚時長與統計資料\n- **介面獨立運作** - 即使開啟背包、Esc 選單或箱子，仍會持續釣魚\n\n## 📋 使用方法\n\n1. 安裝 Fabric Loader 和 Fabric API\n2. 將模組檔案放入 mods 資料夾中\n3. 啟動 Minecraft 1.21.4\n4. 使用 `/autofisher` 指令來控制模組\n5. 拋出釣竿，剩下的就交給模組處理吧！\n\n## ⚙️ 系統需求\n\n- Minecraft 1.21.4\n- Fabric Loader\n- Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

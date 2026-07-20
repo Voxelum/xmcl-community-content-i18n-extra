@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6291cf3cdbd32ac1",
+  "content": "\n\n# Métropolis。\n_1863年伦敦蒸汽牵引的大都会铁路的开通，标志着快速交通时代的开端。_\n\n## 概述\n**Métropolis** 是一款为 [Minecraft Trainsit Railway](https://modrinth.com/mod/minecraft-transit-railway) 添加现代铁路杂项内容的模组插件。\n\n本模组包含来自世界各地的**城市轨道交通**元素。\n\n未来不仅会有车站装饰方块，还将加入列车和站台模型。\n\n我们还基于 MTR 模组开发了**票务系统**，现在即可购买**单次车票**和**IC卡**！\n\n未来 Métropolis 将不再依赖 MTR 作为前置模组。仅当加载 MTR 时，才会显示依赖 MTR 的功能（例如票务系统）。\n\n## 功能特性\n- 车票、IC卡\n- 检票闸机\n- 售票机\n- 站台\n- 可旋转缓冲器\n- 可旋转（装饰性）显示屏\n- 监控摄像头\n- 站台方块\n- 以及更多内容！\n\n## 支持的语言\n本模组已包含（或即将包含）以下语言。\n- 英语（美国） /en_us：100%\n- 简体中文 /zh_cn：100%\n- 繁体中文（台湾） /zh_tw：90%\n- 繁体中文（香港） /zh_hk：90%\n- 日语 /jp_jp：95%\n\n**如果您愿意在 GitHub 上提交拉取请求（Pull Request）帮助我们翻译本模组，我们将不胜感激。**\n\n## 支持版本\n**本模组支持 Fabric 1.19.2/1.18.2/1.20.1 以及 Minecraft Transit Railway 3.2.2。**\n**此外还有适用于 Minecraft 1.20.1 的 MTR 4.0.3 移植版。**\n\n本模组目前仅支持 MTR 3.2.2。不过，适配 MTR 4 的 Métropolis 正在开发中，届时将兼容 Minecraft 1.20.1。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4017e5b1605d3f8d",
+  "content": "\n\n# 🔒 面部识别门\n\n**使用最新生物识别技术保护你的基地安全！**\n\n“面部识别门”模组添加了一扇高科技铁门，仅对主人开启。无需钥匙，无需红石，只需你本人。\n\n## ✨ 功能特性\n\n* **生物识别安全：** 门会扫描注视它的玩家。如果是你，门将自动打开。\n* **光线投射检测：** 采用先进的光线投射技术，确保你正直接注视着扫描器。\n* **可配置：** 通过 Mod Menu 自定义检测范围、关闭延迟和 HUD 提示信息。\n* **智能机制：** 只要注视该门，它就会保持开启状态；当你走开后会自动关闭。\n* **多语言支持：** 支持 30 多种语言，包括英语、土耳其语、德语、法语、俄语和中文。\n\n## 🛠️ 依赖项\n\n此模组需要以下前置模组才能运行：\n\n**Fabric 版本：**\n* [Fabric API](https://modrinth.com/mod/fabric-api)\n* [Cloth Config API](https://modrinth.com/mod/cloth-config)（设置功能必需）\n* [Mod Menu](https://modrinth.com/mod/modmenu)（可选，用于在游戏内编辑设置）\n\n**NeoForge 版本：**\n* [Cloth Config API](https://modrinth.com/mod/cloth-config)\n\n## 📸 截图\n\n![FaceID 门](https://cdn.modrinth.com/data/cached_images/1697045398764851cbf176b8b9be73d2624e60d2_0.webp)\n\n## ⚙️ 配置说明\n\n你可以在配置界面调整以下设置：\n* **检测范围：** 门能检测到你的最大距离（默认：5 格）。\n* **关闭延迟：** 门保持开启的时间（默认：1 秒）。\n* **显示消息：** 切换是否显示“面部识别已确认”的屏幕下方提示栏消息。\n\n---\n*由 Calfmolten 制作*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

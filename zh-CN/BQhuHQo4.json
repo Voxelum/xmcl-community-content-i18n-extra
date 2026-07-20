@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc25c6a85439f046",
+  "content": "\n\n# 特性\n\nSilent Lib 主要是一个“库”模组，包含供其他模组调用的共享代码。但它确实添加了一个玩家可使用的值得注意的指令。\n\n## 指令\n\n### NBT 查看器 (`/sl_nbt`)\n\n“sl_nbt” 指令可用于以清晰易读的格式查看方块、实体或物品的 NBT 数据。与原版 “data get” 指令不同，它会打开一个新的用户界面，并对文本进行格式化排版。输出内容还会进行颜色编码，且 32 位整数会同时以十进制和十六进制显示。在该界面中，你还可以将 NBT 数据导出为 JSON 文件（在提交 Bug 报告时或许能派上用场）。\n\n![NBT 查看器](https://imgur.com/GHVop7W.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

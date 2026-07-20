@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3f5a71fc508461f",
+  "content": "\n\n<h1>Configuration\n<img src=\"https://img.shields.io/github/issues/Toma1O6/Configuration?style=for-the-badge&color=red\" alt=\"GitHub 問題或拉取請求\"> <img src=\"https://img.shields.io/curseforge/dt/444699?style=for-the-badge&color=blue\" alt=\"CurseForge 下載數\"> <img src=\"https://img.shields.io/discord/799354846125096960?style=for-the-badge&link=https://discord.gg/WEFYxwS8E3&label=Discord\" alt=\"Discord\"></h1>\n<p>一款輕量級的設定庫，旨在簡化不同模組載入器之間的設定檔建立流程，同時兼顧使用者體驗。每個設定檔皆內建動態生成的使用者介面（UI）以供編輯。針對開發者，提供了多種屬性以處理常見情境，例如向使用者同步設定，或要求在套用修改後的設定前重新啟動遊戲。</p>\n<h2>Wiki</h2>\n<p>\n<a href=\"https://github.com/Toma1O6/Configuration/wiki/User-guide\" rel=\"nofollow\">使用者指南</a><br>\n<a href=\"https://github.com/Toma1O6/Configuration/wiki/Developer-guide\" rel=\"nofollow\">開發者指南</a>\n</p>\n<h2>Discord</h2>\n<p>\n需要協助嗎？您可以加入我們的 <a href=\"https://discord.gg/WEFYxwS8E3\" rel=\"nofollow\">Discord 伺服器</a> 並在裡面提問。\n</p>\n<h2>錯誤回報 / 功能建議</h2>\n<p>\n如果您發現此模組有任何問題，或有新功能構想，請在 GitHub 上建立 Issue。您可以追蹤本頁的 <strong>Issues</strong> 標籤頁。\n</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

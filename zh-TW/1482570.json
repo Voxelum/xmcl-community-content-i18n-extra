@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8c5823d17cb019d9",
+  "content": "\n\n<p><strong>Cobblemon Effectiveness</strong>&nbsp;會在 Cobblemon 戰鬥期間，將你每個招式的傷害倍率直接疊加在招式選擇方塊上，讓你再也不用猜測某個招式是否效果拔群。</p>\n<p>每個招式方塊會顯示以下數值之一：&nbsp;<strong>0&times;</strong>,&nbsp;<strong>&frac12;&times;</strong>,&nbsp;<strong>1&times;</strong>,&nbsp;<strong>2&times;</strong>, 或&nbsp;<strong>4&times;</strong>&nbsp;，根據該招式的屬性與對手目前所屬屬性來判定。雙屬性對手也會正確計算（例如：火系對水/飛行系 = 0.5 &times; 0.5 = 0.25&times;，顯示為 &frac14;&times;）。<br><br><br></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

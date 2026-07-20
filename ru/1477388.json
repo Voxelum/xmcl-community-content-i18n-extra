@@ -1,0 +1,6 @@
+{
+  "bodyHash": "da6b2ef37af49746",
+  "content": "\n\n<p>CommandNPC (Fabric 1.21.1)</p>\n<p>Лёгкий мод для Fabric, который позволяет создавать NPC с моделью игрока, выполняющие команды при клике правой кнопкой мыши. Для корректной отрисовки скинов NPC мод необходим как на клиентской, так и на серверной стороне.</p>\n<p>&nbsp;</p>\n<p>Возможности</p>\n<p>Полные модели игроков (реальные скины)</p>\n<p>Выполнение любой команды по клику</p>\n<p>Персональная система кулдауна</p>\n<p>Поддержка LuckPerms</p>\n<p>Метки имён с настраиваемым цветом и форматированием</p>\n<p>Скин фиксируется в момент назначения (не меняется при смене скина игроком)</p>\n<p>Команды /cnpc create /cnpc setcmd /cnpc setcooldown /cnpc skin /cnpc skinhash /cnpc setlabel /cnpc remove</p>\n<p>Поддержка плейсхолдера {player} в командах.</p>\n<p>Требования</p>\n<p>Minecraft 1.21.1</p>\n<p>Fabric Loader</p>\n<p>Fabric AP</p>\n<p>Совместим с LuckPerms и Fabric API Permissions</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

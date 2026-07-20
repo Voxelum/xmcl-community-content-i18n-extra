@@ -1,0 +1,6 @@
+{
+  "bodyHash": "64f0ba348af3c421",
+  "content": "\n\n本模组允许你查看储物抽屉中存放的物品，效果类似于潜影盒的悬停提示。\n\n此外，它还向整合包开发者提供了一种全新的合成原料类型。仅当抽屉内存在指定物品且数量超过设定值时，该原料才会匹配成功：\n\n```json\n{\n  \"type\": \"draweringredient:standard\",\n  \"content\": { \"tag\": \"minecraft:coals\" },\n  \"amount\": 127\n}\n```\n\n[![想要支持我及模组开发？BisectHosting 是理想之选。新客户使用优惠码“snownee”即可在游戏服务器首月费用上享受 25% 的折扣。凭借全天候技术支持与快速响应，您将享受满足一切游戏需求的顶级服务。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

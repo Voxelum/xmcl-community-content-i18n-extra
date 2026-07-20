@@ -1,0 +1,6 @@
+{
+  "bodyHash": "86f6645adce6fe97",
+  "content": "\n\n# UltiCraft Models\nUltiCraft Models 是一款资源包，旨在通过以下方式微妙地改进模型：\n1. 为许多装饰性方块（例如工作台）添加 3D 模型\n2. 为矿石添加 3D 模型，保留矿粒的正常形状，仅使其略微呈现 3D 效果\n3. 在草方块、菌灰土等表面随机散落碎石或木棍\n4. 对于抛光类半砖，若纹理包含该类型方块的边框，则在双层半砖之间添加水平分隔线\n5. 优化楼梯和墙壁：巧妙利用原版纹理生成与方块形状匹配的楼梯侧面和墙壁顶部\n\n已特别注意避免将容易导致卡顿的方块（例如竹子）改为 3D 模型，并确保本资源包**与 VanillaTweaks 以及大多数面向红石玩家的资源包兼容**。\n\n建议将此资源包叠加在 Vanilla Tweaks 之上使用（例如，本资源包提供了更好的书架、尖顶滴石等），但如果您愿意，也可以将其置于 Vanilla Tweaks 之下使用。需要注意的是，VT 的多样草地和贴边草地会与草地上的碎石/鹅卵石产生冲突。\n\n## 您可能也会喜欢\n\n* **[stripped-fences](https://modrinth.com/resourcepack/stripped-fences) Stripped Fences 将去皮原木模型应用于栅栏和栅栏门。外观更加简洁！**\n\n# 鸣谢\n本资源包中的几乎所有素材均提取自 GrandMagus 制作的 UltimaCraft Models 资源包。他的资源包曾拥有史上最佳的 3D 模型，但自 1.17 版本后便未再更新，且与 Vanilla Tweaks 及红石向资源包存在大量不兼容问题。本包将这些出色的素材进行整理优化，以适配 1.19+ 版本。出于兼容性考虑，并非所有 UltimaCraft 的素材和功能都被保留，这也是本包命名为“UltiCraft”的原因。\n\n好消息！**完整的 UltimaCraft 资源包已更新**：https://modrinth.com/resourcepack/ultimacraft-main。如果您喜欢本包中的 3D 素材，我鼓励您尝试完整的 UltimaCraft 体验！这是一款令人印象深刻的资源包，其视觉改动经过精心考量且覆盖面广泛。\n\n就我个人而言，完整的 UltimaCraft 改动略显过多，且由于覆盖范围太广，与其他资源包混用时容易产生兼容性问题。因此，**我将继续更新 UltiCraft 3D，这款精简高效的配套资源包。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

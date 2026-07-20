@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c3d5e31fa3c9bd26",
+  "content": "# Предметы в 2D\n\n- идея взята из мода [GUI 2D Blocks in inventory](https://modrinth.com/resourcepack/gui-2d)\n- переписан для версии 1.21.11\n- изменяются только json-файлы, поэтому мод совместим с большинством ресурспаков\n\n# Мини-версии\n\n- мини-версии (с пометкой v*m) также уменьшают размер моделей предметов\n- идея взята из мода [Mini Items](https://modrinth.com/resourcepack/mini-items-pack)\n- моды 2d items и mini items конфликтуют друг с другом, поэтому я создал этот\n\n# Зачем использовать этот мод\n\n- инвентарь и сундуки выглядят гораздо чище\n- светло-серый или серый бетон становится невидимым\n\nизображение:\n![изображение](https://cdn.modrinth.com/data/intdk6EQ/images/b1797c8115c2b10aac556dce9a81f9fb999b608d.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

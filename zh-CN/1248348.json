@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ba4b4c0515308c93",
+  "content": "\n\n<p>本模组提供Tetra工具与其他模组之间的兼容性。如果您有任何兼容性需求，欢迎随时在GitHub上提交Issue。作为一名模组开发新手，这是我的首个项目，若某些功能暂无法实现，恳请您的理解。</p>\n<p>目前已支持的模组包括：<br>FTB Ultimine（使Tetra工具能够执行耕地、铺路和剥树皮操作）<br>Alex's Caves（添加两种效果，使带有这些效果的模块化物品可由方铅矿护手操控）<br>Ex Deorum（使Tetra的锤子能够执行锤子配方）<br>Tetracelium（使Tetracelium的刀具能够处理来自非“丰收季节”模组的砧板配方）<br>DelightFul（当安装Tetracelium时，为DelightFul刀具提供兼容性）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

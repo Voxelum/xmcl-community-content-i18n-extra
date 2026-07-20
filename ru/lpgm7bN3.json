@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7ae792df831bf18d",
+  "content": "\n\n<p>Простой мод, увеличивающий сложность игры.</p>\n<p>Основные возможности ArmorWeight:</p>\n<ul>\n  <li>Броня теперь имеет вес. В зависимости от общего веса игрока применяется новый эффект «Обременение», аналогичный эффекту замедления. На мобов также может влиять вес (настройка доступна в конфиге).\n    <p align=\"center\"><img src=\"https://i.imgur.com/pA8t389.png\" alt=\"debuff\"></p></li>\n  <li>Полоска интерфейса (HUD), отображающая текущий уровень веса, а также новые всплывающие подсказки для предметов брони.\n    <p align=\"center\"><img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzk4OGl4aGg4MG93ZWhhZml6ZGs1OTZzb3I5NzR2MjAyNnZkb21rZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GB7dgBMoEnqATBdCUP/giphy.gif\" alt=\"hud element\"><img src=\"https://i.imgur.com/aCnbHEA.png\" alt=\"tooltip\" height=120></p></li>\n  <li>Вес предмета брони можно снизить с помощью нового зачарования «Лёгкость», уменьшающего вес на 15% за каждый уровень.</li>\n</ul>\n<p>ArmorWeight совместим с другими модами, добавляющими предметы брони. Чтобы применить вес к таким предметам, достаточно добавить запись о них в файл конфигурации.</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

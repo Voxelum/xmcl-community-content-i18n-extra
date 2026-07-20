@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9fd5b990bcbeb0df",
+  "content": "\n\n僅限客戶端的模組，支援 Fabric、Forge、NeoForge 與 Quilt 模組載入器，可移除所有霧氣效果。  \n&nbsp;  \n&nbsp;  \n若未安裝 [ClothConfig](https://modrinth.com/mod/cloth-config)，則無任何設定檔選項。所有霧氣將始終保持關閉狀態。  \n&nbsp;  \nFabric/Quilt 設定檔（1.16.5+）：  \n若已安裝 [ClothConfig](https://modrinth.com/mod/cloth-config)、[ModMenu](https://modrinth.com/mod/modmenu) 以及 [FabricAPI](https://modrinth.com/mod/fabric-api)/[QSL](https://modrinth.com/mod/qsl)，即可於遊戲內變更設定檔。\n\nNeoForge（1.20.2+）與 Forge（1.16.5 - 1.20.1）設定檔：  \n若已安裝 [ClothConfig](https://modrinth.com/mod/cloth-config)，即可於主選單中變更設定檔。  \n&nbsp;  \n設定檔可針對不同情境切換各類霧氣效果，其優先順序依序為：生物群落、維度與全域。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

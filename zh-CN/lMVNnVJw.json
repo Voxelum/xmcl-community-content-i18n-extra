@@ -1,0 +1,6 @@
+{
+  "bodyHash": "56805596fda4d107",
+  "content": "\n\n# Better Combat Punchy 修复\n\nNeoForge 平台下，配合着色器同时使用 **Better Combat** 和 **Punchy** 的客户端兼容性修复。\n\n安装 Punchy 后，部分着色器管线会在 Better Combat 攻击期间导致第一人称物品渲染两次。本模组仅在 Better Combat 的真实攻击动画层激活时抑制原版/Punchy 的第一人称渲染，并在攻击结束后重置 Punchy 的临时姿态状态。\n\n## 功能说明\n\n- 修复 Better Combat 攻击期间第一人称武器重复渲染的问题。\n- 保持 Better Combat 攻击动画正常显示。\n- 在非 Better Combat 攻击期间保持 Punchy 功能生效。\n- 不修改伤害、冷却时间、碰撞箱、攻击速度、网络同步或服务器行为。\n\n## 依赖要求\n\n- Minecraft 1.21.1\n- NeoForge\n- Better Combat\n- Punchy\n\n本模组仅作用于客户端，可搭配原版或模组服务器使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

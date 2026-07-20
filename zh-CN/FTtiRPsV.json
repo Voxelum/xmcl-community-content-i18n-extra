@@ -1,6 +1,6 @@
 {
-  "bodyHash": "wKSqtDjKu+U=",
-  "content": "![IronsArms](https://cdn.modrinth.com/data/cached_images/a8712fc0c6656a8b854eb42cf4183e918c53ead7.png)\n\n## **IronsArms 是 TaCZ 与 Iron's Spells 'n Spellbooks 的整合扩展模组。**\n\n**本模组需要** **[CastLib](https://modrinth.com/mod/castlib), [ArmsLib](https://modrinth.com/mod/armslib)**\n\n \n\n### **亮点功能**\n\n*   现在你可以使用 TaCZ 枪械发射法术。由于法术从枪械中射出，它们的飞行速度更快！\n*   为了持续施放超出当前法力值的法术，你可以提前将法力储存到弹药箱中！\n*   使用奥术铁砧，你可以为弹药箱附魔法术，并通过 TaCZ 枪械发射。无需为每种法术单独配备枪械。\n\n### **使用方法**\n\n1.  使用奥术铁砧为弹药箱附魔 Iron's Spells 'n Spellbooks 中的法术。\n2.  将弹药装入弹药箱。\n3.  将弹药箱放入饰品栏位以充能法力。\n4.  在设置中分配按键以启用 IronsMode。\n5.  从屏幕左下角的法术选择器中选择法术，然后为武器装弹并开火。\n\n \n\n### **注意事项**\n\n*   请确保在按键配置设置中启用 IronsMode。",
+  "bodyHash": "fb0898d5559de79f",
+  "content": "\n\n![IronsArms](https://cdn.modrinth.com/data/cached_images/a8712fc0c6656a8b854eb42cf4183e918c53ead7.png)\n\n## **IronsArms 是一款针对 TaCZ 和 Iron's Spells 'n Spellbooks 的集成附加模组。**\n\n**本模组需要** **[CastLib](https://modrinth.com/mod/castlib) 与 [ArmsLib](https://modrinth.com/mod/armslib)**\n\n \n\n### **主要特性**\n\n* 现在可以使用 TaCZ 枪械施放法术。由于法术由火器发射，射速更快！\n* 为了突破当前法力上限持续施法，你可以提前将法力储存至弹药盒中！\n* 使用奥术铁砧可将法术附魔至弹药盒，并通过 TaCZ 枪械发射。无需为每种法术配备专用枪械。\n\n### **使用方法**\n\n1. 使用奥术铁砧将来自 Iron's Spells 'n Spellbooks 的法术附魔到弹药盒上。\n2. 向弹药盒中装入弹药。\n3. 将弹药盒放置于 Curios 槽位中即可进行法力充能。\n4. 在设置中绑定按键以启用 IronsMode。\n5. 在左下角的法术选择器中选取法术，随后为武器装填并开火。\n\n \n\n### **注意事项**\n\n* 请确保在按键配置设置中已启用 IronsMode。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

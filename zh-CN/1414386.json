@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a4fc52695415dcbc",
+  "content": "\n\n<p>将《泰拉瑞亚》中的<strong>天顶剑</strong>带入《我的世界》。<br>\n它可以使用<strong>木剑</strong>、<strong>石剑</strong>、<strong>铁剑</strong>、<strong>金剑</strong>、<strong>钻石剑</strong>、<strong>下界合金剑</strong>、<strong>海洋之心</strong>、<strong>下界之星</strong>以及一瓶<strong>龙息</strong>合成。<br>\n天顶剑的外观可以通过<strong>zenith:zenith_parts</strong>数据组件（1.21.1）或物品的NBT数据（1.20.1）进行自定义。<br>\n示例：<br>\n1.21.1：<br></p>\n<pre><code>/give @p zenith:zenith[zenith:zenith_parts=[{\"item\":\"minecraft:wooden_sword\", \"color\":5849881, \"rotation_center_height\":0.125, \"rotation\":0.785, \"scale\":1.75, \"trail_width\":1}, {\"item\":\"minecraft:diamond_sword\", \"color\":5565173, \"rotation_center_height\":0.125, \"rotation\":0.785, \"scale\":1.75, \"trail_width\":1}]]</code></pre>\n<p><br></p>\n<p>1.20.1：<br></p>\n<pre><code>/give @p zenith:zenith{\"zenith_parts\":[{\"item\":\"minecraft:wooden_sword\", \"color\":5849881, \"rotation_center_height\":0.125, \"rotation\":0.785, \"scale\":1.75, \"trail_width\":1}, {\"item\":\"minecraft:diamond_sword\", \"color\":5565173, \"rotation_center_height\":0.125, \"rotation\":0.785, \"scale\":1.75, \"trail_width\":1}]}</code></pre>\n<p><br></p>\n<p><img src=\"https://cdn.modrinth.com/data/Ih5wvqRL/images/ef39f083e6710796b447cef3daa02ee27da49d7f.png\" alt=\"天顶剑\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

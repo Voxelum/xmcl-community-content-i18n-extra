@@ -1,6 +1,6 @@
 {
-  "bodyHash": "vbY5Sl9lDN0=",
-  "content": "這是個擴展 Farmer's Delight 燒烤內容的模組，新增了多種 **串烤**、**調味料**以及製作它們的方塊！\n\n燒烤時間到啦！\n\n \n\n這是 [Barbeque's Delight [Fabric]](https://modrinth.com/mod/barbeques-delight) 的 Forge 移植版本\n\n \n\n必要前置：Farmer's Delight\n\n![1](https://cdn.modrinth.com/data/cached_images/d1dd64bb8486e8b3d90068448bf6d3fe0e3d92a8.png)\n\n## 入門指南\n你可以透過 **JEI** 查看本模組的所有合成配方。\n\n- 配料盆：右鍵將 **配料** 放入盆中。副手手持側配料，主手手持 **木棒**，右鍵盆中的配料即可製作串烤。若串烤不需要側配料，則副手空手即可。\n- 烤架：手持串烤右鍵烤架放置，等待煙霧變濃稠時，**潛行** 並右鍵 **翻面**，等待串烤烤熟後，再次右鍵即可取出串烤！（提示：若未 **翻面** 或烤熟後未取出，會獲得 **焦黑串烤**！）\n- 調味：將烤好的串烤放在 **砧板** 上，然後右手持調味料右鍵 **砧板**，即可在串烤上撒上調味料。\n- 交易：與 **屠夫** 村民交易可獲得調味料。\n## 調味料效果\n- 孜然：食用時恢復生命值\n- 胡椒：食用速度加倍\n- 辣椒：食用時對玩家造成傷害，但即便飽食度全滿仍可食用。\n\n![2](https://cdn.modrinth.com/data/cached_images/e0f3d5c4355a453c6e2d3b81821533091d8265d0.png)",
+  "bodyHash": "28d557e6e50f624c",
+  "content": "\n\n這是一個擴充《農夫樂》燒烤內容的模組，加入了多種**串燒**、**調味料**以及製作它們所需的方塊！\n\n燒烤時間到！\n\n \n\n這是 [Barbeque's Delight [Fabric]](https://modrinth.com/mod/barbeques-delight) 的 Forge 移植版\n\n \n\n必要依賴：《農夫樂》\n\n![1](https://cdn.modrinth.com/data/cached_images/d1dd64bb8486e8b3d90068448bf6d3fe0e3d92a8.png)\n\n## 快速上手\n你可以借助 **JEI** 查看本模組的所有合成配方。\n\n- 食材盆：右鍵點擊將**食材**放入盆中。副手持**配菜**，主手持**木棍**，右鍵點擊盆中的食材即可合成串燒。若串燒不需要配菜，副手請保持空著。\n- 烤架：手持串燒右鍵點擊烤架放置串燒，等待煙霧變濃後，按住**潛行**並右鍵點擊以**翻面**。待串燒烤熟後，再次右鍵點擊將其取下！（提示：如果未**翻面**或烤熟後未及時取下，將會得到**烤焦的串燒**！）\n- 調味：將烤好的串燒放在**切菜板**上，然後手持**調味料**右鍵點擊切菜板，即可為串燒撒上調味料。\n- 交易：與**屠夫**交易以獲得調味料。\n## 調味料效果\n- 孜然：食用時恢復玩家生命值\n- 胡椒：食用速度加倍\n- 辣椒：食用時會對玩家造成傷害，但即使飽食度已滿仍可食用。 \n\n![2](https://cdn.modrinth.com/data/cached_images/e0f3d5c4355a453c6e2d3b81821533091d8265d0.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

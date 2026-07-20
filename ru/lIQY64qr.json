@@ -1,0 +1,6 @@
+{
+  "bodyHash": "610db2341c4702eb",
+  "content": "\n\n### Что это вообще такое?\nРад, что вы спросили. TipTapShow — это мод для отображения нажатых клавиш, но для новых версий Minecraft/Fabric.\n\n### Требования\nЭтот мод *обязательно* требует Fabric API, пожалуйста, установите его.\nОн также отлично работает вместе с [ModMenu](https://modrinth.com/mod/modmenu) и [Cloth Config](https://modrinth.com/mod/cloth-config): вы можете редактировать конфиг и без Cloth Config, но я бы не рекомендовал так делать.\n\n### Мне не нравятся цвета.\nЧто ж, отлично, что всё это можно поменять в конфигурации! Не верите? Загляните в [галерею](https://modrinth.com/mod/tiptapshow/gallery)!\n\n### Нашли баг или хотите предложить функцию?\nПожалуйста, перейдите на [GitHub](https://github.com/Spyxar/TipTapShow/issues) и создайте issue.\n\n### Мод не работает!!\nУстановлен ли у вас Fabric API? Нет? Тогда идите и установите.\nЕсли вы уже прочитали раздел «Требования» выше, у вас есть Fabric API, но мод всё равно не работает, пожалуйста, обратитесь на [Discord](https://discord.com/invite/EPFcHVjK8p) или на [GitHub](https://github.com/Spyxar/TipTapShow/issues).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

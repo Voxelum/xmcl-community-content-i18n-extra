@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2a203a6720d21ac",
+  "content": "\n\n**Day Counter+ V2** 是 justwilly 所開發原版模組的修改版。\n此版本著重於新增更多 HUD 資訊並提升多人遊戲的相容性。\n\n該模組會以簡易覆蓋層的形式，在快捷欄上方顯示多項資訊。\n\n![Mod preview](https://cdn.modrinth.com/data/cached_images/5178aa57f4c58397e7808c937aa9db7a568b49e7.png)\n\n# 🛠️ 功能\n- 快捷欄上方顯示天數計數器\n- 玩家座標（X、Y、Z）\n- 以 24 小時制顯示遊戲內時間\n- 支援多人遊戲環境\n\n# 📌 備註\n\n本模組僅為輕量級的 HUD 覆蓋層，不會新增任何遊戲機制。\n\n# ⚠️ 鳴謝\n- 原版模組作者：justwilly\n- 修改版：新增 HUD 元素並支援多人遊戲",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

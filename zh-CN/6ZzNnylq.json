@@ -1,6 +1,6 @@
 {
-  "bodyHash": "bOi3w2V47s4=",
-  "content": "**概述**\n\n本模组是“铜雕公司”系列模组（如Jerotes Village v1.1.5+等）的通用必需依赖。部分功能已移至此处，以提升各模组间的兼容性。\n\n开源项目，任何人都可为该系列创作扩展内容。![请在此处填写描述](https://cdn.modrinth.com/data/cached_images/023632b16b28c8fa695d05a5e95706803aef40ad.png)![探索之眼]\n\n**内容**\n\n- 部分原属Jerotes Village的标枪类物品与兽甲类物品已移至此处；\n- 恢复了1.21.1版本中的长矛类物品；\n- 调试测试生物、创造之爪与探索之眼；\n- 当特定生物携带物品栏时，可从中使用弓箭、弩、三叉戟、投掷物、箭矢等，并能切换栏内物品——使其成为“全能型生物”。截至模组版本1.2.3，它们还可使用TACZ模组中的枪械；\n- 可格挡的双手武器，适用于步战使用的长柄类武器（长枪），以及锤类与匕首类武器；\n- 任何生物持有时攻击即可施加增益效果的物品；\n- 将在Jerotes创作模组中通用的数据包标签，例如“jerotes:humanoid”；\n- 更多内容……",
+  "bodyHash": "d633c9a6affc4674",
+  "content": "\n\n**概述**\n\n本模组是“Copper Carved Company”系列的通用前置依赖（例如 Jerotes Village v1.1.5 及以上版本）。部分功能已迁移至此，以提升各模组间的兼容性。\n\n本项目开源，任何人都可为该系列开发扩展插件。![Replace this with a description](https://cdn.modrinth.com/data/cached_images/023632b16b28c8fa695d05a5e95706803aef40ad.png)![Exploration Eye]\n\n**内容**\n\n- 原属于 Jerotes Village 的部分标枪类物品与野兽护甲类物品已迁移至此；\n- 恢复了 1.21.1 版本中的长矛类物品；\n- 调试用测试生物、创造之爪（Creative Claw）以及探索之眼；\n- 当特定生物拥有背包时，它们可以使用背包中的弓、弩、三叉戟、投掷物、箭矢等，并可在其中切换物品——使其成为“全能型生物”。自模组版本 1.2.3 起，它们还能使用来自 TACZ 模组的枪械；\n- 可格挡的双手武器，适用于步战使用的长柄武器（如长矛），以及锤类与匕首类武器；\n- 任何生物手持并攻击时均可施加增益效果的物品；\n- 将在 Jerotes 旗下所有模组中通用的数据包标签，例如 `\"jerotes:humanoid\"`；\n- 更多内容……",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

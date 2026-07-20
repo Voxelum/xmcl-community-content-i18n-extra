@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5be0501ce58c090",
+  "content": "\n\n<p><span style=\"font-size:18px\">这是一个同时为&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire\" rel=\"nofollow\">Vampirism</a>&nbsp;和&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/boss-checklist\" rel=\"nofollow\">Boss Checklist</a>&nbsp;制作的附属模组，它将前者的“Ancient Remains（古代遗骸）”首领以及“Vampire Baron（吸血鬼男爵）”迷你首领整合到了后者的首领清单界面中作为条目。</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:14px\"><strong>“你是怎么做到的？Ancient Remains 是一整组方块，而不是一个生物！”</strong></span></p>\n<p><span style=\"font-size:14px\">首先，该模组添加了一个虚构且无法生成的占位实体，作为你所看到的首领清单条目的基础。当检测到玩家在战斗结束时破坏了首领的核心方块时，该首领条目便会自动标记为已击败。</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:14px\"><strong>“为什么这个没有和你的其他 Boss Checklist 附属模组打包在一起？”</strong></span></p>\n<p><span style=\"font-size:14px\">该模组使用了前述由模组自身添加的虚构实体。因此，无论你是否实际安装了 Vampirism 模组，Ancient Remains 的首领条目都会正常显示。毕竟，你肯定不希望玩家在一个模组包中到处好奇地寻找“古代遗骸”，结果到最后才发现自己压根就没安装支持该首领的模组。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

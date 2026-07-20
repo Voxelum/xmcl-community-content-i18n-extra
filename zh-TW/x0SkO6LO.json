@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FC2LcztDSEc=",
-  "content": "### **注意：**\n### 從 Minecraft 26.1 開始，Fabric 版本已整合至這個 [Day Counter](https://modrinth.com/mod/daycount)（具有統一的程式碼庫）\n\n\\----------------------------------\n\n這是一個能在左上角顯示當前天數的 Minecraft 模組。它還提供可自訂的設定，例如大小、位置和顏色。\n\n**請注意：** 從 1.3.0 版本開始，此模組使用 Cloth Config API + Mod Menu 進行設定。已移除 GUI 設定畫面。\n\n![DayCount](https://cdn.modrinth.com/data/cached_images/a1a1b467a004f6954c08eb865ac3f52aa6d38dd3_0.webp)",
+  "bodyHash": "e01bae0fb468e6ee",
+  "content": "\n\n### **注意：**\n### 自 Minecraft 26.1 起，Fabric 版本已整合至本 [日數計數器](https://modrinth.com/mod/daycount)（採用統一程式碼庫）\n\n\\----------------------------------\n\n一款 Minecraft 模組，會在螢幕左上角顯示目前天數。它還提供可自訂的設定，例如大小、位置與顏色。\n\n**請注意：**自版本 1.3.0 起，本模組改用 Cloth Config API 與 Mod Menu 進行設定。原有的圖形介面設定視窗已移除。\n\n![DayCount](https://cdn.modrinth.com/data/cached_images/a1a1b467a004f6954c08eb865ac3f52aa6d38dd3_0.webp)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

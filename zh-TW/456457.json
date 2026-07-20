@@ -1,0 +1,6 @@
+{
+  "bodyHash": "38eee110ad933386",
+  "content": "\n\n<h2>斧頭即是武器</h2>\n<p>戰鬥中發現斧頭耐久掉得太快？煩惱無法附魔「掠奪」？那這個模組就是為你量身打造的！</p>\n<p>斧頭在攻擊時通常會消耗 2 點耐久值，因為它們被視為採集工具而非武器。</p>\n<p>此模組讓斧頭像劍一樣，每次攻擊僅消耗 1 點耐久。<br>同時啟用斧頭的「掠奪」附魔，而「擊退」、「火焰附加」以及模組添加的劍類附魔則可在設定檔中開啟。<br>預設情況下，傷害類附魔（鋒利、克星、節肢殺手）也會出現在附魔台，不再需要依賴附魔書。<br>注意：附魔台的選項同樣會影響尋獲的戰利品！</p>\n<p>設定檔中還有更多預設關閉的選項，例如快速破壞蛛網與「所有工具皆為武器」，可自訂哪些工具或物品應被視為武器。</p>\n<ul>\n<li>適用於 Minecraft 1.16-26.1</li>\n<li>需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cloth-config\" rel=\"nofollow\">Cloth Config</a>。Fabric 版還需&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a>&nbsp;（1.8.0 版本起）</li>\n<li><em>主要</em>支援純伺服器端運行 — 快速破壞蛛網功能僅當客戶端也安裝該模組並開啟設定時才會生效</li>\n</ul>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252ffourmisain\" rel=\"nofollow\"><img src=\"https://cdn.ko-fi.com/cdn/kofi1.png?v=2\" alt=\"在 ko-fi.com 請我喝杯咖啡\" width=\"143\" height=\"36\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

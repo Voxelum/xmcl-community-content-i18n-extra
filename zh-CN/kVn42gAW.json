@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5fc2594568d5d4b5",
+  "content": "\n\nMotionBlurX 为 Fabric 版 Minecraft 1.21.11 添加了平滑的时序运动模糊效果。它在保持轻量易用的同时，让镜头移动更加干净、更具电影质感。你可以通过简单的游戏内命令调整模糊强度，以满足个人喜好。\n\n基于：https://modrinth.com/mod/motionblur\n\n- 命令\n\n    /motionblur <百分比>：用于更改模糊强度",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

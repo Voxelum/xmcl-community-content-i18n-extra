@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f97fdbfd1b7f227b",
+  "content": "\n\n<h3>砂轮附魔转移</h3>\n<p>允许砂轮在物品和书之间提取并转移附魔。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_a2f34665-ca79-4f08-b28d-645604c7d369.png\" alt=\"\"></p>\n<h3>使用方法：</h3>\n<p><strong>从附魔物品 → 附魔书</strong></p>\n<p>将附魔物品和一本书放入砂轮中，即可将其附魔提取到一本附魔书中。</p>\n<p><strong>从附魔书 → 新的附魔书</strong></p>\n<p>如果输入的是附魔书，砂轮会提取最顶层的附魔并将其转移到另一本书上。</p>\n<p><strong>支持 <a href=\"https://www.curseforge.com/minecraft/mc-mods/tax-free-levels\" target=\"_blank\" rel=\"nofollow\">Tax Free Levels</a></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

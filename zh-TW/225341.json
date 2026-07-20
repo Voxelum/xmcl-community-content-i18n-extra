@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YiaO9itq7zQ=",
-  "content": "<p style=\"text-align:center\"><img style=\"text-align:center\" src=\"http://i.imgur.com/WKZ2Z1u.png\" alt=\"JourneyMap\" width=\"250\" height=\"250\"></p><h1>JourneyMap 伺服器 - Bukkit</h1><p>為 JourneyMap 提供一種在 BungeeCord 伺服器上識別世界的方式。<br>需要注意的一點是，這個模組僅為多世界伺服器提供 worldId，它不會從客戶端提供 JourneyMap 的伺服器管理員畫面存取權限。<br>你必須在 Forge 伺服器上使用 Forge 模組才能存取伺服器管理員畫面。<br><br></p><p>請參閱 wiki 頁面以取得文件：<a href=\"/linkout?remoteUrl=http%253a%252f%252fjourneymap.info%252fJourneyMapServer\" rel=\"nofollow\">http://journeymap.info/JourneyMapServer</a></p>",
+  "bodyHash": "72e8b4dd32467b98",
+  "content": "\n\n<p style=\"text-align:center\"><img style=\"text-align:center\" src=\"http://i.imgur.com/WKZ2Z1u.png\" alt=\"JourneyMap\" width=\"250\" height=\"250\"></p>\n<h1>JourneyMap Server - Bukkit</h1>\n<p>提供途徑讓 JourneyMap 辨識 BungeeCord 伺服器上的世界。&nbsp;<br>請留意，本模組僅針對多世界伺服器提供 worldId，不會在客戶端 JourneyMap 中提供伺服器管理員畫面的存取功能。<br>如需存取伺服器管理員畫面，必須於 Forge 伺服器上使用 Forge 模組。<br><br></p>\n<p>請前往維基頁面閱讀說明文件：<a href=\"/linkout?remoteUrl=http%253a%252f%252fjourneymap.info%252fJourneyMapServer\" rel=\"nofollow\">http://journeymap.info/JourneyMapServer</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

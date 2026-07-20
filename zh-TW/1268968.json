@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3f1e7b769d6f9aa4",
+  "content": "\n\n<p>我只是想在 Minecraft 裡做一個 Boss，所以做了這個。它確實支援多人遊戲，但會非常卡頓，因為我完全沒有嘗試優化，所以實際上只能在單人模式遊玩。<strong>它會開鑿你世界的一大片區域來建造戰場</strong>，因此如果你要把這放入任何世界，請務必先備份。&nbsp;</p>\n<p>需要 Geckolib</p>\n<p><del>影片將很快製作</del>&nbsp;我太懶了不想做影片，但你基本上只需要建造經典的 Herobrine 神壇（包含中間的苔石）即可召喚 Boss。&nbsp;</p>\n<p>載入模組後，請前往設定檔資料夾找到「Attributes.toml」並將其修改為以下內容，以使其真正針對下界合金進行平衡調整（你需要重新啟動 Minecraft）。&nbsp;</p>\n<p>[Damage]<br>&nbsp; &nbsp; UppercutDmg = 6.0<br>&nbsp; &nbsp; OverheadDmg = 20.0<br>&nbsp; &nbsp; MeleeDmg = 6.0<br>&nbsp; &nbsp; ShockwaveDmg = 4.0<br>&nbsp; &nbsp; ExplosionDmg = 15.0<br>&nbsp; &nbsp; SoulDmg = 2.0</p>\n<p>[Stats]<br>&nbsp; &nbsp; Health = 300.0<br>&nbsp; &nbsp; Armor = 20.0<br>&nbsp; &nbsp; ArmorToughness = 0.0<br>&nbsp; &nbsp; #每次攻擊前切換目標的機率（數值越低 = 機率越高）<br>&nbsp; &nbsp; ChanceToSwitchTarget = 3.0<br>&nbsp; &nbsp; #Boss 每次玩家死亡時恢復的生命值（僅能為 2 的次方）<br>&nbsp; &nbsp; HealPerDeath = 50.0</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

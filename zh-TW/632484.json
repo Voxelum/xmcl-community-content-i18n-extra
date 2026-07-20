@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dfda915efbfff6c1",
+  "content": "\n\n<p><strong>安裝前：請先下載：</strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/enchantment-level-language-patch\" target=\"_blank\" rel=\"nofollow\">附魔等級語言修正</a></p>\n<p>此套件提供一個設定檔，您可透過它來<strong>切換</strong>附魔等級與藥水強度的<strong>顯示模式</strong>。</p>\n<p>檔案格式（&lt;game&gt;/config/<span>enchlevel-langpatch-conf4.txt</span>）</p>\n<p><code><br>\nenchantment=enchlevel-langpatch:default<br>\npotion=enchlevel-langpatch:default</code></p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

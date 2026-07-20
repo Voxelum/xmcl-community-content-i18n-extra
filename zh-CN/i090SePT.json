@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dq4Fvihqay0=",
-  "content": "# 禁用不安全聊天提示\n\n此模组移除了连接到未启用安全聊天的服务器时的警告提示。\n\n![不再有警告提示](https://github.com/NikitaCartes/DisableInsecureChatToast/raw/master/Toast.png)",
+  "bodyHash": "a6e31aeb00be6387",
+  "content": "# 禁用不安全聊天提示\n\n这是一个客户端模组，用于删除连接至未强制启用安全聊天的服务器时弹出的警告提示。\n\n![不再显示警告提示](https://github.com/NikitaCartes/DisableInsecureChatToast/raw/master/Toast.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

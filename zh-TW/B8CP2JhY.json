@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d047c4b2d3980c6",
+  "content": "\n\n# 致命的終界龍\nMinecraft 模組，能讓終界龍變得更加兇猛且危險，且不引入任何新機制。\n\n針對原版體驗進行了完美調校。現在你終於可以停止逃竄，開始反擊了。請務必為裝備附上保護附魔，並準備一些金蘋果或其他恢復生命值的道具。另外，小心別被火球擊中！\n\n適用於模組/整合包：其造成的所有傷害（包含來自狀態效果等級的提升）現在會根據 GENERIC_ATTACK_DAMAGE 屬性進行縮放。同樣地，其生命值恢復速度也會根據 GENERIC_MAX_HEALTH 屬性進行縮放。\n\n## 授權條款\n本模組採用 MIT 授權條款。\n\n## 作者\n\n[Deadly Artist](https://deadlyartist.com)\n\n歡迎前往我的網站查看其他專案：https://deadlyartist.com",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c10cba3808e42e38",
+  "content": "\n\n<h1>Hydrogen - 一款全新的效能模組！</h1>\n<p>Hydrogen 是一款全新的效能模組，旨在提升您的幀率並降低遊戲的 CPU 使用率。</p>\n<h1>HYDROGEN 為實驗性功能！您可能會遇到問題、錯誤、不穩定狀況等。實驗性版本也可能導致效能下降！</h1>\n<h2>Hydrogen 的功能特色</h2>\n<ul>\n<li><strong>生物 AI 剔除</strong>：在單人遊戲中，完全跳過位於玩家渲染距離外的生物與實體的刻更新；在多人遊戲中則會減少更新頻率。</li>\n<li><strong>實體剔除</strong>：阻止位於玩家渲染距離外的生物與實體移動，或大幅減少其移動行為。</li>\n<li><strong>方塊實體剔除</strong>：為了提升 FPS，會減緩或停用箱子、熔爐、紅石系統等的運作。請注意這會影響部分紅石機械的正常運行！* 我們計畫後續新增設定檔選項以供關閉此功能。</li>\n<li><strong>粒子剔除</strong>：停止渲染遠處的粒子以提升 FPS 與整體效能。</li>\n<li><strong>區塊引擎</strong>：為提升 FPS，會減緩渲染距離外區塊的更新（例如放置方塊）。</li>\n<li><strong>Hydrogen 光照</strong>：限制未載入區塊的光照運算以防止延遲。</li>\n</ul>\n<h2>效能提升數據</h2>\n<p>我們已在單人世界測試 Hydrogen（預設設定：16 個區塊、5x5 生物羣系混合、12 模擬距離、開啟平滑光照、關閉垂直同步、畫面更新速率：解鎖 - 無上限）</p>\n<p>搭配 Hydrogen 的 Fabric 1.21.11：平均 375 FPS（M1 MacBook Air）｜無任何模組的原版 1.21.11：平均 320 FPS（M1 MacBook Air）</p>\n<ul>\n<li><strong>相較於零模組的原版 Fabric，FPS 提升超過 50 幀</strong>！（每次更新後 FPS 提升效果都會更佳）</li>\n<li>當大量生物、實體與方塊實體載入時，CPU 使用率顯著下降</li>\n<li>在人口密集區域、大型基地與紅石機械周圍的遊戲體驗更加流暢</li>\n</ul>\n<p>Hydrogen 體積輕巧，專為提升效能而設計。Hydrogen 確保您的遊戲保持流暢，並能在更高的幀率下順利遊玩。</p>\n<ul>\n<li>請注意！FPS 提升幅度可能因遊戲內位置、系統規格等因素而有所不同。</li>\n<li>請注意！目前的 FPS 提升幅度或許看似有限，但隨著每次更新，效能改善效果都會更加明顯。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9543ed7254ebd0ce",
+  "content": "\n\n**這個模組修復了 [The Factory Must Grow 模組](https://modrinth.com/mod/create-tfmg) (TFMG) 中的幾個令人頭痛的漏洞**\n\n此模組修復了以下問題：\n\n- 長引擎的燃料消耗未隨長度呈線性增加\n\n- 使用類比紅石時燃料消耗為零（現在若燃料消耗為 0mb，引擎將不會運轉）\n- 破壞引擎後零件不會掉落\n\n- 使用空油桶時，將 null 轉換為整數導致崩潰\n\n- radial_engine 的燃料消耗為零\n\n您可以在 [GitHub Issues.](https://github.com/Chelovechic/TFMG-Fixes/issues) 上提出修復請求。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

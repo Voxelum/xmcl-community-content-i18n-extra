@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e06b139014b99a90",
+  "content": "\n\n# 全面彻底的地形改造（CATTO）\n一款彻底改造主世界地形生成的模组，大幅提升了地形规模并添加了新的生物群系。\n\n## 特性\n逼真的侵蚀效果\\\n巨大的山脉与海洋\\\n增加的地形高度与深度：-320 至 2032\\\n更多的石头层\\\n新增生物群系，包括：\n-   沼泽\n-   草原\n-   海带森林\n-   盐水湖\n## 图片展示\n\n![被沼泽和森林覆盖的山脉](https://cdn.modrinth.com/data/9t6ckPFJ/images/74b22b2443cf29faa59e8f7d15f1d4f3ddfab13f.webp)\n\n![被雪山环绕的森林山谷](https://cdn.modrinth.com/data/9t6ckPFJ/images/d4e632c74d42c46905705b2ef215a5880af28356.webp)\n\n![带有热液喷口的橙色海洋](https://cdn.modrinth.com/data/9t6ckPFJ/images/613ff7e12b38fbb18165ce2021b492aa413bc85c.png)\n\n## 必需模组\n虽然我不确定它是否真正必需，但 C2ME OpenCl Acceleration 会大幅加快地形生成速度。\n\n## 推荐模组\n- Blooming Biosphere - 其悬崖改动能让陡峭的地形看起来好得多\n- Voxy 或 Distant Horizons - 不会让电脑“融化”就能看清远处地形\n\n## 兼容性\n本模组包含以下兼容补丁：\n-   C2ME OpenCl Acceleration\n-   Blooming Biosphere - 请确保在数据包之后加载内置的兼容补丁\n-   Create Cosmonautics 和 Deep Seas\n\n与其他地形模组不兼容\n\n如果遇到其他模组因世界高度问题产生的 bug，请在 GitHub 上报告\n\n## 侵蚀技术\n本模组的侵蚀效果使用 Runevision 的侵蚀滤镜制作，你可以在这里找到原版：https://www.shadertoy.com/view/sf23W1 \\\n也欢迎查看 Runevision 的 YouTube 频道：https://www.youtube.com/@runevision 以及关于该技术的博文：https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

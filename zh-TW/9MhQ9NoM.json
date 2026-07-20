@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5bcf3ce2a94646b",
+  "content": "\n\n# Bedrock Tools76\n## 說明\nBedrock Tools 新增了黑曜石與基岩工具。\n這些工具讓玩家能夠破壞基岩與末地傳送門框架，並將其轉換為物品。在創造模式中，玩家可使用這些新增的工具一擊擊敗生物。基岩工具的耐久度設定為 60000，而黑曜石工具的耐久度為 3500。雖然它們的採集速度不算特別快，但這些設定均可在設定檔中進行自訂。此外，使用黑曜石鎬破壞基岩會消耗 1000 點耐久度。 \n<br /><br />\n所需模組：MCPitanLib、Architectury API\n<br />\n（若使用 Fabric Loader，則還需安裝 Fabric API）\n<br />\n模組載入器：Fabric Loader、Forge Loader\n<br />\n授權：MIT 授權條款\n<br />\n模組整合包：可用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

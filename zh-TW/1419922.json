@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cb2106da14a30c5d",
+  "content": "\n\n<p>本模組與新生魔藝（Ars Nouveau）、Iron 的法術與魔法書以及泰拉飾品（Terra Curio）進行整合。</p>\n<p>現在，新生魔藝的魔符可以享受到 Iron 的法術與魔法書所提供的法術強度加成，以及泰拉飾品的魔法傷害增幅。此外，新生魔藝的法術傷害（Spell Damage）還能同時增幅魔法傷害與 Iron 的法術與魔法書的法術傷害。</p>\n<p>此外，本模組還為泰拉飾品新增了特殊的聯動物品：魔源手環與魔源花。</p>\n<ul>\n<li>魔源手環（ars_mana_band）可提升玩家的最大魔力值。</li>\n<li>魔源花在玩家魔力低於 50% 時會觸發，消耗魔源漿果來恢復玩家的魔力。</li>\n</ul>\n<p>該模組為新生魔藝（Ars Nouveau）與 Iron 的法術與魔法書 (Iron's Spells 'n Spellbooks)、泰拉飾品 (Terra Curio) 進行了聯動<br>現在新生魔藝的魔符（Glyph）可以享受到 Iron 的法術與魔法書的法術強度加成，與泰拉飾品的魔法傷害增幅<br>並且新生魔藝的法術強度（Spell damage）也可以對魔法傷害與 Iron 的法術與魔法書的法術傷害進行增幅<br>同時，該模組還為泰拉飾品製作了特殊的聯動物品：魔源手環與魔源花<br>魔源手環 ars_mana_band 可以提升玩家的最大魔力值（max mana）<br>魔源花可以在玩家魔源消耗至 50% 以下時，消耗魔源漿果（Source Berry）為玩家回覆魔源</p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_71265bc1-725c-4a6c-a746-61a431f883fe.png\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

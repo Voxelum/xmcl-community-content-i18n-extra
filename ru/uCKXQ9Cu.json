@@ -1,14 +1,6 @@
 {
-  "bodyHash": "2bHdjaSqSSI=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For details, see: https://help.aliyun.com/zh/model-studio/error-code#token-limit",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "c59b775d-df89-902a-8c5b-e0352653168f"
-  },
+  "bodyHash": "7e4bb2e1b3790269",
+  "content": "# Create: Neapolitan\n\nСовместимость между [Create](https://modrinth.com/mod/create) и [Neapolitan](https://modrinth.com/mod/neapolitan).\n\nТакже поддерживает торты из мода [Create Crafts & Additions](https://modrinth.com/mod/createaddition)!\n\n## Особенности\n\n- Жидкие версии всех 6 видов мороженого.\n- Новый базовый рецепт «простого» мороженого, который действует как бутылка молока.\n- Рецепты разливки шоколада для продуктов Neapolitan в шоколаде.\n- Цикл крафта со снегом на случай, если вы не хотите использовать снеговиков.\n- Рецепты смешивания продуктов Neapolitan с использованием жидкого молока.\n- Последовательная сборка по рецепту Neapolitan.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

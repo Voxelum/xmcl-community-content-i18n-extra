@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b7d1039d9a81ad1",
+  "content": "\n\nAbundant Vegetation（枝繁叶茂）是一个世界生成数据包，旨在优化原版主世界的大多数生物群系。该数据包的目标是在不过度改变原貌的前提下，对世界进行美学层面的改造。\n\n# 💡功能特性：\n- 自然的陡峭山坡与悬崖\n\n### 未来计划\n- 更优质的树木\n- 更合理的花草分布\n\n# 🖼️截图展示\n![ ](https://cdn.modrinth.com/data/cached_images/47b3c5810d196315a1d8a09c5c11ddbdd76e7d70_0.webp)\n![ ](https://cdn.modrinth.com/data/cached_images/ef3649b2ca0ac6b62e09be33f7d5377000496339_0.webp)\n\n如果模组版本不生效，可能是被其他模组覆盖了。请将其切换为数据包模式并置于列表顶部。如果您正在使用 Epic Terrain，请将其置于 Epic Terrain 下方。\n\n### 兼容性\n- 由于悬崖特性使用了自定义 Feature，除非生物群系引用了我的 Feature，否则悬崖特性将无效。\n> - 目前支持原版生物群系",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

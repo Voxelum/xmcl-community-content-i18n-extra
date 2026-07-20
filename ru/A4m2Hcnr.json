@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7fdf58e81a48c000",
+  "content": "\n\n# LegacyRaid\n\n**[中文](https://github.com/Crystal0404/LegacyRaid/blob/master/README.md) / Английский**\n\n### Введение\n\n*Вы поклонник старой версии рейдов?*\n\nЭто простой мод, портирующий рейды из Minecraft 1.20.x в Minecraft 1.21+\n\nНе требует дополнительных зависимостей.\n\n### Поддержка нескольких загрузчиков\n\n| Загрузчик | Да или нет |\n|-----------|------------|\n| Fabric    | √          |\n| NeoForge  | √          |\n| Quilt     | √          |\n| Forge     | X          |\n\n**Примечание: Forge не будет поддерживаться. Загрузчик Quilt можно установить вместе с версией для Fabric.**\n\n### Список известных несовместимостей\n\n| Несовместимо с модами                                               | Причина               |\n|---------------------------------------------------------------------|-----------------------|\n| [CrystalCarpetAddition](https://modrinth.com/mod/crystalcarpetaddition) | Реализует тот же функционал |\n| [Raid Restorer](https://modrinth.com/mod/raid-restore)                 | Реализует тот же функционал |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

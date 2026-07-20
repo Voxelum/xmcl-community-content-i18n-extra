@@ -1,6 +1,6 @@
 {
-  "bodyHash": "r5+Z6A4QD/M=",
-  "content": "# 殭屍戰術2 Mod for Minecraft\n\n## 資訊\n*   這是 Zombie Tactics 的分支模組，原創者為 n643064\n\n## 可用的 Minecraft 版本\n\n### 持續維護中\n*   1.21.11\n\n### 已暫停支援\n*   1.21.4 ~ 1.21.10\n*   1.21.1\n\n## 需求\n*   Architectury API\n\n### Fabric 額外需求\n\n*   MidnightLib\n*   ModMenu\n*   Fabric API\n\n## 簡介\n\n這個模組將殭屍進化，突破極限。\n\n*   包含原模組幾乎所有功能\n*   修改通用屬性\n    *   攻擊範圍\n    *   攻擊速度\n    *   追蹤範圍\n    *   陽光下不會燃燒\n    *   更快的奔跑速度\n    *   追蹤隱形敵人\n*   額外功能\n    *   若無法接近目標則破壞方塊\n    *   選擇性地在水面上漂浮\n    *   互相碰撞時可攀爬牆壁\n    *   嘗試拿取更好的物品\n    *   跳越方塊\n    *   在陽光下生成\n    *   破壞儲物箱以取得戰利品\n    *   動態目標搜尋機制\n    *   使用指令 `/sumz` 召喚 N 隻殭屍\n    *   還有更多…\n\n所有項目皆可設定！\n\n## 問題回報\n\n歡迎在 GitHub 上回報任何錯誤或提供建議。",
+  "bodyHash": "9fd041172847da8a",
+  "content": "\n\n# 《殭屍戰術2》Minecraft 模組\n\n## 資訊\n*   為原由 n643064 創作的《殭屍戰術》所衍生的分支模組\n\n## 支援的 Minecraft 版本\n\n### 維護中\n*   1.21.11\n\n### 暫停支援\n*   1.21.4 ~ 1.21.10\n*   1.21.1\n\n## 需求\n*   Architectury API\n\n### Fabric 版還需安裝\n\n*   MidnightLib\n*   ModMenu\n*   Fabric API\n\n## 簡介\n\n本模組讓殭屍突破極限，全面進化。\n\n*   包含原版模組的幾乎所有功能\n*   修改基礎屬性\n    *   攻擊範圍\n    *   攻擊速度\n    *   追蹤距離\n    *   陽光下不會燃燒\n    *   更快的奔跑速度\n    *   追蹤隱形敵人\n*   額外功能\n    *   無法到達目標時會破壞方塊\n    *   可選擇性漂浮於水面\n    *   互相碰撞時會嘗試攀爬牆壁\n    *   嘗試拾取更好的物品\n    *   跳躍跨越方塊\n    *   陽光下生成\n    *   破壞箱子以取得掉落物\n    *   動態目標搜尋機制\n    *   使用指令 `/sumz` 召喚 N 隻殭屍。\n    *   以及更多…\n\n所有設定皆可自訂！\n\n## 問題回報\n\n歡迎隨時在 GitHub 上回報任何錯誤或提出建議。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

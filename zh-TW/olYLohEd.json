@@ -1,0 +1,6 @@
+{
+  "bodyHash": "92d04ad249e81fc4",
+  "content": "\n\n# Goety Ominous\n\nGoety Ominous（前身為 Some Illager Servants 模組）是《Goety》的擴充模組，透過新增多種僕從類型來擴張你的軍隊——如今不再限於災厄村民，而是涵蓋來自多款熱門模組的各種生物。\n\n除了新增僕從外，本模組還引入了跨模組相容性，讓你能夠利用《Goety》的核心機制召喚其他模組的生物。它彌補了《Goety》死靈系統與其他受歡迎模組之間的差距，為指揮你的軍隊提供了全新的策略選擇。\n\n## 主要功能\n\n新增僕從類型與更多法術\n本模組的核心內容。召喚並指揮多樣化的新僕從，每種都擁有獨特的行為模式與能力。也別忘了試試看新增的法術！\n\n### Illage and Spillage\n\n### Savage & Ravage\n\n### Upgrade Aquatic\n\n### Mutant More\n\n### 未來更新將持續推出更多內容！\n\n## 跨模組相容性\n將支援模組的物品放置在基座方塊上，即可召喚對應的僕從類型。\n\n## 自訂設定屬性\n可透過 `someillagerservants-common.toml` 進行高度自訂。\n\n針對每種僕從類型調整生命值、傷害、速度、護甲與跟隨範圍\n\n根據個人喜好微調遊戲平衡性\n\n## 安裝需求\n\n《Goety》（必要）\n\n`Illage and Spillage: Respillaged`（現為必要模組，未來將改為選填）\n\n`Savage & Ravage`（選填）\n\n`Upgrade Aquatic`（選填）\n\n`Mutant More`（選填）\n\n## 未來發展\n\n更豐富的跨模組相容性\n\n來自多款熱門模組的新僕從類型，不僅限於災厄村民主題內容\n\n客製化召喚機制\n\n## 致謝\n\n特別感謝 `k1sak1` 在模組開發過程中的協助！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

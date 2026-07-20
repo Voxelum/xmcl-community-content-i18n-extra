@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5989bd4613dbc35",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/714/385/pinging.gif\" alt=\"pinging\"></p>\n<p>消除对字面量 IP 服务器地址进行的缓慢反向 DNS 查找</p>\n<p>提取自 <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/tweakermore\" rel=\"nofollow\">TweakerMore</a> 模组中的 <code>yeetServerIpReversedDnsLookup</code> 选项</p>\n<h3>是什么、为什么以及如何实现</h3>\n<p>对于地址仅由字面量 IP 表示的服务器（例如 <code>192.168.2.10:25565</code>），禁用相应 <code>InetAddress</code> 对象中的反向 DNS 查找</p>\n<p>许多非回环 IP 没有关联的域名，这使得反向查找非常耗时</p>\n<pre><code>// java.net.InetAddress#getHostName(boolean)\nString getHostName(boolean check) {\n    if (holder().getHostName() == null) {  // 如果 InetAddress.getByName() 接收到的是字面量 IP，则此处为 null\n        holder().hostName = InetAddress.getHostFromNameService(this, check);  // &amp;lt;-- 这一步极其耗时\n    }\n    return holder().getHostName();\n}\n</code></pre>\n<p>此选项将这些服务器的域名直接设置为其 IP 地址，从而绕过反向 DNS 检查</p>\n<p>这可使使用字面量 IP 地址的服务器连接时间减少约 1 到 5 秒。影响以下场景：</p>\n<ul>\n<li>在服务器列表界面中 Ping 服务器</li>\n<li>连接到服务器</li>\n</ul>\n<h3>运行环境</h3>\n<ul>\n<li>仅限客户端</li>\n<li>Fabric / Forge / NeoForge 模组加载器。无需额外依赖</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

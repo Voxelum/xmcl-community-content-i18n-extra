@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ea62ca610b59424",
+  "content": "\n\n<p># Eureka! Ships（非官方 NeoForge 移植版）</p>\n<p>⚠️ **重要免責聲明**<br>這是使用 NeoForge 載入器將 Eureka! Ships 移植至 Minecraft 1.21.1 的**非官方**版本。&nbsp;<br>* 請**不要**將此版本發現的任何錯誤或問題回報給官方開發者。<br>* 如需支援、回報錯誤或詢問關於此 1.21.1 版本的任何問題，請直接聯繫移植作者。</p>\n<p>---</p>\n<p>## 🧭 關於移植版<br>Eureka 是 Valkyrien Skies 2 的主要擴充模組，可讓您將任何方塊結構轉化為具備完整功能且基於物理運算的飛船或海船。此構建正式將 Eureka 引入 1.21.1 NeoForge 生態系統。</p>\n<p>## 🛠️ 必要依賴模組<br>要使此模組正常運作，您**必須**在您的資料夾中安裝以下模組：<br>1. **Valkyrien Skies（非官方 NeoForge 移植版）** &mdash; 物理運算核心（請使用我的 1.21.1 構建！）<br>2. **Kotlin For Forge**（適用於 1.21.1 NeoForge）<br>3. **Architectury API**（適用於 1.21.1 NeoForge）</p>\n<p>---</p>\n<p>## 📜 致謝與授權條款<br>* **原始開發團隊：** 衷心感謝 Valkyrien Skies 團隊開發了這款令人驚嘆的船隻模組。<br>* **原始程式碼：** [Valkyrien Skies GitHub](<a href=\"https://github.com/ValkyrienSkies/Valkyrien-Skies-2\" target=\"_blank\" rel=\"nofollow\">https://github.com/ValkyrienSkies/Valkyrien-Skies-2</a>)<br>* **授權條款：** 依據 **MIT 授權條款** 發行，與原版模組的條款完全一致。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

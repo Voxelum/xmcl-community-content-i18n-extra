@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d6dbe280b35d17fb",
+  "content": "\n\nTitan 是一款专为 Project Eden 服务器打造的模组，旨在提升玩家体验并简化我们资源包 Saturn 的加载过程。\n\n### 特性\n- 在游戏启动或重载纹理时自动更新服务器资源包\n- 修复大型自定义模型被错误剔除的问题\n- 资源包有更新时在游戏内发送通知\n- 向服务器同步已安装的资源包版本\n- 在主菜单添加快速连接按钮\n- 集成 Discord 状态显示\n- 背包界面支持背包预览\n- 聊天栏显示当前聊天频道信息\n\n### 兼容性\n- 支持版本：1.21.8\n- 必需依赖：[Fabric API](https://modrinth.com/mod/fabric-api)\n- 可选依赖：[ModMenu](https://modrinth.com/mod/modmenu)（用于配置选项）\n- 不兼容：OptiFine — 详情请参阅我们的 [GitHub](https://github.com/ProjectEdenGG/Titan#incompatibilties)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

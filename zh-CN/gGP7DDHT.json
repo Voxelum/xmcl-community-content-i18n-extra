@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15b23d1728dfe6dc",
+  "content": "\n\n# Re:Zero - 死亡回归\n\n一款简单的模组，为 Minecraft 添加了 Re:Zero 风格的死亡机制。\n\n## 功能特性\n\n*   **即时重生**，附带 Re:Zero 死亡音效\n*   **特殊稀有音效**，可配置触发概率（默认 15%）\n*   **黑暗效果**：播放特殊音效时触发\n*   **多人游戏支持**：附近的玩家均可听到死亡音效\n*   **自动启用游戏规则**以实现即时重生（可选保留物品栏）\n\n## 工作原理\n\n死亡后，你将立即重生并听到 Re:Zero 的死亡音效。有一定几率触发特殊音效，并伴随短暂的黑暗效果以增强戏剧性。\n\n## 配置说明\n\n设置位于 `config/rezeroreturnbydeath-common.toml`：\n\n```toml\n# 核心设置\nenableReZeroRespawn = true                 # 总开关\nautoEnableImmediateRespawn = true          # 自动启用即时重生\nautoEnableKeepInventory = false            # 死亡时保留物品（可选）\n\n# 音频设置  \nspecialSoundChance = 0.01                  # 触发特殊音效的概率（1%）\nplaySoundToAllPlayers = true               # 附近所有玩家均可听到死亡音效\nperPlayerRandomSounds = false              # 按玩家独立随机判定还是全局共享\n\n# 视觉特效\nenableSpecialDarknessEffect = true         # 特殊死亡时触发黑暗效果\ndarknessEffectDuration = 60                # 效果持续时间（60刻 = 3秒）\n```\n\n## 安装方法\n\n1.  为 Minecraft 1.20.1 安装 Minecraft Forge 47.4.0 或更高版本\n2.  下载模组并将其放入你的 `mods` 文件夹中\n3.  启动游戏，如需调整请通过配置文件进行设置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

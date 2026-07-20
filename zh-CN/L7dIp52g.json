@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc9d5e0bb5486ab8",
+  "content": "\n\n<center>\n\n### **BUG：**\n\n![箱子 GUI 模型问题](https://cdn.modrinth.com/data/cached_images/67aa24574bce45e76d982b8c9cd3127fb52d74b8.png)\n\n### **修复：**\n\n![箱子 GUI 模型修复](https://cdn.modrinth.com/data/cached_images/8d3a3e07ae879d18287f8815859e5c178a1028e0.png)\n\n</center>\n\n**这是一个临时补丁包，用于在较新版本的 Minecraft 中使用 [Fresh Animation Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions) 时，修复 GUI 栏位中原版箱子的模型。**\n\n---\n\n[支持 FreshLX 的工作 :)](https://modrinth.com/user/FreshLX)\n\n在使用包含自定义箱子动画的 Fresh Animation Extensions 时，箱子 GUI 模型一直存在 BUG。FreshLX 可能会很快推出修复补丁，但在此之前，我制作了本补丁包以覆盖该问题。本包为箱子创建了独立的自定义库存/GUI 模型，而非沿用原本会导致冲突的箱子实体模型！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

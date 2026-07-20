@@ -1,0 +1,6 @@
+{
+  "bodyHash": "95071adef31d1dd0",
+  "content": "\n\n<h1>🪦 Graves Lite：原版死亡解決方案</h1>\n<p>Graves Lite 是一款高效能、極簡風格的資料包，旨在保護您的戰利品，同時保留《我的世界》的「硬核」精神。</p>\n<h2>✨ 主要功能</h2>\n<ul>\n<li><strong>📍 個人死亡座標</strong>：您倒下的瞬間，精確座標會直接顯示在聊天視窗中。再也不用猜那座山到底在哪裡了。</li>\n<li><strong>⏳ 防止物品消失</strong>：您的物品不會消失。此資料包會「凍結」死亡點半徑 4 格內所有物品的消失計時器。慢慢準備裝備就好——您的戰利品會在原地等您。</li>\n<li><strong>✨ 靈魂信標</strong>：一束微弱的粒子光束會標記您的遺骸位置。該光束可穿透牆壁與地形，引導您回到精確位置，又不會過於搶眼。</li>\n<li><strong>⚡ 零延遲架構</strong>：專為伺服器設計。它使用經過最佳化的<strong>互動標記（Interaction Markers）</strong>，而非耗資源的盔甲架或實體，確保您的 TPS 維持在完美的 20。</li>\n<li><strong>🧼 自動清理</strong>：當您靠近死亡點 1.5 格以內時，標記與粒子會立即消失。不會有「殘留」墓碑髒亂您的世界。</li>\n</ul>\n<h2>🚀 安裝方式與相容性</h2>\n<ul>\n<li><strong>支援多人遊戲：</strong>完美適用於專用伺服器與區域網路（LAN）。</li>\n</ul>\n<p><strong>安裝資料包：</strong></p>\n<ol>\n<li>下載 <code>.zip</code> 檔案。</li>\n<li>將其放入世界資料夾中的 <code>datapacks</code> 資料夾內。</li>\n<li>在遊戲內輸入 <code>/reload</code>。</li>\n</ol>\n<p><strong>安裝模組：</strong></p>\n<ol>\n<li>下載 <code>.jar</code> 檔案</li>\n<li>將其移至 Minecraft 的 <code>mods</code> 資料夾</li>\n<li>重新啟動遊戲</li>\n</ol>\n<blockquote>\n<p><strong>注意：</strong>由於此資料包採用標記邏輯，體積極為輕量，不會與其他世界生成或實用型資料包產生衝突。</p>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8dac9c2ef4933f46",
+  "content": "\n\n此模組會在玩家於聊天中輸入訊息時，於其頭頂顯示文字氣泡。 \n\n使用 `/bubbletext <作者> <訊息>` 指令，可讓擁有自訂 NBT 字串標籤（值設為該作者名稱）的生物頭頂顯示文字氣泡（非常適合與 CCI 等整合模組搭配使用）。預設的 NBT 鍵名是 \"BubbleOwner\"，但可在設定檔中進行修改。\n\n範例：`/summon zombie ~ ~2 ~ {ForgeData: {BubbleOwner: \"Cranberries\"}}` <br>\n接著使用 `/bubbletext Cranberries Zombie, zombie, zombie-ie-ie` 即可讓殭屍說出「Zombie, zombie, zombie-ie-ie」。\n<br>\n在 1.15 及更早版本中，此模組會於每個原版結構旁放置指南針。<br>\n<br>\n<p><img src=\"https://i.imgur.com/0KFppoR.png\" alt=\"Akliz Partner\" width=\"320\" height=\"152\"></p>\n<p><a href=\"https://www.akliz.net/mrbysco\" rel=\"nofollow\">需要伺服器嗎？使用優惠碼「mrbysco」首月可享八折優惠</a></p>\n \n<b>如有任何問題，歡迎加入我的 Discord。</b>\n\n## 想支援我們嗎？ ##\n<p><a href=\"https://www.patreon.com/Mrbysco\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -Mrbysco</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

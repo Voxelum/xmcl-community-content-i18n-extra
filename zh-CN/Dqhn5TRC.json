@@ -1,0 +1,6 @@
+{
+  "bodyHash": "712e2210a1cefd45",
+  "content": "\n\n# 什么是 Endless City\n\nEndless City 是一座广阔且无限的城镇，它会替换掉原版 Minecraft 世界。\n它将彻底改变你的 Minecraft 玩法，获取木材现在成了一项不小的挑战。\n\n# 为什么会有 Endless City\n\nEndless City 最初只是一个针对 MC 1.6.4 的简单模组。其创作者早已消失在时光中，但他将这个独特的概念变为现实：生成一座拥有你想要的所有珍贵物品、却唯独没有木材的完整城市。\n其中最独特的特性是一座巨大的超级结构，其中可以包含游戏中的任意方块。\n\n## 那么这个版本有什么特别之处？\n\n我们制作的 Endless City 与原版模组非常相似，只是在设计上更加现代化。\n\n我们的现代化改动包括：随机化的道路结构、为独特的超级结构添加了几乎全部方块（出于平衡性考虑排除了一部分）、全新的深板岩层（包含试炼密室与要塞），以及根据实际需要更新“原版”建筑以使用木桶和保险箱。\n\n### Endless City LITE\n\n由于更新后的版本生成的世界极为庞大，我们决定发布一个 LITE [版本](https://modrinth.com/project/endless-city-lite)，提供更小的世界供存储空间不足的玩家体验这座城市。\n\n### Endless City LEGACY\n\n我们还提供更为“原汁原味”的 [版本](https://modrinth.com/datapack/endless-city-legacy)，旨在完全复刻当时数据包的原貌，只是运行在更现代的版本上，并使用了现代贴图，同时减少或改变了原有的游戏 Bug。我们也希望提供不使用模组的选项，而基于数据包的项目实现了这一可能。\n\n## 如何正确使用 Endless City？\n以下几种情况可能会导致此数据包出现问题，请务必注意：\n\n1. [不要自动清除区块](https://youtube.com/clip/UgkxsCYsFgvzUZJqf_cd_rroetApZEPHUwAe?si=CTirXwWZf4IHPsZa) —— 这会导致大量区块边界异常，因为数据包无法处理“智能”区块边界。此外，它还会覆盖城市中已存在的部分。\n2. 远离城市进行传送 —— 这只会导致城市无法在那片区域生成。如果你想让城市正常生成，必须步行或飞行前往，并确保城市不脱离渲染距离。\n3. 不要移动过快，我指的是速度超过 40 的情况。在测试阶段达到该速度时，你可能会闯入仍在生成的城市区域，但暂时还不会引发问题。 \n\n## 如何报告 Bug？\n你可以加入 Brow Gaming 的 Discord 服务器，在那里可以找到 Scattered Cities 项目的支持！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

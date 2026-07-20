@@ -1,0 +1,6 @@
+{
+  "bodyHash": "96d5536ce184810b",
+  "content": "\n\n# Предупреждение о прочности инструментов\n\n### Больше не давайте снаряжению сломаться\n\n[![Загрузки](https://img.shields.io/modrinth/dt/URQ0rty4?style=for-the-badge&color=00AF5C&label=Downloads)](https://modrinth.com/mod/tools-durability-warning) [![Версия](https://img.shields.io/modrinth/v/URQ0rty4?style=for-the-badge&color=orange&label=Latest%20Ver)](https://modrinth.com/mod/tools-durability-warning/versions)\n\n***\n\n## Что это такое?\n\n**Tools Durability Warning** — это простой утилитарный мод, который оповещает вас, когда ваши инструменты или броня вот-вот сломаются. Он помогает сохранить ваше зачарованное снаряжение до того, как будет слишком поздно.\n\n![В игре](https://cdn.modrinth.com/data/cached_images/b8c4ca84edff085858ed5277b24ea2b05f6261b6.png)\n\n***\n\n## Особенности\n\n| Возможность | Описание |\n| :--- | :--- |\n| **Умные предупреждения** | Оповещает при снижении прочности ниже 5%, 10% или 20% (настраивается). |\n| **Визуальные и звуковые эффекты** | Показывает предупреждение в строке действий и воспроизводит характерный звук. |\n| **Универсальная поддержка** | Работает для **инструментов** и **брони**. |\n| **Совместимость с модами** | Распознаёт все предметы, подверженные износу, включая инструменты из модов. |\n\n***",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

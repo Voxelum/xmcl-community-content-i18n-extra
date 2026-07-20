@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a66354469289ee36",
+  "content": "\n\n![Sky preview](https://cdn.modrinth.com/data/cached_images/12e6af6f83a05a57c5f5a86e9b1fc8802654e681_0.webp)\n一個原版資源包，使用核心着色器將標準雲朵替換為動態柔和的 3D 雲朵。雲朵透過值雜訊生成，可在着色器檔案 `shaders/core/sky.fsh` 中進行自訂：\n```glsl\n    //                         S E T T I N G S\n    // ------------------------------------------------------------------\n    int num_layers = 16;\n    float mosaic_scale = 4.0;\n    float cloud_height = 2400.0;\n    float thickness = 1024.0 * (1.0 - smoothstep(0.2, 0.8, distance_factor));\n    float cloud_size = 0.1;\n    float cloud_level_height = -1.0;\n    float density_threshold = 0.1;\n    // ------------------------------------------------------------------\n```\n和\n```\nfloat fbm3D(vec3 p) {\n    float value = 0.0;\n    float amplitude = 0.5;\n    float frequency = 0.05;\n\n    int level = 5; // <=======================\n\n    for (int i = 0; i < level; i++) {\n        value += amplitude * noise3D(p * frequency);\n        p *= 2.0;\n        amplitude *= 0.5;\n    }\n    return value;\n}\n```\n畫面延遲程度取決於上述設定。若您的電腦效能較弱，建議將 `int level` 的值改為 `3`，以獲得更流暢的體驗。\n\n雲朵會隨天氣與日夜變化而產生反應。\n\n_這是一個原版資源包，無需安裝 Optifine、Iris 或其他任何模組/修改器。_\n\n已測試版本：\n- 26.1.1 ✔\n- 1.21.11 ✔\n- 1.21.10 ✔\n- 1.21.8 ✔\n- 1.21.6 ✔\n- 1.21.5 ⨉\n- 1.21.4 ⨉\n- 1.20.4 ⨉",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

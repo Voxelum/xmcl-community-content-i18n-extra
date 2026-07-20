@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f6de1e8a7de1ffa0",
+  "content": "\n\n# 粒子剔除\n\n一款適用於 Minecraft 的 Fabric 客戶端模組，可讓您透過 Cloth Config 與 Mod Menu 在遊戲內封鎖個別粒子類型。封鎖佔用資源較高或不必要的粒子（例如藥水效果漩渦、區域效果雲、爆炸粒子等），能顯著提升遊戲效能（FPS）並減少畫面干擾。\n\n## 功能特色\n- **動態粒子註冊表**：動態列出所有已註冊的粒子（包含其他模組新增的粒子！）。\n- **快速控制**：一鍵停用或啟用所有粒子。\n- **自訂選擇**：精確設定要封鎖哪些粒子，以及保留渲染哪些粒子。\n- **提升 FPS**：完全阻止渲染被封鎖的粒子類型。\n\n## 需求\n- **Minecraft**\n- **Fabric Loader**\n- **Fabric API**\n- **Cloth Config API**（隨附／必要）\n- **Mod Menu**（強烈建議安裝以便進入設定畫面）\n\n## 授權條款\n本模組採用 MIT 授權條款發布。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

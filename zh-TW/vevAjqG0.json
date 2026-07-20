@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e85fa67510b8cbfe",
+  "content": "\n\n## ⚙️ IJM 的微調\n\n一款針對 Minecraft 客戶端進行微調的 Fabric 模組。\n\n![Mod Options](https://github-production-user-asset-6210df.s3.amazonaws.com/59478524/570097154-427c58ce-5a14-4584-a43e-ad4c8ccbdcb9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260326%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260326T233114Z&X-Amz-Expires=300&X-Amz-Signature=f6022e4e4818e4ac4dfafafa602d5d0f451e9fee1ee84ab31ea55b0e133495c3&X-Amz-SignedHeaders=host)\n\n### 📌功能說明\n\n- 強制顯示深色載入覆蓋層（黑色單色）。\n- 踏上階梯時自動啟用自動跳躍。\n- 允許在創造模式中顯示經驗條。\n- 破壞方塊時減少粒子效果。\n- 調整南瓜頭覆蓋層的透明度。\n- 按住快捷鍵進行縮放。\n- 降低火焰覆蓋層的高度。\n- 對創造模式物品欄進行一些微調。\n- 截圖後新增開啟截圖資料夾的提示訊息。\n- 使用 F3 + B 時，可選擇顯示隱形實體的碰撞箱。需於專用伺服器上擁有 OP 權限，且遊戲模式非生存模式。\n- 提供可透過快捷鍵切換的全亮（Fullbright）選項。\n\n> 注意：所有功能皆可自訂設定並切換開關。\n\n### 🔗系統需求\n\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n- [Yet Another Config Lib](https://modrinth.com/mod/yacl)\n\n### 🔗推薦安裝\n\n- [Mod Menu](https://modrinth.com/mod/modmenu)\n\n### 🔗相容模組\n\n- [Fabrishot](https://modrinth.com/mod/fabrishot)\n\n### 📜授權條款\n\n本專案採用 [MIT](https://github.com/ItsJustMiaouss/ijm-tweaks?tab=MIT-1-ov-file#readme) 授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

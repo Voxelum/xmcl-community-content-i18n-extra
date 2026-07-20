@@ -1,0 +1,6 @@
+{
+  "bodyHash": "368a56db115c0606",
+  "content": "\n\n# 允許重新為混凝土染色\n\n### 注意：\n\n此數據包會新增合成配方。移除該數據包會在控制台顯示關於遺失配方的警告。這不會對您的世界或存檔資料造成損害。\n\n### 安裝方式（Fabric/Forge/Quilt）：\n這些模組的功能與數據包相同，但會對所有在安裝此模組時建立或啟用的世界生效。如果您不希望影響所有世界，請改用數據包。\n\n**Forge：**\n無需任何依賴項，只需將模組放入「mods」資料夾即可。\n\n**Fabric：**\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**Quilt：**\n需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)\n\n\n### PurpurPacks\nPurpurPacks 是建議加入 [Purpur](https://purpurmc.org/) 伺服器軟體的功能——或是符合 Purpur 主題的特色，但經過評估後認為以數據包的形態呈現更為合適！\n\n每個數據包的功能都等同於 Purpur 中的一個獨立設定選項。您可以隨時新增或移除它們，而不會損壞伺服器。\n\n這些數據包並不依賴 Purpur；它們在原版或任何其他伺服器軟體中都能正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

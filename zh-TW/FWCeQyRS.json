@@ -1,0 +1,6 @@
+{
+  "bodyHash": "35d43724b7aaab8f",
+  "content": "\n\n它允許你設定超出 [女性性別模組](https://modrinth.com/mod/female-gender) 允許範圍之外的限制。\n\n功能類似於 [女性整形手術：胸部限制調整器](https://www.curseforge.com/minecraft/mc-mods/female-plastic-surgery-bust-limit-tweaker)，但適用於 *1.21.11* 版本。如果你需要低於 1.21.11 的版本，可能不適合使用此模組。\n\n此模組也內建了針對披風功能的修正補丁，可防止在版本不新於 5.0.0 Beta 3 時將相關錯誤寫入日誌檔（因其嘗試連線的目標網域已失效）。\n\n# 設定檔\n\n- `config\\boobaoverlimit\\boobs_limits.json` 允許你自訂設定選單中各項屬性的限制條件，修改任何項目皆會 *需要重新啟動遊戲*（如胸部、臀部、聲調等）\n- `config\\boobaoverlimit\\mod_config.json` 用於控制是否啟用此模組 *(需重新啟動)*\n- `config\\FemaleGenderMod\\local_overrides\\<uuid>.json` 用於儲存並載入超出限制的數值，以確保重新啟動後設定依然保留（若設定值恢復至正常範圍內，該數值或整個檔案將被自動刪除）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

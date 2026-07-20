@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3689f98640716d12",
+  "content": "\n\n# SplashChanger\n新增在標題畫面修改「標題彈出文字」的選項！\n\n使用此模組，您可以：\n- 在標題彈出文字中使用 MiniMessage 標籤\n- 使用 `%name` 作為**您的**名稱佔位符\n- 隨機顯示自訂的標題彈出文字\n- 找回 Minecraft 1.0 與 1.8 版本的舊版標題彈出文字\n- 完全隱藏標題彈出文字，呈現簡潔畫面\n\n## 常見問題：\n### Q：我關閉了設定按鈕，該如何重新開啟？\n- 在標題畫面的標題彈出文字上懸停滑鼠游標並點擊，即可開啟設定！\n\n替代方案：您可以下載 [Mod Menu](https://modrinth.com/mod/modmenu)，但若不想安裝，請依照以下步驟操作： \n1. 尋找並開啟電腦上的 `.minecraft` 資料夾（通常可按下 `WIN + R` 並輸入 `%APPDATA%` 找到）\n2. 找到 `config` 資料夾並開啟它\n3. 找到並開啟 `splashchanger.json` 檔案 \n4. 將 `\"disableButton\": true` 替換為 `\"disableButton\": false`\n5. 儲存檔案並重新啟動 Minecraft！\n\n<img width=\"1582\" alt=\"splash-changer-preview\" src=\"https://cdn.modrinth.com/data/YHxZ7hct/images/1d0557a20facdcdf8b06c47fd26869285d02e575.png\">",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bc79e0a7fc208db5",
+  "content": "\n\n# 传送门枪模组\n\n为 [Forge](https://files.minecraftforge.net/) 重新实现的 [iPortalTeam 的传送门枪模组](https://modrinth.com/mod/portal-gun)。\n\n<img src=\"https://s2.loli.net/2023/03/19/mxdDAr76Y3RwV9B.png\" alt=\"portal_gun.png\" width=\"300\"/>\n\n### 前置要求\n\n- [GeckoLib](https://modrinth.com/mod/geckolib)\n- [沉浸式传送门（Forge版）](https://modrinth.com/mod/immersive-portals-neoforge)\n\n### 合成配方\n\n<img src=\"https://s2.loli.net/2023/03/19/qz5fNVnZCgytJUX.png\" alt=\"portal_gun_recipe.png\" width=\"200\"/>\n\n### 致谢\n\n特别感谢 [iPortalTeam](https://github.com/iPortalTeam) 创建原版模组，以及 \n[Thelnfamous1](https://github.com/Thelnfamous1/PortalGun/) 完成 1.19.2 Forge 版本的移植工作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

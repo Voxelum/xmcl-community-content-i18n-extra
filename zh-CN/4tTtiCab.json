@@ -1,0 +1,6 @@
+{
+  "bodyHash": "babb33d314286ef8",
+  "content": "\n\n![创造祭坛](https://cdn.modrinth.com/data/cached_images/49595df3f17bafa462febbc797809b91671a322b.png)\n# 简介\n\n警告：Terracompositio **需要** [TerraBlender](https://modrinth.com/mod/terrablender)！\n\n**Terracompositio** 是一款以抽象概念为主题的魔法模组，涵盖创造、毁灭等理念（目前仅实现创造）。游戏核心围绕无线能量展开，类似于《Ars Nouveau》中的魔力，包含各类生产与消耗该能量的设备及装备，以实现各种酷炫的功能。\nTerracompositio 完全可作为独立模组游玩，同时也与其他模组具备出色的集成支持。\n\n## **Terracompositio 的设计理念**\n\n- 拒绝管道、电线等——这些设计既枯燥又泛滥；\n- 取消图形用户界面（GUI）——一切交互均在游戏世界中完成；\n- 尽可能保持所有资源的可再生性；\n- 摒弃枯燥的经典资源产出方式。\n\n## 特性\n\n模组目前专注于主世界的玩法推进，不影响其他维度。新增内容包括：\n- 全新的 **流动雪松生物群系**，拥有丰富的动植物生态，其中包括：\n   - **流动雪树人**\n   - 全新建筑结构 —— **创造祭坛**\n- 新矿物 —— **不稳定的锝**\n- 类似《机械动力》(Create) 的方块以及实体信息可视化器\n- 大量新资源与 **工具**，通过有趣的进度系统获取\n\n模组还提供了类似《植物魔法》(Botania) 的 API，方便你在自己的项目中使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

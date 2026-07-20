@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0431cc966ac368ef",
+  "content": "\n\n[![捐赠给彩虹铁路——今天支持全球处于风险中的 LGBTQI+ 人群！](https://mods.twelveiterations.com/img/rainbow-railroad.png)](https://www.rainbowrailroad.org/donate)\n\nBalm 是一个面向模组开发者的库模组，通过提供通用接口和事件，并移除大部分针对特定加载器的代码，简化了多加载器模组的创建流程。\n\n它并非让 Forge 和 Fabric 模组共存运行的万能方案。作为普通玩家，你仅需在游玩依赖此模组的模组时才需要安装它。\n\n## 核心特性\n\n- 不使用自定义 Gradle 工具，仅依赖官方模组加载器插件\n- 采用 Mojang 映射表，支持 Jared 的 Multiloader-Template\n- 功能全面覆盖网络通信至配置文件，零第三方依赖\n- 已在 Blay 开发的 20 余个模组中经受实战检验，涵盖内容扩充型与生活品质优化型模组\n- 同时支持 NeoForge、Fabric 和 Forge，且无需维护重复代码\n- 提供快照构建版本，适配预发布版与候选正式版\n- 为第三方模组（如 Curios/Trinkets 或 Jade/TheOneProbe）提供统一支持\n- 发布于 CurseForge 与 Modrinth（含第三方平台访问支持）\n\n## 如何使用 Balm 开发模组（面向开发者）\n\n- 查阅[官方文档](https://balm.twelveiterations.com/)，获取入门指南与 Balm 功能概览。\n- 可使用[此模板仓库](https://github.com/TwelveIterationMods/balm-mod)作为项目起点或参考示例。\n- 也可浏览 Blay 现有模组的源代码，了解具体功能的实现方法。\n- 加入 [Balm 开发者 Discord](https://discord.gg/36qHFMNgAh) 服务器，与 Blay 及其他使用 Balm 的开发者交流互动。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

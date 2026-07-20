@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3f5939f1a3d6e134",
+  "content": "\n\n<p>此模組可防止副手物品在將物品從背包丟出時，其 NBT 被改為空標籤，進而避免火把等物品因獲得空 NBT 標籤而無法堆疊。</p>\n<p><strong>注意：此功能不會事後自動清除物品上已存在的空 NBT 標籤。</strong></p>\n<h4><strong>Patreon 與 Discord</strong></h4>\n<p>你可以 <a href=\"https://www.patreon.com/noobanidus\" rel=\"nofollow\">在 Patreon 上支持我！</a><br>所有關於此模組的支援資訊均可在&nbsp;<a href=\"https://discord.gg/9YVkaee\" rel=\"nofollow\">我的 Discord</a>取得。你也能藉此追蹤我的開發動態並接收通知更新！如需其他協助，請點擊本頁面頂部的「Issues」。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

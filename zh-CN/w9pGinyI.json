@@ -1,0 +1,6 @@
+{
+  "bodyHash": "622e1018b289ecaa",
+  "content": "\n\n你好世界\n本模组为 Create Aeronautics(sable) 载具添加了简易飞行 HUD。当乘坐载具时，HUD 会自动激活。\n\n该模组显示以下内容：\n- 空速（左侧，单位：方块/秒）\n- 高度（右侧，仅显示 Y 坐标）\n- 飞行路径标记\n- 俯仰梯\n- 航向\n\n坐上载具后，你可能需要按 V 键（默认）校准载具方向，直到标记指向正确的方向。\n\n你可以按 H 键（默认）切换 HUD 的显示与隐藏。\n\n这是我的第一个项目，因此可能会存在一些 Bug。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

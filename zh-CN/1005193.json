@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3d6add56de6f0a18",
+  "content": "<p>这是 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate-connected\" rel=\"nofollow\">Lysine 的 Create: Connected</a> 的 Fabric 移植版。\n所有权利归 Lysine 所有。</p>\n<h2>✅ 完整移植 —— 已实现 Forge 版本 1.1.13 的所有功能！</h2>\n<p>其中包括：</p>\n<ul>\n<li>所有动力方块（齿轮箱、离合器、剪切销、刹车、动力桥、动力电池、曲柄轮）</li>\n<li>所有复制猫方块（半砖、方块、梁、垂直台阶、楼梯、栅栏、栅栏门、墙、板）</li>\n<li>物品筒仓和流体容器</li>\n<li>装配体行为和挂载存储</li>\n<li>序列脉冲发生器和控制芯片</li>\n<li>链接发射器和链接按钮</li>\n<li>配置和功能切换系统</li>\n<li>风扇催化剂（所有类型）</li>\n<li>Ponders、配方、进度和数据生成</li>\n<li>模组兼容（Copycats+、Additional Placements）</li>\n<li>专用服务器支持</li>\n</ul>\n<h2>用法</h2>\n<p>使用条件与原模组相同。</p>\n<h2>问题反馈</h2>\n<p>对于 Fabric 特有的 bug，请在此移植版的仓库中报告。\n对于在 Forge 上也会出现的 bug，请在 <a href=\"https://github.com/hlysine/create_connected\" rel=\"nofollow\">上游仓库</a> 中报告。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

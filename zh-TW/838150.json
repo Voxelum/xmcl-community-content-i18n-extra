@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1a9a5c2793183ad5",
+  "content": "\n\n<p>讓您能夠透過 <a href=\"https://beta.curseforge.com/minecraft/mc-mods/projecte\" target=\"_blank\" rel=\"nofollow\">ProjectE</a> 模組設定物品的 EMC 數值以及哲人石的轉換方塊。下方將提供範例。</p>\n<p>&nbsp;</p>\n<p>在 server_scripts 中：</p>\n<pre><code>ProjectEEvents.setEMC(event =&gt; {\n    // 設定物品的絕對 EMC 數值\n    event.setEMC(\"minecraft:cobblestone\", 0) // 別名。setEMCAfter\n\n    // 在其他任何操作發生之前設定物品的 EMC 數值\n    // 這有時會導致此 EMC 數值無法被\n    // 設定，但同時它也允許從這個數值衍生出其他 EMC 數值；例如合成配方\n    event.setEMCBefore(\"minecraft:stick\", 10000);\n})\n\nItemEvents.rightClicked(\"minecraft:stick\", event =&gt; {\n    let player = event.player;\n\n    // getPlayerEMC 永遠會回傳字串\n    // 因為 EMC 數值可能會非常龐大\n    player.tell(\"您的 EMC 為 \" + ProjectE.getPlayerEMC(player))\n\n    ProjectE.addPlayerEMC(player, 1000);\n    // 第二個參數可以是字串，原因如上所述\n    // 也存在 ProjectE.setPlayerEMC 方法\n\n    player.tell(\"您新的 EMC 為 \" + ProjectE.getPlayerEMC(player))\n})</code></pre>\n<p>在 startup_scripts 中：&nbsp;</p>\n<pre><code>ProjectEEvents.registerWorldTransmutations(event =&gt; {\n    event.transform(\"minecraft:tnt\", \"minecraft:oak_planks\");\n})</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

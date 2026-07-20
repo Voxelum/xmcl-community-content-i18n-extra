@@ -1,0 +1,6 @@
+{
+  "bodyHash": "197726744897363e",
+  "content": "\n\n**WunderLib（非官方 Forge 移植版）—— Minecraft 1.20.1**\n\n本项目是 WunderLib 的**非官方 Forge 移植版**，专为 **Minecraft 1.20.1 的 Forge** 平台打造。其目的是让依赖 WunderLib 的模组能够在现代 Minecraft 版本的 Forge 平台上运行。仅支持 Forge（不支持 Fabric）。\n\n**本项目功能**\n\n在 Minecraft 1.20.1 的 Forge 平台上提供 WunderLib 库（供其他模组使用的依赖/工具库）。目标是尽可能保持与上游一致的功能，仅在必要时进行移植或兼容性修改。\n\n**为何下载**\n\n仅在模组或整合包要求使用 Forge 版的 WunderLib 时才下载此文件。WunderLib 是一个基础库，通常不会单独添加任何游戏内容。适用端：客户端与服务器端均需安装。\n\n**与原版（上游）的区别**\n\n- 加载器/平台：Forge（上游为 Fabric）\n- 目标：实现 Minecraft 1.20.1 的 Forge 兼容\n- 范围：尽可能保持与上游一致的行为；仅在需要时进行兼容性修复\n\n**致谢 / 归属**\n\n所有美术资源及大部分代码均归属于原版库的开发团队：BetterX Team。\n\n**原版项目（上游）**\n\nWunderLib (Fabric) 由 BetterX Team 开发（Modrinth）：https://modrinth.com/mod/wunderlib\n\n上游源码（GitHub）：https://github.com/quiqueck/WunderLib\n\n**支持与问题反馈**\n\n这是一个**非官方的 Forge 移植版**。请**不要**将问题反馈至 BetterX Team 的官方 Discord 或 GitHub，因为他们不负责维护此移植版。\n\n如需报告此 Forge 版本相关的 Bug 或寻求支持，请使用本移植版的 GitHub Issues 页面：https://github.com/Reijin2312/WunderLib_Forge/issues\n\n如果此移植版引发的问题影响了上游社区，请直接联系我。\n\nBetterX Discord（上游社区）：https://discord.com/invite/kYuATbYbKW",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

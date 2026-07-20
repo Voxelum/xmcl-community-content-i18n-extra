@@ -1,0 +1,6 @@
+{
+  "bodyHash": "04f74961785ed3c8",
+  "content": "\n\n## 什么是 Tricked 光影？\n基于 [Mellow Shader](https://modrinth.com/shader/mellow)\n\nTricked 光影在提升 Minecraft 视觉效果的同时，保持了合理的性能开销（至少对我而言），并忠于原版的美学风格。它侧重于完善现有内容，而非试图将 Minecraft 打造成超写实体验。\n\n与原版 Mellow 光影相比，我的版本在不牺牲色彩或清晰度的前提下降低了整体亮度，使游戏呈现出更深邃、更具氛围感的外观。在各种光照场景下，末地、下界和主世界都显得更为平衡、丰富且沉浸。所有设置均可自定义，但已移除预设配置档，以免破坏用户已有的设置。\n\n# 原始说明\n### 功能特性\n- 广泛的模组兼容性：Distant Horizons、Voxy、Colorwheel 等。\n- 多种预设配色方案\n- 全面且可自定义的雾气系统\n- 多种风格的云朵\n- 基于光照贴图或阴影贴图的阴影效果\n- 全面的色彩分级（饱和度、曝光度、色彩平衡工具等）\n- 易于调整的色彩设置\n### 兼容性\n- 目前仅测试了 1.17 及更高版本。早期版本可能兼容也可能不兼容。\n- Windows 和 Linux 上的现代 Nvidia、AMD 和 Intel GPU 均受支持。Mac 设备可能兼容也可能不兼容。\n- 请使用最新版的 Iris（任何支持自定义 Uniform 的版本均可）。Optifine 存在一些小 bug，但大部分功能也能正常运行。\n\n\n（光影包仅在 Mellow 有重大视觉升级时才会更新 :D）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

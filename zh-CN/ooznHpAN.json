@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ee6b545fb8ecf2c1",
+  "content": "\n\n无空闲动画\n==================\n\n移除空闲时手部摆动的动画。\n\n这是一个非常简单的 Fabric Minecraft 模组，用于移除玩家空闲时的手臂摆动动画。\n安装此模组后，玩家的手臂将不会移动，而是紧贴身体两侧保持静止。\n\n开发该模组是为了能够拍摄玩家模型的精确截图，避免动画影响最终结果。\n这使得玩家模型的截图具有可复现性，因为其中不涉及任何随机因素。\n\n链接\n-----\n\n* [电子邮件][1]\n* [源代码][2]\n* [Modrinth][3]\n\n免责声明\n----------\n\n非官方 Minecraft 产品。未经 Mojang 或 Microsoft 批准，也不与之关联。\n\n[1]: mailto:dima.o.sh@proton.me (给该项目作者发送邮件)\n[2]: https://gitlab.com/-/p/80323449 (本项目的源代码)\n[3]: https://modrinth.com/project/ooznHpAN (本项目在 Modrinth 上的页面)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

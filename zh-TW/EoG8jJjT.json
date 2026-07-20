@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5d556c4d8c081c8",
+  "content": "\n\n# Create 機械雞\n\n為 Create 設計的附加模組。\n透過旋轉動力與物品原料來生產牛奶。\n\n## 1.21.1-2.x 版本需要 Mechanicals Lib\n- [Modrinth](https://modrinth.com/mod/mechanicals-lib \"Modrinth\")\n\n## 功能特色\n\n- 機械牛動力方塊。\n- Ponder\n- 相容性：JEI & JADE\n- 可自訂設定：\n    - 處理時間\n    - 輸出數量\n    - 輸出流體\n    - 動力負載影響\n    - 流體容量\n    - 所需原料\n    - 所需原料數量\n    - 音效音量\n\n**感謝 Create 的開發者們。**\n\n## 授權條款\nCreate 機械牛採用 LGPL3 授權條款。詳情請參閱 [LICENSE](LICENSE)。\n\n部分程式碼源自 Create 模組，該模組採用 MIT 授權條款。詳情請參閱 [Create's license](https://github.com/Creators-of-Create/Create/blob/mc1.18/dev/LICENSE)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "62f5cb485d85a46b",
+  "content": "\n\n<center>\n\n![Anti Item Break Banner](https://cdn.modrinth.com/data/cached_images/f93c241dc4a51c1db8ef39fbee55fb8f51224b45.png)\n\n---\n\n[<img alt=\"discord-plural\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png\">](https://discord.gg/tqn38v6w7k)\n[<img alt=\"fabric-api\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_64h.png\">](https://modrinth.com/mod/fabric-api)\n[<img alt=\"yacl\" height=\"56\" src=\"https://i.ibb.co/HTLrwVft/cozy-64h-1.png\" alt=\"cozy-64h-1\">](https://modrinth.com/mod/yacl)\n[<img alt=\"modmenu\" height=\"56\" src=\"https://i.postimg.cc/MTv30Q1c/cozy-64h.png\">](https://modrinth.com/mod/modmenu)\n\n\n此 Fabric 模組可防止物品意外損壞，當物品耐久度降至 1 時便會自動停用。\n</center>\n\n\n---\n\n### 低耐久度範例\n![Broken Item example](https://i.ibb.co/PzQCd5Cg/2025-09-30-14-33-39.png)\n當工具達到特定耐久度時，將完全停止運作。畫面會顯示動作列，您可按住忽略按鈕以強制繼續使用該工具（工具隨後會損壞）。\n\n---\n\n### 設定畫面\n![Configuration Screen](https://i.ibb.co/1fYSKbPj/2025-09-30-14-36-25.png)\n設定介面允許您針對各物品個別啟用模組，提供「始終啟用」、「僅於物品附魔時啟用」或「完全關閉」等選項。預設情況下，所有項目均為開啟狀態。\n\n---\n\n此模組亦相容於多數其他模組新增的物品！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

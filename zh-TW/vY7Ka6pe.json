@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2sdMpXrkz8M=",
-  "content": "通常情況下，無論使用何種工具，玻璃都會以固定的速度被破壞。\n\n這個模組改變了這一點，現在用鎬子可以更快地破壞玻璃，就像破壞其他方塊一樣。\n\n![玻璃破壞者](https://cdn.modrinth.com/data/vY7Ka6pe/images/17604688dbbc2ade2c268eb3b4d2db42534831cb.gif)\n\n遊戲中被視為「玻璃」的方塊清單：\n* 玻璃方塊 + 玻璃片 + 染色玻璃（這還用說）\n* 螢光石\n* 紅石燈（1.20 以上版本）\n* 海燈籠\n* 烽火台\n* 潮汐核心\n\n兼容項目：\n* 效率、絲綢之觸等附魔。\n* 任何新增鎬子的模組，包括類似鎬子的工具，例如 [Pickle Tweaks](https://modrinth.com/mod/pickle-tweaks) 的多功能工具。\n* 任何新增玻璃的模組，例如 [Glassential](https://modrinth.com/mod/glassential)！\n\n（老實說，它的運作方式有點取巧，但應該沒問題 ;)）\n\n*（如果你正在尋找原版兼容的資料包替代方案，請查看 [Pickaxe Effective Glass](https://modrinth.com/datapack/purpurpacks-pickaxe-effective-glass)！但請注意，由於原版資料包系統的限制，它僅能作用於原版玻璃。）*",
+  "bodyHash": "2976519eab48c375",
+  "content": "\n\n通常玻璃的破壞速度是固定的，無論你使用什麼工具。\n\n本模組改變了這項機制，現在使用鎬可以更快地破壞玻璃，就像破壞其他方塊一樣。\n\n![glassbreaker](https://cdn.modrinth.com/data/vY7Ka6pe/images/17604688dbbc2ade2c268eb3b4d2db42534831cb.gif)\n\n遊戲視為「玻璃」的方塊清單：\n* 玻璃方塊 + 玻璃板 + 染色版本（理所當然）\n* 螢石\n* 紅石燈（1.20+）\n* 海晶燈\n* 信標\n* 引導器\n\n相容於：\n* 效率、精準採集等附魔\n* 任何新增鎬的模組，包含類似鎬的工具，例如 [Pickle Tweaks](https://modrinth.com/mod/pickle-tweaks) 的三用鎬。\n* 任何新增玻璃的模組，例如 [Glassential](https://modrinth.com/mod/glassential)！\n\n（老實說它運作的機制有點取巧，但應該沒問題 ;) ）\n\n*（如果你正在尋找與原版相容的數據包替代品，可以看看 [Pickaxe Effective Glass](https://modrinth.com/datapack/purpurpacks-pickaxe-effective-glass)！不過請注意，由於原版數據包系統的限制，它僅適用於原版玻璃。）*",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

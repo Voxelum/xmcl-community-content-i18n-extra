@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ec10638276f95477",
+  "content": "<p>一款试图在保持极简“原版”美学的同时添加一些可选功能的 Minecraft Java 着色器：</p>\n<ul>\n<li>摇曳的植物。</li>\n<li>FXAA（抗锯齿）。</li>\n<li>锐利/柔和阴影。</li>\n<li>CSM（级联阴影贴图）。 <strong>*</strong></li>\n<li>动态彩色光照。 <strong>*</strong></li>\n<li>光线追踪方块光照阴影。 <strong>*</strong></li>\n<li>体积雾光照。</li>\n<li>POM（视差遮蔽映射）。</li>\n<li>法线贴图。</li>\n<li>高光（光泽度）。</li>\n</ul>\n<p><strong>*</strong> 需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252fchannels%252f774352792659820594%252f1093675994025566268\" rel=\"nofollow\">Iris 1.6</a> 或更高版本才能使用这些功能！</p>\n<h4>特别感谢</h4>\n<ul>\n<li>Fayer：在质量保证、支持、修复和激励方面提供了<strong>非常</strong>详尽的帮助。</li>\n<li>Builderb0y：帮助优化了支持体素化核心的位运算技巧。</li>\n<li>Bálint：创建了精美的 Iris 警告界面，并进一步协助解决了复杂的位移运算问题。</li>\n<li>Tech：帮助实现了改进的柔和阴影过滤与抖动效果。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

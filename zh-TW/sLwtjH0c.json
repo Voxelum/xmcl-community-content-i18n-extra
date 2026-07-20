@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ccdb1fc1fda2202e",
+  "content": "\n\n# 深色透明 GUI\n此材質包會將所有圖形使用者介面（GUI 與 HUD）改為透明且極簡的設計，僅保留黑色邊框，讓你能享有不受干擾的遊戲視野。\n\n## 截圖\n\n![Inventory](https://cdn.modrinth.com/data/sLwtjH0c/images/9e0fedd365a8be032d516d0e869181311715d474.png)\n![Crafting](https://cdn.modrinth.com/data/sLwtjH0c/images/181f58d5b45792472b72ed22f3e331a7a20b4be3.png)\n\n[更多截圖](https://modrinth.com/resourcepack/dark-transparent-gui/gallery)\n\n選配安裝：\n- 安裝 [Respackopts](https://modrinth.com/mod/respackopts)（v2.3.0+）以啟用設定選單（DTG v3.0+）——你可選擇不同的背景選單圖片，並停用部分紋理\n- 安裝 [OptiFine](https://optifine.net/) 可在 Mojang 標誌載入畫面顯示黑色背景\n\n此材質包也可於 [CurseForge](https://www.curseforge.com/minecraft/texture-packs/dark-transparent-gui) 取得。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

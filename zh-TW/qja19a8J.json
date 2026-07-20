@@ -1,6 +1,6 @@
 {
-  "bodyHash": "wbgVeE1QOwo=",
-  "content": "一個旨在為遊戲添加不同類型警報器和警笛的Fabric模組。\n\n目前此模組的功能有限，因為我剛開始開發，但我計劃添加更多內容，請加入Discord並向我提出建議。\n\n\n**方塊：**\n\n煙霧探測器（可探測探測器下方4x4x4區域內的火災）\n\n通用警報器（可通過紅石激活/停用）\n\n\n**物品：**\n\nKAC鑰匙1（目前沒有任何功能）\n\nKAC鑰匙2（目前沒有任何功能）\n\n\n**連結：**\n\n[Discord](https://discord.gg/xaGMZVHfbN)（在此回報錯誤和請求功能）",
+  "bodyHash": "5971aad92bd2831d",
+  "content": "\n\n這是一個旨在為遊戲添加多種類型警報器與警笛的 Fabric 模組。\n\n由於我才剛開始開發，目前模組的功能還相當有限，但我計畫未來會持續增加。歡迎加入 Discord，並分享你的構想與建議。\n\n\n**方塊：**\n\n煙霧探測器（可偵測探測器下方 4x4x4 範圍內的火災）\n\n通用警報器（可透過紅石啟動或關閉）\n\n\n**物品：**\n\nKAC 鑰匙 1（目前沒有任何功能）\n\nKAC 鑰匙 2（目前沒有任何功能）\n\n\n**連結：**\n\n[Discord](https://discord.gg/xaGMZVHfbN)（在此回報問題與提出新功能建議）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

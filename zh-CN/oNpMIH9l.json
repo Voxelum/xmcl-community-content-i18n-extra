@@ -1,6 +1,6 @@
 {
-  "bodyHash": "oO3D+QO/h2M=",
-  "content": "# C&K：珍珠果酱\n\nC&K：珍珠果酱是作物与茶壶（Crop and Kettle）的一个小型附属模组，添加了来自《JOJO的奇妙冒险》中的珍珠果酱玩偶。\n\n目前，C&K：珍珠果酱添加了珍珠果酱玩偶，一个可以用作物与茶壶的烹饪锅烹饪的小玩偶！\n\n如果你好奇如何获得珍珠果酱玩偶，不妨看看当地肉店有没有上架新商品……\n\n嘿！这是一个附属数据包！如果没有安装作物与茶壶（[GitHub页面](https://github.com/maybejake/crop-and-kettle) [Modrinth页面](https://modrinth.com/datapack/crop-and-kettle)），它将无法生效，甚至可能导致游戏崩溃。请先安装它！\n\n## 常见问题解答：\n> 为什么材质无法正常显示？\n> \n在可下载的数据包文件下方，你可以找到资源包。请确保将其放入资源包文件夹并启用它。（如果你使用的是模组版本，则无需此操作。）（如果你使用的是1.0.0之前的旧版本，该文件同时兼具数据包和资源包的功能。~~~~）\n\n> 你会移植到XYZ版本吗？\n> \n这完全取决于情况，我大概率不会移植，除非我有时间！此外，作物与茶壶无法在1.21.6之前的版本运行，而C&K 1.3也无法移植到1.21.11之前的版本。\n\n---\n\n创作者：\nStateus 和 Pan_Womsacz\n\n珍珠果酱玩偶模型由 [chochi](https://x.com/i/status/1831374345526243654) 制作\n\n应求制作：\nRiverdog Deyna",
+  "bodyHash": "6812d5fe59d60a55",
+  "content": "\n\n# C&K: Pearl Jam\nC&K: Pearl Jam 是 Crop and Kettle 的一个小型附加组件，为《JOJO的奇妙冒险》中的 Pearl Jam 添加了毛绒玩偶。\n\n目前，C&K: Pearl Jam 添加了该毛绒玩偶，这是一个可以用 Crop and Kettle 的烹饪锅进行烹饪的小玩偶！\n\n如果你好奇如何获得 Pearl Jam 毛绒玩偶，不妨去你当地的肉铺看看有没有新进货……\n\n注意！这是一个附加数据包！如果没有安装 Crop and Kettle（[GitHub 页面](https://github.com/maybejake/crop-and-kettle) [Modrinth 页面](https://modrinth.com/datapack/crop-and-kettle)），它将毫无作用或导致游戏崩溃。快去安装吧！\n\n## 常见问题：\n> 为什么材质不生效？\n> \n在可下载的数据包文件下方，你可以找到资源包。请将其添加到你的资源包文件夹中并启用。（如果你使用的是模组版本，则无需此步骤。）（如果你使用的是 1.0.0 之前的旧版本，该文件同时作为数据包和资源包使用。~~~~）\n\n> 你会移植到 XYZ 版本吗？\n> \n这要看情况，除非我有时间，否则大概率不会！此外，Crop and Kettle 在 1.21.6 之前无法正常运行，且 C&K 1.3 也无法回溯移植到 1.21.11 之前的版本。\n\n---\n\n作者：\nStateus and Pan_Womsacz\n\nPearl Jam 毛绒玩偶模型由 [chochi](https://x.com/i/status/1831374345526243654) 制作\n\n请求者：\nRiverdog Deyna",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

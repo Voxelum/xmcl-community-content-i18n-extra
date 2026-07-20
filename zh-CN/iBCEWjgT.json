@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ba05bf7e0b3d1098",
+  "content": "**注意：这是一个非常早期的项目，因此非常感谢您的任何反馈。**\n\nDistant Horizons Dimension Toggler（简称 DHDT）允许您根据白名单启用或禁用远距离地平线渲染功能（默认情况下仅在末地和主世界启用）。\n\n![nether fog with dh rendering off](https://i.redd.it/ryqjf2gabhv31.png)\n![overworld](https://wsrv.nl/?url=https%3A%2F%2Fmedia.forgecdn.net%2Fattachments%2F880%2F249%2Fdh-512-rd.jpg&n=-1)\n\n**当前功能：**\n- 在非白名单维度（主世界和末地除外）中禁用 DH 渲染。\n- 修复由 DH 引起的模组维度问题（例如 Cosmic Horizons）。\n\n**计划功能：**\n- 配置选项以设置白名单/黑名单。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

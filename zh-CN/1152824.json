@@ -1,0 +1,6 @@
+{
+  "bodyHash": "18ff5399afdd7d25",
+  "content": "\n\n<p><img src=\"https://media.forgecdn.net/attachments/description/1152824/description_de32c127-f717-49af-b6d6-760ba64a0d9f.png\" alt=\"\" width=\"768\" height=\"192\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1152824/description_53c3ec94-fd3f-4994-8dbf-94eff79a1d99.png\" width=\"768\" height=\"96\"></p>\n<p>MoonlightCore 是对模组加载器（如“Fabric”、“Forge”以及未来的“NeoForge”）的一种层抽象（某种程度上）。本模组是一个类库，专为协助多加载器模组开发而设计，提供如下 API：</p>\n<ul>\n<li>配置</li>\n<li>注册表</li>\n<li>网络通信</li>\n<li>附加数据</li>\n<li>能力</li>\n<li>传输 API</li>\n<li>世界生成</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

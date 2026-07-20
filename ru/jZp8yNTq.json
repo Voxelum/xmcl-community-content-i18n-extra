@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Bz+vbqvW69g=",
-  "content": "## Простые настройки боевых знамён для Simply Swords\n\nДополнение для Fabric к моду Simply Swords (1.20.1), которое позволяет настраивать жёстко заданные значения боевых знамён (Абиссальное знамя и Галефорс).\n\n### Возможности\n\n- Настроить уровни усиления эффектов, предоставляемых игроку и другим сущностям.\n- Изменить эффективный радиус действия ауры знамени.\n- Модифицировать урон от области действия Галефорса.\n\nРасположение конфигурационного файла: **config/simplyswords_main/battle_standard_tweaks.json**\n\n\n### Кредиты\n\n- Основано на идее [ImEden6](https://github.com/ImEden6) из мода [Haste Tweaks](https://github.com/ImEden6/simplyswords-haste-tweaks)",
+  "bodyHash": "68d400912954af75",
+  "content": "\n\n## Настройки боевых знамен Simply Swords\n\nДополнение для Fabric для Simply Swords (1.20.1), позволяющее настраивать встроенные параметры Боевых знамен (Знамя Бездны и Galeforce).\n\n### Возможности\n\n- Настраивайте уровни усиления эффектов, получаемые игроком и другими сущностями.\n- Изменяйте эффективный радиус действия ауры знамени.\n- Изменяйте урон по площади (AoE) знамени Galeforce.\n\nПуть к файлу конфигурации: **config/simplyswords_main/battle_standard_tweaks.json**\n\n\n### Благодарности\n\n- Основано на идее [ImEden6](https://github.com/ImEden6) для мода [Haste Tweaks](https://github.com/ImEden6/simplyswords-haste-tweaks)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

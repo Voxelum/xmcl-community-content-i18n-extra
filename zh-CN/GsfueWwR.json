@@ -1,0 +1,6 @@
+{
+  "bodyHash": "da4fa058094a0822",
+  "content": "\n\nHarderBeds 让睡眠变得更加困难且富有策略性。在原版玩法中，跳过夜晚太过简单，削弱了生存挑战。本模组让床更难获取，且只有在确保免受怪物侵害时才能使用，迫使玩家提前规划并确保安全。\n\n## 功能特性：\n\n- 要求床铺必须做好防怪保护后才能入睡。游戏会检测床周围 40x20x40 区域内的潜在怪物生成点及寻路路径。若怪物能够生成并抵达玩家所在位置，则拒绝睡眠，直到该区域被清理或确保安全。\n\n![Pathing Check](https://cdn.modrinth.com/data/cached_images/8d1c11529d34e09dd1a4d0acbd9cd2c420ed3a93_0.webp)\n  \n- 修改了床的合成配方，需加入铁锭与一枚末影珍珠，使床的合成更为困难：\n![New Recipe](https://cdn.modrinth.com/data/cached_images/52754006db2c9415ff1a79c3ef839d0d026dd8b3.png)\n\n\n- 在村庄内使用床会附加惩罚（施加负面药水效果），从而增加风险。\n![Effects](https://cdn.modrinth.com/data/cached_images/c722ff315a7cdbdea52e48d5177d277e29275db5.png)\n\n- 阻止床在村庄中掉落，使其更加稀有。\n\n- 禁用幻翼生成（跳过睡眠不再产生惩罚）。\n\n## 说明：\n\n- 所有设置均可通过 ModMenu 轻松调整。\n\n- 如果你不想使用新的合成配方，可以删除模组 `.jar` 文件中的相关 JSON 文件以禁用它们。\n\n<br>\n\n### 欢迎在 GitHub 上提供反馈！:)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

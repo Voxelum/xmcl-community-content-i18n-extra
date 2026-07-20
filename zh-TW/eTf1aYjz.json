@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c4967ad304a0e05f",
+  "content": "\n\n## 沒有光 — 就沒有色彩！\n\n![樹與河邊的火把](https://cdn.modrinth.com/data/cached_images/33485936c705e5279cde430b8d14ac0ac58a4c04.jpeg)\n---\n此資源包會讓方塊在方塊光源較弱時，平滑地降低色彩鮮豔度。天空光不會影響此效果，只有方塊光源會生效。請注意——此資源包僅適用於**大多數方塊**。實體、部分方塊實體、粒子及其他元素將不受影響，因為它們採用不同的光照運算方式。未來我或許會嘗試讓實體和方塊實體也能套用此效果。\n\n### 適用版本：<FONT COLOR=\"#3598db\">1.17</FONT> — <FONT COLOR=\"#ff39eb\">1.21.11+</FONT>\n\n### **不需要** <FONT COLOR=\"#e74c3c\">**OptiFine**</FONT>，且與之相容。\n### 可搭配 [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) 模組使用。\n### 無法與 Sodium 相容。\n---\n## 自訂設定\n你也可以調整半徑與平滑度，來改變光源為方塊著色的範圍與過渡效果。\n請開啟資源包中的檔案 `assets/minecraft/shaders/include/no_light_no_color.glsl`。你可以修改前兩行的數值。這些變數的運作方式不太直覺，建議反覆調整直到結果令你滿意為止。\n\n此處的半徑變數設定為 82：\n![此處的半徑變數設定為 82](https://cdn.modrinth.com/data/cached_images/4f9331d6088e779a74cbfc3c07aa50dff09ba8a5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

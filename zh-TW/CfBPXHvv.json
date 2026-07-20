@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b3b523c241579ba1",
+  "content": "\n\n**專為 Open Parties and Claims 設計的附加模組，新增允許玩家獲取額外領地聲明的物品。**\n對於伺服器管理員與模組包創作者而言相當實用。\n\n您可以將這些新物品設為任務獎勵，或在管理員商店中販售。（不含合成配方。）\n\n**此外，管理員也能使用以下指令：**\n\n/opacbonusclaims claims <nickname> plus/minus <amount>\n \n/opacbonusclaims forceloads <nickname> plus/minus <amount>\n\n![Claim items](https://cdn.modrinth.com/data/cached_images/dac871117fa3e7dde20cae99dedfe921994ee681.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

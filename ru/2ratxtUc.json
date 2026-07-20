@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8cf84f9ef637caaa",
+  "content": "\n\n# OmniMiner\n\n无需进入创造模式，即可快速开采相连的方块。\n\nOmniMiner 允许你按住按键，一次性破坏相同类型的相连方块。只要使用正确的工具，该功能适用于矿石、原木、石头等多种方块。开采前，模组会显示高亮轮廓与方块数量，让你清晰了解开采范围。\n\n## 功能特性\n\n- 使用默认 `V` 键一键开采相连方块\n- 支持可选的切换模式（Toggle Mode）\n- 开采前预览高亮轮廓与方块数量\n- 记录并显示已开采的矿石、原木或方块总数\n- 自动拾取掉落物与经验球\n- 可自定义最大开采方块数、对角线搜索范围、轮廓颜色及粗细\n- 砍伐原木时可选自动清理树叶\n- 默认排除箱子等方块实体\n- 提供服务器指令用于修改常用设置\n- 支持 Geyser/Floodgate 服务器上的基岩版玩家，包含潜行激活与粒子预览功能\n\n## 按键绑定\n\n- `V` - 一键采矿\n- `O` - 打开 OmniMiner 设置界面\n\n## 配置说明\n\n可通过 Mod Menu 在游戏内修改配置，或直接编辑：\n\n`config/omniminer.json`\n\n服务器指令：\n\n`/omniminer help`\n\n## 依赖要求\n\n- Fabric Loader\n- Fabric API\n- Cloth Config\n- 强烈推荐使用 Mod Menu 以使用图形化配置界面\n\nJava 版玩家需在客户端与服务器端同时安装。在 Geyser/Floodgate 服务器上，基岩版玩家可通过潜行键激活该功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

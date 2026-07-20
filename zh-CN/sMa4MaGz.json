@@ -1,0 +1,6 @@
+{
+  "bodyHash": "add430d4a6ba4caa",
+  "content": "\n\n这是什么模组？\n该模组添加了一个名为 Pinout 的方块，它是 CC:Tweaked 的外设，旨在实现 CC:Tweaked 与 Create: Power Grid 之间的兼容。\n\nPinout 是什么？\nPinout 是一款 CC:Tweaked 外设，配备 9 个 Create: Power Grid 的电气引脚。\n\n它适合谁？\nPinout 适合那些希望构建更复杂控制系统，而无需自行发明能够胜任此工作的模拟硬件的玩家。\n\n它有哪些功能？\n- 添加了一个新方块：Pinout。\nPinout 提供：\n- 用于计算机控制的 CC:Tweaked API。\n- 允许 Lua 程序将引脚 1–8 连接或断开至一个公共共用引脚。\n- 允许 Lua 程序测量任意引脚间的电压。\n\nCC:Tweaked API\nPinout 提供了多个 Lua 函数，包括：\nconnectPin(pin)\ndisconnectPin(pin)\nsetPins(table)\nsetByte(value)\npinsConnected()\npinsVoltage(referencePin)\ncomparePin(pin, referencePin)\npinLayout()\n这使得控制单个引脚、同时更新多个引脚、输出 8 位数值或读取引脚间的电压差成为可能。\n\n本模组的部分代码由生成式 AI 辅助创建。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

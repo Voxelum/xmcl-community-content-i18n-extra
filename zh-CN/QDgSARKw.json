@@ -1,6 +1,6 @@
 {
-  "bodyHash": "35758e6b45819cf0",
-  "content": "\n\nMinecraft 使用 GLFW 作为底层窗口库。本模组将 Minecraft 移植至 SDL3，以带来以下改进：\n\n- 更好的输入法（IME）支持\n- 更好的 Wayland 支持\n- 更高效的事件轮询（通过消除 GLFW 的 JNI 回调）\n- 更多功能即将推出……",
+  "bodyHash": "f0d358c73c5e8b40",
+  "content": "\n\nMinecraft 使用 GLFW 作为底层窗口库。本模组将 Minecraft 移植到 SDL3，以获得：\n\n- 更好的输入法（IME）支持\n- 更好的 Wayland 支持\n- 更高效的事件轮询（通过消除 GLFW 的 JNI 回调）\n- 更多功能即将推出……\n\nMojang 已在 26.3-snapshot 4 中使用了 SDL3。因此 BlazeSDL 将不再支持后续的新版本！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

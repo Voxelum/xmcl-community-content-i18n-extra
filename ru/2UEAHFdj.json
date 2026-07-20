@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac4b0e637ba771b9",
+  "content": "\n\n# Корректный хитбокс copper_golem_statue\nЭтот набор ресурсов изменяет модель copper_golem_statue(pose:standing), чтобы она визуально больше соответствовала своему реальному хитбоксу.\n\nБудет полезен для проверки хитбокса при использовании copper_golem_statue для выравнивания сущностей и подобных целей.\n\n\n(В качестве побочного эффекта модель copper_golem также изменена на прямоугольную форму.)\n<br>(Требуется мод EMF.)\n<br>\n\n\n![Все позы](https://cdn.modrinth.com/data/2UEAHFdj/images/f6ccbca7806ac0103dff2d0060683a186c47a5e2.png)\n![Все статуи](https://cdn.modrinth.com/data/2UEAHFdj/images/fb7d780d2e4a395fef1bf447f3fd58a3d9abd032.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

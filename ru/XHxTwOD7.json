@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ef458143b8b866a0",
+  "content": "\n\n[![][cf-shield]][cf-link]\n\n## Это больше не требуется в TMRV 0.9.0\n\n**Это мод только для клиента на Neoforge, исправляющий взаимодействие между EMI, TMRV и Visual Workbench.**\n\nНапример, если для крафта нужно 4 предмета, но 2 из них уже лежат в верстаке, добавление рецепта через EMI не сработает, поскольку он видит только эти 2 предмета в вашем инвентаре. Этот мод просто исправляет проблему, отключая плагин JEI для Visual Workbench и позволяя EMI обрабатывать всё самостоятельно.\n\n[cf-shield]: https://img.shields.io/curseforge/dt/1492579?style=for-the-badge&logo=curseforge&label=curseforge&labelColor=black&color=%23F16436\n[cf-link]: https://legacy.curseforge.com/minecraft/mc-mods/uhhwhydoyoudothatvisualworkbench",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

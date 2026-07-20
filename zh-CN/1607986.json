@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ed07fd5a9520906",
+  "content": "\n\n<h1><strong>什么是 Weight？</strong></h1>\n<p><strong>Weight</strong> 是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-aeronautics\" target=\"_blank\" rel=\"nofollow\">Create: Aeronautics</a> 的附加组件，它让玩家的站位对模拟的机械装置产生影响。</p>\n<p>站在甲板上的<strong>玩家</strong>和<strong>生物</strong>会为<strong>Sable 的物理模拟</strong>增加真实的质量。</p>\n<h1>玩法</h1>\n<p><strong>玩家</strong>拥有<strong>自己的体重</strong>，若聚集在船的一侧，船体会向你倾斜。没有脚本预设效果，纯粹是<strong>物理</strong>作用。</p>\n<p><strong>跳跃</strong>&nbsp;与&nbsp;<strong>落地</strong>&nbsp;会对甲板产生真实的冲击力，其力度会根据你跳跃或下落的强度进行缩放。</p>\n<h1>配置</h1>\n<p>所有数值 &mdash; 玩家质量、跳跃冲量强度、生物重量 &mdash; 均可在游戏中调整！</p>\n<h1>问题反馈</h1>\n<p>如果你遇到任何与此模组相关的错误或问题，请在此处告诉我：<a href=\"https://github.com/emariduble-cmd/Weight/issues\" target=\"_blank\" rel=\"nofollow\">这里</a>。谢谢！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

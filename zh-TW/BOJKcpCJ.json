@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c056eccba2decf7",
+  "content": "\n\n![icon](https://cdn.modrinth.com/data/cached_images/ca235cb555cf1550995ee223223e5c532ce586cf.png)<br>\n**[TweakerMore](https://github.com/Fallen-Breath/tweakermore) 非官方 (Neo)Forge 移植版。**\n\n本模組需要 [MaFgLib](https://modrinth.com/mod/mafglib) 與 [Mixin Args](https://www.curseforge.com/minecraft/mc-mods/mixin-args)（當 Minecraft 版本 < 1.20 時）\n\n功能特色（描述來源於原始專案）：  \n一系列用戶端調整套件，用於提升您的 Minecraft 遊戲體驗。所有功能預設皆為關閉狀態，因此在啟用任何調整前，您無需擔心遊戲會變得「非原版」。  \n請點擊[這裡](https://github.com/Fallen-Breath/tweakermore/tree/master/docs)查看所有可用選項的文件說明  \n\n**提示：部分針對其他模組的調整無法在此模組中啟用，因為某些模組僅支援 Fabric 移植版。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

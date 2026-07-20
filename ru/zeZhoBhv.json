@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1e77a22a6bdc7ea5",
+  "content": "\n\nNeo Auth — это версия мода [Auth Me](https://modrinth.com/mod/auth-me) от [Axieum](https://modrinth.com/user/axieum) для NeoForge.\n\n### Описание\n**Цитата из оригинального мода:**<br>\n`Minecraft-мод, который добавляет аутентификацию учётных записей в игру для борьбы со знаменитой ошибкой проверки сессии при подключении к серверу.`\n\nNeoAuth создан специально для загрузчика модов [NeoForge](https://neoforged.net/), в отличие от оригинальной версии Auth Me на Fabric. Сохраняя практически всю функциональность Auth Me, эта версия для NeoForge не поддерживает аутентификацию в офлайн-режиме.\n\nКак и Auth Me, NeoAuth — это мод, работающий **только на стороне клиента**.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

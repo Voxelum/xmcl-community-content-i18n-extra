@@ -1,0 +1,6 @@
+{
+  "bodyHash": "19289d80fa98f2cf",
+  "content": "\n\n## 航空速度轮\n\n**航空速度轮** 是 Create: Aeronautics 的一个附加模组，为越野轮毂引入了可配置的**速度调节器**。\n\n### 功能特性\n\n- **右键点击**轮毂可提高其速度与抓地力。\n- **按住 Shift + 右键点击**可降低速度与抓地力。\n- Create 的动能应力会随倍率成比例增加。\n- 最小与最大倍率可在每个服务器世界中自定义配置。\n- 默认倍率范围为 **0.5×–4.0×**。\n- 内置完整的英文与俄文本地化支持。\n\n### 依赖要求\n\n- Minecraft **1.21.1**\n- NeoForge\n- Create\n- Create: Aeronautics\n- Sable **1.2.2+**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

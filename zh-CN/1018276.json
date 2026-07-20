@@ -1,6 +1,6 @@
 {
-  "bodyHash": "31nm8MlRmAQ=",
-  "content": "<p>基于BetterBiomeBlend的1.21.x更新版本</p><p>原版现已更新！请使用原版！</p><p>旧版本请使用原版<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fbetter-biome-blend\" target=\"_blank\" rel=\"nofollow\">Better Biome Blend</a></p><h1>关于</h1><p>Better Biome Blend是一个客户端性能和错误修复模组。它增加了对平滑、大规模、sRGB正确生物群系颜色过渡的支持。安装该模组后，您可以在视频选项中设置\"生物群系混合\"范围为0x0至29x29。相比原版，该设置不再影响性能。</p><h1>关于1.18+版本</h1><p>Better Biome Blend始终使用29x29的生物群系混合半径（除非使用Sodium，此时强制为14x14）。这是因为生物群系现在变为3D而非2D，使得生物群系颜色计算更加复杂。为此需要编写更专业的算法，但作为回报，该模组在1.17版本中依然保持同样速度。Better Biome Blend还完全支持洞穴中的草地、水和树叶，而原版目前尚未支持。</p><h1>兼容性</h1><ul>\n<li>Sodium：在1.21.x版本中与0.6.x完全兼容</li>\n<li>Sodium：在1.20版本中与0.4.11兼容，但不支持0.5.0</li>\n</ul><h1>使用方法：</h1><p>您可以放心在任何整合包中使用此模组。当然，注明出处会更好。</p>",
+  "bodyHash": "88fde7078e950a36",
+  "content": "\n\n<p>适用于 1.21.x 的 BetterBiomeBlend 更新版本</p>\n<p>原版现已更新至最新版本！请直接使用原版替代！</p>\n<p>对于旧版游戏，请使用原版 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fbetter-biome-blend\" target=\"_blank\" rel=\"nofollow\">Better Biome Blend</a></p>\n<h1>简介</h1>\n<p>Better Biome Blend 是一款客户端性能优化与 Bug 修复模组。它支持平滑的大范围、符合 sRGB 色彩标准的生物群系颜色过渡。安装本模组后，你可以在视频设置中将“生物群系混合”选项从 0x0 调整至 29x29。与原版相比，此设置不再影响性能。</p>\n<h1>关于 1.18+</h1>\n<p>Better Biome Blend 将始终使用 29x29 的生物群系混合半径（若使用 Sodium，则强制为 14x14）。这是因为生物群系现在改为 3D 而非 2D，使得群系颜色计算变得更为复杂。这需要编写更专用的算法，但作为回报，模组性能仍保持在 1.17 时代的水平。Better Biome Blend 还完全支持洞穴内的草方块、水体和树叶着色，而原版目前尚不支持。</p>\n<h1>兼容性</h1>\n<ul>\n<li>Sodium：在 1.21.x 上，0.6.x 版本完全兼容</li>\n<li>Sodium：在 1.20 上，0.4.11 版本兼容，但 0.5.0 不兼容。</li>\n</ul>\n<h1>使用方法：</h1>\n<p>你可以放心在任何整合包中使用本模组。不过，若能注明出处将不胜感激。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "248581813de81041",
+  "content": "\n\n變更單一區塊會影響所有區塊。\n\n\n\n\n此模組最初來自 Quillbee，此為從 1.16 移植至 1.21/26.1 的版本。\n\n\n[原始影片](https://www.youtube.com/watch?v=usiGkV_wXLI&t)\n\n\n你也可以使用 **/omnichunk toggle** 來切換此模組\n\n以及 **/omnichunk spawners** 來切換刷怪籠支援功能（預設關閉）\n\n\n\n[我的 CurseForge 頁面](https://curseforge.com/members/saodcf/projects)\n\n\n\n![放置與破壞方塊會影響每個區塊](https://cdn.modrinth.com/data/cached_images/e3ec5959660f6681ee45575044dfbc08cb849365.gif)\n\n\n\n此外，不可破壞的方塊不受此模組影響，例如「基岩」、「空氣」、「屏障」\n\n\n**警告**：此模組**將**永久摧毀你的世界，載入前請務必確認已備份。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

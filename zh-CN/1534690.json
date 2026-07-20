@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f7a2b6730238fb08",
+  "content": "\n\n<h1><strong>精炼图纸</strong></h1>\n<p>添加火炮接口，允许您将精炼存储网络与 Create 的图纸大炮连接。</p>\n<p>&nbsp;</p>\n<p><strong>《Schematic Energistics》在精炼存储上的官方移植版本。</strong></p>\n<p>&nbsp;</p>\n<h2><strong>功能特性</strong></h2>\n<ul>\n<li>自动从 RS 存储中抽取所需物品</li>\n<li>可在需要时自动合成图纸物品</li>\n<li>自动补充火药</li>\n<li>支持 Neoforge 1.21.1</li>\n</ul>\n<h2>&nbsp;</h2>\n<h2><strong>使用方法</strong></h2>\n<p>将火炮接口放置在图纸大炮旁边，并将其连接到精炼存储网络。图纸大炮每次仅能识别一个火炮接口。</p>\n<p>图纸大炮在请求 RS 网络中的物品之前，始终会优先使用其他容器（如箱子、桶等）中的物品。</p>\n<p>&nbsp;</p>\n<h2><strong>鸣谢</strong></h2>\n<p><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" target=\"_blank\" rel=\"nofollow\">Create</a></strong></p>\n<p><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/refined-storage\" target=\"_blank\" rel=\"nofollow\">Refined Storage</a></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

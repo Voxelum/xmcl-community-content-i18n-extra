@@ -1,0 +1,6 @@
+{
+  "bodyHash": "065ec3a2a7dc38e5",
+  "content": "\n\njeARGH (je Arbitary Resource Gathering Helper) 是 Just Enough Resources 的外掛模組，允許你在單人世界中執行數據分析，以蒐集礦石分佈數據與掉落物資訊。\n此模組的唯一功能是為你 JER 的 config 資料夾建立一個 world-gen.json 檔案供其讀取。\n \n#### 快速使用：\n- 建立新的單人世界，並安裝 JEI、JER 與 JEARGH 模組。\n- 執行指令 `/jeargh start 10` 開始分析程序。\n- 等待。\n- 重新載入世界以套用變更。\n\n#### 詳細說明：\n##### /jeargh start <chunk_radius> [merge]\n此指令會針對命令發送者周圍半徑為 **<chunk_radius>** 個區塊的每個已發現維度進行分析（由最低座標至最高座標），並累計所發現礦石（具有 **ORES** 標籤的方塊）的高度與數量。此模組**會生成新地圖**！因此，請勿在正常的生存存檔上執行。\n針對每個找到的方塊，模組會模擬採集 1000 次以取得掉落物品與數量。\n使用 **[merge]** 參數可僅針對單一維度（命令發送者所在維度）及命令發送者座標周圍執行分析。\n\n##### /jeargh abort\n如果你已經不耐煩等待或想更改輸入參數，請執行此指令以中止程序。\n\n*若存在現有的 world-gen.json，模組會自動建立備份。*\n \n#### 限制：\n- 模組未考慮使用附魔「效率」(Fortune) 工具開採礦石時產生的額外掉落\n- 模組僅分析具有 ORES 標籤的方塊\n- 模組不支援維度的黑名單／白名單功能\n- 根據指定的 chunk_radius，模組可能需要運行非常久的時間。建議將數值設為 25，並耐心等待數小時讓其完成。\n- 此模組**僅支援 Forge**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

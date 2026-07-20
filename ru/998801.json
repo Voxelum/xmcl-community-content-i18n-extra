@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+Kp8opFOwiw=",
-  "content": "<p><span style=\"font-size:24px\">Исправлена ошибка при открытии внутриигрового гида AE с установленным Starlight.</span></p><p><span style=\"font-size:24px\">Технически, Starlight уже исправил её, но вышел с этим исправлением только в версии 1.20.2.</span></p><p><span style=\"font-size:24px\">Этот мод предназначен для тех, кто хочет играть со Starlight и AE в версии 1.20.1.</span></p><p><span style=\"font-size:24px\">Как сказал автор Starlight, <strong>в версиях 1.20.x использовать Starlight не обязательно</strong>, так как Mojang полностью переписал движок освещения, и его производительность практически такая же, как у установленного Starlight.</span></p>",
+  "bodyHash": "4b714e0fb8565f2c",
+  "content": "<p><span style=\"font-size:24px\">Исправлен краш при открытии внутриигрового руководства Applied Energistics при установленной модификации Starlight.</span></p>\n<p><span style=\"font-size:24px\">Технически эта проблема уже исправлена в самой Starlight, но соответствующее исправление было выпущено только для версии 1.20.2.</span></p>\n<p><span style=\"font-size:24px\">Эта модификация предназначена для тех, кто хочет играть с установленными Starlight и Applied Energistics на версии 1.20.1.</span></p>\n<p><span style=\"font-size:24px\">Как сказал автор Starlight, <strong>использовать Starlight на версиях 1.20.x не обязательно</strong>, поскольку Mojang переписали движок освещения, и его производительность практически сравнялась с производительностью при установленной Starlight.</span></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

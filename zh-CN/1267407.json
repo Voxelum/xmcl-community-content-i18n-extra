@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9a358d3aedff7965",
+  "content": "<p># 使用工作台旁的告示牌即时重刷村民特定交易</p>\n<p>1. 在工作台旁放置告示牌<br>2. 输入物品/附魔书名称的少量字母或完整名称（不使用空格，用下划线_代替空格）<br>3. 右键点击工作台以重刷交易。如果成功，村民和工作台将显示绿色粒子效果；如果失败，则显示愤怒粒子效果</p>\n<p># 告示牌上应该输入什么？&nbsp;<br>普通物品名称如：</p>\n<p>面包 -&gt; bread</p>\n<p>白色羊毛 -&gt; white_wool</p>\n<p># 为什么要用告示牌？</p>\n<p>因为你不知道如何用“ hmmmmmmm ”（村民语）向村民询问，所以写在告示牌上。<br>另外，当你搭建好交易大厅后，你也想记住哪个村民提供哪种交易，对吧？</p>\n<p># 为什么要粒子效果？</p>\n<p>为了找到四处游荡的村民……</p>\n<p># 附魔书怎么办？&nbsp;</p>\n<p>对于附魔书，可以输入完整名称或部分起始名称，后跟附魔等级。<br>如果不指定等级，默认给予最高等级的附魔书。</p>\n<p>eff -&gt; 效率 V</p>\n<p>eff 3 -&gt; 效率 III</p>\n<p># 我还是搞不清楚该输入什么，我需要完整的列表</p>\n<p>完整列表请参阅维基 - <a href=\"https://github.com/gulab9762/Librarian-filter/wiki\" target=\"_blank\" rel=\"nofollow\">https://github.com/gulab9762/Librarian-filter/wiki</a></p>\n<p># 模组不起作用……</p>\n<p>请查看维基，如果有新功能或问题，请在 Discord 服务器上报 Issue/建议<br>Dicord - <a href=\"https://discord.gg/bWWwkFryuA\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/bWWwkFryuA</a></p>\n<p># 祝交易愉快！！ hmmmmmmm……</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

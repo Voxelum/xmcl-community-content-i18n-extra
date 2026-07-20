@@ -1,6 +1,6 @@
 {
-  "bodyHash": "hNvbS3c6Hko=",
-  "content": "<h1 style=\"text-align:center\"><strong>Пепел греха: пользовательская антисидящая сущность</strong></h1><p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/981547/description_a4dde722-ccc5-4a57-8110-79b41a11413e.png\" alt=\"\" width=\"720\" height=\"450\"></p><p>Файл конфигурации генерируется в директории&nbsp;<code>config\\ash_of_sin\\</code>.</p><p>Имя файла конфигурации — custom_anti_seat_entity.toml.</p><p>Сущности, указанные в файле конфигурации, при нахождении в состоянии сидения приведут к удалению блока или сущности, на котором они сидят.</p>",
+  "bodyHash": "ff36cf8b0e790486",
+  "content": "\n\n<h1 style=\"text-align:center\"><strong>Ash Of Sin: Кастомная сущность-антикресло</strong></h1>\n<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/981547/description_a4dde722-ccc5-4a57-8110-79b41a11413e.png\" alt=\"\" width=\"720\" height=\"450\"></p>\n<p>Файл конфигурации генерируется в каталоге&nbsp;<code>config\\ash_of_sin\\</code>.</p>\n<p>Имя файла конфигурации — custom_anti_seat_entity.toml.</p>\n<p>Сущности, указанные в файле конфигурации, при нахождении в состоянии сидения будут вызывать удаление блока или сущности, используемой в качестве сиденья.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

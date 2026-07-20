@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be678e8332340c8b",
+  "content": "\n\n# Заголовок биома\n\nПростой, но полезный мод\n\n## Конфигурация\n\n### Как использовать: Цветовой тип / «Из конфига»\n\n.minecraft/config/biome_title.json5\n```json\n{\n  \"colorMap\": {\n    \"<Biome ID>\":\"<Color (like #114514 / 0x114514 / 123456)>\"...\n  }\n}\n```\n### Прочее\n\nКлюч перевода подсказок: \"tips.biometitle.<namespace>.<id>\"\n\n[github](https://github.com/UNK-114514)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

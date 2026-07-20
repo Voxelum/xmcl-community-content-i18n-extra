@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b016b9eb34a200b",
+  "content": "\n\n# 更佳的掉落方塊粒子效果 \n**注意：此模組的功能已於 v0.10 版合併至我的另一個模組 [Particle Interactions](https://modrinth.com/mod/particle-interactions) 中。本模組將不再接收任何更新**\n\n這是一個簡單的模組，當掉落方塊處於懸浮狀態或放置於非完整方塊（例如鐵欄杆或按鈕）上時，會發出類似破壞方塊的粒子效果。\n粒子的多數屬性均可透過設定檔進行調整，例如持續時間與生成機率。\n\n此模組僅限客戶端使用，若安裝於伺服器端則不會產生任何作用。\n\n## 設定檔\n\n若您已安裝 ModMenu，可直接在遊戲內編輯設定檔。您亦可手動編輯設定檔，檔案位於 `<minecraft 資料夾>/config/falling_block_particles.properties`。請謹慎操作！輸入錯誤的值可能會導致遊戲崩潰！\n\n這是本人首次開發具備設定檔功能的模組，若您發現任何問題，歡迎前往 GitHub Issue Tracker 回報！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

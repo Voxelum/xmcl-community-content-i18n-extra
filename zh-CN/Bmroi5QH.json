@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1f8be7fe3a26911c",
+  "content": "\n\n## 概述\n\n安装此模组后，玩家落入流体会受到伤害。此外，如果在匍匐状态下落入水中，还会受到额外伤害，这也正是该模组名称的由来。*Faire un plat*，你可以这么理解。\n\n最初，这个模组仅打算包含肚皮拍水的机制（作为一个相当滑稽的角色扮演选择），而通用的表面张力伤害只是一个附带的小功能。感谢 [Surface Tension](https://www.curseforge.com/minecraft/mc-mods/surface-tension) 率先实现了基于流体的坠落伤害！\n\n如果玩家真的想通过肚皮拍水受到伤害，建议安装 [Personality](https://modrinth.com/mod/personality!) 等模组，以便在落水前摆出水平匍匐/游泳的姿态。这还会在撞击时触发一声响亮且刺耳的“啪”声。非常沉浸！\n\n<details>\n<summary>隐藏进度</summary>\n\n双手持斧头并承受超过5颗心的巨大肚皮拍水伤害，即可获得“维京模式”进度。\n\n</details>\n\n## 配置\n\n你可以修改以下选项：\n- 落入流体时的伤害乘数\n  - 默认值为 **0.7**。这使得 MLG 桶救只比落在实心方块上稍微宽容一点点\n- 在匍匐姿态下落入流体时的伤害乘数（肚皮拍水！）\n  - 默认值为 **1.5**。要这样自找苦吃需要一定的决心，我对此表示尊重\n- 表面张力规则是否仅对玩家生效（默认：**false**）\n\n某些生物天生不受表面张力影响，例如任何继承自 `WaterAnimal` 的生物（应包含鱼类和其他一些水生生物）。如果你希望将其他生物加入免疫名单，请随时将它们添加到标签 `belly_flop:unaffected_by_surface_tension` 中。默认情况下，该标签仅包含溺尸。\n\n\n---\n\n**需要 [Blueprint](https://modrinth.com/mod/blueprint) 6.2.0+。** 建议安装 [Personality](https://modrinth.com/mod/personality!) 以体验本模组的全部功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

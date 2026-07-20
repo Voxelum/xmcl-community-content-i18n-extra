@@ -1,0 +1,6 @@
+{
+  "bodyHash": "134143f83c2536fb",
+  "content": "\n\n<p>Bobby 是一款 Minecraft 模组，允许渲染距离超过服务器的视距设置。</p>\n<p><img src=\"https://i.johni0702.de/7FlGK.png\" alt=\"在 96 区块渲染距离下的温妮省\"></p>\n<p>它通过记录并存储服务器发送的所有区块（保存在 <code>.minecraft/.bobby</code> 中）来实现这一目标。当区块超出服务器的视距范围时，它可以在稍后加载并显示这些区块。</p>\n<p>可选地，它还可以利用现有的单人世界来加载服务器从未发送过的区块。要使用此功能，只需将世界文件夹重命名为 &quot;bobby-fallback&quot;（注意：是文件夹名称，不是游戏内的世界名称！）。</p>\n<p>修改配置文件后，Bobby 会自动重新加载配置。如需在游戏中打开配置界面，请安装 <a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" rel=\"nofollow\">ModMenu</a> 和 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cloth-config\" rel=\"nofollow\">ClothConfig</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

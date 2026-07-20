@@ -1,0 +1,6 @@
+{
+  "bodyHash": "60d2d910ccb6e594",
+  "content": "**Простой мод для Fabric, который выводит исключения пакетов в логах клиента при их возникновении.**\n\nЭто в первую очередь инструмент для разработчиков, предназначенный для помощи владельцам серверов в отладке проблем с пакетами или исключений.\n\nЭтот мод также хорошо работает в связке со [StackDeobfuscator](https://modrinth.com/mod/stackdeobf), который можно использовать для деобфускации стековых трасс, генерируемых этим модом.\n\n## Ссылки\n- Донат: [https://patreon.com/redned](https://patreon.com/redned)\n- Проблемы: [Создать issue](https://github.com/Redned235/packet-exception-logger/issues/new)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

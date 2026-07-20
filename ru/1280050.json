@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d1409582b123b21d",
+  "content": "\n\n<h1>Интеграция конфигурации для Brutal Nightmare</h1>\n<blockquote>\n  <p>Добавляет глобальное меню конфигурации для <a href=\"https://www.curseforge.com/minecraft/mc-mods/brutal-nightmare\" target=\"_blank\" rel=\"nofollow\">Brutal Nightmare</a></p>\n  <h1>ПРИМЕЧАНИЕ! ПОСЛЕ ИЗМЕНЕНИЯ НАСТРОЕК ЧЕРЕЗ ЭТОТ МОД НЕОБХОДИМО ПЕРЕЗАГРУЗИТЬ МИР!</h1>\n  <h1>Поддержка</h1>\n  <ul>\n  <li>Forge, Fabric, Quilt (<code>1.16-1.25</code>)</li>\n  <li>Для <a href=\"https://www.curseforge.com/minecraft/mc-mods/brutal-nightmare\" target=\"_blank\" rel=\"nofollow\">Brutal Nightmare</a> — Версия <code>4.6+</code>\n  <strong>Возможности</strong></li>\n  <li>Добавляет экран меню конфигурации для <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fdatapack%252fbrutal-nightmare\" target=\"_blank\" rel=\"nofollow\">Brutal Nightmare</a> и глобальную конфигурацию мира</li>\n  </ul>\n</blockquote>\n<p>Требуется <code>Cloth Config API</code>! В сборках Fabric и Quilt также ОБЯЗАТЕЛЬНО требуются <code>FabricAPI</code> и <code>ModMenu</code>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

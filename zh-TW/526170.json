@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0414c2de7f7cac78",
+  "content": "\n\n<p>使用 UPnP 自動為您的 Minecraft 專用伺服器轉發通訊埠。伺服器啟動時開啟通訊埠，並在停止時關閉。若您想快速為朋友架設伺服器，又不想經歷第三方託管或手動轉發通訊埠的麻煩，此模組將非常實用。\n需要 Architectury API</p>\n<p>使用方法：</p>\n<p>轉發的通訊埠可在設定檔 <code>config/upnp.txt</code> 中進行配置。</p>\n<p>使用 <code>/upnp</code> 指令，即可於聊天視窗查看已對應的通訊埠，以及玩家連線至伺服器所需的 IP 位址。</p>\n<p>可同時開啟 UDP 與 TCP 通訊埠。預設僅會開啟 <code>TCP 25565</code> 通訊埠（Minecraft 伺服器的預設連接埠）。</p>\n<p>若您使用 Simple Voice Chat 或 Geyser 等模組，必須將相關通訊埠新增至設定檔中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

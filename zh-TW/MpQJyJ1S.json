@@ -1,0 +1,6 @@
+{
+  "bodyHash": "083440e8024f5a11",
+  "content": "\n\n![csm](https://i.imgur.com/qAncmaS.png)CustomStarterMenu 將選擇初始寶可夢的懷舊感直接帶入 Minecraft 與 Cobblemon！🙌\n\n🌟 **給玩家**\n\n官方風格體驗：重溫挑選初始寶可夢的那一刻！\n\n**輕鬆互動**：\n\n- 看著「初始」方塊。\n\n- 右鍵點擊以開啟經典的發射器風格圖形介面（GUI）。\n\n- 點擊你喜愛的寶可夢——瞧，它就是你的了！🐾\n\n- 一次性選擇：你的選擇會被儲存；除非管理員重置，否則無法再次選擇。🔐\n\n- Cobblemon 風格：選單開啟時享受原汁原味的 Cobblemon 音效。🔉\n\n⚙️ **給管理員**\n\n基於 JSON 的設定檔：\n\n- 選單設定位於 `config/customstartermenu/menus/<menu>.json`，包含方塊座標與初始寶可夢清單。\n\n- 玩家的選擇記錄在 `config/customstartermenu/chosen.json`。\n\n**快速管理員指南：**\n\n```\n/csm set <menu> \n```\n\n**看著你想作為選點位置的方塊，並執行此指令。\n系統會在 `config/customstartermenu/menus/<name>.json` 建立一個檔案，其中包含該方塊的座標。**\n\n```\n/csm add <menu> <pokemon> <level> [shiny]\n```\n**為選單 `<name>` 加入任意數量的項目。例如：**\n\n```\n/csm add kanto pikachu 5\n/csm add kanto2 charmander 5 shiny\n```\n\n\n\n**權限**：\n允許擁有 `csm.user` 權限的使用者使用。\n管理員權限受 **_customstartermenu.admin_** 節點保護（適用於 LuckPerms 等權限插件）。\n\n📜 **可用指令**\n| 指令 | 描述 |\n|---|---|\n| `/csm set <menu>` | 將你正看著的方塊位置標記為初始選點。 |\n| `/csm add <menu> <pokemon> <lvl> [shiny]` | 新增一個初始寶可夢。 |\n| `/csm delete <menu>` | 移除選單及其設定檔。 |\n| `/csm info` | 顯示模組名稱、版本與指令摘要。 |\n| `/csm reload` | 重新載入模組設定。 |\n| `/csm reset <player>` | 重置指定玩家的選擇。 |\n\n\n_✨ 為你的伺服器增添寶可夢風情——讓玩家像經典遊戲一樣挑選自己的初始寶可夢！🎉_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5014f670afe42512",
+  "content": "\n\n# 禁止践踏农田\n\n一款轻量级模组，可防止农田被践踏和退化。设计初衷是以极小的性能开销运行，且不引入任何依赖或额外指令。\n\n## 使用方法\n通过原版游戏规则控制践踏行为：\n\n- **`players_are_forbidden_to_trample_on_farmland`** - 阻止玩家践踏农田\n- **`no_biological_trampling_on_farmland`** - 阻止其他实体/生物践踏农田\n\n部分设置可在配置文件中修改\n\n在 Forge/NeoForge 中，可使用以下命令查看配置文件：\n```\n/config showfile no_trampling_on_farmland COMMON\n```\n\n在 Fabric 中，配置文件名为 `NoTramplingOnFarmland.toml`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

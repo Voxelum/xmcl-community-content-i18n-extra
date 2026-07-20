@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6bfa12f73e95ec8a",
+  "content": "\n\n<h1><strong>Optimal Aim 模組</strong></h1>\n<p>此模組可協助你在 PvP 時將準心定位於其他玩家身上，透過在最佳瞄準位置渲染一個小型且高度可自訂的立方體，讓你充分利用完整的 3 格攻擊距離。</p>\n<p>我製作此模組是因為我看到許多新手將準心瞄向對方的腿部，錯失了約 0.1 至 0.2 格的攻擊距離優勢，而實際上碰撞箱最接近的點通常是頭部。</p>\n<p>此外，若將最大距離設定為「3」，立方體僅會在你能攻擊該實體時才會顯示，這對於學習距離控制和了解自身攻擊範圍非常有用！</p>\n<p><img src=\"https://github.com/sootysplash/optimal-aim/blob/main/demo.gif?raw=true\" alt=\"預覽\"></p>\n<p>(更多預覽圖可於 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252foptimal-aim%252fgallery\" rel=\"nofollow\">此處（Modrinth）</a> 查看，也歡迎前往 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fuser%252fTektonikal\" rel=\"nofollow\">Tektonikal</a> 的頁面瀏覽其他模組！)</p>\n<h2>相依性</h2>\n<p>此模組需要安裝 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" rel=\"nofollow\">Fabric API</a>，以及 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcloth-config\" rel=\"nofollow\">Cloth Config</a> 與 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodmenu\" rel=\"nofollow\">Mod Menu</a> 才能進行設定。</p>\n<h2>這是作弊程式嗎？</h2>\n<p>不會。此模組僅提供視覺輔助，顯示範圍上限為 12 格，且僅在你與實體之間有直接視線時才會渲染，這並非 ESP（透視）功能。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

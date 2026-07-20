@@ -1,0 +1,6 @@
+{
+  "bodyHash": "87f8f51acbe6a028",
+  "content": "<p>Forge：</p>\n<p>本模组使用自定义传送门 API（Custom Portal API），允许用户使用现有的方块和物品配置通往已有维度的自定义传送门。</p>\n<p>以下是创建通往下界传送门的配置示例，其中框架使用石头，点火器使用钻石：</p>\n<div>\n<pre>{<br>  \"isFlat\": false,<br>  \"frameBlock\": \"minecraft:stone\",<br>  \"isFluidIgniter\": false,<br>  \"itemIgniter\": \"minecraft:diamond\",<br>  \"dimension\": \"minecraft:the_nether\",<br>  \"r\": 200,<br>  \"g\": 50,<br>  \"b\": 50<br>}</pre>\n</div>\n<p>所有选项说明如下：</p>\n<p>isFlat：决定你想要类似下界的传送门还是类似末地传送门的传送门。</p>\n<p>frameBlock：你指定用于构建传送门框架的方块。请勿对多个传送门使用相同的方块。</p>\n<p>isFluidIgniter：决定你是希望使用物品还是液体（岩浆、水等）来激活传送门。</p>\n<p>itemIgniter：如果 isFluidIgniter 为 false，则使用此项选择你要用来激活传送门的物品。</p>\n<p>fluidIgniter：如果 isFluidIgniter 为 true，则使用此项选择你要用来激活传送门的液体。</p>\n<p>dimension：你想让传送门通往的维度的 ID。</p>\n<p>r、g 和 b：这些是传送门颜色的 RGB 值。</p>\n<p><strong>请注意，在 Forge 上，AzureDoomC 开发的 Custom Portal API Reforged 是必需的依赖项。</strong></p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

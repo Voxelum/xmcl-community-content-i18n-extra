@@ -1,0 +1,6 @@
+{
+  "bodyHash": "50210cd0e3115b90",
+  "content": "\n\n**Disasters Cataclysm** 是一款為 Minecraft（Fabric）設計的大規模自然災難模組，為你的世界增添了各種破壞力強大且震撼人心的自然現象。準備好面對從天而降的隕石、強烈地震、沙塵暴、猛烈暴風雨、巨型漩渦、所過之處捲走一切的龍捲風、毀滅性海嘯、突發山崩，以及火山爆發吧。\n\n此模組的一大特色是其深入且靈活的自訂功能。透過方便的 .toml 設定檔，你可以精確控制災難的各個層面：從發生頻率與強度，到具體的行為規則及其對世界的影響。這讓你既能營造真正的末日氛圍，也能僅在生存體驗中加入一些不可預測的變數。此外，所有事件都能透過指令手動觸發，非常適合地圖製作人員與伺服器管理員使用。\n\n我們特別注重保留原版的遊戲風格。所有效果與機制都經過精心設計，使其成為遊戲中自然的一部分。模組並未引入突兀的元素，而是利用並擴展了原有的遊戲特性。因此，這些災難並未破壞原版風格，反而與 Minecraft 原版世界和諧融合，讓生存體驗更加有趣且具挑戰性。\n\n為了方便全球玩家，本模組完整支援六種語言：德語 (de_de)、英語 (en_us)、西班牙語 (es_es)、法語 (fr_fr)、葡萄牙語 (pt_br) 與俄語 (ru_ru)。\n\n![隕石](https://cdn.modrinth.com/data/CfHgMAvU/images/48273d8a1d5469b501ba2e9ae6971ebea435980e_350.webp)\n\n![龍捲風](https://cdn.modrinth.com/data/CfHgMAvU/images/9d2aef560e0496b1c17632e153e263e3a04ae5d7_350.webp)\n\n![沙塵暴](https://cdn.modrinth.com/data/CfHgMAvU/images/a455220a9a7e9a94d722119bfc29a3ca2b97d544_350.webp)\n\n_範例。_\n\n總計共有 13 種災難。\n\n可透過下列指令操控模組：\n/dc summon <type>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

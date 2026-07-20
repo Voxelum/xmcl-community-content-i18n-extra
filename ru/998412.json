@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d4d3e835e27f3cfc",
+  "content": "\n\n<h1>Я сказал</h1>\n<p><strong>I've Spoken</strong> отображает диалоговое окно в стиле RPG над именем игрока при его сообщении, которое исчезает примерно через 5 секунд (время настраивается).</p>\n<p>Это выглядит примерно так:</p>\n<p><img src=\"https://github.com/KessokuTeaTime/Ive-Spoken/blob/artwork/content/spoken.png?raw=true\" alt=\"Я сказал.\"></p>\n<p>Если текст слишком длинный, он будет обрезан (настраивается).</p>\n<h2>Настройка</h2>\n<p>Теперь вы можете настроить <strong>I've Spoken</strong>, отредактировав файл конфигурации по адресу <code>/config/ivespoken.toml</code>. Если установлен <strong><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodmenu\" rel=\"nofollow\">Mod Menu</a></strong>, вы также можете настроить этот мод через внутриигровой интерфейс.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a8798af6aecd35c8",
+  "content": "\n\n這是一款類魂風格的 Minecraft 數據包。它新增了許多來自《黑暗靈魂3》（主要為 PvP）與《艾爾登法環》的武器和物品。數據包還包含一個技能豐富的新 Boss「Nep.elder」，詳細資訊與合成配方請參閱 README 文件。由於這些武器在原版 Minecraft 中相當強勢，建議搭配其他模組以維持平衡。\n\n此數據包新增了兩個結構 [firelink shrine] 與 [genshin switch]，其中第一個結構可用來召喚新 Boss。\n\n啟動條件為擊殺凋靈。接著，您可以在新的工作台 Energy Crafter 中使用 README 文件提供的配方來合成新物品。\n\n兼容 Epic Fight 模組。未來武器將支援更多攻擊動作。\n\n大部分武器支援多人遊戲，部分功能目前可能尚不兼容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

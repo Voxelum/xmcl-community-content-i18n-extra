@@ -1,6 +1,6 @@
 {
-  "bodyHash": "0Q9qXmV+atI=",
-  "content": "<h1>关于</h1><p>这个模组允许你控制Minecraft中哪些提示信息会显示。默认情况下，Minecraft会显示所有提示信息，包括配方提示、进度提示、旁白提示和教程提示。</p><p>本模组默认禁用了配方提示和教程提示。通过配置文件，它可以禁用任何其他类型的提示。</p><p>如果你不想完全屏蔽提示，但又觉得它们碍事，你可以更改它们的背景。Toast Control支持半透明或透明背景（仅限原版提示）。</p><p>半透明提示效果如下：</p><p><img src=\"https://i.imgur.com/wcxmFBU.png\" alt=\"\"></p><p>透明提示效果如下：</p><p><img src=\"https://i.imgur.com/Bb3xrHc.png\" alt=\"\"></p><h1>支持我</h1><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252fservers%252fshadows-mods-613010559532531713\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://i.imgur.com/4D6zgZt.png\" alt=\"\"></a></p><h2>联系</h2><p>Discord：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.shadowsoffire.dev%252f\" target=\"_blank\" rel=\"nofollow\">https://discord.shadowsoffire.dev</a></p>",
+  "bodyHash": "3f0a22a77608f9b3",
+  "content": "\n\n<h1>关于</h1>\n<p>本模组允许您控制 Minecraft 中显示的提示框。默认情况下，Minecraft 会显示所有提示框，包括合成表、进度、旁白和教程相关的提示。</p>\n<p>本模组默认禁用合成表和教程的提示框。您可以通过配置文件禁用其他任何类型的提示框。</p>\n<p>如果您不想屏蔽提示框，但觉得它们碍事，可以更改它们的背景。Toast Control 支持半透明或完全透明的背景（仅限原版提示框）。</p>\n<p>半透明提示框效果如下：</p>\n<p><img src=\"https://i.imgur.com/wcxmFBU.png\" alt=\"\"></p>\n<p>完全透明提示框效果如下：</p>\n<p><img src=\"https://i.imgur.com/Bb3xrHc.png\" alt=\"\"></p>\n<h1>支持作者</h1>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252fservers%252fshadows-mods-613010559532531713\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://i.imgur.com/4D6zgZt.png\" alt=\"\"></a></p>\n<h2>联系方式</h2>\n<p>Discord：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.shadowsoffire.dev%252f\" target=\"_blank\" rel=\"nofollow\">https://discord.shadowsoffire.dev</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

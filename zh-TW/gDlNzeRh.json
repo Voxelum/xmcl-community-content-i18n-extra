@@ -1,0 +1,6 @@
+{
+  "bodyHash": "314fee8628a70328",
+  "content": "\n\n[![加入我們的 Discord](https://img.shields.io/badge/JOIN%20OUR%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HTkn94BXmA)\n\n輕量級客戶端工具模組，可在第一人稱視角下隱藏盾牌模型。它僅移除您自身視角中的盾牌渲染，確保厚重的盾牌不再遮擋您的螢幕與視野。\n\n僅限客戶端使用（無需安裝伺服器端）。完全相容於單人遊戲與多人遊戲。\n\n**主要功能：**\n- 手持盾牌時，在第一人稱視角下隱藏盾牌模型。\n- 釋放寶貴的螢幕空間，在戰鬥與探索時大幅提升視野清晰度。\n- 完全保留原版盾牌的機制、格擋行為與碰撞箱。\n- 不會影響其他玩家看到的盾牌外觀，也不會改變第三人稱視角的渲染效果。\n\n**設定說明：**\n本模組預設即可直接運作，無需任何設定。只需將其放入 mods 資料夾即可享受無阻礙的清晰畫面！\n\n**詳細資訊：**\n- 僅限客戶端使用。\n- 在任何原版或模組伺服器上使用皆完全安全。\n- 完全不涉及伺服器端邏輯或遊戲玩法的變更。\n\n歡迎在 Discord 回報任何錯誤、問題或功能建議：https://discord.gg/4XUPywnEyE",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

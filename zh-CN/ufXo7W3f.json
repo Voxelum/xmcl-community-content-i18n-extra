@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c874a1394a027a96",
+  "content": "\n\n# 模组介绍\n\nChatBox 是一款专为 Minecraft 设计的对话框模组，灵感来源于 Galgame 中的对话系统。你可以使用数据包对其进行配置：\n\n- 预设多种对话框主题，并可通过指令随时切换。\n\n- 自定义对话框、选项框、历史记录按钮以及角色立绘的外观、位置和大小。\n\n- 角色立绘支持多种类型：图片、玩家头像和物品纹理。你可以为这些立绘定义自定义入场动画，其中图片提供 3 种预设动画。\n\n- 为每一行对话配置文本和多个选项。点击选项可触发自定义指令并跳转至其他对话。\n\n- 所有文本元素（对话、选项）均支持翻译键。\n\n由于所有对话配置均通过数据包实现，你可以直接使用 /reload 命令重新加载所有对话设置。无需修改任何代码，即可打造精美的对话系统！\n\n# 内置指令\n\n切换主题：\n\n/chatbox theme <data_pack_path : ResourceLocation>\n\n跳转至特定对话：\n\n/chatbox skip <data_pack_path : ResourceLocation> <group : String> <index : int>\n\n打开对话框：\n\n/chatbox open\n\n# 事件系统\n\n对于 KubeJS 用户，本模组提供了预定义的事件：\n\n```javascript\n//client_script\n\n// 在对话框渲染之前触发。提供 GuiGraphics 用于自定义渲染。可取消。\nChatBoxEvents.renderPre(event=>{\n  let getGuiGraphics = event.getGuiGraphics()\n  event.cancel()\n})\n\n// 在对话框渲染之后触发。提供 GuiGraphics 用于自定义渲染。\nChatBoxEvents.renderPost(event=>{\n  let getGuiGraphics = event.getGuiGraphics()\n})\n\n// 在跳转至对话时触发。提供对话元数据以支持自定义功能。\nChatBoxEvents.skipChat(event => {\n  let { chatBoxScreen, resourceLocation, group, index } = event\n})\n```\n补充信息\n\n示例数据包和文档可在 GitHub 上找到。\n即将推出的功能：作者正在开发一款基于网页的 JSON 生成器，以简化对话配置。敬请期待！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "68d23233048dee09",
+  "content": "\n\nИсправляет вылет LegacyRandomSource, возникающий из-за обращения Spawn к тому же потоку, который вызывает level.GetRandom. Очевидно, требуется версия Spawn 4.0 для Forge. Оригинальный мод доступен [здесь](https://modrinth.com/mod/spawn-mod).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

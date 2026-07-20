@@ -1,0 +1,6 @@
+{
+  "bodyHash": "16621367ea7cc555",
+  "content": "\n\n站在切石机上的生物会受到1点伤害（半颗心）。\n\n简单、高效，适用于所有生物。\n\n<br><br>\n\n你可以通过 `entity_types` 标签 `#stonecutter_damage:blacklist` 排除某些不会被切石机伤害的生物。<br>\n（stonecutter_damage/tags/entity_types/blacklist.json）\n\n为防止村民自杀导致村庄被清空，村民已被列入该名单（这是实际发生过的情况）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

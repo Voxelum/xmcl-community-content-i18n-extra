@@ -1,6 +1,6 @@
 {
-  "bodyHash": "9SRrulTxaOY=",
-  "content": "Jade Trades 是一个适用于 NeoForge 1.21.1 的 Jade 附属模组。它在 HUD 覆盖层中加入了村民交易信息，并提供切换式按键绑定，用于在世界中标记村民的床和工作 POI。标记可以持续作用于特定村民上，而当看向非村民时按下按键则会清除标记。该模组旨在为经常与村民打交道的玩家提供一个实用的调试与辅助工具。![村庄信息](https://cdn.modrinth.com/data/cached_images/9a239890cadc4be0b70876f25a52d78469ded6f7.png)![工作站位置](https://cdn.modrinth.com/data/cached_images/60859338f7d34cb16b338142c064162cd8e71e43.png)",
+  "bodyHash": "f9f4a84970570953",
+  "content": "\n\nJade Trades 是适用于 Jade 的 NeoForge 1.21.1 插件。它会在 HUD 覆盖层中显示村民交易信息，并提供一个切换式快捷键，用于在世界中标记村民的床和工作站（POI）。标记可针对特定村民保持激活状态；当注视非村民实体时按下该键即可清除所有标记。本模组旨在为经常与村民交互的玩家提供一款实用的调试与辅助工具。![村庄信息](https://cdn.modrinth.com/data/cached_images/9a239890cadc4be0b70876f25a52d78469ded6f7.png)![工作站位置](https://cdn.modrinth.com/data/cached_images/60859338f7d34cb16b338142c064162cd8e71e43.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

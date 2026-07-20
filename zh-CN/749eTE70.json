@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7bf0fc4f5426b748",
+  "content": "\n\n## Sable 部署者\n\nSable Deployer 是一款适用于 NeoForge 1.21.1 的 Create 附属模组，为 Create 的部署者新增了物理模式。\n\n当部署者切换至物理模式时，其放置的方块会自动转换为 Sable 物理对象。这使得 Create 的机械装置能够放置立即变为可移动物理对象的方块，而不是保持为普通的静态方块。\n\n**安装此模组前，请务必备份你的世界。**\n\n该模组并未添加独立的部署者方块。相反，它在现有的 Create 部署者基础上增加了扳手切换模式与自定义手部模型，在尽量保留原 Create 方块行为的同时，集成了 Sable 的物理系统。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

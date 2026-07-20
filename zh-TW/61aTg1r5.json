@@ -1,6 +1,6 @@
 {
-  "bodyHash": "c1Iq5SViYI4=",
-  "content": "# Legacy Skyblock\n\n現代化的 Hypixel Skyblock 模組，旨在移植 1.8.9 模組的功能\n\n## 功能\n\n### HUD\n\n#### 動作條\n- 隱藏防禦數值\n- 隱藏真實防禦數值\n- 隱藏繁花殭屍劍的使用次數\n\n### GUI\n\n#### 滑鼠中鍵點擊 GUI 物品\n- 在 GUI 中將左鍵點擊替換為中鍵點擊\n\n### 地牢\n\n#### 隱藏傷害濺射\n- 在地牢中隱藏對怪物造成的傷害濺射\n- 也可在地牢外運作",
+  "bodyHash": "46be8e8ff538c074",
+  "content": "\n\n# Legacy Skyblock\n現代版 Hypixel Skyblock 模組，旨在移植 1.8.9 版本模組的功能\n\n## 功能\n\n\n### HUD\n\n#### 寵物顯示\n- 在螢幕上顯示當前啟用的寵物\n- 顯示寵物道具、經驗值與圖標\n- 相容於 Hypixel 寵物小工具，若不支援則回退至寵物選單、自動寵物規則與新裝備配置系統\n\n\n#### 動作列\n- 隱藏防禦力\n- 隱藏真實防禦力\n- 隱藏「花漾殭屍劍」的充能次數\n\n\n### 介面\n\n#### 滑鼠中鍵操作介面項目\n- 將介面中的左鍵點擊改為中鍵點擊\n\n\n### 雜項\n\n#### 隱藏傷害飄字\n- 隱藏怪物身上的傷害飄字\n- 可針對各島嶼獨立切換\n\n#### NBT 數據\n- 在工具提示中顯示物品的 NBT 數據\n- 可針對各資料類型獨立切換",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

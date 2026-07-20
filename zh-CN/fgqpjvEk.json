@@ -1,0 +1,6 @@
+{
+  "bodyHash": "663cfd6967139799",
+  "content": "\n\n本模组添加了3个新的JEI分类：“信标基座方块”，用于显示哪些方块可用作信标基座；“信标支付物品”，用于显示信标接受哪些物品作为支付代价；以及“潮涌核心框架方块”，用于显示哪些方块可用作激活潮涌核心的框架。\n\n鸣谢：本模组最初由 [tfarecnim](https://legacy.curseforge.com/members/tfarecnim/projects) 创建，但正如[此处](https://www.curseforge.com/minecraft/mc-mods/just-enough-beacons/files)所示，自1.16.5版本后他便停止了更新。因此我决定将其移植至最新版本的Minecraft中。\n\n![gif1](https://i.imgur.com/nyVakCY.gif)\n\n本模组同时兼容 [Cerbon的Better Beacons模组](https://modrinth.com/project/cerbons-better-beacons)。当您将鼠标悬停在物品/方块上时，可以查看每个支付物品能增加多少作用范围，以及每个基座方块能提升多少效果增幅器等级。\n\n![gif2](https://i.imgur.com/J1P8cJV.gif)\n\n请将所有Bug、问题及功能建议提交至 [问题追踪器](https://github.com/CerbonXD/Just-Enough-Beacons/issues)，或通过我的 [Discord服务器](https://discord.gg/2PvYZfjWDf) 在相应频道进行反馈。评论区请仅用于对本模组的反馈。\n\n[![BisectHosting Banner](https://www.bisecthosting.com/images/CF/CERBONs_Better_Totem_of_Undying/BH_CBTU_promo.webp)](https://bisecthosting.com/Cerbon)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

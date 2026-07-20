@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c40e16dfdc9f464d",
+  "content": "\n\n# Optileaves - 一款优化树叶渲染以提升性能的 Minecraft 模组\n# 在保留世界美景的同时，享受更高的帧率！\n\n🌿🌿🌿\n\n该模组会隐藏玩家无论如何都看不到的不可见方块面，在不牺牲视觉效果的前提下减轻系统负担。它还使用缓存机制，避免每帧重复进行相同的检查。可配置的深度检测允许你在性能与细节之间进行精细调节。在树叶最茂密的森林和丛林中效果尤为显著。\n \n---\n\n🎮 测试数据：\n🍃 在树叶极度密集的区域，帧率最高可提升约 25%！在中等树叶覆盖区域，帧率最多也可提升约 15% 🍃\n\n---\n\n🎥 展示视频：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/hYfIwbLoHOc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n---\n\n🍀 祝你游戏愉快！🍀",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5cfb2f8b5ff39669",
+  "content": "\n\n# mobsnorender\n\nПропускает рендеринг сущностей, если они находятся за пределами диапазона по осям X, Y и Z относительно координат игрока, чтобы повысить FPS (настраивается через файл конфигурации). \n\n# мотивация \n\nПовышение производительности в моих модпаках для 1.7.10.\n\n# TODO\n\nдинамически изменять координаты X, Y, Z при большом количестве отображаемых мобов\n\nдобавить возможность полностью отключить рендеринг сущностей\n\nдобавить переключение по клавише\n\nисправить неработающую отмену рендеринга тайл-сущностей\n\n# Ссылки на описание моих проектов.\n\n[*Modrinth*](https://modrinth.com/mod/mobs-no-render)\n\n[*Github*](https://github.com/quentin452/mobsnorender)\n\n[*Curseforge*](https://legacy.curseforge.com/minecraft/mc-mods/mobs-no-render)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

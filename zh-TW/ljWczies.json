@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f09c0d1bee55fce7",
+  "content": "\n\n# Inertia Anti Cheat\n\n![阻止他人於伺服器上使用不需要的模組！](https://cdn.modrinth.com/data/cached_images/1028d552bad40c52fd94cd12eefbddc17cbe4826.png)\n\n![強制玩家於伺服器上使用您的整合包！](https://cdn.modrinth.com/data/cached_images/0487061e47d8ba4f102d479f853a0242315a86fe.png)\n\n*本項目深受 https://www.curseforge.com/minecraft/mc-mods/kinetic-anti-cheat 啟發並以此命名。*\n\n## 運作原理\n\n當有人加入您的伺服器時，伺服器端的模組會要求取得客戶端的模組列表。\n\n如果客戶端未回應此請求（最可能是因為未安裝客戶端模組），伺服器將踢出該玩家。          \n\n若客戶端模組有回應，伺服器模組將根據可配置的黑名單／白名單，或整合包的雜湊值（Hash）來檢查模組列表！若模組列表不符合規定，將踢出該玩家。\n\n## 這是否萬無一失？\n\n*恐怕不是。* 此模組僅針對腳本小子（script kiddies）設計，並未採用任何特殊方法來驗證模組列表的真實性。簡而言之，繞過此機制需要一些功夫，但它能阻止大多數普通作弊者加入。\n\n目前，資源包不會受到檢查。這意味著玩家可以於伺服器上使用具有優勢的資源包（例如 X 光資源包）。您需要自行安裝反透視模組。\n\n## 安裝方式\n\n詳請請見[這裡](https://github.com/DiffuseHyperion/InertiaAntiCheat/wiki)。\n\n## 使用授權\n\n您可在整合包或任何您喜歡的地方自由使用此模組！\n\n若您能附上此頁面或專案 GitHub 的連結，將不勝感激。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

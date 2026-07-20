@@ -1,0 +1,6 @@
+{
+  "bodyHash": "89f654efd23a6d09",
+  "content": "\n\nДанный проект предоставляет набор ресурсов, заменяющий содержимое языковых файлов Minecraft: Java Edition на ключи перевода.\n\nРекомендуется использовать этот набор ресурсов вместе с модами [Language Reload](https://modrinth.com/mod/language-reload) и [Untranslated Items](https://www.curseforge.com/minecraft/mc-mods/untranslated-items).\n\nЭтот набор ресурсов добавляет в игру язык «Translation (Keys)». При его выборе все строки будут заменены на ключи перевода.\n\nДополнительно набор ресурсов предоставляет язык «Translation (Keys with Arguments)», аналогичный языку `qqx` в MediaWiki. При его выборе строки будут заменены на ключи перевода, а исходные аргументы будут заключены в круглые скобки.\n\n![Screen 1](https://raw.githubusercontent.com/SkyEye-FAST/key_language_pack/master/sample/1.png)\n![Screen 2](https://raw.githubusercontent.com/SkyEye-FAST/key_language_pack/master/sample/2.png)\n![Screen 3](https://raw.githubusercontent.com/SkyEye-FAST/key_language_pack/master/sample/3.png)\n![Screen 4](https://raw.githubusercontent.com/SkyEye-FAST/key_language_pack/master/sample/4.png)\n![Screen 5](https://raw.githubusercontent.com/SkyEye-FAST/key_language_pack/master/sample/5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

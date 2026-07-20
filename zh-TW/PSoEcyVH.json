@@ -1,0 +1,6 @@
+{
+  "bodyHash": "815451e25ace1696",
+  "content": "\n\nAirPlace 是一款簡單的模組，用於在空中放置方塊，並以精美的覆蓋層進行渲染。\n\n![選擇您的覆蓋層](https://cdn.modrinth.com/data/PSoEcyVH/images/fd566643e4b4376dd327a030958323274247a932.png)\n\n（預設）**操作：** \n- F7：切換 AirPlace（/airplace toggle）\n- 右鍵點擊：在空中放置方塊。\n\n![自訂顏色](https://cdn.modrinth.com/data/PSoEcyVH/images/fc7a5e95b7a39c2fffa50863bee76bac7dc99f7f.png)\n\n**指令：**\n- `/airplace <on|off|toggle>`：切換 AirPlace 的狀態。\n- `/airplace renderMode <block|lines>`：切換 AirPlace 的渲染模式。\n- `/airplace config <reset|reload>`：重置或重新載入設定檔。\n- `/airplace config setcolor \"<R> <G> <B>\"`：設定覆蓋層的顏色。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

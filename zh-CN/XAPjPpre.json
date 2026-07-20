@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7956b86ebd945eb",
+  "content": "\n\n一个专为 4Y_abc 定制的 Mod 现已公开，**实现了 Create（机械动力）模组动态结构中 LittleTiles 方块的渲染与方向旋转兼容**。\n\n在原版 Create 动态结构中，LittleTiles 方块原本不可见，且结构解体时方块会恢复至组装前的原始朝向。该 Mod 解决了这两个问题，实现了方块的可见性与旋转方向的正确保留，以满足使用 LittleTiles 建造火车等需求。\n\n_但该 Mod 未为动态结构上的 LittleTiles 方块赋予碰撞箱与交互功能。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

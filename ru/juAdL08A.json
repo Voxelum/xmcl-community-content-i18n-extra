@@ -1,0 +1,6 @@
+{
+  "bodyHash": "78f589db99828270",
+  "content": "\n\n# Патч для Forgematica\n\nЭтот мод восстанавливает совместимость между Forgematica 0.4.2 и NeoForge 21.1.235.\n\nБез этого патча загрузка схемы вызывает сбой Forgematica с ошибкой `IllegalAccessError`, связанной с доступом к приватному полю `BufferBuilder.building`.\n\nПатч использует небольшой слой совместимости Mixin, не изменяя сам мод Forgematica.\n\n\n## Требования\n- Minecraft 1.21.1\n- NeoForge 21.1.235\n- [Forgematica 0.4.2](https://modrinth.com/mod/forgematica)\n- [MaFgLib 0.4.3](https://modrinth.com/mod/mafglib)\n\n\n## Проблема\n\nБез этого патча загрузка схемы вызывает сбой Forgematica со следующим сообщением:\n\n\n```\njava.lang.IllegalAccessError:\nclass fi.dy.masa.litematica.render.schematic.BufferBuilderCache tried to access private field\ncom.mojang.blaze3d.vertex.BufferBuilder.building\n```\n\nДанный патч решает проблему совместимости в NeoForge 21.1.235.\n\n## Решение\n\nЭтот патч восстанавливает совместимость между Forgematica 0.4.2 и NeoForge 21.1.235.\n\n## Примечания\n\nЭто исключительно патч совместимости.\n\nОн **не** добавляет новых функций и не изменяет работу Forgematica.\n\nОн **не** изменяет никаких файлов самого мода.\n\nЕго можно удалить в любое время без влияния на ваши миры или схемы.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

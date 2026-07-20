@@ -1,0 +1,6 @@
+{
+  "bodyHash": "93e835a2f7d051b5",
+  "content": "\n\n<p>Servux 是一款服务端模组，在多人服务器游玩时为部分客户端模组提供额外的支持/功能。</p>\n<p>&nbsp;</p>\n<p>Servux 本身<span style=\"color:#f00\"><strong>绝不需要在客户端或单人游戏中安装</strong></span>，它仅在服务端需要/有用。</p>\n<p>&nbsp;</p>\n<p>在 0.1.x 版本中，它目前只有一个功能，即为 MiniHUD 发送结构边界框，以便它也能在多人游戏中渲染这些结构。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

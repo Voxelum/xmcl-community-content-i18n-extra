@@ -1,6 +1,6 @@
 {
-  "bodyHash": "QZ+hD9ljJMo=",
-  "content": "# Полноразмерные блоки Energistics\nОтносительно небольшое дополнение к [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2), которое\nдобавляет полноразмерные версии всех терминалов ME. Включает опциональную интеграцию с\n[ME Requester](https://github.com/AlmostReliable/merequester), чтобы предоставить полноразмерную версию терминала Requester.\n\nКод этого мода лицензирован по [LGPLv3](https://spdx.org/licenses/LGPL-3.0-or-later.html) и заимствует часть кода\nиз самой AE2 в соответствии с той же лицензией. Ресурсы лицензированы по\n[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) и основаны на текстурах из самой AE2\nв соответствии с той же лицензией.\n\n![](https://90.gripe/thanks_doc.png)",
+  "bodyHash": "87336e84c16db35e",
+  "content": "\n\n# Fullblock Energistics\nОтносительно небольшой аддон для [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2), который\nдобавляет полноблочные версии всех ME-терминалов. Включает опциональную интеграцию с\n[ME Requester](https://github.com/AlmostReliable/merequester), предоставляя полноблочную версию терминала запроса.\n\nКод этого мода лицензирован по [LGPLv3](https://spdx.org/licenses/LGPL-3.0-or-later.html) и заимствует некоторые фрагменты кода\nиз самого AE2 в соответствии с той же лицензией. Ассеты лицензированы по\n[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) и основаны на текстурах самого AE2 в\nсоответствии с той же лицензией.\n\n![](https://90.gripe/thanks_doc.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

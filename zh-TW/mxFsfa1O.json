@@ -1,0 +1,6 @@
+{
+  "bodyHash": "639246d181545fe3",
+  "content": "\n\n「自訂化不死图腾絨毛玩偶」是一款資源包，能讓你輕鬆地將不死图腾轉換成以你的角色外觀為造型的絨毛玩偶！\\\n支援寬版與窄版角色外觀，所以不必擔心需要為不同的外觀下載不同版本。\\\n不需要 OptiFine 或其他任何模組！\\\n預設图腾的角色外觀是史帝夫（Steve），如果你不想用自己的，也可以使用預設版本。\\\n如何將图腾換成你自己的絨毛玩偶：\n1. 下載此資源包\n1. 在資源包資料夾中，前往 assets/minecraft/textures/item\n1. 確認你已準備好角色外觀（如果還沒有的話，可以從 [Skindex](https://www.minecraftskins.com/) 或 [NameMC](https://namemc.com/) 取得）\n1. 刪除名稱為 steve 的預設史帝夫角色外觀（若已顯示副檔名，則為 steve.png）\n1. 將你的角色外觀拖曳至此資料夾\n1. 將該檔案重新命名為 skin.png（重要：若未開啟顯示副檔名 [例如看不到 .png、.zip 等]，則只需命名為 skin，不要加 .png）\n1. 在遊戲內載入此資源包，就完成了！\n\n祝你遊玩愉快！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

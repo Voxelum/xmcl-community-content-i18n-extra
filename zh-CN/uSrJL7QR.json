@@ -1,0 +1,6 @@
+{
+  "bodyHash": "987c538281428168",
+  "content": "\n\n# GreenVoid\n[![VERT-Screencast-20260705-160503.gif](https://i.postimg.cc/FFYJ6wHN/VERT-Screencast-20260705-160503.gif)](https://postimg.cc/V5c6rGtV)\n<img alt=\"optifine\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/optifine_vector.svg\">\n<a href=\"https://github.com/Coder-soft/GreenVoid\"><img alt=\"github\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg\"></a>\n\n---\n\n一款极简的 Minecraft 光影包，专为希望在游戏中直接获得干净绿屏效果的创作者而设计。它将天空、地形、水面、云层和生物转换为单一纯色，以便在剪辑软件中完美抠像——而你和手中的物品始终保持完整的纹理和可见性。\n\n## 特性\n\n- **完全的颜色控制** — 可分别为天空、世界和实体选择任意颜色，互不干扰。不限于仅使用绿色。\n- **预设抠像颜色** — 提供快速预设（绿、品红、青、蓝、红、黄、白、黑），方便你分别对视频的不同部分进行抠像，或者在绿色难以看清时选择最适合的颜色。\n- **独立开关控制** — 可独立切换天空、世界和实体的抠像功能，让你只需对背景进行抠像，同时保持其他元素外观正常。\n- **角色始终可见** — 无论设置如何调整，你的角色以及手持物品始终正常渲染。\n- **直观的设置菜单** — 游戏内光影选项界面中的每个选项都配有清晰的标签和说明。\n\n## 安装方法\n\n1. 将 `GreenVoid` 文件或压缩包复制到 `.minecraft/shaderpacks/` 目录中\n2. 使用 OptiFine 或 Iris 启动 Minecraft\n3. 进入 选项 > 视频设置 > 光影包，并选择 **GreenVoid**\n4. 点击 **光影选项** 来自定义颜色和开关设置\n\n## 兼容性\n\n支持 OptiFine 或 Iris 的 Minecraft 1.7.10 及以上版本。\n\n## 注意事项\n\n为了获得最干净的抠像效果，请在截图或录制前关闭星星、月亮和太阳——完全纯色的天空抠像效果最佳。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

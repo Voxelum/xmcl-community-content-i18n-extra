@@ -1,0 +1,6 @@
+{
+  "bodyHash": "01fd15778a1867a9",
+  "content": "\n\nПростой мод, который добавляет поддержку функции покрытия блоков снегом от [Wilder Wild](https://modrinth.com/mod/wilder-wild) в [Serene Seasons](https://modrinth.com/mod/serene-seasons) и [Immersive Snow](https://modrinth.com/mod/immersive-snow)!\n\n- Запорошенные блоки теперь генерируются в заснеженных биомах при установке обоих модов.\n- Блоки теперь будут корректно покрываться снегом во время снегопада.\n- Растительность будет переходить в свои заснеженные или исходные варианты при снегопаде или таянии.\n- Снег теперь тает с запорошенных блоков.\n\nВот и всё!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

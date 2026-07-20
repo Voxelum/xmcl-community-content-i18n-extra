@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6bd17632ac5b9354",
+  "content": "\n\n<p><span style=\"font-size: 24px;\">🌱 Sapling 是一個輔助開發所有 MapleMods 的程式庫模組！✨🍁</span><br><span style=\"font-size: 18px;\"><br><em>它單獨安裝不會產生任何效果，但包含了所有依賴模組所需的程式碼。</em></span><br><br><span style=\"font-size: 18px;\">🌟 目前功能：</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\">替換生物紋理為自訂版本！可設定權重，使特定紋理擁有更高的替換機率。</span></li>\n<li><span style=\"font-size: 14px;\">將新紋理儲存於實體標籤中，確保資料持久保存！</span></li>\n<li><span style=\"font-size: 14px;\">紋理會隨季節自動更換。</span></li>\n<li><span style=\"font-size: 14px;\">新增指令以進行個人化設定。</span></li>\n<li><span style=\"font-size: 14px;\">自動建立與管理設定檔。</span></li>\n<li><span style=\"font-size: 14px;\">更多功能即將推出！</span></li>\n</ul>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

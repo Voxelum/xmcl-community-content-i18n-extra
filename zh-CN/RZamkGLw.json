@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f8578308bec3b94e",
+  "content": "\n\n# 大逃杀\n\n超轻量级数据包，允许你通过一条命令在服务器或局域网中快速搭建多人_大逃杀/清洗/饥饿游戏/堡垒之夜风格_模式。\n\n活动分为三个阶段：\n\n1. **和平阶段**：收集资源，PVP（玩家对战）已禁用。\n2. **战斗阶段**：PVP已启用。\n3. **缩圈阶段**：安全区不断缩小至出生点，迫使所有玩家进行最终对决。\n\n\n## 设置方法\n1. 将此数据包放入服务器世界的 `datapacks` 文件夹中。（**建议使用你不介意重置的世界**）\n2. 传送至一个随机的未探索区域。\n3. 运行以下命令：\n```\n/function minipurge:start { lives:<value>, border:<value>, peace:<value>, war:<value>, shrink:<value> }\n```\n_**(!) 此命令将会传送所有玩家并清空他们的背包！**_\n\n_每个 <value> 均可按你的需求自定义设置！具体含义如下：_\n> **\"lives\"**：玩家进入观战模式前可使用的复活次数。 \n> \n> **\"border\"**：初始安全区的尺寸大小。\n> \n> **\"peace\"**：PVP禁用阶段的持续时长（分钟）。\n> \n> **\"war\"**：PVP启用阶段的持续时长（分钟）。\n> \n> **\"shrink\"**：安全区缩小至仅剩10格所需的时间（分钟）。\n\n### 其他常用命令：\n\n```\n/function minipurge:reset\n```\n```\n/function minipurge:pause\n```\n```\n/function minipurge:unpause\n```\n\n暂停与恢复命令仅在 _function-permission-level（函数权限等级）= 4 或更高_ 时生效。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

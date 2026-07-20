@@ -1,6 +1,6 @@
 {
-  "bodyHash": "In2RPt2whiE=",
-  "content": "# Replay Voice Chat\n\n一款相容性模組，可搭配 [ReplayMod](https://github.com/ReplayMod/ReplayMod) 錄製 [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) 的音訊。\n\n![](https://i.imgur.com/jQsK7O3.png)\n\n## 功能特色\n\n- 開箱即用\n- 錄製語音聊天玩家圖示\n- 錄製定位音效\n- 錄製群組聊天音訊\n- 錄製自身音訊\n- 渲染時各音軌可獨立匯出\n- 支援 Simple Voice Chat 插件 API\n- 支援加快或減慢重播速度\n\n## 支援版本\n\n僅積極支援 ReplayMod 所發布的最新 Minecraft 版本。\n\n## 設定\n\n若您是伺服器擁有者，可將語音聊天設定中的 `broadcast_range` 設為較高數值，以便能從錄製者的視角，錄製到比一般語音聊天距離更遠的音訊。\n\n## 致謝\n\n- [Sonic](https://github.com/waywardgeek/sonic)\n- [ReplayMod](https://github.com/ReplayMod/ReplayMod)",
+  "bodyHash": "6c96e87bef6df3da",
+  "content": "\n\n# 語音聊天重播\n\n一款相容模組，可搭配 [ReplayMod](https://www.replaymod.com/) 記錄 [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)。\n\n![](https://i.imgur.com/jQsK7O3.png)\n\n## 功能特色\n\n- 開箱即用\n- 記錄語音聊天玩家頭像\n- 記錄空間定位音訊\n- 記錄群組聊天音訊\n- 記錄自己的音訊\n- 渲染時會將每條音軌分別匯出\n- 支援 Simple Voice Chat 插件 API\n- 支援加速或減速重播\n\n## 支援版本\n\n僅主動支援 ReplayMod 最新發布所對應的 Minecraft 最新版本。\n\n## 設定\n\n如果您是伺服器管理員，可以在語音聊天設定檔中將 `broadcast_range` 設為更高的數值，以便從錄製者的角度記錄並重播距離超過正常語音聊天範圍的音訊。\n\n## 致謝\n\n- [Sonic](https://github.com/waywardgeek/sonic)\n- [ReplayMod](https://github.com/ReplayMod/ReplayMod)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

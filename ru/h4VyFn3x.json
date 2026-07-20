@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dfa0e7d40e3fb58d",
+  "content": "\n\n## Серия убийств\nПоказывает под ником каждого игрока его серию убийств, то есть количество убийств, совершенных с момента последней смерти.\n\n![Example Screenshot](https://cdn.modrinth.com/data/cached_images/72302a6cd744ffde11d5900238cc47ade73a3a5b.png)\n<details>\n<summary>Установка</summary>\n  \n### Установка на сервер (Датпак)\n  \n1. Перейдите в основную папку сервера\n  \n2. Откройте _world_ -> _datapacks_\n\n3. Скопируйте датпак в папку _datapacks_\n\n### Установка в мир (Датпак)\n\n1. Нажмите Win + R и введите %appdata%\n\n2. Откройте _.minecraft_ -> _saves_ -> _<название мира>_ -> datapacks\n\n3. Скопируйте датпак в папку _datapacks_\n\n(Обратите внимание: если вы используете лаунчер вроде Modrinth App или Prism Launcher, вам нужно перейти к вашей сборке в лаунчере и нажать _Open Folder_.)\n\n### Установка мода на сервер\n\n1. Перейдите в основную папку сервера\n\n2. Откройте _mods_\n\n3. Скопируйте мод в папку _mods_\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

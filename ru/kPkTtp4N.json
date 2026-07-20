@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e0af3f190678f937",
+  "content": "\n\nСерверный мод Fabric для обмена координатами игроков и локаций на вашем сервере.\n\n## Команды\n\n`/coords player <playername>` показывает местоположение указанного игрока.\n\n`/coords setplace <placename> [<x, y, z>] [<dimension>]` устанавливает координаты места с указанным названием.\n\n`/coords removeplace <placename>` удаляет место с указанным названием.\n\n`/coords listplaces` выводит список всех мест.\n\n`/coords place <placename>` показывает координаты указанного места.\n\n`/coords hide` скрывает ваше местоположение от других игроков до следующей перезагрузки сервера.\n\n`/coords unhide` снова делает ваше местоположение видимым.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

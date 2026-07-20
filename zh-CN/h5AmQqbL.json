@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d1dd32cdadbb817",
+  "content": "这是一个同时适用于 [\"Camps. Castles. Carriages.\"] 和 [Boss Checklist] 的附加模组，它将前者的“塞·马洛”（Ser Marrow）和“猪灵游侠”（Piglin Ranger）Boss整合到后者的Boss检查表界面中作为条目。\n\n**“你是如何实现这一功能的？‘Camps. Castles. Carriages.’ 是一个打包成模组的资源包！”**\n首先，该模组添加了虚假的、无法生成的占位实体，作为你所见的Boss检查表条目的基础。一旦服务器检测到对应Boss实例死亡，这些Boss条目会自动标记为已击败。\n\n**“为什么这个模组没有与其他Boss Checklist附加模组捆绑在一起？”**\n该模组使用了由其自身添加的上述虚假实体。因此，无论你是否实际安装了“Camps. Castles. Carriages.”模组，由该模组添加的两个Boss条目都会显示。你不会希望在一个整合包中，玩家四处好奇地寻找“猪灵游侠”，结果却在后来才发现他们甚至根本没有安装据说支持该Boss的模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

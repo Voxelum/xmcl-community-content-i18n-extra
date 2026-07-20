@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b6e2435275713171",
+  "content": "\n\n<p>讓 <a href=\"https://github.com/maruohon/litematica\" rel=\"nofollow\">Litematica</a> 能夠在伺服器上貼上方塊／實體的圖塊實體資料</p>\n<p>透過使用自訂聊天封包來繞過聊天長度限制，使客戶端能夠簡單地將圖塊實體或實體的 NBT 標籤附加到 <code>/setblock</code> 或 <code>/summon</code> 指令後方</p>\n<p>您必須在客戶端與伺服器上都安裝此模組才能正常運作。</p>\n<p>客戶端僅需安裝 Litematica 模組即可。伺服器端則無需安裝任何內容。</p>\n<p>若要讓此模組正常運作，請在 Litematica 中將 <code>commandUseWorldEdit</code> 設為 false，並將 <code>pasteNbtRestoreBehavior</code> 設為 <code>None</code>（若您的模組中存在這兩個選項）。</p>\n<p>不過，如果方塊狀態與藍圖相符，則不會再次貼上圖塊實體資料。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

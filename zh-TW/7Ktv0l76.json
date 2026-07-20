@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33b1489eb8bfd368",
+  "content": "\n\nForgeOculus 是什麼？\n本模組是一個專用的移植版本，旨在為 Forge 使用者提供穩定且現代的著色器（Shader）管線。無論您追求真實的光照、動態陰影還是效能提升，ForgeOculus 都是實現這些效果的核心渲染引擎。\n\n功能特色\n著色器相容性：原生支援標準的 Iris 與 OptiFine 風格的著色器套件格式。\n\n現代效能：為 1.21.1 架構設計，確保您的顯示卡能得到高效利用。\n\n模組相容性：設計上能與複雜的 Forge 整合包良好運作，不會與核心遊戲機制發生衝突。\n\n安裝需求\nForgeOculus 需要 Beddium 函式庫才能運作。\n\n下載 Beddium：您可以在這裡找到所需的函式庫：Beddium (GitHub Release)\n\n注意：Beddium 的開發者目前正在將官方版本重新發布至 CurseForge。上方連結提供的是經過驗證、適用於 1.21.1 的相容版本。\n\n安裝 ForgeOculus：將 ForgeOculus 的 .jar 檔案放入 mods 資料夾，並與 Beddium 一同放置。\n\n享受遊戲：啟動遊戲，並在影像設定選單中選擇您喜愛的著色器套件。\n\n請勿將 ForgeOculus 的問題回報至 Iris/Oculus 的官方 GitHub。\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/Uuxy92JNF3\">\n    <img src=\"https://api.tomas65107.dev/cdn/platformdecals/discord.png\" width=\"220\">\n  </a>\n\n  <a href=\"https://curseforge.com/minecraft/mc-mods/forgeoculus\">\n    <img src=\"https://api.tomas65107.dev/cdn/platformdecals/curseforge.png\" width=\"220\">\n  </a>\n\n  <a href=\"https://github.com/peaksuperior885/ForgeOculus\">\n    <img src=\"https://api.tomas65107.dev/cdn/platformdecals/github.png\" width=\"220\">\n  </a>\n</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

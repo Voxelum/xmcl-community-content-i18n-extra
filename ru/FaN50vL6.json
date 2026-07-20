@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e3e0ace03c61d14d",
+  "content": "### О модах\n\nИзменяет модели сундуков из Lootr, используя модели из Nostalgic Tweaks.  \n**Для работы этого ресурс-пака необходимы [Nostalgic Tweaks](https://modrinth.com/mod/nostalgic-tweaks) и [Lootr](https://modrinth.com/mod/lootr).**\n\n***\n\n### Настройка\n\n1.  Установите оба мода: [Nostalgic Tweaks](https://modrinth.com/mod/nostalgic-tweaks) и [Lootr](https://modrinth.com/mod/lootr).\n2.  После установки обоих модов откройте конфигурационный файл Nostalgic Tweaks.\n3.  Перейдите в меню настроек (Config Menu), затем в раздел «Eye Candy».\n4.  Найдите параметр «Old Modded Chests» (Старые модифицированные сундуки) и нажмите «Edit List» (Редактировать список).\n5.  Нажмите кнопку «Add» (Добавить) и добавьте все три сундука из Lootr.\n\n***\n\n[![Curseforge](https://badges.penpow.dev/badges/available/curseforge/cozy-minimal.svg)](https://www.curseforge.com/minecraft/texture-packs/lootr-nostalgic-chests)\n[![Modrinth](https://badges.penpow.dev/badges/available/modrinth/cozy-minimal.svg)](https://modrinth.com/resourcepack/lootr-nostalgic-chests)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

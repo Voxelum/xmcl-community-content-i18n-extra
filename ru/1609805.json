@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28b90894ab1bc910",
+  "content": "\n\n<p>Это форк мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/extended-block-shapes\" rel=\"nofollow\">Extended Block Shapes</a>, исправляющий ошибку при работе с Sinytra Connector на Forge 1.20.1.</p>\n<p>В актуальной версии оригинального мода использовался собственный миксин, который вызывал сбои в тестовой среде. Данный форк заменяет его на миксин из Fabric API.</p>\n<p>Этот форк будет скрыт из публичного каталога сразу после обновления оригинального мода и исправления данной ошибки.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

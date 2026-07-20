@@ -1,0 +1,6 @@
+{
+  "bodyHash": "73e9c675d39aa8bd",
+  "content": "\n\n# EMF Compat: Погружающие мелодии\n\n![Прыгаем и играем!](https://cdn.modrinth.com/data/XLUpeCri/images/78a59aa9b67148fdd8a1da72ba2c0ae9610ba0b7.gif)\n\nНебольшой клиентский мод, который обеспечивает корректную работу анимаций инструментов из **[Immersive Melodies](https://modrinth.com/mod/immersive-melodies)** с моделями игроков из **[Entity Model Features](https://modrinth.com/mod/entity-model-features)**.\n\nПротестировано с **[Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)**, но должно работать с любым ресурс-паком анимаций игроков.\n\n\n<details>\n<summary>Видео</summary>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/3XB3MGHLTVk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n</details>\n\n\n\n## Возможности\n\n- Совместим с **[Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)**.\n- Анимации игры на инструментах не заменяются анимациями из ресурс-паков.\n- Должен работать с большинством ресурс-паков анимаций игроков, использующих EMF.\n\nПриятной игры! ^_^",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

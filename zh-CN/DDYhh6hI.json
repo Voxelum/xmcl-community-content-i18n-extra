@@ -1,0 +1,6 @@
+{
+  "bodyHash": "095ea30e177fa7ab",
+  "content": "\n\n# SearchCarefully\n**SearchCarefully** 是一款 Minecraft 模组，添加了类似《逃离塔科夫》（Tarkov）的战术搜索系统，允许玩家逐步在容器中发现物品。\n\n\n## 特性\n- **物品搜索系统**：对容器内的物品进行分步搜索，提升搜索体验。\n- **外观自定义**：完全可自定义的纹理和音效。\n- **高度可配置**：支持根据物品的稀有度设置不同的搜索时长。\n- **优秀兼容性**：与所有结构箱的战利品无缝兼容。\n\n## 效果预览\n![效果预览](https://cdn.modrinth.com/data/cached_images/8090a757fa15029be59af0360cafb799385f9d67.gif)\n\n## 前置要求 \n\n**RarityCore** [[GitHub](https://github.com/Yanbwe/RarityCore)][[Modrinth](https://modrinth.com/mod/raritycore)]：用于识别物品稀有度的必需依赖项。\n\n## 😋开始使用！\n\n想为战利品添加搜索时间，或修改玩家的搜索速度？  \n想自定义 SearchCarefully 的视觉效果？     \n想使用 SearchCarefully 的 API 吗？     \n想为 SearchCarefully 使用占位符物品吗？  \n**请参阅此页面 -> [SearchCarefully Wiki](https://github.com/Yanbwe/SearchCarefully/wiki)。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

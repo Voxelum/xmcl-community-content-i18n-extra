@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d00cea011d0347e1",
+  "content": "\n\n# 这是什么槽位？\n这是一款简单的实用模组，按住 **左 Alt 键** 即可查询特定槽位可以放入哪些物品。本模组支持 **NeoForge 和 Fabric**（旧版本也支持 Forge）——请务必选择正确的文件！\n\n在模组环境中这尤为实用，因为有时很难明确哪些物品可以放入模组的 GUI 界面中。\n\n![演示](https://i.imgur.com/nZahUCW.gif)\n\n你也可以在查询窗口中点击相关物品，快速将其从背包中转移出来：\n![快捷移动演示](https://i.imgur.com/r8kOtqA.gif)\n\n本模组仅在客户端运行，因此无需安装在服务器上即可使用！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

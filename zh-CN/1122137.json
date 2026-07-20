@@ -1,6 +1,6 @@
 {
-  "bodyHash": "hYz7SSLk3y4=",
-  "content": "<p>一个简单的模组，用于防止在服务器停止时，WorldEdit 导致 Minecraft 服务器挂起。</p><p>它修复了 <a href=\"https://github.com/EngineHub/WorldEdit/issues/2459\" rel=\"nofollow\">https://github.com/EngineHub/WorldEdit/issues/2459</a>。它的功能如下：</p><ul>\n<li>在专用服务器停止时关闭 <code>WorldEdit.getInstance().getExecutorService()</code>（否则服务器最多会挂起 60 秒）</li>\n<li>确保 <code>FutureProgressListener</code> 中的单例 <code>java.util.Timer</code> 对象在守护线程上运行（否则服务器将永远挂起）</li>\n</ul><p>支持的环境</p><table>\n<thead>\n<tr>\n<th>平台</th>\n<th>Minecraft</th>\n<th>WorldEdit</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>fabric</td>\n<td>MC &gt;= 1.14</td>\n<td>&gt;=7.0.0</td>\n</tr>\n<tr>\n<td>forge</td>\n<td>MC &gt;= 1.15</td>\n<td>&gt;=7.0.0</td>\n</tr>\n<tr>\n<td>neoforge</td>\n<td>MC &gt;= 1.20.6</td>\n<td>&gt;=7.0.0</td>\n</tr>\n</tbody>\n</table>",
+  "bodyHash": "3bdfee9b56cbe4f0",
+  "content": "\n\n<p>一个防止在服务器关闭时 WorldEdit 导致 Minecraft 服务器卡死的简单模组</p>\n<p>它修复了 <a href=\"https://github.com/EngineHub/WorldEdit/issues/2459\" rel=\"nofollow\">https://github.com/EngineHub/WorldEdit/issues/2459</a>。主要功能如下：</p>\n<ul>\n<li>在独立服务器停止时关闭 <code>WorldEdit.getInstance().getExecutorService()</code>（否则会导致服务器最多卡死 60 秒）</li>\n<li>确保 <code>FutureProgressListener</code> 中的单例 <code>java.util.Timer</code> 对象在守护线程上运行（否则会导致服务器永久卡死）</li>\n</ul>\n<p>支持的环境</p>\n<table>\n<thead>\n<tr>\n<th>平台</th>\n<th>Minecraft</th>\n<th>WorldEdit</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>fabric</td>\n<td>MC &gt;= 1.14</td>\n<td>&gt;=7.0.0</td>\n</tr>\n<tr>\n<td>forge</td>\n<td>MC &gt;= 1.15</td>\n<td>&gt;=7.0.0</td>\n</tr>\n<tr>\n<td>neoforge</td>\n<td>MC &gt;= 1.20.6</td>\n<td>&gt;=7.0.0</td>\n</tr>\n</tbody>\n</table>",
   "contentType": "text/html",
   "type": "curseforge"
 }

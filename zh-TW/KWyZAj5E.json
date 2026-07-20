@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5f02f3bf486732a1",
+  "content": "\n\n飢餓屬性是一款輕量且可自訂的 Minecraft 模組，讓玩家與整合包開發者能夠控制飢餓值的消耗速度。\n\n功能特色：\n\n- 為所有玩家新增 `hunger_multiplier` 屬性。\n- 允許調高或調低飢餓值的消耗速率。\n- 支援數值範圍從 0.01x（幾乎不消耗飢餓值）到 100x（極快消耗飢餓值）。\n- 完全相容於可修改屬性的物品或效果。\n\n運作方式：\n\n本模組利用 Mixins 與 Forge 屬性 API 修改遊戲底層的飢餓耗損機制。該屬性會自動套用至所有玩家，並可透過指令、數據包（datapack）或其他模組進行調整。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Cj2ePGkAoYw=",
-  "content": "## 關於\n\n新增一種鎖定流體管道狀態的方式，類似於封裝管道。新增了管道扳手的詳細解說，將提供更多細節。\n\n## 警告\n2.x 版本與 1.x 版本不相容，更新時可能會導致問題。為避免此情況，更新前請先解鎖所有管道。\n\n## 更多模組\n\n*   [連結遙控器](https://www.curseforge.com/minecraft/mc-mods/create-more-linked-remote)\n*   [平行管道](https://www.curseforge.com/minecraft/mc-mods/create-more-parallel-pipes)\n*   [包裹中的管道炸彈](https://www.curseforge.com/minecraft/mc-mods/create-more-pipe-bombs-in-packages)\n*   [包裹快遞員](https://www.curseforge.com/minecraft/mc-mods/create-more-package-couriers)\n*   電動泵（開發中）\n\n## 致謝\nSheppenings - 初始管道扳手設計",
+  "bodyHash": "c8873d2c0a5ae326",
+  "content": "\n\n## 關於\n\n新增類似包覆管線的流體管線狀態鎖定功能。已為管線扳手新增 ponder 說明條目，將提供更多詳細資訊。\n\n## 警告\n2.x 版本不與 1.x 相容，更新後可能會導致問題。為降低風險，請在更新前先行解鎖所有管線。 \n\n## 更多 Create 模組\n\n*   [連結遙控器](https://www.curseforge.com/minecraft/mc-mods/create-more-linked-remote)\n*   [平行管線](https://www.curseforge.com/minecraft/mc-mods/create-more-parallel-pipes)\n*   [包裹管線炸彈](https://www.curseforge.com/minecraft/mc-mods/create-more-pipe-bombs-in-packages)\n*   [包裹送遞員](https://www.curseforge.com/minecraft/mc-mods/create-more-package-couriers)\n*   電動幫浦 (開發中)\n\n## 致謝\nSheppenings - 管線扳手初始設計",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

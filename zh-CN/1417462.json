@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2z/2JV9fZ8o=",
-  "content": "<p>这是一个库模组，包含从25.3.2版（小地图）和1.40.2版（世界地图）起，Xaero的小地图和Xaero的世界地图所使用及必需的代码。</p><p>地图模组本身及其详细功能描述可在此处查阅：</p><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap\" target=\"_blank\" rel=\"nofollow\">Xaero的小地图</a></p><p><a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map\" target=\"_blank\" rel=\"nofollow\">Xaero的世界地图</a></p><p>该库模组仅需在Minecraft 1.16.5和1.12.2版本的Forge上安装。<strong><em>没有该库模组，地图模组将无法运行。</em></strong></p><p>在较新的Minecraft版本以及Fabric/Quilt上，该库已默认包含在地图模组中，因此您无需单独安装，这也是此处找不到此类文件的原因。</p><h2>给开发者：</h2><p>请阅读地图模组页面上的“给开发者”部分。</p>",
+  "bodyHash": "3155d0512c7b37fb",
+  "content": "\n\n<p>这是一个库模组，包含自 25.3.2 版本（小地图）和 1.40.2 版本（世界地图）起，Xaero 的小地图与 Xaero 的世界地图所使用且必需的代码。</p>\n<p>这些地图模组本身及其详细功能说明可在此处找到：</p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap\" target=\"_blank\" rel=\"nofollow\">Xaero 的小地图</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map\" target=\"_blank\" rel=\"nofollow\">Xaero 的世界地图</a></p>\n<p>仅在 Minecraft 1.16.5 和 1.12.2 版本的 Forge 上需要安装此模组。<strong><em>没有该库模组，地图模组将无法运行。</em></strong></p>\n<p>在较新版本的 Minecraft 以及 Fabric/Quilt 平台上，该库已默认包含在地图模组中，因此您无需单独安装，这也是为什么这里不提供此类文件的原因。</p>\n<h2>面向开发者：</h2>\n<p>请阅读地图模组页面中的“面向开发者”部分。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "9bx8PNgVBiY=",
-  "content": "Slyde 允許設定超出 Mojang 預期範圍的選項數值（例如：誇張的視野效果或提高的伽瑪值）\n\n若未謹慎使用，這（顯然）會導致問題（例如：在滑桿範圍外變更目標解析度將造成遊戲崩潰）\n\n<details>\n  <summary>致謝</summary>\n  Slyde 修改了選項程式碼，以正確儲存擴展範圍內的數值。此功能的實現基於 <a href=\"https://github.com/apple502j/FiveOneFourOneEight\">apple502j 的 FiveOneFourOneEight</a>。<br>\n  Slyde 可選擇性地鎖定滑桿上的游標，以解決 Windows 系統中螢幕邊緣限制可能數值的問題。此功能靈感來自 <a href=\"https://github.com/No-Eul/SlydeMore\">No-Eul 的 SlydeMore</a>。\n</details>\n\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"建議與支援\" src=\"https://img.shields.io/badge/Suggestions%20and%20Support-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
+  "bodyHash": "a43cb215137593f0",
+  "content": "Slyde 允許設定原本非 Mojang 預期使用的選項數值（例如：荒謬的 FOV 效果或提高的伽馬值）。\n\n如果您不小心操作，這可能會導致問題（例如：將目標解析度更改為滑桿範圍之外的值會導致當機）。\n\n<details>\n  <summary>致謝</summary>\n  Slyde 修改了選項程式碼，以便在擴展範圍內正確儲存數值。此功能的實作基於 <a href=\"https://github.com/apple502j/FiveOneFourOneEight\">apple502j 的 FiveOneFourOneEight</a>。<br>\n  Slyde 可選地鎖定滑桿上的游標，以解決 Windows 上螢幕邊緣限制可能數值的問題。這靈感來自 <a href=\"https://github.com/No-Eul/SlydeMore\">No-Eul 的 SlydeMore</a>。\n</details>\n\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"建議與支援\" src=\"https://img.shields.io/badge/Suggestions%20and%20Support-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

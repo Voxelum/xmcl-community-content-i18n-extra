@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac2d9932391d1c02",
+  "content": "\n\n**Shadow Config** 是一款輕量級的模組配置庫，專注於清晰、自動化與極簡設計。\n\n支援的檔案副檔名：  \n- JSON  \n- JSONC  \n- TOML  \n- YAML  \n\n**範例：**\n\n<details>\n<summary>\n  不同格式的配置檔案\n</summary>\n\n![RandomConfig 預覽](https://files.catbox.moe/05jrlk.png)\n\n</details>\n\n\n\n它提供以下功能：\n\n- **自動配置遷移**，無需版本管理或手動對應\n- **透過註解自動插入說明**，打造易讀且具備文件說明的配置檔案\n- **基於 Jackson 的序列化機制**，完整支援巢狀結構、列表與基本資料型別\n- **格式無關的輸出**，提供整潔排版並可選擇保留註解\n- **極低的執行階段資源佔用**，專為無負擔地整合至模組生態系而設計\n- **支援多種載入器**，方便跨載入器的模組開發",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b9adfbb6ec26fc38",
+  "content": "\n\n[![kinetichosting](https://i.imgur.com/2HlGnLM.png)](https://billing.kinetichosting.net/aff.php?aff=102)\n## 戰士狂怒\n\n...是一款簡單模組，將**連續擊殺（Kill Streak）**的功能帶入 Minecraft。在短時間內擊殺怪物會賦予你更高的攻擊傷害，甚至讓攻擊附帶火焰附加效果。我開發這款模組是為了協助玩家應對地牢中大量怪物湧現的戰鬥。該模組目前仍處於早期開發階段。\n\n![warriorragebanner](https://i.imgur.com/mVCWXQg.png)\n\n[![Discord badge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_64h.png)](https://discord.gg/f8Nnj5VuFj)\n[![Ko-Fi badge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_64h.png)](https://ko-fi.com/tiviacz1337)  \n\n### 功能特色\n\n*   狂怒狀態會在 20（可設定）秒內擊殺 3（可設定）隻怪物後觸發。\n*   畫面會顯示狂怒計量表，代表玩家還剩多少時間擊殺下一隻怪物以維持連殺紀錄。若未在時間內擊殺任何怪物，狂怒狀態就會結束。\n*   快捷欄右側會出現擊殺計數器。預設最大擊殺數為 20（可設定），當玩家達到此上限時，攻擊敵人會使其燃燒 2 秒。\n*   每累積 4（可設定）次連殺，就會增加 0.5（可設定）點預設傷害加成。**這表示在狂怒狀態下達成 20 次連殺，每次攻擊將額外造成 2.5 點傷害**。\n*   啟用狂怒狀態後，每隔幾秒會在玩家周圍生成火焰粒子特效。此視覺效果可在設定檔中關閉。\n\n歡迎隨時留言提供新功能建議！\n\n![warriorragegif](https://i.imgur.com/tX1BGKb.png)\n\n## [點擊這裡查看我的其他模組！](https://modrinth.com/user/Tiviacz1337)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

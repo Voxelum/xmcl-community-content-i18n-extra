@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d79f0f548279dde5",
+  "content": "\n\n# ПЛАВКА КАМНЯ\n\n## Особенности\nДля руд есть доменная печь, для еды — коптильня, \nтак почему бы не сделать ещё одну для камня? «Плавилен» — это вариант печи, \nкоторый быстрее обрабатывает рецепты плавления камня (и стекла)\n(например: булыжник → камень → гладкий камень)\n\n## Совместимость\nПереплавлять можно только ванильные рецепты камня. Однако, \nдругие моды могут просто создать JSON-файл рецепта для своего плавления камня:\n```json\n{\n  \"type\": \"melting:melting\",\n  \"...\": \"...\"\n}\n```\n\n## Получение\n![Melter Crafting Recipe](https://github.com/Anxietie/Stone-Smelting/blob/1.20.1/melter_crafting_recipe.png?raw=true)\n\n## Зависимости\n[Fabric API](https://github.com/FabricMC/fabric)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

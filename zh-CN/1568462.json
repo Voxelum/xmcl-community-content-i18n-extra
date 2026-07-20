@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aed1101c12898b6e",
+  "content": "\n\n<p>JEI Structures 是一款为 JEI 添加结构信息浏览功能的模组。<br>\n它允许你直接在 JEI 中查看各类建筑与结构中包含的生物、战利品物品、容器内实际存放的物品，以及对应方块的掉落表信息，帮助你快速了解某个结构会生成什么、可能掉落什么，以及包含哪些特殊内容。</p>\n<p>主要功能：</p>\n<p>在 JEI 中查看结构生物与掉落物 查看容器内实际存放的物品 查看对应方块的详细掉落表信息 支持特殊方块与特殊生物的信息标记 进入结构时，右上角会弹出提示框显示该结构的名称。按下 K 键可打开对应的 JEI 页面。</p>\n<p>**如何使用本模组  </p>\n<p>/jei_structures export&nbsp;可以收集并提供一定量的信息。这对普通玩家而言已足够，但它无法收集硬编码的生物与掉落信息。</p>\n<p>/jei_structures debug_capture_quick&nbsp;几乎可以找到所有生物与掉落信息，但收集过程可能需要较长时间。使用方法请参阅下方的项目介绍。</p>\n<p><a href=\"https://github.com/hp3081925122/JEI-Structures/\" target=\"_blank\" rel=\"nofollow\">hp3081925122/JEI-Structures</a></p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1568462/description_666ac7f1-b82a-4b9d-9a83-600e5022d0ae.png\" alt=\"\"><br>\n<img src=\"https://media.forgecdn.net/attachments/description/1568462/description_ea0eb965-54ad-4938-9b93-6527f4c2cef7.png\" alt=\"\"><img src=\"https://media.forgecdn.net/attachments/description/1568462/description_f37141f9-b9d3-4dd4-a66b-f1524de44e6b.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

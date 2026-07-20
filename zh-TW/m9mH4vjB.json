@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2099b684e7e6cda7",
+  "content": "\n\n## 請先閱讀！\n這個着色器目前仍處於測試階段，請做好遇到問題的準備，因為這很可能會發生。如果您發現任何問題，請隨時通知我！我正積極地改進和修復 Phoxel，您的反饋將大大減輕我的工作負擔。\n\n## 關於 Phoxel\nPhoxel 的誕生是因為缺乏公開可用的 Minecraft 路徑追蹤着色器，原本設計風格純為還原原版。但隨著 0.6 版本的重新發布，Phoxel 開始發展出自身的視覺風格。我現在致力於讓 Phoxel 捕捉現實生活的一些美感，並將其與我們所愛的 Minecraft 獨特的氛圍和方塊美學相結合。\n\nPhoxel 目前包含兩種着色器：Phoxel PT 與 Phoxel Lite，部分資訊在這兩者之間會有差異。所有新功能與版本更新都會先在 Phoxel PT 推出，之後才移植至 Phoxel Lite；不過 Phoxel Lite 會比 Phoxel PT 更早擁有一些特定功能，純粹是因為部分功能在沒有路徑追蹤的情況下更容易實作。\n\n## Phoxel PT\n### Phoxel PT 專為截圖設計，若您希望於實際遊玩中使用 Phoxel，請前往查看 Phoxel Lite（尚未開放）\nPhoxel PT 是最初的版本，其最終目標是將 Phoxel 的核心設計理念發揮到極致。（當然，這需要一定的渲染時間 :P）\n\n## 額外資訊\n請在 [Github](https://github.com/Despatra/Phoxel) 回報問題並查看專案的最新動態。歡迎前往 [Discord](https://discord.com/invite/GSF9D3Q2T5) 了解活動、提出疑問或進行更多互動。\n\n### 最近一次更新\nPhoxel 回歸了，但未來的運作模式將有所調整：\n1. 我不再發布 Beta 測試版，未來所有專案將僅包含正式版本與更新補丁。\n2. 所有正式版本都會持續接收更新補丁，以確保能與最新版的 Minecraft 相容。\n\n通常這意味著發行的間隔會比 Phoxel 0.5 Beta 之前更長，但我認為大家絕對值得擁有品質穩定、不粗製濫造的着色器與專案。\n我接下來還會嘗試幾項新方案，但若這些嘗試無效，或是超出我的能力範圍，Phoxel 可能無法達到預期的效能表現。屆時它可能會轉向專為截圖設計的着色器，而非即時路徑追蹤，其畫質可能也永遠無法與其他作品媲美。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

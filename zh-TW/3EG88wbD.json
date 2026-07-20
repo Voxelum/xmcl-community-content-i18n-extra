@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c01353714230be53",
+  "content": "\n\n# 染色樹苗\n\n一款輕量級的 Minecraft 1.21.7 資料包，新增了八種不限位置合成配方，讓您能將任何樹苗「染色」成其他樹木種類。無需指令、函數或額外依賴——純粹依靠合成即可。\n\n---\n\n## 功能說明\n\n* 在工作檯中，將任何原版樹苗與對應顏色的染料組合，即可獲得新的樹苗類型。\n* 支援以下轉換：\n\n  * **橡樹** ← 綠色染料\n  * **雲杉** ← 棕色染料\n  * **白樺** ← 白色染料\n  * **叢林** ← 黃綠色染料\n  * **金合歡** ← 橙色染料\n  * **深色橡樹** ← 黑色染料\n  * **櫻樹** ← 粉紅色染料\n  * **蒼白橡木** ← 淺灰色染料\n\n## 安裝方式\n\n1. 下載 `DyableSaplings` 資料包的 ZIP 檔案，或從 Modrinth 複製。\n2. 將 `DyableSaplings` 資料夾放入您的世界資料夾中的 `datapacks/` 目錄內。\n3. 啟動 Minecraft 1.21.4 或更新版本，並在遊戲內執行 `/reload`。\n4. 使用 `/datapack list` 確認已載入（應顯示 `DyableSaplings` 為啟用狀態）。\n\n## 使用方法\n\n1. 開啟工作檯。\n2. 將任意樹苗放入其中一個格子。\n3. 將對應的染料（見上方列表）放入其他任意格子。\n4. 從結果格中取出您的染色樹苗。\n\n> 範例：任意樹苗 + 粉紅色染料 → 櫻樹樹苗\n\n---\n\n## 📄 詳細資訊\n\n* **資料包格式：** 81（適用於 1.21.7，您亦可下載較舊版本）\n* **檔案結構：**\n\n  ```\n  DyableSaplings/\n  ├ pack.mcmeta\n  ├ pack.png\n  └ data/\n    └ dyeablesaplings/\n      └ recipes/\n        ├ dye_to_oak_sapling.json\n        ├ dye_to_spruce_sapling.json\n        └ …\n  ```\n\n## 授權條款\n\n本資料包以 MIT 授權條款發布。歡迎自由修改與重新發行。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

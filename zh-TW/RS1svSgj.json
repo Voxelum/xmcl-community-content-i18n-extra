@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ba9c24e39d42f21f",
+  "content": "\n\n## 這個數據包有什麼用？\n使用這個數據包，你可以在切石機中將 [Chipped](https://modrinth.com/mod/chipped) 新增的方塊變體轉換回它們的原始狀態。這能節省時間，對於像 Create 這樣的整合包非常實用，因為它在 Create 的機械鋸上也能運作。\n\n## 我為什麼要使用這個數據包而不是其他的？\n這個數據包_僅_新增了將方塊「拆解」回原樣的配方，因此你可以進行以下操作：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/DaBs-sz0jKA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n_(影片結尾展示了它與 [Create Mod](https://modrinth.com/mod/create)／[Create Fabric Mod](https://modrinth.com/mod/create-fabric) 的運作方式)_\n\n### 鳴謝：\n本數據包是使用 [Misode 的數據包生成器](https://misode.github.io/) 製作的。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

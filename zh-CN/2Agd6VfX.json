@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ffe6bc970d0ae8e9",
+  "content": "\n\n使用鼠标滚轮来移动你的选择区域和建筑！\n\n需要 [Fabric API](https://modrinth.com/mod/fabric-api/) 和 [Cloth Config API](https://modrinth.com/mod/cloth-config)。若要在游戏内编辑配置，请使用 [Mod Menu](https://modrinth.com/mod/modmenu)。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/nZorUKIhUSQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n- 支持 `//move`、`//expand`、`//contract`、`//shift` 和 `//stack`。\n- 激活模组请按 <kbd>Alt</kbd>¹。\n- 切换指令请按住 <kbd>Ctrl</kbd>² 并滚动。\n- 支持垂直和水平滚动。如果这两个方向不够用，请按 <kbd>Z</kbd>³ 切换另一组方向。\n- 你也可以为每个指令单独绑定按键。\n- 还支持自定义以下选项：\n    - 调整滚动阈值。\n    - 更改物体的移动方向。\n    - 设置按钮是点击切换还是需持续按住。\n    - 更改颜色。\n\n---\n\n¹使用已选模式（默认点击切换）\n²滚动切换模式（默认需按住）\n³切换滚动方向（需按住）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

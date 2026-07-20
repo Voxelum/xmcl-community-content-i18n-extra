@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ee6ff189ecbb2c56",
+  "content": "\n\n此模組僅會移除遊戲暫停畫面中 1.19.1 版以上新增的「聊天回報」按鈕，並將其替換為停用狀態的「對區域網路開放」按鈕（當處於多人伺服器時），恢復 1.19.1 版之前的樣貌。\n\n支援 Fabric、Forge 與 Quilt 1.19.1 以上版本  \n理論上應與所有模組相容，但若發現不相容的情況，歡迎提交 Issue 回報。\n\n### v1.6.1 更新內容\n\n* 現已支援 Minecraft 1.21+ 的 NeoForge\n\n**無需 Fabric API。**\n\n請查看[這裡](https://github.com/Lucaslah/No-Report-Button?tab=readme-ov-file#no-report-button)以確認適用的版本，或前往檔案頁籤下載支援您目前 Minecraft 版本的最新 NRB 模組。   \n\n**本模組僅支援用戶端，若在伺服器上使用將不會產生任何作用。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "brSJPCtkpsE=",
-  "content": "<p>通过修改Sable的loadLibrary方法，使其加载此补丁模组中包含的安卓原生库，从而允许你在安卓设备上运行Sable。</p><p>本模组不包含Sable本体。请在此处下载：<a href=\"https://www.curseforge.com/minecraft/mc-mods/sable\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/sable</a></p><p>此模组专为使\"Create Aeronautics\"在安卓上运行而制作。&nbsp;</p><p>如遇到与sap/sable相关的崩溃问题，请通过点击<code>issues</code>按钮或点击以下链接在项目GitHub页面上报告：\n <a href=\"https://github.com/sa1672ndo/sable-android-patch/issues\" target=\"_blank\" rel=\"nofollow\">https://github.com/sa1672ndo/sable-android-patch/issues</a>\n（您需要一个GitHub账号来创建新问题）</p>",
+  "bodyHash": "6af4a286cfe7014e",
+  "content": "\n\n<p>通过修改其 loadLibrary 方法，使您能够在 Android 上运行 Sable，并加载此补丁模组中包含的 Android 原生库。</p>\n<p>本模组不包含 Sable 本体。请在此下载：<a href=\"https://www.curseforge.com/minecraft/mc-mods/sable\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/sable</a></p>\n<p>专为使 Create: Aeronautics 在 Android 上运行而制作。</p>\n<p>请在项目的 GitHub 仓库中报告任何与 sap/Sable 相关的崩溃问题，点击 <code>Issues</code> 按钮或点击此链接：\n <a href=\"https://github.com/sa1672ndo/sable-android-patch/issues\" target=\"_blank\" rel=\"nofollow\">https://github.com/sa1672ndo/sable-android-patch/issues</a>\n（创建新问题需要 GitHub 账号）</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

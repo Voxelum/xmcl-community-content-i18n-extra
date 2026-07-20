@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YejA2rTAIj4=",
-  "content": "# 🧠 Easy NPC：核心模組\n\n_**Easy NPC：核心模組**_ 包含 _Easy NPC_ 模組的基礎邏輯。  \n它為其他 Easy NPC 模組提供了必要的後端系統。\n\n## 🔧 功能說明\n\n- 📦 **包含** 核心的 _Easy NPC_ 功能。\n- ⚙️ **提供** 共享的後端邏輯與基礎架構。\n- 🧩 **被以下模組所依賴**：\n  - `easy_npc-config-ui`\n  - `easy_npc-bundle`\n\n## 👨‍💻 適用對象\n\n此模組最適合：\n\n- 🖥️ **伺服器擁有者**\n- 🧪 **模組開發者**\n- 🧪 **整合包開發者**\n- 🔧 **進階使用者或多人遊戲環境**\n\n如果您**不需要**內建的設定介面，或希望更精確地控制 Easy NPC 的整合方式，請使用此版本。\n\n## 🙅 不適合一般玩家\n\n> ⚠️ 大多數玩家應使用**整合版本**，其中包含易於使用的設定介面。  \n> 👉 下載連結：[modrinth.com/mod/easy-npc](https://modrinth.com/mod/easy-npc)\n\n## ✅ 可獨立使用\n\n雖然它**可以**單獨使用，但主要設計為模組化後端，適用於更複雜的配置。\n\n## 介紹與概覽影片（英文）\n\n<span><span><span><iframe width=\"788\" height=\"443\" src=\"https://www.youtube.com/embed/RYCN2KtFl-4\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></span>",
+  "bodyHash": "621ae4c49abb9190",
+  "content": "# 🧠 Easy NPC：核心模組\n\n_Easy NPC：核心模組_ 包含了 _Easy NPC_ 模組的基礎邏輯。  \n它提供了其他 Easy NPC 模組所使用的關鍵後端系統。\n\n## 🔧 功能說明\n\n- 📦 **包含** _Easy NPC_ 的核心功能。\n- ⚙️ **提供** 共享的後端邏輯與基礎架構。\n- 🧩 **為以下模組所依賴**：\n  - `easy_npc-config-ui`\n  - `easy_npc-bundle`\n\n## 👨‍💻 誰應該使用這個模組？\n\n此模組最適合以下使用者：\n\n- 🖥️ **伺服器管理員**\n- 🧪 **模組開發者**\n- 🧪 **整合包開發者**\n- 🔧 **進階使用者或多人遊戲環境**\n\n如果您**不需要**內建的設定介面，或希望更精確地控制 Easy NPC 的整合方式，請使用此版本。\n\n## 🙅 不適合一般玩家\n\n> ⚠️ 大多數玩家應使用**整合版（Bundled Version）**，該版本包含使用者友善的設定介面。  \n> 👉 下載位置：[modrinth.com/mod/easy-npc](https://modrinth.com/mod/easy-npc)\n\n## ✅ 可獨立使用\n\n雖然此模組可以**單獨**運作，但它主要設計作為更複雜組態的模組化後端。\n\n## 介紹與概覽影片（英文）\n\n<span><span><span><iframe width=\"788\" height=\"443\" src=\"https://www.youtube.com/embed/RYCN2KtFl-4\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></span>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

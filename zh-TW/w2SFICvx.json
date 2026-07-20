@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b31e7a553c916d83",
+  "content": "\n\n![Minecraft 聊天視窗的截圖，顯示 Compact Chat 將多則訊息壓縮成單行](https://raw.githubusercontent.com/caoimhebyrne/compact-chat/refs/heads/main/.github/screenshot.png)\n\nCompact Chat 是一款 Minecraft 模組，可移除聊天中的重複訊息，並提供多種自訂選項。\n\n<div>\n    <img alt=\"fabric\" height=\"40\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg\">\n    <img alt=\"fabric\" height=\"40\" src=\"https://raw.githubusercontent.com/Hyperbole-Devs/vectors/8494ec1ac495cfb481dc7e458356325510933eb0/assets/compact/supported/neoforge_vector.svg\">\n</div>\n\n<br />\n\n## 與其他模組的相容性\n\nCompact Chat 致力於與其他模組相容，特別是那些在訊息開頭加入時間戳記的模組。\n\n預設情況下，Compact Chat 不會壓縮以時間戳記開頭的訊息，但您可以在設定畫面中調整「忽略開頭字元數」選項來變更此行為\n（需安裝\n[ModMenu](https://modrinth.com/mod/modmenu) 才能開啟！）。\n\n![Compact Chat 設定畫面的截圖，顯示「忽略開頭字元數」選項設定為 '10'](https://raw.githubusercontent.com/caoimhebyrne/compact-chat/refs/heads/main/.github/ignore-first-characters.png)\n\n設定此數值後，Compact Chat 將會忽略訊息開頭直到指定長度的字元。\n\n例如，當設定為 `10` 且訊息如下時：\n\n```\n[20:19:00] <caoimheee> hello!\n```\n\nCompact Chat 會將其視為：\n\n```\n<caoimheee> hello!\n```\n\n## 授權條款\n\n本專案採用 [MIT](./LICENSE) 授權條款。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

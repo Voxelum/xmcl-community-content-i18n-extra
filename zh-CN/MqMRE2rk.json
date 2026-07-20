@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dc53451509577491",
+  "content": "\n\n# FTB 队伍人数上限\n\n本模组允许您设置 FTB Teams 队伍成员与盟友的最大人数，并提供其他相关选项。\n\n我创建这个模组是因为我很惊讶地发现，尽管该功能相当重要，但 FTB Teams 默认并未提供此选项。\n\n## 配置说明\n\n配置文件位于 config/ftb-teams-max-size.toml，包含以下选项：\n- `maxTeamMemberSize` = FTB 队伍成员的最大人数上限。\n- `maxTeamAlliesSize` = FTB 队伍盟友的最大人数上限。\n- `includeAllies` = 是否将盟友计入队伍成员总人数。\n- `allowOPs` = 是否允许 OP 绕过人数限制，向队伍添加玩家或建立盟友关系。\n- ……以及更多选项。\n\n### 更多功能与反馈\n\n如果您希望建议新功能或提交 Bug 报告，请加入我们的 [Discord](https://discord.gg/6AEUFWWtSu)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

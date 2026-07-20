@@ -1,0 +1,6 @@
+{
+  "bodyHash": "03c653cb28130a01",
+  "content": "<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/997023/description_0051767a-5c5b-4279-a884-38079a8979dd.png\"></p>\n<p><strong>Требования:</strong><strong> <a href=\"https://www.curseforge.com/minecraft/mc-mods/pehkui\" rel=\"nofollow\">Pehkui</a></strong></p>\n<p>&nbsp;</p>\n<p>Добавляет контроллер, использующий API Pehkui для изменения размера игрока (уменьшение и увеличение).</p>\n<ul>\n<li>Нажатие комбинации Shift+ПКМ откроет интерфейс и позволит установить конкретный размер (в пределах диапазона, который можно изменить в файле конфигурации).\n<ul>\n<li>Нажмите зеленую кнопку для подтверждения размера.</li>\n</ul>\n</li>\n<li>После установки размера нажатие ПКМ с контроллером изменит ваш размер до установленного, а повторное нажатие вернет вас к нормальному размеру.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

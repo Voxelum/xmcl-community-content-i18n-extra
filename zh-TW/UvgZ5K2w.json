@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0dd80194cde59d4a",
+  "content": "\n\n[<img alt=\"dacl-required\" height=\"56\" src=\"https://maven.kasetoatz.com/com/kasetoatz/dacl/dacl_required_badge.png\">](https://modrinth.com/mod/dacl)\n\n此模組修改了釣魚竿漏洞的運作方式，使其更易於使用。\n\n在原版 Minecraft 中，你可以在區塊邊界建造「終界珍珠靜滯室」來傳送到任何地方。方法是將釣魚竿放在壓力板上，然後卸載該區塊。這樣伺服器就不知道你的釣魚竿還掛著浮標，現在你可以隨時使用這根釣魚竿來刷新它，從而啟動靜滯室。\n\n問題在於，如果你離開並重新登入，浮標會立即被銷毀。此模組透過改用釣魚竿點擊壓力板來手動保持壓力板處於激活狀態，而不是依賴浮標，從而解決了這個問題。這樣你就可以把釣魚竿放在任何地方，隨意離開和重新登入，下次使用釣魚竿時它都會正常啟動。\n\n此模組有一個設定選項：\n* **拉動釣魚竿時的損耗：** 釣魚竿被拉動後應承受的損傷量。預設值為 1。\n\n---\n[<img alt=\"discord-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg\">](https://discord.com/invite/jpFJG8dujR)\n[<img alt=\"kofi-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular_vector.svg\">](https://ko-fi.com/kasetoatz)\n[<img alt=\"paypal-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/paypal-singular_vector.svg\">](https://paypal.me/KaasToast)\n\n正在尋找一個有趣的 Minecraft 遊玩地點，並想體驗一些我的模組嗎？歡迎來 El Basurero SMP 交流！\n\n- **IP：** `play.ebsmp.com`\n- **推薦版本：** 26.2（其他版本也可以使用！）\n- **基岩版：** 支援\n- **額外福利：** 在遊戲內即時測試我大部分的伺服器端模組！\n\n更多資訊請查看 [文件](https://ebsmp.com/)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

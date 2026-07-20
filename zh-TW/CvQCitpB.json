@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71d39d432901611e",
+  "content": "\n\n[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4DZF4D)\n\n<img src=\"https://raw.githubusercontent.com/MrNavaStar/EasyEula/master/common/src/main/resources/assets/easyeula/icon.png\" width=\"300\" height=\"300\">\n\n# Easy Eula\n一個輕量級的 Minecraft 模組，讓你能夠直接在控制台同意 Minecraft EULA，而無需重新啟動伺服器！\n\n# 給開發者的說明\n為了方便開發 Minecraft 伺服器，你可以將此模組加入專案的 build.gradle 檔案中。\n```gradle\nrepositories {\n    maven { url \"https://api.modrinth.com/maven\" }\n}\n\ndependencies {\n  modImplementation(\"maven.modrinth:easy-eula:1.1.0-fabric\") // Or -forge\n}\n```\n\n\n如果需要額外功能，也可以透過程式碼來接受 EULA：\n```java\nEasyEula.acceptEula();\n```\n這對於在自動化環境中運行的測試模組特別實用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

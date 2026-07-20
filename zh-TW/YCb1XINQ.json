@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5024388a0ad2651",
+  "content": "\n\n# [TaCZ] First Aid 相容模組\n這是一個相容性模組，在使用 **TacZ (Timeless and Classics Zero)** 搭配 **First Aid** 時，可實現精確的 3D 碰撞箱傷害分配。\n## 功能特色\n- **真實肢體部位命中**：使用精確的 3D 命中位置來判定擊中的身體部位，取代 First Aid 預設的隨機或高度基礎分配方式\n- **正確的護甲保護**：針對每個身體部位（頭部、胸部、腿部、腳部）計算護甲防護效果\n- **傷害溢出**：實作真實的傷害溢出機制——當四肢被摧毀時，多餘的傷害會轉移至軀幹\n- **匍匐支援**：正確處理玩家在 TacZ 的匍匐／臥倒狀態下的傷害分配\n- **爆炸支援**：根據距離進行爆炸傷害分配\n## 需求\n- **Minecraft**：1.20.1\n- **Forge**：47.3.0 以上\n- **TacZ (Timeless and Classics Zero)**：1.1.7 以上\n- **First Aid**：1.20.1-1.1+\n## 安裝\n1. 下載模組 JAR 檔\n2. 將其放入您的 `mods` 資料夾中\n3. 確保已同時安裝 TacZ 與 First Aid\n4. 啟動遊戲！\n## 運作原理\n本模組使用 Mixin 攔截 TacZ 的子彈命中事件與 First Aid 的傷害分配系統：\n1. 當 TacZ 子彈命中玩家時，會捕捉精確的 3D 命中座標\n2. 將命中座標轉換為玩家本地座標（考慮旋轉與姿勢）\n3. 透過 3D 碰撞箱系統判定擊中的身體部位\n4. First Aid 會針對該特定部位套用傷害，並進行正確的護甲計算\n5. 若該部位被摧毀，多餘的傷害將溢出至軀幹\n## 技術細節\n- **碰撞箱系統**：為每個身體部位（頭部、軀幹、手臂、腿部、腳部）定義精確的 3D 碰撞盒\n- **座標轉換**：處理世界座標至本地座標的轉換，並正確處理水平旋轉與匍匐定位\n- **溢出邏輯**： \n  - 子彈：80% 的多餘傷害會轉移（20% 能量損耗）\n  - 爆炸：100% 的多餘傷害會轉移（衝擊波效應）\n  - 腳部：傷害首先溢出至對應的腿部，隨後再轉移至軀幹\n## 授權條款\nMIT 授權條款 - 詳情請參見 [LICENSE](LICENSE)\n## 致謝\n- **作者**：Ranazy\n- **TacZ**：[Timeless and Classics Zero](https://modrinth.com/mod/timeless-and-classics-zero)\n- **First Aid**：[First Aid](https://modrinth.com/mod/firstaid)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

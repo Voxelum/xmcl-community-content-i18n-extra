@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9e6f039ef800106b",
+  "content": "\n\n<p>Этот мод автоматически изменяет максимальный размер стака для всех предметов, в названии которых содержится слово &quot;soup&quot; на любом языке:</p>\n<pre><code>Английский: soup\nРусский: суп\nНемецкий: suppe\nФранцузский: soupe\nИспанский: sopa\nИтальянский: zuppa\nи другие\n</code></pre>\n<p><strong>Особенности:</strong></p>\n<p>✅ Работает со всеми супами из ванильного Minecraft</p>\n<p>✅ Совместим с супами от других модов</p>\n<p>✅ Автоматически определяет супы по названию</p>\n<p>✅ Поддержка нескольких языков</p>\n<p>✅ Использует Mixin для надёжности</p>\n<p>Исходный код доступен по адресу <a href=\"https://github.com/TickiDevelop/soupstacking\" rel=\"nofollow\">https://github.com/TickiDevelop/soupstacking</a>. Вы можете использовать его в своих целях в соответствии с лицензией MIT.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "91c2805abdf11c12",
+  "content": "\n\n# 伤害修正模组\n\n当单次攻击已足以决定战局时，本模组会自动补全微小的伤害差值，带来更干脆流畅的战斗体验。\n\n## 设计目标\n\n你是否曾蓄力良久释放强力攻击，却发现敌人仅剩下丝血？\n\n或是因为Boss凭借仅剩的一点血量反杀翻盘？\n\n本模组正是为了解决这些情况而诞生的！\n\n它会评估最终造成的伤害结果。如果玩家造成的伤害*几乎*足以击杀生物，模组将自动补全差额，完成最后一击。\n\n战斗，就是这么爽快。\n\n## 机制说明\n\n### 计算逻辑\n\n* `finalDamage`：最终有效伤害（已计算护甲、附魔等因素后）\n* `healthBefore`：目标受到伤害前的生命值\n\n```\nIF\nhealthBefore > finalDamage\nAND\nhealthBefore - finalDamage <= finalDamage * k\n```\n\n其中：\n\n`k` 决定了剩余血量（相对于造成伤害的比例）在多大范围内会被判定为“接近”，从而触发全额伤害修正。\n\n### 示例\n\n* 怪物生命值：10\n* 最终造成伤害：8\n\n剩余生命值：2\n\n在默认设置 `k = 0.5` 下：\n\n`2 <= 8 * 0.5  → True`\n\n👉 额外附加 2 点伤害，直接秒杀该怪物。\n\n但如果怪物的生命值为 20：\n\n```\n20 - 8 = 12\n12 > 8 * 0.5 → False\n```\n\n👉 不触发修正；伤害按正常方式结算。\n\n## 配置项\n\n以下选项可在\n`config` 文件夹下的\n`damage_correction-common.toml` 中进行修改。\n\n![模组配置页面截图](https://cdn.modrinth.com/data/cached_images/0857c0ad766488df4adacd5f17ca5542f8105b38_0.webp)\n\n## 许可证\n\n本项目遵循 MIT 许可证开源。欢迎自由使用 😊",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

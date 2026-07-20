@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3f0d3e8b3a238b59",
+  "content": "\n\n<h1 style=\"text-align:center\">火把发射器</h1>\n<p><strong>火把发射器</strong> 让你能够从远处发射火把。无需频繁停下放置火把，即可照亮洞穴！</p>\n<h2>功能特性</h2>\n<ul>\n<li>可远距离发射火把。</li>\n<li>自动将火把放置在合适的放置面上。</li>\n<li>无法放置的火把会作为可拾取物品掉落。</li>\n<li>在背包中携带普通火把即可为发射器补充弹药。</li>\n<li>使用耐久度机制，而非直接消耗火把。</li>\n<li>兼容“耐久”附魔——每级“耐久”会增加发射器的最大耐久度上限，而非减少耐久损耗，从而防止无限复制火把。</li>\n</ul>\n<p>&nbsp;</p>\n<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/null/description_138e4ab2-581c-4209-a09f-4555a34c1687.png\" alt=\"合成配方\" width=\"360\" height=\"198\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

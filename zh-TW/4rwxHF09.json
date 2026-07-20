@@ -1,0 +1,6 @@
+{
+  "bodyHash": "21ea236659d4e4b4",
+  "content": "\n\n# Ars Mekanica\n\n  一款相容性模組，連接 **Ars Nouveau** 與 **Mekanism**，讓兩者的\n  內容能更好地協同運作。這是第一步，未來版本計畫加入更多整合功能。\n\n  目前它填補了一個明顯的缺口：Ars Nouveau 的巨木附帶完整的\n  木製物品組，但 Mekanism 並未提供相關的鋸木機配方——這使得巨木原木在 Mekanism\n  系統中無法進一步利用。Ars Mekanica 補上了遺漏的**精密鋸木機**\n  配方，讓巨木的行為完全如同原版木材一般。\n\n  ## 新增內容\n\n  為巨木提供精密鋸木機配方，比例與 Mekanism 對原版木材的處理方式一致：\n\n  - 巨木原木／木材／去皮變體 → 巨木板（＋木屑）\n  - 巨木門、活板門、柵欄、柵欄門、壓力板、按鈕、半磚、\n    階梯、告示牌、懸掛告示牌、船隻與箱子 → 巨木板\n\n**源力發電機**（Source Dynamo）—— 一個能將 Ars Nouveau 源力轉換為 Mekanism 機器所需 Forge 能量的方塊。將其放置於源力罐與用電設備之間；所有轉換比例皆可自訂設定。\n\n  ## 需求\n\n  必須同時安裝 **Ars Nouveau** 與 **Mekanism** —— 單獨安裝 Ars Mekanica 不會產生任何\n  作用。\n\n  | Minecraft | 載入器            |\n  |-----------|-------------------|\n  | 1.21.1    | NeoForge          |\n  | 1.20.1    | Forge / NeoForge  |\n\n  不想額外增加模組數量嗎？我們也提供了獨立的**數據包**版本。\n\n  ## 未來計畫\n視玩家需求而定，後續版本可能會加入更深入的源力與 Mekanism 化學系統整合，或其他跨模組相容性。目前尚未做出具體承諾。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e7cf63f13f64e793",
+  "content": "\n\n## Inmis\n\n![](https://raw.githubusercontent.com/Draylar/inmis/1.20/assets/ui/banner.png)\n\n![](https://raw.githubusercontent.com/Draylar/inmis/1.20/assets/ui/banner_cave.png)\n\n---\n\n![](https://img.shields.io/github/stars/Draylar/inmis)\n![](https://img.shields.io/github/license/Draylar/inmis)\n\nInmis 是一款專為 [Fabric Loader](https://fabricmc.net/) 打造的背包模組。 \n需另行安裝 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)。\n預設情況下，您可以右鍵點擊背包來開啟它，或按下 `B` 鍵開啟背包欄位中第一個可用的背包。\n背包可裝備於胸甲防具欄位，並可使用相同的快捷鍵開啟。\n\n### 相容性\n\n若您同時安裝 [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric)，即可將 Inmis 背包裝備至背包 Trinket 欄位。\n\n若想預覽背包內容，請試試看 [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)！\n\n### 設定 ⚙\n\nInmis 可透過遊戲目錄中的 `config/inmis.json` 檔案進行完整設定。 \n這將允許您停用主背包欄位的背包、要求玩家必須在防具欄位穿戴背包，甚至能讓您新增自訂背包！\n\n### 授權條款 📃\n\nInmis 採用 MIT 授權條款釋出。 \n\n---\n\n![](assets/ui/Items.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

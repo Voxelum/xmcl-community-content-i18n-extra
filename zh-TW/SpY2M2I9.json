@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d9fe2ad186dbb358",
+  "content": "\n\n# 更好的資源包排序\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1607S8)\n\n需要 [Fabric Loader](https://fabricmc.net/use/)\n\n標誌由 [@CarbonGhost](https://github.com/CarbonGhost) 製作\n\n## 安裝方法\n\n- 將模組放入 mods 資料夾中\n\n## 資訊\n\n此模組會變更可用資源包列表的排序順序\n\n- 大小寫字母會相鄰排序\n- 會忽略格式化代碼以降低混淆\n\n自 v1.1.0 版本起，此模組也支援新增自訂資源包名稱：\n\n- 在 `pack.mcmeta` 中新增 `name` 欄位，用於覆寫資源包的顯示名稱\n- 不再顯示 `pack-name.zip`，而是顯示 `This is a custom name`，並同時套用自訂樣式\n\n```json\n{\n    \"pack\": {\n        \"pack_format\": 8,\n        \"name\": \"\\u00A72This is a custom name\",\n        \"description\": \"\\u00A73Custom description\\nby MrMelon\"\n    }\n}\n```\n\n自 v1.1.1 版本起：游標懸停在資源包上時按住 Alt 鍵，即可顯示原始檔案名稱\n\n## Discord\n\n- https://discord.gg/usbmdrJ\n\n## 下載\n\n- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-resource-pack-sorting)\n- [Modrinth](https://modrinth.com/mod/better-resource-pack-sorting)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

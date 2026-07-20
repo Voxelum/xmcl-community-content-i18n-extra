@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b07bb99d2928642b",
+  "content": "\n\n# ModChecker\n![靜態徽章](https://img.shields.io/badge/MC-1.20.x|1.21.x-green)\n![Modrinth 下載次數](https://img.shields.io/modrinth/dt/qQjdBu4k?logo=Modrinth&style=flat-square)\n\n[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)\n\n<a href=\"https://www.buymeacoffee.com/tubyoub\">\n  <img src=\"https://cdn.modrinth.com/data/cached_images/e940ad7e43691afb850183b570447d83d25405c1.png\" alt=\"buymeacoffee\" width=\"174\">\n</a>\n\n\n<p align=\"center\">\n    <a href=\"https://discord.tubyoub.de\">\n        <img src=\"https://i.imgur.com/JgDt1Fl.png\" width=\"300\">\n    </a>\n    <br/>\n    <i>如果有問題，歡迎加入 Discord！</i>\n</p>\n\n此模組僅用於檢查您已安裝的模組是否符合 GitHub 上的允許[清單](https://github.com/TubYoub/ModChecker/blob/master/allowed_mods.json)。\n## 功能特色\n<br> <br>\n### **此模組不會將您使用的具體模組分享給伺服器管理員，只會顯示是否偵測到未預期的模組。**\n<br><br>\n\n此模組會從[儲存庫](https://github.com/TubYoub/ModChecker)擷取一個 JSON 檔案，其中包含允許模組的[清單](https://github.com/TubYoub/ModChecker/blob/master/allowed_mods.json)。\n如果沒有發現違規模組，它會自動更改客戶端名稱（伺服器擁有者可選擇查看）。 \n\n一般客戶端名稱：ModChecker-fabric v1.2 (未偵測到未預期模組)\n發現未預期模組：ModChecker-fabric v1.2 (已偵測到未預期模組)\n\n## 將更多模組加入清單\n如果您希望我將更多模組加入允許清單，請在儲存庫中建立 Issue 或提交包含變更的 Pull Request。\n___\n我知道這個模組很容易被繞過，但這只是小小的防範措施，因為我不太信任我的朋友們。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

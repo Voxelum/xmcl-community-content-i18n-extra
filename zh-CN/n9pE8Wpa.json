@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9b8c66e29ee334cf",
+  "content": "\n\n一款兼容性与配置模组，旨在优化 Sable 与 Vivecraft VR 之间的交互体验。\n\n修复了在使用 Vivecraft 进行瞬移时，移动至 Sable 基于物理引擎的动态结构上可能引发的异常行为。\n\n防止因 VR 瞬移与 Sable 子层级物理结构交互而导致的物理计算错误与结构不稳定。\n\n提供可配置的选项，用于控制 VR 玩家是否能够瞬移至物理结构上。\n\n支持配置玩家站在 Sable 结构上时是否允许进行 VR 瞬移操作。\n\n支持在瞬移操作被拦截时自定义显示拒绝提示信息。\n\n一款轻量级兼容补丁，专注于提升 VR 玩家在 Sable 物理建造系统中的游玩稳定性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

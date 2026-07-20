@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5a0c167878591e0a",
+  "content": "# 连接门续作\n\nMinecraft 本应已经实现这一功能。既然它没有，这个模组就来补上。\n\n连接门续作会自动同时打开和关闭相邻的匹配门、陷阱门和栅栏门，让建筑看起来更整洁自然，无需使用红石技巧。\n\n## 功能特性\n- 成对开门同时开启\n- 成对陷阱门同时开启\n- 成对栅栏门同时开启\n- 支持原版所有木材类型和材质\n- 可在配置文件中启用或禁用各项行为\n\n## 使用理由\n- 外观更佳的入口设计\n- 提升建筑体验的生活便利功能\n- 基础成对交互无需红石\n\n## 配置文件\n`config/connected-doors-continued.json`\n\n## 依赖要求\n- Fabric Loader\n- Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

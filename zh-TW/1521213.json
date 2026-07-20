@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4c5c03b9e3e568f0",
+  "content": "\n\n<p>為來自 <strong>Create: Aeronautics (Simulated)</strong> 的便攜引擎新增液體燃料支援。引擎不再僅依賴固體燃料，現在可透過管線系統消耗如熔岩等液體。</p>\n<hr>\n<h2>數據包支援</h2>\n<p>您可以透過建立具備以下檔案路徑的數據包來新增自訂液體：</p>\n<p><strong>一般燃料：</strong><br><code>epicdatapackname/data/portable_engine_liquid_fuel/data_maps/fluid/engine_fuel.json</code></p>\n<p><strong>過熱燃料：</strong><br><code>moreepicdatapackname/data/portable_engine_liquid_fuel/data_maps/fluid/super_engine_fuel.json</code></p>\n<h3>內容範例</h3>\n<pre><code>{\n  \"values\": {\n    \"modid:fluid_name\": {\n      \"burn_time\": 5000\n    },\n    \"#fluidtag:name\": {\n      \"burn_time\": 12000\n    }\n  }\n}</code></pre>\n<hr>\n<h2>給數據包愛好者</h2>\n<p><strong>確保條目僅在安裝特定模組時才載入：</strong></p>\n<pre><code>{\n  \"neoforge:conditions\": [\n    {\n      \"type\": \"neoforge:mod_loaded\",\n      \"modid\": \"yourmodid\"\n    }\n  ],\n  \"values\": {}\n}</code></pre>\n<p><strong>為安全起見並避免覆蓋現有條目：</strong></p>\n<pre><code>{\n  \"replace\": false,\n  \"values\": {}\n}</code></pre>\n<p><em><code>neoforge:conditions</code> 與 <code>replace</code> 可同時使用——兩者並不衝突。</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

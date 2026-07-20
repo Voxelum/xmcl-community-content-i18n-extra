@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e95bcea76f8f7df7",
+  "content": "\n\n<p>Sedu的Parties模组目前与Xaero的小地图（25.3.2）的较新版本不兼容，原因是其包路径发生了变更（xaero.common -&gt; xaero.lib）。我尝试通过重写初始化函数（XMCompatManager.class）来避免XMPartyScreen.class崩溃，目前看来似乎有效。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

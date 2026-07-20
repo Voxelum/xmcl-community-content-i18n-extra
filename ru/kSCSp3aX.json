@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ujpbzZusZ+I=",
-  "content": "Исправляет ошибку, возникающую при использовании [Enchancement](https://modrinth.com/mod/enchancement) с [Sinytra Connector](https://modrinth.com/mod/connector), из-за которой заклинание не исчезает как задумано. Если вы хотите оставить некоторые стандартные заклинания открытыми, откройте файл мода и измените список отключённых заклинаний. Требуется [Enchantment Disable Tag](https://modrinth.com/mod/enchantment-disable-tag).",
+  "bodyHash": "77075cf671e20c70",
+  "content": "\n\nИсправляет ошибку, возникающую при использовании [Enchancement](https://modrinth.com/mod/enchancement) вместе с [Sinytra Connector](https://modrinth.com/mod/connector), из-за которой зачарование не исчезает должным образом. Если вы хотите сохранить некоторые ванильные зачарования, откройте файл мода и измените список отключённых зачарований. Требуется [Enchantment Disable Tag](https://modrinth.com/mod/enchantment-disable-tag).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

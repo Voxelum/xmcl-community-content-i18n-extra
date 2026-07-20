@@ -1,0 +1,6 @@
+{
+  "bodyHash": "34f9fd03b81d4366",
+  "content": "<div align=\"center\">\n<center>\n\n# BetterGamma\nМод для Minecraft, который улучшает работу с освещением в темных местах.\n\n</center>\n</div>\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/8fb6621b-811a-473b-9087-c8c42b50e74c.png)](https://s.deftu.dev/bisect)\n\n## Какие возможности предоставляет этот мод?\nВы можете включить функцию «Полная яркость» в конфигурации (доступной через меню мода) или по нажатию назначенной клавиши (по умолчанию G).  \nТакже доступна постоянная функция ночного зрения, которую можно найти в конфигурации и активировать с помощью отдельной клавиши (по умолчанию H).\n\n## Почему бы просто не использовать «Gamma Utils»?\nЭтот мод использует другие методы изменения обработки гаммы, поэтому он не «засоряет» файл настроек вашей игры.\n\n<div align=\"center\">\n<center>\n\n**Этот проект лицензирован под [LGPL-3.0][lgpl]**\\\n**&copy; 2023 [Deftu][deftu]**\n\n</center>\n</div>\n\n[fwiki]: https://fabricmc.net/wiki\n[lgpl]: https://www.gnu.org/licenses/lgpl-3.0.en.html\n[deftu]: https://deftu.xyz/",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

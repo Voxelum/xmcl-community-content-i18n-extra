@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e508ae683351113f",
+  "content": "\n\n一個簡單的 HUD，用於顯示 FPS、Ping 與天數，並具備動態顏色標示。\n\n## 功能特色\n**可自訂位置與樣式：**\n![a](https://cdn.modrinth.com/data/cached_images/414a4a67ce018930c8886c700a324b9ac5293249.png)\n![b](https://cdn.modrinth.com/data/cached_images/64230831a22a2e918eef83eebf6696be3c035508.png)\n![c](https://cdn.modrinth.com/data/cached_images/fa0d89d2192916c3d98177af99874df6f06a4242.png)\n![d](https://cdn.modrinth.com/data/cached_images/91e3218a71c7959303e9fe24f5c9b60757469c2b.png)\n\n**FPS 顯示：**\n- 0-30 → 🔴 紅色\n- 31-60 → 🟡 黃色  \n- 61+ → 🟢 綠色\n\n**Ping 顯示：**\n- 0-100ms → 🟢 綠色\n- 101-300ms → 🟡 黃色\n- 300+ms → 🔴 紅色\n\n**天數顯示：**\n- 永遠顯示為綠色。\n\n**其他：**\n- 啟用 F3 除錯畫面時會自動隱藏。\n- 高度可自訂。\n\n**新增選項：**\n- 你可透過 1+1n 方式來自訂哪些天數會以紅色顯示。\n  （專為殭屍模組包設計）\n- 現在可變更 FPS、Ping 與天數的顏色！\n\n## 模組包使用說明\n✅ 可自由用於任何模組包，沒有任何限制！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

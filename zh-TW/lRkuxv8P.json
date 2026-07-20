@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3bfeab478192917f",
+  "content": "\n\n# **Optimal Eat 模組**\n\n此模組會在您完全消耗物品後，自動停止食用動作。\n\n在原版 Minecraft 中，即使食物已完全消耗，您仍會持續進行食用動作，直到收到伺服器傳回的封包才會停止（高延遲玩家對此應該不陌生）。\n\n此模組是專門為 UHC、OP 和 DiamondPot 等 PvP 遊戲模式設計的，在這些模式中需要將食用物品的停頓時間降至最低！\n\n以下為 Optimal Eat 的功能展示，為了放大效果，此影片以 1200 毫秒的速度播放。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BRbcV3WhFuE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n（更多預覽請參閱圖庫，別忘了去看看 [Tektonikal](https://modrinth.com/user/Tektonikal)）\n\n## 相依模組\n\n此模組需要 [Fabric API](https://modrinth.com/mod/fabric-api)，並搭配 [Cloth Config](https://modrinth.com/mod/cloth-config) 與 [Mod Menu](https://modrinth.com/mod/modmenu) 以進行設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "zP7Pu6FtYXM=",
-  "content": "<h1>📸 VHS 复古滤镜</h1><hr><h3>&nbsp;</h3><h3>◽ 这款着色器添加了经典的<strong>VHS录像带效果</strong>，包含REC标志、日期和时间显示</h3><h3>◽ 同时还具备<strong>胶片颗粒、扫描线、色度偏移</strong>等特效</h3><p>&nbsp;</p><h3>❗ 所有特效均为<strong>动态生成</strong>，实时运作（显示的是\"录像时间\"而非您电脑的实际时间）</h3><h6><strong>§</strong></h6><p><img src=\"https://i.imgur.com/mmKAqaP.jpeg\" alt=\"\" width=\"1920\" height=\"1080\"></p><h3>⚠️ 需要安装<a href=\"/linkout?remoteUrl=https%253a%252f%252foptifine.net%252fdownloads\" target=\"_blank\" rel=\"nofollow\"><strong>OptiFine</strong></a>或<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.irisshaders.dev%252f\" target=\"_blank\" rel=\"nofollow\"><strong>Iris (Sodium)</strong></a>支持</h3>\n\n<!-- 翻译说明 -->\n1. \"Overlay\"译为\"滤镜\"更符合中文游戏模组语境\n2. 保留了REC等专业术语不翻译\n3. \"real time\"译为\"实时运作\"并添加括号说明\n4. 特效名称采用专业译法：Film Grain=胶片颗粒，Scan Lines=扫描线，Chroma Shift=色度偏移\n5. 调整了部分句式结构使其更符合中文阅读习惯\n6. 保留所有HTML标签和图片链接不变",
+  "bodyHash": "25ceaabb52db2fce",
+  "content": "<h1>📸 VHS 叠加效果</h1>\n<hr>\n<h3>&nbsp;</h3>\n<h3>◽ 此着色器添加了经典的<strong>VHS 磁带叠加效果</strong>，包含录制标记（REC）、日期和时间。</h3>\n<h3>◽ 还包含<strong>胶片颗粒、扫描线、色差偏移</strong>等效果。</h3>\n<p>&nbsp;</p>\n<h3>❗ 叠加效果<strong>不是</strong>静态的。它是<strong>实时运行</strong>的。（并非您电脑的实际日期/时间，而是模拟录像时间。）</h3>\n<h6><strong>&sect;</strong></h6>\n<p><img src=\"https://i.imgur.com/mmKAqaP.jpeg\" alt=\"\" width=\"1920\" height=\"1080\"></p>\n<h3>⚠️ 需要<a href=\"/linkout?remoteUrl=https%253a%252f%252foptifine.net%252fdownloads\" target=\"_blank\" rel=\"nofollow\"><strong>OptiFine</strong></a>或<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.irisshaders.dev%252f\" target=\"_blank\" rel=\"nofollow\"><strong>Iris (Sodium)。</strong></a></h3>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Zj+GpzOLpNM=",
-  "content": "L_Ender的模组新动画API\n\n本模组是L_Ender's Cataclysm的基础API\n\n基于mowzie的生物内部动画API和Citadel\n\nCitadel添加了大量杂项功能，因此变得臃肿\n\n创建此API是因为Citadel可能存在更新延迟的问题",
+  "bodyHash": "fc860362b5b86a29",
+  "content": "\n\nL_Ender's Mod 的全新动画 API\n\n本模组基于 L_Ender's Cataclysm 的 API\n\n底层基于 Mowzie's Mobs 的内部动画 API 与 Citadel\n\nCitadel 添加了大量杂项功能，导致其过于臃肿\n创建此模组是为了应对原模组可能存在的更新延迟问题",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

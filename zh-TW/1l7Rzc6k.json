@@ -1,6 +1,6 @@
 {
-  "bodyHash": "avyOsCrLGQU=",
-  "content": "這個模組為遊戲添加了小貓熊！\n\n它們會生成在竹林叢林，屬於中立生物。\n你可以用甜莓馴服它們，並用竹子讓它們繁殖。\n如果餵食竹子，它們的生命值會恢復。\n死亡時有機會掉落一根竹子。\n\n在 1.16.5 / 1.18.x 版本中，可以在通用設定檔裡編輯生物群系設定。\n\n在 1.19 版本中，生成設定可透過生物群系標籤（has_red_panda.json）和生物群系修飾器（spawn_red_panda.json）來修改。\n\n在 Fabric 版本中，生成設定檔的名稱為「ydms_redpandaconfig.properties」，位於設定資料夾。\n\n這個模組由 gohkenytp 建議。\n感謝下載這個模組。\n\n使用舊版本的玩家，如果想使用新的預設生成設定，請刪除小貓熊設定檔。\n若不想使用，可保留檔案。",
+  "bodyHash": "d6b0bcd5409ad23f",
+  "content": "\n\n這個模組為遊戲加入了小熊猫！\n\n \n\n它們會在竹林中生成，且性格中立。\n你可以使用甜莓來馴服它們，並用竹子進行繁殖。\n餵食竹子可恢復它們的生命值。\n死亡時有機率掉落單根竹子。\n\n在 1.16.5/1.18.x 版本中，你可以於通用設定檔中調整生物群系的生成設定。\n\n \n\n在 1.19 版本中，生成設定可透過生物群系標籤 (has_red_panda.json)\n與生物群系修改器 (spawn_red_panda.json) 進行變更。\n\n \n\n在 Fabric 版本中，生成設定檔的名稱為「ydms_redpandaconfig.properties」，位於 config 資料夾內。\n\n \n\n此模組由 gohkenytp 提出建議\n感謝下載本模組\n\n \n\n曾使用舊版的使用者，若欲套用新的預設生成設定，請刪除原有的小熊猫設定檔。\n\n若不需要更改，則可保留該檔案。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

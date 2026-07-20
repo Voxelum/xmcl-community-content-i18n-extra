@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e4c791e5ebc17685",
+  "content": "\n\n# Create：Sable 列车网络叠加层兼容（航空）\n简单来说，它能让位于已组装的 Create 航空或 Sable 子结构中的列车，显示在 Create 内置的列车网络叠加层中。\n\n# 问题描述：\nCreate 内置的列车网络叠加层无法检测到位于已组装的 Create 航空机关 / Sable 子结构内部的列车。本模组修复了该问题。\n\n## 启用本模组后：\n![列车网络叠加层地图中显示位于 Create 航空机关或 Sable 子结构内的列车](https://cdn.modrinth.com/data/cached_images/d0bd8f4f5f701611b5bc7e1a4fd38d8dadd23f10.png)\n（已组装的 Create 航空机关内的列车会显示在列车网络叠加层中）\n\n# 限制说明\n- Create 列车轨道与车站不会显示\n- 距离过远时它会消失",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

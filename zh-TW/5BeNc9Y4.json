@@ -1,0 +1,6 @@
+{
+  "bodyHash": "058f988940a6a1ed",
+  "content": "\n\n## Creativerse 是什麼？\n\nCreativerse 是一個資料包，會在你的生存世界中生成一個次級主世界——Creativerse！\n這個地方將作為創作模式的遊樂場，讓你能夠：\n- 預先搭建建築\n- 測試紅石機械\n- 嘗試不同的方塊配色與漸層效果\n- 以及你在創作世界中會做的其他任何事情\n\n每個玩家在兩個世界中都有獨立的物品欄！\n\n\n## 不論玩法，都能與朋友同樂\n\n我製作 Creativerse 的初衷，是希望讓我的創作模式朋友與生存模式夥伴能在同一個伺服器上聚會，同時不會互相干擾彼此的玩法。\n\n\n## 使用方法\n\n- /trigger creativerse_info 提供你所需的全部資訊\n- /trigger creativerse_enter 讓你進入 Creativerse\n- /trigger creativerse_exit 讓你返回主世界\n- /trigger creativerse_sync 會從主世界複製一片 16x16x16 的區域到 Creativerse\n\n\n## 實驗性功能、限制與已知問題\n\n請注意，本資料包使用了 1.16 引入的實驗性功能，這些功能在遊戲未來版本中可能會生效，也可能不會。當你載入使用了潛在不安全功能的世界時，Minecraft 會向你發出警告。\n\n由於僅有少數人進行過測試，可能會出現錯誤。請務必隨時備份你的世界。\n\n目前 Creativerse 僅支援主世界，暫時沒有計畫讓它在地獄或終界運作。\n\n如果你遇到任何錯誤，[請在 Discord 上聯繫我](http://www.discordapp.com/users/313768979976028162)！\n\n\n## 搭配模組使用\n\nCreativerse 是基於資料包開發，並匯出為模組格式。因此，若搭配會透過新增欄位來修改物品欄的模組使用，可能會產生相容性問題。如果你打算搭配模組使用 Creativerse，請務必提前備份你的世界！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

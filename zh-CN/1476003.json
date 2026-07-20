@@ -1,0 +1,6 @@
+{
+  "bodyHash": "20a4ab7bba399351",
+  "content": "<p>Oculus 的一个分支，旨在保持与 1.20.1 版本的同步，并允许来自其他模组的着色器和渲染效果与 Oculus 兼容。</p>\n<p>请勿将任何问题报告给上游 Oculus 或 Iris 本身。</p>\n<p>我创建这个分支是因为 1.20.1 版本的 Oculus 已停止维护（EOL），我希望让第三方着色器能够正常工作。</p>\n<p>如有任何疑问，请加入我们的 Discord 以获取支持：<a href=\"https://discord.gg/KBNst7hZ4C\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/KBNst7hZ4C</a>。</p>\n<p>未来我还计划添加更简便的方式来添加着色器和天空盒。</p>\n<p>&nbsp;</p>\n<p>由于这是 Oculus 本身的分支，因此必须给予相应的致谢。</p>\n<p>原始项目可在此处找到：<a href=\"https://www.curseforge.com/minecraft/mc-mods/oculus\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/oculus</a>。</p>\n<p>与 Oculus 相比的变化：由于 Oculus 1.20.1 版本已停止维护，我已合并了允许第三方着色器与 Oculus 兼容的拉取请求（PR）。未来我计划简化天空盒的注册流程。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

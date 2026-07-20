@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4d32e76f969749a2",
+  "content": "\n\n<p>Create Canisters 是 Create: Diesel Generators 的一个附加模组，添加了便携式燃气罐，用于在储罐之间运输气体流体。</p>\n<p>## 燃气罐</p>\n<p>提供三种尺寸：</p>\n<p>- 小型燃气罐 &mdash; 容量 1,500 mB<br>- 中型燃气罐 &mdash; 容量 5,000 mB &nbsp;<br>- 大型燃气罐 &mdash; 容量 10,000 mB</p>\n<p>## 使用方法</p>\n<p>使用空燃气罐右键点击任意流体储罐进行灌装，然后右键点击另一个储罐将其清空。燃气罐的提示框会显示其中包含的流体种类及数量。</p>\n<p>兼容所有支持流体的储罐，包括 Create 流体管道以及 Create: Diesel Generators 的所有机器。</p>\n<p>## 前置要求</p>\n<p>- Minecraft 1.21.1<br>- NeoForge<br>- Create<br>- Create: Diesel Generators</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

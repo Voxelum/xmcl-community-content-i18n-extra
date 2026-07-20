@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f9ebe431037a7e8e",
+  "content": "\n\n<p><strong>基于体素的玩家伤害、血流成河、断肢与血腥效果、PhysX 布娃娃物理系统。</strong></p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/3d7b73a73f84cff261f8e6cb23cd63f5c9427055.png\" alt=\"替换为描述\">\n<img src=\"https://cdn.modrinth.com/data/cached_images/46311e16fd7bbf42892f9c4ffc440b0a1d2ecd60_0.webp\" alt=\"死亡玩家\"></p>\n<h3>本模组添加了可视化的基于体素的玩家伤害效果，</h3>\n<h3>主要功能：</h3>\n<ul>\n<li><p>玩家受击点会出现一个体素“空洞”。</p>\n</li>\n<li><p>命中位置显示像素化血迹，以及血液粒子与血泊效果。</p>\n</li>\n<li><p>若在 6 个游戏刻内受到超过 5 次子弹击中，身体部位将脱落并转换为物理模型。</p>\n</li>\n<li><p>客户端之间同步玩家受伤状态。</p>\n</li>\n<li><p>玩家死亡后会留下一个可交互的布娃娃模型（感谢 PhysX-JNI）。</p>\n</li>\n<li><p>被爆炸击杀时，身体部位会严重受损并被炸飞四散。</p>\n</li>\n<li><p>生命值满时自动愈合“伤口”。</p>\n</li>\n</ul>\n<p><strong>指令：</strong></p>\n<ul>\n<li>/entity_damage models_clean - 移除所有物理模型</li>\n<li>/entity_damage \"玩家昵称\" reset - 清除玩家的受伤状态</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

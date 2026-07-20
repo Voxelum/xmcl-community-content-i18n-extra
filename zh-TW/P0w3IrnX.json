@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/j4phkg5NUw=",
-  "content": "[![KINETIC HOSTING PARTNER](https://media.forgecdn.net/banner/console-affiliation-banners/banner_bfc6e9fa-4357-4198-9d85-32a3084adf49.webp)](https://billing.kinetichosting.com/aff.php?aff=136)\n\n# WATERMeDIA：YOUTUBE 插件\n這個適用於 WATERMeDIA 的插件新增了 YouTube 支援，它包含了所有必要的庫，並將修補邏輯注入到 WATERMeDIA 中。\n\n它使用 NewPipeExtractor 作為 YouTube 提取引擎，能夠可靠地存取該平台上的影片。\n\n# 重要提示\n此插件僅適用於 JAVA 17（1.18.2 以上版本），任何非 JAVA 17 執行的版本（包括 1.16.5）均不受支援。\n\n# 版本對應\n此插件遵循 WATERMeDIA 的版本對應規則，與其保持一致。\n因此，這是插件的「第 2 版」，因為它是針對 WATERMeDIA 第 2 版開發的。你必須確保插件版本與已安裝的 WATERMeDIA 版本相符，否則若使用插件的第 3 版搭配 WATERMeDIA 的第 2 版，將會導致崩潰。\n\n# 授權條款\n此模組採用 GPL 3.0 授權。",
+  "bodyHash": "c3e3c8ff23438d54",
+  "content": "\n\n[![KINETIC HOSTING PARTNER](https://media.forgecdn.net/banner/console-affiliation-banners/banner_bfc6e9fa-4357-4198-9d85-32a3084adf49.webp)](https://billing.kinetichosting.com/aff.php?aff=136)\n\n# WATERMeDIA：YouTube 外掛程式\n此 WATERMeDIA 外掛程式新增 YouTube 支援，會將所有必要的函式庫進行遮蔽處理，並將修補邏輯注入 WATERMeDIA 中。\n\n它使用 NewPipeExtractor 作為 YouTube 影片擷取引擎，提供對該平台影片的穩定存取。\n\n# 重要提醒\n本外掛程式僅適用於 JAVA 17（對應 1.18.2 及以上版本）。任何不支援 JAVA 17 的版本皆不支援（包含 1.16.5）。\n\n# 版本對應規則\n此外掛程式遵循 WATERMeDIA 的版本對應規則，並與其保持一致。\n因此，這是外掛程式的「第 2 版」，因為它是為 WATERMeDIA 第 2 版所設計的。您必須確保外掛程式與已安裝的 WATERMeDIA 版本相符，否則若在第 2 版的 WATERMeDIA 上使用第 3 版的外掛程式，將導致遊戲崩潰。\n\n# 授權條款\n本模組採用 GPL 3.0 授權。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

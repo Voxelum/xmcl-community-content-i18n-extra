@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7a148b96bd0a3aab",
+  "content": "\n\n# Исправление Mediumcore\n\n**Исправляет потерю данных о здоровье при обновлении мода Mediumcore от Alex**\n\n[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://www.minecraft.net/)\n[![Forge](https://img.shields.io/badge/Forge-47.4.0+-orange.svg)](https://files.minecraftforge.net/)\n\n---\n\n## Проблема\nВ оригинальном Mediumcore при обработке onLivingDeath используется player.getMaxHealth(), который ВКЛЮЧАЕТ модификаторы из внешних источников (кольца, броня и т. д.).\n\nПример с кольцом на +20 HP:\n\n- maxHealth = 40 (20 базовых + 20 от кольца) \n- clippedHealth = clip(40 - 2, 6, 20) = 20 (ограничено значением maxPlayerHealth!)\n- healthModifiedBy = 0 + (20 - 40) = -20!\n- После возрождения: maxHealth = 20 + 0 + (-20) = 0 HP → игрок получает 1 HP.\n\n## Решение\nВводится BASE_HEALTH_TAG для хранения «чистого» базового здоровья, которое не зависит от внешних модификаторов.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

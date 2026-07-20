@@ -1,0 +1,6 @@
+{
+  "bodyHash": "52d5db762922090c",
+  "content": "\n\n<p style=\"text-align:center\">\n    <a href=\"https://www.curseforge.com/minecraft/mc-mods/fragmentum-fabric\" rel=\"nofollow\"><img alt=\"Fabric\" src=\"https://img.shields.io/badge/Fabric-5b213b?style=for-the-badge\"></a>\n    <a href=\"https://www.curseforge.com/minecraft/mc-mods/fragmentum-forge\" rel=\"nofollow\"><img alt=\"Forge\" src=\"https://img.shields.io/badge/Forge-5b213b?style=for-the-badge\"></a>\n    <a href=\"https://www.curseforge.com/minecraft/mc-mods/fragmentum-neoforge\" rel=\"nofollow\"><img alt=\"NeoForge\" src=\"https://img.shields.io/badge/Neo Forge-5b213b?style=for-the-badge\"></a>\n    <a href=\"https://discord.gg/jSHHJSUWdY\" target=\"_blank\" rel=\"nofollow\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/899742852681191444?style=for-the-badge&logo=discord&logoColor=white&label= &labelColor=231C25&color=5b2121\"></a>\n</p>\n<h2 style=\"text-align:center\">Fragmentum 是一套輕量級核心庫，供其他 Obscuria Collection 模組使用。它本身不會新增任何內容，僅在其他模組需要時才須安裝，因為它提供共用工具與多載入器架構，能讓其他模組更精簡、更簡潔，且不包含特定載入器的程式碼。</h2>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

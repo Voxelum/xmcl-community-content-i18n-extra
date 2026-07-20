@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ed7acc7a8f702f6c",
+  "content": "\n\n<h1>Rubies</h1>\n<p>这是一系列我（Ruby）想要添加的实用工具。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_0d7f8477-6b45-4099-b579-451fe4097beb.png\" alt=\"一系列作为展示摆放的方块，详见下方\"></p>\n<h2>功能特性</h2>\n<ul>\n<li>支持子层级的区块加载器。</li>\n<li>加载检测器：当区块被加载时输出红石信号。</li>\n<li>传动柱：一种可配合子层级传动轴使用的空心方块。</li>\n<li>伸缩执行器：类似伸缩活塞的装置。</li>\n<li>在蛙口、邮筒和包裹过滤器中支持正则表达式。</li>\n<li>倒置陀螺螺旋桨轴承：尝试与重力方向对齐。</li>\n<li>红石螺旋桨轴承：随红石信号强度调整朝向。</li>\n<li>陀螺仪水平螺旋桨轴承：尝试与水平面保持对齐。</li>\n<li>联网红石链路：配对方式与库存网络相同。</li>\n</ul>\n<p>目前尚无教程动画（Ponders），但所有功能均可在游戏中查看详细说明。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

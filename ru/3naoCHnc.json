@@ -1,6 +1,6 @@
 {
-  "bodyHash": "bxs21/adpHk=",
-  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/tJehOyORTmM\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nДобавляет «Лунный свет» из этого видео: подкрадитесь, чтобы поставить зеркало, и выстрелите магическим лучом с прямым попаданием — он сразу наносит урон. Зеркала задерживают луч, но он возвращается к ближайшему существо, у которого нет «Лунного света» в руках.\n\nЗапустите /function moonshine:give, чтобы получить обычную версию, и /function moonshine:give_op, чтобы получить версию с быстрой зарядкой 5.",
+  "bodyHash": "89af6b1f1ebf44f9",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/tJehOyORTmM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nДобавляет «Moonshine» из этого видео: зажмите Shift, чтобы поставить зеркало, нажмите кнопку атаки, чтобы выстрелить магическим болтом с мгновенным попаданием. Зеркала задерживают болт, но затем он наводится на ближайшую сущность, у которой в руках нет «Moonshine».\n\nВыполните /function moonshine:give, чтобы получить предмет, и /function moonshine:give_op, чтобы получить версию с зачарованием «Быстрая зарядка V».",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

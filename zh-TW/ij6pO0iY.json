@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4a22ce4ccb514e2b",
+  "content": "\n\n# 玩家尋找器\n[從 Modrinth 下載](https://modrinth.com/mod/serverdaycounter)\n\nServer Day Counter 是一個模組（專為伺服器設計），用於廣播並顯示世界天數，就像你在單人遊戲中可以看到的一樣！\n\n*專為伺服器設計：此功能同樣適用於單人遊戲*\n\n![示範](https://raw.githubusercontent.com/GalvinCraft/serverdaycounter-fabric/main/.github/assets/java_rejEa8qfsn.png)\n\n*當你加入伺服器（或在單人遊戲中進入世界）時，聊天欄會向你顯示天數*\n\n![示範 2](https://raw.githubusercontent.com/GalvinCraft/serverdaycounter-fabric/main/.github/assets/java_1tnD7aL7RP.png)\n\n*當新的一天開始時，天數會廣播至聊天欄（即使是單人遊戲也會發生）*\n\n# 使用方法\n使用 `/daycount` 指令即可查看天數！\n\n![使用方法](https://raw.githubusercontent.com/GalvinCraft/serverdaycounter-fabric/main/.github/assets/java_WapwU09fZk.png)\n\n# 相容版本\n| 模組版本 | 遊戲版本 | 模組版本標題 |\n|----------|----------|--------------|\n| 1.0.0    | 1.21 - 1.21.3 | 1.0.0+1.21   |\n\n# 重要提示\n此模組為**伺服器端**模組！你**不需要**在客戶端安裝此模組，除非你使用「對區域網路開放」功能在你的世界中建立伺服器。\n\n此外：此模組需要安裝 **Fabric API** 以及 **0.16.0 或更高版本的 Fabric Loader**。\n\n備註：*你無法在不使用此模組的伺服器上執行此模組。相關指令是由伺服器端建立的*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

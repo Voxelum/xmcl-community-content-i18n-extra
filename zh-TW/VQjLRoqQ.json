@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Qhq6L/mA2k0=",
-  "content": "**模組說明**\n---\n真實爆炸物理效果旨在為受爆炸影響的方塊添加逼真的運動效果。方塊不再只是被破壞，而是會根據爆炸方向獲得速度並被拋射。\n\n真實爆炸物理效果與真實方塊物理效果完全相容！\n\n**相關模組**\n---\n為獲得更好體驗，建議搭配以下由我開發的其他模組使用：\n- 真實方塊物理效果\n- 水下爆炸優化\n- 可投擲爆炸物",
+  "bodyHash": "6a13cb46e9cf9d44",
+  "content": "\n\n**描述**\n---\nRealistic Explosion Physics 旨在為受爆炸波及的方塊加入真實的物理位移效果。方塊將不再只是單純碎裂，而是會根據爆炸的方向獲得相應的速度。\n\nRealistic Explosion Physics 也與 Realistic Block Physics 完全相容！\n\n\n**相關模組**\n---\n為了獲得更佳的遊戲體驗，建議將本模組與以下同樣由我開發的模組搭配使用：\n- Realistic Block Physics\n- Submerged Explosions\n- Throwable Explosives",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

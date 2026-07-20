@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fe0241908fc72898",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/raK3nrCNiC8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n# 项目归档\n此模组是 CorgiTaco 委托开发的 Camera Overhaul（Mirssario 制作）的 Forge 移植版的延续。Mirsario 计划支持 Forge/NeoForge，这意味着我将停止此项目的开发，并将致力于官方项目。\n\n## 版本支持？\n官方由 Mirsario 制作的 Camera Overhaul 是一个 Fabric 模组，目前在一个二进制文件中支持 1.14.4 及以上版本。Forge/NeoForge 版本将支持与 Fabric 版本相同的版本范围，未来甚至可能支持更早版本的 Minecraft Forge。\n\n## 何时？\n这不由我决定。请密切关注下方链接中的 Mirsario 的项目。在此之前，您可以随意使用此项目下载模组并尽情体验，但请注意它不再接收更新。\n\n## 致谢\n\n[CameraOverhaul](https://modrinth.com/mod/cameraoverhaul/) [FABRIC/QUILT]\n\n[CameraOverhaul (Forge)](https://www.curseforge.com/minecraft/mc-mods/camera-overhaul-forge) [FORGE <=1.19.2]\n\n## 许可证差异\n我的模组元数据会显示本项目的许可证为 MIT，然而，截至 2024 年 12 月 21 日，官方模组的许可证已更改为 GNU/GPL3.0，因此模组的元数据与 Modrinth 上的本项目页面之间存在差异。\n\n# Camera Overhaul Reforged\n\n_\"CameraOverhaul 是一个客户端 Minecraft 模组，旨在通过引入各种摄像机旋转来改善整体游戏体验，强调玩家的动作并提升视觉反馈。侧移和转身会使摄像机倾斜。跳跃、下落以及前后移动会影响摄像机的俯仰角。\"_\n\n## 配置\n\n您也可以在以下位置手动找到配置文件，其中包含所有功能的强度缩放设置：\n**/config/cameraoverhaul.toml**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

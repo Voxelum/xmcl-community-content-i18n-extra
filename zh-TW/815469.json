@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9226dbf5d9d545cb",
+  "content": "\n\n<p><span style=\"font-size:24px;font-family:impact, sans-serif\">輻射模組</span></p>\n<p>&nbsp;</p>\n<p>新增輻射效果，會對實體造成傷害，並有機率升級至輻射 II 效果。遊戲內新增指令（gamerule）「radiation」，若啟用該指令，所有實體在主世界維度時都會獲得輻射效果。本模組亦新增一套護甲，可抵禦輻射效果對玩家的影響。</p>\n<p>&nbsp;</p>\n<p><span style=\"font-family:impact, sans-serif;font-size:24px\">抗輻射裝束</span></p>\n<p>&nbsp;</p>\n<p>每件裝備都能提升移除輻射效果的隨機機率。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/610/845/2023-01-21_22.png\" alt=\"\" width=\"292\" height=\"436\"></p>\n<p>本模組是為我的模組整合包「Armagedon」而開發的。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

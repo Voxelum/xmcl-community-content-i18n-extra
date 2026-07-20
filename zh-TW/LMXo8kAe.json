@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Kyqp02vEvAg=",
-  "content": "史詩戰鬥 x 鐵魔法：強化動畫\n\n（原為史詩戰鬥 x 鐵魔法動畫修復）\n\n若您從舊版本更新至 2.1.8 或更新版本，請刪除模組設定檔 (efiscompat.toml) 以便重新生成正確設定\n\n最新更新新增資料包支援，可自訂法術動畫\n\n本模組透過史詩戰鬥系統為鐵魔法書添加自訂施法動畫。需同時安裝於客戶端與伺服器。\n\n重要：請依照下方說明關閉鐵魔法的客戶端設定，否則在施法時第一人稱視角會看到自己的臉部\n\nirons_spellbooks-client.toml\n[動畫設定]\n    #在第一人稱施法時顯示的內容\n    showFirstPersonArms = false\n    showFirstPersonItems = false\n\n特色功能：\n\n- 多種施法動畫，當主手持有法杖時會觸發獨特法杖變體\n- 可設定法杖物品定義與動畫期間隱藏手持物品的選項\n- 支援在執行史詩戰鬥技能（如格擋、翻滾等）時取消施法\n- 幾乎所有功能皆可完全自訂設定\n\n![施法動畫](https://cdn.modrinth.com/data/cached_images/ac17fef3eccd34d27f53afa8a6fa78148f51cbc5.png)",
+  "bodyHash": "470df564b208d6f9",
+  "content": "史诗战斗 x 铁之法术：增强动画\n\n（原名：史诗战斗 x 铁之法术动画修复）\n\n如果您从旧版本更新到 2.1.8 或更高版本，请删除模组配置文件（efiscompat.toml），以便重新生成正确的配置。\n\n最新更新增加了对数据包的 support，可自定义法术的动画。\n\n本模组通过史诗战斗系统为铁之法术添加了自定义施法动画。客户端和服务器均需安装。\n\n重要提示：请关闭铁之法术的客户端配置，如下所示，否则在施法时将看到第一人称视角下的脸部。\n\nirons_spellbooks-client.toml\n[Animations]\n    #施法时在第一人称视角中渲染的内容。\n    showFirstPersonArms = false\n    showFirstPersonItems = false\n\n功能：\n\n- 多种施法动画，当主手持有法杖时具有独特的法杖变体。\n- 可配置的选项，用于定义法杖物品并在动画期间隐藏手持物品。\n- 支持在执行史诗战斗的各种技能（如格挡、翻滚等）时取消法术。\n- 几乎所有功能均可完全自定义\n  \n  ![施法动画](https://cdn.modrinth.com/data/cached_images/ac17fef3eccd34d27f53afa8a6fa78148f51cbc5.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

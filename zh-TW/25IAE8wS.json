@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Qq0ZbNmQNVc=",
-  "content": "這只是 [tfarecnim 的 Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station) 模組的一個分支版本，增加了 JEI 支援。tfarecnim 原本無意添加此功能，但由於需求眾多，加上採用 MIT 授權許可，所以就有了這個版本！\n\nCrafting Station 是對工作台機制的小幅調整。這個源自 Tinkers Construct 的合成站能保存物品並將其顯示在台面上，同時還能存取相鄰的容器空間（模組包作者可選用黑名單功能）。\n\n安裝 JEI 的玩家現在可以在合成站上看到「+」圖標來導入配方，就像其他工作台一樣。\n\n版本 1（包含 1b 和 1c）完全向下兼容原始模組。這意味著如果你在伺服器上使用原始版本，可以安心使用這些調整版來獲得 JEI 支援。1c 版還修正了工作台的渲染問題。\n\n從版本 1.1 開始是完整的分支版本——伺服器也必須安裝此版本。此版本新增了對 [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) 的支援（可選擇衝突配方），並將合成站加入創造模式物品欄。\n\n我未來的計劃是進行全面重寫，加入新功能、新外觀，打造更豐富的模組內容——不過這還需要一段時間。現階段這個版本應該能滿足需求！\n\n功能展示 GIF：\n\n![](https://s9.gifyu.com/images/SUs0F.gif)",
+  "bodyHash": "075747c1dfe724d9",
+  "content": "\n\n這只是 [tfarecnim's Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station) 模組的分支版本，額外加入了 JEI 支援。原作者 tfarecnim 對加入此功能沒有興趣，但由於需求足夠大，且該專案採用 MIT 授權，因此我們就做了這個版本！\n\nCrafting Station 對工作台的使用方式進行了小幅調整。此功能源自《Tinkers' Construct》，該工作台會將物品儲存於內部並顯示在頂部。它還能存取相鄰的任何容器（為整合包開發者提供了可選的黑名單功能）。\n\n安裝 JEI 的玩家現在可以在工作台上看到「+」圖示來匯入配方，就像在其他任何工作檯上預期的那樣。\n\n1.x 版本（包含 1b 和 1c）與原版完全向後相容。這表示如果你正在運行原版模組的伺服器上遊玩，可以安全地使用這些微調版本來獲得所需的 JEI 支援。1c 版也包含了針對工作台渲染的修復。\n\n1.1 及之後的版本為完整分支版本——你的伺服器上也必須安裝此版本的模組。若已安裝 [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)，此版本會新增其支援（讓你能夠從衝突的配方中進行選擇），並將工作台新增至創造模式選單中。\n\n我未來的計畫是從頭重寫整個模組，加入新功能、新外觀，並打造一個內容更豐富的玩法體驗——但這還需要一些時間。目前這個版本應該能先派上用場！ \n\n功能展示 GIF：\n\n![](https://s9.gifyu.com/images/SUs0F.gif)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

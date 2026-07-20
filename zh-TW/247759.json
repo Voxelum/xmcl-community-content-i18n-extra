@@ -1,0 +1,6 @@
+{
+  "bodyHash": "74c406082dbebd40",
+  "content": "\n\n<p>此小型模組新增了一個 AutoWalk（自動行走）功能的按鍵（預設為「F」，但可在控制設定介面中更改）</p>\n<p>要停止行走，請再次按下行走鍵或 AutoWalk 鍵。</p>\n<p>同時新增了自動拾取（auto-pick）功能的按鍵（預設為「B」）。</p>\n<p>&nbsp;</p>\n<p>設定檔「AutoWalk.cfg」也提供了一些可開關的選項</p>\n<ul>\n<li>可將 AutoWalk 按鍵設定為奔跑或僅正常行走</li>\n<li>允許玩家在開啟介面時繼續自動行走（<em>視具體介面而定，並假設遊戲未暫停</em>）</li>\n</ul>\n<h4>安裝說明：</h4>\n<ul>\n<li>若尚未安裝 Minecraft Forge，請先安裝&nbsp;(<a href=\"/linkout?remoteUrl=http%253a%252f%252ffiles.minecraftforge.net%252f\" rel=\"nofollow\">http://files.minecraftforge.net</a>)</li>\n<li>將檔案（<strong>autowalk-1.8-1.0.jar)</strong> 複製到 mods 資料夾（<em>Forge 會在您的 Minecraft 資料夾中自動建立此資料夾</em>）</li>\n<li><em>可選</em>修改位於 Forge 建立的 config 資料夾中的 <strong>AutoWalk.cfg</strong> 設定檔以變更相關參數。</li>\n</ul>\n<p>&nbsp;</p>\n<p>您<strong style=\"font-size:16.8px\">被允許</strong><span style=\"font-size:16.8px\">&nbsp;：</span></p>\n<ul>\n<li>將此模組包含於公開的整合包中</li>\n<ul>\n<li><strong>無需</strong>&nbsp;事先徵求我的許可</li>\n<li>但必須<strong>署名</strong>&nbsp;（並<strong>提供此頁面的連結</strong>）</li>\n</ul>\n</ul>\n<h4>您<strong>&nbsp;不</strong>&nbsp;被允許：</h4>\n<ul>\n<li>「重新發布」此模組</li>\n<li>宣稱此模組是您的原創作品</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

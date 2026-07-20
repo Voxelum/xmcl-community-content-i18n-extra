@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3fdf659fed2c8261",
+  "content": "\n\n# Spell Engine Extension（RPG 系列調整）\n\n這是 Daedelus 所開發的 [Spell Engine](https://modrinth.com/mod/spell-engine) 模組的擴充套件。單獨安裝並不會對遊戲造成任何改變，但模組與資料包作者在設計法術時將擁有更多的可能性。\n\n功能包括：\n\n- 根據持有物品的手（主手或副手）來限制施法\n- 法術的生命值消耗\n- 法術的法力消耗（使用 [Mana Attributes](https://modrinth.com/mod/mana-attributes)）\n- 法術的耐力消耗（使用 [Stamina Attributes](https://modrinth.com/mod/stamina-attributes)）\n- 3 種通用法術學派（近戰、遠程與魔法）\n- 9 個用於自訂施放法術效果的實體屬性（例如投射物數量、彈跳幅度等）\n- 多種設定選項來自訂法術快捷欄\n- 以及數個額外的微小（且可選）調整\n\n詳細資訊請見[這裡](https://github.com/TheRedBrain/spellengine-extension/blob/1.21.1/README.md)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

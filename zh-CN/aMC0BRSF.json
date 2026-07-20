@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2c48a3efef01c61b",
+  "content": "\n\n## 关于\n此资源包是 [Enhanced Audio](https://modrinth.com/resourcepack/enhanced-audio) 的可选补充。不过，它也可以叠加在其他资源包之上，或单独使用。完全由您自行选择。它支持从 **1.14 到最新的 26.x.x** 的所有版本。\n\n## 使用提示\n建议您将此资源包加载在所有其他资源包之上。\n\n![resourcepackrecload](https://cdn.modrinth.com/data/cached_images/76b0a391dbefd2cb677c7683b4b3d8fc31e1ade5.png)\n\n这样可以确保音效能够正常加载。\n\n## 简短展示视频\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/jRFoHBu0LqM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n## 工作原理？\n此类资源包可以通过检测玩家行走的地面类型和实体，为《我的世界》添加环境音效。由于同时加载过多音效可能会引发声音冲突或异常，因此本资源包将专注于纯粹的环境氛围音效。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7b0af34bf93ed81a",
+  "content": "\n\n<h1><strong><span style=\"color:#e03e2d\">請在使用前重置並刪除所有 Champions 設定檔，包含 defaultconfigs 與 Config 資料夾中的所有 Champions 設定檔！更新此模組時也請一併重置該模組的設定檔。</span></strong></h1>\n<p>此模組提升了 <a href=\"https://www.curseforge.com/minecraft/mc-mods/champions-unofficial\" target=\"_blank\" rel=\"nofollow\">Champions</a> 模組與其他模組敵對生物之間的兼容性。它能使來自其他模組的敵對生物具備 <a href=\"https://www.curseforge.com/minecraft/mc-mods/champions-unofficial\" target=\"_blank\" rel=\"nofollow\">Champions</a> 屬性，正常生成並順利運作，無需繁瑣的設定或資料包。<br><br>此外，安裝此模組後，若您希望將未列入英雄白名單的生物轉化為英雄生物，或賦予它們能晉升為英雄的屬性，最新版本亦提供此功能。範例包含綿羊、豬以及其他模組中的友善中立生物。只要您在 champions-entities.toml 檔案中設定其星級範圍（例如 0~5、1~5、2~5、3~5、4~5 或 5~5），這些友善中立生物便會獲得英雄屬性。這構成了本模組的另一項優化功能（版本 1.0.2）。<br><br><strong>在 2.0.0 系列版本中，按下 K 鍵即可開啟視覺化編輯介面。您可以在遊戲內直接進行視覺化設定編輯，大幅提升效率與便利性。修改內容會立即生效，帶來更優異的使用體驗！</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "878e955e054d9f21",
+  "content": "\n\n# Mekanism Curios\n\n**Mekanism Curios** 是一個簡單的擴充模組，將 [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) 的物品（目前僅有一個）引入 [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) 的槽位系統中。\n\n## 功能\n- **QIO 槽位：**允許您綁定快捷鍵以在此槽位中使用便攜式 QIO。預設快捷鍵：Y\n- **傳送器槽位：**同上，適用於便攜式傳送器。預設快捷鍵：U\n- **快速傳送：**直接啟用您的便攜式傳送器。預設快捷鍵：I\n\n### 歡迎將此模組用於您的整合包",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

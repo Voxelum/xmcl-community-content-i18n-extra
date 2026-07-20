@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/KU4Gr6Ne74=",
-  "content": "![](https://cdn-raw.modrinth.com/data/oX7uP2kS/images/99494d45b8a8e11ea8f13ab5a316559a98432805.png)\n\nЭто основные классы, которые используют все мои моды для Forge. Они должны быть установлены, иначе мои моды будут вылетать.\n\nМоды, использующие этот ядро:\n- EnderChests [Страница Modrinth](https://modrinth.com/mod/enderchests)\n- EnderTanks [Страница Modrinth](https://modrinth.com/mod/endertanks)\n- MultiBeds [Страница Modrinth](https://modrinth.com/mod/multibeds)\n- Platforms [Страница Modrinth](https://modrinth.com/mod/platforms)\n- Terraqueous [Страница Modrinth](https://modrinth.com/mod/terraqueous)\n\n\n\nОтчёты об ошибках, запросы на новые функции и локализации принимаются здесь: [Проект на GitHub](https://github.com/ShetiPhian/Localizations-and-Issues)",
+  "bodyHash": "67f0dd7e23d84c79",
+  "content": "\n\n![](https://cdn-raw.modrinth.com/data/oX7uP2kS/images/99494d45b8a8e11ea8f13ab5a316559a98432805.png)\n\nЭто базовые классы, используемые всеми моими модами на Forge. Он должен быть установлен, иначе моды будут вылетать.\n\nМоды, использующие это ядро:\n- EnderChests [Modrinth Page](https://modrinth.com/mod/enderchests)\n- EnderTanks [Modrinth Page](https://modrinth.com/mod/endertanks)\n- MultiBeds [Modrinth Page](https://modrinth.com/mod/multibeds)\n- Platforms [Modrinth Page](https://modrinth.com/mod/platforms)\n- Terraqueous [Modrinth Page](https://modrinth.com/mod/terraqueous)\n\n\n\nСообщения об ошибках, пожелания по функционалу и локализации принимаются здесь: [GitHub Project](https://github.com/ShetiPhian/Localizations-and-Issues)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

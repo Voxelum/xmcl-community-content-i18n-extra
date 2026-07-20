@@ -1,0 +1,6 @@
+{
+  "bodyHash": "20108aceb7fad18d",
+  "content": "\n\n此资源包使 Bleu_2ay 的末影人模型与 Fresh_LX 制作的 Fresh Animations 兼容！\n\n由于 Bleu_2ay 的末影人模型使用了自定义模型，因此无法与 Fresh Animations 兼容。\n本资源包通过提供适配相应动画的新模型解决了这一问题！\n\n**重要提示：**\n\n为使本资源包正常工作，你需要将其加载顺序置于 FA _之上_。\n\n**加载顺序如下：**\n\n- 本资源包\n- Fresh Animations\n\n设计与建模：[Twitter 上的 Bleu_2ay](https://x.com/Bleu_2ay)\n\n作者：[Twitter 上的 ALtheGatorMC](https://x.com/ALtheGatorMC)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

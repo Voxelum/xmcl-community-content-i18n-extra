@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2b7af04c338dcb1a",
+  "content": "\n\n# Sparkles ADDON：Alpha Islands\n\n此资源包将[Terralith](https://modrinth.com/mod/terralith)中极其罕见的[Alpha Islands](https://stardustlabs.miraheze.org/wiki/Alpha_islands)和[Alpha Islands Winter](https://stardustlabs.miraheze.org/wiki/Alpha_islands_(winter))生物群系内的所有*方块与实体的纹理，替换为Alpha/开发者时期的对应样式。基础[Sparkles](https://modrinth.com/resourcepack/sparkles)资源包非必需安装，但仍建议搭配使用。\n\n## 为什么我看不到自定义纹理？\n\n若要查看自定义方块与实体纹理，在Forge环境下OptiFine确实可用，但我们已不再推荐在任何情况下使用OptiFine。对于Fabric环境，请下载以下模组：\n\n- [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)\n- [Continuity](https://modrinth.com/mod/continuity)\n\n然后，请确保已安装并启用该资源包，且你正处于Alpha Islands生物群系中。\n\n*部分方块从未有过“旧版”对应物，且部分外观尚未被还原。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

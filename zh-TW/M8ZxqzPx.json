@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5194727adfa1f78",
+  "content": "\n\n馬鈴薯砲的彈丸現在可以破壞方塊了！\n\n模組本身並未讓任何彈丸具備破壞方塊的能力，但你可以透過 `on_block_hit` 物件中的 `cdb:break_block` 類型來達成此效果。\n\n你也可以在[這裡](https://github.com/StarmanMine142/cdb/tree/example-datapack)查看數據包範例，並前往[這裡](https://github.com/StarmanMine142/cdb/wiki)閱讀維基。\n\n**呵，這是我的 jarona**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

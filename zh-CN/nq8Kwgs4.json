@@ -1,0 +1,6 @@
+{
+  "bodyHash": "913bcd26248e85a8",
+  "content": "\n\n## 中文\n\n坐标指南针让原版指南针可以绑定固定坐标或在线玩家。拿着指南针 Shift+右键打开界面，输入 X/Y/Z 坐标，或从在线玩家列表中选择目标；玩家模式会持续刷新指南针目标，让放在导航台、容器或掉落状态下的指南针也能跟随目标更新。\n\n### 功能\n\n- Shift+右键打开坐标和玩家绑定界面。\n- 坐标模式支持指定 X/Y/Z 与维度。\n- 玩家模式持续同步在线玩家当前位置。\n- 兼容 Simulated / Create: Aeronautics 导航台读取目标坐标。\n- 目标不需要真实磁石方块。\n\n### 指令\n\n- `/coordcompass set <x> <y> <z>`\n- `/coordcompass set <x> <y> <z> <维度>`\n- `/coordcompass player <玩家名>`\n- `/coordcompass give <x> <y> <z>`\n- `/coordcompass status`\n- `/coordcompass clear`\n\n### 前置\n\n- Minecraft 1.21.1\n- NeoForge 21.1.227\n- Java 21\n- 需要配合含导航台的航空学环境使用导航台输出。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

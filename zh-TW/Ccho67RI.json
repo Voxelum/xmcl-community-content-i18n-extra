@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80f87254a80c4147",
+  "content": "\n\n# 成就搜尋\n\n這是一款僅限客戶端的模組，為成就視窗加入了搜尋功能，介面風格類似於創意模式物品欄的搜尋欄。\n\n![img](https://cdn.modrinth.com/data/Ccho67RI/images/94909b9a3072d22a84ec6e6bc60bcc6bc9c8ccac.png)\n\n您輸入的文字會在所有可用成就的標題、描述及圖示內的物品名稱中進行搜尋。搜尋結果會以符合視窗尺寸的網格顯示，並依類型排序（任務 → 目標 → 挑戰）。點擊搜尋結果將開啟該成就所屬的分頁，並在成就樹狀列表中使其閃爍高亮。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

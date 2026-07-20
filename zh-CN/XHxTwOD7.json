@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ef458143b8b866a0",
+  "content": "\n\n[![][cf-shield]][cf-link]\n\n## 在 TMRV 0.9.0 中已不再需要此模组\n\n**这是一个仅客户端的 Neoforge 模组，用于修复 EMI、TMRV 与 Visual Workbench 之间的交互问题。**\n\n例如，如果你需要 4 个物品来合成某样东西，但其中 2 个已经放在工作台里，通过 EMI 添加配方到工作台会失效，因为它只能检测到你的背包中有 2 个物品。此模组通过禁用 Visual Workbench 的 JEI 插件，并将该功能交由 EMI 处理来解决此问题。\n\n[cf-shield]: https://img.shields.io/curseforge/dt/1492579?style=for-the-badge&logo=curseforge&label=curseforge&labelColor=black&color=%23F16436\n[cf-link]: https://legacy.curseforge.com/minecraft/mc-mods/uhhwhydoyoudothatvisualworkbench",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

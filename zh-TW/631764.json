@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27cf701c289e3141",
+  "content": "\n\n<h2>戰士狂怒</h2>\n<p>……是一款簡單的模組，將<strong>連殺</strong>的功能帶入《我的世界》。在短時間內擊殺怪物會賦予你更高的攻擊傷害，甚至讓攻擊附帶<strong>火焰附加</strong>效果。我製作此模組是為了協助玩家在地下城等怪物大量湧現的地點進行戰鬥。目前模組仍處於早期開發階段。</p>\n<p><img src=\"https://i.imgur.com/mVCWXQg.png\" alt=\"warriorragebanner\"></p>\n<p style=\"text-align:center\">\n  <a href=\"https://discord.gg/f8Nnj5VuFj\" style=\"display:inline-block\" rel=\"nofollow\">\n    <img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_64h.png\">\n  </a>\n  <a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252ftiviacz1337\" style=\"display:inline-block\" rel=\"nofollow\">\n    <img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_64h.png\">\n  </a>\n</p>\n<h3>功能特色</h3>\n<ul>\n<li>在 20（可設定）秒內擊殺 3（可設定）隻怪物後，狂怒狀態就會啟動。</li>\n<li>會出現狂怒計量條，顯示玩家剩餘的時間來擊殺下一隻怪物以維持連殺。若玩家未能在時間內擊殺任何怪物，狂怒狀態將會消失。</li>\n<li>快捷欄右側會出現擊殺計數器。預設最高擊殺數為 20（可設定），若玩家達到上限，對敵人造成傷害時會使其燃燒 2 秒。</li>\n<li>每達成 4（可設定）次連殺，就會增加 0.5（可設定）的預設傷害加成。<strong>這意味著在狂怒狀態下，達成 20 次連殺將使玩家每次攻擊額外獲得 2.5 點傷害。</strong></li>\n<li>啟用狂怒狀態後，每隔幾秒會在玩家周圍生成火焰粒子特效。此畫面覆蓋效果可在設定檔中關閉。</li>\n</ul>\n<p>歡迎隨時提出關於新增功能的建議！</p>\n<p><img src=\"https://i.imgur.com/tX1BGKb.png\" alt=\"warriorragegif\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

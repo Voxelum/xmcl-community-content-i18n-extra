@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1bc3b57eec3f88a7",
+  "content": "\n\n# 更好的選取\n\n這是為 Minecraft 設計的 Fabric 模組，透過改進「按字詞移動」功能（<kbd>Ctrl</kbd>+<kbd>←</kbd> 與 <kbd>Ctrl</kbd>+<kbd>→</kbd>），讓文字選取體驗更為舒適。\n\n## 問與答\n\n### 是否支援非從左至右書寫的文字？\n\n是的，它支援。\n\n### 是否支援 macOS？\n\n是的，macOS 應能獲得完整支援：\n- <kbd>⌘ Command</kbd>+<kbd>←</kbd> 會將游標移至行首，\n- <kbd>⌘ Command</kbd>+<kbd>→</kbd> 會將游標移至行尾，\n- <kbd>⌘ Command</kbd>+<kbd>⌫ Backspace</kbd> 會刪除游標左側的所有內容，\n- <kbd>⌘ Command</kbd>+<kbd>⌦ Delete</kbd> 會刪除游標右側的所有內容，\n- 在 Windows 上使用 <kbd>Ctrl</kbd> 的快捷鍵，在 macOS 上會對應使用 <kbd>⌥ Option</kbd>。\n\n### 是否修復了 [MC-121278](https://bugs.mojang.com/browse/MC-121278)？\n\n不，它沒有。不過我另外開發了一個可以修復該問題的模組：[通用快捷鍵](https://modrinth.com/mod/universal-shortcuts)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1bdfc9ad83176bc6",
+  "content": "\n\n受夠了看著同樣的 16x16 水或熔岩紋理在每個區塊上重複出現且毫無差異了嗎？渴望減少一些莫列紋嗎？\n\n**Big Water** 帶來改變，透過大尺寸紋理提供更多小尺度的變化！\n資源包可以提供兩倍、三倍、四倍甚至更大的流體紋理，然後定義它們應該覆蓋多少個區塊。即使沒有相容的資源包啟用，你也可以透過設定介面隨時調整縮放比例！\n\n![BigWater 熔岩與原版熔岩的比較](https://cdn.modrinth.com/data/8DnPmuty/images/be54bc524991c41d887829621240e5c951c64982.gif)\n\n本模組內建 3 個範例資源包：\n- 原版（Vanilla）\n  - 預設啟用（NeoForge 除外），盡可能接近原版，但使用覆蓋 4x4 區塊的多樣化紋理\n- 復燃（Rekindled）\n  - 類似 [Fire Rekindled](https://modrinth.com/resourcepack/fire-rekindled)。同樣縮放至 4x4 區塊。\n- 風格化（Stylized）\n  - 類似 [Stylized Liquids](https://modrinth.com/resourcepack/stylized-liquids)。同樣縮放至 4x4 區塊。\n\n這些範例包也都包含動態法線貼圖，支援該功能的着色器即可使用。\n\n是的，我知道斜向流動的紋理還遠非完美。如果你是開發者，歡迎查看程式碼，若能提供改進建議將不勝感激。\n\n\n### _給資源包製作人：_\n\n將你的大尺寸紋理放入 `assets/bigwater/textures/block/`，然後為每個區塊（而非紋理檔！）建立對應的設定檔，格式如下：\n\n`assets/bigwater/config/water.json`\n```\n{\n   \"textureScale\": 4\n}\n```\n如果模組在上述資料夾中找不到自訂紋理，就會改用 `minecraft/textures/block` 中的紋理。\n\n免責聲明：\n- 雖然可以針對每種流體獨立設定縮放比例，但這同時適用於靜止與流動紋理。\n- 法線與高光貼圖能正常運作，但 POM 會遇到與區塊重複 CTM 相同的問題，也就是每個區塊都會出現縫隙。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fd6b4439e14f3af9",
+  "content": "\n\n<div><em><strong>Этот мод скоро будет полностью переработан и переименован в Immersive Stamina.</strong></em></div>\n<p>&nbsp;</p>\n<p>Этот мод добавляет простую систему выносливости в Minecraft.&nbsp;&nbsp;</p>\n<p>Выносливость расходуется, когда:&nbsp;&nbsp;<br>Игрок бежит спринтом&nbsp;<strong>(При прыжке расходуется больше)</strong>,&nbsp;&nbsp;<br>Игрок совершает прыжок,&nbsp;&nbsp;<br>Игрок ломает блок,&nbsp;&nbsp;<br>Игрок атакует сущность,&nbsp;&nbsp;<br>Игрок наносит критический удар сущности.&nbsp;&nbsp;</p>\n<p>Расход выносливости снижается, если:&nbsp;&nbsp;<br>Используются инструменты,&nbsp;&nbsp;<br>На любых штанах действует зачарование «Выносливость»&nbsp;<strong>(Снижает расход выносливости при беге и прыжках)</strong>,&nbsp;&nbsp;<br>Любой инструмент зачарован на «Эффективность».&nbsp;&nbsp;</p>\n<p>Совместим с модом Combat Roll (Пока что он только тратит выносливость).&nbsp;&nbsp;</p>\n<p>Совместим с модом Vic's Point Blank.</p>\n<p>Сообщить о проблеме:&nbsp;<a href=\"https://github.com/Gleb-Lisovskiy/Kerilom-s-Stamina/issues\" target=\"_blank\" rel=\"nofollow\">GitHub</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "JbOGt+qDskE=",
-  "content": "# 种子守卫\n\n通过改变特征和结构位置来保护你的世界种子，防止种子被破解。\n\n## 原理是什么？\n\n在生成世界时，Minecraft会构建基础地表形状，随后应用生物群系，最后添加地表装饰物——这些装饰物包括特征（树木、甘蔗、草丛、矿石...）和结构（村庄、掠夺者哨站...）。\n\n每个特征/结构都有其专属的种子，在原版中这些种子是硬编码的（以确保同一种子生成的世界始终相同）。种子守卫会将这些种子替换为随机生成的种子，使得无法通过[特征](https://minecraft.fandom.com/wiki/Feature)或[结构](https://minecraft.fandom.com/wiki/Structure)反推世界种子。\n\n## 对比展示\n\n种子守卫会改变Minecraft中特征/结构的生成位置，以下是安装与未安装该模组的世界对比演示。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-vKt57kX2ac\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "bodyHash": "c95d1b156acbd1ac",
+  "content": "\n\n# SeedGuard\n\n通过改变特性与结构的生成位置来保护你的世界种子，防止种子被破解。\n\n## 工作原理\n\n在生成世界时，Minecraft 会先构建基础的地表形状，接着应用生物群系，最后添加地表装饰。这些装饰包括特性（如树木、甘蔗、草、矿石……）和结构（如村庄、掠夺者前哨站……）。 \n\n每个特性/结构都有自己独立的种子，这些种子在原版中是硬编码的（以确保相同种子的世界外观始终一致）。SeedGuard 会将这些种子替换为随机生成的种子，使得无法从[特性](https://minecraft.fandom.com/wiki/Feature)或[结构](https://minecraft.fandom.com/wiki/Structure)中反推世界种子。\n\n## 对比视图\n\nSeedGuard 改变了 Minecraft 中特性/结构的生成位置，下方展示了安装该模组前后的世界对比演示。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/-vKt57kX2ac\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "789fc6bdb6050809",
+  "content": "\n\n<p>为 Valkyrien Skies 或 Sable 提供与 Jade 的兼容性。</p>\n<p>修复了 Jade 在请求方块数据时的服务端方块距离检查问题。因此，你可以使用 Jade 查看 VS 飞船上的额外信息。</p>\n<p>它还允许你在多人游戏中轻松查看方块质量、方块速度和角速度。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

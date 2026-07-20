@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1bdf70e2c1f32b7c",
+  "content": "# 概述\n为 Minecraft 1.21+ 添加幸运方块，玩家可以破坏它以触发随机事件。\n\n![Events](https://cdn.modrinth.com/data/fyhTamlR/images/673d61d709954be8063118f377acdab4b37d7b8f.png)\n\n>注意：使用数据包制作插件非常简单。（Wiki 即将推出~）\n\n# 玩法说明\n## 世界生成\n幸运方块将生成在原版生物群系中。\n\n![Worldgen](https://cdn.modrinth.com/data/fyhTamlR/images/59fe080c144e57287428e2fdff7d27345d6bb5b4.png)\n\n## 合成\n幸运方块可以通过 8 个金锭和 1 个红石块合成。\n\n![Crafting](https://cdn.modrinth.com/data/fyhTamlR/images/3fe69bc6239303b6b0bfa8b7831289ea3a4b9995.png)\n\n# 特性\n> 仍在开发中\n\n- 掉落物品\n- 生成生物\n- 放置方块\n- 下落方块\n- 放置箱子\n- 创建爆炸\n- 创建粒子效果\n- 发送消息\n- 显示消息\n\n# 注意事项\n- 可能不完全支持英文？\n- 包含来自 Bilibili 或其他地方的梗\n- 使用精准采集以避免触发事件并掉落自身\n\n# 为什么制作此模组\n- 学习 Minecraft 模组开发\n- 与朋友们一起享受乐趣\n- 原始的 Lucky Block 模组未更新到 Minecraft 1.21+",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

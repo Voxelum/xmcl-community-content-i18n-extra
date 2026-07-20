@@ -1,0 +1,6 @@
+{
+  "bodyHash": "65bb704022881cbc",
+  "content": "<p><a href=\"https://minecraft.curseforge.com/projects/pocket-storage\" target=\"_blank\" rel=\"nofollow\"><img src=\"http://cf.way2muchnoise.eu/367734.svg\" alt=\"Curse Forge\"></a>\n<a href=\"https://minecraft.curseforge.com/projects/pocket-storage\" target=\"_blank\" rel=\"nofollow\"><img src=\"http://cf.way2muchnoise.eu/versions/367734.svg\" alt=\"Curse Forge\"></a>\n<a href=\"https://github.com/Flanks255/pocketstorage/actions/workflows/release.yml\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://github.com/Flanks255/pocketstorage/actions/workflows/release.yml/badge.svg?branch=master\" alt=\"Build and deploy\"></a></p>\n<p>一款簡單的階層式口袋大容量儲存模組，別再讓你的物品欄被鵝卵石填滿了。</p>\n<p>目前功能：</p>\n<ul>\n<li>4 個等級<ul>\n<li>第 1 級：8 個槽位，每個槽位可存放 255 個物品。 </li>\n<li>第 2 級：16 個槽位，每個槽位可存放 4095 個物品。 </li>\n<li>第 3 級：32 個槽位，每個槽位可存放 65535 個物品。 </li>\n<li>第 4 級：64 個槽位，每個槽位可存放 1048575 個物品。 </li></ul></li>\n<li>可透過合成進行升級</li>\n</ul>\n<p>計畫中的功能：</p>\n<ul>\n<li>方塊放置。</li>\n</ul>\n<p>需求：</p>\n<ul>\n<li>無需任何前置模组！</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

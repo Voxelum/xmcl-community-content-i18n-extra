@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5944decfe1b7d9a5",
+  "content": "\n\n## Pixelmon Lucky Block 擴充模組\n\n此模組需搭配 Pixelmon Reforged 使用，能從幸運方塊中隨機生成寶可夢，並提供多種不同類型的幸運方塊，包含普通、傳說以及偽傳說。\n\n觸發傳說方塊時會產生特殊效果。\n\n### 幸運方塊\n\n預設機率：\n\n- 傳說 - 1%\n- 究極異獸 - 10%\n- 傳說幸運方塊\n\n預設機率：\n\n- 傳說 - 100%\n- 偽傳說幸運方塊\n\n預設機率：\n\n- 傳說 - 30%\n- 鯉魚王 - 70%\n### 寶可夢通訊器\n- 右鍵：治療當前隊伍\n- Shift + 右鍵：開啟電腦（PC）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

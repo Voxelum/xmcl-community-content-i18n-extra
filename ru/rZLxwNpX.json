@@ -1,0 +1,6 @@
+{
+  "bodyHash": "40efa2537990b606",
+  "content": "\n\n![Баннер](https://github.com/d1ts05/CreateAnalyzerLite/blob/main/src/main/resources/banner.png?raw=true)\n\n\n# Create Analyzer Lite\n\nИнтерфейс HUD только для клиента для отображения метрик мода Create.\n\n## Особенности\n- Показатели в реальном времени: обороты (RPM), нагрузка и количество узлов\n- Компактный и расширенный режимы отображения\n- Система тем (Светлая/Тёмная/Авто)\n- Настройка внутри игры\n\n## Установка\n1. Скачайте с Modrinth\n2. Поместите `.jar` в папку `mods/`\n3. Запустите с NeoForge 21.1+\n\n## Требования\n- Minecraft 1.21.1\n- NeoForge 21.1.62+\n- Create 6.0+ (необязательно)\n\n## Конфигурация\nОткрыть через: `Mods → CreateAnalyzerLite → Config`\n\n## Горячие клавиши\n- `O` - Вкл./Выкл. оверлей\n- `Shift+O` - Циклическое переключение режима отображения",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

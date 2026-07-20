@@ -1,0 +1,6 @@
+{
+  "bodyHash": "290891ff30772ac6",
+  "content": "\n\n### 描述\n \n此模组/数据包仅将游戏规则 mobExplosionDropDecay 设置为 false，使苦力怕的爆炸能够掉落所有被破坏的方块，以便你进行回填。\n\n### 安装指南 \n\n在 Windows 系统上，前往你的存档文件夹，位置如下：\n```\nC:\\Users(your name)\\AppData\\Roaming\\.minecraft\\saves\n```\n将压缩包放入 data_packs 文件夹中，随后重启世界或执行 /reload 命令即可。\n\n### 其他注意事项\n\n- 如需反馈、报告错误或寻求其他帮助，请通过本页链接部分的入口加入我们的 [Discord 服务器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a4ebb94fa98cb7f3",
+  "content": "\n\n**World Preview TFC**\n\n基于 [World Preview](https://modrinth.com/project/WtfpyicL) 的分支\nWorld Preview TFC 在“创建世界”界面中添加了一个“世界预览”选项卡，并使用 TerraFirmaCraft (TFC) 的世界生成机制来预览种子。\n它可以可视化显示生物群系、温度、降雨量、陆地与水域、岩石类型、岩层、高岭土区域及热点。\n\n问题追踪：https://github.com/TKFT/World-Preview-TFC/issues\n\n## 前置要求\n- Minecraft 1.21.1\n- NeoForge 21.1.234\n- TerraFirmaCraft (TFC) 4.2.0+\n\n## 使用方法\n打开 `创建新世界` 并切换到 `世界预览` 选项卡。在地图上拖动即可沿 X 轴和 Z 轴移动。系统将加载：\n- 生物群系\n- 高度图（若已启用）\n- 降雨量地图\n- 温度地图\n- 陆地/水域/河流地图\n- 岩层地图\n- 岩石类型地图\n- 高岭土区域地图\n- 森林地图\n- 树木地图\n- 土壤地图\n- 热点地图\n- 火山图标\n\n## 其他功能\n- 种子持久化存储\n- 高亮特定生物群系\n- 高度可配置且支持扩展\n- 种子搜索\n\n## 兼容性\n- 与原版的 World Preview Neoforged 模组不兼容（模组 ID 为 `world_preview`）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

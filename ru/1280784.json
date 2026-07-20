@@ -1,0 +1,6 @@
+{
+  "bodyHash": "220bbe9fdd26321e",
+  "content": "\n\n<h1>Recon Silk Spawners</h1>\n<p>Простой мод, позволяющий добывать спавнеры киркой с зачарованием «Шёлкового касания»</p>\n<hr>\n<h2>Особенности</h2>\n<ul>\n<li>Добыча спавнеров с помощью «Шёлкового касания»</li>\n<li>Сохраняет все данные NBT (тип моба, правила спавна, потенциалы спавна)</li>\n<li>Позволяет размещать спавнеры с сохранёнными данными</li>\n<li>Полная система белого / чёрного списков для контроля сущностей</li>\n<li>Ограничение размещения в определённых измерениях</li>\n<li>Опциональное отладочное логирование добытых и установленных спавнеров</li>\n<li>Полностью настраивается через <code>reconsilkspawners-common.toml</code></li>\n</ul>\n<hr>\n<h2>Конфигурация (с версии 2.1.0)</h2>\n<pre><code>enableSilkTouchSpawners = true\nenableSpawnerPlacement = true\nlogSpawnerData = false\n\nrestrictedPlacementDimensions = [\"minecraft:the_nether\", \"minecraft:the_end\"]\n\nenableWhitelist = false\nwhitelistEntityIds = [\"minecraft:zombie\"]\n\nenableBlacklist = false\nblacklistEntityIds = [\"minecraft:warden\"]</code></pre>\n<hr>\n<h2>Поддерживаемые версии</h2>\n<ul>\n<li>Minecraft 1.21.1</li>\n<li>NeoForge 21.1.172</li>\n</ul>\n<hr>\n<h2>Лицензия</h2>\n<p>ARR</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

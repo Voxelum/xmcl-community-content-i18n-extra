@@ -1,6 +1,6 @@
 {
-  "bodyHash": "cR49qtnGQfk=",
-  "content": "Позволяет SPS от Mekanism использовать пользовательские рецепты через JSON.\nВсё ещё в процессе разработки — я планирую исправить ошибки и добавить недостающие функции.\n\nПримечание: Я потратил 3 часа, пытаясь найти мод с такой функцией, но не смог его найти, поэтому решил сделать его сам :)\n\nПример:\n\n```\n{\n  \"type\": \"spscustomizer:sps\",\n  \"input\": {\n    \"chemical\": \"mekanism:hydrogen\",\n    \"amount\": 1000\n  },\n  \"output\": {\n    \"id\": \"mekanism:oxygen\",\n    \"amount\": 1\n  },\n  \"energy\": 1000000\n}\n```\n",
+  "bodyHash": "ba9609df952040d8",
+  "content": "Позволяет использовать пользовательские рецепты для SPS из Mekanism через JSON.\n\nПроект всё ещё находится в стадии разработки — я планирую исправлять ошибки и добавлять недостающие функции.\n\nПримечание: Я потратил 3 часа на поиск мода с такой функцией, но ничего не нашел, поэтому создал его сам :)\n\nПример:\n\n```\n{\n  \"type\": \"spscustomizer:sps\",\n  \"input\": {\n    \"chemical\": \"mekanism:hydrogen\",\n    \"amount\": 1000\n  },\n  \"output\": {\n    \"id\": \"mekanism:oxygen\",\n    \"amount\": 1\n  },\n  \"energy\": 1000000\n}\n```",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

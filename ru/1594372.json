@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fdb5453ba6f1a19f",
+  "content": "\n\n<p>В этом режиме один игрок назначается Предателем и пытается тайно помешать другим завершить игру. Мирные жители побеждают, если успешно завершат игру, а Предатель побеждает, если уничтожит всех остальных.</p>\n<p>Команды:</p>\n<p>/imposter start</p>\n<p>/imposter end</p>\n<p><code>/imposter reset</code></p>\n<p><code>/imposter status</code></p>\n<p><code>/imposter reload</code></p>\n<p><code>/imposter reveal</code></p>\n<p><code>/imposter windconditions</code></p>\n<p><code>/imposter guess &lt;player&gt;</code></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

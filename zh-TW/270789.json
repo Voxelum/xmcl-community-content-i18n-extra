@@ -1,0 +1,6 @@
+{
+  "bodyHash": "413351180eb57ff2",
+  "content": "\n\n<p>Redstone Flux API 的獨立 JAR 檔案。</p>\n<p><strong>給模組開發者的重要提示：</strong><strong>在您的模組中重新打包此 API 或舊 API（cofh.api.energy）會導致遊戲崩潰。請勿這樣做。:)</strong></p>\n<p>如果您想要使用能力（Capabilities）系統，請使用 Forge Energy——它本質上就是 RF 的能力實作。那麼，為什麼還要使用這個呢？</p>\n<p>坦白說，並沒有什麼特別的理由，主要是因為介面（Interfaces）具有更高的效能與穩定性，並且能提供一套範本供您編寫程式碼時參考，確保沒有出錯。而且它們也能輕鬆轉換為能力系統。</p>\n<p>或者，也許您只是想要純粹的 RF，而不希望各種新的 Flux 變體來驅動您的機器。這也完全沒問題。:)</p>\n<p>模組開發者，請將以下內容加入您的 build.gradle：</p>\n<pre>repositories {\n    maven {\n        name = \"CoFH Maven\"\n        url = \"http://maven.covers1624.net\"\n    }\n}\n\ndependencies {\n    deobfCompile \"cofh:RedstoneFlux:1.12-2.0.0.1:universal\"\n}</pre>\n<p>祝您使用愉快！</p>\n<p>&copy;2012-2017 Cult of the Full Hub / Team CoFH / CoFH</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

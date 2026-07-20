@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00f3dd533f999860",
+  "content": "\n\n<div align=\"center\">\n<h1>Шейдеры киберпространства</h1>\n\n\nШейдеры, призванные воссоздать эффект LiDAR из киберпространства Cyberpunk 2077.\n</div>\n\nВы можете использовать эти шейдеры для создания впечатляющей графики в игре, которую можно применять при создании контента или просто во время игры.\n\nТекущие возможности:\n- Облако точек, созданное с помощью DDA-Raymarching\n- Настраиваемые параметры LiDAR для расстояния затухания, плотности, размера и шагов DDA\n- Настраиваемые параметры движения точек\n- Настраиваемые цвета точек и мира\n- Виньетка\n\nВ будущих обновлениях появятся дополнительные возможности.\n\n<div align=\"center\">\n<img src=\"https://raw.githubusercontent.com/ClownsProd/cyberspace-shaders/refs/heads/master/assets/image1.png\" alt=\"Предпросмотр\">\n<br>\n<img src=\"https://raw.githubusercontent.com/ClownsProd/cyberspace-shaders/refs/heads/master/assets/image2.png\" alt=\"Предпросмотр\">\n<br>\n\n<b>Этот проект распространяется по лицензии CC0 (Общественное достояние)</b>\n</div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

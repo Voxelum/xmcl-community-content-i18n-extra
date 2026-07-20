@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f9abb885a69c2258",
+  "content": "\n\n# Авто Элитра\n\nАвто Элитра — это клиентский мод для Forge и Fabric, который автоматически надевает элитру при начале полёта.\n\nПросто держите пару элитр в инвентаре и летайте как обычно! Ваш нагрудник будет автоматически сниматься и снова надеваться, когда вы перестанете летать.\n\nМод зависит от [Fabric API](https://modrinth.com/mod/fabric-api) или [QSL](https://modrinth.com/mod/qsl), если вы используете [Quilt](https://quiltmc.org/en/). Если установлен [Cloth Config API](https://modrinth.com/mod/cloth-config), меню настроек доступно через [Mod Menu](https://modrinth.com/mod/modmenu) или меню модов Forge.\n\n![GIF, демонстрирующий работу мода](https://github.com/NimajnebEC/auto-elytra/raw/main/demo.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

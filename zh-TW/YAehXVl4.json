@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6a641c6ba14bf433",
+  "content": "\n\n<div align=\"center\"><center>\n\n<img alt=\"An eye against a blue background with bubbles floating upwards behind it\" src=\"https://raw.githubusercontent.com/lumilovesyou/Have-a-Bad-Day/refs/heads/main/Images/icon-small.png\">\n\n# Have a Bad Day\n\n*一款純粹旨在讓遊戲體驗變得難以忍受的模組。*\n\nHave a Bad Day 新增了眨眼與呼吸機制，玩家必須定期手動操作。\n\n</center></div>\n\n## 使用方式\n\n### 快捷鍵\n\n按下 `v` 鍵進行呼吸會補充氧氣條，除非你在水下或著火中。按下 `b` 鍵進行眨眼會移除眼部疲勞視覺覆蓋層，並重置下次需要眨眼前的倒數時間。\n\n### 物品\n\n眼藥水能賦予玩家「Refreshed」藥水效果，使其在三分鐘內無需眨眼。手持眼藥水時仰視並點擊右鍵即可使用。\n\n### 合成配方\n\n眼藥水可使用鐵錠、任意染料、水瓶與鐵粒合成。\n\n<img alt=\"A crafting grid with an iron ingot, blue dye, water bottle, and iron nugget\" src=\"https://raw.githubusercontent.com/lumilovesyou/Have-a-Bad-Day/refs/heads/main/Images/dropper-recipe.png\">\n\n### 遊戲規則\n\n共有兩項遊戲規則：`require_blinking` 與 `require_breathing`。可在世界創建畫面的 `PLAYER` 分類中更改，或使用指令 `/gamerule have-a-bad-day:gamerule true/false` 進行設定。\n\n將 `require_blinking` 設為 `false` 可取消強制眨眼需求，但仍可手動眨眼。\n\n將 `require_breathing` 設為 `false` 會將氧氣條恢復至原版系統。關閉此功能期間無法手動呼吸。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

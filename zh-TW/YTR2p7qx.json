@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd22f83f00d96340",
+  "content": "\n\n# 攀升果\n本模組引入了攀升果，這是一個非常實用的物品，可讓您在穿過地形後傳送到頂部。 \n\n靈感來自《薩爾達傳說：王國之淚》中的「攀升」能力，非常適合在採礦時快速離開洞穴。不過，您也可以利用它攀登山峰、前往基地的下一層樓，或用於許多其他場合。 \n\n## 使用方式\n\n1. 在天花板附近食用攀升果\n2. 傳送至您上方最近的開放空間\n\n<details>\n<summary>使用影片</summary>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/sJKGTB3v5OM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n</details>\n\n\n![玩家走向懸崖、食用攀升果並向上傳送後走出螢幕的循環 GIF 動畫](https://raw.githubusercontent.com/Pesopes/ascend-fruit-mod/main/promo/usage_square.webp)\n\n## 合成方式\n要合成它，請將風彈放在釀造台的上層，下層放置合唱果，它就會轉化為攀升果。\n\n## 注意事項：\n- 目前無法傳送至液體上。如果您上方是海洋，傳送將會失敗。_我未來可能會更改此設定。_\n- 您必須靠近天花板（距離在 7 格空氣方塊內）才能傳送。目的地必須至少有 2 格高。\n- 傳送可能因其他原因失敗，但當傳送失敗時，您的果實**不會被消耗**。\n\n## 支持本模組\n\n感謝您至少閱讀了這段說明。這是我的第一個 Minecraft 模組，我正在邊做邊學。如果您覺得這個模組有用，歡迎考慮贊助支持。\n\n<a href='https://ko-fi.com/Q5Q71CDFXT' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

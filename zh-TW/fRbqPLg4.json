@@ -1,0 +1,6 @@
+{
+  "bodyHash": "052af362d1b93abf",
+  "content": "\n\nSatin 是一套簡單的函式庫，讓模組開發者能夠為自己的模組加入有趣的圖形效果。其主要特色在於大幅簡化 Minecraft 資料驅動著色器系統的使用（亦即超級秘密設定、生物視野與光譜箭頭所採用的一套）。\n\n完整的功能列表與安裝說明請參閱 GitHub 儲存庫：https://github.com/Ladysnake/Satin/\n\n關於著色器格式的說明文件可在維基找到：https://github.com/Ladysnake/Satin/wiki/Data-driven-shaders\n\n## 常見問題\n\n### 它能取代 Optifine 嗎？\n\n不能。Optifine 的著色器比這個函式庫所能支援的複雜得多。若需尋找開發中的替代方案，請見 Canvas Renderer 專案。\n\n### 它能恢復「超級秘密設定」嗎？\n\nSatin 僅是一套函式庫，因此本身不會增加任何內容。不過，您可以關注 Secrets No More 這支模組，它正是利用 Satin 來實現該功能！\n\n### 這個函式庫有 Forge 版本嗎？\n\n沒有，而且我也不打算親自移植。但我會支持任何願意進行移植的人。此外請注意，無論使用何種模組載入器，著色器格式的說明文件皆適用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c3a3d50339b7ebd9",
+  "content": "\n\n# CustomSusScreen\nФорк мода CustomSplashScreen. Заменяет загрузочный экран Minecraft на <a href=\"https://www.reddit.com/r/amogus/comments/zyy9jb/when_mojang_is_sus_oc_too_big_of_a_coincidence/\">определённую анимацию</a>.\n\nМожно переключить на статичное изображение или пользовательскую анимацию (подробности ниже).\n\nОтключение или настройка полосы загрузки.\n\n<img src=\"https://i.ibb.co/BtZ68ZD/image.png\" width=\"655\" height=\"368\" target=\"_blank\" /></p>\n\nЕсли вы хотите использовать собственную анимацию, замените файлы PNG в папке конфигурации. \n\nНастройте параметры AnimSpeed и FramesAhead в конфиге для корректного отображения. Включение LoadUnusedFrames позволит не перезапускать игру каждый раз при изменении AnimSpeed; по умолчанию отключено из-за увеличения времени запуска Minecraft.\n\n<font size=\"1\">Я проиграл игру.</font>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d825a860f29fcc6a",
+  "content": "\n\n# TrapPvP+\n\n[![Chat with us on Discord](https://img.shields.io/badge/Chat%20&%20get%20help%20on-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9Qs6VdUsXR)\n\n**針對 TrapPvP 伺服器的輕量級客戶端模組。**\n\n當撿起物品或陷入陷阱（1v1 狀況）時，此模組會立即做出反應。它可以自動執行指令（例如 `/spawn`）、讓您斷線退出伺服器，或是卸下您的盔甲。\n\n**這絕對不是作弊客戶端。** 它不包含殺氣、攻擊距離放大或移動輔助等外掛功能。它僅自動化安全應對機制，幫助您在陷阱中存活。\n\n---\n\n### 功能特色\n* **觸發條件：**\n    * **近距觸發：** 當其他玩家靠近時啟動（陷阱觸發 / 1v1 狀況）。\n    * **物品欄觸發：** 當特定物品進入您的物品欄（撿起戰利品）時啟動。\n    * **執行指令：** 執行 `/spawn`（或任何自訂指令）。\n    * **斷線退出：** 立即離開伺服器。\n    * **卸下盔甲：** 將盔甲從裝備槽移至物品欄，以保存耐久度或完整套裝。\n\n### 安裝方式\n* **所需前置模組：** Fabric API、Cloth Config、Mod Menu\n\n\n---\n\n# 🇹🇷 Türkçe\n\n**針對 TrapPvP 伺服器的輕量級客戶端輔助模組。**\n\n撿起物品或陷入陷阱（單挑）時會立即反應。視情況自動執行指令（如 `/spawn`）、斷線退出伺服器或卸下盔甲。\n\n**這絕對不是作弊外掛。** 不含任何作弊功能，僅用於優化 TrapPvP 體驗並自動化部分操作。\n\n[![Chat with us on Discord](https://img.shields.io/badge/Discord%20Sunucusu-Kat%C4%B1l-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9Qs6VdUsXR)\n\n### 功能特色\n* **觸發條件：**\n    * **近距感應：** 當玩家靠近您時運作。\n    * **物品欄：** 撿取指定的物品時運作。\n    * **執行指令：** 輸入 `/spawn` 或您指定的任意指令。\n    * **斷線（DC）：** 立即退出伺服器。\n    * **卸下盔甲：** 將盔甲移至物品欄以保護您的套裝。\n\n### 安裝方式\n* **所需模組：** Fabric API、Cloth Config、Mod Menu",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

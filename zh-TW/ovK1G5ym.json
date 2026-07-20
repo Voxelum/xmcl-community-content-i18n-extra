@@ -1,0 +1,6 @@
+{
+  "bodyHash": "37cd559f4cf19a38",
+  "content": "\n\n### 說明\n \n若您的靴子附帶任何等級的「摔落緩衝」附魔，請使用主要數據包/模組（標示為正式版本）來停用農作物踩踏效果。您也可以獲取替代版本（標示為 Beta 版），無論玩家是否擁有該附魔，皆能為所有人停用耕地踩踏效果。\n\n### 安裝指南\n\n前往您的存檔資料夾，在 Windows 系統中的路徑如下：\n```\nC:\\Users(your name)\\AppData\\Roaming\\.minecraft\\saves\n```\n將壓縮檔放入 `datapacks` 資料夾中，接著重新載入世界或執行 `/reload` 指令即可。\n\n### 其他注意事項\n\n- 替代版本會為所有玩家停用耕地踩踏效果，即使他們並未裝備「摔落緩衝」。\n- 如需提供回饋、回報錯誤或尋求其他協助，請從本頁的連結區塊加入 [Discord 伺服器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3647c7f85da0bb0",
+  "content": "\n\n<h1>免责声明</h1>\n<p>本项目并非 OpenComputers 的官方发布版本。</p>\n<p>这是一个非官方的 OpenComputers 续作及现代化移植版本。</p>\n<p>本项目目前处于测试阶段。功能可能会发生变化，并可能出现错误或意外行为。</p>\n<h1>简介</h1>\n<p>本模组添加了可以使用 <strong>Lua 5.2 和 5.3 进行编程</strong> 的计算机，并在尽可能保留与现有 OpenComputers 软件兼容性的同时进行了开发。计算机在存档之间<strong>会保留状态</strong>（即重新加载时程序会从保存的位置继续运行），并且具有高度的<strong>模块化</strong>特性（包含显卡、网卡、红石卡等……）。如果安装了兼容的能源生成模组，默认情况下计算机运行时将需要消耗电力——但和该模组的绝大多数设置一样，这可以在配置文件中更改。</p>\n<p>OpenComputers 旨在很好地融入<strong>生存模式玩法</strong>，建议与其他允许自动化矿石处理以及一定程度自动合成的模组搭配游玩！制造计算机的成本并不低，因此在新游戏开局初期不要期望能很快造出第一台计算机。如果您希望增加挑战，可以尝试困难模式配方集（更多信息请参阅 <em>.minecraft/config/opencomputers/user.recipes</em>）。</p>\n<p>模组中包含大量可用于扩展计算机的组件，例如<strong>运动传感器、全息投影仪</strong>，此外还有<strong>机器人</strong>。</p>\n<p>通过适配器方块，本模组提供了与众多其他模组的交互支持（例如读取储能设备中的电力信息等）。</p>\n<p>如需了解更多信息，请访问位于 <a href=\"/linkout?remoteUrl=http%253a%252f%252focdoc.cil.li%252f\" target=\"_blank\" rel=\"nofollow\">http://ocdoc.cil.li/</a> 的<strong>维基页面</strong>。除了介绍模组内的方块和物品外，这里还详细记录了内置的 Lua API，帮助您了解计算机实际能够实现的功能。</p>\n<h1>致谢</h1>\n<p>感谢原作者 Sangar、Vexatos、payonel、magik6k、Lord Joda 以及所有 GitHub 贡献者。</p>\n<p>原始项目链接：<a href=\"https://www.curseforge.com/minecraft/mc-mods/opencomputers\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/opencomputers</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

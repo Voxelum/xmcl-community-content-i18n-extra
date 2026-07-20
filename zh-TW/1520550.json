@@ -1,6 +1,6 @@
 {
-  "bodyHash": "iJXpvYKW1SY=",
-  "content": "<p>此模組修復了 EpicFight-Resurrection 與 Epic Fight 20.12.8+ 之間的相容性問題。</p><p><strong>已修復的問題：</strong></p><ul>\n<li>「閻魔刀」：揮劍時發生 NullPointerException 崩潰（Epic Fight 20.14.x）</li>\n<li>「幻影武士刀」：攻擊時無動畫（Epic Fight 20.12.8+）</li>\n<li>「GREAT_TACHI（緋紅獠牙）」：雙持時攻擊無動畫（Epic Fight 20.12.8+）</li>\n<li>「狼神跳躍」：EpicFight 20.10.x 更新後不再播放動畫。</li>\n</ul><p>&nbsp;</p>",
+  "bodyHash": "f69f59c732372615",
+  "content": "\n\n<p>此模組修復了 EpicFight-Resurrection 與 Epic Fight 20.12.8+ 之間的相容性問題。</p>\n<p><strong>已修復的問題：</strong></p>\n<ul>\n<li>Yamato：揮動時發生 NullPointerException 崩潰（Epic Fight 20.14.x）</li>\n<li>Phantom Katana：攻擊動畫無法播放（Epic Fight 20.12.8+）</li>\n<li>GREAT_TACHI（Crimson fang）：雙持時攻擊動畫無法播放（Epic Fight 20.12.8+）</li>\n<li>Wolf God Leap：於 EpicFight 20.10.x 更新後動畫不再播放。&nbsp;</li>\n</ul>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

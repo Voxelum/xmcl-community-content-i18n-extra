@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f859c32a5de0ede9",
+  "content": "# MiuMauPiuPau\n让你的内心猫咪苏醒，并通过此模组向聊天频道发送大量喵叫声（miumaus）！\n喵叫声或 miumaus 是从模组配置文件中随机选取的字符串。默认情况下，它们是猫叫声、猫表情符号或其他一些动物的声音！建议你检查配置文件，该模组的许多方面都是可配置的 :)\n\n## 使用方法\n在消息开头添加前缀（默认为 \"!\"），即可在你的聊天消息中随机插入喵叫声。它也适用于命令，只需将你想使用的命令添加到配置文件中的“命令白名单”部分即可。\n\n你还可以使用 `向聊天发送随机🐈` 键绑定来……好吧，向聊天发送随机喵叫声 :3\n\n提示：如果你只发送前缀，它将被始终替换为一个随机的喵叫声！\n\n## 配置\n配置文件位于 `.minecraft/config/miumaupiupau.json`。你可以同时安装 [YetAnotherConfigLib](https://modrinth.com/mod/yacl) 以获取游戏内配置界面，或者手动编辑配置文件！建议安装 YACL。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "sZwPT6nHdnY=",
-  "content": "此模組為 [Guard Villagers](https://modrinth.com/mod/guard-villagers) 與 [[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port](https://modrinth.com/mod/tacz-1.21.1) 加入了相容層。村民守衛現在能夠正確地手持並使用 TACZ 武器對敵人開火，並更有效地保衛他們的基地。\n\n**手持 TACZ 武器的村民守衛將能夠：**\n- 在範圍內鎖定敵對生物\n- 消耗彈藥（彈藥箱中濃縮的彈藥亦可使用）\n- 撤退尋找食物以恢復生命，並在原生方塊實體（如儲物箱、木桶等）中取用適當的彈藥\n- 重新定位以尋找對目標的合適視線\n- 避免攻擊被動友善生物（玩家、其他村民、雞等）\n\n**其他事項：**\n- 新增武器與彈藥類型的 TACZ 擴充模組也能正常運作。\n- 村民守衛並不會因此變得更聰明，其鎖定行為與條件仍與 [Guard Villager](https://modrinth.com/mod/guard-villagers) 的原始實作和設定緊密相關。\n\n## 展示影片\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/1_vDtxXWUKw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "bodyHash": "de96205f387c97f5",
+  "content": "\n\n此模組為 [Guard Villagers](https://modrinth.com/mod/guard-villagers) 與 [[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port](https://modrinth.com/mod/tacz-1.21.1) 新增了相容層。現在，守衛村民能夠正確地手持並向敵人開火射擊 TACZ 武器，從而更有效地防守基地。 \n\n**手持 TACZ 武器的守衛村民將：**\n- 在遠距離鎖定敵對實體\n- 消耗彈藥（儲存在彈藥盒中的壓縮彈藥同樣適用） \n- 撤退以尋找食物來恢復生命值，並從原版方塊實體（如箱子、桶子等）中取用合適的彈藥\n- 調整位置以取得對目標的最佳瞄準視角\n- 避免射傷被動友好的實體（如玩家、其他村民、雞等）\n\n**額外說明：**\n- 新增新武器與彈藥類型的 TACZ 擴充套件同樣可以正常運作。\n- 守衛村民不會因此變得更聰明，其鎖定行為與條件仍與 [Guard Villager](https://modrinth.com/mod/guard-villagers) 的原始實作及設定密切相關。\n\n## 展示影片\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/1_vDtxXWUKw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

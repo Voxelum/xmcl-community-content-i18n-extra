@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FFk1Yn5w+dc=",
-  "content": "# 更好的附魔順序\n\n更好的附魔順序更新了原版 Minecraft 的提示框排序方式。這是一個資料包/模組，意味著它僅在伺服器端或單人遊戲中運作。排序方式是按照附魔的等級從最高到最低進行排列，並在數字區域中使用字母順序排列。\n\n## 變更範例\n\n![前後對比範例](https://cdn.modrinth.com/data/cached_images/ec88fad34bfdcc30e6d1ee87fd3453716657a53f.png)",
+  "bodyHash": "391fa52236ea6f0f",
+  "content": "# 更優化的附魔順序\n\n「更優化的附魔順序」更新了原版 Minecraft 的提示詞順序。這是一個數據包/模組，意味著它僅在伺服器端或單人遊戲中生效。其排序邏輯為：從附魔的最高可能等級到最低可能等級，再按字母順序排列。\n\n## 變更範例\n\n![前後對比範例](https://cdn.modrinth.com/data/cached_images/ec88fad34bfdcc30e6d1ee87fd3453716657a53f.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

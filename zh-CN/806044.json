@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fd721449db6900dc",
+  "content": "\n\n<h2>通用网络</h2>\n<p>该库模组旨在统一不同模组加载器之间的网络通信与数据包注册机制，使得使用 Jared 的&nbsp;<a href=\"https://github.com/jaredlll08/MultiLoader-Template\" rel=\"nofollow\">MultiLoader 模板</a>&nbsp;的开发者只需在公共模块中处理网络通信即可。不过，它并不局限于 MultiLoader 的使用场景，也可应用于其他项目中。<br><br></p>\n<p>此外，这还能让你的模组实现与加载器无关。得益于一致的数据包构建方式，客户端的 Forge 版模组可以与服务器端的 Fabric 版模组进行通信。当然，你仍需自行创建握手数据包。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

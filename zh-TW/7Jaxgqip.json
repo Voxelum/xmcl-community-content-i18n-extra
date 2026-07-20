@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f3cd499b15bf553f",
+  "content": "\n\n# Carpet-Fixes\n\n[Fabric Carpet](https://modrinth.com/mod/carpet) 擴充模組，致力於盡可能修復原版 Minecraft 的各種錯誤！\n\n**目前擁有超過 220+ 項修復**\n\n---\n\n### 需要 Carpet：[下載](https://modrinth.com/mod/carpet/versions)\n  \n---\n\n## 設定\n\n詳見[所有可用設定列表](https://github.com/fxmorin/carpet-fixes/wiki/Available-Settings)\n\n## 更多詳細資訊\n此模組支援單人及多人遊戲，不過它僅修改伺服器端功能！\n模組確實能修復部分用戶端錯誤（數量不多），但僅在伺服器上也安裝了 carpet-fixes 時才會生效。\n如需用戶端修復，請前往查看：[blanket](https://github.com/BlanketMC/blanket-client-tweaks)  \n\n## 我的其他優化/修復模組\n* [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) - 修復用戶端與伺服器端的多种記憶體遺漏\n* [MoreCulling](https://modrinth.com/mod/moreculling) - 更改方塊狀態剔除的處理方式以提升效能\n* [Blanket](https://modrinth.com/mod/blanket) - 用戶端微調與修復\n\n---",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

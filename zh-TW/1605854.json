@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f45357d48d2eb2dc",
+  "content": "\n\n<p>原版 Minecraft 的選項 → 語言選單每次切換時都會觸發完整的資源重新載入，導致明顯的數秒卡頓。LangSwitch 完全跳過該重新載入程序，因此<strong>語言會瞬間切換，幾乎零載入時間</strong>。</p>\n<h2>功能特色</h2>\n<ul>\n<li><strong>一鍵切換語言</strong>：按下您設定的切換快捷鍵，即可在您選擇的目標語言與剛使用的語言之間切換</li>\n<li><strong>即時切換，無需載入</strong>：直接替換語言資料，而非觸發完整的資源包重新載入，因此幾乎沒有延遲</li>\n<li><strong>開著介面仍可運作</strong>：在開啟背包、書本、箱子等介面時，切換快捷鍵依然有效——非常適合邊玩邊對照翻譯（極適合作為語言學習工具）</li>\n<li><strong>Ctrl 輔助鍵防止誤觸</strong>：切換快捷鍵必須按住 Ctrl 才能啟動，因此不會在您於聊天室或告示牌輸入文字時意外觸發</li>\n<li><strong>類 Google 翻譯風格的可搜尋語言選擇器</strong>：從可搜尋的清單中選擇目標語言，無需苦尋原始語言代碼</li>\n<li><strong>專屬設定快捷鍵</strong>：已註冊至原版按鍵設定選單，讓您隨時能重新開啟設定畫面進行調整</li>\n</ul>\n<h2>使用方式</h2>\n<ol>\n<li>按下開啟設定畫面的快捷鍵（預設：<strong>J</strong>）</li>\n<li>點擊 &quot;切換快捷鍵&quot; 並按下任意鍵進行綁定（實際啟動為 Ctrl + 該按鍵）</li>\n<li>點擊 &quot;切換至&quot; 並搜尋或選擇您的目標語言</li>\n<li>遊戲內按住 Ctrl 並按下已綁定的按鍵，即可在目標語言與當前語言之間瞬間切換</li>\n</ol>\n<h2>支援環境</h2>\n<ul>\n<li><strong>僅限客戶端</strong>（無需安裝伺服器端）</li>\n<li>支援載入器：<strong>Forge</strong> / <strong>NeoForge</strong> / <strong>Fabric</strong></li>\n<li>支援版本：1.20.1 至 1.21.11</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

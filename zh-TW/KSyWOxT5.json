@@ -1,6 +1,6 @@
 {
-  "bodyHash": "9jQxzmP2XyU=",
-  "content": "預設情況下，當夜視效果少於10秒時，畫面會開始閃爍。\n\n此模組將此行為改為在剩餘1秒時快速淡出。",
+  "bodyHash": "5cd8b73b22b8ceea",
+  "content": "\n\n預設情況下，當夜視效果持續時間低於 10 秒時，螢幕會開始閃爍。\n\n本模組會將此行為改為在剩餘 1 秒時快速淡出。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

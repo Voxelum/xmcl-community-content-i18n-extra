@@ -1,0 +1,6 @@
+{
+  "bodyHash": "464077b0e8080602",
+  "content": "\n\nSimpleVoiceChat Broadcast (Forge)\n===\n\nПередача аудио всем игрокам\n\n### Использование\n\n* Убедитесь, что у вас есть права оператора (это можно изменить в конфигурации)\n* Создайте и вступите в группу с именем `broadcast` (это можно изменить в конфигурации)\n* Говорите в группе\n* Все вас услышат\n\n#### Вдохновлено [voicechat-broadcast-plugin-fabric](https://github.com/Dreaming-Codes/voicechat-broadcast-plugin-fabric)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

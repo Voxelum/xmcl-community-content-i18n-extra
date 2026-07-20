@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a0da441ad16e2588",
+  "content": "\n\n巫师 RPG 以“Wizards（巫师）”模组和“Paladins and Priests（圣骑士与牧师）”模组为核心。你可以制作魔杖，开始你的冒险旅程。此外还包含一些模组以提升游戏的沉浸感。已加入 Origins（起源）模组与 Origins RPG 模组。如需了解 Origins RPG 新增的职业详情，请访问其模组页面。\n\n更多信息请参考此视频：https://www.youtube.com/watch?v=Whu5gJrLOcw&t=546s\n\n本整合包所需的所有模组均已收录于 Modrinth，因此你无需手动安装任何东西！我没有添加过多性能优化类模组，因为它们有时反而会导致游戏卡顿。如果你的游戏运行不畅，建议先尝试自行添加性能优化模组！若仍无法正常运行，你可以尝试移除部分模组，例如 Terralith。我没有内置光影模组，因为普通配置的电脑通常难以同时流畅运行该整合包与光影。如果你认为自己的配置可以胜任，建议使用 Iris 替代 OptiFine。\n\n为了获得更好的游戏体验，请下载 Guard Villagers Fabric 模组和 Better Third Person（更好的第三人称视角）模组。\n\nhttps://www.curseforge.com/minecraft/mc-mods/better-third-person\n\nhttps://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric\n\n若想方便地与好友联机游玩，请使用 Essentials 模组。\n\n大多数 RPG 游戏死亡后不会掉落物品，因此请开启“死亡不掉落”（keep inventory）功能。\n\n若希望提升难度但保留 RPG 氛围，可搭配 Requiem 模组使用。\n\n如需使用资源包，我推荐采用下方视频中列出的一个或多个资源包：\n\nhttps://www.youtube.com/watch?v=lEDHPl71j-o",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

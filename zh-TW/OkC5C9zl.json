@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e255512980a64682",
+  "content": "# 不停止的地图\n\n一个客户端的 Fabric/NeoForge 模组，允许你在打开全屏地图界面（如 JourneyMap、Xaero's World Map 等）时继续移动。\n\n## 问题所在\n\n当打开 JourneyMap 或 Xaero's World Map 等全屏地图模组时，你的角色会停止移动，因为游戏认为你正处于 GUI 界面中。\n\n## 修复方法\n\n此模组允许在打开这些地图界面时，移动输入仍然被处理。\n\n## 安装指南\n\n1. 为 Minecraft 1.21.1 安装 [Fabric Loader](https://fabricmc.net/) 或 [NeoForge](https://neoforged.net/)\n2. 下载模组 JAR 文件并将其放入你的 `mods` 文件夹中\n3. **仅限客户端** - 无需在服务器上安装\n\n## 兼容性\n\n- Minecraft：1.21.1\n- Fabric Loader：0.18.4+ / NeoForge：21.1+\n- 支持的地图模组：JourneyMap、Xaero's World Map\n\n## 注意\n\nXaero's World Map 在设计上会在单人游戏中暂停游戏。此模组可在多人游戏/LAN 中与 Xaero 配合使用。\n\n## 许可证\n\nMIT 许可证 - 请参阅 [LICENSE](LICENSE) 文件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

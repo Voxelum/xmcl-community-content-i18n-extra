@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/UYqi9lMTgU=",
-  "content": "## TACZ: Plus 是 TACZ（Timeless and Classics: Zero）的一个附属模组，主要新增更多机制而非新枪械。\n## \n### （需要安装 Time Stop Clock 和 TACZ 模组）\n\n当前包含的机制有：\n\n- **侧身探身**\n借鉴自其他游戏中的机制，让你能够以一定角度快速在掩体边缘进行探头观察。\n![侧身探身](https://cdn.modrinth.com/data/cached_images/dfcbba7dceac3c76838cbc6fd9c880cd0c018190.png)\n\n- **死眼**\n灵感来源于《荒野大镖客：救赎2》，死眼能让你放慢时间，这意味着所有生物、所有弹射物以及玩家的移动速度都会减慢。当你按住 X 键（可配置）时，会出现红色眼睛和暗角效果作为提示。\n![死眼](https://cdn.modrinth.com/data/cached_images/3fff88240ae6583ecfc87db694c8cde10b435dac.png)\n\n- **专注**\n专注模式会拉近视角、使你无法移动，并添加暗角效果；同时还能消除瞄准时的抖动手感，提升射击精度。默认按键为 V。\n![专注](https://cdn.modrinth.com/data/cached_images/91c7a214df2f28cb4d2f77e5f64a9bec78c7054a.png)\n\n若想观看这些机制的实际效果，还可以查看演示视频。\n[演示视频](https://www.youtube.com/watch?v=vH999VyIAHI)",
+  "bodyHash": "85beda0de2f148c4",
+  "content": "\n\n## TACZ: Plus 是 TACZ（Timeless and Classics: Zero）的附属模组，专注于添加更多机制而非新增枪械。\n## \n### （需要安装 Time Stop Clock 和 TACZ）\n\n\n当前包含的机制如下：\n\n- 侧身瞄准 (Leaning)\n这是其他游戏中常见的机制，允许你以特定角度快速探出身子观察拐角。\n![侧身瞄准](https://cdn.modrinth.com/data/cached_images/dfcbba7dceac3c76838cbc6fd9c880cd0c018190.png)\n- 死亡之眼 (Deadeye)\n灵感源自《荒野大镖客2》（RDR2）。使用该机制可减缓时间流速，这意味着所有生物、弹道以及玩家移动都会变慢。按住 X 键（可在设置中修改）时，屏幕会出现红色眼睛标识和暗角效果作为提示。\n![死亡之眼](https://cdn.modrinth.com/data/cached_images/3fff88240ae6583ecfc87db694c8cde10b435dac.png)\n\n- 专注模式 (Focus)\n开启后会放大画面，限制玩家移动，并添加暗角效果。同时，瞄准时会自动稳定手部抖动，从而提高射击精度。默认按键为 V。\n![专注模式](https://cdn.modrinth.com/data/cached_images/91c7a214df2f28cb4d2f77e5f64a9bec78c7054a.png)\n\n如果你希望直观了解这些机制的实际效果，还可以观看演示视频。\n[演示视频](https://www.youtube.com/watch?v=vH999VyIAHI)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cb2106da14a30c5d",
+  "content": "\n\n<p>本模组实现了与新生魔艺（Ars Nouveau）、Iron的法术与魔法书 (Iron's Spells 'n Spellbooks) 以及 Terra Curio 的联动。</p>\n<p>现在，新生魔艺的魔符（Glyph）可以享受来自 Iron 的法术与魔法书的法术强度加成，以及 Terra Curio 提供的魔法伤害增幅。此外，新生魔艺的法术伤害（Spell Damage）还能同时对魔法伤害与 Iron 的法术及魔法书的法术伤害进行增幅。</p>\n<p>此外，本模组还为 Terra Curio 添加了专属联动物品：魔源手环（Mana Source Band）与魔源花（Mana Source Flower）。</p>\n<ul>\n<li>魔源手环（ars_mana_band）：提升玩家的最大魔力值（Max Mana）。</li>\n<li>魔源花：当玩家魔力值低于 50% 时自动激活，消耗魔源浆果（Source Berries）来恢复魔力。</li>\n</ul>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_71265bc1-725c-4a6c-a746-61a431f883fe.png\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

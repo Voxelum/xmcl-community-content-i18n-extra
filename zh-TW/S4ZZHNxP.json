@@ -1,0 +1,6 @@
+{
+  "bodyHash": "29303bd4b1a38e5c",
+  "content": "\n\n## 鳴謝\n- 羊盔甲的程式碼基於 [Axolotl Armour Mod](https://github.com/ekulxam/axolotl-amour)\n- 羊變體的程式碼基於 [Backported Wolves Mod](https://modrinth.com/mod/backported-wolves)\n- 所有羊變體的貼圖由 KattZZi 製作\n\n## 功能\n- 羊盔甲：可保護羊免受大多數類型的傷害。\n- 專為羊盔甲設計的附魔。\n- 適合不同生物群系的羊變體。可使用數據包新增自訂變體。\n- 羊的預設羊毛顏色會因變體而異。\n\n## 新增附魔\n- 修剪 (1-3)：當羊吃草時，會掉落與剪羊毛次數乘以附魔等級相同數量的羊毛。\n- 羊毛爆炸 (1-4)：當盔甲損壞時會引發爆炸，其威力取決於附魔等級。\n- (1.2.1+) 輕身 (1-2)：降低下落速度與摔落傷害。\n\n## 羊變體\n- 谷倉：原版羊變體（無變更）。\n- 華麗：生成於花朵眾多的生物群系（草原、繁花森林等）。\n- 岩石：生成於多石與山地生物群系（碎石灘、碎石山巔等）。\n- 煤灰：生成於下界與火山生物群系（所有下界生物群系，部分模組添加的火山生物群系）。\n- 陰鬱：生成於陰暗的生物群系（深暗之域、蒼白花園）。\n\n## 相容性\n- Biomes O' Plenty\n- Blooming Biosphere\n- Wilder Wild\n- Cavernous\n- Profundis\n- Limbo Dimension\n\n本模組包含設定檔。若您希望對其進行任何調整，建議前往查看。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

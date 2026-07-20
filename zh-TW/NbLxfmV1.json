@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6c92dc047b7adb9c",
+  "content": "\n\n# AutoAFKFish\n\n這是一個相當簡單的 Fabric 模組，適用於所有支援 Fabric 的 Minecraft 版本（v1.1.2 對應 1.21.9 以下版本，v1.1.3 對應 1.21.9 及以上版本）。按下 F12 鍵後，它會模擬按住滑鼠右鍵的狀態。即使打開物品欄、開啟聊天視窗、在多人生存伺服器中暫停，或是執行其他不會停止整合伺服器的操作（於客戶端世界），它仍會保持此狀態；若處於伺服器世界，則無論進行何種操作都會持續運作。再次按下 F12 鍵即可關閉此功能（設有 1.5 秒冷卻時間）。需搭配 AFK 釣魚農場使用。\n\n感謝 Calvineries 提供的法文翻譯！\n\n感謝 Wudji 提供的簡體中文翻譯！\n\n亦可在 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/autoafkfish \"AutoAFKFish CurseForge\") 下載。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

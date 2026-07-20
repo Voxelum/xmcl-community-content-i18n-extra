@@ -1,0 +1,6 @@
+{
+  "bodyHash": "09cb312a401bce56",
+  "content": "\n\n# World Host\n\n[![Modrinth](https://img.shields.io/modrinth/dt/world-host?color=00AF5C&label=Downloads&style=round&logo=modrinth)](https://modrinth.com/mod/world-host)\n![模组环境](https://img.shields.io/badge/Enviroment-Client-purple?style=round)\n\n[![服务器运行时间](https://img.shields.io/uptimerobot/ratio/m794216582-8c2e3383b556b643f86c85fe?label=Server%20uptime&color=blue)](https://stats.uptimerobot.com/jL0OztYWBj)\n\n无需运行服务器或设置端口转发，即可托管你的**单人世界**！未来，我们还计划通过 Geyser 支持基岩版客户端。\n\n## 如果我的朋友没有安装此模组怎么办？\n\n如果你的朋友没有安装该模组，你们将无法使用好友系统。不过，你可以运行命令 `/worldhost ip` 获取一个可用于内网穿透的 IP 地址。需要注意的是，不使用好友系统可能会导致延迟增加。如果你不希望延迟上升，可以运行 `/worldhost tempip` 获取一个*临时*服务器 IP，该 IP 至少可维持 60 秒。在 60 秒内连接的客户端会保持连接状态。如果你打算永远不使用好友系统，可以在模组设置中将其禁用。\n\n## 此模组是如何工作的？\n\n本模组包含一个服务器，你的客户端会连接到该服务器，并通过它与其它使用 World Host 的客户端进行通信。\n\n1. 当你的朋友想要加入你时，你朋友的客户端会向服务器请求连接用的 IP 地址。\n2. 随后，服务器会要求你的客户端创建加入模式（协议中的 `JoinType`）。目前有两种加入模式：UPnP 和 Proxy（代理）。\n3. 系统会优先尝试 UPnP 模式。你的客户端会尝试在路由器中打开一个临时端口转发，使朋友的客户端能够直接连接到你。\n4. 如果 UPnP 成功，你的客户端会将端口号告知服务器，然后服务器将该 IP 和端口号告诉朋友的客户端。\n5. 如果 UPnP 失败，你的客户端会通知服务器切换到代理模式。随后，服务器将像 `/worldhost ip` 一样，给朋友的客户端提供相同的“代理 IP”。\n\n`/worldhost tempip` 会优先尝试 UPnP 模式，而不是直接给你代理 IP。\n\n## 开源许可\n\n本模组为开源项目，遵循 [MIT 许可证](LICENSE)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

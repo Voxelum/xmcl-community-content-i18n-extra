@@ -1,0 +1,6 @@
+{
+  "bodyHash": "68d40ca6db149d8f",
+  "content": "\n\n# Исправление для Thaumic Periphery\n\nЭто мод для Minecraft 1.12.2, предназначенный для устранения проблемы с вылетом сервера при совместном использовании Thaumic Periphery и Embers UEL. \n\n**РАБОТАЕТ ТОЛЬКО С CLEANROOM**\n\n**ТРЕБУЕТСЯ [THAUMIC PERIPHERY](https://www.curseforge.com/minecraft/mc-mods/thaumic-periphery) И [EMBERS UEL](https://modrinth.com/mod/embers-unofficial-extended-life)**\n\n## Особенности\n- Устраняет проблемы совместимости между Thaumic Periphery и Embers UEL.\n- Обеспечивает стабильность сервера при установке обоих модов.\n\n## Установка\n1. Поместите файл `peripheryfix-1.0.0.jar` в папку `mods` вашего Minecraft-сервера.\n2. Запустите сервер, чтобы применить исправление.\n\n## Совместимость\n\n- **Cleanroom 1.12.2**\n- Моды: Thaumic Periphery, Embers UEL\n\n## Авторы\nРазработано shadowking21.\n\n## Поддержка\nПо вопросам или проблемам, пожалуйста, создайте issue в репозитории или свяжитесь с разработчиком.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

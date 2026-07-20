@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8b9fe9bf1550a55f",
+  "content": "\n\n此資源包會將經典的 Minecraft 音樂替換為《泰拉瑞亞》（Terraria）的配樂，並根據維度、生物群系、時間、天氣及其他條件動態播放。\n# 如何安裝資源包\n- 下載 [Reactive Music 模組](https://modrinth.com/mod/reactive-music)（[非官方 26.1 移植版](https://github.com/KevBelisle/ReactiveMusic-Cont/releases)）\n- 下載本資源包\n- 開啟 Reactive Music 設定（使用 [Mod Menu](https://modrinth.com/mod/modmenu) 或在世界中使用 `/reactivemusic` 指令）\n- 在列表中選擇 **Soundaria - Terraria Soundtrack in Minecraft**\n  - 關於列表中提供之兩個版本的詳細資訊，請見下方\n\n## 此音樂包收錄以下作品的配樂：\n_Main_ 與 _vanilla-only_ 版本：\n- 《泰拉瑞亞》（Terraria）原聲帶，由 [Resonance Array](https://resonancearray.com) 的 Scott Lloyd Shelly 作曲\n\n僅 _Main_ 版本包含：\n- 泰拉瑞亞 [Spirit 模組](https://www.youtube.com/@TheSpiritMod) 的配樂，由 [Sbubby](https://www.youtube.com/@Sbubby) 與 [Salvati](https://www.soundcloud.com/symeme) 作曲 \n\n### 此資源包的音樂會根據維度、生物群系、結構體、一天中的時間、天氣等條件動態變化，此外還包含：\n- 主選單音樂\n- 村莊音樂\n- 首領音樂\n- 製作人员名单音樂\n- 釣魚音樂",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

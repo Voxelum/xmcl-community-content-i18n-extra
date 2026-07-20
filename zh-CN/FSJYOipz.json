@@ -1,0 +1,6 @@
+{
+  "bodyHash": "802117cc5846cffd",
+  "content": "\n\n# Memory (Fabric)\n\nMemory 会自动每隔五分钟（可配置）截取一张截图，其触发流程与按下 **F2** 键完全一致。将其与 Fabric API 一同放入客户端后，游戏便会在后台默默记录你的游玩过程。\n\n![令人畏惧的遭遇……](https://cdn.modrinth.com/data/cached_images/155fc926410a73f3a04c8a68e8a778bc0a45ad6f.png)\n\n## 功能\n- 与原版截图保持一致：分辨率、文件命名、聊天消息提示以及存储路径（位于 `screenshots/` 目录下）。\n- 可通过 `config/memory.toml` 调整截图间隔和聊天可见性（默认 300 秒，隐藏消息），或可选安装 Mod Menu 和 Cloth Config 进行游戏内界面设置。\n- 仅在客户端运行，无需在服务器安装或配置任何内容。\n- 当你处于菜单界面或游戏暂停时，计时器会自动暂停，确保截图仅在游戏世界中进行。\n\n## 安装\n- 需要 [Fabric](https://fabricmc.net/) 和 [Fabric API](https://modrinth.com/mod/fabric-api)。\n- 可选 UI：添加 [Mod Menu](https://modrinth.com/mod/modmenu) 和 [Cloth Config](https://modrinth.com/mod/cloth-config) 以便在游戏内调整设置。\n- 将编译好的 jar 文件放入客户端的 `mods/` 目录中。服务器端无需此模组。\n\n## 构建\n- 需 Java 21 环境，配合 Gradle 和 Fabric Loom 使用。\n- 版本号定义在 `gradle.properties` 中。执行 `./gradlew build` 即可构建。\n\n## 许可证\n- CC0-1.0。可自由使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

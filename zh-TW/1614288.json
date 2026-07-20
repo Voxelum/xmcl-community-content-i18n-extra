@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd9db3a8ccbda50d",
+  "content": "\n\n<h1>AutoFishing Vertex</h1>\n<p>一款現代化、輕量級且高度可靠的 Minecraft Fabric 客戶端自動釣魚模組。專為隱蔽性、自訂化與玩家安全而設計！</p>\n<h2>✨ 主要功能</h2>\n<ul>\n<li><strong>客製化動畫介面：</strong>在遊戲內透過簡潔易用的介面，完整設定您的釣魚選項（支援自訂快捷鍵）。</li>\n<li><strong>智慧反作弊繞過：</strong>使用最小至最大滑桿隨機化反應與重新拋竿延遲，完美模擬人類點擊行為，讓伺服器外掛難以猜測！</li>\n<li><strong>現代化 HUD 通知：</strong>乾淨的自訂滑入式 UI 彈窗，在您啟用或停用模組、觸發安全防護時提供通知，避免髒亂聊天視窗。</li>\n<li><strong>浮標隔離保護：</strong>確保 AutoFishing 僅對您自己的釣魚浮標做出反應，忽略附近玩家的落水聲與釣魚事件，防止錯誤重新拋竿。</li>\n<li><strong>進階安全防護機制：</strong>\n<ul>\n<li><strong>傳送保護：</strong>若管理員傳送您進行自動化操作檢查，將立即停止釣魚。</li>\n<li><strong>快捷欄保護：</strong>若釣竿被卸下或意外切換至其他欄位，將立即暫停。</li>\n<li><strong>耐久度保護：</strong>在珍貴的附魔釣竿損毀前自動停止釣魚。</li>\n</ul>\n</li>\n</ul>\n<h2>⚙️ 系統需求</h2>\n<ul>\n<li>Fabric Loader</li>\n<li>Fabric API</li>\n</ul>\n<h2>⚠️ 免責聲明</h2>\n<p><em>本模組僅供教育與娛樂用途。下載並使用 AutoFishing Vertex 即表示您同意，本模組開發者不對任何濫用、違反伺服器規則或因此產生的後果負責。使用者須自行確保遵守伺服器政策、社群規範及適用法律。使用風險由您自行承擔。</em></p>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

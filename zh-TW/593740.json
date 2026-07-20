@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bf82a1eed460030d",
+  "content": "\n\n<div>\n<div>\n<h1><span style=\"font-size:24px\"><strong>雨水生長</strong></span></h1>\n<hr>\n<p>這是一款 Minecraft 模組，當作物或植物暴露於雨中時，會提高其隨機刻速率（若雨水無法接觸到作物或植物，則不會加速生長）。該速率可透過遊戲規則 <em>randomCropRainTickSpeed</em> 進行調整。預設的隨機刻速率為 4。</p>\n<p>受影響的植物：</p>\n<ul>\n<li>作物（小麥、甜菜根、胡蘿蔔等）</li>\n<li>甘蔗</li>\n<li>樹苗</li>\n<li>竹子</li>\n<li>可可果</li>\n<li>甜漿果叢</li>\n</ul>\n<h3><span style=\"font-size:18px\"><strong>資訊</strong></span></h3>\n<p>雨水生長是一款伺服器端模組，同時也能在單人模式中運作<br><br>⚠️此模組僅支援 <strong>Fabric</strong>，目前無計畫開發 Forge 版本。<br><br><br><img src=\"https://github.com/Declipsonator/Rain-Growth/blob/main/rain-growth.gif?raw=true\" alt=\"範例\"></p>\n</div>\n<p>&nbsp;</p>\n<div>\n<h2><strong>伺服器託管！</strong></h2>\n<p>Kinetic Hosting 是一家提供 Minecraft 伺服器託管的網站，價格具競爭力。使用優惠碼「declip」即可在首月享有 9 折優惠。</p>\n<p><br><a href=\"https://www.curseforge.com/linkout?remoteUrl=https://billing.kinetichosting.net/aff.php?aff=203\" rel=\"nofollow\"> <img src=\"https://media.discordapp.net/attachments/1081622649815445647/1082312406027468840/declip.png\"> </a></p>\n</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

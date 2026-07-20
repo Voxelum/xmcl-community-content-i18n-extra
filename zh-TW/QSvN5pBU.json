@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ce1b52e4bd6d6d2f",
+  "content": "\n\n## 描述\n這是一款簡單的模組，能讓動力軌道／激活軌道的開關速度提升高達 4 倍。最佳的使用體驗是，在運作過程中你幾乎感覺不到任何異常，只會感受到軌道狀態更新得更加流暢且迅速。\n\n## 下載前\n**請允許我向 FX Morin 表達我最誠摯的感謝！基礎演算法由 FX Morin 撰寫，我僅作了些微調整以優化其運作效能。**\n## 更新內容\n- 針對 Fabric 1.16-1.21.x/26.x 更新 FX 的 RailOptimization。\n- 優化複雜軌道網路下的運作速度。\n- 修復載入模組時的嚴重崩潰問題。\n- 移除 Architectury API 以降低程式碼負擔。\n\n## 已知問題\n- 不支援 v1.2 之前的任何版本 Carpet TIS Addition (CTA)。自 v1.3 起已修復此相容性問題。\n\n##\n**如需更多資訊，請前往 https://github.com/EasterGhost/RailOptimization**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

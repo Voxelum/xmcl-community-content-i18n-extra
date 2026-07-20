@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1eb964eef1079e2e",
+  "content": "\n\n<p>提供與 Livestock Overhaul 及 TerraFirmaCraft 的相容支援，新增功能以更無縫地結合兩者體驗。同時亦包含與 Medieval Embroidery Fanged Elk 及 Direwolves 的相容內容。</p>\n<p>目前已實裝：</p>\n<ul>\n<li>LO 動物與 LO 寵物的親密度系統</li>\n<li>LO 動物與 LO 寵物的懷孕系統</li>\n<li>為 LO 動物導入類似 TFC 的生產系統（品質仍會提升生產速度與產量）</li>\n<li>O-Chickens 會在鳥巢箱中產蛋</li>\n<li>LO 寵物可透過手持空手並按住 Shift 鍵右鍵的方式，像 TFC 寵物一樣下達指令。</li>\n<li>若已安裝 Firmalife，則 LO 蜜蜂將取代其蜜蜂</li>\n<li>若已安裝 Medieval Embroidery，則 TFC 的恐狼將取代該模組的恐狼</li>\n<li>透過繁殖 O-Wolves 與 O-Ocelots 有 20% 機率獲得馴化的 O-Dogs 與 O-Cats。獲得不同品種的機率將依此基礎計算。（O-Wolves 會產下狼犬）</li>\n<li>Medieval Embroidery 的獠牙麋鹿生成於溫度低於 -5、降雨量 100-500mm 的地區</li>\n<li>O-LLamas 生成區域與 TFC Alpacas 相同</li>\n<li>O-Camels 生成於炎熱沙漠地區（溫度 &gt; 25、降雨量 &lt; 100mm）</li>\n</ul>\n<p>待辦與修復：</p>\n<ul>\n<li>可自訂生產時間、用途、成年所需天數、妊娠期與每胎幼崽數量（目前均硬編碼為對應 TFC 動物的預設時間）</li>\n<li>修復 O-Wolves/O-Dogs/O-Ocelots/O-Cats 在指令跟隨時仍執行「在家附近徘徊」的尋路目標。（這會導致它們不斷逃跑然後瞬間傳回主人身邊）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "598052580ac4e351",
+  "content": "\n\n# TFMG Stellaris 相容模組\n\n此模組將 Stellaris 與 Create: The Factory Must Grow 進行整合。它移除了重複的 Stellaris 科技，將配方與 Create/TFMG 的材料和加工流程對齊，並重製了機器以符合 TFMG 的風格。\n這會讓遊戲進度變得更具挑戰性，但畢竟進入太空本身就相當困難，我認為這樣是平衡的。\n\n## 需求\n\n- Minecraft 1.21.1\n- [Create](https://modrinth.com/mod/create)\n- [Create: The Factory Must Grow](https://modrinth.com/mod/create-tfmg)\n- [Stellaris](https://modrinth.com/mod/stellaris)\n\n## 功能\n\n#### 重製配方\n\n許多 Stellaris 的配方已進行調整，以更好地配合 Create 和 TFMG。\n建議使用 JEI/REI/EMI 來查看新配方。\n\n#### 機器\n\n大多數 Stellaris 的機器已被移除或重製，以更好地融入 TFMG。\n\nRTG：\n- 消耗來自 Stellaris 的放射性燃料\n- 根據燃料的「功率等級」（取決於放射性和尤其是提煉程度）產生可變的電力與電壓\n- 無介面：透過漏斗、導管或其他 Create 的輸入方式加入燃料\n\n太陽能板：\n- 輸出穩定且恆定的電壓與電力\n- 夜間無法運作\n- 需要能直接看到天空\n\n#### 設定\n\n您可以調整多項參數以適應您的遊玩風格：\n- RTG：電力、電壓、燃燒時間\n- 太陽能板：電力與電壓\n\n您可以在 Create 的設定選單中找到這些選項。\n\n## 意見回饋與錯誤回報\n\n這是我的第一款 Minecraft 模組，因此測試中可能遺漏了一些錯誤或問題。\n\n感謝 Create、TFMG 與 Stellaris 團隊的傑出貢獻。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

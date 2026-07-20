@@ -1,0 +1,6 @@
+{
+  "bodyHash": "199d34d4cce9b81c",
+  "content": "\n\n# 辣椒子彈武器\n\n此模組新增了辣椒、食物與武器。\n\n![模組物品](https://raw.githubusercontent.com/Iunius118/ChiliBulletWeapons/refs/heads/main/docs/media/item/misc/items_v2.0.0.png)\n\n第 2 版或之後的版本需安裝 [CBW 辣椒與食物](https://modrinth.com/mod/cbw-chili-peppers-and-foods) 模組。\n\n## 需求\n\n- NeoForge 版本 - NeoForge\n- Forge 版本 - Minecraft Forge\n- Fabric 版本 - Fabric Loader、Fabric API 與 Cloth Config API\n- CBW 辣椒與食物（僅限 Chili Bullet Weapons v2+）\n\n## 開始使用\n\n### 1. 獲取彎曲辣椒\n\n破壞短草即可獲取彎曲辣椒。\n\n![掉落的彎曲辣椒](https://cdn.modrinth.com/data/TDVQf0jm/images/184e6f7e9bf066ef9236bf2c9cbf89b5463d4a79.png)\n\n### 2. 合成辣椒種子\n\n可使用彎曲辣椒合成辣椒種子。\n\n![合成辣椒種子](https://cdn.modrinth.com/data/TDVQf0jm/images/3dcc16825161ae149d4e9a0c743195e857e94a70.png)\n\n### 3. 種植辣椒作物\n\n右鍵點擊耕地即可放置辣椒種子，其將經歷八個生長階段。\n\n![生長中的辣椒作物](https://cdn.modrinth.com/data/TDVQf0jm/images/e280523f718b729f0213a3d56b6faf13341e2528.png)\n\n破壞最終階段的作物可獲得 1 至 3 個彎曲辣椒與 1 至 3 個子彈狀辣椒。\n\n## 閱讀更多模組說明\n\n- [第 3 版](https://iunius118.github.io/ChiliBulletWeapons/) 適用於 Minecraft 26.1.2\n- [第 2 版](https://iunius118.github.io/ChiliBulletWeapons/v2/index.html) 適用於 Minecraft 1.21.1\n- [第 1 版](https://iunius118.github.io/ChiliBulletWeapons/v1/index.html) 適用於 Minecraft 1.20.1-1.20.4",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

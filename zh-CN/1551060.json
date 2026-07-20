@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aeacd71499586d05",
+  "content": "\n\n<p>&nbsp; Dragon Barrel Roll 是 enjarai 的《Do A Barrel Roll》模组的 NeoForge 移植与重构版本，专为 Dragon Survival（巨龙生存）从零重新构建。它将飞行模拟风格的空中操控引入龙的飞行——包括俯仰、偏航<br>\n&nbsp; &nbsp;和滚转——用 Dragon Survival 的龙实体替代了原版基于鞘翅的机制。虽然核心翻滚系统源自《Do A Barrel Roll》，但该模组已进行大幅重构：<br>\n&nbsp; 所有网络通信、渲染和配置均已为 NeoForge 1.21.1 重写，新增功能包括龙模型同步、骑手倾斜联动以及针对 Dragon Survival 的飞行状态<br>\n&nbsp; 集成。</p>\n<p>&nbsp; 功能特性：<br>\n&nbsp; - 为 Dragon Survival 的龙提供三轴飞行控制（俯仰、偏航、滚转）<br>\n&nbsp; - 支持键盘与基于惯性的鼠标输入模式<br>\n&nbsp; - 配备地平线指示器与惯性准星，增强空间感知能力<br>\n&nbsp; - 可配置强度的侧倾效果<br>\n&nbsp; - 非主动翻滚时自动回正<br>\n&nbsp; - 龙模型倾斜同步（滚转 &amp; 俯仰）<br>\n&nbsp; - 骑手倾斜跟随龙体旋转<br>\n&nbsp; - 多人联机同步，其他玩家可直观看到你的龙的飞行姿态<br>\n&nbsp; - 内置游戏内配置界面，完整支持中英文本地化<br>\n&nbsp; - 支持按飞行模式切换（悬停翻滚 / 滑翔翻滚）<br>\n&nbsp; - 可自定义灵敏度、平滑度及控制面效能公式</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

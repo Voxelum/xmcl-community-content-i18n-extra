@@ -1,0 +1,6 @@
+{
+  "bodyHash": "90ace2772c965c26",
+  "content": "\n\nЭтот пакет ресурсов заменяет арбалет на Вингмен из игр Titanfall, Titanfall 2 и Apex Legends.\n\nВы можете изменить эмблему (по умолчанию — крипер). Просто создайте файл «emblem.png» и нарисуйте свой вариант [путь: \"assets\\minecraft\\textures\\windman\"].\n\nНа дисплее отображается текущий заряд оружия (стрела/фейерверк/нет).\n\nВ инвентаре или на HUD видно, заряжено или разряжено оружие. Если индикатор смотрит вверх — оружие разряжено.\n\nНе требует OptiFine. \n\nСоздано в Blockbench.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/98TVnN4Fu1c\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7e533d8daa5f96d1",
+  "content": "\n\n<p><img src=\"https://cdn.modrinth.com/data/awUZ2Md1/images/635a710e7cfa16fa2c5968f95d677dc94228449c.png\" alt=\"生成的世界\"></p>\n<hr>\n<p>🧩 <strong>Checkers World</strong> 是一款新增了名为 Checkers 的全新世界预设的模组。</p>\n<p>与传统地形不同，Checkers 会生成一个由你选择的两种方块组成的<strong>完全自定义的棋盘格图案</strong>世界。它专为干净的测试空间、创意建造画布、自动化装置搭建以及受控的挑战世界而设计。</p>\n<p>✨ <strong>新增内容</strong>\n创建新世界时，选择 Checkers 世界类型并进行自定义设置：</p>\n<ul>\n<li><strong>第一种方块</strong>\n主棋盘格方块（默认：minecraft:white_concrete）</li>\n<li><strong>第二种方块</strong>\n副棋盘格方块（默认：minecraft:gray_concrete）</li>\n<li><strong>深度层级</strong>\n向下生成的垂直层数</li>\n<li><strong>分段尺寸</strong>\n每个棋盘格立方体分段的尺寸（默认：5，可自由调整大小）</li>\n<li><strong>起始 Y 轴</strong>\n生成的起始垂直高度</li>\n<li><strong>底部基岩开关</strong>\n选择是否在生成的最底层添加基岩</li>\n</ul>\n<p>🌍 生成机制</p>\n<ul>\n<li>世界在 X/Y/Z 方向上生成交替的棋盘格立方体分段。</li>\n<li>分段尺寸完全可自定义。</li>\n<li>深度可配置，并从你选择的起始 Y 轴向下生成。</li>\n<li>可在生成深度的最底部选择性地添加基岩层。</li>\n<li>Checkers 世界中不会生成原版建筑、地标或生物群系装饰物。</li>\n</ul>\n<hr>\n<p>🛠️ 为什么使用 Checkers World</p>\n<ol>\n<li>在可预测、结构完美的地形上进行建造</li>\n<li>无需受地形生成干扰即可快速搭建农场/红石电路/自动化装置</li>\n<li>使用受控的方块配色创建自定义挑战地图</li>\n<li>快速生成干净的世界以用于模组包测试</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

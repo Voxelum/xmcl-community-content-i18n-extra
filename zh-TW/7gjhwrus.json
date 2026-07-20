@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e927ec372f60ee58",
+  "content": "\n\n一個支援 HTTP/SOCKS5 代理伺服器與個別伺服器代理設定的 Minecraft 模組。\n\n功能：\n- 支援 HTTP/SOCKS5\n- 支援伺服器白名單（僅白名單內的伺服器可使用代理，其他伺服器皆會略過代理連線）\n\n---\n\n一個支援 HTTP/SOCKS5 代理並支援指定伺服器代理的模組\n\n功能：\n- 支援 HTTP/SOCKS5\n- 支援設定伺服器白名單（僅白名單內的伺服器可以使用代理，其他伺服器均跳過代理連線）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

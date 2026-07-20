@@ -1,0 +1,6 @@
+{
+  "bodyHash": "224c7d84a83c1d5e",
+  "content": "\n\n<blockquote>\n<p>Reactify — основная библиотека для <a href=\"https://www.curseforge.com/minecraft/mc-mods/brutal-nightmare\" rel=\"nofollow\">Brutal Nightmare</a></p>\n</blockquote>\n<h1>Особенности</h1>\n<ul>\n<li>Исправлены ошибки в таблицах добычи (loot-table) для BrutalNightmare-<code>V4+</code></li>\n<li>Устранены несовместимости</li>\n<li>Оптимизирована работа <code>delay-function-algorithm</code>, <code>low-tick-events-v0</code> и функций <code>random</code>-<code>prandom</code> в FokusAPI-<code>V2+</code></li>\n</ul>\n<h1>Поддержка</h1>\n<ul>\n<li>Поддержка модов (NeoForge, Forge, Fabric, Quilt), датапаков и плагинов (Paper, Spigot, Purpur, Bukkit)</li>\n<li>Версии Minecraft: 1.16-&gt; и выше</li>\n</ul>\n<h1>Несовместимости</h1>\n<ul>\n<li>Отсутствуют</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

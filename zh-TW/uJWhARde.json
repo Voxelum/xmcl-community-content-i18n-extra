@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4140a86dcc91df40",
+  "content": "\n\n# 視覺化鍵位表\n\n![視覺化鍵位表畫面截圖](https://cdn.modrinth.com/data/uJWhARde/images/9a6190e9d80b21f2d6e9f552dcd8352879e5e4ab.png)\n\n此模組可透過鍵盤佈局視覺化顯示遊戲中目前綁定的按鍵位置，並提供統一的設定頁面來修改來自不同模組的鍵位綁定。\n\n您可以透過 `控制項 - 視覺化鍵位表` 選單開啟介面，或在 ModMenu 中進入此模組的設定畫面。此模組目前提供 MaLiLib 與 CommandKeys 的整合功能。\n\n## 支援平台\n\nFabric 1.21.9 及以上版本",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

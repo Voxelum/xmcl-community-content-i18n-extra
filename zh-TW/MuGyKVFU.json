@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1ef62e24e10f53af",
+  "content": "\n\n# Glint\n\nGlint 是一款僅限客戶端的 Fabric 模組，能讓 Minecraft 的物品提示更簡潔、色彩更豐富且更具實用性。\n\n## 功能特色\n\n- 自訂提示背景、邊框與光暈效果\n- 依稀有度提供不同樣式：\n  - 普通：灰色\n  - 不尋常：深綠色\n  - 稀有：青色\n  - 史詩：紫色\n- 為每個原版附魔提供獨特的顏色與圖示\n- 針對擁有多個附魔的物品，優先套用主導附魔的樣式\n- 安裝 Mod Menu 後會顯示設定畫面\n- 可調整樣式強度：低、一般或高\n- 完全僅限客戶端：伺服器無需安裝 Glint\n\n## 需求\n\n- Minecraft 26.1.2\n- Fabric Loader 0.19.2 或更新版本\n- Fabric API 0.148.0+26.1.2 或更新版本\n- Java 25\n- Mod Menu 為選配，但強烈建議安裝\n\n## 設定\n\n您可以開啟或停用以下功能：\n- 依稀有度設定的樣式\n- 自訂邊框\n- 自訂背景\n- 附魔圖示\n- 光暈效果",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

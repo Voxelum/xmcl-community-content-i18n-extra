@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f3e682aaac71f319",
+  "content": "\n\n<h2>Светящийся Глазоцвет</h2>\n<p>Заставляет Глазоцвет излучать свет.</p>\n<p>Работает лучше, если установлен как на сервере, так и на клиенте.</p>\n<p><img src=\"https://raw.githubusercontent.com/NikitaCartes/Glowing-Eyeblossom/refs/heads/fabric-1.21.4/screenshot.png\" alt=\"screenshot.png\"></p>\n<p>Также обратите внимание на мой мод <a href=\"https://www.curseforge.com/minecraft/mc-mods/glowing-torchflower\" target=\"_blank\" rel=\"nofollow\">Светящийся Факельник</a>!</p>\n<p><a href=\"https://discord.gg/UY4nhvUzaK\" target=\"_blank\" rel=\"nofollow\">Discord</a></p>\n<h3>Уровень освещения</h3>\n<ul>\n<li>Открытый Глазоцвет: 4</li>\n<li>Открытый Глазоцвет в горшке: 13</li>\n<li>Закрытый Глазоцвет: 1</li>\n<li>Закрытый Глазоцвет в горшке: 3</li>\n</ul>\n<h3>Конфигурация</h3>\n<p>Вы можете изменить уровень освещения Глазоцвета в файле конфигурации.<br>\nФайл конфигурации находится в <code>&lt;каталог игры&gt;/config/GlowingEyeblossom/main.conf</code>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

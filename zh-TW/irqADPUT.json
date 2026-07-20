@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ef10c3a207743b15",
+  "content": "\n\n# AutoGG\n適用於現代版本的 Hypixel AutoGG。\n\n這是一款針對 Minecraft 的 AutoGG 模組，以 [Sk1ers AutoGG mod for 1.8.9](https://sk1er.club/mods/autogg) 為範例設計，旨在方便支援未來可能需要的新伺服器。目前僅支援 Hypixel 伺服器。它採用與 Sk1ers 相同的正規表示式規則，因此功能與運作應幾乎一致。\n\n輸入 /autogg 即可開啟設定畫面。在此畫面中，你可自由編輯 GG 訊息內容，並可設定最長 5 秒的延遲。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

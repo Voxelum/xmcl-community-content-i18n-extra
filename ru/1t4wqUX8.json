@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d7b362cc5eddc1a5",
+  "content": "\n\n# FreezeFrame\n\nFreezeFrame — это простой мод, который позволяет серверам замораживать действия игроков и управлять PvP.\n\nFreezeFrame требуется как на **клиенте, так и на сервере.**\n\n- `/freezeall` Замораживает все действия игроков.\n- `/unfreezeall` Размораживает все действия игроков.\n- `/freeze {player}` Замораживает конкретного игрока.\n- `/unfreeze {player}` Размораживает конкретного игрока.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

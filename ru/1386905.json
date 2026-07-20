@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5da02e2503d6dde",
+  "content": "\n\n<h1 style=\"text-align:center\"><span style=\"text-decoration:underline\"><span style=\"color:#ba372a;text-decoration:underline\"><strong>DurabilityOverlay</strong></span></span></h1>\n<p><span style=\"color:#95a5a6\">Этот мод добавляет </span><span style=\"color:#95a5a6\">информацию о прочности в левом нижнем углу экрана, а также данные о прочности в стандартной всплывающей подсказке Minecraft.</span></p>\n<p><span style=\"color:#95a5a6\">Вы можете изменить настройки в файле конфигурации:</span></p>\n<p>#включить или отключить отображение<br>showOverlay = true<br>#включить или отключить прочность во всплывающих подсказках предметов<br>showDurabilityTooltip = true<br>#отображение прочности исчезнет, если у предмета нет показателя прочности<br>toolsOnly = false<br>#отображение прочности не исчезнет, если в руке нет предмета<br>alwaysVisible = false<br>#динамически изменять размер отображения прочности<br>dynamicOverlay = true</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

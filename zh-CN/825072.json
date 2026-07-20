@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ca057a3eb1860aaa",
+  "content": "<p>使<a href=\"https://www.curseforge.com/minecraft/texture-packs/fresh-animations\" target=\"_blank\" rel=\"nofollow\">Fresh Animations</a>与<a href=\"https://www.curseforge.com/minecraft/texture-packs/whimscape\" target=\"_blank\" rel=\"nofollow\">Whimscape</a>兼容！这是一个补丁，并非替代方案；<em><strong>您必须同时安装Fresh Animations</strong></em>。</p>\n<hr>\n<h4><strong>加载顺序</strong></h4>\n<p>Whimscape x Fresh Animations 的加载顺序高于 Fresh Animations，而 Fresh Animations 的加载顺序高于 Whimscape。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/620/412/ws_x_fa_loadorder.png\" alt=\"\"></p>\n<p>据我所知，目前可以正常工作的 Fresh Animations 扩展包包括：</p>\n<ul>\n<li>Fresh Animations: Objects（<strong>在加载顺序中置于 Whimscape 下方</strong>）</li>\n<li>Fresh Animations: Player Extension（<strong>在加载顺序中置于 Whimscape 下方</strong>）</li>\n<li>Fresh Animations: Quivers（沼泽尸鬼缺少箭袋）</li>\n</ul>\n<hr>\n<h4><strong>遇到问题？</strong></h4>\n<p>请在 <a href=\"https://github.com/kavast/Whimscape-Issues/issues\" target=\"_blank\" rel=\"nofollow\">GitHub 上的 Whimscape 问题追踪器</a>报告错误。在其他地方我可能会漏看或很久之后才看到这些报告。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc512bdc7703718e",
+  "content": "\n\n## TerraFirmaMisc 是 [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) 的擴充模組，旨在為整合包開發者與模組製作者提供實用物品。\n\n### 新增由 TFC 金屬製成的物品，包括：\n- 鏈條\n- 齒輪\n- 金屬箔\n- 釘子\n- 金屬板\n- 金屬環\n- 螺絲\n- 彈簧\n- 金屬線\n- 橫杆\n\n![Various Screws & Nails](https://cdn.modrinth.com/data/1RmnkQuS/images/449915fe96dddf80ec269385dff1c66833a062c6.png)\n![Various Foils and Plates](https://cdn.modrinth.com/data/1RmnkQuS/images/0805a448e830218c7406bf48413b9d60005ece93.png)\n\n### 新增金屬材質，包括：\n- 鋁\n- 鈦\n- 鉑\n\n### 新增岩石類型：\n- 鋁土礦\n\n![Aluminium, Titanium, Platinum & Bauxite](https://cdn.modrinth.com/data/1RmnkQuS/images/162099f7848537747d72b192351ca8aca0e86715.png)\n\n\n**支援 [FirmaLife](https://modrinth.com/mod/firmalife) 的不鏽鋼與鉻**\n\n這些物品的金屬消耗量與製作方式各不相同，旨在增加配方多樣性。不過這些物品本身並無直接用途。\n建議搭配使用 [KubeJS](https://modrinth.com/mod/kubejs) 或 [CraftTweaker](https://modrinth.com/mod/crafttweaker) 以方便管理合成配方。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

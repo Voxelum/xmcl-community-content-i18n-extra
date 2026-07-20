@@ -1,6 +1,6 @@
 {
-  "bodyHash": "bzMliHE/xjA=",
-  "content": "## 简介\n\nNoPackCompatCheck **禁用资源包选择界面上的资源包兼容性警告**，使显示界面更加清爽。\n\n安装此模组后，Minecraft 将不再显示资源包版本不兼容的警告提示🤗。\n\n![after.png](https://s2.loli.net/2025/08/12/2vLcHTbfo5gqa8m.png)\n\n## 为什么制作这个模组？\n\n自 Minecraft 1.20 版本起，Mojang 开始频繁更新资源包格式版本。从 Minecraft 1.6.1 到 1.19.4，格式版本仅从 `1` 增长到 `13`，但到 1.21.8 时已跃升至 `64` 🤣🤣🤣。**这种快速的“版本号更新”导致许多资源包未能及时更新 `pack.mcmeta` 文件中声明的支持版本，尽管它们实际上兼容新版 Minecraft。** 因此玩家在资源包界面常常会面对满屏的“不兼容”警告。\n\n***安装此模组前***\n\n![before](https://s2.loli.net/2025/08/12/Wh6cv1kyM2dFlQ8.png)",
+  "bodyHash": "1a5230a5f5e7ec46",
+  "content": "\n\n## 简介\n\nNoPackCompatCheck **会在资源包选择界面禁用资源包兼容性警告**，使显示更加简洁。\n\n安装此模组后，Minecraft 将不再显示资源包版本不兼容的警告🤗。\n\n![after.png](https://s2.loli.net/2025/08/12/2vLcHTbfo5gqa8m.png)\n\n## 为什么制作这个模组？\n\n自 Minecraft 1.20 起，Mojang 开始频繁更新资源包格式版本。从 Minecraft 1.6.1 到 1.19.4，格式版本仅从 `1` 增加到 `13`，但到了 1.21.8 时，已经飙升到了 `64` 🤣🤣🤣。**这种快速的“版本号更新”导致许多资源包未能及时更新 `pack.mcmeta` 文件中声明的支持版本，尽管它们在实际上完全兼容更高版本的 Minecraft。** 因此，玩家经常在资源包界面看到满屏的“不兼容”警告。\n\n***安装此模组前***\n\n![before](https://s2.loli.net/2025/08/12/Wh6cv1kyM2dFlQ8.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

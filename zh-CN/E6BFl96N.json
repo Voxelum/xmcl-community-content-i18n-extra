@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3466988e6d18067a",
+  "content": "\n\n<center>\n  <h1>\n    <a href=\"https://github.com/AlmostReliable/merequester\"><img src=\"https://i.imgur.com/tnrrPff.png\" alt=\"预览\" width=200></a><br>\n    ME 请求器\n  </h1>\n</center>\n\n## **📑 概述**\n这是适用于 [Minecraft]-[Forge] 和 [Fabric] 的模组。<br>\n\n它能轻松自动保持你应用能源 2（Applied Energistics 2）ME 系统中的物品和流体处于库存充足状态。<br>\nME 请求器默认支持 5 个请求。你可以在系统中放置任意数量的请求器，并通过 ME 请求器终端进行远程访问。该终端允许你配置请求并远程监控状态。\n\n请求器支持的槽位数量、占用信道以及空闲能耗均可自定义配置。\n\n如果你之前使用过 [Lazier AE2] 模组，可能已经熟悉请求器功能。我们决定将请求器功能独立出来，使其成为一款独立模组。\n\n整个系统已完全重写，现在也支持流体！\n\n## **⏰ 更新日志**\n所有关于版本及发布说明的信息均可在 [更新日志] 中找到。\n\n## **🎓 许可证**\n本项目采用 [GNU 宽通用公共许可证 v3.0][license] 授权。\n\n<!-- Links -->\n[minecraft]: https://www.minecraft.net/\n[ae2]: https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\n[forge]: http://files.minecraftforge.net/\n[fabric]: https://fabricmc.net/\n[lazier ae2]: https://www.curseforge.com/minecraft/mc-mods/lazierae2\n[releases]: https://github.com/AlmostReliable/merequester/releases\n[changelog]: https://github.com/AlmostReliable/merequester/blob/1.19-forge/CHANGELOG.md\n[license]: https://github.com/AlmostReliable/merequester/blob/1.19-forge/LICENSE",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

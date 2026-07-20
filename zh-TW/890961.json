@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fb24899a729e8bd7",
+  "content": "\n\n<h1>Fast RTP</h1>\n<p>一種不會造成卡頓的快速隨機傳送指令。</p>\n<h3>指令</h3>\n<ul>\n<li><code>/rtp</code> - 將玩家傳送到隨機位置。</li>\n<li><code>/rtpback</code> - 將玩家傳回上一次的隨機傳送位置。</li>\n<li><code>/rtp [player] [args]</code> - 將指定玩家傳送到隨機位置。需要相關權限。</li>\n<li><code>/rtp reload</code> - 重新載入設定檔。</li>\n</ul>\n<h3>權限</h3>\n<ul>\n<li><code>fast-rtp.command.root</code> - 當 <code>requirePermission</code> 設為 <code>true</code> 時，允許玩家使用 <code>/rtp</code> 指令。</li>\n<li><code>fast-rtp.command.advanced</code> - 允許對其他玩家執行 rtp，並指定維度、半徑等參數。</li>\n<li><code>fast-rtp.command.reload</code> - 重新載入設定檔。</li>\n<li><code>fast-rtp.bypass.cooldown</code> - 允許玩家跳過 RTP 冷卻時間。</li>\n</ul>\n<h3>設定檔</h3>\n<p>設定檔位於 <code>/config/fast-rtp.json</code></p>\n<p><a href=\"https://github.com/Wesley1808/FastRTP#configuration\" rel=\"nofollow\">範例設定檔</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

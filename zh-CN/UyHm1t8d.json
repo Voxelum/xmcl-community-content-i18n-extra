@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd413d37fcb26ebe",
+  "content": "\n\n本模组仅需安装在服务端。完全通过 Minecraft 控制台进行配置。\n\n<details>\n<summary>指令</summary>\n  \n默认开启/关闭随机重生（适用于新玩家）：\n```\n/randomrespawn default true/false \n```\n\n设置随机重生范围（默认为 10000）：\n```\n/randomrespawn range 10000\n```\n\n针对单个玩家单独开启/关闭随机重生： \n```\n/randomrespawn set PlayerName true/false\n```\n</details>\n\n\n<details>\n<summary>随机传送的工作原理：</summary>\n\n模组会以坐标 (0,0) 为中心，在指定半径内随机选择一个点并进行检测。如果该区块从未被玩家加载过，且传送位置安全，玩家就会被传送至该处。\n如果该区块已被发现或位置不安全，模组会以稍大的半径重新选择另一个点。\n\n</details>\n\n\n\n_既然已有类似的模组，我为什么还要制作这个？其他模组要么无法正常运行，要么在功能上不符合我的需求。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

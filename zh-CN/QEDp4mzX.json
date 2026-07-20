@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ad223031e7cea7e7",
+  "content": "**TruePixelR 是一款为追求真实感的 Minecraft 打造的现代电影级材质包。每一个方块都经过精心打磨，采用简洁的建筑风格材质并全面支持 PBR（基于物理的渲染），让你的世界看起来更加锐利、深邃且身临其境。**\n\n## **从 [Patreon](https://www.patreon.com/cw/TruePixelR) 下载高分辨率版本**\n\n![TruePixelR](https://cdn.modrinth.com/data/cached_images/30c4273446f655a0289b44a66891da13857a42ca.jpeg)\n\n### 功能特点\n- 专为整洁建筑设计的现代写实材质\n- 完整的 PBR 工作流（漫反射/法线/粗糙度/高度）\n- 视差遮挡映射（POM）带来极致的表面深度感\n- 四向无缝平铺，有效减少重复纹理的可见性\n- 艺术风格统一，涵盖 64× 至 1024× 分辨率\n- 每月更新，目前已覆盖约 20% 的核心方块\n\n### 兼容性\n- Minecraft Java 版：1.16.5 → 最新版本\n- 光影包：Bliss、Complementary Unbound、Kappa、SEUS PTGI HRR 2.1\n- 前置要求：OptiFine 或 Iris（用于支持光影）\n- POM 支持：在允许视差遮挡映射的光影包中可用\n\n### 可用分辨率\n- 免费版：64×\n- Pro 版：128× / 256×\n- Elite 版：512× / 1024×（电影级画质）\n\n### 安装方法\n- 下载对应分辨率的 TruePixelR .zip 文件\n- 将其放入 resourcepacks 文件夹\n- 在 选项 → 资源包 中启用\n- 安装 OptiFine 或 Iris + Sodium\n- 选择一款光影包（Bliss / Complementary Unbound / Kappa / SEUS PTGI HRR 2.1）\n- 在光影设置中启用 PBR/POM",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "01b92a55bca9a0da",
+  "content": "\n\n這個模組讓你能夠使用簡單的設定工具，輕鬆配置哪些方塊可以燃燒、哪些不能。\n\n它最初是為 MineColonies 模組設計的，解決了 Donum Ornamentum 模組中的許多方塊即使明顯應該燃燒卻無法燃燒的問題。有了這個模組，它們終於能夠燃燒了。\n\n該模組透過檢查方塊名稱中是否包含已設定的關鍵字（例如「paper」）來運作。如果方塊名稱符合條件，即使原本不可燃，也會變為可燃。\n\n預設情況下，原版中本來就會燃燒的方塊保持不變，而原本不會燃燒但實際上應該燃燒的方塊（例如額外添加的紙張），現在則會正常燃燒。\n\n你也可以將此功能套用到遊戲中存在的任何其他方塊上。\n\n[Github](https://github.com/Leclowndu93150/Flammable-Tweaker)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

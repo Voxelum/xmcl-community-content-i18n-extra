@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YIULSymFi+M=",
-  "content": "<p style=\"text-align:center\"><span style=\"color:#e03e2d\"><strong>此模组已过时，请直接使用原版模组！</strong></span></p><p>&nbsp;&nbsp;</p><p>修复了与 Create Aeronautics 和 Big Cannons 相关的问题。</p><p>当加载 Simulated 时，Create Aeronautics 会覆盖旋转传播并使其返回的列表变为不可变，从而导致游戏崩溃。此模组通过将该方法返回的列表更改为可变列表来修复此问题。</p>",
+  "bodyHash": "b2c9b2498b55ce77",
+  "content": "\n\n<p style=\"text-align:center\"><span style=\"color:#e03e2d\"><strong>此模组已过时，请直接使用原版模组！</strong></span></p>\n<p>&nbsp;&nbsp;</p>\n<p>修复了 Create Aeronautics 和 Big Cannons 模组中的一个问题。</p>\n<p>在模拟状态下，Create Aeronautics 会覆盖 Rotation Propagation 并使其返回的列表变为不可变，从而导致游戏崩溃。本模组通过将返回的列表改为可变状态来修复此问题。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

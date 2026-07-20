@@ -1,0 +1,6 @@
+{
+  "bodyHash": "54dd70351f3d5002",
+  "content": "\n\n**Create: Design n' Decor - Aeronautics 兼容** 是一个轻量级兼容模组，用于连接 Create: Design n' Decor 与 Create Aeronautics。\n\n它使 Design n' Decor 的动力方块能够与 Aeronautics 的机械装置自然协同工作，让你可以在飞艇和载具建造中使用 DnD 部件，而不会丢失 Create Aeronautics 的核心功能。\n\n**功能特性**\n\n- 为 Design n' Decor 的粉碎轮添加 Aeronautics/越野 车轮安装座支持\n- 为 Design n' Decor 的飞轮添加 Aeronautics/越野 车轮安装座支持\n- 使 Design n' Decor 的大型风扇表现如同 Aeronautics 的螺旋桨\n- 为兼容的 DnD 风扇方块添加升力/推力生成机制\n- 为 DnD 风扇添加类似螺旋桨的渐进式加速效果\n- 为 DnD 风扇添加 Create 风格的应力消耗机制\n- 支持 Create 护目镜显示动能数据\n- 添加 Ponder（沉思）教程支持以展示风扇行为\n- 包含可配置的风扇推力数值\n\n**设计目的**\n\nDesign n' Decor 添加了精美的方块变体，但其中一些默认情况下无法被 Create Aeronautics 识别。本模组填补了这一空白，使这些方块在 Aeronautics 建造中能够更加公平、一致地使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

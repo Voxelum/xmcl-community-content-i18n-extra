@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab42cd7bf393f629",
+  "content": "![Логотип мода](https://cdn.modrinth.com/data/cached_images/50e2d5ba1a1845151f174591acb0390c3d5cd695.png)\n\nЭтот мод добавляет совместимость между Farmer's Delight и Create.\n\n## Что работает\nОн автоматически добавляет _рецепт нагрева и смешивания_ для каждого рецепта в кастрюле из Farmer's Delight, а также _рецепт с развёртывателем_ (на развёртывателе должен быть установлен нож) для каждого рецепта на разделочной доске.\n\n## Поддерживаемые дополнения к Farmer's Delight\nПоскольку мод динамически создаёт рецепты на лету, он должен работать с любым дополнением. Здесь будут указаны известные несовместимости, если они обнаружатся.\n\n![Пример работы с разделочной доской](https://cdn.modrinth.com/data/cached_images/59dcd8acf6b0b5129ef1e4aef9c45f550d3a29a2.png)\n\n![Пример приготовления](https://cdn.modrinth.com/data/cached_images/2da8f8efb601763a902d67c1983a129cd0233b55.png)\n\nДополнительную информацию о моде можно найти на его [странице GitHub](https://github.com/chefexperte/FarmersCreate).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

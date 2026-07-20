@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2ae8b67a8739c66",
+  "content": "\n\n# GregTech Modern 生活品質優化 (GTM-QoL)\n\n旨在協助您在遊玩 GregTech Modern 時提升生活品質。\n\n## 功能特色\n\n如果您有建議能豐富此模組的獨特功能，歡迎隨時開啟 Issue！\n\n### 儲液槽觀察者\n\n![](https://github.com/ElytraServers/gtm-quality-of-life/raw/main/docs/tank_inspector.png)\n\n它會顯示流體儲液槽（包含桶子、超級儲液槽與量子儲液槽）內的內容物。\n\n### 資料棒（及類似物品）觀察者\n\n![](https://github.com/ElytraServers/gtm-quality-of-life/raw/main/docs/data_stick_inspector.png)\n\n它會顯示資料棒、資料球與資料模組內含配方數據所對應的輸出物品。\n\n### 儲液槽使用耐久條\n\n![](https://github.com/ElytraServers/gtm-quality-of-life/raw/main/docs/tank_usage_dura_bar.png)\n\n它會顯示一條耐久條，以顏色標示對應的流體。條狀圖的長度根據儲液槽的已佔用容量計算得出。\n\n### 晶圓配方透鏡觀察者\n\n![](https://github.com/ElytraServers/gtm-quality-of-life/raw/main/docs/wafer_recipe_inspect.png)\n\n它會顯示晶圓雷射雕刻配方中使用的對應 *玻璃透鏡*。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

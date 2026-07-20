@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0b8555fc1c1341a1",
+  "content": "\n\n# GravityVS\n\n### ⚠️ Fork 信息\n这是 Gravity API 的一个非官方分支，旨在添加对 **Valkyrien Skies** 的支持。\n* **直接父级：** [Gravity API (Forge)](https://www.curseforge.com/minecraft/mc-mods/gravity-api-forge)\n* **中间分支：** [Gravity API (Fork)](https://modrinth.com/mod/gravity-api-fork)\n* **原始项目：** [Gravity API](https://modrinth.com/mod/gravity-api)\n\n**许可协议：** 本项目遵循原项目的许可条款。\n\n---\n\n### 📖 关于 GravityVS\n原版 Gravity API 仅支持静态世界坐标，无法在移动的物理实体上正常运行。**GravityVS** 解决了这一问题，使 **重力板（Gravity Plating）** 和重力改变功能能够在移动的 **Valkyrien Skies** 飞船上正常工作。\n\n虽然目前仍处于 Alpha 阶段（仅支持基本方位），但内部逻辑已完全重写，未来将支持任意轴向的自由旋转，让你能够无缝地在倾斜飞艇的墙壁和天花板上行走。\n\n---\n\n### 主要特性\n* **飞船兼容性：** 当重力板放置在 VS 飞船上时，现在会对实体生效。\n\n---\n\n### 🚧 Alpha 状态与已知问题\n> **⚠️ 早期 Alpha 版本：** 本模组仍在持续开发中。\n\n1. **仅限基本方位（当前）：** 自由旋转是最终目标，但在稳定物理系统期间，模组目前仅支持 N、S、E、W、上、下六个方向。\n2. **滑动问题：** 当飞船处于倾斜角度时，玩家可能会遇到滑动现象。我正在积极修复此摩擦机制问题。\n\n---\n\n### 依赖要求\n* **Minecraft 1.20.1** (Forge)\n* **[Valkyrien Skies](https://modrinth.com/mod/valkyrien-skies)**（必需）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

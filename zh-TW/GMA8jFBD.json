@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qiFM5os2uYI=",
-  "content": "<center><b>現已支援 NEOFORGE</b></center>\n\n![漂亮圖片](https://cdn-raw.modrinth.com/data/GMA8jFBD/images/3fdc4c5f7a4a3989a0de958597ed14ea80f50d23.png)\n\n這是一款相當簡單的 **Fabric** 與 **NeoForge** 模組，能夠標記出阻止你睡覺的生物。為了避免過於作弊，它只會在出現「無法入睡，附近有怪物」的提示時才標記這些生物，而且標記只持續 3 秒。\n\n<br>\n\n如果安裝在 **用戶端**，它在 **單人模式** 與 **任何伺服器** 上都會生效。如果安裝在伺服器上，則所有玩家都能看到標記，即使他們沒有安裝此模組也能看見。",
+  "bodyHash": "d684ea234004bb71",
+  "content": "\n\n<center><b>現在也支援 NeoForge</b></center>\n\n![pretty image](https://cdn-raw.modrinth.com/data/GMA8jFBD/images/3fdc4c5f7a4a3989a0de958597ed14ea80f50d23.png)\n\n這是一個相當簡單的 **Fabric** 與 **NeoForge** 模組，會高亮顯示阻止你睡覺的實體。為了避免被濫用，僅當系統出現「現在無法睡覺；附近有怪物」的提示時，它才會高亮顯示這些實體，且高亮效果僅持續 3 秒。\n\n<br>\n\n若安裝於**客戶端**，則可在**單人遊戲**與**任何伺服器**中運作。若安裝於伺服器端，則所有玩家都能看見高亮效果，即使他們並未安裝此模組。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

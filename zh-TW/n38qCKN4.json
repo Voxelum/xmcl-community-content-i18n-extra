@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Jvd28ZRMJgI=",
-  "content": "一個為遊戲加入敵對玩家生物的模組。\n\n你可以在設定檔中加入名稱，讓遊戲中有更多名字出現。\n你也可以加入能回傳以換行分隔名稱清單的頁面連結。\n你可以使用像 [whitelist.gorymoon.se](https://whitelist.gorymoon.se) 這樣的頁面來取得 Twitch 訂閱者清單。\n\n在伺服器上使用時，你可以將白名單加入可用的生物名稱中。\n這些生物會對與他們同名的人類玩家表現友好。\n這些生物會掉落他們所擁有的皮膚頭顱。\n\n根據設定選項，玩家在被殺死時有可能會掉落自己的頭顱。\n\n若要手動重新載入遠端名稱清單，可以使用以下指令：\n**_/playermobs reload_**\n\n若要手動生成生物，可以使用以下指令：\n**_/playermobs spawn &lt;名稱&gt; [座標]_**（其中 **座標** 為可選項）\n\n以下是使用召喚指令生成生物的範例：\n**_/summon player_mobs:player_mob ~ ~ ~ {\"Username\":\"Gory_Moon\"}_**\n\n## 自訂皮膚材質\n\n更多關於新增/覆蓋玩家生物材質的資訊，請參閱[這裡](https://github.com/GoryMoon/PlayerMobs/wiki/Custom-player-mob-skins)\n\n## 待辦事項/下一步\n為特殊生成添加資料包支援。\n\n## 錯誤/想法/請求？\n請在我的 Github 問題追蹤器上回報錯誤、想法或請求。\n\n## 模組包？\n你可以自由地在模組包中使用此模組。）",
+  "bodyHash": "398080e052ef3375",
+  "content": "\n\n一款為遊戲新增敵對玩家生物的模組。\n\n您可以在設定檔中新增名稱，以在遊戲中使用更多名稱。\n您也可以新增指向網頁的連結，該網頁會回傳以換行分隔的名稱列表。\n您可以使用類似這樣的頁面 [whitelist.gorymoon.se](https://whitelist.gorymoon.se) 來取得 Twitch 訂閱者列表。\n\n在伺服器上使用時，您可以將白名單加入生物可用的名稱列表中。\n生物會對名稱與之相同的玩家表現出友好態度。\n生物死亡時可能會掉落其所擁有皮膚對應的頭部。\n\n根據設定檔選項，玩家在死亡時可能會掉落自己的頭部。\n\n若要手動重新載入遠端名稱列表，可使用以下指令：\n**_/playermobs reload_**\n\n若要手動生成生物，可使用以下指令：\n**_/playermobs spawn &lt;name&gt; [pos]_**（其中 **pos** 為選填）\n\n以下是使用 summon 指令生成生物的範例：\n**_/summon player_mobs:player_mob ~ ~ ~ {\"Username\":\"Gory_Moon\"}_**\n\n## 自訂皮膚貼圖\n\n關於如何新增或覆蓋玩家生物貼圖的詳細資訊，請見[這裡](https://github.com/GoryMoon/PlayerMobs/wiki/Custom-player-mob-skins)。\n\n## 待辦事項／後續開發\n新增特殊生成方式的數據包支援。\n\n## 錯誤回報／想法／功能請求？\n請將錯誤回報、想法或功能請求發布至我的 GitHub Issue 追蹤器。\n\n## 整合包？\n您可以自由地在整合包中使用此模組。)*",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

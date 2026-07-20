@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1109007b0adac9fc",
+  "content": "\n\n<h1>魔力统一</h1>\n<p>一款适用于 Minecraft Forge 的模组，为各类魔法模组提供统一的魔力系统。不再让每个魔法模组拥有独立的魔力池，魔力统一创建了一个单一的共享魔力资源，所有支持的模组均可使用。</p>\n<h2>支持的模组</h2>\n<ul>\n<li>Ars Nouveau</li>\n<li>Iron's Spells 'n Spellbooks</li>\n<li>Apotheosis</li>\n<li>Electroblob's Wizardry Redux</li>\n<li>Put Mana In</li>\n</ul>\n<h3><strong>如果您希望添加对某模组的支持，请加入 Discord 并留言告知。由于许多魔法模组的底层系统较为特殊，您可能还需要简要说明其魔力机制，以便实现兼容。</strong></h3>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

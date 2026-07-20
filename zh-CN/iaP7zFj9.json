@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e9e50d34f91a2958",
+  "content": "\n\n![标题](https://cdn.modrinth.com/data/cached_images/42b80544939f551a17a4315936a1acd51d4ab333.png)\n\nTFCreate Compat 是 Create 和 TerraFirmaCraft 的插件，为两者在最新版本（截至本文发布时）1.21.1 之间提供兼容性支持。\n目前，它仅提供在 TFC 环境中运行 Create 所需的最基本功能，但我们计划在未来推出多项突破性更新。\n\n\n**当前功能**\n・燃料加热器（Fuel Heater）作为烈焰燃烧室（Blaze Burner）的替代热源\n・新增石英矿脉\n・优化 Create 的物品与方块合成配方\n・将部分 TFC 配方移植至 Create 的合成系统\n・矿石复制工艺\n\n\n**未来功能**（是否有遗漏？欢迎提供您的[反馈！](https://discord.com/invite/pmJEfHcFQt)）\n・实现所有 TFC 配方的自动化\n・增加 Create 方块与 TFC 方块之间的全面兼容\n・新增合成方块与物品\n\n[点击此处加入 Discord 服务器](https://discord.com/invite/pmJEfHcFQt)\n\n[点击此处访问 Wiki](https://github.com/Ayaibu04090818/TFCreate-Compat/wiki)\n\n[简体中文]\n\nTFCreate Compat 是 Create 与 TerraFirmaCraft 的附加组件，旨在为两者在最新版本（截至发帖时）1.21.1 之间提供兼容支持。\n目前仅提供让 Create 能在 TFC 环境中运行的基础功能，但后续我们计划推出多项重大更新。\n\n\n当前功能\n・燃料加热器（Fuel Heater）作为烈焰燃烧室（Blaze Burner）的替代热源\n・新增石英矿脉\n・优化 Create 物品与方块的合成配方\n・将部分 TFC 配方移植至 Create 的加工系统\n・矿石复制工艺\n\n\n未来功能（是否有遗漏？[欢迎提出您的建议！](https://discord.com/invite/pmJEfHcFQt)）\n・实现所有 TFC 配方的自动化流程\n・增加所有 Create 方块与 TFC 方块的兼容支持\n・新增加工方块与物品\n\n[点击此处加入 Discord 服务器](https://discord.com/invite/pmJEfHcFQt)\n\n[点击此处访问 Wiki](https://github.com/Ayaibu04090818/TFCreate-Compat/wiki)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

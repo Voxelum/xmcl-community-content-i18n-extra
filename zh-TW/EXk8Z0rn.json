@@ -1,0 +1,6 @@
+{
+  "bodyHash": "026ea5b747f2d88f",
+  "content": "\n\nCatacylsmic Tree 是在原版 Arcwise - Puffish Skill Tree 模組基礎上修改而成，並應 Akio 要求，專為 Catacylsmic Modpack 製作。\n\n創建者與擁有者\n- JosipFX\n- Akio（Discord: akiospidertss，Modrinth: TheShatteringSpider，Catacylsmic Modpack 創建者）\n\n修改內容：\n\n# 戰鬥\n\n- 整體重新分類。\n- 在經驗來源中增加了更多生物。\n- 新增了更多弓箭技能\n\n![戰鬥](https://i.postimg.cc/rFBcK81q/2026-03-17-21-49-38.png)\n\n# 工具（木工、採礦、挖掘）\n\n- 合併：將木工、採礦、挖掘整合為單一類別「工具」\n- 整體重新分類。\n- 技能現改為循序解鎖（等級 0 -> 35）\n\n![工具](https://i.postimg.cc/L4rQKhkz/2026-03-17-21-49-42.png)\n\n# 靈巧\n\n- 新增類別，專注於破壞速度（徒手）與幸運\n- 技能現改為循序解鎖（等級 0 -> 75）\n\n![靈巧](https://i.postimg.cc/RCfQtdfJ/2026-03-17-21-49-46.png)\n\n**自訂背景及其他未在此列出的類別均由其他模組提供，並非本模組的功能。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "hy5GGhCr2QE=",
-  "content": "Sable 玩家布娃娃模组利用 Sable 的物理系统，为玩家带来了物理驱动的布娃娃效果！\n\n该模组还为附加包开发者提供了公开 API。附加包可以触发玩家布娃娃、生成无玩家的虚拟布娃娃、设置消失行为、使用数据包物品标签等。\n\n## **特性**\n- 按 H 键翻滚！\n- 按 Shift 键站起来！\n- 基于物理的玩家布娃娃\n- 虚拟布娃娃生成\n- 虚拟布娃娃支持皮肤/配置文件\n- 可配置的虚拟布娃娃消失行为\n- 支持数据包标签，用于击打触发布娃娃的物品\n- 为附加包模组提供公开 API\n\n# \n# [布娃娃反应附加包](https://modrinth.com/mod/ragdoll-reactions)\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/PjaFKqUSMuI\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n# [Sable：布娃娃尸体](https://modrinth.com/mod/sable-ragdoll-corpse)\n![布娃娃尸体](https://cdn.modrinth.com/data/cached_images/724338387f78a1f2429bca7b66b251406f151cb4.png)",
+  "bodyHash": "e0c85bb0c1b0dbe0",
+  "content": "\n\nSable Player Ragdoll 利用 Sable 的物理系统，为玩家添加基于物理驱动的布娃娃效果！\n\n该模组还包含面向附加组件开发者的公开 API。附加组件可以触发玩家布娃娃效果、生成无玩家的假人布娃娃、设置消失行为、使用数据包物品标签以及更多功能。\n\n## **功能特性**\n- 按 H 键翻滚！\n- 按 Shift 键起身！\n- 基于物理引擎的玩家布娃娃效果\n- 假人布娃娃生成\n- 假人布娃娃支持皮肤/角色档案\n- 可自定义的假人消失行为\n- 支持通过数据包标签指定击中时触发布娃娃的物品\n- 为附加组件模组提供公开 API\n# \n# [Ragdoll Reactions 附加组件](https://modrinth.com/mod/ragdoll-reactions)\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/PjaFKqUSMuI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n# [Sable：布娃娃尸体](https://modrinth.com/mod/sable-ragdoll-corpse)\n![布娃娃尸体](https://cdn.modrinth.com/data/cached_images/724338387f78a1f2429bca7b66b251406f151cb4.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

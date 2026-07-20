@@ -1,0 +1,6 @@
+{
+  "bodyHash": "613b345f58c96b84",
+  "content": "\n\n<p>本模组修复了Minecraft中长期困扰亚洲玩家的打字Bug<br> 该模组修复了一个困扰亚洲地区玩家已久的Minecraft输入Bug<br> 本模组修复了Minecraft中长期以来困扰亚洲玩家的打字Bug</p>\n<p>功能特性：<br>&nbsp;&nbsp;你现在可以通过输入法在游戏内输入多字节字符（已在Windows平台下使用中文/日文进行测试）<br> 功能特性：<br>&nbsp;&nbsp;你现在可以在游戏内输入多字节字符了（已在Windows平台下使用中文/日文测试）<br> 功能特性：<br>&nbsp;&nbsp;现在，你可以使用输入法在游戏内输入多字节字符（已在中国和日文环境下于Windows平台完成测试）</p>\n<p>前置要求：<br>&nbsp;&nbsp;Forge Mod Loader<br> 前置要求：<br>&nbsp;&nbsp;Forge Mod Loader<br> 前置要求：<br>&nbsp;&nbsp;Forge Mod Loader</p>\n<p>其他平台（实验性功能）：&nbsp;<br>&nbsp;&nbsp;在Mac和Linux上输入文本时，打开你需要输入的位置，按下F12键，会弹出一个输入窗口，然后输入你需要的内容。<br>&nbsp; 另外，当输入窗口弹出时，你的游戏可能会显示未响应状态。<br>&nbsp;&nbsp;此F12功能在Windows系统中不会触发。<br>&nbsp;&nbsp;若要禁用此F12功能，请删除jar包内的'\\lain\\mods\\inputfix\\impl\\GuiScreenFixOthers.class'文件，这将使模组回退到Windows的默认处理逻辑。</p>\n<p>适用于1.9及以上版本：</p>\n<p>&nbsp; 你不需要安装此模组，官方似乎已经采纳了相关补丁。在Windows平台上默认即可正常工作。此外，由于对其他平台的支持效果不佳，我将不再继续更新此模组。</p>\n<p>适用于1.7.2：<br>&nbsp; 1.7.10版本会导致崩溃，请使用1.7.2版本。</p>\n<p>适用于1.6.x：<br>&nbsp; 你需要在服务器端安装此模组，以便在告示牌上正常输入文字。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

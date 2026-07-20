@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1cae7a3c07241468",
+  "content": "\n\n# **最佳瞄準模組**\n\n此模組可協助您在 PVP 時將準星定位於其他玩家身上，並透過在最佳瞄準位置渲染一個小型且高度可自訂的方塊，幫助您充分利用完整的 3 格攻擊範圍。\n\n我開發此模組的原因在於，經常看到許多新手玩家將準星對準對方的腿部，從而損失了約 0.1 至 0.2 格的攻擊距離；事實上，碰撞箱（Hitbox）距離最近的點通常是頭部。\n\n此外，若您將最大距離設定為「3」，該方塊僅會在您能夠攻擊該實體時才會顯示，這對於學習間距控制以及熟悉自身攻擊範圍非常實用！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/97d97jrjmIU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n（更多預覽畫面請見圖庫，也別忘了前往觀看 [Tektonikal](https://modrinth.com/user/Tektonikal)）\n\n## 相依模組\n\n本模組需要 [Fabric api](https://modrinth.com/mod/fabric-api)，並搭配 [Cloth config](https://modrinth.com/mod/cloth-config) 與 [Mod menu](https://modrinth.com/mod/modmenu) 以供設定使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

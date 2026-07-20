@@ -1,6 +1,6 @@
 {
-  "bodyHash": "BE6M+hrX49Q=",
-  "content": "![Minecraft 中的發光礦物](https://cdn.modrinth.com/data/cached_images/10f7b81a5b5eaa1794eddc3c939888d052639dd8.webp)\n\n**發光礦物材質** 為主世界與地獄的礦物添加了發光紋理。需要安裝 [OptiFine](https://optifine.net)（Forge）、[Continuity](https://modrinth.com/mod/continuity)（Fabric、Forge、NeoForge 或 Quilt）或其他支援發光紋理的模組，否則不會有任何變化。\n\n\n\n影響以下方塊使其發光：\n- 鐵礦\n- 煤礦\n- 紅石礦\n- 綠寶石礦\n- 鑽石礦\n- 青金石礦\n- 金礦\n- 銅礦\n- 遠古遺骸\n- 鑲金黑石\n- 地獄石英礦\n- 地獄金礦",
+  "bodyHash": "26db7cada72947c1",
+  "content": "\n\n![我的世界中的發光礦石](https://cdn.modrinth.com/data/cached_images/10f7b81a5b5eaa1794eddc3c939888d052639dd8.webp)\n\n**Emissive Glowing Ores** 為主世界與地獄的礦石添加了發光紋理。需要 [OptiFine](https://optifine.net)（Forge）、[Continuity](https://modrinth.com/mod/continuity)（Fabric、Forge、NeoForge 或 Quilt）或其他支援自發光紋理的模組，否則將不會生效。\n\n將以下方塊設為自發光：\n- 鐵礦石\n- 煤礦石\n- 紅石礦石\n- 綠寶石礦石\n- 鑽石礦石\n- 青金石礦石\n- 金礦石\n- 銅礦石\n- 遠古殘骸\n- 鍍金黑石\n- 地獄石英礦石\n- 地獄金礦石",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "23805f9e324fd722",
+  "content": "\n\n# Слайдер FPS для VulkanMod\nЭто небольшой мод для VulkanMod, который позволяет изменять частоту кадров от 10 до 500 FPS, удваивая лимит стандартного VulkanMod в 250 FPS, а также задавать точное значение FPS по вашему выбору!\n\nПривязка FPS к частоте обновления вашего монитора также может снизить задержку ввода при включённом VSync!\n\n![Слайдер FPS для VulkanMod](https://cdn.modrinth.com/data/dp6s1bOr/images/f83d55228042dabde588d5f4ebebe3842a79726b.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

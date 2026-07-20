@@ -1,0 +1,6 @@
+{
+  "bodyHash": "67b76340122f7d80",
+  "content": "# 更佳的监守者提示\n为字幕添加颜色，以帮助指示监守者对玩家的愤怒程度。\n\n## 工作原理\n监守者通过一套愤怒机制来决定何时生成以及攻击谁。每个玩家都被分配了一个 0 到 4 的愤怒值。\n\n每当玩家触发一次尖叫怪时，该值会增加 1，并根据监守者对玩家的愤怒状态播放 4 种声音之一。这 4 种声音各自拥有独立的字幕，因此可以通过资源包进行修改。\n\n这个特定的资源包将 4 种不同的声音字幕更改为带有颜色，以帮助玩家了解监守者对他们的愤怒程度。\n\n## 颜色\n- ![愤怒阶段 1 颜色](https://cdn.modrinth.com/data/kQmFrUxU/images/b9870f5a77d37e71a631d509cb19565e550f860d.png) 愤怒阶段 1\n- ![愤怒阶段 2 颜色](https://cdn.modrinth.com/data/kQmFrUxU/images/bf0d281f07835f7b812285935ad73c3e75e4267d.png) 愤怒阶段 2\n- ![愤怒阶段 3 颜色](https://cdn.modrinth.com/data/kQmFrUxU/images/2fbe9093f9eb4d956200d16b33a594c9d256adc3.png) 愤怒阶段 3\n- ![愤怒阶段 4 颜色](https://cdn.modrinth.com/data/kQmFrUxU/images/3a6a247743696aac8702568d54c16424e3e91300.png) 愤怒阶段 4（监守者生成）\n\n## 语言支持\n现有条目未做任何修改，但由于某些语言的完整度并非 100%，我在缺失的地方放置了一些 en_US 的条目。目前这不会造成问题，但随着这些语言在未来变得更加完整，此资源包将覆盖 Mojang 所做的更改。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

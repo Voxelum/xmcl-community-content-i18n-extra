@@ -1,0 +1,6 @@
+{
+  "bodyHash": "edaa8d139edcc0d5",
+  "content": "\n\n<p>&nbsp;为 TACZ 添加了基于 Curios API 的枪带系统<br><br>使用方法：<br>将枪械放入枪带物品中<br>将枪带装备到 Curios 栏位<br>按 X 键（默认按键）从枪带中拔出或收回枪械<br><br>特性：<br>不同等级的枪带，具有不同的拔出与收回延迟<br>枪械切换</p>\n<p>完全兼容生存模式</p>\n<p>配置文件（位于世界文件夹内的 serverconfig 目录中）</p>\n<p>&nbsp;</p>\n<p>鸣谢：maxinablender（素材），tkg112（编程）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

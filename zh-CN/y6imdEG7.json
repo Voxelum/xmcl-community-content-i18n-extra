@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a0a92daf7bf9a167",
+  "content": "\n\n**Junkyard Utils 添加了大量有助于制造高效机械和车辆的物品！**\n- **Jerrycan**：类似水桶，但可将液体精准转移至任意容器（例如直接注入发动机缸体）。\n- **Redstone Dial**：紧凑的拨盘，专为配合 Drive By Wire 使用而设计，以类似辉光管（Nixie Tubes）的方式显示模拟红石信号强度。\n- **Fluid Meter**：侧面安装的紧凑型设备，专注于流体检测，可读取容器的实时液位。\n- **Headlight**：纤细的车辆专用光源，支持自定义安装位置，主要用于外观装饰。\n- **Roller Wheel**：独立的低摩擦车轮方块。接入红石信号时摩擦力增大，可用于制作带刹车的紧凑起落架。（需要 Sable）\n- **Large Propeller Blade**：紧凑的叶片，行为类似风车帆且支持自定义位置，旨在打造更精细的螺旋桨。（需要 Sable）\n\n欢迎前往我们的 **[Discord 服务器！](https://discord.gg/dA3RTMM5Ae)** 联系我们并报告问题。\n\n**详细说明：**\n\n- 正常右键点击可使油壶自动装满液体。按住 Shift 键右键点击目标方块即可倒出液体。佩戴护目镜时，快捷栏上方会显示其容量与所含流体。\n- 方块的朝向可通过扳手进行调整。\n- 螺旋桨叶片**不会像风车帆那样自动粘合**。\n\n本模组完全兼容 Sable 与 VS2。\n\n模组作者：Xodus4\n\n欢迎在任何整合包中使用！\n\n使用 hybrid MCreator 制作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

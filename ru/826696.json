@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b24486e454e1789",
+  "content": "<p>__Активная разработка__: Minecraft 1.18.2, 1.19.x</p>\n<p><strong>Веб-сайт: <a href=\"/linkout?remoteUrl=https%253a%252f%252fteamcofh.com%252f\" rel=\"nofollow\">Team CoFH</a></strong></p>\n<p><strong>Discord: <a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscordapp.com%252finvite%252fuRKrnbH\" rel=\"nofollow\">Discord Team CoFH</a></strong></p>\n<hr>\n<p>Это очень простой мод — он включает возможности Forge для блока компостера, что позволяет различным модам взаимодействовать с ним таким же образом, как они взаимодействуют друг с другом.</p>\n<p>Например, фитогенный изолятор из <a href=\"https://www.curseforge.com/minecraft/mc-mods/thermal-expansion\" rel=\"nofollow\">Thermal Expansion</a> может автоматически извлекать костную муку, когда компостер готов, как показано ниже. Вы заметите, што поршни по-прежнему могут перемещать компостеры, поэтому поведение ванили полностью сохраняется. Компостер также можно наполнять через раздатчик, что является еще одним видом взаимодействия, добавленным этим модом.</p>\n<p><img src=\"https://raw.githubusercontent.com/CoFH/Version/main/capable_composters/capable_composters.gif\" alt=\"Пример работы компостера\"></p>\n<p>Этот мод не имеет зависимостей, но использует миксины! Приятного компостирования. :)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

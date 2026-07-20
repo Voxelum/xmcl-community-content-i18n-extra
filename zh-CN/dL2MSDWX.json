@@ -1,0 +1,6 @@
+{
+  "bodyHash": "72b5ae7650cb16b3",
+  "content": "\n\n_大家好。首先，我强烈建议通过官方的 CurseForge 和 Modrinth 启动器下载本项目——这将直接增加创作者的收益。非常感谢大家的支持！！！_\n\n[![聊天](https://cdn.modrinth.com/data/cached_images/f7ba56bdea313f30d12390daaabdd4d5e3893385.webp)](https://discord.gg/s8vZR4PGr2) \n\n这是一个模组 API，允许你在主世界生成结构时为其添加 NBT 标签，并结合 Create Aeronautics (Sable) 使其具备物理实体特性。\n\n为避免通过该模组 API 生成依赖前置模组的结构，你可以使用以下命令：\n\n/give @s physical_structures:structure_spawner[physical_structures:structure_id=\"physical_structures:gun6\"]\n\n[![赞助](https://cdn.modrinth.com/data/cached_images/be430e7f950991c85de23828c5efe38f082a33c8.webp)](https://ko-fi.com/iyouroverlord!) [![赞助](https://cdn.modrinth.com/data/cached_images/b47082063c60d519ee5fd5b194cc1b85bc1a976d.png)](https://www.patreon.com/c/IYourOverlord)[![赞助](https://cdn.modrinth.com/data/cached_images/a51142c3cb736fe0310203307c1221610885d03c.png)](https://www.paypal.com/donate/?hosted_button_id=E7U2TQU7QAVJN)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

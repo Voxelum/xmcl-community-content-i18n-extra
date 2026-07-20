@@ -1,0 +1,6 @@
+{
+  "bodyHash": "05d4050956938cb5",
+  "content": "\n\n# BoatView360\n\n[![MC Versions](http://cf.way2muchnoise.eu/versions/For%20MC_BoatView360_all.svg)](https://curseforge.com/minecraft/mc-mods/BoatView360)\n[![CurseForge](http://cf.way2muchnoise.eu/full_BoatView360_downloads.svg)](https://curseforge.com/minecraft/mc-mods/BoatView360)\n[![Modrinth](https://img.shields.io/modrinth/dt/BoatView360?color=00AF5C&logo=modrinth)](https://modrinth.com/mod/BoatView360)\n\n## 簡介\n\n**BoatView360** 是一款適用於 Minecraft 的 Fabric / Forge / NeoForge 模組，移除了船隻乘客 210° 的旋轉限制，讓玩家在乘坐船隻時能夠進行完整的 **360° 鏡頭旋轉**。\n\n在 Minecraft 原版中，坐在船上的玩家只能將視角旋轉 ±105°，這限制了對周遭環境的掌握程度。本模組移除了該限制，讓玩家可以自由地向各個方向環顧四周。\n\n## 功能特色\n\n- 移除船隻乘客的旋轉限制，支援完整的 360° 視野\n- 相容於以下模組：\n  - [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft)\n  - [Immersive Machinery](https://modrinth.com/mod/immersive-machinery)\n  - [Piggyback](https://modrinth.com/mod/piggyback)\n\n## 使用方法\n\n- **客戶端（必要）**  \n  本模組**必須安裝於客戶端**，才能在騎乘船隻時啟用無限制的 360° 視野。\n\n- **伺服器（選配）**  \n  可選擇是否安裝於伺服器。  \n  不過，為了確保多人遊戲中的其他玩家能看到準確的 360° 頭部旋轉，建議在三方皆安裝此模組：\n  - 你的客戶端\n  - 其他玩家的客戶端\n  - 伺服器\n\n若其中任何一方未安裝此模組，360° 旋轉效果將無法同步。其他玩家仍會看到你的頭部旋轉被限制在原版的 ±105° 範圍內。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

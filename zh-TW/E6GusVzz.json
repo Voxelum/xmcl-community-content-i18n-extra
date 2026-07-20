@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b9d7d46fe36ee0c8",
+  "content": "\n\n## 安裝需求\nChemica 基於 NeoForge 運行，在將 Chemica 加入您的 mods 資料夾之前，您必須先為 1.20.1 版本安裝 [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)，或為 1.21.1 版本安裝 [NeoForge]([https://modrinth.com/mod/jei](https://neoforged.net/)。<br>\n此外，Chemica 還需要安裝 [Create](https://modrinth.com/mod/create) 與 [The Factory Must Grow](https://modrinth.com/mod/create-tfmg) 才能正常運作。<br><br>\n也建議安裝 [JEI](https://modrinth.com/mod/jei) 與 [Jade](https://modrinth.com/mod/jade)。\n\n## 關於\nChemica 是一款為 [Create](https://modrinth.com/mod/create) 與 [The Factory Must Grow](https://modrinth.com/mod/create-tfmg) 設計的擴充模組，旨在以有趣且具意義的方式實作現實世界的化學反應與工業流程。它提供了豐富的新材料、物品、液體、氣體以及配方樹。\n\nChemica 目前包含的部分內容如下：\n\n- 製作新型塑膠，例如 PVC 與環氧樹脂\n- 生產與使用多種酸類\n- 碳纖維加工配方樹\n- 大量新增礦石、金屬、液體與燃料\n- 透過各種材料進行化學品生產\n<br>…未來還有更多內容規劃中！\n\n## 開發進度\n本專案目前仍處於早期開發階段，未來版本可能會調整或變更內容。\n如果您有任何想法、建議，或想回報錯誤，請前往 [這裡](https://discord.gg/mN3wrPxs3x) 的 Chemica Discord 進行反饋。\n待專案發展成熟後，將開放原始碼，並預計（希望）提供完整的 Wiki 說明文件。\n\n### 開發者\ncosmads\n\n### 貢獻者\nPouffyDev",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

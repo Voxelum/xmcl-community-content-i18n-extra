@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1071b082e72ade91",
+  "content": "# 关于\nReal Life Heights 是一款模组，允许玩家在单人世界或 Minecraft 服务器中将身高设置为与现实生活中的实际身高一致。\n# 命令\n- /trigger irl-height <英尺><英寸>\n- /trigger irl-height-help\n- /trigger reset-height\n## 警告\n身高超过 5 英尺 10 英寸时，玩家无法在板岩下蹲。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

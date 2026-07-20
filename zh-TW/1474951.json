@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d008afcc674c9eae",
+  "content": "\n\n<h1><strong>動態 PvP 準星</strong></h1>\n這是一款客戶端模組，會取代原版準星，在現代 PvP 戰鬥（如戰鎚對戰與鞘翅空戰）中為您提供更多資訊。它會追蹤您的攻擊距離與時機，協助您打出暴击。\nundefined\n<h2><strong>功能說明：</strong></h2>\n<h3><strong>距離顯示</strong></h3>\n顯示您目前鎖定的實體精確方塊距離。\n\n<h3><strong>暴击提示</strong></h3>\n當武器冷卻時間與掉落距離滿足暴击條件時，準星會改變顏色。\n<h3><strong>鞘翅模式</strong></h3>\n飛行時顯示自訂的鞘翅圖示。您可以設定當目標進入攻擊範圍時，自動隱藏與顯示戰鬥準星。\n<h3><strong>可自訂設定</strong></h3>\n您可以在模組的設定選單中更改準星樣式、文字縮放比例以及所有顏色（命中顏色、暴击顏色、文字顏色）。\n<h3><strong>僅限客戶端</strong></h3>\n您可在任何原版伺服器、Realms 或迷你遊戲網路中使用此模組。伺服器無需安裝該模組即可運作。\nundefined\n<h3><strong>切換按鍵</strong></h3>\n您可以隨時按下 O 鍵來開啟或關閉自訂準星（可按鍵可在控制設定中更改）。\n\n<h2><strong>相容性</strong></h2>\n<h3><strong>Fabric/Quilt</strong></h3>\n1.21.4 至 1.21.11\n<h3><strong>NeoForge</strong></h3>\n1.21.6 至 1.21.11\nundefined\n<h2><strong>必要相依模組</strong></h2>\n<h3><strong>Cloth Config API</strong></h3>\n（Fabric 與 NeoForge 皆為必要）用於建立設定選單。\n\n<h3><strong>Architectury API</strong></h3>\n（Fabric 與 NeoForge 皆為必要）協助模組於兩種載入器上運行。\n<h3><strong>Fabric API</strong></h3>\n（僅限 Fabric 必要）核心 Fabric 系統\nundefined\n<h3><strong>Mod Menu</strong></h3>\n（僅限 Fabric 必要）為遊戲新增「模組」按鈕，以便您實際開啟設定畫面。",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

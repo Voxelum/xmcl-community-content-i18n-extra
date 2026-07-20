@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b51270d8dcbc9b87",
+  "content": "\n\n![装饰方块](https://cdn.modrinth.com/data/t6BIRVZn/images/66279b43dfb227b0638a0b0eced4e652d398b538.png)\n\n一款小型模组，添加了多种新的装饰方块，包括：\n\n- 篝火：向火焰中投入烈焰粉（可配置）\n- 茅草：用剪刀剪开干草捆产生的“流体”，可用锄头清除\n- 木制栅栏\n- 木梁方块，由 u/ksym_ 设计\n- 火盆\n- 吊灯：可用 4 个火把逆向合成\n- 岩石泥土：可用 4 个泥土逆向合成\n- 石柱\n- 大铁链：可攀爬\n- 吧台活板门\n- 格栅活板门\n- 木座椅：右键点击坐下\n- 木质支架\n- 灵魂火版本的篝火、火盆和吊灯（1.16）\n\n\n- （1.18+）座椅和支架具有额外状态，按住 Shift 键可查看物品提示。\n- （1.20+）使用物品标签 #decorative_blocks:bonfire_activators 配置篝火激活器\n- （1.20+）使用游戏规则 decorative_blocks:disableThatch 禁用茅草功能\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/wkad8dDZEJQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

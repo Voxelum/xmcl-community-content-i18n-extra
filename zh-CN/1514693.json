@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3a3d6da0c9f313cf",
+  "content": "\n\n<p><span>适用于 Minecraft 1.21.1 的 NeoForge 模组</span>&nbsp;添加了具备自定义界面与服务端逻辑的&nbsp;<span>玩家拍卖行</span>。</p>\n<p><strong>现已支持动态服务器定价&nbsp;</strong>（可配置）</p>\n<ul>\n<li>提供完整的管理员图形界面，用于配置服务器商店、玩家个人数值及余额历史记录</li>\n<li><span>权限检查</span>功能，允许服务器限制可使用或管理拍卖行的玩家。（不依赖 LuckPerms）</li>\n<li>默认支持离线状态。</li>\n<li>采用我开发的“Modern_GUI”框架模组，兼顾科技感与美观度。</li>\n<li><span>依赖 Create 和 Numismatics 模组</span>，经济系统挂钩 <span>Numismatics</span> 的银行货币（代码中内置了物品与货币的转换路径以提升灵活性）</li>\n<li>服务器端存储商品列表、订单、交易记录、收益统计及全服余额排行榜（baltop），并支持可配置的购买限制、冷却时间、维度限制及刷新机制。</li>\n<li>允许玩家<span>上架商品出售、发布可搜索的物品求购订单（托管/担保模式）、自动化向服务器出售物品（含可选的动态定价及数量饱和目标），以及从服务器购买物品</span></li>\n</ul>\n<p>本模组同时适用于服务端和客户端。客户端需安装“Modern GUI”后端模组。</p>\n<p>玩家指令：/ah<br>管理员指令：/ah admin</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

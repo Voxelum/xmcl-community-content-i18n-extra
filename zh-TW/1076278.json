@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db65a2d6f61299a6",
+  "content": "\n\n<h2><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fwendall911\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" alt=\"請 wendall911 喝杯咖啡\" width=\"223\" height=\"30\"></a></h2>\n<h2>簡介</h2>\n<p>這是一款同時支援 Forge 與 Fabric 的模組，能夠真正實現右鍵收割功能。市面上雖然有許多類似選項，但都需要依賴外部函式庫，而且穩定性不佳！它們不是完全無法運作，就是需要手動設定所有常見的農業與食物模組（而這類模組其實並不多）。</p>\n<p>本模組支援大多數模組化的作物與樹木，具備可配置性，發行後即可正常運作。</p>\n<p>若與其他模組的右鍵收割功能發生衝突，請回報給我，我會更新以解決問題。建議直接停用其他提供重複功能的模組中的該項功能。</p>\n<h2>設定選項</h2>\n<ul>\n<li>允許空手收割。若停用則需使用鋤頭。</li>\n<li>可為使用鋤頭收割設定耐久度消耗。</li>\n<li>可設定低階鋤頭（金、木、石、鐵）的收割範圍。</li>\n<li>可設定高階鋤頭（鑽石、獄髓）的收割範圍。</li>\n<li>可根據效率附魔等級自動擴展鋤頭收割範圍。</li>\n<li>可自動設定其他模組化作物模組。</li>\n<li>手動設定可收割的作物與方塊。</li>\n<li>收割獲得經驗值 - 機率與數量。</li>\n</ul>\n<h2>支援的模組</h2>\n<ul>\n<li>Pam's HarvestCraft 2</li>\n<li>Croptopia</li>\n<li>Farmer's Delight</li>\n<li>Fruitful Fun</li>\n<li>幾乎所有其他作物模組皆可自動支援！若無法運作請告知我！</li>\n</ul>\n<h2>致謝</h2>\n<p>本模組部分重現了 Quark 中優秀的收割功能。它始終能正常運作，但 Quark 的更新通常較慢，而其他可用選項要么完全無法運作，要么只能部分支援。</p>\n<p>&nbsp;</p>\n<p>歡迎加入我們的 <a href=\"https://discord.gg/c4y8JVxFVj\" rel=\"nofollow\">Discord</a> 伺服器！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

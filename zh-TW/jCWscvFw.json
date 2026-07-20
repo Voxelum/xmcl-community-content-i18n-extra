@@ -1,6 +1,6 @@
 {
-  "bodyHash": "G6RZS9y1fiI=",
-  "content": "PVP優化器是一款輕量級的客戶端PvP優化模組，專注於提升攻擊響應速度並降低戰鬥中的感知延遲。透過優化揮擊時機與客戶端反應速度，能讓攻擊動作更流暢即時，尤其適合高延遲連線環境。\n\n功能特色\n\n更快速流暢的攻擊揮舞反饋\n\n[![Modrinth合作夥伴橫幅](https://cdn.modrinth.com/data/jCWscvFw/images/d98c5ff87f7d0f1e216aa733dcdf89928c0ac5b1.png)](https://modrinth.com/server/unstablerevamp)\n\n減少點擊攻擊時的視覺延遲\n\n輕量化且效能友善\n\n僅限客戶端安裝 – 無需伺服器端支援\n\n專為PvP戰鬥一致性設計\n\n相容性\n\n可與多數效能模組並存（Sodium、Lithium等）\n\n依版本支援Fabric環境\n\n不修改伺服器運作機制\n\n目標\n\nPVP優化器致力於在不加入過多視覺效果或繁重功能的前提下，提供更靈敏穩定的戰鬥體驗——僅針對打擊時機進行精準優化，實現更流暢的PvP對戰。\n\n若您是伺服器管理員且不希望玩家使用此模組，可從我的GitHub下載退出檔案：https://github.com/XBTQY/PVP-Optmizer-opt-out/releases/tag/Release",
+  "bodyHash": "b7a662195a958c3a",
+  "content": "PVP 优化器是一款轻量级的客户端 PvP 优化模组，专注于提高命中响应速度并减少战斗过程中的感知延迟。通过优化挥击时机和客户端响应能力，它能让你的攻击感觉更加流畅和即时，尤其是在高延迟的网络连接下。\n\n功能特性\n\n更快、更平滑的攻击挥击反馈\n\n[![Modrinth 合作伙伴横幅](https://cdn.modrinth.com/data/jCWscvFw/images/d98c5ff87f7d0f1e216aa733dcdf89928c0ac5b1.png)](https://modrinth.com/server/unstablerevamp)\n\n点击命中时的视觉延迟降低\n\n轻量级且对性能友好\n\n仅客户端使用——无需在服务器安装\n\n专为 PvP 战斗的一致性而设计\n\n兼容性\n\n与大多数性能优化模组（如 Sodium、Lithium 等）兼容\n\n支持 Fabric，具体取决于构建版本\n\n不修改服务器端机制\n\n目标\n\nPVP 优化器旨在让战斗体验更具响应性和一致性，同时不添加侵入性的视觉效果或繁重的功能——仅提供经过优化的命中时机，以实现更流畅的 PvP 体验。\n\n如果你是服务器管理员，并且不希望你的服务器用户使用此模组，请从我的 GitHub 下载退出选项：https://github.com/XBTQY/PVP-Optmizer-opt-out/releases/tag/Release",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

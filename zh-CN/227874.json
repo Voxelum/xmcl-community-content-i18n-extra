@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Fk8m3ktDbfs=",
-  "content": "<p>&nbsp;</p><p>这个模组使得“发光”物品能够照亮它们周围的一切，如果：<br><br>1) 玩家装备了它们（手持/穿戴在盔甲栏）<br>2) 它们被丢在地上<br><br><br>您可以通过配置文件添加任何物品ID作为发光物品。也支持盔甲类物品！</p><p>&nbsp;</p><p><a href=\"https://www.youtube.com/watch?v=Rwv8EZy6Qg4\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=Rwv8EZy6Qg4</a><br><br>您可以创建的光源数量没有限制，但请注意它们会对FPS造成较大影响。</p><p>&nbsp;</p><p>- 模组现在使用虚拟空气和水方块来实现照明效果（随着光源移动快速放置和移除它们）<br>- 这有几个限制，只有完整的水方块才能发出动态光（不适用于瀑布或部分方块河流）<br>- 如果光源位于某些非空气方块内部（如树叶或蜘蛛网），则也无法正常工作<br>- 模组现在是一个“标准”模组，在线游玩时需要客户端和服务器都安装它<br><br><br><br>使用说明：<br>将下载的文件放入mods文件夹<br>&nbsp;</p><p>&nbsp;</p><p><br><br>致其他模组开发者：请查看源代码。添加自己的动态光源非常容易™</p>",
+  "bodyHash": "696e3b55e90683ae",
+  "content": "\n\n<p>&nbsp;</p>\n<p>此模组可使“发光”物品在满足以下条件时照亮周围的一切：<br><br>1) 玩家装备了它们（手持或穿戴护甲）<br>2) 它们被丢弃在地上<br><br><br>您可以通过配置文件将任意物品ID设为发光物品。同时也支持护甲！</p>\n<p>&nbsp;</p>\n<p><a href=\"https://www.youtube.com/watch?v=Rwv8EZy6Qg4\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=Rwv8EZy6Qg4</a><br><br>您可创建的光源数量没有限制，但请注意它们较为消耗帧率（FPS）。</p>\n<p>&nbsp;</p>\n<p>- 该模组现在使用虚拟的空气和水方块来实现光照效果（随着光源移动，快速放置并移除这些方块）<br>- 这存在一些限制条件：只有完整的水方块才能发出动态光照（瀑布或部分方块河流不支持）<br>- 如果光源位于非空气方块内部（如树叶或蜘蛛网），将无法生效<br>- 该模组现已作为“标准”模组运行，在线游玩时客户端与服务器均需安装<br><br><br><br>使用说明：<br>将下载的文件放入 mods 文件夹<br>&nbsp;</p>\n<p>&nbsp;</p>\n<p><br><br>致其他模组开发者：请参阅源代码。为您的模组添加动态光照支持非常简单（tm）</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

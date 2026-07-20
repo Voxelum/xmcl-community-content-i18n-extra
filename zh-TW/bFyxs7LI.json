@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dde703495a67c01d",
+  "content": "\n\n# **這是一個簡單的模組，旨在為 [Create](https://modrinth.com/mod/create) 與 [Ad Astra](https://modrinth.com/mod/ad-astra) 之間提供更高的相容性並新增更多合成配方**\n\n# **目前包含的配方：**\n\n## 冰川毛皮\n\n使用永凍土與任意種類羊毛合成\n\n## 冰川樹葉\n\n使用永凍土與任意種類樹葉合成\n\n## 冰川原木\n\n使用永凍土與任意種類原木合成\n\n## 冰川石\n\n使用永凍土與任意種類石頭合成\n\n## 1-4 級火箭\n\n配方相同，但現在可在機械加工機中製作，便於自動化生產\n\n### 需要 [Create](https://modrinth.com/mod/create) 與 [Ad Astra](https://modrinth.com/mod/ad-astra)\n\n## 移植狀態\n\n**Fabric**：我暫時沒有移植計畫，因此建議使用 [Sinytra Connector](https://modrinth.com/mod/connector)。不過若需求足夠多，我也會考慮移植。\n\n**1.20.1 以上版本**：只要 [Create](https://modrinth.com/mod/create) 和 [Ad Astra](https://modrinth.com/mod/ad-astra) 更新至 1.20.1 之後的版本，我便會隨之移植。\n\n**1.20.1 及以下版本**：我會根據需求移植至指定版本，歡迎在 [CurseForge 留言區](https://legacy.curseforge.com/minecraft/mc-mods/create-ad-astra-recipes) 提出請求。\n\n**只要本模組仍發布於 CurseForge 或 Modrinth，您即可將其用於您的整合包中。**\n\n**很遺憾必須特別強調：本模組僅發布於 Modrinth 與 CurseForge，其他網站均無官方授權下載來源。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

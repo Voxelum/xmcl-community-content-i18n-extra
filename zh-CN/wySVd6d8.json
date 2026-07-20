@@ -1,0 +1,6 @@
+{
+  "bodyHash": "978c18a30a03de59",
+  "content": "# 提示框滚动\n[![Image](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/Provismet/Tooltip-Scroll-Fabric/blob/1.20/LICENSE)\n![Image](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)\n![Image](https://img.shields.io/badge/mod%20loader-fabric/quilt-d64541?style=flat-square)\n\n## 描述\n提示框现在支持滚动。通过高度可自定义的按键绑定和设置，您可以将提示框移动到屏幕上或屏幕外的任何位置。\n\n### 移动\n使用鼠标滚轮、按键绑定，甚至 WASD 键，都可以移动提示框在屏幕上的位置。\n\n<img src=\"https://cdn.modrinth.com/data/wySVd6d8/images/cf465a9eb6687ac711a12956f06699c7b35719d8.gif\" alt=\"提示框可以移动到屏幕上或屏幕外的任何位置。\">\n\n### 平滑度\n将平滑度设置为低于 1 的值会产生滑动的视觉效果。\n\n![](https://cdn.modrinth.com/data/wySVd6d8/images/d9c3744ff8f902b19858af87240ef21c37a4a986.gif)\n\n## 附加功能\n要调整设置，需要安装 Mod Menu 和 Cloth Config API。  \n或者，您可以在 Minecraft 配置文件夹中的 `config/tooltipscroll.json` 文件里调整任何设置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

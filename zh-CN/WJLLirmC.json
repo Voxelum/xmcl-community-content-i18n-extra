@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d140f9208522ec7e",
+  "content": "\n\n## **简介：**\n该指南针可根据掉落物或刷怪蛋搜索生物，根据商品搜索村民，根据内部物品搜索方块或容器（如箱子或熔炉），并支持更多功能。\n\n## **使用方法：**\n- 使用**鼠标右键**打开**指南针菜单**\n- 将想要寻找的方块或物品放入指南针的物品栏中\n- 选择所需的**搜索模式**\n- 等待它完成对已放置物品的搜索\n\n## **功能特性：**\n- 在方块或生物上按住**Shift + 鼠标右键**，可将其添加至指南针物品栏\n- 在指南针物品栏内的物品上按住**Shift + 鼠标右键**，可将其标记为优先搜索\n- 优先物品将优先被搜索\n- 可在指南针菜单中配置 HUD、定位提示音、搜索范围等参数\n- 可使用 **JEI/REI/EMI** 将物品直接拖拽至指南针物品栏\n\n## **配置说明：**\n- 大部分参数会从**服务器同步至客户端**\n- 可自由启用或禁用任意搜索模式\n- 搜索范围（每刻扫描的区块数）支持按单个指南针或全局统一设置\n- 支持按物品**标签**、**ID**或所属**模组**进行过滤\n- 可在 **travelerscompass-cost.toml** 文件中定义以经验等级计量的搜索费用\n- 费用支持按物品 ID 或按标签分别设置\n\n## **合成表：**\n![Compass recipe](https://cdn.modrinth.com/data/WJLLirmC/images/93bf0975a20f35c47e5803de76d3cebc7c712bf4.png)\n\n## 目标位置标记（下方/同层/上方）：普通与优先\n![Compass states](https://cdn.modrinth.com/data/WJLLirmC/images/6370e42683e2ee9c98a6d4a667d6ae63ff2d1e8c.png)  \n![Priority compass states](https://cdn.modrinth.com/data/WJLLirmC/images/124b1c1de423d05d67c25c7766ed94c8ecd49216.png)\n\n## **与其他模组的兼容性：**\n\n### JEI / REI / EMI\n- 支持将物品拖拽至指南针物品栏\n- 过滤规则与经验费用同样生效\n- 可在配置文件中关闭此功能\n\n### Lootr\n- 支持按内容搜索 **Lootr 容器**\n- 选项包括：仅已开启 / 仅未开启 / 全部\n- 可在配置中禁用或限制该功能\n\n### Jade / The One Probe\n- 悬浮提示会显示过滤限制信息\n- 可显示经验搜索费用（若已设置）\n- 可在配置文件中关闭此功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

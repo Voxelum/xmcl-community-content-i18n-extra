@@ -1,0 +1,6 @@
+{
+  "bodyHash": "95a1d9bd647dc24b",
+  "content": "\n\n# GTMOGS - GregTech Modern Ore Generation: Standalone\n\n你是否只想使用 GregTech 的矿石生成，而不想要它那庞大内容中的*其余部分*？庆祝的时刻到了，我最亲爱的整合包开发者。\n\n简单说明一下，我是通过克隆 GT:M 并删除所有不影响矿石生成的内容来制作这个模组的。需要对矿石生成代码进行一些轻微的调整，以使其脱离 GT 自定义的矿石系统；同时还需要对地图集成进行更多调整，以便它能与原版 Minecraft 方块兼容。\n\n因此，你可以放心地参考 [GTCEu 的官方文档](https://gregtechceu.github.io/GregTech-Modern/Modpacks/Ore-Generation/) 来了解如何实际使用此模组。\n（假设他们未来不会大规模重构矿石生成代码，而我却没能及时跟进。不过这种情况绝不会发生 :clueless:）\n\n## 特性：\n### 默认情况下绝对不生成矿脉。\n没错。如果你将此模组加入整合包，它将生成零种矿石——*此外*，它还会默认完全禁用原版矿石生成。你将面临“无矿”状态。毕竟，在没有 GregTech 矿石系统的情况下，本身也就没什么东西可以用来制作矿脉了。\n\n该模组的预期用途是供那些愿意实现符合自身需求的自定义矿石矿脉的整合包几乎独家使用。\n\n_咳咳咳，现代工业化整合包开发者们咳咳咳_\n\n### KubeJS 集成\n如果你熟悉 GT:M 用于自定义矿脉的 KubeJS 集成，那你已经知道这个功能了。\n\n这基本上就是该模组的核心所在。如果你想了解更多，请阅读相关的 [GTM 文档](https://gregtechceu.github.io/GregTech-Modern/Modpacks/Ore-Generation/)。\n\n### EMI 集成\n理论上还应该支持 JEI 和 REI，但我个人尚未测试过这些，因为我不打算使用它们。如果你在尝试将其与这些模组之一配合使用时遇到问题，请在模组的 GitHub 上提交 Issue，我会实际去查看并处理。\n\n### 地图集成\n包含 FTBChunks、JourneyMap 以及 Xaero's Mini Map / World Map \n\n#### 衷心感谢 GTCEu 背后的开发者们为基座模组所付出的巨大努力。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fd0ab8fb88ef317c",
+  "content": "\n\n一款极其简单的相机特效着色器。\n旨在模拟老式相机、复古照片、黑白影像或 VHS 录像的外观。\n（仅为模仿，而非完全复刻。）\n\n### 当前功能：\n- 色差\n- 动态噪点\n- 扫描线\n- 黑白模式\n- 暗角\n- 闪烁效果\n- 像素化\n- 胶片颗粒\n- 去色处理\n- VHS 波纹/畸变\n- 随机线条\n- 画质调节\n- 自动曝光\n- 锐度调整\n- 更多功能！\n\n### 注意事项\n- 本着色器已在 Iris 和 OptiFine 上测试过，但更推荐使用 Iris。\n- 如果你刚加载着色包后发现画面看起来像呕吐物一样混乱，请进入着色器设置并选择任意一个配置文件即可。\n- 我已注意到[此网站](https://minecraft-inside.ru/shaders/180251-extremely-simple-camera-effects.html)正在未经授权的情况下分发该着色器。请记住，**本网站是下载该着色器的唯一官方渠道**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

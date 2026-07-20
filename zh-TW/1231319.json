@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3cd542275c978bb6",
+  "content": "\n\n<p>修復了一個小錯誤，該錯誤會導致當整合包中缺少指定的附魔 ID 時，<a href=\"https://www.curseforge.com/minecraft/texture-packs/rl-enchanted-books\" target=\"_blank\" rel=\"nofollow\">RL Enchanted Books</a> 資源包及其他附魔書資源包無法正確套用。</p>\n<p>不再看到以下畫面：</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1231319/description_98a3cb59-8ef5-4ac1-a433-fa4b002b369d.png\" alt=\"\" width=\"526\" height=\"363\"></p>\n<p>現在所有現有的附魔都會正確渲染。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1231319/description_9b7aafc7-77f7-4a50-af98-330ffa8f8454.png\" alt=\"\" width=\"505\" height=\"322\"></p>\n<p>此修正讓其他整合包即便缺少該資源包設定 CIT 的附魔，仍能正常使用 RL Enchanted Books 或其他資源包來套用自訂附魔書／物品的 CIT。</p>\n<p>需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fermiumbooter\" target=\"_blank\" rel=\"nofollow\">FermiumBooter</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

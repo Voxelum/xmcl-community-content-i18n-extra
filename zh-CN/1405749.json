@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f288030051be0f44",
+  "content": "<h3>什么是远山近水？</h3>\n<p>远山近水（Distant Horizons）是一款细节层次（LOD）模组，<a href=\"https://www.curseforge.com/minecraft/mc-mods/distant-horizons\" target=\"_blank\" rel=\"nofollow\">原版项目可在此找到</a>，它能在远超 Minecraft 原版渲染距离的范围内渲染简化的地形。它会为远处的区块创建低细节表示，使玩家能够在无需完全渲染这些区块所带来的性能开销的情况下，看到数百甚至数千格之外的地形。此构建版本针对区块已预生成或仅在游戏过程中通过完整内部服务器生成的使用场景进行了优化（例如通过 Chunky 或本地实时探索生成），我们并不保证其他 LOD 生成模式是否可用。</p>\n<p>因此，它并非设计用于通用场景，而是专为 Au Naturel 5 整合包的使用场景而设计。<br><br>请注意，特别是随着近期更新的后续版本，此版本远山近水的适用范围正变得越来越狭窄，且该代码库并非为所有可能的用途而设计。所有其他 Minecraft 版本的代码，包括允许使用其他 LOD 生成选项的代码，都已被从代码库中移除。请自行承担使用风险，且仅适用于 Forge 1.20.1 版本。该版本尚未在多人生存模式中完全测试，由于上一阶段为了简化并远离其他 Minecraft 版本或加载器而大量移除代码，很有可能已经破坏了某些功能。</p>\n<p>然而，根据原始许可证，您可以自由地按照您的意愿使用它。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fB8fTfwnqnz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/1066205/description_02ede751-f9cb-491c-b12f-539c6dd947d7.png\"></a></p>\n<p>加入 Discord 以讨论反馈、问题、疑问和建议。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

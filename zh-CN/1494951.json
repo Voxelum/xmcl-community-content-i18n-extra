@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6bd7090bb29e7632",
+  "content": "\n\n<p>🏎️ Eurika! Cars!：基于物理的驾驶体验</p>\n<p>免责声明：本模组是一款基于物理引擎的<strong>非官方</strong>附加组件，适用于<a href=\"https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies\" target=\"_blank\" rel=\"nofollow\">Valkyrien Skies 2</a>，且运行需要依赖<a href=\"https://www.curseforge.com/minecraft/mc-mods/eureka-ships\" target=\"_blank\" rel=\"nofollow\">Eureka!</a>。</p>\n<p>Eureka Cars 1.1.0 版本已发布！</p>\n<p>Eurika Cars 借助 Valkyrien Skies 和 Eureka! 的强大功能，为《我的世界》带来了真实（且充满乐趣！）的地面载具物理效果。</p>\n<p>大多数飞行船模组给人的感觉像是在天空中航行的船只，但 Eurika Cars 专为公路行驶进行了调校。通过采用自定义的数据驱动物理系统，“橡胶轮胎”方块的质量与摩擦力被调整为接近零，从而营造出车轮平滑滑动的“视觉错觉”，避免了普通方块那种笨拙的“弹跳”感。</p>\n<p>✨ 主要特性</p>\n<p>低摩擦轮胎：自定义编码的橡胶轮胎方块，专为在地形上移动而设计。</p>\n<p>Eureka 集成：可与 Eureka 飞船操纵杆完美配合，实现轻松组装与转向。</p>\n<p>物理就绪：专为兼容 VS2 的高级位移与速度引擎而构建。</p>\n<p>🛠️ 如何建造你的第一辆汽车</p>\n<p>首先，使用<span>任意</span>来自<strong>创造模式标签页</strong>的方块来<strong>建造</strong>你的<strong>汽车</strong>（推荐），或者直接使用任意方块均可。</p>\n<p>放置你的橡胶轮胎（至少一个，但四个更稳定！）。</p>\n<p>安装任意数量的引擎（越多越快！但过多的引擎可能会让汽车变得过重）。</p>\n<p>放置一个 Eureka 飞船操纵杆和一个座椅。</p>\n<p>（可选）在车架内部隐藏添加几个气球，为你的汽车提供“悬挂”手感并增加额外速度！</p>\n<p>手持空手按住 Shift + 右键点击操纵杆，然后点击“组装”。</p>\n<p>📦 必需依赖项</p>\n<p>为了让物理效果正常运行，你必须安装以下模组：</p>\n<p>Valkyrien Skies 2</p>\n<p>Eureka! Ships!</p>\n<p>Koltin For Forge</p>\n<p>Architectury</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

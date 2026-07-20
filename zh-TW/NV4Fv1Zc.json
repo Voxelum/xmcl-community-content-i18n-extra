@@ -1,0 +1,6 @@
+{
+  "bodyHash": "724a5946d494f2b8",
+  "content": "\n\n這是一個輕量級的恐怖奇幻着色器，旨在提供黑暗、粗獷且充滿氛圍的遊戲體驗，同時保留 Minecraft 標誌性的方塊與像素美術風格。\n\n### 模式\n\n**Ultra 與 Lite：** Ultra 模式會消耗更多效能，但畫面更精緻；Lite 是我經過高度最佳化的版本，畫面非常出色，同時仍能保持頂級效能。\n\n### 手動安裝\n\n**1.** 下載模組並解壓縮\n\n**2.** 安裝 Iris\n\n**3.** 將下載的檔案放入遊戲資料夾中的 `shaderpacks` 資料夾內（若該資料夾不存在請自行建立）\n\n**4.** 啟動遊戲並享受吧！\n\n**注意：** 建議手動安裝，以便您選擇想要確切的着色器版本（Lite 或 Ultra）。預設情況下會自動安裝「Lite」版本。如果您想要的就是這個版本，請忽略此訊息。\n\n### 其他版本\n\n- [奇幻版](https://modrinth.com/shader/hyshaders-fantasy) | 充滿活力、明亮且具氛圍的美學風格。\n\n- [原版風格版](https://modrinth.com/shader/hyshaders-vanilla-edition) | 接近原版 Minecraft 的美學風格。\n\n- [恐怖版](https://modrinth.com/shader/hyshaders-horror) | 恐怖、鄉野或中世紀風格的美學。\n\n### 授權與使用規範\n\n整合包：允許，您可以在您的整合包中使用此着色器。\n\n本着色器為 [BSL](https://capttatsu.com/bslshaders/) 的修改版本，已獲得原作者許可 _(於 7/11/24 透過 X 私訊取得)_。針對效能進行了微調，並擁有不同的美術風格與色彩調校。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

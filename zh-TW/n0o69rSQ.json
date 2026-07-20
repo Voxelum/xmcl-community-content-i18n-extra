@@ -1,6 +1,6 @@
 {
-  "bodyHash": "uSSPzU1A80w=",
-  "content": "![演示](https://raw.githubusercontent.com/Mephodio/SophisticatedInjections/refs/heads/master/media/demo.gif)\n\n為 [精緻背包](https://modrinth.com/mod/sophisticated-backpacks) 設計的擴充模組，新增可快速使用儲液槽中藥水的升級功能。\n\n* 直接從藥水瓶將藥水倒入儲液槽，或從儲液槽填充藥水瓶\n* 透過背包介面中的按鈕使用儲液槽內的藥水\n* 在遊戲中按下升級啟動熱鍵即可使用藥水\n\n目前**需要安裝 [機械動力 (Create)](https://modrinth.com/mod/create)**，因為此模組使用機械動力中的藥水液體系統。",
+  "bodyHash": "cb33e38ba1e12f28",
+  "content": "\n\n![Demo](https://raw.githubusercontent.com/Mephodio/SophisticatedInjections/refs/heads/master/media/demo.gif)\n\n為 [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) 設計的附加模組，新增一種升級功能，可快速從儲液罐中使用藥水。\n\n* 可直接將藥水從瓶子倒入儲液罐，並將儲液罐中的藥水裝入瓶子\n* 在背包介面中按下按鈕，即可從儲液罐使用藥水\n* 在遊戲中按下升級啟動快捷鍵，即可使用藥水\n\n目前**需要 [Create](https://modrinth.com/mod/create)**，因為此模組使用來自 Create 的藥水液體。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

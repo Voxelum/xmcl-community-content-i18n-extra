@@ -1,6 +1,6 @@
 {
-  "bodyHash": "DANV6Hs2/r0=",
-  "content": "缺少鑲金黑石...抱歉，我會加上去。另外也很喜歡校準的伏聆振測器。\n\n螢光礦石附加元件將以下方塊改為自發光材質，以符合Bare Bones藝術風格：\n\n- 紫水晶芽與方塊（包含校準的伏聆振測器）\n\n- 所有礦石，包含地獄石英礦與地獄金礦，但煤炭礦與紅石礦除外\n\n- 粗礦方塊\n\n- 附魔台\n\n此資源包需要peppercode1的Continuity模組或Optifine才能運作。\nContinuity：https://modrinth.com/mod/continuity\n\n並且需要將robotpants製作的Bare Bones資源包安裝在其下方才能正常運作。\n在Curseforge取得Bare Bones：[連結](https://www.curseforge.com/minecraft/texture-packs/bb)\n\n或\n\n需要將DiamondIsntHere製作的Trailers Vision資源包安裝在其下方才能正常運作。\n在Modrinth取得Trailers Vision：[連結](https://modrinth.com/resourcepack/trailers-vision)\n\n注意：在1.20及更高版本載入此資源包時，請忽略「您確定要載入這個資源包嗎？此資源包是為舊版Minecraft製作，可能無法正常運作。」的提示。我已測試過此資源包，運作完全正常。",
+  "bodyHash": "4526a030ef97ac63",
+  "content": "\n\n還缺了鑲金黑石……也許吧，我會把它加進去。另外也很喜歡校準幽匿感測器。\n\nEmissive Ores Addon 會將以下方塊改為發光狀態，以符合 Bare Bones 的美術風格：\n\n- 紫水晶芽與紫水晶塊（包含校準幽匿感測器）\n\n- 所有礦石，包括下界石英礦與下界黃金礦，但排除煤炭礦與紅石礦\n\n- 原礦塊\n\n- 附魔台\n\n此資源包需要安裝由 peppercode1 開發的 Continuity 或 OptiFine 才能運作。\nContinuity：https://modrinth.com/mod/continuity\n\n並需搭配由 robotpants 製作的 Bare Bones 資源包作為底層資源包使用。\n在 CurseForge 下載 Bare Bones：[Link](https://www.curseforge.com/minecraft/texture-packs/bb)\n\n或\n\n由 DiamondIsntHere 製作的 Trailers Vision 資源包作為底層資源包使用。\n在 Modrinth 下載 Trailers Vision：[Link](https://modrinth.com/resourcepack/trailers-vision)\n\n請忽略此提示：「您確定要載入此資源包嗎？此資源包是為較舊版本的 Minecraft 製作，可能無法正常運作。」當您在 1.20 及更高版本載入此資源包時會出現此提示。我已經測試過此資源包，它可以完美運作。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "66c3750ecac79bc7",
+  "content": "\n\n# More Harnesses Mod\n\n這是一個為 **Happy Ghast** 新增各種挽具物品的模組。預設情況下，Happy Ghast 的移動速度相當緩慢。本模組引入了挽具，可以**提升其速度與防禦力**，使其在旅行或戰鬥中更具實用性。\n\n必要模組：MCPitanLib、Architectury API\n（若使用 Fabric Loader，則還需安裝 Fabric API）\n\n## 功能特色\n\n- **全新挽具物品**：\n  - 銅製挽具\n  - 鐵製挽具\n  - 金製挽具\n  - 鑽石挽具\n  - 翡翠挽具\n  - 獄髓挽具\n- 每種挽具都能為 Happy Ghast 提供**速度**與**護甲**加成。\n- 各挽具的數值可透過 `(game_directory)/config/moreharnesses.json` 進行設定。\n\n## 合成配方\n\n![image](https://cdn.modrinth.com/data/NjhJYONf/images/3eaf3e0338c278b98f74c60e3a2872d770e10339.png)\n\n## 預設配置\n\n```json\n{\n  \"copper_harness_speed\": 0.035,\n  \"iron_harness_speed\": 0.05,\n  \"gold_harness_speed\": 0.075,\n  \"diamond_harness_speed\": 0.1,\n  \"emerald_harness_speed\": 0.15,\n  \"netherite_harness_speed\": 0.15,\n  \"copper_harness_armor\": 1.0,\n  \"iron_harness_armor\": 2.0,\n  \"gold_harness_armor\": 1.5,\n  \"diamond_harness_armor\": 3.0,\n  \"emerald_harness_armor\": 3.0,\n  \"netherite_harness_armor\": 5.0\n}\n\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "LgFzE22WN5s=",
-  "content": "<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_53db002a-cdc3-4490-99bc-d9b359605f88.png\"></p><p style=\"text-align:center\">適用於 1.21+ 版本 Sodium 的智能樹葉剔除演算法</p><h2 style=\"text-align:left\">功能說明</h2><p>此 Sodium 擴充模組針對樹葉的渲染效能進行優化。由於樹葉具有透明特性，通常會消耗較多渲染資源。與其他樹葉剔除效能模組不同，本模組直接注入 Sodium 的區塊網格渲染管線，並提供多種新模式：</p><ul>\n<li>預設採用<em>「固體積極模式」</em>，會將大型樹葉區塊內部以快速不透明的固體模式渲染，同時保持外層樹葉的細緻透明效果。在使用光影模組的茂密森林中，能在不犧牲畫質的前提下顯著提升效能。</li>\n<li>預設模式下唯一可見的視覺差異是平坦樹冠頂部會呈現不透明固體狀。若介意此效果，可改用<em>「固體模式」</em>，採用相同優化技術但不會積極合併樹葉網格。</li>\n<li>另提供傳統<em>「镂空模式」</em>，會大量剔除樹木內部的頂點。此選項對視覺效果影響較明顯，但仍保持良好外觀！</li>\n</ul><p>支援 NeoForge 與 Fabric 版本載點，不提供舊版本回溯支援。</p><p style=\"text-align:center\"><a href=\"https://discord.gg/kS7auUeYmc\" rel=\"nofollow\">Discord 社群</a></p>",
+  "bodyHash": "318056089c9af7b6",
+  "content": "\n\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_53db002a-cdc3-4490-99bc-d9b359605f88.png\"></p>\n<p style=\"text-align:center\">適用於 1.21+ 版本的 Sodium 智慧葉片剔除演算法</p>\n<h2 style=\"text-align:left\">這個模組有什麼功能？</h2>\n<p>此 Sodium 擴充套件可優化葉片效能，由於葉片通常具透明度，渲染成本較高。與其他葉片剔除效能模組不同，本模組直接注入 Sodium 的區塊網格渲染管線，並提供數種新模式。&nbsp;</p>\n<ul>\n<li>預設為<em>「Solid Aggressive」</em>，會將大片葉子區塊的內部以實體不透明的 FAST 模式運作，同時保留外部葉子的 FANCY 模式。在密集森林中使用光影時，這能帶來顯著的效能提升，且不犧牲視覺品質。&nbsp;</li>\n<li>使用預設模式時，唯一能察覺的視覺差異在於平坦樹頂會呈現實體且不透明。若你不習慣這種效果，可改用<em>「Solid」</em>模式，它採用相同最佳化技術，但不會積極合併葉子網格。</li>\n<li>此外也提供較傳統的<em>「Hollow」</em>剔除模式，會積極剔除樹木內部的頂點。此選項在視覺上稍有劣勢，但整體效果依然出色！</li>\n</ul>\n<p>提供 NeoForge 與 Fabric 版本下載。本模組將不會向下移植至舊版本。</p>\n<p style=\"text-align:center\"><a href=\"https://discord.gg/kS7auUeYmc\" rel=\"nofollow\">Discord</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

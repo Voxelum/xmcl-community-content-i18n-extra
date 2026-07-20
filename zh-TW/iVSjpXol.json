@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a2deb14868891c3b",
+  "content": "\n\n這個模組僅提供將 Sodium 的亮度選項從 100% 調整至 1000% 的功能。\n\n![Screenshot showcasing high brightness value in Sodium menu](https://cdn.modrinth.com/data/cached_images/2164ce345691545f0caf94db447cba7c4f922e9f_0.webp)\n\n我製作這個模組的原因，是因為我在尋找一個無需綁定按鍵即可調整亮度的選項。**對我而言**，直接在影像設定中更改是最合理的做法。\n\n如果你正在尋找提供更多最高亮度相關選項的模組，且覺得這個模組無法滿足需求，我強烈推薦 [GammaUtils](https://modrinth.com/mod/gamma-utils)，它是一款相當出色的模組。\n\n## 備註\n\n- 不，我沒有打算支援原版影像設定。\n- 是，我可能會讓最大亮度數值可供自訂設定。\n- 是，我可能會在 Sodium 的選項選單中新增一項，用於切換最大亮度值的啟用狀態。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

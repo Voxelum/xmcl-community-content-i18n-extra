@@ -1,0 +1,6 @@
+{
+  "bodyHash": "410a8b47b47e50e5",
+  "content": "\n\n### 裹着毯子，舒适入眠\nCozy Beds 会在玩家和村民睡觉时为他们盖上毯子，让他们终于能享受裹着毯子的舒适睡眠，而不是仅仅躺在床单上。\n\n[![Cozy Beds 也在 CurseForge 上提供](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/texture-packs/cozy-beds)\n\n![Cozy Beds 资源包展示，模仿广告风格，中央文字写着“没有哪张床比得上温馨的床”](https://i.imgur.com/J0YWhpt.png)\n\n---\n\n## 依赖项\n在 1.21.4 或更高版本中，Cozy Beds 本身无需任何模组即可运行，但若想让村民的手臂被毯子遮挡，则需要安装 EMF 和 ETF（或使用 OptiFine）。\n\n在 1.21.4 之前的版本中，必须安装 Enhanced Block Entities 或功能等效的模组才能使 Cozy Beds 正常工作。\n\n## 兼容性\n用于替换 Cozy Beds 毯子纹理的资源包，必须在资源包选择菜单中排在 Cozy Beds 上方。（需由资源包作者自行配置兼容设置方可生效）\n\nFresh Animations 必须排在 Cozy Beds 下方才能正常运行。\n\n示例：\n\n![正确排序资源包的演示](https://i.imgur.com/nbyzsMY.png)\n\n---\n\n如果觉得舒适睡眠还不够尽兴，不妨试试 [Fancy Beds](https://modrinth.com/resourcepack/fancy-beds)（兼容）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8e4752301a562247",
+  "content": "\n\n![Banner](https://cdn.modrinth.com/data/cached_images/8b6ab12fe78224449b34eadd3eee6b2a77ef0364_0.webp)\n# ⭐ 優化模組包\n**這是一個專注於優化的輕量級模組包，旨在最大化遊戲效能。它僅包含精心挑選的優化模組，不含任何多餘內容，這正是它與其他模組包的不同之處。**\n## ✨ 特色\n- **極致效能**\n- **快速更新**\n- **預設已配置好的設定**\n- **多種選擇（[Sodium](https://modrinth.com/mod/sodium)、[Vulkan](https://modrinth.com/mod/vulkanmod)、[Embeddium](https://modrinth.com/mod/embeddium) 與 [Celeritas](https://git.taumc.org/embeddedt/celeritas)）**\n## 💽 安裝\n- **使用 [Modrinth App](https://modrinth.com/app) 或支援從 Modrinth 安裝模組包的啟動器，例如 [PrismLaucher](https://prismlauncher.org/)**\n- **若您使用的是官方啟動器，請使用 [Modrinth Pack to Zip Converter](https://jamie.codeberg.page/mrpack-to-zip/@master/) 將 .mrpack 轉換為 .zip 檔案**\n## 🧩 Java 與啟動參數\n- **使用 [Java Eclipse Temurin 25](https://adoptium.net/)，並搭配以下啟動參數：`-XX:+UseZGC -XX:+UseCompactObjectHeaders`**\n- **更多詳細資訊，請[閱讀此文章](https://unascribed.com/garden/jvm-args/)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

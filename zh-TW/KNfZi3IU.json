@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5d3cca75cef647c",
+  "content": "\n\n### **自 Minecraft 1.21.9 起，DimWorldBorder 模組已過時，因為原版遊戲將新增為各個維度獨立設定世界邊界的功能！**\n\n**DimWorldBorder** 是一款適用於 NeoForge/Fabric 平台 Minecraft 1.21 的模組，允許伺服器管理員為各個維度（主世界、下界、終界及其他維度）獨立自訂世界邊界。\n  \n**僅限伺服器端；無需安裝於客戶端。**\n  \n**指令系統**  \n使用 `/dimworldborder`（或 `/dwb`）指令可執行以下操作：  \n設定邊界大小：/dimworldborder <維度> set <大小> [時間]  \n擴大/縮小邊界：/dimworldborder <維度> add <距離> [時間]  \n設定邊界中心：/dimworldborder <維度> center <x> <z>  \n調整傷害：/dimworldborder <維度> damage amount <數值> 或 /dimworldborder <維度> damage buffer <數值>  \n設定警告：/dimworldborder <維度> warning distance <方塊> 或 /dimworldborder <維度> warning time <秒數>  \n查看邊界大小：/dimworldborder <維度> get\n  \n**快速開始**  \n在 NeoForge/Fabric 伺服器上安裝此模組（Minecraft 1.21）  \n詳情請於遊戲內輸入 /dimworldborder  \n為各個維度設定邊界",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "fsPNBvEcDpk=",
-  "content": "嘿，你知道吗，当你坠毁飞船时，它就只是停在地上？\n\n我希望坠毁能更有沉浸感，但唯一可选的只有“真实冲击”模组，可那玩意儿真的会摔碎你的飞机！\n\n那如果伤害只是视觉上的呢？\n\n# Sable: Dramatic Impact\nSable: Dramatic Impact 在飞船坠毁时添加了视觉效果爆炸！\n所有效果均可配置，兼容CBC烟雾模组，你的方块不会损坏，\n保证如此！\n\n![坠毁的飞机](https://cdn.modrinth.com/data/cached_images/8934ffca22e4fd18e245f8b4f3ec117746a95a30_0.webp)\n\n\n### 已知问题：\n- 冲击触发条件不够完美，有时不该触发却触发了，有时又触发不足。仍在思考如何解决\n- 碰撞仅作用于物理物体，为螺旋桨和襟翼创建的机械轴承不会引发爆炸。后续会研究修复。",
+  "bodyHash": "dc8eaa35342e6142",
+  "content": "\n\n嘿，你知道当你的飞船坠毁时，它通常只是直接停在地面上吗？\n\n我希望坠毁的体验能更沉浸一些，但当时唯一可用的选项是“真实碰撞（True Impact）”，可这会直接把你的飞机弄坏！\n\n那么，如果伤害仅仅是视觉特效呢？\n\n# Sable：震撼撞击\nSable：震撼撞击会在飞船坠毁时增加纯视觉的爆炸特效！\n所有效果均可自定义配置，支持 CBC 烟雾模组，你的方块绝对不会损坏，\n绝对保证！\n\n![坠毁的飞机](https://cdn.modrinth.com/data/cached_images/8934ffca22e4fd18e245f8b4f3ec117746a95a30_0.webp)\n\n\n### 已知问题：\n- 撞击触发条件尚不完善，有时会在不该触发时误触发，有时又触发不足。正在研究解决方案\n- 碰撞检测仅在物理实体之间生效，为螺旋桨和襟翼添加轴承后不会引发爆炸。正在研究修复此问题。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e916925111882012",
+  "content": "\n\n# DeathLog\n![DeathLog 窗口](https://cdn.modrinth.com/data/cached_images/dfc05b7b7625067b0d63aeaf4c513bd398dce708.png)\n\nDeathLog 会追踪你在所有世界和服务器中的死亡记录。它完全在客户端运行，并记录坐标、维度乃至整个背包等重要元数据。自 0.2.0 版本起，DeathLog 还可以在服务器端运行，追踪该服务器上所有玩家的死亡情况，并提供原生功能以还原死亡快照。DeathLog 可在客户端与服务器端独立使用，无需对方也安装；不过，搭配启用了 DeathLog 的客户端时，管理服务器数据库会便捷得多。\n\n***\n你可以通过原版 *统计信息* 界面查看你的日志。搜索栏支持以下条件的搜索：\n- 物品名称\n- 坐标\n- 世界或服务器名称\n- 死亡信息\n- ...\n\n在创造模式下，你只需使用鼠标滚轮点击即可找回丢失的物品。若你无法使用创造模式，它会自动复制一条合适的 `/give` 命令。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

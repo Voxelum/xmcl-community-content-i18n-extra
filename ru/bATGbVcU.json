@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ab134f4aaa1eb65",
+  "content": "\n\n# Cosmetic Lib\n\nБиблиотечный мод, позволяющий игрокам добавлять косметическую одежду с помощью мода Trinkets и JAR-файла.\n\n### Как добавить новый косметический предмет?\nИспользуйте этот [ExampleMod](https://github.com/Mlodziak00/CosmeticLibExample), чтобы добавить новую одежду, в нём определён пример предмета одежды.\n\n\n### Моды, использующие эту библиотеку:\n- [CosmeticAnew](https://modrinth.com/mod/cosmeticanew)\n\n## FAQ:\n- Что случилось с планами по шляпам/маскам/мелким аксессуарам?\n<p>Я отказался от них, теперь я в основном буду поддерживать кастомную одежду.\n  \n<br>\n<br>\n<hr>\n<p>Хотите играть в Minecraft на приватном сервере с друзьями? Рассмотрите возможность аренды сервера у BisectHosting? Они предоставляют отличные услуги!\n<a href=\"https://bisecthosting.com/Lightglow\" rel=\"noopener nofollow ugc\">\n<img src=\"https://www.bisecthosting.com/partners/custom-banners/2eb3e7a2-d4c6-49bc-8f3c-47afff828ff1.webp\" alt=\"Партнёрство Lightglow и BisectHosting\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2bd458641fa2af03",
+  "content": "\n\n# WorldGenFeatureFix\n\n> 提示：_自 26.1 快照 6 起，Mojang 已將此問題標記為已修復，您在 26.1 版本中可能不再需要此模組。_\n\n## 此模組修復了什麼？\n當自訂世界生成數據包使用帶有水的 `minecraft:lake` 或 `minecraft:snow_and_freeze` 放置特性時，區塊生成器會崩潰。（更多詳情請參見 [MC-273228](https://bugs.mojang.com/browse/MC/issues/MC-273228) 或 [MC-272370](https://bugs.mojang.com/browse/MC/issues/MC-272370)）。   \n受 [此拉取請求](https://github.com/PaperMC/Paper/pull/11086) 啟發，本模組透過套用 Mixins 來使其正常運作。\n## 技術細節\n在 1.21 版本中，區塊生成經過高度最佳化，這無意間破壞了湖泊特性的凍結檢測功能，因為它可能會嘗試存取無法存取的區塊。然而，由於 Mojang 目前僅將湖泊特性用於熔岩湖，此問題在原版 Minecraft 中不會發生——但它確實會影響自訂世界生成器！本模組套用了一組 Mixins，使其回退至 `getUncachedNoiseChunk`，從而讓湖泊特性恢復正常運作。\n## 免責聲明\n不過，該拉取請求也提到 `LakeFeature` 已被棄用，且原版已不再於除熔岩湖以外的任何用途中使用它。\n此處移除不安全區塊存取錯誤的檢查，原本是針對不良程式碼（例如 `LakeFeature` 在建立水湖時的死路徑中所使用的程式碼）所採取的有意義防護措施。雖然這看起來似乎「修復」了當前問題，但這並非妥善的解決方案，並可能導致其他更嚴重的問題未被偵測到。請自行承擔使用風險。（至少在我的伺服器上運作完美）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

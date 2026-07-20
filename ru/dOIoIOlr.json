@@ -1,0 +1,6 @@
+{
+  "bodyHash": "03977e3f7b273094",
+  "content": "\n\nПозволяет настраивать структуры из WDA индивидуально с помощью Sparse Structures. \n\nРанее при вводе команды `/dumpstructuresets` в игре (через Sparse Structures) вы получали только основные и второстепенные наборы структур. Однако в W.D.A. их очень много, и данная совместимость позволяет настраивать каждую отдельную структуру через Sparse Structures. \n![код файла, которым управляет мод](https://cdn.modrinth.com/data/cached_images/a04fe84d32d5049e18c170d77d479cd89fe18ec1.png)\nОсновные структуры — деревня бандитов\n\nВторостепенные структуры — рыбацкая хижина\n\nМне пришлось оставить эти имена файлов без изменений, чтобы переопределять их через датапак.\n\nАрендуйте сервер на WabbNode для хостинга вашего собственного сервера\nhttps://wabbanode.com/affiliate/booglie \n![баннер WabbNode](https://cdn.modrinth.com/data/cached_images/87b19f4b9068d4a344b05dda840b8b088e3be4f7.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

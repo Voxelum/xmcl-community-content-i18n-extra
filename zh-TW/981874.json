@@ -1,0 +1,6 @@
+{
+  "bodyHash": "40501fb7d03e2836",
+  "content": "\n\n<p>安裝此模組後，您可以調整模組新增音效的音量。<br>\n工業類模組通常聲音較大，因此我們開發了此模組來解決這個問題。</p>\n<p>必要模組（使用介面所需）：&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch\" target=\"_blank\" rel=\"nofollow\">MCPitanLib</a>、&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/architectury-api\" target=\"_blank\" rel=\"nofollow\">Architectury API</a><br>\n（於 Fabric Loader 上使用時，也需安裝&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a>）<br>\n模組載入器：Fabric Loader、Minecraft Forge Loader、NeoForge Loader<br>\n授權條款：MIT License<br>\n整合包：可使用</p>\n<p>若未安裝 MCPitanLib，則無法使用圖形化介面，但仍可透過編輯 <code>config/mod_volume_options.json</code> 手動設定選項。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

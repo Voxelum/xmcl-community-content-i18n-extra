@@ -1,0 +1,6 @@
+{
+  "bodyHash": "69402831f3264765",
+  "content": "\n\n<p>Это простой мод, который&nbsp;расширяет механику верховой езды Cobblemon и позволяет более точно настраивать параметры выносливости и скорости при езде, выходя за рамки простого выбора между «бесконечно» и «отключено».<br><br>По умолчанию все значения выносливости установлены на 2.0, что означает удвоенное время до истощения покемона при&nbsp;верховой езде.<br><br>config/hatrixrides/config.json<br>globalLandSpeedModifier | По умолчанию = 1.0<br>globalWaterSpeedModifier | По умолчанию = 1.0<br>globalAirSpeedModifier | По умолчанию = 1.0<br>globalLandStaminaMultiplier | По умолчанию = 2.0<br>globalWaterStaminaMultiplier | По умолчанию = 2.0<br>globalAirStaminaMultiplier | По умолчанию = 2.0<br>globalStaminaMultiplier | По умолчанию = 1.0</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

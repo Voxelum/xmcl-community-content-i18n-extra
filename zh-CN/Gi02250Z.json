@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dAzua9zqT9A=",
-  "content": "Almanac 是我制作的模组所使用的库，其中主要包含多个模组之间共享的、与加载器无关的通用代码，用以避免代码重复。\n\nAlmanac 本身仅添加了对空标签导致物品无法堆叠问题的修复，除此之外并没有增加太多其他功能。\n\n<a href=\"https://discord.gg/aPPEPJWG39\">\n<img src=\"https://i.ibb.co/GFT3JFP/req-discord-130x130.png\" alt=\"Discord 服务器邀请链接\">\n</a>",
+  "bodyHash": "2f45febed1dd3796",
+  "content": "Almanac 是一个由我的模组使用的库，主要包含多个模组之间共享的、与加载器无关的代码，以避免代码重复。\n\nAlmanac 本身并不会添加太多内容，除了修复因空标签导致物品无法堆叠的问题。\n\n<a href=\"https://discord.gg/aPPEPJWG39\">\n<img src=\"https://i.ibb.co/GFT3JFP/req-discord-130x130.png\" alt=\"Discord Server Invite Link\">\n</a>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

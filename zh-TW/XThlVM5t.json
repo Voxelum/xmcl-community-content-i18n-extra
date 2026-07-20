@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99656bb0e50feecc",
+  "content": "\n\n## 可收集的 Femboy 交易卡牌 \n\n**賺取、解鎖並與其他玩家交換獨特的卡牌**\n\n**::功能特色::**\n- 64 張不同稀有度的獨特卡牌：從普通到傳說級\n- 透過簡單指令的玩家間交易系統\n- 依稀有度分類的卡包：普通、稀有、史詩、傳說 + 隨機卡包\n- 特殊村民販售獨家物品\n  \n_（目前為測試版）_\n\n**::交易指令::**\n\n發送交易提案：\n\n範例：/tradecard Player123 femboy1(你的物品) femboy2(其他玩家物品) （按 F3+H 查看物品標籤）\n\n接受交易提案：\n\n/tradecard accept\n\n查看所有卡牌與資訊：\n\n/tradecard list \n\n查看交易紀錄：\n\n/tradecard history\n\n查看您的個人資料／統計數據：\n\n/tradecard profile\n\n\n- 衍生自 **Curseforge** 版本 https://www.curseforge.com/minecraft/mc-mods/femboycards\n\n（截圖 - sm6gm1ch，美術設計 - femboycard）\n\n\n[**搭配所有模組的合集**](https://modrinth.com/user/deadp47/mods)\n\n[**彩色磚塊模組**](https://modrinth.com/mod/colored-bricks-mod)\n\n[**小雞乒乓球**](https://modrinth.com/mod/baby-chicken-ping-pong)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

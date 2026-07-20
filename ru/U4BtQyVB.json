@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d730d495e93f8f66",
+  "content": "\n\n# Переработка двери\n\n<img align=\"right\" width=\"120px\" height=\"120px\" src=\"https://cdn.modrinth.com/data/U4BtQyVB/4ead4ebb3f86686d36da4d26f5be9aebdfbde9ec_96.webp\" alt=\"Значок переработки двери\">\n\nПерерабатывайте двери на 2 доски в Minecraft!\n\n[![Discord](https://img.shields.io/badge/Join%20our%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wgSCCaQN5W)\n\n![Рецепт переработки двери](https://cdn.modrinth.com/data/U4BtQyVB/images/5382ff2dc13cd56076a98adc0580825bf287e7ff.png)\n\n## Установка\n\n### Датпак\n1. Скачайте датпак.\n2. Скопируйте файл .zip в папку datapacks, которая находится по пути `%APPDATA%\\.minecraft\\saves\\<your-world-name>\\datapacks` (в Windows).\nЗамените `<your-world-name>` на название вашего мира.\n3. Перезагрузите мир или выполните команду `/reload`.\n\n### Мод\n1. Скачайте мод.\n2. Скопируйте скачанный файл `.jar` в папку mods, которая находится по пути `%APPDATA%\\.minecraft\\mods` (в Windows).\n3. Перезагрузите мир или выполните команду `/reload`.\n\n\n## Отчёты об ошибках и предложения\nЕсли вы обнаружили ошибки или вам нужна поддержка, свяжитесь с нами, присоединившись к [нашему серверу Discord](https://discord.gg/wgSCCaQN5W).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

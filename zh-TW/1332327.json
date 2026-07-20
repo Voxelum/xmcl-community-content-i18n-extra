@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5e79b1ae59683bd0",
+  "content": "\n\n<p>此模組允許您透過 KubeJS 動態控制冠軍怪物的生成率。您可以在 champions-server.toml 中查看各個階段提供的冠軍怪物生成率設定，並透過 KubeJS 進行配置。</p>\n<p>&nbsp;</p>\n<p>（KubeJS 為選裝模組，但若未安裝 KubeJS 進行修改，本模組將無法發揮作用！）</p>\n<p>預設情況下，您可以在 KubeJS 中套用新的階段來控制冠軍怪物的生成率。</p>\n<p><br>您可以參考下方的圖片獲取部分腳本教學。</p>\n<p>例如，若我將階段設定為 Kether，世界中將會生成大量高星級怪物（若條件允許）。</p>\n<p>&nbsp;</p>\n<p>此模組是為 Reverie Foundry 整合包所開發的！</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_d994d223-86d3-4514-b80c-9133e310d7f6.png\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

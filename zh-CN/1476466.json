@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7c49df45fe23e3b9",
+  "content": "\n\n<p>KubeJEI 允许开发者通过 KubeJS 自定义 JEI（Just Enough Items）。目前，它支持创建新的 JEI 配方显示条目、隐藏指定物品，或重新显示已被隐藏的物品。结合作者的实际开发经验，该工具还提供了 <code style=\"font-size:16px;font-weight:400;line-height:24px;text-align:left;display:inline;background-color:rgba(0, 0, 0, 0)\">/kubejei reload</code> 命令用于 JEI 配置的热重载，并提供了 JEI 的多种纹理资源，以便开发者灵活定制和创建 JEI 页面。</p>\n<p>示例代码请参阅 <a href=\"https://github.com/BadMiiickey/KubeJEI/wiki\" target=\"_blank\" rel=\"nofollow\">https://github.com/BadMiiickey/KubeJEI/wiki</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

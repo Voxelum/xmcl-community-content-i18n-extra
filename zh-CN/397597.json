@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b08c081c32146a76",
+  "content": "\n\n<p>将史莱姆块放回红石标签页，这是它本应所在的地方。</p>\n<p>仅此而已。无需服务端支持，仅限客户端使用。</p>\n<p>此版本新增了两个配置文件，一个用于将物品/标签移至标签页，另一个用于创建新标签页。\n要移动物品，请在 <code>slimeblock_item_config.txt</code> 中输入 <code>namespace:item : TAB</code>。要移动标签，请在 <code>slimeblock_item_config.txt</code> 中输入 <code>#namespace:tag : TAB</code>。</p>\n<p>要创建新标签页，请在 <code>slimeblock_group_config.txt</code> 中输入 <code>your_namespace:tab_name : namespace:logo_item</code>。</p>\n<p>配置文件会自动生成。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

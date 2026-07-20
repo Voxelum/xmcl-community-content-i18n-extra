@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e20c6ae799fecaf5",
+  "content": "\n\n## RemoveAmbientFOV：一款停用自動視野變動的客戶端 Fabric 模組\n\nRemoveAmbientFOV 是一款**客戶端 Fabric 模組**，可移除由**加速效果（Beacon Speed）**與**靈魂疾行（Soul Speed）**等移動相關效果所引發的「自動」視野（FOV）變動，同時不會影響其他移動修正（如衝刺、藥水）。\n\nMinecraft 會根據特定狀態效果調整視野，以呈現移動的感覺。雖然這能帶來沉浸感，但對已經習慣高視野遊玩的人來說（例如我），這種調整可能會造成明顯的眩暈或方向感錯亂。本模組讓你能夠自行控制此行為，且完全不會更動任何遊戲機制。\n\n**此模組依賴於函式庫模組 [Roselib](https://modrinth.com/mod/rose-bush)**！\n\n## 設定\n\n**此模組直接整合至 Minecraft 的「無障礙選項」選單中**，提供兩個切換開關：\n\n* **加速效果視野變動**\n* **靈魂疾行視野變動**\n\n每個選項均可獨立開啟或關閉，並會儲存至簡單的 JSON 設定檔中：\n\n```\n.minecraft/config/removeambientfov.json\n```\n\n![選項介面](https://cdn.modrinth.com/data/cached_images/f9dfae9e8d6fc544f31cfa214e82946f6fdb0745.png)\n\n\n## 相容性與其他注意事項\n**此模組應與大多數不會強烈覆寫視野邏輯的模組相容。**\n\nRemoveAmbientFOV 的靈感來自 [Custom FOV](https://modrinth.com/mod/custom-fov-illusive) 等模組，但並非旨在與其競爭或取代它們。相反地，它專注於**自動視野變動**（例如加速效果與靈魂疾行），而非提供廣泛或全域的視野自訂功能。\n\n其功能可能與 [Soul Speed FOV Fix](https://modrinth.com/mod/soul-speed-fov-fix) 等模組重疊。RemoveAmbientFOV 是一個獨立的開源實作，旨在滿足較小眾的需求，同時對客戶端保持極輕量的資源消耗。\n\n這些模組在我的 `fabric.mod.json` 中並未明確標示為不相容，或許在運氣好的情況下它們確實可以共存。但在收到其他回報之前，它們將持續維持「相容」的狀態。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

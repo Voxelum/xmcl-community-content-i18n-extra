@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a0f50f11b1cfd6ba",
+  "content": "\n\n# 实用 HUD\n本模组添加了一些我个人认为非常实用的 HUD。就是这么简单！\n\n## HUD 列表\n- 方位指示器\n- 基岩版风格的坐标、已游玩天数和当前时间指示器！\n- 快捷栏坐标显示！\n- 更多内容即将推出！\n\n## 示例\n（V1.0 + V2.0）\n![游戏内 1.0 + 2.0 版本](https://cdn.modrinth.com/data/cached_images/84ba35d7fbc1d113ef2e92258c41b9825704cb7e.png)\n\n## 26/03/27\n本模组现已支持多个平台，包括：\n- Forge\n- Fabric\n- NeoForge（客观上比 Forge 更好）\n\n同时支持部分 Minecraft 主要版本，包括：\n- 1.20.1\n- 1.21.1\n- 1.21.4（原本在模板代码中就存在，但我还是保留了它，因为 API 发生了一些变化）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

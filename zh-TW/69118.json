@@ -1,6 +1,6 @@
 {
-  "bodyHash": "UBnR8NEpYL4=",
-  "content": "<p>Morpheus 是一款僅限伺服器端的模組，為基於 Forge 的伺服器添加了睡眠投票功能。當一名玩家入睡時，同一維度的所有其他玩家都會收到通知，以便更容易協調。此外，您可以配置需要多少比例的玩家才能讓時間變為早晨（預設為 50%），訊息可以在配置中自定義，如果需要，也可以關閉提醒。</p><p>&nbsp;</p><p>模組包權限：</p><p>雖然 Morpheus 是伺服器端模組，但在某些情況下，將其包含在客戶端可能有用（應能在「區域網路開放」模式下運行），您可以自由地將其包含在您的模組包中，無論是僅作為伺服器端模組還是作為伺服器+客戶端模組。</p><p>重新分發：目前不允許重新分發，但 FTB 除外，他們被允許重新分發 Morpheus 以及我的任何其他模組。</p><p>&nbsp;</p><p>Discord：&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fquetzi.tv%252fdiscord\" target=\"_blank\" rel=\"nofollow\">https://quetzi.tv/discord</a></p>",
+  "bodyHash": "d1f9899e3eff6cb0",
+  "content": "\n\n<p>Morpheus 是一款僅限伺服器的模組，為基於 Forge 的伺服器新增了睡眠投票功能。當玩家入睡時，系統會通知同一維度中的所有其他玩家，以便更容易協調。</p>\n<p>&nbsp;</p>\n<p>模組整合包授權：</p>\n<p>雖然 Morpheus 是伺服器端模組，但在某些情況下將其包含於客戶端可能會有所幫助（應可在「對區域網路開放」功能中運作）。您可以自由選擇將其作為僅限伺服器端的模組或伺服器+客戶端模組納入您的整合包中。</p>\n<p>重新分發：目前不允許重新分發，FTB 除外。FTB 獲准重新分發 Morpheus 以及本人的任何其他模組。</p>\n<p>&nbsp;</p>\n<p>Discord：<a href=\"/linkout?remoteUrl=https%253a%252f%252fquetzi.tv%252fdiscord\" target=\"_blank\" rel=\"nofollow\">https://quetzi.tv/discord</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

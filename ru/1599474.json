@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77c831d02b7a8156",
+  "content": "\n\n<p>Кроме того, мод предотвращает заражение вампирами и оборотнями рас, отличных от людей или охотников, и накладывает эффект Иссушения на вампиров и оборотней при попытке укусить или высосать кровь.</p>\n<p>Для работы данного мода требуются *Vampirism* и *Origins*.<br>Помимо *Werewolves*, мод также совместим с *Strictly Origins*.</p>\n<p>Настройки мода можно изменить с помощью следующих команд:</p>\n<p>/origins_vamp_compat witherProtected &lt;true|false&gt;<br>/origins_vamp_compat infectProtected &lt;true|false&gt;<br>/origins_vamp_compat protectHuman &lt;true|false&gt;<br>/origins_vamp_compat witherHuman &lt;true|false&gt;<br>/origins_vamp_compat status</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

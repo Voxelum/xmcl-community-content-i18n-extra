@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a9bd7b64c89c93a",
+  "content": "\n\n預設情況下，**Cobblemon Raid Dens** 允許巢穴首領使用自訂巢穴，而 **Cobblemon Raid Dens Addon - Raid Den Designs** 則是透過**基於名稱的 JSON 清單**來分配這些競技場。\n\n這意味著每隻寶可夢都必須手動新增至對應的競技場清單中。\n\n當新增 Cobblemon 巢穴首領時……每一隻通常都必須在能夠於預期的巢穴設計中生成之前，手動輸入至正確的 JSON 檔案中。\n\n隨著巢穴首領清單越來越長，維護工作將變得相當困難。\n\n***\n\n## DesignerRaid 的功能\n\nDesignerRaid 將整個流程自動化。\n\n與其檢查寶可夢的**名稱**，DesignerRaid 會改查閱巢穴首領寶可夢的**主要屬性**，並自動分配正確的巢穴競技場。\n\n無需手動維護寶可夢名稱清單。\n\n### 範例\n\n*   **火** → 火焰競技場\n*   **水** → 水流競技場\n*   **電** → 電力競技場\n*   **冰** → 寒冰競技場\n*   **草 / 蟲 / 妖精** → 草系競技場\n*   **岩石 / 地面 / 格鬥** → 格鬥競技場\n*   **惡 / 幽靈 / 超能力** → 惡系競技場\n\n這表示新加入的巢穴首領可以立即套用對應的巢穴設計，無需再手動編輯 JSON 清單。\n\n***\n\n## 為什麼要使用它？\n\n*   自動支援新加入的巢穴首領\n*   相容於自訂 Cobblemon 與 Fakemon（自製寶可夢）\n*   不再需要維護龐大的名稱對照 JSON 檔\n*   根據屬性自動保持巢穴設計與首領的完美匹配\n\n***\n\n## 必要模組\n\n*   Cobblemon\n*   Cobblemon Raid Dens\n\n***\n\n## 必要數據包\n\n[Cobblemon Raid Dens Addon - Raid Den Designs](https://modrinth.com/datapack/cobblemonraiddens-typedesigns)\n\n由 **TertiXOfficial** 開發\n\n此數據包提供了 DesignerRaid 所使用的自訂巢穴競技場結構，且為伺服器世界數據包的必要組件。\n\n***\n\n## 鳴謝\n\n特別感謝 **TertiXOfficial** 開發 **Raid Den Designs**，以及 **Necroso1** 開發 Cobblemon Raid Dens。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

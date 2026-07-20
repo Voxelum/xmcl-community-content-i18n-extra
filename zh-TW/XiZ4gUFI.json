@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f3d5318a617aa11a",
+  "content": "\n\n## 村民模組\n\n為《Minecraft》村落新增 **6 種自訂 NPC 村民**，他們會自然生成於村落中，各自擁有專屬房屋與獨特機制。\n\n## 六大村民\n\n| 村民類型 | 功能說明 |\n|---|---|\n| 🗡️ 傭兵守衛 | 跟隨並保護你。穿戴鐵甲，造成 5 顆心的傷害。僅你能將其解雇。 |\n| 🏹 賞金獵人 | 右鍵設定賞金目標 — 擊殺該類生物即可獲得綠寶石獎勵。 |\n| 🏦 銀行家 | 右鍵進行綠寶石存取款。資料跨遊戲存檔保留。 |\n| 🛏️ 旅店老闆 | 右鍵休息並恢復生命值。 |\n| 📚 學者 | 開啟商店介面 — 可使用綠寶石購買任意等級的附魔書。 |\n| ⚰️ 掘墓人 | 死亡時記錄你的物品欄，方便你重新取回物品。 |\n\n## 指令\n\n- `/vspawn guard / bounty / banker / innkeeper / scholar / gravedigger` — 手動生成任意一種村民\n- `/villager house <type>` — 在你所在位置建造該村民的房屋\n\n## 需求\n- Minecraft 1.21.1\n- Fabric Loader ≥ 0.16.9\n- Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0da481d9c4ef451",
+  "content": "\n\n<h1>Lum 着色器版 [非官方 LabPBR 分支]</h1>\n<p>这是 <a href=\"https://www.curseforge.com/minecraft/texture-packs/lum\" rel=\"nofollow\">Lum</a> 的<strong>非官方</strong>分支，专为 <a href=\"https://www.curseforge.com/minecraft/mc-mods/betternether\" rel=\"nofollow\">BetterNether</a> 与 <a href=\"https://www.curseforge.com/minecraft/mc-mods/betterend\" rel=\"nofollow\">BetterEnd</a> 打造。</p>\n<p>它使用 <a href=\"/linkout?remoteUrl=https%253a%252f%252fshaderlabs.org%252fwiki%252fLabPBR_Material_Standard\" rel=\"nofollow\">LabPBR</a>（标准着色器材质格式）来实现自发光效果。</p>\n<h2>主要功能</h2>\n<p><strong>为 Lum 的自发光添加了着色器兼容性。</strong></p>\n<p>原版 Lum 使用 BCLib 自发光格式，需要单独修改着色器或安装兼容模组才能与着色器配合使用。而 LabPBR 开箱即用，兼容大多数着色器。</p>\n<h2>截图</h2>\n<p><img src=\"https://media.forgecdn.net/attachments/880/956/banner_off.png\" alt=\"Lum 关闭\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/880/959/banner_on.png\" alt=\"Lum 开启\"></p>\n<h2>问题排查</h2>\n<p>要在游戏中看到自发光效果，<strong>请务必在着色器设置中开启 LabPBR 支持</strong>。几乎所有主流着色器都支持该功能，通常位于“Materials”选项卡中。</p>\n<p>该资源包适用于 <strong>1.19 及以上版本</strong>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

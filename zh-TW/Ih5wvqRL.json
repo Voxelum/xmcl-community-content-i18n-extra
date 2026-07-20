@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1ae53ae86ee34ae2",
+  "content": "\n\n將來自《泰拉瑞亞》的**天頂劍**帶入《我的世界》。<br/>\n它可以與**木劍**、**石劍**、**鐵劍**、**金劍**、**鑽石劍**、**下界合金劍**、**深海之心**、**下界之星**以及一瓶**龍息**合成。<br/>\n你可以使用**zenith:zenith_parts** 資料組件(1.21.1)或物品的 NBT 資料(1.20.1)來自訂天頂劍的外觀。<br/>\n範例：<br/>\n1.21.1：<br/>\n```\n/give @p zenith:zenith[zenith:zenith_parts=[{\"item\":\"minecraft:wooden_sword\", \"color\":5849881, \"rotation_center_height\":0.125, \"rotation\":0.785, \"scale\":1.75, \"trail_width\":1}, {\"item\":\"minecraft:diamond_sword\", \"color\":5565173, \"rotation_center_height\":0.125, \"rotation\":0.785, \"scale\":1.75, \"trail_width\":1}]]\n```\n<br/>\n\n1.20.1：<br/>\n```\n/give @p zenith:zenith{\"zenith_parts\":[{\"item\":\"minecraft:wooden_sword\", \"color\":5849881, \"rotation_center_height\":0.125, \"rotation\":0.785, \"scale\":1.75, \"trail_width\":1}, {\"item\":\"minecraft:diamond_sword\", \"color\":5565173, \"rotation_center_height\":0.125, \"rotation\":0.785, \"scale\":1.75, \"trail_width\":1}]}\n```\n<br/>\n\n![天頂劍](https://cdn.modrinth.com/data/Ih5wvqRL/images/ef39f083e6710796b447cef3daa02ee27da49d7f.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

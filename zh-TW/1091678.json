@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3a1d8c1aefe664b3",
+  "content": "\n\n<h1>平滑天空</h1>\n<p>一款非常簡單的模組，在使用高渲染距離（例如搭配 Nvidium）時，能讓霧氣顏色更平滑過渡！此外還包含其他可自訂功能，請查看圖庫以獲取截圖及下方說明！</p>\n<h2>功能特色</h2>\n<ul>\n<li>設定霧氣視距\n<ul>\n<li>修正使用高渲染距離時的霧氣生硬截斷問題</li>\n</ul>\n</li>\n<li>降低天空虛空黑暗度\n<ul>\n<li>將虛空黑暗度調整為僅在世界最低 Y 值附近顯示，而非固定數值</li>\n</ul>\n</li>\n<li>Clear Skies\n<ul>\n<li>移植自 grondag 的 Clear Skies 模組</li>\n</ul>\n</li>\n</ul>\n<a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fmicrocontrollers\" target=\"_blank\" rel=\"nofollow\">\n  <img alt=\"Ko-fi 贊助\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_vector.svg\">\n</a>\n<a href=\"/linkout?remoteUrl=https%253a%252f%252fcodeberg.org%252fMicrocontrollersDev%252fSmooth-Skies\" target=\"_blank\" rel=\"nofollow\">\n  <img alt=\"Codeberg\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg\">\n</a>\n<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsmooth-skies\" target=\"_blank\" rel=\"nofollow\">\n  <img alt=\"Modrinth\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg\">\n</a>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

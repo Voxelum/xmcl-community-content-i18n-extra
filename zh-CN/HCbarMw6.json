@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1a6246515837b4e",
+  "content": "\n\n让 [Litematica](https://github.com/maruohon/litematica) 能够在服务器上粘贴方块实体数据 / 实体数据\n\n通过自定义聊天数据包绕过聊天长度限制，使客户端能够直接将方块实体或实体的 NBT 标签追加到 `/setblock` 或 `/summon` 命令中\n\n需要同时在客户端和服务器安装才能生效。\n\n客户端仅需安装 Litematica 模组。服务端无需任何额外依赖。\n\n若你的 Litematica 模组中存在这两个配置项，你需要将 `commandUseWorldEdit` 设为 `false`，并将 `pasteNbtRestoreBehavior` 设为 `None`，此模组才能正常工作。\n\n不过，如果方块状态与蓝图一致，则不会再次粘贴方块实体数据。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "72e8b4dd32467b98",
+  "content": "\n\n<p style=\"text-align:center\"><img style=\"text-align:center\" src=\"http://i.imgur.com/WKZ2Z1u.png\" alt=\"JourneyMap\" width=\"250\" height=\"250\"></p>\n<h1>JourneyMap Server - Bukkit</h1>\n<p>Позволяет JourneyMap определять миры на серверах BungeeCord.&nbsp;<br>Обратите внимание: данный мод предоставляет только worldId для серверов с несколькими мирами, он не открывает доступ к панелям управления сервером через JourneyMap на клиенте.<br>Для доступа к панели управления необходимо использовать мод Forge на сервере Forge.<br><br></p>\n<p>Пожалуйста, посетите страницу в вики для получения документации: <a href=\"/linkout?remoteUrl=http%253a%252f%252fjourneymap.info%252fJourneyMapServer\" rel=\"nofollow\">http://journeymap.info/JourneyMapServer</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

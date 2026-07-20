@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0fbdd45695c219d5",
+  "content": "\n\n## Обзор\n1. Источник вдохновения для мода: [Crafting Recipe Exporter](https://www.mcmod.cn/class/18157.html)\n2. Предназначен для более удобного визуального создания рецептов моддерами. Рекомендуется использовать совместно с [kubejs](https://www.mcmod.cn/class/2450.html).\n\n## Использование\n- /re <workstation_type>\n- /recipeexporter <workstation_type>\n- /recipeexporter <+Ниже указаны соответствующие ID рабочих блоков, открывающие различные интерфейсы.>\n- [пример: /recipeexporter furnace]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

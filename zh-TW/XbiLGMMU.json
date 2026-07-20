@@ -1,6 +1,6 @@
 {
-  "bodyHash": "osDh6DtaJFY=",
-  "content": "# Jupiter\n\nJupiter 是一個功能強大的自動同步配置庫。\n\n**重要通知：Jupiter V2 與基於 V1 的模組不相容！**\n\n## 功能特色\n\n### 給玩家\n\n- 方便的遊戲內配置編輯介面。\n- 若你連接到專用伺服器並擁有適當的權限，可自動與伺服器同步。\n\n### 給開發者\n\n**關於使用方法，請參閱[文件](https://docs.iafenvoy.com/docs/library/jupiter)。**\n\n- 簡單建立配置實例。\n- 配置支援 `int`、`double`、`string`、`list` 等類型。\n- 自訂編解碼器（Codec）的配置項目：可為任何數值類型新增配置項目。\n- 專用伺服器配置的權限控制。\n\n### 外部配置系統\n\n外部配置系統旨在從其他配置系統載入配置檔案。透過此系統載入的配置也可使用 Jupiter 的功能，例如自動產生的配置介面與專用伺服器同步。\n\n目前已支援：\n\n- (Neo)Forge 配置系統（亦相容於 `Forge Config API Port`）\n- Cloth Config API\n\n## 特別感謝\n\n- `masady`：`Malilib` 的作者，配置介面設計部分借鑒於此。\n- `Fuzs`：`Forge Config API Port` 的作者：其通用 API 讓 `Jupiter` 能更便利地載入 (Neo)Forge 配置。\n\n## Discord\n\nhttps://discord.gg/NDzz2upqAk",
+  "bodyHash": "d9f42b016a25b31f",
+  "content": "\n\n# Jupiter\n\nJupiter 是一款功能強大的自動同步設定檔庫。\n\n**重要通知：Jupiter V2 與基於 V1 的模組不相容！**\n\n## 功能特色\n\n### 針對玩家\n\n- 提供便捷的遊戲內設定編輯畫面。\n- 當您連線至專用伺服器且擁有適當權限時，可與伺服器自動同步設定。\n\n### 針對開發者\n\n**使用方式請參閱[文件](https://docs.iafenvoy.com/docs/library/jupiter)。**\n\n- 簡易建立設定實體。\n- 設定檔支援 `int`、`double`、`string`、`list` 等類型。\n- 基於自訂編解碼器（codec）的設定項目：您可以為任何數值類型新增設定項目。\n- 專用伺服器設定的權限控制。\n\n### 額外設定系統\n\n額外設定系統旨在從其他設定系統載入設定檔。透過此系統載入的設定檔同樣可以使用\nJupiter 的功能，例如自動生成的設定畫面與專用伺服器同步。\n\n目前支援：\n\n- (Neo)Forge 設定系統（亦相容於 `Forge Config API Port`）\n- Cloth Config API\n\n## 特別感謝\n\n- `masady`：`Malilib` 的作者，設定畫面設計部分參考了該模組。\n- `Fuzs`：`Forge Config API Port` 的作者，`Jupiter` 能透過其通用 API 更便捷地載入 (Neo)Forge 設定檔。\n\n## Discord\n\nhttps://discord.gg/NDzz2upqAk",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

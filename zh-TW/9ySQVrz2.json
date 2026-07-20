@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31ea4b29406bdf88",
+  "content": "\n\n<p>Redstone Tools 旨在透過提供指令、WorldEdit 擴充功能、巨集等實用紅石相關工具，來改善您的紅石建造工作流程。</p>\n<p>&nbsp;</p>\n<h4>社群</h4>\n<p>如果您對本模組有任何問題、想建議新功能，或是只是想來聊聊，歡迎加入我們的 <a href=\"https://discord.gg/wAu9k2fGyK\">Discord 伺服器</a>！</p>\n<p>&nbsp;</p>\n<h4>巨集</h4>\n<p>Redstone Tools 的巨集系統允許使用者定義並使用巨集，這些巨集可以透過執行指令或按下快捷鍵來觸發。</p>\n<p>&nbsp;</p>\n<h4>WorldEdit 擴充功能</h4>\n<p>Redstone Tools 新增了一系列與 WorldEdit 互動的指令，舉例來說有 //minsel（會將您的選區最小化，也就是移除所有周圍的空氣層）或 //read（會讀取選區內容並將其解讀為二進位數，方便除錯）。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

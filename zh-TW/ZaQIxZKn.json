@@ -1,6 +1,6 @@
 {
-  "bodyHash": "LAgiFh3sYhs=",
-  "content": "這是一個函式庫模組，包含從 Xaero 的小地圖 (25.3.2 版) 與 Xaero 的世界地圖 (1.40.2 版) 起所需且必須使用的程式碼。\n\n地圖模組本身及其詳細功能說明可以在這裡找到：\n\n[Xaero 的小地圖](https://modrinth.com/mod/xaeros-minimap)\n\n[Xaero 的世界地圖](https://modrinth.com/mod/xaeros-world-map)\n\n只有在 Minecraft 1.16.5 與 1.12.2 版本的 Forge 上才需要安裝此模組。**如果沒有這個函式庫，地圖模組將無法運作。**\n\n在較新的 Minecraft 版本以及 Fabric/Quilt 上，函式庫已預設包含在地圖模組中，因此您不需要單獨安裝，這也是為何此處找不到相關檔案的原因。\n\n## 給開發者：\n請閱讀地圖模組頁面中的「給開發者」章節。",
+  "bodyHash": "2b5b36be7925982d",
+  "content": "\n\n這是一個程式庫模組，包含 Xaero's Minimap 與 Xaero's World Map（自 25.3.2 版與 1.40.2 版起）所需使用的程式碼。\n\n這些地圖模組本身及其詳細功能說明可於此處查看：\n\n[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)\n\n[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)\n\n僅需在 Minecraft 1.16.5 與 1.12.2 的 Forge 環境中安裝此模組。**_若無此程式庫，地圖模組將無法運作。_**\n\n在較新的 Minecraft 版本以及 Fabric/Quilt 平台中，該程式庫已預設內建於地圖模組內，因此您無需另行安裝，這也是為何您在此找不到相關檔案的原因。\n\n## 給開發者：\n請閱讀地圖模組頁面中的「給開發者」章節。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

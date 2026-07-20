@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7a8f8ca78a20ec19",
+  "content": "\n\n### 描述\n此数据包使弓上的“经验修补”与“无限”附魔兼容并正常工作！无需复杂的自定义配方，只需像处理其他附魔一样使用铁砧即可。 \n\n### 安装指南\n\n在 Windows 系统中，前往你的存档文件夹，路径如下：\n```\nC:\\Users(your name)\\AppData\\Roaming\\.minecraft\\saves\n```\n  将压缩包放入数据包文件夹中，然后重启你的世界或执行      /reload\n\n### 注意事项\n\n- 如需反馈、报告错误或寻求其他帮助，请通过本页面链接部分的 [Discord 服务器](https://discord.gg/kk3j3ct6xk) 加入我们！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

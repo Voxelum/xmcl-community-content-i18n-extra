@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ryQdHPJSJxM=",
-  "content": "## Библиотека HandShaker\n\n---\n\n**Библиотечный мод для HandShaker (fabric/neoforge) — мод для поддержки разных версий**\n\n---\n\nНичего особенного, просто библиотечный мод для [модификации Hand Shaker](https://modrinth.com/plugin/hand-shaker) для серверов Neoforge и Fabric, который упрощает исправление проблем между версиями Minecraft, перенося проблемные части в отдельную библиотеку.\n\n",
+  "bodyHash": "5c034e11a75603ae",
+  "content": "\n\n## Библиотека HandShaker\n\n---\n\n**Мод-библиотека для HandShaker (Fabric/NeoForge), обеспечивающая кросс-версионную поддержку**\n\n---\n\nНичего особенного, это просто мод-библиотека для [Hand Shaker Mod](https://modrinth.com/plugin/hand-shaker) для серверов Neoforge и Fabric, которая упрощает исправления между версиями Minecraft за счёт вынесения проблемных частей в отдельную библиотеку.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

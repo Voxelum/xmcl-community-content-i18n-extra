@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b882a10c7c0dbe44",
+  "content": "\n\n![Nvidium 渲染大量地形几何体](https://i.imgur.com/k8A1buX.jpg)\n\nNvidium 是 Sodium 的替代渲染后端，它仅使用 NVIDIA 专属的 OpenGL 扩展，以显著提升帧率。\n\n## 兼容性\n本模组明确要求显卡为支持网格着色器（Mesh Shaders）的 NVIDIA GPU。 \n该特性于图灵架构中引入，支持网格着色器的 16xx 系列及更新型号（包括 20xx 系列）均可使用。 \n\n### 问：此模组能在非 NVIDIA 系统上运行吗？\n### 答：不能。该模组在非 NVIDIA 系统上无法运行，但 Nvidium 会自动禁用自身，不会影响您的正常游戏。 \n\n## 警告\n本模组使用了较为少见的技术（网格着色器）。这可能导致 Minecraft 意外终止。\n\n## 工作原理\n通过网格着色器，采用了近乎完全由 GPU 驱动的渲染管线，能够极其快速且高效地进行地形几何体剔除，从而使您的 GPU 能以更高的效率工作。\n\n# 需要 Sodium 才能运行\n## 当 Iris 正在使用着色器时会自动禁用\n\n![ ](https://cdn.modrinth.com/data/cached_images/071b0da4b0956d18fe61c0d1c37f3a92dc3a3f0a.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

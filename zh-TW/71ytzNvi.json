@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bc272c8197b42a05",
+  "content": "\n\n這是一個簡單的模組，可在 `mobGriefing` 遊戲規則設為 `false` 時，讓可配置的生物／實體通過該規則檢查。\n\n預設白名單為 \"minecraft:villager\"。  \n此模組不會以任何方式改變任何生物或實體對 `mobGriefing` 的使用方式，它唯一的作用是允許特定生物通過該項檢查。\n\n將村民設為預設值的原因在於，當 `mobGriefing` 為 `false` 時，村民無法撿起物品，因此也無法進行繁殖 [Villager - Minecraft Wiki](https://minecraft.fandom.com/wiki/Villager#Breeding)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

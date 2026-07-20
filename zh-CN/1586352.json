@@ -1,6 +1,6 @@
 {
-  "bodyHash": "A2vO0VRdWxI=",
-  "content": "<blockquote>\n<p>想让你的女仆拥有《Scorched Guns 2》的火力？现在就能实现！</p>\n</blockquote><p>本模组为<strong>Scorched Guns 2</strong>与<strong>Touhou Little Maid</strong>添加了完整兼容性，让女仆能够自主装备、瞄准并开火使用SC2枪械。</p><p><strong>功能特色：</strong></p><ul>\n<li><strong>自动瞄准与自动开火</strong> — 女仆会主动攻击敌对生物，使用其装备的SC2枪械</li>\n<li><strong>智能换弹</strong> — 弹药耗尽时，女仆会自动从物品栏中补充弹药</li>\n<li><strong>能量武器支持</strong> — 能量武器消耗能量核心，并掉落耗尽的核心</li>\n<li><strong>投掷手榴弹</strong> — 女仆可向敌人投掷手榴弹</li>\n<li><strong>TAC-Z动画兼容</strong> — 与TAC-Z女仆模型配合，实现正确的枪械动画（持枪、瞄准、换弹、奔跑、射击）</li>\n<li><strong>Winefox模型兼容</strong> — 为Winefox模型提供特殊姿态处理</li>\n</ul><p><strong>依赖模组：</strong></p><ul>\n<li><strong>必需：</strong> Scorched Guns 2, GeckoLib, Framework, Touhou Little Maid</li>\n</ul>",
+  "bodyHash": "48795dfffc51cbca",
+  "content": "\n\n<blockquote>\n<p>是否曾想过让你的女仆拥有 Scorched Guns 2 的火力？现在她们可以了！</p>\n</blockquote>\n<p>本模组为<strong>Scorched Guns 2</strong>&nbsp;与<strong>Touhou Little Maid</strong>提供了完全兼容支持，使女仆能够自主装备、瞄准并射击 SC2 枪械。</p>\n<p><strong>功能特性：</strong></p>\n<ul>\n<li><strong>自动瞄准与开火</strong>&nbsp;&mdash; 女仆会使用装备的 SC2 枪械主动攻击敌对生物</li>\n<li><strong>智能换弹</strong>&nbsp;&mdash; 弹药耗尽时，女仆会自动从背包中取弹匣进行装填</li>\n<li><strong>能量武器支持</strong>&nbsp;&mdash; 能量武器会消耗能量核心，并在打空后掉落废核</li>\n<li><strong>投掷手雷</strong>&nbsp;&mdash; 女仆可以向敌人投掷手雷</li>\n<li><strong>TAC-Z 动画兼容</strong>&nbsp;&mdash; 完美适配 TAC-Z 女仆模型，支持正确的持枪、瞄准、换弹、奔跑及射击动画</li>\n<li><strong>Winefox 模型兼容</strong>&nbsp;&mdash; 针对 Winefox 模型提供特殊的姿态处理</li>\n</ul>\n<p><strong>依赖项：</strong></p>\n<ul>\n<li><strong>必需：</strong> Scorched Guns 2, GeckoLib, Framework, Touhou Little Maid</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

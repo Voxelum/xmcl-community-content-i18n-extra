@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d7337573fdd49e0",
+  "content": "\n\n# Minecraft 与 Wayland\n\n其他模组虽然承诺能让游戏在 Wayland 下原生运行，但同时也告知你可能会丢失窗口图标等问题。本模组不会这样，你无需牺牲任何体验！\n\n本模组是 [legacy-lwjgl3](https://modrinth.com/mod/moehreag-legacy-lwjgl3) 的姊妹模组，在 Wayland 兼容性方面做的事情大同小异，只是适配的游戏版本截然不同。其说明中关于此功能的所有内容同样适用于本模组。\n\n> 如果你在游戏沙盒环境中运行游戏（例如使用打包为 Flatpak 的启动器），请确保允许访问下方列出的路径，否则本模组可能无法正常工作！\n\n<details>\n<summary>访问的路径、程序及其原因</summary>\n\n这部分内容主要复制自前述模组，因为在此同样适用。\n\n### 功能\n\n- 将 `.desktop` 文件和图标注入到正确的位置，以确保其正常运行\n- 在游戏内界面加载并显示虚拟光标，以支持设置光标位置\n\n### 属性\n\n- 将 `virtual_mouse.export` 设置为 `true` 可将加载的光标导出至实例文件夹中的 `cursors` 目录。该目录将包含光标内的所有图像及元数据。同时会为每张图像生成人类可读的元数据文件，并按光标配置文件格式生成 `cursor.cursor` 文件。该文件可用于配合 `xcursorgen` 程序，利用这些图像生成新的 X11 光标。\n\n### 访问的路径\n- `$HOME/.local/share/applications/com.mojang.minecraft.desktop`（写入）\n- `$HOME/.local/share/icons/hicolor/apps/{16x16, 32x32}/minecraft.png`（写入）\n- `$HOME/.local/share/icons/<theme>/cursors/left_ptr`（只读）\n- `$HOME/.icons/<theme>/cursors/left_ptr`（只读）\n- `/usr/share/icons/<theme>/cursors/left_ptr`（只读）\n\n### 访问的程序\n- `xdg-icon-resource`（用于更新图标系统）\n- `gsettings`（用于查询光标主题和大小）\n\n</details>\n\n### 致谢\n\n- KDE 视觉设计小组（本模组附带的光标回退文件源自 KDE 的 Breeze 光标主题）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

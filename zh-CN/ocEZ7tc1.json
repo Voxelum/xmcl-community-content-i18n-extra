@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6f563178bf28f927",
+  "content": "# FTB 检查器\n\nFTB 检查器是一个模组，旨在确保您的整合包中包含流行的 FTB 模组。它会检查 FTB Chunks、FTB Library、FTB Quests 和 FTB Teams 是否存在。如果缺少任何这些模组，该模组会在进入主菜单之前显示一个屏幕，并提供缺失模组的下载链接。\n\nFTB 检查器最初是为我的 [CreateCore Reforged](https://modrinth.com/modpack/createcore/) 整合包创建的。开发此模组的目的是在遵循 Modrinth 平台许可要求的同时，确保 FTB 模组在整合包中的无缝集成。\n\n认识到它对其他面临类似挑战的整合包制作者具有潜在用途，我决定将 FTB 检查器作为独立模组发布。这使得其他整合包制作者能够轻松地将必要的 FTB 模组纳入他们的项目中，同时保持与 Modrinth 平台的兼容性。\n\n## 功能\n\n- **自动 FTB 模组检查**：FTB 检查器会自动检测您的整合包中是否缺少任何必要的 FTB 模组。\n- **下载链接**：如果缺少任何 FTB 模组，该模组将显示一个包含缺失模组下载链接的屏幕，使玩家更容易获取它们。\n- **Modrinth 兼容性**：专为希望使用 FTB 模组并在 Modrinth 平台上托管整合包的整合包制作者而设计。由于许可限制，FTB 模组不能直接在 Modrinth 上使用。\n\n![模组展示](https://i.imgur.com/LJZVfmG.png)\n\n## 支持\n\n如果您遇到任何问题或有任何疑问，请访问我们的 [GitHub 仓库](https://github.com/SajmonOriginal/FTBChecker) 报告问题，或加入我们的 [Discord 服务器](https://discord.gg/xpZJAF86Xp) 获取社区支持。\n\n## ⚠️ 免责声明 ⚠️\nFTBChecker 与 FTB (Feed The Beast) 或 Modrinth 无关，也未得到其认可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

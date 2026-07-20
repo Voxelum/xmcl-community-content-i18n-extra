@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ed07fd5a9520906",
+  "content": "\n\n<h1><strong>Что такое Weight?</strong></h1>\n<p><strong>Weight</strong> — это аддон для <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-aeronautics\" target=\"_blank\" rel=\"nofollow\">Create: Aeronautics</a>, который учитывает расположение игроков на симулируемой конструкции.&nbsp;</p>\n<p><strong>Игроки</strong> и <strong>мобы</strong>, стоящие на палубе, добавляют реальную массу в <strong>физическую симуляцию Sable</strong>.</p>\n<h1>Геймплей</h1>\n<p>У <strong>игрока</strong> есть <strong>собственный вес</strong>: если скапливаться с одной стороны, корабль наклонится в вашу сторону. Никаких заранее прописанных эффектов, только <strong>физика</strong>.</p>\n<p>При <strong>прыжке</strong>&nbsp;и&nbsp;<strong>приземлении</strong>&nbsp;вы оказываете на палубу реальное усилие, величина которого зависит от силы прыжка или высоты падения.</p>\n<h1>Настройки</h1>\n<p>Все параметры &mdash; масса игрока, сила импульса прыжка, вес мобов &mdash; можно настроить прямо в игре!</p>\n<h1>Сообщения об ошибках</h1>\n<p>Если вы нашли баги или что-то связанное с этим модом, пожалуйста, напишите мне <a href=\"https://github.com/emariduble-cmd/Weight/issues\" target=\"_blank\" rel=\"nofollow\">здесь</a>. Спасибо!</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

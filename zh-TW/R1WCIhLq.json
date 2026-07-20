@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e966ce5f2e20a933",
+  "content": "\n\n## 允許將鑽石工具升級為下界合金工具，無需使用升級模板\n\n### **注意事項：** \n- 此附加包僅修改工具的升級配方。如果您也希望護甲不需要升級模板，則需同時安裝[護甲附加包](https://modrinth.com/datapack/purpurpacks-no-template-netherite-armor-upgrades)。\n- 此資料包會新增配方，移除該資料包時控制台可能會顯示關於遺失配方的警告。這不會對您的世界或存檔資訊造成危害。 \n\n### 使用模組版本的安裝資訊：\n其功能與資料包相同，但會套用至所有在啟用此模組的情況下建立或開啟的世界。如果您不希望套用到所有世界，請改用資料包。\n\n**Forge**：\n<br>無需相依模組，只需將模組放入 mods 資料夾即可。\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur 附加包\nPurpur 附加包收錄了一些曾提議加入 Purpur 的功能，或是符合 Purpur 主題的特色，但經過評估後認為以資料包的形態呈現更為合適！ \n<br>這些附加包可在原版環境中使用，您無須運行 Purpur 即可使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

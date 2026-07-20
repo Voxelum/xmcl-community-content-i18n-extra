@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ff299380dab5b948",
+  "content": "\n\n<h1>Moar FPS</h1>\n<p>一個簡單的模組，用於提升 FPS。<br>\n事實上，你想顯示多少 FPS 都可以。</p>\n<h1>這並不會改變實際的 FPS，僅是作為玩笑顯示虛假的數字。</h1>\n<h2>設定</h2>\n<p>安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cloth-config\" rel=\"nofollow\">Cloth Config</a> 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" rel=\"nofollow\">Mod Menu</a> 以存取模組設定，或編輯 <code>config/moarfps.json5</code> 檔案。<br>\n*<a href=\"https://www.curseforge.com/minecraft/mc-mods/yacl\" rel=\"nofollow\">YACL</a> 適用於 1.1.0+ 版本</p>\n<h3>選項：</h3>\n<ul>\n<li><code>取得更好的 FPS？</code>：切換模組，</li>\n<li><code>目標 FPS</code>：顯示的 FPS 數值，</li>\n<li><code>讓它看起來不那么假？</code>：按設定數值波動 FPS，</li>\n<li><code>波動幅度？</code>：波動限制範圍。</li>\n</ul>\n<h3>相容性：</h3>\n<ul>\n<li>Sodium &amp; Sodium-Extra：支援</li>\n<li>Optifine：部分支援（平均 FPS 不受影響）</li>\n<li>其他 HUD 模組大概也支援，除非它們使用自己的 FPS 計數方法</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

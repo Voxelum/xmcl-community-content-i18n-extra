@@ -1,0 +1,6 @@
+{
+  "bodyHash": "daae6517b3038a5f",
+  "content": "\n\n<h1>女僕指令</h1>\n<p>此模組為指令新增客戶端的女僕名稱自動補全與替換功能，並為女僕提供其他指令支援。</p>\n<h2>功能特色</h2>\n<ul>\n<li>女僕名稱可直接用於任何支援 <code>@e</code> 或 <code>@e[limit=1]</code> 選擇器的地方，就像玩家名稱一樣。</li>\n<li><code>/tell &lt;maid&gt;</code> 會觸發 AI 聊天。</li>\n<li><code>/tp</code> 指令支援將未載入的女僕選為目標。</li>\n<li><code>@maid</code> 實體選擇器。</li>\n<li><code>@e[owner=&lt;name or UUID&gt;]</code> 實體選擇器選項。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

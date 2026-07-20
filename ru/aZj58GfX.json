@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e32bd22d158b895",
+  "content": "\n\nМод аутентификации для вашего офлайн/онлайн сервера.\n<br>\n<br>\nEasyAuth запрещает неавторизованным игрокам выполнять действия, такие как установка блоков, перемещение, ввод команд или использование инвентаря.\n<br>\n<br>\n\n### Особенности:\n- Автоматический вход для игроков, купивших Minecraft\n- Онлайн UUID для игроков в сети\n- Сессии для автоматического входа при подключении с того же IP\n- Защита координат\n- Предотвращает сообщение «Выполнен вход из другого места»\n- Перевод на стороне сервера\n- Поддержка специальных символов в пароле\n- Глобальный пароль\n- Поддержка API и контекстов LuckPerms\n- Поддержка игроков Floodgate и Carpet\n- Поддержка мода Vanish для скрытия неавторизованных игроков\n\nСмотрите [команды](https://github.com/NikitaCartes/EasyAuth/wiki) и [файл конфигурации](https://github.com/NikitaCartes/EasyAuth/wiki/Config)\n\nЭтот мод основан на моде samo_lego [mod](https://modrinth.com/mod/SimpleAuth). Используйте его для Minecraft 1.15 - 1.16.\n<br>\n<br>\n\nТакже посмотрите [мой мод](https://modrinth.com/mod/easywhitelist) для белого списка по именам\n<br> \n<br>\n\n### Зависимости \nЭтот мод требует:\n- [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

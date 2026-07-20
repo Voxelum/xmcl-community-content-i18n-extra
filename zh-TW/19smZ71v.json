@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e1efb2d2f157df8a",
+  "content": "\n\n<center>\n  <h1>\n    <a href=\"https://github.com/AlmostReliable/summoningrituals\"><img src=https://i.imgur.com/NDyQ5LI.png\" alt=\"預覽\" width=200></a><br>\n    召喚儀式\n  </h1>\n</center>\n\n## **📑 概覽**\n這是一款適用於 [Minecraft]-[NeoForge] 的模組。<br>\n\n它允許整合包開發者為物品、生物與指令建立自訂召喚儀式。配方高度可自訂，讓每個整合包都能提供獨特的體驗。搭配自訂事件、渲染器與方塊圖案，還可進一步擴展其功能。<br>\n此模組預設不會加入任何配方。\n\n召喚儀式原生支援 [KubeJS] 整合，這是建立自訂配方的最簡單方式。\n\n若想深入了解各項功能與程式碼範例，請至 [wiki] 查看。\n\n[影片](https://user-images.githubusercontent.com/16513358/189552459-67e2dd38-528a-471a-9325-36b6fe7e83ff.mp4)\n\n## **💚 鳴謝**\n- 由 FTB 的 Saereth 提議\n- 祭壇模型與貼圖由 [mo_shark] 製作\n- JEI 貼圖由 [Ne0kys] 製作\n\n[minecraft]: https://www.minecraft.net/\n[github]: https://github.com/AlmostReliable/summoningrituals\n[discord]: https://discord.com/invite/ThFnwZCyYY\n[wiki]: https://docs.almostreliable.com/summoningrituals\n[kubejs]: https://www.curseforge.com/minecraft/mc-mods/kubejs\n[neoforge]: https://neoforged.net/\n[releases]: https://github.com/AlmostReliable/summoningrituals/releases\n[mo_shark]: https://www.curseforge.com/members/mo_shark\n[ne0kys]: https://www.curseforge.com/members/ne0kys",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

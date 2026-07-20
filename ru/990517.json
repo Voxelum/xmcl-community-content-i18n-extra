@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d58bdb989bf2a091",
+  "content": "<p><a href=\"https://github.com/SuperSpaceEye/VMod/wiki\" rel=\"nofollow\"><span style=\"font-size:24px\"><strong>维基</strong></span></a></p>\n<p>VMod 是 Valkyrien Skies 的一个附加模组，它添加了一把工具枪——一种允许玩家创建各种约束的工具，例如：</p>\n<ul>\n<li>连接 - 在两个物体之间创建类似焊接/轴承/球窝的连接。</li>\n<li>绳索 - 创建一根绳子。</li>\n<li>液压杆 - 接收到信号时伸出和缩回。</li>\n<li>物理绳索 - 由物理组件创建的绳子。</li>\n<li>滑块 - 创建滑块连接。</li>\n<li>同步旋转 - 同步两艘船的旋转。</li>\n</ul>\n<p>以及以下工具：</p>\n<ul>\n<li>推进器 - 创建推进器。</li>\n<li>重力更改器 - 更改单个飞船或整个连接结构的重力。</li>\n<li>禁用碰撞 - 将禁用两艘飞船之间或一艘飞船与世界之间的碰撞。</li>\n<li>蓝图 - 创建整个连接结构的蓝图。</li>\n<li>缩放 - 不仅缩放一艘船，还可以缩放整个对象。</li>\n<li>剥离 - 按区块半径或所有连接到飞船的约束来剥离 VMod 约束。</li>\n<li>飞船移除器 - 移除飞船。</li>\n<li>质量更改器 - 更改飞船的总质量。</li>\n</ul>\n<p>它深受《盖瑞模组》(Garry's Mod) 的启发，如果你之前玩过它，你会发现它的工具枪有很多相似之处。</p>\n<h4><strong>Fabric 版本需要：</strong></h4>\n<ul>\n<li>Valkyrien Skies</li>\n<li>Architectury API</li>\n<li>（推荐）Forge Config API Port</li>\n</ul>\n<h4><strong>Forge 版本需要：</strong></h4>\n<ul>\n<li>Valkyrien Skies</li>\n<li>Architectury API</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c689839a7aa5541b",
+  "content": "\n\n# 🏙️ Lost Cities - Fabric Port\n\n**在你的 Minecraft 世界中生成荒廢的城市！**\n\n這是 McJty 人氣模組 Lost Cities 的 Fabric 移植版本，將相同的荒廢城市生成體驗帶入 Fabric 1.20.1。\n\n## 🌆 功能特色\n\n- **17 種生成設定檔** - 從預設城市、洞穴城市、浮空島嶼、太空球體、生物圈等選擇！\n- **完整城市生成** - 包含建築物、街道、高速公路與橋樑\n- **高度可自訂** - 完整支援資料包，可自訂建築物、配色與風格\n- **圖形介面整合** - 建立世界時可輕鬆選擇設定檔\n- **伺服器端運作** - 適用於專用伺服器，客戶端為選配\n\n## ⚠️ 測試版狀態\n\n此模組目前處於 **BETA**（約完成 60-65%）。核心世界生成已可運作，但原模組的部分功能仍在移植中。\n\n**已完成的功能：**\n- ✅ 帶有建築物、街道、高速公路的城市生成\n- ✅ 17 種標準設定檔\n- ✅ 設定檔選擇圖形介面\n- ✅ 資料包支援\n\n**即將實作：**\n- ⏳ 單軌鐵路、一般鐵路、通道\n- ⏳ 結構避讓\n- ⏳ 供其他模組使用的 API\n- ⏳ 指令與設定圖形介面\n\n## 📦 需求\n\n- Minecraft 1.20.1\n- Fabric Loader >= 0.15.0\n- Fabric API >= 0.92.7\n- Java >= 17\n\n## 🔗 連結\n\n- **原始模組（Forge）：** [McJty's Lost Cities](https://github.com/McJtyMods/LostCities)\n- **GitHub：** [Lost-Cities-port-Fabric](https://github.com/Sunshainy/Lost-Cities-port-Fabric)\n- **移植作者：** sunshainy\n\n## 📝 注意事項\n此為 BETA 版本，可能會出現錯誤與效能問題\n使用本模組前請備份你的世界\n尚不建議用於正式營運的伺服器\n原始模組由 McJty 製作：https://github.com/McJtyMods/LostCities\n\n## ⚡ 安裝方式\n\n1. 為 Minecraft 1.20.1 安裝 Fabric Loader\n2. 安裝 Fabric API\n3. 將模組 JAR 檔案放入 `mods/` 資料夾\n4. 建立新世界並點擊「城市」按鈕以選擇設定檔\n\n**盡情探索荒廢的城市吧！** 🏙️✨",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

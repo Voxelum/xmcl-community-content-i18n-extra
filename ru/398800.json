@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Bp8jGeu28n8=",
-  "content": "<h3>[Клиентская сторона]</h3><h3>Обратите внимание: броня по-прежнему отображается на мобах</h3><p><img src=\"https://media.forgecdn.net/attachments/305/343/screenshot.png\" alt=\"игрок без брони\">\n<img src=\"https://media.forgecdn.net/attachments/305/344/screenshot.png\" alt=\"игрок в броне\"></p><h3>С версии 1.1.0 вы можете по желанию показывать броню, когда уровень здоровья падает до заданного значения</h3><p>config/SkinShine.conf<br>\n<img src=\"https://media.forgecdn.net/attachments/309/512/skinshine.gif\" alt=\"При необходимости показывать броню при низком уровне здоровья\"></p>",
+  "bodyHash": "5926db96ddb4bad7",
+  "content": "\n\n<h3>[На стороне клиента]</h3>\n<h3>Примечание: броня по-прежнему отображается на мобах</h3>\n<p><img src=\"https://media.forgecdn.net/attachments/305/343/screenshot.png\" alt=\"игрок без брони\">\n<img src=\"https://media.forgecdn.net/attachments/305/344/screenshot.png\" alt=\"игрок в броне\"></p>\n<h3>Начиная с версии 1.1.0 можно дополнительно отображать броню при здоровье ниже определённого порога</h3>\n<p>config/SkinShine.conf<br>\n<img src=\"https://media.forgecdn.net/attachments/309/512/skinshine.gif\" alt=\"Дополнительное отображение брони при низком здоровье\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

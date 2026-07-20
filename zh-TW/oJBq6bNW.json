@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33a4fd64a370efa5",
+  "content": "# 擲出！\n\nYeet 是一個非常簡單的模組，主要關於投擲物品。\n\nYeet 允許你按住掉落鍵（預設為 Q）來蓄力揮動手臂。\n釋放它以將物品投擲得更遠。\n\n![Steve 拿著鑽石，正準備揮臂投擲](https://github.com/TropheusJ/yeet/blob/main/media/steve.png?raw=true)\n\n<img src=\"https://github.com/TropheusJ/yeet/blob/main/media/trajectory.png?raw=true\" alt=\"物品被投擲後的軌跡\" width=\"600\"/>\n\n被投擲的物品可以被其他玩家直接接住。\n\n<img src=\"https://github.com/TropheusJ/yeet/blob/main/media/catch_start.png?raw=true\" alt=\"一名玩家正在蓄力揮臂投擲物品\" width=\"600\"/>\n\n\n<img src=\"https://github.com/TropheusJ/yeet/blob/main/media/catch_mid.png?raw=true\" alt=\"被投擲的物品在空中飛行，朝向玩家 2\" width=\"600\"/>\n\n\n<img src=\"https://github.com/TropheusJ/yeet/blob/main/media/catch_end.png?raw=true\" alt=\"玩家 2 接住了飛行的物品\" width=\"600\"/>\n\n朋友的材料快用完了？直接丟一些給他吧！\n\n<img src=\"https://github.com/TropheusJ/yeet/blob/main/media/materials.png?raw=true\" alt=\"一名玩家將更多材料拋給他的朋友\" width=\"600\"/>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

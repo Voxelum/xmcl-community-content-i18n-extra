@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ba6c9035668d5e0e",
+  "content": "\n\n# 移除取得或使用經驗修補的能力\n### 安裝方式 (Fabric/Forge/Quilt)：\n它們的功能與數據包完全相同，但會自動套用至所有在安裝此模組時建立或啟用的世界。如果您不希望它套用至所有世界，請改用數據包。\n\n**Forge**：\n無需前置模組，只需將此模組放入「mods」資料夾即可\n\n**Fabric**：\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**Quilt**：\n需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)\n### PurpurPacks\nPurpurPacks 是曾建議新增至 [Purpur](https://purpurmc.org/) 伺服器軟體的功能——或是符合 Purpur 主題的功能，但最終決定以數據包的型式實作更為合適！\n\n每個數據包的功能與 Purpur 中的單一設定項目相同。您可以隨時新增或移除它們，而不會損壞伺服器。\n\n這些數據包並不依賴 Purpur；它們在原版或任何其他伺服器軟體中都能正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

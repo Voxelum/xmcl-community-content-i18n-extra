@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e540128d9a15f469",
+  "content": "\n\n**我製作這個純粹是因為受夠了在測試整合包時，HWYLA 偶爾會因啟動時的 RNG（隨機數生成）問題而崩潰。**\n\n \n**HWYALA**（發音類似「Hwhy-a-la」，取自「Coo-Hwhip」的語尾）- 這是 [TehNut](https://github.com/TehNut-Mods) 所開發的 [HWYLA](https://github.com/TehNut-Mods/HWYLA) 的一個分支版本，而 HWYLA 本身又是 [ProfMobius](https://minecraft.curseforge.com/members/ProfMobius) 所開發的 WAILA 的分支。\n\n## 這個分支版本做了什麼？\nHWYLA 存在一個錯誤，偶爾會在啟動時導致崩潰。這是因為它違反了 Java 比較方法合約中強制要求的遞移律（即 a>b 且 b>c => a>c）。\n此分支版本僅透過新增 4 行程式碼便修復了該錯誤。\n\n## 值得關注的冷門功能\n- 若已安裝 JEI/HEI，您可以使用數字鍵盤上的 3 和 4 來查詢世界中方塊的合成配方。\n- 您可以透過進入遊戲內的設定檔，開啟「Waila」選項畫面，並選擇「Format content...」來變更懸停提示的色彩與文字格式。\n- 若您在使用其他模組新增的提示處理程式時遇到問題，可以執行 `/dumphandlers` 指令，這將產生一個包含所有註冊處理程式及其對應類型的文字檔案。\n- 可切換懸停提示的朗讀功能。這會呼叫系統的語音合成庫來朗讀您目前檢視的資訊。\n- 若您認為提示中顯示物品圖示是多餘的，可以將其停用。\n\n---\n\n由於此模組整體上穩定得離譜，我並沒有積極維護這個分支版本的計畫。不過，若您有任何修復方案，歡迎提交 PR，只要不會引發嚴重問題，我很可能會予以合併。\n\n \n\n所有基於原版模組建立的插件、附加元件、相容性模組或其他相關內容，皆能與此分支版本 100% 完全相容。\n\n \n\n_此分支版本依據 CC BY-NC-SA 4.0 授權條款提供。_\n\n \n\n允許在任何整合包中使用此模組。\n\n \n\n我對其他版本的 Minecraft 沒有興趣，也不會為其他版本建立 HWYLA 的分支。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

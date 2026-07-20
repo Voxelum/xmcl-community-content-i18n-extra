@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b346602ba6da642",
+  "content": "\n\n**Do a Flip** 是一款僅限客戶端的模組，當生物掉落距離超過 2 格時，將有一定機率做出前翻或後翻動作。\\\n該模組提供以下設定選項：\n\n-   **flipChance** - 生物執行翻滾動作的機率（介於 0 到 1 之間）。預設值為 0.35，相當於 35%\n-   **invertMobs** - 反轉 **flippingMobs** 選項的功能，使其變成黑名單\n-   **flippingMobs** - 可執行翻滾動作的生物列表。由於 **invertMobs** 預設為 True，此選項預設為黑名單，包含 **蝙蝠、盔甲架、末影龍與凋靈** 的 ID",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

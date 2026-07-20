@@ -1,0 +1,6 @@
+{
+  "bodyHash": "afb9cceabf4d3867",
+  "content": "![右鍵點擊，獲取農作物](https://raw.githubusercontent.com/CoFH/Version/master/right_click_get_crops/logo.png \"Right Click, Get Crops\")\n\n__活躍開發中__: Minecraft 1.18.2\n\n__官網: [Team CoFH](https://teamcofh.com)__\n\n__Discord: [Team CoFH Discord](https://discordapp.com/invite/uRKrnbH)__\n\n__更新日誌: [Changelog](https://raw.githubusercontent.com/CoFH/Version/main/right_click_get_crops/changelog.md)__\n\n---\n\n這是一個非常簡單的模組。它如其名所說的那樣運作！\n\n有一個配置文件允許您為各種農作物使用白名單或黑名單，並選擇是否在右鍵收割時重新種植作物。\n\n它會智能地處理所有原版及原版衍生農作物的右鍵收割，以及更進階的行為，例如 CoFH 的多年生作物和雙層高作物。\n\n如果有其他模組需要相容性調整，歡迎前往 Discord 詢問！ :)\n\n### __配置__\n\n- _伺服器端_: 位於 `/saves/WORLD_NAME/serverconfigs` 資料夾中的 `right_click_get_crops-server.toml`。\n\n將此文件複製到您的 `/defaultsconfig` 資料夾，這些配置將應用於所有新創建的_world_。\n\n專用伺服器將在此路徑擁有該文件：`/world/serverconfigs`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

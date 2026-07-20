@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4eea9f1258dccb80",
+  "content": "\n\n<h1><strong>天書函式庫</strong></h1>\n<p>Tianshu Libraries 是一款基礎前置函式庫，為《我的世界》（Minecraft）提供底層 AI 功能支援。此模組本身不會新增任何可見的遊戲內容；相反地，它作為執行階段環境，提供 AI 運作的基礎架構。它將作為未來天書系列模組及其他平行相容模組的统一相依性後端。</p>\n<h2>設計目的與定位</h2>\n<p>Tianshu Libraries 旨在為上層模組提供共享的底層支援，統一資源管理與原生函式庫呼叫。其核心基礎功能包含：</p>\n<ul>\n<li>本地大型語言模型（LLM）執行階段支援</li>\n<li>語音與音訊處理支援</li>\n<li>背景任務處理機制</li>\n<li>原生執行階段與共用設定檔管理</li>\n</ul>\n<p>未來的天書系列模組，以及其他呼叫此函式庫的平行模組，將基於此基礎層實作其特定功能。本函式庫確保這些上層模組能夠穩定存取本地 AI 資源。</p>\n<h2>執行階段環境與效能考量</h2>\n<p>Tianshu Libraries 提供本地 LLM 推論與本地語音處理所需的必要底層執行環境。由於本地 AI 運算相當耗用系統資源，實際執行效能會受到多項因素影響。這些因素包含但不限於：電腦硬體規格（CPU/GPU、可用記憶體）、Java 版本、顯示卡驅動程式，以及上層模組的具體實作方式與所使用的模型複雜度。</p>\n<h2>使用說明</h2>\n<ul>\n<li>本模組為前置相依函式庫，必須與上層功能模組（例如未來的天書系列模組或其他相容模組）一併安裝。</li>\n<li>單獨安裝此函式庫不會產生任何可見的遊戲功能。</li>\n<li>該函式庫本身不會新增任何方塊、物品、實體或遊戲指令。</li>\n<li>實際可用的功能取決於上層模組的實作與呼叫方式。</li>\n</ul>\n<h2>開放原始碼授權</h2>\n<p>Tianshu Libraries 使用了以下開放原始碼元件：</p>\n<ul>\n<li><strong>JJML / llama.cpp</strong> 相關元件：LGPL-2.1-or-later</li>\n<li><strong>Sherpa / sherpa-onnx</strong> 相關元件：Apache License 2.0</li>\n<li><strong>ONNX Runtime</strong> 相關元件：MIT License</li>\n<li>其他包含之元件遵循各自獨立的授權條款。</li>\n</ul>\n<p>如需完整的授權資訊，請參閱隨附的授權檔案或專案首頁。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

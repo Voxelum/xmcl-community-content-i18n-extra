@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9b919aee35773b52",
+  "content": "\n\n# 只要顯示我的遊戲時間！\n在偵錯畫面中顯示你的遊戲時間。就是這樣。你可以像平常一樣將其新增到偵錯畫面（`jsmmtod:time_of_day`），如果安裝了 [Cloth Config](https://modrinth.com/mod/cloth-config) 與 [Mod menu](https://modrinth.com/mod/modmenu)，也可以進行設定。\n\n若未安裝這些模組，預設會顯示遊戲刻數與 24 小時制的時間（請見下方截圖）。\n\n![範例](https://cdn.modrinth.com/data/cached_images/30ab183106377ac1a27b8a6c5879d2ca4677d796.jpeg)\n\n## 選項\n你可以透過 Mod menu 進入設定畫面。\n![設定畫面](https://cdn.modrinth.com/data/cached_images/d55be8b37712cea2070856a2cd324d576f3b66f6_0.webp)\n\n## 截圖\n12 小時制：\n\n![12 小時制](https://cdn.modrinth.com/data/cached_images/4667969125febe366d16f2581d7089935099836d.jpeg)\n\n僅顯示遊戲刻：\n\n![僅顯示遊戲刻](https://cdn.modrinth.com/data/cached_images/66952ac1a6e3e8c1685f35385833ddda95787423.jpeg)\n\n僅顯示時間：\n\n![僅顯示時間](https://cdn.modrinth.com/data/cached_images/606307fb393cb4445c4c7a561aef77e435028ae4.jpeg)\n\n於偵錯選單中：\n\n![time_of_day 作為偵錯項目](https://cdn.modrinth.com/data/cached_images/1f289015afa60c84dff24cd132525f9b32ee918b.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

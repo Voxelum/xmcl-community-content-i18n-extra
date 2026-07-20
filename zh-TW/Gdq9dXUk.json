@@ -1,0 +1,6 @@
+{
+  "bodyHash": "44c7a07abe762290",
+  "content": "\n\n# Minecraft 光影模組，完全不影響幀率！\n\n## 全新陰影系統\n\n**- 為相容 Sodium（目前僅適用於 1.21.11-1.21.5 版本），此資源包需要 [Sodium Core Shader Support Mod](https://modrinth.com/mod/sodium-core-shader-support/versions)**\n\n![新陰影](https://cdn.modrinth.com/data/cached_images/266a2ee5af7df8084e9124a8390ecf40f72049a7.webp)\n![原版陰影](https://cdn.modrinth.com/data/cached_images/c4f3f7bc5c81a810ee6466f50e485fc8f1584d8d.webp)\n**此資源包能提供與 Optifine 或 Iris Shaders 極為相似的體驗，透過精心設計且實用的方式為方塊繪製陰影。**\n\n[在 Ko-Fi 支持我！（捐贈）](https://ko-fi.com/mcdr7)\n\n[YouTube 頻道 ^^](https://www.youtube.com/@MC_DR7)\n\n[Discord 伺服器！^^](https://discord.gg/drgJW28PJA)\n\n- 不會造成幀率下降，是希望在不妨礙電腦效能下享受光影的玩家之絕佳選擇。\n\n- 也適合偏好能讓遊戲保留原版美感、且畫面不會過於誇張的光影使用者。\n\n- 光線平衡調校得相當出色；洞穴內的照明清晰明瞭，非常適合遊玩，陽光照射區域也不會過於刺眼，讓整體視覺呈現穩定且舒適的感覺。\n\n- 此資源包基於核心着色器運作（如 terrain.fsh、entity.fsh、fog.glsl 等），可為 Minecraft 添加基礎光影或實用功能。\n\n- 非常感謝您對本專案的支持。若能獲得更多支持，我將推出更多作品並持續優化此資源包。\n\n![v1.3+ 若要支援 Sodium 請使用 Sodium Core Shader Support 模組 https://modrinth.com/mod/sodium-core-shader-support/versions](https://cdn.modrinth.com/data/cached_images/3c49149f43d895286ef5db1586e56ec233f493b1.png)\n\n-DR7",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

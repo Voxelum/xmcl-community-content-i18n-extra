@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2d90205dd9a3191",
+  "content": "\n\n本模组是对 [Create: Crafts & Additions](https://modrinth.com/mod/createaddition) 中 MRH0 开发的 FE 能量连接器的直接复刻，并使用了全新的模型与贴图。原版模组（因此本模组也遵循）采用 MIT 许可证开源。\n\n本模组新增了一个简单的 FE 能量传输方块：Bleb。你可以使用 Create 扳手将其在抽取模式与注入模式之间进行切换。使用 Gayble 可将 Bleb 相互连接，只要抽取模式的 Bleb 连接到来自其他模组的 FE 能源，能量便会从抽取模式的 Bleb 流向注入模式的 Bleb。\n![两个通过 Gayble 连接的 Bleb](https://cdn.modrinth.com/data/cached_images/d9c61348ff98b9a0e418dbd9585834021cb3df61.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

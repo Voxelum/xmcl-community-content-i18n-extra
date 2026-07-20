@@ -1,0 +1,6 @@
+{
+  "bodyHash": "19edc2f7b220e88d",
+  "content": "\n\n<blockquote>\n  <p><strong>要移除難看的披風，請更新至 0.13.1 版本</strong></p>\n  <p><strong>這是一次性的更新，目的是避免我的伺服器遭到意外 DDoS 攻擊。</strong>\n  <strong>如果您在 mods 資料夾中看不到 CICADA，但依然擁有披風，安裝 0.13.1 版本仍會修復此問題。</strong></p>\n  <p><strong>更多詳細資訊請見<a href=\"https://github.com/enjarai/cicada-lib/issues/12#issuecomment-3048238399\" target=\"_blank\" rel=\"nofollow\">此處</a>。</strong></p>\n</blockquote>\n<hr>\n<p>CICADA（逆縮寫待確定）是一個函式庫模組，包含我在許多模組專案中使用的通用工具與常見抽象層。</p>\n<p>其主要功能包括：</p>\n<ul>\n<li>提供 API，方便在遊戲日誌中進行模組間溝通。</li>\n<li>其他日誌記錄的趣味功能。</li>\n<li>自訂披風渲染器。</li>\n<li>具備自主管理機制的模組設定範本類別。</li>\n<li>抽象 Mixin 插件，便於開發相容性 Mixin。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

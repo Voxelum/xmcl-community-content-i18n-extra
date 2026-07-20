@@ -1,6 +1,6 @@
 {
-  "bodyHash": "G6rZjIxQNyE=",
-  "content": "本模组为你的世界添加了隐藏的无限矿脉。你可以使用机器开采这些矿石，模组需要安装 [Create](https://modrinth.com/mod/create)。\n\n特性：\n- 新增隐藏矿脉与流体储层，每个区块有随机几率生成，且每区块仅存在一种矿脉\n- 矿脉资源无限供应\n- 可通过数据包或 KubeJS 自定义矿脉类型\n- 使用钻井机和流体提取器采集矿脉\n- 机器依靠旋转力供能\n- 使用\"矿脉探测仪\"物品寻找矿脉与流体储层",
+  "bodyHash": "1ff7cf4b5b69f8c3",
+  "content": "本模组为您的世界添加了隐藏的无限矿脉。您可以使用机器开采这些矿石。此模组需要 [Create](https://modrinth.com/mod/create)。\n\n功能：\n- 添加了隐藏的矿脉和流体储层，它们有随机几率在区块中生成。每个区块中只能存在一种矿脉\n- 矿脉是无限的\n- 矿脉类型可以通过数据包或 KubeJS 进行配置\n- 使用钻机（Drilling Machine）和流体抽取器（Fluid Extractor）开采矿石\n- 机器由旋转力（Rotational Force）驱动\n- 使用“矿脉探测器”物品来寻找矿脉和流体储层",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

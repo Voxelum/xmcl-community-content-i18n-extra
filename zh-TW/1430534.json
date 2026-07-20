@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc98b71542f00e81",
+  "content": "<h1>[FORK] 暮色森林線程安全插件（適用於 1.20.1 Forge）</h1>\n<p>此模組是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/tfthreadsafetyaddon\" target=\"_blank\" rel=\"nofollow\">暮色森林線程安全插件</a> 的非官方分支版本，原作者為 <a href=\"https://www.curseforge.com/members/ishlandmc\" target=\"_blank\" rel=\"nofollow\">ishlandmc</a>。</p>\n<p>它透過使暮色森林的地形生成過程具備線程安全性並提升速度，讓 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fc2mef\" target=\"_blank\" rel=\"nofollow\">C2MEF</a> 或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/c2me\" target=\"_blank\" rel=\"nofollow\">C2ME</a> + <a href=\"https://www.curseforge.com/minecraft/mc-mods/sinytra-connector\" target=\"_blank\" rel=\"nofollow\">Connector</a>（C2ME + Connector 組合尚未完全測試）能夠與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest\" target=\"_blank\" rel=\"nofollow\">暮色森林</a> 在 Forge 1.20.1 上協同工作。</p>\n<p><span style=\"color:#e03e2d\">此模組與 <a style=\"color:#e03e2d\" href=\"https://www.curseforge.com/minecraft/mc-mods/twilight-forest-cave-fix\" target=\"_blank\" rel=\"nofollow\">暮色森林洞穴修復</a> 不相容！</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

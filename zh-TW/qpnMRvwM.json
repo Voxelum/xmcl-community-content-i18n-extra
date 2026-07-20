@@ -1,0 +1,6 @@
+{
+  "bodyHash": "82d9a60ab1a4a562",
+  "content": "\n\n這是一個伺服器端模組。你不需要在用戶端安裝它，且若未安裝在伺服器上則無法運作。\n\n## 需要 Fabric API\n\n我製作這個模組是為了我在與朋友們經營的小型伺服器。\n\n此模組的目的是讓玩家無需世界種子即可輕鬆找到史萊姆區塊。\n\n只需輸入一個簡單的指令：\"/slime\" 即可。\n\n![image](https://i.imgur.com/8sQkExS.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

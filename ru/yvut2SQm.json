@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Yd21JWy9KAk=",
-  "content": "# Примерно достаточные методы ввода\nДобавьте улучшенный метод ввода пиньиня для REI.  \nДля REI добавлен более качественный метод ввода пиньиня.\n\nМод, исправляющий проблему: https://github.com/shedaniel/RoughlyEnoughItems/issues/1440.\n\n### Разрешить неполные согласные и гласные звуки  \n![](https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/1.png?raw=true)  \n### Улучшенная поддержка многозначных слов  \n![](https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/2.png?raw=true)\n\n## Поддерживаемые версии REI  \n- >= 8.3.519 и < 9  \n- >= 9.1.520",
+  "bodyHash": "1488656e9df920aa",
+  "content": "\n\n# Roughly Enough Input Methods\nДобавляет улучшенный метод ввода пиньинь для REI.\\\nДобавляет улучшенный метод ввода пиньинь для REI.\n\nМод, исправляющий ошибку https://github.com/shedaniel/RoughlyEnoughItems/issues/1440.\n\n### Разрешить неполные начальные согласные и гласные\n![](https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/1.png?raw=true)\n### Улучшенная поддержка иероглифов с несколькими вариантами произношения\n![](https://github.com/Myitian/RoughlyEnoughInputMethods/blob/main/.github/2.png?raw=true)\n\n## Поддерживаемые версии REI\n- \\>= 8.3.519 и < 9\n- \\>= 9.1.520",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

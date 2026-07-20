@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1cee2912b53aa933",
+  "content": "<p>此模组是 Alex666 的 DomesticationInnovation 模组的分支，最初是为 MC Eternal 2 整合包制作的。它修复了常见的服务器崩溃问题（尤其是在与 Rats 模组一起使用时）。</p>\n<p>对原始代码进行了以下更改：</p>\n<ul>\n<li>在保存 CompoundTag 时检查所有者 UUID 是否为空。</li>\n<li>在为已驯服的宠物添加 LanternRequest 时检查所有者 UUID 是否为空。</li>\n<li>在为已驯服的宠物获取 LanternRequests 时检查所有者 UUID 是否为空。</li>\n</ul>\n<p>这些更改防止了在针对野生老鼠（以及潜在的其它可驯服动物）发出灯笼请求时导致服务器崩溃的问题。</p>\n<hr>\n<p>请参阅此处完整且原始的模组描述：<a href=\"https://www.curseforge.com/minecraft/mc-mods/domestication-innovation\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/domestication-innovation</a></p>\n<p>在 <a href=\"https://github.com/cationick/DomesticationInnovation\" target=\"_blank\" rel=\"nofollow\">GitHub</a> 上提交任何问题或拉取请求。</p>\n<hr>\n<p><em>版权声明：</em>原始作品版权 © Alex666 (<a href=\"https://www.curseforge.com/members/sbom_xela/projects\" target=\"_blank\" rel=\"nofollow\">sbom_xela</a>)。此修改版本根据 GNU 通用公共许可证 v3.0 授权，与原始版本相同。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

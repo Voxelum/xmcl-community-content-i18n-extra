@@ -1,6 +1,6 @@
 {
-  "bodyHash": "MfJFg/IPhI0=",
-  "content": "<h1>提升音效限制簡化版</h1><p>這款模組以簡單的方式提升Minecraft音效來源數量上限（目前可達4095個）</p><h2>設定配置</h2><p>配置文件位於 <code>.minecraft/config/rsls.properties</code>\n若已安裝cloth config與fabric api，可使用遊戲內編輯器進行設定</p><p><img src=\"https://media.forgecdn.net/attachments/477/759/screenshot-from-2022-07-18-17-03-17.png\" alt=\"音效除錯資訊\"></p>",
+  "bodyHash": "5d8ac69227c5db92",
+  "content": "\n\n<h1>輕鬆提升音效上限</h1>\n<p>一款以簡便方式改善音效效能並提升 Minecraft 音效來源上限的模組（目前提升至 4095）</p>\n<h2>此模組實際上的功能</h2>\n<ul>\n<li>將音效上限提升至 4095，並支援自訂靜態來源與串流來源的分配比例</li>\n<li>將大部分音效運算移出渲染執行緒，並將多數音效引擎方法改為非阻塞模式，於音效密集時改善 FPS 穩定度</li>\n</ul>\n<h2>設定</h2>\n<p>設定檔位於 <code>.minecraft/config/rsls.properties</code><br>\n若已安裝 Cloth Config API 與 Fabric API，則可使用遊戲內編輯器</p>\n<p><img src=\"https://media.forgecdn.net/attachments/477/759/screenshot-from-2022-07-18-17-03-17.png\" alt=\"音效除錯資訊\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

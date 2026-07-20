@@ -1,6 +1,6 @@
 {
-  "bodyHash": "7xHZbxZiEZI=",
-  "content": "<p>Исправлена проблема, при которой не удавалось отобразить модель игрока при одновременной установке мода DragonBlockC и OptiFine.</p>",
+  "bodyHash": "a5f24412d06ec29b",
+  "content": "\n\n<p>Исправлена проблема, при которой не отрисовывалась модель игрока при одновременной установке модов DragonBlockC и OptiFine.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

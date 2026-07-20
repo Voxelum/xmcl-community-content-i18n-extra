@@ -1,0 +1,6 @@
+{
+  "bodyHash": "51ad3cb542dd5f65",
+  "content": "\n\n使用指令，凋靈骷髏能夠手持弓，甚至在命中時造成火焰傷害。這個資料包/伺服器端模組會將刷新生於地獄要塞的骷髏替換為這種凋靈骷髏，使這些結構更具挑戰性。__普通持劍的凋靈骷髏不受影響。__\n\n**原始資料包：**我的資料包所基於的[原始資料包](https://www.planetminecraft.com/data-pack/wither-skeleton-archers-in-nether-fortresses/) 已在三年前停止維護，它會在骷髏於地獄（地獄磚或相關方塊）上生成時執行替換。此外，由於它使用 `Dimension:-1` 來進行地獄檢測，而非較新的格式 `Dimension:the_nether`，因此在更新版本中無法運作。我的資料包則改用條件判斷式來偵測骷髏是否位於地獄要塞內。\n\n**版本說明：**舊版（1.15 - 1.18.2）、1.19.x 版（1.19 - 1.19.4）與現代版（1.20+）之間的唯一差異僅在於程式碼語法；它們的運作方式完全相同。之所以需要如此，是因為 `location` 條件判斷式中的 `feature` 欄位在 1.19.3 被重新命名為 `structure`，而 `alternative` 條件判斷式類型在 1.20 被重新命名為 `any_of`。\n\n**模組相容性：**目前無法偵測實體是否處於具有特定標籤的任何結構中，因此我改用 `any_of`/`alternative` 來支援模組要塞，例如：\n- Apocalyptic Fortress (`hexfortress:nether_fortress`)\n- Dungeons and Taverns (`minecraft:nether_keep`)\n- YUNG's Better Fortresses (`betterfortresses:fortress`)\n\n此資料包也相容於任何保留 `minecraft:fortress` 命名空間的要塞模組。如果你有列表外的模組結構希望此資料包能與其相容，你可以編輯檔案 `data/wsaif/predicates/in_fortress.json`，並依照其中的格式將其加入。\n\n**解除安裝：**此資料包可以安全地從你的世界中移除，但這樣做不會將現有的凋靈骷髏弓箭手還原為一般骷髏。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

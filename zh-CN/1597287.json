@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d1465c3c589202b",
+  "content": "\n\n<p>LoadStep 是一款用于 Minecraft 的加载流水线优化模组。</p>\n<p>与追求提升帧率不同，LoadStep 专注于通过重构世界初始化流程，来缩短进入世界或加入服务器所需的时间。它最大限度地减少了启动期间的非必要阻塞，并将非关键加载任务延后执行，从而让游戏能更早进入可玩状态，同时在后台继续加载其他区块。</p>\n<p>特性<br>&bull; 优化的世界初始化<br>&bull; 更快的服务器启动<br>&bull; 降低的加载延迟<br>&bull; 更早进入可玩状态<br>&bull; 不改变游戏玩法</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

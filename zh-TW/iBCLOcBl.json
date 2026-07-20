@@ -1,0 +1,6 @@
+{
+  "bodyHash": "68266bfc30af2e53",
+  "content": "\n\n說明仍在持續完善中。\n\n目前，該模組新增了：\n\n等級 5 火箭\n等級 6 火箭\n等級 7 火箭\n\n![等級 5 - 7](https://cdn.modrinth.com/data/iBCLOcBl/images/c356fc145c6fee8c0074ca68e39db9c79abf3226.png)\n\n搭配「Create Planetary Tweaks」模組使用時，也會加入與本模組協同運作的相關物品。此功能僅支援 FORGE。\n\n範例物品如下：\n\n![協力模組額外物品](https://cdn.modrinth.com/data/iBCLOcBl/images/811bf0ca7d2cb329fe6346d13a9dc125e33b917e.png)\n\n這些火箭遵循自訂星球的資料包（datapack）結構等級。\n\n這表示您可以在遊戲中新增更多進度系統，並將取得高等級火箭設為開啟後續內容的門檻。\n\n目前，所有額外等級均使用「等級 4 模型」火箭。待我修復無法套用自訂模型的錯誤後，預計將進行變更。\n\n自訂模型將配備更大的推進器、更精美的材質等。\n這些模型將以初版「等級 4 火箭模型」為基礎，此部分的開發貢獻全數歸屬於 Terrarium 與 Ad Astra 團隊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

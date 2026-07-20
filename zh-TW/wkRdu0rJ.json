@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c62b447e5e9036ca",
+  "content": "\n\n## 鎖定村民交易 \n（以及便捷的村民交易重置功能）\n\n本模組旨在修復村民交易重置機制，同時提供更簡便的重置流程，讓大家可以不用再為了重置交易而破壞講台（笑）。\n\n這是一款 Fabric 模組，允許你從一組靜態交易列表中选择村民的初始交易。也就是說，即使你破壞並重新放置工作臺，你也只能從預先定義好的列表中进行選擇。\n\n可供玩家使用的交易選項數量是可配置的，因此如果你希望利用此模組來輕鬆重置交易，完全可以做到。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/XnOfDEuw5Fs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d77d60b7e849a398",
+  "content": "\n\n<h1>Modern Keystrokes (Fabric)</h1>\n<p><strong>Modern Keystrokes</strong> 是一款专为《Minecraft：Java 版》（Fabric）打造的简洁轻量级 HUD 模组。它可实时显示你的移动按键、鼠标点击、CPS 和 FPS。</p>\n<p>这是经典 <strong>Hippo Keystrokes</strong> 模组的非官方移植版本，已针对较新版本的 Minecraft 进行了更新与优化。</p>\n<h2>功能特性</h2>\n<ul>\n<li><strong>WASD 显示：</strong>直观显示你的移动按键状态。</li>\n<li><strong>鼠标统计：</strong>显示鼠标左键（LMB）和右键（RMB）点击情况，并内置 <strong>CPS 计数器</strong>。</li>\n<li><strong>空格键：</strong>直观显示空格键按下状态。</li>\n<li><strong>FPS 计数器：</strong>可选显示当前每秒帧数。</li>\n<li><strong>自定义设置：</strong><ul>\n<li>可单独开关各个模块（按键、鼠标、FPS、空格键）。</li>\n<li><strong>位置滑块：</strong>通过 X 和 Y 滑块轻松将 HUD 移动到屏幕上的任意位置。</li></ul></li>\n</ul>\n<h2>使用方法</h2>\n<ol>\n<li>安装 <strong>Fabric Loader</strong> 和 <strong>Fabric API</strong>。</li>\n<li>将模组放入 <code>mods</code> 文件夹中。</li>\n<li>在游戏中输入 <strong><code>/keystrokes</code></strong> 打开设置菜单。</li>\n<li>使用滑块调整 HUD 位置，并通过按钮切换各项功能。</li>\n</ol>\n<p>注意：强烈建议搭配 Sodium 模组一同使用。</p>\n<h2>致谢</h2>\n<ul>\n<li><strong>原版模组：</strong> Hippo Keystrokes，由 awesome_hippo (pseudonym-2669) 开发 - <a href=\"https://www.curseforge.com/minecraft/mc-mods/hippo-keystrokes\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/hippo-keystrokes</a></li>\n<li><strong>移植作者：</strong> marblock。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

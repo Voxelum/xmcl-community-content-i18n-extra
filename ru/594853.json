@@ -1,0 +1,6 @@
+{
+  "bodyHash": "138cc04eea0274a9",
+  "content": "\n\n<p><span style=\"font-size:24px\"><strong>Этот аддон полностью переносит систему слияния крафта Draconic Evolution с версии 1.12 на 1.7.10</strong></span><br><br><img src=\"https://i.ibb.co/CwwrwRB/Screenshot-1.png\" alt=\"\" width=\"508\" height=\"596\"><br><br><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/SnrwcMjdkT0?wmode=transparent\" height=\"563\" width=\"563\"></iframe></span><br><br><span style=\"font-size:18px\">Для добавления/удаления рецептов через MineTweaker:<br>добавление:&nbsp;<span style=\"color:#f00\">mods.draconicplus.FusionCrafting.add(&lt;output&gt;, &lt;catalystItem&gt;, intTier, intEnergyCost, [&lt;ingredients&gt;]);</span><br>удаление:&nbsp;<span style=\"color:#f00\">mods.draconicplus.FusionCrafting.remove(&lt;output&gt;);</span></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

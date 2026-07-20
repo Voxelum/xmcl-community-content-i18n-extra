@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc66105787e0c2e7",
+  "content": "\n\n# FPS-Plus\n\nПорт для Legacy Fabric с использованием миксинов. Тестировался на версиях 1.3.2–1.13.2 с Optifine и другими модами.\n\nПредупреждение: на версии 1.13.2 может наблюдаться баг с текстурами. ИСПОЛЬЗУЙТЕ НА СВОЙ СТРАХ И РИСК.\n\nFPS Plus имеет 4 версии:\n\nВерсия A: Обычная версия мода. Использует стандартные методы Sin/Cos от Rivens.\n\nВерсия B: Использует методы SinHalf/CosHalf от Rivens.\n\nВерсия C: Класс MathHelper был повторно переработан. Выглядит более стабильной.\n\nВерсия D: Использует методы Sin/Cos из Libgdx.\n\nПроизводительность (на мой взгляд): D=B>A>C\n\nДолжна работать на всех версиях Legacy Fabric.\n\nИспользуйте только одну версию одновременно!\n\nТестировалось с Optifine и другими модами, а также на CurseForge LF (BTW CE).\n\n### Подробнее см. оригинальный пост\n\nhttps://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290619-freeuse-no-permission-needed-fpsplus-1-5-2-1-7-10\n\n## Лицензия\nАвторские права ©2013 abandenz\n\nFREEUSE\n\nВы можете делать всё, что угодно, без предварительного запроса, согласно сообщениям автора (abandenz).\n\nhttps://www.minecraftforum.net/members/abandenz/posts\n\n## 100 скачиваний 2023.1.1 С Новым годом!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

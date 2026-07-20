@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6b46f475e55f7bde",
+  "content": "\n\n# Патч Polymer для Friends&Foes\nЭто патч для [Friends&Foes](https://modrinth.com/mod/friends-and-foes),\nобеспечивающий полную работу на стороне сервера с сохранением всего функционала.\n\n**Для работы требуется Friends&Foes, который не входит в состав этого мода.**\n\nЭтот мод требует серверный пакет ресурсов, информацию об установке которого вы можете прочитать здесь: https://polymer.pb4.eu/latest/user/resource-pack-hosting/\n\nПодробнее о [Friends&Foes можно узнать на его странице Modrinth!](https://modrinth.com/mod/friends-and-foes)\n\n## Лицензия\n\nЭтот мод включает некоторые патчи кода из [friends-and-foes](https://github.com/Faboslav/friends-and-foes), которые лицензированы по [CC BY-NC-ND 4.0](https://github.com/Faboslav/friends-and-foes/blob/master/LICENSE.txt)\n\n_Автор мода разрешил публикацию этого патча через личные сообщения в Discord_\n\nЭтот мод частично основан на коде из [enderscape-patch](https://github.com/PolymerPorts/enderscape-patch), который лицензирован по [GNU Lesser General Public License v3.0](https://github.com/PolymerPorts/enderscape-patch/blob/master/LICENSE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

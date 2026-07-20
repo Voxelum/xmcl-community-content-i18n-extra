@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00be2f7127a9ce42",
+  "content": "\n\n# CobbleMorph\n\n**CobbleMorph** 是一款轻量级模组，允许玩家通过简单的命令变身为任何宝可梦。\n\n本模组**需要 Cobblemon** 才能运行。CobbleMorph 与修改现有宝可梦模型、为尚未实装的宝可梦添加模型，或引入自定义内容（如假宝可梦或超级进化）的模组和数据包兼容（例如通过 Mega Showdown）。\n\n**目前仍存在一些限制。部分功能（如 `cosmetic_item=...`）可能无法正常工作。**\n\n变身效果**仅用于外观**。它**不会**改变你的碰撞箱、修改第一人称手部模型，也不会提供任何玩法上的优势。\n\n## 命令\n\n`/transform {username} {pokemon} [aspects]`\n\n`/untransform {username}`\n\n默认情况下，这些命令需要**管理员权限**。\n\n## 未来计划\n\n如果大家喜欢这款模组，我计划继续更新它。\n欢迎随时提出建议，例如：\n\n* 更换第一人称手部模型\n* 添加道具，让你变身为队伍中的宝可梦\n* 变身为当前注视的宝可梦\n* 其他有趣的功能",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

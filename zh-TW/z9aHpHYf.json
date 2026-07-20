@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4a9bad5398577ff9",
+  "content": "# StatsReader\n## 即刻查看你的对手是谁。\nStatsReader 将 BedWars 的玩家数据直接显示在 GommeHD.net 的 TAB 列表中，让你无需手动输入每个 `/stats` 命令即可识别强力玩家。\n玩家数据来源于一个公开的社区数据库。每当有 StatsReader 用户运行 `/stats` 命令时，最新的统计数据会自动上传并与所有用户共享，使数据库保持持续更新。\n使用 `/statsreader` 配置要显示的统计信息。\n### 公共数据库：https://bedwarsdatabase.at\n## 功能\n- TAB 列表中的实时 BedWars 数据\n- 社区驱动的数据库\n- 通过 `/stats` 自动更新\n- 可自定义\n## 兼容性\nFabric（需要 Fabric Loader 和 Fabric API）\n与现代客户端和启动器兼容，包括 Lunar Client、NoRisk Client 和 Modrinth\n专为 GommeHD.net 的 BedWars 设计",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

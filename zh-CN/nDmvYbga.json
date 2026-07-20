@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f49cc5f91d2b5c0c",
+  "content": "# 最轻灯具模组 <sub>适用于 Fabric 和 Quilt</sub>\n![LLMod banner](https://github.com/DcZipPL/lightestlampsmod/blob/1.18/new_logo.png?raw=true)\n\n***厌倦了到处放置火把了吗？***\\\n最轻灯具模组添加了多种灯具，它们拥有更大的光照范围以及特殊功能的灯具。\n\n现在你有 16 种灯具可供选择：\n- 扩展光照范围的灯具。光照范围从 16 格到 30 格不等，而原版火把仅为 15 格。\n- 具有扩展光照范围的水下灯具。\n- 驱逐灯，可将怪物从你的基地周围驱赶开。\n\n此外还添加了：\n- 用于制作这些灯具的机器。\n- 更多种类的萤石。\n- 新的资源。\n- 发光柱子。\n- 发光玻璃。\n- 全黑方块——凡塔布拉克（Vantablack）。\n- 可爱的水果形状悬挂灯笼。\n\n本模组需要 **[Cloth Config API](https://modrinth.com/mod/cloth-config)** 和 **[Fabric API](https://modrinth.com/mod/fabric-api)**（Fabric 版本），或 **[QFAPI/QSL](https://modrinth.com/mod/qsl)**（Quilt 版本）。另外，我推荐安装 **[REI](https://modrinth.com/mod/rei)**。\n\n## 对于模组包开发者\n本模组支持无需能量的原版友好模式，也支持使用能量的技术向模组包模式。\\\n你可以在配置文件中更改此设置。\n\n是的，你可以将此模组用于你的模组包中。\n\n## 常见问题\n\n问：<u>你能将模组移植到 1.17 以下版本吗？</u>\n\n答：**不能**\n\n问：<u>有 Forge 版本吗？</u>\n\n答：**在 CurseForge 上可用**，但有时可能不是最新版本。我主要专注于 Fabric 和 Quilt 平台。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

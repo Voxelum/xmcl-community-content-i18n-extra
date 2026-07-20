@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ddd176d081c8ea11",
+  "content": "\n\n<p>本Mod提供了一个用于在整合包中构建进度系统的框架。这些进度系统基于“阶段”（Stages），即用于追踪玩家进度的玩家专属标记。通过搭配其他Mod和插件，你可以配置游戏根据玩家已解锁的阶段做出不同的响应。虽然“阶段”一词可能暗示线性流程，但它们实际上适用于几乎所有类型的进度系统。常见的应用场景包括：RPG职业与技能、整合包模式（专家、硬核、简单）以及分支任务等。</p>\n\n<p>关于如何使用GameStages的具体指南，请参阅与你当前使用的Mod版本相对应的GitHub页面。你也可以加入我的 <a href=\"https://discord.darkhax.net\" rel=\"nofollow\">Discord</a> 服务器以获取帮助和深入交流。你可以在<a href=\"https://legacy.curseforge.com/minecraft/mc-mods/game-stages/relations/dependents?filter-related-dependents=3\" rel=\"nofollow\">这里</a>查看所有支持GameStages的Mod列表。</p>\n\n[![Nodecraft赞助横幅](https://assets.blamejared.com/nodecraft/darkhax.jpg)](https://nodecraft.com/r/darkhax)\n\n**本项目由Nodecraft赞助。使用优惠码 [DARKHAX](https://nodecraft.com/r/darkhax) 可享首月服务立减30%的优惠！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

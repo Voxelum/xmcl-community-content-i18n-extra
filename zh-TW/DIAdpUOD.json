@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d58b5bad794e98c",
+  "content": "\n\n![VTXS](https://cdn.modrinth.com/data/cached_images/c05f89e29f7fe27d7e4917ca90e55d2c8788c43f_0.webp)\n\nVTXS 專案旨在挑戰現代圖形趨勢中過度依賴 TAA 與放大技術的作法。VTXS 的設計理念在於，無論鏡頭移動速度為何，畫面中的事物皆能維持絕對清晰銳利。\n\n## 螢幕空間示範版\n此着色器引入了專為 VTXS 開發的光照系統。\n\n螢幕上可見的每個自發光像素都會照亮場景並投射陰影。\n雜訊水準已足夠低，可直接用於即時遊玩而無需進行降噪處理。不過，仍提供可選的降噪器功能。\n\n![Screenshot](https://cdn.modrinth.com/data/cached_images/7d4cabf94e6ba0c834d6d02cbdeff59b88ea1aad.jpeg)\n\n雖為示範版本，但此着色器旨在供實際遊玩使用，因此已規劃所有完整且可遊玩體驗所需的相關功能。\n\n### 已實作功能\n- 螢幕空間路徑追蹤\n- 基於物理的大氣系統\n- 涵蓋全粗糙度範圍的鏡面反射\n- 體積雲\n- 體積光線（Godrays）\n- 次表面散射\n- 動態半影陰影\n- 泛光\n- 瞳孔適應\n- 螢幕空間光線追蹤折射\n- GBAA 抗鋸齒\n\n特別感謝 [jbritain](https://modrinth.com/user/jbritain) 為 VTXS 開發體積雲功能！\n\n強烈建議搭配 PBR 材質包使用，因為內建的 PBR 系統功能相當有限。\n\n此着色器目前已支援 Intel GPU，但仍可能存在問題。如有任何異常，請至我的 [Discord 伺服器](https://discord.gg/5zg5XuhCBk) 回報。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

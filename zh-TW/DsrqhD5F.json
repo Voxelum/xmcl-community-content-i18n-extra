@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mSFjYy+fljk=",
-  "content": "# [日文說明請點此](https://github.com/datsuns/mc-100days/blob/v.1.1.0_mc1.21.10/README.ja.md)\n\n# 100 Days 插件\n\n# 功能特色\n\n* 在視窗底部（物品欄上方）顯示當前天數。\n* 夜晚結束時顯示慶祝文字！\n\n# 安裝於 Fabric\n\n依賴項目：\n\n* [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n\n# 安裝於 NeoForge\n\n無其他依賴模組。\n\n# 授權條款\n\n此範本採用 CC0 授權條款。歡迎自由學習並應用於您的專案中。",
+  "bodyHash": "f596afa4695cc8e6",
+  "content": "\n\n# [日文說明請見此處](https://github.com/datsuns/mc-100days/blob/v.1.1.0_mc1.21.10/README.ja.md)\n\n# 100 天模組\n\n# 功能\n\n* 在遊戲介面底部顯示當前天數。（位於物品欄上方）\n* 當夜晚結束時顯示提示文字！\n\n# Fabric 安裝\n\n依賴項目：\n\n* [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n\n# NeoForge 安裝\n\n無需其他依賴模組。\n\n# 授權條款\n\n本模板採用 CC0 授權條款釋出。歡迎自由參考，並將其應用於您自己的專案中。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

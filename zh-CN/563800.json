@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab5b95f0a7927127",
+  "content": "\n\n<h2>寻找 Forge 版本？<a href=\"https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge\" rel=\"nofollow\">点击这里</a></h2>\n<h2>&nbsp;</h2>\n<h2>功能特性</h2>\n<h4>DISK - 深度物品存储磁盘</h4>\n<p>无需任何类型限制即可存储 1k、4k、16k 和 64k 物品的存储细胞。该细胞无类型限制，且每个物品计为一个字节。受限于细胞格式，每 KiB 会损耗 24 个字节，但为了获得无类型限制的特性，这点代价很值得吧？注意：由于需要消耗少量下界合金，它们的造价比普通细胞更高。</p>\n<p><img src=\"https://i.imgur.com/KmZ5mAX.png\" alt=\"\" width=\"513\" height=\"550\"></p>\n<h4>高级刻印机</h4>\n<p>取消每组槽位数量限制，并移除烦人的侧面自动化限制。</p>\n<h4><img src=\"https://i.imgur.com/7TxvvUK.png\" alt=\"\" width=\"713\" height=\"329\"></h4>\n<p>&nbsp;</p>\n<h4>晶体生长室</h4>\n<p>一款可轻松一次性大量生成水晶或流明粉尘的机器。作为额外福利，它还会自动将成品直接输送至你的 ME 网络中！</p>\n<p><img src=\"https://i.imgur.com/5cNu7Xo.png\" alt=\"\" width=\"938\" height=\"299\"></p>\n<p>&nbsp;</p>\n<p>当然，本模组需要安装 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API </a>和 <a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" rel=\"nofollow\">AE2</a>！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80c134d9176aadab",
+  "content": "\n\n<p><a href=\"https://discord.gg/uXWsRftdy7\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/1007349372444491856.svg?logo=Discord&colorB=7289da\" alt=\"Сервер Discord\"></a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/edit-sign\" rel=\"nofollow\"><img src=\"http://cf.way2muchnoise.eu/short_344996_downloads.svg\" alt=\"Загрузки Curseforge\"></a>\n<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252feditsign\" rel=\"nofollow\"><img src=\"https://img.shields.io/modrinth/dt/editsign?logo=Modrinth\" alt=\"Загрузки Modrinth\"></a></p>\n<p>Позволяет редактировать таблички, не ломая их. Просто нажмите правую кнопку мыши по табличке, чтобы отредактировать её. Если вы не хотите редактировать, присядьте при взаимодействии.</p>\n<p><strong>Проект прекращён с выхода Minecraft 1.20, так как эта функция уже встроена в игру по умолчанию</strong></p>\n<hr>\n<ul>\n<li>Для пользователей Fabric требуется <strong>Fabric API</strong>.</li>\n<li>Для пользователей Forge <strong>Cloth Config API</strong> является необязательным на стороне клиента и позволяет использовать графический интерфейс конфигурации внутри игры.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

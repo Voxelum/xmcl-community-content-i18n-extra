@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fb002b1158c6fc1c",
+  "content": "# Networked\n## 注意：尚不適合用於生產環境\n\nNetworked 是一個簡單的庫，用於在伺服器端構建類似電線的網路。\n\n## 功能\n\n- 完全伺服器端運行\n- 兼容 Polymer\n- 不使用 BlockEntities 或 BlockStates\n- API 簡單易用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

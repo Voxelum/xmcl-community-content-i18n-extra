@@ -1,0 +1,6 @@
+{
+  "bodyHash": "30fc65a6259d2304",
+  "content": "\n\n<h2>冰与火修补器</h2>\n<p>这是一个用于修复模组 <a href=\"https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons\" target=\"_blank\" rel=\"nofollow\">Ice And Fire</a> 中部分严重错误与崩溃问题的补丁模组。</p>\n<p>当前维护的版本：1.16.5、1.18.2、1.19.2。</p>\n<p><strong>由于玩家较少，1.15.2 和 1.17.1 版本已停止维护。</strong></p>\n<p><strong>1.20.1 版本已停止维护，请使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce\" target=\"_blank\" rel=\"nofollow\">IceAndFire CE</a> 替代。</strong></p>\n<h2>已修复问题：</h2>\n<ul>\n<li>Citadel 在主线程获取 Patreon 数据导致启动缓慢。（现已改为独立线程运行）</li>\n<li>龙的呼吸特效会导致服务器严重卡顿。</li>\n<li>龙的呼吸粒子渲染错误</li>\n<li>标题界面性能低下，并恢复渲染淡出效果。</li>\n<li>模型动画器在播放动画后不清除缓存，导致内存泄漏。</li>\n<li>重新进入世界后，妖精瓶颜色显示不正确。</li>\n<li>神鹰马飞行过高且表现糟糕。</li>\n<li>火龙骨剑、火龙钢剑及工具无法烧炼掉落物。</li>\n</ul>\n<h2>功能增强</h2>\n<ul>\n<li>新增 <code>iceandfire:pixie_stolen_blacklist</code> 标签。</li>\n<li>将部分金质物品加入 <code>minecraft:piglin_loved</code> 标签，以便猪灵拾取。</li>\n</ul>\n<p><strong>加入我们的 <a href=\"https://discord.gg/NDzz2upqAk\" target=\"_blank\" rel=\"nofollow\">Discord</a> 频道反馈您希望修复的 Bug</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

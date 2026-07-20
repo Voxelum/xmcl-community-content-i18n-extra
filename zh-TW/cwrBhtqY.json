@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ed775fdf95e52ac",
+  "content": "\n\n# InfinityTotem\n\n**作者：** ffobb\n\n## ✨ 概述 | 模組簡介\n\nInfinityTotem 讓**所有手持物品都能發揮不死圖騰的效果**。\n\nInfinityTotem 讓**所有手持物品都能發揮不死圖騰的效果**。\n\n## 🛠 指令\n\n（僅限管理員）\n\n/enable <玩家>\n為指定玩家啟用 InfinityTotem\n\n/disable <玩家>\n為指定玩家停用 InfinityTotem\n\n## 📦 依賴需求\n\n- Minecraft 1.20.1\n- Fabric Loader\n- Fabric API\n\n## ⚠ 注意事項\n\n- 必須同時安裝於客戶端與伺服器上\n\n- 支援單人與多人遊戲模式",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

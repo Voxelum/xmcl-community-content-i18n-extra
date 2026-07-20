@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a6393186491fccc",
+  "content": "<h1>НЕОФИЦИАЛЬНЫЙ ПОРТ НА NEOFORGE</h1>\n<p>Это неофициальный порт мода Entity View Distance от Patbox на платформу NeoForge.\nПожалуйста, не сообщайте о любых проблемах разработчику Patbox, в их Discord или на GitHub.</p>\n<p>Официальную версию для Fabric вы можете найти здесь <a href=\"https://www.curseforge.com/minecraft/mc-mods/entity-view-distance\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/entity-view-distance</a></p>\n<p><img src=\"https://i.imgur.com/9PXWMXQ.png\" alt=\"Логотип\"></p>\n<h1>Entity View Distance</h1>\n<p>Этот мод позволяет изменять расстояние, на котором сущности становятся видимыми!\nОн работает как на клиенте, так и на сервере, при этом не требуя установки на обеих сторонах (то есть обычные клиенты/серверы могут по-прежнему подключаться).\nИдеально подходит, если вы хотите ограничить дальность прорисовки рамок с предметами, стоек для брони и любых других сущностей (включая добавленные модами).</p>\n<p>Вы можете изменить настройки в разделе <code>Настройки расстояния сущностей</code> в меню <code>Настройки видео</code> или с помощью команды <code>/entityviewdistance</code>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

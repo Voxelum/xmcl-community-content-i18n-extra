@@ -1,0 +1,6 @@
+{
+  "bodyHash": "59e8ade7a400901c",
+  "content": "\n\n## 概述\n如果你覺得原版的不死圖騰過於單調和抽象，那麼這個資源包是個不錯的選擇。\n它將不死圖騰設計成了玩家模型的樣式。不過與普通玩家相比，圖騰的模型更為可愛 _（頭身比為 1:3，玩家則為 1:5）_。\\\n\n  ![使用 /replace 指令裝備在頭部的圖騰](https://cdn.modrinth.com/data/BT2na8aq/images/fc0a249c7fa795a81a68dbfd5d968945b6b1a3d0.png)\n  更多圖片請查看圖庫\n\n\n## 自訂\n圖片中展示的是**Slim 版本**，適用於細手臂模型。若想更換為粗手臂的皮膚，可選擇**Classic 版本**。自訂方法請參閱資源包內的 `README.txt` 檔案。您也可以點擊下方直接查看。\\\n\n<details>\n<summary>點擊這裡</summary>\n\n自訂步驟\n1. 準備好你的皮膚 UV 貼圖，並命名為 `totem_of_undying.png`\n2. 開啟資源包，依路徑找到檔案 `assets\\minecraft\\textures\\item\\totem_of_undying.png`\n3. 將該檔案替換為你選定的皮膚貼圖\n\n</details>\n\n## 安裝\n向右拉動即可 \\\n![.](https://cdn.modrinth.com/data/BT2na8aq/images/ef73bc1da824b69c4840dc00b5d90c77791ab27c.png)\\\n需注意的是，本資源包若與[不死圖騰插槽（Charm of Undying）](https://modrinth.com/mod/charm-of-undying) 同時啟用時，可能會導致不死圖騰的顯示位置較為尷尬。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

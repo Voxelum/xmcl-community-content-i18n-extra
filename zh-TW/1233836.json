@@ -1,6 +1,6 @@
 {
-  "bodyHash": "jPf0lZ8V99Q=",
-  "content": "<div># 更好的攜帶女僕模組</div><p>&nbsp;</p><div><img src=\"https://media.forgecdn.net/attachments/description/null/description_497fd27e-55b6-41e7-bf4d-ecbfa789776d.png\"></div><div><br>## 運作方式<br><br>1. 在攜帶女僕時注入，使你實際攜帶的實體變成一個新的實體，讓原本的女僕騎乘在你身上。<br>2. 隱藏被攜帶的實體。<br>3. 放置女僕時，只需移除你剛剛攜帶的虛假實體。<br><br>## 授權條款<br><br>由於 CarryOn 模組使用 LGPL-v3 授權條款，本模組包含對其部分程式碼修改的引用，因此在開源時也將遵循 LGPLv3 授權條款。<br><br></div>",
+  "bodyHash": "d3a6644c19ae56af",
+  "content": "\n\n<div># CarryOn 女僕加強版</div>\n<p>&nbsp;</p>\n<div><img src=\"https://media.forgecdn.net/attachments/description/null/description_497fd27e-55b6-41e7-bf4d-ecbfa789776d.png\"></div>\n<div><br>## 運作方式？<br><br>1. 攜帶女僕時進行注入，將你實際攜帶的實體轉換為新實體，並讓原版女僕騎乘在你身上。<br>2. 隱藏被攜帶的實體。<br>3. 放置女僕時，只需移除剛才攜帶的偽實體即可。<br><br>## 授權條款<br><br>由於 CarryOn 模組採用 LGPL-v3 授權，本模組包含其部分程式碼修改的引用，因此本模組在開源時將遵循 LGPLv3 授權。<br><br></div>",
   "contentType": "text/html",
   "type": "curseforge"
 }

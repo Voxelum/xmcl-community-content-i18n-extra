@@ -1,6 +1,6 @@
 {
-  "bodyHash": "vZVP4WEvkdE=",
-  "content": "<h1>拆除绊线</h1><p><a href=\"https://github.com/ton185/DisarmTripwire\" rel=\"nofollow\">https://github.com/ton185/DisarmTripwire</a></p><h2>功能说明</h2><p>Forge移除了使用剪刀左键点击拆除绊线的功能。本模组将恢复此功能。</p><h2>实现原理</h2><p>非常简单——游戏中仍保留着拆除绊线的实际逻辑，因此我只需添加一个事件处理器，在玩家用剪刀左键点击时触发拆除绊线即可。</p><p><strong>如需将此模组移植至其他版本的Forge/NeoForge，请提交问题报告。</strong></p>",
+  "bodyHash": "7c844b76259785bb",
+  "content": "\n\n<h1>DisarmTripwire</h1>\n<p><a href=\"https://github.com/ton185/DisarmTripwire\" rel=\"nofollow\">https://github.com/ton185/DisarmTripwire</a></p>\n<h2>简介</h2>\n<p>Forge 移除了使用剪刀左击解除绊线的功能。本模组恢复了该能力。</p>\n<h2>工作原理</h2>\n<p>实现非常简单，游戏中解除绊线的底层逻辑依然存在，因此我只需要添加一个事件处理器，在使用剪刀左击时触发解除绊线的操作即可。</p>\n<p><strong>如果您希望我将此模组移植到其他版本的 Forge/NeoForge，请提交一个 Issue。</strong></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

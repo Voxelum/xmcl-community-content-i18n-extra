@@ -1,6 +1,6 @@
 {
-  "bodyHash": "NmtUU2c7aQU=",
-  "content": "![横幅](https://cdn.modrinth.com/data/cached_images/4e1ae6164f6b5bd65d6f6243017404eec9ee2412_0.webp)\n\n沉浸式护甲HUD会在现有护甲耐久条上方，显示当前穿戴护甲类型的详细信息，并通过耐久度提示哪些护甲即将损坏。\n\n本模组采用自定义的7x7迷你护甲图标来呈现装备信息，确保像素级精确并与原版界面完美契合：\n\n![演示](https://cdn.modrinth.com/data/cached_images/db4ccf7ca618f0a7c1a15b25c169ca942daa3d1c.png)\n\n护甲HUD条的位置和偏移量均可配置——您可以切换到右侧显示，或手动调整X/Y坐标位置。\n\n该模组还提供多种模组兼容支持，目前仅支持天境（The Aether）的护甲：\n\n![模组兼容](https://cdn.modrinth.com/data/cached_images/c988e6a1a2d27b84de98f718921bd230cd08f7f1.png)",
+  "bodyHash": "043fb29d73dc6303",
+  "content": "\n\n![banner](https://cdn.modrinth.com/data/cached_images/4e1ae6164f6b5bd65d6f6243017404eec9ee2412_0.webp)\n\nImmersive Armor HUD 在现有的盔甲耐久条上方添加了关于你当前穿戴的盔甲类型的信息，并显示耐久度数据，提示哪些盔甲即将破损。\n\nImmersive Armor HUD 使用自定义的迷你化 7x7 盔甲图标来渲染盔甲信息，这些图标经过像素级优化，可与原版状态栏完美对齐：\n\n![demo](https://cdn.modrinth.com/data/cached_images/db4ccf7ca618f0a7c1a15b25c169ca942daa3d1c.png)\n\n盔甲 HUD 栏的位置与偏移量均可自定义——你可以将其切换至右侧，或手动调整 X 和 Y 坐标。\n\n该模组还提供了与其他模组的兼容性支持，目前仅适配来自《天堂》（The Aether）模组的盔甲：\n\n![mod compat](https://cdn.modrinth.com/data/cached_images/c988e6a1a2d27b84de98f718921bd230cd08f7f1.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

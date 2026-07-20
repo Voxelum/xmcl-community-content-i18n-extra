@@ -1,6 +1,6 @@
 {
-  "bodyHash": "r5nhnAOxVOQ=",
-  "content": "### 【Let's Do 擴充模組】相容性補丁\n\n此模組為 Let's Do 系列模組與大量其他模組之間添加相容性支援，讓您無需手動調整\n\n目前版本（2.1.0 起）包含的相容性支援：\n* 所有基於 Let's Do Farm&Charm 的模組（Farm&Charm、Candlelight、Brewery、Bakery）及其他（Vinery、Beachparty...）\n* 所有 Farm&Charm 非官方擴充模組（CornExpansion…）\n* Farmer's Delight / Farmer's Delight Refabricated\n* 所有 Farmer's Delight 擴充模組\n* 口渴模組相容性（Legendary Survival Overhaul、Thirst was Taken、Dehydration...）\n\n未來計劃：\n* 任何「您」的建議！歡迎在 Discord 或 GitHub 議題中提出\n\n本模組還提供輕量級 API，供開發者以載入器無關的方式（可僅用於 Forge、僅用於 Fabric，或同時支援兩種載入器）一次性為所有支援的口渴模組添加相容性：\n```java\nThirstCompatHelper#registerDrinkThirst(String itemName, int thirst, float quench);\n// 或\nThirstCompatHelper#registerFoodThirst(String itemName, int thirst, float quench);\n```",
+  "bodyHash": "32986c86d79f1f8f",
+  "content": "\n\n### \\[Let's Do Addon\\] 相容性\n\n此模組為 Let's Do 系列模組與眾多其他模組之間添加了相容性，讓您無需手動設定。\n\n目前的相容性（截至 2.1.0 版本）包含：\n* 所有基於 Let's Do Farm&Charm 的模組（Farm&Charm、Candlelight、Brewery、Bakery）以及其他模組（Vinery、Beachparty...）\n* 所有 Farm&Charm 的非官方擴充模組（CornExpansion…）\n* Farmer's Delight / Farmer's Delight Refabricated\n* 所有 Farmer's Delight 的擴充模組\n* 口渴模組相容性（Legendary Survival Overhaul、Thirst was Taken、Dehydration...）\n\n未來計畫：\n* 任何來自您的建議！歡迎在 Discord 或 GitHub Issues 中提出。\n\n本模組還提供了一個輕量級 API，讓開發者能夠以不依賴特定載入器的方式，一次性為所有支援的口渴模組添加相容性（可單獨用於 Forge、Fabric，或同時支援兩者）：\n```java\nThirstCompatHelper#registerDrinkThirst(String itemName, int thirst, float quench);\n// OR\nThirstCompatHelper#registerFoodThirst(String itemName, int thirst, float quench);\n```",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

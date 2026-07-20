@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1a0d22a007d7b905",
+  "content": "\n\n# 让你的进度界面不再难用！\n \n\n## 功能\nPaginated Advancements 完全重制了进度界面，并加入了大量新功能：\n- 扩大界面尺寸，取代原版固定且过小的设计\n- 分页显示（再也不用担心“整合包标签页太多无法全部显示”的问题了！）\n- 固定你当前关注的进度标签页\n- 记住上次打开的标签页\n\n \n此外还提供了一些样式选项，让你能按照个人喜好定制界面：\n- 禁用背景渐隐效果\n- 可调节标签页间距，允许大幅紧凑排列，或为它们留出更多呼吸空间\n\n![Pagination](https://cdn.modrinth.com/data/pJogNFap/images/f21f208d632d42a1d5d7ffcf3d85e45c96e5e51c.png)\n\n\n## 额外的进度边框与颜色\n\n2.0 版本新增功能：支持通过数据包或兼容模组注册新的进度边框（含自定义颜色）。[点击查看 Wiki 教程](https://github.com/DaFuqs/PaginatedAdvancements/wiki)\n\n![Custom Frames](https://cdn.modrinth.com/data/pJogNFap/images/2c85290195a2d4315a7a3d758c5198bf437f3060.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

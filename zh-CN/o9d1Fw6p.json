@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de958591f7200dd4",
+  "content": "\n\n### 自 1.20（约 1.20.5）起，Minecraft 的 Unicode 字体因对原始 Unifont 字形的更新而经历了数次变更。\n\n我将旧版 Unicode 字体以资源包的形式带入了现代游戏版本中。\n- _原版_ 字体（Unifont v5.0，用于 ~1.19.4）\n- 首次更新版字体（Unifont v15.0.04，曾在 23w17a 中短暂使用）\n- 第二次更新版字体（Unifont v15.0.06，用于 ~23w44a）\n\n**所有字体均采用 unihex 格式，因此你需要 Minecraft 23w17a 或更高版本。**\n\nUnifont 相关信息：https://unifoundry.com/unifont/",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

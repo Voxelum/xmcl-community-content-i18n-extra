@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42f31f11b749259f",
+  "content": "# No Eye Line\n\n清理你的碰撞箱。\n\n**No Eye Line** 是一款轻量级的客户端 Fabric 模组，用于 Minecraft，它会移除实体碰撞箱内部渲染的烦人视线方向线。\n\n非常适合 PvP、练习服务器、测试、内容创作以及需要更清晰碰撞箱渲染的通用游戏场景。\n\n---\n\n## ✨ 特性\n\n### 🧹 移除视线方向线\n\n在启用碰撞箱显示（`F3 + B`）时，Minecraft 默认会从实体的眼睛处渲染一条线。\n\n此模组会完全移除该线条，同时保持其他碰撞箱渲染不变。\n\n---\n\n## 🎯 为什么使用它？\n\n原版视线方向线可能会：\n\n* 使屏幕显得杂乱\n* 让碰撞箱更难辨认\n* 干扰 PvP 体验\n* 在录屏或截图中造成视觉分散\n* 降低测试时的视觉清晰度\n\nNo Eye Line 让碰撞箱保持简洁和极简。\n\n---\n\n## ⚡ 纯客户端\n\n* 完全在客户端运行\n* 无需服务器安装\n* 在服务器上安全使用\n* 不改变游戏玩法\n\n---\n\n## 📦 要求\n\n* Minecraft\n* Fabric Loader\n\n---\n\n## 🖼 对比\n\n### 原版\n\n```text\n碰撞箱 + 视线方向线\n```\n\n### 使用 No Eye Line\n\n```text\n无视线方向的干净碰撞箱\n```\n\n---\n\n## 🚀 轻量级\n\n* 无需配置\n* 无依赖项\n* 对性能影响极小\n* 功能简单专注\n\n---\n\n## 📄 许可证\n\nMIT License",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

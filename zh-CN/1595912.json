@@ -1,6 +1,6 @@
 {
-  "bodyHash": "413519e04858daf9",
-  "content": "\n\n<p>此附加包为 Sable Beyond 添加了来自 Create: Copycats+ 模组的 Copycats 动态质量功能。示例：Copycat 台阶的质量为 1 kg，当对其应用铁块时，质量将变为铁块的质量（4 kg）。该功能应适用于所有 Copycat 和所有方块，如有任何 Bug，可在模组的 GitHub 页面进行反馈。</p>",
+  "bodyHash": "47b33c286a0b46a8",
+  "content": "\n\n<h1>Sable DynoCats</h1>\n<p><strong>基于 Sable，为 Copycats+ 方块提供真实的物理模拟。</strong></p>\n<p>你是否曾用 Copycats+ 建造了一台巨大的铁制机器，却纳闷为什么它的重量竟和木质装饰品一模一样？</p>\n<p>Sable DynoCats 通过根据 Copycat 方块所模仿的材质进行合理的质量计算，解决了这一问题。</p>\n<hr>\n<h2>功能特性</h2>\n<p>✨ <strong>基于材质的质量计算</strong></p>\n<p>Copycat 方块现在会采用其所复制材质的真实质量。</p>\n<p>铁 Copycat？沉重。<br>\n羊毛 Copycat？较轻。<br>\n木头 Copycat？介于两者之间。</p>\n<hr>\n<p>✨ <strong>支持多材质 Copycat</strong></p>\n<p>复杂的 Copycat 结构将得到正确计算：</p>\n<ul>\n<li>Copycat Byte</li>\n<li>Copycat Board</li>\n<li>Copycat Slab</li>\n<li>等等</li>\n</ul>\n<p>部分填充的 Copycat 只会计算实际存在的材质部分。</p>\n<p>一个仅含一个铁质部分的 Byte，不会凭空变成四个铁质部分。</p>\n<hr>\n<p>✨ <strong>可配置</strong></p>\n<p>可选配置包括：</p>\n<ul>\n<li>启用或禁用自定义质量倍率</li>\n<li>是否计入 Copycat 方块自身的质量</li>\n</ul>\n<hr>\n<p>✨ <strong>数据驱动</strong></p>\n<p>可通过 JSON 文件自定义质量属性，从而兼容未来 Copycats+ 的更新内容。</p>\n<hr>",
   "contentType": "text/html",
   "type": "curseforge"
 }

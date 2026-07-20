@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5efc5476543a3826",
+  "content": "\n\n# 工具腰帶 + TFC 整合模組\n\n這是一個用於整合 Toolbelt 與 TerraFirmaCraft 模組的簡易模組。它為腰帶和腰包新增了修改過的合成配方，並加入了腰帶升級功能。\n\n<details>\n<summary>腰帶合成配方</summary>\n  \n新的工具腰帶合成配方，支援 TFC 物品  \n![腰帶合成配方](https://raw.githubusercontent.com/Adam4CZ/toolbelt-tfc-integration/refs/heads/1.20.x/img/belt-recipe.png)\n\n</details>\n\n<details>\n<summary>腰包合成配方</summary>\n  \n新的腰包合成配方支援 TFC 物品，並將黃金改為青銅  \n![腰包合成配方](https://raw.githubusercontent.com/Adam4CZ/toolbelt-tfc-integration/refs/heads/1.20.x/img/pouch-recipe.png)\n\n</details>\n\n<details>\n<summary>腰帶升級配方（無固定形狀）</summary>\n  \n- 骨針（會損壞）\n- 羊毛線／繩線\n- 工具腰帶\n- 腰包  \n  \n![腰帶升級配方](https://raw.githubusercontent.com/Adam4CZ/toolbelt-tfc-integration/refs/heads/1.20.x/img/belt-upgrade-recipe.png)\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

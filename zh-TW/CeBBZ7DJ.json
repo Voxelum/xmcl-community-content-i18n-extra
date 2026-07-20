@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0445803076167277",
+  "content": "\n\n![Coords & Days 標誌](https://cdn.modrinth.com/data/cached_images/959ef1967460b70d0f74d01fed4e916e677fb15e.png)\n---\n一款 Minecraft 資料包與資源包，可在左上角顯示您目前的座標與天數。\n\n**警告！必須安裝資源包才能讓資料包正常運作！**\n## 功能特色\n* 顯示同步的玩家座標位置。\n* 顯示世界實際經過的天數。\n* 感謝資源包中的 VSH 光影與留白設計，資料包能將動作列完美對齊至左上角。\n\n## 安裝方式\n1. 下載資料包與資源包的 `.zip` 檔案。\n2. 將資源包檔案放入 `.minecraft/resourcepacks` 資料夾中，並在選項中啟用。\n3. 將資料包檔案放入所選存檔的 `datapacks` 資料夾中。\n4. 進入世界。資料包已安裝完畢並可立即使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

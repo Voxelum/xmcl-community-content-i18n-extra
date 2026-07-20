@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8939e0c062c96557",
+  "content": "Изменяет облака в Minecraft на более стилизованные, добавляя разные текстуры для дождя и грозы, а также увеличивает дальность их прорисовки.\n\n![Демонстрация.](https://cdn.modrinth.com/data/u8S5swGv/images/522b03913a72c1b751e9970c7b1af80f23aebf6d.webp)\n\n**Мод не будет работать корректно с Sodium, если вы не отключите миксин облаков в Sodium!**\n\n> sodium-mixins.properties:\n> ```properties\n> mixin.features.render.world.clouds=false\n> ```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

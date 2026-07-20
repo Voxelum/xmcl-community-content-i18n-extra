@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5393696ed704f11c",
+  "content": "\n\n<p>一款輕量級模組，用於清理舊版且未使用的日誌檔案。</p>\n<p>最棒的是，此模組判斷是否保留檔案並非依據建立日期，而是根據檔案最後一次存取（不論何種類型）的時間，因此仍在被使用的日誌不會被意外移除。</p>\n<p>支援純客戶端與純伺服器環境運作，且適用於所有 Minecraft 版本。</p>\n<p>預設會清理超過 14 天未使用的日誌，這提供了充足的緩衝時間以供除錯；當然，您也可自行設定為任意天數。</p>\n<h2>設定</h2>\n<p>您可以在 <code>config/logcleaner.json</code> 中找到本模組的設定檔，其中包含兩項可調整的選項：</p>\n<ul>\n<li><code>daysOld</code>：日誌檔案必須超過多少天未使用才會被刪除。預設值為 <code>14</code></li>\n<li><code>silent</code>：若設為 <code>true</code>，Log Cleaner 將不會在日誌中輸出已刪除檔案數量的訊息。預設值為 <code>false</code></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

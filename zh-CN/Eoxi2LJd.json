@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8aecd3ffbaf1fa7d",
+  "content": "\n\n![](https://cdn.imb11.dev/requires_fabric_api.png) [![](https://cdn.imb11.dev/mineblock%20badge_64h.png)](https://discord.gg/UzHtJKqHny) [![](https://cdn.imb11.dev/modding-elite-badge.png)](https://ko-fi.com/mineblock11)\n\n## Flow 暂时搁置\n\nMojang 在 1.21 系列版本中的 UI 重构使得为 1.21.3、1.21.4 和 1.21.5 更新 Flow 几乎不可能。若 UI 重构趋于稳定，Flow 将在未来更新（至少 26.1+）中重新制作。欢迎通过 PR 提交贡献。\n\n# Flow\n\nFlow 是一款物品栏界面动画模组，允许你在打开或关闭任意物品栏屏幕时配置缓入缓出动画。\n\n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/NScf9A9OBFA\" height=\"358\" width=\"638\"></iframe>\n\n# 兼容性\n\nFlow **很可能已经与大量模组兼容**，同时内置了针对许多模组（如 EMI）的适配修复。\n\n# 配置\n\nFlow 拥有丰富的配置选项，涵盖背景着色与模糊效果，以及用于控制进出动画的缓动类型。\n\n![](https://cdn.modrinth.com/data/Eoxi2LJd/images/bd212a83426e1eac2d8b6779a77c2742367a63a0.png)\n\n# 路线图\n\n- 动画方向、更复杂的过渡效果。例如从左侧/右侧滑入等。\n- 更多可自定义的模糊/着色动画。\n\n<small>\n\n使用我的模组即表示您同意 [Modpack 分发指南](https://imb11.dev/legal/modpacks) 和 [最终用户许可协议](https://imb11.dev/legal/eula)\n\n</small>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

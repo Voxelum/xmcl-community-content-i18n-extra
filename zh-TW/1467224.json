@@ -1,0 +1,6 @@
+{
+  "bodyHash": "05f2bf4e95e743a5",
+  "content": "\n\n<h1>人偶揮舞</h1>\n<p>此模組為人偶新增了揮舞動畫的支援。它並未新增任何觸發揮舞動畫的新方式，例如 26.1 快照中的 <code>/swing</code> 指令。</p>\n<h2>技術細節</h2>\n<p><code>LivingEntity</code> 擁有一個 <code>updateSwingTime</code> 方法，必須同時在用戶端與伺服器上呼叫，才能讓實體揮動雙臂。然而，該方法僅被 <code>Player</code> 與怪物使用。本模組透過 submixin 技術，在 <code>Mannequin</code> 的 <code>aiStep</code> 函式中加入了呼叫。</p>\n<pre><code>@Mixin(LivingEntity.class)\npublic class LivingEntityMixin {\n\t@Shadow\n\tprotected void updateSwingTime() {};\n\n\t@WrapMethod(method = &quot;aiStep&quot;)\n\tpublic void overrideAiStep(Operation&lt;Void&gt; original) {\n\t\toriginal.call();\n\t}\n}\n\n@Mixin(Mannequin.class)\npublic class MannequinSubMixin extends LivingEntityMixin {\n\t@Override\n\tpublic void overrideAiStep(Operation&lt;Void&gt; original) {\n\t\tsuper.overrideAiStep(original);\n\t\tupdateSwingTime();\n\t}\n}\n</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

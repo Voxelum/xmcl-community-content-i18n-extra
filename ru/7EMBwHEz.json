@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qXnZebDsa9Q=",
-  "content": "# Функция перенесена из [Better Brightness Slider](https://modrinth.com/mod/better-brightness-slider)\n\n## Перенесён мод с более ранней версии 1.20.x на версию NeoForge 1.21\n\nBetter Brightness Slider расширяет стандартный ползунок яркости, позволяя изменять его значение от -100% до 1200% (полная яркость) вместо 0% до 100%. Это клиентский мод, поэтому он не требуется на серверах.\n\n \nОбновите версию до 1.21 NeoForge. \n\nМод должен быть совместим с Optifine и Embeddium.\n\nСодержание касается мода/пакета ресурсов/пакета модов/пакета шейдеров для Minecraft или других связанных с Minecraft ресурсов. Пожалуйста, сохраняйте стиль текста приятным для геймеров.",
+  "bodyHash": "e71bf4b3573fa8ea",
+  "content": "# Функция портирована с [Better Brightness Slider](https://modrinth.com/mod/better-brightness-slider)\n\n## Портирование мода с версии 1.20.x на NeoForge для версии 1.21\n\nBetter Brightness Slider расширяет стандартный ползунок яркости, позволяя устанавливать его значение от -100% до 1200% (полная яркость), вместо стандартных 0–100%. Это клиентский мод, поэтому он не требуется на серверах.\n\nОбновление версии до 1.21 NeoForge.\n\nМод должен быть совместим с Optifine и Embeddium.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

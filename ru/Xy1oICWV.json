@@ -1,0 +1,6 @@
+{
+  "bodyHash": "90165e17f140c50e",
+  "content": "\n\n**РУДЫ СВЕТЯТСЯ ТОЛЬКО ПРИ УСТАНОВКЕ ОДНОГО ИЗ ЭТИХ КОМПОНЕНТОВ:**\n\n---\n\nOptifine (Forge) или\nContinuity (Fabric/Forge/NeoForge/Quilt)\n\nДанный ресурспак использует эмиттивные свойства этих программ. Без них ресурспак будет работать, но руды не будут светиться — отобразится только анимация блика.\n\nТакже, разумеется, необходимы моды Create и Create: The Factory Must Grow. (Текстуры из версии 0.9.3)\n\n## Демонстрация:\n![glow&glint](https://cdn.modrinth.com/data/cached_images/d3e90605ad89ee200ec2178c81b18fdf480dd644.gif)\n\n(Анимация в демонстрации зациклена без пауз для уменьшения размера GIF-файла)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

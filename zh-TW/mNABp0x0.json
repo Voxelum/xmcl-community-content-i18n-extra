@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fd4e4e188f369d70",
+  "content": "\n\n這是一個非常輕量且無侵入性的模組，僅透過物品標籤、物品屬性甚至配方，即可讓來自任何模組的幾乎所有蔬菜或食物進行堆肥！\n\n功能特色：\n\n- 現在任何食物／蔬菜皆可堆肥（含肉類的美食除外）\n- 飲料（裝在瓶子或桶子裡）現在也可以堆肥，完成後堆肥機還會將容器吐出！\n- 由可堆肥物品製成的物品也變成可堆肥了！\n- 任何可用骨粉轉換的物品／方塊也都能堆肥。\n\n![Showcase gif](https://i.imgur.com/DoD6lFu.gif)\n\n已測試相容於：\n- Farmer's Delight\n- Croptopia\n- 各種其他作物與食物模組\n\n如果您遇到應該能堆肥或不應堆肥的物品，請務必開啟 Issue！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

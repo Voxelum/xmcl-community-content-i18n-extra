@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Cj2ePGkAoYw=",
-  "content": "## 关于\n\n新增一种锁定流体管道状态的方式，类似于封装管道的功能。同时为管道扳手添加了详细说明条目，将提供更多操作细节。\n\n## 警告\n2.x版本与1.x版本不兼容，更新后可能导致功能异常。为避免问题，请在更新前先解锁所有已连接的管道。\n\n## 更多模组\n\n*   [链接遥控器](https://www.curseforge.com/minecraft/mc-mods/create-more-linked-remote)\n*   [并行管道](https://www.curseforge.com/minecraft/mc-mods/create-more-parallel-pipes)\n*   [包裹式管道炸弹](https://www.curseforge.com/minecraft/mc-mods/create-more-pipe-bombs-in-packages)\n*   [包裹快递系统](https://www.curseforge.com/minecraft/mc-mods/create-more-package-couriers)\n*   电动泵（开发中）\n\n## 鸣谢\nSheppenings - 管道扳手初始设计",
+  "bodyHash": "c8873d2c0a5ae326",
+  "content": "\n\n## 关于\n\n为流体管道提供了一种类似套管管道的状态锁定方式。已添加管道扳手的 Ponder 条目，将提供更多信息。\n\n## 警告\n2.x 版本与 1.x 不兼容，更新后可能会导致问题。为缓解此问题，更新前请先解锁所有管道。\n\n## Create 更多模组\n\n*   [联动远程](https://www.curseforge.com/minecraft/mc-mods/create-more-linked-remote)\n*   [并行管道](https://www.curseforge.com/minecraft/mc-mods/create-more-parallel-pipes)\n*   [包裹中的管道炸弹](https://www.curseforge.com/minecraft/mc-mods/create-more-pipe-bombs-in-packages)\n*   [包裹信使](https://www.curseforge.com/minecraft/mc-mods/create-more-package-couriers)\n* 电动泵（开发中）\n\n## 鸣谢\nSheppenings - 管道扳手初始设计",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

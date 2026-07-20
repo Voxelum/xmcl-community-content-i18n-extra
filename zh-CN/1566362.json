@@ -1,0 +1,6 @@
+{
+  "bodyHash": "212a7772a8237c7e",
+  "content": "\n\n<h1>KatamariIO</h1>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_1086850d-8fbd-4807-b1db-5cba680e305c.png\" alt=\"image\"></p>\n<p>控制一个可以吸收附近方块并逐渐增大的球体</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1566362/description_03b134a6-9e9c-4c57-ade1-33e8a493f814.png\" alt=\"image\"></p>\n<h2>命令</h2>\n<p>权限等级：<code>2</code>（OP）</p>\n<ul>\n<li><p><code>/katamari size &lt;targets&gt; &lt;value&gt;</code> 为目标玩家设置碰撞体积。<br>\n范围：<code>0.01 .. 20.0</code></p></li>\n<li><p><code>/katamari size &lt;target&gt;</code> 显示当前大小。</p></li>\n<li><p><code>/katamari restitution &lt;targets&gt; &lt;value&gt;</code> 设置恢复系数。<br>\n范围：<code>0.01 .. 1.2</code></p></li>\n<li><p><code>/katamari restitution &lt;target&gt;</code> 显示恢复系数。</p></li>\n<li><p><code>/katamari ball &lt;targets&gt; &lt;enabled&gt;</code> 开启/关闭球体模式。</p></li>\n<li><p><code>/katamari resetBlocks &lt;targets&gt;</code> 清除已附着的方块，并将碰撞/渲染尺寸重置为 <code>KatamariIO.DEFAULT_BALL_SIZE</code>（当前为 <code>2.0f</code>）。</p></li>\n</ul>\n<h2>NBT 命令示例</h2>\n<ul>\n<li><code>/data get entity @s SPM_BlockCount</code></li>\n<li><code>/data get entity @s SPM_Size</code></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

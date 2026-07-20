@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc3737763f1981aa",
+  "content": "\n\nYet Another Farmer's Delight addon — это мод, который добавляет ножи и некоторые блюда в стиле Farmer's Delight для модов, перечисленных ниже.\nОн возник после обсуждения на Discord-сервере Violet Moon о том, что добавлений для Farmer's Delight слишком много, а универсального мода для «совместимости материалов» ножей не хватает.\n\nYAFDA в настоящее время поддерживает:\n- Aether (включая рецепты починки алтарей)\n- Deep Aether\n- Deeper and Darker\n- Thirst was Taken\n- Brewin' and Chewin\n- Immersive Engineering\n- Malum\n\nВсе предметы и их зависимые моды:\n![All Items](https://raw.githubusercontent.com/Partonetrain/yafda/refs/heads/1.21.1/all_items.png)\n\nЯ открыт для предложений по добавлению поддержки других модов.\nДля рецептов нарезки, связанных со шкафчиками и деревом, я настоятельно рекомендую EveryCompat.\n\n### Fabric?\nРепозиторий разработки поддерживает Fabric, но, к сожалению, из-за большого количества кросс-модовой поддержки и отсутствия общих API для указанных модов,\nверсия YAFDA для Fabric не может использовать какой-либо код из версии NeoForge. Поэтому разработка YAFDA будет ориентирована на NeoForge.\nЕсли вы хотите портировать YAFDA на Fabric, вы можете отправить pull request.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

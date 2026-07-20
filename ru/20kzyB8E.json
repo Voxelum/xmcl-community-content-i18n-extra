@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc9c007af18c039a",
+  "content": "\n\nВсё как в описании.\n\nУ мода [SpiffyHUD](https://www.curseforge.com/minecraft/mc-mods/spiffyhud) есть [проблема](https://github.com/decce6/Gnetum/issues/29) с модом [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum) из-за особенностей отрисовки элементов его интерфейса (TL;DR: она реализуется через миксин, а значит, blah blah blah). Автор [Gnetum](https://github.com/Keksuccino/SpiffyHUD/pull/42) уже подготовил исправление для этого, но автор SpiffyHUD отказался его принимать. Я решил внедрить его в данное дополнение.\n\nОно отключает отрисовку через миксин и заменяет её на механизм, использующий соответствующие события Forge.\n\nЕсли вы не планируете использовать Gnetum (или любой другой аналогичный мод) вместе со SpiffyHUD, данное дополнение не будет выполнять никаких действий.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

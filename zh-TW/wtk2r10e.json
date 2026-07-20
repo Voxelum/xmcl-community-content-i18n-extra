@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WA9j60O8CWY=",
-  "content": "### 生物血量條模組\n#### Forge、Fabric 與 Neoforge\n\n這個模組會在生物上方新增一個血量條。\n\n共有 13 種不同樣式的血量條可供選擇，並可自由調整位置。\n\n按下「H」鍵即可開啟選擇器。\n\n血量條的其他可調整選項包括：\n- 顯示距離\n- 縮放大小\n- 名稱顯示\n- 生命值顯示（若選擇的血量條樣式支援生命值顯示）\n- 設定血量條僅在生物處於敵對狀態、受傷時，或游標懸停在生物上方時才顯示\n\n- 材質可見度\n\n- 僅顯示受傷的生物\n- 在設定檔中將生物加入黑名單\n- 若使用 Forge：\n（在 blacklist 後面輸入 = minecraft:cow,minecraft:pig 等，即可將這些生物加入黑名單）\n\n- 若使用 Fabric：\n（在 blacklist 後面輸入 = cow,pig 等，即可將這些生物加入黑名單）\n\n希望你會喜歡。\n若發現任何錯誤，請務必告訴我。\n\n感謝下載這個模組！",
+  "bodyHash": "2df3df5e434279fb",
+  "content": "\n\n### 生物血條模組\n#### Forge、Fabric 與 Neoforge\n\n此模組會在生物上方顯示血條。\n\n提供 13 種可調整位置的血條樣式。\n\n按下「H」鍵即可開啟選單。\n其他可自訂的選項包括：\n- 渲染距離\n- 縮放比例\n- 名稱顯示\n- 生命值顯示（若所選血條樣式支援 HP 顯示）。\n- 僅在生物具有敵意、受傷或游標懸停於其上方時顯示\n- 紋理可見度\n- 僅顯示受傷的生物\n- 於設定檔中將生物加入黑名單\n- 若您使用的是 Forge：\n（在 `blacklist =` 後輸入 `minecraft:cow,minecraft:pig`，以此類推即可將這些生物加入黑名單）\n\n- 若您使用的是 Fabric：\n（在 `blacklist =` 後輸入 `cow,pig`，以此類推即可將這些生物加入黑名單）\n\n希望您喜歡這個模組。\n若您發現任何錯誤，請隨時告知我。\n感謝下載本模組！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

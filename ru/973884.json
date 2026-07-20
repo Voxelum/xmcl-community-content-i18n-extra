@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a9d32c7be6ef931e",
+  "content": "\n\n<p>Этот мод реализует проверку версий модов, аналогично Forge. В настоящее время он просто выводит статус в консоль.</p>\n<p>&nbsp;</p>\n<p>Поддерживает поля \"homepage\", \"promos\" и \"&lt;mcversion&gt;-latest\".</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

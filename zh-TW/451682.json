@@ -1,0 +1,6 @@
+{
+  "bodyHash": "039f99fbc10c4913",
+  "content": "\n\n<p>預設情況下，村民每次死亡時都會在控制台中記錄一則訊息。</p>\n<p>當玩家運行任何形式的村民農場時，這會導致產生過多訊息。</p>\n<p>此模組會屏蔽該死亡訊息。</p>\n<p>另請參閱 <a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-165985\" rel=\"nofollow\">MC-165985</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

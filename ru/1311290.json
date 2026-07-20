@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b56de25a2a0e0837",
+  "content": "\n\n<ol>\n<li>Обзор<br>Источник вдохновения для мода:&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f18157.html\" target=\"_blank\" rel=\"nofollow\">Crafting Recipe Exporter</a><span><br></span>Предоставляет более удобный визуальный редактор рецептов для разработчиков модов. Рекомендуется использовать в паре с&nbsp;<a style=\"background-color:rgb(13, 13, 13);font-family:Lato, &amp;#x27\" href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f2450.html\" target=\"_blank\" rel=\"nofollow\">KubeJS </a>для использования<span><br></span></li>\n<li>Способ использования</li>\n</ol>\n<ul>\n<li>/re &lt;workstation_type&gt;</li>\n<li>/recipeexporter &lt;workstation_type&gt;</li>\n<li>/recipeexporter &lt;+Ниже указаны идентификаторы рабочих блоков, открывающие различные интерфейсы.&gt;</li>\n<li>[пример: /recipeexporter furnace]</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

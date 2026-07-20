@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b4edbdbd2ac75cc7",
+  "content": "\n\n<p><strong>Что такое Requiem?</strong></p>\n<p>Requiem — это мод для Minecraft (Java Edition), цель которого — устранить разрыв непрерывности, возникающий после смерти. Этот форк просто обновляет мод для совместимости с другой версией игры.</p>\n<p>В ванильном Minecraft смерть скучна и может быть разочаровывающей: вы теряете все предметы и попадаете в меню, где можете выбрать возрождение в точке спавна или выход из игры.</p>\n<p>Однако при установке Requiem эта примитивная система уступает место совершенно новой грани игры.<br><br></p>\n<p>&nbsp;</p>\n<p>Оригинальная версия для Quilt доступна по адресу: <a href=\"https://www.curseforge.com/minecraft/mc-mods/requiem\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/requiem</a><br><br><br><br></p>\n<h3>Известные несовместимости:</h3>\n<ul>\n<li><strong>Optifine/Optifabric: Не работает с Requiem.</strong></li>\n<li style=\"font-weight:bold\"><strong>&nbsp;Iris/Sodium: Нарушает отображение текстур рунических камней. Установите <a href=\"https://www.curseforge.com/minecraft/mc-mods/indium\" rel=\"nofollow\">Indium</a> для исправления.</strong></li>\n<li><strong>Sinytra Connector</strong></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

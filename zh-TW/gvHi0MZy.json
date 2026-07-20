@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4421ac0e3c44b5f2",
+  "content": "\n\n![main](https://cdn.modrinth.com/data/cached_images/21d14cd6dd9fb5bf97f366e46785bea022058038.png)\n# 這個資源包將我們熟悉的天空替換為以角色中野二乃為主題的暗粉色天空。\n- 無論何時，天空都清晰可見（白天不會出現顯示問題）\n- 版本：1.16.5-26.1.2 \n- 要使資源包正常運作，您需要安裝 OptiFine。（Forge 版）\n\n## 若要在 Fabric 上正確使用天空覆蓋層，您需要以下模組：\n1. [Nuit](https://modrinth.com/project/YBz7DOs8)\n2. [Skyboxify](https://modrinth.com/project/DWuwk8aA)\n\n## 如果遇到問題：\n- 請檢查您的圖形設定中是否已啟用「自訂天空」。\n- 請檢查其他附帶的資源包，它們可能會產生衝突。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

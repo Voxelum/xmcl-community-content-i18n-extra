@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f98a4e9b53f29c92",
+  "content": "（最初于 2022 年 6 月 7 日上传至 [Planet Minecraft](https://www.planetminecraft.com/data-pack/copper-horns-live/)）\n\n此数据包添加了一个简单的物品：[铜号角](https://minecraft.wiki/w/Copper_Horn)。该物品曾属于“荒野更新”的开发内容，但随后被移除。\n\n注意：铜号角无法在合成台 GUI 中合成。\n相反，请将一只山羊角和 3 个铜锭放置在合成台上以合成铜号角。\n\n要使用该物品，请右键点击以播放一段旋律。如果你抬头时按下右键，它将播放音调较高的旋律；如果你蹲下时按下右键，它将播放低音调的旋律。\n\n共有 10 种铜号角变体，每种均可通过不同的山羊角变体合成。\n\n在 2.0 版本中，数据包新增了两个山羊号角：“Fly”（飞翔）和“Resist”（抵抗），它们分别由普通山羊和尖叫山羊掉落。这些号角将允许你合成所有的铜号角。\n\n你也可以使用命令获取这些物品，例如 ``/function chl:give/all`` 或 ``/function chl:give/great_sky_falling``。\n\n<details>\n<summary>合成指南</summary>\n每种山羊角在合成都将对应特定的铜号角。以下是所有合成配方的列表。\n\n普通山羊掉落的号角：\n- Ponder（沉思） -> Great Sky Falling（天降巨灵）\n- Sing（歌唱） -> Old Hymn Resting（古圣安眠）\n- Seek（寻觅） -> Pure Water Desire（清泉之欲）\n- Feel（感知） -> Humble Fire Memory（谦火记忆）\n- Fly（飞翔） -> Fearless River Gift（无畏河礼）\n\n尖叫山羊掉落的号角：\n- Admire（钦佩） -> Dry Urge Anger（旱渴之怒）\n- Call（呼唤） -> Clear Temper Journey（澄心之旅）\n- Yearn（渴望） -> Fresh Nest Thought（新巢之念）\n- Dream（梦境） -> Secret Lake Tear（秘湖之泪）\n- Resist（抵抗） -> Sweet Moon Love（甜月之恋）\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

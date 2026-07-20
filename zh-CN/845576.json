@@ -1,6 +1,6 @@
 {
-  "bodyHash": "g0W3WrqfEcg=",
-  "content": "<p>该模组是一个数据包的封装，功能是让农夫乐事的刀和地狱乐事的砍刀在Tetra工具系统中被视为改良型剑类物品。</p><p><strong>这使得Tetra可以在工作台上将刀和砍刀用作切割工具！</strong></p><p>&nbsp;</p><p>您还可以将这些物品放到Tetra工作台上，通过更换工具部件来将它们转化为各种经过改良的Tetra剑</p><p>&nbsp;</p><p>如果您在安装1.20.1版本的同时安装了Tetracelium和地狱乐事，刀将由Tetracelium处理，而砍刀则由本模组处理。请注意，如果在1.20.1版本中单独安装本模组而未安装地狱乐事，则不会增加任何功能；这种情况下直接使用Tetracelium即可。</p><p>&nbsp;</p><p>截至最新的1.19.2版本发布，如果Delightful模组中的刀具材料存在于基础Tetra的兼容列表或Tetranomicon中，则这些刀具也会得到支持。</p><p>&nbsp;</p><p>刀和砍刀对应的Tetra版本具有与原始物品不同的纹理，因此在改装后它们的外观可能会突然改变。另请注意，如果将一把刀转换为Tetra短剑（仅当未安装Tetracelium时可行），它将无法再用于切割砧板上的物品或收获稻草。</p><p>&nbsp;</p><p>如果您更喜欢使用原始数据包，可以在此处<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fdatapack%252ftetras-delight\" target=\"_blank\" rel=\"nofollow\">下载</a>。</p>",
+  "bodyHash": "e717409dc5f63b9e",
+  "content": "\n\n<p>本模组是对一个数据包的封装，其功能仅为让农夫乐事（Farmer's Delight）的刀和下界乐事（Nether's Delight）的弯刀在 Tetra 工具系统中被识别为已改装的剑。</p>\n<p><strong>这使得 Tetra 可以在工作台中将刀和弯刀作为切割工具使用！</strong></p>\n<p>&nbsp;</p>\n<p>你也可以将这些物品放置到 Tetra 工作台上，通过更换部件将其转化为各种形态的 Tetra 剑。</p>\n<p>&nbsp;</p>\n<p>若你在 1.20.1 版本中同时安装了 Tetracelium 和下界乐事，则刀将由 Tetracelium 接管，弯刀由本模组接管。注意：若在 1.20.1 中未安装下界乐事而单独安装本模组，则毫无用处；此情况请直接使用 Tetracelium。</p>\n<p>&nbsp;</p>\n<p>截至最新的 1.19.2 版本，若 Delightful 模组的刀所使用的材料包含在原版 Tetra 的兼容列表或 Tetranomicon 中，则予以支持。</p>\n<p>&nbsp;</p>\n<p>Tetra 对应的刀和弯刀模型贴图与原始物品不同，因此改造后外观可能会发生突变。此外请注意，若你将刀转换为 Tetra 短剑（仅在未安装 Tetracelium 时可行），它将无法再在切菜板上切割物品或收割稻草。</p>\n<p>&nbsp;</p>\n<p>如果你更倾向于直接使用数据包，也可点击<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fdatapack%252ftetras-delight\" target=\"_blank\" rel=\"nofollow\">此处</a>下载原始数据包。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

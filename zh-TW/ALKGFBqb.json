@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fe5d2f7974700a0a",
+  "content": "\n\n# 描述\n\n《終界實用工具》是一款匯聚了大量實用型物品與方塊的模組。\n正如其名，這些內容大多圍繞著「終界」相關的機制，例如傳送、遠端存取以及擴充儲存功能。\n\n本模組是作為 Modjam 4 模組開發活動／競賽的一部分而開始製作的。這也是我個人製作過的第二個模組，更是我第一個正式為遊戲內加入物品或方塊等內容的作品。因此，對我而言，這主要是一個學習模組開發的經驗與專案。我希望至少也能讓其他玩家覺得它實用且好玩 :)\n\n![終界實用工具](https://i.imgur.com/TFMJ2be.jpg \"Ender Utilities\")\n\n\n# 多格結構\n\n## 能量橋接傳輸器（位於終界）\n\n整個伺服器或世界存檔只需設置一座傳輸器即可。\n\n<details><summary>能量橋接傳輸器</summary>\n\n![能量橋接傳輸器](https://i.imgur.com/0TQw9FM.png \"Energy Bridge Transmitter\")\n\n</details>\n\n\n## 能量橋接接收器\n\n在你希望充能功能正常運作的每個維度中各建造一座接收器；但終界不需要，只要放置傳輸器即可。\n\n* 水平光束路徑上除了空氣外不能有任何物體；垂直光束路徑上只能有僅輕微阻擋光線的方塊（如水或玻璃），從起點一路延伸至虛空／天空或第一塊基岩方塊為止。\n* 請由內部向外放置共振器，使其面朝中央。\n* 共振器與中央方塊之間、以及傳輸器與中央方塊／終界水晶之間，都需保留兩個方塊寬的空氣間隔。\n* 接收器顯示紅色光束代表該接收器運作正常，但終界維度中目前沒有正在運作的傳輸器。\n\n<details><summary>能量橋接接收器</summary>\n\n![能量橋接接收器](https://i.imgur.com/RFabX1I.png \"Energy Bridge Receiver\")\n\n</details>\n\n\n# 模組精華介紹\n\nkletsie 為 MC 1.9 的《終界實用工具》0.5.3 版本製作了極佳且相當詳盡的模組精華介紹影片：\n\n* Part 1: https://www.youtube.com/watch?v=RL5JeMv4VCc\n* Part 2: https://www.youtube.com/watch?v=Ik-_7LTCF5U",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

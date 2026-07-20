@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d2411ba391ab11d8",
+  "content": "\n\nДополнение для [EMI](https://modrinth.com/mod/emi) в Minecraft 1.21.1, добавляющее ряд вкладок режима строительства над списком предметов EMI.\n\n## Требования\n\n- Minecraft 1.21.1\n- [EMI](https://modrinth.com/mod/emi)\n- Fabric Loader + Fabric API, **или** NeoForge (21.1.x)\n\n## Известные проблемы\n\n- Нестандартные настройки EMI не поддерживаются\n  - Вкладки остаются, если удалить правую боковую панель\n  - Вкладки не работают, когда панель находится в других положениях",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

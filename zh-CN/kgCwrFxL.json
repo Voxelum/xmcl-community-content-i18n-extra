@@ -1,0 +1,6 @@
+{
+  "bodyHash": "faa8d33892b5e68b",
+  "content": "\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/f07f2f2dc285d259a0c9ba1ea996f1125931aeb6.png\" width=\"50%\" alt=\"title\">\n\n--- \n**Interactive Block Prompt** 是一款专为地图制作者和整合包作者设计的便利性（QoL）模组。它为十字准星增添了更多功能，在其右侧引入了多种图标指示器。当玩家注视特定方块时，这些图标便会显示，以更直观的方式引导玩家进行交互。\n\n该模组本身不添加任何新内容，仅提供少量方块提示作为示例。**创作者可以自由自定义配置（默认路径：`config/ibp/indicators` 文件夹），或通过数据包或 KubeJS 等模组修改标签。这让你能够随心所欲地指定每个方块或物品显示的图标，同时也可通过配置文件调整指示器的位置。\n\n### 当前图标及对应标签：\n* 🔍 搜索 - `ibp:search`\n* 👆 点击 - `ibp:click`\n* 📖 书籍 - `ibp:book`\n* ❓ 兴趣点 - `ibp:interest`\n* ❗ 提示 - `ibp:notice`\n* 🔧 扳手 - `ibp:wrench`\n* ⏺️ 按钮 - `ibp:button`\n* 🕹️ 切换 - `ibp:toggle`\n\n---\n![icon](https://cdn.modrinth.com/data/cached_images/fdd3f2a78ce3677ace48916cfbcbcf6dc42e64b4_0.webp)\n---\n\n### 配置示例 \n```json\n{\n  \"rules\": [\n    {\n      \"block\": \"minecraft:barrel\"\n    },\n    {\n      \"block_tag\": \"minecraft:signs\"\n    }\n  ]\n}\n```\n\n\n\n特别感谢 **TimyaSifer** 绘制了这些可爱的图标！\n\n本模组将持续更新，未来计划支持更多 Minecraft 版本并添加新功能。\n\n_*你可以自由地在整合包中使用本模组，甚至可以直接分发，无需强制重定向回此链接。*_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

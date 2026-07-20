@@ -1,0 +1,6 @@
+{
+  "bodyHash": "88f96729dcc37e77",
+  "content": "\n\n這是一個簡單的模組，為 1.8.9 新增表情符號（Emoji）支援。\n\n預設內建 Discord 表情符號套件。若要使用自訂表情符號，請將檔案放入 .minecraft/chatemojis（首次啟動遊戲並載入此模組後，該資料夾就會出現）。本模組支援 ImageIO 相容的大多數圖片格式，包含可用於動態表情的 GIF 檔案。\n\n範例：\n\n![ThumbsUp](https://cdn.modrinth.com/data/cached_images/aee6d5cfbbbd70670554217470cab25fd32c9123.png)\n\n![100](https://cdn.modrinth.com/data/cached_images/38044c16945425f26ba92fba49a67142ed1cbdd7.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

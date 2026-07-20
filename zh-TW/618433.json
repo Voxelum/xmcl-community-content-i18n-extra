@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15759f7ce388fd2e",
+  "content": "\n\n<p>這是一個純技術性的模組，旨在提升模組間的相容性。所謂「純技術性」是指它不會為您的遊戲增添任何新內容。</p>\n<p>&nbsp;</p>\n<p><strong>問題所在：</strong></p>\n<p>我們鼓勵模組開發者盡可能使用標籤（Tags），例如在建立合成配方時。然而，若要讓多個模組能順利協同運作，它們都應共用一套基礎的通用「常規」標籤，以便將特定物品歸類。但並非所有開發者都會將他們的物品加入這些通用標籤中，這意味著使用大量模組的玩家或整合包創作者可能需要建立冗長的清單，手動篩選符合條件的物品並將其加入特定的標籤中。</p>\n<p>&nbsp;</p>\n<p><strong>解決方案：</strong></p>\n<p>當載入世界時，此模組會根據程式碼條件自動填充部分標籤，涵蓋所有模組新增的內容。</p>\n<p>這主要對需要／希望透過添加至特定標籤來配置模組的整合包創作者有用——這讓他們能夠輕鬆地將所有護甲物品加入標籤，因為它們都會被統一歸納在 `<em>c:armor</em>` 之中。</p>\n<p>&nbsp;</p>\n<p>舉另一個例子，所有可裝備於頭部欄位的物品都會歸類至名為 `<em>c:head_equippables</em>` 的標籤中：</p>\n<p><img src=\"https://i.imgur.com/2E36FZS.png\" alt=\"《c:head_equippables》標籤截圖\" width=\"525\" height=\"398\"></p>\n<p>&nbsp;</p>\n<p><strong>補充資訊：</strong></p>\n<p>若想查看此模組目前新增的標籤總覽，以及透過數據包設定的黑名單選項，請<a href=\"https://github.com/apace100/autotag/blob/1.18/README.md\" rel=\"nofollow\">前往 GitHub 查看 README</a>。</p>\n<p>如果您有任何關於新增標籤的建議，歡迎在留言區發表，或是在 <a href=\"https://github.com/apace100/autotag/issues\" rel=\"nofollow\">GitHub 上開啟 Issue</a>！</p>\n<p>&nbsp;</p>\n<p><br>希望這個模組能幫上大家的忙，讓您的遊戲體驗更輕鬆一些。 :)</p>\n<hr>\n<p><span style=\"font-size:12px\"><em>本模組圖示為修改自 Lorc 與 Delapouite 於 <a href=\"/linkout?remoteUrl=https%253a%252f%252fgame-icons.net%252f\" rel=\"nofollow\">game-icons.net</a> 所製作的圖標組合。</em></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

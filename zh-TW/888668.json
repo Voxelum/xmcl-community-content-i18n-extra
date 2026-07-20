@@ -1,6 +1,6 @@
 {
-  "bodyHash": "uzUmcPKTcRc=",
-  "content": "<h4><strong>模組介紹</strong></h4><p><br>本模組僅包含一個靈魂綁定附魔、數項自定義配置，無冗餘功能。</p><p>修改配置需安裝Cloth Config API，或手動開啟/config/soulbound.json設定檔（Forge僅支援設定檔修改，名稱為soulbound-common.toml）。</p><p>&nbsp;</p><h4><strong>功能說明</strong></h4><p><br>帶有靈魂綁定附魔的物品死亡時自動保留，耐久度隨機減少（依配置而定）。若設為0則不減耐久。</p><p>創造模式或保留物品欄時不減耐久。</p><div>&nbsp;</div>",
+  "bodyHash": "38750706d7e9bc83",
+  "content": "\n\n<h4><strong>模組介紹</strong></h4>\n<p><br>此模組僅提供一項靈魂綁定附魔、數項自訂設定，且不含任何多餘功能。</p>\n<p>若要修改設定，請安裝 Cloth Config API 或手動編輯 /config/soulbound.json 設定檔（Forge 僅支援透過檔案修改，檔名稱為 soulbound-common.toml）。</p>\n<p>&nbsp;</p>\n<h4><strong>功能介紹</strong></h4>\n<p><br>擁有靈魂綁定附魔的物品在死亡時將自動保留，並依設定隨機扣除耐久度。若數值設為 0，則不會扣除耐久度。</p>\n<p>於創造模式或啟用「死亡不掉落」時不會扣除耐久度。</p>\n<div>&nbsp;</div>",
   "contentType": "text/html",
   "type": "curseforge"
 }

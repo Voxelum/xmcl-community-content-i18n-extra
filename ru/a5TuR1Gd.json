@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ef7c1bee41b33fed",
+  "content": "\n\n#### Общая информация\n\n- `файл конфигурации: config/lingting/lingting.minecraft.security.json`\n\n#### Управление сетью\n\n##### Файл конфигурации\n\n> Если настроены одновременно белый и черный списки, действует только черный список.\n\n- `white` Белый список: может содержать доменные имена или конкретные IP-адреса. Если указано главное доменное имя, будут разрешены все его поддомены.\n- `black` Черный список: может содержать доменные имена или конкретные IP-адреса. Если указано главное доменное имя, все его поддомены будут заблокированы.\n- `allowIp` Разрешение IP-адресов. Если значение `true`, IP-адрес будет разрешен при условии, что он отсутствует в черном списке.\n\n```json\n{\n  \"network\": {\n    \"white\": [\n      \"localhost\",\n      \"downloader.meitangdehulu.com\",\n      \"mojang.com\",\n      \"login.live.com\",\n      \"minecraftservices.com\",\n      \"skin.prinzeugen.net\",\n      \"minecraft.net\",\n      \"api.mcmod.cn\",\n      \"plushie.moe\",\n      \"xboxlive.com\"\n    ],\n    \"black\": [],\n    \"allowIp\": true\n  }\n}\n```\n\nПереведено с помощью DeepL.com (бесплатная версия)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "874be7b350ad74f4",
+  "content": "\n\n# Sophisticated JEI Index\n\n为 Sophisticated Backpacks 添加了 JEI 索引升级。安装后，在使用 JEI 配方转移功能时，除玩家物品栏外，还可按选择顺序从装备了此升级的背包中提取原料。\n\n## 功能特性\n\n*   ✅ 兼容 JEI 原生的配方转移场景\n*   ✅ 将已启用的背包按选择顺序作为额外的原料来源\n*   ✅ 同时支持以下模组的合成终端（优先级：网络存储 → 玩家物品栏 → 按顺序启用的背包）：AE2、Refined Storage、Tom's Storage、Beyond Dimensions\n*   ✅ 支持按住 Shift 键点击进行最大数量转移，以及 JEI 的完整套装合成逻辑\n*   ✅ 兼容 EMI 配方填充与配方树快速合成（多人游戏时服务器也需安装 EMI）\n\n## 安装方法\n\n1.  将此模组 jar 文件放入 `mods` 文件夹\n2.  确保已安装所需的依赖项\n3.  启动游戏\n\n## 使用方法\n\n1.  在 Sophisticated Backpacks 支持的任意槽位装备一个背包（护甲/副手/主手或兼容槽位）\n2.  将 JEI 索引升级放入该背包中\n3.  打开任何支持 JEI 配方转移的合成容器\n4.  点击 JEI 中的 `+` 按钮以转移原料\n\n## 注意事项\n\n*   JEI 配方转移是客户端发起并发送请求至服务器的操作。要在多人游戏中获得完整功能，服务器上也必须安装 JEI。\n*   EMI 配方填充同样是客户端发起的操作。要在多人游戏中获得完整功能，服务器上也必须安装 EMI。\n*   背包的选择顺序遵循 Sophisticated Backpacks 的 B 键逻辑，但仅会考虑已启用此升级的背包。\n*   配置选项：`maxEnabledBackpacksScanned`（通用配置）。限制每位玩家扫描的已启用背包数量上限。设为 0 表示无限制。\n*   嵌套背包（例如通过 Inception Upgrade 实现）不支持作为原料来源。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

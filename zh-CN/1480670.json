@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab3c2eeff4a5147b",
+  "content": "\n\n<p>只需按下一次按键即可生成数百种模式。<br>\n本模组允许你直接从 EMI 配方树中选定的任意配方生成应用能源2（AE2）模式——包括合成、加工等。模组还会记录已编码的物品，避免为同一物品重复创建模式。</p>\n<p><strong>使用方法</strong></p>\n<ol>\n<li>为该模组绑定一个按键（默认：<code>N</code>）。</li>\n<li>选择你要为其编码模式的物品——例如来自 <em>Powah</em> 模组的 <em>充能棒（硝基）</em>。</li>\n<li>在 EMI 中展开配方树，并将其切换至 <strong>合成</strong> 模式。</li>\n<li>打开 <em>模式编码终端</em>，并确保空白模式槽位中有足够的空白模式。</li>\n<li>按下你绑定的按键开始编码。</li>\n</ol>\n<p><strong>提示</strong></p>\n<ol>\n<li>本模组目前处于测试阶段！请通过项目的 GitHub Issue 页面反馈漏洞。</li>\n<li>我目前没有精力将此模组移植到更旧的 Minecraft 版本或其他模组加载器上。</li>\n<li>打开 <em>模式访问终端</em> 会清空模组记录的已知物品。从该终端读取物品的功能计划在下个版本加入（0.2 版本已部分实现）。</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

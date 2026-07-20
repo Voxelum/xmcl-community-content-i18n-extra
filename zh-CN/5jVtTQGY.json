@@ -1,0 +1,6 @@
+{
+  "bodyHash": "97423850dafaf20c",
+  "content": "\n\n### 描述\n本模组允许你在服务器处于离线模式时，实时更改你的 Minecraft 皮肤。\n\n### 使用方法\n\n玩家命令：\n\n- `/skin set [name]` - 根据 Minecraft 用户名设置当前玩家的皮肤\n- `/skin set [url]`  - 根据 URL 链接设置当前玩家的皮肤\n- `/skin clear`      - 清除当前玩家的皮肤\n- `/cape set [name]` - 根据 Minecraft 用户名设置当前玩家的披风\n- `/cape set [url]`  - 根据 URL 链接设置当前玩家的披风\n- `/cape clear`      - 清除当前玩家的披风\n\n管理员命令\n\n- `/skin player [target] set [name]` - 根据 Minecraft 用户名为目标玩家设置皮肤\n- `/skin player [target] set [url]`  - 根据 URL 链接为目标玩家设置皮肤\n- `/skin player [target] clear`      - 清除目标玩家的皮肤\n- `/cape player [target] set [name]` - 根据 Minecraft 用户名为目标玩家设置披风\n- `/cape player [target] set [url]`  - 根据 URL 链接为目标玩家设置披风\n- `/cape player [target] clear`      - 清除目标玩家的披风\n\n### 致谢\n非常感谢 [OfflineSkins](https://www.curseforge.com/minecraft/mc-mods/offlineskins) 项目，本模组的大多数代码和创意都基于该项目。\n\n### 报告 Bug\n如果你在使用模组时发现任何问题，请在此处反馈：  \nhttps://github.com/edoren/SkinChanger/issues\n\n### 参与开发\n如需参与代码开发，请提交新的 Pull Request：  \nhttps://github.com/edoren/SkinChanger/pulls\n\n### 捐赠\n如果你喜欢这个项目并希望支持其开发，请考虑捐赠。\n\n<a href='https://ko-fi.com/W7W4154UTE' target='_blank'><img height='36' width='200' style='border:0px;height:36px;width:200px' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

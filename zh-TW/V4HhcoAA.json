@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b02ce7837a12818a",
+  "content": "\n\n# Retro-Edition-MINECRAFT-MOD\n\n**這是一個 MINECRAFT 模組**\n\n**一款能帶來復古氛圍的 MINECRAFT 模組**\n\n**而且不會讓你的耳朵受不了！**\n\n***使用方法：***\n\n**要使用此模組，您需要輸入一些指令來更改音效取樣率，**\n**如下所示**\n\n若要將取樣率設定為 8000Hz（或 kHz），請輸入以下指令：\n\n```\n/function retro_edition:set_rate {samplerate:\"8000\"}\n```\n\n若要將取樣率設定為 11025Hz（或 kHz），請輸入以下指令：\n\n```\n/function retro_edition:set_rate {samplerate:\"11025\"}\n```\n\n### 本模組編輯／取代的音效：\n\n**1. sounds/ambient/cave/ 音效：當您隨機進入洞穴時播放的環境音。**\n\n\n**2. sounds/ambient/weather/thunder.ogg 音效：閃電擊中時的雷聲。**\n\n\n**3. sounds/random/explode.ogg 音效：當物體爆炸（例如苦力怕或 TNT）時播放的爆炸聲。**\n\n\n**4. sounds/mob/ghast/ 音效：浮空龍看到玩家時發出的聲音。或是它吃了塔可鐘（Taco Bell）之後……** \n\n本模組旨在讓《我的世界》擁有更濃厚的復古氛圍。\n\n下次預計更新：2026年6月16日",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

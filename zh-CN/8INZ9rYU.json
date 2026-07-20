@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8cc9817f1e7ecc5e",
+  "content": "\n\n# AE2 QoL 客户端\n\n* modid: aeqc\n* 环境: 仅客户端\n\n---\n\n## 依赖项\n\n* mafglib(https://modrinth.com/mod/mafglib)\n* ae2\n* jei\n* ae2-jei-integration(仅限 1.21.1)\n\n---\n\n## 功能列表\n\n按快捷键 C+Q 可配置以下所有选项。\n\n* F 键：在 AE2 终端中搜索 JEI 物品，C 键：清除搜索\n    * ME 终端、ME 制造终端、模式编码终端\n    * 模式访问终端\n    * Ex 模式访问终端（Extended AE）\n    * 其他模组，至少支持：\n        * Tom's Storage\n        * Refined Storage\n        * Ars Nouveau\n* 鼠标中键：自动合成 JEI 中的物品\n* Home 键：从 AE 网络中提取单个 JEI 物品，End 键：提取一组\n* 在自动合成确认界面左侧工具栏添加按钮，点击后可将所有缺失条目加入书签至 JEI。\n* 为伪自动合成提供模式占位符\n* 按住 Ctrl 键编码模式以跳过模式合并，方便 Create 模组的机械制作台使用\n* 自动补充空白模式\n* GT 集成\n    * 将熔融合金转换为对应锭\n    * 将热锭转换为对应锭\n    * 移除电路",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

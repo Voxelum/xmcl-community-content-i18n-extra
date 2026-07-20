@@ -1,0 +1,6 @@
+{
+  "bodyHash": "784d0cdc6588c488",
+  "content": "\n\n![Companion-Trials-Logo](https://cdn.modrinth.com/data/cached_images/c7cd5203d6279458ad0375b79b5a111187c52a1c.png)\n\n![separatorbar](https://cdn.modrinth.com/data/cached_images/e2e4c4bbb0deed3af2790d6a57952e2be85ce40a.png)\n\n在《Minecraft》中加入 NPC，打造更生動、更具沉浸感的互動體驗。引入多樣化的行為與反應：更豐富的動畫、情境判斷，以及對世界事件的即時回應。\n\n![Showcase](https://cdn.modrinth.com/data/cached_images/f716820085e1c11dbf3aa121770967381334adcb.webp)\n\n![separatorbar2](https://cdn.modrinth.com/data/cached_images/f4b8bde9deb97f7a5a7b1f714ecd04d24a422127.png)\n\n**功能特色**\n\n*動態行為*\n* 日常作息 - NPC 會遵循簡單的排程（工作、休閒、睡眠），並根據時間與天氣調整活動。\n* 情境反應 - NPC 會對受傷、火焰、爆炸及環境變化（水、熔岩、玩家接近）做出自然的反應。\n\n*增強移動與路徑規劃*\n* 自然移動 - NPC 會以更流暢的動作與多變的步調避開障礙物，而非突然轉彎。\n* 方塊互動 - NPC 能順暢地使用門、攀爬階梯，並在明顯危險前停下。\n\n*社交互動*\n* 對話與問候 - 體驗 NPC 之間或 NPC 與玩家之間的簡短對話與肢體動作。\n* 組隊行動 - NPC 可組成隊伍或執行集體行程（例如聚集於市場或團隊合作）。\n\n*自訂與 API*\n* 遊戲內設定 - 可直接在遊戲中切換功能、控制攻擊性、行為密度與偵測範圍。\n* 模組開發 API - 提供基礎 API，允許其他模組加入新的自訂行為或條件。\n\n**相依套件：**\n* Fabric Loader 1.21.10（必要）\n* Fabric API（必要）\n* Mod Menu（選配，用於快速存取遊戲內設定）\n* Cloth Config（選配，用於更詳細的設定畫面）\n\n伺服器端與客戶端 - 需同時安裝於伺服器（用於 AI、日常行程與路徑規劃）與客戶端（用於設定畫面與動畫）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

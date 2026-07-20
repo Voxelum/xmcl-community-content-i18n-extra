@@ -1,0 +1,6 @@
+{
+  "bodyHash": "723ba3e03462c510",
+  "content": "\n\n# NotchNet – 您的遊戲內 AI 助手 🤖💬\n\n**NotchNet** 是一款 Fabric 模組，能將 AI 驅動的助手直接帶入您的 Minecraft 聊天視窗。卡在紅石電路上？需要找礦建議？想了解模組包內其他模組的資訊？NotchNet 隨時為您解答，且完全無需切換視窗（Alt-Tab）。\n\n---\n\n## ✨ 功能特色\n\n- **聊天室中的智慧大腦** – 輸入 `/notchnet` 即可詢問有關 Minecraft 機制、進度或模組化遊玩的任何問題。\n- **模組感知智能** – NotchNet 可掃描已安裝的模組，並將清單分享給您的本機後端伺服器，為 AI 提供關於您*專屬*模組包的上下文資訊。\n- **深度整合** – 採用您專屬的本機 RAG（檢索增強生成）流程，並結合真實的 Minecraft Wiki 資料，確保回答準確無誤。\n- **零延遲體驗** – 非同步通訊機制讓 AI 在背景進行運算思考，同時您可繼續暢玩遊戲。\n- **隱私完全保障** – 僅連接到您自己的後端伺服器。不依賴外部伺服器，亦不會蒐集任何資料。\n\n---\n\n## 🛠 指令\n\n- `/notchnet` – 向 AI 提出任何問題。\n- `/notchnet status` – 檢查您的後端伺服器是否在線。\n- `/notchnet config` – 管理設定，例如 API 網址與自動掃描選項。\n- `/notchnet help` – 查看所有可用指令。\n\n---\n\n## ⚙️ 系統需求\n\n使用 NotchNet 前，您需要：\n\n1. **NotchNet 後端伺服器** – 負責處理 AI 邏輯的 Python 伺服器。\n2. **Fabric Loader** – 版本 0.17.3 或更新。\n3. **Fabric API** – 用於支援指令與事件觸發。\n\n後端設定教學：  \nhttps://github.com/aaravchour/NotchNet\n\n---\n\n## 🧠 運作原理\n\nNotchNet 是連接到您個人 AI 後端的**客戶端橋接器**。  \n您的後端伺服器負責：\n\n- 檢索增強生成（RAG）\n- Minecraft Wiki 向量嵌入\n- 模組清單導入\n- 回覆內容生成\n\n該模組僅負責傳送您的提問，並將回覆直接顯示於遊戲畫面中。\n\n---\n\n## 🛡 授權條款\n\n本專案採用 **GNU GPL v3.0** 授權條款。  \n歡迎各界貢獻、分支開發與功能改進。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

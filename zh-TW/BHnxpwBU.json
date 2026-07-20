@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1c0b31c00e74a885",
+  "content": "\n\n# 這個模組是什麼？\n\n這個模組為 Minecraft 加入了可自由搭配的武器。你可以針對各個部件進行客製化改裝。\n\n# 如何使用這個模組？\n\n請先製作「武器工作台」，藉此對你的武器進行改造。\n\n接著，你需要製作一把武器基礎框架，例如步槍（rifle）。\n\n將步槍放入武器工作台（你可以在介面中旋轉武器！只需拖曳預覽圖即可）。\n\n安裝不同的部件。（武器必須裝備槍管才能射擊，且背包內需裝填子彈）\n\n左鍵射擊，右鍵縮放。\n\n# 武器特性\n\n\n步槍：基礎武器框架\n\n多管槍：可切換不同槍管\n\n\n# 部件特性\n\n\n\n槍管：中等射程、傷害與射速\n\n速射槍管：高射速、低傷害與短射程\n\n狙擊槍管：高傷害與遠射程、低射速\n\n\n\n瞄準鏡：支援左鍵縮放瞄準\n\n\n\n子彈：32 發\n\n大容量彈匣：256 發\n\n燃燒彈：引燃方塊，32 發\n\n\n\n# 展示影片\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/KN3MDB9TtJs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

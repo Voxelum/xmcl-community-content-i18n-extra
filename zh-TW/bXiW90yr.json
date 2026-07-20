@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ad535fab1b405abf",
+  "content": "\n\n<div align=\"center\">\n  \n# Barless\n\n</div>\n\n這個模組移除了 Minecraft 視窗的頂部欄位，讓畫面呈現更乾淨簡約的風格，同時仍支援移動、調整大小以及所有其他視窗操作功能。\n![沒有頂欄的 Minecraft 視窗](https://i.ibb.co/8L9YL5HQ/cnavabgrmv.png)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Tgfk3Cc5V2k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 功能特色\n您仍享有與一般情況完全相同的功能，只需將滑鼠游標移至頂部附近即可喚出相關選項。\n- 移除視窗標題列\n- 保留移動與調整大小功能\n- 游標靠近頂部時顯示作業系統控制項\n  \n![帶有視窗控制項且無頂欄的 Minecraft 視窗](https://i.ibb.co/Xr7R0kVC/cnavabgrmv2.png)\n\n## MacOS 與 Linux\n本模組僅在 Windows 上完成測試，因此在 MacOS 與 Linux 上使用時請留意此點。若您於上述作業系統遇到任何問題，歡迎至 [問題追蹤器](https://github.com/BouncingElf10/Barless/issues) 進行回報。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

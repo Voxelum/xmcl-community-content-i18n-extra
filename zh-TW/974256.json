@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a768ace5fa4cddfb",
+  "content": "\n\n<p>將物品工具提示中的附魔進行排序。（依字母順序）<br> 此模組使用 Mixin 技術，而非 Fabric/(Neo)Forge API 的工具提示事件，因此速度比大多數替代方案稍快一點。大概吧。</p>\n<p><img src=\"https://github.com/unilock/SortedEnchantments/assets/11802133/6222d272-4c98-4644-bcb0-ba3473696f5e\" alt=\"\"></p>\n<p>&nbsp;</p>\n<h3>常見問題</h3>\n<p>Q：那 Botania 的魔力附魔呢？它會把第一個附魔直接套用至包含多個附魔的附魔書上！<br> A：現在可以針對附魔書單獨停用附魔排序功能了！🐴💦</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

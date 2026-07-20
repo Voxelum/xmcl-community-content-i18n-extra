@@ -1,0 +1,6 @@
+{
+  "bodyHash": "707016a31326ac31",
+  "content": "\n\n## Accessories 兼容层\n\n本模组以 Accessories 为底层框架，作为 Trinkets 与 Curios 的兼容包装，通过向这两个模组注入 mixin 补丁实现整合。其设计旨在支持 Connector 或 Kilt 物品，因此无论在 Fabric 还是 NeoForge 平台上，Trinkets 或 Curios 的兼容功能均可正常运行。\n\n## **前置依赖**： \n- [Accessories](https://modrinth.com/mod/accessories/)\n- **[Trinkets](https://modrinth.com/mod/trinkets) 和/或 [Curios](https://modrinth.com/mod/curios)**\n\n## 替代说明： \n使用此版本时，以下兼容层模组**已不再需要**：\n- [Trinkets 兼容层](https://modrinth.com/mod/accessories-tc-layer)\n- [Curios 兼容层](https://modrinth.com/mod/accessories-cc-layer)\n\n### 已知问题：\n- 所有相关界面及渲染目前均已统一至 Accessories 界面\n- Curios：部分特性属于已知问题，未来将尝试修复\n  - 激活状态（Active states）目前尚未实现，这意味着依赖该特性的模组将无法控制已装备饰品的状态\n  - 未实现 `ICurioSlotExtension` 接口，因此任何物品栈替换或提示文本调整功能均无法生效",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

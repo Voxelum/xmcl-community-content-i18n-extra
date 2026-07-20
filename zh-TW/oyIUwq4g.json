@@ -1,6 +1,6 @@
 {
-  "bodyHash": "n3G4yurmJbI=",
-  "content": "# **舊版盾牌動畫**\n\n這個模組將 23w40a（第一個 1.20.3 快照版本）中對第三人稱持盾格擋的旋轉方式與行為所做的更改恢復至舊版模式。\n\n下方展示此模組的實際運作效果（展示模組行為與 23w40a 之前版本完全相同）。\n\n![使用模組與未使用模組的盾牌動畫對比展示](https://github.com/sootysplash/old-shield-animation/blob/main/old-shield-animation.gif?raw=true)\n\n## 依賴項目\n\n無需任何依賴！只需 Fabric Loader 即可運作",
+  "bodyHash": "487f0dec75f7dfae",
+  "content": "\n\n# **舊版盾牌動畫**\n\n此模組將 23w40a（1.20.3 的首個快照）中所引入的第三人稱格擋盾牌旋轉與行為變更予以還原。\n\n下方為模組實際運作的展示（呈現模組行為與 23w40a 之前版本完全相同）。\n\n![盾牌動畫有無模組之對比展示](https://github.com/sootysplash/old-shield-animation/blob/main/old-shield-animation.gif?raw=true)\n\n## 依賴項目\n\n無！僅需 Fabric Loader",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

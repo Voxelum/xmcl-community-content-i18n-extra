@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ro360sxMxmY=",
-  "content": "Beryl 是一个基于 Vulkan 的全新优化着色器管线，能在低性能影响下增强画面效果。\n\n---\n\n开发这个模组需要投入大量的时间和精力。如果你想帮助我继续开发这个项目，可以考虑请我喝杯咖啡。\n\n<a href='https://ko-fi.com/V7V7CHHJV' target='_blank'>\n    <img src=\"https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png\" width=260 alt='在 ko-fi.com 上支持我'>\n</a>\n\n## 安装\n\n![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)\n\n- 本模组需要 **VulkanMod** 才能运行。\n- 将 `beryl.jar` 放入你的游戏实例的 `/mods` 文件夹中。\n\n---\n\n**着色器包呢？**\n\n目前 Beryl 内置了一个集成着色器包，这样可以完全控制渲染管线并进行更好的优化。",
+  "bodyHash": "e33a4823dd0ea84c",
+  "content": "Beryl 是一款基于 Vulkan 的全新且经过优化的着色器管线，旨在以极低的性能损耗提升游戏画面表现。\n\n---\n开发此模组需要投入大量的时间和精力。如果您希望支持我继续开发这个项目，可以考虑请我喝杯咖啡。\n\n<a href='https://ko-fi.com/V7V7CHHJV' target='_blank'>\n    <img src=\"https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png\" width=260 alt='Support me on ko-fi.com'>\n</a>\n\n## 安装指南\n\n![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)\n\n- 运行此模组需要 **VulkanMod**。\n- 将 `beryl.jar` 添加到您游戏实例的 `/mods` 文件夹中\n\n---\n\n**关于着色器包？**\n\n目前 Beryl 内置了一个着色器包，因为这样可以完全控制渲染管线并对其进行更深入的优化。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

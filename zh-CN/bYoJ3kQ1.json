@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a1bbb734150b0130",
+  "content": "\n\n![LOGO](https://cdn.modrinth.com/data/cached_images/dd6821e16ada02e2bf09b85bfafd2932ce987eea.png)\n**描述**：此资源包为 [Kaleidoscope Tavern](https://modrinth.com/mod/kaleidoscopetavern) 添加了大量细节，为其所有物品提供了完整的 PBR 与法线贴图覆盖。此外，还为部分物品添加了视差效果。本资源包已测试并兼容 [Kaleidoscope Tavern Refabricated](https://modrinth.com/mod/kaleidoscope-tavern-refabricated)。\n\n**注意**：使用此资源包需启用光影。根据初步测试，它在 “Eclipse Shader” 和 “iterationRP Shader” 下表现良好，且必须将光影的 “视差模式” 设置为 “平滑”。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

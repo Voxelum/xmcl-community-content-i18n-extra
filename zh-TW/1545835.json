@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3e7d9b7188f54cc5",
+  "content": "\n\n<h1>TerraFirmaCraft：時光飛逝</h1>\n<p>TerraFirmaCraft 與 Firmalife 使用 TFC 日曆時間戳來處理許多長時間運行的進程。因此，Time In A Bottle 原本的額外方塊刻並不一定能加速這些過程。本模組在保留原版風格與機器計時器行為的同時，加入了具備時間戳感知功能的加速機制。</p>\n<h2>功能特色</h2>\n<ul>\n<li>✅ 讓 Time In A Bottle 能夠與基於 TFC 時間戳的進程配合運作</li>\n<li>✅ 支援 TFC 作物、樹苗、果樹、漿果叢、堆肥箱、木桶、地坑窯、煉鐵爐及其他類似方塊</li>\n<li>✅ 支援 Firmalife 溫室苗床、葡萄、乾燥／煙燻方塊、滾筒式堆肥機、玻璃罐網、蜂箱及相關時間戳進程</li>\n<li>✅ 對於已使用原版風格進度條的機器，保持其正常的方塊實體計時器運作</li>\n<li>✅ 不會直接修改 Time In A Bottle、TerraFirmaCraft 或 Firmalife 的內容</li>\n<li>✅ 僅針對伺服器端運作；不新增任何方塊、物品或合成配方</li>\n</ul>\n<h2>前置需求</h2>\n<ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge 47.1.3 以上版本</li>\n<li>TerraFirmaCraft</li>\n<li>Time In A Bottle 4.0.0 以上版本</li>\n<li>Firmalife 為選裝模組（非必要）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2927da4cb6d84cfb",
+  "content": "<p>Framland — это мод, который добавляет блок «Farm Drit» и «Framland», а также предмет «Thunder Hoe».</p>\n<p>Для работы оба блока должны получать энергию в виде RF. Количество сохраняемой энергии и расход RF на каждый тик роста можно настроить через файл конфигурации (<a href=\"https://minecraft.curseforge.com/projects/framland/pages/example-config\" rel=\"nofollow\">Пример конфигурации</a>).</p>\n<p>&nbsp;</p>\n<p>Блок «Farm Drit» можно скрафтить, поместив 2 блока земли и кость муки в верстак или инвентарь.</p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/244/421/drit.png\"></p>\n<p>&nbsp;</p>\n<p>Чтобы получить «Framland», необходимо, чтобы молния ударила в блок «Farm Drit». После этого он превратится в блок «Framland». Блок «Framland» также излучает свет, позволяя вашим культурам расти даже в самых темных местах.</p>\n<p><img src=\"https://media.forgecdn.net/attachments/272/137/java_2019-01-13_12-17-05.png\" width=\"672\" height=\"356\"></p>\n<p>&nbsp;</p>\n<p>«Thunder Hoe» нельзя скрафтить, если только вы или создатель сборки не добавите рецепт крафта вручную.</p>\n<p>&nbsp;</p>\n<h4>Использование в сборках модов</h4>\n<p>&nbsp;Вы можете свободно использовать этот мод в своих сборках модов.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "NzvYfh/Xlqk=",
-  "content": "# **幽匿號角**\n\n本模組新增兩種號角，其中一種可用於範圍攻擊，另一種則能發出沉靈守衛的音爆攻擊。此外還包含一個讓號角呈現3D造型的材質包（[連結](https://modrinth.com/resourcepack/sculkhorn3d)）。\n\n![SculkHoen](https://i.imgur.com/GLqDBGx.jpg)\n\n* * *\n\n#### **幽匿號角 - 預設數值**\n\n|號角| 傷害 | 冷卻時間|範圍/距離| 經驗值消耗 |\n|--|--|--|--|--|\n| 遠程型 | 8 | 10秒 | 16格 | 55 |\n| 範圍型| 12 | 15秒 | 3.5格 | 55 |\n\n若發現任何錯誤或有任何建議，請至[問題回報區](https://github.com/anviaan/SculkHorn/issues \"Issues\")提交。\n\n部分翻譯為自動產生！\n\n[<img src=\"https://i.imgur.com/RJPr4Ij.png\">](https://billing.kinetichosting.net/aff.php?aff=127)",
+  "bodyHash": "6cbead33f347e88f",
+  "content": "\n\n# **幽匿號角**\n\n本模組新增了兩支號角，使用其中一支可發動範圍攻擊，另一支則能釋放監守者的音波衝擊。此外還提供了一個材質包，讓號角呈現 3D 效果（[連結](https://modrinth.com/resourcepack/sculkhorn3d)）。\n\n![SculkHoen](https://i.imgur.com/GLqDBGx.jpg)\n\n* * *\n\n#### **幽匿號角 - 預設數值**\n\n|號角| 傷害 | 冷卻時間|範圍/距離| 經驗消耗 |\n|--|--|--|--|--|\n| 遠程 | 8 | 10s | 16 | 55 |\n| 範圍| 12 | 15s | 3.5 | 55 |\n\n如果你發現任何錯誤或有建議，歡迎在 [問題回報](https://github.com/anviaan/SculkHorn/issues \"Issues\") 中提出。\n\n部分翻譯由系統自動生成！\n\n[<img src=\"https://i.imgur.com/RJPr4Ij.png\">](https://billing.kinetichosting.net/aff.php?aff=127)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

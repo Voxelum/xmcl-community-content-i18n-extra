@@ -1,0 +1,6 @@
+{
+  "bodyHash": "57ce1bfcc8be31d6",
+  "content": "\n\n<img align=\"right\" width=\"120px\" height=\"120px\" src=\"https://www.sushihut.net/datapacks/instant-replant/pack.png\" alt=\"即時重種圖示\">\n\n<div align=\"left\">\n  <img src=\"https://www.sushihut.net/datapacks/instant-replant/banner.webp\" alt=\"即時重種\" width=\"600px\">\n</div>\n\n<br>\n\n「即時重種」新增了一項附魔，當您破壞**成熟作物**的瞬間，它會自動從您的物品欄中**重新種植對應的種子**——讓您持續耕作，無需停下來重新播種。\n\n[![Discord](https://img.shields.io/discord/1346324130261237885?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=%235865F2)](https://discord.gg/wgSCCaQN5W)\n\n---\n\n<div align=\"center\">\n  <img src=\"https://www.sushihut.net/datapacks/instant-replant/preview.webp?v=2\" alt=\"即時重種預覽\" width=\"700px\">\n</div>\n\n---\n\n## 自訂設定\n\n想要選擇哪些作物需要重新種植、在未成熟的作物被破壞時也進行重種、指定支援的鋤頭，或是匯出特定模組載入器的版本嗎？請使用**[即時重種生成器](https://www.sushihut.net/datapacks/instant-replant)**來建立屬於您的自訂版本——完全不需要繁瑣的設定步驟。\n\n如果您需要協助或有特定需求，歡迎加入我們的 [Discord](https://discord.gg/wgSCCaQN5W)。\n\n---\n\n## 安裝方式\n\n**資料包**\n1. 下載 `.zip` 檔案。\n2. 將其放置於 `.minecraft/saves/<world>/datapacks/` 資料夾內。\n3. 在遊戲中執行 `/reload`。\n\n**模組（Fabric / Quilt / Forge / NeoForge）**\n1. 下載 `.jar` 檔案。\n2. 將其放置於 `.minecraft/mods/` 資料夾內。\n3. 啟動遊戲即可——無需其他額外步驟。\n\n---\n\n## 支援與回饋\n\n發現錯誤或有建議嗎？歡迎加入我們的 [Discord](https://discord.gg/wgSCCaQN5W)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

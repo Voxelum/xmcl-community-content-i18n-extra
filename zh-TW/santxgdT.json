@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e7acb355f45ca4d",
+  "content": "\n\nPerspective 是一款適用於 Fabric 的自由視角／透視模組，讓你能夠在不改變玩家旋轉角度的情況下，自由移動相機視角。\n\n可透過自訂快捷鍵啟用自由視角，支援按住與切換兩種模式。\n可透過滾輪調整相機距離。\n\n## 安裝方式\n### Fabric\n1. 請確認已安裝 [Fabric Mod Loader](https://fabricmc.net/use/installer/)。\n2. 安裝 [Fabric API](https://modrinth.com/mod/fabric-api) 與 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)。\n3. 安裝本模組。\n\n### NeoForge\n雖然此模組主要針對 Fabric 開發，但只要你所遊玩的 Minecraft 版本支援 Sinytra Connector，即可透過該橋接器安裝至 NeoForge。 \n\n步驟：\n1. 請確認已安裝 [NeoForge Mod Loader](https://neoforged.net)。\n2. 安裝 [Sinytra Connector](https://modrinth.com/mod/connector)、[Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api) 與 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)。\n3. 安裝本模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

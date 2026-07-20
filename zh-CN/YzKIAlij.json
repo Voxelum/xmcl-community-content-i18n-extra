@@ -1,0 +1,6 @@
+{
+  "bodyHash": "928217eda45f539a",
+  "content": "\n\n# Economy Fabric \n\n\n适用于 Fabric 的经济 API。\n\n![https://i.imgur.com/ZQ835CK.png](https://i.imgur.com/ZQ835CK.png) \n\n\n### Gradle 依赖 \n\n   \n```\nrepositories {\n    maven { url 'https://pisaiah.com/maven-repo/' }\n}\n```\n```\ndependencies {\n    compileOnly \"me.isaiah.mods:EconomyFabric:1.4\"\n}\n```\n\n只需将此模组放入你的 mods 文件夹即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

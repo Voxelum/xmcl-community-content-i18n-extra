@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d3531ee51128a3b3",
+  "content": "\n\n<h3><strong>簡介</strong></h3>\n<p>受 Wynncraft 啟發，此模組允許您查看其他玩家的裝備。在多人遊戲模式中這非常實用，尤其是當整合包高度依賴裝備時。例如，在您遊玩安裝了 Apotheosis 的伺服器時，您可能想查看朋友的裝備，因為 Apotheosis 為裝備添加了許多詞綴。在這種情況下，只需對您的朋友按下滑鼠中鍵，本模組即可為您提供協助。</p>\n<p>&nbsp;</p>\n<h3><strong>功能特色</strong></h3>\n<ol>\n<li><strong>🔍配裝檢視器</strong>：允許您透過<strong>滑鼠中鍵點擊</strong>其他玩家來查看他們的裝備。所有原版裝備都會顯示在螢幕上。&nbsp;&nbsp;<strong><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/null/description_ad133a68-8ecb-4785-8285-b75493ef519e.png\"></strong></li>\n<li><strong>⭯ 配裝系統</strong>：允許您透過遊戲內方塊<strong>配裝桶</strong>（請於 JEI 查看合成表）儲存與讀取配裝檔案。&nbsp;<img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/1233310/description_dd5abde1-4176-4595-92a6-9d1399749d6b.png\">右側容器可用於存放您的裝備。左側中間的配裝清單允許您建立自己的配裝；配裝內容將顯示於右側中間。您可以在不佔用實際裝備的情況下，於配裝中新增或移除裝備。點擊「穿戴」按鈕即可讓玩家透過搜尋右側容器中的對應裝備，來裝備當前配裝。</li>\n</ol>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h3><strong>相容性</strong></h3>\n<ul>\n<li><strong>Curios</strong><strong>：</strong>安裝 <strong><strong>Curios</strong></strong> 後將新增選單介面</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

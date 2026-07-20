@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28a1b03f49b50be8",
+  "content": "\n\n<h1>Tieable</h1>\n<p>本模组为几乎所有方块添加了捆绑版本，供玩家装饰使用。</p>\n<p>逻辑兼容其他模组添加的方块。</p>\n<h2>使用方法</h2>\n<p>使用 8 个相同的方块和 1 条拴绳即可合成对应的捆绑方块。</p>\n<div><img src=\"https://raw.githubusercontent.com/CodeOfArdonia/Tieable/refs/heads/master/img/1.webp\" style=\"width:400px;text-align:center\" alt=\"\"></div>\n<p>你也可以在创造模式下输入 <code>/tieable &lt;方块ID&gt;</code> 直接获取。</p>\n<p>若要拆解，可对已放置的方块使用剪刀，或在背包中用剪刀右键点击该方块。</p>\n<p>部分方块会继承原有的方块状态。目前已实现：轴向、朝向、注水状态、上下半块。</p>\n<h2>重要提示</h2>\n<ul>\n<li>本模组采用通用且复杂的渲染系统以提供高度兼容性。当大量放置捆绑方块时，客户端可能会出现卡顿。</li>\n<li>若因本模组导致游戏崩溃，请在 GitHub 上同时提交游戏日志与方块 ID。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c66da402da1bf4b8",
+  "content": "\n\n## 简介\n\n一款简单的**服务端 Fabric 模组**，引入了**双开门与栅栏门**功能以及一个简单而实用的**敲门**特性。\n\n完全兼容**红石**，且**高度可定制**，可根据服务器需求灵活调整行为。\n\n---\n\n## 功能特性\n\n- 🚪 **支持双开门** – 单击即可同时打开两扇门\n- 👊 **敲门机制** – 左击任意门进行敲门（伴有音效与交互反馈）\n- 🔴 **兼容红石** – 与红石电路无缝配合\n- ⚙️ **高度可配置** – 自定义受影响的门类型、敲门音效等更多选项\n- 🌐 **仅服务端安装** – 客户端无需安装任何内容，不影响其他模组！\n- 🔑 **支持权限管理** – 自由设定谁可以敲门或开启双开门！\n\n---\n\n## 前置需求\n\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n\n---\n\n## 遇到问题？\n\n我最初制作此模组主要是为了满足个人需求，但如果您有任何问题或功能建议，欢迎在 Discord 上联系我（[https://discord.gg/FaxbR9eEFW](https://discord.gg/FaxbR9eEFW)），我将竭诚为您提供帮助！ \n\n---\n\n🎥 **演示视频**：  \n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/C7BF_fYhVBw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

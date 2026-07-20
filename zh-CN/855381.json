@@ -1,0 +1,6 @@
+{
+  "bodyHash": "023c3230f18ef364",
+  "content": "\n\n<h5><strong>FastPBR 光影包是什么？</strong></h5>\n<p>这是一款运行速度极快的光影包，在保持高质量视觉效果的同时采用了 PBR（基于物理渲染）大气效果，因此得名。</p>\n<p><strong>PBR 并不意味着支持镜面反射（Specular），请勿混淆这两个术语，尽管这在光影社区中是一个常见的误解。</strong></p>\n<p><a href=\"https://www.patreon.com/bePatron?u=19790203\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://c5.patreon.com/external/logo/become_a_patron_button.png\" alt=\"成为赞助者\"></a></p>\n<h5><strong>在哪里可以下载？</strong></h5>\n<p>你可以在此处下载，或通过我的网站下载（链接见下方）。</p>\n<h5><strong>它包含哪些功能？</strong></h5>\n<ul>\n<li>动态柔和阴影</li>\n<li>可选的 HBIL 屏幕空间间接光照</li>\n<li>时序抗锯齿与超采样 (TAAU)</li>\n<li>包含体积云的逼真程序化天空盒</li>\n<li>体积雾</li>\n<li>多种可选镜头特效，如景深、镜头光晕和暗角</li>\n<li><strong>自 v2.0 起兼容 Distant Horizons</strong></li>\n</ul>\n<h5><strong>有什么前置要求吗？</strong></h5>\n<ul>\n<li><strong>Iris 1.6.0 或更高版本</strong></li>\n<li><strong>不支持 OptiFine，且在 OptiFine 的功能集追平 Iris 之前都不会提供支持</strong></li>\n<li>支持 OpenGL 4.3 或更高版本的显卡</li>\n<li>Windows 或 Linux 系统</li>\n</ul>\n<h5><strong>外部链接：</strong></h5>\n<ul>\n<li>我的网站：<a href=\"/linkout?remoteUrl=https%253a%252f%252frre36.com%252f\" target=\"_blank\" rel=\"nofollow\">链接</a></li>\n<li>我的 Discord 服务器：<a href=\"https://discord.gg/y5xzQ6H\" target=\"_blank\" rel=\"nofollow\">链接</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "91154b3a56ef41e3",
+  "content": "\n\n<p><strong>Balanced KeepInventory</strong> &mdash; 這是一款伺服器端模組，會維持 keepInventory 功能開啟，並在死亡時套用可自訂的經驗值與耐久度懲罰，以達成更佳的遊戲「平衡」！！</p>\n<p>您可透過指令或 config/balanced_keepinv.json 設定檔，微調經驗值流失比例（總經驗值的 0&ndash;100%），並開啟或關閉耐久度損耗（每件物品 0&ndash;100%，最低損壞 1 點）。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_d5c6c84b-8588-423b-a850-b1cd551bed7a.jpg\" alt=\"\" width=\"743\" height=\"850\"></p>\n<p><strong>應能與所有具耐久度的物品相容，包含模組新增的物品。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

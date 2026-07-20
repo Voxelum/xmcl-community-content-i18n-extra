@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7bc9e34fe643032a",
+  "content": "\n\n當您擊殺玩家後，會播放一段音效。\n\n僅觸發於玩家對玩家（PvP）的擊殺，不包含玩家對環境（PvE）。\n音效僅在您本地播放，其他玩家聽不到。\n\n嘗試為不同情境搭配不同音效——**_entity.wither.spawn_** 在進行戲劇性擊殺時聽起來非常震撼。\n\n如果您想添加自訂音效，請參考**使用方法**第 4 點。（若無法運作，則需選擇基礎音效。）\n\n## **功能特色**\n\n擊殺偵測：自動偵測您對其他玩家造成致命一擊的時刻。\n\n自訂音效：可從多種 Minecraft 音效中挑選，包含升級、拾取經驗球、龍死亡、凋靈生成等。\n\n音量控制：可依個人喜好調整音效音量。\n\n音調控制：微調音調以獲得較高或較低的聲音。\n開關切換：可直接啟用或停用模組，無需卸載。\n\n## **使用方法**\n\n1. 將模組安裝至客戶端或 Minecraft 的 mods 資料夾中。\n   \n2. 透過 Fabric Loader 啟動 Minecraft。\n   \n3. 正常遊玩——當您擊殺其他玩家時，音效會自動播放。\n   \n4. 若要自訂設定，請編輯位於以下路徑的設定檔：%appdata%/.minecraft/config/killsound.json\n\n## **設定選項**\n\n_/enabled_ ：設為 true 或 false 以啟用/停用模組。\n\n_/soundId_ ：要播放的音效代碼（見下方列表）。\n\n_/volume_ ：音效音量，範圍介於 0.0 到 1.0 之間。\n\n_/pitch_ ：音效音調，範圍介於 0.5 到 2.0 之間。\n\n## **可用音效**\n\n_/entity.player.levelup_ - **升級提示音（預設）**\n\n_/random.orb_ - **經驗球拾取音效**\n\n_/entity.wither.death_ - **凋靈死亡**\n\n_/entity.wither.spawn_ - **凋靈生成**\n\n_/ui.toast.challenge_complete_ - **挑戰完成獎勵音效**\n\n_/entity.ender_dragon.death_ - **終界龍死亡**\n\n_/entity.lightning_bolt.thunder_ - **雷鳴**\n\n_/entity.generic.explode_ - **爆炸**\n\n_/entity.blaze.death_ - **烈焰人死亡**\n\n_/entity.ghast.death_ - **惡魂死亡**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

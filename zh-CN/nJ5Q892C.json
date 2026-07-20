@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2d6bc09bb3760583",
+  "content": "\n\n本模组为 Tetra 模组引入了优化，并包含其他兼容性增强与错误修复。\n## Tetra\n1. 在 Tetra 的工作台界面中添加了滑块，便于查看屏幕顶部显示的状态信息。\n![Slider](https://cdn.modrinth.com/data/cached_images/26537c11560b4e693001752e076d4ec57676f7a8.png)\n2. 现在您可以按 [ + ]/[ - ] 键来切换查看武器部件的属性。\n![status](https://cdn.modrinth.com/data/cached_images/bc8eba597ba7fd6d671356e0ec6e943dd2c740f9.png)\n## Art of Forging\n1. 修复了“审判造成的伤害未计入玩家伤害”的问题。\n2. 修复了“秘刃造成的伤害未计入玩家伤害”的问题。\n3. 改进了巨人杀手对目标实体的检测逻辑。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

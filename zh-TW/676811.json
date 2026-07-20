@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FudSgySzCS4=",
-  "content": "<h1>預設伺服器屬性</h1><p>這是一個非常簡單的模組，透過混入遊戲的方式，讓模組包開發者可以在包根目錄中定義一個 <code>default-server.properties</code> 檔案。這樣一來，就能覆蓋 <code>server.properties</code> 檔案的預設建立方式。這個方法的妙處在於，你只需要在 <code>default-server.properties</code> 中設定你想要預設變更的屬性，其餘部分遊戲原生的載入機制就會自動處理。</p><h2>使用方式</h2><p>在遊戲根目錄中建立一個 <code>default-server.properties</code> 檔案。如果在 <code>local</code> 資料夾中沒有 <code>default-used.marker</code> 這個檔案，模組就會嘗試載入該預設資料，並將其注入到 <code>server.properties</code> 的標準預設建立流程中……就是這麼簡單。</p>",
+  "bodyHash": "a9e6617121bf57e5",
+  "content": "\n\n<h1>預設伺服器屬性</h1>\n<p>這是一款極度輕量的模組，會將程式碼混入遊戲中，讓整合包開發者得以在整合包根目錄定義 <code>default-server.properties</code> 檔案。此做法可覆蓋 <code>server.properties</code> 的預設生成過程。這種方法的優點在於，您只需在 <code>default-server.properties</code> 中設定欲更改的預設屬性，其餘部分會由遊戲原生的載入機制自動處理。</p>\n<h2>使用方法</h2>\n<p>請在遊戲根目錄建立 <code>default-server.properties</code> 檔案。若 <code>local</code> 資料夾內不存在 <code>default-used.marker</code>，模組便會嘗試載入該預設資料，並將其注入至 <code>server.properties</code> 的正常預設生成流程中……非常簡單。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

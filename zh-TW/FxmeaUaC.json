@@ -1,6 +1,6 @@
 {
-  "bodyHash": "THAOmcR8gyc=",
-  "content": "**这个模组已被重新设计！！！**\n\n**谢谢你，东非大野猪！**\n\n本模组中包含的 zylob:acg_trail 剑刃特效来自于 Epic ACG 的资源。\n\n如需体验本模组的完整版本，请添加 Fancy Trail 模组。\n\n当你添加 Fancy Trail 模组或 EpicFight-Nightfall 模组时，它们模组中的剑刃特效将自动添加到列表中。\n\n本模组仍在更新中。目前仅支持 1.20.1 版本，未来更新将会跟进。其他版本可能稍后更新。\n\n目前，本模组专注于适配最新版本 Minecraft 1.20.1 的 Epic Fight 模组，并将优先进行更新。\n\n当前设置会替换全局的 epicfight:swing_trail 剑刃拖尾粒子，同时在任何剑刃拖尾粒子生成时也会产生其他粒子。\n\n个人设置将在稍后更新，以避免同时影响其他人的剑光效果。\n![1](https://cdn.modrinth.com/data/cached_images/135b62dab798783e0c429c06dbd8777fe9dfbb14.png)\n<details>\n<summary>剧透</summary>\n\n描述均使用必应翻译。（ ）\n\n</details>\n\n\n\n\n\n\n大概是这样？\n\n\n\n\n\n尽量保持剑刃闪光重叠数量最小化，因为我实际上是在剑刃闪光产生的同一时间生成这些粒子，所以过多的重叠会导致严重卡顿。\n\nEpicFight 剑光修改团队",
+  "bodyHash": "18a2cd21d4612213",
+  "content": "\n\n**本模組已重新設計！！！**\n\n**感謝你，東非大野豬！**\n\n本模組內附的 zylob:acg_trail 刀光效果來自 Epic ACG 的資源。\n\n若要體驗本模組的完整功能，請額外安裝 Fancy Trail 模組。\n\n當您安裝 Fancy Trail 模組或 EpicFight-Nightfall 模組時，它們的刀光效果將自動加入列表中。\n\n本模組仍在持續更新中。目前僅提供 1.20.1 版本，未來會跟進更新。其他版本可能會在稍後推出。\n\n目前本模組主要針對 Minecraft 1.20.1 最新版的 Epic Fight 模組進行優化，並將優先進行更新。\n\n目前的設定會取代全局的 epicfight:swing_trail 刀光粒子效果，並且在生成任何刀光粒子時同步產生其他粒子。\n\n\n個人化設定將於稍後更新，以避免同時影響其他玩家的劍光效果。\n![1](https://cdn.modrinth.com/data/cached_images/135b62dab798783e0c429c06dbd8777fe9dfbb14.png)\n<details>\n<summary>詳細資訊</summary>\n\n所有描述均使用 Bing 翻譯。（ ）\n\n</details>\n\n\n\n\n\n\n類似這樣嗎？\n\n\n\n\n\n請盡量減少重疊的刀光數量，因為我實際上是在生成刀光的同時同步產生這些粒子，若重疊過多會導致嚴重的卡頓。\n\nEpicFight 刀光修改團隊",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

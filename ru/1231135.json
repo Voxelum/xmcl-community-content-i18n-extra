@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6202d1e5cea03219",
+  "content": "\n\n<p>В Minecraft вы замечали, что некоторые блюда, такие как свекольный суп, нужно «пить», а не есть?</p>\n<p><br>Этот мод позволяет сделать отдельные продукты «питьём». Просто добавьте их в файл конфигурации&nbsp;<code>drinkit-common.toml</code>&nbsp;или добавьте им теги&nbsp;<code>drinkit:drinkable</code>,&nbsp;<code>drinkit:thick</code> или&nbsp;<code>drinkit:noeatingsound</code>.</p>\n<p><br>Примеры вроде свекольного супа, грибного рагу и подозрительного рагу уже включены. Если вы хотите добавить больше блюд, просто следуйте тому же формату.</p>\n<p><br>Этот мод представляет собой порт для NeoForge оригинала <a href=\"https://www.curseforge.com/minecraft/mc-mods/drink-it-forge\" target=\"_blank\" rel=\"nofollow\">Drink It!</a> с добавленной опцией конфигурации&nbsp;<code>no_eating_sound</code>, позволяющей отключить звуки жевания при употреблении отдельных «напитков».</p>\n<p>&nbsp;</p>\n<p>ВНИМАНИЕ:</p>\n<p>Вы&nbsp;<strong>ОПРЕДЕЛЁННО МОЖЕТЕ</strong>&nbsp;добавить этот мод в свою сборку модов.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

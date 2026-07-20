@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bde81be992b760fe",
+  "content": "\n\n<h2>一款讓頭目生命值與戰利品掉落數量隨玩家人數調整的模組。此模組為伺服器端必備，若啟用「戰利品袋」功能則客戶端也需安裝。</h2>\n<p>預設行為下，頭目會依據玩家人數掉落戰利品袋</p>\n<h3>目前的設定選項如下：</h3>\n<ul>\n<li>是否縮放頭目生命值</li>\n<li>是否縮放頭目掉落物</li>\n<li>每位玩家的生命值倍率</li>\n<li>固定生命值倍率 - 若不為 0 將覆蓋基礎生命值倍率</li>\n<li>固定掉落倍率 - 若不為 0 將覆蓋預設的玩家人數縮放機制</li>\n<li>是否使用載入器標籤</li>\n<li>是否掉落戰利品袋</li>\n<li>頭目實體 - 欲套用的頭目列表</li>\n<li>戰利品袋著色 - 掉落戰利品袋的顏色</li>\n<li>使用距離縮放 - 僅計算靠近頭目生成點的玩家</li>\n<li>距離縮放範圍 - 計算頭目戰役中玩家數量的方塊距離</li>\n</ul>\n<p>我正在開發支援 Fabric 與 Forge 的版本。</p>\n<p>*注意：原版 Minecraft 的生命值上限無法超過 1024。若要突破此限制，可搭配此模組 <a href=\"https://www.curseforge.com/minecraft/mc-mods/attributefix\" target=\"_blank\" rel=\"nofollow\">AttributeFix</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

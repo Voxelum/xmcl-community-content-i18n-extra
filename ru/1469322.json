@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cac8f4816ff6ebd1",
+  "content": "\n\n<h1>Создано <strong>fenny (fenny013)</strong></h1>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252ft.me%252ffenny0I3\" rel=\"nofollow\"><img src=\"https://cdn.modrinth.com/data/cached_images/3dda5aef60f5a12da1753f577f55952cabe61bd9.gif\" alt=\"присоединяйтесь к моему каналу в Telegram\"></a></p>\n<p>Это небольшая косметическая модификация для клиента, которая добавляет мемные эмодзи-глаза в стиле iOS прямо на лицо игрока. Глаза следуют за движением головы и видны всем игрокам, у которых также установлен этот мод.</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/86b4a9a64fc2f4e5a93e268c61a95a2c8e495965.png\" alt=\"00\"></p>\n<hr>\n<h1>Замена текстуры</h1>\n<p>Чтобы заменить стандартную текстуру своей, создайте ресурспак и переопределите:</p>\n<pre><code>assets/eyes/textures/gay/eyes.png\n</code></pre>\n<p>Просто поместите ваш PNG-файл туда, используя тот же путь.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

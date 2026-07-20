@@ -1,0 +1,6 @@
+{
+  "bodyHash": "05844038b3a98c99",
+  "content": "<h1>Видимость игроков на BlueMap</h1>\n<p>Мод для Fabric, позволяющий показывать/скрывать игроков на BlueMap<br>\n<strong>Требует Fabric API и BlueMap!</strong></p>\n<h2>Команды</h2>\n<table>\n<thead>\n<tr>\n\t<th>Команда</th>\n\t<th>Использование</th>\n\t<th>Уровень OP</th>\n\t<th>Разрешение</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n\t<td>/bmpv get</td>\n\t<td>Показывает вашу собственную видимость</td>\n\t<td>0</td>\n\t<td>bmpv.get.self</td>\n</tr>\n<tr>\n\t<td>/bmpv get &lt;игрок&gt;</td>\n\t<td>Показывает видимость другого игрока</td>\n\t<td>2</td>\n\t<td>bmpv.get.other</td>\n</tr>\n<tr>\n\t<td>/bmpv show</td>\n\t<td>Делает вас видимым</td>\n\t<td>0</td>\n\t<td>bmpv.show.self</td>\n</tr>\n<tr>\n\t<td>/bmpv show &lt;игроки&gt;</td>\n\t<td>Делает указанных игроков видимыми</td>\n\t<td>2</td>\n\t<td>bmpv.show.other</td>\n</tr>\n<tr>\n\t<td>/bmpv hide</td>\n\t<td>Делает вас невидимым</td>\n\t<td>0</td>\n\t<td>bmpv.hide.self</td>\n</tr>\n<tr>\n\t<td>/bmpv hide &lt;игроки&gt;</td>\n\t<td>Делает указанных игроков невидимыми</td>\n\t<td>2</td>\n\t<td>bmpv.hide.other</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

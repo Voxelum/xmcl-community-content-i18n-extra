@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ssGxSeCotB8=",
-  "content": "# Morphy — 在 Minecraft 中變身成生物與方塊\n\n透過簡單直覺的變身系統，讓你變成 Minecraft 中幾乎任何生物或方塊。\n變身後會同步模型、尺寸與碰撞箱。\n\n## 變身選單\n\n透過遊戲內的圖形介面瀏覽與搜尋所有可用的變身，並提供即時預覽。\n\n### 按鍵操作\n\nM → 開啟變身選單\n\n---\n\n## 指令\n\n/ morph menu  \n/ morph menu mobs  \n/ morph menu blocks  \n\n/ morph set <mob_or_block>  \n/ morph set <mob_or_block> [targets]  \n\n/ morph clear  \n/ morph clear [targets]  \n\n/ morph normal\n\n---\n\n## 目標選擇器\n\n@a → 所有玩家  \nplayer → 指定玩家  \nteam <name> → 指定隊伍\n\n---\n\n## 權限\n\n伺服器指令需要 OP 權限。\n\n單人模式在開啟指令作弊時可正常使用。\n\n---\n---\n\n## 💻 製作團隊\n\n由 @SunnyAim_ 創作與維護。\n\n© 版權所有。",
+  "bodyHash": "611b5600e5e11689",
+  "content": "\n\n# Morphy — 在 Minecraft 中變身為生物與方塊\n\n透過簡單直覺的變形系統，在 Minecraft 中變身成幾乎任何生物或方塊。\n變身後的生物模型、大小與碰撞箱皆會同步對應。\n\n## 變形選單\n\n透過遊戲內的圖形介面瀏覽並搜尋所有可用的變形，支援即時預覽。\n\n### 操作按鍵\n\nM → 開啟變形選單\n\n---\n\n## 指令\n\n/ morph menu  \n/ morph menu mobs  \n/ morph menu blocks  \n\n/ morph set <mob_or_block>  \n/ morph set <mob_or_block> [targets]  \n\n/ morph clear  \n/ morph clear [targets]  \n\n/ morph normal\n\n---\n\n## 目標選擇器\n\n@a → 所有玩家  \n玩家名稱 → 指定單一玩家  \nteam <名稱> → 指定隊伍\n\n---\n\n## 權限設定\n\n伺服器指令需要 OP 權限。\n\n單人遊戲中，啟用作弊功能即可正常使用。\n\n---\n---\n\n## 💻 開發人員\n\n由 @SunnyAim_ 建立與維護\n\n© 版權所有，保留一切權利。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ad39f2bdb48b967f",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/RplWePZ.png\" alt=\"\"></p>\n<p>RS：Requestify 是 Refined Storage 的擴充模組，目前新增了 Requester（請求器）與 Crafting Emitter（合成發射器）。Requester 是一個 RS 網路方塊，您可以指定希望在系統中備貨的單一種物品數量。例如，若您希望 RS 系統中始終保持一組箱子，Requester 會自動為您建立合成任務來達成此目標。</p>\n<p>在設定檔中，您可以指定合成批次的大小（適用於 1.21 版本之前）。</p>\n<p>在 1.21 版本中，Requester 擁有的堆疊升級越多，它嘗試合成的數量就會越多。</p>\n<p>Crafting Emitter（合成發射器）會在過濾器中的任何物品正在被合成時發出紅石訊號；而在 1.21 版本中，當合成數量大於或等於過濾器中指定的數量時也會發出訊號。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://cdn.worldvectorlogo.com/logos/discord.svg\" alt=\"\"> <a href=\"https://discord.gg/4tPfwjn\" target=\"_blank\" rel=\"nofollow\">Discord</a> &nbsp; &nbsp; &nbsp;<img src=\"http://www.djmaclennan.com/wp-content/uploads/2017/06/patreon_logo.png\" alt=\"\"> <a href=\"https://www.patreon.com/buuz135\" target=\"_blank\" rel=\"nofollow\">Patreon</a> &nbsp; &nbsp; <img src=\"https://cdn3.iconfinder.com/data/icons/social-icons-5/606/Twitter.png\" alt=\"\"> <a href=\"https://twitter.com/Buuz135mods\" target=\"_blank\" rel=\"nofollow\">Twitter</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

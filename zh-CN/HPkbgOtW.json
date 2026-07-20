@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6d8e8fa1012afeac",
+  "content": "\n\n# 关于：\n修复纹理与物体边界处的锯齿问题。旨在平滑视觉伪影。提供两种模式：FXAA 和 TAA。前者速度更快，后者精度更高。同时兼容 Distant Horizons 模组。\n\n### 示例 1：关闭/开启\n![GIF](https://cdn.modrinth.com/data/cached_images/f509678fe1b7bb7075e0024e0ddff5afeccfa61b.gif)\n#### 关闭时画面会出现波纹且物体抖动，开启后伪影消失。\n\n### 示例 2：\n![VS](https://cdn.modrinth.com/data/HPkbgOtW/images/2e33ecdf9ec4f609a89b574dbbdceb0d44c433d9.webp)\n\n## 常见问题：\n<details>\n<summary>与其他项目有何不同？</summary>\n  全版本支持雾气效果，采用全新的 FXAA 算法，性能优于 TAA Project。\n</details>\n\n<details>\n<summary>FXAA 和 TAA 有什么区别？</summary>\n  FXAA 是一种简单高效的后处理抗锯齿滤镜，通过模糊锐利边缘来工作；而 TAA 利用前一帧的数据生成更平滑的画面，尤其在移动时效果更佳。\n</details>\n\n###### 部分代码（即 TAA 的实现）源自 TAA Project，因此采用 MPL-2.0 许可证。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8773e672b1ac9190",
+  "content": "\n\n<h1>FilterLite Shaders</h1>\n<p>这是一个纯粹的后处理着色器，旨在为您的游戏提供类似内置 Lightroom/相机滤镜的效果。</p>\n<p>它不会添加沉重的动态阴影、摇曳的树叶或逼真的水面效果——相反，它将 100% 专注于屏幕空间的颜色调整。最终呈现的是一种摄影级画面，且能在任何电脑上流畅运行。</p>\n<h2>功能特性</h2>\n<ul>\n<li><strong>完整调色套件：</strong> 手动调节曝光度、对比度、饱和度、色温（开尔文）和色调。</li>\n<li><strong>相机特效：</strong> 可切换的复古棕褐色、屏幕暗角以及动态（动画）胶片颗粒。</li>\n<li><strong>20 种内置预设：</strong> 不想手动调节滑块？直接选择预设即可：<ul>\n<li><em>干净自然：</em> Default, Lark, Reyes, Ludwig, Perpetua</li>\n<li><em>温暖舒适：</em> Gingham, Slumber, Crema, Aden, Seventies, Toaster</li>\n<li><em>高对比/鲜艳：</em> Clarendon, Juno, Lo-Fi, Kelvin</li>\n<li><em>复古单色：</em> Moon, Inkwell, Vintage, Nashville, Cinematic</li></ul></li>\n<li><strong>零卡顿：</strong> 基于标准 <code>#version 120</code> GLSL 数学运算构建。只要您的电脑能运行原版游戏，就能以满速运行此着色器。</li>\n</ul>\n<h2>兼容性</h2>\n<ul>\n<li>完全兼容 <strong>Iris Shaders</strong> 和 <strong>OptiFine</strong>。</li>\n<li>跨版本兼容（适用于几乎所有 Minecraft 更新）。</li>\n</ul>\n<h2>安装方法</h2>\n<ol>\n<li>下载 <code>.zip</code> 文件。</li>\n<li>将其放入 <code>shaderpacks</code> 文件夹中。</li>\n<li>在游戏中选择它，并使用着色器选项菜单挑选您喜欢的预设。</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

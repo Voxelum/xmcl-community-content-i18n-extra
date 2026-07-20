@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a4c96f3b94d562c",
+  "content": "\n\n<h1><p><a href=\"https://www.patreon.com/quillphen\" target=\"_blank\" rel=\"nofollow noopener\"> <img src=\"https://img.shields.io/badge/Support me-Patreon-ff424d?logo=patreon&amp;logoColor=white\" alt=\"在 Patreon 上支持我\"></a> &nbsp;&nbsp;<a href=\"https://discord.gg/8GydmUN3xq\" target=\"_blank\" rel=\"nofollow noopener\"><img src=\"https://img.shields.io/badge/Join our Discord-5865F2?logo=discord&amp;logoColor=white\" alt=\"加入我们的 Discord\"> </a>\n  &nbsp;&nbsp;  <a href=\"https://ko-fi.com/quillphen\" target=\"_blank\" rel=\"nofollow noopener\"><img src=\"https://img.shields.io/badge/Support me-Ko--fi-571db5?logo=kofi&logoColor=white\" alt=\"在 Ko-fi 上支持我\"></a></h1>\n\n<p align=\"center\">\n  <a href=\"https://www.patreon.com/cw/quillphen\" target=\"_blank\">\n    <img src=\"https://cdn.modrinth.com/data/cached_images/49b1e899a9f41e7eeeb877bc53e8d5838998a95b_0.webp\" alt=\"Patreon\">\n  </a>\n</p>\n  \n    \n# 动态光源着色器\n> 一款基础着色器，能让手持物品发光或发射光线。\n> 光线颜色取决于你当前手持的物品（火把、灯笼、萤石、红石、灵魂物品等）。\n\n> ![动态光源](https://cdn.modrinth.com/data/fw4J9UkQ/images/33fcd3edfa2552311a2e52db0a133498050d28d2.gif)\n\n你可以在着色器包设置中**禁用(0)/启用(1)** held_color_light 参数。\n\n就是这样！\n欢迎贡献 (https://github.com/Hiba550/Dynamic-Light-Shader)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

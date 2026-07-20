@@ -1,0 +1,6 @@
+{
+  "bodyHash": "043692fffd6f9e42",
+  "content": "<p>概述</p>\n<p>本模组重现并优化了原版泰坦模组，内容基本与原版泰坦模组保持一致：添加了巨型Boss生物、更多装备、工具和矿石。</p>\n<p>与原泰坦模组的区别</p>\n<p>&middot; 优化了Boss动画（攻击及其他基础动画等）；<br>&middot; 平衡了装备和生物属性（装备攻击力不再过于夸张，Boss更易击败）；<br>&middot; 改善了游戏体验（移除了大量针对创造模式的代码，优化了部分Boss相关的延迟等）；<br>&middot; 添加了一些快捷指令（例如 /killTitan）；<br>&middot; 增加了更多与新版本生物相关的泰坦（例如：Gargantuan Titan）；<br>&middot; 增强了相关纹理（例如：血条边框和实体纹理等）。</p>\n<p>注意事项</p>\n<p>&middot; 本模组并非简单的复刻，包含了一些原创的创新内容以及对生存玩法和平衡性的优化。<br>&middot; 本模组目前仍在开发中，某些Boss阶段的装备尚未实现（部分Boss可能稍强，请等待后续更新）。<br>&middot; 本模组目前仅提供部分正常生存游戏内容的体验，更多内容将在未来更新中添加。<br>&middot; 本模组替换了原版的生命值和护甲条，可在配置文件中开启或禁用。<br>&middot; 相关配置文件及泰坦的破坏行为由原版实体破坏规则控制。<br>&middot; 在泰坦视角下进入或退出旁观模式可能导致游戏崩溃！</p>\n<p>（<strong>你可以使用 <code>/gamerule mobGriefing false</code> 来防止泰坦破坏方块。</strong>）</p>\n<p>目前已更新的泰坦</p>\n<p>&middot; 凋零骷髅泰坦<br>&middot; 末影巨像<br>&middot; 凋零骷髅泰坦<br>&middot; 恶魂泰坦<br>&middot; 吱嘎泰坦 (Creaking Titan)<br>&middot; 烈焰人泰坦<br>&middot; 旋风人泰坦 (Breeze Titan)<br>&middot; 电荷苦力怕泰坦<br>&middot; 苦力怕泰坦<br>&middot; 尸壳泰坦<br>&middot; 僵尸泰坦<br>&middot; 僵尸村民泰坦<br>&middot; 骷髅泰坦<br>&middot; 雪傀儡泰坦</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

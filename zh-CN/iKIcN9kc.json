@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f54361117acf9bdb",
+  "content": "\n\n![重制僵尸标志](https://cdn.modrinth.com/data/cached_images/d6311b36cdb3f8abc424812418ec1cf6a1483067.png)\n\n# \n\n此包使 AL 的《重制僵尸》与 Fresh_LX 制作的《Fresh Animations》兼容！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/8WVZPN3CB70\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n \n\n由于 AL 的《重制僵尸》为僵尸使用了自定义模型，因此它本身无法与《Fresh Animations》兼容。\n\n本补充包通过引入使用对应动画的新模型解决了该问题！\n\n \n\n重要提示：\n\n为使本包正常运行，需确保其加载顺序位于 FA 之上。\n\n \n\n请按以下顺序加载：\n\n- 本包\n\n- Fresh Animations",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

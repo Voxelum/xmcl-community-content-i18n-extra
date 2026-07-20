@@ -1,0 +1,6 @@
+{
+  "bodyHash": "94ce8e62d4d89395",
+  "content": "<p>Добавляет кнопки умножения (&times;2, &times;3, &times;5, &times;7) и деления (&divide;2, &divide;3, &divide;5, &divide;7) в терминал кодирования шаблонов Applied Energistics 2, а также увеличивает предел ввода/вывода одного шаблона до <code>Integer.MAX_VALUE</code>.</p>\n<div>\n<h3>Особенности</h3>\n<a href=\"https://github.com/oritong/Pattern-Encoding-Terminal-Quick-Math#features\" rel=\"nofollow\"></a></div>\n<ul>\n<li><strong>Быстрые вычисления</strong>: Добавляет кнопки быстрого умножения (&times;2, &times;3, &times;5, &times;7) и деления (&divide;2, &divide;3, &divide;5, &divide;7) в терминал для быстрой настройки рецептов предметов в шаблонах.</li>\n<li><strong>Убраны ограничения</strong>: Увеличивает лимит количества наборов шаблонов при нажатии средней кнопкой мыши с небольшого значения по умолчанию до <code>Integer.MAX_VALUE</code>.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

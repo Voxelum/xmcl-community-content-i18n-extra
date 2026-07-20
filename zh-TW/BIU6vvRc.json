@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7fed5ade9d545b14",
+  "content": "\n\n# NeoForged Velocity 支援\n\n為 NeoForge 新增 [Velocity](https://papermc.io/software/velocity/) 的現代轉發（Modern Forwarding）支援。Velocity 的現代轉發協定會將使用者資料直接從代理伺服器傳送至後端伺服器，這在防火牆之上提供了第二層防護，以抵禦惡意行為者。如需更多詳細資訊，請參閱官方文件 [這裡](https://docs.papermc.io/velocity/)。\n\n此實作力求與 [Paper](https://papermc.io/software/paper/) 的現代轉發實作保持一致。這有助於提升相容性，並保持程式碼簡潔。\n\n如有任何問題，請在 [我的 Discord](https://discord.gg/vNaqDzSNaB) 上的 `#velocity-support` 頻道提問。\n\n## 快速開始\n\n首先，您需要設定好 Velocity 代理伺服器。既然您已經在看這個模組，我假設您已經完成此設定。若尚未設定，關於代理伺服器的詳細步驟請參閱官方文件 [這裡](https://docs.papermc.io/velocity/getting-started/)。\n\n當您準備將 NeoForge 伺服器連線至代理伺服器時，請將對應版本的模組安裝到您的伺服器上。接著，只需將代理伺服器的 `forwarding.secret` 檔案複製到您的 NeoForge 伺服器目錄中。當然，請確認您的伺服器已設為離線模式（在 `server.properties` 中設定 `online-mode=false`）。啟動您的伺服器即可！\n\n## 疑難排解\n\n如果您在連線至伺服器時遇到問題，且 Velocity 顯示封包解碼錯誤，請在代理伺服器的啟動腳本中加入以下參數：\n\n```\n-Dvelocity.packet-decode-logging=true\n```\n\n這將讓 Velocity 提供有關封包解碼錯誤的更多資訊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

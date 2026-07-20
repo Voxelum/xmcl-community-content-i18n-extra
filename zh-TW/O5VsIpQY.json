@@ -1,0 +1,6 @@
+{
+  "bodyHash": "084ca4c76b086dbc",
+  "content": "\n\n# adventure-platform-mod\n\n將 [adventure](https://github.com/KyoriPowered/adventure) 函式庫與 *Minecraft: Java Edition* 進行整合，適用於 [Fabric](https://fabricmc.net) 與 [NeoForge](https://neoforged.net) 模組開發系統。\n\n此模組本身不會執行任何功能，但為其他模組所必需。如果您正在尋找 `adventure-platform-fabric` 或 `adventure-platform-neoforge`，您來對地方了！\n\n開發者：請參閱 [文件](https://docs.papermc.io/adventure/platform/modded/)，以取得此專案及主要 `adventure` 函式庫的用法與相依性資訊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

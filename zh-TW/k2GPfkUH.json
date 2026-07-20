@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6e4d6146132e4a99",
+  "content": "\n\n這是一個同時為 [Scorched Guns 2](https://modrinth.com/mod/scorched-guns-2) 與 [Boss Checklist](https://modrinth.com/mod/boss-checklist) 設計的擴充模組，將前者的所有襲擊首領以及 Scamppanzer 整合至後者的首領清單介面中，作為獨立條目。\n\n\n**「你是怎麼做到的？Scorched Guns 2 是基於原版生物來設計其襲擊首領的！」**\n首先，本模組會加入虛構且無法自然生成的替代實體，作為你所見首領清單條目的基礎。一旦偵測到對應的首領在世界中的任何時間點死亡，該條目便會自動標記為已擊敗。\n\n**「為什麼不將它與其他 Boss Checklist 擴充模組打包在一起？」**\n本模組使用了上述由自身新增的虛構實體。因此，無論你是否實際安裝了 Scorched Guns 2 模組，本模組新增的所有首領條目（Scamppanzer 除外）都會顯示出來。你應該不希望玩家裝上整合包後，四處好奇地尋找這些首領，結果到最後才發現自己根本連原本就該支援這些首領的原始模組都沒裝吧。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

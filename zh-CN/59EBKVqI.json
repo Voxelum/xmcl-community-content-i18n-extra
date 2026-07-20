@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c43d70123fd6ef94",
+  "content": "\n\nCreate Aeronautics 与 Connected FluidVessel 兼容补丁\n\nCreate Connected 的 FluidVessel 是 Create 生态系统中最佳的流体存储方案之一——但默认情况下，Create Aeronautics 的蒸汽排气口完全无法识别它。将排气口放置在 FluidVessel 上方什么都不会发生。无法作为锅炉运作，不产生蒸汽，也就没有动力。本模组修复了该问题。\n\n将蒸汽排气口放置在 Create Connected 的 FluidVessel 顶部后，它们会像放置在 Create 原版流体储罐上一样正常工作——将你的容器变成一个能生产蒸汽的锅炉，为引擎、机械装置和飞艇提供动力。\n\n修复内容：\n\nFluidVessel 可作锅炉使用 —— 现在放置在 FluidVessel 顶部的蒸汽排气口能正确将其激活为锅炉，并按预期产生蒸汽\n红石信号同步 —— 单个红石信号现在能同时激活所有连接到同一 FluidVessel 的蒸汽排气口，而非各自独立运作\n传动轴实体 Bug —— 修复了一个 Bug：当排气口附着在飞艇的 FluidVessel 上时，其传动轴会分裂成独立的物理实体\n依赖项：\n\nCreate\nCreate Aeronautics\nCreate Connected",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

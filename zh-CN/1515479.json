@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac695f098f07fe42",
+  "content": "\n\n<h1>✨ BBS AAAddon</h1>\n<p><strong>BBS AAAddon</strong> 解锁了在 BBS 中使用 <strong>AAA 粒子</strong> 作为形态的功能。对于希望在场景中添加高质量特效的动画师来说，这是一个极其强大的工具！</p>\n<h3>🛠️ 使用方法</h3>\n<p>设置自定义粒子的过程非常简单：</p>\n<ol>\n<li>将你的 <strong><code>.efkefc</code></strong> 粒子文件放入资源文件夹中。具体来说，请使用此确切路径：\n<code>config\\bbs\\assets\\effeks\\</code></li>\n<li><strong>重要提示：</strong>请确保也将粒子的纹理文件放在与该粒子文件完全相同的文件夹中！</li>\n<li>在游戏内打开 BBS 形态菜单，并寻找标有 <strong>&quot;AAA&quot;</strong> 字母的形态。</li>\n<li>选中它，打开粒子选择面板以选择你特定的效果，即可开始制作动画！</li>\n</ol>\n<hr>\n<h3>⚙️ 兼容性</h3>\n<p>该模组完全支持并适用于 Minecraft <strong>1.20.1</strong> 和 <strong>1.21.1</strong> 版本。</p>\n<hr>\n<h3>👥 致谢</h3>\n<ul>\n<li><strong>原作者：</strong> Diobede</li>\n<li><strong>移植至 1.21.1 及分发：</strong> ElGatoPro300</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "96d5536ce184810b",
+  "content": "# 工具耐久度警告\n\n### 再也不必担心损坏你的装备\n\n[![下载量](https://img.shields.io/modrinth/dt/URQ0rty4?style=for-the-badge&color=00AF5C&label=Downloads)](https://modrinth.com/mod/tools-durability-warning) [![版本](https://img.shields.io/modrinth/v/URQ0rty4?style=for-the-badge&color=orange&label=Latest%20Ver)](https://modrinth.com/mod/tools-durability-warning/versions)\n\n***\n\n## 这是什么？\n\n**Tools Durability Warning**（工具耐久度警告）是一款简单的实用模组，当你的工具或护甲即将损坏时会发出警报。它帮助你在为时已晚之前保存附魔装备。\n\n![游戏内截图](https://cdn.modrinth.com/data/cached_images/b8c4ca84edff085858ed5277b24ea2b05f6261b6.png)\n\n***\n\n## 功能特性\n\n| 功能 | 描述 |\n| :--- | :--- |\n| **智能警告** | 当耐久度降至 5%、10% 或 20% 以下时发出警报（可配置）。 |\n| **视觉与音频提示** | 在动作栏显示警告信息，并播放独特的音效。 |\n| **通用支持** | 适用于 **工具** 和 **护甲**。 |\n| **模组兼容** | 识别所有可损坏物品，包括来自其他模组的工具。 |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

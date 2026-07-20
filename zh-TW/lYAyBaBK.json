@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d691e6924eb1ba2f",
+  "content": "\n\n這是一個同時為 [Stellarity](https://modrinth.com/datapack/stellarity) 與 [Boss Checklist](https://modrinth.com/mod/boss-checklist) 設計的擴充模組，將前者的「光之女王」Boss 整合至後者的 Boss 檢查清單介面中作為一個條目。\n\n**\"你是怎麼做到的？Stellarity 是一個打包成模組的資料包！\"**\n首先，該模組會加入一個虛構且無法生成的替代實體，作為你所見 Boss 檢查清單條目的基礎。條目中「掉落物」分類顯示的自訂掉落物同樣是虛構且無法取得的物品，僅用於模擬真實掉落效果。一旦伺服器偵測到該 Boss 播放死亡動畫，其條目便會自動標記為已擊敗。\n\n**\"為什麼這個沒有跟你的其他 Boss Checklist 擴充模組打包在一起？\"**\n此模組運用了前述由模組自身加入的替代實體。因此，無論你是否實際安裝了 Stellarity 模組，「光之女王」Boss 的條目都會正常顯示。你應該不希望模組整合包的玩家四處好奇地尋找這個「光之女王」，結果後來才發現他們根本連支援該 Boss 的模組都沒裝吧。\n\n**所有用於呈現該 Boss 掉落物品的紋理皆直接取自 [Stellarity 資源包](https://modrinth.com/resourcepack/stellarity-rp)，並非由我自行製作。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

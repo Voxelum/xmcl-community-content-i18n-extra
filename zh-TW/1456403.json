@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0e2919810cdac9a8",
+  "content": "\n\n<h1>槍械縮放模組</h1>\n<p>一款 Fabric 模組，結合了 <strong>Soulslike Weaponry</strong> 與 <strong>Ranged Weapon API</strong>，使槍械傷害能隨玩家屬性成長。</p>\n<h2>功能特色</h2>\n<ul>\n<li><strong>屬性縮放</strong>：槍械傷害（銀彈）會依據 <code>ranged_weapon:damage</code> 屬性進行調整。</li>\n<li><strong>可自訂設定</strong>：可選擇加法或乘法縮放模式。</li>\n<li><strong>自訂倍率</strong>：透過設定檔微調傷害數值。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

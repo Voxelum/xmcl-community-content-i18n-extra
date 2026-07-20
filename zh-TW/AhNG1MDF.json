@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e2b8c8285fc5a737",
+  "content": "\n\nOre Stages Reborn\n\n描述\n\n這是原版模組的移植版本。由於原作者並未推出移植版，且我極度需要此功能，因此進行了移植。\n\n原版模組 -> https://modrinth.com/mod/ore-stages\n我的 Discord - [link](https://discord.gg/uqPyFAnwFe)\n\n範例\n```\nimport mods.orestages.OreStages;\n\nOreStages.addOreStage(\"test\", <blockstate:minecraft:grass_block:snowy=false>);\n\nOreStages.addOreStage(\"test\", <blockstate:minecraft:grass_block:snowy=false>, <blockstate:minecraft:diamond_block>);\n```\n\n方法\n```\nimport mods.orestages.OreStages;\n```\n```\nOreStages.addOreStage(String stage, BlockState block)\n```\n```\nOreStages.addOreStage(String stage, BlockState blockState, BlockState replaceBlock)\n```\n```\nOreStages.addOreStage(String stage, BlockState block, boolean explosion)\n```\n```\nOreStages.addOreStage(String stage, BlockState block, BlockState replaceBlock, boolean explosion)\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

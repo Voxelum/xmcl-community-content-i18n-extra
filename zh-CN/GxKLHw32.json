@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f96407596a2fc063",
+  "content": "## Lava PBR\n这是一个用于 Minecraft 熔岩的纹理包，为其增添了逼真的外观。\n\n\n### **安装方法：**\n1. 下载\n2. 安装\n3. 在任何其他纹理包或独立纹理之后加载此熔岩纹理\n\n\n### !!重要提示!!\n\n如果您希望效果与截图/视频中显示的一致，您**必须**：\n1. 安装 **Sodium** 或 **Optifine**\n2. 从下方列表中安装您选择的**着色器（Shader）**\n3. 在**着色器设置**中**启用 **PBR****（默认情况下通常处于禁用状态）。\n\n\n### **兼容的着色器：**\n1. BLISS \n2. Complementary Reimagined \n3. Kappa\n4. KappaPT\n5. Nostalgia\n6. NostalgiaVX\n7. SoftVoxels\n8. Photon\n9. SEUS PTGI HRR 3\n10. IterationRP \n11. IterationT\n12. Sundial\n\n\n### **图片对比**\n[原版熔岩 vs Lava Textures 512x + 着色器 + PBR 开启](https://imgsli.com/NDI4NjA1)\n\n\n### **对比视频**\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/h7LaXWZf20s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

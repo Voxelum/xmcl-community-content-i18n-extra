@@ -1,0 +1,6 @@
+{
+  "bodyHash": "815d21235bf827c1",
+  "content": "\n\n<h3>能量炮塔</h3>\n<p>为航空飞船添加了三种颜色编码的能量炮塔 &mdash; <strong>蓝色</strong>、<strong>绿色</strong>和<strong>红色</strong> &mdash; 供搭配使用。每个炮塔共享相同的实心加农炮模型，但会发射各自独特颜色的发光能量弹，并配有独立的射击音效。</p>\n<h4>功能特性</h4>\n<ul>\n<li><strong>三种炮塔颜色</strong>，每种均可独立配置</li>\n<li><strong>人工或自动射击</strong> &mdash; 可以乘坐炮塔手动瞄准，或通过红石信号或 P2P 链接座椅的开火按钮触发，实现无人自动化防御（需安装 Space War Aeronautics）</li>\n<li><strong>扳手微调瞄准</strong> &mdash; 使用扳手（Create 或 Space War Aeronautics 的）右键点击炮塔，可将其底座朝向顺时针旋转 1&deg；按住 Shift 右键点击则为逆时针旋转；无需破坏并重新放置即可精细调整自动炮塔的瞄准方向</li>\n<li><strong>按颜色独立配置</strong> 通过 <code>config/energy_turrets.json</code> &mdash; 爆炸力度和射速均可针对每个炮塔独立调整</li>\n<li><strong>选择性破坏</strong> &mdash; 默认情况下炮塔火力仅能破坏 Copycats+ 方块和原版红石块（可切换为允许破坏任意方块）</li>\n<li><strong>无限能量</strong> &mdash; 无需管理能源系统；本模组专注于核心炮塔玩法，而非设置资源门槛</li>\n</ul>\n<h4>依赖项</h4>\n<ul>\n<li>Aeronautics (<code>space_war_aeronautics</code>)</li>\n<li>Sable</li>\n</ul>\n<h4>添加更多颜色</h4>\n<p>模组自带一份 README 文档，详细说明如何添加新的炮塔变体（新颜色、音效和参数调整）&mdash; 无需编写新代码，只需添加几行配置和资源条目。<br><br><br>炮塔模型由 Sockman 制作！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

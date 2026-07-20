@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ea4c1b0c0c7bae6",
+  "content": "# CCPowerGridCompat\n\nЭтот мод добавляет методы в CC:Tweaked, позволяющие компьютерам напрямую считывать данные с датчиков Create: PowerGrid. Прямые значения с датчика напряжения, датчика тока и датчика мощности теперь доступны как периферийные устройства с методами `getVoltage`, `getAmperage` и `getPower` соответственно.\n\nВсё просто.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

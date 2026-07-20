@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0cf030b3114be794",
+  "content": "\n\n# ContainerSearcher\n\n暫存已開啟的容器，並允許你透過遊戲內選單進行搜尋。\n\n當你開啟箱子時，其內容會被儲存至檔案中。  \n使用快捷鍵（預設為小鍵盤 5，可於快捷鍵設定中修改）即可**開啟顯示所有曾開啟過的箱子內容的選單**，並提供多種**排序模式供你搜尋物品**。  \n**點擊物品會高亮顯示其所在容器**、生成粒子軌跡，並將你的視角轉向該容器；若距離足夠接近，容器會自動開啟。  \n進入容器介面後，**你所點擊的物品會顯示高亮**。  \n亦可設定快捷鍵，在附近容器中**搜尋背包內游標所指的物品**，功能類似 Extra Utilities 模組。\n\n👉🏻 需要 [Fabric API](https://modrinth.com/mod/fabric-api) 與 [Cloth Config](https://modrinth.com/mod/cloth-config)。\n\n建議使用 [Mod menu](https://modrinth.com/mod/modmenu) 進行模組設定。\n\n![](https://mcstuff.loxoz.fr/images/csearcher/a95KGLnA9umKwq.webp)\n\n## 常見問題\n\n### 如何修改模組的快捷鍵？\n\n請至 Minecraft 一般的快捷鍵設定頁面，尋找「Container Searcher」區段，通常位於「雜項」分類下。  \n這裡有兩組可自訂的快捷鍵，一組用於開啟前述的搜尋選單，另一組則用於在附近容器中搜尋游標所指的物品堆疊。\n\n## 問題回報\n\n### ⚠ 請勿詢問或建立更新相關的議題，我會於有空時再行更新 ⚠\n\n#### 想回報此模組的問題嗎？請至 [Issue Tracker](https://github.com/Loxoz/ContainerSearcher/issues)，並請保持簡潔、具體且具建設性。\n\n### 喜歡我的作品嗎？歡迎考慮在 [Patreon](https://www.patreon.com/Loxoz) 上支持我，讓我能持續開發並更新這類型的 Minecraft 模組！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d4d41c445c3ea517",
+  "content": "\n\n你好世界\n本项目将一战和二战飞机加入原版 Minecraft。支持在生存模式下使用，且与我所有的其他数据包兼容。初次游玩时，请阅读自动生成的指南书；若要重新合成一本新的指南书，只需在工作台中将绿色羊毛与书组合即可。若想直接获得飞机而无需合成，请执行：\n```\n/function planes_thepa:give/_PLANE_\n```\nGuns++ 数据包将在稍后版本中集成。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

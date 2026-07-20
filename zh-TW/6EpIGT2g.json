@@ -1,6 +1,6 @@
 {
-  "bodyHash": "tN/kSdngGRY=",
-  "content": "# NaNny\n\n## 因為有些模組控制不了它們的浮點數。\n\nNaNny 是一款 Minecraft Neo/Forge 模組，專門處理那些將實體生命值和/或吸收值設為 NaN 的模組所留下的爛攤子。\n\n它透過攔截以下事件來達成此目的，並取消且可選擇性地治療受影響的實體：\n\n- LivingAttackEvent（實體攻擊事件）\n- LivingDamageEvent（實體受傷事件）\n- LivingHealEvent（實體治療事件）\n- LivingHurtEvent（實體受傷害事件）\n\nNaNny 會在 `world/serverconfig/nanny-server.toml` 中建立一個 TOML 設定檔。\n\n目前設定檔提供以下選項：\n\n- doHeal - 啟用當實體被賦予或治療 NaN 時，設定其生命值的功能（預設為 true）\n- health - 當實體被賦予或治療 NaN 時，將其生命值設定為最大生命值的百分比（預設為 1.0）\n- log - 是否記錄將實體生命值設為 NaN 的事件（預設為 true）",
+  "bodyHash": "fee7943740250c1f",
+  "content": "\n\n# NaNny\n\n## 因為有些模組無法控制它們的浮點數。\n\nNaNny 是一款 Minecraft Neo/Forge 模組，負責善後那些將實體生命值與/或吸收值設為 NaN 的模組所造成的問題。\n\n此功能透過監聽以下事件來達成，並取消該事件，視需要對受影響的實體進行治療：\n\n- LivingAttackEvent\n- LivingDamageEvent\n- LivingHealEvent\n- LivingHurtEvent\n\nNaNny 會在 `world/serverconfig/nanny-server.toml` 建立一個 TOML 設定檔。\n\n該設定檔目前提供以下選項：\n\n- doHeal - 啟用後，當實體受到 NaN 傷害或治療時，會將其生命值設為指定值（預設 true）\n- health - 當實體受到 NaN 傷害或治療時，將其生命值設為最大生命值的百分比（預設 1.0）\n- log - 是否記錄將實體生命值設為 NaN 的事件（預設 true）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

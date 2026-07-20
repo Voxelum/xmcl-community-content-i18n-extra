@@ -1,0 +1,6 @@
+{
+  "bodyHash": "534d3f3e68fe6ce3",
+  "content": "\n\n這個材質包會讓船隻和筏子在水中搖晃，但停在陸地或有人乘坐時會停止搖晃。（提供兩種版本，請見下方）\n\n\n\n### 搖晃與滾動更新\n![水中搖晃的船隻 GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Zyaml0bjhteHM3amsxZDlzMGd1cmYyb3k1Mnk2Z2lrYWRhdnU2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbaoOnocDU1tL02424/giphy.gif)\n\n\n\n### 原版搖晃船隻\n ![水中搖晃的船隻 GIF](https://media.giphy.com/media/NVqciFlyQ8zmZLiH1t/giphy.gif)\n\n需搭配 [Optifine](https://optifine.net/home)（或 CEM 載入模組）使用\n\n感謝 Kreazive 製作 [原始材質包](https://www.planetminecraft.com/texture-pack/navila-floating-boats-fboats-resource-pack-by-kreazive/)。因為我想將此材質包更新至 1.19 版本以支援箱子船與竹筏，所以將自己的版本發布在這裡。我新增了箱子船；讓船隻移動幅度變小，且在有人騎乘時停止搖晃。\n\n適用於任何船隻材質包（只要未使用自訂 CEM 船隻模型即可）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

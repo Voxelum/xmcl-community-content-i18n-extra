@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1bc6f789d568cb67",
+  "content": "\n\n# 這是什麼？\n\nTalk Balloons 是一款客戶端模組，讓你在玩家發送訊息至聊天室時，能在其頭頂看到對話氣泡。\n\n氣泡大小會根據訊息長度自動調整，同時也能支援較長的訊息。\n\n你可以透過設定檔修改各種參數，例如：氣泡的最大/最小寬度、文字顏色、渲染的氣泡數量等。\n\n此模組需要 [KotlinLangForge](https://modrinth.com/mod/kotlin-lang-forge)。\n\n### QSMP 即時翻譯：\n\n此模組現由 [BluSpring](https://bluspring.xyz) 維護，他為此模組開發了一個附加模組，模擬了 QSMP 的即時翻譯系統。該系統可將語音轉換為文字，並支援翻譯成其他語言。你可以在 [UnityTranslate](https://modrinth.com/mod/unitytranslate) 中找到它。\n\n![範例](https://cdn.modrinth.com/data/cached_images/bf6a71de8454a61a36e186d3a9dc8e938e82869f.png)\n\n# 支援\n\n請將所有錯誤回報、問題與功能建議提交至 [問題追蹤器](https://github.com/CERBON-MODS/Talk-Balloons/issues)，或前往我的 [Discord 伺服器](https://discord.gg/2PvYZfjWDf) 並在對應頻道中回報。留言區僅供發表對模組的意見或提出簡單問題。\n\n在回報錯誤、問題或功能建議前，請先閱讀 [常見問題解答](https://github.com/CERBON-MODS/Talk-Balloons/blob/master/FAQ.md)。\n\n# 需要伺服器嗎？\n[![BisectHosting 橫幅](https://www.bisecthosting.com/images/CF/CERBONs_Better_Totem_of_Undying/BH_CBTU_promo.webp)](https://bisecthosting.com/Cerbon)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

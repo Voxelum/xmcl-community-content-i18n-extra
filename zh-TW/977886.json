@@ -1,6 +1,6 @@
 {
-  "bodyHash": "aYWVTW1c5Sc=",
-  "content": "<p>這是 Diggus Maximus 的一個分支版本，支援 Minecraft 1.20.2 以上的版本。</p><p>此模組旨在簡化挖掘由相同方塊組成的礦脈的過程。只要在挖掘方塊時按住「挖掘」鍵（預設為 ~ 鍵，但可自行設定），所有相連的相同方塊就會被同時挖掘，省去玩家一一挖掘的時間。<br>用戶端和伺服器端都必須安裝此模組。若在伺服器上遊玩，伺服器的設定會優先於用戶端的設定。</p><p>請參閱<a href=\"https://www.curseforge.com/minecraft/mc-mods/diggus-maximus\" target=\"_blank\" rel=\"nofollow\">原始模組</a>。（1.20.1 以下的版本。）</p>",
+  "bodyHash": "0ea0143a3c35f08c",
+  "content": "\n\n<p>Diggus Maximus 的衍生版本，已支援 Minecraft 1.20.2 及以上版本。</p>\n<p>本模組旨在簡化開採由相同方塊組成之礦脈的流程。在挖掘方塊時按住「挖掘」鍵（預設綁定為 ~ 鍵，但可自訂設定），所有相連的方塊也會同時被挖掘，相較於逐一挖掘每個方塊，能為玩家節省大量時間。<br>此模組必須同時安裝於客戶端與伺服器。當連線至伺服器遊玩時，伺服器的設定將優先於客戶端。</p>\n<p>請參閱<a href=\"https://www.curseforge.com/minecraft/mc-mods/diggus-maximus\" target=\"_blank\" rel=\"nofollow\">原始模組</a>。（1.20.1 以下版本。）</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

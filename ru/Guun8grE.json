@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e7f0bdf24f216a3f",
+  "content": "\n\nДобавляет чистые тёмные всплывающие подсказки для ваших предметов и инвентаря.\n\nОтлично подходит для всех типов игроков, таких как игроки в PvP и строители.\n\n<a href=\"https://modrinth.com/resourcepack/better-tool-tips\"><img src=\"https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/available/modrinth_64h.png?raw=true\" alt=\"Modrinth\"></a> <a href=\"https://x.com/cr3lay\"><img src=\"https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/social/twitter-singular_64h.png\" alt=\"Twitter\"></a> <a href=\"https://guns.lol/crelay\"><img src=\"https://images.guns.lol/1cdda87505111e7d02bc14dd6434d41bd00bdb1e/igN8hw.png\" alt=\"соцсети\"></a> \n\n![Изображение новой всплывающей подсказки с текстом «поиск предметов»](https://cdn.modrinth.com/data/cached_images/3493c382bdfc257d8450ca684db438f5a5aa289a.png)\n\n\n<details>\n<summary>цвета</summary>\n\n **Внутренний цвет:**\n```\n#1E1E1E\n```\n **Тёмная граница:**\n```\n#161616\n```\n  \n   **Светлая граница:**\n```\n#3A3A3A\n```\n\n**Светлые блики границы:**\n```\n#424242\n```\n\n**Тёмные блики границы:**\n```\n#353535\n```\n\n **Контур:**\n```\n#000000\n```\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

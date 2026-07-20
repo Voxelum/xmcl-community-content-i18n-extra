@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1aa401ff132726a8",
+  "content": "\n\n荒野（Wilderness）是一款数据包，专注于为生物群系增添小型装饰物，通常在地表添加灌木、花朵和蕨类植物，同时也适用于河流、海洋甚至下界。除了树木之外，大多数原版森林生物群系中缺乏其他装饰物。在荒野中，森林等生物群系看起来更加繁茂，营造出一种原始荒野的氛围。该数据包依然忠于原版风格，仅使用逻辑上合理的自然方块（例如不会用石头按钮来模拟鹅卵石）。\n\n本数据包采用添加系统，在使用原版时具备广泛的兼容性，同时还额外兼容 [Lithostitched](https://modrinth.com/mod/lithostitched)。如果条件允许，建议安装 Lithostitched，以获得更好的性能和更完善的世界生成效果。\n\n荒野不会改变树木的生成规则。如需改进树木生成，请查看 [Better Trees](https://modrinth.com/datapack/better-trees)。部分截图使用了 Better Trees 的数据包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

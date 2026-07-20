@@ -1,6 +1,6 @@
 {
-  "bodyHash": "kWGsBsHxD4A=",
-  "content": "使祂水偏愛初始寶可夢（Cobblemon）看起來像最終進化型態\n![展示](https://cdn.modrinth.com/data/5vRvzDPO/images/e651b67ad6d0c93679aae54fd1dd28888d72c027.png)\n\n**改動內容：**\n\n火球鼠 區域偏好=祂水\n\n火岩鼠 區域偏好=祂水\n\n木木梟 區域偏好=祂水\n\n投羽梟 區域偏好=祂水\n\n水水獺 區域偏好=祂水\n\n雙刃丸 區域偏好=祂水\n\n## **常見問題**\n問：我需要將這個製作成資料包嗎？  \n答：不需要，這只是個資源包，代表也可以在伺服器上使用。\n\n問：我要如何獲得這些寶可夢？  \n答：由於在普通 Cobblemon 中牠們已經是不同型態，因此都可以在各自的棲息地野外地區找到。也可以在初始寶可夢選擇畫面的「祂水」類別中選取為初始寶可夢，或透過指令 `/pokespawn (寶可夢名稱) regional_bias=hisui` 或 `/pokegive (寶可夢名稱) regional_bias=hisui` 取得／生成。\n\n您可以將此內容包含在模組包中。",
+  "bodyHash": "a51082a2a2ec7ea2",
+  "content": "\n\n讓 Cobblemon 中的 Hisui 地區起始寶可夢看起來像是它們的最終進化形\n![展示](https://cdn.modrinth.com/data/5vRvzDPO/images/e651b67ad6d0c93679aae54fd1dd28888d72c027.png)\n\n修改內容：\n\nCyndaquil Regional_Bias=Hisui\n\nQuilava Regional_Bias=Hisui\n\nRowlet Regional_Bias=Hisui \n\nDartrix Regional_Bias=Hisui\n\nOshawott Regional_Bias=Hisui\n\nDewott Regional_Bias=Hisui\n\n## **常見問題**\nQ: 我需要把它作為數據包使用嗎？                                                                                                       \nA: 不需要，這只是一個資源包，因此也可以用於伺服器。\n\nQ: 我如何獲得它們？                                                                               \nA: 由於它們在一般 Cobblemon 中已是不同形態，因此可在各自對應的生態域中於野外發現。你也能在初始選單的「Hisui」區塊中直接選擇它們作為起始寶可夢，或是透過指令 `/pokespawn (寶可夢名稱) regional_bias=hisui` 或 `/pokegive (寶可夢名稱) regional_bias=hisui` 來獲取或生成它們。\n\n\n你可將此模組加入整合包中使用",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

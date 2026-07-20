@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4ad0bae0455423cb",
+  "content": "\n\n![Just Hammers Header](https://raw.githubusercontent.com/ErrorMikey/JustHammers/main/.github/assets/headers.png)\n\n# Just Hammers\n\n为游戏加入锤子，使其能够在 3x3、3x3x3、5x5x3 乃至最终的 5x5x5 范围内挖掘！它们非常酷炫。\n\n## 功能特性\n\n- 挖掘方块\n- 破坏方块\n- 推倒方块\n- 移动方块！别挡路\n- 严厉地训斥方块，让它们别再挡路\n- 把方块扔飞\n- 将方块射入虚空……\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/1c9b9598-52f3-402c-84a8-84f7779e1360.webp)](https://www.bisecthosting.com/mikey?rel=modrinth)\n\n### 说正经的……\n\n- 铁锤、金锤、钻石锤、下界合金锤\n- 上述所有材质均拥有多个等级，可扩大影响范围。从 3x3x1 一路扩展到 5x5x5。耐久度随等级提升\n- 锤子不会彻底损坏！它们最低只会降至 1 点耐久，并且可以在铁砧上修复\n\n## 问题反馈\n\n如果你发现该模组存在任何问题，请在项目的 [Github Issues 页面](https://github.com/ErrorMikey/JustHammers/issues) 上提交反馈。\n\n### 需处理的已知问题\n\n- 类似“矿脉采集”的模组可以与锤子配合使用\n- 由于方块破坏和视角向量的计算方式，AOF 有时会以奇怪的方式发生偏移，这一点可能需要修复\n\n## 材质贴图\n\n材质贴图由 [Rid](https://github.com/Ridanisaurus/) 提供！一如既往地精彩！\n\n## 待办事项\n\n- [x] 添加工具提示，说明每种锤子的具体功能\n- [ ] 支持在手持锤子时渲染更大的方块选中框\n- [ ] 为可见的正在被破坏的方块添加破坏动画\n- [ ] 考虑添加升级内容，例如熔炼等",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

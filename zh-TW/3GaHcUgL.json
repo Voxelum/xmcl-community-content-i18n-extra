@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d725ddf848a6524f",
+  "content": "\n\n鑑於目前已知的天界首領都已配備了專屬的戰鬥曲目，我想說為何不讓這唯一的特例也「入伙」，加入這個行列呢？\n\n此外，未來還計畫將此模組的相容性擴展至其他尚未擁有專屬音樂的天界首領。若該計畫實現，此模組很可能會更名為其他名稱。\n\n͏\n\n\n\n### 需要 [Ancient Aether](https://modrinth.com/mod/ancient-aether)\n\n\n你可以在遊戲內的選單中，前往「選項」>「音樂與音效」，透過「留聲機／音符盒」滑桿來調整模組音樂的音量。 \n\n執行指令 _\"/trigger aabmm.mutatedaechorplant\\_theme.toggle\"_ 即可切換是否播放該首領的戰鬥主題曲。\n\n如果你已經受夠了，在解除安裝此模組或資料包前，請務必執行指令 _\"/function ancient_aether_boss_music_mod:admin/uninstall\"_。\n\n### 使用的音樂曲目：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/K-8_A3PTyZw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n\n͏\n\n\n\n\n͏\n\n\n本模組的靈感來自[這段影片](https://www.youtube.com/watch?v=-9oI7aJxvvg&t=214s)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

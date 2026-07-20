@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3ebfa66d93343f8e",
+  "content": "\n\n<!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->\n<center><img alt=\"Предпросмотр инвентарей Switchy\" src=\"https://cdn.modrinth.com/data/ZLlbzi9I/images/5a236fb28320e20dc6e754d74612b7671f04bab1.png\" /></center>\n\n<center>\nДополнение для <a href=\"https://modrinth.com/mod/switchy\">Switchy</a>, предоставляющее модули для данных, аналогичных инвентарю.<br/>\nТребует установки <a href=\"https://modrinth.com/mod/connector\">Connector</a> и <a href=\"https://modrinth.com/mod/forgified-fabric-api\">FFAPI</a> на Forge.<br/>\n\n</center>\n\n---\n\nИспользуйте команду `/switchy module help` или откройте экран модулей для получения подробной информации о каждом из них.\n\nМодули:\n\n- Инвентари — переключает содержимое инвентаря игрока.\n- Сундуки эндера — переключает содержимое сундуков эндера игрока.\n- [Аксессуары](https://modrinth.com/mod/trinkets) — переключает содержимое слотов аксессуаров игрока.\n- Опыт — переключает уровни и опыт игрока.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

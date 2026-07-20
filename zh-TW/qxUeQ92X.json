@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5be90383c804df37",
+  "content": "\n\n**⚠️ The Nexus Unbound 並非基於 Complementary Unbound！！**\n\nNexus Unbound 1.1.5 在 GTX 1650、Ryzen 5 5600X 與 16GB DDR4 的配備下（0.1% 最低幀數：74），於「極限」設定與 12 區塊渲染距離（RD）及實體距離（SD）下，能穩定維持 80 FPS。因此，大概只要是比「馬鈴薯機」更好的電腦都能順暢運行！\n\nIntel i5 6300U 搭配 8GB DDR3 記憶體與內建 Intel HD 顯示卡：最低設定下可穩定維持 25 FPS（0.1% 最低幀數：20）\n\n**⚠️ 建議將神光效果調低、對比度調高、色彩飽和度調高，並將水面波紋調低，以獲得最佳體驗**\n**Nexus Unbound 最新版本已更新至 1.1.5，包含以下功能：**\n\n-TAA\n\n-SSAO\n\n-SSR\n\n-God Rays（神光效果）\n\n-Dynamic lighting (Hand, Sun, Moon)（動態光源：手持物品、太陽、月亮）\n\n-Overworld & Nether & End atmospheres（主世界、下界與終界的大氣效果）\n\n-Waving leaves（搖曳的樹葉）\n\n-Water caustics, reflection, refraction（水面焦散、反射與折射）\n\n-Underwater shaders (by the color of the water)（水下著色器：依水體顏色變化）\n\n-Volumetrical fog, skybox（立體霧效與天際盒）\n\n-Shadow mapping (up to 8K)（陰影貼圖：最高支援 8K）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

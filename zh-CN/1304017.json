@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5d2a43b5dbac6b4",
+  "content": "\n\n<h1>功能</h1>\n<p>在 AE2 终端中，将原本静态的“按模组排序”替换为 Inventory Profiles Next (IPN) 的排序规则。</p>\n<h1>使用方法</h1>\n<p>打开 AE2 终端，将“排序方式”切换至“Mod”（若语言文件覆盖成功，此处应显示为 IPN）。此时它将使用你配置的 IPN 排序规则（注意：IPN 中按物品数量排序的配置在此无效）。</p>\n<h1>注意事项</h1>\n<p>当终端内物品数量超过 2000~5000 个时，请勿使用此模组。</p>\n<p>如果你只需要按 ID 排序，可以尝试 <a href=\"https://www.curseforge.com/minecraft/mc-mods/ae2-id-sorter\" target=\"_blank\" rel=\"nofollow\">AE2 ID Sorter</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

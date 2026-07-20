@@ -1,0 +1,6 @@
+{
+  "bodyHash": "78e6b02cd417cc91",
+  "content": "\n\n![LOGO](https://raw.githubusercontent.com/Tomanex/Image-dumping/refs/heads/main/mods/cmm/cmm_logo2.png)\n\n## 支援團隊\n**Discord：** https://discord.com/invite/3qmMVa97eM\n\n**Twitter：** https://x.com/CuteMobTeam\n\n## 概述\n此模組將 Minecraft 原生的模型替換為 MobTalker 模組中使用的設計。這主要是視覺上的變更，不過部分選項允許將生物模型調整為與其碰撞箱相符，以及移除烈焰人的煙霧或烈焰棒等一些小細節。\n\n* 本模組同時包含 Cute Mob Models 1 與 2。\n\n注意：本模組主要用於客戶端。若在伺服器上安裝，僅會產生兩項影響：啟用 GhastS 生物生成與修改生物碰撞箱。由於可能引發遊戲崩潰及相容性問題，修改碰撞箱的功能目前已停用。\n\n## 其他版本\n* CMM 資源包 - 作者：emmie_4\n* CMM 基岩版 - 作者：NGFuji.mp4\n\n## 其他相關專案\n* CMMRP：實驗與興趣之作 - 作者：rokuyonshirotamaya\n* CMMRP：音效包 - 作者：Sinty\n* CMM：Immersive Engineer 相容補丁 - 作者：JellyBabyBomber\n* CMM：Kamen Rider Craft 相容補丁 - 作者：498tta\n\n## 版權與來源\nCMM Remake 模組最初由 Yarrmateys 開發。在原頁面停止維護後，現已開源。\n\n以下是該模組原頁面被刪除前的舊描述截圖證明：\n\n![Yarrmatey's Page](https://raw.githubusercontent.com/Tomanex/Image-dumping/refs/heads/main/mods/cmm/Untitled824_20251108132418.png)\n\n## 致謝\n**Cute Mob Models 2（1.7 至 1.12）**\n* Yarrmateys - CMM Remake 前作者\n* _jx - CMM 原作者\n\n**Cute Mob Models（1.2 至 1.6）**\n* Yarrmateys - Cute Mob Models 首席開發者\n* SCMowns - 移植至 1.3 至 1.5\n* Kado - 原始生物設計師\n* _jx - Cute Mob Models 原作者\n\n**其他貢獻者：**\n* Flammarilva - MobTalker 作者\n* AT2 - 基於 MobTalker 設計的生物",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

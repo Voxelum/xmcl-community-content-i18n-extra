@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8644bd40afcbdd93",
+  "content": "\n\n<h1>⚡ Lightning Optimizer（提升 FPS、修復延遲／效能工具）</h1>\n<p>Lightning Optimizer 是一款輕量級且開源的 Minecraft 效能模組，旨在改善幀率穩定性、減少延遲突增，並優化整體用戶端效能。</p>\n<p>它專注於針對性的優化，而非重寫核心遊戲系統，因此能與大多數整合包及其他優化模組相容。</p>\n<p>若您在遊戲過程中遭遇微卡頓、幀率下降，或在特定情境下出現嚴重效能問題，此模組能在無需任何設定的情況下，讓遊戲體驗更加流暢。</p>\n<hr>\n<h2>🛠️ 主要功能與技術細節</h2>\n<p>⚡ <strong>針對性效能優化</strong><br>降低特定遊戲系統中不必要的 CPU 與渲染負載，提升 FPS 穩定度。</p>\n<p>📉 <strong>減少卡頓與幀時間</strong><br>有效降低區塊載入、戰鬥及高運算量情境下的微卡頓現象。</p>\n<p>🧩 <strong>高度模組相容性</strong><br>專為與 Sodium、Lithium、FerriteCore 等熱門優化模組無衝突共存而設計。</p>\n<p>🚀 <strong>零設定</strong><br>安裝即玩 &mdash; 完全不需要進行任何設定或配置。</p>\n<hr>\n<h2>📦 整合包政策</h2>\n<p>可以 &mdash; 您可自由將 Lightning Optimizer 納入任何公開或私人整合包中，無需取得特別授權。</p>\n<hr>\n<p>📂 開源專案檔案</p>\n<p><em><strong>原始碼與檔案</strong>：</em>Lightning Optimizer 的完整未壓縮開發檔案均已公開供檢視。您可在此直接於 GitHub 上瀏覽專案檔案：&nbsp;</p>\n<p><a href=\"https://github.com/hydrogencode/lightningoptimizer\" target=\"_blank\" rel=\"nofollow\">Lightning Optimizer 開源檔案（GitHub，全版本）</a></p>\n<p><em>歡迎瀏覽程式邏輯、學習微優化技巧，或為本專案貢獻心力！</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

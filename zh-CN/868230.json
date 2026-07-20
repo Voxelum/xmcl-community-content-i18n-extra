@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2b7770e47c5d0cb9",
+  "content": "\n\n<h1>什么是 Online Emotes？</h1>\n<p>Online Emotes 是 Emotecraft 的附加组件，允许玩家看到彼此的表情动作——即使在原版服务器上也能显示。  </p>\n<h1>它是如何工作的？</h1>\n<p>如果服务器未安装 Emotecraft，此模组将连接至外部<strong>表情服务器（Emote Server）</strong>，通过 WebSocket 实时同步表情（类似于 Velocity 插件）。  </p>\n<h1>常见问题</h1>\n<ul>\n<li><strong>什么是表情服务器（Emote Server）？</strong><br>\n当没有安装 Emotecraft 时，用于同步表情的服务器。  </li>\n<li><strong>此模组是否必须安装 <a href=\"https://curseforge.com/minecraft/mc-mods/emotecraft\" target=\"_blank\" rel=\"nofollow\">Emotecraft</a> 才能运行？</strong><br>\n是的。  </li>\n<li><strong>还有其他问题？欢迎加入我们的 <a href=\"https://discord.gg/jdB5JYX7W7\" target=\"_blank\" rel=\"nofollow\">Discord</a>！</strong></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

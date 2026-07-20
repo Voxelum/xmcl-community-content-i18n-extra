@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b60ba4252fd10de1",
+  "content": "\n\n![](https://media.forgecdn.net/attachments/description/583318/description_4e7b7bf9-a3b0-4a07-b3aa-85d0557f1299.png)\n# 护盾扩展\n护盾扩展（Shield Expansion）是一款旨在通过重新平衡盾牌机制，让《我的世界》战斗更加引人入胜且考验技巧的模组。\n该模组为盾牌添加了传统的等级系统，并引入了两项新机制：失衡冷却（Off-Guard Cooldown）和弹反（Parrying）！\n\n\n### 弹反\n弹反操作只需在攻击即将命中时举起盾牌即可。成功弹反可让你无视失衡冷却，从而奖励精准的操作与盾牌使用技巧。成功弹反还能将近战敌人击退，并弹开敌人的投射物！\n\n使用木盾或金盾击退敌人不会造成伤害，但使用其他材质的盾牌进行击退则会产生“弹反猛击”（Parry-Bash），返还敌人本应对你造成的一定百分比的伤害！盾牌等级越高，返还伤害的比例越大，但可供弹反的时间窗口也会相应变短。\n\n### 兼容性\nShield Expansion 与本工作室的另一款模组 Mining Master 原生兼容！借助它，你可以将钻石盾牌升级为稀有且强力的典范盾牌（Paragon Shield）！\n\n或者，如果你更追求极致的爆炸抗性，或许会喜欢我们为 Team Abnormals 旗下的 Savage and Ravage 模组内置的兼容性！\n\n此外，我们在编程时特意设计，使 SE 的属性能够应用于所有其他模组的盾牌！你可以通过便捷的数据包（datapack）自定义调整这些属性，而所有盾牌的基础功能则可在配置文件中修改！\n\n![](https://media.forgecdn.net/attachments/description/583318/description_4c5b0675-2007-4e5a-9c53-90aba8ff6e3f.png)\n\n我也强烈建议将此模组与 Combat Roll 搭配使用！\n在 Fabric 端寻找类似功能的模组？不妨试试 Cammie's Combat Tweaks 或 Guarding！\n\n想要一款资源包来匹配你华丽的新盾牌，同时提升工具与护甲的外观吗？\n[NETA](https://www.curseforge.com/minecraft/texture-packs/neta) 与 Shield Expansion 搭配效果极佳！\n\n![](https://media.forgecdn.net/attachments/description/583318/description_0c44bdc2-55fe-46ac-9fcf-3df3cf0477ef.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aff048f6b1152227",
+  "content": "\n\n<p><span style=\"text-decoration:underline\"><strong>模組作者：Mythman<br>訂購來源：我</strong></span></p>\n<p>此模組最初是為了讓玩家在多人遊戲中享受 Cobbleverse 整合包而製作的。</p>\n<p><span style=\"text-decoration:underline\"><strong><br>運作前提：</strong></span></p>\n<p>請確保已安裝 Lootr。</p>\n<p><span style=\"text-decoration:underline\"><br><strong>功能特色</strong></span><br>在管理的結構區域內，為支援的容器提供伺服器端個別玩家的戰利品系統。<br>自動支援來自已知 Cobbleverse 相關命名空間的自然生成結構。<br>支援 `/place structure` 指令，以便手動放置的測試結構能被標記並由戰利品系統處理。<br>在玩家尚未開採的附近容器上方，顯示個別玩家專屬的橙色／黃色未領取戰利品粒子效果。<br>與 FTB Chunks 互動檢查，以尊重領地與保護區域。<br>支援原版的木桶。<br>支援原版的單格箱子。<br>支援原版的雙格箱子，兩個半邊共用一個 54 格的戰利品來源。<br>支援原版的陷阱箱。<br>支援 Cobblemon 的原始鍍金箱子變體。<br>支援 Cobblefurnies 的櫃子、抽屜、床頭櫃、冰箱和冰櫃。<br>支援 Sophisticated Storage 的木桶、箱子與限量木桶。<br>持久化儲存伺服器端的戰利品模板、玩家容器狀態以及 `/place structure` 區域資料。<br>支援的 Cobblemon 鍍金箱子<br>`cobblemon:gilded\\_chest`<br>`cobblemon:green\\_gilded\\_chest`<br>`cobblemon:blue\\_gilded\\_chest`<br>`cobblemon:white\\_gilded\\_chest`<br>`cobblemon:yellow\\_gilded\\_chest`<br>`cobblemon:pink\\_gilded\\_chest`<br>`cobblemon:black\\_gilded\\_chest`<br>本模組刻意針對原始的 Cobblemon 鍍金箱子設計。Lootrmon 仍可獨立處理其自身的 `lootrmon:gilded\\_chest` 替換行為。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

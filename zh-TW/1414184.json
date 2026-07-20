@@ -1,0 +1,6 @@
+{
+  "bodyHash": "53d40c7dd39b7ed1",
+  "content": "\n\n<h2><strong>自《Touhou Little Maid》1.5.0 版本發布以來，本模組的內容已完全整合至 TLM 中，因此本模組將不再維護。</strong></h2>\n<hr>\n<h1>女僕屬性</h1>\n<p>為 <strong>Touhou Little Maid</strong> 設計的擴充模組，為女僕新增若干屬性。</p>\n<h1>說明</h1>\n<p>本模組會新增如下表所示的屬性：</p>\n<table>\n<thead>\n<tr>\n<th>ID</th>\n<th>名稱</th>\n<th>說明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>maid_attribute:maid_crossbow_attack_speed</td>\n<td>女僕弩攻擊速度</td>\n<td>女僕使用弩時的攻擊速度倍率。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_gun_attack_speed</td>\n<td>女僕槍械攻擊速度</td>\n<td>女僕使用槍械時的攻擊速度倍率。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_passive_use_shield_tick</td>\n<td>女僕舉盾持續時間</td>\n<td>女僕單次舉盾持續的時間（單位：遊戲刻）。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_pickup_range</td>\n<td>女僕拾取範圍</td>\n<td>女僕自動拾取物品的距離範圍。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_shoot_cooldown</td>\n<td>女僕射擊冷卻時間</td>\n<td>女僕單次射擊後的冷卻時間。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_trident_cooldown</td>\n<td>女僕擲三叉戟冷卻時間</td>\n<td>女僕單次擲出三叉戟後的冷卻時間。</td>\n</tr>\n<tr>\n<td>maid_attribute:maid_use_item_speed</td>\n<td>女僕使用物品速度</td>\n<td>女僕使用物品時的動作速度倍率。</td>\n</tr>\n</tbody>\n</table>\n<h1>授權條款</h1>\n<p>本模組採用 <strong>MIT 授權條款</strong> 開源。</p>\n<p>只要您 <strong>遵守授權條款</strong>，即可將其納入您的整合包或伺服器中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

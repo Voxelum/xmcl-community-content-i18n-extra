@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a2f3ebe1c86f7406",
+  "content": "\n\n# Lakotnik - 飢餓預覽\n一款適用於 Minecraft 的飢餓預覽模組，僅在伺服器端運作。\n\n![](https://img.shields.io/badge/Environment-server-green?style=flat-square)\n![](https://img.shields.io/badge/Environment-singleplayer-blue?style=flat-square)\n\n擁有 `lakotnik.hunger_preview` 權限的玩家皆可預覽所選食物將提供的營養值（預設已授予）。\n\n\nhttps://youtu.be/Sd8spMTgWKg\n\n\n## 支援的載入器\n![](https://img.shields.io/badge/Loader-Fabric-green?style=flat-square)\n![](https://img.shields.io/badge/Loader-Sponge-yellow?style=flat-square)\n![](https://img.shields.io/badge/Loader-Forge-red?style=flat-square)\n\n## 設定檔\n```toml\n# Lakotnik 設定\n\n# 更新間隔（以遊戲刻為單位）。\ntick_update_rate=10\n\n# 是否在飢餓度較低時啟用（<= 6.0）\n# 可能會造成些微問題，因為客戶端會認為可以\n# 衝刺。若不介意此情況，可隨意啟用。\nenable_on_low_hunger=false\n\n```\n*為什麼 `enable_on_low_hunger` 可能會造成問題？*\n衝刺功能由客戶端管理——若你手中持有食物物品\n但飢餓點數不足以衝刺時，當飢餓條處於預覽模式期間\n你仍然能夠進行衝刺。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

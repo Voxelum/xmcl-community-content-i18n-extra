@@ -1,0 +1,6 @@
+{
+  "bodyHash": "89dc6d9f5cdc6564",
+  "content": "\n\n# Greenhouse Config\n\n### 史上最過度設計的設定檔程式庫！\n\nGreenhouse Config 是一個主要為我自己（ChrysanthCow）以及 Greenhouse 團隊成員開發的設定檔程式庫。\n\n它具備豐富的設定檔建構器系統，利用 Codecs/DFU 來讀寫設定檔，並能在版本過時時進行資料修復（data-fix）。\n\n### 設定語言支援\n\n- [JSONC](https://jsonc.org/)\n- [JSON](https://www.json.org/json-en.html)*\n\n\\* - 通常不應在設定檔中使用此格式。若有可能，請改用 JSONC。\n\n設定語言的支援是透過內部 [Polyamory](https://git.greenhouse.lgbt/Modding/polyamory) 程式庫實現的。\n\n### 依賴此程式庫\n\n關於如何依賴 Greenhouse Config 的快速指南，請閱讀 [Git 儲存庫的 README.md](https://git.greenhouse.lgbt/Modding/greenhouse-config)\n\n當依賴 Greenhouse Config 時，請務必將該模組納入您的 JAR 檔案中。這純粹是為了避免使用者為了遊玩您的模組而必須額外下載獨立的依賴項。\n\n如果您是玩家，則通常不需要自行下載此程式庫。該程式庫僅為了宣傳目的上架於 Modrinth，以便讓使用者能找到問題回報頁面，並方便開發者找到該模組。\n\n### 你看過那個關於「標準」的 XKCD 漫畫嗎？\n\n摘自 [kdl.dev](https://kdl.dev/)。\n> 看過了。請不要再發連結給我了。\n\nGreenhouse Config 並非旨在成為一種標準，它只是我個人進行設定檔處理的方法論。我將其從自己的模組中獨立出來，以避免在不同模組間重複編寫程式碼。\n\n總之，你應該使用自己順手且喜愛的工具來製作模組，無論是 Greenhouse Config 還是其他方案都沒關係。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

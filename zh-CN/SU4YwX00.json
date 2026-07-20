@@ -1,0 +1,6 @@
+{
+  "bodyHash": "19dce2f4799c2ec5",
+  "content": "# 竖纹与雕花木板！\n\n本模组为你的服务器（也支持单人游戏）添加了每种木材类型的雕花和竖纹木板。\n\n它使用资源包，并通过 Polymer 的自动托管功能分发给客户端。\n\n无需额外设置！你可能需要在 Polymer 配置中启用自动托管！\n\n---\n依赖项：\n- [polymer](https://modrinth.com/mod/polymer)\n- [filament](https://modrinth.com/mod/filament)\n\n以及 Fabric API（两个依赖项均使用）\n\n---\n\n# 合成配方\n\n- 3 个木板垂直排列（1x3）以合成竖纹木板\n- 2x2 的竖纹木板可合成雕花木板\n\n# 命令\n\n这些方块位于 `tsa` 命名空间下，因此要给予雕花或竖纹木板，请使用以下命令：\n\n```\n/give @... tsa:vertical_oak_planks\n\n```\n\n```\n/give @... tsa:chiseled_oak_planks \n```\n\n你也可以使用 `/polymer creative` 打开 Polymer 的创造模式菜单，并通过 Filament 方块的图标访问这些方块。\n\n## 注意事项：\n本模组使用音符盒在服务器上显示自定义方块，从而无需客户端安装任何模组。这意味着对于玩家而言，使用音符盒的资源包可能无法正常工作。\n\n---\n\n- [Modrinth](https://modrinth.com/mod/tsa-planks)\n- [GitHub](https://github.com/tomalbrc/tsa-planks)\n- [Discord](https://discord.gg/9X6w2kfy89)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

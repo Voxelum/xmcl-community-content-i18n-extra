@@ -1,0 +1,6 @@
+{
+  "bodyHash": "08d68904987bf1c8",
+  "content": "\n\nSable TFC Currents 是一款适用于 NeoForge 1.21.1 的 Minecraft 兼容模组，旨在将 TerraFirmaCraft 的流体行为与 Sable 的子层级系统进行联动。\n\n它的功能十分直观：当 Sable 子层级位于流动的 TFC 水中时，水流现在会直接带动该子层级移动，而不会被忽略。\n\n这使得在结合两个模组的建筑或机械装置中，交互体验更加自然且符合物理规律。子层级能够响应局部水流的方向与强度，为水域环境中的船只、平台、建筑或其他可移动的子层级装置带来更流畅的沉浸感。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7e8f3c1f931fc0c2",
+  "content": "\n\n<p>自動藥水補充器</p>\n<p>自動藥水補充器是一款適用於 Minecraft 1.21.x 的客戶端 Fabric 模組，能在戰鬥期間保持您的快捷欄備有藥水。<br>當您喝完或丟出藥水的瞬間，該模組會透過合法的背包操作來：<br>- 丟掉空瓶子（針對可飲用藥水），並從您的背包中取出下一個匹配的藥水——相同的瓶子或相同效果組——放回原本的快捷欄槽位（請見底部影片）。<br>- 支援可飲用、投擲型與滯留型藥水，讓您在戰鬥中無需開啟背包。</p>\n<p>&nbsp;</p>\n<p>功能<br>- 使用藥水後自動補充<br>- 支援所有藥水類型，包括可飲用、投擲型與滯留型藥水<br>- 所有操作均透過正常的背包封包進行，使模組行為如同真實玩家，並與原版及大多數伺服器相容。</p>\n<p>&nbsp;</p>\n<p>HUD 覆蓋層<br>- 位於左下角的輕量級 HUD 會顯示各類型藥水的剩餘數量。<br>- 按 P 鍵切換 HUD 顯示與隱藏。<br>- 按住 Tab 鍵可在每個圖示旁顯示藥水效果名稱與持續時間，方便快速查看。<br>- HUD 設計簡潔，旨在避免戰鬥時干擾畫面。</p>\n<p><br>設定<br>- 此模組與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" target=\"_blank\" rel=\"nofollow\">Mod Menu</a>&nbsp;整合，並提供簡易的設定介面：<br>- 完全啟用或停用自動化功能。<br>- 使用 P 鍵切換 HUD 覆蓋層（也可在 Minecraft 設定中更改）。<br>- 調整位置（透過偏移量）。<br>- 調整透明度<br>- 透過預設顏色或 ARGB 十六進位代碼選擇 HUD 文字顏色。</p>\n<p>相容性<br>- 僅限客戶端<br>- 適用於任何原版伺服器或大多數其他伺服器<br>- 僅使用標準背包操作，因此與其他客戶端模組廣泛相容</p>\n<p>&nbsp;</p>\n<p><span><span><iframe src=\"https://www.youtube.com/embed/kJHbCdUZzfo\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

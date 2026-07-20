@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d233622a15924e4b",
+  "content": "\n\n# 耐久度提示\n\n「耐久度提示」是一款輕量的 Fabric 客戶端模組，當工具、武器與防具的耐久度偏低時會發出警告，幫助您避免它們損壞。\n\n當物品即將損壞時（預設為剩約 10% 耐久度，或您自訂的閾值），您將收到：\n- **紅色警告訊息**\n- **短促的音效提示**\n\n### 範例：\n![耐久度提示 鎬](https://cdn.modrinth.com/data/cached_images/37c11ceec999ba5517e4bb6892a9e8b19903a135_0.webp)\n\n## 功能特色\n- 監控以下物品的耐久度：\n  - 主手與副手物品\n  - 頭盔、胸甲、護腿與靴子\n- 每件物品僅在達到閾值時警告一次，直到修復或替換為止。\n- 預設警告閾值：剩餘約 10% 耐久度，並已計算「耐久」附魔的效果。\n\n## 設定\n- 可調整的警告閾值（預設 10%）\n- 開啟/關閉警告音效（預設開啟）\n- 若需透過圖形介面在遊戲內進行設定，請安裝 [ModMenu](https://modrinth.com/mod/modmenu)\n\n![耐久度提示 設定](https://cdn.modrinth.com/data/cached_images/a685dfbafde8fdc6e4b17f59f1a1d9811c216b76.png)\n\n### 支援鞘翅：\n![耐久度提示 鞘翅](https://cdn.modrinth.com/data/cached_images/7885db97ce348f439883c941bd76001401472733.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

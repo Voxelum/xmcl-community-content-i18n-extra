@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c9494d3441eb1b0",
+  "content": "\n\n# 我的翻译在哪里\n\n本模组可将所有未翻译的键导出为 JSON 文件。\n\n想象一下你想翻译某个模组中的一些未翻译键。你需要手动输入它们，这不仅浪费时间，还容易产生拼写错误。现在有了这个模组，你可以更轻松地进行翻译。\n\n## 本模组可导出的内容\n\n**所有导出文件都将放置在 `.minecraft/config/wamt/exports/<mod id>/<language>.json` 中。**\n\n- 无翻译的键（显示格式如 `item.xxx.yyy`）：受 Minecraft 语言系统限制，这些键无法全部导出。你可能需要让它们在游戏中至少显示一次。\n- 特定语言下缺失的键（例如使用中文时部分文本仍为英文）：这些键将在资源重新加载后立即导出。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

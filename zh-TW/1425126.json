@@ -1,6 +1,6 @@
 {
-  "bodyHash": "i1NiDO0TkGU=",
-  "content": "<p>此資源包會根據耐久度，為鑽石與獄髓盔甲添加動態顏色指示器。無論是物品欄圖示還是身上的盔甲模型，視覺變化都會同步呈現。</p><p>這是 PvP 中不可或缺的工具，讓您能一目瞭然掌握自己（或對手）裝備的狀態。</p><h2><strong>⚙️ 相容性與需求</strong></h2><ul>\n<li><strong>Minecraft 版本：</strong>1.21.4 或更新。</li>\n<li><strong>物品材質：</strong>原版即可使用（無需模組）。</li>\n<li><strong>盔甲模型：</strong>需要安裝 <strong>Variants-CIT</strong> 模組，而該模組需依賴 <strong>Fabric Loader</strong> 與 <strong>Fabric API</strong> 才能運行。</li>\n</ul>",
+  "bodyHash": "4c5e96bbdcfa479a",
+  "content": "\n\n<p>此資源包會根據耐久度為鑽石與下界合金盔甲加入動態色彩指示器。視覺變化會在你物品欄的圖示與身上的盔甲模型之間無縫同步。</p>\n<p>這是 PvP 的必備工具，讓你能夠一目了然地掌握裝備（或對手裝備）的狀態。</p>\n<h2><strong>⚙️ 相容性與需求</strong></h2>\n<ul>\n<li><strong>Minecraft 版本：</strong>1.21.4 或更新版本。</li>\n<li><strong>物品紋理：</strong>支援原版（無需額外模組）。</li>\n<li><strong>盔甲模型：</strong>需要 <strong>Variants-CIT</strong> 模組，且該模組需搭配 <strong>Fabric Loader</strong> 與 <strong>Fabric API</strong> 方可運作。</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

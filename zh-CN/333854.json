@@ -1,0 +1,6 @@
+{
+  "bodyHash": "806cd12bce95c722",
+  "content": "\n\n<p>一款 Fabric 模组，让砍树变得更简单、更真实。</p>\n<p>&nbsp;</p>\n<p>功能：</p>\n<ul>\n<li>可选择单次逐个砍伐或一次性全部砍伐</li>\n<li>可选择每破坏一个方块消耗一次耐久，或仅一次性消耗耐久</li>\n<li>可选择在砍伐中途使斧头损坏，或等待所有方块砍伐完毕后再损坏</li>\n<li>潜行状态下进行砍伐可禁用所有额外效果</li>\n<li>可选择是否让未接触自然树叶的圆木（如房屋内）不受影响</li>\n<li>可选择用于砍伐的物品</li>\n<li>可选择大型树木是否需要更长的砍伐时间</li>\n</ul>\n<p>&nbsp;</p>\n<p>示例：</p>\n<p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/DKgrb2K9J2I?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p>\n<p><img src=\"https://media.forgecdn.net/attachments/461/28/2022-05-13_17.png\" alt=\"\" width=\"1027\" height=\"911\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

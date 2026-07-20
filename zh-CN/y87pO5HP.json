@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a1c120e851d82a3",
+  "content": "\n\n## 将玻璃加入镐可挖掘标签中，使其能够被更快地破坏\n\n### 使用模组版本时的安装说明：\n这些功能的作用与数据包完全相同，但会自动应用于所有创建或加载了此模组的存档。若不希望全局生效，请改用数据包。\n\n**Forge**：\n<br>无需任何依赖，只需将模组放入 mods 文件夹即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur 包\nPurpur 包包含一些曾被提议加入 Purpur 服务端——或符合 Purpur 主题——但最终决定以数据包形式提供的特性！ \n<br>这些数据包的功能与 Purpur 中的单个配置项相同。它们可以随时添加或移除，而不会对服务器造成任何损坏。\n<br>这些在原版环境中也能正常工作，你无需运行 Purpur 即可使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

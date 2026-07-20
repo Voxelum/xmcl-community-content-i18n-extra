@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f2b1b03710982a4",
+  "content": "\n\n<p><strong>Create: Ender Transmission Tweaks</strong> — это небольшой лёгкий аддон для&nbsp;<strong>Create: Ender Transmission</strong>, добавляющий настраиваемые ограничения дальности для передатчиков мода.</p>\n<p>Я НЕ являюсь автором Create: Ender Transmission! Вся заслуга принадлежит <a href=\"https://www.curseforge.com/members/forsteri123/projects\" target=\"_blank\" rel=\"nofollow\">Forsteri123</a>, я лишь добавил эти настройки.</p>\n<p>По умолчанию Ender Transmission работает глобально. Этот аддон позволяет сделать сети более сбалансированными, установив максимальную дальность для:</p>\n<ul>\n<li>Передатчиков энергии</li>\n<li>Передатчиков предметов</li>\n<li>Передатчиков жидкостей</li>\n</ul>\n<p>Вы можете сохранить исходное поведение без ограничений или задать каждому типу свою собственную дальность в файле конфигурации:</p>\n<div>\n<p><code>cet_tweaks-common.toml</code></p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

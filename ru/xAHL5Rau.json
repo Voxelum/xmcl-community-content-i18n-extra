@@ -1,0 +1,6 @@
+{
+  "bodyHash": "61ac050dd62939c9",
+  "content": "\n\n# VoidBack\n**VoidBack** — это мод для настройки защиты в мирах без дна, предотвращающий смерть игроков при падении в пустоту. Он работает за счёт мгновенной телепортации обратно в указанное вами место.\n> 📄`\"world\"` — указывает мир, в котором мод должен работать.\n\n> 📄`backWorld` — задаёт мир, в который игрок должен быть телепортирован.\n\n> 📄`\"cordX\",\"cordY\",\"cordZ\"` — координаты, куда игрок будет телепортирован при падении в пустоту.\n\n### **Конфигурация:**\n```json\n{\n  \"voidback\": [\n    {\n      \"world\": \"minecraft:test\",\n      \"backTeleport\": {\n        \"backWorld\": \"minecraft:test2\",\n        \"cordX\": 0,\n        \"cordY\": 100,\n        \"cordZ\": 0\n      }\n    },\n    {\n      \"world\": \"minecraft:test3\",\n      \"backTeleport\": {\n        \"backWorld\": \"minecraft:test4\",\n        \"cordX\": 0,\n        \"cordY\": 100,\n        \"cordZ\": 0\n      }\n    }\n  ]\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

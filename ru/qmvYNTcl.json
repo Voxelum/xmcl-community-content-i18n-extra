@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e39abd4da3850fc1",
+  "content": "\n\nЭто датапак, который позволяет легко создавать паркур-лабиринты. Вы можете использовать его в своих картах, играть с друзьями или просто развлекаться на досуге~ ;)\n\n[Видео на YouTube](https://www.youtube.com/watch?v=Y8vSgmc2Uus&t=2s) рекомендуется посмотреть, чтобы понять, как именно использовать датапак.  \n[Видео также на Bilibili](https://www.bilibili.com/video/BV1g44y1c79h/?spm_id_from=333.1387.0.0) (на китайском языке)\n\nПосле установки датапака введите **/reload**, чтобы открыть панель управления. (/reload не остановит процесс постройки лабиринта, поэтому можете использовать его без опасений.)  \nБыстрый пример: **/function parkour_maze/examples/challenge/glass**\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Y8vSgmc2Uus\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

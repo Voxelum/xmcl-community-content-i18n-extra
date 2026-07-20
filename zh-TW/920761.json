@@ -1,6 +1,6 @@
 {
-  "bodyHash": "0Wchj9iDtuo=",
-  "content": "<p>這個數據包為《天空村莊》和<a href=\"https://www.curseforge.com/minecraft/mc-mods/supplementaries\" rel=\"nofollow\">Supplementaries</a>模組之間添加了兼容性。<strong>支援Forge與Fabric框架。<br></strong></p><p>&nbsp;</p><p>若使用Curseforge啟動器，可透過「資源包」選項添加這些數據包，並搭配<a href=\"https://beta.curseforge.com/minecraft/mc-mods/paxi\" rel=\"nofollow\">Yung's Paxi</a>或<a href=\"https://www.curseforge.com/minecraft/mc-mods/open-loader\" rel=\"nofollow\">Openloader</a>實現全局載入。</p><p>若欲將數據包保留在resourcepacks資料夾內，建議使用<a href=\"https://beta.curseforge.com/minecraft/mc-mods/drp-global-datapack\" rel=\"nofollow\">Global Packs</a>工具</p><p>&nbsp;</p><p><img src=\"https://i.postimg.cc/cJV4zjnm/2023-10-07-23-34-19.png\"></p>",
+  "bodyHash": "ef84510b4cf0fb59",
+  "content": "\n\n<p>此數據包為 Sky Villages 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/supplementaries\" rel=\"nofollow\">Supplementaries</a> 之間新增了相容性。<strong>支援 Forge 與 Fabric。<br></strong></p>\n<p>&nbsp;</p>\n<p>若您使用 Curseforge 啟動器，可透過「資源包」載入這些數據包，並搭配 <a href=\"https://beta.curseforge.com/minecraft/mc-mods/paxi\" rel=\"nofollow\">Yung's Paxi</a> 或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/open-loader\" rel=\"nofollow\">Openloader</a> 實現全域生效。</p>\n<p>若希望將它們保留在 resourcepacks 資料夾中，可使用 <a href=\"https://beta.curseforge.com/minecraft/mc-mods/drp-global-datapack\" rel=\"nofollow\">Global Packs</a></p>\n<p>&nbsp;</p>\n<p><img src=\"https://i.postimg.cc/cJV4zjnm/2023-10-07-23-34-19.png\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

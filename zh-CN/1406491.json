@@ -1,0 +1,6 @@
+{
+  "bodyHash": "60ee78626b73e8ba",
+  "content": "\n\n<p>允许你为你的模块化物品充电。\n储存的电荷可以抵消耐久度消耗，换算比例为 320 FE = 1 点耐久度，该比例可在配置文件中调整。</p>\n<p>作为开发者，你可以在数据包中为物品添加 &quot;fot:fe_store&quot; 物品效果，从而赋予其存储能量的能力。</p>\n<p>示例材质数据包</p>\n<pre><code>{\n    &quot;key&quot;: &quot;example&quot;,\n    &quot;primary&quot;: 1,\n    &quot;secondary&quot;: 1,\n    &quot;tertiary&quot;: 1,\n    &quot;durability&quot;: 1,\n    &quot;integrityCost&quot;: 1,\n    &quot;integrityGain&quot;: 1,\n    &quot;magicCapacity&quot;: 1,\n    &quot;toolLevel&quot;: 1,\n    &quot;toolEfficiency&quot;: 1,\n    &quot;effects&quot;: {\n        &quot;fot:fe_store&quot;: 24000\n    },\n    &quot;tints&quot;: {\n        &quot;glyph&quot;: &quot;ff6600&quot;,\n        &quot;texture&quot;: &quot;ff6600&quot;\n    },\n    &quot;textures&quot;: [\n        &quot;metal&quot;,\n        &quot;default&quot;\n    ],\n    &quot;material&quot;: {\n        &quot;items&quot;: [ &quot;minecraft:glow_ink_sac&quot; ]\n    },\n    &quot;requiredTools&quot;: {\n        &quot;hammer_dig&quot;: &quot;minecraft:wood&quot;\n    }\n}\n</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

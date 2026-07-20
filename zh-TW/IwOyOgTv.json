@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9076018683597459",
+  "content": "\n\n# 這個數據包有什麼功能？\n手持指南針時，此數據包會顯示您的座標與面向；手持時鐘時，則會顯示遊戲天數與時間。\n\n![指南針](https://cdn.modrinth.com/data/cached_images/9bd0ba7198c8ec847730bf719b39f251d8b7335d.png)\n![時鐘](https://cdn.modrinth.com/data/cached_images/f9569d99520ab7b3faab0bbccf6873e8edf9be3e.png)\n\n# 如何更改顏色？\n您可以在設定檔中更改。輸入 `/trigger cc_config` 指令即可顯示設定介面。每位玩家擁有各自的獨立設定。\n\n\n![顏色設定](https://cdn.modrinth.com/data/cached_images/7390f6056db14db7c65a4da375e2890a1843b4b2.png)\n![tc](https://cdn.modrinth.com/data/cached_images/45ab13ece22f4e8732381eb6876bf971140f83d0.png)\n![vc](https://cdn.modrinth.com/data/cached_images/c74a666fed294bc422ccef9c8dfb9921d56fdaab.png)\n\n\n<details>\n<summary>舊版設定</summary>\n  \n![舊版](https://i.imgur.com/QuwLtmz.png)\n\n</details>\n\n# \n如果您發現任何錯誤或有功能建議，請在 Discord 上私訊我（用戶名：kimiram）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

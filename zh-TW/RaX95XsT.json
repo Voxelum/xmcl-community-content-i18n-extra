@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9a06508ce07887f4",
+  "content": "\n\n`Enchantment Tags` 是一款僅限客戶端的 Fabric 模組，會在快捷欄上方顯示手持物品的可自訂附魔標籤。\n\n其設計旨在保持版面簡潔易讀，同時在戰鬥或測試時提供快速資訊。\n\n功能：\n- 在快捷欄上方顯示手持物品的附魔標籤\n- 支援同時顯示多個附魔\n- 每個附魔皆可自訂文字\n- 每個附魔皆可自訂顏色\n- 可自由移動的 HUD 位置\n- 整合 Mod Menu 設定畫面\n- 具備搜尋功能的設定畫面，附魔與設定項目依類別分組顯示\n- 僅限客戶端使用\n\n專為 Fabric 平台的 Minecraft 1.21.11 開發。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

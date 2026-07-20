@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5acb338626a3284d",
+  "content": "\n\n# `Leavesly` \n\nВ Bedrock Edition существует эксклюзивная функция, при которой некоторые листья становятся белыми во время снегопада. Leavesly переносит эту возможность в Java Edition с рядом улучшений, таких как:\n- Снег покрывает все виды листьев, лианы, а также такие растения, как короткая трава, папоротник, высокая трава и большой папоротник.\n- Уровень снежного покрова варьируется в зависимости от освещения небом и блоками.\n- Цветы и плоды, появляющиеся на листьях, не покрываются снегом.\n- Листва джунглей теперь содержит створки какао ([Podded Jungle Leaves](https://github.com/ishikyoo/podded-jungle-leaves)).\n- Полная настройка: уровень снежного покрова, цвет листвы и многие другие параметры можно изменять.\n\n**Leavesly также можно установить, скачав его из следующих источников:**\n\n[![GitHub Downloads](https://img.shields.io/github/downloads/ishikyoo/leavesly/total?style=for-the-badge&logo=github&color=F5F5F5)](https://github.com/ishikyoo/leavesly/releases)\n[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1109585?style=for-the-badge&logo=curseforge&color=F16436&)](https://www.curseforge.com/minecraft/mc-mods/leavesly)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

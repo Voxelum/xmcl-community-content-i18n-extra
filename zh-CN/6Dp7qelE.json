@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c5b4765860bee85",
+  "content": "\n\n弥补了 Bountiful Fares 与 No Mans Land 之间的空白，添加了梨果树。\n\n目前，本模组包含以下内容：\n- 添加梨果树\n- 添加巨型梨块\n- 为所有果树添加生物群系标签，使其可在 No Mans Land 的多种生物群系中生成\n\n本模组不会移除 No Mans Land 自带的果树。如果你只想生成 Bountiful Fares 的果树，可以通过数据包禁用 No Mans Land 的果树。\n\n如果你想贡献资源素材，请通过 Discord @nekotune 联系我。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

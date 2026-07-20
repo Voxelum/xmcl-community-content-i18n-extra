@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab0df2051fbc7cf1",
+  "content": "\n\n<p><img src=\"https://raw.githubusercontent.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png\" alt=\"https://raw.githubusercontent.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png\" width=\"750\" height=\"250\"><br> 此处包含供 Forge 模组使用的共享代码，由 Slime Knights 团队使用。说明性书籍代码与通用背包系统均在此实现。</p>\n<p>为什么？为了科学与史莱姆，还能为了什么？<br> 源代码可在 <a href=\"https://github.com/SlimeKnights/Mantle\" rel=\"nofollow\">GitHub 上找到。</a></p>\n<p>&nbsp;</p>\n<p>此外还重做了生命值显示，采用叠加的彩色心形图标，取代了以往层层堆叠的样式。不同的颜色仅在你能提升最大生命值时才会显示，普通生命值保持不变。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

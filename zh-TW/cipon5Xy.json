@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e87d89cd46b221ba",
+  "content": "\n\n# 定位器顏色\n\n「定位器顏色」是一款客戶端模組，會抓取玩家座標點的顏色並套用於各個地方，讓你能一眼就分辨出誰是誰。\n\n## 功能特色\n- **彩色聊天與 Tab 選單：** 聊天視窗與玩家列表中的名稱會自動對應其分配的座標點顏色。\n- **彩色名稱標籤：** 世界中玩家角色上方浮動的名稱牌將與其座標點顏色一致。\n- **更佳的定位標記：** 開啟玩家列表時，將顯示玩家頭像而非圓點，並以其座標點顏色作為邊框環繞。\n- **完全可自訂：** 所有功能均可透過設定畫面單獨開啟或關閉。\n\n---\n\n![定位器顏色預覽](https://cdn.modrinth.com/data/cipon5Xy/images/d3728fe9a6ac89bf91a7f9947b574f32f3b5e168.png)\n\n![玩家頭像](https://cdn.modrinth.com/data/cached_images/db3706fbacf155a49d024fdbba00af9e690c805e.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

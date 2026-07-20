@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5b5f556e0ed9b18",
+  "content": "\n\n<pre>Infinity Item 是一個新增附魔指令的模組，可使物品數量等於該附魔等級。<br>(<span>僅影響玩家的背包與終界箱。</span>)<br>指令</pre>\n<pre>/infinity_item 1 \"等級\"：將物品數量設為指定等級並施加附魔，最高等級為 127</pre>\n<pre>/infinity_item 10 \"等級\"：將物品數量設為指定等級的十倍並施加附魔，最高等級為 127</pre>\n<pre>\"/infinity_item max\"：將物品附魔至最大堆疊數量，再次執行即可移除附魔。</pre>\n<pre>\"/infinity_item 1 0\" 或 \"/infinity_item 10 0\"：移除手中物品的附魔。</pre>\n<pre>\"/infinity_item remove\"：移除背包中的所有附魔</pre>\n<pre>&nbsp;</pre>\n<pre>&nbsp;</pre>\n<pre>&nbsp;</pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

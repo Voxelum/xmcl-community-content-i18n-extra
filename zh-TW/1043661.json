@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9bee546f20e84d97",
+  "content": "\n\n<p>這個模組讓玩家在死亡後，預設會在死亡地點進行 30 秒的觀戰，隨後才會在主世界重生點復活。&nbsp;<br><br>重生時間可以透過指令「/gamerule respawnDelay (數值)」來調整。供參考：每秒有 20 刻，因此 30 秒等於 600 刻。<br><br>我製作此模組是因為對其他延遲重生模組感到挫折，它們要不就是與任何墓碑模組不相容，要不就是已過時且未針對 1.20.1 Forge 進行更新。<br><br>警告：<br>此模組不支援會將重生點設定在其他維度的功能或物品（包含重生錨）。<br>此模組與新增維度的模組無法完全相容，若你在模組維度中死亡，會被傳送至主世界進行觀戰。<br><br>死亡訊息「你被殺死了...」大量靈感來自泰拉瑞亞的死亡畫面：<br><img src=\"https://preview.redd.it/that-feeling-when-a-giant-tortoise-hits-you-for-more-than-v0-5hpuynof626a1.jpg?width=640&crop=smart&auto=webp&s=378fbb54c54137776fec8f5109b53d60ba219b06\" alt=\"r/Terraria - 當巨型烏龜擊中你超過最大生命值時的那種感覺。\"></p>\n<p>所以我想這個模組的名稱應該相當容易理解。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "532c1cc1fef0d320",
+  "content": "\n\n![Raincore](https://raw.githubusercontent.com/myueqf/myueqf.github.io/main/img/image/Raincore.png)\n---\n1998年的雨從未停歇。\n\n![Supported Versions](https://img.shields.io/badge/SUPPORTS-IRIS,%20OCULUS|%201.18%20to%201.21-4E737E?style=for-the-badge&logo=Modrinth&labelColor=334A51)\n[![GitHub Stars](https://img.shields.io/github/stars/myueqf/Raincore?style=for-the-badge&logo=github&color=4E737E&labelColor=334A51)](https://github.com/myueqf/Raincore/stargazers)\n\n#### 關於：\nRaincore 是一款光影包，旨在捕捉雨後大地的芬芳，並搭配獨特的像素化效果與雜訊／低保真（Lo-Fi）風格。  \n這是我的第五款光影包，基於我之前的作品 [Lantern](https://modrinth.com/shader/lantern-shader) 打造。希望你會喜歡！(^-^)\n\n#### 效能：\n無需高階硬體；整合型顯示卡即可提供流暢的遊戲體驗。  \n為了達到最佳的視覺平衡，建議渲染距離設定為 8 個區塊。雖然可以調得更低，但最好維持在 8 到 11 個區塊之間。\n\n#### 連結：\n- >[Github](https://github.com/myueqf/Raincore)\n- >[Discord](https://discord.gg/9ATsdr2ms7)\n- >[CurseForge](https://www.curseforge.com/minecraft/shaders/raincore)\n\n#### 常見問題：\n- **Q**: 我可以將此光影包納入我的模組整合包（Modpack）中嗎？\n- **A**: 若未修改原始碼而將此光影包作為模組整合包的一部分進行分發，不視為創作衍生作品。整合包內的其他元件不受 GPLv3 授權規範約束。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "befabb85a1bae728",
+  "content": "\n\n<p>**一款將 Verity 加入遊戲的模組，作為你的 AI 助手（他什麼都知道）。** &lt;br&gt;</p>\n<p>此模組的主要目的是為你的遊戲增添一位實用的助手，讓你無需上網搜尋，同時保留 Verity 的個性。</p>\n<p>**注意：** 請絕對不要將你的設定資料夾分享給任何人；如果確實需要分享，請務必排除 verity-ai.json 檔案。因為該檔案會以未加密的形式儲存所有 API 金鑰。</p>\n<p>## **操作說明：**<br>- 按下 [V -&gt; 可在選項中設定] 與 Verity 對話。</p>\n<p>## **如何遊玩？**<br>此模組需要你擁有其中一個平台的 API 金鑰（Gemini、Claude、Groq、Deepseek、Openrouter、ChatGPT）。</p>\n<p>取得 API 金鑰後，輸入 ```/verity api```，即可開啟一個畫面，你可以在那裡新增 API 金鑰、選擇要使用的模型並點擊儲存。<br>![Verity API 選擇畫面](<a href=\"/linkout?remoteUrl=https%253a%252f%252fcdn.modrinth.com%252fdata%252fcached_images%252ffee1b3649100a733022c47d631ae1733121eb342_0.webp\" target=\"_blank\" rel=\"nofollow\">https://cdn.modrinth.com/data/cached_images/fee1b3649100a733022c47d631ae1733121eb342_0.webp</a>)</p>\n<p>### **重要說明**<br>此模組並非恐怖模組。模組內沒有任何異常現象、突臉驚嚇或任何恐怖元素。我計劃在未來的更新中為 Verity AI 助手加入獨特的功能。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

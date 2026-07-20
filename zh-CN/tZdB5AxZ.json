@@ -1,6 +1,6 @@
 {
-  "bodyHash": "kBzeHcH0flU=",
-  "content": "# 停更说明\n\n本模组已停止更新，因为自0.16a版本起，永久性黑屏漏洞已被修复。\n\n# **📋 概述**\n\nThreatenIntel 是 **Protomanly的天气模组** 的一个扩展插件。它专门解决了在**Intel显卡和集成显卡（iGPU）**上启用\"阴天效果\"选项时出现的特定渲染问题。\n\n# **⚙️ 修复内容**\n\n- 修复了Intel显卡在启用\"阴天效果\"选项时导致的永久性黑屏故障。\n  \n- 为使用Intel显卡的玩家提供完整兼容性。\n\n# **🖼️ 截图**\n\n- 在搭载集成UHD显卡的Intel酷睿i5-1235U上测试\n\n![默认0.85版本下的阴天效果](https://cdn.modrinth.com/data/cached_images/2c8a822af17747f85548a36eb20e173ed50d68a1.png)\n\n# **前置要求**\n\n- PMWeather 0.15 或更高版本\n- 一块Intel显卡或集成显卡",
+  "bodyHash": "68400cfd2b1cfb4a",
+  "content": "\n\n# 停止开发\n该模组已停止开发，因为自 0.16a 版本起，永久覆盖层 Bug 已被修复。\n\n# **📋 概述**\n\nThreatenIntel 是 **Protomanly 的天气模组** 的一个附加组件。它解决了在启用“Overcast Present”选项时，**Intel 显卡及集成显卡（核显）**上出现的特定渲染问题。\n\n# **⚙️ 修复内容**\n\n- 修复了 Intel 显卡在启用“Overcast Present”选项时产生的永久覆盖层故障。\n  \n- 为使用 Intel 显卡的玩家提供完全兼容支持。\n\n# **🖼️ 截图**\n\n- 测试平台：搭载集成 UHD 显卡的 Intel Core i5-1235U\n\n![Overcast on Default 0.85](https://cdn.modrinth.com/data/cached_images/2c8a822af17747f85548a36eb20e173ed50d68a1.png)\n\n# **运行要求** \n\n- PMWeather 0.15 或更高版本\n- Intel 独立显卡或集成显卡",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

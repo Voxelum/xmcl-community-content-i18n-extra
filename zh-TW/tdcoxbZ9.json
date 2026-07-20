@@ -1,0 +1,6 @@
+{
+  "bodyHash": "097e07ddf38163ff",
+  "content": "\n\n<div align=\"center\">\n\n**圖騰最佳化器**\n\n</div>\n\n---\n\n<div align=\"center\">\n\n[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\\&logoColor=white\\&style=for-the-badge)](https://discord.gg/A2Nx9kxDeB) [![Modrinth](https://img.shields.io/badge/Modrinth-1bd96a?logo=modrinth\\&logoColor=white\\&style=for-the-badge)](https://modrinth.com/user/cutebow)\n\n</div>\n\n---\n\n透過增加物品欄更新來防止「幽靈現象」，讓視覺反應更迅速，並減少客戶端的畫面閃爍。\n\n當將圖騰切換至主手或副手時，Minecraft 在修正物品欄更新的瞬間，有時會出現視覺不同步、閃爍或短暫顯示錯誤槽位狀態的情況。\n\n「圖騰最佳化器」會透過在客戶端強制執行額外的物品欄再次更新來減輕此問題，有助於防止幽靈現象，並讓顯示的物品欄狀態更快恢復正確。\n\n適用於 1.21 至 1.21.11（共用同一個 JAR 檔案，1.21.X 系列）\n\n同時支援 26.1 至 26.1.2（使用 26.1.X 版本）。\n\n**所需模組：**\n- [Silicon](https://modrinth.com/mod/silicons/versions)\n\n---\n\n<div align=\"center\">\n\n**功能說明**\n\n</div>\n\n---\n\n圖騰最佳化器會傳送額外的物品欄更新資料，讓您的客戶端能更快地刷新所顯示的槽位狀態。（其防止幽靈現象的原理完全相同，雖然程式碼不同，但運作方式幾乎一樣，因此在 MCTiers 等伺服器中應可正常使用。）\n\n這在將圖騰換回主手或副手時特別有效，可避免物品出現視覺閃爍、幽靈現象或短暫的延遲顯示。\n\n伺服器仍掌控真實的物品欄。此模組除了減少幽靈現象外，不會提供任何實質上的遊戲優勢，也不會改變圖騰的實際運作機制。\n\n它僅協助客戶端更快地同步更新物品欄顯示。\n\n\n**同時提供伺服器端停用選項**，若伺服器不允許玩家使用此模組，管理者可直接將其關閉。\n\n此模組為純客戶端運作，但若伺服器選擇停用，該模組也會自動關閉。此功能主要是為了保險起見，實際上通常不需要特別使用。\n\n若您需伺服器停用選項的功能，歡迎直接在 Discord 上提交工單！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

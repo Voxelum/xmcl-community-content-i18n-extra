@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4d2b095a88433f81",
+  "content": "# Yomi 的 Joban 客户端模组\n\n本模组是原版 [Joban 客户端模组 (JCM)](https://modrinth.com/project/lQqKCDhg) 的一个**兼容且增强版的分支**。  \n它专为与 **[YMTR](https://modrinth.com/project/U75MCH6y)**（非官方 MTR 分支）配合工作而设计。\n\n\n## 为什么存在这个分支\n\n原版 JCM 依赖于官方 MTR 模组的特定内部 API。  \nYMTR（我对 MTR 的分支）修改了其中一些 API，导致原版 JCM 不兼容。  \n**YJCM 是一种必要的适配**——它允许 YMTR 用户继续使用类似 JCM 的功能，而不会丢失功能。\n\n\n## 与原版 JCM 的主要区别\n\n- **完全兼容 YMTR**——原版 JCM 不与 YMTR 兼容。此分支填补了这一空白。\n- **声音循环器现在支持网络音频流**（仅支持 `.wav` 格式）\n- **兼容 YMTR 的创造模式物品栏标签页**\n  \n  未来更新可能会添加更多功能！\n\n\n## 网络音频流注意事项\n\n- 音频必须为 **WAV 格式**（无法播放 OGG/MP3）\n- 确保 URL **安全**\n- 不要过于频繁地流式传输网络音频，以避免卡顿",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

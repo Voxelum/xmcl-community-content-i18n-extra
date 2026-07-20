@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e9237638118c5182",
+  "content": "\n\nПозволяет индивидуально настраивать структуры из WDA совместно с модом Sparse Structures. \n\nРаньше при вводе команды /dumpstructuresets в игре (через Sparse Structures) вы получали только набор малых структур. Данное дополнение для совместимости позволяет настраивать каждую отдельную структуру с помощью Sparse Structures. \n![код файла, который создаёт мод](https://cdn.modrinth.com/data/cached_images/a04fe84d32d5049e18c170d77d479cd89fe18ec1.png)\nЭтот пример взят из Regular Dungeons Arise, в Seven Seas присутствуют только малые структуры.\n\nК малым структурам относится Unicorn Galleon.\n\nМне пришлось сохранить это имя файла таким же, как у оригинального мода, чтобы заменить его через датапак.\n\nУ меня также есть отдельный мод для совместимости между Regular Dungeons Arise и Sparse Structures.\n![баннер wabbanode](https://cdn.modrinth.com/data/cached_images/87b19f4b9068d4a344b05dda840b8b088e3be4f7.png)\nПриобретите сервер на wabbanode для хостинга вашего собственного сервера\nhttps://wabbanode.com/affiliate/booglie",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ffc6967c915e7f13",
+  "content": "\n\n### 重要資訊\n- 運行不需要 OptiFine\n- 僅適用於 1.21.2 及以上版本\n\n### 它是如何運作的\n利用 1.21.2 實裝的 Lightmap Core Shader，我們現在得以實現這類效果。\n\n### 一點背景\n我當時正在搭建一個包含許多酷炫內容的大型區域，為了營造氛圍，我需要把燈光打得非常完美。若有 HMS OptiFine 之類的資源包，這會輕鬆許多。但問題在於，這些包大多數無法在原版中使用。所以我決定自己製作一個。不過當時我太忙，沒空處理程式碼，於是向 Microsoft Copilot 求助。歷經三次失敗後，我們終於成功讓它運作。接著我調整了成果、設計了這個帥氣的圖示，現在它將成為 Modrinth 上第一個真正能在原版環境中運作的此類資源包。\n\n### 推薦搭配\n- **[Dark Smooth GUI](https://modrinth.com/resourcepack/dark-smooth-gui)**\n- **[Boosted Brightness](https://modrinth.com/resourcepack/boosted-brightness-rp)**\n- **[Small Held Items](https://modrinth.com/resourcepack/small-held-items)**\n- **[Centered Crosshair Fix](https://modrinth.com/resourcepack/centered-crosshair-fix)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

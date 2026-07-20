@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Y70/B6FDrEs=",
-  "content": "<p>Мод для автоматической отправки команды подтверждения запроса TPA.</p><h2>Особенности</h2><ul>\n<li><strong>Автоматическая отправка команды</strong>: этот мод будет отправлять команду подтверждения, когда в чате появятся определённые ключевые слова.</li>\n</ul><h2>Проблемы</h2><p>Сообщайте о проблемах здесь: <a href=\"https://github.com/ticsea/tpa-accept-auto/issues\" target=\"_blank\" rel=\"nofollow\">https://github.com/ticsea/tpa-accept-auto/issues</a></p><h2>И</h2><p>какую версию следует портировать в следующий раз?</p>",
+  "bodyHash": "387471c47ae2bdac",
+  "content": "\n\n<p>Мод для автоматической отправки команды принятия запроса /tpa.</p>\n<h2>Возможности</h2>\n<ul>\n<li><strong>Автоматическая отправка команды</strong>: Этот мод будет отправлять команду принятия, когда в чате появятся ключевые слова.</li>\n</ul>\n<h2>Сообщить об ошибке</h2>\n<p>Сообщать об ошибках здесь: <a href=\"https://github.com/ticsea/tpa-accept-auto/issues\" target=\"_blank\" rel=\"nofollow\">https://github.com/ticsea/tpa-accept-auto/issues</a></p>\n<h2>И еще</h2>\n<p>На какую версию мне перенести мод в следующий раз?</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

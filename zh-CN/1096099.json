@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cfc04815a9472ca5",
+  "content": "\n\n<p>本模组的唯一目的是防止你在死亡后物品消失。我不喜欢其他模组用墓碑替代尸体，也不喜欢它们添加的各种传送点、指南、用户界面、按键绑定以及其他各种死亡机制。在我的模组中，你死了之后会生成一具包含你所有物品的尸体，仅此而已。你仍然需要自己找路回去，然后破坏这具尸体来取回你的物品。所以，如果你只是想要一个基础的墓碑模组来在死亡时保护你的物品，看这个就够了。</p>\n<p>1.2.0+ 遵循 Pehkui 模组定义的玩家体型。<br>\n1.6.0+ 兼容 Create Aeronautics。</p>\n<p>命令：<br>\n/simplecorpse lastinventory<br>\n任何人都可以使用此命令查看自己上次死亡时记录的物品。<br>\n/simplecorpse lastinventory [用户名]<br>\n管理员可使用此命令查看任意在线玩家上次死亡时的物品。<br>\n/simplecorpse restore [用户名]<br>\n管理员可使用此命令将玩家上次死亡时记录的物品掉落至该玩家脚下。</p>\n<table>\n  <tr>\n    <td>\n      <img src=\"https://media.forgecdn.net/attachments/description/null/description_ee706ae5-1e21-418b-8e37-976b91d57ea7.png\" alt=\"插着箭的尸体。\" width=\"250\">\n    </td>\n    <td>\n      <img src=\"https://media.forgecdn.net/attachments/description/null/description_b956c348-aff2-4dca-b9bb-dbdc77e8d005.png\" alt=\"普通尸体。\" width=\"250\">\n    </td>\n    <td>\n      <img src=\"https://media.forgecdn.net/attachments/description/null/description_8a7a2a7d-8099-4876-83e3-9b0b996a1fe1.png\" alt=\"沾满史莱姆的尸体。\" width=\"250\">\n    </td>\n  </tr>\n</table>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1096099/description_4615216c-036e-4296-b54d-548dc6b79c60.png\" alt=\"Create Aeronautics 飞船上的多具尸体\" width=\"100%\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e3ccefb2c7b811a5",
+  "content": "\n\nЭто набор модов, разработанный для максимально простой установки и настройки для [Era of Civilization](https://discord.gg/mfeqfBVw62). Все представленные здесь моды разрешены к использованию на сервере.\n\nТипы модов:\n- Оптимизация (Sodium, EntityCulling и др.)\n- Дополнительные возможности (Simple Voice Chat, Distant Horizons)\n- Визуальные улучшения (Iris, Continuity, ETF, EMF)\n\n**ВАЖНОЕ ПРИМЕЧАНИЕ**:\n- Concurrent Chunk Management Engine\n- VeryManyPlayers\n\nЭти моды могут повысить производительность игры, но они несовместимы с Flashback при загрузке реплеев. Рекомендуется держать эти моды включёнными до тех пор, пока вам не понадобится просмотреть реплеи, а затем отключать их. Если вы не хотите разбираться с этими неудобствами, просто отключите или полностью удалите их.![Flashback Incompatibility](https://cdn.modrinth.com/data/cached_images/0188d14ab489f0bf10c0b36f327bec883e2b3169.jpeg)Обратите внимание, что вы всё ещё можете настроить Flashback, пока эти моды активны: перейдите в раздел Mods, прокрутите до Flashback и нажмите на его иконку.![Configure Flashback](https://cdn.modrinth.com/data/cached_images/6ae1b64848421d62cd9a817a70f461b33b06dc95.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31b587a04935628f",
+  "content": "\n\n# Mecha Solider PLASTAR\n![Made for ModFest 1.21 badge](https://github.com/ModFest/art/blob/v2/badge/64h/1.21/compact.png?raw=true)\n\n此模組新增了能夠為您工作的微型機甲。這些機甲由各個獨立零件組裝而成，且所有零件都能塗上各種花樣與顏色。\n\n## 開始遊戲\n<img src=\"https://cdn.modrinth.com/data/wyMBaCLa/images/fd4aa94808bfe30bdc4941b3530d663bd12d2c3b.png\" alt=\"A sappy acaia tree\" width=25% style=\"float: right\">\n\n要展開您的旅程，請在附近的草原尋找一棵產樹脂的金合歡樹。使用採液器，您可以透過點擊原木來採集樹液，進而獲得苯乙烯。樹液會隨時間慢慢再生，但如果您在未附魔絲綢之觸的情況下破壞原木，這項再生能力將會消失。 \n\n您可以在熔爐中燒煉苯乙烯來轉化為聚苯乙烯。接著，您可以製作一台零件列印機，並將聚苯乙烯放入其左側槽位。然後選擇您想要製作的零件並取出。您也可以在右側槽位加入添加劑，例如紅石。添加劑會改變塑膠的屬性，進而影響零件的數值。\n\n<img src=\"https://cdn.modrinth.com/data/wyMBaCLa/images/d3a4c8649caa21158ff8a57685ed92f2fdbc5c33.png\" alt=\"Mecha assembler UI\" width=25% style=\"float: right\">\n\n當您列印好一些零件後，請繼續製作一台機甲組裝台。機甲組裝台能將您的零件組合成完整的機甲。您至少需要一個頭部、一個軀幹、左右各一隻手臂以及左右各一條腿。您也可以選擇性加入背包。您可以按住 Shift 點擊物品，以確保它們被正確放置。\n\n從組裝台取出機甲後，您可以在地面上使用它來放置。若想將機甲收回，只需對其進行潛行點擊即可。目前機甲除了四處閒逛和看起來很帥之外不會有其他動作，但在未來它們將成為強大的自動化工具。\n\n## 待辦事項\n此模組仍處於早期測試階段，缺少許多能讓遊戲更有趣且實用的功能。以下是我們計畫新增的部分內容：\n- 用於為機甲零件塗色的方塊\n- 為機甲分配工作的方法\n- 不同零件擁有不同的數值\n- 更多種類的添加劑",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

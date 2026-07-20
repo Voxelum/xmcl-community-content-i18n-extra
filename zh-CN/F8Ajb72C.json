@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f39eee090d6c8e09",
+  "content": "\n\n本模组为 [Create Aeronautics](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) 的 **[物理组装机](https://create-aeronautics.fandom.com/wiki/Physics_Assembler)** 提供了手持/工具版本。你可以直接从快捷栏组装和拆解你用蜂蜜胶合的机械结构。\n\n## 工作原理\n\n它只是一个物品，功能完全符合预期：\n\n*   **右键点击方块：** 将该方块（及其胶合的部分）组装成物理对象。\n*   **按住 Shift + 右键点击物理对象：** 将其拆解回普通方块，并瞬间吸附到最近的网格位置，自动调整为 90° 旋转。\n\n底层机制完全复用了原版 Aeronautics 方块的服务器端逻辑，因此实际效果完全一致。\n\n## 合成配方\n\n将普通的**物理组装机**与两根**木棍**在合成台中呈对角线放置：\n\n![合成配方](https://media.forgecdn.net/attachments/1744/844/crafting_recipe-png.png)\n\n如果你在创造模式下，可以在“工具与实用”标签页中找到它。\n\n> **开发者注：** 与实体方块不同，这款手持工具在拆解时会瞬间将物理机械对齐到网格。由于手持物品没有 tick 更新循环，它会跳过方块版通常所需的缓慢多刻对齐动画。\n\n## 前置要求\n\n这是一个附属模组，你必须安装 [Create Aeronautics](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) 才能使用。\n\n## 整合包\n\n欢迎在你的整合包中使用我的模组，只需记得给予适当的署名即可。\n\n## 我的其他模组\n\n我通常将这些模组搭配游玩：\n\n*   [空手按键绑定 - 抓住这个](https://www.curseforge.com/minecraft/mc-mods/hold-onto-this)\n*   [Create: 坐下吧，猪布林！- 自动化以物易物](https://www.curseforge.com/minecraft/mc-mods/take-a-seat-piglin) - [Create](https://www.curseforge.com/minecraft/mc-mods/create) 的附属模组\n*   [Create Safe Seating](https://www.curseforge.com/minecraft/mc-mods/create-safe-seating) \\- Create 的附属模组",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

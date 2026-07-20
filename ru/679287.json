@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80e4022aea073189",
+  "content": "<p>JAOPCA Extras — это мод, добавляющий различные модули для <a href=\"https://www.curseforge.com/minecraft/mc-mods/jaopca\" rel=\"nofollow\">JAOPCA</a>.<br>\nДля каждого материала JAOPCA будет добавлять соответствующий модуль (см. ниже).</p>\n<h2>Модули</h2>\n<h2>В настоящее время доступны следующие модули.\nVanilla</h2>\n<ul>\n<li>Пластины</li>\n<li>Стержни</li>\n<li>Шестерни</li>\n</ul>\n<h2>AE2</h2>\n<ul>\n<li>Процессоры</li>\n<li>Схемы</li>\n</ul>\n<h2>Конфигурации</h2>\n<p>Файлы конфигурации генерируются в директории <code>config/jaopca/modules/</code>.</p>\n<ul>\n<li>extras_gears.toml</li>\n<li>extras_plates.toml</li>\n<li>extras_rods.toml</li>\n<li>extras_ae2.toml (если загружен AE2)</li>\n</ul>\n<h2>Наборы модов</h2>\n<p><strong>Вы можете свободно использовать этот мод.</strong><br>\nЕсли вы хотите изменить названия предметов, добавляемых JAOPCA, пожалуйста, обратитесь <a href=\"https://github.com/BlueSheep2804/JAOPCAExtras/blob/v1.1.1/README.md#ModPacks\" rel=\"nofollow\">сюда</a>.</p>\n<h2>Поддержка</h2>\n<p>Сообщения об ошибках и запросы на новые функции приветствуются на <a href=\"https://github.com/BlueSheep2804/JAOPCAExtras/issues\" rel=\"nofollow\">GitHub</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

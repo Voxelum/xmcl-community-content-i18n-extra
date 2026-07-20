@@ -1,0 +1,6 @@
+{
+  "bodyHash": "155bf861eb1a8235",
+  "content": "\n\n<p>Это утилитный мод, который позволяет разработчикам модпаков или другим игрокам изменять типы, количество и уровни по Y выпадения предметов и блоков из пушки Moondrill Cannon в Terramity.</p>\n<p>Функционал пушки Moondrill Cannon настраивается через конфигурационный файл (moondrillcannontweaker.json). Файл содержит два списка: «items» и «blocks», где каждый элемент описывает тип предмета или блока, выпадающего при использовании пушки Moondrill Cannon.<br>Каждая запись содержит реестровое имя блока/предмета, диапазон количества выпадающих единиц ([мин, макс], включительно) и уровень по Y, с которого они падают.&nbsp;</p>\n<p>Ниже приведён стандартный конфигурационный файл (работает идентично базовой версии Terramity):</p>\n<pre><code>{\n  \"items\": [\n    {\n      \"name\": \"terramity:moonstone_rock\",\n      \"dropRange\": [\n        60,\n        90\n      ],\n      \"yLevel\": 320\n    },\n    {\n      \"name\": \"terramity:opaline_moonstone\",\n      \"dropRange\": [\n        2,\n        4\n      ],\n      \"yLevel\": 320\n    }\n  ],\n  \"blocks\": [\n    {\n      \"name\": \"terramity:moonstone\",\n      \"dropRange\": [\n        30,\n        40\n      ],\n      \"yLevel\": 320\n    }\n  ]\n}</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

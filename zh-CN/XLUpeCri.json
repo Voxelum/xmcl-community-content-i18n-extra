@@ -1,0 +1,6 @@
+{
+  "bodyHash": "73e9c675d39aa8bd",
+  "content": "\n\n# EMF 兼容：Immersive Melodies\n\n![跳跃演奏中！](https://cdn.modrinth.com/data/XLUpeCri/images/78a59aa9b67148fdd8a1da72ba2c0ae9610ba0b7.gif)\n\n一款小型客户端模组，旨在让 **[Immersive Melodies](https://modrinth.com/mod/immersive-melodies)** 的乐器动画与 **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** 的玩家模型正确配合。\n\n已针对 **[Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)** 进行了测试，但理论上应兼容任何玩家动画资源包。\n\n\n<details>\n<summary>视频</summary>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/3XB3MGHLTVk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n</details>\n\n\n\n## 特性\n\n- 兼容 **[Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)**。\n- 演奏乐器时不会被资源包动画覆盖。\n- 应能配合大多数使用 EMF 的玩家动画资源包运行。\n\n祝你游玩愉快 ^_^",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

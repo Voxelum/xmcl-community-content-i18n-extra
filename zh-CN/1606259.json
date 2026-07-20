@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e30642c10c903622",
+  "content": "\n\n<h2>BetterEnd 的动态树木</h2>\n<p>为 BetterEnd 新增的树木和巨型真菌添加 Dynamic Trees 支持。</p>\n<p>此附加组件将 BetterEnd 的植被与 Dynamic Trees 进行整合，使其能够像原生 Dynamic Trees 物种一样表现。受支持的物种将不再使用 BetterEnd 的标准树木系统，而是采用 Dynamic Trees 的机制进行生长、分枝并与世界互动，同时保留 BetterEnd 原本预期的游戏体验。</p>\n<h2>特性</h2>\n<ul>\n<li>🌳 <strong>支持 BetterEnd 的树木与真菌的 Dynamic Trees 兼容性</strong> – 使受支持的 BetterEnd 物种能够像原生 Dynamic Trees 物种一样生长、分枝并运作。</li>\n<li>❤️ <strong>完整的巨型真菌支持</strong> – 巨型真菌能够与 Dynamic Trees 自然生成并运作，保留 BetterEnd 预期的游戏玩法与机制。</li>\n<li>🌱 <strong>无缝集成</strong> – 包含 Dynamic Trees 的各项特性，如动态生长、树木倒塌、种子、树苗以及世界生成兼容性等。</li>\n<li>⚡ <strong>轻量级兼容附加组件</strong> – 仅专注于将 BetterEnd 与 Dynamic Trees 进行整合，不会改变其他游戏玩法。</li>\n</ul>\n<h2>前置要求</h2>\n<ul>\n<li>Dynamic Trees</li>\n<li>BetterEnd</li>\n<li>Dynamic Trees Plus</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

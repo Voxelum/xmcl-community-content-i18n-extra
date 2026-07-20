@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fb15dd4b969f59b5",
+  "content": "\n\n<h1><strong>Логгер пакетов</strong></h1>\n<p>Этот мод записывает все пакеты (включая все сопутствующие данные), которые вы отправляете на сервер, и сохраняет их в отдельный JSON-файл с временными метками (записывается и сохраняется при отключении от сервера, внутри папки «packet-logs»)!</p>\n<h2>Почему не входящие пакеты?</h2>\n<p>Код Minecraft нечитаем для человека, поэтому вывод имён классов пакетов получается нечитаемым. Мне пришлось вручную перечислять имена пакетов для каждого исходящего пакета, однако я планирую добавить поддержку всех входящих пакетов в будущем!</p>\n<h2>Зависимости</h2>\n<p>Этот мод требует <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" rel=\"nofollow\">Fabric API</a>, а также <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcloth-config\" rel=\"nofollow\">Cloth Config</a> + <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodmenu\" rel=\"nofollow\">Mod Menu</a> для настройки.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

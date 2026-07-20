@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a179171c4ea67c8b",
+  "content": "\n\n<h1>玩家属性界面</h1>\n<p>在玩家物品栏界面中添加一个按钮，用于切换显示附加信息面板，展示可自定义配置的属性值列表。</p>\n<p>该模组在客户端和服务端均为可选安装。</p>\n<p>当该模组安装于服务端时，可以针对所有已连接的玩家禁用它。</p>\n<p>服务端还控制使用哪种属性界面配置：</p>\n<ul>\n<li>服务端配置 -&gt; 所有玩家共享同一套属性界面，且无法自行更改</li>\n<li>客户端配置 -&gt; 每位玩家可以独立自定义自己的属性界面</li>\n</ul>\n<p>未安装该模组的客户端可以正常连接服务器，且不会受到任何影响。</p>\n<p>已安装该模组的客户端可以连接任意服务器，无论服务端是否安装了该模组。</p>\n<p>如需了解如何自定义显示的信息，请参阅 <a href=\"https://github.com/TheRedBrain/player-attribute-screen/blob/1.21.1/README.md\" rel=\"nofollow\">Readme</a>。</p>\n<h2>反馈</h2>\n<p>如果您发现任何 Bug、有改进建议或其他反馈，可以通过 GitHub 或我的 Discord 联系我。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

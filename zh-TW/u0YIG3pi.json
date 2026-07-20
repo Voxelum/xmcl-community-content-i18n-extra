@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3fc1f2a4eec7749d",
+  "content": "\n\n將「經驗修復」等稀有附魔新增至[附魔注入器](https://modrinth.com/mod/enchanting-infuser)。 \n\n安裝模組後，所有附魔都應會顯示於進階注入器中。\n\n若要在現有世界中使用，你可能需要在聊天欄輸入指令來啟用數據包： \n\n```\n/datapack list\n/datapack enable <datapack>\n```\n\n數據包最初由 Einhornyordle 於 [GitHub](https://github.com/Fuzss/enchantinginfuser/issues/118#issuecomment-2705478145) 提供 - 感謝！\n\n1.19.2 及更早版本無需此數據包：[GitHub 上的評論](https://github.com/Fuzss/enchantinginfuser/issues/118#issuecomment-3135826262)\n\n![已解鎖經驗修復的附魔注入器](https://cdn.modrinth.com/data/cached_images/ae41c0fef95736f1413ff136cdbe5162353edefb.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

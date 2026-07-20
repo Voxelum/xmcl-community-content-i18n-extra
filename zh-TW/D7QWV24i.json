@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fa306700b7cefaa0",
+  "content": "\n\n此功能允許玩家自訂在 100 天內生成的生物。\n\n玩家可以修改 config 資料夾中的設定檔。\n\n設定內容：\n\n- 實體註冊名稱列表（例如：\"minecraft:zombie\"、\"minecraft:creeper\"）。將依此順序依序生成實體。\nentities = [\"minecraft:zombie\", \"minecraft:creeper\"]\n\n- 首領生成間隔天數（最小值：5，最大值：100，預設值：10）\n  \n  days_interval = 10\n\n- 是否啟用首領生成功能\n  \n  enabled = true\n\n\n當實體生成時，您可以開啟聊天欄並點擊傳送按鈕，即可傳送至該位置。\n\n![當實體生成時，您可以開啟聊天欄並點擊傳送按鈕，即可傳送至該位置。](https://cdn.modrinth.com/data/cached_images/fa9486c185d09fcfe43ab0f269551a098f0a02f1.png)\n\n實體將在安全區域（無障礙的開闊空間）生成，以避免穿模或卡住。\n\n本模組支援跨維度生成，並可與其他模組的維度相容運作。\n\n![本模組支援跨維度生成，並可與其他模組的維度相容運作。](https://cdn.modrinth.com/data/cached_images/429d81754a699a20e8afc0b4c3d795567fce30d6.png)\n\n在大多數維度中，若無法找到安全區域，實體將會在玩家頭頂上方三格處生成。\n\n\n如果您希望停用此功能，可使用以下指令：\n\n啟用生成：/100dayboss true\n\n停用生成：/100dayboss false",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

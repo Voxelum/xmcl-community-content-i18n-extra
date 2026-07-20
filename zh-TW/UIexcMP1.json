@@ -1,0 +1,6 @@
+{
+  "bodyHash": "057ee45f5cbff09c",
+  "content": "\n\n# 資訊\n此模組會修改 Minecraft 的全螢幕模式，並使其更具自訂彈性。\n預設情況下，它會防止遊戲在失去焦點時自動最小化，並允許其他視窗顯示在遊戲上方。\n\n## 功能\n- **新增：** 將滑鼠游標限制在遊戲視窗內，防止誤觸其他顯示器上的項目。（由於 GLFW 版本過舊，1.20.1 不支援此功能）\n\n- 無需重新啟動遊戲即可在專屬全螢幕與無邊框全螢幕模式之間切換\n\n- 防止遊戲在切換視窗時自動最小化\n\n- 防止遊戲以全螢幕模式啟動\n\n- 按下 CTRL + F11（或您設定為切換全螢幕的按鍵），或透過 [Mod Menu](https://modrinth.com/mod/modmenu) 開啟設定畫面\n\n## 疑難排解\n**在 Windows 10 與 11 上**，「全螢幕最佳化」預設為啟用狀態。全螢幕最佳化能讓遊戲運作更順暢，但會阻止任何東西在遊戲取得焦點時顯示於其上方_。如果您希望例如在遊戲上方播放畫面中畫面影片，或使用 Discord 疊層，則必須**停用「全螢幕最佳化」**。\n\n若您使用的是 **Linux**，且工作列位於遊戲上方，請**停用「無邊框全螢幕」選項**。\n\n**在某些 Linux 發行版**中，您可能無法將任何內容置於遊戲前方，因為部分視窗系統不支援一般的始終置頂視窗。在這種情況下，您必須建立自訂的視窗規則來將特定內容置於遊戲前方。[Firefox 畫面中畫面影片的範例請見此處](https://github.com/Bestsoft101/Better-Fullscreen/issues/14#issuecomment-3348045964)\n\n## 截圖\n![設定畫面截圖](https://cdn.modrinth.com/data/cached_images/c746ac579014c4b2e014279a3c884f9e46a62316_0.webp)\n2.3.0 版本的設定選單\n\n![解析度選擇器截圖](https://cdn.modrinth.com/data/cached_images/e5af1553bfb3d064f141cab87039067a4ee39a25_0.webp)\n選擇遊戲在全螢幕模式下應使用的顯示器與解析度",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

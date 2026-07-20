@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b3a8240f6de151ff",
+  "content": "\n\n一款 Minecraft 模組，可將伺服器端的地圖資料快取至本機的 `.minecraft/.client_maps/` 資料夾中。\n\n### **特別注意的是，此模組並不會更改地圖的渲染方式，你需要搭配其他模組才能達成該功能（見下方）**\n\n如果你曾遇過放入箱子後地圖資料無法載入的問題，你的本機副本將作為佔位符，直到伺服器更新為止。\n\n旨在與 [Map in Slot](https://modrinth.com/mod/map-in-slot) 搭配使用。\n\n你可以在這裡將原始地圖資料轉換為圖片 [here](https://redstoned.dev/mods/clientmaps/converter)。\n\n也可與 [Map Tooltip](https://modrinth.com/mod/map-tooltip)、Minihud 及其他物品欄地圖顯示模組搭配使用。\n\n![潛影盒示範](https://cdn.modrinth.com/data/K7BL4mb2/images/9f15001da59a99de18c4da9191ca10fe529a3f09.png)\n\n\n如有任何問題，請透過以下方式與我們聯繫：[Discord](https://discord.gg/qM7mQtcJPW)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

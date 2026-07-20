@@ -1,0 +1,6 @@
+{
+  "bodyHash": "90c0579a81b1775e",
+  "content": "\n\n<h2>随着 BetterEnd Forge 20.0.6 及更高版本的发布，本模组已不再需要，因此已被弃用！</h2>\n<h2><strong>问题描述</strong></h2>\n<p>如果您同时使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/betterend-forge\" target=\"_blank\" rel=\"nofollow\">BetterEnd (Forge)</a> 和 <a href=\"https://www.curseforge.com/minecraft/mc-mods/lionfish-api\" target=\"_blank\" rel=\"nofollow\">Lionfish API</a>，您会发现在使用自定义地形生成器（使用本模组时默认启用）的情况下，自定义地形无法生成，且生物群系源会被完全打乱。</p>\n<p>注意：此问题仅在使用为末地浮岛添加高度变化的自定义地形生成器时出现。在原版 Minecraft 地形中似乎不存在此问题。</p>\n<p><strong>对于 1.21 及以上版本，由于 Lionfish API 已不再使用侵入式生物群系配置系统，因此不需要本修复模组。</strong></p>\n<h2><strong>修复方案</strong></h2>\n<p>本模组仅针对末地维度屏蔽了 Lionfish API 的生物群系系统，因为我在其他维度未遇到任何问题。根据我的测试，这并未引起任何冲突，但如果您发现依赖 Lionfish API 的生物群系切片功能的生物群系缺失，请确保将这些生物群系添加到 <a href=\"https://www.curseforge.com/minecraft/mc-mods/bclib-forge\" target=\"_blank\" rel=\"nofollow\">BCLib (Forge)</a> 的生物群系配置中，以便让 BetterEnd 处理生成。</p>\n<h2><strong>整合包使用</strong></h2>\n<p>只要通过 CurseForge、Modrinth 或未来可能出现的任何其他主流认可的平台进行分发，您就可以将本模组包含在您自己的整合包中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

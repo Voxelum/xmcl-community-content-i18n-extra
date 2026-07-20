@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9fd64e1d893e627e",
+  "content": "\n\n![link relay](https://cdn.modrinth.com/data/cached_images/4237fe7701fe81349dbd87ade95856d3ef60a2e8.png)\n\nЭтот мод добавляет 1 предмет: ретранслятор связей. Это компактный утилитарный блок для системы Redstone Link из мода Create, который позволяет переназначать беспроводные частоты. \n\nЗадайте пару входных частот и пару выходных частот, и любой сигнал, принятый на входе, будет передан на выход. В одном блоке ретранслятора можно хранить неограниченное количество привязок.\n\nЭтот предмет появился из-за неудобства: я не мог разместить управление на своём маленьком аэронавтическом двигателе, а использование наземных ретрансляторов приводило к разрыву связи при отлёте дальше 256 блоков.\n\n![A complicated system of redstone links](https://cdn.modrinth.com/data/cached_images/09399f8ade2d9d4b1a4e2cf01ec2c38c156b713b_0.webp)\n\n^Старая система^\n\nУпрощено до одного блока\n\n![GUI](https://cdn.modrinth.com/data/cached_images/efc2712a9bb7cdf93eb7cd30ab3c5cb04e265158_0.webp)\n\nРетранслятор также позволяет инвертировать сигнал, поэтому выходная частота всегда активна, если только не поступает входной сигнал.\n\n![Engine](https://cdn.modrinth.com/data/cached_images/f2fa7d1ac75d841ce798fac2a4fc0ebc9af9e17f.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

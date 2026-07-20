@@ -1,6 +1,6 @@
 {
-  "bodyHash": "HeirYU39B+s=",
-  "content": "# 加速枯萎\n\n**_树叶消失术_**\n\n加速枯萎是一种替代性的“快速树叶枯萎”方案，核心思路并非加速树叶方块自身的刻更新，而是以最快速度将其移除。本模组采用最贴近原版的方式实现这一逻辑：延迟检查树叶状态，让游戏自然标记可移除的树叶。\n\n降低客户端与服务器卡顿是加速枯萎的核心目标之一。我们通过基于时间戳的检测系统实现这一目标，并大幅减少了方块的特效与刻运算逻辑。\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/1c9b9598-52f3-402c-84a8-84f7779e1360.webp)](https://www.bisecthosting.com/mikey?rel=modrinth)\n\n## 运作原理\n\n当支撑树叶的最后一块原木被移除后，模组会自动搜索所有带有 `#minecraft:leaves` 标签的树叶方块，只要满足枯萎条件便会立即清除。\n\n本模组支持所有由 `#minecraft:logs` 标签构成的树木。\n\n## 为何选择本模组\n\n- 更低的卡顿——这是核心差异化优势，极简的代码架构确保了极小的性能开销。\n- 相对宽松的开源许可协议\n- 无需复杂配置，开/关随心\n- 原生支持 Forge 与 Fabric\n\n### 为什么需要 `architectury-api`？\n\n我比较懒，别审判我。我们使用并监听的一些事件，通过 `architectury` 实现会简单得多。况且现在大量模组都在用它，如果你在玩整合包或制作整合包，大概率已经装了！",
+  "bodyHash": "8e2162e4b8eea698",
+  "content": "\n\n# 加速树叶腐烂\n\n**_树叶说拜拜_**\n\n加速树叶腐烂是一种替代性的“快速树叶腐烂”机制。与频繁对树叶方块进行刻（tick）更新不同，我们直接在条件满足时尽快移除它们。本模组以最接近原版的方式实现这一逻辑：通过延迟树叶检查逻辑，让游戏自然标记需要腐烂的树叶。\n\n加速树叶腐烂的目标之一是降低客户端与服务器的卡顿。我们通过采用基于时间的检查系统，并大幅减少方块粒子效果与刻更新逻辑来实现这一目标。\n\n[![BisectHosting](https://www.bisecthosting.com/partners/custom-banners/1c9b9598-52f3-402c-84a8-84f7779e1360.webp)](https://www.bisecthosting.com/mikey?rel=modrinth)\n\n## 工作原理\n\n当支撑树叶的最后一个方块被移除后，模组会尝试寻找所有带有 `#minecraft:leaves` 标签的树叶，并在它们准备好腐烂时将其移除。\n\n我们支持由 `#minecraft:logs` 标签构成的任何树木。\n\n## 为什么选择我们\n\n- 更少的卡顿几乎是唯一的区别因素，高度简化的代码库使其性能开销极小。\n- 相对开放的许可证\n- 无需复杂配置，开或关一目了然\n- 开箱即用的 Forge 与 Fabric 支持\n\n### 为什么需要依赖 `architectury-api`？\n\n我比较懒，请别吐槽。使用 `architectury` 来触发和监听某些事件要简便得多。此外，如今许多模组都已采用它，因此如果你在使用或制作整合包，大概率已经内置了该 API！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

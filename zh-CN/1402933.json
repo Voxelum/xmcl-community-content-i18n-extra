@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71b4927a80aa5da8",
+  "content": "\n\n<h2><strong>概述</strong></h2>\n<p><strong>此资源包必须在新建世界时安装！</strong>&nbsp;无法用于已有存档。<br><br>这是一个超平坦挑战：每天开始时，整个地面会更换为另一种方块。所有三个维度均已转换为超平坦地形，并都会受到地面更换的影响。每个维度中都包含通关所需的建筑与生物。<br><br>如果你打算使用此资源包制作视频或内容，完全没问题！但若如此，请在简介和/或评论中注明我的署名（Ambiguous Chameleon）并提供本资源包的链接。谢谢！</p>\n<p>&nbsp;</p>\n<h2><strong>作弊与指令</strong></h2>\n<p><strong>立即将地面更换为你主手所持的方块</strong></p>\n<pre><code>/trigger ac.sf_randomizer.change_to_block\n</code></pre>\n<p><strong>切换“迪斯科区块”选项。启用后，每个区块将独立随机选择一种方块，而非所有区块使用同一种方块。默认关闭</strong></p>\n<pre><code>/trigger ac.sf_randomizer.disco_chunks\n</code></pre>\n<p><strong>允许将TNT作为地面方块生成！默认情况下此选项为关闭状态。若决定开启请注意安全</strong></p>\n<pre><code>/trigger ac.sf_randomizer.enable_tnt\n</code></pre>\n<p><strong>将时间推进至下一天，从而触发地面更换</strong></p>\n<pre><code>/trigger ac.sf_randomizer.add_day</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d9fd8dbfabeebb5",
+  "content": "\n\n这是由 yi_ran (yiran1457) 最初开发的 GeoTetraArmor 模组的分支版本。本版本专注于稳定性修复以及扩展原版内容。\n\n🛠️ 已修复内容：\n原版模组存在稳定性问题。在此分支中，我已解决以下问题：\n\n受伤崩溃：修复了穿戴特定护甲部件时受到伤害会导致游戏崩溃的严重问题。\n\n整体稳定性：改进了代码处理逻辑，防止游戏过程中出现意外闪退。\n\n✨ 新增内容\n除了修复问题外，我还添加了新功能以提升你的 Tetra 模组体验：\n\n新护甲类型：新增轻甲，以区别于原有的重甲。\n\n更多打磨选项：扩充了打磨（Honing）选择，为你提供更多专精和升级装备的途径。\n\n🙏 鸣谢与许可协议\n原版模组：[GeoTetraArmor](https://www.curseforge.com/minecraft/mc-mods/geotetraarmor)\n\n许可协议：本分支依据 GNU 宽通用公共许可证 v3 (LGPLv3) 进行分发。\n\n根据该协议，本项目为开源项目。我提供此版本旨在保持社区体验的流畅与无 Bug。\n\n💬 反馈与建议\n本项目仍在持续开发中！我正积极收集反馈以改进模组。\n\n发现了 Bug？\n\n有新的打磨或护甲部件建议？\n\n请在评论区留言或在仓库提交 Issue。你的意见对于打造 Tetra 与 GeckoLib 之间最佳桥梁至关重要！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

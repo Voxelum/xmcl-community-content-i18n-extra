@@ -1,0 +1,6 @@
+{
+  "bodyHash": "02347ca5e7873e49",
+  "content": "\n\n### 描述\n此資料包/模組允許你在鐵砧或附魔桌上，為劍附魔全部三種互斥的劍類附魔。\n\n### 安裝指南\n\n前往你的存檔資料夾，Windows 系統路徑如下：\n```\nC:\\Users(your name)\\AppData\\Roaming\\.minecraft\\saves\n```\n將壓縮檔放入 `data_packs` 資料夾，接著重新開啟世界或執行      /reload\n\n### 其他注意事項\n\n- 如需提供意見、回報錯誤或尋求其他協助，請加入本頁連結區段中的 [Discord 伺服器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

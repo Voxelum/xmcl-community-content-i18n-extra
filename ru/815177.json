@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b8fd5b90341d251",
+  "content": "\n\n<h2>Краткое описание</h2>\n<p>&nbsp;</p>\n<p>Со мной всё чаще случалось так, что я случайно ломал больше блоков с помощью <em>Haste II + Efficiency V</em>&nbsp;чем планировал.</p>\n<p>Поэтому я создал этот мод, который ломает блоки мгновенно при приседании, <strong>но вводит задержку после каждой добычи</strong>.</p>\n<p>&nbsp;</p>\n<p>Это должно быть довольно похоже на игровой процесс в режиме креатива -> блоки можно добывать мгновенно, но при зажатии кнопки мыши ломается примерно 3 блока в секунду.</p>\n<p>&nbsp;</p>\n<h2>Предпросмотр</h2>\n<p>&nbsp;</p>\n<table>\n<tbody>\n<tr>\n<th>До</th>\n<th>После</th>\n</tr>\n<tr>\n<td><img src=\"https://user-images.githubusercontent.com/71837281/213821502-01fc2a9a-56e4-45f9-ae2e-24043eeeb561.gif\"></td>\n<td><img src=\"https://user-images.githubusercontent.com/71837281/213821577-2b073473-f1ba-40d3-ab9b-aa61e4cc565f.gif\"></td>\n</tr>\n<tr>\n<td>&lt;center&gt;<strong>Использование:</strong> Просто <code>Shift</code>, когда хотите активировать задержку.&lt;/center&gt;</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "12384d78777cafbb",
+  "content": "\n\n<h1>BoingBoing 物品</h1>\n<p><strong>讓掉落的物品在地面觸地時像史萊姆一樣彈跳！</strong></p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_da4fb266-565f-4c35-8168-4d7653cb266b.png\" alt=\"image\"></p>\n<h2>功能特色</h2>\n<p>⇨ <strong>逼真的彈跳物理效果</strong> - 物品會以可設定的速度和高度從表面彈起</p>\n<p>⇨ <strong>史萊姆音效</strong> - 物品落地時令人滿足的「啵唧」聲</p>\n<p>⇨ <strong>方塊粒子效果</strong> - 根據物品落地的方塊生成對應的粒子</p>\n<p>⇨ <strong>完全可設定</strong> - 可調整彈跳係數、音效音量、粒子數量等更多選項</p>\n<h2>預覽</h2>\n<p><strong>掉落物品 - 彈跳效果</strong></p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_3b8023e9-032a-405f-a207-2697624ae558.gif\" alt=\"image\"></p>\n<h2>設定選項</h2>\n<p>⇨ <strong>彈跳係數（預設值：0.85）</strong></p>\n<p>⇨ <strong>最小彈跳速度</strong></p>\n<p>⇨ <strong>水平動量守恒</strong></p>\n<p>⇨ <strong>啟用/停用音效</strong></p>\n<p>⇨ <strong>啟用/停用粒子效果</strong></p>\n<p>⇨ <strong>粒子數量</strong></p>\n<p>⇨ <strong>音效音量</strong></p>\n<h2>版本資訊</h2>\n<table>\n<thead>\n<tr>\n<th>載入器</th>\n<th>Minecraft 版本</th>\n<th>Java</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Forge</td>\n<td>1.20.1</td>\n<td>17</td>\n</tr>\n<tr>\n<td>NeoForge</td>\n<td>1.21.1</td>\n<td>21</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

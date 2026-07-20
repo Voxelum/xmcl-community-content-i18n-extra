@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a819f6826a153121",
+  "content": "\n\n此数据包新增了一种名为“灵魂链接”的附魔。\n当你死亡时，此附魔会将带有该附魔的物品返还给你。\n\n需要 [GalLab 资源包](https://modrinth.com/resourcepack/gallab)\n\n<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/8RIQXL7Jp3w\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 自 1.6 版本（1.21+）起，现已改用附魔系统替代自定义物品。因此，给物品附魔需通过铁砧完成。\n##\n\n此附魔共有三种变体：\n- **灵魂链接** - 附魔的标准版本。死亡后物品一定会返还给你。\n可在古城的箱子中找到，在深暗之域生物群系中有极小概率钓鱼获得，或作为监守者的掉落物。\n\n- **弱化灵魂链接** - 灵魂链接的弱化版本。每次死亡后附魔等级会降低。可能转化为不稳定灵魂链接。可在古城的箱子中找到，在任何生物群系中都有极小概率钓鱼获得。\n\n- **不稳定灵魂链接** - 灵魂链接的特殊版本。它会保存玩家的全部物品栏，随后带有此附魔的物品将在玩家死亡后被销毁。\n\n要在任意物品上获取此附魔，请将共鸣灵魂/弱共鸣灵魂与目标物品一同放置在附魔台上。\n\n即使你在岩浆或虚空中死亡，物品也会返还。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

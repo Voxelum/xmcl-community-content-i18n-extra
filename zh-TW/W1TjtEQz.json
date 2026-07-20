@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b4beb26e7b134861",
+  "content": "\n\n此模組讓收割作物變得更快速且輕鬆。\n\n<img alt=\"Modrinth Downloads\" src=\"https://img.shields.io/modrinth/dt/W1TjtEQz?label=Modrinth&color=dark_green\"> <img alt=\"CurseForge Downloads\" src=\"https://img.shields.io/curseforge/dt/1344862?label=CurseForge\">\n\n\n\n## **功能：**\n\n- **簡易收割：** 右鍵點擊作物即可收割，並自動重新播下種子。\n\n- **範圍收割：** 手持鐮刀右鍵點擊作物，即可收割半徑 3 格內所有同類型的鄰近作物。\n\n![Area Harvest](https://cdn.modrinth.com/data/cached_images/27fb80c0b0ad546e336a909a8b25f5424ba27c5b.webp)\n\n- **清除野生植物：** 使用鐮刀可清除半徑 2 格內草地上自然生成的植物。\n\n![Remove Natural Plants](https://cdn.modrinth.com/data/cached_images/174adfbf13ccf11794b311dd6a9194fbd2e1d150.webp)\n\n您可以在 Minecraft 的設定檔資料夾中調整各項功能的半徑。\n\n若遇到任何問題，歡迎在此進行回報：[問題追蹤器](https://github.com/TheToicraft/Simple-Harvesting-Mod/issues/new)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

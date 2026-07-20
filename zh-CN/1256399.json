@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3268671202f21b61",
+  "content": "\n\n<h1>Mekanism: Empowered Core</h1>\n<p>一款专为增强 Mekanism 而设计的扩展库模组。</p>\n<p>主要供 Mekanism: Empowered 使用，同时也兼容其他模组。</p>\n<h2>功能特性</h2>\n<h3>对 Kotlin 友好</h3>\n<ul>\n<li>设计之初便充分考虑了 Kotlin 的使用需求。</li>\n<li>支持 Java 调用，但使用 Kotlin 可获取更多便利。</li>\n</ul>\n<h3>枚举扩展支持</h3>\n<ul>\n<li>借助 Mixin 技术协助扩展枚举类型。</li>\n</ul>\n<h3>新增升级模块</h3>\n<ul>\n<li>结合枚举扩展支持与 Mixin 技术，新增升级模块。</li>\n</ul>\n<h3>新增窗口类型</h3>\n<ul>\n<li>结合枚举扩展支持与 Mixin 技术，新增 WindowType 条目。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

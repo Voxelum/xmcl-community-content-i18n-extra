@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4bf77d33cef865cf",
+  "content": "\n\n![模組惡搞標誌，顯示「誰還沒曝光他們的 TFC」](https://i.imgur.com/DpgrFJh.png)\n\n此資料包（為方便起見也可作為模組載入）將 [Exposure](https://modrinth.com/mod/exposure) 模組的配方轉換為與 [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) 的進度系統相容且合乎邏輯。\n\n所有配方在必要時均使用標籤，以確保與 TFC 擴充模組（如 [ArborFirmaCraft](https://modrinth.com/mod/arborfirmacraft-(afc))）達到最大相容性，該模組已獲得完整支援。\n\n煤灰與石墨粉在涉及它們的配方中可以互換使用；在暗房列印照片時，也可以用來取代黑色染料。\n\n**對於相機閃光燈功能，您必須自訂一個物品作為相機內的閃光源。預設情況下，原版紅石燈（預設無法取得）仍可使用，沉浸工程的燈泡以及 Create 模組的玫瑰石英燈亦可使用。若未安裝 IE 或 Create，則將 _完全沒有_ 任何能觸發閃光的物品。** 一旦我找到符合 TFC 風格的替代物品，修訂版本將更新此模組／資料包。\n\n此外，石墨粉現在會轉化為灰色染料，而非藍色。\n\n![本模組包含的配方列表。](https://i.imgur.com/o60Leku.png)\n\n\n<details>\n<summary>新貼圖：</summary>\n\n![相機的新貼圖，採用棕色機身與黃銅邊框設計。](https://i.imgur.com/d5Vk8d4.png)\n![玩家角色手持重新貼圖自拍棒的畫面。](https://i.imgur.com/VOfN098.png)\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

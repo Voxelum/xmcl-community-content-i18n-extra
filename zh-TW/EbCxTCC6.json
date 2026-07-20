@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb16bb159937a706",
+  "content": "\n\n靈感來自 [Tinker's Gregworks](https://github.com/Vexatos/TinkersGregworks) 與 [Greg's Construct](https://www.curseforge.com/minecraft/mc-mods/gregs-construct)。\n\n此模組為 [GregTechCEu Modern](https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern) 與 [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) 的擴充模組。\n\n此模組會自動從格雷科技（GregTech）中具有該屬性的材質中擷取工具屬性，並建立必要的資料，使其同時也能作為匠魂（Tinkers' Construct）的材質部件。\n\n此外，此模組將匠魂熔爐的金屬配方調整為使用 144mb 來代表 1 個金屬錠所需的材質，以與格雷科技保持一致。\n\n設定選項：\n* 啟用/停用熔爐熔化/鑄造材質部件\n* 啟用/停用材質部件的擠壓機配方\n* 啟用/停用材質部件的液體固化配方\n* 忽略為特定格雷科技材質生成材質資料、數值與特性\n* 頭部、肢體、握把與手柄部件的全域修正值",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

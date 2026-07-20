@@ -1,0 +1,6 @@
+{
+  "bodyHash": "315c04aeedcda3e6",
+  "content": "\n\n此模組是專為 dig_peri 所開發。它將在 Tweakeroo 中新增一些功能。  \nTweak Click 會在 Tweakeroo 的列表頁面中新增功能。  \n主要功能包含 X 軸挖掘、Z 軸挖掘、平面挖掘與 perimeterWallDigger。  \n新增的功能將顯示於 Tweakeroo 列表的底部。\n\n**以下功能由其他模組提供**\n\n- **perimeterWallDigger**: masaadditions\n- **flatDigger**: Oh My Minecraft Client\n- **removeCooldown**: Oh My Minecraft Client",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a39a6c2275c10e25",
+  "content": "\n\n# 專業村民\n一款適用於 Fabric 的小型伺服器端／單人模式模組，讓村民的互動與管理變得更加輕鬆。\n\n（注意：目前僅在單人模式中測試過！）\n\n### 功能特色：\n* 圖書館員提供的附魔等級會逐步提升，而非固定不變。\n* 手持綠寶石方塊並與村民互動（右鍵）可重置其交易項目。僅在該村民尚未累積任何經驗值時生效。\n* 手持綠寶石方塊並與流浪商人互動可於 5 秒後將其驅離。不會驅離由刷怪蛋生成的商人。\n* 手持毒馬鈴薯並與村民互動可重置其交易項目、等級與經驗值。該村民必須處於虛弱效果下，就如同使用金蘋果治療殭屍村民時的條件一般。過程中會消耗掉這顆馬鈴薯。\n* 手持附魔書並與圖書館員互動可教導其書中隨機的一種附魔。每位大師級圖書館員僅能執行一次。過程中會消耗掉這本書。\n* 修改特定職業的交易項目：\n    * 農民必定提供南瓜交易。\n    * 漁夫必定提供生鱈魚交易。\n    * 工具製作者必定提供鑽石鍬與鑽石鏟子的交易。\n* 所有功能皆可自行選擇啟用與否。\n\n### 設定：\n您可以編輯 Fabric 設定資料夾中的設定檔（`professional-villagers.ini`），修改後需重新啟動遊戲才能生效；亦可（可選）使用 [Mod Menu](https://modrinth.com/mod/modmenu) 在遊戲內調整選項。\n\n### 我的其他模組：\n* [Cleaner Menus](https://modrinth.com/mod/cleaner-menus)（客戶端）\n* [Unobtrusive Effects](https://modrinth.com/mod/unobtrusive-effects)（客戶端）\n* [A Minor Convenience](https://modrinth.com/mod/a-minor-convenience)（伺服器端）\n* [Game Tweaks](https://modrinth.com/mod/game-tweaks)（伺服器端）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

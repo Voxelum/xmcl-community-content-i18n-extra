@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28ded8b9cfda8736",
+  "content": "\n\n# 缺失纹理光影\n\n此光影会让游戏中所有的方块都显示为粉黑相间的缺失纹理。\n它还提供了自定义设置：\n- 粉色部分的 RGB 值\n- 太阳/月亮使用缺失纹理\n- 保留地形颜色\n- 保留原始颜色\n\n![默认设置截图](https://cdn.modrinth.com/data/Ub8oXxM5/images/f83d855f5a6f3ac155a2f427cab68a09fcea292f_350.webp)\n\n该光影应兼容所有版本的 OptiFine 和 Iris。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

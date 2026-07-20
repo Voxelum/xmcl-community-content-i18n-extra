@@ -1,0 +1,6 @@
+{
+  "bodyHash": "835f441bf239ef2f",
+  "content": "\n\n# 定位方尖碑\n\n![定位方尖碑模組圖示](https://cdn.modrinth.com/data/cached_images/a54a8981668c595fcad6bd497b763d10d5e18325.png)\n\n在玩家導航列中為背包內的每個方尖碑導航儀與復原導航儀新增航點。\n\n此模組完全在客戶端運作，無需安裝於伺服器上。\n\n如果導航儀的名稱中包含 RGB 色碼（例如名為「Home #00FF8F」的導航儀），\n它將使用該顏色作為航點的顯示顏色。\n否則，顏色會根據方尖碑的座標隨機決定。\n\n按住玩家列表鍵（預設為 TAB）時，可在列上方顯示導航儀的名稱（不含任何 RGB 色碼）。\n\n此模組也會檢查儲藏包，因此你可以將所有導航儀放入儲藏包中，功能依然正常運作。\n\n![導航列指向兩個方尖碑的截圖，一個較近，另一個較遠](https://cdn.modrinth.com/data/cached_images/5d1863982e86dc5cdc9a40fd5cbe84779f874f0a.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

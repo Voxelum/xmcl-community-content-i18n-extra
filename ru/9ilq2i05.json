@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0073af84171ffb2b",
+  "content": "\n\n# FirstJoinKit\n[![Скачать на Modrinth](https://img.shields.io/badge/Download-Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/firstjoinkit)\n## Обзор\nЭтот датапак выдает только что присоединившимся игрокам набор **стартовых инструментов**, включающий **все железные инструменты**, **железный меч** и **16 стейков**.\n\nFirstJoinKit делает **начало игры** в мире или на сервере **легче и интереснее**.\n\n## Настройка\n\nЧтобы настроить выдаваемые игрокам предметы, распакуйте датапак и перейдите по пути:\n\n`data/firstjoinkit/function/tick.mcfunction`\n\nОткройте файл и измените названия предметов в первой части кода, чтобы настроить стартовый набор.\n\nЧтобы добавить зачарования или компоненты предметов, следуйте этому руководству:  \n[Компоненты предметов — Minecraft Wiki](https://minecraft.wiki/w/Item_components)\n\n**Пример (зачарованный железный меч с Остротой V)**\n```\nexecute as @a[tag=!Joined] at @s run give @s iron_sword[enchantments={sharpness:5}]\n```\n## Скриншот при первом входе в новый мир \n![снимок экрана](https://cdn.modrinth.com/data/cached_images/c5329880646198f3e75011cb2c16bfd198b83f7f.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

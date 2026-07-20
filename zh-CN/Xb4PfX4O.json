@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ce90fa86fd536f1f",
+  "content": "\n\n# Eyelib\n\n_Minecraft_ 的渲染库。\n\n![Maven Central Version](https://img.shields.io/maven-central/v/io.github.tt432/eyelib)\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/TT432/eyelib)\n\n## 快速开始\n\n该库已发布至 Maven Central。\n\n```groovy\ndependencies {\n    implementation \"io.github.tt432:eyelib:${eyelib_version}\"\n}\n```\n\n## 依赖项\n\n- [Antlr-Molang](https://github.com/TT432/antlr-molang) 用于解析 Molang。\n- [jdk-classfile-backport](https://github.com/dmlloyd/jdk-classfile-backport) 用于生成 Molang 的字节码。\n- [lombok](https://projectlombok.org/) 用于生成 getter/setter 等辅助代码。\n- [Chin](https://github.com/TT432/chin) 提供工具类。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

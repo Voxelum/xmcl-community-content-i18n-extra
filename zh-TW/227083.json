@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1eccf7ef37c70111",
+  "content": "\n\n<p>Baubles 是一個小型的附加模組與 API，旨在供其他模組使用，為角色新增額外的物品欄欄位。</p>\n<div><img src=\"http://i.imgur.com/veuh8Uh.png\" alt=\"\" width=\"108\" height=\"74\"><br>它新增了 7&nbsp;個欄位：項鍊、腰帶、頭部、軀幹、護符以及兩個戒指欄位。按下 <strong>'b'</strong>&nbsp;快捷鍵即可開啟 Baubles 物品欄。如果您經常需要使用此功能，建議將原本的物品欄快捷鍵重新映射至 Baubles 物品欄。<br><br>本模組本身並未添加太多內容——它的定位是供其他模組使用的附加模組，我之所以加入了一個物品，純粹是為了給其他開發者提供範例。礦工戒指（Miners Ring）沒有合成配方，只能在創造模式中獲得。</div>\n<p>&nbsp;</p>\n<p>更多資訊與開發者版本請前往 <a href=\"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-1-0-0-updated-2014-1-6\" rel=\"nofollow\">主討論串</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

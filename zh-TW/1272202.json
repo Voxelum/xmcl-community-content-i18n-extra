@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fe7ed693e5070a55",
+  "content": "\n\n<p>另見：<a href=\"https://www.curseforge.com/minecraft-bedrock/addons/java-piston-spitting\" target=\"_blank\" rel=\"nofollow\">基岩版活塞方塊推動</a></p>\n<p>本模組僅修改具有區塊實體的方塊，使其能像<strong>基岩版&nbsp;</strong>那樣被活塞推動。這是透過複製被移動區塊實體的 NBT 資料來實現的。</p>\n<p>雖然已有<strong>Carpet Mod&nbsp;</strong>能達成相同功能，但問題在於該模組增加了大量功能並大幅修改遊戲，如果你只想要移動區塊實體（特別是於整合包環境中），這並非理想選擇。</p>\n<p>此外，本模組旨在模擬<strong>基岩版</strong>中可移動區塊實體的工作方式，而非 Carpet Mod 的實作邏輯。</p>\n<p><span style=\"text-decoration:underline\">機制：</span></p>\n<p>-熔爐會保留其烹煮時間與燃燒時間</p>\n<p>-講壇會保留其書籍</p>\n<p>-煉藥釜會保留剩餘燃料</p>\n<p>-支援 0 tick 速動機制</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_dd8699aa-9d3a-4067-8a31-d7f039c95855.gif\"></p>\n<p><span style=\"text-decoration:underline\">相容性：</span></p>\n<p>-任何能夠儲存 NBT 資料的模組方塊（絕大多數都支援，如果你的模組方塊無法儲存，那就是該方塊的問題了）</p>\n<p>-新增方塊標籤：#movable-tile-entities:pistons_cannot_move，此為 #c:relocation_not_supported 與 #forge:relocation_not_supported 的擴展版本，並將基岩版中通常無法移動的方塊加入列表中。</p>\n<p><span style=\"text-decoration:underline\">不相容項目：</span></p>\n<p>-任何列於 #c:relocation_not_supported 或 #forge:relocation_not_supported 中的方塊，因為這些方塊是刻意設計為無法移動的。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

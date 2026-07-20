@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2b314b651c4cc4a1",
+  "content": "\n\n# 村民貨幣\n\n可將任何物品設為村民交易的貨幣。\n預設為**綠寶石**（原版行為）。\n想讓村民交易**金錠**？**鑽石**？**餅乾**嗎？你完全可以做到。\n\n## 如何更改貨幣\n你可以在遊戲內或透過設定檔來更改貨幣。\n\n**遊戲內：**\n執行指令：\n`/villagercoin set <item_id>`\n範例：`/villagercoin set minecraft:diamond`\n\n**設定檔：**\n編輯 `config/villager_coin.json` 並修改 `currencyItem`。\n\n## 指令\n- `/villagercoin set <item>` - 設定貨幣。\n- `/villagercoin reload` - 重新載入設定檔（立即更新村民）。\n- `/villagercoin info` - 查看目前使用的貨幣。\n\n### 安裝\n\n可作為伺服器端模組或單人遊戲模組運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7cfd4cff1f76a4a",
+  "content": "\n\n<p>這是一款 Minecraft 模組，若物品共用一組標籤中的某項標籤，則允許它們在背包中進行堆疊。進行堆疊時，只需手持與目標物品共用標籤白名單的另一種物品並點擊目標物品，這兩個堆疊就會合併為一個。</p>\n<p>預設情況下，此模組支援所有帶有 <code>ingots/</code>、<code>nuggets/</code>、<code>storage_blocks/</code>、<code>raw_materials/</code>、<code>gems/</code> 或 <code>dusts/</code> 前綴的通用標籤，以及數個模組專屬標籤。您可以透過設定檔新增更多標籤，同時也能將具有該前綴但不應視為等效的特定標籤列入黑名單。</p>\n<p>為了方便玩家發現此機制，當您手持物品時，所有被視為等效的物品旁都會顯示綠色箭頭圖示，提示您可以將它們堆疊。您也可以透過 JEI 查看所有讓物品產生等效關聯的標籤。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

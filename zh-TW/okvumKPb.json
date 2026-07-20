@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33056a046d97497e",
+  "content": "\n\n# Farm Tweaks\nFarm Tweaks 是一款 Fabric 模組，透過新增完全為伺服器端運作的便利性功能與改進，來提升原版 Minecraft 的農耕體驗。\n\n**需要 [MidnightLib](https://modrinth.com/mod/midnightlib)**\n\n## 功能\n- * 樹葉現在會更快消失\n- * 使用特定工具與作物互動時，會同時將其破壞並重新播種\n- * 作物有機率掉落經驗球\n- * 現在可使用發射器種植作物\n- * 種子現在可用來恢復草地，且每個泥土方塊會生成不同類型的草\n- * 耕地不再會被實體踩踏變回泥土\n- * 現在可使用骨粉讓更多方塊生長或複製，例如甘蔗和小花\n- * 當上方有方塊時，現在更容易製作土徑\n- 菌絲土和灰化土現在可被耕作\n- 橡木樹苗在沼澤生物群系現在會生長為沼澤橡樹\n\n*可在設定檔／透過數據包進行修改\n\n## 建議 / 問題回報\n有任何建議或發現了錯誤嗎？請[加入我們的 Discord](https://discord.gg/Dmp2dbyNrs) 或[在我們的 GitHub 建立議題](https://github.com/Now-this-is-crazy/FarmTweaks/issues)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

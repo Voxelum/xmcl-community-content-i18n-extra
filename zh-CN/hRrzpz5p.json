@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cbadcd4b97ee7404",
+  "content": "\n\n![Logo](https://i.imgur.com/q2FAXqT.png)\n\nTransfer Labels 是一款允许你在彼此紧邻的方块之间传输物品/流体的模组。\n\n### 工作原理：\n\n*   你可以潜行右键点击方块来放置标签\n*   手持标签右键点击已放置的标签即可与其交互\n*   手持标签时左键点击已放置的标签即可移除它\n\n你可以通过方块使用标签访问器来访问标签\n\n### 过滤功能：\n\n打开标签界面时，你可以使用多种过滤类型进行筛选，例如调节、精确数量、模组和标签。\n\n对于需要设置数量的过滤项，你可以按住 Shift/Alt/Ctrl 以及它们的任意组合键的同时滚动鼠标滚轮来调整数值。\n\n### 加速功能：\n\n你可以在数量槽或速度槽中添加相同物品的标签来实现加速。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/VHuVtUBuSAE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

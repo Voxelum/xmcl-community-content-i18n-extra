@@ -1,6 +1,6 @@
 {
-  "bodyHash": "t+hFTUEZuAw=",
-  "content": "修复了由TerraBlender注入其表面规则引起的一个性能问题\n（这本质上是一个hack，预计会与某些模组产生问题）\n\n注意：\n如果你使用Regions Unexplored，你必须使用v0.5.6+，否则某些生物群系将会有错误的表面\n\nNature's Spirit目前不兼容\n\n![2000区块半径的性能差异](https://cdn.modrinth.com/data/cached_images/8a4b018a35b16d038c51a7815b6e4d95868581c1.png)",
+  "bodyHash": "b609ed35c133bdd8",
+  "content": "\n\n修复了因 TerraBlender 注入其地表规则的方式而导致的性能问题\n（这本质上是一种变通方案，预计可能会与部分模组产生冲突）\n\n注意：\n如果你安装了 Regions Unexplored，必须使用 v0.5.6+，否则某些生物群系的地表将不正确\n\nNature's Spirit 目前不兼容\n\n![2000 区块半径下的性能差异](https://cdn.modrinth.com/data/cached_images/8a4b018a35b16d038c51a7815b6e4d95868581c1.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

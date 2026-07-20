@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bda2fd940bdbcb8d",
+  "content": "\n\n# Better Ping Display+\n\n一款用於 Minecraft 的 [Fabric](https://fabricmc.net/) 模組，旨在為 [vladmarica](https://modrinth.com/user/vladmarica) 開發的 [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) 增添改進功能。\n\n這是一款僅限客戶端的模組。伺服器無須安裝此模組即可運作，即使在原版伺服器上也能正常顯示。\n\n## 功能\n目前這個擴充模組僅有一個功能：將未回報的延遲（0ms）顯示為指定的佔位符，預設值為 `N/A`。這適用於剛加入遊戲尚未回報延遲的玩家，或在 Geyser 伺服器上的 Bedrock 版玩家。\n\n## 設定\n本模組的設定檔為 `better-ping-display-plus.json`，包含以下選項：\n\n| 選項  | 預設值  | 說明  |\n|---|---|---|\n| nullPingPlaceholder  | `N/A` | 延遲為 0ms 時顯示的佔位符。 |\n| nullPingPlaceholderColor  | `gray` | 該佔位符的顯示顏色。 |\n\n若已安裝 [Mod Menu](https://modrinth.com/mod/modmenu) 與 [YACL](https://modrinth.com/mod/yacl)，本模組亦支援在遊戲內進行設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

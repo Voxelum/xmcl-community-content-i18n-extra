@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e11ddb66d4a2722",
+  "content": "\n\n<details>\n\n<summary>RU</summary>\n\n这是 NoShader。它的运行方式相当奇特……它会让 Minecraft 以为你启用了着色器，但实际上它只是一个空对象。 \n画面效果会发生变化，但不会大幅降低帧率。\n\n请注意，该着色器基于非常不稳定的“机制”，即加载器对空文件的反应。我无法修复任何可能或现有的问题，因为这样做违背了项目的初衷。\n\nP.S. 这可能是你今天见过的 Modrinth 上最无厘头的项目了 :)\n</details>\n<details open=true>\n\n<summary>EN</summary>\n\n这是 NoShader。它的运作方式相当奇特……它会让 Minecraft 以为你启用了着色器，但实际上它只是一个空对象。 \n画面效果会发生变化，但不会大幅降低帧率。\n\n请注意，该着色器基于非常不稳定的“机制”，即加载器对空文件的反应。我无法修复任何可能或现有的问题，因为这样做违背了项目的初衷。\n\nP.S. 这可能是你今天见过的 Modrinth 上最无厘头的项目了 :)\n</details>\n\n**如果英文版的描述读起来有些生硬，敬请谅解，我使用了翻译软件。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

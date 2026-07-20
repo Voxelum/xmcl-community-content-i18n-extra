@@ -1,0 +1,6 @@
+{
+  "bodyHash": "172dd330d3cb871c",
+  "content": "\n\n<h1>All The Trims</h1>\n<h3>確實包含所有</h3>\n<img width=\"1770\" alt=\"Screenshot 2023-06-16 at 1 07 23 PM\" src=\"https://github.com/Benjamin-Norton/AllTheTrims/assets/18416784/7136a098-2701-4520-b0d6-e1c93e2f16bb\">\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fallthetrims\" rel=\"nofollow\"><img src=\"https://img.shields.io/modrinth/dt/allthetrims?color=00AF5C&label=downloads&logo=modrinth\" alt=\"Modrinth\"></a>\n<a href=\"https://curseforge.com/minecraft/mc-mods/all-the-trims\" rel=\"nofollow\"><img src=\"https://cf.way2muchnoise.eu/full_876154_downloads.svg\" alt=\"CurseForge\"></a></p>\n<h2>功能：</h2>\n<ul>\n<li>允許任何物品（包含模組新增物品）作為盔甲紋飾材質。</li>\n<li>使所有盔甲皆可添加紋飾，包含模組新增的盔甲。</li>\n<li>支援來自數據包或模組的自訂紋飾模板。</li>\n<li>動態紋飾渲染：\n<ul>\n<li>所有紋飾均採動態渲染，因此不會佔用紋理圖集空間。</li>\n<li>紋飾顏色基於從物品紋理中最鮮豔到最暗淡的色彩所生成的漸層色調。</li>\n</ul>\n</li>\n<li>無需額外檔案或設定，只需將模組放入 mods 資料夾即可。</li>\n</ul>\n<h3>備註：</h3>\n<ul>\n<li>僅在原版遊戲中，此模組就新增了超過 500,000 種盔甲紋飾組合；若搭配數個盔甲與內容模組，該數字更會突破百萬，且對載入時間的影響微乎其微。</li>\n</ul>\n<h3>致謝：</h3>\n<ul>\n<li><a href=\"https://github.com/Andrew6rant\" rel=\"nofollow\">Andrew6rant</a> 負責物品模型著色功能。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

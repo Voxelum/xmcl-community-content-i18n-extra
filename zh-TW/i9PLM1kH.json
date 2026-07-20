@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8401a071549cd94a",
+  "content": "\n\n# VulkanBobby\n\n為 Minecraft 1.21.* 打造的 **[VulkanMod](https://modrinth.com/mod/vulkanmod)** 與 **[Bobby](https://modrinth.com/mod/bobby)** 輕量相容層。  \n讓 VulkanMod 能持續顯示 Bobby 快取的（虛構）區塊。\n\n![Screenshot](https://cdn.modrinth.com/data/cached_images/e0075caf6ad94a4bd073aa8f92dff020ab1382a1.jpeg)\n\n## 需求\n- Bobby **5.2.\\***、VulkanMod **0.5.\\***\n- Cloth Config 與 Mod Menu — 用於在遊戲內調整 Bobby 的渲染距離。\n\n## 說明\n\n將 Bobby 與 VulkanMod 搭配本模組使用，可實現類似 Distant Horizons 及其他延伸視距模組的擴展渲染距離。\n\n若對 VulkanMod 與 Bobby 搭配本模組的使用方式有任何疑問，請至 [**GitHub Issues 區段**](https://github.com/arturidzze/VulkanBobby/issues) 提出回報。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

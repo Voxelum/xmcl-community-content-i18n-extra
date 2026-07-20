@@ -1,6 +1,6 @@
 {
-  "bodyHash": "C8t6LSgMB+s=",
-  "content": "<h1><span style=\"font-size:36px\">热键栏扩展</span></h1><p><span style=\"font-size:14px\">如标题所述。</span></p><p><span style=\"font-size:14px\">热键栏会根据你的屏幕宽度（以及GUI缩放）自动扩展。</span></p><hr><p><span style=\"font-size:14px\">滚动时按住Shift键，可进行更大的（取决于当前栏位数量）步进切换。</span></p><p><span style=\"font-size:14px\">滚动时按住Ctrl键（疾跑键），可进行9格步进切换。</span></p>",
+  "bodyHash": "a35bbd42a682d9fb",
+  "content": "\n\n<h1><span style=\"font-size:36px\">HotBaaar</span></h1>\n<p><span style=\"font-size:14px\">正如其名。</span></p>\n<p><span style=\"font-size:14px\">快捷栏会根据您的屏幕宽度（及GUI缩放）自动扩展。</span></p>\n<hr>\n<p><span style=\"font-size:14px\">滚动时按住Shift键可获得更大的滑动步长（具体取决于当前快捷栏的容量）。</span></p>\n<p><span style=\"font-size:14px\">滚动时按住Ctrl键（疾跑）可一次滑动9个格子。</span></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

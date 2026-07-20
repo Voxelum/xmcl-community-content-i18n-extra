@@ -1,0 +1,6 @@
+{
+  "bodyHash": "149834df46135f11",
+  "content": "\n\n<p><strong><span>物理刀 &mdash; Create: Aeronautics 的精准子层级切片工具</span></strong></p>\n<p><span>本模组为&nbsp;</span><strong><span>Create: Aeronautics</span></strong><span>&nbsp;引入了一款专用的&nbsp;</span><strong><span>物理刀</span></strong><span>，赋予玩家直接控制物理结构边界的权限：</span></p>\n<ul>\n<li>\n<p><strong><span>点击区域切片</span></strong><span>&nbsp;&mdash; 右键点击两个角，即可将方块瞬间隔离到新的模拟子层级中，无论是从主世界还是现有物理结构内部均可操作。</span></p>\n</li>\n<li>\n<p><strong><span>多区域批量操作</span></strong><span>&nbsp;&mdash; 选择多个矩形区域并按下回车键即可一次性执行，无需手动断开连接即可实现复杂的不规则切割。</span></p>\n</li>\n<li>\n<p><strong><span>智能边界检测</span></strong><span>&nbsp;&mdash; 自动识别你当前目标是主世界方块还是子层级内的方块，并针对每种情况应用正确的分割逻辑。</span></p>\n</li>\n<li>\n<p><strong><span>可视化选择覆盖层</span></strong><span>&nbsp;&mdash; 利用 Create 的 Outliner 系统实时渲染方块框，以不同颜色显示当前和已确认的选择范围，让你始终清楚即将切割的区域。</span></p>\n</li>\n<li>\n<p><strong><span>内置安全限制</span></strong><span>&nbsp;&mdash; 对角线距离与体积检查可防止误选过大区域或过远结构，有效避免游戏崩溃与卡顿。</span></p>\n</li>\n<li>\n<p><strong><span>沉浸式整合</span></strong><span>&nbsp;&mdash; 包含可制作配方、自定义工具模型，并通过 Sable 的热图分割 API 与 Create 的机械系统无缝兼容。</span></p>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

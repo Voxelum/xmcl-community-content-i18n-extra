@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8435629db52ef4e4",
+  "content": "\n\n## 啟用使用粗金塊作為信標底座。同時啟用將粗金用作信標燃料。\n\n### 使用模組版本時的安裝資訊：\n它們的功能與資料包完全相同，但會套用於所有建立或啟用了此模組的世界。如果您不希望套用於所有世界，請改用資料包。\n\n**Forge**：\n<br>無需任何前置模組，只需將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 包含曾建議加入 Purpur 的功能——或是符合 Purpur 主題的功能，但經評估後認為以資料包形式呈現會更為合適！ \n<br>這些資料包的功能等同於在 Purpur 中設定單一配置選項。您可以隨時新增或移除它們，且不會對伺服器造成損害。\n<br>這些功能在原版 Minecraft 中同樣可用，您無需執行 Purpur 伺服器即可使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

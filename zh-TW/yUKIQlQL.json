@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a238d359aaad552b",
+  "content": "\n\n![Header](https://media.forgecdn.net/attachments/description/null/description_99355de0-bd94-4911-94f0-ab95a3bbfe90.png)\n\n&nbsp;\n\n![Decoration](https://media.forgecdn.net/attachments/description/null/description_8489b318-6a75-410f-bf02-88c1d4fe19f3.png)\n![mainbanner](https://cdn.modrinth.com/data/cached_images/158e7c87f38a296cd7398fbf6c41b8d11e521c67_0.webp)\n\n![Separator](https://media.forgecdn.net/attachments/description/null/description_886ae711-c1d7-4e72-916b-274984eb0cf2.png)\n\n*NeoForge 的心理恐怖框架*\n\n---\n\n《靈魂之影》並非典型的怪物模組。它是一套以系統為驅動的恐怖體驗，透過複雜的**恐懼值**機制追蹤玩家的心理狀態。環境會對你的驚恐做出反應，讓黑暗成為你最強大的敵人。\n\n### 核心機制\n\n* **動態恐懼系統：** 在黑暗中、極深處或受傷時，你的恐懼值會上升。站在明亮的燈光下是你恢復的唯一方法。\n* **窺視者：** 當你恐懼值過高時，會在你身後生成的邪惡實體。它會從陰影中觀察你，而一旦你試圖正面迎擊，它就會瞬間消失。\n* **環境破壞：** 恐懼值達到高位時，陰影將變得具攻擊性，主動熄滅你周圍的火把與光源。\n* **聽覺幻覺：** 隨著理智流失，你會聽到局部的低語、虛幻的洞穴聲響以及加速的心跳聲。\n* **輾轉難眠：** 高恐懼等級會讓你無法入睡。對未知的恐懼將使你保持清醒，迫使你必须手動熬過夜晚。\n\n---\n\n### 技術規格\n\n| 功能 | 觸發閾值 |\n| :--- | :--- |\n| 環境低語 | 50% 恐懼值 |\n| 窺視者顯現 | 55% 恐懼值 |\n| 失眠與噩夢 | 60% 恐懼值 |\n| 可聽見的心跳 | 70% 恐懼值 |\n| 視覺恐慌條 | 可透過 /fear 指令設定 |\n\n<br>\n\n**指令：**\n* `/fear set [0-100]` - 設定你目前的恐懼值（僅限 OP）\n* `/fear togglebar` - 切換視覺恐懼指示器\n\n---\n\n**警告：本模組旨在營造極度壓抑的氛圍與心理不適感。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

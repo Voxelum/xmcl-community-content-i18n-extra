@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5718cec20c034542",
+  "content": "\n\nStellar View 能稍微提升天空的視覺效果，同時保留原版的風格。\n\n本模組僅供客戶端使用，**不需要**安裝於伺服器即可運作。這也表示它**不會**對伺服器端的任何實際內容造成改變，所有調整純粹僅限視覺效果。\n\n若您打算搭配任何光影包使用本模組，請務必將 ***Static Sky*** 設定選項設為 *True*！！！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/_zaoVZdIJbk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**目前功能**\n\n- **銀河系**\n- **增亮星光**\n- **月亮獨立移動**\n- **光線干擾（靠近光源時，星星會變暗）**\n- **依位置調整天空旋轉**\n- **超新星**\n- **流星**\n- **流星雨**\n- **支援自訂天空盒**\n- **行星與行星視逆行現象**\n- **可作為其他模組的依賴項使用**\n\n \n\n**未來規劃功能**\n\n- **天空事件（極光、彗星）**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

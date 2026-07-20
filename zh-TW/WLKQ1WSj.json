@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71e3431323c48431",
+  "content": "\n\n## 🤵‍♂️ 原版 NPC（1.21.9+）\n利用全新的模特架功能，輕鬆在 Minecraft 中建立屬於自己的 NPC！完全不需要指令知識！\n\n**使用方法：** 按下 ESC 或開啟快速選項選單（預設快捷鍵為 G），或使用以下指令：```/function vanillanpc:menu``` 即可開啟主選單。\n\n\n![手持道具的 NPC](https://cdn.modrinth.com/data/cached_images/0033cba5b5f61814914afefcd5b21906675c18e0.jpeg)\n\n![選單：](https://cdn.modrinth.com/data/cached_images/b837af33f490065150582903e741ba5b2d645a4f_0.webp)\n\n![自訂 NPC](https://cdn.modrinth.com/data/cached_images/c72f0ca1f3459bfe9d485437243f8a8233102be3.png)\n\n## 📚 如何安裝資料包\n### 👤 單人遊戲\n將下載的 .zip 檔案拖曳至 ```\"\\.minecraft\\saves\\YOURWORLD\\datapacks\"``` 資料夾中。\n接著進入你的世界。你可以透過執行 /datapack list 來確認資料包是否已啟用。\n### 👥 多人遊戲（伺服器）\n將下載的 .zip 檔案拖曳至資料包資料夾中，該資料夾位於預設的 \"world\" 資料夾內。\n接著加入你的伺服器。你可以透過執行 /datapack list 來確認資料包是否已啟用。\n\n好好享受吧！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

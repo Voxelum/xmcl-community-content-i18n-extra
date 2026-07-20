@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fe2cea9b811ce63b",
+  "content": "\n\n<h2>創意模式一拳超人</h2>\n<p>在創意模式中，只要手中未持有武器，即可一擊秒殺任何實體。</p>\n<p><img src=\"https://raw.githubusercontent.com/Fourmisain/CreativeOnePunch/1.17/BHuehD2.png\" width=\"1125\" height=\"633\"></p>\n<p>精美的 Logo 由 <a href=\"https://github.com/oliwoli\" rel=\"nofollow\">@oliwoli</a> 設計，非常感謝！</p>\n<ul>\n<li>支援 Fabric 所支援的<em>所有</em> Minecraft 版本，從 1.14 到至少 <del>1.18</del> <del>1.19</del> <del>1.20</del> <del>1.21</del>&nbsp;26.1</li>\n<li>需要 Fabric Loader 0.12 以上版本</li>\n<li>僅限伺服器端使用</li>\n</ul>\n<p>自 1.8 版本起，現提供 <code>creativeonepunch.json</code> 設定檔，包含：<br> <code>damage</code>：造成的傷害值，預設為 9999<br> <code>forceKill</code>：繞過所有無敵狀態檢查，預設為 <code>false</code><br> <code>requireSneak</code>：是否僅在蹲下時才能使用一拳技能，預設為 <code>false</code></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252ffourmisain\" rel=\"nofollow\"><img src=\"https://cdn.ko-fi.com/cdn/kofi1.png?v=2\" alt=\"在 ko-fi.com 贊助作者\" width=\"143\" height=\"36\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "21442a80e2f7fb12",
+  "content": "\n\n<h1>局域网管理员</h1>\n<p>本模组为单人游戏世界添加了 <strong>/op</strong> 和 <strong>/deop</strong> 指令，当世界已“对局域网开放”时可生效使用。</p>\n<h2>安装说明</h2>\n<p>仅需房主安装此模组即可。</p>\n<ol>\n<li>访问 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252fuse%252finstaller%252f\" rel=\"nofollow\">FabricMC 官网</a> 并下载最新版的安装器</li>\n<li>运行该 JAR 文件，会弹出窗口。选择正确的 Minecraft 版本和加载器，然后点击 &quot;Install&quot;。</li>\n<li>启动器菜单中将创建一个新的游戏版本和配置文件，你现在可以使用它来启动 Fabric。</li>\n<li>前往 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" rel=\"nofollow\">Modrinth</a> 或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Curseforge</a> 下载 Fabric API。</li>\n<li>将 Fabric API 的 JAR 文件和 LAN Operators 的 JAR 文件放入你的 &quot;mods&quot; 文件夹中</li>\n<li>运行步骤 3 中新安装的配置文件</li>\n</ol>\n<h2>有什么用？</h2>\n<p>如果你想将创造模式世界对局域网开放，但又担心陌生人加入后恶意破坏，你可以使用此模组仅给特定玩家授予使用指令的特殊权限。\n本模组是我另一个模组 Ngrok LAN（<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fngrok-lan\" rel=\"nofollow\">Modrinth</a>，<a href=\"https://www.curseforge.com/minecraft/mc-mods/ngrok-lan\" rel=\"nofollow\">Curseforge</a>）中的一个功能，用于将你的单人游戏世界作为服务器开启。如果你已安装 Ngrok LAN，则无需使用此模组。</p>\n<h2>许可证</h2>\n<p>本模组采用 MIT 许可证发布。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

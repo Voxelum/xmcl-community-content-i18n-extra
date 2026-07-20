@@ -1,0 +1,6 @@
+{
+  "bodyHash": "66dc78ae29a267ca",
+  "content": "\n\n# Polymer - 生活品質\n\n這是一個客戶端與伺服器模組，為使用 [PolyMc](https://github.com/TheEpicBlock/PolyMc) 和 [polymer](https://github.com/Patbox/polymer) 提供伺服器的玩家提供多項生活品質改進。此模組必須同時安裝於客戶端與伺服器才能運作！\n\n## 改進項目\n\n### 客戶端開採\n\n若在伺服器設定中啟用 `client_mining`，則安裝 polymer-qol 的玩家將停用 PolyMC 和 polymer 伺服器的伺服器端開採機制。客戶端會利用 polymer 的區塊同步功能來計算模組方塊的破壞時間，並在客戶端進行運算。這能讓方塊破壞過程更流暢 *(特別是在高延遲情況下非常有用)*。\n\n![laggy server side mining](https://i.imgur.com/sWnbpYb.gif)\n\n### 無區塊更新\n\n當客戶端安裝了 polymer-qol 時，破壞和放置方塊將不會在客戶端觸發區塊更新，從而移除視覺上令人分心的錯誤區塊 *(特別是在高延遲情況下非常有用)*。\n\n![incorrect block updates](https://i.imgur.com/jUa9upN.gif)\n\n### 防止揮動手臂\n\n若在伺服器設定中啟用 `prevent_swing`，安裝 polymer-qol 的玩家在與假音階方塊（通常用於模擬模組方塊）互動時，將不會揮動手臂。\n\n![arm is swinging](https://i.imgur.com/2l421Rm.gif)\n\n## 伺服器設定檔\n\n伺服器設定檔位於 `config/polymer-qol-server.json`，伺服器管理員可藉此停用特定功能。\n\n```json\n{\n  \"_c0\": \"允許安裝 polymer-qol 的客戶端在本地進行方塊開採\",\n  \"client_mining\": true,\n  \"_c1\": \"防止安裝 polymer-qol 的客戶端在與假音階方塊互動時揮動手臂\",\n  \"prevent_swing\": true\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

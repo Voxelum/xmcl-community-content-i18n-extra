@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3056dd2ef8d0ea4a",
+  "content": "\n\n<div>\n<p>Lighty 不採用在方塊頂面渲染叉號或數字的方式，而是採取不同的做法——它在上方渲染一個透明的地毯狀方塊！同時亦包含顯示數字或叉號的模式！</p>\n<p>&nbsp;</p>\n<h2>設定</h2>\n<ul>\n<li>要啟用覆蓋顯示，請按下 <code>F7</code> 並選擇所需模式。此快捷鍵可在快捷鍵設定選單中自訂。</li>\n<li>您可以使用 <code>F8</code> 快速切換光線覆蓋層的開關！此快捷鍵可在快捷鍵設定選單中自訂。</li>\n<li>您可以在設定選單（透過 <code>F7</code> 進入）中調整「紅色」/「橘色」的閾值。這對於希望以美觀方式照明區域的玩家很有用，或者您可能正在遊玩修改了生物生成規則的模組。</li>\n</ul>\n<p>&nbsp;</p>\n<h2>顏色意義：</h2>\n<ul>\n<li>綠色：此處不會生成生物！</li>\n<li>橘色：太陽下山後將生成生物！請謹慎！</li>\n<li>紅色：此處可生成生物！</li>\n</ul>\n<p>&nbsp;</p>\n<p>如果您對本模組有任何想法，歡迎開啟 <a href=\"/linkout?remoteUrl=https%253a%252f%252fcodeberg.org%252fSchmarrnDevs%252fLighty\" target=\"_blank\" rel=\"nofollow\">新的 Codeberg Issue</a>！</p>\n<p>如果您喜歡這個模組，歡迎追蹤專案以獲取新版本的更新通知！</p>\n<p>&nbsp;</p>\n<p>本模組的靈感來自 <a href=\"https://github.com/Parzivail-Modding-Team/LightLevel\" rel=\"nofollow\">LightLevel</a>。</p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

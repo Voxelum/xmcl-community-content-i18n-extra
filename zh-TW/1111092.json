@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a0c79d0e7a33773a",
+  "content": "\n\n<p>此模组是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning-blood-magic-addon\" target=\"_blank\" rel=\"nofollow\">Deep Mob Learning: Blood Magic Addon</a> 的精神續作，主要新增了一個方塊：虛擬獻祭者。</p>\n<p><span style=\"color:#e03e2d\">在從 1.0.1 更新至 1.0.2+ 之前，請使用轉換檔案並移除所有已棄用的物品／方塊。您必須先以轉換模組啟動遊戲，轉換所有物品後，才能安裝 1.0.2+ 版本。</span></p>\n<p>當此方塊連接至血祭壇時，會消耗能量並產生血質，但前提是必須插入模型。</p>\n<p><br>模型的類型決定了消耗的能量與產生的血質數量。階級也會影響血質產量，但不會影響能量消耗。</p>\n<p><br>虛擬獻祭者同樣支援催化劑，這些物品能在一定次數的操作中提升血質產量。另一項支援的加成來自祭壇結構中放置的獻祭符文數量。</p>\n<p>此模组中的幾乎所有內容皆可自訂設定，包含機器運轉速度、模型的能量與血質參數、催化劑效果，以及各階級所提供的加成。</p>\n<p>&nbsp;<br>所有設定檔均可於共用設定資料夾中找到。</p>\n<p>自 1.1.0+ 版本起，模型與催化劑的設定已移至配方，必須透過資料包進行修改。</p>\n<p>此模组也內建了用於模型與催化劑的 JEI 擴充功能。</p>\n<p>完整致謝：感謝原始模组提供構想、Blood Magic 團隊提供血球與獻祭符文貼圖，以及 Hostile Neural Network 團隊提供大部分資源素材，包括但不限於：<br>- 原始 Logo<br>- 機器模型與貼圖<br>- GUI 介面貼圖（作為本模组貼圖的基礎）</p>\n<p><span style=\"color:#e03e2d\">請勿詢問其他版本的移植事宜。若您需要其他版本，請耐心等待或自行製作。</span></p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

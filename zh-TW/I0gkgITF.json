@@ -1,0 +1,6 @@
+{
+  "bodyHash": "734401f6b0136c99",
+  "content": "和平怪物模组允许在世界的难度设置为“和平”时，生成僵尸、骷髅、蜘蛛等敌对生物。这是通过 SpongePowered 的 Mixins 修改 Minecraft 原版代码中的某些值来实现的。\n\n一些示例包括：\n\n- 重定向刷怪笼检查的难度设置，使其永远不会是“和平”，从而始终启用\n- 注入到生物和怪物使用的近战攻击目标中，禁止在“和平”模式下进行攻击",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

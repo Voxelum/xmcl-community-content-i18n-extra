@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Huh4+ETxmV0=",
-  "content": "允許你按一下按鍵（預設：b）就能看見屏障方塊。此模組可用於單人模式，也允許沒有安裝此模組的其他玩家加入遊戲。屏障方塊會像玻璃一樣，你看不到它的背面，並且它們會彼此遮擋，因此你可以輕鬆看穿多個方塊厚的屏障牆。\n\n你可以在資源包路徑 **visual_barriers:textures/block/barrier** 將屏障材質變更為你更熟悉的樣式。\n\n## 展示\n![顯示屏障方塊](https://cdn.modrinth.com/data/nxrRNRFK/images/c347465c57df305811dd7f82b8382d4d0b2c3538.png)",
+  "bodyHash": "8ea25b4ad232adb7",
+  "content": "\n\n只需按下按鈕（預設為 b），即可看見屏障方塊。此模組可在單人遊戲中使用，並允許未安裝此模組的其他玩家加入。屏障的顯示方式會像玻璃一樣，你無法看到其背面，且多個屏障會進行剔除處理，讓你能輕鬆看透由多個方塊厚度組成的屏障牆。 \n\n你可以前往資源包路徑，將屏障的貼圖更換為更熟悉的樣式：**visual_barriers:textures/block/barrier**\n\n## 展示\n![顯示屏障方塊](https://cdn.modrinth.com/data/nxrRNRFK/images/c347465c57df305811dd7f82b8382d4d0b2c3538.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

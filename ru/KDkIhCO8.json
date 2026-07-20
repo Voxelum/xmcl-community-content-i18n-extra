@@ -1,0 +1,6 @@
+{
+  "bodyHash": "712ddcbbf7e74711",
+  "content": "\n\nЭто мод, который добавляет простую команду /playsound. Вы можете изменять высоту тона звука, который хотите воспроизвести.\n/playsound <sound> [<pitch>] [<volume>] [<looping>]\nЧтобы зациклить звук, установите true в параметре [<looping>].",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

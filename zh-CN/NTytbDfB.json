@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5eb0fd7574fbdd00",
+  "content": "\n\n## ✅ 功能特性\n- **高效**地将 UUID 转换为十六进制格式\n- 通过依赖预计算的十六进制范围（`0000-FFFF`）来优化速度，但会增加静态数据的占用\n\n## 📖 使用方法\n将 `uuid:_` 函数作为实体调用，并将其输出用于 `storage uuid:out plain`\\\n或者，将包含四个整数的数组赋值给 `storage uuid:in UUID`，然后调用 `uuid:convert` 函数进行格式化。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

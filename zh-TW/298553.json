@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5ee87955d5e6cd31",
+  "content": "\n\n<p>此模組允許設定生命值恢復的速度、消耗的飢餓值數量，以及恢復生命值所需的最低飢餓值。</p>\n<p>&nbsp;</p>\n<p>預設情況下，恢復速度會還原至戰鬥更新前的數值：每 4 秒恢復 1 點生命值。</p>\n<p>&nbsp;</p>\n<p>此模組僅在伺服器端需要安裝。</p>\n<p>&nbsp;</p>\n<p>請注意，原版生命值恢復功能已透過遊戲規則「naturalRegeneration」停用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

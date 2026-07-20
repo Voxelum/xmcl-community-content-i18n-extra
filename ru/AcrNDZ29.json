@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c78e74aaac61157c",
+  "content": "# VSS-backport\n\nVSS-backport основан на https://modrinth.com/plugin/voxy-server-side с незначительными изменениями для поддержки версии 1.21.1\n\nVSS-backport позволяет серверам совместно использовать чанки Voxy между клиентами, у которых установлен мод Voxy, поэтому игрокам не нужно исследовать мир, чтобы увидеть отдалённые чанки\n\n## Руководство по настройке\n\n### Клиент\n\n- Установите Voxy и voxy-server-side-fabric.jar в директорию mods/.\n- Конфигурационный файл будет создан по пути config/vss-client-config.json.\n\n### Сервер на Fabric\n\n- Поместите voxy-server-side-fabric.jar в папку mods/ на сервере.\n- Перезапустите сервер для применения изменений.\n- Конфигурационный файл будет создан по пути config/vss-server-config.json.\n\n\nПожалуйста, отдайте все заслуги оригинальному разработчику voxy server side :)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

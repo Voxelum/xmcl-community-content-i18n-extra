@@ -1,0 +1,6 @@
+{
+  "bodyHash": "67333a33ad8b99c8",
+  "content": "\n\n這是 SimpleOres 的函式庫模組，目前仍持續維護所有 SimpleOres 的擴充模組。本模組內僅包含測試用的物品與方塊。\n\n對於 **Minecraft/Forge 1.16.3** 及之後的版本，Simple Ores 及其所有擴充模組**必須**安裝此模組。  \n對於 **Minecraft/Forge 1.14.4 至 1.16.1** 的版本，Simple Ores 及其所有擴充模組**不**需要（也無法使用）此模組。  \n對於 **Minecraft/Forge 1.12.2** 及更早的版本，Simple Ores 及其所有擴充模組**必須**安裝此模組。  \n\n請參閱 [Minecraft 論壇貼文](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279863-simpleores-2-by-alexndrthegr8st) 查看原始公告。\n\n針對 1.10.2/1.11.2 版本，**必須**安裝 McJty 的 CompatLayer 0.2.5 或更新版本。\n\nAlexndrthegr8st 的原始作品（涵蓋 Minecraft 1.8 的 Simple Ores/Simple Core 程式碼，最高至 SimpleCore 1.2.0）之授權條款如上開論壇討論串所述（需保留基本署名）。在獲得 Alexndrthegr8st 許可後，Sinhika 後續的衍生作品現已改用 LGPL 3.0 授權。各位整合包製作人儘管放心使用！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

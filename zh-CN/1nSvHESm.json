@@ -1,6 +1,6 @@
 {
-  "bodyHash": "7gYfFVPZWjc=",
-  "content": "一个为《灾变：魔典》中特定武器添加“Better Combat”功能的数据包，与《铁魔咒与魔典》内置的“Better Combat”兼容性相配合。\n\n- 除“灵魂火盆”和“伪瓦吉特法杖”外，所有法杖均采用与《铁魔咒与魔典》中“工匠手杖”相同的攻击模式\n- “灵魂火盆”和“伪瓦吉特法杖”使用单手长矛攻击模式\n- “地狱火熔炉”采用锤类武器攻击模式\n- “巨怪焰形剑”采用与《铁魔咒与魔典》中其他焰形剑（双手巨剑）相同的攻击模式\n\nBetter Combat 模组：\nhttps://modrinth.com/mod/better-combat\n\nCataclysm 模组：\nhttps://modrinth.com/mod/l_enders-cataclysm\n\nIron's Spells n' Spellbooks 模组：\nhttps://modrinth.com/mod/irons-spells-n-spellbooks\n\nCataclysm Spellbooks 模组：\nhttps://modrinth.com/mod/cataclysm-spellbooks",
+  "bodyHash": "1c8b224cd7db4bdf",
+  "content": "\n\n一个数据包，为部分 Cataclysm Spellbooks 武器添加了 Better Combat 功能，以配合 Iron's Spells n' Spellbooks 内置的 Better Combat 兼容性。\n\n- 除 Soul Brazier 和 Fake Wadjet's Staff 外，所有法杖均使用与 Iron's Spells n' Spellbooks 中 Artificer's Cane 相同的攻击模式\n- Soul Brazier 和 Fake Wadjet's Staff 使用单手长矛攻击模式\n- Hellfire Forge 使用锤子攻击模式\n- Monstrous Flamberge 使用与 Iron's Spells n' Spellbooks 中其他 Flamberge 相同的攻击模式（大剑）\n\nBetter Combat:\nhttps://modrinth.com/mod/better-combat\n\nCataclysm:\nhttps://modrinth.com/mod/l_enders-cataclysm\n\nIron's Spells n' Spellbooks:\nhttps://modrinth.com/mod/irons-spells-n-spellbooks\n\nCataclysm Spellbooks:\nhttps://modrinth.com/mod/cataclysm-spellbooks",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

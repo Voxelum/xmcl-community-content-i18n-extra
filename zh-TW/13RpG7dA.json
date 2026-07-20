@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d7de8c74fe59c5a9",
+  "content": "# Image2Map\n<img src=\"https://cdn.discordapp.com/attachments/705864145169416313/969720133998239794/fabric_supported.png\" width=\"128\">\n<img src=\"https://cdn.discordapp.com/attachments/705864145169416313/969716884482183208/quilt_supported.png\" width=\"128\">\n\n一款 Fabric 模组，允许你将图像渲染到地图（组）上，从而在兼容原版的服务器的地图上展示它！\n\n![一些图片](https://raw.githubusercontent.com/TheEssem/Image2Map/master/images.png)\n![更多图片](https://imgur.com/qy8JF5B.png)\n\n## 命令：\n- `/image2map create <宽度> <高度> <[抖动/无]> <URL>` - 使用提供的图像创建指定大小（像素为单位，单张地图为 128x128）的地图，可选择是否启用抖动效果\n- `/image2map create <[抖动/无]> <URL>` - 使用提供的图像创建地图，可选择是否启用抖动效果\n- `/image2map preview <URL>` - 在将地图保存为物品之前创建动态预览\n\n### 预览模式下的命令\n- `/dither <[抖动/无]>` - 更改抖动模式\n- `/size` - 显示当前尺寸\n- `/size <宽度> <高度>` - 将地图尺寸更改为指定大小（像素为单位，单张地图为 128x128）\n- `/grid` - 切换地图网格的可见性\n- `/save` - 退出预览并将地图保存为物品\n- `/exit` - 不保存并退出预览\n\n### 多地图\n对于大于 128x128 像素的地图，它们将以捆绑物的形式提供。\n用它在物品框的左上角点击，可以将所有地图放置在正确的位置。\n适用于墙壁、地板或天花板上的任何物品框。\n\n## 下载：\n- Modrinth: https://modrinth.com/mod/image2map\n- Curseforge: https://www.curseforge.com/minecraft/mc-mods/image2map\n\n\n你会把它移植到 Forge/Bukkit/Paper 吗？  \n   ![不啦](https://i.imgur.com/tf5W69k.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

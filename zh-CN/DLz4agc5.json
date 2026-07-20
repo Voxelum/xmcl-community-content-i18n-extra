@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7dd8c8ab7f01fbc1",
+  "content": "\n\n![Elemental Suits Logo](https://raw.githubusercontent.com/Dorcupi/ElementalSuits/660a8644177e365c53857e4e04433c524e97da1f/minecraft_title.png)\n\n# 元素套装\n\n当御术与护甲结合，战场由此开启。\n\n## 简介\n\n元素套装是一款数据包，添加了四套与四大元素相关的全新护甲。每套护甲都拥有独特的自定义能力，例如点燃附近的生物或将其完全冻结。穿戴部分护甲部件时，你还能获得专属增益效果，例如免疫击退。自由搭配组合，打造终极套装，与其他玩家一决高下，看看谁才是真正的御术大师！\n\n## 鸣谢\n\n - [MC-BUILD](https://mcbuild.dev/)\n - [WASD Build Team Tutorials](https://www.youtube.com/playlist?list=PLNB1p1xL6Y2JW0Tp3IuXxF6p3VxMHIO5t)\n\n\n## 安装方法\n\n1. 从 GitHub 下载 Elemental Suits 的最新版本\n\n2. 根据你的世界是已创建还是正在创建，执行以下操作之一\n- 如果你已经创建了世界，请进入你的世界目录（Windows 系统通常为 `%appdata%/.minecraft/saves/“世界名称”/`），然后找到 `datapacks` 文件夹。将 zip 文件放入该文件夹中，接着打开 Minecraft 并加载该世界。\n- 如果你正在创建新世界，请在顶部点击“更多”选项卡，然后选择“数据包”。上传数据包并启用它，之后即可打开世界\n\n如果一切设置正确，你应该会看到一条欢迎消息以及解释该数据包如何工作的标题提示！\n\n\n## 许可证\n\n[Elemental Suits](https://github.com/Dorcupi/ElementalSuits) © 2023 由 [Dorcupi](https://github.com/Dorcupi/) 出品，采用 [知识共享署名-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nd/4.0/?ref=chooser-v1) 授权。保留所有权利。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

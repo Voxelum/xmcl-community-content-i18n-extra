@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a35ba64128cbbec2",
+  "content": "\n\n## 撒旦的詛咒\n\n這個簡單的數據包可防止擁有遊戲模式權限的玩家進入創造模式或觀戰模式。\n您可以透過簡單的指令來指定哪些玩家可繞過此限制：\n/tag @a add Bypass_Of_Satan\n建議搭配 LuckPerms 使用，以阻止玩家自行授予該標籤\n\n<center>\n<strong>\n<font size=\"5\">支援</font>\n</strong>\n<p></p>\n<a href=\"https://modrinth.com/user/DemonsHeart\" target=\"_blank\">\n<img src=\"https://media.discordapp.net/attachments/1433870649088147476/1433872295608324310/DemonsHeartRenderCut_1.png?ex=69064523&is=6904f3a3&hm=3eba90345e89988ca9c4d98c82f7b4dea81ada14037fed8fe1a2e18ce2f88bba&=&format=webp&quality=lossless&width=960&height=960\" alt=\"\" width=\"200\" height=\"200\"></a><br>\n\n由 [DemonsHeart](https://ko-fi.com/heartbreaker69) 製作\n\n<a href=\"https://discord.gg/d52CEcJ9M9\" target=\"_blank\">\n<img alt=\"Discord Globox_Hood\" src=\"https://img.shields.io/discord/1093237201590034503\n?color=7289DA&amp;label=DISCORD&amp;logo=discord&amp;logoColor=white&amp;style=for-the-badge\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

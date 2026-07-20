@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3de395aa12aa8d4a",
+  "content": "\n\n# HUD 管理器\n\n允许你自定义整个 HUD 布局，以达到最佳的显示效果。\n\n尤其适用于屏幕上元素繁杂的服务器，例如 MCC Island。\n\n兼容 Apple Skin、Better F3、Shulker Box Tooltip、Tooltip Scroll 等模组。\n\n## 特性：一体化\n\n无论你是使用 Fabric 还是 NeoForge，都可以通过模组菜单轻松管理所有设置。\n\n你将不再需要依赖 Scoreboard Tweaks 或 Title Fixer 等其他模组。\n\n**所有可配置的元素包括：**\n\n动作栏、Boss 血条、字幕、准星、调试界面、快捷栏分组，\n\n玩家列表、计分板、屏幕标题、状态效果、提示消息、工具提示。\n\n**所有可配置选项包括：**\n\n显示 - 控制是否在屏幕上显示。\n\n缩放 - 乘以原版 GUI 缩放倍率。\n\n透明度 - 乘以原版 GUI 透明度。\n\nX/Y 偏移 - 在原版 GUI 位置基础上增加偏移量。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

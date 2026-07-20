@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3a8b7161d962c7af",
+  "content": "\n\n![Logo](https://cdn.modrinth.com/data/cached_images/b201abe25cebddba89686adfbadd3afa0b72eb4b.png)\n# ⚔️ Spartan Weaponry 非官方版本 (NeoForge)\n\n**《Spartan Weaponry》[1] 針對 Minecraft 1.21.1 的社區非官方移植版。**\n\n由於原作者（ObliviousSp）已超過六個月未更新，本專案將原始程式碼移植至 **NeoForge 1.21.1**，讓玩家能在最新版本中體驗豐富的斯巴達武器庫。\n\n## ✨ 功能特色\n\n* **龐大武器庫：** 新增多種武器，包括長柄武器、鈍器、重劍與遠程武器（長弓、十字弓、飛刀）。\n* **獨特機制：** 武器具備自訂屬性，例如穿甲、橫掃攻擊以及多樣的攻擊速度。\n* **素材支援：** 完全相容原版素材與常見模組礦物（銅、錫、青銅、鋼等）。\n* **現代化重構：** 專為 **1.21.1** 的 **NeoForge** 生態系進行重建。\n\n## 🛠️ 需求與相容性\n\n* **平台：** NeoForge 1.21.1\n* **推薦模組：** * [Curios API](https://modrinth.com/mod/curios)（用於箭袋槽位）\n* [JEI](https://modrinth.com/mod/jei) / [EMI](https://modrinth.com/mod/emi)（用於查看合成表）\n\n\n\n## 📜 鳴謝與授權\n\n* **原作者：** [ObliviousSp](https://www.google.com/search?q=https://www.curseforge.com/members/oblivioussp)\n* **移植團隊：** Mai_xiyu & Claude AI\n* **授權條款：** Apache-2.0\n\n⚠️ **注意：** 此為**非官方**分支。請在此專案頁面回報錯誤，**切勿**向原作者頁面回報。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

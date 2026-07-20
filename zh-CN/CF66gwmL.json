@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d80af022de320034",
+  "content": "\n\n# REI+\nREI+（或 REI Plus）将轻量级计算器和便捷工具直接集成到搜索栏中。\n你可以在搜索时输入数学表达式，无需打开计算器即可即时查看结果。该模组最初专为 Hypixel Skyblock 设计，但同样适用于其他场景。\n\n## 功能特性\n### 搜索栏计算\n\n直接在搜索栏中输入数学表达式：\n\n![展示模组计算 5*125 的效果](https://cdn.modrinth.com/data/cached_images/c63a7b36920201933ef42c919d56e7c0c744988b.gif)\n\n按下回车键将结果提交至搜索栏：\n\n![展示按下回车键将当前输入设置为计算结果的效果](https://cdn.modrinth.com/data/cached_images/1baed9174e9c4b7180bfba55699ac07c835cd5ef.gif)\n\n支持的语法包括：\n\n标准运算符：`+ - * / ^`\n括号：`(` 和 `)`\n\n数字后缀：\n- k = 千\n- m = 百万\n- b = 十亿\n- s = 组（Stacks）\n\n![展示语法使用效果](https://cdn.modrinth.com/data/cached_images/da9ac1860366bc35b0e059e04e9a3736c726123e.gif)\n\n### 搜索历史\n\nREI+ 会记录你之前的搜索历史：\n\n![展示模组的历史记录功能](https://cdn.modrinth.com/data/cached_images/e3f670d0749c0ee0443fa7f67d85202e7e0468db.gif)\n\n使用 ↑ / ↓ 方向键可像终端一样循环浏览之前的搜索记录。\n\n\n### 可配置设置\n\nREI+ 内置了配置界面，允许你自定义其运行方式。\n\n你可以通过以下方式打开它：\n- `/reiplus` 命令\n- Mod Menu（模组菜单）\n- REI 设置界面的附加按钮\n\n可用设置包括：\n- 开启/关闭数学计算功能\n- 切换行内预览开关\n- 更改预览颜色（分隔符和结果）\n- 启用/禁用输入时自动计算\n- 调整搜索历史记录缓存大小\n\n![展示不同颜色的搜索栏效果](https://cdn.modrinth.com/data/cached_images/982e5cfda7df29f4dc802a1ee271a164d2c8ae96.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

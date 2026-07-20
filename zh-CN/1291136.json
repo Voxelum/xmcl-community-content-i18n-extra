@@ -1,0 +1,6 @@
+{
+  "bodyHash": "54173569f4ed9d2a",
+  "content": "\n\n<h1>欢迎使用 JEI Integration Reborn 模组</h1>\n<p>本模组将 <a href=\"https://www.curseforge.com/minecraft/mc-mods/jei-integration\" target=\"_blank\" rel=\"nofollow\">JEI Integration</a> 的功能引入到了更高版本的 Minecraft 中。</p>\n<h2>安装并正确配置模组后，你的物品将显示以下信息：</h2>\n<ol>\n<li>燃烧时间</li>\n<li>耐久度</li>\n<li>最大堆叠数量</li>\n<li>标签</li>\n<li>数据组件</li>\n<li>翻译键</li>\n<li>附魔能力</li>\n<li>饥饿值/饱和度</li>\n</ol>\n<h2>配置说明：</h2>\n<p>⚠️ 所有功能默认均为禁用状态\n你必须编辑配置文件以激活所需功能。这允许你精确控制 JEI 界面，并防止信息过载。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

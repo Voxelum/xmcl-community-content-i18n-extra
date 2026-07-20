@@ -1,0 +1,6 @@
+{
+  "bodyHash": "722cb7b288aa2776",
+  "content": "\n\n# 簡易生命指示器 (SHI)\n\n[![使用 SHADOWHUNTER30 可在 NeyHost 獲得首次購買 30% 折扣！](https://cdn.modrinth.com/data/cached_images/08986aac2bbc07a1b205ce147eb5a9fc26ac0e7e_0.webp)](https://www.neyhost.com/?ref=SHADOWHUNTER30)\n\n_I only recommend products that I use myself.  Are you looking for a budget-friendly and reliable hosting provider?  Try out Ney Host with my code `SHADOWHUNTER30` and get 30% off your first purchase!  I am happy with their services which is why I recommend you to check them out!_\n\n## 資訊\n\n一個非常簡單的指標模組。這個客戶端模組新增了一個極簡的生命指示器，讓你能夠看到其他玩家的生命值。\n\n要使用此模組，請下載它並將其放入 ```.minecraft/mods``` 資料夾中。\n\n如果您使用 [ShadowHunter22 的設定檔庫](https://modrinth.com/mod/shadowhunter22s-config-library/)，此模組可進行設定調整。 \n\n## 功能\n\n- 非常簡潔：在玩家名稱旁顯示生命指示器！\n- 按下 `H` 鍵可切換指示器的顯示與隱藏。\n\n## 依賴項目\n\n- [選用] ShadowHunter22 的設定檔庫\n- [選用] Mod Menu\n\n## 版本\n\n此模組**僅支援 Fabric**。目前無計畫支援 Forge。\n\n本模組適用於以下 Minecraft 版本：\n\n`1.20.x`\n\n`1.21.x`\n\n`26.1`\n`26.1.1`\n`26.1.2`\n`26.2`\n\n## 伺服器支援\n\n此模組無需安裝於伺服器端。這是一個純客戶端模組。\n\n## 與伺服器及客戶端的相容性\n\n已知此模組在某些客戶端與伺服器上存在問題。多數情況下，這些問題非我所能控制或修復。本模組已知與以下客戶端和伺服器存在相容性問題：\n\n### 客戶端\n\n- FeatherMC (**僅限**在設定選單中使用 `Top` 位置時*)\n- Lunar Client (_完全無法運作_)\n\n### 伺服器\n\n- PvP Legacy\n- 多數 PvP 伺服器",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

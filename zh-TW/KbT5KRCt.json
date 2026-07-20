@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cec5aa5eb8e41d9e",
+  "content": "\n\n新增一種機槍砲塔，靈感來自《Factorio》的機槍砲塔。製作它需要一些銅塊、活塞、發射器和觀察者。必須持續供應箭矢。\n\n當它在範圍內偵測到生物時，會根據玩家設定的參數自動鎖定並射擊該目標。請注意友軍傷害。\n\n這是我的第一個模組。它可能無法如預期運作、不穩定，或導致效能問題。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/_XoB4hFCMfE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n請在 GitHub 上提交錯誤回報。我遲早會處理。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

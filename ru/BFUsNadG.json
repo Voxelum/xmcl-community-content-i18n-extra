@@ -1,6 +1,6 @@
 {
-  "bodyHash": "enPbsmO15rU=",
-  "content": "Дополнение, интегрирующее **PlasmoVoice** в **Figura**, добавляющее новые функции и возможности.\n\nНовые глобальные переменные:\n- `plasmovoice:getVoiceLevel(UUID)` — для получения уровня речи игрока.\nUUID — UUID игрока, например, `player:getUUID()`.\n- `plasmovoice:getVersion()` — для получения версии мода.\n\nНовое событие:\n- `FIGASMO.PLASMOVOICE_PLAYER_SPEAK(activationId, distance)`\nactivationId — для получения активации по её уникальному идентификатору.\ndistance — для получения расстояния активации.\n```\nFIGASMO = FIGASMO or {}\n\nfunction FIGASMO.PLASMOVOICE_PLAYER_SPEAK(activationId, distance)\n    -- ВАШ КОД\nend\n```",
+  "bodyHash": "773b4c3198a8beaa",
+  "content": "\n\nАддон, который интегрирует **PlasmoVoice** в **Figura**, добавляя новые функции и возможности.\n\nНовые глобальные функции:\n- `plasmovoice:getVoiceLevel(UUID)` — для получения уровня голоса игрока.\nUUID — UUID игрока, например, `player:getUUID()`.\n- `plasmovoice:getVersion()` — для получения версии мода.\n\nНовое событие:\n- `FIGASMO.PLASMOVOICE_PLAYER_SPEAK(activationId, distance)`\nactivationId — уникальный идентификатор активации.\ndistance — расстояние активации.\n```\nFIGASMO = FIGASMO or {}\n\nfunction FIGASMO.PLASMOVOICE_PLAYER_SPEAK(activationId, distance)\n    -- YOUR CODE\nend\n```",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "o527TGNK6v4=",
-  "content": "# 关于\n\n本模组允许你控制Minecraft中哪些提示框会显示。默认情况下，Minecraft会显示所有提示框，包括配方提示、进度提示、叙述者提示和教程提示。\n\n本模组默认禁用配方提示和教程提示。通过配置文件，它可以禁用任何其他类型的提示框。\n\n如果你不想完全屏蔽提示框，但觉得它们碍事，可以更改它们的背景。Toast Control支持半透明或完全透明的背景（仅限原版提示框）。\n\n半透明提示框的效果如下：\n\n![](https://i.imgur.com/wcxmFBU.png)\n\n完全透明提示框的效果如下：\n\n![](https://i.imgur.com/Bb3xrHc.png)\n\n# 支持我\n\n[![](https://i.imgur.com/4D6zgZt.png)](https://discord.com/servers/shadows-mods-613010559532531713)\n\n## 联系方式\n\nDiscord：<https://discord.shadowsoffire.dev>",
+  "bodyHash": "9fbfaf23eeb24999",
+  "content": "\n\n# 关于\n\n本模组允许你控制 Minecraft 中显示的提示。默认情况下，Minecraft 会显示所有提示，包括来自配方、进度、朗读器和教程的提示。\n\n本模组默认禁用配方和教程的提示。你还可以通过配置文件禁用其他任意类型的提示。\n\n如果你不想屏蔽提示，但觉得它们碍事，可以更改它们的背景。Toast Control 支持设置半透明或完全透明的背景（仅限原版提示）。\n\n半透明提示效果如下：\n\n![](https://i.imgur.com/wcxmFBU.png)\n\n完全透明提示效果如下：\n\n![](https://i.imgur.com/Bb3xrHc.png)\n\n# 支持作者\n\n[![](https://i.imgur.com/4D6zgZt.png)](https://discord.com/servers/shadows-mods-613010559532531713)\n\n## 联系方式\n\nDiscord: <https://discord.shadowsoffire.dev>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

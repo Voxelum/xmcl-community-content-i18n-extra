@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ee20b7dda9d61964",
+  "content": "\n\n# CapeJS\n\nCapeJS 是一款適用於 Minecraft 1.19.2 與 1.20.1 的 Forge/Fabric 模組，可讓您使用 KubeJS 為玩家添加自訂披風。其主要目的是讓整合包開發者能將披風頒發給其他開發者、通關玩家、好友等。添加披風是透過用戶端指令碼來執行的，[詳細說明請見此處](https://github.com/TheStaticVoid/CapeJS/wiki/Adding-capes)。披風貼圖也可用於替換鞘翅貼圖！\n \n## 需求\n- KubeJS（及其相依套件）\n\n \n\n若您遇到任何問題，歡迎前往 [Discord](https://discord.gg/RDaJEnN3uS) 聯繫我們。\n\n\n[![Ko-fi](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/F2F2MLSD4)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

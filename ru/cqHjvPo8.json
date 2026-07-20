@@ -1,0 +1,6 @@
+{
+  "bodyHash": "76a0f603256553b9",
+  "content": "Shatter добавляет пользовательское зачарование, которое позволяет добывать жилы блоков. Когда блок ломается, мод рекурсивно обнаруживает и уничтожает соединённые блоки того же типа до предела в 16 (настраивается). Обеспечивается полная совместимость с функциями автосжигания и выпадением бонусов от Удачи. Прочность инструмента расходуется за каждый индивидуально сломанный блок для сохранения баланса игры. Эффект применяется как к минеральным жилам, так и к деревьям. Игроки могут **отключить** эту механику, перейдя на приседание во время добычи.\n\n\n![Shatter + автосжигание для брёвен](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpmMHd0M3UwaGtjZm5nMDNvY3F2ZHZ0am1zN3R6YTQyMGR2OWgwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLNrCENZpE8oDaGM5V/giphy.gif)\n\n![Shatter + автосжигание для песка](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxhZmc5ZDU0eGI5ZWw4ZnNkcW5zNGd3ejJuYXpnbWc0b28waTc5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OHvKRbPHNrfuE4AlL/giphy.gif)\n\n![Shatter + автосжигание для руд](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlrZzM2dHl6bWFndjdsNnB1dDgxZHJnbHA4Zms3MWl0NmJvNWV5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XlulhnneiqyoPzJkky/giphy.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

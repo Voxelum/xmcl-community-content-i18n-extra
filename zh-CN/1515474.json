@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e248a1148d2c31b5",
+  "content": "\n\n<h1>📦 BBS Fbx 插件</h1>\n<p>顾名思义，<strong>BBS Fbx 插件</strong>将<strong>FBX 模型</strong>的强大功能直接带入你的动画制作中！这种高度通用的格式提供了令人惊叹的画质，完全可以媲美甚至超越传统的 BOBJ 格式。</p>\n<h3>🛠️ 使用方法</h3>\n<p>使用本插件非常简单，无需进行复杂的配置：</p>\n<ol>\n<li>只需将你的 FBX 模型放置于 <strong><code>assets</code></strong> 文件夹中的任意位置即可。</li>\n<li>完成！你的模型现已完全加载，并可在游戏中直接使用。</li>\n</ol>\n<hr>\n<h3>⚠️ 重要通知 &amp; 已知问题</h3>\n<blockquote>\n<p><strong>依赖较重：</strong>请注意，由于支持 FBX 格式需要大量的后台依赖库，本插件体积较大。</p>\n<p><strong>潜在的渲染故障：</strong>由于其体积较大，存在较小可能性导致模型无法正常加载。<strong>别担心——你的文件并未损坏！</strong>它们只是无法在屏幕上正确渲染而已。</p>\n</blockquote>\n<p>我们目前正在积极寻找解决方案，<strong>此问题将在未来的更新中得到修复</strong>。如果在此期间你遇到此渲染问题，可以安全地禁用该插件而不会影响游戏运行，仅在绝对需要 FBX 支持的特定情况下重新启用即可。</p>\n<hr>\n<h3>👥 致谢</h3>\n<ul>\n<li><strong>原始功能贡献者：</strong>Eleeterly（针对 BBS CML EDITION）</li>\n<li><strong>改编为独立插件者：</strong>ElGatoPro300</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

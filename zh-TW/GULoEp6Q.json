@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0266da27b3b4698",
+  "content": "\n\n### 關於\n\n這是一個體積小巧、略顯粗糙的客戶端模組，可讓你重新定位箱子類容器的圖形介面（GUI），並可選地關閉深色背景遮罩。\n\n開發此模組的主要原因很簡單：有時你需要查看螢幕中央的情況，而該區域通常會被介面完全覆蓋。\n在使用僅限伺服器端的插件時這特別實用，例如用於調整盔甲座位置的插件。\n\n---\n\n### 控制鍵\n\n* `Alt + 滑鼠左鍵` — 將容器介面移至游標位置\n* `Shift + V` — 切換半透明深色背景。`V` 可在快捷鍵設定中更改\n\n---\n\n### 備註\n\n此模組旨在解決特定問題，未來更新將不會優先處理。\n\n### 連結：\n\n- Modrinth: https://modrinth.com/mod/movablegui\n- GitHub: https://github.com/Redheris/MovableGUI",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

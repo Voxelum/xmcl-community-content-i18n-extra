@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f9f85917afcff76e",
+  "content": "\n\n<h1>禁用合规通知</h1>\n<p>此模组为韩国用户禁用合规通知。</p>\n<h2>什么是合规通知？</h2>\n<p>由于韩国存在相关游戏法规，在线（可联网）游戏需每小时向用户推送游玩时间通知。<br>\n基岩版已通过Xbox通知（除PlayStation外的所有平台）和PlayStation主机级通知实现了该功能。<br>\n自1.18.2版本起，Mojang决定在Java版中采用自有方案实现此功能。</p>\n<p><img src=\"https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Regional_compliancies_notification_1_hour.png\" alt=\"示例\"></p>\n<ul>\n<li>为符合韩国游戏法规，向韩国用户添加了游戏计时器和提示，旨在提醒玩家适时休息，避免长时间游戏。</li>\n</ul>\n<p>图片与引用来源：<a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraft.fandom.com%252fwiki%252fJava_Edition_1.18.2%2523General\" rel=\"nofollow\">Minecraft Fandom</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

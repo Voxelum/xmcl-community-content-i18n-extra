@@ -1,0 +1,6 @@
+{
+  "bodyHash": "18e4c56997f9d0e3",
+  "content": "\n\n<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://i.imgur.com/UQ8ZJYW.png\" alt=\"橫幅\"></p>\n<p style=\"text-align:center\"><img src=\"https://img.shields.io/badge/ -forge-5800ff?style=for-the-badge&color=5800ff&logo=curseforge&logoColor=5800ff&labelColor=FFFFFF\" alt=\"\"><a href=\"https://discord.gg/4J2ZM6T8nT\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/950771581787983912?label=&color=5800ff&labelColor=ffffff&style=for-the-badge&logo=Discord&logoColor=5800ff\" alt=\"\"></a></p>\n<p style=\"text-align:center\">Lodestone 是 Lodestar 團隊旗下所有模組所使用的函式庫，包含重要的後端程式碼，主要用於渲染。</p>\n<h4 style=\"text-align:center\"><strong>功能特色：</strong></h4>\n<p style=\"text-align:center\">大量著色器效果<br>多種輔助類別與工具<br>簡單的螢幕震動實作<br>我們模組中常用的一些屬性<br>允許為實體套用自訂火焰效果的系統<br>擁有極大量單顆粒子設定的粒子系統<br>用於多區塊結構與方塊實體庫存處理器的簡易系統<br>螢幕 GUI 粒子系統，設定方式與其他粒子系統類似<br>世界事件系統，類似實體機制，但以維度而非區塊為單位進行儲存、渲染、&nbsp;與刻更新<br>紋理載入器實作；可在執行期間將原版素材複製至新目錄，並支援以多種方式修改已複製的紋理</p>\n<p style=\"text-align:center\">&hellip;還有更多我們懶得寫下來的東西！</p>\n<p style=\"text-align:center\"><img src=\"https://i.imgur.com/GeluHCM.gif\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

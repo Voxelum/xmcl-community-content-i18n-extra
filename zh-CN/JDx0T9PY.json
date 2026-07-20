@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8f1c7ee514a67416",
+  "content": "\n\n为 [EpicFight](https://modrinth.com/mod/Epic-Fight) 和 [First Person Model](https://modrinth.com/mod/first-person-model) 模组提供的小型兼容补丁。\n\n**修复内容：**\n\nEpicFight 通过注册其自身的 ActivationHandler 有意禁用了 First Person Model 模组，该处理器会在玩家处于 EpicFight 模式时阻止第一人称身体渲染。此外，玩家头部和帽子的网格在第一人称视角下未被隐藏，导致它们与摄像机发生穿插（穿模）。\n\n**本模组使用 Mixin 修复了上述两个问题：**\n\n- 取消 EpicFight 的 ActivationHandler 注册，使 First Person Model 不再被禁用，第一人称动画身体渲染恢复正常\n- 注入 EpicFight 的玩家渲染器，正确地在第一人称视角下隐藏头部和帽子网格，防止穿模\n\n**依赖项：**\n- EpicFight\n- First Person Model\n\n**可选：**\n- 3D Skin Layers\n\n**本模组在 Minecraft 服务器托管服务 minely.net 的支持下制作完成。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

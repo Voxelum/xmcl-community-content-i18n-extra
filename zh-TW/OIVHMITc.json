@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d9c72f6ee7b2f7e2",
+  "content": "\n\n此模組的這些版本需要安裝特定的模組才能運作\n\n舊版（1.05 至 1.06）需要 [geckolib](https://modrinth.com/mod/geckolib) 才能運作\n\n新版需要 [player animator](https://modrinth.com/mod/playeranimator)，而 1.0.4 更新則需同時使用 [player animator](https://modrinth.com/mod/playeranimator) 與 [fusion](https://modrinth.com/mod/fusion-connected-textures)\n\n來看看這個模組提供了什麼內容：\n![everything in this mod](https://cdn.modrinth.com/data/cached_images/331048120890c07a2630bdc8db99087e3a7d18b8.png)\n\n如果您正在使用模組/客戶端 [\"OptiFine\"](https://optifine.net/home)，請注意它與此模組相容\n\n目前僅包含大廳、日託中心的部分方塊/模型，以及 Rockstar Row 的部分內容。從 1.0.3 版本起的照相亭下方必須放置屏障或隱形方塊\n\n此模組也具備 RTX 功能，即使您的電腦不支援，它仍可正常運作\n\n若您使用此模組建立地圖，請於此頁面為此模組致謝\n\n這將有助於您的地圖製作\n\n包含大廳地板、所有（幾乎與通風口相關的）項目、您會看到的電梯海報、音樂唱片、地磚、地毯等更多內容\n\n在控制設定中，請前往「Misc.」並進入「Freddy Overlay」以更改按鍵綁定。\n\n警告：當弗雷迪（Freddy）死亡時會播放一首非常悲傷的歌曲，若您使用弗雷迪的覆蓋層，\n\n我們確實提供了一個開放測試版供所有人使用 \n\n[https://modrinth.com/mod/security-breach-objects,-blocks,-more-open-beta](https://modrinth.com/mod/security-breach-objects,-blocks,-more-open-beta)\n\n您可以透過以下連結進行捐贈\n\nhttps://ko-fi.com/securitybreachobjectsblocksetc",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

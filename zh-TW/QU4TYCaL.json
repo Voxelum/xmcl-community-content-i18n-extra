@@ -1,0 +1,6 @@
+{
+  "bodyHash": "82b73ee05479db78",
+  "content": "\n\n我發現[原版 VS2 專案](https://modrinth.com/mod/valkyrien-skies) 與 Complete Config 及任何使用它的模組不相容，不過已有提交修復了此問題。可惜開發者似乎尚未發布包含這些修正的版本，因此這個模組來補上！\n\n會移動的方塊、會縮放的方塊、具備物理運算的方塊。小型船艦、巨型船艦。有了 Valkyrien Skies，連天空都不是極限。\n\n注意：Valkyrien Skies 為函式庫模組，必須安裝擴充模組才能在一般遊戲中使用。若你尚未決定要裝什麼，推薦試試 [Eureka](https://modrinth.com/mod/eureka)！\n\n本模組已知可修復以下模組：\n- [Complete Config](https://modrinth.com/mod/completeconfig)\n- [Regions Unexplored](https://modrinth.com/mod/regions-unexplored)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

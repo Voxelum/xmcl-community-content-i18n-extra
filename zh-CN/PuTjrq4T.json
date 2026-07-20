@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9203fe6dbeec3b24",
+  "content": "\n\n# Anvian's Lib\n\n该库专为我的模组开发设计，包含多种对开发项目有帮助的实用功能。此外，它引入了遥测（telemetry）功能以统计使用我模组的玩家数量。如需关闭遥测，可通过配置文件进行设置。更多详情请访问 [遥测](https://anvian.net/telemetry) 页面。\n\n## 使用方法\n\n在您的 `gradle.properties` 中添加以下内容：\n\n```properties\nanvianslib_version=<version>\n```\n\n在您的 `build.gradle` 中添加以下内容：\n\n```groovy\nrepositories {\n    maven {\n        name = 'Repsy Anvian'\n        url = 'https://repo.repsy.io/mvn/anvian/anvians-lib'\n    }\n}\n```\n\n- 通用版本（Common）：\n\n```groovy\n  implementation \"net.anvian.anvianslib:anvianslib-common-1.21:${anvianslib_version}\"\n```\n\n- Fabric 版：\n\n```groovy\n  modImplementation \"net.anvian.anvianslib:anvianslib-fabric-1.21:${anvianslib_version}\"\n```\n\n- Forge 版：\n\n```groovy\n  implementation \"net.anvian.anvianslib:anvianslib-forge-1.21:${anvianslib_version}\"\n```\n\n- NeoForge 版：\n\n```groovy\n  implementation \"net.anvian.anvianslib:anvianslib-neoforge-1.21:${anvianslib_version}\"\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

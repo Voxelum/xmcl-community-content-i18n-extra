@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ad5483d3951d6cce",
+  "content": "\n\n# Flashback Extras\n\nFlashback Extras 為 Flashback 重播編輯器擴充了更多功能與修復。\n所有功能均可開啟或關閉。\n\n## 功能\n- `匯出預設值`\n  新增內建預設值，適用於常見輸出目標（如 YouTube 1440p），並允許您建立自己的預設值。這樣您就可以儲存經常使用的設定，無需每次重新建立。如果您需要將同一支重播匯出為多種格式，這將特別實用。\n\n![Export Presets](https://cdn.modrinth.com/data/cached_images/688db6c3d09d8333ee2dbac766f4c8d1e4aafb27_0.webp)\n![Export Presets Drtopdown](https://cdn.modrinth.com/data/cached_images/7d253eac43c8c6836152a59c9f7b88c3421c26e2_0.webp)\n\n- `匯出預覽疊加層`\n  當您為 TikTok 或 YouTube Shorts 等格式進行匯出時，最終影片在垂直畫面中的呈現效果往往不明確。此功能會新增一個疊加層顯示該形狀，讓您在匯出前更容易對齊畫面內容。\n\n![Export Preview Overlay Youtube Shorts](https://cdn.modrinth.com/data/cached_images/ed82523a7d5331b581c8b37e65e86f587284953b.jpeg)\n\n- `時間軸水平捲動`\n  啟用透過滑鼠側邊滾輪、水平滾輪或觸控板來水平捲動 Flashback 時間軸的功能。\n\n## 修復\n- `首次匯出速度更快`\n  開啟匯出選單可能會使 Flashback 凍結數秒。此模組會在您開啟重播後於背景預先準備匯出工具，使匯出視窗能無需長時間等待即可開啟。\n\n- `縮時攝影音軌同步`\n  Flashback 中的縮時攝影與其他速度變更可能導致音訊異常並破壞波形顯示。此模組修正了該問題，讓音訊正常播放，且視覺化音軌能隨時間軸速度正確縮放。\n\n\n## 設定\n- 預設情況下，您可以按 `右 Alt + P` 開啟 Flashback Extras 選單。\n- 快捷鍵可在 Minecraft 控制選項中更改。\n- 您也可以透過 Mod Menu 模組開啟選單。\n\n## 需求\n- Fabric\n- Flashback",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

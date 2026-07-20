@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b61ac1accd596a6f",
+  "content": "\n\n此數據包新增了一種礦石掃描器道具，可像手榴彈一樣投擲，以穿透牆壁標示出附近的礦石。\n\n使用 4 個鐵錠、2 顆螢石粉、2 個紅石粉以及 1 顆終界之眼即可合成四個掃描器：\n![合成四個礦石掃描器的配方。](https://cdn.modrinth.com/data/cached_images/3387f96622ed600af0ef118420bb516507e96993.png)\n\n合成完成後，右鍵點擊即可投擲礦石掃描器。其投擲距離與潑濺型藥水相當：\n![投擲後的礦石掃描器](https://cdn.modrinth.com/data/cached_images/ade76486367a215f21ff4871382d99713cbdbae2_0.webp)\n\n掃描器落地後會閃爍一道亮光，隨後在 15 秒內標示出以落點為中心、半徑 8 格範圍內的所有礦石：\n![使用礦石掃描器的動態 GIF 圖](https://cdn.modrinth.com/data/cached_images/10907ba820e271baefd61791aa3b809f9156ef5f.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

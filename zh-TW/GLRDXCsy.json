@@ -1,0 +1,6 @@
+{
+  "bodyHash": "620146166f27db1b",
+  "content": "\n\n這是一款允許在使用望遠鏡放大時自訂覆蓋層的模組，且已於 GitHub 開源。\n\n您可以透過指令 `/csms-config (mode)`，或修改遊戲目錄中 `config` 資料夾內的 `csms-config.json` 檔案中的 `mode` 參數，來調整望遠鏡放大時的覆蓋層樣式。總共有 4 種模式：\n\n模式 | 指令或設定檔輸入值 | 說明\n--- | --- | ---\nVANILLA | 0 | 原版模式。\nCUSTOM | 1 | 可透過模組 JAR 檔案中 `assets/csms/gui` 目錄下的 `left.png` 與 `right.png` 檔案來自訂背景。\nNO_BACKGROUND | 2 | 不渲染背景。\nNONE | 3 | 僅渲染放大效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

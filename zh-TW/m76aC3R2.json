@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0e3f2a4c2c3a7cd3",
+  "content": "\n\n# 英國運輸附加模組（BTA）低解析度資源包\n\n因為紋理過大導致無法在你的系統上運行 BTA？現在你可以使用此資源包來讓模組順利運行，或提升遊戲幀率。本資源包會將 BTA 的紋理縮小，從而減少對 RAM/VRAM 的需求，並降低對 GPU 效能的要求。\n\n如果你的電腦完全無法在沒有此資源包的情況下運行 BTA，則需要直接修改你的 `options.txt` 檔案。\n\n各解析度選項連結：\n- 1024x：請參考「馬鈴薯 PC」版本，可於模組的額外檔案區下載！\n- [512x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-512x)\n- [256x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-256x)\n- [128x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-128x)\n- [64x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-64x)\n- [32x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-32x)\n- [16x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-16x)\n- [8x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-8x)\n- [4x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-4x)\n- [2x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-2x)\n- [1x 資源包](https://modrinth.com/resourcepack/bta-low-res-packs-1x)\n\n請注意，本資源包中的所有紋理皆保留所有權利，除檔案是直接從 Modrinth 下載外，不得另行散佈。允許的分發情境包含：Modrinth 模組包（紋理檔必須列入 manifest 中，僅在資源包內覆蓋者除外）或 packwiz 資源包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

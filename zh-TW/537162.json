@@ -1,6 +1,6 @@
 {
-  "bodyHash": "yIVCfgbX+R0=",
-  "content": "<p><span style=\"font-family:helvetica, arial, sans-serif\">將你的疾跑按鍵切換為開關模式，這意味著你可以啟用或停用疾跑，而不會因為下次移動而重設。</span></p><p>&nbsp;</p><p><span>此功能在遊戲啟動時自動啟用，<strong>沒有圖形介面</strong>。切換疾跑的按鍵將始終與你在設定中的按鍵一致。</span></p><p><span>&nbsp;</span></p><p><strong><span style=\"font-family:helvetica, arial, sans-serif\">我並未測試所有版本，僅測試了 1.12.2 和 1.8.9，但有很大機會能在大多數版本上運作。</span></strong></p>",
+  "bodyHash": "bf8709eb509dcc22",
+  "content": "\n\n<p><span style=\"font-family:helvetica, arial, sans-serif\">將疾跑鍵位改為切換開關，讓您可以開啟或關閉疾跑功能，且下次移動時不會自動重置。</span></p>\n<p>&nbsp;</p>\n<p><span>啟動遊戲時會自動啟用此功能，<strong>沒有圖形介面（GUI）</strong>。切換疾跑的鍵位將與您遊戲設定中的內容保持一致。</span></p>\n<p><span>&nbsp;</span></p>\n<p><strong><span style=\"font-family:helvetica, arial, sans-serif\">我尚未測試所有版本。僅在 1.12.2 和 1.8.9 上進行過測試，但應該能支援大多數版本。</span></strong></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

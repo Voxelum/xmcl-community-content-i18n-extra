@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a829d53b6af4c42",
+  "content": "\n\n## 关于\n添加了一个类似 RPG 风格的每日计数器，每天开始时以打字机效果和音效呈现。查看[画廊](https://modrinth.com/datapack/typewriter-daycounter/gallery)获取预览！\n\n- 每日计数器将在每个 Minecraft 日开始时显示\n \n- 首次加入服务器时也会显示\n- 在第 100 天等里程碑天数会播放特殊的计数器动画。所有 100 的倍数天数均包含此效果\n- 原版 Minecraft 从第 0 天开始，为解决此问题，世界时间将默认 +1 天。计数器将从第 1 天开始！\n\n## 时间暂停\n你可以设置每日计数器仅在服务器有玩家在线时进行计数，这样便不会错过任何里程碑时刻。请使用以下命令： \n- `/function vanilla_refresh:day_counter/_toggle_offline_timestopper`\n\n***\n\n![请替换为描述](https://cdn.modrinth.com/data/cached_images/2cb3a46154a963daf8bc8026bb711cfbec968c32.png)\n\n此数据包是 [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh) 中某项功能的独立精简版。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8e8d353177bab050",
+  "content": "## Carpet Extra\n\nCarpet Extra 是一个扩展模组，为 [Carpet] 添加了更多功能，例如无数新的发射器行为、可再生资源获取方式等！\n\n[Carpet]: https://modrinth.com/mod/carpet\n\n针对其启用的发射器行为，它还添加了一个新的 [Scarpet 事件]，当这些行为发生时触发，允许你进一步自定义它们。\n\n[Scarpet 事件]: https://github.com/gnembon/carpet-extra/blob/master/docs/scarpet/ScarpetEvents.md\n\n## 新增规则\n\n你可以在仓库中找到 [所有新增规则的列表][rules]。\n\n[rules]: https://github.com/gnembon/carpet-extra#carpet-extra-features\n\n## 更多扩展\n\n如果你正在寻找 Carpet 自动合成台，它已被移至一个独立的扩展模组，你可以在 [其 GitHub 仓库][Autocraftingtable repo] 中找到它。\n\n[Autocraftingtable repo]: https://github.com/gnembon/carpet-autoCraftingTable\n\n此外，还有许多其他的 Carpet 扩展模组，提供了无数新的规则和功能性！你可以在 [Carpet Wiki][extension list] 中找到它们的列表。\n\n[extension list]: https://github.com/gnembon/fabric-carpet/wiki/List-of-Carpet-extensions",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

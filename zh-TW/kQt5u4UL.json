@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9d30132ea9b5a1f6",
+  "content": "\n\n此模組為 [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) 與 Weather2 之間新增了部分相容性功能。例如，當當前溫度低於或等於 -2°C 時即可生成暴風雪；當降雨量低於或等於 100 時，則可生成沙塵暴。這表示天氣類型將不再僅限於「降雨」。\n\n沙塵暴生成的降雨量上下限設定為可自訂，暴風雪的溫度條件同樣支援調整。預設值即為前述數值。\n\n本附加模組與我的其他作品 [TFC Improved Badlands](https://modrinth.com/mod/tfc-improved-badlands) 及 [TFC Barrens](https://modrinth.com/mod/tfc-barrens) 搭配效果極佳。這些模組分別能在氣候更乾燥的區域生成沙丘，並讓環境逐步完全沙漠化，使地表變得寸草不生，僅存極為罕見的水體。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

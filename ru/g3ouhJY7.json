@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ba8416c57b14f7b",
+  "content": "\n\n# Мод, позволяющий создателям модпаков использовать KubeJS для регистрации, изменения и удаления привязок клавиш.\n\nНиже приведён пример изменения клавиши открытия меню аксессуаров по умолчанию на ALT+X (перемещена в категорию «Разное» ванильной игры) и удаления привязки клавиши прыжка:\n\n```javascript\nKeyBindEvents.modify(event => {\n    event.modifyKey('key.curios.open.desc', GLFM.GLFM_KEY_X)\n    event.modifyModifier('key.curios.open.desc', KeyModifier.ALT)\n    event.modifyCategory('key.curios.open.desc', 'key.categories.misc')\n    \n    event.remove('key.jump')\n})\n```\nПримечание: НЕ устанавливайте этот мод на серверы.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

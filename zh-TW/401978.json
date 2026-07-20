@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eadd41b6df4d66cc",
+  "content": "\n\n<p>這個簡單的模組會停用令人困擾的「實驗性功能」提示訊息，該訊息會在每次建立或載入具有自訂維度或世界設定的世界時出現。如果你也和我一樣覺得這個畫面很煩，或者你正在開發使用自訂世界生成的模組並想停用此提示畫面（適用於 Jar-in-jar 的情況！），都可以安裝本模組。相容於所有 1.16.2 以上版本，包含預先發布版！</p>\n<p>&nbsp;</p>\n<p><span style=\"color:#f00;font-size:14px\">雖然這是個 Fabric 模組，但它並<span style=\"text-decoration:underline\"><strong>不需要</strong></span> Fabric API。</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"text-decoration:underline\">Minecraft Forge 使用者</span>：</strong>如果您正在尋找此模組的 Minecraft Forge 移植版，請前往查看 <span style=\"text-decoration:underline\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings\" rel=\"nofollow\">Shutup Experimental Settings!</a></span>。此模組是由 Corgi_Taco 為 Minecraft Forge 開發的 Disable Custom Worlds Advice 移植版。<strong>我正式推薦此移植版</strong>，因為開發者在提交前曾與我聯繫，我也有機會確認一切運作正常，因此我信任他/她的作品。此外，<strong>使用此移植版也是支持我的好方法</strong>，因為 Corgi_Taco 與我會共享收益。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

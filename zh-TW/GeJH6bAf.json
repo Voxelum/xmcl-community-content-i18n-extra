@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6bcbc03c712cff98",
+  "content": "\n\n此數據包為 [Fish of Thieves](https://www.modrinth.com/mod/Fish-of-Thieves) 與由 [LieOnLion](https://www.modrinth.com/user/lieonlion) 和 [pnku](https://www.modrinth.com/user/pnku) 開發的 [More Variants mods](https://modrinth.com/collection/XjGNXbFY) 之間提供相容性。\n\n當將 [Fish of Thieves](https://www.modrinth.com/mod/fish-of-thieves) 與任何 [More Variants mods](https://modrinth.com/collection/XjGNXbFY)（[MStV](https://www.modrinth.com/mod/More-Stick-Variants)+ 大致不受影響）一起使用時，[Fish of Thieves](https://www.modrinth.com/mod/fish-of-thieves) 的部分木材類型可能無法在某些合成配方中正常運作，此處特別是指 _椰子_ 木材類型。\n\n這主要會影響那些原始材料接受任何原版木板的合成配方（例如 _工作台_、_燻製爐_、_箱子_ …），前提是已安裝會為配方結果添加變體的模組。\n\n![此數據包所解決問題的合成範例。](https://uwu.catgirl.host/i/r8lt8.png)\n\n> ### 木材類型匹配：\n> 對於此數據包而言，_椰子_ 木材類型不會合成出預設的原版結果。相反地，它會合成出最接近匹配的原版木材類型：_叢林_！\n\n\n\n\n<details>\n<summary>為什麼會發生這種情況？</summary>\n\n許多原版配方使用了 _物品標籤_，例如 `#minecraft:planks` 或 `#minecraft:logs`，這使得所有 _木板_ 或 _原木_ 類型可以互相替換使用。\n\n為了支援特定木材的變體（例如工作台、箱子、燻製爐 …），More Variants 系列模組會覆寫某些原版配方，使其不再接受所有的木板或原木類型。如此可防止原版配方覆蓋特定變體的結果。\n\n[Fish of Thieves](https://www.modrinth.com/mod/fish-of-thieves) 會正確地將其木材類型加入相關的原版標籤中。然而，由於部分配方已被縮窄以支援變體，這些新加入的木材類型便不再被識別為基礎物品。\n\n此數據包針對這些調整過的配方進行了補強，並恢復了 [Fish of Thieves](https://www.modrinth.com/mod/fish-of-thieves) 的相容性。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

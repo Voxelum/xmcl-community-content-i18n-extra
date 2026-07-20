@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4yt2L/QMUbE=",
-  "content": "# 簡介\n調整 Better Combat 模組的攻擊距離計算邏輯，使其兼容原版的 forge:entity_reach 屬性，讓實際攻擊距離完全尊重並使用該屬性的數值。讓所有透過飾品、藥水、附魔或其他方式調整攻擊距離的模組都能正常運作。\n\n原始的 Better Combat 模組在設計上完全覆蓋了 Minecraft 的攻擊距離計算邏輯，導致所有其他透過修改 forge:entity_reach 屬性來調整攻擊距離的模組功能失效。無論你透過任何方式增加多少攻擊距離，實際的攻擊距離都會被 Better Combat 強制鎖定在武器的預設數值上。本模組改變了此行為，將攻擊距離計算回歸到原版的屬性系統。\n\n### 配置：\n\n**預設模式** – 保留武器攻擊距離差異（例如矛 > 劍），並疊加所有來源的攻擊距離加成。\n\n**替代模式** – 所有武器使用相同的 entity_reach 數值，忽略武器本身的差異。\n\n你可以在配置檔案中切換模式：config/better_combat_reach_fix-common.toml\n\n \n\n# 特色\n✅ 完整兼容：完美兼容所有修改 forge:entity_reach 屬性的模組。\n\n✅ 即裝即用：無需任何配置，安裝後立即生效。\n\n✅ 保留原始體驗：完整保留 Better Combat 的所有戰鬥功能，僅調整攻擊距離計算邏輯。\n\n \n\n# 特別感謝\n特別感謝 daedelus_dev 開發了 Better Combat 模組，為我們帶來了精彩的戰鬥體驗。\n特別感謝 Fallen__leaf，其 [KubeJS 教程](https://www.mcmod.cn/post/6256.html)啟發了本模組。",
+  "bodyHash": "ae9a016861504bd7",
+  "content": "# 简介\n\n调整 Better Combat 模组的攻击范围计算逻辑，以兼容原版 Forge 的 `forge:entity_reach` 属性，使实际攻击范围完全尊重并使用该属性的值。允许所有通过饰品、药水、附魔或其他方式修改攻击范围的模组正常运行。\n\n原始的 Better Combat 模组出于设计原因，完全覆盖了 Minecraft 的攻击范围计算逻辑，导致其他所有通过修改 `forge:entity_reach` 属性来调整攻击范围的模组功能失效。无论您通过何种方式增加攻击范围，Better Combat 都会强制将实际攻击范围固定为武器的默认值。本模组改变了这一行为，将攻击范围计算回归到原版的属性系统。\n\n### 配置：\n\n**默认模式** – 保留武器间的攻击范围差异（例如：长矛 > 剑），并叠加来自所有来源的范围加成。\n\n**替代模式** – 所有武器使用相同的 `entity_reach` 值，忽略固有的武器差异。\n\n您可以在配置文件中切换模式：`config/better_combat_reach_fix-common.toml`\n\n \n\n# 特性\n✅ 完全兼容：与所有修改 `forge:entity_reach` 属性的模组完美兼容。\n\n✅ 即装即用：无需配置，安装后立即生效。\n\n✅ 保留原体验：完整保留 Better Combat 的所有战斗特性，仅调整攻击范围计算逻辑。\n\n \n\n# 特别感谢\n特别感谢 daedelus_dev 开发了 Better Combat 模组，为我们带来了精彩的战斗体验。\n特别感谢 Fallen__leaf，其 [KubeJS 教程](https://www.mcmod.cn/post/6256.html) 启发了本模组的开发。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

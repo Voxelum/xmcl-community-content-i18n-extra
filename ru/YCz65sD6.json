@@ -1,6 +1,6 @@
 {
-  "bodyHash": "KGZnymO+gKc=",
-  "content": "Сервер протокола контекста модели (MCP), который запускается внутри Minecraft Java Edition в виде мода Fabric. Он предоставляет серверный API Minecraft и API Fabric в качестве инструментов MCP, чтобы клиент MCP — Claude Desktop, Cursor или любой агент, поддерживающий протокол MCP — мог программно читать и манипулировать живым миром.\n\nРаботает с сопутствующим плагином для Claude Code: [https://github.com/chapmanjw/minecraft-java-fabric-claude-plugin](https://github.com/chapmanjw/minecraft-java-fabric-claude-plugin)\n\nТребуется API Fabric: [https://modrinth.com/mod/fabric-api](https://modrinth.com/mod/fabric-api)",
+  "bodyHash": "2d35f3bca27e0e4f",
+  "content": "Сервер протокола контекста модели (MCP), работающий внутри Minecraft Java Edition в качестве модификации для Fabric. Он предоставляет серверный API Minecraft и API Fabric в виде инструментов MCP, что позволяет клиенту MCP — таким как Claude Desktop, Cursor или любому агенту, поддерживающему протокол MCP, — читать и управлять живым миром программным способом.\n\nСовместим с плагином для Claude Code: [https://github.com/chapmanjw/minecraft-java-fabric-claude-plugin](https://github.com/chapmanjw/minecraft-java-fabric-claude-plugin)\n\nТребуется Fabric API: [https://modrinth.com/mod/fabric-api](https://modrinth.com/mod/fabric-api)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

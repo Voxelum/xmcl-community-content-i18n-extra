@@ -1,6 +1,6 @@
 {
-  "bodyHash": "UWkuzN4kOnQ=",
-  "content": "一個輕量級、注重效能的模組包，基於 Fabric 架構開發，適用於 Minecraft 1.21.11。\n\n專為提升 SaoWorld 體驗而設計，包含效能優化、視覺強化、沉浸式 UI 元素、地圖工具、聊天增強及光影支援，同時保持與伺服器完全相容。\n\n不拖泥帶水，只保留真正需要的內容。\n\n模組列表：\n\n    architectury\n    bobby\n    chat_heads\n    chatanimation\n    chatsigninghider\n    cinematiczoom\n    cloth-config\n    drippyloadingscreen\n    fabric-api\n    fadeless\n    fancymenu\n    ferritecore\n    Gamma-Utils\n    ImmediatelyFast\n    ImmersiveUI\n    iris\n    itemzoom\n    journeymap\n    konkrete\n    lithium\n    melody\n    modmenu\n    notutorial\n    placeholder-api\n    Shatterlib\n    sodium\n\n光影包：\n    Complementary Unbound r5.4",
+  "bodyHash": "cdd6cf0db3205108",
+  "content": "\n\n一款輕量級、效能導向的整合包，基於 Fabric 開發，適用於 Minecraft 1.21.11。\n\n旨在提升 SaoWorld 的遊玩體驗，透過優化效能、改善視覺效果、加入沉浸式介面元素、地圖工具、聊天增強功能以及光影支援，同時與伺服器保持完全相容。\n\n精簡實用，只保留必要內容。\n\n**此整合包為完全選配。** 伺服器並不要求安裝任何模組即可遊玩——您無需安裝此包，直接以原版 Minecraft 連線即可享受完整遊戲體驗。它僅供希望獲得增強型用戶端體驗的玩家使用。\n\n模組列表：\n\n    architectury\n    bobby\n    chat_heads\n    chatanimation\n    chatsigninghider\n    cinematiczoom\n    cloth-config\n    drippyloadingscreen\n    fabric-api\n    fadeless\n    fancymenu\n    ferritecore\n    Gamma-Utils\n    ImmediatelyFast\n    ImmersiveUI\n    iris\n    itemzoom\n    journeymap\n    konkrete\n    lithium\n    melody\n    modmenu\n    notutorial\n    placeholder-api\n    Shatterlib\n    sodium\n\n光影：\n    Complementary Unbound r5.4",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

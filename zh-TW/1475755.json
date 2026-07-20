@@ -1,0 +1,6 @@
+{
+  "bodyHash": "374332e9d7c44377",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/1wx26i0.gif\" alt=\"Simply Tooltips 橫幅圖片\"></p>\n<p><strong>注意：</strong>預設情況下，Simply Tooltips 僅會為已建立有效 Simply Tooltip 主題檔案的模組物品顯示提示資訊（例如 Simply Swords 和 Simply Bows）。</p>\n<ul>\n<li>若要為所有<span style=\"text-decoration:underline\">模組物品</span>啟用提示資訊，請在設定檔中啟用 'applyTooltipsToModItems'。</li>\n<li>若要為<span style=\"text-decoration:underline\">原版物品</span>啟用提示資訊，請在設定檔中啟用 'applyTooltipsToVanillaItems'。</li>\n</ul>\n<h3>建立自訂主題</h3>\n<p>Simply Tooltips 允許您建立自己的提示主題，並將其套用到遊戲中的任何物品上（無論是模組物品還是原版物品）。此功能完全由資料驅動，因此可以透過資源包來套用這些主題。</p>\n<p>關於如何建立和指派這些主題的詳細資訊，請參閱 <a href=\"https://github.com/Sweenus/simplytooltips\" target=\"_blank\" rel=\"nofollow\">GitHub 頁面</a>。</p>\n<h3>其他</h3>\n<p>Simply Tooltips 允許您透過按下快捷鍵（預設為 'H'）來生成畫面上任何提示資訊的 GIF 動畫。這會將提示資訊的短 GIF 存至截圖資料夾中。非常適合用於展示您的自訂主題。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

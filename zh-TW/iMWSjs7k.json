@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dc9e586ec16934ee",
+  "content": "\n\n### 關於\n正如其名，此模組旨在防止生物受到日光影響，也就是說它們不會在陽光下燃燒。\n\n### 客戶端還是伺服器端？\n只需安裝在**伺服器端**即可。\n\n### 我可以將此模組加入我的模組包嗎？\n當然可以。\n\n### 與 [Mob Sunscreen](https://modrinth.com/mod/mob-sunscreen) 有什麼差別？\n\n實際差異在於 Tick 效能。Mob Sunscreen 模組會在每個 Tick（20 Tick = 1 秒）嘗試清除每個生物身上的火焰，而遊戲本身卻會試圖在陽光下將其燒毀（可查看 [這裡](https://gitlab.com/kreezxil/Mob-Sunscreen/-/blob/1.19.2/common/src/main/java/com/kreezcraft/mobsunscreen/CommonClass.java)）。這種做法會導致 Tick 效能下降。但這其實沒必要，因為 Minecraft 已經提供了更乾淨的做法。Protect Mobs From Daylight 模組透過關閉生物在陽光下燃燒的機制來實作此功能。如需更多資訊，可查看所提及的程式碼 [這裡](https://github.com/muhammedesadcomert/Protect-Mobs-From-DayLight/blob/multiloader-1.19%2B/common/src/main/java/com/muhammedesadcomert/protectmobsfromdaylight/common/mixin/MobMixin.java)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2cc9e0b286f4670d",
+  "content": "\n\n**Описание**:\n------------\nЭтот набор использует пользовательские модели сущностей OptiFine или Entity Model Features, чтобы вернуть сундуки размером в целый блок, такими какими они были до Беты 1.8 и официального релиза Minecraft в 2011 году.\n\nРаботает с обычными сундуками, сундуками-ловушками и эндер-сундуками.\nАнимация открытия сундука отсутствует, \nи текстура рождественского сундука не отображается.\n\nДля работы данного набора требуется OptiFine или Entity Model Features.\n\n**Entity Model Features**\n- [https://modrinth.com/mod/entity-model-features](https://modrinth.com/mod/entity-model-features)\n\n**OptiFine**\n- https://www.optifine.net/downloads\n\n\n\n**Правила использования**\n------------\nВы можете свободно использовать эти модели в своих ресурспаках при условии указания соответствующего авторства.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f97fdbfd1b7f227b",
+  "content": "\n\n<h3>研磨台附魔轉移</h3>\n<p>允許研磨台在物品與書之間提取和轉移附魔。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_a2f34665-ca79-4f08-b28d-645604c7d369.png\" alt=\"\"></p>\n<h3>使用方法：</h3>\n<p><strong>從附魔物品 → 附魔書</strong></p>\n<p>將附魔物品與書放入研磨台中，即可將其附魔提取至一本書上。</p>\n<p><strong>從附魔書 → 新的附魔書</strong></p>\n<p>若輸入為附魔書，研磨台會提取最頂端的附魔並轉移至另一本書。</p>\n<p><strong>支援 <a href=\"https://www.curseforge.com/minecraft/mc-mods/tax-free-levels\" target=\"_blank\" rel=\"nofollow\">免稅等級</a></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b83fddcf9f164acb",
+  "content": "\n\nCrate：The Factory Must Grow 拥有许多我喜欢的特性，也有不少我个人不喜欢的。本模组旨在调整后者，以使其更贴合 Duststorm 整合包（暂未发布）的设计愿景。\n\n当前特性列表：\n- JEI 现已正确显示工业高炉熔炼配方是否需消耗热空气\n- 电极支架始终处于正常工作状态\n- JEI 现已显示罐体配方所需的最小尺寸\n- 化学罐的最大高度已由 3 调整为 10，以匹配 TFMG beta 1.2.2 版本的设定（该版本目前似乎未上传至 Modrinth？）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

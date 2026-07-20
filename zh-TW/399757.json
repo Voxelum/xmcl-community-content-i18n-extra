@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc759bc117d93497",
+  "content": "\n\n<p>這是一個非常簡單的模組，僅新增一個方塊。（目前至少！）</p><p>充電站。</p><p>會燃燒燃料來為支援 Forge Energy (FE) 的道具充電，而大多數模組都支援此標準。</p><p><img src=\"https://media.forgecdn.net/attachments/thumbnails/306/256/310/172/charging01.PNG\" alt=\"\" width=\"181\" height=\"172\"></p><p>詳細資訊：</p><ul><li>可燃燒任何燃料（煤炭、木材等）。</li><li>1 煤炭 = 20,000 RF（與其他大多數模組的燃料等級相近）。</li><li>內部儲能容量為 1,000,000 RF</li><li>會燃燒燃料，並以相當快的速度為單一道具充電。</li><li>旨在作為過渡方案，讓您在建立完善的能源系統之前，能先為想使用的道具充電。</li></ul><p>不會浪費燃料！一旦內部電容充滿，就會停止燃燒當前的燃料。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

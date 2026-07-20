@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6877ad63e9a2da87",
+  "content": "\n\nRadiant Gear 是一個模組，作為 [Curios API](https://modrinth.com/mod/curios) 或 [Trinkets API](https://modrinth.com/mod/trinkets) 與動態光源模組之間的簡單相容性橋接器。透過此模組，配件槽位中的物品將繼承動態光源模組所定義的動態照明行為。舉例來說，如果手持火把會提供動態光源，那麼安裝此模組後，放置在配件槽位中的火把也將提供動態光源。\n\n**請注意：此模組本身並不會新增任何內容或槽位。若要獲得更多槽位或將物品分配至槽位中，使用者需要另外安裝提供此類內容的模組，或是自行透過 [Curios API 設定檔](https://github.com/TheIllusiveC4/Curios/wiki/How-to-Use:-Users) 或 [Trinkets API 設定檔](https://github.com/emilyploszaj/trinkets/wiki/Quick-Start-Guide) 進行配置。**\n\n**相容模組**\n\n- [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights)\n- [Lucent](https://www.curseforge.com/minecraft/mc-mods/lucent)\n- [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)\n- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)\n- [RyoamicLights](https://modrinth.com/mod/ryoamiclights)\n- [Embeddium++](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus)\n- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)\n\n注意：此模組的運行端取決於所使用的動態光源模組。例如，若使用 Lucent，則此模組僅限客戶端，因為 Lucent 僅限客戶端。反之，若使用 Dynamic Lights，則此模組在客戶端與伺服器上都必須安裝，因為 Dynamic Lights 同樣需要同時安裝於兩端。\n\n## 合作夥伴\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

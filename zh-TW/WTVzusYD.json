@@ -1,6 +1,6 @@
 {
-  "bodyHash": "TsH3P0hO6mM=",
-  "content": "這個模組運用Nvidia Reflex原理來降低Minecraft的渲染延遲，透過估算CPU與GPU時間自動鎖定幀率（支援所有GPU型號使用）。\n\n設定中有兩個選項：一個是切換開關，另一個是縮短等待時間。\n等待時間以奈秒為單位進行縮減。若啟用Reflex後導致GPU使用率下降，可適度調高數值使GPU使用率回升至接近100%。但若數值調整過高，反而會增加延遲。\n有時演算法可能估算失準，導致延遲過短而造成渲染任務堆積，反而增加渲染延遲。此時可使用負數值來延長等待時間，從而降低延遲。\n\n![contrast](https://cdn.modrinth.com/data/cached_images/cf911396805809653483761101bd2f8f1d4ca3ef_0.webp)",
+  "bodyHash": "37ea7d1e4f67b7f2",
+  "content": "\n\n本模組參考 NVIDIA Reflex 技術原理，透過估算 CPU 與 GPU 時間，自動鎖定幀率以降低 Minecraft 中的渲染延遲。（支援任意 GPU 使用）\n\n設定中提供兩個選項：一個是開關切換，另一個是用於調整「減少等待時間」。\n該數值以奈秒為單位。若啟用 Reflex 後 GPU 佔用率下降，可略微調高數值以提升 GPU 負載至約 100%。但若調得過高，反而會增加延遲。\n有時演算法可能會估算錯誤，導致延遲過短、渲染隊列堆積，進而使渲染延遲上升。此時可輸入負數來增加等待時間，從而降低延遲。\n\n此模組在 Minecraft 中參考 NVIDIA Reflex 原理降低渲染延遲，透過估算 CPU 及 GPU 時間來自動鎖幀。（允許任意 GPU 使用）\n\n選項中有兩個設定，分別是切換開關與減少等待時間。\n減少等待時間的單位為奈秒。若啟用 Reflex 後 GPU 佔用率下降，可增加數值使 GPU 佔用率上升，讓其剛好達到 100%；若增加過頭則會導致延遲增加。\n有時演算法可能估算錯誤，導致延遲過短而造成渲染隊列堆積，使渲染延遲上升，此時可輸入負數來增加等待時間，進而降低延遲。\\\n![contrast](https://cdn.modrinth.com/data/cached_images/cf911396805809653483761101bd2f8f1d4ca3ef_0.webp)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "VDKKwHe1F3Y=",
-  "content": "добавляет рецепты кузнецовского ремесла для эпической рыцарской брони, щитов и оружия\n\nудаляет рецепты для эпических рыцарских стальных изделий, вместо них использует улучшенную сталь\n\nесли присутствуют серебряные оловянные или бронзовые слитки, добавляет рецепты оружия и щитов из этих материалов\n\nрекомендуется использовать JEI\n\nвсе рецепты оружия используют чертежи мечей, включая копья, топоры, алебарды и боевые молоты\n\n\n\n\nсовместимость с Antique Legacy\nhttps://modrinth.com/datapack/overgeared-+-epic-knights-antique-legacy-compat\n\nсовместимость с Slavic Armory\nhttps://modrinth.com/datapack/overgeared-+-epic-knights-slavic-armory",
+  "bodyHash": "298d77c0f2b55f5d",
+  "content": "\n\nДобавляет рецепты ковки Overgeared для брони, щитов и оружия Epic Knights\n\nУдаляет рецепты стали Epic Knights, заменяя её на сталь Overgeared\n\nПри наличии слитков серебра, олова или бронзы добавляет рецепты оружия и щитов из этих материалов\n\nРекомендуется JEI\n\nВсе рецепты оружия используют чертежи мечей, включая копья, топоры, алебарды и боевые молоты\n\n\n\n\nСовместимость с Antique Legacy\nhttps://modrinth.com/datapack/overgeared-+-epic-knights-antique-legacy-compat\n\nСовместимость с Slavic Armory\nhttps://modrinth.com/datapack/overgeared-+-epic-knights-slavic-armory",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

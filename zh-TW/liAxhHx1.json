@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b1d54cefb8e59fbc",
+  "content": "\n\nCreate Sifting（Fabric 移植版）\n============================\n\n[![需要 Create Fabric v0.5.1f（適用於 1.20.1）](https://img.shields.io/badge/REQUIRES%20CREATE%20FABRIC%20v0.5.1f%20for%201.20.1-gold?logo=curseforge&labelColor=gray&style=for-the-badge)](https://modrinth.com/mod/create-fabric)\n\n本模組為知名模組 [Create Sifting](https://www.curseforge.com/minecraft/mc-mods/create-sifting) 的 Fabric 移植版，由 **oierbravo** 開發，旨在為 Minecraft 1.20.1 上的 Create 模組使用者帶來其功能。\n\n什麼是 Create Sifting？\n-----------------------\n\nCreate Sifting 為 **Create** 模組新增了一個簡單的篩礦機制，靈感來自於 Ex Nihilo 的篩子。它允許玩家對基礎材料進行篩選，以提取礦石等資源。\n\n### 功能特色：\n\n* 無縫整合 **適用於 1.20.1 的 Create v0.5.1f+**。\n* 簡單直觀的篩選機制，非常適合模組整合包使用。\n* 包含基礎礦石配方，並可於自訂模組整合包中進一步擴展。\n\n本模組專為模組整合包開發者設計，提供簡潔明瞭的資源篩選解決方案，無需引入不必要的複雜性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

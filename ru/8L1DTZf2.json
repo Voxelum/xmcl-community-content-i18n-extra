@@ -1,0 +1,6 @@
+{
+  "bodyHash": "67e9c45a33711d83",
+  "content": "**TatamiCraft** 添加了传统的日式建筑方块——榻榻米（Tatami/畳）。\n\n本模组引入了**榻榻米垫及其他日式建筑元素**等方块，让玩家能够打造地道的日式室内和建筑。\n\n![Tatami blocks](https://cdn.modrinth.com/data/cached_images/bd47656a1e27f0b2e6e6d2832631e99e13634589.jpeg)\n\n### 获取方式\n\n使用如下命令：\n\n```\n/give @p tatamicraft:tatami\n/give @p tatamicraft:tatami_half\n```\n\n### 合成\n\n榻榻米可以通过小麦和线合成。\n\n```\nW W\nS S\n```\n\n* W = 小麦\n* S = 线\n\n您还可以合成半张榻榻米，或将完整的榻榻米分割成两半。\n\n榻榻米方块可以使用标准的 Minecraft 染料染成 10 种以上的不同颜色。\n\n### 特性\n\n* **榻榻米及日式建筑方块**\n* **类似地毯的薄型方块设计**，非常适合用作地板和室内装饰\n* 专为**日式房屋、寺庙和传统房间**设计\n* 轻量级且专注于建造体验的模组\n\n### 兼容性\n\n* **Minecraft：**\n  * 1.20.1\n  * 1.21.11\n* **加载器：**\n  * Fabric\n  * NeoForge\n\n---\n\n### v1.1.0 更新：襖（Fusuma）方块\n\n版本 1.1.0 新增了**襖（Fusuma）方块**，这是榻榻米房间和日式室内常见的传统推拉门。\n\n襖方块的设计与榻榻米地板及其他日式建筑方块相匹配，使玩家更容易打造正宗的和室、寺庙、旅馆和传统房屋。\n\n这些方块可用作装饰隔断或室内门，帮助玩家构建更精致的日式空间。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

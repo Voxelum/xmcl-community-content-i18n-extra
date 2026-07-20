@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ae6890f9500eaf1",
+  "content": "\n\nShard's Compats：Voltaic-Sable 兼容\n一款服务端兼容模组，使 Voltaic 能够在 Sable 物理飞船上正常运行，并可选支持 Ballistix 为 Create: Aeronautics 的机械装置提供弹药功能。\n本模组修复了当基于网格供电与弹药模组被组装进 Sable 子层级时所出现的 Bug。仅适用于服务端——连接至服务器的玩家无需安装。\n\n修复内容\n配合 Voltaic + Sable（必需）\n\n拆解时方块重复生成。拆解物理物体时，结构边缘的方块可能会复制——该方块既保留在世界中，又作为物品掉落。现已修复。\n主世界与子层级切换。修复了过渡逻辑，确保网格供电系统与相连机械在组装进、以及从 Sable 子层级中拆解出来时能够正常保留。\n\n配合 Ballistix（可选）\n\n发射器物品堆叠 Bug。从发射器部署物品时，未能正确扣除发射器内的对应物品数量。现已修复。\n机械装置上的发射器与炮塔。允许 Ballistix 的发射器和炮塔在已组装的 Create: Aeronautics 机械装置上正常运作。\n\n前置要求\n若未安装 Ballistix，相关补丁将自动跳过——Voltaic + Sable 的修复仍会生效。\n\n安装方法\n与服务端上的 Sable、Voltaic 以及（可选的）Ballistix 一同安装。客户端无需安装（除非在单人模式下同时游玩这两个模组）。\n\n备注\n\n这是一个兼容补丁，并非内容模组——不会添加任何方块、物品或合成配方。\n专为 Aeronautic Warfare 整合包组合打造：Create、Create: Aeronautics、Simulated 与 Sable。\n\n许可证\n遵循 MIT 许可证发布。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

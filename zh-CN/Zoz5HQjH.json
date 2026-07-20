@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c73bc2c5cfc302a8",
+  "content": "# 跳过过渡动画\n\nFabric 模组，用于移除侵入性或分散注意力的过渡效果。\n\n### 启动 Minecraft：\n\n![标题画面](https://i.ibb.co/nkwP0ky/skiptransitions-titlescreen-c.webp)\n\n### 切换资源包：\n\n![加载资源](https://i.ibb.co/DR9LQGs/skiptransitions-resourceload.webp)\n\n### 通知提示（已缩短）：\n\n![通知提示](https://i.ibb.co/SPfxjVx/skiptransitions-toasts.webp)\n\n## 所有更改项（可配置）\n\n**移除以下侵入性过渡效果：**\n- 标题画面按钮的淡入效果，防止按钮无法点击\n- 在其它菜单上方显示时，Mojang 标志的淡出效果会导致菜单暂时冻结\n\n**同时移除以下装饰性过渡效果：**\n- 应用资源包更改时的 Mojang 标志淡入效果（现改为直接切换）\n- 通知提示的滑入/滑出动画\n  - 相关的“嗖”声效\n\n<br/>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

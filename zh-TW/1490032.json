@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42547a9e3005ec70",
+  "content": "\n\n<h1>Touhou Little Maid：屬性顯示</h1>\n<p><code>Touhou Little Maid: Attribute Display</code> 是一款針對 Minecraft <code>1.20.1</code> 的 Forge 模組，為 <code>Touhou Little Maid</code> 的女僕新增專屬的屬性檢視畫面。</p>\n<h2>簡介</h2>\n<p>本模組為 <code>Touhou Little Maid</code> 的女僕 GUI 新增獨立的屬性頁面，用於查看女僕目前擁有的屬性、具體數值、乘區構成與公式明細。</p>\n<p>介面支援：</p>\n<ul>\n<li>依模組對屬性進行分組顯示</li>\n<li>使用左側分組圖示快速切換</li>\n<li>收藏常用屬性並於收藏夾中查看</li>\n<li>顯示屬性基礎值、加法、乘法與最終結果</li>\n<li>自動隱藏缺乏語言檔的屬性</li>\n</ul>\n<h2>需求</h2>\n<ul>\n<li>Minecraft <code>1.20.1</code></li>\n<li>Forge <code>47.4.0</code></li>\n<li>Touhou Little Maid <code>1.5.0</code></li>\n</ul>\n<h2>備註</h2>\n<ul>\n<li>模組 ID：<code>tlm_atrribute_display</code></li>\n<li>授權：<code>MIT</code></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

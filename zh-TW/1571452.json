@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5ff265d45feae659",
+  "content": "\n\n<h1>基岩版實體模型</h1>\n<p>「基岩版實體模型」是一款模組，讓 Java 版能夠原生使用基岩版的實體模型。</p>\n<p>此模組建議搭配使用包含基岩版實體模型的資源包。</p>\n<p><img src=\"https://cdn.modrinth.com/data/MmYSmcY6/images/45ebdedd4ce532986751f23e722ba1154d0cfb54.png\" alt=\"自訂模型範例\"></p>\n<h2>功能特色</h2>\n<ul>\n<li><strong>基岩模型載入：</strong>動態解析基岩版 <code>.geo.json</code> 幾何檔案，並將其映射至 Java 版的實體模型渲染器。</li>\n<li><strong>客戶端實體定義：</strong>支援採用基岩風格的 <code>.entity.json</code> 檔案來設定模型。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

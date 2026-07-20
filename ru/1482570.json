@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8c5823d17cb019d9",
+  "content": "\n\n<p><strong>Cobblemon Effectiveness</strong>&nbsp;отображает множитель урона для каждого из ваших приёмов прямо на плитках выбора приёма во время боя в Cobblemon, чтобы вам никогда не приходилось гадать, является ли приём суперэффективным.</p>\n<p>Каждая плитка приёма показывает одно из значений:&nbsp;<strong>0&times;</strong>,&nbsp;<strong>&frac12;&times;</strong>,&nbsp;<strong>1&times;</strong>,&nbsp;<strong>2&times;</strong> или&nbsp;<strong>4&times;</strong>&nbsp;в зависимости от типа вашего приёма против текущего типа(ов) противника. Покемоны с двумя типами обрабатываются корректно (например, Огонь против Воды/Лета = 0.5 &times; 0.5 = 0.25&times;, отображается как &frac14;&times;).<br><br><br></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

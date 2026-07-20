@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c2673ede6dbbb2b",
+  "content": "# 🛒 ViScriptShop - 重新定义您的交易体验\n\nViScriptShop 是一款专为 Minecraft 1.21.1 NeoForge 设计的高级商店模组。它摒弃了繁琐的配置文件，转而采用内置可视化编辑器和现代化的购物车界面。旨在为玩家提供流畅的购物体验，同时为模组包创作者提供极其灵活的自定义能力。\n\n# ✨ 核心功能\n## 🖥️ WYSIWYG（所见即所得）可视化编辑器\n告别枯燥的代码配置！ViScriptShop 拥有类似游戏引擎的内置可视化编辑器。\n\n项目管理：采用“项目文件 (.shopproj)”与“结果文件 (.shop)”分离的逻辑，确保开发与发布互不干扰。\n\n实时预览：在编辑器内直接调整商品分类、排序和定价。支持拖拽排序和撤销历史。\n\n状态持久化：编辑器支持最小化。重新打开时无需重新加载项目，显著提升配置效率。\n\n## 🛍️ 现代化购物体验\n购物车系统：可将多个物品加入购物车并一次性结算。清晰显示所需总货币量，并预览将要获得的物品。\n\n灵活定价：不仅支持传统经济货币，还支持完整的物品以物易物功能。\n\n阶段控制：内置进度阶段（Stage）系统，允许您根据玩家的游戏进度解锁或隐藏特定物品。\n\n## 🔗 强大的模组集成\nViScriptShop 并非孤立存在，它与主流模组深度集成，以确保最佳兼容性：\n\n⚡ KubeJS 脚本支持：提供丰富的客户端/服务器事件钩子（如打开、buyPre、buySuccess 等）以及 Util API，允许开发者通过脚本实现极其复杂的交易逻辑。\n\n🎒 背包模组兼容：直接从 Sophisticated Backpacks 和 Beyond Dimension 模组中读取物品作为支付手段。玩家无需在主手持有货币。\n\n🔍 JEI 集成：在商店界面内直接使用 JEI 快捷键查看物品合成表，无需关闭窗口。\n\n# 🛠️ 管理命令\n\n模组提供了便捷的命令用于服务器管理和调试：\n\n/viscript_shop editor：打开可视化编辑器。\n\n/viscript_shop reload：热重载商店数据（清除缓存），允许您在无需重启游戏的情况下测试新商店。\n\n/viscript_shop setStage & /viscript_shop money：快速管理玩家的阶段和经济数据。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

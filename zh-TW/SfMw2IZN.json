@@ -1,6 +1,6 @@
 {
-  "bodyHash": "pk7aEKDKdZ4=",
-  "content": "![Nvidium 渲染大量地形幾何](https://i.imgur.com/k8A1buX.jpg)\n\nNvidium 是 Sodium 的替代渲染後端，使用 NVIDIA 專有的 OpenGL 擴展，能大幅提升 FPS。\n\n## 相容性\n此模組明確需要支援網格著色器的 NVIDIA GPU。  \n此功能於圖靈架構中引入，任何 16xx 系列或更新（20xx 系列也可）的 GPU 皆支援網格著色器。\n\n### Q：此模組能在非 NVIDIA 系統上運作嗎？\n### A：不行，模組在非 NVIDIA 系統上無法運作，但 Nvidium 會自動停用，您的遊戲體驗不會受影響。\n\n## 警告\n此模組使用非主流技術（網格著色器），可能導致 Minecraft 意外終止。\n\n## 運作原理\n透過網格著色器，採用近乎完全由 GPU 驅動的渲染管線，實現快速且高效的地形幾何剔除，讓 GPU 能更有效率地運作。\n\n# 需要安裝 Sodium 才能執行\n## 當 Iris 啟用光影時會自動停用\n\n![ ](https://cdn.modrinth.com/data/cached_images/071b0da4b0956d18fe61c0d1c37f3a92dc3a3f0a.webp)",
+  "bodyHash": "b882a10c7c0dbe44",
+  "content": "\n\n![Nvidium 渲染大量地形幾何圖形](https://i.imgur.com/k8A1buX.jpg)\n\nNvidium 是 Sodium 的替代渲染後端，僅使用 NVIDIA 專用的 OpenGL 擴展功能，可大幅提升幀率。\n\n## 相容性\n此模組明確需要支援 Mesh Shaders（網格著色器）的 NVIDIA GPU。 \n此功能始於 Turing 架構，任何支援 Mesh Shaders 的 16xx 系列或更新版本（20xx 系列亦可）皆適用。 \n\n### 問：此模組是否能在非 NVIDIA 系統上運作？\n### 答：否。此模組無法在非 NVIDIA 系統上運作，但 Nvidium 會自動停用。您的遊戲體驗不會受到影響。 \n\n## 警告\n此模組使用了較為少見的技术（Mesh Shaders）。這可能會導致 Minecraft 意外結束。\n\n## 運作原理\n透過 Mesh Shaders，採用近乎完全由 GPU 驅動的渲染管線，實現極快且高效的地形幾何剔除，使您的 GPU 能更有效地運算。\n\n# 運行需求：需安裝 Sodium\n## 當 Iris 正在使用着色器時會自動停用\n\n![ ](https://cdn.modrinth.com/data/cached_images/071b0da4b0956d18fe61c0d1c37f3a92dc3a3f0a.webp)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

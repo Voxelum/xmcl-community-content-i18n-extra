@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8e95d913aad026ed",
+  "content": "\n\n## 座標偽裝！\n\n**若您使用的是 1.21.8 - 1.21，請關閉背景模糊功能**\n![已關閉背景模糊的無障礙設定畫面](https://cdn.modrinth.com/data/cached_images/a20bca6ff7ec9b2424b13e63de04f0a214534379.png)\n<br>\n**Coord Faker 0.2.6 現已支援 26.1.x 與 1.21.x！**\n### 快速上手\n開啟控制鍵與快捷鍵選單來設定模組的按鍵。 <br>\nF6：切換模式（原版、相對、絕對、零）。 <br>\nF7：開啟選單設定自訂偏移量。 \n\n### 重要事項\n- **使用安全**：此模組僅限本地端運作。它**不會**改變您在伺服器上的真實位置，也不會影響遊戲玩法。它只是對您的 F3 畫面「撒謊」罷了！ <br>\n- **相容性**： \n  + Minecraft 原版 F3 除錯畫面\n  + BetterF3\n  + Sodium Extra 座標覆蓋層\n  + Litematica 工具 HUD\n\n這只是一個有趣的休閒專案，所以請不要對內容抱持太高期望。:3",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

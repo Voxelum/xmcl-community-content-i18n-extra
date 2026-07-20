@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f2bd54716c26ce6d",
+  "content": "\n\n## 簡易甘蔗農場 v1․0 😊\n**想在任何地方放置甘蔗，而不受液體 _的殘酷束縛？_**<br>\n<sup>（沒錯，我有一個好消息要告訴你）<sup>\n\n--- \n\n### 功能\n1. 允許將甘蔗放置在未與水源方塊相鄰的方塊上\n2. 甘蔗將始終如同緊鄰水源般正常生長\n\n就這些！享受你優化過的甘蔗農場吧 o7<br>\n<sup>或者用它來建造更漂亮的建築之類的，這也很酷很讚<sup>\n\n---\n\n\n<details>\n<summary> 技術「原理」🤓 </summary>\n\n修改了 \"supports_sugar_cane_adjacently.json\" 方塊標籤\n- 此標籤通常僅包含 \"frosted_ice\"，用以防止冰行者靴子破壞甘蔗\n- 我將遊戲中的每一個方塊都加入了該標籤 \n  \n自訂標籤 \"all_the_blocks.json\" 定義於 \"hydrated_sugarcane\" 命名空間下\n- 此標籤來源於 HeDeAnTheonlyone 的 \"Taglib\"（位於 GitHub！）\n  - （我只額外補上了 1.21.9+ 版本新增的方塊）\n  - （真的非常感謝，我真的不想自己手動處理那些 lol 🙏）    \n\n同時加入了簡單的邏輯與計分板持有者，僅在首次載入時提供安裝確認。  \n沒有惡意的 tick 函數或其他東西 👍\n\n\n</details>\n\n_感謝查看我的資料包！！-DRE_\n\n------------------------------\n### 聯絡資訊\n如有任何問題或疑問，歡迎隨時來信至：drecubed.contact@gmail.com\n\n-----------------------------",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

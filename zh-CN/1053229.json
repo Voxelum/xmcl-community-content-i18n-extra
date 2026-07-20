@@ -1,0 +1,6 @@
+{
+  "bodyHash": "20782149de025528",
+  "content": "\n\n<p>本模组是 [Dungeons and Taverns](<a href=\"https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns</a>) 系列的一部分，但**无需安装** Dungeons and Taverns 即可运行。主模组 Dungeons and Taverns **并不包含**本模组的功能。如果您想要更多类似的结构，请查看[我的主页！](<a href=\"https://www.curseforge.com/members/nova_wostra/projects\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/members/nova_wostra/projects</a>)</p>\n<p>- 彻底重制原版下界要塞<br>- 使用命令 `/locate structure minecraft:fortress` 进行定位。<br>- 保证生成 1 个烈焰人生成器，但还会随机散布更多。这主要是数据包的限制，无法精确限定只生成指定数量的生成器。<br>- 桥体部分已全面重制，风格更加粗犷硬朗，但仍保留了内部结构<br>&nbsp; - 每个桥段有 1/4 的概率生成一个包含原版要塞战利品的箱子<br>&nbsp; - 每个桥梁交叉口部分（例如两个十字路口之间的直道部分）在空间允许的情况下，有 1/6 的概率生成烈焰人塔<br>- 要塞内部走廊部分已全面重制<br>&nbsp; - 共有 3 种走廊部件：<br>&nbsp; &nbsp; - 窄道：这类走廊部件有概率生成原版要塞箱子、装饰物，或什么都不生成。<br>&nbsp; &nbsp; - 楼梯：指楼梯部分，总是向下延伸一层。包含下界疣楼梯和烈焰人楼梯，它们将下界要塞走廊分流，使路径在同一层继续并上升两层<br>&nbsp; &nbsp; - 侧翼：指可包含房间的部件，共有 30 个 7x4x7 的房间和 11 个 7x4x15 的房间（包含烈焰人和岩浆怪生成器的房间）<br>&nbsp; - 房间内可包含战利品箱。为确保模组兼容性，会先按原版下界要塞战利品表抽取一次，再按为此重制版自定义的战利品表抽取<br>&nbsp; - 弯道无法与其他弯道直接连接<br>&nbsp; - 侧翼无法与其他侧翼直接连接</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "57b7b77f67c17259",
+  "content": "\n\n<p>PackagedFluidCrafting — это аддон к <a href=\"/mod/packagedauto\">PackagedAuto</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/ae2-fluid-crafting-rework\">AE2 Fluid Crafting Rework</a>, который полностью перерабатывает поддержку PackagedAuto в AE2 Fluid Crafting, делая её более похожей на поддержку крафта жидкостей в PackagedAuto для версий 1.18.2+. Этот мод требует установки <a href=\"/mod/mixinbooter\">MixinBooter</a>.</p>\n<p>Основные изменения, вносимые этим модом:<br>&bull; Тип рецепта Fluid Processing удалён<br>&bull; Все типы рецептов обработки изменены для поддержки крафта жидкостей с корректной поддержкой JEI<br>&bull; Объём жидкости теперь можно напрямую редактировать в Кодировщике (Encoder)<br>&bull; Крафт газов из Mekanism также поддерживается при наличии необходимых модов</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

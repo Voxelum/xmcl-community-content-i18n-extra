@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0b7b06a38f686f78",
+  "content": "\n\n**Deez Sacks** 是一個數據包，旨在將 EasyShulkerBoxes 新增的庫存管理功能與 Supplementaries 模組新增的麻袋整合運作！\n\n本數據包必須同時安裝 EasyShulkerBoxes 與 Supplementaries。若欲搭配 Dye Depot 或 SupplementariesSquared 使用則為選用項目；但若使用了這兩者，請一併下載 [Dye the World](https://modrinth.com/mod/dye-the-world)，否則新增的彩色麻袋將無法顯示材質。\n\n若在 Supplementaries 的設定檔中調整了格子數量，只需在數據包檔案內修改各麻袋的尺寸*即可。\n\n*預設值為「height: 3」與「width: 3」，總共對應 9 個格子。\n\n特別感謝 [Kelpie](https://modrinth.com/user/Kelpiesaurus) 提供了這個讓我會心一笑的名稱！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

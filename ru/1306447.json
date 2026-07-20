@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b2162f1a0138a610",
+  "content": "\n\n<p>Добавляет возможность преобразовывать прочность любого предмета в электричество (теоретически поддерживает энергосистемы большинства модов, но автор не производил балансировку значений, поэтому используется только FE).</p>\n<p>Начальная мощность предмета, работающего от FE, равна его исходной прочности.</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1306447/description_a4f4b61a-7753-4df8-8aeb-769f2f46f4ac.png\" alt=\"image\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1306447/description_bf3ac3cb-30b6-4ec3-8eee-004ebf31e0cb.png\" alt=\"image\"></p>\n<p>При каждом соединении с батареей максимальная мощность будет экспоненциально возрастать, пока не достигнет предельного значения для типа int.</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1306447/description_3a783181-0501-4bd0-b168-1629e448e1dd.png\" alt=\"image\"></p>\n<p>Когда максимальная мощность достигнет порога, предмет снова соединяется с батареей на наковальне, чтобы получить неуничтожаемый оригинальный предмет.</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1306447/description_371152da-9f7d-48a5-be42-eb757a9b91b3.png\" alt=\"image\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

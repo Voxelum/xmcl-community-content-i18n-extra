@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6a2e8eccde1b085c",
+  "content": "\n\n# LetsPonderW\n\nLetsPonderW 是一款致力于简化 Ponderer 场景管理的实用模组。它会根据你游戏中当前安装的模组，自动从指定的 Git 仓库获取并应用对应的 Ponderer 内容。\n\n### 核心功能\n\n* **智能按需下载**：启动时，模组会读取云端索引并与本地已安装模组进行比对，仅下载当前环境真正需要的 Ponder 片段。\n* **基于哈希的增量更新**：通过在本地缓存的 `assemble.json` 中记录文件哈希值，模组能精准识别在线资源的变更并跳过未修改的文件，从而显著节省带宽。\n* **无缝自动加载**：下载完成后，模组会自动构建一个名为 `Let'sPw Assembled Pack` 的内置资源包。它将相应的脚本和结构直接迁移并注册到 Ponderer 的配置目录中，无需玩家手动解压或移动任何文件。\n* **状态可视化** *（可选）*：资源加载并组装完成后，游戏右上角会出现一条 Toast 通知，直观地告知你当前已加载 Ponder 片段的状态。\n\n### 配置说明\n\n首次运行后，模组会在 config 目录生成 `letsPonderW.json` 配置文件，支持以下高度自定义的选项：\n\n* `repository` (字符串)：Ponder 索引仓库的自定义地址。默认指向 [官方 GitLab 仓库](https://gitlab.com/LiPolymer/LetsPonderWIndex)。你可以将其替换为你自己维护的私有 Ponder 源。\n* `onlyLoad` (布尔值)：设置为 `true` 时，模组将完全跳过网络下载与更新阶段，仅加载本地缓存的 Ponder 资源。非常适合离线游玩或希望锁定内容的整合包作者。\n* `normalToast` (布尔值)：切换 Toast 通知的显示样式。设置为 `true` 时将显示简化的加载提示。\n\n### 依赖要求\n\n请确保你的游戏环境中已安装以下前置模组：\n* **NeoForge**：模组加载器。\n* **Kotlin for Forge (≥ 5.0.0)**：提供必要的 Kotlin 运行时支持。\n* **Ponderer**：游戏内 Ponder 加载器与编辑器。\n\n*开发者也欢迎通过向我们的索引仓库提交 MR/PR，将你的 Ponder 作品分享给所有玩家！*\n\n[GitLab 索引](https://gitlab.com/LiPolymer/LetsPonderWIndex)\n[GitHub 索引](https://github.com/LiPolymer/LetsPonderWIndex)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

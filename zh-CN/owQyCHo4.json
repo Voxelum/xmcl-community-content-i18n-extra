@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e62a57216c6b353e",
+  "content": "<h1 align=\"center\">Iris Veil 兼容模组<br>\n  <a href=\"https://github.com/leon-o/iris-veil-compat\"><img src=\"https://img.shields.io/github/license/leon-o/iris-veil-compat\" alt=\"License\"></a>\n    <br><br>\n</h1>\n\n# Iris Veil 兼容模组\n允许使用 Veil 渲染引擎的模组（例如 **Create: Aeronautics**）在使用 Iris 着色包时正确渲染。\n\n# 原理\n[Veil](https://github.com/FoundryMC/Veil) 是一个用于 Minecraft 模组的先进渲染 SDK——它提供了供其他模组构建的着色器基础设施。其中最著名的使用者是 [Create: Aeronautics](https://github.com/Creators-of-Aeronautics/Simulated-Project)，它利用 Veil 来实现飞机机翼、玻璃面板、尾迹以及其他视觉效果。\n\n问题在于：当你通过 Iris 启用着色包时，由 Veil 渲染的视觉元素会完全绕过着色包的管线，导致它们显示异常或丢失。\n\n本模组会在运行时自动将 Veil 着色器代码合并到着色包的 gbuffer 程序中，从而使基于 Veil 的视觉效果（如 Aeronautics 的飞机）与你的着色包无缝集成。\n\n# 实现细节\n\n本模组通过 Mixin 拦截 Veil 的着色器编译过程，捕获并缓存处理后的着色器源码。在渲染时，它使用基于 AST 级别的补丁技术（由 [glsl-transformer](https://github.com/IrisShaders/glsl-transformer) 提供支持），将 Veil 着色器逻辑注入到着色包的 gbuffer 顶点/片段程序中，并创建一个 Iris `ShaderInstance` 来替换原始的 Veil 着色器。\n\n当你切换或重新加载着色包时，缓存会自动失效——无需重启游戏。\n\n# 兼容性\n- **Iris** 1.8.1+（必需）\n- **Sodium**\n- **Veil** 4.0.0+\n- 已与 **Create: Aeronautics** (Spring, Laser) 和 **Sable** 测试兼容\n\n# 致谢\n本项目使用 [glsl-transformer](https://github.com/IrisShaders/glsl-transformer) 进行着色器 AST 操作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

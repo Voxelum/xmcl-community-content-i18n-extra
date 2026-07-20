@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c1cdbb247c4cb123",
+  "content": "# FlashBatch\n\n**FlashBatch** 是 [Flashback](https://modrinth.com/mod/flashback) 的辅助模组，允许你一次性排队渲染同一回放中的所有场景，而不是逐个将场景添加到导出队列中。\n\n## 功能介绍\n\nFlashBatch 在 Flashback 的主菜单栏中添加了一个 **全部场景入队...** 选项。点击它可打开一个批量导出窗口，其样式与 Flashback 自身的编辑器 UI 保持一致。你可以在将所有场景加入队列之前，精确配置每个场景的导出方式。\n\n## 特性\n\n- **自定义文件名模式** - 使用 Flashback 自带的占位符（`%seq%`、`%scene%`、`%date%`、`%time%`、`%replay%`），并提供解析后文件名的实时预览。需要时，你可以为 `%seq%` 设置自定义起始编号。\n- **完整的导出选项** - 分辨率、帧率、投影方式、容器/编解码器/编码器、比特率、透明度、SSAA、音频设置……提供与 Flashback 自身导出窗口相同的选项，且独立于你保存的偏好设置，确保批量导出不会覆盖你的常规默认值。\n- **每批次自定义输出文件夹** - 支持通过文件夹选择器指定。\n- **时间范围选择器** - 可选择每个场景使用其入点/出点、第一个/最后一个关键帧或完整录制素材进行导出；如果所选源在特定场景中为空，则自动回退。\n- **按场景筛选** - 默认包含所有场景，同时提供可选的检查列表以排除特定场景。\n- **设置记忆** - 在游戏会话之间保留设置。\n\n不会自动渲染：FlashBatch 仅将任务排入 Flashback 自身的渲染队列，效果等同于你手动对每个场景点击“添加到队列”。\n\n## 依赖要求\n\n- [Flashback](https://modrinth.com/mod/flashback)\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n\n## 源码\n\n源代码：https://github.com/louisjnrt1-hash/Flashbatch",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

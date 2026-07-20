@@ -1,0 +1,6 @@
+{
+  "bodyHash": "564f7d7007183d57",
+  "content": "\n\n<p>Этот мод позволяет разместить мини-карту на запястье на тыльной стороне правой руки. Масштаб, параметры и маски можно настраивать в файле конфигурации.</p>\n<p>Это сохраняет оригинальный HUD на запястье левой руки без изменений и добавляет маску в верхний левый угол, чтобы скрыть карту, отображаемую ViveCraft.</p>\n<p>Данный мод создан как дополнение для ViveCraft версии 1.21.11-1.3.9-fabric.</p>\n<p>Разработан для работы с xaerominimap-fabric-1.21.11-26.3.0, но отображает левый верхний угол HUD на тыльной стороне правой руки, поэтому теоретически могут подойти и другие карты.</p>\n<div class=\"spoiler\">\n<p>dualwristhud.json</p>\n<p>{<br>&nbsp; \"enabled\": true,<br>&nbsp; \"hideWhenScreenOpen\": true,<br>&nbsp; \"offsetX\": 0.06,<br>&nbsp; \"offsetY\": -0,<br>&nbsp; \"offsetZ\": 0.12,<br>&nbsp; \"pitch\": -90.0,<br>&nbsp; \"yaw\": 90.0,<br>&nbsp; \"roll\": 270.0,<br>&nbsp; \"scale\": 0.4,<br>&nbsp; \"crop\": {<br>&nbsp; &nbsp; \"enabled\": true,<br>&nbsp; &nbsp; \"x\": 0.0,<br>&nbsp; &nbsp; \"y\": 0.0,<br>&nbsp; &nbsp; \"width\": 0.25,<br>&nbsp; &nbsp; \"height\": 0.35<br>&nbsp; }<br>}</p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

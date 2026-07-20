@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db62e681ea94dd9b",
+  "content": "\n\n# 🛠️ Easy NPC：配置界面\n\n_**Easy NPC：配置界面**_ 模组为 [_Easy NPC_](https://www.curseforge.com/minecraft/mc-mods/easy-npc-core) 模组添加了一个**用户友好的配置界面**。\n\n通过该界面，玩家可以在游戏中轻松调整各项 NPC 设置，使自定义过程更加直观便捷。\n\n## ⚙️ 依赖要求\n\n- ✅ 运行需依赖 **Easy NPC：核心** 模块。\n- ❗ 若您仅使用 [_Easy NPC：核心_](https://modrinth.com/mod/easy-npc-core)，则**必须安装此模组**才能通过图形界面配置 NPC。\n\n## ❓ 何时需要此模组？\n\n符合以下条件时请使用此模组：\n\n- 您希望为 Easy NPC 提供**基于图形界面（GUI）的配置功能**。\n- 您仅使用了**核心版本**（未包含内置 UI）。\n\n符合以下条件时**无需安装此模组**：\n\n- 您使用的是完整的 [_Easy NPC 整合包_](https://modrinth.com/mod/easy-npc)，其中已自带配置界面。\n- 您更倾向于使用**指令**或外部配置文件来管理 NPC。\n\n## 👥 推荐人群\n\n- 偏好**可视化界面**而非指令操作的玩家。\n- 希望为玩家提供直观配置选项的整合包制作者。\n\n## 简介与概览视频（英文）\n\n<span><span><span><iframe width=\"788\" height=\"443\" src=\"https://www.youtube.com/embed/RYCN2KtFl-4\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></span>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d9923a5e9b0f72ec",
+  "content": "Смотрите [плагин](https://modrinth.com/plugin/feathermorph).\n\n![обложка](https://raw.githubusercontent.com/XiaMoZhiShi/FeatherMorphClient/master/assets/cover.png)\n\n<center>\n\n<h3> Интеграция клиента для FeatherMorph </h3>\n\n  [![GH Actions](https://github.com/XiaMoZhiShi/MorphPluginClient/actions/workflows/build.yml/badge.svg)](https://github.com/XiaMoZhiShi/FeatherMorphClient/actions)\n  [![Последний релиз](https://img.shields.io/github/release/XiaMoZhiShi/MorphPluginClient.svg)](https://github.com/XiaMoZhiShi/FeatherMorphClient/releases/latest)\n\n[Плагин](https://modrinth.com/plugin/feathermorph) | [Вики плагина (в разработке)](https://github.com/XiaMoZhiShi/FeatherMorph/wiki)\n\n</center>\n\n## Возможности\n- Графический выбор маскировки\n- Привязки действий\n- Улучшенная работа с изменением boundingbox\n- Изменение высоты камеры в соответствии с текущей маской\n- Уведомления о разблокировке/потере маски или запросах обмена\n\n## Привязки клавиш\n![Привязки клавиш](https://cdn-raw.modrinth.com/data/I5NIj6Y1/images/fb65ac28a9a3fcc6b3db7260fcdf376d42d969ce.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db4067859c369341",
+  "content": "# 应用气动学\n\n<p align=\"center\">\n  <img src=\"https://i.imgur.com/ZUmdWWw.png\" alt=\"Applied Pneumatics banner\" width=\"92%\">\n</p>\n\n**应用能源 2** 与 ** PneumaticCraft: Repressurized（气动工艺：加压版）** 的整合模组。  \n将**压缩空气存储**、便捷的**温度控制**以及**自动化 Amadron 交易**引入 ME 网络。\n\n## 功能概览\n\n* **空气存储**：新增 ME 空气存储单元。便携版本也可作为空气罐使用。\n* **ME 压力接口**：通过向 ME 网络插入或提取空气来维持目标压力。在外部遵循 PneumaticCraft 的高压到低压的自然扩散机制。\n* **ME 温度接口**：消耗 AE 能量和压缩空气以维持设定温度。在外部遵循 PneumaticCraft 的自然热扩散机制。\n* **P2P 隧道**：新增两种隧道类型（空气/温度），用于跨区域分布和平衡。\n* **Amadron 集成**：支持无线终端和处理站。允许将“无限供应交易”保存为 AE 模式，以实现自动化操作。\n* **AE 总线兼容**：导入/导出/存储总线可以与空气容器进行交互。\n* **新增 Amadron 交易**：增加购买和出售基础资源的新交易选项。\n\n## 其他信息\n\n- **兼容性 / 集成**\n    - 安装 **MEGA Cells** 以解锁更大的 **ME 空气存储单元**（从 **1M** 到 **256M**）。\n    - 安装 **ExtendedAE** 以解锁扩展版的 **Amadron 处理站**。\n\n- **内置资源包**\n    - 本模组包含一个内置资源包，允许你在 **1.21.1** 上使用 **AE 1.20.1 风格**的视觉效果，反之亦然。\n\n- **深色资源包**\n    - 如果你想要深色主题，请下载 **[Applied Pneumatics Dark Mode](https://modrinth.com/resourcepack/applied-pneumatics-dark-mode)**。\n\n- **游戏内文档**\n    - 详细的指南可通过游戏内的 **GuideME** 获取。\n\n## 许可证\n\n- **代码**：[LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.html)\n- **艺术资产**：[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

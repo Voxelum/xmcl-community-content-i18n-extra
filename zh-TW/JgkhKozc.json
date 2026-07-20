@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ca40f723e8b7f89b",
+  "content": "\n\n# _________________________________\n關於新內容與版本移植\n\n模組目前支援的 Minecraft 版本\n目前僅支援 1.20.1\n\n其他版本正在進行進一步測試\n\n目前僅支援 Forge\n\n我們目前已新增數種附魔與部分食物\n例如，部分物品允許您在不使用附魔桌的情況下進行附魔\n\n# _________________________________\n\n您只需將模組放置於與其他模組相同的位置即可\n您只需將模組放入 /mods 資料夾中\n伺服器端安裝方式相同\n\n截至目前尚未發現明顯的相容性問題\n若確實遇到問題，請於[這裡](https://github.com/TransferStation-ai/minearchive/issues)回報\n\n部分物品在特定情境下非常實用，甚至能為您帶來一些樂趣\n本作為非官方二次創作，僅參考《碧藍檔案》相關內容，並未使用官方素材\n\n以下是我們希望展示的內容：\n\n![替換為描述內容](https://cdn.modrinth.com/data/cached_images/73441d8c1f723f56ddf571841d4cf6aaa08c7735.png)\n\n![替換為描述內容](https://cdn.modrinth.com/data/cached_images/b2b88c5ce547852cefa7ac2a7105d588295ada91.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

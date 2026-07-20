@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b7b979ecd756f7ad",
+  "content": "\n\n# Icarus-Transmog Compat\n\nМод совместимости, позволяющий отображать крылья Icarus с внешним видом из мода Transmog.\n\n## Описание\n\nЭтот мод обеспечивает интеграцию между [Icarus](https://modrinth.com/mod/icarus-wings) и [Transmog](https://modrinth.com/mod/transmog).\nПри применении внешнего вида Transmog к предмету «Крылья Icarus», они будут отображаться в игре с использованием модели и текстуры этого внешнего вида вместо стандартного вида Icarus.\n\n## Зависимости\n\n*   Fabric Loader\n*   Fabric API\n*   Icarus\n*   Transmog\n\n## Установка\n\n1.  Скачайте последнюю версию.\n2.  Поместите файл `.jar` в папку `mods`.\n3.  Убедитесь, что все зависимости установлены.\n\n## Лицензия\n\nЭтот проект распространяется под лицензией MIT.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

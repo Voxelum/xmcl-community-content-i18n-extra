@@ -1,0 +1,6 @@
+{
+  "bodyHash": "08065364e5c462b5",
+  "content": "# Вертикальное покачивание камеры\n<a href=\"https://modrinth.com/mod/vertical-bobbing\"><img alt=\"Страница мода на Modrinth\" height=\"64\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/available/modrinth_vector.svg\"></a>\n<a href=\"https://github.com/0x000006/vertical-bobbing\"><img alt=\"Страница мода на GitHub\" height=\"64\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/available/github_vector.svg\"></a>\n\nВозвращает вертикальное покачивание камеры из Minecraft &lt;=1.13.2 ([MC-225335](https://bugs.mojang.com/browse/MC-225335)).\n\nMojang удалили эту функцию без видимых причин в предварительной версии 1.14, поэтому я вернул её обратно.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2cb8089a5dbc92da",
+  "content": "<a href='https://ko-fi.com/X8X71FI3YO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/SQ5ZLKg5/support-me-on-kofi-beige.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>\n\n## Описание\nМод/датапак добавляет работающий кубик Рубика.\n\n![preview](https://i.postimg.cc/JnZCQwnZ/2024-11-02-14-24-45.gif)\n\n## Как использовать\nЧтобы куб появился или собрался, вам нужно выполнить эту команду.\n\n```\n/function cube:cube\n```\n\nЧтобы сделать куб цветным, выполните эту команду.\n\n```\n/function cube:color_cube\n```\n\nЧтобы создать куб с наклейками, выполните эту команду.\n\n```\n/function cube:stiker_cube\n```\n\nДля вращения грань нужно сесть на сиденье (чтобы хитбоксы работали корректно), удерживать левую кнопку мыши и поворачиваться в ту сторону, куда хотите прокрутить грань. Чтобы запустить таймер, нажмите левую кнопку с изображением ладони, чтобы остановить — правую. Чтобы разобрать куб, нажмите оранжевую кнопку справа или слева. Результат будет одинаковым, но процесс различается.\n\n## Зависимости\n- Fabric loader требует [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

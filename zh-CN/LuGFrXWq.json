@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e03120a73715fc05",
+  "content": "\n\n**Create: Deco 可调光笼灯 (Create: DDCL)**\n\n你是否使用过 Create: Deco 的笼灯？它们是建造中非常棒的装饰方块。然而，我想将它们用作夜间安全灯或工厂中的低亮度信号灯。因此，我制作了本模组以实现这一功能。\n\n你可以通过改变红石充能输入来调节亮度（可以使用比较器来实现，或者我也建议使用 Create: Connected 模组中的序列脉冲生成器）。\n\n\n## 内容\n\n本模组添加了以下四种颜色（红、蓝、绿、黄）的可调光灯材质版本：\n\n- 安山岩\n- 黄铜\n- 铜（亦包含 Create 0.5.1 旧版）\n- 工业铁\n- 铁\n- 锌\n- 金（Create: Deco 已移除）\n- 下界合金（Create: Deco 已移除）\n\n显然，所有灯具均可作为普通的 Create: Deco 笼灯使用，因为当它们完全充能时，其行为与普通灯具完全一致。\n\n下界合金笼灯可以通过工业铁笼灯合成。我知道这个合成配方看起来不太合理，但如果直接制作下界合金笼灯每个灯具都会浪费一个锭，我觉得这样不太好，所以我还是添加了这种转换合成配方。\n\n本模组还为灯具提供了两种物品栏排序方式：按颜色和按材质，具体请查看配置文件。\n\n推荐使用 [EMI](https://modrinth.com/mod/emi) 或 [JEI](https://modrinth.com/mod/jei) 查看合成表。\n\n## Euphoria Patches 兼容\n\n本模组目前已收录至 [Euphoria Patches](https://www.euphoriapatches.com/)，但仅支持 1.0.3 及以上版本。我已移除了旧版本，因为它们已被弃用，且会导致 Euphoria 文件变得混乱不堪。\n\n彩色灯光在低亮度下同样有效，因此你可以利用光影效果为你的建筑增色不少！\n\n***\n\n**从 1.0.1 版本开始，本模组现已依赖 Create: Deco 和 Create！**\n\n重要提示：本模组复用了部分 Deco 模组的资源，这在其[许可证](https://github.com/talrey/CreateDeco?tab=CC0-1.0-1-ov-file)中应是被允许的。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e14cbf03896c6005",
+  "content": "\n\n<p>这是一个仅针对客户端的简单聊天过滤器，适用于 <code>1.21.1</code>&nbsp;<code>NeoForge</code>&nbsp;<code>21.1.117</code>&nbsp;（未在其他版本上测试）。\n将模组安装到游戏目录下的 <code>mods</code> 文件夹中。\n启动一次游戏，然后编辑 <code>config/xlchat.txt</code> 以添加触发词。</p>\n<pre><code># 一个触发词占一行  \n# 若该行内容出现在消息中 =&gt; 该消息将不会显示  \n# 以 # 开头的行将被忽略  \n#  \nbad_word  \nspam_link</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

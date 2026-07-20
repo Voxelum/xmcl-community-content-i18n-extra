@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9b597126ba02edc1",
+  "content": "不朽模組基本上就是讓玩家獲得不死之身，當您應該死亡時，無論死因為何，您都只會剩下半顆心。此效果適用於世界中所有現有的玩家。\n\n您可以使用指令「immortal」來選擇哪些玩家是不朽的。使用該指令可使某位玩家獲得不死之身，再次使用則會恢復其正常壽命（預設啟用的遊戲規則名為「immortalPlayers」，它會使所有玩家都不朽；若要指定哪些玩家不朽、哪些玩家正常，請先停用該規則，然後再使用「immortal」指令）。\n\n_自 1.21.11 版本起，該遊戲規則的名稱為 immortal_players_\n\n_在最新版本中，您可以使用 /isimmortal [玩家名稱] 來檢查某位玩家是否不朽，或使用 /getimmortals 來查看每位玩家的狀態（正常/不朽）_\n\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/immortality-mod)\n\n<br>\n\n<a href=\"https://discord.gg/eFjWWvNphY\"><img src=\"https://i.imgur.com/ITIIVc1.jpeg\" alt=\"Discord invite\" width=\"358\"></a>\n\n<a href=\"https://www.patreon.com/c/boboMCmods\"><img src=\"https://i.imgur.com/1EGs51Y.png\" alt=\"patreon link to support me\" width=\"360\"></a>\n\n<a href=\"https://ko-fi.com/bo_bo\"><img src=\"https://i.imgur.com/J5FW8zh.png\" alt=\"ko-fi link to donate\" width=\"366\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

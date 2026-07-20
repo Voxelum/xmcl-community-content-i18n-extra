@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9b8fd8a21964813a",
+  "content": "\n\n本模组允许你调整手部和物品的位置、旋转角度和大小。\n要更改手部大小，请将 _Z_ 坐标设置为负值，然后利用 _Y_ 和 _X_ 坐标将其移动到你想要的位置。\n\n你可以在配置文件夹中（通过 TOML 文件）或游戏内图形界面（GUI）中编辑这些数值。\n默认按 **V** 键即可打开该界面，你也可以自定义此按键绑定。\n\n如有任何建议或需反馈问题，欢迎加入我的 Discord 服务器：\nhttps://discord.gg/vYkxsaeWMf",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

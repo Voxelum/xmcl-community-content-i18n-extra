@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bf022e80ec97c095",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/hKd5W1W.png\" alt=\"\"></p>\n<h1>Roughly Enough Resources</h1>\n<p>此模組旨在取代 <a href=\"https://minecraft.curseforge.com/projects/just-enough-resources-jer\" rel=\"nofollow\">Just Enough Resources</a>，而該模組本身則是作為 <a href=\"https://minecraft.curseforge.com/projects/notenoughresources\" rel=\"nofollow\">Not Enough Resources</a> 的替代品。</p>\n<p>簡而言之，它會顯示各種方塊在世界中生成的海拔高度。請注意，在某些情況下，方塊（構成世界的元素）與物品（REI 顯示配方的對象）之間並無法完全對應。RER 嘗試透過多種方式來處理這種情況。部分情況會顯示為附加在同一個物品上的多個配方——例如，牆上的火把與地上的火把是不同的方塊，但卻是相同的物品。其他情況則會顯示為關聯性較低的物品——水與熔岩會顯示為對應的桶子，火焰方塊則顯示為打火石與鐵片。少數不同的方塊會顯示為問號，不過您可以將滑鼠游標懸停在上方以查看方塊名稱。可惜的是，REI 對空氣物品的支援相當有限——如果您嘗試在空氣物品上按下「R」鍵，不會有任何反應。空氣的配方僅會出現在所有「世界生成」配方列表中。</p>\n<p><strong>授權條款：</strong></p>\n<p>MIT 授權條款</p>\n<p><strong>截圖：</strong></p>\n<p><img src=\"https://i.imgur.com/Up5qB7L.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

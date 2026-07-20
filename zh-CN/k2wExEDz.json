@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0da4c2a62cad2c08",
+  "content": "\n\n# SPBR LegacyCompatibility  \n此包旨在解决 SPBR 在较旧版本的 Minecraft 中加载时遇到的问题。  \n这是 [SPBR](https://modrinth.com/resourcepack/spbr) 的补丁包。  \n**此包遵循 LabPBR 标准制作**  \n若要使用此包，您需要支持 LabPBR 的着色器。  \n并且应将其 _置于_ SPBR 主包 _之上_\n![Hanging Sign](https://cdn.modrinth.com/data/k2wExEDz/images/6d22579edffac0e3561ba79b93d256f6e42dbe36.jpeg)\n_此包可单独使用。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

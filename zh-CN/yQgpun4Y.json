@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1b0fd8c90c75fa91",
+  "content": "\n\n这是一个同时为 [Incendium](https://modrinth.com/datapack/incendium) 和 [Boss Checklist](https://modrinth.com/mod/boss-checklist) 制作的模组插件，将前者的“悬浮炼狱”首领整合到后者的首领列表界面中作为独立条目。\n\n\n**“你是怎么做到的？Incendium 可是以模组形式打包的数据包！”**\n首先，该模组添加了一个虚假的、无法生成的替身实体，作为你所看到的首领列表条目的基础。条目中“掉落物”分类下显示的自定义掉落物同样是虚假的、无法获取的物品，旨在还原真实情况。一旦检测到玩家获得了击败该首领对应的进度，该首领的条目便会自动标记为已击败。\n\n**“为什么这个没有和你的其他 Boss Checklist 插件打包在一起？”**\n本模组使用了上述由自身添加的假实体。因此，无论你是否实际安装了 Incendium 模组，本模组添加的悬浮炼狱条目都会显示出来。你肯定不希望出现这样的情况：玩家在模组包中好奇地四处寻找这个“悬浮炼狱”，结果后来才发现他们甚至根本没有安装号称支持该首领的模组。\n\n\n**本插件包含来自 Stardust Labs 的 Sparkles 资源包的纹理与模型，遵循 BSD 3-Clause 许可证授权。**\n\n**Sparkles 资源包：[https://modrinth.com/resourcepack/sparkles](https://modrinth.com/resourcepack/sparkles)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

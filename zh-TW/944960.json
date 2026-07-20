@@ -1,0 +1,6 @@
+{
+  "bodyHash": "759d2a78cd53d67d",
+  "content": "<p>此模組使樹苗和植物只能在它們的原生生物群系中生長。例如，竹子只會在竹林生物群系中生長。</p>\n<p>&nbsp;</p>\n<p>你可以種植樹木的樹苗，但它們不會生長。當它們嘗試在種植後幾秒鐘內生長時，它們會像被破壞一樣掉落。</p>\n<p>如果模製植物的生長方式類似於原版樹苗，此模組可以支持它們。</p>\n<p>此模組可以通過數據包進行配置。</p>\n<p>&nbsp;</p>\n<p>在開發此模組的過程中，我發現了由 Lothrazar 製作的「Biome Growth Controls」模組。<a href=\"https://www.curseforge.com/minecraft/mc-mods/restricted-saplings\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/restricted-saplings</a></p>\n<p>我可以從其源碼中學習，例如仙人掌的具體機制。如果該模組更新，我會改用那個模組而不是這個。</p>\n<p>&nbsp;</p>\n<p>我未來想要添加的功能是一個物品，可以用來找出植物可以在哪裡生長。</p>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

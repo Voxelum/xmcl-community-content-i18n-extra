@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a0dbc4f7a995d9c1",
+  "content": "\n\n<p><strong>Hyperbox：沉浸式传送门兼容性</strong> 为 <strong>Minecraft Forge 1.20.1</strong> 添加了 <strong>HyperBox</strong> 与 <strong>Immersive Portals 3.0.7-all</strong> 之间的集成。<br><br>这使得在使用适用于 Forge 1.20.1 的 Immersive Portals 3.0.7-all 时，HyperBox 维度能够正常工作。<br><br>我尚未使用其他创建维度的模组或插件对此进行测试，目前正在考虑尝试使其更具通用性，但就目前而言，此版本仅针对 HyperBox。<br><br>原版 HyperBox：<a href=\"https://www.curseforge.com/minecraft/mc-mods/hyperbox\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/hyperbox</a><br>原版 Immersive Portals：<a href=\"https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge</a><br><br>注意：&nbsp;我已使用该模组测试了以下配置：<br>Matthew_Alpha 制作的带有 GravityChanger 支持的 Immersive Portals (Forge)。<br>已确认可以正常运行。<br><br><br>1.0.2：&nbsp;改进了当玩家在 HyperBox 内部时被破坏时的稳定性。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

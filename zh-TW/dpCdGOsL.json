@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f6ef7cb3c1263f3a",
+  "content": "![請替換為描述](https://cdn.modrinth.com/data/cached_images/60432ec3e7ccb251e45390185c535ac3ef9caa6a_0.webp)\n![Xodium](https://img.shields.io/badge/Xodium-Memory%20Optimizer-blue)\n![狀態](https://img.shields.io/badge/Status-Beta-orange)\n\n**Xodium – Minecraft 記憶體優化模組**\n\nXodium 是一個輕量級的模組，專注於降低 Minecraft 的記憶體使用量並減少垃圾回收（GC）暫停。該模組專為原版和模組化環境設計，能夠提升記憶體效率、穩定大型世界的性能，並在記憶體消耗較大的情境下使遊戲運行更加流暢。\n\n**主要功能：**\n\n- 減少物件配置和臨時記憶體使用\n- 對常用結構實施物件池化（Object Pooling）\n- 最佳化區塊、實體和 NBT 資料處理\n- 最小化垃圾回收尖峰，帶來更平順的性能表現\n- 相容於 Sodium、Lithium 及其他優化模組\n\n對於運行重型模組包或伺服器的玩家而言，Xodium 確保了穩定且持久的遊戲體驗，同時不犧牲相容性或易用性。\n\n![9% ram rtx 3060](https://cdn.modrinth.com/data/cached_images/d45afe897c41811fb8e5ce80f4524b421d559b8e.png)\n![19% ram 3060](https://cdn.modrinth.com/data/cached_images/9d803ac43de0fe101ef809d6881409bc523049c2.png)\n\n**(如需自訂設定，需要安裝 ModMenu！)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

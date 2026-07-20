@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a4f03aaf55c06920",
+  "content": "\n\n### Entifier — это мод, который позволяет настраивать размер сущностей/игроков, высоту прыжка, здоровье и многое другое!\n\n> Это исправленная версия мода [Thicc Entities](https://curseforge.com/minecraft/mc-mods/thicc-entities), предназначенная для использования в проекте полной переработки [TFC: The Final Frontier](https://modrinth.com/project/tff).\n\n### Почему?\n> Мод [Thicc Entities](https://curseforge.com/minecraft/mc-mods/thicc-entities) конфликтовал с [Aqua Acrobatics](https://curseforge.com/minecraft/mc-mods/aqua-acrobatics), что приводило к краху игры при запуске. Чтобы устранить этот конфликт, мы удалили конфликтующий код ASM, пытающийся изменить параметры игрока, так как он несовместим с патчами Mixin в [Aqua Acrobatics](https://curseforge.com/minecraft/mc-mods/aqua-acrobatics).\n\n### Примечание:\n- Встроенный в игру редактор файлов конфигурации не работает. Он не сохраняет изменения в файле конфигурации. Пожалуйста, редактируйте его вручную и перезапускайте игру для применения изменений.\n\n### Загрузки\n- [CurseForge](https://curseforge.com/minecraft/mc-mods/entifier)\n- [Modrinth](https://modrinth.com/mod/entifier)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

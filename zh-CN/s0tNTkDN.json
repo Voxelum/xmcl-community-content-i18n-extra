@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9a2c8aab0be84f6b",
+  "content": "\n\n![一名玩家使用下界合金镐挖掘基岩方块。](https://cdn.modrinth.com/data/s0tNTkDN/images/b2767e8a5badb0c470e3b30683e88814e05ca81e.gif)\n\n允许玩家使用挖掘等级为 4 或更高的镐子挖掘基岩（在 1.20.4 及更低版本中可配置）。被挖掘后，基岩不会掉落任何物品（同样可配置），只会直接破碎。基岩的破坏时间（默认 71）和爆炸抗性（默认 3600000）也都易于配置。\n\n## 配置文件\n```properties\n# destroy_time：基岩的破坏时间。（黑曜石为 50，石头为 1.5，-1 为不可破坏）\n# explosion_resist：基岩的爆炸抗性。（石头为 6，玻璃为 0.3）\n# mining_level：挖掘基岩所需的挖掘等级。（下界合金为 4）（仅在 1.20.4 及以下版本有效）\n# drop_bedrock：基岩破碎时是否作为方块掉落。\n\ndestroy_time=100\nexplosion_resist=3600000\nmining_level=4 #仅在 1.20.4 及以下版本有效\ndrop_bedrock=false\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

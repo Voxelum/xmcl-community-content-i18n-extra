@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be340a98714204aa",
+  "content": "\n\n![Game screen](https://cdn.modrinth.com/data/cached_images/5d68c17b2dcf03310b4ad8c1523eb9282fcb669c_0.webp)\n一款可自訂的 Minecraft HUD 疊加模組。<span style=\"color:#ba372a\">目前僅為 Mine and Slash 整合而設計。</span>\n\n---\n**功能特色**\n\n*   資源球顯示 - 以精美的能量球介面顯示 HP/Mana/Stamina\n*   技能快捷欄 - 可自訂的快捷欄，用於管理模組技能\n*   傷害浮動文字 - 自訂字體的傷害顯示，依據 Mine and Slash 的元素進行顏色區分\n*   增益/減益顯示 - 列出當前狀態效果並附帶圖示\n*   目標資訊顯示 - 顯示目標 HP 與 Mine and Slash 等級\n*   天數計數器 - 顯示世界已經過的天數\n*   盔甲耐久度 - 顯示所穿戴盔甲的耐久度\n---\n**設定**\n\n*   按下 `O`（預設）開啟 HUD 設定\n---\n**需求**\n\n*   Minecraft 1.20.1\n*   **[Mine and Slash](https://modrinth.com/mod/mine-and-slash)**（必要 - 目前僅支援 Mine and Slash）\n*   Forge 47+ (Forge)\n*   Java 17",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

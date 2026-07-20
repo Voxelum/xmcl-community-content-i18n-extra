@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7dd239819fab42f5",
+  "content": "\n\n將貓與兔子放大，使其像素比例一致且更便於點擊！\n同時按比例提升兔子的跳躍強度（0.42 → 0.5）與安全落體距離（3.0 → 6.0）。\n\n此調整不適用於豹貓，因為它們原本就已符合像素比例。\n此模組可能與 `Farmer's Delight` 產生衝突，因為該模組同樣會放大兔子。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

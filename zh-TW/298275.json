@@ -1,6 +1,6 @@
 {
-  "bodyHash": "6P8EWWceRVE=",
-  "content": "<p><span style=\"font-size:24px\"><strong>關於本模組</strong></span></p><p>Click Machine 是一個新增了自動點擊方塊的模組。它提供9種可調速的點擊速度，每種速度都有各自可配置的RF/每刻消耗。還能設定手持物品、潛行狀態及左鍵點擊。可點擊方塊和實體。具體來說，這個自動點擊器會模擬玩家站在方塊正中央、面朝方塊朝向方向、使用預設觸及距離(5格)時的點擊行為。若找不到可點擊目標，會搜尋前方非空氣方塊進行點擊。</p>\n\n<p><span style=\"font-size:24px\"><strong>聯絡方式</strong></span></p>\n<p>Discord: <a href=\"https://discord.gg/wdvU5Yz\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/wdvU5Yz</a></p>\n<p>&nbsp;</p>",
+  "bodyHash": "5c2a1c408aa7770c",
+  "content": "<p><span style=\"font-size:24px\"><strong>關於</strong></span></p>\n<p>點擊機器（Click Machine）是一個為遊戲新增單一方塊的模組——一個獨立的自動點擊器。它支援 9 種可配置的點擊速度，每種速度都有各自可配置的紅石粉（RF）消耗。此外，還可設定在點擊時手持物品、潛行以及使用左鍵點擊。它能同時點擊方塊和實體。更具體地說，該自動點擊器模擬的是玩家站在方塊正中心、面朝指定方向且使用預設距離（5格）時的點擊行為。如果無法找到可點擊的目標，它會在前方搜尋非空氣的方塊並進行點擊。</p>\n<p><span style=\"font-size:24px\"><strong>聯繫方式</strong></span></p>\n<p>Discord：<a href=\"https://discord.gg/wdvU5Yz\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/wdvU5Yz</a></p>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

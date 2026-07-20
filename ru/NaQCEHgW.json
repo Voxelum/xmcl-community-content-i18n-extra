@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0326147bff9898dd",
+  "content": "\n\nПосле версии 1.20.1 оригинальная [Лодка из бревна](https://modrinth.com/resourcepack/log-boat) работает некорректно, а для других типов лодок нет вариантов. В этом пакете я исправил обе проблемы и добавил 3D-модели для хотбара и при использовании в руках.\n\n<details>\n<summary>Авторы</summary>\n\n- [Search](https://modrinth.com/user/Search) - Оригинальная лодка из бревна\n\n</details>\n\n\n<details>\n<summary>Часто задаваемые вопросы</summary>\n\n**НЕ РАБОТАЕТ, ПОЧЕМУ?**<br>\nОбратите внимание, что без [OptiFine](https://optifine.net/downloads) или [ETF](https://modrinth.com/mod/entitytexturefeatures)/[EMF](https://modrinth.com/mod/entity-model-features) это не будет работать ни при каких условиях\n\n**НАШЛИ ОШИБКУ, ГДЕ ЕЁ СООБЩИТЬ?**<br>\nСпасибо за интерес к сообщению об ошибках, вы можете нажать [здесь](https://github.com/SplatTracker/RefurbishedLogBoat), чтобы перейти к трекеру проблем\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

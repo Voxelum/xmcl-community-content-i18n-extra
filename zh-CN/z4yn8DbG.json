@@ -1,0 +1,6 @@
+{
+  "bodyHash": "62f070c7a0f78420",
+  "content": "\n\n# Replay Fight ⚔️📹\n\n**在 Replay Mod 中修复你的 Epic Fight 动画！**\n\nReplay Fight 是一个简单的补丁，能让 **Epic Fight 模组** 的动画在 **Replay Mod** 中正确渲染。\n\n### 功能特性\n* **动画同步：** 修复回放播放期间玩家模型静止或损坏的问题。\n* **即插即用：** 只需将其放入 mods 文件夹即可，无需任何配置。\n\n### 依赖项\n1.  [Epic Fight](https://modrinth.com/mod/epic-fight)\n2.  [ReForgedPlay](https://www.curseforge.com/minecraft/mc-mods/reforgedplay-mod)（Replay Mod 的非官方分支）\n3.  Replay Fight（本模组）\n\n## ❓ 常见问题解答 (FAQ)\n\n<details>\n  <summary>问：是否支持 Epic Fight 的附加组件（addons）？</summary>\n<b>答：</b>部分附加组件可能已支持，最好的办法是自己尝试一下！ <br>\n</details>\n<details>\n  <summary>问：为什么回放中的物品和实体被替换（不匹配）了？</summary>\n<b>答：</b>这是因为 <b>注册表 ID（Registry ID）</b> 映射发生了更改。如果你在一个世界中录制回放，之后又安装或卸载了模组（特别是添加新物品、方块或实体的模组），游戏会为它们分配新的内部 ID。由于回放文件记录的是“旧” ID，回放时可能会显示错误的对象。 <br>\n  <br>\n解决方案：为了确保回放保持准确，最好在 <b>模组包确定后再创建新世界。</b> 如果计划以后查看这些回放，请避免在游玩中途添加或移除内容庞大的模组。\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

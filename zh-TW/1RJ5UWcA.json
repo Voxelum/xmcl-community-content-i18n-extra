@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d504f7093946e6a3",
+  "content": "\n\n**⚠️重要⚠️**\n\n此模組需要 [Fabric API](https://modrinth.com/mod/fabric-api)。\n\n<hr>\n\n**模組說明**\n\n**Title Damage Indicator** 是一款專為 **Fabric 載入器** 設計的僅限客戶端模組，能讓你在 Minecraft 原版的**副標題**中，看到你鎖定（注視）目標實體的生命值變化。例如，當你注視的實體受到傷害時，會顯示類似「_-1 [剩餘 19]_」的副標題；若是治療（回血），則會顯示「_+1 [目前 20]_」。若鎖定的實體死亡，副標題將顯示為（範例）「_-3 [已死亡]_」，同時會播放高音調的玩家升級經驗音效（\"minecraft:entity.player.levelup\"，音調為 1.25）。若實體回血至滿血，則會顯示（範例）「_+2 [完全恢復]_」；並播放對應音效（\"minecraft:entity.witch.drink\"，音調為 1.0）。整個模組的功能可透過 **/toggletitledamageindicator** 指令進行開關切換。 \n\n如需視覺效果展示，請觀看下方的**模組示範影片**，或瀏覽 **[圖庫標籤頁](https://modrinth.com/mod/title-damage-indicator/gallery)** 中的模組截圖。\n\n<hr>\n\n**模組示範影片**\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/b8V7lrX2NQE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n<hr>\n\n**贊助**\n\n如果你願意，可以透過本頁面的連結進行贊助以支持我。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

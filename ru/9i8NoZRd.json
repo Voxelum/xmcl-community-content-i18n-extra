@@ -1,0 +1,6 @@
+{
+  "bodyHash": "658825cd185ed072",
+  "content": "\n\n**_HUD элитр_**\n---\n**Также совместимо с [Elytra Slot](https://modrinth.com/mod/elytra-slot)** _(Только для **1.20-1.20.1** и **1.21-1.21.1**)_\n\nЭтот простой мод добавляет отображение процента оставшейся прочности в интерфейс во время полёта на элитрах.\n\n![Оставшаяся прочность](https://cdn.modrinth.com/data/cached_images/a0e1369ce727a820ccbee75a1cd49cc79b3fba52.png)\n\nВо время полёта, если прочность упадёт ниже 4,6% _(Осталось примерно 20 секунд полёта)_, появится сообщение с предупреждением о том, что элитры вот-вот сломаются.\n\n![Сообщение о низкой прочности](https://cdn.modrinth.com/data/cached_images/2618fc353a3c7badd62de83dfea64fe428b732d9.png)\n\nДля редактирования настроек требуется [Mod Menu](https://modrinth.com/mod/modmenu).\n\nНастройки интерфейса:\n![Настройки интерфейса](https://cdn.modrinth.com/data/cached_images/68acde6b1b53a5f45007e5af767518219fd1ece0.png)\n\nНастройки сообщения о низкой прочности:\n![Настройки сообщения о низкой прочности](https://cdn.modrinth.com/data/cached_images/f7d846474467cf1b8fb43058026e68abdf8494de.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

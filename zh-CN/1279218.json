@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4f3487b9b8b4ba52",
+  "content": "\n\n<h1>BlueChunks</h1>\n<p>BlueChunks 将 <strong>FTB Chunks</strong> 与 <strong>BlueMap</strong> 集成，使已占用的区块可以直接显示在您的 BlueMap 网页地图上。</p>\n<p>玩家和服务器管理员无需登录游戏即可轻松查看领地归属、团队占领区域和受保护范围，从而更方便地管理社区、定居点以及大型多人服务器。</p>\n<h2>功能特性</h2>\n<ul>\n<li>在 BlueMap 上显示 FTB Chunks 的占领区域</li>\n<li>直接从 BlueMap 网页界面查看占领区域</li>\n<li>支持玩家个人与团队的占领区域</li>\n<li>FTB Chunks 与 BlueMap 之间自动同步</li>\n<li>支持 Fabric 与 NeoForge</li>\n<li>专为现代 Minecraft 版本设计</li>\n</ul>\n<h2>运行要求</h2>\n<h3>Fabric</h3>\n<ul>\n<li>Fabric Loader</li>\n<li>Fabric API</li>\n<li>FTB Library</li>\n<li>FTB Teams</li>\n<li>FTB Chunks</li>\n<li>BlueMap</li>\n</ul>\n<h3>NeoForge</h3>\n<ul>\n<li>NeoForge</li>\n<li>FTB Library</li>\n<li>FTB Teams</li>\n<li>FTB Chunks</li>\n<li>BlueMap</li>\n</ul>\n<h2>支持的加载器</h2>\n<ul>\n<li>Fabric</li>\n<li>NeoForge</li>\n</ul>\n<h2>兼容性</h2>\n<p>BlueChunks 专为以下最新版本设计：</p>\n<ul>\n<li>Minecraft 26.1.x</li>\n<li>FTB Chunks</li>\n<li>FTB Teams</li>\n<li>FTB Library</li>\n<li>BlueMap</li>\n</ul>\n<h2>源代码</h2>\n<p>源代码、问题追踪器及开发版本可在 Codeberg 上获取。</p>\n<h2>技术支持</h2>\n<p>如果遇到任何问题，请提供以下信息：</p>\n<ul>\n<li>Minecraft 版本</li>\n<li>加载器版本（Fabric 或 NeoForge）</li>\n<li>BlueMap 版本</li>\n<li>FTB Chunks 版本</li>\n<li>完整日志文件</li>\n</ul>\n<p>这将有助于更快地复现并解决问题。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

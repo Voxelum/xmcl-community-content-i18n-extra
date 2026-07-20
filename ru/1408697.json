@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aa5b77f03633949c",
+  "content": "\n\n<h2><img src=\"https://media.forgecdn.net/attachments/description/null/description_ef3fd2ac-c21a-41cb-aa2f-246d41a903ba.gif\" alt=\"GIF. Инвентарь игрока открыт. Все его предметы превращаются в случайные новые каждые полсекунды.\" width=\"704\" height=\"664\"></h2>\n<h2>Обзор</h2>\n<p>Каждые 30 секунд (настраивается) все предметы в инвентарях игроков будут заменяться на случайные новые.</p>\n<p>Если вы хотите создать видео или другой контент с использованием этого пакета, смело делайте это! При этом вы должны указать авторство мне (Ambiguous Chameleon) и добавить ссылку на этот пакет в описание и/или комментарии. Спасибо!</p>\n<p>&nbsp;</p>\n<h2>Команды</h2>\n<p><strong>Переключает видимость обратного отсчёта до рандомизации в верхней части экрана. По умолчанию видно.</strong></p>\n<pre><code>/trigger ac.inv_random.hide_bossbar\n</code></pre>\n<p><strong>Настраивает частоту (в тиках) рандомизации предметов в инвентаре</strong></p>\n<pre><code>/trigger ac.inv_random.set_interval set &lt;value&gt;</code></pre>\n<p><strong>Устанавливает количество предметов, изменяемых при каждой рандомизации</strong></p>\n<pre><code>/trigger ac.inv_random.set_random_count set &lt;value&gt;</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

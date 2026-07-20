@@ -1,0 +1,6 @@
+{
+  "bodyHash": "02e9ff86973eb9f1",
+  "content": "\n\n# DonutSMP Plus\n\n一款僅限客戶端的 Fabric 模組，讓 **DonutSMP** 的外觀與體驗更佳。所有功能皆為選填且可在遊戲內完整設定 — 使用 **右 Shift 鍵**（或透過 **模組選單**）開啟編輯器。此模組僅在您連線至 DonutSMP 時才會生效。\n\n## 功能特色\n\n- **自訂 /shop** — 為 DonutSMP 重新加入 /shop 指令，由拍賣場 (/ah) 驅動。\n\n![/shop](https://cdn.modrinth.com/data/cached_images/7d4b5b09f2f3bb65b6de1a6e2f534d760870e683.png)\n- **自訂玩家列表與計分板** — 找回舊版的玩家列表與計分板。\n\n![tab](https://cdn.modrinth.com/data/cached_images/44b90454c0fcd85f56cb2461764819e8462c97cb.png)\n- **聊天與私訊格式** — 恢復舊版的聊天訊息與私訊格式。\n\n![chat](https://cdn.modrinth.com/data/cached_images/83721cb27208680717fd0a1b91ee8ba040345b18_0.webp)\n- **死亡訊息** — 找回 DonutSMP 舊版的死亡提示訊息。\n- **自訂選單** — 找回舊版的 /leaderboard、設定與統計資料選單。\n\n![homes](https://cdn.modrinth.com/data/cached_images/db3f50519aeae64ae366c928aa1c45d2762a10f6.png)\n- **設定檔** — 即時切換整組設定方案，或直接將自訂 JSON 檔案放入該資料夾中。\n- **遊戲內設定編輯器** — 無需退出遊戲即可修改所有選單、指令、名稱、描述文字與顏色。\n\n![settings](https://cdn.modrinth.com/data/cached_images/954ddd6abc96bf6471417a0fbd946d721c29b18f.png)\n\n## 注意事項\n\n- **僅限客戶端** — 安全無虞，伺服器端無需安裝任何內容。\n- 專為 **Minecraft 1.21.11** (Fabric) 打造。需安裝 **Fabric API**。\n- 使用 **右 Shift 鍵** 或透過 **模組選單** 開啟設定介面。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

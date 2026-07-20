@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42556f2f5de9a289",
+  "content": "\n\n# Seeded Dimensions - ![Версия](https://img.shields.io/modrinth/v/seeded-dimensions)\nЭтот мод добавляет конфигурационный файл для настройки seed (зерна) для каждого измерения отдельно.\n\n## Конфигурация\n```json\n// Расположен в config/seeded-dimensions.json\n{\n  \"minecraft:overworld\": \"default\",\n  \"minecraft:the_nether\": \"default\",\n  \"minecraft:the_end\": \"default\"\n  // \"NAMESPACE:DIMENSION\": 2\n}\n```\nВ этот список можно добавить любые измерения. Используйте `default` для применения seed из основного файла конфигурации или задайте произвольное числовое значение.\n\nПри использовании команды `/execute in ...` игра автоматически подставляет названия доступных измерений. Именно тот тег, который отображается в подсказке, нужно указывать в конфигурации.\n\n## Пример\n![Пример работы мода](https://cdn.modrinth.com/data/dak4GhGX/images/246e87a7c3a5309aace2a064fd590605541a2285.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

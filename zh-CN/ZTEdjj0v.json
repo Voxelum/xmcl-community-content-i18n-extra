@@ -1,0 +1,6 @@
+{
+  "bodyHash": "598f363c8c09338b",
+  "content": "一个可以为饰品附魔的模组。\n\n你可以直接在附魔台进行附魔。\n\n建议与Iron Spells Book模组配合使用。\n\n![](https://cdn.modrinth.com/data/cached_images/e353bb223b582badde27b2895f73c417a6a667ae_0.webp)\n\n\n关于饰品附魔集成的模组包开发者关键信息：\n\n将物品添加到 `curio_enchantment:curios_enchantable`：添加到该标签的物品将能够被通用的饰品附魔附魔。\n\n从 `curio_enchantment:curios_enchantable` 移除物品：从该标签中移除的物品将无法接受通用的饰品附魔。\n\n将附魔添加到特定类型的标签 (`curio_enchantment:<curio_type>_enchantable`)：添加到如 `curio_enchantment:spellbook_enchantable` 这样的标签中的附魔仅适用于该特定类型的饰品（例如法术书）。\n\n自动兼容性：本模组在标签加载期间会自动将其他模组的饰品物品类型添加到 `curio_enchantment:curios_enchantable` 标签中，以实现更广泛的兼容性。\n\n请勿混淆 `curio_enchantment:curios_enchantable`（标签名称）与 `curio_enchantment:curio_enchantable`（可能是拼写错误）！它们指的是不同的内容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

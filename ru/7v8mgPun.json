@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f378050f84d6ccbb",
+  "content": "\n\nЭто мод, который добавляет множество популярных греческих блюд. В основном это греческое сувлаки, но я планирую постепенно добавлять всё новые позиции (если вы запросите какое-либо блюдо, я смогу добавить его, если оно вписывается в тематику).\n\n### **ТРЕБУЕТСЯ CROPTOPIA**\n[Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)\n\n# Все текущие блюда:\n\n![All the foods1](https://cdn.modrinth.com/data/cached_images/f61f8631dbdf1ce5491a66d67d05831fc0a701c2.png)\n![All the foods2](https://cdn.modrinth.com/data/cached_images/91c64073d442db949cfebb2d448a1791238bbb5d.png)\n\n# План разработки:\n\n| ModLoader | 1.16.5 | 1.18.2 | 1.19.2 | 1.20.1 | 1.20.6 | 1.21.1 | 1.21.4 | 1.21.11|\n|-----------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|\n| Forge     | ❌    |   ❌   |   ❌  |   🟨   |   ❌  |   ➖   |   ➖  |   ➖   |\n| Neoforge  | ➖    |   ➖   |   ➖  |   ➖   |   ❌  |   ✅   |   ❌  |   ❌   |\n| Fabric    | ❌    |   ❌   |   ❌  |   🟨   |   ❌  |   ✅   |   ❌  |   ❌   |\n| Quilt     | ❌    |   ❌   |   ❌  |   ❌   |   ❌  |   ❌   |   ❌  |   ❌   |\n\n❌ = Не поддерживается\n✅ = Поддерживается\n🟨 = В разработке / запланировано",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

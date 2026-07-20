@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c38bdf18f6326bf2",
+  "content": "\n\n# 動態 HUD\n\nDynamic Hud 是一款隱藏非必要 HUD 元素以減少畫面繁雜與 OLED 燒屏問題的模組。現代遊戲皆採此設計，例如在生命值已滿且無敵人時隱藏生命值條等……\n\n## 🔎 功能\n- **完全動態化：**《我的世界》原版遊戲中的所有 HUD 元素現皆為動態顯示。\n- **自訂設定：**每個 HUD 元素皆可切換顯示狀態，您可以選擇保留原版樣式、設為動態顯示或完全隱藏，並可自訂觸發條件。\n- **情境準心：**本模組內建動態準心，會根據當前可執行的動作自動調整外觀與顯示狀態。\n\n<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n  <tr>\n    <td width=\"50%\">\n      <iframe width=\"100%\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/T3YjpnSwV5M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n    </td>\n    <td width=\"50%\">\n      <iframe width=\"100%\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/RDsfhUx9Lps\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n    </td>\n  </tr>\n</table>\n\n## ⚙️ 設定\n\n若要修改模組設定：\n- 使用 Mod Menu\n- 輸入指令 `/dHudConfig` 開啟設定畫面\n- 編輯 `.minecraft/config/dynamichud.json` 中的設定檔\n\n## 🔧 模組支援\n\n此模組目前不支援其他 HUD 模組，這表示最壞的情況是，其他模組新增的 HUD 元素將不會呈現動態效果。若您希望支援特定模組，歡迎隨時提交 GitHub Issue。\n\n## 📦 整合包\n\n歡迎將此模組加入您的整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

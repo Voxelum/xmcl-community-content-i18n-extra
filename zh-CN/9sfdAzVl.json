@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cf791edc4c605f7c",
+  "content": "\n\n**你需要安装 geckolib**\n\n**你需要安装 Player Animator [1.1]**\n\n# 🚪 推门\n\n厌倦了每次想穿过门时都要不断右键点击吗？**推门**彻底革新了你在 Minecraft 中与门的交互方式。\n\n活板门也进行了重做 [1.1]\n\n此模组**不会**覆盖原版门。[在 1.1 版本中会自动转换]\n\n~~**_在下一次更新中，所有原版 Minecraft 的门将自动转换为推门_**~~\n\n---\n\n## 核心功能\n无缝通行（基于物理）\n\n- 只需走进任何动态门，你的角色自然会将其推开。\n\n锁定\n\n- 你可以使用拉杆（或只要门处于红石激活状态）来锁上门。\n\n强行闯入\n\n- 冲刺直接撞向已锁定的门即可破门而入。此动作会停用附近正在维持锁定的拉杆或红石电源。对于活板门，你需要按住冲刺键并跳跃来撞开或踩踏。\n\n窥视\n\n- 在门前按住右键进行窥视，上下移动鼠标可调整视角。[1.2] 在此状态下按住 Shift 键可查看锁孔。\n\n---\n\n## 🛠️ 合成\n\n只需将任意标准原版门放入合成界面即可\n\n[在 1.1 中，你只需将任意原版木门放置在地面上即可转换，或者直接合成门，它就已经是转换后的版本了]\n\n*支持全部 11 种原版木材变体（橡木、云杉木、白桦木、丛林木、金合欢木、深色橡木、红树木、樱桃木、竹子、绯红菌和诡异菌）。*\n\n![Crafting the Pushing Door](https://cdn.modrinth.com/data/cached_images/e164fccd0afee912bea91bb0efd538fd5af89d59.png)\n\n![Crafting the Pushing Trapdoor](https://cdn.modrinth.com/data/cached_images/4c7a5d4e303f76cda2426a3de1d2d746021cbcc9.png)\n\n---\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Nn9zIn7A3C4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n---\n\n[CurseForge 版本](https://www.curseforge.com/minecraft/mc-mods/pushing-doors)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

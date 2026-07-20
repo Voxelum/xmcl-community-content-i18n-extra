@@ -1,6 +1,6 @@
 {
-  "bodyHash": "EnNe72Gemcc=",
-  "content": "<h2>功能說明</h2><p>讓XNet能夠傳輸Mekanism的化學物質。包括氣體、漿液、顏料和灌注物質。</p><p>需要安裝<a href=\"https://www.curseforge.com/minecraft/mc-mods/xnet\" rel=\"nofollow\">XNet</a>、<a href=\"https://www.curseforge.com/minecraft/mc-mods/mekanism\" rel=\"nofollow\">Mekanism</a>及其相關依賴套件。</p><p>通道功能與XNet中的流體通道非常相似，具有以下特性：</p><ul>\n<li>可選擇要傳輸的化學物質類型（氣體、灌注物質、顏料、漿液）</li>\n<li>循環分配或優先級模式</li>\n<li>延遲設定、傳輸限制器和容量限制</li>\n<li>過濾功能，可使用任何裝有化學物質的儲罐</li>\n</ul><p>除了專用於傳輸化學物質的通道外，還有獨立的紅石邏輯通道類型。</p><h2>贊助商</h2><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.akliz.net%252fterrails\" rel=\"nofollow\"><img src=\"https://i.imgur.com/FGUgNoJ.png\" alt=\"Akliz主機服務\"></a></p>",
+  "bodyHash": "43c1603126000d88",
+  "content": "\n\n<h2>它能做什麼？</h2>\n<p>讓 XNet 能夠運輸 Mekanism 的化學物質。包含氣體、漿液、顏料與注入物。</p>\n<p>需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/xnet\" rel=\"nofollow\">XNet</a>、<a href=\"https://www.curseforge.com/minecraft/mc-mods/mekanism\" rel=\"nofollow\">Mekanism</a> 以及它們各自的相依套件。</p>\n<p>該通道的運作方式與 XNet 中的流體通道大致相同，並具備以下功能：</p>\n<ul>\n<li>選擇要運輸的化學物質類型（氣體、注入物、顏料、漿液）</li>\n<li>輪詢或優先模式</li>\n<li>延遲、傳輸限制器與容量上限設定</li>\n<li>篩選功能，可指定使用裝有化學物質的儲存槽</li>\n</ul>\n<p>除了專門用於運輸化學物質的通道外，系統也提供獨立的邏輯通道類型，可用於紅石邏輯控制。</p>\n<h2>贊助商</h2>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.akliz.net%252fterrails\" rel=\"nofollow\"><img src=\"https://i.imgur.com/FGUgNoJ.png\" alt=\"Akliz 主機服務\"></a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80efbecf42d9ed6a",
+  "content": "\n\n<p>Nutrition Unofficial Extended Life позволяет создавать пользовательские системы здоровья в Minecraft, определяя типы питательных веществ и их эффекты. Это реализуется через систему на основе JSON, где определяются уникальные группы продуктов и программируемые статусные эффекты. Подобная гибкость позволяет авторам модпаков создавать совершенно уникальный игровой опыт, просто редактируя файлы конфигурации.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h2><img src=\"https://media.forgecdn.net/attachments/description/964516/description_89d4fa8b-4527-465b-88d4-e0eafb64c0a6.png\"></h2>\n<h2>Что нового:</h2>\n<p>&nbsp;</p>\n<h3>Новый API: INutritionFood</h3>\n<p>&nbsp;</p>\n<p>Это интерфейс для предметов, не являющихся наследниками ItemFood.</p>\n<p>Для совместимости с Nutrition UEL ваши предметы должны расширять данный интерфейс и реализовывать необходимые методы.</p>\n<p>&nbsp;</p>\n<h2>Благодарности:</h2>\n<p>Оригинальный мод — <a href=\"https://github.com/WesCook/Nutrition\" target=\"_blank\" rel=\"nofollow\">Nutrition</a>.</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

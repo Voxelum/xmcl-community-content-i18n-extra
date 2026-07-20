@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ca35696bf4fd1bb",
+  "content": "\n\n# Звук смерти из Half-Life в Minecraft\nЗвуки от Valve, собранные в соответствии с `sentences.txt`.\n\nЕсли вы когда-нибудь хотели услышать звук смерти из Half-Life при гибели персонажа, то вы попали по адресу. Также включает заменяющий звук для тотема.\n\nКонкретная версия не имеет значения. Пока вы используете этот пакет в версии, где исправлена ошибка [MC-93804](https://bugs.mojang.com/browse/MC-93804), он будет работать (Java 1.15 и выше).\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/nW6JzKBjwNg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

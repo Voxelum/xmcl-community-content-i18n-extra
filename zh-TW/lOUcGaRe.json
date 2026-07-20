@@ -1,0 +1,6 @@
+{
+  "bodyHash": "da0428ac0901daa2",
+  "content": "\n\n生物難度擴展是一款簡易的實用模組，會隨著遊戲進程逐步提升敵對生物的難度，透過增加生命值與傷害來實現，並在遊戲後期為生物賦予穿甲能力。此外，進入第三天後，不死生物也會停止燃燒。\n\n 使用指令自訂模組：\n\n/scalingmobs\n\n       - health（控制敵對生物生命值的成長）\n       - damage（控制敵對生物傷害的成長）\n       - piercing（控制生物攻擊穿透護甲的程度）\n       - mode（選擇線性成長或指數成長模式）\n\n 同時提供配置文件設定！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

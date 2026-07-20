@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7ac3580174e577eb",
+  "content": "\n\nLightman 交易檢視器\n=============================\n\n適用於 Lightman's Currency 的 JEI 擴充模組。\n\n此模組將 Lightman's Currency 的持久商人交易加入 JEI，\n讓玩家能直接透過 JEI 的配方與用途介面瀏覽系統商店的交易。\n\n功能特色\n--------\n- 於 JEI 中顯示持久商人的交易\n- 可透過 JEI 的配方與用途查詢功能瀏覽商店交易\n\n安裝需求\n------------\n- Minecraft 1.20.1\n- Forge 47.x\n- JEI 15.20.x\n- Lightman's Currency 2.3.x",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

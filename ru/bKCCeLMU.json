@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ca16790f0a1eec1b",
+  "content": "## Совместимость с модами Resource Backpacks и Universal Graves\n\nНебольшой мод для совместимости, который гарантирует, что ваш надетый рюкзак из **Resource Backpacks** будет сохранён в вашей могиле в **Universal Graves** при смерти — вместо того чтобы выпасть на землю или потеряться.\n\n### Как это работает\nКогда вы умираете с надетым рюкзаком, этот мод перехватывает событие смерти и перемещает рюкзак в могилу, созданную модом Universal Graves, сохраняя всё его содержимое в безопасности.\n\n### Требования\n- [Resource Backpacks](https://modrinth.com/mod/resource-backpacks)\n- [Universal Graves](https://modrinth.com/mod/universal-graves)\n- Fabric Loader ≥ 0.15.0\n- Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

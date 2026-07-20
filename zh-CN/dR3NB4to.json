@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e98ea6aed3196df1",
+  "content": "\n\n# KeyPreset\n一个将按键设置保存到文件的模组。\n\n## 这是什么模组？\n此模组可将您的按键配置保存为预设文件，以便快速切换按键设置。\n\n该模组支持最多三个按键的任意组合，打破了传统修饰键与单键的双键组合限制。例如：\n\n[A + B + C]，[左 Alt + A + 鼠标左键]，[鼠标左键 + 鼠标中键 + 鼠标右键]……\n\n## 兼容性\n与任何重写原版按键绑定界面的模组不兼容，因为本模组的注入点位于原版按键绑定界面中。\n\n## 模组冲突\n当与修改了原版按键绑定界面的模组同时使用时，游戏可能会崩溃，或本模组的按钮可能无法显示。\n\n## 截图\n![IMG1](https://cdn.modrinth.com/data/cached_images/16cad6410c82023f68944ce7627f3b766ac887e9_0.webp)\n\n![IMG2](https://cdn.modrinth.com/data/cached_images/3315b97bcb9885ff52ea8d4aea82808b5d21128f_0.webp)\n\n![IMG3](https://cdn.modrinth.com/data/cached_images/dbccea58ab6e6d1af12dd2e3a835c0f33eda25e8.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

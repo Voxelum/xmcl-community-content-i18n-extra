@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b86ad2fe65cf1551",
+  "content": "\n\n一款 Fabric 模組，可啟用或實作內建於原版遊戲中的開發者工具。你可以為了好玩而試用這些工具，或在開發自己的模組時加以運用。\n\n啟用以下指令：\n\n/debugpath\n/debugmodspawning\n/debug\n/debugconfig\n/warden_spawn_tracker\n/raid\n/test\n以及更多……\n啟用以下 F3 快捷鍵：\n\nF3-E\nF3-L\nF3-U\nF3-V\nF3-W\n重新實作除錯渲染器，可透過自訂的 F3 快捷鍵逐一啟用：F3-F6",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

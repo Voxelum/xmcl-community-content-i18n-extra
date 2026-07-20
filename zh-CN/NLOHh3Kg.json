@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5b2d0f52b90be4f",
+  "content": "\n\n![装备展示](https://cdn.modrinth.com/data/cached_images/ffd93da3d1ae52d84da7c5b09149b79ddf0cc925.png)\n\n![装备展示](https://cdn.modrinth.com/data/NLOHh3Kg/images/9fb704678b188bcd2c724b93c40c405668e9d109.jpeg)\n\n**测试版警告**\n>\n> 本模组适用于 Minecraft 1.20.1（Forge）。目前处于测试阶段，可能包含错误。请务必备份您的存档。\n\n## 简介\n\nShaded War 为 Minecraft 引入了高保真空中战斗系统。体验具备真实物理效果与远程战术弹药的 FPV 无人机。本模组侧重于技术沉浸感、信号模拟、沙希德-136（Shahed-136）无人机以及电子战玩法。\n\n## 功能特性\n\n*   **FPV 无人机**\n    飞行物理效果（“特技”模式）、电池管理，以及基于距离和障碍物的动态信号质量。\n\n*   **巡飞弹**\n    配备专用发射装置的远程无人机，包含燃油消耗与空气动力学模拟。\n\n*   **电子战**\n    信号干扰器（REB），可切断控制链路并使范围内无人机失效。\n\n*   **装备**\n    护目镜、控制器与监控站，均配备数字 HUD（平视显示器）及干扰视觉效果。\n\n**需要安装 [Geckolib](https://modrinth.com/mod/geckolib)。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

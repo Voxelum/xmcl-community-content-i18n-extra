@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fd30979ee1f6611f",
+  "content": "\n\n<p><img src=\"https://img.shields.io/badge/Minecraft-v1.18--v1.21-brightgreen?style=flat&labelColor=#000&color=#5b8731\" alt=\"Minecraft 版本\"></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252freacharound\" rel=\"nofollow\"><img src=\"https://img.shields.io/modrinth/dt/r3VgI4QN?style=flat&logo=modrinth&logoColor=#1bd96a&label= &labelColor=#16181c&color=#17b85a\" alt=\"Modrinth 下载量\"></a> <a href=\"https://www.curseforge.com/minecraft/mc-mods/reacharound\" rel=\"nofollow\"><img src=\"https://cf.way2muchnoise.eu/short_reacharound.svg\" alt=\"CurseForge 下载量\"></a></p>\n<p>一款简易的方块放置模组，额外支持向下和向上放置方块。</p>\n<p>核心功能移植自 <a href=\"https://github.com/VazkiiMods/Quark\" rel=\"nofollow\">Quark (Forge)</a>。Quark 的 <a href=\"https://github.com/VazkiiMods/Quark/blob/master/LICENSE.md\" rel=\"nofollow\">🔗 许可证可在此查看</a>。</p>\n<h3>与其他同类模组相比新增的功能：</h3>\n<p>提供三种指示器类型（默认、Quark、自定义），并支持通过模组菜单进行配置。</p>\n<p>半砖将尝试智能放置。如果你正在向上搭建半砖桥，它们会继续保持上半砖的状态。</p>\n<p>垂直放置的半砖将正确堆叠，不会出现跳层现象。</p>\n<p>现在该功能同样支持向上和向下建造。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

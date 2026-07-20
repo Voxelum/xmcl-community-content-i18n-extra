@@ -1,0 +1,6 @@
+{
+  "bodyHash": "32986c86d79f1f8f",
+  "content": "### [Let's Do Addon] 兼容性支持\n\n本模组为 Let's Do 系列模组与众多其他模组之间添加了兼容性，无需您手动配置。\n\n当前支持的兼容性（截至 2.1.0 版本）包括：\n* 所有基于 Let's Do Farm&Charm 的模组（Farm&Charm、Candlelight、Brewery、Bakery）以及其他模组（Vinery、Beachparty 等）\n* 所有 Farm&Charm 的非官方插件（如 CornExpansion 等）\n* Farmer's Delight / Farmer's Delight Refabricated\n* 所有 Farmer's Delight 插件\n* 口渴系统模组的兼容性（Legendary Survival Overhaul、Thirst was Taken、Dehydration 等）\n\n开发计划：\n* 接受您的任何建议！欢迎在 Discord 或 GitHub Issues 中提出。\n\n本模组还为开发者提供了一个轻量级 API，以加载器无关的方式一次性添加对所有受支持口渴系统模组的兼容性（您可以仅用于 Forge、仅用于 Fabric，或同时支持两者）：\n\n```java\nThirstCompatHelper#registerDrinkThirst(String itemName, int thirst, float quench);\n// 或者\nThirstCompatHelper#registerFoodThirst(String itemName, int thirst, float quench);\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dd9b926bd114f6ed",
+  "content": "\n\n# 護盾僵直（Fabric）\n\n伺服器端 Fabric 模組，修復了自 1.11.2 起存在的 2016 年 Minecraft 護盾無敵刻 Bug [MC-268147](https://bugs.mojang.com/browse/MC-268147)。\n\n此功能係透過將 Paper 的 [`skip-vanilla-damage-tick-when-shield-blocked`](https://github.com/PaperMC/Paper/blob/main/paper-server/patches/sources/net/minecraft/world/entity/LivingEntity.java.patch#L1241) 設定移植至 Fabric 來實現。\n\n## 設定檔\n\n設定檔位於 `config/shieldstun.json`。它用於控制是否啟用護盾僵直效果。\n```json\n{\n  \"enable_stuns\": true\n}\n```\n\n## 指令與權限\n\n| 指令             | 權限                   | 說明        |\n|------------------|------------------------|-------------|\n| /shieldstun      | everyone               | 關於資訊    |\n| /shieldstun reload | shieldstun.reload（或 op 3） | 重新載入設定檔 |\n| /shieldstun status | shieldstun.status      | 查看僵直狀態 |\n| /shieldstun enable | shieldstun.enable（或 op 3） | 啟用模組    |\n| /shieldstun disable| shieldstun.disable（或 op 3）| 停用模組    |\n\n## 模組限制\n本模組不會為 [Carpet](https://github.com/gnembon/fabric-carpet) 中的假玩家啟用護盾僵直功能。\n若您正在使用 [TheobaldTheBird](https://github.com/TheobaldTheBird) 開發的 [CarpetPvP](https://github.com/TheobaldTheBird/CarpetPVP) 模組，請輸入：\n\n`/carpet shieldStunning true`\n\n這將**暫時**為假玩家啟用 shieldStunning。\n若您希望設定為**永久生效**，請點擊顯示「[Change permanently?]」的文字。\n\n此外，本模組也不會在已停用護盾僵直的 Paper 伺服器上生效。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

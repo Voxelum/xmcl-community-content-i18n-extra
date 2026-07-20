@@ -1,0 +1,6 @@
+{
+  "bodyHash": "af00cd7669a3e8ca",
+  "content": "\n\n# 指令方塊轉告示牌\n將您的指令方塊轉換為可點擊的告示牌！\n\n## ⚙️ 僅需安裝於伺服器端！\n如果您僅在伺服器或 LAN 環境中安裝此數據包／模組，其他玩家無需安裝即可直接生效使用！\n\n## 📖 使用說明：\n- 在您想要轉換的指令方塊側面放置告示牌，最多可連結 4 個指令方塊。（它們必須彼此面對。）\n- 手持蜂蠟，右鍵點擊告示牌進行上蠟。（蜂蠟會被消耗。）\n- 完成！您的告示牌已準備就緒。\n\n系統僅在告示牌位於指令方塊上時才會觸發反應；否則不會產生任何效果，且上蠟動作將如常進行。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/tcRHDGpwh7A\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n![設定範例](https://cdn.modrinth.com/data/cached_images/e5aa8a607241a01a423da587914317a896dd129c.png)\n\n## ⤵️ 安裝方式：\n### 數據包：\n下載最新版本，並將數據包的 `.zip` 檔案放入您的 Minecraft 世界資料夾中的 `datapacks` 資料夾內。\n### 模組：\n下載最新版本，並將模組的 `.jar` 檔案放入您的 Minecraft 遊戲資料夾中的 `mods` 資料夾內。\n\n## ✍️ 回饋、問題與建議\n我隨時歡迎大家的意見！如果您有任何問題、建議，或是遇到了錯誤，歡迎加入我的 Discord 伺服器，在「mods and datapacks」專區提出您的問題。[點擊加入伺服器](https://discord.gg/kwzQWS4)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Rqr8NvCKSnc=",
-  "content": "<p>現在包含任務系統！Infinity Evolved 新增遊戲模式！&nbsp;目前包含兩種模式：「普通」與「專家」。&nbsp;新建立與現有的世界將自動採用「普通」模式，若要切換至全新遊戲模式，請輸入以下指令（不包含引號）：&nbsp;「/ftb_mode set expert」&nbsp;您隨時可以透過輸入指令返回「普通」模式：\"/ftb_mode set normal\"&nbsp;伺服器管理員可在遊戲中或從控制台執行相同指令。&nbsp;玩家加入伺服器時，將在登入時自動切換至該伺服器的遊戲模式。&nbsp;更新至 2.0.0 版本無需重置世界，但若您計劃遊玩「專家」模式，由於進程系統有大量變更，強烈建議進行世界重置。</p><p>&nbsp;</p><p>適合所有玩家的整合包。Infinity 是 FTB 團隊推出的通用型整合包，專為單人遊玩及中小型人口伺服器設計。</p><p>&nbsp;</p><p>此整合包包含由 Player 開發的 <a href=\"/linkout?remoteUrl=http%253a%252f%252fforum.industrial-craft.net%252findex.php%253fpage%253dThread%2526threadID%253d10820\" rel=\"nofollow\">Fastcraft</a>。Fastcraft 能透過效能提升來強化 Minecraft 體驗。若直接向模組作者提交錯誤報告，請註明已啟用 Fastcraft。</p>",
+  "bodyHash": "22d4af39de94e40d",
+  "content": "\n\n<p>現在包含任務系統！Infinity Evolved 新增了遊戲模式！&nbsp;目前提供兩種模式：「普通」與「專家」。&nbsp;新建立與現有的世界預設皆為「普通」模式，若要切換至全新遊戲模式，請輸入以下指令（不含引號）：&nbsp;\"/ftb_mode set expert\"&nbsp;隨時皆可輸入指令：\"/ftb_mode set normal\"&nbsp;回到「普通」模式。&nbsp;伺服器管理員可在遊戲內或從控制台執行這些相同指令。&nbsp;玩家加入伺服器時，登入後會自動切換至該伺服器的遊戲模式。&nbsp;更新至 2.0.0 版本並不強制要求重置世界，但若打算遊玩「專家」模式，鑑於進度變更相當龐大，仍強烈建議進行世界重置。</p>\n<p>&nbsp;</p>\n<p>適合所有人的整合包。Infinity 是 FTB 團隊推出的萬用整合包，專為單人遊玩以及中小型玩家數的伺服器所設計。</p>\n<p>&nbsp;</p>\n<p>本整合包包含由 Player 開發的 <a href=\"/linkout?remoteUrl=http%253a%252f%252fforum.industrial-craft.net%252findex.php%253fpage%253dThread%2526threadID%253d10820\" rel=\"nofollow\">Fastcraft</a>。Fastcraft 能提升 Minecraft 的效能。若直接向模組作者回報問題，請註明已啟用 Fastcraft。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

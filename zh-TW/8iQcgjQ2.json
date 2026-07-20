@@ -1,0 +1,6 @@
+{
+  "bodyHash": "84bcd90f140111f2",
+  "content": "\n\n*受夠了為了輸入長指令的中间部分而一直按方向鍵，結果衝過頭，又得花上半天時間往回刪了嗎？是否希望能夠以更結構化的格式直接查看完整內容，而不必複製到外部軟體再貼回來？*\n\n這款**_僅限客戶端_**模組旨在解決這些問題及其他痛點，透過全面重構命令方塊 UI 來實現。\n\n目前功能：\n- 多行指令文字欄位\n  - 依據括號自動縮排\n  - 巢狀 NBT 資料色彩標記\n  - 自動換行\n  - 水平與垂直捲動\n  - 改善的選擇與刪除功能\n    - 點擊拖曳選取\n    - 雙擊單字選取\n    - 按住 Ctrl 刪除時僅刪除實際單字，而非所有 NBT 內容\n  - 適應 UI 縮放比例與視窗尺寸\n- 重新排列現有按鈕\n  - 命令方塊狀態按鈕（類型、條件判斷、紅石模式、輸出追蹤）簡化為帶有提示工具的小型圖示\n  - 新增切換「查看指令」與「查看輸出」的按鈕\n- 命令方塊鏈接導航\n  - 提供按鈕可在不離開 UI 的情況下於鏈接中前後移動\n  - 若多個方塊指向當前方塊，系統會列出所有相關方塊，並以提示工具顯示連接方向。與當前方塊「順著流程」的方塊將排在第一位\n- 使用 UI 按鈕與 Ctrl + S 快速儲存，無需離開介面\n- 工具視窗\n  - 旋轉選擇器，輸出單位為弧度\n  - 顏色選擇器，輸出整數與十六進位代碼\n- 區域選擇鍵位綁定\n  - 按下分號鍵 `;` 即可選取體積的兩個對角（類似 WorldEdit），模組會將對應的區域選擇器格式（`x=..,y=..,z=..,dx=..,dy=..,dz=..`）複製到剪貼簿\n- 設定選項\n  - 完全可自訂縮排行為\n  - 可選設定：關閉介面或沿鏈接移動時自動儲存\n  - 支援 ModMenu\n- 相容於 [NBT Autocomplete](https://www.curseforge.com/minecraft/mc-mods/nbt-autocomplete)、[Component Utils](https://github.com/Apollounknowndev/component-utils/)、[Better Suggestions](https://modrinth.com/mod/better-suggestions) 與 [Better Highlighting](https://modrinth.com/mod/better-highlighting)\n\n![範例](https://i.imgur.com/X3qznq9.png)\n\n如上所述，此模組完全**僅限客戶端**。它會接收伺服器傳來的指令，僅將其以多行與縮排格式顯示，但實際上不會在指令本身加入任何換行符號。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

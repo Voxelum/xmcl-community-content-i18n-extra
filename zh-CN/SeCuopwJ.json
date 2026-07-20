@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3bef90fa0032db3",
+  "content": "**[![点击此处前往 CurseForge 下载](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/xxl-packets \"点击此处前往 CurseForge 下载。\")**\n\n免责声明：这是原始 XL Packets 模组的一个分支版本。此分支将数据包大小限制扩展至 Java 整数上限。\n\n通过提高数据包大小限制，从 2MB 提升至 2.14GB（2147483647），从而修复了 https://bugs.mojang.com/browse/MC-185901 问题，防止拥有大型数据包、数据包内容等的大型服务器踢出客户端。\n任何连接到此服务器的客户端都需要安装此模组。\n\n![image](https://cdn.modrinth.com/data/SeCuopwJ/images/4088d622406e783546106108c58ed029f3a09fb2.png)\n\n**[![点击此处使用代码 'Ultimate' 在 BisectHosting 购买 Minecraft 服务器可享 25% 折扣](https://www.bisecthosting.com/images/CF/XXL_Packets/BH_XXL_PromoCard.webp)](https://bh.lazuline.xyz \"点击此处使用代码 'Ultimate' 在 BisectHosting 购买 Minecraft 服务器可享 25% 折扣。\")**\n  ",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fe3f2979eefd888f",
+  "content": "# 奥德赛轻量版\n\n[![使用代码 SHADOWHUNTER30，在 NeyHost 购买第一个服务器享 7 折优惠！](https://cdn.modrinth.com/data/cached_images/08986aac2bbc07a1b205ce147eb5a9fc26ac0e7e_0.webp)](https://www.neyhost.com/?ref=SHADOWHUNTER30)\n\n_我只推荐我自己使用的产品。您正在寻找性价比高且可靠的托管服务提供商吗？试试 Ney Host，并使用我的代码 `SHADOWHUNTER30` 获得首次购买 7 折优惠！我对他们的服务非常满意，这也是我推荐您去看看的原因！_\n\n## 信息\n\n这是由 Dplayend 最初制作的 [OdysseyHUD](https://www.curseforge.com/minecraft/mc-mods/odysseyhud) 模组的简化版本。此模组添加了指南针和时钟的 HUD，以及我自己为锻造模板、唱片和山羊角设计的 HUD！\n\n要使用此模组，请下载它并将其放入 ```.minecraft/mods``` 文件夹中。此外，您还需要安装 Fabric API jar 文件才能使此模组正常运行。\n\n## 功能\n\n以下物品的 HUD：\n\n- 时钟\n\t- 当在主手或副手持有时，会在屏幕顶部中间显示时间。如果您处于下界或末地，此 HUD 将不会工作。\n\n- 指南针\n\t- 在右上角显示您当前的位置。如果它与地标石链接，它还会在左上角显示地标石的位置和维度。\n\n- 重生指南针\n\t- 在右上角显示您当前的位置。它还会在左上角显示您上次死亡的位置和维度。\n\n- 音乐唱片\n\t- 当在主手或副手持有时，会在屏幕顶部中间显示音乐唱片的名称。\n\n- 锻造模板\n\t- 当在主手或副手持有时，会在屏幕顶部中间显示锻造模板的名称。\n\n- 山羊角\n\t- 当在主手或副手持有时，会在屏幕顶部中间显示山羊角的乐器名称。\n\n此模组也兼容 Trinkets API。如果时钟、指南针或重生指南针位于 `tools/[compass or clock]` 槽位中（悬停在副手槽位上可以找到它），则该物品的 HUD 将会渲染。\n\n## 版本\n\n此模组**仅支持 Fabric**。目前没有计划支持 Forge。\n\n此模组适用于以下 Minecraft 版本：\n\n`1.20.x`\n\n`1.21.x`\n\n`26.1`\n`26.1.1`\n`26.1.2`\n`26.2`\n\n## 客户端和服务器支持\n\n这是一个仅限客户端的模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "487bd25ac00e18f9",
+  "content": "### [**![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/requires/fabric-api_vector.svg)**](https://modrinth.com/mod/fabric-api) [**![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/available/curseforge_vector.svg)**](https://www.curseforge.com/minecraft/mc-mods/just-ctgui)\n\n<h3>这是什么模组，如何使用它？</h3>\n\nRecipe Generator（配方生成器）模组提供了在 Minecraft 中使用各种配方生成方法的可视化配方编辑器，例如：**CraftTweaker**、**KubeJS**、**数据包**（开发中）或 **自定义模组**（开发中）。\n\n使用该模组非常简单，只需在服务器和客户端上安装该模组即可。如果需要，您可以安装辅助模组（CraftTweaker 或 KubeJS）以简化开发流程，但这并非必需。\n\n安装完成后，您就可以开始创建第一个配方了。为此，请打开聊天栏并输入命令：**/rgui addRecipe crafting_table**\n\n当然，其他方块也可用：熔炉和高炉（未来将添加所有方块）。除了添加配方外，您还可以使用“/rgui remove”删除不需要的配方。**（请不要尝试使用“/rgui remove”删除由 Recipe Generator 添加的配方！请从“.minecraft/scripts”文件夹中删除生成的配方！）**\n\n接下来我们将打开 GUI 界面。在打开之前，请将您想要合成的物品放入背包中。当 GUI 打开时，您将看到一个类似于合成台的界面，您需要在此布局配方。可以使用来自其他模组的物品进行合成，但可能会出现错误。当您放置好配方后，可以点击“Generate”（生成）按钮来生成 Zen 脚本代码。生成的代码将显示在您的聊天栏中，如果您懂这种语言，可以检查其中是否有错误。然后，您可以点击“Save”（保存）按钮，配方将自动保存到名为 generated1.zs 的 Scripts 文件夹中。目前尚无法手动选择配方和文件的名称，这一切都是自动完成的。\n\n现在配方已经创建完成，您需要更新 Craft Tweaker 的配方列表。您可以通过重新登录 Minecraft 或运行以下命令来实现：**/reload**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

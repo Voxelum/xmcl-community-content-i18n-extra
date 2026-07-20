@@ -1,0 +1,6 @@
+{
+  "bodyHash": "170ee2e176923c3e",
+  "content": "\n\nTerrafirmaCraft 模組的家電擴充套件。\n\n功能：\n目前僅新增電冰箱。\n電冰箱可大幅延長 TerrafirmaCraft 新增食物的保存期限。\n冰箱運作需要消耗能量。\n可透過 RF 或 GregTech EU 提供能源。\n可透過對應的按鈕開啟或關閉冰箱。\n\n![Refrigerator GUI](https://cdn.modrinth.com/data/cached_images/c2aa134e7bc06cb1786f86d3328851438bfa4068.png)\n\n未來將新增其他家電。\n\n必要依賴模組：TerraFirmaCraft。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

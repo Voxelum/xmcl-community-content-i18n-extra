@@ -1,6 +1,6 @@
 {
-  "bodyHash": "w09Awd/1lpM=",
-  "content": "**派對HUD**是一款輕量級Forge模組，透過完全可自訂的派對風格HUD增強多人遊戲體驗。它能顯示附近玩家的生命條，提供多種可配置樣式與動態顏色，並根據中毒、冰凍或恢復等狀態效果即時變色。\n\n支援固定特定隊友，使其生命條始終可見，即使距離遙遠或身處其他維度也能追蹤。採用高效的客戶端-伺服器網路傳輸技術，同步所有連線玩家清單與即時生命值數據。\n\n**主要功能：**\n\n- 3種HUD樣式：現代、精簡、標準（即將新增更多）\n- 可配置位置（8種螢幕定位點）\n- 效果導向顏色系統（中毒=綠色、凋零=黑色等）\n- 生命值顯示模式：數值、百分比或隱藏\n- 可選顯示玩家名稱與裝備\n- 可自由調整HUD尺寸\n- 最多固定6名玩家（預設為4名）\n\n**線上玩家清單**\n- 線上玩家將顯示於此視窗（按\"H\"鍵開啟）\n- 僅顯示64格範圍內的線上玩家\n![線上玩家](https://cdn.modrinth.com/data/cached_images/e30f3f3b5ea49e5fd4ce0d26ded827cba8c40eb5_0.webp)\n\n**收藏玩家清單**\n- 收藏清單中的所有玩家將始終顯示\n![收藏玩家清單](https://cdn.modrinth.com/data/cached_images/fbddf4cd31b3768003b0d5a077252943b8814a04_0.webp)",
+  "bodyHash": "079c66824c3ada99",
+  "content": "\n\nParty HUD 是一款輕量級 Forge 模組，透過完全可自訂的隊友風格 HUD 來提升多人遊戲體驗。它會顯示附近玩家的血條，提供多種可設定樣式與動態顏色，反映中毒、凍結或再生等狀態效果。\n\n支援釘選特定隊友，讓其血條在長距離或穿梭其他維度時仍能持續顯示。採用高效的客戶端與伺服器網路通訊，同步完整的連線玩家列表與即時血量資料。\n\n主要功能：\n\n- 3 種 HUD 樣式：現代、緊湊、標準（即將推出更多）\n- 可設定位置（8 個螢幕位置）\n- 依狀態效果變色（中毒=綠色，凋零=黑色等）\n- 血量文字：數值、百分比或無\n- 可選顯示名稱與護甲條\n- 可調整 HUD 大小\n- 最多釘選 6 名玩家（預設為 4 名）\n\n**在線玩家列表**\n- 在線玩家會顯示在此視窗中，按下字母「H」即可開啟\n- 此 HUD 僅會顯示 64 格範圍內的在線玩家。\n![Online players](https://cdn.modrinth.com/data/cached_images/e30f3f3b5ea49e5fd4ce0d26ded827cba8c40eb5_0.webp)\n\n\n**收藏列表中的玩家**\n- 收藏列表中的所有玩家將始終保持可見\n![Players on the favorites list](https://cdn.modrinth.com/data/cached_images/fbddf4cd31b3768003b0d5a077252943b8814a04_0.webp)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

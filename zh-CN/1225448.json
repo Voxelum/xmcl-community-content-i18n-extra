@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e0f84a138fcb084",
+  "content": "\n\n<p>基础库模组，让你毫不费力地轻松使用 JDA。只需将此模组拖放到你的 mods 文件夹中，并在构建脚本中添加以下内容：</p>\n<pre><code>repositories {\n    maven {\n        url = '<a href=\"\" target=\"_blank\" rel=\"nofollow\">https://maven.mangorage.org/releases/&#x27;</a>\n    }\n}\ndependencies {\n   implementation(\"org.mangorage:JDA-Library:version\")\n}</code></pre>\n<p>就这样！现在你可以使用 JDA 了！</p>\n<p>记得把它放入 mods 文件夹！</p>\n<p>如果需要帮助，欢迎加入我的 <a href=\"/linkout?remoteUrl=http%253a%252f%252fdiscord.mangorage.org%252f\" target=\"_blank\" rel=\"nofollow\">Discord</a>！</p>\n<p>此模组本身不会执行任何操作。它是一个专为模组开发者设计的工具/库模组。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

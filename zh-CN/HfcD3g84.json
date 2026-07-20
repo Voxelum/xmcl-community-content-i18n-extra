@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ababa3084fd98788",
+  "content": "\n\nExpanded Weather2 Dynamics 是 Weather2 的 NeoForge 1.21.1 扩展模组，为严重风暴增添了更深入的龙卷风动力学、雷达工具、风暴警报、SPC 风格风险展望以及更适合生存模式的风暴破坏效果。\n\n该扩展在保留 Weather2 作为核心天气系统的同时，增加了额外的服务端行为、视觉效果、方块和配置选项，以提供更激烈的恶劣天气游戏体验。\n\n特色功能\n\n动态龙卷风宽度、弯曲、合并、卫星龙卷风及反气旋龙卷风支持\n超级单体结构视觉效果，以及具备钩状回波/气旋识别能力的雷达行为\n雷达方块、风速计、天气警报汽笛、SPC 风险方块及灾害评估器\n自动生成虚构的 EF 级灾害评估结果，并显示龙卷风 ID 与路径轨迹\n树木去皮、更强的地面冲刷、螺旋形痕迹，以及受上限控制的地形破坏\n虚构的 TOR/SVR 预警系统及 SPC 风格展望分类\n面向多人游戏的服务器权威行为及可配置的性能限制\n进度、合成配方、战利品表、纹理，以及可在生存中放置的天气工具\n\n依赖\n\nMinecraft 1.21.1\nNeoForge\nWeather2\nCoroUtil\n\n注意\n\n所有警报、评估等级、SPC 展望及预警产品均为游戏内虚构系统，并非现实世界的官方气象信息。\nForge 版本为实验性支持；您可能会遇到一些 Bug。\n\nVynvortex 已试玩此模组：https://youtu.be/VItPN36mLlc?is=ibDZ_jkiBIYRdS2X\n\n1.20.1 版本目前存在严重问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f698bbc0e80d249b",
+  "content": "Модуль для объединения библиотек: сборка библиотек JetBrains Compose Multiplatform. Используется в Polyfrost's [OneConfig](https://modrinth.com/mod/oneconfig) на современных версиях Minecraft.\n\nВременно использует наш форк [skiko](https://github.com/Polyfrost/skiko) для поддержки Vulkan на версии 26.2\n\nПримечание: эта библиотека НЕ предоставляет функциональность интеграции Compose в Minecraft. Это отдельная библиотека из-за большого размера библиотек Compose, включая Skiko.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

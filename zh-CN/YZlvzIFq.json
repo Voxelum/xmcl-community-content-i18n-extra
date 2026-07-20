@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27381fd9f0434a43",
+  "content": "# 💤 双人床铺\n- 允许多名玩家在同一张床上睡觉。\n- 当玩家人数超过两人时，他们会开始堆叠在一起！\n- 改变了在床上睡觉时的摄像机视角。\n\n| 玩家              | 村民              |\n|---------------------|:---------------------:|\n| ![Player in a bed looking at the viewer](https://cdn.modrinth.com/data/YZlvzIFq/images/35278d3189696b8582108150ad6e97f59b45a3b8.png)            | ![Minecraft villager in a bed looking at the viewer](https://cdn.modrinth.com/data/YZlvzIFq/images/8c52944f03d501f19c4d2bf6ffec57e87887095e.png)             |\n\n## 🗺️ 路线图\n### 计划中的功能\n这些内容可能会发生变化，我欢迎任何反馈（请提交 GitHub Issue 或在 Twitter 上私信我）。我希望这个模组保持相对简洁，这意味着不会添加新的方块或物品。\n- 位置偏好设置（面向哪一侧，前面还是后面）\n- 非第一人称模式下进入床铺时的更佳摄像机体验\n- 尽可能移植到更多的 Minecraft 版本及加载器\n\n## ⚙️ 整合包使用\n只要提供署名，Room for Two 可以免费用于任何自定义整合包中。然而，该模组尚未测试与现有模组的兼容性，因此使用风险自负。我不允许任何形式的货币化或生成式 AI 使用。\n## 🔨 版本支持\nRoom For Two 将尽可能为多个版本提供更新，优先支持最受欢迎的版本。\n## 🐛 问题反馈\n如果您在使用此模组时遇到任何问题，请向我们的 [GitHub Issue 追踪器](https://github.com/Sir-Cow/room-for-two/issues) 报告！在报告任何错误或问题时，请尽量描述清晰。请注意，该模组目前处于 **ALPHA**（早期测试）阶段，因此某些功能可能尚不完美。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

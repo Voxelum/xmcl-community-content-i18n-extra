@@ -1,0 +1,6 @@
+{
+  "bodyHash": "47856e3e15a3cdd2",
+  "content": "\n\n<p><strong>Create: Design n' Decor - Aeronautics Compat</strong> 是一款轻量级兼容模组，用于连接 <strong>Create: Design n' Decor</strong> 与 <strong>Create Aeronautics</strong>。<br><br>它使 Design n' Decor 的动能方块能够与 Aeronautics 的机械装置自然配合，因此你可以在飞艇和载具建造中使用 DnD 部件，而不会丧失 Create Aeronautics 的核心功能。<br><br><strong>功能特性</strong><br><br>&bull; 为 Design n' Decor 粉碎轮添加 Aeronautics/越野车轮挂载支持<br>&bull; 为 Design n' Decor 飞轮添加 Aeronautics/越野车轮挂载支持<br>&bull; 使 Design n' Decor 大型风扇的行为模拟 Aeronautics 螺旋桨<br>&bull; 为兼容的 DnD 风扇方块添加升力/推力生成机制<br>&bull; 为 DnD 风扇添加渐进式螺旋桨启动效果<br>&bull; 为 DnD 风扇添加类 Create 风格的应力消耗机制<br>&bull; 添加对 Create 护目镜动能统计的支持<br>&bull; 添加风扇行为的 Ponder（探索）教程支持<br>&bull; 包含可配置的风扇力度数值<br><br><strong>设计目的</strong><br><br>Design n' Decor 增加了许多精美的方块变体，但其中部分方块默认无法被 Create Aeronautics 识别。本模组填补了这一空白，使这些方块能够在 Aeronautics 的建造中更公平、一致地被使用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

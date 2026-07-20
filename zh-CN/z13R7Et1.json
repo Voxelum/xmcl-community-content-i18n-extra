@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b4523978d4583907",
+  "content": "\n\n## 关于\n\nVisuality: Reforged 是 [Visuality](https://modrinth.com/mod/visuality) 的非官方 Forge 移植版，请支持原作者的作品。\n\n这是一款简单的客户端装饰性模组，将为你的 Minecraft 世界添加大量新粒子效果，例如水晶闪光、生物受击粒子、史莱姆专属的自定义团状粒子以及环境粒子等。 \n\n随着模组更新，粒子合集将持续扩展！\n\n## 配置\n\n你可以通过编辑 Minecraft 目录中 config 文件夹下的 `visuality-client.toml` 来配置该模组，或使用 [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) 获取游戏内配置界面。\n\n## 反馈\n\n所有功能请求请提交至 Visuality。\n\n所有 Forge 版本相关的 Bug 报告请提交至 Visuality: Reforged。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

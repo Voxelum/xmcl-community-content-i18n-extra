@@ -1,0 +1,6 @@
+{
+  "bodyHash": "17d38f5fca699631",
+  "content": "\n\n<p>此模组会在玩家重生时播放《Re:从零开始的异世界生活》中的“死亡回归”音效，适合希望为角色死亡增添戏剧性氛围的玩家。</p>\n<p>&nbsp;</p>\n<p>本模组不会让您瞬间重生，也不会像原作那样创建存档点。它仅在重生时播放一段音效，以尽可能还原真实的“死亡回归”体验。</p>\n<p>\"/gamerule doImmediateRespawn true\" 和&nbsp; \"/gamerule keepInventory true\"&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>此外，我还添加了一个在聊天栏输入内容时的彩蛋。</p>\n<div class=\"spoiler\">\n<p>目前没什么特别的，在聊天栏输入特定词汇会导致您直接死亡。<br><br>会触发死亡的词汇包括：&nbsp;</p>\n<div>\n<pre>\"returnbydeath\", \"returnfromdeath\",<br>\"returningbydeath\", \"returningfromdeath\",<br>\"returnedfromdeath\", \"returnedbydeath\",<br>\"resurrectbydeath\", \"resurrectfromdeath\",<br>\"comebackbydeath\", \"comebackfromdeath\",<br>\"deathloop\"</pre>\n<p><br>纯属娱乐效果，不想把机制搞得太复杂。</p>\n</div>\n</div>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

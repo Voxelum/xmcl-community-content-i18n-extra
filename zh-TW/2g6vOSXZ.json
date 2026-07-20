@@ -1,0 +1,6 @@
+{
+  "bodyHash": "451679afc0ba0c7d",
+  "content": "\n\n## 釣竿量尺\n\n*曾經想過用釣竿將實體拋飛到極遠處，卻總因距離太長而斷線嗎？現在你終於可以做到了！*\n\n使用釣竿時，釣竿量尺會在快捷欄上方顯示一個指示器，標明當前釣線的長度\n\n![GIF 顯示長度逐漸增加直至斷線](https://cdn.modrinth.com/data/2g6vOSXZ/images/c0d25d019d8e426255875f38e75c023ab944fd19.gif)\n\n由於你能拖拽實體的距離與釣線長度成正比，這代表你能輕鬆將目標拋至最遠！\n\n……更具實用性的是，文字顏色還能提供釣魚相關資訊——例如水源是否足夠大以釣出寶藏，或是在魚咬鉤時顏色會閃爍一秒，提醒你該收線了\n\n可用的文字顏色如下：\n\n![顯示幫助指令的截圖](https://cdn.modrinth.com/data/2g6vOSXZ/images/35e69bd9ceb6ac9689286a31b027e884d85f516c.png)\n若你忘了各顏色的意義，可在遊戲內輸入 `/fishingruler:help` 查看上述說明\n\n此外，你可使用 `/fishingruler:bite_sound set <音效>` 自訂魚咬鉤時播放的音效\n\n## 依賴項：\n- [Fabric API](https://modrinth.com/mod/fabric-api)（或 Quilt/Sinytra 的對應模組，儘管我尚未用這兩者進行測試）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

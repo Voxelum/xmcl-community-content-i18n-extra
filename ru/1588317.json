@@ -1,0 +1,6 @@
+{
+  "bodyHash": "860de92de1de29a8",
+  "content": "\n\n<p>Патчи для мода MineExporter, исправляющие проблемы с путями в Unix-подобных системах (Linux и macOS).</p>\n<p>При поиске пакетов ресурсов для обработки CTM в моде MineExporter жёстко задана строка <code>.\\resourcepacks\\</code>, что приводит к несуществующему пути в Unix-подобных системах. Данный мод исправляет это, заменяя символы <code>\\</code> на <code>File.separatorChar</code>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

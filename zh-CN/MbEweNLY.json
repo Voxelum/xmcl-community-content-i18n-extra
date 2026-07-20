@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qHUxsUsWdsY=",
-  "content": "# PvP 命中音效\n\n本模组会在你完全蓄力击中玩家时播放一个“叮”的声音（类似弓箭命中音效）。\n\n# 功能\n- 仅当蓄力超过 80% 时播放音效\n- 帮助你判断是否掌握了正确的攻击时机\n\n**请在此处给我反馈[点击这里](https://lostgpu.netlify.app/feedback)。**",
+  "bodyHash": "2f28b0db631a5e2e",
+  "content": "# PvP 命中音效\n\n当你击中玩家时，本模组会播放一声“叮”的音效（类似于弓箭命中时的声音）。\n\n# 功能\n- 仅在充能超过 80% 的攻击命中时播放音效\n- 帮助你判断攻击时机是否准确\n\n**请在此处[提供您的反馈](https://lostgpu.netlify.app/feedback)。**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

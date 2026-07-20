@@ -1,0 +1,6 @@
+{
+  "bodyHash": "639246d181545fe3",
+  "content": "\n\n“可定制图腾毛绒玩偶”是一款资源包，可让你轻松地将不死图腾替换为你的皮肤毛绒玩偶版本！\\\n支持宽体与瘦体皮肤，无需担心不同皮肤需要下载不同版本。\\\n无需安装 OptiFine 或其他任何模组！\\\n默认图腾皮肤为史蒂夫（Steve），如果你愿意也可以直接使用默认皮肤。\\\n将图腾替换为你自己毛绒玩偶的步骤：\n1. 下载该资源包\n1. 打开资源包文件夹，依次进入 assets/minecraft/textures/item\n1. 确保你拥有一张玩家皮肤（如果没有，可以从 [Skindex](https://www.minecraftskins.com/) 或 [NameMC](https://namemc.com/) 获取）\n1. 删除默认的史蒂夫皮肤文件 steve（如果开启了文件扩展名显示，则为 steve.png）\n1. 将你的皮肤文件拖入该文件夹\n1. 将皮肤重命名为 skin.png（重要提示：如果你未开启文件扩展名显示[即看不到 .png、.zip 等后缀]，则只需重命名为 skin，不要加 .png）\n1. 在游戏中加载该资源包，即可完成！\n\n祝你游玩愉快！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

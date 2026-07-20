@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6591229fe2449a98",
+  "content": "\n\n本模組旨在統一大型整合包中出現的重複物品類型（例如多種番茄或銀礦）。\n\n由 @Limit小火柴 委託製作，主要為 Utopia 整合包設計以標準化各種物品，但也可用於其他整合包或伺服器上。\n\n與 One Enough Item 不同，本模組會在資料載入階段就開始替換物品（包含合成配方、戰利品表等）。\n\n也就是說，任何以 JSON 格式載入的內容（例如配方）都可以被替換，這代表世界載入速度不會受到影響。\n\n如果你使用的是物品管理器，本模組目前僅支援 JEI（因為 Utopia 整合包使用的就是它）。\n\n你可以在 config/oneitem.json 中修改相關設定。\n範例格式（將會將 farm_and_charm:wild_onions 和 farm_and_charm:onion 替換為 farmersdelight:onion）：\n\n\"farmersdelight:onion\": [\n  \"farm_and_charm:onion\",\n  \"farm_and_charm:wild_onions\"\n]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

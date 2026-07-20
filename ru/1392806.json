@@ -1,0 +1,6 @@
+{
+  "bodyHash": "361caf79fabef928",
+  "content": "<p>Показывает прочность незеритовой брони, изменяя её цвет.</p>\n<p>&nbsp;</p>\n<p>Этот пакет содержит 11 различных цветов для брони в зависимости от её прочности.</p>\n<p>&nbsp;</p>\n<p>При прочности брони от 100% до 20% цвет меняется каждые 10% нанесённого урона,</p>\n<p>&nbsp;</p>\n<p>а при прочности ниже 20% цвет меняется каждые 5% нанесённого урона.</p>\n<p>&nbsp;</p>\n<p>Для работы этого пакета требуется <strong>OptiFine;</strong> для Fabric используйте <strong>CitResewn<img src=\"https://media.forgecdn.net/attachments/description/null/description_32a6692e-7521-4af2-b558-9dc08f0c7f89.png\" alt=\"\" width=\"850\" height=\"478\"></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

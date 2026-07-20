@@ -1,0 +1,6 @@
+{
+  "bodyHash": "650cd367db411537",
+  "content": "\n\n# 功能\n \n## 視覺設定\n此模組支援移除霧氣與全亮功能。\n- 若使用者使用快捷鍵來切換這些選項，關閉遊戲並重新開啟時會自動儲存。若你偏好直接使用快捷鍵操作，無需再進入設定選單。\n  \n![Replace this with a description](https://cdn.modrinth.com/data/cached_images/b1d4d29f1062ce40af87063a93ed179086d21618_0.webp)\n\n\n### 移除霧氣\n使用者可以選擇移除遊戲所有區域的霧氣，或僅移除地獄的霧氣。預設的循環切換按鍵為 `U`。\n\n![image](https://github.com/user-attachments/assets/a573fb08-f62f-4206-8cbf-509e427cf169)\n\n### 移除霧氣範例\n\n**關閉**\n\n![image](https://github.com/user-attachments/assets/8784da91-6cc7-4041-a986-68bb47310d81)\n\n**開啟**\n\n![image](https://github.com/user-attachments/assets/fe4a07b3-09d7-469b-8c50-125dbac53d35)\n\n\n### 全亮\n此功能會將遊戲的伽馬值提升至 15.0，進而消除所有陰影與黑暗。預設按鍵為 `N`。\n\n### 全亮範例\n\n**關閉**\n\n![image](https://github.com/user-attachments/assets/db6b124d-c40f-4f3b-ad95-48e74bc45a1a)\n\n**開啟**\n\n![image](https://github.com/user-attachments/assets/c234ffbe-05a2-4fbb-9a88-dfcfa9f1f57a)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

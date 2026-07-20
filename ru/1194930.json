@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0c2ac8a83b452072",
+  "content": "\n\n<p>Используется в моей сборке модов, но версия для Forge больше недоступна, и только версия от Dust обновлена до 1.20.1.<br>Оригинальный мод доступен здесь: <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fdusts-keymap\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/dusts-keymap</a>, который был портирован с: <a href=\"https://www.curseforge.com/minecraft/mc-mods/keymap\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/keymap</a><br><br>Этот мод представляет собой экран пользовательских настроек с меньшим количеством зависимостей, заменяет кнопку «Настройка клавиш» на кнопку «Карта клавиш». Данный мод также позволяет использовать клавиши Shift, Alt, Ctrl одновременно, а также комбинировать обычные клавиши. При использовании Ctrl для приседания могут возникать баги (приседание по Ctrl может активировать другие моды, и/или эти моды принудительно назначают свои клавиши, скоро исправлю!)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

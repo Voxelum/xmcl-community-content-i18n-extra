@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a00e9339c546787e",
+  "content": "\n\n# 更長的一天\n\n![Longer Day 封面圖片](https://cdn.modrinth.com/data/VDIHd7u9/images/d7bb941a013a3ab8baad414ea5404e2f3e57ed06.webp)\n\n一款輕量且可自訂設定的 Minecraft 1.12.2 Forge 模組，讓您能控制日夜週期的長度。預設情況下，白天與夜晚各持續 1 小時（一個完整週期共 2 小時），而非原版遊戲的各自 10 分鐘。\n\n## 運作原理\n\n此模組會減緩 Minecraft 的內部時間推進速度，使太陽和月亮能以正常速度的幾分之一平滑地穿過天空。伺服器端的遊戲邏輯（作物生長、生物生成）與客戶端的渲染（太陽位置、天空顏色）皆已妥善同步，確保流暢無縫的體驗。\n\n## 設定檔\n\n所有設定均可透過 `longer_day.cfg` 檔案進行調整（首次執行時自動產生）：\n\n| 設定項目 | 預設值 | 說明 |\n|---|---|---|\n| `dayLengthMinutes` | 60 | Minecraft 白天的實際持續分鐘數（原版為 10） |\n| `nightLengthMinutes` | 60 | Minecraft 夜晚的實際持續分鐘數（僅在非同步模式下使用） |\n| `syncNightWithDay` | true | 夜晚長度自動與白天保持一致 |\n\n### 範例\n\n- **白天 1 小時 + 夜晚 1 小時**：預設值（60/60，同步開啟）\n- **白天 30 分鐘，夜晚 30 分鐘**：將 `dayLengthMinutes` 設為 30\n- **長白天、短夜晚**：將 `syncNightWithDay` 設為 false，`dayLengthMinutes` 設為 60，`nightLengthMinutes` 設為 10\n\n## 功能特色\n\n- **太陽移動平滑** — 客戶端時間插值技術確保日月在天空中平穩滑動，不會出現卡頓或瞬移。\n- **日夜長度獨立設定** — 白天與夜晚的持續時間可分別設定為不同值。\n- **自動同步選項** — 預設情況下，夜晚長度會自動匹配白天長度，以維持平衡的週期。\n- **伺服器相容** — 適用於單人遊戲與專用伺服器。\n- **睡眠與時間指令支援** — 正確處理 `/time set` 指令與床鋪睡眠功能，避免時間不同步問題。\n\n## 相容性\n\n- Minecraft 1.12.2\n- Forge 14.23.5.x\n- 客戶端與伺服器端皆支援\n\n## 製作人員\n\n**作者**：Itamio",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

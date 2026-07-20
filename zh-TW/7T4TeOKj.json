@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8bbf2fd43b1d5508",
+  "content": "\n\n在創造模式下，只要不手持武器，即可一擊擊殺任何實體。\n\n\n![Logo](https://raw.githubusercontent.com/Fourmisain/CreativeOnePunch/1.17/BHuehD2.png)\n精美的標誌由 [@oliwoli](https://github.com/oliwoli) 設計，非常感謝！\n\n* 適用於 Fabric 支援的*任何*Minecraft 版本，從 1.14 起至少至 ~~1.18~~ ~~1.19~~ ~~1.20~~ ~~1.21~~ 26.1\n* 需要 Fabric Loader 0.12 以上版本\n* 僅限伺服器端運行\n\n自 1.8 版本起，新增了 `creativeonepunch.json` 設定檔，包含：  \n  `damage`：造成的傷害值，預設為 9999  \n  `forceKill`：繞過所有無敵狀態檢查，預設為 `false`  \n  `requireSneak`：是否僅在潛行時才能使用一擊擊殺，預設為 `false`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

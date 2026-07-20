@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f698bbc0e80d249b",
+  "content": "\n\n程式庫模組，用於打包 JetBrains 的 Compose Multiplatform 程式庫。此模組供 Polyfrost 的 [OneConfig](https://modrinth.com/mod/oneconfig) 使用，適用於現代版本的 Minecraft。\n\n暫時採用我們分叉的 [skiko](https://github.com/Polyfrost/skiko)，以便在 26.2 上支援 Vulkan。\n\n注意：此模組並**不**提供將 Compose 整合至 Minecraft 的功能。由於 Compose 的程式庫（包含 Skiko）體積過於龐大，因此必須作為獨立程式庫模組發布。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

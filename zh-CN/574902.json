@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dd618e798e71b9c9",
+  "content": "\n\n<h1>Screencopy</h1>\n<h4>需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cloth-config\" rel=\"nofollow\">Cloth Config</a> 和 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API（如果使用 Fabric）</a></h4>\n<p>这是一个客户端模组，可将截图直接复制到剪贴板。您只需像平时在 Minecraft 中按下 <code>F2</code> 截图一样操作即可。它支持使用 x64 或 arm64 架构的 macOS、Linux 和 Windows 系统。此外，如果您不希望将文件保存到截图文件夹，配置文件中也提供了相关选项！</p>\n<p>该模组应与其他所有模组（包括 OptiFine）兼容，但如果发现不兼容的情况，请在问题反馈区报告 ;) </p>\n<p><a href=\"https://discord.gg/7EnaAuaAwF\" rel=\"nofollow\">Discord 服务器</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

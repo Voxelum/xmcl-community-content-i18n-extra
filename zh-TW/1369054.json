@@ -1,0 +1,6 @@
+{
+  "bodyHash": "09949b283850b7ad",
+  "content": "\n\n<p>此模組新增了來自《黑暗靈魂3》與《艾爾登法環》的 50 多種物品與武器。所有物品皆具備不同的能力或技能，多數武器或物品只需按下 Shift + 左鍵或右鍵即可發動技能，部分技能則需搭配 Shift + 切換手持物品鍵，或是分別使用左鍵與右鍵。</p>\n<p>您可以使用能量合成方塊、升級台與鋼製熔爐來製作武器與物品，配方詳見 PDF 檔案。升級台允許您將任意附魔套用至任何物品上，此功能同樣適用於其他模組的物品。</p>\n<p>壓縮檔內包含一份名為 Welcome to Champion's Ashes.pdf 的維基檔案，詳細介紹了幾乎所有武器與技能。不過，本模組實際上是資料包（Datapack）與資源包（Resourcepack）的形式，因此指令 /loot give @s loot championsashes&nbsp; 可取代原本的給物指令；或者您也可以執行函數 championsashes:all_in_one 一次性取得所有物品。</p>\n<p>名為 Nep Elder 的頭目可在防火連結神殿結構的中心篝火處召喚，方法是投擲 64 個紫水晶碎片（主要生成於附有山脈的古代城市上空）。使用原版裝備挑戰該頭目難度頗高。或者，您也可以直接使用指令 /function championsashes:entities/drakeblood_knight/nep_elder/summon 來召喚它。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

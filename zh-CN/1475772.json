@@ -1,0 +1,6 @@
+{
+  "bodyHash": "887b545f2531fb27",
+  "content": "\n\n<p>本模组旨在使 <a href=\"https://www.curseforge.com/minecraft/mc-mods/kaleidoscope-cookery\" target=\"_blank\" rel=\"nofollow\">Kaleidoscope Cookery</a> 与 <a href=\"https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft\" target=\"_blank\" rel=\"nofollow\">TFC</a> 兼容。</p>\n<ul>\n<li>支持配方。（部分物品在 TFC 世界中不存在，因此需要整合包作者自行调整）</li>\n<li>Kaleidoscope Cookery 中的每种食物均包含 TFC 营养值。</li>\n<li>将食物方块改为 DecayingBlock。</li>\n<li>炉灶作为 TFC 热源运行，且必须使用 TFC 燃料。</li>\n<li>稻草人可以手持灯笼。</li>\n<li>磨盘支持臼（Quern）配方。</li>\n<li>沙威玛烤架支持食物加热配方，且需要处于点燃状态的热源。</li>\n<li>添加了茶树。</li>\n<li>添加了艾草。</li>\n<li>将食物方块存放于地窖可延长其保质期。</li>\n<li>汤锅可烹饪动态碗装食物，机制同 TFC 锅汤配方。（食物需带有物品标签 '#ktfcc:stockpot_ingredient'）</li>\n<li>锅可烹饪动态碗装食物，机制同 TFC 锅汤配方。（食物需带有物品标签 '#ktfcc:pot_ingredient'）</li>\n</ul>\n<p><a href=\"https://github.com/Vvxzv/Kaleidoscope-TFC-Cookery/issues\" target=\"_blank\" rel=\"nofollow\">遇到问题？</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

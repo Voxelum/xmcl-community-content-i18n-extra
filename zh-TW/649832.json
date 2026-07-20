@@ -1,6 +1,6 @@
 {
-  "bodyHash": "gB5+X/gyfyQ=",
-  "content": "<p>這個模組為你的世界添加了隱藏的無限礦脈。你可以使用機器來開採這些礦石。此模組需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" target=\"_blank\" rel=\"nofollow\">Create</a></p><p>特色：</p><ul><li>新增隱藏礦脈與流體儲藏層，每個區塊有機率隨機生成一種礦脈。每個區塊只會存在一種礦脈</li><li>礦脈是無限的</li><li>礦脈類型可透過資料包或 KubeJS 進行設定</li><li>使用鑽孔機與流體抽取機來開採礦石</li><li>機器需以旋轉動力驅動</li><li>使用「礦脈探測器」物品來尋找礦脈與流體儲藏層</li></ul>",
+  "bodyHash": "57969712e491dee7",
+  "content": "\n\n<p>此模組為您的世界添加了隱藏的無限礦脈。您可以使用機器來提取這些礦石。此模組需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" target=\"_blank\" rel=\"nofollow\">Create</a></p><p>功能：</p><ul><li>添加隱藏的礦脈與液體儲庫，它們會以隨機機率在區塊內生成。每個區塊僅能存在一條礦脈</li><li>礦脈是無限的</li><li>礦脈類型可透過數據包或 KubeJS 進行配置</li><li>使用鑽探機與液體抽取器來採集礦石</li><li>這些機器由旋轉動力驅動</li><li>使用「礦脈探測器」物品來尋找礦脈與液體儲庫</li></ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

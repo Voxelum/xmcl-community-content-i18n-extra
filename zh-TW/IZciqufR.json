@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2185bddc4a5b3b98",
+  "content": "\n\n本模組（好吧……或許以後會有的）針對 Mekanism 進行了多項微調，提升了該模組機器的使用上限。\n\n目前的微調清單：\n- 預設將速度與能量升級的上限從 8 提高至 32。當機器達到每刻執行一次運算後，便會開始同時執行多項運算。\n- 提供是否允許 Meka 裝甲/工具附魔的配置選項，預設為 false。此選項不會自動為物品加入可附魔標籤，需自行手動設定。\n\n\n所有變更皆可透過配置調整，修改後需重新啟動遊戲才能生效。\n\n\n感謝 [nin8995](https://modrinth.com/user/nin8995) 製作 [Mekanism Tweaks](https://modrinth.com/mod/mekanism-tweaks)，本模組最初提高的升級上限功能即參考自該模組，隨後已進行修改以適配 NeoForge 與較新版本的 Mekanism。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

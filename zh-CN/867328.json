@@ -1,6 +1,6 @@
 {
-  "bodyHash": "woYTR+Qabcs=",
-  "content": "<p>AE2 与 Create 的整合</p><p><strong>Create: Applied Kinetics 社区 Discord：</strong></p><p><a href=\"https://discord.gg/fGUhb7Mwv2\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/fGUhb7Mwv2</a></p><p><strong>关于：</strong></p><p>Create: Applied Kinetics 实现了 AE2 和 Create 的简单整合</p><p><strong>内容：</strong></p><p>- 提供了一种方式（添加了能量提供者）将动能传输到 AE 的能量接收器</p><p>- 将所有刻录机配方替换为 Create 的序列化组装配方</p><p>- ME 代理可以访问 AE2 网络的物品和流体，这可以帮助你将 Create 的物品和流体处理与 AE2 连接。例如将 schematicannon 与 AE2 连接，通过滑槽从网络输入/输出</p><p>- 未来可能实现 P2P 动能传输</p>",
+  "bodyHash": "048a97d950d1db0e",
+  "content": "<p>AE2 与 Create 的集成</p><p><strong>Create: Applied Kinetics 社区 Discord：</strong></p><p><a href=\"https://discord.gg/fGUhb7Mwv2\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/fGUhb7Mwv2</a></p><p><strong>简介：</strong></p><p>Create: Applied Kinetics 实现了与 AE2 和 Create 的简单集成。</p><p><strong>功能内容：</strong></p><p>- 提供了一种（新增能量提供者）将动能传输至 AE 能量接收器的方法</p><p>- 将所有压印机（Inscriber）配方替换为 Create 的顺序装配配方</p><p>- ME 代理（Proxy），可访问 AE2 网络中的物品和流体，这有助于你将 Create 的物品和流体处理与 AE2 连接。例如，将蓝图炮（Schematicannon）连接到 AE2，通过漏斗（Chute）从网络中读取或写入数据</p><p>- 未来可能支持点对点（P2P）动能与能量传输</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

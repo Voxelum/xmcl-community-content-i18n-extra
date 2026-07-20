@@ -1,0 +1,6 @@
+{
+  "bodyHash": "03148bfdb510f6e2",
+  "content": "\n\n**Horse Spawn** 是一款簡易模組，當玩家首次進入世界時，會在玩家附近生成一匹已裝備鞍的馬或驢（或任何其他夥伴生物）。該模組完全為伺服器端運作，因此其他玩家無須安裝即可體驗。您依然可以在單人遊戲中使用此模組。\n\n**設定檔 (horse-spawn.json)：**\n- 選擇夥伴生物（預設：馬）\n- 生成時已裝備鞍（預設：true）\n- 生成時附帶箱子（預設：true）\n- 僅生成一次（預設：true）\n- 覆蓋隨機屬性（預設：false）\n- 手動設定屬性 \n\n**相依性：**\n- [Fabric API](https://modrinth.com/mod/fabric-api) （必要）\n- [YACL](https://modrinth.com/mod/yacl)、[Mod Menu](https://modrinth.com/mod/modmenu) （選用：單人遊戲設定圖形介面）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

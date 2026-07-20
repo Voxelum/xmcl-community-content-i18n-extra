@@ -1,6 +1,6 @@
 {
-  "bodyHash": "DHaV9HfsqIk=",
-  "content": "![Some Assembly Required 模组標誌](https://raw.githubusercontent.com/ochotonida/some-assembly-required/1.18/src/main/resources/logo.png)\nSome Assembly Required 是一款 Farmer's Delight 與 Create 的擴充模組，讓玩家能夠自行製作客製化三明治。\n\n想開始製作？首先使用 Farmer's Delight 的砧板製作幾片麵包片，或者做一個漢堡麵包。接著放置一個「三明治組裝站」，將一片麵包或漢堡包放上去，然後開始加入配料。除了食物之外，藥水也可以添加進去。三明治完成後，你可以透過破壞方塊將其拾起。按住 Shift 並右鍵即可將三明治放置在世界中的任何位置。\n\n一個三明治能恢復與其配料總和相等的飢餓值與飽和度。不過，如果它至少包含兩種獨特的配料（不包括麵包與藥水），那麼若是三明治，它將額外提供「舒適」效果；若是漢堡，則提供「滋養」效果。此效果的持續時間會隨著獨特配料種類的增加而延長。\n\n如果你偏愛自動化作業，可以使用 Create 的機械手來自動生產三明治。此外，流體噴嘴還能為你的三明治添加藥水、蜂蜜或巧克力等流體。完整的相容流體清單可在 JEI 中查閱。\n\n![模組中一系列配方在 JEI 中顯示的樣子](https://cdn.modrinth.com/data/cached_images/435d9154f6e9a0cc466c103b96f60b11f729e03b.png)",
+  "bodyHash": "b077bb4fd009dd6f",
+  "content": "\n\n![Some Assembly Required logo](https://raw.githubusercontent.com/ochotonida/some-assembly-required/1.18/src/main/resources/logo.png)\nSome Assembly Required 是一款《農夫的滋味》與《Create》的模組擴充，讓玩家能夠自製客製化三明治。\n\n要開始製作，請使用《農夫的滋味》中的切菜板製作麵包片，或是烤製漢堡麵包。接著放置一個三明治製作台，將麵包片或漢堡麵包放在上方，然後開始加入配料。除了食物之外，也可以加入藥水。當你的三明治製作完成後，破壞它即可拾取。在遊戲世界中，按住 Shift 鍵並右鍵點擊即可將三明治放置在任何地方。\n\n三明治恢復的飽食度與潤澤度與其所有配料的總和相同。不過，如果它包含至少 2 種不同的配料（不含麵包與藥水），作為三明治時會額外提供「舒適」增益效果，作為漢堡時則提供「滋養」增益效果。此效果的持續時間會隨著不同配料的數量而增加。\n\n如果你更偏好自動化操作，可以使用《Create》的部署器來自動化生產三明治。此外，分流器也能夠將藥水、蜂蜜或巧克力等液體添加到你的三明治中。相容的液體完整清單可在 JEI 中查看。\n\n![A collection of recipes from the mod, as they appear in JEI](https://cdn.modrinth.com/data/cached_images/435d9154f6e9a0cc466c103b96f60b11f729e03b.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

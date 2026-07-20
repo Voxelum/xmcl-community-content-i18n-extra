@@ -1,14 +1,6 @@
 {
-  "bodyHash": "fdR2JHAliIo=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "aa0d5199-927a-9e8e-bd5f-0f7e7d29988a"
-  },
+  "bodyHash": "8099ab033fb8cbd8",
+  "content": "<p style=\"text-align:center\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/941523/description_f26f26a6-687c-46d7-bff2-0a8937b49181.png\" alt=\"icon\" width=\"64\" height=\"64\"></p>\n<h1 style=\"text-align:center\">Industrial Reborn</h1>\n<p>&nbsp;</p>\n<p>Industrial Reborn — это дополнение для <a href=\"https://www.curseforge.com/minecraft/mc-mods/techreborn\" rel=\"nofollow\">Tech Reborn</a>, вдохновлённое такими модами, как <a href=\"https://www.curseforge.com/minecraft/mc-mods/ender-io\" rel=\"nofollow\">Ender IO</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing\" rel=\"nofollow\">Industrial Foregoing</a>.</p>\n<p>&nbsp;</p>\n<p>Мод всё ещё находится в стадии активной разработки (WIP), поэтому не стесняйтесь сообщать о любых обнаруженных ошибках или проблемах.</p>\n<p>&nbsp;</p>\n<p>Текущий список контента:</p>\n<ul>\n<li><strong>Энергетический спавнер</strong> — использует энергию для призыва мобов вокруг себя на основе предоставленной <strong>Флаконы с душой</strong></li>\n<li><strong>Флакон с душой</strong> — используется для захвата душ мобов, которые затем можно использовать в <strong>Энергетическом спавнере</strong></li>\n<li><strong>Транспонёр жидкостей</strong> — смешивает жидкости с контейнерами</li>\n<li><strong>Извлекатель душ</strong> — извлекает <strong>Сущность души</strong> из ближайших мобов</li>\n<li><strong>Убойный комплекс для мобов</strong> — убивает ближайших мобов, предоставляя вам их лут и <strong>Жидкий опыт</strong></li>\n<li><strong>Кормушка для животных</strong> — кормит находящихся рядом животных предоставленным кормом для их разведения</li>\n<li><strong>Сепаратор детёнышей</strong> — перемещает детёнышей животных из одной области в другую</li>\n<li><strong>Жидкий опыт</strong> — добывается через <strong>Убойный комплекс для мобов</strong> и используется в <strong>Транспонёре жидкостей</strong> вместе со стеклянными бутылками для создания бутылок опыта</li>\n<li><strong>Сущность души</strong> — пока бесполезна</li>\n<li><strong>Улучшение дальности</strong> — увеличивает радиус действия перечисленных выше машин</li>\n<li><strong>Фильтр взрослых особей</strong> — применим только к <strong>Сепаратору детёнышей</strong> и заставляет его разделять взрослых особей вместо детёнышей</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

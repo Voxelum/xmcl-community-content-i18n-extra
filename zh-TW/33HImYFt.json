@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a216f2005eaaf3ab",
+  "content": "\n\n為 Open Parties And Claims 設計的擴充模組。它在使用者介面中新增了一個選單，方便您管理自己的隊伍。\n\n**此模組僅在客戶端運行！無需安裝於伺服器上。**\n您可以透過「Open Parties And Claims」模組的主選單開啟新選單，或使用指令 `/opacgui menu`\n\n![menu](https://cdn.modrinth.com/data/cached_images/fb3c25a8056374f5e77fb98b2fbe03b9c9c9dbff_0.webp)\n\n**已新增的介面功能：**\n- 伺服器上的線上玩家列表\n- 您的隊伍成員列表\n- 您的盟友列表（僅顯示隊伍名稱）\n- 可點擊列表中的名稱，將該玩家的暱稱填入暱稱輸入欄位\n- 快速將玩家加入或移出隊伍的按鈕\n- 快速將玩家設為盟友的按鈕\n- 立即建立指定名稱的隊伍\n- 重新命名隊伍與領地\n\n**未來更新計畫：**\n- 隊伍聊天功能\n- 便捷的顏色設定\n- 顯示盟友群組的玩家列表，而不僅是隊伍名稱\n- 一系列視覺優化\n- 一系列技術改進與效能最佳化",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

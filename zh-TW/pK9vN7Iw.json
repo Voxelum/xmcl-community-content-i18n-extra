@@ -1,0 +1,6 @@
+{
+  "bodyHash": "66dd3b1b3cca79e0",
+  "content": "\n\n# 彩色指針 (Fabric 與 NeoForge)\n\n![Screenshot](https://gitlab.com/pintergabor/colorpointers/-/raw/release/images/screenshot1.png \"Color Pointers screenshot\")\n\n**允許你在任何完整方塊上放置高對比度的箭頭指針，輔助你的採礦旅途。再也不怕迷路。**\n\n點擊方塊角落會放置指向該方向的箭頭，點擊方塊中心則會生成一個「X」標記。  \n放置的箭頭會散發微弱的光線，即使在黑暗中也能清晰可見。  \n\n\n## 授權條款\n\n採用標準 MIT 授權條款。歡迎自由參考，並將其整合至你自己的專案中。\n\n\n## 原始碼\n\n原始碼公開於 [GitLab](https://gitlab.com/pintergabor/colorpointers.git) 或 [GitHub](https://github.com/pinter-gabor-at/colorpointers.git)。\n\n\n## 給開發者\n\n每次我開始學習新平台的程式設計時，經常發現即使是範例也過於複雜。\n許多由具備多年該平台開發經驗的專家撰寫的教學文件，有時會忘記初學者邁出第一步的困難。  \n這正是我決定將我的第一個 Minecraft 模組公開的原因。\n\n\n## 運行環境需求 (Fabric)\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n\n\n## 推薦附加模組\n\n[Iron Signs](https://modrinth.com/mod/ironsigns) 是一款不錯的搭檔模組，可在箭頭旁放置同色系的告示牌。  \n\n\n## 其他替代模組\n\n[Arrow Pointers](https://modrinth.com/mod/arrow-pointers) 讓你可以使用原版箭頭來標記路徑。  \n[Chalk](https://modrinth.com/mod/chalk) 提供了另一種使用箭頭標記路徑的方式。  \n而 [Chalk: Colorful Addon](https://modrinth.com/mod/chalk-colorful-addon) 更增添了各種顏色的粉筆變體！\n\n\n## 相關連結\n\n我的其他模組可於 [Modrinth](https://modrinth.com/user/pinter.gabor) 與 [CurseForge](https://www.curseforge.com/members/pintergabor/projects) 查看。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

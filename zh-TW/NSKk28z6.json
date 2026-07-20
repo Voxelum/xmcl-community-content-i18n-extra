@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e9eda21ff8e0f468",
+  "content": "\n\n# （非官方）Apothic 與 Point Blank 相容模組\n\n一個適用於 NeoForge (Minecraft 1.21.1) 的相容橋接模組，將 [Point Blank](https://www.curseforge.com/minecraft/mc-mods/point-blank) 的槍械整合進 [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) 的戰利品與寶石系統中，讓火器也能像現有的近戰武器與弓弩一樣進行詞綴附加、寶石鑲嵌、重鑄與附魔。\n\n![gun reforging](https://i.imgur.com/iT2jDh2.png)\n\n## 功能特色\n- **槍械現已具備稀有度。** 可透過重鑄武器來添加詞綴與插槽。 \n- **將槍械劃分為多種武器類別。** 霰彈槍、狙擊槍、發射器與輕武器各自擁有獨立標籤，以便針對不同類別調整詞綴與寶石加成，而非對所有槍械套用相同數值。目前此功能需手動設定，但未來應會支援數據包。 \n- **為槍械加入 Apotheosis 寶石加成。** 現有的 Apotheosis 寶石（例如：Breach、Tyrannical、Inferno、Molten Breach）將獲得額外加成條目，專門針對不同類別的槍械生效。\n- **新增專屬於槍械的詞綴。** 包含僅限槍械使用的新前綴與後綴詞綴，其設計參考各武器類別，並大量沿用原版 Apotheosis 的詞綴機制，同時融入部分專為槍械設計的獨特詞綴。   \n\n![modified minigun](https://i.imgur.com/LorgAbN.png)\n\n### 未來規劃：\n- 彈匣／彈藥容量\n- 更多類似附魔的詞綴\n- 數據包／內容包的處理與支援\n- 設定檔選項？",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

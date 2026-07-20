@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5751eacb788fff48",
+  "content": "\n\n### TFC：隨身攜帶儲存\n這是一個簡單的模組，目前為 Terrafirmacraft 新增了兩種「隨身攜帶」的儲存選項：揹包（Knapsack）與背包（Backpack）。\n此模組原本是我和幾個朋友在 Terrafirmacraft 伺服器上進行的小計畫，但我決定改進貼圖並加入背包功能，隨後將其作為獨立模組發布。\n\n### 第二版更新內容：\n- 物品具備正確的重量數值\n- 可將揹包與背包放置於工具架上\n- 全新的揹包與背包介面\n\n### 待辦事項：\n- 新增 Curios 模組支援\n- 揹包無法置入背包中，反之亦然\n- 更新模組頁面資訊",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

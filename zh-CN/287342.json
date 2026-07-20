@@ -1,6 +1,6 @@
 {
-  "bodyHash": "STn1yAM64KA=",
-  "content": "<p><img src=\"https://i.imgur.com/MHi8TQd.png\" alt=\"\"></p><p>&nbsp;&nbsp;</p><p>Titanium 是一个库模组，它添加了所有 Horizon 系列模组共用的共享通用代码。如果没有其他模组激活或使用它，这个模组本身不提供任何实际功能。</p>",
+  "bodyHash": "a66dfd90da2b81d3",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/MHi8TQd.png\" alt=\"\"></p>\n<p>&nbsp;&nbsp;</p>\n<p>Titanium 是一个库模组，它为所有 Horizon 模组提供了共享的通用代码。若没有其他模组激活或调用它，本模组将毫无用处。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

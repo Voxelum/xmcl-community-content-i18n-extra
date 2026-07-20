@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f53679bbf10ddefd",
+  "content": "\n\n<p>MultiCore Helper 是一款适用于 Minecraft 1.16.5 及更高版本的 Forge CPU 辅助模组，专为大型整合包与高负载单人世界设计。</p>\n<p>功能：<br>- 创建真正的工作线程池用于后台处理<br>- 在支持的情况下优化 JVM ForkJoinPool 与 Netty 线程<br>- 为拥挤的世界添加实体压力诊断<br>- 提供手动清理掉落物与经验球的工具<br>- 新增小型“CPU Core”物品，用作进度图标<br>- 包含一个有趣的加入世界进度彩蛋：&ldquo;Fine, I'll do it myself.&rdquo;</p>\n<p>指令：<br>- /multicorecpu status<br>- /multicorecpu entities<br>- /multicorecpu cleanup</p>\n<p>重要提示：<br>本模组并未完全将 Minecraft 主世界 Tick 多核并行化。Minecraft 1.16.5 及更高版本的世界逻辑主要仍受限于主线程。相反，本模组安全地使用工作线程进行后台快照处理，并提供工具以降低 CPU 和实体压力。</p>\n<p>具体效果可能因您的 CPU、整合包、光影设置和世界负载而异。它有助于改善内置服务器 Tick 时间、世界初始化速度以及实体密集场景的性能。</p>\n<p>Minecraft：1.16.5<br>Forge：推荐 36.2.33<br><br></p>\n<p>MultiCore Helper 是一款适用于 Minecraft 1.16.5 及更高版本的 Forge CPU 性能辅助模组，主要为大型整合包与高负载单人世界设计。</p>\n<p>功能：<br>- 创建真正的工作线程池用于后台处理<br>- 在支持的情况下调整 JVM ForkJoinPool 与 Netty 线程<br>- 提供实体压力诊断<br>- 支持手动清理掉落物与经验球<br>- 新增 CPU Core 物品作为进度图标<br>- 新增加入世界时的彩蛋进度：&ldquo;Fine, I'll do it myself.&rdquo;</p>\n<p>注意：<br>此模组不会将 Minecraft 主世界 tick 完全多核化。Minecraft 1.16.5&nbsp;及更高版本的世界逻辑大多仍受主线程限制。本模组通过安全的后台线程处理与实体压力工具，协助降低 CPU 与实体负载。</p>\n<p>实际效果会因 CPU、整合包、光影设定与世界负载而异。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6d9356b0a53e806a",
+  "content": "\n\n<p><img src=\"https://cdn.modrinth.com/data/T9PomCSv/images/dedd2a59cbec4ea82e715787ac6ab4f62de8fe60.gif\" alt=\"疊疊樂塔倒塌\"></p>\n<h1>Sable</h1>\n<p>Sable 是一款庫模組，為 Minecraft 新增了<strong>子層級</strong>。子層級是由區塊、區塊實體與實體構成的可移動區域，在組裝完成後仍可持續互動。</p>\n<p>Sable 內含一套物理管線（基於使用 Rust 編寫的<strong>Rapier 物理引擎</strong>），允許子層級<strong>進行物理移動</strong>並<strong>對世界環境的變化作出反應</strong>。</p>\n<p>Sable <strong>不會</strong>為生存模式添加任何遊戲內容，也無法在生存模式中建造子層級。</p>\n<p>使用 <code>/sable</code> 指令即可組裝、修改與查詢子層級。</p>\n<h1>⚠️ 相容性警告</h1>\n<p>Sable 是一款侵入性極強的模組。它大量使用了 Mixin 技術，因此極易與其他模組產生相容性問題。</p>\n<h1>致謝</h1>\n<ul>\n<li>Dimforge 的維護者與貢獻者，感謝他們在 Rapier 物理引擎上的傑出貢獻，該引擎已納入預設物理管線中</li>\n<li>Eriksonn，提供子層級區域分割演算法、浮空區塊機制，以及卓越的數學運算支援</li>\n<li>Ocelot，提供精美的子層級渲染器，以及大量的效能最佳化與 API 開發協助</li>\n<li>Cyvack，提供多項 Create 模組的相容性修復與新功能、組裝協助，以及通用開發支援</li>\n<li>NotSoEpic，提供升降機數學運算、相容性修復、錯誤修正，以及大量通用開發支援</li>\n<li>KyanBirb，提供遊戲資源素材、相容性修復、錯誤修正，以及大量通用開發支援</li>\n<li>Cake，提供錯誤修正與通用開發協助</li>\n<li>Rhyguy1，提供精神鼓舞與士氣支持</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

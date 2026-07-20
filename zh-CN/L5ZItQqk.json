@@ -1,0 +1,6 @@
+{
+  "bodyHash": "49b128618fb2e83c",
+  "content": "\n\n## Shadered 维度\n\nShadered 维度是 Shadered 的非官方附属模组。\n\n本模组添加了更多 Shadered 风格的天空盒方块，并为这些方块创建了可进入的独立维度。进入维度后，玩家将被放置在一个由对应天空盒方块构成的中空房间内。\n\n本模组还为这些维度添加了环境背景音乐。\n\n### 命令\n\n- `/shaderdim list`\n- `/shaderdim enter <维度ID>`\n\n要离开维度，请站在房间内的信标上并按住 Shift 键。\n\n### 前置依赖\n\n- Shadered\n- Geckolib\n\n本项目未包含或重新分发 Shadered 或 Geckolib。第三方天空盒资源的署名与许可证信息已包含在随 JAR 包附带的 NOTICE 文件中。\n\n---\n\n## 中文说明\n\n光影维度是一个基于 Shadered 的非官方附属模组。\n\n本模组添加了更多的光影方块，并为所有的光影方块添加了可进入的独立光影维度。玩家进入后，会被传送到由对应光影方块组成的中空天空盒房间中。\n\n本模组还为光影维度添加了背景音乐。\n\n常用命令：\n\n- `/shaderdim list`\n- `/shaderdim enter <维度ID>`\n\n离开光影维度：站到维度内的信标上并按住 Shift。\n\n需要前置：\n\n- Shadered\n- Geckolib",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

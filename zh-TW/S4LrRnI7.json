@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d71e9ea9f64be90d",
+  "content": "\n\nDiggus Maximus 是一款針對 Fabric 打造的模組，提供快速簡便的「礦脈開採」功能。\n\n請務必查看本模組啟發來源的其他模組：[EasyExcavate](https://www.curseforge.com/minecraft/mc-mods/easyexcavate)、[Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) 與 [VeinMiner](https://www.curseforge.com/minecraft/mc-mods/veinminer)。\n\n本模組旨在大幅簡化同類方塊礦脈的開採過程。只需在開採方塊時按住「開採」鍵（預設綁定為 `~`，可自訂），所有相連的方塊也會一併被開採，省去逐一開採的時間。\n\n![](https://media.giphy.com/media/fAD8Jrt4HVqn8BEHF2/giphy.gif \"\")\n![](https://media.giphy.com/media/WTRhcX7JxVw2mpIiUW/giphy.gif \"\")\n\nDiggus Maximus 具備高度可設定性，包含以下功能：\n\n*   自動拾取開採出的方塊\n*   單次最大開採方塊數量\n*   從起始方塊擴散的最大距離\n*   徒手開採功能\n*   工具耐久度\n*   玩家疲勞值\n*   黑名單／白名單\n*   工具損壞前自動停止\n*   支援開採方塊標籤（BlockTags）\n\nDiggus Maximus 必須同時安裝於客戶端與伺服器上。當連線至伺服器遊玩時，伺服器設定將覆蓋客戶端設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

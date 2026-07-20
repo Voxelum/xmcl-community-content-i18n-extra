@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e589e4e197cf5720",
+  "content": "\n\n# 適用於 Servux 的 Polymer 補丁\n\n這是一個針對 [Servux](https://modrinth.com/mod/servux) 的補丁，主要作為伺服器端運作，修復了使用 [Polymer](https://modrinth.com/mod/polymer) 的模組物品資訊未經轉換便直接傳送至用戶端的問題。  \n\n自模組版本 1.2+1.21.10 起，亦支援 [Filament](https://modrinth.com/mod/filament) 模組，但本補丁並不依賴該模組。\n\n需安裝 Servux 與 Polymer 才能使用，但不會隨本補丁一併提供。  \n\n本補丁僅於 1.21.10 與 1.21.11 版本中經過測試。  \n\n欲了解更多關於 [Polymer](https://modrinth.com/mod/polymer) 與 [Servux](https://modrinth.com/mod/servux) 的資訊，請前往它們的 Modrinth 頁面！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

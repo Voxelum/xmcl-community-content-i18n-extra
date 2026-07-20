@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77095f2a36b514d5",
+  "content": "\n\n<p><span style=\"font-family:terminal, monaco, monospace\">提供多種方法來提升 Vazkii 的 Quark 模組初始化速度（透過設定其網路行為），包括：</span></p>\n<ol>\n<li><span style=\"font-family:terminal, monaco, monospace\">調整最大連線/讀取逾時時間；</span></li>\n<li><span style=\"font-family:terminal, monaco, monospace\">使用代理伺服器；</span></li>\n<li><span style=\"font-family:terminal, monaco, monospace\">直接停用 Quark 的網路存取功能（預設）。</span></li>\n</ol>\n<p><span style=\"font-family:terminal, monaco, monospace\">&nbsp;</span></p>\n<p><strong><span style=\"font-family:terminal, monaco, monospace\">注意</span></strong></p>\n<ol>\n<li><span style=\"font-family:terminal, monaco, monospace\">您<span style=\"color:#9c0\"><strong>絕對可以</strong></span>將此模組加入您的整合包中；</span></li>\n<li><span style=\"font-family:terminal, monaco, monospace\">請注意，Quark 的貢獻者獎勵對於該模組及其社群至關重要，且依賴於網路存取。若有可能，請不要直接停用其網路存取功能。</span></li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

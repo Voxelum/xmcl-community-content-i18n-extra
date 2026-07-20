@@ -1,6 +1,6 @@
 {
-  "bodyHash": "T4M1XKi59W4=",
-  "content": "<p>這個函式庫讓註冊 Macaw's Bridges/Fences/Roofs 等 API 的方塊變得更加容易。<br>這有什麼用處？<br>透過這個函式庫，所有相容性模組都使用相同的程式碼，減少了模組的數量。<br>同時也對原始模組的更新有所幫助，讓所有像是 NoclassFound 的崩潰問題都能被修正。</p><p>&nbsp;</p><p>這個模組可以直接單獨安裝，不過這樣做沒有太大用處。</p>",
+  "bodyHash": "a3e32f634fdd86b7",
+  "content": "<p>此函式庫讓註冊諸如 Macaw 的橋樑/柵欄/屋頂等 API 的區塊變得更加容易。<br>這有何用處？<br>透過它，所有相容性模组都使用相同的程式碼，從而減少模组的數量。<br>它對於原版模组的更新也很有幫助，可以修正所有類似找不到類別（NoClassFound）的當機問題。</p>\n<p>&nbsp;</p>\n<p>此模组可以簡單地安裝而不需要任何其他模组，但這並不太實用。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

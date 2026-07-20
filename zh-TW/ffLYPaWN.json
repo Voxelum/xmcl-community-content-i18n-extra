@@ -1,6 +1,6 @@
 {
-  "bodyHash": "I6Ysg4h1dsM=",
-  "content": "# Just Enough Immersive Multiblocks\n\n簡單的 Immersive Engineering 附加模組，為多方塊結構添加 JEI 支援。\n\n多方塊結構會顯示在 JEI 搜尋中\n\n![JEI 搜尋](readme-images/jei-search.png)\n\n多方塊結構配方會顯示基本結構與材料\n\n![電弧爐](readme-images/arc-furnace.png)\n\n同時也原生支援 [EMI](https://www.curseforge.com/minecraft/mc-mods/emi)（Minecraft 1.20.1+），無需額外相容載入器。\n\n## 特定版本說明\n\n### 1.20.1\n\n- 特別感謝 [FLORIAN4600](https://github.com/FLORIAN4600) 克服了棘手的生命週期問題，讓這個模組能夠延續到 Minecraft 1.20+\n- 感謝 [Pengy](https://github.com/PengyTheGamer) 提供 EMI 支援\n\n### 1.16\n\n- 此模組在 1.16 版本有已知問題，建議僅在單人遊戲中使用\n\n### 1.16 之前的版本\n\n- 不會回退移植到舊版本。除非您個人願意自行移植並維護，否則請勿要求。\n- 獨立回退移植至 1.12.2 的版本為 [Rather Enough Immersive Multiblocks](https://legacy.curseforge.com/minecraft/mc-mods/rather-enough-immersive-multiblocks)",
+  "bodyHash": "6d996685e90eb276",
+  "content": "\n\n# 足夠的沉浸式多結構\n\n一款簡易的 Immersive Engineering 附加模組，為多聯動結構加入 JEI 搜尋支援。\n\n多聯動結構將顯示於 JEI 搜尋結果中\n\n![JEI 搜尋](readme-images/jei-search.png)\n\n多聯動結構的合成配方會顯示基礎結構與所需材料\n\n![弧光熔爐](readme-images/arc-furnace.png)\n\n同時將 [EMI](https://www.curseforge.com/minecraft/mc-mods/emi) 視為一等公民進行支援（Minecraft 1.20.1+ 起），無需額外相容性載入器。\n\n## 特定版本備註\n\n### 1.20.1\n\n- 特別感謝 [FLORIAN4600](https://github.com/FLORIAN4600) 解決了若干棘手的生活週期問題，使本模組得以延續至 Minecraft 1.20+\n- 感謝 [Pengy](https://github.com/PengyTheGamer) 貢獻 EMI 相容功能\n\n### 1.16\n\n- 本模組於 1.16 版本存在已知問題，請僅於單人遊戲環境中使用\n\n### 早於 1.16 的版本\n\n- 不會針對舊版本進行移植。除非您願意親自負責移植與後續維護，否則請勿提出此類請求。\n- 目前已存在獨立移植至 1.12.2 的版本，名稱為 [Rather Enough Immersive Multiblocks](https://legacy.curseforge.com/minecraft/mc-mods/rather-enough-immersive-multiblocks)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

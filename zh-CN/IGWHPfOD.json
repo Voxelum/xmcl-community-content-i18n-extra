@@ -1,0 +1,6 @@
+{
+  "bodyHash": "526fcaba00ce498b",
+  "content": "# 忧郁\n\n![黑暗雾蒙蒙的森林](https://cdn.modrinth.com/data/cached_images/1f4ceb4028b46c0464070fa8c8a7b8500474832d_0.webp)\n\nSomber 是一款轻量级着色器，旨在重现早期 Beta/Alpha 版本《我的世界》中令人怀旧的氛围，并添加了诡异的视觉效果。\n\n**建议使用内置的 *程序员艺术* 纹理包以还原旧版纹理。**\n\n![黑暗雾蒙蒙的森林中仅有一支火把照明](https://cdn.modrinth.com/data/cached_images/9d1937fe874f0c5f46d61710ae7541dcf405ad77_0.webp)\n\n## 效果\n\n大多数效果可以在着色器的设置菜单中进行切换和自定义，包括：\n- 暗角\n- 暗角强度\n- 色差\n- 色差强度\n- 噪点\n- 噪点强度\n- 雾气\n- 雾气强度\n- 天空雾气叠加层\n- 水体透明度\n- 水体鲜艳度强度\n- 旧植被鲜艳度\n- 植被鲜艳度强度\n- 星星亮度\n- 太阳和月亮亮度\n\n该着色器还像旧版本一样强调阴影，添加了随深度变暗的动态雾气，并移除了顶层水体的透明度，使您无法看到水下景象。\n\n![浓雾中的森林](https://cdn.modrinth.com/data/cached_images/f12a0a1206228876b6d9d916f1f018a2fe238b9b_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

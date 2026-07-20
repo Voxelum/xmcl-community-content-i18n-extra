@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7a9cc6359b95ceae",
+  "content": "<p>這是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/lightspeedmod\" target=\"_blank\" rel=\"nofollow\">Lightspeed</a> 模組的高版本（1.20.1+）移植版。<br>\n它移除了原版 Minecraft 1.20.1 中已經實作的模型烘焙最佳化，僅保留資源快取功能，以加快啟動速度。<br>\n（目前僅計畫移植 Forge 1.20.1 和 NeoForge 1.21.1 版本。）</p>\n<p>自版本 1.2.0+ 起，此模組引入了高併發載入機制以提升啟動速度。如果您在使用過程中遇到任何問題，請嘗試在設定檔中停用相關選項。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

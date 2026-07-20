@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c16a77e36f01ca2b",
+  "content": "\n\n<h1>什麼是 Sodium Extra Information？</h1>\n<p>Sodium Extra Information 是一款用於 Minecraft 的模組，為 Sodium Extra 模組增添了額外資訊。本模組同樣為客戶端模組，意味著只需安裝在客戶端即可。</p>\n<h2>功能特色</h2>\n<ul>\n<li><p><strong>更改文字顏色</strong></p></li>\n<li><p>顯示本地時間</p></li>\n<li><p>顯示世界時間（天數）</p></li>\n<li><p>顯示會話時間</p></li>\n<li><p>顯示記憶體使用量</p></li>\n<li><p>顯示詳細記憶體使用量</p></li>\n<li><p>顯示實體數量</p></li>\n<li><p>顯示渲染實體數量</p></li>\n<li><p>顯示生物羣系</p></li>\n</ul>\n<p><img src=\"https://cdn.modrinth.com/data/696WgnvT/images/ac1bc3b8e7d13887b787c9bd1a23438d6bb3c25d.png\" alt=\"功能範例\"></p>\n<h2>如何啟用這些功能？</h2>\n<ol>\n<li>前往選項</li>\n<li>進入影片設定</li>\n<li>進入 Sodium Extra 的額外選單</li>\n<li>向下捲動至下方選項</li>\n<li>勾選並啟用您想要使用的功能</li>\n</ol>\n<h3>問題或建議</h3>\n<p>若您有任何問題或建議，請前往 <a href=\"https://github.com/anviaan/SodiumExtraInformation/issues\" target=\"_blank\" rel=\"nofollow\">GitHub 儲存庫</a> 建立問題回報。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

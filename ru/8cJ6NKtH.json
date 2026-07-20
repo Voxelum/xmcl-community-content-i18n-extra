@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80d9786eceb4bdff",
+  "content": "\n\n# HTTP-запросы\n\nЭто позволяет выполнять **HTTP-запросы** с помощью **простой команды** или в командных блоках.\n\nОтвет будет автоматически отображаться в чате.\n\n**GET-запрос**\n```\n/http get 'https://you-url.com/'\n```\n\n**POST-запрос**\n```\n/http post 'https://your-url.com/' '{\"hello\":\"world\"}'\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

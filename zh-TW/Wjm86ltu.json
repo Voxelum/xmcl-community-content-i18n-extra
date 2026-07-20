@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80ea8053949698b5",
+  "content": "\n\n## 為何要建立分支的分支？\n因為 FX 和 EasterGhost 都已不再維護各自的儲存庫，而且 EasterGhost 新增的配置在遊戲中實際上無法運作，但這個分支修復了該問題。 \n\n## 描述\n這是一個簡單的模組，能讓動力鐵軌／活化鐵軌的開關速度提升最高達 4 倍。最佳的使用體驗是：在運作時你幾乎感覺不到任何變化，只有更流暢、快速的鐵軌更新。本模組源自 EasterGhost 的 RailOptimization 模組，而該模組本身又是基於 FXMorin 的模組所建立的分支。感謝這兩位作者將此模組帶給大家。 \n\n## 下載前請注意\n請允許我對 FX Morin 表達最誠摯的感謝！絕大部分的程式碼皆由 FX Morin 撰寫，我只做了些微調整以確保其正常運作。\n\n## 更新內容\n- 針對 1.21.x (Fabric) 與 26.1x (Multiloader) 更新的 FX RailOptimization 版本。\n- 修復載入模組時的嚴重崩潰問題。\n- 移除 Architectury API 後，使程式碼更加輕量。\n## 已知問題\n- 與任何版本的 Carpet TIS Addition (CTA) 不相容。\n### 原因\n用於優化鐵軌效能的方法與 CTA 的更新機制發生衝突。CTA 使用了多種方法來編輯或避免更新（包括鐵軌更新，例如 railDupingFix）。當注入 Mixin 時，方法衝突會導致一些不可預期的錯誤，且該問題確實已發生。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

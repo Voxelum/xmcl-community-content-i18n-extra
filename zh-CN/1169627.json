@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1effd5bcda53c9b0",
+  "content": "\n\n<h3>自定义你的光标。</h3>\n<p>允许你在游戏中自定义光标，设置其大小和显示样式。</p>\n<p><span style=\"color:#e03e2d\">如果模组报错，请勿向原模组提交任何错误报告！！！</span></p>\n<p><span style=\"color:#fbeeb8\">使用 Fabric 版本时，如果你想修改服务器上的光标样式或大小，请先退出服务器，进入单人游戏，输入</span></p>\n<pre><code>/customcursor</code></pre>\n<p><span style=\"color:#fbeeb8\">命令以打开模组的图形界面，然后进行配置。</span></p>\n<p>本模组是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/cursor-mod\" target=\"_blank\" rel=\"nofollow\">Cursor Mod (Fabric/Forge)</a> 的移植版本。</p>\n<p>保留了原模组的功能，并新增了一项功能：调整每个光标显示的大小。</p>\n<p><span style=\"color:#e67e23\">目前支持的 Forge/NeoForge 和 Fabric 版本为 1.20 及以上。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

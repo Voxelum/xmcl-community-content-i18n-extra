@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c45feeed268fab1a",
+  "content": "\n\n<p>一款为 1.21.1 版本打造的简单模组，在 Create 和 TacZ 之间架起桥梁。</p>\n<p>这是我的首个模组，欢迎随时在 GitHub 页面留下建议（计划未来上线）。</p>\n<p>本模组专注于通过 Create 实现弹药自动化生产。</p>\n<p>本模组根据现实世界的标准，为每种弹药提供了不同的合成配方。民用弹药的制作比军用弹药更简单。</p>\n<p>在组装的最后阶段放入不同的弹头，将产出不同类型的弹药。</p>\n<p>示例：<br>黄铜粒 -&gt; 锯 = 空黄铜弹壳（未完成）</p>\n<p>空黄铜弹壳（未完成） -&gt; 压印机 = 空黄铜弹壳</p>\n<p>空黄铜弹壳 + 燧石 = 12g</p>\n<p>空黄铜弹壳 + 一小撮火药 = 底火黄铜弹壳</p>\n<p>底火黄铜弹壳 + 锌粒 = 5.56x45</p>\n<p>底火黄铜弹壳 + 铁粒 = 5.45x39</p>\n<p>未来计划：</p>\n<p>1- 目前尚未涵盖所有弹药（已支持 13 种），但后续会逐步添加。</p>\n<p>2- 计划将各组件（主要是弹壳）的独立合成改为流水线式组装（类似精密机械结构）——欢迎在评论区提供反馈。</p>\n<p>3- 在箱子战利品表中加入空弹壳。</p>\n<p>依赖项：</p>\n<p>[<a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" rel=\"nofollow\">Create</a>]</p>\n<p>[<a href=\"https://www.curseforge.com/minecraft/mc-mods/create-big-cannons\" rel=\"nofollow\">Create: Big Cannons</a>]</p>\n<p>[<a href=\"https://www.curseforge.com/minecraft/mc-mods/tacz-1-21-1\" rel=\"nofollow\">[非官方] TacZ 1.21.1 NeoForge 移植版</a>]</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8750aa2f25cf34e6",
+  "content": "\n\n![Nova](https://cdn.modrinth.com/data/cached_images/412912587ec4de184290625d5e966d820e404302.png)\n# 這個資源包將我們熟悉的天空替換為帶有角色和栗薰子的紫色天空。\n\n- 無論白天或夜晚，天空都清晰可見（白天不會出現顯示問題）\n- 版本：1.16.5-26.1.2 \n- 為了讓資源包正常運作，您需要安裝 OptiFine。（Forge 版）\n\n## 若要在 Fabric 上正確使用天空覆蓋效果，您需安裝以下模組：\n1. [Nuit](https://modrinth.com/project/YBz7DOs8)\n2. [Skyboxify](https://modrinth.com/project/DWuwk8aA)\n\n## 如果遇到問題：\n- 請確認您的圖形設定中是否已啟用「自訂天空」。\n- 請檢查其他附帶的資源包，它們可能會造成衝突。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

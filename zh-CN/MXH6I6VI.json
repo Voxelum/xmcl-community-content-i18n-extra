@@ -1,0 +1,6 @@
+{
+  "bodyHash": "594272bbcaa1615c",
+  "content": "# 混凝土砖块！\n\n本模组为你的服务器添加了所有 16 种混凝土颜色的新混凝土砖块（同样适用于单人游戏）。\n\n它使用资源包，并通过 Polymer 的自动主机功能分发给客户端。\n\n无需额外设置！你可能需要在 Polymer 配置中启用自动主机功能！\n\n---\n依赖项：\n- [polymer](https://modrinth.com/mod/polymer)\n- [filament](https://modrinth.com/mod/filament)\n\n以及 Fabric API（两个依赖项均使用）\n\n---\n\n# 合成配方\n\n- 任意颜色的 2x2 混凝土方块，可合成对应颜色的混凝土砖块\n\n# 命令\n\n这些方块位于 \"tsa\" 命名空间下，因此要给予雕刻或竖纹木板，请执行：\n\n```\n/give @... tsa:lime_concrete_bricks\n\n```\n\n```\n/give @... tsa:black_concrete_bricks \n```\n\n你也可以执行 `/polymer creative` 打开 Polymer 的创作菜单，并通过 Filament 方块图标访问这些方块。\n\n## 注意事项：\n本模组使用音符盒在服务器上显示自定义方块，而无需客户端安装任何模组。这意味着使用音符盒的资源包可能无法为玩家正常工作。\n\n---\n\n- [Modrinth](https://modrinth.com/mod/tsa-concrete)\n- [GitHub](https://github.com/tomalbrc/tsa-concrete)\n- [Discord](https://discord.gg/9X6w2kfy89)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

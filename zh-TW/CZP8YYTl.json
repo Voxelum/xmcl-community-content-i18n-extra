@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e9bf7e223859f3a4",
+  "content": "\n\n# Realistic Item Drops v3\nRealistic Item Drops 是一個數據包，讓掉落的物品看起來和運作方式更加擬真。該數據包利用盔甲架的機制來讓掉落的物品呈現擬真效果。雖然它靈感來自同名模組，但此數據包在伺服器端運行，且無需任何資源包！\n\n將此數據包安裝到你的世界中，然後執行 `/reload` 即可啟動。若要解除安裝，請務必在移除功能前執行 `/function items:clear_all_items`！\n\n此數據包的 v3 版本已進行精簡優化，不僅運算速度更快、使用更輕鬆，還加入了其他實用的改進！\n\n此數據包僅適用於 1.20.2 及更高版本。舊版可於此處找到。\n\n----\n學習製作專屬數據包——歡迎加入 Datapack Hub Discord 伺服器，今天就開始製作你的第一個數據包吧！\n\n加入連結：https://discord.datapackhub.net",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1e72f45b1d990130",
+  "content": "\n\n![Skeletons Revamped logo](https://cdn.modrinth.com/data/cached_images/07e8fa43cce25862d25c97d4431c4c4a5cc419f0.png)\n\n# \n\n本模组包让 AL 的骷髅重生版（AL's Skeletons Revamped）与 Fresh_LX 制作的 Fresh Animations 兼容！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/S3x1dbaA8JA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n由于 AL 的骷髅重生版使用了自定义的骷髅模型，单独运行时无法与 Fresh Animations 兼容。\n\n本增强包通过引入使用对应动画的新模型解决了该问题！\n\n \n\n此外，此 Fresh Animations 专属版本还包含一些额外的动画特性，例如骷髅死亡时会碎裂！\n\n \n\n重要提示：\n\n为使本模组包正常运行，你需要在加载列表中将其排在 Fresh Animations (FA) 之前。\n\n加载顺序如下：\n\n- 本模组包\n\n- Fresh Animations",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

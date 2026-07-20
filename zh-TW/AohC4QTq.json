@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8547e3a477a6c6f0",
+  "content": "\n\n本模組新增「Mace Smash」附魔，使所有武器（劍、斧頭等）都能觸發「巨槌」效果。\n提供 Mace Smash I-IV 共四個等級，各等級造成的傷害為「等級÷4 × 100%」的完整基礎傷害。\n隨著您加入更多模組，它還能持續「成長」！\n傷害曲線提供兩種設定：一是採用 Minecraft 原版巨槌與密度的傷害曲線；二是將巨槌傷害縮放為您當前傷害的 0.1 倍，密度傷害縮放為當前傷害的 0.05 倍（取代原版的 0.5）。\n如此一來，即使其他模組賦予您強力武器，也不會因為傷害數值過低而影響體驗 :)\n\n另外補充，Mace Smash I 附魔書的掉落物與 HeavyCore 相同，而 Mace Smash II 可使用 2 個 HeavyCore、2 根旋風棒與 1 本書進行合成。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

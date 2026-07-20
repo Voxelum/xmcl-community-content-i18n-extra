@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15e7c170efb8a442",
+  "content": "\n\n<h1>LootRush —— 一款快节奏的 Minecraft 物品搜寻小游戏</h1>\n<p>与时间赛跑，成为首位获得指定物品的玩家。</p>\n<hr>\n<h2>玩法</h2>\n<p>旋转的轮盘会随机选中一个可获取的物品。</p>\n<p>轮盘停止后倒计时开始，玩家必须在时间耗尽前找到目标物品。</p>\n<hr>\n<h2>操作</h2>\n<p>º → 使用默认设置开始游戏</p>\n<p>N → 打开配置菜单</p>\n<hr>\n<h2>⚙️ 指令</h2>\n<p>/lootrush start</p>\n<p>/lootrush start <a href=\"https://github.com/a\" target=\"_blank\" rel=\"nofollow\">@a</a> 10s</p>\n<p>/lootrush start <a href=\"https://github.com/a\" target=\"_blank\" rel=\"nofollow\">@a</a> 1m</p>\n<p>/lootrush stop</p>\n<p>/lootrush config show</p>\n<p>/lootrush config time &lt;10s|1m|300&gt;</p>\n<p>/lootrush config nether &lt;true|false&gt;</p>\n<p>/lootrush config end &lt;true|false&gt;</p>\n<hr>\n<h2>权限</h2>\n<p>服务器指令需要 OP（管理员）权限。</p>\n<p>单人游戏无需额外权限即可正常运行。</p>\n<hr>\n<hr>\n<h2>🔌 插件支持</h2>\n<p>LootRush 包含 Paper/Spigot 插件版本，允许服务器控制小游戏，而安装了模组的玩家则能接收到轮盘、HUD、计时器及动画效果。</p>\n<hr>\n<h2>💻 鸣谢</h2>\n<p>创建与维护：<a href=\"https://github.com/SunnyAim\" target=\"_blank\" rel=\"nofollow\">@SunnyAim</a>_</p>\n<p>© 保留所有权利。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

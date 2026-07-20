@@ -1,0 +1,6 @@
+{
+  "bodyHash": "25147e3879ea0842",
+  "content": "\n\n# Tesseract API\n\nTesseract — это ещё одна библиотека для разработчиков модов, призванная упростить процесс разработки.\n\n## Основные возможности\n\n- Фреймворк хуков и API для создания дополнений к [Modern Industrialization](https://modrinth.com/mod/modern-industrialization)\n- Инструменты для регистрации блоков, предметов и жидкостей\n- Ряд дополнительных событий\n\n## Документация\n\nПодробную информацию о том, как использовать Tesseract, см. в документации [здесь](https://github.com/Swedz/Tesseract/tree/master/docs). Если у вас возникнут вопросы по Tesseract, не стесняйтесь задавать их в канале `#coding-stuff` на [моем Discord](https://discord.gg/vNaqDzSNaB).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

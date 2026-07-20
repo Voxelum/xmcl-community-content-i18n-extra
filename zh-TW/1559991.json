@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4a3a5e4baf3ac70b",
+  "content": "\n\n<h2><strong>Litemetica Center</strong> 是一款進階的客戶端 Fabric 實用模組，會自動掃描您的世界，尋找與已載入的 Litematica 藍圖相符的物理結構。</h2>\n<h2>✨ 功能特色</h2>\n<ul>\n<li>🔍 <strong>自動偵測</strong>：非同步掃描鄰近區塊，尋找與已載入藍圖相符的世界結構。</li>\n<li>🧠 <strong>智慧指紋比對</strong>：編譯獨特的錨點與偏移方塊特徵，並透過 <strong>80% 以上相似度</strong> 驗證匹配結果，有效防止誤判。</li>\n<li>🔄 <strong>旋轉支援</strong>：自動偵測所有四種水平旋轉角度（<code>0°</code>、<code>90°</code>、<code>180°</code>、<code>270°</code>），並計算出精確的藍圖原點。</li>\n<li>⚡ <strong>不卡頓</strong>：掃描作業完全在背景執行緒中進行，確保遊戲內的 FPS 流暢無礙。</li>\n<li>🛡️ <strong>純客戶端運作</strong>：在生存伺服器、Realms 與單人模式中皆可安全使用。</li>\n</ul>\n<hr>\n<h2>🛠️ 運作方式</h2>\n<ol>\n<li>透過 Litematica <strong>載入藍圖</strong>。</li>\n<li>模組會<strong>自動搜尋</strong>您已載入的區塊。</li>\n<li>畫面彈出提示：<em>&quot;已發現相似結構。是否要自動將藍圖對齊至該結構？&quot;</em></li>\n<li>點擊 <strong>是</strong> 即可將藍圖完美置入！</li>\n</ol>\n<hr>\n<h2>📦 系統需求</h2>\n<ul>\n<li><strong>Fabric Loader</strong> (0.19.2 以上)</li>\n<li><strong>Fabric API</strong></li>\n<li><strong>Fabric Language Kotlin</strong> (FLK)</li>\n<li><strong>MaLiLib</strong></li>\n<li><strong>Litematica</strong></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b83d0cad3a7b7df8",
+  "content": "\n\nПатч для редактирования моделей и текстур, обеспечивающий совместимость мобов из [Variants & Ventures](https://modrinth.com/mod/variants-and-ventures) с новейшим форматом [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations).\n\nВ пакет входят изменения текстур мобов мода, а также правки моделей и анимаций Fresh Animations.\n\nДля корректной работы моделей требуется Optifine /или/ EntityModelTextures+EntityModelFeatures. Убедитесь, что данный пакет размещён /выше/ Fresh Animations.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

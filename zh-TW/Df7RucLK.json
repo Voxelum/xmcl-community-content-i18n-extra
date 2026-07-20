@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11a819af21622a2f",
+  "content": "\n\n# Respiteful\n<img width = 420 src = \"https://raw.githubusercontent.com/DragonsPlusMinecraft/Respiteful/1.18.2/image/logo.png\">\n<img width = 960 src = \"https://cdn.modrinth.com/data/Df7RucLK/images/1da5804f4fb9d1954daf04ca6825e1eed03ade42.png\">\nRespiteful 是 Neapolitan 與 Farmer's Respite 的擴充模組，為後者中的茶與咖啡增添了新的風味。\n\n## 風味\n目前共有 4 種風味：\n\n- 綠茶：提供全新的「活力」效果，賦予玩家對「凋零」效果的抗性，並使治療量每層提高 50%。\n- 黃茶：提供全新的「堅韌」效果，提升玩家的護甲堅硬度。\n- 紅茶：提供全新的「成熟」效果，增加食用食物的營養值。\n- 咖啡：提供來自 Farmer's Respite 的「咖啡因」效果，提升玩家的移動速度與攻擊速度，並重置玩家距離上次睡眠的時間。\n\n## 食物\nRespiteful 為茶類風味新增了蛋糕（咖啡蛋糕已存在於 Farmer's Respite 中），\n並作為 Neapolitan 奶昔的替代品，4 種風味各自擁有其雪頂茶/咖啡：\n\n- 雪頂綠茶：將所有增益效果強化 1 級，並將持續時間縮短一半。\n- 雪頂黃茶：將所有減益效果削弱 1 級，並將持續時間延長兩倍。\n- 雪頂紅茶：將所有增益效果削弱 1 級，並將持續時間延長兩倍。\n- 雪頂咖啡：將所有減益效果強化 1 級，並將持續時間縮短一半。\n\n請注意，效果轉換設有可配置的條件。\n預設情況下，效果必須具有至少 20 秒的持續時間才能被強化，且最多只會延長至 27:18（32766 刻）。\n\nRespiteful 也使用 Neapolitan 的風味原料新增了以下飲品：\n\n- 薄荷綠茶：薄荷 + 綠茶\n- 香草奶茶：香草 + 黃茶 + 牛奶\n- 紅豆奶茶：紅豆 + 紅茶 + 牛奶\n- 摩卡咖啡：巧克力 + 咖啡 + 牛奶\n\n## 針對 Farmer's Respite 的變更\n為了保持一致性與提升便利性（QoL），Respiteful 對 Farmer's Respite 進行了一些可配置的變更：\n\n- 將所有相關食物的效果替換為新的風味效果。\n- 允許玩家在飽食度滿時也能飲用所有飲品。\n- 讓更新後的咖啡因效果重返 1.18.2",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

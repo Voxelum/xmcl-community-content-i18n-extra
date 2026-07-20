@@ -1,6 +1,6 @@
 {
-  "bodyHash": "PCScS2Qdn20=",
-  "content": "<h1>SimpleVoiceChat Broadcast (Forge)</h1><p>Транслируйте аудио всем</p><h3>Использование</h3><ul>\n<li>Убедитесь, что у вас есть разрешение оператора (вы можете изменить это в конфигурации)</li>\n<li>Создайте и присоединитесь к группе с именем <code>broadcast</code> (вы можете изменить это в конфигурации)</li>\n<li>Разговаривайте в группе</li>\n<li>Все услышат вас</li>\n</ul><h4>Вдохновлено <a href=\"https://github.com/Dreaming-Codes/voicechat-broadcast-plugin-fabric\" rel=\"nofollow\">voicechat-broadcast-plugin-fabric</a></h4>",
+  "bodyHash": "b08ef6d4277a3fc2",
+  "content": "<h1>Вещание SimpleVoiceChat (Forge)</h1>\n<p>Передача аудио всем игрокам</p>\n<h3>Использование</h3>\n<ul>\n<li>Убедитесь, что у вас есть права оператора (это можно изменить в конфиге)</li>\n<li>Создайте и присоединитесь к группе с именем <code>broadcast</code> (имя можно изменить в конфиге)</li>\n<li>Говорите в группе</li>\n<li>Все вас услышат</li>\n</ul>\n<h4>Основано на плагине <a href=\"https://github.com/Dreaming-Codes/voicechat-broadcast-plugin-fabric\" rel=\"nofollow\">voicechat-broadcast-plugin-fabric</a></h4>",
   "contentType": "text/html",
   "type": "curseforge"
 }

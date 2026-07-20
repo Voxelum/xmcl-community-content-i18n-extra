@@ -1,6 +1,6 @@
 {
-  "bodyHash": "32f9b70eccbfc4eb",
-  "content": "\n\n<h1>简化提升声音上限</h1>\n<p>一款以简单方式提升 Minecraft 声音源数量限制的模组（目前提升至 4095）</p>\n<h2>配置</h2>\n<p>配置文件位于 <code>.minecraft/config/rsls.properties</code>\n若已安装 Cloth Config 和 Fabric API，则提供游戏内编辑器</p>\n<p><img src=\"https://media.forgecdn.net/attachments/477/759/screenshot-from-2022-07-18-17-03-17.png\" alt=\"声音调试信息\"></p>",
+  "bodyHash": "5d8ac69227c5db92",
+  "content": "<h1>简化声源限制提升</h1>\n<p>一款以简洁方式改进声音性能并提高 Minecraft 声源数量上限（目前提升至 4095）的模组。</p>\n<h2>该模组实际功能</h2>\n<ul>\n<li>将声源上限提升至 4095，并允许配置静态声源与流式声源之间的分配比例</li>\n<li>将大部分声音处理从渲染线程中移出，并使大多数声音引擎方法变为非阻塞，从而在声音密集场景下提高 FPS 稳定性</li>\n</ul>\n<h2>配置说明</h2>\n<p>配置文件位于 <code>.minecraft/config/rsls.properties</code><br>\n如果已安装 Cloth Config API 和 Fabric API，则可在游戏内使用编辑器进行配置</p>\n<p><img src=\"https://media.forgecdn.net/attachments/477/759/screenshot-from-2022-07-18-17-03-17.png\" alt=\"声音调试信息\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

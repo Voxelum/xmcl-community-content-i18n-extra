@@ -1,0 +1,6 @@
+{
+  "bodyHash": "df6b422e824e08dc",
+  "content": "<h1>多键绑定</h1>\n<p><a href=\"https://github.com/kennybc/multi-key-bindings\" target=\"_blank\" rel=\"nofollow\"><strong>Github</strong></a> • <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmulti-key-bindings\" target=\"_blank\" rel=\"nofollow\"><strong>Modrinth</strong></a> • <a href=\"https://www.curseforge.com/minecraft/mc-mods/multi-key-bindings\" target=\"_blank\" rel=\"nofollow\"><strong>CurseForge</strong></a></p>\n<p><strong>允许玩家为同一操作/功能创建多个键绑定，并为绑定添加修饰键。</strong></p>\n<p>本模为原生按键设置界面增加了额外功能。只需点击任意键绑定旁边的“+”按钮，即可为所选操作添加一个新的绑定。\n本模还支持修饰键（左/右）Shift、Control 和 Alt。</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/e3d7d62a98d18806013a5b2bafb91f62f008a291_0.webp\" alt=\"键绑定设置\"></p>\n<h2>版本与兼容性</h2>\n<p>适用于 Minecraft 版本 1.20.x、1.21.x 和 26.1.x</p>\n<p><br></p>\n<blockquote>\n  <p><em>自 MKB 版本 1.3.0 起，支持键绑定修饰键（例如 Shift+K）。</em></p>\n</blockquote>\n<p><br></p>\n<blockquote>\n  <p><em>自 MKB 版本 1.1.0 起，现已兼容 Controlling 模组，因此你可以在同一个界面中搜索和排序所有键绑定。</em></p>\n</blockquote>\n<p><br></p>\n<blockquote>\n  <p><em>请注意存在一些局限性：例如，如果你将操作“打开物品栏”设置为鼠标按键，按下该鼠标按键将无法像按键那样关闭物品栏。同样，如果将按键绑定到“选取方块”，你将无法像使用鼠标绑定时那样通过拖拽来复制方块。</em></p>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

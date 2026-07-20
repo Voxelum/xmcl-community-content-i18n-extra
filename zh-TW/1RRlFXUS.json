@@ -1,0 +1,6 @@
+{
+  "bodyHash": "98c147fd909362e9",
+  "content": "\n\n# AdvancedChatCore Reforged\n\nAdvancedChatCore 是 AdvancedChat 系列其餘模組所基於的核心程式庫與聊天框架。\n\n> **非官方分支。** 此為由社群維護的 DarkKronicle *AdvancedChat* 系列（原作者已將其封存）之延續版本，已更新支援 **Minecraft 26.1 與 26.2**（需 Java 25）。此專案**與 DarkKronicle 無任何隸屬關係，亦未獲其背書**，並遵循原專案的 MPL-2.0 授權條款釋出。\n\n## 功能特色\n\n- 為 AdvancedChat 系列提供共用的聊天管線、設定與 UI 框架\n- 其他 AdvancedChat Reforged 模組的必要依賴項目\n\n## 環境需求\n\n- **Java 25** 環境下的 **Minecraft 26.1.x** 或 **26.2**\n- [Fabric Loader](https://fabricmc.net/) 0.19+、[Fabric API](https://modrinth.com/mod/fabric-api)、[MaLiLib](https://modrinth.com/mod/malilib)（sakura-ryoko 26.x 編譯版本）\n\n## 原始碼與授權\n\n[GitHub](https://github.com/flyingfinger1/AdvancedChatCore) · MPL-2.0 · 原始模組作者：DarkKronicle",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

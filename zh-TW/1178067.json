@@ -1,6 +1,6 @@
 {
-  "bodyHash": "u9pD389LPb4=",
-  "content": "<p>這是針對 Wildfire 的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/female-gender-neoforge\" target=\"_blank\" rel=\"nofollow\">女性性別模組</a> 的一個無聊附加模組。</p><p>如果你覺得原版參數限制無法滿足你，那麼你可能需要這個模組來修改 femaleplasticsurgery-common.toml 配置文件中某些胸部相關參數的上下限。</p><p>目前你可以修改：</p><ul>\n<li>最大尺寸</li>\n<li>最小 Y 軸偏移</li>\n<li>最小 Z 軸偏移</li>\n<li>最大 Z 軸偏移</li>\n<li>彈跳倍率</li>\n<li>晃動倍率</li>\n</ul><p><strong>由於女性性別模組調整胸部尺寸的方式實際上是移動胸部部件，因此仍然存在實際上限。你不能指望這個模組能讓歐派變得超級大。</strong></p>",
+  "bodyHash": "b8637c6a89bd58c6",
+  "content": "\n\n<p>這是一個較為基礎的附加模組，適用於 Wildfire 的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/female-gender-neoforge\" target=\"_blank\" rel=\"nofollow\">Female Gender 模組</a>。</p>\n<p>如果您覺得現有的參數限制無法滿足需求，可能需要此模組來調整設定檔 `femaleplasticsurgery-common.toml` 中某些胸部相關參數的上限與下限。</p>\n<p>目前可調整的項目包含：</p>\n<ul>\n<li>最大尺寸 (Max Size)</li>\n<li>最小 Y 軸偏移量 (Min Y Offset)</li>\n<li>最小 Z 軸偏移量 (Min Z Offset)</li>\n<li>最大 Z 軸偏移量 (Max Z Offset)</li>\n<li>彈跳倍率 (Bounce Multiplier)</li>\n<li>鬆弛倍率 (Floppy Multiplier)</li>\n</ul>\n<p><strong>由於《Female Gender》模組修改胸部大小的實際機制是移動乳房模型的位置，因此實際上仍存在上限。請勿期望藉此模組讓胸部變得異常巨大。</strong></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

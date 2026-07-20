@@ -1,0 +1,6 @@
+{
+  "bodyHash": "35cf0d725165036c",
+  "content": "## Modpack 檢查器\n\n一個輕量的 Fabric 模組，用於驗證玩家是否在你的伺服器上使用正確的 Modpack 版本。\n\n### 功能特點\n\n- 基於版本的簡單客戶端-伺服器檢查（無需比較 Mod 列表）\n- 自動斷開連接並提供有用的提示訊息\n- 易於編輯的 TOML 設定檔，適用於客戶端和伺服器\n- 支援 `/reload` 指令，無需重啟即可應用更改\n- 開發模式：使用版本號 `0.0.0` 可在開發期間禁用檢查\n\n### 運作方式\n\n1. 伺服器在登入期間發送版本檢查請求\n2. 客戶端從 `modpack-checker-client.toml` 回覆版本資訊\n3. 伺服器將回覆版本與預期版本進行比較\n4. 若版本不匹配，玩家將被踢出並顯示自訂訊息\n\n### 設定檔\n\n#### **伺服器端 (`config/modpack-checker-server.toml`)**：\n```toml\nenable = true\nexpected_version = \"1.0.0\"\n[messages]\nno_mod = \"請安裝 Modpack：<your-modpack-link>\"\nwrong_version = \"請安裝 Modpack 版本 {version}：<your-modpack-link+version>\"\nserver_error = \"伺服器配置錯誤。請聯繫管理員。\" \n```\n#### **客戶端 (`config/modpack-checker-client.toml`)**：\n```toml\nversion = \"1.0.0\"\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

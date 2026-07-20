@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5bb162e88f27417",
+  "content": "\n\n<h1>Исправления VoxelMap</h1>\n<p>VoxelMap Fixes исправляет несколько методов VoxelMap, чтобы адаптировать его к работе в сборках с другими модами.\nВнесены следующие изменения:</p>\n<ul>\n<li>Оптимизация производительности (более экономичный поиск текстур)</li>\n<li>Улучшенная совместимость с модифицированными сборками (более безопасное получение TileEntity)</li>\n<li>Настраиваемый чёрный список TileEntity и блоков (до версии 1.0.6)</li>\n</ul>\n<p>Для работы требуются <a href=\"https://www.curseforge.com/minecraft/mc-mods/voxelmap\" rel=\"nofollow\">VoxelMap</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/mixin-booter\" rel=\"nofollow\">MixinBooter</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

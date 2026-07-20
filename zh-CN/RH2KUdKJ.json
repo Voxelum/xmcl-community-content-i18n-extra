@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ioIzaXbF5To=",
-  "content": "![MOD LOGO](https://i.imgur.com/rxfLjS0.png)\n\n\nOctoStudios 模组的共享代码集合。目前实现的特性列表：\n- 类数据包、基于YAML的配置系统，具有自动验证、深度序列化及其他安全功能。\n\n\n**注意：**\n- 从1.20.1到1.21.11版本需要安装[**ArchitecturyAPI**](https://modrinth.com/mod/architectury-api)才能运行！\n\n\n如果您是模组开发者，不建议使用本模组，因为此API的代码库有时可能会发生较大变化，但您仍可根据需要自行尝试~\n\n\n***\n![MOD ART](https://i.imgur.com/7Thcq1K.png)\n***\n**想试试我们的其他模组？更多信息请访问 OCTO-STUDIOS.COM！**",
+  "bodyHash": "88e4bcb554d71e3a",
+  "content": "\n\n![MOD LOGO](https://i.imgur.com/rxfLjS0.png)\n\nOctoStudios 旗下模组共享代码集合。当前已实现的功能列表：\n- 类似数据包的基于 YAML 的配置系统，支持自动验证、深度序列化及其他安全特性。\n\n\n**注意：**\n- 从 1.20.1 到 1.21.11 版本需要 [**ArchitecturyAPI**](https://modrinth.com/mod/architectury-api) 才能运行！\n\n\n如果你是模组开发者，不建议使用此模组，因为该 API 的代码库可能会经常发生变化，但如果你愿意，仍然可以继续使用~\n\n\n***\n![MOD ART](https://i.imgur.com/7Thcq1K.png)\n***\n**想体验我们的其他模组吗？访问 OCTO-STUDIOS.COM 获取更多信息！**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

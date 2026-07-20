@@ -1,0 +1,6 @@
+{
+  "bodyHash": "29713646c00bd1a6",
+  "content": "# [ALB]自动幸运方块 (auto lucky block)\n\n**英文说明见下方。**\n\n- 此数据包可（默认）每隔 30 秒为所有玩家激活一个幸运方块。\n- 使用 `/scoreboard players set countdown alb.settings <每次激活前等待的刻数>` 可修改激活间隔，默认值为 600 刻（即 30 秒）。\n- 新地图首次加载该数据包时不会立即激活，而是会等待设定的激活时间到达后才开始。\n- 本数据包依赖 Lucky Block 模组（[CurseForge](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | [MCMOD](https://www.mcmod.cn/class/294.html) | [GitHub](https://github.com/alexsocha/luckyblock)）。\n\n---\n\n- This data pack can activate a lucky block for all players every 30 seconds (by default).\n- Use `/scoreboard players set countdown alb.settings <ticks to wait before each activation>` to modify the activation time. The default tick is 600 (i.e. 30 seconds).\n- The data pack will not be activated immediately after being loaded in a new world, but will wait for the set activation time to arrive.\n- This data pack depends on Lucky Block ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/lucky-block) | [MCMOD](https://www.mcmod.cn/class/294.html) | [GitHub](https://github.com/alexsocha/luckyblock)).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

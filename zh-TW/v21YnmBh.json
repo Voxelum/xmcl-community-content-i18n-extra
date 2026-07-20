@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de8d7a9942be4f1b",
+  "content": "\n\n這是一個用於鍵位操作的小型工具，專為整合包開發者設計，可讓您設定鍵位並透過 keybinds.json 將其設為不可修改。\n\n在 keybinds.json 中，您可以啟用管理員模式，以便在遊戲內鎖定和設定鍵位；因此請務必在 keybinds.json 的設定檔中關閉 admin/devMode。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

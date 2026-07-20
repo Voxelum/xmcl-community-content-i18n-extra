@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de8beec98f23cb6e",
+  "content": "\n\n<p>Этот пакет ресурсов сам по себе ничего не делает, но при использовании вместе с модом Better End Sky, будь то <span style=\"color:#36f\"><a style=\"color:#36f\" href=\"https://www.curseforge.com/minecraft/mc-mods/better-end-sky\" rel=\"nofollow\">версия для Forge</a></span> или <span style=\"color:#36f\"><a style=\"color:#36f\" href=\"https://www.curseforge.com/minecraft/mc-mods/better-end-sky-fabric#c6\" rel=\"nofollow\">версия для Fabric</a></span>, он меняет небо до следующего вида:</p>\n<p><img src=\"https://media.forgecdn.net/attachments/thumbnails/335/330/310/172/2021-01-22_14.png\" alt=\"Загружено с модом Better End Sky\" width=\"306\" height=\"172\"></p>\n<h5><strong>Данный пакет ресурсов предназначен для версий 1.1 и 1.2 мода.</strong></h5>\n<p>Если вы хотите использовать этот пакет ресурсов с версией 1.0 мода Better End Sky, вам необходимо распаковать его и переименовать файл&nbsp; в папке assets/minecraft/textures/environment/, названный custom_end_sky.png, просто в end_sky.png.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

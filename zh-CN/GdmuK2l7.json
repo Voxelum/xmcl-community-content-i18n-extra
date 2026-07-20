@@ -1,0 +1,6 @@
+{
+  "bodyHash": "12e7d5c2049743eb",
+  "content": "\n\n# chat-attestation\n\n为 Kaboom 及可能的其他服务器提供无需机器人的身份冒充防护\n\n**切勿将你的 chat-attestation.priv.key 文件发送给任何人**。你的公钥会在启动时输出到日志中（搜索\n\"\nEncoded public key\"）。\n\n## 问题\n\n- 与 ChatPatches 不兼容 ([#2](https://code.optmstc.dev/opt/chat-attestation/issues/2))\n  - 似乎内容在添加到聊天组件后才被更新。这会导致系统聊天失效。\n- 使用 ChipmunkMod 时，压缩普通聊天无法正常工作 ([#4](https://code.optmstc.dev/opt/chat-attestation/issues/4))\n  - 你无法发送压缩的普通聊天，但可以正常阅读。似乎是 sendChat 被调用了两次。\n- 命令告示牌偶尔失效 ([#3](https://code.optmstc.dev/opt/chat-attestation/issues/3))\n  - 看起来是竞态条件。说实话，我可能干脆直接移除这个功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

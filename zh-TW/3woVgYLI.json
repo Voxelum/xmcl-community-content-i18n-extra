@@ -1,6 +1,6 @@
 {
-  "bodyHash": "KFGSpObjdVU=",
-  "content": "# 最大FPS指令模組\n\n這個模組提供了一個簡單的指令：`/fps max`。執行後，它會透過卸載所有**非遊戲運行絕對必要**的元素，大幅提升你的每秒幀數（FPS）。\n\n### 效能提升\n根據**個人實測**，這個指令讓我的FPS從**280幀**飆升至驚人的**1500幀**！**實際效果可能因情況而異**。請看以下截圖對比：\n\n![使用前](https://cdn.modrinth.com/data/cached_images/687063c916810d3778b272c4e4ecfccf6adf841f.png)\n*使用 /fps max 前*\n\n![使用後](https://cdn.modrinth.com/data/cached_images/fa3bc97324114eb76708b20bd7c2dad2af9fbf05.png)\n*使用 /fps max 後*\n\n### 免責聲明：這只是個玩笑\n請注意，這個模組是**惡搞性質**。雖然它能提升FPS，但實現方式是卸載所有畫面元素（僅保留介面），**截圖因故未顯示但正常情況下畫面會變黑**，請勿當真。FPS暴增純粹是因為不再渲染任何內容，並非實用解法。\n\n### 結論\n如果你想用有趣的方式「體驗」遊戲效能提升，不妨試試 `/fps max` 指令！但請記住，這純屬娛樂！\n### **完全透明聲明**\n本模組**僅為玩笑用途，純屬娛樂**，並不會魔法般提升FPS，只會讓你的畫面變黑。",
+  "bodyHash": "8738d301d83c744e",
+  "content": "\n\n# FPS Max Command Mod\n\n此模組僅提供一個簡單指令：`/fps max`。執行後，它會卸載所有**非遊戲運行絕對必要**的元件，從而大幅提升你的每秒幀數（FPS）。 \n\n### 效能提升\n根據我的**個人經驗**，此指令將我的 FPS 從**280 FPS** 飆升至驚人的**1500 FPS**！幀數**增幅可能因情況而異**。請參考下方的截圖：\n\n![Before](https://cdn.modrinth.com/data/cached_images/687063c916810d3778b272c4e4ecfccf6adf841f.png)\n*使用 /fps max 之前*\n\n![After](https://cdn.modrinth.com/data/cached_images/fa3bc97324114eb76708b20bd7c2dad2af9fbf05.png)\n*使用 /fps max 之後*\n\n### 免責聲明：這只是個玩笑\n必須注意的是，此模組純粹是**惡搞**。雖然它確實能提升 FPS，但這是透過卸載 GUI 以外的所有內容來實現的。**截圖並未顯示這一點，實際上畫面通常會變黑**，因此請勿將其視為正式方案。FPS 的大幅提升純粹是因為不再渲染任何內容，而非實際可行的優化手段。 \n\n### 結語\n如果你正在尋找一種有趣的方式來體驗遊戲中的「效能提升」，不妨試試 `/fps max` 指令！請記住，這純粹是為了娛樂！ \n### **完整透明度說明**\n此模組**僅為玩笑，純粹供娛樂用途**。它並不會神奇地提升 FPS，只會讓你的畫面變黑而已。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

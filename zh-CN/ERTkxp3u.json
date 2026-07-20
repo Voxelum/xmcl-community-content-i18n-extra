@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f15894bb364891bb",
+  "content": "\n\n![末影人重制标志](https://cdn.modrinth.com/data/cached_images/abd49c901003397fdffaf36da4abb97cb0206ab8.png)\n\n# \n\n本包使 AL 的《末影人重制》与 Fresh_LX 的《Fresh Animations》兼容！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/I3XZ1XYm0rQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n由于 AL 的《末影人重制》使用了自定义的末影人模型，因此无法与《Fresh Animations》兼容。\n\n本包通过提供使用对应动画的新模型解决了该问题！\n\n \n\n重要提示：\n\n为使本包正常工作，你需要将其加载顺序置于 FA 之上。\n\n \n\n请按以下顺序加载：\n\n- 本包\n\n- Fresh Animations",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

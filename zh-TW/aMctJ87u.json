@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28d34f663b98926f",
+  "content": "\n\n![banner](https://cdn.modrinth.com/data/cached_images/25a7623b35b91faebaf9c0f58e1b77b0e9451b04_0.webp)\n\nMining Speed Tooltips 是一款簡單的模組，會為所有挖掘工具（例如鎬子、斧頭與鏟子）增加一行額外資訊，顯示該工具的實際挖掘速度。由於這項數值在原版 Minecraft 中通常是隱藏的，玩家常將其誤認為攻擊速度，而此模組正是為了消除這種混淆。\n\n若您已安裝 Quark 模組，Mining Speed Tooltips 將修改 Quark 的增強版提示資訊，額外顯示挖掘速度數值。這也支援 Quark 的比較系統：當您在主手持有一把工具，並將游標懸停在另一把工具上時，如果後者速度更快，就會顯示一個動態的綠色向上箭頭。\n\n![quark demo](https://i.imgur.com/iFx0xrS.png)\n\n若未安裝 Quark（或您正按住 Shift 鍵），它則會在「攻擊速度」下方單純顯示一行額外文字：\n\n![demo](https://i.imgur.com/4b7D8VP.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f442516704351931",
+  "content": "\n\n# TaczCurios - 概览\n\n**TaczCurios** 为游戏 **Tacz** 添加了自定义饰品。本模组提供的所有额外属性均基于 [**Tacz属性附加组件**](link-to-tacz-attributes-addon) 中的动态玩家属性系统。\n\n## 需求 / 依赖项\n\n本模组需要以下模组作为依赖：\n*   [**Tacz属性附加组件**]\n*   [**Curios API**]\n*   [**TaCZ**]\n*   [**Apothic Attributes**]\n\n## 功能特性\n\n*   本模组提供了 **6个内置的Tacz饰品槽位** 供玩家使用。\n*   本模组的灵感主要来源于 **星际战甲 (Warframe)**，并融合了部分来自 **崩坏3 (Honkai Impact 3rd)** 的元素。\n\n## 配置建议\n\n为了获得更佳的综合伤害加成体验，建议在 **Tacz属性附加组件** 的配置文件中将伤害模式更改为 **`ADDITIVE`** 或 **`MULTIPLICATIVE`**。此设置可同时支持通用伤害与特定枪械伤害类型的加成。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

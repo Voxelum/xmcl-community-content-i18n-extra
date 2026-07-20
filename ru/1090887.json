@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5beb9ef25c8b89d8",
+  "content": "\n\n<h1><a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-258859\" rel=\"nofollow\">MC-258859</a></h1>\n<p><strong>Исправляет <a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraft.wiki%252fw%252fSurface_rule%2523Surface_conditions%253a%257e%253atext%253dsteep\" rel=\"nofollow\">условие крутой поверхности</a>, которое работало только на северных и восточных гранях склонов.</strong></p>\n<p><img src=\"https://cdn.modrinth.com/data/gzfqBTYf/images/710a936314e3e5e3056611cb593c9fac6128b952.gif\" alt=\"Сравнение MC-258859 (на изображении обозначено как &quot;Fixed&quot;) и ванильной версии, где на Снежных пиках заметно больше камня, а также увеличено количество плотного льда на Замёрзших пиках\"></p>\n<h1>✅ Возможности</h1>\n<ul>\n<li><strong>Делает скалы красивее</strong>, уменьшая количество снега и грунта в горных биомах Minecraft.</li>\n<li><strong>Поддерживает Terralith</strong>, улучшая <a href=\"#\" rel=\"nofollow\">17 биомов</a>!</li>\n<li><strong>Работает на стороне сервера</strong>, готов к использованию без каких-либо несовместимостей с клиентом!</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

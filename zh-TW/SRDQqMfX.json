@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e48869877fb93a96",
+  "content": "\n\n![REI tab](https://cdn-raw.modrinth.com/data/SRDQqMfX/images/312920b0f001e502c373fb5ed88bd41251d55f46.png)\n\n影片示範：https://youtu.be/Ah-Pya-_ir8\n\n#### 基本資訊\n本模組同時支援 Fabric 與 Forge，是 Roughly Enough Items 的外掛，提供了一個全新的分類——村民交易。所有原版交易都會被完整列出。\n\nRET 完全運行於客戶端，將其安裝在伺服器上毫無意義（甚至可能導致伺服器當機）。\n\n部分交易會修改物品的 NBT 資料（例如附魔、染色、填補地圖）。在這種情況下，RET 會使用星號將結果物品的名稱包圍起來，例如 `\\*鑽石靴\\*`。\n\n不支援豬布林交易（Piglin bartering），因為它依賴伺服器端的資料。\n\n#### 模組相容性\n村民交易的難點在於，模組開發者可以輕易定義自訂的交易類型，這使得 RET 無法直接擷取相關資料。在這種情況下，系統會隨機生成幾筆「報價」（基本上是在模擬你點擊村民時的反應）。產生的資料並不準確也不完整，但總比完全沒有顯示來得好。你可以透過尋找類似以下的條目來辨識這是隨機生成的結果：\n\n![special entry](https://cdn.modrinth.com/data/SRDQqMfX/images/c718a66b86e7163a41f8c4e608dc3304e4d175ec.png)\n\n#### 依賴項目：\nRoughly Enough Items (https://modrinth.com/mod/roughly-enough-items)\n\nFabric Language Kotlin (https://modrinth.com/mod/fabric-language-kotlin) 或 Kotlin For Forge (https://modrinth.com/mod/kotlin-for-forge)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

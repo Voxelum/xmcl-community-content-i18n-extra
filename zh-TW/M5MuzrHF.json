@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1151ecf95c03eee",
+  "content": "\n\n市面上幾乎所有的動畫模組都改變了各種動作，卻忽略了我們最常做的事情之一：玩家的跳躍動畫。\n\n現在，它來了。\n\n行走：\n\n![walking](https://i.imgur.com/F7P2sr0.gif)\n\n\n閒置：\n\n![idle](https://i.imgur.com/S8EJoPq.gif)\n\n衝刺：\n\n![sprinting](https://i.imgur.com/2emr3Sn.gif)\n\n\n## **但這模組的功能可不止於此！**\n\n摔落：\n\n摔落並受到傷害會讓你稍微減速：\n![falling](https://i.imgur.com/XhbEJlm.gif)\n\n\n從過高處摔落會讓你減速更多：\n![falling high](https://i.imgur.com/Med4xjc.gif)\n\n\n落在乾草塊上會完全抵消摔落傷害，但你會短暫無法移動：\n![hay bale](https://i.imgur.com/gtSz4TL.gif)\n\n跳水：\n\n在跳躍動畫結束後立即按下空白鍵即可進行跳水，跳水可用來抵消高速摔落的減速效果。\n\n若撞到地面你會進行翻滚：\n\n![diving](https://i.imgur.com/HNh2aSX.gif)\n\n \n若撞到水面你會向上游動：\n![swim up](https://i.imgur.com/1r8yCfo.gif)\n\n\n\n鐵餅姿勢（Cannonball）：\n\n要做出鐵餅動作，你需要至少自由落體 5 格（也就是玩家開始播放摔落動畫時），只要在下落過程中按一次空白鍵，就會做出鐵餅姿勢。\n![cannonball](https://i.imgur.com/H3pEGHt.gif)\n\n\n\n這動作雖然沒什麼實際用途，但玩起來真的很有趣。\n\n強烈建議搭配第一人稱模組（如 Real Camera 模組）或第三人稱模組（如 Betther Third Person 模組）一起使用。\n\n本模組需要 Player Animator 1.0.2。\n\n## **也請別忘了去看看我的其他模組**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

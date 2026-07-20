@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e006691c13400367",
+  "content": "<h1>StatsReader</h1>\n<h2>立即了解你的对手是谁。</h2>\n<p>StatsReader 将 BedWars 玩家数据直接显示在 GommeHD.net 的 TAB 列表中，让你无需手动查询每条 /stats 命令即可识别强力玩家。玩家数据来源于一个公开的社区数据库。每当有 StatsReader 用户运行 /stats 命令时，最新的统计数据会自动上传并与所有用户共享，确保数据库持续更新。你可以使用 /statsreader 配置要显示的统计信息。</p>\n<h3>公共数据库：<a href=\"/linkout?remoteUrl=https%253a%252f%252fbedwarsdatabase.at%252f\" rel=\"nofollow\">https://bedwarsdatabase.at</a></h3>\n<h2>功能</h2>\n<ul>\n<li>TAB 列表中的实时 BedWars 统计数据</li>\n<li>由社区驱动的数据库</li>\n<li>通过 /stats 自动更新</li>\n<li>可自定义</li>\n</ul>\n<h2>兼容性</h2>\n<p>Fabric（需要 Fabric Loader + Fabric API）兼容现代客户端和启动器，包括 Lunar Client、NoRisk Client 和 Modrinth。专为 GommeHD.net BedWars 设计。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8345283f9e798146",
+  "content": "<p>&nbsp;</p>\n<p style=\"text-align:left\">此模组增加了更多充能站，从而提升了整体产能。这些充能站可以直接连接电缆进行充电。</p>\n<p>此外，通过对原版 Powah 的充能站进行修改，实现了批量合成和堆叠合成功能。</p>\n<p><strong>功能特性</strong></p>\n<hr>\n<p>新增的电缆充能站可以通过右键点击打开其图形用户界面（GUI），在其中添加相应的升级物品以倍增产量。它还可以自动将物品直接弹出到附近的容器中。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1549649/description_d22d3d2c-ec25-4624-844a-21bf6b98a85d.png\"></p>\n<p>在能源供应方面，可以使用任何支持 FE（Forge Energy）能量的电缆。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1549649/description_7eeba909-d3c4-426f-9605-5bb4daae568e.png\"></p>\n<p>升级模块可实现 1x 至 7x 的批量生产效率。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1549649/description_feb449f1-ccf3-4bd8-b3a8-0ae210237d69.png\"></p>\n<p>修改后的原版 <a href=\"https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected\" target=\"_blank\" rel=\"nofollow\">Powah</a> 充能站可以实现批量生产。是否启用此功能可在配置文件中设置。</p>\n<p><strong>依赖项</strong></p>\n<hr>\n<p>此模组需要安装 <a href=\"https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected\" target=\"_blank\" rel=\"nofollow\">Powah</a> 和 <a href=\"https://www.curseforge.com/minecraft/mc-mods/ldlib\" target=\"_blank\" rel=\"nofollow\">LDlib</a> 作为依赖项。</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

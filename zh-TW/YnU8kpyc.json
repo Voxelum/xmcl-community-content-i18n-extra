@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0dbfd41f2d321fe8",
+  "content": "\n\nTranslater 會將 Minecraft 中的所有文字透過 Google 翻譯處理 5 次（次數可自訂）。\n這會讓文字處於一種部分仍可理解、但玩起來十分搞笑的狀態。\n此模組會快取所有來自 Google 翻譯的回應以縮短載入時間，因為建立快取可能需要長達 3 小時（原版約 5000 段文字）。\n因此，在快取生成後，它對載入速度或效能幾乎沒有影響。\n事實上，模組內甚至已包含預先生成的名稱快取，只要條件允許就會自動使用。\n您也可以下載額外檔案，其中包含多數模組的預先快取回應，以換取更快的速度，代價是會佔用稍多的磁碟空間。\n請注意，生成額外檔案需要一些時間，因此更新後可能無法立即取得。\n此模組應能與大多數使用原版翻譯系統的模組正常運作。\n\n您可以設定以下選項：\n- 所有文字的翻譯次數（預設為 10，需重新建立快取）\n- 是否使用隨機語言作為來源語言（這會導致大部分文字無法辨識，需重新建立快取）\n- 翻譯的目標語言，通常應與遊戲語言一致。您可以使用「auto」嘗試自動偵測\n- 翻譯進度指示器，用於監控初始生成過程\n\n注意：您可能需要增加 `libjf-translate-v1` 設定檔中的 `throttleMillis` 值，以避免服務端的速率限制。\n<center>\n  <a href=\"https://jfronny.gitlab.io/contact.html\">\n    <img alt=\"建議與支援\" src=\"https://img.shields.io/badge/Suggestions%20and%20Support-red?style=for-the-badge&logo=matrix\">\n  </a>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

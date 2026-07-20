@@ -1,6 +1,6 @@
 {
-  "bodyHash": "tqX46nnSN9Y=",
-  "content": "Bobby 是一个 Minecraft 模组，它允许渲染距离超过服务器的视距设置。\n\n![The Province of Wynn 在 96 区块渲染距离下的效果](https://i.johni0702.de/7FlGK.png \"The Province of Wynn at 96 chunks render distance\")\n\n它通过记录并存储（在 `.minecraft/.bobby` 中）服务器发送的所有区块来实现这一目标，当区块超出服务器视距时，它可以在之后加载并显示这些区块。\n\n可选地，它也可以利用现有的单人世界来加载服务器从未发送过的区块。要使用此功能，只需将世界文件夹（不是世界的名称！而是其文件夹的名称！）重命名为 \"bobby-fallback\"。\n\nBobby 会在配置文件被修改时自动重新加载。如需游戏内配置界面，请安装 [ModMenu] 和 [ClothConfig]。\n\n[ModMenu]: https://modrinth.com/mod/modmenu\n[ClothConfig]: https://modrinth.com/mod/cloth-config",
+  "bodyHash": "3e105c94db18e710",
+  "content": "\n\nBobby 是一款 Minecraft 模组，允许渲染距离超过服务器的视距设置。\n\n![Wynn省在96区块渲染距离下](https://i.johni0702.de/7FlGK.png \"The Province of Wynn at 96 chunks render distance\")\n\n它通过记录并存储（保存在 `.minecraft/.bobby` 目录中）服务器发送的所有区块来实现这一功能。当这些区块超出服务器视距范围时，模组会在稍后加载并显示它们。\n\n\n此外，该模组还支持使用现有的单人世界存档来加载服务器从未下发过的区块。要启用此功能，只需将世界文件夹重命名为“bobby-fallback”即可（请注意：是文件夹的名称，而不是游戏内的世界名称！）。\n\n\n修改配置文件后，Bobby 会自动重新加载。如需使用游戏内配置界面，请安装 [ModMenu] 和 [ClothConfig]。\n\n[ModMenu]: https://modrinth.com/mod/modmenu\n[ClothConfig]: https://modrinth.com/mod/cloth-config",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

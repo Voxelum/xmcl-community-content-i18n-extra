@@ -1,0 +1,6 @@
+{
+  "bodyHash": "652658ae9de54ad9",
+  "content": "\n\n## 重新啟用無需升級圖樣即可將鑽石盔甲升級為下界合金盔甲的功能\n\n### 注意事項： \n* 本數據包僅修改盔甲升級配方。若您也希望工具無需提供升級圖樣，還需搭配[工具數據包](https://modrinth.com/datapack/purpurpacks-no-template-netherite-tool-upgrades)。\n* 此數據包會新增配方，移除該數據包可能會在控制台中顯示關於遺失配方的警告。這不會對您的世界或存檔資訊造成危害。 \n\n### 使用模組版本時的安裝資訊：\n它們的功能與數據包完全相同，但會套用至所有建立或啟用此模組的世界。若您不希望此設定套用至所有世界，請改用數據包。\n\n**Forge**：\n<br>無需任何依賴項，只需將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur 套件\nPurpur 套件是指曾建議新增至 Purpur 的功能——或是符合 Purpur 主題的功能，但經評估後認為以數據包形式提供會更為合適！ \n<br>這些數據包的功能等同於 Purpur 中的單一設定選項。您可以隨時新增或移除它們，且不會損害伺服器。\n<br>它們同樣適用於原版 Minecraft，您無需運行 Purpur 即可使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

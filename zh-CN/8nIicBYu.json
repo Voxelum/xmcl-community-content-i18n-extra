@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dbf1a25d127e3860",
+  "content": "\n\n此模组添加了将腐肉转化为皮革的方法。根据 `hardMode` 配置项（仅在 Forge 和 NeoForge 版本中提供），配方会有所不同：\n\n## hardMode = false\n\n腐肉可在熔炉或烟熏炉中烧炼，每块腐肉可产出 1 个皮革。\n\n## hardMode = true\n\n腐肉首先需要合成为熟腐肉。 \n\n![熟腐肉的合成：在 2x2 合成台中放入 4 块腐肉](https://gitlab.com/456Xander/JRFTL/-/raw/ffe5ec00d21b62652bf1a0a49afa030797701b05/prep_flash_crafting.png)\n\n随后，熟腐肉可在熔炉或烟熏炉中进行烧炼。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

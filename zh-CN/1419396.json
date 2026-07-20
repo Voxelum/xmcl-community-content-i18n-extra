@@ -1,0 +1,6 @@
+{
+  "bodyHash": "892d0f969a167057",
+  "content": "\n\n<h1 style=\"text-align:center\"><strong>Tomtaru 的 Stellaris &amp; Immersive Engineering 调整</strong></h1>\n<p>整合模组，为 Stellaris 的矿石与材料添加 Immersive Engineering 的加工配方。</p>\n<ul>\n<li>完整支持 Stellaris 金属在粉碎机与电弧炉中的加工。</li>\n<li>提供炼油厂配方以生产 Stellaris 燃料与柴油。</li>\n<li>支持 Corronium、Desh、Neptunium、Solerium 和 Tharsite 的粉尘处理。</li>\n<li>将 Stellaris 的钚块与铀块添加为热电发电机的热源。</li>\n<li>使用通用标签（c:）以实现最大的跨模组兼容性。</li>\n</ul>\n<p>需要同时安装 <a href=\"https://www.curseforge.com/minecraft/mc-mods/stellaris\" target=\"_blank\" rel=\"nofollow\">Stellaris</a> 和 <a href=\"https://www.curseforge.com/minecraft/mc-mods/immersive-engineering\" target=\"_blank\" rel=\"nofollow\">Immersive Engineering</a> 方可运行。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "367b3b7da39b5e43",
+  "content": "\n\n**重要事項：** Essential Patcher 為非官方工具，可能與 Essential 的使用條款或其他平台規範衝突。本工具不包含 Essential 或 Minecraft 的程式碼／資源，不會修改 Essential 的伺服器，亦不會偽造購買記錄或帳戶兌換資格。完整法律聲明：[**LEGALITY.md**](https://github.com/Leclowndu93150/Essential-Patcher/blob/main/LEGALITY.md)。\n# Essential Patcher\n\nEssential Patcher 是一款適用於 Minecraft 1.21.1 中 Essential 模組的客戶端補丁工具。\n\n它讓使用者能更自主地控制 Essential 在本機客戶端的行為，包括外觀顯示、遙測資料收集、廣告、購買提示，以及其他使用此補丁工具的使用者之間的外觀同步功能。\n\n## 功能特色\n\n- 本機外觀解鎖\n- 本機外觀儲存\n- Essential Patcher 使用者之間的外觀同步\n- 阻擋遙測與分析資料傳輸\n- 移除廣告、促銷資訊與通知\n- 阻擋購買提示與結帳流程\n- 修復部分 Essential 外觀同步導致當機的問題\n\n## 外觀同步運作原理\n\nEssential Patcher 不會修改 Essential 的伺服器或帳戶所有權記錄。\n\n當兩位玩家皆使用 Essential Patcher 時，該模組可透過獨立的 HTTPS 同步服務來同步選定的外觀 ID 與設定。這讓補丁工具的使用者能夠看見彼此選擇的外觀。\n\n未使用 Essential Patcher 的玩家將無法看到經過處理的外觀同步資料。\n\n## 本模組不執行以下行為\n\n- 不包含 Essential 的程式碼。\n- 不包含 Essential 的資源、外觀、模型、貼圖或圖示。\n- 不包含 Minecraft 的程式碼或資源。\n- 不發行經過修改的 Essential JAR 檔。\n- 不發行經過修改的 Minecraft JAR 檔。\n- 不會產生金幣（Coins）。\n- 不會提交虛假購買記錄。\n- 不會修改 Essential 帳戶的所有權記錄。\n- 不會授予官方 Essential 兌換資格。\n\n## 備註\n\n本模組依賴 Essential 的內部機制。在補丁工具更新之前，Essential 的更新可能會導致相容性問題。\n\nEssential Patcher 與 Essential、ModCore Inc.、Spark Universe、Mojang、Microsoft 或 Minecraft 均無隸屬、背書、核准或關聯關係。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

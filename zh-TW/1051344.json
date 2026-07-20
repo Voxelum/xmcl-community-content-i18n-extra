@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2b309cf4b9d6d1ca",
+  "content": "\n\n<p><img src=\"https://raw.githubusercontent.com/chrrs/scribble/refs/heads/main/docs/overview.gif\" alt=\"主書本編輯介面總覽\"></p>\n<p>Scribble 是一款<strong>客戶端</strong>模組，能讓書本編輯變得更加輕鬆！它內建了許多便利性功能，讓你能精確管理書頁、使用顏色與各種格式設定來排版文字、儲存/載入書本以備份資料，以及更多實用功能！最棒的是，<strong>伺服器上的其他玩家也能看到這些內容，即使他們沒有安裝此模組！</strong></p>\n<p>預設情況下，Scribble 刻意保持與原版高度一致。它不會改變任何原有機制，而是基於原版書本的體驗，額外增添了一些貼心的小功能。<strong>所有功能皆可自訂設定</strong>，Scribble 會在你需要時提供選項，而在你不需要時則保持低調不干擾你。</p>\n<hr>\n<p>但這還不算完！Scribble 還內建了許多零散的小功能：</p>\n<ul>\n<li><strong>一次查看兩頁！</strong>如果你一直羨慕基岩版玩家能同時看到兩頁，現在你也可以在 Scribble 中開啟這個設定！這項功能與其他所有功能都能完美相容（甚至包括讀經台！）。</li>\n<li><strong>隨時插入或刪除頁面</strong>，只需使用頁面下方的額外按鈕即可。再也不用反覆複製貼上頁面來調整順序了。</li>\n<li><strong>跳轉至任意頁面！</strong>你可以點擊頁碼並輸入數字直接跳轉。或者，在翻頁時按住 SHIFT 鍵，即可一鍵翻到最後一頁！</li>\n<li><strong>將書本介面置中！</strong>Minecraft 預設會將書本畫面固定在螢幕最頂端，這與其他遊戲介面不一致。Scribble 修正了這個問題！</li>\n<li><strong>輕鬆編輯帶有現有顏色代碼的書本！</strong>Scribble 會自動接管現有的顏色代碼，並允許你直接進行編輯。</li>\n<li><strong>避免進度遺失！</strong>如果你在尚有未儲存內容時嘗試關閉，Scribble 會彈出提示詢問你是否確認。</li>\n<li><strong>復原或重做任何操作！</strong>哎呀，不小心刪除了什麼？別擔心，只要按下 Ctrl+Z 就能輕鬆找回。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

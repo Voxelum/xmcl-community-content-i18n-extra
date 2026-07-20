@@ -1,0 +1,6 @@
+{
+  "bodyHash": "05bcfc2a05f5d123",
+  "content": "\n\n| ![模组图标](https://cdn.modrinth.com/data/cached_images/c15e6e8d6b80dc851799c69cd7848ddc0643c572.png) | <p></p><h1>Just Enough Recipe Book (JERB)</h1><p>将配方浏览器模组的最佳功能带入原版配方书。</p>|\n| :--- | :--- |\n\n## 为什么需要它？\n虽然这可能不是个讨喜的观点，但我并不讨厌配方书。从概念上讲，它是一个很棒的用户界面，比起那些臃肿的配方浏览器模组，我更喜欢它。\n\n但在实际使用中，它缺少了许多配方浏览器能提供的必要功能（尤其是在模组游玩中）。这正是本模组旨在解决的问题。\n\n## 功能特性\n在**服务端**使用时：\n- **不再需要解锁配方**\n  - 完全移除配方书的 NBT 数据与配方解锁机制。\n  - 对于使用原版客户端的玩家，仍会将其视为所有配方均已解锁来处理。\n\n在**客户端**使用，且已安装 [**JEI**](https://modrinth.com/mod/jei)、[**REI**](https://modrinth.com/mod/rei) 或 [**EMI**](https://modrinth.com/mod/emi) 时：\n- **配方浏览器集成**\n  - 配方书现在会从你选择的常用配方浏览器中自动填充条目。\n- **模组兼容支持**\n  - 配方分类现根据物品组（创造模式标签页）进行填充，布局更加清晰有序，尤其适合模组配方。\n  - 兼容绝大多数支持配方浏览器的模组。\n- **隐藏浏览器界面**\n  - 永久隐藏配方浏览器界面，同时保留模组的其余功能。\n  - 通用物品信息（例如非标准合成获得的物品）可通过背包中的配方书查看。\n\n\n### 替代方案\n如果你只是想彻底移除配方书，我推荐使用 [**Not Enough Recipe Book**](https://modrinth.com/mod/notenoughrecipebook)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "791e52022b018ecd",
+  "content": "\n\n**CustomModelDataViewer** 是一款輕量級模組，為所有使用新版 1.21.4+ `CustomModelDataComponent` 的物品新增一個專屬的創造模式分類頁。它會自動偵測任何引用 `customModelData` 字串的物品（如範例 `.json` 程式碼片段所示），並將它們集中整理於單一位置。這讓資源包作者與模組開發者能更輕鬆地快速檢視、測試及管理自訂物品模型，無需再於標準分類頁或多個檔案中逐一搜尋。\n\n\n範例物品：\n\n`assets/minecraft/items/brown_dye.json`\n```json\n{\n    \"model\": {\n      \"type\": \"minecraft:select\",\n      \"property\": \"minecraft:custom_model_data\",\n      \"cases\": [\n        {\n            \"when\": \"old_hat\",\n            \"model\": {\n              \"type\": \"minecraft:model\",\n              \"model\": \"skyrealm:item/hats/old_hat\",\n              \"tints\": [\n                {\n                  \"type\": \"minecraft:custom_model_data\",\n                  \"default\": 15702017\n                }\n              ]\n            }\n          }\n      ],\n      \"fallback\": {\n        \"type\": \"minecraft:model\",\n        \"model\": \"minecraft:item/brown_dye\"\n      }\n    }\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

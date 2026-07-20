@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c30657ea60e69ea8",
+  "content": "\n\n允许在击败伊格尼斯（Ignis）后，使 [L_Ender's Cataclysm's](https://modrinth.com/mod/l_enders-cataclysm) 的点燃狂战士在 [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses) 中生成，从而实现这两个模组之间的兼容。\n\n（此功能仅通过将“更好要塞”结构添加到 Cataclysm 的 `#berserker_spawn` 标签中即可实现。）\n\n当然，需要 L_Ender's Cataclysm、YUNG's Better Nether Fortresses 及其依赖项。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

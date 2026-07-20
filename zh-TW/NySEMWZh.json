@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8f6b8ffedc6aad06",
+  "content": "\n\n此伺服器端 Forge 擴充功能會使 Dragon Mine Z 的氣（ki）方塊破壞行為遵循 FTB Chunks 的領地主張。\n\n若區塊已被佔領，且 FTB Chunks 已關閉「允許爆炸傷害」選項，Dragon Mine Z 的氣攻擊便不會破壞該處的方塊。\n\n本擴充功能專為同時使用 Dragon Mine Z、FTB Chunks 與 FTB Teams 的伺服器所設計。\n\n請見諒我的程式撰寫技術尚屬初階，若發現任何不相容問題，我會盡全力進行修復。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

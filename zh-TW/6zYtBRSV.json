@@ -1,0 +1,6 @@
+{
+  "bodyHash": "18611523d1a6daaf",
+  "content": "\n\n# 資訊\n這是另一個排行榜外掛，可從不同來源儲存數值。輕量與高效能是它的核心特色，其他功能則可在其他外掛中找到。\n\n# 開發緣由\n我曾經使用過許多排行榜外掛。雖然有些符合需求，但問題在於它們要不就是狀態不佳（效能差、導致伺服器當機等），要不就是付費且功能臃腫。因此，我為自己的伺服器開發了這套外掛，隨後決定在此分享。\n\n# 功能特色\n- 適合各種規模的伺服器\n- 輕量級\n- 排行榜\n- 佔位符支援\n- 支援 YAML、JSON、SQLITE 與 MYSQL 儲存格式\n\n# 統計資料\n\n[![Topper stats](https://bstats.org/signatures/bukkit/Topper.svg)](https://bstats.org/plugin/bukkit/Topper/14938)\n\n# 額外推薦\n\n[![TimedTopper](https://topper-mc.github.io/Assets/timedtopper/card/card-promo.png)](https://modrinth.com/plugin/timedtopper) [![GroupTopper](https://topper-mc.github.io/Assets/grouptopper/card/card-promo.png)](https://modrinth.com/plugin/grouptopper)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

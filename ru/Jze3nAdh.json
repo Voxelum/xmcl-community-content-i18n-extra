@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mIgirKU4JL0=",
-  "content": "# Что это за мод?\nЕсли вы когда-либо нажимали кнопку «Обновить» в списке серверов и замечали, что обновление не успевает за изменениями, этот мод именно для вас.\n\nЭтот очень простой мод «исправляет» эту проблему, убирая ограничение на количество потоков для серверного пингера, так что вы сможете продолжать обновлять без перебора потоков.\n\n## Демо-видео\n<iframe width=\"280\" height=\"150\" src=\"https://www.youtube-nocookie.com/embed/EjWAm51IRMw\" title=\"Плеер видео с YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n",
+  "bodyHash": "850b126ace29f6ee",
+  "content": "# Что это за мод?\nЕсли вы когда-нибудь нажимали кнопку «Обновить» в списке серверов и замечали, что она не успевает обрабатывать запросы, этот мод для вас.\n\nЭтот очень простой мод «исправляет» эту проблему, убирая ограничение на количество потоков для пинга серверов, так что вы можете продолжать обновлять список без исчерпания доступных потоков.\n\n## Видео-демонстрация\n<iframe width=\"280\" height=\"150\" src=\"https://www.youtube-nocookie.com/embed/EjWAm51IRMw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

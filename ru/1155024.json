@@ -1,0 +1,6 @@
+{
+  "bodyHash": "20c84794b1bc311b",
+  "content": "\n\n<h2 style=\"text-align:center\"><strong>Версия CTM 1.20.1</strong></h2>\n<p style=\"text-align:center\"><strong>Эта версия неофициальная, поддержка осуществляется в моём&nbsp;<a href=\"https://discord.gg/m4EHeRjfZ9\" target=\"_blank\" rel=\"nofollow\">Discord</a></strong></p>\n<h2 style=\"text-align:center\"><strong>Временная несовместимость с ModernFix!!:</strong></h2>\n<h2 style=\"text-align:center\"><strong>добавьте <span style=\"text-decoration:underline\">mixin.perf.dynamic_resources.ctm=false</span> в конец файла конфигурации modernfix</strong></h2>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:left\">Позволяет ресурспакам добавлять соединённые текстуры, эмиссионное свечение и многое другое. Ресурспак, добавляющий эти эффекты в ванильную игру и некоторые моды, можно найти&nbsp;<a href=\"https://minecraft.curseforge.com/projects/ctp\" target=\"_blank\" rel=\"nofollow\">здесь</a>.</p>\n<p>Подробнее см. на&nbsp;<a href=\"https://github.com/Chisel-Team/ConnectedTexturesMod/wiki\" target=\"_blank\" rel=\"nofollow\">вики</a>.</p>\n<p><strong>Благодарности: команде Chisel и tterrag1098. Данный форк основан на версии CTM 1.20.4</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

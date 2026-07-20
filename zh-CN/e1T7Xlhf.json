@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f60a0f60a64c0a10",
+  "content": "\n\n[![Discord](https://img.shields.io/discord/176190900945289237?style=flat-square&logo=discord&logoColor=ffffff&label=Discord)](https://discord.gg/ykHRhmC)  \n![](https://github.com/FirEmerald/FECore/raw/main/logo.png)\n\nFirEmerald 系列模组迁移至 Minecraft 1.18.2 及更高版本的核心依赖项\n\n功能特性：\n\n* 简洁的网络通信代码\n* 便捷的方块实体 GUI 处理\n* 更动态的 GUI（包含嵌套组件）\n* 可配置的包围盒形状\n* 基础兼容性模块系统\n* 加权分布\n* 额外的 Codec 选项\n* 数字键伪映射表（用于提升查询性能并保证不可变性）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

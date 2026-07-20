@@ -1,0 +1,6 @@
+{
+  "bodyHash": "04d9b709112d34f0",
+  "content": "# SPBR 镜像补丁\n这是 [SPBR](https://modrinth.com/resourcepack/spbr) 的补丁包  \n更改了方块拼图（jigsaw block）的材质，并将其 PBR 效果转换为镜像。  \n你可以使用光线追踪着色器进行反射等光学实验！  \n**本补丁包基于 LabPBR 标准制作**  \n若要使用此补丁包，你需要一个支持 LabPBR 的着色器。  \n并且应将其放置在 SPBR 主补丁包的 _上方_。  \n![Mirror](https://cdn.modrinth.com/data/cached_images/f321582549c59c4da3e95051916802c9fa7c356f.jpeg)  \n_本补丁包可单独使用。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

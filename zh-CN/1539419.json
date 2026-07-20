@@ -1,0 +1,6 @@
+{
+  "bodyHash": "92f87ab56d580e34",
+  "content": "\n\n<div>\n<h1><strong><span>DAOT Sable Compat</span></strong></h1>\n</div>\n<div>\n<div>&nbsp;</div>\n</div>\n<div>\n<div><span>DAOT Sable Compat 是</span><strong><span>Danny's Aot</span></strong><span> 与 </span><strong><span>Sable 物理引擎</span></strong><span>（也被 Aeronautics 等模组使用）之间的性能与稳定性桥梁。它解决了在使用 ODM 立体机动装置靠近或位于基于物理的子层级时产生的关键物理冲突。</span></div>\n</div>\n<div>\n<div>&nbsp;</div>\n</div>\n<div>\n<h2><strong><span>-- 前置要求 --</span></strong></h2>\n</div>\n<div>\n<div><strong><span>Danny's Aot (DAOT)</span></strong></div>\n</div>\n<div>\n<div><strong><span>Sable<br></span></strong></div>\n<div><span>以及能够运行连接器，例如：<strong>Sinytra Connector&nbsp;</strong></span>（或其他）</div>\n</div>\n<div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div>如果遇到传送回原地的异常，可通过以下命令禁用移动检测：<strong>/daotsable movementcheck &lt;true/false&gt;</strong></div>\n<div>&nbsp;</div>\n<div>如有任何 Bug 或建议，欢迎随时联系我。</div>\n</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

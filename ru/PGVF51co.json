@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3549e3e75c581c92",
+  "content": "\n\n## [Let's Do Addon] Жидкости\nЭто дополнение к серии модов Let's Do добавляет жидкости для дополнительной совместимости и удобства использования в модифицированных сборках.\n\nВ настоящее время доступны следующие жидкости:\n* Vinery: все виды виноградного сока\n* NetherVinery: все виды виноградного сока\n* HerbalBrews: все виды чаёв\n* Bakery: все виды джемов\n* Meadow: молоко, сычужный фермент\n\nДоступные рецепты:\n* Миксер (Create):\n  * 3 винограда для получения виноградного сока (Vinery)\n  * Аналогичен рецепту чайника, но использует жидкости вместо предметов (HerbalBrews)\n  * Сычужный фермент (Meadow)\n* Опустошение/Наполнение (Create):\n  * Бутылки с виноградным соком (Vinery)\n  * Чаи (HerbalBrews)\n  * Джемы с использованием банок и рулетов с джемом (Bakery)\n  * Ведро молока и сычужный фермент (Meadow)\n* Прессование (Create):\n  * Сыры (Meadow)\n\n\nЗапланированные функции:\n* Рецепты и жидкости для коктейлей и молочных коктейлей от Beachparty\n* Рецепты и жидкости для фляг HerbalBrews\n\n![Требуется Botarium](https://cdn.modrinth.com/data/cached_images/2b98d909f1e91d4a69f1d800b5bead87c855fba4.png)\n![Требуется Ressourceful Lib](https://cdn.modrinth.com/data/cached_images/958859fc0faea10dd791ff02b81e986b1a0de8b1.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

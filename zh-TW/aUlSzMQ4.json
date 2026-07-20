@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33b9be0fbce23e2a",
+  "content": "\n\n# Riichi Mahjong\n\nRiichi Mahjong 為 **NeoForge** 與 **Fabric** 的 Minecraft 加入了完整可遊玩的立直麻雀牌桌。\n\n## 功能特色\n\n- 完整的立直麻雀規則集，包含所有役種與特定規則（甚至包含搶槓）\n- 規則預設（雀魂 / 天鳳 / WRC）\n- 1~4 人模式 - 空位會由電腦玩家填補\n- 麻雀祭壇：透過打麻雀得分來製作物品（這是什麼？）\n- 役生成器：透過打麻雀產生 RF 能量（這是什麼？）\n- 假麻雀：另一款出於某些原因被命名為麻雀的遊戲\n- FOV 校正器：在該區域內強制固定視野範圍\n- 成就\n\n## 依賴項目\n\n- Minecraft 1.21.1\n- NeoForge 21.1.215+ 或 Fabric（載入器 0.19.2+、Fabric API 0.116.11+）\n- Architectury API 13.0.8+\n- Fabric 版：Team Reborn Energy 4.1.0（已隨模組打包）\n\n配方已針對原版遊戲平衡調整，無需額外依賴。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

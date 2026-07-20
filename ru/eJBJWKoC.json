@@ -1,6 +1,6 @@
 {
-  "bodyHash": "urPQtwdmS78=",
-  "content": "Thaumcraft Aspect Creator — это мод для Minecraft 1.12, созданный на основе Forge, который позволяет загружать пользовательские аспекты, определённые в файлах, в Thaumcraft BETA 26.\n\nОсновное назначение мода — помощь создателям модпаков; он не предоставляет никаких предметов с пользовательскими аспектами и не предназначен для их использования. Для расширения функциональности потребуются другие моды, такие как Crafttweaker или Modtweaker.\n\nНеобходимо иметь Thaumcraft BETA 26, а также настоятельно рекомендуется установить Just Enough Items / Had Enough Items и Resource Loader.\n\nДля получения подробного руководства прочитайте сгенерированный конфигурационный файл или посетите вики: https://github.com/michelegargiulo/ThaumcraftAspectCreator/wiki",
+  "bodyHash": "dfad1a133f3b5a79",
+  "content": "\n\nThaumcraft Aspect Creator — это мод на Forge для Minecraft 1.12, который позволяет загружать аспекты, заданные в пользовательских файлах, в Thaumcraft BETA 26.\n\nМод в первую очередь ориентирован на создателей модпаков и не добавляет в игру предметы с нестандартными аспектами, а также не предоставляет им никакого применения. Для добавления функционала потребуются другие моды, такие как Crafttweaker / ModTweaker.\n\nТребуется Thaumcraft BETA 26, настоятельно рекомендуется установка Just Enough Items / Had Enough Items и Resource Loader.\n\nПодробное руководство можно найти в сгенерированном файле конфигурации или на странице вики: https://github.com/michelegargiulo/ThaumcraftAspectCreator/wiki",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

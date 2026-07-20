@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d98f00a2086503fa",
+  "content": "\n\n<p># InvincibleTimeManager</p>\n<p>Мод для Minecraft 1.19.4 на Fabric, создающий и управляющий сгенерированным датапаком для тега типов урона `minecraft:bypasses_cooldown`.</p>\n<p>## Команды</p>\n<p>```mcfunction<br>/InvincibleTimeManager<br>/InvincibleTimeManager Version<br>/InvincibleTimeManager help<br>/InvincibleTimeManager reset<br>/InvincibleTimeManager add &lt;тип_урона&gt;<br>/InvincibleTimeManager delete &lt;тип_урона&gt;<br>/InvincibleTimeManager list<br>/InvincibleTimeManager Reload<br>```</p>\n<p>Также зарегистрирован псевдоним в нижнем регистре `/invincibletimemanager`.</p>\n<p>## Создаваемые файлы</p>\n<p>Датапак мира:</p>\n<p>```text<br>&lt;мир&gt;/datapacks/invincibletimemanager/<br>&nbsp; pack.mcmeta<br>&nbsp; data/minecraft/tags/damage_type/bypasses_cooldown.json<br>```</p>\n<p>Кэш типов урона:</p>\n<p>```text<br>.minecraft/moddata/invincibletimemanager/damage_types.json<br>```</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

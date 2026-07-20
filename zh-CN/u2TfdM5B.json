@@ -1,0 +1,6 @@
+{
+  "bodyHash": "847239406eeee989",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/d9gDKZacyHo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe># Vividness\n\n让你的 Minecraft 世界焕发更加鲜艳生动的色彩！\n\n## ✨ 什么是 Vividness？\n\nVividness 是一款轻量级的色彩分级着色器包，能在几乎不占用性能的情况下让你的 Minecraft 世界更加生动多彩。它通过更明亮的天空、更鲜艳的草地和更深邃的水色，增强了原版游戏的视觉体验。\n\n## 🎨 功能特点\n\n- **+8% 亮度** - 视野更清晰\n- **+25% 饱和度** - 色彩更鲜艳\n- **+12% 对比度** - 画面更锐利\n- **强化蓝色调** - 天空更明亮，海洋更深邃\n- **强化绿色调** - 草地与植被更生机勃勃\n- **暖色温** - 自然舒适的视觉效果\n\n## 🚀 性能表现\n\n- **极度轻量** - 仅进行色彩分级，无重型特效\n- **对 FPS 无影响** - 在大多数系统上流畅运行\n- **兼容大多数资源包**\n\n## 📦 环境要求\n\n- Minecraft Java 版 1.16+\n- **OptiFine** 或 **Iris Shaders**\n\n## 🔧 安装方法\n\n1. 下载着色器包\n2. 将 `.zip` 文件放入 `.minecraft/shaderpacks/` 目录\n3. 在游戏设置中进入“视频设置” > “着色器”，选择“Vividness”\n\n## ⚙️ 自定义设置\n\n你可以通过编辑 `shaders/composite.fsh` 文件来调整色彩分级参数：\n- 亮度：`adjustBrightness(color, 1.08)`\n- 饱和度：`adjustSaturation(color, 1.25)`\n- 对比度：`adjustContrast(color, 1.12)`\n\n## 📄 许可证\n\nMIT 许可证 - 免费使用与修改\n\n---\n\n享受更加鲜艳生动的 Minecraft 之旅！🎮✨",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

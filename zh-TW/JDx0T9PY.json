@@ -1,6 +1,6 @@
 {
-  "bodyHash": "fDsvCOV0kGI=",
-  "content": "針對 [EpicFight](https://modrinth.com/mod/Epic-Fight) 與 [第一人稱模組](https://modrinth.com/mod/first-person-model) 的一個小型相容性修補。\n\n**修復內容：**\n\nEpicFight 會刻意停用第一人稱模組，它註冊了自己的 ActivaionHandler，每當玩家處於 EpicFight 模式時，就會阻止第一人稱的身體渲染。此外，玩家的頭部與帽子網格在第一人稱視角下並未被隱藏，導致它們會穿入攝影機。\n\n**本模組透過混入（Mixin）修復了這兩個問題：**\n\n- 取消 EpicFight 的 ActivationHandler 註冊，使第一人稱模組不再被壓制，且動畫化的第一人稱身體能正確渲染。\n- 注入 EpicFight 的玩家渲染器中，正確隱藏第一人稱視角下的頭部與帽子網格，防止攝影機穿模。\n\n**需求：**\n- EpicFight\n- 第一人稱模組\n\n**可選：**\n- 3D 皮膚圖層",
+  "bodyHash": "8f1c7ee514a67416",
+  "content": "\n\n適用於 [EpicFight](https://modrinth.com/mod/Epic-Fight) 與 [First Person Model](https://modrinth.com/mod/first-person-model) 模組的小型相容性補丁。\n\n**修復內容：**\n\nEpicFight 會註冊自己的 ActivationHandler 來刻意停用 First Person Model 模組，該處理器會在玩家處於 EpicFight 模式時阻擋第一人稱身體的渲染。此外，玩家頭部與帽子的模型在第一人稱視角下並未隱藏，導致它們會穿模進入相機視野。\n\n**本模組透過 Mixin 修復了上述兩個問題：**\n\n- 取消 EpicFight 的 ActivationHandler 註冊，讓 First Person Model 不再被抑制，並正確渲染動畫第一人稱身體模型\n- 注入 EpicFight 的玩家渲染器，在第一人稱視角下正確隱藏頭部與帽子模型，防止穿模進入相機視野\n\n**需求：**\n- EpicFight\n- First Person Model\n\n**選用：**\n- 3D Skin Layers\n\n**本模組的開發獲得 Minecraft 主機服務 minely.net 的支援**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

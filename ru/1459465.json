@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5c3eae20deeb9cb8",
+  "content": "\n\n<h1>Icarus-Transmog Compat</h1>\n<p>Мод для совместимости, позволяющий отображать крылья Icarus с внешним видом из мода Transmog.</p>\n<h2>Описание</h2>\n<p>Этот мод объединяет <a href=\"https://www.curseforge.com/minecraft/mc-mods/icarus\" rel=\"nofollow\">Icarus</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/transmog\" rel=\"nofollow\">Transmog</a>.\nПри применении внешнего вида Transmog к предмету крыльев Icarus, они будут отображаться в игре с использованием трансмогированной модели и текстуры вместо стандартного вида Icarus.</p>\n<h2>Зависимости</h2>\n<ul>\n<li>Fabric Loader</li>\n<li>Fabric API</li>\n<li>Icarus</li>\n<li>Transmog</li>\n</ul>\n<h2>Установка</h2>\n<ol>\n<li>Скачайте последнюю версию.</li>\n<li>Поместите файл <code>.jar</code> в папку <code>mods</code>.</li>\n<li>Убедитесь, что все зависимости установлены.</li>\n</ol>\n<h2>Лицензия</h2>\n<p>Этот проект распространяется под лицензией MIT.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

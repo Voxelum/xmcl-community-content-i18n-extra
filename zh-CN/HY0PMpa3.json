@@ -1,0 +1,6 @@
+{
+  "bodyHash": "22946e274634de89",
+  "content": "\n\n在《丰收季》中，长期以来一直存在一个问题：无法将相同的食材放入同一个槽位。这使得自动化制作食物变得困难。本模组正是为了解决这一问题而开发的。（[原始问题](https://github.com/vectorwing/FarmersDelight/issues/26)）\n\n此外，通过在配方匹配前提取相同逻辑，略微提升了性能。\n\n**1.21 新增：** 不再在闲置状态下进行不必要的配方匹配，从而提升了性能。\n\n[![有兴趣支持我及模组开发吗？BisectHosting 是完美的解决方案。新客户可使用促销码“snownee”在订购第一个月游戏服务器时享受 25% 折扣。凭借全天候支持和快速响应时间，您可以期待获得满足所有游戏需求的一流服务。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

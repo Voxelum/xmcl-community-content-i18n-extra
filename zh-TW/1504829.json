@@ -1,0 +1,6 @@
+{
+  "bodyHash": "02a7f3a607798537",
+  "content": "\n\n<h1>Pure NoFog</h1>\n<p><strong>Pure NoFog</strong> 是一款輕量級的 Minecraft 資源包，能完全消除遊戲內的所有霧效，讓您在任何時候都能擁有清晰且無遮蔽的世界視野——無需模組、不影響效能、設定零麻煩。</p>\n<p>無論您是在探索洞穴、穿梭於地獄（Nether），或是單純想要更簡潔的畫面，Pure NoFog 都能確保您的視野在任何距離下都保持清晰通透。</p>\n<h2>運作原理</h2>\n<p>Pure NoFog 會覆寫 Minecraft 內建的霧氣著色器（shaders），直接還原每個片段的原始顏色，而不套用任何霧氣混合效果。它採用多重覆蓋結構，以確保與不同版本的 Minecraft 渲染 API 相容，因為各個版本處理霧氣 uniform 變數的方式各不相同。</p>\n<h2>相容性</h2>\n<p>Pure NoFog 可在多種環境設定下正常運作，且無需進行額外配置。</p>\n<p><strong>模組載入器與客戶端：</strong></p>\n<ul>\n<li>原版（無模組）— 完全支援</li>\n<li>模組 - 完全支援</li>\n<li>Fabric — 完全支援</li>\n<li>Forge / NeoForge — 完全支援</li>\n<li>Sodium — 完全支援</li>\n<li>Lithium — 完全支援</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

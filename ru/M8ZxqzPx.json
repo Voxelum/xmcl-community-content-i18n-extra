@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5194727adfa1f78",
+  "content": "\n\nСнаряды картофельной пушки теперь могут ломать блоки!\n\nСам мод не наделяет ни один снаряд способностью ломать блоки, но ВЫ можете добиться этого, используя тип `cdb:break_block` в объекте `on_block_hit`.\n\nВы также можете увидеть пример датапакета [здесь](https://github.com/StarmanMine142/cdb/tree/example-datapack) и вики [здесь](https://github.com/StarmanMine142/cdb/wiki).\n\n**хе-хе, это мой Jarona**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

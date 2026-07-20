@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c09594ca7be55fab",
+  "content": "\n\n# 简易方块物理\n为你的游戏添加了简单、可配置的递归方块坍塌逻辑（即方块物理）。它无需进行区块扫描或复杂计算，而是通过在附近方块被破坏时评估方块的“支撑”状态，采用一种“功能性”递归搜索方法来实现。\n\n**!警告！**\n请自行承担风险将其添加到世界中，因为它（显然）可能会摧毁你的建筑！\n\n### 功能特性\n- 壮观且危险的塌方效果\n- 符合现实的建造限制\n- 基于需求的物理更新以降低性能开销\n- 高度可自定义的配置选项，满足你的个性化需求\n- 防止建造空中基地，迫使玩家应对地面上的情况\n  - 与添加生物破坏方块行为的模组（如 [Improved Mobs](https://modrinth.com/mod/improved-mobs)）搭配效果极佳\n\n### 运行机制\n若方块在以其支撑强度（可配置，默认基于硬度）决定的穿透方块搜索范围内找不到支撑方块（Y轴更低的位置），将会掉落或破碎。方块会在以下情况下被“检测”：放置时、踩踏时、相邻方块被破坏导致更新时，或被其他方块选为支撑时（此行为的可配置“迭代次数”默认为4次）。\n\n被破坏的方块会转化为掉落方块实体（类似沙子，可配置），随后下落、可能破碎并散落在地面上，持续翻滚直至找到合适的位置停稳。发生时请务必注意不要站在下面！\n\n### 更新日志\n1.1 - 优化了性能，添加了浮力开关以防止船只下沉，并加入了重量机制以解决直接堆叠堵塞的问题，这将干扰搭柱行为并进一步减少空中基地的建造。现已同时移植至 Neoforge 平台！\n\n1.2 - 添加了滑动概率百分比的配置项，控制下落方块滑动的频率（若可行，默认概率为80%）。此外新增了“反转不可破坏方块列表”的选项，让你可以改为仅让选中的方块受物理效果影响！\n\n感谢 AsianHalfSquat 的宣传与推荐，激励我推出这些新功能！\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/8fwC4CzRDmE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

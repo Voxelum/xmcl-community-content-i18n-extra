@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c77241dccaf7f96",
+  "content": "\n\nGlyph 模組是一款 Minecraft 自訂字型產生器，可透過資源包更換字型。  \n自動將 TTF 轉換為 Minecraft 資源包。  \n\n一款能自動將 TTF 轉換為資源包的 Minecraft 自訂字型產生器。\n\n無需手動編輯字型 JSON 檔案，即可輕鬆建立 Minecraft 自訂字型。  \n\n![這張圖片展示了在 Minecraft 截圖中，透過 Glyph 產生的資源包套用自訂字型後的顯示效果。](https://cdn.modrinth.com/data/cached_images/c99aeb75b1d66fcd8b1fabe01ee5d1e9929e4c0c_0.webp)\n\nGlyph 會自動生成用於更換 Minecraft 字型的資源包；當你選取想要的字型時，它會自動修改 default.json。 \n套用該資源包即可立即使用最新版本。\n\n您可以匯入 TTF 檔案。\n\n### 如何使用 Glyph 模組：\n若您已上傳 **TTF 字型**，請前往「設定」，然後進入「資源包」，  \n並套用 `glyph_fonts`\n資源包。\n\n### 為什麼要使用 Glyph？\n支援將 TTF 轉換為 Minecraft 自訂字型資源包。  \n建立 Minecraft 自訂字型無需手動製作資源包或編輯 JSON。  \nGlyph 可利用資源包將舊版遊戲的字型匯入至最新版本。  \n如前所述，此模組非常輕量，因為它僅透過建立資源包來新增字型，並藉由修改 default.json 來變更字型。因此，除非有其他模組大幅改寫字型渲染機制，否則與其它模組發生衝突的機率很低。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

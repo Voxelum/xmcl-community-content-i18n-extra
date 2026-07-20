@@ -1,6 +1,6 @@
 {
-  "bodyHash": "nvkaAtujOcA=",
-  "content": "# PixelCringe\nPixelmon 有**非常多**讓我感到煩躁的地方，所以我製作了這個模組\n\n## 目前修補內容\n### 畫面\n* 停用逃脫選單畫面修改\n* 停用世界載入畫面修改\n* 停用伺服器連線畫面修改\n* 停用主選單畫面修改\n* 停用多人遊戲畫面修改\n### Discord\n* 強制停用 Discord RPC\n### 雜項\n* 停用遊戲圖示替換\n* 停用 Pixelmon 伺服器推廣（若已存在伺服器則不會移除）\n\n## 設定\n使用 [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) 或 [Forge Config Screens](https://modrinth.com/mod/forge-config-screens) 在遊戲中存取設定選單\n\n## 支援版本\n* 1.16.5：已完成\n* 1.20.1：已完成\n* 1.20.2：已完成\n* 1.21.1：已完成\n* <=1.12.2：暫無計畫",
+  "bodyHash": "1b14ff77cb6af7c1",
+  "content": "# PixelCringe\nPixelmon 中有很多让我感到困扰的内容，因此我制作了此模组。\n\n## 当前补丁\n### 屏幕界面\n* 禁用退出菜单屏幕修改\n* 禁用世界加载屏幕修改\n* 禁用服务器连接屏幕修改\n* 禁用主菜单屏幕修改\n* 禁用多人游戏屏幕修改\n### Discord\n* 强制禁用 Discord RPC\n### 其他\n* 禁用游戏图标替换\n* 禁用 Pixelmon 服务器推广（不会移除您已添加的服务器）\n\n## 配置\n使用 [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) 或 [Forge Config Screens](https://modrinth.com/mod/forge-config-screens) 在游戏内访问配置菜单\n\n## 支持版本\n* 1.16.5：已完成\n* 1.20.1：已完成\n* 1.20.2：已完成\n* 1.21.1：已完成\n* <=1.12.2：暂无计划",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

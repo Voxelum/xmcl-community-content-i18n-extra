@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ccfa06612537487e",
+  "content": "\n\n像素模组为 Minecraft 添加了像素方块。\n# 单色像素\n这些像素方块的工作方式与普通红石灯类似，但仅会发出红、绿或蓝色的光。\n合成：\n![rc](https://cdn.modrinth.com/data/cached_images/09cb29eeb03fcf2ae5f052a8b1593be02c953413.jpeg)\n\n![gc](https://cdn.modrinth.com/data/cached_images/58363f6c19b2eb2c5ca0f1f0fbff75a966382432.jpeg)\n\n![bc](https://cdn.modrinth.com/data/cached_images/3df2e6908755ed9731046be000e202014ebfdfc7.jpeg)\n\n# RGB 像素\n该像素具有特殊的颜色机制。在信号强度 1 到 5 时，发出红光。在信号强度 5 到 10 时，发出绿光。在信号强度 10 到 15 时，发出蓝光。\n合成：\n![rgbc](https://cdn.modrinth.com/data/cached_images/69d17f2ea2cc47b08ad0254dd73260e14523d655.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

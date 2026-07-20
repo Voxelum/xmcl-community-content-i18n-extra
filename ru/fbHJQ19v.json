@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b2b96b67bc3b864",
+  "content": "\n\nДобавляет систему интеграции AE2 и Replication.\n\nДобавлен блок AE2-Replication Bridge, который позволяет AE2 считывать данные сети Replication.\n\n \n\nВ частности: \n\n*   Позволяет отображать количество материи Replication в терминалах Applied Energistics 2.\n*   Даёт возможность отправлять запросы Replication в системы AE2.\n*   Позволяет автоматизировать работу дезинтеграторов с помощью шаблонов обработки.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

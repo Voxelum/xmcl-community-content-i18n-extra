@@ -1,0 +1,6 @@
+{
+  "bodyHash": "084ca4c76b086dbc",
+  "content": "\n\n# adventure-platform-mod\n\nИнтеграция библиотеки [adventure](https://github.com/KyoriPowered/adventure) с *Minecraft: Java Edition* для систем моддинга [Fabric](https://fabricmc.net) и [NeoForge](https://neoforged.net).\n\nЭтот мод не выполняет никаких функций самостоятельно, но требуется другим модам. Если вы ищете `adventure-platform-fabric` или `adventure-platform-neoforge`, то вы попали по адресу!\n\nРазработчикам: ознакомьтесь с [документацией](https://docs.papermc.io/adventure/platform/modded/) для получения информации об использовании и зависимостях данного проекта и основной библиотеки `adventure`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

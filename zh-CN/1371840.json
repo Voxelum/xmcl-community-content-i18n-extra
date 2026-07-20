@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1687279354aed80f",
+  "content": "\n\n<p>Neon Lamps 模组添加了多种颜色且可合成的明亮霓虹灯方块，适用于招牌、城市景观、实验室以及现代风格建筑。灯具完全支持红石控制，并包含反向变体（激活红石信号时灯具会关闭）。如需实现真正的彩色光照效果，请安装 Complementary Shaders 并搭配 Euphoria Patcher。两者同时启用后，灯具会将彩色光线投射到附近的方块上，营造出生动的场景效果。</p>\n<p>注意事项<br>- 彩色光照为可选功能，需依赖 Complementary Shaders 与 Euphoria Patcher。</p>\n<p>- 若未安装上述组件，灯具仍会发出普通光线并保持全部功能正常。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

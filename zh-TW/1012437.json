@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0db72dc3bed703eb",
+  "content": "\n\n<p>更新內容：</p>\n<p>+ 支援 1.19.2 版本<br>+ 不再使用 MCreator 開發</p>\n<p>&nbsp;</p>\n<p>你是否為了追求最高效的食物使用方式而感到煩惱？<br>吃地牢裡的獎勵食物是否讓你覺得很浪費？<br>手邊明明有好幾種強力食物，卻捨不得用來補滿狀態條？</p>\n<p>這是我為了自己製作的一款模組，提供一個可隨時動用的飢餓值與飽食度額外儲存池，會隨著遊戲刻逐漸消耗以補滿你的狀態條。雖然這項功能不算新穎或獨特，但我相信世界上不可能只有我一人需要它。</p>\n<p>其運作方式是當食用食物時，計算超出當前需求的飢餓值／飽食度恢復量並將差額儲存起來。每隔幾個遊戲刻，系統會檢查你是否缺乏飢餓值或飽食度；若有缺額，則會從儲存池中扣除一點來補滿對應的狀態條。&nbsp;</p>\n<p>模組設定現已改為透過伺服器設定 TOML 檔案進行管理，而非遊戲規則。建議安裝 Configured 等輔助模組以便於輕鬆操作設定。</p>\n<p>靈感來自 Fabric 模組 <a style=\"background-color:rgb(13, 13, 13)\" href=\"https://www.curseforge.com/minecraft/mc-mods/saturation-plus/download/5189609\" rel=\"nofollow\">Saturation Plus</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

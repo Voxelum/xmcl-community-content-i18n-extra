@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5d66baee6c6b88b4",
+  "content": "这是 [Create: Connected by Lysine](https://modrinth.com/mod/create-connected) 的 Fabric 移植版。\n所有权利归 Lysine 所有。\n\n## ✅ 完整移植 —— 已实现原版 1.1.13 版本的所有功能！\n\n其中包括：\n- 所有动力方块（齿轮箱、离合器、剪切销、制动器、动力桥、动能电池、曲柄轮）\n- 所有仿制方块（半砖、方块、梁、垂直台阶、楼梯、栅栏、栅栏门、墙、面板）\n- 物品筒和流体容器\n- 机械组行为和挂载存储\n- 序列脉冲发生器和控制芯片\n- 链接发射器和链接按钮\n- 配置和功能开关系统\n- 风扇催化剂（所有类型）\n- ponder 动画、合成表、进度和数据生成\n- 模组兼容（Copycats+、Additional Placements）\n- 专用服务器支持\n\n## 用法\n使用条件与原模组相同。\n\n## 问题反馈\n针对 Fabric 特有的 bug，请在此移植版的仓库中报告。\n对于 Forge 版本上也存在的 bug，请在[上游仓库](https://github.com/hlysine/create_connected)中报告。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

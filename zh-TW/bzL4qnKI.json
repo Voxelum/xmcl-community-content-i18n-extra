@@ -1,0 +1,6 @@
+{
+  "bodyHash": "22041df257a14320",
+  "content": "\n\n# 高舉燈籠\n**「Hold Up Lanterns」是一款資源包，會將第三人稱視角下手持的燈籠模型改為方塊模型，並調整位置以完美契合你的握姿。**\n\n由於模型與紋理皆未變動，大多數資源包應可與 Hold Up Lanterns 正常搭配使用。\n\n\n強烈建議搭配 [Dynamic Light](https://modrinth.com/mod/lambdynamiclights) 模組，以及 [Hold My Items](https://modrinth.com/mod/hold-my-items)。\n\n預設的燈籠定位是為 [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) 所設計，但若您使用其他玩家動畫資源包（如 [Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)），亦可透過 [Respackopts](https://modrinth.com/mod/respackopts) 設定替代位置。\n\n是否啟用與 [Item Interactions](https://modrinth.com/resourcepack/item-interactions) 的相容性，也能透過 [Respackopts](https://modrinth.com/mod/respackopts) 自由切換。\n\n![燈籠手持模型展示](https://cdn.modrinth.com/data/cached_images/c84cc2e271a87e623fe8cbad4d9fd1f76452ef76_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

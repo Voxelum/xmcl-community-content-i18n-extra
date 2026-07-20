@@ -1,0 +1,6 @@
+{
+  "bodyHash": "561b29d77a09c6f6",
+  "content": "\n\n![PSX-Core 著色器在雪林中的效果](https://cdn.modrinth.com/data/cached_images/3000b2c3fed4dc936b1e7a2ba11024c161788c4a.png)\n\n一款重現 PlayStation 1 視覺風格的 Minecraft 著色器。功能包含：\n- 有序抖色\n- 每通道 5 位元色彩量化\n- 帶有階層光照的高洛德著色法\n- 頂點吸附\n- 仿射紋理映射\n- 霧氣（詭異氛圍）\n\n上述功能大多可透過著色器設定進行調整！目前已在 Iris 與 1.21.11 上完成全面測試（舊版亦可運作，若遇問題請回報）。\n\n# 預覽\n> 更多內容請前往畫廊頁面查看！\n\n啟用霧氣（預設）：\n![PSX-Core 著色器在開啟霧氣的雪林中](https://cdn.modrinth.com/data/cached_images/0f21d7b591813190785ae8a9bf188a4e06af9617.png)\n\n關閉霧氣：\n![PSX-Core 著色器在關閉霧氣的雪林中](https://cdn.modrinth.com/data/cached_images/8a05a2c873c708fb0f93c6d95b531e3d6a359396.png)\n\n洞穴場景：\n![PSX-Core 著色器在略暗的洞穴中](https://cdn.modrinth.com/data/cached_images/d8a4375296e94cc91df4696d64946f8c6f855ceb.png)\n\n> 歡迎整合包採用此著色器，但僅限將其作為依賴項加入您的整合包。請勿重新上傳或重新打包此著色器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

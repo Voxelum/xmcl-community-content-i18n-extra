@@ -1,6 +1,6 @@
 {
-  "bodyHash": "xymJiY4AEdY=",
-  "content": "## 說明\n只要實體擁有可控制它的乘客（例如騎在馬上的玩家），該實體就能穿越樹葉方塊。**這並不會讓樹葉完全失去碰撞效果。**\n\n除此之外，只要你還能控制載具實體，相機就會忽略樹葉的碰撞。\n\n此模組必須同時安裝在伺服器和用戶端才能正常運作。\n\n![展示圖片](https://cdn.modrinth.com/data/ppMUvsIg/images/91646f57fadbba308810b361493e14759511e3e3.gif)\n\n## 為什麼？\n因為騎著馬等大型坐騎穿越森林（尤其是叢林）非常麻煩。這大大限制了它們的實用性。\n\n## 不相容性\n任何會改變樹葉方塊碰撞形狀的模組（更具體來說，是在 `LeavesBlock.class` 中自行覆寫 `getCollisionShape()` 方法（Yarn 對應表）的模組）。如果其他模組新增的樹葉方塊帶有自訂碰撞效果，此模組可能不會生效。\n\n用較不技術性的說法：如果其他模組更改了樹葉的碰撞機制，就可能與此模組不相容。",
+  "bodyHash": "9bbadddee5e5afb1",
+  "content": "\n\n## Description\n讓任何實體都能穿透樹葉方塊，前提是該實體上帶有能控制它的乘客（例如騎乘馬匹的玩家）。**這並不會讓樹葉完全失去碰撞箱。**\n\n此外，只要你能控制載具實體，鏡頭就會忽略樹葉的碰撞。\n\n此模組必須同時安裝於伺服器與客戶端才能正常運作。\n\n![Showcase](https://cdn.modrinth.com/data/ppMUvsIg/images/91646f57fadbba308810b361493e14759511e3e3.gif)\n\n## Why?\n因為騎著大型坐騎（如馬匹）穿梭於森林中非常不便，尤其是叢林地帶。這嚴重限制了它們的實用性。\n\n## Incompatibilities\n任何會修改樹葉方塊碰撞形狀的模組（更具體地說，是在 `LeavesBlock.class` 中實作自訂版 `getCollisionShape()` 方法（基於 Yarn 映射）的模組）。若模組新增的樹葉方塊已自訂碰撞箱，本模組可能無效。\n\n簡單來說，如果其他模組干擾了樹葉的碰撞箱，可能會與本模組不相容。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

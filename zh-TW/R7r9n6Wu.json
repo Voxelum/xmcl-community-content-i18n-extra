@@ -1,0 +1,6 @@
+{
+  "bodyHash": "84fb40e3e06afd7a",
+  "content": "\n\n![Railways Untold Logo](https://cdn.modrinth.com/data/cached_images/0f400949d7bc684d9922aedc86bfa24c9ad9f4ec.png)\n\nRailways Untold 是一款模組，會為 Create 模組在你的世界中生成無限且程序化的火車鐵軌。它適用於 Forge 與 Fabric 1.20.1，以及 Neoforge 1.21.1。  \n\n* 鐵軌會於玩家出生點生成並無限延伸，隨著世界地形起伏，包含開鑿隧道及規劃通往村莊的路徑。  \n* 當鐵軌抵達村莊時，會建立一座車站，內含車站方塊與程序化的車站名稱。  \n* 於出生點生成一列火車  \n* 可匯入自訂的車站與起始列車，以取代預設內容  \n* 提供方塊可用於在既有世界中生成無限鐵軌、建立從 A 點到 B 點的鐵軌，以及設定阻擋區域以防止鐵軌穿過特定地點。\n\n* Railways Untold 擁有龐大的設定檔，可供編輯、啟用或停用上述功能及其他選項。\n\n我製作了一支介紹影片，強烈建議觀看以了解初始功能：  \n  \n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/U2CjirXUyBU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n本模組目前處於 BETA 階段，已進行多次重寫並由專職的 Alpha 團隊進行了大量測試。儘管如此，BETA 階段仍存在不少顯著錯誤、缺少功能等問題，因此需要您的協助來完善本模組。如果您發現任何錯誤或有功能建議，歡迎加入我們的專屬 Discord：[https://discord.gg/6q7QWc7ED8](https://discord.gg/6q7QWc7ED8)  \n  \n我致力於持續新增功能，並支持模組整合包開發者，協助大家利用本模組創造精彩內容！  \n  \n在 BETA 階段期間，Railways Untold 為閉源軟體並保留所有權利。正式發行時，模組將上傳至 GitHub 並採用 GNU 授權，成為完全開源的免費軟體，任何人都可自由修改。  \n  \n本次發布離不開我出色的 Alpha 團隊：  \n  \nEddie Pasketty  \nHe of Many Hats  \nDownorth  \nEvermore  \nTsukengnek",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

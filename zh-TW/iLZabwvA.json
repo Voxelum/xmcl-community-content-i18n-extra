@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1587d868a28df6c3",
+  "content": "\n\n# 新增石頭方塊！\n\n此模組為您的伺服器（同樣適用於單人遊戲）新增了多款石頭方塊，包含花崗岩、閃長岩、滴水石磚等，以及一種全新的石材：**石灰岩**。\n\n本模組採用資源包機制，並透過 Polymer 的自動主機（autohost）功能自動將資源包分發至玩家客戶端。\n\n無需額外設定！您可能需要前往 Polymer 設定檔中啟用自動主機（auto-host）功能！\n\n---\n所需模組：\n- [polymer](https://modrinth.com/mod/polymer)\n- [filament](https://modrinth.com/mod/filament)\n\n以及 Fabric API（兩者皆需依賴此模組）\n\n---\n\n# 合成配方\n\n- 1 沙子 + 1 石英 → 2 個石灰岩方塊\n- 2x2 排列的石灰岩方塊 → 4 個磨製石灰岩\n- 2x2 排列的滴水石方塊 → 4 個磨製滴水石\n- 2x2 排列的磨製花崗岩、安山岩、閃長岩或石灰岩方塊 → 對應材質的磚方塊\n- 3x3 排列的石頭方塊 → 9 個磨製石頭\n- 於切石機中使用 1 個鵝卵石 → 4 個小石子\n\n# 指令\n\n這些方塊位於「tsa」命名空間下，因此若要使用 /give 指令給予鑿刻版或垂直木板，請輸入：\n\n```\n/give @... tsa:granite_bricks\n```\n\n```\n/give @... tsa:limestone\n```\n\n您也可以輸入 `/polymer creative` 開啟 Polymer 的創造模式選單，並透過 Filament 的方塊圖示來存取這些方塊。\n\n## 注意事項：\n本模組會利用音符盒（Note Block）在伺服器端顯示自訂方塊，因此玩家客戶端無需安裝任何模組即可正常遊玩。但這也表示，若其他資源包使用了音符盒，可能會與本模組產生衝突而無法正確顯示。\n\n---\n\n- [Modrinth](https://modrinth.com/mod/tsa-stone)\n- [GitHub](https://github.com/tomalbrc/tsa-stone)\n- [Discord](https://discord.gg/9X6w2kfy89)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

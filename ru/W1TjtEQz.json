@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b4beb26e7b134861",
+  "content": "\n\nЭтот мод ускоряет и упрощает сбор урожая.\n\n<img alt=\"Скачивания Modrinth\" src=\"https://img.shields.io/modrinth/dt/W1TjtEQz?label=Modrinth&color=dark_green\"> <img alt=\"Скачивания CurseForge\" src=\"https://img.shields.io/curseforge/dt/1344862?label=CurseForge\">\n\n\n\n## **Возможности:**\n\n- **Простой сбор:** Нажмите правую кнопку мыши по культуре, чтобы собрать её и автоматически высадить семена.\n\n- **Массовый сбор:** Используйте мотыгу на культуре, чтобы собрать все соседние растения того же типа в радиусе 3 блоков.\n\n![Массовый сбор](https://cdn.modrinth.com/data/cached_images/27fb80c0b0ad546e336a909a8b25f5424ba27c5b.webp)\n\n- **Удаление дикорастущих растений:** Используйте мотыгу, чтобы уничтожить любые дикие растения на траве в радиусе 2 блоков.\n\n![Удаление дикорастущих растений](https://cdn.modrinth.com/data/cached_images/174adfbf13ccf11794b311dd6a9194fbd2e1d150.webp)\n\nВ папке конфигурации Minecraft вы можете изменить радиусы действия этих функций.\n\nЕсли вы обнаружите какие-либо проблемы, сообщить о них можно здесь: [Трекер проблем](https://github.com/TheToicraft/Simple-Harvesting-Mod/issues/new)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

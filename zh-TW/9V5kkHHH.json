@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f2d4173626c150ee",
+  "content": "\n\n![Botania JEI Title](https://i.ibb.co/pryKgL0g/image.png)\n\n# 這個簡單的附加模組為 Botania 在 JEI 中提供了實用資訊：\n\n純淨雛菊的配方標籤頁現在會顯示製作所需的秒數：\n\n  ![pure daisy jei](https://i.imgur.com/9k9Xf0l.png)   \n\n法力池的配方標籤頁現在會顯示製作所需的法力值：\n\n  ![mana infusion jei](https://i.imgur.com/g3ZeDUb.png)   \n\n符文祭壇標籤頁也會顯示所需法力：\n\n![runic altar jei](https://i.imgur.com/U1UeJjC.png)\n\n以及陸地聚合體標籤頁：\n\n![terrestrial agglomeration jei](https://i.imgur.com/Nb7PSif.png)\n\n**需求：**\n\n **適用於 1.12.2**\n\n   > 需要 MixinBooter\n\n   > 需要 Botania\n\n   > 需要 JEI\n\n **適用於 1.16.5 或更高版本**\n\n   > 僅需 Botania\n\n   > 以及 JEI",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

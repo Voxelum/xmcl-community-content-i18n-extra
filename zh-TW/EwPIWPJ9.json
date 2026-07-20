@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b88881b750c11d03",
+  "content": "\n\n這是我的模組 [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) 的相容性附加模組，用於為部分模組提供支援。\n\n**我並不打算為 (Neo)Forge 維護此模組。**\n\n如果您有希望加入支援的模組，歡迎在 GitHub 上開啟 Issue！若您發現任何不相容或異常狀況，也請提出回報。由於我自己主要遊玩原版遊戲，可能無法主動察覺這些問題。\n\n您可以參考以下列表的第一欄，查看哪些模組具有明確的支援：\n- [1.20 - 1.20.1](https://github.com/Crendgrim/DynamicCrosshairCompat/blob/main/versions/1.20.1/supported_mods.csv)\n- [1.20.3 - 1.20.4](https://github.com/Crendgrim/DynamicCrosshairCompat/blob/main/versions/1.20.4/supported_mods.csv)\n- [1.20.5 - 1.20.6](https://github.com/Crendgrim/DynamicCrosshairCompat/blob/main/versions/1.20.6/supported_mods.csv)\n- [1.21 - 1.21.1](https://github.com/Crendgrim/DynamicCrosshairCompat/blob/main/versions/1.21.1/supported_mods.csv)\n- [1.21.3](https://github.com/Crendgrim/DynamicCrosshairCompat/blob/main/versions/1.21.3/supported_mods.csv)\n\n\n任何僅添加簡單方塊或物品（例如食物）的模組，通常預設即可正常運作，無需依賴此相容性模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

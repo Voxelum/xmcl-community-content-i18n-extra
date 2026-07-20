@@ -1,0 +1,6 @@
+{
+  "bodyHash": "92b9cc84eb645010",
+  "content": "\n\n<h2 style=\"font-size:28px;font-weight:600\">О моде</h2>\n<p>Это клиентский мод, благодаря которому частицы блоков соответствуют тому, что вы видите на самом деле: при беге, добыче и разрушении блоков частицы отображаются с текстурой той грани и поверхности, с которой вы фактически взаимодействуете, вместо единой плоской текстуры для всего блока. Все функции можно включать и отключать в файле конфигурации или на экране настроек.</p>\n<h2 style=\"font-size:28px;font-weight:600\">Возможности</h2>\n<div style=\"font-size:24px;font-weight:600\">Разрушение</div>\n<div style=\"font-size:16px;line-height:1.55\">\nЧастицы при добыче/разрушении используют текстуры реальных граней блока\n</div>\n<p><img src=\"https://cdn.modrinth.com/data/Y6J2jpQC/images/23443aa7e2af56a7ab4f95abc96f2ebff5aacc06.webp\" alt=\"alt text\"></p>\n<div style=\"font-size:24px;font-weight:600\">Бег</div>\n<div style=\"font-size:16px;line-height:1.55\">\nЧастицы имеют текстуру для каждой поверхности, независимо от типа блока\n</div>\n<p><img src=\"https://cdn.modrinth.com/data/Y6J2jpQC/images/2cf2bece60464c3c8a863a3b323a0815fa917072.webp\" alt=\"alt text\"></p>\n<h2 style=\"font-size:28px;font-weight:600\">Требования</h2>\n<p>Для версии Fabric требуется Fabric API</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

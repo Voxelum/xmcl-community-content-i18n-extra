@@ -1,6 +1,6 @@
 {
-  "bodyHash": "uGDKjflXvfM=",
-  "content": "**隱藏盔甲模組**是一個簡單輕量的Minecraft模組，讓你能控制盔甲的可見度。\n\n## 功能特色\n\n* 使用預設快捷鍵 `H` 切換盔甲可見度\n\n* 也可透過 [模組選單](https://modrinth.com/mod/modmenu) 停用特定盔甲部件的切換功能\n\n## 安裝方式\n\n只需將模組檔案放入你的 `mods` 資料夾即可。\n無需其他模組或額外設定（甚至不需要Fabric API！）\n\n## 設定選項\n\n**隱藏盔甲模組**採用熱門的設定程式庫 [YACL](https://modrinth.com/mod/yacl) 搭配 [模組選單](https://modrinth.com/mod/modmenu)，讓你完整自訂模組外觀。你也可以停用特定部件的切換功能，並選擇僅隱藏自己或所有人的盔甲。\n\n## 未來規劃\n\n* 增加更多版本支援\n\n* 擴充更多載入器的相容性",
+  "bodyHash": "3e5c7690057a15fc",
+  "content": "\n\n**Hide Armor Mod** 是一款簡單輕量的 Minecraft 模組，讓你能夠控制盔甲的顯示與隱藏。\n\n## 功能特色\n\n* 使用預設快捷鍵 `H` 來切換盔甲的顯示與隱藏。\n\n* 你也可以透過 [Mod Menu](https://modrinth.com/mod/modmenu) 停用特定盔甲部位的切換功能。\n\n## 安裝方式\n\n只需將模組放入你的 `mods` 資料夾中即可。 \n無需其他模組或額外設定（甚至不需要 Fabric API！）。\n\n## 設定\n\n**Hide Armor Mod** 使用了熱門的設定庫 [YACL](https://modrinth.com/mod/yacl) 搭配 [Mod Menu](https://modrinth.com/mod/modmenu)，讓你能夠完全自訂模組的外觀。你還可以停用特定部位的切換功能，並決定是僅隱藏自己的盔甲，還是隱藏所有人的盔甲。\n\n## 未來計畫\n\n* 擴充更多遊戲版本的支援\n\n* 增加對更多載入器的相容性",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fade0b15fc8ffc44",
+  "content": "\n\n# 背槽模組\n### 此模組新增了一個額外物品欄欄位：背槽！\n\n那麼，它要怎麼運作呢？\n## 背槽\n背槽是一個類似快捷欄的欄位，可儲存一組物品、支援選取且死亡時不會掉落。此外還有兩個快捷鍵可用來存取它，詳細說明請見下文。\n\n## 快捷鍵設定\n此模組新增了兩項快捷鍵設定：\n- 與背槽交換：將你目前手持的物品與背槽中的物品進行交換！\n- 選取背槽物品：使背槽中的物品模擬為主手物品，\\\n   允許完全使用該物品！\n\n## 指令\n如果你擔心玩家會在背槽中藏匿物品以躲避管理員檢查，現在大可放心了！\\\n此模組也新增了兩項新的管理員指令：\n- \"/backslot_clear <玩家名稱>\"：清空指定玩家的背槽。\n- \"/backslot_check <玩家名稱>\"：讓管理員查看該玩家在背槽中擁有的物品。\n\n## 設定檔\n此模組還包含以下設定選項：\n- 禁止清單（物品與方塊）：用於設定不允許放入背槽的物品與方塊。\n- 大型物品：用於設定在背槽中需要放大顯示的大型模型物品。\n- 死亡時是否掉落背槽物品：用於切換死亡後背槽中的物品是否會掉落。\n## 模組相容性\n現在你可以使用資源包或模組的 assets 資料夾來為此模組添加相容性！\\\n如果你正在製作帶有自訂模型的物品，但它在背槽中顯示效果不佳，現在可以調整了！\\\n只需進入 assets 資料夾中的你的命名空間目錄，然後新增一個名為「back_transforms」的資料夾，\\\n並在該資料夾內新增一個以你物品 ID 命名的 .json 檔案。\n\n範例：`assets/your_mod_id/back_transforms/your_item.json`\n\n在此 JSON 檔案中，你可以編輯物品的顯示方式，以下是預設設定：\n\n![預設 JSON 檔案](https://cdn.modrinth.com/data/cached_images/678a494f20b7dc03af6eadabb90cf13640a2cee7.png)\n\n這裡有一個範例資源包名為 [Belt Bundles](https://modrinth.com/resourcepack/belt-bundles)\n## 預覽圖片（更多圖片請參閱圖庫）\n![背槽展示](https://cdn.modrinth.com/data/cached_images/a20e7ed3a08638836b9a29376e179c7aaf3d4ab1_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

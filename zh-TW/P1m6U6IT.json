@@ -1,0 +1,6 @@
+{
+  "bodyHash": "46390dbcddd55e91",
+  "content": "\n\n<div align=\"center\">\n  <h1>食人族</h1>\n  <a href=\"https://modrinth.com/mod/strawberrylib\"><img src=\"https://github.com/ContentSMP/Badges/raw/refs/heads/main/strawberrylib/cozy_vector.svg\"></a>\n  <a href=\"https://discord.gg/Am6M8VQ\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/social/discord-singular_vector.svg\"></a>\n  <a href=\"https://ko-fi.com/moriyashiine\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/donate/kofi-singular_vector.svg\"></a>\n  <h3>提供一種全新的獲取食物方式：人類！</h3>\n</div>\n\n[靈感源自舊版的食人族模組。](https://www.curseforge.com/minecraft/mc-mods/cannibalism)\n\n本模組新增了一種武器：刀。雖然它的傷害比劍低，且會減少你的攻擊距離，但攻擊速度更快。刀的另一个功能是，用它攻擊有效的實體時，會讓該實體掉落肉塊；如果實體正在燃燒，掉落物還會被自動烹調（掉落設定可自訂）。當你飢不擇食時，甚至可以使用刀潛行右鍵來吃下自己的肉。\n\n食用肉塊會帶來增益與減益效果，例如提升某些屬性，代價是你將無法穿戴部分護甲。然而，如果攝取過多肉塊，傳說中的「豬饕」（Piglutton）可能會出現。它對肉類有著貪得無厭的渴望，甚至會優先撿拾地上的肉而非攻擊敵人……或許你可以透過拴住它的心臟來平息這種飢餓？\n\n**刀的合成配方（可使用木板、鵝卵石、鐵錠、金錠或鑽石）**\n\n![Recipe](https://github.com/MoriyaShiine/anthropophagy/blob/main/.webassets/knife_recipe.png?raw=true)\n\n**拴住的心臟合成配方**\n\n![Recipe](https://github.com/MoriyaShiine/anthropophagy/blob/main/.webassets/tethered_heart_recipe.png?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

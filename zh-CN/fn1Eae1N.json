@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8ee037be9ac77fe",
+  "content": "\n\n# **Wisp 着色器**\n![日出与日落时的雾气效果及色彩过渡展示](https://cdn.modrinth.com/data/fn1Eae1N/images/e16d4000b898846a790d530fbcc7f08b36cc3370.png)\n\n简约着色器，**不包含花哨特效或 PBR**，旨在保持原版风格的同时提升画面质感。\n\n# 特性：\n- 基于光照贴图的方向性光源\n- 更加鲜活的环境色彩\n- 自定义云层\n- 可调节的雾气\n- 树叶摇曳效果\n- 水面泡沫\n- 水面云层倒影\n- 雨天地面积水\n# 兼容性\n本着色器针对 Minecraft **1.21.1 及以上版本**及 Iris **1.7 及以上版本**开发，但**可能**在较低版本中也能运行。\n\n若游戏支持标签系统，将使用标签 _**minecraft:leaves**_ 控制树叶摇曳；否则仅对 **原版** 和 **Biomes O' Plenty** 的树叶生效。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

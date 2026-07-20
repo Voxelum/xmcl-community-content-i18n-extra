@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c16a6f668cec7bd4",
+  "content": "\n\n你可以透過 GET 請求來發送指令與訊息。\n\n基於此功能，有許多實際應用場景；以下是一些範例：\n\n- 從 Elgato Stream Deck 執行指令（使用「Website」按鈕並啟用「Get Request in the Background」）\n- 建立要執行的指令清單並逐一執行（**自動化**）\n- 外部應用程式可以與遊戲進行互動\n\n你可以在暫停選單中指定連接埠（預設值：80）。\n\n![streamdeck 使用範例](https://cdn.modrinth.com/data/cached_images/5f1a476a2c90238db6aaa8e30a265842eee5b45f.png)\n\n新增的網頁介面（Web UI）可讓你生成用於執行指令或傳送聊天訊息的連結。新網頁也內建了 Spyglass 指令自動補全與語法高亮功能，讓除錯更加輕鬆。\n\n在最新版本中，你也能接收指令的執行結果。在網頁上，你只需執行單一指令即可立即取得結果。當透過 GET 請求執行指令時，你也能取得未格式化的原始資料。\n\n造訪 `http://localhost/get?\"/list\"` 執行 `/list` 指令的回傳範例：\n\n```\n{\n\"commandResult\":\"translation{key='commands.list.players', args=[1, 8, literal{BlauToad}[style={clickEvent=class_10610[command=/tell BlauToad ],hoverEvent=class_10611[entity=net.minecraft.class_2568$class_5248@e5c10f33],insertion=BlauToad}]]}\",\n\"commandResultText\":\"There are 1 of a max of 8 players online: BlauToad\",\n\"debug\":0\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

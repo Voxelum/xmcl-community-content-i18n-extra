@@ -1,0 +1,6 @@
+{
+  "bodyHash": "73739dad43187f4a",
+  "content": "\n\n[![加入我們的 Discord](https://img.shields.io/badge/JOIN%20OUR%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4XUPywnEyE)\n\n遠行石冷卻（Waystones Cooldown）是熱門模組 Waystones 的附加模組，提供編輯傳送石之間傳送冷卻時間的功能。\n\n此模組的功能：\n- 在使用傳送石進行每次傳送後，會加入可配置的冷卻時間。預設情況下，玩家需等待 ≥ 30 秒才能再次使用任何方式（包含傳送石方塊、傳送石道具或傳送卷軸）進行傳送。\n- 冷卻時間為個別玩家獨立計算，有助於平衡生存模式或伺服器上的快速旅行體驗。\n- 冷卻持續時間可完全透過模組的設定檔進行調整——您可以設定任何您想要的數值。\n\n設定檔範例：\n```\n[general]\n\t#基礎冷卻時間（秒）。\n\t#範圍：0 ~ 3600\n\tbaseCooldown = 30\n\t#啟用基於傳送距離的冷卻時間加成。\n\tdistanceScaling = true\n\t#每格距離增加的秒數（0.1 = 每 10 格增加 1 秒）。\n\t#範圍：0.001 ~ 10.0\n\tsecondsPerBlock = 0.1\n\t#最大冷卻時間（秒）。\n\t#範圍：0 ~ 86400\n\tmaxCooldown = 600\n\t#死亡後的冷卻狀態（預設=true）。\n\tcooldownPersistsOnDeath = true\n\t#無冷卻時間的傳送半徑（方塊單位）（0 = 停用）。\n\t#範圍：0 ~ 100000\n\tTeleportRadiusWithoutCooldown = 100\n\t#跨維度傳送時額外增加的冷卻時間。此數值會加至基礎冷卻時間上（秒）。\n\t#範圍：0 ~ 86400\n\tdimensionPenalty = 60\n```\n\n_本模組可用於整合包中，並可依您的需求進行修改。如果需要協助，我隨時準備提供幫助！歡迎在 Discord 上聯繫我：@rymusov :)_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

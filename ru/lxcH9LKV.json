@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5c30915a486edce4",
+  "content": "\n\n![Sync (Transparent Icon)](https://cdn.modrinth.com/data/lxcH9LKV/images/9b2b308513b6634c32e64cffcec02136b5c83dae.png)\n\nSync — это библиотека модов для Fabric, расширяющая функционал [Apoli](https://github.com/apace100/apoli). Данная библиотека возвращает некоторые функции из более новых версий Apoli в версию 1.20.1, а также добавляет новые силы, условия и типы действий, которые можно использовать при создании датапаков для Origins/Apoli.\n\n**В: Что означает аббревиатура Sync?**<br>\n**С**истема для **П**редоставления **Н**овых **В**озможностей\n\n**В: Что такое Apoli и как он связан с Sync?**<br>\nApoli — это библиотека модов, которую использует [Origins](https://modrinth.com/mod/origins) для своих сил, условий и действий. Sync должен работать из коробки с любым модом, использующим Apoli, или с самим Apoli.\n\n**В: Работает ли Sync на Forge?**<br>\nSync работает на Forge в связке с:\n![Connector Banner](https://raw.githubusercontent.com/Sinytra/.github/main/art/connector_banner.svg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

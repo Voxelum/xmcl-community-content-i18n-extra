@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9f406acb75bfc0ed",
+  "content": "\n\n<h2>關於</h2>\n<p>此資料包為 <strong>DragonLoot</strong> 裝備提供 <strong>Advanced Netherite 相容的鍛造台配方</strong>。</p>\n<p>每個發行版本皆針對 <strong>特定的 Minecraft 版本範圍</strong>，並使用該版本對應的正確 <code>pack_format</code> 與鍛造台配方結構。</p>\n<hr>\n<h2>功能說明</h2>\n<ul>\n<li>新增 <strong>鍛造台配方</strong>，讓你可以將 <strong>鑽石 Advanced Netherite</strong> 裝備升級為 <strong>DragonLoot</strong> 裝備。</li>\n<li>防止透過直接取得 DragonLoot 來跳過 <strong>Advanced Netherite 的進度階梯</strong>。</li>\n</ul>\n<hr>\n<h2>相容性</h2>\n<ul>\n<li><a href=\"https://www.curseforge.com/minecraft/texture-packs/dragonloot-x-advanced-netherite\" rel=\"nofollow\">Advanced Netherite Forge/NeoForge</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric\" rel=\"nofollow\">Advanced Netherite Fabric</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/enderdragon-loot\" rel=\"nofollow\">DragonLoot Forge/NeoForge</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/dragonloot\" rel=\"nofollow\">DragonLoot Fabric</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

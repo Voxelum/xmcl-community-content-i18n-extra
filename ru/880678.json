@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b483fa3da21d523",
+  "content": "\n\n<div>\n<p>Разделять файл options.txt между инстансами.</p>\n<p>В зависимости от вашей операционной системы файл options.txt хранится в разных папках:</p>\n<ul>\n<li><code>%APPDATA%\\.minecraft</code> в Windows</li>\n<li><code>$HOME/Library/Application Support/minecraft</code> в macOS</li>\n<li><code>$HOME/.minecraft</code> в Linux</li>\n</ul>\n</div>\n<p>&nbsp;</p>\n<p>Этот мод изменяет код Minecraft, отвечающий за загрузку options.txt, чтобы он всегда загружался из папки .minecraft стандартного лаунчера.<br>Это позволяет использовать несколько инстансов Minecraft без необходимости каждый раз заново настраивать предпочитаемые параметры.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

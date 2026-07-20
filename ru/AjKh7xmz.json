@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2ae8b67a8739c66",
+  "content": "\n\n# GregTech Modern Quality of Life (GTM-QoL)\n\nПомогает повысить удобство игры (QoL) в GregTech Modern.\n\n## Особенности\n\nЕсли у вас есть предложения по добавлению уникальных функций для улучшения этого мода, смело создавайте issue!\n\n### Инспектор танков\n\n![](https://github.com/ElytraServers/gtm-quality-of-life/raw/main/docs/tank_inspector.png)\n\nОтображает содержимое жидкостного танка (Drums, Super Tanks и Quantum Tanks).\n\n### Инспектор Data Stick (и аналогов)\n\n![](https://github.com/ElytraServers/gtm-quality-of-life/raw/main/docs/data_stick_inspector.png)\n\nПоказывает получаемый предмет по рецепту, хранящемуся в Data Stick, Data Orb или Data Module.\n\n### Шкала прочности при использовании танка\n\n![](https://github.com/ElytraServers/gtm-quality-of-life/raw/main/docs/tank_usage_dura_bar.png)\n\nОтображает шкалу прочности, цвет которой соответствует текущей жидкости. Длина шкалы рассчитывается исходя из объёма использованного танком содержимого.\n\n### Инспектор рецепта пластины\n\n![](https://github.com/ElytraServers/gtm-quality-of-life/raw/main/docs/wafer_recipe_inspect.png)\n\nОтображает соответствующую *Стеклянную линзу*, используемую в рецепте лазерной гравировки пластины.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

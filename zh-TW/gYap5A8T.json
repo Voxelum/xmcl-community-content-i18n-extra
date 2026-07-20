@@ -1,0 +1,6 @@
+{
+  "bodyHash": "52274aabeb6710bd",
+  "content": "\n\n# MonkeyLib538\n[![在 Discord 上與我聊天](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.offsetmonkey538.top/)\n[![於 Modrinth 提供下載](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/monkeylib538)\n[![查看程式碼庫](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/git_vector.svg)](https://git.offsetmonkey538.top/OffsetMods538/MonkeyLib538)\n\n請務必下載與您使用的 Minecraft 版本相符的版本！\n\n這是 OffsetMonkey538 的模組所使用的函式庫模組。為其運作所必需。  \n內含非常實用的抽象層設計，能更輕鬆地支援多種模組載入器與 Minecraft 版本。  \n同時抽象化了 [Placeholder API](https://modrinth.com/mod/placeholder-api)、[Placeholder API NeoForge](https://modrinth.com/mod/placeholder-api-neoforge) 與 [Placeholder API Paper](https://modrinth.com/project/placeholder-api-paper) 的平台專屬細節。\n\n###### 本模組會收集匿名使用統計資料，想了解收集的詳細資訊請[點擊此處](https://monkeylib538.docs.offsetmonkey538.top/reference/telemetry/)。不會儲存任何個人可識別資料。您可以透過修改 `config/monkeylib538/telemetry.json` 設定檔，或執行指令 `/monkeylib538 telemetry set isEnabled false` 來停用遙測功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

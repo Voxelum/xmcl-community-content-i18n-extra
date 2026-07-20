@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c3e5f7c71b8aaff",
+  "content": "\n\n# Canary\n礦坑毒氣的先期預警。\n\nCanary 是一款用於偵測其他模組危險行為，並提供多種診斷工具的模組。\n\n### 已偵測問題\n\n#### BlockState 屬性注入\n某些模組嘗試為原版方塊新增 BlockState 屬性。\n不幸的是，這很可能會導致方塊狀態不同步。\n\n解決方案：\n- 使用 [Statement](https://github.com/Virtuoel/Statement)，這是一個專門設計用來安全執行此操作的函式庫\n- 改用自訂方塊，並在需要時與原版方塊進行轉換\n\n#### 同步實體資料注入\n某些模組嘗試為原版實體類別新增同步資料項目（`EntityDataAccessor`）。\n執行此操作很可能會引發難以理解的網路錯誤，因為客戶端與伺服器之間的欄位順序並不穩定。\n\n解決方案：\n- 使用 [Data Attachment](https://docs.fabricmc.net/develop/data-attachments)\n- 將數值儲存在一般欄位中，並透過自訂封包進行同步\n\n### 診斷功能\n\n此外，Canary 還具備以下診斷功能：\n- 在設定檔中啟用時（`\"print_blockstate_report\": true`），會將 BlockState 報告輸出至日誌\n- 指令 `/canaryclient diagnoseDesync` 會在客戶端與伺服器上生成方塊狀態報告\n\n### 趣味冷知識\n本模組的名稱源自於現實生活中在煤礦中使用金絲雀來偵測\n有毒氣體的習俗。如同現實中的對應物，如果金絲雀死亡（遊戲當機），\n就表示你遇到問題了。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

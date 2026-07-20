@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d49cde7570f87ff0",
+  "content": "\n\n# Guide-API-VP 又稱 Village and Pillage\n\n這是由 TehNut 和 Tombenpotter 開發的原始模組 Guide-API 的分支版本，以 MIT 授權發布，適用於 Minecraft 1.14（Village and Pillage）及以上版本。  \n它使用了不同的套件名稱與不同的模組 ID（guideapi-vp）。  \n\n## 給模組開發者：\n### 關於\n讓您能夠輕鬆為您的模組建立說明書。  \n書籍主要由 Guide-API 進行維護（例如註冊它們、將它們放入專屬的創意欄位等）。\n\n說明書主要透過程式碼建立，而例如 Patchouli 則主要基於 JSON。這意味著：\n- 可根據模組的設定來新增或修改內容。\n- 自動處理換行與分頁，避免本地化字串超出範圍\n- 可動態引用已設定的快捷鍵\n- 可引用內部常數、平衡數值等，當您在模組中修改這些數值時，書中的內容也會自動同步更新\n- 可新增自訂頁面類型、配方類型等。\n- 使用輔助方法自動生成書籍的部分內容\n\n其他特色：\n- 無強制依賴關係，若運行時未安裝 Guide-API，則說明書不會顯示，但模組的其他功能仍可正常運作\n- 支援使用 TextFormatting 與手動輸入換行字元 (\\n)\n- 提供多種即用的頁面類型，如文字頁、專注於物品/方塊的文字頁、配方頁與圖片頁\n\n\n### 如何在您的模組中使用：\n\nhttps://github.com/maxanier/Guide-API#developer-information  \n\n## 鳴謝\n\n原始模組作者：TehNut 和 Tombenpotter  \n分支版本維護：Maxanier  \n\n## 授權條款\n本專案採用 MIT 授權，如有需要您亦可建立分支版本。\n也歡迎將它納入您的模組整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

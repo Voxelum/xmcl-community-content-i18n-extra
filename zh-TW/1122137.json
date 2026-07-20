@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3bdfee9b56cbe4f0",
+  "content": "\n\n<p>此為一款簡單模組，可防止 WorldEdit 在伺服器關閉時導致 Minecraft 伺服器卡死。</p>\n<p>它修復了 <a href=\"https://github.com/EngineHub/WorldEdit/issues/2459\" rel=\"nofollow\">https://github.com/EngineHub/WorldEdit/issues/2459</a>。主要功能如下：</p>\n<ul>\n<li>於專用伺服器關閉時關閉 <code>WorldEdit.getInstance().getExecutorService()</code>（否則伺服器可能會卡死長達 60 秒）</li>\n<li>確保 <code>FutureProgressListener</code> 中的單例 <code>java.util.Timer</code> 物件在 daemon 執行緒上運行（否則伺服器將永遠卡死）</li>\n</ul>\n<p>支援環境</p>\n<table>\n<thead>\n<tr>\n<th>平台</th>\n<th>Minecraft</th>\n<th>WorldEdit</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>fabric</td>\n<td>MC &gt;= 1.14</td>\n<td>&gt;=7.0.0</td>\n</tr>\n<tr>\n<td>forge</td>\n<td>MC &gt;= 1.15</td>\n<td>&gt;=7.0.0</td>\n</tr>\n<tr>\n<td>neoforge</td>\n<td>MC &gt;= 1.20.6</td>\n<td>&gt;=7.0.0</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

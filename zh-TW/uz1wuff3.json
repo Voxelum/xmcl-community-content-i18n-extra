@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8d4e69917e7e380f",
+  "content": "\n\n一個簡單的模組，用於防止 WorldEdit 在伺服器關閉時造成 Minecraft 伺服器凍結。\n\n修復了 https://github.com/EngineHub/WorldEdit/issues/2459。其運作方式如下：\n\n- 在專用伺服器關閉時關閉 `WorldEdit.getInstance().getExecutorService()`（否則伺服器最多會凍結 60 秒）\n- 確保 `FutureProgressListener` 中的單例 `java.util.Timer` 物件於 daemon 執行緒上運行（否則伺服器將永遠凍結）\n\n支援環境\n\n| 平台 | Minecraft    | WorldEdit |\n|------|--------------|-----------|\n| fabric   | MC >= 1.14   | >=7.0.0   |\n| forge    | MC >= 1.15   | >=7.0.0   |\n| neoforge | MC >= 1.20.6 | >=7.0.0   |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

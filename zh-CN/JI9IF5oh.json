@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b093bd27b587e8d9",
+  "content": "\n\n原版 Inventory Profiles 中的一些“调整”实际上更像是作弊功能。为了让 Inventory Profiles Next 更适配整合包和服务器环境，这些功能已被移除。\n\n例如：\n\n- 移除物品使用冷却。\n- 移除方块破坏冷却。这使得创造模式下的方块破坏速度相当于 `Haste 2` + `Efficiency 5`。\n- 移除方块放置冷却。现在你不会再每隔五个方块左右就放置失败。\n\n\n**注意：**\n\n### 这些功能在大多数服务器上可能无法正常运行，或者会被反作弊系统标记。如果你没有获得授权，请勿使用。\n\n \n\n本模组包含部分此类功能，未来可能会添加更多新特性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

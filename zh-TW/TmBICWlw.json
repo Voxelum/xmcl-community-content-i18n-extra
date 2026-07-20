@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5fa969113c00a4f6",
+  "content": "\n\n## 這個 MOD 是什麼？\n這是一個為 MTR3 設計的 MOD，主要增強了 ANTE 腳本以及伺服器與客戶端之間的通訊等功能。\n**依賴此 MOD 的其他 MOD 版本必須完全一致。**\n## 重要通知\n本 MOD 使用了 Mixin。請留意這可能會導致遊戲不穩定。\n## 部分功能概述\n- 透過腳本控制車輛速度\n- 透過腳本控制車輛速度限制\n- 擷取 MP4 影片影格與音訊資料陣列（使用 JCodec 函式庫實作）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

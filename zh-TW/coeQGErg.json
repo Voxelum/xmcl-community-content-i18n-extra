@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d48002db5ed08875",
+  "content": "\n\n你曾經想過擁有一個能將地形生成範圍擴展至 32 位元整數上限的模組嗎？那麼這個模組正是為你而設計的。除了這項功能之外，它還會移除 Minecraft Beta 版對遠陸地的修正，讓遠陸地也能在原本的位置生成。\n\n只要你有安裝 Fabric 0.14 或更高版本，此模組就相容於 1.16 之後的任何 Minecraft 版本。\n\n在此特別感謝 MAXIUMG9 將此模組移植至 Fabric。我最初製作的是 JAR 模組，但無法進行混淆處理，因此他將其改造成 Fabric 模組。所以真的要感謝他 :P\n\n![遠陸地透過此模組重新回歸](https://cdn.modrinth.com/data/cached_images/245887d887cd78f191e709536c83ef170fd34a87.png)\n\n![世界邊界設在距離 2147483000 個方塊處（並非 32 位元上限，若載入那些區塊遊戲會崩潰）](https://cdn.modrinth.com/data/cached_images/96f1ac6e80376091742ee0745667215b8ebafff5.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

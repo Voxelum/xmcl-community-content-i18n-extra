@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b6eeaaadd960de2",
+  "content": "\n\n<p><span style=\"font-size:18px\">改進史萊姆，並使其可進行設定。</span></p>\n<p><span style=\"font-size:18px\">史萊姆現在可以合併與分裂，並已進行視覺升級。</span></p>\n<p><span style=\"font-size:18px\">所有新的遊戲玩法與視覺行為皆可進行設定。</span></p>\n<p>&nbsp;</p>\n<h4><span style=\"font-size:24px\">變更項目：</span></h4>\n<ul>\n<li><span style=\"font-size:18px\">動畫不再受限於遊戲的刻率（已修正插值）</span></li>\n<li><span style=\"font-size:18px\">跳躍前的「蓄勢」動畫</span></li>\n<li><span style=\"font-size:18px\">依據史萊姆大小提供獨特的像素風格貼圖</span></li>\n<li><span style=\"font-size:18px\">新的生成動畫</span></li>\n<li><span style=\"font-size:18px\">新的分裂動畫，並搭配全新音效</span></li>\n<li><span style=\"font-size:18px\">分裂時會產生粒子特效</span></li>\n<li><span style=\"font-size:18px\">陰影會根據擠壓程度進行縮放</span></li>\n<li><span style=\"font-size:18px\">史萊姆彼此之間可以合併</span></li>\n<li><span style=\"font-size:18px\">岩漿立方體使用完全獨立的音效組</span></li>\n<li><span style=\"font-size:18px\">可設定擠壓與伸展強度</span></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

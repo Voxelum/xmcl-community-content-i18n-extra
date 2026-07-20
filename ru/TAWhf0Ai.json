@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aa6fc3f446200583",
+  "content": "\n\nХотите новые цвета в своей игре? **Попробуйте** этот уникальный анимированный Тотем бессмертия!\n\n---\n\n![Чёрный анимированный тотем](https://cdn.modrinth.com/data/cached_images/efa636b6bfe00196d46941d376cc4485c2f2337f.gif)\n\n---\n\nЕсли вы хотите изменить скорость анимации, откройте файл **totem_of_undying.png.mcmeta** по этому пути \n```\nassets/minecraft/textures/item/totem_of_undying.png.mcmeta\n```\n и введите любое число здесь \n \n```\n\"frametime\": 7\n```\n\n---\n\nЕсли вы хотите, чтобы тотем был маленьким, скачайте «mini items» и «small totem pop».",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ce75d2812d9279bc",
+  "content": "\n\n<h2>⭐&nbsp;<strong>1.1.0 更新 - 已修正本模組所有已知錯誤！</strong></h2>\n<p>修復項目相當多，我或許會在某天整理出來，但基本上原版的大多數功能不幸都壞了 :( 我現在已經逐一修復並測試過所有功能，所以它們現在應該都能如預期運作！</p>\n<p>設定檔也大改了不少，請<strong>務必刪除舊的設定檔</strong>，查看新的數值（與說明！），並記下你的新配置 :D 如果更新到 1.1.0 後交易價格變得很奇怪，只要讓村民睡覺並去他們的工作站工作即可，這樣就能讓他們更新到 1.1.0 的格式 :)</p>\n<p>&nbsp;</p>\n<h2>ℹ️&nbsp;<strong>關於這個超讚移植版</strong></h2>\n<p>嗨！原始的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/villager-comfort\" target=\"_blank\" rel=\"nofollow\">Villager Comfort</a> 模組已經暫停維護一陣子了，所以我決定為它製作一個非官方的 1.20.1 移植版！我也修復了一個因某個 mixin 完全沒有被使用而導致模組徹底失效的問題。現在模組應該能正常運作了！:D</p>\n<p>這可以作為 1.20.1 移植版的暫時替代品，若原作者（ghenghen_）未來願意接手，此版本將會被取代或合併至官方模組中。</p>\n<p>&nbsp;</p>\n<h2>🗜️&nbsp;<strong>模組相容性</strong></h2>\n<p>我個人僅測試過 More Villagers，但大多數其他村民相關的模組應該也能正常運作！</p>\n<p>&nbsp;</p>\n<h2>💜&nbsp;<strong>整合包、再分發等</strong></h2>\n<p>移植版與原始模組均採用 MIT 授權，因此你基本上可以自由使用它們！兩者皆為開源，你可以隨意修改、再分發、放入任何整合包等。不需要特別署名感謝我（雖然如果有大型致謝區塊的話，我會很高興被列名！），但建議保留對原作者的署名。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

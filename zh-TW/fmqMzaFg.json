@@ -1,0 +1,6 @@
+{
+  "bodyHash": "962e2bebd9ef24bf",
+  "content": "\n\n![一名村民使用紫珀電梯進行傳送。](https://cdn.modrinth.com/data/cached_images/77f6ac98e283e224610af3e8fac93e637267a46c_0.webp)\n<center>\n   如果無法發揮其傳送功能，將合唱花轉化為紫珀塊還有何意義？\n</center>\n\n<br>\n\n## 關於\n\n透過紅石為紫珀塊供電，你可以建立能夠在它們之間傳送玩家的電梯平台。\n\n_此模組支援幾種不同的運作模式：_\n\n### 被動模式（預設）\n\n被動模式是最簡單的模式，你只需使用紅石永久為紫珀塊供電，即可透過跳躍向上傳送、蹲下向下傳送。\n\n### 基礎供電模式\n\n基礎供電模式會在紅石供電時立即啟動。一旦偵測到供電，它會將所有位於其上方的實體傳送至最近的平台。\n\n向上傳送優先於向下傳送，因此若上下都有平台，它會將你向上傳送。\n\n### 強度供電模式\n\n強度供電模式與基礎供電類似，但它會根據紅石信號的強度來決定傳送至哪個平台。\n\n根據紅石信號的強度，它會傳送至從該位置可達的第 n 個平台。\n\n信號強度為 1 時會傳送至最低的平台，而信號強度為 15 時則會傳至第 15 個平台。\n\n<br>\n\n## 設定檔\n\n模組本身不會自動建立設定檔。\n若要更改設定，請安裝 [Fzzy Config](https://modrinth.com/mod/fzzy-config)。\n\n若要載入設定檔的變更，可使用原版指令 ``/reload``。\n\n```toml\n# 電梯的運作模式。模式選項：('PASSIVE', 'NAIVE', 'STRENGTH')。\nmode = \"PASSIVE\"\n# 兩個電梯平台之間的最大距離。\nmaxElevatorDistance = 16\n# 使用電梯平台後的冷卻時間（秒），在此期間無法再次使用。\nelevatorCooldownSeconds = 0.05\n# 玩家疾跑時電梯是否仍會運作。\nactivateWhileSprinting = false\n# 騎乘載具的玩家是否應由電梯傳送。例如：礦車與船隻\nallowVehicles = true\n# 騎乘坐騎的玩家是否應由電梯傳送。例如：馬與豬\nallowMounts = true\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e80033df20ecdff1",
+  "content": "\n\n<p>Исправляет ошибку, при которой после установки <a href=\"https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere\" target=\"_blank\" rel=\"nofollow\">Dark Mode Everywhere</a> и включения одного из тёмных режимов текст в Словаре животных из <a href=\"https://www.curseforge.com/minecraft/mc-mods/alexs-mobs\" target=\"_blank\" rel=\"nofollow\">Alex&rsquo;s Mobs</a> становился нечитаемым.<br><br>Добавление результатов из METHOD SHADER DUMP в METHOD SHADER BLACKLIST в настройках Dark Mode Everywhere не решило эту проблему. Вместо этого мод временно отключает тёмный шейдер при открытии Словаря животных.</p>\n<p><strong>Только на стороне клиента.</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

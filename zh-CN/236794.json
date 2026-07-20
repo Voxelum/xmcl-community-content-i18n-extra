@@ -1,6 +1,6 @@
 {
-  "bodyHash": "3arSKG7MNiw=",
-  "content": "<p>1.12.2 更新：非常感谢 NinjaPhenix 的更新！我们所有人都非常感激！</p><p>&nbsp;</p><p>这是一个简单的小型模组，添加了各种火把，可以用来提高方块实体的更新速率。简单来说，它们可以让机器运行得更快。</p><p>&nbsp;</p><p>一些使用示例：</p><ul>\n<li>让植物生长得更快</li>\n<li>让矿石熔炼得更快</li>\n<li>增加刷怪笼的刷怪速度</li>\n</ul><p>有一个主要的 Torcherino（加速火把），然后还有各种升级版本。许多功能都可以在模组配置文件中进行配置，配置文件名为 <em>Torcherino.cfg</em>，位于 <em>config/sci4me</em> 文件夹中。</p><blockquote>\n<p><strong>放置 Torcherino 后，默认情况下它是关闭的。您必须右键点击它并使用 GUI 调整其设置，选择您喜欢的范围和速度。</strong></p>\n</blockquote><p>&nbsp;</p><p>欢迎将 Torcherino 添加到整合包中！当然，注明出处是值得赞赏的！</p><p>&nbsp;</p><p><strong>重要提示：</strong> 这个模组最初是由 Moze_Intel 创建的。在他决定停止维护后，我接手了。所以，也要向他致以极大的敬意！ :)</p>",
+  "bodyHash": "0c9c754367b029dc",
+  "content": "\n\n<p>1.12.2 更新：非常感谢 NinjaPhenix 进行的更新！我们都非常感激！</p>\n<p>&nbsp;</p>\n<p>这是一个小型且简单的模组，添加了多种火把，可用于提高方块实体的刻率。简单来说，它们能让机器运行得更快。</p>\n<p>&nbsp;</p>\n<p>一些使用示例：</p>\n<ul>\n<li>加快植物生长速度</li>\n<li>加快矿石冶炼速度</li>\n<li>提升刷怪笼生成速度</li>\n</ul>\n<p>有一个主要的 Torcherino 本体，以及多种可添加在其上的升级组件。其中许多内容均可在模组配置文件中进行自定义，该文件名为 <em>Torcherino.cfg</em>，位于 <em>config/sci4me</em> 文件夹中。</p>\n<blockquote>\n<p><strong>放置 Torcherino 后，其默认状态为关闭。您必须右键点击它并使用图形界面（GUI）将设置调整为您偏好的范围和加速倍率。</strong></p>\n</blockquote>\n<p>&nbsp;</p>\n<p>欢迎将 Torcherino 加入您的整合包！当然，如果您能注明原作者信息，我们将不胜感激！</p>\n<p>&nbsp;</p>\n<p><strong>重要提示：</strong>该模组最初由 Moze_Intel 创建。在他决定停止维护后，我接手了该项目。因此，也要把大量的功劳归功于他！ :)</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

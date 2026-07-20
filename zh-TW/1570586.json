@@ -1,0 +1,6 @@
+{
+  "bodyHash": "47d8563b016e0d43",
+  "content": "\n\n<h1><strong>戰鬥碰撞箱</strong></h1>\n<p>此<strong>純視覺</strong>模組提供了偵錯碰撞框的線條寬度設定（原版的大小通常太細，不符合我的偏好）、各部件的顏色設定，以及針對各部件的開關選項。</p>\n<p>是否厭倦了必須眯著眼睛才能看清微小的攻擊指示器，以確認自己是否在攻擊範圍內？使用「戰鬥碰撞箱」後，整個碰撞框會改變顏色（預設為紅色），藉此標示你所鎖定的目標敵人。</p>\n<span><span class=\"embed-removed\"> 嵌入內容已移除：<a href=\"https://elerium.curseforge.com/linkout?remoteUrl=https%3a%2f%2fwww.youtube-nocookie.com%2fembed%2fIugaEAV7xi8\" rel=\"noopener nofollow\">https://www.youtube-nocookie.com/embed/IugaEAV7xi8</a> </span></span>\n<p>（更多預覽圖請參閱圖庫，也別忘了去關注 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fuser%252fTektonikal\" rel=\"nofollow\">Tektonikal</a>）</p>\n<h2>相依模組</h2>\n<p>此模組需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" rel=\"nofollow\">Fabric API</a>，並需搭配 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcloth-config\" rel=\"nofollow\">Cloth Config</a> 與 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodmenu\" rel=\"nofollow\">Mod Menu</a> 以供設定使用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

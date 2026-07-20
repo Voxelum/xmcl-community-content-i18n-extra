@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5e3c00c57326964d",
+  "content": "\n\n# SaveMod\n\n### Minecraft Fabric мод, позволяющий сохранять (и загружать) ваши миры, как в любой другой игре.\n\n---\n\n## Возможности\n\n- Сохранение мира (из меню паузы)\n- Список сохранений\n- Загрузка сохранения\n- Переименование сохранений\n- Дублирование сохранений\n- Удаление сохранений\n- Горячая клавиша для быстрого доступа к списку сохранений\n- Ещё одна горячая клавиша для быстрого доступа к функции сохранения\n- Поле поиска для быстрого нахождения сохранения\n- Навигация с клавиатуры\n- Настройки для включения/отключения отдельных кнопок и отключения сжатия\n- Экран настроек (требуется [Mod Menu](https://modrinth.com/mod/modmenu/versions))\n\n## Зависимости\n\n<a href=\"https://modrinth.com/mod/fabric-api/versions\">\n<img width=\"150\" src=\"https://github.com/Rashnain/SaveMod/blob/main/readme_assets/requires_fabric_api.png?raw=true\" alt=\"Требуется Fabric API\">\n</a>\n\n## Необязательные зависимости\n\nВы можете использовать [Mod Menu](https://modrinth.com/mod/modmenu/versions) для настройки мода в игре, но также его можно настроить, отредактировав файл `savemod.properties`, расположенный в директории `config`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

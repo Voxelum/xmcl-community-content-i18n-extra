@@ -1,0 +1,6 @@
+{
+  "bodyHash": "36a5b9a03eebdeab",
+  "content": "\n\n<p>隆重推出&nbsp;<strong>蒸汽涡轮机！</strong><br><br></p>\n<ul>\n<li>蒸汽通过基础方块产生：将蒸汽引擎放置在锅炉上，触发储水箱组成锅炉结构；若前方连接管道，它即可作为蒸汽出口。</li>\n<li>蒸汽不同于液体，它<strong>无法被泵送</strong>，也不受基础机制的传输距离限制。</li>\n<li>产生的蒸汽量（mb/t）与蒸汽引擎的多方块结构等级及SU（应力单位）成正比。</li>\n<li>若两条蒸汽管道汇合，蒸汽量将翻倍；分支时则减半。</li>\n<li><strong>轴向风扇</strong>与<strong>离心涡轮机</strong>可将蒸汽转化为旋转动力（输出至底面），其效率甚至可比普通Create蒸汽引擎提升高达<strong>250%</strong>！</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

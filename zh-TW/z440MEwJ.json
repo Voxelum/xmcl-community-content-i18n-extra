@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d76f04da1ea76dd3",
+  "content": "\n\n本模組致力於解除多人遊戲功能的使用限制，特別是遊戲內聊天功能。它將解鎖聊天及其他可能因你的 Minecraft 帳號而無法使用的功能。\n\n自 **1.16.4** 版本起，隨著「社交互動」介面的導入，原版 Minecraft 客戶端現在可能會根據由 **Mojang/Microsoft** 掌控的 Minecraft 帳號旗標，阻止你存取多人遊戲選單或遊戲內聊天。這些旗標可基於任何原因啟用或停用。本模組僅復原此項變更，讓所有多人遊戲功能都能像 **1.16.3** 及更早版本一樣正常存取。\n\n這些限制僅在客戶端強制執行，因此本模組只需安裝在客戶端即可生效（儘管未來 Minecraft 版本可能會有所調整）。\n\n**No Chat Restrictions 目前已涵蓋 100% 受多人遊戲限制影響的 Minecraft 版本。** 無論你遊玩哪個版本的 Minecraft，都有對應相容的模組版本。\n\n歡迎加入我的 **Discord** 伺服器，並在 [#no-chat-restrictions](https://discord.com/channels/757941072449241128/1465785682151735319) 頻道中討論本模組：https://discord.com/invite/xtfXsJAPhz\n\n你也可以觀看我的 **YouTube** 影片，了解與本模組相關的背景資訊：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/tI0ZGoaTgMg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1b14ff77cb6af7c1",
+  "content": "\n\n# PixelCringe\nPixelmon 有**很多**让我感到困扰的功能，所以我制作了这款模组\n\n## 当前修复\n### 界面\n* 禁用暂停菜单界面修改\n* 禁用世界加载界面修改\n* 禁用服务器连接界面修改\n* 禁用主菜单界面修改\n* 禁用多人游戏界面修改\n### Discord\n* 强制禁用 Discord RPC\n### 其他\n* 禁用游戏图标替换\n* 禁用 Pixelmon 服务器推广（不会移除你已添加的服务器）\n\n## 配置\n使用 [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) 或 [Forge Config Screens](https://modrinth.com/mod/forge-config-screens) 在游戏中访问配置菜单\n\n## 支持版本\n* 1.16.5：已完成\n* 1.20.1：已完成\n* 1.20.2：已完成\n* 1.21.1：已完成\n* <=1.12.2：暂无计划",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

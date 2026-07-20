@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a143887f29ef6f91",
+  "content": "\n\n<h2>Anima</h2>\n<p>Anima 是一款轻量级模组，会在你击杀生物后展示它们的灵魂！</p>\n<p><img src=\"https://media.forgecdn.net/avatars/console-avatars/avatar_b3e11fab-3eab-47e8-87a2-efcd295afa4a.png\" alt=\"Minecraft中半透明的奶牛正在死亡\"></p>\n<h3>仅客户端运行</h3>\n<p>Anima 在专用服务器上可正常运行。它通过接管并替换生物默认的渲染着色器来实现效果，因此特殊动画及死亡功能均可完整保留。</p>\n<h3>自定义着色器</h3>\n<p>Anima 使用自定义着色器，这可能会与原版的透明度机制产生兼容问题。当渲染此类生物且其位于其他透明物体（如水）前方时，可能会出现渲染伪影。属于预期内的正常现象。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

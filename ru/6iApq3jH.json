@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7341a8e7affbec48",
+  "content": "\n\n# О ПРОЕКТЕ:\n**Этот шейдер может быть полезен для разработчиков модов, моделей и текстурпаков. Он поддерживает различные режимы отображения каркаса, карт нормалей, глубины, PBR, позиций и т. д. в одном шейдере, и все они имеют соответствующие подписи.**\n\nКогда я только начинал работать с шейдерами, мне было не совсем понятно, как эти режимы выглядят визуально при отладке. Поэтому я надеюсь помочь новичкам собрать удобный готовый шейдер в одном месте.\n\n<p align=\"center\">\n  <a href=\"https://patreon.com/cw/lolip_p\">\n    <img src=\"https://img.shields.io/badge/Patreon-000000.svg?style=for-the-badge&logo=patreon&logoColor=white\">\n  </a>\n  <a href=\"https://discord.gg/Cz2sCWz5Wh\">\n    <img src=\"https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white\">\n  </a>\n</p>\n\n### Демонстрация каркаса:\n![Демонстрация каркаса](https://cdn.modrinth.com/data/6iApq3jH/images/eeb81e16c831fd282718cbe79a8481bb19cd497d.webp)\n### Демонстрация карт нормалей:\n![Демонстрация карт нормалей](https://cdn.modrinth.com/data/6iApq3jH/images/934225186882464725d9a24c10e4265e3e885627.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

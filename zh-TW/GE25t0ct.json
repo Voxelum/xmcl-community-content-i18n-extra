@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a8929ab8fd5041ad",
+  "content": "\n\n# Valkyrien Skies（非官方 NeoForge 移植版）\n\n⚠️ **重要免責聲明**\n這是將 Valkyrien Skies 移植至使用 NeoForge 載入器的 Minecraft 1.21.1 版本的**非官方**版本。 \n* 請**不要**將此版本中發現的任何錯誤或問題回報給 Valkyrien Skies 的官方開發團隊。\n* 如需支援、錯誤回報或關於此 1.21.1 版本的任何疑問，請在此留下留言或直接聯繫移植版作者。\n\n---\n\n## 🌟 移植版介紹\n此版本將 Valkyrien Skies 2 強大的物理引擎帶入了 NeoForge 1.21.1。它讓你能夠在最新版的 Minecraft 中打造飛艇、船隻以及其他基於物理運行的可移動結構。\n\n## 🔧 移植來源與相容性說明\n* **開發背景：** 此版本基於 GitHub 上現有的移植分支建置，並經過我進一步調整、修復與優化以確保正常運作。\n* **Oculus / Iris 著色器：** **完全不相容。** 請勿嘗試在此版本中使用任何著色器。\n* **ETF & EMF：** 目前原因不明，暫時不相容。未來更新可能會解決此問題。\n\n## 🛠️ 必要依賴模組\n要遊玩此模組，你**必須**在 `mods` 資料夾中安裝以下前置依賴：\n1. **Kotlin For Forge** https://modrinth.com/mod/kotlin-for-forge\n2. **Create** https://modrinth.com/mod/create/versions\n3. **Architectury API** https://modrinth.com/mod/architectury-api\n---\n若原作者有任何疑問或投訴，請透過 Discord 聯繫我：@valeriy1199\n\n## 📜 致謝與授權\n* **原始創作者：** 衷心感謝 Tri0de、Rubydesic 以及整個 Valkyrien Skies 團隊打造了這款驚人的物理引擎。 \n* **原始程式碼：** [Valkyrien Skies GitHub](https://github.com/ValkyrienSkies/Valkyrien-Skies-2)\n* **授權條款：** 本移植版依據 **LGPL-3.0 授權條款** 發行，並嚴格遵守原模組的授權規範。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

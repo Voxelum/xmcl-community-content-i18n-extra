@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8c939fee3c022f2b",
+  "content": "\n\n<p>本模组包含来自 Dynamic Surroundings 的 HUD 功能。由于本模组重复了早期版本 Dynamic Surroundings 的功能，因此仅与 Dynamic Surroundings 3.5.4.0+ 版本兼容。若您安装了更早的版本，客户端将因依赖错误而无法启动。</p>\n<p>本模组完全为客户端模组。若安装至服务器不会引发任何错误，Forge 也会自动忽略加载该模组。因此，如有需要，将其放入通用整合包中非常安全。</p>\n<p>本模组提供的 HUD 包括：</p>\n<ul>\n<li>指南针。手持时会显示您当前的位置及朝向。</li>\n<li>时钟。手持 Minecraft 指南针或注视包含指南针的物品展示框时，会弹出提示显示 Minecraft 世界的日期/时间。</li>\n<li>季节。手持来自 Serene Seasons 的季节时钟可显示当前季节。</li>\n<li>药水。将药水 HUD 移至屏幕其他位置并提供更详细的信息。</li>\n<li>光照等级。以图形方式绘制玩家周围方块的光照等级，并根据安全性进行颜色编码。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

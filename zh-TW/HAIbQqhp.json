@@ -1,0 +1,6 @@
+{
+  "bodyHash": "359b6f54f331633f",
+  "content": "\n\n# 選擇性發光\n一款極度簡單的伺服器模組，可為玩家套用偽裝發光效果。 \n\n### 使用方法\n僅有一個指令即可控制所有功能。\n```\n/glow <targets: entities> <displayplayers: players>\n```\n`targets` - 將被發光的實體。\\\n`displayplayers` - 會看到 `targets` 發光的玩家。（此指令會*覆蓋*先前的 `displayplayers` 設定）\n\n使用以下指令重置目標的發光效果。\n```\n/glow <targets: entities> *reset\n```\n或使用以下指令重置所有發光覆蓋設定。\n```\n/glow *reset\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

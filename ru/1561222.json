@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e25a0d1ddf4b6c77",
+  "content": "\n\n<h1>Что такое тон Шепарда?</h1>\n<p>Тон Шепарда — это слуховая иллюзия, создающая ощущение постоянно повышающегося или понижающегося звука, хотя на самом деле его частота циклически повторяется и никогда не выходит за определённые пределы (этот же приём использовался для бесконечной лестницы в Super Mario 64)</p>\n<h1>Почему вы использовали повышение тона, а не тон Шепарда?</h1>\n<p>Этот трюк можно реализовать только с помощью фиксированных таймингов волн, поэтому в реальной игре это невозможно. Тем не менее, я всё равно попытался воспроизвести эффект, просто повышая высоту отдельных звуков</p>\n<p>Для The Binding of Isaac уже существует аналогичный <a href=\"/linkout?remoteUrl=https%253a%252f%252fsteamcommunity.com%252fsharedfiles%252ffiledetails%252f%253fid%253d2196484541\" target=\"_blank\" rel=\"nofollow\">мод</a>, откуда я и взял идею. Вся заслуга в создании оригинальной концепции принадлежит <a href=\"/linkout?remoteUrl=https%253a%252f%252fsteamcommunity.com%252fid%252fOciXCrom\" target=\"_blank\" rel=\"nofollow\">IsaacGuru</a></p>\n<p>Discord - <a href=\"https://discord.gg/DvWt9HAg8e\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/DvWt9HAg8e</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

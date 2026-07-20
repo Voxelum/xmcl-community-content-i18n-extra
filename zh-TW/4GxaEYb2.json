@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d7133ff20d19ae9e",
+  "content": "\n\n# 夜行燈籠\n\nNocturne Lanterns 是一款 Fabric 模組，新增了會根據一天中的時間動態變化的新燈籠變體。夜幕降臨時，燈籠會自動點亮；當黎明到來時，燈籠則會熄滅。\n\n**重要提示：**\n銅燈籠需等到 Minecraft 版本 1.21.9 或此模組版本 1.0.0+mc1.21.9 以上才會推出。\n\n## 合成配方\n**預設配方**\\\n![展示每種燈籠變體合成配方的 GIF。所有配方的正下方中間格均為日光感測器。其中一種變體在外圈槽位放置鐵錠，中心放置火把；另一種變體與前述相同，但將火把替換為靈魂火把；最後一種變體則以銅粒取代鐵粒，並將普通或靈魂火把替換為銅火把。](https://cdn.modrinth.com/data/cached_images/96b6c7c983391a95051420420509a3a2e99350b8.gif)\n\n**替代配方**\\\n![展示替代合成配方的 GIF。這是一個無固定形狀的配方，將一般變體的燈籠與日光偵測器一起放入，即可合成出夜行變體。](https://cdn.modrinth.com/data/cached_images/4e94faf6ff5793ec7e2a6957f107d995606e0c21.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

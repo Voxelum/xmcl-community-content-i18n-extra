@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ddc91248b4bd3abd",
+  "content": "\n\n<h2><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fno-shield-delay%252fversion%252f1.0.0\" target=\"_blank\" rel=\"nofollow\">此模组的 Fabric 版本可在此获取！</a></h2>\n<p>&nbsp;</p>\n<p><img src=\"https://i.imgur.com/odnnrV2.gif\" alt=\"对比视频\"></p>\n<p>&nbsp;</p>\n<h2>可配置移除格挡时的 5 刻延迟。</h2>\n<p><span style=\"font-size:18px\">可在服务器上使用，其他玩家无需安装此模组！</span></p>\n<div><br><h2>🏹| 笨重的盾牌</h2><hr><br><p>有没有过反应极快举起盾牌，却被一个卫道士一击穿透的经历？<br><code><em>铛</em> “……怎么会”</code><br>没错，你猜对了：举盾时游戏后台其实有 5 刻的隐藏等待时间，而动画几乎完全没有体现这一点。<br>本模组允许你自定义或完全移除该延迟。它适用于原版或模组添加的任何具有基础游戏格挡延迟的物品。</p></div>\n<div><br><h2>👀| 工作原理</h2><hr><br><p>请查看 <a href=\"https://github.com/Revvilo/Responsive-Shields#readme\" rel=\"nofollow\">GitHub 说明文档</a>。</p></div>\n<div><br><h2>⚙️| 配置文件</h2><hr><br><h3>文件与内容：</h3><p>responsive-shields.toml</p><code>举盾时间</code><p style=\"padding-left:30px\">（默认值：0）右键点击后到游戏开始格挡攻击所需的时间（以刻为单位）。</p><code>启用<br></code><p style=\"padding-left:30px\">（默认值：true）是否启用模组效果。</p><h3>说明：</h3><ul><li>将举盾时间设为 0 可使盾牌立即格挡。</li><li>设为 5 则与原版一致。</li><li>客户端举盾动画大约需要 1 刻完成。因此将举盾时间设为 1 或 2 能在响应速度与防止被轻易穿透之间取得不错的平衡。</li></ul></div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

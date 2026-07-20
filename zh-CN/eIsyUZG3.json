@@ -1,6 +1,6 @@
 {
-  "bodyHash": "oL5QocBEMbo=",
-  "content": "![展示动图](https://cdn.modrinth.com/data/cached_images/72591a6434418b50a091dd7861d28171fa4ad189.gif)\n\n本模组为机械动力中的传动装置以及Sable子层级（包含在机械航空学中）添加了动态光源支持。\n\n必需模组  \n- 机械动力 (Create)  \n- 钠·动态光源 (Sodium Dynamic Lights)  \n- Sable  \n\n本模组为客户端模组，并对服务器具有增益效果。\n\n推荐模组  \n- Colorwheel：优秀模组，可为部分光影提供源自传动装置的彩色光照支持  \n- Iris：光影模组  \n- Euphoria Patches：光影增强模组/配合Colorwheel与本模组使用时，可实现传动装置散发的彩色光照效果",
+  "bodyHash": "575fde2f9a86e374",
+  "content": "\n\n![Showcase Gif](https://cdn.modrinth.com/data/cached_images/72591a6434418b50a091dd7861d28171fa4ad189.gif)\n\n本模组为 Create 机械、Sable 子层级（含 Create Aeronautics）提供动态光照支持。\n\n所需模组 \nCreate\nSodium Dynamic Lights\nSable\n\n本模组为客户端模组，但能为服务器端带来实际增益。\n\n推荐模组 \nColorwheel - 优秀模组，可为部分着色器添加由机械产生的彩色光照支持。\nIris - 着色器模组 \nEuphoria Patches = 着色器增强模组；搭配 Colorwheel 与本模组使用效果极佳，可实现机械投射的彩色光照。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

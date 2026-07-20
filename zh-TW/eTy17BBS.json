@@ -1,6 +1,6 @@
 {
-  "bodyHash": "K+jUR99GZaw=",
-  "content": "Enhanced Attack Indicator 是一個 **Fabric** 和 **NeoForge** 模組，能在更多動作中顯示攻擊指示器的進度。\n\n**新增動作：**\n* 破壞方塊\n* 拉弓、弩、三叉戟\n* 進食\n* 有冷卻時間的物品（盾牌、歌萊果、終界珍珠）\n* 睡覺進度\n* 界伏盒 / 束口袋的裝滿程度\n\n**其他功能：**\n* 可分別啟用或停用上述各項目\n* 可調整一般武器冷卻的優先順序\n* 可停用鎬與鏟的武器冷卻\n* 可停用斧的武器冷卻",
+  "bodyHash": "afaf641c48de856f",
+  "content": "\n\nEnhanced Attack Indicator 是一款支援 **Fabric** 與 **NeoForge** 的模組，可於更多動作中顯示攻擊指示器進度。\n\n**新增動作：**\n* 破壞方塊\n* 拉弓、弩、三叉戟蓄力\n* 食用食物\n* 具有冷卻時間的物品（盾牌、終界果、末影珍珠）。\n* 睡眠進度\n* 潛影盒／包裹袋的裝填程度\n\n**其他功能：**\n* 可個別開啟或關閉上述項目\n* 可更改一般武器冷卻的優先順序\n* 可關閉鎬子與鏟子的武器冷卻\n* 可關閉斧頭的武器冷卻\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/mwCCzznCAfc?si=J7k9AndwTJ7FR2L_\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

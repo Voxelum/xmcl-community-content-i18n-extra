@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7c4cfbbe400ae61",
+  "content": "<h2 style=\"text-align: center;\">开放队伍与领地 PvP 支持</h2>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">一款小型模组，允许在队伍成员之间禁用 PvP，同时通过 /opacpvp 命令添加个人开关功能。</p>\n<p style=\"text-align: center;\">在 Fabric 端需要安装 <a href=\"https://www.curseforge.com/minecraft/mc-mods/faux-custom-entity-data\">Faux Custom Entity Data</a>。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h3 style=\"text-align: center;\"><strong>&nbsp;⭐ 功能特性 ⭐</strong></h3>\n<h3 style=\"text-align: center;\">&nbsp;</h3>\n<h4 style=\"text-align: center;\"><strong>禁用队伍成员间的 PvP</strong></h4>\n<p style=\"text-align: center;\">安装此模组后，将禁用队伍成员之间的 PvP 伤害。</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h4 style=\"text-align: center;\"><strong>个人 PvP 开关（仅限 Fabric）</strong></h4>\n<p style=\"text-align: center;\">使用 /opacpvp 命令可以切换你个人的队伍 PvP 状态。</p>\n<p style=\"text-align: center;\">如果你与队伍成员发生战斗，双方都必须启用个人 PvP 才能互相造成伤害。</p>\n<p style=\"text-align: center;\">默认值可以在配置文件中修改，且整个功能也可以在配置文件中禁用。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

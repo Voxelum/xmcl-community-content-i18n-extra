@@ -1,14 +1,6 @@
 {
-  "bodyHash": "t8nPc3vRez8=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "17b29210-7464-98c1-b455-43d530b60877"
-  },
+  "bodyHash": "fc07bc08fa68ee8f",
+  "content": "\n\n<p>Уберите пугающие красные рамки вокруг устаревших ресурспаков и датапаков, а также избавьтесь от назойливых всплывающих предупреждений при их применении.&nbsp;Неофициальный порт <a href=\"https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings\" rel=\"nofollow\">No Resource Pack Warnings</a> для Forge</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

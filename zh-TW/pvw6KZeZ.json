@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FM09gYED2vA=",
-  "content": "# 掠奪者威懾裝置\n\n掠奪者巡邏隊總是令人困擾。這個模組新增兩種方法來阻止巡邏隊生成。\n\n第一種是戒指，你可以放在物品欄（或飾品欄位）中隨身攜帶。\n\n第二種是旗幟，放置後能在可設定的範圍內阻止巡邏隊生成。\n\n若有任何意見或建議，請在GitHub上留言或提交議題！\n\n## 獲取方式\n旗幟和戒指均可透過合成取得：\n\n![戒指合成配方](https://github.com/will-y/pillager-deterrent/raw/main/img/crafting/ring.png)\n\n![旗幟合成配方](https://github.com/will-y/pillager-deterrent/raw/main/img/crafting/banner.png)\n\n戒指也有50%的機率在掠奪者前哨站的儲物箱中生成。\n\n## 設定選項\n可透過設定選項 `banner_range` 調整旗幟的作用範圍。",
+  "bodyHash": "d9702c68fec982ef",
+  "content": "\n\n# 掠奪者阻擋器\n掠奪者巡邏隊總是令人困擾。此模組提供了兩種方法來阻止它們生成。\n\n第一種是一個戒指，您可以將其存放在物品欄（或 Curios 欄位）中。\n\n第二種是一面旗幟，放置後可在其周圍的可自訂範圍內阻止巡邏隊生成。\n\n如果您有任何意見或建議，歡迎在 GitHub 上留言或提交 Issue！\n\n## 取得方式\n您可以製作旗幟與戒指：\n\n![戒指製作](https://github.com/will-y/pillager-deterrent/raw/main/img/crafting/ring.png)\n\n![旗幟製作](https://github.com/will-y/pillager-deterrent/raw/main/img/crafting/banner.png)\n\n該戒指也有 50% 的機率會在掠奪者前哨站的箱子中生成。\n\n## 設定選項\n您可以透過設定檔中的 `banner_range` 參數來自訂旗幟的生效範圍。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

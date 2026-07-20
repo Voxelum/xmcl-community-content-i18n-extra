@@ -1,0 +1,6 @@
+{
+  "bodyHash": "35746d7aca6c517c",
+  "content": "\n\n## 關於\n**NBT Copy** 是一款小型模組，為 `/data get` 指令的輸出內容新增複製按鈕。\n\n這是一個伺服器端模組，因此要在多人遊戲中與 `/data get` 配合使用時，必須在伺服器上安裝。不過，它也能在客戶端配合 [clientcommands](https://modrinth.com/mod/client-commands) 的 `/cgetdata` 指令使用。\n\n## 範例\n\n![](https://cdn.modrinth.com/data/XIIGRXeq/images/6d4bffb2ce1889afd93abf3e04ba6f016078fd11.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

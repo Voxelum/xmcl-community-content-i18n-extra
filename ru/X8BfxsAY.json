@@ -1,0 +1,6 @@
+{
+  "bodyHash": "668a8cebe73d8940",
+  "content": "\n\nМод в стадии разработки, который добавит различные утилитарные/функциональные предметы и блоки, идеи для которых я буду придумывать по мере разработки Craftoria.\n\nВ настоящее время добавлены следующие возможности:\n\nБаллончик с краской — позволяет одним предметом перекрашивать различные блоки, такие как кабели AE2, шерсть, терракота, бетон и т. д. После первичного крафта красители не расходуются. Бесконечная прочность.\n\nЗажмите Shift и прокрутите колёсико мыши на предмете, чтобы выбрать цвет. Нажмите правой кнопкой мыши по блоку, чтобы перекрасить его в выбранный цвет. Зажмите Shift и нажмите правой кнопкой мыши, чтобы массово перекрасить все соединённые между собой блоки того же типа и цвета.\n\n<details><summary>Демонстрация</summary>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/s--S7DlAmFg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

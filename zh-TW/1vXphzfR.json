@@ -1,6 +1,6 @@
 {
-  "bodyHash": "J6owLXfTFls=",
-  "content": "# 可燃深淵\n一個小型 Fabric 模組，為地獄新增了 2 種新型爆炸方塊，當與其互動時會爆炸。靈感來自《核心守護者》中的鋁熱劑牆。\n\n## 特色功能\n<details>\n  \n<summary>\n  引燃方塊 & 靈魂引燃方塊\n  </summary>\n\n- 在地獄中生成，靈魂引燃方塊特定位於靈魂砂谷\n- 當與其互動時，會啟動並引爆附近所有引燃方塊\n- 可使用絲綢之觸安全採集\n- 可使用火藥、火焰彈與打火石/靈魂砂合成\n\n</details>\n\n## 建議 / 問題回報\n有任何建議或發現錯誤嗎？歡迎[加入我們的 Discord](https://discord.gg/Dmp2dbyNrs) 或[在我們的 GitHub 提交問題](https://github.com/Now-this-is-crazy/Combustible-Depths/issues)。",
+  "bodyHash": "1c816a0ab014f4ec",
+  "content": "\n\n# 可燃深淵\n這是一款小型 Fabric 模組，為地獄新增了 2 種爆炸方塊，互動時會引發爆炸。靈感源自《Core Keeper》中的鋁熱劑牆（Thermite Wall）。\n\n## 功能特色\n<details>\n  \n<summary>\n  Ignite 與 Soul Ignite\n  </summary>\n\n- 可在地獄中找到，Soul Ignite 則專門出現於靈魂沙谷\n- 進行互動時會觸發並引爆周圍所有的 Ignite\n- 使用「絲綢之觸」附魔可安全挖掘\n- 可使用火藥、火焰球以及打火石／靈魂沙合成\n\n</details>\n\n## 建議與問題回報\n有任何建議或發現了錯誤？請[加入我們的 Discord](https://discord.gg/Dmp2dbyNrs) 或[在 GitHub 上建立問題](https://github.com/Now-this-is-crazy/Combustible-Depths/issues)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

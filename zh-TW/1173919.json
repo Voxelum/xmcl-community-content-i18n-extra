@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d636ae83eec87920",
+  "content": "\n\n<p style=\"text-align:center\"><span style=\"font-size:24px\">移植 Dead Libs</span></p>\n<p style=\"text-align:left\">&nbsp;</p>\n<p style=\"text-align:center\"><span style=\"font-size:18px\">概述</span></p>\n<p style=\"text-align:left\">Porting Dead Libs 是一款通用型模組開發函式庫，提供以下功能：</p>\n<ul>\n<li style=\"text-align:left\">多區塊 API，支援動態尺寸的多區塊、可動態更換方塊的多區塊，以及預覽渲染器</li>\n<li style=\"text-align:left\">方塊實體 API，為 NeoForge 的 Capabilities 機制提供抽象層。該 API 也支援端側（Sided）I/O</li>\n<li style=\"text-align:left\">名為「Components」的螢幕（Screen）API，允許將 GUI 功能拆分為元件並重複使用</li>\n<li style=\"text-align:left\">物品與方塊實體的自動 Capability 註冊功能</li>\n<li style=\"text-align:left\">各種實用工具，滿足您的各種需求</li>\n</ul>\n<h2 style=\"text-align:center\">正在尋找遊戲伺服器？</h2>\n<p style=\"text-align:center\"><strong>嘿</strong>，如果您正在尋找與朋友一起玩模組版 Minecraft 的方法，並且希望支持我，我強烈建議使用 Bisect Hosting。他們提供出色的全天候客服、快速的響應時間以及優惠的價格！事實上，他們還提供了一個折扣碼，讓您的首次購買可享 25% 折扣。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252fthepigcat\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/1173919/description_ff2b3e88-9365-4fd3-9823-00ade03f9870.webp\" alt=\"\" width=\"850\" height=\"140\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

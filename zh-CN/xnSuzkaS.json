@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bfa654fbde8ba5a5",
+  "content": "\n\n## ViveCraft 兼容\n提升 ViveCraft 与各类其他模组之间的兼容性。\n目前支持的模组：\n- [Create](https://modrinth.com/mod/create)  \n  修复了驾驶火车的问题  \n  修复了轨道碰撞箱损坏的问题  \n  修复了按住设置菜单无效的问题  \n  为电梯控制添加了图形用户界面 (GUI)\n- [First Person Model](https://modrinth.com/mod/first-person-model)  \n  ~~在正确位置渲染第一人称模型~~（已在 ViveCraft 1.1.0 中修复）  \n  隐藏 VR 双手，或允许开启“原版手部”模式（仅显示 VR 手），使用“双手同显”可同时查看两者。\n- [Jade](https://modrinth.com/mod/jade)  \n  将覆盖层注册至 Forge 的覆盖层注册表中。\n- [JourneyMap](https://modrinth.com/mod/journeymap)  \n  将覆盖层注册至 Forge 的覆盖层注册表中。\n- [The One Probe](https://modrinth.com/mod/the-one-probe)  \n  将覆盖层注册至 Forge 的覆盖层注册表中。\n- [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage)  \n  修复了无线终端无法正常工作的问题。\n\n### 覆盖层系统（仅限 Forge）：\n你可以在 VR 环境中为各类原版及模组化的 HUD 元素创建自定义覆盖层。  \n这些覆盖层可显示一组 HUD 元素列表，支持将其锁定在玩家手上或在世界空间中浮动。  \n![覆盖层图片](https://cdn.modrinth.com/data/xnSuzkaS/images/07c118592f3088d15940456f8253572e0421f407.jpeg)\n该功能依赖于 Forge 的覆盖层注册表，因此本模组大概率不会移植至 Fabric 平台。  \n\n所需模组：\n- [ViveCraft](https://modrinth.com/mod/vivecraft)\n- [Customizable Player Models](https://modrinth.com/mod/custom-player-models)，用于支持模组化 GUI 的显示。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

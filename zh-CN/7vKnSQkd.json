@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f8f341065a190eba",
+  "content": "\n\n是否在单人或多人游戏中遇到过类似“!!!!VS PHYS THREAD CRASH!!!!”或“队列中帧数过多，游戏阶段是否已损坏？”的错误？这些问题通常会导致游戏卡顿，让你几乎无法正常放置或移动方块。\n\n**别担心！VS Safe and Sound** 来帮你解决。该模组可以捕获物理线程中的潜在崩溃问题，包括**无效的力/扭矩**、**意外的约束更新**等。\n![捕获无效的力](https://cdn.modrinth.com/data/cached_images/ec5f76889b10510ae9a20db0c5044d991aa6094f.png)\n本模组已在多个 Forge 服务器及单人 Forge 整合包中经过测试，运行十分稳定。虽然已有 Fabric 版本，但尚未进行实地测试。欢迎提供任何反馈！\n\n此外，有时卸载 VS 相关插件会导致世界无法加载。本模组也能处理这种情况，它会在加载存档时自动跳过残留的插件数据。\n![捕获残留的 VS 插件数据](https://cdn.modrinth.com/data/cached_images/a902e6e3fea979d72d2b5f585e82feafd6d3d6f1.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

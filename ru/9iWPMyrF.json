@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2d90205dd9a3191",
+  "content": "Этот мод является бесстыдной копией энергетических коннекторов FE из мода [Create: Crafts & Additions](https://modrinth.com/mod/createaddition) от MRH0, с новыми моделями и текстурами. Оригинальный мод (и, следовательно, этот мод) лицензирован по лицензии MIT.\n\nДобавляет один простой блок передачи энергии FE — Bleb, который можно переключать между режимами Pull (притяжение) и Push (выталкивание) с помощью гаечного ключа Create. Используя Gayble, вы можете соединять Blebs друг с другом, и энергия будет течь от Blebs в режиме Pull к Blebs в режиме Push, при условии, что Blebs в режиме Pull подключены к источнику энергии FE из другого мода.\n![Два Blebs, соединенные Gayble](https://cdn.modrinth.com/data/cached_images/d9c61348ff98b9a0e418dbd9585834021cb3df61.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

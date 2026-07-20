@@ -1,6 +1,6 @@
 {
-  "bodyHash": "JHzfaOluSrA=",
-  "content": "# ⚡ fastfps-optimized\n\n**最高FPS，最低延遲 – Minecraft 純性能最佳化。**\n\n---\n\n## ✨ 特色\n\n- 🚀 **顯著的 FPS 提升** – 即使在低階電腦上也能流暢遊玩\n- 🧹 **輕量級** – 不改變遊戲玩法，無多餘內容\n- 🔧 **核心最佳化模組** – Sodium、Lithium\n- 🎮 **僅限用戶端** – 可在任何原版伺服器上使用\n\n---\n\n## 📦 相容性\n\n| | |\n|---|---|\n| **Minecraft** | 1.20.1 |\n| **模組載入器** | Fabric |\n| **端別** | 僅用戶端 |\n| **Java** | 17 或更高版本 |\n\n---\n\n## 🔧 安裝方式\n\n1. 下載 `.mrpack` 檔案\n2. 匯入至 **Modrinth App**、**Prism Launcher** 或任何支援 `.mrpack` 格式的啟動器\n3. 啟動並享受流暢的遊戲體驗！\n\n> 可選：新增 Iris 與光影包，在不顯著影響效能的同時提升畫面表現。\n\n---\n\n## 📜 授權條款\n\n**CC BY-NC-ND 4.0** – 僅供個人非商業使用，禁止修改後重新散布。\n\n---\n\n**立即提升你的 FPS！** 🎉",
+  "bodyHash": "cbe5acee16223d74",
+  "content": "\n\n# fastfps-optimized\n\n**最高幀率，最低延遲 – 專為 Minecraft 打造的純效能優化。**\n\n---\n\n## ✨ 功能特色\n\n- 🚀 **大幅提升幀率** – 即使在低階電腦上也能流暢遊玩\n- 🧹 **輕量級** – 不改變遊戲玩法，無冗餘負擔\n- 🔧 **核心優化模組** – Sodium、Lithium\n- 🎮 **僅限客戶端** – 可於任何原版伺服器上使用\n\n---\n\n## 📦 相容性\n\n| | |\n|---|---|\n| **Minecraft** | 1.20.1+ |\n| **模組載入器** | Fabric |\n| **適用端** | 僅限客戶端 |\n| **Java 版本** | 17 或更高 |\n\n---\n\n## 🔧 安裝方式\n\n1. 下載 `.mrpack` 檔案\n2. 將其匯入 **Modrinth App**、**Prism Launcher** 或任何支援 `.mrpack` 格式的啟動器\n3. 啟動遊戲，享受流暢的遊玩體驗！\n\n> 選配：搭配 Iris 與光影包使用，可在不顯著影響效能的前提下提升畫面品質。\n\n---\n\n## 📜 授權條款\n\n**CC BY 4.0** – 免費供個人及非商業用途使用。禁止修改後再分發。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

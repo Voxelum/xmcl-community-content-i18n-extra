@@ -1,6 +1,6 @@
 {
-  "bodyHash": "7XtAOO+tYUY=",
-  "content": "重新加入了[農夫樂](https://modrinth.com/mod/farmers-delight)與[無樹木採集](https://modrinth.com/mod/no-tree-punching)之間的一項相容配方，將烹飪鍋合成配方中的木鏟替換為木棍。\n\n此配方在 Forge 1.20 版本中遺失，而在 Fabric 版本（適用於[農夫樂重鑄版](https://modrinth.com/mod/farmers-delight-refabricated)或[農夫樂 \\[Fabric\\]](https://modrinth.com/mod/farmers-delight-fabric)）中則完全不存在。\n\n![烹飪鍋合成配方](https://cdn.modrinth.com/data/Rmopk4aS/images/b50f4f68b8d8f52d16afa4fb32a814943a388898.png)\n\n若要恢復營火配方（用於合成爐灶或其他用途），請參閱[可合成的營火](https://modrinth.com/datapack/craftable-campfire)。",
+  "bodyHash": "9b9f894ca236497d",
+  "content": "\n\n重新加入 [Farmer's Delight](https://modrinth.com/mod/farmers-delight) 與 [No Tree Punching](https://modrinth.com/mod/no-tree-punching) 之間的相容配方，該配方在合成烹飪鍋時會將木鏟替換成木棍。\n\n此配方在 Forge 1.20 上遺漏了，而在 Fabric（[Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) 或 [Farmer's Delight \\[Fabric\\]](https://modrinth.com/mod/farmers-delight-fabric)）上則完全不存在。\n\n![烹飪鍋製作](https://cdn.modrinth.com/data/Rmopk4aS/images/b50f4f68b8d8f52d16afa4fb32a814943a388898.png)\n\n若想恢復營火配方（用來合成爐灶或其他用途），請查看 [Craftable Campfire](https://modrinth.com/datapack/craftable-campfire)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

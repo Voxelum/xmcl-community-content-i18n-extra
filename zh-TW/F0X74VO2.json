@@ -1,6 +1,6 @@
 {
-  "bodyHash": "GABsDI3ZDuc=",
-  "content": "**1.12.2 -> Forge**  \n**1.20.1 -> Forge**  \n**26.1.+ -> Fabric**  \n\n一個簡單的FVTM車包，內含數種即開即用的車輛，\n每輛車均有多個色彩通道（外部、內部、座椅）。\n\n目前包含：\n- 幾輛簡單的小轎車\n- 一輛簡單的卡車/貨車\n- 一輛簡單的巴士  \n\n_本項目中的所有模型與素材均由 FEX__96（即本人）製作，部分JSON/圖標藉助名為FMT的工具生成。_\n\n更換顏色的影片教學：[YouTube](https://youtu.be/VUQuMcoTXHc?si=0TjB_Y5wMxAxf4bb&t=142) / [bilibili](https://www.bilibili.com/video/BV1Vs421T7wz/?share_source=copy_web&vd_source=f8ab1221e96d6d2aac9f7dae39e8d3bf&t=141)（從2:22開始）\n\n前置模組：\n- FCL - Fexcraft Common Library  \n- FVTM - Fex's Vehicle & Transportation Mod  \n- GEP - General Essentials Pack",
+  "bodyHash": "e954c29bb92da253",
+  "content": "\n\n**1.12.2 -> Forge**    \n**1.20.1 -> Forge**    \n**26.1.+ -> Fabric**    \n\n一個簡單的 FVTM 載具包，內含數個即開即用的載具，每個載具皆具備多個顏色通道（外觀、內部、座椅）。\n\n目前包含：\n- 幾款簡單的轎車\n- 一款簡單的貨車／卡車\n- 一款簡單的巴士  \n\n_本專案的所有模型與素材均由 FEX__96（我）製作，並使用名為 FMT 的工具生成部分 json 檔案與圖示。_\n\n變更顏色教學影片：[YouTube](https://youtu.be/VUQuMcoTXHc?si=0TjB_Y5wMxAxf4bb&t=142) / [bilibili](https://www.bilibili.com/video/BV1Vs421T7wz/?share_source=copy_web&vd_source=f8ab1221e96d6d2aac9f7dae39e8d3bf&t=141)（從 2:22 開始）\n\n依賴項目：\n- FCL - Fexcraft Common Library\n- FVTM - Fex's Vehicle & Transportation Mod\n- GEP - General Essentials Pack",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

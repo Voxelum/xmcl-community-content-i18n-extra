@@ -1,0 +1,6 @@
+{
+  "bodyHash": "45ef7d14eae90561",
+  "content": "## 标记塔建造器（单人及多人游戏）\n\n本模组允许你制作一把**标记塔建造器**，这是一把附魔的铲子，将其丢弃时会魔法般地建造一座简单的标记塔。它让建造标记塔的过程变得轻松，并取而代之的是乐趣！\n\n![标记塔建造器动画横幅图片](https://cdn.modrinth.com/data/cached_images/845c6dc82aad19d92d215efcc0b2a7ad8aa8bfb6.gif)\n\n标记塔建造器提供了一种快速、简便的方法来建造发光的标记塔，伴随着**极具满足感的动画和音效**，使得在你旅行时留下一串标记以标示路线变得真正有趣（且超级快捷）。或者，你也可以随便扔下几个来标记你的基地，就像这样：\n\n![多个紧密相邻建造的标记塔](https://cdn.modrinth.com/data/cached_images/bdcd041b8061136e661061528e346ac2c78ba372.jpeg)\n<small>不过，这确实有点多了。太多了。</small>\n\n## 合成与 /give 命令\n\n标记塔建造器的合成材料包括石铲、火把和圆石块。这些材料可以放置在合成网格的任何位置。\n\n![标记塔建造器在合成桌中的配方](https://cdn.modrinth.com/data/cached_images/6ae5023d6825a1cfeaeb322ea8f2017c2cd3bbfd.gif)\n\n你也可以在聊天栏中输入以下命令：\n**/give @s stick[custom_name={\"text\":\"Marker Tower Builder\"}] 1**\n\n增加命令末尾的数字可以获得更多的标记塔建造器，但请注意，每个建造器占用一个物品栏格子，它们无法在背包中堆叠。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

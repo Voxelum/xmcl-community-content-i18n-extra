@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7164ee34c486f623",
+  "content": "\n\n# 🛡️ WhiteVanilla | CPVP 与 性能\n\n**WhiteVanilla** 是一款专为 **1.21+ 水晶 PvP** 主流玩法打造的高性能资源包。它注重视觉清晰度、简洁美学，并在竞技环境中最大化帧率（FPS）。\n\n### ✨ 主要特性\n* **专注水晶 PvP：** 增强末地水晶、黑曜石和重生锚的可见性。\n* **紧凑武器模型：** 缩短剑的长度并优化下界合金盔甲纹理，确保战斗时视野（FOV）保持开阔。\n* **现代化界面：** 完全重制物品栏与设置菜单，提供更清爽、高对比度的视觉效果。\n* **原版增强体验：** 在保留 Minecraft 核心美学的同时，精修纹理以提供专业的竞技体验。\n\n### ⚙️ 技术要求\n* **加载器：** Fabric\n* **必需/推荐模组：** * [Sodium](https://modrinth.com/mod/sodium)（用于性能优化）\n    * [Indium](https://modrinth.com/mod/indium) 与 [Continuity](https://modrinth.com/mod/continuity)（用于连接纹理与模型支持）\n\n---\n作者：**TheMarco**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

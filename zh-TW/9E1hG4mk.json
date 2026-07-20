@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5f6c3e5caf651202",
+  "content": "\n\n# Narrus Yeetus No Error\n### 移除惱人的朗讀員以及所有相關錯誤。\n\n此模組為 [TheEnderCore](https://modrinth.com/user/TheEnderCore) 所開發的 NarrusYeetus 之分支版本，可移除朗讀員，且不會毫無理由地拋出錯誤。\n\n（原本的 NarrusYeetus 在對朗讀員執行 Mixin 時會拋出錯誤）\n\n**NarrusYeetus：**\n\n<code>[15:35:39] [Render thread/ERROR] (Narrator) Narrus Yeetus!</code>\n\n**NarrusYeetus No Error：**\n\n<code>[15:36:49] [Render thread/INFO] (Narrator) NarrusYeetus has disabled the narrator!</code>\n\n### 其他與 NarrusYeetus 的差異：\n- 移除輔助功能畫面中的朗讀員相關資訊\n- 阻止初始輔助功能設定畫面開啟",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

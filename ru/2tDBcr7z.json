@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cfd9a0248be98881",
+  "content": "\n\n# О моде\nЭтот мод — серверное дополнение для ViaVersion, предназначенное для отображения уведомлений о событиях входа.\n\n### Типы клиентов\n- LunarClient\n- Badlion\n- FeatherClient\n- Vivecraft\n- Optifine\n- Vanilla\n- Fabric\n- Quilt\n- Forge\n- Neoforge\n- Babric\n- LiteLoader\nи другие...\n\n![Showcase](https://cdn.modrinth.com/data/2tDBcr7z/images/5a2f924a328fbbeba6e8497f26b570fa19308701.png)\n\n# Для разработчиков\n## Установка\n- Поместите файл `.jar` в папку `mods` вашего сервера.\n- Чтобы видеть уведомления, вы должны быть оператором (или обладать уровнем прав, эквивалентным `PermissionLevel.OWNERS` по маппингу Mojang), либо выдать себе это разрешение через мод LuckPerms: `kanies_viaversion_alert.alert.event.join`.\n- Запустите сервер.\n\n## Обязательные зависимости\n- ViaFabric, скачать можно здесь: https://modrinth.com/mod/viafabric\n- ViaVersion (включён в архив ViaFabric)\n\n## Необязательные зависимости\n- LuckPerms, скачать можно здесь: https://modrinth.com/mod/luckperms",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

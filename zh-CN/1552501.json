@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f849bc3d1fb3a7be",
+  "content": "\n\n<p><strong>Dynamic Lantern</strong> <strong>是一款模组，允许将装备在 Curios 栏位中的灯笼和光源显示在玩家身上。<br><br>现已支持 Forge 1.20.1 和 NeoForge 1.21.1。<br><br></strong></p>\n<p>在<strong>Curios 腰带栏位</strong>中装备原版灯笼或灵魂灯笼后，它将在玩家腰间渲染，并带有轻微的钟摆摆动效果。当安装<strong>Iris</strong>和&nbsp;<strong>Oculus</strong>时，兼容的光影包可以识别 Curios 中的灯笼并提供发光效果，无需添加独立的动态光源模组或依赖任何额外库。它非常轻量。<br><br></p>\n<p><strong>我制作这个模组的初衷是因为其他同类模组通常需要将动态光源模组作为依赖，而众所周知，动态光源会对性能产生明显影响。许多此类模组还需要复杂的库依赖。</strong></p>\n<p><strong>因此我制作了这款简单轻量的 Dynamic Lantern 模组。它非常适合只需要视觉效果的玩家。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

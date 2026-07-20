@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3d1bab814e64c37f",
+  "content": "<p>OpenSensors добавляет блок датчика и сменные сенсорные карты, которые позволяют вашим OpenComputers получать информацию о пространстве вокруг них.</p>\n<p>&nbsp;</p>\n<p>В настоящее время мод добавляет только один датчик — Датчик мира.</p>\n<p>component.open_sensor.info(\"biome\",64,64) вернет название биомы в координатах x:64, y:64</p>\n<p>info(\"lightlevel\",64,64,35) получит уровень освещенности в блоке с координатами x:64, y:64, z:35</p>\n<p>info(\"raining\") вернет true/false</p>\n<p>info(\"thundering\") вернет true/false</p>\n<p>info(\"daytime\") вернет true/false</p>\n<p>info(\"moonphase\") вернет текущую фазу луны</p>\n<p>info(\"celestialangle\") возвращает угол небесного тела</p>\n<p>info(\"dimension\") возвращает идентификатор измерения</p>\n<p>info(\"temperature\",64,64) возвращает температуру биомы в координатах x:64, y:64</p>\n<p>info(\"highhumidity\",64,64) возвращает, есть ли высокий уровень влажности в биоме по координатам x:64, y:64</p>\n<p>info(\"humidity\",64,64) возвращает уровень влажности биомы в координатах x:64, y:64</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

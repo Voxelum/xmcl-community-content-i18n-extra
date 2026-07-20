@@ -1,0 +1,6 @@
+{
+  "bodyHash": "78094fbeb281fdb4",
+  "content": "\n\n將 [Emojiful](https://modrinth.com/mod/emojiful) **非官方**移植至 1.8.9\n\nEmojiful 為 Minecraft 加入了表情符號，讓您能輕鬆發送表情。它同樣支援動態表情！內建表情自動補全與表情選單，方便您快速搜尋所有可用的表情。此模組適用於告示牌、聊天視窗、命名標籤等多種情境。\n\n歡迎查看圖庫以了解遊戲內的實際效果。\n\n部分設定選項尚未實作，目前可正常使用的選項如下：\n- emoji_autocomplete\n- emoji_selector\n- enabled\n- gifs\n- short_emoji_replacement\n- profanity filter（此功能僅過濾您發送的訊息，不會過濾接收到的訊息）\n\n您可以在遊戲內直接更新設定，無需重新啟動。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

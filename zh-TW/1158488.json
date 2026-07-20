@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5f9e8b11fa7c58f8",
+  "content": "\n\n<p>為 <a href=\"https://www.curseforge.com/minecraft/mc-mods/refined-storage\" target=\"_blank\" rel=\"nofollow\">Refined Storage</a> 的分支版本。以 MIT 授權條款重新發布，一切榮譽歸 raoulvdberge。</p>\n<p>實作 PR <a href=\"https://github.com/refinedmods/refinedstorage/pull/3669\" target=\"_blank\" rel=\"nofollow\">https://github.com/refinedmods/refinedstorage/pull/3669</a>，修復了與 Sophisticated Storage 的重大物品複製漏洞。此修正已用於 Craft to Exile 2，但若您使用的是 1.20.1，也可單獨使用本模組。</p>\n<h1 style=\"text-align:center\"><span style=\"color:#e03e2d\"><strong>不會將此修正逆向移植。</strong></span></h1>\n<blockquote>\n<p>Refined Storage 是一款 Minecraft 大容量儲存模組，提供玩家基於網路的儲存系統，允許他們在可大幅擴展的裝置網路上儲存物品與流體。</p>\n<p>物品與流體可儲存在模組提供的多種儲存能力之一。任何連接到相同網路的儲存裝置，玩家均可透過簡潔的網格介面進行存取，讓玩家在單一統一的圖形化介面中瀏覽多個裝置的庫存。</p>\n<p>此模組不僅提供儲存方案，還加入了可用於操作世界中物品與方塊、以及從系統內部進行操作的裝置，例如輸入器、輸出器、製造器、破壞器等等！模組中還有允許玩家設定自動合成功能的裝置，讓您只需幾個簡單的點擊即可完成複雜配方的製作。</p>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

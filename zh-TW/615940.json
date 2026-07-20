@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de9536ab44527eca",
+  "content": "\n\n<h5><strong>描述：</strong></h5>\n此模組是一款基於《Elden Ring》遊戲內容的附魔模組。\n您可以透過一般方式獲得這些附魔，此外還有一些極為罕見的回憶附魔。\n某些附魔組合起來會非常強大，但也總會有其自身的缺點。\n例如，火焰附魔必須在燃燒狀態下生效，而月亮附魔則需在夜晚才能發揮作用。\n遊戲內包含超過 100 種不同的法術，且後續更新將持續新增更多附魔，善用它們來擊敗敵人吧！\n即使您未曾遊玩過《Elden Ring》，也能在此體驗其獨特的風俗與文化！\n\n<h5><strong>如何了解附魔效果：</strong></h5>\n您可以使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions\" rel=\"nofollow\">Enchantment Descriptions</a> 來查看各附魔的具體效果。\n<h5><strong>移除不想要的附魔：</strong></h5>\n請在 `config/carianstyle.cfg` 設定檔的卸載欄位中填入該附魔的 ID。具體 ID 可透過開啟語言檔查看，等號（=）前的文字即為對應的 ID。\n\n<img src=\"https://s2.loli.net/2022/08/09/3ZGfaHQCmMpXwVO.png\" alt=\"1.png\">\n\n<img src=\"https://s2.loli.net/2022/08/09/beBIkTyW4zSGg31.png\" alt=\"2 2.png\">",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c994f2da312e4265",
+  "content": "\n\n<p>允許您自由調整各種礦石的生成數量（包括其他模組的礦石）。</p>\n<p>礦物生成的預設機率與數量為原本的 1.5 倍，您可以使用指令「/richore config」開啟設定介面來修改此數值。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_39bd24c3-e9ec-4841-b8a4-3b3fb22530f6.png\" alt=\"設定介面\" width=\"640\" height=\"360\"></p>\n<p>您可以使用指令「/richore reload」重新載入設定。修改設定檔後，必須重新進入世界才能套用變更。</p>\n<p>客戶端並非必要安裝，但若希望從客戶端修改設定，則需進行安裝。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

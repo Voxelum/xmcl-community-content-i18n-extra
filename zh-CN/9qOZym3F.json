@@ -1,0 +1,6 @@
+{
+  "bodyHash": "490f62b3fd573a96",
+  "content": "\n\n**练习机器人**\n\n此数据包允许你与 Carpet 机器人进行战锤/水晶 PvP 练习，无需依赖大量的命令方块。 \n\n使用方法\n\n**/function practicebot:macebot (数据包)**                                              \n**/practicebot mace (模组)**                                                                 \n召唤战锤机器人\n\n**/function practicebot:crystalbot (数据包)**  \n**/practicebot crystal (模组)**                                                              \n召唤水晶机器人                                \n\n上述两个 function 均需执行两次才能生效。 \n\n\n**依赖项**\n\nCarpet 模组",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

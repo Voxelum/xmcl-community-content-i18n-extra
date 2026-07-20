@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a6d7f328607e07cd",
+  "content": "\n\n<h2>Kilt ForgeConfigAPIPort Fix</h2>\n<h2><span style=\"color:#f00\"><strong>Этот мод был включён в репозиторий Kilt, поэтому он больше не будет обновляться.</strong></span></h2>\n<p>Данный мод предназначен для исправления проблемы совместимости между <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fkilt\" target=\"_blank\" rel=\"nofollow\">Kilt</a> и <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fforge-config-api-port\" target=\"_blank\" rel=\"nofollow\">Forge Config API Port</a>.</p>\n<h3>В чём заключается ПРОБЛЕМА?</h3>\n<p>При установке Kilt вместе с ForgeConfigAPIPort загрузка конфигурации происходит слишком поздно, из-за чего некоторые моды не могут прочитать корректные значения конфигурации на ранних этапах загрузки. Этот мод может решить вашу проблему, если изменённые значения конфигурации не применяются правильно после запуска игры.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

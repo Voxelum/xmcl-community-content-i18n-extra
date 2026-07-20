@@ -1,0 +1,6 @@
+{
+  "bodyHash": "01b02ad4b031c0d2",
+  "content": "\n\n<p>一款輕量級的 Fabric 模組，能透過移除藥水粒子與水/熔岩霧氣來讓視野更清晰。</p>\n<p>功能</p>\n<ul>\n<li>移除藥水粒子 &mdash; 隱藏第一人稱視角中旋轉的狀態效果粒子</li>\n<li>移除水下霧氣 &mdash; 消除渾濁的藍色水下霧氣</li>\n<li>移除熔岩霧氣 &mdash; 移除橘色熔岩霧氣遮罩</li>\n</ul>\n<p>使用方法</p>\n<p>按下 H 鍵開啟設定畫面，並可在此切換各項功能的開關。設定將自動儲存。</p>\n<p>快捷鍵</p>\n<p>H &mdash; 開啟設定畫面（可在「控制」選單中的 \"Afkz Clean View\" 分類下自訂）</p>\n<p>相容性</p>\n<p>Minecraft 1.21.11+ &middot; Fabric Loader &middot; 僅限客戶端</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

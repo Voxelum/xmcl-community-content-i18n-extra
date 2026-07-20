@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d4abc8f91bc52da4",
+  "content": "**摘要：**\n\n這是一個實用模組，其他模組可用於管理玩家好友。管理好友的命令是 /clientfriend（您也可以使用 /cf 簡寫）。還有一個鍵綁定功能，可以將您視角中的目標添加為好友。\n&nbsp;  \n&nbsp;  \n**捐贈：**\n\n這完全是可選的，但如果您想支持我和我的工作，您可以通過以下任一渠道進行捐贈：\n\nPayPal：https://www.paypal.com/paypalme/smushytaco/\n\nVenmo：@SmushyTaco\n\nCashApp：$SmushyTaco\n&nbsp;  \n&nbsp;  \n**必要依賴項：**\n\n[Fabric](https://fabricmc.net/use/)\n\n[Fabric API](https://www.modrinth.com/mod/fabric-api/)\n\n[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/)\n&nbsp;  \n&nbsp;  \n**注意：** 由於此模組採用 Apache License 2.0 許可證，您可以按照許可證規定自由使用。以下內容僅為我希望您遵循的一些指南。\n&nbsp;  \n&nbsp;  \n**整合包：**\n\n只要您不出售整合包（可選捐贈是可以的，但不能有彈出式廣告或類似 ad.fly 的內容），並且鏈接此模組頁面，您就可以在您的整合包中使用此模組。\n&nbsp;  \n&nbsp;  \n**重新託管：**\n\n**不！** 您**不得**在任何網站上重新託管（重新上傳）此模組。如果您想在帖子中提及此模組，則必須鏈接回此頁面。\n&nbsp;  \n&nbsp;  \n**已知錯誤：**\n\n目前沒有。如果遇到錯誤，請務必在“問題”選項卡下報告您的問題（並確保遵循問題模板！）。\n&nbsp;  \n&nbsp;  \n**Forge 移植版：**\n\n我永遠不會將此模組移植到 Forge。如果您想將此模組移植到 Forge，請隨意進行，我不會阻止您。\n&nbsp;  \n&nbsp;  \n**服務器：**\n\n此模組僅適用於客戶端。\n&nbsp;  \n&nbsp;  \n**服務器託管：**\n\n如需強大且具成本效益的 Minecraft 服務器託管服務，[點擊這裡](https://billing.kinetichosting.com/aff.php?aff=31) 或點擊下方的圖片。\n\n[![服務器託管橫幅](https://i.imgur.com/nsQ5ox3.png)](https://billing.kinetichosting.com/aff.php?aff=31)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

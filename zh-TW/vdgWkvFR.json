@@ -1,0 +1,6 @@
+{
+  "bodyHash": "52341d2660aa7643",
+  "content": "\n\n## Eclipse - Shader Grass 相容套件\n\n**這是一個相容性資源包，用於讓 Eclipse 光影的 Shader Grass 功能在 1.20.1 版本中正常運作且無視覺瑕疵。**\n\n所有在 *24.02.2026 10:12* 之後的 **Eclipse** 版本均無需對光影程式碼進行任何修改  \n只需在啟用 Shader Grass 後，依照畫面提示操作即可正常運作\n\n---\n\n<details>\n    <summary>\n      較舊版 Eclipse 所需的光影程式碼修改\n    </summary>\n\n首先新增：\n```\n#ifdef SHADER_GRASS\nlayer.solid = minecraft:grass_block\n#endif\n```\n至 `block.properties` 檔案中\n\n<br>\n\n接著移除：\n```\n#if MC_VERSION < 12101\n    #undef SHADER_GRASS\n#endif\n```\n來自 `lib > settings.glsl` 檔案\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

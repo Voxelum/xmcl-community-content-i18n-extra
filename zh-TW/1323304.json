@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ed145cf4e3c5a171",
+  "content": "\n\n<p>Jockey 是一個輕量級 API，旨在利用資料標籤簡化自訂實體騎乘者的實作。當匹配成功時，該實體會自動尋路至目標並騎乘上去。</p>\n<h2>給開發者</h2>\n<p>該 API 會從資料包中動態載入&nbsp;<code>entity_type</code>&nbsp;標籤。若要正常運作，兩個標籤必須包含相同的識別碼。識別碼可以是任何字串，但建議設為您資料包獨有，以避免與其它模組產生意外匹配（除非您刻意如此設計）。選用性設定：在 ID 開頭加上&nbsp;<code>baby_</code>&nbsp;或&nbsp;<code>adult_</code>&nbsp;，即可強制騎乘實體必須為幼年或成年狀態。以下為範例！</p>\n<ul>\n<li><code>jockey_api:&lt;ID&gt;_jockeys</code>&nbsp;（將進行騎乘的實體）</li>\n<li><code>jockey_api:&lt;ID&gt;_targets</code>&nbsp;（將被騎乘的實體）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

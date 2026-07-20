@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7c2f8632622f9087",
+  "content": "\n\nИспользуйте только [Physics mod **3.0.25**](https://modrinth.com/mod/physicsmod/version/ZTg7jtyx).\n\nВ настоящее время поддерживается только опция 'blocky ragdoll' из конфигурации Physics mod.\nВозможно, в будущем я доработаю этот момент.\n\nС мобами из модов работает немного странно.\nЭто проблема мода Physics,\nна мой взгляд, конфигурация 'ragdoll breaking' выглядит лучше для модских мобов.\n'ragdoll breaking' для ванильных мобов будет исправлено в следующем обновлении.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

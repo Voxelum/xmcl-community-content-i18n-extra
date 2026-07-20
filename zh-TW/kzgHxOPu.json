@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cfd7066cd46e936f",
+  "content": "\n\nColorful Skies 允許玩家自訂太陽、日落、月亮、雲朵與天空的顏色。\n\n若要變更顏色，您需使用 colorfulskies 指令：\n\n**/colorfulskies disablesunrise <players> <true/false> ：控制日出的可見度。**\n\n**/colorfulskies color <players> <moon|cloud|sun|sunrise> <hex|clear> ：調整您天空中特定元素的色彩設定。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

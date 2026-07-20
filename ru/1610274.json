@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3aba04990dcdb5de",
+  "content": "\n\n<p>Horror — это атмосферный мод для Forge 1.20.1, сосредоточенный на тихом ужасе, а не на боях.</p>\n<p>Особенности<br>- Сущности «Сталкер» и «Наблюдатель в деревьях», появляющиеся ночью<br>- Механики запугивания: двери, свет, инвентарь, фейковые сообщения в чате, взгляд, лиминальные комнаты и многое другое<br>- Давление в шахтах, сбои управления транспортом и эффекты запаха печи<br>- Двуязычный шёпот (английский / турецкий)</p>\n<p>Команды для тестирования (читы включены)<br>/horrormod<br>/horrormod test tree_watcher<br>/horrormod test stalker<br>/horrormod test mine_pressure<br>/horrormod test vehicle_glitch<br>/horrormod test furnace_smell<br>/horrormod test clear</p>\n<p>Требования<br>- Minecraft 1.20.1<br>- Forge 47+</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

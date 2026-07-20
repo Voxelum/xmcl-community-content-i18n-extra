@@ -1,0 +1,6 @@
+{
+  "bodyHash": "58de745f12aedab0",
+  "content": "\n\n<p>這是一個伺服器端的 Fabric/Quilt 模組，能讓地圖即使在你身處其他維度時，依然顯示您的位置。</p>\n<p>&nbsp;</p>\n<p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/PG-rujo8Zcc?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p>\n<p>&nbsp;</p>\n<p>此模組新增的地圖標記會根據玩家所在的維度變換顏色。它也會自動處理維度間的座標縮放比例，因此當你在下界查看主世界地圖時，地圖標記會顯示在主世界對應的位置（大致是下界傳送門會通達的區域）。</p>\n<p>&nbsp;</p>\n<p>連結：<a href=\"https://www.curseforge.com/minecraft/mc-mods/interdimensional-map-markers\" rel=\"nofollow\">CurseForge</a> &middot; <a href=\"https://github.com/A5b84/interdimensional-map-markers\" rel=\"nofollow\">GitHub</a> &middot; <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252finterdimensional-map-markers\" rel=\"nofollow\">Modrinth</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

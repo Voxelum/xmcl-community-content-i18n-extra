@@ -1,6 +1,6 @@
 {
-  "bodyHash": "IrhG3L1np/c=",
-  "content": "# Hud для лодок\n\nМод для Fabric, который добавляет HUD специально для управления лодками.\nРаспространяется по лицензии Unlicense.\n\n![Скриншот BoatHud на треке для гоночных ледовых судов](https://raw.githubusercontent.com/Hibiii/BoatHud/main/.github/screenshot.png)\n\nЭтот HUD отображает полезную информацию для управления лодкой, такую как угол дрейфа и скорость, а также может смещать камеру, чтобы сделать управление лодкой более плавным.\n\nДля работы этого мода требуется [Cloth Config](https://github.com/shedaniel/cloth-config).\nДля настройки потребуется [Mod Menu](https://modrinth.com/mod/modmenu).",
+  "bodyHash": "4093f407d7e3f398",
+  "content": "\n\n# Boat Hud\n\nМод для Fabric, добавляющий HUD-интерфейс, специально предназначенный для управления лодками.\nРаспространяется под лицензией Unlicense.\n\n![Скриншот BoatHud на трассе для ледовых гонок](https://raw.githubusercontent.com/Hibiii/BoatHud/main/.github/screenshot.png)\n\nДанный интерфейс отображает информацию, полезную при управлении лодкой, такую как угол заноса и скорость, а также позволяет плавно перемещать камеру, делая само управление более комфортным.\n\nДля работы этого мода требуется [Cloth Config](https://github.com/shedaniel/cloth-config).\nДля настройки необходим [Mod Menu](https://modrinth.com/mod/modmenu).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

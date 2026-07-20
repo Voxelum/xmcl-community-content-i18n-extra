@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d83490ecf31953de",
+  "content": "\n\n<p>將 Minecraft 1.20.1 的 Replay Mod MCPR 檔案轉換為 Minecraft 1.21.1 的 Flashback 檔案。目前不支援其他版本。</p>\n<p>它還針對執行已轉換的 Flashback 檔案提供了一些穩定性修復，因此建議您在處理已轉換的 Flashback 檔案期間保留此模組的安裝。</p>\n<h1>系統需求：</h1>\n<ul>\n<li>Minecraft 1.21.1</li>\n<li>Fabric Loader 0.18.4+</li>\n<li>Fabric API 0.116.13+1.21.1</li>\n<li>Flashback 0.39.5</li>\n</ul>\n<p>雖然此模組可能在新版本上也能運作，但它專為上述需求而建構。</p>\n<h1>使用方法：</h1>\n<ol>\n<li>開啟 Flashback 的「選擇重播」畫面。</li>\n<li>點擊「從 Replay MCPR 轉換」（位於內建重播控制項旁邊）。</li>\n<li>從 Windows 檔案選取器中選取一個 .mcpr 檔案。</li>\n<li>確認轉換。</li>\n<li>模組會將 &lt;input-name&gt;-flashback.zip 寫入您遊戲執行個體的 flashback 資料夾中。</li>\n</ol>\n<p>注意：可能會存在錯誤，若您發現任何問題請隨時與我們聯繫。</p>\n<h1>常見問題</h1>\n<h3>問：為什麼我轉換的 Flashback 沒有語音聊天功能？</h3>\n<p>答：請確保您已安裝 simplevoicechat 模組。如果您已安裝，則需要先進行設定才能正常運作。如果您是在新的執行個體中，請建立單人世界，在重生後按下「v」鍵，並依照 simplevc 的設定對話框操作。</p>\n<h1>Bobby 資料</h1>\n<p>若要匯入您的 Bobby 模組資料：</p>\n<ol>\n<li>開啟記錄原始重播的 Minecraft 執行個體根資料夾。</li>\n<li>找到 .bobby 資料夾。</li>\n<li>將 .bobby 資料夾複製到您的 Minecraft 1.21.1 執行個體根資料夾中。</li>\n<li>開啟已轉換的 Flashback 重播，並在聊天欄輸入 /bobby upgrade。</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

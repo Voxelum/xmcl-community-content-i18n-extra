@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mvLjah8GUJc=",
-  "content": "# Iris / Oculus & GeckoLib 兼容性\n\n修复了在使用带有实体阴影的着色器包时，GeckoLib 实体的动画无法正常工作的问题。\n\n以下是使用 Insanity Shader 并启用了实体阴影的 GeckoLib 实体示例。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5kLo4HdSz44\" title=\"YouTube视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "bodyHash": "d250d3f5e6e42d65",
+  "content": "\n\n# Iris / Oculus 与 GeckoLib 兼容\n\n修复在使用包含实体阴影的着色包时，GeckoLib 实体动画无法正常播放的问题。\n\nGeckoLib 实体在 Insanity Shader 中使用实体阴影的正常显示示例。\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5kLo4HdSz44\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

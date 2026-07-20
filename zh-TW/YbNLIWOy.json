@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e78e1b95d0a723cc",
+  "content": "\n\n# Sable: Far and Wide\n一款增加 Sable 船隻渲染/模擬距離的模組，讓玩家得以建造更大的船隻，而不會在仍靠近玩家時就提前消失。\n目前尚未與 [SSRD](https://modrinth.com/mod/ssrd) 進行測試，但由於兩者功能互不衝突，應能正常搭配使用。\n\n![之前：船隻因無法渲染更遠距離而顯示在較近處。之後：船隻現在可顯示在較遠處，幾乎完全被霧氣遮蔽。](https://cdn.modrinth.com/data/cached_images/0d7d8fa2d0b48cf708b8b912fa3d8b57e8fa6f08_0.webp)\n\n<details>\n<summary>如何運作？</summary>\n\n預設情況下，Sable 僅在所有子層區塊皆位於完整載入區塊（含模擬）內時，才會載入船隻/子層；若有任何一個子層區塊未處於完整載入區塊中，則會將其卸載。這可能會導致船隻過早消失，而實際上此時並不需要卸載。加入此模組後，Sable 改為當子層中心點位於完整載入區塊內時即開始載入，且僅在所有區塊皆位於完整載入區塊外時才會卸載。\n\n船隻上的實體仍會在超出模擬距離時卸載，但船隻本身僅在完全超出模擬距離時才會卸載。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

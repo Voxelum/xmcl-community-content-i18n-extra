@@ -1,0 +1,6 @@
+{
+  "bodyHash": "14adb1162e372d03",
+  "content": "\n\nPrettier Cows 重新建模了原版 Minecraft 的牛隻，並加入了大量新變種！針對不同生態域也有專屬的變種。 \n\n特別感謝 Pyeko 在相容性方面提供的巨大協助，以及 FreshLX 創作了 Fresh Animations！\n\n原始的非 Fresh 動畫包可於此取得 [這裡](https://modrinth.com/resourcepack/prettier-cows)\n包含以下內容：\n\n- 普通牛\n- 暖地牛\n- 寒冷牛\n- 沙漠牛\n- 山地／雪原牛\n- 蘑菇牛\n- 花叢蘑菇牛\n\n模組相容性：\n\n- Critter Armory\n- Fungi Delight\n- 自訂生態域可手動加入變種類型，只需在 prettier-cows>assets>minecraft>optifine>random>cow 資料夾中的 cow.properties 檔案裡新增它們即可。\n\n也歡迎查看我的其他模組包：\n- [Ender Dragon Reborn](https://modrinth.com/resourcepack/ender-dragon-reborn)\n- [Prettier Horses](https://modrinth.com/resourcepack/prettier-horses)\n- [Prettier Parrots](https://modrinth.com/resourcepack/prettier-parrots)\n- [Prettier Sheep](https://modrinth.com/resourcepack/prettier-sheep)\n\n\n重要提示！！此模組必須搭配 OptiFine 或 Entity Texture Features 與 Entity Model Features 才能運作！！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

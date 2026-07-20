@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9e8306650bce8897",
+  "content": "# ServuxForged\n\n**此模组在 1.20.4 ~ 1.20.6 以及 1.21.x-0.2.1 以下版本中需要 [BadPackets](https://modrinth.com/mod/badpackets)。**\n\n**此模组仍处于测试阶段，尚未稳定。**\n\nServux 的非官方 (Neo)Forge 移植版。\n\nServuxForged 是一个服务器端模组，在为某些客户端模组提供额外支持/功能时，可在多人游戏服务器中使用。\n\n**ServuxForged 本身在客户端或单人游戏中永远不需要**，它仅在多人游戏的专用服务器端有用/需要。\n\n## 功能\n\n在 0.1.x 版本中，它只有一个功能：当 BoccHUD 请求时，向其发送结构边界框数据，以便它在多人游戏中也能渲染结构边界框。\n\n未来计划添加更多功能，届时还将提供用于开启或关闭功能的命令。目前在 0.1.x 版本中，由于只有一个功能，因此尚无命令。如果您想要结构边界框支持，请安装此模组；否则无需安装。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

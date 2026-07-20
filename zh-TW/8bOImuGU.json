@@ -1,6 +1,6 @@
 {
-  "bodyHash": "zps36cV/hfE=",
-  "content": "這是一個簡單的 Minecraft Fabric 模組，可添加可配置的縮放按鍵。\n\n它還能與望遠鏡的縮放效果疊加，達到極致的放大效果！\n\n如果您是內容創作者，若能提及此模組並將觀眾引導至我的頻道，將不勝感激：https://youtube.com/logicalgeekboy\n\n預設情況下，縮放按鍵設定為 C 鍵（與 Optifine 相同），但您可以在 Minecraft 的按鍵設定中更改此設定。如果您已經將 C 鍵綁定到其他功能，則需要重新映射按鍵才能使用此模組 :o)\n\n注意：此模組需要 Fabric API 模組才能運作",
+  "bodyHash": "56e7d3804c0fa60b",
+  "content": "\n\n這是一個簡單的 Minecraft Fabric 模組，可讓你設定自訂的縮放按鍵。\n \n它還能與望遠鏡的縮放效果疊加，帶來極致的 zooooooom！\n \n如果你是內容創作者，能介紹這個模組並引導大家到我的頻道，將會非常感謝：https://youtube.com/logicalgeekboy\n\n預設情況下，C 鍵已綁定為縮放功能（與 OptiFine 相同），但你可以在 Minecraft 的控制設定中進行更改。如果你已經將 C 鍵綁定了其他功能，就需要先重新設定按鍵對應，才能正常運作 :o)\n \n注意：此模組需要 Fabric API 模組",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

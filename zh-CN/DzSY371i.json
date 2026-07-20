@@ -1,0 +1,6 @@
+{
+  "bodyHash": "49cfc7b3667fff91",
+  "content": "\n\n[![][cf-shield]][cf-link]\n\n### 这是 MacTso 和 lupicus 的 [BeeFix](https://legacy.curseforge.com/minecraft/mc-mods/bee-fix) 模组在 Neoforge 和 Fabric 上的重写版本，欢迎查看他们的其他模组！\n\n### 修复内容：\n* [MC-168329](https://mojira.dev/MC-168329) ：蜜蜂拒绝离开末地/下界的蜂巢\n* [MC-190042](https://mojira.dev/MC-190042) ：蜜蜂在不寻路时会掉落\n* [MC-206401](https://mojira.dev/MC-206401) ：蜜蜂存在向西北方向游荡的倾向（可能修复了其他生物的类似问题）\n* [MC-234364](https://mojira.dev/MC-234364) ：蜜蜂死亡动画仅翻转 90 度，而其他节肢动物为 180 度\n* [MC-248332](https://mojira.dev/MC-248332) ：蜜蜂、恶魂和幻翼可以破坏海龟蛋（仅修复了蜜蜂）\n\n适用于 Fabric 和 Neoforge 1.20.1/1.21.1/1.21.11/26.1.x/26.2\n\n[cf-shield]: https://img.shields.io/curseforge/dt/1237559?style=for-the-badge&logo=curseforge&label=curseforge&labelColor=black&color=%23F16436\n[cf-link]: https://legacy.curseforge.com/minecraft/mc-mods/neo-bee-fix",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

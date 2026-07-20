@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8a0da2d22e4c7680",
+  "content": "\n\n## ApothSB\n\nApothSB 允許將 Apotheosis 寶石放入 Sophisticated Backpacks 的篩選槽位中，修復了無法使用標籤篩選寶石的不相容問題。\n\n### 功能特色\n- 現在可將 Apotheosis 寶石放入篩選、拾取與磁鐵升級的標籤篩選槽位中。\n- 將寶石放入槽位後，選擇 `apotheosis:gem` 標籤即可正常運作。\n- 採用軟性依賴，即使未安裝 Apotheosis 或 Sophisticated Backpacks，本模組也能安全載入。\n- 輕量級，不改變遊戲玩法，純粹用於修正相容性問題。\n\n### 需求\nApotheosis 7.x（必要）。\nSophisticated Backpacks 3.x（必要）。\nSophisticated Core 1.x（必要，會隨 Sophisticated Backpacks 自動安裝）。\nMinecraft 1.20.1。\nForge 47.x。\n\n### 相容性\nMinecraft 1.20.1、Forge 47.x、Apotheosis 7.x、Sophisticated Backpacks 3.x。\n\n### 授權\nMIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

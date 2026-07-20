@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0e61f3b3558a0cfa",
+  "content": "# 🍎 CraftNotch\n\n讓《我的世界》中附魔金蘋果的經典合成方式回歸！\n\n## ✨ 功能特色\n- 恢復 **附魔金蘋果**（諾奇蘋果）的原始合成配方\n- 簡單輕量的插件\n- 支援現代《我的世界》版本（1.20+）\n- 無需配置 – 即插即用\n\n## 🛠️ 合成配方\n```\nGGG\nGAG\nGGG\n```\n\n- `G` = 金塊\n- `A` = 蘋果\n\n## 📦 安裝步驟\n1. 下載最新的 `.jar` 檔案\n2. 將其放入伺服器的 `/plugins` 資料夾\n3. 重新啟動伺服器\n\n## ⚙️ 系統需求\n- Java 17 或更高版本\n- Fabric (1.21.8-1.21.11)\n- NeoForge (1.21.8-26.1.X)\n- QuiltMC (1.21.8-1.21.11)\n- Spigot / Paper 伺服器 (1.20+)\n\n## ❓ 為什麼需要這個插件？\n原版《我的世界》已移除附魔金蘋果的合成配方。此插件為希望體驗更經典或更強大生存模式的伺服器恢復了該配方。\n\n## 🔒 相容性\n- ✔ Spigot\n- ✔ Paper\n- ✔ Purpur\n- ✔ NeoForge\n- ✔ Fabric\n- ✔ QuiltMC\n\n---\n\n## ❤️ 支援開發\n如果您喜歡這個插件，歡迎在 Modrinth 上給它一顆 ⭐！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

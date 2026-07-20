@@ -1,0 +1,6 @@
+{
+  "bodyHash": "494d1540d5dcbacc",
+  "content": "\n\n<p>此模組加入了源自《艾爾登法環：黑夜君臨》的幽靈鷹與靈流，提供全新的交通方式。讓你能在幾秒內攀爬峭壁，或騎乘幽靈鷹翱翔天際。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>幽靈鷹樹：</strong></p>\n<p>想要騎乘幽靈鷹飛行，你首先需要找到一棵幽靈鷹樹。對著它右鍵點擊即可騎乘幽靈鷹衝向天空。下鷹後你會獲得「幽靈恩典」，讓你緩慢降落且不會受到摔落傷害（並伴有酷炫的粒子軌跡）。</p>\n<p>你也可以在世界各地的靈流中尋找幽靈塵粉，用來製作屬於自己的幽靈鷹樹。將塵粉與幽靈樹原木合成，即可製作幽靈樹苗，種植後會生長為一棵樹。</p>\n<p>&nbsp;</p>\n<p><strong>靈流：</strong></p>\n<p>你的世界中分佈著三種靈流：苔石、圓石與深板岩。挖掘這些方塊時，有機率掉落幽靈塵粉。</p>\n<p>&nbsp;</p>\n<p><strong>Gamerule（遊戲規則）：</strong></p>\n<p>可使用指令 `/gamerule hawkLaunchHeight` 調整幽靈鷹起飛高度。預設值為 1，但改為 2 也會很有趣 :)</p>\n<p>&nbsp;</p>\n<p><strong>相依模組：</strong></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/playeranimator\" target=\"_blank\" rel=\"nofollow\">Player Animator</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/geckolib\" target=\"_blank\" rel=\"nofollow\">GeckoLib</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

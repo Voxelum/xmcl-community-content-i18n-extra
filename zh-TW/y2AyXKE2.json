@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d967f0c267bfe6bd",
+  "content": "\n\n**Ping Display** 是一款簡單實用的 **Fabric 模組**，能直接在 **標籤頁列表 (Tab)** 中顯示玩家的 **數字延遲值**。它能幫助你快速掌握連線品質與伺服器效能，無須開啟除錯畫面或使用額外指令。\n\n![Replace this with a description](https://cdn.modrinth.com/data/cached_images/bd46d488ad02f7a96a6316035ef04423cfb66d7a.png)\n\n---\n\n## ✨ 功能特色\n\n- 📊 標籤頁列表中即時顯示 **數字延遲值**\n- 🎨 依延遲數值 **自動變換顏色**\n- ⚡ 輕量高效，對遊戲效能影響極低\n- 🧩 完全相容於 Fabric Loader\n- 👀 多人遊戲伺服器必備工具\n\n---\n\n## 🎨 延遲顏色系統\n\n延遲數值會根據連線品質自動變換顏色：\n\n| 延遲 | 顏色 | 十六進位碼 (約略) |\n|------|------|------------------|\n| ≤ 50 ms | 🟢 純綠色 | `#26FF0A` |\n| 100 ms | 🟢 黃綠色 | `#80FF0A` |\n| 150 ms | 🟡 黃色 | `#D9FF0A` |\n| 175 ms | 🟠 橙黃色 | `#FFE60A` |\n| 200 ms | 🟠 橘色 | `#FF8C0A` |\n| 225 ms | 🔴 紅橘色 | `#FF330A` |\n| ≥ 250 ms | 🔴 純紅色 | `#FF0A0A` |\n\n---\n\n## 🚀 為什麼要使用 Ping Display？\n\n- 快速識別延遲過高的玩家\n- 監控伺服器穩定度\n- 改善多人遊戲體驗\n- 介面乾淨簡潔，無縫整合至遊戲 UI\n\n---\n\n## 📦 需求\n\n- Minecraft (Fabric 版本)\n- Fabric Loader\n- Fabric API (建議安裝)\n\n[![Fast Client](https://cdn.modrinth.com/data/cached_images/3e81436885d7d199d80ffde632b0895d24a2c72b.png)](https://fastclient.net/spunky)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

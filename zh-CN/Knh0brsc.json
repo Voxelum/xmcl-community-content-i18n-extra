@@ -1,0 +1,6 @@
+{
+  "bodyHash": "24692985f70cf929",
+  "content": "\n\n### 功能说明\n此模组会从“对局域网开放”/“创建新世界”界面中移除“允许作弊”按钮，以防止玩家在将世界开放给局域网时使用作弊。如果玩家不希望自己的世界提供一键开启作弊的便捷选项，这将非常有用。\n本模组仅限客户端使用，安装在服务器上不会产生任何效果。\n\n“No LAN Cheating”同样支持 [LAN World Plug-n-Play 模组](https://modrinth.com/mod/mcwifipnp)，会编辑其界面以移除相关的作弊按钮。\n\n#### 配置选项\n包含两个配置选项：\n- **removeButtonInOpenToLANScreen** - 在“对局域网开放”界面中移除“允许作弊”按钮。（默认已移除）\n- **removeButtonInCreateNewWorldScreen** - 在“创建新世界”界面中移除“允许作弊”按钮。（默认显示该按钮）\n\n### 模组展示\n自 Minecraft 1.19.3 起，“对局域网开放”界面的外观有所变化。但这并不影响模组与该界面的交互方式，被移除的仍然是“允许作弊”按钮。\n\n安装模组后：\n![安装模组后](https://i.imgur.com/veIrW8K.png)\n\n未安装模组时：\n![未安装模组时](https://i.imgur.com/9oOyPR8.png)\n\n你可以将此模组用于任何整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

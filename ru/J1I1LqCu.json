@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e093753d0dd94156",
+  "content": "\n\n**HighTide's Full Roman Numerals** — это пакет ресурсов, исправляющий проблему, при которой зачарования уровня выше 10 отображаются как `enchantment.level.11` вплоть до `enchantment.level.255`. Это связано с тем, что Mojang не планировала поддержку таких высоких уровней зачарований, хотя игроки всё равно их используют.\n\nДанный пакет решает эту проблему, заменяя текстовые обозначения `enchantment.level.11` — `enchantment.level.255` на настоящие римские цифры.\n\nВот несколько примеров:\n<details>\n<summary>Спойлер</summary>\n<ul>\n  <li>Вместо <code>enchantment.level.156</code> отображается <code>CLVI</code>.</li>\n  <li>Вместо <code>enchantment.level.148</code> отображается <code>CXLVIII</code>.</li>\n  <li>Вместо <code>enchantment.level.238</code> отображается <code>CCXXXVIII</code>.</li>\n</ul>\nИ список можно продолжать бесконечно...\n</details>\n\nЕсли Mojang когда-нибудь решит снова увеличить лимит уровня зачарований до 32767, я обязательно обновлю этот пакет ресурсов, чтобы в нём были римские цифры вплоть до `ↂↂↂↀↀDCCLXVII` (32767).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f8e68285eb75ec72",
+  "content": "\n\n## **简介：**\n本模组添加了由不同材质制成的新梯子变体。更昂贵的材质可提供更快的攀爬速度。\n\n## **功能特性：**\n- **外观变换**梯子：在不改变属性的情况下更改外观\n- **造型工具**：通过循环切换模型变体来更改梯子的外观\n- 使用**传感器工具**添加可输出红石信号的生物检测器，或使用**照明工具**点亮梯子\n\n## **配置选项：**\n- 调整梯子的**速度**加成（全局与单个梯子）\n- 设置默认梯子模型（例如使用**原版模型**）\n- 当缺少所需的非原版材料时，**隐藏无法制作的梯子**\n- 切换**多形态**梯子视觉效果（细微的随机纹理变化）\n\n## **合成配方：**\n<p>\n  <img src=\"https://cdn.modrinth.com/data/cached_images/c9be81c2c26e3dddb7f752ac88c44a8b560b462e.gif\" alt=\"Ladders recipes\" width=\"500\" style=\"image-rendering:pixelated;\" />\n</p>\n<p>\n  <img src=\"https://cdn.modrinth.com/data/cached_images/4a70d184abafd74c049a26c7cfab3b9435a37a7c.gif\" alt=\"Tool recipes\" width=\"500\" style=\"image-rendering:pixelated;\" />\n</p>\n\n## **梯子模型：**\n_在配置文件中设置默认值，或在游戏中使用造型工具切换模型。_\n<p>\n  <img src=\"https://cdn.modrinth.com/data/cached_images/52af295b7ecfb446136775f7adb4829fbc51a535.gif\" alt=\"Ladder Models\" width=\"280\" style=\"image-rendering:pixelated;\" />\n</p>\n\n## **与其他模组的兼容性：**\n### JEI/REI/EMI：\n- 读取物品描述\n- 当缺少所需材料时，在其面板中隐藏不可用的梯子（可配置）\n\n### Jade / The One Probe / WTHIT：\n- 查看当前梯子的外观/模型状态\n- 查看附件是否被外壳工具隐藏\n- 使用梯子工具时获取上下文提示",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

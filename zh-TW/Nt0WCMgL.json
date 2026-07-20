@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c7a3a1b26d6373a7",
+  "content": "\n\n概述\n-------\n\n《無飢餓》移除了飢餓值欄位，並加入全新的恢復機制：優質食物會隨時間恢復生命值，而「零食」則能立即恢復。\n\n模組說明\n-------\n\n移除飢餓系統，並重新加入進食恢復生命值的機制，類似於 Beta 1.7.3，但運作方式不同。優質食物（如肉類）會隨時間逐漸恢復生命值，而零食則能立即恢復。\n\n搭配 [Insane's Survival Overhaul](https://www.curseforge.com/minecraft/mc-mods/iguanatweaks-reborn) 效果最佳\n\n相關連結\n-----\n\n[![drawing](https://www.bisecthosting.com/partners/custom-banners/4264e1e8-1298-423d-9233-89e09043c223.webp)](https://bisecthosting.com/Insane) [![drawing]\n\n整合包使用規範\n-------------------\n\n歡迎自由使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

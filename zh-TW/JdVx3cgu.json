@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c1f9bfb3ccaabb99",
+  "content": "\n\n# RideBattleLib - Minecraft 假面騎士系統\n注意：本作為函式庫模組，單獨安裝並不會對遊戲進行任何改動！\n\n「Cyclone！Joker！現在，數清你的罪孽吧！」\n在 Minecraft 中體驗原汁原味的假面騎士變身！\n\n## 🎯 RideBattleLib 是什麼？\n\n~~速成☆騎士系統~~\n\nRideBattleLib 是一套函式庫，讓模組開發者能在 Minecraft 中打造自訂的假面騎士體驗。透過此框架，開發者可以實作：\n\n原汁原味的變身流程 — 插入道具、轉動驅動器，並大喊「變身！」\n\n動態形態系統 — 參考 Build 的滿裝瓶等腰帶道具來創造不同形態\n\n特殊能力 — 實作各騎士專屬的技能與必殺技\n\n懲罰機制 — 在生命值低落時觸發戲劇性的強制解除變身\n\n## ✨ 主要特色\n### 給玩家\n\n🧩 裝備騎士驅動器，變身為強大的騎士\n\n⚡ 將道具插入腰帶槽位，解鎖不同形態\n\n🔮 在戰鬥中切換形態\n\n💥 體驗戲劇性的「懲罰」強制解除變身\n\n✨ 以直覺的操作釋放騎士專屬技能\n\n### 給開發者\n\n🛠️ 易於使用的 API，用於建立自訂騎士系統\n\n🎭 事件驅動架構，支援動畫與特效\n\n🌐 內建網路同步功能\n\n📦 輕量級的技能系統實作\n\n🚀 支援複雜組合的動態形態生成\n\n## 🎮 玩家體驗\n\n裝備 騎士驅動器（腰帶）\n\n- 將道具插入腰帶槽位\n\n- 按下按鍵或使用道具進行變身\n\n- 更換腰帶道具以切換形態\n\n- 使用專屬操作釋放技能\n\n- 手動解除變身，或體驗戲劇性的懲罰強制解除！\n\n## ⚙️ 技術細節\n\n- Minecraft 版本：1.21.1\n\n- 載入器：NeoForge\n\n- 授權條款：MIT\n\n# 👉 給模組開發者\n\n想打造屬於自己的假面騎士模組嗎？完整文件、範例與原始碼皆可在 GitHub 上取得：\n\n[The English Doc](https://github.com/Junye-666/RideBattleLib_NeoForge_1.21.1/blob/master/README_en.md)\n\n以及\n\n[中文頁面](https://github.com/Junye-666/RideBattleLib_NeoForge_1.21.1/tree/master)\n\n探索我們的詳細範例：\n\n基礎變身系統\n\n動態形態生成\n\n技能實作\n\n自訂動畫整合\n\n## 🌟 為什麼選擇 RideBattleLib？\n\n✅ 專為假面騎士玩法設計\n\n✅ 持續維護與更新\n\n✅ 輕量高效\n\n✅ 豐富的事件系統，支援高度客製化\n\n✅ 開源且採用寬鬆授權條款\n\n今天就將假面騎士變身的刺激感帶入你的 Minecraft 模組吧！\n\n「變身！」— 現在就開始建構你的騎士系統！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

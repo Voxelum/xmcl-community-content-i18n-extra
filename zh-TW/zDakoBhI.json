@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ea0aa0ef5b31ef02",
+  "content": "\n\n讓所有幻翼的生命值（HP）變為 1，因此可透過單次拳擊或刺甲盔甲輕易將其擊殺。\n\n# 設定\n可在 `config/onehpphantoms.json` 中修改 HP 數值，以設定不同的預設生命值（介於 0 至 20 之間）。\n\n| 設定項目 | 預設值 | 說明 |\n| ------- | ------- | ----------- |\n| `hp` | `1` | 幻翼生成時的預設生命值。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

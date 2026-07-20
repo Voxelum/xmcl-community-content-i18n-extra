@@ -1,0 +1,6 @@
+{
+  "bodyHash": "433b19ac3256e0fe",
+  "content": "\n\n此資料包新增了龍捲風，但其生成機率極低（陸地每 3 小時生成一次，海洋每 20 分鐘生成一次）\n\n龍捲風機制：\n - 摧毀草方塊、樹葉與掉落物\n - 玩家若靠得太近，將被強制吸附並圍繞其旋轉\n - 內部可能捲入各種生物，如骷髏與苦力怕！甚至會強行擄走你的村民\n - 對附近的玩家持續造成傷害，直至死亡\n - 龍捲風移動速度相當快\n - 風聲\n\n已進行最佳化以減少遊戲卡頓\n\n_若想生成龍捲風以查看其效果，可根據您身處陸地或海洋，分別執行 **/function tornadoes:tornadomaker** 或 **/function tornadoes:tornadomaker_ocean**_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

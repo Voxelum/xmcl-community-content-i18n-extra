@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aab9d4b303f5565f",
+  "content": "\n\n<p>Небольшое дополнение для BuildCraft, позволяющее машинам из этого мода использовать ForgeEnergy/RedstoneFlux.</p>\n<p>Коэффициент преобразования настраивается в файле конфигурации, значение по умолчанию: <strong>15RF -&gt; 1MJ</strong></p>\n<p>&nbsp;</p>\n<p><strong>Требования:</strong></p>\n<p><a href=\"https://modrinth.com/mod/buildcraft-core\">BuildCraft|Core (Входит в состав BuildCraft)</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/mixin-booter\"><strong>MixinBooter (2.1.1+)</strong></a></p>\n<p>&nbsp;</p>\n<p><strong>Двигатели BuildCraft также вырабатывают RF и подключаются к энергетическим трубам.</strong></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

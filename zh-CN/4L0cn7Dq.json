@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bee56347e4cdce0b",
+  "content": "\n\n![Invisible GUI x Vanilla GUI](https://cdn.modrinth.com/data/cached_images/44629083fadcae4c4325101f9d7a964c464ad952_0.webp)\n![Title Invisible Gui](https://cdn.modrinth.com/data/cached_images/475f43767983d93972f2496dd1a5729d7f1561ac.png)\nInvisible GUI 是一款主要用于提升 PVP 体验的资源包，它将所有 Minecraft 界面设为透明。当然，如果你喜欢，也可以用它来正常游玩 :)\n\n**需要 1.21.2 及以上版本方可使用透明效果。**\n\n\n\n<details>\n<summary>更新日志</summary>\n\n- **版本 1.1**\n    - 添加了配方书界面和创造模式界面，材质现已完整。\n- **版本 1.1.1**\n    - 修正了兼容性说明。此资源包需要 Minecraft 1.21.2 或更高版本。\n\n</details>\n\n\n\n\n### Minecraft 旧版本（1.8.9 - 1.21.1）\n\n半透明效果依赖 PNG 的 Alpha 通道。Minecraft 旧版本（1.21.2 之前）无法正确渲染 UI 中的半透明像素；系统会将任何 Alpha 值大于 0 的像素强制显示为完全不透明。该版本（1.21.2）才首次原生支持界面的半透明渲染。\n\n**由 quel13 开发，如有任何疑问、问题或建议，欢迎联系！** Discord: queljkk",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

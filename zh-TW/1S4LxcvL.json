@@ -1,6 +1,6 @@
 {
-  "bodyHash": "hTwHHRQ5pAQ=",
-  "content": "讓火炬花（1.20 新花朵）在黑暗中發光的模組\n\n建議同時安裝在伺服器與客戶端以獲得最佳效果\n\n![screenshot.png](https://raw.githubusercontent.com/NikitaCartes/Glowing-Torchflower/fabric-1.20.3%2B/screenshot.png)\n\n也歡迎查看我的 [發光眼苞花](https://modrinth.com/mod/glowing-eyeblossom) 模組！\n\n### 亮度等級\n- 火炬花：12\n- 盆栽火炬花：14\n- 火炬花作物（小型）：3\n- 火炬花作物（中型）：7\n- 火炬花作物（大型）：12\n\n### 設定\n您可以在設定檔中調整眼苞花的亮度等級。  \n設定檔位於 `<遊戲目錄>/config/GlowingTorchflower/main.conf`。",
+  "bodyHash": "3ef527508cc90a24",
+  "content": "\n\n讓火把花（1.20 新增的花朵）在黑暗中發光的模組\n\n讓火把花在所有生長階段以及盆栽狀態下皆能發光。\n\n建議同時安裝於伺服器與客戶端以獲得最佳效果\n\n![screenshot.png](https://raw.githubusercontent.com/NikitaCartes/Glowing-Torchflower/fabric-1.20.3%2B/screenshot.png)\n\n也歡迎查看我的 [發光眼狀花](https://modrinth.com/mod/glowing-eyeblossom) 模組！\n\n### 光照等級\n- 火把花：12\n- 盆栽火把花：14\n- 火把花作物（小型）：3\n- 火把花作物（中型）：7\n- 火把花作物（大型）：12\n\n### 設定檔\n您可以在設定檔中調整眼狀花的光照等級。  \n設定檔位於 `<遊戲目錄>/config/GlowingTorchflower/main.conf`。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

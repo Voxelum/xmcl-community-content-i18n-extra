@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5492b212919327c",
+  "content": "\n\n<p>《異常終界》- 鍛造配件擴展是一款同時適用於匠魂（Tinker's Construct）與異常終界（Unusual End）的附加模組。其主要目標是讓異常終界中的材料能夠用於匠魂的工具，並將其三種標誌性附魔作為配件獲取。</p>\n<h2>新增材料：</h2>\n<div class=\"spoiler\">\n<h4>珍珠層（Pearlescent）：</h4>\n<h4>- 第四階材料</h4>\n<ul>\n<li>近戰/採集：專精採集</li>\n<li>遠程：重型，專精於彈速<br>特性：距離延伸<br>每級增加實體命中距離 +0.25，方塊命中距離 +0.75</li>\n</ul>\n<h4>棱鏡石（Prismalite）：</h4>\n<h4>- 第三階材料</h4>\n<ul>\n<li>近戰/採集：通用，專精於挖掘/攻擊速度</li>\n<li>遠程：輕型，專精於拉弓速度<br>特性：迅捷<br>每級增加 10% 移動速度<br>可飲用：賦予「迅捷打擊」效果，提升攻擊速度</li>\n</ul>\n<h4>閃亮水晶（Shiny Crystal）：</h4>\n<h4>- 第二階材料</h4>\n<ul>\n<li>近戰/採集：專精於近戰</li>\n<li>護甲：較弱（共提供 10 點護甲值）<br>特性：健康<br>每級增加 2 顆心最大生命值<br>可飲用：賦予「生命提升 II」與「緩慢」效果</li>\n</ul>\n<p>黃水晶（Citrine）：<br>- 金銀合金（Electrum）的變體</p>\n<ul>\n<li>可飲用：賦予「寧靜」效果，保護免受特定類型的傷害</li>\n</ul>\n<p>靈體碎屑（Spectral Scrap）：</p>\n<p>- 無特殊功能，僅用於合成珍珠層合金</p>\n<p>注意：您現在必須透過合金配方來合成珍珠層合金。</p>\n</div>\n<h2>新增配件（Modifiers）：</h2>\n<div class=\"spoiler\">\n<h4>博洛克的頭顱（Bolok's Head）</h4>\n<ul>\n<li>頭盔防禦升級</li>\n<li>大幅減少撞擊傷害（使用鞘翅撞牆時）</li>\n</ul>\n<h4>博洛克的狂怒（Bolok's Fury）</h4>\n<ul>\n<li>斧頭傷害升級</li>\n<li>增加對滿血目標的傷害</li>\n</ul>\n<h4>博洛克的雙翼（Bolok's Wings）</h4>\n<ul>\n<li>胸甲傷害升級</li>\n<li>使用鞘翅高速飛行時造成範圍傷害（需胸甲已裝備「Wings」配件）</li>\n</ul>\n</div>\n<p>此外還包含其他小功能，例如額外的實體熔解配方。</p>\n<p>此模組需要安裝 Unusual End、Tinker's Construct 與 Json Things 才能正常運作。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

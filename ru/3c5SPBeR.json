@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b794b27c0b2a299b",
+  "content": "\n\nТребуется для работы:\nKleiders Custom Renderer API: https://www.curseforge.com/minecraft/mc-mods/kleiders-custom-renderer-api/files/5654821\nPlayerAnimator Lib: https://www.curseforge.com/minecraft/mc-mods/playeranimator/files/4587214\nAttributeFix: https://www.curseforge.com/minecraft/mc-mods/attributefix/files/4911084\nЛимит атрибутов установлен на 1024. Используйте мод AttributeFix, чтобы установить лимит до 65535 (можно изменить в конфигурационном файле, рекомендуется значение 100 000).\n\n\nСкоро обновление функций!\n\nУправление\nC — высвободить силу.\nX — зарядить Ки.\nM — открыть меню.\nR — выстрелить сферой Ки.\nJ — активировать Турбо-режим (увеличение скорости передвижения).\nK — летать (требуется приобрести навык).\nУдерживайте G для трансформации.\nНажмите H для снятия трансформации.\nZ — активировать альтернативную функцию (позволяет использовать вторую функцию уже назначенной клавиши).\n\n\nЯ не владею правами на Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super и Super Dragon Ball Heroes.\n\nПрава принадлежат Toei Animation, Fuji TV, Акире Торияме и Funimation.\n\n+",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

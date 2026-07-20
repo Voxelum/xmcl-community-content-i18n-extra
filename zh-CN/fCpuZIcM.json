@@ -1,6 +1,6 @@
 {
-  "bodyHash": "CjLvJVSncR4=",
-  "content": "此客户端 Fabric 模组在客户端已拥有资源包时跳过加载服务器资源包。\n\n这避免了在加入和离开服务器时出现烦人的 Mojang 加载条。\n\n它通过比较资源包的文件哈希值来实现这一点。",
+  "bodyHash": "00d72e69ff1d8e81",
+  "content": "\n\n这是一个客户端 Fabric 模组，若客户端已拥有对应资源包，则会跳过加载服务器资源包。\n\n这可以避免在加入或离开服务器时出现烦人的 Mojang 加载条。\n\n该功能通过比对资源包的哈希值来实现。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

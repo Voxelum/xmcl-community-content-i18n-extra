@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b3b523c241579ba1",
+  "content": "\n\n**Аддон для Open Parties and Claims, добавляющий предметы, позволяющие игрокам получать дополнительные территории (claims).**\nОн будет полезен администраторам серверов и создателям модпаков.\n\nВы можете выдавать новые предметы в качестве наград за квесты или продавать их в админ-магазине. (Рецепты крафта не включены.)\n\n**Кроме того, администраторы могут использовать следующие команды:**\n\n/opacbonusclaims claims <nickname> plus/minus <amount>\n \n/opacbonusclaims forceloads <nickname> plus/minus <amount>\n\n![Предметы территорий](https://cdn.modrinth.com/data/cached_images/dac871117fa3e7dde20cae99dedfe921994ee681.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "153474bd533f63dc",
+  "content": "\n\n# Mouse Tweaks 與 Item Locks 相容性\n\n為 Item Locks 與 Mouse Tweaks 模組提供完美無縫的互動體驗。即使使用進階的物品欄管理功能，也能確保您已鎖定的物品受到真正保護。\n\n![Showcase do mod](https://cdn.modrinth.com/data/cached_images/e106fd0fffa6bd926d85a92ca70731b5c38bb6b3.gif)\n\n## 問題所在\n\nItem Locks 會鎖定您的物品以防止意外移動。Mouse Tweaks 則透過按住 Shift 鍵點擊來快速整理物品欄。但兩者原本無法互相識別，導致 Mouse Tweaks 仍會移動您已鎖定的物品。\n\n## 解決方案\n\n此相容性模組可確保 **Mouse Tweaks 完全尊重 Item Locks 的設定**。在享受其他區域快速物品欄管理的同時，已鎖定的物品將保持鎖定狀態。\n\n## 運作方式\n\n- **防止拖曳** - 已鎖定的物品無法被 Mouse Tweaks 拖曳\n- **點擊阻擋** - 作為安全防護層，會直接阻擋對已鎖定物品的點擊操作\n- **鍵位支援** - 完整支援 Item Locks 用於暫時解除鎖定的按鍵設定\n- **無縫整合** - 與兩個模組自動相容，無需額外設定即可運作\n\n## 相容性\n\n- 需求：[**Item Locks**](https://modrinth.com/mod/itemlocks) 與 [**Mouse Tweaks**](https://modrinth.com/mod/mouse-tweaks)\n- 無需進行任何設定，安裝即可立即使用！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

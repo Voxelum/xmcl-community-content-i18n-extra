@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ba05bf7e0b3d1098",
+  "content": "\n\n**注意：此為一個非常早期的項目，因此任何反饋都將不勝感激。**\n\n\nDistant Horizons Dimension Toggler（DHDT）可根據白名單來啟用或停用 Distant Horizons 的渲染功能（預設僅在主世界與終界啟用）。 \n\n![nether fog with dh rendering off](https://i.redd.it/ryqjf2gabhv31.png)\n![overworld](https://wsrv.nl/?url=https%3A%2F%2Fmedia.forgecdn.net%2Fattachments%2F880%2F249%2Fdh-512-rd.jpg&n=-1)\n\n**目前功能：**\n在非白名單維度中停用 DH 渲染（主世界與終界）\n修復因 DH 引起之模組維度問題（例如 Cosmic Horizons）\n\n**規劃功能：**\n提供設定選項以自訂白名單／黑名單",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

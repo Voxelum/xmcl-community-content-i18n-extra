@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c9a4e4876274b05b",
+  "content": "\n\n![Логотип](https://cdn.modrinth.com/data/cached_images/7c100fd64828326e1c3d1e737f3fca0faddc8022.png)\n\n# Описание:\nЭто дополнение для Villagers Refreshed, которое обеспечивает совместимость с Fresh Animations. Стандартную версию Villagers Refreshed загружать не обязательно, однако Fresh Animations требуется.\n\n# Внимание:\nХотя OptiFine является более популярным способом использования CEM-пакетов, я лично рекомендую использовать Entity Model Features. Причина в том, что EMF становится лучшей альтернативой для кастомных моделей сущностей, и некоторые модели (включая модифицированные) не будут работать без неё.\n\nСкачать Entity Model Features для Forge/Fabric можно [здесь.](https://www.curseforge.com/minecraft/mc-mods/entity-model-features)\n\nFresh Animations от: [FreshLX](https://www.planetminecraft.com/member/freshlx/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

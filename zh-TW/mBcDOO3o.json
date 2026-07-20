@@ -1,0 +1,6 @@
+{
+  "bodyHash": "af042ebaddf54d36",
+  "content": "\n\n# 允許為釉陶重新染色\n\n### 注意事項：\n\n此資料包會新增配方。移除本資料包時，控制台可能會顯示關於遺失配方的警告。這不會對您的世界或存檔資訊造成危害。\n\n### 安裝方式（Fabric/Forge/Quilt）：\n這些模組的功能與資料包相同，但會套用到所有建立或啟用的世界（前提是已安裝此模組）。如果您不希望影響所有世界，請改用資料包。\n\n**Forge**：\n無需任何相依性，只需將模組放入「mods」資料夾即可。\n\n**Fabric**：\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**Quilt**：\n需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)\n\n\n### PurpurPacks\nPurpurPacks 是曾建議加入 [Purpur](https://purpurmc.org/) 伺服器軟體的功能，或是符合 Purpur 主題的內容，但經過評估後認為以資料包的形式呈現更為合適！\n\n每個資料包的功能相當於 Purpur 中的一個單獨設定選項。您可以隨時新增或移除它們，且不會損壞伺服器。\n\n這些資料包並不依賴 Purpur；它們在原版或任何其他伺服器軟體中都能正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

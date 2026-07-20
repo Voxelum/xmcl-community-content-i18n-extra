@@ -1,6 +1,6 @@
 {
-  "bodyHash": "CBnBQZ0h5d4=",
-  "content": "這是我的第一個 Minecraft 光影包，是作為個人學習專案開發的，現狀發布。\n\n### 技術細節\n\n*   專為 **Optifine** 設計（可能可在 Iris 上運作）。\n*   **無更新計畫。** 此專案已為最終版本。\n*   <span style=\"color:#e03e2d\"><strong>警告：</strong></span> 程式碼基底<span style=\"color:#e03e2d\">未經最佳化</span>且雜亂無章。將其用作其他光影包的基底是<span style=\"color:#e03e2d\"><strong>個糟糕的主意</strong></span>。\n\n#### 使用風險自負。不提供任何支援或後續開發。\n\n![替代文字](https://i.imgur.com/VmM5Htu.png)",
+  "bodyHash": "3786a9aa0b6f8622",
+  "content": "\n\n這是我的第一個 Minecraft 着色器，作為個人學習專案開發，並按原樣發布。\n\n### 技術細節\n\n* 專為 **Optifine** 設計（在 Iris 上可能也能運作）。\n* **已無更新計畫。** 此專案已定案。\n* <span style=\"color:#e03e2d\"><strong>警告：</strong></span> 程式碼未經<span style=\"color:#e03e2d\">最佳化</span>且結構混亂。將此作為其他着色器的基礎是<span style=\"color:#e03e2d\"><strong>壞主意</strong></span>。\n\n#### 請自行承擔使用風險。本專案不提供任何技術支援或未來開發。\n\n![alt text](https://i.imgur.com/VmM5Htu.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

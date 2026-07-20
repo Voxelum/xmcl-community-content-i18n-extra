@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ad0fcdbf8c0440a2",
+  "content": "\n\n**Команды создателя:**\n1. Выдаёт жезл для удаления контрольных точек - \n**/trigger delete.cp.wand**\n2. Выдаёт предмет для создания контрольной точки - \n**/trigger give.check.point**\n3. Удаляет ближайшую контрольную точку - \n**/trigger kill.nearest.cp**\n4. Сбрасывает табло контрольных точек (@s) - \n**/trigger reset.cp**\n5. Телепорт к ближайшей контрольной точке - \n**/trigger tp.nearest.cp**\n\n**Команда игрока**\n1. Телепорт к контрольной точке - \n**/trigger checkpoint.tp**\n \n    Также можно использовать **/trigger checkpoint.tp set <number>**\nОна телепортирует игрока к нужной контрольной точке.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/-a5QOjGPqEw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

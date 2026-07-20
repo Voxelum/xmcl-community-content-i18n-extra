@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7651be3f7ac00b85",
+  "content": "<h2>DirTNT</h2>\n<p>一款适用于 Fabric 的 Minecraft 模组，为所有填坑需求提供泥土 TNT。<br>\n现在还附带沙子、沙砾和石头 TNT，并且可以配置为游戏中几乎任何方块！</p>\n<p>有关后者的详细信息，请参阅 dirtnt.json 配置文件（在游戏启动时生成）。<br>\n如果你想尝试实验，还有一个 enableAll 调试选项。</p>\n<ul>\n<li>适用于 Fabric Minecraft 1.16 及以上版本，需要 Fabric API</li>\n<li>1.4 之前的版本需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/arrp\" target=\"_blank\" rel=\"nofollow\">ARRP</a> 或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/better-runtime-resource-pack\" target=\"_blank\" rel=\"nofollow\">BRRP</a>（任选其一）</li>\n<li>1.4 版本需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/better-runtime-resource-pack\" target=\"_blank\" rel=\"nofollow\">BRRP</a>&nbsp;（且 Fabric API 版本需<strong>低于</strong>&nbsp;0.116.4，因为 BRRP 存在一个 bug），而自 1.5 版本起不再需要两者中的任何一个！</li>\n<li>服务器和客户端均需安装</li>\n<li>服务器和客户端必须拥有完全相同的配置</li>\n</ul>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252ffourmisain\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://cdn.ko-fi.com/cdn/kofi1.png?v=2\" alt=\"在 ko-fi.com 请我喝杯咖啡\"></a></p>\n<p>视频演示：</p>\n<p><img src=\"https://raw.githubusercontent.com/Fourmisain/DirTNT/1.17/recipe.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

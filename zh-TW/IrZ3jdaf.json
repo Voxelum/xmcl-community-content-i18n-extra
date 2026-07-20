@@ -1,6 +1,6 @@
 {
-  "bodyHash": "lbfJf0TRMc8=",
-  "content": "# 食人植物\n\n\n\n<details>\n<summary>食人植物預覽（GIF 品質可能引發癲癇）</summary>\n\n![食人植物預覽（動畫 + 模型/紋理）](https://i.imgur.com/lNSt13S.gif)\n\n</details>\n\n\n\n\n## 食人植物行為\n\n- 生成於森林\n- 容易擊殺\n- 造成傷害並附帶中毒效果\n- 無法移動\n- 不會掉落任何物品，但附近經常有牠最後吞噬的生物留下的肉\n- 一旦被殺，便會消失\n\n## 食人植物設計\n\n- 自訂紋理\n- 3D 模型\n- 動畫\n\n## 效能最佳化\n\n- 所有食人植物每 95 秒會被清除一次，以防止因大量生成造成延遲，但你可以使用 **/function carnivorous_plant:summon_plant_persistent** 召喚**永續存在**的食人植物\n- 為效能考量，自然生成的機率極低；若想在創造模式下探索，請執行 /scoreboard players reset @a timer_plant\n- 手動擊殺後，植物會消失\n\n## 需求\n\n**完全不需要！**\n完全伺服器端運作，無需資源包！\n需啟用生物生成\n\n## 意見回饋／錯誤回報\n\n[在此提交意見回饋或回報錯誤](https://forms.gle/F9tsNmkmHtLZGBA28)",
+  "bodyHash": "b2a8bd2a086f6d9d",
+  "content": "\n\n# 食肉植物\n\n\n\n<details>\n<summary>食肉植物預覽（GIF 畫質可能引發光敏性癲癇）</summary>\n\n![食肉植物預覽（動畫 + 模型/材質）](https://i.imgur.com/lNSt13S.gif)\n\n</details>\n\n\n\n\n## 食肉植物行為\n\n- 生成於森林中\n- 容易被擊殺\n- 會造成傷害並施加中毒效果\n- 無法移動\n- 不會掉落任何物品，但你通常會在它附近找到它最後吞食的生物掉落的肉\n- 被擊殺後會消失\n\n## 食肉植物設計\n\n- 自訂材質\n- 3D 模型\n- 動畫\n\n## 效能優化\n\n- 每 95 秒會銷毀所有食肉植物，以防止因大量生成造成的延遲，但你也可以使用指令 **/function carnivorous_plant:summon_plant_persistent** 來召喚**持久型**食肉植物\n- 為顧及效能，自然生成的機率較低；但若你好奇在創造模式中如何找到它，請執行 `/scoreboard players reset @a timer_plant`\n- 手動擊殺後會消失\n\n## 需求\n\n**完全不需要！**\n完全為伺服器端運作，無需資源包！\n必須啟用生物生成\n\n## 意見回饋/問題回報\n\n[在此發送意見回饋/回報問題](https://forms.gle/F9tsNmkmHtLZGBA28)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

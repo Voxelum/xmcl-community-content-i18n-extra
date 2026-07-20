@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b268b34c9596902d",
+  "content": "\n\nКлиентский мод с единственным миксином, который запрещает игроку напрямую атаковать деревень.\n\n```java\n@Mixin(Villager.class)\npublic abstract class VillagerMixin extends Entity {\n    @Override\n    public boolean isAttackable() {\n        return false;\n    }\n}\n```\n\nВот и всё. Если вас это вообще волнует.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

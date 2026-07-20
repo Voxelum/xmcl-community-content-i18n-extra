@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c8cb6eeb8bfe9fe4",
+  "content": "\n\n![# Just Enough Pickups](https://cdn.modrinth.com/data/cached_images/5dc40df5ceb6057d4f0d1f847b3b31bde6f8bc16.png)\n\\\n\\\n\\\n**Just Enough Pickups** 是一款主要為解決背包容易塞滿雜物問題而設計的生活品質（QoL）模組。它透過撿取過濾系統，讓玩家無需依賴其他容器即可自動整理物品。\n\n![在此物品上禁用物品過濾器的物品提示框](https://cdn.modrinth.com/data/BG8JCZxm/images/3379dca2dc5b4057049594180b6d3ab80b9fc1ec_350.webp)\n\n## **功能特色**：\n- **原版風格提示框**：顯示於掉落物品上。預設按 [H] 切換開關。\n  \n- **易於使用的過濾器**：可輕鬆將物品加入過濾清單，使其能透過按鍵自動撿取，預設按鍵為 [I]。\n  \n- **進階設定畫面**：允許物品自動撿取，並內建直觀的遊戲內操作指南。預設按 [G] 開啟/切換。\n  \n- **進階物品過濾器**：過濾白名單支援按物品 ID、物品組標籤、NBT 標籤等進行過濾（請參閱遊戲內說明）！與其他模組不同，它也完全支援資料包（Datapack）物品（可執行 `/data get entity @s SelectedItem` 查看標籤資訊）。\n  \n- **右鍵撿取**：只需點擊滑鼠右鍵即可沉浸式撿取地上的物品。過濾器未允許的撿取動作將被停用。\n  \n- **簡易物理效果**：僅提供掉落物品的基礎視覺物理效果。特別感謝 [Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items) 的貢獻。\n\n需要 Fabric API\n\n請瀏覽圖庫查看遊戲內截圖。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "88wshz/iKvI=",
-  "content": "~~现在是2021年。~~ ~~现在是2022年。~~ ~~现在是2023年。~~ ~~现在是2024年。~~ ~~现在是2025年。~~ 现在是2026年。过去20年里社会几乎停滞不前。世界正在分崩离析。而你依然无法更改《我的世界》中的旁白按键绑定。\n\n<br/><br/>\n不过，现在你可以了。\n\n<details><summary>关于Fabric按键绑定模组兼容性的说明</summary>\n\n“重绑旁白”模组与以下按键扩展模组进行了集成（因为Fabric的按键绑定功能不如Neoforge的那么强大）：\n\n|游戏版本|兼容模组|\n|-----------:|:----------|\n|1.20.1|AMECS, NoMoreUselessKeys|\n|1.21.1|AMECS Reborn|\n|1.21.5|AMECS Reborn|\n|1.21.11||\n\n如果还有我遗漏的模组，请在问题跟踪器中告诉我。\n\n</details>\n\n有问题？有建议？还是单纯感到孤独？来Discord找我吧：https://highlysuspect.agency/discord/",
+  "bodyHash": "ac2b1ffb4d9f9eef",
+  "content": "\n\n~~已是2021年。~~ ~~已是2022年。~~ ~~已是2023年。~~ ~~已是2024年。~~ ~~已是2025年。~~ 已是2026年。过去20年间，社会进步甚微。世界正在分崩离析。在《我的世界》中，你依然无法更改旁白的按键绑定。\n<br/><br/>\n不过现在，你可以了。\n\n<details><summary>Fabric 按键绑定模组兼容性说明</summary>\n\nRebind Narrator 与以下按键扩展模组进行了集成（因为 Fabric 的按键绑定功能不如 Neoforge 丰富）：\n\n|游戏版本|兼容模组|\n|-----------:|:----------|\n|1.20.1|AMECS, NoMoreUselessKeys|\n|1.21.1|AMECS Reborn|\n|1.21.5|AMECS Reborn|\n|1.21.11||\n\n如果遗漏了其他模组，请通过 Issue Tracker 反馈给我。\n\n</details>\n\n有问题？有建议？只是感到孤独？来我的 Discord 频道找我吧：https://highlysuspect.agency/discord/",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

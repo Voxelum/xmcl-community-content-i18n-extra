@@ -1,6 +1,6 @@
 {
-  "bodyHash": "t/x6OKYZzGk=",
-  "content": "<h2>適用於望遠鏡的簡易夜視附魔</h2><p>不會與<strong>藥水</strong>效果衝突！</p><p>可在<strong>古城</strong>戰利品中找到此附魔！</p><p>您可以在<strong>設定</strong>中切換是否需要附魔：\n/function nightvision_spyglass:settings</p><p>切換此選項將啟用或停用附魔的生成，同時使所有望遠鏡都具備夜視功能！</p><p><em>警告：快速連點右鍵可能產生閃爍效果</em></p>",
+  "bodyHash": "43de0386a0d18bce",
+  "content": "\n\n<h2>為望遠鏡設計的簡易夜視附魔</h2>\n<p>不會與<strong>藥水</strong>效果產生衝突！</p>\n<p>可在<strong>古代城市</strong>的戰利品中找到此附魔！</p>\n<p>您可以在<strong>設定</strong>中開啟或關閉附魔需求：/function nightvision_spyglass:settings</p>\n<p>切換此選項將啟用或停用附魔的生成，並讓所有望遠鏡都具備夜視功能！</p>\n<h2>多人遊戲</h2>\n<p>此資料包／模組完全為伺服器端運作，這意味著只需在伺服器上安裝，即可為所有客戶端生效。</p>\n<h2>相容性</h2>\n<p>亦相容於</p>\n<ul>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/create-radars\" target=\"_blank\" rel=\"nofollow\">Create Radars</a> 物品：雙筒望遠鏡</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

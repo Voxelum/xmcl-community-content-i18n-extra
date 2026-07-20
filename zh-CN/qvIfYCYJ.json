@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WofBJ97Y/uU=",
-  "content": "# 缝合面料API (QFAPI) 和 缝合标准库 (QSL)\n\nQuilt生态系统的基本标准库。QSL为模组开发者提供了Quilt独有的工具，以添加新的和令人兴奋的功能到他们的模组中，而缝合面料API则提供了与使用Fabric API的Fabric模组的兼容性。\n\n**此项目需要Quilt加载器！**\n\n## Quilt项目\n\nQuilt项目是一个开源的、社区驱动的模组工具链，主要为Minecraft设计。通过专注于速度、易用性和模块化，Quilt旨在提供一个简洁和现代的模组工具链，拥有一个开放的生态系统。\n\n在[我们的网站](https://quiltmc.org)上了解更多关于Quilt的信息。\n\n## 注意事项\n\n**Quilt目前仍在开发中，处于测试阶段。** 这意味着可能会出现一些问题，但我们将尽最大努力尽快修复它们。\n\n缝合面料API不支持Fabric API的大多数“实现细节”。使用实现细节的模组可能在Fabric上工作，但在Quilt上将无法工作。",
+  "bodyHash": "8c9516a59e2976e5",
+  "content": "\n\n# Quilted Fabric API (QFAPI) 与 Quilt 标准库 (QSL)\n\nQuilt 生态系统的核心标准库。QSL 为模组开发者提供仅适用于 Quilt 的工具，以便为模组添加全新且令人兴奋的特性；而 Quilted Fabric API 则提供了与使用 Fabric API 的 Fabric 模组的兼容性。\n\n**本项目需要 Quilt Loader！**\n\n## Quilt 项目\n\nQuilt 项目是一个开源、由社区驱动的模组开发工具链，主要面向 Minecraft 设计。通过专注于速度、易用性和模块化，Quilt 旨在提供一个流畅、现代且拥有开放生态系统的模组开发工具链。\n\n更多关于 Quilt 的信息请访问 [我们的网站](https://quiltmc.org)。\n\n## 注意事项\n\n**Quilt 目前仍处于开发阶段和测试版（Beta）。** 这意味着可能会出现一些问题，但我们会尽全力尽快修复它们。\n\nQuilted Fabric API 不支持 Fabric API 中大多数“底层实现细节”。使用这些实现细节的模组可能在 Fabric 上运行正常，但在 Quilt 上将无法工作。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

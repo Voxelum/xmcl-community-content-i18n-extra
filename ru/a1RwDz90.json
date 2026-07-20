@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a5f089358e074153",
+  "content": "\n\n# AE2: Обновлённое дерево крафта\n\nОбновлённый форк [AE2: Crafting Tree](https://github.com/nimeng1299/AE2CraftingTree).  \nОптимизирована логика отрисовки, теперь построение дерева стало быстрее!  \n  \nВдохновлён проектами [AE2CT-Legacy](https://github.com/NovaEngineering-Source/AE2CT-Legacy) и [AE2-Supergiant](https://github.com/Circulate233/Applied-Energistics-2-Supergiant).\n\n## Отличия от оригинала\n\n*   Изменена логика построения дерева.\n*   Для повышения производительности отображаются только узлы в видимой области.\n\n## Планы\n\n*   Дальнейшая оптимизация\n*   Отображение количества применений рецепта. (Основано на [AE2CT-Legacy](https://www.curseforge.com/minecraft/mc-mods/ae2-crafting-tree-legacy))\n*   Отображение дерева процесса при обработке плана крафта.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

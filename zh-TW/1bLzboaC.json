@@ -1,0 +1,6 @@
+{
+  "bodyHash": "793fa51df854d72a",
+  "content": "# gCAPS\n時尚帽子！gCAPS 是 Minecraft 中 **[Gboard CAPS](https://landing.google.co.jp/caps/)** 的重新實作，並採用 **Atama Input**（頭部輸入法）。\n模型基於 [Gboard CAPS 紙板 DIY 教程](https://archive.google/caps/static/assets/gboard_caps_cardboard.pdf)\n\n支援使用 Fabric/Quilt 載入器的 Minecraft >= 1.20。\n\n![Atama Input 的使用者介面，以及帽子側面的外觀](https://raw.githubusercontent.com/AmberIsFrozen/gcaps-fabric/main/assets/thumbnail.png)\n\n## 合成配方\n![Gboard CAPS 的合成配方。第 1 行：3 張紙。第 2 行：1 張紙、1 紅石粉、1 張紙。第 3 行：空](https://raw.githubusercontent.com/Kenny-Hui/gcaps-fabric/main/assets/recipe1.png)\n![帶下巴束帶變體的合成配方。第 1 行：1 根木棍、1 個 Gboard CAPS、1 根木棍。第 2 行：1 根木棍、1 個空格、1 根木棍。第 3 行：空](https://raw.githubusercontent.com/AmberIsFrozen/gcaps-fabric/main/assets/recipe2.png)\n\n## 使用方法\n1. 戴上 Gboard CAPS\n2. 按下 Y 鍵（可在控制設定中調整）\n3. 移動你的頭部以選擇字元。\n4. 左鍵點擊輸入，中鍵切換佈局，右鍵點擊發送訊息！\n\n## Bug/建議\n如果您有任何建議或錯誤回報，歡迎在此開啟 GitHub Issue [here](https://github.com/AmberIsFrozen/gcaps-fabric/issues)！\n\n## 授權\n本專案採用 MIT 授權條款。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

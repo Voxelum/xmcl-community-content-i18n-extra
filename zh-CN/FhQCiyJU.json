@@ -1,0 +1,6 @@
+{
+  "bodyHash": "209dbbfa11e57292",
+  "content": "\n\n### **我们拥有 Discord**\n[Discord](https://discord.gg/ntWXudBUPa) [Discord](https://discord.gg/ntWXudBUPa) [Discord](https://discord.gg/ntWXudBUPa) [Discord](https://discord.gg/ntWXudBUPa)\n[Discord](https://discord.gg/ntWXudBUPa) [Discord](https://discord.gg/ntWXudBUPa)\n\n\n这就是 Stormchasers 模组！专为那些渴望体验龙卷风拦截玩法，却厌倦了笨拙的替代方案或阉割版游戏的玩家打造。如果你正是这类玩家，本模组将为你实现这一愿望！目前提供多种拦截载具，未来还将持续更新更多类型。龙卷风视觉效果惊艳，且对电脑配置要求极低！出色的优化与绝佳的游戏体验已得到保障。此外，模组内所有物品均提供合成配方，完全支持生存模式！\n\n**模组功能与按键绑定**\n\n雷达 / 天气地图：你现在需要制作或从背包中装备笔记本电脑才能打开雷达界面！\n\n**E** — 将鼠标对准载具即可进入。\n\n**Q** — 部署（锚定）载具，防止被龙卷风卷走！\n\n**R** — 使用探测器扫描龙卷风，获取风速和 EF 级别（仅当载具已部署时生效）。\n\n**L** — 开启载具的大灯！\n\n**Shift** — 离开载具！\n\n**如何操控无人机？** 手持控制器并对准无人机右键点击。\n\n模组主要命令\n\n模组的核心命令为 /t7m：\n\n_/t7m spawn tornado <ef0-ef6>_ — 生成指定 EF 级别的龙卷风。\n\n_/t7m spawn supercell_ — 生成超级单体雷暴，它会随机生成龙卷风！\n\n_/t7m stop all_ — 立即删除所有龙卷风。\n\n_/t7m stop nearest_ — 删除 2000 格范围内的龙卷风。\n\n_/t7m aimtoplayer_ — 使所有龙卷风朝向你当前位置移动。\n\n_/t7m list_ — 显示所有活跃龙卷风的列表！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

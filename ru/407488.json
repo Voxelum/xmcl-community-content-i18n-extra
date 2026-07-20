@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd2a075307d02f8c",
+  "content": "<p><span style=\"font-size:18px\">Вам надоело, что иллейджеры слабые и не носят никакой защитной экипировки?</span></p>\n<p><span style=\"font-size:18px\">Считаете ли вы, что рейды должны быть сложнее?</span></p>\n<p><span style=\"font-size:18px\">Этот мод для вас: в нём есть параметры конфигурации, позволяющие отключить естественное появление некоторых иллейджеров в броне или полностью запретить им появляться в экипировке!</span></p>\n<p><span style=\"font-size:18px\">Иллейджеры из других модов должны корректно отображать броню, если их код наследует класс IllagerModel.</span></p>\n<p><span style=\"font-size:18px\">Чтобы сделать так, чтобы иллейджеры появлялись с пользовательским снаряжением, просто переопределите эти файлы в собственном датапаке:</span></p>\n<p><span style=\"font-size:18px\"><a href=\"https://github.com/seymourimadeit/IllagersWearArmor/tree/master/src/main/resources/data/illagersweararmor/loot_table/entities\" rel=\"nofollow\">https://github.com/seymourimadeit/IllagersWearArmor/tree/master/src/main/resources/data/illagersweararmor/loot_table/entities</a></span></p>\n<p>&nbsp;</p>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

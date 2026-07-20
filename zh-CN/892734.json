@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9614b2eed26bd6d2",
+  "content": "\n\n<p>Auto Elytra 是一款适用于 Forge 和 Fabric 的客户端模组，在您尝试飞行时会自动装备鞘翅。</p><p><br>只需在物品栏中保留一对鞘翅，即可正常飞行！当您停止飞行时，您的胸甲将自动卸下并重新装备。<br><br><img src=\"https://raw.githubusercontent.com/NimajnebEC/auto-elytra/main/demo.gif\" alt=\"模组演示\"><br>该模组依赖 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" rel=\"nofollow\">Fabric API</a> 或 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fqsl\" rel=\"nofollow\">QSL</a>，如果您使用的是 <a href=\"/linkout?remoteUrl=https%253a%252f%252fquiltmc.org%252fen%252f\" rel=\"nofollow\">Quilt</a>。如果已安装 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcloth-config\" rel=\"nofollow\">Cloth Config API</a>，则可通过 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fmodmenu\" rel=\"nofollow\">Mod Menu</a> 或 Forge 模组菜单访问配置界面。</p><h2>警告</h2><p><br>在某些多人服务器中，此模组可能被视为作弊行为，<strong>请自行承担风险。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

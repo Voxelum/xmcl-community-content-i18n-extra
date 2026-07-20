@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a42f3e430d162990",
+  "content": "\n\n<h1>MineSocket</h1>\n<p>MineSocket — это мод для Minecraft, который позволяет подключаться к серверу WebSocket и отправлять на него сообщения, а также получать их обратно.\nЭтот мод всё ещё находится в стадии разработки и пока не готов к использованию.</p>\n<h2>Возможности</h2>\n<ul>\n<li>Обработка подключений и отключений от веб-сокета</li>\n<li>Приём сообщений от клиентов веб-сокета (например, Streamer.bot)</li>\n<li><del>Безопасное подключение к веб-сокету</del></li>\n<li><del>Обработка обратных вызовов от сервера</del></li>\n</ul>\n<p>Данный мод для Minecraft предназначен в качестве замены плагина Bukkit <a href=\"https://github.com/KK964/Minecraft_Websocket_Intergration/\" target=\"_blank\" rel=\"nofollow\">Minecraft_WebSocket_Integration</a>, разработка которого больше не ведётся.</p>\n<p>Это означает, что мод может работать с конфигурацией для <a href=\"/linkout?remoteUrl=https%253a%252f%252fstreamer.bot%252f\" target=\"_blank\" rel=\"nofollow\">Streamer.bot</a> в соответствии с данным <a href=\"/linkout?remoteUrl=https%253a%252f%252fextensions.streamer.bot%252ft%252fminecraft-websocket-integration%252f167\" target=\"_blank\" rel=\"nofollow\">расширением</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

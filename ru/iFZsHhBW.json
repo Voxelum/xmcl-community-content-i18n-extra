@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5981c380cbfea32",
+  "content": "# Исправление пакета экипировки\nВмешивается в `CompoundTag`, чтобы выполнить две задачи:\n1. Избежать исключения `ConcurrentModificationException` в методе `CompoundTag#write`, преобразуя набор ключей тега в массив перед итерацией.\n2. Избежать исключения `EncoderException` (вызванного `NullPointerException`) в методе `CompoundTag#writeNamedTag`, добавляя проверку на null.\n\n## Конфигурация\n`detectExceptions` - (по умолчанию `false`) Пытаться регистрировать случаи возможных исключений, записывая соответствующий `CompoundTag`.\n\n## Модпаки\nМожно свободно использовать в модпаках, но не перераспространять самостоятельно. Кроме того, вам должно хватить установки этого мода только на сервер, однако наличие его в клиентской части также не повредит.\n\n## Благодарности\nТекстуры логотипа взяты из Minecraft (броня) и Minecraft Dungeons (молот). Скриншот отключения от сервера взят с [reddit](https://www.reddit.com/r/CurseForge/comments/10i7oz4/constantly_getting_kicked_any_ideas_on_what_could/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

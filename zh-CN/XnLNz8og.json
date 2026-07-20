@@ -1,0 +1,6 @@
+{
+  "bodyHash": "342acbc58c6044ea",
+  "content": "\n\n# macu lib\n\n这是一个供我的模组使用的库，提供如跨平台物品与方块注册、添加支持者专属权益（如不同外观）等功能。\n\n有关如何使用 API 的示例，请参阅 GitHub 仓库中的测试模组。\n\n---\n\n## 开发者\n\n将此模组添加到你的 `build.gradle(.kts)` 中\n\n```gradle\n// Add the Macuguita maven repo to your repositories block\nrepositories {\n  maven {\n    name = \"macuguita maven\"\n    url = \"https://maven.macuguita.com/releases/\"\n  }\n}\n\n// Add the mod as a dependency in your environment\ndependencies {\n  // Prior to Minecraft 26.x, use \"modImplementation\" instead\n  implementation(\"com.macuguita:macu_lib-<loader>:${project.macu_lib_version}\")\n}\n```\n\n---\n\n## 支持\n\n如果遇到任何问题或有建议，欢迎：\n\n- 在 GitHub 上提交 Issue。\n\n- 在 Discord 上私信我 @macuguita\n\n- 在我网站链接的任何平台上联系我：[macuguita.com](https://macuguita.com/)\n\n- 你可以自由地将此模组用于该平台上的任何整合包中\n\n---\n\n## 鸣谢\n\n- 开发者：macuguita\n\n<sup>如果您是支持者，此模组将连接至 persista.macuguita.com 以加载外观或其他依赖模组存储的数据。如需申请删除数据，请联系 gdpr@macuguita.com</sup>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

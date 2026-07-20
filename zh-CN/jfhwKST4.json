@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fca01613154e8372",
+  "content": "\n\n# 此模组的功能是什么？\n在 1.21.5 版本中，Mojang 修复了长期存在的 [漏洞](https://bugs.mojang.com/browse/MC/issues/MC-255756)，即盾牌格挡与破坏的声音仅格挡者可听到。本模组将此修复移植到了更早的 Minecraft 版本中。\n# 安装指南\n- 下载与你的模组加载器相匹配的版本。\n- 将 jar 文件放入 .minecraft/mods 文件夹中。\n- 若使用 Fabric 加载器，请搭配 Fabric API 运行。\n\n__注意：此模组在服务端注册事件监听器。因此，如果服务端已安装该模组，则客户端无需安装。__",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

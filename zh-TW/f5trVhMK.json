@@ -1,0 +1,6 @@
+{
+  "bodyHash": "78d3d12ec3706262",
+  "content": "\n\n[<img alt=\"dacl-required\" height=\"56\" src=\"https://maven.kasetoatz.com/com/kasetoatz/dacl/dacl_required_badge.png\">](https://modrinth.com/mod/dacl)\n\n此模組允許玩家使用「精準採集」（可設定）來採集刷怪籠與試煉刷怪籠。當被採集時，它們會掉落並記住原本生成的生物類型。對於試煉刷怪籠，它還會記住冷卻時間等相關資訊。\n\n設定檔包含 4 個選項：\n- enable-spawner: 啟用/停用是否能採集普通刷怪籠。\n- enable-trial-spawner: 啟用/停用是否能採集試煉刷怪籠。\n- require-pickaxe: 啟用時，僅使用鎬採集時刷怪籠才會掉落。\n- require-silk-touch: 啟用時，僅使用「精準採集」附魔的鎬採集時刷怪籠才會掉落。\n\n所有選項預設皆為啟用狀態。\n\n---\n[<img alt=\"discord-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg\">](https://discord.com/invite/jpFJG8dujR)\n[<img alt=\"kofi-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular_vector.svg\">](https://ko-fi.com/kasetoatz)\n[<img alt=\"paypal-singular\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/paypal-singular_vector.svg\">](https://paypal.me/KaasToast)\n\n正在尋找一個有趣的 Minecraft 環境來遊玩並體驗我的部分模組嗎？歡迎來到 El Basurero SMP 一起遊玩！\n\n- **IP:** `play.ebsmp.com`\n- **推薦版本:** 26.2（其他版本也可使用！）\n- **基岩版:** 支援\n- **額外福利:** 在遊戲內直接體驗我最多伺服器端模組的功能！\n\n更多資訊請查看[文件](https://ebsmp.com/)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

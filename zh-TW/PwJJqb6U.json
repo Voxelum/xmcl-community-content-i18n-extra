@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6a4e270a4b97fe87",
+  "content": "\n\n執行 `<code>/compass get</code>` 即可取得指南針。\n手持追捕指南針時，執行指令 `<code>/compass set <玩家名稱 / 實體 UUID></code>`，它將顯示目標最後已知的位置。\n對於玩家而言，當雙方位於同一維度時，位置資訊會持續更新。\n若背包中持有指南針，死亡後指南針會自動返回給你。\n請注意，本模組會自動將遊戲規則 `locator_bar` 設為 `false`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

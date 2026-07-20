@@ -1,6 +1,6 @@
 {
-  "bodyHash": "IrhG3L1np/c=",
-  "content": "# 船隻HUD\n\n一個專為划船設計的Fabric模組，新增HUD功能。\n採用Unlicense授權條款。\n\n![在冰船賽道上的船隻HUD截圖](https://raw.githubusercontent.com/Hibiii/BoatHud/main/.github/screenshot.png)\n\n此HUD可顯示划船相關的實用資訊，例如偏航角度與速度，並能動態調整攝影機視角，讓划船體驗更流暢。\n\n本模組需安裝 [Cloth Config](https://github.com/shedaniel/cloth-config)。\n設定功能需透過 [Mod Menu](https://modrinth.com/mod/modmenu) 進行。",
+  "bodyHash": "4093f407d7e3f398",
+  "content": "\n\n# 船隻 HUD\n\n一款專為划船設計的 Fabric 模組，新增專屬的 HUD 介面。\n採用 Unlicense 授權。\n\n![冰船賽道中的 BoatHud 截圖](https://raw.githubusercontent.com/Hibiii/BoatHud/main/.github/screenshot.png)\n\n此 HUD 會顯示對划船實用的資訊，例如漂移角度與速度，此外還能讓鏡頭隨船隻漂移，使划船操作更加順暢。\n\n本模組需要 [Cloth Config](https://github.com/shedaniel/cloth-config)。\n若要進行設定，則需要 [Mod Menu](https://modrinth.com/mod/modmenu)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

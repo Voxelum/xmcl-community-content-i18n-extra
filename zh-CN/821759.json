@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fab916b227edddbe",
+  "content": "<p>~ 晴朗的天气只需上升几米即可到达 ~</p>\n<p>===============================================</p>\n<p>可仅作为客户端模组使用，也可作为客户端+服务端模组使用。</p>\n<h2>客户端渲染：</h2>\n<ul>\n<li>当玩家位于云层上方时，环境会显示为晴天</li>\n</ul>\n<h2>服务端逻辑：</h2>\n<ul>\n<li>所有依赖雨天天气的行为在云层上方将不会生效（例如：灭火、使用激流三叉戟、额外作物生长刻等）</li>\n<li>由于服务端无法确定云层的高度（该信息在服务端不存在），您必须在配置文件中添加此信息</li>\n</ul>\n<p><img src=\"https://media.forgecdn.net/attachments/616/838/screenshot.png\" alt=\"Screenshot\"></p>\n<p>由于 Minecraft 渲染雨水的机制限制，当您在云层上方时，将看不到云层下方的雨水渲染效果</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

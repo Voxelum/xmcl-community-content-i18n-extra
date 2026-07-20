@@ -1,0 +1,6 @@
+{
+  "bodyHash": "afa7c220f526df2f",
+  "content": "\n\n# ![Logo](https://github.com/0KepOnline/NBTExporter/raw/1.12.2/src/main/resources/nbtexporter_logo_32x32.png) NBT 匯出器\n\nNBT 匯出器是一款簡單的客戶端模組，允許玩家將物品欄中物品的 NBT 資料匯出。\n\n## 使用方法\n手持你想要匯出 NBT 的物品，並使用 `/exportnbt` 指令。\n\n你可以這樣使用：\n```\n/exportnbt MyUniqueItem\n```\n\n或是這樣：\n```\n/exportnbt \"My Unique Item, but with spaces\"\n```\n\n提供檔案名稱是選填的。如果未指定，檔案將使用目前的日期和時間作為名稱。\n\n若要查看匯出的 .nbt 檔案中的標籤，你可以使用檔案閱讀器，例如 [NBTExplorer](https://github.com/jaquadro/NBTExplorer)。\n\n你可以在任何 Minecraft 伺服器上使用此指令，除非伺服器規則禁止，否則不需要額外的權限。\n\n## 指令\n自 v2.0 起，NBT 匯出器提供了以下指令：\n\n* `/exportnbt` 僅匯出物品 NBT，採用壓縮的二進位格式\n* `/exportstack` 匯出物品的完整資訊（包含 id、count 與 damage）為 NBT，採用壓縮的二進位格式\n* `/exportnbtstr` 僅匯出物品 NBT，採用文字（字串化）格式\n* `/exportstackstr` 匯出物品的完整資訊（包含 id、count 與 damage）為 NBT，採用文字（字串化）格式\n* `/exportgive` 將物品的完整資訊匯出為 `.txt` 格式的 `/give` 指令",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aff2b876bcdbeaee",
+  "content": "一个小型兼容补丁，修复了在 Valkyrien Skies 飞船上行走时脚步声音效无法播放的问题。\n\n## Fabric 版本\n\n依赖项\nhttps://modrinth.com/mod/presence-footsteps\n\n## Forge 版本\n\n依赖项 https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge\n\n未测试其他分支。（通常可以正常工作，我认为。）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

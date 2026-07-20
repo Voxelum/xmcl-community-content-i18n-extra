@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b62a699a5ce76c2b",
+  "content": "<p>主要模组为暮色森林，包含家具类模组如 BiblioCraft 和 MrCrayfish's Furniture Mod，任务类模组如 Mystical World 和 Treasure2，以及便利类模组如可穿戴背包和铁箱。</p>\n<p>&nbsp;</p>\n<p>下载方法（Windows）：</p>\n<p>（必须已安装 Java，如果版本不正确请重新下载正确版本，游戏会提示所需版本）</p>\n<p>1. 下载最新文件（除非你想玩有破损的整合包），并在下载完成后打开它（保持窗口开启）</p>\n<p>2. 访问 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffiles.minecraftforge.net%252fmaven%252fnet%252fminecraftforge%252fforge%252findex_1.12.2.html\" rel=\"nofollow\">https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html</a>，在下载推荐版本框中，点击安装程序，等待5秒后，点击右上角的“跳过”（此时可退出页面以避免病毒风险）</p>\n<p>3. 打开 Java 文件，点击安装客户端。至此你已成功下载 Forge！</p>\n<p>4. 在电脑搜索栏（通常位于屏幕左下角）输入 run，然后选择出现的程序，并输入 %appdata%</p>\n<p>5. 点击 .minecraft 文件夹</p>\n<p>6. 返回 TwilightForest+ 文件夹，打开 overrides 文件夹，然后复制 config 和 mods 文件夹（可以逐个或同时复制）</p>\n<p>7. 将它们粘贴到 .minecraft 文件夹中，它们将替换其中已有的 mod 和 config 文件夹</p>\n<p>8. 打开 Minecraft 启动器，点击左上角的“安装”页面</p>\n<p>9. 点击添加新配置，然后在版本列表中向下滚动，直到找到 “release 1.12.2 forge-14-23.5.2854”，选中它并点击创建（名称可自定义）</p>\n<p>你现在可以点击它并开始游玩！</p>\n<p>&nbsp;</p>\n<p>如有任何问题请留言评论？</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

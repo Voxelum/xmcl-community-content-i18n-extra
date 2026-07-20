@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e7fed31d0c477c6f",
+  "content": "\n\n<div>這是一個 Fabric 伺服器模組。</div>\n<div>其靈感來自 <a href=\"https://twitter.com/cubfan135/status/1369763834223865859\" target=\"_blank\" rel=\"nofollow\">Cubfan135 的一則推文</a>。</div>\n<div>&nbsp;</div>\n<div>當玩家在黏液區塊區域內行走或奔跑時，此模組會在玩家腳下生成黏液粒子並播放輕微的黏膩聲效。</div>\n<div>\n<p>&nbsp;</p>\n<p>黏液區塊是指能在 Y=40 以下生成黏液的區塊。在沒有外部工具輔助的情況下，由於黏液生成率較低，尤其在附近有很多黑暗洞穴且生物上限已滿時，玩家在地底探索時很難發現它們。因此，此模組提供了一個視覺提示，讓你知道當前區塊可以生成黏液，感覺就像踩在黏液礦脈上一樣。</p>\n<p>&nbsp;</p>\n</div>\n<div>由於這是伺服器端模組，所有玩家都能在保持原版體驗的同時受益於此黏液區塊偵測功能。客戶端無需安裝任何額外內容。</div>\n<div>=&gt; 若安裝於客戶端，則可在本地遊戲中運作。</div>\n<div>&nbsp;</div>\n<div><em>附註：我不會將其轉換為 Forge 版本，但如果你有興趣自行轉換，歡迎告知我 ;)</em></div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

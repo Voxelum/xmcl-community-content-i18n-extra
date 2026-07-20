@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d49f32041e16d14",
+  "content": "\n\n![bc25](https://raw.githubusercontent.com/worldwidepixel/badges/642d312b71811b9d2696b562f735b07288844c71/bc25/featured_in/cozy.svg)\n\n**Variant Swap** 是一款讓你能夠透過**可自訂按鍵**（預設為 Z）與**滑鼠滾輪**來切換手中物品變體的模組。當你滾動滑鼠時，螢幕上方也會短暫顯示（數秒）當前選擇物品前後的其他變體預覽。\n\n在**創意模式**下，你可以切換該物品的所有可用變體；而在**生存模式**下，則只會顯示你背包中已有的物品。**此模組同時支援原版與模組添加的物品！**\n\n<img src=\"https://i.imgur.com/1L14Ev0.gif\" alt=\"Variant Swap Showcase\" width=\"500\">\n\n### **自訂設定**\n模組生成的對應表與設定檔位於你的 Minecraft（或伺服器）資料夾中的 `/config/Variant Swap/` 目錄下。\n\n`config.json` 中可用的設定項目：\n- 管理員等級（預設為 4）- 用於 `/variant-swap` 指令\n- 延遲時間（預設為 50ms）- 用於限制滾動頻率\n\n在伺服器上建議根據需求調整管理員等級。你可以使用 `/variant-swap` 指令將延遲時間（冷卻時間）重置為預設值，或將其改為其他數值（單位仍為毫秒）。\n\n### **給開發者**\n如果你的模組新增了物品或方塊，且希望將它們歸類到特定的自訂分類中，請為每個物品/方塊新增一個 `variant_swap` 標籤。此標籤將決定該物品所屬的分組。\n\n舉例來說，假設你的模組新增了各種家具物品，而你希望按照木材類型來分類，而不是把所有椅子分在同一組。你可以將所有橡木相關物品標記為 `variant_swap:oak`（`oak` 或是你想用的分類名稱皆可），將所有雲杉木物品標記為 `variant_swap:spruce`，依此類推。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7d855f7321edfcb1",
+  "content": "\n\n<h1>Jupiter</h1>\n<p>Jupiter 是一款強大的自動同步配置庫。</p>\n<p><strong>重要通知：Jupiter V2 與基於 V1 的模組不相容！</strong></p>\n<h2>功能特色</h2>\n<h3>針對玩家</h3>\n<ul>\n<li>便捷的遊戲內配置編輯介面。</li>\n<li>若您連線至專用伺服器且具備適當權限，將自動與伺服器同步配置。</li>\n</ul>\n<h3>針對開發者</h3>\n<p><strong>使用方式請參見<a href=\"/linkout?remoteUrl=https%253a%252f%252fdocs.iafenvoy.com%252fdocs%252flibrary%252fjupiter\" target=\"_blank\" rel=\"nofollow\">文件</a>。</strong></p>\n<ul>\n<li>簡易建立配置實例。</li>\n<li>配置支援 <code>int</code>、<code>double</code>、<code>string</code>、<code>list</code> 等類型。</li>\n<li>自訂編解碼器（Codec）配置條目：您可以為任何值類型新增配置條目。</li>\n<li>專用伺服器配置的權限控制。</li>\n</ul>\n<h3>額外配置系統</h3>\n<p>額外配置系統旨在從其他配置系統載入設定檔。透過此系統載入的配置同樣可使用 Jupiter 的功能，例如自動生成的配置介面與專用伺服器同步。</p>\n<p>目前支援：</p>\n<ul>\n<li>(Neo)Forge 配置系統（亦支援 <code>Forge Config API Port</code>）</li>\n<li>Cloth Config API</li>\n</ul>\n<h2>特別感謝</h2>\n<ul>\n<li><code>masady</code>：<code>Malilib</code> 作者，配置介面設計部分參考了該專案。</li>\n<li><code>Fuzs</code>：<code>Forge Config API Port</code> 作者，<code>Jupiter</code> 可透過其通用 API 更便捷地載入 (Neo)Forge 配置。</li>\n</ul>\n<h2>Discord 社群</h2>\n<p><a href=\"https://discord.gg/NDzz2upqAk\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/NDzz2upqAk</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

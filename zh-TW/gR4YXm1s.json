@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fec463f72fac5d66",
+  "content": "\n\n![banner](https://cdn.modrinth.com/data/cached_images/6e88e862436ef1ee2c2cf3323926406462809706_0.webp)\n\nMissing Mods Checker 是一款專為整合包開發者所設計的簡易實用模組，它會接入 Forge 與 Fabric 的預載流程，在遊戲正式載入前檢查是否有任何依賴模組遺漏。若發現缺失，將會彈出視窗提示使用者先下載這些模組，再重新啟動遊戲。\n\n此實用模組可發揮多種用途：\n\n- 防止重要模組被意外或刻意移除\n- 強制鎖定模組的精確版本，以避免一般玩家無意間更新\n- 提示下載僅限特定平台提供的模組\n- 允許使用者在首次啟動遊戲時下載選用模組\n\n無論何種原因導致模組遺漏，本模組都會開啟一個簡易的 Java Swing 視窗，列出所有遺漏模組的清單。使用者可點擊「下載」按鈕，這會在瀏覽器中開啟設定檔中所指定的連結。為了方便操作，還提供了一個可直接開啟模組資料夾的按鈕。\n\n![missing mods window](https://cdn.modrinth.com/data/cached_images/1945180f9aeb71689290e4e4e862d449055e7a37_0.webp)\n\n你可以透過編輯整合包 config 資料夾中的 missing_mods_checker.json 來設定本模組，並為每個模組新增對應條目。依賴掃描功能支援針對檔名使用正則表達式，因此你可以指定精確版本，或是使用正則表達式來匹配你所需要的任何內容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

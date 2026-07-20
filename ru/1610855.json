@@ -1,0 +1,6 @@
+{
+  "bodyHash": "544e2fb9435bb5fb",
+  "content": "\n\n<h2>Исправление Mishang Urban Construction для Sinytra Connector</h2>\n<p>Это форк мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/mishang-urban-construction\" rel=\"nofollow\">Mishang Urban Construction</a>, исправляющий ошибку при использовании с Sinytra Connector в среде (Neo)Forge.</p>\n<h2>Почему существует этот форк</h2>\n<p>Последний код оригинального мода (версия 1.5.3 и выше, за исключением самой 1.5.3) зависит от Fabric Loom 1.15-SNAPSHOT, из-за чего мод не может корректно загрузиться в среде (Neo)Forge с использованием Sinytra Connector.</p>\n<h2>Внесённые изменения</h2>\n<p>Этот форк изменяет зависимость Fabric Loom с 1.15-SNAPSHOT на 1.13-SNAPSHOT, предотвращая вылеты в среде (Neo)Forge с Sinytra Connector.</p>\n<h2>Дополнительно</h2>\n<p>Данный форк будет отслеживать обновления оригинального мода и будет скрыт, как только оригинальный мод обновится и эта ошибка будет исправлена.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

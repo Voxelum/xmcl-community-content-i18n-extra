@@ -1,0 +1,6 @@
+{
+  "bodyHash": "906cfe900ee28aa1",
+  "content": "\n\n***模組新增指令與設定檔功能，可停用下界、終界、異境，未來還將支援其他傳送門***\n\n使用 **/portal \"dimension\" enabled true/false** 來啟用/停用或修改設定檔中的數值\n\n使用 **/portaltimer** 來設定計時器\n\n你可能會問：「我為什麼需要這個模組？」原因很簡單，你有沒有跟朋友一起玩，結果他們在第一天就把龍殺了？就是為了這個。\n\n<b>感謝 <a href=\"https://legacy.curseforge.com/members/coltonj96/projects\">Coltonj96</a> 提供標誌 <3 </b>\n\n**待辦事項：**\n\n- ~~停用/啟用指令~~ \n已於 1.1 版新增\n- ~~關閉終界傳送門的功能~~ 已於 1.2 版新增\n- ~~FTB Quest 相容性~~ 算了，我能力有限，直接用指令獎勵就好\n- 與其他模組的相容性：\n \n• Deeper and Darker 已於 1.4 版新增\n\n• Twilight Forest 已於 1.5 版新增（適用於 1.19.2-4）及 1.1 版（適用於 1.18.2）\n\n• Blue Skies 已於 1.6 版新增（適用於 1.19.2-4）\n\n• Divine RPG 已於 1.7 版新增（適用於 1.19.2-4）及 1.3 版（適用於 1.20+）\n\n**常見問題**\n\n問：我可以在整合包中使用這個模組嗎？\n\n答：可以\n\n \n\n問：有舊版本移植或更新嗎？\n\n答：有，但最低支援版本為 1.16.5\n\n \n\n問：有 Fabric 移植版嗎？\n\n答：與上一題相同\n\n \n\n本模組為開源專案\n\n**需要伺服器主機？使用優惠碼 \"ultra\" 可享 15% 折扣**\n<a href=\"https://billing.kinetichosting.net/aff.php?aff=349\"><img src=\"https://media.discordapp.net/attachments/1105236685064765481/1105608993554038784/ultra.png\" /></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6579a09816207514",
+  "content": "\n\nИзменяет цвет алмазной брони в зависимости от её прочности.\n\nЦвет меняется при потере каждых 10% прочности (от 100% до 10%).\n\nДобавлено ещё 2 варианта цвета для интенсивного PvP.\n\nПри прочности ниже 10% цвет меняется каждые 5% получаемого урона. \n\n**Этот пак требует OptiFine; используйте [CitResewn](https://modrinth.com/mod/cit-resewn) для старых версий, [Variants-Cit](https://modrinth.com/mod/variants-cit) для последних версий Minecraft на Fabric.**\n\n**Также подписывайтесь на мой YouTube-канал [IndianBattles](https://www.youtube.com/@IndianBattlesOfficial)**\n![Прочность алмазной брони](https://cdn.modrinth.com/data/cached_images/94a3917df7ff5ef62854c455d21558ea5e756d1e.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

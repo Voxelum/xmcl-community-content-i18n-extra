@@ -1,0 +1,6 @@
+{
+  "bodyHash": "024ce1a401aaa8c4",
+  "content": "\n\n# 更好的隱藏聊天\n隱藏聊天視窗，但允許發送訊息和執行指令。\n\n可使用快捷鍵或輸入指令 `/hidechat` 來隱藏聊天。\n\n設定可透過 `/hidechat` 子指令完成：\n- `notifyAsOverlay` - 在聊天訊息與覆蓋層通知之間切換。預設為覆蓋層。\n- `notifyChatShow` - 切換是否在顯示聊天時發送通知。預設開啟。\n- `persistency` - 若關閉遊戲前已隱藏聊天，則下次開啟遊戲時保持隱藏狀態。預設關閉。\n- `showWhileTyping` - 切換當聊天被隱藏且正在輸入時是否顯示聊天。預設開啟。\n\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n___\n感謝您在 [我的 Boosty 頁面](https://boosty.to/andyrusso) 進行一次性贊助或訂閱。訂閱者可獲得額外模組的存取權限。  \n您的贊助將幫助我更穩定地維護現有模組，並持續開發新模組。謝謝！\n\n[![在 Boosty 支持我](https://cdn.modrinth.com/data/cached_images/88e47c9248a99b7fb01eb4cd1a2cf3f8b7fe21c4.png)](https://boosty.to/andyrusso)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

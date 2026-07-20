@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a62b548efec0e714",
+  "content": "\n\n# XP From Harvest\n\n### 從收割作物中獲得經驗值！\n\n。\n\n## 設定：\n\n在單人遊戲中，本模組可透過模組設定選單進行調整。在伺服器上，則需使用設定檔 `<MC_ROOT_FOLDER>/config/xpfromharvest.cfg` 進行設定。\n\n## 選項：\n\n- 機率：經驗球出現的機率（%）。\n- 數量：給予的經驗值數量。\n- 簡單收割：啟用類似 SimpleHarvest 的功能（可在單人遊戲中動態切換）。\n- 作物列表：列出本模組可處理的作物及其成熟階段\n- （預設關閉）右鍵點擊成熟的作物會立即收割並重新播種（如同 SimpleHarvest 模組），當然也會給予你經驗值。\n- 好奇心：好奇心模式，用於除錯，潛行右鍵點擊作物會收到聊天訊息顯示相關資訊。此資訊可直接填入設定檔。下方可參考我從 XL Food Mod 植物取得的資訊範例。\n⠀\n## 範例：\n\n``` \"Crops List\" = [\"Block{minecraft:potatoes}[age=7]\", \"Block{minecraft:carrots}[age=7]\", \"Block{minecraft:wheat}[age=7]\", \"Block{minecraft:beetroots}[age=3]\", \"Block{minecraft:nether_wart}[age=3]\", \"Block{xlfoodmod:strawberry_plant}[age=7]\", \"Block{xlfoodmod:tomato_plant}[age=7]\", \"Block{xlfoodmod:lettuce_plant}[age=7]\", \"Block{xlfoodmod:cucumber_plant}[age=7]\", \"Block{xlfoodmod:corn_plant}[age=7]\", \"Block{xlfoodmod:pepper_plant}[age=7]\"] ```\n\n\n## 整合包：\n\n歡迎將本模組納入任何免費的整合包中使用 :P\n\n\n## 額外資源：\n\n各種模組與 MC 版本的設定檔可在此處找到 [這裡](https://github.com/Real-Gecko/XPFromHarvest-Configs)。\n \n## 致謝：\n\n- [Forge_User_61020098](https://legacy.curseforge.com/members/Forge_User_61020098/projects) 提供 Pam's Harvest Craft 2 的設定檔。\n\n- [RealGecko](https://legacy.curseforge.com/members/ReaIGecko/projects) 開發原版模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

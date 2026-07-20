@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f53ac7c5d66747e3",
+  "content": "\n\nArchaicFix 針對 Minecraft 1.7.10 進行了多項除錯與效能最佳化。請參閱 [GitHub 上的 README](https://github.com/embeddedt/ArchaicFix#readme) 以取得完整清單，以下為部分重點：\n\n- 消除或大幅改善 1.7.10 著名的客戶端頓卡問題，尤其是在叢林等光照更新頻繁的生物群系中\n- 逆向移植 Phosphor 光照引擎（原始儲存庫已無法取得，此連結導向我的 1.12 分支版本，最接近原始內容且仍保留原始分支）\n- 改進版遮擋剔除技術（不兼容 OF/FC，因此預設為關閉）\n- 多執行緒區塊更新（減少放置方塊時的頓卡，同樣不兼容 OF/FC 且預設為關閉）\n- 修復多項原版已知問題\n\n此外，ArchaicFix 也會修正其他模組中常見的幾個不便之處。\n\n較新版本的 ArchaicFix 需搭配相容於 GTNHMixins 的 Mixin 載入器（例如 UniMixins）使用。\n\n## 需要 Minecraft 伺服器？考慮使用 CreeperHost！\n![使用折扣碼 taumc-qk0 可享 10% 優惠](https://cdn.modrinth.com/data/cached_images/c537b7f7d52aee93c4c2f3990a0a305da38ce041.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

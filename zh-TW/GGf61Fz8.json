@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a09748345eab6e09",
+  "content": "當物品即將消失時，它們會閃爍以提示您可能需要在為時已晚之前撿起它們。所有內容均可配置，從閃爍速度到陰影不透明度。\n\n您可以通過 Mod Menu 進入設置，也可以設置快捷鍵（默認未分配）。\n\n這是針對 Fabric 1.21.x 的 [ClearDespawn](https://modrinth.com/mod/cleardespawn) 模塊的重構版本。我可能會在後期添加對更多加載器的支持。\n\n[![需要 Fabric API](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/requires/fabric-api_64h.png)](https://modrinth.com/mod/fabric-api)  [![需要 Cloth Config API](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/cozy/requires/cloth-config-api_64h.png)](https://modrinth.com/mod/cloth-config)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

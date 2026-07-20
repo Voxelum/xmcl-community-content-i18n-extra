@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eed18c74aae2ff48",
+  "content": "\n\n# 基岩版外觀\n\n此模組可讓您原生載入並渲染來自基岩版與經典主機版外觀包的皮膚。它支援完整的自訂 3D 幾何結構、獨特的皮膚動畫，以及高解析度材質。\n\n## 功能特色\n- **原生基岩幾何結構：**原生支援標準的基岩版 JSON 幾何檔案，允許建立複雜的自訂 3D 模型。\n- **自訂動畫與高畫質材質：**完整支援外觀包內提供的獨特皮膚動畫與高解析度材質。\n- **更換外觀畫面：**按下 `K` 鍵，或透過新增至主選單與暫停畫面中的按鈕即可開啟。您可以瀏覽已安裝的外觀包、預覽皮膚，並管理您的最愛清單。\n- **紙娃娃渲染：**在主選單與暫停畫面中，更換外觀按鈕正上方會顯示您目前所選皮膚的紙娃娃渲染圖。\n- **Legacy4J 相容性：**享有對 Legacy4J 模組的原生支援。\n\n## 下載外觀包\n您可以使用以下資源包來下載更多外觀包。\n- [基岩版外觀包](https://modrinth.com/resourcepack/bedrock-skin-packs)\n\n## 新增自訂外觀包\n- 首次啟動遊戲以在您的遊戲根目錄中生成 `skin_packs` 資料夾（例如 `.minecraft/skin_packs`）。\n- 將您的基岩版外觀包資料夾直接放置於此目錄中。\n- 請確保您的外觀包資料夾內包含 `skins.json` 檔案。若您的皮膚使用了自訂模型，則還需要 `geometry.json` 檔案。\n  > **範例：**`.minecraft/skin_packs/MyCustomPack/skins.json`\n\n---\n\n![外觀選擇器預覽](https://cdn.modrinth.com/data/76lEgqhs/images/572ea4604180ab05ec51cc3cff8addd29deb0ba6.png)\n\n![Legacy4J 支援](https://cdn.modrinth.com/data/76lEgqhs/images/ffdbdbdcb457b2da5bfe606a91d02901cd3fe763.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

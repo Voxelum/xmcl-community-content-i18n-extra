@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13c7493d46e9dfe5",
+  "content": "\n\n# 右鍵採收\n\n### 簡單的作物採收與重新種植\n\n[![Downloads](https://img.shields.io/modrinth/dt/the-right-click-harvest?style=for-the-badge&color=00AF5C&label=Downloads)](https://modrinth.com/mod/the-right-click-harvest) [![Version](https://img.shields.io/modrinth/v/the-right-click-harvest?style=for-the-badge&color=orange&label=Latest%20Ver)](https://modrinth.com/mod/the-right-click-harvest/versions)\n\n***\n\n## 這是什麼？\n\n**右鍵採收** 模組的功能正如字面意思：讓你只需對完全成熟的作物點擊右鍵，即可立即採收並重新種植。它免去了你每次都需要破壞作物並手動重新播種的麻煩。\n\n![In Game Preview](https://cdn.modrinth.com/data/cached_images/41977ca1a601d48cdb1bebd58a1db327a4215fbd.png)\n\n***\n\n## 功能特色\n\n| 功能 | 說明 |\n| :--- | :--- |\n| **簡單採收** | 對任何已生長的作物點擊右鍵即可採收。 |\n| **自動重種** | 自動從你的物品欄或作物掉落物中取得種子進行重新種植。 |\n| **手動模式** | 點擊右鍵時按住 **Shift**（蹲下）進行採收，*不會*重新種植。 |\n\n***\n\n## 安裝方式\n\n<details>\n<summary><strong>如何安裝（點擊展開）</strong></summary>\n\n1. 下載適合你遊戲版本的 **右鍵採收** `.jar` 檔案。\n2. 確保已安裝 **Fabric API**。\n3. 將檔案放入 `.minecraft/mods` 資料夾中。\n4. 啟動遊戲，開始耕種吧！\n</details>\n\n***",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

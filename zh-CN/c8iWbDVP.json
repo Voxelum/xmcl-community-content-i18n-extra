@@ -1,0 +1,6 @@
+{
+  "bodyHash": "864669d14e4df39b",
+  "content": "\n\n本材质包衍生自 [Grend's](https://modrinth.com/user/Grend) 的原版 [Embellished Stone](https://modrinth.com/resourcepack/embellished-stone-advancements-plaques)。如果你觉得更暗的色调搭配进度提示牌更符合你的审美，那么这款材质包正是为你准备的！\n\n**注意：** 本资源包**需要** [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) 模组才能正常运行。\n\n### 要使视觉效果生效，你**必须**进行以下调整：\n\n1- 在你的 Minecraft 配置目录中找到 `advancementplaques-common.toml` 文件（需至少运行一次 Advancement Plaques 模组才会生成该 .toml 文件）\n\n2- 使用任意文本编辑器打开 `advancementplaques-common.toml` 并修改以下数值：\n```toml\ntitle_color = 4283759444\nname_color = 4294967295\n```\n3- 保存文件，完成 :) 祝你游玩愉快！\n\n<div>\n<a href=\"https://ibb.co/nRvpMB0\"><img src=\"https://i.ibb.co/QXR0vkc/advancementmade.png\" alt=\"advancementmade\" border=\"0\" /></a>\n</div>\n\n<div>\n<a href=\"https://ibb.co/SXkHPPD\"><img src=\"https://i.ibb.co/Z6QvVVR/goalreached.png\" alt=\"goalreached\" border=\"0\" /></a>\n</div>\n\n<div>\n<a href=\"https://ibb.co/wRnxdqK\"><img src=\"https://i.ibb.co/QfW1JV6/challengecomplete.png\" alt=\"challengecomplete\" border=\"0\" /></a>\n</div>\n\n你可以将此资源包用于任何地方，但请记住它依赖 [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) 模组才能正常工作！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

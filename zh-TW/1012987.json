@@ -1,6 +1,6 @@
 {
-  "bodyHash": "a18c2rphdDs=",
-  "content": "<h1>附魔禁用標籤</h1><p>這個模組提供了一個標籤，可用於禁止特定附魔出現在你的世界中。</p><p>此標籤位於<code>data/enchantmentdisabletag/tags/enchantment/disabled.json</code>，可透過<code>enchantmentdisabletag:disabled</code>引用。</p><p>請參閱<a href=\"https://github.com/GreenhouseTeam/enchantment-disable-tag/wiki\" rel=\"nofollow\">Wiki</a>了解模組設定方式。</p><h2>客戶端還是伺服器？</h2><p>本模組可僅在伺服端運作，但建議同時安裝於客戶端以獲得完整體驗，例如：</p><ul>\n<li>創造模式選單將隱藏被禁用的附魔</li>\n<li>提供/enchant指令錯誤訊息的語言檔案</li>\n</ul><h2>這個模組會刪除物品上的附魔嗎？</h2><p>是的，會直接移除。建議在禁用附魔前備份存檔，若需要也可補償那些辛苦刷到特定附魔的玩家。</p><h2>授權條款</h2><p>本模組採用<a href=\"/linkout?remoteUrl=https%253a%252f%252fspdx.org%252flicenses%252fCC0-1.0.html\" rel=\"nofollow\">CC0-1.0</a>授權，意味著你可以任意使用此模組的程式碼。\n這本就不該是專屬於我的概念，因此我選擇將此模組釋出至公共領域。</p>",
+  "bodyHash": "48de95b677594657",
+  "content": "\n\n<h1>附魔停用標籤</h1>\n<p>此模組提供了一個標籤，可用於防止附魔出現在您的世界中。</p>\n<p>此標籤位於 <code>data/enchantmentdisabletag/tags/enchantment/disabled.json</code>，引用時請使用 <code>enchantmentdisabletag:disabled</code>。</p>\n<p>請查看 <a href=\"https://github.com/GreenhouseTeam/enchantment-disable-tag/wiki\" rel=\"nofollow\">維基頁面</a> 以了解如何設定此模組。</p>\n<h2>客戶端還是伺服器？</h2>\n<p>此模組可以單獨在伺服器上運行，但為了獲得更完整的體驗，建議同時在客戶端也安裝此模組。例如：</p>\n<ul>\n<li>創造模式選單將不會顯示已停用的附魔。</li>\n<li>/enchant 指令停用時的錯誤提示語言檔支援。</li>\n</ul>\n<h2>此模組會刪除我物品上的附魔嗎？</h2>\n<p>是的，會刪除。因此，在停用某個附魔之前，請務必先備份您的世界。若您願意，也可以為那些可能為了取得特定附魔而辛苦刷取的玩家提供補償。</p>\n<h2>授權條款</h2>\n<p>此模組採用 <a href=\"/linkout?remoteUrl=https%253a%252f%252fspdx.org%252flicenses%252fCC0-1.0.html\" rel=\"nofollow\">CC0-1.0</a> 授權發布，這意味著您可以對該模組的程式碼隨意使用。\n這本來就不是應該由我獨佔的概念，因此我選擇將此模組置於公共領域。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c8fcea0129af8e24",
+  "content": "\n\n<img src=\"https://raw.githubusercontent.com/pe3ep/apple-jam/refs/heads/main/src/main/resources/assets/applejam/icon.png\" alt=\"favicon\" width=\"80\" style=\"image-rendering: pixelated\">\n\n# Apple Jam\n\nЭто очень простой мод, созданный для одной цели: **добавить поддержку зажатия инвентаря для macOS.**\n\n### Что такое \"Inventory Jam\"?\n\n[Согласно Minecraft Parkour Wiki](https://www.mcpk.wiki/wiki/Hotkey_Exploits), зажатие инвентаря — это _открытие инвентаря, удержание клавиш Вперёд + Прыжок, а затем его закрытие для стабильного выполнения тайминга в 0 тиков (jam)_.\n\nЭто стандартное поведение игры в оригинальной версии на Windows и Linux (в большинстве случаев). К сожалению, на macOS эта функция не работает, что может усложнить занятия паркуром на Mac. Данный мод устраняет эту проблему, позволяя вам также наслаждаться ею :3",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

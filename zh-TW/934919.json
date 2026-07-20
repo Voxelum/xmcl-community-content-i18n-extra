@@ -1,13 +1,6 @@
 {
-  "bodyHash": "4xXe+ZJsP6s=",
-  "content": {
-    "error": {
-      "message": "Insufficient Balance",
-      "type": "unknown_error",
-      "param": null,
-      "code": "invalid_request_error"
-    }
-  },
+  "bodyHash": "da91d72d31b69bd9",
+  "content": "\n\n<p style=\"text-align:center\">此模組調整了 Minecraft 介面的部分元件，以搭配 <a href=\"https://www.curseforge.com/minecraft/texture-packs/prominent-ui\" rel=\"nofollow\">Prominent UI</a> 資源包。它需安裝 Prominent，且在 Prominence 整合包以外將無法運作。</p>\n<p style=\"text-align:center\">此模組為該整合包的相依模組，並非設計用於其他整合包！因此我們並未設立問題回報系統。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ebcd278b255235f",
+  "content": "\n\n## 啟用使用熱帶魚物品來繁殖美西螈\n\n### 使用模組版本時的安裝資訊：\n它們在功能上等同於數據包，但會套用於所有在啟用此模組的情況下建立或開啟的世界。如果你不希望它套用於所有世界，請改用數據包。\n\n**Forge**：\n<br>無需任何相依模組，只需將模組放入 mods 資料夾即可。\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur Packs\nPurpur Packs 收錄的是曾建議加入 Purpur、或符合 Purpur 主題的功能，但最終決定以數據包形式實作會更為合適！ \n<br>這些數據包的功能等同於 Purpur 中的單一設定項目。你可以隨時新增或移除它們，不會對伺服器造成損害。\n<br>它們可在原版環境中使用，無需執行 Purpur 即可使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

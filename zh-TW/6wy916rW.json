@@ -1,0 +1,6 @@
+{
+  "bodyHash": "07308ce7e402ab4b",
+  "content": "# 午餐袋\n這個簡單的模組新增了一個名為「午餐袋」的物品。食物可以儲存在此物品中，並直接從中食用。透過按住 **Shift + 右鍵點擊** 可在「開啟」與「關閉」模式之間切換。\n\n- **切換模式：** 按住 Shift + 右鍵點擊以在模式間切換。\n- **關閉模式：** 右鍵點擊將食物存入袋中。\n- **開啟模式：** 右鍵點擊直接從袋中食用食物。\n---\n  ![午餐袋](https://cdn.modrinth.com/data/cached_images/f58a0a88d124fe7c4709f354ea7f5ba3d2867263.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

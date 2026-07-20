@@ -1,0 +1,6 @@
+{
+  "bodyHash": "849aefb2fda0bd1b",
+  "content": "\n\n專為 [TerraFirmaGreg ](https://www.curseforge.com/minecraft/modpacks/terrafirmagreg) 整合包打造\n\n**TFC Punishment for Death** 是一款專注於 Terrafirmacraft 的模組，透過引入嚴苛且與 TFC 深度整合的死亡懲罰，大幅提升生存挑戰的嚴肅性。本模組旨在呼應 TFC 的寫實風格，提供可自訂的負面狀態、生命值／飢餓值調整，以及選用性的屍體模組（Corpse Mod）相容功能，用於設定遺體冷卻時間。\n\n**主要特色**\n\n以 TFC 為核心的死亡機制：\n\n無縫整合 TFC 的飢餓、口渴與疲勞系統。\n\n重生時施加口渴、疲勞與束縛（Pinned，TFC 原生效果）等負面狀態。\n\n調整死亡後的生命值、食物量與口渴值，以符合 TFC 的生存挑戰難度。\n\n選用性屍體模組支援：\n\n啟用拾取遺體的冷卻時間（需安裝屍體模組）。\n\n禁止立即取回物品，以增加遊戲難度。\n\n可自訂懲罰：\n\n微調負面狀態持續時間（失明、緩慢、噁心）與增幅等級。\n\n選擇使用 TFC 預設行為，或手動覆寫生命值／飢餓值設定。\n\n**適合哪些玩家？**\n\nTFC 玩家：在 TFC 嚴苛的生存循環中加入永久性的後果，深化體驗。\n\n硬核生存者：讓每次死亡都成為需要重新規劃的策略挫折。\n\n整合包開發者：透過設定檔驅動的懲罰機制，平衡 TFC 的遊戲體驗。\n\n需求與設定\n\n必要條件：Terrafirmacraft (TFC)。\n\n選用條件：屍體模組（Corpse Mod，用於遺體冷卻）。\n\n透過 tfcpunishment-common.toml 檔案或遊戲內選單進行設定（Esc → Mods → TFC Punishment for Death → Config）。\n\n《TFC Punishment for Death》要求您尊重 TFC 的寫實風格——沒有重來的機會，只有繼續生存。\n\n\n本地化：英文／俄文",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fa7d7f314b221aef",
+  "content": "\n\nМаскирует сообщения о смерти и убийствах, получаемые невидимыми игроками. Обе настройки по умолчанию равны true, но их можно изменить с помощью команд gamerule:\n\n    /gamerule hideinvismsgs:obfuscate_invis_deaths <True/False>\n    /gamerule hideinvismsgs:obfuscate_invis_kills <True/False>\n    v1.1+\n    /gamerule hideinvismsgs:show_invis_team_name <True/False>\n    v1.2+\n    /gamerule hideinvismsgs:obfuscate_weapon_name <True/False>\n    v1.3+\n    /gamerule hideinvismsgs:obfuscate_dead_leave_msg <True/False>\n\n### Предупреждение\nВыглядит некорректно в версии 26.2 из-за [MC-308836](https://bugs.mojang.com/browse/MC/issues/MC-308836)\n\n# Изображения\n![Невидимый игрок убивает невидимого игрока](https://cdn.modrinth.com/data/kKHaHIUL/images/bf4fb1b5fbac3fb995a5f150287af51cca8ca558.png)\n\n![Волк убит невидимым игроком](https://cdn.modrinth.com/data/kKHaHIUL/images/b68254a80d78d5553d919fcb7e1d5014f1212148.png)\n\n![Сохраняет данные команды](https://cdn.modrinth.com/data/kKHaHIUL/images/03139491f43170af446b36da393daa5940be8a4d.png)\n\n[![Спонсор Sparked Host](https://cdn.modrinth.com/data/cached_images/3fdc990911fad7d2e86556421b70f72ab56ab3a6_0.webp)](https://billing.sparkedhost.com/aff.php?aff=3158)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

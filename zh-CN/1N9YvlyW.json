@@ -1,6 +1,6 @@
 {
-  "bodyHash": "WJmidNRlbNA=",
-  "content": "# DAOT Sable 兼容性\n\nDAOT Sable 兼容性是一个连接 **Danny's Aot** 与 **Sable** 物理引擎（也被 **Aeronautics** 等模组使用）的性能与稳定性桥梁。它解决了在使用 ODM 装备靠近或位于基于物理的子层级上时出现的严重物理冲突。\n\n-- 前置要求 --\n**Danny's Aot (DAOT)\nSable**\n并且能够同时运行类似 **Sinytra Connector**（或其他）的连接器。\n\n如果你遇到被传送回原位的问题，你可以通过以下命令禁用移动检测：\n```\n/daotsable movementcheck <true/false>\n```\n\n如有任何漏洞或建议，欢迎随时联系我。",
+  "bodyHash": "7a29a59b486a7a2b",
+  "content": "\n\n# DAOT Sable 兼容性\n# \nDAOT Sable 兼容性是 **Danny's Aot** 与 **Sable 物理引擎**（也被 **Aeronautics** 等模组采用）之间的性能与稳定性桥梁。它解决了在使用 ODM 装备靠近或位于基于物理的子层时产生的关键物理冲突问题。\n \n-- 需求 --\n**Danny's Aot (DAOT)**\n**Sable**\n以及支持两者运行的连接器，例如：**Sinytra Connector**（或其他）\n \n \n如果你在传送回原位时遇到问题，可以通过以下命令禁用移动检测： \n```\n/daotsable movementcheck <true/false>\n```\n\n \n如有任何 Bug 或建议，欢迎随时联系我。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YE12BKrLYeI=",
-  "content": "<p>GeckolibBetterFPS 是一個專注於效能的小型模組，可最佳化 GeckoLib 動畫的渲染管線，以減少 CPU 負擔並提升遊戲 FPS。</p><p>此模組專注於 GeckoLib 渲染過程中的數學與邏輯最佳化。透過減少重複計算並簡化頻繁執行的程式碼路徑，顯著降低渲染動畫實體的成本。</p><p>✨ 特色<br>* 加速 GeckoLib 動畫實體渲染（約 25%）<br>* 減少多個 GeckoLib 實體同時存在時的微卡頓</p><p>此模組不會以任何方式改變動畫品質或視覺效果。</p><p>需與 Sodium / Embeddium 及 ImmediatelyFast 搭配使用</p><p>前</p><p><img src=\"https://media.forgecdn.net/attachments/description/1455983/description_a81fb666-97d6-4d1b-90ff-be42cb7013b0.jpg\" alt=\"\" width=\"850\" height=\"674\"></p><p>後</p><p><img src=\"https://media.forgecdn.net/attachments/description/1455983/description_22fa4046-53da-4c2e-bcfe-53ffe12d71a9.jpg\" alt=\"\" width=\"850\" height=\"674\"></p><p>&nbsp;</p><p>77 個 Geckolib 實體</p>",
+  "bodyHash": "138839d38efea943",
+  "content": "<p>GeckolibBetterFPS 是一款专注于性能的小型模组，通过优化 GeckoLib 动画的渲染管线，减少 CPU 开销并提升游戏内帧率。</p>\n<p>该模组着重于 GeckoLib 渲染过程中的数学和逻辑优化。通过减少冗余计算并简化频繁执行的代码路径，显著降低了渲染动画实体的成本。</p>\n<p>✨ 功能<br>* 加速 GeckoLib 动画实体渲染（约提升 25%）<br>* 减少多个 GeckoLib 实体存在时的微卡顿</p>\n<p>此模组不会以任何方式改变动画质量或视觉效果。</p>\n<p>需配合 Sodium / Embeddium 和 ImmediatelyFast 使用</p>\n<p>优化前</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1455983/description_a81fb666-97d6-4d1b-90ff-be42cb7013b0.jpg\" alt=\"\" width=\"850\" height=\"674\"></p>\n<p>优化后</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1455983/description_22fa4046-53da-4c2e-bcfe-53ffe12d71a9.jpg\" alt=\"\" width=\"850\" height=\"674\"></p>\n<p>&nbsp;</p>\n<p>77 个 GeckoLib 实体</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

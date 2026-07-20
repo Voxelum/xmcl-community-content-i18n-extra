@@ -1,6 +1,6 @@
 {
-  "bodyHash": "0airYax32eU=",
-  "content": "<h1 style=\"text-align:center\">罪之灰燼：更好的AI</h1><p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_56e0d964-5e95-4174-b390-ab3d9c6d8a3c.png\"></p><p>設定檔產生於&nbsp;<code>config\\ash_of_sin</code> 目錄中。</p><p>設定檔的名稱為 better_ai.toml。</p><p>此模組透過動態仇恨系統增強敵對生物的AI。生物現在會追蹤每位玩家造成的傷害，並優先攻擊仇恨值最高的玩家。為了避免 overwhelmed，只有可設定的生物數量（預設3隻）能同時主動攻擊一位玩家；其他生物在過於靠近時會撤退並側移，當距離較遠時則恢復預設AI行為。可透過可設定的列表來排除Boss和自訂實體不受此行為影響。</p>",
+  "bodyHash": "813c5fed2bc92ca1",
+  "content": "\n\n<h1 style=\"text-align:center\">Ash Of Sin: Better AI</h1>\n<p style=\"text-align:center\"><img src=\"https://media.forgecdn.net/attachments/description/null/description_56e0d964-5e95-4174-b390-ab3d9c6d8a3c.png\"></p>\n<p>設定檔會生成於&nbsp;<code>config\\ash_of_sin 目錄中。</code></p>\n<p>設定檔的名稱為 better_ai.toml。</p>\n<p>此模組透過動態仇恨系統強化了敵對生物的 AI。生物現在會追蹤每位玩家造成的傷害，並優先攻擊仇恨值最高的目標。為避免玩家被過度圍攻，同時主動攻擊單一玩家的生物數量上限可自訂（預設為 3）；超出數量的生物在距離過近時會後退並側移，距離拉開後則恢復為預設 AI。您亦可透過可設定的列表，將 Boss 與自訂實體排除在此機制之外。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

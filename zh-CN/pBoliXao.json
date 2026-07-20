@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eadada93a393ca0e",
+  "content": "\n\n# 用途：\n本数据包的目的是在不移除重核的情况下，使战锤无法合成。\n\n**不会删除已有的战锤。**\n\n# 使用说明\n1. 将数据包放入 datapacks 文件夹中\n2. 运行命令 /datapack enable \"file/Uncraftable_Mace\"\n3. 运行命令 /reload\n4. 在生存模式中验证无法合成战锤。\n\n若要停用该数据包，只需将其从 datapacks 文件夹中移除并重启世界即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

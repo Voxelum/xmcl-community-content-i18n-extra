@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ntRRBRmTnUw=",
-  "content": "Добавляет поддержку мод-логики для правильной обработки стеков из [Mob Stacker](https://modrinth.com/mod/mob-stacker).\n\n#### В настоящее время поддерживаются:\n\n- **Botania**: Сбрасывание\n- **Botania**: Барабан сбора [**F**]\n- **MineFactory Reloaded**: Механизмы, работающие с мобами\n- **Thaumcraft**: Лампа плодородия [**F**]\n\nЭлементы, отмеченные буквой F, требуют дополнения [Mob Stacker: Farming](https://modrinth.com/mod/mob-stacker-farming).",
+  "bodyHash": "85cc7709ffc35352",
+  "content": "Добавляет поддержку логики модов для корректной обработки стаков из мода [Mob Stacker](https://modrinth.com/mod/mob-stacker).\n\n#### В настоящее время поддерживает:\n\n- **Botania**: Линька\n- **Botania**: Бочка сбора [**F**]\n- **MineFactory Reloaded**: Механизмы, работающие с мобами\n- **Thaumcraft**: Лампа плодородия [**F**]\n\nПредметы, отмеченные буквой F, требуют наличия аддона [Mob Stacker: Farming](https://modrinth.com/mod/mob-stacker-farming).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

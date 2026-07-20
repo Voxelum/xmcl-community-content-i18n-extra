@@ -1,0 +1,6 @@
+{
+  "bodyHash": "effd974a224141af",
+  "content": "\n\n# Mishang 都市建設\n\nMishang Urban Construction 是一款與建造和裝飾相關的模組，提供了多種實用的方塊，包括：\n\n- 道路方塊：可塗上線條以呈現真實感，站在道路上會獲得加速效果；道路線條有多種組合，且在特定情況下可自動生成。\n- 路面標記：可放置在道路上（如導引箭頭）的標記；也能放置在道路半磚上。\n- 燈具：擁有多種造型與顏色：白、黃、橙、青、綠與粉紅。包含完整的光源方塊，以及可放置在牆壁、地板或天花板的裝飾燈具。\n- 告示牌方塊：有多種風格，與原版告示牌相比，本模組的告示牌可彈性調整顏色、大小與位置等參數。\n- 護欄方塊：具有多種紋理、外觀與連接方式，且可放置在階梯上。\n- 可自訂顏色的方塊。\n\n此外，本模組還包含一系列實用工具，例如：\n\n- 快速建造工具：可快速在平面上放置多個方塊。\n- 強制放置工具：忽略放置限制與方塊更新來放置方塊。\n- 傳送工具：傳送到您想去的任何地方。\n- ID 查詢工具、方塊狀態工具、數據標籤工具：查詢方塊或實體的屬性／NBT，或查詢當前生物群落。\n- 爆炸工具：點擊即可製造爆炸。\n- 旋轉或鏡像工具：點擊方塊即可旋轉或翻轉它。\n- ……\n\n本模組的詳細資訊請見 [GitHub](https://github.com/SolidBlock-cn/mishanguc/wiki) 或 [MC 模組百科](https://www.mcmod.cn/class/5743.html)。\n\n本模組**依賴 Fabric API**，自模組版本 1.4.0 起，**不再依賴** [BRRP](https://github.com/SolidBlock-cn/BRRP) (Better Runtime Resource Pack) 模組。\n\n僅提供 Fabric 版本，本模組無 Forge 版本。\n\n請同時參考[更新日誌](UpdateLog-en.md)。\n\n本模組採用 LGPLv3 授權條款發布，若您要傳播本模組，務必遵守該條款。\n\n歡迎加入騰訊 QQ 群 **587928350** 交流。您也可以在 GitHub 上回報問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

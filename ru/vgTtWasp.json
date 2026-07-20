@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8d3273386d957fd",
+  "content": "\n\n# NoMenuBlur\n\nNoMenuBlur — это клиентский мод, который позволяет отключить эффект размытия в меню паузы, добавленный в версии 1.21. Мод также позволяет вернуть старый внутриигровой фон и настроить его цвет. Также предусмотрена возможность использовать обновлённый фон без размытия.\n\n## Зависимости\n\n[Fabric API](https://modrinth.com/mod/fabric-api) - **Обязательно**  \n[YetAnotherConfigLib](https://modrinth.com/mod/yacl) - **Обязательно**  \n[ModMenu](https://modrinth.com/mod/modmenu) - *Необязательно*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

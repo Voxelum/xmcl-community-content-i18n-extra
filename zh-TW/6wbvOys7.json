@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c244eb1b933e7216",
+  "content": "\n\n# Planets+ 擴充模組\n\n**此為**由 DeadbushCarrot 開發的數據包 Planets+ 的**總覽頁面**。\n\n## 穀神星 (Ceres) 擴充模組 \n此擴充模組主要供曾於矮行星上擁有遊戲進度的舊版玩家使用。旨在防止進度遺失，並讓玩家能將資源轉移至其他天體。\n\n## 米瑪斯 (Mimas) 擴充模組 \n米瑪斯擴充模組的作用與穀神星擴充模組相同。\n\n## Thermal 系列相容模組\n此模組會將所有 Thermal 系列的礦石新增至 Planets+ 的所有天體中。\n\n使用 Thermal 系列相容模組需具備以下前置：\n\n- [Thermal and Space](https://modrinth.com/mod/thermal-and-space) \n\n- [Thermal Series](https://modrinth.com/mod/thermal-expansion) （必裝）\n\n## Mekanism 相容模組 \nMekanism 相容模組會將所有 Mekanism 礦石新增至所有天體中，機制與 Thermal 系列相容模組類似。\n\n使用 Mekanism 相容模組需具備以下前置：\n\n- [Mekanism: Ad Astra Ores](https://modrinth.com/mod/mekanism-ad-astra-ores)\n\n- [Mekanism](https://modrinth.com/mod/mekanism) （必裝）\n  \n## Thermal 系列與 Mekanism 整合相容模組\n\n此模組將 Thermal 與 Mekanism 的相容支援進行整合，以消除兩者同時啟用時可能產生的衝突。\n\n使用此相容模組需具備以下前置：\n\n- [Thermal and Space](https://modrinth.com/mod/thermal-and-space)\n\n- [Thermal Series](https://modrinth.com/mod/thermal-expansion) \n\n- [Mekanism: Ad Astra Ores](https://modrinth.com/mod/mekanism-ad-astra-ores)\n\n- [Mekanism](https://modrinth.com/mod/mekanism)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

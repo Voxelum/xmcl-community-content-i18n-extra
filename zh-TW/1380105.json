@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dfe637677efc2b38",
+  "content": "\n\n<h1>Duplicationless</h1>\n<p>這不是一個玩法模組，而是一個<strong>函式庫（Library）</strong>。</p>\n<p>我開發這個是因為我已經受夠了在我的模組裡一遍又一遍地寫那些該死的一模一樣的資料追蹤和設定程式碼。</p>\n<p>所以與其每次複製貼上那麼多行程式碼，我決定把它們全部打包到一個地方——於是就有了這個專案。</p>\n<h2>主要功能</h2>\n<p><a href=\"https://github.com/MCTeamPotato/Duplicationless/tree/1201/src/main/java/me/kall/duplicationless\" target=\"_blank\" rel=\"nofollow\">https://github.com/MCTeamPotato/Duplicationless/tree/1201/src/main/java/me/kall/duplicationless</a></p>\n<p>除了主程式入口點與 Mixins 之外，每一個類別都是 API。</p>\n<hr>\n<h2>備註</h2>\n<p>這個專案基本上是因為我太懶了（以一種促進生產力的方式）。</p>\n<p>如果你也受夠了反覆重寫實體或方塊的追蹤邏輯，或許它對你也會很有用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

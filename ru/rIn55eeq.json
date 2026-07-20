@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ed28e947605901c4",
+  "content": "\n\n**Описание**\n---\nSubmerged Explosions позволяет блокам разрушаться от взрывов, находящихся в жидкостях. Помимо повышения реализма, это теперь не позволит игрокам использовать воду и другие жидкости для защиты своих построек от взрывного урона.\n\n\n**Связанные моды**\n---\n- [Realistic Explosion Physics](https://www.curseforge.com/minecraft/mc-mods/realistic-explosion-physics)\n- [Throwable Explosives](https://www.curseforge.com/minecraft/mc-mods/throwable-explosives)\n\n\n**Конфигурация**\n---\n<details>\n<summary>BreakLiquids</summary>\nРазрушаются ли блоки жидкостей под воздействием взрывов.\n</details>\n\n<details>\n<summary>LiquidBlastAbsorption</summary>\nМножитель, применяемый к взрывоустойчивости всех жидкостей.\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

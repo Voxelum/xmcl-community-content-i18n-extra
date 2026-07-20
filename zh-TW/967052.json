@@ -1,6 +1,6 @@
 {
-  "bodyHash": "e6QyBxrO7TQ=",
-  "content": "<p><span style=\"color:#fff\"><a href=\"https://url-shortener.curseforge.com/robDC\" target=\"_blank\" rel=\"nofollow\">點擊這裡</a></span><span style=\"color:#e03e2d\">獲取BisectHosting 25%折扣優惠，讓您以更低價格部署伺服器！\n</span></p><p>這是一個需要玩家自行配置內容的函式庫模組。</p><p>允許玩家使用簡易JSON語法修改或覆蓋其他模組內硬編碼的文字，協助翻譯者完成在地化工作。</p><p>您無需擔心運行時長或性能損耗。本模組採用ASM技術進行高效的類別替換，且快取機制僅在目標模組更新後才會重新生成，對現代電腦的影響微乎其微。</p><p>檔案配置撰寫方式與具體運作原理，請參閱<a href=\"https://github.com/3093FengMing/VaultPatcher/wiki\" target=\"_blank\" rel=\"nofollow\">維基頁面</a>。</p><p>若在撰寫設定檔時遇到困難，歡迎加入我們的<a href=\"https://discord.gg/MCMCJ9ynuy\" target=\"_blank\" rel=\"nofollow\">Discord</a>或QQ(227323572)群組。</p><p>Github專案頁面：<a href=\"https://github.com/3093FengMing/VaultPatcher\" target=\"_blank\" rel=\"nofollow\">VaultPatcher</a></p>",
+  "bodyHash": "46f6c88f86e422cc",
+  "content": "\n\n<p><span style=\"color:#fff\"><a href=\"https://url-shortener.curseforge.com/robDC\" target=\"_blank\" rel=\"nofollow\">點擊這裡</a></span><span style=\"color:#e03e2d\"> 即可於 BisectHosting 獲得 25% 折扣，讓您以更低的價格部署伺服器！\n</span></p>\n<p>這是一個函式庫模組，需要玩家自行客製化內容。</p>\n<p>它允許玩家使用簡單的 JSON 語法來修改或覆寫其他模組中的硬編碼文字，藉此協助翻譯者進行翻譯作業。</p>\n<p>您無需擔心執行時間或效能損耗。此模組使用 ASM 進行高效的類別替換，且快取僅在目標模組更新後才會更新已替換的類別，因此對現代電腦的效能影響並不顯著。</p>\n<p>關於檔案配置撰寫與具體運作原理，請參閱 <a href=\"https://github.com/3093FengMing/VaultPatcher/wiki\" target=\"_blank\" rel=\"nofollow\">Wiki</a>。</p>\n<p>如果在撰寫設定時遇到困難，歡迎加入我們的 <a href=\"https://discord.gg/MCMCJ9ynuy\" target=\"_blank\" rel=\"nofollow\">Discord</a> 或 QQ（227323572）。</p>\n<p>Github：<a href=\"https://github.com/3093FengMing/VaultPatcher\" target=\"_blank\" rel=\"nofollow\">VaultPatcher</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

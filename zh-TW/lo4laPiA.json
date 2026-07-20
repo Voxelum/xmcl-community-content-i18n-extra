@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8781dd2d03be3cd4",
+  "content": "PVP Optimizer 是一個客戶端 Fabric 模組，它會重試某些右鍵點擊動作（如珍珠、雪球、雞蛋、釣魚竿、弩射擊和方塊放置），以在高延遲情況下減少輸入失誤。它不會更改伺服器規則或冷卻時間；僅重新發送使用動作，以幫助這些動作正確註冊。\n\n-   使用前請諮詢你的伺服器（可能會導致封禁）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

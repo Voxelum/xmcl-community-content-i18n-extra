@@ -1,0 +1,6 @@
+{
+  "bodyHash": "061f8ae2b4cbbbfe",
+  "content": "\n\n<div>\n<h1>CustomMobTargets-CRE</h1>\n</div>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/custom-mob-targets\" rel=\"nofollow\">Оригинальный мод&nbsp;[CMT] Custom Mob Targets </a> от&nbsp;<a href=\"https://github.com/ZeithComms\" rel=\"nofollow\">Zeitheron</a></p>\n<div>\n<h2>Отличия от оригинального мода:&nbsp;</h2>\n</div>\n<ul>\n<li>Портирован на&nbsp;<a href=\"https://github.com/CleanroomMC/Cleanroom\" rel=\"nofollow\">Cleanroom</a></li>\n<li>Добавлена система групповой ответной атаки: при нападении на любого члена определённой фракции все находящиеся рядом члены этой фракции контратакуют нападающего</li>\n<li>Членов фракции, сражающихся друг с другом, можно дополнительно исключить из запуска групповой ответной атаки (<code>ignore_same_faction</code>)</li>\n<li>Конфигурации групповой ответной атаки загружаются из&nbsp;<code>config/CustomMobTargets/group_retaliation/*.json</code>\n<h1>&nbsp;</h1>\n<h1><a href=\"https://www.curseforge.com/linkout?remoteUrl=https://cleanroommc.com/\" target=\"_blank\" rel=\"nofollow\"><strong>Требуется Cleanroom!!</strong></a></h1>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

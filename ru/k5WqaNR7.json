@@ -1,0 +1,6 @@
+{
+  "bodyHash": "767f625dc04a193a",
+  "content": "\n\n<p><a href=\"https://modrinth.com/mod/origins\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/D71cgFC.png\" alt=\"Требуется Origins\" width=\"277\" height=\"93\" /></a></p>\n<p><span style=\"font-size: 14px;\"><u>Фантомы видят фантомов</u></span></a></p>\n<p><span style=\"font-size: 14px;\">Этот мод позволяет ванильному происхождению «Фантом» видеть других фантомов в состоянии фазирования или невидимости.</span></p>\n<p><span style=\"font-size: 14px;\">Вы будете видеть других фантомов так же, как в режиме наблюдателя — слегка прозрачными.</span></p>\n<p><img src=\"https://i.imgur.com/kn63aON.png\" alt=\"\" /></p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline;\"><strong>Пользовательские происхождения:</strong></span></p>\n<p>Это ещё не собственный тип силы, но вы можете добавить силу: `phantomsseephantoms:see_invisible` в ваш origin json. (Примечание: Любое происхождение с этой силой сможет видеть друг друга.)</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

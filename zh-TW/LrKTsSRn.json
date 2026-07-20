@@ -1,0 +1,6 @@
+{
+  "bodyHash": "40a16c84a246e408",
+  "content": "**Yuhan的騎乘配置**\n\n在這個模組中，您可以：\n\n- 廣泛調整Cobblemon的騎乘屬性。\n- 個別調整陸地、水域和空中的速度。\n- 增加或減少陸地、水域和空中的耐力。\n- 避免通過json文件等個別配置每一個Cobblemon。\n- 透過遊戲內GUI和簡單的配置文件輕鬆進行這些更改。\n\n包含與ATMxMSD、Nava的ZA Mega、Horret的擴展Mega以及我個人的Mega插件的開箱即用兼容性！\n\n目前僅支持Neoforge。未測試Sinatra Connector。\n\n**使用指南**：在遊戲中Shift右鍵點擊指南針以打開遊戲內配置菜單。\n\n**錯誤與幫助**：目前耐力開關有問題，但很快就會修復。如果您需要其他方面的幫助，我在官方Cobblemon Discord有一個幫助頻道。\n\n感謝：Escobooom",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

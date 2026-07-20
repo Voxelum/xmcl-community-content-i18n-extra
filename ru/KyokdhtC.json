@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5a24b878bd2bb2cd",
+  "content": "\n\n# QOGL (Quality Of Game Life)\n\n一款小巧、简洁且可自定义的 HUD 覆盖层，在游戏过程中显示实用信息。\n\n---\n\n## 描述 (ZH)\n\n### 功能特性\n- **生存天数**（世界时间计数器）\n- **本次会话时长**（当前游戏会话耗时）\n- **系统时间**（本机时钟）\n- **坐标**（X / Y / Z）\n- **帧率 (FPS)**\n- **游戏内配置界面**，采用**双页 UI 设计**：**信息** / **位置**\n  - 模块开关（自定义显示内容）\n  - 位置设置（锚点 + X/Y 偏移量）\n  - **“- / +” 偏移控制**（按住 **Shift** 键可放大步长至 x10）\n  - 文字阴影开关\n- 提供**英文与俄文**翻译支持\n\n### 配置方法\n通过以下路径打开配置界面：\n- **选项 (Options) → HUD 配置 (HUD Config)**\n\n配置文件将自动保存至 `config` 文件夹中。\n\n### 兼容性 / 版本\n提供独立构建版本：\n- **Minecraft 1.20.1**：Fabric / Forge  \n- **Minecraft 1.21.1**：Fabric / NeoForge",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

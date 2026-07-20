@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e30b53bdfdc6c28f",
+  "content": "<h2>Простые доработки стандартов битвы для Simply Swords</h2>\n<p>Дополнение для Fabric к Simply Swords (1.20.1), позволяющее настроить жёстко заданные значения стандартов битвы (Стандарт Бездны и Громоносный стандарт).</p>\n<h3>Возможности</h3>\n<ul>\n<li>Регулировка уровней силы эффектов, предоставляемых игроку и другим сущностям.</li>\n<li>Изменение эффективной дальности ауры стандарта.</li>\n<li>Модификация урона по области действия (AOE) Громоносного стандарта.</li>\n</ul>\n<p>Путь к файлу конфигурации: <strong>config/simplyswords_main/battle_standard_tweaks.json</strong></p>\n<h3>Благодарности</h3>\n<ul>\n<li>Основано на идее <a href=\"https://github.com/ImEden6\" target=\"_blank\" rel=\"nofollow\">ImEden6</a> для мода <a href=\"https://github.com/ImEden6/simplyswords-haste-tweaks\" target=\"_blank\" rel=\"nofollow\">Haste Tweaks</a>.</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

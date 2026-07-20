@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a4667bed05f271ea",
+  "content": "\n\n# ElytraLunge: Используйте чары «Отталкивание» даже при полёте с элитрами\nВас раздражает использование сложной тактики, показанной в этом видео?\n<iframe width=\"280\" height=\"158\" src=\"https://www.youtube-nocookie.com/embed/9kkd3LDx3zE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nЭтот датапак создан для вас!\n\n## Что делает этот датапак:\n- Я изменил файл `lunge.json`\n , чтобы изменить условия активации чар «Отталкивание», теперь вы можете использовать зачарование, **даже во время полёта на элитрах**\n- Вот, собственно, и всё\n\n## Установка\nВы можете установить либо датапак (работает в чистой версии игры), либо мод, совместимый с Fabric, Quilt, Forge и NeoForge. Может появиться предупреждение о том, что вы используете экспериментальные функции. Просто проигнорируйте его.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

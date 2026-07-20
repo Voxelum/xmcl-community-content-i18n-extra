@@ -1,0 +1,6 @@
+{
+  "bodyHash": "191df780246b784a",
+  "content": "\n\n为 Fabric/Forge 添加反合成台（Uncrafting Table）。\n\n使用此模组错误合成的物品可被拆解并重复利用。\n\n默认情况下不消耗经验值。\n\n\n# 合成配方\n- 反合成台\n将钻石围绕工作台排列即可合成。\n![table](https://media.forgecdn.net/attachments/392/783/recipe_uncrafting_table.png)\n## 界面\n![gui](https://media.forgecdn.net/attachments/504/859/2022-10-06-225338.png)\n\n（此模组可能导致物品或经验值无限增长，若不希望破坏游戏平衡，请自行调节配置。）\n<br /> <br />\n <br />\n配置文件：(游戏目录)/config/uncraftingtable76.json",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "38fc386a646009f9",
+  "content": "\n\n# RuSureQuit\n\n[QuitConfirm](https://www.curseforge.com/minecraft/mc-mods/quitconfirm) 的非官方多模组加载器移植版。\nRuSureQuit 是一款客户端模组，会在退出存档、多人游戏或世界时显示确认窗口，以防止意外退出。\n\n## 功能特性\n\n* 提供多种退出界面风格供选择\n* 支持在退出存档和多人游戏时显示确认窗口\n* 内置高度可定制的设置面板\n\n## 许可证\n\n本模组采用 `MIT` 许可证。\n\nOreUI 按钮纹理取自 [OreUI-Recreation by tmc249](https://github.com/thetmc249/OreUI-Recreation)。它们同样遵循 `MIT` 许可证。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "087251c57e76e70e",
+  "content": "\n\n# VL+ 资源包\n旨在为 Ventureland RPG 服务器提供最佳体验。通过 CIT 技术添加了大量自定义内容，使物品与界面图标的区分更加直观。此外，还优化了粒子效果与火焰渲染，大幅提升了“狂乱强盗”（Psycho Bandit）Boss 战的视觉舒适度。同时加入了 RET/ETF 支持，让原本外观一致的怪物呈现出差异化造型，探索过程更加有趣！\n\n### 推荐及使用版本：1.21.1\n当然也可兼容其他版本，但该版本正是 [Ventureland Utils](https://modrinth.com/project/oA3tu0Cm) 所基于的核心版本。\n\n注意：使用 OptiFine 或 Fabric 替代方案时可能存在已知兼容性问题。\n\n![展示了为所有内置模组设计的图标](https://cdn.modrinth.com/data/cached_images/4638d82f0ad457a6bcb1188d8c45b396db594c22.png)\n\n请注意，本包为附加资源包（Add-on），需下载服务器原版资源包才能发挥完整效果。\n只需在服务器内输入 `/resource` 命令，选择启用并下载原版资源包即可。\n此外，建议安装 CIT 模组以确保大部分纹理正常显示，并搭配 RET/ETF 模组以加载自定义怪物纹理。如需在资源包菜单中获得更多高级选项，可安装 Respackopt 模组。\n查看“版本”选项卡并点击具体版本，即可了解其依赖项。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

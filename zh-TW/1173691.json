@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6bf40ececc0ba6d1",
+  "content": "\n\n<p>本模組為 Applied Energistics 2 新增數種儲存單元。\n目前包含物品、流體與化學品（安裝 <a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics\" target=\"_blank\" rel=\"nofollow\">Applied Mekanistics</a> 後）。\n具備無限容量與無限類型。 \n使用方式與 Applied Energistics 2 的儲存單元一致。\n無需擔心大型 NBT 資料的問題；它採用類似 AE2 Things 的外部儲存機制。</p>\n<p>考量效能影響，單一類型最大數量為 Long_MAX (2^63-1)。\n當然，您極少會需要儲存這麼多。若真有此需求，可嘗試 <a href=\"https://www.curseforge.com/minecraft/mc-mods/bigger-ae2\" target=\"_blank\" rel=\"nofollow\">Bigger AE2</a>。</p>\n<p>部分程式碼參考了 <a href=\"https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge\" target=\"_blank\" rel=\"nofollow\">AE2 Things。</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

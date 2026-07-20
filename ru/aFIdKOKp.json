@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f4269a81dfad15f1",
+  "content": "\n\n# Сидение в AFK\n\n**Требуется [Detect AFK Players](https://modrinth.com/datapack/detect-afk)**.\n\nИгроки садятся, когда находятся в режиме AFK. Это весело!\n\n![Игроки у костра на закате, двое из которых сидят и предположительно находятся в AFK.](https://cdn.modrinth.com/data/cached_images/daf6b5618ce798db68449aedfbdec2668c4ee724_0.webp)\n\nИгроки снова встанут, если под ними не будет опоры или они получат урон.\n\nЧтобы исключить игрока из сидения, выдайте ему тег `afk_sit.ignore`:\n\n```\n/tag PLAYER add afk_sit.ignore\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

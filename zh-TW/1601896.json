@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a0c3f7412ad18a6e",
+  "content": "\n\n<h1>地面睡眠</h1>\n<p><strong>地面睡眠</strong> 讓你能夠無需放置床鋪即可直接在地面上睡覺，使探索、露營與生存冒險更加便利，同時保持與原版遊戲的平衡性。</p>\n<p>只需手持空手，對著實體方塊頂部按下 <strong>蹲下（Shift）+ 右鍵點擊</strong>，即可躺下入睡。</p>\n<h2>功能特色</h2>\n<ul>\n<li>🛌 可直接在地面上睡覺。</li>\n<li>🌙 無需準備床鋪。</li>\n<li>⌛ 地面睡眠所需時間比正常床鋪稍長。</li>\n<li>🍖 躺下時會消耗少量飢餓值。</li>\n<li>🐌 醒來後會獲得 5 秒的 <strong>緩慢 I</strong> 效果。</li>\n<li>🎭 採用標準的躺臥動畫。</li>\n<li>⚖️ 設計目標為提供如原版般的自然體驗。</li>\n</ul>\n<h2>仍適用原版規則</h2>\n<p>地面睡眠遵循 Minecraft 的一般睡眠限制條件。</p>\n<p>僅在以下條件滿足時方可入睡：</p>\n<ul>\n<li>處於可睡覺的有效時間與維度。</li>\n<li>附近沒有敵對生物。</li>\n<li>玩家上方未直接下雨。</li>\n<li>有足夠的空間躺下（實體地面且上方有充足空間）。</li>\n</ul>\n<p>若任何原版睡眠條件未達成，則無法入睡。</p>\n<h2>使用方法</h2>\n<ol>\n<li>將主手清空（手持空手）。</li>\n<li>按住蹲下鍵（<strong>Shift</strong>）。</li>\n<li>右鍵點擊實體方塊的頂部。</li>\n<li>角色隨即躺下。</li>\n<li>經過比正常床鋪稍長的延遲後，角色進入睡眠狀態。</li>\n</ol>\n<h2>支援版本</h2>\n<p>適用於自 <strong>1.16.5</strong> 起的主要 Minecraft 版本。</p>\n<p>支援：</p>\n<ul>\n<li>Forge</li>\n<li>Fabric</li>\n<li>NeoForge（若環境支援）</li>\n</ul>\n<h2>適合用途</h2>\n<ul>\n<li>生存模式玩法</li>\n<li>冒險地圖</li>\n<li>RPG 模組整合包</li>\n<li>露營與探索體驗</li>\n<li>Vanilla+ 增強體驗</li>\n</ul>\n<p>地面睡眠在保留 Minecraft 熟悉睡眠機制的同時，讓野外睡覺變得簡單、沉浸且平衡。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "nZfzBA+JU6g=",
-  "content": "# 描述\nLumeau 是一款輕量級光影著色器，設計簡潔且視覺效果出色。它模仿了 Minecraft 的色調與整體光色，但在某些情況下，我也加入了自己的選擇，以呈現更令人愉悅的視覺效果。\n![秋葉森林](https://cdn.modrinth.com/data/Rosc1kAc/images/ddde376639de9b3f56b118ace4e7f12af995a266.png)\n# 功能特色\nLumeau 的增強部分：\n- 陽光顏色會根據太陽在天空中的角度而變化，這將在日出或日落時為方塊添加紅橙色調，並在正午時呈現更偏黃白的色調。\n- 月光顏色微妙，呈現白色調。\n- 陰影清晰銳利，預設無模糊效果（可在設定選單中調整）。\n- 波浪效果簡單（目前無反射效果）。\n- 光照計算與原版 Minecraft 略有不同，太陽與月亮帶來輕微的高光效果。\n- 終界傳送門的著色器經過調整，呈現 3D 立體感。\n# 目標\nLumeau 的設計目標是在老舊硬體上也能良好運行，因為我本身沒有高階 GPU（好奇的人可以參考，我使用的是 GTX 960）。\n\n**我希望 Lumeau 在效能上高效，同時也能呈現最佳視覺效果**\n# 安裝方式\n**Lumeau 需要 [Sodium](https://modrinth.com/mod/sodium) 和 [Iris](https://modrinth.com/mod/iris) 載入器才能運行**。\n您可以透過 Modrinth 安裝此模組。\n下載最新版本的 Lumeau 後，將其放入 .minecraft 資料夾中的 shaders 資料夾，並在 Iris 選單中選取即可。",
+  "bodyHash": "4023f1a93b6ed373",
+  "content": "# 描述\nLumeau 是一款轻量级着色器，旨在通过模仿 Minecraft 的色彩方案和整体光线效果，提供简洁而美观的视觉体验。在某些情况下，我也加入了一些个人偏好的元素，以呈现更悦目的视觉效果。\n![秋日森林](https://cdn.modrinth.com/data/Rosc1kAc/images/ddde376639de9b3f56b118ace4e7f12af995a266.png)\n# 功能\nLumeau 的特色功能：\n- 阳光颜色会根据太阳在天空中的角度而变化。日出或日落时，方块会呈现红橙色调；正午时分则呈现更亮的黄白色调。\n- 月光色调柔和，呈白色。\n- 阴影清晰锐利，默认不添加模糊效果（可在设置菜单中更改）。\n- 波浪效果简洁（目前暂无反射效果）。\n- 光照计算与原版 Minecraft 略有不同，太阳和月亮会带来细微的高光效果。\n- 末地传送门采用了特殊的着色器效果，使其看起来更具立体感。\n# 目标\nLumeau 的设计初衷是为了在老旧硬件上也能良好运行，因为我没有高端显卡（好奇的朋友，我使用的是 GTX 960）。\n\n**我希望 Lumeau 既能高效运行性能，又能呈现出最佳的视觉效果。**\n# 安装\n**Lumeau 需要依赖 [Sodium](https://modrinth.com/mod/sodium) 和 [Iris](https://modrinth.com/mod/iris) 才能运行**。\n你可以通过 Modrinth 安装此模组。\n下载最新版本的 Lumeau，然后将其放入 .minecraft 目录下的 shaders 文件夹中，并在 Iris 菜单中选择它。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

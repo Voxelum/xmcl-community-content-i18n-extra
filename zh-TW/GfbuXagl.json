@@ -1,0 +1,6 @@
+{
+  "bodyHash": "01d330a659c62e38",
+  "content": "\n\n# 銀行金庫\n\n告別傳統儲物箱房間。改建造一座金庫吧。\n\nBank Vault 是一款多塊結構儲存模組：一扇 3x3 的鐵製金庫門，開啟後會顯示全螢幕、類似創造模式的物品管理介面，讓你輕鬆整理所有財寶。只需放置一個方塊，那些堆滿儲物箱的牆壁就成為歷史。\n\n## 為什麼選擇 Bank Vault\n\n- **一覽無遺。** 分類標籤、智能排序與全站搜尋功能覆蓋你的整個背包——再也不用在成排的儲物箱中翻找東西了。\n- **一鍵清空容器。** 可遞迴式地將終界箱子及其他手持容器中的物品直接存入金庫。\n- **容量隨你成長。** 餵入儲物箱（或執行 `/bank upgrade`）即可讓金庫容量隨著時間增長。\n- **共享使用。** 建立或加入共享／公會金庫，並透過 `/bank` 指令管理成員資格。\n- **資料完全由你掌控。** 個人與共享金庫的數據皆以純文字 JSON 格式儲存於 `config/bankvault/` 目錄下。\n\n## 使用方法\n\n1. 放置鐵製金庫門方塊以組建 3x3 多塊結構——遊戲內會自動驗證結構是否正確。\n2. 打開金庫門進入全螢幕管理介面：支援分頁、排序、搜尋以及一鍵清空容器功能。\n3. 透過餵入儲物箱或使用 `/bank upgrade` 來擴容。\n4. 共享使用：建立或加入共享／公會金庫，並透過 `/bank` 管理成員。\n\n指令 (`/bank`)：`list`、`invite <player>`、`accept`、`decline`、`leave`、`disband`、`upgrade`、`withdraw ...`，以及僅限管理員的 `fillall` / `clearall` / `reload`。\n\n## 獲取方式\n\n- **原始碼：** [`minecraft-1.20-26.3` 分支](https://github.com/Kishku7/bank-vault/tree/minecraft-1.20-26.3)\n- **回報問題 / 技術支援：** [mod_support](https://github.com/Kishku7/mod_support/issues)\n\n提供 Fabric、NeoForge 與 Forge 版本（1.20 至 1.21 系列亦支援 Quilt），涵蓋 Minecraft 1.20 至 26.x 版本。Fabric / Quilt 版本需安裝 Fabric API。\n\n由 Kishku7 製作。版權所有。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

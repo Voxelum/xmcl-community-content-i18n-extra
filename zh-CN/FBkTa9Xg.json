@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2265492b78ae5bc5",
+  "content": "\n\n# Mechanical Ex Deorum\n\nCreate 与 Ex Deorum 的附加模组。\n\n## 功能特性\n- 机械筛。使用 Ex Deorum 的筛子配方。\n  - 黄铜筛可处理压缩方块。普通方块以批量形式处理。\n- 烈焰人燃烧室配方无需下界要求。\n\n\n## 兼容配方\n- Create 的食物与肥料堆肥。\n- 女巫水转化为蜂蜜流体。\n- 通过木桶混合蓝铜矿、绯红岩、石灰石、奥克鲁姆和熔渣。\n- 烈焰人燃烧室作为热源。\n- 通过搅拌机处理玄武岩、下界岩和史莱姆。\n- 通过幽灵化配方使海绵生成珊瑚。\n\n\n## 已知问题\n- JEI：烈焰人燃烧室热源显示异常。仅显示一个。模型也不正确。\n- EMI：烈焰人燃烧室模型不正确。\n\n**感谢 Create 模组的作者们。**\n**感谢 thedarkcolour 制作 Ex Deorum。**\n\n## 许可证\nMechanical Ex Deorum 作为 Ex Deorum 的扩展模组，采用 GPL3 许可证。更多信息请参阅 [LICENSE](LICENSE)。\n\n部分代码源自 Create 模组，该模组采用 MIT 许可证。更多信息请参阅 [Create's license](https://github.com/Creators-of-Create/Create/blob/mc1.18/dev/LICENSE)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

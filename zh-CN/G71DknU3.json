@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ZK9SUnJznS0=",
-  "content": "这个数据包允许你多次砍伐一棵树上的某一根原木。如果一棵树有10格高，你现在可以通过破坏这根原木10次来砍倒整棵树。数据包会确保掉落正确的物品，因此即使树木已被剥皮，它也能正常工作。\n\n**数据包安装方法：**  \n**如果你收到一条消息说该数据包在较低版本中不受支持（我已标记为兼容的版本），请忽略此消息，因为它仍然可以正常工作。**\n\n1. 找到该世界的 datapack 文件夹  \n2. 将 Tree_trimmer.zip 文件拖入 datapack 文件夹  \n3. 使用 /datapack enable \"file/Tree_trimmer.zip\" 命令启用数据包  \n\n**模组安装方法：**  \n1. 按照说明安装你偏好的模组加载器（无论是 Forge、Fabric、NeoForge 还是 Quilt）  \n2. 将下载的 .jar 文件拖入（在 Windows 上）%appdata%\\.minecraft\\mods 文件夹  \n3. 启动世界并开始游戏  \n\n**如有任何问题，请在我的 Discord 服务器上反馈。**",
+  "bodyHash": "6c1c05a7eaaaba6a",
+  "content": "\n\n此数据包允许你多次破坏树木中的单根原木。如果一棵树高10格，你现在只需破坏该原木10次即可将其砍倒。数据包会确保掉落正确的物品，因此即使原木已被剥皮也能正常工作。\n\n**数据包安装：**  \n**如果你收到提示说该数据包不支持我标注的较低版本，请忽略此提示，它仍然可以正常运行**\n\n1. 找到对应世界的数据包文件夹  \n2. 将 Tree_trimmer.zip 文件拖入该数据包文件夹  \n3. 使用命令 /datapack enable \"file/Tree_trimmer.zip\" 启用该数据包  \n\n**模组安装：**  \n1. 按照说明安装你偏好的加载器（Forge、Fabric、NeoForge 或 Quilt）\n2. 将下载的 .jar 文件拖入 (Windows系统) %appdata%\\.minecraft\\mods\n3. 启动世界并开始游戏\n\n**如有任何问题，请前往我的 Discord 服务器反馈。**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

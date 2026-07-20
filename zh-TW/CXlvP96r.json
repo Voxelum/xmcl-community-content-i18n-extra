@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15feee5337732fb4",
+  "content": "\n\n「假人」實體的開發中模組。\n\n目前功能：\n- /mannequin spawn\n- 假人死亡訊息（/expandedmannequins deathMessages）\n- 假人描述（/mannequin description）\n- 假人隱藏/顯示描述（/mannequin hideDescription）\n開發中功能：\n- 假人物品欄\n執行 /mannequin scan 即可切換假人掃描。\n執行 /expandedmannequins verbose，可在執行指令時取得更多資訊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

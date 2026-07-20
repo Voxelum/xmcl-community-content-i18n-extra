@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fde41e0f1f25111d",
+  "content": "\n\n## 關於\n### 跳水入水\n> 自訂跳水動畫是一種沉浸式功能，最常見於《薩爾達傳說》等開放世界遊戲中。  \n> \n> 我十分喜愛這個動畫細節，因此為 Minecraft 加入了它。\n![Dive in (Water)](https://cdn.modrinth.com/data/cached_images/6185fc0a1c48a76232f0a9bb2298d5bd9703b223_0.webp)\n> ![Dive in (Lava)](https://cdn.modrinth.com/data/cached_images/2c08d2add3fd167652df8ecae6d189766db230cd_0.webp)\n\n### 注意事項：\n1. 本模組為 **伺服器與客戶端** 兩側皆需安裝的模組，因為它提供了 **多人連線動畫顯示支援**。\n2. 若您跨越水面跳躍時觸發了異常動畫，請在設定檔中調低 **觸發敏感度**（0-1）。隨後重新啟動遊戲即可正常運作。\n\n- 一款輕量級模組，當玩家從遠處掉落至水中或熔岩時，會播放自訂動畫。\n- 當玩家自由落體進入液體源方塊時觸發。\n- 目前仍在開發中，可能會出現錯誤。 \n- 即將支援更多版本。\n- 建議搭配使用 [BetterThirdPerson Mod](https://modrinth.com/mod/better-third-person) 與 [Effective Mod](https://modrinth.com/mod/effective)，以獲得更佳的沉浸感。\n- 自訂動畫透過 [Playeranimator](https://modrinth.com/mod/playeranimator) 與 [PAL](https://modrinth.com/mod/player-animation-library) 實現。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

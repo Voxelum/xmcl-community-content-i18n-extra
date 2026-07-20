@@ -1,6 +1,6 @@
 {
-  "bodyHash": "NEficl6+dmc=",
-  "content": "## 什麼是 Tricked Shaders？\n基於 [Mellow Shader](https://modrinth.com/shader/mellow)\n\nTricked Shaders 在提升 Minecraft 視覺效果的同時，保持了可觀的性能表現（至少對我來說是這樣），並忠於原始的美術風格。它專注於優化既有的元素，而非試圖將 Minecraft 打造成超擬真的體驗。\n\n與原始的 Mellow Shader 相比，我的版本降低了整體亮度，但不會犧牲色彩或清晰度，使遊戲呈現出更深邃、更具氛圍感的外觀。在所有光照情境下，終界、地獄和主世界都感覺更平衡、更豐富且更具沉浸感。所有設定皆可自訂，但移除了設定檔，以免破壞設定。\n\n# 原始說明\n### 特色\n- 廣泛的模組相容性：Distant Horizons、Voxy、Colorwheel 等\n- 多種預設配色方案\n- 豐富且可自訂的霧氣系統\n- 多種風格的雲朵\n- 基於光影貼圖或陰影貼圖的陰影\n- 廣泛的色彩分級（飽和度、曝光度、色彩平衡工具等）\n- 易於調整的顏色\n### 相容性\n- 目前僅測試了 1.17 及以上版本。較早版本可能無法正常運作。\n- 支援 Windows 和 Linux 上的現代 Nvidia、AMD 和 Intel 顯示卡。 Mac 可能無法正常運作。\n- 請使用最新版本的 Iris（任何支援自訂 Uniform 的版本應可使用）。 Optifine 存在一些小問題，但大多情況下也能正常運作。",
+  "bodyHash": "04f74961785ed3c8",
+  "content": "\n\n## 什麼是 Tricked Shaders？\n基於 [Mellow Shader](https://modrinth.com/shader/mellow)\n\nTricked Shaders 在提升《Minecraft》畫面的同時，維持了可觀的效能表現（對我而言），並忠於原版的美學風格。其重點在於優化現有的視覺效果，而非試圖將《Minecraft》打造成超寫實體驗。\n\n與原版 Mellow Shader 不同，我的版本在不犧牲色彩或清晰度的前提下降低了整體亮度，讓遊戲呈現更深邃、更具氛圍感的畫面。無論在任何光照場景下，終界、下界與主世界的感覺都更加平衡、豐富且具沉浸感。所有設定皆支援自訂，但已取消配置檔功能，以避免破壞現有設定。\n\n# 原始說明\n### 特色\n- 廣泛的模組相容性：Distant Horizons、Voxy、Colorwheel 等。\n- 多種預設配色方案\n- 完整且可自訂的霧氣系統\n- 多種雲朵樣式\n- 基於 Lightmap 或 Shadowmap 的陰影系統\n- 全面的色彩調校（包含飽和度、曝光度、色彩平衡工具等）\n- 輕鬆調整的色彩設定\n### 相容性\n- 目前僅針對 1.17 及以上版本進行測試。較早的版本可能支援也可能不支援。\n- Windows 與 Linux 系統均支援現代款的 Nvidia、AMD 與 Intel 顯示卡。Mac 電腦的支援情況則視硬體而定。\n- 請使用最新版的 Iris（任何支援自訂 Uniforms 的版本皆可運作）。OptiFine 可能會有一些小問題，但大部分情況下也能正常運作。\n\n\n（僅當 Mellow 推出重大視覺更新時，此光影包才會隨之更新 :D）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

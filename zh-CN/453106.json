@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eca855a58146328c",
+  "content": "\n\n<p><span style=\"color:#f00\">本模组适用于 Forge。官方 Fabric 版本请见<a href=\"https://www.curseforge.com/minecraft/mc-mods/door-knocker\" rel=\"nofollow\"><span style=\"text-decoration:underline\"><strong>此处</strong></span></a>。请注意，Forge 版本为移植版，因此可能与 Fabric 版本存在差异。</span></p>\n<p>&nbsp;</p>\n<p>本模组为游戏增添了一项功能：<strong>能够敲击门和活板门。</strong></p>\n<p>这能显著提升喜爱角色扮演玩家的沉浸感，与朋友联机时也会让游戏体验更棒！</p>\n<p>&nbsp;</p>\n<p>Door Knocker (Forge) 是 MeowMC/FroyoCS 开发的 Door Knocker Fabric 模组的官方 Forge 移植版。由 Zandercraft 负责开发与维护。</p>\n<p>&nbsp;</p>\n<p><strong>Discord 支持服务器：</strong><a href=\"https://discord.gg/m3EjDuuekg\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/m3EjDuuekg</a></p>\n<p>&nbsp;</p>\n<p><strong>原版模组作者对该移植版的官方认可：</strong></p>\n<p><img src=\"https://i.imgur.com/amw8lVK.png\" alt=\"Door Knocker 原版作者对 Forge 移植版的官方认可。\" width=\"507\" height=\"238\"></p>\n<p>衷心感谢 FroyoCS 开发了原版模组，并认可此移植版为官方版本。</p>\n<p>&nbsp;</p>\n<h4><strong>已知问题：</strong></h4>\n<p>非常欢迎通过 PR 协助修复以下问题。&nbsp;❤</p>\n<p>- 可被无限连点（需添加冷却时间）- 状态：<em>进行中</em><br>- 在破坏门的过程中末尾触发（添加冷却时间或更改事件类型即可修复此问题）<br>- 在破坏门的瞬间触发（或许可以设置仅在按键持续时间短于特定阈值时才激活）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

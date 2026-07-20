@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a8f6c033ddf177b1",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/QalHEv3.png\" alt=\"雙開門模組\"></p>\n<h1>Double Doors Lite</h1>\n<p><strong>開啟一扇門，旁邊的門也會隨之打開——就像真正的雙開門一樣。</strong></p>\n<p>將兩扇門並排放置，開啟其中一扇，鄰近的門就會跟著擺動（關閉時亦然）。兩扇門葉會自動鏡像對稱，因此它們會向<strong>外</strong>打開，就像標準的雙開門，而不是同時朝同一方向擺動。</p>\n<p>無需物品、無合成配方、無設定檔——直接放入遊戲，您的門就能如願以償地運作。</p>\n<h2>功能特色</h2>\n<ul>\n<li><strong>自動雙開門</strong>——開啟或關閉一扇門時，鄰近的門會在同一個遊戲刻（tick）內同步跟隨，完全沒有延遲。</li>\n<li><strong>鏡像擺動</strong>——配對的門會自動翻轉至相反的合頁，使兩扇門葉向兩側打開，還原雙開門的正確開合方式。</li>\n<li><strong>支援任意朝向</strong>——無論門是朝向相同方向還是相反方向，只要並排就會自動配對連接。</li>\n<li><strong>木質與銅門</strong>——支援所有手動開啟的門。鐵門完全交由紅石控制，不受影響。</li>\n<li><strong>僅限單對，避免連鎖反應</strong>——只有該門正左/正右側的鄰近門會回應。不會出現一整排門連帶打開的連鎖情況。</li>\n<li><strong>輕量且為伺服器端運作</strong>——所有邏輯均在伺服器端執行，因此單人遊玩與多人伺服器皆可使用。不會造成效能負擔，也不會讓世界檔案額外記錄任何資料。</li>\n</ul>\n<h2>運作原理</h2>\n<p>當您用手開啟或關閉一扇門時，Double Doors Lite 只會檢查緊鄰其左側和右側的門，並將它們與您剛剛操作的門配對——絕不多管。它不會消耗您的點擊，也不會改變門的正常行為；只是單純補上第二扇門葉。如果鄰近的門與您點擊的門朝向相同，系統會自動翻轉其合頁，讓這對門能對稱開啟。</p>\n<h2>相容性</h2>\n<ul>\n<li><strong>Minecraft：</strong> 26.2 <em>（亦提供 26.1 版本）</em></li>\n<li><strong>載入器：</strong> Fabric 與 NeoForge</li>\n<li>Fabric 版本需要安裝 <strong>Fabric API</strong>。</li>\n</ul>\n<hr>\n<p><em>「Lite」為刻意設計——專注單一功能，並將其做到極致簡潔。</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

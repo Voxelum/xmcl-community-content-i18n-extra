@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9aec3e4827e78f30",
+  "content": "\n\n# SleepWarp（更新版）\n此模組會在你睡覺時加速時間，而不是直接跳至白天。\n當安裝於多人伺服器時，加速速度會根據入睡的玩家數量進行調整。\n\n![睡眠示範](https://i.imgur.com/YzjUttT.gif)\n\n世界也會以相同的速率進行 tick，以模擬時間流逝（可設定）\n\n![熔爐示範](https://i.imgur.com/FOPXyeW.gif)\n\n![生長示範](https://i.imgur.com/MkCx1rb.gif)\n\nSleepWarp 可用於單人遊戲、區域網路（LAN）或專用伺服器環境（客戶端無需安裝）。\n## 更新說明\n這是 [Giggitybyte 開發的 SleepWarp 模組](https://modrinth.com/mod/sleep-warp) 的分支版本，\n已將其更新至最新版 Minecraft，並包含錯誤修復、功能改進以及完整的翻譯支援。\n\n如果您想協助翻譯，歡迎直接在 Crowdin 上開始：[https://crowdin.com/project/patbox-mods](https://crowdin.com/project/patbox-mods)。\n如果您的語言尚未列出，請在那裡或我的 Discord 上留言。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

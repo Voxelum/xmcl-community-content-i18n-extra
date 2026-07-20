@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a5f672f10bfaddb",
+  "content": "Мод для Fabric, который предотвращает использование читов в одиночной игре.\n\n**Помогите перевести этот мод на [Crowdin](https://crowdin.com/project/no-lan-cheating).**\n\n## Загрузка\n\nСкачайте этот мод на [GitHub Releases](https://github.com/NyCodeGHG/no-lan-cheating/releases/latest)\nили [Modrinth](https://modrinth.com/mod/no-lan-cheating).\n\n## Демонстрация\n\n![Демонстрация](https://raw.githubusercontent.com/NyCodeGHG/no-lan-cheating/1.19-pre1/assets/cheats-disabled.gif)\n\n*Кнопка «Разрешить читы» отключается только если вы находитесь в мире с отключенными читами.*\n\n![Демонстрация Креатив с читами](https://raw.githubusercontent.com/NyCodeGHG/no-lan-cheating/1.19-pre1/assets/cheats-enabled.gif)\n\n*Мир в креативе с включенными читами*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

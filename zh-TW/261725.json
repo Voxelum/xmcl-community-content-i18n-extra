@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4NjCYqEQDpU=",
-  "content": "<p>這個客戶端模組會顯示你所懸停物品的放大版本。<br>非常適合正在尋找正確材料的建築師！</p><p>預設情況下，你可以使用 Shift + Z 切換開關，這可以在 Minecraft 的按鍵控制中更改。</p><p>還有一個未綁定的按鍵，你可以按住按鈕來使其顯示。</p><p>你可以在設定中調整縮放倍率，或設定「放大」和「縮小」的快捷鍵。</p><p><img src=\"http://i.imgur.com/O5l9byo.png\" alt=\"物品放大顯示一個放大的物品\" width=\"854\" height=\"480\"></p>",
+  "bodyHash": "89e9d2aba7e835f3",
+  "content": "\n\n<p>這個客戶端模組會將游標懸停的任何物品放大顯示。<br>非常適合正在尋找合適材料的建築玩家！</p><p>預設情況下，您可以透過按下 Shift + Z 來切換開關，該快捷鍵可在 Minecraft 的控制設定中進行修改。</p><p>此外還有未綁定的快捷鍵可供使用，若您希望按住按鈕即可持續顯示放大畫面，可在此進行設定。</p><p>您可以在設定檔中調整縮放程度，或是透過設定「放大」與「縮小」的快捷鍵來變更。</p><p><img src=\"http://i.imgur.com/O5l9byo.png\" alt=\"Item Zoom 顯示放大後的物品\" width=\"854\" height=\"480\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

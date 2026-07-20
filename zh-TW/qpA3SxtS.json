@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0d99b04e2ba97e9",
+  "content": "\n\n# Velocity 光影\n為幾乎所有版本的 Minecraft 打造的高效能分支，源自 Mellow Shaders。\n\n在搭配 Remarkably Optimized 模組包的情況下，於配備 5GB 記憶體的 NVIDIA Quadro P2200 顯示卡上，平均幀率可達約 133 FPS。\n大多數顯示卡都能以 240 FPS 或更高的幀率運行此專案。\n\n應原作者要求，此專案命名為 Velocity 而非 Mellow: Reimagined。因此，若您深入檔案並看到相關引用，原因即在此。我在最後才看到該檔案，非常抱歉！\n\n## 可選效能提升設定\n提升幀率的首要且最佳方法是使用專為此設計的優質模組包。我推薦使用 Remarkably Optimized 以獲得最佳體驗，不過若您喜歡新增 Flashback 等模組，需注意部分模組可能與 Ixeris 不相容。若加入 Flashback，還需要從 RO 中移除 C2ME 模組。\n\n若您使用整合顯示卡運行，請關閉水面反射、將設定檔從「自訂」改為「快速」（預設值）、關閉動態陰影與光照；若希望更謹慎一點，也可關閉陽光光束與泛光效果。\n大多數玩家不會遇到這類問題，因為 Mellow 本身已是高度注重效能的光影，而此分支更在基礎版本之上進一步提升了效能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

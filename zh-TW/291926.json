@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2c97f54a09b9ba18",
+  "content": "<p>__積極開發中__：Minecraft 1.18.2</p>\n<p><strong>網站：<a href=\"/linkout?remoteUrl=https%253a%252f%252fteamcofh.com%252f\" rel=\"nofollow\">Team CoFH</a></strong></p>\n<p><strong>Discord：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscordapp.com%252finvite%252fuRKrnbH\" rel=\"nofollow\">Team CoFH Discord</a></strong></p>\n<hr>\n<p>這是一個非常直觀的模組，它具備以下幾項功能：</p>\n<ul>\n<li>移除夜視效果剩餘時間少於 10 秒時的閃爍特效。</li>\n<li>夜視效果可設定為隨時間逐漸消退。預設值為 1 秒。</li>\n<li>可調整基礎夜視亮度。</li>\n</ul>\n<h3><strong>設定檔</strong></h3>\n<ul>\n<li>_用戶端_：位於 <code>/config</code> 目錄中的 <code>no_nv_flash-client.toml</code> 檔案</li>\n</ul>\n<h3><strong>相容性</strong></h3>\n<p>此模組自 1.16 版本起使用 Mixin（ASM），因此可能會有一些相容性問題，但發生機率極低。</p>\n<p>此模組完全獨立運作，沒有任何相依性。您可以放心地將其加入模組包中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

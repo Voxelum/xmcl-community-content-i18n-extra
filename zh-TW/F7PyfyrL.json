@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e1c017550ec74997",
+  "content": "\n\n# 什麼是 Spyglass: OneClickZoom？\n\n**Spyglass: OneClickZoom** 透過讓您在單次按鍵時循環切換多個變焦等級，來增強原版望遠鏡的功能。\n\n在透過望遠鏡觀察時，按下您設定的按鍵（**預設：左鍵**），即可依序切換您的變焦清單——從廣角視角一直到高倍率放大。\n\n---\n\n# 使用方法\n\n在透過望遠鏡觀察時，按下 **切換變焦** 按鍵（**預設：左鍵**）即可依序切換您已設定的變焦等級。\n\n畫面資訊（HUD）會隨時顯示目前的變焦等級。\n\n變焦等級會依順序循環。例如：\n\n```\n1.0× → 2.0× → 4.0× → 0.5×\n```\n\n---\n\n# 遊戲內指令\n\n> 所有指令皆以 `/spyglassoneclickzoom` 開頭，且**僅限客戶端使用**。\n\n| 指令 | 說明 |\n|----------|-------------|\n| `/spyglassoneclickzoom` | 切換模組的開啟/關閉狀態。 |\n| `/spyglassoneclickzoom on` | 啟用模組。 |\n| `/spyglassoneclickzoom off` | 停用模組。 |\n| `/spyglassoneclickzoom status` | 顯示目前狀態、變焦清單與初始變焦等級。 |\n| `/spyglassoneclickzoom zoom add <數值>` | 新增變焦等級（將儲存至設定檔）。 |\n| `/spyglassoneclickzoom zoom remove <數值>` | 移除變焦等級（支援 Tab 鍵自動完成）。 |\n| `/spyglassoneclickzoom zoom list` | 顯示目前所有的變焦等級。 |\n| `/spyglassoneclickzoom zoom reset` | 從設定檔還原變焦清單。 |\n| `/spyglassoneclickzoom initial <數值>` | 設定初始變焦等級。 |\n| `/spyglassoneclickzoom initial reset` | 將初始變焦等級重置為設定檔的預設值。 |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

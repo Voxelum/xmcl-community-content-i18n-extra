@@ -1,0 +1,6 @@
+{
+  "bodyHash": "57c8352739d0cea0",
+  "content": "\n\n# 扁平光照 💡\n新增一個影片設定，使光照更為扁平。此功能透過移除方塊側面與頂面的陰影差異來達成，讓遊戲的光照呈現更柔和或扁平的外觀。\n\n效果類似於 Optifine 內部着色器中的「舊版光照」設定。\n\n## 比較 🎨\n![使用模組前後的村落比較。](https://cdn.modrinth.com/data/PXsE1tUn/images/90165a0532b4ddb5f585a108c707c666a80b33fc.gif)\n\n## 使用方法 👤\n安裝模組後，請前往遊戲的影片設定，並將 `Cardinal Lighting` 設為關閉，以使光照變得更為扁平。若保持開啟，光照將與原版遊戲相同。\n![顯示搭配 Sodium 時的設定選單截圖](https://cdn.modrinth.com/data/PXsE1tUn/images/9c83e44a4c15c21d1daa8c9f9c5199d7b6572e79.png)\n \n## 依賴與相容性 🔌\n本模組無需任何依賴項目。它與 Fabric API、Sodium 和 Iris 相容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4254070be0e9c80c",
+  "content": "当前支持的活动版本为：**1.16.5**、**1.18.2**、**1.19.x**、**1.20.1**、**1.21.1**、**26.1.x**\n\n**[Fabric 版本]**\n\n这是一个客户端附加组件，用于在 HUD 上显示当前季节。目前支持的季节模组包括：\n\n- **Serene Seasons** (Forge/Neoforge/Fabric)\n- **Fabric Seasons** (Fabric)\n- **TerraFirmaCraft** (Forge 1.18.2/1.20.1/1.21.1)\n- **Ecliptic Seasons** (Forge/Neoforge)\n- **Homeostatic Seasons** (Fabric/Neoforge)\n- **ProtoManly's Weather** (Neoforge)\n\n同时可选支持以下小地图模组：\n\n- **Xaero's Minimap**\n- **FTB Chunks**\n- **JourneyMap**\n  - (1.21+) 新增对 JourneyMap 新自定义 InfoSlots 的支持（需要 JourneyMap 1.21-6.0.0-beta.25+ 版本）。\n    - 默认情况下，“Season”（季节）将作为 InfoSlot 选项添加到 JourneyMap 的小地图设置中。\n    - 如果您已经使用了所有 InfoSlots：\n      1. 进入 JourneyMap 附加组件设置（在 JourneyMap 设置菜单顶部的“Addon Settings”按钮）。\n      2. 启用“Add an additional InfoSlot?”（添加额外的 InfoSlot?）选项。\n      3. 选择将其添加到顶部集还是底部集。\n- **MapAtlases**\n- **Voxelmap** (仅限 1.16.5)\n\n如果检测到上述任一模组，季节信息将与其他信息一起显示在小地图下方。\n\n### 其他链接：\n* [禁用 SeasonHUD Curios/Trinkets/Accessories 槽位] 数据包\n\n[Fabric 版本]: https://modrinth.com/mod/seasonhud-fabric\n[禁用 SeasonHUD Curios/Trinkets/Accessories 槽位]: https://modrinth.com/datapack/disable-seasonhud-slot",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

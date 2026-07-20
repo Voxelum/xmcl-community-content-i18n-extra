@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd6a3b0e178bf6dc",
+  "content": "\n\n**停止將死亡作為恢復飢餓的手段。**\n\n在原版 Minecraft 中，死亡是恢復飢餓條的捷徑。Persistent Hunger 修正了這項機制。現在，你的飢餓值與飽食度將在死亡後保留，迫使你在重生後仍需妥善管理食物資源。\n\n**主要功能：**\n\n- 可設定重生時的最低飢餓值，確保玩家重生後的飢餓值不會低於指定數值\n- 可設定重生時的最高飢餓值，確保玩家重生後的飢餓值不會高於指定數值\n- 可設定重生時的最低飽食度，確保玩家重生後的飽食度不會低於指定數值\n- 可設定重生時的最高飽食度，確保玩家重生後的飽食度不會高於指定數值\n\n[基於 squeek502 的 Hunger Persistence 開發。](https://legacy.curseforge.com/minecraft/mc-mods/hunger-persistence)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

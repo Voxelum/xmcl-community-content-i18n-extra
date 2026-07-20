@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e777af61757295db",
+  "content": "\n\n# Пульсар\n\n[![Лицензия MIT](https://raw.githubusercontent.com/zenfyrdev/mini-badges/v1/licenses/mit/mit.svg)](https://github.com/constellation-mc/pulsar/blob/1.20.1-fabric/LICENSE.txt)\n[![Следить в Bluesky](https://raw.githubusercontent.com/zenfyrdev/mini-badges/v1/social/bluesky/follow.svg)](https://bsky.app/profile/did:plc:udgxgv72u6qheiwgwfahqylp)\n\n**Этот мод не добавляет никакого контента сам по себе!**\n\nPulsar — это монолитная мод-библиотека/утилита, используемая в [Andromeda](https://modrinth.com/mod/andromeda). Он является преемником Dark Matter, разработанным для перехода на более простую в поддержке систему и mojmap.\n\nВ отличие от Dark Matter, Pulsar предназначен для отдельной загрузки.\n\nPulsar предоставляет классы утилит, более гибкий API для групп предметов, инструменты для Mixin, FakeClientLevel, API частиц для графического интерфейса и многое другое!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

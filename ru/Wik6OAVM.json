@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7cebca4e0b6dddbc",
+  "content": "\n\n### Попробуйте пройти Minecraft, оставаясь связанными цепью!\nСвязанные игроки соединены эластичным поводком, подобно привязанному мобу.\n\nКоманды:\n\n`/chain remove <player1> <player2>` — убирает цепь/поводок между двумя игроками\n\n`/chain add <player1> <player2>` — добавляет цепь/поводок между двумя игроками\n\n`/gamerule chainLength _` — устанавливает длину цепи между игроками (по умолчанию 3.5)\n\n`/gamerule chainRespawnCooldownSeconds _` — устанавливает интервал возрождения в секундах (по умолчанию 0)\n\n`/gamerule chainRespawnPlayersToChain _` — определяет, должны ли игроки возрождаться на месте цепи, частью которой они являются, вместо своей точки появления. Если false, все связанные игроки будут телепортированы к точке появления возрождающегося игрока. (по умолчанию false)\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/1pxbT2QqtK0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

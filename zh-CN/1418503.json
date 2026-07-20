@@ -1,0 +1,6 @@
+{
+  "bodyHash": "76442f7df65c3bb6",
+  "content": "\n\n<h1>稠密空气</h1>\n<p>Fuzss 的 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fthin-air\" rel=\"nofollow\">Thin Air</a> 在 Neoforge 1.21.1 上的重写版本</p>\n<h2>关于</h2>\n<p>Thick Air 引入了硬核的空气机制，具体表现为玩家离开海平面（Y64）越远，氧气流失越快。如果不携带空气来源，无论是探索洞穴还是攀登高山都会变得困难得多。此外，下界现在也更加宛如炼狱。</p>\n<h2>特性</h2>\n<p>在 Y=0 以下、Y=128 以上以及下界中，你会逐渐流失空气。\n末地中完全没有空气，请携带充足的补给！\n你可以使用自由呼吸药水（原名为水下呼吸药水）、呼吸器或气囊来防止过度流失空气，但部分道具在某些环境中可能无法生效。</p>\n<p>灵魂火、灵魂火把和灵魂营火可以用来制造小范围的安全空气区域。灵魂火瓶也能恢复你的空气值。</p>\n<p>安全灯笼可以用来检测你周围空气的质量。</p>\n<h2>兼容性</h2>\n<p>本模组兼容 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcurios%252fversions\" rel=\"nofollow\">Curios API</a> 和 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate\" rel=\"nofollow\">Create</a>：\nCurios API 允许你将呼吸器佩戴在头部槽位。\nCreate 允许你将潜水服作为空气来源使用。</p>\n<h2>配置</h2>\n<p>配置文件位于</p>\n<pre><code>./minecraft/config\n</code></pre>\n<p>理想情况下，你也可以使用 Mod Menu 在游戏内直接修改配置。</p>\n<p>免责声明：本重写版本由 Leclowndu93150 作为委托项目制作</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

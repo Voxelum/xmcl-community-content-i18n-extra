@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1834947204ee685",
+  "content": "\n\n![模組標題](https://cdn.modrinth.com/data/cached_images/bc33f0ebe4f7b612c26f0096414d8870c6c8d5de_0.webp)\n\n![使用此模組製作的不同位置和尺寸的雕像](https://cdn.modrinth.com/data/cached_images/db208587f509c6da540530e0d420f78c26b1e35d.png)\n\n## 📘 關於此模組\n\n**Cobblemon Stone Statues 為 Cobblemon 加入了雕像方塊，它會讀取你整合包中的所有寶可夢，包含自訂寶可夢（Fakemon）與各種替代形態（如 Mega 進化、神奧地區形態等）。接著它會套用這些模型的石質紋理，並允許你為該寶可夢選擇檔案中的任何動作動畫，使其擺出對應的姿勢。同時你也可以選擇雕像的尺寸，提供 0.5x、1x、2x 與 3x 選項。無論寶可夢或雕像大小為何，這些雕像僅擁有 1 個方塊的碰撞箱。這是因為若其他玩家沒有相同的模型檔案，他們看到的就會是自己的模型作為雕像。因此建議保留 1 格碰撞箱，或是推薦使用障礙物方塊（Barrier）建立「偽裝」碰撞箱，以防止玩家穿過雕像。**\n\n**製作雕像需要「雕像鑿子」（Statue Chisel），可使用木板與鐵錠輕鬆合成。生存模式下只需 5 個石頭即可開始放置雕像。此外還支援將雕像旋轉 45 度，讓你能夠放置斜向對齊的雕像。**\n\n**此模組為伺服器與客戶端雙方必備。**\n\n## 💡 依賴項目：\n\n**遊玩此模組只需要安裝 Cobblemon！**\n\n## 📦 錯誤回報與建議\n\n\n**若發現任何錯誤，請在我們的「Legendary Monuments」Discord 伺服器中於適當的頻道進行回報。**\n\n**若有其他建議也歡迎在 Discord 中分享。**\n\n## 💛 特別感謝\n\n**感謝 Beibeihuli_ 設計雕像鑿子的圖檔！**\n\n## 加入我們的 Discord\n\n[![加入我們的 Discord](https://cdn.modrinth.com/data/cached_images/19abf8c53cd3ce83bd257cc7a239299168ab237f.png)](https://discord.gg/7QpyTMrfxm)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

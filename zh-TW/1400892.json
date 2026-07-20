@@ -1,0 +1,6 @@
+{
+  "bodyHash": "edfe2abe7ea31b12",
+  "content": "<h2>&nbsp;</h2>\n<h2><img src=\"https://media.forgecdn.net/attachments/description/null/description_1932c07f-a301-42eb-8828-d887bcdb9ad9.png\" alt=\"\" width=\"802\" height=\"451\"></h2>\n<h2>概述</h2>\n<p>当你进入一个区块时，系统会随机选择一个方块，并将该区块内的所有方块替换为该方块。</p>\n<p>如果你希望使用此数据包制作视频或其他内容，请随意使用！但请务必注明我的名字（Ambiguous Chameleon），并在描述和/或评论中提供此数据包的链接。谢谢！</p>\n<p>&nbsp;</p>\n<h2>作弊指令</h2>\n<p><strong>将你所在的区块更改为你主手所持的方块</strong></p>\n<pre><code>/trigger ac.random_chunk.set_block\n</code></pre>\n<p><strong>打开黑名单菜单，以切换允许生成区块的方块</strong></p>\n<pre><code>/trigger ac.random_chunk.blacklist\n</code></pre>\n<p><strong>清除黑名单</strong></p>\n<pre><code>/trigger ac.random_chunk.blacklist.clear\n</code></pre>\n<p><strong>打开菜单，一次性将大量方块加入黑名单</strong></p>\n<pre><code>/trigger ac.random_chunk.blacklist.presets\n</code></pre>\n<p><strong>重新掷骰，使你当前站立的区块使用一个新的随机方块</strong></p>\n<pre><code>/trigger ac.random_chunk.reroll\n</code></pre>\n<p><strong>卸载此数据包</strong></p>\n<pre><code>/function ac_cheat:uninstall</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

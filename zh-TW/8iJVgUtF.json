@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2344ee60a702e0f3",
+  "content": "\n\n# 粗鐵信標基座 [PurpurPack]\n簡單的數據包，允許將粗鐵塊用作信標基座材料。同時允許將粗鐵用作信標啟動材料\n\n> ### Purpur 套件\n> \n> Purpur 套件是那些曾被提議加入 Purpur、或符合 Purpur 主題的功能，但經過評估後認為以數據包的形式呈現更為合適！這些功能可在原版 Minecraft 中使用，您無需安裝 Purpur 即可使用\n\n#### 使用模組版本時：\n它們在功能上與數據包相同，但會套用至所有在此模組啟用狀態下建立或啟用的世界。如果您不希望此效果套用至所有世界，請改用數據包\n\n**Forge**：\n<br>無需任何前置模組，只需將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

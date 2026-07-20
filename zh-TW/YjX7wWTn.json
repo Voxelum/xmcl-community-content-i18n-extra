@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c33973ce394f604",
+  "content": "\n\n# 低延遲\n\n[中文](https://github.com/WinExp/Minecraft-Low-Latency/blob/master/README_CN.md)\n\n本模組參考了 NVIDIA Reflex 的技術，旨在於 GPU 滿載而 CPU 未滿載時降低輸入延遲。\n\n當 GPU 處於滿載狀態而 CPU 閒置時，渲染佇列會產生積壓，進而增加輸入延遲。\n\n本模組會依據歷史 CPU 與 GPU 幀時間來估算輸入延遲，並在處理輸入事件前進行短暫等待，以確保渲染佇列不會積壓，從而達到降低輸入延遲的效果。\n\n**本專案目前處於早期開發階段，可能會導致幀率下降或延遲增加。您可以在設定選單中調整「等待時間偏移」以緩解此問題。**\n\n您可以在設定選單中啟用或停用低延遲功能。\n\n#### 設定選單\n\n![設定選單](https://github.com/WinExp/Minecraft-Low-Latency/blob/HEAD/docs/images/config_menu.png?raw=true)\n\n#### F3 除錯畫面\n\n![F3 除錯畫面](https://github.com/WinExp/Minecraft-Low-Latency/blob/HEAD/docs/images/debug_screen.png?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

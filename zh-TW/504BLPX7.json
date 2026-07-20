@@ -1,6 +1,6 @@
 {
-  "bodyHash": "sGODs5jSzKo=",
-  "content": "## 讓雕紋書架能夠像普通書架一樣為附魔台提供能量\n\n### 使用模組版本時的安裝資訊：\n這些功能與資料包相同，但會套用至所有啟用此模組的世界。若您不希望套用至所有世界，請改用資料包\n\n**Forge**：\n<br>無需任何依賴，只需將模組放入 mods 資料夾\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur 資料包\nPurpur 資料包是被建議加入 Purpur 的功能，或符合 Purpur 主題，但被認為更適合以資料包形式呈現的功能！\n<br>這些資料包的功能等同於 Purpur 中的單一設定選項。可隨時新增或移除，且不會對伺服器造成損害。\n<br>這些資料包可在原版 Minecraft 中使用，無需執行 Purpur 即可使用。",
+  "bodyHash": "7b6efbc59cfe4529",
+  "content": "\n\n## 讓雕紋書架像普通書架一樣為附魔台提供動力\n\n### 使用模組版本時的安裝資訊：\n它們的功能與資料包相同，但會套用於所有建立或在使用此模組時啟用的世界。如果您不希望套用於所有世界，請改用資料包。\n\n**Forge**：\n<br>無需任何依賴，只需將模組放入 mods 資料夾即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur 套件\nPurpur 套件是那些曾被建議加入 Purpur、或符合 Purpur 主題的特色功能，但最終決定以資料包的形式呈現會更為合適！ \n<br>這些資料包的作用與在 Purpur 中設定單一選項完全相同。您可以隨時新增或移除它們，而不會對伺服器造成損害。\n<br>這些功能支援原版環境，您不需要運行 Purpur 即可使用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

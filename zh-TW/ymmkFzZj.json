@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d6042bcecca89ac4",
+  "content": "\n\n## **停用環境與遠距離霧效以提升能見度**\n| 客戶端             | 支援狀態 |\n|--------------------|----------|\n| 原版 Minecraft     |✅僅需套用資源包 |\n| Sodium             |💡使用 [Sodium Extra](https://modrinth.com/mod/sodium-extra) 模組來控制霧效 |\n\n| 維度     | 移除霧效 |\n|----------|----------|\n| 主世界   | ✅        |\n| 下界     | ✅        |\n| 末地     | ✅        |\n\n![overworld](https://cdn.modrinth.com/data/cached_images/fec8f92bdd0e4bd26a31ccb0fdfa8a8bb00af0d9.png)\n![nether](https://cdn.modrinth.com/data/cached_images/d72355d0a75d2abefeb7a387f69a9aab2b1172b8.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

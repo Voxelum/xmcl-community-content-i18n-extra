@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Cy/dP/DILLY=",
-  "content": "**<span style=\"color:#e03e2d\">需要以 Tinkers' Construct 作為依賴。</span>**\n\n此為 Tinkers' Construct 的附加模組，重新加入白金與鎢的相容性，因為它們在懷舊更新（v3.11.0.148）中從基礎模組被移除。透過此模組，以白金和鎢製成的 Tinkers' 部件被重新加入，並相較於先前版本略有強化。\n\n此模組僅在 v3.11.0.148 及以上版本中運作，因為白金和鎢在較早版本中仍可使用。仍需要額外的模組來添加鎢和/或白金，以獲得相應的材料。\n\n![Tinkers](https://media.forgecdn.net/attachments/description/1416902/description_e5a3f92e-3a1a-46c6-b1a5-25ecd4c18f98.png)\n\n感謝 Tinkers' Construct 提供白金與鎢的原始實作與材質。此模組是 GitHub 上未發佈的 [Tungsten and Platinum](https://github.com/SlimeKnights/TinkersConstruct/releases/tag/v3.11.0.148) lowcode 模組修復分支的維護版本。\n\n[ReversTeam Discord 伺服器](https://discord.com/invite/TJKZgr6UDg)\n\n \n\n歡迎在任何模組包中使用。",
+  "bodyHash": "d8b2abfea74d4db2",
+  "content": "\n\n**<span style=\"color:#e03e2d\">需安裝 Tinkers' Construct 作為依賴模組。</span>**\n\n本模組為 Tinkers' Construct 的擴充模組，旨在重新加入對白金與鎢的支援，因為這兩種金屬已在 Throwback 更新（v3.11.0.148）中從主模組內移除。透過此模組，由白金與鎪製作的匠作工具零件已重新加入，且其性能較先前版本略有提升。\n\n本模組僅適用於 v3.11.0.148 及以上版本，因為在此版本之前，白金與鎪仍可於主模組中使用。您仍需額外安裝模組來新增鎪與／或白金，才能取得這些對應材料。\n\n![Tinkers](https://media.forgecdn.net/attachments/description/1416902/description_e5a3f92e-3a1a-46c6-b1a5-25ecd4c18f98.png)\n\n感謝 Tinkers' Construct 提供白金與鎪的原始實作與貼圖。本模組為 GitHub 上未公開的 [Tungsten and Platinum](https://github.com/SlimeKnights/TinkersConstruct/releases/tag/v3.11.0.148) lowcode 模組修復版的持續維護分支。\n\n[ReversTeam Discord 伺服器](https://discord.com/invite/TJKZgr6UDg)\n\n \n\n歡迎在任何整合包中自由使用。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

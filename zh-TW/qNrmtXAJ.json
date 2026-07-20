@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f3f4206f76e30afb",
+  "content": "\n\n## 這個資源包有什麼用？\n一個非常簡單的資源包，透過核心著色器**移除霧氣**。它也能移除部分模組新增的霧氣效果。\n（包含失明與黑暗效果的霧氣、地平線霧氣、水下霧氣以及洞穴霧氣）\n僅適用於支援修改核心著色器的 Minecraft 版本。\n\n## 如何使用？\n這是一個簡單的資源包，只需將 ZIP 檔案複製到 **.minecraft/resourcepacks/** 路徑即可。\n\n## 遊戲內：\n**失明效果霧氣：**\n![BlindnessEffectFog](https://cdn.modrinth.com/data/cached_images/e09140961502a15193aae4f1dff427fefcee5f2b.jpeg)\n**黑暗效果霧氣：**\n![DarknessEffectFog](https://cdn.modrinth.com/data/cached_images/7b1510a16b78dea8918e4db01156993c39fdf518.jpeg)\n**水下霧氣：**\n![UnderwaterFog](https://cdn.modrinth.com/data/cached_images/bbd19a45f4151491b1e6bf973dc1792ad20a1968.jpeg)\n***\n**1.1 版本變更**\n\n已修正的問題：\n- 發光紋理渲染\n- 閃電渲染\n- 附魔閃光渲染\n-  ...\n\n注意：\n**此資源包與會修改原版著色器的模組（如 Sodium）不相容。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

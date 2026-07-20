@@ -1,0 +1,6 @@
+{
+  "bodyHash": "49265a4f4ac9ff9f",
+  "content": "\n\n# No Moon Network Fix\n\n此模組為 [no_moon.jar](https://modrinth.com/mod/no_moon.jar) 的通用效能改善補丁。原本此模組旨在修正多人遊戲效能問題，但許多影響多人遊戲效能的瓶頸也會波及單人遊戲體驗——因此，即使你獨自遊玩，TPS 也會獲得提升。\n\n此模組必須安裝於伺服器端（或是託管多人遊戲的玩家主機端）。\n\n> 專用伺服器（例如 Aternos 或其他沒有任何玩家在電腦上託管遊戲的平台）注意事項：我曾看過數起 *內部伺服器錯誤* 的通報。在版本 `0.0.4` 中，我已針對其中一個問題新增了修補程式。這應該能讓玩家連線至專用伺服器，但在長時間遊玩或觸發特定事件時，穩定性可能仍會有所不同。\n\n![驚人的改善（延遲前：37 秒，後：196 毫秒）](https://cdn.modrinth.com/data/cached_images/633995b868b9c38428b8a57770a81d9662cb9236.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

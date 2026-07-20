@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e422d66498ae1c76",
+  "content": "\n\n<h2>建築藍圖</h2>\n<p>本模組已特別最佳化，讓您可以放心預覽大型建築。</p>\n<h3>功能特色</h3>\n<ol>\n<li><strong>將結構儲存為藍圖：</strong>儲存結構及其包含的所有實體（生物/NPC）。</li>\n<li><strong>生成結構：</strong>立即將藍圖轉換為世界中的實體建築。</li>\n<li><strong>瀏覽已儲存的結構：</strong>輕鬆查看和管理您的藍圖庫。</li>\n<li><strong>光源控制器：</strong>控制半徑 10 格內模組專用的光源方塊。</li>\n</ol>\n<h3>注意事項</h3>\n<ol>\n<li><strong>無合成配方：</strong>本模組的物品沒有合成配方。它最初是為整合包創作者設計，用於向玩家分發預先搭建的結構。</li>\n<li><strong>檔案相容性：</strong>結構檔案會儲存於 <code>schematics</code> 資料夾中（與原版 Minecraft 結構方塊使用的目錄相同）。因此，使用原版結構方塊建立的檔案可與本模組相容。</li>\n</ol>\n<h3>特別感謝</h3>\n<p><a href=\"https://github.com/Brian-Wuest/MC-Prefab\" rel=\"nofollow\">Prefab</a><br>\n<a href=\"https://github.com/Creators-of-Create/Create\" rel=\"nofollow\">Create</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

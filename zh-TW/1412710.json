@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2wk+w/wbWD4=",
-  "content": "<p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">Aquarius Libs 是 aquariusplayz 部分模組所必需的模組開發庫。</span></p><p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">它本身不會改變遊戲內容，但內建了多項功能與變數，使模組更新變得更加容易。</span></p><p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">同時能讓模組創作者在開發時使用更少的程式碼。</span></p><p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">此外，它還能促進使用此庫的模組之間更順暢的溝通。</span></p><p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">並讓這些模組的錯誤修復過程變得更為簡單。</span></p>",
+  "bodyHash": "c5d190192dc67ef9",
+  "content": "\n\n<p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">Aquarius Libs 是 aquariusplayz 旗下部分模組不可或缺的模組開發函式庫。</span></p>\n<p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">它本身不會改變遊戲，但已實作多種函式與變數，能讓更新模組更加輕鬆</span></p>\n<p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">並讓模組開發者在建立模組時使用更少的程式碼。</span></p>\n<p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">此外，它還能讓使用此函式庫的模組之間溝通更為便捷</span></p>\n<p><span style=\"font-size:14px;font-family:arial, helvetica, sans-serif\">並大幅簡化後續的除錯與修復工作。</span></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "98ae46695ae11b69",
+  "content": "\n\n# FastServerPings\n\n一款客户端模组，**重写了 Minecraft 服务器 Ping 流程**，专为在大型服务器列表中保持良好的扩展性而设计，让刷新体验更加流畅。\n\n服务器 Ping 请求会在整个列表中统一调度，而非严格按顺序从上到下处理，结果采用 **SWR（stale-while-revalidate）** 策略进行管理。\n\n---\n\n## 对比\n\n请查阅 [Github README](https://github.com/vansencool/FastServerPings?tab=readme-ov-file#comparison) 获取对比 GIF 或画廊。\n\n---\n\n## 兼容性说明\n\n目前明确保持兼容的模组为 **ViaFabricPlus**。\n\n以下模组与 **FastServerPings** 同时使用时无法提供额外收益，甚至可能引发问题：\n- **Server Pinger Fixer**（**FastServerPings** 能提供显著更快的结果）\n- **Fast IP Ping**（其功能已被 **FastServerPings** 实现）\n\n---\n\n## 整合包与再分发\n\n你可以将此模组用于整合包中。\n未经许可以请勿将该模组合并至其他客户端或模组中。\n\n如需这样做，请先联系我（Discord 用户名：`vansencool`）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

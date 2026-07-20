@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8f776cbe3da70fbf",
+  "content": "\n\n這是將《Minecraft》的 <a href=\"https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT/\">Hbm's Nuclear Tech Mod</a> 移植至 Minecraft 1.21.1 的版本！\n<br>正如其名，此模組引入了先進科技、核武器、危險環境與輻射危害等內容！\n\n## WARNING ️ ：\n此模組尚未準備好用於生存模式！！可能會出現錯誤、崩潰及其他不可預期的狀況。請僅將其作為娛樂用途，勿用於你珍視的世界中！每次更新後，建議重新建立你的世界。如有任何問題，請透過 <a href=\"https://github.com/ohiomannnn/HBMsNTM-NEO-EDITION/issues\">GitHub Issues</a> 頁面進行回報。\n## 安裝方式\nHbm's Nuclear Tech Mod 沒有任何特殊依賴項，因此安裝步驟如下：\n- 下載 .jar 檔案\n- 在 Minecraft 1.21.1 上安裝 NeoForge 21.1.228+\n- 首次啟動遊戲（或手動建立 mods 資料夾）\n- 前往 `.minecraft` 資料夾並將 jar 檔案放入 `mods` 資料夾中\n## 已知問題\n### Iris 光影\nIris 提供了光影支援，但不知為何會導致許多渲染相關的內容出現問題。\n## 鳴謝\n- Hbm's Nuclear Tech Mod 由 <a href=\"https://github.com/HbmMods\">The Bobcat</a> 製作。\n- 感謝 NeoForge 團隊開發 NeoForge，以及 Mojang 為 Minecraft 所做的貢獻。\n## 相關連結\n- `Curseforge：` https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-ne\n- `Discord：` 目前尚無 Discord 伺服器，未來將設立。\n## 授權條款\n本軟體採用 GNU 寬通用公眾授權條款第三版（LGPLv3）授權。簡而言之：本軟體為自由軟體，你可自由執行、建立修改版本、散布本軟體及修改後的版本，前提是修改後的軟體也必須採用自由軟體授權（根據 LGPL 的「較寬鬆」部分規定，連結至本軟體時可能不需要遵守此限制）。這回合你贏了，Stallman。完整授權條款可於 GitHub 儲存庫中的 LICENSE 與 LICENSE.LESSER 檔案內查看。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

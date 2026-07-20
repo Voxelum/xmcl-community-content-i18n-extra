@@ -1,0 +1,6 @@
+{
+  "bodyHash": "81bdc99aedc6cac0",
+  "content": "<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">部分创造模式标签页（例如原版“搜索物品”标签页）自带搜索栏。打开标签页时，搜索栏会始终处于聚焦状态，因此大多数键盘输入会被识别为字符并填入搜索栏，这对习惯使用 E 键关闭标签页的玩家（包括作者 &gt;_&lt;）来说非常令人困扰。</span></p>\n<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">&nbsp;</span></p>\n<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">此模组使搜索栏在打开标签页时不再自动聚焦，并且在玩家点击搜索栏外部时失去焦点。</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family:tahoma, arial, helvetica, sans-serif;font-size:18px\">本模组的 1.12.2 版本需要安装 <a href=\"https://www.curseforge.com/minecraft/mc-mods/mixin-booter\" target=\"_blank\" rel=\"nofollow\"><span style=\"color:#f60\"><strong>MixinBooter</strong></span></a>。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "19034d11e15ccf64",
+  "content": "\n\n# MahjongCraft\nFabric-мод для Minecraft, позволяющий играть в японский (Риичи) маджонг прямо в игре, поддерживает многопользовательский режим.\n\n## Зависимости\n<div>\n    <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"200\"/></a>\n    <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin\"><img src=\"https://i.imgur.com/c1DH9VL.png\" width=\"229\"/></a>\n</div>\n\n- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n- [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)\n- [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)\n- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) (Необязательно)\n\n## Поддержка\nПожалуйста, сообщайте о любых проблемах через [трекер задач](https://github.com/doublemoon1119/MahjongCraft/issues) на GitHub.\n\nЯ из Тайваня. Помимо английского, вы также можете сообщать о [проблемах](https://github.com/doublemoon1119/MahjongCraft/issues) на китайском языке.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

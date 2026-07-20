@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c6ed047c7c1a235",
+  "content": "\n\n![https://i.imgur.com/MFvNBg0.png](https://i.imgur.com/MFvNBg0.png)\nBlock'oMorph - 是一款 Minecraft 模组，**让你能够变形为方块**，玩法类似于迷你游戏“方块猎手”。借助它，你可以变成各种复杂程度的方块，从最简单的石头到带有文字的告示牌，甚至通往末地的传送门。\n\n你可以通过两种方式完成变形：**按下 Y 键**打开**变形界面**，在创造模式标签页中找到所需方块，随后配置其预设的 NBT 标签并选择对应的方块状态；如果你需要通过命令方块或控制台进行变形，则**输入命令 `/blockmorph <blockstate> (<player(s)>)`**。\n\n若要变回_玩家_形态，你需要变形为_空气_。\n\n### 功能\n除了基础的模型、纹理和碰撞箱更换变形之外，你还可以获得以下功能：\n- 完整碰撞检测：你将能够踩踏具有复杂 VoxelShape 的玩家方块而不会坠落或卡住，因为即使该玩家方块拥有 1x1x1 的碰撞箱，它也会呈现方块的完整形状。\n ![collisions](https://i.imgur.com/463IFl9.png)\n  \n- 方块破坏系统：玩家方块可以像普通方块一样被破坏，具备所有特效与机制。玩家方块会生成粒子效果、出现裂纹，并且会考虑你的游戏模式、状态效果和工具。\n  ![block breaking](https://i.imgur.com/Bm0lw72.png)\n  \n- 方块实体渲染：你将能够看到玩家变成的所有方块实体，并且可以通过方块 NBT 对其进行自定义。\n  ![block entity rendering](https://i.imgur.com/6snplEL.png)\n\n\n### 游戏内示例\n  ![morphed player](https://i.imgur.com/2VneX16.png)\n\n## 配置\n如果你不喜欢模组的某些功能，或者觉得缺少了什么，我们建议你查看配置文件：\n[关于模组配置的最新信息](https://github.com/151chit/BlockoMorph/wiki/Config)\n\n例如，你可以：\n* 禁止变为基岩和其他无法破坏的方块\n* 禁用与方块交互的能力\n* 启用允许方块白名单",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

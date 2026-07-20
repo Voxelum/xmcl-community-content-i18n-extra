@@ -1,6 +1,6 @@
 {
-  "bodyHash": "DXmJ2coZXzw=",
-  "content": "<img alt=\"Shut Up GL Error\" src=\"https://github.com/JamCoreModding/shut-up-gl-error/blob/1.20.1/banner.png?raw=true\"><pre><code>########## ОШИБКА GL ##########\n@ До рендеринга\n65539: Недопустимый ключ -1</code></pre>\n\nСодержание связано с модами, ресурс-паками, модпаками или шейдер-паками для Minecraft или другими связанными с Minecraft ресурсами. Пожалуйста, сохраняйте стиль изложения приятным для геймеров.",
+  "bodyHash": "16dca2a8b0e84589",
+  "content": "\n\n<img alt=\"Shut Up GL Error\" src=\"https://github.com/JamCoreModding/shut-up-gl-error/blob/1.20.1/banner.png?raw=true\">\n\nОтключает сообщения об ошибках GL, включая раздражающие и постоянные записи в журнал о недопустимых кодах клавиш:\n<pre><code>########## GL ERROR ##########\n@ Pre render\n65539: Invalid key -1</code></pre>\nМод можно настроить на полное отключение сообщений об ошибках (по умолчанию), запись каждого кода ошибки только один раз или постоянную запись всех ошибок в журнал.",
   "contentType": "text/html",
   "type": "curseforge"
 }

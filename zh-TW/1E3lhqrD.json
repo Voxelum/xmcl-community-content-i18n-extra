@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd276cd28bdbc0b3",
+  "content": "\n\n# Duper 的自動行走：基礎版\n\n## 重要提醒：由於非基礎版現在已無需任何依賴，我認為沒有必要繼續開發這個版本了 ;)\n\n這是一個更簡單的模組，新增了一個快捷鍵，讓玩家不需要按 **W** 鍵就能自動前進！\n目前支援所有 1.21.x 版本，並同時提供 Fabric 與 NeoForge 版本！\n\n**警告：在伺服器上使用此模組時，請確保沒有違反任何規則！自動行走有時會被視為不公平優勢**\n\n<p align=\"center\">\n  <a href=\"https://modrinth.com/mod/autowalker\">\n    <img src=\"https://cdn.modrinth.com/data/cached_images/00cfa81766b0c5ed71a94b4bbc884b33727698df.png\" alt=\"已選取：一般\" width=\"50%\">\n  </a>\n</p>\n\n## 相容性\n\n- Fabric 版本支援 **ModMenu**，允許使用者自訂自動行走圖示的位置，以及是否顯示該圖示。\n- 與 InvMove 的相容性目前尚不穩定。\n\n## 聯絡資訊\n問題回報 - [https://github.com/DuperKnight/DuperAutoWalk-Barebones/issues](https://github.com/DuperKnight/DuperAutoWalk-Barebones/issues)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

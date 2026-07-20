@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c0396f7aefd5d7f3",
+  "content": "Mellow 是一个轻量级的客户端侧 Fabric 模组，它能在加载时平滑地降低渲染距离，并在加入世界后逐渐增加。通过从 2 个区块开始，随时间逐步提升至 6 个区块，Mellow 减少了初始的卡顿和延迟，同时保持探索的流畅与响应灵敏。\n\n它旨在减少 QuestCraft 在客户端加载进入服务器时的初始内存和性能需求。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

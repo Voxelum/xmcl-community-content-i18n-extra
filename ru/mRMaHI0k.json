@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b6a7cb122095b45e",
+  "content": "\n\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/EKCaTp5a8ZU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nAIMobs — это мод, который позволяет общаться с мобами и другими сущностями в Minecraft, создавая промпты и используя API OpenAI.\n\n### Использование\nПосле установки мода получите ключ API OpenAI [здесь](https://beta.openai.com/account/api-keys) и установите его с помощью команды `/aimobs setkey <key>`.\n\nТеперь вы сможете **общаться с мобами, кликая по ним с зажатой клавишей Shift**!\n\n### Команды\n- `/aimobs` - Просмотр статуса конфигурации\n- `/aimobs help` - Просмотр справки по командам\n- `/aimobs enable/disable` - Включить/отключить мод\n- `/aimobs setkey <key>` - Установить ключ API OpenAI\n- `/aimobs setmodel <model>` - Установить модель ИИ\n- `/aimobs settemp <temperature>` - Установить температуру модели\n\nВ качестве иконки используется эмодзи **🧠** из [Twemoji](https://twemoji.twitter.com/) (CC BY 4.0)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "503fb251ead787b4",
+  "content": "\n\n# [Bare Bones] x [LambdaBetterGrass]\n\n這是為 [Bare Bones] 資源包打造的擴充套件，旨在與 [LambdaBetterGrass] 進行更完善的整合！\n\n![pack.png](https://cdn.modrinth.com/data/7x43ZN3Z/images/aa245ac3f1d7c5bd1ec92b197fb2c3c64e2323e2.png)\n\n## 功能特色\n\n- 將所有「更好草皮」功能與自訂紋理整合，並採用 Bare Bones 風格。\n- 積雪、長苔等樣式的柵欄現在也提供 Bare Bones 風格！\n\n![snow_fences](https://cdn.modrinth.com/data/7x43ZN3Z/images/b0f5066a64481bb10f4ab48118a803d15b7462b9.png)\n\n## 安裝設定\n\n![Setup](https://cdn.modrinth.com/data/7x43ZN3Z/images/0626ccb9cb861440b34e9fc89bead68a07ec53ca.png)\n\n為了讓此資源包正常運作，請同時啟用 `LambdaBetterGrass - Default` 與 [Bare Bones] 資源包，且它們的優先順序須低於此資源包。\n\n此外還需要安裝 [LambdaBetterGrass] 模組才能運作。\n\n[LambdaBetterGrass]: https://modrinth.com/mod/lambdabettergrass \"LambdaBetterGrass Modrinth 頁面\"\n[Bare Bones]: https://modrinth.com/resourcepack/bare-bones \"Bare Bones Modrinth 頁面\"",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

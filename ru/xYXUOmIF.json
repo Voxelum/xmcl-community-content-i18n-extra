@@ -1,6 +1,6 @@
 {
-  "bodyHash": "pcZSNoJy4Sw=",
-  "content": "Этот датапак добавляет в Minecraft новую декоративную блок — Pioneer Opus Quad!\n\nОн не требует никаких ресурс-паков! Полностью совместим с мультиплеером и использует как ванильные функции, так и пользовательские текстуры — например, из кастомных голов и отображений предметов.\n\nЧтобы установить его, просто введите одну из следующих команд в зависимости от того, куда вы хотите, чтобы DJ-контроллер был направлен:\n\n/function opus_quad:create_facing_east  \n/function opus_quad:create_facing_south  \n/function opus_quad:create_facing_west  \n/function opus_quad:create_facing_north  \n\nЧтобы удалить блок, выполните команду /kill @e[​item_display,distance=0..5], стоя на DJ-контроллере, который нужно удалить.",
+  "bodyHash": "885ba46b6fcf0287",
+  "content": "Этот датапак добавляет в Minecraft декоративный блок Pioneer Opus Quad!\n\nОн не требует ресурс-пака, полностью совместим с мультиплеером и использует стандартные функции игры вместе с кастомными текстурами на основе кастомных голов и отображений предметов.\n\nЧтобы установить его, просто выполните соответствующую команду в зависимости от направления, в которое должен смотреть диджейский контроллер:\n\n/function opus_quad:create_facing_east\n/function opus_quad:create_facing_south\n/function opus_quad:create_facing_west\n/function opus_quad:create_facing_north\n\nЧтобы удалить его, встаньте на тот диджейский контроллер, который хотите удалить, и выполните команду: /kill @e[item_display,distance=0..5]",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "zIf7ekjpzvE=",
-  "content": "Создайте шаблон обработки AE2 из схемы Create.\n\n![Пример](https://raw.githubusercontent.com/Myitian/SchematicannonProcessingPattern/1.20.1/.github/example.png)\n\n> ### Примечание\n>\n> В версиях AE2 ранее 12.9.0 шаблоны обработки допускали только 18 слотов ввода; в более поздних версиях допускается до 81 слота ввода. Это означает, что в одном чертеже может быть не более 18 или 81 материала; иначе AE2 не сможет распознать шаблон обработки.\n\n## Зависимости\n\n- **Minecraft:** 1.18.2/1.19.2/1.20.1/1.21.1\n- **Мод-загрузчик:** Fabric/Forge/NeoForge\n- **Create:** 0.5.1+\n- **Applied Energistics 2:** любая",
+  "bodyHash": "925904e937c8c434",
+  "content": "\n\nГенерирует шаблон обработки AE2 на основе Schematicannon из мода Create.\n\n![Example](https://raw.githubusercontent.com/Myitian/SchematicannonProcessingPattern/1.20.1/.github/example.png)\n\n> ### Примечание\n>\n> В версиях AE2 до 12.9.0 шаблоны обработки поддерживали только 18 слотов ввода; в более новых версиях допускается максимум 81 слот ввода. Это означает, что чертеж может содержать максимум 18 или 81 материала; в противном случае AE2 не сможет распознать шаблон обработки.\n\n## Зависимости\n\n- **Minecraft:** 1.18.2/1.19.2/1.20.1/1.21.1\n- **Загрузчик модов:** Fabric/Forge/NeoForge\n- **Create:** 0.5.1+\n- **Applied Energistics 2:** любая",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

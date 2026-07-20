@@ -1,6 +1,6 @@
 {
-  "bodyHash": "50wr/EN7Yjg=",
-  "content": "# Powah!（重构版）\n\n这是Powah!的1.18+移植版本，原版由owmii为Forge 1.14-1.16开发。本模组采用LGPL许可证，由于owmii自2021年起失联，我决定接手维护。支持1.18-1.20版本的Forge和Fabric，从1.21版本起将转为NeoForge独占。\n\n欢迎加入[AE2 Discord服务器](https://discord.gg/Zd6t9ka7ne)，在`#powah`频道参与讨论！\n\n**需要Cloth Config和GuideME!支持**\n\n为了生成能量，Powah!新增了：\n- **熔炉发电机**\n- **岩浆发电机**  \n- **太阳能板**  \n- **热能发电机**  \n- 以及标志性的**反应堆多方块结构**！\n![世界中的反应堆](https://i.imgur.com/KHLcxmS.png)\n![反应堆操作界面](https://i.imgur.com/eAgDSet.png)\n\nPowah!还包含经典的**能量导管**和**能量单元**，同时引入了独特机制：\n- 可升级的**末影网络**  \n- **玩家能量传输器**  \n- **充能合成系统**  \n- 以及各种实用道具如**带电雪球**等！\n\n详细内容说明请查阅**指南手册**。",
+  "bodyHash": "6b522f6aa2b8758e",
+  "content": "\n\n# Powah!（重构版）\n这是 Powah! 的 1.18+ 移植版本，原版由 owmii 为 Forge 1.14-1.16 制作。本项目采用 LGPL 许可证，由于 owmii 自 2021 年起便不再活跃，我决定接手该模组。支持 Forge 和 Fabric，涵盖 1.18-1.20 版本；从 1.21 起仅支持 NeoForge。\n\n欢迎加入 [AE2 Discord 服务器](https://discord.gg/Zd6t9ka7ne) 的 `#powah` 频道进行讨论！\n\n**需要 Cloth Config 和 GuideME！**\n\n为了产生能量，Powah! 添加了**火力发电机**、**熔岩发电机**、**太阳能板**、**温差发电机**，以及当然的**反应堆多方块结构**！\n![reactor in world](https://i.imgur.com/KHLcxmS.png)\n![reactor GUI](https://i.imgur.com/eAgDSet.png)\n\nPowah! 还加入了经典的**能量线缆**和**能量电池**，同时也包含一些酷炫且独特的机制，例如可升级的**末影网络**、**玩家传输器**、**充能合成系统**，以及大量实用的小工具和物品，比如**蓄能雪球**！\n\n如需了解本模组内容的详细说明，请查阅**手册**。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

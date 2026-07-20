@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YUGpWkx4r7c=",
-  "content": "新增適用於 Fabric/Forge 的解構工作台。\n\n使用此模組錯誤製作的物品可以拆解並重複使用。\n\n經驗值預設不會被消耗。\n\n\n# 合成配方\n- 解構工作台\n將工作台用鑽石圍繞排列即可合成。\n![table](https://media.forgecdn.net/attachments/392/783/recipe_uncrafting_table.png)\n## 圖形介面\n![gui](https://media.forgecdn.net/attachments/504/859/2022-10-06-225338.png)\n\n（此模組可根據物品無限增加，因此若不想失去平衡，請自行調節。）\n<br /> <br />\n <br />\n設定檔位置：(遊戲目錄)/config/uncraftingtable76.json",
+  "bodyHash": "191df780246b784a",
+  "content": "\n\n為 Fabric/Forge 新增拆解台。\n\n使用此模組錯誤合成的物品可進行拆解並重複利用。\n\n預設情況下不消耗經驗值。\n\n\n# 配方\n- 拆解台\n將工作台四周用鑽石包圍即可合成。\n![table](https://media.forgecdn.net/attachments/392/783/recipe_uncrafting_table.png)\n## 介面\n![gui](https://media.forgecdn.net/attachments/504/859/2022-10-06-225338.png)\n\n（此模組的消耗可能隨物品無限增加，若不想讓資源平衡遭到破壞，請自行調整設定。）\n<br /> <br />\n <br />\n設定檔：(GameDirectory)/config/uncraftingtable76.json",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

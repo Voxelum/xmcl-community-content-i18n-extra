@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6612c98768237627",
+  "content": "\n\n![armsrace logo](https://cdn.modrinth.com/data/cached_images/94c7c54ee549e6310e8aac8e630beed3b855d217.png)\n\n# 🔫 军备竞赛（小游戏模组）\n**⚠️ 测试版** *该模组目前处于早期开发阶段。核心机制已实现，但与其他模组的完整兼容性仍在测试中。非常欢迎提交错误报告与反馈！*\n\n欢迎来到 **军备竞赛** —— 一款完全可自定义、对服务端友好的 NeoForge 小游戏模组！ \n\n将经典的“枪战模式”体验带入你的 Minecraft 服务器。玩家通过战斗不断升级武器，率先使用列表中的最终武器完成击杀的玩家即为获胜者！\n\n本模组为独立核心模块。它基于原版机制运行，这意味着理论上可以将任何物品作为武器发放（包括原版剑、弓等）。 \n\n### ✨ 当前功能\n*   **自定义竞技场：** 通过简单的 JSON 配置文件创建多个竞技场。\n*   **队伍支持：** 可设置自由混战或团队死斗模式。\n*   **自定义武器与护甲阶梯：** 使用物品 ID 定义专属的进阶列表。可为每个等级配置自动穿戴护甲及额外物品（如弹药或盾牌）！\n*   **动态界面：** 内置简洁的计分板，用于追踪击杀数、大厅状态和准备倒计时。\n*   **安全环境：** 可配置方块破坏保护与出生点管理。\n\n### 📜 命令（设置权限需 OP / 权限等级 2）\n*   `/armsrace create <template_id>` - 根据配置模板创建大厅。\n*   `/armsrace join` - 加入可用大厅。\n*   `/armsrace leave` - 离开当前大厅。\n*   `/armsrace start` - 强制开始游戏（跳过准备阶段）。\n*   `/armsrace stop` - 停止游戏并删除大厅。\n*   `/armsrace setteam <player> <team_id>` - 将玩家移动到指定队伍。\n*   `/armsrace reload` - 无需重启服务器即可重新加载 JSON 配置！\n\n### 🛠️ 配置指南\n首次运行模组时，它将在 `config/armsrace_arenas.json` 路径生成一份高级默认配置文件。 \n\n该配置文件允许深度自定义武器、队伍出生点、护甲进阶路线，甚至特定物品栏槽位！\n配置设置教程已完整撰写于 [wiki](https://github.com/aleksti21/ArmsRace/wiki/1.-Home)\n\n#### [捐赠支持 ❤️](https://pay.cloudtips.ru/p/dfeb976c)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

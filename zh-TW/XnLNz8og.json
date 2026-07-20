@@ -1,0 +1,6 @@
+{
+  "bodyHash": "342acbc58c6044ea",
+  "content": "# macu 庫\n\n這是一個為我的模組設計的庫，例如跨平台物品與方塊註冊，以及添加支持者福利，如不同的裝飾。\n\n有關如何使用 API 的範例，請參考 GitHub 儲存庫中的測試模組。\n\n---\n\n## 開發者\n\n將此模組新增至您的 `build.gradle(.kts)`\n\n```gradle\n// 在您的 repositories 區塊中新增 Macuguita maven 倉庫\nrepositories {\n  maven {\n    name = \"macuguita maven\"\n    url = \"https://maven.macuguita.com/releases/\"\n  }\n}\n\n// 在您的環境中將此模組新增為依賴項\ndependencies {\n  // 在 Minecraft 26.x 之前，請使用 \"modImplementation\"\n  implementation(\"com.macuguita:macu_lib-<loader>:${project.macu_lib_version}\")\n}\n```\n\n---\n\n## 支援\n\n如果您遇到任何問題或有建議，歡迎：\n\n- 在 GitHub 上開啟問題。\n\n- 在 Discord 上發送私信給我 @macuguita\n\n- 在我網站上連結的任何平台上向我發送訊息：[macuguita.com](https://macuguita.com/)\n\n- 您可以自由地在該平台上的任何模組包中使用此模組\n\n---\n\n## 鳴謝\n\n- 開發者：macuguita\n\n<sup>如果您是支持者，此模組會連線至 persista.macuguita.com 以載入由相依模組儲存的裝飾或其他資料。您可以透過聯絡 gdpr@macuguita.com 請求刪除資料。</sup>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

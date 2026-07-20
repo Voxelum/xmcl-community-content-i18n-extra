@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb9b592aed1feaa8",
+  "content": "# AdachiRei-nui\n\n｜[English](https://github.com/yh2237/AdachiRei-nui/blob/main/docs/README.md)｜[Japanese](https://github.com/yh2237/AdachiRei-nui/blob/main/docs/README_jp.md)｜\n\n\n![demo](https://cdn.modrinth.com/data/cached_images/f0c4e8c70f6f7c5d165e7c3a501cefe6a7a0a6fb.png)\n\n使用以下命令将其佩戴在你的头上：\n\n```\n/item replace entity @p armor.head with adachirei-nui:adachi-nui\n# 或者\n/item replace entity @p armor.head with adachirei-nui:adachi-nui_new\n# 或者\n/item replace entity @p armor.head with adachirei-nui:adachi-nui_vocaloid\n```\n\n![demo2](https://cdn.modrinth.com/data/cached_images/a28a39bfb5ad54cb0211dc7350a48c596116062c_0.webp)\n\n---\n\n### 关于标语消息\n\n标语消息通过 API 从 [Adachi 数据库](https://adachidb.net) 随机获取，该数据库归档了 [@adachirei0](https://x.com/adachirei0) 几乎所有的推文。\n\n截至 2026/04/22，数据库中共有 38786 条推文。\n\n如果客户端无法连接到服务器，则将使用默认的 Minecraft 标语消息。\n\n---\n\n### 推荐关注\n\n- [@MechanicalGirl0](https://x.com/MechanicalGirl0)\n- [@missile_39](https://x.com/missile_39)\n- [@adachirei0](https://x.com/adachirei0)\n- [@Molmax0710](https://x.com/Molmax0710)\n\n---\n\n### 许可证\n\n**[足立レイ](https://mechanicalgirl.jp/adachi-rei/)是[合同会社机械少女](https://mechanicalgirl.jp/)的人形类人机器人！**\n\n- [License (MIT)](https://github.com/yh2237/AdachiRei-nui/blob/main/LICENSE)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

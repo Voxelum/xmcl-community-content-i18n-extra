@@ -1,0 +1,6 @@
+{
+  "bodyHash": "af00cd7669a3e8ca",
+  "content": "# 命令方块转告示牌\n将你的命令方块转化为可点击的告示牌！\n\n## ⚙️ 服务端功能！\n如果你仅在你的服务器或局域网中安装此数据包/模组，其他玩家无需安装即可使用！\n\n## 📖 使用说明：\n- 在你想要转换的命令方块侧面放置一个告示牌，最多支持4个命令方块。（它们必须彼此相对）。\n- 手持蜂蜜块并右键点击告示牌进行涂蜡。（蜡会被消耗掉）\n- 完成！你的告示牌已就绪。\n\n系统仅在告示牌位于命令方块上时才会响应，否则将无任何效果，且对告示牌涂蜡的操作将按常规方式执行。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/tcRHDGpwh7A\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n![设置示例](https://cdn.modrinth.com/data/cached_images/e5aa8a607241a01a423da587914317a896dd129c.png)\n\n## ⤵️ 安装方法：\n### 数据包：\n下载最新版本，并将数据包的 `.zip` 文件放入 Minecraft 世界的数据包（datapacks）文件夹中。\n### 模组：\n下载最新版本，并将模组的 `.jar` 文件放入 Minecraft 游戏的模组（mods）文件夹中。\n\n## ✍️ 反馈、问题与建议\n我随时倾听！如果你有任何问题、建议，或者只是遇到了漏洞，欢迎加入我的 Discord 服务器，在“模组和数据包”板块寻求帮助。[点击加入服务器](https://discord.gg/kwzQWS4)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

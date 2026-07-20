@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f4c9b6c7c9312d4",
+  "content": "\n\nElementals 次級彎術\nFabric 1.20.1 附加模組，適用於 Elementals 1.48.6。\n\n本模組依賴 Elementals 模組，並註冊了新的類 Elementals 彎術樹，包含能力與升級：\n\n燃燒系：燃燒光束、震爆衝擊、爆發踏步\n熔岩系：熔岩流動、熔岩尖刺、熔岩鎧甲、熔岩手里劍\n植物系：藤蔓鞭打、根須纏繞、植物治療\n化身系：化身循環、前世記憶、進階化身狀態\n升級樹包含類 Elementals 風格的名稱、描述、使用說明與 GUI 圖標。額外的 assets/elementals 紋理是刻意安排的：Elementals 的升級畫面會從 elementals 命名空間載入其圖標資源。\n\n指令\n需要等級 2 的許可權。\n\n \n/subbending grant <player> <Combustion|Lava|Sand|Plant|Spirit|Avatar>\n/subbending avatar set <player>\n/subbending avatar clear\n/subbending avatar state <player>\n/subbending avatar set 會將玩家標記為當前化身，授予化身元素以及四個基礎元素。若化身在非化身狀態下死亡，循環會記錄該段生命，並在可能時選擇另一名線上玩家。若化身在化身狀態中死亡，循環將中斷且不會選擇新化身。\n\n必要模組\n請將以下模組與本模組一起安裝至 Minecraft 的 mods 資料夾：\n\nFabric API\nElementals 1.48.6\nPlayer Animator\nLodestone\n備註\n本模組使用 Elementals 公開的 Element、Upgrade、Ability、Bender 及玩家資料 API。能力運作於伺服器端，並使用原版特效、粒子、速度、傷害判定及 Elementals 升級檢查。\n\n化身狀態由伺服器端管理，具備 10 分鐘冷卻時間、生命值剩一格時觸發、瞬間完全恢復、基於過往化身的吸收效果、前世元素與升級還原、電子風格的元素環，以及狀態結束時的快照還原。\n\n每 3 分鐘，每位玩家會獲得一個 Elementals 彎術等級。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

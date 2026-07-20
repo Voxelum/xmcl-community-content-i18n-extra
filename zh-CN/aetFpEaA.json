@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4862b36e81753af0",
+  "content": "\n\n# 食物效果提示（Forge）\n[![Modrinth](https://img.shields.io/modrinth/dt/food-effect-tooltips-forge?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/mod/food-effect-tooltips-forge)\n[![](http://cf.way2muchnoise.eu/full_776426_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/food-effect-tooltips-forge)\n[![Minecraft Versions](https://cf.way2muchnoise.eu/versions/776426.svg)](https://www.curseforge.com/minecraft/mc-mods/food-effect-tooltips-forge)\n\n[1.21.11+](https://modrinth.com/mod/foodeffecttooltips)\n\n这是 [Food Effect Tooltips](https://modrinth.com/mod/foodeffecttooltips) 的非官方 Forge 版本，采用 LGPLv3 许可证发布，请支持原作者的原始作品！\n\n为食用后能提供状态效果的食物添加悬浮提示\n\n相当多的食物会以状态效果的形式为玩家提供增益。然而，这些效果在游戏中从未被列出。这十分烦人，尤其是在模组环境中，玩家往往不熟悉所有可用的食物选项及其效果。\n\n使用 Food Effect Tooltips，所有效果都会显示在物品的悬浮提示中！\n- 包含仅以 % 概率生效的效果\n- 显示效果对应的属性变化\n- 完全基于客户端运行\n- 与其他显示食物信息的模组兼容，例如 [AppleSkin](https://modrinth.com/mod/appleskin)\n\n![ ](https://cdn.modrinth.com/data/GGfyJWnG/images/f22e5fa3013611fb5588662696aa929c1a96b93b.png)\n\n![ ](https://cdn.modrinth.com/data/GGfyJWnG/images/531ff1e28c210beab319cdb192685e1552c878f2.png)\n\n![ ](https://cdn.modrinth.com/data/GGfyJWnG/images/d61df6d59442ba3dece1711e6e423d62a826e3bc.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

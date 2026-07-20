@@ -1,0 +1,6 @@
+{
+  "bodyHash": "807c8f1d7c37b670",
+  "content": "\n\nEnchanted's Sodium Options 會將 Sodium 的影片設定畫面替換為更貼近原版 Minecraft 風格的介面。\n\n![採用原版風格的 Sodium 影片設定畫面](https://cdn.modrinth.com/data/bd7qKEEC/images/eccf49262c379b071373b6acbf55499c1f57f8a2.png)\n\n![Enchanted's Sodium Options 設定頁籤](https://cdn.modrinth.com/data/bd7qKEEC/images/88f7e76836fe6a4f66e2eee285f935f409a9f3f6.png)\n\n## 功能特色\n- 支援所有使用 Sodium 配置系統的模組\n- 可停用影片設定畫面中的色彩顯示\n- 提供 Alt + P 快捷鍵，可在需要時開啟 Sodium 預設的影片設定畫面\n\n## 支援版本\n- 我將持續更新此模組以相容 Sodium 最新版本\n- 由於 `0.8` 之前的 Sodium 版本缺乏完善的配置 API，本模組將不會移植回舊版 Minecraft 或 Sodium\n- 本模組不支援 Sodium 的任何分支版本\n\n## 授權條款\n<p xmlns:cc=\"http://creativecommons.org/ns#\" >Enchanted's Sodium Options 由 <a rel=\"cc:attributionURL dct:creator\" property=\"cc:attributionName\" href=\"https://enchanted.games\">ioblackshaw (又名 Enchanted_Games)</a> 開發，並採用 <a href=\"http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1\" target=\"_blank\" rel=\"license noopener noreferrer\" style=\"display:inline-block;\">CC BY-NC 4.0</a> 授權。</p> \n只要遵守授權條款，影音創作者即可將包含本作品的影片進行商業變現。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

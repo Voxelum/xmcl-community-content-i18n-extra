@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8c727340cad28be",
+  "content": "\n\n<h2><strong>BadMobs（Fabric 1.21.1）- 社群移植版</strong></h2>\n<p>此模組提供了一種簡單的方式來<strong>停用 Minecraft 中任何方式的生物生成</strong>。這是針對 Fabric 1.21.1 推出的<strong>原版 BadMobs 模組之社群移植版</strong>。</p>\n<p>安裝完成後，您可以修改自動生成的設定檔來停用生成行為。</p>\n<h3>使用說明</h3>\n<ol>\n<li>下載此模組與 Fabric API，並將其安裝至您的 <code>mods</code> 資料夾中。</li>\n<li>首次啟動遊戲或伺服器。載入完成後關閉遊戲，或輸入指令 <code>/badmobs set</code>。</li>\n<li>在您的 <code>config</code> 資料夾中找到 <code>badmobs.json</code> 設定檔。</li>\n<li>使用文字編輯器開啟該設定檔。每個已註冊的生物都已為您預先建立對應選項。</li>\n<li>依您的需求修改檔案並儲存，接著重新啟動遊戲或輸入指令 <code>/badmobs reload</code>。</li>\n</ol>\n<h2>關於原版模組</h2>\n<p>BadMobs 最初由原作者為 Forge 平台開發。</p>\n<p>您可以在這裡找到原版的 Forge 版本：</p>\n<p>👉 原版模組（Forge）：<a href=\"https://www.curseforge.com/minecraft/mc-mods/bad-mobs\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/bad-mobs</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

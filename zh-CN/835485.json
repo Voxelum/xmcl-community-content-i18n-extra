@@ -1,0 +1,6 @@
+{
+  "bodyHash": "43e822f17f80b67c",
+  "content": "\n\n<p>与 <a href=\"https://www.curseforge.com/minecraft/mc-mods/per-aspera\" rel=\"nofollow\">Per Aspera</a> 模组类似，本模组旨在作为 <a href=\"https://www.curseforge.com/minecraft/modpacks/create-astral\" rel=\"nofollow\">Create: Astral</a> 整合包的一部分。</p>\n<p>未来可能会添加更多功能（例如更多种类的葡萄酒），但目前它仅包含一系列小型修复/小幅改进，这些正是该整合包开发者认为缺失或必要的内容。</p>\n<p>当前新增内容/功能/修复：</p>\n<ul>\n<li>修复了烹饪锅界面无法打开的问题</li>\n<li>为 Vinery 配方添加了 REI 集成（未来更新至 1.19+ 时将移除，因为 Vinery 在新版本中已自带 REI 兼容）</li>\n<li>修复了通过 Create 模组的图纸加农炮建造 Vinery 方块时导致游戏崩溃的问题</li>\n</ul>\n<p>由于本模组旨在作为整合包的一部分，其使用的 Minecraft 版本将与整合包保持一致。目前这意味着基于 Fabric 1.18.2。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

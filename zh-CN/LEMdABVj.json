@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ce0aaa1bb853f40",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/CGjeO2v4Oss\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n重力模组 v2.0 - 异常更新\n\n重力模组为 Minecraft 1.20.1 带来了真实的物理效果。玩家放置或受到特殊工具击打的方块现在将遵循重力规则——破坏支撑后，上方的所有方块都会轰然坠落。\n\n🔥 v2.0 新增：异常生成器 🔥\n这是模组最大的新增内容。它是一个机器，能在 15 格半径内完全禁用重力。\n\n使用方法：放置它，打开自定义界面并开启电源。范围内的任何无支撑方块将悬浮在半空而不会掉落。非常适合建造天空基地或浮岛。你还可以切换粒子边框以查看精确的作用范围。\n\n注意：如果你关闭生成器或将其破坏，重力会立即恢复。所有原本悬浮的方块将在同一瞬间坍塌。\n\n工具与物品：\n\n混沌锤：敲击方块以刷新其物理状态。被敲击的方块及其上方连接的所有方块都会坠落。\n\n重力棒：将单个方块固定在空中使其不掉落。建造屋顶时的必备工具。\n\n悬浮法杖：将目标方块发射到高空。\n\n重力手雷：产生动能冲击波，将附近的方块炸飞。\n\n超级黏液块：作为下落方块的缓冲弹跳垫。\n\n战利品磁铁：在广阔半径内吸附所有掉落的物品。\n\n安全帽：佩戴此物品，避免被自己坍塌的建筑压死。\n\n重力苹果：赋予你短暂的悬浮效果。\n\n生存模式适配：所有内容均可制作，并为常规流程进行了平衡。基础工具需要前期材料（铜、粘土、羽毛），而异常生成器则需要金锭和煤炭。\n\n需要安装 Minecraft Forge 1.20.1。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/U3-5WzSsTyQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

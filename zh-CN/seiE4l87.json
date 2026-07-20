@@ -1,0 +1,6 @@
+{
+  "bodyHash": "486331458703ee66",
+  "content": "\n\nGoety 客户端修复\n修复 Minecraft 1.20.1 (Forge) 中由 Goety 模组引起的客户端内存泄漏问题。\n\n问题\n当玩家死亡/重生或切换维度时，旧的 LocalPlayer 和 ClientLevel 实例无法被垃圾回收。每次死亡都会导致内存持续增加，最终引发游戏卡顿与崩溃。\n\n工作原理\n每个游戏刻追踪 Minecraft.player 引用。当实例发生变更（重生、切换维度）时，模组将执行以下操作：\n\n使旧的玩家与层级能力（capabilities）失效，从而切断引用链\n清除指向旧玩家的 Mob.target 和 LivingEntity.lastHurtByMob 引用\n通过反射机制清除 Goety/GoetyAwaken 客户端事件处理器中的静态 Entity/Player/Level 字段\n每 30 秒执行一次定期清理作为安全兜底\n前置需求\nForge 47+ (Minecraft 1.20.1)\n仅限客户端",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

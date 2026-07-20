@@ -1,0 +1,6 @@
+{
+  "bodyHash": "880754fb65d05734",
+  "content": "\n\n## Elite x Quality Guns 現已提供 ZIP 檔案版本\n\n這是「Elite X Warfare Project」的續作，為遊戲增添了超高品質且沉浸感十足的武器。其中部分靈感來自《決勝時刻：殭屍模式》，也有部分是我個人希望加入的內容。不過，這個版本主要是為了讓在大型整合包中遊玩的玩家能夠順利使用，因為原版模組在某些大型整合包環境下可能會出現不兼容或無法運作的問題。因此，這正是針對該問題的解決方案。\n\n\n# 前置需求 \n- Forge、Timeless 與 Classic 版本：ZERO TACZ (1.18.2 - 1.20.1)\n- Fabric 版本：Tacz: Rebaricated (1.20.1 - 1.21.1)\n- NeoForge 版本：Tacz: 非官方移植版\n\n\n- 安裝方法 \n只需在你的 Minecraft 資料夾中建立一個名為「tacz」的資料夾，並將 ZIP 檔案放入其中。請務必確保你的 mods 資料夾內已正確安裝基礎版 Tacz 模組。\n\n若在包含 100 個以上模組的大型整合包中遊玩以獲得最佳體驗，此版本將是您的最佳選擇。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

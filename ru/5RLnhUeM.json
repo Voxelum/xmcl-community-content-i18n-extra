@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ptaE0bao3uI=",
-  "content": "Небольшой мод-патч для восстановления совместимости между **Valkyrien Skies 2.3.0beta-12** и **TerraFirmaCraft (TFC)**, когда исходный миксин, совместимый с VS TFC, больше не соответствует обновлённым сигнатурам методов TFC.\n\nДополнительная информация на GitHub: https://github.com/DXENDBucket/Valkrien-Skies-TFC-Compat-Fix",
+  "bodyHash": "8d640bc65a3057c8",
+  "content": "\n\nНебольшой мод-патч, восстанавливающий совместимость между **Valkyrien Skies 2.3.0beta-12** и **TerraFirmaCraft (TFC)**, если оригинальный миксин VS TFC-compat больше не соответствует обновлённым сигнатурам методов TFC.\n\nПодробнее на GitHub: https://github.com/DXENDBucket/Valkrien-Skies-TFC-Compat-Fix",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

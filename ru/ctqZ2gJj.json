@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cbc436f9b6556df2",
+  "content": "\n\nСвязующий мод для [Pufferfish's Skills](https://modrinth.com/mod/skills) и [Farmers'delight](https://modrinth.com/mod/farmers-delight).\nПредназначен для использования с моим модом [Farmer's Attributes](https://modrinth.com/mod/farmers_attributes).\n\nВыдаёт опыт Pufferfish при приготовлении пищи в печах, на разделочных досках, в котлах, на сковородах, а также при ручном крафте.\n\n### пример использования:\n(в файле experience.json вашей категории навыков Pufferfish)\n```\n{\n\t\"experience_per_level\": {\n\t\t\"type\": \"expression\",\n\t\t\"data\": {\n\t\t\t\"expression\": \"max(100, level ^ (level / 25) + 200 * level)\"\n\t\t}\n\t},\n\t\"sources\": [\n\t\t{\n\t\t\t\"type\": \"puffish_skills:cook_food\",\n\t\t\t\"data\": {\n\t\t\t\t\"variables\": {\n\t\t\t\t\t\"food_value\": {\n\t\t\t\t\t\t\"operations\": [\n\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\t\"type\": \"get_food_value\"\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t]\n\t\t\t\t\t}\n\t\t\t\t},\n\t\t\t\t\"experience\": [\n\t\t\t\t\t{\n\t\t\t\t\t\t\"expression\": \"food_value * 10\"\n\t\t\t\t\t}\n\t\t\t\t]\n\t\t\t}\n\t\t}\n\t]\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

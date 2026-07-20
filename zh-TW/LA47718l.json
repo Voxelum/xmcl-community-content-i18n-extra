@@ -1,0 +1,6 @@
+{
+  "bodyHash": "119f91ccb4b44447",
+  "content": "\n\n![_](https://cdn.modrinth.com/data/cached_images/a0295c4ca781b3c1e8033d8f768e4b999dd7cf96_0.webp)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/zCSc6hHu3dc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n# WorldEdit 地形擴充套件\n為 WorldEdit 新增了一個強大的指令，讓你能在任何 WorldEdit 選區內生成基於雜訊的逼真地形。\n使用方法\n//terrain <noise> <height> <scale> <octaves> <roughness> <block>\n雜訊類型\n\n- perlin — 自然、平滑的山丘\n- simplex — 類似 perlin，略為平滑\n- ridge — 尖銳的山脊\n- cellular — 裂開／岩石狀的 Voronoi 外觀\n- flat — 無變化的平坦填充\n\n### 參數\n\n- height — 方塊高度的最大變化範圍（1-256）\n- scale — 特徵寬度，數值越高＝越平滑／寬廣（0.1-500）\n- octaves — 八度音階數，數值越高＝越複雜（1-8）\n- roughness — 各八度音階的崎嶇程度（0.1-1.0）\n- block — 任何 WorldEdit 方塊（例如 grass_block、stone）\n \n#### 範例\n//terrain perlin 40 30 4 0.5 grass_block\n需求\n\n**WorldEdit（必要）**\n**Fabric API（必要）**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

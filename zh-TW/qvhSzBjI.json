@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c59c9b40961252b7",
+  "content": "\n\n# Legacy Lighting\n\n一款輕量級模組，旨在模擬舊版主機版的光照效果。\n\n## 指令\n**本模組採用基於指令的設定系統來調整 gamma 值。**\n\n* 設定 gamma 值 - `/legacygamma set <數值> (0.0 - 1.0)`\n  - 將數值設為 `0` 可停用 gamma 效果。\n  - 此設定不會影響已修改的 lightmap。\n* 重新載入模組設定 - `/legacygamma reload`\n\n## 致謝\n\n核心光照邏輯與數學運算來自 [Wilyicaro](https://modrinth.com/user/Wilyicaro) 製作的 [Legacy4J](https://modrinth.com/mod/legacy4j) 模組。\n\n模組作者：Meelee35",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

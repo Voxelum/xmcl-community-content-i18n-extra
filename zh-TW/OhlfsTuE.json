@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2c5784de15a61a7",
+  "content": "\n\n![清潔提示框](https://i.imgur.com/LKzHZmj.png)\n\n**清潔提示框** 是一個簡單的模組，使用簡潔直觀的圖標來取代原有的屬性顯示方式。\n\n本模組為純客戶端模組。\n\n![範例圖片](https://cdn.modrinth.com/data/cached_images/c3284d7ed59a5e8f7c0c14de0761ea543be91c6c.png)\n\n## 功能\n\n- 顯示物品的耐久度（預設關閉）\n- 比較裝備中與游標懸停物品的屬性\n- 锋利附魔會增加攻擊傷害（修復 [MC-271840](https://bugs.mojang.com/browse/MC/issues/MC-271840)）\n- 顯示工具的挖掘速度（預設關閉）\n- 貼圖與渲染／運算邏輯完全由資源包驅動\n\n## 相容性\n清潔提示框應能與大多數影響介面的模組相容，包括：\n\n- [BetterCombat](https://modrinth.com/project/5sy6g3kz) - 在屬性旁顯示攻擊範圍。\n- [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)\n- [Equipment Compare](https://modrinth.com/project/CYSUVOdj)\n- [Tooltip Overhaul](https://modrinth.com/project/vRFcG5n6)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

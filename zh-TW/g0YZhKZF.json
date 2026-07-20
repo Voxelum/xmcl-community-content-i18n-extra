@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fcebf0c6df42d523",
+  "content": "\n\n# ✅ 我自己開發的網頁專案！\n試試看我的全新自製專案 **Checkraft**：專為《我的世界》玩家打造的清單中心！連結：[查看清單](https://checkraft.com/)\n\n**Decorative Core** 是一款輕量級的工具模組，為 **Decorative Storage** 等與儲存相關的裝飾模組提供共用程式碼與渲染邏輯。\n\n它包含了自訂儲存方塊與方塊實體所需的基本類別，例如物品數量處理、同步覆蓋層以及資料持久化。\n\n此模組本身不會新增任何方塊或物品——它僅作為 **Decorative 系列**其他模組所需的相依模組。\n\n請務必與需要它的模組一併安裝 Decorative Core！\n\n📦 需要此模組的模組清單：\n- [Decorative Storage](https://modrinth.com/mod/decorative-storage)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

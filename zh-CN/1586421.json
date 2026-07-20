@@ -1,0 +1,6 @@
+{
+  "bodyHash": "86d7115123c352a0",
+  "content": "\n\n<p>“Design n Decor Sable Propulsion”是一款小型兼容插件，它让<strong>Design n Decor</strong>中的大型螺旋桨风扇能够依托<strong>Sable</strong>物理引擎，作为<strong>Create Aeronautics</strong>飞艇的真正推进方块。</p>\n<p>这些大型风扇不再只是摆设，当它们被整合进飞行装置时，现在可以产生推力。其推力大小随 Create 的旋转速度变化，转速（RPM）越高推进力越强，而静止的风扇则不产生推力。</p>\n<p>这些风扇还具备类似重型飞轮的特性：断电后不会立即停转，也不会瞬间达到全速。其有效推进力会平滑地渐增渐减，为飞艇带来更具机械感与重量感的操控体验。</p>\n<p>与标准的 Aeronautics 螺旋桨相比，Design n Decor 的大型风扇经过调校，推力略胜一筹。如果您希望在不过度堆砌引擎的情况下为飞船提供额外推力，同时追求紧凑或美观的建造风格，它将是不二之选。</p>\n<p><strong>功能特性</strong></p>\n<ul>\n<li>为 <code>#dndecor:large_fans</code> 添加 Sable 推力支持</li>\n<li>通过标签系统与 Design n Decor 的大型风扇变体兼容</li>\n<li>基于 Create RPM 的动态推力</li>\n<li>类似飞轮的平滑加速与减速效果</li>\n<li>类 Aeronautics 的气流粒子特效</li>\n<li>推力略强于标准 Aeronautics 螺旋桨</li>\n<li>轻量级兼容插件，不添加任何新方块</li>\n</ul>\n<p><strong>前置要求</strong></p>\n<ul>\n<li>Minecraft 1.21.1</li>\n<li>NeoForge</li>\n<li>Create</li>\n<li>Create Aeronautics</li>\n<li>Sable</li>\n<li>Design n Decor</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

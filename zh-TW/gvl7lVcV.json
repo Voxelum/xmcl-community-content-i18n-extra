@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3d621ee369b1ec6",
+  "content": "\n\n# Ping 檢視\n\n僅限客戶端安裝的模組，會在玩家列表中以顏色顯示你和其他玩家的延遲（Ping），簡單明瞭。\n設計宗旨是盡可能保持與原版一致的玩家列表外觀。\n\n![Tab](https://cdn.modrinth.com/data/cached_images/8ceb4bf0ca5bb67aee764c5b579a65f179afc723.png)\n\n在玩家列表中查看自己與其他玩家的延遲，數值以顏色區分，方便閱讀。\n- 依延遲時間區分顏色\n- 盡可能保持與原版一致的玩家列表外觀\n- 輕量級模組，安裝後即可直接使用\n\n## 設定 (v1.5.2+)\n可選：開啟遊戲內設定畫面：\n- **Fabric：** [Cloth Config](https://modrinth.com/mod/cloth-config) + [Mod Menu](https://modrinth.com/mod/modmenu)\n- **NeoForge：** [Cloth Config](https://modrinth.com/mod/cloth-config)\n- **Forge：** 無遊戲內設定畫面\n\n設定檔存放路徑為 `./config/pingview.json`。\n- 調整延遲顏色數值\n- 隱藏 ms 單位後綴\n- 於玩家名稱標籤顯示延遲\n- 移除文字陰影\n\n![Ping View Config](https://cdn.modrinth.com/data/cached_images/38352e0cb37cf7adb953b2f6bb1439345111e3cb.webp)\n![Ping View Nametag](https://cdn.modrinth.com/data/cached_images/f9163aa1aca832cef99ec12779ec5489c35d5ba5.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

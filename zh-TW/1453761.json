@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5be0501ce58c090",
+  "content": "\n\n<p><span style=\"font-size:18px\">這是一個同時為&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire\" rel=\"nofollow\">Vampirism</a>&nbsp;與&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/boss-checklist\" rel=\"nofollow\">Boss Checklist</a>&nbsp;設計的擴充模組，將前者的「古代遺骸」首領以及「吸血鬼男爵」迷你首領整合至後者的首領清單介面中作為條目。</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:14px\"><strong>「你是怎麼讓它運作的？古代遺骸明明是一整組方塊，不是生物！」</strong></span></p>\n<p><span style=\"font-size:14px\">首先，該模組加入了一個虛構且無法生成的佔位實體，作為你所見首領清單條目的基礎。當玩家被偵測到在戰鬥結束後破壞了首領的核心方塊時，該首領的條目就會自動標記為已擊敗。</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:14px\"><strong>「為什麼這個沒有跟你的其他 BOSS 清單擴充模組打包在一起？」</strong></span></p>\n<p><span style=\"font-size:14px\">本模組使用了上述由模組自身添加的虛構實體。因此，無論你是否實際安裝了 Vampirism 模組，「古代遺骸」首領條目都會顯示出來。你肯定不希望遇到這種情況：在整合包中，玩家好奇地四處尋找「古代遺骸」，結果後來才發現自己根本連提供該首領支援的模組都沒裝。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

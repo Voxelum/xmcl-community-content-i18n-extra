@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5ca5881c7b41008",
+  "content": "\n\n<p>此模组允许你使用数据包为盔甲、手持物品和生物附加自定义属性。你可以配置让所有木棍在副手持有时提供额外的最大生命值，或者移除下界合金装备的击退抗性属性，又或者以随机数值增加生物的初始护甲值！它主要旨在提供一种更简洁的方式来实现《Project: War Dance》和《Cloak and Dagger》中的属性修改器。</p>\n<p>计划支持其他类型的物品。示例数据包请参考 <a href=\"https://github.com/Jackiecrazy/attributizer/tree/master/src/main/resources/data/attributizer/attributizer\">Github</a>。</p>\n<p>图标再次取自 Lorc 的 game-icons.net。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

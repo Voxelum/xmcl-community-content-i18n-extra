@@ -1,0 +1,6 @@
+{
+  "bodyHash": "363d8789b6402bc3",
+  "content": "\n\n# TFC Cuisine\n與 TerraFirmaCraft 和 Cuisine Delight 相容的模組。\n\n## 功能（可設定）\n* 支援將 TFC 食物放入 Cuisine 平底鍋中。\n* 採用類似 TFC 湯品的計算方式，動態算出份量與營養價值。\n* 生食或過度烹調的食材會影響營養價值。\n* 允許使用 TFC 熱源加熱平底鍋（例如 Firmalife 的烤箱底部）。\n* 鍋鏟可放置於工具架上。\n\n## 支援模組\n* TerraFirmaCraft\n* Firmalife\n* Beneath",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

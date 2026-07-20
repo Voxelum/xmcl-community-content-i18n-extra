@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3974d68b8098c99d",
+  "content": "\n\n**HudStatsMover**\n\n這是一款相容於 **Forge 1.20.1、Fabric 1.20.1、Fabric 1.21.x 與 Fabric 1.20.4** 的模組。它會顯示一個 HUD，您可以看到：伺服器上的活躍玩家、玩家的擊殺數、帶有暱稱的使用者頭像（Skin Head），以及一個顯示使用者死亡與擊殺紀錄的紅色擊殺資訊流（Kill Feed）。\n\n包含什麼？\n\n**包含：**\n\n非管理員（Non-OP）用戶可使用的指令：\n\n- /hud abajo/arriba：允許上下移動 HUD（顯示玩家與使用者擊殺數的位置）的指令。\n\n- /hud derecha/izquierda：切換顯示使用者頭像與「玩家＋擊殺數」HUD 所在側邊的指令。\n\nOP 管理員指令：\n\n- /hud block on/off：停用非管理員用戶使用 /hud 指令的功能。\n\n- /hud arriba/abajo/derecha/izquierda @a：變更整個伺服器的 HUD 位置，或可針對特定玩家進行設定。\n\n**需求：**\n\n若您使用的是任何 **Fabric** 版本，則**必須安裝**：\n\n- **Fabric API**\n\n\n**西班牙語說明 🟢**\n\n**HudStatsMover**\n\n這是一款相容於 **Forge 1.20.1、Fabric 1.20.1 與 Fabric 1.20.4** 的模組，會顯示一個 HUD，可讓您查看：伺服器中的活躍玩家、玩家的擊殺數、帶有暱稱的使用者頭像，以及一個顯示使用者死亡與擊殺紀錄的紅色擊殺資訊流。\n包含什麼？\n\n**包含：**\n\n非管理員用戶可使用的指令：\n\n- /hud abajo/arriba：可上下移動包含玩家與使用者擊殺數之 HUD 的指令。\n\n- /hud derecha/izquierda：可切換使用者頭像 HUD 與「玩家＋擊殺數」HUD 顯示側邊的指令。\n\nOP 管理員指令： \n\n- /hud block on/off：停用非管理員用戶使用 /hud 的功能。\n\n- /hud arriba/abajo/derecha/izquierda @a：變更整個伺服器的 HUD 位置，或可針對特定玩家進行設定。\n\n**需求：**\n\n若您使用的是任何 Fabric 版本，則**強制要求**：\n\n**- Fabric API**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

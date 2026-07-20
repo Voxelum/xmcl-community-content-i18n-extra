@@ -1,0 +1,6 @@
+{
+  "bodyHash": "655765dc6be7e4f2",
+  "content": "# 声音重载器\n你是否曾不小心拔掉耳机，而 Minecraft 却没有自动重新加载音频？这是否让你感到非常恼火，因为按理说它本该默认这样做的？\n别担心，我为你准备了这个模组！\n\n声音重载器确保每当你将音箱或耳机重新插入时，音频都会**自动**恢复！\n\n甚至还有一个小小的弹出提示。（哇！！）（你甚至可以在“音乐与音效”菜单中关闭这个弹出提示，太棒了！！）\n\n![屏幕右上角的弹出通知，顶部文字为：Sound Reloader，底部文字为：Audio Reloaded!](https://cdn.modrinth.com/data/cached_images/b3f9a0a3618f0e829bf26068eea84941d4a4ddeb.png)\n\n### 注意\n有可能无法检测到你的音频设备重新连接。重新插拔你的设备*应该*能解决这个问题。\n\n\n<details>\n<summary>工作原理</summary>\n\n声音重载器使用两种检测路径来留意音频输出的变化。\n\n首先，它每秒通过 **ALC_EXT_disconnect** 扩展检查 OpenAL，以查看当前设备是否已断开并重新连接。\n\n其次，一个后台线程每 2 秒轮询 Java 的 **AudioSystem**，寻找新的输出混音器（例如，当你插入耳机或 USB DAC 时）。\n\n当任一路径检测到变化时，它会等待 3 秒让设备稳定，然后调用 Minecraft 的 **SoundManager.reloadSounds()** 来重新初始化声音引擎。\n</details>\n\n\n\n已在 1.21.1 和 1.21.11 版本上测试。需要 Fabric API。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

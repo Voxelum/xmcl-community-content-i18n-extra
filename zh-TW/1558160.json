@@ -1,0 +1,6 @@
+{
+  "bodyHash": "21581bc68c5dd692",
+  "content": "\n\n<h1><strong>SlashBlade：霜凍雪綻</strong></h1>\n<p>本模組為<strong>霜花技藝</strong>新增了數把 SlashBlade，並提供霜花技藝的 SlashBlade 相容性。</p>\n<p><strong>新增特殊效果（SE）：</strong></p>\n<ul>\n<li><strong>霜刃：&nbsp;</strong>若具備此 SE 且刀身尚未裝備「霜縛強化」，則會自動獲得該強化。啟動時，會根據霜之維度等級造成額外冰凍傷害。</li>\n<li><strong>豐魂刃： </strong>目標會依據其掉落的經驗值掉落特殊材料。若具備特定特殊 SE，掉落材料將隨之改變。</li>\n<li><strong>堅韌刃：&nbsp;</strong>啟動時，會根據耐久度對目標造成額外冰凍傷害。耐久度流失越多，造成的傷害越高，最高可達基礎攻擊力的三倍。此外，當耐久度較低時，攻擊有機率恢復耐久度並賦予力量加成。</li>\n<li><strong>繁茂刃：&nbsp;</strong>若具備此 SE，攻擊生物時有機率生成苔蘚方塊、竹子、花朵等地表裝飾物。</li>\n</ul>\n<p><strong>新增特殊攻擊（SA）：</strong></p>\n<ul>\n<li><strong>暴風雪：&nbsp;</strong>持續釋放雪花粒子特效，並對附近可鎖定的實體造成冰凍傷害。若具備「霜縛強化」，該效果將進一步增強。</li>\n<li><strong>致盲 &middot; 裁決：&nbsp;</strong>消耗大量傲靈點數，對範圍內所有實體（包含使用者自身）無差別造成大量魔法傷害。若具備「碎骨強化」，則不再消耗傲靈點數，反而會在攻擊時持續扣除傲靈點數。</li>\n<li><strong>繁花：生機綻放：&nbsp;</strong>產生綠色粒子特效，並執行兩次揮砍。</li>\n<li><strong>華技：荒蕪凋零：&nbsp;</strong>點燃周圍實體，並發動強力揮砍。</li>\n</ul>\n<p><strong>計畫更新：</strong><br>未來將新增更多 SlashBlade，以及額外的特殊攻擊（SA）與特殊效果（SE）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

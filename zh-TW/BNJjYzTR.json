@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7252d008e9400cce",
+  "content": "\n\n## 概述\n\n這是 [Cobblemon Emi](https://modrinth.com/mod/cobblemon-emi) 針對稍微有些過時但仍屬現代的 1.20.1 版本所進行的反向移植！它保留了原版的所有功能，並針對與 Cobblemon 1.5.2 的相容性進行了微調。\n\n### 功能\n- 於 EMI 側邊欄中列出所有可用的寶可夢\n- 提供生成、掉落與進化的配方標籤頁\n- [反向移植新增] 僅列出標記為「已實裝」的寶可夢（通常指已建模）\n- [反向移植新增] 在 Mega 與 D/Gmax 機制完全移植前，這些形態將不會顯示於 EMI 中\n- [反向移植新增] 支援 Cobblemon Farmers 的選用相容性",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

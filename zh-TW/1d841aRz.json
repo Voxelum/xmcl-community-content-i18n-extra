@@ -1,6 +1,6 @@
 {
-  "bodyHash": "5trtzWiCydw=",
-  "content": "![xaero的世界地圖：已同步](https://cdn.modrinth.com/data/cached_images/fefc30ec93d31f0b33b4fd5fed79d0fb544c04f7_0.webp)\n![此模組仍處於Alpha測試階段，使用前請務必備份！](https://cdn.modrinth.com/data/cached_images/5b453991af7ffd0dda064450b60c9e4b64d88c4b_0.webp)\n\n<div align=center>\n\n本模組為多人伺服器（SMP）設計，可實現玩家間的世界地圖同步\n\n需要搭配 [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) 使用，目前僅支援 **專用伺服器**\n\n<br>\n\n地圖資料將儲存於伺服器的 `.xaerosync` 資料夾中\n\n[GitHub](https://github.com/5w14/xaeros-world-map-synchronized) / [Discord](https://discord.gg/VAC7ZMTuPU) / [Ko-fi](https://ko-fi.com/fw14)\n\n</div>",
+  "bodyHash": "61dd06d7688598e8",
+  "content": "![xaero's world地圖：同步功能](https://cdn.modrinth.com/data/cached_images/fefc30ec93d31f0b33b4fd5fed79d0fb544c04f7_0.webp)\n![該模組仍處於Alpha階段，使用前請務必備份！](https://cdn.modrinth.com/data/cached_images/5b453991af7ffd0dda064450b60c9e4b64d88c4b_0.webp)\n\n<div align=center>\n\n此模組可在玩家之間同步世界地圖數據，專為多人伺服器（SMP）設計。\n\n需要安裝 [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)，且目前僅支援**專用伺服器**。\n\n<br>\n\n地圖資料會儲存在伺服器的 `.xaerosync` 資料夾中。\n\n[github](https://github.com/5w14/xaeros-world-map-synchronized) / [discord](https://discord.gg/VAC7ZMTuPU) / [ko-fi](https://ko-fi.com/fw14)\n\n</div>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

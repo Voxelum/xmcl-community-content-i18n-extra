@@ -1,6 +1,6 @@
 {
-  "bodyHash": "aLCAln7UO+Q=",
-  "content": "<p>Это дополнение для CraftTweaker, которое позволяет создателю пакета ограничивать уровни добычи в зависимости от уровня Y.</p><p>&nbsp;</p><p>Синтаксис:</p><p>&nbsp;</p><p>mods.td.TieredDepths.addBlacklist(IBlockStateMatcher blackListedBlock, int maxHeight, int dimension, int minimumMiningLevel);<br><br>Пример:</p><p>&nbsp;</p><p>mods.td.TieredDepths.addBlacklist(<blockstate:minecraft:stone>,32,0,1);</p><p>&nbsp;</p><p>&nbsp;Эта строка запрещает добычу камня на уровне Y=32 или ниже с помощью деревянного кирки или эквивалента в верхнем мире.</p>",
+  "bodyHash": "8b7916a4dc68d6f7",
+  "content": "\n\n<p>Это дополнение для CraftTweaker, позволяющее авторам модпаков ограничивать уровни добычи в зависимости от высоты по оси Y.</p>\n<p>&nbsp;</p>\n<p>Синтаксис:&nbsp;</p>\n<p>&nbsp;</p>\n<p>mods.td.TieredDepths.addBlacklist(IBlockStateMatcher blackListedBlock, int maxHeight, int dimension, int minimumMiningLevel);<br><br>Пример:<br><br>mods.td.TieredDepths.addBlacklist(&lt;blockstate:minecraft:stone&gt;,32,0,1);</p>\n<p>&nbsp;</p>\n<p>&nbsp;Данная строка запрещает добычу камня на высоте y=32 или ниже с помощью деревянной кирки (или её аналога) в надземном мире.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

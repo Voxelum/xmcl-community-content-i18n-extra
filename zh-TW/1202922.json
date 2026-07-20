@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d8df0bec59344d50",
+  "content": "\n\n<p>用於回報錯誤與聊天的 Discord 連結：<a href=\"https://discord.gg/bgs9mCxVzj\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/bgs9mCxVzj</a></p>\n<p>此模組將《Ancient Warfare 2》的 NPC 加入至現代版 Minecraft。</p>\n<ul>\n<li>NPC 會從市政廳或自訂的維護點獲取食物。</li>\n<li>使用木製工具點擊工人 NPC 以指派工作。</li>\n<li>工人晚上需要睡覺。若未設定住所，他們只會站在原地等待被怪物吃掉。</li>\n</ul>\n<p>目前新增以下工人類型：</p>\n<ul>\n<li>農民：耕作作物農場並操作石磨，轉換工具：木製鋤頭</li>\n<li>伐木工：經營樹林農場並操作鋸木廠，轉換工具：木製斧頭</li>\n<li>礦工：在採石場工作，轉換工具：木製鎬</li>\n<li>送貨員：處理配送訂單並整理倉庫，轉換工具：皮革靴子</li>\n</ul>\n<p>新增以下戰鬥型 NPC：</p>\n<ul>\n<li>戰士：一般劍士</li>\n<li>弓箭手：會從軍械庫拿取弓與箭矢，可使用弩砲，轉換工具：弓</li>\n<li>攻城工程師：負責繪製、裝填並操作弩砲，轉換工具：木製錘</li>\n</ul>\n<p>新增以下方塊：</p>\n<ul>\n<li>市政廳：你城堡的核心</li>\n<li>軍械庫：供戰鬥 NPC 儲存防具與武器的地方</li>\n<li>策略桌：用於放置讓戰鬥 NPC 遵循的任務指令的地方</li>\n</ul>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

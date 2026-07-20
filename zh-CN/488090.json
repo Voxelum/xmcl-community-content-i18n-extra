@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7cf03bcc964592fc",
+  "content": "<p style=\"text-align:center\">MidnightLib 是一个为模组提供通用工具和配置系统的库。</p>\n<p style=\"text-align:center\">该库还具备自动集成 ModMenu 的功能，适用于所有已注册的配置项——无需再等待 ModMenu 的更新发布！</p>\n<p style=\"text-align:center\">此外，当未安装 ModMenu 或用户手动启用时，会显示一个使用 MidnightLib 创建的所有配置项列表。</p>\n<p style=\"text-align:center\"><strong>允许并鼓励模组开发者将其包含在他们的模组中。</strong><br>每个功能都可以在库自身的配置界面/文件中进行切换</p>\n<p style=\"text-align:center\"><img src=\"https://media.discordapp.net/attachments/507982666755473427/1036592375310590022/Screenshot_Minecraft_1.19.2_3.png?width=774&height=644\" alt=\"示例配置界面\" height=\"532\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

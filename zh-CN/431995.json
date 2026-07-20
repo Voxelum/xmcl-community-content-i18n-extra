@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8db9ca934684bacc",
+  "content": "\n\n<p>Minecraft 对护甲能提供的伤害减免设有上限，默认限制为 80%。<br>许多模组护甲会较早达到此上限。</p>\n<p>本模组旨在通过微调护甲公式来解决这一问题。</p>\n<p>它通过 Mixin 实现此功能，因此与其他修改相同内容的模组不兼容。</p>\n<p>公式基本保留了&nbsp;原版设定，但上限已被提高或移除。</p>\n<p>&nbsp;</p>\n<p>配置中有一个选项可完全解锁护甲，这意味着不再限制伤害减免上限，默认关闭。<br>当此选项关闭时，最大伤害减免将从 80% 提升至 90%。</p>\n<p>&nbsp;</p>\n<p>建议将此模组与&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/attributefix\" rel=\"nofollow\">AttributeFix</a>&nbsp;搭配使用，因为它可以移除原版对护甲点数的上限限制。</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

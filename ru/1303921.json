@@ -1,0 +1,6 @@
+{
+  "bodyHash": "62b5442eeffaa8cb",
+  "content": "\n\n<h2>Связка AStages и навыков Pufferfish</h2>\n<p>Этот лёгкий мод добавляет простую интеграцию между <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/astages\" target=\"_blank\" rel=\"nofollow\">AStages</a></strong> и <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/pufferfishs-skills\" target=\"_blank\" rel=\"nofollow\">Pufferfish's Skills</a></strong>.<br>\nОн позволяет навыкам в дереве навыков <strong>добавлять или удалять стадии AStages</strong> при их разблокировке игроком.</p>\n<h3>Возможности</h3>\n<ul>\n<li>Назначение одной стадии при разблокировке навыка.</li>\n<li>Простая конфигурация на основе датапаков.</li>\n<li>Полезно для RPG и систем прогрессии, основанных на стадиях.</li>\n</ul>\n<blockquote>\n  <p>Требует установленных модов AStages и Pufferfish's Skills.</p>\n</blockquote>\n<h3>Настройка</h3>\n<p>Стадии можно добавлять или удалять, добавив простой раздел <code>astages</code> в JSON вашего навыка.<br>\nСинтаксис и примеры см. в <strong><a href=\"\" target=\"_blank\" rel=\"nofollow\">Wiki</a></strong>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

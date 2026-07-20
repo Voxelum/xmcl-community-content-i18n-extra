@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2212646fea58ef9b",
+  "content": "\n\n# Мир Копирует Меня\n-------------\nПри установке или разрушении блока, он появляется во всех чанках на том же уровне Y.\n## Команды\n- ``` /worldcopies ``` - Показывает статус.\n- ``` /worldcopies toggle ``` - Включение/выключение, по умолчанию включено.\n- ``` /worldcopies clear ``` - Очищает все изменения во всех измерениях.\n- ``` /worldcopies restamp ``` - Повторно применяет всю карту изменений ко всем загруженным чанкам.\n- ``` /worldcopies reload ``` - Перезагружает файл конфигурации.\n## Благодарности\nВдохновлено видео — Minecraft But The World COPIES Everything\nАвтор: @TheRealCarvs на YouTube",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1ee6b6752cba8ae9",
+  "content": "\n\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/fcb1f421f80f878fc75d2fc7146fc47111d03551.png\" alt=\"Vulkan 與 Sodium\"></p>\n<p><strong>NeoFullbright</strong> 是一款<strong>輕量級、100% 原版資源包</strong>，可套用<strong>永久全亮效果</strong>——無需指令、無需模組，且不會破壞文字或介面。</p>\n<hr>\n<h2>✨ 功能特色</h2>\n<ul>\n<li>視野清晰如白晝，即使在洞穴或夜晚也能保持明亮</li>\n<li>介面與文字維持<strong>完全可見</strong>（無字體破損問題）</li>\n<li>內建自訂資源包圖示</li>\n<li><strong>兼容 OptiFine</strong>（內含光照貼圖）</li>\n<li>極度輕量的資源包，<strong>零效能影響</strong></li>\n</ul>\n<hr>\n<h2>📥 安裝方式</h2>\n<ol>\n<li>下載 <code>.zip</code> 檔案</li>\n<li>將其放置於：</li>\n</ol>\n<pre><code>.minecraft/resourcepacks</code></pre>\n<ol>\n<li>啟動 Minecraft → <strong>選項 → 資源包</strong></li>\n<li>啟用 <strong>NeoFullbright</strong> 並將其移至清單頂端</li>\n</ol>\n<hr>\n<h2>🔧 相容性</h2>\n<ul>\n<li>✅ <strong>Minecraft 1.21.8</strong> (pack_format 46)</li>\n<li>✅ 可在<strong>原版</strong>環境中使用（無需模組）</li>\n<li>✅ 兼容 <strong>OptiFine/Fabric/Iris</strong></li>\n<li>⚠️ 不兼容外部光影（會覆蓋此效果）</li>\n</ul>\n<hr>\n<h2>⚠️ 注意事項</h2>\n<p>若您使用外部光影（如 BSL、Complementary 等），NeoFullbright 的效果將被覆蓋。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

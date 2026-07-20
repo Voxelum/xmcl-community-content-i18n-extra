@@ -1,0 +1,6 @@
+{
+  "bodyHash": "93fe113591d52eee",
+  "content": "\n\n**Modder Name Lib** 是我個人的程式碼庫，供所有 *第二季* 計畫共用。這類程式碼只需保留 *一份* 副本即可發揮最大效益，而非每個模組各有一份；同時也是我不再想在不同模組間反覆複製貼上的程式碼。\n\n**你大概不需要單獨安裝 Modder Name Lib。** Modder Name Lib 已透過 [Fabric](https://wiki.fabricmc.net/documentation:fabric_loader#nested_jars) 與 [NeoForge](https://docs.neoforged.net/neogradle/docs/dependencies/jarinjar/) 的「JAR 套 JAR」機制，包含在所有使用它的模組中。如果你選擇手動安裝它，系統會（大概）優先使用你所選的版本，取代內建的版本。\n\n目前，它包含：\n\n* 基礎的模組架構模板，\n* 一套自訂系統，可同時註冊內容與執行資料生成，\n* 抽象化不同模組載入器之間的差異，\n* 錯誤回報系統，\n* 設定庫，可於 Fabric 與 NeoForge 兩邊使用。\n\n隨著 *第二季* 的範圍擴大，它將持續擴充，納入我所需要的其他任何功能。\n\n## 什麼是 *「第二季」*\n\n這是 *quat 的模組「第二季」* 計畫的一部分。所有 *第二季* 模組都在 [同一個 Git 倉庫](https://github.com/quat1024/mods) 中共同開發與測試，並從相同的程式碼庫進行編譯。\n\n> 在 *第一季*（2018-2025 年）期間，我是分別開發所有模組的。這使得開啟新計畫變得困難，在不同 Minecraft 版本間移植專案十分惱人，維護多個專案共用的程式碼容易出錯，而且有時在專案間切換還需要等待開發工具慢慢準備好，導致長時間的延遲。這些因素加總起來，讓我對 Minecraft 模組開發產生了倦怠。\n> \n> 而在 *第二季*（2025 年-？），我打算利用 [新的開發工具](https://notes.highlysuspect.agency/project-sanity.html) 來解決這些問題。\n\n## 名稱背後的意思？\n\n*moddernamelib* 是一個諷刺用語，指的是「僅供單一模組開發者使用的程式碼庫模組」。我如今竟也成了我曾致力消除的那種東西。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8ecb4e048ecb8110",
+  "content": "\n\n<p>為 Create Big Cannons 新增一種砲彈，並加入透過基底砲彈加上其他材料來製作<del>部分</del>砲彈的配方。此模組僅供我與朋友們在自製整合包中使用，只是為了方便分發才放上來，如果你有需要就儘管使用吧。</p>\n<p>新增：</p>\n<ul>\n<li>冷凍砲彈（Cryo Shell）- 類似 CBC 中的高爆砲彈，但改為造成凍結傷害</li>\n<li>空砲彈（Empty Shell）- 使用 Create 組裝線製作其他砲彈的基底</li>\n<li>空砲彈板（Empty Shell Plate）- 空砲彈的基礎形態，需要敲打成型，若進行澆鑄可獲得<em>小幅</em>折扣。</li>\n</ul>\n<p>本專案沿用 Create、Create Big Cannons 以及 Create: Metallurgy 的授權條款，即 MIT License。</p>\n<p>本專案使用的模組版本：</p>\n<ul>\n<li>Create Metallurgy 0.0.7-HF-1.20.1</li>\n<li>Create Big Cannons v5.9.1</li>\n<li>Ritchie's Projectile Library v2.1.0</li>\n<li>Create Version 6.0.6-150</li>\n<li>Ponder Version 1.0.80</li>\n<li>Flywheel Version 1.0.4</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

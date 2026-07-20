@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YG9NQSDTL2A=",
-  "content": "<p>《精緻背包》是個很棒的模組，但即使你在設定檔中調整物品欄格子數量，它最高仍限制在144格——對某些玩家來說可能不夠用。受《愚者模組包》啟發，此附加元件利用Mixin技術大幅提高物品欄與升級槽的設定上限。現在，你可以擁有超大型背包了！</p><p>首先，你需要啟動遊戲一次來啟用此模組。之後你會發現sophisticatedbackpacks-server.toml中的物品欄格子上限不再鎖死在144格。此外，背包物品欄格子的變更只會套用在新獲得的背包上。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1269737/description_83daaf66-c96a-4c5f-9247-46fdc391b9e7.png\" alt=\"\"></p><p>警告：請勿在超大型背包中塞入過多物品——這可能導致嚴重卡頓、崩潰，甚至可能造成世界損毀。請謹慎使用！</p><p>《精緻儲物》的附加元件：<a href=\"https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-plus\" rel=\"nofollow\">精緻儲物Plus - Minecraft模組 - CurseForge</a></p>",
+  "bodyHash": "e610524900c8fecc",
+  "content": "\n\n<p>Sophisticated Backpacks 是一款優秀的模組，但即使你在其設定檔中調整了背包物品欄槽位數量，上限仍為 144 &mdash; 這對某些玩家來說可能不夠用。受 The Fool 整合包啟發，此擴充功能使用 Mixin 大幅提高了物品欄槽位與升級槽位的設定上限。現在，你可以擁有一個超大型背包了！</p>\n<p>首先，你需要啟動遊戲一次以啟用此模組。之後，你會發現 sophisticatedbackpacks-server.toml 中的物品欄槽位上限已不再限於 144。此外，修改背包物品欄槽位數量的設定僅會套用於新獲得的背包。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1269737/description_83daaf66-c96a-4c5f-9247-46fdc391b9e7.png\" alt=\"\"></p>\n<p>警告：請勿將過多物品塞入超大型背包 &mdash; 這可能會導致嚴重的延遲、當機或世界資料損壞。請謹慎使用！</p>\n<p>Sophisticated Storage 擴充功能：<a href=\"https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-plus\" rel=\"nofollow\">Sophisticated Storage Plus - Minecraft Mods - CurseForge</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4a0d8f15d5da3189",
+  "content": "\n\n_FerrumWhiteList_ представляет собой простой серверный мод для белого списка, разработанный для серверов Minecraft, которым требуется контроль доступа на основе никнеймов.\n\n![baner1](https://cdn.modrinth.com/data/cached_images/910bfa830032f1a2010da6b3af84a9174b1f8b9b.jpeg)\n\nОн был создан для серверов, где стандартный белый список Minecraft не подходит, особенно для серверов в офлайн-режиме. Вместо того чтобы полагаться только на UUID аккаунтов, FerrumWhiteList напрямую проверяет никнеймы игроков.\n\nБелый список чувствителен к регистру, поэтому имена вроде MAYDEX22 и maydex22 будут считаться разными игроками.\n\nКоманды:\n/ferrum whitelist help - Показывает список команд\n/ferrum whitelist on - Включает белый список\n/ferrum whitelist off - Отключает белый список\n/ferrum whitelist add <никнейм> - Добавляет игрока в белый список\n/ferrum whitelist remove <никнейм> - Удаляет игрока из белого списка\n/ferrum whitelist list - Показывает всех игроков в белом списке\n\nКонфигурация:\nconfig/ferrum-whitelist.json\n\nЭтот мод работает только на стороне сервера. Игрокам не нужно устанавливать его на свой клиент.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

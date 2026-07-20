@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b3b944249233bc88",
+  "content": "<p>Блок загрузки чанков</p>\n<p>По умолчанию он загружает чанки размером 3x3, вы можете изменить это в файле конфигурации: 0 = 1x1, 1 = 3x3, 2 = 5x5 и т.д.</p>\n<p>&nbsp;</p>\n<p>Рецепт блока загрузки чанков. Вы можете включить или отключить его в файле конфигурации.</p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/65/164/chunkrezept.png\" alt=\"Рецепт блока загрузки чанков\" width=\"395\" height=\"177\"></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/8/875/2014-03-19_15.47.58.png\" alt=\"Блок загрузки чанков\" width=\"854\" height=\"480\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

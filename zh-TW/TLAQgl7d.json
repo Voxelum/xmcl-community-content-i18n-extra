@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5212f00b4f5b772",
+  "content": "\n\n# Pebble's Cobbled Battle Watcher\n\n取得當前出戰的寶可夢、HP、等級、攜帶道具與狀態效果等資訊。同時顯示隊伍中剩餘的寶可夢數量，但不會透露過多細節。\n\n# 指令\n`/observebattle <playername>`：觀戰對戰。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

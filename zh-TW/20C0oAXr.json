@@ -1,0 +1,6 @@
+{
+  "bodyHash": "26c84857193d22fb",
+  "content": "\n\n<img src=\"https://github.com/nicochart/NotSoHardcore/blob/main/wiki_images/logo/notsohardcore_logo.png?raw=true\" width=\"800\">\n\n想和朋友一起玩極限模式遊戲，卻因為任何一位朋友死亡並無法繼續遊玩而感到挫折嗎？\n\n**Not So Hardcore** 就是為了解決這個問題而生的。透過隨時間恢復的生命數，您將能體驗如同極限模式般的死亡恐懼，同時仍可在一段時間後選擇復活。\n\n## 運作方式\n\n您的（預設）最大生命數為 3 條。\n\n每次死亡都會消耗一條命。但別擔心，您每 1 小時（預設）就能恢復一條命！\n\n如果玩家耗盡所有生命，在等待恢復生命期間，將會切換至觀察者模式（如同原版極限模式）。\n\n您可以在 [資訊選單](https://github.com/nicochart/NotSoHardcore/wiki/Info-Menu) 中查看剩餘生命數與恢復一條命所需的時間（預設按 H 鍵開啟）。\n\n最大生命數與恢復一條命的時間均為 [可設定項目](https://github.com/nicochart/NotSoHardcore/wiki/Configuration)。\n\n<img src=\"https://github.com/nicochart/NotSoHardcore/blob/main/wiki_images/menu/menu_life_restore.png?raw=true\" width=\"600\">\n\n更多資訊請前往 [Not So Hardcore 維基](https://github.com/nicochart/NotSoHardcore/wiki) 查看！\n\n**警告：** 此模組會修改一般遊戲模式以及原版極限模式。請根據您的需求建立世界！\n\n想在整合包中使用嗎？\n儘管使用吧！請查看維基關於設定檔、指令以及復活道具碎片的說明。\n\n## 建議\n\n如果玩家耗盡所有生命，將會切換至觀察者模式。預設情況下，觀察者可以穿牆移動。\n\n若想防止此情況發生，您可以搭配使用 Anti Spectator Noclip。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

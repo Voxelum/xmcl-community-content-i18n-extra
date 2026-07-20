@@ -1,0 +1,6 @@
+{
+  "bodyHash": "328bfa285d5cb3d7",
+  "content": "\n\n# Manniclones\n\nMinecraft 1.21.11 最新版：Manniclones Pre-Release-2\n\nMinecraft 1.21.11 推薦版本：Manniclones Pre-Release-1\n\n# **本說明已過時，待正式版本釋出後將進行更新**\n\n## 必要 RP（資源包／材質包）\n\n下載所需 RP：[點擊下載 RP](https://cdn.modrinth.com/data/xoU8GrQg/versions/9ETew2ch/Manniclones%20texturepack%20for%20any%20version.zip?mr_download_reason=dependency)\n\n## 功能特色\n\n### 人偶複製體（The Manniclone）\n\n「人偶複製體」是我們對這些複製體的稱呼，因為它們使用了 1.21.11 版本新增的「人偶」實體。人偶複製體會複製你的雙手與護甲，你也會共用一個物品欄和血條（死亡會導致所有複製體一同陣亡）。\n人偶複製體過於強大，為了平衡性，它們是不死的；唯一能徹底消除它們的方法是將它們送入虛空。\n因此，在競技型 Minecraft 伺服器上，擁有它能幫你輕易脫離陷阱，但相對地，你也可以利用它來困住對手。\n\n### 人偶製造器（The mannicloner）\n\n一種自訂末影珍珠，落地後會生成一個人偶複製體。\n\n合成方式如下：\n[人偶製造器合成配方](https://cdn.modrinth.com/data/cached_images/e3eee64fa0952d44ee42a06ddb9b51a41196243f.png)\n\n### 鑽石終界果（The Diamond chorus）\n\n它會將你傳送到隨機一個現有的人偶複製體所在位置，且無法控制落點。\n\n合成方式如下：\n[鑽石終界果合成配方](https://cdn.modrinth.com/data/cached_images/07bfe0a1ac6ab8d041e41186b0d36ddf8f27645a.png)\n\n\n## 已知問題\n\n無法傳送至尚未載入區塊的人偶複製體。\n\n人偶製造器有時會直接卡在半空中並停止載入區塊。\n\n## 正式版預計功能\n\n將人偶製造器替換為人偶複製體生成蛋。\n\n## 未來規劃\n\n為人偶製造器和鑽石終界果加入音效。\n\n提供選擇要傳送至哪個複製體的功能，預計會以新物品的形式實作。\n\n進度系統支援",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

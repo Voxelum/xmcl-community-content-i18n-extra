@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42333e4de718ed85",
+  "content": "\n\n<p><strong>注意：此模組需要安裝 <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/mixin-booter\" rel=\"nofollow\">MixinBooter</a> 才能運作，否則遊戲在啟動時會當機。</strong></p>\n<p>VintageFix 是一款針對 Minecraft 1.12.2 的效能優化模組，能大幅降低記憶體使用量，並略微縮短載入時間。這是透過整合經過修改的 FerriteCore 區塊狀態／模型優化，以及更新且更可靠的舊版 VanillaFix 動態資源補丁（該補丁會即時載入模型，而非在遊戲啟動時載入）來實現的。此外還包含其他專屬優化項目。</p>\n<p>為取得最佳效果：</p>\n<ul>\n<li>請勿使用 OptiFine。使用 OptiFine 可能會導致渲染異常，並增加啟動時間。</li>\n<li>不得安裝 FoamFix，因為 VintageFix 已完全取代它（並提供更有效的優化）。</li>\n</ul>\n<p>此外，請留意 VintageFix 仍處於初期開發階段，您可能會遇到一些錯誤或當機問題。這些問題通常不會對您的遊戲造成永久性損壞。若您遇到任何問題，請務必在 GitHub 上進行回報。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252fembeddedt\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/6b02ce11-5cf6-4e67-9a75-06474a46308a.webp\" alt=\"BisectHosting\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "84b2aee5324631a4",
+  "content": "\n\n![](https://imgur.com/DdvYD01.png)\n\n<div>\n    <a href=\"https://modrinth.com/mod/plasmo-voice\">Plasmo Voice</a>\n    <span> | </span>\n    <a href=\"https://modrinth.com/plugin/pv-addon-priority\">Modrinth</a>\n    <span> | </span>\n    <a href=\"https://github.com/plasmoapp/pv-addon-priority/\">GitHub</a>\n    <span> | </span>\n    <a href=\"https://discord.com/invite/uueEqzwCJJ\">Discord</a>\n     <span> | </span>\n    <a href=\"https://www.patreon.com/plasmomc\">Patreon</a>\n</div>\n\n# pv-addon-priority\n\nСерверная надстройка для [Plasmo Voice](https://modrinth.com/mod/plasmo-voice).\n\nГолосовая активация с увеличенной и настраиваемой дальностью действия.\n\n## Использование\n\nОткройте меню Plasmo Voice клавишей `V` (по умолчанию), перейдите на вкладку Activation и настройте приоритетную активацию.\n\n## Разрешения\n\nРазрешение на использование приоритета: `pv.activation.priority`. По умолчанию доступно только операторам (OP).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

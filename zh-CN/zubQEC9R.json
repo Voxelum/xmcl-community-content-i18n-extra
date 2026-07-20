@@ -1,0 +1,6 @@
+{
+  "bodyHash": "59230b1cae178bc7",
+  "content": "![soxy.png](https://raw.githubusercontent.com/wellcoming/soxy/master/src/main/resources/assets/soxy/icon.png)\n\n# Soxy\n\nSoxy 是 Voxy 的一个简单服务端辅助模组，它直接从服务器世界生成 `.voxy` 缓存数据。\n\n## 为什么选择 Soxy？\n目前，许多服务端的 Voxy 细节层次（LoD）分发模组存在各种漏洞，其中一些甚至只是“AI 生成的垃圾代码”。其他替代方案要么消耗过多的网络带宽，要么无法正确更新修改过的区块。Soxy 通过提供一种在服务器上准备缓存的简便方法解决了这些问题，从而免去了客户端手动导入区域文件的麻烦。\n\n## 功能特性\n* **无需服务端 Sodium：** Soxy 消除了 Voxy 对独立服务器的 Sodium 模组的依赖。你只需要在服务端安装 Soxy 和 Voxy 即可。\n* **易于分发：** 生成的 `.voxy` 文件可以通过文件服务器或 CDN 高效分发给玩家，或者使用 `automodpack` 等模组自动同步。\n* **推荐工作流程：** 建议通过计划任务定期运行 `/soxy generate`，并使用 `automodpack` 自动为玩家加载生成的缓存。\n\n## 安装与使用\n1. 在独立服务器上同时安装 **Soxy** 和 **Voxy**。\n2. 运行以下命令：\n```text\n/soxy generate [维度ID]\n```\n3. `.voxy` 缓存文件夹将在你的服务器实例目录中生成。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

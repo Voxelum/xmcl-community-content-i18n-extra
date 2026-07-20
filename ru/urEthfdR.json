@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1ecb9ad1f20f5dec",
+  "content": "\n\nЭто практичный мод, разработанный для решения проблемы многократного добавления одного и того же предмета в несколько контейнеров. С помощью простой команды вы сможете быстро переместить заданное количество предметов в указанный блок-контейнер на выбранной территории, что значительно повысит игровую эффективность и избавит от рутинной ручной расстановки!\n# Формат команды:\n> ## Версия 1.0.0 и выше\n> > Перемещается из инвентаря пользователя в сундук.\n/placetocontainer <start position> <end position> <container ID> <item ID> <quantity>\n> ## Версия 1.1.0 и выше\n> > Перемещается из инвентаря указанного игрока в сундук.\n/placetocontainer <start position> <end position> <container ID> <item ID> <quantity> <player ID>\n\n> > Перемещается из инвентаря указанного контейнера в сундук.\n/placetocontainer <start position> <end position> <container ID> <item ID> <quantity> <container position>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

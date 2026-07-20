@@ -1,6 +1,6 @@
 {
-  "bodyHash": "a28y8YHyJhM=",
-  "content": "# ![Cardinal Components API](https://raw.githubusercontent.com/OnyxStudios/Cardinal-Components-API/1.18/banner.svg)\n一个易于使用、模块化且速度极快的 Quilt 和 Fabric 组件 API。\n\n详细信息可以在仓库的[**wiki**](https://ladysnake.org/wiki/cardinal-components-api)中找到。\n以下信息是后者的浓缩形式。\n\n## 功能\\*\n- 🔗 将数据附加到各种原版类\n- 🧩 实现一次，随处可用 - 模组数据将自动保存\n- 📤 使用单个辅助接口同步数据\n- 👥 选择玩家重生时如何复制组件\n- ⏲️ 与目标一起更新组件\n- 🛠️ 微调一切以满足您的需求\n- ☄️ 并享受 ASM 生成的扩展带来的极速\n\n*\\*非详尽列表，请参阅 wiki 和 javadoc 以获取完整列表。*",
+  "bodyHash": "9e249bd01f919f9e",
+  "content": "# ![Cardinal Components API](https://raw.githubusercontent.com/OnyxStudios/Cardinal-Components-API/1.18/banner.svg)\n一个为 Quilt 和 Fabric 设计的组件 API，它简单易用、模块化且速度极快。\n\n详细信息请参阅仓库中的 [**Wiki**](https://ladysnake.org/wiki/cardinal-components-api)。\n以下内容是对后者的精简总结。\n\n## 功能特性\n- 🔗 将数据附加到各种原版类上\n- 🧩 实现一次，随处可用——模组数据会自动保存\n- 📤 通过单个辅助接口同步数据\n- 👥 选择玩家重生时如何复制组件\n- ⏲️ 与目标实体同步进行刻更新\n- 🛠️ 精细调整各项设置以满足您的需求\n- ☄️ 享受由 ASM 生成的扩展带来的极速体验\n\n*\\*非详尽列表，完整功能请参考 Wiki 和 Javadoc。*",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

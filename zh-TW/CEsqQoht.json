@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8b922dbf4e32c43f",
+  "content": "\n\n一場充滿混亂的進度挑戰！Minecraft 會隨機決定進度順序，你必須嚴格遵守。完成當前顯示的進度後即可進入下一關，並在 Boss Bar 強制鎖定當前目標的同時，與計時器競速。 \n\n![螢幕上顯示著我的世界世界，頂部有一條綠色的 Boss Bar，顯示著當前需要完成的進度及數量。快捷欄上方有一個綠色計時器，顯示年、月、週、天、時、分、秒。](https://cdn.modrinth.com/data/cached_images/1760c561e6c3fee150713da361c7cf20d4426ac3_0.webp)\n\n```\n/ra start\n```\n開始新的挑戰。建立全新的隨機進度順序，重置進度與計時器，並撤銷先前已取得的原版進度。\n\n```\n/ra pause true\n```\n暫停挑戰。計時器停止運作，且無法完成進度。\n\n```\n/ra pause false\n```\n恢復挑戰。計時器繼續運行，可再次嘗試完成當前進度。\n\n```\n/ra skip\n```\n跳過當前進度，直接進入下一個。\n\n```\n/ra status\n```\n顯示目前的進度、計時器狀態與暫停設定。\n\n```\n/ra timer seconds <seconds>\n```\n將計時器設定為指定的秒數。\n\n```\n/ra timer hms <hours> <minutes> <seconds>\n```\n以時、分、秒為單位設定計時器。\n\n```\n/ra timer full <years> <months> <weeks> <days> <hours> <minutes> <seconds>\n```\n使用全部時間單位（年、月、週、天、時、分、秒）設定計時器。\n\n```\n/ra color timer <startHex> <endHex>\n```\n更改計時器的漸層顏色。\n\n```\n/ra color bossbar <color>\n```\n更改 Boss Bar 的顏色。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

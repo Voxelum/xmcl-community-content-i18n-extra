@@ -1,0 +1,6 @@
+{
+  "bodyHash": "21fc5a9f32bf1ebf",
+  "content": "\n\n## Описание\nПростая модификация, позволяющая настроить масштаб текста точек маршрута на карте. Устанавливает одинаковый размер для всех маркеров.\n\n![Демонстрация](https://cdn.modrinth.com/data/cached_images/0e4a55413bfaf5f15e4456e93ed43a950e1aa641.png)\n\n## Настройка\nРекомендуется использовать [Mod Menu](https://modrinth.com/mod/modmenu) для доступа к конфигурации, но вы также можете вручную отредактировать файл **mapwaypointtextscale.json5** в папке config вашего каталога Minecraft.\n\n## Зависимости\n- [owo-lib](https://modrinth.com/mod/owo-lib)\n- [fabric-api](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

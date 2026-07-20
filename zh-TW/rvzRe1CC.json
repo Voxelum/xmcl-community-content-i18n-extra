@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d4a75560730fc9f5",
+  "content": "\n\n## 使弩具備無限附魔\n### 安裝方式（Fabric/Forge/Quilt）：\n它們的運作方式與數據包相同，但會套用至所有安裝此模組後建立或載入的世界。若您不希望此設定套用至所有世界，請改用數據包。\n\n**Forge**：\n無需任何相依模組，只需將本模組放入「mods」資料夾即可。\n\n**Fabric**：\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**Quilt**：\n需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)\n### PurpurPacks\nPurpurPacks 是曾建議加入 [Purpur](https://purpurmc.org/) 伺服器軟體的功能，或是符合 Purpur 主題的內容，但經評估後認為以數據包形式呈現更為合適！\n\n每個數據包的功能相當於 Purpur 中的一個獨立設定項目。您可以隨時新增或移除它們，而不會對伺服器造成損害。\n\n這些數據包並不依賴 Purpur；它們在原版或任何其他伺服器軟體中都能正常運作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

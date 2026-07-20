@@ -1,0 +1,6 @@
+{
+  "bodyHash": "560ca5e94a3d2129",
+  "content": "\n\n<center>\n\n## 掉落頭顱\n\n[![Modrinth Icon](https://cdn.sqidgeon.uk/cozy/available/modrinth_vector.svg)](https://modrinth.com/project/glYcmYBi)\n[![Discord Icon](https://cdn.sqidgeon.uk/cozy/social/discord-plural_vector.svg)](https://discord.gg/FVq3j5heAc)\n\n[![Fabric Icon](https://cdn.sqidgeon.uk/cozy/supported/fabric_vector.svg)](https://fabricmc.net/)\n[![Quilt Icon](https://cdn.sqidgeon.uk/cozy/supported/quilt_vector.svg)](https://quiltmc.org/)\n[![NeoForge Icon](https://cdn.sqidgeon.uk/cozy/supported/neoforge_vector.svg)](https://neoforged.net/)\n[![Forge Icon](https://cdn.sqidgeon.uk/cozy/supported/forge_vector.svg)](https://files.minecraftforge.net/net/minecraftforge/forge/)\n\n</center>\n\nDrop Head 是一款讓玩家在死亡時掉落其頭顱的模組。\n\n## 運作原理？\n### 編輯玩家戰利品表 `entities/player.json`\n為玩家死亡事件加入頭顱掉落，並保留該已死玩家的各項特徵。\n\n## 搭配推薦\n您也可以搭配使用 [Killer Head](https://modrinth.com/project/killer-head)。\n此外還有 [Stackable Heads](https://modrinth.com/project/stackable-heads)，這是一個相當實用的模組。\n\n## 相容性\n**Drop Head** 應能在任何環境中正常運作。\n\n## 支援我！\n歡迎加入我的 Minecraft 極限模式伺服器：[HardcoreSMP](https://modrinth.com/server/hardcoresmp_) - `38.143.19.130`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

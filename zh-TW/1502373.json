@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e2814df152d3ce9e",
+  "content": "\n\n<p><span style=\"font-size:18px\">我製作這個分支純粹是因為受夠了每次測試整合包時，HWYLA 在啟動時隨機抽到爛 RNG 導致遊戲崩潰的情況。</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><br>我沒有持續積極維護此分支的計畫，但歡迎隨時提交修復問題的 PR，若不會導致其他問題或崩潰，我會考慮合併。</p>\n<p>&nbsp;</p>\n<p>所有基於原版模組開發的外掛、附加元件、相容性模組或類似專案，皆與此分支 100% 相容。</p>\n<p>&nbsp;</p>\n<p><em>本分支之使用授權遵循&nbsp;<a href=\"https://github.com/TehNut-Mods/HWYLA/blob/1.16_forge/LICENSE.md\" rel=\"nofollow\">CC BY-NC-SA 4.0</a>&nbsp;授權條款。</em></p>\n<p>&nbsp;</p>\n<p>所有整合包皆可自由使用此模組。</p>\n<p>&nbsp;</p>\n<p>我對其他版本的 Minecraft 不感興趣，也不會針對 HWYLA 的其他版本建立分支。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

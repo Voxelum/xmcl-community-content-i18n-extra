@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4ac5998928f158a4",
+  "content": "\n\n![Replanter 實際運作畫面，作物收割時自動播種](https://cdn-raw.modrinth.com/data/is7374ZC/images/ce409c1ce5ed8231ca40382408b3d5809dabc418.gif)\n\nReplanter Forked 是一款僅限客戶端的模組，透過按住右鍵即可收割並重新種植作物。\n模組會自動切換至快捷欄中附魔最高等級「時運」的工具，以最大化作物產量。\n當快捷欄中有骨粉時，對著未完全成熟的作物點擊右鍵，模組會自動將其切換至副手並使用。\n\n支援以下類型的作物：\n\n    小麥、胡蘿蔔、馬鈴薯、甜菜根（+任何繼承自 CropBlock 的模組新增方塊）\n    地獄疣\n    可可豆（快捷欄中需有具備足夠挖掘速度可瞬間破壞的斧頭）\n    火把花\n    瓶子草果（由於反作弊機制，您必須點擊植物的下半部）\n\n原始開發者為 [Ryhon0](https://modrinth.com/user/Ryhon)，該模組原版由其創作。若其版本沒有被封存，這原本只會是一個簡單的合併請求。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

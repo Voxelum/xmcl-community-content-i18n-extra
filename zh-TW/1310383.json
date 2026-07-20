@@ -1,6 +1,6 @@
 {
-  "bodyHash": "8PrJoxwQ5Go=",
-  "content": "<p>此模組是 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/arsarms\" target=\"_blank\" rel=\"nofollow\">ArsArms</a></strong> 的函式庫依賴項。</p><p>&nbsp;</p><p>CastLib 是一個函式庫模組，它添加了 mumu17 的模組所使用的共享通用代碼。若無其他模組啟用或使用它，此模組本身不提供任何實質內容。</p>",
+  "bodyHash": "5d4f0bf0fcadb2f4",
+  "content": "\n\n<p>此模組為 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/arsarms\" target=\"_blank\" rel=\"nofollow\">ArsArms</a></strong> 的函式庫依賴。</p>\n<p>&nbsp;</p>\n<p>CastLib 是一個函式庫模組，提供了 mumu17 的模組所使用的共用程式碼；若無其他模組啟用或調用它，本模組將無法提供任何實質價值。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

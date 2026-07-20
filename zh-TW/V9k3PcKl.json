@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11753049506c3a46",
+  "content": "\n\n[![License: LICENSE-CC-BY-NC-4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue)](https://github.com/MavLeague/fallen_from_heaven/blob/main/LICENSE-CC-BY-NC-4.0.md)\n# 墜落天堂\n這個數據包可防止你在虛空中死亡。取而代之的是，例如當你在終界維度掉入虛空時，你會在世界重生點的上方高空生成。\n\n## 功能\n### 終界 --> 主世界\n掉入虛空時，你將被傳送到主世界。你的位置將位於**世界重生點**的**y=258**處。\n\n### 主世界 --> 地獄\n掉入虛空時，你將被傳送到地獄。你的位置將為**x/8 y=258 z/8**。\n\n## 設定選單\n<img src=\"https://cdn.modrinth.com/data/cached_images/741cc2172e28eab192efa5a1b938ba0d4282a4b9_0.webp\" alt=\"New Config Menu\" width=\"50%\">\n\n你可以使用 Minecraft 的對話方塊選單來更改此數據包的設定。\n\n### 開啟設定：\n```\n/function fallen_from_heaven:config/get_info\n```\n或點擊重新載入訊息上的 ⛏ 圖示：\n\n![Reload Message](https://cdn.modrinth.com/data/cached_images/eda70e47b8bbb41c3d3ee95bd80e2bf10ed6ec67.png)\n\n### 可自訂設定\n\n**保留座標：** 當掉入終界維度的虛空時，你會在世界重生點上方的高空生成。啟用此選項後，座標將保持不變。\n\n**天空島模式：** 當掉入虛空時，你將在同一個維度的遙遠高空降落。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

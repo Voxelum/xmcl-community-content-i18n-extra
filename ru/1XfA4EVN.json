@@ -1,6 +1,6 @@
 {
-  "bodyHash": "fUbWj/WIgA0=",
-  "content": "Бывало ли у вас так, что дверь была сломана из-за Зомби, который просто не мог удержать руки подальше от неё?\n\nТеперь у них появился новый объект раздражения — свет!\n\nВ настоящее время они будут искать следующие источники света и стараться избавиться от них, если смогут:\n- minecraft:torch\n- minecraft:wall_torch\n- minecraft:lantern\n- minecraft:shroomlight\n- minecraft:redstone_lamp\n- minecraft:campfire\n- minecraft:beacon\n\nСписок в настоящее время жёстко закодирован, потому что я пока не представляю, как создать полноценную систему конфигураций (пока что).\n\n![](https://user-stats.itssimple.se/p/q230LH5oE)",
+  "bodyHash": "7debab9ad66c9146",
+  "content": "\n\nВам когда-нибудь ломали дверь из-за зомби, который не мог от неё оторваться?\n\nТеперь их новым объектом раздражения стал свет!\n\nСейчас они будут искать следующие источники света и пытаться уничтожить их, если получится:\n- minecraft:torch\n- minecraft:wall_torch\n- minecraft:lantern\n- minecraft:shroomlight\n- minecraft:redstone_lamp\n- minecraft:campfire\n- minecraft:beacon\n\nНа данный момент список жёстко прописан в коде, так как я пока не знаю, как реализовать полноценную систему настроек.\n\n![](https://user-stats.itssimple.se/p/q230LH5oE)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

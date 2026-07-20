@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3ec953692456fe69",
+  "content": "\n\n**Fabric 版本需要 Fabric API 且版本為 0.15.11 或更新**\n\n**NeoForge 1.21.1 版本需要 21.1.215 或更新**\n\n此模組新增了一個以 Fargo's Souls 中的 Mutant（變異體）為靈感啟發的 Herobrine 頭目。\n\n如果你不瞭解，Mutant 是一個來自 Terraria 模組的頭目，會使用所有原版頭目的攻擊方式。\n\n我想做點類似的东西，所以開發了這個模組。\n\n召喚\n\n-要召喚這位兄弟很簡單。只要搭建你經典的 Herobrine 祭壇即可。\n\n-頂部需放置下界岩，兩側放置任意火把，底部放置任意信標方塊。\n\n攻擊方式\n\n-瞬移到你面前並拍手，產生類似監守者的音爆。\n\n-當生命值低於 25% 時，此攻擊會改為向前翻滾，隨後釋放震波。\n\n-瞬移到你正上方，開始蓄力苦力怕爆炸。\n\n-當生命值低於 25% 時，此攻擊會改為釋放守卫者光束。\n\n-飛向空中召喚較大的惡魂火球，然後丟向你。\n\n-當生命值低於 50% 時，火球會改為 3 顆移動緩慢的終界龍火球。\n\n-跺腳並在周圍生成一圈唤魔者尖牙。\n\n-當生命值低於 50% 時，此攻擊會改為空中瞬移，隨後傾瀉大量傷害藥水。\n\n-向上漂浮並召喚一群無追蹤特性的潜影貝子彈，隨後將其發射至目標。\n\n-當生命值低於 50% 時，此攻擊會改為釋放凋靈骷髏風暴。\n\n-當生命值低於 50% 時，Herobrine 會獲得新攻擊。他會向後跳躍，接著連續進行 3 次激流衝刺。被此攻擊擊中會引來雷擊。\n\n擊敗 Herobrine 後，你將獲得「奪回黑夜」（Take Back the Night）進度，首次擊敗給予 650 點經驗值（後續每次給予 500 點）。\n\n此外，值得注意的是，同一時間只能召喚 1 隻 Herobrine。\n\n你可以在這裡觀看完整戰鬥影片：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/sAOG-cLXQDA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n**已知問題：**\n\n-載入包含未召喚但已激活的 Herobrine 祭壇的區塊時，有時可能會直接生成他。\n\n**相容性：**\n\n_Mob AI Tweaks_\n\n-受「瘋狂生物」模式遊戲規則影響。\n\n-可與頭目召喚與死亡公告功能正常搭配使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

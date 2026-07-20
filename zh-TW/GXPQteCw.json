@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7ea3df529887d6c",
+  "content": "\n\n![Title-Header](https://raw.githubusercontent.com/Stein-N/resources/main/images/resource_ores/nether/Title_Header_Nether.png)\n\n### 將所有原版礦石新增至下界維度\n\n#### 功能特色：\n- 礦脈大小與每區塊的生成數量均依照原版機制\n- 會自動套用您目前啟用的資源包\n- 同時內附 x32 與 x64 解析度的資源包，並會放置於您的 `resourcepacks` 資料夾中\n  - 若您使用的是較舊版本，可手動下載資源包\n    - [地獄礦石資源包 x32](https://raw.githubusercontent.com/Stein-N/resources/main/resourcepacks/Resource%20Nether%20Ores/Resource%20Nether%20Ores%20x32.zip)\n    - [地獄礦石資源包 x64](https://raw.githubusercontent.com/Stein-N/resources/main/resourcepacks/Resource%20Nether%20Ores/Resource%20Nether%20Ores%20x64.zip)\n\n### 免責聲明\n由於時間有限，我僅積極支援 1.21.1 及其最新的小版本更新。\n\n![Block Preview Render](https://raw.githubusercontent.com/Stein-N/resources/main/images/resource_ores/nether/block_render.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

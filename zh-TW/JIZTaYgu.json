@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ec42da3b63106f9a",
+  "content": "\n\n厭倦了手動建造大量結構了嗎？\n\n\n使用 MBTool！ \n\n \n支援來自以下模組的結構：Mekanism、Immersive Engineering、Immersive Petroleum、NuclearCraft、QMD、IC2、TConstruct、Extreme Reactors、Draconic Evolution\n\n可於模組設定檔中加入自訂的多區塊結構。\n \n\n按下 SHIFT+LBM 開啟介面。選擇結構並進行建造。\n\n使用方向鍵旋轉。\n\n建造前須將所需方塊置入背包。\n\n需消耗 RF/EU 能源與玩家經驗值。\n\n建造會消耗飢餓值。\n\ngeneral {\n# 放置單一方塊所需的能源消耗（RF）\nI:energy_per_block=10\n\n# RF\nI:mbtool_energy_capacity=10000\n\n# 每次建造玩家損失的飽食度\nI:saturation_per_building=1\n\n# 放置單一方塊所需的經驗值\nI:xp_per_block=1\n}",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

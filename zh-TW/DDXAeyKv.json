@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1638e2dfe83a04c7",
+  "content": "\n\n# Dumped Carpet Addition\n一款為 Carpet 新增有趣功能的擴充模組。\n\n## 功能\n### 修復大型橡木（fancy_oak）枝幹生成錯誤\n已修復 MC-258302：橡木枝幹在負 Y 值時生長不一致的問題。\n - 名稱：`largeOakGenerationFix`\n - 類型：`boolean`\n - 預設值：`false`\n - 分類：`experimental`, `bugfix`\n\n### 重新實作線繩複製器\n已重新實作 MC-59471：可使用絆線鉤複製線繩。\n - 名稱：`stringDuperReintroduced`\n - 類型：`boolean`\n - 預設值：`false`\n - 分類：`experimental`, `feature`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
