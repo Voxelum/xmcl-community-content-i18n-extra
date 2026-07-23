@@ -1,0 +1,12 @@
+{
+  "name": "xmcl-community-content-i18n-extra",
+  "private": true,
+  "type": "module",
+  "description": "Build read-only translation databases from the per-locale JSON snapshots.",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "build": "node scripts/build_db.mjs"
+  }
+}
