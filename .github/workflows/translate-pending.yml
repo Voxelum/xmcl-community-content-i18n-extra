@@ -1,0 +1,89 @@
+name: Translate pending content
+
+# Claims metadata-only requests from the Mongo/Cosmos translation ledger,
+# re-fetches the upstream source, and publishes only changed locale JSON files.
+# Ledger status stays pending, succeeded, or failed; lease ownership is held in
+# claimedBy, claimToken, and leaseExpiresAt rather than a processing status.
+#
+# Required repository/environment secrets:
+#   MONGO_CONNECION_STRING  MongoDB / Cosmos connection string (spelling is legacy)
+#   AGNES_API_KEY           Agnes/OpenAI-compatible translation API key
+#   CURSEFORGE_KEY          Required when CurseForge requests are pending
+# Optional secret:
+#   MONGODB_NAME            Database name; defaults to "coturn"
+#
+# Optional repository variables:
+#   AI_TRANSLATION_ENDPOINT OpenAI-compatible chat-completions endpoint
+#   AI_TRANSLATION_MODEL    Chat model; defaults to "agnes-2.0-flash"
+
+on:
+  schedule:
+    # Daily at 02:20 UTC, before the weekly full cache-to-repo sync.
+    - cron: "20 2 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Inspect pending work without claiming, translating, or writing.
+        required: false
+        default: false
+        type: boolean
+      limit:
+        description: Maximum request records to inspect or process (1-500).
+        required: false
+        default: "25"
+        type: string
+      language:
+        description: Optional exact locale, such as zh-CN. Leave blank for every locale.
+        required: false
+        default: ""
+        type: string
+
+# This is shared with the cache-to-repo sync because both workflows write the
+# same <locale>/<id>.json paths and create commits.
+concurrency:
+  group: translation-content
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Claim and translate pending requests
+        id: translate
+        env:
+          MONGO_CONNECION_STRING: ${{ secrets.MONGO_CONNECION_STRING }}
+          MONGODB_NAME: ${{ secrets.MONGODB_NAME }}
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
+          CURSEFORGE_KEY: ${{ secrets.CURSEFORGE_KEY }}
+          AI_TRANSLATION_ENDPOINT: ${{ vars.AI_TRANSLATION_ENDPOINT }}
+          AI_TRANSLATION_MODEL: ${{ vars.AI_TRANSLATION_MODEL }}
+          TRANSLATION_WORKER_DRY_RUN: ${{ inputs.dry_run || 'false' }}
+          TRANSLATION_WORKER_LIMIT: ${{ inputs.limit || '25' }}
+          TRANSLATION_WORKER_LANGUAGE: ${{ inputs.language }}
+          TRANSLATIONS_OUT_DIR: "."
+        run: deno task translate
+
+      - name: Commit changed static content
+        if: ${{ steps.translate.outputs.changed == 'true' }}
+        env:
+          CHANGED_FILES: ${{ steps.translate.outputs.files }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- $CHANGED_FILES
+          if git diff --cached --quiet; then
+            echo "No static-content changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: translate pending content ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push

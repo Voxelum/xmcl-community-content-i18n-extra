@@ -1,9 +1,14 @@
 {
+  "nodeModulesDir": "auto",
   "imports": {
-    "mongo": "https://deno.land/x/mongo@v0.31.1/mod.ts"
+    "@std/assert": "https://deno.land/std@0.154.0/testing/asserts.ts",
+    "mongo": "https://deno.land/x/mongo@v0.31.1/mod.ts",
+    "xxhash-wasm": "npm:xxhash-wasm@^1.1.0"
   },
   "tasks": {
     "sync": "deno run --allow-net --allow-read --allow-write --allow-env scripts/sync_translations.ts",
-    "dump": "deno run --allow-net --allow-read --allow-write --allow-env scripts/dump_translations.ts"
+    "dump": "deno run --allow-net --allow-read --allow-write --allow-env scripts/dump_translations.ts",
+    "translate": "deno run --allow-net --allow-read --allow-write --allow-env scripts/translation_worker.ts",
+    "test": "deno test --allow-read --allow-write --allow-net scripts/*_test.ts"
   }
 }

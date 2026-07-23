@@ -19,7 +19,7 @@ on:
 
 # Never let two syncs run at once; let an in-flight one finish.
 concurrency:
-  group: sync-translations
+  group: translation-content
   cancel-in-progress: false
 
 permissions:
