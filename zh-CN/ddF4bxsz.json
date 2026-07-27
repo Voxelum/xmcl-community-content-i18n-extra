@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8e4752301a562247",
+  "content": "\n\n![横幅](https://cdn.modrinth.com/data/cached_images/8b6ab12fe78224449b34eadd3eee6b2a77ef0364_0.webp)\n# ⭐ 优化整合包\n**这是一款专注于优化的轻量级整合包，旨在最大化性能。仅包含精心挑选的优化模组，不附带任何多余模组，这也是它与其它整合包的不同之处。**\n## ✨ 特性\n- **极致性能**\n- **快速更新**\n- **预配置设置**\n- **丰富的选择（[Sodium](https://modrinth.com/mod/sodium)、[Vulkan](https://modrinth.com/mod/vulkanmod)、[Embeddium](https://modrinth.com/mod/embeddium) 和 [Celeritas](https://git.taumc.org/embeddedt/celeritas)）**\n## 💽 安装\n- **使用 [Modrinth App](https://modrinth.com/app)，或使用其他支持从 Modrinth 安装整合包的启动器，例如 [PrismLaucher](https://prismlauncher.org/)**\n- **如果使用官方启动器，请使用 [Modrinth Pack to Zip Converter](https://jamie.codeberg.page/mrpack-to-zip/@master/) 将 .mrpack 文件转换为 .zip 格式**\n## 🧩 Java 与启动参数\n- **使用 [Java Eclipse Temurin 25](https://adoptium.net/)，并添加以下启动参数：`-XX:+UseZGC -XX:+UseCompactObjectHeaders`**\n- **更多详情，请[阅读该文章](https://unascribed.com/garden/jvm-args/)**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

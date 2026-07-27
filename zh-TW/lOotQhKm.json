@@ -1,0 +1,6 @@
+{
+  "bodyHash": "268c6318a3b28945",
+  "content": "![展示 26.1 快照 2 中引入的所有新幼年生物模型的图片](https://cdn.modrinth.com/data/cached_images/6756c703b4e7e73c6a2b6edbbfbb09f92c88325b.webp)\n将 26.1 快照 2 的新幼年动物和兔子模型移植到 1.21.11！(未来可能还会支持更多版本！)\n\n如果你想让眼睛看起来呆萌，想要覆盖纹理，请参考[源代码](https://github.com/michiel1106/cute-animals-backported-template-1.21.11/tree/master/src/main/resources)，并按照文件结构找到你想要修改的纹理。\n\n<br>\n\n常见问题解答 (Q&A)\n\n**为什么要做这个？**\n- 我就是有点想这么做。\n\n**如果新的快照中添加了新的动物模型，你会添加吗？**\n- 如果足够多的人希望我添加，那么是的，很可能会。\n\n**我如何将纹理和模型更改为我想要的样式？**\n- 除非你编写自己的模组代码，否则无法更改模型。你可以查看我是如何做的，然后添加你自己的模型，或者使用 Entity Texture Features（实体纹理特性）和 Entity Model Features（实体模型特性）。如果你想更改纹理，请参阅常见问题解答上方的文本。\n\n\n加入 [Discord](https://discord.gg/p6ShJPq98d) 服务器。你可以在这里寻求帮助、请求模组、提出建议、闲聊，或者向我索取我已制作模组的源代码（如果我还保留着的话）。\n\n或者，如果你心情慷慨，可以在我的 [Ko-fi](https://ko-fi.com/bikerboys) 上捐赠！\n\n或者，如果你想在不增加额外成本的情况下帮助我赚取一些收入，请使用此链接在 Bisect Hosting 上创建服务器：https://url-shortener.curseforge.com/hknUB",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

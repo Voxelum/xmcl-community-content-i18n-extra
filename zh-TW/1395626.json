@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5712a7df31a49632",
+  "content": "\n\n<h3>Lithic Trees 是一款 Terrafirmacraft 擴充模組，負責處理 <a href=\"https://www.curseforge.com/minecraft/modpacks/lithic-tfc\" target=\"_blank\" rel=\"nofollow\">Lithic 整合包</a> 的樹木相關內容。</h3>\n<h3>&nbsp;</h3>\n<h3>&nbsp;</h3>\n<h3>樹木氣候需求：</h3>\n<ul>\n<li>樹木生長需要正確的年平均溫度與降雨量。</li>\n<li>樹木生長透過標籤 \"<strong>lithictrees:saplings\"</strong> 列入白名單。</li>\n<li>氣候資料會搭配數據包系統，透過 \"<strong>data/lithictrees/tree_climates</strong>\" 載入。</li>\n</ul>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>目前仍在開發中，仍需進一步打磨完善。雖然在其他環境中應該也能正常運作，但不建議在 Lithic 整合包以外使用。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

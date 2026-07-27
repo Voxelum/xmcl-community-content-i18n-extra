@@ -1,0 +1,6 @@
+{
+  "bodyHash": "47fba1bf1df048df",
+  "content": "\n\n# 极限模式增强\n\n你是否曾和朋友在极限模式世界中玩得不亦乐乎，直到那个_某玩家_开始垂直向下挖坑，直至迎来死亡？那么这款模组或许正是你想要的！\n\n## 这是什么？\n### 为极限模式世界添加复活机制的模组。\n\n每次死亡都将**永久失去心数**。\\\n可以通过食用附魔金苹果来恢复心数。\\\n你可以自定义每次失去与恢复的心数，以及是否允许心数超过 10 颗。\n\n**对于 PvP**，你可以禁用心数损失，甚至可以设置通过 PvP “窃取”多少心数。\n\n![剩余 3 颗心](https://cdn.modrinth.com/data/cached_images/104266e4690c6903f51e5099bcab27e65a52d2c9.png)\n\n## 如何使用？\n创建一个**极限模式**世界，并修改以下游戏指令（Gamerules）：\n- **hc-additions:revive_heart_loss**\\\n_（失去的心数，默认值：2）_\n\n- **hc-additions:apple_heart_restore**\\\n_（恢复的心数，默认值：1）_\n\n\n- **hc-additions:allow_bonus_hearts**\\\n_（是否允许心数超过 10，默认值：false）_\n\n\n- **hc-additions:pvp_heart_loss**\\\n_（PvP 中是否扣除心数，默认值：true）_\n\n\n- **hc-additions:pvp_heart_steal**\\\n_（通过 PvP 击杀获得心数，默认值：0）_\n\n##\n### 补充说明\n**多人游戏：** 未安装此模组的玩家将会看到“观战世界”而不是“复活”。这仅是显示上的变化，实际行为保持一致。\n\n目前，此模组仅适用于**极限模式世界**。未来可能会有所改变。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e9da43b8413e59e1",
+  "content": "\n\n一個簡單的資源包，將 [henkelmax](https://modrinth.com/user/henkelmax) 的 [Status](https://modrinth.com/mod/status) 模組中的「錄音中」和「串流中」狀態改為「無法語音」與「開放語音」，專為搭配 [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) 使用而設計。\n\n![遊戲內狀態選單的截圖。外觀與平常相同，但第二個類別中原本顯示「錄音中」和「串流中」的兩個按鈕，現在分別改為「無法語音」和「開放語音」。「開放語音」的顏色為綠色，與「串流中」的紫色不同。](https://cdn.modrinth.com/data/cached_images/99c76548263ed243890608739d6258649e89b4e0_0.webp)\n\n這個圖示單純只是將 Simple Voice Chat 的圖示疊在 Status 的圖示上方。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

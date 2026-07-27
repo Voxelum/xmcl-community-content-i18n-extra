@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5f95a06a99818cd4",
+  "content": "<h1>Walksy Lib</h1>\n\n一个基于构建器的配置库，旨在集成到我的模组中。\n\n功能\n---\n- **序列化与反序列化**配置系统  \n- **标准选项与唯一性选项**，包括：  \n  - **布尔选项**\n  - **数值选项**  \n  - **颜色选项**  \n  - **枚举选项** \n  - **精灵/纹理选项** — 支持拖放自定义图片  \n  - **像素网格选项** — 使用动画创建自定义像素艺术（适用于粒子、图标等...）  \n  - **字符串选项**  \n  - **字符串列表选项**\n\n灵感来源\n---\n我从许多我最喜欢的配置库中汲取了灵感，主要包括：\n- [YACL](https://modrinth.com/mod/yacl)\n- [UkuLib](https://modrinth.com/mod/ukulib)\n- [Cloth Config](https://modrinth.com/mod/cloth-config)\n- [MidnightLib](https://modrinth.com/mod/midnightlib)\n\n致谢\n---\n- **模组：** Walksy\n- **图标：** Vqki",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

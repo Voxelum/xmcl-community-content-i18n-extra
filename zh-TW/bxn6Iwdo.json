@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77631a69cbf5e068",
+  "content": "# ⚠️ 廢置通知 ⚠️\n\n## **從 Minecraft 1.21 開始，NeoForge 已經內建 Fabric 的 Mixin 分支，不再需要 MixinBooster。**\n\n---\n\n# Mixin Booster\n\n如果你是模組製作者並希望少一點痛苦，那麼這就是給你的。\n\n## 這是什麼\n\n此專案取代了 (Neo)Forge 所使用的 Sponge（經典）Mixin，改使用 Fabric 版本，擁有更多功能（如介面和建構子注入）。\n\n有些模組可能會以這個專案來修改遊戲，以提高相容性。\n\n## 使用方法\n\n模組製作者只需依賴此模組，並讓用戶安裝它，它會在執行時透過替換其模組來源來取代 Mixin 版本。\n\n## 動機\n\nhttps://github.com/Sinytra/Connector/discussions/383",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

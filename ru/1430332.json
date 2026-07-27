@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d6f010b362b64209",
+  "content": "\n\n<p>Патч с правками моделей и текстур, обеспечивающий совместимость мобов из мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/more-mob-variants\" rel=\"nofollow\">More Mob Variants</a> с новым форматом анимаций <a href=\"https://www.curseforge.com/minecraft/texture-packs/fresh-animations\" rel=\"nofollow\">Fresh Animations</a>.</p>\n<p>Этот пакет включает правки текстур мобов мода, а также изменения моделей Fresh Animations.</p>\n<p>Для работы моделей требуется OptiFine или EntityModelTextures+EntityModelFeatures. Убедитесь, что этот пакет расположен /выше/ Fresh Animations.</p>\n<p>Примечание: пока нет совместимости с изменением моделей для температурного варианта при использовании более новых версий игры или модов-бэкпоров ванили, однако эта функциональность скоро будет добавлена!</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

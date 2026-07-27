@@ -1,0 +1,6 @@
+{
+  "bodyHash": "329b5f359c1fafc8",
+  "content": "\n\n<p>一款為遊戲加入敵對玩家生物的模組。</p>\n<p>您可以在設定檔中新增名稱，以在遊戲內使用更多名稱。\n您也可以新增連結至回傳按換行分隔之名單的頁面。\n您可以使用類似此頁面的網站 <a href=\"/linkout?remoteUrl=https%253a%252f%252fwhitelist.gorymoon.se%252f\" rel=\"nofollow\">whitelist.gorymoon.se</a> 來取得 Twitch 訂閱者名單。</p>\n<p>當用於伺服器時，您可以將白名單加入生物可用的名稱列表中。\n這些生物可以對與自己同名的人類玩家表現友善。\n這些生物可以掉落其對應皮膚的頭部。</p>\n<p>根據設定選項，玩家被擊殺時也有可能掉落自己的頭部。</p>\n<p>若要手動重新載入遠端名稱清單，可使用以下指令：\n<strong><em>/playermobs reload</em></strong></p>\n<p>若要手動生成生物，可使用以下指令：\n<strong><em>/playermobs spawn &lt;name&gt; [pos]</em></strong>（其中 <strong>pos</strong> 為選填）</p>\n<p>以下是使用召喚指令生成生物的例子：\n<strong><em>/summon player_mobs:player_mob ~ ~ ~ {&quot;Username&quot;:&quot;Gory_Moon&quot;}</em></strong></p>\n<h2>自訂皮膚貼圖</h2>\n<p>關於為玩家生物新增或覆蓋貼圖的更多資訊，請見<a href=\"https://github.com/GoryMoon/PlayerMobs/wiki/Custom-player-mob-skins\" rel=\"nofollow\">此處</a></p>\n<h2>待辦事項/下一步</h2>\n<p>新增資料包支援以實現特殊生成。</p>\n<h2>發現錯誤/有想法/有請求？</h2>\n<p>請在我的 GitHub 問題追蹤器上回報錯誤、分享想法或提出請求。</p>\n<h2>整合包？</h2>\n<p>您可以自由地在整合包中使用此模組。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

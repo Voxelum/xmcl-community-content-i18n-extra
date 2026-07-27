@@ -1,0 +1,6 @@
+{
+  "bodyHash": "448143c8219c80e2",
+  "content": "# 网络阻止器\n\n## 概述\n\n网络阻止器是一个实用模组，允许您阻止不需要的网络连接。默认情况下，只允许连接到 Minecraft 服务，这些服务是用于身份验证等所必需的。IP 连接也是允许的，但可以在配置文件中更改此设置。通过查看日志，您可以了解哪些连接被阻止了。\n\n该模组目前处于测试阶段。它可能无法检测并阻止某些连接，因此不应被视为防止恶意模组的综合安全措施。\n\n## 配置\n\n您可以在 `config/networkblocker/config.toml` 中找到主配置文件：\n\n```toml\n#当启用时，将被允许的连接记录到日志中\nlogPermitted = false\n#当启用时，将被阻止的连接记录到日志中\nlogBlocked = true\n#当启用时，将记录堆栈跟踪信息\nlogStacktrace = false\n#当启用时，即使不在白名单中，也将允许直接 IP 连接\nallowIP = true\n#设置为 true 可向白名单中添加一些有用的域。当前默认值为：\n#\n#minecraft.net\n#minecraftservices.com\n#minecraft-services.net\n#mojang.com\n#\n#可以使用配置文件夹中的文件向白名单添加其他域名。\nuseDefaultWhitelist = true\n#指定用于阻止网络连接的方法。有效值包括：\n#REDIRECT: 将地址重定向为 0.0.0.0\n#THROW: 抛出异常\nblockMethod = \"REDIRECT\"\n```\n\n您可以在 `config/networkblocker/whitelist.txt` 中将域添加到白名单中：\n\n```\n#在此文件中按每行一个的方式向白名单添加额外域名\n#以 # 开头的行将被忽略。\n#\n#示例：\nminecraft.net\n\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

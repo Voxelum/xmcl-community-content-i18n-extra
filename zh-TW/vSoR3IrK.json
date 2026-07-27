@@ -1,0 +1,6 @@
+{
+  "bodyHash": "baed9d48d4c17e94",
+  "content": "### 加入我們的 [discord](https://discord.com/invite/VFnHmXzNrm) 來報告問題或提出建議。\n\n俄語翻譯：[https://modrinth.com/datapack/rusinfo-tools](https://modrinth.com/datapack/rusinfo-tools)\n\n## 簡介\n這個簡單的數據包將 [Vanilla Tweaks](https://vanillatweaks.net) 座輔 HUD 數據包拆分，需要玩家在物品欄中擁有時鐘和/或指南針。\n\n## 使用方法\n\n### 設置\n使用 `/trigger info_tools.config` 訪問設置選單。\n\n### 指南針\n指南針會在動作條顯示當前位置和朝向，讓不熟悉 F3 菜單的玩家更方便易讀。\n\n### 時鐘\n時鐘以 24 小時制顯示當前時間，並會顯示“白天”或“夜晚”後接數字。“白天”表示當前是白天且無法睡覺，“夜晚”表示當前是夜晚且可以睡覺。白天/夜晚指示符之後的數字代表具體的小時數。\n\n### 鞍騎乘馬型生物（馬、 Zombie 馬、骷髏馬、驢或駱馬）且裝備鞍後，會顯示該生物的移動速度和跳躍統計數據。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

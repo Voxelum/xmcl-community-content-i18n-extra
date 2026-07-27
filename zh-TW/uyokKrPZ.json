@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d0d5153ed6e6fe8f",
+  "content": "### 這個模組（尤其是在目前狀態下）更像是一個概念驗證，而非真正的優化模組！\n它存在許多問題，並且會大幅降低主渲染線程的性能（即使已禁用），\n因此在進行性能比較時，請使用未安裝此模組的實例。\n\n# 關於\n**非同步重投影（Asynchronous Reprojection）** 創建第二個渲染上下文，以從主渲染線程非同步地重新投影具有新相機旋轉和玩家位置的幀。\n\n它受到了 Comrade Stinger 的演示的啟發，該演示也是着色器代碼的基礎：\nhttps://www.youtube.com/watch?v=VvFyOFacljg\n\n已知問題：\n- Fabric 版本僅適用於 Windows 和 Linux（我尚未在 macOS 上測試）。Forge 版本僅適用於 Windows。\n- 截圖（F2）和世界圖標無法正常工作——它們是黑色的。\n- 輕微的視覺故障。\n- 相機晃動已禁用。\n- 「極致（Fabulous）」圖形設置相比「精緻（Fancy）」沒有任何變化。\n- 打開或關閉 GUI 時，相機有時會自行旋轉。\n- Forge 版本在啟動期間嘗試調整窗口大小時會崩潰。\n- 它有時會隨機崩潰（沒有特定原因）。\n\n# 範例\n\n![](https://cdn.modrinth.com/data/uyokKrPZ/images/caf3724e2f1866edf2b4ff1e44793af006bf629e.png)\n\n![](https://cdn.modrinth.com/data/uyokKrPZ/images/98eaa0e2ac8766b781027f9d5af75dee96088574.png)\n\n![](https://cdn.modrinth.com/data/uyokKrPZ/images/e95c84041b4fe5ec8e12da5b31330f328272562a.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

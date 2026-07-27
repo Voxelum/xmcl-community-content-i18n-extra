@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9b617fbfabe21822",
+  "content": "\n\n# WrongResourcePackDetector\n检测玩家是否在错误的位置加载了资源包。\n\n目前支持：\n- 不应出现在光影包目录中的资源包\n- 嵌套资源包\n\n## 崩溃原因\n本模组与以下模组兼容，请检查你是否安装了其中任何一个：\n\n- Iris (NeoForge/Fabric)\n- OptiFine (Forge)\n\n## 对于整合包\n只要你遵守许可证协议，就可以自由地将其用于整合包。\n\n重新分发 Minecraft 游戏本体的整合包（即把包含模组文件、配置文件、光影包、资源包、库文件和启动器在内的整个 Minecraft 游戏打包成一个完整 zip 文件的安装包）不允许使用本模组。\n\n## 许可证\n\n为防止某些意外行为，本作品在原许可证之外附加了一项限制性许可证，\n请参阅 [404Setup 公共许可证](https://github.com/404Setup/404Setup/blob/main/LICENSE.md)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

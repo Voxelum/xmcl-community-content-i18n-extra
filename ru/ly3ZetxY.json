@@ -1,0 +1,6 @@
+{
+  "bodyHash": "43e3c9a9b89abed0",
+  "content": "\n\nЭтот мод загружает звук из config/fancymenu/assets/audio.wav. FancyMenu не требуется: если у вас нет FancyMenu, просто создайте папки fancymenu/assets/ в config и поместите туда ваш стартовый звук с именем audio.wav (с учётом регистра, так как это путь к файлу).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

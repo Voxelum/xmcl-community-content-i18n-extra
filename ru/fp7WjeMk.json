@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b24c01ffa03d546",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/XC809yLzDts\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nЭто моя первая полноценная мода, поэтому ожидайте несколько багов. Я определенно продолжу работу, пока разберусь с Forge API.\n\nЭтот мод вносит небольшие изменения в систему смерти.\n\nТекущие \"особенности\":\n\n    Черный экран при смерти, длительностью на небольшое время\n    Мгновенное возрождение — БЕЗ ЭКРАНА СМЕРТИ\n    Вся аудио-система останавливается, пока вы мертвы\n\nТакже, если у вас возникнут проблемы, оставляйте их в репозитории на GitHub, а не в комментариях.\n\n[Ссылка на Curseforge](https://www.curseforge.com/minecraft/mc-mods/notafreaks-better-death)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

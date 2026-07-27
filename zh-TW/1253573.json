@@ -1,0 +1,6 @@
+{
+  "bodyHash": "21947c8e0c80555b",
+  "content": "\n\n<h1>Mechanicals Lib</h1>\n<p>用於 NeoForge 模組開發的函式庫。主要適用於 Create 擴充模組，但不限於此。</p>\n<h2><a href=\"/linkout?remoteUrl=https%253a%252f%252fwiki.mechanicalmods.net%252fmods%252fmechanicals-lib%252f\" target=\"_blank\" rel=\"nofollow\">專屬維基</a></h2>\n<h2>將相依套件加入專案</h2>\n<ul>\n<li><code>build.gradle</code> 存放庫：</li>\n</ul>\n<pre><code>    maven {\n        url \"<a href=\"/linkout?remoteUrl=https%253a%252f%252fmaven.fosil.eu%252freleases\" target=\"_blank\" rel=\"nofollow\">https://maven.fosil.eu/releases</a>\"\n    }</code></pre>\n<ul>\n<li><code>build.gradle</code> 相依套件：</li>\n</ul>\n<pre><code>jarJar(implementation(\"com.oierbravo.mechanicals:Mechanicals:${minecraft_version}-${mechanicals_version}\"))</code></pre>\n<ul>\n<li><code>gradle.properties</code> 變數：</li>\n</ul>\n<pre><code>minecraft_version=1.21.1\nmechanicals_version=4.28 #Use always latest.</code></pre>\n<h2>授權條款</h2>\n<ul>\n<li>Mechanicals Lib 採用 LGPL3 授權條款。有關詳細資訊，請參閱 <a href=\"LICENSE\" target=\"_blank\" rel=\"nofollow\">LICENSE</a>。</li>\n<li>部分程式碼片段源自 Create 模組，該模組採用 MIT 授權條款。有關詳細資訊，請參閱 Create 的授權文件。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "84516c82f257c605",
+  "content": "\n\n<h1 style=\"text-align: left;\">Информация</h1>\n<hr>\n<p style=\"text-align: left;\">Это мод, который выключает ваш сервер через настраиваемое время после того, как на нём не останется ни одного игрока онлайн.</p>\n<p style=\"text-align: left;\">Этот мод задуман для совместной работы с <a href=\"https://github.com/vincss/mcsleepingserverstarter?tab=readme-ov-file\" target=\"_blank\" rel=\"nofollow noopener\">McSleepingServerStarter</a>.</p>\n<h1 style=\"text-align: left;\">&nbsp;</h1>\n<h1 style=\"text-align: left;\">Как использовать</h1>\n<hr>\n<p>Поместите этот мод в папку mods <span style=\"text-decoration: underline;\"><strong>только на стороне сервера</strong></span>.</p>\n<p>Настройте задержку выключения в <strong>config -&gt; noplayershutdown-server.toml&nbsp;</strong>или <strong>noplayershutdown</strong><strong>-common.toml.</strong></p>\n<p>Задержка выключения по умолчанию составляет 30 минут, то есть сервер выключится через 30 минут после того, как на нём не останется игроков онлайн.</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

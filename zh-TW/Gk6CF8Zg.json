@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ceb80efaea6d584a",
+  "content": "\n\n# Breeze N' Rods\n[![在 Modrinth 下載](https://img.shields.io/badge/Download-Modrinth-1bd96a?style=for-the-badge\\&logo=modrinth\\&logoColor=white)](https://modrinth.com/datapack/better-peaceful)\n[![Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge\\&logo=discord\\&logoColor=white)](https://discord.gg/xS85W48Cb3)\n## 概述\n\n**Breeze N' Rods** 是一個小型的便利性數據包，為風旋球和風旋棒新增了反向合成配方。\n\n安裝此數據包後，您可以合成：\n\n* **4 個風旋球** 🌪️ → **1 根風旋棒**\n\n在**原版 Minecraft**中，風旋棒可以**合成為風旋球**，但**無法將它們轉換回來**。這個數據包透過新增一個**簡單的逆向配方**來**修正這個問題**，讓您在需要時能將**風旋球轉換回風旋棒**。\n\n這對於**儲存與整理**特別實用，因為風旋棒能提升堆疊效率，並幫助**節省寶貴的物品欄空間**與**箱子容量**。\n\n### 配方：\n![配方 | 4 風旋球 -> 1 風旋棒](https://cdn.modrinth.com/data/cached_images/bf646e1e04cb395b414caee07d96a8e8f47a1273.png)\n\n### 功能特色\n\n**✔** **新增**風旋棒的**反向合成**配方\n\n**✔** **節省物品欄**與**儲存空間**\n\n**✔** 與**原版相容**且**平衡**\n\n**✔** 支援**多人遊戲**\n\n**✔** **輕量**且**安裝簡單**\n\n**✔** 不需**資源包**\n\n### 安裝方式\n\n1. 下載此數據包。\n2. 將其放入您世界的 `datapacks` 資料夾中。\n3. 執行 `/reload` 或重新啟動世界。\n4. 享受更方便的風旋球儲存方式！\n\n### 為什麼要使用此數據包？\n\n若您經常合成風旋球，它們很快就會塞滿您的物品欄與儲存空間。由於 Minecraft 原本就允許將風旋棒轉換成風旋球，本數據包僅補上缺失的反向配方，使該系統更實用且一致。\n\n**簡單、實用，且完全相容原版。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

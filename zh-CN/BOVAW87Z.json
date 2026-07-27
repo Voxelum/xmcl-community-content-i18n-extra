@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dae6ea6f5da32b59",
+  "content": "## 描述\nMore Hitboxes 允许模组开发者为实体添加多个碰撞箱，这些碰撞箱可以选择性地由 GeckoLib 动画进行控制。\n\n## 玩家\n如果你是因为其他模组的依赖需求而需要本模组，请下载适用于你当前 Minecraft 版本的 [Forge](https://modrinth.com/mod/more-hitboxes/versions?l=forge) 或 [Fabric](https://modrinth.com/mod/more-hitboxes/versions?l=fabric) 版本。\n\n## 开发者\n版本 1 提供以下功能：\n- 支持在数据包中定义多个碰撞箱\n- 可选地将这些碰撞箱附加到 GeckoLib 的骨骼/动画上\n- 可将碰撞箱标记为攻击箱，用于对玩家造成伤害\n- 提供 Blockbench 插件以辅助创建碰撞箱\n\n由于该库目前仅限于我的使用场景，版本 1 存在以下限制：\n1. 默认边界框仍用于碰撞检测\n2. 由 GeckoLib 触发的运动未同步至服务器\n3. 因此，攻击箱仅限于客户端，并且仅对玩家生效\n\n你可以在 [GitHub](https://github.com/DarkPred/MoreHitboxes) 上找到主要文档，并在将依赖项添加到构建脚本后查阅 javadoc 中的其他信息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

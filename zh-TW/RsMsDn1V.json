@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ee427bdf0ab8910",
+  "content": "\n\n# 🌿 Javor SMP\n\n一款專為與好友同樂而設計的舒適型、內容豐富的生存整合包。它將《我的世界》轉化為一個充滿生機、呼吸感十足的世界，洋溢著探索、耕種、烹飪與冒險的樂趣——同時完美保留了經典的原版生存手感。\n\n### 📦 版本選擇\n\n- **完整版** – 提供極致沉浸體驗，包含 Distant Horizons、先進的音效物理系統、環境音效、進食動畫及完整的視覺調校。\n- **輕量版** – 更輕量且節省效能。移除了佔用資源較高的視覺模組（如 Distant Horizons、Sound Physics Remastered、額外動畫等），在中等或低階電腦上能獲得顯著提升的幀數表現。\n\n兩個版本在多人連線中**完全相容**。\n\n### ✨ 遊戲特色\n- 完善的耕種與烹飪系統，基於 Farmer's Delight 生態系並搭配眾多擴充模組\n- 精美的世界生成技術，整合 Terralith、Incendium、Biomes O' Plenty 以及豐富的 YUNG's 地牢結構\n- 更具活力的村民生態，搭配 Minecraft Comes Alive 與 GuardVillagers\n- 動態季節變化與多項生活品質提升功能\n- 內建 FTB Backups 2 自動伺服器備份功能\n- 專為 SMP 伺服器客製化的經濟系統\n\n### ⚡ 效能優化\n深度整合 Sodium、Iris、Lithium、FerriteCore、ModernFix、C2ME、EntityCulling 等模組進行全面效能優化。\n\n### 📥 安裝方式\n\n**玩家安裝：**\n- 下載 **Javor SMP Full Client** 以獲得極致沉浸體驗\n- 下載 **Javor SMP Lite Client** 以提升執行效能\n- 將 `.mrpack` 檔案匯入 Modrinth App 或 Prism Launcher\n- 建立**全新世界**\n\n**伺服器擁有者：**\n- 下載對應的 **Full Server** 或 **Lite Server** 整合包\n- 所有玩家必須使用與伺服器相同的版本\n\n**建議記憶體配置：**\n- 完整版客戶端：6–8 GB\n- 輕量版客戶端：4–6 GB\n- 伺服器：8 GB 以上\n\n由於世界生成模組負擔較重，請務必使用**全新世界**。\n\n歡迎在 **Javor SMP** 與好友一起耕種、探索，並共同創造美好回憶！🌿",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d011ee5a81b4ea67",
+  "content": "<p>該模組僅供客戶端使用！</p>\n<p>&nbsp;</p>\n<p>此模組整合了各種主播的捐贈服務，並根據捐贈金額執行配置文件中的指定命令。</p>\n<p>&nbsp;</p>\n<p>目前支援四種服務：</p>\n<ul>\n<li>[WSS, REST] donationalerts.com</li>\n<li>[WSS, REST] donatepay.ru</li>\n<li>[REST] streamlabs.com</li>\n<li>[REST] 本機檔案</li>\n<li>[WSS] GoodGame.ru（自版本 2.1.5 起）</li>\n<li>[WSS] DonateX.gg（自版本 2.1.6 起）</li>\n</ul>\n<p>某些服務支援 WSS 整合，這意味著從捐贈到執行動作之間的延遲非常小（約為 1 秒）。其他服務則僅依賴定期的定時輪詢。</p>\n<p>除本機檔案外，所有服務都需要某種形式的身份驗證。請使用此網站：<a href=\"/linkout?remoteUrl=https%253a%252f%252fcwelth.com%252fomd%252findex.php\" target=\"_blank\" rel=\"nofollow\">https://cwelth.com/omd/index.php</a> 以取得所需的權杖。</p>\n<p><strong>請注意：<span style=\"color:#f00\">我不儲存任何您的資料！</span>該網站僅用於取得您捐贈服務的 OAuth 金鑰。</strong></p>\n<p>&nbsp;</p>\n<p>如果您希望我整合其他捐贈服務，請在此留言說明，我會盡力加入支援。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9263c11da0011e46",
+  "content": "\n\n武器的 3D 模型。左手持握時具備瞄準模式。此模型可用於替換預設插件提供的貼圖。\n操作步驟如下：\n1. 將 .json 檔案重新命名為您想要替換的模型名稱。\n2. 將重新命名的檔案放入 texture 資料夾中。\n3. 將 .png 檔案放入 texture 資料夾中。\n4. 開啟該 json 檔案，並將貼圖路徑修改為第 3 步中的路徑。\n\n此模型的特點在於風格接近寫實、採用深色調，且設計靈感源自現實武器。\n\n![mira](https://cdn.modrinth.com/data/cached_images/7b9f3fdd01e2491763f181e575f866f4deb72605.png)![hand](https://cdn.modrinth.com/data/cached_images/e6cd85541c7f1a79b17086f5062b8eae4507dfce_0.webp)![s](https://cdn.modrinth.com/data/cached_images/5a4480351799000a2109e4b67f2f0055115b5c74.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

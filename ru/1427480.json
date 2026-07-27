@@ -1,0 +1,6 @@
+{
+  "bodyHash": "512b6a696e95e39f",
+  "content": "\n\n<p>&nbsp;</p>\n<h3><span style=\"text-decoration:underline\">🪙 Bounty Mod</span></h3>\n<p><strong>Bounty Mod</strong> добавляет в Minecraft простую и удобную <strong>систему охоты за головами</strong>. Игроки могут размещать награды на других игроков, изменять их и просматривать все активные задания на доске охоты за головами.</p>\n<p>Идеально подходит для SMP, PvP-серверов или всех, кто хочет добавить дополнительные риски и награды в режим выживания.</p>\n<h4>🔧 Возможности</h4>\n<ul>\n<li>\n<p>Размещать награды на игроков</p>\n</li>\n<li>\n<p>Изменять существующие награды</p>\n</li>\n<li>\n<p>Просмотр всех активных заданий на доске охоты за головами</p>\n</li>\n<li>\n<p>Простые и понятные команды</p>\n</li>\n</ul>\n<h4>📜 Команды</h4>\n<ul>\n<li>\n<p><code>/setbounty &lt;player&gt; &lt;amount&gt;</code> &ndash; Разместить награду на игрока</p>\n</li>\n<li>\n<p><code>/adjustbounty &lt;player&gt; &lt;amount&gt;</code> &ndash; Изменить существующую награду</p>\n</li>\n<li>\n<p><code>/bountyboard</code> &ndash; Просмотреть все текущие награды</p>\n</li>\n<li>\n<p><code>/helpbounty</code> &ndash; Показать все доступные команды</p>\n</li>\n</ul>\n<h4>🎯 Цель</h4>\n<p>Больше опасности. Больше наград. Больше веселья.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b46500676c0a8542",
+  "content": "# 腰帶槽\n\n腰帶槽為玩家添加一個專屬的實用物品欄位，用於存放有用的生存道具。\n\nInstead of sacrificing your hotbar or offhand, keep a torch, totem, compass, potion, spyglass, or other supported item on your belt.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/mcOBhkxyGFw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 功能\n\n- 專屬腰帶實用欄位\n- 整合物品欄\n- HUD顯示\n- 玩家模型渲染\n- 可配置支援物品\n- 基於標籤的模組包支援\n- 伺服器權威行為\n\nBelt Slot 設計輕量、實用且相容原版遊戲環境。\n\n### 可選動態燈光整合\n\n如果用戶端和服務器上都安裝了 Dynamic Lights，Belt Slot 將自動對支援發光的腰帶物品使用此功能。\n\n_P.S.\n它不會嘗試取代你的物品欄或添加完整的首飾系統。\n它只給你一個專注的實用欄位，讓你在正常遊戲中感覺自然。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

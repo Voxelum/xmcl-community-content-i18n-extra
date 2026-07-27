@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a9170a865a49ab41",
+  "content": "# tconplanner\n\nTinkers' Blueprint 是一个面向 Tinkers' Construct 3 的客户端插件，允许玩家在工作台界面中预览组装好的工具并查看其属性。这有助于避免你精心制作工具却因实际效果不佳而感到失望的情况。\n\n安装此模组后，Tinker Station 和 Tinker's Anvil 的图形用户界面中将出现一个图标。点击它即可打开规划器界面。\n\n在这里，你可以自由设计由任意部件组合而成的工具（即使你手中没有这些部件），并预览最终成品的属性。\n\n你可以将“制作”好的工具设计保存为书签以便日后参考，根据特定属性（如挖掘速度和耐久度）对部件进行排序，甚至随机组合材料以获得乐趣。\n\n1.18.2 1.16.5 forge 作者\nhttps://modrinth.com/user/tiffit\nhttps://modrinth.com/mod/tinkers-planner\nhttps://www.curseforge.com/minecraft/mc-mods/tinkers-planner\nhttps://github.com/tiffit/tconplanner",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

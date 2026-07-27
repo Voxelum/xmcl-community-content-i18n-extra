@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dbe7c84b342c66c2",
+  "content": "<p>本模组的主要功能是建立<span style=\"text-decoration:underline\">游戏模式变更防护</span>，以防止管理员利用被视为作弊的命令和游戏模式谋取优势。</p>\n<p>完全生存意味着不能使用其他游戏模式（如创造模式/冒险模式等）。本模组<span style=\"text-decoration:underline\">可能会与其他某些模组不兼容</span>，特别是那些依赖特定命令或其他游戏模式才能正常工作的模组。</p>\n<p><em>已知问题</em></p>\n<p>* 聊天栏会生成多条作弊警告文本副本，而不是仅发送一条。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

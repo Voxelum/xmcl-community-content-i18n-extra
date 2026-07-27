@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d3866b80607e613e",
+  "content": "# Create：风车速度控制\n\n### 是否在 Create 中建造了精美的大型风车，却看着它像直升机一样疯狂旋转？\n\n**Create：风车速度控制** 添加了一种新的自定义风车轴承，允许你调整风车的**视觉旋转速度**，同时保持其机械性能不变。\n\n## ⚙️ 功能特性\n\n*   可调的视觉速度因子（10% - 100%）\n*   独立的旋转方向控制（原版行为）\n*   不改变生成的应力单位 (SU)\n*   不影响游戏平衡性\n*   兼容标准 Create 风车装置\n*   多人游戏中完全同步\n\n对于希望大型装饰性风车看起来更自然而不牺牲 Create 机制的建筑师来说，这是完美选择。\n\n## 🧩 前置要求\n\n*   Minecraft == 1.21.1\n*   NeoForge == 21.1.x\n*   Create == 6.0.8 至 6.0.10\n\n## 🛠 使用方法\n\n- 可以通过在基础`风车轴承`上方添加一个`黄铜锭` + 下方添加一个`精密机械块`进行合成（参考 JEI）\n- 方块友好名称：`Windmill Speed Control Bearing`\n- 方块完整名称：`create_windmill_speed_control:visual_windmill_bearing`\n\n## 🧭 开发路线图\n\n- 专用纹理贴图\n- 改进参数图标的位置布局\n- Fabric 版本（即将推出）\n- Forge 版本（即将推出）\n- _增加 Create 版本范围兼容性_：✅\n- Minecraft 1.20.1 兼容性\n\n## ⚠️ 注意事项\n\n- 本模组需要安装 Create 才能运行。\n- 目前处于积极开发阶段，未来可能会添加新功能。\n- 如果你使用光影，强烈建议安装 [Iris Flywheel Compat](https://modrinth.com/mod/iris-flw-compat/versions) 模组，以防止 Create 旋转方块/结构出现渲染问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

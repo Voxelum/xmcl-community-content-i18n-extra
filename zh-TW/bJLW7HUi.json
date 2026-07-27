@@ -1,0 +1,6 @@
+{
+  "bodyHash": "47dc5ad653c4269e",
+  "content": "**此專案為下方列出的模組中的方塊新增（並修改部分）Sable 屬性，例如質量、彈性等，讓它們在模擬構造物中使用时感覺更自然。**\n\n#### 目前支援的模組：\n- [↗](https://modrinth.com/mod/mekanism) Mekanism\n- [↗](https://modrinth.com/mod/farmers-delight) Farmer's Delight\n- [↗](https://modrinth.com/mod/supplementaries) Supplementaries\n- [↗](https://modrinth.com/mod/ars-nouveau) Ars Nouveau\n- [↗](https://modrinth.com/mod/plushables) Plushables\n- [↗](https://modrinth.com/mod/bronze) Bronze\n- [↗](https://modrinth.com/mod/quark) Quark\n- [↗](https://modrinth.com/mod/create-framed) Create: Framed\n\n\n<details>\n<summary>修改後的屬性</summary>\n\n\n預設情況下，Sable 會將所有 `#c:storage_blocks` 標記為 `super_heavy`。這對於鐵塊、鑽石塊、鋼塊、 tumblestone（滾石）等效果很好，但對於方糖或稻草捆等方塊則不太合適。\n\n這個數據包對這些方塊做出了一些「主觀」的決定，例如將所有乾草/稻草/米類方塊改為 1kpg，Farmer's Delight 的食物箱改為 2kpg，Ars Nouveau 的法師花方塊改為 1kpg 等等。\n\n這種做法有先例，因為 Sable 本身就會將標籤組中的某些方塊質量調整得低於 4kpg，例如史萊姆、銅、骨塊，以及屬於 `c:storage_blocks` 的 Create 模組紙板方塊。\n\n\n</details>\n\n\n\n\n### 歡迎在 [Discord](https://discord.com/invite/vEZUkSxwR9) 上建議要納入的模組",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

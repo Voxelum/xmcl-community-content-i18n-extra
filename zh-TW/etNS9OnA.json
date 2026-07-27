@@ -1,6 +1,6 @@
 {
-  "bodyHash": "5eyfMjl4tRc=",
-  "content": "# 配方書好惱人\n\n[![在Bluesky上追蹤！](https://raw.githubusercontent.com/zenfyrdev/mini-badges/v1/social/bluesky/follow.svg)](https://bsky.app/profile/did:plc:udgxgv72u6qheiwgwfahqylp)\n***\n\n讓配方書使用創造模式標籤頁進行分組，在模組包中變得更有用。\n\n同時新增了分組頁面以支援更多標籤頁。\n\n![模組展示](https://raw.githubusercontent.com/constellation-mc/rbip/1.20.1-fabric/images/showcase.webp)\n\n***\n\n常見問題：\n\n- 我需要在安裝這個模組的同時安裝 Fabric API 嗎？\n\n是的，從 v1.0.0 版本開始需要 Fabric API。\n\n- 是否支援「某個」模組？\n\n絕大多數情況下，是的，除非該模組沒有將它的物品加入創造模式選單，或者存在相容性邊界情況。",
+  "bodyHash": "551e790d89b89209",
+  "content": "\n\n# 配方書很痛苦\n\n[![在 Bluesky 上追蹤！](https://raw.githubusercontent.com/zenfyrdev/mini-badges/v1/social/bluesky/follow.svg)](https://bsky.app/profile/did:plc:udgxgv72u6qheiwgwfahqylp)\n***\n\n讓配方書使用創作模式的分類頁籤來歸納群組，使其在整合包中更具實用性。\n\n此外還新增了「群組頁面」功能，以支援更多分類頁籤。\n\n![模組展示](https://raw.githubusercontent.com/constellation-mc/rbip/1.20.1-fabric/images/showcase.webp)\n\n***\n\n常見問題：\n\n- 我需要與此模組一起安裝 Fabric API 嗎？\n\n是的，自 v1.0.0 起必須安裝 Fabric API。\n\n- 是否支援模組「X」？\n\n應該會，除非模組「X」沒有將物品加入創作模式選單，或是存在相容性的特殊情況。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

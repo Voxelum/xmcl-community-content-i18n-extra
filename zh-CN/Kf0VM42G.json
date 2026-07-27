@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2f2f5d5ffacec385",
+  "content": "# 美味牛排\n在牛排上撒上星尘，即可享用一顿饱腹大餐。\n\n## 内容\n- 使用 8 块 _牛排_ 和 1 颗 _下界之星_（置于合成中心）制作 _饱腹牛排_，食用后获得持续一小时的食物饱和度效果。  \n  ![合成配方：8 牛排 + 1 下界之星 = 8 饱腹牛排](https://raw.githubusercontent.com/lukasstorck/yummy-steak/refs/heads/main/docs/media/crafting.png)\n- 添加等级 30 的附魔 _美味_，确保牛排永远不会耗尽（仅可应用于 _饱腹牛排_）。  \n  ![附魔：美味](https://raw.githubusercontent.com/lukasstorck/yummy-steak/refs/heads/main/docs/media/enchanting.png)\n- 请勿食用变质的牛排，那味道令人作呕。\n\n## 技术概念\n除了游戏玩法功能外，目标是在不使用全局 tick 函数检查玩家物品栏变化的情况下提供这些自定义功能。\n\n- 食物饱和度效果通过 [`consumable` 数据组件](https://minecraft.wiki/w/Data_component_format#consumable) 应用（于 MC 1.21.2 添加）\n- 不消耗物品通过 [`use_remainder` 数据组件](https://minecraft.wiki/w/Data_component_format#use_remainder) 处理（于 MC 1.21.2 添加）\n- 由于 `use_remainder` 需要递归定义才能无限复用，因此使用一个虚拟物品，随后将其替换为实际的食物物品\n- 与其不断检查虚拟物品是否存在且需要替换，不如使用 [附魔效果组件 `minecraft:tick`](https://minecraft.wiki/w/Enchantment_definition#Components_with_entity_effects) 配合 [实体效果 `run_function`](https://minecraft.wiki/w/Enchantment_definition#run_function)（于 MC 1.21 添加）来更改虚拟物品（仅在首次持有该物品时执行一个 tick，因此更具资源效率）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

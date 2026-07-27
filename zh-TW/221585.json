@@ -1,6 +1,6 @@
 {
-  "bodyHash": "C2D5C0Sl8ds=",
-  "content": "<p>《Roguelike 地下城》是一款模組，會生成具有程序化生成布局與戰利品的大型地下城結構。</p><p>&nbsp;</p><h2>2024 年更新</h2><p>當《Minecraft 1.13》於 2018 年 7 月推出時，由於結構生成方式全面改版，我無法再更新《Roguelike 地下城》。一年前我開始嘗試製作簡易的 Fabric 模組，並學以致用，從零開始重建了此模組。</p><p><br>由於我個人現已採用 Fabric/Modrinth 來運行客戶端與伺服器模組，後續更新將發布於該平台。目前計畫是保留此專案供 1.12 模組包使用者繼續使用，暫無在此發布更新的規劃。</p><p>&nbsp;</p><p>欲查看基於 Fabric 的現代版續作，請參見 Modrinth 上的<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252froguelikedungeons\" rel=\"nofollow\">《Roguelike 地下城》</a></p><p>若需基於 Forge 的現代精神續作，請查看 xiroc_ 製作的<a href=\"https://legacy.curseforge.com/minecraft/mc-mods/dungeon-crawl\" rel=\"nofollow\">《Dungeon Crawl》</a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "bodyHash": "ad4da651fb155d35",
+  "content": "<p>Roguelike Dungeons 是一个模组，它会生成大型地下地牢结构，这些结构拥有程序生成的布局和资源。</p>\n<p>&nbsp;</p>\n<h2>2024年更新</h2>\n<p>当 Minecraft 1.13 发布时（2018年7月），由于结构生成方式的全面 overhaul，我不再能够更新 Roguelike Dungeons。一年前，我开始尝试制作简单的 Fabric 模组，并学习了足够的知识以从头开始重建 Roguelike Dungeons。</p>\n<p><br>由于我现在个人使用 Fabric/Modrinth 来运行客户端和服务端模组，因此我在那里发布更新。我目前的计划是让这个项目保持原样，供希望使用它的 1.12 模组包使用。我目前没有在此处发布更新的计划。</p>\n<p>&nbsp;</p>\n<p>有关我基于 Fabric 的现代延续版本，请参阅 Modrinth 上的 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252froguelikedungeons\" rel=\"nofollow\">Roguelike Dungeons</a></p>\n<p>有关基于 Forge 的现代精神续作，请查看 xiroc_ 制作的 <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/dungeon-crawl\" rel=\"nofollow\">Dungeon Crawl</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

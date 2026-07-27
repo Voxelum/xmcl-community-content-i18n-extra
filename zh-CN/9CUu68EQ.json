@@ -1,0 +1,6 @@
+{
+  "bodyHash": "30f822eb25f038e3",
+  "content": "该模组增加了 **ComputerCraft** 与 **Simple Shops** 之间的集成，使计算机能够通过多种方式更便捷地访问商店。\n\n功能列表包括：\n- Simple Shop Peripheral（允许您获取商店信息，包括事件）\n- Simple Shop Command Peripheral（允许命令计算机获取和设置商店信息）\n- 海龟（Turtles）通过 ShopAPI 获得从商店购买物品的能力\n- 任何购买尝试都会触发事件，*无论是海龟还是玩家！*\n\n我在意识到除了视觉指示器外，无法从这些商店获取任何信息（甚至没有比较器输出）后，受到了启发并制作了此附加组件。\n\n本模组遵循 **MIT 许可证**，可自由用于任何整合包！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

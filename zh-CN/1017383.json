@@ -1,0 +1,6 @@
+{
+  "bodyHash": "18c2e2c663c19a0e",
+  "content": "<p>使 Cobblemon 中的 Hisui 地区初始宝可梦的外观与其最终进化型一致</p>\n<p><img src=\"https://cdn.modrinth.com/data/5vRvzDPO/images/e651b67ad6d0c93679aae54fd1dd28888d72c027.png\" alt=\"\" width=\"612\" height=\"408\"></p>\n<p>修改内容：</p>\n<p>Cyndaquil Regional_Bias=Hisui</p>\n<p>Quilava Regional_Bias=Hisui</p>\n<p>Rowlet Regional_Bias=Hisui&nbsp;</p>\n<p>Dartrix Regional_Bias=Hisui</p>\n<p>Oshawott Regional_Bias=Hisui</p>\n<p>Dewott Regional_Bias=Hisui</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:24px\"><strong>常见问题 (FAQ)</strong></span><br>问：我需要将其作为数据包使用吗？<br>答：不需要，这只是一个资源包，因此也可以用于服务器。</p>\n<p>问：如何获取它们？<br>答：由于它们在普通 Cobblemon 中已经是不同的形态，你可以在各自的生物群系中于野外找到它们。你也可以在初始宝可梦菜单的 “Hisui” 部分中选择它们，或者通过 /pokespawn (此处填宝可梦) regional_bias=hisui 或 /pokegive (此处填宝可梦) regional_bias=hisui 命令来获得/生成它们。</p>\n<p>&nbsp;</p>\n<p>你可以将此包含在整合包中</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "63a6905d60cd4286",
+  "content": "<p>Chestify 在物品栏和容器界面中添加了紧凑的存储索引功能。当箱子附有带物品的物品展示框时，Chestify 会在分页网格中以图标形式显示该物品，让玩家能够通过用户界面快速打开附近标记的箱子。</p>\n<p>它还改变了标记箱子的物品展示框交互方式：右键点击可打开附着的箱子，而 Shift + 右键点击则保持原版物品旋转行为。多人游戏模式下需要在客户端和服务器端都安装此模组。</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/e968de5dd9ffc63f2dc499d0b0ee4e2aaafe0660.png\" alt=\"Preview\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

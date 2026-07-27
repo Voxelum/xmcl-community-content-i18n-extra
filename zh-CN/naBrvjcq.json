@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ef980e13c2782f2",
+  "content": "<img src=\"https://cdn.modrinth.com/data/naBrvjcq/images/0d781f3f3a7f93cb70b2d7808e9fe2ae526a51f0.png\" width=\"500px\" alt=\"showcase\">\n\n# Filters API\n\nFilters API是一个简单、开放、完整的库，为模组的创意标签提供了分类过滤系统。\n\n通过在左侧添加新的过滤标签，您可以轻松按类别筛选物品，从而找到所需物品。Filters API还支持将未分类的物品收集到“未分类”过滤中，防止它们从标签中消失。\n\n灵感来自[Filters Mod](https://github.com/MrCrayfish/Filters)和[MrCrayfish's Furniture Mod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod)。\n\n## 开发者文档\n\n[https://mc-filters.netlify.app/](https://mc-filters.netlify.app/)\n\n## 本地化\n\nFilters API正在使用[ZiYue Weblate](https://weblate.ziyuesinicization.site/engage/filters-api/)进行翻译。\n\n[![](https://weblate.ziyuesinicization.site/widget/filters-api/multi-auto.svg)](https://weblate.ziyuesinicization.site/engage/filters-api/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

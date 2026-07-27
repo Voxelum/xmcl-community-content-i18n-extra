@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1559bd499d7f9191",
+  "content": "# EMF 兼容： Carry On\n\n![Carried Chest](https://cdn.modrinth.com/data/BPD5ZhBo/images/bae93f715fe88888f3e9b9cf4468ac96ba325eed.gif)\n\n一款小型客户端模组，使 **[Carry On](https://modrinth.com/mod/carry-on)** 的搬运姿势与 **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** 玩家模型正确配合。\n\n已在 **[Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)** 上测试，但应适用于任何玩家动画资源包。\n\n\n<details>\n<summary>视频</summary>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ys_cUyHYmFc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n</details>\n\n\n\n## 功能\n\n- 兼容 **[Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)**。\n- 搬运方块和实体时，手臂保持自然抬起状态。\n- 搬运的物体在第三人称视角下跟随你 EMF 动画的身体移动。\n- 被搬运的实体保留其正常模型，以免继承玩家资源包（用于修复头部和身体抖动问题）。\n- 即使安装了 [First Person Model mod](https://modrinth.com/mod/first-person-model)，第一人称搬运姿势依然可见。\n\n\n<details>\n<summary>剧透</summary>\n\n![FP mod suppurt!](https://cdn.modrinth.com/data/BPD5ZhBo/images/ea10f950abcc01e7a5c0af8448eb62a2eadc574c.gif)\n\n</details>\n\n\n\n享受吧 ^_^",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

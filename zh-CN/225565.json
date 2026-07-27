@@ -1,0 +1,6 @@
+{
+  "bodyHash": "07c94dd756891b1d",
+  "content": "<p>本模组需要同时安装 bspkrsCore：<a href=\"http://minecraft.curseforge.com/mc-mods/bspkrscore\" rel=\"nofollow\">http://minecraft.curseforge.com/mc-mods/bspkrscore</a></p>\n<p>想知道自己面朝的磁方向，却不想安装复杂的地图插件或费力查看调试 GUI？<strong>DirectionHUD</strong> 正是为你打造的！<br>DirectionHUD 会在屏幕顶部显示你的磁性罗盘方位。<br><br><strong>功能特性</strong><strong>:</strong><br>- <strong>新增</strong>：使用命令 <strong>/directionhud config</strong> 打开游戏内配置界面！<br>- 简洁的罗盘显示<br>- 可自定义屏幕上的对齐方式<br>- x 和 y 偏移选项<br>- 多种样式可供选择<br>- 可在默认 PNG 中添加你自己的样式，或制作自定义 PNG 文件<br>- 版本更新检查（不错过任何更新）<br><br><strong>DonkeyPanic 提供的实用教程和专题介绍：</strong><br>[media]<a href=\"http://www.youtube.com/embed/QjJfhSl_v1Y\" rel=\"nofollow\" target=\"_blank\">http://www.youtube.com/embed/QjJfhSl_v1Y</a>[/media]<br><br><strong>设置自定义罗盘样式：</strong><br>默认提供 4 种罗盘样式（图像文件中最多可容纳 10 个）：<br><img alt=\"\" src=\"https://raw.github.com/bspkrs/MCF-Assets/master/1114612/img/compass.png\"><br><br>索引从 0 开始（最上方的罗盘为索引 0）。在默认图像文件中，第二种和第四种样式清晰可见，文字为白色（上图可能不易看清）。如果你想编辑 PNG 文件（/gui/compass.png）以添加自定义样式，只需复制一个现有样式，将其粘贴到其他样式下方，并根据需要进行编辑即可。每个样式的高度为 24 像素（2 行 X 12 像素），宽度为 192 像素。目前，罗盘 HUD 的大小被锁定为 65x12（意味着你在游戏屏幕上只能看到 65x12 的区域），但我计划在未来添加可自定义大小的功能。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

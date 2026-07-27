@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5dcc619a6573208d",
+  "content": "\n\n# 本数据包添加了木材物理效果！\n如果你用斧头砍伐自然生成的树，它会倒下！\n\n兼容其他数据包添加的自定义树木\n\n如果你想砍伐下界树木，请下载[此附加组件](https://modrinth.com/datapack/timber-physics-nether-addon)。 \n\n\n[砍伐橡树的示例](https://i.imgur.com/lm6njVb.mp4)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/KA1opznvS0I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### 自定义选项：\n- 要进入选项界面，请执行 /trigger physicstimber.help\n- 选择潜行时是否禁用木材物理效果，还是仅在潜行时才触发。（玩家个人设置）\n- 选择可触发木材物理效果的树木最大尺寸。（仅管理员选项，全局设置）\n\n如果你手持附魔了“精准采集”的斧头，木材物理效果将不会触发。\n\n### 技术信息：\n当砍伐大型树木时，本数据包可能会给服务器和客户端带来很大的性能负担！请注意这一点。\n\n\n树木最大尺寸选项说明：\n\n- 小型：[最多 15 个原木和 100 片树叶]\n- 所有非大型的原版树木\n\n- 中型：[最多 150 个原木和 400 片树叶]\n- 所有原版树木\n\n- 大型：[最多 200 个原木和 800 片树叶] <- 默认选项！\n- 大多数自定义树木\n\n- 夸张：[最多 600 个原木和 2500 片树叶]\n- 基本上适用于任何不算太离谱的树木\n\n如果树木超过所选的最大尺寸，将不会触发木材物理效果。（它不会倒下）\n\n\n树木的定义方式：\n\n- 包含 3 个或更多原木，且至少有 1 片非持久性树叶（[persistent=false]）与其中一根原木相连\n- 每个原木会检测与其相连的原木（含对角线方向），因此若树中存在与其他原木相隔一个方块距离的原木，它们将不被视为该树的一部分！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

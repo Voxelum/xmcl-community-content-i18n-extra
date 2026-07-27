@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f2b1b03710982a4",
+  "content": "\n\n<p><strong>Create: Ender Transmission Tweaks</strong> 是一款輕量級的附加模組，專為&nbsp;<strong>Create: Ender Transmission</strong> 設計，為該模組的傳輸器新增可自訂的距離限制。</p>\n<p>我並非 Create: Ender Transmission 的作者！所有榮譽歸屬於 <a href=\"https://www.curseforge.com/members/forsteri123/projects\" target=\"_blank\" rel=\"nofollow\">Forsteri123</a>，我只是製作了這些設定檔。</p>\n<p>預設情況下，Ender Transmission 會在全域範圍內運作。此附加模組允許你透過設定以下傳輸器的最大距離，讓網路運作更加均衡：</p>\n<ul>\n<li>能量傳輸器</li>\n<li>物品傳輸器</li>\n<li>流體傳輸器</li>\n</ul>\n<p>你可以保留原本不受限的行為，或在設定檔中為每種類別指定自訂距離：</p>\n<div>\n<p><code>cet_tweaks-common.toml</code></p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

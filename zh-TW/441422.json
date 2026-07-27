@@ -1,6 +1,6 @@
 {
-  "bodyHash": "9e+OKDJuDSc=",
-  "content": "<h2 style=\"text-align:left\">神聖吸血鬼 - 吸血鬼模組附加</h2><p>這是<a href=\"https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire\" rel=\"nofollow\">吸血鬼模組</a>的一個小型附加模組，可以修改吸血鬼模組的設定，消除成為吸血鬼後的大部分負面影響。</p><p>此外，它還進一步增強了吸血鬼和獵人的能力，提升了特定技能的效果。</p><p>修改內容包括但不限於：</p><p>- 極少的陽光傷害，無噁心效果，更小的黃色太陽指示器</p><p>- 顯著降低血液消耗</p><p>- 幾乎不增加火焰傷害</p><p>- 每級獲得2個技能點</p><p>- 每級領主等級可召喚2個僕從</p><p>- 傳送距離更遠，頻率更高</p><p><strong>重要</strong>：此模組僅對新世界有效。若要套用至現有世界，請以管理員身份或在單人模式中執行指令（\"/godly-vampirism apply\"）</p><p>通常只需在伺服器端安裝此模組即可，但安裝在客戶端也無妨。</p><p>注意：目前此模組僅修改吸血鬼模組的設定。因此，您也可以手動完成所有修改，而不使用此模組。</p><p>然而，由於此問題經常被詢問，我決定製作這個模組作為一個方便的替代方案。</p><p>您仍然可以進一步自訂吸血鬼模組的設定，因為此模組僅影響預設值。</p>",
+  "bodyHash": "90d220fa7282e1b7",
+  "content": "\n\n<h2 style=\"text-align:left\">Godly Vampirism - Vampirism 擴充模組</h2><p>這是一個用於 <a href=\"https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire\" rel=\"nofollow\">Vampirism</a> 的小型擴充模組，會修改 Vampirism 的設定檔以移除成為吸血鬼後的大多數負面效果。</p><p>此外，它還會透過增強特定能力的效果，進一步提升吸血鬼與獵人的能力。</p><p>修改內容包含但不限於：</p><p>- 極少陽光傷害、不會產生惡心效果、縮小黃色太陽指示器</p><p>- 大幅降低血液消耗</p><p>- 幾乎不會增加火焰傷害</p><p>- 每次升級獲得 2 個技能點</p><p>- 每個領主等級可擁有 2 名僕從</p><p>- 傳送距離更遠且次數更頻繁</p><p><strong>重要提醒</strong>：此模組僅會影響新建立的世界。若要在現有世界中套用，請以管理員身分或在單人模式中執行指令「/godly-vampirism apply」。</p><p>僅在伺服器端安裝此模組即可，不過安裝在客戶端也不會造成問題。</p><p>注意：目前此模組僅會修改 Vampirism 的設定。因此，即使沒有此模組，您也可以手動達成所有上述調整。</p><p>然而，由於許多人經常詢問相關做法，我決定製作此模組作為方便的替代方案。</p><p>您仍然可以進一步自訂 Vampirism 的設定，因為此模組僅影響預設值。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "PK00iw3yyVE=",
-  "content": "<h1>Советы на экране загрузки</h1>\n\nЭтот мод добавляет советы при загрузке, которые вы можете настроить с помощью файла в ресурс-паке под названием «assets/modid/loading_tips/tips.json».\n```json\n{\n  \"replace\": false,\n  \"tips\": [\n    \"text.loadingtips.tip.nether_bed\",\n    \"text.loadingtips.tip.milk\",\n    \"text.loadingtips.tip.iron_golem\"\n  ]\n}\n```\n<p><img src=\"https://raw.githubusercontent.com/UltrusBot/LoadingScreenTips/master/images/image1.png\" alt=\"Совет: Криперы боятся кошек\" width=\"700\" />;</p>\n\n \n\nЭти советы представляют собой ключи для перевода, поэтому текст можно задать в файлах языковых пакетов (например, en_us.json)",
+  "bodyHash": "cbb01037bd328276",
+  "content": "<h1>Советы на экране загрузки</h1>\n\nЭтот мод добавляет советы при загрузке, которые вы можете настроить с помощью файла в ресурс-паке под названием \"assets/modid/loading_tips/tips.json\".\n```json\n{\n  \"replace\": false,\n  \"tips\": [\n    \"text.loadingtips.tip.nether_bed\",\n    \"text.loadingtips.tip.milk\",\n    \"text.loadingtips.tip.iron_golem\"\n  ]\n}\n```\n<p><img src=\"https://raw.githubusercontent.com/UltrusBot/LoadingScreenTips/master/images/image1.png\" alt=\"Совет: Криперы боятся кошек\" width=\"700\" />;</p>\n\n \n\nЭти советы являются ключами перевода, поэтому текст можно определить в файлах языков (например, en_us.json).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

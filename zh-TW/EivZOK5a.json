@@ -1,0 +1,6 @@
+{
+  "bodyHash": "88e00a548d33a042",
+  "content": "# Tiny Config\n\n非常輕量的配置庫。\n\n基本上是一個 GSON 包裝器，並可存取遊戲配置目錄。\n\n一些功能：\n- 自動基於型別的讀寫\n- 設定子目錄（在 configs 內）\n- 設定檔案名稱\n- 清理器\n- 驗證器",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

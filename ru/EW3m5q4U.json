@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd6bfbbf39ecf83a",
+  "content": "\n\n[![][cf-shield]][cf-link]\n\nЭто небольшой клиентский мод, который дорабатывает меню «Экспериментальное оборудование» из мода Accessories, чтобы сделать его более подходящим для выживания. В основном он создан для моего модпака, где это меню заменяет стандартный инвентарь и привязано к клавише E.\n\n#### Что делает этот мод:\n- Нажатие клавиши, открывающей меню Accessories, теперь закрывает инвентари (как это делает стандартная клавиша E).\n- Сетка крафта отображается всегда, а кнопка её переключения удалена.\n\n#### В планах больше интеграций и функций, таких как:\n- Multiloader\n- Исправление возможности удерживать предметы в стандартной сетке крафта\n- Отображение кнопки Apothic Attributes в меню (только NeoForge)\n\n[cf-shield]: https://img.shields.io/curseforge/dt/1365253?style=for-the-badge&logo=curseforge&label=curseforge&labelColor=black&color=%23F16436\n[cf-link]: https://legacy.curseforge.com/minecraft/mc-mods/accessories-tweaks",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

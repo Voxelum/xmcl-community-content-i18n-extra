@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7aa47d915f53e852",
+  "content": "<h1>Minecolonies EMI 插件</h1>\n<p><strong>连接 Minecolonies 与 EMI。</strong></p>\n<p>此插件解决了“动态”方块配方（如 Domum Ornamentum）在 EMI 中无法显示正确材料的问题。它允许你精确查看殖民地建筑所需的材料，并轻松地将 Builder's Hut（建筑小屋）请求列表中缺失的资源直接导出到 EMI 侧边栏。</p>\n<h2>用法</h2>\n<h3>导出与追踪配方</h3>\n<p>要查看动态方块（如 Domum Ornamentum 的框架方块、瓦片等）的<strong>精确材料组件</strong>，并追踪殖民地的需求：</p>\n<ol>\n<li>打开<strong>所需资源</strong>列表（使用资源滚动条）。</li>\n<li>点击滚动条旁边的<strong>导出至 EMI</strong> 按钮。</li>\n<li>你现在将看到一个包含所需材料的自定义配方，你可以将其添加到配方树中。</li>\n<li><strong>点击配方树中的已导出 Domum Ornamentum 物品</strong>，查看其精确的配方（例如：框架方块显示正确的组件，并带有功能性的自动填充）。</li>\n</ol>\n<p><em>注意：在创造模式菜单中浏览通用物品可能仍会显示通用输入。使用导出功能可确保你验证建造者所需的特定 NBT 配方。</em></p>\n<h2>&nbsp;</h2>\n<h2>致谢</h2>\n<ul>\n<li><strong>Minecolonies</strong>：由 <a href=\"https://www.curseforge.com/minecraft/mc-mods/minecolonies\" rel=\"nofollow\">LDTTeam</a> 创建。本模组是其令人惊叹的殖民地建造体验的插件。</li>\n<li><strong>EMI (Efficient Memory Inventory)</strong>：由 <a href=\"https://github.com/emilyploszaj/emi\" rel=\"nofollow\">Emi</a> 创建。本模组集成了其强大的配方查看 API。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

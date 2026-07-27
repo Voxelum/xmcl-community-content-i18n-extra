@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7032f9dc87c7608e",
+  "content": "物品轮廓（Item Outlines）允许你配置在掉落时发光的物品。你可以为每种颜色设置 JSON 文件，列出在掉落时会发出特定颜色的物品列表。\n\n默认情况下，该模组会使下界之星在掉落时发光。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

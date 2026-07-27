@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7b85ad03c0ba21a",
+  "content": "\n\n<p>「Too Many Random Modification」（簡稱 Too Many Random Mods）是一個收錄大量模組的整合包，內容涵蓋從 Security Craft 到 Ice and Fire 等多種風格的模組。無論是探索還是科技向的模組應有盡有。在這個整合包中，你永遠會有事情可做。它沒有設定任務系統，因此你不會受到束縛。雖然內建了優化模組，但這不代表遊戲一定會非常流暢；我在伺服器上測試時穩定在 240fps 左右，有時會降至 200fps。</p>\n<p>&nbsp;</p>\n<p>強烈建議為此整合包分配至少 12GB 的 RAM。</p>\n<p>若要架設伺服器，只需將 config 和 mods 資料夾放入 1.12.2 版本的 Forge 伺服器即可。我的伺服器配置了 11GB RAM。</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

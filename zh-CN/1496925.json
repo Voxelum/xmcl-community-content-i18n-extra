@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb27951eb93e47bb",
+  "content": "\n\n<p><strong>相机运动模糊<br><img src=\"https://wsrv.nl/?url=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHljeHl2cTFpbDdnbGthN2IycWx0MGdva2U5dG1wbWFlOGIzeWM3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhN00TFiv4mHU7iqlY/giphy.gif&n=-1\" alt=\"\" width=\"400\" height=\"206\"><img src=\"https://wsrv.nl/?url=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1temh6Z2FpYTFmeGM2MTZlbzBpdTd2dmo1M25jOW05Zjc2b2g3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xko95si8pZZoqIVB36/giphy.gif&n=-1\" alt=\"\" width=\"400\" height=\"206\"><br></strong></p>\n<p>一款轻量级的 Fabric 模组，为你的视角添加可自定义的运动模糊效果。</p>\n<p><strong>功能特性：</strong></p>\n<ul>\n<li>可调节的模糊强度（0% 到 100%）</li>\n<li>三种颜色模式：普通、着色和彩虹</li>\n<li>可为模糊拖尾自定义 RGB 着色颜色</li>\n<li>可调节着色强度</li>\n<li>游戏内设置界面，包含滑块和按钮</li>\n<li>基于命令的控制方式（/camerablur）</li>\n<li>所有设置将在不同游戏会话之间自动保存</li>\n</ul>\n<p><strong>命令：</strong></p>\n<ul>\n<li>/camerablur - 打开设置界面</li>\n<li>/camerablur toggle - 开启或关闭运动模糊</li>\n<li>/camerablur strength 0.5 - 设置模糊强度（0.0 - 1.0）</li>\n<li>/camerablur mode tinted - 设置颜色模式（normal / tinted / rainbow）</li>\n<li>/camerablur color 1 0 0 - 设置着色颜色 RGB（每项 0.0 - 1.0）</li>\n<li>/camerablur tint 0.5 - 设置着色强度（0.0 - 1.0）</li>\n</ul>\n<p><strong>&nbsp;</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

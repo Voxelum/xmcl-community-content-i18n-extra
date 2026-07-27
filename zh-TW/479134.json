@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1767ffc6f3de50a",
+  "content": "\n\n<p>使用指令隱藏與自訂其他玩家的名字</p>\n<p><img src=\"https://media.forgecdn.net/attachments/802/421/2024-02-04-15-55-25-1.gif\"></p>\n<p><span style=\"font-size:14px\"><strong>指令</strong></span></p>\n<div class=\"spoiler\"><p>/hiddennames nameplateVisible [player(s)] [true/false]</p>\n<p>/hiddennames defaultVisible [true/false]</p>\n<p>/hiddennames blocksHideName [true/false] <em>當有方塊擋住時會隱藏姓名板</em></p>\n<p>/hiddennames setName [player(s)] [colour] [animation] [\"name\"] <em>名稱參數必須用引號包圍</em></p>\n<p>/hiddennames setName [player(s)] name [\"name\"]</p>\n<p>/hiddennames setName [player(s)] colour [colour]</p>\n<p>/hiddennames setName [player(s)] animation [animation]</p>\n<pre>/hiddennames setName [player(s)] reset</pre>\n<br>\n<p><br><em>所有指令均需 2 級或以上的 OP 權限才能執行。</em></p></div>\n<p><strong>支援我</strong></p>\n<p>- 加入我的 <a href=\"https://discord.gg/pCws5wJ2yT\" rel=\"nofollow\">Discord 伺服器</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

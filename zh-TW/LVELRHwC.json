@@ -1,0 +1,6 @@
+{
+  "bodyHash": "051419531e33d7e1",
+  "content": "# 更快的銅像\n**是否曾經覺得銅像整理物品太慢？**\n從此改變，此模組讓銅像更快，提高它們在箱子之間移動物品的效率。\n\n## 功能：\n可透過[模組選單](https://modrinth.com/mod/modmenu)自訂\n- 可自訂互動時間 | 物品拾取和放置速度加快。\n- 可自訂最大攜帶量 | 決定一次能攜帶多少物品。\n- 可自訂搜尋半徑 | 控制銅像能掃描多遠的箱子。\n- 可自訂移動速度 | 控制銅像走到箱子的快慢。\n- 可自訂檢查的箱子數量 | 控制放棄前檢查的箱子數\n- 互動速度加快也會讓動畫變快\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/9NUzZHJP1dI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 設定選項\n### 互動時間選項\n- 原版 | 60 刻\n- 快速（預設）| 30 刻\n- 更快 | 15 刻\n- 最快 | 3 刻\n\n### 最大攜帶量選項\n- 最小（原版）| 同時攜帶 16 個物品\n- 預設 | 同時攜帶 24 個物品\n- 最大 | 同時攜帶 64 個物品\n\n### 搜尋半徑選項\n- 原版（預設）| 64x16x64 方塊\n- 大 | 128x32x128 方塊\n- 更大 | 160x50x160 方塊\n- 最大 | 200x100x200 方塊\n- 極端 | 1000x200x1000 方塊\n\n### 移動速度選項\n- 原版（預設）| 1.0 倍速度\n- 快速 | 1.2 倍速度\n- 更快 | 1.5 倍速度\n- 最快 | 2.0 倍速度\n\n### 檢查箱子數量選項\n- 原版 | 10 個箱子\n- 很多（預設）| 25 個箱子\n- 更多 | 50 個箱子\n- 最多 | 120 個箱子\n- 極端 | 1024 個箱子\n\n![銅像設定選單](https://github.com/PixelIndieDev/Faster-Copper-Golem/blob/main/documentation/previews/fastercoppergolem-settings.png?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

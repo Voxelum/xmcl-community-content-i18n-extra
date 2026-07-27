@@ -1,0 +1,6 @@
+{
+  "bodyHash": "03977e3f7b273094",
+  "content": "\n\n允许通过稀疏结构（Sparse Structures）模组单独配置来自 WDA 的建筑。 \n\n在游戏中输入 `/dumpstructuresets`（通过稀疏结构模组）时，你以往只能获取主要和次要的结构组。然而 W.D.A. 包含大量建筑，此兼容性支持让你能够使用稀疏结构来单独配置每一个建筑。 \n![该模组管理的文件代码](https://cdn.modrinth.com/data/cached_images/a04fe84d32d5049e18c170d77d479cd89fe18ec1.png)\n主要结构为土匪村庄\n\n次要结构为钓鱼小屋\n\n我必须保持这些文件名不变，以便通过数据包覆盖它们。\n\n前往 Wabbannode 租用服务器托管你的我的世界服务器\nhttps://wabbanode.com/affiliate/booglie \n![Wabbannode 横幅](https://cdn.modrinth.com/data/cached_images/87b19f4b9068d4a344b05dda840b8b088e3be4f7.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9aeb0df0cd68674e",
+  "content": "<h1>Anvian 的库</h1>\n<p>该库旨在供我的模组使用，包含各种对我项目有帮助的功能。此外，它引入了遥测功能以跟踪使用我模组的玩家数量。如需，可以通过配置文件禁用遥测。更多详情，请访问 <a href=\"/linkout?remoteUrl=https%253a%252f%252fanvian.net%252ftelemetry\" rel=\"nofollow\">遥测</a> 页面。</p>\n<h2>使用方法</h2>\n<p>将以下内容添加到您的 <code>gradle.properties</code> 中：</p>\n<pre><code>anvianslib_version=&amp;lt;version&amp;gt;\n</code></pre>\n<p>将以下内容添加到您的 <code>build.gradle</code> 中：</p>\n<pre><code>repositories {\n    maven {\n        name = 'Repsy Anvian'\n        url = '<a href=\"\" target=\"_blank\" rel=\"nofollow\">https://repo.repsy.io/mvn/anvian/anvians-lib&#x27;</a>\n    }\n}\n</code></pre>\n<ul>\n<li>在 Common 中：</li>\n</ul>\n<pre><code>  implementation &quot;net.anvian.anvianslib:anvianslib-common-1.21:${anvianslib_version}&quot;\n</code></pre>\n<ul>\n<li>在 Fabric 中：</li>\n</ul>\n<pre><code>  modImplementation &quot;net.anvian.anvianslib:anvianslib-fabric-1.21:${anvianslib_version}&quot;\n</code></pre>\n<ul>\n<li>在 Forge 中：</li>\n</ul>\n<pre><code>  implementation &quot;net.anvian.anvianslib:anvianslib-forge-1.21:${anvianslib_version}&quot;\n</code></pre>\n<ul>\n<li>在 NeoForge 中：</li>\n</ul>\n<pre><code>  implementation &quot;net.anvian.anvianslib:anvianslib-neoforge-1.21:${anvianslib_version}&quot;\n</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

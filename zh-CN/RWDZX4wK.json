@@ -1,0 +1,6 @@
+{
+  "bodyHash": "18ba6ba4713c86d6",
+  "content": "修复了 Sable 模式下异常的 AABB 坐标错误，这些错误会导致玩家在骑乘载具时服务器崩溃并在日志中产生大量刷屏。使用 Mixin 拦截并修正无效的包围盒。\n\n***本模组已停止维护，不会再进行任何修复。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

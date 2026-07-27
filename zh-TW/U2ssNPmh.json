@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2f8a24d316d936d1",
+  "content": "# 📍 **Coords Action Bar**\n\n> 直接在 **操作栏** 中显示极简风格玩家坐标。\n\n✨ _简洁_ • _简单_ • _无 HUD 杂乱元素_ ✨\n\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n---\n\n## 🧭 **模组功能**\n\n此模组在屏幕底部的 **操作栏** 中显示你的玩家坐标，格式如下：\n\n**X | Y | Z**\n\n- 仅显示坐标\n- 白色文字\n- 实时更新\n- 无额外 HUD 元素\n- 完美适用于生存、建造和导航\n\n---\n\n## 🔄 **智能操作栏行为**\n\n如果 **操作栏** 中出现其他消息（例如来自游戏或其他模组），**Coords Action Bar 会自动将其坐标稍微上移**，以避免重叠。\n\n一旦其他消息消失，坐标将立即恢复至正常位置。\n\n---\n\n## ⚙️ **游戏内设置与本地化**\n\n模组包含一个设置界面：\n\n- 你必须使用 [Mod Menu](https://modrinth.com/mod/modmenu)，通过按下模组列表中的 **Coords Action Bar** 图标来打开模组设置\n- 大多数设置已翻译为多种语言\n- 配置简单直观\n\n---\n\n## 💡 **为什么使用这个模组？**\n\n- 无需打开 F3 调试屏\n- 保持屏幕整洁\n- 易于阅读和记录坐标\n- 完美融入原版风格体验\n\n## 🔁 **反馈**\n\n---\n\n如果你发现错误或崩溃问题，随时可以通过 [Discord](https://discord.com/users/1498679221210583040) 私信我",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

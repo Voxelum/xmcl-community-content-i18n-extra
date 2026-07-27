@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71794b594208e104",
+  "content": "# **HiiroSakura Mod**\n\n![Icon](https://cdn.modrinth.com/data/cached_images/1e1e5837bcad6dfff4e89e77bb250037f9c54345.png)\n\n![Hiirosakura](https://img.shields.io/modrinth/v/hiirosakura?label=Version&color=FF69B4)\n\n**HiiroSakura** 是一款多功能模组，致力于提升 Minecraft 的游戏体验。它提供游戏玩法增强、聊天功能扩展、渲染优化以及灵活的配置管理界面。\n\n## 📦 **依赖项**\n\n<img src=\"https://github.com/forpleuvoir/ibuki_gourd/blob/dev/doc/logo.png?raw=true\" width=\"16\"/>[IbukiGourd](https://modrinth.com/mod/ibukigourd)\n\n![ibukigourd](https://img.shields.io/modrinth/v/ibukigourd?label=Modrinth&color=8647B3)\n\n模组的所有功能默认均处于禁用状态。\n\n**打开模组设置界面**：\n- 按下快捷键 **H + S**。\n- 在界面中调整模组设置，以启用或禁用不同功能。\n\n## ✨ **主要功能**\n\n### **1. 渲染修改**\n- 始终渲染方块（包括屏障、光源）。\n- 禁用文本混淆效果。\n- 禁用侧边计分板。\n- 覆盖伽马值。\n- 渲染 TNT 和苦力怕的引信计时器。\n- 手持物品额外信息显示。\n- 渲染物品掉落信息。\n\n### **2. 玩法增强**\n- 自动种植。\n- 物品使用拦截。\n- 方块破坏保护。\n- 自动切换胸甲与鞘翅。\n- 自动重生。\n- 音效过滤。\n- 切换客户端视角实体。\n\n### **3. 聊天功能扩展**\n- **消息过滤**。\n- **消息注入**。\n- **聊天气泡**。\n\n## 🌟 **自定义任务**\n- 支持发送消息、执行命令或编写 `Jexl` 脚本来创建自定义任务。\n- 通过热键或图形界面快速执行任务。\n\n## 📌 **事件订阅**\n支持订阅多种类型的事件：\n- **玩家事件**（聊天、游戏登录、登出等）。\n- **世界事件**（方块破坏等）。\n\n事件可以触发多种动作：\n- **发送消息**。\n- **执行命令**。\n- **运行脚本**。\n- **触发自定义任务**。\n\n### 🌟 **享受更加优雅的 Minecraft 游戏体验！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

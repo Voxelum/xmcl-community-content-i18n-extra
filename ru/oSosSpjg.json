@@ -1,6 +1,6 @@
 {
-  "bodyHash": "0aIB4tENbuE=",
-  "content": "Добавляет крошечные лампочки в игру, которые можно бесплатно окрашивать после их размещения.\n\nСмотрите скриншоты и гифки ниже:\n \n\nКаждый из 4 блоков-лампочек можно окрасить прямо в мире без необходимости крафта.\n![окраска в мире](https://i.imgur.com/aVdSiEn.gif)\n\n\n![простой крафт](https://i.imgur.com/QFQuHNZ.gif)\n\nПример конфигурационного файла\n\n\nhttps://github.com/Lothrazar/TinyLightBulbs/blob/trunk/1.18/tinylightbulbs.toml\n\nПредыдущие версии (1.18, 1.19) совместимы с [блеском света](https://www.curseforge.com/minecraft/mc-mods/shimmer), а в будущем, возможно, появится поддержка 1.20.1, если они перенесут версию для Forge.\n",
+  "bodyHash": "d93cb670a2b34529",
+  "content": "\n\nДобавляет в игру маленькие лампочки, которые можно бесплатно окрасить после размещения\n\nСм. скриншоты и GIF-изображения ниже\n \n\nКаждый из 4 блоков «Лампочка» можно покрасить прямо в игре без использования крафта\n![dye in world](https://i.imgur.com/aVdSiEn.gif)\n\n\n![easy crafting](https://i.imgur.com/QFQuHNZ.gif)\n\nПример файла конфигурации\n\n\nhttps://github.com/Lothrazar/TinyLightBulbs/blob/trunk/1.18/tinylightbulbs.toml\n\nПредыдущие версии (1.18, 1.19) совместимы с [Shimmer Light](https://www.curseforge.com/minecraft/mc-mods/shimmer), и в будущем может появиться версия для 1.20.1, если будет перенесена версия для Forge.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

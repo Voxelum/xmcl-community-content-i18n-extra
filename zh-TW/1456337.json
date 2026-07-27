@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d319aae9e8481376",
+  "content": "<h1>FakeFPS</h1>\n<p><strong>FakeFPS</strong> 是一款簡單的客戶端模組，可讓您在 F3 除錯選單中將 FPS 計數器更改為您想要的任何數字。</p>\n<h2>功能特色</h2>\n<ul>\n<li><strong>偽裝 FPS 計數器：</strong>將您的 FPS 設定為不切實際的數字。<strong>預設自動設為 1000 FPS。</strong></li>\n<li><strong>動態波動：</strong>偽裝的 FPS 並非靜態！它會自然波動（±5%）以看起來更真實。</li>\n<li><strong>指令：</strong>使用簡單直覺的指令。</li>\n</ul>\n<h2>使用方法</h2>\n<ol>\n<li>安裝模組（需要 Fabric API）。</li>\n<li>開啟世界（<strong>模組預設啟動時會啟用 1000 FPS</strong>）。</li>\n<li>輸入 <code>/fakefps &lt;數量&gt;</code> 來更改數值（例如：<code>/fakefps 5000</code>）。</li>\n<li>輸入 <code>/fakefps off</code> 以停用。</li>\n</ol>\n<p><strong>注意：</strong>此模組僅供視覺效果使用。它<strong>不會</strong>提升您實際的遊戲效能。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

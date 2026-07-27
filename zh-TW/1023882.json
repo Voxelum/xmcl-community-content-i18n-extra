@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d6274f951c0eafb",
+  "content": "<h3 style=\"text-align:center\"><img src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/main.png\" alt=\"目錄\" width=\"225\" height=\"225\"></h3>\n<p>&nbsp;</p>\n<h2 style=\"text-align:center\"><span style=\"font-size:18px\">Exposure Catalog 是一個小型插件，可搭配<a style=\"font-size:18px\" href=\"https://www.curseforge.com/minecraft/mc-mods/exposure\" target=\"_blank\" rel=\"nofollow\">Exposure</a>使用</span></h2>\n<p>&nbsp;</p>\n<p style=\"text-align:center\">它增加了&nbsp;<code>/exposure catalog</code> 命令，該命令會打開一個 GUI 視窗，您可以在其中查看、匯出或刪除儲存在當前世界中的所有 Exposure。</p>\n<p style=\"text-align:center\">它還具有一個<strong>\"紋理\"</strong>模式，可以查看加載的所有紋理（來自 Minecraft、mods 和資源包）。</p>\n<p style=\"text-align:center\"><img src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/screen.png\" alt=\"屏幕\" width=\"1000\" height=\"734\"></p>\n<p style=\"text-align:center\">該命令需要 3 級許可權（單人遊戲已啓用作弊即符合該要求）。</p>\n<p style=\"text-align:center\">必須同時安裝在客戶端和服务端上。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

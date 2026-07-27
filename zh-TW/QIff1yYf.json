@@ -1,0 +1,6 @@
+{
+  "bodyHash": "49602077637f0d39",
+  "content": "\n\n英文\n---\n這個資源包只做一件簡單的事：修復了在簡體中文翻譯中，於 MiniHUD 的 ```dateFormatMinecraft``` 選項使用 ```{MOON}``` 佔位符時出現 ```Format error:``` 訊息的問題。\n\n簡體中文\n---\n這個資源包只做一件事：修復了使用簡體中文時，在 MiniHUD 的 ```dateFormatMinecraft``` 選項中使用 ```{MOON}``` 佔位符時出現 ```Format error:``` 的問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

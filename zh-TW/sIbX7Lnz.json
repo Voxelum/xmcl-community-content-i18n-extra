@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e2577c54e5497f16",
+  "content": "**這並非 LPC 外掛的官方移植版！**<br>\n\n本專案基本上是 [LPC spigot/paper 外掛](https://www.spigotmc.org/resources/lpc-chat-formatter-1-7-10-1-21-11.68965/) 的分叉版本。<br>\n\n允許伺服器管理員輕鬆配置聊天格式。<br>\n此模組也相容於例如 [Discord & Chat Images](https://www.curseforge.com/minecraft/mc-mods/discord-chat-connect) 等。<br>\n\n此模組需要安裝 [LuckPerms](https://luckperms.net/) 模組才能運作！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

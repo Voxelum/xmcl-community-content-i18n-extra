@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d119f32cab502e84",
+  "content": "# 🌋 VulkanFlow [BETA]\n\n> **一款面向低配硬件的着色器模组。**\n\n欢迎来到 **VulkanFlow**！该模组将着色器效果直接集成到 Minecraft 的渲染管线中，而不会严重损害您的帧率。它专为那些希望拥有现代视觉效果又不愿牺牲性能的玩家设计，特别是使用笔记本电脑或老旧电脑的用户。我制作这个模组是因为我想在我的集成显卡（iGPU）上运行着色器，因此创造了这一解决方案。\n\n![Vanilla VS VulkanFlow](https://cdn.modrinth.com/data/cached_images/cba7d2808fdc2d9804a600eafdb870499bd20df4.png)\n\n---\n\n### 重要提示：测试版\nVulkanFlow 目前处于**早期测试阶段**。在此阶段，**仅**以下功能已完全实现并可用：\n\n*   **泛光（Bloom）：**\n    *   为光源提供平滑、电影般的发光效果。\n*   **风力（Wind）：**\n    *   树叶和草地轻柔摇曳。\n\n*（其他计划中的功能，包括动态阴影和自定义水面，仍在积极开发中，并将随后续更新发布！）*\n\n---\n\n### 为什么选择 VulkanFlow？\n\n标准的着色器（通过 Iris 或 OptiFine 加载）通常会在集成显卡上严重降低帧率，因为它们强制将繁重的计算集中在单帧内完成。**VulkanFlow** 采用不同的方式处理：\n\n*   **时间切片（Time Slicing）：**\n    *   模组将渲染负载分散到多个帧中，从而平滑帧率波动。\n*   **Vulkan 与 OpenGL 回退：**\n    *   旨在直接挂钩到 Minecraft 新的 Vulkan 管线，同时保持对 OpenGL 的回退支持。\n*   **专为集成显卡打造：**\n    *   经过专门优化和测试，能够在 Intel UHD 620 等硬件（已在 ThinkPad T480 上测试）上稳定维持 **60 FPS**。\n\n---\n\n### 兼容性与设置\n\n*   **Sodium：** 完全兼容！**VulkanFlow** 从底层设计之初就旨在与 Sodium 并行运行。\n*   **无需 Iris / OptiFine：** VulkanFlow 作为一个完全独立、轻量级的图形模组运行。\n\n**安装说明：**\n目前，您需要**安装 Sodium** 才能访问 VulkanFlow 模组的设置菜单。\n\n---\n\n### 加入社区与支持\n想要报告错误、请求新功能，或查看开发预览吗？加入我们在官方 **CraftingStudioPro** Discord 服务器上的活跃玩家和管理员社区！\n\n许可事项：\n您可以将此模组用于任何公开的整合包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "373951b4709e5964",
+  "content": "# PALAMOD 重制版 & 更多新增内容\n**本模组为基于 Palamod 的游戏玩法添加了众多新物品、方块、指令和系统。**\n\n- [请注意，此附加组件需要 Palamod Recreated 才能运行。点击此处。](https://modrinth.com/mod/paladium)\n\n## 功能特性\n- /createchannel <名称> <公开/私有>\n创建一个新的聊天频道\n- /joinchannel <名称>\n加入一个私有频道（需要邀请）\n- /setchannel inv <玩家>\n邀请一名玩家加入你的频道\n- /setchannel perm <玩家>\n授予该玩家邀请他人的权限\n- /setchannel rule <文本>\n添加频道规则\n- /setchannel warn <文本>\n添加警告消息（脏话过滤器）\n- /setchannel leave\n离开当前频道\n- /setchannel delete\n删除你创建的频道\n\n派系指令\n- /f → 打开派系指令菜单\n- /f pay money → 向派系支付金钱\n- /f pay item → 用手中的物品向派系支付\n\n### !! 玩家必须在背包中拥有所需物品才能创建派系。!!\n\n## 职业指令\n- /jobs → 打开职业菜单\n- /setjobs <玩家> <职业> xp <数量>\n**示例：**\n- /setjobs player miner xp 100\n\n为玩家的职业增加 100 点经验值。\n\n## 市场指令\n- /market → 打开市场菜单\n- /market setcategorie <名称>\n使用手中的物品创建一个分类\n- /market setitem <分类> <价格>\n将物品添加到指定分类并设置价格\n\n等级指令\n- /grade create <名称>\n创建一个等级（颜色可配置）\n- /grade add <玩家> <等级>\n为玩家添加等级\n- /grade remove <玩家>\n移除玩家的等级\n\n挖矿系统\n- /minage\n启用挖矿 HUD 界面（在 100 格范围内受保护）\n\n# ⚠ 警告\n\n本模组并非旨在替代原版 Palamod。\n\n禁止创建公共服务器\n本模组仅供个人使用\n并非所有新增内容均已完善（处于测试阶段）\n内容可能会在未来版本中发生变化\n\nPalamod 内容免责声明\n\nPaladium 属于 PALADIUM GAMES / RECUBE\n\n因此：\n\n禁止使用本模组创建公共服务器\n禁止分享或转售模组内容\n\n我对任何违规行为不承担任何责任。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "431bdd2cee4fa18d",
+  "content": "## 描述\n此模组移除了地图渲染器，导致所有手持和物品框中的地图不再显示其内容。安装此模组后，地图将始终呈现空白。\n\n## 原因？\n在某些服务器中，您可能看到违反Twitch服务条款的地图，这可能导致Twitch封禁。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

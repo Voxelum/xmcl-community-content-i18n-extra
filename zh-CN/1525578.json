@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2c9cfa874530c6b9",
+  "content": "\n\n<h2><strong>NAIFapi - 核心开发框架 🛠️</strong></h2>\n<p><strong>NAIFapi</strong> 是一款强大且跨平台的库与框架，旨在简化 Minecraft 1.21 高级技术工具的开发。它为需要稳定环境来构建和部署复杂模组的创作者提供了坚实的基础层。🚀</p>\n<h3><strong>核心工具集与功能 ✨</strong></h3>\n<ul>\n<li>\n<p><strong>技术工厂架构：</strong> NAIFapi 提供了一套精简的“工厂”式对象注册方法，大幅减少了复杂系统所需的样板代码。🏭</p>\n</li>\n<li>\n<p><strong>架构敏捷设计：</strong> 专为在 <strong>Fabric</strong> 与 <strong>NeoForge</strong> 之间实现无缝兼容而打造，确保基于此 API 构建的工具在不同平台上保持稳定运行。🔄</p>\n</li>\n<li>\n<p><strong>优化的资源处理：</strong> 专注于高效的数据包管理与注册表稳定性，确保流畅的游戏体验，杜绝微卡顿。💎</p>\n</li>\n</ul>\n<h3><strong>技术实现 ⚙️</strong></h3>\n<p>NAIFapi 作为 Minecraft 内部系统的后端协调器运行：</p>\n<ol>\n<li>\n<p><strong>模块化逻辑处理：</strong> 逻辑与平台特定代码相隔离，确保重型操作以最高效率和最优线程优先级执行。🧠</p>\n</li>\n<li>\n<p><strong>现代数据标准：</strong> 完全符合 <code>pack_format: 48</code> 及最新注册表系统，防止在世界加载时出现“安全模式”错误。📂</p>\n</li>\n<li>\n<p><strong>底层集成：</strong> 该框架深入挂钩至游戏初始化阶段，为所有次要功能与工具提供可靠的引导启动支持。⛓️</p>\n</li>\n</ol>\n<h3><strong>性能与可靠性 🛡️</strong></h3>\n<p>与传统“臃肿”的 API 不同，<strong>NAIFapi</strong> 秉持极简主义理念构建，专注于<strong>引擎一致性</strong>。我们提供简洁的技术任务接口，有效降低系统资源开销。</p>\n<ul>\n<li>\n<p><strong>帧时间稳定性：</strong> 经过严格测试，确保框架内部计时精准，即使在复杂的资源加载和高强度后台操作期间，也能维持稳定的帧时间。✅</p>\n</li>\n</ul>\n<p>📜 致谢与许可</p>\n<p>开发者：NaifHani。</p>\n<p>许可协议：遵循 MIT 许可证授权。&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

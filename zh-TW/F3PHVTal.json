@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7139dc2e2187ab96",
+  "content": "\n\n> ### ❗ 重要\n> \n> 本模組在 1.20.2 之後將不再維護，因為在 1.20.3 中已新增遊戲內指令 /Tick：[https://minecraft.wiki/w/commands/tick](https://minecraft.wiki/w/commands/tick)\n\n### 已知不相容項目\n自 Citadel 2.0 起，本模組無法與 [Citadel](https://modrinth.com/mod/citadel) 搭配使用，因為 Citadel 也會修改刻率。\n\n***\n\n本模組深受 1.12.2 模組 [Tickrate Changer](https://www.curseforge.com/minecraft/mc-mods/tickratechanger) 的啟發，該模組由 [Guichaguri](https://www.curseforge.com/members/guichaguri/projects) 製作。\n\n我與他並無任何關聯；我只是很喜歡他的精彩模組，因此將其移植至較新的版本。\n\n功能：\n\n*   允許你修改伺服器刻率\n*   允許你修改客戶端刻率\n*   同步伺服器與客戶端之間的刻率\n\n指令：\n\n/tickrate _\\[每秒刻數\\]_ - 修改伺服器與客戶端刻率\n\n[完整指令列表](https://github.com/Madgique/tickrate_changer_rezurrection/wiki/Commands)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

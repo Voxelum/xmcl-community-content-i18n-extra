@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b57622eed2839a3",
+  "content": "# 高高的草丛\n\n**《高高的草丛》（The Tall Grasses）** 是一个精心策划的、专注于 **Cobblemon（宝可梦）** 的客户端模组包，专为 Sato 服务器构建。它旨在保持体验 **简洁、稳定且高效**，同时提供生活质量改进、更佳的视觉效果以及合理的原版增强功能。\n\n本模组包有意 **减少了仅限服务器端的内容**。大多数依赖服务器的模组已被排除，因为该模组包设计为与 **其构建所针对的服务器** 配合使用，其中服务器逻辑和功能均由服务端处理。\n\n---\n\n## 服务器信息\n_无限期暂停_\n- **服务器 IP：** ~~`thetallgrasses.satoservers.com`~~\n\n---\n\n## 此模组包的用途\n\n- **加入高高的草丛 Cobblemon 服务器**，并使用正确的客户端配置  \n- 提供带有额外润色和便利功能的 **vanilla+ 风格体验**  \n- **性能优先** 的模组选择（流畅的游戏体验，减少卡顿，提升 FPS）  \n\n---\n\n## 面向服务器的设计说明\n\n此模组包 **专为特定的多人游戏环境而设计**。因此：\n\n- 在单人独立游戏或与无关服务器搭配使用时，可能会感到内容不完整  \n- 为避免冗余或与服务器端系统冲突，某些功能被有意省略  \n- 如果您在其他地方使用此模组包，可能需要调整配置文件或添加额外的模组以适应该环境  \n\n---\n\n## 加载器及版本\n\n- **Minecraft 版本：** *1.21.1*  \n- **模组加载器：** *Fabric*  \n  \n---\n\n## 致谢与权限\n\n- 所有包含的模组、库和资源均属于其各自的作者。  \n- 本模组包通过 Modrinth 使用官方源分发（不故意重新托管模组文件）。  \n- 如果您是模组作者并希望移除您的内容或更改署名方式，请联系我，我会进行处理。  \n\n### 特别致谢： \n   #### 模组\n  - [Distant Horizons](https://modrinth.com/mod/distanthorizons)\n  - [Euphoria Patches](https://modrinth.com/mod/euphoria-patches)\n   #### 其他\n  - [BSL Shaders: Complementary-Unbound](https://modrinth.com/shader/complementary-unbound)\n  - [Human Era Villagers-Illagers](https://modrinth.com/resourcepack/human-era-villagers-illagers)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

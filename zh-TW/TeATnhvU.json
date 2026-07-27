@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cb210a8fddc277a2",
+  "content": "我喜歡新的修正案（Amendments）機制，也同樣鍾愛鐵之魔法（Iron's Spells）的火球設計。不過，預設情況下這兩者並不太協調。\n本模組修正了修正案的新一級火焰彈與鐵之魔法的魔法火球，以減少衝突。\n\n簡要說明：\n- 將修正案火焰彈的渲染器替換為 ISS 的火球渲染器，但使其尺寸更小\n- 無縫整合了兩者的爆炸粒子系統\n- 優先顯示修正案 projectile 的尾跡粒子\n- 當遊戲規則中啟用咒語破壞（spell griefing）時，ISS 火球的爆炸會引發火焰，這與修正案在啟用生物破壞（mob griefing）時的行為一致",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

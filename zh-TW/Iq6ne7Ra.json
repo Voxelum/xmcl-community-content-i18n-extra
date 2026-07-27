@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0f4b956c12a63224",
+  "content": "\n\n一個於 Minecraft 啟動時自動備份所有設定檔的簡單模組。\n\n## 模組評測（附字幕）\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FV2j3dJuWyY\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n\n## 功能特色\n\n- 於 Minecraft 啟動時備份設定檔\n- 備份遊戲設定檔\n- 備份模組設定檔\n- 備份光影設定檔\n- 壓縮備份檔案\n- 移除舊備份\n\n## 設定檔\n\n設定檔位於 `config/config-backuper.json`。\n\n- `includeGameConfigs` - 將遊戲設定檔加入備份\n- `includeModConfigs` - 將模組設定檔加入備份\n- `includeShaderPackConfigs` - 將光影設定檔加入備份\n- `maxBackups` - 保留的最大備份數量（設為 `-1` 表示停用刪除舊備份的功能，預設值為 `10`）\n- `compressionEnabled` - 啟用備份壓縮（開啟壓縮可縮小備份檔案大小，但會稍微拖慢建立速度）\n- `backupFolder` - 備份儲存資料夾（`./` 為目前遊戲目錄）\n- `backupFilePrefix` - 備份檔名前置字串\n- `backupFileSuffix` - 備份檔名後置字串\n\n## 整合包\n\n您可以在整合包中使用此模組，無需事先取得授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

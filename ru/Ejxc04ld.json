@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f8287fde270e8994",
+  "content": "\n\n# Better Look Enchant\n\nBetter Look Enchant — это клиентский мод для Minecraft, который показывает, достиг ли ваш уровень зачарования максимального значения.\n\nКогда уровень зачарования достигает максимума, цвет текста меняется.\n\nЕсли у вас установлен [ModMenu](https://modrinth.com/mod/modmenu), вам станут доступны расширенные возможности настройки.\n\n![Image](https://www.kow08absty.com/nextcloud/index.php/s/N2JH5N6do8NQSWo/preview)\n\n## Требования\n\n[Fabric Loader](https://fabricmc.net/use/installer/) версии 0.15.0 или выше.\n\nДоступно на Fabric.\n\n## Возможности\n\n<dl>\n  <dt><strong><i>Когда уровень зачарования максимальный</i></strong></dt>\n  <dd>Зелёная подсветка.<br><br></dd>\n\n  <dt><strong><i>Зачарование «Починка»</i></strong></dt>\n  <dd>Золотая подсветка.<br><br></dd>\n\n  <dt><strong><i>Зачарование «Бесконечность»</i></strong></dt>\n  <dd>Светло-фиолетовая подсветка.<br><br></dd>\n\n  <dt><strong><i>При установке ModMenu вы сможете изменить</i></strong></dt>\n  <dd>Цвет и стиль отображения зачарований по умолчанию.<br>\n  Цвет и стиль подсветки максимального уровня.<br>\n  Цвет и стиль для конкретных зачарований, если их уровень максимальный.<br><br></dd>\n</dl>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

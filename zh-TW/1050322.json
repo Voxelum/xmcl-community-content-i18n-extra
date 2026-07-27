@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e3880d204b36010e",
+  "content": "\n\n<h1>QuickCommands</h1>\n<p>一款 FabricMC Minecraft 模組，提供圖形介面以方便存取各種實用指令。</p>\n<p>使用本模組，您可以透過簡單的 GUI 輕鬆執行 <strong>/time</strong>、<strong>/weather</strong>、<strong>/effect</strong> 以及玩家縮放等指令。</p>\n<h3>目前功能（v1.2）：</h3>\n<ul>\n<li>設定時間</li>\n<li>設定天氣</li>\n<li>給予自己狀態效果</li>\n<li>管理玩家縮放比例</li>\n</ul>\n<h3>支援語言：</h3>\n<ul>\n<li>英文</li>\n<li>德文</li>\n<li>德文（奧地利）</li>\n<li>[適用於 1.21.4 及以下版本] 俄文</li>\n<li>[適用於 1.21.4 及以下版本] 烏克蘭文</li>\n</ul>\n<h3>特別感謝：</h3>\n<ul>\n<li><a href=\"https://github.com/ludwici\" target=\"_blank\" rel=\"nofollow\">ludwici</a> 將本模組翻譯為俄文與烏克蘭文</li>\n</ul>\n<h3>亦可於以下平台取得：</h3>\n<ul>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fquickcommands\" target=\"_blank\" rel=\"nofollow\">Modrinth</a></li>\n</ul>\n<p><br><hr><br>\n本專案採用 <strong>GNU Affero 通用公共授權條款 v3.0</strong> 授權。詳細內容請參閱 <a href=\"https://github.com/MarioS271/quick_commands_mod/blob/main/LICENSE\" target=\"_blank\" rel=\"nofollow\">授權檔案</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

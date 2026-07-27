@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d44af004c638217",
+  "content": "存檔的世界將與您的單人遊戲世界存放在同一資料夾中。\n\n此模組會在暫停選單（Escape-Menu）中添加一個按鈕，允許您將當前所在的伺服器複製一份到單人遊戲中。\n\n該模組會下載：\n- 方塊\n- 方塊實體\n- 資源包\n- 玩家物品欄\n- 實體\n- 終界箱物品欄\n- 容器（箱子、桶子等）\n- 村民\n- 進度\n- 統計數據\n\n# 容器\n只有在世界下載進行期間至少開啟過一次物品欄時，容器的物品欄（終界箱、箱子、桶子等）才能被保存。這項規則同樣適用於實體的物品欄（例如村民、運載箱船、馬匹等）。\n\n# 進度與統計數據\n只有在下載進行期間至少開啟過一次對應的介面時，進度和統計數據才能被保存。\n\n# Fabric API\n此模組需要 Fabric API 才能運作。您可以在此處下載 [Fabric API](https://modrinth.com/mod/fabric-api)。\n\n# 設定\n使用 \"/swd config\" 命令以存取設定。\n\n### 自動下載\n設定是否在加入伺服器時自動下載世界。\n\n### 儲存世界至\n設定存檔世界的名稱。如果已存在同名世界，新的區塊將覆蓋該世界的一部分。\n\n# Flashback\n您可以從 [Flashback](https://modrinth.com/mod/flashback) 錄音檔中下載世界。只需在遊戲中打開 Flashback Replay Viewer 並按下 Escape 鍵，左下角就會出現一個下載按鈕。\n\n# Replay Mod\n您可以從 [Replay Mod](https://modrinth.com/mod/replaymod) 錄音檔中下載世界。只需在遊戲中打開 Replay Mod Replay Viewer 並按下 Escape 鍵，左下角就會出現一個下載按鈕。\n\n# 圖片\n<img width=\"2560\" height=\"1440\" alt=\"screenshot\" src=\"https://github.com/user-attachments/assets/1a0f8344-ac26-4c8d-918b-1615f5816d4e\" />\n\n# 附屬連結\n如果您需要可靠的 Minecraft 伺服器，可以使用我的 [Wisehosting 附屬連結](https://wisehosting.com/JOKER/) 或折扣碼 *joker* 來支持我。\n\n謝謝！\n![Wisehosting affiliate banner](https://cdn.modrinth.com/data/cached_images/a4a7c84f85e79abb0fe52e89d06bfac91ba06042_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

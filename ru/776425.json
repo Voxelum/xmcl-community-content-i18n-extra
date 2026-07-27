@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77f825037155f06e",
+  "content": "\n\n<p>В Advanced Rocketry было внесено критическое изменение, нарушающее совместимость, а ARTweaker так и не был обновлён для учёта этих изменений. Данный мод возвращает поддержку CraftTweaker для новой Advanced Rocketry.</p>\n<p>Примеры скриптов:</p>\n<p>mods.advancedrocketry.RecipeTweaker.forMachine(&quot;PrecisionAssembler&quot;)</p>\n<p>.remover()</p>\n<p>.addOutputs(&lt;advancedrocketry:itemupgrade:3&gt;)</p>\n<p>.remove();</p>\n<p>mods.advancedrocketry.RecipeTweaker.forMachine(&quot;RollingMachine&quot;)</p>\n<p>.builder()</p>\n<p>.inputs(&lt;ore:wool&gt; * 20, &lt;minecraft:apple&gt; * 6, &lt;liquid:lava&gt; * 100)</p>\n<p>.outputs(&lt;minecraft:iron_ingot&gt;, &lt;minecraft:gold_ingot&gt;)</p>\n<p>.power(4)</p>\n<p>.timeRequired(200)</p>\n<p>.build();</p>\n<p>mods.advancedrocketry.RecipeTweaker.forMachine(&quot;Lathe&quot;).removeAll();</p>\n<p>Поддерживаемые машины: (используется в параметре метода <code>forMachine</code>)</p>\n<ul>\n<li>Centrifuge</li>\n<li>ChemicalReactor</li>\n<li>Crystallizer</li>\n<li>CuttingMachine</li>\n<li>ElectricArcFurnace</li>\n<li>Electrolyser</li>\n<li>Lathe</li>\n<li>PrecisionAssembler</li>\n<li>PrecisionLaserEtcher</li>\n<li>RollingMachine</li>\n<li>SmallPlatePresser</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

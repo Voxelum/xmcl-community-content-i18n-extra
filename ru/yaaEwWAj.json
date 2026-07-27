@@ -1,0 +1,6 @@
+{
+  "bodyHash": "86cada2808916b95",
+  "content": "# 🚀 Overview\nThis resource pack is designed for server and map developers as an example of how to create a custom 2D player head model or a larger model for use in GUI for Minecraft versions 1.21.6+. It adds new visual assets without replacing any vanilla content. The pack includes properly configured models designed specifically for GUI elements. You are free to use this pack for your own projects and as a learning reference.\n\n## ⚡Using examples\n![EXAMPLE](https://cdn.modrinth.com/data/cached_images/7a82daec5b4eb01291938c7cd3b496c5be65bd61.png)\n## ⚡Give commands\n\n<details>\n<summary>Spoiler</summary>\n\n### for 2D:\n\n```\n/give @p minecraft:player_head[custom_model_data={floats:[1]}] 1\n```\n\n### for big one:\n\n```\n/give @p minecraft:player_head[custom_model_data={floats:[2]}] 1\n```\n\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

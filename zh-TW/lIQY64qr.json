@@ -1,0 +1,6 @@
+{
+  "bodyHash": "610db2341c4702eb",
+  "content": "### 這到底是什麼？\n很高興你問了。TipTapShow 是一個為較新版本的 Minecraft/Fabric 設計的按鍵顯示模組。\n\n### 需求\n此模組*需要* Fabric API，請務必安裝它。\n它與 [ModMenu](https://modrinth.com/mod/modmenu) 和 [Cloth Config](https://modrinth.com/mod/cloth-config) 也能完美協作。你可以不使用 Cloth Config 來編輯配置，但我不建議這麼做。\n\n### 我討厭這些顏色。\n好消息是，你可以在配置中更改所有顏色！不信的話，看看[圖庫](https://modrinth.com/mod/tiptapshow/gallery)！\n\n### 發現了錯誤或想建議新功能？\n請前往 [Github](https://github.com/Spyxar/TipTapShow/issues) 建立一個 Issue。\n\n### 模組無法運作！！\n你有安裝 Fabric API 嗎？沒有？快去下載。\n如果你已經閱讀了上面的「需求」部分，並且已安裝 Fabric API 但模組仍然無法運作，請前往 [Discord](https://discord.com/invite/EPFcHVjK8p) 或 [Github](https://github.com/Spyxar/TipTapShow/issues) 尋求幫助。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

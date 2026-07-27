@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99c6cbf1a7c0a8c6",
+  "content": "<h3>Детектор погоды</h3>\n<p>&nbsp;</p>\n<p><img src=\"https://i.imgur.com/9FNXXe5.png\" alt=\"Weather Detector Icon\" width=\"218\" height=\"158\"></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>Добавляет блок детектора погоды, который выдает сигнал редстоуна в зависимости от текущей погоды.</p>\n<p><br>Блок детектора погоды:</p>\n<ul>\n<li>Выдает сигнал редстоуна силой 1-8, если идет дождь или снег.</li>\n<li>Выдает сигнал редстоуна силой 9-15, если идет гроза.</li>\n<li>Можно инвертировать, взаимодействуя с ним.</li>\n</ul>\n<p>Он может быть скрафчен по аналогии с датчиком дневного света, используя стеклянные блоки, незеритовый кварц и гладкие каменные плиты.</p>\n<p>&nbsp;</p>\n<p>В настоящее время поддерживает Fabric и (Neo)Forge для версий 1.19.3, 1.19.4, 1.20.1 и 1.21.1. Для версии на Fabric требуется Fabric API.</p>\n<p>Принимаются PR и сообщения об ошибках в&nbsp;<a href=\"https://github.com/tanukibouwer/weather-detector\" target=\"_blank\" rel=\"nofollow\">репозитории на GitHub</a>.</p>\n<p><img src=\"https://i.imgur.com/RtiVavo.png\" alt=\"Scene containing the weather detector block.\" width=\"688\" height=\"387\"></p>\n<p>&nbsp;</p>\n<p>Мод лицензирован под MIT License, поэтому его можно свободно добавлять в модпаки.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

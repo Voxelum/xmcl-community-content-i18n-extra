@@ -1,0 +1,6 @@
+{
+  "bodyHash": "94ee6cd555bf79b9",
+  "content": "\n\n## 概述\n每次你死亡时，本模组会将一个死亡宝箱放置在安全的位置以保存你的战利品。在限定时间内，只有你可以访问其中的内容；之后任何人都可以通过简单的右键点击来拾取。战利品会被放回原来的物品栏槽位，让你可以直接重返战斗！\n\n## 生存特性\n- 保护：限定时间内，只有你可以打开自己的墓碑，且没有任何东西会破坏它……\n- 信息提示：按住 Shift 右键点击可查看墓碑的详细信息，等待守护者过期……\n- 兼容性：原生支持 Aether Legacy、Baubles、Cosmetic Armor Reworked、GalactiCraft、TechGuns 及 Travellers Backpack 的背包物品栏。\nintegration：支持通过 Twilight Forest 的护符、CoFH 与 EnderIO 的附魔以及 Botania 的坚定常春藤进行灵魂绑定。\n- 槽位还原：你的战利品将被放回背包中原来的槽位。\nsmart 位置：墓碑会被放置在安全的位置，最好在你的原始死亡点附近可见。掉进岩浆湖深处？没关系，你的墓碑会在表面上。\n- 自定义：提供丰富的配置选项，允许你按喜好调整模组，包括绕过 keepInventory 规则以更好地支持其他模组。\nbalanced：可自定义死亡时激活多少个灵魂绑定附魔，这样你仍有充分的理由重返战场……\n\n## 管理特性\n- 备份：玩家死亡时会将背包数据保存到本地，你可以通过简单的 `/gkrestore` 命令将其恢复（参考了 OpenBlocks）。\n- 管理员友好：创造模式玩家无法通过右键拾取物品，他们必须破坏墓碑。所以你再也不用担心会说“哎呀，我把你的战利品全删了”。\n- 游戏内历史：你可以通过简单的 `/gklistcommand` 命令查看、恢复并传送至某玩家的过往墓碑。\n\n## 计划中的特性\n- 死亡证明道具：帮助你定位自己的墓碑\n\n## 特别感谢\n本模组松散地参考了 TwentyOneZ 的 Guardian Chests 模组，而该模组又基于 NightKosh 的 GraveStone 模组、Dr.Cyano 的 Lootable Bodies 模组和 Tyler15555 的 Death Chest 模组。感谢他们提供的最初创意！\n\n感谢 QuantumlyTangled，是他开启了 1.12.2 版本的原始重制工作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

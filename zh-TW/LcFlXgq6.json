@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cdf3028e91bab489",
+  "content": "\n\n我 100% 確定它適用於任何 1.7.# 版本，並且很可能也支援 1.8。\n\n如果此模組無法運作，請嘗試使用資料包版本。\n\n這個資料包為 Cobblemon 增加了更多升級招式，讓玩家不會感到受限或沮喪，主要目的是讓初始寶可夢擁有更多屬性招式選擇，涵蓋特殊與物理招式（視其最高能力值而定）。舉例來說，小鱷魚在進化前只有水槍一個水屬性招式，直到約 50 級以上進化成為大力鱷後才會學會水流尾。此資料包讓類似小鱷魚路線的初始寶可夢能在升級時學習更多招式，例如水流拳和水流裂破。\n\n部分初始寶可夢如妙蛙種子，在升級過程中完全學不到傷害型毒屬性招式。透過這個資料包，妙蛙種子一線能在升級時習得毒液潑灑和污泥炸彈。\n\n此資料包也會加強部分初始寶可夢，讓它們習得原本主系列遊戲中無法學會的招式，例如火暴猴能學會地球力量，甲賀忍蛙能學會暗夜報仇。\n\n其中大多數新增招式為蛋招，例如炎兔兒終於能在升級時學會高跳踢；也包括一些 TM 招式，例如帝王拿波能學會加農光炮。\n\n包含前代或其他遊戲中習得的招式*（例如噴火龍升級時學會影子爪）\n\n試算表中列出了每個招式所需的等級。\n\n[https://docs.google.com/spreadsheets/d/1QKiQSNdIWgVf5IjO9Rbo08WXU_fkpz3vl-tXEKQoMfo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1QKiQSNdIWgVf5IjO9Rbo08WXU_fkpz3vl-tXEKQoMfo/edit?usp=sharing)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

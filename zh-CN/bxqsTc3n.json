@@ -1,0 +1,6 @@
+{
+  "bodyHash": "950536d4721d40c6",
+  "content": "\n\n# 离线名称标签图标\n\n一款模组，会在你自己的玩家上方添加可自定义的名称标签图标/徽章，类似于流行的 PvP 客户端。同样支持离线账号。\n\n> **Minecraft 1.21.11+（v3.0.0 及更新版本）：** 你自己的名称标签将由该模组自行渲染，因此无需额外模组。\n\n> **较旧的 Minecraft 版本：** 若要查看带图标的你自己的名称标签，请安装 [Who Am I](https://modrinth.com/mod/whoami) 模组。\n\n![游戏内预览](https://cdn.modrinth.com/data/bxqsTc3n/images/bc039032521da3124fcc89ffd60557600e9e422d.png)\n\n## 自定义图标\n\n从[此处](https://modrinth.com/resourcepack/offline-nametag-icon-tempelate)下载模板资源包，编辑：\n\n```\nassets/minecraft/offlinenametagicon/badge.png\n```\n\n然后将该资源包放入游戏的 `resourcepacks` 文件夹中。\n\n---\n\n_本项目依据 [DSMSLv2 许可证](https://github.com/fspofficial/offline-nametag-icon/blob/main/LICENSE.md) 授权。在印度制作 🇮🇳_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

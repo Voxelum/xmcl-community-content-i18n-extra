@@ -1,6 +1,6 @@
 {
-  "bodyHash": "sR4vcxOWOfQ=",
-  "content": "![輸送帶哪裡有問題](https://raw.githubusercontent.com/LIUKRAST/SmartBounds/refs/heads/master/images/chain_conveyors.png)\n這個模組旨在減少Create模組方塊實體中巨大且無意義的[渲染範圍](#what-are-render-bounds)。\n你可以使用指令 `/neoforge debug_blockentity_renderbounds true` 來檢查NeoForge方塊實體的渲染範圍。\n\n它也重新設計了一些方塊實體的[渲染範圍快取](#render-bounds-caching)機制。\n\n這是一個相當小的優化，但在大型機械裝置和大面積機器區域中，它能帶來顯著的差異。\n\n目前支援的方塊：\n- 機械手臂\n- 輸送帶\n- 鏈條輸送機\n- 工廠面板\n- 動力轉子與伸縮機械手\n- 滾輪\n- 青蛙傳送埠\n\n## 什麼是渲染範圍？\n通常，為了優化效能，所有在螢幕後方或螢幕外的方塊都不會被渲染，以避免無用的計算。\n對於一般方塊，這個範圍設定為3x3區域；但對於方塊實體，這個範圍是可自訂的。\n原因很簡單：要渲染比一個方塊更大的物體。例如，鏈條輸送機需要更大的渲染範圍來顯示鏈條連接。\n問題在於，大多數情況下，Create模組傾向於「越大越好」，直接將整個區域擴大。這導致即使大部分方塊實體根本不可見，它們仍然會被渲染。\n\n## 渲染範圍快取\n邊界框不會每幀都重新生成，因為方塊只需要在特定事件發生時改變其邊界框。\n這個模組也對此進行了優化，移除了某些方塊（如輸送帶）無用的邊界框重新載入——這些方塊之前會**每個遊戲刻**（每秒20次）重新載入邊界框。\n現在它們只在方塊被破壞並替換時才會更新，從而減少延遲。",
+  "bodyHash": "8af988e1e6f7f12c",
+  "content": "\n\n![傳送帶出了什麼問題](https://raw.githubusercontent.com/LIUKRAST/SmartBounds/refs/heads/master/images/chain_conveyors.png)\n此模組旨在減少 Create 方塊實體龐大且不合理的[渲染範圍](#what-are-render-bounds)。\n你可以使用指令 `/neoforge debug_blockentity_renderbounds true` 來查看 NeoForge 方塊實體的渲染範圍。\n\n它還重構了部分方塊實體渲染範圍的[快取機制](#render-bounds-caching)。\n\n這是一個相當小的優化，但在大型機械裝置與大型機器區域中，它能帶來顯著的差異。\n\n目前我們支援：\n- 機械臂\n- 傳送帶\n- 鏈條運輸機\n- 工廠面板\n- PSI 與發射器\n- 滾輪\n- 青蛙端口\n\n## 什麼是渲染範圍？\n通常為了優化效能，位於螢幕後方或外部的所有方塊都不會進行渲染，以避免無用的運算。\n在一般方塊中，此範圍設為 3x3 區域，但在方塊實體中，則是可自訂的。\n原因？很簡單，要渲染比方塊更大的物件。例如，鏈條運輸機需要更大的渲染邊界框來顯示鏈條連接。\n問題在於，Create 大多數時候採取「寧大勿小」的策略，直接膨脹整個區域。這導致大多數方塊實體即便根本看不見，仍然會被渲染。\n\n## 渲染範圍快取\n邊界框並非每幀都會重新生成，因為方塊只需在某些特定事件發生時才需要更改其邊界框。\n此模組也針對此部分進行了優化，移除了部分方塊（傳送帶）無謂的邊界框重新載入；它們過去會在每一個遊戲刻（每秒 20 次）重新計算邊界框。\n現在它們僅在方塊被破壞並重新放置時才會更新，從而減少延遲。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

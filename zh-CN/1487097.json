@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be329f4890da2142",
+  "content": "\n\n<p style=\"text-align:center\"><strong>Create Registry Fix</strong> 是一款为 Minecraft 1.20.1 的 Create（6.0+）现代版本设计的轻量级兼容补丁。<br><br>由于大型整合包中存在注册表加载顺序问题，Create 有时会在自身注册完成前尝试对物品执行操作，从而导致在进入主菜单前就发生崩溃，造成大量配置文件丢失及更多问题。<br><br>本模组通过实现一个 Mixin 来修复该问题，使游戏能够正确完成加载。<br><br>它还能修复其他可能导致启动崩溃的问题</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

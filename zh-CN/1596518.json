@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9f15257e27081d01",
+  "content": "\n\n<h1>AE 合成追踪器</h1>\n<p>一款适用于 Minecraft NeoForge 1.21.1 的模组，可为 AE2 的合成状态提供实时可视化反馈。</p>\n<h2>功能特性</h2>\n<h3>模式供给器高亮显示</h3>\n<ul>\n<li>自动检测你的 AE2 网络中正在工作的模式供给器</li>\n<li>颜色编码高亮：\n<ul>\n<li>🟢 <strong>绿色</strong> — 供给器正在合成中</li>\n<li>🟡 <strong>黄色</strong> — 供给器停滞（忙碌但无进度）</li>\n<li>🔴 <strong>红色</strong> — 供给器卡死（被锁定、输出槽已满或缺少材料）</li>\n</ul>\n</li>\n<li>在高亮的供给器上方显示输出物品图标</li>\n<li>可自定义高亮颜色和透明度</li>\n</ul>\n<h3>网络定位器</h3>\n<ul>\n<li>可通过合成获得的物品，用于扫描 AE 网络中与筛选物品匹配的方块</li>\n<li>GUI 内提供 9 个筛选栏位——可从 EMI 拖入物品或手动放置</li>\n<li>在 AE 网络控制器/接入点上按住 Shift 点击以绑定定位器</li>\n<li>高亮显示网络上匹配的方块并附带距离信息</li>\n<li>支持跨维度工作（仅在与已绑定位置相同维度时才会扫描）</li>\n<li>即时网络切换检测：清除旧高亮并立即扫描新网络</li>\n<li>即时掉落检测：物品掉落时清除所有高亮</li>\n</ul>\n<h3>运行时模式</h3>\n<ul>\n<li>通过定位器界面中的按钮启用运行时高亮</li>\n<li>即使关闭定位器 GUI，高亮效果仍会保持</li>\n<li>可自由开关，不会影响配置设置</li>\n</ul>\n<h2>依赖项</h2>\n<ul>\n<li>Minecraft 1.21.1</li>\n<li>NeoForge 21.1+</li>\n<li>Applied Energistics 2 (AE2) —— 运行时依赖</li>\n</ul>\n<h3>素材致谢</h3>\n<ul>\n<li>网络定位器的物品贴图基于 AE2 的 <code>network_tool</code> 贴图，版权归 Applied Energistics 2 所有。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fce1da5d9a55f6d9",
+  "content": "# 许可声明\n对本项目的一切使用均须遵守本项目的许可条款，详见 [许可证](https://spdx.org/licenses/OSL-3.0.html)。\n\n# NoConnect\n\n**专为愿意破坏在线体验的用户设计。因此，使用此插件时出现的问题应在此处报告。**\n\n阻止连接到远程<b>*</b>（主要）但不限于更新、加入服务器等。  \n*除本地主机资源和默认允许的 hosts 外。\n\n参考 https://github.com/InfinityStudio/NonUpdate 的贡献者。\n\n注意\n----\n这是一个 **`modlauncher ITransformationService`** “插件”。它不会显示在模组菜单中。\n\n**从 Java 24 开始，此“插件”将无法工作。其背后的基础设施已被永久移除，详见 [https://openjdk.org/jeps/486](https://openjdk.org/jeps/486)。**\n作者将在未来尝试寻找合适的替代方案以补充功能。\n\n此“插件”需要 **java.lang.SecurityManager**，该功能在 Java 17+ 中已 [**彻底弃用** (JEP-411)](https://openjdk.org/jeps/411)。  \n在 Java 18 中，需要在命令行中添加 `-Djava.security.manager=allow`，详见 https://bugs.openjdk.org/browse/JDK-8275671\n\n默认情况下，允许以下 hosts：\n```\n*.minecraft.net\n*.minecraftservices.com\n*.mojang.com\n```\n您可以在 `./config/noconnect.toml` 中更改此设置。重启后生效。\n\n已在 Minecraft Forge 1.14.x - 1.21.4 上测试。    \n已在 NeoForge 1.21.1 - 1.21.4 上测试。\n\n许可证\n--------\n依据开源许可证版本 3.0 授权，更多详情请参阅 [LICENSE](https://spdx.org/licenses/OSL-3.0.html)。\n\n致谢\n--------\n本项目包含参考自以下代码的代码片段：\n[OkHttp](https://github.com/square/okhttp/blob/cd722373281202492043f4294fccfe6f691ddc01/okhttp/src/main/kotlin/okhttp3/CertificatePinner.kt#L276)，\n依据 Apache 2.0 许可证授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

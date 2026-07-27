@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d1ee0b3af718facf",
+  "content": "\n\n<p>为高级背包添加自动拆解升级：salvagingbackpack:salvaging_upgrade</p>\n<ul>\n<li>自动检测并拆解神化中的装备和宝石&nbsp;</li>\n<li>- 所有拆解产物将直接返回背包物品栏</li>\n<li>- 每秒对物品栏进行一次扫描</li>\n<li>- 提供切换开关以启用或禁用整个升级功能<br>\n<h2>两种运行模式：允许和阻止。<br>默认模式：阻止<br>&nbsp;<br>- 阻止模式：默认回收物品。</h2>\n<p>向过滤列表添加物品后：<br>匹配过滤列表的物品 &rarr; 不会回收；<br>不匹配过滤列表的物品 &rarr; 仍会回收。<br>​<br>- 允许模式的功能与阻止模式完全相反。</p>\n<h2>&nbsp;</h2>\n前置要求</li>\n<li>\n<h2>- 高级核心</h2>\n</li>\n<li>\n<h3>- 高级背包</h3>\n</li>\n<li>\n<h3>可选依赖（解锁完整功能） - 神化</h3>\n</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b94f423e7e717f47",
+  "content": "当龙的火球落在黑曜石附近时，它会变成黑曜石钻石矿石。这种方块结合了黑曜石和钻石矿石的特性。\n\n黑曜石转化为钻石矿石的概率可以通过游戏内规则进行配置。\n\n从版本 1.1.0 开始，你可以通过修改“dragon_made_ores”方块标签来更改随火球生成的方块。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

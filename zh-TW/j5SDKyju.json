@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4880f096f9f195ed",
+  "content": "JourneyMap Tracker 是一個模組，它會根據提供的 DynMap URL，建立並更新被追蹤玩家的路徑點。\n\n**並非所有的網頁地圖軟體都能運作，但截至目前為止，我尚未發現有無法運作的軟體。**\n\n已知可正常運作的軟體包括：\n- Squaremap\n- EarthMC 所使用的軟體（未能找到具體名稱）\n\n### 設定 URL 及其他參數\n\n您可以輸入 `/jmtracker url <url 這裡>` 來設定，也可以透過 ModMenu 或執行 `/jmtracker config` 在設定檔中進行配置。\n\n設定檔中有一個選項用於修改輪詢延遲，但它似乎無法低於 **一秒**。\n\n對於其他參數，您需要按下 F12，導航至 **Network（網路）** 標籤頁，然後右鍵點擊一個反覆獲取的檔案並選擇「在新分頁中開啟」。該檔案的名稱應類似於 `players.json` 或 `tiles.json`。\n\n![正在獲取的 players.json](https://cdn.modrinth.com/data/cached_images/5c723d49590c771d4f3d6035e75d59f6a46be20d.png)\n\n如果該檔案的精確 URL 不是 `<您的 url>/tiles/players.json`，則必須將 URL 後綴設定為實際的 `/tiles/players.json` 部分。\n\n針對世界特定選項，如果個別玩家的物件不包含世界物件，請將其關閉。\n\n針對位置子類別，情況正好相反：如果玩家物件直接包含 x、y 和 z 值，請留空。如果不是，請將其更改為包含這些值的物件名稱。\n\n![位置相關設定](https://cdn.modrinth.com/data/cached_images/51b5f5d502ecc0f6681aa69aeee784e8faef0f44.png)\n\n在此範例中，由於 x、y 和 z 值位於 `position` 物件內，因此應設定為 `position`。\n\n### 追蹤 / 取消追蹤玩家\n\n很不幸地，無法透過設定檔來追蹤或取消追蹤玩家。\n\n要追蹤和取消追蹤玩家，您必須使用以下指令：\n```\n/jmtracker add/remove <玩家名稱>\n```\n\n問題回報和功能請求可以發布在我的問題追蹤器上。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

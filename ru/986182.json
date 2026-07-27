@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6bd08d3b24925e2a",
+  "content": "<h2>隐岩砥凿</h2>\n<h2>Too Hard to Dig (2Hard2Dig)</h2>\n<h3>简介</h3>\n<p>受 <a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f3206.html\" rel=\"nofollow\">痒死唠</a> 启发的一个高版本 Minecraft 模组</p>\n<h3>功能列表</h3>\n<ul>\n<li>玩家的挖掘速度受目标方块所在的 Y 坐标影响，且随 Y 值下降挖掘速度下降</li>\n<li>挖掘速度下降随挖掘计数增加而从原速逐渐下降，并在超出一定阈值后达到最慢</li>\n<li>当玩家两次挖掘的方块坐标之差超过 10 时重置挖掘计数（间距超过 10 挖掘计数重置为最小值的一半，Y值超过 10 时挖掘计数重置为最小值）</li>\n<li>带有矿物标签的方块不计入挖掘计数，且挖掘速度不受影响</li>\n<li>按生物群系配置功能开启的最大高度 (WIP)</li>\n<li>按维度配置计入挖掘计数的方块和不计入挖掘计数的方块 (WIP)</li>\n<li>挖掘速度达到最慢时继续挖掘有概率额外损耗工具耐久 (WIP)*</li>\n<li>提高主世界矿物在矿洞表面生成的概率 (WIP)</li>\n</ul>\n<p><em>注 * ：仍在考虑是否添加该特性</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a85496e77614498b",
+  "content": "# Corpse Complex 非官方版本\n本模组是 Minecraft 高版本的 [Corpse Complex](https://www.curseforge.com/minecraft/mc-mods/corpse-complex) 模组的非官方移植版。\n\n当您使用此模组时，请勿向 TheIllusiveC4 报告问题，而应向我们要报告。\n\nCorpse Complex 是一个为 Minecraft 死亡系统添加多种配置选项的模组。我们完全移植了原版模组的功能。此外，我们还恢复了之前被移除的墓碑卷轴物品。\n\n## 功能\n- 所有配置选项均可通过配置文件使用。\n  库存、经验值、饥饿值和重生等模块可以单独启用或禁用。\n- 包含一种新的灵魂绑定附魔，有助于在死亡时保留重要装备。\n- 控制经验值损失，管理重生时的饥饿值，并应用可自定义的药水效果，如 Memento Mori（铭记死亡）。\n\n未来的更新和新功能将增加与其他模组的更多兼容性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

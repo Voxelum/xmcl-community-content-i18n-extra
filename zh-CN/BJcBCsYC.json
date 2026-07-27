@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cf53a0646a1eb3bd",
+  "content": "# 天数计数器\n\n![https://cdn.modrinth.com/data/BJcBCsYC/images/31cd33d9b6450e748ecf65480c3f89daaf805cba.png](https://cdn.modrinth.com/data/BJcBCsYC/images/31cd33d9b6450e748ecf65480c3f89daaf805cba.png)\n\n一个轻量级的 Minecraft 1.21.5 数据包，会在你的物品栏上方显示当前的游戏内天数。无需指令、函数或依赖项，只是一个简单的天数追踪器。\n\n## 功能说明\n\n- 每次日出时，在动作栏显示“第 X 天”（X为当前天数）。\n- 适用于任何世界类型（生存、极限模式、创造模式）。\n\n## 使用场景\n\n- **YouTubers** – 让观众知道你的生存系列到了第几天。  \n- **挑战玩法** – 在不制作时钟的情况下记录存活天数。  \n- **休闲玩家** – 及时了解第100天等里程碑时刻的到来。  \n\n## 安装方法\n\n1. 下载 DayCounter 数据包 ZIP 文件或从仓库克隆。  \n2. 将 `DayCounter` 文件夹放入世界目录的 `datapacks/` 中。  \n3. 启动 Minecraft 1.21.5 或更高版本，然后运行：\n```\n/reload\n```\n4. 验证是否生效：\n```\n/datapack list\n```\n应能看到 `DayCounter` 已启用。\n\n## 使用方法\n\n1. 加载到你的世界中。  \n2. 每天新开始时，你会在物品栏上方看到“第 X 天”的更新。  \n3. 无需额外设置。\n\n## 详细信息\n\n**数据包格式**：71 (1.21.5)  \n**命名空间**：`daycounter`\n\n## 许可协议\n\n本数据包采用 MIT 许可证发布。欢迎修改和分享。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

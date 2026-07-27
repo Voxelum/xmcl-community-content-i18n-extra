@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a8a20d58d713d5a1",
+  "content": "本模组将获取并缓存[Chinese 1.9+ TierList](https://cntier.win/)。数据将根据玩家的设置，显示在对应玩家名称标签的前方。\n\n需要[Cloth-Config API](https://modrinth.com/mod/cloth-config)和[Mod Menu](https://modrinth.com/mod/modmenu)。\n\n你可以在 Mod Menu 中打开配置界面。\n\n你可以使用命令 `/cntier <玩家名称>` 查看特定玩家的详细数据。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

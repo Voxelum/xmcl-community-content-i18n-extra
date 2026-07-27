@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f1c49935e426d907",
+  "content": "# QuitOrNot Revived 退出前确认：复生\n\n## 简介 介绍\n\n`QuitOrNot Revived` 是 [`QuitOrNot`](https://github.com/VulpesStella/QuitOrNot) 的一个分支（而 `QuitOrNot` 本身又是 [`QuitConfirm`](https://github.com/CaaMoe/QuitConfirm) 的分支）。\n\n作为一个客户端模组，它会弹出一个确认屏幕或提示框，以防止玩家误退出 Minecraft。\n\n退出前确认：复生 是 QuitOrNot 的非官方移植版。\n\n本模组会弹出一个确认窗口或提示框，以防止玩家因误操作退出游戏。（启动了10分钟的整合包直接点到退出你就老实了）\n\n## 功能 特性\n\n*   通过屏幕或提示框进行确认 Confirm by Screen or Toast\n*   多种可选的确认窗口样式 Multiple Optional Confirm Screen Styles\n*   高度可配置 Highly Configurable\n\n## 安装 安装\n\nFabric：安装该模组以及 Fabric API\n\nFabric：将模组文件放入 mods 文件夹，需要 Fabric API\n\n## 许可证 License\n\n`QuitConfirm`（`QuitOrNot` 的源项目）采用 MIT 许可证授权。\n\n`QuitOrNot` 采用 Nova Relay 许可证 1.0 版本授权。\n\n`QuitOrNot Revived` 采用 GNU Affero 通用公共许可证 v3.0 版本授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

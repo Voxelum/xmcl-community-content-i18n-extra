@@ -1,0 +1,6 @@
+{
+  "bodyHash": "95b1c6fff461015e",
+  "content": "\n\n# Compass Plus\n\n## Описание\n\nCompass Plus — это клиентский мод, который добавляет минималистичный интерфейс компаса. Он отображает стороны света, точку появления мира, магнитные камни, карты сокровищ, карты исследователя и точку вашей последней смерти в зависимости от компасов или карт, находящихся в вашем инвентаре.\n\n![Screenshot](https://raw.githubusercontent.com/ModdingPlus/CompassPlus/1.19.x/docs/screenshot.png)\n\n## Планируемые возможности\n\n* совместимость с модулем Compasses work Everywhere из Quarks\n* простой API для других модов, позволяющий добавлять собственные точки интереса (POI) в интерфейс компаса",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

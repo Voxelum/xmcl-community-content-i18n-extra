@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0cd4c3188ad36714",
+  "content": "\n\n# Stylus 的弓重新貼圖\n\n> 重新設計弓、弩及其箭矢的外觀。使用 [EMF](https://modrinth.com/mod/entity-model-features) 與 [ETF](https://modrinth.com/mod/entitytexturefeatures) 時，亦包含箭矢的 2D 模型¹。\n> \n> **可與 [Real Arrow Tip](https://modrinth.com/mod/real-arrow-tip)² 及 [Enchancement](https://modrinth.com/mod/enchancement) 相容**！\n>\n> ¹ 注意，此功能可能不適用於舊版本，若您需要在舊版本中使用，請改用：[2D Projectiles](https://modrinth.com/mod/twod_projectiles) <br>\n> ² 注意，藥水箭的 2D 版本與 Real Arrow Tip 無法正常運作，您可能需要修改 Real Arrow Tip 的設定檔，使其不會以變更後的顏色進行渲染。\n\n## 貼圖展示\n![新弓、弩與箭矢貼圖／修改效果的展示。](https://cdn.modrinth.com/data/DcPGZASP/images/ba86ebe5ba4cf5e3f13490068aedac96f0f8290e.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

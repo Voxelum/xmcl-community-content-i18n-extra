@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aeda1bdb15d3e3c7",
+  "content": "![主横幅](https://imgur.com/Ob5NtGG.png)\n\n_Keybind Fix 是一款简单的 Fabric 模组，旨在完成一项主要任务：实现功能性的按键绑定冲突。_\n\n在 Minecraft 中，如果两个或更多的按键绑定被设置为相同的冲突按键，除其中一个绑定外，其他所有绑定的功能将完全失效。例如，如果你将“跳跃”和“向左横移”都设置为空格键，那么只有最后设置的那个功能会生效；你可能可以横移，但无法跳跃。\n\n_Keybind Fix_ 允许将多个按键绑定映射到同一个按键上。使用上面的例子，安装 _Keybind Fix_ 后，玩家将同时具备跳跃和向左横移的功能。\n\n这并不阻止所有的按键绑定冲突。两个或更多的按键绑定仍可能具有不兼容的功能。如果一个按键绑定用于开门，而另一个用于关门，将它们映射到同一个按键上仍然会导致底层效果相互冲突（试图同时开门和关门）。\n\n\n<p><span style=\"font-size:14px;display:table\"> <span> <a href=\"https://discord.gg/Fnw2UbE72x\" rel=\"nofollow\"><img style=\"display:inline;margin-left:auto;margin-right:auto\" src=\"https://i.imgur.com/iXATO6K.png\" width=\"265\" height=\"122\"></a> </span> <span> <a href=\"https://tilt.fyi/O9GtemcqMI\" rel=\"nofollow\"><img style=\"display:inline;margin-left:auto;margin-right:auto\" src=\"https://cdn.modrinth.com/data/cached_images/cf27a9e31c423f6b3d0d02a644a395f05508f678.png\" width=\"288\" height=\"108\"></a> </span> </span> </p>\n\n\n[![Bisect Hosting Banner](https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp \"Bisect Hosting Banner\")](https://bisecthosting.com/fzzyhmstrs)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "45a849b46922a9d9",
+  "content": "允许使用风之增强（I – IV）来附魔 Harness。\n\n### 如何安装/使用：\n- 服务器端：\n> 下载 [Datapack](https://modrinth.com/datapacks/wind-boost-enchant/versions/2.0.0) 或 [Mod](https://modrinth.com/datapacks/wind-boost-enchant/versions/2.0.0+mod)。根据您的服务器软件类型，如果是 Paper 或 Spigot，请使用 Datapack 并将 .zip 放入 Datapacks 文件夹中；如果是 Fabric 或 NeoForge，请使用 Mod 并将其放入 Mods 文件夹中。\n\n- 单人模式\n> 根据您的需求下载 [Datapack](https://modrinth.com/datapacks/wind-boost-enchant/versions/2.0.0) 或 [Mod](https://modrinth.com/datapacks/wind-boost-enchant/versions/2.0.0+mod)。如果您选择 Datapack，在创建新世界的过程中需要手动选择该数据包，或者将其放入现有世界的 Datapacks 文件夹中；如果您选择 Mod，只需将其放入客户端的 Mods 文件夹即可，所有加入的单人世界中数据包都会自动激活。\n\n无论是单人模式还是服务器环境，在添加数据包或模组后都需要重启世界/服务器！数据驱动的附魔是一项实验性功能，**无法**通过 `/reload` 命令重新加载。\n\n要检查 Datapack/Mod 是否正确安装，可以制作一个新的 Harness 或对旧的进行染色。完成后，物品描述中应包含“可附魔”字样。若存在此字样，则可将 Harness 放入附魔台并使用风之增强 I-IV 进行附魔！如果不存在，那么您可能出了些问题 ¯\\_(ツ)_/¯\n\n---\n\n#### 反馈、建议与错误报告：\n\n[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/issues_vector.svg)](https://github.com/VincPlyz-MC/Wind-Boost-Enchantment/issues)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

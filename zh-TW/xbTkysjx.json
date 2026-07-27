@@ -1,0 +1,6 @@
+{
+  "bodyHash": "439bcd744b11aaa1",
+  "content": "\n\nAiming Fix 僅修復 [MC-121706](https://bugs.mojang.com/browse/MC-121706) 的錯誤，該錯誤會導致骷髏在拉弓瞄準時不會看向玩家。\n\n[![fabric-api](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_vector.svg)](https://modrinth.com/mod/fabric-api)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/aiming-fix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a6a71de673c220d6",
+  "content": "![Vanilla](https://cdn.modrinth.com/data/cached_images/43e462954e4d32dd862930f9f091a20fdf9cec81.webp)\n\n### 概述\n使超过 250 个模组及原版矿石具有自发光效果！更新内容增加了更多模组支持，欢迎提出请求 :)\n\n- 针对已安装的模组进行优化，仅加载所需的资源，与资源包相比大幅减少了加载时间。根据我的经验，加载速度可提升 30 到 120 秒：[视频对比](https://youtu.be/iRQeCUUSO58)\n- 游戏内配置界面，可调整亮度或禁用特定矿石的发光效果。\n- 无需安装第三方自发光模组\n\n<details>\n<summary>我的愿景</summary>\n\n我计划尽可能多地添加模组支持，以便您能在几乎所有的整合包中使用它。本模组设计为与不同版本的模组高度兼容。\n\n如果您发现受支持的模组中的某些矿石不发光或使用了过时的纹理，请留下评论，注明模组名称、模组加载器以及您使用的 Minecraft 版本。\n\n</details>\n\n### 计划中：\n\n- 支持更多的 Minecraft 版本。\n- 更多内容……\n\n## 🔍 发光自发光矿石网站：\n\n**您可以在我的网站上找到支持的模组列表和帮助信息：**\n\n[https://deftesthawk.github.io/glowing-emissive-ores/requirements-all/](https://deftesthawk.github.io/glowing-emissive-ores/requirements-all/?variant=mod)\n\n\n**请考虑向我的 [Ko-Fi](https://ko-fi.com/deftesthawk) 捐赠，我为创建和更新此模组投入了大量时间。**\n\n\n### **我的其他项目：**\n### [Modrinth](https://modrinth.com/user/deftesthawk)\n### \n### [CurseForge](https://www.curseforge.com/members/deftesthawk/projects)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

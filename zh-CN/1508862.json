@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8068e5a9abaf0ca8",
+  "content": "\n\n<p><strong>功能特性</strong></p>\n<ul>\n<li>显示所有 Create 配方的处理时间，以及大量附属模组的配方处理时间</li>\n<li>自动获取配置的最大旋转速度&nbsp;并计算最小可能的处理时间</li>\n<li>提供详细的机器行为信息，包括冷却时间、版本差异等</li>\n</ul>\n<p><strong>其他说明</strong></p>\n<p>以下功能支持自定义配置：</p>\n<ul>\n<li>配方概率输出精度保留至小数点后四位</li>\n<li>顺序组装将显示所有可能的输出结果</li>\n<li>安装 Create Crafts &amp; Additions 后，过热燃料将显示包含烈焰蛋糕和燃料桶在内的列表</li>\n<li>安装 Create Love &amp; War 后，将修复多种 JEI 显示问题</li>\n</ul>\n<p><strong>兼容性</strong></p>\n<ul>\n<li>支持 Forge 1.20.1 与 Neoforge 1.21.1</li>\n<li>兼容 Just Enough Items 15.20.+ 版本</li>\n<li>兼容 Create 0.5.1 至 6.0.x 版本</li>\n<li>Create Craft&amp;Addition 1.2.3+</li>\n<li>Create Diesel Generators 1.2.i+</li>\n<li>Vintage Improvements 0.3.6.0+</li>\n<li>Create Love&amp;War 0.4.1+</li>\n<li>Create Big Cannons 5.8.2+</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

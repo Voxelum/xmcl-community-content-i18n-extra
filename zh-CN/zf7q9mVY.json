@@ -1,6 +1,6 @@
 {
-  "bodyHash": "1fc304c0b4df8356",
-  "content": "\n\n适用于 Vulkanite 模组的路径追踪光影包，效果优于 Demo 包\n\ngithub:[Dirt RT](https://github.com/sjrsjz/Dirt-RT)\n\n使用 SVGF 降噪，支持泛光、丁达尔效应和自动曝光\n\n**你必须加载一个 PBR 资源包并使用 Vulkanite 0.0.4 才能使光影包正常工作**\n\n**警告：请确保你的资源包与游戏版本兼容。否则你将看到一片黑屏！！！**\n\n如果因异常的 **内存** 或 **栈** 溢出导致游戏无法启动，请尝试在 JVM 参数中添加 `-Dorg.lwjgl.system.stackSize=1024`。",
+  "bodyHash": "09d2bb3cf7806e9d",
+  "content": "用于 Vulkanite 模组的路径追踪着色包，优于演示包\n\n**Github**: [Dirt RT](https://github.com/sjrsjz/Dirt-RT)\n\n**注意**: 你需要加载一个 PBR 资源包并使用 [**Vulkanite 26.2 分支**](https://github.com/sjrsjz/vulkanite-modified/releases/tag/26.2-v0.0.5) 才能使着色包正常工作\n\n此着色包需要高性能 GPU（如 RTX 4060/70），否则你的显卡可能会烧成灰烬\n\n如果因奇怪的**内存**或**堆栈**溢出导致无法启动游戏，请尝试在 JVM 选项中添加 `-Dorg.lwjgl.system.stackSize=1024`。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

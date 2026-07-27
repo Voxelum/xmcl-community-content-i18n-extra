@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ddc0c1e718dc074c",
+  "content": "\n\n### 📖 簡介\n**你覺得捕捉新的寶可夢時，應該增加一點挑戰性嗎？**\n\nFight First 讓你在捕捉寶可夢之前，必須先將它們的 HP 打到足夠低！\n\n---\n\n### ✨ 功能特色\n- **🥊 戰鬥優先（Fight First）：** 野生寶可夢的 HP 必須低於設定檔中指定的門檻，才能被捕捉——甚至無法與之對戰！\n  \n- **📄 自訂設定檔**：你可以自行設定 HP 門檻以及額外的捕捉率加成！你甚至可以修改模組發送的通知訊息！\n  \n- **✅ 僅限伺服器端**：玩家端無需安裝任何東西！\n\n---\n\n### ⚙️ 安裝方式\n\n1. 安裝 Cobblemon 及其所有依賴模組。\n\n2. 將 FightFirst.jar 放入你的 /mods 資料夾。\n\n3. 啟動遊戲或伺服器以建立設定檔。\n\n4. 編輯 /config/fightfirst.json 來自訂你的設定。\n\n請注意，此模組的 Fabric 版本需要 [fabric-language-kotlin](https://modrinth.com/mod/fabric-language-kotlin)！\n\n---\n\n<details>\n<summary>🔧 設定檔：fightfirst.json</summary>\n\n**\"MinHPForBattle\"**\n> 寶可夢必須低於此 HP % 才能開始對戰 _（範圍：0.01 = 1% 至 1.0 = 100%）_\n\n**\"MinHPForCapture\"**\n> 寶可夢必須低於此 HP % 才能被捕捉 _（範圍：0.01 = 1% 至 1.0 = 100%）_\n\n**\"BonusCatchRate\"**\n> 當 HP 低於門檻時的額外捕捉率加成\n\n**\"AllowMasterBall\"**\n> 允許超級球繞過降伏條件\n\n**\"AllowOriginBall\"**\n> 允許起源之球繞過降伏條件\n\n**\"AllowQuickBall\"**\n> 允許速速球繞過降伏條件\n\n**\"AllowSafariBall\"**\n> 允許探險球繞過降伏條件\n\n**\"WorldBlacklist\"**\n> 應停用戰鬥優先的世界列表（例如來自 Multiworld 等模組的世界）。\n\n**\"DimensionBlacklist\"**\n> 應停用戰鬥優先的維度列表（例如 \"minecraft:overworld\"）。\n\n**\"PokemonBlacklist\"**\n> 應停用戰鬥優先的寶可夢列表（例如 \"pikachu\"）。\n\n**\"PokemonWhitelist\"**\n> 應啟用「Fight First」的寶可夢列表。若列表不為空，戰鬥優先將對其他所有寶可夢停用。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

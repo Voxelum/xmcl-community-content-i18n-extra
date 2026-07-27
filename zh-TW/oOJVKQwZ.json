@@ -1,0 +1,6 @@
+{
+  "bodyHash": "da011ff54913a393",
+  "content": "# 🏗️ SimpleBuilding\n**(模组 ID: `simplebuilding`)**\n\n![Icon Banner](https://cdn.modrinth.com/data/cached_images/983e18266fd2731fa41a9911d98945837cf2e6bc.png)\n\n建造更大规模。挖掘更高效。保持生存模式友好。\n\nSimpleBuilding 是一款面向 Minecraft 1.21.11 的 Fabric 模组，专注于实用的建造玩法：\n- 高影响力的建造工具\n- 更流畅的物品栏管理\n- 终局进度（末影铁、星界合金、虚无金属）\n- 强大且可配置的整合世界功能\n\n### [📚 阅读完整文档](https://github.com/Ouzzi/simplebuilding)\n\n## 亮点\n\n- 建造法杖最高支持至末影铁等级（大范围放置）\n- 大锤支持范围挖掘，具备深度和覆盖选项\n- 凿子 + 抹刀实现游戏中即时切换方块变体\n- 八分体范围/形状规划器配合 HUD 叠加层\n- 加固/下界合金/末影铁背包与箭袋\n- 强化型机器（熔炉/烟熏炉/高炉/漏斗/活塞变体）\n- 末影铁长矛及末影铁全套工具与护甲线\n- 19 种自定义附魔\n- 护甲纹饰玩法加成与进度缩放\n\n## 为何在生存模式中体验良好\n\n- 与正常游戏进度协同工作，而非替换它\n- 为探索结构提供有意义的战利品/交易理由\n- 保持设置可配置（交易、战利品注入、纹饰加成、动画）\n- 支持以实用为主的基地建造，无需创造模式捷径\n\n## 附魔（快速列表）\n\nfast_chiseling, constructors_touch, range, deep_pockets, master_builder, funnel, radius, override, strip_miner, cover, bridge, linear, vein_miner, kinetic_protection, drawer, versatility, color_palette, break_through, double_jump\n\n## 包含的世界整合\n\n- 末地矿石生成（星界合金与虚无金属）\n- 村民交易池（图书管理员、石匠、工具匠）\n- 流浪商人商品\n- 主要原版结构中的战利品添加\n\n## 要求\n\n- Minecraft 1.21.11\n- Fabric Loader 0.18.4+\n- Fabric API\n- Java 21\n\n推荐安装：\n- Mod Menu\n- Cloth Config\n\n## 完整文档\n\n如需完整的特性与内容参考（所有系统、物品、方块、附魔、配置、命令）：\n- 请参阅本项目的主仓库 README 文件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

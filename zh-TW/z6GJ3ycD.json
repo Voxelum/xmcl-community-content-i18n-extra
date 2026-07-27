@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2poNpPUieVE=",
-  "content": "此模組是 [地牢與酒館](https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns) 系列的一部分，但**無需**安裝地牢與酒館即可運作。主體的地牢與酒館模組**並未包含**此模組的功能。若您想要更多類似結構，請查看[我的個人頁面！](https://www.curseforge.com/members/nova_wostra/projects)\n\n- 使海底遺跡更加稀有：現已與林間別墅同樣稀有，每個 80x80 區塊網格中只會生成 1 個，且兩個海底遺跡之間至少間隔 20 個區塊\n- 海底遺跡現已改為拼圖結構，充分利用內部所有空間來容納房間\n- 海底遺跡分為 7 個區段，每個區段各有 4 種變體\n- 每個房間根據類型擁有 3 至 8 種變體\n- 共有 4 種牆壁與 4 種門的類型\n- 海底遺跡的每個區段至少包含 1 個寶藏室\n- 遠古深海守衛房間則擁有 3 個寶藏室\n  - 2 個較小的寶藏室與 1 個較大的寶藏室\n- 頂層遠古深海守衛房間設有一個大型寶箱，必定會有一把三叉戟（耐久度 50% 至 80%）",
+  "bodyHash": "3fedf37ef876ea6b",
+  "content": "\n\n本模組為 [Dungeons and Taverns](https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns) 系列的一部分，但**不需要** Dungeons and Taverns 即可運作。主要的 Dungeons and Taverns 模組**並未包含**本模組的功能。若您想要更多類似的建築，歡迎前往[我的個人檔案！](https://www.curseforge.com/members/nova_wostra/projects)\n\n- 降低深海神殿的生成機率：其稀有度現在與林地莊園相同，在 80x80 的區塊網格中僅生成 1 座，且兩座深海神殿之間至少相距 20 個區塊\n- 深海神殿現在改為拼圖結構，並充分利用其內部可用空間來配置房間\n- 深海神殿拆分為 7 個區段，每個區段提供 4 種變化\n- 每個房間依類型不同，擁有 3-8 種變化\n- 共有 4 種牆壁與 4 種門的樣式\n- 深海神殿的每個區段至少包含 1 間寶藏房\n- 遠古魚人廳室則有 3 間寶藏房\n  - 包含 2 間小型寶藏房與 1 間大型寶藏房\n- 頂層遠古魚人廳室的寶藏箱必定包含 1 把三叉戟（耐久度為 50%-80%）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

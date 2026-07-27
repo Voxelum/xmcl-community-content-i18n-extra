@@ -1,0 +1,6 @@
+{
+  "bodyHash": "533c95633b3f6b94",
+  "content": "Auto MLG 是一个数据包，让你在下落时自动完成“MLG”（即用水桶缓冲落地）！\n\n使用方法：\n- 安装数据包后，准备一个水桶或粉雪桶。\n- 将其拿在主手（副手无效）。\n- 向下看（至少垂直向下 80-90 度）。\n- 从 5 格或更高的地方跳下。\n- 系统会自动放置水桶！\n\n即使你下落速度极快，也绝不会受伤。我添加了特殊机制以确保你必定安全落地。我从 10,000 格的高度跳下，依然成功缓冲了！\n\n你也可以进行配置：输入 `/reload` 并按配置按钮，或者执行 `/function auto_mlg:config/config` 来启用/禁用水或粉雪的 MLG 功能。\n\n现在，数据包还包含可选的“自动战斧 MLG”功能！（默认关闭）\n\n示例 GIF：\n水：\n![Water MLG](https://i.imgur.com/nqsOwex.gif)\n粉雪：\n![Auto Powder Snow](https://i.imgur.com/t9v0rkh.gif)\n祝你玩得开心！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

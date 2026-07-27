@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c70aad4edec779f7",
+  "content": "\n\n# Boids\n本模組將原版魚群的群游行為替換為 Boids 模擬。\n\n![在白色混凝土牆前的魚群](https://cdn.modrinth.com/data/2OckSy74/images/407fb13169be26f2947c163f8d3c265f79e84489.png)\n\n<a href=\"https://modfest.net/1.20\">\n  <img src=\"https://raw.githubusercontent.com/ModFest/art/3bf66556e674d670e30f647d6a48c4e1798c21d4/badge/128h/ModFest%201.20%20Badge.png\" width=\"179\" alt=\"ModFest 1.20\">\n</a>\n\n## 什麼是 Boids 模擬？\n「Boids 模擬」指的是一種電腦模型，用來模擬自然界中觀察到的群聚或集群行為，例如鳥類或魚類的協調移動。在本模組的語境中，這意味著魚類將展現更真實且動態的群體移動，讓您的水域環境更加栩栩如生。\n\n具體而言，每條魚都會遵循以下三條規則：\n- 分離（Separation）：轉向以避免與附近同伴過於擁擠\n- 對齊（Alignment）：轉向與附近同伴的平均游向保持一致\n- 凝聚（Cohesion）：轉向朝附近同伴的平均位置（質心）移動\n\n### 額外資源\n您可以透過以下資源進一步了解 Boids 模擬：\n- [Wikipedia - Boids](https://en.wikipedia.org/wiki/Boids)\n- [Craig Reynolds 的 Boids 頁面](http://www.red3d.com/cwr/boids/)\n- [Conrad Parkers 的 Boids 頁面](http://www.kfish.org/boids/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ad2b5767b6e52f91",
+  "content": "\n\n### 🌲 关于\n**Terraphilic** 是 Geophilic 与 Terralith 的兼容性数据包。它允许你同时使用 **[Terralith](https://modrinth.com/mod/terralith)** 和 **[Geophilic](https://modrinth.com/datapack/geophilic)**，而不会丢失任一数据包所提供的功能。\n\nTerraphilic 需要同时安装 Terralith 和 Geophilic 才能运行！**请确保 Terraphilic 在这两个数据包之后加载**（即位于列表上方）**。另外两个数据包的顺序无关紧要。\n\nTerraphilic 通过合并这两个数据包中的生物群系文件来工作。如果两者存在相同或相似的地形特性，Geophilic 的特性将被 Terralith 的特性替换。没有 Terralith 对应项的原版特性仍会被 Geophilic 替换，其他所有特性则保持原有的加载顺序。\n\n**Terraphilic 不会修改 Terralith 的生物群系**，尽管未来可能会做出调整。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "525192d497eff31c",
+  "content": "<p>本模组修复了基于 NeoForge 暴击系统 API 的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm\" target=\"_blank\" rel=\"nofollow\">目标假人</a> 模组中的一系列关键伤害乘数显示问题。</p>\n<p>已修复的问题包括：</p>\n<p>带有暴击伤害乘数的伤害数字无法在假人以外的实体上正确显示。</p>\n<p>实际应用中应用的暴击伤害乘数无法被正确计算。</p>\n<p>对于来自其他模组的加法伤害，伤害数字上显示的暴击伤害乘数可能会被错误地归因于其他伤害来源，例如 Apotheosis 的元素伤害。</p>\n<p>本模组还增加了对 <a href=\"https://www.curseforge.com/minecraft/mc-mods/apotheosis\" target=\"_blank\" rel=\"nofollow\">Apotheosis</a> 暴击系统的支持，实现了正确的暴击伤害乘数显示。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac97ac9e4e652c76",
+  "content": "# 打造真實感\n## 一個為 Create 模塊添加大量功能，以使 Create 列車更加逼真的插件。\n\n**⚠️更新前請務必備份你的世界⚠️**\n\n#### 功能：\n\n#### ETCS - 信號與軌道淨空檢查\n該模塊還添加了在手動駕駛列車時覆蓋在屏幕上的顯示層，用於展示列車前方的可用軌道、制動曲線（顯示何時開始減速）以及速度限制（如果已安裝 Create: Tramways）。\n![帶有速度表和軌道狀態概覽的覆蓋層](https://cdn.modrinth.com/data/cached_images/d96cc5469b7b8035e1e116b6ea81f6e2e388c829_0.webp)\n\n**使用 \"+\" 和 \"-\" 鍵放大或縮小軌道概覽**\n\n#### -將列車的加速度更改為依賴於附掛的車廂數量。\n車廂越多，列車加速越慢。機車（帶有司機的車廂）越多，對加速度的影響就越小。\n#### -軌道速度和坡度概覽\n在建造鐵路線路時，現在你可以看到所建造軌道的最大速度和坡度。這也包括了在列車時刻表中顯示的最大速度（以百分比表示）。建議使用 Create Tramways 來臨時設置彎道和斜坡的最大速度。\n![一張展示速度和坡度信息的示例圖片](https://cdn.modrinth.com/data/cached_images/aea50e47fd0b3f987648e47ca77a0354487a585d.png)\n\n這並不會改變列車實際運行的速度，僅作為設定速度限制的輔助工具。\n使用 [Create Tramways](https://modrinth.com/mod/tramways) 來設置速度限制。\n\n更多功能即將推出！..",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

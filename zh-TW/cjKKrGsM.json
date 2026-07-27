@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d51624b17896f13",
+  "content": "用于创建多面地毯的简单库。\n\n功能：\n- 包含一个可用于地面/墙壁/天花机的多部分方块基类；\n- 实现了用多部分方块替换方块的逻辑；\n- 提供模型/方块状态/战利品表的资料生成辅助工具；\n- 支持 NeoForge/Fabric。\n\n核心理念是什么？\n使用此库，您可以快速且高效地创建扁平的多部分方块。\n\n![neoforge](https://github.com/thomasglasser/thomasglasser/blob/main/files/badges/cozy/supported/neoforge_64h.png?raw=true) ![quilt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/quilt_64h.png) ![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_64h.png)\n\n[![patreon-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-singular_64h.png)](https://www.patreon.com/ludwici) [![kofi-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-singular-alt_64h.png)](https://ko-fi.com/ludwici)\n\n查看我的其他模组：\n\n[![mob-loot-variants](https://i.imgur.com/n1X16BM.png)](https://modrinth.com/mod/mob-loot-variants)\n[![bbsf](https://i.imgur.com/epM9STT.png)](https://modrinth.com/mod/better-block-sounds-fork)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0087de6736deee5b",
+  "content": "<p>Epic Fight x Punchy！已移植至 Neoforge 1.21.1，保留了原版的简单功能：在战斗模式下禁用 Punchy！，以实现两个模组之间的无缝集成。目前，Punchy！在战斗模式下仍然会渲染动画，导致画面略显杂乱。此修改解决了该问题，直到官方正式添加此功能。</p>\n<p>原版项目链接及依赖项，并向才华横溢的开发团队致以敬意</p>\n<p>&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/punchy\" rel=\"nofollow\">Punchy! - 第一人称动画 - Minecraft 模组 - CurseForge</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod\" rel=\"nofollow\">Epic Fight - Minecraft 模组 - CurseForge</a></p>\n<p>要使此模组生效，您的模组文件夹中必须同时安装 Punchy！和 Epic Fight。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

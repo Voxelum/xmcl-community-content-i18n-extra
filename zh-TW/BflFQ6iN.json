@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ca45dbab49f7162",
+  "content": "# <img src=\"https://cdn.modrinth.com/data/BflFQ6iN/images/1167ea81904d6a14f8e93661865cfb1d4b171230.png\" alt=\"Logo\" width=\"32\" height=\"32\"> 訓練假人\n適用於 1.21.6+ 版本的訓練假人資料包\n\n\n## 摘要\n新增訓練假人，讓您可以測試武器的攻擊傷害，並查看受到其他玩家或實體攻擊時會損失多少生命值。\n\n## 需求\n<ins>模組版本</ins>\n> 無額外需求\n\n<ins>僅資料包版本</ins>\n> 您需要下載資源包才能看到模型。*您可以在[這裡](https://modrinth.com/datapack/training-dummy/version/1.1.3)找到新版本的資源包*\n> *或者在您下載的版本檔案區塊中查找*\n\n## 使用方法\n\n要破壞訓練假人，您需要蹲下/潛行，然後攻擊/擊打訓練假人，它會分解為 1 個乾草捆和 1 個靶子。\n\n要製作訓練假人，您需要：\n- 3 根木棍 (stick)\n- 1 個靶子 (target)\n- 1 個乾草捆 (hay_block)\n\n並將它們放入以下配方中。\n\n![合成配方](https://cdn.modrinth.com/data/BflFQ6iN/images/521ce17a7555ad248c8ca3fdee3c4485afabd0d2.png)\n\n## 其他資訊\n這是我第一次製作資料包，也是第一次主要使用 Minecraft 指令進行操作，更是我第一次實際發布自己製作的內容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

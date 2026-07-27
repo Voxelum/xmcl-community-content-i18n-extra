@@ -1,0 +1,6 @@
+{
+  "bodyHash": "81d7af52f8d9b8e7",
+  "content": "# **国人大佬游玩须知**\n## **拉刀光掉帧是你自己的问题，升级电脑配置，不然就别玩，没人求你**\n## **手机玩产生的问题一律不理，别来烦劳资**\n## **死亡粒子开关看下面的指令，以后再问怎么关我就把开关删了。**\n## **冈易小鬼去亖**\n\n# 请使用 Github Issues 提交 bug 报告并粘贴你的游戏日志文件\n# bug 反馈请使用 github issues 功能，并附上你的游戏日志文件\n\n本模组将长期处于未完成状态。\n\n这意味着它可能存在许多 bug。\n\n而且我没有测试多人游戏环境，尤其是局域网模式。\n\n# 模组内容\n此模组为 EpicFight 添加了一些 ACG（动画、漫画、游戏）内容。\n\n\n## 特性（现已可用）：\n弓箭连击风格（自动锁定、坠落攻击、特殊攻击），基于宵宫（《原神》角色）\n武器类型：genshin_bow\n\n\n镰刀连击风格\n武器类型：battle_scythe\n\n\n部分 SAO（《刀剑神域》）的武器、物品和技能\n武器类型：sao_single_sword \n\n\n新的挥砍轨迹粒子类型：epicacg:bloom_type\n兼容 Oculus 管线。\n\n\n## 已移除的特性（等待重建）：\nSAO 风格的生命值条（可在一定程度上自定义）\n生命值条调整请参考默认配置文件。(EpicAddonHealthBar.json)\n\n## 命令\n/epicaddon Reload ----重新加载配置\n\n/epicaddon DeathParthcle <布尔值> ----启用/禁用死亡粒子\n\n## Wiki（配置和数据包支持）现已失效\nhttps://github.com/dfdyz/EpicAddon/wiki/Config\n\n# 注意\n1.16.5 版本的模组不再更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

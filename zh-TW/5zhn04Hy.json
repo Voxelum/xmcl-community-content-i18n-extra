@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0adbc4fec2f94ee7",
+  "content": "![Minecraft 並排比較圖，顯示無着色器時幀率更高，而有着色器時畫質更好。](https://cdn.modrinth.com/data/cached_images/96cfa24a4d5024cef8ce957a48226e145aee365c.png)\n[![kofi-plural-alt](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-plural-alt_64h.png)](https://ko-fi.com/lilbroskato)\n\n---\n## ⚠️ 項目狀態：暫止\n### 感謝大家提供的巨大支持！由於個人時間限制，OptiCores 的開發目前暫停。該模組將「按原樣」提供，短期內我不會回應任何功能請求或錯誤報告。感謝您的理解！\n---\n\nOpticore：非同步渲染優化\nOpticore 是針對 NeoForge 1.21.1 上 Embeddium 和 Sodium 的客戶端輔助模組。它專門設計用於緩解在使用整合式顯卡（Intel UHD、Iris Xe 及行動處理器）的系統上常見的「主線程」瓶頸問題。\n\n核心功能\n- **非同步剔除管線：** 與在主渲染線程上運行的標準剔除方法不同，Opticore 將歐幾里得距離和視錐體相交數學運算卸載到後台工作線程處理。\n\n- **併發數據管理：** 渲染可見性結果存儲在線程安全的 ConcurrentHashMap 中，允許在渲染週期中進行 O(1) 複雜度的查找，延遲幾乎為零。\n\n- **動態負載節流：** 該模組監控 getSectionStatistics() 以檢測沉重的區塊加載時期。在高 I/O 尖峰期間（例如加入世界或傳送時），模組會暫時減少實體渲染開銷，優先處理地形生成。\n\n- **技術兼容性：** 包含針對自訂方塊實體渲染器（如 Create Mod 中的渲染器）的安全繞過機制，並與 Distant Horizons 集成，以防止在 LOD 烘焙過程中進行剔除。\n\n性能影響\nOpticore 在實體數量較高的環境中效果最顯著（例如村莊、農場或模組維度）。通過卸載剔除邏輯，它有助於穩定幀時間，並減少在雙核和四核處理器上探索世界時的「卡頓」現象。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

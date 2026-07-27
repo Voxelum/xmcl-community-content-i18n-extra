@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4ugDPqWkIWI=",
-  "content": "# **TACZ 進階死亡資訊**\n\n\n![主要預覽](https://cdn.modrinth.com/data/cached_images/3a4f31c451b3c20d7c9c7c102b9d850983fa5953_0.webp)\n\n**此模組新增了一個HUD來顯示玩家擊殺資訊**\n\n![擊殺資訊框](https://cdn.modrinth.com/data/cached_images/3b59c7c5bac2e82443cd28686fc06f0f81093fd3_0.webp)\n**現在訊息框可以使用了！**\n\n\n## 外觀：\n就像經典的FPS擊殺資訊橫幅一樣。您可以在設定中選擇它顯示在哪個角落。\n\n預設最多顯示7條訊息橫幅，舊訊息會淡出或直接消失（當滿載時）。\n\n預設顏色為：黃色（自己）、綠色（隊友）、紅色（敵人或個人）、灰色（生物和實體）。隊伍和隊友由原版的「/team」功能控制。\n\n![這張圖片顯示隊友擊殺](https://cdn.modrinth.com/data/cached_images/13dd336d19fee7a9ff0510b1822cf5aa3032a52a_0.webp)\n\n_這張圖片顯示隊友擊殺_",
+  "bodyHash": "714a27038c402911",
+  "content": "\n\n# **TACZ 進階死亡資訊**\n\n\n![主要預覽](https://cdn.modrinth.com/data/cached_images/3a4f31c451b3c20d7c9c7c102b9d850983fa5953_0.webp)\n\n**本模組新增了一個 HUD，用於顯示玩家的擊殺資訊**\n\n![帶框的擊殺提示](https://cdn.modrinth.com/data/cached_images/3b59c7c5bac2e82443cd28686fc06f0f81093fd3_0.webp)\n**現在提供訊息框樣式！**\n\n\n## 外觀設定：\n就像經典的 FPS 遊戲擊殺提示橫幅。您可以在設定檔中選擇它顯示在哪個角落。\n\n預設最多顯示 7 則訊息橫幅，舊訊息會逐漸淡出或直接消失（當容量滿時）。\n\n預設顏色為黃色（自己）、綠色（隊友）、紅色（敵人或其他玩家）、灰色（怪物與實體）。隊伍與隊友的判定由原版 `/team` 功能控制。\n\n![此圖片顯示隊友擊殺](https://cdn.modrinth.com/data/cached_images/13dd336d19fee7a9ff0510b1822cf5aa3032a52a_0.webp)\n\n_此圖片顯示隊友擊殺_",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

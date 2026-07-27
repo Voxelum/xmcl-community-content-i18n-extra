@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4a1874142850a48d",
+  "content": "这个整合包是运行 Distant Horizons（遥远视界）配合 Iris 着色器的最佳优化方案。本整合包包含 62 个性能优化和/或生活质量（QOL）模组，以及 6 款兼容 Distant Horizons 的着色器。由于我在自己运行 Distant Horizons 时饱受性能低下和不一致问题的困扰，因此我编译了这个整合包，收录了一些知名且极具实用价值的模组，并决定与大家分享。我希望在保留这些模组所能提供的惊艳视觉效果的同时，实现尽可能极致的性能表现，而这个整合包正是我达成这一目标的方式。\n\n本整合包基于 robotkoer 制作的“Fabulously Optimized”（绝妙优化），但其中还包含了该整合包中没有的其他优化和生活质量模组，当然也包括 Distant Horizons 及其依赖项。\n\n*将在 Modrinth 上更新至 1.21.1 后添加其他着色器（如 Photon 等）*\n\n~Isaac",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

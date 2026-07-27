@@ -1,0 +1,6 @@
+{
+  "bodyHash": "14a0a4295ae5755a",
+  "content": "\n\n# Moonrise Compats\n\n**Moonrise Compats** 是 **Moonrise** 的兼容层，为安装 Moonrise 后无法正常工作或存在问题的模组提供针对性的修复/补丁。\n\nMoonrise 可以替换或重构原版的大量内部机制以提升性能。虽然这对优化大有裨益，但也可能破坏其他模组所依赖的底层假设，从而导致崩溃、功能异常或细微的行为偏差。Moonrise Compats 正是为了弥补这些差异而存在。\n\n## 它做什么？\n\n根据具体补丁和支持的模组，Moonrise Compats 可能会：\n\n- 修复由 Mixin/覆盖以及内部机制变更引起的不兼容问题\n- 在另一个模组预期原版行为时，添加小型“桥接”集成\n- 修补特定的边界情况，让两个模组能更稳定地共存\n\n> - 本模组**不会**替代 Moonrise。  \n> - 请将其与 Moonrise **一同安装**。\n\n## 为什么需要这个模组？\n\n我们依赖 Moonrise 带来的性能提升。\n并非所有模组都针对 Moonrise 进行过适配，且兼容性往往高度依赖于具体模组——因此本项目在一个统一的位置维护所需的补丁。\n\n## 版本号规则（与 Moonrise 对应）\n\nMoonrise Compats 采用与 **Moonrise 相同的基准版本号**，并附加一个补丁后缀。\n\n示例：\n\n- `Moonrise-NeoForge 0.1.0-beta.15+2eae1b1`\n- `MoonriseCompats 0.1.0-beta.15+2eae1b1.1`\n\n末尾的后缀：\n\n- `.1 ... .x`\n\n代表该特定 Moonrise 构建版本对应的 **Moonrise Compats 补丁修订号**：\n\n- `...+2eae1b1.1` = Moonrise 构建版本 `+2eae1b1` 的第一个 Compats 补丁\n- `...+2eae1b1.2` = 第二个补丁，依此类推\n\n## 兼容性说明与预期\n\n- 兼容性工作**取决于具体模组**——某个模组的补丁可能存在，而另一个则不一定。\n- 本模组力求**安全**，但仍建议先测试更新，尤其是在大型整合包中。\n- 在整合包环境中，请保持 Moonrise 与 Moonrise Compats 的基准版本号一致。\n\n## 问题反馈\n\n如果遇到故障，请提供以下信息：\n\n- Minecraft 版本\n- 加载器（NeoForge/Fabric 等）\n- 以下组件的精确版本号：\n  - Moonrise\n  - Moonrise Compats\n  - 发生冲突的模组\n- `latest.log`（如有崩溃报告也请一并提供）\n- 最小化复现步骤",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

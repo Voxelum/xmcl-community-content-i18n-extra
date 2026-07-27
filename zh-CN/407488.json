@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd2a075307d02f8c",
+  "content": "\n\n<p><span style=\"font-size:18px\">你是否厌倦了灾厄村民过于弱小，毫无护甲保护？</span></p>\n<p><span style=\"font-size:18px\">你觉得袭击应该更有挑战性吗？</span></p>\n<p><span style=\"font-size:18px\">本模组正是为你打造，提供配置选项以禁用特定灾厄村民自然生成时携带护甲，或彻底阻止所有灾厄村民生成时穿戴护甲！</span></p>\n<p><span style=\"font-size:18px\">若其他模组的灾厄村民在代码中继承了 IllagerModel 类，也应能正常渲染护甲。</span></p>\n<p><span style=\"font-size:18px\">若要使灾厄村民生成时携带自定义装备，只需在自定义数据包中覆盖以下文件：</span></p>\n<p><span style=\"font-size:18px\"><a href=\"https://github.com/seymourimadeit/IllagersWearArmor/tree/master/src/main/resources/data/illagersweararmor/loot_table/entities\" rel=\"nofollow\">https://github.com/seymourimadeit/illagersweararmor/tree/main/src/main/resources/data/illagersweararmor/loot_table/entities</a></span></p>\n<p>&nbsp;</p>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

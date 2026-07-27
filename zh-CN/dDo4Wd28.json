@@ -1,0 +1,6 @@
+{
+  "bodyHash": "89841929dbcd3044",
+  "content": "\n\n# 更快路径\n更快路径允许你在路径方块上加快移动速度，并能让你无需跳跃即可像走楼梯一样走上路径方块，同时提供完全可自定义的配置，并需要 [Datapack Commands](https://modrinth.com/mod/datapack-commands) 的支持（半必需依赖）。\n\n\n<details>\n<summary>配置</summary>\n\n## 速度\n\n```\n/fasterpaths speed slow/medium/fast\n```\n\n\n更改总速度档位（1/2/3），默认值为 medium（中等）。\n\n## 踏步\n\n```\n/fasterpaths step on/off\n```\n\n\n开启或关闭路径方块的类楼梯功能（默认开启）。\n\n# 隐藏路径\n```\n/fasterpaths hidden_path on/off\n```\n\n开启或关闭隐藏路径功能（默认开启）。\n\n</details>\n\n\n\n\n如果你遇到任何问题或希望添加新功能，请在 [Discord 服务器](https://discord.gg/ZRTzwxD7WD) 中告诉我。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

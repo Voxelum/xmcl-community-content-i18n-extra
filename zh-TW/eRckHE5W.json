@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b6ac98af9629014",
+  "content": "一個禁用「世界資料夾包含符號連結」警告的模組。\n![警告畫面，來自 Minecraft。](https://github.com/cootshk/LetMeSymlink/blob/master/warning.png?raw=true)\n\n在啟動時，此模組僅會將 `[regex].*` 寫入 `.minecraft/allowed_symlinks.txt`，藉此關閉該警告。\n\n# Windows\nWindows 使用的是捷徑（快捷方式），這些並非符號連結，且不受 Minecraft 支援。\n\n# 移除模組\n移除模組並不會刪除 `allowed_symlinks.txt` 檔案。如果您希望重新顯示該警告，必須在移除模組後手動刪除該檔案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

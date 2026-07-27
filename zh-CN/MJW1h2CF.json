@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4365a586f0a9cbfc",
+  "content": "原始项目地址：\n* https://github.com/skyecodes/IBE-Editor\n* https://modrinth.com/mod/ibe-editor\n\n---\n## 什么是 CAD Editor？\n\n一款简洁直观的游戏内可视化编辑器，让你在当前世界中直接编辑物品、方块和实体。\n它支持 Minecraft 的 **数据组件** 系统（1.20.5+），涵盖常见的游戏内容字段，如自定义模型数据、属性、附魔、名称/描述、容器与战利品表、效果、告示牌文本等。\n\nCAD Editor（Component And Data Editor）是基于 IBE Editor（原作者 Skye，MIT 许可证）重构并持续维护的版本。我与 Skye 无隶属关系，这也不是官方版本；所有原始署名和声明均已保留。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

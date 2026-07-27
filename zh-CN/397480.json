@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b1cc5f1b4c7484c1",
+  "content": "\n\n<h1>功能特性</h1>\n<p>SmoothCoasters 是一款客户端模组，包含多项重大增强功能，旨在让你的过山车体验更加真实。</p>\n<p>请注意，本模组不会为游戏添加新的过山车，仅会对现有的过山车进行优化。</p>\n<h2>视角旋转</h2>\n<p>在支持该功能的服务器上，乘坐过山车时你的头部会自动旋转。你的视角不会被锁定——你仍然可以四处张望。\nBukkit 插件开发者可以使用 <a href=\"https://github.com/bergerhealer/SmoothCoastersAPI\" rel=\"nofollow\">SmoothCoastersAPI</a> 来支持此功能。TrainCarts 1.16.1+ 已支持该功能——只需启用座位选项中的“锁定旋转”即可。</p>\n<h2>渲染优化</h2>\n<p>以下功能适用于所有服务器（包括单人游戏）：</p>\n<ul>\n<li>平滑盔甲架的姿势（缓慢应用旋转，而非瞬间设置，<a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-124519\" rel=\"nofollow\">MC-124519</a>）</li>\n<li>修复看向别处时盔甲架上的自定义模型消失的问题（<a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-96853\" rel=\"nofollow\">MC-96853</a>）</li>\n</ul>\n<p><strong>注意：</strong>本模组需要 Fabric 模组加载器和 Fabric API 模组。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

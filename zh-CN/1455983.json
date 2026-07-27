@@ -1,0 +1,6 @@
+{
+  "bodyHash": "138839d38efea943",
+  "content": "\n\n<p>GeckolibBetterFPS 是一款注重性能的小巧模组，通过优化 GeckoLib 动画的渲染管线来降低 CPU 开销并提升游戏内 FPS。</p>\n<p>本模组专注于 GeckoLib&rsquo;s 渲染流程中的数学与逻辑优化。通过减少冗余计算并简化高频执行的代码路径，显著降低了动画实体渲染的成本。</p>\n<p>✨ 特性<br>* 加快 GeckoLib 动画实体渲染速度（约 25%）<br>* 减少多个 GeckoLib 实体同屏时的微卡顿</p>\n<p>本模组不会以任何方式改变动画质量或视觉效果。</p>\n<p>需与 Sodium / Embeddium 及 ImmediatelyFast 配合使用</p>\n<p>优化前</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1455983/description_a81fb666-97d6-4d1b-90ff-be42cb7013b0.jpg\" alt=\"\" width=\"850\" height=\"674\"></p>\n<p>优化后</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1455983/description_22fa4046-53da-4c2e-bcfe-53ffe12d71a9.jpg\" alt=\"\" width=\"850\" height=\"674\"></p>\n<p>&nbsp;</p>\n<p>77 个 GeckoLib 实体</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

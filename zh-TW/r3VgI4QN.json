@@ -1,0 +1,6 @@
+{
+  "bodyHash": "002a9b156e35023f",
+  "content": "![Minecraft 版本](https://img.shields.io/badge/Minecraft-v1.18--v1.21-brightgreen?style=flat&labelColor=%23000&color=%235b8731)\n\n[![Modrinth 下載量](https://img.shields.io/modrinth/dt/r3VgI4QN?style=flat&logo=modrinth&logoColor=%231bd96a&label=%20&labelColor=%2316181c&color=%2317b85a)\n](https://modrinth.com/mod/reacharound) [![Curseforge 下載量](https://cf.way2muchnoise.eu/short_reacharound.svg)](https://www.curseforge.com/minecraft/mc-mods/reacharound)\n\n一個簡單的基岩方塊放置模組，並額外支援向下和向上放置方塊。\n\n核心功能移植自 [Quark (Forge)]。Quark 的 [🔗 許可證請見此處]。\n\n[Quark (Forge)]: https://github.com/VazkiiMods/Quark\n\n[🔗 許可證請見此處]: https://github.com/VazkiiMods/Quark/blob/master/LICENSE.md\n\n### 與其他類似模組相比新增的功能：\n\n有三種指示器類型（預設、Quark、自訂），可透過模組選單進行設定。\n\n半磚將嘗試智慧放置。如果你使用更多半磚向上鋪設橋樑，它們將繼續保持為上半磚。\n\n垂直放置的半磚會正確堆疊，不會跳過。\n\n現在這也可以用來向上以及向下建造。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2919d5f7b14dc9e3",
+  "content": "\n\n<h1>XP Stream</h1>\n<p><strong>更快的经验拾取速度。保留原版手感。</strong></p>\n<p>在不聚拢经验球的前提下加快吸收速度，同时保留原版收集经验时的独特手感与核心机制。所有经验球都能全额获取，绝不浪费！</p>\n<hr>\n<h2>✨ 为什么选择 XP Stream？</h2>\n<p>原版中大量掉落的经验球会堆积起来，吸收过程过于漫长。\nXP Stream 消除了拾取延迟，让经验球顺畅地流向玩家，同时不改变其外观与行为。</p>\n<p>感觉就像原版 Minecraft……只是更流畅而已。</p>\n<hr>\n<h2>⚙️ 功能特性</h2>\n<ul>\n<li>大量掉落时更快吸收经验</li>\n<li>保留原版经验球运动轨迹、音效及经验修补（Mending）</li>\n<li>无经验损失：每个经验球都提供完整值</li>\n<li>视觉更清爽，减少残留的经验球</li>\n<li>仅服务端运行：无需客户端安装</li>\n<li>单人或多人游戏均可安全使用</li>\n</ul>\n<hr>\n<h2>🧠 原版增强设计理念</h2>\n<p>XP Stream <strong>不是</strong>一个经验球聚拢模组。</p>\n<p>它不会改变经验球的行为逻辑，而是调整经验球的收集<em>速度</em>，在保留熟悉原版手感的同时，避免经验球堆积到无法吸收的情况。</p>\n<hr>\n<h2>🏭 适用于经验农场</h2>\n<p>非常适合怪物农场、刷怪笼、Boss 战和经验农场。\n减少残留经验球意味着相比原版有<strong>性能提升</strong>。</p>\n<hr>\n<h2>🔧 配置（可选）</h2>\n<p>XP Stream 开箱即用，但也提供了高级配置选项：</p>\n<p>配置文件：<code>config/xp_stream.json</code></p>\n<pre><code>{\n  \"maxBurstOrbs\": 6,\n  \"debug\": false\n}</code></pre>\n<ul>\n<li><code>maxBurstOrbs</code>（默认值：6）数值越高，经验球吸收越快。</li>\n<li>将 <code>maxBurstOrbs</code> 设置为 <code>0</code> 即可禁用该模组。</li>\n</ul>\n<hr>\n<h2>📦 安装方法</h2>\n<ol>\n<li>安装 Fabric 或 NeoForge 加载器</li>\n<li>将模组 jar 文件放入你的 <code>mods</code> 文件夹</li>\n<li>启动服务器</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

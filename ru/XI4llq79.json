@@ -1,0 +1,6 @@
+{
+  "bodyHash": "652ae34047ce983b",
+  "content": "# GUI для лодки с кубом\n\n**GUI для лодки с кубом** — это [OptiGUI](https://modrinth.com/mod/optigui) упаковка ресурсов с закругленными углами, заменяющая интерфейс кубовых лодок из версии по умолчанию. Она вдохновлена упаковкой ресурсов [Colourful containers GUI](https://www.planetminecraft.com/texture-pack/colourful-containers-gui/).\n\nТемная версия основана на [Vanilla Tweaks](https://vanillatweaks.net/) Dark UI.\n\nВ настоящее время требуется OptiGUI 2.1.0-beta.1 или более новая версия.\n\n## Скриншоты\n\nСмотрите [галерею](https://modrinth.com/resourcepack/chest-boat-gui/gallery) для скриншотов.\n\nВсе скриншоты в галерее созданы с использованием:\n* [Complementary Shaders v4](https://modrinth.com/shader/complementary-shaders-v4)\n* [Underground Rivers [Tech Demo]](https://www.planetminecraft.com/data-pack/underground-rivers-tech-demo)\n\n## OptiFine\n\nOptiFine не поддерживается, так как ему не хватает возможности:\n* читать ресурсы OptiGUI\n* заменять интерфейсы кубовых лодок",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

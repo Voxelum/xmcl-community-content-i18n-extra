@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4eb4920870432870",
+  "content": "### **雪天** - 现在所有生物群系（包括沙漠）都会下雪而不是下雨！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Xcl5llfqGwU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n寒冷的冬天席卷了世界，即使在炎热的生物群系中，整个世界也被冰雪覆盖。水在各地结冰，雪花飘落。你只能躲进洞穴或其他维度以逃避严寒。\n\n**当开始下雨或打雷时，一定会下雪！所有生物群系的温度都低于 0！**\n\n每个新生成的区块都会被冻结。如果你在安装数据包之前已经加载了某些区块，那么这些区块也会逐渐陷入雪天状态并慢慢冻结。\n\n❗_如果你想在向世界或服务器添加数据包/模组后将其删除，生物群系将恢复原状，但地面上残留的积雪和冰层仍然会存在！_\n\n---\n**对于那些喜欢大量降雪的玩家：**\n\n你可以启用函数 ```unlimited_snow_accumulation_height```，以移除积雪高度的限制。也就是说，当积雪层达到最大值 8 时，会自动替换为一个雪块。此功能影响玩家周围 8 格半径内的所有方向。\n\n_**❗ 注意！该功能可能会影响你的世界或服务器的性能。**_\n\n- 输入以下命令启用功能：```/function snowy_weather:unlimited_snow_accumulation_height```\n- 输入以下命令禁用功能：```/schedule clear snowy_weather:unlimited_snow_accumulation_height```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

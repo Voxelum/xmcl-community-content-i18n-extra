@@ -1,0 +1,6 @@
+{
+  "bodyHash": "00b3ac11fdac877b",
+  "content": "\n\n<p>Zombies Map Helper 是一款 COD 风格模组，可轻松搭建使命召唤僵尸模式的核心系统。&nbsp;</p>\n<p><strong>命令：</strong></p>\n<p>/zombiestart</p>\n<p>/zombiestop</p>\n<p>/zombieskip</p>\n<p>/zombielobby</p>\n<p>/zombiespawn</p>\n<p>/zombieperk</p>\n<p>/zombiemysterybox</p>\n<p><strong>命令说明：</strong></p>\n<p>/zombiestart 当存在僵尸生成点时启动游戏。</p>\n<p>/zombiestop 停止当前游戏并消灭所有已存在的僵尸。</p>\n<p>/zombieskip NUMBER 跳转到指定的波次。</p>\n<p>/zombielobby 记录你当前所站方块的坐标，之后当所有人死亡时会被传送回大厅。</p>\n<p>/zombiespawn 可将你站立的位置设为僵尸生成点。生成点数量不限并会自动编号，支持对僵尸生成点进行添加、移除、列表、清空、激活与停用。添加后会使其立即生效；移除需选择目标生成点；清空将删除所有生成点。新建的生成点默认处于停用状态，你需要通过列表显示的编号来激活它。停用则会在再次激活前禁用该生成点。</p>\n<p>/zombieperk 注视告示牌并执行命令后，会将该告示牌转换为设定的 Perk。目前仅支持两种：Stamina Up（体力提升）和 Juggernog（巨人化）。&nbsp;</p>\n<p>/zombiemysterybox 会在你站立的位置生成一个箱子，购买价格为 950 点，包含除 RPG-7 外的所有武器。箱子机制如下：武器按品质分为普通、稀有、传说和神话四个等级。普通等级包含较弱的手枪和冲锋枪。稀有等级包含较强手枪、冲锋枪、较弱突击步枪、狙击枪和霰弹枪。传说等级需至第 10 波方可获取，神话等级需至第 20 波方可获取。传说等级包含强力狙击枪、突击步枪和霰弹枪。神话等级包含 .50 口径狙击枪、加特林机枪以及 M820 榴弹发射器。</p>\n<p>超级道具将在未来版本中加入。</p>\n<p>本模组需要安装：TACZ。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

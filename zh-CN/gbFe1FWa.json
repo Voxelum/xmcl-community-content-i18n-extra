@@ -1,0 +1,6 @@
+{
+  "bodyHash": "360b337f07b6352e",
+  "content": "\n\n<div align=\"center\">\n  <h1>可复活宠物</h1>\n  <a href=\"https://modrinth.com/mod/strawberrylib\"><img src=\"https://github.com/ContentSMP/Badges/raw/refs/heads/main/strawberrylib/cozy_vector.svg\"></a>\n  <a href=\"https://discord.gg/Am6M8VQ\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/social/discord-singular_vector.svg\"></a>\n  <a href=\"https://ko-fi.com/moriyashiine\"><img src=\"https://github.com/intergrav/devins-badges/raw/refs/heads/v3/assets/cozy/donate/kofi-singular_vector.svg\"></a>\n  <h3>使用新道具“以太宝石”，让你死亡的宠物在下次睡觉时重生。</h3>\n</div>\n\n通过按下 [使用物品/放置方块] 键与宠物交互，即可切换其重生状态。你也可以潜行时使用以太宝石，为 9x3x9 区域内的多只宠物批量设置重生。以太宝石仅对你拥有的宠物生效，且被加入 `respawnablepets:cannot_respawn` 标签的实体将被排除在外。\n\n**合成配方**\n\n![合成配方](https://github.com/MoriyaShiine/respawnable-pets/blob/main/.webassets/recipe.png?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

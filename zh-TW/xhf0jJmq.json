@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dd331d9139c6f6f7",
+  "content": "![Info Overlay](https://cdn.modrinth.com/data/cached_images/6d0a13a14febf1fd71bce51c5ddb2a6c1f331905.png)\n# ℹ️ 資訊\n## 📃 描述\n> **本模組允許您顯示 FPS，以及系統時間、座標等其他資訊。您可以使用佔位符自由編輯文字。您還可以更改疊層的顏色、位置和透明度。**\n## ✨ 功能\n> - 美觀且極簡\n> - 大量自訂選項\n> - 支援 1.20 及以上的新版本\n## ❔ 使用範例\n> - 顯示您的座標以便更方便地挖掘資源\n> - 顯示記憶體使用量和 FPS 以監控您的模組包效能\n> - 顯示遊戲內時間和天氣，讓您在地下與社會隔絕\n> - 顯示現實世界時間，這樣您就不用出門了\n> - 顯示您面對的方向以找到您的家\n\n# ⚙️ 依賴項\n> - **[Fabric API](https://modrinth.com/mod/fabric-api)** ([QFAPI](https://modrinth.com/mod/qsl) for Quilt)\n> - [Mod Menu](https://modrinth.com/mod/modmenu) (可選)\n> - [Midnight Lib](https://modrinth.com/mod/midnightlib) (適用於 <1.9.1)\n> - [YACL](https://modrinth.com/mod/yacl) (適用於 >2.0)\n# 🌍 語言\n\n<details>\n<summary>可用語言列表</summary>\n\n- English (en_us)\n- Russian (ru_ru)\n- Ukrainian (uk_ua)\n- Belarusian (be_by)\n- Simplified Chinese\n- Chinese (Simplified)\n- Arabic (Saudi Arabia)\n- Catalan (Spain)\n- Czech\n- Danish\n- German\n- Greek\n- Spanish (Spain)\n- Finnish\n- French\n- Italian\n- Japanese\n- Dutch\n- Norwegian\n- Polish\n- Portuguese (Brazil)\n- Portuguese (Portugal)\n- Romanian\n- Swedish\n- Vietnamese<br>\n\n**協助翻譯請前往** [Crowdin](https://crowdin.com/project/fpsoverlay)!\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

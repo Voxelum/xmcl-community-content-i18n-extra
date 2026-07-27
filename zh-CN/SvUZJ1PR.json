@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ce22600815a1212a",
+  "content": "# 血魔法：Woot 插件\n\n这是一个为 [Woot Revived](https://modrinth.com/mod/woot-revived) 开发的插件，旨在与 [血魔法](https://modrinth.com/mod/blood-magic) 实现兼容。\n\n它添加了一种“鲜血收集器”升级（blood collector upgrade）。将其绑定到鲜血祭坛（Blood Altar）后，它将表现得如同“痛苦之井”仪式（Well of Suffering Ritual），并在工厂每次生成生物时默认消耗 10 点生命精华（life essence），随后在鲜血祭坛中产出等量的生命精华。\n\n您可以使用此插件的升级替代“痛苦之井”仪式，从而避免通过生成实体来产生生命精华。\n\n该升级所消耗的生命精华数量可在插件配置中进行编辑。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

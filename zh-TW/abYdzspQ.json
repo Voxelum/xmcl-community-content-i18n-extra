@@ -1,0 +1,6 @@
+{
+  "bodyHash": "84a9a7abdb20cc86",
+  "content": "# ProjectE：为 Magitech 提供 EMC 支持\n\n在游玩 [Magitech -Arcane Engineering-](https://modrinth.com/mod/magitech_mod) 时结合使用 [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)，但 Magitech 的矿石、水晶或炼金产物原本没有 EMC 值。这个纯数据插件修复了这一问题。\n\nMagitech 主要通过自定义炼金配方（Zardius 坩埚、法术转换、安色特炉）来制作大部分材料，ProjectE 无法读取这些配方；同时其矿石也没有 EMC 种子——因此默认情况下 ProjectE 完全忽略 Magitech。本插件通过以下方式对其进行适配：\n\n- **手动调整的 EMC 值**：涵盖基础资源，包括矿石、宝石（萤石、碧玺）、魔力资源、世界生成植物以及水晶。\n- **炼金配方的转录**：将 Magitech 的炼金配方转换为 ProjectE 可识别的转化关系，使得元素水晶、特殊锭（辐射钢、末影金属）及炼金产物能够自动获得 EMC 值。\n- **终局 Tier-4 材料**（如 Frigidite、Translucium、Resonite、Abyssite）被故意设定为较高价格，以确保开采它们比直接转化更具价值，从而保留游戏进度节奏，避免破坏平衡。\n- **基于部件的工具系统**：设计上不提供 EMC 值。因为工具的价值取决于其切割所用的材料，而 ProjectE 无法表达这种关系；保留这一设计有助于维持“自制并升级工具”的核心循环。\n\n本插件不添加任何物品、方块或配方——仅包含 EMC 数据。数值在世界加载时生效；打开转化桌即可查看具体数值。\n\n**依赖项**\n\n- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) —— 必需\n- [Magitech -Arcane Engineering-](https://modrinth.com/mod/magitech_mod) —— 必需\n- NeoForge 1.21.1\n\nEMC 数值为初步平衡调整结果，欢迎在问题追踪器中提供平衡性反馈。\n\n采用 MIT 许可证。Magitech 由 Stln 开发；ProjectE 由 sinkillerj 及其贡献者开发。本插件为独立集成项目，与上述任一项目无隶属关系。源码及问题反馈：https://github.com/KURONAMI333/magitech-emc",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

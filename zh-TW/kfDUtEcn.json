@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0bca4ceeaade338a",
+  "content": "# 美麗化妝品\n\n一款讓你在伺服器上享受 cosmetic（裝飾性）物品的模組！\n\n此外，你也可以從怪物身上找到化妝品（需要設定配置）！\n\n### 必要事項：\n\n・assets/[modid]/bagus_cosmetics/model 你要放入的模型（警告：你必須放入基岩版模型檔案）\n\n・assets/[modid]/textures/cosmetic/png 紋理，且擁有相同的 ID\n\n```\n範例：當你想將 bagu 模型納入 bagus_cosmetic 時\n/give bagus_cosmetic:[要套用的化妝品項目]{Cosmetic:\"bagus_cosmetic:bagu\"}\n```\n\n當要將模型反映到物品 bagus_cosmetic:cosmetic_body 時\n\n並非絕對必要，但你需要為你想要移動的部分指定特定的模型部件 ID\n\n軀幹 -> body\n\n頭部 -> head\n\n右腿 -> right_leg\n\n左腿 -> left_leg\n\n右手 -> right_hand\n\n左手 -> left_hand",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b61a44ecbc141de5",
+  "content": "<img src=\"https://file.garden/Xz8b1JHWmTiKn1uW/Nether%20Coords/banner.png\">\n<br><br>\n<p>\nNether Coords 是一款 Fabric 客户端模组，为遊戲中的玩家提供更便捷的方式來確定相對座標。由於 Nether Coords 是客戶端模組，因此它可以在單人和多人遊戲中運作，無需安裝在伺服器上，只需安裝在客戶端即可。\n</p>\n<p>\n指令：\n<ul>\n<li>/portal - 獲取您所在位置傳入點的座標</li>\n<li>/portal [x] [y] [z] - 獲取特定方塊位置的傳入點座標</li>\n<li>/portal <dimension> [x] [y] [z] - 獲取特定維度中某個方塊位置的傳入點座標</li>\n<li>/portal help - 顯示遊戲內的幫助訊息</li>\n</ul>\n<em>Nether Coords 的預設快捷鍵為 F8！</em>\n</p>\n<p>\n<strong>\nNether Coords 是一款僅限 Fabric 的模組，需要 <a href=\"https://fabricmc.net/use/installer/\" target=\"_blank\">Fabric Loader</a> 和 <a href=\"https://modrinth.com/mod/fabric-api\" target=\"_blank\">Fabric API</a>\n</strong>\n</p>\n<p>此模組合是我利用業餘時間編寫的，如果您喜歡它並想支持我，請考慮贊助我！</p>\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P516LAKY)\n\n實際操作示範：<br>\n<img src=\"https://file.garden/Xz8b1JHWmTiKn1uW/Nether%20Coords/nether_coords_portal_command.png\"  width=\"30%\" height=\"auto\" max-width=\"600px\"> <br>\n遊戲內幫助指令：<br>\n<img src=\"https://file.garden/Xz8b1JHWmTiKn1uW/Nether%20Coords/nether_coords_help_command.png\"  width=\"70%\" height=\"auto\">",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

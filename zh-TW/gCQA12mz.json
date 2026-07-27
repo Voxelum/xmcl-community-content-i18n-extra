@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2752e89dd4f9056c",
+  "content": "# Minecraft 的主图（Maingraph）\n\n![显示“ModLoader”为“NeoForge”的徽章](https://img.shields.io/badge/ModLoader-NeoForge-orange.svg)\n\n**Minecraft 的主图（Maingraph for MC）** 是一款专为 Minecraft 设计的可视化蓝图引擎。它允许通过直观的节点连接实现自定义逻辑，无需（或仅需极少）编码。\n\n---\n\n官方网站：[https://mc.maingraph.nb6.ltd/](https://mc.maingraph.nb6.ltd/)\n\n## 快速开始\n\n1. **安装**：将模组放入 Minecraft 的 `mods` 文件夹中（需要 NeoForge）。\n2. **打开编辑器**：在游戏中，按 `Ctrl + M` 打开蓝图管理器。\n3. **创建蓝图**：输入名称并点击“Create”（创建）。\n4. **开始创作**：在画布上右键单击以添加节点，连接白色箭头（执行流）和彩色圆点（数据流）。\n5. **保存与运行**：点击“Save”（保存），你的逻辑将在后台开始运行。\n\n---\n# Minecraft 主图的兼容性\n\n已知与以下模组的兼容性：\n\n1. **IMBlocker**：自 v0.2.2 版本起，蓝图编辑器使用 Minecraft 原生的 EditBox，因此与 IMBlocker 兼容。\n2. **Just Enough Characters (JECh)**：从 v0.2.3 版本起，蓝图编辑器通过反射完全支持 JECh。\n   - **当前状态**：检测到 JECh 时，搜索功能会自动启用拼音首字母匹配（包括节点名称、类别、端口名称等）。\n3. **Physics Mod**：在 F6 物理 UI 模式下，蓝图编辑器不参与物理模拟。\n   - **计划修复**：暂无修复计划。\n   - “真的有人开着这东西进行编辑吗……？”\n4. **ImmediatelyFast**：测试表明，在安装 ImmediatelyFast 后，蓝图编辑器中没有明显的 FPS 提升。\n\n---\n\n## 示例插件（Addon）\n如果你想开发自己的节点，请查看示例插件：\n[maingraph-project/mgmc-example](https://github.com/maingraph-project/mgmc-example)\n\n---\n\n本项目采用 MIT 许可证授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

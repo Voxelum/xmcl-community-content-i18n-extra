@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d9b0906d2d13a301",
+  "content": "<h1>Ковёр: NeoForged</h1>\n<p>Форк мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/carpet\" target=\"_blank\" rel=\"nofollow\">Carpet Mod</a> от gnembon, портированный на NeoForge</p>\n<hr>\n<p>Всё должно работать так же, как и с Fabric Carpet, предоставляя множество настраиваемых изменений ванильной механики, таких как:</p>\n<ul>\n<li>Перемещаемые блочные сущности</li>\n<li>Стекирующиеся шалкеровые ящики</li>\n<li>язык скриптов Scarpet</li>\n<li>…и все остальные функции оригинального мода</li>\n</ul>\n<p>Всё это требуется только на стороне сервера.</p>\n<hr>\n<h2>Совместимость</h2>\n<p>Некоторые моды-расширения для Carpet будут работать при использовании <a href=\"https://www.curseforge.com/minecraft/mc-mods/sinytra-connector\" target=\"_blank\" rel=\"nofollow\">Sinytra Connector</a>, в частности, тех, которые используют меньше миксинов (большинство расширений Scarpet должны работать нормально).</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

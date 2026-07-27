@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8e3ef006beafc687",
+  "content": "\n\n# 就像從前一樣...\n![legacy_sword_banner](https://www.dropbox.com/scl/fi/ky7jus2htdidovgz36jkp/banner.png?rlkey=hw4by3azc1dq5a8nhtree2n4k&st=j4vq7997&dl=1)\n這個 DataPack 僅移除劍的攻擊冷卻時間，還原了 1.9 版本前的經典戰鬥風格。它讓許多玩家喜愛舊版 Minecraft 的快速連點玩法重新回歸，同時保持其餘戰鬥系統不變。\n\n僅有劍會受到影響：斧頭、工具、三叉戟或其他武器都會維持原本的冷卻時間與預設攻擊行為。這樣不僅讓玩法感覺更平衡，也更忠實於原版系統，無需更動整體戰鬥機制。\n\n此 DataPack 輕量且完全兼容原版，不需安裝任何模組或資源包。只需將它放入世界的 datapacks 資料夾，就能再次享受經典的 PvP 體驗！\n\n## ⚠ 警告 ⚠\n- Fabric 版本需要 [FabricAPI](https://modrinth.com/mod/fabric-api)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

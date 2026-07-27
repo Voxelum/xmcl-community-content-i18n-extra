@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b4032fb69eec0757",
+  "content": "Environmental Water 需要 [OptiFine](https://optifine.net/home)、[Polytone](https://modrinth.com/mod/polytone) 或 [Legacy4J](https://modrinth.com/mod/legacy4j)。旧版本（1.19.2-1.20.1）也兼容 [Colormatic](https://modrinth.com/mod/colormatic)。\n\nEnvironmental Water 会改变每个生物群系中的水体颜色。沙漠中的水不再像山间溪流那样呈现纯净的蓝色。这些颜色与该生物群系中其他方块和色调相协调，使景观完美融合。本模组的部分改动较为微妙；例如河流的蓝色水体几乎与原版无异，但蘑菇岛周围呈灰粉色的水体则与 Minecraft 原有的蓝色形成了巨大差异。\n\n![展示从绿色到深蓝色不同水体颜色的海岸线。](https://i.imgur.com/0QRXFwi.png)\n\nEnvironmental Water 使用的大多数颜色直接移植自基岩版，但 1.16 之后引入的生物群系的水体颜色均为定制。水下雾气的颜色也取决于生物群系，并与地表水体颜色相匹配。\n\n在使用 OptiFine 时，同一生物群系中海拔较高的水体颜色会与其他高度有所不同。\n\n![一处深邃的洞穴，水体颜色随高度变化而融合。](https://i.imgur.com/iw5pREj.jpg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

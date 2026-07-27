@@ -1,0 +1,6 @@
+{
+  "bodyHash": "90b18633477e367b",
+  "content": "\n\n# waypointers\n无需退出游戏即可保存坐标。\n\n## 简介\n这是迷你地图模组中航线功能的替代方案，不包含迷你地图部分。\n你也可以将其视为 [MCG](https://modrinth.com/mod/mcg) 的重制版。\n\n## 开发原因\n与 MCG 作者的原因相同：\n> 我个人认为，完整的迷你地图模组添加的额外功能太多，或者总体来说会妨碍玩家的游戏体验。\n\n简而言之：功能臃肿。\n\n## 支持 1.21.x 之前的版本吗？\n[MCG](https://modrinth.com/mod/mcg) 基本支持 1.21.x 之前的所有版本。\n\n## 许可证\n本模组采用 hsza 的 RQL 许可证授权。你也可以在 [`LICENSE.md`](https://git.braindead.cc/dot/waypointers/src/branch/main/LICENSE.md) 中查看。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

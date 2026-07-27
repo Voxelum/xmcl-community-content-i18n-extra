@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dc73ed6c7c541758",
+  "content": "\n\n新增大量製作石製工具的方式，包含常見標籤如 forge:stone 與 forge:sandstone。同時包含其專屬標籤，適用於終界石、紅色砂岩、石磚等原版方塊。\n\n部分模組無法在單一資料包中正確對應，請前往 https://modrinth.com/datapack/moretaggedrecipies-compatibility-extensions 取得相容性擴充套件。\n\n移植部分較新的配方變更（馬鞍與拴繩），並為其加入標籤。\n\n讓更多物品可透過燒煉回收（金蘋果、時鐘、桶子、鐵軌、羅盤）。\n\n旗幟、地毯與床現在可像羊毛般使用任意染料著色。\n\n注意：本模組主要為 1.16.5 與 1.18.2 Forge 打造，這兩個版本會持續獲得更新，因為它們是我目前遊玩的版本。額外版本（1.16x、1.17x、1.18x、1.19x）係經測試後確認可運行而增設的；不過其他模組載入器可能無法完全支援所有功能，因為部分機制依賴 Forge 標籤。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

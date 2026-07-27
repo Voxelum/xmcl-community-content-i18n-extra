@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ce2441fd852ceff4",
+  "content": "僅供其他模組使用的核心模組\n\n## 必要依賴：\n\n*   [ModularUI](https://modrinth.com/mod/modularui)\n*   [GTNHLib](https://modrinth.com/mod/gtnhlib)\n*   [UniMixins](https://modrinth.com/mod/unimixins)\n\n## 功能：\n*   JSON 載入器，\n*   JSON 配方載入器，\n*   能力系統，\n*   物品冷卻時間可在每次使用後為物品增加冷卻時間，\n*   用於簡化物品數據獲取/設置的資料元件，\n*   透過 NBTPersist 在方塊實體和 WorldSavedData 中實現快速的 NBT 讀寫，\n*   透過 PacketCodec 實現快速封包訊息傳輸，\n*   滑鼠與鍵盤輸入事件，\n*   更新檢查器，\n*   眾多輔助類別有助於減少程式碼重複，\n*   BaseMod 類別有助於處理指令、鍵綁定、事件等。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

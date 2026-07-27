@@ -1,0 +1,6 @@
+{
+  "bodyHash": "084260564329c1bf",
+  "content": "\n\n# Bannerpoint\n\nBannerpoint 允许将旗帜转变为显示在定位栏中的路标。创建路标有两种方式：在铁砧上为旗帜命名后放置，或将其绑定到地图上。这两种方法都可以在配置文件中切换启用/禁用。以此方式创建的路标拥有独特的图标，其颜色与旗帜的基础颜色相匹配。按住 Tab 键可在定位栏的图标上方显示所有旗帜名称，或按住 Shift 键仅显示你正前方的旗帜名称。要停用路标，只需破坏该旗帜或将其从绑定的地图上移除即可。旗帜路标的最大范围可在配置文件中设置，默认值与玩家路标的最大范围相同（6000万格）。\n\nBannerpoint 需要 [Fzzy Config](https://modrinth.com/mod/fzzy-config) 及其所有依赖项。\n\nBannerpoint 可作为纯服务端模组使用，但客户端需要资源包来显示旗帜路标图标。你可以通过直接[下载](https://raw.githubusercontent.com/pajicadvance/bannerpoint/multicutter-v2/resourcepack/Bannerpoint%20Icons.zip)并在客户端启用该资源包来安装它；如果你运行的是 Fabric 服务端，则可以在服务端安装 [Polymer](https://modrinth.com/mod/polymer) 并开启自动托管功能，该功能会自动提示连接的客户端下载此资源包。通过 Tab 和 Shift 显示旗帜名称需要在客户端安装本模组。\n\n推荐的其他定位栏模组：\n- [Locator Lodestones](https://modrinth.com/mod/locator_lodestones)\n- [DualBar](https://modrinth.com/mod/dualbar)\n\n![示例](https://cdn.modrinth.com/data/cached_images/2ce75a4850c573fcf10b8640649bee00683439bf_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

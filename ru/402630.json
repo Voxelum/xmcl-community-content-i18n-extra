@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5110b5a65a37c448",
+  "content": "<h1>Патч для Advanced Machines</h1>\n<p>Вносит исправления в мод Advanced Machines для совместимости с новыми сборками IC2 (2.8.191 и выше).</p>\n<p>Исправлены ошибки:\n<code>java.lang.NoSuchMethodError: ic2.core.block.invslot.InvSlotProcessableGeneric.&lt;init&gt;(Lic2/core/block/TileEntityInventory;Ljava/lang/String;ILic2/api/recipe/IMachineRecipeManager;)V</code></p>\n<p><code>java.lang.NoSuchMethodError: ic2.core.block.invslot.InvSlotOutput.&lt;init&gt;(Lic2/core/block/TileEntityInventory;Ljava/lang/String;I)V</code></p>\n<p><code>java.lang.NoSuchMethodError: ic2.core.block.invslot.InvSlotUpgrade.&lt;init&gt;(Lic2/core/block/TileEntityInventory;Ljava/lang/String;I)V</code></p>\n<p>Кроме того, рецепт работы Термической стиральной машины теперь использует оредикт dustSulfur, а не только предмет IC2.</p>\n<p>Примечание: Эти ошибки можно исправить, просто перекомпилировав мод с использованием IC2 версии 2.8.191 или новее. Поскольку исходный код недоступен, а разработчик не обновлял его с 8 апреля 2020 года, когда ошибки были впервые сообщены, я решил создать этот небольшой патч.</p>\n<p>Пожалуйста, сообщайте обо всех проблемах через трекер задач, ссылка на который приведена выше.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/+9bydv6+yU=",
-  "content": "# 更好的世界加载\n\n为你的Minecraft世界加载界面增添现代化进度条、详细的区块生成统计信息，以及可选的音效反馈！\n\n## 功能特性\n\n### 📊 现代化进度显示\n- 用简洁的进度条取代默认的区块地图\n- 显示精确的区块计数（例如\"125/256区块\"）\n- 可通过[MidnightLib](https://modrinth.com/mod/midnightlib)进行配置\n\n### 🔍 详细区块信息（可选）\n- 可开关的详细区块状态分类：\n  - 显示各生成阶段的区块数量\n  - 采用颜色编码便于阅读\n  - 包含：空区块、结构起始、生物群系、特性、光照、完整等状态\n\n### 🔊 进度音效（可选）\n- 生成进度推进时会播放柔和的\"hat\"音效\n\n## 配置选项\n通过MidnightLib可调整功能：\n- 显示/隐藏详细区块信息\n- 开关进度音效\n\n## 为什么选择这个模组？\n- 世界生成时提供更清晰的视觉反馈\n- 真正有用的加载信息展示\n- 轻量级 - 不会影响加载性能\n- 完全根据个人偏好自定义\n\n特别适合速通玩家、技术型玩家，以及任何想要更好加载反馈的玩家！\n\n如需模组帮助，请在Discord联系我@`h1ggsk`！\n\n## 运行需求\n- Fabric Loader\n- [Fabric API](https://modrinth.com/mod/fabric-api)（必需）\n\n## 如果你觉得这个模组很有帮助，欢迎捐赠支持！\n\n比特币钱包地址：`bc1qzhuf0phu508ktrghw3x42cgvp9r7y0m36lt8wp`",
+  "bodyHash": "2fc2fec4fd122f35",
+  "content": "# 更佳的加载体验\n\n通过简洁的进度条、详细的区块生成统计信息以及可选的音效反馈，提升您的 Minecraft 世界加载界面！\n\n## 功能特性\n\n### 📊 现代化进度显示\n- 用干净的进度条替换默认的区块地图\n- 显示精确的区块数量（例如：“125/256 个区块”）\n- 可通过 [MidnightLib](https://modrinth.com/mod/midnightlib) 进行配置\n\n### 🔍 详细区块信息（可选）\n- 可切换的详细区块状态分解：\n  - 显示每个生成阶段的区块数量\n  - 采用颜色编码以便轻松阅读\n  - 包括：空、结构起点、生物群系、特性、光照、完整等\n\n### 🔊 进度音效（可选）\n- 随着生成过程的推进，播放轻柔的“hat”音符音效\n\n## 配置\n所有功能均可通过 MidnightLib 进行切换：\n- 显示/隐藏详细区块信息\n- 开启/关闭进度音效\n\n## 为什么选择本模组？\n- 在世界生成期间提供更清晰的视觉反馈\n- 提供关于当前加载内容的实际有用信息\n- 轻量级设计——不会影响加载性能\n- 完全自定义以满足您的偏好\n\n非常适合速通玩家、技术型玩家或任何希望在世界加载时获得更好反馈的玩家！\n\n如需帮助，请在 Discord 上联系 @`h1ggsk`！\n\n## 依赖要求\n- Fabric Loader\n- [Fabric API](https://modrinth.com/mod/fabric-api) （必需）\n\n## 如果您觉得这个模组有帮助，请考虑捐赠支持！\n\n比特币钱包地址：`bc1qzhuf0phu508ktrghw3x42cgvp9r7y0m36lt8wp`",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

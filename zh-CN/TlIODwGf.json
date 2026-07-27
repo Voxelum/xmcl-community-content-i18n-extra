@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1df7d109d0f59469",
+  "content": "RPG Bosses 是一款专注于打造沉浸式 RPG 风格Boss战斗的模组。每个Boss都可以通过 JSON 文件进行完全自定义，允许整合包制作者定制他们的游戏体验。Boss 会召唤仆从，这些仆从在死亡后会重生，将任何战斗变成史诗般的多阶段挑战，就像在 MMORPG 游戏中一样。\n\n如何使用此模组：\n\n- 导航至你的 Minecraft 目录：`\"./config/rpgbosses/bosses/\"`\n\n- 使用以下结构为每个 Boss 创建一个新的 .json 文件\n\n```\n{\n  \"entity\": \"minecraft:pig\",\n  \"maxMinions\": 2,\n  \"minions\": [\n    {\n      \"type\": \"minecraft:skeleton\",\n      \"name\": \"Skeleton Minion\",\n      \"respawnTicks\": 400,\n      \"nbt\": {\n        \"ArmorItems\": [\n          { \"id\": \"minecraft:leather_boots\", \"Count\": 1 },\n          { \"id\": \"minecraft:leather_leggings\", \"Count\": 1 },\n          { \"id\": \"minecraft:leather_chestplate\", \"Count\": 1 },\n          { \"id\": \"minecraft:leather_helmet\", \"Count\": 1 }\n        ],\n        \"HandItems\": [\n          { \"id\": \"minecraft:stone_sword\", \"Count\": 1 },\n          {}\n        ]\n      }\n    }\n  ]\n}\n\n\n```\n\n- 现在，每当僵尸受到伤害时，它都会召唤一个骷髅仆从。\n- 使用命令 `/spawn_boss 文件名` 测试你的 Boss 是否正常工作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

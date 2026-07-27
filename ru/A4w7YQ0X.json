@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f48d501f239fe64b",
+  "content": "Добавляет замороженную версию блоков, погруженных в воду. Теперь блоки с водой также могут замерзать, как вода превращается в обычный лёд. Замороженные блоки сохраняют свои состояния блоков и данные блок-сущностей, их можно получить с помощью инструмента с зачарованием «Шёлковое касание».\n\nНачиная с версии 1.1.0 поддерживает зачарование «Ходьба по льду».\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/8FWrDJA5JDk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/cZtDdDRLTYc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

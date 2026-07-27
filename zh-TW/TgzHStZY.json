@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c0ac1ad48cc1f992",
+  "content": "## 简介\n\n在机械动力的应力系统和FE能量之间进行双向转换。\n\n## 添加内容\n\n**动力发电机** - 消耗应力产生 FE 能量  \n**电动马达** - 消耗 FE 能量产生应力\n\n## 配置\n\n所有参数可在 `config/create_small_generator-common.toml` 中调整：\n\n*   能量转换效率\n*   应力容量\n*   传输速率\n*   存储容量",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

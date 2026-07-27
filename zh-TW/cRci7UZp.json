@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9898ab95a6be859e",
+  "content": "<a href=\"https://curseforge.com/Minecraft/mc-mods/fabric\" target=\"_blank\"><img src=\"https://user-images.githubusercontent.com/66281330/153967852-6b03d1f2-d795-4748-afe9-6074ea25701a.png\" alt=\"Requires Fabric API\" width=225></a>\n\n## 關於\n\n農作物喜愛雨水讓農作物在下雨時生長得更快。\n\n這些農作物包括：\n* 任何基於土壤的作物（小麥、胡蘿蔔等）\n* 竹子\n* 樹苗\n* 甘蔗\n\n## 配置\n_更新於 1.5.0_\n\n要配置農作物的生長速度，有兩個選項：\n1. 使用 [Mod Menu](https://modrinth.com/mod/modmenu) 在遊戲內通過圖形界面進行配置。\n2. 進入配置文件並更改設置。\n\n<br />\n\n_注意：版本 1.4.0 及以下不再支持。_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

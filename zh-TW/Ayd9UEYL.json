@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b11e829fc956bdd3",
+  "content": "![Better Cauldrons mod wordmark](https://cdn.squiggles.dev/screenshots/bettercauldrons_title.png)\n---\n\n<center>\n一款将基岩版中酷炫的熔炉功能移植到 Java 版的模组！\n  <br><br>\n  <a href=\"https://github.com/squigglesdev/BetterCauldrons\"><img src=\"https://cdn.modrinth.com/data/cached_images/90990c3a977732a6046619fbbd694e6652ed6f6f.png\" width=\"135\" alt=\"GitHub\"/></a>\n  &nbsp;  &nbsp;  &nbsp;\n<a href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://cdn.modrinth.com/data/cached_images/4efd8ed27cfea30edc011e5e504187f23312f593.png\" width=\"159\" alt=\"Fabric API\"/></a>\n</center>\n\n## 功能\n### 染色\n与装有水的熔炉互动以给水染色。之后，与任何可染色的物品互动即可将其染成该颜色。您还可以混合染料！\n<br>\n<center>\n<img src=\"https://cdn.squiggles.dev/screenshots/bettercauldrons_dyeing.gif\" width=\"480\" alt=\"展示在熔炉中染色长袍的 GIF 图像\"/>\n</center>\n\n---\n### 药水\n手持任何具有效果生成的药水与空的熔炉互动，即可将其存入熔炉中。一个熔炉最多可以容纳三种相同的药水。站在熔炉中即可获得其中药水的效果！\n<br>\n<center>\n<img src=\"https://cdn.squiggles.dev/screenshots/bettercauldrons_potions.gif\" width=\"480\" alt=\"展示在熔炉中染色长袍的 GIF 图像\"/>\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

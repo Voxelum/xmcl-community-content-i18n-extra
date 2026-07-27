@@ -1,6 +1,6 @@
 {
-  "bodyHash": "1YFWc0SvUTk=",
-  "content": "这个附加组件是一个极简的集成附加组件，用于 **Valkyrien Skies 2**，让 **ComputerCraft** 计算机能够获取更多信息，并且（对于命令计算机而言）能够更好地控制飞船。  \n\n这个附加组件只有两个功能，都是为放置在飞船上的计算机提供的 API。  \n\nShipAPI - _一个新的 API，允许放置在飞船上的计算机获取更多关于飞船的信息！它会在启动时以 \"ship\" 和飞船的名称列出！_  \n\nExtendedShipAPI - _这个 API 是 ShipAPI 的扩展，专门为命令计算机设计，继承了原始方法并新增了直接控制飞船的方法！它也会在启动时以 \"ship\" 和飞船的名称列出！_  \n\n此外，从 0.0.8 版本开始，感谢 [**19PHOBOSS98**](https://github.com/19PHOBOSS98) 允许我从 [他的 Github 仓库](https://github.com/19PHOBOSS98/LUA_PID_LIBRARY/tree/main) 中添加一些用于创建 **自定义 PID 控制器** 的游戏内实用程序，该仓库遵循 [MIT 许可证](https://github.com/19PHOBOSS98/LUA_PID_LIBRARY/blob/main/LICENSE)！  \n\n如果你想支持我和我的项目，[请我喝杯咖啡](https://www.buymeacoffee.com/techtastic)！",
+  "bodyHash": "c2e09d5465eb8d5a",
+  "content": "此插件是 **Valkyrien Skies 2** 的一个极简主义集成插件，旨在让 **ComputerCraft** 计算机能够获取更多信息，并在（命令计算机的情况下）对飞船进行更多控制。\n\n此插件仅包含两个功能，均为放置在飞船上的计算机提供的 API：\n\nShipAPI - _一个允许放置在飞船上的计算机更广泛访问飞船信息的新 API！它将在启动时同时显示为“ship”和飞船的名称！_\n\nExtendedShipAPI - _此 API 是 ShipAPI 的扩展，专为命令计算机设计，继承了原有方法以及用于直接控制飞船的新方法！它同样将在启动时同时显示为“ship”和飞船的名称！_\n\n此外，从版本 0.0.8 开始，还有几个游戏内实用程序，用于创建**自定义 PID 控制器**，这得益于 [**19PHOBOSS98**](https://github.com/19PHOBOSS98) 的帮助，使我能够从 [他的 GitHub 仓库](https://github.com/19PHOBOSS98/LUA_PID_LIBRARY/tree/main) 添加这些内容，该仓库采用 [MIT 许可证](https://github.com/19PHOBOSS98/LUA_PID_LIBRARY/blob/main/LICENSE)！\n\n如果你想支持我及其项目，[请我喝杯咖啡](https://www.buymeacoffee.com/techtastic)！",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

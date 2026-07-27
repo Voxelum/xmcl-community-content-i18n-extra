@@ -1,0 +1,6 @@
+{
+  "bodyHash": "413964e335c6ab51",
+  "content": "## Русский\n\n**`Chamber-Fix`** — это серверный/универсальный мод для Fabric в Minecraft **`1.21.11`**, который исправляет поведение сброса/перезарядки **`Trial Chambers vault (VaultBlockEntity)`**, правильно управляя состоянием игроков, получивших награду.\n\n### Особенности\n- Исправляет проблемы со сбросом/перезарядкой хранилища в `Trial Chambers`.\n- Команды администратора для настройки времени сброса и ручного сброса перезарядки.\n\n### Команды\n- **`/chamberfix set_reset_time <время>`**\n  - По умолчанию указывается в секундах\n  - Поддерживает суффиксы **`t` / `s` / `m` / `h` / `d`** (например, `10m`)\n- **`/chamberfix reset <координаты_хранилища> <цели>`**\n\n### Права доступа\n- **`OP level 4`** или **`chamberfix.admin`** *(если установлен `Fabric Permissions API`)*\n\n### Конфигурация\n- `config/ChamberFix/chamber_fix.properties` (`reset_time_ticks`)\n\n### Совместимость\n- Minecraft: **`1.21.11`**\n- Fabric Loader: **`>= 0.18.2`**\n- Java: **`21`**\n- Fabric API: **`не требуется`**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

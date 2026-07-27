@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a8d4f93ca79a1ff1",
+  "content": "\n\n![Banner](https://cdn.modrinth.com/data/cached_images/9c573146c98e157db76c53a8cd548761a2eea157_0.webp)\n\n## 简介\n你是否为了在洞穴中看得更清楚而将亮度调到最高？\\\n这会导致地表的阴影几乎完全消失吗？\\\n本模组正是为了解决这个问题而设计的！\n\n## 功能\n- **视觉适应** - 亮度会根据环境自动调整。\n\n## 配置\n支持通过 [Cloth Config](https://modrinth.com/mod/cloth-config) 进行自定义设置：\n- **视觉适应范围** - 亮度随环境变化的幅度\n- **视觉适应速度** - 亮度适应环境的快慢程度\n- **动态光源影响** - 动态光照模组对亮度调节的影响强度\n\n## 兼容模组\n- [Mod Menu](https://modrinth.com/mod/modmenu)\n- [Cloth Config](https://modrinth.com/mod/cloth-config)\n- [Lamb Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)\n\n## 未来计划\n- 支持更多动态光照模组\n- 探测可见光源\n\n## 常见问题\n- #### 能否将亮度设置为超过 100%？\n  **不能**。该选项永远不会存在。主要目的是恢复环境阴影，且在不影响可视性的前提下进行调节，而非用于作弊。这也确保了模组可以在多人游戏中正常使用。\n- #### 它是否与光影包兼容？\n  **部分兼容**。已安装 [Iris](https://modrinth.com/mod/iris) 时可正常工作，但若启用了光影包，由于光影自带自定义光照处理机制，可能会导致该功能失效。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

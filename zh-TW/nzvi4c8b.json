@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ebe1cfddce9d71e9",
+  "content": "\n\n這是一個以打造更龐大的 Minecraft 體驗為核心的整合包。\n\n對整體體驗影響較大的模組包括：\n- Terralith：增強主世界地形\n- Better End：豐富末地內容\n- Better Nether：豐富下界內容\n- Create 及其大多數相容的擴充模組\n- Fabric Seasons\n- 結構模組，可修改 70% 以上的原版建築結構。\n\n我希望能夠善用 Distant Horizons 為 Minecraft 帶來的遠距離渲染能力大幅提升，搭配以下內容：\n- 更大規模的生活場景建築（希望能讓更多人輕鬆參與）\n- 更接近地球的比例；與泰拉（Terra）地理相比，Minecraft 的海洋看起來只像中型湖泊\n- 利用更遼闊的地形進行鞘翅飛行、船艦航行、飛行器與載具探索（當然全部都由方塊搭建）\n\n\n\nMac 相關設定\n - 在使用 Zulu JRE 遊玩 Minecraft 時，讓 Mac 觸控列顯示功能鍵：`defaults write com.apple.touchbar.agent PresentationModePerApp -dict-add net.azul.zulu.java functionKeys`（此操作需在透過 Modrinth 應用程式安裝建議的 Java 版本後進行。）\n - 讓遊戲模式與 Modrinth 正常運作：將 Modrinth 應用程式的套件標識符（Bundle Identifier）改為 `com.mojang.minecraftlauncher`\n\n\n目前我將投入這個專案的時間視為某種程度的實務開發經驗。我對這個專案並沒有非常宏大的長期規劃。我只希望盡自己微薄之力，為 Minecraft 模組開發圈貢獻一點心力。 \n\n我想我會試著定期更新這個專案，當我有新點子時會更新，在我或他人實際使用它時也會更積極地維護。\n若有興趣的玩家在這個整合包未公開上架時發現了它，Discord 伺服器就是聯繫與交流的地方。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

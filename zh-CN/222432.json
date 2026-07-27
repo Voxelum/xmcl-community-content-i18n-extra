@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0383fc767babee29",
+  "content": "<p><em><strong>Minecraft + Mumble + MumbleLink = 您可以听到声音的来源及其距离！</strong></em></p>\n<p>&nbsp;</p>\n<p>这是一个基于“Minecraft Forge”的客户端 Minecraft 模组。其目的是能够在 Minecraft 中使用 Mumble 的位置音频功能。（<a href=\"/linkout?remoteUrl=https%253a%252f%252fwiki.mumble.info%252f\" target=\"_blank\" rel=\"nofollow\">https://wiki.mumble.info</a>）</p>\n<p>这意味着：**相对于游戏世界的方向性和位置衰减语音通信（VOIP）。**</p>\n<p>它使用 Mumble Link 插件 v1.2.0 并添加原生 Mumble 支持。</p>\n<p>有一个接口（API），其他模组可以使用它来注入自定义的 Mumble<br>上下文和/或身份标识。</p>\n<p>请访问 <a href=\"https://github.com/zsawyer/MumbleLink\" target=\"_blank\" rel=\"nofollow\">GitHub 页面</a> 和 <a href=\"http://www.minecraftforum.net/topic/217587\" target=\"_blank\" rel=\"nofollow\">minecraftforum.net 帖子</a> 了解更多详情。</p>\n<p>这是自由开源软件（LGPLv3）！源代码可在 <a href=\"https://github.com/zsawyer/MumbleLink\" target=\"_blank\" rel=\"nofollow\">GitHub</a> 找到（旧仓库位于 <a href=\"/linkout?remoteUrl=https%253a%252f%252fsourceforge.net%252fprojects%252fmodmumblelink\" target=\"_blank\" rel=\"nofollow\">SourceForge</a>）。未能发布到 Curse 上的旧版本下载请参见<a href=\"/linkout?remoteUrl=https%253a%252f%252fsourceforge.net%252fprojects%252fmodmumblelink%252ffiles%252f\" target=\"_blank\" rel=\"nofollow\">此处</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

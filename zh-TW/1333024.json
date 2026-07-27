@@ -1,6 +1,6 @@
 {
-  "bodyHash": "q7Vk5JmcUZ0=",
-  "content": "<h3>模組概述</h3><p>Cobblemon Effectiveness 是一款簡易的 Cobblemon 用戶端模組，能協助訓練家做出更明智的對戰決策。<br>\n每當進入寶可夢對戰時，模組會顯示簡潔緊湊的介面疊層，醒目提示對對手現役寶可夢效果絕佳的招式屬性。</p><p>無需再猜測屬性相剋——一眼看清 ×2 與 ×4 的效果倍率！</p><h3>支援與建議</h3><p>本模組仍在開發階段，可能會出現部分問題。若遇到任何狀況或有建議，請加入<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fcobblemon\" target=\"_blank\" rel=\"nofollow\">Cobblemon Discord</a>伺服器，並至 <code>#content-zone-help</code> 頻道的專屬支援討論串留言，或<a href=\"https://github.com/Aruloci/CobEffectiveness/issues\" target=\"_blank\" rel=\"nofollow\">於 GitHub 提交問題報告</a>。</p><h3>已知問題</h3><p>目前僅支援 Cobblemon 模組，尚未兼容其他模組。若希望新增現有模組的支援功能，請透過上方連結至 Cobblemon Discord 提出請求。</p>",
+  "bodyHash": "c634eff3c9d7cb64",
+  "content": "<h3>總覽</h3>\n<p>Cobblemon Effectiveness 是一個針對 Cobblemon 的簡單客户端模组，协助训练师做出更好的战斗决策。<br>\n当你进入宝可梦对战时，模组会显示一个简洁、紧凑的用户界面覆盖层，突出哪些招式属性对当前敌方宝可梦具有高有效性（例如造成超效伤害）。</p>\n<p>不再需要猜测属性相克关系——一目了然地看到 ×2 和 ×4 的有效性！</p>\n<h3>支持与建议</h3>\n<p>模组仍处于开发阶段，可能会出现一些问题。如果你遇到任何问题或有建议，请加入 <a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fcobblemon\" target=\"_blank\" rel=\"nofollow\">Cobblemon Discord</a>，并在专用支持线程中的 <code>#content-zone-help</code> 频道联系，或在 <a href=\"https://github.com/Aruloci/CobEffectiveness/issues\" target=\"_blank\" rel=\"nofollow\">GitHub 上提交问题</a>。</p>\n<h3>已知问题</h3>\n<p>目前仅支持 Cobblemon。其他模组尚未提供支持。若希望获得现有模组的支持，请在上述 Cobblemon Discord 中提出请求。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

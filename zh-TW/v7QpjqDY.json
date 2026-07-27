@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4dbf85faa60b55f7",
+  "content": "\n\n# Blocky Armor Stands - Arms Version\n將盔甲架的模型與物品材質替換為更方塊化的版本。\n\n需要 [Optifine](https://optifine.net/home) 或 [EntityModelFeatures](https://modrinth.com/mod/entity-model-features)！\n\n非手臂版本：https://modrinth.com/resourcepack/pdb3ds-blocky-armor-stands\n\n### **注意！版本說明**\n\n此資源包共有 **2 個版本**：預設版本與手臂版本！\n\n預設版本會在具備 `showarms` NBT 資料時顯示手臂；若沒有此資料，則僅顯示無手臂的支架。\n\n手臂版本則會在沒有 `showarms` NBT 資料的情況下也顯示手臂。\n\n如果你使用了能讓盔甲架顯示手臂的模組、遊玩使用了該功能的地圖，或者你偏好完全不顯示手臂：請使用預設版本！\n如果你希望在通常不會顯示手臂的情境下（例如原版生存模式）讓盔甲架擁有手臂：請使用手臂版本（此時手臂僅為視覺效果，無法手持物品）。\n\n你可以透過**更改盔甲架的名稱來套用不同外觀**：\n將 `armorstand15.png` 替換為玩家外觀圖片後，名為「Player」的盔甲架就會套用該外觀。\n\n目前支援的外觀名稱包括：\nPlayer \nSteve \nAlex \nOak_Planks \nSpruce_Planks \nBirch_Planks \nJungle_Planks \nAcacia_Planks \nDark_Oak_Planks \nMangrove_Planks \nCherry_Planks \nPale_Oak_Planks \nBamboo_Planks \nCrimson_Planks \nWarped_Planks\n\n![版本](https://cdn.modrinth.com/data/cached_images/a0462bd6c59470b94e8b09a0eb4a33e760cac147.png)\n\n![盔甲架](https://cdn.modrinth.com/data/cached_images/ed7aa6dd160de9a3b2beb660ed549c0a9f998a12.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6773d17757b35952",
+  "content": "# Xaero PointShare\n一个简单的 Fabric 模组，用于修改 Xaero 小地图的航点分享功能。\n\n## 特性：\n- 分享航点时，不再在聊天中发送，而是仅复制到剪贴板。\n- 如果消息开头为 `x%s:`，则航点将仅显示给你自己。\n示例：`x%self:xaero-waypoint:1:1:9:-60:13:2:false:0:Internal-overworld`\n- 如果航点以 `x%o:` 开头，则会向所有玩家发送航点，就像原版 Xaero 小地图一样。\n\n## 为什么？\n此模组旨在实现 Minecraft 外部（例如 Discord）用户之间的航点共享。  \n我有一个频道，我们在那里发布所有航点，例如：\n> 某物农场：\n> ```\n> x%s:xaero-waypoint:某物农场:F:0:0:0:0:false:0:Internal-overworld\n> ```\n你只需将其复制粘贴到聊天栏即可添加航点。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

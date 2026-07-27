@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9e148c2cdfe85709",
+  "content": "Avaritia：長矛\n\nRe-Avaritia 的擴充模組，讓無限長矛躍然呈現。\n\n功能特色：\n- 無限長矛 — 以無限錠打造的宇宙級長矛，繼承了 Spear Core 的所有長矛機制\n- 即死攻擊 — 左鍵刺擊與右鍵蓄力皆造成無限傷害（可透過 Avaritia 的無限傷害開關進行設定）\n- 永不損壞 — 實作了 IUndamageable 介面，不會有任何耐久度消耗\n- 附魔內建 — 預設已附帶奪命術 X\n- 攻擊範圍擴展 — 攻擊距離增加 +7\n- 不朽掉落 — 無法被熔岩、爆炸或虛空摧毀\n- 宇宙稀有度 — 與 Re-Avaritia 的宇宙物品等級相匹配，並擁有動態工具提示\n- 星際穿透 — 完整蓄力攻擊時具備視覺與聽覺反饋\n\n依賴條件：\n- Re-Avaritia 1.3.9.9+\n- Spear Core 1.0.0+\n- NeoForge 21.1+",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

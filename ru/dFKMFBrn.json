@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Fq+iQTJqn+A=",
-  "content": "# Дополнительное уменьшение кадров\nМод, который добавляет небольшие дополнения к [MoreCulling](https://modrinth.com/mod/moreculling/) с помощью его API.\n\n**Текущие функции:**\n- Стекла убирают себя при столкновении со стеклами и маяками.\n- Стекла убираются при столкновении с маяками.\n- Маяки убираются при столкновении со стеклами.\n\n---\n\n<a href=\"https://fxco.ca/kinetic/42\"><img alt=\"Kinetic Hosting\" src=\"https://fxco.ca/assets/Mod_Banner.png\"></a>\n\n---\n\nСодержание посвящено моду Minecraft, ресурсному пакету, модпаку или шейдерному пакету или другим связанным с Minecraft ресурсам. Пожалуйста, сохраняйте стиль языка приятным для геймеров.",
+  "bodyHash": "02b96d1b1620a2ee",
+  "content": "\n\n# More Culling Extra\nМод, добавляющий небольшие дополнения в [MoreCulling](https://modrinth.com/mod/moreculling/) с использованием его API.\n\n**Текущие возможности:**\n- Стеклянные переплёты отсекаются на фоне стекла и маяков\n- Стекло отсекается на фоне маяков\n- Маяки отсекаются на фоне стекла\n\n---\n\n<a href=\"https://fxco.ca/kinetic/42\"><img alt=\"Kinetic Hosting\" src=\"https://fxco.ca/assets/Mod_Banner.png\"></a>\n\n---",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

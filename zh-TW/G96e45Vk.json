@@ -1,0 +1,6 @@
+{
+  "bodyHash": "979e25efed9b74ec",
+  "content": "JJSH - Jujutsu Craft 附加模組\n\nJJSH 是 Orca 的模組《Jujutsu Craft》（咒術迴戰）的附加模組。\n本附加模組使用了 Orca 模組中的一些素材。\n\n功能特色\n\n黑閃強化\n觸發黑閃將永久提升你的力量。\n\n水上行走道具\n使用特殊道具在水面上行走。\n該道具可從結構箱中獲得。\n\n愛之邂逅術式\n加入了星野琉璃的術式「愛之邂逅」。\n你可以使用 JJSH 術式變換器來獲得此術式。\n\n宿彥連擊書\n新增了宿彥連擊書，允許你使用連擊技能而不消耗宿彥的手指。\n\n空跳道具\n新增了一種道具，使用時可在空中跳躍。\n\n領域階級系統\n新增了領域階級系統。\n\n不完全領域\n如果咒術師階級為二級或更低，使用領域將導致產生不完全領域。\n\n開放式結界領域\n當解鎖「領域精通」技能時，可以使用開放式結界領域。\n使用時按住 Shift 鍵則會改為啟動普通（封閉）領域。\n\n傷害顯示\n即時顯示對敵人造成的傷害。\n\n指令\n\n/fame\n顯示你目前的聲望。\n\n/playerlevel\n顯示你目前的玩家等級。\n\n/black flash stack\n顯示目前由黑閃帶來的傷害加成。\n\n遊戲規則\n\n/gamerule blackflashstack\n啟用或禁用黑閃強化效果。\n\n/gamerule jjshDamageDisplay\n啟用或禁用傷害顯示功能。\n\n/gamerule jjshOpenBarrierDomain\n在達成領域精通時允許使用開放式結界領域。\n若禁用，則僅適用封閉領域和不完全領域。\n\n更多內容即將推出\n\n我計劃添加的其他功能將在未來的更新中加入。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

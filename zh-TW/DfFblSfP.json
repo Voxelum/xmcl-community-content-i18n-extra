@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc886b442d87bed8",
+  "content": "# 靜音傳送門\n\n**一個用於移除 Minecraft 1.6.1+ 版本中傳送門音效的資源包**\\\n•隨著新版本發布將持續更新，以避免遊戲內的警告提示•\n\n<ins>已移除的音效</ins>\\\n-下界傳送門隨機音效\\\n-下界傳送門移動音效\n\n<ins>運作原理</ins>\\\n該資源包將 .ogg 音效文件替換為不含音頻但遊戲仍視為有效音頻文件的版本。\n\n此資源包同時包含 \"sound\" 和 \"sounds\" 資料夾，以確保最大兼容性。未更改其他任何文件，以保持檔案體積盡可能小巧。\n\n</br>\n</br>\n\n![Silent Portals Minecraft Photo](https://cdn.modrinth.com/data/DfFblSfP/images/eb66377d69fcc091b8a4713dac1f65ea0f86dd33.jpeg)\n\n**享受**沒有煩人傳送門音效的**寧靜**吧！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

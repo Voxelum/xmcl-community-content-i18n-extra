@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bcff176a557cd00f",
+  "content": "\n\n我基于 [这个数据包](<https://www.planetminecraft.com/data-pack/minecraft-but-you-gain-exp-your-world-gets-bigger/>)（由 [EpicBuilderHD 在 PlanetMinecraft 上发布](<https://www.planetminecraft.com/member/epicbuilderhd/>)）进行了改造——该数据包原本会让世界边界初始非常小，并在你每次提升经验等级时自动扩大——同时利用我模组 [Cobblemon Counter](<https://cobble.timinc.us/?loader=all&version=all&id=counter>) 中的新逻辑，将其调整为每次你捕获新的宝可梦时，世界边界都会随之扩大。\n\n**需要 [Cobblemon](<https://modrinth.com/mod/cobblemon>) 以及配套模组 [Cobblemon Counter](<https://modrinth.com/mod/cobblemon-counter>)**\n\n[欢迎来我们的 Discord 社区做客！](https://discord.gg/WKAR27SdSv)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "16b64dcec391704f",
+  "content": "**非同步記錄器** 是一款 Minecraft 模組，它使記錄操作非同步化。\n\n在原版 Minecraft 中，記錄器並非非同步的。這意味著實際的記錄操作（包括 I/O 操作）都在記錄線程上執行。此模組將記錄更改為非同步模式，以提供更好的性能。\n\n當大量訊息被記錄和/或啟用除錯記錄時（Forge / NeoForge 預設啟用），這一點尤為有用。\n\n## 基準測試\n\n| 項目                             | 原版      | AsyncLogger |\n|----------------------------------|-----------|-------------|\n| 簡單訊息 (1萬條)                 | 6146.1ms  | 141.2ms     |\n| 帶有佔位符的訊息 (1萬條)         | 6413.2ms  | 96.6ms      |\n| 帶有異常堆疊追蹤的訊息 (1500條)   | 19572.4ms | 9.0ms       |\n\n您可以在配置文件中啟用 `testPerformance` 來自行進行這些測試。當此選項啟用時，模組會在設置非同步記錄器之前和之後記錄大量訊息。您可以在日誌中看到測試結果。\n\n## 過濾\n\n從版本 2.0.0 開始，AsyncLogger 支持日誌過濾。過濾操作在專用的非同步記錄器線程上進行，確保對調用者沒有額外開銷。\n\n要使用此功能，只需在配置中將 `filtering.enabled` 設置為 `true`，然後編輯一個或多個過濾器即可。支持按記錄器名稱、級別和訊息內容（匹配子串或正則表達式）進行過濾。\n\n## 技術細節\n\n- 使用了 [非同步記錄器](https://logging.apache.org/log4j/2.x/manual/async.html)，而非非同步附加器。前者更新、更快且分配率更低。\n  - 非同步記錄器需要 LMAX Disruptor，這是一個無鎖的線程間通信庫。當該庫不存在時，模組會將其加載到系統類加載器中。本模組在 Apache-2.0 [許可證](https://github.com/LMAX-Exchange/disruptor/blob/master/LICENCE.txt) 下重新分發了 LMAX Disruptor。\n- 配置文件允許輕鬆控制某些 log4j2 設置。\n- `System.out` 和 `System.err` 可以重定向到記錄器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7a8c843cf24f035f",
+  "content": "# MCInspects\n你可以把玩家从《反恐精英》中拉出来，但你无法把《反恐精英》从玩家心中移除。本模组添加了一个按键绑定（默认为 'R'），按下时会让手中的物品翻转，以便从更多角度展示。\n\n# 功能\n为手持物品添加一个播放检视动画的按钮。仅此而已。\n![动画预览。](https://cdn.modrinth.com/data/nUsMv8OS/images/c8dea9a70afcddf62eda0c64c184c19996dbf1d6.gif)\n\n## 依赖：\n- Fabric API。\n- 未确诊的多动症（可选）。\n\n### 本模组仅适用于客户端。其他玩家将看不到任何效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

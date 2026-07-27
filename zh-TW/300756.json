@@ -1,0 +1,6 @@
+{
+  "bodyHash": "79b4e2ecb11c124b",
+  "content": "<h3><span style=\"text-decoration:underline\">WorldInfo</span> 會在你的 HUD 上顯示關於你周圍世界的資訊。</h3>\n<p>&nbsp;</p>\n<p>目前僅支援方塊和實體，模組也可以自行新增處理程式。</p>\n<p>&nbsp;</p>\n<h3><span style=\"text-decoration:underline\">注意：</span></h3>\n<p><strong>WorldInfo 是為 Rift Modloader 設計的模組，需要 <a href=\"https://minecraft.curseforge.com/projects/rift\" rel=\"nofollow\">Rift</a> 才能運作，而非 Forge！</strong></p>\n<p><strong>1.13.2 版本需要 <a href=\"https://github.com/Chocohead/Rift\" rel=\"nofollow\">Chocohead 的 Rift 分支</a>！</strong></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:12px\"><em>舊版原始碼可於 <a href=\"https://github.com/UpcraftLP/Rift-WorldInfo/\" rel=\"nofollow\">https://github.com/UpcraftLP/Rift-WorldInfo/</a> 找到</em></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

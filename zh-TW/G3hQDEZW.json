@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de34b3766c710608",
+  "content": "# *Elytra Alert*\n\n這個模組是一個輕量級的品質提升（QoL）模組，當玩家在終界維度中未裝備鞘翅時會發出警告。\n\n---\n## ✨ 功能\n- 在顯示警告之前，會考慮您當前的**遊戲模式**\n- 不僅會在未裝備鞘翅時發出警告，還會在鞘翅的**耐久度低**時提醒您\n- 耐久度檢查會**納入無損 enchantment 的因素**，提供更準確的警告\n- 支持在配置菜單中進行**每個世界/伺服器**的設置\n\n---\n## ⚙️ 兼容性\n- 該模組適用於 1.21+ 版本，我沒有計劃為更早的版本提供支持\n- 需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n- 安裝 [Mod Menu](https://modrinth.com/mod/modmenu) 和 [Cloth Config](https://modrinth.com/mod/cloth-config) 以訪問配置菜單",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

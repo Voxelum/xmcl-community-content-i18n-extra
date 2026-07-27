@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4135715ebebdb772",
+  "content": "# 無縫載入畫面\n\n無縫載入畫面是一個模組，允許你在離開遊戲時截圖，並在重新加入遊戲時顯示該截圖，從而實現從載入畫面到遊戲的無縫過渡。\n\n此模組支援加入單人世界、Realms 和伺服器，並提供多種配置選項，例如模糊、著色和截圖解析度。\n\n## 配置\n\n得益於 [Yet Another Config Lib](https://modrinth.com/mod/yacl)，無縫載入畫面擁有易於使用的配置螢幕，允許你修改功能的每個細節。\n\n![](https://cdn.modrinth.com/data/TyTPFOiF/images/bcbbfd91ff2138c5ad917876403cbd4146d26028.png)\n\n## 相容性\n\n無縫載入畫面預設與以下模組相容：（也可能與其他未列出的模組相容！）\n\n- Bedrockify\n- Fastquit\n- Fastload",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

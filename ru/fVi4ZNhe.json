@@ -1,0 +1,6 @@
+{
+  "bodyHash": "23aed56ef73eac14",
+  "content": "\n\n### ⚠️ Данный мод является продолжением [переименованного форка (NormalASM)](https://modrinth.com/mod/normalasm) от [L***ASM](https://www.curseforge.com/minecraft/mc-mods/lolasm), созданного Rongmario.\n\nНачиная с версии 5+, данный мод явно несовместим с VanillaFix и TexFix, поскольку их функциональность была улучшена и добавлена в этот мод.\n\n**Что делает этот мод:**\n1. Оптимизирует расход оперативной памяти. Вот результат при добавлении в крупную сборку модов (без Foamfix):\n![Сравнение расхода памяти](https://cdn.modrinth.com/data/cached_images/280bb04122a7f7d7e5d03bcdefebe89fdf518b5b.png)\n\n2. Исправляет вылеты в различных модах, а также в самом Forge. \n3. Оптимизирует код в целом.\n\nНачиная с версии 2.3 требуется [MixinBooter](https://modrinth.com/mod/mixinbooter).\n\nРекомендуется использовать совместно с [VintageFix](https://modrinth.com/mod/vintagefix).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

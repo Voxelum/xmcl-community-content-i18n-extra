@@ -1,0 +1,6 @@
+{
+  "bodyHash": "26c84857193d22fb",
+  "content": "\n\n<img src=\"https://github.com/nicochart/NotSoHardcore/blob/main/wiki_images/logo/notsohardcore_logo.png?raw=true\" width=\"800\">\n\n想和朋友一起玩硬核模式，但每当有朋友死亡而无法继续游戏时，是不是感到很沮丧？\n\n**Not So Hardcore** 正是为此而生。它引入了会随时间恢复的生命数机制，让你既能体验类似硬核模式的死亡恐惧，又能在一段时间后选择复活。\n\n## 工作原理\n\n你的（默认）最大生命数为 3。\n\n每次死亡都会失去一条生命。不过别担心，你每 1 小时（默认）可以恢复一条生命！\n\n如果玩家失去了所有生命，在等待恢复生命期间，将被切换为旁观者模式（类似于原版硬核模式）。\n\n你可以在[信息菜单](https://github.com/nicochart/NotSoHardcore/wiki/Info-Menu)中查看剩余生命数和恢复一条生命所需的时间（默认按 H 键）。\n\n最大生命数和每条生命的恢复时间均可[自定义配置](https://github.com/nicochart/NotSoHardcore/wiki/Configuration)。\n\n<img src=\"https://github.com/nicochart/NotSoHardcore/blob/main/wiki_images/menu/menu_life_restore.png?raw=true\" width=\"600\">\n\n更多信息，请查看[Not So Hardcore Wiki](https://github.com/nicochart/NotSoHardcore/wiki)！\n\n**警告：** 本模组会同时修改普通游戏模式和原版硬核模式。请在你想要使用的模式下创建世界！\n\n想在整合包中使用吗？\n尽管使用！请查看 Wiki 中关于配置文件、命令以及复活道具碎片的相关内容。\n\n## 建议\n\n如果玩家失去所有生命，将被切换为旁观者模式。默认情况下，旁观者可以穿墙（noclip）。\n\n如果你想阻止这一行为，可以使用 Anti Spectator Noclip。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

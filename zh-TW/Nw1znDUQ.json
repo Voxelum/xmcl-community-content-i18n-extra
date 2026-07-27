@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f522c1ba8cbdbf7d",
+  "content": "\n\n若添加了將煤炭等燃料作為熔爐原料的配方，按住 Shift 點擊煤炭堆疊會將其放入原料槽而非燃料槽。\n\n本模組修改了此行為，確保在填充原料槽前，會優先填滿燃料槽。\n\n預設情況下，本模組僅針對煤炭與木炭生效。您可透過將其他物品加入物品標籤（itemtag）來新增更多燃料：\n\n```json\nfuelgoeshere:forced_fuels\n```\n\n[Discord](https://discord.gg/Vayx3k8Szd) 提供支援\n\n\n[![Sponsor Time](https://jonn.dk/akliz_banner_productivebees.png)](https://www.akliz.net/lobstermods)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

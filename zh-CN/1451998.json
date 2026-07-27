@@ -1,0 +1,6 @@
+{
+  "bodyHash": "72727093a003dd48",
+  "content": "\n\n<h1>Overlapless</h1>\n<p>一款简单的模组，用于在世界生成过程中防止结构与特征的重叠。</p>\n<p><strong>支持服务端运行</strong>（客户端安装可选）。</p>\n<h2>工作原理</h2>\n<p>当某个结构即将生成时，该模组会检查其边界框内是否已存在其他结构。若检测到重叠，则会跳过该结构的生成以避免冲突。</p>\n<h2>功能特性 (v1.1.0+)</h2>\n<ul>\n<li><strong>UnskippableStructures</strong>：配置即使在重叠情况下也必须生成的结构（在 <code>overlapless-common.toml</code> 中设置）</li>\n<li><strong>SkippableFeatures</strong>：防止特定配置的特征与结构重叠</li>\n<li><strong>Logging Options</strong>：切换结构/特征跳过事件的日志记录</li>\n</ul>\n<h2>版本支持</h2>\n<ul>\n<li><strong>1.20.1+</strong>：完全支持最新功能（v1.1.0）</li>\n<li><strong>1.16.5 & 1.18.2</strong>：有限支持（仅限 v1.0.6）——这些版本已处于半弃用状态，可能不会接收 v1.1.0 的更新</li>\n</ul>\n<h2>重要提示</h2>\n<p>⚠️ <strong>结构密度降低</strong>：本模组通过跳过生成来防止重叠，而非重新定位结构。您的世界中找到的结构总数可能会减少。</p>\n<p>⚠️ <strong>仅影响新区块</strong>：仅对新生成的区块生效。已生成的地形将保持不变。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

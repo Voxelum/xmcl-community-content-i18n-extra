@@ -1,0 +1,6 @@
+{
+  "bodyHash": "425bd17b75a1a4c2",
+  "content": "\n\n# 簡單自動攻擊\n\n**簡單自動攻擊** 會在你瞄準敵人時自動揮動武器——無需點擊。\n\n## 功能特色\n\n- **武器冷卻完成且正瞄準生物或玩家時自動攻擊**\n- **可穿透障礙物攻擊**——草叢、蛛網、海帶、藤蔓與植物\n- **防止誤破壞方塊**——使用劍、三叉戟、戰鎚等武器時不會意外打破方塊（完全可自訂）\n- **完整可自訂**——可透過 [ModMenu](https://modrinth.com/mod/modmenu) 調整所有選項\n\n## 使用方法\n\n1. 安裝 [Fabric](https://fabricmc.net/use/)、[Fabric API](https://modrinth.com/mod/fabric-api) 與 [Cloth Config](https://modrinth.com/mod/cloth-config)\n2. 將本模組置入 Minecraft 的 `mods` 資料夾\n3. 啟動遊戲後，按下預設的 **逗號鍵（`,`）** 即可切換啟用狀態\n\n設定可在遊戲內透過 ModMenu 進行調整。\n\n## ⚠️ 多人遊戲警告 ⚠️\n\n此模組可能不獲多人伺服器允許，且可能會觸發反作弊機制。  \n請務必查看並尊重伺服器規則。使用風險自行承擔。\n\n## 鳴謝\n\n靈感來源為 [vin35 的 AutoAttack](https://modrinth.com/mod/autoattack)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

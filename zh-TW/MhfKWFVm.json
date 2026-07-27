@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d25d7a9a3a044822",
+  "content": "# 附魔限制器\n\n让附魔变成有意义的选择，而不是一味叠加增益。\n\n限制物品上的附魔数量。\n\n默认情况下，自动对所有可破坏物品和附魔书应用此限制。\n\n![limit](https://cdn.modrinth.com/data/MhfKWFVm/images/58f4a9d9307ae076590dda908a2ccd956c768934.png)\n\n## 物品组件\n\n附魔限制基于一个新的物品组件：`enchant_limiter:limit`\n\n示例命令\n```\n/give @p minecraft:golden_sword[enchant_limiter:limit={\"count\":5}]\n```\n\n## 配置\n\n- 可调整默认附魔上限（默认值：3）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

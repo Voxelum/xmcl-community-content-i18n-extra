@@ -1,0 +1,6 @@
+{
+  "bodyHash": "83c1323802af3e85",
+  "content": "# Vivecraft\nVivecraft 是一款能将 Minecraft 转变为卓越 VR 体验的模组，支持房间尺度或坐姿游玩！\n更多信息请访问 [https://www.vivecraft.org/](https://www.vivecraft.org/ \"https://www.vivecraft.org/\")。\n\nVivecraft 是一款历史悠久、广为人知的 VR 模组。正因如此，它包含一些已过时且使开发和协作变得困难的代码实践。为此，我们开始使用更现代的方法对其重新编码，以保持与时俱进并与其他模组更好地兼容。其成果是现在可以在 Forge、Fabric 和 Quilt 上运行 Vivecraft！\n\n需要帮助或有任何问题？欢迎加入我们的 Discord 服务器 [https://discord.gg/jYyyv7zhSW](https://discord.gg/jYyyv7zhSW)\n\n## 常见问题解答 (FAQ)\n\n### Vivecraft 不是只针对 Forge 的吗？\n过去 Vivecraft 仅在 Forge 上提供。然而，我们已对其进行了重写，使其也能在 Fabric 和 Quilt 上运行。\n\n### 其他玩家能看到我的手吗/关于非 VR (NONVR) 模式？\n该模组的 jar 包中**包含了非 VR (NONVR) 模式**。VR 默认处于禁用状态，可在主菜单中启用。\n\n要让其他玩家看到你的手，他们需要在客户端安装此模组，并且服务器也需要安装此模组，或者安装 [Vivecraft Spigot Extension](https://modrinth.com/plugin/vivecraft-spigot-extension)（如果服务器是 Spigot/Paper 服务器）。\n\n### 它是否与 MCXR 兼容？\n不，这是一个独立的模组，不与 MCXR 进行接口交互。\n\n### 它能在 Quest 上原生运行吗？\n不能，但未来也许可以。\n在此期间，有 [Questcraft](https://questcraft.org/ \"https://questcraft.org/\") 可以使用此模组的修改版本，以使其兼容 Oculus/Meta Quest。\n\n### Sodium/Iris ... 它们能工作吗？\nSodium 可以正常工作。\nIris 也可以正常工作。\n其他模组均未经测试。模组兼容性对我们来说非常重要，但这并不简单。目前我们专注于确保其稳定性，之后我们将致力于解决兼容性问题。\n\n### 关于 Optifine 呢？\n自 1.0.0 版本起，Optifine 与该模组兼容，但不是必需的。\n\n### 关于 1.19.0 呢？\n有一个版本可供使用，但它将不再获得进一步更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

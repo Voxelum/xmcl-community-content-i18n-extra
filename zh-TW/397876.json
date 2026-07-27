@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dce666dcaeafc953",
+  "content": "<p><strong>自 Fabric API 0.43.0+（适用于 1.17.1）起，本项目已停止维护。请使用该 Fabric API 版本中引入的鞘翅功能替代。</strong></p>\n<p><a href=\"https://discord.gg/JWgrdwt\" rel=\"nofollow\"><img src=\"https://img.shields.io/discord/500852157503766538.svg?color=green&label=Discord&style=flat-square\" alt=\"Discord\"></a></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fC0C1NL4O\" rel=\"nofollow\"><img src=\"https://www.ko-fi.com/img/githubbutton_sm.svg\" alt=\"ko-fi\"></a></p>\n<h2>概述</h2>\n<p><strong>本项目专为 Fabric 模组加载器设计。如需查看其对应的 Forge 模组加载器版本，请<a href=\"https://www.curseforge.com/minecraft/mc-mods/caelus\" rel=\"nofollow\">点击此处</a>。</strong></p>\n<p>Caelus 是一款小型实用模组，它将硬编码的原版鞘翅行为抽象为更通用的鞘翅飞行属性，并将其暴露给希望为自己的模组实现鞘翅飞行的模组开发者。</p>\n<p>所有模组开发者只需在适用处调用 <code>CaelusApi.ELYTRA_FLIGHT</code> 属性即可。该属性的默认值为 0，表示禁止任何鞘翅飞行。属性值大于或等于 1 时将启用鞘翅飞行。原版鞘翅物品也已更改为使用此属性，其行为与正常情况保持一致。</p>\n<h2>添加到您的项目</h2>\n<p><a href=\"https://github.com/TheIllusiveC4/Caelus/tree/1.16.x-fabric#adding-to-your-project\" rel=\"nofollow\">请参阅 GitHub README 文件。</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

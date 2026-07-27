@@ -1,0 +1,6 @@
+{
+  "bodyHash": "24eb62a5e66c9fe2",
+  "content": "\n\n# FoxifiedClassTweaker\n为 FancyModLoader 提供 [Fabric 的 ClassTweaker](https://docs.fabricmc.net/develop/class-tweakers/) 支持。\n\n## 使用方法\n\n### 针对模组开发者\n\n在开发环境中使用 ClassTweaker/AccessWidener 时，请尽量使用 Loom（例如 architectury-loom、RelativityMC 的 neo-loom 等）。\n\n以下说明将以 Loom 环境为例。ModDevGradle/NeoGradle 环境需要 Gradle 插件来处理 ClassTweaker/AccessWidener。\n\n类似于添加 NeoForge 的 AccessTransformer 的方式。将以下内容添加到你的 `META-INF/neoforge.mods.toml` 文件中：\n\n你需要将 ClassTweaker/AccessWidener 文件（理论上与 AccessWidener 兼容）放入对应的目录中。\n\n```toml\n[[foxified.classtweaker]]\nfile = \"modid.classtweaker\"\n```\n如果你不希望玩家下载此库，可以直接将 `processor` 包作为 JAR 内嵌 JAR 包含在模组中。详见下方：\n```groovy\nrepositories {\n    maven {\n        name = \"KTTMaven\"\n        url = \"https://maven.kessokuteatime.work/snapshots\"\n    }\n}\n\ndependencies {\n    include \"team.cagayakegirls.foxified:foxified-classtweaker-processor:<version>\"\n}\n```\n\n目前支持 FancyModLoader 10 及以上版本（FML 10 环境仅在使用官方映射时正常工作）。\n\n请注意，你必须在对应目录中存在 ClassTweaker/AccessWidener（理论上与 AW 兼容）文件。\n\n### 针对玩家\n\n如果某个模组声明依赖本模组，你只需安装本模组即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

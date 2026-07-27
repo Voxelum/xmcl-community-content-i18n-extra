@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3cd5d30d16097302",
+  "content": "📖 關於Compat API 是一個輕量且通用的兼容性框架，適用於整個“Compat”生態系統（由 fixerlink 提供）——包括 Compat Delight、即將推出的 Compat Artifacts、Compat Decor，以及任何希望通過簡單自動化方式添加跨模組整合的第三方模組。\n\n它取代了手寫兼容性邏輯或手動管理資料包的做法：Compat API 自動完成所有工作，包括加載兼容性代碼、注入資料包、包裹掉落修飾器、應用條件，並在安裝所需模塊時才啓用整合功能。\n\n***\n\n📃 特性\n- 智能 Compat Scanner：僅加載那些明確依賴 Compat API 的模塊的整合功能。\n- 自動 Compat 代碼加載：自動檢測 `net.<owner>.<moid>.compats.<target>` 下的相容模塊並執行其 register、init 或 bootstrap 鉤子。\n- 自動資料包注入：當目標模塊存在時，從 `data/<owner>/<modid>/compats/<target>` 加載內建資料包內容。\n- 通用掉落修飾器系統：自動添加相容性條件並生成全局掉落修飾器列表。\n- 兼容性條件：內置條件 `compatapi:compat_enabled` 確保整合在適當情況下安全加載。\n- 每目標配置開關：每個兼容模塊可通過配置單獨啟用或禁用。\n- 安全且乾淨的設計：Compat 錯誤不會導致遊戲崩潰——它們會日誌化並被優雅跳過。\n\n***\n\n### 📝 描述\n\n使用方式：\n\n您安裝 Compat API。\n即可完成。\n\n若某模塊依賴 Compat API 並包含兼容模組，API 將：\n- 偵測其兼容代碼\n- 注入其兼容資料包\n- 包裹其掉落修飾器\n- 應用相關條件\n- 自動啓用整合功能\n\n若缺少目標模塊，則兼容功能將不會加載——無錯誤、無崩壞、無需手動設置。模塊可自行添加兼容資料夾和類 —— Compat API 處理繁雜任務，且所有整合均可透過配置切換。\n\n***\n\n🎁 額外資訊\n- 不依賴 Compat API 的模塊將被完全忽略\n- 所有整合僅在目標模塊存在時加載\n- 兼容代碼中的錯誤不會破壞遊戲\n- 全自動化系統：代碼、資料包、條件、掉落修飾器皆支援\n- 以最少樣板程式碼支援數千種整合\n\n***\n\n### 🧾 貢獻者\n\nCompat API 由 fixerlink 開發，作為所有 Compat 系列模組及希望實現清晰、模組化與自動化的跨模組整合之開發者的通用標準。\n\n***\n\n<h3 style=\"text-align:center\"><span style=\"color:#f1c40f\"><em><strong>歡迎提供反饋！</strong></em></span></h3>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

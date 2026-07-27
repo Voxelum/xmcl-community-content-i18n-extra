@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42d8199d9aa3c247",
+  "content": "\n\n# EMF Compat: Better Combat\n\n![Tridnet Attack!](https://cdn.modrinth.com/data/Smytm33T/images/a8c92fd948fda83e1d1a57666baaf538901bea74.gif)\n\n一款小型用戶端模組，讓 **[Better Combat](https://modrinth.com/mod/better-combat)** 的攻擊動畫能與 **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** 的玩家模型正確配合。\n\n已與 **[Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)** 進行測試，但應該也能適用於任何玩家動畫資源包。\n\n搭配 [Visceral Combat](https://www.curseforge.com/minecraft/mc-mods/visceral-combat) 看起來非常棒。\n\n\n<details>\n<summary>影片</summary>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/o5CJeTiF5L0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n</details>\n\n\n\n## 功能特色\n\n- 相容於 **[Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)**。\n- 你的武器揮砍與蓄力姿勢會正確顯示，而不會被閒置的資源包動畫覆蓋。\n- 攻擊期間身體與腿部會持續播放 EMF 動畫；僅手臂會切換為 Better Combat 動畫。\n- 第一人稱視角下，手持物品會與揮舞動作同步，避免武器飄浮在手臂旁邊。\n- 攻擊結束後可平滑過渡回 EMF 動畫，不會出現單幀跳躍。\n- 支援單手、雙手以及戰鎚攻擊。\n\n\n玩得開心 ^_^",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a88af013e08ab76",
+  "content": "[Origins Extra Keybinds](https://modrinth.com/mod/origins-extra-keybinds-fabric) 的非官方 Minecraft Forge 移植版本。\n\n此模组为 Origins 添加了 8 个新的按键绑定，使您可以制作和使用拥有超过 2 个按键绑定能力的数据包。\n\n**在数据包中的用法：**\n| # | 名称 | 按键 |\n|---|------|-----|\n| 1 | 主能力 | `key.origins.primary_active` |\n| 2 | 副能力 | `key.origins.secondary_active` |\n| 3 | 第三能力 | `key.origins.ternary_active` |\n| 4 | 第四能力 | `key.origins.quaternary_active` |\n| 5 | 第五能力 | `key.origins.quinary_active` |\n| 6 | 第六能力 | `key.origins.senary_active` |\n| 7 | 第七能力 | `key.origins.septenary_active` |\n| 8 | 第八能力 | `key.origins.octonary_active` |\n| 9 | 第九能力 | `key.origins.nonary_active` |\n| 10 | 第十能力 | `key.origins.denary_active` |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

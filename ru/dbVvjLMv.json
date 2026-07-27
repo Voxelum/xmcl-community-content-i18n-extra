@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b22f54fa12aedaec",
+  "content": "# Herd Hysteria\n\n**伤害 herd 中的一名成员，看着整个群体陷入疯狂。**\n\n在原版 Minecraft 中，当邻居被敲晕时，牲畜根本毫不在意。那三格远的那头牛？完全不受影响。Herd Hysteria 通过赋予动物健康的集体恐惧反应来解决这个问题——因为没有什么比“成群结队地逃跑”更能体现“生存本能”了。\n\n## 工作原理\n\n当_任何_ herd 动物（跨物种）受到伤害时，**20 格**范围内的所有其他成员都会惊慌失措并逃离攻击者。没有新的 AI 目标，也没有性能消耗巨大的寻路重做——只是一个干净的 mixin，告诉 herd 是谁伤害了它们，从而触发它们现有的逃跑行为。\n\n## Herd\n\nHerd Hysteria 适用于 `herd_hysteria:food_animals` 实体标签，其中包括：\n\n- 牛\n- 哞菇\n- 猪\n- 绵羊\n- 鸡\n- 兔子\n\n该标签由数据包驱动，因此数据包作者可以使用数据包添加或删除实体类型。\n\n## 支持版本\n\nHerd Hysteria 是一个 **仅限 Fabric** 的模组。为每个支持的版本提供单独的 JAR 文件：\n\n| 发布系列 | 版本 |\n|------|----------|\n| 1.21.x | 1.21, 1.21.1, 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8, 1.21.9, 1.21.10, 1.21.11 |\n| 26.x | 26.1, 26.1.2, 26.2 |\n\n## 安装\n\n1. 为你的 Minecraft 版本安装 [Fabric Loader](https://fabricmc.net/use/) 和 [Fabric API](https://modrinth.com/mod/fabric-api)。\n2. 下载与你版本匹配的 Herd Hysteria JAR 文件。\n3. 将其放入你的 `mods/` 文件夹中。\n4. 启动游戏——无需配置。\n\n## 兼容性\n\n- **仅服务端** – 该模组在专用服务器和单人游戏中均可运行。连接到安装了 Herd Hysteria 的服务器的客户端无需安装此模组。\n- 与其他模组无已知冲突。该模组仅在 `actuallyHurt` / `hurtServer` 方法上使用单个 mixin，并不替换任何原版 AI 目标。\n\n## 依赖项\n\n此模组需要 [Fabric API](https://modrinth.com/mod/fabric-api) (Fabric loader)。\n\n---\n\n**一个“loreal”模组**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

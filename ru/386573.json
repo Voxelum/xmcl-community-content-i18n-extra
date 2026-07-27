@@ -1,0 +1,6 @@
+{
+  "bodyHash": "92032725daa98fc7",
+  "content": "\n\n<p>Этот мод позволяет игрокам телепортироваться в радиусе от выбранных разъярённых мобов.</p>\n<p>Конфигурация принимает идентификатор сущности, значение true/false для телепортации всех игроков или только того, кто спровоцировал агрессию, задержку перед телепортацией в секундах, смещение относительно указанной задержки в секундах и необязательный радиус телепортации в блоках.</p>\n<p>Рекомендуемая конфигурация:</p>\n<pre>minecraft:zombie;false;5;1;5</pre>\n<p>Это делает зомби невероятно смертоносными, особенно в толпах.</p>\n<p>&nbsp;</p>\n<p>Логотип в разработке... (выглядит немного странно)</p>\n<p style=\"text-align:center\"><a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fE1E84FFI8\" rel=\"nofollow\"><img style=\"border:0px\" src=\"https://cdn.ko-fi.com/cdn/kofi1.png?v=2\" alt=\"Купить кофе на ko-fi.com\" width=\"200\"></a></p>\n<p>&nbsp;</p>\n<p style=\"text-align:center\"><a href=\"https://discord.gg/rotn\" rel=\"nofollow\">Присоединяйтесь к нашему Discord для получения поддержки<br><img src=\"https://img.shields.io/discord/620840315498004480?label=Discord&logo=Discord\" alt=\"\" width=\"170\" height=\"27\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f6d695cb150cd6ba",
+  "content": "# 關於此数据包\n\n此数据包允许您通过石匠工作台将木材、菌核和竹子分解为其对应的成品方块，分解效率略高于普通合成表。\n\n# 其他数据包\n\n这是我编写的一系列数据包的一部分，旨在帮助在 Minecraft 中实现不可再生资源的可再生化，并改善玩家的制作体验。它们可以单独获取，以便每位玩家按需组合使用。请查看以下列表：\n\n- [平衡铜切割](https://modrinth.com/datapack/balanced-copper-cutting)\n- [可复制的陶器碎片](https://modrinth.com/datapack/duplicatable-pottery-sherds)\n- [重核复制](https://modrinth.com/datapack/heavy-core-duplication)\n\n有建议或需求？请在 Discord 中告知我！\n\n# 常见问题解答\n\n### 我可以获取快照版本的安装包吗？\n\n当然可以！我通常不会在线发布快照版本，但如果您希望为特定的快照版本制作此数据包/模组，或者需要针对快照版本进行维护，请加入 Discord 并告诉我！\n\n### 为什么 JEI 是 Fabric 模组加载器版本的可选依赖项？我可以使用其他的物品界面模组吗？\n\n默认情况下，模组化的配方不会添加到配方书中，因此也不会显示。JEI 允许这些配方以可视化的用户界面进行查看。您可以使用任何您偏好的配方查看界面来替换 JEI。\n\n# 加入 Root 社区\n\n若要报告错误、提出建议以及关注新数据包和模组的开发动态，请加入我们的 [Root 社区](https://rootapp.gg/AC2j8mo1jgqeyZuytuRzfA)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

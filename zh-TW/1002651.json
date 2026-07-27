@@ -1,0 +1,6 @@
+{
+  "bodyHash": "26bcc581046fceda",
+  "content": "\n\n<p>此數據包會每隔 0.5 秒為所有玩家移除失明與黑暗效果。</p>\n<p>同時它也新增了兩項指令：</p>\n<p>/function nightvision:true（賦予執行指令的玩家無限夜視效果，且<span style=\"text-decoration:underline\">不會產生粒子特效</span>）</p>\n<p>/function nightvision:false（移除執行指令玩家的夜視效果）</p>\n<p>若您使用 /function nightvision:true 獲得夜視效果，即使因任何原因失去該效果，也會立刻恢復，使這些指令的功能類似於全亮模式的開關切換。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

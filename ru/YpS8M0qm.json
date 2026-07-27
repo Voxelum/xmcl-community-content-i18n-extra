@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80638b16cb568620",
+  "content": "\n\n**Любой бот мода Carpet, которому вы добавите тег \"normal.bot\", будет каждые 10 секунд хаотично блуждать.**\n\n**Команды:**\n\n_включение для бота_\n```\n/tag add (Carpet Bot Name) normal.bot\n```\n\n_выключение для бота_\n```\n/tag remove (Carpet Bot Name) normal.bot\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

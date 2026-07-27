@@ -1,0 +1,6 @@
+{
+  "bodyHash": "acedc74861c425ae",
+  "content": "\n\n<p>我製作這個模組是給我所屬的伺服器使用，因為大家對於是否保留 Better Combat 或將其移除的意見分歧很大，所以我決定自己動手做一個能讓雙方都滿意的模組，且它僅為客戶端模組。使用方式非常簡單，指令為 /bctoggle false 與 /bctoggle true，輸入 /bctoggle 即可查看目前是開啟或關閉狀態。此設定只會對使用指令的玩家生效，再次強調它僅為客戶端模組，因此伺服器端不需要安裝。</p>\n<p>&nbsp;</p>\n<p>指令</p>\n<p>/bctoggle false</p>\n<p>/bctoggle true</p>\n<p>/bctoggle&nbsp;</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

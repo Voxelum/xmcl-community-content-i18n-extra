@@ -1,0 +1,6 @@
+{
+  "bodyHash": "57bf055ff8eb8dc9",
+  "content": "<h1>Pure Bright</h1>\n<p><strong>Pure Bright</strong> 是一款輕量級的 Minecraft 資源包，它能移除遊戲中的所有黑暗效果，讓您隨時享受最高亮度——無需調整伽馬值、不需要夜視藥水，也無需安裝其他模組。</p>\n<p>無論您是深入地底探險、在地下建造，還是僅僅厭倦了眯著眼睛看清昏暗的角落，Pure Bright 都能讓世界的每個角落都清晰可見。</p>\n<h2>運作原理</h2>\n<p>Pure Bright 透過單一 GLSL 檔案覆寫 Minecraft 內建的燈光照影（lightmap）著色器，無條件輸出全亮度。它不會修改任何材質，也不會改變任何遊戲機制——僅提供 everywhere 乾淨一致的照明效果。</p>\n<h2>相容性</h2>\n<p>Pure Bright 可在多種設定下廣泛運作，且無需任何額外配置。</p>\n<p><strong>模組載入器與客戶端：</strong></p>\n<ul>\n<li>Vanilla（無模組）——完全支援</li>\n<li>Fabric ——完全支援</li>\n<li>Forge / NeoForge ——完全支援</li>\n<li>Sodium ——完全支援</li>\n<li>Lithium ——完全支援</li>\n<li>Iris Shaders ——在未啟用着色包時支援</li>\n<li>OptiFine ——在未啟用着色包時支援</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

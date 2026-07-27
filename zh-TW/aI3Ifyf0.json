@@ -1,0 +1,6 @@
+{
+  "bodyHash": "89fb55e716f6ede7",
+  "content": "PieChart 是一個小型的客戶端 Fabric 模組，允許你使用一般的按鍵綁定來開啟 Minecraft 的除錯圓餅圖，而不必使用 `F3 + 1`。\n\n它還包含一個編輯器模式，你可以在螢幕上移動和縮放圓餅圖，以符合你的 HUD 佈局。\n\n## 功能\n\n- 使用可配置的按鍵綁定切換除錯圓餅圖\n- 使用獨立的按鍵綁定開啟編輯器模式\n- 拖曳圓餅圖以重新定位\n- 使用即時預覽調整圓餅圖大小\n- 僅限客戶端\n\n## 預設按鍵綁定\n\n- `F8` - 切換圓餅圖\n- `F7` - 開啟圓餅圖編輯器\n\n## 需求\n\n- Minecraft `26.+`\n- Fabric Loader\n- Fabric API\n\n## 備註\n\n此模組僅限客戶端，無需安裝在伺服器上。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

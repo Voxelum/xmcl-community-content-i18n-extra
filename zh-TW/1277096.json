@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d29f89406285ac49",
+  "content": "<h1>Woodwalkers 法術書</h1>\n<p>這是一個簡單的模組，將 <a href=\"https://www.curseforge.com/minecraft/mc-mods/woodwalkers\" target=\"_blank\" rel=\"nofollow\">Woodwalkers</a> 與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks\" target=\"_blank\" rel=\"nofollow\">Iron's Spells 'n Spellbooks</a> 整合在一起。</p>\n<p>透過此模組，你需要使用一個名為 <em>變形（Shapeshifting）</em> 的新召喚法術來變身為其他生物。</p>\n<blockquote>\n  <p>目前支援 1.20.1 版本上的 Forge &gt;=47.4.13 以及 1.21.1 版本上的 NeoForge &gt;=21.1.227</p>\n</blockquote>\n<p><span><span><span><span><span><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Nio9mSFeMRQ?si=SpOuIrncG_BoDCfh\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></span></span></span></p>\n<h2>使用方法</h2>\n<p>在鎖定實體時使用名為 <strong>變形（Shapeshifting）</strong> 的新法術，即可解鎖該生物的形態。你必須至少對某個實體使用一次該法術才能進行變形。解鎖新形態需要消耗經驗值，具體數量取決於法術等級。當新形態解鎖後，你可以在不鎖定目標的情況下使用該法術變身為你的第二個形態。這樣使用法術不需要消耗經驗值。</p>\n<p>變身後，你可以使用 Woodwalkers 定義的按鍵綁定按 J 鍵變回正常人形，或按 R 鍵使用第二個形態的特殊能力。</p>\n<p>變形狀態並非永久的，經過一段時間後（時間長短視法術等級而定，且可配置），你會自動變回正常人形。</p>\n<p>你也可以在配置文件中設定玩家是否在變形期間可以使用 <em>任何</em> 法術，以及解鎖新形態所需的經驗值和法術持續時間。請查看你 <code>config/</code> 資料夾中的 <code>woodwalkers-spellbooks.toml</code> 配置文件。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

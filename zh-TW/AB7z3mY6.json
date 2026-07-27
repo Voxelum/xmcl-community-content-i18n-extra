@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7db18caecd514f90",
+  "content": "<span style=\"color: #e03e2d;\"><strong><u>需要 </u><a href=\"https://modrinth.com/mod/corpse\" target=\"_blank\" rel=\"nofollow noopener\">Corpse</a><u><a href=\"https://modrinth.com/mod/corpse\" target=\"_blank\" rel=\"nofollow noopener\"> </a>作为依赖项。</u></strong></span>\n\n这是来自 [Tangible Commands](https://modrinth.com/mod/tangible-commands) 模组中 /corpse 命令的独立命令版本，该模组为此命令添加了物品形式。\n\n本模组添加了一个命令，用于方便取回那些可能身处虚空、卡在墙里或不知何处的尸体。**/corpse** 或 **/corpseget** 命令可以将玩家当前位置周围 50 格范围内的最近一具尸体传送至玩家身边。\n\n&nbsp;\n\n__**当前添加的命令：**__\n\n*   **/corpse & /corpseget**\n\n上述所有命令执行相同的操作。它们的存在是为了提高直观性。\n\n&nbsp;\n\n欢迎将其包含在整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

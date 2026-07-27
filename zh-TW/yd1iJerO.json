@@ -1,6 +1,6 @@
 {
-  "bodyHash": "SaGcYvwcpX0=",
-  "content": "![橫幅](https://raw.githubusercontent.com/fixyldev/invisible-armor-model/HEAD/images/banner.webp)\n\n## 🗒️ 說明\n\n隱形盔甲模型是一個適用於 Minecraft Java 版的資源包，用於移除盔甲的視覺模型。這包括所有原版盔甲，除了鞘翅和龜殼。請注意，其他玩家可能仍然能夠正常看到盔甲，因為資源包是客戶端專用的。對於 Minecraft 1.21.2 以下的版本，龜殼上的盔甲裝飾也會隱形，且如果你穿著胸甲，披風可能會懸浮在半空中。這些問題在 Minecraft 1.21.2 及以上版本中已不存在，並且是由於資源包的限制所致。\n\n## ✨ 功能特色\n\n- 使玩家穿戴的盔甲隱形\n  - 這包括使用玩家盔甲模型的生物所穿戴的盔甲\n- 鞘翅和龜殼保持可見\n- 狼、馬等動物的盔甲也保持可見\n\n---\n<center>隱形盔甲模型僅通過 Modrinth 和 CurseForge 官方發布！</center>",
+  "bodyHash": "0b068b05278207cc",
+  "content": "\n\n![Banner](https://raw.githubusercontent.com/fixyldev/invisible-armor-model/HEAD/images/banner.webp)\n\n## 🗒️ 說明\n\nInvisible Armor Model 是一款專為 Minecraft Java 版設計的資源包，會移除護甲的視覺模型。此設定涵蓋所有原版護甲，但不包含鞘翅與烏龜殼。請留意，由於資源包僅在客戶端運作，其他玩家仍可能正常看見您的護甲。在 Minecraft 1.21.2 以下版本中，烏龜殼上的護甲裝飾也會隨之消失；若您身穿胸甲，披風可能會懸浮在半空中。這些問題已於 1.21.2 及以上版本獲得改善，成因僅為當時資源包的技術限制。\n\n## ✨ 特色\n\n- 使玩家穿戴的護甲變為不可見\n  - 包含所有使用玩家護甲模型的生物所穿戴的護甲\n- 鞘翅與烏龜殼仍會保持可見\n- 狼、馬等生物的護甲也仍會保持可見\n\n---\n<center>Invisible Armor Model 僅透過 Modrinth 與 CurseForge 官方發行！</center>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

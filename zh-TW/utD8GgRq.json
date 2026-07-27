@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ee4cbHCgqeo=",
-  "content": "_用机枪粉碎僵尸入侵！用突击步枪碾碎骷髅的骨头！用霰弹枪和龙息弹把敌人送入火海坟墓！_\n\n本模组是 [_Bren_](https://modrinth.com/mod/bren) 的一个分支，我进行了一些奇怪但或许有趣的改动。\n<details>\n<summary>改动内容</summary>\n\n  \n- 提高伤害，降低后坐力\n- 将弹匣容量从 20 发改为 30 发\n- 弹药制作成本降低\n</details>\n\n提示：1.21.2+ 版本的 Fabric 存在一些漏洞，因此部分原始模组功能暂时无法恢复：\n1. 迷彩弹匣的配色\n\n未来将添加一些新枪械。\n\n部分没有合成配方的枪械需要在地表搜索补给箱获取。\n\n感谢 [RagingZombies](https://www.curseforge.com/members/ragingzombies/projects) 的 3D 资源包 [FNP-Zo-Metric](https://www.curseforge.com/minecraft/texture-packs/fnp-zo-metric)，它启发我做了类似的内容。\n\n同时也感谢 [ribss498](https://modrinth.com/user/ribss498) 的 3D 枪械模组 [Scorched Guns 2](https://modrinth.com/mod/scorched-guns-2)，它启发我制作了更具机械感的材质包。",
+  "bodyHash": "9feb3fc61564c4e2",
+  "content": "\n\n_用機槍擊碎殭屍入侵！用突擊步槍碾碎骷髏的骨頭！用霰彈槍搭配龍息子彈將敵人送進烈焰墳墓！_\n\n本模組是 [_Bren_](https://modrinth.com/mod/bren) 的衍生版本，我做了一些古怪但或許有趣的改動。\n<details>\n<summary>變更項目</summary>\n\n  \n- 傷害變高且後坐力變低\n- 將彈匣容量從 20 發改為 30 發\n- 子彈成本降低\n</details>\n\n提示：1.21.2+ 的 Fabric 版本存在一些問題，因此原模組的部分功能目前暫時無法恢復：\n1. 彈匣的顏色\n\n\n未來將新增更多槍械\n\n\n部分沒有製作配方的槍械，需透過在地表搜尋補給箱來取得。\n\n\n感謝 [RagingZombies](https://www.curseforge.com/members/ragingzombies/projects) 提供的 3D 資源包：[FNP-Zo-Metric](https://www.curseforge.com/minecraft/texture-packs/fnp-zo-metric)，它啟發我製作類似的内容。\n\n也感謝 [ribss498](https://modrinth.com/user/ribss498) 的 3D 槍械模組：[Scorched Guns 2](https://modrinth.com/mod/scorched-guns-2)，它啟發我製作更具機械感的材質包。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9e1277da50c77f58",
+  "content": "![标题](https://cdn.modrinth.com/data/cached_images/d4ffd36d191a4b93bbb2792ba3691741ae7eb09c.png)\n\n我制作的一个库模组，为我的模组开发提供一些常用工具，以及在这些模组之间共享的通用代码。\n它还包含以下功能：\n- 基于原版关键帧的全新动画系统\n- 针对实体和方块实体的完全数据驱动的变体系统\n- 一种新的变体数据类型注册表，由数据驱动的变体系统使用，以进一步自定义生物变体\n- 一种简便的方法来存储和从物品中释放生物\n- 一种特定的颜色。\n- 更多功能！！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

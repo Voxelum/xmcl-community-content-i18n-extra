@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9f1fa93956b0d11c",
+  "content": "\n\n此模組為 [Create Fabric](https://modrinth.com/mod/create-fabric) 的衍生版本，已修改以支援 Sodium 0.5+。\n由於是衍生版本，因此*無法*與原版模組同時使用。這是一個*替代品*，而非附加模組。\n\n待 Create Fabric 本身修復該問題後，此模組可能會被封存或刪除；但就目前而言，這是讓 Create Fabric 搭配最新 Sodium 版本使用的唯一解決方案。\n\n\nCreate Fabric 採用 MIT 授權條款。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

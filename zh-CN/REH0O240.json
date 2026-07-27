@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c82eb51db05e14b4",
+  "content": "\n\n# **服务器浏览器**\n\n正在寻找可以游玩你刚下载整合包的模组服务器吗？服务器浏览器让你轻松找到可玩的服务器！\n\n一款专为整合包作者设计的模组，旨在让用户更轻松地找到可玩的服务器！\n\n如果你是服务器所有者，你可以<a href=\"https://minecraft.multiplayerservers.net/\"><strong>在此处</strong></a>注册你的服务器\n\n如果你想为整合包申请标签（仅建议在拥有社区服务器时提交），请<a href=\"https://github.com/ExcessiveAmountsOfZombies/ServerBrowser/issues\"><strong>在此处</strong></a>提交\n\n## **主菜单**\n\n进入多人游戏界面后，在左上角点击“服务器浏览器”即可访问此菜单。\n\n<img src=\"https://i.imgur.com/pWr3miV.png\">\n\n## **服务器筛选**\n\n如果你想按多种类型筛选服务器，完全可以！\n\n<img src=\"https://i.imgur.com/cI0gTg4.png\">\n\n## **整合包作者专用**\n\nServerBrowser 还为整合包作者提供了便捷的管理功能！黑名单中的服务器将阻止配置数组中填写的条目显示在服务器浏览器中，但不会影响玩家在常规多人游戏界面中的“收藏”服务器列表。\n\n<img src=\"https://i.imgur.com/HCmO1JI.png\">\n\n配置文件支持预设的整合包过滤功能，可从标签列表中移除其他所有整合包，效果大致如下：\n\n<img src=\"https://i.imgur.com/kw3nF4k.png\">\n\n最后，如果你为整合包运营官方服务器，还可以将它们添加至玩家“收藏”列表的顶部显示。\n\n<img src=\"https://i.imgur.com/qfe0bJF.png\">",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b331eab2a508b573",
+  "content": "\n\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/ace07e263cc77b35d955e93b1fddcdc5e5b715f1.png\" alt=\"伤害指示器\"></p>\n<p><img src=\"https://pixel.jeremyseq.dev/pixel/damageindicators\" alt=\"像素\"></p>\n<p><a href=\"https://www.patreon.com/jeremyseq\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/donate/patreon-singular_vector.svg\" alt=\"在 Patreon 上支持我\"></a></p>\n<p>再也不用猜测或寻找敌人了！使用伤害指示器，你可以瞬间得知伤害来源。</p>\n<p>本模组灵感来源于许多热门第一人称射击游戏中的伤害指示器。</p>\n<p><strong>2.0 及更高版本仅客户端运行。</strong> <strong>1.0 版本需要在服务端安装此模组。</strong></p>\n<h2>功能特性</h2>\n<ul>\n<li><strong>方向性伤害指示器</strong>：箭头会指向任何伤害来源的方向</li>\n<li><strong>伤害文字</strong>：显示对其他生物造成的伤害数值</li>\n<li><strong>血条</strong>：显示其他生物的文本血条</li>\n<li><strong>血迹覆盖效果（默认禁用）</strong>：受到伤害时屏幕边缘会出现红色血迹效果</li>\n</ul>\n<h2>配置</h2>\n<ul>\n<li>包含一个名为 \"damageindicator-client.toml\" 的配置文件。你可以……</li>\n<li>启用或禁用各项功能</li>\n<li>更改方向指示器的颜色、位置、显示时机和纹理</li>\n<li>让血条仅对目标生物显示</li>\n</ul>\n<p><img src=\"https://i.imgur.com/EBz2168.png\" alt=\"伤害指示器游戏内示例\"></p>\n<p><img src=\"https://i.imgur.com/eo36dVI.png\" alt=\"伤害文字游戏内示例\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

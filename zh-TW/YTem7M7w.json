@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dab9ca77d991ff60",
+  "content": "# 更好的 CPS\n\n以酷炫的方式追蹤你的**每秒點擊次數**，並可選顯示擊鍵資訊，適用於內容創作和 PvP。\n\n## ✨ 功能\n- ⚡ 即時 **CPS 計數器** — 位置與 RGB 顏色可調\n- ⌨️ 可選 **擊鍵覆蓋層** — WASD + 左鍵/右鍵方框，按下時會亮起，並顯示左右鍵的 CPS\n- 🪶 輕量級，客戶端運行\n\n透過 **[Mod Menu](https://modrinth.com/mod/modmenu)** 進行設定。需要 **[Fabric API](https://modrinth.com/mod/fabric-api)**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

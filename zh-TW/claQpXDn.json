@@ -1,0 +1,6 @@
+{
+  "bodyHash": "51514aba198350c8",
+  "content": "# ZorythAIBoss - 噩梦包\n\n**ZorythAIBoss - 噩梦包** 是一个资源包，通过更改特定敌对生物的外观纹理和音效，赋予它们黑暗、虚空般的视觉风格。它最初是为搭配 ZorythAIBoss 插件设计的，但也可以作为独立的纹理包完美运行。\n\n**注意：** 这纯粹是一个客户端资源包。它不会添加新代码，不会改变生物行为，也不会为游戏添加新的 Boss AI。\n\n### 此包更改的内容\n此包使用深红色和黑色的变体替换以下原版实体的默认 `.png` 纹理和 `sounds.json` 音频：\n\n* **监守者 (Warden)**\n* **末影人 (Enderman)** \n* **流浪者 (Stray)** \n* **唤魔者 (Evoker)**\n* **铁傀儡 (Iron Golem)** \n* **恶魂 (Ghast)** \n* **岩浆怪 (Magma Cube)** \n* **卫道士 (Vindicator)** \n* **幻翼 (Phantom)** \n* **凋灵 (Wither)** \n* **劫掠兽 (Ravager)** \n* **女巫 (Witch)** \n\n### 安装方法\n1. 下载 `.zip` 文件。\n2. 将文件放入 `.minecraft/resourcepacks/` 文件夹中。\n3. 在游戏内的选项菜单中启用该资源包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

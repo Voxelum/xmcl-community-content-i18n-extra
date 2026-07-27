@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3811f3fbf7756acb",
+  "content": "\n\n<p>本整合包是天堂 II（The Aether II）的一個非常簡潔的擴充套件。</p>\n<p>極為輕量，包含優化與生活品質（QoL）模組，例如：</p>\n<ul>\n<li>Sodium</li>\n<li>Iris</li>\n<li>GraveStone Mod（墓碑模組）</li>\n<li>Waystones（傳送石）</li>\n<li>Xaero's Minimap &amp; World Map</li>\n<li>Just Enough Items</li>\n<li>Jade</li>\n<li>Ore Harvester</li>\n<li>Bridging Mod（搭橋模組）</li>\n<li>Traveler's Backpack（旅行者背包）</li>\n<li>Skin Layers 3D</li>\n<li>FallingTree</li>\n<li>Just Zoom</li>\n<li>Inventory Essentials</li>\n</ul>\n<p><em>目前計畫加入 Lootr，但現在存在嚴重的相容性問題；啟用該模組後會導致某個結構中的生物無法生成，這是因為天堂模組的生成機制所致。</em></p>\n<p><span style=\"text-decoration:underline\">請注意，由於天堂 II 目前僅處於公開 Alpha 測試階段，這是一個高度實驗性的整合包！世界資料可能因損毀而遺失！</span></p>\n<p>本整合包的已知問題：</p>\n<ul>\n<li>使用光影時，恐鳥（Moas）和部分情況下的天堂兔（Aerbunnies）會完全不可見（此問題天堂團隊已確認）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

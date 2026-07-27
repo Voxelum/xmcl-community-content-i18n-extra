@@ -1,0 +1,6 @@
+{
+  "bodyHash": "20253182a0278c0f",
+  "content": "<center>\n\n![Ars Ocultas](https://cdn-raw.modrinth.com/data/Tsw8vbks/images/cdfdb7f66a1b8235bb2896cc2f158667647f7c2e.png)\n\n[![Curseforge](https://img.shields.io/curseforge/dt/907843?style=for-the-badge&label=Curseforge&logo=curseforge&color=f16436)](https://www.curseforge.com/minecraft/mc-mods/ars-ocultas)\n[![Modrinth](https://img.shields.io/modrinth/dt/Tsw8vbks?style=for-the-badge&label=Modrinth&logo=modrinth&color=1bd96a)](https://modrinth.com/mod/ars-ocultas)\n[![Discord](https://img.shields.io/discord/743298050222587978?style=for-the-badge&label=Discord&logo=discord&color=404eed)](https://discord.gg/y7TMXZu)\n[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/lgpl-3.0)\n\n</center>\n\n为 [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) 和 [Occultism](https://modrinth.com/mod/occultism) 添加兼容性\n\n### 功能：\n- 现在可以使用灵体罐来使用灵体！\n- 灵体会自动吸取周围 7x7 区域内的物品并进行处理。\n- 玩家也可以右键点击罐子上的物品来处理它们。\n- 装有灵体的灵体罐附带了物品能力。换句话说，物品可以被管道导入到罐子中！（管道、漏斗、星蜂均支持此功能）\n- 清洁工灵体具有特殊功能，它会自动尝试将其内容物推送到罐子上方的容器中\n- 新增配方以简化游戏进程\n- 生活质量改进 :)\n\n如需全面了解，请查看《磨损的笔记本》（Ars Nouveau Patchouli 指南）中的 `Ars Ocultas` 部分。\n\n#### 未来计划：\n从罐子内部访问灵体 GUI\n也许混合使魔系统和装备加成？",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

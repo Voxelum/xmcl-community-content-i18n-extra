@@ -1,0 +1,6 @@
+{
+  "bodyHash": "002f5a37bd1fb064",
+  "content": "<p># Epic Fight FPS 優化器</p>\n<p>Epic Fight FPS 優化器是一款輕量級、完全客戶端側的性能增強模組，專為 Epic Fight 設計。它在保持近距離戰鬥流暢且可配置的同時，減少遠距離實體的昂貴動畫姿態計算和視覺特效。</p>\n<p>&gt; 這是一個非官方的 Epic Fight 附加模組。它與 Epic Fight 開發團隊無關，也未獲得其認可或背書。</p>\n<p>## 功能特點</p>\n<p>- 12 格範圍內享受完整的 Epic Fight 動畫品質<br>- 超過 12 格後，遠距離動畫姿態計算限制在每秒 20 幀<br>- 超過 32 格後使用更輕量的原版實體渲染<br>- 可配置武器軌跡、投射物軌跡和殘影距離<br>- 支援生物的黑名單和白名單<br>- 支援 Boss 的黑名單和白名單<br>- 保護 Boss 和你準星下的實體免受激進的優化影響<br>- 第三人稱模式下可選的自身玩家動畫 FPS 限制<br>- 自身玩家優化預設為禁用<br>- 你的角色永遠不會切換到原版渲染器<br>- 不改變遊戲玩法、傷害、AI 或網路同步</p>\n<p>## 預設設定</p>\n<p>- 完整動畫距離：12 格<br>- 遠距離動畫 FPS：20<br>- 原版模型距離：32 格<br>- 揮舞軌跡距離：24 格<br>- 投射物軌跡距離：32 格<br>- 殘影距離：24 格<br>- 優化自身玩家：禁用<br>- 自身玩家動畫 FPS：啟用時為 60</p>\n<p>所有數值均可通過客戶端配置文件進行更改。</p>\n<p>## 需求</p>\n<p>- Minecraft 1.20.1<br>- Forge 47.4.10 或更高版本<br>- Epic Fight 20.14.17 或更高版本<br>- Configured 2.x &mdash; 可選，但建議安裝以使用遊戲內配置界面</p>\n<p>## 安裝方法</p>\n<p>1. 安裝 Forge 和 Epic Fight。<br>2. 將 Epic Fight FPS Optimizer 放入您的 `mods` 資料夾中。<br>3. 可選安裝 Configured 以便在遊戲內編輯設定。</p>\n<p>僅此優化器是客戶端側的，無需安裝在伺服器上。伺服器可能仍需要 Epic Fight 本身。</p>\n<p>若未安裝 Configured，可手動編輯以下位置中的設定：</p>\n<p>`config/epicfightoptimizer-client.toml`</p>\n<p>## 鳴謝與許可證</p>\n<p>Epic Fight 由 Epic Fight 團隊 / Antikythera Studios 開發。</p>\n<p>保留所有權利。</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

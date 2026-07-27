@@ -1,6 +1,6 @@
 {
-  "bodyHash": "bU8F5Yt535A=",
-  "content": "<p>此模组专为DeceasedCraft设计，主要功能包括：</p><ol>\n<li>任务图像资源管理。</li>\n<li>数据包修复。</li>\n<li>批量修正数据包标签错误，实质上是覆盖部分模组中损坏的数据包。</li>\n<li>为多个模组提供数据包扩展组件。</li>\n</ol><p>&nbsp;</p><p>禁止在DeceasedCraft以外的场景使用此模组，否则可能导致多项功能异常。</p><p>本模组仅针对DeceasedCraft进行优化，专注于漏洞修复与图像/材质资源补充。</p>",
+  "bodyHash": "ca809cae9b9fe9d5",
+  "content": "\n\n<p>本模组专为 DeceasedCraft 设计，主要包含以下内容：</p>\n<ol>\n<li>任务图片资源。</li>\n<li>数据包修复。</li>\n<li>大量数据包标签错误修复，本质上会覆盖部分模组的损坏数据包。</li>\n<li>为多个模组添加数据包扩展。</li>\n</ol>\n<p>&nbsp;</p>\n<p>不允许在 DeceasedCraft 之外使用此模组，否则会导致部分内容崩溃。</p>\n<p>它仅针对 DeceasedCraft 设计，用于修复 Bug 以及添加图片/纹理。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

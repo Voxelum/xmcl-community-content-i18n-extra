@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a78c54df024a298e",
+  "content": "\n\n<h1>TaczCurios - 概述</h1>\n<p><strong>TaczCurios</strong> 为游戏 <strong>Tacz</strong> 添加了自定义 Curios（饰品）。本模组提供的所有额外属性均基于 <a href=\"link-to-tacz-attributes-addon\" rel=\"nofollow\"><strong>Tacz Attributes Addon</strong></a> 中的动态玩家属性。</p>\n<h2>需求 / 依赖</h2>\n<p>本模组需要以下依赖：</p>\n<ul>\n<li>[<strong>Tacz Attributes Addon</strong>]</li>\n<li>[<strong>Curios API</strong>]</li>\n<li>[<strong>TaCZ</strong>]</li>\n</ul>\n<h2>功能特性</h2>\n<ul>\n<li>本模组提供了 <strong>6 个内置的 Tacz Curios 栏位</strong> 可供使用。</li>\n<li>本模组的灵感主要来源于 <strong>Warframe</strong>，部分元素则借鉴了 <strong>Honkai Impact 3rd</strong>。</li>\n</ul>\n<h2>配置建议</h2>\n<p>为了获得更佳的伤害类型加成体验，建议在 <strong>Tacz Attributes Addon</strong> 的配置文件中将伤害模式更改为 <strong><code>ADDITIVE</code></strong> 或 <strong><code>MULTIPLICATIVE</code></strong>。这样可同时支持通用伤害与特定枪械伤害类型。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f0d3d6082b99f79b",
+  "content": "[Not Enough Keybinds](https://modrinth.com/mod/not-enough-keybinds) 模组的 PVP 友好版本，不包含任何库存管理宏。\n\n# 聊天/命令热键\n\n是否有经常发送的命令或消息？将其绑定到按键上！\n\n![chat_keys_demo](https://github.com/Sn0wix/Not-Enough-Keybinds/blob/master/media/chat_keys.gif?raw=true)\n\n\n# 按键预设\n\n您可以保存和加载任意数量的预设。您甚至可以使用热键在游戏中途加载它们。\n\n![presets_settings](https://github.com/Sn0wix/Not-Enough-Keybinds/blob/master/media/presets.png?raw=true)\n\n# 其他功能与绑定\n\n### 切换第二层皮肤\n### 重新绑定 F3 调试键\n- 如 F3 + B 等调试键不再硬编码（此功能在 mc 1.21.11+ 中已不再需要）。\n### 音乐与音效键\n- 通过点击按钮切换音效。\n### F3 调试键快捷方式\n- 如果您经常使用某些调试键，可以将其绑定到您喜欢的任意按键上。\n### 重置所有按键确认界面\n- 不再误触导致按键重置。\n### 切换游戏内 HUD\n- 添加重新绑定 F1 的功能（同样在 1.21.11+ 中不再需要）\n### 断开连接键",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

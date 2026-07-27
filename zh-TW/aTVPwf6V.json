@@ -1,0 +1,6 @@
+{
+  "bodyHash": "56b06ace853cea7a",
+  "content": "AFKZ Motion Blur 是一個輕量的客戶端 Fabric 模組，透過簡單的遊戲內控制與已儲存的設定，提供平滑的時序運動模糊效果。\n\n功能：\n- 運動模糊強度可從 1 調整至 10\n- 支援 /afkzmb on 和 /afkzmb off 指令\n- 設定會在啟動間保持儲存\n- 加入世界及強度變更時具備安全的重置行為\n- 相容於 Iris 等啟用著色器管線的其他模組\n\n本模組專為希望簡化設定流程、同時追求更乾淨電影感畫面的玩家而設計。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

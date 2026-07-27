@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4656ab2a006b836d",
+  "content": "由 MinecraftGD656 制作的这款 Minecraft 模组提供了极为流畅的探头效果，填补了 Minecraft 枪战体验中的一项重要空白。\n\n# 基本功能\n- 按下 Q 或 E 键可向左侧或右侧探头。按键绑定完全可由您自定义。\n- 在向左或向右探头时，玩家实体将向相应方向偏移 0.5 格。\n- 使用 [YetAnotherConfigLib](https://modrinth.com/mod/yacl) 作为配置界面依赖。\n\n# 主要特色\n- 探头动画不受原版 20 tick 速率的限制，因此异常流畅。\n- 该模组可在客户端安装后用于原版服务器，但**请确保您加入的服务器允许此类修改，因为它涉及实体位移**！\n- 支持中断动画。\n- 探头时允许移动。\n_更多功能正在开发中..._",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

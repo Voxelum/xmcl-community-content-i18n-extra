@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5d95110c66ebefb2",
+  "content": "\n\nCodxLib 是 codx 模組套件中的一個**共用程式庫模組**。所有 Codx 模組都共用相同的 multiloader 模板，並且一直以來都在複製貼上相同的樣板程式碼——平台服務、更新檢查器等等。CodxLib 的誕生正是為了將這些共用程式碼集中管理在一個地方。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

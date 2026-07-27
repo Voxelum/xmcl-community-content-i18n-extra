@@ -1,6 +1,6 @@
 {
-  "bodyHash": "aWZwEH/3Mlk=",
-  "content": "<h1>全面更新：</h1><p>我已將整個原始碼完全重寫，以便能夠擴展支援多個版本，同時將模組的整體方針改為完全基於原版。所有回報的錯誤現在應該都已修復，如果你們除了像是肩窺視（shoulder surfing）這類相容性問題之外，還能發現其他問題，那我會很驚訝。</p><h1>Omni</h1><p><strong>Omni</strong> 是一個非常簡單且輕量化的 Minecraft 模組，它加入了來自<span style=\"text-decoration:underline\">《決勝時刻：黑色行動6》</span>和<span style=\"text-decoration:underline\">《THE FINALS》</span>的全向移動系統。</p><h1>關於</h1><p>全向移動系統非常簡單：它允許你朝所有方向衝刺。它使用混入（Mixins）對原版程式碼進行小幅修改，移除了當你不是向前移動時所受到的衝刺及衝刺跳躍限制。</p>",
+  "bodyHash": "1800bc3fa7b4e80b",
+  "content": "\n\n<h1>重大更新：</h1>\n<p>我已完全重寫了全部原始碼，使其能適配多個版本，並將模組的整體開發方針改為完全基於原版。所有已回報的錯誤目前應已修復；除非是像「肩射視角」之類的相容性問題，否則若還有其他狀況，我會感到相當驚訝。</p>\n<h1>Omni</h1>\n<p><strong>Omni</strong> 是一款極度簡潔輕量的 Minecraft 模組，為遊戲加入了源自 <span style=\"text-decoration:underline\">《決勝時刻：黑色行動 6》</span> 與 <span style=\"text-decoration:underline\">《The Finals》</span> 中的全向移動系統。</p>\n<h1>關於</h1>\n<p>全向移動系統的運作非常簡單：它讓你能夠朝任何方向奔跑。該模組透過 Mixin 技術對原版程式碼進行微調，移除了原本限制你「若非朝前移動則無法奔跑或跳躍」的機制。</p>\n<h1>設定檔</h1>\n<pre><code># Omni 設定檔\n# enabled=false 會關閉 Omni 的移動更改功能。\nenabled=true\n\n# 倍率是相對於原版奔跑速度。\n# 1.0 為不變更，0.5 為半速，2.0 為雙倍速度。\n# 沒有上限；過極端的數值可能會難以控制。\nforward_multiplier=1.0\nbackward_multiplier=1.0\nleft_multiplier=1.0\nright_multiplier=1.0\nforward_left_multiplier=1.0\nforward_right_multiplier=1.0\nbackward_left_multiplier=1.0\nbackward_right_multiplier=1.0</code></pre>\n<h1>指令</h1>\n<p><code>/omni</code> -- 顯示功能的目前狀態（已啟用或已停用）</p>\n<p><code>/omni [enable/disable]</code> -- 啟用/停用功能</p>\n<p><code>/omni reload</code> -- 套用設定檔數值（例如：你在遊戲過程中修改了設定檔並需要重新載入時）</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

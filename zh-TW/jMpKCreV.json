@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ec0db7512a0410b",
+  "content": "# ‼️資訊資訊‼️：\n\n### ‼️需要支援模組‼️： \n**[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)** 和 **[Fabric API](https://modrinth.com/mod/fabric-api)**\n\n### 需要協助？加入我的 Discord：\nhttps://discord.gg/SewVJrq5jk\n\n# 簡述 📑：\n\n- /dummy create <類型> - 生成一個假人（例如殭屍、骷髏）。\n- **/dummy player\t- 生成一個玩家用於 PvP 測試。（按住 Shift / 潛行 + 右鍵可啟用護甲、盾牌或不死图腾** ⚡\n- /dummy info\t- 遊戲內指南，涵蓋所有功能。\n- /dummy remove - 刪除目前選取的假人。\n- /dummy delete - 刪除世界中所有的假人。❌\n- /dummy clear-indicators\t- 清除所有浮動的傷害數字。（已知錯誤，將盡快修復）\n- 需要支援模組：Fabric Language Kotlin 與 Fabric API\n\n# 描述：\n使用 Damage Dummy Mod 像專家一樣測試你的武器、技能和能力！🗡️ 生成完全可配置的假人實體，你可以透過幾乎所有選項來自定義它，例如持盾格擋、持有不死图腾或穿戴護甲。對於地圖製作者、伺服器管理員或任何喜歡實驗戰鬥機制的人來說都是完美的選擇。⚔️\n\n# 主要功能：\n\n1. Shift+點擊編輯器：在選取的假人上按住 Shift 並右鍵，即可開啟 GUI 選單，讓你即時切換所有設定！⚡\n \n2. 選取系統：只需在假人上右鍵即可選取它。它會發光 15 秒，讓你能夠執行命令或開啟編輯器。✨\n\n3. 自訂選項 – /dummy <命令> 允許你：\n\n      - 切換擊退效果 🌀（即使 AI 關閉也能運作）\n      - 啟用或禁用 AI 🤖\n\n# 重要功能\n\n- 傷害指示器 – 浮動的心形圖標 💖 精確顯示你的攻擊造成了多少傷害。\n- 持續選取狀態 – 選取的假人會發光 🌟，方便你輕鬆追蹤它們。\n\n# 為什麼要使用這個模組？\n\n完美用於測試傷害、機制或武器平衡 ⚔️。\n\n對假人行為擁有完全控制權，即使關閉 AI 也能操作 🤩。\n\n輕量級、易於使用的命令——無需任何設置即可上手 ⚡。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

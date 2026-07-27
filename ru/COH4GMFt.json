@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a760ec56f75238b2",
+  "content": "\n\nЭтот мод — простой способ исправить редкий краш с частицами Dynamic Trees.\n\n\n```\nМод исправляет этот краш:\njava.lang.NullPointerException: Cannot invoke \"net.minecraft.client.particle.Particle.m_107253_(float, float, float)\" because \"particle\" is null\n\tat com.ferreusveritas.dynamictrees.init.DTClient.addDustParticle(DTClient.java:212) ~[DynamicTrees-1.20.1-1.4.7.jar%23363!/:1.20.1-1.4.7] {re:classloading}\n\tat com.ferreusveritas.dynamictrees.init.DTClient.crushLeavesBlock(DTClient.java:259) ~[DynamicTrees-1.20.1-1.4.7.jar%23363!/:1.20.1-1.4.7] {re:classloading}\n\tat com.ferreusveritas.dynamictrees.block.leaves.DynamicLeavesBlock.m_142072_(DynamicLeavesBlock.java:644) ~[DynamicTrees-1.20.1-1.4.7.jar%23363!/:1.20.1-1.4.7] {re:classloading}\n```\n\n\n\n**Этот мод был создан при поддержке хостинга Minecraft minely.net**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

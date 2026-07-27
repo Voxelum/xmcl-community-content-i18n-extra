@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8901b06e38072a16",
+  "content": "<h1>Описание</h1>\n<p>Данный мод исправляет проблему, при которой сундуки (Vaults) в некоторых структурах, добавленных после версии 1.21, не активировались, что мешало игрокам получать добычу.\nОбычно сундуки активируются, когда игрок подходит к ним, и добычу можно получить, используя (Зловещий) Пробный ключ. Однако сундуки в структурах, добавленных модами, могут не активироваться даже при приближении, что препятствует получению добычи.</p>\n<p>Этот мод решает проблему для тех сундуков, которые не активируются при приближении.</p>\n<h2>Моды/Датапаки, к которым применяется эффект</h2>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/tower-of-chambers\" target=\"_blank\" rel=\"nofollow\">Tower of Chambers</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/city-of-chambers\" target=\"_blank\" rel=\"nofollow\">City of Chambers</a></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fdatapack%252ftrial-airship\" target=\"_blank\" rel=\"nofollow\">Trial Airship</a></p>\n<h1>Настройки</h1>\n<h2>canOverrideIntervalTime</h2>\n<p>Применить исправление, если активация занимает более X тиков. (По умолчанию: 200)</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

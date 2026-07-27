@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e6517768e8ba13f0",
+  "content": "[![Последний релиз](https://img.shields.io/modrinth/v/xIBsQopr?style=for-the-badge&label=Latest%20Release&color=aaaaaa)](https://modrinth.com/mod/milestone-leveling/versions)\n[![Требуется Fabric API](https://img.shields.io/badge/requires-fabric_api-aaaaaa?style=for-the-badge)](https://modrinth.com/mod/fabric-api)\n[![Совместимо с Sinytra Connector](https://img.shields.io/badge/compatible-sinytra_connector-aaaaaa?style=for-the-badge)](https://modrinth.com/mod/connector)\n\n# О моде\n\n**Milestone Leveling** — это небольшой мод, который ограничивает количество уровней опыта, которые вы можете получить, числом выполненных достижений.\n\n# Особенности\n\n- **Мilestone Levels**, максимальное количество уровней опыта, которое могут получить игроки, основано на количестве выполненных ими достижений\n  - `persistentMilestoneLevels` — параметр игры, который фиксирует уровень игрока на его уровне достижений, по умолчанию `false`\n\n# Лицензия\n\nЭтот проект лицензирован под [LGPL 3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html)\n\nВы имеете право включать этот проект в свои модпаки",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

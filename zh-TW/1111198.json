@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3d88277d9efe0900",
+  "content": "<p>一個基本的合金窯，包含範例配方，並內建 Kubejs 支援，主要供模組包開發者使用</p>\n<pre><code>  event.custom({\n    type: 'alloykiln:alloy_kiln_processing', \n    ingredients: [\n      { item: 'minecraft:iron_ingot' }, // 第一個材料\n      { item: 'minecraft:copper_ingot' } // 第二個材料\n    ],\n    output_item: { \n      item: 'minecraft:gold_ingot',  // 結果\n      count: 1\n    },\n    processingTime: 200 // 處理時間（以刻為單位）\n  });</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

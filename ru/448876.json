@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6be3457311381142",
+  "content": "<p><span style=\"font-size:18px\">В игре есть неиспользуемый блок под названием «Стол для наконечников стрел». Поэтому я решил сделать этот блок полезным, добавив более простой способ создания стрел с эффектами.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:18px\">Этот мод расширяет возможности стола для наконечников стрел, позволяя превращать обычные стрелы в стрелы с эффектами с помощью облачных зелий.</span><br>\n<span style=\"font-size:18px\">Одна банка зелья (любого типа) может преобразовать любое количество стрел из первого слота.</span></p>\n<p><span style=\"font-size:18px\"><img src=\"https://i.ibb.co/PWVGMbF/image-public-fletch.jpg\" alt=\"Демонстрация\" width=\"870\" height=\"511\"></span></p>\n<h1>Интеграция с JEI / REI</h1>\n<p><img src=\"https://i.ibb.co/bptdTkK/screen-rei.png\" width=\"1000\"></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:18px\">Для серверов:</span></p>\n<p><span style=\"font-size:12px\">Этот мод работает на серверах, если он установлен как на стороне сервера, так и на стороне клиента.<br></span></p>\n<p><span style=\"font-size:18px\">Модпаки:</span></p>\n<p><span style=\"font-size:12px\">Вы можете использовать этот мод в своих модпаках при условии указания автора.</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

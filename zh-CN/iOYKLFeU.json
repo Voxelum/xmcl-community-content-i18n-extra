@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c38bdf18f6326bf2",
+  "content": "# 动态HUD\n\nDynamic Hud 是一个在元素不需要时隐藏它们以减少屏幕杂乱和OLED烧屏的模组。现代游戏都会这样做：当生命值满且没有敌人时，它会隐藏你的血条等。\n\n## 🔎 功能\n- **完全动态：** 原版 Minecraft 游戏中的 HUD 每个部分现在都是动态的。\n- **自定义：** 每个 HUD 元素都可切换，你可以保持它们为原版、设置为动态或完全隐藏它们，还可以选择触发它们的条件。\n- **基于上下文的准星：** 本模组包含一个动态准星，其设计和可见性会根据可能的操作而变化。\n\n<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n  <tr>\n    <td width=\"50%\">\n      <iframe width=\"100%\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/T3YjpnSwV5M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n    </td>\n    <td width=\"50%\">\n      <iframe width=\"100%\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/RDsfhUx9Lps\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n    </td>\n  </tr>\n</table>\n\n## ⚙️ 配置\n\n要编辑模组的设置：\n- 使用 Mod Menu\n- 使用命令 `/dHudConfig` 打开配置界面\n- 编辑 `.minecraft/config/dynamichud.json` 中的配置文件\n\n## 🔧 模组支持\n\n此模组目前不支持其他 HUD 模组，这意味着在最坏的情况下，由模组添加的 HUD 元素不会是动态的。如果你希望支持特定模组，欢迎提交 Github Issue。\n\n## 📦 整合包\n\n欢迎将此模组添加到你的整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

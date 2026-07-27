@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ffc559cde9459db",
+  "content": "<h3>堆疊數量調整</h3>\n<p>堆疊數量調整（Stack Size Tweaks）增加了物品的預設堆疊上限，以提供更佳的生存體驗。</p>\n<p>透過設定檔，您可以將堆疊數量調整至多達 10 億。</p>\n<h3>預設堆疊數量</h3>\n<p>分類包括：原料、方塊、食物物品、通常堆疊至 16 的物品、燉菜、藥水、裝滿的水桶、附魔書以及唱片。</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/f8b0e6b5798cfee704c3da2dac08db81fb9f7ded.png\" alt=\"預設堆疊數量\"></p>\n<h3>字型</h3>\n<p>堆疊數量調整內建了一個自訂字型，僅在背包介面中顯示（預設啟用）。</p>\n<p>它讓背包中高數值的顯示更加易讀，並配合格式美化。</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/3721aa3d3402a3a71c0275ac7bef87a433a20268.png\" alt=\"自訂字型與原版字型的比較範例\"></p>\n<h3>設定檔</h3>\n<p>本模組提供設定檔功能，您可以針對不同類別的物品或特定物品調整堆疊數量。</p>\n<p>修改最大堆疊數量後需重新啟動遊戲才能生效。</p>\n<p>可透過 Mod Menu 或 NeoForge 模組畫面存取設定檔，或直接編輯 config 資料夾中的 stacksizetweaks.json5 檔案。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

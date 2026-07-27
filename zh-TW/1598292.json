@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3ee046e81b8b34aa",
+  "content": "<p>Father Eye EMC Patch 是 ProjectE 的一個 EMC 重平衡 Companion，適用於 Minecraft 1.16.5 Forge，专为 Father Eye modpack 構建，也適用在任何模组包中。它將廉價的可再生物品歸零，迫使原本可能濫用的項目進行可配置的低 EMC 值設置，且自動為價值高但沒有 EMC 的項目分配基於分類的合理預設 EMC 值。</p>\n<p>每次重新映射都會生成 EMC 報告，讓模组作者能審核具體更改內容。從 1.1.0 版本開始，該模组也會自動執行 ProjectE 共價損失（默認 10%，可在 config/fathereyeemc/config.json 中進行可配置或禁用）。零列表、例外情況、低 EMC 覆蓋和自動分類都由數據驅動，使用 /reload 即可應用配置修改，無須重新啟動。需要 ProjectE 模组。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

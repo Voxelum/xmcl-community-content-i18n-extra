@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1085c537140a3eb3",
+  "content": "🪶 鞘翅槽\n可同时穿戴胸甲和鞘翅。\n\n原版游戏迫使你在胸甲和鞘翅之间做出选择。Elytra Slot 为鞘翅添加了专用槽位，让你可以身穿全套胸甲并自由飞行——无需妥协。\n\n✨ 功能特性\n- 为鞘翅提供独立的 Curios 背部槽位——与胸甲槽位分离\n- 滑翔时可穿戴下界合金、钻石或任何胸甲\n- 滑翔机制与原版完全一致——下落时双击跳跃即可激活\n- 第三人称视角下，鞘翅和胸甲均能正确渲染\n- 烟花助推功能正常运作，可从 Curios 槽位使用\n- 鞘翅耐久度自然消耗——经验修补（Mending）和耐久（Unbreaking）附魔正常工作\n- 无法同时在两个槽位装备鞘翅（防止利用漏洞）\n- 若偏好原版用法，胸甲槽位的鞘翅仍可正常使用\n- 兼容 Silent Gear——可检测滑翔物品\n- Curios 面板中自定义鞘翅图标\n\n📦 必需依赖\n使用 26.x 版本时无需依赖\nCurios API for 1.21.x\n\n🔧 安装方法\n- 为 Minecraft 1.21.1 安装 NeoForge 21.11.x\n- 将 Curios API 放入 mods/ 文件夹\n- 将 Elytra Slot 放入 mods/ 文件夹\n- 启动游戏——打开背包并按 G 键进入 Curios 菜单\n\n⚠ 必须在客户端和服务端同时安装。\n\n⚙️ 兼容性\n| Mod / Loader | 状态 |\n| :--- | :--- |\n| Curios API | ✅ 必需 |\n| Silent Gear | ✅ 完全支持 |\n| NeoForge 21.11.x | ✅ 支持 |\n| Forge / Fabric / Quilt | ❌ 不支持 |\n| 其他鞘翅模组 | ⚠ 取决于具体模组 |\n\n❓ 常见问题\n这个模组兼容 Trinkets 或 Baubles 吗？\n不兼容——本模组专为 NeoForge 上的 Curios API 构建。\n\n我还能使用原版的胸甲槽位来装备鞘翅吗？\n可以——原版槽位完全未受影响。Curios 槽位是额外添加的。\n\n未来会支持 Fabric 或 Forge 吗？\n目前暂无计划。仅支持 NeoForge。\n\n我可以将其添加到我的整合包中吗？\n可以——免费使用，只需注明出处即可。\n\n🐛 Bug 反馈与支持\n请在 GitHub Issue 追踪器中报告问题。请附上你的 NeoForge 版本、Curios 版本以及 latest.log 日志文件。\n\n📄 许可证\nMIT —— 源代码在 GitHub 上公开。由 warwa 制作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

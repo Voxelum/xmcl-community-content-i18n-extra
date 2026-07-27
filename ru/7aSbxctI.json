@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ad769ba034e6c6d",
+  "content": "# TelepathicMaid: Игра в мёртвую\n\n# Введение\n\nМод, интегрирующий TelepathicMaid с библиотекой Ragdoll Library.\n\nПо умолчанию нажмите Numpad 9, чтобы перейти в состояние ragdoll. В этом состоянии горничная не может двигаться и не может быть атакована монстрами.\n\n![Игра в мёртвую](https://cdn.modrinth.com/data/cached_images/ce972d2ae79bfb10af5bed7f89d906807e1a217f.gif)\n\n# Прочее\n\nЕсли клиент зависает при попытке контролировать горничную, вы можете попробовать ввести команду `/sdsf cancelConnect`, чтобы восстановить работоспособность.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

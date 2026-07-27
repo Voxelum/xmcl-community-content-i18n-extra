@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f4b03170756c5ef9",
+  "content": "\n\n![cool banner](https://cdn.modrinth.com/data/cached_images/7d3c19282d8b7861e633c081c9ce6f3160610bba_0.webp)\n\n这是一个针对 FTB Quests 的非官方附加模组。\n\n此模组将任务中枯燥的刷怪蛋图标替换为实际实体的实时 3D 渲染模型。\n每个任务都拥有独立的尺寸、X/Y 轴偏移和旋转选项，这些设置已集成到 FTB Quests 的任务编辑器中。\n\n- 可以显示任意实体，不仅限于生物。\n- 观察类任务也支持实体渲染。\n- 击杀任务的实体名称菜单内同样会进行渲染。\n\n配置：\n- 可切换旋转、闲置与行走动画的默认状态。\n- 旋转速度倍率\n- 摄像机俯仰角\n- 强制全亮渲染开关\n\n游戏内 FTB Quests 选项：\n- 实体可视化尺寸\n- 实体可视化 X 轴偏移\n- 实体可视化 Y 轴偏移\n- 实体可视化旋转\n- 实体可视化旋转（使用全局/始终旋转/从不旋转）\n- 实体可视化闲置（使用全局/始终闲置/从不闲置）\n- 实体可视化行走（使用全局/始终行走/从不行走）\n- 黑色剪影（无/直到可用/直到完成）\n- 使用任务图标作为任务图标（否/是）\n\n兼容性：\n需要 FTB Quests 和 FTB Library\n\n鸣谢：\n灵感来源于 Better Questing 狩猎任务中的实体可视化功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

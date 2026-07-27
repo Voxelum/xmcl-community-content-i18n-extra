@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7258f258c647bf9f",
+  "content": "## Metallum\nMetallum 是面向 macOS 上 Minecraft 的一款实验性渲染后端，它使用 Apple 的 Metal API 替代 OpenGL/Vulkan。它提供了更加原生的渲染路径，旨在提升 Apple Silicon（苹果硅）芯片上的性能与效率。\n\n本项目仍处于实验阶段。其性能、稳定性和兼容性可能因您的系统配置及已安装的模组而异。如果遇到错误，请在 GitHub 上报告。\n\n## 要求\n- macOS\n- Apple Silicon（M1 或更新版本）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

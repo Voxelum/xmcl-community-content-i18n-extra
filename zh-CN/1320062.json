@@ -1,6 +1,6 @@
 {
-  "bodyHash": "X0IbK/RsjxE=",
-  "content": "<h1>河豚生物群系过渡</h1><h2>简介</h2><p>河豚生物群系过渡是一款旨在改善使用不同地表方块的生物群系边界的视觉效果的模组。由于原版生物群系的分辨率为4个方块，其边界常呈现生硬的方块状。本模组通过混合相邻生物群系的方块来创建平滑过渡，从而消除这些人工痕迹。</p><p><img src=\"https://media.forgecdn.net/attachments/1276/74/blend_ba1-png.png\" alt=\"\"></p><p><img src=\"https://media.forgecdn.net/attachments/1276/75/blend_ba2-png.png\" alt=\"\"></p><p><img src=\"https://media.forgecdn.net/attachments/1276/76/blend_ba3-png.png\" alt=\"\"></p><p><img src=\"https://media.forgecdn.net/attachments/1276/77/blend_ba4-png.png\" alt=\"\"></p><p><img src=\"https://media.forgecdn.net/attachments/1276/78/blend_ba5-png.png\" alt=\"\"></p><h2>兼容性</h2><p>河豚生物群系过渡兼容自定义生物群系和世界生成。</p><p><img src=\"https://media.forgecdn.net/attachments/1276/83/blend_ba6-png.png\" alt=\"\"></p>",
+  "bodyHash": "420337c308f6035a",
+  "content": "\n\n<h1>Pufferfish's Biome Dither</h1>\n<h2>关于</h2>\n<p>Pufferfish's Biome Dither 是一款旨在从视觉上改善生物群系边界的模组，适用于相邻生物群系使用不同地表方块的情况。由于原版生物群系的分辨率仅为 4 个方块，边界往往呈现出明显的方块状。本模组通过混合邻近生物群系的方块来创建平滑过渡，从而避免这些视觉瑕疵。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/1276/74/blend_ba1-png.png\" alt=\"\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/1276/75/blend_ba2-png.png\" alt=\"\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/1276/76/blend_ba3-png.png\" alt=\"\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/1276/77/blend_ba4-png.png\" alt=\"\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/1276/78/blend_ba5-png.png\" alt=\"\"></p>\n<h2>兼容性</h2>\n<p>Pufferfish's Biome Dither 与自定义生物群系及世界生成兼容。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/1276/83/blend_ba6-png.png\" alt=\"\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f7a98768dbe3b72",
+  "content": "# EasyLAN\n**用于自定义局域网服务器的Minecraft Forge 模组相关设置（内置服务器）**<br>\n\n- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easylan)\n- [Modrinth](https://modrinth.com/mod/easylan)\n- [MC百科](https://www.mcmod.cn/class/11373.html)\n\n<br>\n\n## 可配置列表\n\n### *自定义*\n\n- 自定义端口（**100-65535**）\n- 自定义最大玩家数（**2-500000**）\n- 自定义服务器公告（**限制100字**）\n\n### *服务器基础设置*\n\n- 允许PVP（**真/假**）\n- 在线模式（**真/假**）\n- 生成动物（**真/假**）\n- 生成NPC（**真/假**）\n- 允许飞行（**真/假**）\n\n### *服务器命令支持*\n\n- 白名单（**/whitelist [开启/关闭/添加/移除/...]**）\n- 黑名单（**/ban | /ban-ip | /pardon | /pardon-ip**）\n- 管理员权限（**/op | /deop**）\n- 保存所有数据（**/save-all | /save-off | /save-on**）\n\n### *扩展功能*\n**扩展功能尚未测试兼容性，如果游戏出现崩溃请尝试禁用它们。**\n\n- HttpAPI信息（HttpApi支持 | 端口: 28960 | 地址: 127.0.0.1）<br>\n- LAN输出（将游戏聊天信息输出到局域网服务器）\n\n<br>\n\n**您也可以通过 `.minecraft\\config\\easylan.cfg` 配置此插件（类似于server.properties）**\n\n## 支持版本\n\n- Forge 1.7.2 - 1.21.11<br>\n  **1.7.2 未经过测试，功能可用性尚不确定**\n- NeoForge 1.20.1 - 1.21.11\n- Fabric 1.14.4 - 1.21.11\n\n- 从旧版EasyLAN更新到新版时，请删除 `.minecraft\\config\\easylan.cfg` 文件，否则可能导致游戏崩溃（详细信息请参阅更新日志）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

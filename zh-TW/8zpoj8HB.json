@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac50cf582167ea47",
+  "content": "\n\n# AFK 時關閉傷害的模組。\n## Fabric 版本需要 [Fabric API](https://modrinth.com/mod/fabric-api)。\n#### 若要修改設定檔，請前往路徑 .minecraft/config/autoafk/config.json（預設為 60 秒）\n#### 或\n#### 如果模組版本為 2.2.0 及以上，則可透過指令進行設定：\n<details>\n<summary>指令</summary>\n  \n  - #### /afk（切換至 AFK 模式）\n  - #### /afk setdelay {time}（設定切換至 AFK 模式的延遲時間）\n  - #### /afk setsuffocating {true/false}（設定防窒息保護）（已棄用）\n  - #### /afk setcollide {true/false}（設定是否與生物碰撞）（1.2.4 以上版本適用）\n  - #### /afk setmobsaggression {true/false}（設定是否抵禦生物攻擊）（1.2.4 以上版本適用）\n    - *TRUE - 啟用保護*\n    - *FALSE - 停用保護*\n\n</details>\n\n  <img alt=\"淺色模式下顯示太陽插圖，深色模式下顯示帶有星星的月亮。\" src=\"https://cdn.modrinth.com/data/8zpoj8HB/images/ea71061ef2120d4c2745bbf9be2b10e81e96fde4.gif\">",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "vy5uH4aK1CM=",
-  "content": "# quick-pack\n一个简单的模组，用于优化数据包/资源包zip文件的加载时间。对于包含**大量**文件的压缩包尤其有效，但也能为小型资源包带来更快的加载速度。\n\n## quick-pack vs 原版\n\n这是通过[polymania v0.6.2](https://modrinth.com/modpack/polymania/version/0.6.2)生成的资源包，在使用quick-pack与不使用（原版）时的加载时间对比。Polymania生成了一个44.3 MiB的zip文件，内部包含60369个条目！\n![加载演示资源包](https://i.imgur.com/dqEDVQX.gif)\n\n_quick-pack在2秒内完成加载，而原版需要36秒！_",
+  "bodyHash": "4303f9174ebde7e0",
+  "content": "\n\n# quick-pack\n一款用于优化数据包/资源包 zip 文件加载时间的轻量模组。它特别擅长处理包含**大量**文件的 zip 包，同时也能让小型资源包的加载速度显著提升。\n\n## quick-pack 与原版对比\n\n这里展示了使用 quick-pack 与不使用（原版）加载由 [polymania v0.6.2](https://modrinth.com/modpack/polymania/version/0.6.2) 生成的资源包时的对比。Polymania 会生成一个体积为 44.3MiB、内含 60369 个条目的 zip 文件！\n![加载演示资源包](https://i.imgur.com/dqEDVQX.gif)\n\n_quick-pack 仅需 2 秒即可完成加载，而原版则需要 36 秒！_",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5a6f192868b169a6",
+  "content": "# AE2 Infinity Cell\n\nAE2 Infinity Cell 为 Minecraft 1.7.10 / GTNH 时代的整合包添加了一个单品的 Applied Energistics 2 存储单元。该单元将物品、流体和精华存储通道挂载到 AE2 驱动器中，同时将其实际内容保存在作用域内的外部存储中，而不是直接将大型库存写入物品堆栈。\n\n## 功能特性\n\n- 一个用于 AE2 存储系统的 `Infinity Storage Cell` 物品。\n- 支持物品、流体以及 Thaumic Energistics 精华通道。\n- 从 AE2 的角度来看，具有实际上无限的存储容量和类型数量。\n- 轻量级的物品 NBT：单元仅存储 UUID 引用。\n- 内容在当前世界存档中持久化，并通过模组的已保存数据存储进行写入。\n- 复制的单元保持相同的 UUID，并有意地在同一存档内部共享相同的底层库存。\n\n## 要求\n\n运行时依赖项：\n\n- Minecraft 1.7.10\n- Minecraft Forge 10.13.4.1614\n- Applied Energistics 2 Unofficial\n- Thaumic Energistics\n- Thaumcraft\n- Avaritia\n\n开发工作区还使用了 GTNH Gradle 约定插件和 GTNH 依赖目录条目。\n\n## 使用说明\n\n将 Infinity Storage Cell 放置在 AE2 驱动器或兼容的 AE 存储主机中。\nAE2 会向自定义单元处理器请求所需的通道，单元将从同一个底层记录中提供物品、流体或精华存储。\n\n底层存储的作用域限定于 Minecraft 存档。在同一存档内复制物品堆栈会复制 UUID 并共享相同的内容。将单元的 NBT 移动到另一个存档时，仅携带 UUID 字符串；除非也移动了外部的已保存数据，否则不会携带已保存的记录。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

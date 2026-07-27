@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9347cc50c50fd504",
+  "content": "<p>一款小型模組，可增加原版結構方塊的大小上限</p>\n<h3>從版本 1801.1.1 開始，我們也擴展了 fill 指令的限制！</h3>\n<p>版本 1.16.5-1.0.5 及更早版本：</p>\n<pre><code>將結構方塊的大小上限從 48x48x48 增加到 127x127x127</code></pre>\n<p>版本 1.16.5-1.0.6 及更新版本</p>\n<pre><code>將結構方塊的大小上限從 48x48x48 增加到 256x256x256  \n新增指令以移除結構檔案中的空氣方塊：\n/structure clean &lt;name&gt; \n（如果結構儲存為 123，則名稱會是 123；如果儲存為 sunekaer:123，則名稱會是 \"sunekaer:123\"）</code></pre>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.creeperhost.net%252fpartner%252fsunekaerjzn\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://i.imgur.com/vjIfqv5.png\" alt=\"http://partners.creeper.host/sunekaerjzn\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

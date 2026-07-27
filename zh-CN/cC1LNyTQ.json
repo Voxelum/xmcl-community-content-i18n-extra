@@ -1,6 +1,6 @@
 {
-  "bodyHash": "dAowWJWVZno=",
-  "content": "## 抗性平衡器\n\n<center>适用于 Minecraft 1.17-1.21.1</center>\n\n需要 [Necronomicon API](https://www.curseforge.com/minecraft/mc-mods/necronomicon) 和 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)。</center>\n[需要 (Neo)Forge 连接器](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector)\n\n<center>这是一个轻量级的服务端模组，允许自定义抗性效果减伤计算公式。同时支持简单的百分比减伤设置，例如每级减少5%伤害。</center>",
+  "bodyHash": "5856e1ffd50a750b",
+  "content": "\n\n## 抗性提升平衡器\n\n<center>适用于 Minecraft 1.17-1.21.1</center>\n\n需要 [Necronomicon API](https://www.curseforge.com/minecraft/mc-mods/necronomicon) 和 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)。</center>\n[需要 (Neo)Forge 的 Connector。](https://www.curseforge.com/minecraft/mc-mods/sinytra-connector)\n\n<center>一款轻量级服务端模组，允许定义自定义公式来计算来自抗性提升效果的伤害减免。它还支持添加简单的固定减免，例如每级提供 5% 的伤害减免。</center>\n\n\n\n### **为什么要做这个？**\n\n\n\n<center>虽然抗性提升在原版中表现良好，但该效果被大量模组使用，而默认数值往往非常强。本模组让整合包开发者可以自由定义该效果的实际作用。想让效果变弱？尽管去做。想变强？我也不会评判。</center>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

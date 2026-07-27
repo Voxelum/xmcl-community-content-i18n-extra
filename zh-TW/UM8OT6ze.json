@@ -1,0 +1,6 @@
+{
+  "bodyHash": "883b430bd7b3d45c",
+  "content": "\n\n不再需要搭配卡頓的比較器來連結投擲器與發射器。現在你只需在側面裝上一個掛著紅石火把的物品框架，模組就會自動處理其餘部分。你可以像搭塔般堆疊它們，也能當作漏斗替代品或簡易漏斗通道使用。\n\n目前支援發射器、投擲器與合成器。\n\n非常歡迎提供回饋。可在 Discord 上私訊我（pepsied）。\n\n查看 [我的其他模組](https://modrinth.com/user/Pepsied)\n\n![Usage](https://cdn.modrinth.com/data/UM8OT6ze/images/fd6cbaee18fe39764a95ceb704ee5b5440ed9d38.png)\n\n自 1.0.1 版本起，Auto Droppers 現在也支援合成器！只要合成器的所有可用槽位皆已填滿（包含已停用的槽位），它就會自動輸出物品。\n\n![Works with crafters](https://cdn.modrinth.com/data/UM8OT6ze/images/26004b5db7e6bc6c44a5ab8670238d991a91a979.png)\n\n除非合成器內所有已啟用的槽位都裝有兩個以上的物品，否則連接在合成器上的比較器不會觸發輸出。非常適合用來保留配方！\n\n![Crafters and Comparators](https://cdn.modrinth.com/data/UM8OT6ze/images/c396480517474f6a0b73855eea3989d3180ee429.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

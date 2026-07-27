@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8cfee3e052cc2659",
+  "content": "\n\n# 為 Radical Cobblemon Trainers 訓練家設計的結構。\n## 目前處於測試階段，出現錯誤是預期的。建議您定期備份您的世界。\n\n 厭倦了到處走動並等待道館館主生成嗎？ \n 這個數據包會新增自然生成的、適合生存模式的道館結構，容納 Radical Cobblemon Trainers 模組中的 8 位關都道館館主、四天王與冠軍，未來還將陸續推出更多結構。\n\n您需要於伺服器上啟用命令方塊，此數據包才能正常運作。\n\n **目前包含關都的 8 座道館與關都聯盟：**\n \n- 深灰道館（小剛）\n- 華藍道館（小霞） \n- 橘黃道館（馬志士）\n- 玉葉道館（小龍）\n- 紅蓮道館（阿桔）\n- 淺紅道館（小柔）\n- 綠嶺道館（小椿）[地獄]\n- 龍穴道館（希巴）[終界]\n- 聯盟建築（四天王與冠軍）[終界]\n\n**不過我計劃加入更多結構，例如：**\n\n- 戰鬥塔\n- 火箭隊基地\n- 勁敵遭遇結構\n- 通關後的訓練家小紅結構\n\n強烈建議搭配其他模組來協助定位這些結構，例如 [探險家指南針](https://modrinth.com/mod/explorers-compass)。\n\n我也建議使用 [Radical Cobblemon Trainer Textures Plus](https://modrinth.com/resourcepack/rct-trainer-textures-plus) 資源包，為您的訓練家套用精確的皮膚。\n\n（我目前並無意為 BDSP 系列加入結構）\n\n相依模組：\n- [Cobblemon](https://modrinth.com/mod/cobblemon)\n- [Radical Cobblemon Trainers](https://modrinth.com/mod/rctmod) 與 [RCT API](https://modrinth.com/mod/rctapi)\n- [CobbleFurnies](https://modrinth.com/mod/cobblefurnies)\n\n\n衷心感謝 [Radical Trainers Structures](https://modrinth.com/datapack/rct-structures) 的創作者率先完成此工作，並作為本專案的基礎；同時也感謝 [Cobbleverse](https://modrinth.com/modpack/cobbleverse) 模組包帶來的豐厚靈感。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

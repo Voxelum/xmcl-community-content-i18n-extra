@@ -1,0 +1,6 @@
+{
+  "bodyHash": "efd514cc7be829bc",
+  "content": "# Старая анимация ходьбы\n\nЧувствуете ностальгию? Тогда этот мод для вас. Этот мод возвращает забавную анимацию ходьбы, из-за которой руки игроков беспорядочно махали при передвижении. Это клиентский косметический мод, что означает: если вы установите его, эффект будет применяться ко всем игрокам на сервере.\n\nЭто очень простой мод, и он должен работать в будущих версиях Minecraft.\n\nВозможности:\n- Добавляет анимацию ходьбы из инди-версии (indev) для всех игроков (можно включить/выключить в конфиге)\n- Добавляет опцию для включения анимации ходьбы у гуманоидных мобов (по умолчанию отключена)\n\nТребует [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) или [Quilted Fabric API](https://modrinth.com/mod/qsl)\n\nБлагодарности: Мод изначально создан 5space, который дал разрешение на обновление и публикацию этого мода.\n\n[Нравится Forge? Посмотрите порт для Forge](https://www.curseforge.com/minecraft/mc-mods/old-walking-animation-forge-port \"Forge Port\"), созданный [db3k](https://www.curseforge.com/members/db3k \"db3k\")\n\n[Смешной Discord-сервер](https://discord.gg/tgf \"TGForever Discord Server\")",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "97eb2911638a9e6f",
+  "content": "\n\n<p><strong>Discord</strong>:&nbsp;<a href=\"https://discord.gg/BCHNhsDMXz\" rel=\"nofollow\">https://discord.gg/BCHNhsDMXz</a></p>\n<p>本模组提供三项功能：</p>\n<h2>数据包分析</h2>\n<p>它可以记录指定端（服务端或客户端，取决于模组的安装位置）在一段时间内收发所有数据包的大小和数量。这有助于排查整合包中网络流量过大的原因，从而帮助提升服务器性能。</p>\n<p>若要分析服务端发送或接收的数据包，请运行 `/profileserver &lt;刻数&gt;` 命令。结果将保存在 `logs/profiler/` 文件夹中，分别列出所有收发数据包的类型、数量及大小。</p>\n<h2>战利品分析</h2>\n<p>它可以记录生成战利品时使用的所有战利品修饰符，并展示每个修饰符对战利品的具体修改效果。这有助于排查大型整合包中战利品不符合预期的原因。</p>\n<p>若要分析战利品，请运行 `/profileloot &lt;刻数&gt;` 命令，然后执行可能触发战利品表的操作（如击杀生物、打开战利品箱子、运行 `/loot` 命令等）。报告将输出至最新的 `latest.log` 文件或控制台。</p>\n<h2>MCFunction 数据包识别</h2>\n<p>MCFunction 是原版数据包的一项功能，允许在数据包中执行命令。这有助于数据包开发高级功能，但也可能导致严重的卡顿。部分模组（如暮色森林和Aether）会少量使用 MCFunction 来辅助模组功能。如果您发现大量卡顿来源于 MCFunction 却找不到具体来源，此功能将为您提供极大帮助。</p>\n<p>您可以在服务器的 spark 报告中，通过 `<span>ServerFunctionManager</span>.<span>tick()</span>` 和 `<span>ServerFunctionManager</span>.<span>execute()</span>` 定位 MCFunction 引起的卡顿。</p>\n<p>若要识别哪些模组包含 MCFunction 数据包，请运行 `/profiledatapack` 命令。该命令将列出所有包含 MCFunction 文件的命名空间及其对应的文件数量，并按降序排列结果。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0c75a219707e0cbc",
+  "content": "\n\n<p>恢復了 1.20 版本的襲擊機制，使（堆疊的）襲擊農場重新運作</p>\n<p><a href=\"https://github.com/litetex-oss/mcm-raid-restore/assets/40789489/eec2998c-00ad-4f8b-ac66-219fea0d5107\" target=\"_blank\" rel=\"nofollow\">展示</a></p>\n<h2>設定</h2>\n<h3>遊戲規則 <code>raiderBadOmenEffectSec</code></h3>\n<p>控制殺死襲擊/巡邏隊長時施加的「不祥之兆」效果持續時間。<br>\n預設值為 <code>6000</code>（100 分鐘），與 1.20 版本相同。</p>\n<p>您可以在<a href=\"https://github.com/litetex-oss/mcm-raid-restore\" target=\"_blank\" rel=\"nofollow\">對應的存放庫</a>中取得更多資訊。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

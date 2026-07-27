@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42edf5932d19fb68",
+  "content": "# MiniHUD Extra\n## 概述\n本模组为 [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) (Fabric) 或 [BoccHUD](https://modrinth.com/mod/bocchud) (Forge) 添加了一些功能。<br>\n在游戏中按 Z + C 打开配置 GUI。\n\n### 功能\n#### 样式相关\n- 修改颜色：为 MiniHUD 中的每一行文本添加可配置的颜色，而不是整个 HUD 文本只使用一种颜色。\n- 文字轮廓：为文本添加轮廓，效果类似于告示牌文字的发光墨囊效果。\n- [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-fabric) 支持：当 FTB Ultimine 激活时，自动禁用 MiniHUD，防止两个 HUD 重叠。如果你和我一样，只习惯将 HUD 放在左上角……\n- MiniHUD 国际化：为 MiniHUD 显示的文本添加 i18n 支持。仅限 Forge 版本，Fabric 用户请使用 [Masa Gadget](https://modrinth.com/mod/masa-gadget/)。\n#### 新信息\n- 显示月相：显示当前月相。仅适用于 1.18.2，1.18.2+ 版本的 MiniHUD 已内置月相显示功能。\n- 显示天气：显示当前天气状况。\n- 模组集成（需要服务器端加载）\n    - [Blood Magic 3](https://www.curseforge.com/minecraft/mc-mods/blood-magic)：在玩家灵魂网络中显示 LP 值和血珠等级。\n    - [Deep Resonance](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)：显示玩家周围的辐射值。\n    - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)：显示玩家的辐射暴露情况。\n    - [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)：显示玩家周围的灵气值。\n    - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)：显示当前季节信息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

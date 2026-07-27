@@ -1,6 +1,6 @@
 {
-  "bodyHash": "HhOq9VDoIsQ=",
-  "content": "<p>这是对<a href=\"https://www.curseforge.com/minecraft/mc-mods/lightspeedmod\" target=\"_blank\" rel=\"nofollow\">Lightspeed</a>模组的高版本移植版（适用于1.20.1+）。<br>移除了原版Minecraft 1.20.1中已实现的模型烘焙优化功能，仅保留资源包缓存特性，该特性可显著缩短游戏启动时间。<br>（目前仅计划移植至Forge 1.20.1和NeoForge 1.21.1版本。）</p>",
+  "bodyHash": "7a9cc6359b95ceae",
+  "content": "\n\n<p>这是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/lightspeedmod\" target=\"_blank\" rel=\"nofollow\">Lightspeed</a> 模组的高版本（1.20.1+）移植版。<br>\n它移除了原版 Minecraft 1.20.1 中已实现的模型烘焙优化，仅保留资源包缓存功能，以加快启动速度。<br>\n（目前仅计划提供 Forge 1.20.1 和 NeoForge 1.21.1 的移植版本。）</p>\n<p>自 1.2.0 版本起，本模组引入了高并发加载以提升启动速度。如果在使用过程中遇到任何问题，请尝试在配置文件中禁用相关选项。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

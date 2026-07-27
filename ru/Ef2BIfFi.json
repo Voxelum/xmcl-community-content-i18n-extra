@@ -1,0 +1,6 @@
+{
+  "bodyHash": "312ec1e3db12ec07",
+  "content": "# Anti Magick: NeoOrigins\n\nДополнительное дополнение для совместимости с Anti Magick и NeoOrigins.\n\nПри активации в пределах активного поля это дополнение отклоняет запросы на активацию активных способностей, включая способности, активируемые горячими клавишами, и воздушные прыжки. Оно также подавляет поддерживаемых призываемых существ.\n\n## Требования\n\n- Anti Magick Core\n- NeoOrigins\n- Minecraft Java Edition 1.21.1\n- NeoForge 21.1.x\n- Требуется как на клиенте, так и на сервере\n\n## Категории\n\n```text\n/block antimagick_neoorigins:active_powers\n/block antimagick_neoorigins:summons\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

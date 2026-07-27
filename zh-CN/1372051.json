@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb5b200ef9be357b",
+  "content": "\n\n<p>本模组为 FTB Quests 增加了一些小幅改进与<em>平滑</em>动画。</p>\n<p>你可以通过游戏内配置文件对所有设置进行微调。命令：<code>/certain-questing-additions config</code>。</p>\n<p><strong>功能特性：</strong></p>\n<ul>\n<li>[新增] 在任务描述或背景中渲染实体；</li>\n<li>支持 APNG 图片（将图片命名为 `*.apng.png`）；</li>\n<li>支持为每个章节使用基于着色器的背景；</li>\n<li>EMI 集成；</li>\n<li>任务和面板按钮的悬停动画；</li>\n<li>平滑的任务详情展开以及缩放过渡效果；</li>\n<li>可调节按钮和任务高亮的发光透明度；</li>\n<li>1.20.1 版本的平滑章节面板展开效果（类似于原版在 1.21.1+ 中的表现）；</li>\n<li>所有 UI 动画可选缓动效果。</li>\n</ul>\n<p>开发者 Discord 社区：<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.0mods.team%252f\" target=\"_blank\" rel=\"nofollow\">点击此处访问！</a></p>\n<p><img src=\"https://cdn.0mods.team/cqa/shader_bg.gif\" alt=\"\"> <img src=\"https://cdn.0mods.team/cqa/hovering.gif\" alt=\"\"> <img src=\"https://cdn.0mods.team/cqa/zooming.gif\" alt=\"\"> <img src=\"https://cdn.0mods.team/cqa/opening.gif\" alt=\"\"> <img src=\"https://cdn.0mods.team/cqa/configuration.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2e218dc1a6f4d659",
+  "content": "\n\n![# Cardinal 冰船](https://github.com/CodeF53/CardinalIceBoats/raw/main/Banner.png)\n\n## 简介\n为冰上划船提供多项生活质量（QoL）实用功能：\n\n## 功能：\n\n### 通用功能：\n安装在服务端或客户端均可生效！\n#### 放置对齐：\n将船只放置在冰面上时，会自动对齐朝向正北、正南、正东、正西（以及 45 度角）。\n\n### 仅客户端功能：\n#### 转向准备：\n按下 <kbd>⬅</kbd> 或 <kbd>➞</kbd><sup>[*](#configurable-controls)</sup> 键可进行转向预载。当轮到你转向时，船只会自动停止并旋转 90 度！\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pn4UsN_QQ1w\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n#### 手动对齐：\n如果船只偏离了基准方位，按下 <kbd>⬆</kbd><sup>[*](#configurable-controls)</sup> 可将其快速对齐回最近的基准方向（或 45 度角）。\n\n#### 瞬间调头：\n需要调头？按下 <kbd>⬇</kbd><sup>[*](#configurable-controls)</sup> 即可瞬间将船只旋转 180 度！\n\n#### 智能居中：\n按下 <kbd>&#92;</kbd><sup>[*](#configurable-controls)</sup> 可将船只瞬间置于冰面中央。如果靠近墙壁，船只会被轻微推离中心，刚好避开碰撞。默认情况下，每次转向后也会自动执行此操作。\n\n#### 自定义按键：\n所有按键绑定均可在原版控制设置菜单中自定义！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

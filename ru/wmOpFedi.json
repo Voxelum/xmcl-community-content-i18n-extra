@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8fe6d655befc4e20",
+  "content": "\n\n# MinecartSpawnerRevived\nВозрождение спавнерной вагонетки с исправлениями ошибок и небольшими улучшениями!\n\nПоддержка Minecraft 1.20.x-26.1.x для Fabric/NeoForge\n\nСкачать на [Modrinth](https://modrinth.com/mod/minecart-spawner-revived)/[CurseForge](https://curseforge.com/minecraft/mc-mods/minecart-spawner-revived)\n\n### Список исправлений\n- Исправлена отправка пакета `SpawnData` на сервер при создании сущности на стороне клиента.\n- Восстановлен рендер мобов для спавнерной вагонетки.\n    - Исправляет [MC-65065](https://bugs.mojang.com/browse/MC-65065).\n- Исправлено положение частиц спавнера в спавнерной вагонетке. [MC-66894](https://bugs.mojang.com/browse/MC-66894).\n- Исправлено использование яиц призыва на спавнерной вагонетке для смены сущности. [MC-110427](https://bugs.mojang.com/browse/MC-110427).\n- Добавлен дроп сферы опыта при уничтожении спавнерной вагонетки. Как у обычного блока спавнера. О багах пока не сообщалось.\n\n### Установка\nОбязательно устанавливайте мод как на клиентскую, так и на серверную стороны для наилучшего результата!\n- Установите Fabric Loader/MinecraftForge\n- Скопируйте мод в папку `mods`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

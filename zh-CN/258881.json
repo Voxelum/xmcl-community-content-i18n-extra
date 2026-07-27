@@ -1,6 +1,6 @@
 {
-  "bodyHash": "DwDZnr2uM+E=",
-  "content": "<p><span style=\"font-size:18px\">描述</span></p><p>一个简单的模组，可以让你更快地上下梯子。</p><p>&nbsp;</p><p><span style=\"font-size:18px\">使用方法</span></p><p>向下看可以更快地下梯子，向上看可以更快地上梯子。你向上或向下看的程度会影响你移动的速度。模组配置允许增加或减少你可以移动的速度。</p><p>&nbsp;</p><p>这个模组是开源的，可以在任何整合包中使用。查看<a href=\"https://github.com/arollyson/FasterLadderClimbing\" rel=\"nofollow\">GitHub上的源代码</a>。</p><p>&nbsp;</p><p><span style=\"font-size:18px\">注意</span></p><p>这个模组在多人服务器上可以作为仅客户端的模组使用，但要小心，因为许多服务器可能会将此视为作弊并封禁用户。</p>",
+  "bodyHash": "5a1cb68817d0a20a",
+  "content": "\n\n<p><span style=\"font-size:18px\">描述</span></p>\n<p>一款简单的模组，能让您的上下梯子速度快很多。&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:18px\">使用方法</span></p>\n<p>垂直向下看可以更快地爬下梯子。垂直向上看可以更快地爬上升梯。您向上或向下看的角度会影响移动速度的快慢。&nbsp; 模组配置允许调整速度提升的幅度。</p>\n<p>&nbsp;</p>\n<p>本模组为开源项目，可用于任何整合包。请查看 <a href=\"https://github.com/arollyson/FasterLadderClimbing\" rel=\"nofollow\">GitHub 上的源代码</a>。</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:18px\">注意事项</span></p>\n<p>在多人服务器中，本模组仅作为客户端模组运行，但请谨慎使用，因为许多服务器可能会将此视为作弊行为并封禁玩家。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

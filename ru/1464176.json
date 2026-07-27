@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c0e4a6d0e7c1296",
+  "content": "<p>Создан для версии MineZero 1.0.12 и ДОЛЖЕН работать с более старыми версиями. Если он не работает для конкретной версии или вызывает проблемы в многопользовательской игре, укажите это в комментариях, и я постараюсь исправить.</p>\n<p>Это небольшой мод, который использует классы MineZero CheckpointManager и TriggerRBD для сохранения и загрузки значений насыщения, истощения и кислорода при каждом чекпоинте, что MineZero не делает самостоятельно. Он также исправляет ошибку с прочностью предметов: если вы возвращались к одному и тому же чекпоинту более одного раза, прочность предметов переставала восстанавливаться.</p>\n<p>MineZero: <a href=\"https://www.curseforge.com/minecraft/mc-mods/mine-zero-return-by-death\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/mine-zero-return-by-death</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

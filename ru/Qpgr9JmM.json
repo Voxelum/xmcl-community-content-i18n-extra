@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4cdb32720eab3ee3",
+  "content": "\n\nmediatransport — это дополнение для [Hex Casting](/mod/hex-casting) и [Figura](https://github.com/FiguraMC/Figura) (а также дополнительно [MoreIotas](/mod/moreiotas) или [Hexpose](/mod/hexpose)), которое обеспечивает взаимодействие между хексами и аватарами.\n\n## Внимание!\nЭто дополнение (и FSB в целом) работает только на __выделенных серверах__ (не в одиночной игре или режиме «Открыть для локальной сети».) Поскольку Modrinth не имеет возможности указать «только клиент + выделенный сервер», этот проект помечен как «клиент и сервер».\n\n## Установка\nЭто дополнение зависит от Figura Server Backend, который в настоящее время доступен только в версиях для разработки Figura. Вы можете получить сборку напрямую через [их GitHub Actions](https://github.com/FiguraMC/Figura/actions/workflows/build.yml?query=branch%3A1.20) (примечание: требуется авторизация в GitHub.)\n\nНа сервере необходимо установить Figura, Hex и mediatransport.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

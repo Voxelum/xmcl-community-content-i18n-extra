@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cf8ff4ee15ae77bd",
+  "content": "Мод для Fabric, работающий на стороне клиента, созданный для Hypixel Skyblock, который позволяет выделять любых мобов пользовательским цветом.\n\nМне нужно было что-то, чтобы выделять тех крыс из хаба, поэтому я сделал этот мод специально для этого.\n\n# Команды\n\n- /scanentities — отображает список всех ближайших сущностей и их имена. Запустите эту команду первой, если вы не уверены, что писать.\n- /addhighlight <имя> <цвет> — добавляет правило выделения\n  Например: /addhighlight \"Sven Packmaster\" #FF6600\n  Цвет необязателен — по умолчанию используется красный, если его не указать\n- /resethighlight — очищает все ваши правила выделения\n- /scandistance <блоки> — устанавливает дальность сканирования (от 1 до 64 блоков)\n\n# Конфигурация\n\nВаши настройки сохраняются в файл .minecraft/config/highlightit.json:\n\n```json\n{\n  \"enabled\": true,\n  \"highlights\": {\n    \"Sven Packmaster\": \"#FF6600\",\n    \"Zombie Soldier\": \"#FF0000\"\n  },\n  \"scanDistance\": 3.0\n}\n```\n\n# Требования\n\n- Fabric Loader\n- Fabric API\n- Fabric Language Kotlin",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

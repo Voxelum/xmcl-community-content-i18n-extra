@@ -1,0 +1,6 @@
+{
+  "bodyHash": "09381168bbf0862b",
+  "content": "# Shader 開發工具\n\n用於在 Minecraft 核心著色器、後處理著色器、後處理效果和渲染管線方面進行開發的 Fabric 客戶端模組，無需重新啟動遊戲或重新載入資源包。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/GQLGS8Wrubs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nhttps://github.com/seailz/shader-devtools\n\n## 功能\n- 按需重新載入著色器（包括核心和後處理著色器），無需完全重新載入資源包\n- 在遊戲內即時編輯著色器檔案，並支援語法高亮顯示\n- 當著色器存在於多個資源包中（包括原版）時，能夠單獨編輯每個著色器（原版著色器除外，它們僅限讀取）並強制載入\n- 快速視覺化著色器的渲染結果\n- 解析後處理效果的 JSON 檔案，並支援編輯這些檔案\n- 解析並視覺化所有渲染管線\n- 能夠覆蓋 `Globals` 統一緩衝區中的任何值\n\n\n### 著色器除錯日誌記錄\n\n您可以在支援的著色器程式中添加類似 `dbg(\"time=\" + GameTime);` 的調用，該值將被寫入 `logs/latest.log`。\n\n注意事項：\n- 同時支援 OpenGL 和 Vulkan\n- 支援 ASCII 字串字面量\n- 支援頂層字串連接，因此 `\"abc\" + someValue` 可以正常工作\n- 常見的標量和向量值會自動轉換為文字\n\n警告：\n- 在高頻執行的著色器（特別是片段著色器）中，`dbg(...)` 仍然會消耗大量效能\n- 如果頻繁記錄變化較快的值（如 `GameTime`），可能會導致幀率下降",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

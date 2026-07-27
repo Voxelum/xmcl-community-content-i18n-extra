@@ -1,0 +1,6 @@
+{
+  "bodyHash": "760c08236d7f9abe",
+  "content": "## 精灵箭矢\n此模组将箭矢的渲染效果修改为类似更新公告预告片中的样式。\n![展示三种原版箭矢的模组图标](https://cdn.modrinth.com/data/id6AU2OW/images/a990ca28e815bf4bd9bfa4399b7265e3e654c69f.png)\n\n你知道三叉戟其实也是箭矢吗？\n\n## 模组兼容\n在 Fabric 端，由于模组加载顺序未定义且不保证一致，因此不保证与其他类型箭矢模组的兼容性。\n在 Forge 端，经我测试过的所有模组均能实现兼容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a588117c7308fdab",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/cached_images/663d4878a39f2e43636e752402ffd3d8735f9fd4.png\" alt=\"缩略图\"></p>\n<p>TCDCommons 是一个 Minecraft 模组开发 API 库，拥有自己的 GUI 系统以及针对游戏的各种事件和钩子，同时还包含可能对模组开发者有用的工具。该 API 的主要目的是帮助优化并加速模组的开发过程，同时避免为每个需要执行类似功能的模组重复编写相同的代码。请注意，由于这是一个库（Library）类型的模组，它可能不会为用户提供任何实用的前端功能。</p>\n<p><strong>主要特性</strong></p>\n<ul>\n<li>🖥️ 强大的 GUI 框架</li>\n<li>⚙ 基于 JSON 的配置系统</li>\n<li>🎣 对游戏模组开发有用的额外“钩子”</li>\n</ul>\n<h2>依赖项</h2>\n<p>此模组依赖于其他一些模组，在安装本模组之前需要先安装这些依赖项。具体依赖如下：</p>\n<ul>\n<li>🧵 <a href=\"https://www.curseforge.com/projects/306612\" rel=\"nofollow\">Fabric API</a> - 仅在 Fabric 加载器上运行时需要。NeoForge 不需要。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

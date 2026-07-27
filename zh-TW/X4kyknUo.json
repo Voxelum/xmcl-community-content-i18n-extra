@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6fbf6c5392cd0356",
+  "content": "\n\n# | 描述 |\n\n新增一種投擲攻擊，讓你能夠投擲特定物品，尤其是「柔軟的」物品，當它們落地時會產生小範圍效果、音效與粒子。部分物品具有類似的效果，例如烈焰粉和火藥都能點燃 TNT 並造成傷害，但火藥點燃的速度更快（相當於被 TNT 引燃而非打火石），且造成的傷害多半顆心。這些物品可用於追捕戰/PVP 等情境（用來減緩或削弱緊跟在身後敵人的行動，或快速點燃 TNT 作為危險且快速的攻擊手段），也可以單純用來逃離生物。\n**要觸發效果，投擲出的物品在任意時刻下方都必須有 1.5 格的空氣空間。你可以輕輕丟出物品送給朋友，但請注意與對方保持相同高度並稍微低頭。**\n<br>\n![所有 7 種物品及其下方的效果](https://cdn.modrinth.com/data/cached_images/1d5897a3d394e3d2e6594d9d4c5402a6bf5a1738.png)\n\n# | 版本 |\n\n目前支援 Minecraft Java ```1.21-26.2```。\n\n# | 相容性 |\n\n與使用相同 function 和 tag 名稱的資源包不相容，可能在搬運物品或掉落物從邊緣跌落時造成問題，因為它可能以足夠大的力度落地而觸發效果。請注意投擲物品的方式。此外，非固體方塊（**包含水**）也會觸發此效果。\n\n## | Patreon |\n\n加入我的新 <a href=\"https://patreon.com/Nerd_1023?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink\">Patreon</a> 來支持我的專案！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

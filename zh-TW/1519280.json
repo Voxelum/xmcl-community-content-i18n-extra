@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3de1558a07e8db9e",
+  "content": "\n\n<p>ColonyRank 為 NeoForge 1.21.1 上的 MineColonies 伺服器加入競爭性排行榜系統。</p>\n<p>它會掃描殖民地資料，為每個殖民地計算公開分數，接著在遊戲內顯示排名，也可透過 Webhook 將排行榜發布至 Discord。</p>\n<p>目前計分公式：<br>\n<code>(人口 × 5) + (建築數量 × 10) + (平均建築等級 × 100) + (已佔領區塊 × 10) + (整體幸福感 × 5)</code></p>\n<p>可用的分數倍率：</p>\n<ul>\n<li>兩個 ×5</li>\n<li>兩個 ×10</li>\n<li>一個 ×100</li>\n</ul>\n<p>主要功能：</p>\n<ul>\n<li>遊戲內殖民地排名指令</li>\n<li>詳細殖民地分數檢視（附帶殖民地 ID，以避免同名混淆）</li>\n<li>建築等級標準化至 1–5 級</li>\n<li>以易讀格式顯示殖民地成立時間（天／小時）</li>\n<li>管理員手動強制將排行榜發送至 Discord 的指令</li>\n<li>每日自動發布至 Discord，可自訂時間與時區</li>\n<li>支援英文與法文</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

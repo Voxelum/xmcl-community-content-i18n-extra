@@ -1,0 +1,6 @@
+{
+  "bodyHash": "81d040e6b5745b4d",
+  "content": "一個非常簡單的伺服器端模組，為執行 MiniHUD 的客戶端提供實時 TPS 和 MSPT 數據。\n\n當按下 Tab 鍵時，這些數據將以標題和頁腳的形式添加到玩家列表中。這與 Carpet 模組所做的方式相同，也是 MiniHUD 所要求的。\n\n此模組被創建以提供相同的數據，而無需安裝整個 Carpet 模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

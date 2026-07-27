@@ -1,0 +1,6 @@
+{
+  "bodyHash": "78d43fe0e0e94bd5",
+  "content": "\n\n### 2D Minecraft\nВсегда хотели играть в 2D-версию Minecraft? Этот мод создан специально для вас!\n\nБлагодаря фиксированной 2D-камере и генератору двумерных миров, дайте волю воображению в мире, вдохновлённом Terraria!\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/DVMfVSMXZ98\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### Использование:\nУстановите мод и создайте 2D-мир, выбрав «2D World» в качестве генератора мира.\n\nЕсли понадобится помощь, напишите `@cyao.` в Discord. Это мой первый опыт создания мода :P\n\n### Проблемы\n\n- Вопрос: Мод генерирует пустоту (void), и я не могу двигаться!\n- Ответ: Вероятно, установка Minecraft повреждена. Пожалуйста, переустановите версию игры.\n\n- Вопрос: Как использовать мод на сервере?\n- Ответ: Установите параметр `level-type` в значение `flat-minecraft\\:paper_world` и добавьте мод вроде Gotta Go Fast.\n\nКстати, посмотрите на этот проект, над которым я работаю!\nhttps://www.crowdsupply.com/icy-electronics/icepi-zero :D",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

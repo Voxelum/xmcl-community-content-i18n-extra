@@ -1,6 +1,6 @@
 {
-  "bodyHash": "zXS3rxeulkY=",
-  "content": "# FreeDesktop Tea\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/freedesktop-tea)\n[![codeberg](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg)](https://codeberg.org/Maganoos/freedesktop-tea)\n\nFreeDesktop Tea — это простой мод, который предотвращает переход в спящий режим любого компьютера с рабочим столом, поддерживающим FreeDesktop, пока вы находитесь в игре.\nЭто может быть полезно, например, если вы долго отсутствуете в игре и не хотите, чтобы ваш компьютер перешёл в спящий режим, чтобы вы могли продолжать AFK-игра.",
+  "bodyHash": "d86046c95351a32e",
+  "content": "# FreeDesktop Tea\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/freedesktop-tea)\n[![codeberg](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg)](https://codeberg.org/Maganoos/freedesktop-tea)\n\nFreeDesktop Tea — это простой мод, который предотвращает переход компьютера в спящий режим, если используется рабочая среда, совместимая со спецификацией FreeDesktop. Это может быть полезно, например, когда вы долго находитесь в режиме отсутствия (AFK) и не хотите, чтобы компьютер засыпал, чтобы вы могли продолжить находиться в игре без прерываний.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

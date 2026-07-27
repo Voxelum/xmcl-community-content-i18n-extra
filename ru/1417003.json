@@ -1,0 +1,6 @@
+{
+  "bodyHash": "92b3479db907f566",
+  "content": "<h1>Добытчик рудных жил</h1>\n<p><a href=\"https://www.patreon.com/cw/quillphen\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://cdn.modrinth.com/data/cached_images/49b1e899a9f41e7eeeb877bc53e8d5838998a95b_0.webp\" alt=\"Patreon\"></a></p>\n<p>Автоматически добывает связанные блоки руды, когда вы ломаете один из них киркой, находясь в приседе.</p>\n<p><img src=\"https://cdn.modrinth.com/data/Xl2GihRU/images/64ad1935bc25e006be50ed8fa4d9697da2639985.gif\" alt=\"1\">&nbsp;<img src=\"https://cdn.modrinth.com/data/Xl2GihRU/images/1e1388588ccb36007b8137ce4584200f31626d17.gif\" alt=\"2\"></p>\n<h2>Как это работает</h2>\n<ul>\n<li>Присядьте (нажмите клавишу приседания) и добейте любой блок руды киркой. Вся связанная жила будет добыта автоматически (<strong>совместимо с «Шёлковым касанием»</strong>)</li>\n</ul>\n<h2>Примечания</h2>\n<ul>\n<li>Автоматически отключает добычу жил при обнаружении чара <strong>«Удача»</strong></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

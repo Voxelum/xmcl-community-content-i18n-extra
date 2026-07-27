@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1a0fe2d90f967308",
+  "content": "<h1>О чём этот мод?</h1>\n<p>Простой мод для хранения вещей, добавляющий деревянные ящики в стиле оригинальной игры.</p>\n<p>Ящики предоставляют 54 слота для хранения в одном блоке — это одноблочное решение, по вместимости эквивалентное двойному сундуку.\n<br>\n<br></p>\n<h2>Поддерживаемые версии</h2>\n<table>\n<thead>\n<tr>\n<th></th>\n<th style=\"text-align:center\">Fabric</th>\n<th style=\"text-align:center\">Forge</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1.19.2</td>\n<td style=\"text-align:center\">✔️</td>\n<td style=\"text-align:center\">✔️</td>\n</tr>\n<tr>\n<td>1.20</td>\n<td style=\"text-align:center\">✔️</td>\n<td style=\"text-align:center\">❌</td>\n</tr>\n<tr>\n<td>1.20.1</td>\n<td style=\"text-align:center\">✔️</td>\n<td style=\"text-align:center\">✔️</td>\n</tr>\n</tbody>\n</table>\n<br>\nЯ не буду создавать обратные порты на более старые версии Minecraft.  \nНо можно ожидать обновления мода для будущих версий Minecraft.",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

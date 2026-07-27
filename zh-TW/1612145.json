@@ -1,0 +1,6 @@
+{
+  "bodyHash": "01596e06423db724",
+  "content": "<h1>Max Enchant</h1>\n<p><strong>Max Enchant</strong> 讓你能夠透過單按鍵，為任何可附魔的物品進行完全附魔。</p>\n<p>只需按下 <strong>J</strong> 鍵，模組便會自動執行以下操作：</p>\n<ul>\n<li>檢查哪些附魔與該物品相容。</li>\n<li>從完全可自訂的白名單中選擇附魔。</li>\n<li>套用白名單中的所有相容附魔。</li>\n<li>將每個附魔設定為其最高可能等級。</li>\n</ul>\n<p>白名單完全可自訂，允許你精確選擇可以套用的附魔。</p>\n<h2>特殊行為</h2>\n<p>由於<strong>時運</strong>（Fortune）和<strong>絲綢之觸</strong>（Silk Touch）互斥，當兩者皆可應用時，模組會隨機選擇其中一個。</p>\n<h2>功能特色</h2>\n<ul>\n<li>按下 <strong>J</strong> 即可瞬間附魔你手中的物品。</li>\n<li>自動偵測所有相容的附魔。</li>\n<li>使用完全可自訂的附魔白名單。</li>\n<li>將所有有效的附魔以最高等級套用。</li>\n<li>在<strong>時運</strong>和<strong>絲綢之觸</strong>之間隨機選擇。</li>\n<li>快速、簡單，非常適合創造模式、測試以及整合包使用。</li>\n</ul>\n<p>Max Enchant 旨在使附魔過程迅速且毫不費力，同時透過白名單設定提供完整的自訂彈性。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

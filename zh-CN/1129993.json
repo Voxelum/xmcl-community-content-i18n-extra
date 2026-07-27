@@ -1,6 +1,6 @@
 {
-  "bodyHash": "F43Tdcu4Idk=",
-  "content": "<p><em>“表现力”系列的第二款模组。</em></p><p style=\"text-align:center\"><strong>TACZ版本需要安装TACZ，Pointblank版本需要安装Pointblank<br><br>还有一个仅包含倾斜动作的“通用”版本，无需任何前置依赖，你可以在任一版本上使用，甚至可用于未受支持的枪械模组，例如GCAA<br><br>如果你想要VPB的奔跑动画和枪械收放动作，请查看 <a href=\"https://www.curseforge.com/minecraft/mc-mods/vpb-expressive-running\" target=\"_blank\" rel=\"nofollow\">VPB Expressive</a><br></strong></p><p>-为所有枪械添加流畅的倾斜动作，包含第一人称视角旋转和变换，暂不支持第三人称动画<br>-瞄准时进行指向性瞄准，适用于没有倾斜瞄准镜或单纯想耍酷的情况<br>-匍匐/趴下动作<br><br><br>开发路线图<br>-流畅倾斜（终于来了）<br>-指向性瞄准/战术姿态<br>-翻越/攀爬<br>-所有动作的第一人称动画<br>-匍匐</p>",
+  "bodyHash": "07fd0706f08a1f5d",
+  "content": "\n\n<p><em>“Expressive”系列的第二款模组。</em></p>\n<p style=\"text-align:center\"><strong>TACZ 版本需安装 TACZ，Pointblank 版本需安装 Pointblank<br><br>此外还有一个仅含侧身功能的“通用”版本，无需任何依赖，可搭配上述任一模组使用，也可用于 GCAA 等未被直接支持的枪械模组<br><br>如果你希望为 VPB 添加奔跑动画和持枪贴靠效果，欢迎查看 <a href=\"https://www.curseforge.com/minecraft/mc-mods/vpb-expressive-running\" target=\"_blank\" rel=\"nofollow\">VPB Expressive</a><br></strong></p>\n<p>-为所有枪械添加平滑侧身效果，并支持第一人称视角的旋转与位移，暂无第三人称动画<br>-瞄准时支持概略瞄准，适合没有安装偏折瞄具或单纯想摆酷的情况<br>-趴下时的匍匐移动<br><br><br>开发路线图 ---<br>-平滑侧身（终于来了）<br>-概略瞄准/战术站姿<br>-翻越/攀爬<br>-全动作第一人称动画<br>-趴下/匍匐</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

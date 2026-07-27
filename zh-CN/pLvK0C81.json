@@ -1,0 +1,6 @@
+{
+  "bodyHash": "374c1fd2fc875066",
+  "content": "通过命令隐藏并自定义其他玩家的名称\n\n![](https://media.forgecdn.net/attachments/802/421/2024-02-04-15-55-25-1.gif)\n\n<span style=\"font-size: 14px;\"><strong>命令</strong></span>\n\n<details>\n<summary>命令</summary>\n  \n```\n/hiddennames nameplateVisible [玩家] [true/false]\n/hiddennames defaultVisible [true/false]\n/hiddennames blocksHideName [true/false] \n  遮挡物会隐藏名称标签\n/hiddennames setName [玩家] [颜色] [动画] [\"名称\"]  \n  名称参数必须用引号括起来\n/hiddennames setName [玩家] 名称 [\"名称\"]\n/hiddennames setName [玩家] 颜色 [颜色]\n/hiddennames setName [玩家] 动画 [动画]\n/hiddennames setName [玩家] reset\n```\n  \n  所有命令都需要至少 2 级的操作者权限才能执行。\n</details>\n\n\n**支持我**\n\n\\- 加入我的 [Discord 服务器](https://discord.gg/pCws5wJ2yT)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

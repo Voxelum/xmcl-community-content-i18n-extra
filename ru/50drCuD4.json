@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1853ebf8bd4f69b3",
+  "content": "# RGML Quilt\n\nМод, который вы ~~не знали~~ хотели.\n\nRGML Quilt оборачивает Risugami's ModLoader в много пузырчатой пленки, чтобы работать поверх Quilt.\n\n## Как играть?\n\n1. [Создайте экземпляр OrnitheMC](https://ornithemc.net/) для b1.8.1 с Quilt.\n2. Поместите этот мод в папку mods.\n3. Поместите любые RGML-моды в папку mods, убедившись, что у них есть расширение `.zip`. RGML Quilt проверяет только zip-файлы на наличие RGML-модин.\n4. Добавьте `-Dloader.experimental.allow_loading_plugins=true` в JVM-аргументы экземпляра.\n5. Запустите и кричите на меня на странице [issues](https://github.com/sschr15/rgml-quilt/issues), если что-то пойдет не так",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

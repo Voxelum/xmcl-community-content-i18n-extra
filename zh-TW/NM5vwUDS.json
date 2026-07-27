@@ -1,0 +1,6 @@
+{
+  "bodyHash": "807b820c738ca7f0",
+  "content": "## 一个服务端模组，使Boss的血量和战利品掉落数量随玩家人数缩放。\n\n默认行为下，Boss会根据玩家数量掉落 Loot Bags（战利品袋）。\n\n### 当前配置选项如下：\n- 是否缩放Boss血量\n- 是否缩放Boss掉落物\n- 每位玩家的血量倍率\n- 固定血量倍率 - 若不为0，则覆盖血量倍率\n- 固定掉落倍率 - 若不为0，则覆盖基于玩家数量的默认缩放\n- 是否使用Loader标签\n- 是否掉落 Loot Bags\n- Boss实体列表 - 要使用的Boss列表\n- Loot Bag 染色 - 掉落的 Loot Bags 的颜色\n- 使用范围缩放 - 仅计算靠近Boss生成点的玩家\n- 范围缩放距离 - 在Boss战中计入玩家的方块距离\n\n我正在开发 Fabric 和 Forge 版本。\n\n*注意：原版 Minecraft 的血量值不能超过 1024。要绕过此限制，您可以使用此模组 [AttributeFix](https://modrinth.com/mod/attributefix)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

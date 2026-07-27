@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f78acf33ffb7e5c6",
+  "content": "<p>在“更多”选项卡中添加一个额外的按钮，用于预览即将创建的世界</p>\n<p>&nbsp;</p>\n<p>该预览界面包含多个用于配置预览的按钮。除了配置选项外，还有四个其他按钮：</p>\n<ul>\n<li>应用：将预览配置应用于审查并生成新图像</li>\n<li>保存：将配置保存到世界创建上下文中，保留大陆性等内容（如果不为空），同时保存种子并返回到“更多”选项卡</li>\n<li>取消：返回到“更多”选项卡，不保存任何世界配置</li>\n<li>当前种子：显示当前正在预览的种子，点击该按钮会将种子复制到剪贴板</li>\n</ul>\n<p><span><span><iframe src=\"https://www.youtube.com/embed/jfreS69Sb-Q\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></span></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

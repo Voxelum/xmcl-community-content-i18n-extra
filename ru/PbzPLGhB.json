@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4af0f69482a728d2",
+  "content": "## О пакете\nЭтот пакет вносит изменения в несколько аспектов Legacy4J, чтобы привести их в соответствие с консольным изданием Legacy.\n\n## Изменения\n- Ресурсы (Resource Albums) — переименованы в Пакеты текстур (Texture Packs)\n- Открыть для локальной сети (Open to LAN) — переименовано в Онлайн-игра (Online Game)\n- (Legacy Remade) Средние биомы (Java) — переименованы в Средние биомы\n- Моды (Mods) — переименованы в Магазин Minecraft (Minecraft Store)\n- Прямое подключение (Direct Connection) — переименовано в Присоединиться к друзьям (Join Friends, для использования с e4mc)\n- Вступительная последовательность заменена на ту, что используется в Legacy Console\n- Заголовок изменен на «Minecraft: PC Edition»\n\n## Особая благодарность\n- NicSonic за создание заголовка «PC Edition»",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

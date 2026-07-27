@@ -1,6 +1,6 @@
 {
-  "bodyHash": "6P8EWWceRVE=",
-  "content": "<p><span style=\"font-size:24px\"><strong>关于</strong></span></p><p>点击机器是一个为游戏添加一个新方块的模组——一个独立的自动点击器。它支持9种可配置的速度，每种速度都有各自可配置的每tick RF消耗。还可以选择手持物品、潜行以及左键点击。它能够点击方块和实体。更具体地说，自动点击器会模拟一个玩家站在方块正中心、面向该方块朝向的方向、具有默认触及距离（5）时的点击行为。如果无法找到可点击的目标，它将会扫描前方非空气的方块并进行点击。</p><p><span style=\"font-size:24px\"><strong>联系</strong></span></p><p>Discord：<a href=\"https://discord.gg/wdvU5Yz\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/wdvU5Yz</a></p><p>&nbsp;</p>",
+  "bodyHash": "5c2a1c408aa7770c",
+  "content": "<p><span style=\"font-size:24px\"><strong>关于</strong></span></p>\n<p>点击器是一个为游戏添加新方块——独立自动点击器的模组。它支持9种可配置速度，每种都有独立的可配置RF/t消耗。此外，它还支持按住物品、潜行和左键点击功能。它可以点击方块和实体。更具体地说，自动点击器模拟玩家位于方块正中心、朝向该方块默认方向（5格距离）时的点击行为。如果未找到可点击目标，它会搜索前方非空气方块并进行点击。</p>\n<p><span style=\"font-size:24px\"><strong>联系</strong></span></p>\n<p><a href=\"https://discord.gg/wdvU5Yz\" target=\"_blank\" rel=\"nofollow\">Discord链接</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

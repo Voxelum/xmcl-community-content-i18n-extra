@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a222daa4cb61e3ec",
+  "content": "**注意：将此模组移植到旧版本需要花费一些时间！这是因为原始长矛代码的编写方式所致。在 1.21 之前的版本中，必须完全重写代码才能使其正常工作！**\n\n本模组力求准确地将即将推出的“混乱坐骑”（Mounts of Mayhem）更新中添加的长矛及其相关的技术变更进行反向移植。\n\n我意识到其中的部分动画与官方原版并不完全一致，但在“混乱坐骑”正式发布后，我可能会更新它们以使其更加精准。\n\n_兼容性：_\n\n- 适用于 1.21.11 且更改了长矛纹理、音效或本地化的资源包也可在此模组中使用。\n\n- 只要安装了此模组，使用 1.21.11 新增的物品组件的数据包很可能也能正常工作。\n\n- Better Combat 模组：会覆盖此模组为长矛添加的攻击动画。\n\n_配置选项：_\n\n- spear_charge_attacks：允许长矛执行右键蓄力攻击能力（默认为 true）。\n\n- spear_stabbing_animation：使长矛播放不同的攻击动画（默认为 true；如果安装了 Better Combat 则为 false）。\n\n- tridents_use_spear_attack_animation：使三叉戟也使用长矛的刺击动画（默认为 false）。\n\n**杂项：**\n\n_进度：_\n\n- 生物串烧：在一次蓄力攻击中用任意长矛击中五个生物。\n\n_附魔：_\n\n- 冲刺：长矛会将使用者向前推进。\n\n_技术变更：_\n\n- 反向移植了以下物品组件：\"piercing_weapon\"、\"kinetic_weapon\"、\"use_effects\"、\"swing_animation\"、\"attack_range\" 和 \"minimum_attack_charge\"。\n\n- 反向移植了 \"post_piercing_attack\" 附魔组件。\n\n- 反向移植了 \"apply_impulse\" 和 \"apply_exhaustion\" 附魔效果。\n\n- 反向移植了 \"spear_mobs\" 进度判定标准。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

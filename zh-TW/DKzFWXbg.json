@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f837692a2872c15c",
+  "content": "[![伺服器](https://img.shields.io/discord/1007349372444491856.svg?&logo=Discord&colorB=7289da)](https://discord.gg/uXWsRftdy7)\n[![強化修復統計數據](http://cf.way2muchnoise.eu/short_344973_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/overpowered-mending)\n[![Modrinth 下載量](https://img.shields.io/modrinth/dt/overpoweredmending?logo=Modrinth)](https://modrinth.com/mod/overpoweredmending)\n\n改變「修復」附魔的方式。它不再選擇你裝備的其中一件物品（鎧甲、主手或副手），而是掃描整個inventory以找出最需要修復的物品。\n\n不相容項目：\n\n* [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) 的部分版本\n* [CoFHCore](https://www.curseforge.com/minecraft/mc-mods/cofh-core)\n\n---\n\n* 使用 Fabric 的使用者需要 **Fabric API**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

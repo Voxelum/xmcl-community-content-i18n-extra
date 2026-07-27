@@ -1,0 +1,6 @@
+{
+  "bodyHash": "400e0064379edad4",
+  "content": "\n\n<p>В настоящее время этот мод должен быть установлен как на клиенте, так и на сервере.</p>\n<p>&nbsp;</p>\n<p>Этот мод добавляет четыре команды:<br>/register password password<br>/login password<br>/changepassword oldPassword newPassword</p>\n<p>/changeplpassword nickname newPassword</p>\n<p>&nbsp;</p>\n<p>База данных игроков хранится в папке server/world/data;</p>\n<p>В данный момент мод не имеет конфигурационного файла, но я добавлю его в будущем;</p>\n<p>Я создал этот мод для своего сервера с модпаком, потому что не смог найти никаких рабочих аналогов для Forge&nbsp;<strong>14.23.5.2864</strong>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

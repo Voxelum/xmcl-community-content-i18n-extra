@@ -1,0 +1,6 @@
+{
+  "bodyHash": "219e39c5ed626fba",
+  "content": "\n\n# MushroomNoMore\n\nЭто небольшой вспомогательный мод на Fabric для Minecraft, предотвращающий распространение блоков грибов.\n\nЭта функция отключена по умолчанию, поэтому включите её с помощью нового правила игры `mushroomSpreading`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

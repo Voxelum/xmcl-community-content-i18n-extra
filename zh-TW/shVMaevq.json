@@ -1,6 +1,6 @@
 {
-  "bodyHash": "zd/77l6VfU0=",
-  "content": "# 切換衝刺顯示 🏃\n新增一個簡單的 HUD 元素，用來顯示你是否正在衝刺。幫助你發現切換衝刺功能實際上並未啟動的情況。\n\n![UI 範例](https://cdn.modrinth.com/data/shVMaevq/images/2faa519f25ede26ca4a71c4e91d0be5cc87e2d41.png)\n\n## 額外功能 🌟\n你可以隨心所欲地自訂 HUD 元素！\n- 選擇是否顯示衝刺、潛行及/或游泳狀態\n- 在簡短文字或表情符號之間做選擇\n- 更改對齊方式、位置與大小\n- 在畫面上顯示一個小型的玩家紙娃娃\n\n![設定畫面](https://cdn.modrinth.com/data/shVMaevq/images/9aeb1813fab3253704c4f5191f94a24a166f96c2.png)",
+  "bodyHash": "7d5e507dba15f664",
+  "content": "# 切換疾跑顯示 🏃\n新增一個簡單的 HUD 元素，用於顯示你當前是否處於疾跑狀態。這有助於你發現切換疾跑功能實際上並未切換的情況。\n\n![UI 範例](https://cdn.modrinth.com/data/shVMaevq/images/2faa519f25ede26ca4a71c4e91d0be5cc87e2d41.png)\n\n## 額外功能 🌟\n你可以自由自訂這個 HUD 元素的樣式！\n- 選擇顯示疾跑、潛行和/或游泳狀態\n- 在簡短文字或表情符號之間進行選擇\n- 調整對齊方式、位置和大小\n- 在螢幕上顯示玩家的小紙娃娃形象\n\n![設定畫面](https://cdn.modrinth.com/data/shVMaevq/images/9aeb1813fab3253704c4f5191f94a24a166f96c2.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

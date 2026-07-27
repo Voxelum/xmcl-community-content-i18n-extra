@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ed25f0a5520229e",
+  "content": "![Actions Banner](https://cdn.modrinth.com/data/cached_images/d348b180ebfe18d7e447158d65df6e8d66922714.png)\n## 🌐 簡介\n\n「Actions」模組是一款 Minecraft 用戶端修改模組，允許玩家創建由命令或事件觸發的自定義動作。透過 Actions，您可以定義任務序列，使遊戲玩法更加動態和個性化。\n\n## 🚨 重要事項\n\n要使此模組正常運作，您需要安裝 [Fabric API](https://modrinth.com/mod/fabric-api) 和 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)。\n\n如果您想使用 Quilt，則需要使用 [Quilted Fabric API](https://modrinth.com/mod/qsl) 來替代 [Fabric API](https://modrinth.com/mod/fabric-api)，並使用 [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl) 來替代 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)。\n\n## 🛠️ 功能\n\n**可自定義的觸發器：** 定義激活特定動作的命令或事件。\n\n**任務序列：** 將多個任務組合為單一動作。\n\n**專注於客戶端：** 所有功能均無需伺服器端支援即可運作。\n\n**易用性：** 直觀的命令系統，用於創建和管理動作。\n\n## 📖 維基\n\n如果您需要幫助，可以查看 [維基](https://github.com/HenriTom/Actions/wiki) 以獲取更多資訊和指南，加入我們的 Discord 伺服器 [這裡](https://discord.gg/XdHBJKTvxJ)，或在 GitHub 上開啟問題 [這裡](https://github.com/HenriTom/Actions/issues/new/choose)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

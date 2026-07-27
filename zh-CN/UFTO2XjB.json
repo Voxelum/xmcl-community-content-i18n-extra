@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8f79cadd819c98a9",
+  "content": "扩展 Create 的蓝图系统，使其可以从任意快捷栏槽位使用，而不仅限于主手。无论蓝图位于哪个槽位，其预览、覆盖层和世界渲染都会正常显示。\n\n交互菜单（部署、旋转、工具菜单）仍然要求将蓝图握在主手中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

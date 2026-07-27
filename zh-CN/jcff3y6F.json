@@ -1,0 +1,6 @@
+{
+  "bodyHash": "04ab3885451bda23",
+  "content": "# 天气探测器\n\n![Weather Detector Icon](https://cdn.modrinth.com/data/jcff3y6F/images/14d738b2f53c02cf78f8fdb6502ff37d605c282f.png)\n\n添加一个天气探测器方块，根据当前天气状态输出红石信号。\n天气探测器方块的功能如下：\n* 在下雨或下雪时，输出强度为 1-8 的红石信号。\n* 在雷暴天气时，输出强度为 9-15 的红石信号。\n* 可以通过交互来反转其输出逻辑。\n\n它可以使用玻璃块、下界石英和平滑石台阶像阳光探测器一样进行合成。\n\n目前支持 Fabric 和 (Neo)Forge 平台的 1.19.3、1.19.4、1.20.1 和 1.21.1 版本。Fabric 版本需要安装 Fabric API。\n\n欢迎在 [GitHub 仓库](https://github.com/tanukibouwer/weather-detector) 提交 PR 和问题反馈。\n\n![Scene with weather detector](https://cdn.modrinth.com/data/jcff3y6F/images/62d9e96fe3893d70cda1bd17874ce27135989316.png)\n\n本模组采用 MIT 许可证发布，因此可以自由添加到模组包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

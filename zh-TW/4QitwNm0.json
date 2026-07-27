@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2693bc6d122986b7",
+  "content": "<center>\n<h1>Mino++</h1>\n<p>在 Minecraft 中重现<em><b>某款热门卡牌游戏</b></em></p>\n</center>\n\n![第三人称游戏画面](https://cdn.modrinth.com/data/4QitwNm0/images/ea7bcccf41d2193b793c9a90376764aa047987df.png)\n\n当你在网上与最好的朋友聚会，却苦于没有卡牌游戏可玩时，那该多遗憾啊？Mino++ 旨在以 Minecraft 的方式解决这一问题。\n\n如果你的“有机”朋友（即真人玩家）恰好不在，我们还会为你提供虚拟朋友！\n\n## 游戏玩法\n\n放置一张 Mino++ 牌桌，然后右键点击它加入游戏。\n\n![第一人称游戏画面](https://cdn.modrinth.com/data/4QitwNm0/images/11e9c2b5faea2afb747ee325481f861daae0e675.png)\n\n规则部分我们就不赘述了——请参阅 [THIS](https://en.wikipedia.org/wiki/Uno_(card_game)) 等在线资源！\n\n- 使用滚轮选择一张手牌\n- 右键点击牌桌来打出一张牌\n- 或者，右键点击牌堆来摸一张牌\n- 想要大喊“Mino！”（UNO），可以在你剩余两张牌时，在打出牌的同时按住 LCTRL（左Ctrl键）\n  - 如果你忘了这么做，也可以在打出牌后在聊天栏输入“mino”\n- 如果发现对手忘记喊“Mino！”并想指出这一点，只需简单地击败他即可。\n\n## 自动玩家机器人\n\n可以召唤机器人加入牌桌。目前这只能通过命令完成。\n\n```\n/summon minopp:mino_auto_player\n```\n\n召唤出机器人后，右键点击它，它会搜索并加入附近的牌桌。\nShift + 右键点击它会打开一个菜单，允许配置其行为。（需要 [YetAnotherConfigLib](https://modrinth.com/mod/yacl)）\n\n## 规则变体\n\nMino++ 的实现与官方规则略有不同。\n\n- “叠加抽牌”：相同的抽牌卡可以打在另一张抽牌卡上。\n- “跳入”：如果玩家手中有一张与弃牌堆顶牌完全相同的牌，即使不是他的回合，也可以立即打出。\n- 狂野抽四牌（Wild Draw Four）只有在持有者手中没有与当前颜色匹配的牌时才能打出。否则，软件层面会禁止打出该牌，因此也就没有挑战机制的交互了。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

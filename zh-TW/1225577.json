@@ -1,0 +1,6 @@
+{
+  "bodyHash": "76470b79dd52cd8d",
+  "content": "<h2>描述</h2>\n<p>這個數據包會將所有實體的物品 NBT Age 標籤設為 0，從而確保 5 分鐘的物品消失計時器持續重置。</p>\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/dbd8bee52219f71fc2b7b5d0b7083c928d25bb39.png\" alt=\"預覽\"></p>\n<h2>依賴項</h2>\n<ul>\n<li>Fabric 加載器需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" target=\"_blank\" rel=\"nofollow\">Fabric API</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

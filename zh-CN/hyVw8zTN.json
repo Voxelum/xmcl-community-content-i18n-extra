@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fb0f26298cb8b52d",
+  "content": "## 🧪 药水状态栏\n\n**药水状态栏**为活跃的药水效果添加了简洁明了的进度条。  \n无需再猜测——通过侧边的进度条和图标，精确查看每种效果的剩余时间。\n\n---\n![PotionBar](https://cdn.modrinth.com/data/cached_images/624ab3f030b0af2873a77b8407e50a72628eb588.gif)\n\n---\n\n### ✅ 功能特性：\n- 以进度条形式显示药水持续时间  \n- 根据药水类型显示不同颜色的进度条  \n- 完全**客户端**运行——服务器端无需安装任何模组  \n\n---\n### ⚙️ 命令：\n#### HUD 位置调整：\n- /potionbar position center（默认居中）\n- /potionbar position left（左侧）\n- /potionbar position right（右侧）\n- /potionbar position custom —— 打开 HUD 编辑器（支持拖拽调整）\n\n#### 显示原版效果：\n- /potionbar vanilaEffects show（显示）\n- /potionbar vanilaEffects hide（隐藏，默认）\n\n#### 计时器系统：\n- /potionbar timer on —— 启用药水效果计时器\n- /potionbar timer off —— 禁用药水效果计时器\n- /potionbar timer left —— 在图标左侧显示计时器\n- /potionbar timer right —— 在图标右侧显示计时器（默认）\n- /potionbar timer above —— 在图标上方显示计时器\n- /potionbar timer below —— 在图标下方显示计时器\n\n#### 自定义图标：\n- /potionbar CustomIcons on —— 启用自定义纹理（默认）\n- /potionbar CustomIcons off —— 禁用（使用原版纹理）\n---\n\n### 📸 截图：\n\n![Effects](https://cdn.modrinth.com/data/cached_images/3d93fcc417b6503bbddd35cb652a7c1940d94cf5.png)\n![Effect](https://cdn.modrinth.com/data/cached_images/ab3e7a111a284b5f7cd0a484fb3dad9a67974b09.png)\n\n---\n\n🧪 掌握状态，生存无忧。请使用 **药水状态栏**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

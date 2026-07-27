@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d545a078f4f1d9d9",
+  "content": "![Citadel-Logo](https://i.imgur.com/KyeiwRx.png)\n“我的历史数据分析表明，你有 97.34% 的概率知道我在你星球上的诞生，以及我在堡垒空间站的重获新生。” ——《网络奇兵2》\n\nCitadel 是一个库模组，用于在 Minecraft 1.14 及更高版本中提供高级动画和实体属性支持。作为库模组，Citadel 本身并不添加太多功能，而是为其他模组提供了框架，用于实体动画、加载 .tbl（Tabula）和 .obj（Waveront）模型，以及管理实体属性。Citadel 的前身 LLibrary 将不再从 1.12.2 版本进行更新，从现在开始，我所有的模组都将使用 Citadel。Citadel 的代码库主要源自 LLibrary，其代码经 LLibrary 的维护者及近期版本的作者 Gegy1000 许可后使用。\n\n在 1.6.3 及以上版本中，还提供了一个配置选项，用于更改区块生成时刷怪数量的上限。当与众多依赖 Citadel 的怪物模组一起使用时，这非常有用；如果不更改此设置，这些模组可能会导致原版怪物难以找到。\n\n希望使用 Citadel 的开发者可以阅读[如何将其添加到开发环境的指南](https://github.com/Alex-the-666/Citadel/wiki/Getting-Started)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

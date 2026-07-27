@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a90bf369265d0fcf",
+  "content": "\n\n# AeroShip Saver\n\n**使用簡單的指令與遊戲內選單，儲存及載入《Create: Aeronautics》飛船的實體結構，包含搭載的機械構造、萬向軸承與無線紅石。不依賴任何自訂物品、方塊或專屬網路封包，因此安裝在客戶端不會影響你連線至未安裝此模組的伺服器。**\n\n![UI](https://cdn.modrinth.com/data/cached_images/5bc506fd4364735a698bc0aec4851e1e11f6806c.png)\n\n# 功能特色\n\n* 儲存你腳下或正對著看的飛船：/aeroship save <name>\n* 在任何位置重新載入：/aeroship load <name>\n* 按下 G 開啟簡潔選單，包含：\n* 每個已儲存飛船的 3D 旋轉預覽（拖曳旋轉、捲動縮放）\n* 「附近飛船」分頁，可依距離篩選並刪除獨立實體結構\n* 刪除流程會將鏡頭轉向目標飛船並加以標示，讓你清楚看見即將移除的項目，並在刪除前要求確認\n* 儲存資料會跨世界與重啟保留（enxv_aeronautics_structures/*.excraft）\n\n# 需求\n\n* Minecraft 1.21.1、NeoForge 21.1.230 以上版本\n* Create、Create: Aeronautics 以及 Sable（本模組會呼叫其物理引擎）\n\n# 單人遊戲與伺服器\n\n* Aeronautics 飛船為伺服器端的物理物件，因此儲存與載入動作會在你的單人遊戲整合伺服器上執行。此模組不會加入任何需要同步的內容，因此你可將其保留在同一個執行個體中，用來連線至未安裝此模組的伺服器。\n\n# 致謝與授權\n\n本模組收錄並改寫了 enxv233 開發的《Create Aeronautics: Toolgun》中的飛船儲存/載入引擎，已移除所有物品、方塊與網路註冊內容，使其不帶有額外內容。該引擎的完整歸功屬於 enxv233。本模組以 CC BY-NC 4.0 授權釋出，與收錄程式碼相同，僅限非商業用途。\n\n[Github](https://github.com/levisnakes/aeroship-saver)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc8350a6015fcf56",
+  "content": "\n\n功能\n--------\n這個小型原版模組可防止生物與玩家踩踏作物或耕地。新增了三個遊戲規則。\n\n\n| 遊戲規則                  | 預設值 |\n| ------------------------- | ------------- |\n| secureFarmlandAndCrops    | false         |\n| secureFarmlandBreakCrops  | false         |\n| secureFarmlandIfEmpty     | false         |\n\n\n多人遊戲\n-----------\n此模組僅需安裝於伺服器端，玩家無須安裝。\n\n\n安裝方式\n--------------\n請依照你要遊玩的主機版本下載對應的 .jar 檔案，然後將其放入 mods 資料夾中。  \n請注意，若是 2.0.0 以前的版本，則必須先安裝 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7e3f78d09cdbc202",
+  "content": "\n\n# ItemRename\n### 一个简单的物品重命名模组\n\n要重命名物品：\n\n    /rename <文本>\n\n要在名称后追加内容：\n\n    /rename add <文本>\n\n### 样式与符号\n- 斜体 = <>\n- 混淆 = {}\n- 粗体 = []\n- 删除线 = ()\n- 下划线 = /|\n- 颜色 = #XXXXXX <-十六进制代码\n\n为了方便起见，我们提供了一个网站，你可以在上面输入文本和样式，命令会自动为你生成。\n\n[该网站](https://widdermc.github.io/ItemRename/)\n\n如果你发现任何漏洞或有任何数据包/模组建议，请在我的 [Discord](https://discord.gg/fy4KuxYKVD) 上告诉我。\n\n## 许可证\n本模板遵循 CC0 许可证发布。欢迎学习并应用于你自己的项目中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

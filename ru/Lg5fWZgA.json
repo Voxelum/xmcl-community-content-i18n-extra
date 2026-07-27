@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2b0103a4607aabc1",
+  "content": "Эта библиотека содержит ряд упрощений для работы с кодом:\n\n*   Шаблоны для регистрации блоков/объектов/ущелий/тегов/эффектов и т.д.\n*   Упрощенная версия работы с событиями, что позволяет автоматически регистрировать их в правильном конвейере\n*   Потенциал для кросс- загрузочной разработки (WIP). Предоставляет тип Supplier для работы с различными загрузчиками, но с одинаковой логикой\n\n![neoforge](https://github.com/thomasglasser/thomasglasser/blob/main/files/badges/cozy/supported/neoforge_64h.png?raw=true) ![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_64h.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

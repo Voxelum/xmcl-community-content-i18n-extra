@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be56ef0f680b0404",
+  "content": "# Chunky Autopause\nChunky Autopause — это утилитарный мод для мода предварительной генерации чанков [Chunky](https://modrinth.com/plugin/chunky). Он отслеживает количество игроков на сервере, приостанавливая выполняющиеся задачи Chunky при наличии игроков онлайн и возобновляя их, когда сервер пуст.\n\nОчевидно, что для работы этого мода требуется установленный Chunky.\n\n## Команды\n```\n/cap enable\n/cap disable\n```\n\n## Конфигурация\n```\n#Включать автоматическую приостановку Chunky при запуске\nenableOnStartup = true\n#Сколько тиков ждать перед возобновлением задач Chunky после выхода последнего игрока\n#Диапазон: > 0\nresumeWaitTicks = 600\n```\n## Благодарности\nВдохновлено модом [Chunky Extension](https://modrinth.com/mod/chunky-extension) для Fabric.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

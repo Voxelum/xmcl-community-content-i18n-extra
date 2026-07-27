@@ -1,0 +1,6 @@
+{
+  "bodyHash": "75353d71639e11c2",
+  "content": "\n\n<p>性能测试结果：</p>\n<p>FPS 提升：<span style=\"color:#2dc26b\">~</span><span style=\"color:#2dc26b\">5%-30%</span></p>\n<p>卡顿峰值降低：<span style=\"color:#2dc26b\">~10%-20%</span></p>\n<p>&nbsp;</p>\n<p><span style=\"color:#169179\">如何做到？</span></p>\n<p>- 实体渲染剔除 &ndash; 跳过远处实体的渲染，减少阴影 &amp; 动画</p>\n<p>- 方块渲染剔除 &ndash; 跳过远处重型方块（如箱子、告示牌、旗帜和刷怪笼）的渲染。</p>\n<p>- 粒子限制 &ndash; 限制粒子数量，并根据 FPS 动态调节。</p>\n<p>- 区块渲染优化器 &ndash; 限制区块重绘频率，防止帧率突然下降。</p>\n<p>- 内存优化器 &ndash; 监控内存使用情况并触发智能垃圾回收，避免卡顿峰值。</p>\n<p>完全可配置 &ndash; 每个系统都可通过清晰易改的设置进行启用或禁用⚙️。</p>\n<p>适用于任何服务器和整合包，不会影响游戏机制，也不会产生冲突。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b4ab1b68b38ad4da",
+  "content": "# 你是我的毒药！\n\n一款小巧的模组，允许你秘密地将药水添加到任何食物中，在混合毒药时悄悄恶作剧你的朋友或敌人，而他们却毫不知情！\n\n**支持 Fabric 和 Forge**\n<p>\n<img src=\"https://cdn.discordapp.com/attachments/303645021952016384/1188224882970996756/support-fabric.png?ex=6599bfa8&is=65874aa8&hm=a108849be44b0433fdbbb1666274133df01fcd882c616f136e3a66049ef3b7fc&\" width=\"350\" \n     height=\"20\"> \n<img src=\"https://cdn.jonasjones.dev/mod-badges/support-forge.png\" width=\"280\" \n     height=\"20\"></p>\n\n只需在主手拿着食物，副手持有任何药水时右键点击，即可生效。但请注意，这可能会产生一些噪音，所以请秘密行动！\n\n为了安全起见，可以先在你的宠物身上测试你的食物！或者也许可以试试你的朋友 :)\n\n高级工具提示已稍作修改，以隐藏食物物品中的 NBT 计数，这样你就真的无法知道哪个物品被更改了！\n\n滞留药水将影响整个堆叠，而不仅仅是一个物品。\n你也不仅仅局限于一种药水效果，你可以向食物中添加无数种效果。\n\n**注意：**\n- 该模组完全是服务器端的，你仍然可以在客户端包含它，因为它提供了一些额外的手部动作。\n- 如果是在 Fabric 上运行，需要 Fabric API 版本 0.91.0 或更高版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

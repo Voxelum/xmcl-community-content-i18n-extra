@@ -1,6 +1,6 @@
 {
-  "bodyHash": "QhS2KcEXFaU=",
-  "content": "建造魔杖 - KOTS 分支版，新增更多模組相容性與便利性調整。\n\n此版本引入以下變更：\n\n- 將原本的 **潛行 +「魔杖設定鍵」** 操作簡化為僅需使用 **「魔杖設定鍵」** **（預設：左 Ctrl）**，即可執行復原、模式切換、核心切換及開啟介面等動作。\n- 支援使用裝備欄位與 Curios 飾品欄位中的物品。\n- 支援使用 L2 背包中的物品。\n- 支援使用應用能源 2（Applied Energistics 2）的可攜式元件、無線終端及無線合成終端。\n- 支援 Tom's Simple Storage 的無線終端，其存取邏輯與原版相同。\n- 支援精緻儲存（Refined Storage，RS）的無線終端，根據物品數量與 RS 設定消耗能量，同時允許無限距離與跨維度存取。\n- 啟用界伏盒、精緻背包（Sophisticated Backpacks）及 L2 背包的嵌套讀取功能。",
+  "bodyHash": "c2cd99657f12c4d8",
+  "content": "建築魔杖 - KOTS 分支，增加更多模組相容性和便利性改進。\n\n此版本引入了以下變更：\n\n- 將原本的操作方式「蹲下 + 「魔杖設定鍵」」改為僅需按下「魔杖設定鍵」（預設：左 Ctrl）即可執行撤銷、模式切換、核心切換以及開啟 GUI 等操作。\n- 支援使用來自護甲欄位和 Curios 配件欄位的物品。\n- 支援使用來自 L2 Backpacks 的物品。\n- 支援使用來自 Applied Energistics 2 的便攜式儲存單元、無線終端和無線合成終端。\n- 支援 Tom's Simple Storage 的無線終端，其存取邏輯與原版相同。\n- 支援 Refined Storage (RS) 無線終端，根據物品數量及 RS 設定消耗能源，同時允許無限距離和跨維度存取。\n- 支援 Beyond Dimensions。\n- 支援 Occultism Storage Accessor。\n- 支援 Sable。\n- 啟用對 Shulker Boxes、Sophisticated Backpacks 和 L2 Backpacks 的巢狀讀取功能。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ba1a5f66425bf42",
+  "content": "\n\n<p align=\"center\">\n\t<img src=\"https://raw.githubusercontent.com/rathmerdominik/player-revive-compat/main/src/main/resources/mmnmrevive.png\" height=\"500\" width=\"500\">\n</p>\n\n<h1 align=\"center\">Совместимость с Player Revive</h1>\n\n<p align=\"center\">\n\tЭтот мод добавляет слой совместимости между \n\t<a href=\"https://www.curseforge.com/minecraft/mc-mods/mine-mine-no-mi\">Mine Mine no Mi</a> и \n\t<a href=\"https://www.curseforge.com/minecraft/mc-mods/playerrevive\">PlayerRevive</a>.\n</p>\n\n<p align=\"center\">\nКогда игроки истекают кровью, их способности отключаются. При воскрешении или после того как они окончательно истекут кровью, способности восстанавливаются.\n</p>\n<p align=\"center\">\nПри использовании соломенной куклы из Wara Wara no Mi она будет удалена после того, как противник будет сбит ею.\n</p>\n<p align=\"center\">\nПри использовании Сердца из способности MES оно мгновенно убьёт игрока, которому принадлежит сердце, вместо того чтобы сбить его.\n</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

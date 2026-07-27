@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8c568a1e82af43e0",
+  "content": "## 简介\n为 Minecraft 1.20.6+ 添加了无边框支持。\n\n版本 1.0.0 需要 [Embeddium](https://modrinth.com/mod/embeddium)。不支持 Fabric 平台上的 Sodium。\n版本 1.0.1 需要 [Sodium](https://modrinth.com/mod/sodium) 作为依赖项。\n版本 1.0.2+ 不需要任何模组作为依赖项！\n\n## 给整合包作者\n你可以在你的整合包中使用我的模组，但请不要直接提供模组文件，请使用 mrpack 格式。\n\n## 截图\n![选项页面](https://cdn.modrinth.com/data/cached_images/c4b0f864b9c94284180a6b2a2932920c699cc458.png)\n（此页面在 1.0.1 之后已移除，无边框全屏直接替换了原生全屏）\n\n\n![新配置界面](https://cdn.modrinth.com/data/cached_images/12d97f50ac893aa9cb6ccced1b45af3c3c1e6c5f.jpeg)\n（这是新的配置界面，NeoForge 无需任何依赖即可使用，Fabric 需要 ModMenu 才能打开此页面）\n\n## 兼容性\n### Sodium\n完全兼容，无冲突。\n### Embeddium\n完全兼容，无冲突。\n### Vulkan Mod\n正如用户在 [issue#7](https://github.com/DeeChael/Concentration/issues/7) 中报告的那样，Vulkan Mod 提供的无边框全屏不起作用。因此我添加了对 Vulkan Mod 的兼容性，以便你可以将 Concentration 作为 Vulkan Mod 的替代无边框全屏方案。\n\n## 已知问题 \n~~当你在选项页面按下全屏快捷键时，选项文本不会更改。~~ 这实际上是 Sodium 和 Embeddium 的问题，而不是 Concentration 的问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

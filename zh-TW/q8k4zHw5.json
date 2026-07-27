@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a974465070f638f",
+  "content": "Trimmed 是一个模组，它添加了几个客户端系统，使原版盔甲纹饰对模组作者和数据包作者都变得实用。\n\n### 外部物品模型覆盖 [1.21.4 之前]\n原版要求你覆盖你想为其添加覆盖谓词的模型，但使用 Trimmed，你可以将特殊的 json 文件放入 `models/item/overrides` 中，为任何物品创建多种不同类型的模型覆盖。Trimmed 本身添加了两种用于 NBT 测试或盔甲纹饰材料的类型。\n\n### 客户端“标签”\n此系统的工作方式类似于数据包标签。这使得纹饰图案能够与集成 Trimmed 的其他数据包一起工作。\n\n### 客户端“映射”\n这是一个新的 json 系统，包含唯一的键值对。这使得盔甲纹饰材料能够与集成 Trimmed 的其他数据包一起工作。\n\n有关如何使用 Trimmed 的更多信息，请参阅[维基](https://github.com/dhyces/trimmed/wiki)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

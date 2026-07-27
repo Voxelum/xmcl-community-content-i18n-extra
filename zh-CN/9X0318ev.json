@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4abe70ff061c1eba",
+  "content": "# 关于\n\nFastFurnace 使用 Mixin 机制修改熔炉、高炉和烟熏炉的功能，以提升它们的 TPS 性能（注意：并非提升烧炼速度！）。\n\n类似于 FastWorkbench，它会缓存最近使用的配方，并在重新扫描整个注册表之前优先检查该缓存配方。由于原版熔炉每个刻都会扫描整个熔炉注册表，这在原版环境中可能尚可接受，但在模组环境中，注册表会迅速变得非常庞大，因此这一优化显著提升了性能。\n\n这些更改适用于熔炉、高炉和烟熏炉。任何使用 AbstractFurnaceTileEntity 的模组也将受益于安装了本模组。\n\n对于喜欢数据的人来说，以下是 [原版](https://i.imgur.com/6Xg1Xrq.png) 与 [FastFurnace](https://i.imgur.com/my9FAFH.png) 的对比。测试期间，9 个熔炉持续烧炼圆石。调用次数保持大致相同，以避免扭曲数据。该测试在原版环境下进行，其中仅包含约 70 个熔炉配方。而在模组包中，配方数量可能高达 700 个，这将显著提升性能增益。\n\n请务必同时查看 [FastWorkbench](https://modrinth.com/mod/fastworkbench) 和 [Toast Control!](https://modrinth.com/mod/toast-control)。\n\n# 支持我\n\n[![](https://i.imgur.com/4D6zgZt.png)](https://discord.com/servers/shadows-mods-613010559532531713)\n\n## 联系方式\n\nDiscord: <https://discord.gg/wdvU5Yz>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

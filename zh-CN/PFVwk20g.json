@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d6e4b4a147525440",
+  "content": "\n\n一款修复了 Minecraft 长期以来无法抚摸动物的巨大缺憾的模组。它允许你抚摸大多数被动型生物，以及部分其他生物。\n\n \n\n**如何抚摸：** 按 Y（或你自定义的抚摸按键）进行抚摸。抚摸你自己驯服的生物，例如狼、猫或鹦鹉，会同时为你和该生物恢复生命值。\n\n所有原版可抚摸的生物（略有过时）：\n\n<video autoPlay src=\"https://cdn.discordapp.com/attachments/523251999899385875/830100984201871360/pettable_vid_-_better_quality.webm\" width=\"488\"></video>\n\n \n\n**配置：**\n\n* “抚摸驯服生物时治疗”（默认为 true）- 设置抚摸已驯服的宠物时是否为你和该生物恢复生命值。\n* “允许抚摸玩家”（默认为 true）- 设置是否可以抚摸其他玩家。\n* “抚摸冷却时间（刻）”（默认为 30）- 设置抚摸动作的冷却时间（以游戏刻为单位）。默认的 30 刻相当于 1.5 秒。\n\n\n**实体标签：**\n\n共有三个标签可用于调整可抚摸的生物列表：\n\n* `not_pettable`（默认空）- 永远无法被抚摸的实体。\n* `not_pettable_adult`（默认包含北极熊和疣猪兽）- 仅幼年形态可以被抚摸的实体。\n* `pettable_anyway`（默认空）- 即使通常不可抚摸，但仍可被抚摸的实体。会被 `not_pettable` 覆盖。\n\n\n\n**整合包使用：** 欢迎使用，无需额外申请。\n\n \n\n[<img src=\"https://i.imgur.com/HabVZJR.png\" width=\"250\"/>](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

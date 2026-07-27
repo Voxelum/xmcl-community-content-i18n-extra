@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4fc056b30984b417",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/cached_images/6756c703b4e7e73c6a2b6edbbfbb09f92c88325b.webp\" alt=\"Image showing all of the new baby entity models introduced in 26.1 snapshot 2\"></p>\n<p>將 26.1 快照 2 中的新幼體和兔子動物模型反向移植至 1.21.11！（未來可能還會支持更多版本！）</p>\n<p>如果您想修改紋理使眼睛看起來呆萌，請參考 <a href=\"https://github.com/michiel1106/cute-animals-backported-template-1.21.11/tree/master/src/main/resources\" rel=\"nofollow\">源代碼</a>，並按照文件結構找到您想要修改的紋理。</p>\n<p>&nbsp;</p>\n<p>問與答</p>\n<p>你為什麼要做這個？</p>\n<ul>\n<li>我就是有點想做。</li>\n</ul>\n<p>如果新的快照中添加了新的動物模型，你會加入嗎？</p>\n<ul>\n<li>如果有足夠多的人希望我這麼做，那麼是的，很可能會。</li>\n</ul>\n<p>我如何將紋理和模型更改為我想要的樣子？</p>\n<ul>\n<li>除非你編寫自己的模塊代碼，否則無法更改模型。你可以查看我是如何實現的，然後添加你自己的模型，或者使用 Entity Texture Features &amp; Entity Model Features。如果你想更改紋理，請參閱問與答上方的說明。</li>\n</ul>\n<p>加入 <a href=\"https://discord.gg/p6ShJPq98d\" rel=\"nofollow\">Discord</a> 你可以在這裡尋求幫助、請求模塊、提出建議、閒聊，或索取我曾開發過的任何模塊的源代碼（如果我還保留着的話）</p>\n<p>或者，如果你覺得慷慨大方，可以捐贈給我的 <a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fbikerboys\" rel=\"nofollow\">Kofi</a>！</p>\n<p>&nbsp;</p>\n<p>或者，如果你想通過零額外成本幫我賺取一些收入，請使用此鏈接在 Bisect Hosting 上創建服務器：<a href=\"https://url-shortener.curseforge.com/hknUB\" target=\"_blank\" rel=\"nofollow\">https://url-shortener.curseforge.com/hknUB</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

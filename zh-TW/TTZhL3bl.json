@@ -1,0 +1,6 @@
+{
+  "bodyHash": "582283d59e735f75",
+  "content": "一個改善旗幟圖形使用者介面的 Minecraft 模組。\n\n\n\n\n<img width=\"1920\" height=\"1080\" alt=\"2026-01-28_21h12m14s\" src=\"https://cdn.modrinth.com/data/TTZhL3bl/images/8ab9edf31295d652b4daedcd01b74de2eb27fa60.png\" />\n\n使用模組選單進行設定，或修改 minecraft/config/better-looms.json\n\n- 點擊顏色會將染料移至對應的欄位。\n- 點擊旗幟圖案會自動完成圖案，並將輸出結果帶回輸入欄位。\n- 點擊「空白」圖案會載入該顏色的空白旗幟。\n- 也支援鍵盤輸入 - 預設使用 https://banner-writer.web.app/keylayout.png 作為鍵盤配置（預設關閉）\n- 支援製作擁有 6 個或以上圖案的旗幟（預設關閉）\n\n\n歡迎在此提供反饋、請求或錯誤回報 [here](https://github.com/FridayFaerie/better-looms/issues)\n\n\n（此模組是為 [ClongCraft](https://linktr.ee/ClongCraft) 而製作 - 我們在那裡似乎會使用旗幟）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

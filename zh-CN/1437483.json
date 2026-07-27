@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ecc6d972c981d687",
+  "content": "\n\n<h2>名称标签渲染修复</h2>\n<p>通过将名称标签（实体显示名）的渲染延迟至世界绘制完成之后，修复了当它们位于半透明方块（如（染色）玻璃、冰、蜂蜜、水）及其他实体前方时出现的渲染异常。</p>\n<p>完全兼容修改名称标签渲染方式的模组。</p>\n<p>修复了问题 <a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC%252fissues%252fMC-162693\" rel=\"nofollow\">MC-162693</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

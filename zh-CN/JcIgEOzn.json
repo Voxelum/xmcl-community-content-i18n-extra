@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e5abb6062718135",
+  "content": "\n\n# 所需模组\n- https://www.curseforge.com/minecraft/mc-mods/reborncore\n- https://www.curseforge.com/minecraft/mc-mods/libblockattributes\n\n# 简介\n本模组添加了采石场与填充机<br />\n<br />\nForge 平台有 Quarry Plus，但其 Fabric 版本仅支持到 1.17。<br />\n不过，我想在 Fabric 1.16 上使用类似 BC 的机器，因此移植难度较高，但我还是做出来了。<br />\n我也一并制作了填充机。<br />\n本模组借鉴了 BuildCraft、Additional Enchanted Miner(Quarry Plus)、Compact Engine 和 Akuto Engine。<br />\n<br />\n本模组没有内置引擎，请使用 Tech Reborn 或 Mechanix 的发电机。<br />\n<br />\n（由于作者技术有限，标记范围设定目前不可见……）<br />\n红色方框内的模块用于采石场。（基岩破碎模块同样可用于填充机。）<br />\n<br />\n此处添加的机器可以通过输入红石信号来暂停。  <br />\n<br />\n泵为实验性实现。（其规格与原版完全不同。）<br />\n<br />\n基于最优算法的采石场专为低配电脑设计。<br />\n对于大规模露天开采，推荐使用最优型采石场，因为普通采石场可能会导致游戏延迟。  <br />\n<br />\n<br /> \n<br />\n除以 Tech Reborn 为基础外，本模组可独立运行，但我们仍建议安装以下模组：<br />\n\n- https://www.curseforge.com/minecraft/mc-mods/techreborn\n- https://www.curseforge.com/minecraft/mc-mods/simplepipes\n- https://www.curseforge.com/minecraft/mc-mods/pipeplus\n- https://www.curseforge.com/minecraft/mc-mods/pipe\n- https://www.curseforge.com/minecraft/mc-mods/mechanix\n     <br />\n请在 JEI 中查看合成表。<br />\n<br />\n填充机模块的合成表可在 Github Wiki 上查看。<br />",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

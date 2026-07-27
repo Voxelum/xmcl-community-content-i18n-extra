@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b9dbe5d700616a64",
+  "content": "\n\n<p># 限制精緻背包</p>\n<p>一個伺服器端附加模組，會在透過計分板數值明確解鎖之前，限制對 [精緻背包](<a href=\"https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks</a>) 的存取權限。</p>\n<p>## 功能說明</p>\n<p>此模組會在未解鎖前阻止與精緻背包的所有互動。</p>\n<p>涵蓋以下情境：<br>- 右鍵點擊已放置的背包以開啟<br>- 手持背包物品時右鍵點擊開啟<br>- 使用精緻背包的快捷鍵開啟背包</p>\n<p>當玩家的 `sophisticated_backpack_unlocked` 計分板數值大於 `0` 時，即可解鎖與精緻背包互動的功能。</p>\n<p>## 運作原理</p>\n<p>此模組會使用伺服器端的計分板目標，名稱如下：</p>\n<p>`sophisticated_backpack_unlocked`</p>\n<p>若分數為：<br>- `0` 或不存在：將封鎖背包使用<br>- `1` 以上：允許使用背包</p>\n<p>該目標會在伺服器啟動時自動建立。</p>\n<p>## 安裝方式</p>\n<p>本模組主要設計為僅安裝於伺服器端，但也可以安裝在客戶端上。只要伺服器端有安裝，客戶端無需安裝此模組也能正常觸發限制。</p>\n<p>## 計分板用法</p>\n<p>解鎖與背包互動的功能：</p>\n<p>```mcfunction<br>/scoreboard players set &lt;player&gt; sophisticated_backpack_unlocked 1<br>```</p>\n<p>鎖定與背包互動的功能：</p>\n<p>```mcfunction<br>/scoreboard players set &lt;player&gt; sophisticated_backpack_unlocked 0<br>```</p>\n<p>## 效能影響</p>\n<p>此模組對效能的影響極低。</p>\n<p>它不會每刻追蹤玩家、持續掃描物品欄或執行世界範圍搜尋。僅在玩家嘗試與精緻背包互動，或背包容器開啟時，才會進行輕量級的檢測。</p>\n<p>## 備註</p>\n<p>- 限制由伺服器端強制執行，因此玩家無法透過重新綁定按鍵或使用背包快捷鍵來繞過。<br>- 主手空著時，仍可透過 Shift+右鍵 拾取已放置的背包。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

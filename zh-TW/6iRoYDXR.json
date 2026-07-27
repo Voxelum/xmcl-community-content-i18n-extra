@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ada19fd8f5b2e5c",
+  "content": "**此附加组件将不再为 Recruits 1.15.1 及更高版本提供更新，因为其修复内容已直接整合到主模组中。**\n\n修复了 [Recruits](https://modrinth.com/mod/villager-recruits) 与 [Corpse](https://modrinth.com/mod/corpse) 之间的兼容性问题。\n\n招募兵的尸体现在使用匹配的招募兵皮肤和模型，而不是默认的玩家皮肤。\n\n适用于村民和人类招募兵变体。\n\n支持 Recruits `1.11.2+` 和 Corpse `1.20.1-1.0.3+`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

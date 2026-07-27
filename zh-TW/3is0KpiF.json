@@ -1,0 +1,6 @@
+{
+  "bodyHash": "78601d6bd74a986a",
+  "content": "## 📖 關於\n透過這個數據包，任何劍都可以用作盾牌，但只能抵擋一半的傷害。\n\n### 功能：\n- 當玩家將劍拿在手上時，會向其添加 `blocks_attacks` 和 `use_cooldown` 組件。\n  - `use_cooldown` 組件用於為所有劍設置與盾牌分開的通用延遲組；\n- 劍可以抵擋一半的傷害；\n- 使用斧頭取消格擋後，玩家將無法再使用該劍作為盾牌或武器；\n- 如果玩家在任一手中持有盾牌，則禁用劍的格擋功能。\n\n#\n## 🔗 額外連結\n您可以在 PMC 頁面上留言！\n\n[![PMC](https://www.planetminecraft.com/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/data-pack/blocking-with-sword/)\n\n數據包製作者俄語 Discord 伺服器 / Русский дискорд сервер датапакеров\n\n如果您是一位數據包製作者，正在尋找合適的幫助、有用的資源以及分享項目的機會，歡迎加入 [SvinSoyuz: Datapacks](https://discord.gg/YNsUzsxyu5)！\n這是從最初已棄用的 ZeroCaty 伺服器 \"SvinSoyuz\" 分支出來的伺服器。目前我們與該原始伺服器沒有任何關聯。\n\n[![SvinSoyuz](https://cdn.modrinth.com/data/cached_images/afb7cdcc943fceaa9f901c538ccfe15ea357f383.png)](https://discord.gg/YNsUzsxyu5)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "305e8a90d2821fa9",
+  "content": "# KISS – 保持物品栏整洁有序，简单易用\n\n轻量级物品栏整理模组，[物品栏整理](https://modrinth.com/mod/inventory-sorting) 的个人化分支。\n\n## 截图\n\n| 排序前 | 排序后 |\n|--------|--------|\n| ![排序前杂乱的物品栏](https://cdn.modrinth.com/data/FbHSPTyF/images/08380e05b921fe4c09b4785341fc3b0545358e07.png) | ![整洁有序的物品栏](https://cdn.modrinth.com/data/FbHSPTyF/images/4e10f256933a0a36cc401ac90269fc19d5a5b149.png) |\n\n## 配置\n\n使用 [Mod Menu](https://modrinth.com/mod/modmenu) 进行图形界面配置，或使用 `/kiss` 命令替代。\n\n## 用法\n\n你可以使用中键鼠标或 `R` 键对你正在查看的物品栏进行排序。这些按键绑定可以在  \n选项 → 控制 → 按键绑定中修改。你还可以配置该模组 **从不** 整理玩家物品栏，或者始终同时整理非玩家物品栏（例如你打开的箱子）和玩家物品栏。\n\n虽然从技术上说该模组仅需安装在服务端，但你应同时安装到服务端与客户端。如果你仅安装在服务端，原版客户端只能使用 `/kiss` 命令。由于 [Modrinth 存在已知问题](https://github.com/modrinth/knossos/issues/1612)，我已在客户端中标记该模组为 `Required`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

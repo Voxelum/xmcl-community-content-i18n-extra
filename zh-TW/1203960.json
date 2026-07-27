@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2f6d5feeb1cd5a2e",
+  "content": "<h1>創造真實感</h1>\n<h2>一款為 Create 模組增添多項功能的擴充套件，讓 Create 列車更加逼真。</h2>\n<p><strong>維基!!!!</strong> <a href=\"https://github.com/stacode123/CreateRealism/wiki\" target=\"_blank\" rel=\"nofollow\">https://github.com/stacode123/CreateRealism/wiki</a></p>\n<h4>功能特色：</h4>\n<h4>ETCS - 信號與軌道淨空檢查</h4>\n<p>當玩家手動駕駛列車時，本模組會提供一個疊加畫面，顯示列車前方的可用軌道、煞車曲線（提示何時開始減速）以及速度限制（需安裝 Create: Tramways 模組）<img src=\"https://cdn.modrinth.com/data/cached_images/d96cc5469b7b8035e1e116b6ea81f6e2e388c829_0.webp\" alt=\"帶有速度表和軌道狀態概覽的疊加畫面\"></p>\n<p><strong>使用 \"+\" 和 \"-\" 鍵來縮放軌道概覽畫面</strong></p>\n<h4>- 列車加速度取決於附掛的車廂數量</h4>\n<p>車廂越多，列車加速越慢。而機車（即帶有司機的車廂）越多，對加速度的影響就越小。</p>\n<h4>- 軌道速度與坡度概覽</h4>\n<p>在建造鐵軌時，您可以現在看到所建軌道的最高速度和坡度。這也包括以百分比表示的時刻表中的最高速度。建議使用 Create Tramways 暫時設定彎道和坡道的最高速度<img src=\"https://cdn.modrinth.com/data/cached_images/aea50e47fd0b3f987648e47ca77a0354487a585d.png\" alt=\"作為示例的速度和坡度資訊圖片\"></p>\n<p>此功能**不會**改變列車的實際運行速度，僅作為設定速度限制的輔助工具。請使用 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ftramways\" target=\"_blank\" rel=\"nofollow\">Create Tramways</a> 來設定速度限制。</p>\n<p>更多功能即將推出！..</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

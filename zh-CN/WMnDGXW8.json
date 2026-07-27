@@ -1,0 +1,6 @@
+{
+  "bodyHash": "803ef61027aa1ebd",
+  "content": "\n\n# 🍻 Brewin' And Chewin' Fly\n\n**Brewin' And Chewin' Fly** 是 Brewin' And Chewin' 的 Fabric 1.21.10+ 分支版本，已重建以兼容 **Create-Fly**，同时保留原版 `brewinandchewin` 的 mod id，以确保数据包、资源包、配方与世界兼容性。\n\n## ✨ 更新内容\n\n- 🍷 可直接从木桶中饮用\n- 🍽️ 重新平衡了饱食度和饱和度数值\n- 🧪 发酵罐可容纳任意液体\n- 🌡️ 储罐温度现在会逐渐升降\n- 🛢️ 新增大型桶\n- 💨 更真实的桶粒子效果，包括蒸汽和冷空气\n- 🔥 空桶可以被点燃\n- ♨️ 装有加热液体的桶会蒸发\n- 🍽️ 修复了杯垫相关问题，包括纹理损坏、物品堆叠以及缺失 3D 模型碰撞箱\n\n## 🔧 兼容性\n\n- 必需：Fabric API、Farmer's Delight Refabricated\n- 可选：Create-Fly、JEI、AppleSkin、Styled Chat",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

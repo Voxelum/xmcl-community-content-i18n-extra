@@ -1,0 +1,6 @@
+{
+  "bodyHash": "979672aaa0e76be2",
+  "content": "<p>SpectrumJEI 是 <a href=\"/mod/spectrum\">Spectrum</a> 的一个附加组件，用于在 <a href=\"/mod/jei\">Just Enough Items</a> 中查看配方。</p>\n<p>除了 Spectrum 提供的所有 REI/EMI 功能外，此模组还增加了： <br>&bull; 为不同等级的祭坛（Pedestal）设置独立分类<br>&bullet; 支持通过工艺平板（Crafting Tablets，1.19.2+）转移祭坛配方<br>&bull; 包含 FractalJEI，修复了部分物品未显示在 JEI 中的问题（1.20.1+）</p>\n<p>如需使用 <a href=\"/mod/emi\">EMI</a> 支持，请直接使用基础模组。</p>\n<p>本模组支持通过 <a href=\"/mod/connector\">Sinytra Connector</a> 加载，并需要安装 <a href=\"/mod/connector-extras\">Connector Extras</a>。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

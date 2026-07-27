@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b4ec18cd8495205e",
+  "content": "<p><span style=\"color:#e03e2d\">重要提示：</span>请确保在游戏设置中禁用“像素一致”选项。你可以在 修正 → 客户端 → 告示牌 下找到它。将其关闭，因为如果保持启用状态，所有告示牌都会以方块模型而非实体的形式渲染，这将强制使用无法被覆盖的原版纹理。此外，这还会导致来自 Farmer’s Delight 等模组的告示牌变得不可见，因此请务必关闭此选项。</p>\n<p>这个非官方兼容包确保 <a href=\"https://www.curseforge.com/minecraft/mc-mods/amendments\" target=\"_blank\" rel=\"nofollow\">Amendments</a> 模组中的纹理与出色的 <a href=\"https://www.curseforge.com/minecraft/texture-packs/excalibur\" target=\"_blank\" rel=\"nofollow\">Excalibur</a> 资源包无缝集成。</p>\n<p><strong>功能：</strong></p>\n<ul>\n<li>包含重新纹理化的墙灯笼、双层蛋糕（包括食用进度）、自定义悬挂告示牌模型、骷髅顶部的蜡烛等。</li>\n</ul>\n<p><strong>致谢：</strong></p>\n<ul>\n<li>Maffhew – <em>Excalibur</em> 的创作者</li>\n<li>MehVahdJukaar – <em>Amendments</em> 的创作者</li>\n<li><a href=\"https://www.curseforge.com/members/grandpappyjay/projects\" target=\"_blank\" rel=\"nofollow\">GrandPappyJay</a> – 修复了蛋糕模型及糕点师专家徽章</li>\n</ul>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fresourcepack%252famendments-excal-support\" target=\"_blank\" rel=\"nofollow\"><span style=\"color:#2dc26b\">Modrinth</span></a></p>\n<p><span style=\"color:#eccafa\">欢迎将此包用于任何整合包，只需正确署名即可！</span> 🏰</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

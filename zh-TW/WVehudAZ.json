@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dc1cbb41cacd86f6",
+  "content": "![模组展示](https://cdn.modrinth.com/data/WVehudAZ/images/864ba6a0eff3c9a4f4d09208821121067f655815.gif \"# Smart Block Placement\")\n\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)。\\\n[Mod Menu](https://modrinth.com/mod/modmenu) 和 [Cloth Config API](https://modrinth.com/mod/cloth-config) 为可选依赖。\n\n\n在原版 Minecraft 中，按住鼠标右键放置方块会因动画延迟而导致放置速度较慢。**智能方块放置**（Smart Block Placement）解决了这一问题。\\\n使用此模组，您不仅可以快速放置方块，还能通过消除不必要的延迟来简化交互操作。\n\n### **主要功能：**\n\n- **快速建造** – 以您点击的速度放置方块，绕过原版的放置延迟。非常适合快速建造和编辑。\n- **仅限创造模式** – 如果您希望仅在创造模式下使用此模组，请切换此选项，以确保在生存服务器上的公平游戏。\n- **可自定义使用延迟** – 控制与方块互动和使用物品（如拉杆、门、食物等）时的原版延迟。\n\n![预览](https://cdn.modrinth.com/data/WVehudAZ/images/582917d75ad9847b6fea24b4ddc716f525ffac26.gif)\n\n> **[警告]** 在多人服务器中，某些反作弊插件可能会将快速放置方块或减少的使用延迟标记为可疑行为。请谨慎使用并遵守服务器规则。\n\n> **附注：** 如果模组似乎未生效，请检查您的 **控制** 设置，确保已绑定“启用智能放置”按键。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

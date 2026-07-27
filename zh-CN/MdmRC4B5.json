@@ -1,6 +1,6 @@
 {
-  "bodyHash": "bK3VvxvSoA0=",
-  "content": "这个库旨在简化界面创建\n旨在替代SDM模组中的FTB Library\n\n## 功能特性\n- RGB/RGBA\n- 绘制三角形、方形、圆形等基本图形\n- 简化旋转、缩放和渲染优先级的交互\n- 在GUI上渲染物品、实体、~~方块~~\n- 允许你为元素添加动画的容器\n- 大量的小部件\n- 能够在区域内随机放置对象，包括位置、旋转和大小\n- 以及更多功能",
+  "bodyHash": "b343ac1546ce6fa9",
+  "content": "\n\n本库旨在简化界面的创建过程\n旨在替代 SDM 模组中的 FTB Library\n\n## 功能特性\n- RGB/RGBA\n- 绘制基础图元，如三角形、正方形、圆形\n- 简化对旋转、缩放和渲染优先级的处理\n- 在 GUI 上渲染物品、实体及 ~~方块~~\n- 支持元素动画的容器\n- 丰富的组件\n- 可在指定区域内以随机位置、旋转角度和尺寸放置对象\n- 以及更多",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

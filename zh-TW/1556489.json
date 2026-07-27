@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be204fd6be948369",
+  "content": "<p><strong>Quark × 最新動畫相容</strong></p>\n<p>此資源修訂包解決了在使用 Fresh Animations + FA 所有擴充套件時，Quark 變體動物（豬和牛）的紋理對齊問題。</p>\n<p><strong>問題：</strong> FA 所有擴充套件 v1.8+ 使用 64×64 紋理佈局針對豬和牛，而 Quark 的變體紋理是 64×32。這種不匹配導致紋理在 Quark 變體上顯示位置錯誤。</p>\n<p><strong>修復：</strong> 每個 Quark 變體（pig1–3, pig_shiny, cow1–4, cow_shiny）已被重新映射到 FA Extensions 預期的 64×64 格式。新的 UV 區域（耳朵、鼻子、獠牙、尾巴）填充了與變體主顏色相匹配的紋理，因此耳朵和細節能自然地與皮膚融合。</p>\n<p><strong>加載順序（最高優先級在頂部）：</strong></p>\n<ol>\n<li>FA 所有擴充套件</li>\n<li>Quark × FA Compat &larr; 此包</li>\n<li>最新動畫</li>\n<li>預設</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

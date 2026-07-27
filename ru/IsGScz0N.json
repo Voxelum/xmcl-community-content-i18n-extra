@@ -1,0 +1,6 @@
+{
+  "bodyHash": "375a73ba275887ba",
+  "content": "# Tianshu Libs\n\nTianshu Libs 是 Tianshu 系列 Minecraft 模组所需的依赖库。\n\n它本身并不会添加许多可见的功能，而是为其他 Tianshu 模组提供共享的基础支持，以实现本地 AI、语音相关功能、后台助手以及其他高级系统等功能。\n\n如果某个 Tianshu 模组提示需要安装 Tianshu Libs，请将其与该模组一起安装。\n\n## 它有什么作用？\n\nTianshu Libs 通过提供以下通用支持，帮助其他 Tianshu 模组正常运行：\n\n- 本地 AI 功能\n- 语音和音频相关功能\n- 后台任务处理\n- 共享配置\n- 原生运行时支持\n- Tianshu 模组间共用的系统\n\n你可以把它想象成 Tianshu 模组家族的“引擎室”。它的大部分工作都在后台进行。\n\n## 我需要这个模组吗？\n\n如果你安装了 Tianshu 系列的模组，就需要安装 Tianshu Libs。\n\n单独安装它通常没有实际用途，因为大多数功能是由使用此库的主要 Tianshu 模组提供的。\n\n## 本地 AI 支持\n\n部分 Tianshu 模组可以使用本地 AI 模型或本地语音处理功能。Tianshu Libs 为这些功能提供了必要的运行时支持。\n\n性能可能取决于你的电脑配置、Java 版本、可用内存、显卡、驱动程序以及你所使用的具体 Tianshu 模组。\n\n## 注意事项\n\n- 这是一个库模组（Library Mod）。\n- 它旨在与其他 Tianshu 模组配合安装。\n- 它本身可能不会添加方块、物品、生物或命令。\n- 具体功能可能因已安装的 Tianshu 模组不同而有所差异。\n\n## 许可证\n\nTianshu Libs 使用了开源组件。\n\n- JJML / llama.cpp 相关组件采用 LGPL 风格许可证，包括适用的 LGPL-2.1-or-later 许可证。\n- Sherpa / sherpa-onnx 相关组件采用 Apache License 2.0 许可证。\n- 其他包含的组件可能有各自的许可证。\n\n有关完整的许可证详情，请查看随附的许可证文件或项目页面。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

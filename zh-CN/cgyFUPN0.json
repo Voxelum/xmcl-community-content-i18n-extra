@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15d7325d6a82b987",
+  "content": "GalacticraftCompatibility (GCC) 是一款适用于 **1.12.2** 版本的 Minecraft Forge 模组，通过自动修改配置文件来解决 Galacticraft 插件之间的兼容性问题。\n\n首次安装 GCC 并启动游戏时，配置向导将引导您为插件组合选择兼容的选项。配置完成后，设置将被保存并在下次重启时生效。\n\n### 功能特性\n\n- **自动兼容性解决** — 修复 GalaxySpace、ExtraPlanets、AsmodeusCore、The Sol 及其他插件之间的冲突。\n- **首次启动配置向导** — 用户友好的图形界面会在首次启动时提示您选择首选的星系地图、空间站实现方式以及重复行星的处理方法。\n- **服务器-客户端配置验证** — 如果客户端配置与服务器不匹配，则阻止玩家加入，并提供详细的差异报告。\n- **重复行星管理** — 自动禁用 GalaxySpace 和 ExtraPlanets 之间重叠的行星，以防止 ID 冲突。\n- **星系地图选择** — 可在 Galacticraft、AsmodeusCore、ExtraPlanets 或 The Sol 的星系地图中进行选择。\n- **空间站选择** — 可在 GalaxySpace 或 ExtraPlanets 的空间站中进行选择。\n- **其他调整** — 提供 AsmodeusCore 着色器、GalaxySpace 的新主菜单以及高级火箭合成配方的可选控制选项。\n- **系外行星警告抑制** — 自动禁用 Interstellar: Exoplanets 的测试版构建警告。\n\n### 支持的模组\n\nGalaxySpace, AsmodeusCore, ExtraPlanets, MorePlanets 和 TheSol。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

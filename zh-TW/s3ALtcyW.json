@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5f3379b1fa51f312",
+  "content": "\n\n![LUNAR OPTIMIZED](https://cdn.modrinth.com/data/cached_images/60eb552e342fbaddcc3fd41f430fac6650b85e38_0.webp)\n\n# 正式推出 Lunar Optimized！\n\n**Lunar Optimized** 是一款輕量級、即插即用的 Fabric 模組包，專為最大化效能、提升幀率（FPS）並消除細微卡頓而設計。它修復了原生引擎的瓶頸，並優化資源分配，同時不影響經典原版視覺風格。開箱即用，內建必要的客戶端功能，且對任何伺服器而言都 100% 安全。告別掉幀與效能問題。\n\n---\n\n## 主要特色與強化\n\n* **圖形與著色器：** 全面重構渲染流程以大幅提升 FPS，提供進階影片設定與內建著色器支援。\n* **智慧剔除：** 停止渲染被牆壁遮擋的方塊與實體，大幅降低 GPU 負載與延遲尖峰。\n* **世界載入：** 多執行緒區塊管理，實現更快的世界生成與無卡頓探索體驗。\n* **記憶體與動態 FPS：** 修補 Java 記憶體洩漏以縮減 RAM 佔用，並在遊戲最小化時自動調降 FPS。\n\n---\n\n## 全場景適用\n\nLunar Optimized **100% 為客戶端模組**。它不會新增任何自訂方塊或物品，因此無論是單人世界、Minecraft Realm 還是公共多人伺服器，都能完全安心使用。\n\n---\n\n## 安裝與支援\n\n* **輕鬆設定：** 下載 `.mrpack` 檔案，並匯入您偏好的啟動器。\n* **取得協助：** 有疑問或需要設定輔助嗎？歡迎加入我們的 [Discord 伺服器](https://discord.gg/jBtNPxvGdq) 以獲得快速支援！\n\n<details>\n<summary>📦 模組列表</summary>\n\n* Sodium & Sodium Extras\n* Reese's Sodium Options\n* Lithium\n* Entity Culling & More Culling\n* ModernFix\n* C2ME (Chunk Management)\n* Dynamic FPS\n* Krypton\n* Bad Optimizations\n* Cloth Config\n* FerriteCore\n* ImmediatelyFast\n* Mod Menu\n* Fabric API\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

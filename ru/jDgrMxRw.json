@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1094f266b20deffa",
+  "content": "\n\n# Block Previewer: Reforged\nBlock Previewer: Reforged — это неофициальный порт для Forge на основе [Block Previewer 2.0.0](https://modrinth.com/mod/blocks-previewer), пожалуйста, поддержите оригинальную работу.\n\nЭто полностью клиентский мод, не взаимодействующий с сервером. Работает аналогично предпросмотру установки из Create, но для любого блока в Minecraft.\n\n### Предпросмотр блоков перед установкой!\n![2](https://raw.githubusercontent.com/ray22777/blockspreviewer/refs/heads/master/showcase1.webp)\n\n## Обязательная зависимость\n[Cloth Config API](https://modrinth.com/mod/cloth-config/version/11.1.136+forge)\n\n## Конфигурация\n![1](https://cdn.modrinth.com/data/cached_images/ab92ec3fa24c64ad849d7ed465a538a479191acb.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

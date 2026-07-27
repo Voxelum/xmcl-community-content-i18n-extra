@@ -1,6 +1,6 @@
 {
-  "bodyHash": "JwfYUEGzv8Y=",
-  "content": "<div align=\"center\">\n  \n<img alt=\"Exposure\" src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/main.png\" width=225/>\n<br><br>\n\n### Exposure Catalog 是 [Exposure](https://modrinth.com/mod/exposure) 的一個小型附加模組。\n\n<br>\n\n它新增了 `/exposure catalog` 指令，可以開啟一個圖形介面，用於檢視、匯出或刪除當前世界中儲存的所有曝光照片。\n\n它也提供 **「紋理」** 模式，可檢視所有已載入的紋理（來自 Minecraft、模組及資源包）。\n\n<img alt=\"Catalog\" src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/screen.png\" width=1000/>\n<br><br>\n使用此指令需要等級 3 權限（在單人遊戲中啟用作弊即可滿足此需求）。\n\n需要在用戶端與伺服器端同時安裝。\n\n</div>",
+  "bodyHash": "3a64c9a39ff37417",
+  "content": "\n\n<div align=\"center\">\n  \n<img alt=\"Exposure\" src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/main.png\" width=225/>\n<br><br>\n\n### Exposure Catalog 是 [Exposure](https://modrinth.com/mod/exposure) 的小型擴充模組。\n\n<br>\n\n它新增了 `/exposure catalog` 指令，開啟圖形介面後可瀏覽、匯出或刪除當前世界中儲存的所有曝光記錄。\n\n它還具備「材質」模式，可查看所有已載入的材質（來自 Minecraft、模組與資源包）。\n\n<img alt=\"Catalog\" src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/screen.png\" width=1000/>\n<br><br>\n此指令需要權限等級 3（單人遊戲中啟用作弊功能即可滿足）。 \n\n需同時安裝於客戶端與伺服器。\n\n</div>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

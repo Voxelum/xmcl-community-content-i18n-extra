@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f72dd2f133bdf370",
+  "content": "# Sophisticated Backpacks InventoryWeight\n\n为 **Sophisticated Backpacks（非官方 Fabric 移植版）** 提供准确的 **MT Inventory Weight** 支持。\n\nMT Inventory Weight 自带一个通用的背包计算器，它读取容器 NBT 数据。然而，**Sophisticated Backpacks** 会为每个背包分配一个 UUID，并将其真实内容存储在世界的 `BackpackStorage`（持久化状态）中，而并非总是存储在物品 NBT 里。因此，通用的 NBT 读取方式往往会低估或错误计算 Sophisticated Backpacks 的重量。此插件通过调用 Sophisticated Backpacks API 读取实际内容来解决这一问题。\n\n该插件注册了一个**物品重量提供者**（通过 `inventoryweight` 入口点），优先级为 **8500**——高于内置的通用 `backpacks` 提供者（8000）。这样，SB 背包将由这个更准确的提供者处理，而其他物品则回退到默认行为。\n\n为了读取内容，它使用了 SB 的包装 API。这会自动从 `BackpackStorage` 中解析基于 UUID 的内容，因此装备、手持和存储的背包都能被正确称重。\n\n## 重量模型\n\n与内置的背包模型匹配：\n\n```\neffectiveWeight = emptyBackpackWeight + (contentsWeight / 2)\n```\n\n- `contentsWeight` 是通过递归遍历 Inventory Weight 自身的查找逻辑（`context.nested()`）计算得出的，因此数据包权重、嵌套容器以及其他插件的影响都会生效。\n- 结果的基础重量会携带完整的（未除以二的）内容重量用于显示。\n\n## 注意事项\n\n- 如果未安装 Sophisticated Backpacks，该提供者将处于非活动状态（并记录警告），Inventory Weight 会使用其默认行为。\n- 在递归时使用了 `nested()`，以避免因嵌套背包导致的深度失控。\n- 空背包的基础重量是一个常量（`SophisticatedBackpacksInventoryWeight#EMPTY_BACKPACK_WEIGHT`）；如果你希望用户可配置，请将其接入 fzzy_config。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

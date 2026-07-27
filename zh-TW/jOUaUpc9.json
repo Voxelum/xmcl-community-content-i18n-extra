@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2fdb915d24c9e68c",
+  "content": "# 加入动作\n\n**加入动作** 是一个轻量级的 Fabric 客户端模组，当您加入特定的多人游戏服务器时，它会自动运行聊天命令。\n\n该模组旨在简单、可配置，并且可以在多个服务器之间安全使用。\n\n---\n\n## ✨ 功能\n\n- 在加入服务器时自动运行命令\n- 支持**最多 4 个服务器**，每个服务器拥有独立的命令\n- 通过**模组菜单 (Mod Menu)** 轻松配置\n- **仅在加入时**运行一次命令\n- 仅限客户端\n\n---\n\n## 📦 要求\n\n- **Minecraft:** 1.21.10+\n- **Fabric Loader:** 0.18.4+\n- **Fabric API**\n\n### 可选（推荐）\n- **Mod Menu** – 用于访问配置界面\n- **Cloth Config** – 使用 Mod Menu 时需要此模组\n\n> 如果未安装 Mod Menu 或 Cloth Config，模组仍将通过配置文件正常工作。\n\n---\n\n## ⚙️ 配置\n\n### 游戏内（推荐）\n\n如果已安装 **Mod Menu** 和 **Cloth Config**：\n\n1. 打开 **Mod Menu**\n2. 点击 **Join Actions**\n3. 配置最多 4 对服务器/命令：\n    - 服务器 1 → 命令 1\n    - 服务器 2 → 命令 2\n    - 依此类推\n\n---\n\n## 📋 许可证\n本项目根据 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt) 授权。\n\n---\n\n## 🛠️ 贡献\n\n欢迎贡献！若要参与贡献：\n1. Fork 本仓库。\n2. 创建一个新功能分支。\n3. 提交一个包含更改说明的拉取请求。\n\n---\n\n## 感谢您使用 Join Actions",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RtB6YAVY7HI=",
-  "content": "Как мы знаем, в Minecraft 1.20+ Mojang изменил спрайты интерфейса, поэтому старые пакеты текстур обычно не работают с ним.  \nТогда я создал пакет текстур Soartex Fanver GUI.\n\nИспользуйте с оригинальными пакетами:\nhttps://www.curseforge.com/minecraft/texture-packs/soartex-fanver-vanilla\nhttps://www.curseforge.com/minecraft/texture-packs/grove-vanilla\n\nСовместимо с интерфейсами новых версий. Сообщайте о любых проблемах.\nТолько для версии 1.21.8 — может работать и на других версиях, но возможны проблемы.\nОтзывы приветствуются. Pull-реквесты принимаются:\nhttps://github.com/Muruaaki/SoartexFanverGUI",
+  "bodyHash": "dec7117f582b842e",
+  "content": "Как известно, в Minecraft 1.20+ Mojang изменила спрайты пользовательского интерфейса,\nпоэтому интерфейсы из старых наборов текстур обычно не работают с ними.\nПоэтому я создал набор текстур Soartex Fanver GUI.\n\nИспользуйте вместе с оригинальными текстурами:\nhttps://www.curseforge.com/minecraft/texture-packs/soartex-fanver-vanilla\nhttps://www.curseforge.com/minecraft/texture-packs/grove-vanilla\n\nСовместимо с интерфейсами новых версий. Сообщайте о любых проблемах.\nТолько для версии 1.21.8 — может работать на других версиях, но возможны проблемы.\nОтзывы приветствуются. Принимаются pull requests:\nhttps://github.com/Muruaaki/SoartexFanverGUI",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

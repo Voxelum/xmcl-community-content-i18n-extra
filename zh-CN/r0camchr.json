@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bb8c9d1de54b6498",
+  "content": "# 爆炸增强\n<br>\n\n**爆炸增强：重铸版**是[Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement)的非官方Forge移植版本。\n\n这是一个简单的装饰性模组，在爆炸发生时添加许多新的粒子效果，你可以根据需要启用或禁用其中任意一种。你也可以通过配置文件完全启用或禁用整个模组。\n\n此外，还有一个特殊的爆炸水下效果。你可以设置在水下爆炸时产生大量气泡，以获得令人满意的视觉效果！\n\n所有错误报告请发给我，你可以加入我们的[discord服务器](https://discord.com/invite/Pxj3gdhGj8)。功能请求请联系[Superkat32](https://modrinth.com/mod/explosive-enhancement)。\n\n\n<br>\n## 配置\n \n\n你可以通过模组的配置文件来编辑模组，配置文件位于 _config/explosiveenhancement.toml_\n\n \n<br>\n \n\n## 其他信息\n \n \n该模组有两个版本。**仅客户端**，仅在客户端上需要。**客户端和服务器**，在两者上都需安装（如果与其他仅客户端模组存在不兼容性问题，请使用此版本）。如果你不想看到自定义爆炸效果，可以在模组的配置文件中禁用它。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

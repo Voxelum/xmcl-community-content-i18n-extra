@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fabad3c9e5637b96",
+  "content": "\n\n<h1 style=\"text-align:center\"><span style=\"color:#169179\"><strong>工作原理：</strong></span></h1>\n<h2><span style=\"color:#2dc26b\">这是一个轻量级的科技模组。当你在物品栏中切换到枪械时，它会自动切换到第一人称视角。你可以在客户端使用命令来切换此功能。</span></h2>\n<h1 style=\"text-align:center\"><span style=\"color:#169179\"><strong>命令</strong>：</span></h1>\n<p><span style=\"color:#2dc26b\">/tf - 查看当前状态（默认操作）<br><br>/tf toggle - 开启或关闭该功能<br><br>/tf status - 查看功能状态<br><br>/tf help - 查看帮助信息<br></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

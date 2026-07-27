@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/xUJC5Mq4NE=",
-  "content": "又一個新增地獄合金馬鎧的模組，外觀與普通地獄合金裝備相似。\n\n預設情況下，它會以 8 的權重出現在堡壘遺蹟藏寶室的寶箱中。此功能可以停用，改為使用資料包，當然您也可以依需求調整權重。\n\nFabric 版本需要 [Fabric API](https://modrinth.com/mod/fabric-api)。可選地，您可以下載 [Cloth Config API](https://modrinth.com/mod/cloth-config) 來設定這個模組。",
+  "bodyHash": "1062d510e400c021",
+  "content": "又一个添加了下界合金马铠的模组，其外观与普通下界合金套装相似。\n\n默认情况下，它会以权重 8 出现在堡垒遗迹宝箱室的战利品中。当然，您可以选择禁用此功能并使用数据包替代，也可以根据需要调整权重。\n\nFabric 版本需要 [Fabric API](https://modrinth.com/mod/fabric-api)。可选地，您可以下载 [Cloth Config API](https://modrinth.com/mod/cloth-config) 来配置该模组。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6fe80de962d66dae",
+  "content": "# 完美截图\n\n![画廊概览](https://cdn.modrinth.com/data/cached_images/672eda31238617ab873a429367f8ada75a774794.png)\n\n\n## 最简洁的截图模组\n你是否希望方便地查看截图，却不想深入游戏文件目录？\n如果是这样：隆重介绍 Picture Perfect——一款让你按照**自己**的方式查看、分享、组织和管理的截图工具。该画廊高度可定制，你可以自由决定是否启用某项功能。\n\n## 当前所有功能：\n- 图片列表\n- 放大查看图片\n- 复制到剪贴板\n- 重命名图片\n- 删除图片\n- 在文件资源管理器中打开\n- 元数据编辑器/查看器\n- 设置选项：\n  - 显示的列数\n  - 图片之间的间距（水平和垂直方向）\n  - 滚动速度倍率\n  - 排序方式\n  - 自动附加默认元数据字段<br>\n\n## 计划中的功能：\n（将按以下顺序添加）\n- 相册：可将多张图片一起查看的集合\n- 将图片设置为标题背景\n- 向游戏中添加外部图片\n\n## 更新说明\n本模组目前处于测试阶段，部分功能可能尚未完善或存在不稳定情况，但主要功能已基本实现。我们将频繁发布包含错误修复和新功能的更新。如有发现错误，请在此处提交 [Bug 报告](https://github.com/ItsNukea/Picture-Perfect/issues)\n\n## 依赖要求：\n缺少以下模组时，本模组将无法正常运行：\n- [Cloth Config API](https://modrinth.com/mod/cloth-config)\n- [Mod Menu](https://modrinth.com/mod/modmenu)\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n\n## 致谢：\n- Nukea（本模组的独立开发者）\n- PyroxIshere（负责拍摄缩略图的摄影师）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

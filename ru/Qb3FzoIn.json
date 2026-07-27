@@ -1,6 +1,6 @@
 {
-  "bodyHash": "E8Tj5qaIyoI=",
-  "content": "Взаимодействие через команду:\n/imagebuilder ...\n\nПомощь:\n/imagebuilder help\n\nСоздать изображение:\n/imagebuilder <дробь>/<ширина;высота> <режим> <полный/все> <путь к файлу>\n\nНапример:\n\n/imagebuilder 0.5 VERTICAL_NORTH full \"C:/Output/kitty.jpg\" - Создаёт масштабированное вертикальное изображение файла \"C:/Output/kitty.jpg\" с коэффициентом 0,5, состоящее из полных блоков\n\nВидео: [Image Builder](https://www.youtube.com/watch?v=m-adVfOqGcQ&t=85s&ab_channel=C1cDez)",
+  "bodyHash": "fce889862681c7e9",
+  "content": "\n\nВзаимодействие через команду:\n/imagebuilder ...\n\nСправка:\n/imagebuilder help\n\nПостроение изображения:\n/imagebuilder <fraction>/<width;height> <mode> <full/every> <\"path to file\">\n\nнапример:\n\n/imagebuilder 0.5 VERTICAL_NORTH full \"C:/Output/kitty.jpg\"   -   Создаёт вертикальное изображение с масштабом 0.5 из файла \"C:/Output/kitty.jpg\", состоящее из полных блоков\n\nВидео: [Image Builder](https://www.youtube.com/watch?v=m-adVfOqGcQ&t=85s&ab_channel=C1cDez)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

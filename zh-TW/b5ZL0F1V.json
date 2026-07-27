@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4691dab283a70bd0",
+  "content": "\n\n日文\nCraftsman's Bows（分支版）\n\n本模組為 Chuzume 氏所製作之 Craftsman's Bows 的分支版本，並新增了自訂附魔。\n弓類武器可使用弓之附魔，十字弩則使用十字弩之附魔。\n\n新增內容\n\n5 種武器\n\n短弓\n\n長弓\n\n散彈十字弩\n\n連發十字弩\n\n連射弩\n\n1 種附魔\n\n返回 (I～V)\n\n與原版差異\n\n基礎武器機制與原模組相同，但有以下差異：\n\n短弓：充能期間無法奔跑。\n\n長弓：瞄準時手持物品也會放大顯示。\n\n連發十字弩：瞄準時手持物品也會放大顯示。\n\n散彈十字弩：無變更。\n\n連射弩：無變更。\n\n返回附魔\n\n未擊中生物而撞擊方塊的箭矢，會依照附魔等級的機率返回物品欄。\n\n| 等級 | 機率 |\n| --- | --- |\n| I | 10% |\n| II | 30% |\n| III | 50% |\n| IV | 70% |\n| V | 100% |\n\n致謝\n\n使用音效\n\nerdie 資料夾內音效：由 Erdie 提供 https://freesound.org/people/Erdie/\n\ndungeons 資料夾內音效：來自 Minecraft Dungeons（Mojang）\n\n原始模組\n\nCraftsman's Bows - CurseForge\n\n英文\nCraftsman's Bows（分支版）\n\n本模組為 Chuzume 所製作之 Craftsman's Bows 的分支版本，並新增了自訂附魔。\n弓類武器可使用弓之附魔，十字弩則使用十字弩之附魔。\n\n新增內容\n\n5 種武器\n\n短弓\n\n長弓\n\n散彈十字弩\n\n連發十字弩\n\n連射弩\n\n1 種附魔\n\n返回 (I～V)\n\n與原版差異\n\n基礎武器機制與原版相同，但有以下差異：\n\n短弓：充能期間無法奔跑。\n\n長弓：瞄準時手持物品也會放大顯示。\n\n連發十字弩：瞄準時手持物品也會放大顯示。\n\n散彈十字弩：無變更。\n\n連射弩：無變更。\n\n返回附魔\n\n未擊中生物而撞擊方塊的箭矢，會依照附魔等級的機率返回物品欄。機率取決於附魔等級：\n\n| 等級 | 機率 |\n| --- | --- |\n| I | 10% |\n| II | 30% |\n| III | 50% |\n| IV | 70% |\n| V | 100% |\n\n致謝\n\n使用素材\n\nerdie 資料夾內音效：由 Erdie 提供 https://freesound.org/people/Erdie/\n\ndungeons 資料夾內音效：來自 Mojang 之 Minecraft Dungeons\n\n原始模組\n\nCraftsman's Bows - CurseForge",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

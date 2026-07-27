@@ -1,6 +1,6 @@
 {
-  "bodyHash": "U1guzrUCfXw=",
-  "content": "<p>為Minecraft添加生命值傷害指示條。</p><p>Provi生命條模組同時提供目標生物的HUD生命條顯示，以及所有生物的世界實體生命條。兩者的行為模式均可透過設定選單進行深度自定義。</p><p><img src=\"https://media.forgecdn.net/attachments/767/517/default.png\" alt=\"圖片\"></p><p>HUD生命條會根據目標生物的實體群組動態改變外觀。其他模組可透過本模組的API接入點，為自訂實體群組甚至特定生物添加專屬HUD肖像與圖標。<br>\n實際範例請參閱圖庫。</p><h2>生物生命系統</h2><p>連乘騎狀態的生物也會被偵測。當觀察具有坐騎的生物時，將呈現雙重生命條顯示。坐騎生命值計算甚至支援生物堆疊判定。</p><p><img src=\"https://media.forgecdn.net/attachments/767/521/health-bars.png\" alt=\"圖片\"></p><h2>傷害與治療粒子效果</h2><p>本模組提供完全客戶端化的可配置傷害/治療粒子系統。</p><p>粒子效果絕不會遮擋視野，僅會沿生物體兩側（相對視角方向）生成。\n<img src=\"https://media.forgecdn.net/attachments/771/480/gravity-particles.gif\" alt=\"圖片\"></p>",
+  "bodyHash": "f6bec5bcaf4b4b40",
+  "content": "<p>為 Minecraft 加入生命值條傷害指示器。</p>\n<p>Provi's Health Bars 同時為你的當前目標提供 HUD 生命值條，以及為所有生物提供世界內的實時生命值條。兩者行為均可在設置菜單中進行廣泛自定義。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/767/517/default.png\" alt=\"Image\"></p>\n<p>HUD 生命值條的外觀會根據你鎖定的生物所屬的「實體組（Entity Group）」而改變。其他模組可以使用此模組提供的 API 入口點，為自定義的實體組甚至特定生物添加額外的 HUD 頭像和圖標。<br>\n請參閱畫廊以獲取示例。</p>\n<h2>生物生命值</h2>\n<p>系統還會考慮騎乘中的生物。當你檢視一隻有騎乘者的生物時，將渲染雙層生命值條。騎乘者的生命值甚至會計算生物疊加的情況。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/767/521/health-bars.png\" alt=\"Image\"></p>\n<h2>傷害與治療粒子效果</h2>\n<p>本模組提供了完全客戶端運行且可配置的傷害與治療粒子效果。</p>\n<p>粒子效果絕不會阻擋你的視野，它們僅會在生物相對於你視角的左側或右側生成。\n<img src=\"https://media.forgecdn.net/attachments/771/480/gravity-particles.gif\" alt=\"Image\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

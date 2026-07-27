@@ -1,6 +1,6 @@
 {
-  "bodyHash": "QLuKSdhLt8g=",
-  "content": "<p>厭倦了等待 /locate biome 或 Nature Compass 完成掃描，甚至導致伺服器崩潰？</p><p><strong>Biome Spy</strong> 重寫了生態域搜尋演算法，將生態域定位時間減少 <strong>高達 97%</strong>，並將結構定位時間減少 <strong>高達 90%</strong>。</p><p>此模組假設世界生成過程中使用的五個噪聲函數是 <strong>高度無關的</strong>，從而大幅減少搜尋計算量，同時不影響準確性（仍能搜尋洞穴生態域）。</p><p>✅ 支援 <strong>TerraBlender</strong> 和 <strong>AlexsCaves</strong> 生態域<br>\n🧭 已在 <strong>All The Mods 10</strong> 上測試並驗證<br>\n⚡ 無需更改世界生成，無需配置——純粹的速度提升。</p>",
+  "bodyHash": "928e6d17244088c8",
+  "content": "<p>受够了等待 /locate biome 或自然罗盘完成扫描，甚至导致服务器崩溃？</p>\n<p><strong>Biome Spy（生物群系间谍）</strong>重写了生物群系搜索算法，将生物群系定位时间减少了<strong>高达 97%</strong>，并将结构定位时间减少了<strong>高达 90%</strong></p>\n<p>本模组假设世界生成过程中使用的五个噪声函数是<strong>与高度无关的</strong>，从而可以在不影响准确率的前提下大幅减少搜索计算量（仍然能够搜索洞穴生物群系）。</p>\n<p>✅ 支持 <strong>TerraBlender</strong> 和 <strong>AlexsCaves</strong> 的生物群系<br>\n🧭 已在 <strong>All The Mods 10</strong> 中测试并验证<br>\n⚡ 无需更改世界生成，无需配置——纯速度的提升。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

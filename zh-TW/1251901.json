@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d4fe272b3766bb9",
+  "content": "<p>修復了 [MC-220390](<a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC%252fissues%252fMC-220390\" target=\"_blank\" rel=\"nofollow\">https://bugs.mojang.com/browse/MC/issues/MC-220390</a>) 中的一個錯誤：當你在游泳並按住疾跑鍵時擊中實體，伺服器端與客戶端的碰撞箱會不一致。這會導致奇怪的行為，例如客戶端認為自己正在游泳，但伺服器端則不這麼認為。因此，當你嘗試進入 1x1 大小的方塊空間並遇到此錯誤時，你會出現 glitch 現象，直到你停止游泳並重新開始游泳為止。</p>\n<p>這個錯誤在紀念碑地圖中讓我感到非常困擾，所以我修復了它。</p>\n<p>&nbsp;</p>\n<p>加入我們的 <a href=\"https://discord.gg/p6ShJPq98d\" rel=\"nofollow\">Discord！</a> 你可以尋求幫助、請求模組、提出建議、聊天閒聊，或索取我製作過的任何模組的原始碼（如果我還保留著的話）。</p>\n<p>或者，如果你心情慷慨，可以捐贈給我的 <a href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fbikerboys\" rel=\"nofollow\">Ko-fi</a> 支持我！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

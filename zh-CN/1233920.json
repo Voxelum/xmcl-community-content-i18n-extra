@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f7f6d32536a61bbe",
+  "content": "\n\n<h1>《寂静》</h1>\n<p>《寂静》是一款完全悄无声息的感染类模组。</p>\n<p>&nbsp;</p>\n<h2>游戏玩法：</h2>\n<p>进入世界时，你会获得一个“开始感染”按钮。<em>右键点击</em>它即可在你当前位置启动感染。然后，<strong>赶紧跑</strong>。</p>\n<p>接触到静寂泥土的生物会被转化为<strong>惊扰者</strong>，而惊扰者又会将更多生物转化。当你击杀<strong>惊扰者</strong>时，它会留下一团危险的<strong>感染云</strong>，可继续转化其他生物。</p>\n<p>每隔一段时间，<strong>肃静者</strong>会生成。这些骷髅生物<em>非常</em>危险，因为它们杀得越多就越强大。请尽可能<strong>快速地</strong>将它们击杀。</p>\n<p>你可以使用铁和钻石合成<strong>声波工具</strong>来对抗感染。</p>\n<h2>游戏规则：</h2>\n<p>感染机制完全可自定义，你可以切换以下选项：</p>\n<p><strong>DoBulbGrowth</strong>：决定是否会生成被称为“菌柱”的小柱子。</p>\n<p><strong>DoDisquieterTrail</strong>：决定惊扰者在移动时是否会偶尔放置静寂泥土。</p>\n<p><strong>DoSilencerSpawning</strong>：决定是否允许肃静者生成。</p>\n<p><strong>DoForcefieldParticles</strong>：决定声波力场是否会产生粒子效果。（若遇到卡顿请关闭）</p>\n<p><strong>InfectionSpeed</strong>：感染扩散的速度。（默认值：100，重新登录后会重置）</p>\n<h1>尽情享受本模组！</h1>\n<p><a href=\"https://www.curseforge.com/minecraft/texture-packs/x512-the-silence-infection-textures\" target=\"_blank\" rel=\"nofollow\">点击此处获取官方 x512 材质包！</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "CmOH/40SJDE=",
-  "content": "<p>Этот текстурный пакет изменяет внешний вид Призраков на Летающих Кобольдов.</p><p>Для работы этого текстурного пакета требуется OptiFine. А если вы используете Fabric или Quilt, вам также понадобятся моды ESF (Features of Entity Sounds), ETF (Features of Entity Textures) и EMF (Features of Entity Models). Работает как на версиях выше, так и ниже 1.21.</p>",
+  "bodyHash": "b0f107cdd397a9dc",
+  "content": "<p>Этот пакет текстур меняет внешний вид фантомов на летающих кобольд.</p>\n<p>Для работы этого пакета текстур требуется OptiFine. Если вы используете Fabric или Quilt, необходимы моды ESF (Entity Sound Features), ETF (Entity Texture Features) и EMF (Entity Model Features). Работает на версиях выше и ниже 1.21.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

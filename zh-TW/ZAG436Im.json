@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b91dc8ea6d575a95",
+  "content": "# 不要帶剪刀奔跑\n\n還記得在學校被教導「不要帶剪刀奔跑」，因為那很「危險」嗎？你是否也有一種衝動想要嘗試一下，看看會發生什麼事？如果你這麼做了，那你將付出代價。在這個模組中，使用剪刀（剪切工具）奔跑會傷害你；如果你手持剪刀並承受摔落傷害，也會受到影響。\n\n創造這個模組是因為那句諺語「不要帶剪刀奔跑」——而在 Minecraft 裡，剪刀基本上就是剪刀了！感謝我的好友提供這個靈感！\n\n## 功能\n\n- 奔馳時造成傷害\n- 可選：游泳時造成傷害\n- 承受摔落傷害時會受傷\n- 可自訂死亡訊息\n- 包含傷害數值、傷害機率、訊息等選項的設定檔案\n- 自 1.20 版本起同時支援 Forge 與 Fabric！\n\n## 使用方式\n\n只需在伺服器上安裝此模組即可！客戶端不需要安裝。\n\n### 需求\n\n除模組載入器外無任何其他依賴項。從 1.20 版本開始也支援 Fabric！\n\n## 支援\n\n可透過我的 [discord 伺服器](https://discord.gg/ydGK5jYV6t) 獲得支援，或於 GitHub 仓库 [這裡](https://github.com/JustDoom/Dont-Run-With-Scissors/issues) 回報任何問題。\n\n## 如果你需要新伺服器，請查看我們的合作伙伴 [lagless.gg](https://lagless.gg/aff/dinonuggies)\n[![Lagless](https://i.imgur.com/QuVNw6X.png)](https://lagless.gg/aff/dinonuggies)\n輸入代碼 **Dinonuggies** 可享八折優惠！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

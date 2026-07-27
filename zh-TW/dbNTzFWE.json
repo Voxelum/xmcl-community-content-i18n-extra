@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ba1af00870cd49e6",
+  "content": "<center>\n  \n<p align=\"center\">\n  <img src=\"https://cdn.modrinth.com/data/cached_images/3c48c301063592f759e9a11a0042576c6ef6de9b.gif\" alt=\"Block List\" width=\"216\" height=\"216\">\n</p>\n\n# 日本風格道具\n\n一款將日本街道道具引入你世界的 Minecraft 模組，為城市景觀增添真實感與細節。從交通錐和自行車護欄到交通燈和斑馬線，本模組引入了各種常見於日本街道的道具。無論你是在建造繁華的城市還是寧靜的郊區社區，這些道具都能提升環境的真實性。\n\n</center>\n\n---\n\n## 版本 0.0.3.3 — Fabric/Quilt 更新\n\n請注意，在 Minecraft 版本 1.20、1.20.2、1.20.3 和 1.20.4 中運行時可能會出現一些問題。此外，某些模組和加載器之間可能存在兼容性問題。若要避免問題，建議在遊戲版本 **1.20.1** 上運行。\n\n---\n\n## 物品\n\n- 交通錐\n- 自行車護欄\n- 交通燈\n- 斑馬線\n- 垂直杆\n- 水平杆\n- 彎曲杆\n- 「自行車專用」標誌\n- 光滑石磚\n- 減速帶\n\n---\n\n## 更新日誌\n\n**版本 0.0.1**\n- 新增光滑石磚 (`smooth_stone_brick.json`)\n- 新增減速帶 (`speed_bump.json`)\n- 下一版本：0.0.1-alpha\n\n---\n\n## 致謝\n\n- 道具所使用的圖像來自 [Complementary Shaders](https://www.complementary.dev/)\n- 本作品採用 **知識共享署名-非商業性使用-禁止演繹 4.0 國際許可證** 授權\n\n---\n\n## 備註\n\n- 正式版本發佈於 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/japan-props)\n- Alpha 版和測試版發佈於 Modrinth\n- 1.12.2 版本的開發目前延遲中 — 敬請等待",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

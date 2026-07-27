@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6f86c03946defca5",
+  "content": "# SpoutingFix\nИсправляет проблему с реализацией REI Create Fabric, которая вызывает ошибку, когда последовательная сборка имеет несколько шагов жидкости.\n\nЭто только временный мод, [соответствующий PR](https://github.com/Fabricators-of-Create/Create/pull/1490) уже сливливается в код Create.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

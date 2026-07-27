@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7dac78a67c5e7589",
+  "content": "\n\n*注意：此模組仍處於早期開發階段，所有內容都可能隨時變更！*\n\n本模組引入了可自訂的航點，並顯示在遊戲內的 HUD 上。\n航點可由玩家建立與編輯，也能透過伺服器端程式設計方式進行管理。\n\n![](https://github.com/user-attachments/assets/a771bc9d-3f3f-464d-81f4-38743e0de0aa)\n\n![](https://github.com/user-attachments/assets/7715347f-64e1-4816-906f-ff5b18d34b44)\n\n![](https://github.com/user-attachments/assets/0b9b1e8d-7702-4dba-93d5-976412d9df11)\n\n## 功能特色\n\n- 遊戲內羅盤 HUD 顯示航點\n- 航點可設定顏色或圖示\n- 玩家可在遊戲內建立與編輯航點，亦可透過程式設計方式操作\n- 航點資料儲存於伺服器端\n- 可透過 API 新增、編輯、刪除航點，或將其設為唯讀\n- 航點會顯示在遊戲內的 HUD 上\n- 航點可隱藏\n- 完全開源",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

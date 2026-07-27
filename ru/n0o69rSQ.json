@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cb33e38ba1e12f28",
+  "content": "![Демо](https://raw.githubusercontent.com/Mephodio/SophisticatedInjections/refs/heads/master/media/demo.gif)\n\nМод-добавление к [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks), который добавляет апгрейд для быстрого применения зелий из резервуаров.\n\n* Наливайте зелья прямо из бутылок в резервуар и заполняйте зельем резервуар из бутылок\n* Применяйте зелье из резервуара нажатием кнопки в интерфейсе рюкзака\n* Применяйте зелье в игре нажатием горячей клавиши активации апгрейда\n\nВ настоящее время, **требуется [Create](https://modrinth.com/mod/create)**, так как мод использует жидкости зелий из Create.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

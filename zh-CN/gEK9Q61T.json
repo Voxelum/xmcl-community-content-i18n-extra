@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2926a9776e1c8c8b",
+  "content": "# 简介\n这是一个专为 MTR 模组设计的优化整合包。根据我的测试，在低端电脑上进行标准地铁建设（车站长度为 150 米）时，该整合包能保持稳定的 40 FPS 帧率；即使在列车高频发车期间，也能维持 37 FPS 以上的帧率。与原版相比，性能提升了近 40%。注意：高端设备将获得更佳的优化效果。\n> ~~实际上，这个整合包可以达到约 100 FPS（并没有那么糟糕）。~~\n# 反馈\n- BUG 报告：cfgxdry@outlook.com\n- 建议：cfgxdry@126.com\n# 附件\n- [天津地铁](https://modrinth.com/mod/tianjin-metro)\n- [MTR 伦敦地铁扩展包](https://modrinth.com/mod/the-tube)\n- [Joban 客户端模组](https://modrinth.com/mod/jcm)\n- [车站装饰](https://modrinth.com/mod/station-decoration)\n- [密山城市建设](https://modrinth.com/mod/mishang-urban-construction/versions)（部分版本有）\n- 以及更多（[MTR4.0.2]1.9.0 及以上版本）\n\n# 更新公告\n自 2025 年 7 月 23 日停更以来，该整合包现已再次更新。其他版本将陆续推出，并将增加对 Forge 版本的支持（Forge 用户请等待 [MTR4.0.2] 优化版 1.9.0 更新后再下载。\n\n# 兼容性\n- 本整合包仅适用于客户端。\n- 本整合包优先更新 1.20.1 版本。很抱歉未能及时适配其他版本。\n\n# [前往 Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway)\n- 方便了我自己，也方便了你。\n- 好消息！MTR 4.0.0 现已发布！1.20.1 Fabric 版本也同步更新了！请放心——其他版本也将很快跟进更新！\n### 我的服务器链接：```lrt.xkh2029.dpdns.org:30175```\n> 您可以访问此服务器以测试整合包的性能（请根据 MOTA 上的整合包版本加入该服务器）。\n## *我的英语不太好，如果翻译中有语法错误，感谢您的理解。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

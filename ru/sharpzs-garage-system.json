@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a4ccc262b2da3f9",
+  "content": "\n\nПросто мод, добавляющий систему гаражей в Immersive Vehicles.\n\n**[IMMERSIVE VEHICLES ОБЯЗАТЕЛЬНА](https://modrinth.com/mod/immersive-vehicles)**\n\n**Этот мод протестирован на 1.20.1 с [KMW](https://www.curseforge.com/minecraft/mc-mods/kaminari-motor-works)**\n\n**Особенности:**\n- Хранение транспорта в гаражах\n- Призыв транспорта с помощью спавн-блока\n- Система владения транспортом\n- Система «Технического сертификата» (ключа от автомобиля)\n\n**Команды:** \n- /garage list — отображает список ваших автомобилей, хранящихся в гараже\n- /garage claim — выдаёт вам сертификат на автомобиль\n- /garage spawn [номер_слота] — призывает конкретный автомобиль\n- /garage store — помещает ваш автомобиль в гараж\n- /give [ваше_имя] ivgarage:garage_spawn_pad\n- /give [ваше_имя] ivgarage:garage_terminal\n\n**ПОМНИТЕ, ЧТО ЭТОТ ПРОЕКТ РАЗРАБАТЫВАЕТСЯ ОДНИМ ЧЕЛОВЕКОМ**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

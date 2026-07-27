@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d8d475fe8241205b",
+  "content": "<p>本模组将大多数附魔的默认最高等级设置为10。同时解锁经验修补、灵魂疾行和迅捷潜行。<br /><br />包括效率、火焰附加、冰霜行者、穿刺、击退、掠夺、忠诚、钓饵、穿透、力量、保护、呼吸、激流、锋利、灵魂疾行、横扫之刃、迅捷潜行、荆棘和无限。<br /><br />最高等级可在配置文件中修改。<br />\n<p>&nbsp;</p>\n<p>Fabric 版本需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\">Fabric API</a>！</p>\n<p><br />NeoForge 版本需要 <a href=\"https://neoforged.net\">NeoForge。</a><br /><br /><br /><br /><strong>更新日志：</strong></p>\n<div class=\"spoiler\">\n<p><strong>v1.0：</strong></p>\n<p>初始发布</p>\n<p>&nbsp;</p>\n<p><strong>v1.1：</strong></p>\n<p><em>Fabric：</em>Mixin 现在列在 \"mixin\" 下而不是 \"client\"，许可证更改为 MIT</p>\n<p><em>Forge：</em>添加了配置文件</p>\n<p>&nbsp;</p>\n<p><strong>v1.2：</strong></p>\n<p><em>Fabric：</em>更新至 1.20.X，添加配置，添加幸运附魔</p>\n<p><em>Forge：</em>更新至 1.20.X，修复配置，掠夺现在显示为 fortune/looting/luck</p>\n<p>&nbsp;</p>\n<p><strong>v1.3：</strong></p>\n<p><em>Fabric：</em>添加了额外的附魔等级翻译</p>\n<p><em>Forge：</em>添加了额外的附魔等级翻译</p>\n<p><em>NeoForge：</em>添加支持，添加了额外的附魔等级翻译</p>\n</div>\n<p>&nbsp;</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

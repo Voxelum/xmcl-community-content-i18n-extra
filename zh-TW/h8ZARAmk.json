@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aeab9665c9ab5bc5",
+  "content": "## ⚠️ 免責聲明\n\n物品 **生肉** 和 **熟肉** 僅是原版物品 **腐肉** 的變體。請不要將它們與任何其他事物聯繫起來。\n\n## 📝 描述\n\n此模組是 [Corpse](https://modrinth.com/mod/corpse) 模組的擴充套件 🧩（必要依賴項）。\n\n它使來自 Corpse 模組的屍體變得可擊打 💥（類似於礦車 🛒）。當玩家多次擊打屍體後，該屍體將被丟棄/摧毀。\n\n擊打屍體時會掉落 **生肉** 🥩 和 **骨頭** 🦴。生肉也可以像其他肉類一樣進行烹飪 🍳。\n\n👨‍🌾 村民在被殺死時也會掉落生肉。\n\n![image0](https://cdn.modrinth.com/data/h8ZARAmk/images/dee45d296ee2d55d32c59eba7960bee86b4c1529.png)\n\n🔥 如果屍體的死亡原因是火焰，則 harvested 的生肉將自動變為熟肉 🍖。這條規則同樣適用於村民。\n\n![image1](https://cdn.modrinth.com/data/h8ZARAmk/images/a2e900e7f4d9a42423e7a6ffedde252ecc678abc.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

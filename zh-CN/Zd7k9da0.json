@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6520d803d5a1b023",
+  "content": "\n\n# 搞坏我的游戏\n\n今天感觉运气不错？试试用这个模组，看你的游戏能撑多久——前提是它还能启动的话……\n\n此模组会打乱并破坏你的游戏，导致各种意想不到的行为。警告：该模组正在损坏你的游戏，可能会导致，甚至一定会导致存档损坏和数据丢失！切勿将此模组与正常的 Minecraft 存档配合使用。\n\n## 支持的平台\n\n* LaunchWrapper：可在任何由 LaunchWrapper 引导的 Minecraft 版本上运行，适用于 Forge 1.6.4 至 1.12.2\n* ModLauncher：同上，适用于任意 Minecraft 版本，由 (Neo)Forge 1.13 至最新版本使用。\n\n这个模组严格来说并不是一个真正的 Minecraft 模组，因此没有版本限制。只要加载器能够捕获并处理 Minecraft 类，它就应该能在任何加载器上运行。\n\n## 模组简介\n\n这是我在几天内完成的一个项目，因为我觉得把 Minecraft 拆解破坏并看看它能撑到哪种程度会很有趣。该模组可通过两种方式运作：\n\n* 类损坏器（Class Corruptor）：修补、打乱并移除部分游戏代码。大多数情况下游戏根本启动不了，但偶尔能启动时就会发生一些有趣的事情。\n* JVM 损坏器（JVM Corruptor）：通过反射移除和替换关键内容来破坏 Java 运行时环境。真会变假，假会变真，任何事情都可能发生，直到游戏彻底放弃运行。\n\n在相同加载器下针对特定 Minecraft 版本时，类损坏具有确定性。这意味着你可以创建、保存并与朋友分享配置，体验完全相同的游戏损坏效果。\n\nJVM 损坏会导致 Java 使用的所有值都被打乱，因此有时无法复现相同的损坏效果。它试图保持确定性，但到了那个地步，JVM 已经无法被信任来执行连贯的逻辑了。\n\n## 使用方法\n\n启动游戏后，你将能够配置、导入和导出引擎设置。这些设置会在游戏重启后保留，方便你稍后导出并保存。\n\n游戏可能第一次启动不会成功，也并非所有种子都能生效。你需要通过反复尝试不同的种子，并调整方法被损坏的概率。\n\n“引爆 JVM”按钮将启动 JVM 损坏器，实时破坏 JVM。\n\n## 演示视频\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/yR8p0Cj8mlY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9744fa4dc8b4141f",
+  "content": "<div style=\"text-align:center\">\n<h1><strong style=\"font-size:24px\">Time Stacker</strong></h1>\n</div>\n<pre><span style=\"font-size:14px\">Этот мод добавляет механику увеличения времени действия зелья, если вы выпиваете или используете одно и то же зелье повторно.</span><br><br></pre>\n<pre><strong>Например:</strong> Вы выпиваете зелье Ночного зрения на 3 минуты, а затем зелье того же эффекта на 8 минут.<br> - Без мода: 8 минут.<br> - С Time Stacker: 11 минут<br><br>По умолчанию максимальное время накопления составляет 16 минут. Это значение можно изменить в конфигурационном файле. Если вы не хотите, чтобы эффекты из Minecraft или других модов накапливались, добавьте их в черный список в настройках.<br><br><span style=\"font-size:18px\"><strong><span style=\"color:#0f0\">Посетите наш Discord-сервер:</span>&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fvWBP4P4Yd8\" target=\"_blank\" rel=\"nofollow\">Ссылка</a></strong></span></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

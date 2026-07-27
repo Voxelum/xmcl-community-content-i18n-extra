@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f288030051be0f44",
+  "content": "<h3>什麼是 Distant Horizons？</h3>\n<p>Distant Horizons 是一個細節層次（LOD）模組，<a href=\"https://www.curseforge.com/minecraft/mc-mods/distant-horizons\" target=\"_blank\" rel=\"nofollow\">原始專案可在此處找到</a>，它能渲染出遠超 Minecraft 原版渲染距離的簡化地形。它會為遠處的區塊建立低詳細度的表示形式，讓玩家能夠看到數百或數千格遠的地形，而無需承擔完全渲染這些區塊的性能開銷。此構建版本針對區塊已預先生成或在遊戲過程中僅透過完整內部伺服器生成（例如使用 Chunky 或本地即時探索）的使用情境進行了優化，我們不保證其他 LOD 生成模式是否可用。</p>\n<p>因此，它並非設計用於一般用途，而是專門針對 Au Naturel 5 整合包的使用情境。<br><br>請注意，尤其是隨著最近更新的較新版本，此版本 Distant Horizons 的操作範圍正變得越來越嚴格，且此程式碼庫並非為所有可能的用途而設計。所有其他 Minecraft 版本的相關程式碼，包括允許其他 LOD 生成選項的程式碼，都應已從程式碼庫中移除。請自行承擔風險使用，且僅限於 Forge 1.20.1。尚未在多人遊戲中進行充分測試，並且在最後一次為了簡化並遠離其他 Minecraft 版本或載入器而移除大量程式碼的過程中，很可能破壞了某些功能。</p>\n<p>不過，根據原始授權條款，您可以自由地按您的意願使用它。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fdiscord.com%252finvite%252fB8fTfwnqnz\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/description/1066205/description_02ede751-f9cb-491c-b12f-539c6dd947d7.png\"></a></p>\n<p>加入 Discord 以討論反饋、問題、疑問和建議。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

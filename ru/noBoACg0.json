@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c1a9ef5792b1912e",
+  "content": "\n\n# Ветер падения\n\n**Простой мод, добавляющий динамические звуки ветра во время падения с использованием звука элитр.**\n\n<div align=\"center\">\n\n[![Поддержать меня на Ko-fi](https://cdn.modrinth.com/data/cached_images/59496f4b454cbfb432f45bce418a880e628c4e6b.png)](https://ko-fi.com/lythro)\n</div>\n\n\n## Что он делает\n\nКогда вы падаете в Minecraft, вы будете слышать звуки ветра, которые становятся громче по мере увеличения скорости падения. Используется стандартный звук элитр, поэтому он отлично вписывается в игру.\n\n- Громкость меняется в зависимости от скорости падения\n- Только на стороне клиента — работает на любом сервере\n- Полностью настраивается через [Mod Menu](https://modrinth.com/mod/modmenu)\n\n---\n\n## Демонстрация\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/6FiGxXEgmwQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd9b4709143ca380",
+  "content": "## Дополнительный AStages-Curios\n\nЭтот модуль обеспечивает интеграцию между **[AStages](https://www.curseforge.com/minecraft/mc-mods/astages)** и **[Curios](https://www.curseforge.com/minecraft/mc-mods/curios)**.\nЭто позволяет создателям модпакков **блокировать или раскрывать слоты снаряжения Curios** в зависимости от приобретенных этапов игрока.\n\n### Особенности\n\n*   Предотвращение надевания игроком Curios, пока у него нет конкретного этапа.\n*   Плавная интеграция между AStages и Curios.\n*   Идеально подходит для модпаков, основанных на прогрессии.\n\n> Требуются установка как AStages, так и Curios.\n\n### Настройка\n\nСмотрите **[Вики](https://github.com/Alessandro-Casale/AStages/wiki)** для примеров использования и вариантов настройки!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

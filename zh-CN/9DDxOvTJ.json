@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e4a0257c99d549d9",
+  "content": "# BetterP2P\n\n![](https://cf.way2muchnoise.eu/versions/538092.svg) ![](https://cf.way2muchnoise.eu/full_538092_downloads.svg) [![许可证: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)\n\n![logo](https://cdn.modrinth.com/data/cached_images/de394299dabab9179f061540bab46e574f5dfcd1.png)\n\nAE2 的高级工具，用于管理 P2P 网络。\n\n支持 **1.20.1 Fabric 和 Forge！**\n\n**Fabric**：需要 [Architectury API (fabric)](https://modrinth.com/mod/architectury-api/versions?g=1.20.1&l=fabric)、[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin/versions?g=1.20.1)\n\n**Forge**：需要 [Architectury API (forge)](https://modrinth.com/mod/architectury-api/versions?g=1.20.1&l=forge)、[Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge/versions?l=forge&g=1.20.1)\n\n**请为您的模组加载器选择正确的对应依赖项！**\n\n文档现已提供阅读：<https://lasmgratel.github.io/BetterP2P-Manual/>\n\n## 旧版本\n\n1.7.10 目前由 GTNH 团队维护：<https://github.com/GTNewHorizons/BetterP2P>\n\n1.12.2 目前由 AE2UEL 维护：<https://www.curseforge.com/minecraft/mc-mods/betterer-p2p>\n\n**1.20 的所有新功能和创意均基于 Betterer P2P，感谢 AE2UEL 团队！**\n\n## 鸣谢\n\n- PnC 提供了方块轮廓代码\n- LasmGratel 开发了首个 BetterP2P\n- GlodBlock 完成了首个 1.7.10 移植版\n- firenoo 进行了重大重构 <3\n- AE2UEL 团队贡献了 Betterer P2P",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

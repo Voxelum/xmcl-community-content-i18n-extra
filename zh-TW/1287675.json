@@ -1,0 +1,6 @@
+{
+  "bodyHash": "561e0b8f16484627",
+  "content": "<p>某些模组未将其去皮原木标记为 #forge:stripped_logs，导致它们无法用于 Create 模组制作外壳，且部分使用去皮原木的配方也无法正常工作。尽管此模组旨在解决 Create 模组的外壳问题，但它也应能兼容其他使用 #forge:stripped_logs 的配方。</p>\n<p>支持的模组：<br>- Autumnity<br>- Atmospheric<br>- BetterEnd<br>- Caverns and Chasms&nbsp;<br>- Environmental<br>- Upgrade Aquatic<br>- Oh The Biomes We've Gone<br><br><strong>不需要安装 Create</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

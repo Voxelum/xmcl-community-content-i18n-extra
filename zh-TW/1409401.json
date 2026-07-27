@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0e56b0402e694d02",
+  "content": "<hr>\n<p><img width=\"496\" height=\"149\" alt=\"logo\" src=\"https://github.com/user-attachments/assets/b437a026-1527-48b9-9bda-a49af8369c89\"></p>\n<hr>\n<h2>Create: Lazy Tick ⚙️</h2>\n<p>一款基於 Lazy Tick 的高度優化模組，旨在顯著降低 Create 組件及其持續運行的工作負載 🔄。這使得伺服器能夠支持的 Create 動力生產線數量是純 Create 模組的 2-3 倍！</p>\n<h3>🔧 核心優化</h3>\n<h4>🧱 物流組件</h4>\n<ul>\n<li><strong>傳送帶 / 漏斗 / 滑槽 / 倉庫</strong></li>\n<li>閒置開銷減少 50%–95%</li>\n<li>動態額外工作負載減少 40%–80%</li>\n<li>在大型儲存和過濾系統中收益顯著</li>\n</ul>\n<hr>\n<h4>🏭 處理組件</h4>\n<ul>\n<li><strong>機械鑽頭 / 機械混合器 / 機械鋸床 / 水車</strong></li>\n<li>引入配方緩存機制</li>\n<li>性能提升隨配方數量增加而擴大</li>\n<li>活動工作負載減少 70%–95%</li>\n<li>在極端情況下，工作負載從約 300µs 降至約 2–10µs</li>\n</ul>\n<hr>\n<h4>🤖 交互組件</h4>\n<ul>\n<li><strong>機械臂 / 部署器</strong></li>\n<li>減少頻繁檢查和重複搜索</li>\n<li>工作負載減少 20%–60%</li>\n<li>與傳送帶交互時收益更大</li>\n</ul>\n<hr>\n<h4>🌊 液體系統優化</h4>\n<ul>\n<li>全局液體計時減少到原版（預設：1/5）的 1/k</li>\n<li>倍數可通過配置檔案進行調整</li>\n<li>在大型管道網絡中改進顯著</li>\n</ul>\n<hr>\n<h3>📊 實際性能表現</h3>\n<p>在實機伺服器測試環境中：</p>\n<ul>\n<li>支持 2–3 倍的全活性生產線</li>\n<li>半閒置結構的擴展能力可超過原版的 5 倍</li>\n<li>隨著配方數據集的增大，優化效果更強</li>\n</ul>\n<hr>\n<h3>⚠️ 重要提示</h3>\n<ul>\n<li>減少的計時頻率可能會導致輕微的動畫延遲（可配置）</li>\n<li>部分邏輯檢查已修改；依賴嚴格原版計時同步的機械結構可能需要使用 <strong>LazyTick Clock</strong> 進行調整</li>\n<li>在部署到正式伺服器之前，請務必測試並備份您的世界</li>\n</ul>\n<hr>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

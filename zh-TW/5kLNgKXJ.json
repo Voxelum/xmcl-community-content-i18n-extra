@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6849b9ce1dba89f9",
+  "content": "\n\n# Better Mob Combat 修復\n\n修復與 Better Combat 1.9.0 的相容性問題\n\n## 問題說明\n\nBetter Combat 1.9.0（1.20.1 最新版本）進行了破壞性變更：\n1. 移除了 `CompatibilityFlags.firstPersonRender()` 方法\n2. 將 `PehkuiHelper` 從 `net.bettercombat.compatibility` 移至 `net.bettercombat.client.compat`\n\nBetter Mob Combat 已停止更新，仍沿用舊有方法與路徑，導致生物攻擊動畫與 Pehkui 相容性失效。\n\n## 運作機制\n\n本模組透過兩個 Mixin 修復上述問題：\n\n**Mixin 1：**攔截 `CompatibilityFlags.firstPersonRender()` 呼叫並回傳 `false`\n\n**Mixin 2：**覆寫 `BMCPehkuiHelper.load()` 以套用新的 PehkuiHelper 路徑\n\n**技術細節：** \n- 針對 `Mob.playAttackAnimation()` 使用 `@Redirect` → 為已移除的方法回傳 `false`\n- 針對 `BMCPehkuiHelper.load()` 使用 `@Overwrite` → 改用 `net.bettercombat.client.compat.PehkuiHelper`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d30dc53aa12c0d4",
+  "content": "\n\n![Banner](https://i.imgur.com/UQ8ZJYW.png)\n\nLodestone 是 Lodestar 团队旗下所有模组所使用的库，包含重要的后端代码，主要用于渲染。\n\n#### **特性**：\n\n大量着色器  \n各种辅助类与工具  \n简单的屏幕震动实现  \n我们模组中一些常用的属性  \n允许为实体应用自定义火焰效果的系统  \n支持海量粒子级配置的粒子系统  \n用于多方块结构与方块实体背包处理的简单系统  \n用于屏幕上 GUI 界面粒子的系统，其配置方式与我们其他的粒子系统类似  \n世界事件系统，机制类似于实体，但会按维度而非区块进行保存、渲染和 tick  \n纹理加载器实现；允许在运行时将原版资源复制至新目录。同时也支持以多种方式修改复制后的纹理  \n\n……还有更多我们懒得列出的功能！\n\n![](https://i.imgur.com/GeluHCM.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

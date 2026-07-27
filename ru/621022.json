@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c1865c36ac93f9e",
+  "content": "<h1>Keep That Music</h1>\n<p>阻止 Minecraft 在每次切换世界时切断音乐。你的曲目可以在过渡期间继续播放。</p>\n<h2>这个模组的作用是什么？</h2>\n<p>音乐将在以下情况下保持播放：</p>\n<ul>\n<li>切换维度时（下界传送门、末地传送门等）</li>\n<li>在单人游戏中打开暂停菜单时</li>\n<li>在多人游戏中切换服务器或子服务器时</li>\n<li>返回标题画面时</li>\n</ul>\n<p>仅保留<strong>音乐</strong>——所有其他声音（方块、生物等）在离开世界时仍会正常停止，就像原版游戏一样。</p>\n<p>现在你可以控制曲目之间的延迟时间。</p>\n<h2>制作原因</h2>\n<p>我希望在多人服务器中游玩时能够持续聆听 Minecraft 的音乐，而在这些服务器中频繁在不同世界或子服务器间跳转会不断打断音乐。\n现在你可以享受喜爱的 Minecraft 音乐或音效包而无需担心中断。</p>\n<h2>配置选项</h2>\n<ul>\n<li><strong>启用/禁用</strong>模组（关闭后将恢复完全原版的行为）</li>\n<li><strong>最大音乐延迟</strong>——覆盖曲目之间的间隔</li>\n</ul>\n<p>可以通过游戏内的 <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" target=\"_blank\" rel=\"nofollow\">Mod Menu</a></strong>（可选）进行配置，或直接编辑 <code>config/keepthatmusic.json</code> 文件——该文件适用于所有版本。</p>\n<h2>兼容性</h2>\n<ul>\n<li><strong>仅客户端</strong>——可在任何服务器上运行，其他玩家无需安装此模组。</li>\n<li>适用于 <strong>Fabric</strong> 加载器，支持 Minecraft <strong>1.16 至 26.1+</strong> 版本。</li>\n<li>Mod Menu 是可选依赖项，仅用于在游戏内设置界面中进行配置。</li>\n</ul>\n<p>请在<strong>版本</strong>标签页中选择与你的 Minecraft 版本匹配的文件。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

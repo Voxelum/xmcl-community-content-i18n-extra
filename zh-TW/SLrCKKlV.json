@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11f80d2c54f46c51",
+  "content": "Friendly Phantoms 是一個小型模組，增加了一項遊戲規則，可阻止幽靈攻擊。 \\\n它不會阻止幽靈生成，讓你能夠繼續刷取它們以獲取經典的幽靈膜。\n\n預設情況下，幽靈攻擊功能是關閉的。 \\\n你可以使用指令 `/gamerule doPhantomsAttack [ true | false ]` 來變更每個世界的行為。 \\\n或者在創建世界時，直接在遊戲規則選單中設定該遊戲規則。\n\n此模組完全為伺服器端運作，但也可以安裝於客戶端以用於單人世界。\n\n歡迎在 Modrinth 和/或 CurseForge 上託管的整合包中使用此模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "10b9605a320d7ef9",
+  "content": "功能库，让创建新模组变得更加简单。\n\n其他模组依赖它才能正常运行。\n\n开发者功能：\n\n- 核心模组数据\n- BlockSettings（工具提示、旋转颜色、通电时点亮、朝向附件）\n- 库存包装器\n- 带有构建脚本的 newmod 模板\n- 世界生成功能生成器（简易、补丁、矿石）\n- 维度实用工具\n- EnergyIngredient 配方原料\n- FluidTagIngredient 配方原料\n- RandomizedOutputIngredient 配方原料\n- 酿造配方\n- 众多杂项实用工具\n- /flib 命令：可在配置文件 flib.toml 中禁用它们\n\n-- /flib tpx：跨维度传送\n\n-- /flib health add/set/random/factor（生命值添加/设置/随机/倍数）\n\n-- /flib hunger add/set/random/factor（饥饿值添加/设置/随机/倍数）\n\n-- /flib hearts add/set/random/factor（红心添加/设置/随机/倍数）\n\n-- /flib gamemode @p 1\n\n-- /flib scoreboard random @p 4 9 OBJECTIVE\n\n-- /flib attribute minecraft:reach_distance random @p 3 8",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

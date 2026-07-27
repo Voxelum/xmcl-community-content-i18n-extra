@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a267034e28b938d7",
+  "content": "![sfDesat - 冷呼吸](https://cdn.modrinth.com/data/cached_images/c2855958e40b610f1d92b30b8dedc6e73c940aa7.webp)\n\n新增會隨環境與移動狀態自動調整的呼氣特效，帶來更真實且沉浸的遊戲體驗，並提供完整的自訂選項。高度可客製化，您可以修改大小、顏色、持續時間、間隔等參數。設計理念為極度輕量且完全可配置。\n\n[提供反饋](https://github.com/sfDesat/cold-breath/issues/new)\n\n****\n#### 預設行為（可配置）：\n\n* 在寒冷生物群系中產生呼氣效果\n* 模擬真實的呼吸間隔\n* 呼吸速度會根據疾跑狀態和生命值進行調整\n* 在水下產生呼氣氣泡\n* 支援季節模組（Serene Seasons 和 Fabric Seasons）\n* 支援按維度設定（下界預設關閉，末地預設開啟）\n* 海拔會影響呼氣效果\n* 早晨出現呼氣凝結現象\n\n****\n\n#### 預覽（可自訂）：\n![呼氣範例](https://cdn.modrinth.com/data/w2KrCmBX/images/5487ca8be3ea825cc9124dfb90bdeab9ff79f7a4.gif)\n\n****\n#### 預計新增功能：  \n- 熱源影響效果（熔岩、營火等）\n- 狀態效果整合（防火抗性、緩慢等）\n- 其他玩家的呼氣效果\n- 更多視覺化的呼氣配置選項\n- 支援溫度模組（如 Though As Nails）\n\n****\n#### 相容性與效能：\n無相容性問題，不影響效能，且完全為客戶端運行。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

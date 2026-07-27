@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b554107e7eb8981",
+  "content": "\n\n<h1>Create Aeronautics: Mekanism 相容模組</h1>\n<p>Create Aeronautics: Mekanism Compatibility 可讓主要的 Mekanism 機器在安裝於 Create Aeronautics 飛艇及其他由 Sable 驅動的物理機構上時正常運作。</p>\n<p>通常，Mekanism 機器會鎖定在固定的世界座標上。一旦將它們組裝到可移動的機構中，機器可能會誤以為自己仍位於隱藏的 Sable 儲存區域內，而非實際在飛艇上。本模組會讓受支援的機器改用其在遊戲世界中的可見位置。</p>\n<h2>支援項目</h2>\n<ul>\n<li>數位礦工</li>\n<li>傳送器</li>\n<li>管線</li>\n<li>風力渦輪機</li>\n<li>維度穩定器</li>\n</ul>\n<h2>適用對象</h2>\n<p>本模組主要為同時整合 Mekanism、Create Aeronautics、Create Simulated 與 Sable 的整合包所設計。對於搭載 Mekanism 機械的飛艇、移動基地以及飛行採礦平台而言尤其實用。</p>\n<h2>系統需求</h2>\n<ul>\n<li>Minecraft 1.21.1</li>\n<li>NeoForge 21.1.228 或更新版本</li>\n<li>Mekanism 10.7.19 或更新版本</li>\n<li>Create 6.0.10</li>\n<li>Create Aeronautics 1.2.1</li>\n<li>Sable 1.2.2 或更新版本</li>\n</ul>\n<h2>注意事項</h2>\n<p>測試早期相容性版本前，請先備份世界檔案。本模組為伺服器端相容性模組，但玩家在連線至需要此模組的改版伺服器時，仍需在用戶端模組包中保留相對應的模組。</p>\n<h2>數位礦工掃描注意事項</h2>\n<p>安裝於飛艇上的數位礦工掃描器是依據礦機目前預期的世界空間掃描體積來設計，而非記錄飛艇曾經過的所有區塊永久軌跡。掃描任務設有預算限制，會在逐一檢查方塊狀態之前，跳過未載入、空無一物及無法掃描的區塊區段。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1005bd90a9f2c8d8",
+  "content": "\n\n__持續開發中__：Minecraft 1.19.x\n\n__官方網站：[Team CoFH](https://teamcofh.com)__\n\n__Discord：[Team CoFH Discord](https://discordapp.com/invite/uRKrnbH)__\n\n---\n\n這是一個功能相當簡單的模組，主要提供以下幾項功能：\n\n- 移除夜視效果剩餘時間少於 10 秒時的閃爍效果。\n- 可將夜視效果設定為隨時間逐漸淡化。預設值為 1 秒。\n- 可調整夜視效果的基礎亮度。\n\n### __設定__\n\n- _客戶端_：位於 `/config` 目錄中的 `no_nv_flash-client.toml` 檔案\n\n### __相容性__\n\n此模組自 1.16 版本起使用了 mixin（ASM），可能會有一些相容性問題，但發生的機率非常低。\n\n此模組完全獨立運作，沒有任何相依性。您可以放心地將其加入整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

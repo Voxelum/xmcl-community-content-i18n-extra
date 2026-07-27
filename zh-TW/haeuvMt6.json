@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42ab82f211cec474",
+  "content": "\n\n# 顯示你的距離！\n\n還記得 lunar 和 feather 等客戶端上的「Reach Display」嗎？\n這就是那個模組，但功能大幅強化！現在你不需要擊中玩家，就能看到自己與對方的距離。\n\n__你需要安裝 midnightlib 才能設定此模組。__\n\n## 最新消息！！\n我終於抽空更新了這個模組，但程式碼簡直是一團亂麻，我自己也很受不了。\n因為熬夜趕工，這個模組肯定還有問題，但我現在真的不在乎。如果你想讓我修復，請聯絡我 `@tektonikal` 或加入連結的 Discord。\n\n## 自訂選項：\n\n- 指示器位置\n- 字首與字尾\n- 顯示最近玩家的暱稱\n- 顏色\n- 當對手處於攻擊範圍內的顏色\n- 模式：Raycast 模式會顯示你視線所指處到最佳瞄準點的距離。距離模式會顯示你的眼睛到最近玩家最近處的距離。\n\n此模組與 Sootysplash 的 [Optimal Aim Mod](https://modrinth.com/mod/optimal-aim) 搭配使用效果極佳，你不僅能直觀地看出自己的瞄準有多差，還能用精確的數值來衡量！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

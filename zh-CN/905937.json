@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2f79899f73465e62",
+  "content": "\n\n<p>Enigmatic Legacy 添加了一个名为“建筑师之眷顾”（The Architect's Favor）的秘密物品。该物品在 JEI 和创造模式菜单中均不可见，其合成配方同样被 JEI 隐藏。唯一暗示该物品存在的线索是 Patchouli 百科中的一条指南条目。该物品的特殊之处在于只有“被建筑师选中的人”才能使用它，换句话说，仅限模组开发者直接选定的一组特定 UUID。本模组绕过了该项检查，允许任何人获取并使用“建筑师之眷顾”，即使其 UUID 未列入 devoted_believers.json 文件中。</p>\n<p>&nbsp;</p>\n<p>我制作此模组的初衷与考量已在 GitHub 的 README 文件中作了更详细的说明。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

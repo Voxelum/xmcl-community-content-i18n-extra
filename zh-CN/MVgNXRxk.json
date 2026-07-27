@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99a91e081ae7f803",
+  "content": "\n\n![title1](https://cdn.modrinth.com/data/cached_images/5ad1438cc8e57203f6bbb8aaa4f83d14356d9613.png)\n本模组提供了一套系统，通过配置文件，你可以从控制设置界面中**隐藏** **按键绑定**，进而限制持有特定按键绑定的玩家。\n\n该模组仅会**隐藏**按键绑定，如果你希望它们失效，可以在隐藏之前先解除绑定。\n\n_该模组仅需在客户端安装。_\n\n![title2](https://cdn.modrinth.com/data/cached_images/68568bf558f7662bdbadbfa2660c9a0fec7f72b0.png)\n要配置该模组，你需要先在 _./minecraft/config_ 文件夹中找到 _keybindhider.json_ 文件。\n\n里面会有如下内容：\n\n```\n{\n  \"hiddenCategories\": [],\n  \"hiddenKeybinds\": [],\n  \"disabledKeybinds\": false,\n  \"consoleLogs\": false\n}\n```\n在 _hiddenCategories_ 和 _hiddenKeybinds_ 列表中，你需要填入想要隐藏的**按键绑定**的**ID**。如果你想查看某些按键绑定何时被隐藏，或者获取 Minecraft 外部模组的按键绑定 ID，可以启用 _consoleLogs_ 选项，这样就能在客户端控制台中查看相关信息。\n\n如果你想了解 Minecraft 原生按键绑定的 ID，并更详细地了解模组的工作原理，可以访问[Wiki](https://github.com/BanGameStudios/KeybindHider/wiki)。\n\n![title3](https://cdn.modrinth.com/data/cached_images/455151d8a6381523cb9366cd29a9bd378fba7fec.png)\n只要知道其他模组的按键绑定 ID，本模组也能与其兼容。\n\n![title4](https://cdn.modrinth.com/data/cached_images/e0ec0c16e844f93bddd8fc87f89fb8964c15bbd5.png)\n如果遇到任何问题或有建议，你可以在社区 Discord（西班牙语）中提交工单进行反馈：https://discord.gg/sKRYYyVCnw\n\n如果你想支持我们，可以通过以下方式：\n- Patreon：https://www.patreon.com/c/BannedStudios\n- Ko-Fi：https://ko-fi.com/soykatto",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

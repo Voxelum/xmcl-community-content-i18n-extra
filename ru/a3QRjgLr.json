@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bb374594416d1d9f",
+  "content": "\n\n# Cobblemon LuckPerms NPC Compat\n\n<div>\n  <img src=\"https://mods.matthiesen.dev/badges/matthiesenLibAPI.svg\" alt=\"Matthiesen Lib API\">\n  <img src=\"https://mods.matthiesen.dev/badges/cobblemon.svg\" alt=\"Cobblemon\">\n  <img src=\"https://mods.matthiesen.dev/badges/luckperms.svg\" alt=\"LuckPerms\">\n</div>\n\nЭтот мод добавляет возможность взаимодействия NPC из Cobblemon с API разрешений LuckPerms.\n\n## Требования\n- [Matthiesen Lib API](https://modrinth.com/mod/matthiesen-lib-api)\n- [Cobblemon 1.7.3+](https://modrinth.com/mod/cobblemon)\n- [LuckPerms 5.4](https://modrinth.com/mod/luckperms)\n\n## Документация\n\nДокументация по этому моду доступна на сайте [mods.matthiesen.dev](https://mods.matthiesen.dev/cobblemon-luckperms-npc-compat/)\n\n## Совместимость версий\n\n| Версия Minecraft | Версия мода |\n|-------------------|-------------|\n| 1.21.1            | 1.x.x       |\n\n## Лицензия\n\nMIT — см. `LICENSE`.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

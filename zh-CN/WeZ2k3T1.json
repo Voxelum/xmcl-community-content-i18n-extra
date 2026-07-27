@@ -1,0 +1,6 @@
+{
+  "bodyHash": "06313dc6f4800dbc",
+  "content": "\n\n## AStages-FTB Quests 桥接\n\n这款轻量级模组在 **[AStages](https://www.curseforge.com/minecraft/mc-mods/astages)** 与 **[FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forgeskills)** 之间提供了简单的集成。  \n它允许任务树中的阶段奖励为服务器和玩家**授予或移除阶段**。\n\n### 功能\n\n*   完成任务时分配阶段。\n*   支持向服务器与玩家范围授予阶段。\n*   阶段可被添加或移除。\n*   提供极其易用且出色的配置覆盖界面。\n\n> 需同时安装 AStages 和 FTB QUESTS。\n\n### 自定义\n\n只需在任务树中添加简单奖励，即可为服务器和玩家授予或移除阶段。  \n有关语法与示例，请参阅 **Wiki**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

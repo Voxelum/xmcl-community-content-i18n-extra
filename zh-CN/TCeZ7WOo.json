@@ -1,0 +1,6 @@
+{
+  "bodyHash": "021d5eba9a2ef462",
+  "content": "# 🛠️ Tinkers' Ponder – 匠作思维 × Ponder\n一个专为 **匠作思维 (Tinkers' Construct)** 打造的 **Ponder 扩展**，让你能够轻松创建与匠作机制深度整合的 **自定义 Ponder 场景**。将 **铸造和熔炼** 等复杂流程转化为直观、分步的动画，让任何人都能轻松跟随。  \n这是一款面向 **模组开发者** 和 **地图作者** 的工具，让你的匠作内容更具吸引力和教育意义。  \n## 必需模组\n- 匠作思维 (Tinkers' Construct)\n- _(内置 Ponder，v1.1 之后无需 Create 模组且无冲突)_\n## 场景列表\n- `alloyer_building`\n- `casting`\n- `foundry_building`\n- `heater_using`\n- `melter_building`\n- `melter_using`\n- `sand_casting`\n- `smeltery_building`\n- `smeltery_mini`\n- `smeltery_using`\n- `tank`\n## \n如果你是中文用户可以选择访问[MCMOD](https://www.mcmod.cn/class/24954.html)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

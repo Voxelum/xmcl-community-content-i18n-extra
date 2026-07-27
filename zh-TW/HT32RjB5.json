@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7fc894821446ddfa",
+  "content": "\n\n<img src=\"https://raw.githubusercontent.com/xhyrom-utils/assets/main/mods/timecontrol/assets/logo.png\" alt=\"標誌\" />\n\nTime Control(ler) 是一款現代化的模組，允許你使用 3 種道具來加速、減緩或停止時間。此模組同時支援**客戶端與伺服器端**。\n\n### 安裝\n請確保你已安裝 Fabric API，並下載與你的 Minecraft 版本相對應的模組版本。即可完成安裝，模組應該可以正常運作。\n\n### 常見問題\n\n#### 如何控制時間？\n使用可於創造模式中取得，或由指令給予的道具。\n\n#### 在生存模式下能合成這些控制道具嗎？\n不行，但你可以利用資料包或其他模組自訂合成配方。\n\n### 授權說明\n歡迎將此模組用於**你的**整合包中 😃\n\n若在影片中使用，建議提及**本模組**。\n\n### 圖片\n\n<img src=\"https://raw.githubusercontent.com/xhyrom-utils/assets/main/mods/timecontrol/assets/accelerator.png\" alt=\"加速器\" />\n<img src=\"https://raw.githubusercontent.com/xhyrom-utils/assets/main/mods/timecontrol/assets/decelerator.png\" alt=\"減速器\" />\n<img src=\"https://raw.githubusercontent.com/xhyrom-utils/assets/main/mods/timecontrol/assets/stopper.png\" alt=\"停止器\" />",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

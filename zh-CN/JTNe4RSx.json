@@ -1,0 +1,6 @@
+{
+  "bodyHash": "43f22ee3022b7294",
+  "content": "# **将所有维度的建造高度上限提升至 Y=2031。**\n## **警告**：从 Minecraft 1.21.2 开始，移除数据包/模组将导致你的世界损坏！你可以[在此处](https://www.reddit.com/r/feedthebeast/comments/1m7qcy6/how_to_recover_world_from_chunk_height_corruption/)找到有关如何安全移除的教程。\n\n### 是否支持自定义世界生成模组/数据包？\n该数据包本身不会更改世界生成，但自定义世界生成模组/数据包可能会硬编码世界高度。一个显著的例子是 Tectonic。其模组版本不受支持，但如果你使用的是数据包版本，请进入 Tectonic 数据包文件夹内的 `/data/minecraft/dimension_type/overworld.json`，并将 `logical_height` 和 `height` 更改为 2096。\n\n### 是否适用于现有世界？\n官方答案是否定的，但你可以遵循[此教程](https://www.reddit.com/r/feedthebeast/s/2uv5jOTJTW)将现有的区块迁移到使用此数据包创建的世界中。\n\n### 如果移除模组/数据包，现有世界会发生什么？\n在 1.17-1.21.1 中移除数据包/模组会使正常建造高度以上的所有内容消失，但从 1.21.2 开始，它将损坏世界，因此顶部有上述警告。\n<br>\n\n\n\n*如果你还没有服务器主机，我推荐 BisectHosting。他们拥有 20 个服务器地点、先进的 DDoS 防护、用户友好的服务器管理面板，并且如果使用优惠码 OBYDUX，可享受 25% 的折扣。*\n\n<a href=\"https://bh.obydux.win/OBYDUX\">\n  <img alt=\"BisectHosting\" src=\"https://www.bisecthosting.com/partners/custom-banners/b6a2ddec-ce4c-4f54-96d0-6a7f9796d386.webp\">\n</a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

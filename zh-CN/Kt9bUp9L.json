@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a006adfe489e848e",
+  "content": "# 名称Fabric\n\n[![需要 Fabric API](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/requires/fabric-api_vector.svg)](https://modrinth.com/mod/fabric-api) ![不支持 Forge](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/unsupported/forge_vector.svg) [![支持 Minecraft 1.16 及以上版本](https://raw.githubusercontent.com/not-coded/not-coded/refs/heads/main/assets/badge_minecraft_1.16plus.svg)](https://minecraft.net)\n\n本模组允许您使用 [LabyNet](https://laby.net) 和 [Mojang API](https://api.mojang.com) 获取玩家的公开数据，如历史用户名、当前皮肤等。\n\n## 功能\n- **/namehistory** | 获取玩家的历史用户名。\n- **/getuuid** | 获取玩家的 UUID。\n- **/getskin** | 获取玩家的当前皮肤。\n- **/getcape** | 获取玩家的当前披风。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

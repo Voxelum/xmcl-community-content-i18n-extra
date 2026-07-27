@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7debc0e061cf49e6",
+  "content": "<p>Unbound Visual+ 是 Complementary Unbound 的修改版本，增加了与原始着色器不同的效果和视觉效果，并提高了饱和度。\n我们没有任何问题或反对意见，我们只修改其他用户的着色器，如果有任何问题，请联系我们。</p>\n<h1>性能</h1>\n<p>如果您遇到卡顿，可以将配置文件更改为<strong>低</strong>，如果仍然很强，可以将其更改为<strong>标准</strong>，如果很强，您可以将其最大化到<strong>超</strong>以获得令人惊叹的视觉效果，我们称之为视觉+，如果您想要更好，我们添加了一个新的配置文件，即电影模式。</p>\n<h1>特性</h1>\n<ul>\n<li>上帝光线和体积光（内置/自带）</li>\n<li>为 Patrick's 等资源包更新了优化的 PBR。</li>\n<li>经过多项添加和技术修改的 SSR 技术</li>\n<li>自反射/玩家反射 SSBO/SSR/WSR（激活超/电影/标准配置文件）</li>\n<li>更自然、更厚的雾</li>\n<li>增强的彩色灯光</li>\n</ul>\n<h1>建议</h1>\n<p>反射块的自反射技术尚未完全完善；诸如泄漏、数据丢失和渲染问题等问题仍然存在，我们目前正在努力改进。</p>\n<h1>要求</h1>\n<ul>\n<li>确保您已安装<strong>Iris</strong>，用于您选择的着色器版本和您正在玩的 Minecraft 版本。</li>\n<li>安装<strong>Fabric</strong>（原版）</li>\n<li>使用特殊的优化器和 Ram 模组（可选）</li>\n</ul>\n<h1>致谢</h1>\n<p>这些着色器是从 Completentary Unbound 修改而来的，<strong>我们不声称这些着色器是我们的</strong>，这些着色器最初是由制作着色器和 Modrinth 创作者的人制作的。该创作者名为 EminGT，来自土耳其。他以制作绝对最明亮的 Complemantary Unbound 和 Complemantary Sheders 以及 Complemantary Reimagined 而闻名。</p>\n<h1>许可</h1>\n<p>此着色器许可证可以进行修改，任何人都可以使用，但仍需遵循原始创作者的版权规则。<a href=\"/linkout?remoteUrl=https%253a%252f%252fopensource.org%252f\" target=\"_blank\" rel=\"nofollow\">https://opensource.org</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

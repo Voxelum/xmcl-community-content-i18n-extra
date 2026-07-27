@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c4a615d90d1f6573",
+  "content": "<p>修复了飞船在特定高度坠落的问题，着陆时造成对玩家相应的掉落伤害。</p>\n<p>优化了一些渲染内容。</p>\n<p>优化了部分事件的性能</p>\n<p>1.20.1 Forge的AsyncEventSystem是基于Graphene的</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

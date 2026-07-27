@@ -1,6 +1,6 @@
 {
-  "bodyHash": "yE9gsZWjiB0=",
-  "content": "<p>這個模組讓玩家騎乘馬匹時能夠在水中游泳。</p><p>&nbsp;</p><p>這看似是個簡單的模組，我從Quark模組中提取出來，將其製作成獨立模組！</p><p>&nbsp;</p><p>功勞歸於原始的Quark模組開發者。</p><p>&nbsp;</p><p>需要向下相容舊版本嗎？</p><p>不！本模組將持續更新至最新版本。</p><p>&nbsp;</p><p>自1.21.11版本起已棄用</p>",
+  "bodyHash": "305fd0d8aa826472",
+  "content": "<p>此模組讓騎乘時的馬匹能夠在水中游泳。</p>\n<p>&nbsp;</p>\n<p>這看起來是個簡單的模組，我將其從 Quark 中複製出來並整合成單一模組！</p>\n<p>&nbsp;</p>\n<p>感謝原始 Quark 模組的開發者們。</p>\n<p>&nbsp;</p>\n<p>需要後移植（Backport）嗎？</p>\n<p>不需要！它將始終跟隨最新版本。</p>\n<p>&nbsp;</p>\n<p>自 1.21.11 起已棄用</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

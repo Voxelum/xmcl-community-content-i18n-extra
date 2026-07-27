@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d7d02b96838c122d",
+  "content": "随机传送\n-\n**一款将你传送到安全位置的 RTP 模组**\n-\n配置文件位于 **randomteleport.properties** 下\n```\n\n\n#随机传送配置\n#center-x / center-z: /rtp 测量半径的基准点\n#min-radius / max-radius: 距该中心点的距离范围\n#cooldown-seconds: 玩家每次使用之间的冷却时间（0 = 无冷却）\n#max-attempts: 在放弃之前尝试检测的安全位置数量\n#allow-water-landing: 如果为 true，则允许在水面上降落\n#overworld-only: 如果为 true，则 /rtp 仅在主世界生效\n#\n#消息 ---------------------------------------------------------\n#使用 & 进行颜色代码设置 (&a 绿色, &c 红色, &e 黄色, &7 灰色...)。\n#如果需要字面意义上的 & 字符，请使用 &&。\n#将消息留空可完全禁用该消息。\n#占位符：msg-success 中的 {x} {y} {z}，msg-cooldown 中的 {seconds}\n#2026年7月18日 星期六 19:25:08 UTC\nallow-water-landing=false\ncenter-x=0\ncenter-z=0\ncooldown-seconds=15.0\nmax-attempts=40\nmax-radius=5000\nmin-radius=500\nmsg-cooldown=&c请等待 {seconds} 秒后再使用 /rtp。\nmsg-no-location=&c找不到安全的位置。请再试一次。\nmsg-player-only=&c只有玩家才能使用 /rtp。\nmsg-reloaded=&a随机传送配置已重新加载。\nmsg-searching=&e正在搜索安全位置...\nmsg-success=&a已传送到 &f{x}, {y}, {z}\nmsg-wrong-dimension=&c/rtp 只能在使用主世界时生效。\noverworld-only=true\n\n```\n\n免责声明：本模组由 AI 制作\n-\n\n此模组是为一个项目而制作的，我没有资金聘请模组制作者，也没有时间学习如何制作模组，因此我使用了 AI。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "65289b9ca2e016f5",
+  "content": "<h2>KeybindTweaker</h2>\n<p>Мод для CraftTweaker, обеспечивающий поддержку привязок клавиш.</p>\n<p>В настоящее время добавляет следующие методы:</p>\n<pre><code>//Не забудьте импортировать!\nimport crafttweaker.text.ITextComponent;\n\n//Текстовый компонент для привязок клавиш  \n//ITextComponent.fromKeybind(String name);\nITextComponent.fromKeybind(&quot;key.attack&quot;);\n\n//Текстовый компонент для таблица достижений и селекторов сущностей  \n//ITextComponent.fromScore(String entityName,String objective);\nITextComponent.fromScore(&quot;Developer&quot;,&quot;test_objective&quot;);\n\n//ITextComponent.fromSelector(String name);\nITextComponent.fromSelector(&quot;@p&quot;);\n</code></pre>\n<h3>Пример:</h3>\n<p>Добавляет кнопку атаки во всплывающую подсказку верстака</p>\n<pre><code>import crafttweaker.text.ITextComponent;\nimport crafttweaker.item.ITooltipFunction;\nvar kb1 = ITextComponent.fromKeybind(&quot;key.attack&quot;);\n//Используйте расширенную всплывающую подсказку, чтобы она обновлялась после изменения игроком привязки клавиши\n&lt;minecraft:crafting_table&gt;.addAdvancedTooltip(function(item) {   \n    //Вызовите formattedText для получения текста для всплывающей подсказки\n    return kb1.formattedText;\n});\n</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a13b7221f065328e",
+  "content": "\n\n<p>一款客户端 + 服务端模组，为运行 <a href=\"https://github.com/TheEpicBlock/PolyMc\" target=\"_blank\" rel=\"nofollow\">PolyMc</a> 和 <a href=\"https://github.com/Patbox/polymer\" target=\"_blank\" rel=\"nofollow\">polymer</a> 的服务器上的玩家提供多项便利性改进。要使该模组生效，必须在客户端和服务端都安装此模组！</p>\n<h2>功能改进</h2>\n<h3>客户端挖矿</h3>\n<p>如果在服务端配置中启用 <code>client_mining</code>，则对于安装了 polymer-qol 的玩家，PolyMC 和 Polymer 的服务端挖矿机制将被禁用。客户端会利用 Polymer 的方块同步功能来获取自定义方块的挖掘时间，并在本地进行计算。这能让方块破坏更加流畅 <em>（尤其在延迟较高时非常有用）</em>。</p>\n<p><img src=\"https://i.imgur.com/sWnbpYb.gif\" alt=\"卡顿的服务端挖矿\"></p>\n<h3>防止手臂摆动</h3>\n<p>如果在服务端配置中启用 <code>prevent_swing</code>，安装了 polymer-qol 的玩家在与假音符盒交互时将不会摆动手臂（假音符盒常用于模拟自定义方块）。</p>\n<p><img src=\"https://i.imgur.com/jUa9upN.gif\" alt=\"手臂正在摆动\"></p>\n<h3>无方块更新</h3>\n<p>当客户端安装了 polymer-qol 后，破坏和放置方块将不会在客户端触发方块更新，从而消除视觉上令人分心的错误方块显示 <em>（高延迟时尤其有用）</em>。</p>\n<p><img src=\"https://i.imgur.com/2l421Rm.gif\" alt=\"错误的方块更新\"></p>\n<h2>服务端配置</h2>\n<p>服务端配置文件位于 <code>config/polymer-qol-server.json</code>，允许服务器管理员禁用某些功能。</p>\n<pre><code>{\n  \"_c0\": \"允许 polymer-qol 客户端在本地进行方块挖掘\",\n  \"client_mining\": true,\n  \"_c1\": \"防止 polymer-qol 客户端在与假音符盒交互时摆动手臂\",\n  \"prevent_swing\": true\n}</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

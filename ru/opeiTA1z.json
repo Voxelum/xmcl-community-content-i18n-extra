@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5500ce7968cd8dee",
+  "content": "# Усовершенствованные схемы\n\nДобавляет интерфейс пушки, позволяющий подключить вашу сеть Refined Storage к Schematicannon из мода Create.\n\nОфициальный порт [Schematic Energistics](https://modrinth.com/mod/schematic-energistics) для Refined Storage.\n\n## Возможности\n\n- Автоматически извлекает необходимые предметы из хранилища RS\n- Может автоматически создавать предметы для схем при необходимости\n- Автоматически пополняет запас пороха\n- Доступно для Neoforge 1.21.1\n\n## Использование\n\nУстановите интерфейс пушки рядом с Schematicannon и подключите его к сети Refined Storage. Schematicannon может одновременно обнаруживать только один интерфейс пушки.\n\nSchematicannon всегда будет отдавать приоритет другим контейнерам (сундукам, бочкам и т.д.) перед запросом предметов из сети RS.\n\n## Благодарности\n\n[Create](https://modrinth.com/mod/create)\n\n[Refined Storage](https://modrinth.com/mod/refined-storage)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b3361d2724e4c939",
+  "content": "\n\nКлиентский мод, генерирующий файлы схем (.nbt) в виде сфер, колец, спиралей, звёзд, параболических арок и текста.\n\n![https://cdn.modrinth.com/data/cached_images/c1b8f464debec4b8f31e40860a5e76c42e14757e.png](https://cdn.modrinth.com/data/cached_images/c1b8f464debec4b8f31e40860a5e76c42e14757e.png)\n\n### Команды:\n```plaintext\nСоздать круг /generatecircle <радиус> <ориентация>\nСоздать сферу /generatesphere <радиус>\nСоздать параболическую арку /generateparabola <ширина> <высота>\nСоздать текст /generatetext <размер шрифта> <текст>\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

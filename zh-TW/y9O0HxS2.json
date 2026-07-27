@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7859310338d05a6a",
+  "content": "\n\n# AdvancedChatLog Reforged\n\nAdvancedChatLog 讓你能夠查看與搜尋聊天紀錄，範圍超越 Minecraft 預設保留的內容。\n\n> **非官方分支。** 這是 DarkKronicle 的 *AdvancedChat* 套件（其作者已將專案封存）所推出的社群維護延續版本，已更新支援 **Minecraft 26.1 與 26.2**（Java 25）。此專案**與 DarkKronicle 無隸屬關係，亦未獲其背書**，並依據原專案的 MPL-2.0 授權條款發行。\n\n## 功能特色\n\n- 可捲動的歷史紀錄，突破原版 100 行上限\n- 支援正則表達式、純文字或不分大小寫的搜尋比對\n- 可選的跨啟動儲存功能\n\n## 需求\n\n- Minecraft **26.1.x** 或 **26.2**，搭配 **Java 25**\n- [Fabric Loader](https://fabricmc.net/) 0.19+、[Fabric API](https://modrinth.com/mod/fabric-api)、[MaLiLib](https://modrinth.com/mod/malilib)（sakura-ryoko 26.x 版本）\n- [AdvancedChatCore Reforged](https://modrinth.com/mod/advancedchatcore-reforged)\n\n## 來源與授權\n\n[GitHub](https://github.com/flyingfinger1/AdvancedChatLog) · MPL-2.0 · 原始模組由 DarkKronicle 開發",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

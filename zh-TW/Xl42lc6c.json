@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c451f9b48318138",
+  "content": "[![Soft Voxels Lite 横幅](https://rre36.com/wp-content/uploads/2022/09/SoftVoxels_Lite_Banner_22-09.jpg \"Soft Voxels Lite Banner\")](https://youtu.be/RwGXOxF3DsM \"Soft Voxels 展示\")\n\n## **什么是 Soft Voxels Lite？**\n这是我自己开发的 Soft Voxels 着色包（Shaderpack）的免费版本。它旨在成为一个极简主义且性能较好的着色包，利用体素（voxels）和路径追踪技术，为你提供快速且美观的光照效果。当然，这也包括来自各种发光体的正确彩色光照。由于没有实际的阴影贴图，太阳和月亮发出的直射光较为柔和，赋予了该着色包标志性的阴天户外视觉效果。\n\n## **它提供哪些功能？**\n* 路径追踪光照\n* 时间超采样（TAAU），默认设置为 50%\n* 动态雾气\n* 屏幕空间上帝之光（Godrays）\n* 屏幕空间反射\n* 摇曳的植被\n* 资源包镜面反射支持（遵循 labPBR 规范）\n\n## **有哪些要求？**\n* Optifine（1.16 或更高版本）/ Iris（1.5.0 或更高版本）\n* GTX 1050 / RX 560 或类似/更高级别显卡（必须支持 OpenGL 4.3）\n  * 推荐 GTX 1660 / RX 5600XT 或更好，以在默认设置下运行 1080p 分辨率\n* Windows / Linux\n* **不支持 Intel HD 5000 Graphics 及更早的集成显卡！**\n\n## **外部链接：**\n* 我的网站：[链接](https://rre36.com/soft-voxels)\n* 我的 Discord 服务器：[链接](https://discord.gg/y5xzQ6H)\n\n[![成为赞助者](https://rre36.com/wp-content/uploads/2023/05/Patreon_ForEmbed.png)](https://www.patreon.com/bePatron?u=19790203)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

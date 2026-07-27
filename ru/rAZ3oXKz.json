@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8117fee8b8f0c20",
+  "content": "# 实体标签修复\n\n一个小型 NeoForge 模组，将模组添加的怪物加入它们所属的原版实体类型标签中，从而使原版战斗机制对它们生效。纯数据和标签修改，不进行代码修补或 Mixin 注入。\n\n## 功能说明\n许多原版战斗行为由实体类型标签决定。例如，“神圣打击”（Smite）以及治疗与伤害药水效果使用 `minecraft:undead`（不死生物）标签；袭击和灾厄之影（Bad Omen）使用 `minecraft:raiders`（袭击者）标签；而“节肢杀手”（Bane of Arthropods）则使用节肢动物标签。然而，模组添加的怪物只有在其自身模组中明确添加了这些标签才会生效，但许多模组并未这样做。因此，模组添加的骷髅不会受到“神圣打击”的额外伤害，也不会被治疗药水治愈；模组添加的灾厄村民会被袭击跳过；模组添加的蜘蛛也不会受到“节肢杀手”的影响。\n\nMob Tag Fixes 将这些遗漏的怪物补充到相应的标签中。所有条目均为软依赖（soft），即如果你没有安装某个模组，它将被跳过而不是导致错误，并且它会扩展原版标签而不是覆盖它们。\n\n## 覆盖范围\n- **不死生物（Undead）**：涵盖来自 Iron's Spells、Cataclysm Spellbooks、Traveloptics 和 GameTechBC 的召唤骷髅、僵尸和德鲁加尔（draugr），以及来自 Born in Chaos、Alex's Mobs、Alex's Caves 和 Mutant Monsters 的不死生物。\n- **袭击者与灾厄村民（Raiders and Illager）**：涵盖 Iron's Spells 中的 Archvoker 以及 It Takes a Pillage 中的强盗派系。\n- **节肢动物（Arthropod）**：涵盖来自 Alex's Mobs、Ars Nouveau、Cataclysm 和 Iron's Spells 的模组昆虫和甲壳类生物。\n\n## 配置\n在 `config/mob_tag_fixes-common.toml` 中提供按模组分类的配置选项，可以关闭任何模组的添加内容。清晰明确的条目以及边界情况（如幽灵、南瓜骑士和无头怪）被拆分为单独的开关，以便你可以保留想要的内容并关闭不需要的内容。将某个组设置为 `false`，该组内的怪物就不会被加入标签。由于添加的内容是普通的标签文件，数据包也可以移除个别条目。\n\n## 注意事项\n仅限服务端。对任何支持的模组均无硬性依赖，且可以在现有世界中安全地添加或删除。如果你使用 Extra Damage Enchantments 模组来利用其额外的伤害类别，本模组可与该模组协同工作。\n\n## 要求\nMinecraft 1.21.1，NeoForge。其余均为可选。\n\n## 许可证\nMIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

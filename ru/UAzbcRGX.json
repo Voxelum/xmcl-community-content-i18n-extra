@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c886fdba446bb183",
+  "content": "\n\n[ISSUES]: https://github.com/PssbleTrngle/RegistryDump/issues\n\n[DOWNLOAD]: https://modrinth.com/project/registry-dump/versions\n\n[MODRINTH]: https://modrinth.com/project/registry-dump\n\n# Registry Dump\n\n[![Release](https://img.shields.io/github/v/release/PssbleTrngle/RegistryDump?label=Version&sort=semver)][DOWNLOAD]\n[![Issues](https://img.shields.io/github/issues/PssbleTrngle/RegistryDump?label=Issues)][ISSUES]\n[![Modrinth](https://img.shields.io/modrinth/dt/UAzbcRGX?color=green&logo=modrinth&logoColor=green)][MODRINTH]\n\n<!-- modrinth_exclude.end -->\n\nВыгружает идентификаторы всех известных записей реестра в файлы JSON.\n```\n/dump registry\n```\nТакже можно указать конкретный реестр; по умолчанию экспортируются все реестры.\n```\n/dump registry minecraft:item\n```\n\nФайлы JSON создаются в папке `dump` внутри каталога вашего Minecraft и имеют следующую структуру:\n```\ndump/[registry key]/[namespace].json\n```\n\nНапример:\n```\ndump/banner_pattern/minecraft.json\ndump/item/brazier.json\ndump/worldgen/biome/minecraft.json\ndump/worldgen/biome/environmental.json\n```\n\nСодержимое этих файлов представляет собой простой массив JSON, содержащий все ключи для указанной комбинации реестра и пространства имён.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

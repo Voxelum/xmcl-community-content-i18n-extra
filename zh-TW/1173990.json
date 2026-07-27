@@ -1,0 +1,6 @@
+{
+  "bodyHash": "96807807e8016640",
+  "content": "<h2 style=\"text-align:left\">Pixelmon Lucky Block 擴充模組</h2>\n<p style=\"text-align:left\">此模組與 Pixelmon Reforged 搭配使用，可透過幸運方塊隨機生成寶可夢，並提供多種幸運方塊，包括普通、傳說以及偽傳說等級的方塊。</p>\n<p style=\"text-align:left\">觸發傳說級別時會有特殊效果。</p>\n<h3>幸運方塊</h3>\n<p>預設機率：</p>\n<ul>\n<li>傳說級 - 1%</li>\n<li>究極異獸 - 10%</li>\n</ul>\n<h3>傳說級幸運方塊</h3>\n<p>預設機率：</p>\n<ul>\n<li>傳說級 - 100%</li>\n</ul>\n<h3>偽傳說級幸運方塊</h3>\n<p>預設機率：</p>\n<ul>\n<li>傳說級 - 30%</li>\n<li>鯉魚王 - 70%</li>\n</ul>\n<h3>寶可手機</h3>\n<ul>\n<li>右鍵點擊以治療當前隊伍</li>\n<li>按住 SHIFT + 右鍵點擊以開啟電腦倉庫</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

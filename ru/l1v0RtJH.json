@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f325088004deeae1",
+  "content": "<p align=\"center\">\n  <img src=\"https://i.imgur.com/IxB2yoZ.png\" alt=\"An image describing what the mod Helmod does which includes Shiny Rates, XP Rates, and Catch Rates.\" />\n</p><br>Для работы требуется база данных MySQL.<br>Используются команды такие как /helmod catch (target) (multiplier), /helmod shiny (target) (multiplier), /helmod exp (target) (multiplier).<br>Helmod работает с Cobblemon 1.6.1 для множителей скорости опыта и улова.<br>Однако он также подготовлен для регулировки коэффициентов сияния в будущих обновлениях Cobblemon.<br>Мы не имеем никакой связи с модулем Cobblemon. Этот мод создан с помощью сайта Player.Games.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

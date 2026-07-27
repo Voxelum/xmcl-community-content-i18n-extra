@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0b995826be04472c",
+  "content": "# **这是一个 [Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom) 模组！**\n\n源自原版 [CodeChickenLib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8) 的分支\n\n包含用于 3D 数学与变换、渲染、网络通信、配置等的大量库，以及更多功能。\n\n变更内容：\n- 旧的 CCL 在非 FG2 开发环境中会崩溃，导致无法执行 `runClient`。此分支已修复该问题。\n- 修复了与 Cleanroom 启动时的崩溃问题。\n- 添加了禁用支持者功能的选项，因为服务器 JSON 无效。\n- 计划将部分 API 迁移至 Cleanroom，然后将 CCL 改造为某种包装器。\n\nMaven: https://repo.cleanroommc.com/#/releases/codechicken/CodeChickenLib",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

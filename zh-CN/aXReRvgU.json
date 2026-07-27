@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8cbb9b96a134a019",
+  "content": "\n\n## 简介\n\n安装本模组后，你就可以像其他人一样正常游玩了。真的就这么简单。\n\n## 功能特性\n- 修复 <1.20.2 中 `Shift` + `滚轮` 无法使用的问题（[MC-121772](https://bugs.mojang.com/browse/MC-121772)），以及 >=1.20.2 中滚轮方向反转的问题\n- 修复 <1.13 中的鼠标侧键问题\n- 禁用 `Ctrl` + `左键点击` = `右键点击` 的模拟行为\n\n## 支持的架构\n\n同时支持 arm64（M1）和 amd64（x64、Intel）架构。\n\n## 疑问或问题\n请使用 GitHub Issues 页面提交反馈：https://github.com/MinecraftMachina/McMouser/issues",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

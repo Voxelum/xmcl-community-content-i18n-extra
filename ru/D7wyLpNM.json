@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9a15457dfef597d9",
+  "content": "# Блок с цифровой клавиатурой\n\nДобавляет блок, функционирующий как замок с цифровой клавиатурой. Позволяет ввести пароль длиной до 32 символов, после чего блок может подавать питание на другие блоки или редстоун-цепи. Автоматически сбрасывается через 5 секунд.\n\n- Требуется Fabric API\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/n6uV9hKQ8cY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Благодарности\n\n- Огромная благодарность Moonkey за создание текстур.\n\n## Лицензия\n\nВесь код в этом репозитории (Keypad) является полностью бесплатным и открытым исходным кодом. Вы можете свободно читать, распространять и изменять код при условии соблюдения условий [лицензии GNU LGPLv3](https://github.com/MerryDreambound/Keypad/blob/main/LICENCE).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

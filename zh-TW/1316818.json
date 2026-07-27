@@ -1,6 +1,6 @@
 {
-  "bodyHash": "976670ad53e4efe8",
-  "content": "<p>這是一個小型模組，為 Applied Energistics 2 的生長加速器新增了 3 個新階層。</p>\n<h3>曲柄生長加速器</h3>\n<ul>\n<li>無法連接到您的 ME 網路</li>\n<li>不會直接接受動力</li>\n<li>只能使用手搖曲柄供電</li>\n<li>速度為基礎速度的 8 倍，但幾乎會瞬間耗盡動力</li>\n</ul>\n<h3>增強型生長加速器</h3>\n<ul>\n<li>速度為基礎速度的 4 倍，但會消耗約 5 倍的能源</li>\n<li>當放置在相近的農地上時，會與其他增強型加速器產生衝突</li>\n</ul>\n<h3>定向生長加速器</h3>\n<ul>\n<li>適用於萌芽方塊，例如紫水晶或石英萌芽方塊</li>\n<li>允許您指定萌芽叢的生長方向</li>\n<li>當放置在相近的農地上時，會與其他定向加速器產生衝突</li>\n<li>目前支援以下模組：<ul>\n<li>Minecraft</li>\n<li>Applied Energistics 2</li>\n<li>ExtendedAE</li>\n<li>Geores</li></ul></li>\n</ul>\n<p>您希望看到其他模組獲得支援嗎？在 GitHub 上開啟一個功能請求，我會確保將其加入！</p>",
+  "bodyHash": "c228b7a5d66af4d4",
+  "content": "<p>這是一個小型模組，為 Applied Energistics 2 的生長加速器新增了 3 個新階層</p>\n<h3>手搖生長加速器</h3>\n<ul>\n<li>無法連接到您的 ME 網路</li>\n<li>不會直接接受電力</li>\n<li>只能用手搖曲柄供電</li>\n<li>速度是基礎的 8 倍，但會幾乎瞬間耗盡動力</li>\n</ul>\n<h3>增強型生長加速器</h3>\n<ul>\n<li>速度是基礎的 8 倍，但會消耗約 3 倍的能源</li>\n<li>當放置在相近的農地上時，會與其他增強型加速器產生衝突</li>\n</ul>\n<h3>定向生長加速器</h3>\n<ul>\n<li>對萌芽方塊（如紫水晶或 Certus 石英萌芽方塊）非常有用</li>\n<li>允許您指定萌芽簇的生長方向</li>\n<li>當放置在相近的農地上時，會與其他定向加速器產生衝突</li>\n<li>目前支援以下模組\n<ul>\n<li>Minecraft</li>\n<li>Applied Energistics 2</li>\n<li>ExtendedAE</li>\n<li>Geores</li>\n</ul>\n</li>\n</ul>\n<p>您希望看到其他哪些模組獲得支援？在 GitHub 上開啟功能請求，我會確保將其新增！</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

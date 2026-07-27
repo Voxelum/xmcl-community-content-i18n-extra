@@ -1,0 +1,6 @@
+{
+  "bodyHash": "684daad16743ad0b",
+  "content": "# Overlayer\n\n![MIT License](https://img.shields.io/badge/License-MIT-pink.svg)\n\n![Client-side](https://img.shields.io/badge/Client--side-Pure%20Client-6A0DAD?logo=java&logoColor=white)\n\nOverlayer 是一款客戶端 Minecraft 模組，允許您將任何圖片（PNG、JPG、BMP、GIF 等）覆蓋在遊戲畫面上。\n\n## ✨ 功能\n\n- **新增圖片** – 支援 PNG、JPG、JPEG、BMP、GIF、TIF、ICO 等格式\n- **直覺的 GUI** – 在乾淨的設定畫面中編輯項目。\n- **即時預覽** – 調整滑桿時可立即看到變更。\n- **遊戲感知** – 圖片可設定為僅在遊戲中顯示或僅在主選單中顯示。\n- **輕量級** – 對效能的影響極小。\n\n## 📦 安裝\n\n從 [Releases 頁面](https://github.com/Skrepy0/Overlayer/releases) 下載與您的遊戲和模組載入器相容的最新 Overlayer 版本。\n\n## 🙏 致謝\n\n- **iCafe** – 用於讀取/寫入各種圖片格式的圖像處理庫。  \n  [Repository](https://github.com/dragon66/icafe)\n\n## 📄 授權條款\n\n本專案採用 MIT 授權條款 – 詳情請參閱 [LICENSE](LICENSE) 文件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

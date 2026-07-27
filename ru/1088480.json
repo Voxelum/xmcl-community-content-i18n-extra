@@ -1,6 +1,6 @@
 {
-  "bodyHash": "6PZuZVCyl3A=",
-  "content": "<p>Просто исправляет совместимость NBT в многопользовательской игре, реализовано так, как показано в этом [пуль-реквесте](<a href=\"https://github.com/ZsoltMolnarrr/BetterCombat/pull/324\" target=\"_blank\" rel=\"nofollow\">https://github.com/ZsoltMolnarrr/BetterCombat/pull/324</a>) &nbsp;<br>Это устраняет проблему с неработающей совместимостью NBT в мультиплеере, что необходимо для модов с модульными предметами, таких как Truly Modular. &nbsp;<br>Эта проблема [<a href=\"https://github.com/ZsoltMolnarrr/BetterCombat/issues/141\" target=\"_blank\" rel=\"nofollow\">https://github.com/ZsoltMolnarrr/BetterCombat/issues/141</a>] решена благодаря этому &nbsp;</p>",
+  "bodyHash": "26bd3ff41cea348e",
+  "content": "<p>Просто исправляет совместимость NBT в многопользовательской игре, реализовано так, как показано в этом [запросе на слияние](<a href=\"https://github.com/ZsoltMolnarrr/BetterCombat/pull/324\" target=\"_blank\" rel=\"nofollow\">https://github.com/ZsoltMolnarrr/BetterCombat/pull/324</a>) &nbsp;<br>Это исправляет проблему, когда NBT Совместимость не работает в многопользовательской игре, что необходимо для модов на модульные предметы, таких как Truly Modular. &nbsp;<br>Эта проблема [https://github.com/ZsoltMolnarrr/BetterCombat/issues/141](<a href=\"https://github.com/ZsoltMolnarrr/BetterCombat/issues/141\" target=\"_blank\" rel=\"nofollow\">https://github.com/ZsoltMolnarrr/BetterCombat/issues/141</a>) исправляется этим &nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

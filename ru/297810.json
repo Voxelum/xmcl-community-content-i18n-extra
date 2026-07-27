@@ -1,0 +1,6 @@
+{
+  "bodyHash": "83013461e05b3ec3",
+  "content": "<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">Это включает поддержку Serene Seasons в InGame Info XML путем добавления тега \"serseason\", который возвращает текущую субсезонную фазу в игре.</p>\n<p style=\"text-align:center\"><strong>Это не редактирует xml-файл.</strong></p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">Для тех, кому требуется дополнительная информация, файл 'xml', который вы используете, необходимо вручную отредактировать, чтобы включить недавно добавленный тег. Пример использования этого тега показан в коде ниже.</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p>Пример использования в xml-файле:</p>\n<p>&nbsp;</p>\n<p>&lt;line&gt;</p>\n<p>&nbsp; &nbsp; &nbsp; &lt;str&gt;Сезон: &lt;/str&gt;</p>\n<p>&nbsp; &nbsp; &nbsp; &lt;var&gt;serseason&lt;/var&gt;</p>\n<p>&lt;/line&gt;</p>\n<p>&nbsp;</p>\n<p style=\"text-align:center\">Этот мод следует использовать вместе со следующими модами:</p>\n<p style=\"text-align:center\"><a href=\"https://minecraft.curseforge.com/projects/serene-seasons\" rel=\"nofollow\">Serene Seasons</a></p>\n<p style=\"text-align:center\"><a href=\"https://minecraft.curseforge.com/projects/ingame-info-xml\" rel=\"nofollow\">InGame Info XML</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

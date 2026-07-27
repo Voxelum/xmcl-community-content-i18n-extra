@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ef182ed80d554c44",
+  "content": "\n\n# Point Blank Pillagers\n\n**Point Blank Pillagers** 將原本簡陋的弩替換為來自 *Vic's Point Blank* 模組的龐大現代火器庫。掠奪者現在成為具有真實準確度與射速的戰術威脅。\n\n![屋頂狙擊手](https://cdn.modrinth.com/data/cached_images/b53331e86ebf09b29ec43d1b96d842bb028bcbb0.jpeg)\n\n---\n\n## 不只是給掠奪者裝備槍枝\n\n* **武器生成機制：** 每個掠奪者現在都會生成並持有 **55 種槍枝** 中的一把，這些槍枝分為 **5 個稀有度等級**。\n\n* **真實射速（RPM）：** 射速會根據槍枝數據進行精確同步計算。Vector 衝鋒槍會以每分鐘 1,200 發的速度掃射，而 L96A1 狙擊步槍則會在射擊間擁有真實的拉栓延遲。\n\n* **真實準確度：** 採用動態準確度系統，針對不同槍枝類型及其與目標的距離進行調整。掠奪者在近距離時更為精準，但在遠距離會呈現真實的子彈散布效果。\n\n* **彈匣與裝填系統：** 掠奪者會遵守彈匣容量限制。他們會持續傾瀉壓制火力直到彈匣耗盡，進而被迫進入脆弱的裝填空檔。\n\n---\n\n### 技術規格\n\n* **適用平台：** Fabric 1.21.11 與 1.21.1\n* **必要依賴：** [Vic's Point Blank](https://modrinth.com/mod/vics-point-blank/versions?g=1.21.11&g=1.21.1&l=fabric)\n    * Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

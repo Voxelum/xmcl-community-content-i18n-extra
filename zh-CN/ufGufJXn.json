@@ -1,0 +1,6 @@
+{
+  "bodyHash": "afdb4195cb34b08c",
+  "content": "\n\n# Re-FTBQLocalizationKeys (Re-FTBQKeys)\n这是 FTB Quests: Localization keys 的分支版本，该模组会从 FTB Quests 的任务文件中提取本地化键，并自动生成语言文件。\n\n### 如何使用？\n- 安装 FTB Quests 和 KubeJS\n- 使用**任务文本已全部编写完成**的整合包运行游戏\n- 在聊天栏输入：`/ftbqkey <language code>`（如 `/ftbqkey zh_cn`）。语言代码仅影响文件名。\n- 所有文件将位于 `<gamedir>/ftbqkeys/` 文件夹中\n- 将生成的文件移动至对应目录（`kubejs/assets/kubejs/lang` 和 `config/ftbquests/quests`）。\n- 生成语言文件后，你可以删除此模组。\n\n### 注意事项\n- **1.0.0-1.16.5 版本需要 Java 16 及以上**\n- 如果你想在已生成的键中添加新任务，请不要这样做。后续添加的所有任务及其本地化键都需要手动编写。本模组仅应在任务文本全部编写完成后使用。\n- 建议先完成本地化生成，再添加图片。\n- 图片置于文本中间时显示效果不佳。\n- 如果文本顶部出现“格式错误”提示，请重新编写文本，并尽量避免使用任何特殊符号。\n- 任务备份会生成在 `ftbqkeys` 文件夹中。\n\n\n### 本模组代码参考/引用：\n- [Horeak/ftb-quest-lang-generator (FTB Quests: Localization keys)](https://github.com/Horeak/ftb-quest-lang-generator) (Forge 1.18+) (CC-BY-4.0)\n- [criscky/ftb-quest-lang-generator](https://github.com/criscky/ftb-quest-lang-generator) (Forge 1.16.5) (CC-BY-4.0)\n- [DM-Fabric-Ports/ftb-quest-lang-generator (FTB Quests: Localization Keys Refabricated)](https://github.com/DM-Fabric-Ports/ftb-quest-lang-generator) (Fabric 1.18+) (CC-BY-4.0)\n\n_**请勿将 Re-FTBQKeys 的任何问题反馈至官方 FTB Quests: Localization keys 的 GitHub / CurseForge 页面。**_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

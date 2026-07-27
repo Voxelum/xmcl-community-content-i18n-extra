@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RRfXszCLJ5M=",
-  "content": "<p>此模組讓您即使在伺服器離線模式下也能展示您的皮膚。</p><p>&nbsp;</p><p>若您的常規皮膚無法載入，可將自己/他人的皮膚檔案（以使用者名稱命名並以.png結尾）放入生成的文件夾（.minecraft/cachedImages/skins）中。如此一來，模組將使用該檔案為您/他人載入皮膚。</p><p>[此功能可關閉] 當常規皮膚無法載入時，亦會透過<a href=\"/linkout?remoteUrl=https%253a%252f%252fcrafatar.com%252f\" rel=\"nofollow\">Crafatar</a>提供皮膚。</p><p>您還可透過配置設定使用自訂皮膚伺服器。（1.12.2-v2版本後支援）</p><p>支援高解析度皮膚。（1.12.2-v3版本後支援）</p><p>&nbsp;</p><p>本模組僅需客戶端安裝，無需在伺服器端安裝。</p><p>此模組開發時間早於<a href=\"http://minecraft.curseforge.com/projects/skinport\" rel=\"nofollow\">SkinPort</a>，但已歷經多次重寫<del>（曾使用SkinPort程式碼）</del>。</p><p>可能存在部分錯誤，歡迎回報問題給我。</p><p>&nbsp;</p><p>未來Fabric版本將於<a href=\"https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric\" target=\"_blank\" rel=\"nofollow\">此獨立專案</a>中更新。</p>",
+  "bodyHash": "57f8e2bba85be28e",
+  "content": "\n\n<p>即使伺服器處於離線模式，此模組也能讓您在其他玩家面前展示您的皮膚。</p>\n<p>&nbsp;</p>\n<p>如果您的正常皮膚無法載入，您可以在生成的資料夾（.minecraft/cachedImages/skins）中新增您自己或其他玩家的皮膚，檔名請使用您的使用者名稱並以 .png 結尾。如此一來，此模組便會使用所提供的檔案來載入角色皮膚。</p>\n<p>[此功能可關閉] 當正常皮膚無法載入時，也會使用 <a href=\"/linkout?remoteUrl=https%253a%252f%252fcrafatar.com%252f\" rel=\"nofollow\">Crafatar</a> 來提供皮膚。</p>\n<p>您也可以透過設定檔將其配置為使用自訂皮膚伺服器。（1.12.2-v2 之後的版本）</p>\n<p>支援高解析度皮膚。（1.12.2-v3 之後的版本）</p>\n<p>&nbsp;</p>\n<p>此模組僅限客戶端，不需要在伺服器上安裝。</p>\n<p>此模組開發於 <a href=\"http://minecraft.curseforge.com/projects/skinport\" rel=\"nofollow\">SkinPort</a> 之前，但已歷經數次改寫，原先 <del>使用了 SkinPort 的程式碼</del>。</p>\n<p>可能會有一些錯誤，若您發現問題歡迎回報給我。</p>\n<p>&nbsp;</p>\n<p>未來的 Fabric 版本更新請見 <a href=\"https://www.curseforge.com/minecraft/mc-mods/offlineskins-fabric\" target=\"_blank\" rel=\"nofollow\">此獨立專案</a>。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

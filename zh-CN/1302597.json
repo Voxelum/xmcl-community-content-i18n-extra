@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6fbebc0d32528817",
+  "content": "\n\n<p>为大多数 GregTech CEu Modern 配方提供支持。支持大部分多对一配方。部分配方被有意禁用（如离心机、多数蒸馏配方），或对其 EMC 计算进行了调整，因为这些多对多配方无法被 ProjectE 直接支持。EMC 计算的调整包括将视为基础物质（如水、氧气、氢气等）或废弃物（如稀释酸液）的输出流体排除在 EMC 计算之外。&nbsp; 可能存在 EMC 利用漏洞、EMC 数值不一致，以及关联配方/物品缺失 EMC 值的情况。完全不平衡。</p>\n<p>1.1.X 版本仅兼容新的 GTCeu 1.21-7.0.X 更新</p>\n<p>更早的版本仅兼容 GTCeu 1.21-1.4.X</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

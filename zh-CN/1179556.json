@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fb5af463f545e8f4",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/jMvJaKO.png\" alt=\"banner\"></p>\n<p><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg\" alt=\"fabric\">\n<img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/paper_vector.svg\" alt=\"paper\">\n<img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/purpur_vector.svg\" alt=\"purpur\">\n<img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/spigot_vector.svg\" alt=\"spigot\"></p>\n<h2>ClickMobs</h2>\n<p><strong>ClickMobs 是一款简单的便利性模组/插件，允许你将任何生物拾取到背包中并随身携带。</strong></p>\n<p><a href=\"https://discord.gg/zUetzp3Gzk\" rel=\"nofollow\"><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg\" alt=\"discord\"></a></p>\n<h2>功能特性</h2>\n<ul>\n<li>通过 <strong>Shift + 右键点击</strong> 将生物拾取到背包中。</li>\n<li>放置对应的生物头颅即可将它们放回世界。\n<ul>\n<li>可直接将生物放入船只、矿车等载具中。</li>\n<li>使用发射器可自动重新生成生物。（仅限 Paper/Spigot 1.21+）</li>\n</ul>\n</li>\n<li>提示信息、音效与粒子效果简洁清爽。</li>\n<li>高度可配置。\n<ul>\n<li>默认情况下无法拾取敌对生物。</li>\n<li>支持为任意生物自定义黑名单或白名单。</li>\n</ul>\n</li>\n<li><strong>语言支持：</strong> 德语 &amp; 英语（仅限 Paper/Spigot）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

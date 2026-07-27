@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bab2b89abedd5db8",
+  "content": "\n\n<p>本模组还原了旧的暗室机制，该机制主要用于生成 EMC。具体实现为：当对草方块使用骨粉时，如果光照等级为 0，它会直接掉落草方块/花朵，而不是将其种植下去。</p>\n\n\n<p>如果你想支持我的模组开发工作，可以通过&nbsp;<a href=\"http://www.patreon.com/jaredlll08?darkrooms\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CAJuExT.png\" alt=\"\">Patreon.</a></p>\n\n\n[![Nodecraft 赞助横幅](https://assets.blamejared.com/nodecraft/jared.jpg)](https://nodecraft.com/r/jared)\n**本项目由 Nodecraft 赞助。使用代码 [JARED](https://nodecraft.com/r/jared)，首月服务可享七折优惠！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

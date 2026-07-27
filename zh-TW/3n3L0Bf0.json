@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0c807424d7e6ff69",
+  "content": "\n\n# 版本世界排序器\n\n這是一個客戶端模組，會將與你目前 Minecraft 版本不符的存檔世界隱藏在選單中。支援 Fabric、Forge 以及 NeoForge。\n\n它是 [Version Mod Sorter](https://modrinth.com/mod/version-mod-sorter) 的配套模組。由於 VMS 會將許多 Minecraft 版本的模組存放在同一個共用資料夾 `mods` 中，因此無論在哪個版本下，每個存檔世界都會顯示出來；而開啟不正確版本的世界可能會導致損壞。Version World Sorter 會將不符合目前版本的世界隱藏起來，以防止此情況發生。兩者搭配使用效果良好，但也皆可單獨使用。\n\n## 運作方式\n\n開啟世界選單。在搜尋框右側會出現一個切換按鈕，按下它可在三種顯示模式之間切換：\n\n*   **Exact** — 僅顯示與目前 Minecraft 版本完全相符的世界。\n*   **Compatible** — 顯示目前版本或舊版的世界，並隱藏建立於更新版本的世界（這類世界若被開啟會被降級——這是最主要的損壞風險）。\n*   **All** — 顯示所有世界，與原版相同。\n![世界選單](https://cdn.modrinth.com/data/3n3L0Bf0/images/adbf6e3c45d8f62636cd3e61d8b802091252159d.webp)\n\n每次啟動時，模組會自動從第一個有世界的模式開始，且切換按鈕會跳過不會顯示任何世界的模式。所選模式不會被儲存，並在下次啟動時重置。\n\n## 功能特色\n\n*   適用於 Fabric、Forge 和 NeoForge——單一 JAR 檔案即可支援這三者\n*   三種顯示模式：Exact、Compatible 和 All\n*   僅限客戶端——對伺服器無影響\n\n## 需求\n\n*   Minecraft 1.20.5+（Forge 為 1.20.6+，因為 Forge 沒有 1.20.5 發行版）\n*   Fabric Loader 0.15.0+ / Forge 50+ / NeoForge 20.5+\n\n## 備註\n\n*   隱藏的世界絕不會被刪除或修改——它們只是從畫面列表中被過濾掉。切換至 **All** 即可讓他們全部回來。\n*   Minecraft 的重大版本更新可能會導致此模組停止運作，但它絕不會影響遊戲或你的世界。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

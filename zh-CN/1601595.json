@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7776e22419a6b63a",
+  "content": "<p>**用于图腾和盾牌的动画3D美西螈桶**</p>\n<p>将你的盾牌和不死图腾变成可爱的动画美西螈桶。</p>\n<p>此资源包使用来自资源包 <a href=\"https://www.curseforge.com/minecraft/texture-packs/refined-buckets\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/texture-packs/refined-buckets</a> 中的动画美西螈桶模型，替换了盾牌和图腾的持有模型。物品功能完全正常：盾牌仍然可以格挡，图腾仍然可以救命，仅视觉效果发生变化。<br>特性<br>用美西螈桶模型替换盾牌<br>用美西螈桶模型替换不死图腾<br>保留原始物品行为<br>使用 Punchy 动画持有模型<br>支持为盾牌和图腾分别设置<br>允许你选择不同的美西螈颜色：<br>露西 / 粉色<br>野生 / 棕色<br>金色<br>青色<br>蓝色<br>允许你选择 GUI 显示：<br>动画美西螈桶模型<br>或默认的盾牌/图腾图标<br>允许你单独启用或禁用盾牌和图腾的替换<br>所需模组</p>\n<p>为了让动画持有模型正常工作，你需要安装：</p>\n<p>Punchy<br>Respackopts<br>LibJF<br>Respackopts 需要 LibJF 来提供资源包设置菜单。</p>\n<p>如果没有 Respackopts，该资源包仍会加载，但会使用默认设置。</p>\n<p>所需资源包</p>\n<p>为了获得最佳效果，请配合以下资源包使用：</p>\n<p>Refined Buckets - 资源包<br>Punchy! - 模组</p>\n<p>在资源包列表中，此包应位于 Refined/Fresh 桶包之上。</p>\n<p>推荐加载顺序</p>\n<p>从上到下：</p>\n<p>用于图腾和盾牌的动画3D美西螈桶<br>Refined Buckets<br>其他资源包</p>\n<p>注意：</p>\n<p>此包主要面向使用 Punchy 并希望盾牌和图腾与动画美西螈桶风格相匹配的玩家。</p>\n<p>如果在更改设置后模型未更新，请按“完成”并让 Minecraft 重新加载资源包。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

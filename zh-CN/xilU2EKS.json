@@ -1,6 +1,6 @@
 {
-  "bodyHash": "H82sNN+8cVc=",
-  "content": "# ⚠️ 警告：尚未达到生产环境标准  \n**目前请勿在服务器或准备长期投入的存档中使用本模组！**  \n**使用本模组加载存档前，请务必备份现有存档！**  \n我们仍在开发中，无法保证未来版本能兼容当前版本创建的存档。  \n\n---\n\n# NeoMTR  \n基于 [Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway) v3.x 分支开发，适配新版 Minecraft 并新增多项特性。  \n\n## 主要新特性  \n- 支持 1.21.1 版本  \n- 内置 NTE 功能  \n- \"虚拟\"手动驾驶系统  \n- 车辆动态摇摆效果  \n- 自定义目的地显示、PIDS/地图/列车显示屏独立设置  \n- 通用单向闸机  \n- 服务器端列车模拟在低 TPS 下仍持续运行  \n- 多项其他问题修复",
+  "bodyHash": "86a5533787f4dadb",
+  "content": "\n\n# ⚠️ 警告：暂不适合正式使用\n**目前，请勿将此模组用于服务器，或准备投入大量精力的存档！**  \n**加载此模组前，请务必备份现有存档！**  \n我们仍在持续开发中，因此未来版本可能无法保证与当前版本的向后兼容性。  \n\n# ⚠️ 警告: 本模组暂时还不适合生产环境\n**现在来说，先不要将其用于服务器，或者计划长期建设的存档！**  \n**要将已有的 MTR 存档在此模组下加载时，请先备份！**  \n本模组还在开发过程中，所以可能不保证未来版本模组能向后兼容地加载现在版本模组创建的存档。\n\n---\n\n# NeoMTR\n基于 [Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway) v3.x 的衍生版本，运行于更新的 Minecraft 版本，并增加了一些额外功能。\n\n## 主要新特性\n- 支持 1.21.1\n- 内置 NTE\n- “虚拟”手动驾驶系统\n- 车辆摇摆效果\n- 自定义终点站，PIDS、地图及列车显示屏支持独立设置\n- 通用单向闸机\n- 服务端列车模拟在低 TPS 下仍可正常运行\n- 若干其他修复",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

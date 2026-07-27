@@ -1,6 +1,6 @@
 {
-  "bodyHash": "5YjSGZ4n7vI=",
-  "content": "<p>這個模組採用現代化的混入技術，能有效解決 Minecraft「移動過快」和「移動異常」的錯誤訊息</p><p>&nbsp;</p><p>本模組讓你能突破原版遊戲的速度限制自由移動</p><p>此為<strong>伺服器端模組</strong>，客戶端無需安裝</p><p>&nbsp;</p><p>若需要特定版本/載入器的移植版本，請在 GitHub 提交帶有「移植」標籤的議題</p><p>&nbsp;</p><p>只需將檔案放入伺服器的 mods 資料夾即可完成安裝</p><p style=\"text-align:center\">&nbsp;</p><p style=\"text-align:center\"><strong>感謝 ATMTEAM 將本模組收錄至 ATM10 整合包</strong></p>",
+  "bodyHash": "871eb05c1b8d3514",
+  "content": "<p>此模組使用 mixin 技術，為 Minecraft 中「移動過快」和「移動錯誤」的問題提供現代化解決方案。</p>\n<p>&nbsp;</p>\n<p>此模組允許您以超越原版遊戲限制的速度進行移動。</p>\n<p>此模組僅需安裝在<strong>伺服器端</strong>，客戶端無需安裝。</p>\n<p>&nbsp;</p>\n<p>如果您希望為特定版本或載入器移植此模組，請在 GitHub 上開具標註為「移植」的 Issue。</p>\n<p>&nbsp;</p>\n<p>只需將檔案複製並貼上至伺服器 mods 資料夾即可完成安裝。</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\"><strong>感謝 ATMTEAM 將我的模組納入 ATM10 整合包中。</strong></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

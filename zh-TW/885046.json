@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2I+Dc8KqstQ=",
-  "content": "<h2>更新世界圖示</h2><p>&nbsp;</p><p>讓單人遊戲世界的圖示在每次載入時重新生成，而不是永遠保留第一次生成的圖示。</p>",
+  "bodyHash": "c5af19619041df68",
+  "content": "\n\n<h2>更新世界圖示</h2>\n<p>&nbsp;</p>\n<p>每次載入世界時，會重新產生單人遊戲的世界圖示，而非永遠保留第一個圖示。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

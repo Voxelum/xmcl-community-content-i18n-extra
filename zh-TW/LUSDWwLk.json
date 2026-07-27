@@ -1,0 +1,6 @@
+{
+  "bodyHash": "663c0bbea053fa9c",
+  "content": "\n\n## 資訊\n\n此 Fabric Minecraft 模組會掃描所有已安裝的資源包，找出需要改名的 CIT（自訂物品材質），並透過其內建的 ModConfig 提供清單。\n\n## 圖片\n\n![顯示該模組主介面的圖片，包含一列材質清單。](https://cdn.modrinth.com/data/cached_images/41820496e2d29dd64e4ddc4588da87fb9a8465be.png)\n\n## 相依模組\n\n**需要 ModMenu**\n\n**需要 Fabric API**\n\n\n<a href=\"https://modrinth.com/mod/modmenu\"><img src=\"https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png\" width=\"50px\" alt=\"ModMenu 圖示\"></a>\n<a href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://cdn.modrinth.com/data/P7dR8mSH/icon.png\" width=\"50px\" alt=\"Fabric API 圖示\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

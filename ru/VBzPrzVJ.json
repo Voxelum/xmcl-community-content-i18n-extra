@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6c764576f47b9baa",
+  "content": "**Что такое Weather Effects Backport?**\n\nЭтот мод возвращает эффект дождя из версии 1.21.6 в версию 1.20.1, добавляя при этом некоторые улучшения!\n\nЭффект погоды проявляется во время дождя, снегопада и грозы: при появлении грозового неба туман от дождя становится темнее обычного.\n\nМод позволяет включать или отключать эффект дождя с помощью команды /weather_effect!\n\n <iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/aLKBj1X3stc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nНе беспокойтесь о совместимости — эффект погоды отлично работает с Embeddium и другими модами, изменяющими способ рендеринга объектов в Minecraft. Мод полностью совместим с ними.\n\n![Эффекты погоды](https://cdn.modrinth.com/data/cached_images/35c696fb591734b0f224f234422edc637cd62588_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

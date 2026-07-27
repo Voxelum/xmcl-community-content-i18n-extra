@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YH6b+hBAmnQ=",
-  "content": "![馬鈴薯光影橫幅](https://rre36.com/wp-content/uploads/2021/04/Potato-Banner.jpg \"Potato  Shader Banner\")\n\n## 什麼是馬鈴薯光影？\n這是一款盡可能保持輕量化的光影包，正如其名，即使是真正的「馬鈴薯」電腦也能順暢運行。儘管缺乏高負荷的動態陰影及其他昂貴特效，它仍嘗試以合理的方式提升畫質。同時透過多項遊戲內設定提供一定程度的自訂功能，讓你能獲得理想的遊戲體驗。\n\n## 它有哪些功能？\n* 動態色彩\n* 色調映射\n* 泛光效果\n* 景深效果\n* 動態模糊\n* 時間性抗鋸齒\n* 環境光遮蔽\n* 自訂水面\n* 法線貼圖支援\n以及更多功能。\n\n## 系統需求？\n* OptiFine 1.12或更新版本/Iris 1.5.0或更新版本\n* 支援OpenGL 4.0的顯示卡\n* Windows/Linux作業系統\n* **Windows系統不支援Intel HD 5000系列及更舊的顯示卡（都是Intel驅動的錯）！**\n\n## 外部連結：\n* 本專案官方網站：[連結](https://rre36.com/potato-shader)\n* 我的Discord伺服器：[連結](https://discord.gg/y5xzQ6H)\n\n[![成為贊助者](https://rre36.com/wp-content/uploads/2023/05/Patreon_ForEmbed.png)](https://www.patreon.com/bePatron?u=19790203)",
+  "bodyHash": "b2004dcc92917c8b",
+  "content": "![馬鈴薯光影標語](https://rre36.com/wp-content/uploads/2021/04/Potato-Banner.jpg \"Potato  Shader Banner\")\n\n## 什麼是馬鈴薯光影？\n這是一款力求極致輕量的光影包，正如其名所示，即使是在配置極其低下的「馬鈴薯級」PC 上也能運行。儘管它缺乏那些昂貴光影所擁有的傳說中動態陰影和其他高級特效，但它仍會以合理的方式提升視覺效果。此外，它還通過多種遊戲內設置提供了一定程度的自定義選項，讓您可以獲得理想的體驗。\n\n## 它提供了哪些功能？\n* 動態色彩\n* 色调映射（Tonemapping）\n* 泛光（Bloom）\n* 景深（Depth of Field）\n* 運動模糊\n* 時間性抗鋸齒（Temporal Anti-Aliasing）\n* 環境光遮蔽（Ambient Occlusion）\n* 自定義水面\n* 法線貼圖支持\n以及更多功能。\n\n## 有什麼要求嗎？\n* OptiFine 1.12 或更高版本 / Iris 1.5.0 或更高版本\n* 支持 OpenGL 4.0 的顯卡\n* Windows/Linux 系統\n* **Intel HD 5000 及更舊的顯卡在 Windows 上不受支持（請責怪 Intel 驅動程序）！**\n\n## 外部鏈接：\n* 本項目官方網站：[鏈接](https://rre36.com/potato-shader)\n* 我的 Discord 服務器：[鏈接](https://discord.gg/y5xzQ6H)\n\n[![成為贊助者](https://rre36.com/wp-content/uploads/2023/05/Patreon_ForEmbed.png)](https://www.patreon.com/bePatron?u=19790203)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

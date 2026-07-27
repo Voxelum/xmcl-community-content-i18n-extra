@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0dca01761decf913",
+  "content": "\n\n<h2>TheWatcher</h2>\n<p><strong>一款让《我的世界》变得“不对劲”的心理恐怖模组。</strong></p>\n<p>TheWatcher 并不会添加追逐你的怪物。相反，它会悄然瓦解你的安全感 &mdash; 通过那些似有若无的视觉、难以确认的声响，以及一个不再按常理运转的世界。</p>\n<hr>\n<h3>机制说明</h3>\n<p>一切由隐藏的<strong>恐惧系统</strong>驱动，它会在黑暗、静止与孤立中不断累积。你的恐惧值越高，世界就越会与你为敌。</p>\n<ul>\n<li><strong>暗影</strong> &mdash; 一个无面、漆黑的轮廓，总是出现在你视野边缘。当你直视它时，它便瞬间消失。</li>\n<li><strong>听觉回响</strong> &mdash; 你自己的声音（挖掘、打开箱子、脚步声）会在几秒后从附近某处重新播放。你还会开始听到并不存在的声音。</li>\n<li><strong>环境心理操控</strong> &mdash; 你关上的门变成了开的，你放置的火把消失了。没有任何暴力行为，也不留任何痕迹。</li>\n<li><strong>诡异生物</strong> &mdash; 附近的牛、猪和羊会停止移动，沉默地追踪你的每一步。</li>\n<li><strong>第四面墙侵蚀</strong> &mdash; 快捷栏物品在槽位间游走，物品名称变为低语文字，在恐惧达到顶峰时，游戏会模拟崩溃。</li>\n</ul>\n<hr>\n<h3>配置选项</h3>\n<p>所有功能均可在游戏内配置界面中开启/关闭或进行调节。恐惧积累速率、火把减速效果、模拟崩溃、动物凝视、暗影生成阈值 &mdash; 全部支持自定义。</p>\n<hr>\n<p><strong>支持 Forge、NeoForge 与 Fabric &mdash; 适用于 Minecraft 1.20.1</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

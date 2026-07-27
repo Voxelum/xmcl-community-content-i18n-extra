@@ -1,0 +1,6 @@
+{
+  "bodyHash": "47105db30312d2fd",
+  "content": "<p><span style=\"font-size:14px\">Simple Sorting 是一款 Minecraft 模組，基於 <a href=\"https://github.com/FabricMC/fabric\" rel=\"nofollow\">Fabric</a> 開發，旨在為 Minecraft 新增一項功能：物品欄排序。</span></p>\n<p><span style=\"font-size:14px\">它為以下容器添加了非常簡單的排序機制：</span></p>\n<ul>\n<li><span style=\"font-size:14px\">箱子</span></li>\n<li><span style=\"font-size:14px\">雙層箱子</span></li>\n<li><span style=\"font-size:14px\">桶子</span></li>\n<li><span style=\"font-size:14px\">終界箱</span></li>\n<li><span style=\"font-size:14px\">潛影盒（於 v0.2.0 新增）</span></li>\n<li><span style=\"font-size:14px\">其他通用容器。</span></li>\n</ul>\n<p><span style=\"font-size:14px\">要在專用伺服器上使用排序功能，伺服器也必須安裝此模組。<br></span></p>\n<p>自 v0.7.0+1.20.1 版本起，排序按鈕的位置可以在模組設定中進行配置（預設綁定為 F4 鍵）。</p>\n<h2><strong>演示</strong></h2>\n<p>&nbsp;</p>\n<p><img src=\"https://media.giphy.com/media/Ezj6tQEowCqknH3Tv5/giphy.gif\" alt=\"Demonstration\" width=\"480\" height=\"270\"></p>\n<p>&nbsp;</p>\n<h2>原始碼</h2>\n<p><a href=\"https://github.com/Noitcereon/simple-sorting\" rel=\"nofollow\">https://github.com/Noitcereon/simple-sorting</a></p>\n<p>&nbsp;</p>\n<h2>維護者</h2>\n<p><a href=\"https://github.com/Noitcereon\" rel=\"nofollow\">Noitcereon</a> (GitHub 連結)</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

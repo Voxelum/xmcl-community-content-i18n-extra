@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fb285b5da30fa05f",
+  "content": "### QuLib — это мод-библиотека, предоставляющая утилиты для разработки модов:\n- Утилиты для выполнения рейкастов (Raycasts)\n- Вспомогательные методы для объединения различных математических библиотек векторов, используемых в коде Minecraft\n- Расширения Kotlin для Joml и классов математики Minecraft\n- Случайные расширения\n- Сериализация NBT для Joml\n- Утилиты для расчетов прицеливания и разброса\n\nДоступен как для **Fabric**, так и для **Forge**, требуя соответственно [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) и [Kotlin For Forge](https://modrinth.com/mod/kotlin-for-forge)\n\n### В версиях 1.18.2 этот мод также включает две Java-библиотеки:\n1. Joml — библиотека векторной математики\n2. Javaluator — библиотека вычисления выражений",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

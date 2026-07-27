@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a9fee12a96e4d5a",
+  "content": "RareVillages 讓村莊變得更加稀有，它不是通過降低生成機率，而是通過增加村莊之間的間距來實現。你可以使用 [Jacobsjo 的 Minecraft 數據包地圖](https://map.jacobsjo.eu/) 來查看原版 Minecraft 和 RareVillages 之間的差異。在 2.0 版本中，也支援 [Terralith](https://modrinth.com/datapack/terralith)。RareVillages 還將原版村莊和要塞村莊歸為一類。這意味著你不會像單獨使用 Terralith 時那樣，在原版村莊旁邊發現要塞村莊。\n\n**原版村莊：**\n- 沒有 RareVillages 時，村莊平均生成距離為 34 個區塊，最小距離僅為 8 個區塊。\n- 安裝 RareVillages V1 後，村莊平均生成距離為 100 個區塊，最小距離為 50 個區塊。\n- 安裝 RareVillages V2 後，村莊平均生成距離為 75 個區塊，最小距離為 34 個區塊。\n\n**要塞村莊 (Terralith)：**\n- 沒有 RareVillages 時，要塞村莊平均生成距離為 46 個區塊，最小距離僅為 18 個區塊。\n- 安裝 RareVillages V1 後，要塞村莊平均生成距離為 100 個區塊，最小距離為 50 個區塊。\n- 安裝 RareVillages V2 後，要塞村莊平均生成距離為 75 個區塊，最小距離為 34 個區塊。\n\n請務必透過查看版本頁面確認你下載的是哪個版本。運行此數據包**必須**安裝 Terralith。如果你不想使用 Terralith，可以在[這裡](https://modrinth.com/datapack/rare-villages)找到 RareVillages 的原版版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

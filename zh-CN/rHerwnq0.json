@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9413f4c01bcfc668",
+  "content": "# 文本随机器\n随机化 Minecraft 中所有已翻译的文本。\n\n## 功能特性\n- 随机化翻译文本\n- 支持所有语言和模组（希望如此）\n- 一项用于随机化物品模型以带来更大混乱的设置（1.21.1 版本不可用）\n- 一项用于在创造模式标签页内打乱物品顺序的设置\n- 内置游戏配置界面，需安装 [Mod Menu](https://modrinth.com/mod/modmenu) 和 [YetAnotherConfigLib](https://modrinth.com/mod/yacl)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

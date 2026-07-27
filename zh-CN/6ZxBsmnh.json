@@ -1,0 +1,6 @@
+{
+  "bodyHash": "91f27766cb189b8d",
+  "content": "由 [BuildCraft](https://modrinth.com/mod/buildcraft) 提供提供的工厂子模块。\n\n此子模块添加了单区块、更小规模的机器，例如：\n\n* **采矿井** - 1x1 垂直采矿方块，\n* **水泵** - 液体抽取方块，\n* **自动工作台** - 低级自动合成方块，\n* **储液罐**，\n* **闸门**，\n* **漏斗**，\n* **蒸馏器** 和 **热交换器**。\n\n请注意，[BuildCraft](https://modrinth.com/mod/buildcraft) 项目包含完整的模组（以单个 JAR 格式提供）——但并非所有版本都提供这种格式；同样，并非所有版本都以这种多 JAR 子模块格式提供。\n\n许可信息见上方完整版本的描述。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

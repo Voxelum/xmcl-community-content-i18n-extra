@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a396919b7296723f",
+  "content": "\n\n# 简易生命指示器 (SHI)\n\n[![使用优惠码 SHADOWHUNTER30，在 NeyHost 购买服务器首单立减 30%！](https://cdn.modrinth.com/data/cached_images/08986aac2bbc07a1b205ce147eb5a9fc26ac0e7e_0.webp)](https://www.neyhost.com/?ref=SHADOWHUNTER30)\n\n_I 只推荐自己实际使用的产品。正在寻找性价比高且可靠的托管服务商？使用我的优惠码 `SHADOWHUNTER30` 在 Ney Host 体验服务，首单即可立减 30%！我对他们的服务非常满意，因此强烈推荐你试试看！_\n\n## 简介\n\n一个非常简单的生命值指示器。这款客户端模组会添加一个极简的生命值指示条，让你能够查看其他玩家的生命值。\n\n要使用本模组，请下载该模组并将其放入 ```.minecraft/mods``` 文件夹中。\n\n若使用 [ShadowHunter22 的配置库](https://modrinth.com/mod/shadowhunter22s-config-library/)，本模组支持自定义配置。\n\n## 特性\n\n- 极其简洁：在玩家名称旁显示生命值指示！\n- 按 `H` 键可切换指示器的显示/隐藏。\n\n## 依赖项\n\n- [可选] ShadowHunter22 的配置库\n- [可选] Mod Menu\n\n## 版本\n\n本模组**仅支持 Fabric**。目前没有计划支持 Forge。\n\n本模组适用于以下 Minecraft 版本：\n\n`1.20.x`\n\n`1.21.x`\n\n`26.1`\n`26.1.1`\n`26.1.2`\n`26.2`\n\n## 服务器支持\n\n本模组无需安装到服务器端。这是一款纯客户端模组。\n\n## 与服务器和客户端的兼容性\n\n已知本模组在某些客户端和服务器上存在兼容性问题。在大多数情况下，这些问题的修复超出我的控制范围。本模组与以下客户端和服务器存在已知问题：\n\n### 客户端\n\n- FeatherMC（***仅在使用配置菜单中的 `Top` 位置时***）\n- Lunar Client（_完全无法使用_）\n\n### 服务器\n\n- PvP Legacy\n- 大部分 PvP 服务器",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

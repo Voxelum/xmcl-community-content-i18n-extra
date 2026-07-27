@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e8078994d7bf75ec",
+  "content": "# OfflineSkins Reloaded\n\n🎨 显示自定义皮肤和披风，无需依赖 Mojang 服务器。\n\nOfflineSkins Reloaded 允许你在离线模式服务器、私有网络、自定义设置以及单人游戏中使用本地玩家皮肤和披风。\n\n**该模组仅在 Minecraft 无法从 Mojang 获取皮肤时使用。它旨在即使在没有互联网连接的情况下也能显示你的皮肤。然而，如果你的 Minecraft 客户端没有官方许可证，此模组只会向你展示你的皮肤，除非有人将你的皮肤放入他们的 cachedimages 文件夹中并也安装了该模组，否则其他人看不到它。**\n\n\n<details>\n<summary>模组支持</summary>\n\n顺便提一下，该模组也适用于 3D 皮肤层模组\n\n</details>\n\n\n## 📁 只需将纹理放入以下目录：\n\n> cachedimages/skins/ - 玩家皮肤\n>  \n> cachedimages/capes/ - 玩家披风\n\n文件名必须与玩家的昵称匹配。\n\n示例：cachedimages/skins/steve.png\n\n✨ 特性：\n• 来自本地文件的自定义皮肤\n• 支持自定义披风\n• 适用于离线模式服务器\n• 轻量级且仅客户端侧\n• 不需要外部皮肤服务！[离线状态下的披风]\n![离线状态下的皮肤](https://cdn.modrinth.com/data/cached_images/14f18ac0062a23388b915abaac63bb1a14edabb2.jpeg)[离线状态下的披风](https://cdn.modrinth.com/data/cached_images/dc84b75a12f39ad97166207c4a57fa80274ddd9a.jpeg)\n\n```\n注意：如果你将错误的披风或皮肤放入 cachedimages 中，当你的网络连接在线时，你将不会看到角色的“离线”加载效果\n```\n\n\n\n<details>\n<summary>原作者</summary>\n\n 原作者：zlainsama (https://www.curseforge.com/minecraft/mc-mods/offlineskins)\n Fabric 移植版：VoreZ\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

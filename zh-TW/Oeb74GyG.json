@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3d3dd65b7ee56854",
+  "content": "\n\n## Bot's Lib\n\n這是一個程式庫模組，用來避免我不斷重複撰寫相同的內容，主要存在原因只是因為我還不太會做。   \n\n包含幾個其他模組會使用的簡單函式。  \n目前主要包含一個特殊的射線投射（raycast）函式、一些隨機數生成（RNG）相關功能，以及一些能加快與耕地互動的功能。  \n同時也包含與 Dew Drop 計畫相關的方塊標籤，這可能不是最好的做法，但對我來說這樣比較簡單。    \n\n可以看看依賴此程式庫的其中一款模組，例如 [Dew Drop Watering Cans](https://modrinth.com/project/Jal3lwVg)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

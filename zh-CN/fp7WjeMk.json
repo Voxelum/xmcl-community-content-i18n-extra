@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b24c01ffa03d546",
+  "content": "\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/XC809yLzDts\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n\n这是我第一个正式制作的模组，所以可能会有些小 Bug。在摸索 Forge API 的过程中，我会继续完善它。\n\n该模组对死亡系统做了一些小改动。\n\n目前的“功能”包括：\n\n    死亡时黑屏一小段时间\n    立即重生——无死亡画面\n    死亡期间所有音频停止播放\n\n 另外，如果你遇到问题，请务必在 GitHub 仓库中反馈，不要写在评论区。\n\n [Curseforge Link](https://www.curseforge.com/minecraft/mc-mods/notafreaks-better-death)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

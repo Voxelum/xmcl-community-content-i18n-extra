@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a6c85769e369675b",
+  "content": "![小箱子物品模组横幅。](https://cdn.modrinth.com/data/cached_images/5de70420af838ce11f571a359c798b179400c48e_0.webp)\n\n### 一种为箱内添加小物品的资源包！\n(过多的箱子可能导致延迟，请谨慎使用！)\n\n需要 [实体纹理特性](https://modrinth.com/mod/entitytexturefeatures) + [实体模型特性](https://modrinth.com/mod/entity-model-features) 或 [Optifine](https://optifine.net/downloads) 才能工作。\n\n---\n\n### 计划功能：\n这些功能 **不保证** 实现\n\n- 花5年上传新版本（玩笑，信我）\n- 随机纹理（箱内物品不同）\n- 添加独立替代箱子资源包（MC的箱子纹理有点奇怪）\n- 修复所有 .jems 中不一致的纹理/UV\n- 让 emissives 功能正常工作\n- 在末影箱内添加动画效果\n- 使用不同的内部纹理？\n\n---\n\n为避免歧义；这个资源包不会随箱子内的物品动态更新。这是为了便利性（QOL），每个箱子都有特定纹理。\n\n祝你愉快 :D",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

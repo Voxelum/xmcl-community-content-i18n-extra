@@ -1,6 +1,6 @@
 {
-  "bodyHash": "TeRVSJ+Xwx0=",
-  "content": "# Назначение\nЦель этого датапака — уменьшить эффекты заклинания «Прорыв».\n\n**Этот датапак работает с существующими булавами.**\n# Инструкции:\n1. Поместите датапак в папку datapacks.\n2. Включите датапак, запустив команду /datapack enable «file/Nerf_Breach_Effect».\n3. Перезапустите мир/сервер.\n\n[Хотите ограничить максимальный уровень до 2 вместо этого?](https://modrinth.com/project/OLtaM1Kv)\n\nХотите вместо этого удалить булаву? [Без тяжёлого ядра](https://modrinth.com/project/10jJZvyv)\n",
+  "bodyHash": "5ac9d9e3fe5a6f4d",
+  "content": "# Назначение\nНазначение этого datapak — смягчить эффекты брони «Прорыв».\n\n**Этот datapak работает с уже имеными булавами.**\n# Инструкции:\n1. Поместите datapack в папку datapacks\n2. Включите datapack, выполнив команду /datapack enable \"file/Nerf_Breach_Effect\"\n3. Перезапустите мир/сервер\n\n[Хотите ограничить максимальный уровень до 2?](https://modrinth.com/project/OLtaM1Kv)\n\nХотите вместо этого удалить булаву? [Тяжелое ядро отсутствует](https://modrinth.com/project/10jJZvyv)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

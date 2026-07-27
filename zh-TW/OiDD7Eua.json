@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e9a345274491d8c6",
+  "content": "\n\n# 實體選取外框\n\n當選取特定實體時會顯示外框，涵蓋物品框、坐墊、畫作、拴繩結、盔甲架與終界水晶。\n\n## 規劃中的功能\n\n目前模組內已具備基本的設定系統，但我希望讓模組適用的實體具備更高的自訂彈性，例如提供一份可設定要顯示外框的實體類型清單。\n\n## 相容性\n\n本模組應可與任何會變更方塊外框顏色的模組或資源包相容，包含我自己開發的 [自訂外框建立器](https://outlines.enchanted.games/)，以及 [Vanilla Tweaks](https://vanillatweaks.net/) 上的彩色方塊外框資源包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

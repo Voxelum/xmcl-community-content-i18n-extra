@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c7f012bf4d330ba5",
+  "content": "這是一個允許在 Fabric 模組中使用 Kotlin 程式語言的模組。\n\n注意：此模組不會添加任何內容！它是一個其他模組用於相容性的依賴項。\n\n此模組獨立於所使用的 Minecraft 版本運作，因為它僅依賴於 Fabric Loader 的存在。\n\n對於模組開發者：請參見 -> https://github.com/FabricMC/fabric-language-kotlin#usage",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "18d39a6a9c3bf601",
+  "content": "\n\n# 發射器礦車\n\n適用於 1.21 的資料包與模組，新增搭載發射器的礦車與搭載投擲方塊的礦車。\n## 功能特色\n- 包含所有*原版發射器與投擲方塊的功能。\n- 發射器與投擲方塊可朝全部五個方向旋轉。\n- 針對伺服器效能進行最佳化，即使載入數百輛礦車，對 TPS 的影響也應相當低。\n- 可與 [發射器放置方塊](https://modrinth.com/datapack/dispensers-place-blocks) 資料包搭配使用——當兩者皆已安裝時，發射器礦車在移動時即可放置方塊。\n\n## 使用方法\n- 依照預期方式製作——將礦車與發射器或投擲方塊組合。\n- 將物品放入最左側的 3x3 網格中。\n- 為激活鐵軌供能以觸發礦車。\n\n## 限制\n- *發射器礦車無法發射骨粉或生怪蛋。\n- 礦車通過對角鐵軌時，旋轉動作可能在視覺上出現異常，但不影響實際功能。\n- 礦車若頻繁與其他礦車碰撞，可能會導致伺服器端反轉其旋轉方向。\n  - 這不僅是視覺異常，不過這是原版遊戲的 Bug，難以透過資料包修正。\n\n## 回報問題\n若要回報 Bug 或檢視原始碼，可前往 [GitLab 倉庫](https://gitlab.com/adamanti2/dispenser-minecarts/-/issues)。本資料包使用 [bolt](https://github.com/mcbeet/bolt) 開發。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e6345a65326ac9cc",
+  "content": "# JJK BlackFlash 插件\n\n## 简体中文\n这是 [JujutsuCraft](https://www.curseforge.com/minecraft/mc-mods/jujutsucraft) 模组的简单插件。\n它使得**所有攻击（包括术式和玩家的召唤物/式神）都视为“黑闪”**。\n\n每当击中实体时，它将触发黑闪视觉效果并增加伤害（默认 ×2.5，可配置），模拟每次确认的黑闪。它还会自动应用领域效果并清除疲劳。\n\n**v1.2.1 新增内容：**\n- **召唤物支持：** 你的驯服式神和召唤的咒灵现在可以触发黑闪（可配置）。\n- **效果强度：** 你现在可以调整黑闪粒子/效果的量（可配置）。\n\n**安装方法：**\n1. 安装 Minecraft Forge 1.20.1。\n2. 安装 JujutsuCraft 模组。\n3. 将此 `jjk_blackflash-1.2.1.jar` 放入你的 `mods` 文件夹中。\n\n---\n\n## 日本語\nこれは [JujutsuCraft](https://www.curseforge.com/minecraft/mc-mods/jujutsucraft) (呪術廻戦MOD) のためのアドオンMODです。\n**すべての攻撃（物理打撃、術式、プレイヤーの召喚した式神や呪霊の攻撃）が「黒閃」として扱われるようになります。**\n\n敵を攻撃するたびに、黒閃の演出が発生し、ダメージが増加します（デフォルト2.5倍、コンフィグで変更可能）。すべての攻撃が黒閃確定となり、同時にゾーン効果の付与と疲労の回復も行われます。\n\n**v1.2.1 新機能:**\n- **召喚獣の対応:** プレイヤーがテイムした式神や召喚した呪霊も黒閃を出せるようになりました（コンフィグでON/OFF可能）。\n- **エフェクト量:** 黒閃のエフェクトの量をコンフィグで調整できるようになりました。\n\n**導入方法:**\n1. Minecraft Forge 1.20.1 をインストールしてください。\n2. JujutsuCraft MOD を導入してください。\n3. この `jjk_blackflash-1.2.1.jar` を `mods` フォルダに入れてください。\n\n**免責事項:**\nこのMODはJujutsuCraftの非公式アドオンであり、Orca_san_氏とは関係ありません。不具合が発生した場合はこのMODを削除してください。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a238d359aaad552b",
+  "content": "\n\n![Header](https://media.forgecdn.net/attachments/description/null/description_99355de0-bd94-4911-94f0-ab95a3bbfe90.png)\n\n&nbsp;\n\n![Decoration](https://media.forgecdn.net/attachments/description/null/description_8489b318-6a75-410f-bf02-88c1d4fe19f3.png)\n![mainbanner](https://cdn.modrinth.com/data/cached_images/158e7c87f38a296cd7398fbf6c41b8d11e521c67_0.webp)\n\n![Separator](https://media.forgecdn.net/attachments/description/null/description_886ae711-c1d7-4e72-916b-274984eb0cf2.png)\n\n*NeoForge 平台的心理恐怖框架*\n\n---\n\n《灵魂之影》并非传统的怪物模组。它是一款由系统驱动的心理恐怖体验，通过复杂的**恐惧等级**机制追踪玩家的精神状态。环境会对你的恐惧做出反应，让黑暗成为你最强大的敌人。\n\n### 核心机制\n\n* **动态恐惧系统：** 在黑暗中、极深的地底或受伤时，你的恐惧值会上升。站在明亮的光源下是恢复恐惧值的唯一方法。\n* **凝视者：** 一个邪恶实体。当你的恐惧值较高时，它会在你身后生成。它会从阴影中观察你，而一旦你试图正面面对它，它就会立刻消失。\n* **环境干扰：** 在高恐惧值状态下，阴影会变得具有攻击性，主动熄灭你周围的火把和其他光源。\n* **听觉幻觉：** 随着理智逐渐流失，你会听到局部的低语声、虚幻的洞穴回声以及逐渐加速的心跳声。\n* **长夜难眠：** 高恐惧值会阻止你睡觉。对未知的恐惧会让你保持清醒，迫使你手动熬过夜晚。\n\n---\n\n### 技术规格\n\n| 特性 | 触发阈值 |\n| :--- | :--- |\n| 环境低语 | 恐惧值 50% |\n| 凝视者显形 | 恐惧值 55% |\n| 失眠与噩梦 | 恐惧值 60% |\n| 可闻心跳 | 恐惧值 70% |\n| 视觉恐慌条 | 可通过 /fear 命令配置 |\n\n<br>\n\n**指令：**\n* `/fear set [0-100]` - 设置当前恐惧值（仅限OP）\n* `/fear togglebar` - 切换视觉恐惧指示器\n\n---\n\n**警告：本模组旨在营造强烈的氛围压迫感与心理不适。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

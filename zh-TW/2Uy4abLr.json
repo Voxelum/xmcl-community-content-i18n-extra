@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2efb824b53b01783",
+  "content": "\n\n## 警告\n此專案已封存，因為我正致力於 Enhanced Block Entities（強化方塊實體）的 Forge 1.20.x 移植版開發。這代表 Better Beds Reforged 未來將不再更新（建議由功能更完善的 EBE 移植版取代）。更多資訊即將公開，敬請期待。\n\n## 概述\n移除了床的方塊實體渲染器（Block Entity Renderer），並改用 Minecraft 預設的模型渲染器。\n這能提升效能並支援資源包！\n\n本作為移植版本，原始模組可於[這裡](https://modrinth.com/mod/better-beds)找到。請勿將 Reforged 版本的問題回報至 Fabric 模組倉庫。\n \n（純客戶端模組）\n\n## 不過，有什麼代價呢？你可能會這麼問。\n其實幾乎沒有什麼問題，所有行為都與原版一致。\n\n目前唯一不相容的模組是 Bedspreads，因為該模組依賴床的方塊實體渲染器。\n\n此外，使用預設渲染器新增自訂床的模組需要提供對應的模型檔。\n\n使用自訂方塊實體渲染器新增床的模組則不受影響。\n\n## 為什麼床一開始會使用方塊實體渲染器？\n當床在 1.12 版本加入時，遊戲仍在使用舊的方塊 ID 系統，僅允許有限的 ID 數量。\n由於 1.12 加入了大量新方塊，導致 ID 幾乎耗盡，因此開發者將床設計為方塊實體加渲染器的形式以節省 ID。\n到了 1.13 版本（The Flattening），遊戲引入了新的 ID 系統，允許無限的 ID 數量，但床的方塊實體及其渲染器並未隨之改動。\n\n\n\n## 我安裝了這個模組，但它看起來跟原版一模一樣！\n \n預設情況下，此套件包含的模型會完美還原原版行為。若要改變床的外觀，\n請安裝[這裡](https://github.com/TeamMidnightDust/BetterBeds/releases/tag/v1.0.0-packs)的其中一個範例資源包，或根據範例建立自己的資源包。\n\n![](https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2FrsTbTdf%2Fbetterbeds-banner.png&n=-1)\n![](https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2Ft2dG0MP%2F2021-02-06-12-32-46.png&n=-1)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

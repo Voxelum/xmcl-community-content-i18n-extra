@@ -1,6 +1,6 @@
 {
-  "bodyHash": "FOX82s0z8Q0=",
-  "content": "<h1>ObsidianUI</h1><p><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\" alt=\"forge\"> <img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg\" alt=\"fabric\"></p><p>该模组是 <a href=\"https://github.com/LambdAurora/SpruceUI\" rel=\"nofollow\">SpruceUI</a> 的 Forge 移植版本。</p><p>ObsidianUI 是一个 Minecraft 模组 API，提供了一些 GUI 工具。它是一个用于创建和管理 GUI 的库，提供了一些常见的组件，如按钮、文本框、滑块等。</p>",
+  "bodyHash": "40481ca0ca387527",
+  "content": "\n\n<h1>ObsidianUI</h1>\n<p><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\" alt=\"forge\"> <img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg\" alt=\"fabric\"></p>\n<p>本模组是 <a href=\"https://github.com/LambdAurora/SpruceUI\" rel=\"nofollow\">SpruceUI</a> 的 Forge 移植版。</p>\n<p>ObsidianUI 是一个 Minecraft 模组 API，提供了一些 GUI 工具。它是一个用于创建和管理 GUI 的库，包含按钮、文本框、滑块等常用组件。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

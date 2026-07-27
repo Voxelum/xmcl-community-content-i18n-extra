@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ebfd140f33dd731c",
+  "content": "# 简易垃圾桶槽\n\n本模组在物品栏中添加了一个垃圾桶槽，用于丢弃不需要的物品。该槽位会保留你最后放入的物品，只有当你把其他物品覆盖上去时，它才会被真正删除。\n\n有一个名为 `simple_trash_slot.json` 的小型配置文件，你可以在其中设置垃圾桶槽在物品栏中的位置。允许的位置如下所示。默认位置为 `H2`。你还可以设置丢弃物品时播放的声音。有效值为 `NONE`、`PAPER_BIN_TOSS` 和 `LAVA_SIZZLE`。\n\n![允许的槽位位置](https://cdn.modrinth.com/data/cached_images/c4d3d9b1b018a3bdb3e1f88b6cbc50caf190e1f8.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

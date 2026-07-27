@@ -1,6 +1,6 @@
 {
-  "bodyHash": "BODdOBiJEBU=",
-  "content": "# 簡易死亡寶箱\n\nSimpleDeathChest 是一款 Fabric/Forge 模組，會在玩家死亡地點生成一個寶箱，存放所有掉落物品。\n\n不必再因死亡而失去珍貴裝備，這個簡單的模組確保您的物品安全存放，方便取回。您可以安心重生，知道您的戰利品正安全地存放在寶箱中，隨時可回收並繼續您的冒險，毫無中斷。\n\n### 預覽\n![開啟死亡寶箱的預覽圖](https://cdn.modrinth.com/data/cached_images/b412e0d2e6b3dc33eea982b1880c28ed21861b6d.png)\n\n### 設定\n提供設定檔（``config/deathchest.properties``）。\n可選項目包括更改寶箱標題、是否防爆（TNT），以及死亡寶箱使用的方塊類型（寶箱或桶子）。\n<hr>\n\n### 與 [Apex Hosting](https://billing.apexminecrafthosting.com/aff.php?aff=3548) 合作：\n<p><a href=\"https://billing.apexminecrafthosting.com/aff.php?aff=3548\"><img src=\"https://cdn.apexminecrafthosting.com/img/theme/apex-hosting-mobile.png\" width=\"594\" height=\"100\" border=\"0\" /></a></p>",
+  "bodyHash": "0d68fc183f3898fa",
+  "content": "\n\n# 簡易死亡箱子\n\nSimpleDeathChest 是一款支援 Fabric/Forge 的模組，會在玩家死亡的位置放置箱子，存放玩家的所有物品。 \n\n死亡時不再遺失珍貴裝備，此模組能確保您的物品被安全儲存，方便隨時取回。您可以放心重生，知道您的戰利品正存放在安全的箱子中，隨時準備被取回，讓您的冒險旅程不受打斷。\n\n### 預覽 \n![開啟的死亡箱子預覽](https://cdn.modrinth.com/data/cached_images/b412e0d2e6b3dc33eea982b1880c28ed21861b6d.png)\n\n### 設定\n本模組提供設定檔（``config/deathchest.properties``）。\n提供選項供您更改箱子標題、是否受 TNT 保護，以及死亡箱子所使用的方塊類型（CHEST 或 BARREL）\n<hr>\n\n### 與 [Apex Hosting](https://billing.apexminecrafthosting.com/aff.php?aff=3548) 合作：\n<p><a href=\"https://billing.apexminecrafthosting.com/aff.php?aff=3548\"><img src=\"https://cdn.apexminecrafthosting.com/img/theme/apex-hosting-mobile.png\" width=\"594\" height=\"100\" border=\"0\" /></a></p>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

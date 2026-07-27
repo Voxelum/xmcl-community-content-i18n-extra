@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eed4676c59b0b6ae",
+  "content": "\n\nRefined Storage 提供了一个可选的 Roughly Enough Items (REI) 集成模组，以增强合成与配方交互体验。\n\n## 在合成网格中转移配方\n\n你可以将 REI 中的配方直接转移到[合成网格](https://refinedmods.com/refined-storage/viewing-resources/crafting-grid.html)。\n\n- 缺少材料？转移操作仍会放入你已有的材料。  \n- 若缺少材料支持自动合成，你可以直接从预览界面启动自动合成任务。\n\n![REI 合成网格配方转移](https://refinedmods.com/rei-crafting-grid-transfer.75aff855.png)  \n![REI 合成网格配方转移预览](https://refinedmods.com/rei-crafting-grid-transfer-preview.bf8a7ff4.png)\n\n## 在模式网格中转移配方\n\nREI 中的配方也可以转移到[模式网格](https://refinedmods.com/refined-storage/autocrafting/pattern-grid.html)。界面会显示哪些材料可以自动合成。\n\n## 物品分组\n\n相关物品会在配方查看器中归为一组。\n\n![REI 物品分组](https://refinedmods.com/rei-grouping.f46876b6.png)\n\n## R/U 键支持\n\n你可以在[网格](https://refinedmods.com/refined-storage/viewing-resources/grid.html)和过滤槽中使用 R 和 U 键分别查看配方和用途。\n\n## 配方查看器同步\n\n你可以同步 REI 与[网格](https://refinedmods.com/refined-storage/viewing-resources/grid.html)之间的搜索框：\n\n- 单向同步（网格 → REI）  \n- 双向同步\n\n![网格中的 REI 同步](https://refinedmods.com/rei-sync.95dc999c.png)\n\n## 幽灵材料拖拽\n\n你可以将 REI 中的任意类型材料拖拽到 Refined Storage 的过滤槽中。\n\n![REI 幽灵材料拖拽](https://refinedmods.com/rei-ghost-dragging.1a059df6.png)\n\n## 避让区域\n\nREI 的元素会自动重新定位，以避免与 Refined Storage 的 GUI 组件重叠。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

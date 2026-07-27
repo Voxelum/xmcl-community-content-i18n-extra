@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e10529a22b30d142",
+  "content": "# Mekanism 無邊界多方塊\n\nMekanism 的擴充模組。\n\n此模組**增加了 Mekanism 多方塊結構允許的最大尺寸**。\n\n如果你查看畫廊，你就會明白了。\n\n## 設定檔\n\n### 伺服器端\n\n**預設多方塊設定**\n\n```\ndefaultBoundOverride - 套用至所有多方塊 (true/false)\n\ndefaultStructureX/Y/ZBound - 多方塊的最大尺寸\n```\n\n**特定多方塊設定**\n\n與預設設定幾乎相同\n```\n*ReactorBoundOverride - 繼承預設設定 (true/false)\n\n*StructureX/Y/ZBound - 多方塊的最大尺寸\n\n```\n### 客戶端\n\n```\nreduceOverhead - 減少多方塊客戶端計時以減輕負擔 (不穩定)\n\nfusionCoreSizeMultiplier - 玩笑設定\n```\n\n注意：此模組目前尚不支援 Mekanism Extras 和 Just Enough Mekanism Multiblocks",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

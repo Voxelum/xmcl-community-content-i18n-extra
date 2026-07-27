@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2c2af6969e67dff0",
+  "content": "\n\n# MakeUp Breezy\n\n此為 javiergcim 所開發的 [MakeUp-UltraFast](https://github.com/javiergcim/MakeUpUltraFast) 修改版本。原版為 9.5a。修改者：ENA_QWQ。\n\n適用於 OptiFine 與 Iris 1.5.1 及以上版本。\n\n## 與原版的差異\n\nMakeUp-Breezy 讓《Minecraft》呈現類似動漫的卡通渲染風格。\n- 以基於亮度的二值化閾值處理取代平滑光照。暗部會偏向紫色，亮部則增強藍色調。\n- 蠟燭顏色已量化為 16 個亮度階層\n- 移除了光滑材質的鏡面高光。\n- 依據深度差異生成黑色輪廓線。\n- 日出與日落時，雲朵會轉為洋紅色。\n- 提升了天空的飽和度與對比度，尤其在日出和日落時更為明顯。\n\n## 致謝\n\n- 原始專案：[GitHub](https://github.com/javiergcim/MakeUpUltraFast) | [Modrinth](https://modrinth.com/shader/makeup-ultra-fast-shaders) | [CurseForge](https://www.curseforge.com/minecraft/customization/makeup-ultra-fast-shader) | [PlanetMinecraft](https://www.planetminecraft.com/mod/makeup-ultra-fast-shader/)\n- 修改版本由 ENA_QWQ 製作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

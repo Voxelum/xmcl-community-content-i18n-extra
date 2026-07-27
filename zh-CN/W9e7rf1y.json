@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11301ec77d8a1c83",
+  "content": "![在 BlueMap 中显示的列车](https://cdn.modrinth.com/data/cached_images/e75abf7d9c3fd67402f851d00394148ad37c4f00.png)\n*Create BlueMap 是一个模组，允许你在 BlueMap 中看到 Create 模组的火车和轨道*\n\n\n## 功能\n- 显示火车车厢（时刻表以蓝色显示）\n- 将火车显示为标记（需在配置文件中启用）\n- 显示火车线路（需在配置文件中启用，大型网络可能会造成卡顿）\n\n## 依赖项\n- Create\n- BlueMap\n- Fzzy Config\n<small>（仅限 Fabric 版本）</small>\n\n*这是一个第三方模组，未经 Create 或 BlueMap 开发者批准或关联。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

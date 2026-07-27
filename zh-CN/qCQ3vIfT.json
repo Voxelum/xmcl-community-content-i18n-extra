@@ -1,0 +1,6 @@
+{
+  "bodyHash": "edc24afad6bdcc91",
+  "content": "\n\n阻止 OptiFine 记录某些被认为无用的日志。\n\n它可以过滤掉以以下前缀开头的日志：\n```\nCustomItems:\nNaturalTextures:\nConnectedTextures:\nCustomSky properties:\nCustomColors:\n```\n\n**本模组将不再更新，保持原样。它之所以被制作出来，纯粹是因为我受够了日志刷屏。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

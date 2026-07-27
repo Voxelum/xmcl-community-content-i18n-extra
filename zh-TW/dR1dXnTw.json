@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e5f2a90efdcddc21",
+  "content": "# 重要事項：\n### 請閱讀安裝指南\n\n![紋理包封面](https://cdn.modrinth.com/data/dR1dXnTw/images/94ee4be91056af5e98c74377c47977776483530f.jpeg)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/ZrvXI0WwibQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n#### 附魔光效動畫變得非常令人困擾，因為它們太強烈了，會將整個盔甲塗成紫色，導致你無法看到原始顏色（在 1.19.4 版本中變得過弱 lol）。我創建這個紋理包是為了讓顏色更平滑，並在某些時刻展現出真正的「閃耀」效果。\n\n<details>\n<summary>功能特色</summary>\n\n- 完整的原版紋理包，您不需要任何模組或其他東西\n- 大量的色彩變體\n- 光效具有可變強度，有時會非常強烈，有時則非常微弱，平衡得恰到好處\n\n</details>\n\n<details>\n<summary>安裝指南</summary>\n\n首先，打開壓縮檔（如果您沒有相關應用程式，可以下載 WinRAR），打開後您會看到四個檔案... 接著，打開名為 **GLINTS** 的資料夾，您會在裡面看到許多檔案，將它們全部移動到您的資源包資料夾中（每個都是一個獨立的資源包），現在您可以使用它們了，玩得開心！\n\n</details>\n\n<details>\n<summary>需求</summary>\n\n- 無！\n\n</details>\n\n<details>\n<summary>已知問題</summary>\n\n- 無！\n\n</details>\n\n<details>\n<summary>常見問題</summary>\n\n**1. 你能把它移植到基岩版嗎？**\n_基岩版的光效與 Java 版不同，它過於微弱且色彩管理很少，因此任何為我或其他用戶製作的移植版本與 Java 原版相比都顯得很差，所以我決定如果無法至少保持一定的準確性就不進行移植，而目前也無法做到。_\n\n**2. 我想要一種尚不存在的混合色，你可以添加嗎？**\n_任何關於添加顏色或混合色的建議都應通過 Discord 提出，我的標籤是 \"spryzeen\"_\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

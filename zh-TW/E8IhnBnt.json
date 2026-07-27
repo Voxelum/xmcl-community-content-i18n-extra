@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d3d4293ab8131f1d",
+  "content": "## 什麼是 TimeChanger？\n**TimeChanger** 是一款輕量級的客戶端 mod，允許您修改世界時間。\n\n### 功能\n* **時間控制**：將您的客戶端無縫鎖定到一天中的任何時間。\n* **時間滾動**：通過按住快捷鍵並使用鼠標輪盤快速調整時間。\n* **菜單**：包含圖形界面，用於輕鬆管理設置和切換功能。 （需要 [YACL](https://modrinth.com/mod/yacl)）\n\n### 綁定\n* **滾動時間（默認：M）**：在滾動鼠標輪盤時按住此鍵以增加或減少時間。\n* **切換時間（默認：N）**：快速啓用或禁用時間覆蓋。\n\n### 命令和用法\n`/timechanger <menu | set | toggle>`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

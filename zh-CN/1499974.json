@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33afa163da7279dc",
+  "content": "\n\n<p><img src=\"https://wsrv.nl/?url=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhscXNoOXlybDkzZmJjbmtlOXo5YWR5bW9hOHM2YnUzcHZnamR5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G1Q0O0vRzF8IbJmevb/giphy.gif&n=-1\" alt=\"\"></p>\n<p><strong>镜头震动</strong></p>\n<p>感受冲击力！镜头震动会在你附近发生爆炸时添加逼真的屏幕震动效果。爆炸越近，震动越强！</p>\n<hr>\n<p><strong>功能特点：</strong></p>\n<ul>\n<li>由附近爆炸（TNT、苦力怕、火球等）触发的逼真镜头震动</li>\n<li>强度随距离变化 &mdash; 爆炸越近，感觉越有冲击力</li>\n<li>震动平滑且带有自然衰减 &mdash; 不会出现突兀或生硬的晃动</li>\n<li>轻量级且仅客户端运行 &mdash; 无需安装服务端组件</li>\n<li>同时支持单人游戏和多人游戏</li>\n</ul>\n<p>工作原理：当你的角色 32 格范围内发生爆炸时，镜头将根据以下两个因素产生震动：</p>\n<ol>\n<li>爆炸威力 &mdash; 爆炸越大，震动越强</li>\n<li>距离 &mdash; 离得越近，效果越剧烈</li>\n</ol>\n<p>震动会随时间自然平滑地消退，为每一次爆炸带来真实而沉浸的体验。</p>\n<hr>\n<p><strong>支持的加载器：</strong></p>\n<ul>\n<li>Fabric</li>\n<li>Quilt</li>\n<li>Forge</li>\n<li>NeoForge</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

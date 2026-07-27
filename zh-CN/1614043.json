@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d7da96e49c2344e8",
+  "content": "\n\n<h1>ModDisabler</h1>\n<p><a href=\"https://github.com/BlueSheep2804/ModDisabler/blob/main/README.ja.md\" rel=\"nofollow\">日本語</a><br>\n一款用于禁用特定模组的模组。</p>\n<h2>配置</h2>\n<p>在 <code>config/moddisabler.txt</code> 中进行配置。</p>\n<pre><code>&lt;Mod ID&gt; &lt;Mod file name (regular expression)&gt;\n</code></pre>\n<h2>示例</h2>\n<h3>在 EMI + TMRV 环境下避免 JEI 冲突</h3>\n<p><code>config/moddisabler.txt</code></p>\n<pre><code>jei jei-1\\.21\\.1-neoforge-[\\d.]+\\.jar\n</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

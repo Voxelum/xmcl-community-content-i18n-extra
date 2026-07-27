@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5a0c167878591e0a",
+  "content": "# Connected Doors Continued\n\nMinecraft should already do this. Since it doesn’t, this mod does.\n\nConnected Doors Continued automatically opens and closes matching adjacent doors, trapdoors, and fence gates together, so builds feel cleaner and more natural without redstone hacks.\n\n## Что он делает\n- Открывает парные двери одновременно\n- Открывает парные люки одновременно\n- Открывает парные ворота из заборов одновременно\n- Работает с ванильными типами дерева и материалами\n- Позволяет включать или отключать каждое поведение в конфиге\n\n## Зачем использовать его\n- Более красивые входы\n- Улучшенное качество строительства без лишних хлопот\n- Не требует редстоуна для базовых парных взаимодействий\n\n## Файл конфигурации\n`config/connected-doors-continued.json`\n\n## Требования\n- Fabric Loader\n- Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

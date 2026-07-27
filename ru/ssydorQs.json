@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6cee0d438de03713",
+  "content": "<center>\n  <h1>Ratchel</h1>\n  <h4>Дополнение для Caverns & Chasms, добавляющее Ratchels (Рыбачьи сумки), в которые легко помещаются Крысы.</h4>\n</center>\n\n# Особенности\n- Добавляет Ratchels\n  - Нажмите ПКМ с зажатой кнопкой Shift, чтобы ближайшие Крызы забрались внутрь.\n  - Нажмите ПКМ, чтобы выпустить Крыс.\n  - Крысы внутри Ratchel сохраняют свой Тип и Имя.\n  - Если Ratchel разрушить, Крысы вывалятся из него.\n  - Легко крафтится на ранней стадии игры.\n\n  ![Рецепт Ratchel](https://cdn.modrinth.com/data/cached_images/3ef5e378403817b5136d92e3331ef4ba06566db3.png)\n\n## Зависимости\nДля работы Ratchel требует [Caverns & Chasms](https://modrinth.com/mod/caverns-and-chasms) и [Blueprint](https://modrinth.com/mod/blueprint).\n\n# Благодарности\nЭтот мод вдохновлен крысиными мешочками из [RAT's Mischief](https://modrinth.com/mod/rats-mischief).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

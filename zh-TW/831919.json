@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0e26dafd37f66c8",
+  "content": "<p>此模組增加了 TerraFirmaCraft 與 Weather2 之間的相容性。例如，當當前溫度低於或等於 -2&deg;C 時，現在可以生成颳雪暴；當降雨量低於或等於 100 時，可以生成沙塵暴。這意味著天氣類型並不總是「降雨」。</p>\n<p>&nbsp;</p>\n<p>沙塵暴生成的降雨量上下限是可配置的，颶雪暴的溫度要求也是如此。預設值即為前述內容。</p>\n<p>&nbsp;</p>\n<p>此附加模組與我的其他附加模組 <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/tfc-improved-badlands\" target=\"_blank\" rel=\"nofollow\">TFC Improved Badlands</a> 和 <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/tfc-barrens/files\" target=\"_blank\" rel=\"nofollow\">TFC Barrens</a> 配合效果極佳，因為它們 <em>分別</em> 在較低的降雨量水平下為世界添加沙丘，並允許世界完全沙漠化，使其變得沒有生命，僅有極為罕見的水坑。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

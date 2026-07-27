@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aa87f5c221a007f3",
+  "content": "\n\n飲用藥水會將持續時間加成至目前生效的效果上。\n\n使用 `/gamerule potiontimestacker:stack_potions` 切換藥水持續時間是否疊加（預設為 true）\n\n使用 `/gamerule potiontimestacker:stack_splash_potions` 切換噴濺藥水持續時間是否疊加（預設為 false）\n\n使用 `/gamerule potiontimestacker:max_effect_ticks` 調整最大效果持續時間（預設無上限）（1 秒 = 20 刻）\n\n透過編輯 `config/potiontimestacker.toml` 設定檔，將藥水加入白名單或黑名單\n\n\n![Demo.gif](https://cdn.modrinth.com/data/4DFdDQIp/images/8aa8cf807aff811c4c66be49b62ee799f6e97976.gif)\n\n### 問題回報\n\n您可以在 [Github](https://github.com/SoundsoftheSun/potion-time-stacker/issues) 或 [Codeberg](https://codeberg.org/SoundsoftheSun/potion-time-stacker/issues) 提交問題回報",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4a33686765978d63",
+  "content": "<p><strong>已棄用，建議使用</strong> <a href=\"https://www.curseforge.com/minecraft/mc-mods/unimixins\" rel=\"nofollow\">UniMixins</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>提供 mixin 功能的程式庫</p>\n<ul>\n<li>包含經過遮蔽處理的 Sponge Powered Mixins 分支——目前版本為 0.8.5-GTNH</li>\n<li>遮蔽了先前導致 0.8.5 在 MC 1.7.10 中難以使用的必要程式庫</li>\n<li>新增了兩種額外的 mixin 載入策略，靈感來自 Mixin Booter Legacy&nbsp;</li>\n<li>&nbsp; &nbsp; IEarlyMixinLoader - 用於針對 Minecraft、Forge 和 CoreMods 的 Mixins\n<ul>\n<li>&nbsp; &nbsp; ILateMixinLoader &amp; @LateMixin - 用於針對其他（非核心）模組的 mixins。由於 1.7.10 ASMDataTable 的限制，必須同時實作該介面並使用該註解</li>\n</ul>\n</li>\n</ul>\n<p>&nbsp;</p>\n<p>取代 SpongeMixins 1.5（請勿與作為本專案基礎的 SpongePowered Mixins 混淆！這也是重新命名的另一個原因）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

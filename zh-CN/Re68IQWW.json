@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a60506d799e7e389",
+  "content": "\n\n![Dead Simple Bags 横幅](https://cdn.modrinth.com/data/cached_images/0af1ecf3c3919d28e7a99d69a1d5d5c3149e3053.png)\n\nDead Simple Bags 添加了六个简洁的、适合原版生存、完全由服务端管理的背包。背包容量为 9 至 54 格（1 至 6 行），并基本遵循经典的 IronChests 升级路线。\n\n**注意：** 除非你在客户端安装 [Polymer](https://modrinth.com/mod/polymer)，否则背包不会出现在创造模式菜单中，但不安装它其余功能也会照常运行。你仍然可以通过 `/give` 或 `/polymer creative` 指令刷取背包。\n\n## 背包\n![背包尺寸](https://cdn.modrinth.com/data/cached_images/8234fabf459361ee46c984b543a5feb94bce5fe9.png)\n\n## 合成配方\n![合成配方](https://cdn.modrinth.com/data/cached_images/9b9286d67e550a959057acc4165ea11b4dcb0548.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

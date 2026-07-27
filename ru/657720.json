@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5928599d010cbd3a",
+  "content": "<p>Мод-библиотека, помогающий моддерам, которые хотят использовать mixin в других модах, но не могли этого сделать, так как они не являются встроенными coremods.</p>\n<p>Этот мод решает эту проблему, подготавливая и загружая mixin jsons очень рано, обеспечивая легкий процесс для моддеров, использующих его.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:14px\"><span style=\"color:#396\">Если ваша игра <strong>вылетает</strong>, попробуйте установить <a style=\"color:#396\" href=\"https://www.curseforge.com/minecraft/mc-mods/unimixins\" rel=\"nofollow\">UniMixins</a> вместо MixinBooterLegacy.</span></span></p>\n<p>&nbsp;</p>\n<p>Неофициальный порт MixinBooter от Rongmario для Minecraft 1.7.10.<br>Оригинал&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/mixin-booter\" rel=\"nofollow\">MixinBooter 1.12.2</a></p>\n<p>&nbsp;</p>\n<p>Для разработчиков:&nbsp;<a href=\"https://github.com/tox1cozZ/mixin-booter-legacy/blob/master/README.md\" rel=\"nofollow\">README</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

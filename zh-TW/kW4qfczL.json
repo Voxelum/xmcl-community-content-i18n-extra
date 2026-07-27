@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5f4757da50699d93",
+  "content": "\n\n# 足球\n![預覽](https://i.imgur.com/jPIvnmQ.gif)\n\n_一旦進球，球會被傳送至場地中央。_\n\n_比賽將在 10 分鐘後結束，期間沒有分數限制。_\n\n## 設定\n\n按下「G」鍵開啟自訂選單，並依照提示操作\n![選單](https://cdn.modrinth.com/data/kW4qfczL/images/773892230dafa6ae330aa24ceed911ec459647e3.png)\n\n## 隊伍管理與計分\n你可以使用 /team join <玩家> soccer1 或 soccer2 指令讓玩家加入指定隊伍。\nSoccer1 隊伍將防守第一隊的球門，而 soccer2 則防守第二隊的球門！\n\n計分板上的分數會依隊伍分開計算！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

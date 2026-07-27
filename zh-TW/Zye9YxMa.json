@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0cd2f192d3576e62",
+  "content": "概述\n\n[![下载量](https://img.shields.io/modrinth/dt/Zye9YxMa?logo=modrinth)](https://modrinth.com/mod/Zye9YxMa)\n[![游戏版本](https://img.shields.io/modrinth/game-versions/Zye9YxMa)](https://modrinth.com/mod/Zye9YxMa/versions)\n\nMace PVB 是一款单人模式的 Fabric 模组，添加了一个完全可控的重锤 PvP 训练机器人。该机器人的行为类似于真实玩家，并支持风弹战斗和基于鞘翅的空中 PvP。\n\n所有逻辑均在单人世界中使用 Carpet 假玩家和基于刻的控制本地运行。\n\n要求 / 依赖项\n\nMinecraft：1.21.11\n\nFabric Loader：0.18.4 或更高版本\n\nFabric API：最新兼容版本\n\nCarpet Mod：必需（用于假玩家控制）\n\nJava：Java 21\n\n注意\n\n仅限单人模式\n\n无需服务器\n\n与大多数 Fabric 优化模组兼容\n\n控制命令\n\n使用 \n/macebot windp 召唤机器人\n使用 \n/macebot pause 停止它\n使用 \n/macebot resume 继续",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

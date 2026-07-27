@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4o4Hjd/M76I=",
-  "content": "Это мод, который соединяет:\n- [F-Tech: Роботы](https://modrinth.com/mod/f-tech-robots)\n- [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)\n\nОн добавляет новый тип предмета с инструкциями по строительству и периферийное устройство CC; предмет можно вставить в это устройство.\n\nКомпьютер, использующий это периферийное устройство, затем может добавлять инструкции по строительству к этому предмету (или удалять их).\n\nДля получения информации о том, как это сделать, ознакомьтесь с [README](https://gitlab.com/billyg270/f-tech-robots-cc-compat).",
+  "bodyHash": "0704fbacc06e17d3",
+  "content": "Это мод для интеграции:\n- [F-Tech: Robots](https://modrinth.com/mod/f-tech-robots)\n- [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)\n\nОн добавляет новый тип предмета с инструкциями по сборке и периферийное устройство CC, в который можно вставлять этот предмет.\n\nКомпьютер, использующий это периферийное устройство, может добавлять инструкции по сборке к предмету (или очищать их).\n\nПодробную информацию о том, как это сделать, см. в файле [README](https://gitlab.com/billyg270/f-tech-robots-cc-compat).",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

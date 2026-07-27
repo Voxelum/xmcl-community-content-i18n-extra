@@ -1,0 +1,6 @@
+{
+  "bodyHash": "706a28d48452dacc",
+  "content": "\n\n## 一款讓樹木以真實且具互動性的物理效果倒下的小型模組\n\n<a href=\"https://modrinth.com/mod/sable\">\n        <img alt=\"powered by sable\" width=\"30%\" src=\"https://cdn.modrinth.com/data/cached_images/d13ac17ef50ed090e7d21fcae0caf8958eeece3d.png\">\n</a>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/xlfbD1DCiso\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n### 小技巧與秘訣：\n- 你可以砍伐樹木使其倒下，但若在砍伐時蹲下，它們將不會轉換為子層。\n- 只有下方有附根土的樹木，在砍伐時才會變成會倒下的樹！\n- 若想將這個特殊的「樹木子層」轉換為效能負擔較輕且不會消失的經典子層，你只需直接在倒下的樹上建造即可。\n- 本模組支援完整自訂設定，部分屬性可透過資料包進行修改。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

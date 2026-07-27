@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4f5a924a851688f5",
+  "content": "\n\n假玩家事件\n一款適用於 Fabric 1.20.1 的簡易工具模組，可讓你發送假的聊天訊息。非常適合惡作劇、角色扮演或測試！\n\n🌟 功能特色：\n100% 手動：只有在輸入指令時才會顯示訊息。\n\n多語言支援：支援英文與俄文訊息。\n\n自訂死亡原因：可建立任何你想要的死亡理由。\n\n⌨️ 指令：\n/playerjoinen / /playerjoinru — 假的加入訊息。\n\n/playerleaveen / /playerleaveru — 假的離開訊息。\n\n/playerkicken / /playerkickru — 假的踢出訊息。\n\n/playerkill <name> <reason> — 自訂死亡訊息（支援任意語言）。\n\n🛠 需求：\n需要安裝 Fabric API！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

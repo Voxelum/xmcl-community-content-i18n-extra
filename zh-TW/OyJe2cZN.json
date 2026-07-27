@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8f388941cccd39ef",
+  "content": "# 如果有興趣，歡迎複製這個模組。我目前將停止對它的支援。\n\n此模組添加了一個緊湊的外觀和有用的可選指示器。\n\n### 所有指示器：\n(全部可選)\n- 坐標\n- 方向\n- 偏航角\n- 俯仰角\n- 表面 Y\n- 區塊信息\n- 敵對生物\n- 下界轉換\n- 生物群系\n- 天數\n- FPS\n- RAM\n\n### 其他設置\n- 水平和垂直位置\n- 比例\n- 對齊方式：左上、中上、右上、左下、中下、右下、自動\n- 不透明度\n\n配置通過 **命令** 和 **GUI**（cloth-config & modmenu - 集成）進行配置\n\n### 支持語言：\n🇬🇧 🇺🇦 🇵🇱 🇩🇪 🇫🇷 🇪🇸 🇨🇳\n\n\n![全覽外觀](https://cdn.modrinth.com/data/cached_images/d840459ad8918b039106b0e7a30760488ef5dae4.jpeg)\n![極簡風格自定義](https://cdn.modrinth.com/data/cached_images/d328410c37a2a00fb8e612d4f82c33ea2d167c5a.jpeg)\n![配置屏幕](https://cdn.modrinth.com/data/cached_images/ef531f1c813fa322d87821f597007977cd398385.jpeg)\n![命令配置](https://cdn.modrinth.com/data/cached_images/ac06233f34834032e54a58ae71a69af40ca6ebb6.jpeg)\n![modmenu兼容性](https://cdn.modrinth.com/data/cached_images/61384520fd9c42827de10aa1cb8f298f9e6c63e7.jpeg)\n![快捷鍵](https://cdn.modrinth.com/data/cached_images/53c5f355a3e4112139bf1b6e748fc29db0b7d26b.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

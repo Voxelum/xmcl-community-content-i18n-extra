@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bb2fa5afc962c348",
+  "content": "<p>Это мод только для клиента. Он добавляет некоторую информацию к имени мишеней. Для каждого живого существа он добавляет DisplayName и Health/MaxHealth&nbsp;<span>♡</span>. Для каждого типа конезобразных (AbstractHorse) добавляет Movement Speed (блоки в секунду)&nbsp;⌁, Jump Strength (блоки)<span>⥉</span>, а также статистику в процентах и объём статистику&nbsp;<span>≗</span>, что полезно при selekcii в разведении. И если у живого существа есть хозяин (OwnableEntity), имя этого владельца будет отображено.</p>\n<p><img src=\"https://media.forgecdn.net/attachments/thumbnails/650/334/310/172/cavallo.png\" alt=\"Horse stats\" width=\"173\" height=\"172\"></p>\n<p>Смотрите изображения для получения дополнительной информации.</p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

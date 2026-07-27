@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9f96036a26abb5bf",
+  "content": "\n\n這個伺服器端模組會讓守衛者忽略所有由非實體發出的聲音，例如活塞、發射器等。\n\n它還可以忽略所有非**玩家**發出的聲音，因此只有玩家會吸引它們的注意。\n\n可透過 `/focusedwardens` 指令進行設定。\n\n\n**用法**：\n\n- ```/focusedwardens enable/disable``` - 啟用或停用此模組的功能。\n\n- ```/focusedwardens settings``` - 修改模組的設定（也可以直接編輯設定檔來手動調整）。\n\n  -  ```/focusedwardens settings ignoreNonEntitySounds enable/disable``` - 讓守衛者忽略所有非實體造成的聲音（例如：紅石元件）。\n\n  -  ```/focusedwardens settings ignoreNonPlayerSounds enable/disable``` - 讓守衛者忽略所有非玩家發出的聲音。（如此守衛者就不會受到其他生物以及非實體聲音的影響。）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

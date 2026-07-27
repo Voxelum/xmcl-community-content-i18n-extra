@@ -1,0 +1,6 @@
+{
+  "bodyHash": "762e3dfaacc30f60",
+  "content": "這個 **客户端** 模组引入四种新的渲染模式以提升您的游戏体验。其他版本及 Fabric 版本将在未来发布。\n\n同时在 [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ui-elements) 上也有提供。\n\n![4种新UI元素](https://cdn.modrinth.com/data/cached_images/7ca7211253b1661a664f037c7ea176b14e758154.jpeg)\n\n此模组还提供广泛自定义选项，允许您调整从物品大小、阴影颜色到 **字体类型** 的各个方面。它基于 TTF 字体系统，使得添加和自定义自己的字体变得简单。操作方式是将 TTF 文件放置或替换到 jar 内的以下文件夹中：**assets/daycounter/font**。重要提醒：TTF 文件名不得包含空格、特殊字符或大写字母。\n\n\n## 配置：\n\n\n<details>\n<summary>展开详情</summary>\n\n\n    [\"Day Counter Mod的配置\"]\n    \n    #UI元素的位置 (左|中|右)\n    Position = \"RIGHT\"\n    #字体大小\n    \"字体大小\" = 24\n    #使用的字体(minecraft|epilogue-light...)\n    Font = \"quicksand-medium\"\n    #文本的颜色(十六进制)\n    Textcolor = \"0xFFFFFF\"\n    #阴影的颜色(十六进制)\n    Shadowcolor = \"0x000000\"\n    #渲染不同的UI元素(时钟|指南针|时间|日期)\n    \"UI元素类型\" = \"天\"\n    #是否应渲染文本投影\n    \"文本有投影\" = true\n    #在所有UI元素之上渲染UI\n    \"总是置于顶部\" = false\n    #缩放物品UI元素\n    #范围：0.5 ~ 5.0\n    \"物品缩放因子\" = 3.0\n    #沿X轴偏移UI位置\n    #范围：-1920.0 ~ 1920.0\n    OffsetX = 0.0\n    #沿Y轴偏移UI位置\n    #范围：-1920.0 ~ 1920.0\n    OffsetY = 0.0\n    #偏移阴影位置\n    #范围：-10.0 ~ 10.0\n    \"阴影偏移\" = 1.0\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

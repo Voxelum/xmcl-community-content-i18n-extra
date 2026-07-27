@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0df500c07077655c",
+  "content": "\n\n# 更完善的崩潰報告\n一款旨在改善 Minecraft 崩潰報告的模組，讓您能更清楚地了解錯誤的內容與發生原因。\n# 為什麼？\n原本的 Minecraft 崩潰報告對許多玩家而言過於艱澀難懂。此外，AI 有時會對部分崩潰問題給出完全錯誤的解答，而開發者也會因玩家依據錯誤的崩潰分析來質疑模組本身有問題而感到困擾。\n# 這個模組能做什麼？\n本模組重新構建了 Minecraft 崩潰報告系統，讓您可以更清楚地查看 Minecraft 及相關模組出了什麼問題。由本模組產生的崩潰報告會將更多重要資訊（例如已載入的模組列表）置於報告最前方。\n![模組列表](https://cdn.modrinth.com/data/cached_images/a788a58b60bfc320e936eff72c00f782ed9e8b18.png)\n\n此外，模組還會嘗試為使用者產生建議，讓您能自行嘗試解決問題。\n\n![Better Crash Reports 產生的範例崩潰建議](https://cdn.modrinth.com/data/cached_images/0075afde533ffbca17ff9773ef4013edcf2e40cf.png)\n\n另外，本模組提供簡體中文翻譯，對於不熟悉英文的使用者更加友善。\n![Better Crash Reports 產生的簡體中文崩潰建議](https://cdn.modrinth.com/data/cached_images/512a86df6c30e298fd2673e8b33b10801ddbdd20.png)\n\n# 支援版本\n目前，Better Crash Reports 支援從 1.15 到 1.21.11 的廣泛 Minecraft 版本。這代表您可以在幾乎所有支援 Fabric Loader 的 Minecraft 版本上執行此模組。\n\n# 其他資訊\n此模組**無法**防止遊戲崩潰。它僅提供修改過的崩潰報告，能為您提供更多關於崩潰的相關資訊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

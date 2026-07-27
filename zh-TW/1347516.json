@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2f3fc363020b9df0",
+  "content": "<h2>關於</h2>\n<h3>躍入水中</h3>\n<blockquote>\n  <p>自定義跳水動畫是一種沉浸式功能，最常見於《薩爾達傳說》等開放世界遊戲中。</p>\n  <p>我喜歡這個動畫細節。因此，我為 Minecraft 添加了這一功能。<img src=\"https://cdn.modrinth.com/data/cached_images/6185fc0a1c48a76232f0a9bb2298d5bd9703b223_0.webp\" alt=\"躍入水中 (水)\"> <img src=\"https://cdn.modrinth.com/data/cached_images/2c08d2add3fd167652df8ecae6d189766db230cd_0.webp\" alt=\"躍入水中 (熔岩)\"></p>\n  <h3>注意：</h3>\n  <ol>\n  <li>這是一個<strong>服務器端和客戶端</strong>兩側都需要安裝的模組，因為它增加了<strong>多人遊戲動畫可見性支持</strong>。</li>\n  <li>如果您在跨越水域跳躍時觸發了異常動畫，請在配置文件中降低<strong>觸發靈敏度</strong>（0-1）。然後重新啟動客戶端即可生效。</li>\n  </ol>\n</blockquote>\n<blockquote>\n  <ul>\n  <li>一個輕量級模組，當玩家從遠處落入水或熔岩時，會添加自定義動畫。</li>\n  <li>當玩家自由落體進入流體源時觸發。</li>\n  <li>目前仍在開發中，可能會出現錯誤。</li>\n  <li>更多版本支持即將推出。</li>\n  <li>建議搭配<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fbetter-third-person\" target=\"_blank\" rel=\"nofollow\">BetterThirdPerson Mod</a> 和 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252feffective\" target=\"_blank\" rel=\"nofollow\">Effective Mod</a> 使用，以獲得更好的沉浸感。</li>\n  <li>自定義動畫通過 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fplayeranimator\" target=\"_blank\" rel=\"nofollow\">Playeranimator</a> 實現。</li>\n  </ul>\n</blockquote>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

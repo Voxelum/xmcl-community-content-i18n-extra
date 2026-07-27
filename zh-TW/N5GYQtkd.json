@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d771ccf680da6259",
+  "content": "BroadcastPixelmon 是一个针对 Minecraft 1.21.1 (NeoForge) 的服务端 Pixelmon 辅助模组，当世界中生成特殊的宝可梦时，它会自动广播全局聊天信息。\n\n功能：\n\n📢 公告传说级宝可梦的生成位置，包含坐标和生物群系\n⭐ 公告闪光宝可梦的生成\n💀 公告首领宝可梦的生成，包含等级和等级颜色\n⚔️ 公告传说级团体战（Raid）的开始\n🌀 公告究极异兽的生成\n所有消息均包含最近的玩家、生物群系以及可点击的坐标，这些坐标会自动创建 JourneyMap 的路径点\n仅限服务端使用 — 无需安装客户端模组\n依赖项：\n\nPixelmon 9.3.14\nJourneyMap（可选，用于创建路径点）\n\n如果您有任何改进建议，请在评论中分享。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

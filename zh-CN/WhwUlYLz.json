@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e02f87457a57ac7",
+  "content": "理查德的咖啡与茶模组是一个基于 Forge 的模组，在游戏中完整实现了咖啡和茶的功能，包括植物、杯子（带有自定义 3D 模型）、种子以及每种饮品带来的药水效果。在较旧的版本中，咖啡和茶植物会在平原和极端高山生物群系中生长，而咖啡豆和茶叶可以在地牢和矿车轨道的箱子中找到。请注意，此功能尚未添加到 1.20 版本中，但在所有版本中，你还可以通过破坏高草丛来获取咖啡豆和茶种子。\n\n## 1.20 版本支持的模组（可选）\n- **[AppleSkin](https://modrinth.com/mod/appleskin)**：Coffee and Tea Mod 的 1.20 版本集成了 AppleSkin，让你能够快速查看饮用咖啡或茶后将获得多少饥饿值。\n- **[Survive](https://modrinth.com/mod/survive)**：最新版本的模组支持 Survive 模组的口渴和温度系统，让你的饮品能够为你保暖并恢复口渴值。\n\n## 语言支持\n- 英语\n- 韩语（由 LazyGom 贡献）\n- 德语（v1.2.4 及以上版本 - 可能不完全准确）\n- 我很乐意接受并添加额外的翻译到模组中，并为你署名！\n\n## 鸣谢\n- Pharade 贡献了许多纹理和图片。\n- LazyGom 贡献了韩语翻译。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

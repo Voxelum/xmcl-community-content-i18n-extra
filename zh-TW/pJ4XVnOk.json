@@ -1,0 +1,6 @@
+{
+  "bodyHash": "91b3b0e77837737b",
+  "content": "此模组是 AppliedEnergistics、Refined Storage 和 Logistics Pipes 的附加模组。\n\n功能：  \n- 桥接管道与 AE 桥接：  \n在 Logistics Pipes 网络与 ME 系统之间建立连接。  \n支持物品与合成。  \n\n- 桥接管道与 RS 桥接：  \n在 Logistics Pipes 网络与 RS 系统之间建立连接。  \n仅支持从 RS 到 LP 的物品传输。\n\n- 合成管理器（管道）与结果管道  \n需配合 Logistics Pipes 使用  \n可容纳 27 个合成模块，并拥有 2 个升级槽位  \n需搭配结果管道与卫星管道使用  \n结果管道将合成结果提供给 Logistics Pipes 网络。  \n\n- 合成管理器（方块）、卫星总线与包裹  \n可容纳 27 种合成配方  \n向已连接的卫星总线发送物品  \n配方中可包含包裹，以定义不同的卫星总线。  \n\n我的模组宣传视频：  \n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/Q3dIjFGc23U\"></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

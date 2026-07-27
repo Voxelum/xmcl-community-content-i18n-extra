@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ed64fdcabec3b6c2",
+  "content": "\n\n![积灰烟囱](https://i.imgur.com/QtURGQ9.png)\n\n添加了**_砖块_**、**_圆石_**、**_泥砖_**、**_石砖_**、**_铁_**、**_铜_**和**_陶瓦_**烟囱，会释放烟雾粒子。\n\n<img  src=\"https://i.imgur.com/H4YUooO.png\" alt=\"功能特性\" width=1000/>\n \n<details>\n<summary>文字版功能特性</summary>\n  \n#### 功能特性：\n\n### 煤灰\n\n一段时间后，烟囱会被煤灰覆盖并变脏。使用斧头刮除即可清洁。\n\n从烟囱上刮除煤灰有几率掉落黑色染料。\n\n \n\n### 风\n\n烟囱的烟雾会受到风向和风速的影响。雨天和雷暴时风力更强，夜间则较为平静。风也会影响营火的烟雾。\n\n \n\n### 红石控制\n\n当烟囱接收到红石信号时，它将停止排放烟雾。\n\n \n\n### 阻断烟雾\n\n空手右键点击烟囱可切换烟雾排放。\n\n\n\n### 烟囱堆叠\n\n将烟囱放置在另一个烟囱上方，使其排放信号烟（类似于营火下方的干草捆）\n\n</details>\n\n<h1> </h1>\n\n<div align=\"center\">\n<br>\n\n[<img alt=\"Discord 服务器\" src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/banners/discord.png\" width=500/>](https://discord.gg/FzHKGDW2et)\n\n<h1> </h1>\n\n#### 喜欢这个模组吗？您的支持将使我能够继续开发它以及其他模组！\n[<img alt=\"Patreon\" src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/banners/patreon.png\" width=500/>](https://patreon.com/mortuusars?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) [<img alt=\"PayPal\" src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/banners/paypal.png\" width=98/>](https://www.paypal.com/donate/?hosted_button_id=4VPMCBCLZVUEA)\n\n</div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

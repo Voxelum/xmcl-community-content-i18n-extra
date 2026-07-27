@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71b416eb1114b909",
+  "content": "\n\n![Logo](https://cdn.modrinth.com/data/cached_images/df3b5a44bbc240730fe5d36c1bcb19f5d2fcf0c8.png)\n\n# 合成快速預覽\n不用離開背包介面，即可快速查看物品的合成方式。\n\n![UI](https://cdn.modrinth.com/data/vm9dBhVc/images/54e90116e46b177602210ae416676cda1c2e2ba1_350.webp)\n\nCrafting Tree Quick Peek 是一款基於 Fabric 的客戶端工具模組，當游標懸停在背包中的物品上時，會顯示對應的配方浮層。\n\n## 功能特色\n- 按住快捷鍵並將游標懸停在物品上，即可顯示其配方。\n- 以迷你 3x3 網格搭配產出物顯示合成配方。\n- 額外顯示冶煉、高速冶煉與煙燻配方。\n- 支援在多個可用配方之間切換。\n- 顯示懸停物品所需的所有材料。\n\n## 控制鍵（預設）\n- `左 Alt`：顯示懸停物品的配方浮層。\n- `R`：切換配方（按住預覽快捷鍵期間）。\n\n## 需求\n- [Fabric API](https://modrinth.com/mod/fabric-api)\n\n## 選用整合\n- Better Huds（選用）：提供開關控制，可透過 Better Huds 介面啟用或停用此配方浮層。\n\n## 多人遊戲安全\n本模組僅限客戶端使用。它不會自動進行合成，也不會修改任何遊戲邏輯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9b7cb2f3d0f2a4d2",
+  "content": "# MixinTrace Reborn\n\n这是 MixinTrace 的分叉和延续版本\n([CurseForge](https://www.curseforge.com/minecraft/mc-mods/mixintrace) | [Modrinth](https://modrinth.com/mod/mixintrace))，\n一个在崩溃时打印类所应用的所有 mixin 到堆栈跟踪中的模组。它对模组开发者来说非常有用，可以找出哪些模组正在向堆栈跟踪中的类应用 mixin，玩家也可以用它来报告模组冲突。\n\n此分叉版增加了对 26.1+ 的支持，该版本不再使用混淆名称，同时也增加了对 Forge 和 Neoforge 的支持。\n\n**注意：该模组在逻辑上支持所有版本的 Minecraft，如果您发现任何不兼容问题，请报告。**\n\n## 示例输出\n\n### 1.21.11- 上的 Forge / Fabric\n\n```\nMixins in Stacktrace: \n    net.minecraft.class_465:\n        com.example.examplemod.mixin.ExampleMixin (examplemod.mixins.json)\nNotice: Minecraft running in obfuscate mode. You may need to use some tools to find out the exact class name.\n```\n\n### 26.1+ / NeoForge\n\n```\nMixins in Stacktrace: \n    net.minecraft.client.gui.screens.inventory.AbstractContainerScreen:\n        com.example.examplemod.mixin.ExampleMixin (examplemod.mixins.json)\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

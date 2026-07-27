@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5fd556a1ccf4fbaf",
+  "content": "咒术工艺索引修复（允许所有服务器使用！）\n\nJujutsu Craft Index Fix 是一个专为本 Jujutsu Limitless RPG Minecraft 服务器（https://discord.gg/Mr8YnQbHCK）制作的服务器端 Forge 模组。它修复了一个已知的网络问题：当客户端运行 JujutsuCraft 模组时，在登录过程中发送无效的难度数据包，可能导致玩家被断开连接。\n\n此模组修复了恼人的 bug：当其他玩家在线并游玩时，您需要随机数生成器才能连接到您的服务器",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

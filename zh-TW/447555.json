@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1899373b1fa8975d",
+  "content": "\n\n<h1>已棄用！</h1>\n<p>Iris 已整合正式的光影包選單。我建議您重新編譯 Iris 並切換過去使用！</p>\n<h2>Iris Explorer</h2>\n<p>為相容於 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsodium\" rel=\"nofollow\">Sodium</a> 的 <a href=\"https://github.com/IrisShaders/Iris\" rel=\"nofollow\">Iris</a> 模組提供光影包選擇功能的資源包選單介面方案。</p>\n<p>此模組依賴 <a href=\"https://github.com/IrisShaders/Iris\" rel=\"nofollow\">Iris</a>！</p>\n<p><img src=\"https://thumbs.gfycat.com/SilkyWindyAlligatorgar-size_restricted.gif\" alt=\"光影包選擇\"></p>\n<h2>安裝</h2>\n<p>若要讓此模組與 Sodium 搭配使用，您需要編譯 <a href=\"https://github.com/IrisShaders/sodium-fabric\" rel=\"nofollow\">Iris 針對 Sodium 的相容分支</a> 以及 <a href=\"https://github.com/IrisShaders/Iris/tree/sodium-compatibility\" rel=\"nofollow\">IrisShaders 維護的 Sodium 分支</a>。</p>\n<p>只需在 GitHub 上複製或下載原始碼，並在專案目錄中執行 <code>./gradlew build</code>。IrisShaders 的 Sodium 分支需要專案資料夾內的 <code>/build/loom-cache</code> 路徑中存在 Iris.jar，因此請務必先編譯 Iris，並將該 JAR 檔案移動或複製至該路徑。</p>\n<h2>補充說明</h2>\n<p>此站點的說明文件排版功能相當糟糕。您可以在 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252firis-explorer\" rel=\"nofollow\">Modrinth</a> 頁面或直接於 <a href=\"https://github.com/Metroite/iris-explorer\" rel=\"nofollow\">GitHub</a> 上查看格式更佳的版本。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

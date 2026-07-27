@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4fd50827c5dfec8a",
+  "content": "### Time In a Bottle Fix 添加了 4 个新功能：\n\n- 作物加速\n- 动物生长加速\n- 作弊者的时光瓶及延长持续时间，将持续时间增加至最多 240 秒。\n- AE2 加速。你现在可以加速刻印机和其他 AE2 方块。\n\n----\n### **Tiab Fix 是一个附加模组，在安装了 Time in a Bottle 模组之前它将无法工作。**\n---\n\n \n尽管在旧版本中已存在此功能，但在现代版本中 Time in a Bottle 并不会加速作物生长。\n本模组修复了该问题。\n## 你现在可以再次加速作物生长。\n\n \n![作物加速](https://cdn.modrinth.com/data/cached_images/1e5f731321dede79ca98b31fcbec8cba32f82706.png)\n\n\n \n\n## 你还可以加速动物生长。\n再也不用等待小鸡、牛或羊长大！\n动物加速功能也与 JADE 兼容。在你加速的动物上方会出现一个工具提示框。\n\n \n![动物加速 JADE](https://cdn.modrinth.com/data/cached_images/3a9e28da7690a2a366e669f11c4573988e25dd55_0.webp)\n\n\n### 作弊者的时光瓶\n\n你 previously 已经可以通过命令向 Tiab 添加大量的时间，但如果你曾经在配置文件中将最大 Tiab 速度设置为像 4096x 这样的值，你可能会注意到时间仍然会耗尽。\n作弊者的时光瓶修复了这个问题。你可以获得一个真正拥有无限时间的 Tiab。\n\n作为额外功能，在作弊者的时光瓶中，你还可以通过 Shift + 左键点击来增加持续时间。\n以前，无论速度是 16x 还是 256x，持续时间总是 30 秒。现在不再如此。\n\n你现在可以将持续时间增加至最多 240 秒。\n（这仅限于作弊者的时光瓶。）\n\n它只能通过命令获取：\n\n**/tiabfix unlimited**\n\n \n![持续时间提示](https://cdn.modrinth.com/data/cached_images/3712c26b8f8c6bc4c99f23e5a5c1ffb7839f7c9f.png)\n![持续时间](https://cdn.modrinth.com/data/cached_images/91e0ccb89d29bf41777e907a00a17519aa28b550.png)\n\n\n\n \n\n### AE2 支持\n\n你现在可以用时光瓶来加速刻印机了！\n\n![刻印机支持](https://cdn.modrinth.com/data/cached_images/a75c4495701a9052d62b93e749516e1e19ab0d30.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

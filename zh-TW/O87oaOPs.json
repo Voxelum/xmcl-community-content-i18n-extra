@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bc87f235f17807bc",
+  "content": "![Powershot](https://gitlab.com/qolq/powershot/-/wikis/uploads/images/logo.png)\n\n**適用於 Fabric 和 Forge**<br/>\n_Fabric 用戶注意：此模組需要 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)_\n<br/>\n<br/>\n**問題追蹤器**\n- <incoming+qolq-powershot-19571937-issue-@incoming.gitlab.com>\n- <https://www.gitlab.com/qolq/powershot/issues>\n\n**Powershot** 允許各種投射物破壞方塊。受影響的投射物包括箭矢、三叉戟以及各種第三方模組的投射物（使用第三方模組投射物的效果可能因模組而異）。\n您可以透過 [設定檔](https://gitlab.com/qolq/powershot/-/wikis/config) 指定哪些方塊是可以被破壞的。我建議先閱讀 [關於模組運作方式的說明](https://gitlab.com/qolq/powershot/-/wikis/explain)，以便更好地了解如何使用它。\n<br/>\n<br/>\n![example0](https://gitlab.com/qolq/powershot/-/wikis/uploads/images/example0.gif)\n\n![example1](https://gitlab.com/qolq/powershot/-/wikis/uploads/images/example1.gif)\n\n![example2](https://gitlab.com/qolq/powershot/-/wikis/uploads/images/example2.gif)\n\n![example3](https://gitlab.com/qolq/powershot/-/wikis/uploads/images/example3.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7402e10ef858e1a5",
+  "content": "# 更快的漏斗\n\n你是否曾觉得原版漏斗的速度太慢？你的分类系统是否总是杂乱无章？那么这个模组正是你所需要的。\n\n![Faster Hopper](https://cdn.modrinth.com/data/cached_images/adfee2b41f91b75eaea1187395421e1ff5502628.jpeg)\n\n## 功能\n**金漏斗：**\\\n这种闪闪发光的漏斗拥有 7 个物品栏，并且比原版漏斗传输物品的速度快得多。在其他所有情况下（例如被红石激活等），它的行为都像普通漏斗一样。\n\n![Golden Hopper Recipe](https://cdn.modrinth.com/data/cached_images/88c25b9a9711edc3a01719abaee4191cf48147a0.png)\\\n\\\n**金漏斗矿车 (1.21.4+)：**\\\n这个矿车的行为与原版非常相似，不同之处在于它可以容纳 7 个物品栏。\n\n![Golden Hopper Minecart Recipe](https://cdn.modrinth.com/data/cached_images/0eef4d88da98ab15ee6be837bfdd852159b232e2.png)\\\n\\\n**可配置：**\\\n你可以通过配置文件调整金漏斗的冷却时间（位于 .minecraft/config 目录中）。默认值为 2 刻（每 2 刻传输一次物品），作为对比，原版漏斗的默认值为 8 刻。\n\n- **`goldenHopperCooldownTick`**: 每次物品传输之间的刻数（默认为 2）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

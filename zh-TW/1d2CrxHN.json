@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c8e8f390e594f4d",
+  "content": "![Crafting](https://quiltie.github.io/assets/magic_mirror_preview.png)\n<center><b>這是一個高度可配置的模組，會加入來自《泰拉瑞亞》的魔法鏡。</b><br>\n  <br>\n  支援 Quilt 與 Fabric<br>\n  <br><a href=\"mailto:quiltie.feedback@outlook.com\" target=\"_blank\">提供回饋</a><br>\n  <br>\n</center>\n\n加入了兩種來自《泰拉瑞亞》的魔法鏡：普通魔法鏡和冰霜魔法鏡。<br>\n\n### 設定檔說明：\n**版本 1.2.0 及以上：**\n- 您可以在 `.minecraft/config/magic_mirror.properties` 中找到您的設定檔。\n- 每個屬性都附有描述、最小值、最大值和預設值的註解。\n\n**版本 1.1.3 及以下：**\n- 如果遊戲規則 `magicMirrorWorksEverywhere` 為 `false`，您只能在主世界使用魔法鏡。若要更改此規則，需要在聊天視窗中輸入指令 `/gamerule magicMirrorWorksEverywhere true`。\n- 您可以透過指令變更冷卻時間：輸入 `/gamerule magicMirrorCooldown <秒數>`。預設秒數為 10。\n\n### 展示：\n![onUse](https://i.imgur.com/pqb9tZD.png)\n\n如果您想支持我，請關注並下載我的專案！這是我目前最希望得到的支持。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

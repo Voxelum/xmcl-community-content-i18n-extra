@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ec70db286f1de10",
+  "content": "\n\n<p><img src=\"https://i.imgur.com/4NOUAmJ.png\" alt=\"冰块\"></p>\n<h2>描述</h2>\n<p>冰块模组新增了一种生物——冰块。</p>\n<h3>生成</h3>\n<p>冰块在夜间生成于地面之上，主要出现在冻结山峰和冰刺生物群系中。在其他寒冷生物群系中，它们仅会在“冰块区块”中生成，类似于史莱姆区块。</p>\n<h3>行为与战斗</h3>\n<p>冰块的行为方式类似于史莱姆。它们的近战攻击会施加一层<em><strong>严寒</strong></em>效果。被施加严寒效果的生物会表现得如同身处细雪中一般。当严寒叠满 3 层时，该效果会被消耗，导致目标受到额外的冰冻伤害。</p>\n<p>在炎热生物群系中，冰块会融化并逐渐缩小，直至死亡。</p>\n<p>冰块与岩浆史莱姆互相敌对。</p>\n<h3>掉落物</h3>\n<p>冰块会掉落 0-2 个冰块，若由玩家击杀，还会掉落 0-1 个<em><strong>寒霜精华</strong></em>。</p>\n<h3>寒霜精华</h3>\n<p>寒霜精华有几种用途：</p>\n<ul>\n<li>可用于在锻造台中添加新的附魔（详见下文）</li>\n<li>可用于酿造寒霜药水</li>\n<li>可向牧师村民出售，或向流浪商人购买</li>\n</ul>\n<h3>附魔</h3>\n<h4>寒冰之面</h4>\n<p>适用于剑的附魔，最高等级为 1。攻击时施加严寒效果，并对更惧怕冰冻的生物造成额外伤害。</p>\n<h3>永霜</h3>\n<p>适用于护甲的附魔，最高等级为 1。使攻击者受到严寒效果，并为佩戴者提供冰冻伤害免疫。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.bisecthosting.com%252f\" rel=\"nofollow\"><img src=\"https://www.bisecthosting.com/partners/custom-banners/d43b2415-f3c3-4f95-a3ce-e181d61a3de5.png\" alt=\"Bisect 主机托管\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

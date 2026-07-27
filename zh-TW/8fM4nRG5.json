@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8ce2f7feb67159fd",
+  "content": "\n\n# Legacy Skins 是什麼？\nLegacy Skins 是一款專為搭配 Legacy4J 模組設計的套件，該模組能讓《Minecraft》的外觀與操作體驗接近經典主機版（Legacy Console Editions）。Legacy Skins 會採用 Customizable Player Models 模組的模型來於遊戲內顯示。只要雙方都安裝了這兩個模組，玩家 _應該_ 就能看到彼此所選擇的皮膚。\n\n# Legacy Skins 的皮膚包是什麼？\nLegacy Skins 透過資源包來為遊戲加入皮膚包。資源包內會包含一份「skin_packs.json」檔案，用於列出所有皮膚及其排列順序。資源包中的某個資料夾則存放 Legacy Skins 用以顯示皮膚的 `.cpmmodel` 檔案。\n\n# 此皮膚包收錄了什麼？\n本皮膚包收錄了經典的 Minecraft YouTuber。凡有爭議事件的創作者均未收錄，以避免構成背書。\n\n# 哪裡可以取得更多皮膚包？\n皮膚包每天都有新作推出，你可以在 Legacy4J 的 Discord 伺服器貼文中找到，或直接前往 GitHub 下載。\n\n# 如何製作皮膚包？\nLegacy4J 的 Discord 伺服器提供相關教學資源，協助你學習如何製作自己的皮膚包。\n\n# 重要事項請閱讀\n請留意，皮膚包即使維持壓縮檔狀態也能正常運作，但 CPM 模型檔案的名稱必須全部使用小寫。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

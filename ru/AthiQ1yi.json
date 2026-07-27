@@ -1,6 +1,6 @@
 {
-  "bodyHash": "bWSWbuMT+cg=",
-  "content": "# Астральная магия: Анти-анти-фейк-плейер\n[https://github.com/ton185/astralsorceryantiantifakeplayer](https://github.com/ton185/astralsorceryantiantifakeplayer)\n## Что это?\nЭтот мод позволяет фейковым игрокам (например, пользователю из Cyclic или игроку из Player Simulator от Integrated Dynamics) использовать машины Astral Sorcery (например, точильный станок).\n\n## Как это работает?\nВсё очень просто: разработчик Astral Sorcery специально ввёл проверку, чтобы предотвратить взаимодействие фейковых игроков с его машинами. Этот мод всего лишь убирает эту проверку.\n\n**Если вы хотите, чтобы я портировал этот мод на другую версию, создайте проблему.**",
+  "bodyHash": "c4ae20e913dae21c",
+  "content": "# Astral Sorcery Anti Anti Fake Player\n[https://github.com/ton185/astralsorceryantiantifakeplayer](https://github.com/ton185/astralsorceryantiantifakeplayer)\n## Что это?\nЭтот мод позволяет фейковым игрокам (например, пользователю из Cyclic или симулятору игроков из Integrated Dynamics) использовать машины из мода Astral Sorcery (например, точильный камень).\n\n## Как это работает?\nВсё очень просто: разработчик Astral Sorcery специально добавил проверку для блокировки взаимодействия фейковых игроков с его машинами. Этот мод просто удаляет данную проверку.\n\n**Если вы хотите, чтобы я портировал этот мод на другую версию Minecraft, создайте Issue.**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

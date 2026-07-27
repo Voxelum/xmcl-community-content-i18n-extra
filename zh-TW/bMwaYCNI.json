@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3cca6039c69eea69",
+  "content": "---\n\n> [Loxoz 的 BetterWaystonesMenu](https://github.com/Loxoz/BetterWaystonesMenu) 的 1.20.1 移植版本，新增拼音搜索、维度过滤和中文配置本地化等功能。\n\n**[GitHub](https://github.com/Elten-huanghuang/BetterWaystonesMenu-1.20.1)** | **[繁體中文說明](https://www.google.com/search?q=https://github.com/Elten-huanghuang/BetterWaystonesMenu-1.20.1/blob/main/README_zh.md)**\n\n---\n\n## 新功能\n\n* **拼音搜索** — 使用拼音搜索中文传送石名称（例如 `zsj` → 主世界）\n* **维度过滤** — 按维度（主世界 / 下界 / 末地）过滤传送石\n* **`#` 搜索** — 输入 `#overworld` 按维度搜索\n* **双语配置** — 中英文配置注释\n\n---\n\n## 原有功能\n\n* 支持多词匹配的实时搜索\n* 按索引 / 名称 / 距离排序\n* 收藏（Ctrl+点击）、分组、拖拽重排\n* 多语言支持：英语、中文、法语、西班牙语、葡萄牙语\n\n---\n\n## 依赖项\n\n* [Forge 47.3.0+](https://files.minecraftforge.net/)\n* [Balm 7.3.38+](https://modrinth.com/mod/balm)\n* [Waystones 14.1.5+](https://modrinth.com/mod/waystones)\n\n---\n\n## 鸣谢\n\n移植作者：**huanghuang** — 原版模组由 [Loxoz](https://github.com/Loxoz/BetterWaystonesMenu) 开发（MIT 许可证）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

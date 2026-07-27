@@ -1,0 +1,6 @@
+{
+  "bodyHash": "88f9e8f9553f7262",
+  "content": "<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fliteminer\" rel=\"nofollow\">Liteminer</a> 的設定有些不足。這個模組旨在解決這個問題。</p>\n<p>具體來說，此模組允許您選擇預設的挖掘模式，並更改用於瀏覽這些模式的快捷鍵。</p>\n<p>據說即使使用了 Controllify，滾動功能在控制器相容性方面仍有不足。</p>\n<p>（關於「沒有獨立設定檔」的說明：設定會新增到 Liteminer 的設定選單中，選項值則儲存在 Liteminer 的設定檔內。此外，它會在 Mod Menu 中隱藏於 Liteminer 下方，並被標記為函式庫，因此如果您隱藏了函式庫，就不會在此處看到它。它真的只是沒有自己的獨立設定檔而已。）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

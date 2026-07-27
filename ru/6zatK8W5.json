@@ -1,6 +1,6 @@
 {
-  "bodyHash": "JTLs4+WcB04=",
-  "content": "# Оттенок урона\n\n<img src=\"https://wsrv.nl/?url=https%3A%2F%2Fpolyfrost.org%2Fimg%2Fcompact_vector.svg&n=-1&w=1000\" width=56 />  ![Статус разработки](https://img.shields.io/github/v/release/Polyfrost/DamageTint.svg?style=for-the-badge&color=1452cc&label=release)\n\nМод, который меняет цвет повреждённых сущностей.",
+  "bodyHash": "0fd2a58c5af1b851",
+  "content": "# Урон tint\n\n![Dev Workflow Status](https://img.shields.io/github/v/release/Polyfrost/DamageTint.svg?style=for-the-badge&color=1452cc&label=release)\n\nМод, который меняет цвет сущностей, которые получают урон.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1caf695cf088306b",
+  "content": "# **劍優化**\n\n**劍優化** 是一款輕量級的 Minecraft 模組，透過在客戶端即時處理揮劍動作而非等待伺服器回應，讓劍戰更加流暢且反應更迅速。\n\n該模組在保留原版戰鬥手感的同时，減少了點擊與看到攻擊效果之間的延遲。\n\n## **功能特色**\n\n* 即時處理揮劍動作\n* 更流暢的戰鬥體驗\n* 兼容原版風格\n* 輕量且高效優化\n* 支援多人遊戲\n\n## **狀態**\n\n首次公開發布——目前仍為 **開發中 (WIP)**，但已完全可用。\n\n## **需求**\n\n- **Java 21 或更高版本**\n- **Fabric Loader（Forge 版本即將推出！）**\n- **Minecraft 1.21.9-1.21.11**\n- **YetAnotherConfigLib v3**\n- **Mod Menu（選填，僅當您需要更改設定時）**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

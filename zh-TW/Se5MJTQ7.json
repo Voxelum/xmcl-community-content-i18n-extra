@@ -1,0 +1,6 @@
+{
+  "bodyHash": "26d74358d819a920",
+  "content": "與大多數其他全亮模組不同，Disable Lighting 會完全阻止遊戲進行光照計算。此模組僅在客戶端運行。\n\n如果你想要全亮效果，不如讓你的電腦不要為此進行運算。這會帶來一個副作用，即 F3 螢幕資訊畫面中的「光級」始終顯示為 15。這很好，因為這證明了模組正在運作；但如果你仍然需要知道特定方塊的光照強度，這可能會造成不便。\n\n請注意，由於此模組非常簡單，你可以嘗試在 Modrinth 標示的版本更新的新版本上運行它，它可能會正常工作。\n\n[GitHub 上的原始碼](https://github.com/NetheriteMiner/DisableLighting)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

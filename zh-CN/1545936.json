@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fe3278cf9fa13187",
+  "content": "\n\n<h1>TaCZ 武器等级</h1>\n<p>一款适用于 Forge 1.20.1 的 <strong>TaCZ</strong> 与 <strong>Weapon Leveling</strong> 兼容附加组件。</p>\n<p>本模组让 TaCZ 枪械能够完全配合 Weapon Leveling 系统运作，使你的武器随着等级提升而变得更强。</p>\n<h2>功能特性</h2>\n<ul>\n<li>TaCZ 枪械可获取 Weapon Leveling 经验值</li>\n<li>武器等级与成长进度正常运行</li>\n<li>支持 Weapon Leveling Toast 提示/等级系统</li>\n<li>根据等级提供额外武器伤害</li>\n<li>武器升级后减少后坐力</li>\n<li>提高武器精准度</li>\n<li>使用更高等级武器击杀怪物时获得额外玩家经验值</li>\n<li>旨在提供合理的成长体验，避免过于超模</li>\n<li>可查看当前武器等级</li>\n<li>每升一级，装备和卸下速度更快</li>\n<li>更快的换弹速度</li>\n</ul>\n<h2>成长机制</h2>\n<p>最高等级：20</p>\n<p>在更高等级时，武器将获得：</p>\n<ul>\n<li>\n<p>更高的精准度</p>\n</li>\n<li>\n<p>略高的伤害</p>\n</li>\n<li>\n<p>刷取经验值时收益更高</p>\n</li>\n</ul>\n<h2>前置要求</h2>\n<ul>\n<li style=\"color:#3598db\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero\" target=\"_blank\" rel=\"nofollow\"><span style=\"color:#3598db\">TaCZ 1.1.8</span></a></li>\n<li style=\"color:#3598db\"><span style=\"text-decoration:underline\"><span style=\"color:#3598db;text-decoration:underline\">Weapon Leveling 3.0.1</span></span></li>\n</ul>\n<h2>说明</h2>\n<p>这是一个轻量级的兼容附加组件，不会替换 TaCZ 或 Weapon Leveling 的原有机制。<br>它仅是在两者之间进行扩展，使它们能够顺畅协作。</p>\n<p>本项目无意复制或替代任何现有的兼容附加组件。<br>它的创建是为了为新版本提供一个经过更新和维护的解决方案，并持续提供兼容性支持。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

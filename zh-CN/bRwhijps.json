@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ba4fe15af95a443b",
+  "content": "\n\n<h1 style=\"display: flex; align-items: center; justify-content: space-around;\"><img height=\"50em\" src=\"https://raw.githubusercontent.com/Adrien5902/beaconwaypoints/main/src/main/resources/assets/beaconwaypoints/icon.png\" alt=\"icon\"> 信标路标\n\n</h1>\n  \n![Modrinth Downloads](https://img.shields.io/modrinth/dt/bRwhijps?style=for-the-badge&logo=Modrinth&label=Modrinth%20Downloads&color=00af5c&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fbeacon-waypoints) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1087273?style=for-the-badge&logo=curseforge&label=CurseForge%20Downloads)\n ![GitHub Release](https://img.shields.io/github/v/release/Adrien5902/beaconwaypoints?style=for-the-badge&label=Latest%20Released%20Version)\n\n一款简单的服务端模组（在客户端安装后也可在单人游戏中使用），可将信标转化为可传送的路标。\n\n\n\n所需模组：[Fabric API](https://modrinth.com/mod/fabric-api)\n\n## 使用方法\n\n手持已重命名的末影珍珠，右键点击已激活的信标即可启用传送功能。\n\n随后使用 /warp 命令传送到你想去的地方\n\n*可指定路标名称，或不带参数以打开菜单*\n\n> [!TIP]\n> 在放置信标时，将物品抛掷到信标顶部，即可更改菜单中显示的图标\n\n## 技术细节\n\n路标数据存储在 `%appdata%/.minecraft/saves/world/data/beaconwaypoints.data file` 中",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

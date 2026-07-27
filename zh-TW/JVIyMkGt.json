@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aaf63bcc69c712e0",
+  "content": "# 早期加载屏幕\n\n一个 Fabric 模组，用于在游戏加载时显示早期加载界面并展示相关信息。\n\n## 兼容性\n本模组已在使用 Prism Launcher 和默认设置的 AOF6 环境下测试，未发现任何问题。\n\n## 配置\n\n所有配置均在配置文件夹中的 `early-loading-screen.properties` 文件中进行。\n\n### `window_creation_point`\n可用选项：`mixinEarly` `mixinLoad` `preLaunch` `mcEarly` `off`  \n默认值：`mixinEarly`（如果安装了 ImmediatelyFast，则为 `mixinLoad`）\n\n此选项控制窗口创建的时机。  \n上述可用选项按从最早到最晚的顺序排列。  \n选项 `mixinEarly` 会进行一些类加载方面的修改，如果遇到相关问题，请使用 `mixinLoad`。\n\n使用 `off` 可完全关闭早期屏幕。\n\n### `enable_entrypoint_information`\n可用选项：`true` `false`  \n默认值：`true`\n\n此选项控制是否在早期屏幕上显示入口点信息。  \n启用后，它将向 fabric-loader 应用补丁以显示入口点调用过程。  \n如果游戏启动出现奇怪的问题，请禁用此项。\n\n### `reuse_early_window`\n可用选项：`true` `false`  \n默认值：`true`  \nWindows 系统不可用。\n\n此选项控制是否将早期屏幕复用为游戏窗口。\n\n### `enable_mixin_pretransform`\n可用选项：`true` `false`  \n默认值：`true`\n\n此选项控制 Mixins 应用是否提前运行。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c268401ed2a96f74",
+  "content": "# Ревизии Ponder\nРасширение KubeJS, позволяющее определять, какой ponder будет загружен на основе события.\n\nПример использования:\n\n`client_scripts/ponder.js`\n```js\nonEvent(\"ponder.override\", event => {\n    // Получаем предмет и определяем отображаемый ponder\n    const item = event.getItem();\n    // Получаем тег ponder (необязательно, доступно только при открытии через UI Ponder)\n    const tag = event.getTag();\n    // Заменяем идентификатор ponder на другой. Если не вызывать - используется стандартный\n    event.override(\"create:super_glue\");\n})\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

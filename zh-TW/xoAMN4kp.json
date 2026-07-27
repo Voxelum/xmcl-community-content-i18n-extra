@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a7d313f28f96493",
+  "content": "# 移動字幕\n\n一款 Minecraft 模組，允許您將字幕移動到螢幕上的任何位置。\n\n## 安裝\n\n此模組適用於 Minecraft >= 1.20.4\n\n## 設定\n\n設定檔（在首次啟動時建立）包含一個 \"edge\" 鍵，可設定為 `TOP_LEFT`、`TOP`、`TOP_RIGHT`、`LEFT`、`RIGHT`、`BOTTOM_LEFT`、`BOTTOM` 或 `BOTTOM_RIGHT` 中的任意值。\n您可以使用 `deltaX` 和 `deltaY` 值來手動微調相對於已配置邊緣位置的定位。\n\n## 模組相容性\n\n這應該與其他任何模組相容。我推薦使用 [切換字幕](https://modrinth.com/mod/toggle-subtitles) 和 [彩色字幕](https://modrinth.com/mod/colorful-subtitles)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

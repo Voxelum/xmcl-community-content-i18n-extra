@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7d38d6255750035",
+  "content": "# Ненавязчивые маяки\n\nПростой мод для Fabric, который делает лучи маяков менее заметными, ограничивая высоту полностью непрозрачной части и плавно затухающую её выше этой точки.\n\nТребуется установленная библиотека [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl).\n\nВысоту непрозрачной и затухающей частей можно настроить через [меню мода](https://modrinth.com/mod/modmenu).\n\n![изображение-предпросмотра](https://raw.githubusercontent.com/DimasKama/unobtrusive-beacons/refs/heads/master/images/preview.jpg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

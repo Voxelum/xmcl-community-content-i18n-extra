@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28d153c67e6ab9cb",
+  "content": "\n\n# 發射器放置方塊\n\n適用於 1.21 的資料包與模組，讓發射器在發射時能將方塊放置在正前方。\n## 功能特色\n- 當發射器發射方塊時，若條件允許，該方塊會被放置。\n- 放置的方塊方向會與發射器的朝向一致。\n- 若放置於水中，方塊會被充滿水。\n- 針對伺服器效能進行最佳化，放置發射物不會造成顯著延遲。\n- 可與 Adamanti 的 [發射器礦車](https://modrinth.com/datapack/dispenser-minecarts) 資料包搭配使用。\n\n## 限制\n- 若玩家站得太靠近發射器，會在資料包放置方塊之前將其撿起。\n- 可能會出現方塊放置在錯誤表面上的問題，不過已內建檢查機制以盡量避免。\n- 未來版本可能也能運作，但新增的方塊將無法被放置。\n\n## 回報問題\n若要回報錯誤或查看原始碼，請前往 [GitLab 倉庫](https://gitlab.com/adamanti2/dispensers-place-blocks/-/issues)。此資料包使用 [bolt](https://github.com/mcbeet/bolt) 開發。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

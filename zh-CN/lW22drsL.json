@@ -1,0 +1,6 @@
+{
+  "bodyHash": "32c9598f76d89ed6",
+  "content": "## 概述\n\n一个小型实用模组，允许你“伪造”系统日期，以达到多种目的：\n\n- 在不更改系统日期的情况下测试或体验节日内容\n- 通过伪造非节日日期来禁用某些模组中的节日内容\n\n## 配置文件\n\n配置文件位于 `config/fakedate.toml`：\n\n```\n#指定要伪造的年份（0 = 禁用）\nfakeYear = 0\n#指定要伪造的月份（0 = 禁用，1 = 一月，2 = 二月，...）\nfakeMonth = 0\n#指定要伪造的日期（0 = 禁用）\nfakeDayOfMonth = 0\n#仅当被指定的模组查询时才伪造日期\n#使用 * 允许任意模组（不推荐）\nfilter = [\"enter_modid_here\"]\n#启用时，在伪造日期时输出详细调试信息\ndebugFakingDate = true\n#禁用时，在未伪造日期（模组不在过滤列表中）时输出详细调试信息\ndebugNonFakingDate = true\n```\n\n## 侧边要求\n\n本模组对服务器/客户端没有严格的要求。这意味着你可以在仅安装于客户端的情况下运行该模组，而无需在专用服务器上同时安装；反之亦然。日期仅在安装了该模组的侧进行伪造。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

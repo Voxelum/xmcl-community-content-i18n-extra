@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b33976b420d9c923",
+  "content": "<p>這是一個增加多層級冷凝器的模組，每一層級都會根據 EMC 值限制物品。層級數量可配置（最多 8 層），且每一層級的 EMC 上限也可配置。階層式冷凝器的預設配方僅供佔位使用，建議由整合包製作人員進行替換。</p>\n<p>&nbsp;</p>\n<p>注意：此模組目前僅相容於 ProjectE 版本 1.12-PE1.3.0（<a href=\"https://minecraft.curseforge.com/projects/projecte/files/2557247\" rel=\"nofollow\">https://minecraft.curseforge.com/projects/projecte/files/2557247</a>）</p>\n<p>&nbsp;</p>\n<p><img src=\"https://i.imgur.com/mUMBFGM.png\" alt=\"Progressive Alchemy\" width=\"619\" height=\"337\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e5bfd8a0fddd875a",
+  "content": "\n\n# Farmer's Delight Refabricated — Исправление рецептов Delightful Creators\n\n**Примечание: этот датапак больше не требуется, поскольку [Delightful Creators 1.3](https://modrinth.com/mod/delightful-creators-fabric/version/1.3-1.20.x) уже включает поддержку Refabricated.**\n\nЭтот датапак исправляет несовместимость рецептов между [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)(FDRF) и [Delightful Creators](https://modrinth.com/mod/delightful-creators-fabric).\n\nМод Delightful Creators предназначен для [Farmer's Delight [Fabric]](https://modrinth.com/mod/farmers-delight-fabric) от New Horyzon. Он сосуществует с FDRF, однако некоторые рецепты на основе тегов недоступны из-за различий между двумя портами FD для Fabric. \n\nВ этом датапаке теги, некорректные для FDRF, заменены ради обеспечения совместимости.\n\nПротестировано с Delightful Creators 1.1.8 & FDRF 2.0.9",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

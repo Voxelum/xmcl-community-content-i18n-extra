@@ -1,0 +1,6 @@
+{
+  "bodyHash": "83b0a8df93f5eea2",
+  "content": "# PandaTNTFusion\n\n## Описание\n\nПопытка объединения взрывов TNT в районах, где происходит множество взрывов одновременно. Это предотвращает сильное замедление сервера или его сбой при больших взрывах TNT. Это делает так, что взрывы не имеют полностью ванильного поведения, когда количество взрывов в районе превышает настроенное максимальное количество поджиганий TNT.\n\n## Конфигурация\n\nВ ./config/PandaTNTFusion.json\n\n```\n{\n  \"MaxTNTPrimed\": 200\n}\n```\n\nУстановите максимальное количество поджиганий TNT в районе, после которых они начинают пытаться объединиться с ближайшими взрывами.\n\n## Медиа\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/SYk270TirGM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Попробовать\n`hardcoreanarchy.gay` (Deathban Anarchy)  \n`sky.hardcoreanarchy.gay` (Skyblock Anarchy)\n\n## Поддержка\n\n[Подключитесь к дискорду!]( https://discord.gg/3tP3Tqu983)\n\n## Лицензия\n\n[CC0](https://creativecommons.org/public-domain/cc0/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

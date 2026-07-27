@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d64ffa0e61f5fa06",
+  "content": "\n\n<center>\n\n## Killer Head\n  \n[![Modrinth Icon](https://cdn.sqidgeon.uk/cozy/available/modrinth_vector.svg)](https://modrinth.com/project/I7bAUQBi)\n[![Discord Icon](https://cdn.sqidgeon.uk/cozy/social/discord-plural_vector.svg)](https://discord.gg/FVq3j5heAc)\n\n[![Fabric Icon](https://cdn.sqidgeon.uk/cozy/supported/fabric_vector.svg)](https://fabricmc.net/)\n[![Quilt Icon](https://cdn.sqidgeon.uk/cozy/supported/quilt_vector.svg)](https://quiltmc.org/)\n[![NeoForge Icon](https://cdn.sqidgeon.uk/cozy/supported/neoforge_vector.svg)](https://neoforged.net/)\n[![Forge Icon](https://cdn.sqidgeon.uk/cozy/supported/forge_vector.svg)](https://files.minecraftforge.net/net/minecraftforge/forge/)\n\n</center>\n\nKiller Head 是一款讓受害者死亡時掉落兇手頭顱的模組。\n\n## 運作方式？\n### 修改玩家戰利品表 `entities/player.json`\n會在玩家死亡時加入頭顱掉落，並根據兇手的資訊進行判定。\n\n## 搭配推薦\n你也可以使用 [Drop Head](https://modrinth.com/project/drop-head)。\n推薦搭配 [Stackable Heads](https://modrinth.com/project/stackable-heads)，相當有趣。\n\n## 相容性\n**Killer Head** 應該能在任何環境中正常運作。\n\n## 支持我！\n歡迎加入我的極限模式 Minecraft 伺服器：[HardcoreSMP](https://modrinth.com/server/hardcoresmp_) - `38.143.19.130`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

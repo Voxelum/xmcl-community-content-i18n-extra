@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9cff469cbbe45480",
+  "content": "\n\nДобавляет поддержку потребления и генерации EMC машинами из мода Modern Industrialization.\n\nДобавляет условия для рецептов с EMC: машина может потреблять EMC при обработке ингредиентов рецепта и генерировать EMC по завершении рецепта.\n\nПоддерживает добавление рецептов через KubeJS:\n\n// server_scripts/*.js\nServerEvents.recipes(event => {\n  event.recipes.modern_industrialization.alien_chicken(1, 100)\n  // ...\n  .emcIn(233);\n  // .emcOut(new BigInteger[\"(java.lang.String)\"](\"233\"))  // alternative syntax\n})",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

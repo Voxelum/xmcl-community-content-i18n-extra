@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0d5aa6657967e7a",
+  "content": "# BetterBack\nИзначально планировалось перенести функцию возврата на предыдущий экран по правому клику из версии GTNH на Minecraft 1.12.  \nКроме того, были перенесены некоторые улучшения удобства использования (QoL).\n\n# О проекте\nЭтот проект переносит функцию возврата по правому клику и другие улучшения удобства использования (QoL) из форка BetterQuesting проекта GTNewHorizons в BetterQuesting Unofficial для версии 1.12.2.\n\n### Другие улучшения удобства использования:\n- Просмотр зависимостей из [GTNewHorizons/BetterQuesting#198](https://github.com/GTNewHorizons/BetterQuesting/pull/198)\n- Направленные стрелки для линий заданий из [GTNewHorizons/BetterQuesting#205](https://github.com/GTNewHorizons/BetterQuesting/pull/205)\n- Процент выполнения глобально и по главам из [GTNewHorizons/BetterQuesting#223](https://github.com/GTNewHorizons/BetterQuesting/pull/223)\n\n# Благодарности\n- [BetterQuesting](https://github.com/Funwayguy/BetterQuesting) от Funwayguy\n- [BetterQuesting Unofficial](https://github.com/CleanroomMC/BetterQuesting) от Cleanroom\n- [GTNH BetterQuesting](https://github.com/GTNewHorizons/BetterQuesting) от команды GTNH",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

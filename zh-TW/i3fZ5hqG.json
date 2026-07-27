@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c93f949ef8d4166",
+  "content": "\n\n![d3v_c's Terrain Overhaul](https://cdn.modrinth.com/data/cached_images/52834fff3b46cc75198e1411fa5ce9c613f08f81.png)\n---\n\n<p align=\"center\">\n  <a href=\"https://modrinth.com/mod/d3v_cs-terrain-overhaul\">\n    <img src=\"https://img.shields.io/badge/Get%20it%20on-Modrinth-00AF5C?style=for-the\n      badge&logo=modrinth&logoColor=white\">\n  </a>\n  \n  <a href=\"https://legacy.curseforge.com/minecraft/mc-mods/d3v-cs-terrain-overhaul\">\n    <img src=\"https://img.shields.io/badge/Get%20it%20on-CurseForge-F16436?style=for-the\n      badge&logo=curseforge&logoColor=white\">\n  </a>\n</p>\n\n\n  d3v_c's Terrain Overhaul 是一款適用於 Minecraft 1.21.11 的 Fabric 世界生成模組，重新設計了主世界地形，使其感覺更加遼闊、粗獷且自然，同時保持與原版的相容性。\n\n  ### 變更內容\n  - 重做主世界地形噪聲（大陸、侵蝕、山脊、深度、斜坡乳酪及基礎 3D 噪聲）。\n  - 擴展世界垂直生成範圍至 **Y -96 至 383**（總高度 480 格）。\n  - 重新調整洞穴生成（入口、麵條、義大利麵、石柱與洞穴乳酪），打造更多樣的洞穴系統。\n  - 重新平衡氣候噪聲（溫度 + 植被），使生物群系區域過渡更平滑。\n  ### 相容性\n  - **Minecraft：** 1.21.11\n  - **載入器：** Fabric (0.18.4+)\n  - **依賴項：** Fabric API\n  - **Java：** 21\n  - 建議在**新世界**中使用。\n\n  ### 已知限制\n  - 僅新生成的區塊會套用新地形。\n  - 現有世界可能會在舊生成與新生成的交界處出現區塊邊界。\n  - 與其他覆蓋相同主世界世界生成檔案（噪聲設定、密度函數、\n  洞穴/氣候噪聲、村莊結構檔案）的模組或資料包不相容。\n  - 目前尚無遊戲內設定選單。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

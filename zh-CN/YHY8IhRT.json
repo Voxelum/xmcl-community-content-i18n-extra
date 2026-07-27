@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8718921d38cc80fa",
+  "content": "\n\n# Epic Tweaks\n\n[Epic Fight](https://modrinth.com/mod/epic-fight) 模组的小型附加组件。提供了一些额外的配置选项：\n\n**版本 `1.1`（Epic Fight >= `20.11`）：**\n\n- `filter_animation_first_person`：在**未**持有*战斗优先*物品时，强制在第一人称视角下使用原版渲染（用于非战斗动作）。（默认值：`true`）\n- `enforce_mode`：启用后，若手中持有*战斗优先*物品，玩家将无法手动切换到*原版模式*；若手中**未**持有*战斗优先*物品，则无法手动切换到*战斗模式*。若 `canSwitchPlayerMode` 游戏规则已禁用，此选项将不生效。（默认值：`true`）\n- `autoswitch_mode`：启用后，当切换到*战斗优先*物品时，玩家会自动进入*Epic Fight 模式*；切换到其他任何物品时，则会自动回到*原版模式*。若 `canSwitchPlayerMode` 游戏规则已禁用，此选项将不生效。（默认值：`true`）\n\n---\n\n**版本 `1.0`（Epic Fight <= `20.9`）：**\n\n- `filter_animation_first_person`：仅当 Epic Fight 的 `filter_animation` 被禁用时，此值才会生效。将其设为 `true` 可在*挖掘模式*下阻止 Epic Fight 在第一人称视角中渲染动画。（默认值：`true`）\n- `enforce_mode`：启用后，如果玩家手中的物品已被指定为对应模式（即该物品已加入 Epic Fight 的 `battle_autoswitch_items` 或 `mining_autoswitch_items`），玩家将无法在*战斗模式*与*挖掘模式*之间手动切换。（默认值：`true`）\n\n## 支持方\n\n[![bisecthosting](https://www.bisecthosting.com/partners/custom-banners/5ea61298-7966-4331-945f-da7b80663a38.webp)](https://bisecthosting.com/hd42)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

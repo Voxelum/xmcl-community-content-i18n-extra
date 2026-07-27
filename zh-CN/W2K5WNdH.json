@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5e8ccb0a7da0a74c",
+  "content": "![Banner](https://cdn.modrinth.com/data/cached_images/f8af5c300dd0b8cc802a3ba38741e269568a21e0.png)\n\n# 2D 箭头模型\n\n本模组会将 3D 箭头模型替换为 2D 物品纹理模型。  \n它还会移除暴击粒子效果（默认启用）。\n\n![Arrow Shake Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBhNjF3MHVnZHZzN2NtZXp0MHRwNGptMGhiNWlmanZ2aDZ1Y3l6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n5i9RTCO6UwdgHkei5/giphy.gif)\n\n## 烟花火箭\n\n烟花火箭也进行了一些调整，其模型被放大，  \n并且从弩中射出时会呈现扁平状态。\n\n![Firework Rocket](https://cdn.modrinth.com/data/cached_images/1a3285e59b98da25319d140f2e39ab4076e86422.jpeg)\n\n## 翻滚动画\n\n箭头和烟花火箭拥有基于速度的新翻滚动画。\n\n![Arrow Roll Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJobHF0djk0ZjYxODA1MXZvNGc2dnN0bjc3cHo2NTA4eXFmcXh2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nJYbPdRZ06ELpGUlGO/giphy.gif) \n\n（使用 Bare Bones 材质包）\n\n## 兼容所有材质包\n\n默认值已针对原版纹理进行了校准。如果您使用的是材质包，可能需要调整某些元素，例如箭头或烟花火箭尖端的朝向。  \n普通箭、光灵箭甚至模组添加的箭可能具有不同的方向，只需在配置文件中添加它们即可。\n\n![Config](https://cdn.modrinth.com/data/cached_images/726185bff6762da42300e90860226034ed734c89.jpeg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

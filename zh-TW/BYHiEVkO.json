@@ -1,0 +1,6 @@
+{
+  "bodyHash": "696c69325845ce30",
+  "content": "Vertical Lunge 對原版的躍動（Lunge）附魔進行了調整，使其不僅能將你向前推進，還能向上彈射，而不僅限於水平移動。\n\n在原版 Minecraft 中，躍動附魔會強制移除所有垂直方向的運動，即使你正看向天空也是如此。此模組移除了該限制。\n\n此模組同時支援伺服器端運行，只要伺服器已安裝該模組，客戶端無需安裝即可生效。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

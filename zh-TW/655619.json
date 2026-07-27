@@ -1,6 +1,6 @@
 {
-  "bodyHash": "pOzmx5SGmMs=",
-  "content": "<div>\n<h4>支援 Fabric 與 Neoforge！請前往檔案分頁下載適合您載入器的版本。</h4>\n</div><p>&nbsp;</p><p><strong>注意：本模組不建議在純原版伺服器上作為用戶端使用。您可能會被反作弊插件等機制封鎖。</strong></p><p>&nbsp;</p><div>\n<p>功能特點：</p>\n<ul>\n<li>向下看時可加快從梯子下滑的速度</li>\n<li>提高向上攀爬的速度</li>\n<li>攀爬速度會在 3 秒內逐漸提升（無論向上或向下）</li>\n<li>避免走進梯井準備向下爬時偶爾出現的「撞頭」停頓</li>\n<li>經過可攀爬的方塊（包括藤蔓等）時不再減速</li>\n<li>讓您能在攀爬方塊中跳躍</li>\n</ul>\n</div>",
+  "bodyHash": "897a9e32fa0c3d95",
+  "content": "\n\n<div>\n<h4>Fabric 與 Neoforge 皆可使用！請前往「檔案」標籤頁下載適合您載入器的版本。</h4>\n</div>\n<p>&nbsp;</p>\n<p><strong>注意：此模組不建議在原版伺服器上以客戶端方式使用。您可能會被反作弊插件或其他機制封禁。</strong></p>\n<p>&nbsp;</p>\n<div>\n<p>功能特色：</p>\n<ul>\n<li>向下看時可更快沿梯子下降</li>\n<li>提升向上攀爬速度</li>\n<li>上下攀爬速度會在 3 秒內逐漸提升</li>\n<li>防止走入梯子井道向下攀爬時偶爾發生的「碰撞感」</li>\n<li>穿過可攀爬方塊（包含藤蔓等方塊）時不會減速</li>\n<li>站在可攀爬方塊中時也能跳躍</li>\n</ul>\n</div>",
   "contentType": "text/html",
   "type": "curseforge"
 }

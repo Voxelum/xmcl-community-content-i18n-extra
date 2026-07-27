@@ -1,0 +1,6 @@
+{
+  "bodyHash": "03bb26d65ed623af",
+  "content": "# Maxstuff 是什么？\n\nMaxstuff 是 [TACZ](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero) 的一个附加模组，添加了 Max 想要加入的各种内容，从冷门的巴尔干手枪到您喜爱游戏中的武器，以及其间的一切。\n\n截至版本 1.7，目前共包含 109 种枪械和 19 种配件。\n\n# 如何安装？\n\n模组版本托管在 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/maxstuff) 上，但您可以在 [Modrinth 页面](https://modrinth.com/mod/maxstuff) 找到模组版本和 ZIP 版本。\n\n对于 ZIP 版本，请将其拖入 Minecraft 目录中的 tacz 文件夹内。\n\n对于模组版本，像安装其他普通模组一样进行安装即可。\n\n## 我应该使用哪个版本？\n\n模组版本包含一些额外的小功能，但与 ZIP 版本相比变化不大。\n\n如果您计划修改此整合包用于模组包或服务器，请注意以下几点：\n对于 ZIP 版本，您可以直接修改整合包。但对于模组版本，您需要关闭 TACZ 的覆盖选项才能进行修改。否则，您的修改在游戏重启后将会重置。\n\n在修改整合包之前，建议先阅读 readme 文件。\n\n# 依赖项\n\n[![text](https://cdn.discordapp.com/attachments/776901229439615020/1339717379269070928/Ol1Tcf8_-_Copy.png?ex=67afbc89&is=67ae6b09&hm=dac2c929a2bb4c3da6b371cd9a151377fca6bd9f00de39d4d750fccb09353b46&)](https://www.curseforge.com/minecraft/mc-mods/tacz-endless-ammo)\n\n以及 [TACZ](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero)\n\n# 致谢\n\n创建者：Maxinablender\n\n特别感谢：Rene, Delta, Zendy, Z-Louise, Astralin, Foky, Desert, Cong Thanh, Corrineduck",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "490f62b3fd573a96",
+  "content": "**ПРАКТИЧЕСКИЙ БОТ**\n\nЭтот набор данных позволяет вам практиковать PvP с молотом/кристаллом против бота Carpet без необходимости использовать множество командных блоков.\n\nКак использовать\n\n**/function practicebot:macebot (Набор данных)**                                              \n**/practicebot mace (Мод)**                                                                 \nвызывает бота с молотом\n\n**/function practicebot:crystalbot (Набор данных)**  \n**/practicebot crystal (Мод)**                                                              \nвызывает бота с кристаллом\n\nОбе функции нужно запускать дважды, чтобы они сработали.\n\n\n**ЗАВИСИМОСТИ**\n\nМод Carpet",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0cd4c3188ad36714",
+  "content": "# Ретекстура лука от Stylus\n\n> Ретекстура лука, арбалета и их стрел для обновления их внешнего вида. Также включает 2D-модели для стрел при использовании [EMF](https://modrinth.com/mod/entity-model-features) и [ETF](https://modrinth.com/mod/entitytexturefeatures)¹.\n> \n> **Совместимо с [Real Arrow Tip](https://modrinth.com/mod/real-arrow-tip)² и [Enchancement](https://modrinth.com/mod/enchancement)**!\n>\n> ¹ Примечание: это может не работать на более старых версиях. Вот альтернатива для тех, кто хочет использовать её на старых версиях: [2D Projectiles](https://modrinth.com/mod/twod_projectiles) <br>\n> ² Примечание: 2D-версия стрелы с эффектом некорректно работает с Real Arrow Tip; возможно, вам придётся изменить конфигурацию Real Arrow Tip, чтобы она не отображала цвет, изменённый данным модом.\n\n## Демонстрация текстур\n![Демонстрация новых текстур/изменений для лука, арбалета и стрел.](https://cdn.modrinth.com/data/DcPGZASP/images/ba86ebe5ba4cf5e3f13490068aedac96f0f8290e.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

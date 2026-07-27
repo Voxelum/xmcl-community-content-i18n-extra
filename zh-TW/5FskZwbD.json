@@ -1,0 +1,6 @@
+{
+  "bodyHash": "614f58bc9ece2294",
+  "content": "當您在Minecraft世界中遊戲時，您可能想知道自己在該世界已經生存了多久。因此我花了半個小時製作這個mod，用於計數Minecraft中的天數。\n\n這個mod非常簡單，但是也可以進行配置。**_您可以在\"config\"文件夾中創建一個名為\"simpledaycounter\"的文件夾，如下所示_**：(https://cdn.modrinth.com/data/cached_images/f5001f6156dd82ce2e3a625679fd2e3ed31e6c24.png)\n\n並創建一個名为\"config.json\"的文件。\n\n然後寫入類似以下的內容：\n(https://cdn.modrinth.com/data/cached_images/243b238d336887f3acee971081802e3763f38642.png)\n{\n\"color\":100000,\n\"pos\":{\"x\":60,\"y\":7}\n}\n\n直接複製 👆\n顏色是一個顏色的十進製表示法。這是相對於遊戲坐標的渲染字符，這有點麻煩。建議將 y 坐標設置為 80。\n\n注意：我可能會更新此項目，所以我會在 \"simpledaycounter\" 文件夾中包含一些說明文本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

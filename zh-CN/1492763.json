@@ -1,6 +1,6 @@
 {
-  "bodyHash": "rrJ8vJiPsOE=",
-  "content": "<p>铁之库是一个为我的模组添加易于复用的框架的库，同时也提供了Patreon集成API层。</p><p><strong>幻化系统</strong></p><ul>\n<li>为物品应用独特的盔甲模型</li>\n<li>高度可定制的盔甲接口</li>\n<li>自动披风物理处理</li>\n</ul><p><strong>雕像系统</strong></p><ul>\n<li>动态玩家雕像资产生成</li>\n<li>动态多方块处理</li>\n<li>静态模型渲染</li>\n</ul><p><strong>属性系统</strong></p><ul>\n<li>对常见RPG风格属性的轻量级、非侵入式实现<ul>\n<li>护甲穿透、挖掘速度、经验获取、箭矢伤害、暴击伤害、闪避几率、治疗效果</li></ul></li>\n<li>属性重映射器，可在游戏中动态热替换物品属性以最大化兼容性<ul>\n<li>原生兼容Apothic属性</li>\n<li>支持代码和数据包的入口点</li></ul></li>\n</ul><p><strong>Patreon集成</strong></p><ul>\n<li>为上述所有功能提供Patreon集成服务</li>\n</ul>",
+  "bodyHash": "91ad7be5b5051375",
+  "content": "<p>Iron's Lib 是一个库，为我的模组提供易于复用的框架，以及 Patreon 集成 API 层。</p>\n<p><strong>外观变换（Transmogs）</strong></p>\n<ul>\n<li>为物品应用独特的盔甲模型</li>\n<li>高度可定制的盔甲接口</li>\n<li>自动处理披风物理效果</li>\n</ul>\n<p><strong>雕像（Statues）</strong></p>\n<ul>\n<li>动态生成玩家雕像资源</li>\n<li>动态多区块处理</li>\n<li>静态模型渲染</li>\n</ul>\n<p><strong>属性（Attributes）</strong></p>\n<ul>\n<li>轻量级且非侵入式的常见 RPG 风格属性实现<ul>\n<li>护甲穿透、挖掘速度、经验获取、箭矢伤害、暴击伤害、闪避几率、治疗接收</li></ul></li>\n<li>属性重映射器，用于在游戏中动态热交换物品属性以实现最大兼容性<ul>\n<li>原生兼容 Apothic Attributes</li>\n<li>提供代码和数据包入口点</li></ul></li>\n</ul>\n<p><strong>Patreon 集成</strong></p>\n<ul>\n<li>上述所有功能的 Patreon 集成服务</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

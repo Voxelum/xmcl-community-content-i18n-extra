@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c1059f496ae074d3",
+  "content": "\n\n# CustomFontFix\n![Без мода](https://cdn.modrinth.com/data/cached_images/e0e3887b9ff4883b66b1527a63b7a6336e29f272.png)\n![С модом](https://cdn.modrinth.com/data/cached_images/74d462c70743417a414d92fac905fef4698144f6_0.webp)\n\nИсправляет проблемы Z-fighting, возникающие при рендеринге шрифтов TTF в Minecraft, особенно при использовании светящихся чернил на табличках.\n\n## Возможности\n\n* Снижает или полностью устраняет Z-fighting на тексте\n* Улучшает читаемость пиксельных шрифтов\n* Оптимизировано для шрифтов, таких как **Neo둥근모 Pro**\n\n## Ограничения\n\n* Некоторые шрифты TTF могут по-прежнему отображаться некорректно из-за системы рендеринга Minecraft\n* Шрифты с сглаживанием поддерживаются не в полной мере\n\n## Рекомендуемые шрифты\n\n* Neo둥근모 Pro (наилучшая совместимость)\n* Скачать ресурспак: https://drive.google.com/file/d/1qopOgPFsHFJPploP9YKeqau3cmKpDkK3/view?usp=sharing\n\n## Установка\n\n1. Установите Fabric Loader (>= 0.16.0)\n2. Поместите мод в папку `mods`\n3. Запустите Minecraft\n\n\n## Поддерживаемые версии\n\n* 26.1\n* 26.1.1\n* 26.1.2\n* 26.2\n\n## Лицензия\n\nЭтот проект распространяется под лицензией GPL-3.0-only.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

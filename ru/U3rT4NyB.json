@@ -1,0 +1,6 @@
+{
+  "bodyHash": "887332c421252dde",
+  "content": "# Nomi Horizons\n\nПеренос функций GTNH в Nomifactory.\n\n## Особенности\n\nТекст здесь может быть устаревшим, см. [CHANGELOG.MD](CHANGELOG.md) для получения более подробной информации.\n\n- Добавлена поддержка GregTech Fluid Tank для бочек Extra Utilities 2\n- Уменьшен размер ограничивающего прямоугольника (Bounding Box) бочек Extra Utilities 2\n- Уменьшен размер ограничивающего прямоугольника ящиков Actually Additions\n- Исправлено отображение некорректного имени жидкости GregTech при правом клике по бочкам Extra Utilities 2\n- Изменена вместимость ячеек GregTech на 144L для лучшей работы с жидкостями",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

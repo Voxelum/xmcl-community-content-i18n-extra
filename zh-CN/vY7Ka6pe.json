@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2976519eab48c375",
+  "content": "\n\n通常情况下，无论使用什么工具，玻璃的破碎速度都是固定的。\n\n本模组改变了这一设定，现在你可以像挖掘其他方块一样，用镐更快地破坏玻璃。\n\n![glassbreaker](https://cdn.modrinth.com/data/vY7Ka6pe/images/17604688dbbc2ade2c268eb3b4d2db42534831cb.gif)\n\n游戏判定为“玻璃”的方块列表：\n* 玻璃方块 + 玻璃板 + 染色变体（不言而喻）\n* 发光石\n* 红石灯（1.20+）\n* 海晶灯\n* 信标\n* 潮涌核心\n\n兼容性：\n* 效率、精准采集等附魔\n* 任何添加镐类的模组，包括镐状工具，例如 [Pickle Tweaks](https://modrinth.com/mod/pickle-tweaks) 的镐铲斧（paxel）。\n* 任何添加玻璃的模组，例如 [Glassential](https://modrinth.com/mod/glassential)！\n\n（说实话，它的实现方式有点取巧，但应该没什么问题 ;) ）\n\n*（如果你正在寻找兼容原版的数据包等效方案，可以查看 [Pickaxe Effective Glass](https://modrinth.com/datapack/purpurpacks-pickaxe-effective-glass)！不过请注意，由于原版数据包系统的限制，它仅适用于原版玻璃。）*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

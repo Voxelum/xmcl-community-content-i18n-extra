@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8bb960b2c222bfc2",
+  "content": "# Nuit Interop Continued\n\n這個模塊延續了 [Nuit Interop](https://modrinth.com/mod/nuit-interop) 的工作，為 Minecraft 1.21.5 和 1.21.8 提供支持。\n\n原始實現的全部歸功於 FlashyReese。\n\n## 功能說明\n\n在運行時將 OptiFine/MCPatcher 自定義天空資源包自動轉換為 [Nuit](https://modrinth.com/mod/nuit) 的天空盒格式，使您現有的天空資源包繼續正常工作。\n\n## 需求\n\n- [Nuit](https://modrinth.com/mod/nuit) （必需）\n\n## 常見問題\n\nNuit 本身不直接支援 OptiFine 格式——該模塊填補了這一差異。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

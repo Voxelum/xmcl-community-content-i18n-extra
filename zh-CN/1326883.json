@@ -1,0 +1,6 @@
+{
+  "bodyHash": "82d42e64bb89b4b9",
+  "content": "<h1>Minecolonies 任务线安装器</h1>\n<p>一个用于安装我的 <a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.planetminecraft.com%252fmod%252fminecolonies-questline-ftb-quests%252f\" target=\"_blank\" rel=\"nofollow\">Minecolonies 任务线</a> 章节的简单模组。这是一个针对 FTB Quests 的任务，旨在向新玩家解释如何游玩 Minecolonies，并为新老用户提供一些有用的信息。</p>\n<h2>使用方法</h2>\n<ul>\n<li>欢迎在您的整合包中使用它。</li>\n<li>欢迎根据需要自定义该任务。<em>注意：如果您计划修改任务线，请考虑在安装后移除 Minecolonies Questline 模组，或参考下方的手动安装部分以手动下载/安装任务文件。</em></li>\n</ul>\n<h2>版本兼容性</h2>\n<p>本模组兼容：</p>\n<ul>\n<li>Minecraft 1.20.1 和 Forge</li>\n<li>Minecraft 1.21.1 和 NeoForge</li>\n</ul>\n<h2>模组不兼容项</h2>\n<p>目前，Minecolonies Questline 与 <a href=\"https://www.curseforge.com/minecraft/mc-mods/ftb-quests-lang-splitter\" target=\"_blank\" rel=\"nofollow\">Quests Lang Splitter</a> 不兼容。</p>\n<h2>安全编辑</h2>\n<p>该模组仅在配置文件不存在时将其复制到相应文件夹。如果指定位置已存在文件，则不会覆盖任何内容。</p>\n<h2>模组依赖</h2>\n<ul>\n<li>Minecolonies</li>\n<li>FTB Quests</li>\n<li>Kubejs</li>\n</ul>\n<h2>手动安装</h2>\n<p>如果您倾向于手动安装任务文件，可以从 <a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.planetminecraft.com%252fmod%252fminecolonies-questline-ftb-quests%252f\" target=\"_blank\" rel=\"nofollow\">Planet Minecraft</a> 项目页面下载它们。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

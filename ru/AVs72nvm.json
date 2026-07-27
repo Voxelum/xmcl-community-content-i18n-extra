@@ -1,0 +1,6 @@
+{
+  "bodyHash": "12a5b885562e7af8",
+  "content": "\n\nДобавляет апгрейд стака для Item Hatch в мод [Modern Industrialization](https://modrinth.com/mod/modern-industrialization/).  \n\nПоддерживает добавление, изменение и удаление апгрейдов стака с помощью KubeJS:\n```js\n// server_scripts\\*.js\nServerEvents.generateData('after_mods', event => {\n  // Добавление нового апгрейда стака.\n  event.setMIStackUpgrade('#minecraft:flowers', 1);\n\n  // Изменение размера стака для существующего апгрейда\n  event.setMIStackUpgrade('modern_industrialization:basic_stack_upgrade', 200);\n  \n  // Удаление существующего апгрейда стака\n  event.setMIStackUpgrade('modern_industrialization:quantum_stack_upgrade', 0);\n})\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

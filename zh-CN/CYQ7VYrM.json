@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3ce50fbf25fd1884",
+  "content": "\n\n# 关于 🐸\n![fo](https://cdn.modrinth.com/data/cached_images/8457cf2b01e18302ef61da3256328bfb4b94ad14.png)\n![fa](https://cdn.modrinth.com/data/cached_images/6c152554bb3141433b6dca087131f96f00a876ba.png)\n![qu](https://cdn.modrinth.com/data/cached_images/554809ee9ae740db0707b7cd1420d937b490cd6b.png)\n![neo](https://cdn.modrinth.com/data/cached_images/5d6378864df2d8f2699289ec7f439e26b5c8db60.png)\n<br/>\n服务于我所有模组的库，包含实用工具与抽象封装。\nMtJava 是 toadlib 的 Java 部分——自定义 Java 库。\n我所有的模组（不含分支版）均需要依赖此库。\n\n### [开发者入门指南 📗](https://github.com/ITsMrToad/ToadLib-mod/wiki/Lib-integration)\n\n\n### 功能⭐： \n\n* 属性工具\n* 集成工具\n* 方块与物品工具\n* 世界生成工具\n* 实体抽象层\n* 实体工具\n* Java 工具\n* 自定义配置\n* 以及更多\n\n### 模组📑：\n\n* VillageUpgrade [未完成]（50%）- 村庄内容\n* EndlessJourney [未完成]（8%）- 末地更新\n* [MovieMaker](https://modrinth.com/mod/moviemaker) [Alpha] ✨ - 大型创作型模组\n* [H+](https://modrinth.com/mod/h_plus) [已完成] 💠 - 内容与硬核玩法\n* [Palladium](https://modrinth.com/mod/mpalladium) [已完成] 💠 - 优化\n* [EBE(EnlightenedBlockEntities)]([https://modrinth.com/mod/ebe-forge]) [已弃用] 🟥\n* [GPUTape](https://modrinth.com/mod/gputape/) [已完成] 💠 - 优化\n\n**支持语言：** 🌐\n- 英语(en_us) - Mr.Toad\n- 俄语(ru_ru) - Mr.Toad\n- 土耳其语(tr_tr) - MissionWAR\n- 乌克兰语(uk_ua) - StarmanMine142\n<br/>\n想要添加本地化支持吗？欢迎提交 GitHub Pull Request！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

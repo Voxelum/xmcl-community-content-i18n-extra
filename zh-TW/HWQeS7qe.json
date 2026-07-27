@@ -1,0 +1,6 @@
+{
+  "bodyHash": "731ca2cf61474be2",
+  "content": "# 耐久度調整\n\n伺服器端模組。\n\n減少裝備的耐久度消耗。\n\n## 功能\n\n- 盔甲耐久度損耗機率\n- 盔甲耐久度損耗上限\n- 盔甲耐久度損耗倍率\n- 盾牌耐久度損耗機率\n- 盾牌耐久度損耗上限\n- 盾牌耐久度損耗倍率\n\n## 設定\n\n設定檔位於 `config/durability_tweaks.json`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

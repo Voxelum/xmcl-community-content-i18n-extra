@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9f427f5d47033822",
+  "content": "\n\n為 Origins 模組新增一個選擇畫面，讓你可以選擇角色的性別。此模組會使用「create: estrogen」所新增的屬性，為玩家模型加上胸部。\n\n\n\n<details>\n<summary>問題</summary>\n\n### 我需要同時在伺服器與客戶端都安裝這個嗎？\n不需要，這個模組完全在伺服器端運作。**但是** Origins 和 Estrogen 本身都不是純伺服器端模組，因此兩邊都需要安裝。\n\n</details>\n\n\n<details>\n<summary>整合包/重新分發</summary>\n\n只要保持在 Modrinth 網路上，你就可以自由地將其用於任何整合包中。\n\n請**不要**重新分發此模組的修改版或未修改版本（不過，為了更好地適應整合包而修改的版本除外，只要該版本仍保留在你的整合包中並發布於 Modrinth 上即可）。\n\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

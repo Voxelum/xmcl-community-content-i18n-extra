@@ -1,6 +1,6 @@
 {
-  "bodyHash": "1/YPEVODGVo=",
-  "content": "**NEI (資訊不足)** 是一個能顯示實用資訊的資料包。您可以開啟或關閉以下顯示項目：\n- 現實時間\n- 遊戲內時間\n- 遊戲內天數刻數\n- 天氣狀態\n- 實體生命值\n- 座標位置\n- 方位羅盤\n- 光照等級\n\n使用指令 ``/trigger nei`` 開啟主 __顯示選單__。\\\n點擊「**☒**」或「**☐**」可切換選項，點擊「**[​設定]**」可進行選項配置。\n\n使用 ``/tag <玩家名稱> add nei_admin`` 添加管理員，並透過 ``/trigger nei_admin`` 開啟管理員選單。\n\n歡迎建議任何想要新增的功能。\\\n加入我的 [Discord 伺服器](https://discord.gg/RZC9aDRT8n)。",
+  "bodyHash": "9e164d520bb7ad4b",
+  "content": "**NEI（Not Enough Info）** 是一個數據包，可以顯示有用的信息。你可以開關這些顯示內容。\n- 現實時間\n- 遊戲內時間\n- 遊戲內刻（Ticks）\n- 天氣\n- 實體生命值\n- 座標\n- 指南針\n- 光照等級\n\n\n使用 ``/trigger nei`` 打開主 __顯示菜單__。\\\n你可以通過點擊 \"**☒**\" 或 \"**☐**\" 來切換選項，並通過點擊 \"**[​CONFIG]** \" 來配置選項。\n\n\n使用 ``/tag <player> add nei_admin`` 添加管理員，並使用 ``/trigger nei_admin`` 打開管理員菜單。\n\n\n建議你想添加的任何功能。\\\n加入我的 [Discord 伺服器](https://discord.gg/RZC9aDRT8n)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

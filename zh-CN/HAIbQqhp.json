@@ -1,0 +1,6 @@
+{
+  "bodyHash": "359b6f54f331633f",
+  "content": "\n\n# 选择性发光\n一款极其简单的服务端模组，可为玩家施加虚假的发光效果。 \n\n### 用法\n仅有一个命令即可控制所有功能。\n```\n/glow <targets: entities> <displayplayers: players>\n```\n`targets` - 将要发光的实体。\\\n`displayplayers` - 将看到 `targets` 发光效果的玩家。（该命令会*覆盖*旧的 `displayplayers`）\n\n使用此命令重置目标的发光效果。\n```\n/glow <targets: entities> *reset\n```\n或使用此命令重置所有发光覆盖。\n```\n/glow *reset\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

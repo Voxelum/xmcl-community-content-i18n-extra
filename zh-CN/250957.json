@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e5a687cfae5aebe3",
+  "content": "<p><span style=\"font-size:18px\"><strong>目前无计划在 1.12.2 之后进行更新！ <a href=\"https://twitter.com/bonusboni/status/1380212543269011459\" rel=\"nofollow\">链接</a></strong></span></p>\n<p>&nbsp;</p>\n<p><strong>使用此模组意味着你将放弃所有与平衡的相似之处，因为 Tinkers' Construct 是基于有限数量的修改器。</strong></p>\n<p>&nbsp;</p>\n<p>记得玩 GTA 的美好时光吗？使用坦克作弊代码然后大闹一番？这个模组就像那样，只是针对 Tinkers' Construct Tools，并且输入作弊码所需的时间更长。</p>\n<p>&nbsp;</p>\n<p>给你的工具赋予经验值，使其可以升级。升级时会奖励一个额外的修改器。你在使用工具达成其预期用途时获得经验值，例如用镐子破坏方块，用剑击杀生物等。</p>\n<p>&nbsp;</p>\n<p>注意：剑的经验值是根据造成伤害时的伤害量计算的，而非造成伤害的瞬间。只有当生物被击杀时才会获得经验值！</p>\n<p>&nbsp;</p>\n<p>该模组应该与现有世界兼容。添加前请备份你的世界！</p>\n<p>&nbsp;</p>\n<p>特性：</p>\n<ul>\n<li>设定新工具建造后最多可拥有的修改器数量（默认 3）</li>\n<li>每次升级免费授予一个修改器</li>\n<li>每次升级所需的经验值是上一次的 2 倍</li>\n<li>当前没有上限</li>\n<li>起始经验值可在配置文件中单独调整（因为我知道你们想要基本的创造模式修改器 ;P）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

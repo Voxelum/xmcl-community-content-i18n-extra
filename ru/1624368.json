@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f3460c86f8b2e3f4",
+  "content": "<h3>Обзор</h3>\n<p>Кнопки боковой панели FTB по умолчанию отображаются только в инвентаре игрока. Этот мод расширяет их отображение на все интерфейсы — сундуки, печи, верстаки, наковальни или любые другие модифицированные интерфейсы.</p>\n<h3>Возможности</h3>\n<p>Кнопки боковой панели отображаются на всех экранах интерфейсов, а не только в инвентаре.</p>\n<p>Корректно сообщает область кнопок JEI/HEI, чтобы панель предметов не перекрывалась.</p>\n<p>Учитывает все параметры конфигурации FTB Library (action_buttons: DISABLED / TOP_LEFT / INVENTORY_SIDE / AUTO).</p>\n<p>Экраны инвентаря и творческого режима используют оригинальный путь рендеринга — нулевое влияние на существующее поведение.</p>\n<p>Только на стороне клиента</p>\n<h3>Зависимости</h3>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/mixin-booter\" rel=\"nofollow\">MixinBooter</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge\" rel=\"nofollow\">FTB Library (Forge) (Legacy)</a></p>\n<p>Рекомендуется использовать вместе с FTB Quests и FTB Utilities.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

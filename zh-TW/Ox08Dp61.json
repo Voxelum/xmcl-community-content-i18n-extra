@@ -1,0 +1,6 @@
+{
+  "bodyHash": "91c8ebef6ed8352b",
+  "content": "**[Continuity](https://modrinth.com/mod/continuity/) Fabric 模组已由 PlayReissLP 移植至 1.16。所有榮譽歸屬於創作者 Pepper_Bell 及後端移植者 PlayReissLP。**\n\nContinuity 依賴 Fabric API，且僅限客戶端。隨附兩個內置資源包：一個提供默認連接紋理（類似於 OptiFine），另一個修復了玻璃面板的剔除問題。Continuity 是一款 Fabric 模塊，使資源包可以使用 OptiFine 連接紋理格式、OptiFine 發光紋理格式（僅限方塊和物品模型）或 OptiFine 自定義方塊層格式，而無需安裝 OptiFine。\n\nContinuity 依賴 Fabric API，且僅限客戶端。它包含兩個內置資源包。「Default Connected Textures」資源包提供玻璃、砂岩和書架的連接紋理，功能與 OptiFine 內建連接紋理類似。「Glass Pane Culling Fix」資源包會移除垂直堆疊的玻璃面板間的表面，使連接紋理看起來無縫接合。\n\n從嚴格意義上講，Continuity 實現了 Continuity 連接紋理規範、Continuity 發光紋理規範以及 Continuity 自定義方塊層規範。這些均為對應 OptiFine 規範的擴展，旨在為資源包作者提供更多功能。Continuity 規範的詳細說明可於 Continuity 維基中查閱。\n\n若未安裝 Indium，Continuity 無法與 Sodium 協同工作。Continuity 與 ModernFix 不兼容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

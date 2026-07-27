@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27e93fa815432f81",
+  "content": "\n\n<p>此模組會改變你的釣魚方式。只需拋出浮標並等待。當魚上鉤時，釣線會自動收回並重新拋出。</p>\n<p>要啟用自動化功能，請將釣竿放入機器人槽位，然後拋竿。預設的機器人槽位索引為 8，也就是最右側的那個。此索引與其他參數可在 giacomos_fishing_bot-client.toml 設定檔中進行配置。</p>\n<p>從 1.1 版本開始，當你在開放水域釣魚時，我已在浮標上方加入了一個小小的閃爍特效，這表示你有機會釣到寶物。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/529/393/2022-11-28_09.png\" alt=\"機器人正在使用預設的機器人槽位索引 8。\" width=\"592\" height=\"161\"></p>\n<p>這是一個僅限客戶端的模組，因此你可以加入任何伺服器。&nbsp;</p>\n<p>不需要讓 Minecraft 視窗獲得焦點或保持顯示。</p>\n<p>請勿安裝在伺服器端。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

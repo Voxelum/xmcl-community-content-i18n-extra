@@ -1,0 +1,6 @@
+{
+  "bodyHash": "614607881adfb0ac",
+  "content": "Pixelmon Controlify Bridge 是一個小型的客戶端 NeoForge 相容模組，讓 Controlify 能夠透過手把可靠地觸發 Pixelmon 的動作。\n\nPixelmon 的鍵位設定可能會出現在 Controlify 中，但直接綁定這些原生動作可能無法透過手把觸發預期的 Pixelmon 行為。此模組新增了一組獨立的橋接鍵位設定，Controlify 可以正常地進行綁定。當按下其中一個橋接鍵位時，模組會直接呼叫對應的 Pixelmon 動作。\n\n## 功能\n\n- 派出或召回小精靈隊伍成員\n- 選擇下一個或上一個隊伍成員\n- 觸發小精靈隊伍動作\n- 使用並切換外部招式\n- 開啟小精靈畫面，如圖鑑、摘要、研究、培育屋、訓練家卡片和維基\n- 觸發小精靈的戰鬥觀戰動作\n\n## 使用方法\n\n在 NeoForge Minecraft 1.21.1 客戶端上與 Pixelmon 和 Controlify 一起安裝此模組。\n\n然後打開控制設定畫面，並為「Pixelmon Controlify Bridge」分類下的項目進行綁定。請使用這些橋接項目，而不是直接透過 Controlify 綁定 Pixelmon 的原生鍵位設定。\n\n## 相容性\n\n版本 1.0.0 已測試與以下版本相容：\n\n- Minecraft 1.21.1\n- NeoForge 21.1.234\n- Pixelmon 9.3.16\n- Controlify 3.0.0+lts\n\n## 備註\n\n這是一個客戶端相容模組。它不包含或重新分發 Pixelmon 或 Controlify。\n\n這是一個非官方的相容專案，與 Pixelmon 或 Controlify 沒有隸屬、背書或支援關係。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

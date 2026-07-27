@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4242cfc8cea0c720",
+  "content": "<h1>TCRMeshes 模组</h1>\n<h2>概述</h2>\n<p>TCRMeshes 是一款专为<strong>The Casket of Reveries</strong>模组包设计的模型模组。它提供了一系列定制 3D 模型以增强该模组包的视觉体验。</p>\n<h2>特性</h2>\n<ul>\n<li><strong>新增 8 个人形末世角色模型</strong>。</li>\n<li>包含简单的注册功能，便于集成。</li>\n<li>通过 <code>TCRMeshes</code> 类静态访问模型。</li>\n</ul>\n<h2>要求与使用说明</h2>\n<ul>\n<li><strong>所需加载器：</strong>本模组需要安装 <strong>Epic Fight</strong> 作为模型加载器。</li>\n<li>要在游戏内或开发中使用模型，请参考 <code>TCRMeshes</code> 类。</li>\n</ul>\n<h2>重要提示</h2>\n<p>本模组仅专用于 <strong>The Casket of Reveries</strong> 模组包。<br>若希望在其他项目中使用本模组或其任何模型，必须先获得作者的授权：<br>\n<strong>P1nero</strong> – <a href=\"mailto:gaylordfocker@foxmail.com\" rel=\"nofollow\">gaylordfocker@foxmail.com</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

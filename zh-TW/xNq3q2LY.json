@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f6194f20f4dd5118",
+  "content": "\n\n<img src=\"https://cdn.modrinth.com/data/xNq3q2LY/images/2f0bbce1cf15b95c0ecc98a8d680b989762e7fc8.png\" alt=\"礦物探測器橫幅\"></img>\n\n<h1>關於此模組</h1>\n\n使用此模組，您可以取得多種礦物探測器，讓您知道腳下是否有礦物。\n\n根據您擁有的探測器類型，它可以探測不同種類的礦物。\n\n如果探測器沒有偵測到任何東西，會發出以下聲音：\n\n<audio controls src=\"https://github.com/restonic4/OreDetector/raw/master/common/src/main/resources/assets/oredetector/sounds/not_found.ogg\" type=\"audio/ogg\" type=\"audio/ogg\"></audio>\n\n如果探測器成功偵測到目標，會發出以下聲音：\n\n<audio controls src=\"https://github.com/restonic4/OreDetector/raw/master/common/src/main/resources/assets/oredetector/sounds/found.ogg\" type=\"audio/ogg\"></audio>\n\n<h1>合成配方</h1>\n\n這是通用的合成配方；所有探測器皆以此方式製作，但請記得替換對應的材料。\n\n<img src=\"https://cdn.modrinth.com/data/xNq3q2LY/images/837f41a434806acfa7a6ccadc951f56b2b57b3da.png\" alt=\"礦物探測器合成配方\"></img>\n\n<h1>必要模組</h1>\n<a href=\"https://modrinth.com/mod/architectury-api\">Architectury api</a>\n以及\n<a href=\"https://modrinth.com/mod/rest-api\">RestApi</a>\n\n<h1>影片</h1>\n\n<iframe width=\"315\" height=\"560\"\nsrc=\"https://www.youtube.com/embed/H_kMvsWbE24\"\ntitle=\"YouTube video player\"\nframeborder=\"0\"\nallow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\"\nallowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

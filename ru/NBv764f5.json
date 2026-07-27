@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a64f2b574a440950",
+  "content": "# Автоматический дневник генератором ИИ\n\n# [Также доступна на日本語. Описание на日本語 по ссылке](https://github.com/datsuns/mc-ai-diary/blob/v3.1.0-mc26.1.2/README.ja.md)\n\nАвтоматически генерируйте дневник Minecraft!  \nДневник генерируется на основе вашей деятельности! (пройдённое расстояние, использованные предметы, общение с мобами и многое другое)  \nЗаписи дневника отправляются в чат при смене дня.\n\n![Пример скриншота](https://cdn.modrinth.com/data/cached_images/72cc8fa3b721828d962cef9112c1a13cab0aa63f.png)\n\n# Зависимости\n\n* [(мод) Fabric API]([https://modrinth.com/mod/fabric-api](https://modrinth.com/mod/fabric-api))\n* [(мод) Cloth Config API](https://modrinth.com/mod/cloth-config)\n* [Ключ Gemini API](https://aistudio.google.com/app/)\n\n# Настройка\n\nДля использования мода необходимо выполнить несколько шагов. Пожалуйста, ознакомиться [с этой ссылкой](https://github.com/datsuns/mc-ai-diary).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

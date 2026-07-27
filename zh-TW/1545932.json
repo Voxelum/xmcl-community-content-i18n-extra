@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3b71bf522beb0bf",
+  "content": "\n\n<h1>Spawn Doctor</h1>\n<p>你完全依照教學建造了生物農場，卻什麼都刷不出來。<code>/spawndoctor</code> 會用淺顯易懂的話告訴你原因——不是火焰圖表，也不是覆蓋層。</p>\n<p>生成覆蓋模組只顯示光照等級。沒有一個能解釋為什麼正確建造的農場一無所出：遠處載入的敵對生物耗用了生成額度、AFK 位置太近，或是模擬距離。站在你預期會生成生物的地方並執行指令。</p>\n<pre><code>Spawn Doctor — 你的生物農場為何死氣沉沉：\n    42 隻敵對生物在遠處載入，而你附近只有 3 隻。遠處的這些會消耗\n    你的農場所需的相同生成額度——點亮洞穴／清除它們。\n ┃ 生物會在距離玩家 24-128 格處生成：AFK 至少離 24 格遠……\n ┃ 伺服器模擬距離：10 個區塊——農場必須在該範圍內……</code></pre>\n<p>它會指出確定無疑的原因（和平難度、<code>doMobSpawning</code> 關閉），揭露常見的隱形殺手（遠處載入的敵對生物耗盡上限），並始終說明通用的生成規則（24–128 環帶、模擬距離）。生物上限公式與版本有關，因此它從不聲稱精確的「上限 X/Y」——錯誤的數字比沒有更糟。所有玩家皆可使用，冷卻時間為 30 秒（OP 可繞過）。</p>\n<p>唯讀且按需觸發：無 Mixin、無設定檔、無方塊或物品。</p>\n<p>僅服務端——只需安裝在伺服器上。</p>\n<p>可在任何整合包中免費使用。原始碼與問題回報：<a href=\"https://github.com/KURONAMI333/spawn-doctor\" target=\"_blank\" rel=\"nofollow\">https://github.com/KURONAMI333/spawn-doctor</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

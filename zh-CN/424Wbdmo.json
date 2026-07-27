@@ -1,0 +1,6 @@
+{
+  "bodyHash": "561b29d77a09c6f6",
+  "content": "![PSX-Core 着色器在雪林中](https://cdn.modrinth.com/data/cached_images/3000b2c3fed4dc936b1e7a2ba11024c161788c4a.png)\n\n一款还原 PS1 视觉风格的 Minecraft 着色器。特性包括：\n- 有序抖动\n- 每通道 5 位颜色量化\n- 带有渐变光级层次的 gouraud 着色\n- 顶点吸附\n- 仿射纹理映射\n- 雾效（令人不安）\n\n大多数功能均可通过着色器设置进行配置！仅在 1.21.11 版本的 Iris 上经过彻底测试（老版本也可用，如遇问题请报告）。\n\n# 预览\n> 请在画廊页面查看更多内容！\n\n启用雾效（默认）：\n![PSX-Core 着色器在启用了雾效的雪林中](https://cdn.modrinth.com/data/cached_images/0f21d7b591813190785ae8a9bf188a4e06af9617.png)\n\n禁用雾效：\n![PSX-Core 着色器在禁用了雾效的雪林中](https://cdn.modrinth.com/data/cached_images/8a05a2c873c708fb0f93c6d95b531e3d6a359396.png)\n\n洞穴内：\n![PSX-Core 着色器在一个较暗的洞穴中](https://cdn.modrinth.com/data/cached_images/d8a4375296e94cc91df4696d64946f8c6f855ceb.png)\n\n> 模组包欢迎将此着色器作为依赖项添加使用。请勿重新上传或打包此着色器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

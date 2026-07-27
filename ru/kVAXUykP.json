@@ -1,6 +1,6 @@
 {
-  "bodyHash": "T210DuIDqR4=",
-  "content": "Простой, чистый ASM (SpASM)\n\nПозволяет регистрировать трансформеры классов, которые обрабатывают все классы, без указания названий классов, как в FabricASM.\n\nТочка входа — `spasm:transformer`\n\nИнтерфейс — `net.mine_diver.spasm.api.transform.ClassTransformer`",
+  "bodyHash": "bda59fb01636dc05",
+  "content": "\n\nПростой, чистый ASM (SpASM)\n\nПозволяет регистрировать трансформеры классов, обрабатывающие все классы, без необходимости указывать имена классов, как в FabricASM.\n\nТочка входа — `spasm:transformer`\n\nИнтерфейс — `net.mine_diver.spasm.api.transform.ClassTransformer`",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

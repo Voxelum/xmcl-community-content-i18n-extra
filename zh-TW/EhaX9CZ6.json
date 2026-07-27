@@ -1,0 +1,6 @@
+{
+  "bodyHash": "66dc53d2238c7d36",
+  "content": "# ProjectE：為 Spectrum 提供 EMC 支援\n\n在 [Spectrum](https://modrinth.com/mod/spectrum) 中使用 [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) 時，其寶石和礦石原本沒有 EMC 價值。這個純數據擴充模組提供了基礎的 EMC 覆蓋。\n\n- **手動調整的 EMC 數值**：涵蓋 Spectrum 中的寶石（黃玉 / 黃水晶 / 黑曜石 / 月光石碎片）以及開採資源（原藍銅礦、原孔雀石、閃光石、帕爾泰里亞石、層狀岩、新石器、破碎基岩、毒性粉末）。\n- 透過該模組的原生風格配方製作的物品，其 EMC 會**自動衍生**。\n\n此模組不添加任何物品、方塊或配方——僅包含 EMC 數據。數值在世界載入時生效；打開變形桌即可查看。\n\n**僅提供基礎覆蓋。** Spectrum 是一個非常大的模組，其機器配方（底座、融合祭壇、靈魂浸漬器……）無法由 ProjectE 自動衍生，因此在第一版中，深度依賴機器的內容沒有 EMC——但寶石、礦石及其直接可製作的物品除外。具有狀態的裝備和飾品設計上就不攜帶 EMC。\n\n**依賴項**\n\n- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) — 必需\n- [Spectrum](https://modrinth.com/mod/spectrum) — 必需\n- NeoForge 1.21.1\n\nEMC 數值經過初步考量；歡迎在問題追蹤器上提供關於平衡性和覆蓋範圍的反饋。\n\nMIT 授權。Spectrum 由 DaFuqs 及貢獻者開發（LGPL-3.0）；ProjectE 由 sinkillerj 及貢獻者開發。獨立整合專案，與上述任一專案均無隸屬關係。原始碼及問題回報：https://github.com/KURONAMI333/spectrum-emc",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

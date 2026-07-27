@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6cbc9c89ccb125d5",
+  "content": "<h1>ClientMultimediaPlayer（客戶端）</h1>\n<p>此模組僅安裝於客戶端。它作為渲染和空間音訊引擎，用於處理和解讀由伺服器發送的指令。它本身不包含任何指令，除非伺服器發出指示，否則在本地模式（單人遊戲）下遊玩時不會干擾伺服器機制。</p>\n<h2>功能特色</h2>\n<ul>\n<li>使用 WaterMedia API，在多邊形畫布上以沉浸式方式在 3D 世界中呈現影片。</li>\n<li>先進的音訊衰減系統，包括基於螢幕大小的動態音量傳播（後方聲學箱體與前方放大）以及用於球形原子揚聲器的音訊視錐體。</li>\n<li>支援直接嵌入的 Web URL 或透過 Datapacks 嵌入的本地媒體，並自動同步。</li>\n<li>與雙面螢幕完全無縫整合（每面可顯示不同的媒體），並具備智能剔除功能。</li>\n<li>播放清單和佇列同步，確保播放不中斷。</li>\n</ul>\n<h2>安裝需求</h2>\n<ul>\n<li><strong>Forge</strong>，適用於 Minecraft 1.20.1。</li>\n<li><strong>WaterMedia</strong>：嚴格要求，用於影片和音訊的網路解碼。</li>\n<li>此模組完全依賴其伴生模組 <code>ServerMultimediaManager</code>（必須安裝於伺服器端）所產生的指令。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c88232c244bc7e86",
+  "content": "# Mod 加载屏幕\n\n一个高级加载屏幕，显示 Mod 的加载进度。它适用于所有 Minecraft 版本，甚至不需要 Minecraft 本身即可运行。唯一的必要条件是 Fabric Loader 0.12.0 或更高版本，或者 Quilt Loader（Quilt 的具体支持版本未知）。请注意，如果您在非 Minecraft 游戏上运行此 Mod，加载屏幕可能不会自动关闭。\n\n## Agent（代理）\n\nMod Loading Screen 提供了一个 Java Agent，允许在 Mod 加载器本身加载之前打开加载屏幕。此功能主要针对希望实现无缝加载体验的 Modpack 开发者。可以通过将 `-javaagent:mod-loading-screen-1.0.4.jar` 作为 JVM 参数来使用此 Agent。如果使用了 Agent，则不应将加载屏幕作为 Mod 安装。\n\n## API\n\n要依赖该 API，请使用 Modrinth Maven。API 应当通过 JiJed（Jar-in-Jar）方式包含，这样做不会将 Mod Loading Screen 整体包含到您的 Mod 中（只会包含 API 部分，其大小仅几 KB）。API 设计为与未来版本的 Mod Loading Screen 保持向前和向后的二进制兼容性。API 还提供了用于检查哪些调用将返回桩代码（stubs）以及哪些是真实实现的接口。\n\n```gradle\nrepositories {\n    exclusiveContent {\n        forRepository {\n            maven {\n                name = \"Modrinth\"\n                url = \"https://api.modrinth.com/maven\"\n            }\n        }\n        filter {\n            includeGroup(\"maven.modrinth\")\n        }\n    }\n}\n\ndependencies {\n    // 使用 implementation，而非 modImplementation！\n    include(implementation(\"maven.modrinth:mod-loading-screen:1.0.4:api\"))\n}\n```\n\n该 API 包含两个顶级类：`LoadingScreenApi` 和 `AvailableFeatures`。这两个类都有完整的 Javadoc 文档可供查阅。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

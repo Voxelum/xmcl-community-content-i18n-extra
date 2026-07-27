@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2090ac69fdf3d2fb",
+  "content": "<h1>伤害修正模组</h1>\n<p>当一次攻击本已足以决定胜负时，此模组会自动补齐剩余的小幅差距，从而提供更流畅、更顺畅的战斗体验。</p>\n<h2>设计目标</h2>\n<p>你是否曾辛苦蓄力发动强大攻击，却看到敌人仅剩下微薄血量？</p>\n<p>或者因为 boss 仅靠一点 HP 幸存并反败为胜而惜败？</p>\n<p>这个模组正是为了解决这些时刻而存在！</p>\n<p>它会评估最终伤害结果。如果玩家造成的伤害 <em>几乎</em> 足以击杀目标，模组将补齐差额并完成收尾工作。</p>\n<p>战斗，本该如此畅爽。</p>\n<h2>机制说明</h2>\n<h3>计算逻辑</h3>\n<ul>\n<li><code>finalDamage</code>：最终有效伤害（经护甲、附魔等调整后）</li>\n<li><code>healthBefore</code>：目标受到伤害前的生命值</li>\n</ul>\n<pre><code>IF\nhealthBefore > finalDamage\nAND\nhealthBefore - finalDamage <= finalDamage * k</code></pre>\n<p>其中：</p>\n<p><code>k</code> 决定了相对于造成伤害量，剩余生命值在何种程度内视为“接近”从而触发全额伤害修正。</p>\n<h3>示例</h3>\n<ul>\n<li>怪物生命值：10</li>\n<li>造成最终伤害：8</li>\n</ul>\n<p>剩余生命值：2</p>\n<p>默认设置下 <code>k = 0.5</code>：</p>\n<p><code>2 <= 8 * 0.5 → 成立</code></p>\n<p>👉 额外施加 2 点伤害，立即击杀怪物。</p>\n<p>但若怪物生命值为 20：</p>\n<pre><code>20 - 8 = 12\n12 > 8 * 0.5 → 不成立</code></pre>\n<p>👉 不进行修正；伤害按正常方式处理。</p>\n<h2>配置说明</h2>\n<p>以下选项可在 <code>damage_correction-common.toml</code> 文件中修改，该文件位于 <code>config</code> 文件夹内。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1420492/description_2701eb77-567c-4263-8201-97dc507d4c02.png\" alt=\"image\"></p>\n<h2>许可证</h2>\n<p>遵循 MIT 许可证使用。欢迎自由享用 😊</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

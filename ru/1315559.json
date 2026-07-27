@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4590d861e4a9119e",
+  "content": "<h2>Hexstages</h2>\n<p>Мод для совместимости Hexcasting и Gamestages, позволяющий ограничивать использование конкретных заклинаний (hex Actions), если у игроков не хватает необходимых стадий.</p>\n<p>Для настройки создайте датапак с JSON-файлами в папке <code>/hexstages/staged_actions/</code> внутри пространства имён (namespace) и свяжите стадию со списком ID действий заклинаний.</p>\n<h3>Пример файла</h3>\n<pre><code>{\n  &quot;expert&quot;: [\n    &quot;hexcasting:teleport/great&quot;,\n    &quot;hexcasting:flight/time&quot;\n  ]\n}\n</code></pre>\n<p>Эта конфигурация ограничит использование <strong>Большого Телепорта</strong> и <strong>Полёта странника</strong>, требуя наличия стадии «expert» (эксперт).\nПопытка использовать действие, требующее стадии, без соответствующей стадии приведёт к эффекту слепоты продолжительностью 3 секунды.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

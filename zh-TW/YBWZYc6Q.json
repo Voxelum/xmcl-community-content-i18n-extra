@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c5affd7c8041511f",
+  "content": "\n\n# 紅石機器人\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/IfGuzTshRDQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 📖 描述\n\n能夠以紅石補充能量、跟隨玩家，並使用弓與鐵劍攻擊敵對生物的紅石機器人！\n\n## ⌨️ 指令\n\n召喚：\n\n```mcfunction\n/function redstone_robot:redstone_robot/summon\n```\n\n停用最近的紅石機器人：\n\n```mcfunction\n/scoreboard players set @n[tag=redstone_robot.robot] redstone_robot.robot.power 10\n```\n\n消滅所有紅石機器人：\n\n```mcfunction\n/kill @e[tag=redstone_robot.robot]\n```\n\n## 🪪 授權條款\n\n[AGPL-3.0-or-later](https://github.com/lullaby6/data-packs/blob/main/LICENSE)\n\n## 👾 錯誤/問題\n\n請在 [Discord 伺服器](https://discord.gg/5UdcDa5xNC) 上回報任何問題、錯誤或異常。\n\n## 💌 贊助\n\n- [在 Ko-Fi 贊助](https://ko-fi.com/lullaby45743)\n- [在 PayPal 贊助](https://www.paypal.com/paypalme/lucianobrumer)\n\n## 🎁 伺服器託管\n\n建立自己的伺服器可能是一個非常耗時、繁瑣且昂貴的過程。\n\n但透過 BisectHosting，只需幾下點擊就能擁有自己的伺服器！他們提供全天候客服支援與快速回應，讓任何問題都無法阻礙您！\n有興趣嗎？我們還為您準備了專屬優惠！\n\nhttps://bisecthosting.com/lullaby\n\n![伺服器託管](https://www.bisecthosting.com/partners/custom-banners/e840cd99-59f6-4b27-b542-3023cd08bdfe.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5e3c00c57326964d",
+  "content": "\n\n# SaveMod\n\n### Minecraft Fabric 模組，讓您可以像在其他遊戲中一樣儲存（並載入）您的世界。\n\n---\n\n## 功能特色\n\n- 儲存您的世界（從暫停選單）\n- 列出您的存檔\n- 載入存檔\n- 命名/重新命名您的存檔\n- 複製您的存檔\n- 刪除您的存檔\n- 快捷鍵可快速存取存檔列表\n- 另一個快捷鍵可快速存取儲存功能\n- 搜尋列可快速找到存檔\n- 鍵盤導航\n- 設定檔可供開啟或關閉部分按鈕，並提供停用壓縮的選擇\n- 設定介面（需要 [Mod Menu](https://modrinth.com/mod/modmenu/versions)）\n\n## 相依性\n\n<a href=\"https://modrinth.com/mod/fabric-api/versions\">\n<img width=\"150\" src=\"https://github.com/Rashnain/SaveMod/blob/main/readme_assets/requires_fabric_api.png?raw=true\" alt=\"需要 Fabric API\">\n</a>\n\n## 選用相依性\n\n您可以使用 [Mod Menu](https://modrinth.com/mod/modmenu/versions) 在遊戲內設定此模組，不過也可以透過編輯位於 `config` 資料夾中的 `savemod.properties` 檔案來進行設定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

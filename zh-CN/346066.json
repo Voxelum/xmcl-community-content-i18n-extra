@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7c10da514303e6ce",
+  "content": "\n\n<p>SCP Craft 是一款专为 SCP 宇宙粉丝打造的整合包！<br>它收录了以 SCP 为主题的模组，将维基上最受欢迎的 SCP 加入 Minecraft，并搭配多种科技与魔法模组以丰富游戏内容。此外，该整合包还包含带有枪械、护甲等内容的战斗模组。本整合包非常适合与朋友一起游玩，其中所选用的模组均为此目的精心筛选。</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration:underline\"><strong>特色模组：</strong></span></p>\n<ul>\n<li>Techguns（用于 PvP 战斗）</li>\n<li>AE2 及其扩展（用于存储）<br>Mekanism（矿石处理 / 能源生产 / 综合科技）</li>\n<li>Mystical Agriculture、Thaumcraft、Blood Magic、Astral Sorcery（与 SCP 宇宙设定契合度较高的魔法模组）</li>\n<li>大量优化模组</li>\n<li>Chisel、Builders Wands、BiblioCraft（用于装饰与建造）</li>\n</ul>\n<p>以及更多精彩内容！</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration:underline\"><strong>推荐配置：</strong></span><br>建议 Java 堆内存至少设置为 3GiB，仅使用 3GiB 即可运行，但 5GiB 体验会更好。同时建议在整合包中使用 OptiFine 以提升帧率并进行整体优化。<br>如果您只需要一段可直接复制到 Java 堆参数中的代码：</p>\n<pre>-Xmx3G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M</pre>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>SCP 标志来自 <a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.scp-wiki.net%252f\" rel=\"nofollow\">SCP Wiki</a>，遵循 <a href=\"/linkout?remoteUrl=https%253a%252f%252fcreativecommons.org%252flicenses%252fby-sa%252f3.0%252f\" rel=\"nofollow\">CC BY-SA 3.0</a> 协议授权</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

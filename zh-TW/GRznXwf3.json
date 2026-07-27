@@ -1,0 +1,6 @@
+{
+  "bodyHash": "306b3974d34eedfe",
+  "content": "\n\n雖然可以透過 Create 以原版風格來自動化釣魚，但這過程相當複雜且容易出問題。\n\n但有了這個簡單的模組，管理起來就輕鬆多了。\n\n它只新增了一個方塊：浮標偵測器。它會自動偵測範圍內的任何釣魚浮標，並在釣到魚時輸出紅石訊號。  \n為了幫助你找到合適的位置，只要有任何釣魚浮標在其範圍內且位於水中，它就會亮起。  \n如果浮標不在範圍內或落在陸地上，它就不會亮燈。\n\n具體如何設定裝填機及其邏輯，以及如何收集物品，全憑你自己決定。這並不是單一方塊就能解決的方案。\n\n![The Detector in action](https://media.forgecdn.net/attachments/705/621/ezgif.gif)\n\n_第三方模組可以透過 Forge 的 bobber tag 加入非原版的浮標。_  \n\n目前該模組本身也支援了 Nether Depths Upgrade 模組。因此你甚至可以在地獄中實現釣魚自動化。\n\n \n\n![The crafting recipe](https://media.forgecdn.net/attachments/thumbnails/718/721/310/172/screenshot-2023-08-25-204540.png)\n\n**本模組旨在與 Create 的裝填機搭配使用，以打造自動魚農場。 _\\- 需要 Create 0.5.1.a 或更高版本_**\n\n_本模組使用了 [Create 模組](https://github.com/Creators-of-Create/Create) 在 MIT 授權條款下的修改後素材_  \n**歡迎將本模組用於你的整合包！**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

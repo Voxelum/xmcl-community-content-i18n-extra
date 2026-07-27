@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c228b7a5d66af4d4",
+  "content": "\n\n<p>这是一个小型模组，为应用能源 2 的生长加速器新增了 3 个等级。</p>\n<h3>手摇生长加速器</h3>\n<ul>\n<li>无法连接到你的 ME 网络</li>\n<li>不能直接接收电力</li>\n<li>只能使用手摇曲柄提供动力</li>\n<li>速度为基础速度的 8 倍，但会几乎瞬间耗尽动力</li>\n</ul>\n<h3>增强生长加速器</h3>\n<ul>\n<li>速度为基础速度的 8 倍，但能量消耗约为原来的 3 倍</li>\n<li>当放置在相同耕地附近时，会与其他增强型加速器产生冲突</li>\n</ul>\n<h3>定向生长加速器</h3>\n<ul>\n<li>适用于萌发方块，例如紫水晶萌发方块或赛特斯萌发方块</li>\n<li>允许你指定晶簇的生长方向</li>\n<li>当放置在相同耕地附近时，会与其他定向加速器产生冲突</li>\n<li>目前支持以下模组\n<ul>\n<li>Minecraft</li>\n<li>Applied Energistics 2</li>\n<li>ExtendedAE</li>\n<li>Geores</li>\n</ul>\n</li>\n</ul>\n<p>你还希望支持哪些其他模组？在 GitHub 上提交功能请求，我会确保将其添加进去！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

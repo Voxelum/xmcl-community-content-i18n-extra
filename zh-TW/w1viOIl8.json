@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c1df26d86570bfff",
+  "content": "## Panorama ScreenMake - 解鎖原版全景圖！\n\n是否曾想過製作屬於自己的全景圖？這個模組解鎖了原版遊戲中隱藏且未使用的功能，讓你輕鬆實現這一願望！它使用了與 Mojang 完全相同的代碼，確保以極低的性能開銷獲得完美、高品質的結果。\n\n## 功能特點\n- **純正原版體驗：** 使用 Mojang 自身的隱藏全景圖代碼。\n- **輕量級：** 體積極小，在正常遊戲過程中對性能沒有任何影響。\n- **一鍵啟動：** 只需按下單個按鍵（預設為 `F4`）即可開始製作過程。\n- **全自動處理：** 無需手動調整視野（FOV）或調整視窗大小，模組會自動處理一切。\n- **可自訂設定：** 可在標準的「控制」選單中輕鬆更改鍵位綁定。\n- **有序輸出：** 將生成的六張全景圖整齊地保存至 `.minecraft/panoramas/` 資料夾中。\n---\n![Panoramas](https://cdn.modrinth.com/data/cached_images/1585f66b0a593b62731628e04b91ab6a50ab5106_0.webp)\n[![Fabric](https://cdn.modrinth.com/data/cached_images/513035d1231a86dff137c74e04a5e64633593f10.png)](https://fabricmc.net/)\n[![Quilt](https://cdn.modrinth.com/data/cached_images/a9ee492fd1a5fcbcc14d4105aa27be63f2518529.png)](https://quiltmc.org/)\n## 使用方法\n1. **選擇場景：** 前往你想要拍攝全景圖的位置。\n2. **按下鍵位：** 按下 **F4**（或你自訂的鍵位）。\n3. **完成！** 遊戲會自動旋轉鏡頭、拍攝六張圖片，並在聊天欄中通知你製作完成。\n---\n_享受製作屬於你自己的精美 Minecraft 全景圖吧！_",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

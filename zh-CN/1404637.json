@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d01a3e87f1768303",
+  "content": "\n\n<p><img src=\"https://cdn.modrinth.com/data/cached_images/d73d04bb9e44643ed0fc63e5b8b9b77922bd48c1_0.webp\" alt=\"模组在洞穴中激活\"></p>\n<h1>简易全亮 ☀️</h1>\n<p>简易全亮是一款轻量、无冗余功能的实用模组，让你完全掌控游戏的亮度。无论你是深入洞穴探索还是夜间建造，该模组都能让你一键切换至高亮状态，或在原版限制之外精细调节伽马值。</p>\n<p><strong>📦 支持平台：Fabric、Forge 和 NeoForge。</strong></p>\n<hr>\n<h2>✨ 功能特性</h2>\n<ul>\n<li><strong>切换快捷键：</strong>按下按键即可在自定义亮度与 1500% 伽马值（全亮模式）之间瞬间切换。</li>\n<li><strong>原生滑块集成：</strong>扩展了视频设置中原版的“亮度”滑块，允许你将其一直拖到 <strong>1500%</strong>。无需复杂的配置文件！</li>\n<li><strong>跨平台兼容：</strong>在 Fabric、Forge 和 NeoForge 上均可无缝运行。</li>\n<li><strong>仅客户端加载：</strong>你可以在服务端未安装此模组的情况下使用它。</li>\n<li><strong>无多余内容：</strong>没有多余的菜单、依赖或性能开销。仅提供简洁的亮度控制。</li>\n</ul>\n<hr>\n<h2>🎮 使用方法</h2>\n<h3>快捷键</h3>\n<p>默认情况下，按下 <strong><code>G</code></strong> 即可瞬间开启或关闭全亮模式。</p>\n<ul>\n<li>你可以在标准 <strong>选项 > 键位设置</strong> 菜单的“Simple Fullbright”分类中自定义此按键。</li>\n</ul>\n<h3>亮度滑块</h3>\n<p>进入 <strong>选项 > 视频设置</strong>。</p>\n<ul>\n<li>现在你可以将 <strong>亮度</strong> 滑块拖至远超原版“明亮”上限的位置，精确控制你想要的游戏亮度。</li>\n</ul>\n<hr>\n<h2>🤝 兼容性</h2>\n<ul>\n<li>兼容 Iris 及其他光影</li>\n<li>兼容 Sodium</li>\n<li><em>注意：由于部分模组会完全替换视频设置菜单，自定义的“扩展滑块”功能可能无法在其菜单中显示。请改用快捷键。</em></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "e+B8/Xcx3Ec=",
-  "content": "# 蠟製圖標\n\n此模組是對 [dhyces](https://modrinth.com/mod/waxed-icons) 所開發模組的重製版本，因原模組未更新至新版本。\n\n無需額外安裝其他模組（不理解原作者為何在如此簡單的模組中使用 trimmed 功能）\n\n**[下載](https://github.com/FanyaOff/WaxedIcons/releases/)** | **[Modrinth](https://modrinth.com/mod/waxedicons)**\n\n# 自 1.2 版本起：\n- 支援 1.20.1 及 1.21.x 版本！\n\n- 重新設計設定選單並新增自訂樣式「蜂巢紋」\n\n- 移除 cloth-config 依賴項\n\n- 新增與其他添加蠟製物品的模組相容性（透過檢查物品ID是否包含\"waxed\"實現）\n\n<img width=\"1920\" height=\"1009\" alt=\"image\" src=\"https://github.com/user-attachments/assets/0ff7fd5f-9941-42fc-a00e-d3b316429a97\" />\n\n# 自 1.1 版本起：\n- 整合 Cloth Config，提供預設與替代蠟製圖標樣式。\n\n![image](https://github.com/user-attachments/assets/8774df51-50d4-49b9-8abe-e8b3fe9ecd30)\n\n# 遊戲內預覽（預設樣式）\n\n![image](https://github.com/user-attachments/assets/a623db3d-1e4a-4897-ac99-5e77176915c8)",
+  "bodyHash": "7b0d1e767382e234",
+  "content": "# 打蜡图标\n\n本模组是 [dhyces](https://modrinth.com/mod/waxed-icons) 所开发模组的复刻版，原模组已停止更新，不再支持新版本。\n\n无需安装其他模组（我也不明白作者为何为如此简单的模组使用 Trimmed）。\n\n**[下载](https://github.com/FanyaOff/WaxedIcons/releases/)** | **[Modrinth](https://modrinth.com/mod/waxedicons)**\n\n# 自 1.2 版本起：\n- 支持 1.20.1 及 1.21.x！\n\n- 重新设计了配置菜单，并新增自定义风格——蜂巢\n\n- 移除了对 Cloth Config 的依赖\n\n- 增加了与其他添加打蜡物品的模组的兼容性（通过检查物品 ID 是否包含 \"waxed\" 来实现）\n\n<img width=\"1920\" height=\"1009\" alt=\"image\" src=\"https://github.com/user-attachments/assets/0ff7fd5f-9941-42fc-a00e-d3b316429a97\" />\n\n\n# 自 1.1 版本起：\n- 集成 Cloth Config，支持默认和替代的打蜡图标变体。\n\n![image](https://github.com/user-attachments/assets/8774df51-50d4-49b9-8abe-e8b3fe9ecd30)\n\n# 游戏内预览（默认）\n\n![image](https://github.com/user-attachments/assets/a623db3d-1e4a-4897-ac99-5e77176915c8)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

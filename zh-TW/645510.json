@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3215ed5da2745a86",
+  "content": "\n\n<p>這是一個簡單的模組，讓你只需按下按鍵即可開啟或關閉夜視功能。</p>\n<p><img src=\"https://i.imgur.com/knGqFvV.gif\" alt=\"夜視開關\" width=\"800\" height=\"450\"></p>\n<p>此模組本質上是啟用與真實夜視效果相同的光照貼圖，但不會實際觸發夜視效果。因此，這是一個完全客戶端的模組，無需安裝伺服器端。</p>\n<p>當然，不建議在一般遊玩中使用，但在進行創作或於觀戰模式（或 Carpet 模組的創造無碰撞模式）中探索世界時非常實用。它能讓你一次看遍整個洞穴網絡。</p>\n<p>該按鍵（預設為 N）可在「控制」設定的「雜項」分類中更改。</p>\n<p><strong>從 1.0.5 版本開始，即使安裝了着色器也能正常運作</strong>（已使用 Sodium/Iris/Complementary Reimagined 測試）</p>\n<p>&nbsp;</p>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

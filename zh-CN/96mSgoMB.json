@@ -1,0 +1,6 @@
+{
+  "bodyHash": "529d47ef318bbe8b",
+  "content": "\n\n本模组修改了 Xaero's 的公平模式，使其符合 CivMC 的雷达规则。\n\n- 公平模式变更：\n  - 不再完全禁用雷达\n  - 不再根据高度对雷达实体进行变暗处理\n  - 雷达将无视 Y 轴高度显示所有实体\n  - 雷达将显示隐身及潜行中的实体",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

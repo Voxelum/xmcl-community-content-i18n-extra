@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b9af2a09290c53f8",
+  "content": "# 多行操作栏\n這是一個簡單的客戶端模組，為操作欄新增多行文字支援。此文字會相對於原版文字的偏移量進行置中對齊。\n\n使用 `\\n` 表示換行，範例如下：\n\n```\n/title @s actionbar {\"text\":\"第一行\\n第二行\"}\n```\n\n## 未安裝模組\n[<img src=\"https://raw.githubusercontent.com/diskree/MultiLineActionBar/1.20%2B/screenshots/vanilla.jpg\"/>](https://modrinth.com/modpack/achievetodo)\n\n## 已安裝模組\n[<img src=\"https://raw.githubusercontent.com/diskree/MultiLineActionBar/1.20%2B/screenshots/multilineactionbar.jpg\"/>](https://modrinth.com/modpack/achievetodo)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

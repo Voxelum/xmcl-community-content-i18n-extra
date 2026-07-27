@@ -1,0 +1,6 @@
+{
+  "bodyHash": "04ab3885451bda23",
+  "content": "# 天氣偵測器\n\n![天氣偵測器圖示](https://cdn.modrinth.com/data/jcff3y6F/images/14d738b2f53c02cf78f8fdb6502ff37d605c282f.png)\n\n新增一個天氣偵測器方塊，根據當前天氣輸出紅石訊號。\n天氣偵測器方塊：\n* 下雨或下雪時，輸出強度為 1-8 的紅石訊號。\n* 雷暴時，輸出強度為 9-15 的紅石訊號。\n* 可以透過互動來反轉其輸出狀態。\n\n它的合成方式類似於日照偵測器，需要使用玻璃磚、下界石英和平滑石階。\n\n目前支援 Fabric 和 (Neo)Forge，適用於 1.19.3、1.19.4、1.20.1 和 1.21.1 版本。Fabric 版本需要安裝 Fabric API。\n\n歡迎在 [GitHub 儲存庫](https://github.com/tanukibouwer/weather-detector) 提交程式碼拉取請求（PR）或回報問題。\n\n![包含天氣偵測器的場景](https://cdn.modrinth.com/data/jcff3y6F/images/62d9e96fe3893d70cda1bd17874ce27135989316.png)\n\n本模組採用 MIT 授權發布，因此可以自由地加入至模組整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

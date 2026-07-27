@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6c655d949c0aa276",
+  "content": "### **请务必在 Instagram 上关注我们，以获取最新更新并解决疑问：** **[@nv.labs.official](https://www.instagram.com/nv.labs.official/)**\n\n### 💡 关于此资源包\n本资源包通过编辑 Minecraft 核心光照贴图着色器（而非单纯将伽马值调至最大），显著提升了夜晚和洞穴的可见度。它在保持对比度和景深的同时，确保世界依然具有 Minecraft 的独特视觉风格，仅解决了“完全看不见”的问题。该资源包适用于生存模式、创造模式以及允许使用客户端资源包的服务器，且体积轻量，无需外部着色器加载器即可运行。\n\n### **🎮 使用场景**\n\n- 挖矿和探索洞穴时，无需到处放置火把。\n- 在夜间建造时，仍能清晰辨认方块形状和颜色。\n- 探索、突袭准备及日常游戏时，获得更好的视野，但又不希望画面变得像“全亮”（flat fullbright）那样平淡无奇。\n\n### **⚙️ 兼容性**\n专为 Minecraft 1.21.x 设计（同样兼容 26.1）。在与原版或大多数原版风格资源包共存时，只要将此资源包排在它们之上即可正常工作。若与其他修改相同 `lightmap.fsh` 文件（如全亮效果、夜视修复等）的资源包或着色器一起使用，可能会发生冲突。安装 [PolyTone](https://modrinth.com/mod/polytone) 后，也可与 [Sodium](https://modrinth.com/mod/sodium) 配合使用。\n\n### **务必查看我们的其他项目：** [DarkGUI](https://modrinth.com/resourcepack/dark_gui), [SmartComms](https://modrinth.com/mod/smartcomms), [NightVision: Warm](https://modrinth.com/resourcepack/nightvision-warm)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

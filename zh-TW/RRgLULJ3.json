@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f6bc2a4d13fb2b9c",
+  "content": "\n\n# AdvancedChatMacros Reforged\n\nAdvancedChatMacros 會將聊天動作繫結至快捷鍵，並針對收到的訊息做出回應。\n\n> **非官方分支。** 此為 DarkKronicle *AdvancedChat* 系列（原作者已將該專案封存）的社群維護延續版本，已更新至 **Minecraft 26.1 與 26.2**（Java 25）。本專案**與 DarkKronicle 無關，亦未獲得其背書**，並沿用原始專案的 MPL-2.0 授權條款發行。\n\n## 功能特色\n\n- 透過 Konstruct 腳本實現的快捷鍵巨集（執行指令、複製、傳送資訊、建議）\n- 搭配 .toml 比對過濾器，自動回覆符合條件的訊息\n- 支援可選整合 AdvancedChatFilters Reforged\n\n## 系統需求\n\n- Minecraft **26.1.x** 或 **26.2**（需使用 **Java 25**）\n- [Fabric Loader](https://fabricmc.net/) 0.19+、[Fabric API](https://modrinth.com/mod/fabric-api)、[MaLiLib](https://modrinth.com/mod/malilib)（sakura-ryoko 26.x 版本）\n- [AdvancedChatCore Reforged](https://modrinth.com/mod/advancedchatcore-reforged)\n\n## 原始碼與授權\n\n[GitHub](https://github.com/flyingfinger1/AdvancedChatMacros) · MPL-2.0 · 原始模組由 DarkKronicle 開發",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

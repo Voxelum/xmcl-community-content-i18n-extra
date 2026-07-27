@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a4cbd1711999d553",
+  "content": "# 加入 [Discord](https://discord.gg/tbS7StwQeU) 以获取最新信息。\n\n## 摘要\n阻止末影人拾取任何方块。轻量级，零刻钟，兼容 1.13 到 1.21.x。\n\n## 描述\n在不禁用所有敌对生物破坏行为的情况下保护您的建筑。这个小巧、符合原版的数据包通过清空 `minecraft:enderman_holdable` 方块标签来防止末影人拾取方块。无需函数、无需命令、无需持续运行——只需干净的标签覆盖。\n\n## 功能\n- 阻止末影人拾取所有方块（主世界、下界、末地）\n- 纯原版数据包；无需模组或插件\n- 无性能开销（无刻钟/加载函数）\n- 适合多人/服务器；可随时添加或删除\n- 兼容 1.13 至 1.21.x（每个 pack_format 单独下载）\n\n## 兼容性\n\n```\n几乎与所有内容兼容。唯一潜在的冲突是另一个也编辑  \n    minecraft:tags/blocks/enderman_holdable 标签的数据包。  \n如果某个内容重新启用了拾取功能，请将该数据包设置为更高优先级：  \n    /datapack enable \"file/Enderman_Grief_Blocker\" 先执行\n```\n\n## 安装\n下载与您 Minecraft 版本匹配的发布版。  \n将 zip（或文件夹）放入您的世界文件夹：  \n单人游戏：saves/YourWorld/datapacks/  \n服务器：world/datapacks/  \n启动/加载世界并运行：/reload  \n验证：/datapack list enabled — 您的数据包应已列出。\n\n## 注意\n已持有方块的末影人将继续持有该方块；它们不会拾取新方块。  \n若游戏提示“为不同版本制作”，请下载对应版本的发布文件（或更新 pack.mcmeta 中的 pack_format）。该标签本身是稳定的。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8580b2a14629cc09",
+  "content": "\n\n<h2>工作原理</h2>\n<p>Vanillin 通过 Flywheel 为实体和方块实体实现实例化渲染，从而优化 Minecraft。</p>\n<p>得益于 Flywheel 处理繁重的渲染任务，Vanillin 能够对其影响的所有游戏对象带来显著的性能提升。最终效果是：一万件物品对帧时间的影响与一件物品相同。<img src=\"https://cdn.modrinth.com/data/cached_images/9fa8aa9e37f7dbc39dcb7eb44c8d6cb26d96e2b9.png\" alt=\"未开启 Vanillin 时 64k 箱子渲染为 7fps，开启后达到 271fps。\"></p>\n<h2>光影</h2>\n<p>Flywheel 1.0 以及由此带来的 Vanillin 目前与光影<strong>不兼容</strong>。我们正在推进官方光影兼容支持。</p>\n<h2>优化项</h2>\n<p>Vanillin 默认不会优化所有内容。需要为每种实体和方块实体单独开发支持。目前已优化的项目如下。</p>\n<p>✅ = 稳定，默认启用</p>\n<p>🧪 = 实验性，需在配置中启用</p>\n<h3>方块实体</h3>\n<ul>\n<li>✅ 箱子</li>\n<li>✅ 潜影盒</li>\n<li>✅ 钟</li>\n<li>🧪 告示牌</li>\n</ul>\n<h3>实体</h3>\n<ul>\n<li>✅ 矿车（及所有变种）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2968faef5dbcf26a",
+  "content": "本模组模拟了 1.13 版本中引入的气泡柱。\n\n工作原理是什么？\n模组用自定义的气泡源方块替换了下界疣块和岩浆块，但请放心，它们的外观仍将保持为你所熟悉和喜爱的原版样式。\n\n它们保留了原版方块的所有属性（包括速度和玩家移动方式），这些属性源自我对原版代码的研究。\n\n它适用于所有类型的实体，包括掉落物实体和生物。\n\n这里有一个简短的展示视频：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/YG1ZI8hhURI\" title=\"Riproduttore YouTube\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n如果你发现任何漏洞，请通过“Issues”页面反馈给我。\n或者，你可以通过 Discord 联系我：xFra#3790\n\n项目封面图作者：\nNate#8949 aka futurenp",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

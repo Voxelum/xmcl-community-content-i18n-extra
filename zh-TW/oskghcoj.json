@@ -1,0 +1,6 @@
+{
+  "bodyHash": "523fd396fa78e8f6",
+  "content": "Extra RPG Attributes 增加了一堆通常见于电子游戏中的 RPG 或魔法机制相关属性。许多这些属性受到了《流亡黯道》（Path of Exile）和《最后纪元》（Last Epoch）等电子游戏的启发。\n\n再吸收（Reabsorption）会在你 2 秒未受到伤害后恢复黄心，直至上限。\n\n偏斜攻击（Glancing Blows）是一种减轻目标原本会造成 35% 伤害的机制。\n\n法术压制（Spell Suppression）会减轻法术原本会造成 50% 的伤害。\n\n耐力 %（Endurance %）是偏斜攻击造成的伤害中，从你的生命值中扣除的百分比。\n\n宁静 %（Serenity %）是被压制的法术改为不造成伤害的概率。\n\n决心 %（% Determination）是在接下来的 4 秒内随时间恢复的伤害百分比。\n\n本模组附带了几个饰品，帮助你开始使用这些属性，但建议使用本模组与其他通过其他方式提供属性的模组搭配使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c87e0572cb5a3baa",
+  "content": "<h1><a href=\"/linkout?remoteUrl=https%253a%252f%252fstarted.ink%252f\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/description/1472108/description_e60a590a-e5e2-42f8-bc98-24155f26f54f.png\" alt=\"\" width=\"700\" height=\"112\"></a></h1>\n<h1><strong><span style=\"color:#fff\">这是一款内存优化模组。</span></strong></h1>\n<p><br><strong><span style=\"color:#fff\">它会限制并驱逐结构模板缓存，以减少正常游戏过程中的不必要内存使用，并降低长期运行压力。</span></strong><br><strong><span style=\"color:#fff\">经过测试，该模组可减少约 20% 的内存占用。</span></strong><br><strong><span style=\"color:#fff\">此优化不会破坏结构完整性或结构生成，因此可以安全地添加到你的整合包/服务器中。</span></strong><br><strong><span style=\"color:#fff\">配置中的默认缓存上限为 128。</span></strong><br><strong><span style=\"color:#fff\">更低的值会进一步减少内存开销，但若设置过低，可能会引入额外的 CPU 负载。</span></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

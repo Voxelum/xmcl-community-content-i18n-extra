@@ -1,6 +1,6 @@
 {
-  "bodyHash": "RWruxlTJkBI=",
-  "content": "# Обновлённый брелок «Элитра»\n\nМод для Minecraft Fabric, добавляющий Элитру в слот для накидки в API брелков.\n\nТребуется [Fabric API](https://modrinth.com/mod/fabric-api) и [Trinkets Canary](https://modrinth.com/mod/trinkets-canary).\n\nЭтот мод является просто форком [Elytra Trinket](https://modrinth.com/mod/elytra_trinket), обновлённым до версии Minecraft 1.21.10+. Мне надоело ждать обновления, поэтому я сделал его сам.\n",
+  "bodyHash": "f21b1f8928c30fc6",
+  "content": "# Обновлённый амулет «Элитры»\n\nМод для Fabric, добавляющий элитры в слот плаща через API Trinkets.\n\nТребует наличие [Fabric API](https://modrinth.com/mod/fabric-api) и [Trinkets Canary](https://modrinth.com/mod/trinkets-canary).\n\nДанный мод представляет собой лишь форк мода [Elytra Trinket](https://modrinth.com/mod/elytra_trinket),\nобновлённого для версии Minecraft 1.21.10+.\nЯ устал ждать обновления, поэтому сделал это сам.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

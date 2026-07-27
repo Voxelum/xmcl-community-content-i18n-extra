@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fef6fdf016dbb6a2",
+  "content": "這是 Slime Origin（原由 totalelipse 制作）的復刻版，適用於 Origins Mod。\n\n需要 FabricAPI、Pehkui 和 Origins。\n\n能力：\n- 提升跳躍高度\n- 將自己彈向空中\n- 不會受到掉落傷害\n- 可以召喚史萊姆\n- 縮小到原大小的一半（同時最大生命值也減少一半），而非死亡\n- 在任何方塊上彈跳，如同方塊是史萊姆方塊一般\n- 在高溫生物群系中會灼傷（任何溫度評分達到 1.0 的生物群系）\n- 移動速度減慢\n\n\n安裝方法：\n- 下載 Fabric\n- 關閉 Minecraft 啟動器後運行 Fabric Setup\n- 下載 Fabric API、Origins 和 Pehkui，並放入 .minecraft\\mods 資料夾\n- 下載 Slime Origin Remastered 並放入 .minecraft\\mods 資料夾",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

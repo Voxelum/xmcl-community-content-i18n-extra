@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4be00bf7b1418f08",
+  "content": "\n\n<p>Sort Chest 在箱子類型的容器介面中新增了簡單實用的按鈕，讓您能更快地整理物品。</p>\n<p>排序按鈕支援多種排序模式：<br>- 類別<br>- 名稱<br>- 模組<br>- 數量<br>- 標籤</p>\n<p>類別排序會以邏輯性的方式將物品分組，把方塊、材料、工具、盔甲、食物、紅石及其他物品類型聚在一起。排序器在可能的情況下也會利用標籤和物品資訊來支援模組新增物品。</p>\n<p>此模組還包含「補充」、「填滿」與「倒出」按鈕，以加快背包管理速度。</p>\n<p>Sort Chest 的設計理念為輕量、簡潔且易於使用。<br><br></p>\n<p>Sort Chest 需要 Architectury API。</p>\n<h1>本模組僅限用戶端。必須安裝在玩家的用戶端上才能顯示排序按鈕，無需安裝在多人伺服器上。<br>依賴項目<br><em><strong>Architectury API - Forge 1.20.1</strong></em></h1>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

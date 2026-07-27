@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6127895e2919ad82",
+  "content": "<center>\n\n# 原石加工數據包\n![][img]\n\n</center>\n\n## 說明\n\n此數據包為原始礦石方塊添加新的熔爐/高爐配方  \n將原始礦石方塊熔化為礦物方塊，速度減慢 9 倍  \n經驗值也授予 9 倍  \n\n## 支援模組\n\n- minecraft  \n- create  \n- mekanism  \n- simpleores  \n- tconstruct  \n- thermal  \n- crossroads  \n- mythicmetals  \n- planeteer_core  \n- immersiveengineering  \n- beyond_earth  \n- galosphere  \n- cavesandcliffs  \n- alltheores  \n- techreborn  \n- indrev  \n\n[img]: https://raw.githubusercontent.com/Mango-Minecraft-Project/RawOresProcessing-Datapack/main/img/icon/icon%20400x400.png",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "IlZ3MUqcL0g=",
-  "content": "## [SlashBlade: Resharped](https://modrinth.com/mod/slashblade-resharped) 非官方 Fabric 移植版\n\n歡迎來到 SlashBlade 的 Fabric 版本。\n\n這仍然是《鬼泣》與《夢幻之星Online2》的粉絲作品，旨在將《鬼泣》風格的武士刀加入遊戲中。\n\n整合功能：\n- JEI 配方支援。\n- 資料驅動的自訂刀劍系統。\n\n**注意：**\n- **本模組需要安裝 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)。**\n- **如果你安裝了 [Sodium](https://modrinth.com/mod/sodium)（版本 < 0.6.0），則必須同時安裝 [Indium](https://modrinth.com/mod/indium)，否則 SlashBlade 將無法正確渲染。**\n- **建議安裝 [Modern KeyBinding](https://modrinth.com/mod/modernkeybinding) 或其他類似模組，以正確觸發召喚刀與特殊技能。**",
+  "bodyHash": "cc6c4031f3db8b1a",
+  "content": "\n\n## [SlashBlade: Resharped](https://modrinth.com/mod/slashblade-resharped) 非官方 Fabric 移植版\n\n歡迎使用 SlashBlade for Fabric。\n\n不過，它仍是一款致敬《Demon Blade》、《DMC》與《PSO2》的同人作品，旨在為遊戲增添類似《DMC》風格的太刀。\n\n整合功能：\n- JEI 整合。\n- 資料驅動自訂 SlashBlade。\n\n**注意：**\n- **本模組需要 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)。**\n- **若您已安裝 [Sodium](https://modrinth.com/mod/sodium)（版本 < 0.6.0），則必須同時安裝 [Indium](https://modrinth.com/mod/indium)，否則 SlashBlade 將無法正確渲染。**\n- **您可以安裝 [Modern KeyBinding](https://modrinth.com/mod/modernkeybinding) 或其他類似模組，以便正確觸發 SummonBlade 與 SpecialMove。**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

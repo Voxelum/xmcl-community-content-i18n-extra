@@ -1,0 +1,6 @@
+{
+  "bodyHash": "83242628e461a9f4",
+  "content": "# 切換信標光束\n![](https://img.shields.io/badge/Loaders-Fabric%2fQuilt%2fNeoForge-darkcyan?style=for-the-badge)\n![](https://img.shields.io/badge/Versions-1.21.11_|_26.1_|_26.2-darkcyan?style=for-the-badge)\n![](https://img.shields.io/badge/Environments-Client_+_Server-darkcyan?style=for-the-badge)\n\n### 在信標介面中添加簡單的光束切換按鈕！\n\n- **在信標介面中提供簡單的切換按鈕，用於開啟或關閉個別的信標光束**\n- **配置選項可於客戶端隱藏所有信標光束**\n- **全面支援多人遊戲，當客戶端和伺服器都安裝該模組時，切換狀態會自動同步**\n- **若未安裝伺服器端模組，切換功能將自動回退至僅限客戶端模式！**\n\n#### 如有任何問題或功能請求，請在 [GitHub](https://github.com/CoolAid48/Toggle-Beacon-Beams/issues) 上提交報告\n\n[<img alt=\"Support me on Ko-fi\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/donate/kofi-singular-alt_vector.svg\"/>](https://ko-fi.com/coolaid48)\n[<img alt=\"Chat with me in Discord\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/social/discord-plural_vector.svg\"/>](https://discord.gg/J2SGshKNah)\n[<img alt=\"Watch me on Twitch\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/social/twitch-singular_vector.svg\"/>](https://www.twitch.tv/coolaid48)\n\n![Toggle Beacon Beams mod demo video](https://cdn.modrinth.com/data/cached_images/c1031fce0d3f9da58e51ab8784172bedeb3fa454.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "vXAls8m4SNs=",
-  "content": "# 停用合規通知\n此模組會停用針對韓國玩家的合規通知。\n\n## 什麼是合規通知？\n由於韓國遊戲法規的規定，線上遊戲必須每小時向玩家顯示遊玩時間通知。\\\n基岩版已透過 Xbox 通知（PlayStation 以外的所有平台）和 PlayStation 主機內建通知機制實現此功能。\\\n自 1.18.2 版本起，Mojang 決定在 Java 版中自行實作此功能。\n\n![範例](https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Regional_compliancies_notification_1_hour.png/revision/latest?cb=20220212050912)\n> * 為遵守韓國遊戲法規，已針對韓國玩家新增遊戲計時器與通知，提醒玩家適時暫停遊戲。\n\n圖片及引用來源：https://minecraft.fandom.com/wiki/Java_Edition_1.18.2#General\n\n自 v1.2.0 版本（Minecraft 1.19.2 或更高版本）起，不再需要 Architectury API。此外，已移除原生 Quilt 支援。請搭配 QFAPI 使用 Fabric。",
+  "bodyHash": "32a751b538de32c9",
+  "content": "# 停用合規通知\n此模組為韓國用戶停用合規通知。\n\n## 什麼是合規通知？\n由於韓國有相關遊戲法律，線上（可連線）遊戲必須每小時向用戶通知遊玩時間。\\\nBedrock 版已透過 Xbox 通知（所有平台除 PlayStation 外）和 PlayStation 主機層級通知實作了這項功能。\\\n自 1.18.2 版本起，Mojang 決定在 Java 版中以自有實作方式加入此功能。\n\n![範例](https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Regional_compliancies_notification_1_hour.png/revision/latest?cb=20220212050912\n)\n> * 為符合韓國遊戲法律，已為韓國用戶新增遊戲計時器與通知，以提醒這些玩家適時休息。\n\n圖片與引用來源：https://minecraft.fandom.com/wiki/Java_Edition_1.18.2#General\n\n自 v1.2.0 版本（Minecraft 1.19.2 或更高版本）起，不再需要 Architectury API。同時也不再原生支援 Quilt。請改用搭配 QFAPI 的 Fabric。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

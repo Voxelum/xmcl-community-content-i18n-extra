@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ttqYvvqto78=",
-  "content": "这是一个为“机械动力：航空学”设计的客户端附加组件，它为高转速下的螺旋桨添加了模糊效果。\n\n我计划也将其应用于螺旋桨轴承，但效果有点不理想，所以还得再等等 :P\n\n![展示](https://github.com/LopyLuna/LunaResources/blob/main/propblurimgPrev.gif?raw=true)",
+  "bodyHash": "381b418cbb7aaad8",
+  "content": "这是 Create: Aeronautics 的一个客户端附加组件，可在螺旋桨高速旋转时实现模糊效果。\n\n我计划将其也应用到螺旋桨轴承上，但目前的实现略显粗糙，所以效果可能有点 :P  \n\n![展示](https://github.com/LopyLuna/LunaResources/blob/main/propblurimgPrev.gif?raw=true)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

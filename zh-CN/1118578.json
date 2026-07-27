@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1fce0cc009c0379c",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/XjM4YE3F/images/5f5ed44d87376b5488fc9a17ca5cc6b1b27583a0.png\" alt=\"TerraFirmaCraft 主 HUD 元素的截图。生命值以红心表示，口渴值以水滴表示，饥饿值以食物图标表示。经验条被温度条取代。\"></p>\n<p>I ❤ TFC 是一个客户端模组，它将 TerraFirmaCraft 的 HUD 替换为美观、动态的 pictograhic 条形图！高度可配置！</p>\n<ul>\n<li>用更接近原版的心形图标替换生命值条，但通过使用分数心形准确显示你的总生命值和当前生命值！</li>\n<li>用更接近原版的食物图标替换饥饿值条！\n<ul>\n<li>饥饿值条上的图标会根据你的营养状况动态变化。</li>\n<li>饱和度的显示在食物条上带有红色轮廓。</li>\n</ul>\n</li>\n<li>用滴水图标替换口渴值条。</li>\n<li>当在 TFC 配置中禁用经验条时，利用该空间通过温度条向玩家显示环境温度。</li>\n<li>多个配置选项来自定义你的游戏体验！</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

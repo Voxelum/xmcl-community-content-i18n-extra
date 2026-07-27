@@ -1,0 +1,6 @@
+{
+  "bodyHash": "66e7fc563cf97925",
+  "content": "<p>\n    <img src=\"https://raw.githubusercontent.com/forkiesassds/PictureMode/refs/heads/rewrite/banner.png\" alt=\"Picture Mode Banner\">\n</p>\n<hr>\n<p>Picture Mode 是一個為 Minecraft 加入等距攝影模式的模組。\n它靈感來自於 Better than Adventure 中的攝影模式。該介面操作簡便，\n等距視角為拍攝建築物提供了獨特的方式。</p>\n<h2>功能特色</h2>\n<ul>\n<li>用於截圖的等距視角</li>\n<li>相機朝向的控制</li>\n<li>用於高級裁剪的平移控制</li>\n<li>環境控制功能，讓畫面更漂亮</li>\n<li>濾鏡效果，讓截圖更精彩</li>\n</ul>\n<h2>截圖</h2>\n<p>下方是該模組主介面的截圖。\n<img src=\"https://raw.githubusercontent.com/forkiesassds/PictureMode/refs/heads/rewrite/img.png\" alt=\"Picture Mode main interface screenshot\"></p>\n<h2>停用特定維度</h2>\n<p>伺服器管理員或整合包製作者可以透過將維度類型新增到 <code>picturemode:disabled</code> 標籤中，\n來在特定維度中停用 Picture Mode。當玩家處於已停用的維度類型時，相關按鈕將會被禁用。</p>\n<h2>致謝</h2>\n<p>感謝 Better than Adventure! 團隊提供原始的攝影模式，這為本模組帶來了巨大的啟發。</p>\n<p>感謝 Bestsoft100 允許我使用其濾鏡所需的著色器程式碼。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

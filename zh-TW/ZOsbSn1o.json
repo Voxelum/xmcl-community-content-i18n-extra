@@ -1,0 +1,6 @@
+{
+  "bodyHash": "84a608f1c15dd80a",
+  "content": "# ViCeR 僅在多人遊戲模式下於 2.2.0+ 版本中有效！！！\n\n# ViCeR 是什麼？\n\nViCeR 在遊玩時會添加 VHS 風格的覆蓋層，同時在生存模式中將玩家鎖定在第一人稱視角。\n\n它還提供了一個自定義 ViCeR 的命令：\n\n/vcrc <locked|tapedate|realtime|vcr> <子選項>\n  - locked 的子選項是一個布林值，用於切換第一人称鎖定功能。\n  - tapedate 的子選項可以是任意 6 位長度的數字以顯示。\n  - realtime 的子選項是一個布林值，用於在預設時間計時和與世界實時同步之間切換。\n  - vcr 的子選項是一個布林值，用於開關 VHS 覆蓋層。\n\n它的目的是讓 Minecraft 看起來像是一段 VHS 錄音。\n\n這是為我和朋友之間的私人 FNaF 整合包製作的。\n\n目前僅提供美國英語、英國英語和斯洛伐克語翻譯。\n\n![黑底白字故障效果文字，內容為「END OF TAPE」、「REPLAY」和「EJECT TAPE」](https://cdn.modrinth.com/data/ZOsbSn1o/images/47cb070f499036cd9f9fe95e1859f208aa44eaac.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

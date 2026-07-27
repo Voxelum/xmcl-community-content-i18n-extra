@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1bfcd9fae38a2f1e",
+  "content": "<p style=\"text-align:center\">Добавить эффект плавного затухания вместо пульсации при окончании действия ночного видения</p>\n<p style=\"text-align:center\">Добавляйте в модпаки по своему усмотрению</p>\n<p style=\"padding-left:150px\">&nbsp;<img src=\"https://imgur.com/S2zBLrJ.gif\" alt=\"Анимация плавного затухания ночного видения\" width=\"809\" height=\"469\"><em><br></em></p>\n<p style=\"text-align:center\"><br><br></p>\n<p style=\"text-align:center\"><em>Единственный затронутый метод: GameRenderer.getNightVisionStrength();&nbsp; в TAIL.</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

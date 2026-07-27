@@ -1,0 +1,6 @@
+{
+  "bodyHash": "31efa87acbc8eb7f",
+  "content": "\n\n这款高度可配置的模组专为整合包设计，旨在解决一个长期存在的平衡性问题：/back、/home 以及（在一定程度上）/rtp 命令。这些命令虽然实用，但往往会降低死亡代价，并鼓励更冒险的玩法，这可能是一些整合包作者和玩家所不喜欢的。\n\n\n\n隆重介绍：黄金土豆。\n\n![GP](https://cdn.modrinth.com/data/cached_images/030b8668d3b904b170643c9e40d5d983c74b03b1.png)\n\n\n食用后，会将玩家传送回上次死亡的地点。默认情况下，它的合成配方是一个土豆被金锭环绕（与其他原版金色食物类似）。你可以将其配置为需要消耗金块（附魔版本）、无法合成且仅能通过战利品获取，或者直接完全禁用。本模组中的三种食物均适用这些配置选项。\n\n\n![GS](https://cdn.modrinth.com/data/cached_images/a7b5085b1d03817e9921bc42f9ec0e32730be0d4.png)\n\n\n黄金薯块需要使用金锭、毒马铃薯和绿宝石合成，可将玩家传送至最近一次睡觉使用的床的位置。\n\n\n![GS](https://cdn.modrinth.com/data/cached_images/cf7b75b5d37d1c5a7a23c8f0ca7c2f6602e2d73a.png)\n\n\n黄金紫颂果会随机将玩家传送至 5000 格范围内的某个安全位置。\n\n\n\n黄金土豆可在村庄中找到；黄金薯块出现在古代城市；黄金紫颂果则位于末地城（均可配置）。强烈建议你阅读本模组的配置文件，因为其中还有其他可调整的参数。\n\n\n\n如有问题，请在 GitHub 上留言。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

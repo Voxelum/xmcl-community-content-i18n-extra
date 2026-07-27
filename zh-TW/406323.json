@@ -1,6 +1,6 @@
 {
-  "bodyHash": "k30KFV3GXF0=",
-  "content": "<p>Servux 是一款伺服器端模組，當在伺服器上遊玩時，它為某些客戶端模組提供額外的支援/功能。</p><p>&nbsp;</p><p>Servux 本身<span style=\"color:#f00\"><strong>在客戶端或單人遊戲中永遠不需要</strong></span>，它僅在伺服器端需要/有用。</p><p>&nbsp;</p><p>在 0.1.x 版本中，它只有一個功能，即發送 MiniHUD 的結構邊界框，以便在多人遊戲中也能渲染這些邊界框。</p>",
+  "bodyHash": "93e835a2f7d051b5",
+  "content": "\n\n<p>Servux 是一款伺服器端模組，能在多人伺服器遊玩時，為部分用戶端模組提供額外的支援與功能。</p>\n<p>&nbsp;</p>\n<p>Servux 本身<span style=\"color:#f00\"><strong>絕不需要安裝於用戶端或單人模式中</strong></span>，僅在伺服器端需要或具實用性。</p>\n<p>&nbsp;</p>\n<p>在 0.1.x 版本中，它僅具備一項功能，即傳送結構的邊界框至 MiniHUD，使其能在多人遊戲中進行渲染。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

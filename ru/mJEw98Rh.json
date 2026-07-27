@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f18990ce5d12298b",
+  "content": "* предоставляет расширенные функции перевода языков и многое другое на сервере [mineinabyss](https://mineinabyss.com/)  \n* эффект облачного слоя\n* уведомление о задержке сервера\n* отображение запрограммированных координат MIA слева в F3\n## Вы хотите внести вклад в перевод\nознакомьтесь с репозиторием ассетов и веб-сайтом abysscraft [1]  \nесли вы хотите, чтобы язык был доступен для mia, отредактируйте [класс TransIndex](https://github.com/EpsilonNetWorkGroup/AbyssCraftMIA/blob/e85d524913ae0bb885cdab2a72786b6d7d86462e/Client/src/main/java/net/playl/abysscraft/TransIndex.java#L70)  \n#### Если вы хотите добавить больше функций, пожалуйста, сделайте это самостоятельно, мы приветствуем создание новых запросов",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

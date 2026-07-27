@@ -1,0 +1,6 @@
+{
+  "bodyHash": "95b67cfcd5ba57c8",
+  "content": "\n\n<div><span style=\"font-size:18px\"><strong>ConfigAnytime</strong></span></div><p><br><span style=\"font-size:14px\"><strong>允许在任何时间点配置 Forge 设置。尤其适用于在核心模组（coremod）/调谐器（tweaker）加载阶段使用 Forge 配置系统的开发者。</strong></span><br><br><span style=\"text-decoration:underline;font-size:12px\"><strong>开发者用法：</strong></span><br><br>- 添加 CleanroomMC 的仓库，并依赖 ConfigAnytime 的 Maven 条目：</p><pre>repositories {\n    maven {\n        url &#39;https://maven.cleanroommc.com&#39;\n    }\n}\n&lt;br&gt;dependencies {&lt;br&gt;    implementation &#39;com.cleanroommc:configanytime:1.0&#39;\n}</pre><p> <br><br>- API 使用示例：<br><br>@Config(modid = \"configanytime\")<br>public class ConfigClass {<br><br>    public static boolean configBooleanProperty = true;<br>    public static int configIntProperty = 42;<br><br>    // 静态初始化块应放在属性声明之后！<br>    // 当你从该配置类中读取任何属性时，以下代码将自动执行<br>    static {\n        ConfigAnytime.register(ConfigClass.class);\n    }<br><br>}<br>```</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

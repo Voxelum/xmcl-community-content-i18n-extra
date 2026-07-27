@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ab2b1ca62099ee81",
+  "content": "\n\n### NightSight - Minecraft 夜視模組\n\n**NightSight** 是一款輕量級的 Minecraft 模組，旨在提升您的夜視體驗。此模組允許玩家透過簡單的按鍵切換夜視效果，讓您在昏暗的洞穴、隧道和神秘的 Minecraft 世界中看得一清二楚。\n\n**主要特色：**\n- **夜視切換：** 透過可設定的快捷鍵輕鬆開啟或關閉夜視效果，讓您在黑暗的洞穴或礦井中擁有更佳的視野。\n- **真實的夜視效果：** 與單純調整伽瑪值不同，NightSight 提供真正的夜視效果，讓您彷彿戴上了夜視鏡，能在完全黑暗中清楚看見周遭環境。\n- **輕量高效：** 該模組與 Fabric 相容，設計上對效能影響極小，僅有 16KB（他媽的 Logo 就佔了 15KB），確保順暢的遊戲體驗。\n- **可自訂快捷鍵：** 玩家可以輕鬆設定自己慣用的快捷鍵，讓夜視功能的使用變得簡便且易於存取。\n\n### 安裝方式：\n要安裝 NightSight，只需從 **CurseForge** 或 **Modrinth** 下載模組並將其放入您的 Minecraft `mods` 資料夾中。確認已安裝 **Fabric API**，即可開始享受逼真的夜視效果！\n\n**相容於 Minecraft 1.21.1 版本，其他版本正在開發中**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

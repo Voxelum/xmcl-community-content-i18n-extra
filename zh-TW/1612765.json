@@ -1,0 +1,6 @@
+{
+  "bodyHash": "91d0eb8aaedec998",
+  "content": "<p>Hunted讓Minecraft成為無情的生存挑戰，幾乎每種生物都確切知道你的位置，持續狩獵你、向上建造以及破壞方塊以接近你。隨機對抗凋零事件，擊敗末龍以拯救村民，最終獲得永久寛恕作為獎勵。我不確定是否可以在有此模組的情況下打敗Minecraft，但如果你做到了，我將給你一個餅乾。(該模組仍正在開發中，我會採納建議。如果需要，我會增加難度。)&nbsp;</p>\n<p>&nbsp;</p>\n<h2><strong>無情的生物</strong></h2>\n<p>和平、中立、馴養、水生、飛行和敵對的生物將會：</p>\n<ul>\n<li>跟蹤最近的玩家。</li>\n<li>忽略黑暗、距離及正常的行為模式。</li>\n<li>當玩家比它們高時向上建造。</li>\n<li>在沒有可用路徑時緩慢破壞方塊。</li>\n<li>保持其正常攻擊和特殊能力。</li>\n<li>如果它們本來無害，會獲得基本的近戰攻擊。</li>\n</ul>\n<h2><strong>寛恕期</strong></h2>\n<p>新世界的開始有5分鐘的寛恕。玩家在重生後也將獲得30秒個人寛恕。重生寛恕重置而不堆疊。</p>\n<p>&nbsp;</p>\n<h2><strong>末龍獎勵</strong></h2>\n<p>被認為擊敗了末龍的玩家將獲得永久的個人寛恕。</p>\n<p>此獎勵可以抵抗死亡、登出和服務器重啓。受保護的生物將永遠不被生物和凋零target。</p>\n<p>&nbsp;</p>\n<h2><strong>凋零事件</strong></h2>\n<p>每個活動遊戲小時，服務器有<strong>1%的機率</strong>在距離隨機玩家48到80個方塊左右的地方生成一個進攻性凋零。</p>\n<p>凋零會有意地針對其他生物而不是玩家，儘管它的攻擊仍可能導致傷害。</p>\n<p>&nbsp;</p>\n\n<p><strong>命令</strong></p>\n<ul>\n<li><code>/hunted grace</code> &mdash; 切換伺服器範圍的寛恕。</li>\n<li><code>/hunted grace &lt;seconds&gt;</code> &mdash; 設定自定義寛恕倒計時。</li>\n<li><code>/hunted wither</code> &mdash; 觸發一個凋零事件。</li>\n</ul>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "46ba9b928e518033",
+  "content": "# 便攜式儲存\n\n> **注意！** 此專案使用 AI 撰寫了 99.99% 的程式碼和模組設計；我不懂 Java。這意味著我無法保證模組的可用性、相容性或穩定性。請確保你接受這一點，並且有能力保護你的資料後再使用此模組。\n\n## 專案簡介\n\n**Portable Storage** 是一個基於 [Fabric](https://fabricmc.net/) 和 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) 的 Minecraft 模組。它為玩家提供了一個隨身倉庫的功能。目前的倉庫採用無限堆疊設計，能根據物品變體（包含組件和 NBT 資料）進行智能存儲，並支援多玩家共享以及與自動化設備的互動。\n\n「無限」並非真正的無限；單一種類物品的最大數量為 `Long.MAX_VALUE`。\n\n## 主要功能\n\n此模組在玩家的背包介面中添加了一個倉庫介面。該介面包含搜尋欄，下方顯示倉庫中存放的物品，允許自由存取物品。\n\n倉庫介面的左側有升級槽位，可以放入特定物品以解鎖額外的倉庫功能。右側則是倉庫設定面板。\n\n你可以使用 **海洋之心** 來啟動一個基礎倉庫，但它會有一些限制。\n\n或者，你可以使用 **下界之星** 來啟動一個完整功能的倉庫，它沒有任何限制。\n\n基礎倉庫中受限的功能包括：與綁定木桶的共享功能，以及可存儲的物品類型。\n\n## 模組介面\n\n![替換為描述文字](https://cdn.modrinth.com/data/cached_images/c1da107083049ddb4fdbfa589b6b43fac0634976_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

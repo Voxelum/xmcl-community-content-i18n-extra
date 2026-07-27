@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d6f5e8bcdea8e235",
+  "content": "<p><a href=\"http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288278-journeymap-voxelmap-minimapsync-version-b0-7-2-b0\" rel=\"nofollow\">論壇主題</a></p>\n<p>Minimapsync 是一個允許用戶將導航點與伺服器同步的模組，這些導航點來自 Zan's Minimap (Voxelmap)、Rei's Minimap 或 Journey Map。伺服器必須安裝 Minimapsync 才能進行同步。您可以選擇在伺服器上安裝 dynmap，並在 minimapsync 配置文件中啟用 dynmap 功能，以便在上面查看所有伺服器的導航點。該模組提供了一個選項，僅允許管理員（ops）向伺服器添加新的導航點，並且伺服器上有一個基於命令的導航點管理器，用於刪除和恢復導航點（同樣僅限管理員使用）。默認情況下，同步導航點的鍵是 F12，這可以通過正常的鍵綁定菜單進行更改。此模組還允許通過命令 /warptowaypoint（簡寫為 /wtw）後跟導航點名稱來傳送到導航點（這在 SSP 中也有效）。還有其他命令，如 /sendwaypoint 或 /sync，用於說明論壇頁面上的不同模式。您可以通過命令 /mmsc 編輯一些配置選項。如需更多信息，請在此處、論壇或 planetminecraft 上提問。或者訪問論壇或 planetminecraft.com 以獲取更詳細的模組描述。此外，並非每個客戶端都需要安裝此模組，因此您可以將其安裝在伺服器上，人們可以傳送到已經同步的導航點，只有那些想要將新導航點同步到伺服器或從伺服器獲取導航點的人才需要在他們的客戶端中安裝此模組。希望您喜歡我的模組，</p>\n<p>james94jeans2</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

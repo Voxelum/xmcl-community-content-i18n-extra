@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2387e486e874f07c",
+  "content": "# NAIFapi\n\nNAIFapi 是一个用于现代 Minecraft 模组开发的实用工具库，提供实用的 API、可重用的系统和以开发者为中心的工具，从而简化模组的构建过程。\n\nNAIFapi 旨在减少重复性工作并优化开发工作流程，让开发者能够专注于创造独特的体验，而不是为每个项目重新构建相同的基础设施。它设计轻巧且易于集成，是各种规模项目的可靠基础。\n\n**支持 Fabric • Quilt • NeoForge**\n\n## ❓ 为什么安装 NAIFapi？\n\n如果你是玩家，通常不需要安装 NAIFapi，除非其他模组依赖它。\n\n如果你是开发者，NAIFapi 提供了一系列可重用的工具和系统，帮助你：\n\n*   编写更少的重复代码。\n*   更高效地开发功能。\n*   将有用的工具集成到你的项目中。\n*   保持代码库的整洁和有序。\n*   构建在不增加不必要复杂性的情况下也能扩展的模组。\n\n与其一遍又一遍地解决相同的问题，不如专注于创建使你的项目变得独特内容和体验。\n\n## 📥 安装指南\n\nNAIFapi 支持 **Minecraft 1.21.x** 发布系列。\n\n1.  安装 Fabric、Quilt 或 NeoForge。\n2.  下载最新版本的 NAIFapi。\n3.  将文件放入 `mods` 文件夹。\n4.  启动游戏。\n\n依赖 NAIFapi 的模组将自动检测并使用它。\n\n## ✨ 特性\n\n*   对开发者友好的 API。\n*   可重用的工具和系统。\n*   内置命令辅助工具。\n*   轻量级实现。\n*   跨加载器支持。\n*   易于集成到现有项目中。\n*   专为长期可维护性而设计。\n\n## ✅ 兼容性\n\n### 支持的 Minecraft 版本\n\n*   Minecraft 1.21.x\n\n### 支持的模组加载器\n\n*   Fabric\n*   Quilt\n*   NeoForge\n\n## 🐛 报告问题\n\n如果遇到错误、崩溃或意外行为，请包含以下信息：\n\n*   Minecraft 版本\n*   模组加载器及版本\n*   NAIFapi 版本\n*   已安装的模组列表\n*   崩溃报告或日志文件\n\n这些信息有助于更高效地识别和解决问题。\n\n## 📜 许可证\n\nNAIFapi 根据 MIT 许可证分发。\n\n由 **Naif Hani** 创建和维护。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

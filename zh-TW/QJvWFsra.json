@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8371c079759e7f63",
+  "content": "\n\n你可以像他們真的活著一樣，與你的 MineColonies 市民進行互動式對話！\n\n## 設定指南\n0. 安裝所有相依套件（[MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)、[Voicechat](https://modrinth.com/mod/simple-voice-chat) 與 [Gemini Live Lib](https://www.curseforge.com/minecraft/mc-mods/gemini-live-lib)）\n1. 前往 [Google AI Studio](https://aistudio.google.com/u/0/apikey)，並按下藍色按鈕建立 API 金鑰：\n\n![藍色的建立 API 按鈕](https://github.com/sshcrack/talking-colonists/blob/neoforge-1.21.1/imgs/create_btn.png?raw=true)\n3. 複製 token\n\n4. 可透過文字編輯器修改 `config/mc_talking-common.toml` 組態檔，或在遊戲內 GUI 中設定。填入 token 以及你希望的[對話語言](https://ai.google.dev/gemini-api/docs/live#supported-languages)：\n ```toml\n #此金鑰用於向 Gemini API 進行驗證。你可以在 https://aistudio.google.com/apikey 取得。\ngemini_key = \"在此輸入你的 API 金鑰\"\n ```\n（免費方案最多允許同時與 3 名市民對話）\n\n## 使用方法\n使用書本與羽毛筆以及紅石火把合成市民通訊裝置（如果有人能幫忙製作更好的紋理，我會非常感激）：\n![合成配方](https://github.com/sshcrack/talking-colonists/raw/neoforge-1.21.1/imgs/crafting_recipe.png?raw=true)\n接著左鍵點擊你想對話的市民，就會出現類似以下的畫面：\n![可對話的市民](https://github.com/sshcrack/talking-colonists/raw/neoforge-1.21.1/imgs/ingame.png?raw=true)\n\n現在，如果市民感到不開心或缺少某些資源，他們會開始抱怨，直接跟他們對話吧！\n\n## 我可以將此模組收錄到我的整合包中嗎？\n當然可以",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

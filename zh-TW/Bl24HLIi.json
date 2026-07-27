@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f39188c24d9ea3df",
+  "content": "\n\n**HiddenOres 是一款輕量級資料包，讓挖掘石頭、深板岩或地獄岩時有機率掉落礦石。**\n\n**當你在主世界挖掘石頭或在地獄挖掘地獄岩等方塊時，會有極低的機率獲得礦石掉落。這讓挖掘變得更有回報感，同時幾乎不改變原版玩法。**\n\n### 功能： \n####  • 在主世界挖掘石頭/深板岩有機率掉落主世界礦石。\n#### • 在地獄挖掘地獄岩有機率掉落地獄礦石。\n####  • 掉落機率非常低，確保礦石依然稀有。\n####  • 支援一般工具與附魔。\n\n### 靈感來源：\n[![BeyondEnchant Banner](https://cdn.modrinth.com/data/cached_images/f92ba3ae0a2ebac31c7ed2db55f4e4ba4c01c5dd.png)](https://modrinth.com/datapack/beyondenchant)\n\n### 為什麼要使用這個資料包？\n  HiddenOres 為挖掘增添了一點隨機性與回報，但不會改變世界生成。即使你只是為了石頭、深板岩或地獄岩而挖掘，也總有機會發現珍貴的礦物。\n\n### 相容性： \n  此資料包僅修改方塊掉落表。除非其他資料包也修改了相同的掉落表，否則它應該能與大多數資料包正常運作。\n\n### 遇到問題？\n  歡迎到我的 Discord 伺服器聯繫我。\n\n### 安裝方式（資料包）：\n####  下載資料包。\n####  將其放入世界的資料包資料夾中。\n####  執行 /reload 或重新啟動世界。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

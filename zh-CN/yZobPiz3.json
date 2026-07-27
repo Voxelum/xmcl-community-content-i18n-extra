@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2909b53b6510e5a8",
+  "content": "\n\n# RemoveBlindness\n\n一款轻量级模组，可防止来自 [Basic Login](https://modrinth.com/mod/basic-login)（由 [BraveCake](https://modrinth.com/user/BraveCake) 制作）的致盲效果，让玩家在登录时仍能看清周围环境。\n\n## 特性\n- 仅移除致盲效果，同时保留 Basic Login 的所有其他安全功能\n- 仅限服务端 - 无需客户端安装\n- 无需任何配置\n\n## 使用方法\n1. 在你的服务器上安装 [Basic Login](https://modrinth.com/mod/basic-login)\n2. 将此模组添加到服务器的 mods 文件夹中\n3. 启动服务器\n\n## 鸣谢\nBasic Login 模组由 [BraveCake](https://modrinth.com/user/BraveCake) 制作\n\n## 许可证\nMIT 许可证",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

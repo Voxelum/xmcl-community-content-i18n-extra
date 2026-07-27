@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c6c5fa8599fdfd51",
+  "content": "\n\n<p><strong>Waypoint Book</strong> 是一款轻量级的纯客户端 Fabric 工具，通过简洁高效的命令系统帮助你管理喜爱的地点。借助清晰的命令与自动持久化保存，让你的世界井井有条。</p>\n<hr>\n<h2>功能特性</h2>\n<ul>\n<li><strong>智能 Tab 补全</strong> – 使用内置的 Tab 补全功能快速重命名或删除航点。</li>\n<li><strong>持久化磁盘存储</strong> – 航点会自动保存，每次进入游戏时都会重新加载，跨服务器也能保留。</li>\n<li><strong>仅客户端运行</strong> – 无需在服务器端安装即可在任何地方使用。你的航点信息保持完全私密。</li>\n<li><strong>清晰的维度标签</strong> – 易读的标签让你一目了然地区分主世界、下界和末地航点。</li>\n</ul>\n<hr>\n<h2>命令</h2>\n<table>\n<thead>\n<tr>\n<th>命令</th>\n<th>功能</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>/wpbook add &lt;name&gt;</code></td>\n<td>以指定名称保存当前坐标。</td>\n</tr>\n<tr>\n<td><code>/wpbook list</code></td>\n<td>列出所有已保存的航点及其维度信息。</td>\n</tr>\n<tr>\n<td><code>/wpbook rename &lt;old&gt; &lt;new&gt;</code></td>\n<td>重命名已有航点（支持 Tab 补全）。</td>\n</tr>\n<tr>\n<td><code>/wpbook remove &lt;name&gt;</code></td>\n<td>删除特定航点（支持 Tab 补全）。</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<h2>环境要求</h2>\n<ul>\n<li><strong>Minecraft 版本：</strong>1.21.11  </li>\n<li><strong>模组加载器：</strong>Fabric Loader  </li>\n<li><strong>依赖项：</strong>Fabric API  </li>\n</ul>\n<hr>\n<h2>关于</h2>\n<p>Waypoint Book 专为追求简洁与高效的玩家打造。无论你是在追踪基地、建筑还是隐藏地点，所有内容均在客户端处理，为你带来干净且私密的航点体验。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

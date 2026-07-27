@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cca86dcd45f1fcbe",
+  "content": "<h2 style=\"text-align:left\"><strong style=\"display:inline !important\"><img src=\"https://github.com/FlooferLand/retrocrash/blob/master/src/main/resources/icon.png?raw=true\" alt=\"\" width=\"32\" height=\"32\"> Retrocrash ⎯⎯⎯&nbsp;</strong></h2>\n<p>Небольшой мод, который воссоздаст экран сбоев старой бета-версии и сделает его доступным для современных версий игры.</p>\n<p>Этот экран изначально являлся частью старого загрузчика Minecraft, но я воссоздал его вручную и интегрировал как часть игры. Полезно для ностальгических целей, если вы хотите включить его в ретро-апдак, или если вам не нравится окно сбоя из-за используемого вами загрузчика.</p>\n<p>Если вы хотите протестировать это, в Minecraft уже есть сокращенная клавиша для сбоя игры <em>(<code>F3 + C</code>)</em></p>\n<p><img src=\"https://github.com/FlooferLand/retrocrash/blob/master/screenshot.png?raw=true\" alt=\"Снимок экрана экрана сбоя\" width=\"850\" height=\"534\"></p>\n<p><em><strong>ПРИМЕЧАНИЕ:</strong></em> <em>Мод использует ту же текстуру логотипа, что и у Minecraft, поэтому он совместим с пакетами ресурсов.</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

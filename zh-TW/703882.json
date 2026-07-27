@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1bfcd9fae38a2f1e",
+  "content": "\n\n<p style=\"text-align:center\">當夜視效果即將耗盡時，改用緩出效果取代脈動</p>\n<p style=\"text-align:center\">歡迎隨意將其加入模組整合包中</p>\n<p style=\"padding-left:150px\">&nbsp;<img src=\"https://imgur.com/S2zBLrJ.gif\" alt=\"無閃爍夜視淡出 GIF\" width=\"809\" height=\"469\"><em><br></em></p>\n<p style=\"text-align:center\"><br><br></p>\n<p style=\"text-align:center\"><em>僅影響的方法為：GameRenderer.getNightVisionStrength();&nbsp; 於 TAIL 階段。</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

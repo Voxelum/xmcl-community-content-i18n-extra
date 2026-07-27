@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6a44e6f86d3db051",
+  "content": "\n\n<p>如果原作者希望我下架，我會照做<br><br>我所做的只是將 this.shootingEntity != null 的檢查移到第一行<br>理論上應該會提前退出，且若該實體不存在便不會被使用<br>藉此消除該錯誤的發生<br>原始版本中，第二行才會檢查 this.shootingEntity 是否為 null<br>該檢查執行得太晚了<br><a href=\"https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod</a> 原作者</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

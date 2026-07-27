@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3004d8b7f45fb582",
+  "content": "\n\n<h1>Starlight with Create Fix</h1>\n<h3 style=\"text-align:center\"><strong>这是 Spottedleaf 制作的 1.20.2 版本模组的回溯移植版本，其中包含了针对 Create 的修复</strong></h3>\n<p>一款 Forge 模组，用于重写光照引擎以修复光照性能问题及光照错误。</p>\n<p>&nbsp;</p>\n<h2>兼容性</h2>\n<p>Starlight 可以安装在专用服务器或客户端上。它<em>无需</em>在两端同时安装。如果服务器上已安装 Starlight，客户端可使用原版/Phosphor/Starlight 进行连接。同理，如果客户端已安装 Starlight，则可以连接到原版/Phosphor/Starlight 服务器。</p>\n<p>Starlight 无法<em>与</em> Phosphor 同时安装，两者完全互不兼容。浏览 <a href=\"https://github.com/PaperMC/Starlight/issues\" rel=\"nofollow\">Starlight 的问题追踪器</a> 可查看更多模组冲突信息。Starlight 是对光照引擎的一次破坏性较强的重写，因此出现与其他模组冲突的概率会相对较高。</p>\n<h2>开发目的</h2>\n<p>Starlight 最初是为大型专用服务器开发的，因为这些服务器深受光照引擎极其缓慢所带来的性能问题困扰。唯一的解决方案就是制作一款侵入性极强的模组，彻底重写整个光照引擎。我将该模组移植到了 Fabric 平台，以便在快照期间持续更新，并决定将其发布给所有用户，尤其是客户端用户。不过，作为一款侵入性模组，它也带来了一些副作用：其侵入性对大型服务器并未造成影响，因为它们运行在 Bukkit 之上。</p>\n<p>有关 Starlight 如何实现其性能的详细技术说明，请参阅此处：&nbsp;<a href=\"https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md\" rel=\"nofollow\">TECHNICAL_DETAILS.md</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

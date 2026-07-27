@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d9b0906d2d13a301",
+  "content": "<h1>Carpet: NeoForged</h1>\n<p>gnembon 的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/carpet\" target=\"_blank\" rel=\"nofollow\">Carpet Mod</a> 分支，已移植至 NeoForge</p>\n<hr>\n<p>所有功能应与 Fabric 版 Carpet 保持一致，带来大量可配置的原版微调选项，例如：</p>\n<ul>\n<li>可移动方块实体</li>\n<li>可堆叠的潜影盒</li>\n<li>Scarpet 脚本语言</li>\n<li>……以及原版模组的所有其他功能</li>\n</ul>\n<p>以上功能仅需在服务器端安装即可生效。</p>\n<hr>\n<h2>兼容性</h2>\n<p>在使用 <a href=\"https://www.curseforge.com/minecraft/mc-mods/sinytra-connector\" target=\"_blank\" rel=\"nofollow\">Sinytra Connector</a> 时，部分 Carpet 扩展模组可以正常工作，尤其是那些混合器（mixin）使用较少的模组（大多数 Scarpet 扩展模组应能正常运行）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

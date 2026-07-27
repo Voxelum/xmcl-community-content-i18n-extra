@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3997a3ecb2ef7975",
+  "content": "![Downloads](https://img.shields.io/modrinth/dt/YHMW0bzC?label=Downloads)\\\nWorld Loading Tweaker 允许您调整用于加载 Minecraft 地形（世界、维度、重生等）的生成区块数量，以加快加载速度或提升世界品质！\\\n选择较少的生成区块可大幅减少世界加载时间，而选择较多生成区块虽可能降低速度，但能改善生成质量，例如避免区块加载时闪烁的现象。\\\n测试中，当生成区块设为 0 时，世界直接跳过加载框，立即开始地形加载，耗时约 0.8 秒。\\\n当生成区块设为 10 时，世界加载耗时约 3 秒，但加载的区块质量更高。\\\n这些结果可能因您的电脑而异，例如有时您可能察觉不到加载时间差异，这是因为本模组主要针对低配电脑设计，但即使在高配电脑上，加载时间仍可能发生变化。\\\n请注意，Minecraft 默认的生成区块半径为 2。\n\n请注意，要感受到世界加载的变化，您必须至少在游戏世界中安装并启动过一次模组，否则功能不会生效。\n\n希望您喜欢使用！\n\n命令：\n/function wlt:disable\n取消生成区块更改，恢复为默认值 2（您仍可随时手动重置）\n\n/function wlt:load\\\n此命令作用不大，因为世界加载时已自动调用，但会将生成区块半径设为 0\n\n/function wlt:spawnchunkschange/0\\\n同样将生成区块半径设为 0\n\n/function wlt:spawnchunkschange/1\\\n将生成区块半径设为 1\n\n/function wlt:spawnchunkschange/2\\\n将生成区块半径设为 2\n\n/function wlt:spawnchunkschange/5\\\n将生成区块半径设为 5\n\n/function wlt:spawnchunkschange/10\\\n将生成区块半径设为 10",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

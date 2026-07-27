@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7e4eaaf4c01534f5",
+  "content": "\n\n### 此模組包含巨大聲響與閃爍光線，癲癇患者或對此敏感的玩家不建議遊玩，風險自負。\n\n靈感來自 Twixxel 的系列作品《我真的從未這麼害怕過…》\n原版影片：[觀看！！！](https://www.youtube.com/watch?v=3Z52j9Don6I&t)\n \n\n重製版 v1.4 指令：\n> /ihit_devmode false - 開啟開發者模式\n> /ihit_devmode true - 關閉開發者模式\n> /ihit_makarov get/destroy - 給予馬卡洛夫手槍／摧毀馬卡洛夫手槍（武器）\n> /ihit_spawner trigger - 立即觸發實體生成\n> /ihit_spawntimer change \"數字（刻）\" - 更改實體生成的觸發間隔\n> /ihit_chicastalker true/false/status - 開啟/關閉追蹤者與奇卡生成，亦可查看目前狀態\n> /config showfile i_heard_it_too_remastered COMMON - 設定檔\n\n加入了恐怖短片《我也聽見了》（後改編為短篇動畫）中的「母親幽靈」，該模型受 Twixxel 原版母親幽靈實體啟發並重新製作。\n\n> 在此回報錯誤：\n> [在此回報錯誤（Discord）](https://discord.com/invite/fdxBpuvQmw)\n \n\n本模組會與玩家互動，且能破壞方塊。\n 音效版權非本人所有，但主要實體由本人製作，別恨我。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

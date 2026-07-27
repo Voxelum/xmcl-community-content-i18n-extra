@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8d24f98ae455478b",
+  "content": "\n\n<h1 style=\"text-align:center\"><span style=\"color:#3598db\"><strong>Здоровье в цифрах!</strong></span><br><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/avatars/console-avatars/avatar_1fb46b79-c437-473b-b786-48d87d2f62a9.gif\" alt=\"\" width=\"400\" height=\"400\"></h1>\n<hr>\n<p style=\"text-align:center\"><strong>Простой мод, добавляющий отображение вашего здоровья в числовом виде!</strong><br>Цвет HUD меняется в зависимости от вашего здоровья! (<em>Настраивается в конфигурационном файле!</em>)<br>Мод показывает ваше текущее и максимальное здоровье, чтобы вы всегда знали точное значение!<br><br><strong>В конфигурационном файле цвета для здоровья <span style=\"text-decoration:underline\">ДОЛЖНЫ</span> быть указаны в виде десятичных RGB-значений!</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db4fc68aca0fb5c1",
+  "content": "我最初製作這個數據包，是為了能夠在終界島上安心建造我想要的建築，而不必擔心末影龍的破壞。你可以隨意修改它以符合你的喜好，或者直接沿用我的預設設定。\n\n### 新增方塊\n- 紫珀方塊\n- 紫珀柱\n- 紫珀 slab（階梯）\n- 紫珀 stairs（階梯）\n- 終界水晶棒\n- 終界石磚 slab（階梯）\n- 終界石磚 stairs（階梯）\n- 終界石磚牆\n- 終界石磚\n- 洋紅染色玻璃\n- 梯子\n\n### 原有方塊\n- 屏障\n- 基岩\n- 終界門\n- 終界門框\n- 終界傳送門\n- 命令方塊\n- 迴圈命令方塊\n- 鏈式命令方塊\n- 結構方塊\n- 拼圖方塊\n- 移動中的活塞\n- 黑曜石\n- 哭泣的黑曜石\n- 終界石\n- 鐵欄杆\n- 重生錨\n- 加固深板岩\n- 測試方塊\n- 測試實例方塊\n\n## 結構\ndata/minecraft/tags/block/dragon_immune.json\n\n# Discord\n如果需要聯繫或想說些什麼，你可以透過此連結暫時加入：[https://discord.gg/NAd2jxWCDz](https://discord.gg/NAd2jxWCDz)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

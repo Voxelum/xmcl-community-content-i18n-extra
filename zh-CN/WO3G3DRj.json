@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dcf9850af509d5e5",
+  "content": "防止 EMI 泄露你整合包中的所有秘密，在玩家将其放入背包之前隐藏物品。\n\n## 工作原理\n- 只有玩家持有过的物品才会显示在索引中。\n- 可合成/配方视图仅显示完全由已知物品合成的配方。\n- 可合成配方会显示其产出物品，但在合成之前无法对其进行使用或配方查找。\n- 标签和列表成分会被过滤，以隐藏集合中的未知物品。\n- 已知物品可以从 JSON 文件预填充。\n- 已知物品存储在客户端，每个玩家和世界单独存储。\n- 支持 EMI++ Backport 物品组。\n\n## 配置\n\n目前唯一的配置是预填充物品文件 `config/emi_discovery_pre_discovered.json`。格式为指定物品注册 ID 的字符串 JSON 数组。示例：\n```\n[\n    \"minecraft:stone\",\n    \"minecraft:iron_ingot\"\n]\n```\n登录时，这些内容会被复制到尚未拥有已知物品列表的任何玩家的已知物品列表中。\n\n## 致谢\n- 灵感来源于、基于并复用了 [Discovered Enough Items](https://www.curseforge.com/minecraft/mc-mods/dei) 的代码\n- 图标使用了来自 [The Noun Project](https://thenounproject.com) 的 [Jevgenijs Kudinovs 设计的 Archaeologist](https://thenounproject.com/icon/archaeologist-7507904/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f9d596bca2f41ab1",
+  "content": "# ModMenu命令\n\n![ModMenu Command](https://i.imgur.com/h7WjbKS.png)\n\n是否曾經想要快速打開某個模組的配置螢幕？使用ModMenu Command就能輕鬆辦到！\n\n此模組會加入/modmenu指令，方便開啟各模組的ModMenu介面。\n\nModMenu Command需要[Fabric](https://fabricmc.net/use/installer/)、[Fabric API]([2])、\n[Kotlin語言支援(Fabric Language Kotlin)](https://www.modrinth.com/mod/fabric-language-kotlin)，當然還有\n[ModMenu](https://www.modrinth.com/mod/modmenu)。\n\nModMenu Command與ModMenu無任何關聯。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

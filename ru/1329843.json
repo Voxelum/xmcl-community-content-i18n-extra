@@ -1,6 +1,6 @@
 {
-  "bodyHash": "LQxFyDnLEog=",
-  "content": "<h1><strong>KubeJS Драконье Эволюционирование</strong></h1> <h2><strong>Пример</strong></h2> <p>Вводы требуют логического значения «истина» или «ложь», которое указывает рецепту, расходует ли он предмет по умолчанию. По умолчанию мы парсим значение «истина», поэтому добавляйте «ложь» только при необходимости.</p> <div> <pre>ServerEvents.recipes(event =&gt; {  event.recipes.draconicevolution.fusion_crafting(    \"minecraft:dirt\", // входящий предмет    [\"minecraft:diamond\", [\"minecraft:obsidian\", false]], // алмаз используется, а обсидиан — нет    \"minecraft:emerald\", (result itemstack)    \"wyvern\", // уровень может быть (драционий, вайверн, драконий, хаотичный)    1000000, //энергия  );});</pre> </div>",
+  "bodyHash": "5948241ad24a9b0c",
+  "content": "\n\n<h1><strong>KubeJS Draconic Evolution</strong></h1>\n<h2><strong>Пример</strong></h2>\n<p>Аргументы требуют значения true или false, которое указывает, расходуется ли предмет в рецепте. По умолчанию используется true, поэтому добавляйте false только при необходимости.</p>\n<div>\n<pre>ServerEvents.recipes(event =&gt; {<br>  event.recipes.draconicevolution.fusion_crafting(<br>    \"minecraft:dirt\", // входной предмет<br>    [\"minecraft:diamond\", [\"minecraft:obsidian\", false]], // алмаз используется, а обсидиан — нет <br>    \"minecraft:emerald\", (предмет результата)<br>    \"wyvern\", // уровень может быть (draconium, wyvern, draconic, chaotic)<br>    1000000, // энергия<br>  );<br>});</pre>\n</div>",
   "contentType": "text/html",
   "type": "curseforge"
 }

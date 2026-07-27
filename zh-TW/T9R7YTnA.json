@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Q8k7FxNn/lM=",
-  "content": "![banner](https://raw.githubusercontent.com/uku3lig/totemcounter/1.19.3/banner.png)\n![Modrinth Downloads](https://img.shields.io/modrinth/dt/T9R7YTnA?style=for-the-badge)\n\n**TotemCounter** 是一個顯示每位玩家頭頂上使用不死圖騰次數的模組，同時也會顯示你背包裡還有多少不死圖騰！\n\n*圖示由 [Marlow](https://youtube.com/@Marlowww) 製作，橫幅由我自己製作 :3c*\n\n## 功能\n* 在名字標籤中顯示使用次數\n* 可透過選項或按鍵輕鬆重置\n* 死亡或比賽結束時自動重置（在支援的伺服器上）\n* 顯示背包中的不死圖騰數量\n* 經驗條會根據不死圖騰數量改變顏色\n\n## 依賴\n* [ukulib](https://modrinth.com/mod/ukulib)",
+  "bodyHash": "47d467f9227287fa",
+  "content": "![banner](https://raw.githubusercontent.com/uku3lig/totemcounter/1.19.3/banner.png)\n![Modrinth Downloads](https://img.shields.io/modrinth/dt/T9R7YTnA?style=for-the-badge)\n\n**TotemCounter** 是一個模組，會在每個玩家的名稱標籤上方顯示其_totem_ 使用次數，並顯示你物品欄中的 _totem_ 數量！\n\n*圖標由 [Marlow](https://youtube.com/@Marlowww) 製作，橫幅由我製作 :3c*\n\n## 功能\n* 名稱標籤上的使用次數計數器\n* 可透過選項或鍵位綁定輕鬆重置\n* 死亡或比賽結束時自動重置（在支援的伺服器上）\n* 顯示物品欄中的 _totem_ 數量\n* 根據 _totem_ 數量變現經驗條顏色\n\n## 依賴項\n* [ukulib](https://modrinth.com/mod/ukulib)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

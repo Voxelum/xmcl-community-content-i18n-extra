@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6851c01de24c40b8",
+  "content": "在第三人称视角中改变你的相机碰撞方式！\n\n你是否曾想过，为什么玻璃不会挤压你的 F5 视角，而屏障会？\n\n本模组允许你自定义哪些方块应该挤压你的相机，哪些不应该。\n\n本模组已在 [1.17.1]、[1.18.2]、[1.19]、[1.19.4]、[1.20]、[1.20.1]、[1.21] 上测试通过。\n\n**需要 [Cloth Config](https://modrinth.com/mod/cloth-config)！**\n\n**你可以使用 [Mod Menu](https://modrinth.com/mod/modmenu) 配置本模组，或者直接编辑配置的 JSON 文件（如果选择后者，则需要重启 Minecraft）。**\n\n| 启用此模组          | 未启用此模组           |\n|------------------------|----------------------------|\n| ![on](https://cdn.modrinth.com/data/TbGPEeYZ/images/d6898e25e7f15103cf4656e85a1c5d60b3c2a4aa.png) | ![off](https://cdn.modrinth.com/data/TbGPEeYZ/images/eee262616248fdd08d110b6fef718384f6afaf85.png) |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "98b4b132e791571e",
+  "content": "## Общение\nMiniMOTD Reforged — неофициальный порт [MiniMOTD](https://modrinth.com/plugin/minimotd), мод для настройки MOTD сервера, с таким же использованием, как и официальная версия.\n\n## Совместимость\nСовместим только с vanilla-серверами на Forge.\n\nЕсли вы хостите гибридный сервер на Forge+Bukkit, такой как CatServer, Magma, Mohist или Arclight, вам следует установить официальный [MiniMOTD Bukkit плагин](https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/).\n\n## Проблемы и запросы функций.\nНажмите на «Issues» на этой странице, чтобы сообщить о проблемах или предложить новые функции.\n\nНе сообщайте об ошибках в официальном репозитории MiniMOTD на GitHub!\n\n## Полезные ссылки\n- [Официальная вики](https://github.com/jpenilla/MiniMOTD/wiki)\n- [Документация MiniMessage](https://docs.advntr.dev/minimessage/format.html)\n- [Онлайн-редактор MiniMessage](https://webui.advntr.dev/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

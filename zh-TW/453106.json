@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eca855a58146328c",
+  "content": "<p><span style=\"color:#f00\">此模組適用於 Forge。官方 Fabric 版本可在此處取得：<a href=\"https://www.curseforge.com/minecraft/mc-mods/door-knocker\" rel=\"nofollow\"><span style=\"text-decoration:underline\"><strong>這裡</strong></span></a>。請注意，Forge 版本為移植版，因此可能與 Fabric 版本有所不同。</span></p>\n<p>&nbsp;</p>\n<p>此模組為遊戲新增了一項功能：<strong>敲門和敲陷阱門的能力。</strong></p>\n<p>這對於角色扮演玩家來說能大幅提升沉浸感，與朋友一起玩時也是一個很棒的特性！</p>\n<p>&nbsp;</p>\n<p>Door Knocker (Forge) 是由 MeowMC/FroyoCS 開發的 Door Knocker Fabric 模組的官方 Forge 移植版。該模組由 Zandercraft 開發並維護。</p>\n<p>&nbsp;</p>\n<p><strong>Discord 支援伺服器：</strong><a href=\"https://discord.gg/m3EjDuuekg\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/m3EjDuuekg</a></p>\n<p>&nbsp;</p>\n<p><strong>原版模組創作者對移植版的官方認可：</strong></p>\n<p><img src=\"https://i.imgur.com/amw8lVK.png\" alt=\"Door Knocker 創作者對 Door Knocker Forge 的官方認可。\" width=\"507\" height=\"238\"></p>\n<p>衷心感謝 FroyoCS 製作原版模組，並認可此移植版為官方版本。</p>\n<p>&nbsp;</p>\n<h4><strong>已知問題：</strong></h4>\n<p>如果您能透過 Pull Request 協助解決這些問題，我們將不勝感激。❤</p>\n<p>- 可被濫用（需要加入冷卻時間）- 狀態：<em>處理中</em><br>- 在破壞門時發生（冷卻時間或事件類型的變更均可修復此問題）<br>- 在破壞門時發生（也許只有在按鈕按住的時間少於特定時長時才觸發）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

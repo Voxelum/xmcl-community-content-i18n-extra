@@ -1,0 +1,6 @@
+{
+  "bodyHash": "67329d55491667b4",
+  "content": "<p><strong>當玩家在渲染距離內死亡時，會播放死亡音效。伺服器端無需安裝。</strong></p>\n<h1>功能：</h1>\n<p>新增死亡音效，讓死亡時刻更具戲劇性和沉浸感！您可以完全自訂音效、添加粒子效果、調整音量、音高和延遲，甚至可以使用自己的音效！</p>\n<p>模組全局統計數據：<a href=\"/linkout?remoteUrl=https%253a%252f%252fwellwellwellguy.github.io%252fdeathsound-stats%252f\" rel=\"nofollow\">點擊此處</a></p>\n<h2>依賴項：</h2>\n<p><strong>必需：</strong>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a></p>\n<h2>如何使用自訂音效</h2>\n<ol>\n<li>安裝模組</li>\n<li>啟用資源包 'DeathSound-Resources'</li>\n<li>在 DeathSound 自訂音效選單中點擊 'Open Sound Folder'（打開音效資料夾）按鈕</li>\n<li>將您的 .ogg 檔案放置在此資料夾中</li>\n<li>重要：如果您在 Minecraft 版本 26.1 或以上使用此模組，請確保檔案名稱中不包含大寫字母！</li>\n<li>在自訂音效選單中選擇您的檔案</li>\n<li>您的自訂死亡音效現在應該已生效！</li>\n</ol>\n<h2>語言：</h2>\n<h3>該模組（僅限 MC 版本 1.21 及以上）提供多種語言支援，包括：</h3>\n<ul>\n<li>英語</li>\n<li>德語（德國）</li>\n<li>德語（奧地利）</li>\n<li>菲律賓語</li>\n<li>波蘭語</li>\n<li>...以及更多</li>\n</ul>\n<p>部分翻譯可能並非 100% 準確！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

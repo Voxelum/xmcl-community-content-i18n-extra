@@ -1,0 +1,6 @@
+{
+  "bodyHash": "26307370eda8744e",
+  "content": "\n\n### 📝 描述\n\n**TDSMP Translate** 使用 Azure Translator API 來即時翻譯書本、告示牌、聊天訊息，甚至是講台上的書籍中的文字！ \n\n此為 PlumelS 所開發之 [TranslateOverlay](https://modrinth.com/mod/translateoverlay) 的修改版本。\n\n---\n\n### ⚠️ 必要相依模組\n\n此模組原生為 Fabric 模組，但已透過相容性層配置為可在 **Forge 1.20.1** 上執行。為了讓此模組正常運作且不當機，你**必須**在模組資料夾中安裝以下相依模組：\n\n* **[Sinytra Connector](https://modrinth.com/mod/connector)：** 將 Fabric 程式碼轉換為可在 Forge 上執行的技術橋接器。\n* **[Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api)：** 專為此相容性層所建構的 Fabric API 移植版。\n\n---\n\n### ⚙️ 主要指令\n\n使用以下四個主要指令來控制你的即時翻譯設定：\n\n* `/translator from auto-detect`  \n  設定你要翻譯的來源語言。\n* `/translator to [language_code]`  \n  設定你要翻譯成的目標語言。\n* `/translator toggleChat`  \n  切換聊天訊息翻譯的開啟或關閉狀態。\n* `/translator toggleItem`  \n  切換物品翻譯的開啟或關閉狀態。\n\n> 💡 **提示：** 若你不確定該語言應使用的代碼，請參考 [Wikipedia ISO 639 語言代碼列表（第一組）](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes)。\n\n---\n\n### 🖥️ 伺服器設定與配置\n\n若要在多人伺服器上使用此翻譯工具，你必須自行設定個人的 **Azure Translator API** 金鑰。取得後，請在模組的設定檔中新增並修改所需的認證資訊。\n\n---\n\n### 📜 整合包規範與鳴謝\n\n* 你**完全可以**將此模組收錄於你的整合包中！\n* **署名要求：** 你必須提供一個可看見的連結，導回本專案頁面。\n* **原始模組署名：** PlumelS 開發之 [TranslateOverlay](https://modrinth.com/mod/translateoverlay)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

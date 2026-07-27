@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e1d06df60308aea7",
+  "content": "### 天气物理\n本模组增加了 Weather2（天气、风暴与龙卷风）与 Sable 子层级物理之间的兼容性。\n\n### 目前已添加的功能：\n- 龙卷风可以拉动子层级，并迫使其进入漩涡运动\n- 物理效果取决于龙卷风的强度阶段\n- 龙卷风可以在船体处破坏方块或将船只分解为物理对象\n- **所有子层级的风力物理**\n- **Create 风车帆的航行物理**\n- 物理和破坏逻辑完全可配置\n\n### 需求\n\n[Weather, Storms & Tornadoes](https://modrinth.com/mod/weather-storms-tornadoes)\n\n[CoroUtil (Weather2 依赖项)](https://modrinth.com/mod/coroutil)\n\n[Sable](https://modrinth.com/mod/sable)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

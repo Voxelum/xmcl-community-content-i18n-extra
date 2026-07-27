@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2df920f4fe02bc0f",
+  "content": "\n\n# Panda Logoff Spot\n\n## 描述\n\n一款簡單且可自訂的即插即用模組，會在玩家登出時建立一個虛擬文字實體。這能降低戰鬥登出的效果，也能讓使用作弊客戶端的人看起來沒那麼帥氣。\n文字的高度會根據玩家登出時的姿勢（站立、蹲伏、爬行、游泳）進行調整。\n\n## 媒體\n\n![Panda Logoff Spot](https://cdn.modrinth.com/data/cached_images/6b9b9fd6deb404a9e4bc8f1a74cb5e644969a580.png)\n\n## 設定\n\n執行時會產生 `config/PandaAntiPermanentBlockBreak.json`：\n```json\n{\n  \"nameColor\": \"#F08080\", // 顯示玩家名稱的顏色\n  \"showCoords\": true, // 是否顯示座標\n  \"durationSeconds\": 300, // 持續時間（秒）\n  \"scale\": 0.75 // 顯示比例\n}\n```\n\n## 試試看\n`hardcoreanarchy.gay`   （死亡封禁無政府伺服器）  \n`sky.hardcoreanarchy.gay`   （空島無政府伺服器）\n\n## 支援\n\n[在此加入 Discord 取得支援！]( https://discord.gg/3tP3Tqu983)\n\n## 授權條款\n\n[CC0](https://creativecommons.org/public-domain/cc0/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

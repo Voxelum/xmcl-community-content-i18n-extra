@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0578ef96b351b24d",
+  "content": "# Истинная МОЩЬ: Оптимизация\n\nДополнение для оптимизации [SlashBlade: Resharped](https://modrinth.com/mod/slashblade-resharped), которое улучшает производительность рендеринга предметов SlashBlade при определённых условиях.\n\n## Сравнение производительности\n\n> Среда: Minecraft 1.21.1, NeoForge 21.1.228, SlashBlade: Resharped 2.0.3-1.21.1, Just Enough Items 19.32.0.358,  \n> Мир суперплоскости – пресет «Пустота»\n\n| Сценарий теста | Без этого мода | С этим модом |\n|---------------|------------------|---------------|\n| Инвентарь + JEI, одновременный рендеринг ~110 предметов SlashBlade | FPS ≈ 35 | FPS ≈ 170 |\n| Вид от третьего лица, использование Ямато, повторное выполнение комбо A | FPS ≈ 100 | FPS ≈ 160 |\n\n## Совместимость\n\nСовместимо: [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast), [ModernFix](https://modrinth.com/mod/modernfix), [Embeddium](https://modrinth.com/mod/embeddium)  \nНесовместимо: [Accelerated Rendering](https://www.curseforge.com/minecraft/mc-mods/accelerated-rendering)\n\n## Лицензия\n\nЭтот мод является открытым исходным кодом под лицензией MIT.\n\nВы можете включать его в свои модпаки/серверы, пока **соблюдаете условия лицензии**.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

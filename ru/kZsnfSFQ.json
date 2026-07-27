@@ -1,6 +1,6 @@
 {
-  "bodyHash": "57d5ede0cacc291a",
-  "content": "\n\n**Возвращает простой крафт предметов из незерита!**\n## Возвращает:\n- **Незеритовый меч**\n- **Незеритовая кирка**\n- **Незеритовый топор**\n- **Незеритовая лопата**\n- **Незеритовая мотыга**\n- **Незеритовый шлем**\n- **Незеритовый нагрудник**\n- **Незеритовые поножи**\n- **Незеритовые ботинки**\n\n## Пример:\n### 1.20.6+\n*Для крафта потребуется камень*\n\n![1.20.6+](https://cdn.modrinth.com/data/cached_images/3983549c399c3551aa82253f0599bccf7c62247b.png)\n![1.20.6+](https://cdn.modrinth.com/data/cached_images/236e8bb558a9b5d600b31cf0ebb650685b8553d2.png)\n### 1.20-1.20.4\n*Камень для крафта не требуется*\n\n![1.20-1.20.4](https://cdn.modrinth.com/data/cached_images/518929f9c1fb5441bd3eb20477bd269063578748.png)\n\n![1.20-1.20.4](https://cdn.modrinth.com/data/cached_images/cb8b20a74fd989a571052bd6099857efa11117ad.png)",
+  "bodyHash": "e480482891fb8d0e",
+  "content": "\n\n**Возвращает упрощённый крафт незеритовых предметов!**\n## Возвращает:\n- **Незеритовый меч**\n- **Незеритовая кирка**\n- **Незеритовый топор**\n- **Незеритовая лопата**\n- **Незеритовая мотыга**\n- **Незеритовый шлем**\n- **Незеритовый нагрудник**\n- **Незеритовые поножи**\n- **Незеритовые ботинки**\n\n<h2 style=\"text-align: center;\"><strong>Пример:</strong></h2>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn.modrinth.com/data/cached_images/518929f9c1fb5441bd3eb20477bd269063578748.png\" alt=\"1.20-1.20.4\"></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://cdn.modrinth.com/data/cached_images/cb8b20a74fd989a571052bd6099857efa11117ad.png\" alt=\"1.20-1.20.4\"></p>",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

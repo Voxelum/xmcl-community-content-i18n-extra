@@ -1,0 +1,6 @@
+{
+  "bodyHash": "81835a1889d161ff",
+  "content": "\n\nCreate: Structures 是 Create 的一个附属模组，旨在通过添加自然生成的结构来进一步将该模组融入原版内容。\n\n警告：此数据包使用命令方块来组装机械装置，因为 Create 目前无法很好地支持程序生成的结构。\n\n这些结构采用原版建筑风格建造，同时也会使用来自 Create 模组的方块和物品。为不影响模组的进度推进，这些结构中仅包含前期物品和简单机械。\n\n目前，以下村庄中新增了独特的风车结构：\n\n- 平原村庄\n- 针叶林村庄\n- 热带草原村庄\n- 雪原村庄\n\n沙漠村庄中也有一座水车结构，且所有结构同样会出现在僵尸村庄中。\n\n本附属模组的内容并不局限于村庄结构，未来更新中可能会添加更多类型的结构。\n\n如有问题，请前往[问题追踪器](https://github.com/FusionSwarly/Create-Structures/issues)进行反馈。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

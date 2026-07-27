@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d660bed046000998",
+  "content": "\n\n<p>Этот пакет ресурсов предназначен для исправления совместимости между GregTech Modern и GemsRealm. Данный аддон лишь берёт текстуры GregTech и размещает их там, где их ожидает увидеть GemsRealm.<br><br>Внимание! Если вы добавляете новые металлы/самоцветы через KubeJS или аддоны GregTech, вам необходимо:<br>- Найти в файлах GregTech текстуры для слитка/самоцвета и блока, соответствующие данной текстуре (например, dull)<br>- Раскрасить их в цвет(а) материала, указанного в конфигурации. (используя программу вроде GIMP)<br>- Поместить их в папку <span style=\"color:#e03e2d\">assets/gtceu/textures/&lt;block/item&gt;</span></p>\n<p>Либо добавьте их в чёрный список в конфигурации GemsRealm (gemsrealm-hazardous.toml)</p>\n<p>Иначе ВСЕ текстуры будут сломаны.<br><br>Я также пытаюсь добавить дополнительную совместимость между GemsRealm и GregTech:<br><a href=\"https://github.com/GregTechCEu/GregTech-Modern/issues/3967\" target=\"_blank\" rel=\"nofollow\">https://github.com/GregTechCEu/GregTech-Modern/issues/3967</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

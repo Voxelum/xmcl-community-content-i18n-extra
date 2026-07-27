@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a14a345b92844007",
+  "content": "\n\nВдохновлено [Tree Physics](https://modrinth.com/mod/tree-physics)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/7msL9vF8I1k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n---\n\nФизика песка добавляет физику любым блокам Minecraft, имеющим гравитацию в ванили, включая:\n- песок\n- гравий\n- красный песок\n- подозрительный песок\n- подозрительный гравий\n- наковальни\n- падающий капельный камень\n- бетонная смесь\n- яйцо дракона\n\nДобавляет настройки для разрушения блоков с физикой при приземлении и после истечения тайм-аута.\n\nНаковальни и капельный камень теперь наносят урон игрокам как физические объекты, позволяя швырять наковальни и стрелять капельным камнем в игроков и мобов!\n\n<a href=\"https://modrinth.com/mod/sable\">\n  <img\n    alt=\"работает на базе Sable\"\n    width=\"30%\"\n    src=\"https://cdn.modrinth.com/data/cached_images/d13ac17ef50ed090e7d21fcae0caf8958eeece3d.png\">\n</a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

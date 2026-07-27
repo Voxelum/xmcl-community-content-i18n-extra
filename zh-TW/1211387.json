@@ -1,0 +1,6 @@
+{
+  "bodyHash": "68d79eabdbabe75a",
+  "content": "<p>修復了Pixelmon中阻止玩家挖掘Ultra Space礦物（尤其是Ultra Deep Stone）的問題。由於在此版本無法挖掘Ultra Deep Stone，玩家在不作弊的情況下無法獲得Zygarde。此修復程式解決了這個問題！</p>\n<p>雖然此修復程式解決了Ultra Deep Stone的問題並允許您製作Zygarde Cube，但您仍然無法收集細胞，因為它們在1.20.1（我不確定1.20.2）中不生成。為了收集細胞，您需要添加<a href=\"https://www.curseforge.com/minecraft/texture-packs/zygarde-cell-fix\" target=\"_blank\" rel=\"nofollow\">Zygarde Cell Fix</a>，才能真正收集細胞並獲得Zygarde。我建議使用1.16.5。除非絕對必要，否則不要使用Pixelmon 1.20.1。此Mods是針對絕對必要的情况。</p>\n<p>此Mods還使其他所有Ultra Space礦物可挖掘，包括石頭、沙子、砂岩和壓力板。許多礦物非常適合建造/裝飾，因此此Mods也允許這些礦物被挖掘。</p>\n<p>如果此Mods有任何問題，請使用Issues標籤報告該問題。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

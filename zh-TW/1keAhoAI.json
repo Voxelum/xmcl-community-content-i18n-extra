@@ -1,0 +1,6 @@
+{
+  "bodyHash": "86e25e66ce30d4f0",
+  "content": "\n\n# AddonAPI\n\n**AddonAPI** 是一個函式庫模組，提供 API 讓擴充模組能根據 Forge 已載入的模組來動態載入物件。若目標模組未載入，則僅排除與該模組相關的擴充內容，使 Minecraft 能夠安全啟動。\n\n## 支援版本\n- 用於 Minecraft 1.20.1 的 Forge\n\n## 主要功能\n- 根據 ModList 動態載入已註冊的模組。\n- 在擴充模組的配置檔中加入 `compat` 區段，可針對每個目標模組進行設定。\n- 提供配方條件，可根據 `compat` 設定判斷是否載入配方。\n- 包含一個用於偵測模組載入狀態的範本 Mixin 外掛程式。\n\n## 建立模組\n1. 透過繼承 `AddonModule` 來建立模組類別。\n2. 透過繼承 `AddonModuleProvider` 來建立模組提供者，並在 `registerRawModules()` 方法中呼叫 `addRawModules()`。\n3. 在你的擴充模組建構子中呼叫 `AddonModuleRegistry.INSTANCE.LoadModule()`。\n\n## 使用 `compat` 設定\n在資料包配方中，請使用以下格式：\n\n```json\n{\n  \"type\": \"YOUR_RECIPE_TYPE\",\n  \"conditions\": [\n      {\n        \"type\": \"addonlib:mods_available\",\n        \"required_raw_module\": \"YOUR_RAW_ADDON_MODULE_NAME\"\n      }\n    ],\n    ...\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

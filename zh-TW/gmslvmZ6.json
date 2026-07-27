@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8a3da504a34164fa",
+  "content": "這套模组為模包製作者提供了一個簡單的方法，在特定盔甲或盔甲套裝上附加特殊的 potion 效果。你可以讓玩家在穿著全套鑽石盔甲時獲得 lv3 的力量效果。本模组可選支援 Curios Api，使得裝備在 Curios 插槽的物品能被視為一套盔甲的一部分。\n\n本模组採用數據驅動，您只需將有效的 JSON 文件放置在 `data/<namespace>/effectivearmors/armor_effects/<path>.json`。如果您正在使用 KubeJS，也可以直接將其放在 kubejs 資料夾中，這樣文件路徑會像 `kubejs\\data\\kubjes\\effectivearmors\\armor_effects\\effect_1.json`。\n\n文件的結構應該如下：\n\n```\n{\n  \"armor\": [\n    \"minecraft:diamond_helmet\",\n    \"minecraft:diamond_chestplate\",\n    \"minecraft:diamond_leggings\",\n    \"minecraft:diamond_boots\"\n  ],\n  \"effects\": [\n    { \"id\": \"minecraft:strength\", \"amplifier\": 2, \"ambient\": false, \"show_particles\": false, \"show_icon\": true }\n  ],\n  \"match_all\": true\n}\n```\n\n您可以在 armor 列表中放入 1 到 4 個物品。`\"match_all\": true` 表示必須所有物品都穿戴時才會觸發；您也可以將其設為 false，這樣只要穿戴其中一件盔甲即可應用效果。您可以在 effects 列表中加入多個效果實例，這些效果將會同時應用。\n\n它也支援標籤。您可以在任何盔甲條目字符串的起始處使用 `#`，這將被解析為標籤原料。您也可以使用 `3x ...` 來聲明數量。因此，以下格式也可用：\n\n```\n  \"armor\": [\n    \"#effectivearmors:test_helmets\",\n    \"minecraft:iron_chestplate\",\n    \"minecraft:golden_leggings\"\n  ]\n```\n\n```\n  \"armor\": [\n    \"4x #effectivearmors:golden\"\n  ]\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

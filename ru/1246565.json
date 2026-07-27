@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a60b0502b560163a",
+  "content": "<p>Небольшой mixin-аддон для <a href=\"https://github.com/VazkiiMods/Botania\" target=\"_blank\" rel=\"nofollow\">Botania</a>, который позволяет цветам-генераторам напрямую передавать ману в чаши с маной.\n<img src=\"https://media.forgecdn.net/attachments/description/null/description_75469b04-8741-4096-90de-54d50c16a068.png\" alt=\"example\"></p>\n<h1>Функции</h1>\n<ul>\n<li>прямое подключение цветов-генераторов маны к чаше, минуя распределитель<ul>\n<li>что снижает потерю маны и нагрузку на клиентскую часть при отрисовке частиц,</li>\n<li>а также может быть избыточно мощным для цветов с механиками, связанными с их буфером маны</li></ul></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

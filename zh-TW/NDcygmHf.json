@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c196f6f38c14eb98",
+  "content": "<center>\n  \n# 世界玩時重現\n</center>\n\n![世界選擇示例。](https://cdn.modrinth.com/data/cached_images/d65093682995c009335e8351cbf50c65b4c86ee4.png)\n---\n\n世界玩時重現是一個適用於 Minecraft 1.21.11 及更高版本的 **Fabric** 和 **NeoForge** 插件，它會在世界選擇屏幕每個世界條目的右上角顯示您花費在指定 Minecraft 世界的時間長度。通過檢查世界的“遊玩時間”統計數據實現此功能，因此即使沒有安裝該插件創建的舊世界也會顯示遊戲時間。這是原始 **[World Play Time](https://modrinth.com/mod/world-play-time)** 模塊的分支，該模塊已不再更新以支援新的 Minecraft 版本。\n\n> 此插件僅為客户端使用，服務器端不會執行任何操作。\n\n---\n\n<center>\n\n[![CurseForge](https://i.ibb.co/57rNyyy/image.png)](https://www.curseforge.com/minecraft/mc-mods/world-play-time-reborn) [![Modrinth](https://i.ibb.co/TqwWmF06/1.png)](https://modrinth.com/mod/world-play-time-reborn)\n\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

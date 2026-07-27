@@ -1,0 +1,6 @@
+{
+  "bodyHash": "948c24e4c3612ab2",
+  "content": "\n\n## Что это за мод?\n\nЭтот мод позволяет игрокам управлять своей видимостью в [BlueMap](https://modrinth.com/mod/bluemap) с помощью простых команд:\n\n- `/bluemap-hide` — скрыть себя от BlueMap (или от других игроков, если вы OP) \n- `/bluemap-show` — показать себя на BlueMap\n\nВы также можете создавать маркеры на карте с помощью табличек, вдохновлённых [BlueMap Sign Markers](https://modrinth.com/mod/bluemap-sign-markers).\n\n\nЧтобы создать маркер, поставьте табличку и напишите в **первой строке**:\n\n- `[poi]` — маркер без стиля  \n- `[poi]style_0` — маркер со стилем  \n\nКаждый игрок может создать до **5 маркеров по умолчанию** (настраивается).\n\nЧтобы посмотреть доступные стили, используйте:\n- `/bluemap-marks help`\n\nЧтобы добавить свои ассеты, поместите их в:\n\nbluemap/web/assets/hmbm-poi/",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

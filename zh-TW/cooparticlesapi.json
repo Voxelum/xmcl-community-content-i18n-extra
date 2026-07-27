@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0c210cc3c185c7c1",
+  "content": "# CooParticlesAPI\n![示例](https://cdn.modrinth.com/data/cached_images/2e09a5990bb113334edb0bb9d582adc47c33e642_0.webp)\n此模组依赖 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)\n### 描述\n这是一个库模组，提供了重构的数据包以允许客户端接受更多的 Minecraft 粒子，使不同玩家能够同步渲染并突破 16384 的粒子数量限制。\n### 原理\n该库通过自定义数据包防止因发送大量数据包而导致的网络问题。如果您尚未安装调用此库的模组，您的客户端不会发生任何异常。\n### 安装\n如果需要在服务器端运行，则需将其安装在服务器的模组文件夹和客户端的模组文件夹中；否则，您只需安装在客户端即可。\n### 如何使用？\n目前未提供详细教程，但该库是开源的。您可以访问 [Github 页面](https://github.com/CooStack/CooParticlesAPI) 查看源代码，这可能对您的开发有所帮助。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

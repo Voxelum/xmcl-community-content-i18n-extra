@@ -1,0 +1,6 @@
+{
+  "bodyHash": "23c71c538f3c54f4",
+  "content": "Farmer's Delight 自 1.3 版本起引入了一些破坏性变更，这可能导致 My Nether's Delight 在 1.20.1 Forge 上的最新版本在将方块放置在熔炉上方时崩溃。它还会导致 Miner's Delight 在启动期间崩溃。\n\n虽然 My Nether's Delight 已经针对较新的 1.21+ NeoForge 版本进行了更新，但截至目前，该崩溃问题在 1.20.1 Forge 上已存在数周仍未修复。1.20.1 版本的 Miner's Delight 也尚未进行修补。本项目提供了针对该问题的非官方兼容性补丁。\n\n## 此补丁的作用\n\n本模组修补了由较新 Farmer's Delight 内部机制引起的与熔炉方块交互相关的崩溃问题。\n\n它旨在供使用以下内容的整合包或玩家使用：\n\n*   Minecraft 1.20.1\n*   Forge\n*   Farmer's Delight 1.3+（必需）\n*   My Nether's Delight 1.8（可选）\n*   Miner's Delight 1.2.3（可选）\n*   Dungeons Delight 1.2.10（可选，请使用 RunicLib 4.3.7 而非 4.3.8）\n*   Smidgeon o' Bliss REMASTERED 1.1.4.1\n*   Compat Delight 1.0.1.1\n\n## 重要说明\n\n这是一个非官方补丁，与 Farmer's Delight、My Nether's Delight 或上述其他 Farmer's Delight 附加模组无关。\n\n除非此模组页面另有说明，否则如果原版模组在未来更新中修复了此问题，请移除此补丁。\n\n## 鸣谢\n\n原版模组的荣誉归其各自的作者所有。\n\n## 支持\n\n如果您想支持我的模组开发工作，包括维护、更新和兼容性工作，可以在这里找到 Patreon：[https://patreon.com/vomiter\\_scp](https://patreon.com/vomiter_scp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

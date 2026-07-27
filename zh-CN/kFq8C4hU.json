@@ -1,0 +1,6 @@
+{
+  "bodyHash": "75e54f5385788135",
+  "content": "<div align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/maDU59/FreshLootHighlight/main/src/main/resources/assets/fresh-loot-highlight/icon.png\" width=\"150\">\n  <h1>Fresh Loot Highlight</h1>\n\n  <a href=\"https://modrinth.com/mod/fresh-loot-highlight\"><img src=\"https://img.shields.io/badge/dynamic/json?color=158000&label=downloads&prefix=+%20&query=downloads&url=https://api.modrinth.com/v2/project/kFq8C4hU&logo=modrinth\"></a>\n  <a href=\"https://curseforge.com/minecraft/mc-mods/fresh-loot-highlight\"><img src=\"https://cf.way2muchnoise.eu/full_1352527_downloads.svg\"></a>\n</div>\n\nFresh Loot Highlight 是一款实用模组，提供多种与获取新物品相关的功能。\n\n## 🔎 功能特性\n\n- **新物品高亮显示**：在打开背包时，高亮显示新获得的物品。\n- **拾取提示警告**：添加 HUD 元素，告知你过去 10 秒内获得的所有物品。\n- **无障碍支持**：借助此模组，屏幕阅读器现在可以朗读你拾取的物品名称。\n\n## ⚙️ 配置\n\n要编辑模组设置：\n- 使用 Mod Menu（模组菜单）\n- 使用命令 `/flhConfig` 打开配置界面\n- 编辑 `.minecraft/config/fresh-loot-highlight.json` 中的配置文件\n\n## 📦 整合包\n\n欢迎将此模组添加到你的整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

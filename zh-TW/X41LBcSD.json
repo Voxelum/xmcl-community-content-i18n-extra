@@ -1,0 +1,6 @@
+{
+  "bodyHash": "01f3bf97b11d8771",
+  "content": "# 關於\n「嵌入式電腦」模組是 CC: Tweaked 的擴充模組，為遊戲增添了嵌入式電腦（一種安全無頭計算機）以及其他實用功能。\n\n# 功能\n- **嵌入式電腦**：這是一種安全的無頭計算機，僅能透過從磁碟機啟動來進行修改。它可以透過周邊 API（`embeddedPeriph.format()`）進行格式化重置，也可以透過 `security.lock(\"superSecurePassword\")` 進行「鎖定」，在未使用 `embeddedPeriph.unlock(\"superSecurePassword\")` 解鎖之前，無法進行格式化。\n- **大容量儲存項目**：包括 Zip 磁碟機和閃存卡。它們能以比一般軟碟更高的成本儲存大型程式。\n- **硬碟區塊**：允許您將一個 25MB 的儲存設備掛載到任何目錄。您可以將其掛載至 `/a` 甚至 `/mnt/hdd1`，但代價是您必須在每次啟動時手動呼叫 `hddPeriph.mount(\"/directory/goes/here\")`，並在想要卸載時呼叫 `hddPeriph.unmount(\"/directory/goes/here\")`。\n\n# 免責聲明\n\n請不要使用真實密碼來鎖定嵌入式電腦！！！\n\n如果您使用真實密碼，伺服器管理員可能會添加某些內容來攔截並竊取您的密碼！請不要使用您在其他用途上使用的真實密碼！！！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

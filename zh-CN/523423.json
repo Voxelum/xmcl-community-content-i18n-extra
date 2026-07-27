@@ -1,0 +1,6 @@
+{
+  "bodyHash": "824d4a25c756a97e",
+  "content": "<p>为 Fabric/NeoForge 添加一个反合成台。</p>\n<p>使用此模组错误合成的物品可以被拆解并重新利用。</p>\n<p>默认情况下不消耗经验值。<span></span><br><br></p>\n<p><span style=\"font-weight:400\">合成配方</span></p>\n<ul>\n<li>反合成台</li>\n</ul>\n<p>将工作台用钻石环绕排列即可合成。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/392/783/recipe_uncrafting_table.png\" alt=\"工作台 x1, 钻石 x8\" width=\"300\" height=\"132\"></p>\n<h2>图形用户界面 (GUI)</h2>\n<p><img src=\"https://media.forgecdn.net/attachments/504/859/2022-10-06-225338.png\" width=\"400\"><br><span>（此模组中物品的价值可能会随着物品数量无限增加，如果您不想失去平衡，请自行调节。）</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>配置文件路径：(游戏目录)/config/uncraftingtable76.json</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

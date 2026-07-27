@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bffb392cdfd99359",
+  "content": "<p style=\"text-align:center\"><span style=\"font-size:14px\"><strong><em>现在，你终于可以在 TFC 世界中尽情欣赏荒芜的沙漠了！</em></strong></span></p>\n<p>&nbsp;</p>\n<p>你不再需要为风滚草实体（来自 <a href=\"https://www.curseforge.com/minecraft/mc-mods/tumbleweed\" target=\"_blank\" rel=\"nofollow\">Tumbleweed</a>）无法生成而感到沮丧，因为这个模组会为你处理这一切！此外，你还可以控制允许风滚草生成的有效降雨间隔，以及其他许多参数。</p>\n<p>另外，该模组默认会覆盖风滚草的物品掉落表，使其仅掉落木棍（<em>版本 <= 1.20.1</em>）。如果你希望更改风滚草的默认掉落列表，你必须从 Tumbleweed 模组本身进行配置，当然也需要在该模组的配置文件中切换覆盖选项（非常简单）。</p>\n<p>如果安装了该模组，还会增加 Weather 2 与 Tumbleweed 之间的兼容性（<em>版本 <= 1.20.1</em>）。Weather 2 的风管理器现在可以决定风滚草移动的方向，而不是使用相对固定的默认角度。对于 <em>>=1.21.1</em> 的版本，<strong>不</strong>需要安装 Tumbleweed，因为 Tumbleweed 没有推出过 1.20.1 之后的版本。适用于 >=1.21.1 的 TFC Tumbleweed 是一个独立版本。</p>\n<p><em>1.21.1</em> 版本使用包含默认战利品表的掉落机制，以及 TFC 自身的风向量地图。如果 Weather2 或其他模组修改了该风向量地图，风滚草将使用修改后的设置。Weather2 默认不会更改 TFC 的风向量地图，更不用说以任何方式支持它了（<em>这在后续可能会改变，谁知道呢？但目前它对 TFC 没有任何影响。</em>）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

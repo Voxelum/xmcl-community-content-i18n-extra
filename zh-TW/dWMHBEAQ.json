@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qyRfjrMShaY=",
-  "content": "這個模組為鞘翅添加了逼真的凝結尾跡！\n\n最初我製作了一個資源包來實現同樣的目標，但效果不盡理想，所以我決定開發一個模組！\n\n這個模組提供了許多可配置的選項，讓你可以調整尾跡的形狀和長度！\n\n豐富的自訂選項！要讓其他玩家看到其他玩家的自訂尾跡（或旋轉效果），伺服器必須安裝此模組！如果你因任何原因希望保密自己的尾跡設定，可以選擇停用將配置發送到伺服器；另外，還有一個選項可以讓其他玩家完全看不到你的尾跡（這也需要伺服器安裝模組才能生效）\n\n未安裝此模組的玩家將顯示為模組選單配置中「其他玩家的預設設定」所設定的選項。如果伺服器沒有安裝鞘翅凝結尾跡模組，你也會看到所有其他玩家使用這些預設設定。\n\n即使伺服器未安裝此模組，你仍然可以正確看到自己的尾跡，但其他玩家將無法看到它們。\n\n給資源包創作者：\n\n如果你使用EMF自訂了鞘翅模型，並希望顯示準確的尾跡，請在模型中創建名稱包含「leftWingTip」和「rightWingTip」的骨骼（可以是空的）（或者如果你不區分左右，只需使用「trailSpawner」）！\n\n![尾跡設定](https://cdn.modrinth.com/data/cached_images/23f551525cf0b16ff6363bec056d90747c788d8e_0.webp)\n\n[![合作夥伴](https://cdn.modrinth.com/data/cached_images/0e8eccbea5db606aeb255c3da4196d028a3f4d1e_0.webp)](https://billing.sparkedhost.com/aff.php?aff=3150)",
+  "bodyHash": "99452e88d5d841b5",
+  "content": "\n\n這個模組為鞘翅增添了逼真的飛行尾跡！\n\n起初我製作了一個達類似目的的資源包，但效果不夠理想，因此改為開發了這個模組！\n\n本模組提供多種可調整的選項，讓你能夠變更尾跡的形狀與長度！\n\n豐富的自訂選項！若要讓其他玩家看到你所自訂的尾跡（或是旋轉動作），伺服器上也必須安裝此模組！若你希望因任何理由保護尾跡設定隱私，可啟用選項來停止向伺服器傳送你的配置；此外還有另一個選項可讓其他玩家完全看不到你的尾跡（此功能同樣需要伺服器端安裝該模組才能生效）。\n\n未安裝此模組的玩家，會以 ModMenu 設定檔中「其他預設值」（Other's Defaults）所設定的預設參數顯示。若伺服器上沒有安裝 Elytra Contrails 模組，你也會看到所有其他玩家皆為這些預設設定。\n\n即使在未安裝此模組的伺服器上，你仍能正常看到自己的尾跡，只是其他玩家無法看見。\n\n給資源包創作者：\n\n若你使用 EMF 建立了自訂鞘翅模型，並希望尾跡能準確對應，請建立名稱中包含 \"leftWingTip\" 與 \"rightWingTip\" 的骨骼（骨骼內容可為空）；若不需區分左右，則直接使用 \"trailSpawner\" 即可！\n\n![Trail Settings](https://cdn.modrinth.com/data/cached_images/23f551525cf0b16ff6363bec056d90747c788d8e_0.webp)\n\n[![贊助](https://cdn.modrinth.com/data/cached_images/0e8eccbea5db606aeb255c3da4196d028a3f4d1e_0.webp)](https://billing.sparkedhost.com/aff.php?aff=3150)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

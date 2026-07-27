@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e88f150192335a9c",
+  "content": "<p>這個模组提供了设置，让你可以更改游戏中的几乎任何生物的攻击力度、速度、跳跃高度和缩放。</p>\n<p>&nbsp;</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fhastebin.com%252foqihuredek.pl\" rel=\"nofollow\">示例设置</a></p>\n<p>&nbsp;</p>\n<p>该模组将生成一个默认配置值的完整列表。在修改设置之前，这个模组不会做任何更改。</p>\n<p>&nbsp;</p>\n<pre>minecraft {\n    player {\n        D:armor=0.0\n        D:damage=0.0625\n        D:health=0.5\n        D:jump=0.5\n        D:reach=0.0625\n        D:scale=0.0625\n        D:speed=0.25\n        D:toughness=0.0\n    }\n}</pre>\n<p>例如，下面的配置会将玩家的大小改为与chisels-and-bits相同，包括其跳跃高度和速度。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

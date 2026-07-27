@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8d4e63f102d7114f",
+  "content": "\n\n擊殺一名玩家會永久賦予力量 I 效果\\\n再擊殺一名玩家會獲得力量 II\\\n再次擊殺則獲得力量 III\n\n被玩家擊殺會使你失去一級力量\\\n若已無力量等級卻死亡，你會獲得緩弱 I 效果\n\n`/trigger ResetStrengthLevels` 會將所有人的力量等級重置為 0。\n\n- 使用該指令時必須處於創造模式",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

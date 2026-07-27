@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f59210546a64ba00",
+  "content": "\n\n<p><strong>你需要安装 Epic Fight 作为前置。</strong></p>\n<p><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod\" target=\"_blank\" rel=\"nofollow\">Epic Fight - Minecraft 模组 - CurseForge</a></strong></p>\n<p><strong>修改 / 更新</strong></p>\n<ul>\n<li>大部分动画现在更加流畅。</li>\n<li>所有武器的连击链已提升至 5 段。</li>\n<li>新增武器：镰刀。</li>\n</ul>\n<p><strong>未来计划</strong></p>\n<ul>\n<li>添加更多武器。</li>\n<li>添加更多怪物行为。</li>\n</ul>\n<p><strong>开发者信息：</strong></p>\n<pre><code>repositories {\n\n    exclusiveContent {\n        forRepository { maven { name = \"Modrinth\"; url = \"<a href=\"/linkout?remoteUrl=https%253a%252f%252fapi.modrinth.com%252fmaven\" target=\"_blank\" rel=\"nofollow\">https://api.modrinth.com/maven</a>\" } }\n        forRepositories(fg.repository)\n        filter { includeGroup \"maven.modrinth\" }\n    }\n\n}\n\ndependencies {\n    implementation fg.deobf(\"maven.modrinth:epicfight-extra:1.1.4-mc1.20.1-forge\")\n}</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

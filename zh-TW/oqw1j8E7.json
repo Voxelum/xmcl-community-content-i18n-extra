@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1e35780627974213",
+  "content": "\n\n# Forgematica 印表機\n\nLitematica Printer 的非官方 (Neo)Forge 移植版本。\n\n此擴充功能為 Forgematica 加入列印功能。印表機可透過自動在玩家周圍放置正確的方塊，讓玩家更快速地建造大型結構。\n\n![Demo](https://raw.githubusercontent.com/aleksilassila/litematica-printer/refs/heads/master/printer_demo.gif)\n\n## 使用方法\n\n使用印表機非常直觀：預設情況下，您可以按下 `CAPS_LOCK` 來切換此功能。若要設定列印速度與範圍等參數，請按下 `M + C` 開啟 Forgematica 的設定選單，並前往「Generic」標籤頁。印表機的設定位於頁面底部。您也可以在「Hotkeys」標籤頁中重新綁定列印開關按鍵。預設按住 `V` 鍵也會進行列印，無論印表機功能目前是開啟或關閉狀態。\n\n### 黑名單方塊清單\n由於各種原因，以下方塊尚未實作，印表機將會跳過它們而非錯誤放置。若其他方塊被錯誤放置，請嘗試降低列印速度。若特定方塊仍然放置錯誤，您可以提交 Issue（問題回報）。\n\n- 研磨台\n- 放置於地面的頭顱\n- 告示牌\n- 發光地衣與藤蔓\n- 實體，包含物品框與護甲架\n\n## 伺服器使用注意事項：\n請注意，在伺服器上使用本模組可能違反伺服器規則，並可能導致您的帳號被封禁！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

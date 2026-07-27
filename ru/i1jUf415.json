@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2c2jUccF4ac=",
-  "content": "«Интеграция Server Utilities Navigator/Journeymap, но для 1.12. Предполагаю?»\n\nДополнение к VisualOres, добавляющее на карту модов оверлей «Занятый чанк» от FTB Utilities\n\nТребования: VisualOres, FTB Utilities и все их зависимости. ~~VisualOres необходимы как на клиенте, так и на сервере~~",
+  "bodyHash": "dcfb6b2a9d0b5418",
+  "content": "\"Навигатор утилит для сервера/интеграция с Journeymap, но для версии 1.12. Предполагаю?\"\n\nДополнение к VisualOres, которое добавляет наложения карты заявленных чанков из FTB Utilities в моды-карты.\n\nТребует: VisualOres и FTB Utilities, а также все его зависимости. ~~VisualOres требуется как на клиенте, так и на сервере~~",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f0245caafc382c61",
+  "content": "~~重要提示：自1.3.5版本起，许可证已从CC-BY-NC-SA-4.0更改为CC-BY-SA 4.0。~~\n\n\nOldCraftAllow\n是否怀念能够制作附魔金苹果或锁子甲？或是希望为所有类型的马匹制作马鞍和马铠？\nOldCraft旨在恢复这些已丢失的配方，并包含一些曾经存在于游戏中的新物品。\n\n### 🧱 它增加了什么内容\n此模组恢复了多个被移除或在原版游戏中无法制作的特性，包括：\n\n可制作物品：\n\n锁子甲\n附魔金马鞍\n适用于所有类型马匹的马铠\n额外物品：\n\n红宝石与红宝石矿石（游戏中已不再存在）\n无草泥土块（一种当前游戏不再自然生成的方块）\n~~类似古老地牢生成和1.14之前村庄布局等传统特性（可通过配置开关启用）~~\n等等\n\n### 🎯 为什么你可能需要此模组\n你是否怀念早期 Minecraft 版本的怀旧功能，或者只是想获得更多合成选项？此模组将一些从过往更新中移除的最佳功能带回最新版本的游戏中，让你在最新版中重温这些经典体验。\n它特别适合整合包、自定义生存世界，或任何喜爱探索 Minecraft 历史的玩家。\n\n**⚠ 兼容性说明**\n本模组可能与其他为附魔金苹果、马铠或已移除内容添加配方的模组产生冲突。若使用多个恢复旧内容的模组，请务必检查配方冲突情况。\n\n**🧩 支持版本（时间表）**\nMinecraft: 1.12.2 至 1.21.x\n\n加载器: NeoForge,Forge, Quilt,Fabric(Quilt, Fabric version 1.20.1 is the only version we plan to support!) Datapack　(Support for the Datapack version has ended!)\n**❌ 暂不支持其他模组加载器。**\n\n🔧 特性\n\n恢复经典合成配方及其他怀旧内容\n新增物品如无草泥土和红宝石\n可根据配置文件启用/禁用特性\n适合整合包且体积小巧\n持续维护，未来会添加更多内容\n\n### 📥 安装方法\n\n为你的 Minecraft 版本下载并安装 Fabric ~~NeoForge~~ 或 Forge。\n\n从 [modrinth](https://modrinth.com/mod/oldcraftallow) 页面下载模组文件。.jar\n\n将文件放入你的 Minecraft 文件夹.../mods\n\n（可选）启动游戏后，根据个人喜好调整配置文件中的设置。\n\nEnjoy the restored content!\n\n### 🐞 发现 Bug或有建议？\n如果遇到任何问题或有意见，请在 GitHub Issues 页面上提交反馈。\n感谢您的反馈和支持！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

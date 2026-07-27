@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8ee2aeff661efeb8",
+  "content": "## 隨機重生 (Forge 1.20.1)\n\n![RandomRespawns](https://cdn.modrinth.com/data/cached_images/7e584901fe38e213d888d549282fcd41395ac45b.png)\n\n## 關於\n\n此模組透過多種高度可配置的方式，讓你在 Minecraft 世界中隨機重生。\n\n以下項目可以進行配置：\n\n-避免重生時遭遇危險：重生時避開熔岩或細雪等危險地形\n\n-避免海洋：重生時避開海洋生物群系\n\n-死亡位置為起點：若啟用，重生將以你的死亡位置為基準，而非世界原點\n\n-啟用隨機重生：啟用隨機重生功能\n\n-隨機重生半徑：重生發生的半徑範圍\n\n-死亡時設定時間為零：死亡時將遊戲時間重置為 0\n\n-重生時設定天氣為晴朗：重生時將天氣設為晴朗\n\n## 重要注意事項：\n\n-此模組需要 Forge Config Screens 來進行配置\n\n-此模組僅適用於伺服器端\n\n## 致謝\n\n所有原始內容均由 [Axovoxel 和 Hamester](https://modrinth.com/organization/rosy-maple-mods) 擁有，依據 CC-BY-SA-4.0 條款發布。這是為了在 Forge 1.20.1 上運行而自行移植的模組版本。\n\n原始模組：[在此處](https://modrinth.com/mod/random-respawns)\n\n源自原始模組的內容仍遵循 CC-BY-SA-4.0 授權條款。\n\n由我創建的任何額外內容均採用 CC-BY-SA-4.0 授權。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

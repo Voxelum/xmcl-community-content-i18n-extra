@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ef4d5ee2af9a35d1",
+  "content": "\n\n# 附魔微調\n\n針對 Minecraft 附魔系統的多項微調、改進與便利性變更。\n高度可自訂的附魔系統微調設定包含：\n\n- 可移除鐵砧等級限制（「代價太高！」提示文字）\n- 可允許「互斥」附魔進行合併（例如：無限 & 經驗修復）\n- 可更改附魔允許的最高等級\n- 支援其他模組新增的附魔\n- 完整功能列表：[此處](https://github.com/kpzip/Enchanting-Tweaks/wiki/Full-Feature-List)\n\n# 安裝與使用\n\n將 `.jar` 檔案放入你的模組資料夾，然後啟動遊戲。這將會在以下位置生成設定檔：\n<br><br>`<你的 Minecraft 資料夾>/config/enchantingtweaks`\n<br><br>\n依個人喜好編輯數值，儲存檔案後重新啟動 Minecraft 即可套用變更。\n\n如需更多資訊，請參考 [維基](https://github.com/kpzip/Enchanting-Tweaks/wiki)。\n\n# 配置\n\n[配置說明文件](https://github.com/kpzip/Enchanting-Tweaks/wiki/Config)\n\n# 給開發者\n\n[讓你的模組相容！](https://github.com/kpzip/Enchanting-Tweaks/wiki/For-Developers)\n\n## 授權條款\n\n本模組採用 MIT 授權條款。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dddb33a0fbecfb7e",
+  "content": "\n\n# Откат исправления MC-129055<br/>\nВ Forge/NeoForge ошибка MC-129055 [исправлена](https://github.com/neoforged/NeoForge/blob/1.21.1/patches/net/minecraft/world/level/block/TripWireHookBlock.java.patch), из-за чего Автодубликатор нитей невозможно собрать в режиме Выживания. Данный мод откатывает это исправление, чтобы позволить создавать Автодубликатор нитей.<br/>\nДля работы Автодубликатора нитей и замены нижнего ряда обсидиана Незер-портала на нить в Forge / NeoForge требуется данный баг<br/>\nЭтот мод работает только на выделенном сервере или встроенном сервере (в одиночной игре)\n## С этим модом\n![С этим модом](https://cdn.modrinth.com/data/cached_images/df1ab2084eff4bb92d8ad2d507a80ccebce46d62.png)\n## Без этого мода\n![Без этого мода](https://cdn.modrinth.com/data/cached_images/f33d3543bb121e470f7cd879c2f3416e306f62d2.png)\n## Поддерживаемые версии\n|Версия MC|NeoForge|Forge|\n|-|-|-|\n|1.21.1|Поддерживается|Не поддерживается|\n|1.20.1|Поддерживается|Поддерживается|\n|1.19.2|       |Поддерживается|\n|1.18.2|       |Поддерживается|\n|1.16.5|       |Не поддерживается|",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fa8e5fe8168f0c03",
+  "content": "# 湿润耕地\n\n[![许可证：MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Forge](https://img.shields.io/badge/Forge-1.20.1-brightgreen)](https://files.minecraftforge.net/net/minecraftforge/forge/)\n\n一款轻量级的 Minecraft 模组，通过扩展耕地湿润时间、延迟硬化过程以及防止踩踏，改变了原版耕地的机制。\n\n## 功能特性\n\n- **扩展湿润期**：湿润的耕地会在开始变干之前保持湿润状态，持续天数可配置（默认为 4 天）。\n- **延迟硬化**：干燥的耕地在经过可配置的天数后会重新变回泥土（默认为 30 天）。\n- **作物移除**：当耕地硬化时，其上方的作物会被移除且不掉落物品（可配置）。\n- **防踩踏保护**：玩家和生物无法踩踏耕地（可配置）。\n- **可配置行为**：所有时间段和功能开关均可在配置文件中进行调整。\n\n## 下载\n\n[GitHub Releases](https://github.com/boluogiegie/forge-WetFarmland-1.20.1/releases)\n\n## 安装\n\n1. 对于 Minecraft 1.20.1，请安装 Forge；对于 Minecraft 1.21.1，请安装 NeoForge。\n2. 将模组 JAR 文件放入 `.minecraft/mods/` 文件夹中。\n3. 启动游戏。\n\n## 专用服务器\n\n1. 安装与所选版本匹配的加载器：Minecraft 1.20.1 使用 Forge，或 Minecraft 1.21.1 使用 NeoForge。\n2. 将模组 JAR 文件放入服务器的 `mods` 文件夹中。\n3. 玩家可以在客户端不安装该模组的情况下连接服务器。\n\n## 配置\n\n配置文件位于 `.minecraft/config/wetfarmland.toml`(1.20.1) 或 `.minecraft/config/wetfarmland-common.toml`(1.21.1)。\n\n```toml\n[general]\n# 耕地保持湿润的天数 (默认: 4)\nwetPeriod = 4\n# 干燥耕地硬化成泥土前的天数 (默认: 30)\nhardenPeriod = 30\n# 是否防止耕地被踩踏\nenableTrampling = true\n# 耕地硬化时是否移除上方的作物\ndestroyCropsOnHarden = true\n```\n\n## 许可证\n\nWet Farmland 根据 [MIT 许可证](LICENSE) 授权发布。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

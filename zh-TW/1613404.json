@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c1dd500ea4fc2027",
+  "content": "<h1>Alex的洞穴（1.21.1移植版）</h1>\n<p>Alex的洞穴為地表世界深處增添了六種罕見的洞穴生態系，每個生態系都擁有獨特的方塊、物品、生物和機制：磁場洞穴、原始洞穴、有毒洞穴、深淵裂隙、荒蕪空洞和糖果洞窟。</p>\n<p>找到地下小屋即可開始探索。內部寶箱中包含洞穴石板與《洞穴彙編》，這是一本遊戲內指南，涵蓋定位和探索各生態系所需的全部資訊。</p>\n<p>每個生態系都有其獨特的ambient粒子、霧氣、亮度和光照顏色。shader可能會改變或破壞這種視覺效果，因此建議在不移除shader的情況下運行此模組。</p>\n<h2>關於本移植版</h2>\n<p>這是獨立於原作的社區移植版本，基於NeoForge將<A href=\"https://www.curseforge.com/minecraft/mc-mods/alexs-caves\" target=\"_blank\" rel=\"nofollow\">Alex's Caves</a>移植至Minecraft 1.21.1。此項目與AlexModGuy或原版Alex's Caves團隊無關，也並非CurseForge上其他非官方移植版的同一項目。其存在目的是為了讓該模組能在新版本中持續使用，直至官方更新推出。</p>\n<p>原創設計、藝術素材、模型及程式碼的所有歸屬皆屬於AlexModGuy和Alex's Caves開發團隊。此外，還要感謝crabsatellite對1.21.1分支所做的諸多工作，這些工作構成了本移植版的基礎。</p>\n<p>本項目採用GPLv3授權條款，繼承自<A href=\"https://www.curseforge.com/minecraft/mc-mods/alexs-caves\" target=\"_blank\" rel=\"nofollow\">原版模組</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

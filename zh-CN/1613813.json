@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f7491a423da7cf8c",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/description/1613813/description_88e0d4b6-461f-40b3-a519-4a443b2a32b3.png\" alt=\"image\"></p>\n<h1>Lightload</h1>\n<p>Lightload 是一款面向 Minecraft 模组包的客户端启动优化模组。它能在不添加任何方块、物品或游戏内容的前提下，缩短进入主菜单所需的时间，并提升资源重载性能。</p>\n<h2>功能特性</h2>\n<ul>\n<li>提前加速 Forge 和 NeoForge 的元数据处理</li>\n<li>基于指纹的资源路径、存在性及内容缓存</li>\n<li>有界并行的资源包查找机制</li>\n<li>模型微缓存与延迟启动任务</li>\n<li>更快的纹理拼接与数据修复器初始化速度</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

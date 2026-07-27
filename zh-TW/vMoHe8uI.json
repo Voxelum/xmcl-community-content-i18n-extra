@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f6a5a11775cab99d",
+  "content": "# 简洁工具提示\n\n[![](https://img.shields.io/discord/574476444366012420?label=Discord&color=393939&labelColor=5865F2&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cwqwNx3TGE)\n[![](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dmandalacreations%26type%3Dpatrons&style=for-the-badge&color=393939&labelColor=FF424D&logoColor=FFFFFF)](https://www.patreon.com/mandalacreations)\n\n是否觉得默认的工具提示略显单调？那么这正是你所需要的。\n\n该模组主要彻底改进了附魔在工具提示中的显示方式：\n\n* 现在它们拥有独立的“附魔：”子分类\n* 使用颜色编码来区分附魔的好坏（绿色表示增益附魔，红色表示诅咒）\n* 达到最高等级的附魔将以金色显示\n* 诅咒始终排列在列表底部\n\n\n安装模组后：                                          未安装模组（原版）：\n\n![](https://cdn.modrinth.com/data/vMoHe8uI/images/c14297cb39a23c1a2a5f50d90c6d23efe681ea20.png)\n\n\n\n此外，其他部分也得到了改进：\n\n\n* 染色物品的颜色行现在会正确显示所使用的颜色\n* 受损物品会在工具提示中显示其剩余耐久度\n\n![](https://cdn.modrinth.com/data/vMoHe8uI/images/fda90f7739ffda59decfeffa64e4cb8288d852c3.png)\n\n\n\n我们对于如何进一步改进工具提示还有许多想法，这些将在未来的更新中实现。除了添加新功能外，后续更新还将增加大量的配置选项。\n\n\n![](https://i.imgur.com/4r5WLBc.png)\n![](https://i.imgur.com/fpeqHMC.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

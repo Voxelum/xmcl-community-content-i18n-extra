@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a8e6d7262958f65",
+  "content": "这是一个轻量级的奇幻着色器，旨在提供明亮、生动且富有氛围的体验，同时保留 Minecraft 的方块像素美学。\n\n### 模式\n\n**超精细 vs 轻量：** 超精细模式性能消耗较大但效果更好；轻量模式是我经过超级优化的版本，视觉效果极佳且能保持顶级的性能表现。\n\n### 手动安装\n\n**1.** 下载模组并解压\n\n**2.** 安装 Iris\n\n**3.** 将下载内容中的文件放入你的 \"shaderpacks\" 文件夹中（如果该文件夹不存在，请创建一个）\n\n**4.** 启动游戏并享受吧！\n\n**注意：** 建议手动安装，以便你可以选择想要的确切着色器版本（轻量版或超精细版）。默认情况下会自动安装“轻量”版本。如果你想要的正是这个版本，则忽略此消息。\n\n### 其他版本\n\n- [奇幻版](https://modrinth.com/shader/hyshaders-fantasy) | 充满活力、明亮且富有氛围的美学风格。\n\n- [原版版](https://modrinth.com/shader/hyshaders-vanilla-edition) | 类似原版 Minecraft 的美学风格。\n\n- [恐怖版](https://modrinth.com/shader/hyshaders-horror) | 恐怖、乡村或中世纪的美学风格。\n\n### 致谢与许可\n\nMod 包：是的，你可以在你的 Mod 包中使用此着色器。\n\n此为 [BSL](https://capttatsu.com/bslshaders/) 的衍生版本，已获得原作者许可 _(于 2024 年 7 月 11 日通过 X 私信授予)_。针对更好的性能、不同的美学风格和色彩分级进行了调整。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

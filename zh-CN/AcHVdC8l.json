@@ -1,6 +1,6 @@
 {
-  "bodyHash": "/a2Vl/AhQf0=",
-  "content": "![模组图标](https://cdn.modrinth.com/data/cached_images/0c44eb90dddc9b1c743464597661166528740198.png)\n# 语音聊天玩家名称显示\n\n语音聊天玩家名称显示功能可在玩家处于你的简易语音聊天群组时，在他们的头部旁边显示其名称。\n该模组高度可定制，并与 ModMenu 集成，使所有设置易于查看和调整。\n\n### 示例\n![请在此处添加描述](https://cdn.modrinth.com/data/cached_images/ce18c815311e4cf4ead834c3eded0a8bd956fd2d.png)\n\n# 功能特点\n- 当玩家在语音聊天群组中时，在其头部上方显示玩家名称\n- 与 ModMenu 无缝集成，便于可视化设置\n- 轻量级设计，兼容大多数其他模组\n\n# 依赖项\n请确保已安装以下模组：\n- ModMenu\n- Cloth Config API\n- Simple Voice Chat",
+  "bodyHash": "1a96ef7d5d60ad59",
+  "content": "\n\n![模组图标](https://cdn.modrinth.com/data/cached_images/0c44eb90dddc9b1c743464597661166528740198.png)\n# VoiceChat 玩家名称\n\nVoiceChat 玩家名称会在你处于 Simple Voice Chat 语音组时，在玩家头像旁显示其名称。\n该模组高度可定制，并与 ModMenu 集成，方便查看和调整所有设置。\n\n### 示例\n![请替换为描述](https://cdn.modrinth.com/data/cached_images/ce18c815311e4cf4ead834c3eded0a8bd956fd2d.png)\n\n# 特性\n- 在语音聊天组中时，会在玩家头像旁显示其名称\n- 与 ModMenu 无缝集成，提供可视化的设置界面\n- 轻量级，与大多数其他模组兼容\n\n# 依赖项\n请确保已安装以下模组：\n- ModMenu\n- Cloth Config API / YAC\n- Simple Voice Chat",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

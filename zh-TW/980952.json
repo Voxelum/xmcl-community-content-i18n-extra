@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8fd278f42fdf2de",
+  "content": "<p><img src=\"https://cdn.modrinth.com/data/cached_images/45d1883366b2b2edd1639d6905186389532ac1cb.png\" alt=\"一隻在混合森林生物群落中睡覺的狐狸\"></p>\n<h2>關於</h2>\n<p><strong>Wilderness</strong> 是一個旨在改善遊戲中森林和其他野生區域的模組。\n該模組的目標並非改變原版森林生物群落，而是添加新的生物群落以增加多樣性。</p>\n<h2>功能（目前已實現）</h2>\n<ul>\n<li><strong>老生林</strong> - 一種罕見的森林變體，長有被苔蘚覆蓋的高大橡木樹</li>\n<li><strong>混合林</strong> - 同時擁有橡木和雲杉樹，通常生成於泰加林和森林之間</li>\n<li><strong>倒下的樹木</strong></li>\n</ul>\n<h2>依賴項</h2>\n<ul>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252farchitectury-api\" rel=\"nofollow\">Architectury API</a></li>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fterrablender\" rel=\"nofollow\">Terrablender</a></li>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ffabric-api\" rel=\"nofollow\">Fabric API</a>（僅限 Fabric 版本）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

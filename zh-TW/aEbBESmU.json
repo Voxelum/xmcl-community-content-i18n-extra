@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3572f52d6352d63b",
+  "content": "\n\n用於輕鬆實現 SuperbWarfare 載具著色的程式庫。\n\nColorableLib 是一款專為 SuperbWarfare 擴充套件所設計的輕量級程式庫。ColorableLib 基於 Capability 機制，實作了管理引擎與自動的伺服器 - 客戶端同步功能，並改寫了 SuperbWarfare 的載具渲染器。\n\n\n```java\nimport colorable.capability.EntityColorCapability;\nimport net.minecraft.world.entity.Entity;\n\n/**\n * ColorableLib API 的範例用法。\n */\npublic class ColorableExample {\n\n    /**\n     * 示範如何操作實體的顏色層。\n     * \n     * @param targetEntity 要著色的實體（必須支援此 Capability）。\n     * @param color        顏色值，採用十進位或十六進位格式（例如：0xFF0000 代表紅色）。\n     */\n    public void exampleMethod(Entity targetEntity, int color) {\n        // 取得目標實體的顏色 Capability\n        targetEntity.getCapability(EntityColorCapability.CAPABILITY).ifPresent(cap -> {\n            if (!targetEntity.level().isClientSide) {\n                \n                // 新增或更新指定的顏色層\n                cap.setLayer(targetEntity, \"example_id\", color);\n\n                // 移除指定的顏色層\n                cap.removeLayer(targetEntity, \"example_id\");\n            }\n        });\n    }\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

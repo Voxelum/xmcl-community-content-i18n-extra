@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d8099914a20aa17",
+  "content": "<p>Относительно небольший мод-патч на основе Mixin, который позволяет силам Forge корректно аннулироваться в конце своего жизненного цикла в <a href=\"https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2\" rel=\"nofollow\">Applied Energistics 2</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected\" rel=\"nofollow\">Powah!</a>. Это исправляет взаимодействия между AE2 и определенными модами, которые отказываются слушать обновления соседних блоков в качестве экстренной меры.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8e684cd51e701ba",
+  "content": "<a href=\"https://discord.gg/UmbU38vg2r\" target=\"_blank\">\n  \n![Discord](https://cdn.modrinth.com/data/cached_images/fea069d8ae28ec12757df4d91193406cfe4e38dd.png)\n\n</a>\n\n> Этот мод добавляет улучшенный способ борьбы с заражением зомби из мода \"[The Hordes](https://modrinth.com/mod/the-hordes)\". \n> С этим модом вам придется сначала скрафтить шприц, а затем изготовить вакцину. Обязательно следуйте руководству внизу, чтобы правильно настроить все.\n\n# ШПРИЦ\n![SYRINGE](https://cdn.modrinth.com/data/cached_images/a63f20ea729986369ec36b0b9a719944fdbbab2b.png)\n \n# ВАКЦИНА\n![VACCINE](https://cdn.modrinth.com/data/cached_images/836bc9d71555aa8c881ffd76ef78cfa4b1028613.png)\n\n# РУКОВОДСТВО\n\n> Чтобы использовать этот мод, сначала необходимо правильно настроить конфигурацию для мода \"Hordes\".\n\n> Перейдите к файлу \"infection_cures.json\", показанному на скриншоте ниже.\n> \n![guide](https://cdn.modrinth.com/data/cached_images/069d0cfb610705b31190cfe85afdf199abafb130.png)\n\n> Код внутри должен выглядеть следующим образом:\n> \n![code](https://cdn.modrinth.com/data/cached_images/f8dede1fb464f51f2223926b9634c6e1d53203b7.png)\n\n\n```\n{\n  \"replace\": false,\n  \"values\": [\n    \"annoyvaccine:vaccine\"\n  ]\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

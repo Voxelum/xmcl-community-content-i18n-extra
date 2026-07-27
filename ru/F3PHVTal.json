@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7139dc2e2187ab96",
+  "content": "\n\n> ### ❗ Важно\n> \n> Этот мод не будет поддерживаться после версии 1.20.2, поскольку в 1.20.3 появилась внутриигровая команда /Tick: [https://minecraft.wiki/w/commands/tick](https://minecraft.wiki/w/commands/tick)\n\n### Известные несовместимости\nЭтот мод не работает с [Citadel](https://modrinth.com/mod/citadel) начиная с версии Citadel 2.0, так как Citadel также изменяет скорость тиков.\n\n***\n\nЭтот мод сильно вдохновлён модом для 1.12.2 [Tickrate Changer](https://www.curseforge.com/minecraft/mc-mods/tickratechanger) от [Guichaguri](https://www.curseforge.com/members/guichaguri/projects)\n\nЯ не связан с ним; мне просто понравился его отличный мод, поэтому я портировал его на новые версии.\n\nВозможности:\n\n* Позволяет изменить скорость тиков сервера\n* Позволяет изменить скорость тиков клиента\n* Синхронизирует скорость тиков между сервером и клиентами\n\nКоманды:\n\n/tickrate _[тики в секунду]_ — изменяет скорость тиков сервера и клиента\n\n[Полный список команд](https://github.com/Madgique/tickrate_changer_rezurrection/wiki/Commands)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4f06eda77b05620d",
+  "content": "\n\nнебольшая доработка на основе [Daybreak](https://modrinth.com/shader/daybreak-shader)\n\nЧто добавляет этот шейдер?\n\n- тени в реальном времени (настройка только в shadowfrag.glsl)\n\n- поддержка PBR (отражения материалов/блоков и др.)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fa7026ffe91bbba2",
+  "content": "# **清除第一人稱視角粒子**\n\n**_厭倦了在戰鬥中，暴擊和藥水粒子遮擋你的視線嗎？_**\n\nClear First Person 透過隱藏遮擋螢幕的骯髒粒子來改善第一人稱視角的能見度，這些粒子會導致你在 PvP 對戰中落敗。此模組減少了視覺雜訊，幫助你專注於 PvP 戰鬥，同時不會移除遠處發生的重要特效。\n\n## **功能特色**\n隱藏近距離的暴擊粒子\n隱藏近距離的藥水粒子\n僅影響第一人稱視角\n輕量級且效能友好\n專為 PvP 玩家設計\n新增自訂設定功能\n### **支援版本**\nMinecraft 1.21.x\nFabric Loader\n### **依賴項目** \n* Mod-Menu\n* Yet Another Configuration Library (YACL) **(僅限 v1.1.0)**\n## **作者**\n\nDevilVashi\n\n## **授權條款**\n\n保留所有權利",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "198b77f233957dc7",
+  "content": "# Ra's Rays\n\n这是一个服务端模组，通过区块显示实体和 Polymer 为游戏添加了轨道打击炮。\n\n> 本模组深受 Cymaera 的 SkyTorch 启发，如果没有他，本模组就不会存在。查看他的相关视频 [这里](https://www.youtube.com/watch?v=OKXTGbp6AMk)\n\n![Ra's Rays 的破坏力](https://cdn.modrinth.com/data/cached_images/12f08aab64f84f380bae658fc39233b150ceb66e.png)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/4iZvyrFI8CA\" title=\"YouTube 视频播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n加入我的 [Discord](https://discord.com/invite/faPd8MQ3Ke) 获取更多信息\n\n## 安装\n1. 从 [发布页面](https://github.com/TheCymaera/minecraft-sky-torch/releases/) 下载 JAR 文件。\n2. 设置一个 [Fabric](https://fabricmc.net/use/server/) 服务器。（说明见下文）\n3. 将 JAR 文件添加到 `mods` 文件夹中。\n4. 按照 Fabric 页面上的说明启动你的服务器。\n5. 使用 `localhost` 作为 IP 地址加入服务器。\n\n## 命令\n自动补全将显示可用选项。\n```\n# 获取物品\n/polymer creative\n\n# 或者使用 /give\n/give rarays:ra_ray_spawner\n```\n\n## 开发\n1. 克隆或下载代码库。\n2. 运行 gradlew `build` 以构建插件。生成的 JAR 文件将位于 `build/libs` 文件夹中。（请确保选择名称中不包含 sources 的那个）\n3. 进行修改\n4. 如果你想贡献代码，请在我的仓库提交 PR\n\n## 错误反馈或支持\n如需支持，你可以加入我的 Discord：https://discord.com/faPd8MQ3Ke\n\n## 许可证\nCopyright IDoTheHax (c) 2024",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

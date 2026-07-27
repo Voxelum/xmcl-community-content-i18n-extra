@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3069b5caec2c9319",
+  "content": "\n\n# 420HUD\n\n一款現代化的 Fabric 客戶端模組，內建 33+ 個可自訂 HUD 模組，為您的遊戲體驗帶來全新升級。\n\n## ✨ 功能特色\n\n- **33+ 模組** - FPS 計數器、座標顯示、護甲 HUD、按鍵顯示、CPS、連擊計數器、延遲顯示、速度計、背包預覽，以及更多功能\n- **可拖曳的 HUD 編輯器** - 按下 H 鍵即可自由移動畫面上的任何 HUD 元素\n- **現代化 ClickGUI** - 按下右 Shift 鍵開啟簡約的配置選單\n- **3 種主題** - 海軍藍、深色與淺色配色方案\n- **多語言支援** - 完整支援英文與西班牙文\n- **輕量級** - 可完美搭配 Sodium、Iris、Lithium 及其他優化模組使用\n\n## 🎮 預設快捷鍵\n\n| 按鍵 | 功能 |\n|------|------|\n| 右 Shift | 開啟 ClickGUI |\n| H | 開啟 HUD 編輯器 |\n| C | 縮放 |\n\n## 📦 需求\n\n- Fabric Loader\n- Fabric API\n\n## 🎨 模組分類\n\n**HUD** - FPS、座標、護甲、按鍵顯示、CPS、連擊計數器、延遲、速度、背包、藥水效果、伺服器資訊、資源包顯示、方向、攻擊距離顯示\n\n**渲染** - 全亮模式、時間變更、自訂準心、受傷鏡頭穩定、手持武器模型、弱火光照、方塊覆蓋層、傷害指示器、碰撞箱編輯器\n\n**實用** - 縮放、通知、自動文字、GUI 設定\n\n**玩家** - 衝刺、切換蹲下\n\n## 💡 使用提示\n\n- 所有 HUD 元素均可拖曳至畫面上的任意位置\n- 每個模組皆有獨立設定，可透過 ClickGUI 進行調整\n- 相容於大多數 Fabric 模組\n\n---\n\n**由 420Dev 製作**![HUD](https://cdn.modrinth.com/data/cached_images/f38692fb8febcb3666c60624821cfa00ca7577e1_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

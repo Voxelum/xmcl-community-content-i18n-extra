@@ -1,0 +1,6 @@
+{
+  "bodyHash": "119d28d649100730",
+  "content": "# CrashPatch\n\n<img src=\"https://wsrv.nl/?url=https%3A%2F%2Fpolyfrost.org%2Fimg%2Fcompact_vector.svg&n=-1&w=1000\" width=56 /> ![Dev Workflow Status](https://img.shields.io/github/v/release/Polyfrost/CrashPatch.svg?style=for-the-badge&color=1452cc&label=release)\n\n### 防止崩溃导致游戏关闭！\n\nCrashPatch 是 BetterCrashes（Minecraft 1.7.10）的移植版本，而 BetterCrashes 本身又是 VanillaFix（Minecraft 1.12.2）的移植版本。\n\nCrashPatch 本质上是用 try-catch 块包裹了游戏进程，从而在发生错误（即崩溃）时阻止游戏关闭。\n\n当 CrashPatch 检测到崩溃时，它会显示一个屏幕，允许你选择返回继续游戏、查找崩溃解决方案，或打开/上传崩溃日志。\n\n如果 Minecraft 在加载或初始化游戏时崩溃，将无法恢复游戏状态，但你仍然可以查看可能的解决方案以及打开和上传崩溃日志。\n\n可修改的选项包括：\n- 是否在启动或游戏过程中捕获崩溃\n- 显示断开连接的原因\n- 强制关闭前的崩溃次数限制\n- 是否对崩溃日志进行去混淆处理\n- 日志上传的位置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

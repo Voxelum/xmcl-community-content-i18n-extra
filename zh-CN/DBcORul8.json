@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5314e74a62084787",
+  "content": "Wiki Zoomer 是一个非常小的模组，旨在帮助提升模组化 Minecraft 维基的质量。该模组仅添加了 3 个新内容：\n\n物品展示台 (Item Zoomer)：\n\n ![物品展示台](https://i.imgur.com/QIi0cfo.png)\n\n这个展示台由平滑石头、圆石和一颗钻石合成，可以将右键点击其上的任何物品显示在展示台上方，且不会消失。当手持物品对正在显示物品的展示台进行Shift+右键点击时，将打开一个 GUI 界面，以等距视角渲染该物品。\n\n生物展示台 (Entity Zoomer)：\n\n![生物展示台](https://i.imgur.com/e38sWin.png)\n\n这个展示台由平滑石头、圆石和一颗绿宝石合成，用于显示和渲染任何活体生物。使用方法如下：首先合成一个“生物信息卡”（Entity Info），然后手持该物品右键点击目标生物。接着，使用“生物信息卡”右键点击展示台以绑定该生物。若要取消绑定，再次右键点击即可。按住 Shift 并右键点击将打开一个 GUI 界面，以等距视角渲染选定的生物。\n\n生物信息卡 (Entity Info)：\n\n![生物信息卡](https://i.imgur.com/hl6IVYy.png)\n\n该物品由紫色染料、纸张和骨头合成，可用于右键点击任意生物以将其绑定。绑定成功后，物品外观如下所示：\n\n![生物信息卡 2](https://i.imgur.com/uHPIS70.png)\n\n绑定后的“生物信息卡”可用于生物展示台，以设置要渲染的生物。\n\n生物/物品展示台 GUI 界面：\n\n![GUI界面](https://i.imgur.com/TTsjvzl.png)\n\n当对物品展示台或生物展示台进行 Shift+右键点击时，会打开一个 GUI 界面，允许用户截取所选生物、方块或物品的等距视角截图。界面中包含一个缩放滑块，可用于调整大小，同时还提供绿幕选项。\n\n上述所有截图均使用该模组的展示台方块拍摄。以下是几个方块和生物的画廊，展示了符合 Wiki 质量的等距视角渲染效果。\n\n![示例](https://i.imgur.com/HTiHsuW.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

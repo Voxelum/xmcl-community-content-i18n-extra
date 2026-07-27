@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71d39d432901611e",
+  "content": "\n\n[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4DZF4D)\n\n<img src=\"https://raw.githubusercontent.com/MrNavaStar/EasyEula/master/common/src/main/resources/assets/easyeula/icon.png\" width=\"300\" height=\"300\">\n\n# Easy Eula\nНебольшой мод для Minecraft, позволяющий принять EULA Minecraft в консоли вместо перезапуска сервера!\n\n# Для разработчиков\nВы можете добавить этот мод в файл build.gradle вашего проекта для удобства при разработке с серверами Minecraft.\n```gradle\nrepositories {\n    maven { url \"https://api.modrinth.com/maven\" }\n}\n\ndependencies {\n  modImplementation(\"maven.modrinth:easy-eula:1.1.0-fabric\") // Или -forge\n}\n```\n\n\nЕсли требуется дополнительная функциональность, EULA также может быть принята в коде следующим образом:\n```java\nEasyEula.acceptEula();\n```\nЭто особенно полезно для тестовых модов, работающих в автоматизированных средах.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

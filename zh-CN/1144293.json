@@ -1,0 +1,6 @@
+{
+  "bodyHash": "47705558305d6206",
+  "content": "<html><body>\n<p></p> \n <p>本模组将原版Herobrine目击世界带入现代Minecraft版本。</p> \n <p></p> \n <p>请从下载列表中下载对应版本的世界文件，解压文件夹并将其移动至 %appdata% &gt; .minecraft &gt; saves 路径</p> \n <p></p> \n <p>启动游戏并加载世界，玩家初始位置默认位于原截图拍摄坐标处。若玩家位置重置至出生点，可返回该坐标</p> \n <p>坐标: X=5.16 Y=71 Z=-298.53</p> \n <p>相机角度: RX=93.75 RY=-1.2</p> \n <p></p> \n <p>注意:</p> \n <ol> <li>世界已最小化迁移，但仍可能存在部分损坏。高于Beta 1.7.3或Release 1.0.0版本的区块将根据现代地形生成逻辑转换为新区块。</li> <li>部分第三方渲染模组可能导致区块加载异常或直接崩溃，建议谨慎使用或配合辅助模组</li> <li>我本人不建议使用Shader包，尤其在发布版中</li> <li>可使用环境类模组实现Alpha雾效与视觉美化效果</li> <li>如需生成旧版区块，请下载Release 1.0.0版本生成后再导入新版游戏</li> </ol> \n <p></p> \n <p>加载顺序:</p> \n <p>Release 1.0 ➡ Release 1.2 ➡ Release 1.8.9 ➡ Release 1.12.2</p> \n <p></p> \n <p>无需担心转换旧世界导致的区块 corruption，即可与好友畅玩世界。</p> \n </html>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

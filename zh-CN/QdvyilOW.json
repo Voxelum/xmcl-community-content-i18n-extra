@@ -1,6 +1,6 @@
 {
-  "bodyHash": "yuMR6j/R/eU=",
-  "content": "## 描述\n\n这是 [Language Reload](https://modrinth.com/mod/language-reload) 的非官方 NeoForge 移植版，致力于保留原模组的所有功能并确保兼容性。\n\nLanguage Reload 是一个为 Fabric 设计的模组，增加了与语言相关的生活质量改进功能。\n\n### 功能特性\n\n* 快速切换语言，无需重载资源包\n* 语言菜单中的搜索框\n* 多语言选择（每种语言的翻译会覆盖其下方语言的翻译内容）\n* 多语言物品搜索（可在创造模式物品栏和配方书中使用任意已选语言进行搜索。此功能可通过 Mod Menu 或直接编辑模组配置文件中的选项来禁用）\n* 若 options.txt 中未设置 \"lang:\" 字段，则自动检测语言\n* 使用 F3 + J 重载语言，使用 Shift + F3 + J 循环切换语言\n\n### 开发计划\n\n我会尽力保持与原版模组版本的同步，请耐心等待。\n\n### 兼容性\n\n#### Modern UI\n\n打开 Modern UI 配置界面，在文本布局部分禁用“使用文本组件缓存”选项。",
+  "bodyHash": "ac8c216bce103961",
+  "content": "\n\n## 描述\n\n这是 [Language Reload](https://modrinth.com/mod/language-reload) 的非官方 NeoForge 移植版本，致力于保留原版模组的所有功能并确保兼容性。\n\nLanguage Reload 是一款 Fabric 模组，为语言相关设置带来了便利性改进。\n\n### 功能特性\n\n* 快速切换语言，无需重新加载资源包\n* 语言菜单中提供搜索框\n* 支持多语言选择（每种语言的翻译将覆盖其下方语言的翻译。）\n* 多语言物品搜索（允许在创造模式物品栏和合成书中使用已选语言进行搜索。此功能可通过 Mod Menu 进入的模组选项或直接修改模组配置文件来禁用。）\n* 若 options.txt 中不存在 “lang:” 配置项，则自动检测语言\n* 按 F3 + J 重载语言，按 Shift + F3 + J 循环切换语言\n\n### 开发说明\n\n我会尽力保持与原版模组的版本同步，请耐心等待。\n\n### 兼容性\n\n#### Modern UI\n\n打开 Modern UI 的配置界面，在“文本布局”（Text Layout）部分中禁用“使用文本组件缓存”（Use Text Component Cache）选项。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9eeafb906cc09e75",
+  "content": "\n\n为支持尽可能多的 Minecraft 版本，本模组使通常固定不变的键位映射变得可以重新绑定。这是一个客户端模组。\n\n例如，你可以在游戏内重新映射 Escape 和 F3 键，即使在 F3 尚未支持重新绑定的早期版本中也能实现。此外，还为 Shift、Control、Alt 以及用于在性能分析饼图中切换的数字键添加了重新绑定选项。同时，还会将部分键位映射向后移植到更早的游戏版本中，例如允许重新绑定 F5 或快捷栏槽位按键。\n\n对于 Minecraft 1.14 及更高版本，本模组使用 [Fabric](https://fabricmc.net/)，并需要 [Fabric API](https://modrinth.com/mod/fabric-api) 才能运行。\n对于 beta 1.0 至 release 1.13 版本，本模组使用结合 Fabric 的 [Ornithe](https://ornithemc.net/)，并需要 [Ornithe Standard Libraries](https://modrinth.com/mod/osl) 才能运行。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

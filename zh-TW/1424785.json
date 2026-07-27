@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d57afdec5d3904ec",
+  "content": "<p>為 <a href=\"https://www.curseforge.com/minecraft/modpacks/society-sunlit-valley\" target=\"_blank\" rel=\"nofollow\">Society: Sunlit Valley</a> 打造的整合包模組，包含遊戲資產以及無法透過 Kubejs 實現的任何整合包專屬調整（例如 mixins）。雖然此模組主要設計用於該整合包，但您也可以在其它環境中使用它！</p>\n<p><strong>現有的 mixins</strong></p>\n<ul>\n<li>PerfectPlushies 修復：<a href=\"https://github.com/SirJain0/PerfectPlushies/issues/12\" target=\"_blank\" rel=\"nofollow\">https://github.com/SirJain0/PerfectPlushies/issues/12</a></li>\n</ul>\n<p><strong>計畫中的 mixins</strong></p>\n<ul>\n<li>Serene Seasons - 永恆春季/秋季生物羣落標籤</li>\n<li>Create Numismatics - 修復銀行帳戶溢位問題</li>\n<li>水結冰（待定）</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

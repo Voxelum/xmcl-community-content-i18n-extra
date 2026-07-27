@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2232c87190b24743",
+  "content": "[**凋灵生成修复**](https://modrinth.com/mod/wither-spawn-fix) 模组解决了一个常见问题：小方块（如雪层、按钮、地毯和植物）会干扰凋灵祭坛，阻止其生成。\n然而，原始修复版与 [**凋灵生成动画**](https://modrinth.com/mod/wither-spawn-animation) 不兼容，同时使用两者会导致动画完全失效。\n\n本模组解决了这一问题。\n**凋灵生成修复 W.S.A. 兼容版** 让您在启用生成修复的同时，也能保留凋灵祭坛的动画效果。\n\n<img src=\"https://media.forgecdn.net/attachments/description/1382208/description_186bf1a2-3ec6-4b26-8e30-9524ab489e1a.gif\" alt=\"Wither Spawn Animation working with Wither Spawn Fix\" width=\"476\" height=\"268\">\n\n_兼容以下方块：_\n\n- 按钮\n- 蜡烛\n- 地毯\n- 雪层\n- 小型植物和花朵\n- 花盆\n- 以及更多...\n\n_此模组需要：_\n\n- _必须安装 [**凋灵生成动画**](https://modrinth.com/mod/wither-spawn-animation)_\n- _不能安装 [**凋灵生成修复**](https://modrinth.com/mod/wither-spawn-fix)_\n\n[CurseForge](https://www.curseforge.com/minecraft/mc-mods/wither-spawn-fix-wsa-compatible)\n\n<br>\n\n<a href=\"https://discord.gg/eFjWWvNphY\"><img src=\"https://i.imgur.com/ITIIVc1.jpeg\" alt=\"Discord invite\" width=\"358\"></a>\n\n<a href=\"https://www.patreon.com/c/boboMCmods\"><img src=\"https://i.imgur.com/1EGs51Y.png\" alt=\"patreon link to support me\" width=\"360\"></a>\n\n<a href=\"https://ko-fi.com/bo_bo\"><img src=\"https://i.imgur.com/J5FW8zh.png\" alt=\"ko-fi link to donate\" width=\"366\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

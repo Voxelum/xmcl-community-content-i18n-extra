@@ -1,0 +1,6 @@
+{
+  "bodyHash": "37cc5741e6e46721",
+  "content": "\n\n[![火箭節點橫幅](https://cdn.modrinth.com/data/cached_images/3008c781a7053a397f4ab99a8423285fdb1783af_0.webp)](https://rocketnode.com/frankv)\n\n---\n\n此模組解決了這樣的問題：即使你身處安全之地，卻因為有生物潛伏在基地下方的洞穴裡、牆壁外或屋頂上，導致你無法入睡。\n\n一般來說，若「怪物」位於你的床水平方向 8 個方塊內、垂直方向 5 個方塊內，系統會顯示「現在還不能休息，附近有怪物」。這會讓你無法睡覺，直到怪物離開或被擊殺為止。\n\n這表示如果怪物在基地外面，而你的床又緊貼牆壁，你就沒辦法入睡。\n\n為了解決這個問題，此模組會對範圍內的生物進行額外的判定，讓你在它們無法鎖定你的情況下也能安心入睡。\n\n這是一個伺服器端模組，除非你在單人模式中使用，否則不需要安裝在客戶端即可運作。\n\n![](https://I.imgur.com/UHEcsEi.gif)\n\n---\n\n[![抱歉，但我真的很需要那些帥氣的錢](https://www.bisecthosting.com/partners/custom-banners/04c26dd8-c4e1-46b5-8681-e491675d41da.webp)](https://bisecthosting.com/frankV)\n\n---\n\n**我與 RocketNode Hosting 合作了！**\n\nRocketNode 提供全球頂級的伺服器託管服務，讓你只需幾下點擊就能架設伺服器！直覺化的管理後台讓伺服器管理變得輕鬆自如，你甚至可以設定自動重啟排程，完全不需要任何程式碼知識。\n\n使用優惠碼 FRANKV，可在他們任何遊戲伺服器上享受首月八折優惠。立即前往：https://rocketnode.com/frankv",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

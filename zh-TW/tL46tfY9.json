@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4379164daf68db33",
+  "content": "<details>\n<summary>4.5.0 编辑</summary>\n\n```\n/h-ely debug\n- 启用调试消息\n/h-ely open\n- 打开配置文件\n/h-ely save\n- 重新加载配置（除非使用 open 命令进行了编辑，否则不需要此操作）\n/h-ely glide [off/delayed/on]\n- 设置滑翔停止优化的每服务器状态\n/h-ely rocket [off/delayed/on]\n- 设置火箭加速优化的每服务器状态\n/h-ely pivot [0.0<=输入<1.8)\n- 调整枢轴点\n/h-ely offset [0.0<=输入<0.6)\n- 调整垂直偏移量\n/h-ely instaGlide\n- 移除进入滑翔动画的过程（从站立状态到滑翔动画）\n```\n\n</details>\n\n**它有什么作用？**\n- 一项优化功能，修复了一个长期存在的漏洞：脱下鞘翅并不会让你停止飞行。\n\n**这被允许吗？**\n- 几乎在所有地方都被允许，但请在任何未列入此列表或未明确允许使用的服务器上使用之前先进行咨询。\n\n**如何使用？**\n- 放入你的 Minecraft 模组文件夹中\n- 确保已安装 Fabric API\n\n**兼容性**\n- 应与任何不修改鞘翅功能的模组兼容。对于允许玩家飞行的模组物品可能会有问题，因为它不允许你在未穿戴鞘翅时滑翔。\n\n**联系我：**\n- 任何问题、疑问或帮助：\nhttps://discord.gg/4ta7pM4bnr\n如果在 Discord 中遇到任何问题，请告诉我！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

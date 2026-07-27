@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c4d775ff9c2c54e4",
+  "content": "我开发了这款相对简单的服务端背包模组，并认为其他服务器可能也感兴趣！该模组仍处于早期阶段，如果您遇到任何问题，请告诉我！\n\n<p><a title=\"Fabric Language Kotlin\" href=\"https://modrinth.com/mod/fabric-language-kotlin\" target=\"_blank\" rel=\"noopener noreferrer\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/c1DH9VL.png\" alt=\"\" width=\"171\" height=\"50\" /></a></p>\n\n背包模组允许用户随时随地存储数据，并与拥有相同 ID 背包的其他人同时使用这些数据。\n\n**权限节点<br>**\n`pebbles.admin`: 用于所有管理员背包命令。普通玩家没有可用的命令，因为背包是物理物品。\n<br>\n<br>\n**命令：<br>**\n`/padmin bp create TIER PLAYERNAME`: 为特定玩家创建背包。等级包括：`leather (3x3), copper (9x2), iron (9x3), gold (9x4), diamond (9x5), netherite (9x6)` <br>\n<br>\n特别感谢 Minecraft-heads 提供这些皮肤：https://minecraft-heads.com/<br>\n<br>\n`/padmin bp ID`: 查看具有特定 ID 的背包<br>\n`/padmin bp get ID`: 获取一个可以与他人同时使用的背包副本。非常适合想要共享库存的玩家<br>\n \n背包数据存储在 `/world/pebbles_backpacks.json` 中\n\n当前限制：\n- 无法在背包内右键拖拽物品。\n- 背包所有者名称尚未正确存储（仍可通过背包 ID 访问）\n- 仍有少量优化正在进行",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

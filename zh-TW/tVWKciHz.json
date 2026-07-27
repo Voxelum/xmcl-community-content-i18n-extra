@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5734210bf3bc1432",
+  "content": "主要為 blue-archive-halo 提供支援，亦能獨立運作。讓信標在渲染距離外仍可顯示。\n\n增加信標的有效範圍。半徑為等級*50+100 格，且無垂直限制。即使超出視距範圍也能正常運作。\n\n與 Distant Horizons 相容良好。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

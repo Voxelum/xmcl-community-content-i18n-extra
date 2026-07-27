@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4921d361aa522fbb",
+  "content": "StructureBlock — это мод, который позволит вам защитить структуры.<br>\n\nДобавив идентификаторы структур в файл конфигурации, вы можете решить, разрешено ли разрушение или установка блоков внутри структуры. Вы также можете использовать подстановочные знаки для блокировки действий в нескольких структурах одновременно. Например, ID для деревни равнин — `minecraft:village_plains`. Однако, если вы хотите защитить все варианты деревень, вы можете просто заблокировать `minecraft:village_*`.<br>\n\nМод должен быть установлен только на сервере, чтобы работать, но вы также можете установить его на стороне клиента для одиночных миров.<br>\nПосетите нашу страницу [начало работы](https://github.com/WouterB15/StructureBlock/wiki#getting-started) для получения дополнительной информации.\n\nМы запланировали некоторые дополнительные функции, о которых вы можете узнать больше [здесь](https://github.com/WouterB15/StructureBlock/wiki/Design-Document).<br>\n\n<img src=\"https://cdn.modrinth.com/data/cached_images/8bd6d7ff822dc33ffb55af6cc0c7062cec53e9e3.png\"\nwidth=150>\n\n\n[![Баннер Blunthorn](https://cdn.modrinth.com/data/cached_images/33bd81aa6ae82fa38ca94fa6bcfc55562920de23.png)](https://discord.gg/8z63AhuDZg)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

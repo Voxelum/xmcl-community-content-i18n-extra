@@ -1,0 +1,6 @@
+{
+  "bodyHash": "665e7724a20208af",
+  "content": "# Xray -orevision\n> Xray -orevision 适用于 Fabric 1.21.1 的客户端模组\n\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Release-v1.0.1-blue?style=for-the-badge\" alt=\"Release\">\n  <img src=\"https://img.shields.io/badge/Minecraft-1.21.1-62B461?style=for-the-badge&logo=minecraft\" alt=\"Minecraft\">\n</p>\n\n---\n\n## 免责声明\n使用本模组的风险由您自行承担。开发者不对因使用本模组而导致的任何服务器封禁或处罚负责。\n\n---\n\n## 概述\nXray -orevision 是一款高性能客户端工具，旨在提供地下方块的高清视觉透明度，突出显示珍贵的矿石和资源。\n\n## 功能特性 \n\n| 功能 | 描述 | 技术实现层 |\n| :--- | :--- | :--- |\n| **动态透视** | 可切换的所有常见地形方块透明化。 | Mixin 注入 |\n| **集成光照** | 内置光照贴图覆盖（全亮模式）。 | 纹理管理器挂钩 |\n| **隐匿引擎** | 欺骗资源包接受机制与静默数据包传输。 | 协议伪装 |\n\n## 入门指南\n\n### 安装\n如果您是 Minecraft 模组新手，请按照以下步骤运行 Xray -orevision：\n\n1. **安装 Fabric**：下载 Fabric Loader 并运行安装程序。\n2. **添加依赖项**：下载 Fabric API 并将其放入 `.minecraft/mods` 文件夹中。\n3. **部署模组**：下载最新的 Xray -orevision `.jar` 文件，并将其放入相同的 `mods` 文件夹中。\n\n## 教程：你的第一次挖矿\n一旦进入游戏，请按照以下简单流程寻找资源：\n\n1. **切换视野**：按 X 键激活透视扫描仪。您将立即透过地面看到矿石。\n\n---\n\n## 配置与控制\n\n| 按键 | 操作 |\n| :--- | :--- |\n| X | 切换视觉扫描仪 |\n\n---",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

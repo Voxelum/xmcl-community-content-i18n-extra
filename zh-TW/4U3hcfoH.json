@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e71a1b1038e02962",
+  "content": "\n\n# StickyKeys\n\n<img alt=\"forge\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg\">\n<img alt=\"fabric\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg\">\n<a href=\"https://modrinth.com/mod/architectury-api\"><img alt=\"architectury-api\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/architectury-api_vector.svg\"></a>\n<a href=\"https://modrinth.com/mod/yacl\"><img alt=\"yet-another-config-lib\" height=\"56\" src=\"https://file.garden/ZrvmZPC1HzBK0sn0/yacl-badge.svg\"></a>\n\n---\n\n厭倦了 AFK 時還得手動按住空白鍵、左鍵或其他按鈕嗎？StickyKeys 讓你能夠鬆開手，由模組幫你持續按住這些按鍵！\n\n只需按住你想持續按下的按鍵，接著按下啟用黏著鍵的按鍵（預設：**K**）！所有已啟用的按鍵都會由模組持續幫你按住，直到你按下 **Escape** 退出為止。\n\n![https://cdn.modrinth.com/data/4U3hcfoH/images/3eeeb170b0d4573bf1d1a7bf90c2ea47a7cca040.gif](https://cdn.modrinth.com/data/4U3hcfoH/images/3eeeb170b0d4573bf1d1a7bf90c2ea47a7cca040.gif)\n\n即使視窗已最小化，按鍵仍會持續按住，讓你能夠在背景進行 AFK。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

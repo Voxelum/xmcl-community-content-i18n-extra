@@ -1,0 +1,6 @@
+{
+  "bodyHash": "591512258ea0683b",
+  "content": "# Устали от того, что ваши железофермы заполняются маками?\n\nТеперь вам больше не нужно беспокоиться — я решил эту проблему!\n\nЭтот простой датапак удаляет маки из таблицы лута железного голема, так что вам больше не нужны эти надоедливые сортировщики!\n\nЭтот пакет основан на [No Iron Golem Poppy Drops](https://modrinth.com/datapack/no-golem-poppy-drops), который уже давно не обновлялся.\n\n# ДО\n\n![До](https://cdn.modrinth.com/data/cached_images/f6dca1bf925483bfe83a6e0ecb35dd698879f83f.png)\n\n# ПОСЛЕ\n\n![После](https://cdn.modrinth.com/data/cached_images/4377aa254a047013142e023f2f901f49f0c16c8e.png)\n\nКрасиво, правда?\n\n## РУКОВОДСТВО ПО УСТАНОВКЕ\n  - Перейдите в папку сохранений, которая по умолчанию находится здесь в Windows:\n\n```\nC:\\Users(ваше имя)\\AppData\\Roaming\\.minecraft\\saves\n```\n\n  - Поместите архив с файлом в папку datapacks, либо перезагрузите мир, либо выполните команду /reload",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac5064780c22df4e",
+  "content": "<h2 style=\"text-align:center\"><strong>抗性平衡器</strong></h2>\n<p style=\"text-align:center\">適用於 Minecraft 1.17-1.21.1</p>\n<p style=\"text-align:center\">需要&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/necronomicon\" rel=\"nofollow\">Necronomicon API</a>&nbsp;和&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a>。</p>\n<p style=\"text-align:center\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/sinytra-connector\" target=\"_blank\" rel=\"nofollow\">需要 Connector for (Neo)Forge。</a></p>\n<p style=\"text-align:center\">&nbsp;</p>\n<p style=\"text-align:center\">這是一個輕量級的伺服器端模組，允許使用者定義自訂公式來計算來自抗性效果的傷害減免。它還允許添加簡單的減免，例如每級減少 5% 的傷害。</p>\n<p style=\"text-align:center\">&nbsp;</p>\n<h3 style=\"text-align:center\"><strong>這樣做的原因是什麼？</strong></h3>\n<p style=\"text-align:center\">雖然在原版 Minecraft 中抗性效果非常好用，但許多模組都使用了這個效果，而預設情況下它非常強大。這個模組讓模組包開發者能夠自由決定他們眼中的抗性效果應該是怎樣的。想讓它變弱嗎？請便。想讓它變強？我也不會評判。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

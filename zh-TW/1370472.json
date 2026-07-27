@@ -1,0 +1,6 @@
+{
+  "bodyHash": "12668d1336e677f6",
+  "content": "<p>這個模組包所做的只是更改戰利品表，使其不包含戰爭弓箭手、苔原弓箭手和死眼弓箭手套裝。再次衷心感謝 <a href=\"https://www.curseforge.com/members/fichteee/projects\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/members/fichteee/projects</a> 再次幫助我完成這個數據包。</p>\n<p>如果未安裝任何 RPG 模組，此數據包將不會執行任何操作。此數據包包含聖騎士盔甲、祭司盔甲、所有法劍符文盔甲、狂戰士盔甲、刺客盔甲以及所有法師盔甲（火焰、冰霜和奧術）。您可以根據您的整合包需求輕鬆修改此數據包。</p>\n<p>同時也要特別感謝 Afterlyte，是他實際找到了讓這一切運作的辦法。由於 RPG 系列使用標籤緩存，因此除了現有的數據包之外，還需要對其進行修改。所需 JSON 的完整內容可在更新說明中找到。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

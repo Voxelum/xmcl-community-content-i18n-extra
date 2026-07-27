@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5a0c6ed729e10f9e",
+  "content": "\n\n<h1>Just Enough Spirits</h1>\n<p><strong>在 JEI 中精确查看哪些生物会掉落哪些 Malum 灵体。</strong></p>\n<p>Just Enough Spirits 新增了一个简洁的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/jei\" rel=\"nofollow\">Just Enough Items</a> 配方分类，用于 <a href=\"https://www.curseforge.com/minecraft/mc-mods/malum\" rel=\"nofollow\">Malum</a>。不再需要猜测，也不必再打开 Wiki 标签页查阅哪种灵体由哪种生物掉落。只需查询一种灵体，即可找到所有掉落它的生物。</p>\n<h2>功能特性</h2>\n<ul>\n<li><strong>新的 JEI 分类</strong>：展示 Malum 的生物灵体掉落物。</li>\n<li><strong>实时实体预览</strong>：实际生物模型直接渲染在配方中，让你始终清楚自己正在追踪的目标。</li>\n<li><strong>完整的双向查询</strong>：可按生物搜索查看其掉落物，也可按灵体搜索查找其来源（适用于 JEI 用途/配方视图）。</li>\n<li><strong>兼容数据包</strong>：直接读取 Malum 的灵体数据，包括任何自定义或整合包添加的掉落覆盖规则。如果数据包更改了生物的灵体，JEI 会同步显示更改（即使在执行 <code>/reload</code> 后）。</li>\n<li><strong>支持多人游戏</strong>：灵体数据会从服务器同步至客户端，因此在专用服务器上查询结果同样准确。</li>\n<li><strong>轻量且服务端安全</strong>：所有客户端/JEI 相关代码完全隔离；该模组在专用服务器上可稳定加载，不依赖任何客户端类。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

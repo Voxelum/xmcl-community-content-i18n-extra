@@ -1,0 +1,6 @@
+{
+  "bodyHash": "551a1ff05e79e544",
+  "content": "<h1>What's That Slot</h1>\n<p>这是一个简单的实用模组，允许你通过按住<strong>左Alt键</strong>来查询特定插槽中可以放置哪些物品。该模组支持<strong>Forge和Fabric</strong>——请务必选择正确的文件！</p>\n<p>在模组环境中，这尤其有用，因为有时并不清楚哪些物品可以放入模组添加的GUI中。</p>\n<p><img src=\"https://i.imgur.com/nZahUCW.gif\" alt=\"Demonstration\"></p>\n<p>相关的物品也可以通过在查询窗口中点击它们，从你的物品栏快速转移：\n<img src=\"https://i.imgur.com/r8kOtqA.gif\" alt=\"Demonstration of Quick-Move\"></p>\n<p>此模组仅在客户端运行，因此无需在服务器上安装即可使用！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

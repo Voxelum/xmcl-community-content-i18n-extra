@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bed1a1f3ddc49186",
+  "content": "# 禁止雙重潛行\n\nNo Double Sneak 是一款 Minecraft Fabric 模組，用於修復 [MC-159163](https://bugs.mojang.com/browse/MC-159163)。該錯誤會導致當你在伺服器上快速切換潛行與非潛行狀態時，你的鏡頭會出現「彈跳」現象。\n\n本模組的設計力求極簡，僅提供最基礎的功能，以便於輕鬆更新。事實上，如果 [Sneak Tweak](https://github.com/Lortseam/sneak-tweak)（另一個提供自訂功能並包含相同修復的模組）保持最新且未依賴過時的庫，那麼這個模組就不會存在了。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

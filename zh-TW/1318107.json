@@ -1,0 +1,6 @@
+{
+  "bodyHash": "10d980d026806c08",
+  "content": "\n\n<h1>SimpleBedrockModel</h1>\n<p><a href=\"LICENSE\" rel=\"nofollow\"><img src=\"https://img.shields.io/badge/License-LGPL--3.0-blue?style=for-the-badge\" alt=\"授權\"></a></p>\n<blockquote>\n<p>一套輕量級函式庫，用於在 Java 版中載入與渲染我的世界基岩版的實體模型與動畫</p>\n</blockquote>\n<h2>🎯 已支援功能</h2>\n<ul>\n<li>✅ <strong>基岩模型</strong>：完整支援基岩模型的載入與渲染</li>\n<li>✅ <strong>基岩動畫</strong>：支援複雜的骨骼結構與轉換</li>\n<li>⌛ <strong>Molang 支援</strong>：持續開發中...</li>\n<li>✅ <strong>動畫播放</strong>：功能齊全的動畫播放器。</li>\n<li>✅ <strong>動畫混合</strong>：支援混合空間、分層疊加與運動學插值混合</li>\n<li>✅ <strong>資源包支援</strong>：可從資源包載入模型與動畫</li>\n</ul>\n<h2>📖 開發者指南</h2>\n<ul>\n<li><a href=\"https://github.com/MCModderAnchor/SimpleBedrockModel\" rel=\"nofollow\">GitHub（持續建構中...）</a></li>\n</ul>\n<h2>👥 貢獻者</h2>\n<ul>\n<li><strong>TartaricAcid</strong> - 主要開發者</li>\n<li><strong>MaydayMemory</strong> - 核心開發者</li>\n<li><strong>MoePus</strong> - 貢獻者</li>\n<li><strong>Hidomatn</strong> - 貢獻者</li>\n</ul>\n<h2>🔗 相關專案</h2>\n<ul>\n<li><a href=\"https://github.com/286799714/MaydayAnimationEngine\" rel=\"nofollow\">MaydayAnimationEngine</a> - 提供動畫基礎架構</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

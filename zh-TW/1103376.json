@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dc80c183dc4455af",
+  "content": "<h1>模组列表指令</h1>\n<p>此模组新增列出模组的功能。&lt;br/&gt;\n單機玩家需要安裝到客户端才能使用。</p>\n<h2>指令</h2>\n<ul>\n<li><code>/mods</code> : 列出伺服器上的所有模组</li>\n<li><code>/mods help</code> : 查看 /mods 指令的說明</li>\n<li><code>/mods info &lt;mod_id&gt;</code> : 顯示指定模组的詳細資訊</li>\n<li><code>/mods all [id/name]</code> : 列出伺服器上的全部模组</li>\n<li><code>/mods normal [id/name]</code> : 列出伺服器上的正常模组</li>\n</ul>\n<h2>依賴項目</h2>\n<ul>\n<li><p><a href=\"https://curseforge.com/minecraft/mc-mods/mcpitanlibarch\" rel=\"nofollow\">MCPitanLib</a></p>\n<ul>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/architectury-api\" rel=\"nofollow\">Architectury API</a></li>\n</ul>\n</li>\n<li><p><a href=\"https://curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a> (僅限 Fabric)</p>\n</li>\n</ul>\n<h2>授權條款</h2>\n<ul>\n<li>CC0-1.0</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

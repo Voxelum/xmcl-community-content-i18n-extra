@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e14d150c4345c52d",
+  "content": "\n\n這個模型包重新設計了部分「Let's Do」系列的物品模型，讓它們看起來更接近原本的貼圖。  \n\n身為「Let's Do」系列的粉絲，我非常喜歡其中許多物品能直接放置在地面上成為方塊，這對於裝飾來說簡直太棒了！  \n不過，我個人覺得美中不足的是，這些方塊模型的風格似乎與對應的物品模型不太一致。  \n這個模型包試著為所有可放置的飲品套用與物品貼圖外觀相近的模型，藉此提升整體的一致性。  \n\n所有的改動完全是透過建立新模型來完成的，並未更動原始模組的任何素材。我認為這項限制對於保持原有的遊戲感覺非常重要。  \n\n目前，這個模型包僅針對 [Let's Do Vinery](https://modrinth.com/mod/lets-do-vinery) 的部分模型進行了調整，但我計畫在未來進一步擴充。\n\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/organization/garden-gals) [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/coolbot100s/projects) [![Planet Minecraft](https://github.com/coolbot100s/Bouncy-Leaves/assets/76798835/0b2c0293-c2ab-4956-9055-70bc7d7141c5)](https://www.planetminecraft.com/collection/146032/all-garden-gals-content/) [![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_vector.svg)](https://discord.gg/qxRVkGDjdJ) [![generic-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/generic-singular_vector.svg)](https://github.com/sponsors/coolbot100s)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

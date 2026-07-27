@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3133fdcf96b33424",
+  "content": "<h2><img src=\"https://media.forgecdn.net/attachments/description/1163297/description_4e901dd5-0bf5-44e4-8d13-e5a1c8e281ba.png\" alt=\"\" width=\"850\" height=\"478\"></h2>\n<h2>概述</h2>\n<p>每次你受到伤害时，你所在的区块会在延迟后自我删除。这基本上就是它的核心机制。<br><br>如果你想使用此资源包制作视频或内容，请随意！如果你这样做，你必须向我（Ambiguous Chameleon）提供署名，并在描述和/或评论中提供此资源包的链接。谢谢！</p>\n<p>&nbsp;</p>\n<h2>作弊与命令</h2>\n<p><strong>更改区块删除模式：</strong></p>\n<ul>\n<li>普通：默认设置。受到伤害时，你所在的区块会被删除</li>\n<li>随机：受到伤害时，附近的一个随机区块会被删除</li>\n</ul>\n<pre><code>/trigger ac.delete_chunk.toggle_mode\n</code></pre>\n<p><strong>启用后，区块将立即消失，而不是倒计时。默认禁用</strong></p>\n<pre><code>/trigger ac.delete_chunk.toggle_instant\n</code></pre>\n<p><strong>如果区块模式设置为随机，此值决定随机选择的用于删除的区块的最大距离。默认为 30 格</strong></p>\n<pre><code>/trigger ac.delete_chunk.random_distance\n</code></pre>\n<p><strong>默认情况下，区块会填充为空气。在主手持有方块并运行此命令时，区块将填充为持有的方块。手中无物品时，区块恢复为填充空气。仅支持 1.20.2 及以上版本</strong></p>\n<pre><code>/trigger ac.delete_chunk.set_block</code></pre>\n<p><strong>修改激活后区块删除所需的持续时间。默认为 4 秒</strong></p>\n<pre>/trigger ac.delete_chunk.set_countdown</pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

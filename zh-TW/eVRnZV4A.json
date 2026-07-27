@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9396dd3d4f4c06c1",
+  "content": "\n\n**停用指令** 是一款輕量級 NeoForge 模組，讓伺服器管理員能夠封鎖伺服器上的任何指令（或指令前綴），且**無需重新啟動**也**無需用戶端模組**。\n\n## 🔧 功能特色\n\n- **可自訂封鎖清單** – 在 `config/disablecommand-common.toml` 中指定要封鎖的指令（例如 `[\"tp::s\", \"gamemode creative::e\", \"kill::e\"]`）。  \n- **遊戲內切換** – 使用遊戲規則 `/gamerule disableCommandEnabled false` 可暫時停用封鎖功能（適用於維護或除錯）。  \n- **僅限伺服器端** – 只需安裝於 NeoForge 伺服器；客戶端無需安裝任何內容。\n\n## 🎮 使用方法\n\n1. 將模組放入伺服器的 `mods` 資料夾中。\n2. 啟動伺服器——它會自動生成設定檔。\n3. 編輯 `config/disablecommand-common.toml`：\n   ```toml\n   [commands]\n       disabledCommands = [\"tp::s\", \"gamemode creative::e\", \"kill::e\"]\n   ```\n（選用）重新載入或重新啟動——設定變更會立即生效。\n\n在遊戲中執行 `/gamerule disableCommandEnabled true` 以啟用封鎖，或執行 `false` 暫時停用。\n\n\n⚙️ 設定檔說明\n設定檔包含以下內容：\n\n`disabledCommands` – 指令字串列表（不含 /）。採用前綴比對，因此輸入 \"gamemode\" 也會封鎖 `/gamemode creative`。\n\n📦 相容性\nMinecraft 1.21.1 – NeoForge 21.11.44 或更新版本。\n\n支援單人遊戲（整合伺服器）與獨立伺服器。\n\n無相依模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

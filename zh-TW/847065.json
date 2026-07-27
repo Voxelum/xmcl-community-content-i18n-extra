@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f34fb4d7b2d4d029",
+  "content": "<p>本模组为 TerraFirmaCraft 世界添加了新的“渴望路径”（desirepaths），玩家和动物均可创建这些路径，其中动物的行为可配置。路径块的转换规则可通过数据包进行自定义，因为它们采用简单的配方系统，这意味着您还可以添加自己的配方。默认情况下，草方块会变为对应的泥土类型。在下雨时，如果玩家或动物踩踏泥土，泥土有几率压实/变为泥块。如果玩家处于潜行状态则不会生成路径，而奔跑会增加生成路径的频率。</p>\n<p>此外，森林及其他昏暗或明亮区域新增了草方块的机制：如果光线不足，草方块会逐渐枯萎，使表面裸露（变为泥土）；而在光照充足时，它会恢复到完全生长的状态。这种动态变化能创造更多的森林过渡层植被，并可能有助于暴露粘土或泥炭矿藏。（可配置，默认为开启）</p>\n<p>数据包 JSON 配方示例 (1.20.1)：</p>\n<pre><code>{\n  &quot;type&quot;: &quot;tfcdesirepaths:compact&quot;,\n  &quot;ingredient&quot;: &quot;tfc:dirt/loam&quot;,\n  &quot;result&quot;: &quot;tfc:mud/loam&quot;,\n  &quot;mud&quot;: true,\n  &quot;chance&quot;: 80\n}\n</code></pre>\n<p>其中 <code>mud</code> 是一个特殊检查，仅在下雨时生效；<code>chance</code> 是配方成功的几率（1/n）。</p>\n<p>本模组的 1.18.2 版本需要安装 <a href=\"https://www.curseforge.com/minecraft/mc-mods/tfc-florae\" rel=\"nofollow\">TFC Florae</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

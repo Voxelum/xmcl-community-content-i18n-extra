@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4d79edef6e1613d5",
+  "content": "\n\n此模式允許你透過指令更改玩家的顯示名稱，並將新的暱稱即時、無縫地同步至聊天、Tab 列表與名稱標籤中。你也可以使用物品來更改暱稱。UI 是基於 Composite 模式，使用 Jetpack Compose 與 Material 3 所開發的。\n\n## 依賴項目\nhttps://modrinth.com/mod/composite\nhttps://modrinth.com/mod/pyke-lib\n\n## 指令與物品說明\n```\n/이름변경 <player> <displayname> : 變更玩家顯示名稱\n/이름변경 <player> : 開啟變更顯示名稱畫面\n\n/give @s displayname:id_card : 使用物品時開啟變更顯示名稱畫面\n```\n![變更顯示名稱畫面](https://cdn.modrinth.com/data/cached_images/d26bbc4f9974dd10bf52565f12e679d834ddb3b8.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

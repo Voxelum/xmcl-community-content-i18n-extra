@@ -1,0 +1,6 @@
+{
+  "bodyHash": "35971a263ec1b3be",
+  "content": "\n\n<p>對 FTB Quest 預設的任務形狀感到厭倦，或是只想讓你的整合包脫穎而出、帶來一些新鮮感嗎？這裡有一些我自己製作的形狀，並決定分享給其他人使用。這些<strong>不會取代</strong>基礎形狀，而是額外新增八種可供使用的形狀。</p>\n<p>我不建議同時啟用所有基礎形狀與這些新形狀，因為這會讓選擇形狀變得更加惱人（它會開啟一個新的選取畫面，而不是在可用選項之間循環切換）。</p>\n<p><strong>你需要一種方式來預設載入此主題，</strong>例如 KubeJS、Paxi 或 OpenLoader。我無法提供關於如何使用這些模組的操作支援。我不確定它能否單純以資源包的形式運作，但我想應該沒有問題。<br><br>歡迎你將這些檔案修改或重新上傳為整合包的一部分。附上來源註記會很好，但並非必要。</p>\n<p>&nbsp;</p>\n<p>若要移除你不打算使用的形狀，你需要編輯隨附的 ftb_quests_theme.txt 中的「extra_quest_shapes」那一行：</p>\n<p><img style=\"font-weight:400\" src=\"https://i.imgur.com/qNG4zom.png\" alt=\"\" width=\"1201\" height=\"201\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

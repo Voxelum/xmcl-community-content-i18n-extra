@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3f9b0eb35467a246",
+  "content": "# *舊版調試渲染*\n\n此模組恢復了 1.21.11 版本之前的區塊邊界和命中框渲染器。\n![區塊邊界](https://cdn.modrinth.com/data/cached_images/f3a558fbb33cc171299d13d8b7f727477fb12fc9.webp)\n![生物命中框](https://cdn.modrinth.com/data/cached_images/df5c698b13ac396965cd47ca1c52b86e3ce1dc6c.png)\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)。 \\\n安裝 [Mod Menu](https://modrinth.com/mod/modmenu) 和 [YACL](https://modrinth.com/mod/yacl) 以訪問配置菜單。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

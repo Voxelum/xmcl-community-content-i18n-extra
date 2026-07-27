@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd5750baba43b7d5",
+  "content": "作为 EmiBridge 框架的适配器模组，将工业先锋（Industrial Foregoing）机器的配方从 JEI 格式转换为 EMI 配方格式。\n\n## 功能特性\n\n- **配方桥接** — 在 EMI 中显示以下 IF 机器配方：\n  - **机器产出**：乳胶加工、污泥精炼、堆肥机等\n  - **矿石洗涤 / 发酵 / 筛分**\n- **中文本地化** — EMI 分类名称的完整中文翻译",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

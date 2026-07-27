@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8e895c26b0bf37e5",
+  "content": "\n\n# Fcitx5-Enhancer\n\n这是一款专为 Minecraft 制作的模组，提供与 Fcitx5 的兼容性，让你的游戏体验更加轻松。\n\n## 问题所在\n\n在 Minecraft 中使用 IME（输入法）时，按下同时也是游戏快捷键的按键（例如 Tab、Enter）会导致该按键事件同时被输入法和游戏处理。\n\n随后你就会被打断。这简直太离谱了。因此我编写了这个模组，以解决这个令人困扰的问题。\n\n## 额外功能\n\n我们提供了一个高度可配置的 IMBlocker，并配有可视化元素选择器。\n\n~~此外，我们为原生 Wayland 环境添加了 IME 支持。~~（仅适用于 1.20.x 和 1.21.x）\n\n## 运行要求\n\n运行此模组需要 Fabric Loader，以及包含 Unsafe 支持的 JVM（适用于 1.20 和 1.20.1）。\n\n同样需要安装 [Cloth Config](https://modrinth.com/mod/cloth-config)。若要访问配置界面，你还需要安装 [Mod Menu](https://modrinth.com/mod/modmenu)。\n\n## 注意事项\n\n本模组依赖本地库来实现其功能。\n内置库是针对 Linux x86_64 架构编译的（glibc 2.31，来自 Debian 11）。  \n如果你使用的是其他架构（如 aarch64）或不兼容的系统，则必须自行编译。\n\n请参阅 GitHub 上的说明以开始使用。\n\n## 许可证\n\n本项目采用 MIT 许可证授权。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

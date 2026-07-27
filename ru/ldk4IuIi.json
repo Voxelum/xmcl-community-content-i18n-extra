@@ -1,0 +1,6 @@
+{
+  "bodyHash": "26739c5323b61b60",
+  "content": "![рамка для картины](https://cdn.modrinth.com/data/cached_images/6c771e1c3eb38b40fbdf5cc267833d9a8c42fc41_0.webp)\n### Tinge добавляет цветокоррекцию в ванильный Minecraft с помощью базовых шейдеров и Polytone!\n_(Для работы требуется Polytone, поэтому технически это не ванильная версия)_\n\n### Совместимо с Sodium!\n\nЧтобы изменить настройки цветокоррекции (или пресеты), распакуйте папку и перейдите в assets/tinge/shaders/post, затем отредактируйте файл \"colorgrade.fsh\" (настройте по своему вкусу или выберите готовый пресет).\n\n_Настоятельно рекомендуется использовать [cbbg](https://modrinth.com/mod/cbbg?version=1.21.11), так как он помогает избавиться от постеризации._\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/wCYu_7W3l_E\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n![Polytone](https://cdn.modrinth.com/data/cached_images/eb5cdb679cd36ad28036873dc12071c49839ee8d.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

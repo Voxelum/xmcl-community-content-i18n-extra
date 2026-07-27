@@ -1,6 +1,6 @@
 {
-  "bodyHash": "iLqbUsft6/U=",
-  "content": "<p>Исправлена проблема, из-за которой враждебные мобы из модов «Ice and Fire» не атакуют NPC из мода «Ancient Warfare 2»</p><p>При установке этого мода враждебные игроку мобы из «Ice and Fire» также станут враждебными по отношению к NPC из «Ancient Warfare 2»</p><p>&nbsp;</p><p><br>Благодарность @matthieudroz</p>",
+  "bodyHash": "194eab37e91c2d25",
+  "content": "<p>Исправлена проблема, при которой враждебные мобы из мода Ice and Fire не атаковали NPC из Ancient Warfare 2</p>\n<p>Установка этого мода позволяет мобам из Ice and Fire, которые являются враждебными по отношению к игроку, также быть враждебными к NPC из Ancient Warfare 2</p>\n<p>&nbsp;</p>\n<p><br>Благодарность @matthieudroz</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

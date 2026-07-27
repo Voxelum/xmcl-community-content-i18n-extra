@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a37e526173d3e956",
+  "content": "\n\n<h2>简介</h2>\n<p>安装此模组后，你就可以像其他玩家一样正常游戏了。真的就这么简单。</p>\n<h2>功能</h2>\n<ul>\n<li>修复在 &lt;1.20.2 版本中 <code>Shift</code> + <code>Scroll</code> 无效的问题（<a href=\"/linkout?remoteUrl=https%253a%252f%252fbugs.mojang.com%252fbrowse%252fMC-121772\" target=\"_blank\" rel=\"nofollow\">MC-121772</a>），以及在 >=1.20.2 版本中滚轮方向反转的问题</li>\n<li>修复 &lt;1.13 版本中鼠标侧键无法使用的问题</li>\n<li>禁用 <code>Ctrl</code> + <code>左键点击</code> 模拟 <code>右键点击</code> 的功能</li>\n</ul>\n<h2>支持</h2>\n<p>同时支持 arm64（M1）与 amd64（x64、Intel）架构。</p>\n<h2>问题反馈</h2>\n<p>请使用 GitHub Issue 反馈页： <a href=\"https://github.com/MinecraftMachina/McMouser/issues\" target=\"_blank\" rel=\"nofollow\">https://github.com/MinecraftMachina/McMouser/issues</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be3497fbfd372b5a",
+  "content": "\n\n<h1>Simply Swords × TerraFirmaCraft 兼容性</h1>\n<p>基于 NeoForge 1.21.1 的兼容性模组，将 [Simply Swords](<a href=\"https://www.curseforge.com/minecraft/mc-mods/simply-swords\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/simply-swords</a>) 武器与 [TerraFirmaCraft](<a href=\"https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/terrafirmacraft</a>) 机制相融合。</p>\n<h2>功能特性</h2>\n<ul>\n<li><strong>TFC 金属武器</strong>：为所有 Simply Swords 武器类型添加 TFC 金属变体（铜、青铜、铋青铜、黑青铜、熟铁、钢、黑钢、蓝钢、红钢）。  </li>\n<li><strong>合成机制</strong>:<br>\n&nbsp;- <strong>铁砧</strong>：使用锭、双锭或板材锻造武器刀刃。<br>\n&nbsp;- <strong>加热</strong>：将武器和刀刃熔回金属流体。<br>\n&nbsp;- <strong>组装</strong>：使用刀刃 + 刀柄 + [TFC More Items](<a href=\"https://www.curseforge.com/minecraft/mc-mods/tfc-more-items)\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/tfc-more-items)</a>中的附加组件（如铆钉/钉子）合成完整武器。  </li>\n<li><strong>金属染色</strong>：武器刀刃会根据 TFC 金属类型动态改变颜色。  </li>\n<li><strong>创造模式标签页</strong>：包含一个“Simply Swords TFC”创造模式标签页，收录了所有武器。  </li>\n<li><strong>Simply Swords 集成</strong>：武器已正确添加标签，可正常配合 Simply Swords 的机制运行。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

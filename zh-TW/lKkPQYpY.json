@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a6e260f1882e5817",
+  "content": "# 更好的冰透明度\n它基本上降低了冰的透明度，使其看起来更像现实生活中的冰。\n#\n### 更改\n- 冰径附魔（冰行者）：将所有阶段的透明度更改为 60%*\n- 冰块：将透明度更改为 60%*\n\n*与原始纹理相比为 60%，原始纹理并非 100% 不透明\n#\n![原版 Minecraft 冰与其更透明版本的对比](https://cdn.modrinth.com/data/cached_images/9c612dbe20a266019a5bd84622f979c70bfc5b4b.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

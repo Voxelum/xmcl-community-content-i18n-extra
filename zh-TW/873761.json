@@ -1,0 +1,6 @@
+{
+  "bodyHash": "084598fb3a5d6758",
+  "content": "<p><strong>新增两个热键 (v1.0.0)</strong></p>\n<p>鞘翅/胸甲交换快捷键。该功能优先选择耐久度更高的物品，其次是附魔等级更高的物品。同时也会优先选择副手栏中的胸甲或鞘翅。默认快捷键为 'G'。</p>\n<p>快速装备不死图腾的快捷键。按下时会将不死图腾装备到副手栏。默认快捷键为 'X'。</p>\n<p><strong>新增自动鞘翅切换功能 (v1.1.0)</strong></p>\n<p>启用后，当您穿着胸甲尝试飞行时，此功能会自动为您装备鞘翅。该功能默认关闭，可在模组配置菜单中切换（通过模组菜单访问）。</p>\n<p><strong>丰富的配置选项 (v1.2.0)</strong></p>\n<p>可通过 Mod Menu 访问配置界面。</p>\n<p>它包含多个不同的选项：</p>\n<ul>\n<li>自动鞘翅切换开关</li>\n<li>使用鞘翅滑翔时自动将烟花火箭换到副手栏，落地时自动换回</li>\n<li>配置在切换鞘翅时扫描哪些鞘翅物品的列表</li>\n<li>配置在执行副手栏交换时扫描哪些副手栏物品的列表</li>\n<li>配置用于自动切换烟花火箭的有效烟花物品列表</li>\n</ul>\n<p><strong>官方下载链接：</strong></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fquick_hotkeys\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/quick_hotkeys</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/quick-hotkeys\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/quick-hotkeys</a></p>\n<p>本模组是我旧版模组 <strong>Quick Elytra</strong> 的重制版。如果您想在 1.20 之前的 Minecraft 版本中使用此功能，请改用 Quick Elytra。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fquick-elytra\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/quick-elytra</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

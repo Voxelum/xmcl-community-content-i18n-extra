@@ -1,0 +1,6 @@
+{
+  "bodyHash": "02f8833ed9b86162",
+  "content": "\n\nЭтот датапак убирает жареное яйцо из мода Naturalist (Совместимость с Farmers Delight). Требует мод: One Enough Item. Что делает этот датапак?\n1: Удаляет все рецепты жареного яйца из мода Naturalist.\n2: Заменяет жареное яйцо (Naturalist) на яичницу (Farmers Delight).\n3: Полная совместимость с Farmers Delight без конфликтов.\nЕсли вы играете с JEI, рекомендую изменить параметр `TagContentTooltipEnabled = True` на `TagContentTooltipEnabled = false`, чтобы избежать отображения двух одинаковых яичниц из мода Farmers Delight.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

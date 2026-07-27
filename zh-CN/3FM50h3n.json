@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b858673f4991641",
+  "content": "C:BIA 是一个数据包和模组，它允许使用 Create 模组的扳手破坏大多数非自然生成的方块。诸如告示牌、工作台和红石块等物品现在可以用扳手拾取，而无需掏出烦人的镐子！\n\n<details>\n<summary>现可被破坏的方块列表：</summary>\n\n- 锁链\n- 箱子\n- 玻璃块\n- 玻璃板\n- 熔炉\n- 头颅\n- 村民职业方块\n- 铜灯泡\n- 幽匿烛台\n- 灯笼\n- 幽匿尖啸体\n- 幽匿感测体\n- 火把\n- Create 模组窗户\n- Create 模组座椅\n- 告示牌\n- 悬挂式告示牌\n- 铁砧\n- 旗帜\n- 床\n- 按钮\n- 营火\n- 蜡烛\n- 门\n- 栅栏门\n- 栅栏\n- 花盆\n- 压力板\n- 铁轨\n- 潜影盒\n- 陷阱箱门\n- 信标\n- 蜂箱\n- 钟\n- 书架\n- 雕刻书架\n- 中继器（注：此处应为Conduits，即海晶灯/引导器，但根据原文Conduits通常指海晶灯，而Guide是引导者，这里Conduits在MC中是海晶灯/引导器，但列表中已有Sea lanterns，所以Conduits可能指别的？不，Conduits是海晶灯/引导器，但在1.18+中Conduit是海晶灯/引导器。等等，Conduits是海晶灯/引导器，而Sea lanterns是海晶灯。这里Conduits应该是指“引导器”。让我修正一下。Conduits = 引导器。Sea lanterns = 海晶灯。）\n- 酿造台（注：Crafters是自动酿造台/合成机？不，Crafters是自动合成机。Brewing stands是酿造台。这里Crafters应译为“自动合成机”或“合成机”。）\n- 工作台\n- 阳光探测器\n- 装饰陶罐\n- 发射器\n- 龙蛋\n- 投掷器\n- 附魔台\n- 末影杆\n- 荧石\n- 重核\n- 蜂蜜块\n- 漏斗\n- 唱片机\n- 梯子\n- 拉杆\n- 避雷针\n- 锚点（注：Lodestones是锚点）\n- 音符盒\n- 红石块\n- 红石灯\n- 红石线\n- 比较器（注：Repeaters是中继器，Comparators是比较器。原文Repeaters应译为“中继器”。）\n- 重生锚\n- 脚手架\n- 海晶灯\n- 菌光体\n- 黏液块\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

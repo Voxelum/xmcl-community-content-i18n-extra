@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a64a627ac538ec80",
+  "content": "试图忠实地重现你真实的眼睛在黑暗中看到的样子，而不仅仅是调低亮度。\n\n在黑暗中，饱和度（色彩鲜艳度）会完全消失，你看到的景象会变得更加模糊且伴有噪点（可在着色器设置中配置），最暗的颜色默认不是纯黑，而是本征灰（Eigengrau，也可配置）。我对编写特定的 Iris/Oculus 着色器经验不多，因此该着色器中的亮部效果也与原版不同，但我认为它看起来依然不错 :)\n\n我仅在该着色器适用于 1.19.2 的版本上进行了测试（与 [DREAD 恐怖整合包](https://www.curseforge.com/minecraft/modpacks/dread-arrenek) 版本相同，绝非巧合），但它可能也能在其他支持 Iris/Oculus 的 Minecraft 版本上运行。\n\n灵感来源于 [这个视频](https://youtu.be/u9X7SHarZQg?is=d_4rtc2jUYK8SrBx)。\n\n**请记住安装 [Iris](https://modrinth.com/mod/iris)（如果你使用的是 Fabric）或 [Oculus](https://modrinth.com/mod/oculus)（如果你使用的是 Forge）。没有其中之一，此着色器将无法工作。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

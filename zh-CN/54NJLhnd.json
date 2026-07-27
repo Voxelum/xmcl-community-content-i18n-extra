@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e0fce5deed76d3b0",
+  "content": "\n\n这是一个简单的数据包，你可以直接拖入存档的 `datapacks` 文件夹中。\n\n只需将 `ieDoubling` 文件夹拖入你的 `world/datapacks` 目录，并添加 CraftTweaker 脚本即可！\n\n为沉浸工程（Immersive Engineering）1.19 版本恢复了矿石翻倍功能（涵盖破碎机与电弧炉），效果与 1.17 之前版本一致。\n\n你需要使用内置的 CraftTweaker 脚本来禁用默认的 33.3% 配方。\n\n如果需要添加任何模组材料，请告诉我！谢谢！\n\n注意：自 2.0 版本起，添加了熔炼碎屑的经验掉落以及 IE 皮革转换配方。\n\n注意：已包含用于平衡性考虑而禁用沉浸工程货箱的文件。\n\n如果有人希望将此数据包从 1.20.1 向后移植，或移植到沉浸工程的未来版本，请在 Discord 服务器留言：[https://discord.gg/pV2Ctnrt](https://discord.gg/pV2Ctnrt)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

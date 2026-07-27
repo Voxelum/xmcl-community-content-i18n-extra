@@ -1,0 +1,6 @@
+{
+  "bodyHash": "469d24b843eaf2c0",
+  "content": "\n\n<h3>⚠️ 注意事项 ⚠️</h3>\n<p>我将不再在 CurseForge 上为我的项目提供更新。所有未来的更新和最新版本将仅在 Modrinth 上发布。请确保在该平台下载最新版本：<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fwidderitemrename\" target=\"_blank\" rel=\"nofollow\">Modrinth</a></p>\n<p>感谢您的支持！</p>\n<h1>ItemRename</h1>\n<h3>一款让你能够重命名物品的简单模组</h3>\n<p>重命名物品：</p>\n<pre><code>/rename &lt;文本&gt;</code></pre>\n<p>在名称后追加文本：</p>\n<pre><code>/rename add &lt;文本&gt;</code></pre>\n<h3>样式与符号</h3>\n<ul>\n<li>斜体 = &lt;&gt;</li>\n<li>混淆（随机字符）= {}</li>\n<li>加粗 = []</li>\n<li>删除线 = ()</li>\n<li>下划线 = /|</li>\n<li>颜色 = #XXXXXX &lt;-十六进制代码</li>\n</ul>\n<p>为了方便使用，我们提供了一个网站，你可以在其中输入文本和选择样式，命令将自动生成。</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fwiddermc.github.io%252fItemRename%252f\" target=\"_blank\" rel=\"nofollow\">该网站</a></p>\n<p>如果你发现任何 Bug 或有数据包/模组建议，请在我的 <a href=\"https://discord.gg/fy4KuxYKVD\" target=\"_blank\" rel=\"nofollow\">Discord</a> 上告诉我。</p>\n<h2>许可证</h2>\n<p>本模板采用 CC0 协议授权。欢迎参考学习并将其融入你自己的项目中。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

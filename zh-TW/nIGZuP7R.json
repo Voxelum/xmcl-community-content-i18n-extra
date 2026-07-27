@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9456dddfa606fadc",
+  "content": "![Particulate Logo](https://cdn.modrinth.com/data/cached_images/9d17eaf2dafb77f69e45d96176b5cb979da4d19e.png)\n## 關於\n**Particular** 是一款輕量的環境音效模組，透過各種精心打造的視覺效果讓 Minecraft 世界煥然一新。無論您是在建造、探索，還是靜止不動，增強的環境反饋都能讓世界感覺更加身臨其境。\n\n## 🌿視覺效果\n- [3D 水花濺射](https://www.youtube.com/watch?v=vdrn4ouZRvQ&t=27s)\n  -   匹配水的顏色\n  -   實體越寬，濺射範圍越寬\n  -   下落高度越高，濺射越高\n- 瀑布 cascades\n  -   當下落水源超過 2 格深的源水，且頂部源水至少有一側開放時，會出現 cascades\n  -   Cascade 的強度與下落水源的高度和源水的開放側數成正比\n- 螢火蟲\n  -   在溫暖的生物群系的花朵和高草處生成\n  -   黃昏時段的生成率是隨機的\n- 落葉\n  -   每個葉子方塊都有獨特的粒子效果，行為各不相同\n  -   落水時會產生漣漪\n- 洞穴灰塵\n  -   生成率與深度和陽光強度成正比\n- 水下箱子和大桶冒出的氣泡\n  -   當箱子或大桶在水下被打開時，會釋放氣泡\n  -   終界箱會釋放帶有綠色調的氣泡\n  -   在箱子下方放置靈魂沙可以使其自動打開並釋放氣泡\n- 氣泡破裂\n- 雨滴和水滴滴落產生的漣漪\n- 吃蛋糕粒子效果\n- 發光的熔岩滴落\n\n## ⚙️配置\n您可以配置此模組以禁用任何效果，並調整哪些生物群系不應生成洞穴灰塵。\n\n## 🤝 支援的模組\n- [Traverse](https://modrinth.com/mod/traverse)\n  -   自定義落葉\n- [Regions Unexplored](https://modrinth.com/mod/regions-unexplored)\n  -   自定義落葉\n- [Wilder Wild](https://modrinth.com/mod/wilder-wild)\n  -   自定義落葉\n\n## 🌍 支援語言\n- 加拿大英語 (Voxxin)\n- 加拿大法語 (Voxxin)\n- 簡體中文 (KlainsX)\n- 歐洲法語 (Voxxin)\n- 墨西哥西班牙語 (cerealconjugo)\n- 俄語 (Alexander317)\n\n## ❤️ 鳴謝與說明\n這是原始 [Particular](https://modrinth.com/mod/particular) 模組的延續版本。由於原版更新不夠及時，我決定接手並繼續維護它——請向原作者致以敬意！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

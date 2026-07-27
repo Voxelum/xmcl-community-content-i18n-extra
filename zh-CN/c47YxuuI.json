@@ -1,6 +1,6 @@
 {
-  "bodyHash": "c5Q8LK5t/1w=",
-  "content": "# Nowheel（无轮显）\n\nNowheel 能让机械动力模组的机械装置在墙体后方时不进行渲染，**显著提升性能**，尤其适用于大型工厂。\n\n### 未安装 Nowheel\n![未安装 Nowheel（103 FPS）](https://cdn.modrinth.com/data/cached_images/ff7c91686dd60657f7c495e8f56262a05b56036f_0.webp)\n\n### 安装 Nowheel\n![安装 Nowheel（320 FPS）](https://cdn.modrinth.com/data/cached_images/666100c022f6583aa59e99a82eeae510aa142a18_0.webp)\n\n_以上截图取自\"阿尔法工业\"世界，图中大部分工厂被墙体遮挡。_\n\n## 本模组基于 [Entity Culling](https://modrinth.com/mod/entityculling) 模组构建，且必须安装该模组。\n## 同时需要 [Create（机械动力）](https://modrinth.com/mod/create) ~~（显而易见）~~\n\n### 致谢\n\n传送带与链式传动带的碰撞箱数据取自 [Create Smart Bounds](https://modrinth.com/mod/create-smart-bounds)。",
+  "bodyHash": "4364fdf87de1454e",
+  "content": "# Nowheel\nNowheel 使 Create 模组中的机器在墙壁后方时不渲染，**提升性能**，尤其在大型工厂中效果显著。\n\n### 无 Nowheel\n![无 Nowheel (103 FPS)](https://cdn.modrinth.com/data/cached_images/ff7c91686dd60657f7c495e8f56262a05b56036f_0.webp)\n\n### 有 Nowheel\n![有 Nowheel (320 FPS)](https://cdn.modrinth.com/data/cached_images/666100c022f6583aa59e99a82eeae510aa142a18_0.webp)\n\n_上述截图取自 “alpha industries” 世界，大部分工厂被墙壁遮挡_\n\n## 本模组基于 [Entity Culling](https://modrinth.com/mod/entityculling) 构建并依赖其运行\n## 还需要 [Create](https://modrinth.com/mod/create) ~~（显而易见）~~\n\n### 致谢\n\n皮带和链条传送器的 AABB 数据取自 [Create Smart Bounds](https://modrinth.com/mod/create-smart-bounds)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "81c5f7efd8071e92",
+  "content": "用于使用 Groovy 编程语言制作 NeoForge 模组。通过 JiJ'ing（Just Include Java）方式引入 Groovy 库，并提供 GMLLangProvider 以加载 `@GMod` 对象声明。\n\n包含的 Groovy 模块：\nstdlib、contracts、datetime、nio、macro、macro-library、templates、typecheckers、dateutil、ginq、toml、json。\n\n对于模组开发者，请参阅项目 [README](https://github.com/GroovyMC/GroovyModLoader/blob/1.21.x/README.MD) 了解如何使用 GML。对于普通用户，只需将模组安装到 mods 文件夹即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

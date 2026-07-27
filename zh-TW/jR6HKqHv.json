@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15738cefa50acfa7",
+  "content": "\n\n![](https://raw.githubusercontent.com/ochotonida/curious-armor-stands/HEAD/src/main/resources/logo.png \"\")\n\nCurious Armor Stands 是一款簡單的模組，讓護甲架能夠裝備與展示飾品。 \n\n對著護甲架右鍵點擊飾品即可裝備。若飾品標記為「雙手」、「手鐲」或「戒指」，裝備時護甲架的手臂會自動顯示。空手右鍵點擊護甲架即可卸下飾品。卸除時會優先卸下手持物品與護甲。護甲架共有 8 個飾品槽位。\n\n此模組需要 [Curios](https://modrinth.com/mod/curios \"\")。 （顯而易見）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d1c396fd46d4e6ef",
+  "content": "<h1><strong>单人生命窃取</strong></h1>\n<p>单人生命窃取将经典的生命窃取循环带入单人世界和小型 Fabric 服务器：每次死亡都会失去一颗心，而 crafted Nether Star Heart 可以恢复一颗。</p>\n<h2><strong>功能</strong></h2>\n<p>- 死亡会移除可配置数量的心。<br>- 玩家可以通过制作和使用心来恢复生命值。<br>- 可选的零心跳禁止模式，实现真正的生命窃取消失。<br>- 管理心、设置和食谱的管理命令。<br>- 通过 `/lifesteal recipe` 打开箱式食谱编辑器。<br>- 共享设置保存在实例配置文件夹中，以便在不同世界之间保持。<br>- 玩家的心数量按世界保存。</p>\n<h3><strong>管理员命令</strong></h3>\n<blockquote>\n<p>- /lifesteal - 显示当前设置。<br>- /lifesteal recipe - 打开心食谱编辑器 GUI。<br>- /lifesteal settings startingHearts &lt;1-40&gt;<br>- /lifesteal settings maxHearts &lt;1-40&gt;<br>- /lifesteal settings deathPenalty &lt;0-20&gt;<br>- /lifesteal settings banOnZero<br>- /lifesteal settings announce<br>- /lifesteal add heart [amount]<br>- /lifesteal remove heart [amount]<br>- /lifesteal set heart</p>\n</blockquote>\n<h3><strong>注意事项</strong></h3>\n<p>此模组适用于 Minecraft 26.2 上的 Fabric，并且需要 Fabric API。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

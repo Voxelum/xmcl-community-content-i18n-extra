@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d97c02ba7b289f5",
+  "content": "<h1 style=\"text-align:center\">腰帶槽</h1>\n<p><strong>腰帶槽</strong> 为玩家增加一个专用的实用物品栏，用于存放有用的生存物品。</p>\n<p>将火把、图腾、指南针、药水、望远镜或其他支持的物品放在腰带上，而不必牺牲热键栏或副手。</p>\n<p style=\"text-align:center\"><strong>功能</strong></p>\n<ul>\n<li>专用腰带实用槽</li>\n<li>整合物品栏</li>\n<li>HUD 顯示</li>\n<li>角色模型渲染</li>\n<li>可配置的支援物品</li>\n<li>基於標籤的整合包支援</li>\n<li>服務器授權行為</li>\n</ul>\n<p>腰帶槽的設計旨在輕量、實用且符合原版的體驗。</p>\n<p style=\"text-align:center\"><strong><em>可選動態燈光整合</em></strong></p>\n<p><span style=\"color:#2dc26b\">如果客戶端和服務器都安裝了動態燈光，腰帶槽將自動使用它來處理發光的腰帶物品。</span></p>\n<p><span style=\"color:#2dc26b\"><br><br><span style=\"color:#fbeeb8\"><span style=\"color:#fbeeb8\">附註：<br>不會嘗試取代你的物品欄或添加完整的飾品系統。<br>它只是提供了一個專注於日常遊戲的自然實用槽位。</span><br></span></span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7b8a8dbbb8c497c7",
+  "content": "<p>ПРИМЕЧАНИЕ: Это не мой мод, но автор мода дал разрешение на его загрузку, чтобы помочь опубликовать и обновить мои модпаки здесь, на CurseForge. Лицензирование основано на их рекомендациях и воспоминаниях о проекте.</p>\n<p>&nbsp;</p>\n<p>Форк SGCraft/Stargate Network для версии 1.12.2, который позволяет объединять события (Event Merging).</p>\n<p>&nbsp;</p>\n<p>Это сложный способ сказать, что данный форк позволяет генерировать адреса в любом сундуке с лутом для стазгэтов мировой генерации при использовании EtherAlt-Utils <a href=\"https://www.curseforge.com/minecraft/mc-mods/etheralt-utils\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/etheralt-utils</a>.</p>\n<p>ПОМНИТЕ: Чтобы получать случайные адреса стазгэтов из сундуков с лутом, вам нужно использовать этот форк SGCraft/Stargate Network (2.0.6) И также добавить EtherAlt-Utils, ссылка на который указана выше, так как именно этот мод добавляет адреса для лута (не сам SGCraft 2.0.6, он лишь позволяет EtherAlt-Utils это делать).</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

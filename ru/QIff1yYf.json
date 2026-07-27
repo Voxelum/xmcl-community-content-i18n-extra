@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f3bf2e37954b7b4",
+  "content": "English\n---\nThis resource pack fixes the issue where, when using the `dateFormatMinecraft` option in MiniHUD with Simplified Chinese language and invoking the `{MOON}` placeholder, a `Format error:` is displayed. Additionally, this resource pack optimizes the display logic for moon phase trends—during full moons and new moons, the moon phase has reached its extreme, and the trend no longer rises or falls, so a \"`-`\" is used instead of \"`↑`\" or \"`↓`\" to indicate a flat trend.\n> **Note:** This resource pack is designed for **Simplified Chinese** only.\n\nРусский\n---\nЭтот ресурспак исправляет проблему, при которой в MiniHUD с опцией `dateFormatMinecraft` и выбранным упрощённым китайским языком при использовании плейсхолдера `{MOON}` отображается ошибка `Format error:`. Кроме того, этот ресурспак оптимизирует логику отображения тенденций фаз луны: во время полнолуния и новолуния фаза луны достигает экстремума, и тенденция перестаёт расти или падать, поэтому для обозначения плоской тенденции используется символ \"`-`\" вместо \"`↑`\" или \"`↓`\".\n> **Примечание:** Этот ресурспак предназначен только для **упрощённого китайского языка**.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

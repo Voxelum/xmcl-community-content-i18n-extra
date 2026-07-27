@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d61ef66b695f4c8",
+  "content": "\n\n# MissingSoundsFix\nЭтот пакет ресурсов исправляет предупреждения об отсутствующих звуках в Minecraft, такие как `Missing sound for event` или `Unable to play empty soundEvent`.\n\n### Исправленные звуки\n- `block.fungus.fall` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)\n- `block.fungus.hit` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)\n- `block.spawner.fall` - [MC-275274](https://bugs.mojang.com/browse/MC-275274)\n- `entity.cod.ambient` - [MC-97521](https://bugs.mojang.com/browse/MC-97521)\n- `entity.goat.screaming.horn_break` - [MC-250924](https://bugs.mojang.com/browse/MC-250924)\n- `entity.puffer_fish.ambient` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)\n- `entity.salmon.ambient` - [MC-97521](https://bugs.mojang.com/browse/MC-97521)\n- `entity.snow_golem.ambient` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)\n- `entity.tropical_fish.ambient` - [MC-261260](https://bugs.mojang.com/browse/MC-261260)\n- `item.goat_horn.play` - [MC-250924](https://bugs.mojang.com/browse/MC-250924)\n- `music.nether.warped_forets` - [MC-177819](https://bugs.mojang.com/browse/MC-177819)\n\n### Поддерживаемые версии\n1.19 и новее (1.21.2-pre4 на момент написания). Возможно, работает в более ранних версиях (не проверено).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

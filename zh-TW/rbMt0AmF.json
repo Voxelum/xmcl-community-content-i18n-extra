@@ -1,0 +1,6 @@
+{
+  "bodyHash": "481bf19f42ab97c2",
+  "content": "\n\nHalo HUD 是一款適用於 Fabric 啟動器的 Minecraft 模組，會在準心周圍加上小型光環樣式的指示器，顯示玩家的生命值與飽食度。\n\n這讓玩家可以快速查看角色狀態，無需低頭查看 HUD，特別是在使用大尺寸螢幕時。\n\n**HaloHUD >= 2.0 需使用 YetAnotherConfigLib 而非 ClothConfig！**\n\n\n當生命值與飽食度條皆滿時，指示器會自動隱藏。\n\n## 相依模組\n\n* 選填相依模組：[YetAnotherConfigLib](https://modrinth.com/mod/yacl)，用於提供遊戲內設定畫面\n\n### 僅限 Fabric\n* 需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n* 選填：[Mod Menu](https://modrinth.com/mod/modmenu)，用於提供遊戲內設定畫面\n\n\n## 模組相容性\n應可與任何不會在準心周圍繪製其他圖示的模組相容。\n\n與我的其他模組 [AutoHud](https://modrinth.com/mod/autohud) 搭配使用效果極佳。\n也能與我的模組 [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) 良好配合。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

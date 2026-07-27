@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2084958eb9b2e3c7",
+  "content": "![Shear Assist 在大范围内剪羊毛](https://cdn.modrinth.com/data/cached_images/e3ca601d42b157ffb4cca12774f420c321b78c8f.jpeg)\n# Shear Assist\n\nShear Assist 是一个轻量级的 Fabric 模组，允许你通过右键点击来同时剪切附近的绵羊。\n\n它对于大型羊圈、羊毛农场以及颜色多样的羊群非常有用，因为原版剪毛操作可能会变得重复且枯燥。只需拿着剪刀右键点击一只可剪毛的绵羊，配置范围内的其他可剪毛成年绵羊也会同时被剪毛。\n\n## 功能\n\n* 范围剪毛：当你用剪刀右键点击一只绵羊时，可以同时剪切附近的多只成年绵羊。\n* 启用/禁用切换：可以从配置界面开启或关闭此功能。\n* 可配置范围：可以选择 2 到 10 格不等的剪毛范围。\n* 耐久模式：选择剪刀是每剪一只羊消耗一次耐久，还是每次使用仅消耗一次耐久。\n* 轻量级行为：仅在玩家使用剪刀时才检查附近的绵羊。\n\n## 配置\n\n设置可以通过 Mod Menu 在游戏内进行调整。\n\n* 启用 (Enabled)，默认：开启 (ON)\n  * 当禁用时，将使用原版的剪毛行为。\n* 剪毛范围 (Shearing Range)，默认：10\n  * 可以设置为 2 到 10 格。\n* 耐久模式 (Durability Mode)，默认：每只羊 (per sheep)\n  * 每只羊：每剪一只羊，剪刀消耗 1 点耐久。\n  * 每次使用：无论剪多少只羊，右键点击动作仅消耗 1 点耐久。\n\n## 依赖项\n\n* Fabric API：必需。\n* Mod Menu：推荐安装，用于打开游戏内配置界面。\n* Cloth Config API：26.1.x 版本的配置界面构建需要此项。\n\n## 许可证\n\nShear Assist 采用 MIT 许可证发布。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

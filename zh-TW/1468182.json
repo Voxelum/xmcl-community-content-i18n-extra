@@ -1,6 +1,6 @@
 {
-  "bodyHash": "NoteHgKYQ6E=",
-  "content": "<h3>關於這個模組</h3><p>製作鞘翅火箭或TNT爆炸時總是欠缺火藥嗎？厭倦了建造巨大又卡頓的苦力怕農場嗎？這個輕量級的Fabric模組就是解決方案！</p><p>它完美整合了<strong>Create</strong>模組，新增一個符合邏輯且可完全自動化的火藥配方。你可以輕鬆設置工廠，無限量生產煙火與TNT！</p><p><strong>運作方式：</strong>在鍋爐中以機械攪拌器混合<strong>1x 沙子</strong>、<strong>1x 礫石</strong>與<strong>1x 燧石</strong>，即可產出<strong>2x 火藥</strong>。無需加熱！</p><p><em><img src=\"https://media.forgecdn.net/attachments/description/null/description_97e70c37-03e7-4df0-9cc2-d674406c23f5.png\"></em></p><h3>為何選用這些材料？</h3><p>這三種材料（沙子、礫石、燧石）均可透過原版機制與Create的粉碎/洗滌系統完全自動化。這獎勵了那些想設計精巧生產線，而非單純刷怪的玩家。</p><h3>前置需求</h3><p>使用此模組前，需先安裝以下內容：</p><ul>\n<li><p><strong>Fabric API</strong></p></li>\n<li><p><strong>Create（Fabric版）</strong></p></li>\n</ul><h3>模組包</h3><p>您可完全自由地將此模組加入任何CurseForge模組包中！</p>",
+  "bodyHash": "191090d216f853f6",
+  "content": "\n\n<h3>關於此模組</h3>\n<p>還在為鞘翅火箭或 TNT 爆炸急需火藥而煩惱嗎？受夠了建造龐大且容易卡頓的苦力怕農場了嗎？這款輕量級 Fabric 模組正是您的最佳解方！</p>\n<p>它與<strong>Create</strong>模組完美整合，提供了一個邏輯合理且可完全自動化的火藥製作配方。您可以輕鬆搭建一座工廠，生產無限的煙火與 TNT！</p>\n<p><strong>運作方式：</strong>使用機械攪拌機在水槽中混合<strong>1 個沙子</strong>、<strong>1 個礫石</strong>與<strong>1 個燧石</strong>，即可產出<strong>2 個火藥</strong>。完全不需要加熱！</p>\n<p><em><img src=\"https://media.forgecdn.net/attachments/description/null/description_97e70c37-03e7-4df0-9cc2-d674406c23f5.png\"></em></p>\n<h3>為什麼選擇這些材料？</h3>\n<p>這三種材料（沙子、礫石、燧石）都可以利用原版機制以及 Create 的碾碎與水洗系統進行全自動化。這將獎勵那些願意動腦設計巧妙生產線的玩家，而不是單純依賴刷怪農場。</p>\n<h3>前置需求</h3>\n<p>要使用此模組，您必須先安裝以下模組：</p>\n<ul>\n<li>\n<p><strong>Fabric API</strong></p>\n</li>\n<li>\n<p><strong>Create (Fabric)</strong></p>\n</li>\n</ul>\n<h3>整合包</h3>\n<p>您可以自由地將此模組收錄在任何 CurseForge 整合包中！</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

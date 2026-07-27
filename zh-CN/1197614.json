@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bf94bb8f96cb9155",
+  "content": "\n\n<h1>Ars Polymorphia</h1>\n<p><img src=\"https://github.com/Vonr/Ars-Polymorphia/blob/master/src/main/resources/ars_polymorphia.png?raw=true\" width=\"200\">;</p>\n<p>为 <a href=\"https://www.curseforge.com/minecraft/mc-mods/ars-nouveau\" target=\"_blank\" rel=\"nofollow\">Ars Nouveau</a> 的存储讲台添加了 <a href=\"https://www.curseforge.com/minecraft/mc-mods/polymorph\" target=\"_blank\" rel=\"nofollow\">Polymorph</a> 支持，使你能够从存储讲台的终端使用相同的原料来合成物品。</p>\n<p>当一组原料匹配多个配方时，输出槽上方会出现一个按钮。点击该按钮将显示所有可能的结果列表，选择其中一个即可更改合成输出以匹配所选结果。只要原料不改变，Polymorph 还会记住上次的选择，因此可以在同一选择下反复进行合成操作。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "14d7d62f1c820159",
+  "content": "\n\n# 暮色森林 Iris Xe 修复\n\n<details><summary>English</summary>\n\n在搭载 Intel Iris Xe 集成显卡的设备上运行《暮色森林》时，游戏可能在启动后不久崩溃。这是一个已知的 [Intel 显卡驱动兼容性问题](https://github.com/TeamTwilight/twilightforest/issues/2496)。\n\n《暮色森林》开发团队已在 1.21.1 版本中[修复了该问题](https://github.com/TeamTwilight/twilightforest/commit/bdbc5c9018ca84421623247abee2c755465c5fb4)，但由于许多整合包仍停留在 1.20.1 版本，因此本项目提供了向后移植的修复方案。\n\n## 工作原理\n\n该修复本质上是一个着色器资源包；玩家可以通过手动加载资源包来解决兼容性问题。\n\n然而，在受影响的环境中游戏甚至可能无法正常启动，玩家通常无法方便地手动加载资源包。因此，本项目将修复内容封装为一个仅包含资源包的 Mod，使 Forge 能在启动阶段自动加载并应用该修复。\n\n此外，如果您的游戏未遇到此问题，安装本 Mod 后不会产生任何影响。\n</details>\n\n<details><summary>中文</summary>\n\n在搭载 Intel Iris Xe 集成显卡的设备上运行 The Twilight Forest 时，可能会出现游戏启动后崩溃的问题，这是一个已知的 [Intel 图形驱动兼容性问题](https://github.com/TeamTwilight/twilightforest/issues/2496)。\n\nTwilight 的开发团队已在 1.21.1 版本中[修复该问题](https://github.com/TeamTwilight/twilightforest/commit/bdbc5c9018ca84421623247abee2c755465c5fb4)，但由于大量整合包仍停留在 1.20.1，因此本项目提供了一个反向移植修复方案。\n\n## 工作原理\n\n该修复本质上是一个着色器资源包，玩家可以通过直接手动加载资源包来解决兼容性问题。\n\n但由于在受影响环境下游戏甚至无法正常启动，玩家通常无法方便的手动加载资源包，因此本项目将修复内容封装为了仅资源包形式的 Mod，使 Forge 能在启动阶段自动加载并应用修复。\n\n此外，如果你的游戏并没有遇到这个问题，安装这个 Mod 后什么也不会发生。\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

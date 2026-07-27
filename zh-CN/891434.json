@@ -1,0 +1,6 @@
+{
+  "bodyHash": "46f56beba52fe234",
+  "content": "\n\n<p>本模组完整移植了 Avaritia（包含宇宙渲染模型）</p>\n<p>&nbsp;</p>\n<h4><strong>注意：</strong></h4>\n<ul>\n<li>您可以将此模组添加到您的整合包中。</li>\n<li>支持通过 <span style=\"color:#930\">JEI</span> 查看合成配方。</li>\n<li>您可以通过 JSON 添加奇点！</li>\n<li>您可以通过 <span style=\"color:#930\">CraftTweaker</span> 添加合成配方！</li>\n<li>已有针对 1.21 及更高版本的适配计划，但不保证一定完成。</li>\n</ul>\n<p>&nbsp;</p>\n<h4><strong>CraftTweaker：</strong></h4>\n<p>mods.avaritia.CompressionCrafting.addRecipe(\"name\", input,&nbsp;output, inputCount, balanceCalculator(true/false));</p>\n<p>mods.avaritia.CompressionCrafting.remove(output);</p>\n<p>mods.avaritia.ExtremeTableCrafting.addShaped(\"name\", output, ingredients);</p>\n<p>mods.avaritia.ExtremeTableCrafting.addShapeless(\"name\", output, ingredients);</p>\n<p>mods.avaritia.ExtremeTableCrafting.remove(output);</p>\n<p>&nbsp;</p>\n<p><strong>官方下载：</strong></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10\" rel=\"nofollow\">Avaritia (1.1x)</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/avaritia\" rel=\"nofollow\">Avaritia (官方版)</a></p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

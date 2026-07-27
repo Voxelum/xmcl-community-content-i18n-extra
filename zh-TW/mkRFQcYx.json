@@ -1,0 +1,6 @@
+{
+  "bodyHash": "65caddfa70322bfa",
+  "content": "包含性能优化模组和 Bedwars 特定的游戏辅助功能，同时尽可能保持模组列表精简。\n\n## 性能优化：\n- 已包含实体剔除（Entity Culling）和重定向器（Redirectionor）\n- 我测试了其他几种优化模组，但它们要么降低了性能，要么毫无作用。测试过的模组包括 Ksyxis、Phosphor Legacy Forge、BetterFPS 和 FoamFix。\n\n## Bedwars 特定功能：\n- BedWar Mod\n  - 添加资源追踪覆盖层并汇总你的游戏统计数据，让你直观了解当前表现。\n- Mellow\n  - 在标签页列表中显示其他玩家的 Bedwars 数据（星级、FKDR、连胜次数）。\n- TNT 倒计时\n  - 让你一目了然地看到 TNT 爆炸前剩余的时间。\n\n## 其他信息：\n\n此外，还包含了一些通用的生活质量（QoL）模组（例如切换冲刺、缩放等）。\n\n如果你存在技术问题，这个模组包并不会让你变得更强，它不包含作弊功能。不要期望下载此模组包后能突然开始赢得比赛，它仅提供了一些针对 Bedwars 的生活质量改进功能。\n\n请在链接的 [Discord 服务器](https://discord.gg/NGA3ZSHqEY) 上报告任何问题或建议更改/新增内容。\n\n## 外部模组：\n本模组包捆绑了 [Redirector](https://github.com/MCTeamPotato/Redirector/tree/1.12.2-1.8.8?tab=readme-ov-file)，该模组采用 LGPL 许可证，因此允许捆绑分发。\n\n我也推荐使用类似 [HitDelayFix](https://www.curseforge.com/minecraft/mc-mods/hit-delay-fix) 的模组，但目前 Modrinth 上没有此类模组，也没有开放许可的版本，因此你需要单独下载它。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

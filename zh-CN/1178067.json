@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8637c6a89bd58c6",
+  "content": "\n\n<p>这是 Wildfire 的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/female-gender-neoforge\" target=\"_blank\" rel=\"nofollow\">Female Gender mod</a> 的一个略显无聊的附加模组。</p>\n<p>如果你觉得现有的参数限制无法满足你的需求，那么你可能需要此模组来修改配置文件 femaleplasticsurgery-common.toml 中某些胸部相关参数的上下限。</p>\n<p>目前你可以修改：</p>\n<ul>\n<li>最大尺寸</li>\n<li>最小 Y 偏移量</li>\n<li>最小 Z 偏移量</li>\n<li>最大 Z 偏移量</li>\n<li>弹跳倍率</li>\n<li>下垂倍率</li>\n</ul>\n<p><strong>由于《Female Gender》模组修改胸部尺寸的实际原理是移动乳房模型的位置，因此仍然存在实际的上限。不要指望它能让你获得极其夸张的胸部尺寸。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

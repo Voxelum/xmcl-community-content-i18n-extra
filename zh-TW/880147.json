@@ -1,0 +1,6 @@
+{
+  "bodyHash": "354c8da8eb787d05",
+  "content": "<h1>早期加載畫面</h1>\n<p>一款 Fabric 模組，可在遊戲加載過程中顯示早期加載畫面並展示相關資訊。</p>\n<h2>兼容性</h2>\n<p>該模組已在 Prism Launcher 中使用 AOF6 及預設設置進行測試，未發現任何問題。</p>\n<h2>配置</h2>\n<p>所有配置均在 config 資料夾中的 <code>early-loading-screen.properties</code> 文件內完成。</p>\n<h3><code>window_creation_point</code></h3>\n<p>可用選項：<code>mixinEarly</code>、<code>mixinLoad</code>、<code>preLaunch</code>、<code>mcEarly</code>、<code>off</code><br>\n預設值：<code>mixinEarly</code>（若已安裝 ImmediatelyFast，則為 <code>mixinLoad</code>）</p>\n<p>此選項控制視窗的創建時機。\n上述可用選項按從最早到最晚的順序排列。\n選項 <code>mixinEarly</code> 會執行一些類別載入的修改，若遇到問題請使用 <code>mixinLoad</code>。</p>\n<p>使用 <code>off</code> 可完全關閉早期畫面。</p>\n<h3><code>enable_entrypoint_information</code></h3>\n<p>可用選項：<code>true</code>、<code>false</code>\n預設值：<code>true</code></p>\n<p>此選項控制是否在早期畫面上顯示入口點資訊。\n啟用時，它將修補 fabric-loader 以顯示入口點調用過程。\n若遊戲啟動出現異常問題，請將其禁用。</p>\n<h3><code>reuse_early_window</code></h3>\n<p>可用選項：<code>true</code>、<code>false</code>\n預設值：<code>true</code><br>\nWindows 系統不可用。</p>\n<p>此選項控制是否將早期畫面重複用作遊戲主視窗。</p>\n<h3><code>enable_mixin_pretransform</code></h3>\n<p>可用選項：<code>true</code>、<code>false</code>\n預設值：<code>true</code></p>\n<p>此選項控制 Mixin 應用是否提前運行。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

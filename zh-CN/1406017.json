@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cba9100026d5db73",
+  "content": "\n\n<p>大家好！直接说重点。</p>\n<h3><strong>本模组（目前）为 JEI 新增了 7 个分类！！</strong></h3>\n<ul>\n<li>猪灵交易</li>\n<li>钓鱼战利品</li>\n<li>试炼密室宝箱战利品</li>\n<li>试炼密室刷怪笼战利品</li>\n<li>生物交互！（例如青蛙吞食岩浆怪方块生成荧光蛙灯、海龟成长、犰狳被梳理……）</li>\n<li>村庄英雄各职业奖励！</li>\n<li>猫的晨间礼物（驯服的猫与玩家同眠后清晨带来的物品）</li>\n</ul>\n<p>所有这些分类都<strong>随游戏战利品表动态生成</strong>，因此<strong>完全兼容数据包和模组</strong>！它甚至应该能自动识别其他模组的村民并归入“村庄英雄”分类（未经测试）。</p>\n<h3><strong>客户端/服务端：</strong></h3>\n<ul>\n<li>仅客户端安装而服务端未安装时，模组仍可运行，但不会同步战利品表。</li>\n<li>若两端均安装了该模组，战利品表将会同步，客户端即可识别服务器的数据包或模组内容！</li>\n<li>若服务端安装了该模组，客户端未安装则无法加入服务器。</li>\n</ul>\n<p>此外，本模组提供西班牙语和英语翻译。它能自动识别战利品表中的附魔、药水效果、不祥药水、物品耐久度及物品数量！</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_e949df5b-f2a0-4a9d-bf96-47b95f2a6bc3.png\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_7cc51bfa-69e6-40da-bb78-13f250c374ae.png\"></p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_978ff64c-5324-4902-b3d5-014864e16990.png\"></p>\n<p>&nbsp;</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_30514f16-4d2e-40fd-904c-cdc95ed2b60c.png\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

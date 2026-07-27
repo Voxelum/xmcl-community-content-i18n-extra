@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d2f09c237177b66e",
+  "content": "\n\n# ArdaMaps\n![Minecraft 1.20.1](https://img.shields.io/badge/Minecraft-1.20.1-62b47a?style=flat-square)\n![Fabric](https://img.shields.io/badge/Fabric-loader-dbb66e?style=flat-square)\n[![许可证：CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat-square)](LICENSE.txt)\n\n## 功能特性\n\n- 交互式地图，支持 PMTiles、[BlueMap](https://modrinth.com/mod/bluemap) 瓦片以及静态图片。\n- 支持地图图层及可调节的缩放级别\n- 罗盘与方位仪 HUD，显示附近地标及其距离\n- 战争迷雾探索进度追踪\n- 游戏内指南书，可通过资源包完全自定义\n\n## 运行需求\n\n- Minecraft 1.20.1\n- Fabric Loader\n- Fabric API\n- 服务端需已安装并运行 [ArdaRegions](https://modrinth.com/mod/ardaregions)\n- 有效的地图数据源：PMTiles、[BlueMap](https://modrinth.com/mod/bluemap) 或静态图片\n\n## 安装配置\n\n### 1. 在服务端安装\n\n1. 将模组 jar 文件放入**服务端**的 `/mods/` 目录中\n2. 启动一次服务器 - 系统将自动生成 `config/arda-maps/server.json` 配置文件\n3. 编辑 `server.json`：设置你的 API 地址，并至少添加一个维度配置项\n\n### 2. 在客户端安装\n\n1. 将模组 jar 文件放入**客户端**的 `/mods/` 目录中\n2. 客户端配置将在每位玩家首次登录时自动生成。\n\n## 致谢\n\n衷心感谢所有为本模组开发提供帮助的人：\n\n- Fornad：参与 Beta 测试、反馈 Bug，并作为首位用户使用该模组。\n- Tapter：负责 [ArdaRegions](https://modrinth.com/mod/ardaregions) 的集成与 Beta 测试\n- ArdaCraft 全体团队：为本项目的开发提供了支持与 Beta 测试。\n- Blue（BlueMap）：帮助我使用其模组的瓦片集。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

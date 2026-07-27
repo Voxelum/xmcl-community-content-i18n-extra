@@ -1,0 +1,6 @@
+{
+  "bodyHash": "59643e6f77ef3ff5",
+  "content": "<p>KeepInventoryNext — это новый способ сохранять ваш инвентарь при смерти.</p>\n<p>Через файл конфигурации вы можете выбрать полное сохранение, частичную потерю или даже удаление всех предметов из вашего рюкзака.</p>\n<p>Однако, если правило игры keepInventory установлено в true, этот мод не будет работать.</p>\n<table>\n<thead>\n<tr>\n<th style=\"text-align:center\">Режим сохранения</th>\n<th style=\"text-align:center\">Примечание</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:center\">0</td>\n<td style=\"text-align:center\">Сохранить все предметы.</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">1</td>\n<td style=\"text-align:center\">Сохранить только хотбар, выбросить все предметы из рюкзака.</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">2</td>\n<td style=\"text-align:center\">Сохранить только рюкзак, выбросить все предметы из хотбара.</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">3</td>\n<td style=\"text-align:center\">Выбросить все предметы, как обычно.</td>\n</tr>\n<tr>\n<td style=\"text-align:center\">4</td>\n<td style=\"text-align:center\">Удалить все предметы из рюкзака, экипировку и опыт.</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

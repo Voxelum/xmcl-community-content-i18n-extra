@@ -1,0 +1,6 @@
+{
+  "bodyHash": "499a30b5d3810f14",
+  "content": "<h1>Винилы</h1>\n<p>Мод для Fabric, позволяющий создавать пользовательские музыкальные диски на стороне сервера.</p>\n<h2>Быстрый старт</h2>\n<h3>1. Добавьте звуковые файлы</h3>\n<p>Разместите ваши звуковые файлы формата <code>.ogg</code> в:</p>\n<pre><code>config/vinyls/sounds/</code></pre>\n<p>Имя файла становится идентификатором звука (например, <code>custom_music.ogg</code> → <code>vinyls:custom_music</code>)</p>\n<h3>2. Добавьте поведение к вашему предмету Filament</h3>\n<p>Добавьте поведение <code>vinyls:music_disc</code> в любое <a href=\"/linkout?remoteUrl=https%253a%252f%252ftomalbrc.de%252fdocs%252ffilament%252fcontent%252fitem%252fitems.html\" target=\"_blank\" rel=\"nofollow\">определение предмета Filament</a>:</p>\n<pre><code>\"behaviour\": {\n  \"vinyls:music_disc\": {\n    \"sound_event\": \"vinyls:custom_music\",\n    \"description\": \"Furq - Custom Music\",\n    \"length_in_seconds\": 112.0,\n    \"comparator_output\": 15,\n    \"range\": 64\n  }\n}</code></pre>\n<h3>3. Перезапустите сервер</h3>\n<p>Всё готово! Ваш пользовательский музыкальный диск готов к использованию.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

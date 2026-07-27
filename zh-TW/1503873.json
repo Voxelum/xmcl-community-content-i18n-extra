@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4e8b771b7a20bba8",
+  "content": "<p><strong>Ink's PokeCapsules</strong> 提供了一種簡單且清晰的方式，將 Cobblemon 中的寶可夢作為物品進行存儲、攜帶和傳輸。</p>\n<p>使用 <strong>Poke Capsule（精靈球）**右鍵點擊已出場的寶可夢，即可將其存入便攜的精靈球物品中。該精靈球可以交易給其他玩家，或在之後使用以將寶可夢恢復到隊伍或電腦中。</p>\n<p>本模組旨在保留寶可夢的重要數據，包括個體值、性格、特性以及其他關鍵屬性。</p>\n<p>Ink Capsule 現在包含了一個<strong>合成配方</strong>，並且模組還提供了<strong>管理員精靈球指令</strong>，可用於測試、活動、獎勵以及伺服器管理等場景。</p>\n<p><strong>由 Average 進行遊玩測試</strong> (<code>your_average_user_</code>)</p>\n<h2>功能特點</h2>\n<ul>\n<li>將寶可夢轉換為便攜的精靈球物品</li>\n<li>將寶可夢恢復至隊伍或電腦</li>\n<li>保留寶可夢的重要數據</li>\n<li>工具提示顯示寶可夢內部的關鍵信息</li>\n<li>Poke Capsule 的合成配方</li>\n<li>用於生成精靈球的管理員指令</li>\n</ul>\n<h2>指令</h2>\n<ul>\n<li><code>/capsulegive</code></li>\n<li><code>/tempcapsulegive</code></li>\n</ul>\n<h2>依賴要求</h2>\n<ul>\n<li>Cobblemon (NeoForge)</li>\n<li>Minecraft 1.21.1</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

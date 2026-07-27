@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a28512aee8e08a49",
+  "content": "\n\n![重燃戰鬥橫幅](https://cdn.modrinth.com/data/cached_images/b8437b6adc9f01933edeb6bc1be552fd28d89ccb_0.webp)\n\n## Rekindled Combat 是 Better Combat 的相容原版分支\n\n**想要搭配此模組、擁有攻擊動畫且相容原版的武器嗎？請下載 [Fresh Weaponry](https://modrinth.com/mod/fresh-weaponry)！**\n\n## ✨功能特色✨\n\n### 即時攻擊\n攻擊前搖設為 0，表示攻擊為即時觸發\n\n### 移動不中斷\n攻擊時移動速度保持不變\n\n### 優化攻擊判定範圍\n擴大武器揮砍判定範圍，且所有武器的判定角度保持一致\n\n### 恢復預設攻擊距離\n將劍與其他武器的攻擊距離恢復至原版預設的 3 格\n\n### 原版劍揮舞動作\n原版劍的攻擊動畫與原版相似（不同於自訂武器）\n\n### 攻擊揮砍動畫\n支援單手、雙手與雙持武器的攻擊動畫\n\n### 便利性改進\n按住攻擊鍵可進行連擊，且揮劍時不會切斷草叢\n\n**---------------------**\n### 依賴項目\n\n需要 [Cloth Config API](https://modrinth.com/mod/cloth-config)、[playerAnimator](https://modrinth.com/mod/playeranimator) 以及 Fabric 版的 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n**---------------------**\n### 致謝\n\n本模組是基於 [ZsoltMolnarrr](https://modrinth.com/user/ZsoltMolnarrr) 開發的 [Better Combat](https://modrinth.com/mod/better-combat) 所建立的分支\n\n歡迎將 Rekindled Combat 用於整合包中。\n\n## 使用方式\n\n本模組主要用於我正在開發的整合包「Rekindled Overhaul」中",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

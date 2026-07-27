@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4bc11f9342cd49b9",
+  "content": "[![Bisect Hosting Promotion Banner](https://www.bisecthosting.com/partners/custom-banners/ee9630c7-c981-45f9-9862-3a1d71a628bf.webp)](https://redirect.daqem.com?to=https%3A%2F%2Fbisecthosting.com%2FDAQEM%3Fr%3DUILibModrinth)\n\n[![Ko-fi Promotion Banner](https://i.imgur.com/SU7HhbO.png)](https://ko-fi.com/daqem)\n\n<br>\n\n本模组提供了一个专为 Minecraft 模组开发定制的用户界面库。\n\n该库旨在为模组开发者提供无缝的开发体验，简化游戏内用户界面的构建流程。\n\n## 包含的 UI 组件：\n\n### 按钮（九宫格切片）：\n\n创建具有可自定义纹理的交互式按钮，这些纹理能够自适应不同尺寸，确保外观精美且一致。\n\n### 文本：\n类型：`普通`、`多行`、`滚动`、`截断`。  \n轻松将文本元素集成到用户界面中，实现动态且信息丰富的显示效果。可根据模组的视觉风格自定义字体、颜色和大小。\n\n### 纹理：\n类型：`普通`、`九宫格切片`。  \n将丰富的纹理直接嵌入 UI 中，提升整体视觉体验。无论是背景元素还是装饰性点缀，此组件都能简化纹理的集成过程。\n\n### 物品：\n类型：`无装饰`、`有装饰`。  \n在 UI 中展示游戏内的物品，为玩家提供清晰且沉浸式的库存内容或合成配方表示。\n\n### 图标：\n\n轻松加入用于状态指示、成就提示或其他任何视觉线索的图标。图标可进行自定义以契合模组的风格，从而增强玩家的参与度。\n\n### 滚动区域：\n\n在 UI 中实现可滚动区域，以便高效浏览大量内容。非常适合用于背包、任务日志或任何需要动态内容显示的界面。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

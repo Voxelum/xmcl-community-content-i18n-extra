@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e88c7ec7888452d3",
+  "content": "此模組新增了**基於企鵝間諜機構在《企鵝俱樂部》中使用的井字遊戲密碼的字體**（詳情請參閱《事實性情報間諜手冊》），以及**29 種旗幟圖案**：其中 27 種基於角色設計，另外 2 種為十字架和圓圈的獨立版本。代碼結構如下：\n\n![解密指南：在井字格中從左到右、從上到下依次寫入字母 A 至 I；接著用十字架重複寫入 J 至 R，用圓圈重複寫入 S 至 Z。第 27 個字符（帶有圓圈的右下角）是總監的簽名](https://cdn.modrinth.com/data/7qiBvoTv/images/f68cbb5900658e39273cdecd10515e917948ecb1.png)\n\n任何 [JSON 文本](https://minecraft.wiki/w/Text_component_format) 均可使用此字體（其 ID 為 `tictactoecode:tictactoe`），例如在 `/tellraw` 或 `/title` 命令中，或在自定義物品名稱中使用。如果您安裝了 [Bookshelf](https://modrinth.com/mod/bookshelf-lib)，還可以使用 `/bookshelf font` 命令以方便使用。\n\n該字體支援：\n* 所有 26 個拉丁字母 A 到 Z（大小寫顯示相同），\n* 總監的簽名，映射到 #。\n\n**要獲取旗幟圖案，請製作旗幟圖案物品**並像使用其他旗幟圖案一樣在織布機中使用它。它的製作材料各需一張紙、一個雪球和一根羽毛。\n\n![各種顏色的全部 27 種旗幟圖案截圖。](https://cdn.modrinth.com/data/7qiBvoTv/images/e9e8cfbd8e941464b09bbc86b96d1f07c34104b9.png)\n\n本模組靈感來自 Darkhax 的字體模組，例如 [豬豬密碼](https://modrinth.com/mod/pig-pen-cipher)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

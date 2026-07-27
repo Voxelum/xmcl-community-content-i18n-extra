@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ead948e1f5f04038",
+  "content": "此模组允许你设置刷怪笼在生成一定次数后破碎。\n\n有两种模式：\n\n- 白名单\n- 黑名单\n\n在白名单模式下，只有被加入白名单的生物的刷怪笼会消失。你可以在“Whitelist”部分添加白名单生物。\n\n有效的语法示例为 \"minecraft:pig\" 或 \"minecraft:pig;5\"，这将使任何猪的刷怪笼在生成 5 只猪后破碎。如果未设置生成数量，则使用“Whitelist”部分中配置的 maxSpawnCount（最大生成数量）。\n\n在黑名单模式下则相反。只有被列入黑名单的刷怪笼不会破碎。你可以在“Blacklist”部分添加黑名单生物。\n\n黑名单仅需要生物的注册名称。因此，有效的语法应为 \"minecraft:pig\"。\n\n**配置文件位于世界目录下的 serverconfig 文件夹中。（从 1.16.5+ 版本的 1.1.0 开始，配置文件位于常规的 config 文件夹中）**\n<br>\n<p><img src=\"https://i.imgur.com/0KFppoR.png\" alt=\"Akliz Partner\" width=\"320\" height=\"152\"></p>\n<p><a href=\"https://www.akliz.net/mrbysco\" rel=\"nofollow\">需要服务器？使用促销代码 \"mrbysco\" 首月享受 20% 折扣</a></p>\n \n<b>如有问题，欢迎加入我的 Discord。</b>\n\n## 想要支持我们吗？ ##\n<p><a href=\"https://www.patreon.com/Mrbysco\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp;-Mrbyesco</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

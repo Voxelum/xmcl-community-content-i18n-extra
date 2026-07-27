@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5ca99ab033cf1470",
+  "content": "# Polydex\nPolydex 是一款模组，允许您查看服务器上的方块和物品的玩家友好型信息。它专为使用 [Polymer](https://github.com/Patbox/polymer/) 模组或 [PolyMC](https://github.com/TheEpicBlock/PolyMc) 的生存风格、原版客户端兼容型服务器而设计，但也适用于模组化或仅包含原版内容的场景！\n\n它可以像 WTHIT/HWYLA/WAILA 等模组一样，以 Boss 栏或侧边栏的形式显示目标方块或实体的基本信息工具提示。\n\n它还通过类似 Roughly Enough Items / Just Enough Items 模组的物品栏 GUI 界面，提供了一种简单的查看物品合成配方的方法。\n\n该模组支持配置并捆绑了一些 API，以便其他模组能够与其兼容。要使用它，请使用 Modrinth Maven™。\n\n## 视频\nhttps://user-images.githubusercontent.com/39821509/154287702-29546608-3312-4ac6-a6d7-7cb621b86d2d.mp4\n\n## 附加组件：\n- [Polydex Bridge](https://modrinth.com/mod/polydex-bridge) - 您是否希望使用与 Polydex 兼容的模组，但更倾向于使用 [EMI](https://modrinth.com/mod/emi) 来查看它们？那么您会喜欢这个模组！Polydex Bridge 将 Polydex 的配方查看功能与 EMI 连接起来，提供最佳的客户端体验。您需要在这两边都安装它，否则它将无法工作！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

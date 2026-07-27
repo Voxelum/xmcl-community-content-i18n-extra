@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b766030e1410afc2",
+  "content": "# 早期加載條\n\n此模組為 Fabric 添加了一個早期加載條窗口。\n\n![預覽](https://cdn.modrinth.com/data/cached_images/c230158a49f2030548f1a97a0d65b85d7577952e.webp)\n\n從邏輯上講，由於此模組僅使用 Fabric API，因此它可適用於任何 Minecraft 版本。\n\n## 配置\n\n配置文件將在首次啟動時自動生成。\n\n```json5\n{\n  \"logoPath\": null,//(可選) 窗口標誌，默認使用內部 Minecraft 標誌\n  \"barTitle\": \"Minecraft %version%\",//標題，%version% = 遊戲版本\n  \"barMessage\": \"Minecraft 正在啟動，請稍候\",//消息，%version% = 遊戲版本\n  \"memoryBarColor\": \"-65536\",//內存條顏色（RGB 格式）\n  \"messageBarColor\": \"16711935\"//消息欄顏色（RGB 格式）\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

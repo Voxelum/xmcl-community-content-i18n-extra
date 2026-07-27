@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42ccb5c34aa0c250",
+  "content": "Inventorio Extra 是 Inventorio 的附加模组，設計用於與它一起使用。\n- 自動喂食物品消失修復 — 修復 SophisticatedBackpacks 的喂食升級與 Inventorio 衝突導致的物品丟失問題\n- 工具替換白名單 — 可配置的物品白名單（支援精確 ID、標籤和模組通配符）；白名單內的物品不會被自動替換\n- 方塊挖掘白名單 — 防止在挖掘特定方塊時進行工具替換\n- 工具替換精細控制 — 主開關、空手時替換、手持工具時替換等更多選項\n- 物品欄排序 — 按下 R 或在 Inventorio 介面中點選按鈕進行排序；分為 19 種物品類型，並在每種類別內按品質排序\n- 按鈕重新定位 — 拖放式介面，自由移動工具帶切換按鈕和排序按鈕的位置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

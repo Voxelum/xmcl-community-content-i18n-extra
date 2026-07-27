@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b41f0f4e098fad59",
+  "content": "## 📖 關於\n這個資料包添加了一個圖錄，你可以在其中放入地圖。圖錄會自動為玩家顯示其所在位置的地圖。\n\n要更改首選縮放比例，你需要從副手開始，將圖錄切換兩次。\n#\n## ▶️ 示範\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/AMXi4InjjkM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n#\n## 📗 合成表\n圖錄合成：\n\n![圖錄合成](https://cdn.modrinth.com/data/zp6touiL/images/3efedeefbffcd5e2d723bb2655a8c5d608334b34.png)\n\n修改後的地圖合成：\n\n![修改後的地圖合成](https://cdn.modrinth.com/data/zp6touiL/images/e8812788a5419d8d53967bbf0f1ff750e838e580.png)\n#\n## ⛔️ 已知問題\n這些問題無法修復或僅部分修復\n- 由於圖錄在技術上是一個 `minecraft:bundle`（bundle），它可以被重新著色（這不會在視覺上顯示出來）。\n#\n## 🔗 連結\n你可以在 PMC 頁面上留言！\n\n[![planetminecraft_logo](https://www.planetminecraft.com/images/layout/themes/modern/planetminecraft_logo.png)](https://www.planetminecraft.com/data-pack/just-atlas/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

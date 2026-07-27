@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c0df536289e4c336",
+  "content": "\n\n<h2>模組：</h2>\n<p>這是一個簡單的擴充模組，設計用於搭配&nbsp;<em>Create</em>，並與 <em>Create: Interactive</em>（Valkyrien Skies）共同使用。&nbsp;&nbsp;</p>\n<h2>功能：</h2>\n<p>列車現在需要 SU 與 RPM 才能運作。為此，新增了三個方塊：</p>\n<h3>安山岩傳動裝置：&nbsp;</h3>\n<p>在 16'384 SU 與最大 RPM 下，可達到最高速度的 1/3。</p>\n<h3>黃銅傳動裝置：&nbsp;</h3>\n<p>在 65'536 SU 與最大 RPM 下，可達到最高速度的 2/3。</p>\n<h3>堅固傳動裝置：&nbsp;</h3>\n<p>在 262'144 SU 與最大 RPM 下，可達到最高速度的 3/3。<br><br>每種傳動裝置在特定列車速度下提供相同的 SU 效率。</p>\n<h2>設定（Create）：</h2>\n<p>動力列車屬性：適用於所有列車。<br>列車屬性：僅限 <em>Steam 'n' Rails</em> 手動軌道車使用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

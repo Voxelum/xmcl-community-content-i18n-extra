@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a03b9bf9ec68b549",
+  "content": "\n\n## 描述\n\n这个全亮数据包/模组允许你在服务器上为所有玩家开启全局光照。每位玩家都可以随时通过 `/trigger ToggleFullBright` 命令自行开启或关闭。它在单人游戏中也能完美运行！\n\n## 数据包安装/卸载指南 \n### 安装\n前往你的存档文件夹，Windows 系统路径如下：\n```\nC:\\Users(your name)\\AppData\\Roaming\\.minecraft\\saves\n```\n将压缩包放入数据包文件夹中，然后重启你的世界或执行 `/reload`。\n\n### 卸载 \n\n- 运行 `/function mpfullbright:uninstall`。删除包之前请勿重新加载。\n- 删除该数据包/模组，然后执行 `/reload`。\n\n## 其他注意事项\n### 自定义\n- 通过给予玩家 `FB_blacklisted` 标签将其加入黑名单，禁止使用全亮功能（`/tag <玩家> <add/remove> FB_blacklisted`）\n- 通过运行 `/scoreboard players set FBDisabledByDefault mpfb.config <1/0>` 禁用默认开启全亮的设置（1：true，0：false）\n### 说明\n- 它在单人游戏中可以正常使用！\n- 此数据包会使夜视药水失效（因为你完全可以随时切换全亮，所以夜视药水将毫无用处）\n- 如需反馈、报告错误或寻求帮助，请通过本页面链接部分加入 [Discord 服务器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

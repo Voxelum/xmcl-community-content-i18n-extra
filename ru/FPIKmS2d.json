@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc001385c0738979",
+  "content": "# Timestamp Bro \n\n**Timestamp Bro** добавляет метки времени к сообщениям в чате, так что вы можете увидеть, когда было отправлено каждое сообщение.\n\n---\n\n## Особенности\n\n- **Метки времени в чате** - Adds a timestamp in front of every chat message.\n- **Формат времени по выбору** - Choose your preferred format (e.g., [HH:mm:ss], [HH:mm]).\n- **Подсказка при наведении** - Optional hover tooltip over the timestamp.\n- **Настройка цвета** - Pick your own timestamp color.\n- **Включение/Выключение** - Turn timestamps on or off in-game.\n\n---\n\n## Настройки\n\nВсе параметры доступны в игре через меню модулей (требуется [Mod Menu](https://modrinth.com/mod/modmenu)).\n\n---\n\n## Поддержка и обратная связь\n\nЕсли у вас есть идеи или вы нашли ошибку? Создайте проблему или внесите вклад в [репозитории GitHub](https://github.com/OrdinarySMP/TimestampBro).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

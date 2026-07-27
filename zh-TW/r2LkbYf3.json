@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b8e684cd51e701ba",
+  "content": "\n\n<a href=\"https://discord.gg/UmbU38vg2r\" target=\"_blank\">\n  \n![Discord](https://cdn.modrinth.com/data/cached_images/fea069d8ae28ec12757df4d91193406cfe4e38dd.png)\n\n</a>\n\n> 此模組為來自模組「[The Hordes](https://modrinth.com/mod/the-hordes)」的殭屍感染提供了更好的處理方式。\n> 使用本模組時，你實際上必須先製作注射器，接著再製造疫苗。請務必依照下方指南正確設定。\n\n# 注射器\n![SYRINGE](https://cdn.modrinth.com/data/cached_images/a63f20ea729986369ec36b0b9a719944fdbbab2b.png)\n \n# 疫苗\n![VACCINE](https://cdn.modrinth.com/data/cached_images/836bc9d71555aa8c881ffd76ef78cfa4b1028613.png)\n\n# 指南\n\n> 要使用本模組，你必須先正確設定「Hordes」模組的設定檔。\n\n> 請前往下方截圖中顯示的「infection_cures.json」檔案\n> \n![guide](https://cdn.modrinth.com/data/cached_images/069d0cfb610705b31190cfe85afdf199abafb130.png)\n\n> 內部程式碼必須如下所示：\n> \n![code](https://cdn.modrinth.com/data/cached_images/f8dede1fb464f51f2223926b9634c6e1d53203b7.png)\n\n\n```\n{\n  \"replace\": false,\n  \"values\": [\n    \"annoyvaccine:vaccine\"\n  ]\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c137d331441c146c",
+  "content": "\n\n**概述**\n\n這是將 Presence Footsteps（Forge）從 Forge 移植至 NeoForge 的非官方版本。若您使用 Forge，請前往查看原版模組。\n\n此模組會為玩家踩踏的每個方塊加入更動態的新音效，每次移動皆會觸發對應的音訊效果。同時，它也允許您建立個人自訂音效。\n\n---\n\n如果您在使用此 NeoForge 版本的模組時遇到任何問題，請在此處[提出問題回報](https://github.com/ZCRAFT-NPE/Presence-Footsteps-NeoForge/issues)——請勿就 NeoForge 版本的問題去困擾原作者 Sollace（原版 Fabric/Forge 版本）。\n\n---\n\n原版模組的作者為 Sollace/PaintNinja。\n\n作者相關連結：\n\n[Sollace](https://modrinth.com/user/sollace)\n\n[Paintninja](https://modrinth.com/user/paintninja)\n\n原版模組連結：\n\n[Presence Footsteps](https://modrinth.com/mod/presence-footsteps)\n\n---\n\n**貢獻**\n\n歡迎各界貢獻！如果您有改進想法或新功能建議，歡迎提交 Pull Request。\n\n如果您覺得這個專案有幫助，歡迎為該儲存庫按 Star 支持。您的支持對我們非常重要！\n\n---\n\n現已支援此前不支援的 Neoforge。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

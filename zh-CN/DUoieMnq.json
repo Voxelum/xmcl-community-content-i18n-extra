@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ebefe7c7fa5e1558",
+  "content": "\n\n## 允许使用其他颜色的混凝土粉末合成混凝土粉末\n\n### 注意：\n此数据包添加了合成配方，移除该数据包后控制台可能会显示关于缺失配方的警告。这不会对你的世界或存档信息造成损害。\n\n### 使用模组版本时的安装说明：\n它们的功能与数据包完全相同，但会应用于所有在开启此模组时创建或启用的世界。若你不想让其对所有世界生效，请使用数据包代替。\n\n**Forge**：\n<br>无需任何依赖，只需将模组放入 mods 文件夹即可\n\n**Fabric**：\n<br>需要 Fabric API\n\n**Quilt**：\n<br>需要 Quilted Fabric API\n\n### Purpur 数据包\nPurpur 数据包收录了那些曾有人提议加入 Purpur、或符合 Purpur 主题特性的功能，但最终决定以数据包形式提供！ \n<br>这些数据包的作用等同于 Purpur 中的单项配置选项。你可以随时添加或移除它们，而不会损坏服务器。\n<br>它们可在原版环境中使用，无需运行 Purpur 即可启用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

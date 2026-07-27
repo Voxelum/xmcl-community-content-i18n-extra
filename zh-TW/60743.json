@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15589ccff55b5e0b",
+  "content": "<p>DynmapCBBridge 是一个 Bukkit 插件，可用于支持 Bukkit API 的 Minecraft Forge 服务器——特别是 MCPC-Plus 或安装了 BukkitForge 模组的 Forge 服务器。该插件必须安装在“plugins”目录中，它提供了一个与 Bukkit 兼容的 Dynmap API 版本——允许其他 Bukkit 插件（如 Dynmap-* 插件、WorldBorder 等）与 DynmapForge（Forge 服务器上支持的 Dynmap 版本）进行交互。它还允许 DynmapForge 访问各种基于 Bukkit 的权限管理器（PermissionsEx、bPermissions、GroupManager）。</p>\n<p>要安装并使用此插件，您必须：<br>\n1) 拥有一个受支持的基于 Forge 的服务器：MCPC-Plus 或安装了 BukkitForge 模组的普通 Forge<br>\n2) 在“mods”目录中安装适当版本的 DynmapForge<br>\n3) 将 DynmapCBBridge.jar 文件复制到“plugins”目录中</p>\n<p>如需支持和提问，请使用以下资源：</p>\n<p>IRC: irc.esper.net 上的 #dynmap 频道<br>\n论坛：<a href=\"http://www.minecraftforum.net/topic/1543523-dynmap-dynamic-web-based-maps-for-minecraft/\" rel=\"nofollow\">http://www.minecraftforum.net/topic/1543523-dynmap-dynamic-web-based-maps-for-minecraft/</a><br>\n源代码：<a href=\"https://github.com/webbukkit/DynmapCBBridge\" rel=\"nofollow\">https://github.com/webbukkit/DynmapCBBridge</a><br></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

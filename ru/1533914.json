@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be8d9b474d957d6c",
+  "content": "\n\n<h1>Jade Block Hider</h1>\n<p>Jade Block Hider — это небольшое дополнение для NeoForge 1.21.1, позволяющее создателям модпаков скрывать определённые блоки из интерфейса Jade.</p>\n<p>Оно пригодится для секретных блоков, контента, заблокированного прогрессией, блоков, доступных только администраторам, блоков для головоломок, скрытых механизмов или любых других объектов, которые не нужно показывать через Jade при взгляде игрока.</p>\n<h2>Возможности</h2>\n<ul>\n<li>Скрытие выбранных блоков в Jade</li>\n<li>Простой файл конфигурации</li>\n<li>Предназначено для модпаков</li>\n<li>Работает с обычными идентификаторами блоков, например <code>modid:block_name</code></li>\n<li>Не требует использования команд</li>\n</ul>\n<h2>Конфигурация</h2>\n<p>После первого запуска отредактируйте:</p>\n<p><code>config/jade_block_hider-hidden-blocks.json</code></p>\n<p>Пример:</p>\n<pre><code>{\n  &quot;hiddenBlocks&quot;: [\n    &quot;minecraft:barrier&quot;,\n    &quot;minecraft:structure_block&quot;,\n    &quot;yourmod:secret_block&quot;\n  ]\n}\n</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

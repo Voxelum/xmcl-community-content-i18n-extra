@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e243a2768974aa4c",
+  "content": "# Патч BlockEmission для SPBR\nЭто пакет патчей для [SPBR](https://modrinth.com/resourcepack/spbr)  \nДобавляет текстуры блоков с цветным излучением.  \nТочно как в PTGI!  \n**Этот пакет создан по стандарту LabPBR**  \nДля использования этого пакета вам необходим шейдер, поддерживающий LabPBR.  \nИ поместите его _выше_ основного пакета SPBR\n![Три основных цвета](https://cdn.modrinth.com/data/cached_images/41e54b6bfe4bf04fa25ca66fd822b43b7fb4331a.jpeg)\n_Этот пакет можно использовать вместе с любым другим пакетом._",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

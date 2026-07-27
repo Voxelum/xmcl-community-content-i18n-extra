@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77454583a144a45f",
+  "content": "<p align=\"center\">\n    <img src=\"https://github.com/ItsPasi/fps-sync/blob/1.21.11/docs/Mod%20Icon%20Animation%20Small.webp?raw=true\">\n    <h1 align=\"center\">FPS-Sync</h1>\n</p>\n\nFPS-Sync 會自動將您的幀率限制在顯示器的刷新率。這與垂直同步（V-Sync）不同，且不會為遊戲增加輸入延遲。\n\n該模組還允許設定最高達 1000 FPS 的自訂幀率上限。\n\nMinecraft 中的幀率滑桿現在在最左側位置包含了一個新的「FPS-Sync」選項。選擇它以啟用該模組。\n\n![FPS-Sync-Settings-Menu](https://github.com/ItsPasi/fps-sync/blob/1.21.11/docs/Settings%20Menu.png?raw=true)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

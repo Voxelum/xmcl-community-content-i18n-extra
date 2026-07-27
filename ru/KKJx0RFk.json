@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dab754d19fe32aff",
+  "content": "\n\n# Важно\n\nЭта модификация представляет собой порт [REI Search Bar Calculations](https://modrinth.com/mod/rei-search-bar-calculations) для Forge. Она была портирована под версию модапака 1.20.1 и НЕ будет обновляться для новых версий Forge (возможно).\n\n# ➕➖REI Search Bar Calculations✖️➗\n  \n      ![Калькулятор в действии.](https://cdn.modrinth.com/data/cached_images/0fc6db9cd56f4e776c8f7921f6116529e6ba7373.gif))\n\n- Данный мод поддерживает функции, такие как метрические префиксы для чисел,\n\n    ![Пример использования метрических префиксов.](https://cdn.modrinth.com/data/cached_images/1658e43584bdbc5f928e5d2f4081b1e6017c0b97.gif))\n\n- а также поддержку стеков предметов Minecraft в качестве единицы измерения.\n\n    ![Пример использования стеков в качестве единиц измерения.](https://cdn.modrinth.com/data/cached_images/79a76572b5ce5bc7c99474f070df703b737e1ef8.gif)\n\n- Мод не добавляет команду /calc, как оригинальная модификация.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

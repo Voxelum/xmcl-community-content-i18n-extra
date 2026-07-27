@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dae41b99c2851662",
+  "content": "## 更深的黑暗\n一款用于 Minecraft 1.12.2 的模组，旨在自定义 Extra Utilities 模组中的“深层黑暗”维度。\n\n## 依赖项\n需要安装 Extra Utilities 2 和 MixinBooter！\n\n### 工作原理\n本模组利用 Mixins 的强大功能，将负责方块放置和世界生成特性的 Deep Dark IChunkProvider（类）替换为我自己的版本。\n\n### 功能特性\n本模组提供以下属性的自定义能力：\n- 地面和天花板高度\n- 基岩厚度和粗糙度\n- 地表和天花板的厚度及粗糙度\n- 基岩地面、地面、地表、尖塔、天花板表面、天花板和基岩天花板的方块替换，以及水域/熔岩湖中的水/熔岩替换\n- 尖塔粗细（高度会根据地面和天花板高度自动调整）\n- 钟乳石最大高度\n- 水和熔岩湖泊的生成\n- 结构和地牢的生成\n- 洞穴和峡谷的生成\n\n### 缺失的功能？\n- 配置生物群系的能力 -> 请使用 JustEnoughDimension 来覆盖 BiomeProvider\n- 解除泥土、砂砾、闪长岩、安山岩和花岗岩生成限制的能力 -> 请使用 CoFH World 等模组来生成它们",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

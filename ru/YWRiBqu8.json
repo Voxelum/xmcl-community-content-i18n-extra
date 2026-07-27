@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dffc8cabd71026af",
+  "content": "Позволяет пользователю управлять облаками\n\n**Список команд:**\n/clouds freeze true/false\n/clouds seed x\n/clouds randomize\n/clouds rotate",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

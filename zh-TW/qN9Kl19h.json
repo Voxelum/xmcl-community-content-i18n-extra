@@ -1,0 +1,6 @@
+{
+  "bodyHash": "63e042b00c6427a1",
+  "content": "RareVillages 讓村落變得更加稀有，它不是通過降低生成機率，而是通過增加村落之間的距離來實現。你可以使用 [Jacobsjo 的 Minecraft 數據包地圖](https://map.jacobsjo.eu/) 來查看原版 Minecraft 與 RareVillages 之間的差異。\n\n**原版村落：**\n- 沒有 RareVillages 時，村落的平均生成間距為 34 個方塊，最小間距僅為 8 個方塊。\n- 安裝 RareVillages V1 後，村落的平均生成間距為 100 個方塊，最小間距為 50 個方塊。\n- 安裝 RareVillages V2 後，村落的平均生成間距為 75 個方塊，最小間距為 34 個方塊。\n\n請務必通過查看版本頁面確認你下載的是哪個版本。如果你希望與 Terralith 兼容，可以下載 RareVillages 的 [此版本](https://modrinth.com/datapack/rare-villages-terralith)。\n\n我已在 1.21 之前的 Minecraft 版本中進行了一些測試，儘管 Minecraft 提示該數據包是為更新版本的 Minecraft 設計的，但它似乎運行完美。由於我尚未完全測試這些舊版本，請留意這一點。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

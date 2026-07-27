@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3c78d287a1985ed4",
+  "content": "<p><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" alt=\"\" width=\"149\" height=\"50\"></a></strong></p>\n<p><strong>Manhunt</strong> — это простой серверный мод для Fabric, который использует классический компас и правый клик для отслеживания спидраннера.</p>\n<p>*Этот мод поддерживает наличие более одного спидраннера!*</p>\n<p>&nbsp;</p>\n<p>Начиная с версии 1.2.2+, компас остается у охотников после их смерти.</p>\n<p><br><strong>Команды</strong> (все требуют операторских прав):</p>\n<p>/speedrunner add &lt;target&gt; — добавить спидраннера (может быть больше одного)</p>\n<p>/speedrunner remove &lt;target&gt; — удалить спидраннера</p>\n<p>/speedrunner list — показывает список спидраннеров</p>\n<p>/compass — выдает игроку, выполнившему команду, отслеживающий компас</p>\n<p>&nbsp;</p>\n<p>Планируемые обновления:</p>\n<p>-</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

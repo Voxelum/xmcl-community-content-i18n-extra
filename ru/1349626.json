@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f30c63518276e9ab",
+  "content": "\n\n<h1>Совместимость с Create и Custom Portals API Reforged</h1>\n<p>Позволяет размещать рельсы для поездов из мода Create внутри порталов из мода Custom Portals API Reforged.</p>\n<p>&nbsp;</p>\n<p>Единственная известная мне проблема заключается в том, что разрушение и повторная сборка портала для увеличения его размера под пути навсегда разрывает связь между связанными порталами, что может являться проблемой Custom Portals API Reforged.</p>\n<p>&nbsp;</p>\n<p>Текущая версия 0.1.0 разработана для Create 6.0.7 и Custom Portals API Reforged 1.0.4.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

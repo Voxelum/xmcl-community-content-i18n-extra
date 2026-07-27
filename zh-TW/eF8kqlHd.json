@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dbe735a3581cb3e8",
+  "content": "\n\n# Rad Gyms \\[Cobblemon\\]\n### 背景故事\n《寶可夢傳說 阿爾宙斯》中提到，荒野中散落著神秘的永遠牢獄，據說那裡藏有古老的試煉，旨在考驗勇於挑戰的寶可夢訓練家的勇氣與技巧。你有足夠的勇氣面對這些挑戰，並奪取等待你的豐厚獎勵嗎？\n\n### 模組功能\n* 道館入口，基於 Cobblemon 核心廢墟結構製作，並可在設定檔中限制每位玩家的使用次數。\n* 道館鑰匙，能在創造模式中自動拾取新增的道館類型。\n* 離場繩索，可讓你從道館中脫身。\n* 可合成的 Pokécache，支援透過資料包進行設定。\n* 根據道館類型（僅限屬性道館），為每位訓練家隨機生成寶可夢隊伍。\n* 可透過資料包新增道館，並支援自訂隊伍。\n\n### 依賴項目\n* [Fabric API](https://modrinth.com/mod/fabric-api) \n* [Cobblemon](https://modrinth.com/mod/cobblemon)\n* [Radical Cobblemon Trainers API](https://modrinth.com/mod/rctapi) - 訓練家功能\n* [Architectury API](https://modrinth.com/mod/architectury-api) - RCT API 依賴\n\n### 致謝\n* [Gensir017](https://github.com/Gensir017)（原始 CobGyms 模組）\n* [HDainester](https://gitlab.com/hdainester1)（Radical Cobblemon Trainers API 函式庫）\n\n### 模組包使用授權\n* 允許。請務必適當標註來源。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

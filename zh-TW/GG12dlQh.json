@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bee641839614e5e2",
+  "content": "\n\n## 這是 [Till It Breaks](https://modrinth.com/mod/till-it-breaks) 針對 Minecraft 1.21 及以上版本的更新。\n\n此外還包含以下新增功能：\n\n- 新增選項可調整耐久條與耐久數字的顏色飽和度。\n- 新增選項可切換耐久數字與箭矢計數器的文字陰影。\n- 改進的箭矢計數器現在可計算其他模組加入的箭矢，並在弓附帶「無限」附魔時顯示特殊箭矢的數量。\n- 改善文字渲染效能，並提升與 [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) 等模組的相容性。\n- 支援 [ReArm](https://modrinth.com/mod/rearm)、[Bow Infinity Fix](https://modrinth.com/mod/bow-infinity-fix) 與 [Infinities](https://modrinth.com/mod/infinities)：若已安裝上述任一模組且弓具有「無限」附魔，箭矢計數器將顯示無限而非 0。\n- 支援 [Accessorify](https://modrinth.com/mod/accessorify)：箭矢計數器也會納入裝備於箭矢配飾欄位中的箭矢。\n- 支援 [Nyf's Quivers 2.0+](https://modrinth.com/mod/nyfs-quivers)：箭矢計數器也會納入目前裝備的箭袋中的箭矢。\n\n## 原始模組說明：\n\n<details>\n<summary>展開閱讀</summary>\n\n此模組會在物品本身上顯示剩餘耐久度。使用此模組後，您將隨時掌握工具即將損壞的時間。\n\n![image](https://cdn.modrinth.com/data/cached_images/5c7ddaeb06832e81be53199ada0f7eade0e13bd7.png)\n\n另外一個實用的功能是，它還會在弓與弩的物品畫面上顯示您目前的箭矢數量。\n\n以下選項皆可自訂：\n\n- 始終啟用耐久條（即使物品完全未受損也會顯示）\n- 在未受損時顯示耐久數字（停用則會模擬原版受損時的耐久條）\n- 完全停用耐久條\n- 完全停用耐久數字\n- 依據物品的損壞程度為耐久數字上色\n- 啟用或停用箭矢計數器\n- 微調文字大小\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc98b71542f00e81",
+  "content": "\n\n<h1>[FORK] 适用于 1.20.1 Forge 的 TwilightForest 线程安全插件</h1>\n<p>本模组是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/tfthreadsafetyaddon\" target=\"_blank\" rel=\"nofollow\">TwilightForest Thread Safety Addon</a>（由 <a href=\"https://www.curseforge.com/members/ishlandmc\" target=\"_blank\" rel=\"nofollow\">ishlandmc</a> 制作）的非官方分支。</p>\n<p>它通过使 Twilight Forest 的生成过程线程安全且更高效，从而让 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fc2mef\" target=\"_blank\" rel=\"nofollow\">C2MEF</a> 或 <a href=\"https://www.curseforge.com/minecraft/mc-mods/c2me\" target=\"_blank\" rel=\"nofollow\">C2ME</a> + <a href=\"https://www.curseforge.com/minecraft/mc-mods/sinytra-connector\" target=\"_blank\" rel=\"nofollow\">Connector</a>（C2ME + Connector 尚未完全测试）&nbsp;能够在 Forge 1.20.1 上与 <a href=\"https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest\" target=\"_blank\" rel=\"nofollow\">Twilight Forest</a>&nbsp;兼容运行。</p>\n<p><span style=\"color:#e03e2d\">本模组与 <a style=\"color:#e03e2d\" href=\"https://www.curseforge.com/minecraft/mc-mods/twilight-forest-cave-fix\" target=\"_blank\" rel=\"nofollow\">Twilight Forest Cave Fix</a> 不兼容！</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

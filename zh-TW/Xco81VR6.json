@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5266a20350432c14",
+  "content": "# AutoCongrats\n\nAutoCongrats 是由 Minecraft 知名 YouTuber 3D_Circuit 开发的一款 Minecraft 模组，它会在决斗胜利或失败时自动播放可编程的短语。\n\n这款工具专为那些打字速度跟不上“GG”节奏，或者纯粹是太懒的玩家而设计。每条消息都可以根据您的喜好进行自定义，并可通过 `/autocongrats disable` 命令关闭。当然，您也可以使用 `/autocongrats enable` 命令重新启用它。\n\n**警告：使用风险自负。某些服务器的作弊检测系统可能会将此标记为宏操作。请在使用此模组时务必小心。**\n\n## 使用方法\n\n### 下载\n- 从官方来源（Modrinth）下载该模组以及 [Fabric API](https://modrinth.com/mod/fabric-api)。\n\n### 命令\n`/autocongrats [disable|enable]` 启用/禁用消息发送。\n\n`/autocongrats [setlose|setwin] (您的胜利/失败短语)` 更改您的胜利或失败短语。\n\n您可以按 `RIGHT SHIFT`（右Shift键）切换配置 GUI。\n\n如果您有任何问题或想法，请加入我的 [Discord 服务器](https://discord.gg/mqnfPFqJJa) 并提及我！\n\n\n感谢 [bkhr](https://applemax.me) 帮助我整理本项目描述中的内容！\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/JLnPt_0Q0D0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

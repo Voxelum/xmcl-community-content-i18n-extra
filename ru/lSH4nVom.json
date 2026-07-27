@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11dba9116c3a3305",
+  "content": "# CatFrame\n\n**Minecraft Forge 1.7.10 的现代基础库。**\n\nCatFrame 是一个专为 Minecraft Forge 1.7.10 打造的现代基础库，它将新版本 Minecraft 中引入的众多引擎、渲染、资源和 UI 系统移植到了该旧版本平台。\n\n其目标不仅仅是重现各个单独的功能，而是为在经典的 1.7.10 平台上进行现代化的数据驱动模组开发提供所需的底层架构支持。\n\n## 功能特性\n\n### 渲染与资源\n\n- 完整的 26.1+ JSON 模型管线\n- 现代方块状态（Blockstate）系统\n- 运行时模型烘焙\n- 基于命名空间（Namespace）的资源加载\n- 自动纹理拼接\n- 显示变换（Display Transforms）\n- 多层物品渲染\n- 现代物品模型定义\n\n### 数据驱动系统\n\n- 数据组件（Data Components）\n- 类原版标签（Tag）系统\n- 可扩展的模型映射\n- 基于属性的状态解析\n- 资源驱动的配置文件\n\n### UI 框架\n\nCatFrame 还提供了一套可复用的 GUI 工具包，用于在 Minecraft 1.7.10 上构建现代化界面。\n\n包含的组件有：\n\n- 选项卡（Tab）框架\n- GuiCyclableButton（循环按钮）\n- ContentPanelRenderer（内容面板渲染器）\n- 可滚动组件\n- 现代布局辅助工具\n- 可复用的 GUI 控件\n- 可扩展的 UI 组件\n\n## 专为模组开发者设计\n\nCatFrame 旨在作为共享的基础设施库，而非独立的内容模组。\n\n它是我 Minecraft 1.7.10 项目的基础，旨在让在经典 Minecraft 版本上进行现代化、可维护且数据驱动的模组开发成为可能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

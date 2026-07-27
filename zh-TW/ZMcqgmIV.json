@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a5eaf1a0e14a7668",
+  "content": "![texture pack cover](https://cdn.modrinth.com/data/ZMcqgmIV/images/9ad8252737e215e893d56222fe630ab9e22c1947.jpeg)\n\n#### Spryzeen 的生命值条允许你显示怪物拥有多少生命值，再也不用因为不知道它们生命值低而意外杀死村民或宠物了。它也非常有助于了解与你战斗的怪物的生命值。\n\n<details>\n<summary>功能</summary>\n\n- 生命值条是发光的，意味着你可以在黑暗中看到它发光\n- 此资源包使用原版核心着色器来改进某些功能并修复其他一些错误\n- 生命值条具有动画效果，呈现出 2D 外观\n- 支持对生命值很高的怪物进行最小化更改，例如，当你用手攻击铁傀儡时，你可以看到生命值条发生变化\n</details>\n\n<details>\n<summary>要求</summary>\n你需要 EMF 或 Optifine 才能使用此资源包，但我强烈建议使用 EMF 而不是 Optifine，因为你可以在 Sodium 上使用它以获得更好的性能，而且 Optifine 发布新版本和修补错误需要很长时间。\n\n- EMF（需要 Fabric 和 ETF） --> https://modrinth.com/mod/entity-model-features  \n- Optifine，你可以从这里下载 --> https://optifine.net/downloads\n\n#### 如果你使用 Optifine，请打开游戏菜单，进入“选项” > “视频设置” > “质量..”，并开启以下设置：\n- 自定义实体模型\n- 发光纹理\n- 随机实体\n</details>\n\n<details>\n<summary>Vanilla Core-Shaders 依赖项</summary>\n\n**着色器被用于修补一些错误，例如：**\n- 击中怪物时生命值条变红\n- 热带鱼的颜色覆盖生命值条颜色\n\n **如果你将此包与 BSL、Complementary、Chocapic 等着色器一起使用，你将失去这些功能，但如果你想……你也可以这样做，生命值条仍然有效**\n</details>\n\n<details>\n<summary>已知问题</summary>\n\n- 鱿鱼的生命值条动画不起作用，没有该动画看起来非常糟糕，我决定不再支持鱿鱼/发光鱿鱼\n- 一些怪物没有准确的 2D 动画，这意味着……生命值条可能会略微旋转错误\n- 此资源包在 OPTIFINE HD_U_I6_pre1 上不起作用，因此请使用版本 HD_U_I5\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

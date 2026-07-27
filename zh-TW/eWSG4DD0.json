@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0bee55108e74179c",
+  "content": "\n\n# AdvancedChatFilters Reforged\n\nAdvancedChatFilters 讓你能夠運用強大的規則來處理收到的聊天訊息。\n\n> **非官方分支。** 此為 DarkKronicle 的 *AdvancedChat* 系列套件（作者已將其封存）之社群維護延續版本，已更新支援 **Minecraft 26.1 與 26.2**（Java 25）。本專案**與 DarkKronicle 無關，亦未獲其認可或背書**，並依照原始專案的 MPL-2.0 授權條款發布。\n\n## 功能特色\n\n- 支援正則表達式、字面搜尋或不分大小寫比對\n- 比對成功時可更改顏色、替換、封鎖、播放音效或顯示快顯通知\n- 進階 JavaScript 驅動篩選器（Nashorn，選配）\n\n## 需求條件\n\n- Minecraft **26.1.x** 或 **26.2**（需使用 **Java 25**）\n- [Fabric Loader](https://fabricmc.net/) 0.19+、[Fabric API](https://modrinth.com/mod/fabric-api)、[MaLiLib](https://modrinth.com/mod/malilib)（sakura-ryoko 26.x 建構版本）\n- [AdvancedChatCore Reforged](https://modrinth.com/mod/advancedchatcore-reforged)\n\n## 原始碼與授權\n\n[GitHub](https://github.com/flyingfinger1/AdvancedChatFilters) · MPL-2.0 · 原始模組由 DarkKronicle 開發",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

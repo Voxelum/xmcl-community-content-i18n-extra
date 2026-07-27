@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f9419ce5e439785d",
+  "content": "<center>\n\n<img src=\"https://i.imgur.com/k3MIPtv.png\" alt=\"\" width=\"200\" height=\"200\" />\n\n# 内置服务器\n\n一款小型模组，允许模组包制作者设置内置服务器，而不是分发预配置的 server.dat 文件。\n\n<a href=\"https://minecraft.curseforge.com/projects/fabric\" rel=\"nofollow\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"143\" height=\"50\" /></a>\n\n## 为你的模组包设置此模组：\n\n如果你希望添加默认服务器，以便玩家在下载你的模组包时能在服务器列表中看到它们，只需运行一次模组并编辑生成的配置文件 `.minecraft/config/builtinservers.json`。\n\n之后，将你的配置文件随模组包一起分发，所有新实例都将包含你的服务器，但旧实例在模组包更新时不会丢失其自定义服务器。\n\n默认配置文件应如下所示：\n\n<img src=\"https://i.imgur.com/nTjqveQ.png\" alt=\"\" width=\"300px\" height=\"300px\" />\n\n内置服务器会在客户端显示自定义徽章，以便玩家查看哪些服务器是由模组包添加的（此功能可以禁用）：\n\n<img src=\"https://i.imgur.com/tYh91sn.png\" alt=\"\" width=\"533px\" height=\"300px\" />\n\n强制服务器无法删除，除非配置文件更改，否则将始终重新添加。它们无法被编辑/移除，并将显示自定义消息：\n\n<img src=\"https://i.imgur.com/He0bYWL.png\" alt=\"\" width=\"533px\" height=\"300px\" />\n\n## 其他信息：\n\n如有错误报告，请前往模组的 GitHub 仓库：[https://github.com/lucaargolo/builtin-servers](https://github.com/lucaargolo/builtin-servers)\n\n如果你有任何其他问题或建议，欢迎通过 Discord 联系我 @D4rk#0693  \n你可以在 Cafeteria Development 公会中找到我。\n\n[![](https://discordapp.com/api/guilds/707435077679841350/embed.png?style=banner2&v=2)](https://discord.com/invite/G4PjhEf)\n\n</center>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

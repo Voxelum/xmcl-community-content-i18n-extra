@@ -1,6 +1,6 @@
 {
-  "bodyHash": "KbXo5H5OxkI=",
-  "content": "![水井标志](https://i.imgur.com/O1AlIyJ.png)\n\n**水井**能满足你所有的流体生成需求！默认情况下，它能生成最多100桶水，每160-200游戏刻装满一桶。\n\n更多特性：\n- 可染成原版十六种颜色中的任意一种\n- 井顶会绕Y轴旋转，允许你自由调整摆放角度\n- 用桶取水时会发出辘轳转动声\n- 倒置水井可生成比空气更轻的模组流体\n\n此外，本模组具有高度可配置性！可调整内容包括：\n- 是否播放辘轳声（默认：**开启**）\n- 水井容量（默认：**100000 mb**）\n- 同区块存在多个水井时是否停止工作（默认：**不停止**）\n- 生成何种流体、生成量、生成频率及适用生物群系\n\n查看[维基页面](https://github.com/cubicoder/Well-Mod/wiki)了解详细配置说明。\n\n本模组是[Foreck1](https://modrinth.com/user/Foreck1)与[jbredwards](https://modrinth.com/user/jbredwards)开发的[Well well well...](https://modrinth.com/mod/well)移植版，所有美术资源由[Foreck1](https://modrinth.com/user/Foreck1)创作。\n![水井分隔条](https://i.imgur.com/sXxGkyo.png)",
+  "bodyHash": "f365a752aab2ac73",
+  "content": "![井标志](https://i.imgur.com/O1AlIyJ.png)\n\n**井**可以满足你所有的流体生成需求！默认情况下，它会生成最多 100 桶水，每 160-200 刻填充一桶。\n\n更多功能：\n - 可以染成原版中的十六种颜色之一\n - 屋顶绕 Y 轴旋转，允许你按需要放置它\n - 使用桶获取流体会播放摇动声音\n - 倒置的井允许你生成比空气轻的模组流体  \n\n此外，这个模组具有高度可配置性！你可以更改的内容包括：\n - 是否播放摇动声音（默认：**true**）\n - 井的最大容量（默认：**100000 mb**）\n - 当同一区块存在多个井时，井是否会停止工作（默认：**false**）\n - 生成的流体类型、数量、频率以及生成生物群系  \n\n有关配置如何工作的更多信息，请参阅[维基](https://github.com/cubicoder/Well-Mod/wiki)。\n\n本模组是 [Foreck1](https://modrinth.com/user/Foreck1) 和 [jbredwards](https://modrinth.com/user/jbredwards) 的作品 [Well well well...](https://modrinth.com/mod/well) 的移植版。所有资源和美术作品均由 [Foreck1](https://modrinth.com/user/Foreck1) 制作。\n![井栏](https://i.imgur.com/sXxGkyo.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

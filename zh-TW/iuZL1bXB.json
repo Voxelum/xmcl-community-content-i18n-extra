@@ -1,0 +1,6 @@
+{
+  "bodyHash": "df334e18fc54e583",
+  "content": "# 什么是 Not Enough Vulkan？\nNot Enough Vulkan 是 Sodium Extra 的一个分支，旨在将 OptiFine 的大多数视觉美化选项引入 VulkanMod，这是一款与 Sodium 类似的优化模组。\n\n## 功能\n以下是该模组主要功能的简要介绍。\n\n- **动画设置**（控制火焰、水流、岩浆、方块动画等...）\n- **粒子设置**（控制所有类型的粒子，包括来自其他模组的粒子）\n- **细节设置**（控制天空、星星、太阳/月亮、天气等更多内容）\n- **渲染设置**（控制雾效、静态实体及其他杂项渲染效果）\n- **额外设置**（显示 FPS、坐标、Toast 通知、云层等更多内容）\n\n除了上述所有设置外，**Not Enough Vulkan 还提供了兼容性补丁，以帮助某些模组在 VulkanMod 旁更好地运行。**\n\n### 提升与 [VulkanMod](https://modrinth.com/project/JYQhtZtO) 的兼容性：\n- 包含针对 [Bobby](https://modrinth.com/project/M08ruV16) 的补丁\n- 包含针对 Linux Wayland 的补丁（可选）\n- 添加了多显示器环境下的显示器选择器\n\n## Modpack 许可\n这是一个免费且开源的项目；只要提供署名，你就可以将其包含在你的模组包中！\n\n## 常见问题\n- **我需要安装 VulkanMod 才能使此模组工作吗？** 是的，你需要下载 VulkanMod 才能使此模组正常工作。\n- **我可以将此模组重新托管/上传到其他地方吗？** 可以，只要你提供模组的源代码。\n- **你会给此模组添加 x 功能吗？** 不会，除非该功能首先被添加到 Sodium Extra 中。\n- **我还有更多问题！** 加入我们的 [Discord](https://discord.gg/BFmZU9kUbR)！\n\n## 特别感谢 Sodium Extra\n[支持 Sodium Extra Ko-fi](https://ko-fi.com/flashyreese)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

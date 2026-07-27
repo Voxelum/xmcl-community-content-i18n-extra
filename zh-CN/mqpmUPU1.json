@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c6584991d42b555f",
+  "content": "\n\n一个极其简单的命令，可将物品重命名为任意文本组件。\n\n## 用法\n`/renameitem <文本组件>` - 将你手持的物品重命名为指定的文本组件。\n\n## 支持\n\n如果发现 Bug，请提交 [Issue](https://codeberg.org/girlonthenet/simple-rename-command/issues) 或加入 [Discord](https://discord.gg/A2FEXREAtQ)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

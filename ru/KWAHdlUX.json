@@ -1,0 +1,6 @@
+{
+  "bodyHash": "797cc5dc92fcb23b",
+  "content": "# RPG 自然再生\n\n**带有战斗感知的缓慢自然愈合。**\n\nRPG Natural Regen 用可配置的缓慢生命恢复替代了基于饥饿值的原版自然治疗。它适用于希望治疗体验更接近 RPG 风格的整合包：平稳、清晰，且在战斗持续期间恢复速度较慢。\n\n## 功能说明\n\n- 安装本模组时，抑制原版基于饥饿值的自然再生。\n- **不会**修改世界的 `naturalRegeneration` 游戏内规则（gamerule）。\n- 按固定间隔为玩家回复生命值，而非消耗饥饿值。\n- 使用 **Combat State** 模组来检测玩家是否处于战斗状态。\n- 在脱离战斗状态下恢复速度更快。\n- 可选地，在食用配置好的食物后立即恢复额外生命值。默认列表为空。\n\n## 默认治疗规则\n\n默认设置与 West Melon Field 现有的慢速治疗数值一致：\n\n- 战斗中：每 **100 刻** 恢复 **1 点生命值**。\n- 非战斗状态：恢复量乘以 **2.0**。\n- 原版基于饥饿值的自然再生仅在模组安装期间被抑制。\n\n`1 点生命值` 等于半颗心。\n\n## 配置\n\n配置文件：\n\n```text\nconfig/rpg_natural_regen-common.toml\n```\n\n默认值：\n\n```toml\n[regeneration]\nsuppressVanillaNaturalRegeneration = true\nenableSlowRegeneration = true\nhealIntervalTicks = 100\nhealAmount = 1.0\noutOfCombatMultiplier = 2.0\n\n[instant_food_healing]\nfoods = []\n```\n\n食物治疗条目格式为 `item_id=health`，例如：\n\n```toml\n[instant_food_healing]\nfoods = [\"minecraft:apple=4.0\"]\n```\n\n`4.0` 生命值等于两颗心。\n\n## 依赖要求\n\n- Minecraft 1.21.1\n- NeoForge\n- Combat State\n\n## 源码和问题反馈\n\n- 源码: https://github.com/rinchanai/rpg-natural-regen\n- 问题反馈: https://github.com/rinchanai/rpg-natural-regen/issues",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

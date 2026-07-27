@@ -1,0 +1,6 @@
+{
+  "bodyHash": "95d1986040202c2b",
+  "content": "> ⚠️ **废弃通知**\n> OptiFine 不支持 HTTPS。据 OptiFine 工作人员告知，*不要*使用 Kappa 当前版本所使用的 URL（该 URL 支持 HTTPS），而应使用 OptiFine 模组所使用的那个 URL（仅支持 HTTP）。我不希望我的模组存在安全隐患，也不进行不安全的连接，因此我将不再更新 Kappa，直到启用 HTTPS，因为这在当今是一项极其基本的安全措施。\n\n**Kappa** 正确地添加了 OptiFine 披风，并旨在用于快照版本。它还力求非常轻量且修改极少，以免引起服务器管理员的反感，也避免容易被破坏（这会让我也很烦恼！）。\n\n![Kappa in 1.17](https://raw.githubusercontent.com/Hibiii/Kappa/main/.github/kappa_screenshot.png)\n\n**注意**：此模组**不**替换 OptiFine，也不允许非捐赠者佩戴 OptiFine 披风。\n它只是在您向 OptiFine 捐赠后，添加并显示 OptiFine 披风。\n如果您喜欢 OptiFine 并希望获得披风，[请考虑向 OF 捐赠。][1]\n\n**Kappa** 不同于其他模组！它*_聪明地工作，而非费力工作！_* 通常模组只是克隆原版披风的代码，但 **Kappa** 以预期的方式使用它。正因如此，**Kappa** 几乎不会出错，即使出错也很少！\n这样做还有一个好处：影响原版披风的模组也会同时影响来自 Kappa 的 OptiFine 披风！\n\n无需 Fabric API。\n\n通常情况下，Fabric/Quilt 模组在不同版本间是兼容的，但有时，例如在 1.17 快照中，Minecraft 本身会破坏模组。\n我会针对最新的快照测试我的模组，因为我喜欢戴着我的 OptiFine 披风玩游戏，所以如果我的模组被破坏，我会对其进行更新。\n\n是的，OptiFine 的披风违反了 Minecraft 的商业使用指南，但我已经拥有它很长时间了。我将其视为我皮肤的一部分。\n\n**关于 Quilt 支持**：此模组处于灰色地带，因此如果您使用 Quilt，最好避免使用它。然而，Kappa 尽可能少地使用 Fabric 特定组件。\n\n[1]: https://optifine.net/donate",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

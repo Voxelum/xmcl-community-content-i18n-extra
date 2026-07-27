@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1a4f1af2065fcf0b",
+  "content": "<p>Этот мод является портом для NeoForge 1.21.1 мода <a href=\"https://www.curseforge.com/minecraft/mc-mods/piglinsafety\" target=\"_blank\" rel=\"nofollow\">PiglinSafety</a>.</p>\n<p>Поскольку пиглины и хоглины рождаются и живут в Незере, они не должны получать урон от лавы, верно? Лава должна быть их «водой».</p>\n<p>Этот простой мод устанавливает свойство fireImmune (иммунитет к огню) для сущностей PiglinEntity, PiglinBruteEntity и Hoglin в значение true, что означает, что пиглины, пиглин-брайт и хоглины не будут получать урон от лавы/огня.</p>\n<p>Мод настраиваемый: вы можете отключить иммунитет для пиглинов, пиглин-брайт или хоглинов.</p>\n<p>P.S. Золотоцвет (Goldenglow) — это не свинья-девочка, конечно же.</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_fb54b2ae-447a-4380-8147-6973f5071e6b.png\" alt=\"\" width=\"850\" height=\"593\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

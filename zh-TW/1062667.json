@@ -1,0 +1,6 @@
+{
+  "bodyHash": "122effb742c64a06",
+  "content": "\n\n<h1>Better Combat 擴充模組</h1>\n<p>此為 Daedelus 開發的 <a href=\"https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus\" rel=\"nofollow\">Better Combat</a> 模組擴充套件。<br>\n它新增了多項功能與設定，且全部由伺服器端進行控制。</p>\n<p>功能包含：</p>\n<ul>\n<li>Better Combat x RPG Inventory 的實驗性相容補丁</li>\n<li>可切換雙手姿態</li>\n<li>鎖定移動攻擊</li>\n<li>攻擊時防止跳躍</li>\n<li>透過虛招跳過攻擊動作</li>\n<li>停用 Better Combat 的 &quot;按住攻擊&quot; 用戶端設定</li>\n<li>針對 Better Combat &quot;movement_speed_while_attacking&quot; 移動速度倍率的例外規則</li>\n<li><a href=\"https://legacy.curseforge.com/minecraft/mc-mods/stamina-attributes\" rel=\"nofollow\">Stamina Attributes</a> 整合</li>\n<li>限制攻擊仰角</li>\n<li>攻擊改用 &quot;minecraft:player.entity_interaction_range&quot; 取代武器屬性檔案中的 &quot;attack_range&quot; 數值</li>\n</ul>\n<p>詳細資訊請見 <a href=\"https://github.com/TheRedBrain/bettercombat-extension/blob/1.21.1/README.md\" rel=\"nofollow\">此處</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f9a24a05315a6d3c",
+  "content": "# Горячие клавицы по умолчанию\n\nЭтот мод позволяет установить горячие клавиши для любых привязок кнопок по умолчанию.\n\n## Использование\n\nФайл конфигурации `.minecraft\\config\\default-hotkeys.json` будет автоматически создан после первого полного запуска игры (для корректной загрузки переводов).\n\n```json5\n[\n  {\n    //перевод ключа\n    \"comment\": \"key.advancements\",\n    //перевод на текущем языке\n    \"translation\": \"Достижения\",\n    //горячая клавиша в формате ванильной игры\n    \"key\": \"key.keyboard.l\"\n  },\n  //...и далее\n]\n```\n\nДля получения всех доступных значений ключей см. [Keys.java](https://github.com/CodeOfArdonia/DefaultHotkeys/blob/894408a90dd5aa795268dbe919ea7c9fc4866519/common/src/main/java/com/iafenvoy/dhks/Keys.java#L29)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

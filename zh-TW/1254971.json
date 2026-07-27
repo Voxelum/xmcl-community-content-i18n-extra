@@ -1,6 +1,6 @@
 {
-  "bodyHash": "YDeHzQ9rugI=",
-  "content": "<p>此模組防止玩家同時在物品欄中擁有多個來自「精緻背包」模組的背包。它確保玩家一次只能攜帶一個背包，並會丟棄任何試圖拾取的多餘背包。</p><p><strong>功能：</strong></p><ul>\n<li>\n<p>若玩家已有一個背包，則阻擋拾取額外背包。</p>\n</li>\n<li>\n<p>自動從物品欄中丟棄衝突的背包。</p>\n</li>\n<li>\n<p>清晰的遊戲內訊息會說明物品被丟棄或阻擋的原因。</p>\n</li>\n</ul><p><strong>使用情境：</strong><br>適用於需要平衡物品欄空間的模組包或伺服器，防止背包堆疊漏洞。</p><p><strong>依賴項目：</strong><br>需要「精緻背包」、Curios 及 Forge。</p>",
+  "bodyHash": "d408a1a17fd023d4",
+  "content": "\n\n<p>此模組會防止玩家在同一時間於物品欄中持有多個來自 Sophisticated Backpacks 模組的背包。它確保玩家一次只能攜帶一個背包，若嘗試撿取其他背包則會將其自動掉落。</p>\n<p><strong>功能特色：</strong></p>\n<ul>\n<li>\n<p>若玩家已持有背包，將阻止撿取額外背包。</p>\n</li>\n<li>\n<p>自動將衝突的背包從物品欄中掉落。</p>\n</li>\n<li>\n<p>遊戲內的提示訊息會清楚說明物品被掉落或攔截的原因。</p>\n</li>\n</ul>\n<p><strong>適用情境：</strong><br>適合用於需要平衡物品欄空間的整合包或伺服器，可防止透過背包堆疊進行的漏洞利用。</p>\n<p><strong>相依性：</strong><br>需要安裝 Sophisticated Backpacks、Curios 與 Forge。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "901a4f58b10ab799",
+  "content": "<div style=\"text-align: center;\"> <center>\n<img src=\"https://drive.google.com/uc?export=view&id=1V9GXIdrvHITma8xJQmPsEEy5bhz7vUnE\"  alt=\"Redstone Lantern Logo\">\n<h2>\n<b>一個添加紅石燈作為裝飾方塊和紅石組件的模組</b>\n</h2>\n<br>\n<a href=\"\">\n<img alt=\"modrinth\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg\">\n</a>\n<a href=\"https://github.com/Ramixin/redstonelantern\">\n<img alt=\"github\" height=\"56\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg\">\n</a>\n<br>\n<img alt=\"fabric\" height=\"40\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg\">\n<img alt=\"no forge\" height=\"40\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/unsupported/forge_vector.svg\">\n</center>\n</div>\n\n## 它會與紅石互動嗎？\n\n---\n是的！紅石燈可以沿著其周圍的四個基本方向對紅石進行弱信號供電。此外，如果將燈懸掛在方塊上並對該方塊進行強信號供電，則可以禁用該燈。\n\n## 許可證\n\n---\n本項目採用 MIT 許可證",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

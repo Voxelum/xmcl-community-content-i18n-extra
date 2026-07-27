@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ea0d61070f6b951f",
+  "content": "\n\n让你能够使用 Create 模组自动化处理 Timeless and Classic Zero (TACZ) 中的所有物品（支持最高 1.1.7 版本，仍需添加枪口和瞄准镜配件）。添加了新的材料，如：钢、铝和铅，以增加获取武器的难度。添加了研究台，用于研究弹药图纸（研究时间可配置）。\n\n移除常规 TACZ 配方\n\n将 tacz-common.toml 中的 DefaultPackDebug 设为 true\n删除 config\\tacz\\custom\\tacz_default_gun\\tacz\\recipes 下的所有文件夹\n\n注意：较新版本的 TACZ 会将配置文件直接放在 .minecraft 文件夹中，此时路径为 minecraft\\tacz\\tacz_default_gun\\data\\tacz\\recipes，配置文件也已重命名为 tacz-pre.toml\n\n*武器图纸的需求已被我移除，因为我觉得它多余。~~物品仍然在游戏中，因为我比较懒，部分枪械还没有配方也是因为我又懒了~~ 截至 1.1.7 版本，所有枪械都已有配方，且图纸已正确移除。\n\n**所有功劳归于原作者，我只是为新枪械添加了一些新配方**\n\n该项目已被搁置，我仍然打算更新它，但短期内不会进行。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7e9828ff0ae5f5ff",
+  "content": "<p>此模組透過在滑翔時按下前行鍵（預設為 W 鍵）來賦予鞘翅加速能力，從而改變鞘翅的使用方式。此外，此模組也允許在使用鞘翅滑翔時，透過按下跳躍鍵（預設為空白鍵）來停止滑翔。</p>\n<p>此模組包含 5 個設定選項。</p>\n<p>enableFastElytra（預設為 true）：若為 true，則允許您按下前行鍵以加快速度；將其設為 false 將停用此功能。</p>\n<p>disableJumpKeyStopsGliding（預設為 false）：若為 true，將停用透過跳躍鍵停止滑翔的能力。</p>\n<p>allowOnServers（預設為 false）：當此選項為 false 時，加入伺服器時將停用所有模組功能。</p>\n<p>speedBoostMultiplier（預設為 0.05）：調整加速的速度倍率。</p>\n<p>useWKeyForBoost（預設為 true）：若為 false，將停用 W 鍵加速功能。</p>\n<p>&nbsp;</p>\n<p>此模組包含 1 個快捷鍵綁定</p>\n<p>key.fastelytra.boost（預設為 B 鍵）：在裝備鞘翅滑翔時按下此鍵可提供速度加速效果。</p>\n<p>&nbsp;</p>\n<p>社群 Discord 連結如下：</p>\n<p><a href=\"https://discord.gg/hzMK4JyP6r\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/hzMK4JyP6r</a></p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

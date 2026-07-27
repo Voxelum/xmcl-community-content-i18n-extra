@@ -1,0 +1,6 @@
+{
+  "bodyHash": "052f806143e8c607",
+  "content": "<p>由 Kotlin DSL 驅動的 GUI 庫。旨在支援所有 Minecraft 版本和載入器。</p>\n<p>文件：<a href=\"/linkout?remoteUrl=https%253a%252f%252f2894638479.github.io%252fKotlinMCUI%252f\" target=\"_blank\" rel=\"nofollow\">docs</a></p>\n<p>良好的二進位相容性</p>\n<ul>\n<li>單一 JAR 檔案。</li>\n<li>獨立於 Minecraft 和載入器。</li>\n<li>具有跨平台進入點。</li>\n<li>相容性由後端保證。</li>\n</ul>\n<p>支援的功能：</p>\n<ul>\n<li>宣告式、響應式佈局</li>\n<li>簡潔的語法</li>\n<li>原版 UI 風格</li>\n<li>上下文縮放</li>\n<li>鍵盤操作</li>\n<li>朗讀器</li>\n<li>工具提示</li>\n<li>焦點、懸停</li>\n<li>區域變數</li>\n<li>插值動畫</li>\n<li>文字翻譯</li>\n<li>元件：<ul>\n<li><code>Row</code>、<code>Column</code>、<code>Box</code></li>\n<li><code>Button</code></li>\n<li><code>Slider</code></li>\n<li><code>Container</code>、<code>Slot</code>、<code>Item</code></li>\n<li><code>EditableText</code></li>\n<li><code>Row</code></li>\n<li><code>Column</code></li>\n<li><code>LazyColumn</code></li>\n<li>文字<ul>\n<li><code>TextAutoFold</code></li>\n<li><code>EditableText</code></li>\n<li>字型大小、顏色</li>\n<li>斜體、粗體、陰影、下劃線…</li></ul></li>\n<li>圖片<ul>\n<li>本機檔案圖片</li>\n<li>資源圖片</li>\n<li>九宮格渲染</li></ul></li>\n<li>…</li></ul></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6cd5bb6230ad560c",
+  "content": "# 霧氣現在看起來更現代了\n這是「Fog Looks Good Now」的 1.20+ 移植版本，原始 Forge 版本可在此處找到 [here](https://modrinth.com/mod/fog-looks-good-now)。現代 Fabric 移植版 [也已提供](https://modrinth.com/mod/fog-looks-good-now-fabric)\n\n\n「Fog Looks Good Now」透過將霧氣起始點前移，在保持相同視線距離的同時大幅改善遊戲視覺效果，從而增強 Minecraft 中的深度感和氛圍。\n\n此外，該模組還增加了：\n\n* 可配置的霧氣起始點和霧氣結束點。\n* 可配置的洞穴霧氣起始點。\n* 可配置的洞穴霧氣顏色。\n* ~~可配置的天氣相關霧氣（雨、雷等）~~ - 待完成\n# 配置\n您可以直接通過 TOML 文件訪問配置，或者如果安裝了 [Forge Config Screens](https://modrinth.com/mod/forge-config-screens)，也可以通過配置界面進行訪問。\n# 截圖\n![DeepDark](https://i.imgur.com/x7w7LF2.png)\n![DistantLandscape](https://i.imgur.com/JxtP1UD.png)\n![LushCaves](https://i.imgur.com/xq0dxJ6.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

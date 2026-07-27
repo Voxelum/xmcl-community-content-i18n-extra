@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6c7527696eac7847",
+  "content": "\n\n# 擬真火把\n\n擬真火把讓火把在可設定的時間後燃盡，使遊戲前期更具挑戰性，並鼓勵玩家及早轉向更持久的光源。\n\n## 特色\n\n- 製作完成後的火把為未點燃狀態，必須使用火柴盒或打火石點火\n- 火把會在可設定的時間後燃盡（預設為現實時間 60 分鐘）\n- 火把遇到雨會被熄滅\n- 原版建築中生成的火把將被替換為未點燃的火把\n- 可使用螢石製作永久點燃（原版）火把\n\n## 合成配方\n\n<img src=\"http://i.imgur.com/oQWLX8N.png\" width=\"400\">\n\n*未點燃的火把（煤炭或木炭）*\n\n<img src=\"http://i.imgur.com/z0BxMQU.png\" width=\"400\">\n\n*火柴盒*\n\n<img src=\"http://i.imgur.com/2FHuHQi.png\" width=\"400\">\n\n*點燃的火把（不拘形狀，火柴盒會受損）*\n\n<img src=\"https://i.imgur.com/tcowSUW.png\" width=\"400\">\n\n*螢石水晶（煤炭或木炭）*\n\n<img src=\"https://i.imgur.com/Nt6fTDz.png\" width=\"400\">\n\n*螢石糊（不拘形狀）*\n\n<img src=\"https://i.imgur.com/vpSV7pX.png\" width=\"400\">\n\n*原版火把（螢石水晶）*\n\n<img src=\"https://i.imgur.com/otOc8ue.png\" width=\"400\">\n\n*原版火把（螢石糊）*\n\n## 整合包\n\n可以，歡迎在整合包中使用此模組。\n\n## 支援\n\n如果你喜歡這個模組並想支持專案，歡迎[在 PayPal 上捐贈](https://www.paypal.com/donate/?business=46ZL2PNVP4XKE)。非常感謝你的支持！\n\n## 贊助商\n\n本專案由 BisectHosting 贊助。如果你正在尋找伺服器主機方案，歡迎瀏覽他們的託管計畫，並在結帳時[輸入優惠碼 *Chaos*](https://www.bisecthosting.com/chaos)，即可享有首月七五折優惠！\n\n[![](https://www.bisecthosting.com/partners/custom-banners/0998de1c-6d3e-4370-a553-0da42e986c68.png)](https://bisecthosting.com/chaos)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "1YCyHuIQAqA=",
-  "content": "![banner](https://cdn.modrinth.com/data/cached_images/1743706bc347e9233a9e7c7d8c6ed03a1b46eb78_0.webp)\n\nEasy Disenchanting 是一款貼近原版的模組，讓你能夠僅使用鐵砧來從裝備中萃取附魔——無需新增任何方塊或物品！\n\n本模組是 Enchantment Transfer 的重寫版本，更新至最新的 Minecraft 版本，並修復了關鍵錯誤與改良功能，包括能夠將附魔轉移至已附魔的書本上，並進行合併。\n\n使用方式非常簡單：只需在鐵砧中將一把劍與一本空白書結合，就能從物品中萃取出附魔：\n\n![demo](https://cdn.modrinth.com/data/cached_images/419027256f1993e9df093c61247a2ad528538c6c.png)\n\n如果你想將附魔萃取至一本已附魔的書上，應將該書放在第一個欄位中。這樣會以與兩本已附魔書結合相同的方式，合併並融合附魔。\n\n預設情況下，Easy Disenchanting 的費用與原版合併附魔相同，並且會將被解除附魔的物品歸還給你。你可以在設定檔中調整這兩項設定以達平衡。",
+  "bodyHash": "d7ba7736b19cb7c0",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/1743706bc347e9233a9e7c7d8c6ed03a1b46eb78_0.webp)\n\nEasy Disenchanting 是一款兼容原版玩法的模组，允许你仅通过铁砧即可从装备上提取附魔——无需新增任何方块或物品！\n\n本模组是 Enchantment Transfer 的重制版，已更新至新版 Minecraft，并修复了关键错误及进行了多项改进，包括能够将附魔转移并合并到已有的附魔书上的功能。\n\n使用方法非常简单：只需在铁砧中将一把剑与一本空白的书组合，即可从该物品中提取附魔：\n\n![demo](https://cdn.modrinth.com/data/cached_images/419027256f1993e9df093c61247a2ad528538c6c.png)\n\n如果你希望将附魔提取到一本已有的附魔书上，请将这本书放在第一个槽位中。这将按照两本附魔书合并的方式，将附魔进行组合与合并。\n\n默认情况下，Easy Disenchanting 消耗的等级与原版附魔合并相同，并且会将解除附魔后的物品返还给你。你可以在配置文件中调整这两项设置以进行平衡性调整。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

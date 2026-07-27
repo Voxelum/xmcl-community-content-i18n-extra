@@ -1,6 +1,6 @@
 {
-  "bodyHash": "yYmT9WnbqtA=",
-  "content": "<p>Render Player API — это клиентский API, предоставляющий доступ к</p><ul>\n<li>классу \"RenderPlayer\", а также</li>\n<li>классу \"ModelPlayer\" и</li>\n<li>классу \"ModelBiped\"</li>\n</ul><p>при минимизации конфликтов между модами.</p><p>&nbsp;</p><p>Этот проект создан для удобства пользователей клиента Curse.</p>",
+  "bodyHash": "a697edd84abcffd8",
+  "content": "\n\n<p>Render Player API — это клиентский API, который предоставляет доступ к</p>\n<ul>\n<li>классу «RenderPlayer» и</li>\n<li>классу «ModelPlayer» и</li>\n<li>классу «ModelBiped»</li>\n</ul>\n<p>при этом минимизируя конфликты между модами.</p>\n<p>&nbsp;</p>\n<p>Это проект, созданный для удобства пользователей клиента CurseForge.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

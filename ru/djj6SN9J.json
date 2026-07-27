@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e0c528826d377e66",
+  "content": "Неофициальный форк мода [Continuity](https://modrinth.com/mod/continuity), который добавляет новые свойства CTM: 'connect_to_tag' и 'connect_to_state', в сочетании с модулем [WesterosBlocks](https://modrinth.com/mod/westerosblocks). Этот мод вам не нужен, если вы не используете его с WesterosBlocks.\n\n`connect_to_state` и два блока одного типа соединятся только в том случае, если они имеют одинаковое значение для этого свойства рядом друг с другом\n\n`connect_to_tag` позволяет соединять по тегам все\n\nВсе заслуги принадлежат оригинальному автору Pepper_Bell.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

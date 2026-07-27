@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aa8d6e075d587b90",
+  "content": "<p><img src=\"https://github.com/PhantomLoader/PhantomLoader/raw/1.20.1/logo.png\" alt=\"Phantom Loader\"></p>\n<p>Phantom Loader 是一個 API，能夠透過在編譯時生成特定載入器的程式碼，自動化建立跨多個 Minecraft 模組載入器的模組的部分流程。</p>\n<h1>關於</h1>\n<p>通常，當為 Fabric 和 Forge 同時開發模組時，模組開發者必須為兩個模組載入器建立獨立的模組，並加入載入器特定的程式碼，儘管這些程式碼的功能大多相同。Phantom Loader 允許你將所有程式碼（或大部分程式碼）保留在共用模組中，從而在編譯時自動生成 Forge 和 Fabric 的初始化類別。</p>\n<p>Phantom Library 還負責抽象化每個模組載入器的基本功能，使開發者只需依賴來自共用模組的抽象層即可。</p>\n<h1>給開發者的資訊</h1>\n<p>有關設定和使用 Phantom Loader 的文件，請參閱 <a href=\"https://github.com/PhantomLoader/PhantomLoader/wiki\" rel=\"nofollow\">Wiki</a>。</p>\n<p>使用 Phantom Loader 的範例模組可以在此處找到：<a href=\"https://github.com/PhantomLoader/ExampleMod\" rel=\"nofollow\">這裡</a>。</p>\n<h1>致謝</h1>\n<p>作者：<a href=\"https://www.curseforge.com/members/hexagonnico\" rel=\"nofollow\">HexagonNico</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

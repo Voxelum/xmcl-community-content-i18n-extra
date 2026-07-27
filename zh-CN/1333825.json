@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb9ff2821f363477",
+  "content": "\n\n<p>这是为CTNH整合包制作的模组（<a href=\"https://www.curseforge.com/minecraft/modpacks/ctnh\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/modpacks/ctnh)</a>，旨在增加Biomancy与GTM之间的兼容性。</p>\n<p>它添加了部分活体机器和多方块结构。</p>\n<ul>\n<li>活体机器：拥有生命值和营养值的GT机器，可以被攻击或受到药水效果影响。</li>\n<li>活体多方块结构：具备与活体机器相同特性的GT多方块结构。它能够自行进化为其他多方块结构。</li>\n<li>Biomancy配方：通过GT的机制添加更多Biomancy相关配方。</li>\n</ul>\n<p>注意：如果单独安装此模组（及其依赖项）（不在CTNH整合包内），它可以正常运行，但无法完整游玩（例如缺少配方或玩法不完整）。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

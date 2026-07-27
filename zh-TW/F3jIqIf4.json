@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5ef1e2f070c884fe",
+  "content": "# Eymistaken 的 HUD\n**专为 Fabric 1.21.11 打造的模块化 PvP 界面**\n\n> ### [访问官方网站和用户指南](https://eymistaken.github.io/Eymistaken-s-HUD-Website/)\n> *如需详细的模块展示、按键设计师指南以及 API 文档，请参阅我们的官方网站。*\n\nEymistaken 的 HUD 提供专业竞技体验，直接集成于您的模组文件夹中。它为偏好轻量级、纯净模组实现而非重型外部客户端的 PvP 爱好者提供了一个高度可定制的轻量级工作区。\n\n## 核心功能\n* 游戏内布局设计器\n* 动态盔甲 HUD\n* 战斗连击追踪器与热力图\n* 精确到小数点的攻击距离追踪器\n* 高级 CPS（每秒点击次数）监测器\n* 实时 FPS 显示\n* 网络延迟指示器\n\n## 安装步骤\n1. 安装 Fabric Loader。\n2. 下载 Eymistaken 的 HUD。\n3. 安装 Fabric API 和 Cloth Config API。\n4. 将文件放入 `.minecraft/mods` 文件夹中。\n\n---\n> [警告]\n> **重要配置说明：**\n> 如果您是从早于 _v1.0.8_ 的版本进行更新，请删除旧的配置文件（`simplecps.json`），以防止布局问题并确保与新功能的完全兼容性。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

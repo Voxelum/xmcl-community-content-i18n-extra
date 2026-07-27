@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc45aaa74f4bf1ff",
+  "content": "\n\n本模组可帮助你添加自定义唱片！\n\n将 ogg 音频文件放入 `.minecraft/.addurdisc/assets/addurdisc/sounds/` 目录中。\n\n只要文件名仅包含小写字母、数字以及 `-._`，模组便会将其作为唱片添加至游戏中！\n\n**注意：服务端的声音资源文件必须保持一致！！**\n\n你可以通过配置文件更改资源文件的存放目录，并设置苦力怕是否会掉落该唱片。\n\n你可以在配置文件中将 `refreshLang` 选项设置为 `false`，随后编辑 `.minecraft/.addurdisc/assets/addurdisc/lang/en_us.json` 以修改物品的名称和描述。\n\n你也可以覆盖 `.minecraft/.addurdisc/assets/addurdisc/texture/item/xxx.png` 对应的 png 图片，以自定义你的唱片纹理。\n\n**提示：如果你的音频文件是从音乐 App 下载的，它可能包含封面视频流，这会导致游戏无法正确读取音频。你可以使用音频编辑软件（如 FFmpeg）提取纯音频流来解决此问题。**\n\n**如果你使用 FFmpeg，操作方式如下：**\n\n```\nffmpeg -i input.ogg -map 0:1 -c copy output.ogg\n```\n\n**（前提是 `0:1` 为音频流。）**\n\n为实现立体声、距离衰减等播放效果，你需要将音频文件转换为单声道。\n```\nffmpeg -i input.ogg -ac 1 output.ogg\n```\n\n[更多教程信息，请查阅此维基：](https://github.com/TunYuntuwuQWQ/addurdisc/wiki)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

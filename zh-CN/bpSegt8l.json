@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e1ba6c65f7dcd625",
+  "content": "\n\n# Avaritia Reborn\n\n适用于 Fabric 的 Avaritia 模组。（非官方）\n\n**仍在开发中。**\n\n本模组旨在还原原版 Avaritia 模组中的所有功能。\n\n已知问题：物品能力尚未完全实现。\n\n## 已实现内容\n\n1. 几乎实现了原版模组的所有功能。\n2. 优化了部分任务，例如镐的破坏流程。\n3. 还原了 1.12.2 版本的特殊渲染效果。\n4. 采用数据驱动的配置文件系统。\n\n## 常见问题\n\n#### 其他版本？\n我们计划支持所有主要版本。（1.14.4、1.15.2、1.16.5……）\n\n#### Forge 版？\n不会。\n\n#### API 接口？\n本模组采用数据驱动系统，具体将在后续文档中介绍。\n\n#### 模组集成？\n将使用来自 `Botania`、`Item Alchemy`、`Tech Reborn`、`Applied Energistics 2` 等模组的物品。当然，其运行方式与原版模组一致。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

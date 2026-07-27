@@ -1,6 +1,6 @@
 {
-  "bodyHash": "8b290d7e135fcf95",
-  "content": "\n\n<p>這個（略帶恐怖風格）模組讓村民有 10% 的機率成為隱藏的精神病患者，他們主要會在夜間出沒並攻擊脆弱目標（嬰兒村民通常會鎖定動物）。每次攻擊後，他們會休息長達一小時；此外，被擊殺時會掉落鋤頭。</p>\n<p>你可以透過指令「/psychovillagers spawn」手動生成精神病村民。</p>\n<p>提供設定檔，你可關閉恐怖音效、調整精神病村民生成機率等更多選項。</p>\n<p>部分其他實用設定：</p>\n<p>預設關閉：</p>\n<ul>\n<li>COORDINATED_PSYCHOS - 若啟用，精神病村民將只攻擊玩家，且攻擊行為會相互協調。</li>\n</ul>\n<p>名稱即說明，預設開啟：</p>\n<ul>\n<li>PSYCHOS_ATTACK_PLAYERS;</li>\n<li>PSYCHOS_ATTACK_VILLAGERS;</li>\n<li>PSYCHOS_ATTACK_ANIMALS;</li>\n<li>PSYCHOS_ATTACK_PSYCHOS;</li>\n</ul>",
+  "bodyHash": "ff8428e07e0c7bb6",
+  "content": "<p>這個（有點恐怖）模組增加了村民變成隱藏精神病者攻擊脆弱目標（通常目標是小村民和動物）的 10% 機率，大部分在晚上發生。攻擊後，他們會休息最多一小時，被殺時還會掉落鏟子。</p>\n<p>你可以使用 \"/psychovillagers spawn\" 命令手動生成精神病村民。</p>\n<p>提供配置選項，你可以關閉恐怖音效、改變精神病者機率等設定。</p>\n<p>其他有用設置：</p>\n<p>預設關閉：</p>\n<ul>\n<li>COORDINATED_PSYCHOS - 若為真，精神病者只針對玩家攻擊，且會協調行動。</li>\n</ul>\n<p>預設開啓並可自我說明：</p>\n<ul>\n<li>PSYCHOS_ATTACK_PLAYERS;</li>\n<li>PSYCHOS_ATTACK_VILLAGERS;</li>\n<li>PSYCHOS_ATTACK_ANIMALS;</li>\n<li>PSYCHOS_ATTACK_PSYCHOS;</li>\n<li>CORPSES;</li>\n</ul>\n<p>預設關閉：</p>\n<ul>\n<li>CORPSES_DESPAWN;</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d58d74e7b85af4e7",
+  "content": "\n\n<p><strong>Back Slots требует Curios API:&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcurios\" rel=\"nofollow\">Curios API</a></strong></p>\n<h1>Конфигурация для владельцев модпаков / серверов:</h1>\n<p>\"Формат: \"modid:itemid,rotX,rotY,rotZ,scale,transX,transY,transZ\"\", \"Пример: \"minecraft:shield,180,0,0,2.0,0,0,0.0\"\" — это позволяет отображать любой настроенный предмет на игроке так, как вам угодно. Я планирую также добавить data-driven поддержку для разработчиков модов, которая обеспечит нативную поддержку без использования конфига, но на данный момент реализовано только это.</p>\n<h1><strong>Возможности</strong>:</h1>\n<p>Добавляет слот на спине через Curious: вы можете поместить любой предмет в этот слот, и он будет отображаться на вашей спине. Клавиша быстрого обмена позволяет менять местами предмет в основной руке и предмет на спине, и наоборот. Это даёт возможность быстро переключаться в бою.</p>\n<p>&nbsp;<img src=\"https://cdn.modrinth.com/data/cached_images/57414c01b51e97af1e051bfb3c12b8e6d266d680.png\" alt=\"Слот на спине через Curious\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

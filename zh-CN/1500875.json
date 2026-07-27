@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33b42efbd7106d61",
+  "content": "\n\n<p>为了避免在我制作的每个项目中重复使用相同的类、相同的代码和相同的一切，我将它们独立成了一个 API，这样就不会让项目被其代码淹没。<br><br>该 API 的代码主要用于：</p>\n<p><strong>为模组集成 Heavy Attacks 系统</strong><br><br><strong>注册实体补丁、骨骼与网格。<br><br>注册动画（攻击类型）<br><br>注册武器能力</strong></p>\n<p><strong>21.1.2-latest：<br><br>注册招式集（兼容 ExCap）</strong></p>\n<p>&nbsp;</p>\n<p>该模组&nbsp;<strong>本身并不执行任何操作</strong>，它只是供其他模组使用的库/依赖项！</p>\n<p>目前该库旨在保持简洁小巧，未来或许会获得更多关注。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

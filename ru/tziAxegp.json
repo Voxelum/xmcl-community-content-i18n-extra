@@ -1,0 +1,6 @@
+{
+  "bodyHash": "43975ffaae163bcc",
+  "content": "## Что это?\nПростейший мод для использования эмодзи в тексте, основанный на [Inline](https://modrinth.com/mod/inline).\n## Зачем?\nПотому что emojiful несовместим с Inline и другими модами, изменяющими отображение текста, а хороших альтернатив для пользовательских эмодзи пока нет.\n## Как использовать?\nПросто поместите файлы png/gif в папку `assets/<namespace>/emojis/` вашего ресурс-пака. Имя файла станет шорткодом, поэтому файл `assets/myemojipack/emojis/mycoolemoji.png` будет вызываться как `:mycoolemoji:`.\n## Встроены ли какие-либо эмодзи?\nПока нет",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

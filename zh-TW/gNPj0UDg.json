@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0afa6b9d401f48a",
+  "content": "\n\n# 隨處坐下！\n可以在階梯和半磚上坐下，事實上，你想坐哪裡就坐哪裡！\n\n## ⚙️ 伺服器端功能！\n如果你只在伺服器或區域網路（LAN）中安裝這個資料包 / 模組，其他玩家不需要安裝也能使用！\n\n## 📖 使用方法：\n想要坐在任何你想要的表面上，只要將視線完全向下，快速連續按兩次潛行鍵，然後右鍵點擊即可！:D\n\n要在半磚或階梯上坐下，只要站在上面並對它右鍵點擊。就是這麼簡單。\n\n或者直接使用 `/trigger sit`（僅限 2.3.x+ 版本）\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BWtH6_-mDMw?si=AJPLYbOrlK8Yemnn\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n## 🤔 為什麼這個專案比其他的更好？\n- 因為它的核心是資料包，這意味著你只要把它放到地圖或伺服器裡，任何人都可以直接使用，不需要額外安裝任何东西！\n- 我確保它同時具備資料包和模組的功能，讓它能在你建立的每個世界中運作！提供最大彈性。想在特定世界使用？用資料包。想在加入的任何世界都自動生效，甚至不需要設定？用模組！\n- 用途廣泛且不具干擾性：像許多座位模組一樣，你可以使用任何階梯或半磚來坐下。但你必須先站在上面才行！因為沒有這個功能時，我常常會不小心坐到別的地方。不過你也可以坐在其他地方！並不限於半磚或階梯。它們只是有明確的坐下位置，能很好地居中對齊。\n- 由於其核心是資料包而非模組，因此較不容易因未來的 Minecraft 更新而失效。雖然仍有可能發生，但機率較低。\n\n## ⤵️ 安裝方式：\n### 資料包：\n下載最新發行版本，並將資料包的 `.zip` 檔案放入你的 Minecraft 世界的 `datapacks` 資料夾中。\n### 模組：\n下載最新發行版本，並將模組的 `.jar` 檔案放入你的 Minecraft 遊戲的 `mods` 資料夾中。\n\n## ✍️ 意見回饋、問題與建議\n我一直在聆聽！如果你有任何問題、建議，或是遇到了錯誤，歡迎加入我的 Discord 伺服器，在「模組與資料包」區塊提出協助請求。[點擊加入伺服器](https://discord.gg/kwzQWS4)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

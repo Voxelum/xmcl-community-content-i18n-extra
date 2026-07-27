@@ -1,0 +1,6 @@
+{
+  "bodyHash": "114ebf915e88b828",
+  "content": "\n\n<p>此模組是一款簡單但高度可配置的模組，專為搭配《The Lost Cities》(<a href=\"https://minecraft.curseforge.com/projects/the-lost-cities\" rel=\"nofollow\">https://minecraft.curseforge.com/projects/the-lost-cities</a>) 而設計。它會在大樓中生成更多、更強的生物，讓探索大樓變得更加具有挑戰性。建築物有很高的機率會被「鬧鬼」。一旦被鬧鬼，就會生成非常強大的原版生物（攻擊力與生命值均被強化），直到玩家擊殺特定數量的生物為止，之後該建築才會被視為「清除」。這些生物會在玩家進入建築時生成，但不受光照等級影響，因此單純照亮建築並無法阻止它們（可在設定檔中停用）。</p>\n<p>&nbsp;</p>\n<p>此模組高度可配置。你可以透過設定檔來控制能生成哪種生物、數量上限、它們配備的護甲與武器類型，以及強度等等。</p>\n<p>&nbsp;</p>\n<p>注意，此模組僅適用於伺服器端。</p>\n<p>&nbsp;</p>\n<p>歡迎在任何整合包中使用此模組。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

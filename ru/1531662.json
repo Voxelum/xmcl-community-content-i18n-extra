@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd97927eb6da40d5",
+  "content": "\n\n<p>Привет всем!</p>\n<p>Это мой первый мод, который я решил опубликовать, и, надеюсь, он будет получать обновления каждый месяц...</p>\n<p>Итак, этот мод добавляет команду /starter_kit, которую можно использовать только один раз и которая даёт игроку базовый набор для старта с модом Create:</p>\n<p>Несколько шестерёнок из Numismatics (количество настраивается в файле CNSP 1.21.1_configurable с помощью команды /gamerule starterKitCogNumber &lt;number&gt;), гаечный ключ, очки, красная карта*, банковский терминал* и торговец* — всё это выдаётся командой /starter_kit, которую разрешено использовать лишь один раз!</p>\n<p>*только в версиях 1.21.1</p>\n<p><span style=\"text-decoration:underline\">/!\\</span> Требуются моды <a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" target=\"_blank\" rel=\"nofollow\">Create</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/numismatics\" target=\"_blank\" rel=\"nofollow\">Create : Numismatics</a> <span style=\"text-decoration:underline\">/!\\</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

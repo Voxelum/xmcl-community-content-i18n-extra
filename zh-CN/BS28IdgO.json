@@ -1,0 +1,6 @@
+{
+  "bodyHash": "69191e1998fe1ba2",
+  "content": "这是 TheMegax 对该模组实现的分支。然而，TheMegax 已经退出了该项目。HumanoidSandvichDispenser 和 R4z0rX 参与了 1.20 版本的实现。由于涉及许多贡献者，请查看模组作者列表以获取完整的贡献者名单。\n\n以下是 TheMegax 模组的链接：[https://www.curseforge.com/minecraft/mc-mods/elytra-autopilot](https://www.curseforge.com/minecraft/mc-mods/elytra-autopilot)。\n\n## 使用方法\n在足够的高度飞行时，按下指定的按键（默认为“R”）即可启用“自动飞行”。在自动飞行模式下，模组会调整你的俯仰角在上升和下降之间切换，从而实现净高度增加。\n\n要打开配置屏幕并启用 Mod Menu，请进入模组菜单并在其中打开配置界面。\n\n## /flyto 命令\n**语法：** `/flyto X Z` 或 `/flyto <name>`\n\n在飞行过程中使用此命令可自动飞往指定坐标。当接近目的地时，模组会尝试通过绕目标盘旋来减速，以避免落地伤害。你可以随时通过关闭自动飞行或在配置中切换设置来禁用此行为。\n\n## /takeoff 命令\n**语法：** `/takeoff` 或 `/takeoff X Z` 或 `/takeoff <name>`\n\n如果你装备了鞘翅，并且主手或副手持有烟花，此命令会将你发射到可配置的高度（默认：180格），然后激活自动飞行。如果提供了坐标，它将随后使用 `/flyto` 自动导航到指定位置。\n\n## /flylocation 命令\n**语法：** `/flylocation set <name> X Z` 或 `/flylocation remove <name>`\n\n使用此命令添加或删除快速飞行地点。\n\n## /land 命令\n**语法：** `/land`\n\n在飞行过程中使用此命令可随时强制着陆。非常适合快速返回地面！\n\n### 冒险着陆\n默认情况下禁用，但可在配置中启用。启用后，此设置会将着陆行为修改为更冒险的方式：直到最后一刻才俯冲，然后拉起。不建议在卡顿的服务器或客户端上使用！\n\n## Xaero Minimap 支持\n如果你不喜欢使用内置的 `/flylocation` 命令，或者已经在使用 Xaero Minimap 管理航点，那么好消息是！你现在可以直接对 Xaero Minimap 的航点使用 `/flyto` 和 `/takeoff` 命令。\n\n## 自动装备鞘翅\n有一个可选设置，你可以在半空中按下空格键时启用它，从而自动将胸甲切换为鞘翅。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

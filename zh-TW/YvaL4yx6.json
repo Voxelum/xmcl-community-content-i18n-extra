@@ -1,6 +1,6 @@
 {
-  "bodyHash": "aI3ZsROLPeI=",
-  "content": "# 記憶體使用標題\n![遊戲](https://cdn.modrinth.com/data/YvaL4yx6/images/e857db914864610383d3f99ce37af9a11402c47d.png)\n\n## 說明\n在標題列顯示 Minecraft 的記憶體使用情況。<br />\n我製作這個模組是因為想在不妨礙視野的明顯位置顯示這些資訊。\n<br />\n<br />\n模組載入器：Fabric Loader、Minecraft Forge Loader<br />\n授權：MIT 授權<br />\n模組包：可自由使用<br />",
+  "bodyHash": "7df69556a8298920",
+  "content": "\n\n# 記憶體使用量標題\n![Game](https://cdn.modrinth.com/data/YvaL4yx6/images/e857db914864610383d3f99ce37af9a11402c47d.png)\n\n## 描述\n在標題列中顯示 Minecraft 的記憶體使用量。<br />\n我製作此模組，是為了將資訊顯示在一個容易看見且不干擾遊戲的位置。\n<br />\n<br />\n模組載入器：Fabric Loader、Minecraft Forge Loader<br />\n授權條款：MIT 授權<br />\n整合包：可用<br />",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3648c6dbea9fec13",
+  "content": "PVP Bot 编队\n\nPVP Bot 编队是 PVP Bot v0.0.13A 的一个附加组件，为机器人组添加了自动网格编队控制功能。\n\n它允许你将 PvP 机器人排列成整洁、间距均匀的战阵，适用于 SMP 战争、桥梁对峙、脚本战斗、机器电影、预告片以及大型活动场景。机器人不再杂乱无章地聚集生成，而是被放置到有序的队列中，呈现出精心设计的电影感效果。\n\n特性\n- PvP 机器人的自动网格编队\n- 动态布局缩放，支持最多 50 个机器人的数量\n- 机器人之间均匀分布，视觉效果更整洁\n- 从左到右的行排列\n- 最后一行居中，形成更平衡的编队\n- 基于阵营的编队支持\n- 批量生成编队支持\n- 可选的 pvpbot-groups 组支持（目前未发布）\n\n命令\n/pvpbot massspawn <count> grid\n生成机器人并在它们上线时将其放入网格编队中。\n\n/pvpbot faction <faction> formation grid\n将某个阵营的所有活跃机器人围绕玩家排列成网格。\n\n/pvpbot faction group <group> formation grid\n将某个组内的所有活跃机器人排列成网格。这需要 pvpbot-groups（目前未发布）。\n\n为什么下载这个附加组件？\n\n此模组专为希望机器人战斗看起来井然有序而非混乱不堪的玩家和创作者而设计。它特别适用于：\n\n- SMP 战争活动\n- 电影感的 Minecraft 战斗\n- 脚本化的战斗场景\n- 预告片和机器电影镜头\n- 大规模机器人军队和有组织的 PvP 展示\n\n兼容性\n- Minecraft 1.21+\n- Fabric Loader\n- Fabric API\n- 需要 PVP Bot v0.0.13A\n- 同时需要 PVP Bot v0.0.13A 所需的任何依赖项\n- 可选支持 pvpbot-groups（目前未发布）\n\n当前状态\n\n该项目处于早期开发阶段，因此功能和行为可能会在未来的更新中发生变化。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

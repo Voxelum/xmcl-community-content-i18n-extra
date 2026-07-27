@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0e6eaae4563e946d",
+  "content": "# Anotherview\n一款大幅簡化第三人稱遊玩的模組。在進入房間或其他封閉空間時，自動將視角從第三人稱切換至第一人稱。\n# \n\n**Anotherview：**\n![Anotherview](https://imgur.com/wFYTnAr.gif)\n**Vanilla（原版）：**\n![Vanilla](https://imgur.com/7IHbYMp.gif)\n**Anotherview + Shoulder Surfing Reloaded：**\n![Anotherview + Shoulder Surfing Reloaded](https://imgur.com/YAjo1oW.gif)\n\n\n## 功能\n- 視角控制器 - 進入狹窄房間時自動將任何視角切換為第一人稱視角\n- 多種運作模式（在 alpha1.0.3 版本發布時僅有一種 - RAYCAST）\n- 用於更改運作模式的快捷鍵（預設為「減號」鍵）\n- 完全相容於 [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded)\n- 僅限客戶端 - 可在任何伺服器上使用\n\n\n### \n### 安裝指南\n1. 開啟 `.minecraft/mods` 資料夾\n2. 將 `anotherview-[mc_version]-[mod_version].jar` 檔案移至該資料夾內。\n3. 啟動遊戲\n\n\n\n### 使用指南\n\n在遊戲中，按下預設的減號鍵以更改 Anotherview 模式\n\n\n\n### 運作原理\n\n該模組目前僅有一種狹窄空間偵測模式，名為「RAYCAST」。\n\nRAYCAST 是一種模式，在該模式中，每個遊戲刻（tick）都會在玩家頭頂向上發射一道光束至特定距離。當光束碰撞到除植被以外的任何方塊時，模組會將視角切換為第一人稱視角。\n\n\n\n### 授權協議\n\nMIT 授權。由 [Strypel](https://github.com/strypel) 製作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

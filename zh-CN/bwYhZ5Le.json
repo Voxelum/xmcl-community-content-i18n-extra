@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a45ed2aebafda3a6",
+  "content": "![icon](https://cdn.modrinth.com/data/bwYhZ5Le/images/ba2b048c0957f7a5eaafac56e3fedd52ffd96369.png)\n\n此资源包添加了箭和灵魂箭的自定义实体模型，这些模型使用实际的箭物品贴图，使得世界中射出的箭在任何 16x 资源包下看起来都与物品本身完全一致。\n\n这些自定义实体模型需要 [Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features) 2.0+ 版本（适用于 MC 1.18.2+），或者 OptiFine 1.20.4_HD_U_I8_pre3+。\n\n虽然这些模型兼容任何 16x 资源包，但如果资源包的箭头贴图角度与原版不一致，可能会显得有些奇怪。\n\n以下是使用 [Excalibur](https://www.curseforge.com/minecraft/texture-packs/excalibur) 资源包的示例：\n![excalibur](https://cdn.modrinth.com/data/bwYhZ5Le/images/7dac9d160d485ae65f60048debb2eea476c93df8.png)\n\n你可能会问，它是如何支持所有 16x 资源包的呢？\n\n当然，是通过暴力建模每个像素来实现的 :)\n![pixels](https://cdn.modrinth.com/data/bwYhZ5Le/images/3e66198ac114b643b5e9b681ad2a50f798e25d4f.png)\n\n这或许不是最高效的模型，但它体现了完全兼容资源包的理念 :)\n\n本模组不会影响弓，也不会添加任何新贴图。它仅通过添加读取 “assets/minecraft/textures/item/arrow.png” 和 “assets/minecraft/textures/item/spectral_arrow.png” 贴图的箭模型来改变世界中箭的外观。\n\n如果你有想法、问题或建议，可以通过 [Discord](https://discord.gg/invite/rURmwrzUcz) 联系我。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

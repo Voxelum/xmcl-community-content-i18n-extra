@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c57c96fed5591ca6",
+  "content": "<p>此模组限制每个世界拥有的生命次数。默认情况下，当你死亡时，你将永久失去半颗心的生命值，导致每次重生后剩余的心/生命值越来越少。当最终生命次数用尽时，根据配置的不同，你将被强制进入旁观者模式（MC 1.7.10 不可用）或在设定时间内被服务器封禁。</p>\n<p>&nbsp;</p>\n<p>在聊天栏中使用命令 /ll 或 /limitedlives 来查看你还剩多少条命，或者距离下次重生还剩多长时间。</p>\n<p>要设置死亡计数，请使用 /ll &lt;set&gt; &lt;player&gt; &lt;deaths&gt;</p>\n<p>&nbsp;</p>\n<p>1.0.x 之前的版本（MC 1.12 及更早版本）使用聊天命令，因此为 !ll 或 !limitedlives。</p>\n<p>&nbsp;</p>\n<p>需要 <a href=\"/linkout?remoteUrl=https%253a%252f%252ffiles.minecraftforge.net%252f\" rel=\"nofollow\">Minecraft Forge</a>。Fabric 版本可在此处获取 <a href=\"https://www.curseforge.com/minecraft/mc-mods/limited-lives-fabric\" rel=\"nofollow\">这里</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

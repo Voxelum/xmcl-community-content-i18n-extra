@@ -1,0 +1,6 @@
+{
+  "bodyHash": "21ed5f9ddbab931b",
+  "content": "# 飢餓調整\n\n伺服器端模組。\n\n更改與飢餓相關的機制。\n\n## 功能\n\n- 調整疲勞恢復率（預設值：0.5）\n- 調整自然再生率（預設值：0.5）\n\n## 可配置\n\n完全可自訂。\n\n設定檔位於 `config/hunger_tweaks.json`。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

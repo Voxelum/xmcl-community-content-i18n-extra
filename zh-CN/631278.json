@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e974bed75abdc749",
+  "content": "<h4><strong>描述：</strong></h4>\n<p>Ok Zoomer 是 <a href=\"https://www.curseforge.com/minecraft/mc-mods/ok-zoomer\" rel=\"nofollow\">Fabric 版 OkZoomer</a> 的 <span style=\"text-decoration:underline\"><em><strong>非官方</strong></em></span> <strong>Forge 移植版本</strong>，它添加了一个功能丰富且可配置的缩放按键，允许玩家进行缩放。默认情况下，缩放键绑定为 C 键，但缩放效果有所不同，具备缩放滚动、平滑过渡和降低鼠标灵敏度等功能。</p>\n<p>然而，故事并未就此结束，因为在这里，你可以完全掌控自己的缩放体验！通过配置文件，缩放功能是完全可定制的。如果默认行为不符合你的需求，你可以调整最细微的设置，甚至只需点击一下按钮即可恢复 OptiFine 的缩放效果！</p>\n<p>&nbsp;</p>\n<p>此模组主要作用于客户端，但当安装在服务器上时，它允许服务器管理员在服务器配置中设置玩家如何使用缩放功能，甚至可以对其进行限制。</p>\n<p>&nbsp;</p>\n<p><em>注意：该移植版本目前尚不支持配置图形界面（GUI），该功能计划在稍后版本中添加。</em></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "303586483752de4e",
+  "content": "\n\nДобавляет новые атмосферные треки в измерение Края, заимствованные из дополнения Minecraft Dungeons: Echoing Void.\n\n\n<details>\n<summary>Список композиций</summary>\n\n- Peter Hont - Astray Archipelago\n- Peter Hont - City\n- Peter Hont - End Wilds\n- Rostislav Trifonov - Ethereal Blocks\n- Peter Hont - Obsidian Cavern\n- Peter Hont - Ship\n\n</details>\n\nЭто изменяет только музыку внешних островов Края и не влияет на бой с драконом.\n\nТакже поддерживается музыкальное уведомление (toast), добавленное в версии 1.21.6.\n\nПротестировано на версиях 1.21.8 и 1.9.0, но должно работать и с другими версиями.\n\nРекомендуется в сочетании с такими паками, как [Nullscape](https://modrinth.com/datapack/nullscape) или [AL's Enderman Revamped](https://modrinth.com/resourcepack/als-enderman-revamped).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

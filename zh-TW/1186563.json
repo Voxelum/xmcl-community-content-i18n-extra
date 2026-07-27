@@ -1,0 +1,6 @@
+{
+  "bodyHash": "34689203e732a187",
+  "content": "\n\n<p>如果你想要模組版本，<a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-map-server-utils-mod-version\" target=\"_blank\" rel=\"nofollow\">點擊這裡</a>。</p>\n<h2>簡介</h2>\n<p>此資料包為伺服器管理員新增了一些實用的指令，方便進行公平性調整，以滿足玩家使用 Xaero 地圖系列模組時的遊戲需求。</p>\n<h2>運作方式</h2>\n<p>請參閱 <a href=\"https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap\" target=\"_blank\" rel=\"nofollow\">Xaero 小地圖模組</a> 中的 <code>如何在伺服器上禁止使用洞穴模式與/或實體雷達？</code> 章節。</p>\n<h2>使用方法</h2>\n<ul>\n<li><p><code>/function xaero:fairxaero</code> 使小地圖停用洞穴模式（包含世界地圖）與實體雷達（公平遊玩模式）  </p></li>\n<li><p><code>/function xaero:nominimap</code> 完全停用小地圖  </p></li>\n<li><p><code>/function xaero:resetxaero</code> 重設所有系統訊息旗標  </p></li>\n<li><p><code>/function xaero:xaerowmnetherisfair</code> 即使小地圖處於公平遊玩模式，仍讓世界地圖的洞穴模式在地獄中生效</p></li>\n</ul>\n<p>上述指令會向玩家顯示管理員所使用的指令。若不希望玩家得知你使用了哪個指令，可在 <code>xaero:</code> 後加上 <code>silent/</code>（範例：<code>/function xaero:silent/fairxaero</code>）（但玩家仍會收到空白訊息）。</p>\n<h2>自動執行</h2>\n<p>新加入的自動執行功能可在玩家加入伺服器時自動執行函數，進而修改其小地圖的行為。</p>\n<ul>\n<li><code>/function xaero:autorun/set/disabled</code> 停用此功能（預設值）</li>\n<li><code>/function xaero:autorun/set/...</code> 選擇要自動執行的函數</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

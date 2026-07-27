@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6ac1cbf6dcea7fd1",
+  "content": "\n\n# **战斗碰撞箱**\n\n这款**纯视觉**模组增加了调试碰撞箱线条宽度的设置（原版的线条通常太细，不太符合我的喜好）、各组件的颜色设置，以及各组件的显示开关。\n\n受够了眯着眼盯着那个微小的攻击指示器来判断自己是否处于攻击范围内吗？使用战斗碰撞箱后，整个碰撞箱会改变颜色（默认为红色）来标示你锁定的敌人。\n\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/IugaEAV7xi8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n（更多预览请前往画廊查看，也别忘了看看 [Tektonikal](https://modrinth.com/user/Tektonikal)）\n\n## 依赖项\n\n本模组需要 [Fabric api](https://modrinth.com/mod/fabric-api)，并且需要 [Cloth config](https://modrinth.com/mod/cloth-config) 与 [Mod menu](https://modrinth.com/mod/modmenu) 来提供配置界面。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "E0/FcLhefQk=",
-  "content": "# Litematica Companion\nLitematica 的簡易輔助模組，可在物品欄畫面中顯示已載入結構的捲動方塊列表及其他資訊。\n\n**注意：** 我會修正此問題，但至少目前您需要先開啟材料列表（預設按鍵為 M+L）來載入方塊。之後它們便會顯示在物品欄列表中。**我已修正此問題**\n\n如有任何問題或建議，可在此處提交：[問題回報](https://github.com/qinx0/litematica-companion/issues)，或透過 Discord 私訊給我：[qinx___](https://discord.com/channels/@me/835834540508446760)\n\n支援版本：\n - [ ] 26.1+\n - [x] 1.21.11\n - [x] 1.21.10\n - [x] 1.21.9\n - [x] 1.21.8\n - [x] 1.21.7\n - [X] 1.21.6\n - [X] 1.21.5\n - [X] 1.21.4\n - [X] 1.21.3\n - [X] 1.21.2\n - [X] 1.21",
+  "bodyHash": "3e5b128c0d972579",
+  "content": "# Litematica 輔助模組\n為 Litematica 設計的簡單輔助模組，可在物品欄介面中顯示可滾動的方塊清單以及有關已載入藍圖的其他資訊。\n\n**注意：** 我現在已經修復了這個問題。不過在此之前，你需要先按下預設鍵組合 M+L 開啟材料清單以載入方塊，之後它們才會出現在物品欄清單中。**我已經修復了這個問題**\n\n如有任何問題或建議，請在此處提交：[Issues](https://github.com/qinx0/litematica-companion/issues) 或在 Discord 上 [私訊我](https://discord.com/channels/@me/835834540508446760)/qinx___\n\n版本支援：\n - [ ] 26.1+\n - [x] 1.21.11\n - [x] 1.21.10\n - [x] 1.21.9\n - [x] 1.21.8\n - [x] 1.21.7\n - [X] 1.21.6\n - [X] 1.21.5\n - [X] 1.21.4\n - [X] 1.21.3\n - [X] 1.21.2\n - [X] 1.21",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

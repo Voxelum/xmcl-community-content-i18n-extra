@@ -1,0 +1,6 @@
+{
+  "bodyHash": "edcf7abd64b6ef16",
+  "content": "\n\n移除了 2 個當機問題：\n- 粒子當機 - 可能因顯示大量粒子而當機。已透過限制同時顯示給你的粒子數量來修復。\n- 箭矢當機 - 可能因其他玩家體內卡入大量箭矢而當機。已透過移除玩家身上箭矢的渲染來修復。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

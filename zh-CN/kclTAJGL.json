@@ -1,6 +1,6 @@
 {
-  "bodyHash": "OlRD470mv+M=",
-  "content": "这个模组为《我的世界》添加了金属管，当它落在地上时会发出著名的金属管音效。合成方法只需在工作台中将三个铁锭水平放置即可。\n\n### 针对模组开发者\n自版本 **2.1.0+** 起，你可以通过 `.json` 文件为任意物品自定义掉落音效。\n\n操作方法：在如下目录中创建以物品ID命名的 `.json` 文件：\n`~/data/[命名空间]/falling_sounds/`\n\n示例：\n\n> amethyst_shard.json\n>\n> ```json\n> {\n>   \"soundId\": \"minecraft:block.amethyst_block.break\",\n>   \"volume\": 0.7,\n>   \"pitch\": 1.0\n> }\n> ```\n\n另附[示例数据包](https://cdn.modrinth.com/data/kclTAJGL/versions/hOToA7Ao/metalpipemod_example_datapack.zip)可供参考。",
+  "bodyHash": "fd236810497090d7",
+  "content": "本模组为《我的世界》添加了金属管道，当它掉落在地面上时会播放著名的金属管道音效。\n制作方法：在合成表中水平放置三个铁锭即可。\n\n### 面向模组开发者\n从版本 **2.1.0+** 开始，你可以使用 `.json` 文件为任何物品分配自定义的掉落音效。\n\n为此，请在以下目录中创建一个以物品命名的 `.json` 文件：\n`~/data/[namespace]/falling_sounds/`\n\n示例：\n\n> amethyst_shard.json\n>\n> ```json\n> {\n>  \"soundId\": \"minecraft:block.amethyst_block.break\",\n>  \"volume\": 0.7,\n>  \"pitch\": 1.0\n>}\n> ```\n\n此外，还有一个 [示例数据包](https://cdn.modrinth.com/data/kclTAJGL/versions/hOToA7Ao/metalpipemod_example_datapack.zip) 可供参考。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

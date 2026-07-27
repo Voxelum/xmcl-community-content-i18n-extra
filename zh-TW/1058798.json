@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ced7b8276be89d09",
+  "content": "<p><span style=\"font-size:24px\">《Better Combat》的附加模組，可讓該模組支援（人形）怪物。</span></p>\n<p><span style=\"font-size:24px\">&nbsp;</span></p>\n<p><span style=\"font-size:24px\">需安裝 <a href=\"https://curseforge.com/minecraft/mc-mods/mob-player-animator\" rel=\"nofollow\">Mob Player Animator</a>，以便透過 <a href=\"https://www.curseforge.com/minecraft/mc-mods/playeranimator\" rel=\"nofollow\">Player Animator</a> 正確播放怪物的動畫。</span></p>\n<p><span style=\"font-size:24px\">&nbsp;</span></p>\n<p><span style=\"font-size:24px\">內含配置選項，可控制哪些怪物允許使用 Better Combat 系統；同時會自動將使用 GeckoLib 動畫的怪物列入黑名單，因為它們與 Player Animator 不相容。</span></p>\n<p><span style=\"font-size:24px\">&nbsp;</span></p>\n<p><span style=\"font-size:24px\">此模組與 <a href=\"https://www.curseforge.com/minecraft/mc-mods/guard-villagers\" rel=\"nofollow\">Guard Villagers</a> 及 <a href=\"https://www.curseforge.com/minecraft/mc-mods/recruits\" rel=\"nofollow\">Villager Recruits</a> 相容。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

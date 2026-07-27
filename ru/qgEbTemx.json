@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac3c903f3e419fe2",
+  "content": "\n\nЭтот мод добавляет несколько утилит логирования, которые я использую в своих модах.\n\n```\nmyLogger.myPrint(\"Hello World!\");\n// \"Привет, мир!\"\n\nmyLogger.myDebug(\"Debug Message\"\");\n// [DEBUG] \"Сообщение отладки!\"\n\nmyLogger.myInfo(\"Info Message!\");\n// [INFO] \"Информационное сообщение!\"\n\nmyLogger.myWarn(\"Warn Message!\");\n// [WARN] \"Предупреждение!\"\n\nmyLogger.myError(\"Error Message!\");\n// [ERROR] \"Сообщение об ошибке!\"\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

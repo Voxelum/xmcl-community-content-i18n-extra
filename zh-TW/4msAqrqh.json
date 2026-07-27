@@ -1,0 +1,6 @@
+{
+  "bodyHash": "459d685988b732ca",
+  "content": "這個模組旨在使戰利品系統對伺服器更加友好，讓新玩家不會因為探索其他玩家的領地而受到懲罰。\n\n目前，該模組為遊戲添加了幻象怪（Mimic），它們可以掉落該維度中可用的箱子戰利品表物品。\n\n這種生物可以在任何生物群落和任何維度中生成。<br>\n幻象怪可掉落的戰利品表可以通過 CraftTweaker 進行更改。\n```\n//向某個維度添加戰利品表\n\nmods.cft.DimensionalTables.addTable(int dimension, String lootTable);\n\n \n\n//從某個維度移除戰利品表\n\nmods.cft.DimensionalTables.removeTable(int dimension, String lootTable);\n\n\n\n//獲取指定維度的戰利品表列表 [如果該維度未指定任何戰利品表，則返回空列表]\n\nmods.cft.DimensionalTables.getTables(int dimension);\n``` \n\n未來，此模組還將提供一種方法來讓無法重置的 Boss 重新出現。（例如：遠古守衛）\n<br>\n<p><img src=\"https://i.imgur.com/0KFppoR.png\" alt=\"Akliz Partner\" width=\"320\" height=\"152\"></p>\n<p><a href=\"https://www.akliz.net/mrbysco\" rel=\"nofollow\">需要伺服器嗎？使用優惠碼 \"mrbysco\" 首月享受八折優惠</a></p>\n \n<b>如有疑問，歡迎加入我的 Discord。</b>\n\n## 想要支持我們？ ##\n<p><a href=\"https://www.patreon.com/Mrbysco\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -Mrbysco</p>\n<p><a href=\"https://www.patreon.com/ShyNieke\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -ShyNieke</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

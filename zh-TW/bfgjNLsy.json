@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9d6c387930918b4c",
+  "content": "\n\nAutoTune FPS 是我們實現目標的重要一環，旨在打造玩家真正需要的 Minecraft 優化設定：對一般玩家足夠直覺好用，對進階玩家足夠實用，且比堆疊一堆雜亂的獨立效能模組更加簡潔。\nAutoTune FPS 是 AutoTune Mods 生態系中的主要效能模組。\n它專注於實用的 Minecraft 效能功能，包含智慧預設值、最佳化引擎、粒子減少、效能驗證計數器、清晰的標籤/工具提示，以及實用的 FPS 導向控制選項。\nAutoTune Core 是共用的基礎架構，提供設定檔、預設值、中繼資料、推薦邏輯、效能驗證計數器、標籤、工具提示、相容性輔助工具，並為未來的 AutoTune 模組奠定基礎。\nAutoTune FPS 包含實際的 Minecraft 效能運作邏輯、載入器/版本 Hook、最佳化模組、選單畫面、指令與 FPS 導向控制選項。\n社群：https://reddit.com/r/AutoTuneMC\n歡迎在社群中尋求支援、回報問題、提出功能構想、分享相容性報告、交流效能數據，並討論更新內容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

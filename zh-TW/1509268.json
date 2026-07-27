@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0918ab4045b85161",
+  "content": "<p>一個流暢快速的自由視角模組，讓探索與導航變得輕而易舉。</p>\n<h3>✨ 功能</h3>\n<ul>\n<li>🎮 <strong>即時自由視角</strong> &rarr; 輸入 <code>.freecam</code> 切換</li>\n<li>🕹️ <strong>順滑移動</strong> &rarr; 流暢的攝影機移動</li>\n<li>🎯 <strong>點擊前往系統</strong> &rarr; 點擊任何位置設定目標</li>\n<li>🤖 <strong>Baritone 支援</strong> &rarr; 自動發送 <code>#goto x y z</code></li>\n<li>👁️ <strong>乾淨畫面</strong> &rarr; 隱藏手部以獲得電影般質感</li>\n</ul>\n<h3>🎮 控制方式</h3>\n<ul>\n<li><code>W A S D</code> &rarr; 移動</li>\n<li><code>SPACE</code> &rarr; 向上</li>\n<li><code>SHIFT</code> &rarr; 向下</li>\n<li><code>CTRL</code> &r加速</li>\n<li><code>LEFT CLICK</code> &rarr; 選擇目標 + 退出自由視角</li>\n</ul>\n<h3>⚡ 使用場景</h3>\n<ul>\n<li>基地偵察</li>\n<li>建築規劃</li>\n<li>快速坐標定位</li>\n<li> cinematic 鏡頭拍攝</li>\n</ul>\n<h3>🔧 相容性</h3>\n<ul>\n<li>Minecraft <strong>1.20.1 (Forge)</strong></li>\n<li>完全相容於 <strong>Baritone</strong></li>\n</ul>\n<hr>\n<p>⚠️ <strong>注意：</strong><br>在某些情況下（特別是在移動和旋轉同時進行的時候），攝影機可能會感覺稍微延遲。<br>這是一個已知問題，將在未來更新中改進。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

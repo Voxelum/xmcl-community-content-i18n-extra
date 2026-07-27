@@ -1,0 +1,6 @@
+{
+  "bodyHash": "88971538c6d6c091",
+  "content": "\n\n# TABSimpleEconomyBridge\n\nСерверный мод NeoForge для Minecraft 1.21.1, который связывает SimpleEconomy и TAB с помощью настраиваемого плейсхолдера.\n\n## Совместимость\n\n- Minecraft: 1.21.1\n- NeoForge: 21.1.211\n- TAB: 5.2.1 для Minecraft 1.20.5 – 1.21.1\n- SimpleEconomy: 1.0.0\n\n## Что он делает\n\nTABSimpleEconomyBridge — это серверный мод-переходник, который регистрирует плейсхолдер TAB, считывает баланс игрока из SimpleEconomy и отображает его в TAB.\n\n## Возможности\n\n- Серверная интеграция между TAB и SimpleEconomy\n- Настраиваемый плейсхолдер TAB\n- Поддержка отображения баланса с округлением или с десятичными знаками\n- Резервное значение, если баланс невозможно прочитать\n- Опциональное логирование отладочной информации\n\n## Конфигурация\n\nОбщий конфигурационный файл содержит следующие параметры:\n\n- `enableBridge`\n- `placeholder`\n- `showDecimals`\n- `fallbackValue`\n- `debugLogging`",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

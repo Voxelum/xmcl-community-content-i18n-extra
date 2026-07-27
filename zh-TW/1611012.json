@@ -1,0 +1,6 @@
+{
+  "bodyHash": "61a880d8361c30eb",
+  "content": "<p><strong>功能說明</strong></p>\n<p>Immersive Aircraft 模組會在你登乘其載具時強制切換至第三人稱視角。這對飛機和陀螺機來說沒問題，但在飛艇類載具（飛艇、貨運飛艇、戰艦）上，它會與依賴第一人稱視角的模組產生衝突 &mdash; 你會失去準星，且如 TACZ 之類的槍械模組無法正常進行 ADS/縮放，因為原版 Minecraft 僅在第一人稱視角下渲染這些功能。</p>\n<p>此附加模組修補了該行為。當騎乘飛艇、貨運飛艇或戰艦時，你的視角將保持設定狀態 &mdash; 不再強制切換為第三人稱。其他所有 Immersive Aircraft 載具（雙翼機、陀螺機、四軸飛行器）則維持原有行為不變。</p>\n<p><strong>需求</strong></p>\n<ul>\n<li>Minecraft 1.20.1, Forge</li>\n<li>Immersive Aircraft（必要安裝，本模組為其客戶端附加模組）</li>\n</ul>\n<p><strong>注意事項</strong></p>\n<ul>\n<li>僅限客戶端 &mdash; 伺服器無需安裝。</li>\n<li>不會修改 Immersive Aircraft、TACZ 或其他任何模組的檔案。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "90947c88d7b91201",
+  "content": "# 一般資訊\n\n**DungeonCore** - 這是一個相當大型的 **RPG 模組整合包**，收錄了規模最大的 RPG 模組。\n此模組整合包需要一個包含在構建版本中的資料包（datapack），因為它是一個擁有眾多參數的大型整合包。建議您仔細檢視設定並完成初始設定（部分設定已預先調整）。\n\n\n## ⚠️ 強烈推薦的外部模組\n\n以下模組強烈建議安裝，但由於授權限制，無法收錄於 Modrinth 上的此模組整合包中：\n\n**PassiveSkillTree-1.20.1-BETA-0.6.14a-all**\n\n**born_in_chaos_[Forge]1.20.1_1.7.2**\n\n**luckys_armory-0.4.0.2-forge-1.20.1**\n\n**vs_sup_fix-1.20.1-forge-1.3**\n\n\n👉 請從它們的官方頁面（例如 CurseForge）下載。\n\n![Title](https://cdn.modrinth.com/data/cached_images/37ee9b2741841a2a41731909569d7521e0c2fd39_0.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

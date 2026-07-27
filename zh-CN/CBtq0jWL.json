@@ -1,0 +1,6 @@
+{
+  "bodyHash": "65fcfb73ef365154",
+  "content": "\n\n[![指向“LopyMine 的项目”Discord 服务器的链接](https://cdn.modrinth.com/data/cached_images/21f178aff2b64844fefeaf94a3a3a418440fd43f.png)](https://discord.gg/NZzxdkrV4s) [![GitHub 链接横幅](https://cdn.modrinth.com/data/cached_images/d87060a9e4522786e45b4b54d10853a1b4a91b10.png)](https://github.com/LopyMine/CollisionFix) [![支持链接横幅 [Boosty]](https://cdn.modrinth.com/data/cached_images/dce91fef079649dee277c52a998fc068e745e99e.png)](https://boosty.to/lopymine/donate)\n\n[![CurseForge 链接横幅](https://cdn.modrinth.com/data/cached_images/c39affcb732c8b1a4fe189e79898c686da3d63e2.png)](https://www.curseforge.com/minecraft/mc-mods/collision-fix) [![Modrinth 链接横幅](https://cdn.modrinth.com/data/cached_images/9991553f6a20e5105b9b153b8d817bc3630c18a8.png)](https://modrinth.com/mod/collision-fix)\n\n### 描述\n---\n\nCollision Fix 会修复客户端的碰撞检测机制，防止你被其他实体推挤。如果生物靠得太近，它们将无法推动你。**但你仍然会受到普通攻击等的推挤。**\n\n![展示](https://cdn.modrinth.com/data/CBtq0jWL/images/997ec7add18e009f0ff8af43a546810ce0da1301.gif)\n\n### 可配置项\n---\n\n从该模组的新版本开始，你可以选择允许哪些实体推挤你。你还可以设置仅在特定服务器上启用此功能。\n\n![展示](https://cdn.modrinth.com/data/cached_images/edb74057a816c764191ff0bbc0c6f5b2fc6be94f.png)\n\n---\n\n### 灵感来源：\n[ CorgiTaco ] Entity Collision FPS Fix - [Modrinth](https://modrinth.com/mod/entity-collision-fps-fix)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

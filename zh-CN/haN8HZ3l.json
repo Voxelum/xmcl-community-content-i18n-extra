@@ -1,0 +1,6 @@
+{
+  "bodyHash": "84fc1644fd04ce43",
+  "content": "\n\n## 描述\n\n疯狂粒子受 Extinguish 在 Teacon 2022 中的表现启发，是一款主要面向多人游戏与数据包的模组。该模组并未新增粒子与贴图，而是通过复用原版粒子贴图，为您提供近乎无限的粒子效果以营造各种场景。\n\n## 使用指南\n\n`/madparticle` 和 `/mp` 指令是本模组最重要的组成部分。您可以在 [Holo Janeway](https://holojaneway.uss-shenzhou.cn/madparticle) 查看使用指南。\n\n`/madparticle` 与 `/mp` 命令是本模组的核心功能。详细使用说明请参见 [Holo Janeway](https://holojaneway.uss-shenzhou.cn/en/madparticle)。\n\n## 版本选择\n\n**小版本号**表示 Bug 修复或非关键功能的添加。**中版本号**表示重大功能的更新，且不保证与现有指令兼容。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

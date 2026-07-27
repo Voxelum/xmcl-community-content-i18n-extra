@@ -1,0 +1,6 @@
+{
+  "bodyHash": "54b96203ffbe9f0f",
+  "content": "\n\n[26.1 版本移植資訊](https://wiki.chaotictrials.de/porting/version/26.1/)\n**[![#StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)**\n儘管功能單純，此模組仍新增了透過右鍵點擊任何成熟作物即可採收的功能。採收後它會自動補種新作物。此模組僅需安裝於伺服器端即可，單人遊戲時則需安裝於客戶端。\n\n市面上有不少模組都實作了這項功能，但這通常只是它們眾多額外功能中的一環。若你不願安裝內容龐大的模組，或希望伺服器能兼容原版客戶端連線，此模組提供了一個純粹的獨立方案。\n你可自由將此模組加入任何你喜愛的整合包中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

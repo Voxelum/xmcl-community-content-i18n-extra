@@ -1,6 +1,6 @@
 {
-  "bodyHash": "sSWKIEudwaM=",
-  "content": "<h1>Аудио смерти</h1>\n<p>Мод для Minecraft, который воспроизводит аудиофайл при наступлении смерти.</p>\n<p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"http://www.youtube.com/embed/WypTkufBNr4?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p>\n<h2>Инструкции</h2>\n<p>Поместите аудиофайл (желательно в формате ogg) под названием \"deathsound.ogg\" в папку:</p>\n<pre><code>&lt;папка_с_игрой&gt;/mods-resourcepacks/audiodeath/sounds/\n</code></pre>\n<p>Затем:</p>\n<ul>\n<li>Запустите игру</li>\n</ul>\n<p>Если игра уже запущена:</p>\n<ul>\n<li>Перейдите в раздел ресурс-паков и сразу выйдите обратно (это перезагрузит текстуры)</li>\n</ul>\n<p>Приятной игры.</p>",
+  "bodyHash": "99cdfa4acfeadeb0",
+  "content": "<h1>Звук смерти</h1>\n<p>Мод для Minecraft, воспроизводящий аудиофайл при смерти.</p>\n<p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"http://www.youtube.com/embed/WypTkufBNr4?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p>\n<h2>Инструкция</h2>\n<p>Поместите аудиофайл (предпочтительно в формате ogg) с именем \"deathsound.ogg\" в:</p>\n<pre><code>&lt;директория minecraft&gt;/mods-resourcepacks/audiodeath/sounds/\n</code></pre>\n<p>Затем</p>\n<ul>\n<li>Запустите игру</li>\n</ul>\n<p>Если игра уже запущена:</p>\n<ul>\n<li>Перейдите в меню ресурсов и затем снова выйдите из него (это перезагрузит текстуры)</li>\n</ul>\n<p>Приятной игры.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

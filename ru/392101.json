@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d31a2f9723b9aed3",
+  "content": "<p>Мод для улучшения звука на стороне клиента, совместимый с Fabric.</p>\n<p>&nbsp;</p>\n<p>Добавляет несколько звуковых фильтров в зависимости от вашего текущего местоположения:</p>\n<ul>\n<li>Эхо в пещерах и Нижнем мире</li>\n<li>Приглушенные звуки при погружении в воду или лаву</li>\n<li>Звуки становятся тише, когда вы за стеной (особенно из шерсти или губки)</li>\n</ul>\n<p>&nbsp;</p>\n<p>Для работы этого мода требуется <a href=\"/linkout?remoteUrl=https%253a%252f%252ffabricmc.net%252fuse%252f\" rel=\"nofollow\">Fabric Loader</a> и <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\" rel=\"nofollow\">Fabric API</a>.</p>\n<p>Также рекомендуется установить <a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\" rel=\"nofollow\">Mod Menu</a> для доступа к настройкам внутри игры.</p>\n<p>(Пользователи Forge могут использовать <a href=\"https://www.curseforge.com/minecraft/mc-mods/sound-filters\" rel=\"nofollow\">Sound Filters</a>, на основе которого был создан этот мод)</p>\n<p>&nbsp;</p>\n<p>Короткое демонстрационное видео:</p>\n<p><span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/mV0j4EIdLE8?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

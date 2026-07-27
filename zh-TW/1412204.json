@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f74858d9979b0189",
+  "content": "\n\n<p>TDSMP Translate 使用 Azure 翻譯器 API，能夠即時翻譯書本、告示牌、聊天訊息，甚至是讀書台上的書籍文字！</p>\n<p>主要的 4 個指令如下；</p>\n<ul>\n<li>/translator from auto-detect</li>\n<li>/translator to ??</li>\n<li>/translator toggleChat</li>\n<li>/translator toggleItem</li>\n</ul>\n<p>第一個指令用於設定翻譯的來源語言。<br>（若不清楚要輸入什麼代碼，可使用 <a href=\"/linkout?remoteUrl=https%253a%252f%252fen.wikipedia.org%252fwiki%252fList_of_ISO_639_language_codes\" target=\"_blank\" rel=\"nofollow\">https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes</a> 進行查詢 (Set 1)。）</p>\n<p>第二個指令用於設定翻譯的目標語言。<br>（若不清楚要輸入什麼代碼，可使用 <a href=\"/linkout?remoteUrl=https%253a%252f%252fen.wikipedia.org%252fwiki%252fList_of_ISO_639_language_codes\" target=\"_blank\" rel=\"nofollow\">https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes</a> 進行查詢 (Set 1)。）</p>\n<p>第三個指令用於切換聊天翻譯的開啟/關閉狀態。</p>\n<p>第四個指令用於切換物品翻譯的開啟/關閉狀態。</p>\n<p>&nbsp;</p>\n<p>若要在伺服器上使用此翻譯工具，你需要設定 Azure 翻譯器 API，並在設定檔中修改/新增所需的相關項目。</p>\n<p>&nbsp;</p>\n<p>本作為 PlumelS 所開發的 TranslateOverlay 之修改版本。</p>\n<p>原始模組連結 ---&gt; <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252ftranslateoverlay\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/translateoverlay</a></p>\n<div>\n<div>允許在整合包中使用此模組，但必須在此處標註出處。</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

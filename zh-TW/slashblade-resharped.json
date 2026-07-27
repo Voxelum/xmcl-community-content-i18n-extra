@@ -1,6 +1,6 @@
 {
-  "bodyHash": "TdORjJrVHS8=",
-  "content": "![圖片](https://s2.loli.net/2024/05/21/w2l63c48nbOMyYi.png)  \n我就是那逐漸逼近的風暴！！  \n再次歡迎來到SlashBlade的世界。  \n\n本模組仍屬《鬼泣》、《夢幻之星Online 2》及《惡魔之刃》的同人創作，旨在遊戲中重現鬼泣風格的武士刀戰鬥。  \n\n與原版SlashBlade的主要差異如下：  \n\n* 修復了已知的大部分問題  \n> 由於本模組持續維護中，若發現任何異常，請立即回報給我們，我們將盡速修正。  \n\n* 重新加入了舊版SlashBlade曾存在但後續被移除的功能  \n* 更完善的模組整合：  \n> * 正確顯示JEI合成配方  \n> * 採用數據驅動的自定義刀劍系統，使SlashBlade Resharpened在模組包中表現更出色  \n\n再次握緊你的刀，盡情享受連擊的快感吧！  \n\n可選支援庫：  \n* playerAnimator  需1.20.1 v0.0.8或更高版本  \n\n原始專案：  \n[Ferne開發的SlashBlade](https://www.curseforge.com/minecraft/mc-mods/slashblade)  \n本分支版本已獲得原作者授權  \n\n授權條款：MIT許可證",
+  "bodyHash": "85460702771a0a94",
+  "content": "![picture](https://s2.loli.net/2024/05/21/w2l63c48nbOMyYi.png)  \n我就是即将降临的风暴！！  \n欢迎再次回到 SlashBlade。  \n\n这仍然是一款基于《鬼泣》（DMC）和《梦幻之星Online 2》（PSO2）的《魔剑》（Demon Blade）同人作品，旨在为游戏添加类似 DMC 风格的太刀。  \n\n本模组与原版的 SlashBlade 主要区别如下：  \n\n* 我们修复了大部分已知的问题。  \n> 由于原版维护不够活跃，如果您发现任何问题，请向我们报告，我们会尽快修复。  \n\n* 我们恢复了一些在旧版 SlashBlade 中存在但后来被移除的功能。  \n* 更好的模组集成支持：  \n> * 正确的 JEI 配方显示。  \n> * 数据驱动的自定义 Slashblade，使 SlashBlade Resharpened 在整合包中表现更佳。  \n\n\n再次拿起你的刀锋，享受连击攻击吧！\n\n可选依赖库：   \n* playerAnimator  添加对 v0.0.8 或更高版本 1.20.1 的支持    \n\n原始项目：  \n[由 Ferne 制作的 SlashBlade](https://www.curseforge.com/minecraft/mc-mods/slashblade)  \n此分支已获得原作者的许可。  \n  \n许可证：MIT License",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1822a427adad5b41",
+  "content": "\n\n# FrozenLib\n\n一个为模组开发者提供多种实用工具的库。未来可能会持续扩充功能。\n\n使用本库，您可以：\n\n- 配置高级选项文件\n- 为任意方块添加自定义的 `scheduledTick` 方法\n- 使滴水石能够对任意方块触发 `scheduledTick`\n- 轻松实现滴水石从任意方块干燥并滴水的效果\n- 缩短物品的冷却时间\n- 使用移动循环音效与自定义飞掠音效，并通过自定义接口精确控制其停止播放的时机\n- 禁用指定方块实体上的漏斗功能\n- 调用高级数学运算与噪声采样功能\n- 配置数据修复器，将旧版数据自动转换为新版格式\n- 覆盖自定义实体纹理\n- 添加屏幕震动特效\n- 调整重力参数\n- 注册新的生物类别（mobCategories）\n- 使用并扩展内置的风力系统\n- 在游戏运行时动态修改进度（Advancements）\n- 为信标添加药水效果（MobEffects）\n- 以及更多强大功能！\n\n\n\n本库包含 Quilt 项目 DataFixerUpper API 的 Fabric 移植实现。\n\n[![使用优惠码 FROZENBLOCK 在 Kinetic Hosting 订购首月可享 85 折！](https://i.imgur.com/9ZfqfCq.png)](https://tinyurl.com/3xhmk7fb)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

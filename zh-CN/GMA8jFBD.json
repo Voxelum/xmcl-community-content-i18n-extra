@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d684ea234004bb71",
+  "content": "<center><b>现已支持 NeoForge</b></center>\n\n![pretty image](https://cdn-raw.modrinth.com/data/GMA8jFBD/images/3fdc4c5f7a4a3989a0de958597ed14ea80f50d23.png)\n\n这是一款功能简单的 **Fabric** 和 **NeoForge** 模组，用于高亮显示阻止你睡觉的怪物。为了避免被滥用，该模组仅在你收到“现在无法入睡；附近有怪物”的提示时才会高亮显示怪物，并且高亮效果持续3秒。\n\n<br>\n\n如果在**客户端**安装，它将在**单人游戏**和**任何服务器**中生效。如果在服务器端安装，那么所有人都可以看到高亮效果，即使他们没有安装此模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

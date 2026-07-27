@@ -1,0 +1,6 @@
+{
+  "bodyHash": "02fdaa328a7fb462",
+  "content": "<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<h2>No Colonies Long Commute</h2>\n<p>厌倦了 MineColonies 公民抱怨他们下班后回家要走很远的路吗？这个轻量级的兼容模组仅移除该通知——仅此而已。</p>\n<hr>\n<h3>功能说明</h3>\n<p>当 MineColonies 工人的家距离工作地点太远，且无法在天黑前赶回家时，他们会提出投诉：</p>\n<blockquote>\n<p><em>\"我每天下班回家都要走很远的路。如果我能住得离工作地近一点就好了。\"</em></p>\n</blockquote>\n<p><span>No Colonies Long Commute</span>&nbsp;通过针对性的 Mixin 补丁抑制该投诉。公民仍然会正常睡觉、工作和寻路——他们只是不再抱怨通勤距离。</p>\n<hr>\n<h3>不影响的内容</h3>\n<ul>\n<li>幸福度系统（饥饿、住房、安全、失业等）</li>\n<li>寻路或旅行行为</li>\n<li>公民 AI、职业或工作routine</li>\n<li>殖民地机制、袭击或守卫</li>\n<li>任何其他公民聊天或通知</li>\n</ul>\n<hr>\n<h3>工作原理</h3>\n<p>这是一个<span>独立补丁模组</span>。它不会修改、分叉或重新编译 MineColonies。在运行时，它会拦截 <code>CitizenSleepHandler.shouldGoSleep()</code> 内部的单个通知触发器——即负责此特定投诉的方法。</p>\n<hr>\n<h3>需求</h3>\n<ul>\n<li><span>Minecraft：</span>1.20.1</li>\n<li><span>Mod 加载器：</span>Forge (47.x)</li>\n<li><span>所需模组：</span><a href=\"https://www.curseforge.com/minecraft/mc-mods/minecolonies\" target=\"_blank\" rel=\"nofollow\">MineColonies</a></li>\n</ul>\n<p>将 JAR 文件放入与 MineColonies 一起的 <code>mods</code> 文件夹中进行安装。</p>\n<hr>\n<h3>兼容性</h3>\n<p>专为大型模组包设计。不添加新方块、物品或世界生成——占用空间极小，无需配置。</p>\n<hr>\n<h3>支持</h3>\n<p>如果遇到任何问题，请提供您的 Minecraft 版本、Forge 版本、MineColonies 版本以及最新的崩溃日志。</p>\n<hr></div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6b47f5ee3b2256c9",
+  "content": "<p>PixelBlockRanch 是一個為 Pixelmon 設計的 NeoForge 1.21.1 側載模組，旨在恢復 Pixelmon 1.12.2 中的傳統培育行為，同時不會取代目前 Pixelmon 版本中的現代育幼室和牧場結構。</p>\n<p>此模組必須同時安裝在客戶端和伺服器上。</p>\n<p>PixelBlockRanch 著重於還原舊版牧場培育系統的實際功能，特別是蛋的生成、配對兼容性、培育時間、蛋的物種計算以及遺傳規則。其目標是讓培育的實際體驗盡可能貼近 Pixelmon 1.12.2 的水準。</p>\n<p>同時，在不影響本專案旨在恢復之傳統行為的前提下，部分現代的 Pixelmon 1.21.1 基礎設施被刻意保留下來。</p>\n<p>指令：</p>\n<p>/give &lt;玩家&gt; pixelblockranch:ranch</p>\n<p>已還原的傳統行為：</p>\n<p>- 以自訂的傳統風格實作取代現代的培育邏輯<br>- 移除現代育幼室的必要條件，使流程更接近舊版牧場系統<br>- 使用經典的配對兼容性重新計算培育時間<br>- 還原傳統風格的蛋物種邏輯<br>- 還原傳統風格的技能遺傳邏輯<br>- 還原傳統風格的成長遺傳邏輯<br>- 支援經典的特殊情況，如妙蛙種子、尼多蘭、電螢蟲、甜甜螢、香囊生成的寶寶寶可夢以及伏特攻擊<br>- 使地區形態遵循母方形態的模式<br><br><a href=\"/linkout?remoteUrl=https%253a%252f%252fpokesouls.gitbook.io%252fpixelblockranch\" target=\"_blank\" rel=\"nofollow\">維基</a></p>\n<p>免責聲明：</p>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<pre><code>本模組經 Pixelmon 團隊許可使用了某些模型/資源。這些資源不受 MIT 許可證授權，且僅限於本模組內部使用，不得分發給模組以外的第三方。</code></pre>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div>&nbsp;</div>\n</div>\n</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

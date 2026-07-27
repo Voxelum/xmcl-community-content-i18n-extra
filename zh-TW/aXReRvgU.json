@@ -1,6 +1,6 @@
 {
-  "bodyHash": "1f2f3d9f8fe7a013",
-  "content": "\n\n## 簡介\n\n安裝此模組後，您現在就能像其他玩家一樣遊玩遊戲了。說真的，就是這麼簡單。\n\n## 功能\n- 修復 <1.20.2 版本中 `Shift` + `滾輪` 無效的問題 ([MC-121772](https://bugs.mojang.com/browse/MC-121772))，並修正 >=1.20.2 版本中滾動方向反轉的問題\n- 停用 `Ctrl` + `左鍵點擊` 模擬 `右鍵點擊` 的功能\n\n## 支援平台\n\n同時支援 arm64（M1）與 amd64（x64、Intel）架構。\n\n## 問題與回報\n請前往 GitHub 問題回報頁面：https://github.com/MinecraftMachina/McMouser/issues",
+  "bodyHash": "8cbb9b96a134a019",
+  "content": "\n\n## 簡介\n\n安裝此模組後，你就可以像其他人一樣正常遊玩遊戲了。說真的，就是這麼簡單。\n\n## 功能\n- 修復在 <1.20.2 中 `Shift` + `Scroll` 無法運作的問題（[MC-121772](https://bugs.mojang.com/browse/MC-121772)），以及 >=1.20.2 中滾動方向反轉的問題\n- 修復在 <1.13 中滑鼠側鍵的問題\n- 停用 `Ctrl` + `左鍵點擊` = `右鍵點擊` 的模擬功能\n\n## 支援\n\n同時支援 arm64（M1）與 amd64（x64、Intel）。\n\n## 疑問或問題\n請至 GitHub 議題頁面：https://github.com/MinecraftMachina/McMouser/issues",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

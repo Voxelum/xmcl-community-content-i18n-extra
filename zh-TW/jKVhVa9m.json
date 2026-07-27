@@ -1,6 +1,6 @@
 {
-  "bodyHash": "1322d17faa96bb14",
-  "content": "\n\n### 一個單純將你的飽食度條替換為刺莓果的資源包\n\n**同時支援 [AppleSkin](https://modrinth.com/mod/appleskin) 與 Feather（客戶端）**\n\n**請前往版本標籤頁選擇以下版本**\n> 正式版 - 黃金刺莓果飽食度\n\n> Alpha 版 - 紅色輪廓飽食度\n\n1.8.9 使用者請將此資源包疊加在另一個包含自訂條狀 UI（如血條、經驗條或任何你能想到的條）的資源包之上，因為它們共用同一張貼圖。\n\n此資源包適用於 1.20.2（不管還有誰在用這個版本）及以上版本。",
+  "bodyHash": "16bb26b5e2ad7f70",
+  "content": "### 一個將您的飢餓條簡單地改變成覆盆子的資源包\n\n**同樣支援 [AppleSkin](https://modrinth.com/mod/appleskin) 和 Feather（客戶端）**\n\n此版本的資源包，支援 Farmer's Delight 和 AppleSkin，可以在這裡找到 [here](https://modrinth.com/resourcepack/razz-berry-hb-fd)\n\n### 版本資訊\n**(針對 AppleSkin)**\n> **版本** - 金覆盆子飽和度\n>\n> ![image](https://cdn.modrinth.com/data/cached_images/77bf6ebb229f90792ab5db0d068433df1c16fe63.png)\n\n> **測試版** - 紅輪廓飽和度\n>\n> ![image](https://cdn.modrinth.com/data/cached_images/28070dd42cfaaef0e3d28a04a1b2d0e78ddefcf2.png)\n\n對於 1.8.9 用戶請在資源包上疊加另一個也具有自訂條的資源包，例如心值、經驗條或其他任何你能想到的條，因為它們使用相同的精靈圖。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

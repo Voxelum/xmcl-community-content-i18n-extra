@@ -1,6 +1,6 @@
 {
-  "bodyHash": "jOATs7J8OmQ=",
-  "content": "赫米特工伺服器整合包包含了赫米特成員所使用的所有模組、資料包及設定檔。如果你想重現赫米特工伺服器的遊戲體驗，這個整合包就是為你準備的。從可自訂的盔甲架到反終界使者破壞功能，這個整合包應有盡有。部分功能（如自動更新資源包）需要額外的伺服器配置與設定，此部分我們不提供支援。\n\n## 安裝說明\n\n**在伺服器上安裝**\n\n建議使用 [mrpack-install](https://github.com/nothub/mrpack-install) 來建立此模組包的伺服器。",
+  "bodyHash": "dfde2c99f23f0cc5",
+  "content": "Hermitcraft 伺服器套件包含 Hermits 使用的所有模組、資料包和設定檔。如果您希望重現 Hermitcraft 的體驗，這個套件正是為您準備的。從可自訂的盔甲架到防止末影人破壞的功能，此套件應有盡有。部分功能（如自動資源包更新）需要額外的伺服器配置與設定，我們不提供相關支援。\n\n## 安裝說明\n\n**伺服器安裝**\n\n建議使用 [mrpack-install](https://github.com/nothub/mrpack-install) 來建立採用此模組套件的伺服器。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

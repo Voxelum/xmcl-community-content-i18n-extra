@@ -1,0 +1,6 @@
+{
+  "bodyHash": "630ffa7e285639ab",
+  "content": "### 描述\n此数据包添加了名为“火球”的投掷火焰弹，灵感来源于 Hypixel Bedwars。制作方法是：在工作台的中央格子放入一把弓，周围四个格子放上4个火焰弹，对角线两个格子分别放入2个火药和2个恶魂之泪（请参阅画廊中的图片）。\n\n### 安装指南\n\n- 前往你的存档文件夹，在 Windows 系统上位于以下路径：\n```\nC:\\Users(你的用户名)\\AppData\\Roaming\\.minecraft\\saves\n```\n将压缩文件放入 data packs 文件夹中，然后重启世界或执行 `/reload` 命令。\n\n- 如果需要，你可以安装可选的资源包。操作方法：进入 Minecraft 主菜单，点击选项，点击资源包，打开包文件夹，然后将资源包文件放入其中。返回 Minecraft，将该资源包移到右侧已选中列表中。\n\n### 其他注意事项\n- 在使用 1.21 之前的版本时，请使用 4 个火焰弹围绕发射器的方式合成，而不是使用弓的合成配方。\n- 安装资源包是可选的。如果不安装，你的火球看起来会像雪球，但功能依然正常。\n- 火球纹理和图标由 wallibear 提供。链接：https://wallibear.download/TP\n- 如需反馈、报告错误或寻求其他帮助，请加入本页面链接部分提供的 [Discord 服务器](https://discord.gg/kk3j3ct6xk)！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

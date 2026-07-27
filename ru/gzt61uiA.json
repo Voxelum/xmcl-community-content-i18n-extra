@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5e852c222f5fc1d6",
+  "content": "# Polydex2REI\n\n**弥合 Polymer 与 REI 之间的差距 —— 让你的配方可见**\n\n## 📦 Polydex2REI 是什么？\n\n**Polydex2REI** 是一个 **兼容插件**，它将 [Polymer](https://modrinth.com/mod/polymer) 和 [REI（Roughly Enough Items）](https://modrinth.com/mod/rei) 连接起来，为 [Polydex](https://modrinth.com/mod/polydex) 定义的 **虚拟物品** 和 **自定义配方** 提供完整支持。\n\n默认情况下，REI 无法识别 Polymer 的 **服务端虚拟物品**，导致配方查看器和物品查找中出现条目缺失。Polydex2REI 解决了这个问题。\n\n## 🔧 功能特性\n\n- 📘 **支持通过 Polydex API 注册的自定义配方**\n- 🔄 **同步物品查找操作** —— 点击或按键可正确打开配方页面\n- 💡 同时支持 **服务端和客户端虚拟物品**\n- 🌐 **必须在两端安装** 才能正常工作\n\n## ❓ 为什么使用它？\n\n如果你是一位使用 Polymer 注册虚拟物品（例如配方占位符、指南物品、UI 按钮）的整合包作者或开发者，你可能遇到过这样的问题：**REI 找不到这些物品。** 该插件干净利落地解决了这一问题 —— **无需额外设置，即插即用**。\n\n## 🧩 依赖要求\n\n- [Polymer](https://modrinth.com/mod/polymer)\n- [REI](https://modrinth.com/mod/rei)\n- [Polydex](https://modrinth.com/mod/polydex)\n- [Packet-Fixer](https://modrinth.com/mod/packet-fixer)\n- 必须安装在 **客户端和服务端**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

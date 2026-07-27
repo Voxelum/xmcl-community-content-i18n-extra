@@ -1,0 +1,6 @@
+{
+  "bodyHash": "328d7a8e84b2423f",
+  "content": "# 硫磺方块中的万物\n\n> [查看新增方块列表](https://github.com/lugosieben/anything-in-sulfur-cubes/blob/main/docs/blocks-added.md)\n\n允许你将几乎**任何**方块放入硫磺方块中，每个方块都拥有适配的属性，取代了原版中极其有限的选择！\n你甚至可以将你的潜影盒存入硫磺方块中，且物品不会丢失！\n\n### 新增了哪些方块：\n\n主要填充方块侧面的方块（台阶 ❌，堆肥桶 ✅）\n这包括了大约 150 个方块。完整的方块列表以及更准确、始终更新的数字可在[此处](https://github.com/lugosieben/anything-in-sulfur-cubes/blob/main/docs/blocks-added.md)查看。\n\n## 功能请求\n\n如果你希望某个方块被修改（或者如果我尚未添加，则希望添加），你可以[提交问题](https://github.com/lugosieben/anything-in-sulfur-cubes/issues)，我会尽快处理！\n\n## 透明度修复\n\n将透明方块放入硫磺方块是可行的，但这会导致外观异常。\n为了解决这个问题，你可以选择下载[硫磺方块透明度修复](https://modrinth.com/resourcepack/sulfur-cube-transparency-fix)资源包。\n\n## 特殊行为\n\n除了几乎所有方块在硫磺方块中拥有各自独特的属性外，本模组还引入了一些方块的额外自定义行为！\n\n### 仙人掌\n\n触碰仙人掌硫磺方块会造成伤害，就像触碰普通仙人掌一样。\n\n### 嘎吱之心\n\n嘎吱之心硫磺方块会播放诡异的声音，但实际并不会生成嘎吱傀儡。\n\n### 强力硫磺\n\n含有强力硫磺的硫磺方块会在接触时给予玩家反胃效果。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

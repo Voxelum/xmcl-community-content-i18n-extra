@@ -1,0 +1,6 @@
+{
+  "bodyHash": "08065364e5c462b5",
+  "content": "# 垂直視角擺動\n<a href=\"https://modrinth.com/mod/vertical-bobbing\"><img alt=\"Modrinth page for the mod\" height=\"64\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/available/modrinth_vector.svg\"></a>\n<a href=\"https://github.com/0x000006/vertical-bobbing\"><img alt=\"Github page for the mod\" height=\"64\" src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.2/assets/cozy/available/github_vector.svg\"></a>\n\n恢復了 Minecraft <=1.13.2 中的垂直視角擺動效果 ([MC-225335](https://bugs.mojang.com/browse/MC-225335))。\n\nMojang 在 1.14 預覽版 2 中無故移除了這一功能，因此我將其重新加入。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

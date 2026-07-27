@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27c852c8df240390",
+  "content": "Другие мобы (зомби, скелеты, чешуйницы и т.д.) теперь могут лазать по стенам, что делает их более опасными. Криперы не могут, потому что они и так достаточно страшные.\n\n### Конфигурация по умолчанию:\n```json\n  \"enabled\": true,\n  // Множитель урона от падения для мобов. 0.5 = половина, 1.0 = нормально, 0.0 = нет.\n  \"fallDamageMultiplier\": 1.0,\n\n\n  // Мобы, перечисленные здесь, могут лазать по стенам.\n  // Добавляйте модовых мобов, используя их идентификатор в реестре, например, \"mymod:custom_zombie\".\n  \"mobs\": [\n    \"minecraft:zombie\",\n    \"minecraft:zombie_villager\",\n    \"minecraft:husk\",\n    \"minecraft:drowned\",\n    \"minecraft:skeleton\",\n    \"minecraft:stray\",\n    \"minecraft:wither_skeleton\",\n    \"minecraft:vindicator\",\n    \"minecraft:pillager\",\n    \"minecraft:witch\",\n    \"minecraft:piglin\",\n    \"minecraft:piglin_brute\",\n    \"minecraft:zombified_piglin\",\n    \"minecraft:silverfish\",\n    \"minecraft:endermite\",\n  ]\n```\n\n\n\nЛицензия: MIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

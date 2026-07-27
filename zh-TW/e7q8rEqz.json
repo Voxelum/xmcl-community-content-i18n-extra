@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0cfdaab23d66e929",
+  "content": "# 切換燈籠\n\n一個 Fabric 模組，允許你開啟和關閉燈籠。  \nランタンを右クリックで消灯・点灯できるようにするFabric用Mod\n\n---\n\n## 概述\n此模組為 Minecraft 引入了一個簡單的生活品質功能：關閉燈籠的能力。\n\n### 功能\n- **互動式燈籠**：右擊原版燈籠將其關閉，再次右擊則重新點亮。\n- **兼容原版風格**：使用自定義的半透明玻璃紋理，與原版風格無縫融合。\n- **創意模式物品欄**：未點亮的燈籠可於「功能方塊」標籤頁中找到，位於原版燈籠旁邊。\n\n---\n\n## 日本語概要 (Japanese Overview)\n\nマイクラのランタンに、シンプルなオン・オフ機能を追加します。\n\n### 特徴\n- **右クリックで切り替え**: バニラのランタンを右クリックすると消灯し、もう一度右クリックすると点灯します。\n- **バニラに馴染むデザイン**: 半透明テクスチャを採用し、バニラの雰囲気を維持するように努めました。\n- **クリエイティブタブ**: 「機能的ブロック」タブの、通常のランタンのすぐ隣に配置されます。\n\n---\n\n## 環境與致謝\n- **平台**：Fabric Loader\n- **Minecraft 版本**：1.21.11\n- **許可證**：[MIT](https://github.com/kyonshi0104/Sanity-Level-MOD/blob/main/LICENSE)\n- **開發者**：kyonshi ([kyonshi.com](https://kyonshi.com))\n\n## 依賴項 (前提Mod)\n- [Fabric API](https://modrinth.com/mod/fabric-api) ：模組運行所必需。\n\n*注意：英文描述已使用翻譯工具進行翻譯/調整。對於任何不自然的表達，我們深表歉意。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

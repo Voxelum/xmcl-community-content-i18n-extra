@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fec91119a32290cd",
+  "content": "**Yori3o 的爆炸物**是一款為遊戲添加新採礦工具以及武器（可投擲的爆炸物）的模組。\n\n## 功能：\n\n- 簡單的變體：手榴彈、炸彈和炸藥。它們在爆炸半徑和引爆時間上有所不同；\n  \n- 手榴彈不會破壞方塊，僅造成傷害；\n\n- 每個變體都有粘性版本。它不會從表面反彈，而是會粘住；\n\n- 爆炸物有時可以在地下結構中找到；\n\n- 點燃導火索的聲音在爆炸前逐漸消失\n\n\n<details>\n<summary>🛠️ 配置</summary>\n\n您可以調整爆炸半徑、傷害、擊退、引爆時間、方塊破壞等。\n\n</details>\n\n\n<details>\n<summary>❔ 合成</summary>\n\n![炸彈的合成](https://cdn.modrinth.com/data/cached_images/ebc3363dab838c7b6944118328fc742285484d69.gif)\n\n![手榴彈的合成](https://cdn.modrinth.com/data/cached_images/16aba935dccf565cf62faa7c90fbb52b613ce57e.gif)\n\n![炸藥的合成](https://cdn.modrinth.com/data/cached_images/cc42a45468d4f57e960bfce61aa45df18f64897a.gif)\n\n![粘性版本的合成](https://cdn.modrinth.com/data/cached_images/c9f33ffeb993d5d7865400b8a68c509384ef4870.gif)\n\n</details>\n\n\n**如果您發現了錯誤或有任何建議，請在 [GitHub](https://github.com/yori3o/Yori3os-Explosives/issues) 上提交問題**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

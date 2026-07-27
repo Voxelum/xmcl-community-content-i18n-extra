@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f4e48dc2d87d74e2",
+  "content": "\n\nПростой мод, исправляющий проблемы LiteLoader. В настоящее время он решает следующее:\n\n- Вылеты при использовании модов, применяющих подмену реестра (как описано [здесь](https://www.curseforge.com/minecraft/mc-mods/extra-foam-for-liteloader)), как видно из следующих задач:\n- http://develop.liteloader.com/liteloader/LiteLoader/issues/47\n- http://develop.liteloader.com/liteloader/LiteLoader/issues/50\n- http://develop.liteloader.com/liteloader/LiteLoader/issues/51\n- https://github.com/KnightMiner/Inspirations/issues/30\n- https://github.com/mezz/JustEnoughItems/issues/1288\n- https://github.com/Shadows-of-Fire/FastWorkbench/issues/4\n- https://github.com/SleepyTrousers/EnderIO/issues/4754\n- https://github.com/rwtema/DietHopper/issues/6\n\nДля использования просто установите мод в рабочее пространство с установленным LiteLoader.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

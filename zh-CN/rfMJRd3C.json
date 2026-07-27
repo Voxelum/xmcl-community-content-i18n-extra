@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4fe556127e9e30a9",
+  "content": "查看以下链接以获取有关如何创建幸运方块插件的文档：\nhttps://docs.creoii.dev/lucky-block\n\n# 概述\nModern Lucky Block 模组允许使用仅数据包（Datapacks）的方式为 Minecraft 1.20.6+ 创建幸运方块插件。\n\n展示视频：<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/MZhXlgb1HZA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n关于如何安装插件的问题？请参阅 [此处](https://docs.creoii.dev/lucky-block/installing-addons)。\n\n> **注意：** 与原版 Lucky Block 模组不同，Modern Lucky Block 模组不附带默认的幸运方块插件。要下载基础插件，请前往 [此处](https://modrinth.com/datapack/modern-lucky-block-addon)。\n\n> **注意：** 本模组仍处于早期开发阶段。主要更改仍将继续进行，特别是 JSON 文件的结构。插件开发者请注意这一点。\n\n# 即将推出的功能\n- 错误修复\n- 更多的提供程序类型\n\n# 为什么？\n原版 Lucky Block 模组已超过一年未更新，且仅适用于 Minecraft 1.20.2 及更低版本。此外，它没有利用 Minecraft 提供的现代工具，即数据包系统。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

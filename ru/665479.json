@@ -1,6 +1,6 @@
 {
-  "bodyHash": "KRiNLdhdiUc=",
-  "content": "<h1>Этот мод больше не поддерживается!!</h1><h1>Набор инструментов Rubidium</h1><p>Некоторые функции, которых нет в Rubidium Extra. (Изменено на основе Magnesium Extras)</p><h2>Функции</h2><ul>\n<li>Зум</li>\n<li>Расстояние до объектов</li>\n<li>Динамические огни (функция динамических огней из Magnesium)</li>\n<li>Отображение FPS (удалено в mc1.16.5-v1.0.4)</li>\n<li>Истинная темнота (удалено в mc1.16.5-v1.0.4)</li>\n</ul><h3>Лицензия</h3><p>Код из <a href=\"https://github.com/TeamDeusVult/MagnesiumExtras\" rel=\"nofollow\">Magnesium/Rubidium Extras</a> — LGPL</p><p>Код из <a href=\"https://github.com/TeamDeusVult/DynamicLightsReforged\" rel=\"nofollow\">Magnesium/Rubidium Dynamic Lights</a> — MIT</p>",
+  "bodyHash": "dc1b83df5005e2f1",
+  "content": "<h1>Этот больше не поддерживается!!</h1>\n<h1>Рубидий toolkit</h1>\n<p>Некоторые функции, которые Rubidium Extra не имеет. (Изменено из Magnesium Extras)</p>\n<h2>Особенности</h2>\n<ul>\n<li>Увеличение</li>\n<li>EntityDistance</li>\n<li>Динамическое освещение (функция динамического освещения Magnesium)</li>\n<li>Показать FPS (удалить в mc1.16.5-v1.0.4)</li>\n<li>Истинная тьма (удалить в mc1.16.5-v1.0.4)</li>\n</ul>\n<h3>Лицензия</h3>\n<p>Код <a href=\"https://github.com/TeamDeusVult/MagnesiumExtras\" rel=\"nofollow\">Magnesium/Rubidium Extras</a> -&gt; LGPL</p>\n<p>Код <a href=\"https://github.com/TeamDeusVult/DynamicLightsReforged\" rel=\"nofollow\">Magnesium/Rubidium Dynamic Lights</a> -&gt; MIT</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0288cc46e4542508",
+  "content": "\n\n# 工作原理\n这个简单的数据包是 **Create: Deco 与多个其他模组（如 Create: Crafts Additions 或 Create: Dreams & Desires）之间的兼容附加组件**。并且它不会添加任何新配方或类似内容！相反，它只是将 Create: Deco 的标签更改为官方标签（例如，在 JEI 或 REI 中搜索 `$**createdeco:internal/plates/zinc**` 可查看 Create: Deco 注册的所有锌板），具体取决于你的模组加载器，会将其替换为 `**\"#forge:plates/zinc\"**` 或 `**\"#c:zinc_sheets\"**`。这带来了多项优势。\n<details>\n<summary>我为什么制作此数据包</summary>\n\n截至目前，Create Deco 一直使用自己的标签系统（`#createdeco:internal/...`）。这意味着只有 _Create Deco_ 标签内的物品才能用于相关配方。而且没有其他模组会专门为 Create Deco 创建标签！（这完全可以理解）\n\n例如，这在 Create Crafts & Additions 中引发过一个问题：Create Deco 和 Create Crafts Additions 都添加了锌板及对应的压制配方。当你把锌锭放入压力机时，系统必须判定它应该变成 Create Deco 的锌板还是 Create Crafts Additions 的锌板。由于判定逻辑固定，系统总是产出同一种。这导致来自部分模组的物品变得无法获取。\n\n通过此数据包，你可以同时使用**这两个**模组的锌板进行合成。\n\n</details>\n\n另外，我也修复了 GitHub Issue [#124](https://github.com/talrey/CreateDeco/issues/124)。\n\n### 欢迎随意将其用于任何整合包中，但一旦 Create Deco 发布内置这些功能的新版本，我将移除此数据包。请保持关注！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "92f3355cfde4ab08",
+  "content": "简单幸运方块：为《我的世界》添加一个简单的幸运方块！\n\n![Simple Lucky Block Header](https://cdn.modrinth.com/data/cached_images/7c4f21ad178e64b63f7ae4270853c169cec5b49f_0.webp)\n\n简单幸运方块是一款令人兴奋的模组，它为游戏添加了幸运方块，为你的玩法增添了随机性和惊喜元素！当被破坏时，幸运方块有几率掉落各种物品、引发爆炸，甚至生成特殊效果。\n\n世界生成\n- 幸运方块会自然生成在任何新世界中\n\n不幸掉落\n- 爆炸\n- 无用物品（木棍、枯死灌木、燧石）\n- 以及更多！\n\n普通掉落\n- 完整的工具套装（木质、石质、金质）\n- 盔甲套装（皮革、金色、铁质）\n- 特殊物品如海绵和末影箱\n- 末影珍珠和末影之眼\n- 自定义命名的物品\n- 以及更多！\n\n超级幸运掉落\n- 特殊效果和稀有物品\n- 独特的游戏体验\n\n![Simple Lucky Block Demo](https://cdn.modrinth.com/data/VbKuf25K/images/fcf4c45322b50a0c687cc8767f714c2bceaf129b.gif)\n\n技术细节\n- 兼容 Forge、Fabric、NeoForge 和 Quilt\n- Fabric 版本需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n- Quilt 版本可能需要 [Quilted Fabric API](https://modrinth.com/mod/qsl)\n- 轻量级且对性能友好\n- 安装和使用简便\n\n使用方法\n1. 制作或寻找一个幸运方块\n2. 破坏它以触发随机效果\n3. 体验不知会得到什么的刺激感！\n\n![Simple Lucky Block Recipe](https://cdn.modrinth.com/data/cached_images/db7e1a1fc80b04b24cd2b771d1b6cdb8f0b02f5d_0.webp)\n\n许可证\n- MIT 许可证\n- 只要给予适当署名，您可以随意使用该模组。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

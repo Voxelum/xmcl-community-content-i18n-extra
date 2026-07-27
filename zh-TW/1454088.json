@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8b586d5b91eb60a6",
+  "content": "\n\n<p># The Settler X Create</p>\n<p>## 早期開發警告<br>本模組仍處於早期且實驗性階段。&nbsp;<br>預期將有頻繁的更新、重做與偶爾的相容性問題。<br>## 警告<br>預設已啟用除錯日誌，以協助在測試期間診斷 Create Shop 的請求與配送流程。在正式伺服器上，驗證完成後應停用除錯日誌，以避免雜亂的日誌與不必要的伺服器日誌膨脹。</p>\n<p>## 安裝前請閱讀<br>- 安裝/更新前請備份您的世界。<br>- 尚不建議用於重要的長期存檔。<br>- 使用此模組的世界應視為實驗性質。<br>- 從活躍世界中移除模組可能導致世界損壞。<br>- 較安全的解除安裝準備指令（自 `v0.0.12` 起）：&nbsp;<br>&nbsp; `/thesettlerxcreate prepare_uninstall`</p>\n<p>## 此模組存在的理由<br>是否厭倦了手動連接倉庫至庫存網絡、升級後重新搭建漏斗/郵箱裝置，或是在小屋下方佈線滑槽/漏斗僅僅為了搬運物品？&nbsp;<br>此模組正是為了減少這類物流微管理而設計。</p>\n<p>## 功能說明<br>透過兩款模組的公開 API，**不使用 mixins** 即可橋接 MineColonies 與 Create 的物流系統。</p>\n<p>當殖民者需要材料時，請求仍會遵循正常的 MineColonies 生命週期。&nbsp;<br>不同之處在於，由 Create 驅動的商店可以透過您的庫存網絡作為有效的供應來源。</p>\n<p>將 Create Shop 連接到您的庫存網絡後，殖民者需要物品時即可自動發起請求。</p>\n<p>`Perma Request`（建築等級 2 可用）可將礦石從倉庫路由至 Create Shop，接著轉發至您的 Create 網絡中。</p>\n<p>## 目前狀態<br>- 主要焦點：穩定性與請求生命週期的正確性。<br>- 在較大型或包含大量 mixin 的整合包中，仍可能发生某些邊界情況的配送停滯。<br>- 專用伺服器支援正在推進中，但更廣泛的實際環境驗證仍在進行中。</p>\n<p>## 目標版本<br>- MineColonies `1.1.1264`<br>- Create `1.21.1-6.0.8`</p>\n<p>加入 <a href=\"https://discord.gg/QkNGRay4uJ\" target=\"_blank\" rel=\"nofollow\">Discord</a> 以獲取測試版本、提供回饋與回報錯誤。</p>\n<p>想支持我嗎？<a href=\"/linkout?remoteUrl=https%253a%252f%252fbuymeacoffee.com%252fimmortale_g\" target=\"_blank\" rel=\"nofollow\">請我喝杯咖啡</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

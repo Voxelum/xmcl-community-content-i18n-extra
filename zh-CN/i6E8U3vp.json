@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d71f48129c8e334b",
+  "content": "# Create: Coasters\n\n一个专为搭配 Create Mod 打造更棒的**主题公园**而设计的模组！\n\n该模组最初是为 Europica Park 项目制作的，你可以在他们的 Discord [这里](https://discord.gg/8USpZZwrKY) 查看该项目。\n\n此模组**严重不平衡！** 它旨在服务于创造模式下的建筑玩家！模组中的方块没有合成表，但自定义排程指令仍可能被玩家在生存模式中滥用！\n\n言归正传，它到底添加了什么呢？\n\n# 功能：\n\n<details>\n<summary>加速方块</summary>\n  \n会将经过其上方的列车速度设置为方块上指定最大速度的百分比。适用于在下降路段提供加速，或在车站附近减速！\n\n</details>\n\n<details>\n<summary>限速方块</summary>\n  \n会将经过其上方的列车**最大**速度设置为方块上指定的百分比。适用于需要控制车速的轨道区段，例如在繁忙路口前减速！\n\n</details>\n\n<details>\n<summary>锁定座位方块</summary>\n\n用于锁定或解锁其上方装置中的座椅。通电时锁定座椅，断电时解锁。除非在其上方放置特定颜色的座椅方块，否则它将（解）锁所有座椅。若放置了特定颜色方块，则仅（解）锁该颜色的座椅。可用于防止玩家提前跳下游乐设施！\n\n</details>\n\n<details>\n<summary>锁定座位排程</summary>\n\n功能类似于锁定座位方块，但以排程指令的形式呈现。可以锁定或解锁（由你决定）列车上的所有座椅，或者你指定的特定颜色座椅方块。\n\n</details>\n\n<details>\n<summary>切换蒸汽音效排程</summary>\n\n一条排程指令，允许你开启或关闭列车的蒸汽噪音。如果你不想让某趟特定的列车发出那种“突突”声，这将非常有用！\n\n</details>\n\n<details>\n<summary>高速列车摄像机缩放</summary>\n\n在较快的列车上，摄像机视角会略微拉远。虽然效果细微，但这能显著提升高速列车**感觉**上的速度感！如果你容易晕车，或者觉得这种效果过于强烈，可以在客户端配置中禁用或调低该效果。\n\n</details>\n\n\n# 计划中的功能\n\n此模组尚未完成。我还有许多想要实现的创意！你可以在 [GitHub 项目页面](https://github.com/users/blockninja124/projects/1) 上查看我的进度以及计划添加的功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

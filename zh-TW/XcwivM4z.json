@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3e85ca833f36fea7",
+  "content": "# Phial\nPhial 是一款仍在開發中的着色器，旨在添加多種後處理選項以模擬像素藝術風格。\n\n截至最新版本，它包含以下功能：\n\n- 顏色量化：將螢幕顏色限制為任意顏色調色板。（預設使用 [Ressurect 64](https://lospec.com/palette-list/resurrect-64) 調色板）\n\n- 可自訂的像素映射：降低螢幕解析度\n\n- 有序抖動\n\n- 可自訂的暗角效果\n\n## 自訂調色板\n\n要輸入自訂調色板，您可以解壓縮着色器檔案，並在以下位置找到調色板檔案：\n```\nshaders\\assets\\palette.glsl\n```\n\n這需要一種特殊的顏色儲存格式，即歸一化的 GLSL 向量 3 陣列。若要快速將十六進位顏色列表轉換為此格式，您可以使用以下網站：\n\nhttps://snorfield.github.io/palette-to-shader/\n\n轉換完成後，您只需使用記事本等文字編輯器打開 `palette.glsl` 檔案並替換內容即可。別忘了儲存！\n\n要查看變更，您只需重新載入着色器。\n\n![SLSO8 調色板 (https://lospec.com/palette-list/slso8)](https://cdn.modrinth.com/data/cached_images/a67d071b35283d9061498c414816cf33be469c54.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

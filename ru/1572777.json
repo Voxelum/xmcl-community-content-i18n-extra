@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5fdcdae07e0dc7bf",
+  "content": "\n\n<p>Этот мод добавляет клиентскую команду <code>/ai</code>. При включении командой <code>/ai on</code> ваши сообщения из чата отправляются в Gemini AI вместо сервера. Ответы ИИ появляются только в вашем локальном чате Minecraft. Используйте <code>/ai off</code>, чтобы отключить эту функцию.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

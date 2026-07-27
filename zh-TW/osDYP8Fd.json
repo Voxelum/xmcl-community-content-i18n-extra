@@ -1,0 +1,6 @@
+{
+  "bodyHash": "af4db48840dd7274",
+  "content": "![電纜更新橫幅](https://cdn.modrinth.com/data/cached_images/c0dfce513102c391fe1571b765f951e8924c3717.png)\n\n這是為 [Corosus](https://modrinth.com/user/Corosus) 開發的 [Weather2/天氣風暴與龍捲風](https://modrinth.com/mod/weather-storms-tornadoes) 模組設計的小型附加模組。\n\n本模組旨在通過引入新機制和技術來提升 Weather2 的使用體驗，幫助玩家更好地追蹤天氣事件。\n\n平板電腦具備風暴追蹤功能，類似於 Weather2 模組 1.12.2 版本中的天氣雷達。\n\n![平板電腦物品；一種允許追蹤和監控風暴以及繪製周圍區域地圖的物品](https://cdn.modrinth.com/data/cached_images/4a3edc7f266f3447a625e6ec59eb18c9bea21a17.png)\n\n該模組還提供了一個小型電池方塊，用於為您的平板電腦充電，它可以由 Weather2 模組中的風力渦輪機供電。\n\n![小型電池方塊介面 - 顯示通過物品欄進行的輸出和輸入，以及存儲的能量總量和總輸入/輸出量](https://cdn.modrinth.com/data/cached_images/22f86f387dfb638f6f85a14d539f60f40b687f45.png)\n\n雷達方塊通過暫時加載周圍區域的區塊來幫助繪製地圖。\n\n![雷達選單的介面，在屏幕上顯示周圍區域的繪製像素，以及消耗率、能量和繪製半徑](https://cdn.modrinth.com/data/cached_images/d18c3a6fb091f3b819695d638ea9fe44e6a78f06.webp)\n\n所有設備均可通過使用電纜和風力渦輪機（來自 Weather2 模組）進行供電。\n\n![展示電纜用法的圖片；一些電纜連接到風力渦輪機，通向電池方塊的頂部，另一些從電池方塊底部引出，通向雷達方塊](https://cdn.modrinth.com/data/cached_images/7074f436ab5389ed58e267c3506cf56bbbef6350.webp)\n\n電纜及其內部緩衝區可以通過網絡分析儀工具進行監控；\n\n![網絡分析儀的介面，顯示電纜的吞吐量、內部能量緩衝區以及網絡中的電纜數量](https://cdn.modrinth.com/data/cached_images/c8970a9ffcf20d0f7e609e3fd384be666b02357f.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

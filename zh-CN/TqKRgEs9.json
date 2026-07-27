@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9c35ff73f9380098",
+  "content": "\n\n# Carry Me\n\n**Carry Me** 是 **Carry On** 模组的轻量级附加组件，赋予玩家完全控制权，决定自己是否允许被他人抱起。\n\n通过本模组，每位玩家都可以使用一条简单的命令来决定是否允许自己被拾起。这为 Carry On 增添了明确的同意机制，使多人服务器中的互动体验更加友好。\n\n服务器管理员还可以通过游戏规则（gamerule）全局强制此行为，如需的话可禁用玩家的选择权。\n\n***\n\n## 功能特性\n\n* 玩家自主控制是否允许被抱起\n* 服务端游戏规则可强制或禁用玩家选择\n* 简单的切换命令或快捷键，允许/拒绝被抱起\n* 专为多人联机环境设计\n* 轻量且不干扰其他模组\n* 不改变 Carry On 的核心机制\n\n***\n\n## 为什么使用 Carry Me？\n\n在多人服务器中，未经同意被抱起可能会令人烦躁或破坏游戏体验。**Carry Me** 通过确保玩家仅在明确同意的情况下才会被抱起来解决这一问题，同时仍通过游戏规则赋予服务器管理员完全的控制权。\n\n***\n\n## 工作原理\n\n玩家可以随时使用命令或按下按键来开启或关闭自己的被抱起权限。  \n服务器所有者可选择使用游戏规则来全局控制此行为。\n\n***\n\n## 我们需要您的反馈！\n\n如果您遇到任何 Bug 或有新功能建议，请告诉我：\n\n* [github.com/PedroRok/CarryMe/issues](https://github.com/PedroRok/CarryMe/issues) - 在此报告 Bug 并提出功能建议！\n\n***\n\n## 想要支持该项目？\n\n如果你喜欢这个项目并认可我的工作，欢迎支持我，这将极大地帮助我继续开发 ❤️\n\n* [ko-fi.com/pedrorok](https://ko-fi.com/pedrorok) - 每一份捐赠都是莫大的鼓励！\n\n如果你有任何问题、建议，或者只是想聊聊，都可以在 Cafeteria Development 公会中找到我！\n\n[![Discord Invite](https://discordapp.com/api/guilds/707435077679841350/embed.png?style=banner2&v=2)](https://discord.com/invite/G4PjhEf)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

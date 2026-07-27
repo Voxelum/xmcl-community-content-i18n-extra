@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3902d27e1533e4ce",
+  "content": "**Realistic Needs** 為 Minecraft 加入了一個簡單的水渴機制。現在你需要在管理飢餓感的同時，也照顧你的水分攝取。\n\n![Waterbar](https://cdn.modrinth.com/data/cached_images/6288996e751f14df49b8554686cc79e63f9fc06e.gif)\n\n## 功能：\n- **水渴計量條**：在你的飢餓計量條上方新增一條水柱。\n- **脫水狀態**：當水渴值歸零時，你會持續受到傷害，直到你飲用水分為止。\n- **口渴效果**：一種自訂的負面狀態效果，會大幅加速你的水分流失。\n\n## 物品與機制：\n- **大水瓶**：一種新容器，可用來儲存較大量的水。\n- **大水瓶（裝滿）**：可以在任何水源處裝填，共有 **8 次使用次數**，用畢後會變回空瓶。\n- **徒手飲水**：如果手邊沒有瓶子，你可以用空手直接從任何水源飲水。\n\n![Giant Waterbottle](https://cdn.modrinth.com/data/cached_images/bf046d707929e5ac98e28616e086b7f5c3b5cd09.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "251f81857fb0836c",
+  "content": "<p>這個數據包可以配置為修改由模組 <a href=\"https://www.curseforge.com/minecraft/mc-mods/artifacts\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/artifacts</a> 提供的「神器」(Artifacts) 的任何生成機率。<br>雖然此數據包本身不會產生任何效果，但在安裝了「神器」模組後，您可以修改任何包含由「神器」注入的戰利品表，或由「神器」創建的戰利品表。此數據包應與 Lootr 相容，並已針對 Prominence II: RPG 中的 Lootr 進行了測試。如前所述，「野性爪牙」(Feral Claws) 曾被硬編碼為禁用狀態，但它仍會出現在埋藏的寶藏箱和村莊工具匠的箱子中。這導致玩家對該物品的消失感到困惑。此數據包將「野性爪牙」完全從戰利品表中移除，因此現在它看起來就像不存在一樣。<br><br>衷心感謝協助我測試此數據包的各位（Blankie、oKaylf 和 malice7332），以及 <a href=\"https://www.curseforge.com/members/fichteee/projectsfor\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/members/fichteee/projects</a></p>\n<p>感謝他們幫助我學習和理解數據包。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

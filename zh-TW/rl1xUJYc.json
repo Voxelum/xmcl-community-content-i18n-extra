@@ -1,6 +1,6 @@
 {
-  "bodyHash": "UbUkTe5wA5g=",
-  "content": "# 注意！\n\n目前發現 CF 應用程式在 1.20.1-1.20.4 Fabric 版本中無法自動下載 ItemFig 依賴項的問題。若遇到此情況，請直接透過「添加更多內容」按鈕手動添加。造成不便敬請見諒，我們正在積極排查此問題。\n\n更新：建議將模組更新至 Weaponworks 1.4.1-1.20.1 Fabric 版本，並同步將 ItemFig 更新至 ItemFig 1.20.1-0.2.7 Fabric 版本，因部分檔案結構已調整。遺憾的是，此問題目前仍存在。\n\n## **Weaponworks 新增了 9 種武器類型，每種都適合不同的戰鬥風格。**\n\n**每種武器分為 6 個等級：**\n- 木製\n- 石製\n- 鐵製\n- 金製\n- 鑽石\n- 獄髓\n\n**可用武器：**\n\n- 巨劍\n- 武士刀\n- 長矛\n- 戟\n- 鐮刀\n- 刺劍\n- 戰鎚\n- 釘頭鎚\n- 戰刃\n\n![顯示 1.4.1 版本所有當前配方的圖片](https://cdn.modrinth.com/data/cached_images/5dd4d579681b6674d345b8db0400ebec7b1b790d.png)\n---\n自 1.3.0 版本起，武器可透過 [Sortilege](https://www.curseforge.com/minecraft/mc-mods/sortilege) 驅動的配置系統進行調整。\n目前可設定的參數包括：\n\n- 傷害值（武器本身的傷害值，會附加在徒手傷害值上，預設為 1）。\n- 攻擊速度。\n- 耐久度。\n- 火焰抗性。\n- 攻擊範圍（僅在使用 Better Combat 模組時生效）。",
+  "bodyHash": "2e24e42e20b5c992",
+  "content": "# 注意！\n似乎 CurseForge (CF) 应用程序在 1.20.1-1.20.4 Fabric 版本中无法下载 ItemFig 依赖项。如果遇到这种情况，只需通过“添加更多内容”按钮手动添加即可。对于造成的不便深表歉意，我们正在调查此问题。\n\n更新：建议将模组更新至 Weaponworks 1.4.1-1.20.1 Fabric 版本，并将 ItemFig 更新至 1.20.1-0.2.7 Fabric 版本，因为进行了一些文件调整。不幸的是，该问题仍然存在。\n\n## **Weaponworks 添加了 9 种新的武器类别，每种都适合不同的战斗风格。**\n\n**每种武器类型都有 6 个等级：**\n- 木头\n- 石头\n- 铁\n- 金\n- 钻石\n- 下界合金\n\n**可用武器：**\n\n- 巨剑\n \n- 武士刀\n- 长矛\n- 戟\n- 镰刀\n- 细剑\n- 战锤\n- 连枷\n- 战争刃斧\n\n![显示 1.4.1 版本中所有当前配方的图片](https://cdn.modrinth.com/data/cached_images/5dd4d579681b6674d345b8db0400ebec7b1b790d.png)\n---\n自版本 1.3.0 起，武器支持配置，这得益于 [Sortilege](https://www.curseforge.com/minecraft/mc-mods/sortilege) 提供的配置功能。\n目前可以配置的参数包括：\n\n- 伤害（武器本身的伤害，默认情况下会在手持伤害基础上额外增加 1）。\n- 攻击速度。\n- 耐久度。\n- 抗火性。\n- 攻击范围（仅在使用 Better Combat 模组时有效）。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

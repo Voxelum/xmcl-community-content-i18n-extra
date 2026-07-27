@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7a02417d614244ff",
+  "content": "# 🛡️ FerreMcDurabilityOverlay – 盔甲耐久度可视化\n\n****专为 PvP 战斗设计，此资源包以直观的方式展示盔甲的耐久度，帮助您在激烈的战斗中做出明智的决策。****\n## 🔧 功能特点：\n__动态盔甲纹理：盔甲纹理颜色会根据耐久度等级发生变化：__\n\n- 🟩 ****绿色 (80%–100%)：轻微磨损****\n\n- 🟨 ****黄色 (60%–79%)：中度损坏****\n\n- 🟥 ****红色 (40%–59%)：严重损坏****\n\n- 🟥 ****深红色 (20%–39%)：危急状态****\n\n- 🟪 ****紫色 (0%–19%)：已破损****\n- ****专注 PvP：非常适合 PvP 场景，在战斗过程中提供即时视觉提示以评估盔甲状态。****\n- ****兼容性：设计用于配合 Fabric 上的 [CIT Resewn](https://modrinth.com/mod/cit-resewn) 或 [Variants CIT](https://modrinth.com/mod/variants-cit)，以及 [Optifine](https://optifine.net/home) 使用。****\n- ****支持的盔甲类型：适用于钻石盔甲和下界合金盔甲套装。****\n##   ⚠️ 安装要求：\n\n- ****Fabric 用户：请安装 [CIT Resewn](https://modrinth.com/mod/cit-resewn) 模组或 [Variants CIT](https://modrinth.com/mod/variants-cit)。****\n\n- ****Optifine 用户：请安装 [Optifine](https://optifine.net/home) 并确保其配置正确。****\n                               \n![Stages](https://cdn.modrinth.com/data/cached_images/6702f860d62f1dcbcd717354fd2747b4f119b875.png)\n# ⚠️ 注意事项：\n某些服务器可能限制使用基于耐久度的可视化资源包。仅在允许的地方使用。****对于服务器采取的任何行动，本人概不负责。****",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

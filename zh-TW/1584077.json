@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e3c8de20753a04de",
+  "content": "\n\n<h1>Sparkle's Morpher</h1>\n<p>一款全方位的 Minecraft 模型載入器，可讓您將自訂模型、動畫與音效附加至玩家，以及部分實體、載具和投射物——告別一成不變的方塊角色模型。</p>\n<blockquote>\n  <p>Sparkle's Morpher 是一款<strong>一站式模型載入器</strong>，支援多種模型格式。</p>\n</blockquote>\n<h2>功能特色</h2>\n<ul>\n<li>自訂玩家模型、皮膚、面部表情與動作動畫，多人遊戲時其他玩家亦可看見。</li>\n<li>動畫輪盤，預設綁定 <code>Z</code> 鍵，方便快速切換目前模型上的動作或動畫。</li>\n<li>內建模型音效，讓角色技能或動作可播放隨附的語音台詞或音效，並支援 Opus 解碼與跨平台原生加速。</li>\n<li>多模型管理，包含本機匯入、分組、收藏與加速網址下載。</li>\n<li>伺服器端模型列表分發，並提供可自訂的黑名單，自動產生於 <code>config/sparkle_morpher/blacklist.txt</code>。</li>\n<li>相容於常見的戰鬥、裝飾、飛行及整合包相關模組，包含 Better Combat、Curios、Create、Iris、Sodium 等。</li>\n<li>跨平台支援，涵蓋四種變體：Fabric / NeoForge × Minecraft 1.21.1 / 26.1.2。</li>\n</ul>\n<h2>相依模組</h2>\n<p>相依模組會因所選變體而有所不同。詳細資訊請參考 <code>mods.toml</code> 或 <code>fabric.mod.json</code>。</p>\n<p>若使用 Fabric 變體，使用者需自行安裝 Fabric API。其他相依模組則會透過 JiJ 打包於 JAR 檔案內。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

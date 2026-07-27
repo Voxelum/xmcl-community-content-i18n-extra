@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fba80b4408931dd4",
+  "content": "\n\n## 描述\n\n**Better Client** 是一款旨在為你提供更優質伺服器體驗的模組。\n\n正如其名，這是一款僅限***客戶端***運行的模組，內建各項功能旨在將你的遊戲體驗優化至極致！\n\n**所有已實裝的功能均可在 [Wiki](https://enc.is-a.dev/better-client-wiki/) 中查看**\n\n## 依賴\n\n絕大部分功能皆支援獨立開關，並可透過 **\"YetAnotherConfigLib\"** 模組在遊戲內以圖形化介面輕鬆設定。\n\n同時亦提供設定檔供進階使用者直接編輯。\n\n**自 5.0.0 版本起，YACL 已改為選用依賴項。但仍建議你安裝它。**\n\n## 開發\n\n本模組持續維護更新中，未來將實作更多新功能！\n\n歡迎加入我的 [discord](https://discord.gg/J2TwHucyzk) 與我交流。\n\n> 我們不建議使用 1.21.2 至 1.21.10 版本，因為可能會遭遇效能異常，且這些版本將不再獲得更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

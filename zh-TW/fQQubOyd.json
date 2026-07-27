@@ -1,0 +1,6 @@
+{
+  "bodyHash": "408cc59d38ec92d0",
+  "content": "![伯尼](https://media1.tenor.com/m/j0dmpcxFOIAAAAAC/bernie-sanders-finger-wag.gif)\n\n# 古尼·桑德斯本地扩展器\n\n兄弟们，姐妹们，以及各位 assorted goons：长期以来，ComputerCraft 的工作计算机一直被剥夺了对它们在自己主机器上编写的脚本的无限制访问权。我再次呼吁大家从本地文件系统加载你们的 Lua 脚本——这一次，我带来了一个模组，让这个过程变得轻松无痛。\n\n## 这个狂野之物能做什么\n- **扩展本地脚本库**：通过名为 `GoonieSandersLocalExpanders` 的全局 API 暴露 `config/ccscripts/` 目录。\n- **在游戏中挂载整个文件夹**：在 `/goonie` 下挂载，这样你就可以直接从开发机器运行或复制脚本，无需手动输入。\n- **附带活动助手**（`localscripts.lua`，自动放入 `config/ccscripts/`）：引导你选择脚本，将其保存到 `/scripts/`，并且——如果你说“好”的话——立即执行它。\n\n## 安装（因为革命需要后勤）\n1. 将 jar 文件扔进你的 NeoForge mods 文件夹。\n2. 将任何 Lua 杰作放入 `config/ccscripts/`。该目录是整个操作的心脏。（你可以自己创建文件夹，或者带着模组启动一次游戏，它会自动为你创建。）\n\n## 现场使用方法\n1. 放置一台 ComputerCraft 电脑或海龟。\n2. 运行 `goonie`（自动安装在 `/rom/programs` 下）以立即启动助手。\n3. 从列表中选择，让 API 获取它，并观看脚本夺取执行权。\n\n想跳过助手？使用普通的 shell 命令手动访问所有内容，例如 `fs.list(\"/goonie\")`、`cp /goonie/myScript.lua myScript.lua`，甚至 `shell.run(\"/goonie/myScript.lua\")`——它们都访问助手使用的同一个挂载文件夹。\n\n## 常见问题解答（频繁激怒的问题）\n- **这需要网络访问吗？** 绝对不需要。我们保持本地化，同志们。\n- **如果脚本缺失怎么办？** 模组会通知你。将其放入 `config/ccscripts/` 并重新运行。\n\n现在走出去，组织你的 Lua，像你能成为的最古尼的伯尼一样进行本地扩展。革命可能不会被电视转播，但它会被编写成脚本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

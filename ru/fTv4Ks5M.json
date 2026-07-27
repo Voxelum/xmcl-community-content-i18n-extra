@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a8b843e84ad808c9",
+  "content": "# 更多生物变体\n\n基于原始的 [More Mob Variants](https://modrinth.com/mod/more-mob-variants) 移植，以适配最新版本的 Minecraft。\n保持相同的开源许可证！\n\n这是一款 Fabric 模组，为现有生物（猫、鸡、牛、猪、羊、狼、僵尸、骷髅、蜘蛛）添加了新的视觉变体。这些变体是持久化的，并且对所有玩家同步。客户端和服务器端都需要安装此模组。支持使用 Fabric 的 Minecraft 1.21.11 版本。\n\n如需 Forge 版本，请访问 [此页面](https://github.com/nyuppo/MobVariantsForge)。\n\n## 安装说明\n\n本模组提供**所有玩家的持久化变体皮肤**，这与可能导致个体显示不一致的客户端侧重新贴图不同。\n\n因此，这意味着要使该模组正常工作，必须同时在**服务端和客户端**安装。\n\n## 功能特性\n\n除了默认纹理外，该模组目前包含以下新的生物变体：\n\n- 猫\n  - 灰色虎斑\n  - Doug\n  - 英俊\n- 鸡\n  - 琥珀色\n  - 古铜色\n  - 金色冠\n  - 午夜黑\n  - 花斑\n  - 暴风雨色\n  - 骷髅鸡（*如果在下界生成*）\n- 牛\n  - 灰烬色\n  - 饼干色\n  - 乳白色\n  - 斑点色\n  - 日落色\n  - 阴影色\n  - 羊毛色\n- 猪\n  - 斑驳\n  - 花斑\n  - 粉脚\n  - 烟熏色\n  -  spotted\n- 羊\n  - 毛茸茸\n  - 补丁色\n  - 岩石色\n- 狼\n  - 哈士奇\n  - 棕色\n  - 德国牧羊犬（*通过繁殖哈士奇和棕色狼获得*）\n  - 金毛寻回犬/柴犬（*通过繁殖棕色狼和白色狼获得*）\n  - 法国斗牛犬/巴哥犬（*通过繁殖哈士奇和金毛寻回犬/柴犬获得*）\n- 僵尸\n  - Alex\n  - Ari\n  - Efe\n  - Kai\n  - Makena\n  - Noor\n  - Sunny\n  - Zuri",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

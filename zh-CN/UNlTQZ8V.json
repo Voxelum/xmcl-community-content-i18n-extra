@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99472335d04ea8d8",
+  "content": "\n\n此数据包/服务端模组扩展了涉及幽匿和监守者的游戏玩法。\n\n### 监守者\n\n监守者现在每走一步都会在地面上扩散少量幽匿。这些幽匿有时可能包括幽匿感测体，甚至是已激活的幽匿尖啸体。如果你试图围困一只监守者或将其引到地表，请务必小心！\n\n此外，监守者在水中游泳的速度会更快，且不会再溺水。请注意，这会破坏基于溺水机制的监守者农场。\n\n### 回溯之矛\n\n手持回溯之矛时，它会额外具备一项功能：每隔 2 秒，它会向距离你 32 格范围内最近的生物或玩家所在方向发射灵魂粒子。\n\n### 玩法\n\n- 幽匿脉络现在可以攀爬，让远古城市的探索更加有趣。请注意，由于 `climbable` 标签的工作方式，踩在地面上的幽匿脉络会降低你的移动速度。\n- 点燃后，幽匿块、幽匿催化体和加固深板岩会持续燃烧灵魂火。用于建筑装饰效果极佳！\n\n### 合成配方\n\n此外，还新增了四种合成配方：\n- 你可以将四个幽匿脉络合成为一个幽匿块，反之亦然。\n- 你可以将一块幽匿块放入烟熏炉中烧炼为一个幽匿脉络并获得少量经验，提供了一种可以自动化的从幽匿中提取经验的方式，而无需手动破坏或使用锄头破坏。\n- 你可以用八个幽匿块和一个玻璃瓶合成为一瓶附魔之瓶，提供了一种无需通过村民交易即可囤积该物品的途径。\n\n### 致谢与许可证\n\n感谢 Stardust Labs Discord 中的 `rennen_rig` 实现了监守者扩散幽匿的功能。\n\n你可以自由使用或修改此数据包，只要注明我和 rennen 的贡献，且不得从中获利。\n\n### 参见\n欢迎查看我的 [更多化石](https://modrinth.com/datapack/more-fossils) 模组，它会在世界各地的地下添加化石，且在深暗之域中找到化石的概率会更高。\n\nYouTube 展示视频：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qgT-TrJQogs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

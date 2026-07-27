@@ -1,0 +1,6 @@
+{
+  "bodyHash": "493423ae88eb52f8",
+  "content": "\n\n<h1>Animatica Refabricated</h1>\n<p>Animatica Refabricated 是 Animatica 的一个分支，支持更新版本的 Minecraft。<br>\n这是一款适用于 Fabric 模组加载器的 Minecraft 模组，旨在加载 MCPatcher/OptiFine 的<a href=\"https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/custom_animations.txt\" target=\"_blank\" rel=\"nofollow\">自定义动画纹理格式</a>。<br></p>\n<h2>本模组支持哪些资源包？</h2>\n<p>Animatica 增加了对使用<strong>自定义动画纹理</strong>的资源包的支持。<br>\n这包括：</p>\n<ul>\n<li>动画 GUI 纹理</li>\n<li>动画实体纹理</li>\n<li>动画方块实体纹理</li>\n<li>动画护甲纹理</li>\n<li>其他动画纹理（动画方块和物品是原版功能）</li>\n</ul>\n<h2>Animatica 不支持以下功能：</h2>\n<ul>\n<li>完全自定义 GUI（<a href=\"https://www.curseforge.com/minecraft/mc-mods/optigui\" target=\"_blank\" rel=\"nofollow\">OptiGUI for Fabric</a>）</li>\n<li>自定义实体模型（<a href=\"https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem\" target=\"_blank\" rel=\"nofollow\">CEM for Fabric</a>）</li>\n<li>3D 自定义实体模型部件动画（<a href=\"https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem\" target=\"_blank\" rel=\"nofollow\">CEM for Fabric</a>）</li>\n<li>任何其他 MCPatcher/OptiFine 资源包特性，例如连接纹理等</li>\n</ul>\n<p><strong>这些功能永远不会在 Animatica 中实现。</strong> <br></p>\n<h3>Animatica 仅用于处理动画纹理。</h3>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

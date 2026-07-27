@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8e59773679ce5451",
+  "content": "## 描述\n此数据包将所有物品实体的 NBT `Age` 标签设置为 0，从而确保每 5 分钟的物品消失计时器不断重置。\n\n![预览](https://cdn.modrinth.com/data/cached_images/dbd8bee52219f71fc2b7b5d0b7083c928d25bb39.png)\n\n## 依赖项\n- Fabric Loader 需要 [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

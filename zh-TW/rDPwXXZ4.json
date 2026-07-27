@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13f1a92e3ac9dc4d",
+  "content": "對 Minecraft 的建議提供者進行小型更改，使其自動完成所有模組命名空間的資源位置。\n\n雖然這是一個非常微小的更改，如果您在整合包中大量使用命令，這可能會為您節省大量時間。\n\n注意：此模組不需要安裝在專用伺服器上即可正常工作，但建議這麼做，以便客戶端和伺服器的模組列表匹配。\n\n## 用法範例\n假設您想使用 `/give` 指令從 Dynamic Trees Spawn 一株 `oak_seed`（橡木種）。使用原版遊戲時，您可能會開始輸入 `/give @p oak_seed`。然而，不會出現自動完成建議，因為它預期的是您輸入完全限定的 `dynamictrees:oak_seed` 名稱：\n\n![](https://github.com/harleyoc1/SuggestionProviderFix/blob/1.16.5/without.gif?raw=true)\n\n當安裝 Suggestion Provider Fix 後，開始輸入 `oak_seed` 會建議任何具有該名稱的物品，不管是由哪個模組添加的。因此，Dynamic Trees 提供的橡木種將會被建議：\n\n![](https://github.com/harleyoc1/SuggestionProviderFix/blob/1.16.5/with.gif?raw=true)\n\n這也適用於其他使用資源位置的註冊表，包括方塊、生物群系，甚至其他模組自定義的註冊表。\n\n## 授權\n特此授權此模組可用於任何整合包或伺服器。雖標註來源將受到歡迎，但非必需。\n\n## 技術說明\n此模組使用 Mixin 來覆蓋 `SharedSuggestionProvider#filterResources(Iterable, String, Function, Consumer)`，執行完全相同的操作，但取消檢查 `ResourceLocation` 的命名空間是否等於 `minecraft`（這是在路徑未指定命名空間時的預設值）。這意味著對於 `ResourceLocation` 物件的建議提供者，如果未輸入命名空間，將建議所有符合輸入字串的路徑，而不僅限於來自 Minecraft 本身的路徑。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

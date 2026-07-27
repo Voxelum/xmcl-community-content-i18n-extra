@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e538d78c1ec204df",
+  "content": "\n\n<div>\n<h2>SecurityCraft “WTHIT” 附属模组</h2>\n</div>\n<div>&nbsp;</div>\n<div>这是 Minecraft 模组 <a href=\"https://www.curseforge.com/minecraft/mc-mods/security-craft\" rel=\"nofollow\">SecurityCraft</a> 的一个附属模组，为其添加了与 <a href=\"https://www.curseforge.com/minecraft/mc-mods/wthit-forge\" rel=\"nofollow\">WTHIT</a> 的集成。在较新的 Minecraft 版本中，该功能已内置于主模组内，但由于技术限制，在 Minecraft 1.18.2 和 1.16.5 版本的 SecurityCraft 中并非如此。本附属模组填补了这一空白，为这些版本中的 SecurityCraft 添加了 WTHIT 集成。<br>本模组至少需要 SecurityCraft v1.9.8。支持的版本请参阅相关文件页面。</div>\n<div>&nbsp;</div>\n<div>\n<h3>功能特性</h3>\n</div>\n<div>&nbsp;</div>\n<div>安装后，本模组将在 WTHIT 显示界面中为 SecurityCraft 的方块添加更多信息，例如：</div>\n<ul>\n<li>方块的所有者</li>\n<li>已安装的模块</li>\n<li>当前运行模式</li>\n</ul>\n<p>&nbsp;</p>\n<p>此外，WTHIT 会将伪装方块和方块矿机显示为其伪装的方块类型，而非其本身。<br>提供若干配置选项，可关闭部分信息显示。</p>\n<p>&nbsp;</p>\n<h3>效果展示</h3>\n<p>&nbsp;</p>\n<div><img src=\"https://i.imgur.com/Qus8cWG.png\" width=\"516\" height=\"271\"></div>\n<div><img src=\"https://i.imgur.com/MafzPOo.png\" width=\"516\" height=\"271\"></div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

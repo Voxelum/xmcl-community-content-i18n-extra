@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c7a818184c045e9b",
+  "content": "\n\n# FPM-LRTactical Compat\nЛёгкое дополнение для совместимости с NeoForge 1.21.1, устраняющее конфликты между **First Person Model** и **LesRaisins Tactical Equipments**.  \n## Что делает этот мод\nКогда вы держите оружие из мода LesRaisins при установленном FirstPersonModel, может возникнуть проблема с отображением «двойных рук».   \nЭтот мод исправляет проблему, корректно указывая FirstPersonModel использовать стандартное отображение рук при экипировке любого предмета из LesRaisins.   \nЭто скрывает руки от FirstPersonModel (позволяя отобразиться тактическим рукам LesRaisins), но при этом безопасно сохраняет 3D-рендеринг тела и ног в режиме от первого лица.  \n## Требования\nДля использования этого мода в папке `mods` должны быть установлены следующие зависимости:  \n- **NeoForge** (для Minecraft 1.21.1)  \n- **First Person Model**  \n- **LesRaisins Tactical Equipments**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c91e0d81082a20db",
+  "content": "\n\n本模组可实现 **[ThreeTag 的 Palladium](https://modrinth.com/mod/threetag-palladium)** 与 **[Epic Fight](https://modrinth.com/mod/epic-fight)** 之间的**兼容性**，使两者能够同时运行而不会崩溃或产生严重冲突。\n\n安装 Epic Fight 后，您也可以使用基于 Palladium 的模组，例如 [FSANG18 的 Heropack](https://modrinth.com/mod/fsang18s-heropack) 和 [AlienEvo](https://modrinth.com/mod/alienevo)。但是，**这些模组不会自动使用 Epic Fight 的战斗动画**。为避免动画错误或画面异常，在使用这些模组之前，您必须**按下 `R` 键（默认）**将 Epic Fight 切换为**挖掘模式**。\n\n### 注意事项\n\n* Palladium 相关模组的护甲**无法兼容 Epic Fight 模型**。其纹理必须手动转换为 Epic Fight 的格式。\n* 我目前不打算处理护甲转换工作，但如果需求足够多，可能会考虑加入。\n* 此补丁仅供**个人使用**，因此**难免会出现一些 Bug**。\n* 如有任何问题或建议，请在 GitHub 上反馈：[https://github.com/Exizal/EpicFight-Palladium-Compatibility/issues](https://github.com/Exizal/EpicFight-Palladium-Compatibility/issues)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

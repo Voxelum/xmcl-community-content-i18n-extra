@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5ac710ee42fceb72",
+  "content": "\n\n# 在工作站放置告示牌以瞬间重骰村民特定交易\n\n1. 在工作站上放置告示牌\n2. 输入物品/附魔书名称的部分字母或完整英文名称（无需空格，使用 `_` 代替空格）\n3. 右键点击工作站进行重骰交易。若成功，村民和工作站会显示绿色粒子效果；若失败，则会显示愤怒粒子效果\n\n# 告示牌上应该输入什么？ \n普通物品名称示例：\n\nbread -> bread\n\nwhite_wool -> White wool\n\n（26.1 及更高版本已添加建议列表）\n\n# 为什么要用告示牌？\n\n你无法向村民询问，因为你不知道那些交易在 hmmmmmm 里叫什么，所以把它写在告示牌上\n另外，当你搭建好交易大厅后，你也想记住每个村民提供哪种交易，对吧？\n\n# 为什么要看粒子效果？\n\n方便你在四处游荡的村民中找到它们……\n\n# 附魔书该怎么输入？ \n\n对于附魔书，可以输入完整名称，或输入前缀部分名称加上附魔等级。\n如果不指定等级，默认会重骰为最高等级的附魔书\n\neff -> Efficiency 5\n\neff 3 -> Efficiency 3\n\n# 我还是搞不清楚要输入什么，我需要完整的列表\n\n完整列表请查看 Wiki：https://github.com/gulab9762/Librarian-filter/wiki\n\n# 模组无法运行……\n\n请先查阅 Wiki，如果遇到新问题或有建议，请在 Discord 服务器反馈\nDiscord：https://discord.gg/bWWwkFryuA\n\n# 祝你交易愉快！！hmmmmmmm……",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "817c1d8c8af8ed1b",
+  "content": "\n\n## More-Color-API\n\n[![许可证](https://img.shields.io/github/license/Fallen-Breath/fabric-mod-template.svg)](http://www.gnu.org/licenses/lgpl-3.0.html)\n[![工作流](https://github.com/sakura-ryoko/more-color-api/actions/workflows/gradle.yml/badge.svg)](https://github.com/sakura-ryoko/more-color-api/actions/workflows/gradle.yml)\n\n### 简介\n为 [Text Placeholder API](https://modrinth.com/mod/placeholder-api) 提供可配置的接口以添加更多颜色。该 API 是从 [AfkPlus](https://modrinth.com/mod/afkplus) 中拆分出的独立 API，此外还需要 [Core Lib](https://modrinth.com/mod/core-lib-api)。\n它本质上是 [Text Placeholder API](https://modrinth.com/mod/placeholder-api) 的一个附属模组。有关如何使用 Text Placeholder API 的说明，请参阅 [Text Placeholder API 官网](https://placeholders.pb4.eu/user/general/)。\n\n你可以编辑 `config/more-color-api.json`，也可以选择使用 `/morecolors` 命令来管理可用的颜色标签；同时你可以在自己的模组中借助 `TextUtils` 实例轻松充分地利用 Text Placeholder API。More Colors API 将自动帮你处理字符串到文本/组件格式化的其余需求！\n\n### 用法\n* Maven：https://maven.sakuraryoko.com/com/sakuraryoko/more-color-api/\n* 格式：`more_colors_version`-mc`minecraft_version`\n* 示例可在 [AfkPlus](https://modrinth.com/mod/afkplus) 的源码中找到。\n\n[![加入 Sakura 的 RyokoCraft Discord 服务器](https://sakuraryoko.com/files/1398873/discord-300px.png)](https://discord.gg/ryokocraftmc)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

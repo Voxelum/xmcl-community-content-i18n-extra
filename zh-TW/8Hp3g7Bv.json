@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e873f511b76f101b",
+  "content": "# SlotStacked\n\n![Demonstration](https://www.image2url.com/r2/default/gifs/1785068927115-fb25c391-adf0-42d1-8767-bb1c54577760.gif)\n\n\nSlotStacked 將你的熱欄轉化為一個垂直的inventory系統，深受《半生命》武器選擇系統的啟示。按住任何熱欄數字鍵一段可配置的時間後，將在該熱欄位置上方顯示三個inventory插槽的列，顯示位於該熱欄位置正上方的物品。使用方向鍵（或滾輪，由你選擇）高亮列中的插槽，然後釋放按鍵以將高亮物品立即換入熱欄。\n\n\n![display](https://cdn.modrinth.com/data/cached_images/30d68b89c136082f6ad5425c7f0c42c44726e741.png)\n\n\n此模組完全在客戶端運行。\n\n使用 Cloth Config，你可以選擇使用鼠滾輪或鍵盤鑰鍵來導航inventory列。如果你選擇了鍵盤選項，這些鍵綁可以在Controls菜單中進行自定義。\n\n你也可以配置inventory插槽列出現前的延遲。\n\n非常感謝 William48822 提供了這個想法。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

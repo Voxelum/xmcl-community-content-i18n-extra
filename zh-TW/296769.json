@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ceebe79e6a28ffb5",
+  "content": "<p>将来自众多模组的各类矿石整合至 Just Enough Resources (JER) 的矿石生成图表功能中，本模组旨在填补未注册矿石生成的空白。</p>\n<p>&nbsp;</p>\n<p>目前支持的模组：<span style=\"font-size:10px\">后续将持续添加；欢迎贡献代码（<a href=\"https://github.com/Axieum/JER-Ore-Integration\" rel=\"nofollow\">开源项目</a>）</span></p>\n<p>&nbsp; &nbsp; - Biomes O' Plenty <span style=\"font-size:10px\">(\"biomesoplenty.json\")</span></p>\n<p>&nbsp;</p>\n<p><img src=\"https://i.imgur.com/EohwIVd.png\" alt=\"通过 JER 在游戏内展示坦桑石矿石\" width=\"321\" height=\"518\"></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:12px\">首次启动游戏时，该模组会创建一个名为 \"jeroreintegration\" 的文件夹。您可以使用与自动生成的文件相同的格式（或编辑这些生成的文件），按需添加或删除方块。</span></p>\n<div class=\"spoiler\">\n<p><span style=\"font-size:12px\">Just Enough Resources 支持四种生成类型：“square”（方形）、“triangular”（三角形）、“points”（点状）和 “underwater”（水下）：</span></p>\n<p><span style=\"font-size:12px\">“Square” 类型接受 “veinCount,veinSize,minY,maxY” 格式的数值；这是您将主要使用的生成类型，其他实现类型请参阅源代码。</span></p>\n</div>\n<p><span style=\"font-size:12px\">本人不拥有 <a href=\"https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer\" rel=\"nofollow\">Just Enough Resources</a> 模组的相关权利，该模组由 Way2muchnoise 创建。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

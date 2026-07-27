@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c3e60d5c99ec76ed",
+  "content": "## ItemFig 是什麼\nItemFig 是一個簡單的庫，用於在 MC Forge 中使用 JSON 保存和讀取物品的配置。\n\n該庫由 CrazedAerialCable 從頭開始編寫，但其靈感源自 Weaponworks 1.3 中看到的原始想法。當時這個想法是由非常厲害的模組製作者 Lyof 提供並進行原型設計的。我鼓勵大家去看看他的其他作品，例如 Sortilege 和 Ends Phantasm！\n\n## 當前功能：\n- 從 JSON 格式的配置文件中讀取和保存配置值。\n\n- 如果配置文件被刪除，會根據預設值自動重新創建配置文件。\n- 自動重新創建配置文件中缺失物品的所有值（例如，當添加新物品時）。\n- 自動重新創建物品字段的值（例如，當您想重置武器的傷害值時）。\n- 更改配置文件的位置和名稱（擴展名必須是 json）。\n\n## 當前限制\n\n以下是我意識到、能想到並且未來可能改進的地方：\n- 目前所有內容都放在一個配置文件中。\n- 您無法更改配置文件本身的路徑。它只會保存在 config 資料夾中。\n\nWiki: https://github.com/Hornster/ItemFig/wiki",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

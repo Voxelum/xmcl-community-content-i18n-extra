@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bb9c9ee6022b7611",
+  "content": "# 🌿 Easeon - Бустер опыта\n\n**Этот мод требует <a href=\"https://modrinth.com/mod/easeon-ss-core\" target=\"_blank\">EaseonSS-Core</a>**\n\n\n## Обзор\nУлучшите свой игровой процесс в Minecraft с помощью настраиваемых множителей опыта за убийство мобов!\n\n<br/>\n\n## Команды\nВсе команды требуют уровень оператора (OP) 2 по умолчанию.\n\n| Команда                      | Описание              |\n| ---------------------------- | ------------------------ |\n| /easeon xpbooster            | Просмотр текущих настроек     |\n| /easeon xpbooster <1-100>    | Изменение множителя опыта   |\n\n\n<details>\n<summary>Конфигурация</summary>\n\n```json\n{\n  \"value\": 2,\n  \"requiredOpLevel\": 2 // Для применения изменений требуется перезапуск сервера.\n}\n```\n`config/easeon/easeon.ss.xpbooster.json`\n\n</details>\n\n<br/>\n\n---\n\n### 🔗 Другие моды серии Easeon  \nИщете другие легкие и практичные моды в том же стиле?  \nПосмотрите другие моды из серии Easeon <a href=\"https://modrinth.com/user/Teron\" target=\"_blank\" rel=\"noopener noreferrer\">здесь</a>.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

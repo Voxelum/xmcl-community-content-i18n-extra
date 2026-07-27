@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d2411ba391ab11d8",
+  "content": "为 Minecraft 1.21.1 设计的 [EMI](https://modrinth.com/mod/emi) 插件，在 EMI 物品列表上方添加了一排创造模式标签页。\n\n## 依赖项\n\n- Minecraft 1.21.1\n- [EMI](https://modrinth.com/mod/emi)\n- Fabric Loader + Fabric API，**或者** NeoForge (21.1.x)\n\n## 已知问题\n\n- 不支持非默认的 EMI 设置\n  - 如果您移除右侧面板，标签页仍会保留\n  - 当面板位于其他位置时，标签页无法正常工作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

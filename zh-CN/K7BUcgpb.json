@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b12483d64c348593",
+  "content": "## 关于：\n添加了具有 2D 贴图的 3D 水桶，并根据桶内美西螈的变体提供不同的纹理。此外，如果您安装了 [Respackopts](https://modrinth.com/mod/respackopts)，还可以切换不同的纹理风格。本模组专为 [HMI 5.0](https://modrinth.com/mod/hold-my-items) 设计，但也适用于原版 Minecraft。\n\n## 未来计划：\n- 一旦 HMI 支持自定义动画，将为桶内的生物添加自定义动画\n\n## 依赖项：\n- **[可选]** **[Respackopts](https://modrinth.com/mod/respackopts)** - 更改纹理风格所必需\n- **[可选]** **[Hold my Items](https://modrinth.com/mod/hold-my-items)** - 某些功能（如岩浆发光效果）所必需\n\n如果您有任何问题或疑问，请加入我的 [Discord](https://discord.gg/yyu96tfSJw) 或访问 HMI Discord 上的论坛。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

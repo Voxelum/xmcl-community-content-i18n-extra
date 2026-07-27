@@ -1,0 +1,6 @@
+{
+  "bodyHash": "249e4f6a8d858075",
+  "content": "\n\n此数据包/模组添加了包含怪物刷怪笼和装满战利品的宝箱的塔楼地牢。 \n塔楼由一名会发射火球、拥有更高生命值的凋灵骷髅守卫。\n\n<details>\n<summary> 可能的战利品（截至 v. 1.2）</summary>\n  \n每层楼的宝箱中包含以下战利品表之一的物品：\n\n```\n  minecraft:chests/simple_dungeon\n  minecraft:chests/village/village_mason\n  minecraft:chests/stronghold_crossing\n  minecraft:chests/igloo_chest\n  minecraft:chests/village/village_fletcher\n  minecraft:chests/village/village_weaponsmith\n  minecraft:chests/village/village_toolsmith\n  battle_towers:treasure\n```\n\n而塔顶的宝箱仅包含以下战利品表的物品：\n```\nminecraft:chests/village/village_weaponsmith\nminecraft:chests/simple_dungeon\nbattle_towers:treasure\n```\n\n“宝藏”战利品表可能包含附魔书、钻石、绿宝石和金锭。\n</details>\n\n\n\n灵感源自 AtomicStryker 的 Battle Towers。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

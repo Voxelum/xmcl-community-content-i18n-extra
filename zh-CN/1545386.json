@@ -1,0 +1,6 @@
+{
+  "bodyHash": "938d12ca86beca2a",
+  "content": "\n\n<p><strong>GraphWaypoints</strong> 为《我的世界》添加了强大的航点系统，以提升你的导航体验。标记重要位置，在所有维度中追踪它们，并轻松分享坐标。这是每位探险家简单而实用的工具。</p>\n<hr>\n<h2>🛠️ 功能特点</h2>\n<ul>\n<li><strong>航点管理</strong>：通过直观的界面创建、自定义（名称、颜色）并组织所有维度的航点。</li>\n<li><strong>指南针导航</strong>：屏幕顶部的指南针栏会显示所有激活的航点，方便你在长距离移动时轻松追踪。</li>\n<li><strong>快捷键与分享</strong>：使用可配置的快捷键打开航点管理器（默认：<code>B</code>），或在界面遮挡时切换其可见性（默认：<code>K</code>）。你还可以通过按钮或服务器命令（<code>/c</code>）即时分享坐标。</li>\n</ul>\n<hr>\n<h2>📸 截图</h2>\n<h3>航点实际效果</h3>\n<p><img src=\"https://cdn.modrinth.com/data/me5Sp3Qd/images/789a3b0e4f31f6d257e17bd36f017402f55d54f9.png\" alt=\"简易航点\"></p>\n<h3>航点管理器</h3>\n<p><img src=\"https://cdn.modrinth.com/data/me5Sp3Qd/images/ab8aa8c829f3642c52fba39f42060b9834ac3bcf.png\" alt=\"航点管理器\"></p>\n<hr>\n<h2>📋 安装方法</h2>\n<ol>\n<li>安装 <strong>Fabric</strong> 和 <strong>Fabric API</strong>。</li>\n<li>将 <code>graph_waypoints.jar</code> 文件放入你的 <code>mods</code> 文件夹中。</li>\n<li>启动 Minecraft，并在“控制”菜单中配置快捷键（管理器默认：<code>B</code>，切换可见性默认：<code>K</code>）。</li>\n<li>服务器端：在服务器上安装以启用 <code>/c</code> 命令。</li>\n</ol>\n<hr>\n<h2>🔧 兼容性</h2>\n<ul>\n<li><strong>Minecraft 版本</strong>：1.21.11、26.1.x</li>\n<li><strong>模组加载器</strong>：Fabric</li>\n<li><strong>依赖项</strong>：Fabric API</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

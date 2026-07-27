@@ -1,0 +1,6 @@
+{
+  "bodyHash": "36a25f5310472553",
+  "content": "\n\n<h2>Аддон AStages-Curios</h2>\n<p>Этот мод обеспечивает интеграцию между <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/astages\" target=\"_blank\" rel=\"nofollow\">AStages</a></strong> и <strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/curios\" target=\"_blank\" rel=\"nofollow\">Curios</a></strong>.<br>\nОн позволяет авторам модпаков <strong>блокировать или разблокировать слоты экипировки Curios</strong> в зависимости от полученных игроком стадий.</p>\n<h3>Возможности</h3>\n<ul>\n<li>Запрещает игрокам надевать предметы Curios без соответствующей стадии.</li>\n<li>Полная интеграция между AStages и Curios.</li>\n<li>Идеально подходит для модпаков с прогрессией.</li>\n</ul>\n<blockquote>\n  <p>Для работы требуется установка как AStages, так и Curios.</p>\n</blockquote>\n<h3>Настройка</h3>\n<p>Примеры использования и варианты настройки см. в <strong><a href=\"https://github.com/Alessandro-Casale/AStages/wiki\" target=\"_blank\" rel=\"nofollow\">вики</a></strong>!</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "411dace7357af8ec",
+  "content": "<h1><strong>Дополнение к Minescript</strong></h1>\n<p>Добавляет небольшие улучшения к Minescript</p>\n<blockquote>\n<p>PlaceBlock</p>\n</blockquote>\n<ul>\n<li>Устанавливает блок из основной руки в указанных координатах</li>\n<li>Вам больше не нужно смотреть на позицию, где будет установлен блок</li>\n<li>использование:</li>\n</ul>\n<pre><code>extension.placeBlock(x, y, z)\n</code></pre>\n<blockquote>\n<p>PlaceOffhandBlock</p>\n</blockquote>\n<ul>\n<li>Устанавливает блок из вспомогательной руки в указанных координатах</li>\n<li>использование:</li>\n</ul>\n<pre><code>extension.placeOffBlock(x, y, z)\n</code></pre>\n<blockquote>\n<p>MineBlock</p>\n</blockquote>\n<ul>\n<li>Добывает блок в указанных координатах</li>\n<li>Вам больше не нужно смотреть на позицию, где будет добыт блок</li>\n<li>использование:</li>\n</ul>\n<pre><code>extension.mineBlock(x, y, z)\n</code></pre>\n<p><a href=\"https://github.com/Silberstern012/Minescript-Addition/blob/main/extension.py\" rel=\"nofollow\">extension.py</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

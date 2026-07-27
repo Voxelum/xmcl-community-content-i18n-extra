@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8e0934929df4bf9a",
+  "content": "\n\n# 概述\n一款对 tomdodd4598 的 [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod) 进行重制的科技模组。利用核材料产生无限能源！\n\n# 特性\n**注意：该模组目前处于非常早期的阶段，大部分功能尚未完成。你可能无法体验到完整的模组内容。**\n\n功能基本与原版 [NuclearCraft](https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod) 保持一致。不过，也有一些改动：\n- 裂变燃料现在分为三种不同类型（默认、氧化物、TRISO）\n- 裂变燃料的产率是原版模组的 16 倍（可配置），但产热量保持不变。\n\n# 未来计划\n- 完善机器种类\n- 重构多方块系统并实现反应堆\n\n# 问题追踪\n如果你发现任何 Bug 或问题，请在以下地址报告：https://github.com/FnWD/NuclearRelativisticsReborn/issues\n\n# 许可证\n本模组遵循 MIT 许可证分发。你可以自由地在你的整合包中使用它。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

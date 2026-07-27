@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d8f142e06af029c5",
+  "content": "# 功能│Function\n只要村民缺貨，他們就會進行工作來補貨，並且不會因為當天已經補貨了兩次就停止補貨。│Villagers will work to restock as long as they are out of stock, and will not stop restocking just because they have already restocked twice that day.\n# 使用示例影片│Usage example video\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/gv5DqxzRymc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

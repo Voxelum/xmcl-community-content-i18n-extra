@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f76567efe9970093",
+  "content": "<hr>\n<p>Добавляет поддержку <a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" rel=\"nofollow\">моду Create</a> для <a href=\"https://www.curseforge.com/minecraft/texture-packs/rusticsbottles\" rel=\"nofollow\">Rustic's Bottles</a></p>\n<h4>Инструкции по использованию:</h4>\n<ul>\n<li>Скачайте последнюю версию и поместите её в папку с ресурс-паком, как обычно</li>\n<li>Извлеките файл с именем &quot;DATAPACK.zip&quot; из загруженного zip-архива <strong>(Не распаковывайте DATAPACK.zip)</strong></li>\n<li>Либо скачайте <a href=\"https://www.curseforge.com/minecraft/mc-mods/kubejs\" rel=\"nofollow\">KubeJS</a> и поместите DATAPACK.zip в папку kubejs/data, либо установите датапак так же, как вы устанавливаете его в мир.</li>\n</ul>\n<p>Это необходимо, потому что без изменений от Create некоторые бутылки и предметы отображаются стоящими вместо того, чтобы лежать, как другие.</p>\n<h4>Если вы обнаружите какие-либо ошибки или у вас есть предложения, пожалуйста, сообщите об этом на моей <a href=\"https://github.com/Rustic-Potatoes/rusticsbottles-create-patch/\" rel=\"nofollow\">странице Github</a>.</h4>\n<hr>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

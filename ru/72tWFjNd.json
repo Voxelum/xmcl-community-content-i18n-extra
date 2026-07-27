@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6d0783c048cd563b",
+  "content": "\n\nДобавляет в мод [Modern Industrialization](https://modrinth.com/mod/modern-industrialization/) комбинированный шлюз ввода/вывода предметов и жидкостей. Добавляет в мод [Современная индустриализация](https://modrinth.com/mod/modern-industrialization/) шлюз, одновременно поддерживающий предметы и жидкости.\n\nПоддерживает создание комбинированных шлюзов для предметов и жидкостей с помощью [KubeJS](https://modrinth.com/mod/kubejs):  \nПоддерживает создание шлюзов с помощью [KubeJS](https://modrinth.com/mod/kubejs):\n\n```js\n// startup_scripts\\*.js\nMIMachineEvents.registerHatches(event => {\n    // Создание комбинированного шлюза для предметов и жидкостей..\n    // Создаёт комбинированный шлюз.\n    event.itemFluid(\"englishPrefix\",\"prefix\",\"casing\",bucketCapacity, rows, columns); \n})\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

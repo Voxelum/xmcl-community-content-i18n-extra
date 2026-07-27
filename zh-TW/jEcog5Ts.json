@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80de048966099c8c",
+  "content": "\n\n<p align=\"center\">\n    <img src=\"https://raw.githubusercontent.com/1by1Xayd/Bedrock-Inventory-Animations/refs/heads/master/BIA.png\" alt=\"Image\" width=\"300\" height=\"200\">\n</p>\n\n### 為 Smooth Swapping 的硬分支，仍在開發中！\n\n---\n\n<h3 align=\"center\">關於</h3>\n\nBedrock Inventory Animations 是一款客戶端模組，會為物品在物品欄中的移動加入動畫效果。\n\n- 支援 Fabric 與 NeoForge，適用於 Minecraft 1.21 以上版本（初始模組則從 1.19.4 起）\n\n- 若你使用 Fabric 版本，需要安裝 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)，並且需要 [Modmenu](https://modrinth.com/mod/modmenu) 才能開啟設定選單。\n\n---\n\n<p align=\"center\" style=\"text-align: center;\">物品欄內的平滑物品動畫</p>\n\n![](https://raw.githubusercontent.com/1by1Xayd/Bedrock-Inventory-Animations/refs/heads/master/inventory.gif)\n\n---\n\n<p align=\"center\" style=\"text-align: center;\">Bedrock Inventory Animations 設定選單</p>\n\n- 切換按鈕：啟用或停用模組\n\n- 滑桿：調整動畫速度\n\n- 曲線圖：變更動畫曲線\n  \n  - 在空白處按滑鼠右鍵可建立新的曲線點\n  \n  - 左鍵拖曳某個點即可移動它，不過第一個與最後一個點無法移動\n  \n  - 在點上按右鍵可將其刪除\n\n- 小型物品欄：供你測試動畫效果\n\n![](https://raw.githubusercontent.com/1by1Xayd/Bedrock-Inventory-Animations/refs/heads/master/settings.gif)\n\n---\n\n[下載](https://modrinth.com/mod/bia/versions)\n\n### 感謝 [Schauweg](https://modrinth.com/user/Schauweg) 與 Riflusso",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

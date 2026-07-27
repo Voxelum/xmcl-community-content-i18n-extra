@@ -1,0 +1,6 @@
+{
+  "bodyHash": "09d1b6064ebcf448",
+  "content": "\n\n# 火把\n\n为洞穴探险准备的石火把与火把箭矢\n\n![预览动画 WebP](https://github.com/TophC7/Torches/raw/main/public/preview.webp)\n\n## 石火把\n\n一种使用石制木棍而非木制木棍制作的火把。功能与原版火把完全相同，只是材质换成了石头。\n\n- **石棍**：2 圆石 → 4 石棍\n- **石火把**：煤炭/木炭 + 石棍 → 4 支石火把\n\n## 火把箭\n\n箭头装有燃烧火把的箭矢。命中目标时，会在命中的表面（地面或墙壁）上放置一支火把，并对命中的实体造成短暂的火焰伤害。\n\n- **合成**：箭 + 火把 → 1 支火把箭\n- **制作台**：箭 + 火把 → 4 支火把箭（需要 [制作台](https://modrinth.com/mod/thefletchingtable)）\n\n可与弓和弩配合使用。\n\n## 配置\n\n设置位于 `torches-common.toml` 中，也可通过游戏内配置界面访问。\n\n| 设置项 | 默认值 | 描述 |\n|---------|---------|-------------|\n| 命中引燃 | `true` | 火把箭命中时短暂引燃实体 |\n| 动态光源 | `true` | 火把箭在飞行过程中会发出动态光源（需要动态光源模组） |\n\n## 兼容性\n\n- 需要 NeoForge 1.21.1 (21.1.219+)\n- [制作台](https://modrinth.com/mod/thefletchingtable)（可选）—— 制作台配方可获得更高产出\n- [Sodium Dynamic\n\n## 许可证\n\nGPL-3.0-or-later",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

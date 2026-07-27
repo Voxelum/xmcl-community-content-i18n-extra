@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ed7f2fad78752b95",
+  "content": "<p><strong>Punchy! x Iron’s Spells First Person Animation Fix</strong> 是一個輕量級的客戶端兼容性模組，適用於 <strong>Punchy!</strong> 和 <strong>Iron’s Spells &rsquo;n Spellbooks</strong>。</p>\n<p>當啟用着色器時，施放法術可能會導致兩個模組同時渲染玩家的手部和所持物品。這會在第一人稱視角中產生重複的手部或物品顯示。</p>\n<p>本模組會在施放法術期間暫時禁用 Punchy 的第一人稱渲染功能，使 Iron’s Spells 能夠正常顯示其自身的施法動畫。一旦法術結束，Punchy 會自動恢復其動畫效果。</p>\n<h3>功能特點</h3>\n<ul>\n<li>修復施放法術時手部與所持物品的重複顯示問題</li>\n<li>保留 Iron’s Spells 的施法動畫可見性</li>\n<li>施法結束後自動恢復 Punchy 動畫</li>\n<li>支持着色器</li>\n<li>僅限客戶端使用</li>\n<li>無需配置</li>\n</ul>\n<h3>兼容性</h3>\n<ul>\n<li>Minecraft 1.20.1</li>\n<li>Forge 47.4.20</li>\n<li>Punchy! 2.6.2</li>\n<li>Iron’s Spells &rsquo;n Spellbooks 3.16.2</li>\n</ul>\n<p>本模組需要同時安裝 <strong>Punchy!</strong> 和 <strong>Iron’s Spells &rsquo;n Spellbooks</strong> 才能運行。</p>\n<p>&nbsp;</p>\n<p>我的整合包：<a href=\"https://www.curseforge.com/minecraft/modpacks/warspire\" target=\"_blank\" rel=\"nofollow\">https://www.curseforge.com/minecraft/modpacks/warspire</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

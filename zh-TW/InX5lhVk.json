@@ -1,0 +1,6 @@
+{
+  "bodyHash": "724cb5612f42db80",
+  "content": "# 地牢寶箱\n一個簡單的資源包，將普通寶箱、陷阱寶箱和末地寶替換為《我的世界：地牢》中的模型！\n![幾個寶箱](https://cdn.modrinth.com/data/InX5lhVk/images/c52ec221d0ef165cc5a1c1c7623a2f3193083aab.png)\n\n末地寶箱也帶來了新音效和有趣的動畫！\n![末地寶箱動畫](https://cdn.modrinth.com/data/InX5lhVk/images/6be3f550afe6a311dc5672f974721dcd45fbd0f1.gif)\n\n## 依賴項\n此資源包需要 Entity Texture Features 和 Entity Model Features\n\n[![Entity Texture Features](https://raw.githubusercontent.com/Traben-0/Entity_Texture_Features/master/.github/README-assets/icon.png)](https://modrinth.com/mod/entitytexturefeatures)\n[![Entity Model Features](https://github.com/Traben-0/Entity_Model_Features/blob/master/src/main/resources/icon.png?raw=true)](https://modrinth.com/mod/entity-model-features)\n\n也可使用 Optifine 作為替代方案",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

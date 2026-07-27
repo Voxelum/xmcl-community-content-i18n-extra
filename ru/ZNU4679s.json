@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a754650f37295a82",
+  "content": "# Феликс крыс!\nМод Minecraft, который добавляет несколько милых монстиков :)\n\nКрыс можно [приручить](https://github.com/ItsFelix5/Felixs-Rats/blob/master/src/main/resources/data/rats/tags/item/rat_eatable.json), и они будут появляться в любых структурах.\n\nСоздадут бой за вас, исцеляются если у них есть еда, приносят [ценности](https://github.com/ItsFelix5/Felixs-Rats/blob/master/src/main/resources/data/rats/tags/item/valuable.json), руду и дерево, фермируются, размножаются, взрывают все, что угодно, что вы могли бы ожидать от крысы! \n\n### Наборы\nНабор ![](https://github.com/ItsFelix5/Felixs-Rats/blob/master/src/main/resources/assets/rats/textures/item/rat_bundle.png?raw=true):\n- Использовать на крысу чтобы поднять её (поднимите чтобы поднять всех)\n- Прикапывание + клик по блоку чтобы освободить\n- Правый клик воздушным пространством с пакетом в левой руке чтобы бросить (нажмите shift чтобы бросить всех)\n\nПакет творчества ![](https://github.com/ItsFelix5/Felixs-Rats/blob/master/src/main/resources/assets/rats/textures/item/creative_rat_bundle.png?raw=true):\n- Spawn крыс при нажатии\n- Если в правой руке, крысы spawn уже приручены",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

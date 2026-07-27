@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f048c7bcb6b1ff2",
+  "content": "\n\n# 孤獨\n\\sɔ.li.tyd\\\n\n一切看起來都像正常的世界，但總覺得哪裡不太對勁。\n你察覺到少了些什麼，卻說不出到底是什麼。\n\n孤獨與畏懼感逐漸湧上心頭。\n\n### 極致的孤獨。\n\n不會有怪物或動物生成，必須靠你自己在一片荒蕪且毫無生機的\n大地上求生。這對於經驗豐富的玩家而言也是一項獨特的挑戰，\n因為許多物品只能透過戰利品箱取得。\n\n<details>\n<summary>功能特色</summary>\n\n- 阻止大部分實體生成\n  - 主要例外：物品、終界水晶、船、投射物、礦車（及其他少數）\n- 因此還需要進行一些其他調整：\n  - 烈焰棒現在會出現在地獄要塞箱子與藏寶堡壘中\n    （末影珍珠的取得方式沒有變更，因為它們仍可在要塞與試煉密室中找到）\n  - 終末之地的戰鬥已針對沒有龍的情況進行了調整\n- 多人遊戲功能大多已被移除\n  - 你仍然可以在伺服器上遊玩（與此模組無關），但所有未列入白名單的實體 \n  \t都會變得不可見（包括其他玩家）\n  - 無法使用 Minecraft Realms。\n\n</details>\n\n#### 連結\n\nModrinth：https://modrinth.com/mod/solitude\n\nCodeberg：https://codeberg.org/owlsys/solitude\n\nCurseForge：https://www.curseforge.com/minecraft/mc-mods/solitude\n\n#### 授權\n\n本模組採用歐盟公共授權條款 1.2 版授權。\n如需更多資訊，請參閱模組儲存庫中的 `LICENSE` 檔案。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

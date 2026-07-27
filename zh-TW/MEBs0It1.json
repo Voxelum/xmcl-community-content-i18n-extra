@@ -1,0 +1,6 @@
+{
+  "bodyHash": "013514f4df3e6bdc",
+  "content": "Smooth Creeper 會改變苦力怕的爆炸效果，使其所有掉落物都附帶絲綢之觸，並掉落所有方塊。這不僅讓修復苦力怕炸出的坑洞變得更加容易，還提供了一種在遊戲前期獲取絲綢之觸方塊的方法（儘管過程有點混亂！）。\n\n![草和石頭方塊從爆炸中以物品形式掉落](https://cdn.modrinth.com/data/MEBs0It1/images/cf08f4f3209e87ca131e4e145e4ac0b884e7bd2e.png)\n\n**注意：** 為了實現掉落所有方塊的功能，該模組將 `mobExplosionDropDecay` 這個遊戲規則的預設值設為 `false`。如果您是在已有的世界中添加此模組，您必須使用指令 `/gamerule mobExplosionDropDecay false` 手動設定該遊戲規則。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

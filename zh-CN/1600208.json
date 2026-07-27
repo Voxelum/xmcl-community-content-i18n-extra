@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2e9de31f7d1a08a5",
+  "content": "\n\n<p>AdvancedAE Addon 是一款基于 NeoForge 的 Applied Energistics 2 与 Advanced AE 扩展插件。</p>\n<p>它为 Advanced AE 的量子制造器添加了 AE2 合成卡支持。当安装合成卡后，量子制造器可从 ME 合成网络请求配方所需的缺失输入物品，而不会因原料不足而陷入阻塞。</p>\n<h2>功能特性</h2>\n<ul>\n<li>将 AE2 合成卡作为量子制造器的升级组件加入。</li>\n<li>通过 AE2 的合成系统请求缺失的输入物品。</li>\n<li>支持量子制造器速度升级，最多安装四张速度卡可实现每游戏刻 64 次合成。</li>\n<li>遵循最小输入库存设置。</li>\n<li>计算请求输入数量时，会遵守输出上限数量。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

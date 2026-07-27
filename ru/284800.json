@@ -1,0 +1,6 @@
+{
+  "bodyHash": "db633f142bde0a76",
+  "content": "\n\n<p>Passive Aggression&nbsp;добавляет пассивным мобам новый паттерн поведения ИИ, включая: ИИ атаки для «пассивных» мобов, в том числе мобов из других модов!</p>\n<p>&nbsp;</p>\n<p>Файл конфигурации содержит:</p>\n<pre>\"main configs passive mob ai\" {\n    # Задаёт урон при атаке [диапазон: 1.0 ~ 10.0, по умолчанию: 2.0]\n    S:\"Passive Mob Attack Damage\"=2.0\n\n    # Включить зов на помощь? [по умолчанию: true]\n    B:\"Passive Mob Call for Help\"=true\n\n    # Включить долговременную память? [по умолчанию: true]\n    B:\"Passive Mob Long Term Memory\"=true\n}</pre>\n<p>&nbsp;Если вы хотите присоединиться к нашему сообществу Discord, вы также сможете быстрее получить помощь и сообщить о проблемах.</p>\n<p>&nbsp;</p>\n<p><a href=\"https://discord.gg/gRQrRGr\" rel=\"nofollow\"><img src=\"https://i.imgur.com/u2IBXuM.png\" width=\"217\" height=\"74\"></a></p>\n<p>&nbsp;</p>\n<p>Если вы хотите поддержать меня и этот мод.</p>\n<p><strong>Patreon:</strong> <a href=\"https://www.patreon.com/kashdeya\" rel=\"nofollow\">https://www.patreon.com/kashdeya</a></p>\n<p>&nbsp;</p>\n<p><strong>Политика относительно сборок модов:</strong><br>вы можете свободно включать его в свои модпаки.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

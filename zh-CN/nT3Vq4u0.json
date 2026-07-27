@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80b5e62e21b33de5",
+  "content": "# 从 Sinytra Connector v2.0.0-beta.10 开始已不再需要！\n\n***\n\n本模组实现了一个针对 [https://github.com/Sinytra/Connector/issues/1343](https://github.com/Sinytra/Connector/issues/1343) 的变通方案，该问题会导致在同时安装 Sinytra Connector 和某些 Fabric 模组时无法游泳（并引发其他一些问题）。一旦上游问题得到正式修复，此模组将被下架。\n\n更具体地说，本模组修复了 Sinytra Connector 意外将其置空后 NeoForge 内置的属性——包括 SWIM_SPEED（游泳速度）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

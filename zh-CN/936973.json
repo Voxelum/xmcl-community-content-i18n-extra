@@ -1,0 +1,6 @@
+{
+  "bodyHash": "901ccacc369037ae",
+  "content": "<p>一个服务端模组，允许您自定义聊天窗口中任何进度（Advancements）的外观，以及当进度达成时执行的命令。</p>\n<p>&nbsp;&nbsp;<br><img src=\"https://media.forgecdn.net/attachments/758/622/adv.png\" width=\"760\" height=\"59\"></p>\n<p>&nbsp;</p>\n<p>配置文件结构如下所示：</p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmedia.forgecdn.net%252fattachments%252f758%252f693%252fcode.png\" target=\"_blank\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/758/693/code.png\" width=\"748\" height=\"400\"></a></p>\n<p><br><span style=\"text-decoration:underline\"><strong>文件内的每个 JSON 对象代表一个进度：</strong></span></p>\n<p>&nbsp;</p>\n<ul>\n<li>键（Key）是进度的 ID。</li>\n<li>“message”属性的值是将在聊天中显示的消息，使用原版聊天格式以及占位符 ${player}（玩家显示名称）和 ${advancement}（进度显示名称及悬停描述）。<br></li>\n<li>“command”属性的值是一个命令列表，当进度达成时将执行这些命令，使用占位符 ${player}（玩家显示名称）。<br>&nbsp;\n<p><img src=\"https://media.forgecdn.net/attachments/758/678/forge-fabric.png\" width=\"390\" height=\"94\"></p>\n您可以自由地在任何整合包中使用此模组！</li>\n</ul>\n<p>&nbsp;<a href=\"https://discord.gg/tWf5NYwHwH\" rel=\"nofollow\"><img src=\"https://media.forgecdn.net/attachments/758/677/discord-banner.png\" width=\"488\" height=\"104\"></a></p>\n<div>&nbsp;</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

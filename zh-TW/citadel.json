@@ -1,6 +1,6 @@
 {
-  "bodyHash": "L4BfkbkpCHw=",
-  "content": "![Citadel-Logo](https://i.imgur.com/KyeiwRx.png)\n\n「根據我對歷史資料的分析，有97.34%的機率你已經知道我在你們星球上的誕生，以及我在Citadel站上重生為美麗的存在。」——《System Shock 2》\n\nCitadel 是一個用於 1.14 及以上版本中進階動畫與實體屬性的函式庫模組。作為一個函式庫，Citadel 本身並未新增太多功能，而是為其他模組提供了框架，用於製作實體動畫、載入 .tbl Tabula 及 .obj Waveront 模型，以及記錄實體屬性。Citadel 的前身 LLibrary 將不再支援 1.12.2 以後的版本，從今以後我所有的模組都將使用 Citadel。Citadel 的程式碼主要源自 LLibrary，並經由 LLibrary 的維護者及近期版本作者 Gegy1000 的許可而使用。\n\n在 1.6.3 及以上版本中，還新增了一個設定選項，可調整區塊生成時生物出現的上限。這對於搭配許多需要 Citadel 的生物模組特別有用，因為若不調整此設定，這些模組可能會讓原版生物變得難以遇到。\n\n想要使用 Citadel 的開發者可以閱讀[如何在開發環境中導入它的指南](https://github.com/Alex-the-666/Citadel/wiki/Getting-Started)。",
+  "bodyHash": "d545a078f4f1d9d9",
+  "content": "![Citadel-Logo](https://i.imgur.com/KyeiwRx.png)\n“我对历史数据的分析表明，你有 97.34% 的概率知道我在你的星球上的诞生，以及我在堡垒空间站重获新生。” ——《System Shock 2》\n\n堡垒（Citadel）是一个库模组，用于在 1.14 及更高版本中提供高级动画和实体属性支持。作为库模组，堡垒本身并不添加太多功能，而是为其他模组提供了一个框架，用于实体动画、加载 .tbl Tabula 和 .obj Waveront 模型，以及追踪实体属性。堡垒的前身 LLibrary 将不再从 1.12.2 版本开始更新，从现在开始我所有的模组都将使用堡垒。堡垒的代码库主要源自 LLibrary，其代码的使用已获得 LLibrary 的维护者及近期版本的作者 Gegy1000 的许可。\n\n在 1.6.3 及更高版本中，还有一个配置选项可以更改区块生成时的生物生成上限。这在搭配需要堡垒的众多生物模组时非常有用，因为如果不调整此设置，它们可能会让原版生物变得难以寻找。\n\n希望使用堡垒的开发者可以阅读[有关如何将其添加到开发环境的指南](https://github.com/Alex-the-666/Citadel/wiki/Getting-Started)。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

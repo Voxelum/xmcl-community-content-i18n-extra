@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9cfa4172749ec00f",
+  "content": "\n\n# OneClickAnvil\n\n本模组仅在客户端运行。\n要启用此模组，你必须在模组设置中设置物品 ID 和重命名值。\n\n在铁砧界面中，按住 Shift 键点击该物品的第一组，将其移入输入槽。\n随后，模组将对该物品进行重命名，并对背包中剩余的同类型物品重复此操作。\n它会自动忽略已经拥有自定义名称的物品。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

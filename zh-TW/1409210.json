@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f451433f3d8352f3",
+  "content": "<p>這個模組最初是為 RLCraft 製作的，但其功能相同。現在你可以選擇讓哪些人進行狩獵，哪些人進行速度跑或作為跑者。<br><br>每個人在加入伺服器或世界時，都會自動成為狩獵者。<br>遊戲的開始方式完全取決於與你一起玩的人。<br>當所有跑者都死亡時，系統會在聊天框中宣布這一消息。<br>如果跑者殺死了終界龍，同樣會在聊天框中宣布。<br><br><strong>指令：<br>/manhunt add &lt;玩家名稱&gt;</strong> 將指定的玩家添加為跑者。<br><strong>/manhunt clear</strong> 清除跑者列表。<br><strong>/manhunt random &lt;數量&gt; </strong>隨機選擇伺服器中的 X 名玩家作為跑者。<strong><br>/manhunt list </strong>顯示狩獵者和跑者的列表。<br><br><strong>此外還有幾項配置選項：</strong><br>新加入的玩家是否會被傳送到坐標 0, 0。<br>死亡的跑者是否會變成狩獵者而非觀察者。<br>來自所有來源的經驗值增益倍率。<br>是否允許騎乘活的生物。<br><br><br><strong>基於 fonnymunkey 的 FermiumTemplateMod 開發&nbsp;<a href=\"https://github.com/fonnymunkey/FermiumTemplateMod/\" target=\"_blank\" rel=\"nofollow\">https://github.com/fonnymunkey/FermiumTemplateMod/</a></strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

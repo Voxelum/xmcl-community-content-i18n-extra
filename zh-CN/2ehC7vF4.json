@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4b2a0d7754f8b1c6",
+  "content": "\n\n本模组增加了 PlayerRevive、TaCZ 和 SuperbWarfare 模组之间的兼容性。它确保了在使用这些模组的先进战斗系统时，玩家复活机制能够正常工作。\n\n此外，本次更新修复了多个碰撞箱问题，提高了在不同玩家状态下伤害判定的准确性和一致性。\n\n还新增了一项机制：当玩家倒地（因坠落或丧失行动能力）后，其武器将被暂时禁用，直到玩家被复活前无法开火。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

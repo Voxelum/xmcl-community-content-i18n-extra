@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f47cd4dbbb287c21",
+  "content": "\n\n## 簡介\n當 Minecraft 遇到深度超過 512 的任意 Compound / List NBT 標籤時，它會拋出異常並拒絕載入存檔。\n\n此模組將此惱人的機制替換為無害的日誌警告，讓遊戲得以繼續進行。\n\n## 注意事項\n\n- 深度超過 512 的 Compound / List NBT 標籤本身即屬異常，收到日誌警告後，您可以透過 NBT 編輯器檢查您的存檔；\n- 您絕對可以將此模組加入您的模組包（modpack）中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

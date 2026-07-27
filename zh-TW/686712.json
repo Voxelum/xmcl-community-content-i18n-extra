@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d1216bbaa1e6caaa",
+  "content": "\n\n<p>原始版 Inventory Profiles 的一些所謂「微調」其實更像是作弊，而非調整。為了讓 Inventory Profiles Next 對整合包和伺服器更加友善，這些功能已被移除。</p>\n<h3>舉例來說</h3>\n<ul>\n<li>移除物品使用冷卻時間。</li>\n<li>移除方塊破壞冷卻時間。這使得創造模式的方塊破壞速度與 <code>急迫 II</code> + <code>效率 V</code> 相當。</li>\n<li>移除方塊放置冷卻時間。現在你不必再錯過大約每第五個方塊的放置了。</li>\n</ul>\n<p><strong>注意：</strong></p>\n<h3>這些功能在大多數伺服器上可能無法運作，或會被反作弊機制偵測標記。若無權限請勿使用。</h3>\n<p>本模組包含部分相關功能，未來可能會新增更多功能。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

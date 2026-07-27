@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cf009a960f8f1c0a",
+  "content": "![Luxora 光影](https://cdn.modrinth.com/data/cached_images/8201e20768630ca4b187572752e2525e6f38af35.png)\n\n# Luxora 光影包\n\n一款专为 Minecraft Java 版打造的电影级写实光影包。\n\nLuxora 光影包提供温暖、类似胶片的视觉效果，拥有金色的光照、自然的天空渐变以及干净的后处理效果。旨在为玩家呈现令人惊叹的世界，同时避免过度处理的痕迹。\n\n## 特性\n\n*   **电影级光照** — 温暖的金色阳光，全天不同时段均具备自然的色彩分级\n*   **4 种配色方案** — 电影感、自然、黄金时刻和月光\n*   **绝美水面** — 包含反射、焦散、波浪法线以及可选的泡沫效果\n*   **体积光（上帝之光）** — 围绕太阳的屏幕空间光柱效果\n*   **泛光（Bloom）** — 灯笼、火把和明亮表面产生柔和的光晕\n*   **体积云** — 华丽的云朵并带有银边效果\n*   **环境光遮蔽 (AO)** — 为方块和表面增添逼真的深度感\n*   **植被摇曳** — 植物和树叶随风摆动\n*   **可调节太阳/月亮大小** — 缩放比例从 0.5x 到 3x\n*   **抗锯齿** — 支持 TAA、SMAA 以及可选的图像锐化\n*   **远山模组 (Distant Horizons) 支持** — 兼容 DH 模组\n*   **自定义色调映射** — 独特的“Luxora”色调映射算子，用于呈现电影级高光\n*   **景深与运动模糊** — 可选的相机特效\n*   **3 种性能配置文件** — 快速 (Fast)、华丽 (Fancy) 和 极致 (Fabulous)\n\n## 要求\n\n*   Minecraft Java 版\n*   Iris Shaders 或 OptiFine\n\n## 鸣谢\n\n*   基于 TheCMK 开发的 Mellow Shader 的代码。\n\n*   由 HoneyStudios 制作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

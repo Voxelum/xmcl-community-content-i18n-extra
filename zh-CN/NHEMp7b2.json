@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d1985feca3787ee1",
+  "content": "# WeatherCore\n\nWeatherCore 是一个侵入式核心库模组，它彻底重写了 Minecraft 硬编码的天气系统，将其替换为一个灵活的天气系统，并支持注册新的天气类型。\n\n## 用户须知\n单独安装此模组不会改变原版天气，但由于用复杂的天气管理系统替换了硬编码的天气计时器，可能会影响 Minecraft 选择下一个天气状态的方式。\n\n__仅在依赖项要求时安装 WeatherCore。__\n\n## 主要功能\n- **自定义天气注册表**：注册自定义天气条件。\n- **天气管理**：用管理系统替换原版的基础计时器。\n- **作用域（Scoping）**：作用域定义了天气条件在关卡内影响的区域。天气本身并不“知道”自己属于哪个作用域，因此任何自定义天气条件都可以被召唤为全局生效或居中生效。\n- 替换了 `/weather` 命令并添加了 `/toggledownfall` 命令。\n\n## 天气作用域\n使用此库创建的每个自定义天气条件在被召唤时都会拥有一个作用域。它可以是：\n- **全局作用域（跨维度）**\n  - 非常适合原版风格的天气\n  - 影响整个维度\n- **居中作用域**\n  - 非常适合事件，例如核爆后的辐射尘或激活神秘巨石后的诅咒雾霭\n  - 适合让玩家装饰他们的建筑\n  - 也许适合龙卷风？为什么不直接用实体呢？\n\n## 开发\n\nWeatherCore 目前正处于积极开发阶段，主要服务于我自己的项目。我正在寻求其他开发者的反馈，以使该模组更具通用性，并确保它能与其他模组顺利集成。\n\n如果您想使用 WeatherCore，请使用 Modrinth Maven 中的工件：\n```gradle\nrepositories {\n    maven {\n        name = \"Modrinth\"\n        url = \"https://api.modrinth.com/maven\"\n    }\n}\n\ndependencies {\n    modImplementation \"maven.modrinth:weathercore:mc1.21.1-0.1.0\"\n}\n```\n\n## 致谢\n\nWeatherCore 和 Weather Extended 的图标由 [anyputer](https://github.com/anyputer) 制作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

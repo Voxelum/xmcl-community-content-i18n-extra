@@ -1,0 +1,6 @@
+{
+  "bodyHash": "95c4eff5e2a27fb4",
+  "content": "<a href='https://ko-fi.com/X8X71FI3YO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://i.postimg.cc/SQ5ZLKg5/support-me-on-kofi-beige.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>\n\n## Описание\nЭтот датапак/мод добавляет шахматы в Minecraft.\n\nЧтобы получить доску, её нужно скрафтить (версия 1.20.5+) или ввести команду ``` /function chess:summon/summon ```.\n\n![preview](https://cdn.modrinth.com/data/dnszcN9T/images/ddb7d2b3281bbbf51786d74b651402f635c6373a.png)\n\nДля совершения хода необходимо кликнуть по фигуре, а затем по полю, куда вы хотите её переместить. Мод поддерживает двойной ход пешки, рокировку и взятие на проходе.\n\nКоманда для смены стиля фигур:\n```\n/function chess:replace_figures\n```\n\nЧтобы убрать доску с фигурами, используйте следующие две команды:\n\n``` /execute as @e[tag=bizcub.chess] on passengers run kill @s ```\n\n``` /kill @e[tag=bizcub.chess] ```\n\n## Крафт\n\n![preview](https://cdn.modrinth.com/data/dnszcN9T/images/80772c0c94aa30c78dedf9c83364605cb1a7e25a.png)\n\n![preview](https://cdn.modrinth.com/data/dnszcN9T/images/a341a43f2a308f52db1c980321216a90b58f902a.png)\n\n## Зависимости\n- Fabric loader требует [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "de30f8fb3331295e",
+  "content": "\n\n點擊 GUI 外部即可關閉目前畫面。\n\n支援背包畫面與聊天畫面，並與 JEI 相容。\n\n![Demo.gif](https://cdn.modrinth.com/data/STmMQcNi/images/80a79e46123b5c68023a7efff3f9cca5c9c73bb4.gif)\n\n應可與大多數會為畫面新增按鈕的模組相容。若模組採用非典型方式加入按鈕，則可能需要特別處理。若您發現任何不相容或其他問題，歡迎前往問題回報頁面提出新議題，或在 Discord 上私訊通知我。\n\n### 問題回報\n\n您可以在 [Github](https://github.com/SoundsoftheSun/close-my-screen/issues) 或 [Codeberg](https://codeberg.org/SoundsoftheSun/close-my-screen/issues) 提交問題回報。\n\n圖示由 CyndaFR 製作。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

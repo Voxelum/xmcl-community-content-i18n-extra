@@ -1,6 +1,6 @@
 {
-  "bodyHash": "mx9mlCoOg/0=",
-  "content": "一個輕量級的 **Fabric** 模組，適用於 Minecraft 1.21.10+，當你切換主手物品時，會顯示一個流暢、動態的彈出視窗，展示物品的統計數據。\n\n## ✨ 功能特色\n- **動態統計數據**：顯示攻擊傷害和耐久度。\n- **附魔列表**：展示物品上所有當前的附魔效果。\n- **淡出動畫**：平滑的淡出效果，避免介面雜亂你的螢幕。\n- **輕量級**：使用原版 Minecraft 渲染技術，專注於效能優化。\n\n## 🛠️ 安裝步驟\n1. 確保你已安裝適用於 1.21.10+ 的 **Fabric Loader** 和 **Fabric API**。\n2. 從 **官方 Modrinth、CurseForge（稍後上架）或 GitHub 頁面** 下載模組的 .jar 檔案，並將其放入 .minecraft/mods 資料夾中。",
+  "bodyHash": "c71ba599ed691bde",
+  "content": "一個輕量級的 **Fabric** Minecraft 1.21.10+ 模組，當您在主手切換物品時，會顯示一個簡潔、帶有動畫效果的彈出視窗，展示物品統計數據。\n\n## ✨ 功能\n- **動態統計數據**：顯示攻擊傷害和耐久度。\n- **附魔列表**：顯示物品上所有現有的附魔。\n- **淡出動畫**：平滑的淡出效果，避免介面雜亂地佔據您的螢幕。\n- **輕量級**：使用原生 Minecraft 渲染技術開發，注重效能。\n\n## 🛠️ 安裝方法\n1. 確保您已為 1.21.10+ 版本安裝了 **Fabric Loader** 和 **Fabric API**。\n2. 從 **官方 Modrinth、CurseForge（稍後推出）或 GitHub 頁面** 下載模組的 .jar 檔案，並將其放入 .minecraft/mods 資料夾中。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

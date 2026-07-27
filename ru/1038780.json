@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0a6bdc33a00925a9",
+  "content": "\n\n<p>ARLib 1.21.1 включает:</p>\n<ul>\n<li>логику работы с мультиблочными конструкциями</li>\n<li>логику управления рецептами / загрузки из XML,&nbsp;</li>\n<li>простые модульные GUI</li>\n<li>простой сетевой интерфейс для передачи данных на основе NBT</li>\n<li>загрузчик .obj-моделей для отрисовки BlockEntity</li>\n<li>несколько переопределений шейдеров для добавления uniform-переменных NormalMat и UVOffset</li>\n</ul>\n<p>&nbsp;</p>\n<p>Репозиторий для 1.12.2: <a href=\"https://github.com/dercodeKoenig/libVulpes-fork2\" rel=\"nofollow\">dercodeKoenig/libVulpes-fork2</a></p>\n<p>Репозиторий для 1.21.1: <a href=\"https://github.com/dercodeKoenig/aos_mods/\" rel=\"nofollow\">dercodeKoenig/ARLib-neoforge-1.21</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

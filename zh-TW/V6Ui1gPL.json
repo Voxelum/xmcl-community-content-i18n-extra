@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0408ab9ec70650c7",
+  "content": "\n\n這是為《Minecraft Transit Railway 4》設計的資源包，新增美國多個城市的 PIDS。\n\n## 目前已包含的 PIDS\n- 芝加哥交通局 CTA（站台模式，用於 PIDS 1A）\n- 芝加哥交通局 CTA（車站模式，用於 RV PIDS）\n- WMATA LED PIDS（舊版/GaP）\n- WMATA LED PIDS（新版/InGaN）\n- WMATA LCD PIDS（灰色）\n- WMATA LCD PIDS（藍色）\n- 芝加哥交通局 CTA 公車 PIDS\n- WMATA 公車 PIDS（橘色變體）\n- WMATA 公車 PIDS（白色變體）\n- 紐約地鐵 A 線系統\n- 紐約地鐵 B 線系統\n- 紐約地鐵 B 線系統（新設計）\n- 紐約地鐵 7 號線變體\n- 紐約地鐵 L 號線變體\n- SEPTA（小型）\n- SEPTA（大型）\n- BART\n- LA Metro\n- Sound Transit\n- Amtrak 站台 LED PIDS\n- Amtrak 車站 LCD PIDS\n\n## 未來計畫\n### v5.0\n- 改善 PIDS 投影機相容性\n- 新增 LA Metro PIDS 變體\n- 於 CTA PIDS 車站模式中新增時鐘\n- 新增長島鐵路 PIDS\n- 新增邁阿密都會運輸局 PIDS\n- 新增 PATH PIDS\n- 修改 BART PIDS 以顯示兩班到達列車\n\n## 相依性\n- [Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway) v4.0.0+\n- [Joban Client Mod](https://modrinth.com/mod/jcm) v2.0.0+\n\n## 支援\n若您使用此資源包時需要協助，或希望建議新功能，歡迎在 MTR Discord 伺服器上 @我 (@Kia Granbird Judge)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

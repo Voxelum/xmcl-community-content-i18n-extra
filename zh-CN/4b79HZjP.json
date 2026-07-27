@@ -1,0 +1,6 @@
+{
+  "bodyHash": "404e2b1806e330f1",
+  "content": "这个非官方插件为 **Shield Statuses** 扩展了原版模组的功能，实现了全局盾牌状态追踪。它不再仅在你亲自击碎对手的盾牌时更新，而是会处理渲染范围内所有玩家造成的所有盾牌破碎事件。\n\n![global shield tracking](https://cdn.modrinth.com/data/cached_images/39ebe2859eb1c14097e6bbe4efa6197efad4e444.png) \n![global shield tracking](https://cdn.modrinth.com/data/cached_images/234f2b0f7f3059112c0bbe2f66357d2d988adbd2.png)\n\n此外，它还包含了对 **Punchy** 模组的兼容性修复。此前，在使用 Punchy 时禁用对手的盾牌，错误地会在你自己的屏幕上触发冷却时间视觉效果。该插件彻底解决了这一冲突，确保所有盾牌状态都能准确呈现。\n\n![punchy fix](https://cdn.modrinth.com/data/cached_images/27c26ec0475aa66850ea6b259901dd1f6a6b06c2.png)\n![punchy fix](https://cdn.modrinth.com/data/cached_images/543a3f4da7ba65746ffb9c6940e44011467bc210.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

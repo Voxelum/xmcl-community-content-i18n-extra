@@ -1,0 +1,6 @@
+{
+  "bodyHash": "39e1976fff7c0856",
+  "content": "<h1>为 EMI 打造</h1>\n<p>你一定经历过这样的时刻：你打开 EMI 查看某个配方需要什么材料，然后去翻找你的 Stock Keeper（库存管理器），看看工厂里已经有什么存货。两个界面来回切换，还要滚动很多次。</p>\n<p><strong>Create for EMI</strong> 将这两者结合在一起。</p>\n<p>一旦你在 EMI 中查看配方树，一个新的分类就会<strong>直接出现在你的 Stock Keeper 顶部</strong>。它只收集物流网络中已有资源所支持的配方所需材料。一目了然，你就能知道哪些材料已备齐，哪些还缺失。</p>\n<hr>\n<h2>功能特性</h2>\n<p><strong>📋 配方与库存，合二为一</strong>\n不再需要在 EMI 和 Create 之间来回切换。你所查看的配方的原材料会直接在库存管理器中高亮显示。</p>\n<p><strong>⚡ 实时更新</strong>\n当你向订单篮中添加物品时，显示内容会即时更新。你可以清楚地看到还需要添加什么，无需离开当前界面。</p>\n<p><strong>🎚️ 自定义设置</strong></p>\n<ul>\n<li>随时开启或关闭此功能。</li>\n<li>选择分类出现的时间：<strong>始终</strong>在打开配方时显示，或<strong>仅在 EMI 的合成模式下</strong>显示。</li>\n<li>决定未完成的订单篮是否计入计算结果。</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

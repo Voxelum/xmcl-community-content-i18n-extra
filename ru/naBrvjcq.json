@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0ef980e13c2782f2",
+  "content": "\n\n<img src=\"https://cdn.modrinth.com/data/naBrvjcq/images/0d781f3f3a7f93cb70b2d7808e9fe2ae526a51f0.png\" width=\"500px\" alt=\"демонстрация\">\n\n# Filters API\n\nFilters API — это простая в использовании, открытая и полнофункциональная библиотека, предоставляющая систему фильтрации для категоризации вкладки режима творчества вашего мода.\n\nFilters API упрощает поиск предметов: на левой стороне экрана режима творчества добавляются новые вкладки фильтров, позволяющие ограничивать отображаемые предметы в зависимости от их категории. Filters API также поддерживает сбор предметов без категории в фильтр «Без категории», чтобы избежать их исчезновения из списка.\n\nВдохновлено [модом Filters Mod](https://github.com/MrCrayfish/Filters) и [модом MrCrayfish's Furniture Mod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod).\n\n## Вики для разработчиков\n\n[https://mc-filters.netlify.app/](https://mc-filters.netlify.app/)\n\n## Локализация\n\nFilters API переводится с помощью [ZiYue Weblate](https://weblate.ziyuesinicization.site/engage/filters-api/).\n\n[![](https://weblate.ziyuesinicization.site/widget/filters-api/multi-auto.svg)](https://weblate.ziyuesinicization.site/engage/filters-api/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

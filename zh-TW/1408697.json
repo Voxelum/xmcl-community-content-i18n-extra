@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aa5b77f03633949c",
+  "content": "<h2><img src=\"https://media.forgecdn.net/attachments/description/null/description_ef3fd2ac-c21a-41cb-aa2f-246d41a903ba.gif\" alt=\"GIF. Player inventory is open. All their items are transforming into random new items every half second.\" width=\"704\" height=\"664\"></h2>\n<h2>概述</h2>\n<p>每30秒（可配置），玩家背包中的所有物品都会变为随机的新物品。</p>\n<p>如果您想使用此资源包制作视频或内容，请尽管去做！如果这样做，您必须注明我的名字（Ambiguous Chameleon），并在描述和/或评论中提供此资源包的链接。谢谢！</p>\n<p>&nbsp;</p>\n<h2>作弊指令</h2>\n<p><strong>切换屏幕顶部随机化倒计时显示的可见性。默认显示</strong></p>\n<pre><code>/trigger ac.inv_random.hide_bossbar\n</code></pre>\n<p><strong>设置物品被随机化的频率（以刻为单位）</strong></p>\n<pre><code>/trigger ac.inv_random.set_interval set &lt;value&gt;</code></pre>\n<p><strong>设置每次随机化时变化的物品数量</strong></p>\n<pre><code>/trigger ac.inv_random.set_random_count set &lt;value&gt;</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

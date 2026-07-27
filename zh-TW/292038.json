@@ -1,6 +1,6 @@
 {
-  "bodyHash": "IpCuZh6EUSQ=",
-  "content": "<p><em>這是一個 Forge 模組。如需此模組的 Fabric 版本，請前往 <a href=\"https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric\" rel=\"nofollow\"><strong>這裡</strong></a>。</em></p><p>這個模組可以在玩家列表中顯示每位玩家的延遲數值。</p><p>&nbsp;</p><p><img src=\"https://vladmarica.com/assets/minecraft/better-ping-display.png\" width=\"234\" height=\"94\"></p><p>&nbsp;</p><p>這是個客戶端模組，伺服器不需要安裝。甚至可以在原版伺服器上使用。</p><p>&nbsp;&nbsp;</p><p><span style=\"font-size:14px\"><strong>需求</strong></span></p><p>Minecraft Forge</p><p>&nbsp;</p><p><span style=\"font-size:14px\"><strong>設定</strong></span></p><p>各項設定功能的說明請參閱&nbsp;<a href=\"https://github.com/vladmarica/better-ping-display-fabric#configuration\" rel=\"nofollow\">https://github.com/vladmarica/better-ping-display#configuration</a>。</p>",
+  "bodyHash": "d53a2430417fb184",
+  "content": "<p><em>這是一個 Forge 模組。若要下載此模組的 Fabric 版本，請<a href=\"https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric\" rel=\"nofollow\"><strong>點擊這裡</strong></a>。</em></p>\n<p>一個在玩家列表中以數字顯示每個玩家延遲（ping）值的模組。</p>\n<p>&nbsp;</p>\n<p><img src=\"https://vladmarica.com/assets/minecraft/better-ping-display.png\" width=\"234\" height=\"94\"></p>\n<p>&nbsp;</p>\n<p>這是一個僅限客戶端的模組。伺服器不需要安裝它。即使在原版伺服器上遊玩也可以使用。</p>\n<p>&nbsp;&nbsp;</p>\n<p><span style=\"font-size:14px\"><strong>需求</strong></span></p>\n<p>Minecraft Forge</p>\n<p>&nbsp;</p>\n<p><span style=\"font-size:14px\"><strong>設定</strong></span></p>\n<p>有關各種設定選項的功能說明，請參見 <a href=\"https://github.com/vladmarica/better-ping-display-fabric#configuration\" rel=\"nofollow\">https://github.com/vladmarica/better-ping-display#configuration</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "08111471a4201e60",
+  "content": "<h1>Система железнодорожных билетов FSE</h1>\n<p>Добро пожаловать в систему железнодорожных билетов FSE.\nПожалуйста, убедитесь, что шрифт <strong>jnr.ttf</strong> присутствует в библиотеке Kubjs. Приятного использования!</p>\n<h2>Терминал продажи билетов</h2>\n<p>Предназначен для продажи билетов.\nДанные билета передаются через Computercraft и записываются в NBT-данные билета.</p>\n<h2>Валидатор билетов</h2>\n<p>Предназначен для проверки билетов.\nБилет распознается при правом клике, данные передаются в Computercraft, считываются из NBT-данных билета, и выполняются необходимые операции с билетом.</p>\n<h2>Терминал пополнения</h2>\n<p>Предназначен для пополнения транспортных карт IC</p>\n<h1>FSE Rail Transport Ticketing System</h1>\n<h2>Ticket Vending Machine</h2>\n<p>Used for issuing tickets.\nTicket data is imported via Computercraft and written to the ticket’s NBT file.</p>\n<h2>Ticket Validator</h2>\n<p>Used for ticket validation.\nIt identifies tickets via right-click, transfers ticket data to Computercraft, reads the ticket’s NBT file, and performs operations on the ticket.</p>\n<h2>Recharge Machine</h2>\n<p>Used for recharging IC transportation cards</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

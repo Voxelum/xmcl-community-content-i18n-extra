@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99741b16bcb8dd7e",
+  "content": "# Litematica 法杖\n一款简单的模组，为 Litematica 添加了一个虚拟物品。\n\n在“操作员工具”创意标签页中可以访问该物品。若要在 `选项 ➜ 控制 ➜ 操作员物品标签页` 中启用此标签页。\n\n你也可以输入 ```/lwand``` 获得一个幽灵法杖，该法杖在与方块交互后会消失。如果你正在生存模式或服务器上游玩，这将非常有用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

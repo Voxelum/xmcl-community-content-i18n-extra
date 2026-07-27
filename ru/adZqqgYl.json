@@ -1,0 +1,6 @@
+{
+  "bodyHash": "214635b454e79b93",
+  "content": "\n\n# Утилиты для Miniround\nЭтот датапак добавляет таймер Grace Period, а также автоматическое «Boogeyman Rolling» для Miniround!\n\nЧтобы использовать этот датапак, сначала выполните команду `/function duxo:mini/config`, которая откроет графический интерфейс со всеми параметрами настройки (в будущих версиях будет добавлено больше).\n\n\n\n   В этом интерфейсе (пока что) доступны:\n     Время Grace Period (минуты) \n     Время Boogeyman (минуты)\n     Правила (строка)\n\n\n    Когда вы захотите запустить свой минираунд, вы можете ввести `/session start` (как скучный человек) или `/function duxo:start` (как крутой индивидуум).\n\nРекомендуется разместить ресурс-пак (https://download.mc-packs.net/pack/c7a4ac785a06355c5c9a7db5010680cb1b36b52f.zip) на сервере. Если вы не знаете, как это сделать, Kasai Sora снял отличное руководство! \n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/qCVPgn3IppU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

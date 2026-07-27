@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d672c0f753d5b38e",
+  "content": "# AutoTip\n\n自動使用 Hypixel 上的網路加速包為玩家發送小費，以賺取金幣，全程無需任何手動操作。\n\n## 運作方式\n\n每五分鐘，它會向 Hypixel 發送 `/tip all` 指令。沒錯，就是這麼簡單。不像其他舊版模組那樣需要依賴其他玩家或採用奇怪的系統，本模組的設計非常簡潔直接。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

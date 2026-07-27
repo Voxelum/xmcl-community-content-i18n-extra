@@ -1,6 +1,6 @@
 {
-  "bodyHash": "kkTRYpXPb+U=",
-  "content": "泰坦是一個專為伊甸園計畫伺服器打造的模組，旨在提升玩家體驗並簡化我們資源包「土星」的載入流程。\n\n### 功能特色\n- 遊戲啟動/材質重新載入時自動更新伺服器資源包\n- 修復大型自訂模型的不當剔除問題\n- 資源包更新時在遊戲內顯示通知\n- 向伺服器回報已安裝的資源包版本\n- 在標題畫面新增快速連接按鈕\n- Discord 狀態整合功能\n- 物品欄中的背包預覽介面\n- 聊天欄顯示頻道可見性標示\n\n### 相容性說明\n- 支援版本：1.21.8\n- 必要元件：[Fabric API](https://modrinth.com/mod/fabric-api)\n- 選用元件：[ModMenu](https://modrinth.com/mod/modmenu) 用於設定選項\n- 不相容項目：OptiFine — 詳情請參閱我們的 [GitHub](https://github.com/ProjectEdenGG/Titan#incompatibilties) 頁面",
+  "bodyHash": "d6dbe280b35d17fb",
+  "content": "Titan 是一款为 Project Eden 服务器打造的模组，旨在提升玩家体验并简化我们资源包 Saturn 的加载过程。\n\n### 功能\n- 在游戏启动/纹理重载时自动更新服务器资源包\n- 修复大型自定义模型不必要的剔除问题\n- 当资源包有更新时在游戏内通知\n- 向服务器报告您已安装的资源包版本\n- 在主菜单添加快速连接按钮\n- Discord 状态集成\n- 背包预览功能（在物品栏中显示）\n- 聊天频道可见性（在聊天栏中显示）\n\n### 兼容性\n- 支持版本：1.21.8\n- 必需依赖：[Fabric API](https://modrinth.com/mod/fabric-api)\n- 可选依赖：[ModMenu](https://modrinth.com/mod/modmenu) 用于配置选项\n- 不兼容：OptiFine — 详情请参阅我们的 [GitHub](https://github.com/ProjectEdenGG/Titan#incompatibilties)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

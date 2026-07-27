@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a321cce221918d3f",
+  "content": "# 玩家套件模组 – 即时保存与装备背包\n\n是否厌倦了反复设置相同的背包？**Player Kits** 是一款轻量级的 Fabric 模组，允许你仅通过一条指令即可保存和加载整个背包配置。非常适合需要快速获得装备的建筑师、管理员和地图制作者！\n\n注意：对于 1.21.11 的新版本，指令已更改为 **/pkit**，请勿使用 /kit 。\n\n[![Replace this with a description](https://cdn.modrinth.com/data/cached_images/3e81436885d7d199d80ffde632b0895d24a2c72b.png)](https://fastclient.net/spunky)\n\n## 主要功能\n- 保存完整的背包（包括快捷栏、护甲等）  \n- 使用 `/kit equip <名称>` 即时装备套件  \n- 在使用前预览套件  \n- 简单的套件管理：创建、列出或删除套件  \n- 跨游戏重启的持久化存储  \n\n## 使用方法 (⚠️ 版本 1.21.11 或更高)\n- **保存套件：** `/pkit store <名称>`  \n- **装备套件：** `/pkit equip <名称>`  \n- **查看套件：** `/pkit preview <名称>`  \n- **列出套件：** `/pkit list`  \n- **删除套件：** `/pkit remove <名称>` \n\n## 使用方法 (版本低于 1.21.10)\n- **保存套件：** `/kit store <名称>`  \n- **装备套件：** `/kit equip <名称>`  \n- **查看套件：** `/kit preview <名称>`  \n- **列出套件：** `/kit list`  \n- **删除套件：** `/kit remove <名称>`  \n\n## 说明\n\n- 要加载套件，你需要拥有创造模式权限，无论是在单人世界还是多人服务器中。不过，无论你的游戏模式如何，你都可以预览、保存和删除自己的套件。\n\n- 所有已保存的套件都将存储在套件配置文件夹中，路径为 .minecraft\\config\\PlayerKits。这允许你轻松与其他玩家分享个人套件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

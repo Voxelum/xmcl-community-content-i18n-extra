@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5aaaa440cf44eda",
+  "content": "\n\n## 🔔 Теперь поддерживается [Respackopts](https://modrinth.com/mod/respackopts)!\nХотите изменить только травяные блоки? Не трогать блоки кактусов? Не интересует тростник? Нет проблем.  \nRespackopts предоставляет пакетам ресурсов возможность добавлять экран настроек в меню пакетов ресурсов.  \nПросто включайте или выключайте нужные вам функции!\n\n# Как это работает\nЭтот пакет ресурсов добавляет исключительно кастомные **модели** и **состояния блоков**, _без текстур_.\n\n![демонстрация по умолчанию](https://cdn.modrinth.com/data/cached_images/4c64cf1e78b6d61f01661fc4f33f847996ede1eb.png)\n\nОн использует существующие текстуры, чтобы незаметно изменить некоторые **модели блоков** в окружающей среде (например, травы и кактусы).\n\n![Предпросмотр Edgy Foliage (плавное включение/выключение)](https://cdn.modrinth.com/data/cached_images/194d76cca6a103d77864aa3b564ca197458b2cd1.gif)\n\n_([простите за качество — лучше загляните в галерею!](./edgy-foliage/gallery))_\n\n## Благодарности\nИзначально вдохновлено [u/alkalinechaos](https://www.reddit.com/user/alkalinechaos/) и их [оригинальным постом](https://www.reddit.com/r/Minecraft/comments/2mz9m4/custom_grass_block_model_makes_grass_less_blocky/) на Reddit.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
