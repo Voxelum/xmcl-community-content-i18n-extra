@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4d491f8fb0ec4da3",
+  "content": "Allows you to type a command and bind a key to said command. All entries are saved and viewable in the list menu displaying the command, the key, and the option to remove. The intention is to create a shortcut of any key to instantly send any command the user wants while saving the configurations. The menu can be accessed by typing /hotcmds or using the keybind which is deafult to k but can be changed via the vanilla menu.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

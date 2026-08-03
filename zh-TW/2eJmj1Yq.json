@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80a9ac405d8c0e20",
+  "content": "# BedLock\nBedlock 是一個添加兩種效果的模組：\n\n- **平靜** - 效果允許您在睡覺時設定出生點\n\n- **焦慮** - 效果禁止您在睡覺時設定出生點\n\n它還添加了一個遊戲規則，讓您能夠控制此行為：\n\n**enforceCalmnessEffect** - 需要平靜效果才能設定出生點。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

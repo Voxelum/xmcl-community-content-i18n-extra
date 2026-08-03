@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9e36eafdf58c8b86",
+  "content": "<h2 style=\"text-align:center\"><span style=\"color:#f00;font-size:24px\">自1.19.4版本起不再需要Smooth Boot！</span></h2>\n<h2 style=\"text-align:center\"><span style=\"color:#f00;font-size:24px\">因为Minecraft本身已修复此问题。</span></h2>\n<h3>&nbsp;</h3>\n<h3><a href=\"https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge\" rel=\"nofollow\">Forge版本链接</a></h3>\n<p>&nbsp;</p>\n<h3>&nbsp;</h3>\n<h2>Smooth Boot - 优化Minecraft加载性能，在低端设备上更流畅，并在高端设备上具有更好的可扩展性。</h2>\n<p>&nbsp;</p>\n<h2>适用于Minecraft 1.14-1.19.3的Fabric和Forge版本。</h2>\n<p>&nbsp;</p>\n<p>&nbsp;如果您使用的是较老或较低端CPU的PC（例如线程数8个或以下的CPU），您可能注意到Minecraft在加载到标题屏幕时会占用100%的CPU，导致光标卡顿并使多任务处理变得困难。Smooth Boot完全解决了这个问题，并且加载过程应更加流畅且可能更快。</p>\n<p>&nbsp;</p>\n<h3>功能</h3>\n<ul>\n<li>更改加载时使用的线程数量</li>\n<li>Minecraft使用的线程优先级设置</li>\n<li>自动配置菜单以在游戏中更改配置</li>\n</ul>\n<p>&nbsp;</p>\n<h3>模组工作原理</h3>\n<p>Minecraft使用执行器来运行多线程任务。问题是加载过程中执行的任务对CPU负担较大，因此会导致CPU占用率达到100%。此外，某些任务并不一定受益于多线程处理。Smooth Boot通过修改执行器的参数来解决这些问题，包括它们使用的线程数量和每个线程的优先级。</p>\n<p>有关更多信息，请阅读<a href=\"https://github.com/UltimateBoomer/mc-smoothboot/wiki\" rel=\"nofollow\">Smooth Boot维基</a></p>\n<p>&nbsp;</p>\n<h3>兼容性</h3>\n<p>该模组应与所有其他模组兼容，包括Optifine。但值得注意的是，该模组在使用加载游戏的方法上使用mixins进行重写。如果遇到兼容性问题，请留言。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

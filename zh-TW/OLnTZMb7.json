@@ -1,0 +1,6 @@
+{
+  "bodyHash": "040823a5c54e3dd7",
+  "content": "<p><span style=\"color: #e03e2d;\">重要提示：隨著 Oculus 新版 1.20.1+，本模組已不再需要，反而會導致遊戲崩潰。</span></p>\n<p>&nbsp;</p>\n\n自 Minecraft 版本 1.18.2 起，光影模組 <a href=\"https://modrinth.com/mod/oculus\">Oculus</a>（<a href=\"https://modrinth.com/mod/iris\">Iris</a> 的 Forge 移植版）有一個 Bug，導致拾取物品時粒子會穿過牆壁可見。關閉光影後，這些粒子甚至會呈現黑色。這個 Bug 的一個奇怪之處在於，它有時發生、有時不發生，且並非對所有人如此出現。然而，這個 Bug 讓我感到非常困擾，於是我嘗試尋找解決辦法。我發現一種方式是關閉拾取物品的粒子效果，但我對這個方案不太滿意，因為這雖修復了另一個 Bug，卻又引入了新的問題。不過現在，我認為終於找到了一個真正的解決方案，因此想在這裏分享給你們，讓大家再也不用看到這個視覺錯誤，也能放心地把這個模組加入到你的整合包中。我相信 Oculus 的作者 Asek3 已經在 1.19.2 及之後的版本中實現了修復，但那個修復似乎並不完美，且在 Oculus 的 1.18.2 版本中還沒有此修復，所以我決定先上傳自己的模組。如果你想要了解更多關於此 Bug 以及如何修復的資訊，可查看原始 <a href=\"https://github.com/Asek3/Oculus/issues/149\">GitHub 議題</a>。\n\n<p>&nbsp;</p>\n\n如果你有自己的 Minecraft 伺服器想與朋友一同遊玩，推薦使用 Kinetic Hosting。他們提供高效能伺服器且價格合理，操作簡便，並有良好的客服支援。點擊下方圖片以獲取更多資訊，如需購買結帳時使用代碼 **LAIDBACKSLOTH** 可享 15% 折扣。\n\n<a href=\"https://kinetichosting.ajayden.dev/aff.php?aff=567\"><img src=\"https://media.forgecdn.net/attachments/1338/85/kh-curseforge-finalstandardbanner-small-webp.webp\" alt=\"Kinetic Hosting\" width=\"700\" height=\"151\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

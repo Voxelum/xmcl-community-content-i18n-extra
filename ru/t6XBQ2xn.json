@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e24990c787eb2c6b",
+  "content": "# **Стоп Тика**\n\n\n[![Лицензия](https://img.shields.io/badge/license-MIT-97ca00?style=flat-square)](https://git.sr.ht/~arm32x/tick-stasis/tree/master/item/LICENSE)\n\n\n暂停你的Minecraft服务器，当没有玩家在线时无缝恢复它。\n\n当服务器暂停时：\n\n- 游戏世界中的更新将不会发生，包括方块更新，实体移动和随机刻。\n- 游戏内时间将会暂停，这会防止你世界的[局部难度][]上升。\n- 服务器的CPU使用率将降至0%或接近0%（1.1.0+版本）。\n\n你在服务器控制台中输入的命令将继续正常工作。\n\n## 版本兼容性\n\nTick Stasis旨在兼容以下Minecraft版本，包括快照版和愚人节更新。\n\n| Tick Stasio版本号 | Minecraft版本号                            |\n|:------------------|:-------------------------------------------|\n| 1.1.1 (最新版)     | 19w11a或更高版本（包含1.14+）              |\n| 1.1.0             | 19w11a或更高版本（包含1.14+）              |\n| 1.0.0             | 19w04a至23w51b（包含1.14–1.20.4）          |\n\n##常见问题\n\n####你能将此更新到更新版本的Minecraft吗？\n尝试使用该模组最新版本，即使Modrinth未列出支持的Minecraft版本。如果发现某个版本不兼容（由于崩溃或其他问题），请在邮件列表[ ]中告诉我。\n\n####你能将其移植到更早版本的Minecraft吗？\n这可能需要移植到不同的模组加载器。参见下一个问题。\n\n####你能将其移植到Forge/Bukkit/Paper/Spigot吗？\n如果有需要的话，我可能会在将来移植到其他模组/插件加载器，但请不要询问此事。在此期间，该模组是开源的且许可证宽松，因此你可以自行尝试移植。\n\n[局部难度]: https://minecraft.fandom.com/wiki/Difficulty#Regional_difficulty\n[邮件列表]: https://lists.sr.ht/~arm32x/public-inbox",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

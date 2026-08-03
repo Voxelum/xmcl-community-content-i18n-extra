@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5c9d80df5ee6df7e",
+  "content": "### 此资源包需要 [Continuity](https://modrinth.com/mod/continuity) 才能运行（或使用您仍在使用的 Optifine）\n## 已更新以支持 26.2 Chaos Cubed 版本！\n# 一切皆相连\n\n该资源包使用 CTM 连接所有可以连接的 vanilla Minecraft 纹理。这与其他 CTM 纹理包的实现方式不同，如下例所示：\n\n![此纹理包、Vanilla 和 CTM Overhaul 之间的纹理比较](https://cdn-raw.modrinth.com/data/t4YAPTH1/images/dc1e24e85e84b7fed8399b5c00f9a4b596aa912d.png)\n\n此实现保留了方块的外观，同时通过 CTM 去除方块边框来提升平滑度。\n\n# 当前状态\n\n26.2 版本现已发布，包含 Chaos Cubd 更新中新增方块的纹理！此外，所有纹理均已升级，任何问题均已修复。\n\n![1.21 中的新方块](https://cdn.modrinth.com/data/t4YAPTH1/images/ff170c61120d4b7c49c09a0ceef30de4e6a7f9ed.png)\n\n# 兼容性\n\n只要您拥有 Continuity 或 Optifine，此纹理包应能与大多数 Minecraft 版本兼容。但我尚未测试 1.20 之前的版本。\n\n某些纹理包可能无法与此良好配合，主要是 3D 模型或特定方块状态的模型。两者的例子分别是 Vanilla Tweaks 中的 'Visual Note Block Pitch' 纹理。\n\n---\n如果您有任何问题或建议（或任何其他内容！），请在 [Github issues 页面](https://github.com/Boombabob/Its-All-Connected/issues) 上提交问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

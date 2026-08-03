@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6280ebaf9652468a",
+  "content": "当鼠标悬停在一个交易上时，显示该交易在补充库存前可以使用多少次！\n\n这个模组只需要在**客户端**安装即可，并且支持**多人游戏**！\n\n提示框中的文本可以修改，其文件位于 *config/tradeuses_text.txt* 中。\n\n你也可以在游戏中更改设置！（Fabric 平台的 Mod Menu 模组是必需的）\n\n您可以使用 **§** 符号来添加颜色代码，也可以将文本设置为多行！\n\n您可以使用以下占位符，它们的名字已经自解释了：*{uses}*, *{max_uses}*, *{uses_left}*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

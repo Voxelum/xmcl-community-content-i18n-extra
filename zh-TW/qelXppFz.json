@@ -1,0 +1,6 @@
+{
+  "bodyHash": "df0d5b818d03f77c",
+  "content": "一種可以在提示視圖中查看地圖內容並提供額外自定義選項的模組。\n\n![Mod 使用範例](https://cdn.modrinth.com/data/cached_images/52e1117c9136dff79a5b4040456ea5dbc36aafbd.png)\n\n要開啟設定選單，請使用指令 ```/modernmaptooltip config```\n\n要在遊戲中開關此模組，請輸入 ```/modernmaptooltip toggle```\n\n要更改提示視圖中的地圖比例，請輸入 ```/modernmaptooltip scale <1 to 15>```\n\n要查看當前比例，請輸入 ```/modernmaptooltip scale```（不帶參數，僅限 1.2+ 版本）\n\n此模組提供更多的自選項，但如果您想在 Fabric、Forge 和 Neoforge 上尋找適用於幾乎任何版本的類似模組，可嘗試 [Map Tooltip](https://modrinth.com/mod/map-tooltip)\n\n## 設定\n\n要開啟設定選單，請使用指令 ```/modernmaptooltip config```\n\n設定檔案儲存於 ```<你的我的世界目錄>/modernmaptooltip.config```，但所有自定義也可以直接在遊戲中完成。\n\n## 注意事項\n\n通常只有在地圖在您的物品欄時，才會將內容傳送給客戶端，因此未知地圖箱子內的地圖可能無法顯示。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

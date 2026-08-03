@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b4f544d4edc940a2",
+  "content": "# MCFaceTracking\n\n此模组允许你连接 VRCFaceTracking 并使你的角色更加生动。  \n现在支持国际化！\n\n使用教程\n1. 安装本mod\n2. 启动游戏，打开VRCFaceTracking。如果一切正常，这里应该有显示![连接成功](https://cdn.modrinth.com/data/cached_images/b6bf45d9a16c58509765d632f5ca8429b277c37c.png)</br>如果没有VRCFaceTracking，可以跳过此步骤\n3. 进入世界，输入指令/mcft打开配置界面\n4. 跟随指引标记材质。先在右边划出指定区域，再点按钮来标记<br>一个示例的标记：![标记材质](https://cdn.modrinth.com/data/cached_images/159845f73af8920843aa51cb231e8c74d17fcf90_0.webp)\n5. 点击下一步，跟随指引标记位置。点击切换覆盖层可更改第二层皮肤可见性。默认吸附到网格，点击自由选择可解除吸附<br>如果是3D模型，嘴部最好使用自由选择标记。一个3D模式示例的标记：![3D](https://cdn.modrinth.com/data/cached_images/a99fd69201be54861ec0f0766735cab3da9cc66f_0.webp)<br>如果是平面模型，需要将眉毛一并标记以获得最好的效果。一个平面模型示例的标记：![平面](https://cdn.modrinth.com/data/cached_images/a0cc796196ed77cef269dae0fbeab9d588736d40_0.webp)\n6. 点击预览效果，可以预览现在配置下的效果。如果你没有VRCFaceTracking可点击自动眨眼配置来配置自动眨眼\n7. 点击完成，保存配置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f5a1a19b9b844207",
+  "content": "為伺服器管理添加實用命令。\n\n## 配置\n此模組需要 [Fox API Remaster](https://modrinth.com/mod/fox-api-remaster) 才能工作。你可以在伺服器的 `config` 資料夾中找到此模組的配置。\n\n## 命令\n\n- **/delhome** (刪除家) <br>\n- **/delwarp** (刪除傳送點) <br>\n- **/discord** (發送你 Discord 伺服器的連結) <br>\n- **/extinguish** (熄滅你身上的火) <br>\n- **/cool** (熄滅你身上的火) <br>\n- **/heal** (完全治療並餵飽你) <br>\n- **/feed** (完全治療並餵飽你) <br>\n- **/mute** (暫時禁言玩家) <br>\n- **/rename** (重命名物品) <br>\n- **/repair** (修復物品) <br>\n- **/date** (如果你不出去，則發送真實時間) <br>\n- **/day** (設置時間為白天) <br>\n- **/sun** (設置時間為白天) <br>\n- **/adventure** (將你的遊戲模式設置為冒險模式) <br>\n- **/creative** (將你的遊戲模式設置為創造模式) <br>\n- **/spectator** (將你的遊戲模式設置為視察模式) <br>\n- **/survival** (將你的遊戲模式設置為生存模式) <br>\n- **/sethome** (設置家) <br>\n- **/night** (設置時間為夜晚) <br>\n- **/**setwarp (設置傳地點) <br>\n- **/strike** (召閃電) <br>\n- **/thunder** (召閃電) <br>\n- **/sudo** (強制玩家執行命令) <br>\n- **/**suicide (自殺) <br>\n- **/home** (傳送到家) <br>\n- **/**spawn (傳送到出生點) <br>\n- **/**top (傳送你到正上方最高塊) <br>\n- **/**warp (傳送到傳地點) <br>\n- **/**fly (切換飛行) <br>\n- **/**god (切換神語模式) <br>\n- **/**unmute (強制解禁言玩家) <br>\n- **/**wear (將物品作為帽子佩戴) <br>\n- **/**hat (將物品作為帽子佩戴) <br>\n\n### 家與傳送點的區別\n - /home 是設定該地的玩家可訪問的地方，而 /warp 是每個人都可以訪問的全局地方。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

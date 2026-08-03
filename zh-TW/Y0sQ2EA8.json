@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Ag5RcjAGV1U=",
-  "content": "這個資料包移除了 Naturalist 模組（與農夫樂事兼容）中的熟蛋。需要模組：JEI 物品管理器。這個資料包的功能如下：1. 移除 Naturalist 模組中所有熟蛋的合成配方。2. 將熟蛋（Naturalist）替換為煎蛋（農夫樂事）。3. 完全兼容農夫樂事模組且無衝突。如果你使用 JEI，建議將 TagContentTooltipEnabled = True 改為 TagContentTooltipEnabled = false，以避免顯示兩個來自農夫樂事模組的相同煎蛋圖示。",
+  "bodyHash": "02f8833ed9b86162",
+  "content": "該數據包從自然主義模塊（農民喜悅相容）中移除煮熟的蛋。需要模塊：One Enough Item。這個數據包的作用是什麼？ 1：移除自然主義模塊中所有的煮熟蛋配方。 2：將煮熟蛋（自然主義）替換為煎蛋（農民喜悅）。 3：與農民喜悅完全兼容，沒有衝突。如果你正在使用JEI，我建議將TagContentTooltipEnabled = True改為TagContentTooltipEnabled = false，以避免顯示兩個來自農民喜悅模塊的相同煎蛋。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

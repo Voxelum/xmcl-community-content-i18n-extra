@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2q46b2eNp5A=",
-  "content": "# 指南 API\n\n讓模組開發者能輕鬆建立遊戲內說明文件。\n\n模組包開發者：目前正在開發透過 JSON 檔案建置書籍的功能。\n\n書籍由指南 API 維護（它負責註冊書籍、將書籍放入專屬創造模式標籤頁等）\n\n作者只需提供內容資訊，其餘由我們處理。\n\n查看[圖庫](https://modrinth.com/mod/guide-api-legacy/gallery)以獲取範例。\n\n若您希望在專案中使用此功能，請閱讀[此處](https://guide-api.readthedocs.io/en/latest/gettingstarted/dependency/)說明。\n\n## 模組包使用權限\n歡迎自由使用。\n\n## 舊版資訊\n自 2017 年 3 月 22 日發布的 Minecraft 1.11.2 版本建構號 2.1.0-51 起，授權條款已從 MMPLv2 變更為 MIT。該日期前的所有建構版本仍使用 MMPLv2，您可於[此處](https://github.com/TeamAmeriFrance/Guide-API/blob/1.10/LICENSE.md)查看詳情。\n\n## 歸檔聲明\n**此模組已停止維護，上傳僅供歸檔用途。該模組由 [TehNut](https://legacy.curseforge.com/members/TehNut/projects) 於 2015 年 3 月 23 日[最初創建](https://curseforge.com/minecraft/mc-mods/guide-api)，經原作者許可後由 ModrinthArchives 帳號上傳至 Modrinth 平台。**\n\n![顯示上傳許可的 Discord 對話截圖](https://cdn.modrinth.com/archives/tehnut-permission.png)",
+  "bodyHash": "e6138feabc924391",
+  "content": "# Guide-API\n\n允許模組製作者輕鬆建立遊戲內文件。\n\n整合包開發者：透過 JSON 檔案建立書籍的功能正在開發中。\n\n書籍由 Guide-API 維護（會註冊它們，將其放置於自己的創造標籤等）\n\n作者只需提供資訊，其餘由我們處理。\n\n請參考[範例](https://modrinth.com/mod/guide-api-legacy/gallery)。\n\n若想在專案中使用此功能，請閱讀[這裡](https://guide-api.readthedocs.io/en/latest/gettingstarted/dependency/)。\n\n## 整合包許可\n請隨意使用。\n\n## 舊版資訊\n自 Minecraft 1.11.2 版本構建號 2.1.0-51（2017 年 3 月 22 日發行）起，授權條款已從 MMPLv2 更改為 MIT。在此之前的構建號仍使用 MMPLv2，您可於[此處](https://github.com/TeamAmeriFrance/Guide-API/blob/1.10/LICENSE.md)查看。\n\n## 存檔公告\n**本模組已被放棄，僅上傳用於存檔目的。它最初由 [TehNut](https://legacy.curseforge.com/members/TehNut/projects) 於 2015 年 3 月 23 日[創建于](https://curseforge.com/minecraft/mc-mods/guide-api)。原作者已授權在 Modrinth 上以 ModrinthArchines 賬戶上傳。**\n\n![顯示上傳權限的 Discord 截圖](https://cdn.modrinth.com/archives/tehnut-permission.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

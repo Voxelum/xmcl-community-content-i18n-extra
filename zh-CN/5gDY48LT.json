@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c0718f7df91a2702",
+  "content": "![模组图片](https://cdn.modrinth.com/data/cached_images/0e59237fc1431e706fe1d8271cc1761c0423f608.png)\n\n<!---这是测试评论--->\n\n# -- 简介 --\n\n该模组在洞穴中添加了自然生成的骷髅尸体。\n\n目前有4种不同类型的尸体。\n\n骷髅尸体被破坏时会掉落骨头。\n\n一些尸体可能持有铁、金或石制镐子。\n\n# -- 计划中 --\n\n携带工具的尸体，例如铁镐。✅\n\n更多的姿势变体。✅\n\n更多 loot，尸体附近的背包中包含宝藏。\n\n下界内容。✅\n\n# -- 常见问题 --\n\n- **问题**: 我能将其包含在我的模组包中吗？\n- **回答**: 是的，当然可以！\n\n- **问题**: 我能配置掉落物吗？\n- **回答**: 您可以，从模组的1.0.1版本开始即可。配置文件位于 `config/lying_skeletons_config.properties` 文件中。\n\n附注：文件/模组ID中的模组名称为“lying skeletons”。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

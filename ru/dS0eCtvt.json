@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ccf95487609ecdcd",
+  "content": "# Исправление пчелиных ульев Blueprint\nЭто маленький мод, позволяющий использовать ульи из серии модов Abnormals (особенно [Woodworks](https://modrinth.com/mod/woodworks)) в качестве рабочих мест пчеловодов, добавленных [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge/). Это достигается изменением одной строки кода в моде [Blueprint](https://modrinth.com/mod/blueprint) и добавлением интересующей точки в необходимый тег.\n\nМод разработан так, чтобы минимально вмешиваться в работу, но может перестать работать, если команда Abnormals решит переместить свой код.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7d94c536592fc0f7",
+  "content": "[![FAST](https://cdn.modrinth.com/data/cached_images/3e81436885d7d199d80ffde632b0895d24a2c72b.png)](https://fastclient.net/ashmeetop)\n\n\n🪶 Feather 重制版\nFeather 重制版客户端是一款针对 Minecraft 1.21.5 的轻量级、可自定义的 Fabric 模组。它提供简洁的模组菜单、可自定义的用户界面（HUD）、自由视角、缩放、全亮等实用功能——所有功能均通过精致界面进行切换。\n\n🎛️ 自定义模组菜单界面\n按 Right Shift 打开现代切换屏幕\n启用/禁用 HUD 和功能，如缩放、全亮、自由视角\n布局简洁，采用 Minecraft 风格按钮\n按 Right Alt 可拖动重新定位 HUD\n\n✨ 功能\n📊 可切换的 HUD\n\n显示 FPS、CPS、坐标、盔甲和药水效果\n\n布局简洁，位置可调\n\n无服务器端影响\n\n🔭 缩放功能\n\n类似 OptiFine 的平滑缩放\n\n可通过按键绑定切换\n\n🧭 自由视角（可选）\n\n自由旋转相机（类似 Lunar Client）\n\n💡 全亮模式\n\n通过夜视功能照亮黑暗区域\n\n图标隐藏，无视觉干扰\n\n🧩 自定义界面\n\n按 Right Shift 打开功能切换\n\n按 Right Alt 打开 HUD 编辑器\n\n🧩 兼容性\n\n✅ Minecraft 1.21.5\n\n✅ Fabric 加载器\n\n✅ 仅客户端\n\n✅ 与其他 HUD/工具模组兼容\n\n🧰 安装步骤\n\n安装 Fabric 加载器\n\n将 featherclient-x.x.x.jar 放入 mods 文件夹\n\n启动游戏并按 Right Shift 切换功能\n\n💬 制作人：Ashmeet\n💬 加入社区： https://discord.gg/WnzS6VeQzC",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

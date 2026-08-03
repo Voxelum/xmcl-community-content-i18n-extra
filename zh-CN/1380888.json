@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4KUEta7e47c=",
-  "content": "<p>一个简单的Fabric模组，用于优化数据包/资源包zip文件的加载时间。该模组对于包含<strong>大量</strong>文件的压缩包尤其高效，同时也能加快小型资源包的加载速度。</p><h2>quick-pack 与 原版 对比</h2><p>以下是对比加载由<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmodpack%252fpolymania%252fversion%252f0.6.2\" target=\"_blank\" rel=\"nofollow\">Polymania v0.6.2</a>生成的资源包时，使用quick-pack与不使用（原版）的加载效果对比。Polymania生成的压缩包大小为44.3MiB，内含60369个文件！\n<img src=\"https://i.imgur.com/dqEDVQX.gif\" alt=\"加载演示资源包\"></p><p><em>quick-pack仅需2秒即可完成加载，而原版则需要36秒！</em></p>",
+  "bodyHash": "709d7e018c5b7c96",
+  "content": "<p>一个简单的 Fabric 模组，用于优化数据包/资源包 ZIP 文件的加载速度。该模组在包含大量文件的 ZIP 文件中效果尤其显著，同时也能加速小型资源包的加载。</p>\n<h2>quick-pack vs 原版</h2>\n<p>比较使用 quick-pack 和原版的资源包加载情况：由 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmodpack%252fpolymania%252fversion%252f0.6.2\" target=\"_blank\" rel=\"nofollow\">Polymania v0.6.2</a> 生成的资源包（生成包含 60369 个条目、大小为 44.3MiB 的 ZIP 文件）。<img src=\"https://i.imgur.com/dqEDVQX.gif\" alt=\"加载演示资源包\"></p><p><em>quick-pack 仅需 2 秒即可完成加载，而原版需要 36 秒！</em></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

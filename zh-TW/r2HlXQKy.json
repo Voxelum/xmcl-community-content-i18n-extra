@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4f5e884b20282ece",
+  "content": "# CatVision\n\n一個讓你即使不是伺服器管理員也能獲得夜視效果的 Minecraft 模组。靈感來自於 Tee6 的 CatEyes！:)\n\n這個模组中，你可以點擊按鈕讓自己獲得夜視效果。該模组還提供了自動啟用夜視效果的選項。\n最棒的部分：你不需要任何許可權，到處都可以使用它！（別告訴任何人，但你甚至能壓抑如失明或暈眩的效果！）\n\n這是 CatVision 1.4 的重新寫入版本，現稱為 CatVision Legacy，目的是增加對早期版本（例如 1.16.5 或 20.1）的相容性。\n\n若要查看舊版模组，請訪問 [Modrinth](https://modrinth.com/mod/catvision-legacy) 或 [Curseforge](https://curseforge.com/minecraft/mc-mods/catvision-legacy)。\n\n> **免責聲明：我不支持任何人利用此模取得他人優勢，尤其是在競爭性設置的情況下。請遵守你所玩的伺服器、領域或其他類似環境的規則！我，MarioS271，本模群的創造者，特此免除任何與誤用此模组相關的責任。**\n\n---\n\n### 當前功能 (v2.0):\n- 智慧客户端夜視\n- 黑暗/失明/暘眩免疫\n\n> 注意：在局域网和多玩家游戏中，失明抑制被禁用，因为抑制失明效果允许玩家冲刺，而在拥有失明效果时这不应该可能。\n\n### 语言支持：\n- English\n- German\n- German (Austrian)\n\n### 亦可在以下平台获取：\n- [Curseforge](https://curseforge.com/minecraft/mc-mods/catvision)\n\n---\n\n本项目采用 **GNU General Public License v3.0** 授权。详情请参阅 [LICENSE](https://github.com/MarioS271/cat_vision/blob/main/LICENSE) 文件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

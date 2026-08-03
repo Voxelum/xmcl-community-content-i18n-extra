@@ -1,0 +1,6 @@
+{
+  "bodyHash": "27381fd9f0434a43",
+  "content": "# 💤 雙人牀\n- 允許多名玩家共用同一張床。\n- 當玩家人數超過兩人時，他們會堆疊起來！\n- 進入睡眠時的視角會改變。\n\n| Player              | Villager              |\n|---------------------|:---------------------:|\n| ![Player in a bed looking at the viewer](https://cdn.modrinth.com/data/YZlvzIFq/images/35278d3189696b8582108150ad6e97f59b45a3b8.png)            | ![Minecraft villager in a bed looking at the viewer](https://cdn.modrinth.com/data/YZlvzIFq/images/8c52944f03d501f19c4d2bf6ffec57e87887095e.png)             |\n\n## 🗺️ 開發計劃\n### 預計功能\n這些內容可能調整中，歡迎提供反饋（在 GitHub 發 Issue 或在 Twitter 私訊我）。此 MOD 的設計目標是保持簡潔：不會增加新的方塊或物品。\n- 個人偏好（面向的方向：正面或背面）\n- 第三人稱進入牀時更好的鏡頭視角\n- 盡可能支援更多的 Minecraft 版本與載入器\n\n## ⚙️ 整合包使用\nRoom For Two 可免費用於任何自定義整合包，但需保留原作者資訊。然而未測試與其他 MOD 的相容性，請自行評估風險。不得用於任何形式的商業牟利或生成式 AI 訓練用途。\n\n## 🔨 版本支援\nRoom For Two 將盡可能維持對多個版本的更新，優先支援最流行的版本。\n\n## 🐛 問題回報\n若在使用此 MOD 時遇到問題，請回報至 [GitHub Issue Tracker] (2)。請於報告錯誤或問題時盡力清晰詳述。注意目前此 MOD 處於 **ALPHA** 階段，可能存在不完善之處。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

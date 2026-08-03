@@ -1,0 +1,6 @@
+{
+  "bodyHash": "401018ddf0e2752f",
+  "content": "<p>Nvidium是用于sodium的渲染后端替换，它仅使用nvidia的opengl扩展来大幅提升fps。</p>\n<h2>兼容性</h2>\n<p>此mod明确要求支持网格着色器的nvidia gpu。该功能在turing架构中引入，凡是16xx系列或更新（20xx系列也支持）且支持网格着色器的gpu均可运行。</p>\n<h3>Q：这个mod能在我的非Nvidia系统上运行吗？</h3>\n<h3>A：不行，该mod在非Nvidia系统上无法使用，但Nvidium会自动禁用。您的游戏体验不会受到影响。</h3>\n<h2>警告</h2>\n<p>此mod使用了不常见的技术（网格着色器）。这可能导致minecraft意外终止。</p>\n<h2>工作原理</h2>\n<p>通过网格着色器，几乎完全由gpu驱动的渲染管线将地形几何体进行极为高效的剔除，从而使您的gpu能够更高效地工作。</p>\n<h1>需要sodium才能运行</h1>\n<h2>当iris主动使用着色器时自动禁用</h2>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

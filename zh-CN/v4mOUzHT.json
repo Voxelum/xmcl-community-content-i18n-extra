@@ -1,0 +1,6 @@
+{
+  "bodyHash": "82d327c6ec211a21",
+  "content": "# 更多Curios槽位\n\n<p align=\"center\">\n  <a href=\"https://modrinth.com/mod/more-curios-slots\"><img src=\"https://i.imgur.com/rJGFMCf.png\" alt=\"Modrinth\" width=\"250\" height=\"auto\"></a>\n  <a href=\"https://www.curseforge.com/minecraft/mc-mods/more-curios-slots\"><img src=\"https://i.imgur.com/ts51S3Q.png\" alt=\"CurseForge\" width=\"298\" height=\"auto\"></a>\n</p>\n\n> ## **警告！** 此模组与[Curos](https://modrinth.com/mod/curios)模组类似，需要其他支持的模组才能运行。如果不知道可以尝试[Artifacts](https://modrinth.com/mod/artifacts)或[Unique Accessories](https://modrinth.com/mod/unique-accessories)。\n\n此模组允许您制作更多可用于Curios的槽位。这些槽位价格昂贵，但物有所值。\n\n![Charm Crafting](https://cdn.modrinth.com/data/v4mOUzHT/images/e6cc2e553e2a7250926b2026e2fea775ffed2006.webp)\n\n您可以使用KubeJS或数据包编辑制作配方。Curios使用例如`#curios:charm`, `#curios:head`等标签来指代适合特定槽位的物品。\n\n> 示例：使用更多槽位\n![Sample use](https://cdn.modrinth.com/data/v4mOUzHT/images/9d2c646ac22cf9050dbae10fa574e54a9a2267b6.webp)\n\n## 故障排除\n\n> 当使用artifacts时，效果不会堆叠。\n\n> 这是artifacts的设计方式，相当遗憾。理论上可以通过mixins修改此行为，但我目前还没有足够的经验。\n\n> 我无法在Enigmatic Legacy中同时装备多个spellstones\n\n> 请确保在Enigmatic Legacy设置中将`B:SpellstonesMultiequip`设为true",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

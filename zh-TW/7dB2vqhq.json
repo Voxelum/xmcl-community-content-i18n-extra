@@ -1,0 +1,6 @@
+{
+  "bodyHash": "be8ee6994c963055",
+  "content": "![圖庫標誌：表情符號\"\\|T/\" 代表一個讚揚熾熱耀眼的太陽的男人](https://cdn.modrinth.com/data/cached_images/52f50dfd850d6f7dcfd387706d5e41dfe3d084cb.png)\n\n# Incandescent Lib\n一個輕量級的庫，提供用於實體和玩家動畫的 API，包含實用工具。\n\n## API\n要將 Incandescent Lib 加入你的項目，請在 `build.gradle` 中添加以下內容：\n```groovy\nrepositories {\n    maven {\n        url \"https://cursemaven.com\"\n        content {\n            includeGroup \"curse.maven\"\n        }\n    }\n}\ndependancies {\n    implementation fg.deobf(\"curse.maven:incandescent_lib-971520:5085017\")\n}\n```\nIncandescent Lib 利用 Minecraft 1.19+ 的幀動畫系統，提供足以用於實體和玩家動畫且輕量的 API，並兼容其他動畫庫。更多用法和實現細節請參閱源代碼。\n\n## 提供的功能\n由於本模塊是一個庫，它本身不會添加任何具體功能。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

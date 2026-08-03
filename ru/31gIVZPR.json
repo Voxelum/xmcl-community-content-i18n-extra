@@ -1,0 +1,6 @@
+{
+  "bodyHash": "06dcea8d70f7d625",
+  "content": "# Старые текстуры String и Tripwire\nЭтот пакет просто возвращает старые текстуры String.\n\nПоскольку в Minecraft изменилась система рендеринга текстур Tripwire, строки теперь рендерятся с альфа-вырезом вместо прозрачного шейдера, что плохо. ([Примечания к исправлению](https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-3))\n\nЕсть предварительный просмотр пакета :\n![Preview](https://cdn.modrinth.com/data/cached_images/91bc6b9e55f536e8fc081e746e0c04a54d5c9842.png)\n\nНаслаждайтесь !",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

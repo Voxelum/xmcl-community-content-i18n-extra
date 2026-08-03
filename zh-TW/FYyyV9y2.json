@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f9b2d8d52bb45c3c",
+  "content": "BG2 Cut 是 Building Gadgets 2 的擴充套件。\n\n它擴充套件了剪下與貼上功能，讓你可以移動不只一般的方塊。\n\n### 特色\n- 允許切割 Building Gadgets 2 通常無法切割的方塊（床、門等）\n- 在選取範圍內幾乎能剪下並貼上所有實體（畫作、物品框、 armor stand、怪物等）\n- 跳過玩家和短時間存在的實體（閃電、釣魚浮標等）\n\n### 需求\n- Minecraft 1.20.1\n- Forge\n- Building Gadgets 2 (必需)\n\n請在客戶端和服务端都安裝此模組。\n\n### 使用方式\n1. 安裝 Building Gadgets 2 和此擴充套件\n2. 正常使用剪下貼上的工具\n3. 選取的床、門和盡可能情況下會被一併處理\n\n### 注意事項\n- 多塊結構（床/門）在某些情况下可能會出現異常行為\n- 大範圍切割可能會導致延遲或花費較長時間\n- 貼上實體可能比方塊放置後幾秒才會出現\n- 這不是取代 Building Gadgets 2，僅為擴充套件\n\n### 致谢\n- Building Gadgets 2 by Direwolf20\n- 擴充套件由 Mametaro 提供\n\n## 依賴\n- 必需: Building Gadgets 2 (僅限 CurseForge)\n  https://www.curseforge.com/minecraft/mc-mods/building-gadgets\n\n注意：Building Gadgets 並未在 Modrinth 官方上架。\n請您從 CurseForge 單獨下載。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

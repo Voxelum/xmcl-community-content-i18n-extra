@@ -1,6 +1,6 @@
 {
-  "bodyHash": "i4mQA8ac1ZY=",
-  "content": "<p>一个支持模组包作者使用 KubeJS 绘制 HUD 并注册 ItemDecorator（物品在背包中的额外渲染）的模组，同时也是一个用于在世界中渲染方块和物品的模组。</p><p>使用事件来添加渲染。</p><p>可能存在一些错误，但我会修复它 :&lt;</p><p>GitHub:<a href=\"https://github.com/ch1335/RenderJS\" target=\"_blank\" rel=\"nofollow\">RenderJS</a></p><p>注意：不同版本之间的方法可能有所不同，具体更改可以在 Gitee 上查看。</p><p>支持自定义渲染的 KubeJS 方块实体。</p><p><img src=\"https://media.forgecdn.net/attachments/description/1064413/description_eb4aac01-4f77-45d0-b475-1ef3a4b55581.png\" alt=\"\"></p>",
+  "bodyHash": "d21b9693c3afc955",
+  "content": "<p>一个支持使用 KubeJS 绘制 HUD 并注册 ItemDecorator（在库存中渲染额外物品）的模组作者的工具，以及用于在世界中渲染方块和物品的模组。</p>\n<p>使用事件来添加渲染。</p>\n<p>可能会有一些错误，但我将会修复它 :&lt;</p>\n<p><a href=\"https://github.com/ch1335/RenderJS\" target=\"_blank\" rel=\"nofollow\">GitHub：RenderJS</a></p>\n<p>注意：方法可能因版本而异，具体更改可以在 Gitee 上查看。</p>\n<p>kubejs 自定义渲染块实体</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1064413/description_eb4aac01-4f77-45d0-b475-1ef3a4b55581.png\" alt=\"\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

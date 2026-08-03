@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5cf36be8f8fde1c",
+  "content": "# %player:dimension% 占位符\n\n### 因為我剛剛發現 [TextPlaceholderAPI 已經可以做到這件事情](https://github.com/Patbox/TextPlaceholderAPI/blob/1.20/src/main/java/eu/pb4/placeholders/impl/placeholder/builtin/WorldPlaceholders.java#L72)，所以這個模組將不再更新。 :(\n\n提供可以回傳玩家所在維度（由添加維度的模組所添加）的占位符。\n需與實作 [Placeholders API](https://placeholders.pb4.eu) 的模組搭配使用。\n\n占位符：\n- `%player:dimension%` - 返回玩家所在的維度\n- `%player:dimension_mod%` - 返回添加該維度的「模組」名稱\n- `%player:dimension_raw%` - 返回維度路徑\n- `%player:dimension_mod_raw%` - 返回維度命名空間\n\n範例：\n\nMinecraft 的「下界」：\n- `dimension` = `The Nether`\n- `dimension_mod` = `Minecraft`\n- `dimension_raw` = `the_nether`\n- `dimension_mod_raw` = `minecraft`\n\nAd Astra 的「月球」：\n- `dimension` = `Moon`\n- `dimension_mod` = `Ad Astra`\n- `dimension_raw` = `moon`\n- `dimension_mod_raw` = `ad_astra`\n\n等等。\n\n規劃中的功能：\n- 可為維度設定顏色（例如：世界為綠色，下界為紅色，末地為紫色，...）\n\n***\n\n*原始靈感 + 大部分 \"makeTitleCase\" 程式碼：https://modrinth.com/mod/dimension-viewer*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

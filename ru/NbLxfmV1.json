@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6c92dc047b7adb9c",
+  "content": "# AutoAFKFish\n\nПростой Fabric-мод для всех версий Minecraft, поддерживающих Fabric до 1.21.9 с версией v1.1.2 и 1.21.9+ с версией v1.1.3. Он делает так, что при нажатии клавиши F12 игра будет вести себя так, будто удерживается правая кнопка мыши.�И会继续运作，即使你打开背包、打开聊天、在多人服务器上暂停，或任何不会停止集成服务器（如果你在客户端世界中）的操作，或在服务器世界中进行的任何操作。你可以通过再次按下F12键来关闭它（有1.5秒的冷却时间）。必须与AFK捕鱼农场一起使用。\n\n感谢Calvineries的法语翻译！\n\n感谢Wudji的简体中文翻译！\n\n也可在[CurseForge](https://www.curseforge.com/minecraft/mc-mods/autoafkfish \"AutoAFKFish CurseForge\")上获取。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

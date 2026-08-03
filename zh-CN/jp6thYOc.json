@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b84f7ee274cc52b1",
+  "content": "# 没有敌对生物\n\n![No Hostile Mobs cover image](https://raw.githubusercontent.com/Sekai0NI0itamio/no-hostile-mobs/main/.modcompiler-art/description-image.webp)\n\n## 描述\n\n此模组会阻止敌对生物出现在您的世界中，无论难度设置如何。您还可以编辑一个简单的配置文件，选择要屏蔽的具体生物，游戏会自动检测到更改而无需重启。\n\n### 对用户的作用\n\n- 敌对生物如僵尸、骷髅、苦力怕、蜘蛛等不会生成。\n- 您可以打开配置文件来添加或删除生物ID以调整被屏蔽的生物列表。\n- 游戏每隔几秒会检查并自动重新加载已保存的更改。\n- 不需要任何指令或特殊物品——效果始终生效。\n\n### 功能特性\n\n- 可自定义内置敌对生物屏蔽列表。\n- 编辑配置文件时实时更新（无需重启）。\n- 无需额外物品、方块或合成操作。\n\n### 您会发现\n\n- 可以编辑配置文件来从屏蔽列表中增减生物ID。\n- 文件更改后会自动重新加载配置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

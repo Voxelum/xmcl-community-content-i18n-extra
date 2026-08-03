@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3e105c94db18e710",
+  "content": "Bobby — это мод для Minecraft, который позволяет увеличить расстояние рендеринга за пределами настройки view-distance сервера.\n\n![The Province of Wynn при расстоянии рендеринга 96 чунков](https://i.johni0702.de/7FlGK.png \"The Province of Wynn at 96 chunks render distance\")\n\nОн достигает этой цели, фиксируя и сохраняя (в `.minecraft/.bobby`) все чунки, отправляемые сервером, которые затем могут быть загружены и отображены в более позднее время, когда чунк находится за пределами view-distance сервера.\n\nПо желанию он также может использовать существующий однопользовательский мир для загрузки чунков, которые сервер никогда не отправлял ранее. Чтобы воспользоваться этой функцией, просто переименайте папку мира (не имя мира, а имя его папки!) в \"bobby-fallback\".\n\nBobby автоматически перезагружает свой конфигурационный файл при изменении. Для настройки в-game установите [ModMenu] и [ClothConfig].\n\n[ModMenu]: https://modrinth.com/mod/modmenu\n[ClothConfig]: https://modrinth.com/mod/cloth-config",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

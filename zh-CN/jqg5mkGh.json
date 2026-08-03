@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4eeecf9bf4b6badb",
+  "content": "# Sulkan\n\n**Sulkan** 是一款 Fabric 模组，为 Minecraft 内置的 Vulkan 图形 API 添加 **着色器支持**。\n\n其目标是在 Minecraft 的 Vulkan 后端上启用基于着色器的现代渲染功能，从而在支持的系统中实现更优的视觉效果和潜在的性能提升。实际效果可能因硬件、驱动程序、已安装的模组和游戏设置而有所不同。\n\n---\n\n## ✨ 功能特性\n\n- 为 Minecraft 的 Vulkan 渲染管线提供着色器支持  \n- 使用 Vulkan 实现现代图形效果  \n- 专为与内置 Vulkan 后端协同设计  \n- 在兼容系统上可能带来性能优化  \n- 专为 Fabric 模组加载器构建  \n\n---\n\n## 📋 系统要求\n\n- GPU 和驱动程序需支持 **Vulkan 1.2** 或更高版本  \n- 启用 Vulkan 支持的 Minecraft 版本  \n- Fabric 加载器  \n- 兼容的模组环境  \n\n---\n\n## ⚙️ 安装指南\n\n1. 安装 **Fabric Loader**  \n2. 确认您的 Minecraft 设置支持 Vulkan 渲染器  \n3. 将 `Sulkan.jar` 文件放入 Minecraft 的 `mods` 目录  \n4. 启动游戏  \n\n---\n\n## ⚠️ 兼容性说明\n\n与其他模组的兼容性 **无法保证**。\n\n依赖 OpenGL 行为或直接调用 OpenGL 的模组可能出现：\n- 功能异常  \n- 崩溃问题  \n- 渲染错误  \n\n报告问题前请查阅已知不兼容列表。\n\n**注意：**  \nSulkan 是 **独立模组**，与 VulkanMod 或 Sodium **不兼容**。\n\n---\n\n## 💬 社区支持\n\n如需帮助、反馈或开发更新：\n\n- Discord: [https://discord.gg/9wXEBAmDNS](https://discord.gg/9wXEBAmDNS)\n\n---\n\n## ☕ 支持开发\n\n开发 Sulkan 需要大量时间和人力。如果您希望支持持续开发：\n\n- Ko-fi: https://ko-fi.com/mravatin  \n\n---\n\n## 🐛 问题报告\n\n在提交问题前，请确保：\n\n- 您的系统支持 Vulkan  \n- 未使用不兼容的模组  \n- 该问题尚未被报告  \n\n提供详细信息（日志、系统配置及复现步骤）将有助于更快解决问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

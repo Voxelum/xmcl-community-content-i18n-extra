@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d31f19e8dc4878ba",
+  "content": "# Superflat維度數據包集合\n這是一組<u>數據包</u>，覆蓋了默認的世界生成，以使所有維度在功能上應用超級平坦，同時保留所有生物群系和結構。\n\n### 使用時請注意：只需在世界創建屏幕添加該數據包並像平常一樣創建世界。您<u>不應使用超級平坦預設。</u>\n\n<details>\n<summary>為什麼它替換了默認的主世界，為什麼不能使用預設？</summary>\n數據包允許創作者在 Minecraft 中編輯許多內容，但有些功能是硬編碼的，這意味着需要修改模塊才能更改。數據包允許自定義超級平坦預設，但不幸的是它們只允許單一的生物群系世界。數據包還允許自定義世界預設，但不幸的是，任何地形的更改都必須<u>全局</u>進行，這意味著如果我需要調整結構或功能生成以適應它，它會更改所有預設。如果我製作了一個預設並有人在這個模塊版本中使用它，那麼他們可能無意間修改了 vanilla 的世界生成！\n</details>\n\n## 兼容性說明：\n這些數據包與任何生物群系模塊都不兼容！這是因為數據包的限制而有技術原因。我可能能夠與 [Lithostitched](https://modrinth.com/mod/lithostitched) 解決這個問題。\n\n如果您從未一起使用過地形模塊，您應該知道它們通常會互相覆蓋。對於本模塊也是同樣的情況。\n\n## 版本：\n\n### <u>經典超級平坦維度</u>\n\n在地面 y=0 處有三層地形和一層基岩。無樹木、植被、洞穴或礦石。只有結構和生物群系。\n*基於“經典”超級平坦預設進行建模*\n\n### <u>超級平坦維度</u>\n\n與經典超級平坦維度完全相同，但有樹木和其他生物群系特徵！\n\n## “我希望地勢實際上從 -64 到 64 都有地形…” / “‘平坦維度’在哪裡？”\n### <u>查看 [Flat Dimensions](https://modrinth.com/datapack/flat-dimensions)（正在審查）</u>\n\n## 生成說明：\n僅限 1.21.2 之前版本\n   - phantom 只能在 Y=63 上方生成\n   - 大多數水生生物只能在 ~Y=50 到 Y=63 之間生成\n\n## 贊助商：Sparked Host\n[![Sparked Host 服務器主機橫幅，代碼 \"Klinbee\" 可獲 25% Off](https://cdn.modrinth.com/data/cached_images/0686265f0089a5e8a0227a599e18b8ef4cd4777c.jpeg)](https://billing.sparkedhost.com/aff.php?aff=2956)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

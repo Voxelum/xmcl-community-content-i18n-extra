@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c0deca488037a005",
+  "content": "<p>就像《Escape from Tarkov》一樣，現在您可以在安全保險箱中保存一些珍貴的物品。若要擴大安全保險箱的容量，請前往服務器端編輯 /config/securitybackpack-server.toml</p>\n<p>&nbsp;</p>\n<p>雖然界面看起來不太好看，但能正常使用 :)</p>\n<p>&nbsp;</p>\n<p>在您的後背 UI 中會增加一個按鈕，點擊後即可打開安全容器。它原本佔據 2 個方塊的空間，並且可以通過鑽石進行升級。存放在其中的物品將永遠是安全的。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c844d82ee610cabb",
+  "content": "<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/darkquesting\" target=\"_blank\" rel=\"nofollow\">DarkQuesting</a> 用於更改賭場 loot 表掉落的數據包</p>\n<p><strong>說明</strong>：如何更改 DarkQuesting Casino Loot 表格<br>-------------------</p>\n<p>打開數據庫 -&gt; darkrpg -&gt; loot_tables -&gt; casino.json （使用文本編輯器）</p>\n<p>要替換現有項目，請完整替換項目 ID，確保不遺漏任何前後代碼。</p>\n<p>例如，如果要以蘋果替換護腿，則可以查找 \"minecraft:elytra\" 並將其替換為 \"minecraft:apple\"</p>\n<p>然後可以通過將 \"count\": 1 替換為 \"count\": 10（位於行的末尾附近）來更改其數量，以獎勵 10x 蘋果</p>\n<p>權重決定了該物品在賭場旋轉中出現的頻率。更高的權重意味著它會出現更多。因此，如果您將 \"weight\": 1 替換為 \"weight\": 20，則當玩家旋轉時，蘋果會比其他物品掉落更多。</p>\n<p>注意：每個完整的行都應以逗號結尾。最後一行（stone）在末尾沒有逗號。刪除整行或添加新行時，請小心不要漏掉代碼。</p>\n<p>&nbsp;</p>\n<p><a href=\"https://discord.gg/uCPfPBvsRJ\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/958/418/join-discord.png\" alt=\"\" width=\"598\" height=\"187\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

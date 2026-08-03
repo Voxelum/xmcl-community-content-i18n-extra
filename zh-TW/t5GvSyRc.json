@@ -1,0 +1,6 @@
+{
+  "bodyHash": "32e36b02ad44cc40",
+  "content": "將生存製作欄位添加到創意庫存畫面。這些欄位在除創意外的所有遊戲模式中顯示。它們通常僅在生存和冒險模式中使用，但其內容會被追蹤並可被服務器修改。有些玩家可能在創意模式下查看和操作這些欄位感到實用，此模组即提供此功能。\n\n創意製作網格現在會阻止客戶端在關閉庫存時將物品從製作格子移動回玩家的倉庫。 toggle 此功能可通過指令 `/creativecrafting sticky [true|false]`，查看當前配置則用 `/creativecrafting sticky`。\n\n![創意庫存含2x2製作網格](https://cdn.modrinth.com/data/cached_images/e928a42a1604b7ab089bc5541fe0e3da1afcac42.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

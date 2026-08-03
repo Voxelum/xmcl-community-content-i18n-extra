@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c6d94c4636282115",
+  "content": "# 保險箱管理器\n在《試煉宮殿》中簡單地管理保險箱的 Mod\n\n---\n\n* <img src=\"https://gxlg.github.io/multi-version.svg\" height=\"24\" width=\"24\" align=\"center\" alt=\"MultiVersion\">\n  MultiVersion <kbd>1.21</kbd>-<kbd>1.21.10</kbd>: 單一 JAR 支援所有版本\n\n* 純 <kbd>客户端</kbd>：單人模式、多人模式皆適用，伺服器無需安裝\n\n---\n\n保險箱管理器會記住您已開啟的保險箱，並顯示以下資訊之一：\n> 已開啟\n\n或\n> 尚未開啟\n\n尤其適合搭配自由視角功能搜尋先前未 loot 的試煉宮殿。\n\n# 功能\n* 使用匹配的鑰匙打開保險箱並記錄狀態\n* 若您安裝 Mod 前已開啟過某保險箱，可透過 <kbd>shift</kbd>+<kbd>click</kbd> 手動記錄\n* 刪除當前世界中所有已記憶的保險箱：<kbd>/vault-manager clear</kbd>\n* 查詢最近的已開啟保險箱位置：<kbd>/vault-manager near</kbd>；適用於主世界與下界\n\n# 儲備檔案\n儲備檔案的功能類似設定檔，隨您在遊戲中 loot 而逐漸填充。\n路徑為 <kbd>MINECRAFT/config/vault-manager.json</kbd>，您可以在遊戲重啟間手動編輯，或使用第三方程式視覺化冒險歷程，甚至將檔案複製至其他安裝以繼續在同一服務器遊玩。\n\n# 關於我\n我在德國攻讀電腦科學，並在一家科技公司兼職。除此之外，我喜歡與朋友共度閒暇時光、線上聊天或玩遊戲。\n\n如果您希望延續此專案、覺得實用，或只是想給予支持與動力，考慮捐贈一點 [<kbd>☕ donation</kbd>](https://www.paypal.com/donate?hosted_button_id=DVC2UQP2AXR68) 對我而言意義非凡。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

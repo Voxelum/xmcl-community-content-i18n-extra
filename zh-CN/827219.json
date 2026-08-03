@@ -1,0 +1,6 @@
+{
+  "bodyHash": "df2f09a73e958549",
+  "content": "<p>此模组是一个 <a href=\"https://www.curseforge.com/minecraft/mc-mods/ic2-classic\" target=\"_blank\" rel=\"nofollow\">IC2-Classic</a> 的附加组件，它为 UU-Matter 和 Plasma Cell 的制作添加了 <a href=\"https://www.curseforge.com/minecraft/mc-mods/jei\" target=\"_blank\" rel=\"nofollow\">JEI</a> 页面。</p>\n<p>&nbsp;</p>\n<p>默认情况下，IC2 Classic 不会为如何制作 UU-Matter 添加图形界面，同样适用于 Plasma Cells。</p>\n<p>通过添加两个新的 JEI 类别来修复这一点，显示如何制作 UU-Matter 和 Plasma Cells。</p>\n<p>&nbsp;</p>\n<p>客户端：必需<br>服务器端：可选</p>\n<p>&nbsp;</p>\n<p>通过此模组，您可以在 UU-Matter 和 Plasma Cells 上按“查看配方”（通常由 JEI 绑定到 R 键）来查看它们是如何制作的。<br><br></p>\n<p>Mass Fabricator 类别显示：</p>\n<p>Mass Fabricator 的 IC2 机器等级。</p>\n<p>可选放大器、该机器可以处理的 EU/packet 数量以及所需能量。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/647/958/massfabricator_1.PNG\" width=\"663\" height=\"879\"><br><img src=\"https://media.forgecdn.net/attachments/647/959/massfabricator_2.PNG\" width=\"664\" height=\"876\"></p>\n<p>&nbsp;<br>Plasmafier 类别显示：</p>\n<p>Plasmafier 的 IC2 机器等级。</p>\n<p>该机器可处理的 EU/packet 数量和处理时间（游戏刻）。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/623/45/1.PNG\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

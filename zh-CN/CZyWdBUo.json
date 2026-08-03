@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4d79cd4f01aa233a",
+  "content": "GeckolibBetterFPS 是一个专注于性能的小型模组，它通过优化 GeckoLib 动画的渲染管线来降低 CPU 开销并提高游戏内的帧率。\n\n该模组专注于 GeckoLib 渲染过程中的数学和逻辑优化。通过减少冗余计算并简化频繁执行的代码路径，它显著降低了渲染动画实体的成本。\n\n✨ 特性\n* 加快 GeckoLib 动画实体渲染速度（~25%）\n* 减少多个 GeckoLib 实体存在时的微小卡顿\n\n该模组不会以任何方式更改动画质量或视觉效果。\n\n需要与 Sodium / Embeddium 和 ImmediatelyFast 配合使用",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

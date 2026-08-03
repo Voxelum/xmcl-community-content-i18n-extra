@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cd191aaa8d9140e6",
+  "content": "<h1>不再有苦力怕破坏</h1>\n<p>所有苦力怕的爆炸修改直接禁用苦力怕爆炸，这个fabric模组可以让您设置它们的爆炸效果类似TNT，使苦力怕依然具有威胁性，同时避免永久丢失放置区块的挫败感。这也使得苦力怕可以用于功能性用途，类似于TNT。<br>\n此模组还允许您完全禁用爆炸破坏。</p>\n<h2>使用方式</h2>\n<p>配合 Cloth-config 模组模组菜单轻松配置苦力怕爆炸行为</p>\n<h2>需要</h2>\n<p>fabric-api<br>cloth-config</p>\n<h2>推荐</h2>\n<p>Mod menu</p>\n<h2>许可协议</h2>\n<p>MIT</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

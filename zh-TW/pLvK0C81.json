@@ -1,0 +1,6 @@
+{
+  "bodyHash": "374c1fd2fc875066",
+  "content": "使用指令隱藏和自訂其他玩家的名稱\n\n![](https://media.forgecdn.net/attachments/802/421/2024-02-04-15-55-25-1.gif)\n\n<span style=\"font-size: 14px;\"><strong>指令</strong></span>\n\n<details>\n<summary>指令</summary>\n  \n```\n/hiddennames nameplateVisible [player(s)] [true/false]\n/hiddennames defaultVisible [true/false]\n/hiddennames blocksHideName [true/false] \n  Blocks in the way hide the nameplate\n/hiddennames setName [player(s)] [colour] [animation] [\"name\"]  \n  The name argument has to be in quotes\n/hiddennames setName [player(s)] name [\"name\"]\n/hiddennames setName [player(s)] colour [colour]\n/hiddennames setName [player(s)] animation [animation]\n/hiddennames setName [player(s)] reset\n```\n  \n  All commands require op level 2 or more to execute.\n</details>\n\n**支持我**\n\n\\- 加入我的 [Discord 服務器](https://discord.gg/pCws5wJ2yT)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

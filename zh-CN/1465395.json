@@ -1,0 +1,6 @@
+{
+  "bodyHash": "544bfbe372109d80",
+  "content": "<p><span style=\"color:#ecf0f1\">当您在启动服务器时，许多模组会将大量数据加载到内存中。部分数据在加载完成后会变为「垃圾」，但仍占用内存，导致服务器实际内存用量虚高。</span></p>\n<p><span style=\"color:#ecf0f1\">服务器完全启动后，GcGo 将：</span></p>\n<ol>\n<li><span style=\"color:#ecf0f1\">自动触发垃圾回收 - 清理这些无用的内存垃圾</span></li>\n<li><span style=\"color:#ecf0f1\">Windows 系统额外优化 - 若您在 Windows 系统上运行，程序还会尝试进一步释放物理内存</span></li>\n</ol>\n<p><span style=\"color:#ecf0f1\">此外该模组在客户端使用时也具有一定的优化效果。</span></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

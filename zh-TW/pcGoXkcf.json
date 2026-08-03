@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4c67fe6fdbefe6d5",
+  "content": "![潛行者爆炸時掉落所有方塊](https://i.ibb.co/PwnCM2w/ezgif-com-video-to-gif-1.gif)\n\n這是一個非常簡單的mod（只有一個混合體複製內建方法並修改一行程式碼），爆炸後潛行者會掉落所有被破壞的方塊。\n\n這是通過將潛行者的爆炸類型從「Creeper」改為「TNT」實現的，遊戲中幾乎不會察覺到變化，因為潛行者死亡時仍然會顯示是由潛行者造成的傷害。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

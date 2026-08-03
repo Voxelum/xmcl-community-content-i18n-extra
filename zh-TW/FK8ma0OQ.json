@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Uo0jOtYWJdI=",
-  "content": "# 全面翻新更新：\n\n我已徹底重寫整個源碼，使其能夠擴展適配多個版本，同時完全改變模組的運作方式，改為基於原版機制。目前所有回報的錯誤應已修復，若你們發現任何問題（除了與《Shoulder Surfing》等模組的相容性），我反而會感到驚訝。\n\n# Omni\n\n**Omni** 是一款極度簡單輕量的《Minecraft》模組，加入了來自《決勝時刻：黑色行動6》與《The Finals》的全向移動系統。\n\n# 關於本模組\n\n全向移動系統的概念非常單純：它讓你能夠朝所有方向衝刺。模組透過混入（Mixin）機制，對限制非前進方向衝刺與衝刺跳躍的原版程式碼進行細微調整。",
+  "bodyHash": "049f2f491654ff64",
+  "content": "# 全面更新：\n\n我已完全重寫了所有源代碼，使其可適用于多種版本，同時改變了整個模组的設計方法，以完全符合原版風格。目前所報告的所有錯誤應該都已修復，如果除了肩探等相容性問題外還發現其他問題，我會感到驚訝的。\n\n# Omni\n\n**Omni** 是一款極其簡單且輕量化的 Minecraft 模组，它加入了 __使命召喚：黑色行動6__ 和 __The Finals__ 中的全方位移動系統。\n\n# 關於\n\n全方位移動系統非常簡單：它允許你在所有方向上衝刺。它使用 Mixins 對原版代碼中限制向前衝刺和衝刺跳躍的部分進行微小修改。\n\n# 配置\n\n```\n# Omni 配置\n# enabled=false 會關閉 Omni 的移動變化。\nenabled=true\n\n# 相對於原版衝刺速度的倍數。\n# 1.0 不變，0.5 為一半速度，2.0 為雙倍速度。\n# 沒有上限；極端數值可能難以控制。\nforward_multiplier=1.0\nbackward_multiplier=1.0\nleft_multiplier=1.0\nright_multiplier=1.0\nforward_left_multiplier=1.0\nforward_right_multiplier=1.0\nbackward_left_multiplier=1.0\nbackward_right_multiplier=1.0\n```\n\n# 命令\n\n```/omni``` -- 顯示功能當前狀態（已啟用或已禁用）\n\n```/omni [enable/disable]``` -- 啓用/禁用功能\n\n```/omni reload``` -- 應用配置值（例如，如果你在遊戲過程中更改了配置，需要重新加載）",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

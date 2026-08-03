@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7721c111cf2f1070",
+  "content": "# 🛸 功能：\n\n此模组是[猎鹰的凋零风暴冒险](https://modrinth.com/modpack/iy9p8OiL)模组包的核心。以下是功能的简要说明：\n\n<details>\n<summary>警告</summary>\n\n### 🛰️ 模组：\n- 生命值计数器（每次死亡从10递减至0，若所有心值耗尽则进入旁观模式）\n### ⚙️ Create模组：\n- 可制作的命令方块\n  - 自定义物品与配方\n  - 配方提示\n### 🌌 凋零风暴模组：\n- [无初始房屋](https://www.curseforge.com/minecraft/customization/no-rundown-house)（禁用模组的默认起始房屋，因为你可以直接制作命令方块）\n\n</details>\n\n## 🔧 依赖项：\n- [🌌 Cracker's 凋零风暴模组](https://modrinth.com/project/kWjNGDUH)\n- [⚙️ Create](https://modrinth.com/project/LNytGWDc)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

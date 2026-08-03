@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1a900720e37c9dbe",
+  "content": "<p>Curios Performance Fix 是一个针对 Minecraft Forge 1.20.1 的轻量级客户端优化模组。</p>\n<p>通过缓存重复的客户端查询并跳过空或隐藏的神秘饰品渲染操作，减少与 Curios 相关的不必要的渲染和库存检查。</p>\n<p>该模组还包括对 Relics 和 More Relics 的可选兼容性优化，包括对频繁执行的符文板和 Swiftedge HUD 渲染的改进。</p>\n<h3>功能</h3>\n<ul>\n<li>减少重复的 Curios 库存查询</li>\n<li>跳过空或隐藏的神秘饰品槽的不必要渲染</li>\n<li>优化 More Relics 的符文板和 Swiftedge HUD 检查</li>\n<li>缓存选定的客户端神话装备搜索</li>\n<li>不修改伤害、冷却时间或服务器端物品能力</li>\n<li>作为客户端模组运行</li>\n<li>Relics 和 More Relics 的集成是可选的</li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

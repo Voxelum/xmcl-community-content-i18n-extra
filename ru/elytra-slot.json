@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5583c81385f9e0b8",
+  "content": "Элитра-слот — это мод, использующий API Curios/Trinkets для добавления слота для элитры в инвентарь игрока и позволяющий размещать элитру в этом слоте. Пока элитра находится в этом слоте, она предоставляет такие же способности к полету, как если бы она находилась в слоте нагрудника. Это позволяет игроку выиграть от преимуществ элитры, не жертвуя при этом слотом брони.\n\n### Зависимости Forge\n* [Curios](https://modrinth.com/mod/curios)\n* [Caelus](https://modrinth.com/mod/caelus)\n\n### Зависимости Fabric\n* [Trinkets](https://modrinth.com/mod/trinkets)\n\n### **Curios**\n![](https://i.imgur.com/gFyQBPW.png)\n\n### **Trinkets**\n![](https://i.ibb.co/FVV3gSp/elytratrinket.png)\n\n## Поддержка\n\nПожалуйста, сообщайте обо всех ошибках, проблемах и запросах функций в\n[трекер задач](https://github.com/illusivesoulworks/elytraslot/issues).\n\nДля технической поддержки и вопросов присоединяйтесь к [Discord разработчика](https://discord.gg/JWgrdwt).\n\n## Лицензия\n\nВсе исходный код и объекты лицензируются под LGPL-3.0-or-later.\n\n## Пожертвования\n\nПожертвования разработчику можно отправить через [Ko-fi](https://ko-fi.com/C0C1NL4O).\n\n## Партнеры\n\n[![BisectHosting](https://i.ibb.co/1G4QPdc/bh-illusive.png)](https://bisecthosting.com/illusive)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

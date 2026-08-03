@@ -1,6 +1,6 @@
 {
-  "bodyHash": "KFcQZMf0nC8=",
-  "content": "<h3><img src=\"https://media.forgecdn.net/attachments/description/1371898/description_8c593ca5-7f73-43d1-a935-6f05c767b596.gif\"></h3><h3>&nbsp;</h3><h3>功能特色</h3><p>🔄 <strong>自動清理：</strong>定期刪除掉落物品，防止延遲累積。</p><p>⚙️ <strong>可設定間隔：</strong>自訂清理頻率（預設：每10分鐘）。</p><p>✅ <strong>白名單系統：</strong>保護重要物品（如獄髓、星星或鑰匙）免遭刪除。</p><p>💬 <strong>智能訊息：</strong>僅在實際刪除物品時通知玩家（避免聊天洗頻）。</p><p>🧭 <strong>遊戲內設定：</strong>與 <strong>Configured</strong> 模組相容 — 可直接在模組選單中編輯設定。</p><p>📜 <strong>管理員指令：</strong></p><p><code>/itempurge now</code> — 手動立即清理物品。</p><p><code>/itempurge set &lt;秒數&gt;</code> — 變更清理間隔。</p><p><code>/itempurge whitelist add/remove/list</code> — 管理受保護物品清單。</p><p>特別適合因農場、怪物戰鬥或採礦後累積數千掉落物導致延遲的伺服器或單人世界。<br>在背景靜默運行，不觸碰實體或方塊，持續維持高效能表現。</p><p>MIT 授權 — 可自由修改並註明出處收錄於模組包中。</p>",
+  "bodyHash": "1b05d39bb31c83cb",
+  "content": "<h3><img src=\"https://media.forgecdn.net/attachments/description/1371898/description_8c593ca5-7f73-43d1-a935-6f05c767b596.gif\"></h3>\n<h3>&nbsp;</h3>\n<h3>功能</h3>\n<p>🔄 <strong>自動清理：</strong>定期刪除已掉落的物品，以防止遊戲運行變慢。</p>\n<p>⚙️ <strong>可配置的間隔：</strong>選擇清理發生的頻率（預設：每 10 分鐘一次）。</p>\n<p>✅ <strong>白名單系統：</strong>保護重要物品（如下界合金、星星或鑰匙）不會被刪除。</p>\n<p>💬 <strong>智能訊息：</strong>只在實際刪除了物品時通知玩家（不會在聊天框中 spam 信息）。</p>\n<p>🧭 <strong>遊戲內配置：</strong>與 <strong>Configured</strong> 模塊協作 ——可以直接從Mods菜單編輯設置。</p>\n<p>📜 <strong>管理員命令：</strong></p>\n<p><code>/itempurge now</code> &mdash; 手動清除物品。</p>\n<p><code>/itempurge set &lt;秒數&gt;</code> &mdash; 更改清理間隔。</p>\n<p><code>/itempurge whitelist add/remove/list</code> &mdash; 管理受保護的物品。</p>\n<p>適合用於農場、怪物戰鬥或採礦後由於大量掉落物品而導致卡頓的服務器或單人生存世界。<br>在靜默地於後台運行，保持高性能，而無需触碰任何實體或方塊。</p>\n<p>MIT &mdash; 自由修改和包含在模組包中，但需註明出處。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

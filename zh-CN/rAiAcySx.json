@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d4d36511afe68e1f",
+  "content": "平滑自由相机\n\n脱离你的角色，自由地在世界中飞行，而你的角色会静止在原地。当你完成时，视角会平滑地滑回你的身体，而不是瞬间弹回。\n\n适合制作电影镜头、基地游览、侦察地形，或从更好的角度进行探索。\n\n![Replace this with a description](https://cdn.modrinth.com/data/cached_images/f3cfab29d33ad8c9a17fab2d0d9ee03e1d66c3e8_0.webp)\n\n\n**特性**\n\n\n• 平滑的自由相机飞行，带有加速度和滑动感（类似旁观者模式）\n\n• 你在操控相机移动时，玩家角色保持在原位不动\n\n• 退出自由相机时，平滑的加速/减速返回\n\n• 可通过鼠标滚轮调整速度\n\n• 冲刺以加速自由相机\n\n• 自由相机激活时隐藏 HUD\n\n• 通过配置文件完全自定义移动感受\n\n\n\n**控制**\n\n\n• 切换自由相机 — F6（默认，可在 Controls 中重新映射）\n\n• 移动 — WASD\n\n• 上 / 下 — 跳跃 / 潜行\n\n• 视角 — 鼠标\n\n• 速度提升 — 冲刺\n\n• 改变速度 — 鼠标滚轮\n\n\n\n**配置**\n\n所有选项均可在 Forge 配置中找到：\n\n• moveSpeed — 基础自由相机速度\n\n• sprintMultiplier — 冲刺时的速度提升倍数\n\n• acceleration — 相机达到目标速度的速度\n\n• friction — 停止后相机减速的速度\n\n• transitionTicks — 游戏回归时的平滑过渡时长\n\n\n\n**注意**\n\n• 客户端侧的自由相机体验\n\n• 死亡、骑乘载具或打开 GUI 界面时无法切换自由相机",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

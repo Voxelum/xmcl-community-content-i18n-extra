@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7e6b8f0b5eb5c6fc",
+  "content": "**\\[TACZ\\] 生物群落士兵**\n\n⚠️ **必需的模组** — 安裝所有以下內容，否則遊戲將崩潰：\n\n• TACZ（Timeless & Classics Zero）• Marbled's Arsenal • Marbled's Core • GeckoLib\n\n適用於 Minecraft Forge 1.20.1（也支援 1.18.2）。\n\n根據生物群系在世界各地生成帶槍的士兵 NPC，並提供你可指揮的私人護衛。每個單位都使用真實 TACZ 槍械和 Marbled's Arsenal 盔甲。\n\n![image](https://media.forgecdn.net/attachments/description/1577079/description_41541411-1feb-4072-8f6c-767cd4753c30.png)\n\n🪖 **生物群落士兵**\n\n自然生成且一看到玩家與敵對生物便開火的敵對 NPC：\n\n沙漠士兵 — 在沙漠與惡地中生成  \n冬之士兵 — 在雪原與針葉林生物群系中生成  \nSWAT 士兵 — 在其他超維度生物群系中生成  \n\n![](https://media.forgecdn.net/attachments/description/null/description_6bbcae97-5102-4254-804e-8d426df914f1.png)\n\n🛡️ **護衛（等級 1–3）**\n\n屬於你的私人護衛（用蛋召喚）。等級越高，武器與盔甲越強壯。\n\n按住 Shift + 右鍵切換追蹤／保護模式  \n右鍵開啟他們的裝備選單（武器／彈藥／盔甲）  \n當一名護衛跟隨你時攻擊他，整個小隊會反擊  \n\n![image](https://media.forgecdn.net/attachments/description/1577079/description_1018c4b8-421f-416a-babd-d6d707369496.png)\n\n🚩 **保護區域**\n\n使用區域標記來佔領土地。在你的區域內，爆炸、熔岩、火焰及環境傷害皆被阻擋。可透過 /zone 指令管理（信任玩家、刪除、給予方塊等）。\n\n⚙️ 注意：預設情況下「保護區域」是關閉的。若要啟用，請於遊戲內使用指令 `/config showfile militarybase COMMON` 修改模組設定，並將 `zonesEnabled` 設為 true。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

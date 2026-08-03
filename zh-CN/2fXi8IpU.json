@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc4be4c1a31bdff2",
+  "content": "# [AxolotlClient](https://modrinth.com/mod/axolotlclient)的模组包。\n\n### 警告：此模组包目前无法在1.8.9版本的启动器中安装，因为它们无法解析自定义Maven坐标（用于中介版）。他们知道这个问题，请不要一直抱怨这个问题（详见：[PrismLauncher#1343](https://github.com/PrismLauncher/PrismLauncher/issues/1343)，[modrinth/discussion#106](https://github.com/orgs/modrinth/discussions/106#discussioncomment-8190566)）。\n\n**注意：此模组包的1.8.9版本在另行通知之前都不会更新，因为\"ornithe\"加载器不被mrpack规范所支持。**\n\n这个模组包使得模组的更新变得更容易。它目前被[安装程序](https://github.com/AxolotlClient/AxolotlClient-installer)使用。通常用于那些不想自己安装一堆模组的懒人，但也可以用作添加自己喜爱的模组的基础。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

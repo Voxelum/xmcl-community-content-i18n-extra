@@ -1,0 +1,6 @@
+{
+  "bodyHash": "938389768f1e978c",
+  "content": "此模组打包了GraalJS，以便其他模组能够使用GraalJS而无需单独打包它。\n\n版本号说明：GraalJS-(支持的Minecraft版本)-(GraalJS版本)-(本模组版本号)-(模组加载器标识符)-(打包类型)  \n例如：GraalJS-1.21.x-24.2.1-1-Neo-lite\n\nGraalJS: https://www.graalvm.org/javascript/  \nGraalJS文档: https://www.graalvm.org/reference-manual/js/  \n本项目GitHub: https://github.com/An-Mao/MC-GraalJS\n\n----注意----  \n· 这不是官方的GraalVM产品。如果遇到非代码相关问题，请与我联系。  \n· 使用包含GraalJS的JDK启动游戏时（例如GraalVM），可能会发生错误。请使用附带的lite版本。\n\n任何问题均可在github提出或如下联系：  \n- [Telegram](https://url.anye.dev/tg)  \n- [Discord](https://url.anye.dev/discord)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

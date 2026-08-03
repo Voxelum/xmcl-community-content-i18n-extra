@@ -1,0 +1,6 @@
+{
+  "bodyHash": "620201baa447c518",
+  "content": "<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_c4187a4e-b6cf-4469-a734-1ff591be0e43.png\">FTB Quests (forge): <a href=\"https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge</a></p>\n<p>FTB Quests (fabric): <a href=\"https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric</a></p>\n<p>这个物品用一个现代平板电脑替换了“书”。</p>\n<p>如果您想正确地持有PDA，请安装 <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fnot-enough-animations\" rel=\"nofollow\">Not enough animations</a> 模组，然后打开模组的配置文件并复制此代码</p>\n<pre><code>  \"holdingItems\": [\n    \"minecraft:clock\",\n    \"minecraft:recovery_compass\",\n    \"minecraft:soul_lantern\",\n    \"minecraft:compass\",\n    \"minecraft:torch\",\n    \"minecraft:lantern\",\n    \"minecraft:soul_torch\",\n    \"ftbquests:book\"\n  ],\n</code></pre>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

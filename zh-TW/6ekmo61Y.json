@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ec1f30b106c786a7",
+  "content": "# Hypixel AutoTip\n## 功能說明\n每約 15 分鐘自動使用 /tipall 為 Hypixel Network 上所有擁有活躍助推器的玩家送小費，讓你無需手動操作。\n\n初次加入 Hypixel 時只需按下 `NumPad1`（可在 Minecraft 的鍵位設定中重新綁定），便會自動開始發送小費。再次按下 `NumPad1` 即可停止自動發送小費。\n\n## 功能特色\n- 每 15 分鐘自動發送所有玩家小費\n- 不在 Hypixel 時會自動禁用\n- 可透過鍵位切換預設為 NumPad 1\n\n## 原始碼\n原始碼請見：[https://github.com/Lilyy2565/hypixelautotip](https://github.com/Lilyy2565/hypixelautotip)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

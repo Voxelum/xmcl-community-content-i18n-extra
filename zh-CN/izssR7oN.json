@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fe1632397290bd44",
+  "content": "# 如果你想让我添加其他方块，请在GitHub上创建一个问题，或者在本页面底部提供的Discord链接上问我。\n\n修复了Create模组中的各种方块问题。\n这是通过为模组方块和部分原版方块添加标签来实现的。可查看github上的 createccfix/data/create/tags/blocks/ 获取标签列表。标签即为文件名。\\n原始问题的修复建议来自于该[issue](https://github.com/tweaked-programs/cccbridge/issues/82)的作者，现在该项目已扩展到为任何需要添加Create标签的方块添加标签。\n\n如果模组在你的版本中运行良好，我建议你使用它而不是数据包，因为数据包需要在每个世界的datapacks文件夹中安装，这有点麻烦。\n\n支持的方块：\\nsupplementaries 烛台 [https://github.com/MehVahdJukaar/Supplementaries/issues/1086](https://github.com/MehVahdJukaar/Supplementaries/issues/1086)\\ncomputercraft 调制解调器 - 这些问题在 cc:tweaked 1.110.2 中已修复\\nvanilla 苔藓地毯 - 已在 create 补丁 h 中修复\\nvanilla 旗帜 - 已在 create 补丁 h 中修复\\nvanilla 蛋糕 - 已在 create 补丁 h 中修复\n\n大多数方块的修复已经在各自模组的开发版本中完成，除了 supplementaries，至今没有人回复我，但将它们在数据包中包含在内不会影响已修复的版本，~~所以我暂时保留了它们~~ (已从 4.0+ 移除了已修复的方块)。\n\n如果你有任何问题或改进建议，请在GitHub上创建一个问题，或加入Discord。\n\n如果你有具有相同问题的其他方块，请在GitHub上的置顶问题上评论。\n\nGithub:\n[https://github.com/Plite7067/CreateCCModemFix](https://github.com/Plite7067/CreateCCModemFix)\n\nDiscord:\n[https://discord.gg/JVnsenjzUd](https://discord.gg/JVnsenjzUd)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

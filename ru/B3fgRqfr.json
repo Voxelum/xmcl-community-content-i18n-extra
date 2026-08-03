@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1aed8aedc0c4b350",
+  "content": "[![Последний релиз](https://img.shields.io/modrinth/v/B3fgRqfr?style=for-the-badge&label=Latest%20Release&color=8994ce)](https://modrinth.com/mod/wordstones/versions)\nВерсии игры (1)\n\n# О пакете\n\n**Server Unpacker** — это клиентский мод, который извлекает любые файлы ресур pakken, которые могут быть загружены в Minecraft\n\n## В игре\n\nПеретащите мод в папку `mods/` и присоединитесь к любому серверу с необходимым ресур pakken.\n\nИзвлеченные файлы будут находиться в папке `.minecraft(2)/extracted-packs/`\n\n## GUI\n\nВы можете запустить файл .jar напрямую для открытия интерфейса.\n\nВыберите или перетащите файлы на интерфейс, чтобы извлечь их в ту же директорию.\n\n![Предварительный просмотр GUI](https://cdn.modrinth.com/data/B3fgRqfr/images/7a6860c3645da101e697336d16935706192f3d21.png)\n\n## CLI\n\nВы можете извлекать несколько файлов, используя следующую команду:\n\n`java -jar server-unpacker-*.jar [файлы]`\n\n## Подтверждение\n\n- Спасибо [Zardium(4)] за написание исходного кода и создание интерфейса.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

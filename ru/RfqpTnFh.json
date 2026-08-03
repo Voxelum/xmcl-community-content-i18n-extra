@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e87d72ee4fc34877",
+  "content": "## Summary\n\nИсправление для бага-ticket Sinytra Connector [#1331](https://github.com/Sinytra/Connector/issues/1331).\n## Pourquoi Install? \n### Si vous êtes un utilisateur **NeoForge** souhaitant utiliser Better End, lisez ceci. \n\nSinytra Connector est un mod NeoForge qui permet d'utiliser des mods Fabric sur NeoForge.\n\nCependant, il contient un bug qui compromet la génération du terrain de surface dans les biomes Better End, ce qui entraîne que la plupart des caractéristiques—comme le feuillage et les arbres—ne génèrent pas correctement.\n\nInstaller mon datapack résout complètement ce problème.\n\n## Quelle version est-ce et comment installer?\nÇa fonctionne pour 1.21.1. Il est recommandé d'utiliser un mod chargeur de datapacks comme Global Packs pour qu'il fonctionne tous les types de monde, c'est optionnel.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

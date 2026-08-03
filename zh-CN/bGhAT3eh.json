@@ -1,0 +1,6 @@
+{
+  "bodyHash": "28092e23b8e35266",
+  "content": "# FSE铁路运输票务系统\n欢迎使用FSE铁路运输票务系统\n请务必确保Kubjs字体库中包含**jnr.ttf** 祝使用愉快！\n## 售票机\n用于出票。\n通过Computercraft传入票件数据，写入票件nbt。\n## 检票机\n用于检票。\n通过右键识别票件，将票见数据传入Computercraft，读取票件nbt，对票件进行操作。\n## 充值机\n用于给IC交通卡充值",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

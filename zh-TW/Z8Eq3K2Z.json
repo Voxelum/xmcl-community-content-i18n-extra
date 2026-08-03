@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dfd4c8e626774237",
+  "content": "這個模組的唯一目的是修復一個非常特定的 Minecraft 錯誤 ([https://bugs.mojang.com/browse/MC-186626](https://bugs.mojang.com/browse/MC-186626))。我為了我另一個稱為 Immersive Backrooms 的模組，需要為不同維度分配特定天氣的能力，所以我決定把它作為獨立模組分享出來，以防其他人也需要此功能而不得不等待 Mojang 修復它。\n\n**Fabric 依賴：** [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n\n**Quilt 依賴：** [Quilted Fabric API](https://www.curseforge.com/minecraft/mc-mods/quilted-fabric-api)\n\n**Forge 依賴：** 沒有，我想應該不需要。\n\n注意：只有 1.1 及更高版本支援 Quilt 跨平台相容性。\n\n**2026 年 5 月 25 日新增內容：** 也已經加入對 1.20.1 Forge 的支援。\n\n__重要提示：__ 目前，此僅標準範例天氣週期（包括降雨、雷暴和晴朗）相容。此外，這僅在具有天氣功能的維度中生效。將相關維度類型 JSON 文件中的 `has_skylight` 設為 false 或 `has_ceiling` 設為 true 會完全禁用範例天氣，導致此模組無效。換言之，你的目標維度必須先擁有範例天氣週期才能使用。詳細請參見 https://minecraft.wiki/w/Dimension_type。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

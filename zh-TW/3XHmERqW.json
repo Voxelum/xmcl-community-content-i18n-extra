@@ -1,0 +1,6 @@
+{
+  "bodyHash": "930f40771f9d7953",
+  "content": "CRLib 是一個用於儲存所有開發者模組及未來模組所需工具與功能的函式庫。\n\n目前它即時新增了一套桶子類似系統。\n\n它透過 JSON 為 Roost 模組生成新流體蛋，並完全以數據包/資源包方式運作。\n\n其功能如同獨立數據包，可載入新模型、JSON、材質等內容，無需重新編譯，類似 KubeJS 或其他具有資源載入功能的模組。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

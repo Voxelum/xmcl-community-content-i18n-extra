@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f89b95387c487ff2",
+  "content": "# PvP Gamerule\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/pvp-gamerule)\n[![fabric-api](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/fabric-api_vector.svg)](https://modrinth.com/mod/fabric-api)\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/tClfEV9G8os\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n---\n\nДобавляет правило игры `pvp` (по умолчанию `true`). Установите его значение в `false`, чтобы отключить бой между игроками.\n\n## FAQ\n- **Это будет работать в локальных сетях?**\n\n> Да.\n\n- **А как насчет настройки `pvp` в `server.properties`?**\n\n> Игнорируется полностью, правило игры всегда имеет приоритет.\n\n- **Как определяется PvP? Что будет отключено?**\n\n> Behaves the same as changing the `pvp` setting in the `server.properties` just as a gamerule.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

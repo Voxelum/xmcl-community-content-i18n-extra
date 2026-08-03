@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77779ccaa8b1ee15",
+  "content": "<p>Это просто библиотека, и она не добавляет ничего самостоятельно. Она используется в <a href=\"https://www.curseforge.com/minecraft/mc-mods/theelementguys-more-metals\" target=\"_blank\" rel=\"nofollow\">More Metals and Ores TheElementGuy</a>, моей другой моде.</p>\\n<p>Каждая версия начинается с младшей версии, а затем с версии соответствующего Minecraft. Родительский мод должен сообщить вам, какую версию использовать.</p>\\n<p>Для разработчиков:<br>Если вы хотите использовать это для создания мода, вам повезло! Должно быть легко использовать. В коде есть комментарии Javadoc. Смотрите репозиторий GitHub для получения дополнительной информации.</p>\\n<p>Поддерживаемые версии:</p>\\n<ul>\\n<li><del>1.21.10</del></li>\\n<li>1.21.11 (NeoForge/Fabric)</li>\\n<li>1.21.4 (NeoForge/<em>Fabric</em>)</li>\\n<li>1.21.1 (NeoForge/<em>Fabric</em>)</li>\\n<li><del>26.1.X</del></li>\\n<li><del>26.1.X - Fabric</del></li>\\n<li>26.2 (NeoForge/Fabric)</li>\\n</ul>\\n<p>зачеркивание - больше не обновляется/поддерживается</p>\\n<p>курсив - в разработке</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

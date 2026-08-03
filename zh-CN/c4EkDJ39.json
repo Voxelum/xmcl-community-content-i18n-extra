@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7f4313e75119f2b8",
+  "content": "这个模组为Tetra添加了几个模块化奇趣物品：\"徽章\"和\"护目镜\"。它还添加了一个新的奇趣物品槽位。\n\n添加了一些金属、宝石和插槽材料。\n添加了一些特殊物品特效，并为它们创建了特殊的GUI栏。\n添加了一个与奇趣物品相关的卷轴，用于应用相应的增强效果。\n添加了一个名为古代熔炉的工作台，用于制作材料。\n\n如果您有任何问题或建议，欢迎加入我的[Discord](https://discord.com/invite/6jXEgEPjx5)频道进行讨论。\n\n目前仅支持版本 **_1.20.1_**\n\n模组依赖项：\n\n- Tetra 6.5.0+\n- Curios API 5.8.1+\n\n\n当前，一个徽章由**盾形、宝石盾形、图案和宝石核心**组成。动态插槽将盾形绑定到图案，将宝石盾形绑定到宝石核心。\n\n护目镜由**扣环、边缘、框架、左镜片、右镜片、单镜片和带子**组成。它们也使用动态插槽将镜片绑定到所使用的框架。\n\n如果您的数据包或模组包的作者，只要遵循许可证（LGPLv3），您可以自由使用它。您可以通过数据包配置一些物品特效。\n\nDiscord: https://discord.com/invite/6jXEgEPjx5\n\nGitHub: https://github.com/Neferge466/Tetra-Loopback\n\n它已经与Terra的一些原生物品特效兼容。\n\n![月纹与盾形基座](https://cdn.modrinth.com/data/cached_images/9a0f7b018913b081df8442e336d1b3d63d2f486e_0.webp)![宝石核心与宝石盾形](https://cdn.modrinth.com/data/cached_images/74ebd4c89ef8a2d39ae2942499f60024656c45c6_0.webp)![护目镜](https://cdn.modrinth.com/data/cached_images/0d337859ae21f76690ac2aa1b930ef71c57c1562_0.webp)![](4)![古代熔炉GUI](https://cdn.modrinth.com/data/cached_images/274f08ad6406a8849f09c0e210686e0878e82ef6.png)![奇趣物品展示](https://cdn.modrinth.com/data/cached_images/ba8588992bd3d9a278da873d512c9f8ec6fe2d44.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

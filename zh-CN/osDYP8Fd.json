@@ -1,0 +1,6 @@
+{
+  "bodyHash": "af4db48840dd7274",
+  "content": "![线缆更新横幅](https://cdn.modrinth.com/data/cached_images/c0dfce513102c391fe1571b765f951e8924c3717.png)\n\n一个针对 [Weather2/天气风暴与龙卷风](https://modrinth.com/mod/weather-storms-tornadoes) 模组的扩展插件，由 [Corosus](https://modrinth.com/user/Corosus) 开发。\n\n本模组旨在通过引入新的机制和技术，提升 Weather2 模组的体验，使用户能够更好地追踪天气事件。\n\n平板电脑支持风暴追踪功能，类似于 1.12.2 版本 Weather2 模组的天气雷达系统。\n\n![平板电脑物品——一种可用于追踪和监控风暴，并绘制周边地形的物品](https://cdn.modrinth.com/data/cached_images/4a3edc7f266f3447a625e6ec59eb18c9bea21a17.png)\n\n模组还包含一个小电池方块用于给您的平板充电，该电池可由 Weather2 的风力涡轮机供电。\n\n![小型电池方块界面——显示物品槽位的输入输出以及存储的总能量量](https://cdn.modrinth.com/data/cached_images/22f86f387dfb638f6f85a14d539f60f40b687f45.png)\n\n雷达方块通过临时加载周围区块来辅助绘制区域地图。\n\n![雷达菜单界面，显示周边区域的像素绘制图、消耗速率、能量值以及测绘半径](https://cdn.modrinth.com/data/cached_images/d18c3a6fb091f3b819695d638ea9fe44e6a78f06.webp)\n\n所有设备均可通过电缆和风力涡轮机（来自 Weather2 模组）供电。\n\n![一张展示电缆使用方式的图片：部分电缆连接至风力涡轮机，接入电池方块顶部；另一部分从电池方块底部引出，连接至雷达方块](https://cdn.modrinth.com/data/cached_images/7074f436ab5389ed58e267c3506cf56bbbef6350.webp)\n\n可通过网络分析仪工具监控电缆及其内部缓冲区状态；\n\n![网络分析仪界面，显示电缆吞吐量、内部能量缓冲值以及网络中的电缆数量](https://cdn.modrinth.com/data/cached_images/c8970a9ffcf20d0f7e609e3fd384be666b02357f.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

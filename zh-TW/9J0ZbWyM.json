@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e8551329255b4c0e",
+  "content": "這個模组旨在在由補充開發團隊開發的[補充](https://modrinth.com/mod/supplementaries)與由TFC開發團隊開發的全換型模组[TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) (TFC)之間提供兼容性。作為一個附加功能，它需要同時補充和TFC才能運作。\n\n兼容性所做的更改很廣泛，但請舉例一些重要事項：\n- 配方根據TFC中的可獲得物品進行了調整\n- 光源像TFC一樣燒燬。現在你可以使用蠟燭架、燈盞和火坑作為平衡的光源！\n- 袋子現在更像一个大型容器，但也可以用它們來運送大型物品\n- 薄餅、糖果和高脚杯可以使用TFC。營養、到期日等均正常運作（甚至以方塊形式放置的薄餅！）\n- 煙火條紋可以點亮TFC方塊，從粉雷到爆風爐和火坑\n\n有關詳細信息（包括配置設置）的更廣泛列表，可以在GitHub README.txt文件中找到。如果您遇到任何問題，請在報告上面！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

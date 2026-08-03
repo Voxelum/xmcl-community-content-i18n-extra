@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4d79aaffa1250a1d",
+  "content": "<h2 style=\"text-align:left\">Create: 火车视角修正</h2>\n<p style=\"text-align:left\"><strong>一个非常小的模组，用于修复玩家在乘坐火车驾驶时不随火车旋转的问题。</strong></p>\n<h1 style=\"text-align:left\"><span style=\"color:#ba372a\"><strong>请注意：当使用 Create 版本 0.5.1g 及更高版本时，不再需要此模组，因为这些更改已添加到核心模组中！请使用较新版本的 Create 时移除此模组以避免错误！</strong></span></h1>\n<h3><strong>依赖项</strong></h3>\n<p>本模组需要 <a href=\"https://www.curseforge.com/minecraft/mc-mods/create\" rel=\"nofollow\">Create Mod v0.5.1a</a> 或更新版本的 Forge，或者 <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-fabric\" rel=\"nofollow\">Create Fabric Mod v0.5.1b</a> 或更新版本的 Fabric。</p>\n<h3>&nbsp;</h3>\n<p><a href=\"https://discord.gg/AeSbNgvc7f\" rel=\"nofollow\"><img src=\"https://i.imgur.com/YnDoeHs.png\" alt=\"Discord\" width=\"263\" height=\"64\"></a></p>\n<p>&nbsp;</p>\n<p>&nbsp;欢迎加入我的 Discord 服务器，以获取有关模组的更多信息，或者发送错误报告、建议或与社区交流！</p>\n<h3><strong>功能</strong></h3>\n<p>也许只有我一个人这样，但当我坐在火车上经过弯道而角色无法随之旋转时，这让我很困扰。此模组正是为了解决这个问题而设计的。安装模组后，玩家会随着移动的火车旋转，但仍可自由查看四周。仅当坐着时生效；若站在火车上，则无任何变化。</p>\n<h3><strong>支持版本</strong></h3>\n<p>本模组可在所有<strong>1.18</strong>及以上版本中使用，同时适用于<strong>Forge 和 Fabric</strong>。该模组仅限客户端使用，无需安装在服务器上，否则在服务器上将无作用甚至导致崩溃！</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

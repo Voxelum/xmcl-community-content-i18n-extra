@@ -1,0 +1,6 @@
+{
+  "bodyHash": "576665de6c5d07a6",
+  "content": "<h1>反作弊</h1>\n<p><strong>反作弊</strong> 是一個針對 <strong>Pixelmon</strong> 服務器的服務端安全模組，旨在降低非公平第三方工具的有效性，這些工具會為玩家提供正常遊戲玩法中無法獲得的信息或優勢。</p>\n<p>該模組最初為 <strong>PokeBalta</strong> 網絡開發，已在多人聯機環境中測試，現可供其他希望提升競爭公平性的 Pixelmon 服務器所有者使用。</p>\n<h2>功能</h2>\n<ul>\n<li>\n<p>阻攔常見雷達式工具，揭露隱藏或無法獲得的信息。</p>\n</li>\n<li>\n<p>防止使用提供不公平戰鬥優勢的傷害計算器集成。</p>\n</li>\n<li>\n<p>服務端保護，無需安裝客戶端。</p>\n</li>\n<li>\n<p>專為 Pixelmon 玩法和機制設計。</p>\n</li>\n<li>\n<p>輕量級實現，對性能影響極小。</p>\n</li>\n<li>\n<p>安裝和配置簡單。</p>\n</li>\n</ul>\n<h2>為何使用 AntiCheat？</h2>\n<p>許多 Pixelmon 實用程序可向玩家提供正常遊戲中不應有的信息。這在 PvP 比賽和競技活動中造成不公平優勢。</p>\n<p>AntiCheat 專注於防止此類優勢，同時讓合法玩家在無不必要限制的情況下享受遊戲。</p>\n<h2>兼容性</h2>\n<ul>\n<li>\n<p>專為 Pixelmon 服務器設計。</p>\n</li>\n<li>\n<p>適用於多人環境。</p>\n</li>\n<li>\n<p>僅限服務端。</p>\n</li>\n</ul>\n<h2>注意</h2>\n<p>本項目 <strong>不</strong> 旨在成為通用 Minecraft 反作弊工具。其目標是防止由雷達和戰鬥助手等外部工具提供的 Pixelmon 特定不公平優勢。</p>\n<p>最初為 <strong>PokeBalta</strong> 網絡創建，並向更廣泛的 Pixelmon 社區發佈。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

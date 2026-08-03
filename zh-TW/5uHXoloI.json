@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f140fac976ceec70",
+  "content": "# 生命狀態指示器\n在玩家頭頂顯示生命值。\n\n---\n\n*生命條也會像玩家客戶端狀態條一樣動態動畫化！*\n\n擁有順滑的遊戲內選單！**關鍵綁定是減號 `-` !!**\n<br>\n此模組需要 [ImproperUI](https://modrinth.com/mod/ImproperUI) 才能運行。\n\n```\n如同原版生命值顯示，更新時會閃爍。\n當玩家生命值低於4點時，心形圖標也會震動。\n```\n支援的心形類型包括：\n-枯萎\n中毒\n冷凍\n硬化\n吸收\n正常\n\n如同原版那樣，如果玩家擁有超過一行心形，它們會堆疊起來。\n\n盡可能地添加原版動畫效果：\n-更新閃爍\n-最後傷害閃爍\n-{生命}再生波紋動畫\n-心形圖標類型\n-心形堆疊-{生命}吸收\n\n\n**免責聲明 (2):**\n- **某些伺服器可能會禁止使用「生命狀態指示器」，請先查看其規則！**\n- **大多數伺服器都有抗生命值指示器插件，這意味著該模組在這些伺服器上無法正常工作！**\n\n<br>\n\n設定：\n- 已啟用：切換渲染功能\n- 不顯示NPC：禁止NPC玩家渲染他們的生命條\n- 顯示自己：顯示您的生命值條\n- 比例：生命值條的比例\n-Y偏移：生命值條的Y位置位置\n\n<br><br>\n![https://github.com/ItziSpyder/health-indicators/raw/main/assets/demo.png](https://github.com/ItziSpyder/health-indicators/raw/main/assets/demo.png)\n![https://github.com/ItziSpyder/health-indicators/raw/main/assets/menu.png](https://github.com/ItziSpyder/health-indicators/raw/main/assets/menu.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

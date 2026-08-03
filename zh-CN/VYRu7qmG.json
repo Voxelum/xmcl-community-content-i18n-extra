@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2U65VOXMS3M=",
-  "content": "Minecraft 1.16+ 版本的 LagGoggles 精神续作，Observable 可以分析（方块）实体并显示哪些内容占用了游戏刻时间以及具体位置。兼容 Forge 和 Fabric。（注意：默认打开分析器 GUI 的按键是 r。）\n\n请在 GitHub 仓库 [这里](https://github.com/tasgon/observable/issues) 报告任何错误。\n\n依赖项：\n\n- Forge: [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge), [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)\n- Fabric: [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric), [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)",
+  "bodyHash": "e6e066935260763c",
+  "content": "为 LagGoggles 在 Minecraft 1.16+ 上的精神续作，可观察配置文件（方块）实体，并显示哪些内容占用运行时间和位置。兼容 Forge 和 Fabric。（注意：打开性能分析器 GUI 的默认按键是 r。）\n\n请在 GitHub 仓库[此处](https://github.com/tasgon/observable/issues)报告任何问题。\n\n依赖项：\n\n- Forge: [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge), [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)\n- Fabric: [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric), [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

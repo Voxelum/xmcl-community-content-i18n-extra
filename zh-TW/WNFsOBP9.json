@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a7c1ed17bf14ab66",
+  "content": "這個資源包使 Terramity 模塊中的artifact的3D紋理不可見，解決了 EpicFight 模塊中的視覺問題。適合正在尋找臨時解決方案直到 EFM 團隊與 Curios API 完全兼容的玩家。\n\n如果需要，也將會為其他模塊提供支持。\n\n目前與以下兼容：\n- [Terramity](https://modrinth.com/mod/terramity) ✅ （由創作者批准）\n- [Artifacts](https://modrinth.com/mod/artifacts) ✅ （由創作者批准）\n- [Goety - The Dark Arts](https://modrinth.com/mod/goety) ✅ （由創作者批准）\n\n之前 ![Before](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2phYmdkOG4xbWkyanFtNGh2cWxwamFsNWRybXlyZ2VicXB5b2dhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/74Qfz65FZG1yOvbYnQ/giphy.gif)\n\n之後 ![After](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlxbmttY2pxdTlvemQzczU1ejA0bDFqYWJjOWN3dnlwem9oZzJodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EGThFt9fa2zmfXPFLV/giphy.gif)\n\n它是如何製作的？\n簡單解決方案： artifact 的3D紋理被設為不可見。\n\n其他模塊的 artifact 可以添加嗎？\n我已經聯繫了幾位模塊開發者，正在等待他們的響應以將更多模塊添加到列表中。\n\n為什麼要製作它？\n為了能夠使用 EpicFight 模塊而不受 artifact 視覺錯誤的影響。我們希望在戰鬥時看起來很帥氣！\n\nCurios 模塊有按鈕能使 artifact 不可見嗎？\n沒錯！但大多數人不會使用它或不知道它的存在。有些人甚至喜歡以怪物形象出現來毀壞照片。\n\n但 Curios 有一個禁用 3D 渲染的設置\n這也是一種說法，但該設置在某些情況下大多無效。\n\nEpicFight 團隊的 Invisible 3D Artifacts",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

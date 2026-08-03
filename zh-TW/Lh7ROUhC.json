@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6733831cc3758a23",
+  "content": "## 描述\n\n此模组讓一些怪物具備簡易的跳躍 AI，使它們可以跨越途中的障礙物與間隙。\n\n目前具備跳躍能力的怪物包括：殭屍、殭屍村民、屍襲豬靈、銀鱗怪、終地蟻、終地人、凋靈骷髏、骷髏、蜘蛛、洞穴蜘蛛、村民、女巫、鐵像鬼和爬行者。\n\nAI 嘗試擬合原版跳躍的邏輯，也就是說緩慢的怪物無法跳躍很遠（例如殭屍只能跳一個方塊）。\n\n## 限制\n\nAI 不會進行額外路徑計算，因此無法計算複雜的連跳序列。此外，當怪物速度過快或跳躍高度過高時，AI 容易失效。\n\n## 設定\n\n設定檔採用 JSON 格式。新增怪物時列出其 ID 以及優先順序。怪物 ID 可透過 /summon 指令查詢——返回參數列表即為所有可用的怪物 ID。優先順序目前較為粗糙，代表 AI 相對其他 AI 的優先權。數值較低表示跳躍 AI 較不易被覆蓋，但可能覆蓋其他 AI。最準確的方式是查看實體原始碼，但在大多數情況下設定低優先順序應已足夠。\n\n## 安裝\n\n這是一個常規的 [Fabric](https://fabricmc.net/wiki/install) 模组，但需要 [Fabric Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) 支援。  \n需加入模组資料夾的依賴項：\n\n-   [Fabric Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)\n-   [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

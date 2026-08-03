@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9eeafb906cc09e75",
+  "content": "盡可能支援多個 Minecraft 版本，此模組將通常固定的鍵綁定重新設定為可重新綁定。這是客戶端模組。\n\n例如，這使您可以在遊戲中重新映射 Escape 和 F3，即使在 F3 被設為可重新綁定之前的版本中也一樣。此外，還為 Shift、Control、Alt 以及用於瀏覽剖析圓餅圖的數字增加了重新綁定選項。此外，它還將早期遊戲版本的映射回傳，例如重新綁定 F5 或熱欄槽鍵。\n\n自 Minecraft 1.14 版本起，此模組使用 [Fabric](https://fabricmc.net/)，運行需要 [Fabric API](https://modrinth.com/mod/fabric-api)。\n從 beta 1.0 到 release 1.13 的版本，此模組使用 [Ornithe](https://ornithemc.net/) 搭配 Fabric，運行需要 [Ornithe Standard Libraries](https://modrinth.com/mod/osl)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc4e6137507e6635",
+  "content": "# 字符串复制器修复移除器\n\n移除 MC-129055 / MC-59471 的补丁，使字符串复制器在 1.21.2+ 版本中正常工作\n\n移除 MC-129055 / MC-59471 的补丁，使线复制器在 1.21.2+ 版本中重新运作\n\nCredits/credits: [WinExp](https://github.com/WinExp/DumpedCarpetAddition)\n\n# 农场无法工作？\n由于 Mojang 更改了最新版本中红石的工作方式，[查看此视频](https://youtu.be/mfv49tHgaQQ) 以解决该问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

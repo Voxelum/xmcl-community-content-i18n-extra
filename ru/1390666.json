@@ -1,6 +1,6 @@
 {
-  "bodyHash": "8oZfOX1v9Mw=",
-  "content": "<h1>Счётчик дней Зряка</h1><p>Этот мод добавляет счётчик, отслеживающий возраст мира. Счётчик начинает отсчитывать с первого дня и продолжает увеличиваться.</p><p><img src=\"https://raw.githubusercontent.com/NoahMcGrail/Zryak-s-Day-Counter/refs/heads/main/images/Time1.PNG\" alt=\"Изображение первого дня\"></p><p><img src=\"https://raw.githubusercontent.com/NoahMcGrail/Zryak-s-Day-Counter/refs/heads/main/images/Time2.PNG\" alt=\"Изображение 100-го дня\"></p>",
+  "bodyHash": "916bd990e45de5ce",
+  "content": "<h1>Счетчик дней Зряка</h1>\n<p>Этот модуль добавляет счетчик, который отслеживает возраст мира. Счетчик начинается с 1-го дня и отсчитывает вперед.</p>\n<p><img src=\"https://raw.githubusercontent.com/NoahMcGrail/Zryak-s-Day-Counter/refs/heads/main/images/Time1.PNG\" alt=\"День 1\"></p>\n<p><img src=\"https://raw.githubusercontent.com/NoahMcGrail/Zryak-s-Day-Counter/refs/heads/main/images/Time2.PNG\" alt=\"День 100\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

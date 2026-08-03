@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2390624beededa3b",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/d9c367130ca601427246609ec347fbc19949b768.png)\n\n_Modное подключение PronounDB для Forge & Fabric в 1.20 и 1.21+_\n\nЭтот мод является мультзагрузочной сборкой от Pronounify ItsXander ( заброшенный) и другого Fabric-мода с тем же именем PronounMC williamist (не обновленный), и это первый, который имеет правильную поддержку Forge и 1.21. \n\n## Как это работает?\n\nПросто войдите в учетную запись Minecraft на PronounDB и установите свои местоимения. Это так просто!\n\n![настройки pronounDB](https://cdn.modrinth.com/data/cached_images/8e1fdb907f598ecf2fc7ea2f8f7fc266ec822a3e.png)\n\nПосле этого вы начнете видеть свои местоимения в чате! Это также отлично работает с установленными Chat Heads:\n\n[чат demo](https://cdn.modrinth.com/data/cached_images/0f65d5f0886cc9c7f938b08b145608432e48523e.png)\n\nНа сервере даже не нужно устанавливать этот мод, это работает на стороне клиента! При подключении к серверу или получении нового сообщения чата произойдет автоматический запрос к API службы PronounDB для получения местоимений всех подключенных игроков.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

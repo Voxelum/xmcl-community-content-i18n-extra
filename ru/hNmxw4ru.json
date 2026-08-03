@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f97fcbba1bc073d0",
+  "content": "**Цель этого мода — сделать работу модов лучше вместе в пакетах модов, удаляя дубликаты предметов, мобов и блоков. Он обеспечивает, чтобы всё, что зависит от удаленных предметов, все ещё работало, перенаправляя эти зависимости на оставшийся эквивалентный предмет.**\n## Список изменений\n### Удалены дубликаты мобов\n- Spawn Snail\n### Удалены дубликаты предметов\n- Spawn Escargot (не дублирован, но удалён, так как текстуры не совпадают, и я не могу изменить их из-за лицензии мода)\n- Spawn Potted Sweet Berries (не дублирован, но удалён, так как текстуры не совпадают, и я не могу изменить их из-за лицензии мода)\n- Spawn Mucus\n- Spawn Snail Eggs\n- Spawn Snail Shell\n### Удалены дубликаты блоков\n- Spawn Big Snail Shell\n- Spawn Snail Eggs\n- Spawn Snail Shell Tiles\n- Spawn Snail Shell Tile Slab\n- Spawn Snail Shell Tile Stairs\n- Autumnity Snail Goo Block\n### Настройки рецептов крафта\n- Spawn Mucus Block: Теперь изготавливается с использованием Autumnity Snail Goo\n- Autumnity Snail Goo: Теперь изготавливается с использованием Spawn Mucus Block",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

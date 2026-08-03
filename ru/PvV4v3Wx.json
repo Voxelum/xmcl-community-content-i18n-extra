@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e64a1921fea32838",
+  "content": "**Sopli — это шуточный мод, созданный для одной цели: отправки сообщения «ТЮЛЮЛЮ» (на самом деле их 42).**\n\n<a href=\"https://modrinth.com/mod/fabric-api\">\n  <img src=\"https://camo.githubusercontent.com/5a15349ffefbf4c6a7a0d6b5dab9caeb2f33cc814379a8518b18e8d64b223104/68747470733a2f2f692e696d6775722e636f6d2f4f6c31546366382e706e67\" alt=\"Требуется Fabric API\" width=\"150\">\n</a>\n\n## ⚙️ Особенности и использование\n- Команда: просто введите /sopli, чтобы отправить это сообщение.\n\n- Ожидание (anti-spam): 30 секунд между использованием.\n\n## 📅 Планируемые особенности\n- Язык English\n\n## 🛠 Как сообщать об ошибках\nПожалуйста, сообщайте об ошибках через вкладку [Issues](https://github.com/ks51s/sopli/issues) в нашем репозитории на GitHub. Предоставьте логи, если функции _(команда/ожидание или оба)_ не работают.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

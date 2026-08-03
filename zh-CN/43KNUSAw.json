@@ -1,0 +1,6 @@
+{
+  "bodyHash": "18e548e27f2f29af",
+  "content": "[中文介绍看这里！！！！！](https://www.mcmod.cn/modpack/1181.html)\n> # 关于整合包\n> 改变你的思维方式！通过利用Vulkan作为核心渲染引擎，结合一系列精心策划的高级优化，重新思考你对Minecraft优化的方法。\n> \n> 该整合包完全重写了Minecraft的渲染API，使用VulkanMod替换过时的OpenGL，提供了一种更现代化和高效的替代方案。\n> \n> 该整合包采用了更为激进的优化策略，通常比Sodium及其衍生版本提供更高的性能提升。然而，它可能无法非常有效地支持非常旧的硬件。\n> \n> 注意：该整合包已经非常成熟。除非VulkanMod发布新版本，否则更新将会很少。\n> Mangrove沼泽的性能表现[12渲染距离]\n> |Vanilla     |sodium     |vulkan       | Turbo Vulkan modpack |\n> |:----------:|:---------:|:-----------:|:-----------:|\n> |500-600FPS|900-1000FPS|1200-1300FPS|1900-2000FPS|\n> \n> 标准森林中的性能表现 [12渲染距离]\n> |Vanilla     |sodium     | vulkan     | Turbo Vulkan modpack |\n> |:----------:|:---------:|:-----------:|:-----------:|\n> |800-900FPS  |1200-1300FPS|1400-1500FPS|3700-4000FPS|\n> ## ‌重要说明：‌\n> 1. 为了实现最大性能，我添加了Cull-Leaves模组。这可能导致附近的树叶渲染成像玻璃一样的单面效果。虽然这会影响视觉效果，但它确实能显著提升FPS。如果你不喜欢这种效果，可以在模组设置中禁用\"Leaf Culling\"或直接移除该模组。\n> 2. VulkanMod为Minecraft引入了全新的基于Vulkan的渲染引擎，以增强性能和图形表现，但可能会导致直接调用OpenGL的模组出现崩溃问题。兼容性并不是完美无缺的，但安装小型模组应该没问题（例如Skin Layers 3D）。\n> <details>\n> <summary>我的电脑配置</summary>\n>   \n> CPU:12代英特尔(R) 酷睿(TM) i5-12400F   2.50 GHz\n>   \n> Memory‌:16G 8G*2 3200MHz \n> \n> GPU:NVIDIA GeForce RTX 4060\n> </details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

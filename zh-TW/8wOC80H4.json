@@ -1,0 +1,6 @@
+{
+  "bodyHash": "64cf4a826375f92a",
+  "content": "按下快速轉身鍵（預設是 'r'）將使玩家旋轉 180 度。此功能靈感來自《鏡邊緣》和《鏡邊緣：催化劑》，在這些遊戲中你可以按 'q' 來旋轉轉身。你可以在控制項選單中像配置其他按鍵一樣配置此按鍵。\n\n![快速轉身可配置鍵在控制選單中](https://gitlab.com/vekwrite/quickturnmod/-/raw/main/quickturn_configurable_key_controls.jpg)\n\n![快速轉身模組演示](https://gitlab.com/vekwrite/quickturnmod/-/raw/main/quickturn_demo.gif)\n\n[Modrinth 頁面](https://modrinth.com/mod/quick-turn-mod)\\n[CursForge 頁面](https://www.curseforge.com/minecraft/mc-mods/quick-turn-mod)\n\n### Q/A:\n- 此模組是否為開源？\n- ***是的，所有版本的模組都是開源***\n- ***您可以在這裡找到源碼：https://gitlab.com/endode/quickturnmod***\n- 您會繼續更新此模組嗎？\n- ***(對於 Fabric 版本)如果與最新版 Fabric/Fabric API 不相容，我會修復它***\n- 如何聯繫您？\n- ***可在網站 http://endode.gitlab.io 上的任何地方聯繫***\n- 會有 Quilt 版本嗎？\n- ***目前它在 Quilt 上運行良好，因此不需要特別的 Quilt 版本***\n- 會釋出版本以兼容現代 Forge 版本嗎？\n- ***我已經用 Sinytra Connector 進行了測試，它似乎運行完美，但 Fabric 版本需要 Connector Extras 才能配置選單。也許有人問了的話，好吧，有人問過了，哦，也許我會研究一下。我自己不常用現代 Forge 版本，所以目前還沒有提供那個版本的模組***\n- 您會移植到較舊的 Minecraft 版本嗎？\n- ***如果有足夠的人希望我這樣做，我會考慮***\n- 此模組是否與其他模組不相容？\n- ***不，這非常簡單，不做任何複雜的事情，因此應該不會有不相容性***\n- 我可以將此模組添加到模組包中嗎？\n- ***當然可以！***",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

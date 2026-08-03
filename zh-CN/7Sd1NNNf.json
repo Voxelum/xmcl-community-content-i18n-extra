@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2cb43cf87d7bc8f4",
+  "content": "![image](https://github.com/user-attachments/assets/e0dcbc5d-dbf2-41a2-9e9f-9f8b7c14d427)\n[![在 Ko-Fi 上支持我](https://img.shields.io/badge/croakandroll---?style=for-the-badge&logo=ko-fi&logoColor=white&label=Support%20me%20on%20Ko-Fi&labelColor=72a4f2&color=72a4f2)](https://ko-fi.com/croakandroll) [![最新发布](https://img.shields.io/github/v/release/meeplabsdev/connectorlib-mod?style=for-the-badge&logo=github&logoColor=black&label=Latest%20Release&labelColor=72f2ae&color=72f2ae)](https://github.com/meeplabsdev/connectorlib-mod/releases/latest)\n\n# 这是什么？\n这是旨在相互交互以收集 Minecraft 客户端分析数据的一组组件的一部分。它目前支持收集以下信息：\n\n- 玩家用户名\n- 玩家 UUID\n- 玩家连接数据\n- 玩家装备数据\n- 玩家空气数据\n- 玩家状态效果\n- 玩家经验等级\n- 玩家 FPS\n- 玩家游戏模式\n- 玩家生命值\n- 玩家饥饿值\n- 玩家速度\n- 玩家姿态（潜行、游泳）\n- 玩家死亡数\n- 每个服务器的聊天消息\n- 每个服务器区块表面方块数据\n- 每个服务器的连接数据（ping / 延迟）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

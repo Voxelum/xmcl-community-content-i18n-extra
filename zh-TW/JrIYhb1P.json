@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b76e33dbf2cb0986",
+  "content": "## Minecraft 1.17 及後版本\n**需要：[Trinkets API](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric)**\n\n![Screenshot](https://i.imgur.com/hnkqFxQ.png)\n\n由於 Curios 在 Fabric 的 1.17 版本中被停用，改採 Trinkets API，此模組現在採用該 API。\n\n此 1.17 版本還新增了一些功能 / 修復了先前版本的數個錯誤：\n\n* 所有自製盔甲無需額外設定即可立即兼容\n* 物品不再顯示「插槽：化妝品某某」\n* 頭部、骷髏和其他「頭部」物品（如雕刻南瓜）現在可戴在化妝品插槽中\n* 物品標籤允許您定義不能在化妝品插槽中使用的物品，而非舊有的「白名單」標籤：`data/cosmetic-armor/tags/items/blacklist.json`\n* 新的物品標籤用於定義總是顯示且不會被對應化妝品插槽中的物品覆蓋的物品：`data/cosmetic-armor/tags/items/always_visible.json`\n\n\n## Minecraft 1.16\n**需要：[Curios API](https://www.curseforge.com/minecraft/mc-mods/curios-fabric)**\n\n![Screenshot](https://i.imgur.com/tbzCWj1.png)\n\n預設情況下，僅限范妮盔甲類型可裝備。\n\n您可以通過標籤 `curios:cosmetic_helmet`, `curios:cosmetic_chestplate`, `curios:cosmetic_leggings`, 和 `curios:cosmetic_boots` 來添加自製盔甲。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

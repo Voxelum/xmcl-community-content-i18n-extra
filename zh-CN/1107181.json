@@ -1,0 +1,6 @@
+{
+  "bodyHash": "84b2c86f459dd25c",
+  "content": "<p>本模组允许玩家互相喂食。</p>\n<p>如果食物在<code>finishUsingItem</code>方法中返回物品（例如蘑菇汤碗），喂食者将收回该物品。</p>\n<p>饥饿阈值和食物黑名单均可配置。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_330eeeb0-f311-47f7-8d77-ad2da7217f9d.png\" alt=\"\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3de395aa12aa8d4a",
+  "content": "# HUD 管理員\n\n讓您可以完整佈局自訂 HUD，呈現出最佳視覺效果。\n\n特別適合螢幕顯示大量資訊的伺服器，例如 MCC Island。\n\n相容於 Apple Skin、Better F3、Shulker Box Tooltip、Tooltip Scroll 等。\n\n## 功能：一併管理\n\n您可以在模組選單中（適用於 Fabric 或 NeoForge）直接管理所有項目。\n\n您將不再需要其他工具，例如 Scoreboard Tweaks 或 Title Fixer。\n\n**所有可設定項目包括：**\n\n動作欄、頭條任務、封閉標題、準心、除錯畫面、熱鍵組別、玩家列表、得分板、螢幕標題、狀態效果、提示訊息、提示文字。\n\n**所有可設定選項包括：**\n\n顯示 —— 是否在螢幕上顯示。\n\n調整大小 —— 放大原版 GUI 的比例。\n\n透明度 —— 乘以原版 GUI 的不透明度。\n\nX/Y 位移 —— 加到原版 GUI 的位置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

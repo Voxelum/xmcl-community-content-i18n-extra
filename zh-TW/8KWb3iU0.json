@@ -1,6 +1,6 @@
 {
-  "bodyHash": "EoSiRqdfSPc=",
-  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BvPF2KRGJzY\" title=\"YouTube 影片播放器\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n讓愛心粒子隨機生成各種彩虹旗圖案。同志羊咩咩！\n\n### 為什麼不做成資源包？\n\n確實可以透過資源包輕鬆更改粒子紋理或新增紋理。但由於 Minecraft 粒子生成機制的工作原理，它會為每個單獨的粒子隨機選擇旗幟圖案。這樣看起來效果不佳，我希望每次餵食生物時能同時生成10個相同旗幟圖案的愛心。因此，我將它打包成模組，以便對紋理選擇加入額外邏輯控制。\n\n[Discord](https://discord.gg/kS7auUeYmc)",
+  "bodyHash": "215ca55db1e7db4b",
+  "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/BvPF2KRGJzY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n使得心形粒子隨自願性別的彩虹旗生成。同性戀的羊！\n\n### 這為什麼不是資源包？\n\n通過資源包的的確可以簡單地變換材質或是給粒子增加新材質。然而，以 Minecraft 粒子生成器的運作方式來說，它會為每個個別粒子隨機選擇一個旗幟。這看起來不怎麼好看，所以我希望每次餵食敵對生物時都能讓它生出 10 個相同旗幟的心形粒子。因此我把它包裝成 mod 以能夠添加額外邏輯來篩選選擇哪種材質。\n\n[Discord](https://discord.gg/kS7auUeYmc)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

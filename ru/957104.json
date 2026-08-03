@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c88250b01cc52026",
+  "content": "<p><span style=\"font-size:18px\">Позволяет игроку изменить первоначальные размеры создаваемой мира через конфигурационный файл и убедиться, что координаты относительно безопасны</span></p>\n<p><span style=\"font-size:18px\">В то же время измерение, после возрождения игрока, также будет измерением</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div>\n<pre>[\"Настройки_spawna\"]<br>    #Первоначальное измерение, в котором.spawnigPlayers<br>    InitialDimension = \"minecraft:overworld\"<br><br><span style=\"font-size:14px\">Просто измените значение \"InitialDimension\".</span><br><br></pre>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

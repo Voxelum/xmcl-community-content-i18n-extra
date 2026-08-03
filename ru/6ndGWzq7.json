@@ -1,6 +1,6 @@
 {
-  "bodyHash": "q5GJilHZYrU=",
-  "content": "![Этого больше не произойдёт](https://cdn.modrinth.com/data/cached_images/7a1fa059a0320aab82bd9b3bab4eaf754a9eb84b.png)\n\nЭто клон оригинального [проекта](https://modrinth.com/mod/mc122477fix), созданный для выпуска на разных версиях MC Fabric.\n\nДолжен работать на Linux и macOS.\n\nСтарые версии доступны на странице исходного проекта [2].\n\nИсправлена проблема с двойным вводом символа «t» или «/» на некоторых операционных системах при открытии окна чата.\n\nВам не нужно устанавливать этот мод, если вы не столкнулись с данной проблемой.\n\nТолько клиентская часть. Требуется Fabric.\n\nОтслеживатель ошибок Mojang: https://bugs.mojang.com/browse/MC-122477.",
+  "bodyHash": "277e9cdaaa30afc3",
+  "content": "![Это больше не произойдет](https://cdn.modrinth.com/data/cached_images/7a1fa059a0320aab82bd9b3bab4eaf754a9eb84b.png)\n\nЭто клон оригинального [проекта](https://modrinth.com/mod/mc122477fix), разработанный для совместимости с различными версиями Minecraft Fabric.\n\nДолжен работать под Linux и macOS.\n\nСтарые версии доступны на оригинальной странице [проекта](https://modrinth.com/mod/mc122477fix).\n\nИсправлена проблема с двойным вводом 't' или '/' на некоторых системах при открытии окна чата.\n\nУстановить этот мод необходимо только если у вас возникла описанная проблема.\n\nТолько для клиента. Требуется Fabric.\n\nОтчет о багаже Mojang https://bugs.mojang.com/browse/MC-122477.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3527f92164d6d21",
+  "content": "<!DOCTYPE html>\n<html lang=\"zh-CN\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n</head>\n<body>\n<p><img src=\"https://cdn.modrinth.com/data/692GClaE/2ff28ac59b51945e62f2680166dc8322f112be2c.png\" width=\"128\" height=\"128\" /></p>\n\n<h1>Modonomicon</h1>\n\n<hr />\n\n<h2>模仿Thaumonomicon风格的内置游戏文档模块</h2>\n\n<hr />\n\n<a href=\"https://github.com/klikli-dev/modonomicon\">Modonomicon</a>是一款受到Thaumcraft的《神秘学》和Patchouli启发的游戏内文档模块，旨在结合两者的优点，并增添一些独特特色。\n\n其主要功能包括：\n\n* 完全基于数据包驱动制作，所有书籍均通过数据包创建（意味着模组包和普通模组均可添加书籍）。\n* 类似Patchouli的多方块系统（但完全数据包驱动）。\n* 设计用于扩展性，新特性和模组专用的自定义制作页面可轻松加入。\n* 采用类似“任务/成就”的二维视图导航内容，如《神秘学》中的风格所示。\n* 可扩展的条件系统以解锁不同条目。\n* 使用（扩展）Markdown语法轻松实现内容样式调整。\n* 多种页面类型支持展示文本、配方、图片、物品等内容等。\n\n### 访问[文档](#)开始使用！\n\n### 许可证及模组包使用情况说明\n\nModonomicon采用MIT许可证（源代码）与CC-BY-4.0协议（资源）。详细信息请参考[此处链接](https://github.com/klikli-dev/modonomicon#licensing)。\n\n只要满足MIT和CC-BY-4.0协议条款即可无限制将其用于模组包，您可以在自己的模组包中链接此页视为符合要求。<br/>**若在CurseForge上发布模组包，文件部分会自动生成链接，无需手动添加。**\n\n### 反馈、问题或疑问？\n\n欢迎加入我们的Discord社区。\n\n[<img src=\"https://i.imgur.com/grvZ47o.png\" width=\"300\" height=\"102\" />](#)\n\n替代链接：<https://discord.gg/trE4SHRXvb>\n</body>\n</html>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

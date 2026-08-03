@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f614ed7cdc3983ee",
+  "content": "# 一个库\n## 当前库功能\n\n- **S2C同步数据系统**（不仅支持Capability，还通过DataProvider使更多数据类型可同步）\n- **I18n语言JSON数据生成代码**基于Provider（提供更便捷的语言数据生成方式）\n- **兼容性代码注册管理类**（使与其他mod的兼容性更简单）\n- **使用链式模式的NBT读写工具类**以减少冗余的序列化/反序列化逻辑\n- **一系列骑行方法**以便更便捷地管理骑行关系\n...以及旨在减少重复编码任务的一系列实用方法。\n\n## 开发者说明\n\n请在您的 `build.gradle` 中添加Maven仓库：\n\n```groovy\nrepositories {\n    maven {\n        name = \"LTD Maven\"\n        url = \"https://nexus.bot.leisuretimedock.top/repository/maven-public/\"\n    }\n}\n```\n\n导入依赖：\n\n```groovy\nimplementation 'top.r3944realms.lib39:lib39:${version}'\n```\n\n版本号示例如 `1.20.1-0.0.17`:\n\n```groovy\nimplementation 'top.r3944realms.lib39:lib39:1.20.1-0.0.17'\n```\n\n构建完成后，可在包含示例的库文件中找到此Mod。\n\n点击右侧窗口中的“下载源代码”以查看JavaDoc注释。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

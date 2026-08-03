@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f247bf549733bb4c",
+  "content": "# !!! 已被 [Zombie Tactics](https://modrinth.com/mod/zombie-tactics) 取代 !!!\n\n## 末日\n\n这个简单的模组旨在通过允许僵尸破坏方块并稍微调整其 AI，使僵尸更有趣且更难对付。\n\n所有更改都完全可使用 Cloth Config 进行定制。\n\n当前包含：\n- 用于配置僵尸攻击速度、路径查找、目标实体和其他杂项更改的配置。\n- 一个可配置速度和目标方块硬度的方块破坏目标。\n- 类似 Minecraft 幻象生成器的群体生成器，可配置时间、大小和与玩家的距离。\n\n配置指南请参阅 [这里](https://github.com/n643064/Apocalypse/wiki/Configuration)。\n\n**需要 Fabric API 0.69.1+1.19.3 或更高版本以及 Cloth Config API v9.0.94 或更高版本**。\n\n[模组菜单](https://modrinth.com/mod/modmenu) 不是必需的，但需要打开配置屏幕。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

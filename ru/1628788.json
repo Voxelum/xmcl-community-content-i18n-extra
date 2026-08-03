@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7708529c36e98a34",
+  "content": "<p>TacJS Useful Wrench Addon<br>Легковесная NeoForge-добавка для TACZ (Timeless & Classics: Zero), которая обеспечивает правильную работу ключа из набора Create Armorer с блоками мода Create.<br>При удерживании ключа правый клик по блоку запускает анимацию melee_stock 3D, в то время как Create обрабатывает взаимодействие с блоком (поворот, разборка). Правый клик по воздуху дает反馈 по свингу левой руки, а левый клик запускает анимацию melee_bayonet_1. Моде запрещен режим ADS ключа, так что все правые клики передаются Create.<br>Требования: NeoForge 1.21.1, TACZ, Create и набор Create Armorer (create_armorer:special_melee_wrench).<br>Просто положите jar-файл в папку mods/.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "855ebfca032fd35a",
+  "content": "<h1>进度禁用</h1>\n<p>一个可以删除指定命名空间所有进度的简单模组。</p>\n<h2>使用方法</h2>\n<p>该模组会删除配置文件中所配置的命名空间下的所有进度。</p>\n<pre><code>disabledMods = [\n    \"minecraft\", # 移除所有Minecraft原生进度\n    \"mine.*\",   # 移除所有以\"mine.\"开头的模组中的进度\n    \".*\"        # 移除所有进度\n]</code></pre>\n<h2>依赖项</h2>\n<p>包含 <a href=\"https://github.com/TheElectronWill/night-config\" target=\"_blank\" rel=\"nofollow\">night-config</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

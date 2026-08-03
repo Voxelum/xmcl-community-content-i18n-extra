@@ -1,0 +1,6 @@
+{
+  "bodyHash": "98a05db4bd7fa0d5",
+  "content": "# 關於\n你在太空船中生存，並穿越小行星和其他太空物體以進行掠奪。主要目標是到達太陽系的邊緣。但要做到這一點，你必須獨自處理太空岩石、 Salvage 廢棄的船隻、與經過的船隻交易，並防禦太空海盜。但你在這片黑暗的太空中，獨自一人在自己的船上嗎？\n\n#\n該 mod 目前處於 beta 階段，將被長期開發中。\n該 mod 需要 [Fabric API](https://modrinth.com/mod/fabric-api) 和 [Ad Astra](https://modrinth.com/mod/ad-astra)\n\n# 如何使用\n要獲取小行星場，您需要：\n- Ad Astra 2級或以上的火箭；\n- 64個鐵板、32個鋼板、32個德什錠、32個德什板；\n- 發射火箭，獲得卡門線，在菜單中選擇小行星並建造一座站點。\n\n或者，您可以使用操作命令：\n```\n/adastra planets\n```\n# 太空船元件\n<details>\n<summary>飛船控制器</summary>\n\n使用控制器，您可以選擇飛船的航向。\n在終點處將總是有一個小行星、另一艘船、一個站點、一個茶壺或其他任何太空物體。\n途中可能發生事件，可以停止飛船、損害飛船或以其他方式與飛船和玩家互動。~~WIP\n\n</details>\n\n<details>\n<summary>飛船引擎</summary>\n\n沒有引擎或油箱中沒有足夠燃料就無法啟動飛船。\n也不要忘記引擎噴嘴。它們的數量直接影響最高速度。\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

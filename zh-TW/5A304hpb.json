@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b7d8f6ddbb78f95",
+  "content": "# ![banner](https://cdn.modrinth.com/data/cached_images/153177a4191976f449f9b1fd7785558fb7d3b884_0.webp)航空業：星际扩展\n\n> **建造一艘星舰，连接其系统。作为一个方块进行指挥。**\n\n欢迎来到 **AeroIE**，它是针对 **Create: Aeronautics** 的模组，专注于完全可控的飞行器，适用于飞行、战斗、防御和长途旅行。\n\n核心是 **控制座**。将引擎、武器、传感器、护盾和存储连接到一个集成网络中——无需繁琐的推进器放置或界面密集的微调操作。\n\n![Control Seat HUD](https://cdn.modrinth.com/data/cached_images/aa259f3a619f1f4b5eeee6d94ee2d9d5682cf73b.png)\n\n## 主要功能\n\n- 采用自动推力分配与矢量推进器的**集成飞行控制**\n- 船载武器、制导导弹、自动炮塔和近防武器系统（CIWS）\n- 用于探测和识别目标的**雷达与敌我识别系统**\n- 适用于不同形状和大小时空的**模块化护盾系统**\n- 专为移动船只设计的**燃料箱、电池和弹药系统**\n- 在同一维度内实现超光速**跃迁旅行**\n- 用于发射和加速整个舰船的**电磁轨道**\n\n更多外设即将加入！\n\nAeroIE旨在让复杂的航天器系统变得**可靠、互联且易于操控**，同时让您的飞船外观、布局和用途完全由您决定。\n\n![Unique weapons](https://cdn.modrinth.com/data/cached_images/93a7a31709efe6d5785d13053476737306badef4.png)\n\n![Turrets](https://cdn.modrinth.com/data/cached_images/ed99a90f11917aec064cf50fc4666ddcb1d2b7e8.png)\n\n![Thrusters](https://cdn.modrinth.com/data/cached_images/ad33018963440abe6508b40bd708a45c6d9b28df_0.webp)\n\n## 需求\n\n| 组件 | 状态 |\n|---|---|\n| **Ritchie's Projectile Lib** | 必需 |\n| **Geckolib** | 必需 |\n| **Create: Aeronautics** | 必需 |\n| **Photon Editor** | 必需 |\n| **Patchouli** | 可选 |\n\n安装 **Patchouli** 可启用 AeroIE 的游戏内指南，说明其系统和装备内容。\n\n遇到错误时请随时创建 GitHub Issues！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

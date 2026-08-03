@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ea1dc3bb3b5ec51b",
+  "content": "**注意**：這只是項目的分叉，目的是支援新版 Minecraft，由於 [原始項目](https://modrinth.com/mod/individual-keep-inventory) 已不再維護。\n\n# IndividualKeepInv\n你是否有那一位朋友總是在你的服務器上頻繁死亡，並屢次請求開啓 keepInventory，而你樂於照辦……前提是不會強制對所有其他玩家生效，且他們並不希望如此？\n\nIndividual Keep Inventory 是一款 Fabric 模組，可讓 keepInventory 針對個別玩家生效。\n\n原版 `/gamerule keepInventory` 指令（無論是 true 或 false）在此模組下完全不生效。\n\n如需依喜好設定本模組操作方式：\n\n``\n/ikeepinv set <使用者名稱> <true/false>\n``\n\n將改變指定玩家個別的 inventory 預設狀態為 false。\n\n``\n/ikeepinv get <使用者名稱>\n\n顯示指定玩家目前的 inventory 狀態。\n\n``\n/ikeepinv default <true/false>\n\n將改變新加入玩家的預設 inventory 狀態設爲 false（默認值）。\n\nIndividual Keep Inventory 完全運行於服務器端，因此只要安裝了此模組的原版客戶端可以正常連接服務器。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

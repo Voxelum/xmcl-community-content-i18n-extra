@@ -1,6 +1,6 @@
 {
-  "bodyHash": "LH0MOQWyU8k=",
-  "content": "# 相容性修復：Mouse Tweaks 與 Accessories\n\n這是一個輕量級的模組，旨在解決在 Accessories 飾品 GUI 中使用 Mouse Tweaks 的滾輪調整功能時所遇到的特定困擾。\n\n前述的調整功能允許你透過滾輪快速移動物品，而這與 Accessories GUI 預期的滾輪輸入產生了衝突。這導致每次向下滾動時，你都會取下你的飾品/配件。此模組透過在 Accessories 飾品 GUI 中停用該調整功能來解決此問題。",
+  "bodyHash": "9357cffc44e42f65",
+  "content": "# 相容性修正：Mouse Tweaks & Accessories\n\n此為一個輕量級模組，旨在解決在 Accessory 飾品介面中使用 Mouse Tweaks 的 WheelTweak 時的特定問題。\n\n前述功能可透過滾輪快速移動物品，卻與 Accessories GUI 預設的滾軸操作衝突。導致每次向下滾動時都會卸下你的飾品/配件。此模組會於進入 Accessories 飾品介面時自動停用該修正項。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

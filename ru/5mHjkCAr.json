@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dbc235f487473074",
+  "content": "# MC Fetch\nЭто мод для получения информации о клиенте Minecraft, как neofetch.\n\nПоддерживается Minecraft 1.16.5 ~ 1.21.x с **Fabric Loader** и **Fabric API**.  \nПоддерживается Minecraft 1.21.x с **NeoForge**.  \nПоддерживается Minecraft 1.20 ~ 1.21.x с **Quilt** и **Quilted Fabric API**.\n\nВ будущем будет поддерживаться Forge как загрузчик модов.\n\nИспользование: Введите `/mcfetch` в консоли после входа в мир.\n\nВывод выглядит так:\n![Command Output](https://github.com/user-attachments/assets/362e0543-61a1-4cff-bf84-cdd4f1662c62)\n\nРепозиторий: [GitHub Repo](https://github.com/lihugang/mcfetch-fabric)\nЛицензия: GPL-v3",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5d2b7ecb020e6dc8",
+  "content": "# 血葡萄酒\n\n## 简介\n\nKaleidoscope Bloodwine是**KaleidoscopeTavern**的模组附件，向玩家带来魔幻风格的血酒体验。\n\n## 项目信息\n\n- **模组名**: Kaleidoscope Bloodwine\n- **Minecraft版本**: Forge 1.20.1 | NeoForge 1.21.1\n- **作者**: baiyin_1223\n- **许可证**: MIT\n\n## 功能\n\n- 提供**11**种魔幻风格的血酒\n- 每种酒都有其独特模型和效果\n\n## 兼容性\n\n### 吸血鬼融合\n\n- 若加载了Vampirism模组，部分血酒将使用Vampirism模组的材料制作并使用 **vampirism:blood**\n- 吸血鬼玩家饮用这些血酒可以恢复血量并提供额外增益效果\n\n### 独立模式\n\n- 此模组仅以KaleidoscopeTavern为依赖项，即使没有Vampirism也可运行。在这种情况下，会使用新的血流体而非vampirism:blood。\n\n### Create: Gears and Tavern (CGT) & Create 整合\n\n- 支持 [Create: Gears and Tavern](https://github.com/yision1/GearsandTavern) 和 Create 模组\n- 血酒可通过Create的液体管道系统运输\n- 在所有酿造等级上，血酒均支持Create的空桶/装桶配方\n- 酿酒时酒桶会显示虚拟血酒流体，兼容Create机械泵提取机制\n\n## 依赖项\n\n| 模组 | 备注 |\n|------|------|\n| KaleidoscopeTavern | **必需** - 主模组 |\n| Create: Gears and Tavern | *可选* - 启用Create流体自动化 |\n| Create | *可选* - CGT所需 |\n| Vampirism | *可选* - 启用吸血鬼支持 |",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4aa3249eebad7493",
+  "content": "<p>Botania的扩展，允许通过修改某些Botania的功能来提供自定义。</p><p>这个模组旨在让模组制作者轻松调整数值（例如花朵产生或消耗的魔力），从而提供更多自由度。</p><p>它还内置了一个（可配置的）Jade和WTHIT扩展，能在工具提示中显示一些有用的信息。</p><p><img src=\"https://i.imgur.com/qcBCOXW.png\" alt=\"Mana Pool tooltip\" width=\"388\" height=\"108\"></p><p><img src=\"https://i.imgur.com/pBfi2C4.png\" alt=\"Mana Spreader Tooltip\" width=\"388\" height=\"113\"></p><p><img src=\"https://i.imgur.com/2CsHoI3.png\" alt=\"Orechid Tooltip\" width=\"387\" height=\"101\"></p><p>配置文件结构如下：<br>botania_editor-client.toml，位于.minecraft文件夹中，用于Jade/WTHIT扩展<br>各种特定功能的配置文件位于服务器文件夹下的serverconfigs/botania_editor目录中</p><p><strong>如有问题或建议，请随时使用GitHub issue</strong></p><p>&nbsp;</p><p><strong>(感谢Botania原作者提供所有素材，包括用作本模组Logo参考的Logo)</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

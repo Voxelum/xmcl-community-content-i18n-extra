@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fd6017f02690377f",
+  "content": "<html><body>\n<p><span style=\"font-size:18px\">这个资源包会改变游戏的照明，以显示怪物生成和无法生成的位置。请不要忘记在视频设置&gt;质量&gt;自定义颜色中选择ON并<strong>启用</strong>\"自定义颜色\"。</span><br><span style=\"font-size:18px;color:#f00\">(您可能需要重启游戏。) </span></p> \n <p><span style=\"font-size:24px\"><strong><span style=\"color:#f00\">/!\\\\在1.18+ 中怪只在光照值为0时生成/!\\</span></strong></span></p> \n <p>&nbsp;</p> \n <p><span style=\"font-size:18px\"><strong><span style=\"color:#f00\">红色</span> </strong> = 危险：所有的怪物都可以在这里生成。</span></p> \n <p><span style=\"font-size:18px\"><strong><span style=\"color:#00f\">蓝色</span> </strong> = 非常安全：所有依靠光照值的怪物都不能在此处生成。</span></p> \n <p>&nbsp;</p> \n <p><span style=\"font-size:18px\"><strong><span style=\"color:#f00\"/!\\如果安装了Optifine请将“平滑灯光”关闭以获得更精确的效果 /!\\</span></strong></span></p> \n <p>&nbsp;</p> \n</body></html>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

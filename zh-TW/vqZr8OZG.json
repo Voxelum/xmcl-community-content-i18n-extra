@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f8733f59ff9aa39e",
+  "content": "# 🏹 標槍投擲 - Minecraft 插件\n\n將你的三叉戟變為強力的標槍，使用 **Trident Javelin Throw** 插件！本插件專為競技玩家設計，可追蹤並顯示每支三叉戟的投擲距離，為 Minecraft 戰鬥增添獨特新意。\n\n![Banner Image](https://cdn.modrinth.com/data/cached_images/f6129ffc14bd9104056e4a902fff43889869a117.webp)\n\n## 🌟 功能特色\n- **距離追踪**: 計算三叉戟投擲距離並在聊天視窗顯示。\n- **排行榜**: 實時排行榜顯示投擲最遠的前三名玩家。\n**自訂訊息**: 每次投擲可顯示自訂訊息，標示三叉飛行的距離。\n- **簡易設置**: 服務器管理員可輕鬆安裝和配置。\n- **Paper MC 兼容**: 針對 Paper MC 服務器優化，確保流暢遊戲體驗和性能。\n\n## 🚀 使用方式\n1. **投擲三叉戟**: 裝備三叉戟並投出，插件自動計算距離。\n2. **查看距離**: 消息框將顯示三叉飛行的方塊數。\n3. **競爭比拼**: 排行榜自動更新前三成績，挑戰玩家刷新紀錄！\n\n## 🚀 安裝指南\n1. 從 [Modrinth](https://modrinth.com/plugins/javelin) 下載插件。\n2. 將插件放入服務器的 `plugins` 文件夾。\n3. 重啟服務器即可開始使用。\n\n## 🔧 設定所有設定均可在 config 文件中進行自訂，包括訊息格式、排行榜大小等。\n\n## 👾 加入樂趣！\n邀請好友或社區成員挑戰誰能投得最遠！**Trident Javelin Throw** 為任何 Minecraft 服務器增添競爭性與樂趣。\n\n透過單一插件實現奧運標槍賽事。\n\n---\n\n_透過 [Modrinth page](https://modrinth.com/plugin/javelin) 追蹤更新並獲取支持。### 贊助我們[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/hellofaizan) ### 加入 Discord <a href=\"https://discord.gg/vUHMxPvege\"><img src=\"https://discord.com/api/guilds/988670044152168518/widget.png?style=banner2\"></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

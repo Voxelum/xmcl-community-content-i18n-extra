@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e52eb27692222f42",
+  "content": "# 信標重製復興\n\n（原始模組由 ChloeDawn 開發：[Beacon Overhaul](https://modrinth.com/mod/beaconoverhaul)）\n\n若原作者更新其原有模組，或希望我移除本模組，請通知我。\n\n---\n\n**一款為 Minecraft 設計的模組，為信標引入等級系統和更優異的效果擴散機制**\n\n- 增加夜視、火焰抗性、*營養值*、*遠距*和緩降作為信標效果\n- 為信標引入等級系統，鑽石與下界合金結構提供逐級增強的效果強度\n- 增強夜視強度，使玩家能在正午照明（全亮）與無霧氣的情況下看清一切\n- 增加兩種遊戲新效果：遠距，提升互動範圍；營養值，被動恢復食物量\n- 新增緩降的掉落機制，使得在潛行狀態下落時速度仍為正常，同時抵消摔落傷害\n- 提升跳躍助推的步驟高度，讓玩家在效果作用時可瞬間踏上高處物體\n    - 注意：自動跳躍將優先於此功能生效，若欲讓本功能起作用，需禁用自動跳躍\n\n**本模組最新版本要求 Minecraft 1.21.11**\n\n![信標菜單中額外效果之遊戲內截圖](https://i.imgur.com/A8q0WBK.png)\n\n![更高夜視強度之遊戲內截圖](https://i.imgur.com/bpYifIW.png)\n\n![遠距互動場景之遊戲內截圖](https://i.imgur.com/KyiAKFg.png)\n\n***標誌設計由 [@voxel_dani](https://twitter.com/voxel_dani) 製作***",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

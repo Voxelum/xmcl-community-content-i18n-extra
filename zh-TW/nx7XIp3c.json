@@ -1,0 +1,6 @@
+{
+  "bodyHash": "428512e885a420f7",
+  "content": "#虛空維度\n\n這個數據包添加了一個完全空的維度，您可以在其中讓想象力馳騁。這是您夢想、實驗或自創內容的完美空白畫布！沒有地形、沒有建築結構——只有無限可能！\n\n## 命令\n\n注意：\n- 您需要位於主世界或虛空維度中值為0 60 0的15個方塊內，才能切換到另一個維度！\n- 如果您已經在該維度內，傳送將不會生效且不顯示任何錯誤消息！\n- 當您卸载數據包時，您必須從數據包文件中刪除它！\n- 值不能為0，至少須為1！\n\n| 命令 | |\n|---|---|\n| `/timer d4r4_dimension set 1` | 傳送至虛空維度 |\n| `/timer d4r4_dimension set 2` | 傳送至主世界 |\n| `/timer d4r4_dimension set 3` | 鏈接到Modrinth頁面以獲取更多信息 |\n| `/function d4r4_dimension:uninstall` | 卸载數據包 |\n| `/scoreboard players set #timer d4r4_dimension_paste 600` | 將傳送時間設置為600秒 |\n\n---\n\n### 想法建議\n- reacheme.shadowdara+modrinth@gmail.com 或 [Google表單] 或 Discord | Shadowdara",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

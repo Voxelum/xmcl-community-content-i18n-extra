@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d1883d784e2e3b7",
+  "content": "# 領土入侵警報\n\nVanilla FTB Chunks 會告訴入侵者他們無法破壞方塊。這會通知您，即領土所有者，有人嘗試破壞。\n\n當非團隊成員嘗試在您的 FTB Chunks 領土內破壞、放置或互動時，若操作被阻擋，線上每位團隊成員都會收到一行聊天警報：\n\n```\n⚠ Alex 試圖在 minecraft:overworld 的 (210, 64, -88) 位置破壞一個方塊。\n```\n\n否則，您只能在事後透過檢查日誌檔案，或發現區塊遺失時才會得知。（FTB-Mods-Issues #257）正是為了此功能而建；FTB 維護者已將其標記為「不再規劃於 FTB 中」，因此這是一個小型補充方案，補足缺失的通知功能。\n\n它監聽 vanilla `BlockEvent.BreakEvent` 和 `PlayerInteractEvent.RightClickBlock`，且觸發優先級設為最高。若事件被取消，便會詢問 FTB Chunks 的公開 API 該位置是否屬於他人所有領土。每個入侵者與領土設有五分鐘重複時間限制，避免濫用訊息；無需混入代碼（直接使用 `FTBChunksAPI`），且若 FTB Chunks 的 API 在更新中變更，也不會產生錯誤作用。唯一狀態記憶體內的計時器地圖，在伺服器停止時清除。\n\n**依賴設定**\n\n- FTB Chunks ≥ 2101.0 — 必需。僅支援 NeoForge 1.21.1，因 FTB Chunks 尚未提供 Forge 1.21.1 版本。\n\n僅限伺服器端使用 — 客戶端不需要此模組。\n\n可免費用於任何整合包。原始碼與議題請參考：https://github.com/KURONAMI333/claim-intrusion-alert",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

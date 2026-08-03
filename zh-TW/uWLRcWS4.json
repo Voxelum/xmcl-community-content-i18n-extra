@@ -1,6 +1,6 @@
 {
-  "bodyHash": "7xbhOjt/ZRg=",
-  "content": "# Otyacraft 引擎重製版\n\n**Otyacraft 引擎重製版** 是一個主要供 [Iam Music Player 重製版](https://www.curseforge.com/minecraft/mc-mods/iammusicplayer-renewed) 使用的函式庫模組。  \n它是原始 [Otyacraft 引擎](https://www.curseforge.com/minecraft/mc-mods/otyacraft-engine) 的一個分支版本。\n\n## 📦 這個模組是什麼？\n\n這是一個 [IMPR](https://www.curseforge.com/minecraft/mc-mods/iammusicplayer-renewed) 所需的函式庫模組。  \n它不會影響遊戲玩法，僅提供物品標籤和其他後端功能。\n\n## ❓ 常見問題\n\n**為什麼要使用 Otyacraft 引擎重製版？**  \n原始模組使用了過時的函式庫，無法與較新版本的模組（如 IMPR 3.22.0-alpha.8+）相容。",
+  "bodyHash": "cad672109916f984",
+  "content": "# Otyacraft Engine 重製版\n\n**Otyacraft Engine 重製版** 是一個主要供 [Iam Music Player 重製版] 使用的庫模組。\n它是原始 [Otyacraft Engine] 的衍生版本。\n\n## 📦 這個是什麼？\n\n這是一個 [IMPR] 必需的庫模組。它不會影響遊戲玩法，只會提供物品標籤和其他後端功能等。\n\n## ❓ FAQ\n\n**為什麼要使用 Otyacraft Engine 重製版？**\n原版模組使用的是過時的庫，與 IMPR 等較新版本（3.22.0-alpha.8+）不兼容。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

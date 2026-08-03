@@ -1,6 +1,6 @@
 {
-  "bodyHash": "+xzPkHC4C+k=",
-  "content": "<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://i.imgur.com/2UQecEd.png\" alt=\"\" width=\"606\" height=\"324\"></p><p>&nbsp;</p><p><strong>備用床鋪</strong>是一款極簡易的小型模組。備用床鋪會記錄你在伺服器上最後睡過的五張床（數量可配置），並在你重生時，嘗試將你放置在最後一個未被阻擋的床或重生錨的位置。<br><br>安裝備用床鋪後，你可以在地牢入口外設置一張床，睡一覺以設定次要重生點，這樣如果你在地牢中死亡，就會在那裡重生。清理完地牢後，只需拆掉地牢外的床，你的下一次重生就會回到之前的床，很可能就是你在家裡睡過的那張。這使得備用床鋪非常適合探索和其他冒險主題的模組包。</p>",
+  "bodyHash": "73c95eeab34d3f2e",
+  "content": "<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://i.imgur.com/2UQecEd.png\" alt=\"\" width=\"606\" height=\"324\"></p>\n<p>&nbsp;</p>\n<p><strong>備份床鋪</strong>是一個極度小型且簡單的模組。備份床鋪會追蹤您在服務器上最後五次（數量可設定）睡過的床鋪，當您重生時，系統會嘗試將您放置在最後一個未被阻擋的床鋪或重生錨點上。<br><br>安裝備份床鋪後，您可以在洞穴入口外設置一張床鋪並睡在那裡以設定次要重生點，如果您在洞穴中死亡，則會在該位置重生。一旦您清理完洞穴，只需破壞外部的床鋪，下次重生就會回到您之前的床鋪，很可能是您在臥室中使用的那張床鋪。這使得備份床鋪非常適合用於探險和其他以冒險為主題的整合包。</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

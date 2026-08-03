@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7ca4e204e6bc7c89",
+  "content": "<div>## 英文</div>\n<div><br>\n<div>### 設置</div>\n<div>* &nbsp; **Gemini API Key:** `/sakir key &lt;your_api_key&gt;`</div>\n<div>* &nbsp; **Groq API Key (備份):** `/sakir groqkey &lt;your_api_key&gt;`</div>\n<br>\n<div>### 功能</div>\n<div>* &nbsp; **語音聊天 (V 鍵):** 使用 Gemini TTS 回應。</div>\n<div>* &nbsp; **聊天記憶:** 記住最後 3 輪對話。</div>\n<div>* &nbsp; **inventory掃描:** 檢測持有工具、盔甲百分比和物品。</div>\n<div>* &nbsp; **召喚和遣散:** 使用 `\"sakir come to me\"` 和 `\"sakir go away\"` 控制他。</div>\n<div>* &nbsp; **實用程式:** 自動採礦、作物農場、湖泊釣魚、自定裝備鍛造。</div>\n<div>&nbsp;</div>\n<div>\n<div># Şakir Dayı</div>\n<br>\n<div>AI 支持的 Şakir Dayı 同伴！/ AI-powered companion!</div>\n<br>\n<div>---</div>\n<br>\n<div>## 土耳其語</div>\n<br>\n<div>### API</div>\n<div>* &nbsp; **Gemini API Key:** `/sakir key &lt;senin_api_anahtarin&gt;`</div>\n<div>* &nbsp; **Groq API Key (Yedek):** `/sakir groqkey &lt;senin_api_anahtarin&gt;`</div>\n<br>\n<div>### 功能</div>\n<div>* &nbsp; **語音通話 (按 V 鍵):** 分析麥克風中的聲音並語音回答。</div>\n<div>* &nbsp; **聊天記憶:** 記得最近的 3 次對話（6 條消息）。</div>\n<div>* &nbsp; **庫存掃描:** 實時檢測你的盔甲、工具和物品。</div>\n<div>* &nbsp; **命令調用/發送:** 只需在聊天窗口輸入 `\"şakir gel\"` 或 `\"şakir git\"`。</div>\n<div>* &nbsp; **能力:** 自動採礦、釣魚、採礦、治療、茶水供應和裝備鍛造。</div>\n<br>\n<div>---</div>\n</div>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

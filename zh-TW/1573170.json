@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3209a2fd699eea4e",
+  "content": "<p>本模组為<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f8530.html\" target=\"_blank\" rel=\"nofollow\">帕斯特之夢</a>的附屬模組，為帕斯特之夢添加了大量之前所缺失的 tag 和配方，並且與<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f2021.html\" target=\"_blank\" rel=\"nofollow\">機械動力</a>&nbsp;和&nbsp;<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fclass%252f260.html\" target=\"_blank\" rel=\"nofollow\">AE2</a>&nbsp;做了部分聯動。</p>\n<p>&nbsp;</p>\n<p>重新制作了<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.mcmod.cn%252fitem%252f701023.html\" target=\"_blank\" rel=\"nofollow\">陶盆</a>的处理逻辑，可以通过添加带有\"type\": \"pasterdreamreciperepairandaddition:claypan\"的配方数据包实现自定义配方，支持外部物流实现原材料流体输入与产物输出，添加了 menu 和 screen ，可以查看配方进度，支持流体渲染，可以直接看出陶盆中的流体。</p>\n<p>&nbsp;</p>\n<p>為帕斯特之夢的所有飲料等<span（應該是流體的）</span>註冊了 Fluid，並通過 IFluidHandler 實現了流體容器與流體的綁定，無需額外代碼就能兼容所有科技模組的流體存入取出操作（流體儲罐，AE2 終端，機械動力工作盆等的流體存入取出）。</p>\n<p>&nbsp;</p>\n<p>添加了 2 種機械動力鼓風機配方類型和觸媒類型，\"type\": \"pasterdreamreciperepairandaddition:dyedreaming\"和\"type\": \"pasterdreamreciperepairandaddition:windmooring\"</p>\n<p>&nbsp;</p>\n<p>添加了 1 種 AE2 樣本供應器。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

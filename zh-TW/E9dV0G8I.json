@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5fd3956ee6e4925f",
+  "content": "此模组为向虚空投掷物品添加了一种配方类型。\n\n## 範例\n\n```json\n{\n  \"type\": \"voidcrafting:void_crafting\",\n  \"input\": {\n    \"item\": \"minecraft:gold_ingot\"\n  },\n  \"radius\": 10.2,\n  \"result\": {\n    \"item\": \"minecraft:gold_block\",\n    \"count\": 3\n  }\n}\n```\n\n當金錠落入虛空時，在末地座標 `0, 0` 周圍 10.2 個方塊的範圍內將生成一疊 3 個金塊。\n\n完整文件請參閱 [wiki](https://github.com/acikek/void-crafting/wiki)。\n\n## 授權協議\n\nMIT © 2022 spadeteam",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b19657c0047d171a",
+  "content": "这是一个简单的数据模组，用于在创建世界时移除Stardust Labs项目的介绍信息。Terralith、Incendium和Nullscape的最新版本中可能会出现该介绍信息。\n\nModpack开发者：只需将此模组放入您的打包中即可，它将阻止Stardust Labs项目在世界首次加载时发送任何聊天消息。这对于那些不想在首次加载时收到大量聊天消息的用户，或者不希望用户困惑地加入错误的Discord服务器来说特别有用。\n\n## 重要提示\n如果您使用的是Terralith 2.6.0+版本的模组，则无需使用此模组！而是可以通过Terralith的配置菜单禁用介绍信息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

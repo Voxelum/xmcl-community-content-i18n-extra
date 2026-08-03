@@ -1,0 +1,6 @@
+{
+  "bodyHash": "74d33d9fe2aa346d",
+  "content": "挖掘時自動切換至最快的工具。\n不使用標籤，且*應該*與所有原版和修改過的工具和方塊兼容。\n不會檢查正確的tool類型，將優先使用快捷列中對應目標方塊挖掘速度最快的第一個工具。\n預設情況下，潛行時會禁用。也可通過鍵位繫結或透過Mod Menu及鍵位繫結可進入的配置選單進行禁用。\n![Settings screen](https://cdn.modrinth.com/data/EY806yi2/images/3f8c9d893f914af643ac0a68eede68dbe50b9269.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

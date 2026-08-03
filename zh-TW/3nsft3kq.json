@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4f4ed512226c766e",
+  "content": "PokéStats 是一個輕量的 Pixelmon Reforged 擴充，當你捕捉到寶可夢時，即時在聊天框顯示其個體值與性格。不需要打開寶可夢總結手動查看每個數值，你將會立刻知道新捕捉的寶可夢有多強大。\n\n無論你是尋找完美個值的寶可夢、構建競技隊伍，或是單純追蹤你的捕捉記錄，PokéStats 都能讓過程更為便捷迅速。每一次捕捉都能立即提供數值資訊，幫助你快速決定保留、訓練或釋放該寶可夢。\n\nPokéStats 是一種簡單的生活質量提升功能，在你每次成功捕捉後，立即提供所需資訊。\n\n![view](https://cdn.modrinth.com/data/cached_images/c928336f45f51f34e31fee7921dd57a754e9957e.webp)\n\n**功能**  \n- 捕捉寶可夢後即時顯示個體值。  \n- 直接於聊天框中顯示性格。  \n- 適合繁殖者、收藏家與競技玩家使用。  \n- 輕量級，無不必要的指令或選單。  \n- 免去每次捕捉後手動檢查數值的時間。\n\n**指令**  \n- /pokestats display off — 關閉聊天框顯示寶可夢捕捉資訊。  \n- /pokestats display on — 開啟聊天框顯示寶可夢捕捉資訊。\n\n**Discord**\n[點擊這裡](https://discord.gg/M7U3qyqdBQ)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

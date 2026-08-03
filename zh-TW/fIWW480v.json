@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2bd9b3713035d1ef",
+  "content": "![GIF. Player inventory is open. All their items are transforming into random new items every second.](https://cdn.modrinth.com/data/cached_images/8b1beb0aa1fbe95e9259a5581038dd4c0a681eed.gif)\n## 總覽\n每 30 秒（可設定），玩家倉庫中的所有物品會變為隨機新物品。\n\n如果您希望使用此包製作影片或內容，儘管去做吧！若這麼做，您必須向我（Ambiguous Chameleon）提供來源，並在描述和／或評論中加入到此包的連結。謝謝！\n\n## 作弊與命令\n\n<table>\n<thead>\n<tr>\n<th style=\"text-align:left;\">命令</th>\n<th style=\"text-align:left;\">說明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left;\"><code>/trigger ac.inv_random.hide_bossbar</code></td>\n<td style=\"text-align:left;\">切換倒數計時器。預設為可見</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\"><code>/trigger ac.inv_random.set_interval set &lt;value&gt;</code></td>\n<td style=\"text-align:left;\">設定物品隨機化的頻率（以刻為單位）</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\"><code>/trigger ac.inv_random.set_random_count set &lt;value&gt;</code></td>\n<td style=\"text-align:left;\">設定隨機化的物品數量</td>\n</tr>\n<td style=\"text-align:left;\"><code>/function ac_cheat:uninstall</code></td>\n<td style=\"text-align:left;\">卸除專案（僅適用於數據包版本！）</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

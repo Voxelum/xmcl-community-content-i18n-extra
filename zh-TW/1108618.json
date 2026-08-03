@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0fc021808e812e87",
+  "content": "<p>一個用於在遊戲聊天欄顯示Bilibili直播訊息的模組。只需將其放入mod資料夾，啟動遊戲並設置房間號以連接伺服器即可實現將直播畫面輸出到遊戲中的功能。</p>\n<p>具體效果如下圖所示：\n<img src=\"https://s2.loli.net/2024/09/24/4MGVoEOp6TWYCAv.webp\" alt=\"1654675467_8384_udXu.webp\"></p>\n<h3>Forge版本：</h3>\n<p>1.12.2及以下版本使用<strong>/BakaDanmaku</strong>命令重新加載配置。\n1.13.2及以上版本使用快捷鍵<strong>Alt+B</strong>重新加載配置。</p>\n<h3>Fabric版本：</h3>\n<p>快捷鍵<strong>B</strong>重新加載配置。</p>\n<p>配置文件位於遊戲主目錄下的<code>config/bakadanmaku/bilibili.json</code>中。建議使用Sublime Text或Visual Studio Code等軟件打開此文件。\n通常情況下，您只需修改房間號並啟用該功能，即只需修改以下兩處：</p>\n<p><img src=\"https://s2.loli.net/2024/09/24/3eJHv4W8EDUF1fa.webp\" alt=\"1654675466_8384_fUHm.webp\">-</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

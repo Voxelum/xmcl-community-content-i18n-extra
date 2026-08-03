@@ -1,0 +1,6 @@
+{
+  "bodyHash": "52b6dcae7141c737",
+  "content": "Сделайте коралловые блоки возобновляемыми.\n\n## Коралловые теги\n\nДобавлены теги 5x2: `brain|bubble|fire|horn|tube` — 5 типов, `live|dead` — 2 варианта.\n- Теги `#corals:brain_corals` ← Предмет `minecraft:brain_coral`\n- Теги `#corals:brain_corals` ← Предмет `minecraft:brain_coral_fan`\n\n## Рецепты коралловых блоков\n\nРецепты 5x2: 3x3 → 1 коралловый блок.\n- 3x3 Предмет `brain_coral|brain_coral_fan` → 1 Предмент `brain_coral_block`\n\n<p align=\"center\">\n<img src=\"https://cdn.modrinth.com/data/7YWQrnc2/images/65b50f8c5a0ea6fe9b2f81eb85a6e384659506ff.png\"/>\n  <img src=\"https://cdn.modrinth.com/data/7YWQrnc2/images/84016111284c3cdd230981db56bc5b4245a0bf75.png\"/>\n</p>\n\n## Благодарности\n\nЭто проект_fix для \n[https://modrinth.com/datapack/craftable-corals](https://modrinth.com/datapack/craftable-corals), так как его версия `1.21-1.21.1` не работает.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

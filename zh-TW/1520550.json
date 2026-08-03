@@ -1,6 +1,6 @@
 {
-  "bodyHash": "f69f59c732372615",
-  "content": "\n\n<p>此模組修復了 EpicFight-Resurrection 與 Epic Fight 20.12.8+ 之間的相容性問題。</p>\n<p><strong>已修復的問題：</strong></p>\n<ul>\n<li>Yamato：揮動時發生 NullPointerException 崩潰（Epic Fight 20.14.x）</li>\n<li>Phantom Katana：攻擊動畫無法播放（Epic Fight 20.12.8+）</li>\n<li>GREAT_TACHI（Crimson fang）：雙持時攻擊動畫無法播放（Epic Fight 20.12.8+）</li>\n<li>Wolf God Leap：於 EpicFight 20.10.x 更新後動畫不再播放。&nbsp;</li>\n</ul>\n<p>&nbsp;</p>",
+  "bodyHash": "427795d443085594",
+  "content": "<p>本修補程式解決 EpicFight-Resurrection 和 Epic Fight 20.12.8+ 之間的相容性問題。</p>\n<p><strong>修復的問題：</strong></p>\n<ul>\n<li>Yamato：揮舞時 NullPointerException 崩潰（Epic Fight 20.14.x）</li>\n<li>幻影太刀：攻擊未播放動畫（Epic Fight 20.12.8+）</li>\n<li>GREAT_TACHI（深紅之牙）：雙持時攻擊未播放動畫（Epic Fight 20.12.8+）</li>\n<li>狼神躍擊：在 EpicFight 20.10.x 更新後不再播放動畫。<br><br>&darr;原始碼&nbsp;<br><a href=\"https://github.com/Yoshio255/EpicFight-Resurrection-Crash-Fix-Code\" target=\"_blank\" rel=\"nofollow\">https://github.com/Yoshio255/EpicFight-Resurrection-Crash-Fix-Code</a></li>\n</ul>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

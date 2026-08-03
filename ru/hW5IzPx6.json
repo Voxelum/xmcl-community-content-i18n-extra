@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2c6c6db47246e36d",
+  "content": "LootHighlighter - Визуальное определение добычи\nLootHighlighter — это легкий модля для клиента, который добавляет цветное свечение предметам, выпадающим на землю, что делает их намного легче видеть в темных пещерах, под водой или после интенсивных боёв.\n\n💡 Основные функции\nДинамические контуры: Предметы на земле излучают свечение, которое помогает найти их издалека.\n\nЦветовая кодировка: Категоризированные цвета позволяют определить тип добычи на земле, даже не подбирая её.\n\nБез лагов: Реализован с использованием оптимизированных Mixins для нулевого влияния на производительность игры.\n\nПоддержка сервера: Поскольку это клиентский мод, вы можете использовать его на любом сервере без проблем.\n\n🎨 Guía de colores\n🔴 rojo: Todas las espadas y herramientas (picos, hachas, palas, tijeras).\n\n🔵 azul: Todas las piezas de armadura.\n\n🟡 amarillo: Consumibles raros como Totems of Undying y manzanas doradas.\n\n🟣 púrpura brillante: Bloques de obsidiana y obsidiana llorona.\n\n🟢 verde: Perlas del ender.\n\n⚪ blanco: telarañas.\n\n✨ Predeterminado: Otros colores estándar de rareza de Minecraft (por ejemplo, las épicas brillan en púrpura).\n\n⚙️ Requisitos\nMinecraft: 1.21.4.\n\nCargador: Fabric.\n\nDependencia: Fabric API.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

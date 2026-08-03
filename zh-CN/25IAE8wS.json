@@ -1,0 +1,6 @@
+{
+  "bodyHash": "075747c1dfe724d9",
+  "content": "这只是一个基于 [tfarecnim 的合成台](https://www.curseforge.com/minecraft/mc-mods/crafting-station) 模组的分支，并添加了对 JEI 的支持。tfarecnim 对加入此功能并不感兴趣，但需求足够大，且该模组采用 MIT 许可证，所以我们在这里做了这个修改！\n\n合成台是对合成台工作方式的一个小改动。它源自《Tinkers Construct》，这个合成台会保存你的物品并将其显示在顶部。它还可以访问相邻的 inventories（为模组包制作者提供了一个可选的黑白名单）。\n\n拥有 JEI 的玩家现在可以在合成台看到 “+” 图标来导入配方，就像在其他任何工作台上一样。\n\n版本 1（包括 1b 和 1c）完全与原版兼容。这意味着如果你在原版模组的服务器上游玩，你可以安全地使用这些改进版本来获得所需的 JEI 支持。1c 还修复了台子渲染的问题。\n\n1.1 及以后的版本是一个完整的 fork——服务器也需要使用这个版本的模组。如果安装了 [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)，此版本将支持它（让你可以从冲突的配方中选择），并且也将合成台加入了创造模式标签页菜单。\n\n我未来的计划是用全新的功能和新的外观重新编写这个模组——但这还需要一段时间。这应该能帮到你！\n\n演示功能的 GIF：\n\n![](https://s9.gifyu.com/images/SUs0F.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

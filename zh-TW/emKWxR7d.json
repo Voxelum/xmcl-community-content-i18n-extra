@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b91780f1b6cf7cc",
+  "content": "![Backup Beds](https://i.imgur.com/2UQecEd.png)\n\n**Backup Beds** 是一個極其簡單小巧的模組。Backup Beds 會記錄你最後在伺服器上睡覺的五張床（數量可設定），當你重生時，會試圖將你放置在你最後使用的非阻塞床或重生錨點中。\n\n安裝 Backup Beds 後，你可以在地下城入口外設置一張床，在那裡睡一覺來設定你的次重生點；如果在地下城中死亡，你會再次重生在該床上。當你完成地下城清理後，可以簡單地破壞門外的床，下次重生就會回到你之前的床，通常是在家中睡覺的那張床。這讓 Backup Beds 非常適合探索和其他冒險主題的整合包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

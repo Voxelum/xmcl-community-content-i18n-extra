@@ -1,0 +1,6 @@
+{
+  "bodyHash": "42556f2f5de9a289",
+  "content": "# 種籽維度 - ![版本](https://img.shields.io/modrinth/v/seeded-dimensions)\n此模組只是增加了一個設定，讓每個維度都可以設定種子。\n\n## 設定\n```json\n// Located at config/seeded-dimensions.json\n{\n  \"minecraft:overworld\": \"default\",\n  \"minecraft:the_nether\": \"default\",\n  \"minecraft:the_end\": \"default\"\n  // \"NAMESPACE:DIMENSION\": 2\n}\n```\n您可以將任何維度加入到此清單，使用「default」以使用預設 config 文件的種子，或設置一個數字來作為自訂種子。\n\n如果您執行 `/execute in ...` 它將會自動填寫存在的維度，此標籤應該是 config 中的標籤。\n\n## 範例\n![Example of mod](https://cdn.modrinth.com/data/dak4GhGX/images/246e87a7c3a5309aace2a064fd590605541a2285.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

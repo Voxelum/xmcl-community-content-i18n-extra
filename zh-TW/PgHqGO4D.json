@@ -1,0 +1,6 @@
+{
+  "bodyHash": "36ec1b8729f3b66c",
+  "content": "# 可破壞的試煉刷怪點與寶箱\n**允許試煉刷怪點和寶箱被安全採集。**\n\n[![Discord](https://img.shields.io/badge/Discord-JOIN-3f0f0f?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6NJZSxXFPV) [![Ko-fi](https://img.shields.io/badge/Ko--fi-SUPPORT-3f0f0f?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/bobotweaks) [![Fiverr](https://img.shields.io/badge/Fiverr-HIRE%20ME-3f0f0f?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/1qZlPl6)\n\n![trial-spawner](https://cdn.modrinth.com/data/PgHqGO4D/images/2448c441028d6db7058142cf8990b6bc1ee5173e.gif)\n\n### 試煉刷怪點\n- **試煉刷怪點**在被打破時會掉落其中的**spawn蛋**（即使沒有**絲運**）\n- 使用**絲運**則會掉落**試煉刷怪點**或**寶箱**本身。\n- **蛋保護**：防止使用相同的Spawn蛋兩次，並在更換類型時丟掉舊蛋。\n- **禁用方法**：在試煉刷怪點的四周放置4個火把將其禁用（觸發10秒冷卻時間）。\n- **冷卻時間**：剩餘的冷卻時間將保存在刷怪點物品中，並且在放置後繼續。\n\n### 寶箱\n- **詭異寶箱**作為“詭異寶箱”掉落並保持詭異狀態當它們被放置時。\n- 正常的**寶箱**則以正常方式掉落和放置。\n\n適合建造者、地圖製作者以及自動化設置。\n\n![ominous vault](https://cdn.modrinth.com/data/PgHqGO4D/images/e475b0a035f348323202398c4cbe82b3a6b48e39.gif)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

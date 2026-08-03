@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ccfa49756216ef44",
+  "content": "# 春日重啟移植版\n\n「春日重啟移植版」是一款適用於 Fabric 與 NeoForge 的模組，旨在將《我的世界》1.21.5 版本更新內容「春日重啟（Spring to Life）」的部分功能還原至 1.21.1，以便這些功能可在依賴舊版本模組的整合包中使用。\n\n## 現行功能：\n\n<details>\n<summary>生物</summary>  \n- 新雞種變體（溫暖雞、寒冷雞）\n- 新牛種變體（溫暖牛、寒冷牛）\n- 新豬種變體（溫暖豬、寒冷豬）\n\n（含掉落物、spawn 與繁殖行為）\n</details>\n\n<details>\n<summary>物品</summary>  \n- 新蛋種變體（藍蛋、棕蛋），包含製作配方、取得方式與用途\n</details>\n\n<details>\n<summary>方塊</summary>  \n- 落葉堆叢\n- 灌木叢\n- 螢光灌木叢\n- 短乾草\n- 高乾草\n- 仙人掌花\n\n（包含世界生成與其他屬性）\n</details>\n\n<details>\n<summary>世界生成</summary>  \n- 倒下的樹幹\n- 沙漠生物群系出現駱駝\n</details>\n\n<details>\n<summary>粒子效果</summary>  \n- 落葉現在會產生緩慢飄落至地面的粒子效果\n</details>\n\n<details>\n<summary>其他設定</summary>  \n- 磁礦石合成配方已更改\n- 磁礦石作為 loot 隨機生成於毀壞之門的箱內\n</details>\n\n![新增動物多樣性] (0)\n\n## 使用貢獻：\n在乾燥葉子上行走.wav by ChamoneSteyn -- https://freesound.org/s/542221/ -- 授權：CC BY 4.0\n\n環境音效 01.wav by szelestamas -- https://freesound.org/s/620099/ -- 授權：Creative Commons 0\n\n蟋蟀 - 2 by SamuelGremaud -- https://freesound.org/s/437027/ -- 授權：Creative Commons 0",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

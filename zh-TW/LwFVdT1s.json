@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3bb92dced8840c25",
+  "content": "# 數據包傳送門\n使用 [CustomPortalApi](https://github.com/kyrptonaught/customportalapi) 配合数据包创建自定义传送门。\n\n在您的数据包中建立一个 \"portals\" 文件夹，这里就是放置所有自定义传送门的地方。只要没有重复的框架方块，传送门的数量没有限制。\n\n以下是一个示例文件： \nstoneendportal.json\n\n     {  \n\t    \"block\": \"minecraft:stone\",  \n\t    \"dim\": \"minecraft:the_end\",  \n\t    \"r\": 66,  \n\t    \"g\": 135,  \n\t    \"b\": 245\n     }\n\n - block: 用于框架的方块。 \n - dim: 要前往的维度ID\n -  r, g, b: 染色的颜色参数\n\n此外还有一些可选参数：\n\n - ignitionType: 使用的点火类型。选项有 \"BLOCK\", \"FLUID\", \"ITEM\"。\n - ignitionSource: 用于点燃传送门的项目/流体/方块的ID，仅支持火焰：\"minecraft:fire\"。所有项目和流体均可支持。\n - returnDim: 返回的维度，可以指定除主世界以外的其他返回地点\n\n就是这样！传送门的功能将与原版下界传送门完全相同\n![portals and stuff](https://raw.githubusercontent.com/kyrptonaught/customportalapi/main/images/2020-11-15_17.06.44.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

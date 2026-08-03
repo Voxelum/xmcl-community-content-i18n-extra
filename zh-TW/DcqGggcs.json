@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8dffbf3e38204564",
+  "content": "# 床Fallback\n\n一個簡單的實用模組，用於幫助在整合包或伺服器中避免 respawn 回到世界出生點，而是追蹤舊出生點（若床仍存在）。\n\n## 功能\n\n當你破壞你設定的出生點床時，若之前的出生點床仍然存在，最後一個可用的出生點將自動再次成為你的出生點。\n\n伺服器配置選項設定最大已知的 fallback 床數。預設值為 3。\n\n## 維基\n\n請查看 [維基](https://github.com/magnushjensen/bed-fallback/wiki) 以獲取詳細文檔。\n\n如果你認為維基中缺少任何不清楚的內容，請在 Discord 中發消息或提交一份 [改進文檔的問題](https://github.com/MagnusHJensen/bed-fallback/issues/new?template=3.Improve_docs.md)。\n\n## 規劃\n\n請查看版本 [里程碑](https://github.com/MagnusHJensen/bed-fallback/milestones)。\n\n## 鏈接\n\n加入我的 [Discord](https://discord.gg/PHu8k32M3q) 以獲得支持和更新！（剛剛創建，簡潔）\n- [CurseForge頁面](https://www.curseforge.com/minecraft/mc-mods/bed-fallback)\n- [Modrinth頁面](https://modrinth.com/mod/bed-fallback)\n\n## 感謝\n\n- [jaredlll08](https://github.com/jaredlll08) 創建 [`Multiloader-Template`](https://github.com/jaredlll08/MultiLoader-Template)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1b1f3e332ffcc149",
+  "content": "![Logo](https://cdn.modrinth.com/data/cached_images/a8b50c42285dd669b14300171f38c020d7aa4b7b.png)\n\n這是一個獨立（無依賴）\n```\n1.15 - 26.1\n```\n模組，針對 **Minecraft 多人遊戲介面** 提供大量 **使用者體驗優化**。改進內容包括：\n- **伺服器列表**\n- **伺服器搜尋功能**\n- **收藏與標籤**\n- **依標籤排序**\n\n# 展示範例：\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/UpNb6y3GuBY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 注意：\n\n由於 1.20+ 版本的邏輯與舊版本不相容，因此 1.20 之前版本的按鈕外觀會與 1.20+ 版本略有不同。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

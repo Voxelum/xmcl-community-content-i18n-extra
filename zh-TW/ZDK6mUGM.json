@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80c219ad38d7640b",
+  "content": "引入**Returners** — 魔法道具，讓你輕鬆傳回床上。無論你在主世界迷失、在惡地遇險、或在終界被困，這些工具都能幫助你安全返回家園。\n\n---\n\n## 📘 維基\n\n想了解關於 Returner 道具的更多細節、配置建議或模組機制的資訊？  \n請造訪 [**Back To Bed Wiki**](https://github.com/BaKYCoder/back-to-bed/wiki) 查看完整文件說明。\n\n---\n\n## ⚙️ 配置\n\n自 **v1.2+** 起，所有 Returner 都可個別或全域自訂設定。\n\n**配置文件位置：**\n- **Fabric:** `config/backtobed.json`\n- **Forge / NeoForge:** `config/backtobed-common.toml`\n\n> 📦 需要 [MidnightLib](https://modrinth.com/mod/midnightlib) **v1.5.6+**（僅限 Fabric）\n\n---\n\n## 🌍 支援語言\n\n- 🇺🇸 English, 🇩🇪 German, 🇫🇷 French, 🇨🇿 Czech\n<details>\n<summary>更多語言</summary>\n\n- 🇺🇦 Ukrainian, 🇪🇸 Spanish, 🇮🇹 Italian, 🇵🇱 Polish, 🇷🇺 Russian\n</details>\n\n---\n\n## 💬 貢獻\n\n發現了錯誤？想協助翻譯或提出新功能建議？  \n在 GitHub 上開一個 [issue](https://github.com/BaKYCoder/back-to-bed/issues) —— 歡迎任何貢獻！\n\n---\n\n## 📜 授權\n\n本專案採用 [MIT License](https://opensource.org/license/mit/) 發佈。\n\n---\n\n## 🔗 亦可在以下平台取得\n\n你也可以在 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/back-to-bed) 找到 **Back To Bed**。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

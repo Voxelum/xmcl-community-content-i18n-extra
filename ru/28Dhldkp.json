@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2122019ca081775c",
+  "content": "# ПРЕДУПРЕЖДЕНИЕ\nЭтот проект теперь объединен с [TooltipTexture](https://modrinth.com/mod/tooltiptexture), используйте его\n\n# Обзор\nFabric и Forge порт [TooltipTexture](https://modrinth.com/mod/tooltiptexture) от moehreag\n# Использование\nФон текстуры находится по адресу \n`assets/tooltiptexture/background.png`.\nТекстуры для внутренних границ находятся по адресу \n`assets/tooltiptexture/border_{top, bottom, left, right}.png`.\nТекстуры для внешних границ находятся по адресу\n`assets/tooltiptexture/border_outer_{top, bottom, left, right}` соответственно.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

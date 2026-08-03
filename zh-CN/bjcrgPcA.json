@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a96c87cc07a687f7",
+  "content": "## Graal\n这是一个经过自定义的 GraalJS，它是一个高性能的 JavaScript 实现。它符合 ECMAScript 标准，支持与 Java 和其他 Graal 语言的互操作性。\n\n除了常规的 GraalJS 功能外，Graal 还进行了以下改进：\n- 支持 MemberRemapper，允许开发者自定义 Java 成员（如方法和字段）在 JavaScript 侧的名称\n- 精简了捆绑的库文件，使得模组总大小比常规 GraalJS 小约 50%\n\nGraalJS 文档：https://www.graalvm.org/reference-manual/js/\n\n## 注意\n\n1. 这并非 GraalJS 或 GraalVM。如果遇到与 JavaScript 本身无关的问题，请在联系 GraalJS 或 GraalVM 之前先向 GraalMC GitHub 仓库提交问题\n2. （已在 25.0.2.0 修复）如果使用 GraalVM 运行游戏，游戏会早期崩溃",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

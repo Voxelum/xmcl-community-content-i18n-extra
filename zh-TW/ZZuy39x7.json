@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d2e9ecb0020f6e97",
+  "content": "# 基岩破壞者\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1607S8)\n\n需要 [Fabric Loader](https://fabricmc.net/use/) 和 [Fabric API]\n\n要在該服務器上安裝模组。\n\n## 設置\n\n- 將模組放入服務器 mod 資料夾中\n\n## 詳情\n\n基岩破壞者是一個服務端模组，用於在非創造模式玩家打開容器類方塊或儲存實體的庫存時移除基岩基座。\n\n它還防止玩家放置基岩，並當他們試圖放置基岩時摧毀整個堆疊。\n\n## 下載\n\n- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bedrock-destroyer)\n- [Modrinth](https://modrinth.com/mod/bedrock-destroyer)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

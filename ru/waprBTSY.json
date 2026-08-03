@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cbca92790e282805",
+  "content": "# VoxExporter\n## Информация\nЭкспорт построек из Minecraft в формат файла `.vox`.\n\n## Как использовать\nВыполните команду \n```\n/exportvox\n```\nс именем и двумя позициями.\n\n## Пример\n```\n/exportvox test 0 0 0 10 10 10\n```\n\nПоявятся файлы в папке /vox в корневом каталоге Minecraft.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

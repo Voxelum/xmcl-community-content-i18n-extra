@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d0bcbc44855dde52",
+  "content": "[備份系統插件](https://modrinth.com/mod/backupmod)\n\n[Kovai 主機](https://discord.gg/YuCwysPkns**)\n![kovai](https://cdn.modrinth.com/data/cached_images/8edf868eb114268f1e12d1fe0b5bff95f485f3f0.jpeg)\n\n🔐 登入系統 – 保護您的伺服器！\n\n登入系統是一個簡單卻強大的插件，為離線模式的 Minecraft 伺服器提供註冊與登入功能。\n它確保玩家必須通過驗證才能進入遊戲，防止冒名頂替和未經授權的訪問。\n\n✨ 玩家身份驗證\n玩家必須使用 /register 和 /login 指令才能與伺服器互動。\n\n自動踢出與限制\n未驗證的玩家無法移動或互動，直到他們完成登入。\n\n可自訂設定\n透過 config/loginsystem.properties 完全可調整（超時設定、訊息、資料庫選項、等待區域座標等）。\n\n等候區與位置還原\n\n記錄玩家加入時的原先位置。\n\n傳送玩家至可配置的等候區。\n\n在成功登入/註冊後恢復原位置。\n\n物品欄遮蓋與致盲效果\n未驗證的玩家將被隱藏物品欄並應用致盲效果。\n\n雙重登入防範\n阻止使用相同 UUID 重複連線（會斷開第二次連線）。\n\n管理員指令\n\n/loadmin info <玩家> → 查看儲存的密碼資訊。\n\n/loadmin delete <玩家> → 刪除儲存的密碼。\n\n🔧 如何使用\n\n安裝插件\n\n下載 .jar 檔案並放入伺服器的 mods/ 資料夾中。\n\n設定檔案\n\n開啟：config/loginsystem.properties\n\n每個選項都附有註解以方便設定。\n\n玩家指令\n\n/register <密碼> <確認密碼>\n\n/login <密碼>\n\n/changepassword <舊密碼> <新密碼>\n\n管理員指令\n\n/loadmin info <玩家>\n\n/loadmin delete <玩家>\n\n📥 安裝方式\n\n模组載入器: Forge\n\nMinecraft 版本: 1.20+\n\n依賴項：無（僅支援最新版）\n\n💖 支持\n\n如果您喜歡此插件，請考慮支持我——捐款將幫助我繼續開發 🚀\n🔗 GitHub",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

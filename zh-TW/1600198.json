@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7b0e0568bb3049fb",
+  "content": "<p><strong>此模组尚在早期開發中，可能會出現錯誤。</strong></p>\n<p><strong>-Iron Core</strong> 是一個庫製作的模組，作為 Iron 系列模組（包括 Iron Carrots、Iron Apples 和 Iron Barrels）的<strong>中央橋樑與配置管理器</strong>。</p>\n<p>-它會自動偵測您已安裝的這些模組並為它們生成<strong>分開且可自定義的配置檔案</strong>，並將所有配置檔整合到<strong>\"IronCore\"資料夾</strong>內。</p>\n<p><strong>-本模組本身不會新增任何物品或方塊</strong>，但它<strong>作為相依性必需存在</strong>，以使其他模組正常運行，並讓您調整如物品開關、飢餓值、飽滿度係數以及方塊設定等內容。</p>\n<p><strong>-若使用任何 Iron 系列模组，請務必將此 mod jar 放入您的 mods 資料夾中，否則遊戲將會提示該缺失。</strong><br><br></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

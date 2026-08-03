@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2037cd61946f3339",
+  "content": "<blockquote>\n<p>此模组在生成世界时移除<strong>Trial Chambers</strong>中的<strong>Ominous Vaults</strong>。</p>\n<p>模组会通过轻量级扫描，仅针对正在生成的Trial Chamber区块进行检测。如果检测到任何Vaults，它们会自动被空气取代。</p>\n<p>模组仅扫描<strong>新生成的Trial Chamber区块</strong>。已存在的Trial Chamber不会受到影响。Ominous Vaults在其他地方仍能正常工作——此模组仅影响其在Trial Chambers中的<strong>自然生成</strong>。</p>\n<p>此模组<strong>仅在服务器端有效</strong>，不需要安装在玩家电脑上，除非你是在<strong>单人模式</strong>下游玩。只需将文件安装到服务器或客户端即可。</p>\n<p>本模组由我完全独立制作。欢迎留言或提供反馈。</p>\n</blockquote>\n<p><strong><br><br></strong></p>\n<p>&nbsp;</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "lsrB3bggWwM=",
-  "content": "<h1>NaNny</h1><h2>因為某些模組無法控制它們的浮點數。</h2><p>NaNny 是一款 Minecraft Neo/Forge 模組，專門清理那些將實體生命值和/或吸收值設為 NaN 的模組所導致的問題。</p><p>透過攔截以下事件並取消（可選修復受影響實體）來實現此功能：</p><ul>\n<li>生物攻擊事件（LivingAttackEvent）</li>\n<li>生物傷害事件（LivingDamageEvent）</li>\n<li>生物治療事件（LivingHealEvent）</li>\n<li>生物受傷事件（LivingHurtEvent）</li>\n</ul><p>NaNny 會在 <code>world/serverconfig/nanny-server.toml</code> 創建一個 TOML 設定檔。</p><p>目前設定檔提供以下選項：</p><ul>\n<li>doHeal - 啟用當實體被賦予或治療 NaN 時設定其生命值（預設為 true）</li>\n<li>health - 當實體被賦予或治療 NaN 時，將其生命值設定為最大生命值的百分比（預設為 1.0）</li>\n<li>log - 是否記錄將實體生命值設為 NaN 的事件（預設為 true）</li>\n</ul>",
+  "bodyHash": "93fa1e9b6cc24d17",
+  "content": "<h1>NaNny</h1>\n<h2>因為有些模组無法控制他們的浮點數。</h2>\n<p>NaNny 是一個 Minecraft Neo/Forge 模组，用於清理那些將實體的健康值和/或吸收值設為 NaN 的模组。</p>\n<p>這是透過掛鉤以下事件並取消這些事件，並可選地治療受影響的實體來實現：</p>\n<ul>\n<li>LivingAttackEvent</li>\n<li>LivingDamageEvent</li>\n<li>LivingHealEvent</li>\n<li>LivingHurtEvent</li>\n</ul>\n<p>NaNny 會在 <code>world/serverconfig/nanny-server.toml</code> 建立一個 TOML 組態檔。</p>\n<p>目前該組態檔有以下選項：</p>\n<ul>\n<li>doHeal - 當實體受到或治療 NaN 時設定其健康值（預設 true）</li>\n<li>health - 當實體受到或治療 NaN 時設定其最大健康值的百分比（預設 1.0）</li>\n<li>log - 是否記錄將實體健康值設為 NaN 的事件（預設 true）</li>\n</ul>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "55a6fde77c3490e5",
+  "content": "## 概述\n\nBackstabbing Fix 是一個針對 Minecraft 1.20.1 的伺服器端 Forge 模組，用於修補 Farmer's Delight 中後刺傷害利用漏洞。它將 enchantment 的行為限制僅限於玩家近戰攻擊，而非允許來自其他無關來源的傷害放大。\n\n這個模組刻意保持小巧且專注。它只負責一件事：防止後刺加成被法術、彈丸或其他非近戰攻擊等來自其它模組的傷害來源濫用。\n\n## 問題\n\nFarmer's Delight 的後刺原本旨在獎勵正確的近戰站位。如果沒有修復，傷害加成可能被那些從未意圖算作普通刀擊的來源觸發。\n\n這意味著玩家有時可以：\n\n1. 使用法術代替近戰攻擊\n2. 藉由彈丸或其他模組傷害觸發加成\n3. 繞過該附魔原本的戰鬥規則\n\n在模組化服務器中，這會導致不一致且不公平的傷害行為。\n\n## 工作原理\n\nBackstabbing Fix 監聽 Farmer's Delight 的後刺掛鉤，並在加成應用前驗證 incoming 傷害來源。\n\n修復僅在傷害來源為標準玩家近戰攻擊時才允許放大效果。若擊來自任何其他來源，後刺加成將會被取消。\n\n這能確保附魔與其設計初衷的戰鬥風格保持一致。\n\n## 特性\n\n*   僅限伺服器端\n*   輕量且專注\n*   防止非近戰傷害造成的後刺強化\n*   相容於多種戰鬥模組配置\n*   可選行為：即使未安裝 Farmer's Delight 也可載入\n\n## 設定\n\n該模組包含一個簡單的伺服器設定檔：\n\n```\n[fixes]\nfixBackstabbingExploit = true\n```\n\n啟用後，修補功能即生效。\n\n## 兼容性\n\n*   Minecraft 版本：1.20.1\n*   模组加载器：Forge 47.4.x+\n*   运行位置：服务端\n*   关联模组：Farmer's Delight\n\n只有当 Farmer's Delight 安装时此修复才有效，因为它提供了后刺附魔挂钩。\n\n## 为何使用此模组？\n\n如果您希望在模组环境中保持后刺附魔的平衡性，那么本模组会很有用。\n\n它有助于保持：\n\n*   近战伤害一致性\n*   刀具后刺与正确命中挂钩\n*   避免法术和远程攻击滥用仅限近战的效果\n\n## 致谢\n\n**作者**: [SatDPhoe](https://x.com/SatPhoe)\n\n[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/satdphoe)\n \n[![捐赠](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/SatDPhoe)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

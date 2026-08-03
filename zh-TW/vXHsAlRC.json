@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9525afcf5ef44b91",
+  "content": "# 區塊存檔修復\n1.20.1 移植 https://github.com/jaskarth/chunksavingfix-fabric/tree/main 程式庫，修復 https://bugs.mojang.com/browse/MC-224729\n\n修正某些區塊中會截斷樹木等特徵的區塊存檔錯誤。\n\n感謝我的朋友 elocindev 移植此程式庫",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

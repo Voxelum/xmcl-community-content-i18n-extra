@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aad90c502df4e8ad",
+  "content": "<p>改變帆的升力和阻力計算，使其根據速度的平方進行正確計算，而不是目前的線性計算。<br>這將使您在Aeronautics中製造大型和小型飛機變得更加容易，因為您不需要那麼多的機翼面積來產生升力。</p>\n<p>這是第一款我開發的模組，我僅做了輕微的測試。如果係數略有偏差，您可以在ldfix設定檔案中進行調整。<br>我也不能保證會在後續版本中繼續更新這個模組。</p>\n<p>依賴：<br>Sable - <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fsable\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/sable</a><br>Create - <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/create</a><br>Create Aeronautics - <a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fcreate-aeronautics\" target=\"_blank\" rel=\"nofollow\">https://modrinth.com/mod/create-aeronautics</a></p>\n<p>**與複製仿製船帆模組的已知問題：由於其增加的倍率會導致過量的升力產生。</p>\n<p>-目前解決方案：在複製仿製船帆相容設定中，將升力係數從1.75改為0.75以獲得最佳效果。</p>\n<p>原始物理程式碼歸功於Sable團隊</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

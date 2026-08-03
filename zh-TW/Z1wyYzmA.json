@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9b9e8c9bf6742f31",
+  "content": "修復了在使用 connector、iris 和 sodium 時的沉浸式傳送門的多個錯誤和崩潰（也可與 embeddium 和 oculus 一起使用 :D）\n\n與 euphoria 修補版的 Complementary Shader 相容 :D\n\n原始描述 \\/\n允許穿過傳送門，並直接進入傳送門而不加載畫面。傳送門可以「摺疊」空間，並透過旋轉和縮放轉換產生非歐幾里得幾何體。\n\n還包含鏡像、維度堆疊、世界包裹、縮放框包裹、用於自定義傳送門的指令、用於自定義傳送門的 datapack 功能。請參閱 wiki 以獲取更多詳細信息。\n\nWiki: https://qouteall.fun/immptl/wiki",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

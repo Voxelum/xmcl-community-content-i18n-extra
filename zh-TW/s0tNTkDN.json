@@ -1,6 +1,6 @@
 {
-  "bodyHash": "E9ceBFN7ilM=",
-  "content": "![一位玩家使用獄髓鎬挖掘基岩方塊。](https://cdn.modrinth.com/data/s0tNTkDN/images/b2767e8a5badb0c470e3b30683e88814e05ca81e.gif)\n\n允許玩家使用採集等級4或更高的鎬子來挖掘基岩（在1.20.4及以下版本可配置）。挖掘後，基岩不會掉落任何物品（同樣可配置），只會直接破碎。基岩的破壞時間（預設71）和爆炸抗性（預設3600000）也都可輕鬆配置。\n\n## 設定檔案\n```properties\n# destroy_time: 基岩的破壞時間。（黑曜石為50，石頭為1.5，-1為不可破壞）\n# explosion_resist: 基岩的爆炸抗性。（石頭為6，玻璃為0.3）\n# mining_level: 挖掘基岩所需的採集等級。（獄髓等級為4）（僅在1.20.4及以下版本有效）\n# drop_bedrock: 基岩被破壞時是否應掉落為方塊。\n\ndestroy_time=100\nexplosion_resist=3600000\nmining_level=4 #僅在1.20.4及以下版本有效\ndrop_bedrock=false\n```",
+  "bodyHash": "9a2c8aab0be84f6b",
+  "content": "![一名玩家使用下界合金镐挖掘基岩。](https://cdn.modrinth.com/data/s0tNTkDN/images/b2767e8a5badb0c470e3b30683e88814e05ca81e.gif)\n\n允許玩家使用採礦等級為 4 或更高（1.20.4 及以下版本可配置）的採礦工具開採基岩。開採後，基岩不會掉落任何東西（也可配置），只會破碎。基岩的破壞時間（預設 71）和爆炸抗性（預設 3600000）也均可輕鬆配置。\n\n## 配置文件\n```properties\n# destroy_time: 基岩的破壞時間。（黑曜石為 50，石頭為 1.5，-1 表示不可摧毀）\n# explosion_resist: 基岩的爆炸抗性。（石頭是 6，玻璃是 0.3）\n# mining_level: 開採基岩所需的採礦等級。（下界合金為 4）（僅限 1.20.4 及以下版本）\n# drop_bedrock: 破碎時基岩是否會作為方塊掉落。\n\ndestroy_time=100\nexplosion_resist=3600000\nmining_level=4 #only on 1.20.4 and below\ndrop_bedrock=false\n```",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

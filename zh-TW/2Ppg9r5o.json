@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f06c089460ae8ea4",
+  "content": "# 🌱💧 耕地之水——乾爽行走於田間\n\n灌溉溝渠不再阻礙你的步伐。Farmland Water會自動將耕地旁的水替換成一個隱形的濕潤平台，讓作物保持溼潤，而你也能自由走過。\n\n## ✨ 特色\n\n- 隱形步行表面 – 特殊的方塊僅從上方碰撞，同時保持浸水狀態\n- 自動放置與清理 – 耕地旁的水將轉換為平台；若耕地消失或遊戲規則關閉，未使用的平台會恢復為水\n- 實時水檢測 – 水桶潑灑或流動的水會立即轉換\n- 遊戲規則切換 – 啟動或停用此功能\n```\n/gamerule FarmlandWater <true|false>\n```\n- 始終同步 – 定期掃描確保平台與田間對齊\n\n💡 適合整潔的農場布局、高效的採收路線以及以移動為中心的建造方案。\n\n🤝 想要自動化收割與重播種？搭配 [AutoSow – 自動收割與重播種](https://modrinth.com/mod/autosow-by-neni-o) 享受流暢的農業體驗，並使用 [堆疊管理器](https://modrinth.com/mod/stack-manager) 針對種子、作物和 potion 設定每項堆疊上限（最多99），使穀倉和背包保持整齊。[農民附魔](https://modrinth.com/mod/farmer-enchants) 提供農藥附魔和更好的農業體驗。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

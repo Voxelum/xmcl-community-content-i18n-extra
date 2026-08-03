@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7060bd1c2c03157e",
+  "content": "# RegSyncFix\n\n這是一個簡單的 Fabric 模組，可以繞過 Fabric API 註冊同步中的錯誤（如下例所示）。它可以服務端完全禁用同步，也可以安裝在用戶端，使用户端可以在遇到錯誤時繼續運行。\n\n![RegSyncFix 修復的錯誤範例](https://raw.githubusercontent.com/ILikeFood971/RegSyncFix/master/example_error.png)\n\n已在 1.20.4 測試通過，但很可能在所有有 Fabric API 的 Minecraft 版本中都可以運作。\n\n## 警告\n\n註冊同步是有意義的。如果你使用此模組且伺服器上的模組不一致，可能會導致意外行為。本模組的使用意圖是針對你確定一切應該都能正常運作，但註冊同步卻阻止你加入的情況。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

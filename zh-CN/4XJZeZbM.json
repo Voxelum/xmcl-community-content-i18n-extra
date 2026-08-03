@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bcff3bf980cff771",
+  "content": "![logo](https://imgur.com/xnTQAch.png\"logo\")\n\n## 主要由我们的模组使用的 API，为某些特性提供一些实用工具。\n需要 Architectury API！\n<br/><br/>\n\n\n### **Wood API**\n一个轻量级且简单的 Wood API，帮助注册船只和告示牌\n\n### **配方书**\n一种原版风格的配方书 - 仅通过创建两个 Java 类实现。\n\n### **渲染 API**\n适用于方块和盔甲的渲染系统。使创建 3D 渲染的盔甲变得简单。\n\n### **条件配方**\n适用于 Forge 和 Fabric 的简单条件配方\n\n### **配置**\n一些用于编写带注释的配置文件的辅助工具\n\n***你可以在这里找到一些示例*** [here](https://github.com/Cristelknight999/DoAPI#readme \"Github\")",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

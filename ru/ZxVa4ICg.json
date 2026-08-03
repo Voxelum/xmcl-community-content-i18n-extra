@@ -1,6 +1,6 @@
 {
-  "bodyHash": "8c8af9d09d9cd0c0",
-  "content": "\n\nCHAS — это мод, который подсвечивает ваше имя или заданные слова в сообщениях чата и проигрывает звуки.\n\nВы можете настроить пользовательские ключевые слова для подсветки, выбрать цвет выделения и подобрать один из звуков в меню настроек.\n\n- На Fabric меню настроек можно открыть, нажав «U».\n- На Forge к нему можно добраться через меню «Mods».\n- Начиная с версии 1.1.1 вы также можете открыть его, используя команды /chas или /chathighlightandsound.\n\n![меню настроек](https://cdn.modrinth.com/data/ZxVa4ICg/images/8cf117fc7ea3744ed090be85b13f9313202720f9.png)",
+  "bodyHash": "f9cd71425591c552",
+  "content": "CHAS позволяет добавлять цвета и звуки к сообщениям в чате.\n\nВы можете настроить цвета и звуки для всех сообщений или конкретных ключевых слов.\n\n- На Fabric экран настроек можно открыть нажатием 'U'.\n- На Forge доступ возможен через меню 'Mods'.\n- Вы также можете открыть его, используя команду /chas или /chathighlightandsound.\n\n![экран записей](https://cdn.modrinth.com/data/ZxVa4ICg/images/a1161251d0af4a93396177546c6527712fbaa070.png)\n![экран записей](https://cdn.modrinth.com/data/ZxVa4ICg/images/ced3fed08f0e572a173f2fdca766b1d6a6f92729.png)\n![экран редактирования записи](https://cdn.modrinth.com/data/ZxVa4ICg/images/b076a6ae4594f317ab0b7bb639dee72294f54052.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

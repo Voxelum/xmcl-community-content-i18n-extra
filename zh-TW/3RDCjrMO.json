@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2fdae7d0cbb704e2",
+  "content": "# 床大改\n\n![](https://github.com/Iru21/BedOverhaul/raw/master/src/main/resources/assets/bedoverhaul/icon.png)\n\n製作這個模組的初衷，是想解決新玩家不嘗試生存第一晚，而是直接製作（或在村落找到）一張床跳過夜晚的問題！\n\n安裝「床大改」後，首先需要將鐘表放在床上（按住鼠標右鍵點擊），才能讓床具備跳過夜晚（或雷暴）的功能。同時還需要使用羅盤設定床為重生點。破壞床時，升級效果會消失，因此無法移動已升級的床。\n\n這將迫使玩家必須努力撐過第一晚（或更久），直到他們有能力跳過為止！同時也期望能讓玩家在基地保留一張主床，而不是隨身攜帶（儘管把鐘表放在終界箱裡也沒什麼大不了）。\n\n## 反饋\n\n如有任何建議或發現問題，歡迎[提交問題](https://github.com/Iru21/BedOverhaul/issues/new)或到我的[支援伺服器](https://discord.gg/jrebrmDD5X)尋求協助。\n\n## 兼容性\n\n**完全兼容**\n- [寫實睡眠模组](https://github.com/Steveplays28/realisticsleep)\n\n## 靈感來源\n\n[BetterThanAdventure Mod](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3106066-better-than-adventure-for-beta-1-7-3-timely)\n\n[TheMisterEpic](https://www.youtube.com/@TheMisterEpic) 的影片《[Bed如何毀滅了Minecraft？](https://www.youtube.com/watch?v=yTB8qDbfhBg)》",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

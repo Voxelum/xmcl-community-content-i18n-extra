@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a73da7e8148382c9",
+  "content": "### 防止傳送門關閉你的介面\n\n通常，在進入下界傳送門時，如果正在開啟inventory、聊天或任何其他GUI，這些介面都會被關閉。\n然而，此模組移除了此行為，使它們保持開啟。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

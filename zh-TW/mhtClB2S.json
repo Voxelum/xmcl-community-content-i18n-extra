@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d797132a9067cf4",
+  "content": "允許您從 [TFC](https://modrinth.com/mod/terrafirmacraft) 中創建配方、方塊和物品。\n\n例如：\n\n```js\nonEvent('recipes', event => {\n    event.recipes.tfc.bloomery('minecraft:oak_log', Fluid.of('tfc:metal/bismuth_bronze', 2), 'minecraft:bucket', 20)\n})\n```\n\n請參閱 [wiki](https://notenoughmail.github.io/kubejs_tfc/) 以獲得完整的特性列表及其使用方法。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

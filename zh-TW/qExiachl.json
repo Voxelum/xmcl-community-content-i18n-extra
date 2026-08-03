@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4df3bb012e8d8d1d",
+  "content": "此模組顯著加速配方查找。其機制基於配方原料的哈希碼構建樹，在搜索時可快速識別配方。與原始的一一比對方法相比，速度提升超過10倍，且配方總數越多，性能差距越大。\n此外，此模組提供的[核心庫](https://github.com/nutant233/Fast-Recipe-Search/blob/1.21/libs/RecipeSearch-1.0.jar)是高性能配方樹API。其他模組也可利用此庫，且不依賴Minecraft代碼，甚至非Minecraft項目也能使用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

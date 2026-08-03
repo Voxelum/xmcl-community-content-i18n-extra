@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d5286f68838dd3e8",
+  "content": "# **審查聊天**\n\n- 建立一個包含無限多個欲從聊天內容中移除之詞彙的**黑名單**！\n- 任何被列入黑名單的詞彙將被替換為單一個空格，讓您在去除一連串 ******** 雜訊之餘仍能正常閱讀訊息內容。\n- **請勿** 將此模組放置於伺服器 mods 資料夾內——這僅為**用戶端**用模組！\n\n\n## **使用說明**\n\n1. 拖曳至 mods 資料夾中  \n2. 啟動遊戲  \n3. 關閉遊戲  \n4. 進入 config 資料夾（通常位於 mods 資料夾上方路徑處）  \n5. 使用記事本或其他支援編輯 .json 檔案的程式開啟 `censor_chat.json`\n\n\n```\n{\n  \"deleteMessage\": false,   // 若檢測到黑名單詞彙則刪除整則訊息\n  \"blacklist\": [    // 在此自行加入詞彙（例如替換 badword1）\n    \"badword1\",\n    \"badword2\",     // 每個條目末尾請加上逗號以區分項目\n    \"badword3\"      // 最後一項末尾不要加逗號\n  ],\n  \"repeatCharForLengthOfWord\": false,  // 若啟用，將以對應字長重複符號替換整個黑名單詞彙\n  \"customChar\": false,  // 若您想自訂替換符號而非預設空格，請設為 true\n  \"replaceWith\": \"*\",   // 當 customChar 設為 true 時，使用此符號代替空格\n  \"repeatChar\": 1       // 若此數值（整數）大於 1 且 repeatCharForLengthOfWord 設為 false，則黑名單詞彙將依此數值長度進行替換\n}\n```\n\n\n## **即將推出：**\n\n### **版本支援：**\n- Forge 1.20.X 支援。（若使用者需求明確，我可能會嘗試支援 1.12.2–1.20.4；由於此模組極為簡單，跨版本調整應不困難）\n- ~~Fabric 1.20.X 支援。~~ **_已完成_**\n- Quilt 1.20.X 支援。\n- Neoforge 可能將獲得 1.20.X 支援，但我目前對 Neoforge 機制尚不完全了解，因此此項目可能需要暫緩 lmao。\n\n### **新功能：**\n- ~~新增配置選項，可選擇替換黑名單詞彙的符號及重複次數（例如將符號設為\"x\"並重複4次，則\"badword1\"將被替換為\"xxxx\"）~~ **_配置已全面更新_**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

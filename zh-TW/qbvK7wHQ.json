@@ -1,0 +1,6 @@
+{
+  "bodyHash": "afd9878ec18912ed",
+  "content": "# AutoLogin\n自動使用 /login 或自定義命令登入 Minecraft 伺服器。\n\n**Fabric 1.19.2-26.2+**\n\n## 用法\n當加入伺服器時，如果已設定密碼且模組已切換為開啟狀態，則會自動發送登入命令。\n\n### 基本命令\n##### `/autologin`\n\n### 子命令\n\n##### `/autologin password set <密碼>`\n設定你的登入密碼。\n\n##### `/autologin password get`\n顯示目前儲存的密碼。\n\n##### `/autologin commands add <命令>`\n將命令添加到模組將嘗試的登入命令列表（例如 `login`, `l`）。\n\n##### `/autologin commands remove <命令>`\n從登入命令列表中移除命令。\n\n##### `/autologin commands list`\n列出所有當前配置的登入命令。\n\n##### `/autologin toggle`\n切換模組的開或關狀態。需要在使用前設置密碼才能啟用。\n\n### 依賴\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)\n\n需要 Java 21\n\n### 貢獻者\nP3nguinMinecraft",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

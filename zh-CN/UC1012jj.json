@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d36cc5d15ca967b",
+  "content": "<p>可自定义客户端方向伤害指示器（CCDDI）为十字准线周围添加了一个简单却极有用的伤害指示器，提醒玩家附近存在的伤害来源。</p>\n<p>该指示器的极端自定义设置需要依赖 ModMenu 和 YetAnotherConfigLib (YACL)，包括其在抬头显示中的位置和外观（您甚至可以为指示器选择自己的纹理！）</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_bf58854a-a3ba-44a5-ad15-9b2863328f80.png\" alt=\"\"/></p>\n<p>Minecraft原版已经有一个伤害指示器（向伤害方向摇晃镜头），但它给人的困惑感大于实用性。</p>\n<p>我考虑移植到NeoForge和1.20.1，因此请勿提问。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

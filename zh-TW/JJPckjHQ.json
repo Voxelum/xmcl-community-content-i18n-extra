@@ -1,0 +1,6 @@
+{
+  "bodyHash": "63234c9edf1df604",
+  "content": "# MinableAtmOres\n[https://github.com/ton185/MinableAtmOres](https://github.com/ton185/MinableAtmOres)\n\n允許採石場和虛假玩家採挖所有Modium礦石\n\n## 什麼是？\nAllTheModium disables the ability for fake players to mine their ores (which means quarries and FTB UltiMine don't work on it). This mod brings that ability back.\n\n注意：他們註冊的方塊硬度為 -1。這意味著它在技術上是不可破壞的，但它們處理了一些事件來修復玩家的問題。要使機器對此生效，我不得不將硬度設置為不同的值（如果你想知道的話是 100）。\n\n## 如何？\nMixins\n\n# 如果你想讓我把這個mod移植到另一個Forge/NeoForge版本，請在github上開一個issue",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

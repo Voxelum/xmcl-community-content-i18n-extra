@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ee40e4e70e1925fa",
+  "content": "This mod uses the Custom Portal API to allow the user to configure custom portals to existing dimensions using existing blocks and items.\n\nThis is an example of the config to make a portal to the nether, that has stone as the frame, and a diamond as the igniter:\n\n```\n{\n  \"isFlat\": false,\n  \"frameBlock\": \"minecraft:stone\",\n  \"isFluidIgniter\": false,\n  \"itemIgniter\": \"minecraft:diamond\",\n  \"dimension\": \"minecraft:the_nether\",\n  \"r\": 200,\n  \"g\": 50,\n  \"b\": 50\n}\n```\n\n## 選項\n\n***isFlat:*** 決定你想建立地獄般的傳送門或是終末之地的傳送門\n\n***frameBlock:*** 指定用來建構傳送門的方塊。請勿為多個傳送門使用相同方塊\n\n***isFluidIgniter:*** 決定你是要用物品點燃傳送門還是液體(如熔岩、水等)\n\n***itemIgniter:*** 如果 `isFluidIgniter` 為 false 則選用這個物品點燃傳送門\n\n***fluidIgniter:*** 如果 `isFluidIgniter` 為 true 則選用這個液體點燃傳送門\n\n***dimension:*** 傳送門要連接至的維度ID\n\n***r、g 和 b:*** 傳送門顏色的RGB值\n\n***請注意：在 Forge 上需要安裝 AzureDoomC 的 Custom Portal API Reforged 模組作為必要依賴***",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

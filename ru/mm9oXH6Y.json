@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33d5a458f8fa9475",
+  "content": "**Этот мод отображает ваши очки опыта прямо на экране.**\n## Моды команды\n- `/exp menu` - показать меню\n- `/exp off` - скрывает счетчик XP на экране\n- `/exp on` - показывает счетчик XP на экране\n- `/exp reset` - сбрасывает позицию счетчика XP к `default`\n## Функционал меню\n- Возможность перетаскивать счетчик XP с помощью мыши.<br>\n- Возможность пересчитывать очки опыта в уровни и наоборот.<br>\n- Кнопка `\"XP\"` позволяет `включить/выключить` текстовые поля для конвертации опыта.\n- mogelijkheid изменения цвета счетчика XP с помощью палитры.\n- Кнопка палитры позволяет `включить/выключить` отображение палитры.\n## GitHub\n<a href=\"https://github.com/KurguzMe/ExpView\"><img width=\"125\" height=\"125\" alt=\"GitHub\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/250px-GitHub_Invertocat_Logo.svg.png\" /></a>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

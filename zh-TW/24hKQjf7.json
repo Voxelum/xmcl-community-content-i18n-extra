@@ -1,0 +1,6 @@
+{
+  "bodyHash": "338170b90d18bd01",
+  "content": "## 維度追蹤器\n\n伺服器端的 Fabric 和 NeoForge 插件，根據玩家所在的維度來修改暱稱顏色。\n\n兼容 VT AFK Display、[Sessility](https://modrinth.com/mod/sessility) 插件和 [Text Placeholder API](https://modrinth.com/mod/placeholder-api)。\n\n此插件使用原版計分板團隊功能為暱稱添加顏色，並提供可選的占位符 [Fabric 專用]。\n\n## 自定義\n默認設置下：\n- 綠色 = 主世界\n- 紅色 = 地獄\n- 紫色 = 終末界\n\n配置文件位於 `config/DimensionalTracker.properties` 文件內。\n\n#### 團隊配置\n如果您不希望被檢測到，只需加入其他隊伍即可。\n您可通過使用標準 Minecraft [`/team` 命令](https://minecraft.wiki/w/Commands/team) 修改隊伍顏色，添加前綴或後綴。\n如需增加對非原版維度的支持，請創建一個名為 `dimTracker.<dimension_name>` 的隊伍。\n\n#### 占位符配置（Fabric 專用）\n維度追蹤器提供三個占位符：\n- `%dimensional-tracker:dimension_color%`: 玩家所在維度的顏色\n- `%dimensional-tracker:dimension_name%`: 玩家所在維度的名稱\n- `%dimensional-tracker:dimension_id%`: 玩家所在維度的 ID\n\n您可以在配置文件中設置這些占位符。\n\n## 為何選擇此插件而非數據包？  \n由於數據包機制，它需要每幀檢測一次維度。單人遊戲中問題不大，但在服務器上會導致延遲。測試顯示，在10名玩家時，可能佔用達30%的 MSPT 時間：  \n![img.png](https://raw.githubusercontent.com/NikitaCartes/DimensionalTracker/master/datapack.webp)\n\n## Immersive Portals 中使用插件的效果示例\n![Example](https://raw.githubusercontent.com/NikitaCartes/DimensionalTracker/master/image.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

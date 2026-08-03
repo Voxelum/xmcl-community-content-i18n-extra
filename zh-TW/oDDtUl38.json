@@ -1,0 +1,6 @@
+{
+  "bodyHash": "838118a7fcef24d5",
+  "content": "# 鴨子盔甲\n\n為你的羽毛朋友們裝備冒險吧！\n\n**Duck Armor** 是 **Untitled Duck Mod** 的一個輕量級擴充套件，讓你可以給鴨子和鵝裝備盔甲，提供額外的保護，同時保持模組的簡潔和與原版友好。\n\n使用 **Architectury** 開發，Duck Armor 支援 **Forge** 和 **Fabric** 在 **Minecraft 1.20–1.21.1** 版本上，非常容易添加到幾乎任何整合包中。\n\n## 功能\n\n- 為鴨子裝備盔甲。\n- 為鵝裝備盔甲。\n- 兼容 **Minecraft 1.20.x–1.21.1**。\n\n## 要求\n\n- Untitled Duck Mod\n- Architectury API（用於你的模組載入器）\n- Geckolib\n\n## 兼容性\n\n| Minecraft 版本 | 支援       |\n|----------------|------------|\n| 1.20.x         | ✅          |\n| 1.21.x         | ✅（至1.21.1） |\n\n保護你的 flock，讓你的鴨子以酷炫的姿態步入戰場！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

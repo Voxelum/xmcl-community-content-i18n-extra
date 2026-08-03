@@ -1,0 +1,6 @@
+{
+  "bodyHash": "76846cf62f32fd07",
+  "content": "[SBW] Colorized 是 SuperbWarfare 的一个模组，允许玩家使用喷漆重新着色车辆。\n\n自定义车辆颜色\n车辆可分配自定义 RGB 颜色，使视觉效果超出默认纹理的个性化范围。\n\n基于 RGB 的色彩系统\n\n- 精确控制颜色\n- 支持完整的 RGB 色域\n- 兼容着色器\n\n生存友好型进度设置\n色彩定制在生存模式中完全可用：\n\n- 所有物品均可制作\n- 砂纸可用于去除颜色\n- 无需创造模式专属机制\n\n基于命令的自定义颜色\n喷漆罐通过 NBT 支持自定义颜色：\n\n/give @p colorized:spray_can{ColorizedColor:\"0xFF0000\"} \n\n轻量且安全\n开销极小，无沉重 Tick 操作，安全添加或移除至现有世界。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "efd92224ec3f4b99",
+  "content": "在創意模式的庫存中新增幾個製作選單，每個選單的設計都能讓你在創造模式下輕鬆使用。也新增了* 一個 2x2 製作格到創造模式生存庫存中\n\n<sub>*它原本就在遊戲中，只是移動了2000像素向上並向左偏移，哈哈。這個mod只是把它移回原位。</sub>\n\n<hr>\n<h3>製作選單</h3>\n\n| Image | Description |\n| :---: | :--- |\n![Anvil menu](https://cdn.modrinth.com/data/cached_images/954154ef920604be500ea870dcadb4d399510c42.png) | **鐵砧** <br><br> 包含兩個頁面。其中一個可以輕鬆編輯物品名稱與 lore，使用< a href= \"https://modrinth.com/mod/placeholder-api\" > placeholder API</a>進行文字格式化。<br><br>另一個允許添加、刪除和修改附魔。 |\n| ![Crafting menu](https://cdn.modrinth.com/data/cached_images/619bdb3afae515f13ce0fc2717d619688dc6bedb.png) | **製作** <br><br> 基本的 3x3 製作格子。在服务端时加载原版配方。 |\n| ![Loom menu](https://cdn.modrinth.com/data/cached_images/69e7c5694521fdcdaaa5f9364d3d5ec6a0e6b096.png) | **織布機** <br><br> 標旗编辑套件。您可以輕鬆地创建、修改和保存旗帜。内建多种旗帜预设图案，满足您所有的旗帜学需求！ |\n| ![Smithing menu](https://cdn.modrinth.com/data/cached_images/70653d0838566f57a78bac19d891586ce1ab38b8.png) | **鍛造** <br><br> 在此自定义装备！分别有刻纹图案、刻纹材料和物品材料页面。 |\n\n<hr>\n\n所有内容均可通过[YACL](https://modrinth.com/mod/yacl)在游戏内配置。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d015508a0a23ea3c",
+  "content": "### 概述\n\n这是一个为我的发光矿石资源包提供的附加组件，该资源包支持超过250个模组。此资源包添加了对Fusion的支持，使得您可以将此资源包用于更多的Minecraft版本。\n\n## 发光矿石终极版：\n\n查看此资源包的模组版本，它仅加载您已安装模组所需的资产，从而大幅减少加载时间。它还包含一个游戏内配置，可以调整亮度或禁用单独的矿石，并且不需要任何第三方发光模组。\n\n- [https://modrinth.com/mod/glowing-emissive-ores-definitive-edition](https://modrinth.com/mod/glowing-emissive-ores-definitive-edition)\n\n### ⚠️ 重要\n\n请确保在资源包界面上“GEO - Fusion”位于“GEO”之上。\n\n如果您正在与[BetterEnd](https://modrinth.com/mod/betterend)一起使用，两个矿石需要在启用“发光矿石”后重新加载游戏以使用发光纹理（Better End Potato Edition不存在此问题）。\n\n### 需求:\n\n\n- [发光矿石](https://modrinth.com/resourcepack/glowing-emissive-ores)\n- [Fusion (连接纹理)](https://modrinth.com/mod/fusion-connected-textures)\n\n无需阅读“发光矿石”的需求说明，只需满足上述要求即可。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

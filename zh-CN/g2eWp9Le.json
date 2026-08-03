@@ -1,0 +1,6 @@
+{
+  "bodyHash": "23f45e8f1b8bb6f0",
+  "content": "该模组添加了一个可自定义的组队对战模式，支持自动武器分配和职业系统。\n\n单人游戏/LAN 游戏同样适用。\n\n语言：EN/RU\n\n!该模组可以同时安装在客户端和服务器上！!\n\n已在 SBW 0.8.8 版本测试通过！!\n\n!支持与 Simple Voice Chat 自动集成（玩家会自动分组）！!\n\n管理员指令（OP）：\n\n    /arma setspawn blue/red — 设置蓝/红队伍起点（比赛开始前）。\n\n    /arma start/stop — 开始或结束当前回合。\n\n    /arma massacre — 开启50/50模式（禁止使用消音器，适用于夜间战斗）。\n\n    /arma attachments — 列出SBW H菜单中禁用的配件。\n\n    /arma allow/disallow <枪管、瞄具、握把、枪托、弹夹> — 手动禁用特定模组配件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

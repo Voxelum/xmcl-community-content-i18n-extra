@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d6ff18c3e8407d58",
+  "content": "<p style=\"text-align:center\"><strong>GCore 是我未來所有模組的必需核心庫。</strong></p>\n<p style=\"text-align:center\"><strong>它加入了一套共通設定系統，方便我的其他模組調用設置與配置。GCore的主要功能是提供遊戲內設定選單，只需按鍵O即可開啟，讓玩家無需手動編輯設定檔即可調整參數。</strong></p>\n<p style=\"text-align:center\"><strong>GCore本身不會增加任何新物品、方塊或生存玩法。它的核心目的是作為模組底層依賴，使設定更便利，並為玩家及整合包製作者提供更高效的管理體驗。</strong></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

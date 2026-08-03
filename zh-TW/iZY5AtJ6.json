@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b60a84ecfb1ceddb",
+  "content": "# 維度Spawn\n\n## 概述\nDimensionSpawn 是一款輕量級的 Minecraft 插件，旨在玩家首次生成和重生時，將他們傳送到指定維度的自定義坐標。非常適合用於模組服務器、冒險地圖和自定義生存世界！\n\n## 功能\n- **首次生成傳送：** 玩家初次加入服務器時，自動傳送到您選定維度中的預設坐標。\n- **重生處理：** 玩家在配置的坐標重生，保持遊戲沉浸感和獨特的生成機制。\n- **多維度支持：** 完全兼容主世界、下界、終界和自定義模組化維度。\n- **簡單配置：** 通過一個簡單的配置文件，輕鬆修改生成坐標和維度。\n\n## 安裝\n1. 下載 DimensionSpawn 的最新版本。\n2. 將 `.jar` 文件放入您的 `mods` 文件夹。\n3. 啟動您的 Minecraft 服務器/客戶端。\n4. 在生成的 `dimensionspawn.toml` 文件中配置您的生成坐標。\n\n## 配置示例\n```toml\n# 歡迎來到 DimensionSpawn 配置文件。\n# 您可以在這裡設置維度和玩家生成與重生的坐標。\n[General]\n\t# 在此處可以啟用或禁用安全出生點的用法。\n\tsafeSpawn = true\n\t# 在此設置安全生成搜索的範圍。\n\t# 默認：100\n\t# 範圍：0 ~ 10000\n\tsafeSpawnRange = 250\n\n[Dimension]\n\t# 在此處可以啟用或禁用維度的用法。\n\tuseDimension = true\n\t# 在此可以定義生成默認維度的語法：modid:world_id。您可以使用 '/execute in' 自動完成功能來查看可用維度列表。\n\tdimension = \"minecraft:the_nether\"\n\n[Coordinates]\n\t# 在此處可以啟用或禁用坐標的用法。\n\tuseCoordinates = true\n\t# 範圍：-1.7976931348623157E308 ~ 1.7976931348623157E308\n\tx = 3427.0\n\t# 範圍：-1.7976931348623157E308 ~ 1.7976931348623157E308\n\ty = 60.0\n\t# 範圍：-1.7976931348623157E308 ~ 1.7976931348623157E308\n\tz = -235.0\n\t# 範圍：-180.0 ~ 180.0\n\tyaw = 35.0\n\t# 範圍：-90.0 ~ 90.0\n\tpitch = 23.0\n```\n\n## 兼容性\n與大多數維度和傳插件友好協作。\n\n## 支持\n如有問題、功能請求或需要幫助，請訪問我們的 GitHub 倉庫或在下方留言。\n\n祝您傳輸愉快！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

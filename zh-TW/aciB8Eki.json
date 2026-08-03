@@ -1,0 +1,6 @@
+{
+  "bodyHash": "29a730f199045f11",
+  "content": "## 描述\n\n此数据包/模组会在玩家死亡后立即在屏幕上显示坐标，以便玩家可以找回被盗物品或位置。如果需要聊天中的坐标，您可以使用以下命令：\n\n```\n/trigger bizcub.death_coords.trigger1\n```\n\n操作原理请看视频\n\n![预览](https://i.postimg.cc/Kvh5fKDD/2025-01-10-15-32-00.gif)\n\n## 依赖项\n- Fabric 加载器需要 [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

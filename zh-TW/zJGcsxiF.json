@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ba5058ff3ab4fb32",
+  "content": "**PingHUD 是一款輕量且可自訂的 Minecraft 外掛，能即時顯示你目前伺服器的延遲。你可以將其調整到螢幕上的任何位置，選擇純文字或括號 [88] 樣式，並開啟/關閉它。對效能影響極小，與其他 HUD 外掛相容，並設計為乾淨、簡潔的顯示方式。**\n\n# 功能：\n\n- 即時延遲顯示。\n\n- 可自訂位置：左上角、右上角、左下角、右下角等。\n\n- 可選括號 [88] 樣式顯示。\n\n- 輕量且對效能友好。\n\n- 使用鍵綁（預設：K）切換開關。\n\n# 安裝：\n\n- 為你的 Minecraft 版本安裝 Fabric Loader。\n\n- 下載 PingHUD .jar 檔案。\n\n- 將 .jar 放入 mods 資料夾。\n\n- 用 Fabric 啟動 Minecraft。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

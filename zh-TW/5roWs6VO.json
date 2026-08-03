@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c72f6889330bbcef",
+  "content": "# 基岩\n\nMinecraft mod (for FabricMC)。\n\n需要 Sodium。\n\n通過移除基岩的隱形面來進行優化。\n對玩家而言，這些面僅在必要時可見（將刪除普通世界中的底層多邊形，以及地獄世界的底層和頂層）。\n\n---\n\n該旨在提升低端硬件玩家遊戲體驗。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5b968dfbb255fdc0",
+  "content": "## 🧨 TNTItem\n![枯葉層彈藥庫](https://cdn.modrinth.com/data/cached_images/c6f1307f6557f0a60f7dce6e629a48e59f2da54e.png)\n\n**本簡易資料包會在破壞方塊或將其變成 TNT 時生成物品。**\n\n這使得該資料包非常適合用於挑戰，或是為世界帶來混亂。\n\n## 📚 如何安裝\n### 👤 單人遊戲\n將下載的 .zip 文件拖入 ```\"\\\\.minecraft\\saves\\YOURWORLD\\\\datapacks\"``` 資料夾。\n然後進入你的世界。可以使用 `/datapack list` 檢查資料包是否已啟用。\n### 👥 多人遊戲（伺服器）\n將下載的 .zip 文件拖入預設 \"world\" 資料夾中的 datapack 資料夾。\n然後加入你的伺服器。可以使用 `/datapack list` 檢查資料包是否已啟用。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

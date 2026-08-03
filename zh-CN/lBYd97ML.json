@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd9b4709143ca380",
+  "content": "## AStages-Curios 模组插件\n\n此模组为 **[AStages](https://www.curseforge.com/minecraft/mc-mods/astages)** 和 **[Curios](https://www.curseforge.com/minecraft/mc-mods/curios)** 提供了整合功能。  \n它允许模组包制作者根据玩家已获得的阶段来 **锁定或解锁 Curios 装备槽位**。\n\n### 功能特性\n\n*   除非玩家拥有特定阶段，否则禁止其装备 Curios。\n*   与 AStages 和 Curios 无缝集成。\n*   适用于基于进度的模组包。\n\n> 需要同时安装 AStages 和 Curios。\n\n### 自定义设置\n\n请参阅 **[Wiki](https://github.com/Alessandro-Casale/AStages/wiki)** 以获取使用示例和自定义选项！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

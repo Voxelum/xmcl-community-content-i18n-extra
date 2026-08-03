@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b1700534beb26f08",
+  "content": "<center>\n  \n![Numismatic Overhaul 横幅](https://cdn.modrinth.com/data/cached_images/32c3dc47d6c2776fc2c06a854bcff1cee23d511c.png)\n\n</center>\n\n​Numismatic Overhaul 为 Minecraft 添加了一个货币系统，与 Terraria 的实现方式颇为相似。你有一个背包中的钱包——它保存着你的财富，这些财富可以通过击杀掠夺者、探索世界及其古老遗迹，当然还有与村民交易来获得。\n\n<center>\n\n![村民交易界面，购买物品有折扣，且背包界面中显示了钱包覆盖层](https://cdn.modrinth.com/data/cached_images/c529a830c12266ce1129eaa56953379171e66576.png)\n\n</center>\n\n说到村民，它们也经过了全面重构。首先，它们显然使用 Currency（货币）来替代 Emeralds（绿宝石）。不过它们的交易也进行了重新平衡和调整，以提供更有趣的交易体验。\n\n\n<center>\n  \n![商店界面，显示交易的设置](https://cdn.modrinth.com/data/cached_images/206d9b2c1ef5ae88167837ff53b3186c08256f8d.png)\n\n</center>\n\n最后一个功能是**商店**，这是玩家间交易物品的简便方式。打开时，会显示一个包含所有者可配置交易的村民 GUI。当有人购买商品时，款项将存入其中，可由所有者提取。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

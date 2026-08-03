@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a4d9ef818905b0f0",
+  "content": "這個模組新增了一個命令 /cleanup，用於清理記憶體。\n這個模組最初是為了清理 SMP 伺服器上的記憶體而開發的，但我可能會為它增加額外的功能。此命令需要 OP 執行者身份才能使用。\n\n# 它是如何運作的？\n/cleanup 指令會呼叫 Java 的 GC 系統來釋放一些記憶體。\n\n# 未來計劃（不保證）\n1. 自動 GC 呼叫。\n2. 配置系統。\n3. 其他版本和平台。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,6 +1,6 @@
 {
-  "bodyHash": "EhyNL6lELhY=",
-  "content": "<p>這個模組可以定期呼叫 System.gc() 來清理您的記憶體。</p><p>它還新增了 /memorysweep_c 和 /memorysweep_s 指令，可手動清理記憶體。</p><p>預設的記憶體清理時間間隔為 15 分鐘，您可以在設定檔中修改此數值。</p><p>也可以根據記憶體使用率來觸發清理。（預設為 75%）</p><p>如果在垃圾回收期間出現延遲，請加入 JVM 參數 <strong>-XX:+ExplicitGCInvokesConcurren</strong>t</p><p>當然，我也推薦嘗試使用 Java 11 新增的 ZGC，它不需要上述參數：</p><p><strong>-XX:+UnlockExperimentalVMOptions -XX:+UseZGC</strong></p><p>請不要將 ZGC 與任何其他 GC 同時使用，也不要加入 <strong>-UseAdaptiveSizePolicy</strong></p><p>&nbsp;</p><p>&nbsp;如果您有任何建議，可以留言或至 <a href=\"https://github.com/Tki-sor/MemorySweep/issues\" target=\"_blank\" rel=\"nofollow\">Issues</a><a href=\"https://github.com/Tki-sor/Upd8r/issues\" target=\"_blank\" rel=\"nofollow\">。</a></p>",
+  "bodyHash": "e4935a9e0023d10c",
+  "content": "<p>此mod會定期呼叫 System.gc() 以清理您的記憶體。</p>\n<p>它還添加了 /memorysweep_c 和 /memorysweep_s 命令以手動清理記憶體。</p>\n<p>清理記憶體的預設時間間隔為 15 分鐘，您可以在配置文件中修改它。</p>\n<p>也可以根據記憶體使用情況清理記憶體。（預設 75%）</p>\n<p>如果在垃圾回收期間有延遲，請添加 JVM 參數 <strong>-XX:+ExplicitGCInvokesConcurren</strong>t</p>\n<p>當然，我還建議嘗試 ZGC，這是 Java 11 中新添加的，不需要上面提到的參數：</p>\n<p><strong>-XX:+UnlockExperimentalVMOptions -XX:+UseZGC</strong></p>\n<p>請勿與 ZGC 同時使用任何其他的 GC，也不要添加 <strong>-UseAdaptiveSizePolicy</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;如果您有任何建議，您可以留言或&nbsp;<a href=\"https://github.com/Tki-sor/MemorySweep/issues\" target=\"_blank\" rel=\"nofollow\">Issues</a><a href=\"https://github.com/Tki-sor/Upd8r/issues\" target=\"_blank\" rel=\"nofollow\">。</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

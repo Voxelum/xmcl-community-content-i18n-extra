@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d64a1b9d4de1fe63",
+  "content": "# 护甲伤害指示器\n\n一种简单的平面式护甲伤害指示器，类似于战术游戏\n\n## 配色方案\n<div align=\"center\">\n    <img src=\"https://github.com/CaioFTNT/Armor-Damage-Indicator/raw/main/assets/GYR.png?raw=true\" alt=\"绿黄红\" height=\"150\">\n    <img src=\"https://github.com/CaioFTNT/Armor-Damage-Indicator/raw/main/assets/WR.png?raw=true\" alt=\"白红\" height=\"150\">\n    <img src=\"https://github.com/CaioFTNT/Armor-Damage-Indicator/raw/main/assets/TR.png?raw=true\" alt=\"透明红\" height=\"150\">\n</div>\n\n## 功能特性\n- 在HUD上显示当前护甲耐久度\n- 多种配色方案（绿黄红、绿红、白红、透明红）\n- 简约扁平风格，灵感来源于PZ和Escape from Tarkov等战术游戏\n- 可自定义位置、大小和不透明度\n\n## 截图\n<div align=\"center\">\n    <img src=\"https://github.com/CaioFTNT/Armor-Damage-Indicator/raw/main/assets/Screenshot1.png?raw=true\" alt=\"ss1\">\n</div>\n<div align=\"center\">\n    <img src=\"https://github.com/CaioFTNT/Armor-Damage-Indicator/raw/main/assets/Screenshot2.png?raw=true\" alt=\"ss2\">\n</div>\n<div align=\"center\">\n    <img src=\"https://github.com/CaioFTNT/Armor-Damage-Indicator/raw/main/assets/Screenshot3.png?raw=true\" alt=\"ss3\">\n</div>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

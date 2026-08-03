@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ff20a347f781327a",
+  "content": "# 更快的操作！\n此模組目前加入了2個實用功能：\n## 種子與鏟子的冷卻時間移除\n這在處理大面積土地時特別有用，因為不會有間斷時間\n![無冷卻時間的鏟子與種子](https://github.com/cakeGit/Better-Farming-Right-Click/blob/main/img/Faster%20Hoe%20and%20Seed%20Demo.gif?raw=true)\n## 右鍵收割\n很簡單，直接用右鍵點選對應種子的作物即可收割\n![右鍵收割功能](https://github.com/cakeGit/Better-Farming-Right-Click/blob/main/img/Quick%20Farm%20Demo.gif?raw=true)\n\n注意這是一個僅用於客戶端端的模組，可以在沒有安裝此模組的伺服器上運行，但請確認使用這類改變輸入方式（超出正常操作範圍）的實用模組是被允許的。\n\nP.S. 如需移植到 ModLoader 或特定 Minecraft 版本，歡迎在 Git 上提出請求。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

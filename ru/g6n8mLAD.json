@@ -1,0 +1,6 @@
+{
+  "bodyHash": "77df06a88d5bb852",
+  "content": "# Монеты Заката\nЭтот мод добавляет три монеты в игру. Эти монеты не могут быть изготовлены, и也沒有 они падают от мобов.\n\n## Как их получить?\nИх можно получить из режима творчества в разделе инструментов или с помощью команд:\n\n**/give @a monedas_ocaso:moneda_oro**\n\n**/give @a monedas_ocaso:moneda_plata**\n\n**/give  @a monedas_ocaso:moneda_bronce**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

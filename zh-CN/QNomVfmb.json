@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2828000722cd0513",
+  "content": "FO18是一款受《战地1》启发的、面向《我的世界》的大型第一次世界大战模组。  \n该模组包含 **90多种武器、超过15辆坦克、制服、手榴弹、近战武器** 等更多将通过大型内容更新持续扩展的历史内容。\n\n## **所需依赖库**\n\n此模组需要：\n\n[GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)\n\n[playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator)\n\n# 武器:  \n\n本项目提供来自《战地1》的 **90多种武器**，以及各种第一次世界大战时期的实验性武器。  \n步枪、手枪、机枪、霰枪、副武器和近战武器均属于该武器的全部阵容。  \n所有武器都遵循直观的操作：\n\n- 右键射击\n- R装弹（注意：当你首次从背包中取出武器并装弹时，右键也会触发装弹，之后即可使用R键装弹）\n- 部分武器支持近战刺刀攻击\n\n所有武器均可合成。  \n每种武器均由独立部件组成。要查看所有合成配方，建议下载JEI。\n\n![SMG 08](https://cdn.modrinth.com/data/cached_images/2b3a81ab9c8b38daed467f7c25540199906153d0.jpeg)\n\n# 坦克:  \n\nFO18还包含大量第一次世界大战时期的坦克，包括一些鲜为人知和原型车辆。  \n坦克不仅仅是装饰品——它们是完全可以作战的机器。  \n坦克特性：\n- WASD移动\n- 拥有不同射击位置的武器座位\n- 数字键切换武器（例如数字1将你的镜头切换到主炮，数字2将镜头切换到左侧武器）\n- 根据你使用的座位不同，视角也会改变\n- 按住X键可以修复坦克\n- 部分坦克包含可通过0激活的独特能力\n\n![A7V](https://cdn.modrinth.com/data/cached_images/e0033b135c0d19e64d57b6caf63df309f55874fa.jpeg)\n\n# 制服:  \n\n该模组包含来自多个国家的不同历史制服，具有不同的战斗角色和特殊变体。目前，该模组只包含少数国家，但未来计划添加所有一战时期存在的国家的制服。\n\n# 方块:  \n\n该模组引入了各种第一次世界大战主题方块，用于重现一战战壕。\n\n- 多种铁丝网类型\n- 战壕围栏\n- 装饰性方块\n等等。\n\n![Trench](https://cdn.modrinth.com/data/cached_images/ab70bbab47687f57aa2f9831003175f0d319f8a5.jpeg)\n\n## \n错误报告、进度更新和更新新闻可在我的Discord上获取：\nhttps://discord.gg/6cMvYwWncV",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

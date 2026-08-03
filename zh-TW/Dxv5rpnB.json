@@ -1,0 +1,6 @@
+{
+  "bodyHash": "25a3626b084d22c3",
+  "content": "這個mod強制使用CTRL鍵來丟棄物品堆。它基本上是在丟棄物品堆時覆蓋 MacOS 的\"CMD\"鍵。(因而跳過 MacOS 的 CMD+Q 快捷方式)\n\n支援Forge(1.12.2)和Fabric(1.14到最新版本)。(Fabric版本從1.14到1.19.2是v1.8。Fabric 1.19.3+則是v1.9)\n\n*對非MacOS用戶來說，這個mod幾乎無用。抱歉！\n\n(是的，這個mod仍舊被支持，只是不需要更新！)\n\n## 自從[25w41a, MC-22882](https://bugs.mojang.com/browse/MC/issues/MC-22882)已被修復！因此從1.21.11+開始將不再需要此mod",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

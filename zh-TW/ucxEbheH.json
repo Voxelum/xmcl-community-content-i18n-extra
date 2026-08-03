@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6e99e10d39f877c3",
+  "content": "## 始終保持物品欄\n此模組會開啟一個遊戲規則，讓你在每個世界中死亡時可以保存物品欄\n\n## 如何使用\n要使用此模組，只需安裝它。現在在創建世界時，keepInventory 遊戲規則將會始終啟用\n\n## 依賴項\n- Fabric 載入器需要 [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

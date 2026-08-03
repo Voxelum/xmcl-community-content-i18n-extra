@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1e1204ac5372eb2f",
+  "content": "修復了 [MC-220390](https://bugs.mojang.com/browse/MC/issues/MC-220390) 的一個錯誤：當你游泳時按住疾跑快捷鍵擊中一個實體，伺服器與客戶端的碰撞體積會不一致。這會導致一些奇怪的情況——客戶端認為你正在游泳，但伺服器卻不是這樣認為。例如，當你試圖在遇到此錯誤的情況下進入一個 1x1 的方塊空間時，你會卡住，直到你停止游泳並重新開始游泳。\n\n這個錯誤讓我感到非常惱火，所以我就修好了它。\n\n加入 [Discord！](https://discord.gg/p6ShJPq98d) 你可以尋求幫助、提議一個模組、閒聊或請求我撰寫的任何模組的原始碼（如果我還保有原始碼的話）。\n\n或者如果你覺得慷慨的話，可以透過我的 [Kofi](https://ko-fi.com/bikerboys) 捐款支援！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

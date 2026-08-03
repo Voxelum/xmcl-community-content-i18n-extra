@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fbd20a9cf54a3a8c",
+  "content": "# 🗑️ 隨機保留物品\n\n**Keep Random Items** 數據包/模組會在您死亡時刪除隨機物品。\n\n## ✨ 功能\n\n**當您死亡時，**Keep Random Items**會從 3 至 8 個隨意的inventory槽位中移除物品。**\n\n_数字 3–8 代表的是 inventory 槽位，而不是单个物品数量—所以选定槽位中的所有物品都会丢失。_\n\n## 📦 安装步骤\n\n1. 下载数据包 `.zip` 文件。\n2. 将其放入您世界的 `datapacks` 文件夹中。\n3. 进入游戏后使用 `/reload` 命令。\n4. 完成！移动并查看屏幕底部的坐标。\n\n## 🧱 兼容性\n\n- Minecraft Java Edition 1.21.5+\n- 无需外部资源包\n\n## 🌐 ITITAN Hosting\n[![ITITAN Hosting](https://raw.githubusercontent.com/3geETR/images/refs/heads/main/Other/ititan.png)](https://ititanhosting.com/game/minecraft)\n\n## 💬 反馈与请求\n**如有任何需求或反馈，请在我的 discord 3geetr 上留言。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

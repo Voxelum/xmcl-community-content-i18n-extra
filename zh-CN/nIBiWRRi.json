@@ -1,0 +1,6 @@
+{
+  "bodyHash": "489bb4f0aab764cd",
+  "content": "# Mahi 的无雾模式\n\n**Mahi 的无雾模式**会从你的《我的世界》世界中移除所有雾气——无需 OptiFine！\n\n## 功能\n- 移除地平线雾气、洞穴雾气、下界雾气、末地雾气、水下视域以及失明/黑暗雾气\n- 无需 OptiFine —— 与原版《我的世界》兼容\n- 通过 Sodium Core Shader Support 模组支持 Sodium\n\n## 兼容性\n- Java版 1.17 – 26.2\n- 使用 Sodium 的玩家需安装 [Sodium Core Shader Support](https://modrinth.com/mod/sodium-core-shader-support) 模组\n- OptiFine 玩家：请手动在视频设置 → 细节 → 雾气中关闭雾效\n\n## 安装\n请在文件标签页下载对应你《我的世界》版本的正确版本。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

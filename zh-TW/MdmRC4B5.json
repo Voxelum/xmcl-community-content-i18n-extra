@@ -1,6 +1,6 @@
 {
-  "bodyHash": "bK3VvxvSoA0=",
-  "content": "此函式庫旨在簡化介面的創建過程\n設計用來在 SDM 模組中取代 FTB Library\n\n## 功能特色\n- RGB/RGBA 色彩支援\n- 繪製基本圖形，例如三角形、方形、圓形\n- 簡化旋轉、縮放與渲染優先順序的互動操作\n- 在 GUI 上渲染物品、實體、~~方塊~~\n- 支援元素動畫的容器\n- 豐富的元件庫\n- 能夠在指定區域內隨機放置物件，支援隨機位置、旋轉角度與尺寸\n- 還有更多功能",
+  "bodyHash": "b343ac1546ce6fa9",
+  "content": "這個庫旨在簡化界面的創建\nDesigned to replace FTB Library in SDM mods\n\n## 特性有哪些\n- RGB/RGBA\n- 繪圖基元，如三角形、正方形、圓形\n- 簡化的交互功能，包括旋轉、縮放和渲染優先級\n- 在GUI中渲染物品、Entity、~~Blocks~~\n- 允許您動畫化元素的容器\n- 大量的部件\n- 能够在区域内随机位置、旋转和大小放置对象\n- 以及更多",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

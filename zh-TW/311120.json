@@ -1,0 +1,6 @@
+{
+  "bodyHash": "76ac5a4ce0cf0c25",
+  "content": "<p><strong>門、柵欄閥和陷阱門的組合使用</strong></p>\n<ul>\n<li>具有相對鉸鏈的雙門將一起打開</li>\n<li>垂直堆疊的柵欄閥將一起打開</li>\n<li>沿其側軸的所有陷阱門（及其相對的對應物）在將被一起打開<br>\n<ul>\n<li>任何大於7(50%)的紅石信號將為所有耦合塊供電，而小於只會為立即供電的塊供電</li>\n<li>每個耦合塊都可以在配置文件中單獨切換(<span style=\"font-family:&#x27;andale mono&#x27;, monospace\">./config/couplings.toml</span>)</li>\n</ul>\n</li>\n</ul>\n<p><strong>建議在客戶端和服務器上使用此模塊以獲得更靈活的區塊更新</strong></p>\n<p>&nbsp;</p>\n<p>你可以在我的<a style=\"color:#396\" href=\"https://discord.gg/ZFwAZaw\" rel=\"nofollow\"><strong>Discord服務器</strong></a>中找到我，並且在<a href=\"https://twitter.com/HeckinChloe\" rel=\"nofollow\"><strong>@HeckinChloe上的Twitter</strong></a>上發佈更新和信息。考慮通過<a style=\"color:#396\" href=\"/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fheckinchloe\" rel=\"nofollow\"><strong>在我的Ko-fi上購買一杯咖啡</strong></a>來幫助我的工作流程!</p>\n<p style=\"text-align:right\">&nbsp;&nbsp;<a href=\"https://twitter.com/voxel_dani\" rel=\"nofollow\"><span style=\"color:#808080\"><em><strong>標誌設計</strong></em><em>by @voxel_dani</strong></em>&nbsp;&nbsp;</span><img src=\"https://s3.amazonaws.com/phlo-app/production/cloud_files/69df6582-ec10-45a7-8fc7-872e8e4e97da?v=762dafaa6799eecd0cf1ba9d9525e252\" width=\"20\" height=\"20\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9cc967349e1ff1bb",
+  "content": "![替換為描述](https://cdn.modrinth.com/data/cached_images/67cacca7526da22408d131ccf842c946889590bd.png)\n\n**查看並管理村民隱藏的東西**。村民隱藏有一個 8 格物品欄和 4 個盔甲槽位，原版遊戲從不對開放此功能。這個模組以清爽的 GUI 開啟了它們。\n\n![替換為描述](https://cdn.modrinth.com/data/cached_images/2cfb746c03db9ae72e8c8b8aebdd331f2da95273.png)\n\n## 使用方式\n\n手持**木棍**並潛行 + 右键点击村民或流浪商人即可。\n\n## 功能\n\n*   **隱藏物品欄存取：** 檢視並編輯村民內部隱含的 8 格物品欄。\n*   **盔甲槽位：** 村民在原版中已經可以穿著盔甲（透過發射器、指令等），本模組僅提供你對這四個槽位的存取權限，讓你能自行裝備或卸下盔甲。防護機制與原版一致，且死亡時裝備的盔甲一定會掉落。\n*   **可選的盔甲渲染：** 原版遊戲不會顯示村民身上的盔甲，本模組可支援渲染，包括皮革染色、盔甲裝飾、附魔光澤以及模組添加的盔甲。純視覺效果，也可關閉。\n*   **可選的盔甲耐久損耗：** 原版僅會對玩家消耗盔甲耐久；任何非玩家實體（包含村民）所穿戴的盔甲，無論承受多少傷害都不會磨損。模組預設遵循此原版規則，故相關選項預設關閉。如果你希望村民的盔甲也能像玩家一樣隨受損而磨損（相同公式、火屬免疫不受影響、精確遵循無損附魔），請於設定檔中將 `damageVillagerArmor` 設為 true。\n\n**特別感謝**\n\n感謝 **Tristank989** 提出村民盔甲槽位的想法，成為本模組的核心功能之一。\n\n## 設定\n\n| 選項 | 默認 | 描述 |\n| :--- | :--- | :--- |\n| `<code>openItem</code>` | `<code>minecraft:stick</code>` | 用來開啟 GUI 的物品。若輸入 `<code>minecraft:air</code>` 則代表空手開啟。<br/> |\n| `<code>renderVillagerArmor</code>` | `<code>true</code>` | 客戶端控制是否顯示村民盔甲的開關。 |\n| `<code>damageVillagerArmor</code>` | `<code>false</code>` | 使盔甲會像玩家一樣磨損耐久。由於原版不會傷害怪物的裝甲，因此此項預設關閉。 |\n\n適用平台：Forge、NeoForge 以及 Fabric。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

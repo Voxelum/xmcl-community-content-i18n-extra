@@ -1,0 +1,6 @@
+{
+  "bodyHash": "53edcce170129cf7",
+  "content": "<h3><strong>描述</strong></h3>\n<p>当新的区块在标准版 Minecraft 中被加载时，它们会简单地\"瞬间出现\"，通过这个模组可以让它们从下方或上方进行动画呈现。此不会显著影响 FPS，因为它仅仅是渲染区块的\"其他位置\"。</p>\n<h3><strong>使用</strong></h3>\n<p>安装此模组后默认为模式0，所有区块将从下方出现。配置文件中有5种切换模式和动画持续时间设置。此外还可通过选项使靠近玩家的区块<strong>不</strong>参与动画。</p>\n<p>可以修改动画缓动函数（如<a href=\"/linkout?remoteUrl=http%253a%252f%252feasings.net%252fde\">此网站</a>所示更多参数），详细配置请参考<a href=\"https://github.com/Harleyoc1/ChunkAnimator/wiki/Config\">配置页面</a>。</p>\n<p>对于1.12.2及以下版本，模组支持Forge内置配置菜单，可直接在游戏中切换模式、缓动函数等选项。</p>\n<h3><strong>OptiFine支持</strong></h3>\n<p>虽然支持OptiFine，但1.14.4及以上版本需确保图形设置中的\"渲染区域\"选项已<strong>禁用</strong>才能启用区块动画效果。</p>\n<h3><strong>媒体资料</strong></h3>\n<p>由Lumien制作的老演示视频因故下架，新演示内容即将发布。</p>\n<h3><strong>授权许可</strong></h3>\n<p>本模组可用于任何整合包或服务器，推荐保持署名但无强制要求。</p>\n<h3><strong>Fabric版本</strong></h3>\n<p>存在一个名为Smooth Chunks(Fabric版)的等价模组(仅适用于1.16)，功能非常相似——请勿询问Fabric版本支持相关事宜。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

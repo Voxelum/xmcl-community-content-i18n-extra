@@ -1,6 +1,6 @@
 {
-  "bodyHash": "jG+V3kNdOeY=",
-  "content": "## 描述\n更多碰撞箱（More Hitboxes）允許模組製作者為實體添加多個碰撞箱，並可選擇性地透過GeckoLib動畫控制。\n\n## 玩家\n如果您是需要此模組作為其他模組前置的玩家，請根據您使用的Minecraft版本，下載對應的 [Forge](https://modrinth.com/mod/more-hitboxes/versions?l=forge) 或 [Fabric](https://modrinth.com/mod/more-hitboxes/versions?l=fabric) 版本。\n\n## 開發者\n以下功能可在版本1中使用：\n- 可在資料包中定義多個碰撞箱\n- 可選擇將這些碰撞箱附加至GeckoLib骨骼/動畫的支援\n- 可將碰撞箱標記為攻擊箱，用於攻擊玩家\n- 提供一個Blockbench外掛程式，輔助建立碰撞箱\n\n由於此函式庫目前僅限於作者的應用場景，版本1存在以下限制：\n1. 預設的邊界框仍用於碰撞判定\n2. 由GeckoLib觸發的移動不會同步至伺服端\n3. 因此攻擊箱僅限用戶端使用，且只對玩家有效\n\n您可以在 [GitHub](https://github.com/DarkPred/MoreHitboxes) 找到主要說明文件，並在將依存關係加入建置腳本後，於javadoc中查看其他資訊。",
+  "bodyHash": "dae6ea6f5da32b59",
+  "content": "## 描述\n更多碰撞箱允许模组作者为他们的实体添加多个碰撞箱，这些碰撞箱可以选择性地由 GeckoLib 动画控制。\n\n## 玩家\n如果您是一位需要此模组作为其他模组依赖的玩家，请下载适用于您使用的 Minecraft 版本的 [Forge](https://modrinth.com/mod/more-hitboxes/versions?l=forge) 或 [Fabric](https://modrinth.com/mod/more-hitboxes/versions?l=fabric) 版本。\n\n## 开发者\n版本 1 提供以下功能：\n- 可在数据包中定义的多个碰撞箱\n- 可选支持将这些碰撞箱附加到 GeckoLib 骨骼/动画上\n- 可将碰撞箱标记为攻击框，用于击打玩家\n- 一个 Blockbench 插件，帮助创建碰撞箱\n\n由于该库目前仅限于我的使用场景，版本 1 中存在一些限制：\n1. 默认边界框仍用于碰撞\n2. 由 GeckoLib 触发的移动未同步到服务器\n3. 因此，攻击框仅限于客户端，仅对玩家有效\n\n您可以在 [GitHub](https://github.com/DarkPred/MoreHitboxes) 上找到主文档，也可以在将依赖项添加到构建脚本后在 javadoc 中找到更多信息。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

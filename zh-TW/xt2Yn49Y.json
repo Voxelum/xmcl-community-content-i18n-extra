@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1f8367f389bd10bc",
+  "content": "![環境: 客户端](https://img.shields.io/badge/environment-client-blue)\n![Minecraft: 1.21.2](https://img.shields.io/badge/minecraft-1.21.2-blue)\n![載入器: Fabric](https://img.shields.io/badge/loader-fabric-yellow)\n## 概述\n一個實用功能模組，會在加入伺服器時，自動傳送配置檔案中所指定的聊天訊息。是的，就這麼多，沒有其他內容。\n\n## 依賴\n需要 [YetAnotherConfigLib](https://modrinth.com/mod/yacl)。支援 [ModMenu](https://modrinth.com/mod/modmenu)，但不是執行此模組的必需品。\n\n## 潛在使用情境\n此模組創作者因為厭倦了在每次重新連接伺服器時，都需要手動設定那些無法跨會話保留的選項（例如 McMMO 的能指令）而開發此模組。該模組也可用於自動問候語、登入需要驗證的伺服器等等。不過請注意不要傳送過多訊息！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

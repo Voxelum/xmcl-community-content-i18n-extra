@@ -1,0 +1,6 @@
+{
+  "bodyHash": "64652e1220eabbba",
+  "content": "<p>Преобразование из формата optifine/mcpatcher в другие форматы (например, fabricskyboxes)<br>\nСамо преобразование выполняется через JNI, чтобы работать нативно на машине, а не в JVM. Это должно сделать его быстрее, чем чистый java-конвертер.</p>\n<p>Для получения дополнительной информации ознакомьтесь с <a href=\"https://github.com/supsm/MCPPPP/blob/master/README.md\" rel=\"nofollow\">README</a><br>\nЭта страница предназначена для версии мода MCPPPP, если вы ищете автономный конвертер, доступный на <a href=\"https://github.com/supsm/MCPPPP/releases\" rel=\"nofollow\">github</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

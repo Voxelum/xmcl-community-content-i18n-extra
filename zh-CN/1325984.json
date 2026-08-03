@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ee6b5219ce907ed3",
+  "content": "<h2>简介</h2>\n<p>NoPackCompatCheck <strong>禁用资源包选择界面中的兼容性警告</strong>, 使界面更加整洁.</p>\n<p>安装此模组后, Minecraft 将不再显示资源包版本不兼容的警告🤗.</p>\n<p><img src=\"https://s2.loli.net/2025/08/12/2vLcHTbfo5gqa8m.png\" alt=\"after.png\"></p>\n<h2>为什么要制作这个模组?</h2>\n<p>自从 Minecraft 1.20 以来, Mojang 开始频繁更新资源包格式版本. 从 Minecraft 1.6.1 到 1.19.4, 格式版本号仅从 <code>1</code> 增加到 <code>13</code>, 而到 1.21.8 时已飙升至 <code>64</code> 🤣🤣🤣. <strong>这种快速的&ldquo;版本号更新&rdquo>导致许多资源包的 <code>pack.mcmeta</code> 文件中声明的支持版本未及时更新, 尽管它们在事实上与较新的 Minecraft 版本兼容.</strong> 因此玩家经常在资源包界面上看到满屏的 &ldquo;不兼容&rdquo>警告.</p>\n<p><strong><em>安装此模组前</em></strong></p>\n<p><img src=\"https://s2.loli.net/2025/08/12/Wh6cv1kyM2dFlQ8.png\" alt=\"before\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

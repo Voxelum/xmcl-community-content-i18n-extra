@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cbd27103a26eb4ae",
+  "content": "<p>AoA 核心是一個小型模組，修復一些 mixin 項目、性能問題以及可能會發生的崩潰。</p>\n<p>目前，此模組修復：</p>\n<p>- create 6.0.10 碰撞崩潰</p>\n<p>- Alex's Mobs FFAF 復活節彩蛋崩潰</p>\n<p>- ModernFix 在某些模組上動態資源配置的崩潰</p>\n<p><strong>版權：</strong>所有權利保留。</p>\n<p><strong>範圍：</strong>專為 Ascension of Ages 模包設計。不適用於通用重用途。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

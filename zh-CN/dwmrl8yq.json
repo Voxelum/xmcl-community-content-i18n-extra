@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bc2a369ab637b395",
+  "content": "**此模组解决了全屏独占分辨率设置中极其令人恼火的bug，尤其是与 Sodium 一起使用时。**\n\n在不使用此模组的情况下，如果在 MacOS 设备上退出并重新进入全屏模式（F11），自定义分辨率会重置到极高的视网膜分辨率，从而大幅降低帧率且不尊重用户设置，除非您手动进入设置再次更改。\n\n此模组完全修复了此问题。无论是在打开游戏或使用 F11 进入全屏后，此模组都会确保自定义分辨率始终被使用和应用。\n\nEnjoy :]\n<div>&nbsp;<hr></div>\n\n<div><p><strong><span style=\"color:#169179\">如果希望支持我并捐赠少量金额，请考虑一次性 Patreon 捐助（无订阅或会员）</span><br><span style=\"color:#169179\"><a style=\"color:#169179\" href=\"https://www.patreon.com/cw/AreedElahi\" target=\"_blank\" rel=\"nofollow\">加入我的 Patreon</a></span></strong></p><p><strong>加入 Discord 以获取帮助和聊天：</strong></p><p><a href=\"https://discord.gg/HVuWXt7BMJ\" target=\"_blank\" rel=\"nofollow\">Areed's Discord Server</a></p></div>\n\n***",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

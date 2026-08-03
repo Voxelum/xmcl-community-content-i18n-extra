@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2de5fb3750764d5",
+  "content": "這是對於模組 _**Create: Dreams & Desires**_ 的附加元件，修復了鑽孔方塊碰撞框的問題，因為 Sable 使 Create 構件具有碰撞框。它實際上只改變了一行程式碼。這是一個**附加元件**，因此您也需要安裝 _**Create: Dreams & Desires**_。\n\n此模組是為使用挖掘機器（例如由 _Reliantshell_ 製造的 **Bagger 211**）而製作的。以下是相關影片：\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/zqJ5zkbMh8I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fca01613154e8372",
+  "content": "# 這個模组是什麼？\n在 1.21.5 版本中，Mojang 修復了一個長久存在的 [錯誤](https://bugs.mojang.com/browse/MC/issues/MC-255756)：僅盾牌持盾者能聽到盾牌格擋和破壞音效。本模组將此修復帶回先前的 Minecraft 版本。\n# 安裝方法\n- 下載符合你模组載入器的版本。\n- 將 jar 檔案置於你的 .minecraft/mods 資料夾中。\n- 如果你使用 Fabric 載入器，請同時啟動 Fabric API。\n\n__注意：這個模组在伺服器端註冊事件監聽器。因此，如果伺服器已安裝此模组，則客户端無需安裝__",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

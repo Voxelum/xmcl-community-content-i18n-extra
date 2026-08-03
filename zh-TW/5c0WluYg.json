@@ -1,0 +1,6 @@
+{
+  "bodyHash": "87e8608c5b84868f",
+  "content": "## 如何使用\n要獲得筆記本，需要執行以下命令。\n\n```\n/trigger bizcub.deathnote\n```\n或者\n```\n/function deathnote:deathnote\n```\n要使其正常工作，您需要打開筆記本、精確填寫名字並點擊完成。此後立即會發生兇案。\n\n## 製作\n製作死亡筆記本需8個墨囊和一本帶羽毛筆的書。(1.20.5+)\n\n![預覽](https://cdn.modrinth.com/data/5c0WluYg/images/60927f8bf9f6c0a914b8d622ea7236d334b7d741.png)\n\n## 依賴項\n- Fabric加載器需要[Fabric API](https://modrinth.com/mod/fabric-api)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

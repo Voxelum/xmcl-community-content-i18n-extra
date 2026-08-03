@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a02d3c56416c53fa",
+  "content": "# 火炬发射器模组\n\n这是一个引入“火炬发射器”工具的模组，可以发射火炬并将其放置在远处。<br>\n1.17 之后新增的崎岖地形和广阔洞穴的堵漏任务将变得非常容易！\n\n## 火炬发射器 Torch Launcher\n\n- 像弓一样按住可调节飞行距离。\n- 默认使用“火炬”和“灵魂火炬”作为投射物，但可以通过设置添加或移除可发射的物品。\n- 如果着陆点无法放置（如天花板、树叶方块、非实体方块等），它会掉落为物品。目前它会穿过生物而不造成伤害（未来可能会改为点燃生物）。\n- 也可以附加“耐久度”和“修补”附魔（类似剪刀，可以用附魔书与铁砧组合）<br>\n\n- Like a bow, you can hold down to adjust the flight distance.\n- By default, it uses both \"Torches\" and \"Soul Torches\" as projectiles, but you can add or remove launchable items via the settings.\n- If the landing spot is unplaceable (e.g., ceiling, leaf blocks, non-solid blocks), it will drop as an item. Currently, it passes through mobs without hitting them (this may be changed to ignite mobs in future updates).\n- You can also apply the \"Unbreaking\" and \"Mending\" enchantments (similar to shears, you can combine an enchanted book with an anvil).\n\n![Usage examples](https://i.imgur.com/Bdg2W6x.gif)\n\n### 配方 Recipes\n它可由3个线、1个皮革和3根木棍合成。\n\n![Torch Launcher recipe](https://cdn.modrinth.com/data/cached_images/ede3c4e6b359fd861246a396dbc3e309b35c999a.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

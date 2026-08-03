@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9bf5b9dbdde2645c",
+  "content": "<h1>Исправление пакета предметов (1.20.1 Forge)</h1>\n<p>Добавляется в <code>CompoundTag</code> для выполнения двух задач:</p>\n<ol>\n<li>Избежать <code>ConcurrentModificationException</code> в <code>CompoundTag#write</code>, преобразуя набор ключей тега в массив перед итерацией</li>\n<li>Избежать <code>EncoderException</code> (вызванного <code>NullFointerException</code>) в <code>CompoundTag#writeNamedTag</code>, добавив защиту от нуля</li>\n</ol>\n<h2>Настройки</h2>\n<p><code>detectExceptions</code> — (по умолчанию <code>false</code>) Пытается регистрировать возникновение_exception, регистрируя соответствующий <code>CompoundTag</code></p>\n<h2>Модпаки</h2>\n<П可以自由地使用在模组包中，但请勿重新分发。</P>\n<h2>致谢</h2>\n<p>Logo纹理来自Minecraft（盔甲）和Minecraft Dungeons（锤子）。断开连接截图来自<a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.reddit.com%252fr%252fCurseForge%252fcomments%252f10i7oz4%252fconstantly_getting_kicked_any_ideas_on_what_could%252f\" target=\"_blank\" rel=\"nofollow\">reddit</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

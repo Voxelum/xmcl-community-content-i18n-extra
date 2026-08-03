@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ad05043e548165fa",
+  "content": "# 隨地睡覺\n隨地睡覺模組是 Minecraft 的一個便捷擴展，允許玩家在任何地方睡覺，而不需要床。無論您是在探索遙遠的土地、深入洞穴，或是僅僅在夜晚被困在荒野中，此模組都讓您在旅途中休息成為可能。\n\n## 功能  \n### 單人與多人遊戲兼容：\n服務器與客戶端都需要安裝此模組，設定以伺服器為準。  \n### 可配置快捷鍵：\n您可以根據自己的偏好配置睡覺的快捷鍵。預設情況下，按 `'M'` 進入睡眠。  \n### 平衡性減益效果：\n為了維持遊戲平衡並防止濫用，此模組在睡覺時會引入可配置的減益效果。這些減益效果包括：  \n- 飢餓\n- 噁心\n- 失明\n- 黑暗\n- 挖掘疲勞\n- 衰弱\n- 緩慢\n\n## 配置\n您可以在 `.minecraft/config/sleepanywhere-config` 文件中的配置文件中自定義隨地睡覺模組的效果。調整睡覺時減益效果的持續時間，或將其完全禁用（設置為 0）。  \n\n## 反饋與支援\n如果您遇到任何問題或有改進隨地睡覺模組的建議，請隨時通過 [GitHub Issues](https://github.com/BogdanValentin/SleepAnywhere/issues) 或留言評論進行聯繫。\n\n## 授權\n此模組使用 [CC0-1.0 License](https://legacy.curseforge.com/project/997547/license) 分發。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

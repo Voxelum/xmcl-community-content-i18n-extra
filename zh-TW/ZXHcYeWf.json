@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bd8fc43fcf917513",
+  "content": "這是一個簡單的調整，讓當使用 [Punchy!](https://modrinth.com/mod/punchy-fpa) 模組時，燈籠和火把會使用它們的區塊模型，而不是醜陋的 2D 圖示。第三人稱視角中也能看到 3D 模型，且不會與 [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) 模組產生任何衝突。它支援所有原版火把和燈籠種類。物品在揹包和熱選欄中仍保持預設的 2D 外觀。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

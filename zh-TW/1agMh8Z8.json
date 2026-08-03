@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1a5230a5f5e7ec46",
+  "content": "## 介紹\n\nNoPackCompatCheck **會禁用資源包相容性警告** 在資源包選擇畫面中，使顯示更加乾淨。\n\n安裝這個模組後，Minecraft 將不再顯示資源包版本不相容的警告🤗。\n\n![after.png](https://s2.loli.net/2025/08/12/2vLcHTbfo5gqa8m.png)\n\n## 我為什麼製作這個模組？\n\n自從 Minecraft 1.20 開始，Mojang 頻繁更新資源包的格式版本。從 Minecraft 1.6.1 到 1.19.4，格式版本僅從 `1` 增加到 `13`，但到了 1.21.8，已經跳到了 `64` 🤣🤣🤣。這種快速的“版本號更新”導致許多資源包沒有及時更新到 `pack.mcmeta` 文件中聲明的支持版本，儘管它們實際上與較新版本的 Minecraft 相容。因此，玩家經常在資源包屏幕上看到整整一頁的“不相容”警告。\n\n***在安装此模组之前***\n\n![before](https://s2.loli.net/2025/08/12/Wh6cv1kyM2dFlQ8.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

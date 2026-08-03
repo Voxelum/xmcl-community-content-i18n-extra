@@ -1,6 +1,6 @@
 {
-  "bodyHash": "nwIBI1PqamU=",
-  "content": "記憶體使用畫面\n\n在載入時顯示記憶體條，類似1.12版Forge的啟動畫面。  \n↓（由於尚未支援Mixin，因此在Forge版本中未實現）  \n設置畫面\n\n![啟動畫面](https://media.forgecdn.net/attachments/376/778/2021-07-03_01h07_00.png)  \n載入畫面\n![啟動畫面](https://media.forgecdn.net/attachments/376/779/2021-07-03_01h06_29.png)  \n此外，也可以透過設定的快捷鍵來顯示。\n![記憶體條](https://media.forgecdn.net/attachments/382/689/2021-07-25_03.png)",
+  "bodyHash": "fad820477e710b47",
+  "content": "記憶體使用畫面\n\n在載入期間顯示記憶體條，如同 1.12 Forge 啟動畫面。  \n↓(由於 mixin 尚未提供，Forge 版本未實作)\n\n設定畫面\n\n![啟動](https://media.forgecdn.net/attachments/376/778/2021-07-03_01h07_00.png)\n載入畫面\n![啟動](https://media.forgecdn.net/attachments/376/779/2021-07-03_01h06_29.png)\n\n此外，可以使用設定的鍵進行顯示。\n![記憶體條](https://media.forgecdn.net/attachments/382/689/2021-07-25_03.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

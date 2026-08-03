@@ -1,0 +1,6 @@
+{
+  "bodyHash": "778417946985005c",
+  "content": "# OneClickCrafting\n\n支持配方書與石工台\n\n本模組僅限客户端。在配方書中選擇配方後，客户端會將結果欄位中的合成物品 Shift 點擊至您的物品欄。\n\n- 點選一項配方將製作該物品的 1 個。\n  - 可設定僅限左鍵或僅限右鍵（預設為右鍵）\n- Shift 點選一項配方將製作該物品的一堆。\n- 按住丟棄鍵並點選一個配方會製作該物品並丟出。\n- 按住丟棄鍵、Shift 並點選一個配方會丟出一堆合成物品。\n\n### 按鍵綁定\n- 切換（按住）\n  - 按下此鍵將啟閉本模組功能。\n  - 若「總是開啟」設定為 True，按住此鍵將關閉本模組，反之亦然。\n- 重複上一次\n  - 透過再次於配方書中點擊，嘗試重新製做最後一次使用的配方。\n  - 可以長按以最快速度重複製作。\n\n### 可設定項目\n- 左鍵啟用\n- 右鍵啟用\n- 總是開啟\n- Alt 切換（按住）\n  - 允許按住 Alt 鍵切換本模組功能。\n- Ctrl 切換（按住）\n  - 允许按住 Ctrl 鍵切換本模組功能。\n- 在製作時使用丟棄鍵\n  - 當您在配方書上點擊配方且同時按住丟棄鍵時，產物將被丟到世界中而非放入物品欄。\n\n### 相依函式庫\n\n需要 [Fabric API](https://modrinth.com/mod/fabric-api)。  \n建議安裝 [ModMenu](https://modrinth.com/mod/modmenu) 來進行模組設定。\n\n## 貢獻歡迎 Fork 這個 repo 並提交 Pull Requests 修復、改善或是翻譯等貢獻。\n您可以在 [The Fabric Project](https://discord.gg/AyRqsEcJmz) 的 Discord 伺服器聯繫我。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

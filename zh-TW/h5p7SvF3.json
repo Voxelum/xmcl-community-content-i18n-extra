@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fc977d81eb51e031",
+  "content": "此模组新增了一个指令 `/pdgamerule`，用於加入維度遊戲規則。\n\n注意：每個維度的遊戲規則會適用於你所有的存檔。無法僅對單一存檔設定遊戲規則。\n\n預設情況下，本模組會關閉下界的怪物掉落物，以顯示此模組正常運作。目前您必須編輯配置文件才能移除此功能。\n\n部分遊戲規則（例如與命令方塊相關的）不受支援。某些遊戲規則需要您重新進入存檔才能更新。\n\n[![有興趣支持我與模组的开发？BisectHosting 是完美的解决方案。新客户可使用促销码 “snownee” 在第一个月享受游戏服务器 25% 的折扣。凭借 24/7 支持与快速响应，您可以期待满足所有游戏需求的一流服务。](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

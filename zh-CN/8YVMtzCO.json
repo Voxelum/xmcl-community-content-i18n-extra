@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ac97ac9e4e652c76",
+  "content": "# 打造真实感\n一个 Create 扩展模组，增加多种功能使 Create 列车更加逼真。\n\n**⚠️更新前务必备份你的世界⚠️**\n\n#### 功能：\n\n#### ETCS - 信号与轨道 clearance\n当手动驾驶列车时，该模组还会显示前方空轨的叠加层、制动曲线以提示何时开始减速以及速度限制（如安装 Create: Tramways）  \n![带有速度和轨道状态概览的叠加层](https://cdn.modrinth.com/data/cached_images/d96cc5469b7b8035e1e116b6ea81f6e2e388c829_0.webp)\n\n**使用 \"+\" 和 \"-\" 来缩放轨道概览视图**\n\n#### -改变列车的加速度，使其取决于挂接车厢数量。\n车厢越多，列车加速越慢。而拥有更多动力机车（带司机的车厢），则会减少加速受到的影响。\n\n#### -轨道速度与坡度概览\n建造铁轨时，你可以看到所建路段的最大速度和坡度（百分比形式）。这也包含列车时刻表中显示的限速值。建议配合 Create Tramways 临时设置弯道和坡道限速。\n![示例图片：速度和坡度信息](https://cdn.modrinth.com/data/cached_images/aea50e47fd0b3f987648e47ca77a0354487a585d.png)\n\n这不改变列车实际运行速度，仅用于辅助设定限速。\n请使用 [Create Tramways](https://modrinth.com/mod/tramways) 设置速度限制\n\n更多功能即将推出！..",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

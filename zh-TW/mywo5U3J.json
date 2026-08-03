@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3b709a38865a4543",
+  "content": "![標題 & 版本](https://cdn.modrinth.com/data/cached_images/3f1606b843306aa56fb11b95d5d2eefbae0fe240.png)\n\n# **_目前正在進行重寫_**\n\n## 棺材\nCoffins 是一個 Fabric 模组，它為遊戲增加了棺材！它們能夠在你死亡時存儲物品，因此無需擔心遺失！它們也可以製成，並用作存儲單元。\n\n## 已知（不）相容模组\n### 相容\n- Requiem（僅在作為玩家死亡時適用，而非生物）\n- Trinkets（從 v1.2.0 開始內建支援）\n### 不相容\n- Sinytra\n\n## 完整功能列表\n### 新存儲方块：棺材\n- 死亡後生成以存儲掉落的物品\n- 可以製成\n- 總共有 54 個槽位\n- 當易碎時，清空後會消失\n- 可以使用掘墓人的鑰匙進行鎖定\n- 有一項黑暗模式選項\n\n### 新物品\n#### 脆弱之書\n- 使用於棺材時，會使其變得脆弱\n- 可以通過埋藏寶藏、釣魚或古城獲取\n#### 掘墓人的鑰匙\n- 可用於鎖定棺材，使其他玩家無法存取\n\n### 遊戲規則\n- showDeathCoordinates：控制是否在玩家死亡後顯示死亡坐標\n- keepRecoveryCompass：控制是否保留復健指南針\n- allowCoffinRobbing：控制其他玩家是否可以打開其他玩家的棺材（僅限死亡）\n- deathRequiresCoffin：控制是否只有在玩家身上有棺材時才生成棺材（死亡時）\n\n### 其他調整\n- 持有復健指南針時，會顯示最近死亡地點的坐標和距離\n- 現在可以使用紫晶碎片和深板岩方塊製作回聲碎片\n\n## 建議 / 問題\n有任何建議或發現了錯誤？無論選擇加入我們的[Discord](https://discord.gg/Dmp2dbyNrs)還是向我们的[Github](https://github.com/Now-this-is-crazy/Coffins/issues)提交 issue。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "058880cb00922609",
+  "content": "# 依賴於\n\n- Fabric API https://modrinth.com/mod/fabric-api\n- malilib https://modrinth.com/mod/malilib\n- Fabric Language Kotlin https://modrinth.com/mod/fabric-language-kotlin\n- (可選) Mod Menu https://modrinth.com/mod/modmenu\n\n# 使用\n\n請準備以下物品：\n\n1. 效率 V 鑽石（或下界合金）礦鎬\n2. 極效 II 信標\n3. 活塞\n4. 紅石火把\n5. 粘液塊\n\n默認快捷鍵 `LEFT_ALT+B+M` 切換啟用/禁用此mod（可配置）\n\n打開配置菜單的默認快捷鍵為 `LEFT_ALT+B+C`（可配置），您可以在這裏配置熱鍵、客戶端允許/阻止列表。\n\n當啓用此mod時，左擊基岩進行「採礦」。\n\n如果我的mod節省了您大量的時間，請考慮在[GitHub上給我一顆星](https://github.com/LXYan2333/Fabric-Bedrock-Miner)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

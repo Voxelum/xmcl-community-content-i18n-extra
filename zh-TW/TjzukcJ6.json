@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13ae88a7ad483012",
+  "content": "如果你在下載某些 Wynntils 資源時遇到網絡問題，這個模組可能有助於你。\n\n它只是將資源鏈接從 Github 替換為 Fastly cdn。\n\n嘗試訪問此網站以查看是否可以訪問：\n\n[地圖測試](https://quantil.jsdelivr.net/gh/Wynntils/Static-Storage@main/Reference/maps/map-main-1-1.png)\n\n[JSON 測試](https://fastly.jsdelivr.net/gh/Wynntils/Static-Storage@main/Data-Storage/lootrun_tasks_named.json)\n\n它還提供可靠的 Google 翻譯 API。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

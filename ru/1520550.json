@@ -1,6 +1,6 @@
 {
-  "bodyHash": "f69f59c732372615",
-  "content": "\n\n<p>Этот мод устраняет проблемы совместимости между EpicFight-Resurrection и Epic Fight 20.12.8+.</p>\n<p><strong>Исправлено:</strong></p>\n<ul>\n<li>Ямато: вылет с ошибкой NullPointerException при взмахе (Epic Fight 20.14.x)</li>\n<li>Фантомная катана: атаки не анимируются (Epic Fight 20.12.8+)</li>\n<li>GREAT_TACHI (Багровый клык): атаки не анимируются при использовании двух оружий (Epic Fight 20.12.8+)</li>\n<li>Прыжок Волчьего Бога: анимация больше не воспроизводится после обновления EpicFight 20.10.x.&nbsp;</li>\n</ul>\n<p>&nbsp;</p>",
+  "bodyHash": "427795d443085594",
+  "content": "<p>Этот мод исправляет совместимость между EpicFight-Resurrection и Epic Fight 20.12.8+.</p>\n<p><strong>Исправленные проблемы:</strong></p>\n<ul>\n<li>Yamato: Crash с NullPointerException при качании (Epic Fight 20.14.x)</li>\n<li>Phantom Katana: Атаки не анимируются (Epic Fight 20.12.8+)</li>\n<li>GREAT_TACHI (Красный клык): Атаки не анимируются при Dual-Wield (Epic Fight 20.12.8+)</li>\n<li>Wolf God Leap: Ан不再 воспроизводится после обновления EpicFight 20.10.x.&nbsp;<br><br>&darr;исходный код&nbsp;<br><a href=\"https://github.com/Yoshio255/EpicFight-Resurrection-Crash-Fix-Code\" target=\"_blank\" rel=\"nofollow\">https://github.com/Yoshio255/EpicFight-Resurrection-Crash-Fix-Code</a></li>\n</ul>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5692816527bee803",
+  "content": "Create: Direct chutes 添加了一個，猜怎麼著？新的滑槽！這個滑槽的行為與普通滑槽略有不同。它內部沒有槽位，而是直接將上方的容器物品傳送到下方的容器中。直式滑槽可以堆疊，並可在長距離內實現即時物品轉移。\n\n想像一下這種情況：你的滑槽卡了一顆綠寶石，導致它無法將鑽石傳送到你的箱子中，即使你的箱子裡只有一顆鑽石，仍然可以再傳入63個……這可以用直式滑槽解決！\n\n![普通滑槽與直式滑槽之間的差異](https://raw.githubusercontent.com/LIUKRAST/CreateDirectChute/refs/heads/master/showcase_direct_chute.png)\n\n## V1.1.0\n直式滑槽現在改用鋅製成，以保持一致性（在 Create 的語境中，銅與流體有關）。它們現在也允許對角連接，並且可以用鋅塊包覆。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

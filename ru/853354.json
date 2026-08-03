@@ -1,0 +1,6 @@
+{
+  "bodyHash": "504e49886b6c0d7b",
+  "content": "<h1>Небезопасный детектор случайного доступа к миру (Forge)</h1>\n<p>Это мод, который обнаруживает небезопасный доступ к миру в фоне,\nпомогая находить причины\tcrash &quot;Обращение к LegacyRandomSource с нескольких потоков&quot;.</p>\n<p>Это полезно для нахождения причины таинственных сбоев с <code>Accessing LegacyRandomSource from multiple threads</code>.<br>\nЭто <strong>не</strong> исправление проблемы, но оно поможет вам найти причину.</p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/uwrad\" rel=\"nofollow\">Ищете версии Fabric?</a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/uwrad-neoforge\" rel=\"nofollow\">Ищете версии NeoForge?</a></p>\n<p><img src=\"https://media.forgecdn.net/attachments/650/713/uwrad.png\" alt=\"Пример\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

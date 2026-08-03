@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a2e99e4dde0d9464",
+  "content": "<p>Multi-piston 是由 Ldt-team 创建并维护的模组，该团队还负责开发和维护 minecolonies、structurize、blockout 和 armory 等。<br><br>multi-piston 向游戏中添加了多活塞方块，允许您从指定方向吸入任意方块，并以可定义的速度和射程从任何方向喷出。</p>\n<p>&nbsp;</p>\n<p>配方：</p>\n<p><img src=\"https://i.imgur.com/y0uHYBP.png\"></p>\n<p>&nbsp;</p>\n<p>横向：</p>\n<p><img src=\"https://media.giphy.com/media/toKS0NNlTtQQF7oVsy/giphy.gif\"></p>\n<p>&nbsp;</p>\n<p>纵向：</p>\n<p><img src=\"https://media.giphy.com/media/4QEGyUOm335pTLoTo7/giphy.gif\"></p>\n<p>&nbsp;</p>\n<p>桥接：</p>\n<p><img src=\"https://media.giphy.com/media/PoK757fiIFd6XSl3n3/giphy.gif\"></p>\n<p>&nbsp;</p>\n<p>配置：</p>\n<p><img src=\"https://media.giphy.com/media/pFZEGeLN4oOk52JgnG/giphy.gif\"></p>\n<p>&nbsp;</p>\n<p><strong>常见问题解答：</strong></p>\n<p>GUI 如何工作？<br>- 右键点击方块以打开 GUI。<br>- 右键点击输入方向，左键点击输出方向</p>\n<p>- 编辑速度和射程，按 ESC 键退出 GUI。</p>\n<p>如何提高射程？</p>\n<p>- 最大射程为 10，直到遇到不同类型的方块</p>\n<p>如何提高速度？<br>- 最大为 3，未来可能支持更高。<br>可以更改声音吗？<br>- 未来可能会添加。<br>是否支持红石？<br>- 是的，它与按钮、拉杆以及普通活塞的任何红石输入兼容。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

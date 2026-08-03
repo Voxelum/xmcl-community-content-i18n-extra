@@ -1,0 +1,6 @@
+{
+  "bodyHash": "222d9e1ff316344b",
+  "content": "一種輕量化的模組，控制所渲染的傷害指示粒子數量。\n\n傷害和怪物血量是否過高，導致幀率下降或粒子遮蔽視野？\n\n在極端情況下，甚至可能造成凍結和崩潰？\n\n不想簡單地關閉所有傷害粒子？\n\n---\n\n這個模組可能對你有幫助。\n\n此模組可配置玩家攻擊動作所產生的傷害指示粒子的生成倍率和上限（雖然也可以產生更多，但這不是主要目的）。\n\n此預設會關閉低損傷指示粒子的渲染（但也可重新啟用）。\n![ldip1](https://cdn.modrinth.com/data/cached_images/a6e2d7e2c0f9b7aec1bc9d0499f195327554e037.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1d6274f951c0eafb",
+  "content": "<h3 style=\"text-align:center\"><img src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/main.png\" alt=\"Catalog\" width=\"225\" height=\"225\"></h3>\n<p>&nbsp;</p>\n<h2 style=\"text-align:center\"><span style=\"font-size:18px\">Exposure Catalog 是一个针对 <a style=\"font-size:18px\" href=\"https://www.curseforge.com/minecraft/mc-mods/exposure\" target=\"_blank\" rel=\"nofollow\">Exposure</a> 的小型插件</span></h2>\n<p>&nbsp;</p>\n<p style=\"text-align:center\">它添加了 <code>/exposure catalog</code> 命令，打开一个 GUI，查看、导出或删除当前世界中存储的所有曝光。</p>\n<p style=\"text-align:center\">它还拥有<strong>\"textures\"</strong> 模式，可以查看所有加载的纹理（来自 Minecraft、模组和资源包）。</p>\n<p style=\"text-align:center\"><img src=\"https://raw.githubusercontent.com/mortuusars/resources/main/media/exposure_catalog/screen.png\" alt=\"Screen\" width=\"1000\" height=\"734\"></p>\n<p style=\"text-align:center\">该命令需要 3 级权限（单人游戏中启用作弊可满足此要求）。</p>\n<p style=\"text-align:center\">需要在客户端和服务端都安装。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

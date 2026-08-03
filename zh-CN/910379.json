@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b04d9a6a6070f397",
+  "content": "<p>本模组为 EnderIO 添加了 KubeJS 集成。</p>\n<p>当前功能：</p>\n<ul>\n<li>对所有配方类型提供全面支持与生成器</li>\n<li>自定义绑定以生成具有概率和范围输出的特殊配方类型结果</li>\n<li>能够过滤合金熔炉中继承的原版烧炼配方</li>\n<li>事件：<ul>\n<li>注册自定义电容器</li>\n<li>注册自定义导管</li>\n<li>添加新的研磨球</li>\n<li>添加/修改/移除桶装试剂</li></ul></li>\n</ul>\n<p><img src=\"https://i.imgur.com/Rmi0oMb.png\" alt=\"custom conduit example\"></p>\n<p>语法详细解释与示例请参阅 <a href=\"/linkout?remoteUrl=https%253a%252f%252fdocs.almostreliable.com%252fkubejs-enderio%252f\" target=\"_blank\" rel=\"nofollow\">维基</a>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

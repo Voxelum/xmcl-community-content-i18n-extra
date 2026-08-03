@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5c9ea0570450ffbc",
+  "content": "# PACP 加载项\n\n我的 [程序艺术延续项目](https://modrinth.com/resourcepack/pacp) 曾经包含一个简单的加载项系统，文件直接包含在压缩包中。（在 PMC 上仍然如此）\n\n本项目将这些编译为独立的项目，你可以将它们安装到 Modrinth 启动器，或者从这里直接下载。\n\n这些是该项目原始创作者本人制作的加载项。有些会彻底改变游戏体验，有些则只是小改动。未来还会陆续添加更多功能。\n\n## 当前可用的加载项：\n\n**ALPHA-FIED：** 灵感来自《我的世界》Alpha 版本及其活跃的模组社区，旨在让游戏看起来像一个更现代的 Alpha/Pre-Alpha 模组。包含基于 Continuity 的独特生物群系温度草地方块系统。\n\n参考了 Infdev+、Reindev、NSSS 等模组，以及我自己的 BTA: Order of the Stone 纹理包。\n\n**BETA-FIED：** 一些较新的《我的世界》Beta 模组的风格再现，使 PACP 看起来像深度模组化的 Beta 1.7.3。\n\n参考了 Better than Adventure 和 Minecraft Diverge 等模组。\n\n**MODERNIZED NETHERRACK：** 基于现代设计的下界岩纹理，对比度较低。包含玄武岩和下界金。\n\n**UNIQUE ORES：** 色觉友好型矿石方块形状，未来可能会更新。\n\n**1.12.2 WATER：** 1.12.2 的水纹理由此调整饱和度以绕过原版水的颜色问题。除非水相关的文件结构发生修改否则不太可能继续更新。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

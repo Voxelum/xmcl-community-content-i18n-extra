@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a3affe07b375a556",
+  "content": "<p>營火、煙燻器和blast furnace現在可以熔化所有<span style=\"text-decoration:underlined\">vanilla</span>項目，但速度不同</p>\r\n<p>&nbsp;</p>\r\n<p><strong>營火：</strong> 30秒</p>\r\n<p><strong>熔爐：</strong> 10秒</p>\r\n<p><strong>煙燻器：</strong> 2.5秒</p>\r\n<p><strong>Blast Furnace：</strong> 0.5秒</p>\r\n<p>&nbsp;</p>\r\n<p>煙燻器的制作變得有點困難，而要制造blast furnace將需要更多的材料。</p>\r\n<p>配方是數據驅動的，這意味著所有配方都可以通過datapack移除或修改。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

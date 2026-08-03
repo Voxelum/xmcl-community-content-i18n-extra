@@ -1,6 +1,6 @@
 {
-  "bodyHash": "JlPc/4xFNLE=",
-  "content": "<p>為Fabric/NeoForge添加一個逆向合成台。</p><p>使用此模組錯誤合成的物品可被拆解並重新利用。</p><p>預設情況下不會消耗經驗值。<br><br></p><p><span style=\"font-weight:400\">合成配方</span></p><ul>\n<li>逆向合成台</li>\n</ul><p>將工作台用鑽石圍繞排列即可合成。</p><p><img src=\"https://media.forgecdn.net/attachments/392/783/recipe_uncrafting_table.png\" alt=\"合成台 x1, 鑽石 x8\" width=\"300\" height=\"132\"></p><h2>操作介面</h2><p><img src=\"https://media.forgecdn.net/attachments/504/859/2022-10-06-225338.png\" width=\"400\"><br><span>(本模組可根據物品無限增加拆解層數，若需維持遊戲平衡請自行調節)</span></p><p>&nbsp;</p><p>&nbsp;</p><p>設定檔案路徑：(遊戲目錄)/config/uncraftingtable76.json</p>",
+  "bodyHash": "824d4a25c756a97e",
+  "content": "<p>為 Fabric/NeoForge 添加一個解製表。</p>\n<p>使用此模組錯誤製作的物品可以拆解並重複利用。</p>\n<p>預設情況下不會消耗&nbsp;<span>經驗值。</span><br><br></p>\n<p><span style=\"font-weight:400\">配方</span></p>\n<ul>\n<li>解製桌</li>\n</ul>\n<p>作業台周圍擺放鑽石即可製作解製桌。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/392/783/recipe_uncrafting_table.png\" alt=\"製作臺x1, 鑽石x8\" width=\"300\" height=\"132\"></p>\n<h2>GUI介面</h2>\n<p><img src=\"https://media.forgecdn.net/attachments/504/859/2022-10-06-225338.png\" width=\"400\"><br><span>(此模組可能隨物品數量無限增加，若不想失去平衡，請自行調節。)</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>設定檔路徑：(遊戲目錄)/config/uncraftingtable76.json</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

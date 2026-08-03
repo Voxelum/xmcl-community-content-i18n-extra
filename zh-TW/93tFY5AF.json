@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b30546a84e78509a",
+  "content": "## Cobblemon Box Link 連結\n一個簡單的 Cobblemon 側面模組，將現代《寶可夢》遊戲中的 Box Link 功能加入 Cobblemon，讓您能快速且輕鬆存取您的電腦儲存空間。\n\n#### 新項目：Box Link\n- 持有時可使用以開啟您的電腦。\n- 若存在於物品欄中，也可從鍵位綁定使用。\n    - 可選的 Curios（Forge）或 Trinkets（Fabric）整合，以便在裝備至配件槽時使用此道具。\n      - 預設情況會加入專為此道具設計的自訂「Box Link」插槽。\n    - 伺服器設定選項，允許不持有 Box Link 道具即可使用鍵位綁定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

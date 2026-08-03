@@ -1,0 +1,6 @@
+{
+  "bodyHash": "761724f283d30bb0",
+  "content": "一個為 Minecraft 增添 AI 汽車的數據包！請參閱下方視頻以獲得更詳細的演示。（請參閱畫廊以獲取版權信息。）\n\n- **注意：** 如果您希望在所有已創建/當前世界中使用此功能，請使用 Mod 版本。若僅需在特定世界中使用此數據包，則請選擇數據包版本。\n\n- **注意 #2：** 如果遇到卡頓問題，請找到以下 MCFUNCTION 文件：**data\\ctg115_gshn28\\function\\auto_despawn.mcfunction**。查找命令 `execute if entity @a[distance=..100] run tag @s remove ctg_autodespawn`。其中 **100** 是數值，將其替換為更高或更低的數字以增加或減少玩家周圍半徑。超出該區域的汽車將自動移除以避免卡頓。\n\n<iframe width=\"681\" height=\"383\" src=\"https://www.youtube.com/embed/d8feAj6DU3c\" title=\"[1.15 Minecraft] Car Traffic Generator - Command Datapack\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

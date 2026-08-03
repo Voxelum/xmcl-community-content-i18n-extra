@@ -1,0 +1,6 @@
+{
+  "bodyHash": "36d569c2ea5274c7",
+  "content": "# 建立：Sophisticated Storage 相容性\n一個 Fabric 模組，修復在 Minecraft 1.20.1 中將 Sophisticated Storage 容器放置在 Create 機械結構上時會造成遊戲崩潰的問題。\n\n![contraptions and train support](https://i.imgur.com/0d9x7hy.png)\n\n## 問題\n當 Sophisticated Storage 的方塊實體（如箱子、桶等）被放置在 Create 機械結構內時，遊戲會崩潰並顯示以下錯誤：\n\n```\njava.lang.ClassCastException: class com.simibubi.create.foundation.virtualWorld.VirtualChunk cannot be cast to class net.minecraft.world.chunk.WorldChunk\n```\n\n這是因為：\n\n1. Create 機械結構使用特殊的 VirtualChunk 類別進行渲染與操作\n2. Sophisticated Storage 在 NBT 資料加載期間調用 BlockEntity.setChanged()\n3. setChanged() 嘗試將區塊轉型為 WorldChunk，但實際上它是 VirtualChunk\n4. 轉型失敗導致遊戲崩潰\n\n## 解決方案\n此模組實作一個 Mixin，攔截所有 BlockEntity.setChanged() 呼叫並：\n\n1. 檢查該方塊實體是否來自 Sophisticated Storage\n2. 檢查當前區塊是否為 Create 的 VirtualChunk\n3. 若兩者皆符合條件，則取消 setChanged() 呼叫以避免崩潰\n\n修復過程透明且不影響任何功能——物品仍可在 Create 和 Sophisticated Storage 之間正常轉移。\n\n## 功能\n- 支援在 Create 機械結構中移動 Sophisticated Storage 的箱子\n- 防止 ClassCastException 造成的崩潰\n- 自動偵測 —— 無需配置",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

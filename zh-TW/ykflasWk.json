@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7dbceff78e318ea9",
+  "content": "**Stipple Focus** 添加了具有自動對焦的雅緻景深，並附帶微妙的\n光線和色彩調色——一種節制的、高效的替代重型著色器的選擇。\n它以輕量的 Blaze3D 後處理運行（無需 Iris/GLSL）。\n\n**獨立版** 為任何世界賦予柔和的電影感深度。與 **Stipple** 資源包配合使用（需要 Continuity），可完成點彩油畫效果。\n\n- **聚焦模式：** Auto（自動對焦跟隨你的準星）、Miniature、Plein Air、Galerie\n- **微妙調色：** 柔和天光、暖冷分離、漸暈——絕不會過度\n- **透過 `/stipple` 開啟設置鍵。預設未綁定——如需可自行綁定。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

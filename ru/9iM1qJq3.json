@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1b5226b0197576fa",
+  "content": "[![Discord](https://img.shields.io/discord/1035236362263207936?color=blue&logo=discord&label=Discord)](https://discord.mcbrawls.net)\n\n**Blueprint** — это модинг и API, которые позволяют сохранять/загружать структуры любого размера.\n\n# Использование\n\nОбщедоступные сборки Blueprint можно найти на странице [Modrinth](https://modrinth.com/mod/blueprint-api).\n\nЧтобы использовать Blueprint в качестве зависимости, найдите артефакт в нашем [публичном Maven-репозитории](https://maven.mcbrawls.net/#/releases/net/mcbrawls/blueprint).\n\n`build.gradle`\n```gradle\nrepositories {\n    maven {\n        name = \"MC Brawls\"\n        url  = \"https://maven.mcbrawls.net/releases/\"\n    }\n}\n\ndependencies {\n    include modImplementation (\"net.mcbrawls:blueprint:$blueprint_version\")\n}\n```\n\n`gradle.properties`\n```properties\nblueprint_version=1.16.3+1.21.8\n```\n\n# Начало работы\n\n`/blueprint-editor open <идентификатор-_blueprint>` откроет или создаст новую среду редактора blueprint.\nИспользуйте `/blueprint-editor save` для сохранения текущей среды редактора blueprint.\nИспользуйте `/blueprint-editor close` для закрытия текущей среды редактора blueprint.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

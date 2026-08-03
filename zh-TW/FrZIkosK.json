@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6659ea6487e6fda4",
+  "content": "# 被遺忘的墳墓\n\n被遺忘的墳墓是一個高度可配置的 Fabric 模組，死亡時會在墳墓中儲存物品和經驗值；墳墓會在隨機的時間間隔內從 4 個階段中衰變。\n\n您可以在這裡了解不同的功能：[Wiki] Graves](https://github.com/ginsm/forgotten-graves/wiki/Graves)。請在您的模包中使用此模組。 :)\n\n## 兼容性\n\n請參考 [[Wiki] Compatibility](https://github.com/ginsm/forgotten-graves/wiki/Compatibility) 頁面以獲取有關模組兼容性的信息。\n\n## 墳墓模型\n\n![](https://github.com/ginsm/forgotten-graves/raw/main/docs/screenshots/GraveModels.gif)\n\n## 配置\n\n請參閱 [[Wiki] Config](https://github.com/ginsm/forgotten-graves/wiki/Config)，查看配置選項及其說明。\n\n## 展示\n\n這是 [Boodlyneck](https://www.youtube.com/@Boodlyneck) 的優秀展示：\n[![](https://i3.ytimg.com/vi/ICobJ1QU598/maxresdefault.jpg)](https://www.youtube.com/embed/ICobJ1QU598?start=363&end=445)\n\n##免責聲明\n\n我主要為我的服務器個人使用開發此模組，因此無法保證所有請求的功能都會添加。我仍會嘗試！\n\n如果您有任何問題或功能建議，請使用[問題追蹤器](https://github.com/ginsm/forgotten-graves/issues)。任何反饋都受歡迎：[GitHub Discussions](https://github.com/ginsm/forgotten-graves/discussions)，謝謝！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

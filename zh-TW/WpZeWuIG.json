@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2a94ff7fecb3ced5",
+  "content": "此模组包含額外的 Kotlin 庫，可與 [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) 搭配使用。\n\n目前新增的庫：\n- Kotlin Scripting JVM\n- Kotlin Scripting JVM Host\n- Kotlin Scripting JSR223\n- Kotlin Scripting Dependencies Maven\n- Kotlin 編譯器\n- Tiny Remapper（僅在 Minecraft 26.1 之前提供）\n- Mapping IO（僅在 Minecraft 26.1 之前提供）\n- Kotlin Metadata JVM\n\n\n未來可能會增加更多庫列表。\n\n與 Fabric Language Kotlin 類似，任何依賴此模組的不得包含此模組，特別是因為此模組內建 Kotlin 編譯器，這會導致文件體積較大。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

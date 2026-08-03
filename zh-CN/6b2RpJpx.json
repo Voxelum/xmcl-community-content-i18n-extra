@@ -1,0 +1,6 @@
+{
+  "bodyHash": "749c13dfd410a68f",
+  "content": "## [该模组需要 Origins、Fabric 和 Fabric API]\n\n### 注意：额外的快捷键绑定应当适用于每个 Minecraft 版本以及每个在 Minecraft 1.17 之后的 Origins 版本，即使页面没有明确说明。\n\n这个模组为 Origins 添加了大量新的快捷键绑定，使您可以创建和使用包含超过 2 个快捷键绑定能力的数据包！\n\n据我所知，该模组应该可以与未来版本兼容\n\n**在数据包中的使用方法：**\n\n1 - 主要：key.origins.primary_active\n\n2 - 次要：key.origins.secondary_active\n\n3 - 第三：key.origins.ternary_active\n\n4 - 第四：key.origins.quaternary_active\n\n5 - 第五：key.origins.quinary_active\n\n6 - 第六：key.origins.senary_active\n\n7 - 第七：key.origins.septenary_active\n\n8 - 第八：key.origins.octonary_active\n\n9 - 第九：key.origins.nonary_active\n\n10 - 第十：key.origins.denary_active",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

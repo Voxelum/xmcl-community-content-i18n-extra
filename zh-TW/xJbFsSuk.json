@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6478346ced753c63",
+  "content": "<div align=\"center\">\n  <h3>☕ 支持我的工作</h3>\n  <p>如果您想支持我和我的项目，欢迎请我喝一杯咖啡！</p>\n  \n  <a href=\"https://ko-fi.com/ciocolata47\">\n    <img src=\"https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fcf48af59c591185_support_me_on_kofi_dark.png\" width=\"200\" alt=\"Support me on Ko-fi\">\n  </a>\n  <br>\n  <a href=\"https://github.com/CIOCOLATA47/PlayerIndicatorPlus\">\n    <img src=\"https://img.shields.io/badge/Check%20source-GitHub-181717?logo=github&logoColor=white\" width=\"250\" alt=\"Check source on GitHub\">\n  </a>\n</div>\n\n---\n\n# 玩家健康指示器 Plus  \n玩家健康指示器 Plus 是一款模组，通过在玩家头顶直接渲染其状态数据来增强游戏体验。\n\n## 功能特性  \n- **数值化生命显示**：精确显示 HP（含吸收状态），或显示「创意模式」状态。  \n- **从标签栏获取生命值（Get health from tablist）**：在 Hoplite 服务器上可正常工作，因该服务器对生命值进行了混淆处理。  \n\n- **护甲耐久与等级**：显示护甲类型及剩余耐久百分比。  \n  - 护甲等级说明：  \n    - 皮革 = L  \n    - 锁子甲 = Ch  \n    - 铁质 = I  \n    - 黄金 = G  \n    - 钻石 = D  \n    - 下界合金 = N  \n    - 鞘翅 = E  \n  - 护甲槽位说明：  \n    - 头部 = H  \n    - 胸部 = C  \n    - 腿部 = L  \n    - 脚部 = B  \n  - 示例：满耐久的下界合金胸甲将显示为「NC 100%」  \n  - 示例：破损的铁头盔将显示为「IH 75%」  \n\n- **装备追踪**：可查看其他玩家主手与副手持握的物品。  \n- **网络信息**：集成延迟（Ping）显示与以米为单位的距离跟踪。  \n- **高度自定义**：可调文字颜色、高度、亮度与字体大小。  \n- **隐身玩家可见性开关**：可选择是否显示隐身玩家的状态。\n\n## 使用方法  \n- 进入 Minecraft 设置中，为此界面配置一个按键绑定。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

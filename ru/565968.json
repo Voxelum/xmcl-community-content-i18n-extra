@@ -1,0 +1,6 @@
+{
+  "bodyHash": "04c43f1499942d00",
+  "content": "<h1>Blanket client-tweaks</h1>\n<p><strong>Blanket</strong> стремится исправить множество клиентских ошибок, а также содержит некоторые улучшения для удобства и настройки</p>\n<h2>Все настраивается</h2>\n<p>Перейдите в настройки мода и настройте всё!</p>\n<h2>Некоторые исправления реализованы <strong>но не все</strong>:</h2>\n<ul>\n<li>Закрытие инвентаря кнопкой мыши MC-577</li>\n<li>Задержка при получении сообщения чата MC-247973</li>\n<li>Множество проблем с рендерингом!</li>\n<li>Некоторые проблемы десинхрона между клиентом и сервером!</li>\n</ul>\n<p>Полный список смотрите в <a href=\"https://github.com/BlanketMC/blanket-client-tweaks/blob/1.18/src/main/java/io/github/blanketmc/blanket/Config.java\" rel=\"nofollow\">Config.java</a></p>\n<h2>Проект находится на ранней стадии, в будущем будет добавлено много новых функций!</h2>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

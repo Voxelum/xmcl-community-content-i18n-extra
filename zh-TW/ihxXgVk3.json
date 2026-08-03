@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bb46b8d64fd909dd",
+  "content": "允許您查看基岩版皮膚和披風的 Fabric 外掛，包括「4D」元件。\n\n![2021-08-02_22 06 21](https://user-images.githubusercontent.com/20743703/127946308-e68f88e8-11ec-47da-a3f2-63034fe0540e.png)\n\n目前不支援人物/角色創作的皮膚，但將來會支援此功能。\n\n設定：\n\n- 伺服器需安裝 Geyser 插件\n- 在客戶端安裝此外掛\n- 在您的服務器上安裝這個插件：https://github.com/Camotoy/GeyserSkinManager\n- 完成！\n\n標誌由 NotNotNotSwipez 提供（Discord: notnotnotswipez#9106）。\n\n感謝 https://github.com/VelvetMC/SimpleCapes 協助我了解 Fabric 中披風的工作原理，並提供了半透明披風的基礎。\n\n感謝 Blockbench 提供轉換至 Fabric 的選項，這對我拼齊最後一塊拼图極有幫助。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

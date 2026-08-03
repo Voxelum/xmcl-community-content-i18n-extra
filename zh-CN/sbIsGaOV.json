@@ -1,6 +1,6 @@
 {
-  "bodyHash": "flEE/8hX4U0=",
-  "content": "<p>\n  <img src=\"https://i.imgur.com/neOFoxn.png\" alt=\"Logo\">\n</p>\n\nDragonLib 是一个基于 [Architectury API](https://modrinth.com/mod/architectury-api) 构建的多加载器 Minecraft 库与框架。它提供了众多实用工具、抽象层以及自有内部系统，旨在简化不同模组加载器和版本间的 Minecraft 模组开发。\n\n<p align=\"center\">\n  <a href=\"https://discord.com/invite/AeSbNgvc7f\"><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/social/discord-plural_vector.svg\"></a>\n  <a href=\"https://wiki.mrjulsen.net/dragonlib/\"><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/documentation/generic_vector.svg\"></a>\n  <a href=\"https://ko-fi.com/mrjulsen\"><img src=\"https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/donate/kofi-singular_vector.svg\"></a>\n</p>\n\n## 🎮 对于玩家\n**我的所有模组均需依赖 DragonLib。**\n\n- 版本 `< 3.0.0` **__已内置于__** 我的模组中！**无需手动安装！** 因此这些版本不提供单独下载。\n- 版本 `> 3.0.0` **__必须单独安装！__** 您可在此处下载。\n\n[请阅读此帖了解我的其他模组哪些版本可互相兼容](https://wiki.mrjulsen.net/blog/2026/03/01/dragonlib-3-compatibility/)。\n\n## 🧩 对于开发者\nDragonLib 旨在为所有人提供易于使用的 API。如果您觉得 DragonLib 实用，欢迎在您的项目中使用。\n\n更多详情请阅读[文档](https://wiki.mrjulsen.net/dragonlib/)。\n\n## 🤝 贡献\n感谢所有协助开发并将模组翻译成不同语言的朋友们。\n\n本项目开源，如果您希望协助开发或本地化工作，欢迎在 GitHub 上发起拉取请求或提交问题，并访问我们的 Crowdin 页面。\n\n[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/available/github_vector.svg)](https://github.com/MisterJulsen/MC-DragonLib2)\n[![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/translate/crowdin_vector.svg)](https://crowdin.com/project/mc-dragonlib)",
+  "bodyHash": "1724f28316fb3ebb",
+  "content": "Hello World",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

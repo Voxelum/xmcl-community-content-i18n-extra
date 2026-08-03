@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e708f03de137c6e8",
+  "content": "<p><strong>回聲指南針 HUD</strong> 是一個極簡且輕量的指南針模組，旨在幫助您在遊戲中導航而不會讓您的螢幕顯得雜亂。</p>\n<h3>支援多平台</h3>\n<p>最初僅為 Forge 設計，此模組已使用多載入器架構完全從頭重新編寫。現在它原生支援<strong>Forge</strong>、<strong>Fabric</strong>和<strong>NeoForge</strong>！這個乾淨現代化的代碼庫也確保未來遷移到新版 Minecraft 會更快更順暢。</p>\n<h3>純正極簡主義</h3>\n<p>此模組遵循嚴格的「零冗餘」哲學，為您提供所需的一切：簡單可靠的頭上指南針供旅途使用。<em>(注意：如果您尋找的是具有延伸功能的重型導航工具，請查看它更大號、僅針對 Forge 的版本：<strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/echoesofadventure-compass\" target=\"_blank\" rel=\"nofollow\">冒險回聲：指南針</a></strong>。但如果您只想有一個乾淨輕量化的介面，來這裡就對了！)</em></p>\n<h3>主要功能</h3>\n<ul>\n<li><strong>跨載入器支援：</strong>無論是在 Forge、Fabric 或 NeoForge 上遊玩，都能享受同樣無縫的體驗。</li>\n<li><strong>乾淨且不搶鏡：</strong>流暢的設計能完美融入原版美學風格。</li>\n<li><strong>簡單的設定：</strong>透過簡易 JSON 配置調整指南針比例和 X 軸位置，使 HUD 布局完全符合個人偏好。</li>\n</ul>\n<hr>\n<p><em>尋找一種不破壞原版感覺的簡單可靠導航方式嗎？將其放入您的 mods 資料夾即可開始旅程！</em></p>\n<hr>\n<h1>錯誤與建議</h1>\n<p>發現任何異常感到不適？或只是想提出新的功能建議？請到<a href=\"https://discord.gg/fXze8HDK6c\" target=\"_blank\" rel=\"nofollow\">Discord 伺服器</a>上回報問題或分享想法以獲得更快的支援和溝通。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

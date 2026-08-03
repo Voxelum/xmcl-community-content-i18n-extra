@@ -1,6 +1,6 @@
 {
-  "bodyHash": "a072e55743709268",
-  "content": "\n\n<div align=\"center\"><img width=\"512\" height=\"153\" alt=\"CREATE_FLUID_LOGISTICS\" src=\"https://github.com/user-attachments/assets/f5f943e5-c5e1-43be-a555-c9a561d7479a\" /></div>\n\n# 欢迎使用 Create FluidLogistic\n\n本模组扩展了 Create 6.0 的物流系统，新增了一套适用于各类流体的流体物流系统。\n\n## 物品\n\n- 流体包裹\n- 流体打包机、流体重装包机\n- 水龙头、智能水龙头\n- 流体运输机、智能漏斗\n- 流体接口、多流体访问端口\n- 多流体储罐、水平多流体储罐\n- 流体泵\n- 指针\n- 机械流体枪\n- 封闭式浸水树叶\n\n## 提示\n\n- **工厂仪表盘/红石请求器** - 按住 **Alt** 键并**右键点击**含有流体的物品以请求该流体。\n\n- **剪贴板** - 在剪贴板中输入包裹地址，随后**右键点击**打包机/重装包机以设置其地址。\n\n## 模组兼容\n- **JEI / EMI** —— 支持流体图标拖拽\n- **Jade / Cyber Goggles** —— 支持显示流体包裹信息\n- **Sable** —— 支持水龙头跨子层级注水\n- **Mobile Packages / Package Couriers / Phantom** —— 支持便携式行情牌请求流体\n- **Enchantment Industry** —— 支持水龙头附魔经验填充、包裹破坏掉落经验\n- **Kaleidoscope Tavern** —— 水龙头可连接炼药锅、龙首、蜂巢、蜂箱、西瓜等方块以释放特殊内容\n\n## 致谢\n\n- 资源包由 GALLIUM0202 制作",
+  "bodyHash": "d0b839bea2cd2983",
+  "content": "<div align=\"center\"><img width=\"512\" height=\"153\" alt=\"CREATE_FLUID_LOGISTICS\" src=\"https://github.com/user-attachments/assets/f5f943e5-c5e1-43be-a555-c9a561d7479a\" /></div>\n\n欢迎来到 Create FluidLogistic\n\n此模组扩展了 Create 6.0 的物流系统，添加了一种适合各种流体的流体物流系统。\n\n## 物品\n\n- 流体包\n- 流体包装机、流体重新包装机\n- 水龙头、智能水龙头\n- 流体运输机、智能漏斗\n- 流体闸门、多流体访问端口\n- 多流体罐、水平多流体罐\n- 流体泵\n- 手持指针\n- 机械流体枪\n- 封装的水浸树叶\n\n## 提示\n\n- **工厂刻度尺/红石请求器**：按住 **Alt** 并右键点击包含流体物品以请求流体。\n\n- **剪贴板**：在剪贴板中输入包裹地址，然后右键点击包装机/重新包装机以设置其地址。\n\n## 更多 Create 模组\n\n- [BetterSaw](https://modrinth.com/mod/create-bettersaw)\n- [Phantom](https://modrinth.com/mod/createphantom)\n- [Gears and Tavern](https://modrinth.com/mod/create-gears-and-tavern)\n\n## 致谢\n\n- GALLIUM0202 的资源包",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

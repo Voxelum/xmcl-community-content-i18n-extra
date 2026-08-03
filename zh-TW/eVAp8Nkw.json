@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8621f86a59f7f790",
+  "content": "# AE2 EMI 製作整合\n\n如實說明，不多餘。\n\n在 **[v:1.3.0]** 此模組是 __官方__ AppEng EMI 插件的完整移植。\n\nAppEng 終端中的物品會在 EMI 中顯示，並可用於製作。\n\n所有您期望從普通工作台獲得的 EMI 功能應該也能工作，包括但不限於：\n\n- 點按配方\n- 查看配方樹上可取得的物品\n- 來自 *所有可用庫存*（**包含**您的快捷欄）的物品支援\n- 標籤支援，優先使用您在 AE2 系統中最多的物品\n- **[v:1.2.1] 流體製作支援**\n- **[v:1.2.1] 從 EMI 拖拽物品支援**\n- **[v:1.2.1] 自動填充製作模式支援**\n- **[v:1.2.1] 自動填充加工模式支援（包含流體）**\n- **[v:1.3.0] AE2 和 EMI 搜尋同步**\n- **[v:1.3.0] 按 Ctrl + Click 請求現有製作模式**\n- **[v:1.3.0] 全級 Applied Energistics 2 配方支援**\n\n## 跨模組整合\n### **[v:1.3.0] [額外模組整合](https://modrinth.com/modextra-mod-integrations)**\n當發現 ExMI AE2 插件時，它將自動停用，以移除 Applied Energistics 中的重複配方。\n\n此模組有與 AE2 和 AE2WTLib 的整合。\n\n## 支援矩陣\n\n| Minecraft 版本       | AppEng2 | AE2WTLib |\n|----------------------|---------|----------|\n| 1.20.1 (Fabric)      | ✅       | ✅        |\n\n## 前期工作\n\n此列表為靈感或協助實現此模組的 mods 列表：\n\nleo60228 的 [emplied](https://modrinth.com/mod/emplied) - 模組最初的構想是要將 emplied 移植至最新版本，但經過再次審視，這並非我想要的。有助於理解 EMI 插件的布局以及如何設置插件入口點。\n\nChikage0o0 的 [emicompat](https://modrinth.com/mod/emicompat) - 幫助確定需要發送封包給 AE2 以利用系統物品進行製作，以及優先順序邏輯。\n\n## 提示\n\n要讓您的 AE2 搜尋與 EMI 同步，您可以使用 EMI 提供的 *runtime JEI 整合*。\n\n- ~~在您的 mod 資料夾中添加 [JEI](https://modrinth.com/mod/jei) (**不是 REI**) 並在終端設定中選擇 *與 JEI 同步*。~~ 自 1.3.0 起不再需要",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

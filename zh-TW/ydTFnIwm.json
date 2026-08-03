@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6fd38a8e5f88a65a",
+  "content": "[![買我一杯咖啡](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_Caesius_Leo-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/caesius_leo)\n\n# 什麼是 Oh My Vault！\n在原版《我的世界》中，試煉密寶箱每位玩家僅能開啟一次。許多人認為這不合理。此數據包/模組解決了該問題，使所有密寶箱可重複使用！\n有了 Oh My Vault！你可以無限次使用同一個密寶箱，告別漫長而枯燥的試煉密寶箱之旅！\n## 功能特性\n主手持有試煉鑰匙靠近密寶箱即可立即補充復位！\n若主手持有試煉鑰匙或其詭異變體版本，模組將在以玩家為中心的 3x3x3 立方體區域內檢測，請務必緊鄰密寶箱！\n隨後模組會刪除 `server_data.rewarded_players[0]`，使密寶箱「忘記」該玩家，從而可再次使用\n\n### 一個已打開的悲傷密寶箱\n![一個已打開的悲傷密寶箱](https://cdn.modrinth.com/data/cached_images/745adb79155302473af80f62423affb1f0fc8daa.png)\n### 只需站在附近持有鑰匙即可補充復位！\n![只需站在附近持有鑰匙即可補充復位！](https://cdn.modrinth.com/data/cached_images/ec8e9349eb2b18eccd84aa00d7bcd24c7858e6b1.png)\n### 再次右鍵點擊鑰匙打開密寶箱\n![右鍵點擊鑰匙再次打開密寶箱！更多戰利品等著我們！](https://cdn.modrinth.com/data/cached_images/a9a79953e0f22ae3a35bce075601877ae18a3d5e.png)\n\n## 技術與兼容性\n\"Oh My Vault!\" 是一個小型項目，同時提供數據包與模組版本，兼容原版環境，亦可與其他我的模組如《致命地牢》共用。\n只要其他模組未替換密寶箱或以關鍵方式修改其機制，本模組應能與幾乎所有模組共存。\n本模組為服務端運行，如需多人遊戲服務器必須安裝此模組。\n\n重要提示：在極大型服務器（例如 100-200 名玩家）中，為防止延遲增加，檢測過程可能會稍慢，可能需數秒鐘",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

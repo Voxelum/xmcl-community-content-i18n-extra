@@ -1,0 +1,6 @@
+{
+  "bodyHash": "ade746b927a8f969",
+  "content": "Animon SoundFix\n\nAnimon SoundFix 是一个客户端端的 Cobblemon 附加组件，设计用于与 Animon 资源包一起使用。它也可以与其他添加了自定义宝可梦环境音和叫声的 Cobblemon 资源包搭配使用。\n\n该模组可防止已拥有或正在对战的宝可梦同时播放其环境音和叫声，例如当它们被派出或播放叫声动画时。野生宝可梦仍可正常播放其环境音，保持世界生动感而不会产生重复音效。\n\n此外，它还添加了回退支持功能，适用于有叫声动画但没有正确 Cobblemon 声音触发器的宝可梦，使兼容的资源包叫声能够在原本不会播放的位置响起。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

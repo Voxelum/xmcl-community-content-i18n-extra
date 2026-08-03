@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4efd4638d2398fed",
+  "content": "此模组在两种 Vault 方块变体中加入了冷却功能：\n- 非阴森的 Vault 变体有 10 小时的实际生活冷却时间；\n- 阴森的 Vault 变体有 12 小时的实际生活冷却时间。\n\n**Vault 冷却机制：**\n- Vault 方块不需要始终加载，冷却会持续进行，即使玩家处于其他维度也一样。\n- 如果将模组添加到已打开 Vault 的世界中，它们仍然会获得冷却功能。\n- 每个玩家都有自己独立的冷却时间，与其他玩家的冷却无关，因此当一个玩家的冷却时间结束后，只有该玩家可以打开 Vault 方块，直到其他玩家的冷却也结束。\n\n**游戏规则：**\n- \"vaultBlockCooldown\" - 更改非阴森 Vault 变体的冷却时间\n- \"ominousVaultBlockCooldown\" - 更改阴森 Vault 变体的冷却时间",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

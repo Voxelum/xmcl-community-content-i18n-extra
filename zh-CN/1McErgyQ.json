@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b129e3054e146f35",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/3b3156fc204302bfeb63c42fdcaa228a45697f61.png)\n\n---\n\n## 功能:\n所有都可以通过 ModMenu 配置界面进行切换和调整。\n\n| 特性 | 描述 | 附加设置 |\n| --- | --- | --- |\n| **滚动倾斜** | 侧移时的震中风格相机倾斜。 | `最大滚动角度`, `滚动平滑度` |\n| **俯仰倾斜** | 向前/向后相机倾斜。 | `最大俯仰角度`, `俯仰平滑度` |\n| **视野** | 更多的自定义 FOV 选项。 | `蹲下乘数`, `正常乘数`, `冲刺乘数` |\n| ![creeper face](https://cdn.modrinth.com/data/cached_images/c38e6a5d96d063e06d95d32ef552f4d97dd03454.png)**苦力怕雷达**![warning](https://cdn.modrinth.com/data/cached_images/148a81fd0e5e17f39ecb0ba22467a3931b7cc5b3.png) | 在 5 块内检测苦力怕，如果有则显示图标。 | `填充`, `使用苦力怕图标`, `声音开关` |\n\n## 许可证：\nMIT",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

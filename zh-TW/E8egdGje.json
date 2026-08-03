@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fec3b73a256a1eee",
+  "content": "Revault 是一個數據包，它能使寶藏箱和詭異寶藏箱在一段時間後重新補貨。通常一旦一個寶藏箱被一名玩家打開，該玩家就不能再打開它，但 Revault 讓那個玩家在一段時間過后再打開它。\n\n- 支持單人和多人模式，適用於任意數量的玩家。\n- 每個玩家在打開寶藏箱時啟動一個計時器。當計時器結束后，啟動該計時器的玩家將再次被允許打開這個寶藏箱。\n- 計時器與遊戲時間掛鉤，因此即使在不加載的區塊中寶藏箱也會重新補貨（但如果世界/服務器暫停則不會）。\n- 寶藏箱上方將顯示煙霧粒子（類似於處於冷卻期的試煉生成器），這些粒子僅對处于冷卻期的玩家可見。\n- 默認情況下，普通寶藏箱需要 1 小時重新補貨，而詭異寶藏箱需要 5 小時。（作為參考，試煉生成器需要 30 分鐘）\n\n詳細信息請參見：[配置](#configuration)\n\n<details>\n<summary>設置方法</summary>\n\n您可以在世界內運行 `/function revault:gamerules` 指令後在聊天中修改遊戲規則。\n\n將重置時間設置為 -1 表示此種類型的寶藏箱將永遠不會重置。\n\n</details>\n\n<details>\n<summary>針對整合包製作者</summary>\n\n由於這是一個數據包，它沒有配置文件。  \n您可以在每個世界中通過修改/覆蓋函數  \n\"revault:default_gamerules\"來更改遊戲規則。  \n我建議觀看 [教程](https://www.youtube.com/watch?v=a_FWhep8hwk)。\n\n有關自定義遊戲規則的更多信息 [在這裏](https://www.youtube.com/watch?v=a_FWhep8hwk)。\n\n</details>\n\n---\n\n<details>\n<summary>安裝和卸載</summary>\n\n如果在創建世界時自動安裝，則會自動生效；  \n如果首次將 Revault 安裝到已有世界中，修復模式將會激活，這會導致所有之前打開過的寶藏箱重置；  \n如果你從舊版本升級到 Revault 1.3，且你的世界中存在在安裝 Revault 前已打開的寶藏箱，你應手動啓用修復模式：`/scoreboard players set RepairMode revault.time 1`；  \n卸載時，所有寶藏標記都會保留；  \n重新安裝時，本應已經解鎖的寶藏箱將全部解鎖。\n\n</details>\n\n---\n\n免費使用於任何平台上的任何整合包。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

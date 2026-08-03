@@ -1,0 +1,6 @@
+{
+  "bodyHash": "135900810863de9a",
+  "content": "## 冰与火修补器\n\n这是一个用于修复 [冰与火](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) 模组中一些关键错误和崩溃问题的模组。\n\n当前维护版本：1.16.5, 1.18.2, 1.19.2。\n\n由于玩家人数较少，已停止对 **1.15.2 & 1.17.1** 的维护。\n\n**1.20.1 停止维护，请改用 [IceAndFire CE](https://www.curseforge.com/minecraft/mc-mods/iceandfire-ce)。**\n\n## 当前修复内容：\n\n- 在主线程获取会使得 Citadel 启动缓慢。（现在运行在独立线程上）\n- 龙息会导致服务器严重卡顿。\n- 龙息粒子渲染错误\n- 标题屏的低能力以及恢复渲染褪色问题。\n- Model Animator 动画后不会清空缓存导致内存泄漏。\n- 重新加入世界后仙灵罐的颜色不正确。\n- 飞马飞得过高且吸力异常。\n- 火龙骨剑、火龙钢剑及工具无法烧制掉落物。\n\n## 增强功能\n\n- 添加 `iceandfire:pixie_stolen_blacklist` 标签。\n- 将一些金色物品添加到 `minecraft:piglin_loved` 标签中，使猪灵能够拾取它们。\n\n**在我们的 [Discord](https://discord.gg/NDzz2upqAk) 上报告你想要修复的错误**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

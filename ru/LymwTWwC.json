@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e04109ea1896429a",
+  "content": "# Bedtime / WCIFS\n\n[![Modrinth](https://img.shields.io/badge/dynamic/json?url=https://api.modrinth.com/v2/project/wcifs&query=$.downloads&suffix=%20Downloads&logo=modrinth&label=Modrinth)](https://modrinth.com/mod/wcifs/)\n## Что это делает\nПростой мод Bedtime / \"Когда я наконец смогу спать\" (WCIFS) показывает вам, сколько времени нужно ждать, пока вы сможете спать, когда нажимаете на кровать.\n\n![image](https://github.com/user-attachments/assets/bce72e3d-1179-44a5-b635-5ca382d4c596)\n\n## Поддерживаемые версии\n\n| Версия Minecraft | Статус |\n|------------------|--------|\n| 26.2             | Поддерживается |\n| 26.1 - 26.1.2    | Поддерживается |\n| 1.19.2 - 1.21.11 | Поддерживается |\n| 1.19 - 1.19.1    | Поддерживается |\n| 1.17 - 1.18.2    | Поддерживается |\n\nЭтот код лицензирован по [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

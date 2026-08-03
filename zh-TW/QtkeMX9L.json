@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5d66baee6c6b88b4",
+  "content": "這是 [Create: Connected by Lysine] 的 Fabric 移植版本（0）。所有權利歸 Lysine 所有。\n\n## ✅ 完整移植——完全實現了 Forge 1.1.13 版本的全部功能！\n\n這包括：\n- 所有動力齒輪組件（減速器、離合器、剪切銷、制動器、動力橋、動力電池、曲軸）\n- 所有 Copycat 方塊（磚板、方塊、梁、垂直階梯、階梯、柵欄、柵欄門、牆、木板）\n- 項目筒倉和流體容器\n- 構建行為和載具存儲\n- 序列脈沖發生器和控制晶片\n- 連接發射器和連接按鈕\n- 配置和功能開關系統\n- 風扇催化劑（所有類型）\n- 解釋、配方、進展和數據生成\n- 模塊兼容（Copycats+、額外放置）\n- Dedicated server 支持\n\n## 使用\n使用條件與原始模塊相同。\n\n## 問題\n對於 Fabric 專屬錯誤，請報告到此移植版本的倉庫。\n如果在 Forge 上也會出現的問題，請報告到 [上游倉庫] (1)。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

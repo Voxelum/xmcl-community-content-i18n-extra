@@ -1,0 +1,6 @@
+{
+  "bodyHash": "59365d1f9180f506",
+  "content": "[喜報-Forge](https://www.mcmod.cn/class/7186.html) 的 Fabric 移植版。\n\n**除此之外新增了3首喜悅音樂以及1首傷感小調，會在發佈喜報或悲報的同時播放**\n\n可切換喜報或悲報。\n\n可在目錄下配置文件 `xibao_plus_plus.properties`：\n\nplayMusic：是否播放音樂，預設已啟用；\n\nshowPicture：顯示喜報圖片，預設已啟用；\n\ndisplaySnow：灑花效果，預設未啟用；\n\ntype：(xibao | beibao)「喜報」或「悲報」，預設為喜報；\n\n![效果](https://cdn.modrinth.com/data/cached_images/9b8f4eed28965c5061070c0c9a90aec2bd92d6ed.webp)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

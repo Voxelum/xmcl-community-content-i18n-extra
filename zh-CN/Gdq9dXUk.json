@@ -1,0 +1,6 @@
+{
+  "bodyHash": "44c7a07abe762290",
+  "content": "# 适用于 Minecraft 的着色器，无 FPS 损失！\n\n## 新着色系统\n\n**- 针对 Sodium 兼容性（目前仅适用于 1.21.11-1.21.5 版本），此资源包需要 [Sodium 核心着色器支持模组](https://modrinth.com/mod/sodium-core-shader-support/versions)**\n\n![新着色效果](https://cdn.modrinth.com/data/cached_images/266a2ee5af7df8084e9124a8390ecf40f72049a7.webp) ![原版着色效果](https://cdn.modrinth.com/data/cached_images/c4f3f7bc5c81a810ee6466f50e485fc8f1584d8d.webp)\n\n**此资源包提供了与 Optifine 或 Iris Shaders 非常相似的游戏体验，以战略且广泛使用的方式在方块上绘制阴影。**\n\n[在 Ko-Fi 上支持我！（捐赠）](https://ko-fi.com/mcdr7)\n\n[Youtube 频道 ^^](https://www.youtube.com/@MC_DR7)\n\n[Discord 服务器！^^](https://discord.gg/drgJW28PJA)\n\n- 它不会造成 FPS 损失，对于希望在不损害电脑性能的前提下享受着色器的玩家来说是个很好的选择。\n\n- 同样适合那些偏好能够增强游戏原生美学、而不过于夸张的着色器的用户。\n\n- 照明平衡非常出色；洞穴光照可玩性高，阳光照射区域也不会过亮，使着色器保持悦目的视觉稳定性。\n\n- 此资源包基于核心着色器（如 terrain.fsh、entity.fsh、fog.glsl 等）运作，允许您在 Minecraft 中添加基础着色器或工具。\n\n- 非常感谢对本项目的支持。若获得持续支持，我将推出更多作品并进一步优化此款资源包。\n\n![v.1.3+ 如需 Sodium 支持，请使用 Sodium Core Shader Support mod https://modrinth.com/mod/sodium-core-shader-support/versions](https://cdn.modrinth.com/data/cached_images/3c49149f43d895286ef5db1586e56ec233f493b1.png)\n\n-DR7",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "71981ad09feb6e7a",
+  "content": "# 雪月核心\n\n### 项目介绍\n\n#### 1. 能力工具\n\n- 您可以使用极少的代码注册一项能力。它会自动同步到客户端。\n- **支持玩家和其他实体**\n\n#### 2. 玩家动画 API\n\n- **动画现在有组合功能！！您可以与其他玩家共舞。**\n\n- 您可以在服务器端通过 JSON 或事件注册图层。\n- 您可以在服务器端通过 JSON 或事件注册动画。\n- 您可以在客户端通过 JSON 或事件注册原始动画。\n- 您可以邀请其他玩家共同参与特定动画。\n- 您可以申请加入正在骑乘的其他玩家播放的动画。\n- 您可以请求某位玩家播放动画。\n\n#### 3. Patchouli 数据生成\n\n- 使用此模组，您可以生成一本完整的 Patchouli 书。\n\n## [Wiki: https://github.com/Zershyan/SnowyCrescentCore/wiki](https://github.com/Zershyan/SnowyCrescentCore/wiki)\n\n使用“ride”以第三人称视角播放动画。\n\n![使用 'ride' 以第三人称视角播放动画。](https://cdn.modrinth.com/data/cached_images/86d959a32af6ab2e75252bd11e4b927ea09c930c.gif)\n\n使用“ride”以第一人称视角播放动画。\n\n![使用 'ride' 以第一人称视角播放动画。](https://cdn.modrinth.com/data/cached_images/9bab74f54862646eb391cef7f059603bc91bea93.gif)\n\n华尔兹\n\n![华尔兹](https://cdn.modrinth.com/data/cached_images/0d79d7f4a821f5dbf4bd9fc4bbd2d0fc1693697c.gif)\n\n### 如何实现？\n\n​\t**在仓库中：**\n\n```java\nrepositories {\n\tmaven {\n\t\tname = \"Mafuyu404 Maven\"\n\t\turl = \"https://maven.sighs.cc/repository/maven-public/\"\n    }\n}\n```\n\n​\t**在依赖项中：**\n\n```java\ndependencies {\n\timplementation(\"io.zershyan:sccore:1.20.1-1.0.0\")\n}\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

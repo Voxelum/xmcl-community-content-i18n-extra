@@ -1,0 +1,6 @@
+{
+  "bodyHash": "51889c5cc5257830",
+  "content": "**注意：** 此模组需要 [Realistic Physics](https://modrinth.com/mod/realistic-physics) 才能安裝！\n\n**說明**\n---\n您是否對 Minecraft 中不現實的建築機制感到厭倦？或許您只是想破壞一些建築物並觀察它們倒塌？如果是這樣，這可能就是為您量身打造的模組！\n\n逼真的方塊物理系統是對 Minecraft 建築機制的真實重構，為您的世界增添新的挑戰感和沉浸感。每個方塊都擁有獨立的物理定義，包括其質量、支撐其他方塊的能力、脆弱性等諸多屬性。探索洞穴也變得更加危險，因為挖掘錯誤的方塊可能會導致洞穴頂部坍塌！\n\n**物理引擎**\n---\n根據您希望體驗更逼真還是更休閒的模式，有多種物理引擎可供選擇：\n\n- **真實模擬：** 最逼真的體驗（顯而易見）。\n- **簡單版：** 更加休閒的模式，僅在未連接任何物體時方塊才會掉落。\n- **舊版本：** 1.12.2-2.0.0 之前版本所使用的舊物理引擎。\n\n**主要功能**\n---\n<details>\n<summary>需要邏輯結構</summary>\n方塊和結構若未得到正確支撐（取決於物理引擎），將會掉落。</details>\n\n<details>\n<summary>兼容其他模组</summary>\n來自其他模组的方塊同樣受支持（需於配置文件中啟用）。</details>\n\n<details>\n<summary>洞穴增強算法</summary>\n開發了一種新的洞穴增強算法，以防止大型洞穴自行坍塌。但請注意，落石和滑坡仍然可能發生。</details>\n\n<details>\n<summary>性能優化</summary>\n性能已成為關鍵優先事項，確保此模组可在各類系統上運行，並提供相關配置選項。</details>\n\n<details>\n<summary>大量自訂化選項</summary>\n提供高度可自訂的配置文件，讓您幾乎可以調整任何參數。</details>\n\n\n<details>\n<summary>覆蓋原版物理效果</summary>\n此模组還可以修改或完全禁用原版的掉落方塊物理效果。</details>\n\n\n**相關模组**\n---\n為獲得更佳建議嘗試搭配由我開發的其他模组一起使用。\n\n- [Realistic Explosion Physics](https://modrinth.com/mod/realistic-explosion-physics)\n\n**重要提示**\n---\n- 如果您決定在此模组上使用現有世界檔案，請先備份這些檔案\n- 請檢查各版本的更新日誌，以免有影響您世界的變更",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

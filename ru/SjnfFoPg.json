@@ -1,0 +1,6 @@
+{
+  "bodyHash": "af9622a447566731",
+  "content": "Не все любят правило игры KeepInventory, не все любят играть без него. Теперь обе стороны могут быть счастливы.\n\n---\n\nKeepInventory можно включить для игрока с помощью команды \"keepinventoryfor\":\n\n`keepinventoryfor <username> enable/disable/query`\n\n\"enable\" включит это为目标，\"disable\" отключит это为目标， а \"query\" покажет, включено оно или нет для целевого игрока.\n\nПри включении он должен работать так же, как и правило игры. Инвентарь, опыт и голод сохраняются на смерть _только_ для этих игроков.\n\n---\n\nСовместимо с инвентарем (и связанными) из:\n  - Команды [\"The Aether\"](https://modrinth.com/mod/aether)\n  - HenkelMax's [\"GraveStone Mod\"](https://modrinth.com/mod/gravestone-mod)\n  - TheIllusiveC4's [\"Curios API\"](https://modrinth.com/mod/curios) \n  - Wisp Forest's [\"Accessories\"](https://modrinth.com/mod/accessories)\n\n---\n\nЭто мой первый опубликованный модуль, поэтому не стесняйтесь давать обратную связь и оставлять отчеты о модулях на странице GitHub этого модуля. Я проверил это много раз, но могут быть некоторые вещи, которые я пропустил.\n\nБудет рассмотрена совместимость с другими модулями в будущем, поэтому не стесняйтесь предлагать модули для этого также.",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

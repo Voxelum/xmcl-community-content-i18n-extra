@@ -1,0 +1,6 @@
+{
+  "bodyHash": "814f6fbde3b18b2a",
+  "content": "![山脈](https://cdn.modrinth.com/data/cached_images/779e75867bbff573f26e53a4b862be3d5dd4a81c.webp)\n\n## **關於**\n**Soft Imprints** 是一個高度可配置的客户端模組，它會在方塊上添加動態印記，這些印記作為實體移動時生成。\n\n## **功能**\n- 完全在客户端运行\n- 实体在支持的方塊上行走时留下可见的印记\n- 内置支持雪、雪层、沙和红沙的配置配置文件\n- 包含实时预览的游戏内配置屏幕\n- 可选基于模型的印记捕捉以获取更精确的形状\n\n## **配置**\n- 印记检查的刻率\n- 印记的外观和渲染样式\n- 缓存和性能限制\n- 基于边界框或模型的印记检测\n- 哪些实体可以留下印记\n- 哪些方块可以接收印记\n- 单独的配置文件和集成开关\n\n## **附加组件**\n<p align=\"left\">\n  <a href=\"https://modrinth.com/resourcepack/undergarden-imprints\">\n    <img \nsrc=\"https://cdn.modrinth.com/data/cached_images/da7e66562126aff01946b27f6a3746a66254806f.png\" height=\"125\" width=\"125\">\n  </a>\n  <a href=\"https://modrinth.com/resourcepack/faithful-imprints-32x\">\n    <img \nsrc=\"https://cdn.modrinth.com/data/cached_images/fab6497f3289ab41159ab68be60de7adf5dc15f6.png\" height=\"125\" width=\"125\">\n</a>\n \n  <a href=\"https://modrinth.com/resourcepack/faithful-imprints-64x\">\n    <img \nsrc=\"https://cdn.modrinth.com/data/cached_images/7c8e2c3d6f202a1ddac14d2a6f2d02ab2dce2e1f.png\" height=\"125\" width=\"125\">\n</a>\n</p>\n\n\n## **要求**\nFabric 版本需要 Fabric API",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

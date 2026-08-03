@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2f3db66505278b52",
+  "content": "CIT Resewn 在大型整合包中有兩個問題。首先，即使內容沒有變更，它仍會重新評估自訂物品紋理，這會在瀏覽大型庫存或 EMI 項目網格時造成不必要的 CPU 使用量。其次，它每個會話會洩漏超過 1 GB 的 RAM，因為它為每個 ItemStack 分配了物件，這些物件永遠不會被釋放。\n\n這是 [https://modrinth.com/mod/cit-resewn](https://modrinth.com/mod/cit-resewn) 的修正程式。\n\n**HTP CITOptimizer 做什麼？**\n\n緩存 CIT 評估結果，避免重複查找，並解決重大記憶體洩漏問題。\n大幅減少因消除每帧分配而產生的 GC 壓力。\n在瀏覽大型庫存或 EMI 項目網格時降低 CPU 使用量。\n\n您的客戶端將不再需要因為 CITResewn 導致長時間遊玩後凍結、崩潰或延遲而重新啟動。\n\n我們觀察到記憶體持續攀升，直到達到堆積限制，導致每日多次出現卡頓，尤其在伺服器重新登入時最為明顯。\n\n**HTP CITOptimizer 之前：**\n\n![before1](https://cdn.modrinth.com/data/cached_images/511e321150c72175a222ecebd1bd0d7d9af435db.png)\n![before2](https://cdn.modrinth.com/data/cached_images/35fd1c925a622c89b7fe522cf1a139a7bdf01da4.png)\n\n**HTP CITOptimizer 之後：**\n\n![after1](https://cdn.modrinth.com/data/cached_images/dc48e140a1afa69320e3afbcb1978508914321ae.png)\n![after2](https://cdn.modrinth.com/data/cached_images/9f14c5c151b82cb11e3730f697218f3a7a86c553.png)\n\n由 https://www.hacktheplanet.now 團隊製作",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

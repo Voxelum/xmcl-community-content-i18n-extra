@@ -1,6 +1,6 @@
 {
-  "bodyHash": "H5u5wzMYfbY=",
-  "content": "## Описание\nДатапак или мод добавляет автоматический таймер для скоростного прохождения.\n\n![предпросмотр](https://cdn.modrinth.com/data/cached_images/d9867732532fa9b826e20b799046590c3eb9973a.jpeg)\n\n## Как использовать\nТаймер активируется автоматически при входе в мир. Таймер останавливается, когда вы входите в портал конца.\n\n## Зависимости\n- Fabric Loader требует [Fabric API](https://modrinth.com/mod/fabric-api)",
+  "bodyHash": "eefa3037d1d3b19e",
+  "content": "## Описание\nДатпакс или мод добавляет автоматический таймер для спиринга.\n\n![предпросмотр](https://cdn.modrinth.com/data/cached_images/d9867732532fa9b826e20b799046590c3eb9973a.jpeg)\n\n## Как использовать\nТаймер активируется автоматически при входе в мир. Таймер останавливается, когда вы входите в портал_End.\n\n## Зависимости\n- Fabric loader требует [Fabric API](https://modrinth.com/mod/fabric-api)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

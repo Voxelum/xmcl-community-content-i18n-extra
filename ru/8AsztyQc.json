@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a92124862f616905",
+  "content": "Модификация для модели и текстур, которая делает мобов из [More Mob Variants](/mod/more-mob-variants) совместимыми с последними возможностями [Fresh Animations](/resourcepack/fresh-animations).\n\nПакет содержит изменения текстур мобов мода, а также изменения моделей Fresh Animations.\n\nТребуется Optifine или EntityModelTextures+EntityModelFeatures для работы модели. Убедитесь, что этот пакет размещен /выше/ Fresh Animations.\n\nПримечание: пока нет совместимости с изменениями моделей температурных вариаций, но для пользователей более новых версий игры или модов обратной совместимости Vanilla эта функция скоро появится!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

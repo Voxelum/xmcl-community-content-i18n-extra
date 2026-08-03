@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7871a77ada22e145",
+  "content": "<h1>更好的相機 — Roblox風格的Minecraft相機系統</h1>\n<h1><strong>請務必<a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fmod%252fbetter-camera\" target=\"_blank\" rel=\"nofollow\">訪問Modrinth</a>下載最新版本mod。<strong>我懶得上傳至CurseForge</strong></strong></h1>\n<p><strong>Better Camera</strong>是一款輕量高效能的客戶端Fabric mod，完全重構了Minecraft的相機物理，貼近Roblox的流暢體驗。它將標準切換簡化為兩種核心視角（第一人称第三人稱軌道），並引入高級功能。</p>\n<h3>🌟 特色：</h3>\n<ul>\n<li>🎥 <strong>軌道相機</strong>：第三人稱模式下可自由環繞角色轉動，無需旋轉玩家模型；僅在移動時使玩家面向行走方向。</li>\n<li>🔍 <strong>無縫滾輪縮放</strong>：可從第一人称一直縮放至15格遠，平滑距離插值（平滑縮放）。</li>\n<li>👤 <strong>平滑玩家漸隱</strong>：當相機靠近頭部時，玩家身體、armor、披風及特徵會平滑消失，實現極致的第一人称過渡。</li>\n<li>🔒 <strong>Shift鎖定(L-CTRL切換)</strong>：切換至肩後鏡頭，鎖定玩家身體與相機偏航角以方便側移戰鬥，並繪製平滑褪色的圓形精準光標。</li>\n<li>⚙️ <strong>遊戲內設置</strong>：通過選項屏幕右上角按鈕或隨時按<strong><code>K</code></strong>調出設置。即時調整第一人称縮放、Ctrl鎖定能力和切換轉場效果。</li>\n<li>⚠️ <strong>多人安全機制</strong>：進入多人服務器前彈出提示窗口，若需要可安全關閉Ctrl鎖定功能。</li>\n</ul>\n<h1><a href=\"https://discord.gg/DYENTdNR76\" target=\"_blank\" rel=\"nofollow\">加入我們的Discord！</a></h1>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

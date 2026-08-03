@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c093864a561ff548",
+  "content": "![](https://i.imgur.com/Le7cALn.png)\n\nForge 1.13+ 使用 Forge 團隊的 [CoreMods](https://github.com/MinecraftForge/CoreMods) 專案，而非 Sponge 團隊的 [Mixin](https://github.com/SpongePowered/Mixin) 專案。\n\nForge 1.12 使用 Sponge 團隊的 [Mixin](https://github.com/SpongePowered/Mixin) 專案，不需要 [MixinBootstrap](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap)。\n\n若您在 1.12 版本遇到崩潰問題，您可能需要 [MixinCompat](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility) 或依照 [here](https://github.com/LXGaming/MixinBootstrap/issues/38) 的說明重新命名 [MixinBootstrap](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap)。\n\n#### 其他模組：\n- [Durability Viewer (LiteLoader 1.7.10-1.8.9)](https://minecraft.curseforge.com/projects/durability-viewer)\n- [Durability101 (Vanilla, ML, and Forge 1.3.2-1.6.2)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285383-1-6-2-jul-13-durability101-hotbar-visible-use)\n\n[請任意用於任何模組包](https://www.curseforge.com/minecraft/mc-mods/durability101)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

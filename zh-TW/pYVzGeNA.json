@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2ea12b903e4628f",
+  "content": "### <center>一個輕量化的模组，讓**所有生物都掉落它們所攜帶的物品**。</center>\n\n<center>Inspired by Better Than Wolves, it restores straightforward loot logic:  \nif a mob had it, you can pick it up.</center>\n\n---\n\n## ⚔️ 概述\n生物在被殺時會掉落其**裝備物品**和**經驗值**，包括：\n- 武器  \n- 工具  \n- 盔甲  \n- 副手物品  \n\n---\n\n## ⚙️ 功能\n- **一致的裝備掉落** – 每個生物都會掉落其當前裝備的物品。  \n- **可靠的經驗值** – 無論死因如何，生物總是會掉落經驗值。\n---\n\n## 🔧 設定（透過模组選單）\n調整掉落行為：\n\n### **總是掉落裝備**\n- 切換是否讓生物總是掉落其裝備。\n\n### **總是掉落經驗值**\n- 切換是否讓生物總是掉落經驗值。\n\n---\n\n## 🧱 致谢\n此模组移植自经典模组 **Better Than Wolves**，  \n最初由 **FlowerChild** 創建，並由 **CE Team** 維護。  \n👉 [**Better Than Wolves 官方網站**](https://btwce.com/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "bfe5371713756090",
+  "content": "此模组添加了一些用于传送的命令。\n\n用法：`/tpmaster <操作> [<参数1> <参数2> ...]`。\n\n- `/tpmaster accept` - 接受您刚刚收到的传送请求。\n- `/tpmaster deny` - 拒绝您刚刚收到的传送请求。\n- `/tpmaster away [<距离> [是否在地面]]` - 随机将您传送至距离 <distance> 个方块的位置（关闭 `<mustOnLand>` 可在水下位置进行传送）。\n- `/tpmaster request <目标> [邀请 | 请求]` - 创建一条请求，询问 <target> 是否可以传送到其所在位置，或邀请 <target> 前来您当前所在位置。\n- `/tpmaster spawn` - 传送至共享出生点。\n- `/tpmaster sethome [<索引>]` - 将当前位置设为您的家 <index>。\n- `/tpmaster home [<索引>]` - 传送到您的位置 <index>。\n- `/tpmaster back` - 传回到您上一次死亡的位置。\n- `/tpmaster remove home [<索引>]` - 删除您的家 <index>。\n- `/tpmaster remove back` - 删除您上一次死亡的位置。\n- `/tpmaster help` - 显示帮助信息。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "69dc881863306b5d",
+  "content": "Vulkanite 是一个允许着色器使用硬件光线追踪（RT核心）来渲染《我的世界》的模组（与《我的世界 RTX》版使用的相同技术）。\n\n# 警告\n此模组处于极早期开发阶段，极其不稳定且占用大量显存，存在很多问题，请勿在正常游戏过程中使用。\n\n# 兼容性\nNvidia RTX 及以上显卡支持；具有软件渲染管线、更老旧的显卡可能有用也可能没用，未经过测试，未来会逐渐改善支持。\nAMD 驱动程序版本 22.7.1 及以后不支持 OpenGL Vulkan 互操作。\nIntel Arc 的支持情况和测试状态尚未知。\n\n## 示例着色器包\n[Balints demo shader pack](https://modrinth.com/shader/vulkanite-demo-pack)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

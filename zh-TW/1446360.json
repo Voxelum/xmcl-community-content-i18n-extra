@@ -1,0 +1,6 @@
+{
+  "bodyHash": "11292e19d7668749",
+  "content": "<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/darkspawn\" target=\"_blank\" rel=\"nofollow\">DarkSpawn</a> 数据包，用於更改生成座標。</p>\n<p><strong>指示</strong></p>\n<p>使用如 Notepad++ 的文字編輯器並編輯以下檔案：</p>\n<p>data/darkspawn/functions/darkspawntick.mcfunction (請注意第 3 行)</p>\n<p>將座標從 `20 100 20` 改為您想要的任何值，並將此數據包上傳到您世界的 'datapacks' 資料夾中。<br>伺服器用戶請務必重新啟動您的伺服器或使用 /reload 以使更改生效。</p>\n<p>&nbsp;</p>\n<p><a href=\"https://discord.gg/uCPfPBvsRJ\" target=\"_blank\" rel=\"nofollow\"><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"https://media.forgecdn.net/attachments/958/418/join-discord.png\" alt=\"\" width=\"598\" height=\"187\"></a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

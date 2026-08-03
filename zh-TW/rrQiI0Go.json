@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6e02fcaca4343e05",
+  "content": "# 按 C 來縮放\n\n一個簡單、輕量且回應迅速的 Minecraft 放大功能模組。\n\n![Simple Zoom Telescope Icon](https://cdn.modrinth.com/data/cached_images/1b23879772866e69fe5c2567fe22e3ed7ba55e36_0.webp) width=\"300\">\n\n## 特色\n- **流暢縮放**：按下 **C**（預設設定）即可享有順滑的放大動畫。\n- **滾輪控制**：在按住放大鍵的同時，使用**滑鼠滾輪**調整放大倍率（從 1x 到 100x）。\n- **動態敏感度**：滑鼠敏感度會隨著你的放大倍率自動調整，讓你能夠精確瞄準或觀察。\n- **僅限客戶端**：此模組完全基於客戶端運作，你可以於任何伺服器上使用！\n\n## 使用方法\n1. 安裝 **Press C to Zoom**。\n2. 啟動 Minecraft。\n3. 按住 **C** 進行縮放！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "164c1902e1b3e8a8",
+  "content": "這個模組旨在實現最簡單、最符合原版風格的版本，不添加新物品且對遊戲平衡影響甚微。這是讓遊戲感覺更完整的一個小優化。它也鼓勵玩家在永久建築中嘗試 Minecraft 提供的多種美觀照明選項！\n\n- 火把每次 randomTick 可配置為有機率 **熄滅**。（預設相當於小麥完全生長的成長時間，但您可調整為任意長度）\n\n- 燒燬的火把可選擇性地用打火石重新點燃。\n\n- 水下放置的火把會被水浸沒並立即熄滅。\n\n- 自然生成的火把不會被觸發，以避免改變原版的氛圍。\n\nAdding compat for modded torches should be pretty easy. Let me know if there are any you'd like support for, and also check out [Hardcore Torches](https://modrinth.com/mod/hardcore-torches), [Realistic Torches [Plus]](https://modrinth.com/mod/realistic-torches-plus), and [Totally Lit](https://modrinth.com/mod/totally-lit/versions) if they're available for your version!",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

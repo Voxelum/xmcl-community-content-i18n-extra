@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dcc88605d3d4f03d",
+  "content": "# 抑制器\n\n抑制器是一個小型模組，使用 mixins 來允許你禁用許多不同的 wynntils 數據提取功能。\n禁用這些功能會破壞 wynntils 的某些功能，但通常不會造成重大影響（例如禁用隊伍數據提取會破壞隊伍自動加入）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "eb741a8f735d5417",
+  "content": "### 概述\n\n这是一个 [Tetra](https://modrinth.com/mod/tetra) 模组插件，提供多种木材变体（当然包括模组添加的木材）的工作台。  \n你应该拥有一个与环境匹配的美观工作台。  \n\n### 立即解答您的疑问：\n\n\\> *如何在游戏中获取这些？*  \n使用 Tetra 右击桦木工作台可获取桦木工作台；右击枫木工作台可获取枫木工作台。  \n\n\\> *...所以依赖更多模组？*  \n是的。我们需要转换工作台来生成对应的变体工作台，而本模组并不添加这些方块。  \n[Workshop for handsome adventurer](https://modrinth.com/mod/workshop-for-handsome-adventurer) 会提供我们所需的（ objectively awesome）工作台模组。更重要的是，Workshop 支持通过您模组包中几乎所有的木材类型（几乎全部）制作方块，而本模组依赖这一系统。  \n\n\\> *支持哪些生物群系模组？*  \n支持。  \n\n\\> *仅添加一种木材类型的模组？哪些支持？*  \n支持（如果是完整木材套装（含台阶和剥皮原木），则很可能支持）。  \n\n\\> *那么我是否必须在添加此模组后也必须添加这个 [workshop] (2)*？  \n你这有什么毛病？好吧，可以……但仅限原生木材，且对于这类情况需要其他模组提供工作台（变体工作台、更多工作台……）。这将正常运行。  \n但 Workshop 会自动在所有（*）您模组包中的木材类型中添加优质的工作台和 Tetra 工作台。  \n\n\n请使用 [discord](https://discord.gg/2VayYKktvx) 报告问题。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

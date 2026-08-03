@@ -1,0 +1,6 @@
+{
+  "bodyHash": "80d47674fd852739",
+  "content": "# Лимит Богатых Яблок\n\nОграничивает количество богатых яблок, которые игрок может иметь в инвентаре одновременно. \n\nПо умолчанию лимит равен 5.\n\n## Команды\n\n`/trigger ReclaimGodApple` восстанавливает богатое яблоко после его забора\n\n**Требует OP**:\n\n`/scoreboard players set GodApple_Limit GodApples (число)` установка лимита на определенное число\n`/scoreboard players set (игрок) AllowGodAppleLimitBypass 1` разрешить игроку иметь больше богатых яблок, чем лимит\n`/scoreboard players set (игрок) AllowGodAppleLimitBypass 0` запретить игроку иметь больше богатых яблок, чем лимит",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1dc8c7f2f2077d04",
+  "content": "# Анти-магика: Эфир\n\nДополнительная совместимость для Анти-магики и Эфира.\n\nЕсли включено в активном поле, это дополнение блокирует перемещение через порталы Эфира и подавляет_supported_ способности оружия и снаряды.\n\n## Требования\n\n- Анти-магика Ядро\n- Эфир\n- Minecraft Java Edition 1.21.1\n- NeoForge 21.1.x\n- Требуется как на клиенте, так и на сервере\n\n## Категории\n\n```text\n/block antimagick_aether:portal_travel\n/block antimagick_aether:weapon_abilities\n```",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e0c528826d377e66",
+  "content": "這是一個非官方分支 [Continuity](https://modrinth.com/mod/continuity) 模組，為該模組增添了新的 CTM 屬性 'connect_to_tag' 和 'connect_to_state'，並需配合 [WesterosBlocks](https://modrinth.com/mod/westerosblocks) 使用。如果您不使用 WesterosBlocks，則無需此模組。\n\n`connect_to_state` 僅當相鄰兩個同類型區塊對該屬性的值相同時才會連接。\n\n`connect_to_tag` 讓 ctm 可透過標籤進行連接。\n\n所有 Credit 都歸於原作者 Pepper_Bell。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "51f0293739d9d28b",
+  "content": "<p>此模組增加了更多剪貼簿的便利性功能。</p>\n<p>目前可用的：</p>\n<ul>\n<li><strong>在物品上按 Ctrl+C：</strong>複製它（包含標籤）</li>\n<li><strong>在槽位上按 Ctrl+V：</strong>貼上已複製的物品（需要伺服器或創造模式），也可以貼上已複製的識別符</li>\n<li><strong>在物品上按 Ctrl+Shift+C：</strong>複製物品名稱</li>\n<li><strong>在物品上按 Ctrl+Alt+C：</strong>複製物品識別符</li>\n</ul>\n<p><img src=\"https://cdn.modrinth.com/data/UrXTn929/images/2bf0fc248ac57f9b92c5f7d0a01734cae7eb4fd3.gif\" alt=\"\"/></p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

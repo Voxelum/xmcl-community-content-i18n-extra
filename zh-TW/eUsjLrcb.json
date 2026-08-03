@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5acb338626a3284d",
+  "content": "# `Leavesly`\n\n在 Bedrock Edition 中，有一個獨家功能會在下雪時將部分葉子變為白色。Leavesly 將此功能帶入 Java Edition 並增強了以下內容：\n- 降雪將會影響所有葉子、藤蔓和一些特定植物，例如短草、蕨類、高草和大蕨類。\n- 根據暴露於天光和區塊光的程度，有不同的積雪覆蓋等級。\n- 葉子的附加物（花朵和水果）不受影響。\n- 叢林葉現在有可可豆（[Podded Jungle Leaves](https://github.com/ishikyoo/podded-jungle-leaves)）。\n- 完全可自訂，包括雪覆蓋層、葉子顏色等都可以調整。\n\n**Leavesly 也可以通過以下內容下載安裝：**\n\n[![GitHub Downloads](https://img.shields.io/github/downloads/ishikyoo/leavesly/total?style=for-the-badge&logo=github&color=F5F5F5)](https://github.com/ishikyoo/leavesly/releases)\n[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1109585?style=for-the-badge&logo=curseforge&color=F16436&)](https://www.curseforge.com/minecraft/mc-mods/leavesly)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

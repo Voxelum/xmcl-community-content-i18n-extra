@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0daaeca0503af8a9",
+  "content": "# 你的所有可食用物品一站式商店\n\n许多食物会以状态效果的形式为玩家提供增益。然而，这些效果在游戏内从未列出。这尤其令人困扰，尤其是在模组环境中，玩家可能不熟悉所有食物选项及其效果。\n\n使用“食物效果提示”，所有效果都将显示在物品提示中！\n- 完全客户端处理\n- 处理仅有百分 chance 应用的效果\n- 显示效果带来的属性变化\n- 与其他显示食物信息的模组兼容，例如 AppleSkin\n- 还列出了清除状态效果（如牛奶）、传送（如合唱之花）、蘑菇汤以及死亡时触发效果（如不死图腾）物品的效果\n- 与其它模组完全兼容\n\n## 工作原理\n该模组读取悬停物品的组件，解析其数据并显示在提示中。从 v2.0.0 起，FoodEffectTooltips 支持：\n- `consume_component`\n  - `apply_effects`\n  - `remove_effects`\n  - `clear_all_effects`\n  - `teleport_randomly`\n- `death_protection`\n- `suspicious_stew_effects`\n\n![常规效果](https://cdn.modrinth.com/data/GGfyJWnG/images/f22e5fa3013611fb5588662696aa929c1a96b93b.png)\n\n![% 效果](https://cdn.modrinth.com/data/GGfyJWnG/images/531ff1e28c210beab319cdb192685e1552c878f2.png)\n\n![属性变化](https://cdn.modrinth.com/data/GGfyJWnG/images/d61df6d59442ba3dece1711e6e423d62a826e3bc.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

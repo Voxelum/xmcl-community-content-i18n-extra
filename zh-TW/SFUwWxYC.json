@@ -1,0 +1,6 @@
+{
+  "bodyHash": "225f1d121a9ea4f2",
+  "content": "# 水淹床\n\n喜歡在水下建造，但總覺得少了一塊嗎？因為你的床周圍總有討厭的氣囊嗎？\n\n此模組可讓床變得水淹以解決此問題。\n\n### 使用方式\n\n此模組需同時安裝於客戶端和伺服器才能正常運作。將它加入兩個 mods 資料夾即可，不需要其他依賴項。不過此模組採用 Java 17，因此請確保至少使用 Java 17 版本。\n\nFabric 未提供 1.14 以下版本的中介軟體，因此此模組改用 [Ornithe](https://ornithemc.net) 替代。\n\n### 授權\n\n本模組以 GNU 通用公共授權第二版（LGPL），版本 3.0 或（依您選擇）任何更高版本進行授權。\n請查看 [LICENSE](<https://codeberg.org/owlsys/waterlogged-beds/src/branch/main/LICENSE>) 檔案以獲取更多資訊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

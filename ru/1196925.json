@@ -1,6 +1,6 @@
 {
-  "bodyHash": "M9eX9TbPRSo=",
-  "content": "<p>Этот мод удаляет сердца и слои брони, добавленные модом <a href=\"https://www.curseforge.com/minecraft/mc-mods/the-undergarden\" target=\"_blank\" rel=\"nofollow\">The Undergarden</a>.</p><p>Он является отличным визуальным улучшением для случаев, когда вам нужно очистить интерфейс без его общего изменения. Однако имейте в виду, что он может сильно тормозить, если:<br>-у вас десятки тысяч сердец<br>-у вас десятки тысяч элементов брони</p><p>Этот мод может стать менее полезным, если:<br>-у вас установлен другой мод для отображения здоровья, например <a href=\"https://www.curseforge.com/minecraft/mc-mods/parties\" target=\"_blank\" rel=\"nofollow\">Parties</a>.</p><p>Этот мод исправляет эту проблему и убирает сам рендеринг!</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "bodyHash": "43bdbaef00e7e6f5",
+  "content": "<p>Этот мод удаляет слои сердец и брони, добавленные модом <a href=\"https://www.curseforge.com/minecraft/mc-mods/the-undergarden\" target=\"_blank\" rel=\"nofollow\">The Undergarden</a>.</p>\n<p>Это отличное визуальное улучшение для случаев, когда вы хотите очистить интерфейс, не изменяя его в целом. Однако имейте в виду, что он может вызвать значительную лагг-проблему, если:<br>-у вас десятки тысяч сердец<br>-у вас десятки тысяч предметов брони</p>\n<p>Этот мод может стать менее полезным, если:<br>-у вас установлен другой мод отображения здоровья, такой как <a href=\"https://www.curseforge.com/minecraft/mc-mods/parties\" target=\"_blank\" rel=\"nofollow\">Parties</a>.</p>\n<p>Этот мод исправляет это и удаляет отображение!</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

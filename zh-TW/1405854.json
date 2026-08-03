@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8901b06e38072a16",
+  "content": "<h1>關於</h1>\n<p>此 MOD 修復了一個問題：在 1.21 版本後加入的某些結構中的寶箱會被啟用，導致玩家無法獲取 loot。<br>通常情況下，當玩家接近寶箱時便會激活，並可使用（不祥）試探鑰匙來獲取 loot。但由 MODs 所加入的結構中的寶箱即使被接近也可能不會激活，從而阻止了 loot 的獲取。</p>\n<p>此 mod 解決了寶箱在接近時無法激活的問題。</p>\n<h2>MODs/Datapacks 適用範圍</h2>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/tower-of-chambers\" target=\"_blank\" rel=\"nofollow\">塔之房間 (Tower of Chambers)</a></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/city-of-chambers\" target=\"_blank\" rel=\"nofollow\">城鎮之房間 (City of Chambers)</a></p>\n<p><a href=\"/linkout?remoteUrl=https%253a%252f%252fmodrinth.com%252fdatapack%252ftrial-airship\" target=\"_blank\" rel=\"nofollow\">試探空艇 (Trial Airship)</a></p>\n<h1>配置</h1>\n<h2>canOverrideIntervalTime</h2>\n<p>如果激活時間超過 X tick 則進行修復。（預設值：200）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

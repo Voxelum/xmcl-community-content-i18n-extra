@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5361ef53f3157548",
+  "content": "### ❗我強烈推薦使用數據包版本以獲得最佳體驗\n# \n**我的其他裝飾性數據包：**\n> 🛏️ 旗幟床罩：https://modrinth.com/datapack/banner-bedsheets\n> \n> 💤 園藝夢境：https://modrinth.com/datapack/gardeners-dream\n\n# 旗幟 🏳️  \n自從加入旗幟以來，我一直希望像掛旗幟一樣水平放置它們。現在我已通過此數據包實現此功能！\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/hXGMIIB3e5Q\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## 🚩功能列表：\n- 可在8個方向放置旗幟！\n- 使用您放置的精確旗幟設計\n- 拆除所放置的方塊以移除並回收您的旗幟\n- 在相同方塊上可以放置多個！\n- 支持多人模式且對生存友好！\n- 可以使旗幟更大、旋轉、翻轉，甚至讓它們隨風飄揚！\n- 詳細功能說明請查看進階頁面。\n\n## ⛳支持的方塊：\n- 柵欄\n- 牆\n- 玻璃板\n- 鐵和銅製欄杆\n- 鐵和銅鏈\n- 避雷針\n- 竹子莖\n- 末影桿\n\n## 🤔使用方法：\n蹲下並在任一支持方塊上點擊旗幟以將旗幟作為旗幟放置！拆除其放置之方塊即可移除。\n\n在旗幟桿附近持有鑽石時蹲下可增大旗幟大小！拆除旗幟時會收回鑽石。\n\n在旗幟桿附近持有木棍時蹲下可翻轉旗幟！將木棍置於副手以旋轉旗幟。\n\n在旗幟桿附近持有羽毛時蹲下可使旗幟飄動。\n\n## ❗管理員專用\n如果您的伺服器啟用地面保護，请使用以下命令：\n\n'/function bannerflags:delay_on'  \n\n這將在放置旗幟時添加延遲，防止玩家在保護區域內放置旗幟。\n\n性能已優化並經過測試，不會引起任何問題。\n\n## ❌卸載方法：\n如果您最終不喜歡此數據包，可按以下方式移除旗幟：\n- 手工逐一拆除所有放置了旗幟的方塊以回收旗幟。\n或者\n- 輸入 /function bannerflags:removeall（但無法回收旗幟）。\n\n## ❕概述：\n此數據包大幅擴展了在 Minecraft 中使用旗幟的方式，例如用於裝飾、敘述故事以及指示方向。\n如有任何疑問、問題或建議，歡迎在 Discord 私訊給我 @Gurkis",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

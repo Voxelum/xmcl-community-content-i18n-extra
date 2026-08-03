@@ -1,6 +1,6 @@
 {
-  "bodyHash": "2wZ4nzmKpf8=",
-  "content": "<p>在1.13+版本中，Forge引入了可以在世界文件夹中找到的ServerConfigs。</p><p>由于它们位于世界文件夹中，导致在初始生成后无法更新它们。</p><p>&nbsp;</p><p>这个模组允许你在世界加载时有选择地删除ServerConfigs，从而使它们从defaultconfig文件夹中重新生成。</p><p>&nbsp;</p><p>要使用此功能，请在配置中添加一个新版本，并指定你想要更新的serverconfigs的modID。</p><p>新版本在游戏加载和世界加载时会被集成到版本历史中。模组会在世界目录中保存一个版本号，并应用版本历史中的所有相关更改。</p><p>&nbsp;</p><p>&nbsp;</p><p>有问题吗？请在我的Discord上提问<br><a href=\"https://discord.gg/fdvYUCvezx\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/fdvYUCvezx</a></p>",
+  "bodyHash": "0799295af751197a",
+  "content": "<p>在 1.13+ 版本中，Forge 引入了可以在世界文件夹内找到的服务器配置文件。</p>\n<p>由于这些文件位于世界文件夹中，因此它们在初始生成后无法更新。</p>\n<p>&nbsp;</p>\n<p>该模组允许您在选择性删除加载时世界中的服务器配置文件。这将使它们从 defaultconfig 文件夹重新生成。</p>\n<p>&nbsp;</p>\n<p>要使用，请在配置中添加一个新的版本，并指定您想更新的服务器配置文件的 modID。</p>\n<p>新版本会在游戏加载和世界加载时集成到版本历史中。该模组会在世界目录中保存一个版本号，并从版本历史应用所有相关更改。</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>有问题？在我的 Discord 上提问<br><a href=\"https://discord.gg/fdvYUCvezx\" target=\"_blank\" rel=\"nofollow\">https://discord.gg/fdvYUCvezx</a></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

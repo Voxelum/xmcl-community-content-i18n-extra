@@ -1,0 +1,6 @@
+{
+  "bodyHash": "360a58fe8f6d0923",
+  "content": "# 錄像帶\n\n[開發中]\n\n[2025.12.01]\n更新：目前版本 (1.5.1) 稍微更為完善，然而與我對此項目的期待仍有距離。該模組將在下一個發布版本中改變其當前策略。我仍在努力尋找一種不會干擾到嚴肅項目（如 Sodium）的方法。\n\n## 功能\n\n[即將推出]\n\n### 修復的問題 (1.2.1)\n\n- `GL_FRAMEBUFFER_INCOMPLETE_ATTACHMENT`\n- `GL_INVALID_FRAMEBUFFER_OPERATION`\n- `GL_OUT_OF_MEMORY`\n\n## 安裝\n\nVideo Tape 發佈於 Modrinth。\n\n> ![警告](https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg) <br> 您需要下載並安裝 Fabric Loader 以使用此模組。如果所用的啟動器已安裝載入器，則無需此步驟。\n\n請將其放置在以下路徑以使用它：`.minecraft/mods/videotape-[version].jar`\n\n### 不相容性\n\n- [Vulkan 渲染器](https://modrinth.com/mod/vulkanmod)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

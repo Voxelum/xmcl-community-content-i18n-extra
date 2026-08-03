@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5eb9798070b2c8f7",
+  "content": "<h1>停用合規通知</h1>\n<p>此模组针对韩国用户停用合規通知。</p>\n<h2>什么是合規通知？</h2>\n<p>由于存在一些韩国游戏法律，若游戏联网（可联网），则需每小时向玩家提示游戏时长。</p>\n<p>基岩版已在Xbox通知（除PlayStation所有平台）和PlayStation主机范围内通知中实现了这一功能。截至1.18.2，Mojang决定在Java版中采用自有实现来执行此功能。</p>\n<p><img src=\"https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Regional_compliancies_notification_1_hour.png\" alt=\"示例\"></p>\n<ul>\n<li>依据韩国游戏法律，向韩国用户添加游戏玩法计时器和提示，以提醒这些玩家适时休息。</li>\n</ul>\n<p>图片及引用来源：<a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraft.wiki%252fwiki%252fJava_Edition_1.18.2%2523General\" target=\"_blank\" rel=\"nofollow\">Minecraft 维基</a></p>\n<p>自<strong>v1.6.0</strong>起，已移除版本匹配要求。（得益于消除混淆）这意味着除非Mojang/模组加载器进行破坏性内部更改，否则新版本的Minecraft将保持支持。（例如，26.2的构建仍可在26.3-snapshot.4上与Fabric兼容）</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

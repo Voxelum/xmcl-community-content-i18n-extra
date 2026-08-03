@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a91c7e20c053143b",
+  "content": "<p>GhostChat 是一個私人的聊天功能，利用角色的皮膚層來無形地傳輸訊息給使用相同功能的玩家。</p>\n<p>&nbsp;</p>\n<p><strong>特點：</strong></p>\n<ul>\n<li><strong>真正的私密性：</strong>一個完全私密的聊天通道。只有你和其他的用戶能看見你的消息。你的溝通不會經過第三方伺服器。</li>\n<li><strong>原版協議：</strong>通過切換皮膚層來傳輸數據，達成溝通的目的。</li>\n<li><strong>基於接近度：</strong>其性質本來就是限距離的。只有伺服器渲染距離內的玩家才能收到你的消息，對於本地協作非常理想。</li>\n<li><strong>使用者發現：</strong>使用&nbsp;<code>/ghost near</code>&nbsp;命令掃描附近也在使用此功能的玩家。</li>\n<li><strong>僅為客戶端：</strong>不需要在伺服器上安裝任何東西，完全是客戶端的。</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>使用方法：</strong></p>\n<ol>\n<li>確保至少有一個使用此功能的玩家在繪製距離內。</li>\n<li>使用&nbsp;<code>/ghost toggle</code>&nbsp;將聊天輸入切換到 GhostChat 通道。</li>\n<li>或者，使用&nbsp;<code>/ghost send &lt;message&gt;</code>&nbsp;發送一條消息而不需切換。</li>\n<li>使用&nbsp;<code>/ghost near</code>&nbsp;找到附近的用戶。</li>\n</ol>\n<p>&nbsp;</p>\n<p><strong>免責聲明：</strong></p>\n<p>本模塊按原樣提供。我對其使用後可能產生的任何後果不負責任。請務必閱讀並尊重你正在玩的服務器的規則。</p>\n<p>本項目的目標是探索遊戲中的通信方式並演示 Minecraft 內部的創作可能性。請妥善使用。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

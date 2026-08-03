@@ -1,0 +1,6 @@
+{
+  "bodyHash": "81b82860c7e67ae1",
+  "content": "Отключает звуки из игры в зависимости от настроек.\n\nПо умолчанию-muted: [ \"entity.wither.spawn\", \"entity.wither.death\", \"entity.ender_dragon.death \"]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

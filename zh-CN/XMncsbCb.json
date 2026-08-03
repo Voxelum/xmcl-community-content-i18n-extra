@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Eb9qo8ANJns=",
-  "content": "Reblock模组允许您通过单条指令录制方块并生成动画，从而避免使用大量setblock和summon fallingblock指令构建大规模结构时产生的过度工作负荷。目前您可以使用/reblock help获取帮助。此模组理论上支持所有1.20.X版本。",
+  "bodyHash": "b6d1510a229413cf",
+  "content": "Reblock 模组允许通过一个命令录制方块并生成动画，避免了使用大量 setblock 和 summon fallingblock 命令生成大型结构所导致的繁重工作。目前，您可以使用 /reblock help 获取帮助。该模组理论上支持所有 1.20.X 版本。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

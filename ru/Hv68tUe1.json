@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc85d1bf54426335",
+  "content": "Codecium — это мод для Fabric, который значительно улучшает сообщения об ошибках *Codec*.\n\nЭтот мод был создан, потому что большинство текущих сообщений об ошибках совершенно не полезны.\n\nНазвание является игрой слов с термином *Codec* и распространённым использованием элементов периодической таблицы для модов Minecraft.\n\n## Примеры и сравнения\nИспользуемые команды:\n- `/give @s minecraft:stick[minecraft:food={saturation: \"text\"}]`\n- `/item modify entity @s weapon {function: \"minecraft:set_components\", components: {\"minecraft:rarity\": \"uncommon\", \"rarity\": \"rare\"}}`\n- `/item modify entity @s weapon {function: \"minecraft:set_enchantments\", enchantments: {\"minecraft:fake\": \"oops\"}}`\n\n![Сравнение сообщений об ошибке в ванильном Minecraft и этом моде.](https://cdn.modrinth.com/data/cached_images/ca16fcffce1d5544a66df8e3c779555f5dd0c700.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

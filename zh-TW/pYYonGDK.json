@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e5cb43be3dd08cfc",
+  "content": "這是一個小型模組，能讓自然生成的小花擴散到相鄰的農地。你可以透過 `#farmlandflowers:spreads_on_farmland` 標籤來更改哪些區塊會受到影響。\n\n**設定**\n\n`\"defaultSuccessRate\"`：在晴朗天氣下，農地每個刻時擴散的機率。\n\n`\"rainSuccessRate\"`：在雨天時，農地每個刻時擴散的機率。預設值與 \"defaultSuccessRate\" 相同。調高此數值可增加擴散成功的機率。\n\n`\"rainBonusAttempts\"`：下雨時的額外擴散嘗試次數。數值越高代表每次擴散嘗試時能夠放置的區塊數量越多。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

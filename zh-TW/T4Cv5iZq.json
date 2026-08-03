@@ -1,0 +1,6 @@
+{
+  "bodyHash": "4df9249cd3d14482",
+  "content": "_**此擴充套件需要Create 0.5.1.f或更高版本，自擴套件版本1.6.0開始！**_\n\n1.3.0 - 1.5.0 需要 Create 0.5.1.b - 0.5.1.d!\n\n1.1.0 - 1.2.0 僅與 Create v0.5.0 兼容！\n\n1.0.0 僅與 Create v0.4.1 Patch 13 或更早版本兼容！\n\n這個 Fabric 模塊將 [Create] 模塊支持添加到 Open Parties and Claims 模塊的區域保護中。\n\n為了避免在開發環境中出現崩潰，並在任何環境中因缺少 Create 而出現錯誤，該模塊被獨立發布。OPAC 的 Forge 版本默認支持 Create，您不需要此擴展插件。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

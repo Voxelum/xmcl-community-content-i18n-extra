@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1cf10b2131be8d91",
+  "content": "# 地岩風格座標與日子計數器\n\n一款輕量型的 Fabric 模组，用於在 Minecraft Java Edition 中增加地岩風格的 HUD。\n\n## 功能\n\n- 顯示方塊座標：X、Y 和 Z\n- 顯示主世界日子計數器\n- 起始於第 0 天\n- 在單人模式後會更新\n- 支援離線運作\n- 輕量且簡單\n\n## 需求\n\n- Minecraft 26.2\n- Fabric Loader\n- Fabric API\n\n## 安裝步驟\n\n1. 安裝 Fabric Loader。\n2. 安裝 Fabric API。\n3. 將模组 `.jar` 文件放入 `.minecraft/mods` 資料夾中。\n4. 使用 Fabric 配置檔啟動 Minecraft。\n\n這是非官方社群製作的模组，與 Mojang 或 Microsoft 無關。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

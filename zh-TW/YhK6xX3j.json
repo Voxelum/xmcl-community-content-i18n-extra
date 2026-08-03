@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8f7ff689d7671ef1",
+  "content": "# 阿瑟里安降臨！\n\n## 成為天空的後裔\n輕量級的 Origins 外掛，加入阿瑟里安——一種以天界天使為靈感的起源，設計上與自然搭配阿瑟里安。在浮島間展開冒險，如羽毛般漂浮，汲取陽光的力量——然而在無星之境中力量會減弱。\n\n### 功能\n\n#### 開始於阿瑟里安\n在 `aether:the_aether`（類似 Blazeborn 的重生方式）生成新的阿瑟里安。\n\n#### 天界降落內建緩降效果與無摔傷，讓空中移動更加順暢。\n\n#### 陽光恩賜\n陽光直射下移動速度提升 15%，白天如風般加速。\n\n#### 無星弱點\n在末地與地獄中移動速度與攻擊力下降，因缺乏天空的庇佑。\n\n#### 雙重跳躍\n二段跳修正空中落點並展現風格。包括小型 HUD 提示與安全 fallback 激活機制。\n\n---\n\n### 為什麼我需要這個？\n\n我找不到結構類似 Enderian/Blazeborn、但帶有 Aasimar 風味且針對阿瑟里安專門設計的起源。因此我創造了它！此外掛小巧易讀、輕量且相容 Fabric 1.20.1 整合包。\n\n---\n\n### 需求項\n\nMinecraft：1.20.1  \nFabric Loader + Fabric API  \nOrigins  \nThe Aether（作為阿瑟里安維度）  \n\n可與常見 RPG 套件兼容（例如 Better Combat、PlayerEx/Data Attributes、YUNG’s Structures 等）。\n\n---\n\n### 設定與平衡\n\n所有能力皆透過資料驅動 (JSON)，如需自訂數值：\n- 陽光加成 (+15%)\n- 地獄/末地減益 (-15% 移動速度, -20% 攻擊傷害)\n- 二段冷卻 (20 紅石計時單位)\n\n---\n\n### 相容性備註\n\nSpawn 行為遵循 Blazeborn 邏輯 (`origins:modify_player_spawn`)，所以只在首次進入新世界生效。\n\n---\n\n### FAQ\n\nQ: 我在阿瑟里安出生。\nA：重生機制僅在新世界初次創角色時生效。若測試已有的存檔請重新使用 Origin 之選或創建新的世界。\n\nQ: [X] 能力能加入嗎?\nA：我不打算繼續開發本專案。主要維持我自己的伺服器用途而已！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

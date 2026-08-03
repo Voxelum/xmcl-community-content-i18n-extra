@@ -1,0 +1,6 @@
+{
+  "bodyHash": "edde0de0cfc607a3",
+  "content": "# 物品使用延遲修正\n\n修復遊戲中右鍵點擊（使用物品）延遲計時器的行為。\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/OQpQ7j3NyiY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Minecraft 如何運作\n\n在這個部分，Minecraft 很簡單：如果你按右鍵按鈕，它會設定一個變數為 4。\n\n這個變數每刻鐘（50 毫秒）減少一次，當它到達 0 時，*如果你仍然按住右鍵*，它會嘗試再次使用物品。\n\n問題是什麼？如果沒有物品，也沒有可使用的物體。這時它仍然會將變數設回 4。\n\n```java\nprivate void rightClickMouse() {\n    if (!this.playerController.getIsHittingBlock()) { // 如果未按住左鍵\n        // 設置變數為 4\n        this.rightClickDelayTimer = 4; // 這是右鍵函數的第一步操作！\n        // ...\n        // 餘下的代碼處理物品檢測\n    }\n}\n```\n\n## 這個模組做什麼？\n\n這種行為相當煩人，因為如果你的鼠標點擊開始得太早/時機不對，它會延遲你的物品使用，甚至可能導致無法使用物品。\n\n因此，如果沒有進行任何操作，它不會停留在 4，而是跳回 0，讓函數在下一刻繼續運行，只要有需要就如此繼續。\n\n![說明圖表](https://cdn.modrinth.com/data/cached_images/8898f623cf485546a106139db7d630757b1d0c8f.png)\n\n> 此模組**不是**快速放置（或人們現在稱為「快速物品」，無論如何稱呼以繞過作弊術語）\n\n### 兼容性/版本\n\n本項目應可在遊戲的每個版本上運行，Fabric/NeoForge/Forge/Quilt 均適用。\n\n它可能會在 Forge 1.13-1.16~ 上失敗，不確定。\n\n它*應該*在從 1.7-1.12.2 到 1.20-26.2 的所有版本上運行（如果不行，請在我的 Discord 伺服器上報告給我）。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

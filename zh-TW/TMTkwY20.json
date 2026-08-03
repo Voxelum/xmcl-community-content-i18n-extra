@@ -1,0 +1,6 @@
+{
+  "bodyHash": "f172a1d6ccf7374a",
+  "content": "快速 Totem 是一款針對 Minecraft 1.21.1 版本（Fabric）的客戶端模塊，允許您通過簡單的 Shift+Click 將不死之靈快速裝備到副手。\n\n功能\n\n- 快速裝備：Shift+點擊玩家物品欄中的不死之靈，立即移動到副手\n\n- 智能檢測：僅當副手空閒且您在玩家物品欄中時生效\n\n- 客戶端運行：可在多人服務器上使用，無需服務端安裝\n\n**請注意，此模塊在某些多人服務器上可能被视为不公平優勢或作弊行為。雖然 Fast Totem 是提升便利性的客戶端模塊，但其提供的快速裝備速度超出原生 Minecraft 機制，在 PvP 中可能為玩家提供競爭優勢。**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

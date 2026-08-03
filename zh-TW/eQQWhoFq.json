@@ -1,6 +1,6 @@
 {
-  "bodyHash": "ho/rx2+R6r8=",
-  "content": "VanillaFix 是一款改善效能、修復原版Minecraft錯誤與煩人問題的模組。幀數三倍提升是常有的事，不信的話親自試試看！此外，安裝VanillaFix後，Minecraft將不再完全崩潰，而是會將你送回主選單，並提供將報告上傳至貼文網站的選項，方便你輕鬆分享給他人（在遊戲中按下F3 + C即可測試！）\n\n有疑問或想了解我們對這個模組的最新動態嗎？[加入我們的Discord伺服器來聊聊吧！](https://discord.gg/f27hdrM)\n\n## 螢幕截圖\n\n### 崩潰畫面範例\n\n![崩潰畫面範例](https://i.imgur.com/LrSlHr1.png)\n\n### 改善前（所有材質皆被勾選，佔據37%的幀時間）\n![改善前](https://media.discordapp.net/attachments/438941063697268736/445494375586463745/2018-05-14_03.05.29.png)\n\n### 改善後（僅可見材質被勾選，幀數提升三倍）\n\n![改善後](https://media.discordapp.net/attachments/438941063697268736/445494400878116874/2018-05-14_03.00.58.png)",
+  "bodyHash": "5426fd579af553cc",
+  "content": "VanillaFix 是一個提升效能並修復原版 Minecraft 中錯誤和惱人問題的小型模組。三倍 FPS 很常見，如果你不信的話親自試試看！安裝 VanillaFix 後，Minecraft 也不會完全當機，而是會把你踢回選單並上傳你的報告到貼文網站，以便你輕鬆分享給其他人（遊戲內按 F3+C 即可測試！）。\n\n有任何問題或只是想了解我們正在開發什麼模組嗎？[加入我們的 Discord 伺服器吧！](https://discord.gg/f27hdrM)\n\n## 截圖\n\n### 當機畫面長這樣\n\n![當機畫面範例](https://i.imgur.com/LrSlHr1.png)\n\n### 之前（所有紋理勾選，佔用 37% 幀時間）\n![之前](https://media.discordapp.net/attachments/438941063697268736/445494375586463745/2018-05-14_03.05.29.png)\n\n\n### 之後（只勾選可見紋理，三倍 FPS）\n\n![之後](https://media.discordapp.net/attachments/438941063697268736/445494400878116874/2018-05-14_03.00.58.png)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "df29e91aed02c715",
+  "content": "<p>## VRAM 降低</p>\n<p>VRAM Drop 是一種優化系統，旨在透過智能管理未使用的渲染資源來減少不必要的 GPU 內存使用。</p>\n<p>### 功能：<br>- 🧹 智能清理未使用的圖形資源。<br>- 🖼️ 減少不必要的紋理和渲染數據的內存使用。<br>- 📉 有助於防止大型世界和modpack中的VRAM溢出。<br>- 🔄 優化臨時渲染緩存。<br>- ⚡ 改善具有有限VRAM的GPU的穩定性。</p>\n<p>### 優勢：<br>- 較低的VRAM消耗量。<br>- 減少由內存壓力引起的卡頓。<br>- 在大環境中的表現更佳。<br>- 更好的GPU資源管理。</p>\n<p>### ROV 整合：<br>VRAM Drop 與以下項目協作：<br>- **僅渲染視角** &rarr; 避免渲染玩家視野之外的物體。<br>- **BlockEntity 剔除** &rarr; 防止不可見的 Block Entities 被渲染。<br>- **粒子剔除** &rarr; 減少不必要的粒子渲染。</p>\n<p>&gt; **目標：** 只保留內存中必要的資源，減少VRAM浪費同時保持視覺質量。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

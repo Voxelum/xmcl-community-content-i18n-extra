@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2ef42b5a7246946a",
+  "content": "### 任何毛絨顏色的組合，如果不是全部相同的顏色，都會生成白色的床，而不是什麼都沒有\n![編製範例](https://cdn.modrinth.com/data/cached_images/0f857791d40fac39e49405dc497c8a9065b5a28a.png)\n\n我剛剛修改了recipes/white_bed.json的內容，將「羊毛」取代為僅包含白色羊毛的物品。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

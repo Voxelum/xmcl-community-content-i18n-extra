@@ -1,0 +1,6 @@
+{
+  "bodyHash": "c2a074fdc8c092bd",
+  "content": "# 无洞穴\n不需要洞穴？你真走运！这个数据包会移除它们。仍然有地下特征和结构（远古城市、要塞、矿坑、紫晶洞、熔岩池、矿石等），但不再有大洞穴。此外，这个数据包还有姊妹版本，用于移除特定类型的洞穴，例如仅移除新洞穴或旧洞穴。现在这些数据包支持大型生物群系和强化预设！\n\n## 无洞穴\n<u>移除所有洞穴</u>\n\n## 无旧洞穴\n<u>移除所有旧雕刻器洞穴</u>，仅保留1.18+洞穴（噪声洞穴）\n\n## 无新洞穴\n<u>移除所有1.18+洞穴（噪声洞穴）</u>，仅保留经典雕刻器洞穴\n\n## 兼容性说明：\n\n要与其他数据包配合使用，“无洞穴”必须作为最顶层的数据包（例如在列表中应位于其他数据包之上）。\n\n兼容性的设置需*手动*完成，具体取决于*模组*如何处理它们的洞穴。有时会自动处理，这取决于模组的实现方式。不过，我计划为Tectonic、Terralith等模组添加支持。\n\n## “‘复古洞穴’去哪了？”/“我希望‘无新洞穴’能像1.18前那样有更多洞穴...”\n\n### <u>查看 [Retro Caves](https://modrinth.com/datapack/retro-caves)</u>\n\n## 赞助商：Sparked Host\n[![Sparked Server托管横幅，使用代码“Klinbee”可享25%折扣](https://cdn.modrinth.com/data/cached_images/0686265f0089a5e8a0227a599e18b8ef4cd4777c.jpeg)](https://billing.sparkedhost.com/aff.php?aff=2956)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

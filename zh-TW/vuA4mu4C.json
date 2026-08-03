@@ -1,0 +1,6 @@
+{
+  "bodyHash": "49d3e68d9c81b03f",
+  "content": "![requires_framework](https://api.lpsmods.dev/data/framework.png) (https://mrcrayfish.com/mods/framework)\n\n這個模組讓盔甲架擁有像《我的世界：基岩版》一樣的姿勢。紅石機制與基岩版相同。你甚至可以建立自己資料驅動的姿勢！\n\n![Sponsor](https://legopitstop.weebly.com/files/theme/banner_9.webp) (https://www.bisecthosting.com/legopitstop)\n點選上方圖像，選擇你的套餐（至少 4GB），使用代碼 `legopitstop` 享受首月 75 折，並與朋友一同遊玩！\n\n## 載入器\n\n- [datapack](https://curseforge.com/minecraft/customization/armor-stand-poses-datapack)\n- **Forge**\n- **NeoForge**\n- **Fabric**\n\n## 支援的模組\n\n- [Armor Poser](https://modrinth.com/mod/armor-poser)\n\n## 力量姿勢名稱\n\n- 預設姿勢 01\n- 無姿勢 02\n- 莊嚴姿勢 03\n- 雅典娜姿勢 04\n- 揮舞姿勢 05\n- 尊榮姿勢 06\n- 娛樂姿勢 07\n- 致敬姿勢 08\n- 反擊姿勢 09\n- 喪屍姿勢 10\n- 康康舞姿勢 1 11\n- 康康舞姿勢 2 12\n- 英雄姿勢 13\n- 預設姿勢 14\n- 預設姿勢 15\n\n## 常見問題\n### 我可以將此加入我的整合包嗎？\n當然可以，只要給予適當的署名並遵守授權條款即可。\n\n### 你會向下支援舊版本嗎（例如 1.15、1.12、1.8）？\n如果某版本有足夠的需求且我有時間，我會嘗試向下支援。\n\n## Maven\n```gradle\ndependencies {\n    modImplementation \"maven.modrinth:armor-stand-poses:fabric-${project.poses_version}\"\n}\n```\n[更多資訊](https://docs.modrinth.com/docs/tutorials/maven/)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

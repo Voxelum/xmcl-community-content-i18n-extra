@@ -1,0 +1,6 @@
+{
+  "bodyHash": "684daad16743ad0b",
+  "content": "# Overlayer\n\n![MIT License](https://img.shields.io/badge/License-MIT-pink.svg)\n\n![Client-side](https://img.shields.io/badge/Client--side-Pure%20Client-6A0DAD?logo=java&logoColor=white)\n\nOverlayer — это клиентский мод для Minecraft, который позволяет накладывать любое изображение (PNG, JPG, BMP, GIF и т.д.) на экран игры.\n\n## ✨ Особенности\n\n- **Добавить изображение** – Поддерживаются форматы PNG, JPG, JPEG, BMP, GIF, TIF, ICO, PCX и др.\n- **Интуитивный GUI** – Редактируйте записи в чистом окне настроек.\n- **Превью в реальном времени** – Смотрите изменения сразу при регулировке слайдеров.\n- **Учёт игровой ситуации** – Изображения можно настроить так, чтобы они показывались только во время игры или только на главном меню.\n- **Лёгкость** – Минимальное влияние на производительность.\n\n## 📦 Установка\n\nСкачайте последнюю версию Overlayer, совместимую с вашей версией игры и загрузчиком модов, со страницы [Releases](https://github.com/Skrepy0/Overlayer/releases).\n\n## 🙏 Авторы\n\n- **iCafe** – Библиотека работы с изображениями для чтения/записи различных форматов изображений.  \n  [Репозиторий](https://github.com/dragon66/icafe)\n\n## 📄 Лицензия\n\nЭтот проект лицензируется по лицензии MIT — подробности см. в файле [LICENSE](LICENSE).",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

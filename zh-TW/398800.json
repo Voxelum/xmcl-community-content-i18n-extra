@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Bp8jGeu28n8=",
-  "content": "<h3>[客戶端]</h3>\n<h3>注意：生物仍會顯示盔甲</h3>\n<p><img src=\"https://media.forgecdn.net/attachments/305/343/screenshot.png\" alt=\"未裝備盔甲的玩家\">\n<img src=\"https://media.forgecdn.net/attachments/305/344/screenshot.png\" alt=\"裝備盔甲的玩家\"></p>\n<h3>自 1.1.0 版本起，可選擇在生命值低於設定值時顯示盔甲</h3>\n<p>config/SkinShine.conf<br>\n<img src=\"https://media.forgecdn.net/attachments/309/512/skinshine.gif\" alt=\"低生命值時選擇性顯示盔甲\"></p>",
+  "bodyHash": "5926db96ddb4bad7",
+  "content": "<h3>[用戶端]</h3>\n<h3>Note armor still shows on mobs</h3>\n<p><img src=\"https://media.forgecdn.net/attachments/305/343/screenshot.png\" alt=\"player without armor\">\n<img src=\"https://media.forgecdn.net/attachments/305/344/screenshot.png\" alt=\"player with armor\"></p>\n<h3>自1.1.0起，您可以在血低於某一值時選擇性地顯示盔甲</h3>\n<p>config/SkinShine.conf<br>\n<img src=\"https://media.forgecdn.net/attachments/309/512/skinshine.gif\" alt=\"Optionally show armor on low health\"></p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

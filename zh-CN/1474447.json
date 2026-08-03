@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a82b267b4c6512c7",
+  "content": "<html><p><strong>FPS Anim Patch (Forge 1.20.1)</strong>是一个微小的客户端伴侣模组，它简化了<strong>TACZ</strong>和<strong>SuperbWarfare</strong>中最昂贵的枪械和载具动画，使你的FPS不会成为全职工作的一部分。</p><ul><li><strong>近乎瞬时的武器操作</strong>（拔枪/收枪）</li><li><strong>减少换弹视觉效果</strong></li><li><strong>射击动画保持优化</strong>（仍然有打击感，但CPU负担更低）</li><li><strong>载具动画简化</strong>以保持在大规模战斗中流畅运行</li><li><strong>多玩家友好：</strong>仅影响视觉效果 —— 不改变伤害、射速、换弹时机或服务器逻辑。</li></ul><p>非常适合在修改版的多人游戏中使用，当有人说“我的PC没问题”时，其他人的显卡开始写辞职信了。</p><p><strong>更新：</strong>没有计划。这个模组是为了<strong>我的未来服务器</strong>构建的，其目标是保持稳定和简单（这正是最好的方式）。</p><p><strong>FPS Anim Patch (Forge 1.20.1)</strong>是一个小型的<strong>client-side</strong>模组，裁剪/优化了来自<strong>TACZ</strong>和<strong>SuperbWarfare</strong>中最耗资源的动画，以确保当有人连发时你的FPS不会崩盘。</p><ul><li><strong>几乎瞬时的持握/收起操作</strong></li><li><strong>视觉上的换弹效果减少</strong></li><li><strong>保留射击动画并加以优化</strong>（清脆有力，而不耗费太多CPU）</li><li><strong>载具简化</strong>以便在大型战斗中保持可玩性</li><li><strong>支持多人联机：</strong>纯粹是视觉效果的变化 —— 不影响伤害、射击速率、真实的换弹间隔或服务器逻辑。</li></ul><p>对于那些在多人游戏中遇到“我这边运行良好”，实则别人面临卡顿的人而言，这是一个理想的解决方案。</p><p><strong>更新：</strong>目前没有计划。这个模组专为<strong>我的未来服务器</strong>设计，力求保持稳定与简洁。</p></html>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

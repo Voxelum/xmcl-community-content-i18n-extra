@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5be046c5e5419fce",
+  "content": "這個模组轉換或混合維度。\n\n現在主世界是地獄，地獄是終界，而終界是主世界。\n\n我正在開發終界，因為還沒龍。如果是在生存模式，你必須使用 `/summon ender_dragon` 和 `/setblock ~ ~ ~ end_portal`。\n\n地獄已完成。\n\n而在終界，我說的是主世界，你会有一个地下平台。你會獲得「終界」成就，但沒有龍或柱狀結構。我以後會再改。另外主世界的傳送門目前還不起作用。若要創造傳送門，請使用指令 `/setblock ~ ~ ~ nether_portal`。\n![.](https://cdn.modrinth.com/data/cached_images/77cb9119b05292878aed6733ef105d48f4ae1673.png)\n\n哦，我還差點忘了要進入自然生成的終界必須使用這個命令：`/execute in naturalend:natural_end_dimension run tp @s ~ ~ ~`。這些座標與主世界相同。\n\n![.](https://cdn.modrinth.com/data/cached_images/365c5d8416cd0a770e9060b16d3e33c121c3a587.png)\n\n这是模组的一个视频（不在我的频道上）：<iframe width=\"1447\" height=\"814\" src=\"https://www.youtube.com/embed/1FhT1rdMRqQ\" title=\"Dimensional mixer\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n這就是目前的內容了。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

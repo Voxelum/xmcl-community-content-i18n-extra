@@ -1,0 +1,6 @@
+{
+  "bodyHash": "3e3ea0784ee5d7bd",
+  "content": "![Overlay](https://cdn.modrinth.com/data/nbmiKwce/images/0179eb3b2a120170909d4c30501455e78bcca824.png)\n\n**Echo Compass HUD** 是一款高度簡潔、輕量級的羅盤模組，幫助您探索世界而不使畫面過於繁雜。\n\n### 支援多種平台\n\n原本僅為 Forge 開發的模組已徹底重構，採用多載入器架構，現在原生支援 **Forge**、**Fabric** 和 **NeoForge**！現代化的程式碼基礎確保未來升級到新版 Minecraft 的過程更加順暢快捷。\n\n### 極簡設計\n\n本模組嚴格遵循「無冗餘」理念：只提供您需要的功能——一款簡單可靠的頭部顯示羅盤 _(如果您需要更進階導航工具並擁有更多機制，請查看其規模更大且僅限 Forge 的版本：**[Echoes of Adventure: Compass](https://modrinth.com/mod/echoesofadventure-compass)** 。但若您是尋求乾淨輕量的使用者，則來對了地方。)_\n\n### 主要功能\n\n*   **跨載入器支援：** 在 Forge、Fabric 或 NeoForge 上都能享有相同的流暢體驗。\n*   **干預性低：** 流暢設計與原版美學完美融合。\n*   **易於設定：** 透過簡單的 JSON 設定檔調整羅盤尺寸及 X 軸位置，以符合您的 HUD 佈局需求。\n\n***\n\n尋找一種不影響原版體驗且可靠的方式導航嗎？將其放入您的 mods 資料夾即可開始旅程！\n\n***\n\n# 錯誤回報與建議\n\n發現問題或有改進建議？或是只想分享點子？請至 [Discord 伺服器](https://discord.gg/fXze8HDK6c) 提交反饋以便快速得到支援和溝通。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

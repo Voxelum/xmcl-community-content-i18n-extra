@@ -1,0 +1,6 @@
+{
+  "bodyHash": "5ae174e0e582d969",
+  "content": "<h1>本不應存在的 ResourcePack 偵測</h1>\n<p>檢測玩家是否在錯誤的位置加載資源包。</p>\n<p>目前支援：</p>\n<ul>\n<li>不應出現在著色器包目錄中的資源包</li>\n<li>嵌套的資源包</li>\n</ul>\n<h2>為何會崩潰</h2>\n<p>此模組與以下模組相容，請檢查您是否已安裝其中任何一個：</p>\n<ul>\n<li>Iris (NeoForge/Fabric)</li>\n<li>OptiFine (Forge)</li>\n</ul>\n<h2>對於整合包</h2>\n<p>如果您遵守授權，可以自由地用於整合包。</p>\n<p>重新分發 Minecraft 遊戲本體（例如將完整的 Minecraft 遊戲、模組檔、設定檔、著色器包、資源包、庫和啟動程式打包成完整 zip 檔案的包）不得使用此模組。</p>\n<h2>授權</h2>\n<p>除了原始授權外，此作品具有限制性的授權，以防止一些意外行為，請參見 <a href=\"https://github.com/404Setup/404Setup/blob/main/LICENSE.md\" target=\"_blank\" rel=\"nofollow\">404Setup 公共授權</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

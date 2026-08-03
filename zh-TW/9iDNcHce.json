@@ -1,0 +1,6 @@
+{
+  "bodyHash": "69308cc76a036fe2",
+  "content": "# 關於此模组\n\n此模組修復了問題：在 1.21 版本之後新增的某些結構中的寶箱（Vaults）不會激活，導致玩家無法獲得戰利品。\n\n通常情況下，當玩家靠近寶箱時它會激活，並可使用（不祥的）試煉鑰匙獲得戰利品。但由模組新增的結構中的寶箱即使靠近也可能不會激活，導致無法獲取戰利品。\n\n此模組解決了寶箱在靠近時無法激活的問題。\n\n## 適用效果之模组/數據包\n\n[閣樓塔](https://modrinth.com/mod/tower-of-chambers-neoforge)\n\n[城市房間](https://modrinth.com/mod/city-of-chambers)\n\n[試煉飛艇](https://modrinth.com/datapack/trial-airship)\n\n# 配置\n\n## canOverrideIntervalTime\n\n如果激活時間超過 X 個刻則進行修復。（預設：200）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

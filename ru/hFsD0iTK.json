@@ -1,0 +1,6 @@
+{
+  "bodyHash": "47dbb108d041d272",
+  "content": "Это пакет ресурсов, который объясняет сам себя: он меняет модель забора, чтобы она имела вертикальный столб! И делается это без новых текстур, поэтому он должен работать с любым модифицированным забором, ссылающимся на ванильную модель, и с любым пакетом ресурсов, который [меняет](https://modrinth.com/resourcepack/minimal-plank-improvement/gallery) [доску](https://modrinth.com/resourcepack/planks-with-nails-(nailed-it!)/галерея) [текстуры](https://modrinth.com/resourcepack/prettier-planks/gallery)!\n![Все ванильные заборы, на которые влияет этот пакет, за исключением бамбука и ворот забора.](https://cdn.modrinth.com/data/hFsD0iTK/images/57f5f8f8e7c2a19498e68f2e5835ad22452e8313.png)\nКроме того, также настраивает базовую модель перила [Палитры Архитектора](https://modrinth.com/mod/architects-palette) на вертикальную!\n\nСделано с любовью нами, The Bobbus, в Notepad++ и Blockbench :]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

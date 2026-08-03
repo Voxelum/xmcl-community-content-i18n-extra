@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b5b90bc5518eaf87",
+  "content": "### 添加 🔍 对 Botania 中法力相关信息的 Jade 支持。\n你现在可以轻松获取以下信息：\n- 法力池储存\n- 生成花储存\n- 功能花储存\n- 扩散器储存\n- 法力池催化剂\n- 符文祭坛配方进度\n- 大地盘配方进度\n- 纯雏菊配方进度\n- 法力星法力变化率\n- Hydroangeas 信息\n- Endoflame 信息\n- Thermalily 信息\n- RosaArcana 信息\n- Munchdew 信息\n- 扩散器爆发信息（相关信息支持镜头）：\n  - 爆发起始法力\n  - 爆发速度\n  - 失法前的爆发ticks\n  - 每tick失法量\n\n所有信息均可配置！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

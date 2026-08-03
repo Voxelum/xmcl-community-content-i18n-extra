@@ -1,6 +1,6 @@
 {
-  "bodyHash": "4rMgHQH3YXg=",
-  "content": "棲息地（Habitat）是一個基於 Forge 的 Overworld 擴展模組，旨在為現有生物群系添加內容，並在未來添加新的生物群系。\n\n目前，該模組新增了以下內容：\n\n- 大王花（Rafflesia） - 生成於叢林生物群系\n- 卡布隆灌木與果實（Kabloom Bush and Fruit） - 生成於平原生物群系\n- 史萊姆蕨（Slime Ferns） - 生成於 Y=40 以下的史萊姆區塊\n- 球狀仙人掌（Ball Cactus，4 種顏色） - 生成於沙漠與惡地\n- 妖精環與布卡（蘑菇兔生物） - 生成於黑森林\n- 雀形目鳥類（Passerines，鳴禽） - 遍布森林、樺木森林、針葉林、叢林、繁花森林、莽原及林地。也可在古老與風蝕變體版本中找到。\n\n相容性說明：\n- Enhanced Mushrooms（強化蘑菇）：安裝 Enhanced Mushrooms 後，妖精環蘑菇柄將被替換為類似強化蘑菇風格的版本，可合成為妖精環蘑菇木材系列。安裝 Quark 與 Buzzier Bees 後，還能合成更多方塊。相關方塊也支援與 Environmental 及 Farmer's Delight 進行合成。\n- Farmer's Delight（農夫樂）：妖精環蘑菇可作為堆肥激活材料。\n- Abnormals Core（異常核心）：載入了進度修飾，使新增的食物、效果與生物能夠計入進度。",
+  "bodyHash": "28d0a1416eca9956",
+  "content": "Habitat 是一個為 Minecraft 的 Overworld 所設計的 Forge 擴充模組，目的是在既有的生物群系中加入內容，並在未來加入新的生物群系。\n\n目前，這個模組加入了以下內容：\n\n- Rafflesia - 叢林天區\n- Kabloom Bush 和 Fruit - 草原天區\n- Slime Ferns - 在 Y=40 以下的黏液塊中\n- Ball Cactus (有四種顏色) - 沙漠和紅木地區\n- Fairy Ring 和 Pooka (蘑菇兔子生物) - 黑暗森林\n- Passerines (鳴禽類) - 森林、白樺林、針葉林、叢林天區、花之森林、草原以及樹林。(也可以在古老版本及風化的版本中找到)\n\n相容性:\n- Enhanced Mushrooms: 當安裝了 Enhanced Mushrooms 時，Fairy Ring 的蘑菇莖會被替換成一個像 Enhanced Mushrooms 的蘑菇莖的版本，可以製作成 Fairy Ring 蘑菇木材組合。若安裝了 Quark 和 Buzzier Bees，還可製作出更多的方塊。方塊支援與 Environmental & Farmer's Delight 的合成功能。\n- Farmer's Delight: Fairy Ring Mushrooms 可以作為堆肥啟動劑。\n- Abnormals Core: 加載的進展修飾符，讓新增的食物、效果和生物能被計入進展中。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

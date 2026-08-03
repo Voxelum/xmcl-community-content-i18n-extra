@@ -1,0 +1,6 @@
+{
+  "bodyHash": "354e7a6e8dd6fecd",
+  "content": "**CapeTweaks** 是一個針對原版斗篷的小插件。它不會新增任何斗篷。\n\n使用 **CapeTweaks**，你可以使他們的運動更平滑，或者完全不顯示！你也可以切換是否允許翼狀披風擁有斗篷紋理。\n此外，你也可以隱藏特定的斗篷，例如 Minecon 斗遷移斗篷！\n\n**CapeTweaks** *不會* 添加 OptiFine 的斗篷。要添加 OptiFine 斗篷，請參閱 [Kappa](https://modrinth.com/mod/kappa)。**CapeTweaks** 也不能保證與任何自定義斗篷插件兼容。\n\n此模塊依賴於 [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) 才能運行。你還需要 [Mod Menu](https://modrinth.com/mod/modmenu) 進行設置。Fabric API 不是必需的。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1efcb98244be5961",
+  "content": "Это заставляет вас появиться на остроках Конца с координатами 942, 121, 13, и под вами будет_platform из_obsidian_размером 5x5, чтобы смягчить ваш падение в бездну\n\n<details>\n<summary>как это работает</summary>\n\n# 1. Установка точки входа игрока в Конце\nexecute as @a[tag=!end_spawned] in minecraft:the_end run spawnpoint @s 942 121 13\n\n# 2. Телпортация игрока на точку входа в Конце\nexecute as @a[tag=!end_spawned] in minecraft:the_end run tp @s 942 121 13 0 0\n\n# 3. Построение платформы из obsidian 5x5 с центром в (942,120,13)\nexecute in minecraft:the_end run fill 940 120 11 944 120 15 obsidian\n\n# 4. Маркировка игрока как инициализированного\nexecute as @a[tag=!end_spawned] run tag @s add end_spawned\n\n# и так это работает :D\n\n</details>\n\n<details>\n<summary>лицензия</summary>\n\nИспользуйте свободно для создания модпаков или прохождения\n\nФайл нельзя пересылать, его нужно скачивать с Modrinth каждый раз\n\nСвободно исследуйте файлы, но если они были редактированы, необходимо указать авторов в файлах\n\nПерепост на любую платформу кроме Modrinth (предполагается, что файл был редактирован; в противном случае перепост приведет к судебному иску)\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

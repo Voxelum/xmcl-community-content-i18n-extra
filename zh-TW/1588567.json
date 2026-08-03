@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8773e672b1ac9190",
+  "content": "<h1>FilterLite 著色器</h1>\n<p>一套純後處理著色器，旨在為您的遊戲提供內置 Lightroom / 相機濾鏡的體驗。</p>\n<p>它不會添加沉重的動態陰影、搖曳的葉子或逼真水流，而是將 100% 的空間色彩操控聚焦於此。結果是照片般的視覺效果，可在任何機器上運行。</p>\n<h2>功能</h2>\n<ul>\n<li><strong>完整色彩調色套件：</strong> 可手動調整曝光度、對比度、飽和度、溫度（開爾文）和色調。</li>\n<li><strong>相機效果：</strong> 支持切換棕褐色、屏幕暈影和動態（動畫）膠片顆粒。</li>\n<li><strong>20 種內置預設：</strong> 不想調節滑塊？只需選擇一個预设：<ul>\n<li><em>乾淨自然：</em> 默認、Lark、Reyes、Ludwig、Perpetua</li>\n<li><em>溫暖舒適：</em> Gingham、Slumber、Crema、Aden、Seventies、Toaster</li>\n<li><em>高對比/鮮豔：</em> Clarendon、Juno、Lo-Fi、Kelvin</li>\n<li><em>復古單色：</em> Moon、Inkwell、Vintage、Nashville、Cinematic</li></ul></li>\n<li><strong>零延遲：</strong> 基於標準的 <code>#version 120</code> GLSL 數學。如果您的 PC 能運行原版遊戲，則也能以全速運行此著色器。</li>\n</ul>\n<h2>兼容性</h2>\n<ul>\n<li>完全兼容 <strong>Iris Shaders</strong> 和 <strong>OptiFine</strong>。</li>\n<li>版本無關（幾乎在所有 Minecraft 更新中都能工作）。</li>\n</ul>\n<h2>如何安裝</h2>\n<ol>\n<li>下載 <code>.zip</code> 文件。</li>\n<li>將其放入您的 <code>shaderpacks</code> 文件夾中。</li>\n<li>在遊戲內選擇它並使用著色器選項菜單選擇您喜愛的配置檔。</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

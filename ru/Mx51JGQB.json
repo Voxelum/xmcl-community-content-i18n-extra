@@ -1,6 +1,6 @@
 {
-  "bodyHash": "qQaGMslyUpk=",
-  "content": "<span style=\"color:#e03e2d\"><strong><u>Требуется </u><a href=\"https://modrinth.com/mod/asgard-shield-reloaded\" target=\"_blank\" rel=\"nofollow\">Asgard Shield: Reloaded</a><u><a href=\"https://www.curseforge.com/minecraft/mc-mods/corpse\" target=\"_blank\" rel=\"nofollow\"> </a>в качестве зависимости.</u></strong></span>\n\nПатч-мод для Asgard Shield: Reloaded, исправляющий сбой или ошибку при обработке тикующих сущностей, вызванную тем, что Asgard Shield: Reloaded не ожидает использования руки неигрового персонажа. Это происходит при использовании оружия в Create Deployers или других симуляторах игроков.",
+  "bodyHash": "6160b0c113158c6d",
+  "content": "Это патч-мод для Asgard Shield: Reloaded для устранения ошибки или падения игры, вызванной тем, что Asgard Shield: Reloaded не предполагает наличие неигровой руки. Это происходит при использовании оружия в Create Deployers или других симуляторах игроков.",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

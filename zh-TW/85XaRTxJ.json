@@ -1,0 +1,6 @@
+{
+  "bodyHash": "306459ff8344dc0c",
+  "content": "此模组將修復舊版本中一些導致在維度間傳送時出現同步問題的錯誤。\n\n**修復列表**\n\n[MC-6431](https://bugs.mojang.com/browse/MC/issues/MC-6431): 從終界返回世界後，狀態效果會遺失\n\n[MC-124177](https://bugs.mojang.com/browse/MC/issues/MC-124177): 傳送到其他維度會丟失一些客戶端狀態\n\n**當前支持：**\n\nMinecraft 版本：**1.14.X-1.20.X**\n\n模组載入器：**Fabric**\n\n**未來計劃：**\n\n將在未來幾個月內釋出對更多 Minecraft 版本的支持。\n\n請留意更新，如有問題歡迎在我們的 GitHub 頁面報告。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

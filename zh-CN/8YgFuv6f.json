@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d2307433ed83684a",
+  "content": "# Ping to Map：Xaero版\n\n当队友（或自己）使用Ping-Wheel标记地图时，自动在Xaero小地图上生成一个临时航点——无需弹窗、无需编辑界面，且默认与Ping同步消失。\n\n你通过Ping-Wheel标记“过来”，但该标记不会显示在小地图上，因此在大型建筑中他人难以找到位置。此插件会在Ping发生时立即创建航点，随后清除航点，保持地图简洁。\n\n**功能**\n\n- 每次Ping均生成临时航点 —— 无需点击、无需编辑界面\n- 默认情况下航点随Ping同时消失（生命周期同步），也可设置为固定1–600秒时长，或永久保留\n- 团队共享 —— Ping-Wheel向队友广播Ping，每个客户端本地生成对应航点\n- 不占用物品或方块；绝不干扰Ping-Wheel本身行为；即使未安装Xaero也不会崩溃（通过反射机制处理缺失或API变更情况）\n\n**配置** (`config/pingtomapxaeros-client.toml`，或通过模组配置GUI)\n\n- `appearance.syncWithPingWheel` —— 航点随Ping一同消失，其寿命由Ping决定（默认启用）\n- `appearance.waypointLifetimeSec` —— 固定生存时间（秒），仅在同步关闭时使用（-1表示永久有效）\n- `feature.registerOwnPings` —— 是否也为自己的Ping生成航点（false表示仅针对队友）\n\n**依赖项**\n\n- [Ping-Wheel] —— 必需\n- [Xaero's Minimap] 和/或 [Xaero's World Map]（客户端）—— 目标航点载体\n- 仅限Fabric版：[Forge Config API Port]\n\n纯客户端模组，无需服务器端安装。配套模组：Compass to Map: Xaero's edition。\n\n**相关项目**\n\n- [Ping to Map] —— 相同功能，适用于JourneyMap用户\n- [Compass to Map: Xaero's companion] —— 将探险者指南针/自然指南针的发现转化为Xaero航点的辅助模组\n\n可自由用于任何模组包。源代码及问题反馈：https://github.com/KURONAMI333/ping-to-map-xaeros",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

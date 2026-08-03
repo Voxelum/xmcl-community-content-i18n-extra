@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a31f1388f2aac2c1",
+  "content": "# 🎨 Мозаика для малышей\n\nМод добавляет изображения малышей сущностей из Minecraft версии 26.1.\n\n## 📜 Доступные картины\n\n| Картина       | Размер | Автор   |\n|---------------|--------|---------|\n| Малыш-курица  | 4×4    | RawMaw  |\n\n### Малыш-курица\n![Малыш-курица](https://cdn.modrinth.com/data/cached_images/0e1019fd4d555027be8ded05c5c9fd6f66d7b922.png)\n\n*Милая малыш-курица в Нижнем мире*\n\n## 🔧 Как получить конкретную картину\n\n**Через команду:**\n/give @p minecraft:painting{EntityTag:{variant:\"babymobpaintings:baby_chicken\"}} 1\n\n**В режиме выживания:**\nРазмещайте картины на стене 4×4, пока не получите нужную!\n\n## 📦 Поддерживаемые версии\n\nForge, NeoForge, Fabric\n\n## 🚀 Скоро появятся больше картин!\n\n---\n\n*Сделано с ❤️ RawMaw & ringoway*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

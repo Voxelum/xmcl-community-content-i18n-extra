@@ -1,0 +1,6 @@
+{
+  "bodyHash": "a1f81b5b49429b47",
+  "content": "# 共享背包\n此模组为游戏添加了共享背包，所有玩家均可以使用。\n它用于在友好型多人服务器中共享物品。\n\n共享背包的大小为一个双箱（54 个格子），可通过使用 `/backpack` 或 `/bp` 命令访问（无需权限）。\n\n![共享背包库存](https://cdn.modrinth.com/data/cached_images/09d63a86476f9a5e344da64e99486139c9f209ac.png)\n\n### 附加信息\n这是一个服务端模组，不需要在客户端上安装。\n\n共享背包的内容存储在世界的 `/world/data/shared-backpack/shared-backpack.dat` 文件中。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

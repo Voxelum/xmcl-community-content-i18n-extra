@@ -1,14 +1,6 @@
 {
-  "bodyHash": "Ag2naYsxRXo=",
-  "content": {
-    "error": {
-      "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://help.aliyun.com/zh/dashscope/developer-reference/tongyi-thousand-questions-metering-and-billing.",
-      "type": "insufficient_quota",
-      "param": null,
-      "code": "insufficient_quota"
-    },
-    "request_id": "bee8eaea-a325-94df-9388-6e08812b0e92"
-  },
+  "bodyHash": "9b4b2073e598f642",
+  "content": "<h1>Боги происхождения</h1>\n<p>Изначально разработан для приватного сервера, этот мод добавляет <strong>9 богов</strong> и <strong>14 аспектов</strong> на выбор, каждый из которых предоставляет различные способности.</p>\n<p>Эти_origin_ созданы с учетом multiplayer, но могут использоваться и в одиночном режиме.</p>\n<h2>Уровни</h2>\n<p>Основной層 - это <strong>бог</strong>, у каждого бога есть набор уникальных (возможно, активных) способностей. Второй уровень - <strong>аспект</strong>, который несколько богов имеют общие и предоставляет пассивные способности.</p>\n<h2>Что это за боги?</h2>\n<p>Я выдумал их для своего мира, хотя многие основаны на реальных божествах в большей или меньшей степени.</p>",
   "contentType": "text/html",
   "type": "curseforge"
 }

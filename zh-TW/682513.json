@@ -1,0 +1,6 @@
+{
+  "bodyHash": "cc85edb2a586ca02",
+  "content": "<h1>天氣改動器</h1>\n<p>Minecraft的客戶端天氣改動器</p>\n<h2>概述</h2>\n<p>將客戶端的天氣變為晴朗、雨或雷暴（僅對您可見），此mod不會影響服務器也不向服務器發送任何數據包。</p>\n<p>支持 forge 和 fabric，在使用 fabric 時需要 Fabric API。</p>\n<h3>遊戲內命令用法</h3>\n<p><code>/clientweather off | clear | rain | thunder</code></p>\n<p>命令別名 <code>/cweather</code> 也可作為快捷方式。</p>\n<h3>鍵綁定</h3>\n<p>您可以在 Minecraft 的鍵綁定設置中設置鍵綁定。</p>\n<table>\n<thead>\n<tr>\n<th>描述</th>\n<th>默認</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>禁用客戶端天氣（天氣將正常顯示服務器天氣）</td>\n<td>未綁定</td>\n</tr>\n<tr>\n<td>將客戶端天氣模塊設為晴朗</td>\n<td>未綁定</td>\n</tr>\n<tr>\n<td>將客戶端天氣模塊設為下雨</td>\n<td>未綁定</td>\n</tr>\n<tr>\n<td>將客戶端天氣模塊設為雷暴</td>\n<td>未綁定</td>\n</tr>\n</tbody>\n</table>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

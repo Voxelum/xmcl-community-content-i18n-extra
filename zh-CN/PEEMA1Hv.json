@@ -1,0 +1,6 @@
+{
+  "bodyHash": "7776d49c2787b648",
+  "content": "该资源包是对Mojang在快照中开始包含的高对比度包的扩展。该高对比度从1.19.4-pre-2开始适用于所有GUI界面。\n\n注意：深色方块可能会难以查看，我试图通过将实际的物品栏槽位稍微调亮来缓解这种情况，但如果有人有其他更好的方法处理此问题，请随时发起PR，哈哈。\n\n感谢Minecraft Commands Discord社区对我的文本方面提供的帮助，哈哈。\n\n### NSPG911已经制作了一个基岩版移植版本，可以在[这里](https://modbay.org/textures/753-high-contrast-extended-bedrock-port.html)找到。\n\n致谢：\n\n - 感谢Minecraft Commands Discord社区的`the der discohund#8028`，因为 shaders 我无法弄出来。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

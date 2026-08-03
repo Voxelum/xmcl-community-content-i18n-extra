@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aad8a21468009aeb",
+  "content": "[![需要: Fabric API](https://cdn.modrinth.com/data/cached_images/475b798f6a4c2bdb115d1a3529bb44ac782e7352.png)](https://modrinth.com/mod/fabric-api)\n[![需要: Trashslot](https://cdn.modrinth.com/data/cached_images/e30e85f118f1a351d0138676a185c70ca0c5e571.png)](https://modrinth.com/mod/trashslot)\n[![需要: Balm](https://cdn.modrinth.com/data/cached_images/7abc440e6ec88d7a9c3b6a858fa84fc85bb3f60d.png)](https://modrinth.com/mod/balm)\n\n---\n\n客户端模組，為將物品加入黑名單新增一個熱鍵，預設鍵為 **~** 鍵。當物品被列入黑名單時，撿起後會自動移至 Trashslot。\n\n按滑鼠右鍵可移除黑名單中的物品。\n\n![黑名單介面][3]",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

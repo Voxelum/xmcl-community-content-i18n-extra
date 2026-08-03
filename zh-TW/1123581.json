@@ -1,0 +1,6 @@
+{
+  "bodyHash": "6972a06b389362d6",
+  "content": "<p>這個模組新增了一個指令 /cleanup，會清理記憶體。\n這個模組原本是為了我的 SMP 伺服器清理記憶體而開發的，但我可能之後會增加其他功能。這個指令需要 OP 權限才能執行。</p>\n<h1>它是如何運作的？</h1>\n<p>/cleanup 指令會觸發 Java 的垃圾回收系統以釋放部分記憶體。</p>\n<h1>未來規劃（不保證實現）</h1>\n<ol>\n<li>自動觸發 GC。</li>\n<li>設定系統。</li>\n<li>其他版本和平台支援。</li>\n</ol>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

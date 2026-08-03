@@ -1,0 +1,6 @@
+{
+  "bodyHash": "1fd910619cbb74b8",
+  "content": "<h1>簡易垃圾桶槽位</h1>\n<p>此模組在存庫中增添一個垃圾桶槽位，您可以在其中丟棄不需要的物品。此槽位會記住您最後放入的物品，當放入另一種物品時，舊物品才會真正被刪除。</p>\n<p>有一個小的設定檔 <code>simple_trash_slot.json</code>，您可以設定垃圾桶槽位在存庫中的位置。允許的位置如下所示。預設位置為 <code>H2</code>。您也可以設定丟棄物品時播放的聲音。有效值為 <code>NONE</code>、<code>PAPER_BIN_TOSS</code> 和 <code>LAVA_SIZZLE</code>。</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/null/description_40da0fef-898a-470f-b1d3-9539ea3707a0.png\" alt=\"允許的物品位置\"></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

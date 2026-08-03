@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0c75a219707e0cbc",
+  "content": "<p>Восстанавливает механизм нападений таким, каким он был в 1.20 — возвращает работоспособность (многослойных) ферм нападений</p>\n<p><a href=\"https://github.com/litetex-oss/mcm-raid-restore/assets/40789489/eec2998c-00ad-4f8b-ac66-219fea0d5107\" target=\"_blank\" rel=\"nofollow\">Показать пример</a></p>\n<h2>Настройки</h2>\n<h3>Правило игры <code>raiderBadOmenEffectSec</code></h3>\n<p>Устанавливает длительность эффекта Bad Omen, который применяется после убийства капитана нашествия или патруля.<br>\nПо умолчанию указано значение <code>6000</code> (100 минут), как и в 1.20.</p>\n<p>Вы можете найти <a href=\"https://github.com/litetex-oss/mcm-raid-restore\" target=\"_blank\" rel=\"nofollow\">дополнительную информацию в соответствующем репозитории</a>.</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

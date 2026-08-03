@@ -1,0 +1,6 @@
+{
+  "bodyHash": "33e4056e930e1cd4",
+  "content": "<p><strong>僅支援 Fabric；Forge 版本已不再支援</strong></p>\n<p>Creeper 在後面跟蹤你，窺視你，這就是它們為什麼被稱為 Creep。<br>\n它們很少來跟踪我。<br>\n現在這個模組讓 Creeper 追蹤你，直到它們被你發現！<br>\n或許你會認為可以躲在堅固的大門後的小屋裡安全地躲藏。但不要期望能在那裡待太久，因為 Creeper 現在會直接炸毀你和它之間任何障礙物！</p>\n<h1>功能</h1>\n<ul>\n<li>Creeper 會在轉過身看到玩家前都不會引爆。</li>\n<li>If a creeper is close enough but cannot find a path to the player anymore due to obstacles, the creeper will blow up to clear a path for other mobs.</li>\n<li>Creepers have x-ray vision to see you even when you are inside your house, allowing them to blow down your walls.</li>\n<li>Creepers can now see up to 32 blocks away, instead of the vanilla 16 blocks.</li>\n<li>All of the above features are extensively configurable! Additional options include spawn protection on servers, and requiring creepers to see the player directly before chasing them through walls.</li>\n</ul>\n<h1>即將推出的功能</h1>\n<p>這些功能將在未來版本中添加：<br>\n所有先前規劃的功能都已添加！如果您有任何想法，請在 GitHub 頁面上提交問題。</p>\n<h1>點子</h1>\n<p>這些功能可能在未來的版本中添加，但近期內不會：</p>\n<ul>\n<li>其他種族的 AI 擴充範例：骷髏在掩體後射擊， Zombie 提醒附近有其他 Zombie 注意目標。</li>\n</ul>\n<p>靈感來源於（AtomicStryker's Stalker Creepers mod）[https://www.curseforge.com/minecraft/mc-mods/stalker-creepers]。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

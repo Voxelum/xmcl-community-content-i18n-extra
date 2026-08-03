@@ -1,0 +1,6 @@
+{
+  "bodyHash": "2bcb958b392e035f",
+  "content": "<!-- ASDUNION-AD:eyJpZCI6ImFkLTE3ODQ2MTExNzYyOTYtZjZkMnVhIiwibmFtZSI6IkFQSSBNb2RlbHMiLCJsaW5rIjoiaHR0cHM6Ly9hcGltb2RlbHMuYXBwL3poL2xvZ2luP2ludml0ZT1YOEZRN0EiLCJzdHlsZSI6ImZpeGVkLWJhbm5lciIsImNyZWF0ZWRBdCI6IjIwMjYtMDctMjFUMDk6MjQ6MjguMDYxWiJ9 -->\n<a href=\"https://apimodels.app/zh/login?invite=X8FQ7A\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://raw.githubusercontent.com/Sekai0NI0itamio/ModItamio/main/assets/screenshots/ad-ad-1784611176296-f6d2ua/final-banner-1784625724712.png\" alt=\"API Models 贊助商橫幅\" width=\"1280\" style=\"max-width:100%;height:auto;display:block;border-radius:8px;\"></a>\n<!-- ASDUNION-AD-END -->\n\n# 保持物品欄\n\n![Keep Inventory 封面圖片](https://raw.githubusercontent.com/Sekai0NI0itamio/keep-inventory/main/.modcompiler-art/description-image.webp)\n\n在死亡時永遠不會再丟失物品！此模組會自動強制設定 `keepInventory` 遊戲規則為 `true`，防止任何手動變更。\n\n## 功能\n\n- ✅ **自動啟用** - 當任何世界加載時，設定 `keepInventory=true`\n- ✅ **持續執行** - 每秒檢查一次，確保其保持啟用狀態\n- ✅ **自動修正** - 若被改為 false，則自動設回 true\n\n### 工作原理\n\n此模組使用兩種機制來確保 `keepInventory` 恆為開啟：\n\n- **週期性檢查**：每秒（20ticks）驗證遊戲規則是否仍為 `true`\n- **自動修復**：若檢測到遊戲規則被改為 `false`，會自動修復回 `true`\n\n這表示即使玩家或管理員執行 `/gamerule keepInventory false`，模組也會在 1 秒內將其改回來！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

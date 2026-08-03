@@ -1,0 +1,6 @@
+{
+  "bodyHash": "49c15c60091b865d",
+  "content": "<p>Пример пакета данных для создателей мод-паков, который можно использовать в качестве базы для пользовательских таблиц loot для модифицированных сундуков.<br><br><strong>Использование этого Пакета Данных:</strong><br>Пакеты данных могут использоваться для изменения добычи, которую выдают сундуки мода. В этом пакете данных представлен пример/базовый пакет данных, содержащий оригинальные таблицы loot для каждого сундуска. Помните, что следует сохранять ту же структуру каталогов, так как системы Minecraft на это полагаются. Просто изменяйте .json каждого сундука вручную или используйте инструмент, например, <a href=\"/linkout?remoteUrl=https%253a%252f%252fmisode.github.io%252floot-table%252f\" rel=\"nofollow\">https://misode.github.io/loot-table/</a> , для создания новых таблиц loot. Затем вы можете использовать эти новые таблицы loot, установив их в папку datapak мира. Вот ссылка на то, как установить пакеты данных: <a href=\"/linkout?remoteUrl=https%253a%252f%252fminecraft.fandom.com%252fwiki%252fTutorials%252fInstalling_a_data_pack\" rel=\"nofollow\">https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

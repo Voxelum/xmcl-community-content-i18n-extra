@@ -1,6 +1,6 @@
 {
-  "bodyHash": "Zi9agKMXZMc=",
-  "content": "# Fabric Force в нижнем регистре\n\nЭтот мод强制 отправлять первый аргумент любой команды на сервер в нижнем регистре, чтобы предотвратить синтаксические ошибки.\n\nОн делает это, преобразуя символы, введённые в первом слове после знака «/», в строчные буквы.\nПример:\n\n`/Msg TestUser Мое сообщение! -> /msg testuser моё сообщение!`\n\nПример:\n\n![](https://cdn-raw.modrinth.com/data/wyk6WIE7/images/e00321e4f84bcf8ddbcb2fb1a94d1e624fad0414.gif)\n\nБез мода:\n\n![](https://cdn-raw.modrinth.com/data/wyk6WIE7/images/fe81d59bc2474a42de5beb4ebe77d7d6bc0dade4.png)\n\nВдохновлено [Force Lowercase Commands](https://modrinth.com/mod/force-lowercase-commands)\n",
+  "bodyHash": "dde0e04c7f6a9281",
+  "content": "# Fabric Force Lowercase\n\nЭтот мод принудительно отправляет первый аргумент любого серверу в нижнем регистре, чтобы избежать проблем с синтаксиса\n\nОн делает это, заставляя символы, которые вводятся в первом слове после /, писалась в нижнем регистре.\nПример:\n\n`/Msg TestUser My message! -> /msg TestUser My message!`\n\nПример:\n\n![Fabric Force Lowercase](https://cdn-raw.modrinth.com/data/wyk6WIE7/images/e00321e4f84bcf8ddbcb2fb1a94d1e624fad0414.gif)\n\nБез мода:\n\n![Fabric Force Lowercase No Mod](https://cdn-raw.modrinth.com/data/wyk6WIE7/images/fe81d59bc2474a42de5beb4ebe77d7d6bc0dade4.png)\n\nВдохновлено [Force Lowercase Commands](https://modrinth.com/mod/force-lowercase-commands)",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

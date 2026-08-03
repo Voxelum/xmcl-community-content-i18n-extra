@@ -1,6 +1,6 @@
 {
-  "bodyHash": "T2U0ikhuKCw=",
-  "content": "# 苔蘚修復（重製版）\n\n本模組的主要功能是強化使用骨粉手動散播苔蘚時的生長機制。它能讓苔蘚在透明方塊下散播，並且即使苔蘚上方有其他方塊，依然可以使用骨粉施肥。此外，這個專案設計為可自定義且預設相容，能夠跨模組載入器與版本運作。\n\n另外，本模組提供了兩個額外的內建資源包，其中一個能讓苔蘚擴散到沙子和礫石上，另一個則是讓苔蘚擴散到鵝卵石上。玩家可以從資料包選擇畫面或使用 /datapack disable 指令來停用這些資源包。\n\n你可以在[這個試算表](https://docs.google.com/spreadsheets/d/1B4C_D2asPomPq7kbOQNiG-LJorGvj14SLeHua14sHN4/edit?gid=0#gid=0)中查看版本與模組載入器的支援情況。",
+  "bodyHash": "78e2e2a472dea9dd",
+  "content": "# 苔蘚修復（重製版）\n\n此模組的主要功能是在使用骨粉手動擴散時增強苔蘚生長。它允許苔蘚在透明方塊下方擴散，並允許在苔蘚上方有方塊時也能對其使用骨粉。此外，此專案預設即可配置和兼容，可在不同模組載入器和版本中運行。\n\n除此之外，此模組還提供兩個內置資源包，一個讓苔蘚可以擴散到沙子和礫石上，另一個則讓苔蘚擴散到圓石上。這些可以從數據包選擇屏幕或使用 /datapack disable 命令禁用。\n\n您可以在 [此電子表格](https://docs.google.com/spreadsheets/d/1B4C_D2asPomPq7kbOQNiG-LJorGvj14SLeHua14sHN4/edit?gid=0#gid=0) 中查看版本和載入器支持信息。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "054a46962d0b7f13",
+  "content": "此數據包修復了 VS Sails、Farmer's Delight 和 Supplementaries 之間製作的不相容性。此前，這些模組的繩子是相互獨立的，無法用於彼此的配方中。現在，所有繩子均已統一！您可以在 Farmer's Delight 配方中使用 VS Sails 的繩子，反之亦然，從而創造出完全整合且統一的製作體驗。再也不會出現配方衝突或在您的生存世界中感到沮喪了！\n\n![Example](https://cdn.modrinth.com/data/LtKvNwmL/images/2ffbfc85d2a70a5d012b12c25184fb98ece0b1fe.png)\n![Example](https://cdn.modrinth.com/data/LtKvNwmL/images/e4f68bd23dbc0cc944b545c0f8a2a203ef9d5420.png)\n\n**您可以自由地在您的模組包中使用此數據包，只需給予署名即可**",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8d854761e5846f76",
+  "content": "![banner](https://cdn.modrinth.com/data/cached_images/5af3ba9eb711fbd0def66ff8212ebcec34e1e55b_0.webp)\n\n早起是一個簡單的模組，允許 modpack 開發者和伺服器所有者配置在伺服器中允許多早入睡。\n\n預設情況下，此模組允許使用者提前 1000 個刻（約 50 秒）入睡。您可以在模組設定中進行配置。\n\n制作此模組主要是因為許多著色器都具有誇大的日落效果，雖然這看起來很棒，但也讓你更早想睡覺！例如，使用 Hysteria 著色器時，天色會很快變暗，但原版遊戲並未暗到足以讓太陽下山前入睡。\n\n![shaders](https://i.imgur.com/Ea2AUB4.jpeg)\n![vanilla](https://i.imgur.com/U5SXa7o.png)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

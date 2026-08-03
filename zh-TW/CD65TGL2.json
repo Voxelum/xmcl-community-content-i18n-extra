@@ -1,0 +1,6 @@
+{
+  "bodyHash": "07294329303b3925",
+  "content": "# 無維度\n\n<details>\n<summary>[zh-TW] 關於此模組</summary>\n\n> !! 使用 Fabric 時請安裝 [Fabric API](https://modrinth.com/mod/fabric-api) 和 [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)。\n\n此模組用於禁用維度。在建立世界時，模組會忽略 config 中指定的維度載入，從而優化記憶體使用。\n\n注意：\n- 如果您禁用了某個維度並進入一個該維度已載入的世界，您將再也無法進入此維度（即使使用 `/execute` 命令），也無法透過從 No Dimension 的 config 中移除維度 ID 並重啟遊戲來恢復。（維度資料夾內的檔案並未被刪除。）\n- 僅有維度被禁用；傳送門仍可激活，但無法進行傳送。\n- 主世界 (`minecraft:overworld`) 無法禁用。\n\n例如在只使用特定維度的故事導向模组包中可應用此模組（如 Twilight Forest），避免儲存其他維度資訊所浪費資源 - 您可搭配本模組禁用它們。\n\n設定檔路徑為：`\\config\\no_dimension-common.toml`\n\n範例配置：\n```toml\n[general]\n\ttarget_dimension = [\"minecraft:the_nether\", \"minecraft:the_end\"]\n```\n\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
