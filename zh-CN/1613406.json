@@ -1,0 +1,6 @@
+{
+  "bodyHash": "8138856378bbf480",
+  "content": "<p>轻松建造：额外方向 在现有的圆形和圆柱体建造模式基础上，增加了额外的方向选项。</p>\n<h3>功能</h3>\n<ul>\n<li>垂直建造圆形，而不仅仅是水平建造</li>\n<li>水平建造圆柱体，而不仅仅是垂直建造</li>\n<li>根据玩家面向的方向锁定朝向</li>\n<li>预览方块和最终放置使用相同的朝向</li>\n<li>原有的起始点和填充选项继续有效</li>\n<li>原始的水平圆形和垂直圆柱体保持不变</li>\n</ul>\n<h3>依赖</h3>\n<ul>\n<li>Minecraft 1.21.1</li>\n<li>NeoForge</li>\n<li>Effortless Building 4.1</li>\n</ul>\n<p>将本插件与 Effortless Building 一起安装。对于多人游戏，需要在客户端和服务端都安装。</p>\n<h3>许可证与归属</h3>\n<p>这是 Effortless Building 的非官方插件，与原始开发者无关且未获得其认可。</p>\n<p>Effortless Building: Extra Orientations 遵循 GNU Lesser General Public License v3.0 许可证。</p>\n<p>源代码公开可查，重大更改均按照原始项目的修改要求进行文档记录。</p>\n<p>原始 Effortless Building 项目：</p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/effortless-building?utm_source=chatgpt.com\" rel=\"nofollow\">https://www.curseforge.com/minecraft/mc-mods/effortless-building</a></p>\n<p>作者：<strong>Ben Ponte (focustap)</strong>。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}
