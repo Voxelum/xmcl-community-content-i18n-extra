@@ -1,6 +1,6 @@
 {
-  "bodyHash": "rdXI0p6jwdk=",
-  "content": "Clumps 將經驗球聚合成單一實體，減少在小範圍內有大量經驗球時的延遲。除此之外，它還能讓玩家一碰到經驗球就立即收集，讓你不會被一堆經驗球困在面前。\n\n### 我需要在客戶端或伺服器端安裝嗎？\n* 對於 **1.17 或更新版本**，只需要在 **伺服器端** 安裝即可。\n* 對於 **較舊的 Minecraft 版本**，則需要在 **兩端** 都安裝。\n\n如果你想支持我的模組開發工作，可以透過 **[![Patreon 標誌](https://i.imgur.com/CAJuExT.png) Patreon](https://www.patreon.com/jaredlll08)** 成為贊助者。\n\n[![Nodecraft 贊助橫幅](https://assets.blamejared.com/nodecraft/jared.jpg)](https://nodecraft.com/r/jared)\n\n**本項目由 Nodecraft 贊助。使用優惠碼 [JARED](https://nodecraft.com/r/jared) 可享首月服務七折優惠！**",
+  "bodyHash": "161e62c1c47b958f",
+  "content": "\n\nClumps 會將經驗球群聚合成單一實體，以減少在狹小區域內出現大量經驗球時產生的延遲。此外，它還會讓玩家在觸碰到經驗球時立即收集，避免經驗球堆積在眼前。\n\n### 我需要在客戶端或服務端安裝嗎？\n* 對於 **1.17 或更新版本**，僅需在 **服務端** 安裝。\n* 對於 **較舊的 Minecraft 版本**，則需要在 **兩端** 都安裝。\n\n如果您希望支持我的模组開發工作，可以透過 **[![Patreon logo](https://i.imgur.com/CAJuExT.png) Patreon](https://www.patreon.com/jaredlll08)** 成為我的贊助者。\n\n[![Nodecraft sponsor banner](https://assets.blamejared.com/nodecraft/jared.jpg)](https://nodecraft.com/r/jared)\n\n**本專案由 Nodecraft 贊助。使用代碼 [JARED](https://nodecraft.com/r/jared) 即可享受首月服務 30% 折扣！**",
   "contentType": "text/markdown",
   "type": "modrinth"
 }
