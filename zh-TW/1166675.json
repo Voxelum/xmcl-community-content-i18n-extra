@@ -1,0 +1,6 @@
+{
+  "bodyHash": "e083df61d1c4aa31",
+  "content": "\n\n<h1>Qualia Carpet 擴充套件</h1>\n<p>為 <a href=\"https://www.curseforge.com/minecraft/mc-mods/carpet\" target=\"_blank\" rel=\"nofollow\">Carpet Mod</a> 新增若干有趣的特性與實用的指令。</p>\n<p><img src=\"https://img.shields.io/github/license/QiuShui1012/Qualia-Carpet-Addition.svg\" alt=\"授權條款\"> <img src=\"https://img.shields.io/github/issues/QiuShui1012/Qualia-Carpet-Addition.svg\" alt=\"開啟的問題\"> <img src=\"https://img.shields.io/github/issues-pr/QiuShui1012/Qualia-Carpet-Addition.svg\" alt=\"開啟的 PR\"> <img src=\"https://img.shields.io/github/last-commit/QiuShui1012/Qualia-Carpet-Addition.svg\" alt=\"最近一次提交\"></p>\n<h2>部分指令</h2>\n<h3>commandTpPos</h3>\n<p>類似 /tp 指令，但僅允許將實體傳送至指定位置。</p>\n<h3>tooExpensiveLevel</h3>\n<p>調整觸發鐵砧「代價過高！」提示的修理等級門檻。</p>\n<h3>repairCostMultiplier</h3>\n<p>設定計算後續修理等級時的倍率。</p>\n<h2>完整文件</h2>\n<ul>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fqiushui1012.com%252fenUS%252fdocs%252fqca-rules\" target=\"_blank\" rel=\"nofollow\">English</a></li>\n<li><a href=\"/linkout?remoteUrl=https%253a%252f%252fqiushui1012.com%252fzhCN%252fdocs%252fqca-rules\" target=\"_blank\" rel=\"nofollow\">简体中文</a></li>\n</ul>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}

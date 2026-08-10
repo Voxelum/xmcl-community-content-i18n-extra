@@ -1,0 +1,6 @@
+{
+  "bodyHash": "99c3adadcae10de8",
+  "content": "\n\n# TaCZ 槍枝包重新分配\n\nTaCZ 槍枝包重新分配是《Timeless and Classics Guns: Zero》的相容性工具。\n\n它允許從正常的 `resourcepacks` 和 `shaderpacks` 資料夾載入 TaCZ 槍枝包。這讓 mod 組合編寫者能更容易透過 Modrinth 及其他 mod 組合平台來分發相容的槍枝包。\n\n## 功能\n\n- 從 `resourcepacks` 載入有效的 TaCZ 槍枝包資料夾。\n- 從 `resourcepacks` 載入有效的 TaCZ 槍枝包 `.zip` 檔案。\n- 從 `shaderpacks` 載入有效的 TaCZ 槍枝包資料夾。\n- 從 `shaderpacks` 載入有效的 TaCZ 槍枝包 `.zip` 檔案。\n- 專為 Minecraft 1.21.1 與 NeoForge 設計。\n- 保持與 TaCZ mod 生態系的相容性。\n\n## 需求\n\n- Minecraft 1.21.1\n- NeoForge 21.1 或更新版本\n- Timeless and Classics Guns: Zero 1.1.4 或更新版本\n\n## 安裝\n\n1. 為 Minecraft 1.21.1 安裝 NeoForge。\n2. 安裝 Timeless and Classics Guns: Zero。\n3. 將本 mod 放入 `mods` 資料夾。\n4. 將相容的 TaCZ 槍枝包放入 `resourcepacks` 或 `shaderpacks` 資料夾。\n5. 啟動 Minecraft。\n\n## 鳴謝\n\n原版 TaCZ 槍枝包重新分配 mod 由 ChloePrime 創作。\n\n此版本是由 Tiyun Sol 針對 Minecraft 1.21.1 NeoForge 的相容性分支版本。\n\n## 授權\n\nGNU GPL 3.0。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
