@@ -1,0 +1,6 @@
+{
+  "bodyHash": "aa6bb69b9deea26f",
+  "content": "\n\n# Epitaph Optimizer\n\n一款輕量的客戶端 Fabric 模組，適用於 Minecraft 1.21.11，會在啟動時自動套用對效能友善的視頻設定——與你在「視頻設定」中手動調整的相同選項，只是不必每次都重新設定。\n\n該模組不使用任何 mixins，也不會觸及遊戲邏輯、網路程式碼或渲染管線，因此可安全地與 Sodium、Lithium、Iris、FerriteCore、Voxy、Krypton 及 ImmediatelyFast 等模組同時使用。\n\n## 自動調整的項目\n\n- **粒子效果** → 最小\n- **實體陰影** → 關閉\n- **環境遮蔽（平滑光照）** → 關閉\n- **雲朵** → 快速\n- **葉片** → 快速/截斷（不透光的）\n- **生物群系混合半徑** → 0\n\n## 需求\n\n- Minecraft 1.21.11\n- Fabric Loader ≥ 0.19.3\n- Fabric API\n- Java 21",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
