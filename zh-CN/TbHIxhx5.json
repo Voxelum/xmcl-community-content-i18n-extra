@@ -1,0 +1,6 @@
+{
+  "bodyHash": "291963d9c65f5238",
+  "content": "\n\n# ViaRewind\n**ViaVersion 的插件，允许在新版服务器版本上使用 1.8.x 和 1.7.x 客户端。** <br>\n可在 1.9 至最新版服务器或 1.8 及以下客户端上运行。\n\n**你可以在 [ViaFabric](https://modrinth.com/mod/viafabric) 或 [ViaProxy](https://github.com/ViaVersion/ViaProxy) 中覆盖内置版本：**\n- 在 **ViaFabric** 中，将 ViaRewind 放入 `mods` 文件夹\n- 在 **ViaProxy** 中，将 ViaRewind 放入 `jars` 文件夹\n\n需要 Java 17。请参阅 [此处](https://docs.papermc.io/misc/java-install) 了解如何更新已安装的 Java 版本。作为备选方案，你可以从 [我们的 CI](https://ci.viaversion.com/view/ViaRewind/job/ViaRewind-Java8/) 下载 Java 8 降级构建版本。\n\n**需要已安装 [ViaVersion](https://hangar.papermc.io/ViaVersion/ViaVersion) 和 [ViaBackwards](https://hangar.papermc.io/ViaVersion/ViaBackwards)。**\n\n发布版本 / 开发构建\n-\n你可以在以下位置找到发布版本：\n\n- **Hangar（用于插件）**: https://hangar.papermc.io/ViaVersion/ViaRewind\n- **Modrinth（用于模组）**: https://modrinth.com/mod/viarewind\n- **GitHub**: https://github.com/ViaVersion/ViaRewind/releases\n\n我们**所有**项目的开发构建均位于 Jenkins 服务器：\n\n- **Jenkins**: https://ci.viaversion.com/view/ViaRewind/\n\n其他链接\n-\n**Maven:** https://repo.viaversion.com/\n\n**问题追踪器:** https://github.com/ViaVersion/ViaRewind/issues\n\n**贡献者列表:** https://github.com/ViaVersion/ViaRewind/graphs/contributors",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
