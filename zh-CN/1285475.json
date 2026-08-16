@@ -1,0 +1,6 @@
+{
+  "bodyHash": "13eea45214a62bb5",
+  "content": "\n\n<p>Colorwheel Patcher 是一款在启动时自动修补已支持着色器的 Mod，使其与 <a href=\"https://www.curseforge.com/minecraft/mc-mods/colorwheel\" target=\"_blank\" rel=\"nofollow\">Colorwheel</a> 兼容。</p>\n<p>它替代了手动修补，提供了更加便捷的方式。</p>\n<h2>使用方法</h2>\n<ol>\n<li>安装 Mod</li>\n<li>安装兼容的着色器包（见下文）</li>\n<li>启动游戏</li>\n<li>选择已修补的着色器包（以 \"+ Clrwl …\" 结尾）</li>\n</ol>\n<h2>支持的着色器</h2>\n<ul>\n<li>BSL 10.1</li>\n<li>Bliss 2.1.1 - 2.1.2</li>\n<li>Complementary 5.6 - 5.6.1（自 r5.7 起官方支持）</li>\n<li>Complementary 5.5.1（配合 Colorwheel-Patcher 1.0.0）</li>\n<li>Euphoria Patches 1.6.3 - 1.6.8（自 1.7.0 起官方支持）</li>\n<li>Photon 1.3a</li>\n<li>Rethinking Voxels 0.1-beta9</li>\n</ul>\n<p><strong>提示</strong>：着色器包默认通常会禁用实体阴影或方块实体阴影。如果你希望机械动力（Create）的装置投射光线和阴影，请确保启用相关选项。</p>\n<p>在我的 <a href=\"https://github.com/djefrey/photon\" target=\"_blank\" rel=\"nofollow\">GitHub</a> 上有一个 Photon 的分支。该分支支持装置上的彩色光源，并且与 Voxy 兼容，而 Colorwheel-Patcher 所提供的补丁并不支持这些功能。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}
