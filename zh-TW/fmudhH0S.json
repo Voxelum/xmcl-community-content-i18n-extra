@@ -1,0 +1,6 @@
+{
+  "bodyHash": "d0cb452133708ed5",
+  "content": "\n\n# Create: Propulsion\n\n是一個為 Create 和 Valkyrien Skies 2 設計的附加模組，增添更多推進與操控載具的方式，並完美契合 Create 模組的風格！\n\n加入我們的 [Discord](https://discord.gg/knB8UV3bzZ)！\n\n![飛行器在機庫中進行推進器測試](https://media.forgecdn.net/attachments/1171/526/thr2-png.png)\n\n**這個模組新增了哪些內容？**\n- **推進器（Thruster）**：為載具提供推力，可用紅石控制。\n- **紅石磁鐵（Redstone Magnet）**：根據極性吸引或排斥其他磁鐵。\n- **內置光學感測器（Inline Optical Sensor）**：基礎且小型的光線投射方塊偵測器。\n- **光學感測器（Optical Sensor）**：可配置的光線投射方塊偵測器。可設定偵測距離並過濾方塊類型。\n- **物理組裝機（Physics Assembler）**：將方塊組裝成物理實體。\n- **地磁導引追蹤器（Lodestone Tracker）**：追蹤綁定羅盤的地磁導引方塊。\n\n![光學感測器偵測方塊並輸出對應的紅石訊號](https://media.forgecdn.net/attachments/1171/525/os3-png.png)\n\n相依模組：\n- [Create](https://modrinth.com/mod/create)\n- [Valkyrien Skies 2](https://modrinth.com/mod/valkyrien-skies)\n\n![起重機使用紅石磁鐵拾取貨運箱](https://media.forgecdn.net/attachments/1259/35/magnet_crane2-png.png)\n\n相容性：\n- Create Diesel Generators（推進器支援 CDG 燃料）\n- Create: The Factory Must Grow（推進器支援 TFMG 燃料）\n- ComputerCraft（多數方塊皆具有外接設備）\n- Create Big Cannons\n- 應可與大多數模組正常協同運作，若發現任何衝突歡迎回報！\n\n*目前為極早期的 Alpha 版本，功能有限並可能存在錯誤。*",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "302d7dff1cc4137e",
+  "content": "\n\n本模组添加了美剧《黑袍纠察队》(The Boys) 中的能力，允许玩家使用这些超能力，包括火车头和祖国人的能力。未来的更新将引入更多超级英雄，并逐步完善游戏机制。已添加火车头和祖国人的服装，穿着时会触发特殊效果。使用命令函数 `hero.set:train` 激活火车头的能力，使用函数 `hero.set:homelander` 激活祖国人的能力。使用命令函数 `hero:clear` 清除你的超能力。\n你还可以使用下方的合成表来制作祖国人的服装。如果你拥有祖国人的能力并穿上这套服装，你将学会飞行。![黄色头发](https://cdn.modrinth.com/data/cached_images/9e293277a81c6689cc03fadc51e8cfb313ef70dc.png)![一件衣服](https://cdn.modrinth.com/data/cached_images/36127e2cc92dcea6014d27bc279e6a19944b158e.png)![裤子](https://cdn.modrinth.com/data/cached_images/30c595810955c595cf899dd57e9e3b41124a773b.png)![鞋子](https://cdn.modrinth.com/data/cached_images/a8c6be39280257ee63daba81ee0120eed564c9fb.png)\n按住键盘上的前进和后退键即可使用你的超能力。\n来组建你自己的《黑袍纠察队》吧！",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
