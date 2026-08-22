@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b9b48955b7dce613",
+  "content": "\n\n这是 [Numismatic Overhaul](https://www.curseforge.com/minecraft/mc-mods/numismatic-overhaul) 的 [原版 Forge 移植版](https://www.curseforge.com/minecraft/mc-mods/numismatic-overhaul-reforged) 的一个分支版本。\n\n**请将本模组的所有漏洞报告提交至本模组的 GitHub Issue 页面。本模组与原版 Forge 移植版及原版 Fabric 版本均无任何关联。** 请注意，本模组为委托制作，因此维护频率可能不如我的其他模组。\n\n**所有功能均来自 Numismatic Overhaul 的 2022 年 11 月 22 日构建版本，暂无计划移植其他功能。**\n\n# ![](https://i.imgur.com/WRgQ7AU.png)\n\n<p style=\"text-align: center;\">Numismatic Overhaul 为 Minecraft 添加了一套货币系统，与泰拉瑞亚（Terraria）的方式类似。你的物品栏中有一个钱袋，用来存放你的财富——这些财富可以通过击杀劫掠者、探索堡垒、要塞、地牢、劫掠者前哨站、埋藏的宝藏、沙漠金字塔以及废弃矿洞等结构获得，当然也可以通过与村民交易获得。</p>\n\n<p style=\"text-align: center;\">![](https://i.imgur.com/eaZwQtf.png)</p>\n\n<p style=\"text-align: center;\">说到村民，他们也已经完全重做了。首先，他们显然使用货币而非绿宝石进行交易。此外，他们的交易也经过重新平衡和调整，以提供更有趣的交易体验。</p>\n\n<p style=\"text-align: center;\">![](https://i.imgur.com/7wDkasS.png)</p>\n\n<p style=\"text-align: center;\">最后一个功能是**商店**，它为玩家之间的物品交易提供了便捷的方式。打开商店后，会显示一个村民 GUI 界面，其中的交易由店主进行配置。当有人购买商品后，金钱会存入其中，店主可以随时取回。</p>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}

@@ -1,0 +1,6 @@
+{
+  "bodyHash": "67a46f81c9d5847c",
+  "content": "\n\n# CreateDPcompat\nМод для Fabric, предназначенный для обеспечения возможности прохода поезда из мода Create : https://modrinth.com/mod/create-fabric через порталы DatapackPortals : https://modrinth.com/mod/datapackportals\n\nЭто позволяет поезду перемещаться в любые измерения при условии, что пользователь или автор модпака предоставит необходимую конфигурацию датапака.\n\nПример ниже:\n\n![Пример](https://cdn.modrinth.com/data/1k95061B/images/7c5573cc7de5c8be38e04e89f4c214a2e2041c50.gif)\n\nСовместим с модом Steam 'n' Rails : https://modrinth.com/mod/create-steam-n-rails версии : 1.5.0",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
