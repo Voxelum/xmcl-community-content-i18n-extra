@@ -1,0 +1,6 @@
+{
+  "bodyHash": "dc69519feddfa0f3",
+  "content": "\n\n這個模組收錄了一系列針對「匠魂」（Tinkers Construct）的細微調整與修改，我認為這樣能提升遊戲的趣味性並讓整體更平衡。\n\n需要安裝 [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)（理所當然），以及其相依套件 [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) 才能使用。\n\n目前功能：\n\n- 新增煙灰熔合金機，作為對原本匠魂中焦黑 variants 的補充\n- 重新加入鋁黃銅鑄模（可搭配我的模組 Metalica 等來在遊戲中取得鋁黃銅材料）\n- 重新加入鏟子與鏟頭部件\n\n特別感謝匠魂團隊的 KnightMiner，在我理解該模組內部運作時提供了許多協助。\n\n跟我的其他模組一樣，歡迎在您的整合包中使用本模組 :P\n\n歡迎在 GitHub 的 [問題追蹤器](https://github.com/RedFox86/Random-Tinkers-Tweaks/issues) 上提供建議或回報問題。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
