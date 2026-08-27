@@ -1,0 +1,6 @@
+{
+  "bodyHash": "b0c55a6732708df3",
+  "content": "\n\n<h3><strong>問題所在</strong></h3>\n<p>當我的朋友正在深入遊玩 <a href=\"https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry\" target=\"_blank\" rel=\"nofollow\"><strong>Create: Enchantment Industry</strong></a>，並將所有液態經驗存入 <a href=\"https://www.curseforge.com/minecraft/mc-mods/refined-storage\" target=\"_blank\" rel=\"nofollow\"><strong>Refined Storage</strong></a> 的磁碟時，他遇到了巨大的瓶頸：竟然沒有桶子！！</p>\n<p>如果你曾嘗試為無桶裝液的液體設定 Exporter 或 Importer，你就會明白那種痛苦。你無法從 JEI 中將流體「虛影拖拽」到過濾器中。你只能對著一個 Refined Storage 拒收的「無法取得區塊」圖示，然後自動化系統就徹底停擺。</p>\n<h3><strong>解決方案</strong></h3>\n<p>我製作這個 Mod 就是要彌補這個缺口。不用再藉助充液的儲存槽或是複雜的繞道方式——它本該就這樣運作。</p>\n<div class=\"spoiler\">\n<p>此 Mod 是 DollyDooby 的要求，所以感謝他。</p>\n</div>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}
