@@ -1,6 +1,6 @@
 {
-  "bodyHash": "orsc6ixy3ok=",
-  "content": "修复了机械动力（Create）模组的配方冲突。\n\n默认支持粉碎、切削、鼓风机处理、砂纸打磨、压印、混合以及一些其他配方类型。",
+  "bodyHash": "a60628d06b6d9546",
+  "content": "\n\n修复 Create 配方冲突。\n\n默认支持破碎、研磨、风扇处理、砂纸抛光、压制、混合及其他部分配方类型。",
   "contentType": "text/markdown",
   "type": "modrinth"
 }
