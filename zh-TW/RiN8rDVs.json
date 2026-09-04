@@ -1,0 +1,6 @@
+{
+  "bodyHash": "508eb65b3a4c9c46",
+  "content": "\n\n![WorldWeaver Banner](https://cdn.modrinth.com/data/cached_images/3d3a84901a34aee0d495df6fb5bbd4d2751448f2.png)\n\n**WorldWeaver**，簡稱 *WoVer*，是一款適用於 Minecraft 的 Fabric 實用模組，旨在簡化常見的模組開發任務，尤其是與世界建立相關的任務。作為 BCLib 的後繼者，WoVer 預期最終將取代 BCLib。透過採用 Minecraft 數據驅動的世界生成方法，WoVer 致力於提升資料元素（例如資源包、數據包等）在模組開發中的價值，並提供更具彈性且更強大的世界建立與修改方式。\n\n此外，WoVer 設計上能夠與原版遊戲、其他模組以及世界生成數據包無縫整合。\n\n**請注意**，本模組目前仍處於早期開發階段，尚未可供正式使用。這意味著：\n\n- API 尚未穩定，版本間可能會有很大的變更。\n- 可能出現無法復原的破壞遊戲進度的錯誤，甚至導致世界損壞。\n- 部分模組的說明文件可能尚未完成，尤其是仍在積極開發中的部分。\n\n我們將在近期提供更多詳細資訊。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
