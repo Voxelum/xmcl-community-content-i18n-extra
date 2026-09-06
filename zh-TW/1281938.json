@@ -1,0 +1,6 @@
+{
+  "bodyHash": "47052b15258b1341",
+  "content": "\n\n<p>Sophisticated Storage 是一款很棒的模組，但即使你在設定檔中調整了物品欄格子數量，它仍會上限為 180 格 &mdash; 對某些玩家來說可能不夠用。</p>\n<p>這個擴充模組使用 Mixin 大幅提升物品欄格數和升級格數的設定上限。現在，你可以擁有超大容量的桶子/箱子/潜影盒！</p>\n<p><img src=\"https://media.forgecdn.net/attachments/description/1281938/description_229a6230-e113-4725-baa3-8b1548bd34dc.png\" alt=\"\"></p>\n<p>首先，你需要啟動遊戲一次以啟用此模組。</p>\n<p>之後，你會發現 sophisticatedstorage-server.toml 中的物品欄格數上限不再受限於 180 格。</p>\n<p>警告：請勿在超大容器內塞入過多物品 &mdash; 這可能會導致嚴重的延遲、當機，甚至潛在的世界損壞。請謹慎使用！</p>\n<p>Sophisticated Backpacks 擴充模組：<a href=\"https://www.curseforge.com/minecraft/mc-mods/backpack-plus\" rel=\"nofollow\">Backpack Plus - Minecraft Mods - CurseForge</a></p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}
