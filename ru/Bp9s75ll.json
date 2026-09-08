@@ -1,0 +1,6 @@
+{
+  "bodyHash": "15ed540352f108c8",
+  "content": "\n\n## No Lunge\nНе даёт применить Lunge любого уровня к любому копью в режиме выживания. Книгу с Lunge всё ещё можно получить.\n\n<details>\n<summary>Примечание</summary>\n\nЕсли вы примените этот datapack после наложения Lunge на копье, это копье сохранит зачарование Lunge.\n\n</details>\n\n</details>\n<details>\n<summary>Установка</summary>\n  \n### Установка на сервер (Datapack)\n  \n1. Перейдите в основную папку сервера\n  \n2. Откройте _world_ -> _datapacks_\n\n3. Загрузите datapack в папку _datapacks_\n\n### Установка в мир (Datapack)\n\n1. Нажмите Win + R и введите %appdata%\n\n2. Откройте _.minecraft_ -> _saves_ -> _<название мира>_ -> datapacks\n\n3. Загрузите datapack в папку _datapacks_\n\n(Обратите внимание, что если вы используете лаунчер, такой как Modrinth App или Prism Launcher, вам нужно перейти к вашему экземпляру в лаунчере и нажать «Открыть папку».)\n\n### Установка на сервер (Mod)\n\n1. Перейдите в основную папку сервера\n\n2. Откройте _mods_\n\n3. Загрузите мод в папку _mods_\n</details>",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
