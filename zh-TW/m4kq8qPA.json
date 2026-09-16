@@ -1,0 +1,6 @@
+{
+  "bodyHash": "fdfb6323836c0d22",
+  "content": "\n\n![Drying rack in action](https://cdn.modrinth.com/data/cached_images/faaeabbe9a31b663637a5777b5186588eaf70c9a.gif)\n\n將 Tinkers' Construct 中的乾燥架簡單移植到 1.20.1+ 版本，並新增額外設定選項、JEI 整合與資料驅動食譜支援。\n\n**1.20.1**：可在以下路徑定義食譜：`your_pack/data/rackitup/recipes/your_recipe.json`\n\nJSON 範例（「time」單位為刻）：\n\n```json\n{\n  \"type\": \"rackitup:drying\",\n  \"ingredient\": {\n    \"item\": \"minecraft:rotten_flesh\"\n  },\n  \"result\": {\n    \"item\": \"rackitup:monster_jerky\",\n    \"count\": 1\n  },\n  \"time\": 12000\n}\n```\n**1.21+**：路徑改為 `your_pack/data/rackitup/recipe/your_recipe.json`，在 `\"result\"` 下方將 `\"item\": \"rackitup:monster_jerky\"` 替換為：\n```json\n\"id\": \"rackitup:monster_jerky\n```\n\n你也可以掛上沒有食譜的道具作為裝飾。\n\n歡迎在 [Discord](https://discord.gg/XycfdKx9JH) 提出新功能建議。\n\n[![Support me on Ko-fi](https://cdn.modrinth.com/data/cached_images/ea724bdc4fc0daa04bebac2ef881a89fbafe8bc5.png)](https://ko-fi.com/W7W21Z2KUO)",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
