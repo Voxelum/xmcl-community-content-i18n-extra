@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0d95c8bd53a14011",
+  "content": "\n\n# 去除领地按钮\n## realmsfix\n一个简单的 Fabric 模组，用于从主菜单中移除领地（Realms）按钮\n\n![1.20.4 主菜单，注意已移除领地按钮](http://raw.githubusercontent.com/BluCobalt/realmsfix/master/readme.png)\n\n同一个文件适用于 1.7.10 至 1.20.x 的所有（非快照）版本，低于 1.14 的版本使用 [Legacy Fabric](https://legacyfabric.net)。\n\n# 许可证\nrealmsfix 是自由软件；你可以在自由软件基金会发布的 GNU 较宽通用公共许可证（第 2.1 版或更高版本）的条款下重新分发和/或修改它。\n\nrealmsfix 的发布是希望它能有所帮助，但不保证任何明示或暗示的担保，包括但不限于适销性或特定用途适用性的担保。有关详细信息，请参阅 GNU 较宽通用公共许可证。\n\n你应该在 realmsfix 中收到一份 GNU 较宽通用公共许可证副本。如果没有，请参阅 <http://www.gnu.org/licenses/>。\n\n# 整合包 / 其他\n你可以以任何方式使用本模组，只需给予署名并遵守上述许可证即可。例如链接到 Modrinth 页面或类似内容。\n<br>\n或者不用！你有自由意志。（但如果你能这样做，我会很感激。）",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
