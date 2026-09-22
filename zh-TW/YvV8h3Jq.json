@@ -1,0 +1,6 @@
+{
+  "bodyHash": "0b118fc90dd9aa5f",
+  "content": "\n\n此模組為 **tinker's construct** 中的所有材質新增資料表，協助玩家找出擁有最佳數值的材質。安裝模組後，在遊戲中按下指定鍵（預設為「P」）即可顯示該資料表。\n\n首先，選擇一個材質類別（例如：頭部、握柄、握把、護甲片等）。符合該類別的所有材質都會在資料表中顯示。\n\n點擊資料表標題即可依該數值排序材質。\n\n![tinker 材質與數值資料表](https://cdn.modrinth.com/data/cached_images/79d22415c061e48eb4d161e4c7cec6eced2812ad.png)\n\n已知問題：  \n當存在其他 tinker's construct 擴充模組時，文字可能無法正確顯示。此問題將在未來版本中修正。",
+  "contentType": "text/markdown",
+  "type": "modrinth"
+}
