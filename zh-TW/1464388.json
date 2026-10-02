@@ -1,0 +1,6 @@
+{
+  "bodyHash": "9ebfcc28470ae536",
+  "content": "\n\n<h1>圖騰計數器</h2>\n<h2><span style=\"color:#3598db\"><strong>概述</strong></span></h2>\n<p>圖騰計數器是一款簡潔的 HUD 模組，讓你能一眼看清物品欄中擁有幾隻不死圖騰。不用再打開物品欄檢查——只需看螢幕右上角即可！</p>\n<h2><span style=\"color:#2dc26b\">功能特色</span></h2>\n<ul>\n<li>在螢幕右上角顯示圖騰圖示</li>\n<li>顯示主物品欄中圖騰的精確數量</li>\n<li>物品欄變更時自動更新</li>\n<li>不會計算快捷欄中的圖騰（這樣你可以保留一個在快捷欄備用，避免重複計數）</li>\n</ul>\n<h2><strong><span style=\"color:#2dc26b\">小貼士與技巧</span></strong></h2>\n<ul>\n<li>快捷欄中放一個圖騰以便戰鬥時快速使用，再用計數器追蹤你的備用庫存</li>\n<li>計數器僅顯示主物品欄格子中的圖騰，因此你可以清楚區分「備用」儲存量與正在使用的快捷欄圖騰</li>\n<li>與其他 HUD 模組搭配使用效果極佳——顯示保持簡潔且不遮擋畫面</li>\n</ul>\n<h2><strong><span style=\"color:#e03e2d\">已知限制</span></strong></h2>\n<ul>\n<li>計數器僅追蹤主物品欄中的圖騰（不含終界箱、儲物袋或其他容器）</li>\n<li>顯示位置固定在右上角，無法移動</li>\n</ul>\n<p>本專案請勿盜用，版權歸作者所有。</p>",
+  "contentType": "text/html",
+  "type": "curseforge"
+}
